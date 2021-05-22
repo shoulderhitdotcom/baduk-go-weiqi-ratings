@@ -1,0 +1,10 @@
+[deps]
+Chain = "8be319e6-bccf-4806-a6f7-6fae938471bc"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DataFramesMeta = "1313f7d8-7da2-5740-9ea0-a2ca25f37964"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+JDF = "babc3d20-cd49-4f60-a736-a8f9c08892d3"
+LoopVectorization = "bdcacae8-1622-11e9-2a5c-532679323890"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"

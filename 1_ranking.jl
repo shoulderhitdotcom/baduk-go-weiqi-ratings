@@ -35,3 +35,7 @@ tbl = JDF.load("kifu-depot-games-with-sgf.jdf/") |> DataFrame
 # from_date, to_date = mad-Day(364), mad
 mad = maximum(tbl.date)
 @time pings, games, white75_advantage, black65_advantage= estimate_rating(mad-Day(364), mad; tbl);
+
+using Weave
+
+weave("index.jmd", out_path = "index.md", doctype = "github")

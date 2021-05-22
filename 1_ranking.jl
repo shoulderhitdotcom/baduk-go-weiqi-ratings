@@ -38,4 +38,18 @@ mad = maximum(tbl.date)
 
 using Weave
 
-weave("index.jmd", out_path = "index.md", doctype = "github")
+weave("index.jmd", out_path = "index-tmp.md", doctype = "github")
+
+open("index-tmp.md") do file
+    outfile = open("index.md", "w")
+    while !eof(file)
+        line = readline(file)
+        if line != "```"
+            write(outfile, line)
+            write(outfile, "\n")
+        end
+    end
+    close(outfile)
+end
+
+rm("index-tmp.md")

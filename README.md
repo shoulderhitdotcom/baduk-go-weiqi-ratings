@@ -1,0 +1,1 @@
+# baduk-go-weiqi-ratings

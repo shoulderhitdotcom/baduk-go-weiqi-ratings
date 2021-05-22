@@ -5,8 +5,7 @@ Rating Based on 4998 from 2020-05-22 to 2021-05-21
 * Ping is a reference to ancient Chinese Weiqi gradings
 
 
-| **Name** | **Rating** | **Games Played** | **Hanzi (汉字) Name** | **Ping (品
-）** |
+| **Name** | **Rating** | **Games Played** | **Hanzi (汉字) Name** | **Ping (品）** |
 | --- | --- | --- | --- | --- |
 | Shin Jinseo | 2801 | 77 | 申眞諝 | 10.005287791932176 | 
 | Weon Seongjin | 2737 | 28 | 元晟溱 | 9.6391453318306 |

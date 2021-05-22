@@ -13,8 +13,8 @@ using Revise: includet
 
 includet("utils.jl")
 
-if !isdir("kifu-depot-games-with-sgf.jdf/")
-    tbl = JDF.load("c:/weiqi/simulation/kifu-depot-games-with-sgf.jdf/") |> DataFrame
+if !isdir("kifu-depot-games-for-ranking.jdf/")
+    tbl = JDF.load("c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/") |> DataFrame
     tbl.date = parse.(Date, tbl.date)
     tbl.komi_fixed = replace(
         tbl.komi,
@@ -26,10 +26,10 @@ if !isdir("kifu-depot-games-with-sgf.jdf/")
     tbl = @where(tbl, in.(:komi_fixed, Ref((6.5, 7.5))))
     select!(tbl, Not([:sgf, :comp, :result, :kifu_link, :win_by, :komi]))
 
-    JDF.save("kifu-depot-games-with-sgf.jdf/", tbl)
+    JDF.save("kifu-depot-games-for-ranking.jdf/", tbl)
 end
 
-tbl = JDF.load("kifu-depot-games-with-sgf.jdf/") |> DataFrame
+tbl = JDF.load("kifu-depot-games-for-ranking.jdf/") |> DataFrame
 
 # for easy testing
 # from_date, to_date = mad-Day(364), mad

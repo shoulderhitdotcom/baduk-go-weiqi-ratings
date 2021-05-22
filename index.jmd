@@ -1,6 +1,6 @@
 ## Welcome to Baduk Go Weiqi Ratings
 
-Rating based on 4998 games from 2020-05-22 to 2021-05-21. One needs to have played more than 10 games with palyers who make the list over a 365 day period to make the list (I know the definition is abit recursive, but it works).
+Rating based on 4998 games from 2020-05-22 to 2021-05-21.
 
 \* Ping is a reference to ancient Chinese Weiqi gradings
 
@@ -28,6 +28,7 @@ pings_for_md = @chain pings begin
    @transform eng_name = coalesce.(eng_name.(:name), Ref(""));
    @transform Rating = @. round(Int, :ping * 400 / log(10) + OFFSET)
    @transform Rank = 1:length(:ping)
+   @transform ping = round.(:ping, digits=2)
    select!(:Rank, :eng_name=>"Name", :Rating, :n=>"Games Played", :name=>"Hanzi (汉字) Name", :ping => "Ping (品）*")
 end
 
@@ -38,7 +39,7 @@ df_to_md(pings_for_md)
 
 Using the **Rating** it is
 
-Probability that player with rating `r1` wins over someone with rating `r2` is `1/(1 + 10^(r2-r1))`
+Probability that player with rating `r1` wins over someone with rating `r2` is `1/(1 + 10^((r2-r1)/400))`
 
 Using the **Ping** it is
 
@@ -47,3 +48,5 @@ Probability that player with ping `p1` wins over someone with ping `p2` is `1/(1
 # Info
 
 I tried to set 10 ping to 3800 in rating.
+
+One needs to have played more than 10 games with players who make the list over a 365 day period to make the list (I know the definition is abit recursive, but it works).

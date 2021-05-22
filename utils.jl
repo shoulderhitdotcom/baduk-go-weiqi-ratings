@@ -1,5 +1,8 @@
+const AI = ["FineArt(絶芸)", "Golaxy", "韓豆", "BADUKi", "LeelaZero", "GLOBIS-AQZ", "Baduki", "DolBaram", "Raynz", "AlphaGo"]
+const INFREQUENT_THRESHOLD = 10
 
-function estimate_rating(from_date, to_date = from_date + Day(364))
+
+function estimate_rating(from_date, to_date = from_date + Day(364); tbl)
     tbl_1yr = @chain tbl begin
         @where .!in.(:black, Ref(AI))
         @where .!in.(:white, Ref(AI))

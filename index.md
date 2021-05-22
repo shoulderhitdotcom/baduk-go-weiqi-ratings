@@ -1,8 +1,8 @@
 ## Welcome to Baduk Go Weiqi Ratings
 
-Rating Based on 4998 from 2020-05-22 to 2021-05-21
+Rating based on 4998 games from 2020-05-22 to 2021-05-21.
 
-* Ping is a reference to ancient Chinese Weiqi gradings
+\* Ping is a reference to ancient Chinese Weiqi gradings
 
 
 | **Name** | **Rating** | **Games Played** | **Hanzi (汉字) Name** | **Ping (品）** |
@@ -323,3 +323,17 @@ Rating Based on 4998 from 2020-05-22 to 2021-05-21
 | missing | 993 | 19 | 劉一芳 | -0.40354168955718683 |
 | Su Shengfang | 984 | 15 | 蘇聖芳 | -0.4540132831079408 |
 | Dang Xiyun | 908 | 14 | 党希昀 | -0.8895175687917707 |
+
+# How to compute predicted win percentange?
+
+Using the **Rating** it is
+
+Probability that player with rating `r1` wins over someone with rating `r2` is `1/(1 + 10^(r2-r1))`
+
+Using the **Ping** it is
+
+Probability that player with ping `p1` wins over someone with ping `r2` is `1/(1 + exp^(p2-p1))`
+
+# Info
+
+I tried to set 10 ping to 2800 in rating.

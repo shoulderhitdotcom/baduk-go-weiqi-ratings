@@ -1,6 +1,6 @@
 ## Welcome to Baduk Go Weiqi Ratings
 
-Rating based on 4998 games from 2020-05-22 to 2021-05-21.
+Rating based on 4998 games from 2020-05-22 to 2021-05-21. One needs to have played more than 10 games with palyers who make the list over a 365 day period to make the list (I know the definition is abit recursive, but it works). 
 
 \* Ping is a reference to ancient Chinese Weiqi gradings
 

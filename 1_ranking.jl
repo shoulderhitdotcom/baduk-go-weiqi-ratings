@@ -74,8 +74,14 @@ end
 
 rm("index-tmp.md")
 
-;`git status`
-
+try
+    run(`git add index.md`)
+    run(`git commit -m "daily update $to_date"`)
+    run(`git push`)
+catch e
+    println(e)
+    alert()
+end
 ## make a GLM solution
 ## Doesn't work
 

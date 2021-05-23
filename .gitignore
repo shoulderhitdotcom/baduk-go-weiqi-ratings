@@ -25,3 +25,10 @@ Manifest.toml
 
 pings.jdf
 namesdb
+kifu-depot-games-for-ranking.jdf/black
+kifu-depot-games-for-ranking.jdf/date
+kifu-depot-games-for-ranking.jdf/komi_fixed
+kifu-depot-games-for-ranking.jdf/metadata.jls
+kifu-depot-games-for-ranking.jdf/white
+kifu-depot-games-for-ranking.jdf/who_win
+*.gz

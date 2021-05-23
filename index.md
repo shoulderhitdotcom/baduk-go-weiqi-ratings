@@ -4,13 +4,7 @@ The ratings are based on 5005 games from 2020-05-23 to 2021-05-22.
 
 ^ Ping is a reference to ancient Chinese Weiqi gradings
 
-Error: MethodError: no method matching -(::Int64, ::Vector{Float64})
-For element-wise subtraction, use broadcasting with dot syntax: scalar .- array
-Closest candidates are:
-  -(::Union{Int128, Int16, Int32, Int64, Int8, UInt128, UInt16, UInt32, UInt64, UInt8}) at int.jl:85
-  -(::T, !Matched::T) where T<:Union{Int128, Int16, Int32, Int64, Int8, UInt128, UInt16, UInt32, UInt64, UInt8} at int.jl:86
-  -(::Union{Int16, Int32, Int64, Int8, UInt16, UInt32, UInt64, UInt8}, !Matched::VectorizationBase.VecUnroll{N, W, T, VectorizationBase.MM{W, X, T}}) where {N, W, T<:Union{Int16, Int32, Int64, Int8, UInt16, UInt32, UInt64, UInt8}, X} at C:\Users\RTX2080\.julia\packages\VectorizationBase\bp5Oh\src\base_defs.jl:91
-  ...
+Error: syntax: invalid syntax "11.-"; add space(s) to clarify
 
 
 

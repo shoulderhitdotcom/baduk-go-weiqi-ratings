@@ -2,7 +2,7 @@
 
 The ratings are based on {{ngames}} games from {{from_date}} to {{to_date}}.
 
-\* Ping is a reference to ancient Chinese Weiqi gradings
+^ Ping is a reference to ancient Chinese Weiqi gradings
 
 ```{julia; echo=false; line_width=888}
 using DataFrames, JDF, Chain, DataFramesMeta
@@ -28,8 +28,8 @@ pings_for_md = @chain pings begin
    @transform eng_name = coalesce.(eng_name.(:name), Ref(""));
    @transform Rating = @. round(Int, :ping * 400 / log(10) + OFFSET)
    @transform Rank = 1:length(:ping)
-   @transform ping = round.(:ping, digits=2)
-   select!(:Rank, :eng_name=>"Name", :Rating, :n=>"Games Played", :name=>"Hanzi (汉字) Name", :ping => "Ping (品）\*  ")
+   @transform ping = round.(11-:ping, digits=2)
+   select!(:Rank, :eng_name=>"Name", :Rating, :n=>"Games Played", :name=>"Hanzi (汉字) Name", :ping => "Ping (品）^")
 end
 
 df_to_md(pings_for_md)

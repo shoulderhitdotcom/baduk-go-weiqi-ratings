@@ -1,6 +1,6 @@
 ## Welcome to Baduk Go Weiqi Ratings
 
-Rating based on {{ngames}} games from {{from_date}} to {{to_date}}.
+The ratings are based on {{ngames}} games from {{from_date}} to {{to_date}}.
 
 \* Ping is a reference to ancient Chinese Weiqi gradings
 
@@ -29,7 +29,7 @@ pings_for_md = @chain pings begin
    @transform Rating = @. round(Int, :ping * 400 / log(10) + OFFSET)
    @transform Rank = 1:length(:ping)
    @transform ping = round.(:ping, digits=2)
-   select!(:Rank, :eng_name=>"Name", :Rating, :n=>"Games Played", :name=>"Hanzi (汉字) Name", :ping => "Ping (品）*  ")
+   select!(:Rank, :eng_name=>"Name", :Rating, :n=>"Games Played", :name=>"Hanzi (汉字) Name", :ping => "Ping (品）\*  ")
 end
 
 df_to_md(pings_for_md)

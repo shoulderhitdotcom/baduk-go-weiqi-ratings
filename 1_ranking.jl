@@ -1,6 +1,6 @@
 const PATH = "c:/git/baduk-go-weiqi-ratings/"
-
 using Pkg; Pkg.activate(PATH); cd(PATH)
+using Revise: includet
 using DataFrames, DataFramesMeta, Chain
 using Serialization: deserialize
 using Dates: Date, Day
@@ -74,6 +74,7 @@ end
 
 rm("index-tmp.md")
 
+using Alert: alert
 try
     run(`git add index.md`)
     run(`git commit -m "daily update $to_date"`)

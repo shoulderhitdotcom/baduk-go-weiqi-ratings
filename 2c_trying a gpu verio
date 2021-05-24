@@ -1,0 +1,43 @@
+m, y, players = estimate_rating(mad-Day(364), mad; tbl);
+
+@time estimate_rating(mad-Day(364), mad; tbl);
+
+using CUDA
+CUDA.allowscalar(false)
+
+using Flux: Dense
+
+nc = size(m,2)
+cm = cu(m |> transpose |> collect)
+
+model = Flux.Chain(
+    Dense(zeros(1, nc) .+ 5, false),
+    x-> 1 ./ (1 .+ exp.(-x)),
+    vec
+) |> gpu
+
+function loss(cm, cy)
+    p = model(cm)
+    -sum(cy.*log.(p) + (1 .- cy).* log.(1 .- p))
+end
+
+function train!(cm, cy; maxit=100_000)
+    last_loss = loss(cm, cy)
+    opt = ADAM()
+    @time for i in 1:maxit
+        if mod(i, 1000) == 0
+            new_loss = loss(cm, cy)
+            if (last_loss - new_loss) < 0.01
+                println("$i iterations ran")
+                return params(model)[1] |> vec |> cpu
+            else
+                last_loss = new_loss
+            end
+        end
+        Flux.train!(loss, params(model), [(cm, cy)], opt)
+    end
+end
+
+@time ping = train!(cm, cy);
+
+df = DataFrame(name = players, ping = strength)

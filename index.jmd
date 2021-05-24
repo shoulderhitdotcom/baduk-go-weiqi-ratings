@@ -5,32 +5,12 @@ The ratings are based on {{ngames}} games from {{from_date}} to {{to_date}}.
 ^ Ping is a reference to ancient Chinese Weiqi gradings
 
 ```{julia; echo=false; line_width=888}
-using DataFrames, JDF, Chain, DataFramesMeta
+using JDF
+using DataFrames: DataFrame
 
 include("c:/weiqi/simulation/utils.jl")
-pings = JDF.load("pings.jdf") |> DataFrame
 
-using BadukGoWeiqiTools: NAMESDB
-
-# NAMESDB = create_names_db(NAME_DB_JSON; force=true)
-
-function eng_name(name)
-    try
-        NAMESDB[name]
-    catch _
-        return missing
-    end
-end
-
-const OFFSET = 3800-10/log(10)*400
-pings_for_md = @chain pings begin
-   @where :n .> 10
-   @transform eng_name = coalesce.(eng_name.(:name), Ref(""));
-   @transform Rating = @. round(Int, :ping * 400 / log(10) + OFFSET)
-   @transform Rank = 1:length(:ping)
-   @transform ping = round.(11-:ping, digits=2)
-   select!(:Rank, :eng_name=>"Name", :Rating, :n=>"Games Played", :name=>"Hanzi (汉字) Name", :ping => "Ping (品）^")
-end
+pings_for_md = JDF.load("pings_for_md.jdf") |> DataFrame
 
 df_to_md(pings_for_md)
 ```
@@ -47,10 +27,4 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 
 Using the **Ping** it is
 
-Probability that player with ping `p1` wins over someone with ping `p2` is `1/(1 + exp^(p2-p1))`
-
-# Info
-
-I tried to set 10 ping to 3800 in rating.
-
-One needs to have played more than 10 games with players who make the list over a 365 day period to make the list (I know the definition is abit recursive, but it works).
+Probability that player with ping `p1` wins over someone with ping `p2` is `1/(1 + exp^(p1-p2))`

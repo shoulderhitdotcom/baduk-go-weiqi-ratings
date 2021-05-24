@@ -1,6 +1,6 @@
 ## Welcome to Baduk Go Weiqi Ratings
 
-The ratings are based on 5008 games from 2020-05-24 to 2021-05-23.
+The ratings are based on 5019 games from 2020-05-25 to 2021-05-24.
 
 | **Rank** | **Name** | **Rating** | **Uncertainty** | **5% CI Lower Bound Rating for ranking** | **Games Played** | **Hanzi (汉字) Name** | 
 | --- | --- | --- | --- | --- | --- | --- |

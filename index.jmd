@@ -2,8 +2,6 @@
 
 The ratings are based on {{ngames}} games from {{from_date}} to {{to_date}}.
 
-^ Ping is a reference to ancient Chinese Weiqi gradings
-
 ```{julia; echo=false; line_width=888}
 using JDF
 using DataFrames: DataFrame
@@ -17,14 +15,10 @@ df_to_md(pings_for_md)
 
 # How to compute predicted win percentange?
 
-White 7.5 komi advantage is estimated to be {{elo_white75_adv}} in Elo and {{ping_white75_adv}} in Ping
+White 7.5 komi advantage is estimated to be {{elo_white75_adv}} in Elo
 
-Black 6.5 komi advantage is estimated to be {{elo_black65_adv}} in Elo and {{ping_black65_adv}} in Ping
+Black 6.5 komi advantage is estimated to be {{elo_black65_adv}} in Elo
 
 Using the **Elo Rating** it is
 
 Probability that player with rating `r1` wins over someone with rating `r2` is `1/(1 + 10^((r2-r1)/400))`
-
-Using the **Ping** it is
-
-Probability that player with ping `p1` wins over someone with ping `p2` is `1/(1 + exp^(p1-p2))`

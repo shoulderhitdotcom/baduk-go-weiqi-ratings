@@ -1,5 +1,15 @@
 using RCall
 using Missings: disallowmissing, skipmissing
+using BadukGoWeiqiTools: NAMESDB
+
+function eng_name(name)
+    try
+        NAMESDB[name]
+    catch _
+        return missing
+    end
+end
+
 
 const AI = ["FineArt(絶芸)", "Golaxy", "韓豆", "BADUKi", "LeelaZero", "GLOBIS-AQZ", "Baduki", "DolBaram", "Raynz", "AlphaGo"]
 const INFREQUENT_THRESHOLD = 10

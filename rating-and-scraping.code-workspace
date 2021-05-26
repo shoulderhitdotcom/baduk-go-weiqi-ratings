@@ -1,0 +1,13 @@
+{
+	"folders": [
+        {
+            "path": "..\\..\\weiqi\\web-scraping"
+        },
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "julia.environmentPath": "c:\\git\\baduk-go-weiqi-ratings\\"
+    }
+}

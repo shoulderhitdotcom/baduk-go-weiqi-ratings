@@ -1,7 +1,6 @@
 [deps]
 Alert = "28312eec-4d86-447d-83ad-bc2b262de792"
 BadukGoWeiqiTools = "71566503-fddc-4190-936c-ecb38fefcffd"
-CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
 Cascadia = "54eefc05-d75b-58de-a785-1a3403f0919f"
 Chain = "8be319e6-bccf-4806-a6f7-6fae938471bc"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"

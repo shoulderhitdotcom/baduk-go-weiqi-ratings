@@ -65,15 +65,6 @@ end
 
 #JDF.save("pings.jdf/", pings)
 
-using BadukGoWeiqiTools: NAMESDB
-
-function eng_name(name)
-    try
-        NAMESDB[name]
-    catch _
-        return missing
-    end
-end
 
 const OFFSET = 3800-6.5/log(10)*400
 #infrequent_threshold = 8
@@ -103,6 +94,7 @@ replacements = (
     "{{elo_black65_adv}}" => string(round(Int, black65_advantage*400/log(10))),
     "{{ping_white75_adv}}" => string(round(white75_advantage, digits=2)),
     "{{ping_black65_adv}}" => string(round(black65_advantage, digits=2)),
+    "Ke Jie" => "[Ke Jie](kejie.md)",
 )
 
 using Weave

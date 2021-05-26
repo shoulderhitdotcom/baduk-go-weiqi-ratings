@@ -33,3 +33,6 @@ kifu-depot-games-for-ranking.jdf/white
 kifu-depot-games-for-ranking.jdf/who_win
 *.gz
 tmp-df-pls-del.csv
+workspace.code-workspace
+JuliaSysimage.dll
+.vscode/tasks.json

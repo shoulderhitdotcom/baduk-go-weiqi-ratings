@@ -5,7 +5,7 @@ The ratings are based on 5006 games from 2020-05-27 to 2021-05-26.
 | **Rank** | **Name** | **Rating** | **Uncertainty** | **5% CI Lower Bound Rating for ranking** | **Games Played** | **Hanzi (汉字) Name** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Shin Jinseo | 3825 | ±147 | 3534 | 83 | 申眞諝 | 
-| 2 | Ke Jie | 3713 | ±146 | 3424 | 64 | 柯潔 | 
+| 2 | [Ke Jie](kejie.md) | 3713 | ±146 | 3424 | 64 | 柯潔 | 
 | 3 | Weon Seongjin | 3738 | ±168 | 3407 | 28 | 元晟溱 | 
 | 4 | Park Junghwan | 3670 | ±144 | 3387 | 84 | 朴廷桓 | 
 | 5 | Gu Zihao | 3667 | ±147 | 3378 | 58 | 辜梓豪 | 

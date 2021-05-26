@@ -1,6 +1,6 @@
 ## So Kofuku Games
 
-[Back to ranking](index.md)
+[Back to ranking](../../index.md)
 
 
 

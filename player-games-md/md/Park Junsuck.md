@@ -1,11 +1,11 @@
 ## Park Junsuck Games
 
-[Back to ranking](index.md)
+[Back to ranking](../../index.md)
 
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+julia> | **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
 | --- | --- | --- | --- | --- | --- | --- |
 | 2019-2020KBフューチャーズリーグ第18節第4試合第1局 | missing | Park Junsuck | W+R | 2020-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w%2B%2Bpsx6F%2B0bH9D6LoQjvEw%3D%3D) | 
 | 2019-2020KBフューチャーズリーグ第16節第1試合第1局 | Hong Kipyo | Park Junsuck | B+R | 2020-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3DLFXOQ2K3oKuvJMhpKH8A%3D%3D) | 

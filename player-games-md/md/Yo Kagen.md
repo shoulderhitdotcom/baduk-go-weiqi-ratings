@@ -1,6 +1,6 @@
 ## Yo Kagen Games
 
-[Back to ranking](index.md)
+[Back to ranking](../../index.md)
 
 
 

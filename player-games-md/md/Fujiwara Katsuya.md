@@ -1,6 +1,6 @@
 ## Fujiwara Katsuya Games
 
-[Back to ranking](index.md)
+[Back to ranking](../../index.md)
 
 
 

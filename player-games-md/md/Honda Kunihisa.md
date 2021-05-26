@@ -1,6 +1,6 @@
 ## Honda Kunihisa Games
 
-[Back to ranking](index.md)
+[Back to ranking](../../index.md)
 
 
 

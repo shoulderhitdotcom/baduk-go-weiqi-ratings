@@ -1,6 +1,6 @@
 ## Gao Tianliang Games
 
-[Back to ranking](index.md)
+[Back to ranking](../../index.md)
 
 
 

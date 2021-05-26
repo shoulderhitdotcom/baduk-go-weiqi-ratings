@@ -1,6 +1,6 @@
 ## Takahashi Masumi Games
 
-[Back to ranking](index.md)
+[Back to ranking](../../index.md)
 
 
 

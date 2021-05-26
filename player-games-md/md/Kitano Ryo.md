@@ -1,6 +1,6 @@
 ## Kitano Ryo Games
 
-[Back to ranking](index.md)
+[Back to ranking](../../index.md)
 
 
 

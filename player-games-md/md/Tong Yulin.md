@@ -1,6 +1,6 @@
 ## Tong Yulin Games
 
-[Back to ranking](index.md)
+[Back to ranking](../../index.md)
 
 
 

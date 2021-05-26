@@ -6,8 +6,6 @@ using Chain: @chain
 using Serialization: deserialize
 using Dates: Date, Day
 using StatsBase
-# using Optim: optimize, BFGS
-using LoopVectorization
 using JDF
 using CSV
 using Alert
@@ -15,30 +13,35 @@ using Revise: includet
 
 includet("utils.jl")
 
-tbl_from_somewhere = JDF.load("c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/") |> DataFrame
-tbl_from_somewhere.date = parse.(Date, tbl_from_somewhere.date)
-tbl_from_somewhere.komi_fixed = replace(
-    tbl_from_somewhere.komi,
-    6.4 => 6.5,
-    8.0 => 7.5,
-    750 => 7.5,
-    605.0 => 6.5
-)
-
-df = @where(tbl_from_somewhere, in.(:komi_fixed, Ref((6.5, 7.5))))
-
-kejie = @chain df begin
+df = @chain "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
+    JDF.load()
+    DataFrame
+    @transform date = parse.(Date, :date)
+    @transform komi_fixed = replace(
+        :komi,
+        6.4 => 6.5,
+        8.0 => 7.5,
+        750 => 7.5,
+        605.0 => 6.5)
+    @where in.(:komi_fixed, Ref((6.5, 7.5)))
     @transform black = eng_name.(:black)
     @transform white = eng_name.(:white)
-    @where ("Ke Jie" .== :black) .| ("Ke Jie".== :white)
     sort!(:date, rev=true)
-    @transform kifu = "[Kifu](https://kifudepot.org/" .* :kifu_link .* ")"
+    @transform kifu = "[Kifu](https://kifudepot.net/" .* :kifu_link .* ")"
     select!(Not([:sgf, :komi, :who_win, :win_by, :kifu_link]))
 end
 
-JDF.save("./player-games/kejie.jdf", kejie)
+# for each player create the players's page
+for name in vcat(df.black, df.white) |> unique
+    if !ismissing(name)
+        @chain df begin
+            @where (:black .== name) .| (:white .== name)
+            JDF.save("./player-games/$name.jdf", _)
+        end
+    end
+end
 
-using Weave
 
-weave("kejie.jmd", out_path = "kejie.md", doctype = "github")
+
+
 

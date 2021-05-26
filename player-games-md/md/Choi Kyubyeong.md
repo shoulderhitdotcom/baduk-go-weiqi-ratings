@@ -1,0 +1,143 @@
+## Choi Kyubyeong Games
+
+[Back to ranking](index.md)
+
+
+
+
+| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| --- | --- | --- | --- | --- | --- | --- |
+| 第4期韓国竜星戦1回戦 | Choi Kyubyeong | missing | W+T | 2021-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UZzAVH8h3oaQzHI5qGKSgg%3D%3D) | 
+| 第8回大舟杯プロシニア最強者戦予選 | Choi Kyubyeong | Park Shiun | W+1.5 | 2021-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hOASMalb1U8hBxLapvfAkQ%3D%3D) | 
+| 第22回マキシムコーヒー杯入神最強戦1回戦 | Choi Kyubyeong | Heo Yongho | W+R | 2021-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BnQ1af8JM%2FpJ9DB3SM5LpA%3D%3D) | 
+| 2020NHシニア囲碁リーグ第14節第4試合第2局 | An Kwanwuk | Choi Kyubyeong | W+1.5 | 2020-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n27SV7ducstK3J9eKyIphQ%3D%3D) | 
+| 2020NHシニア囲碁リーグ第13節第1試合第3局 | Choi Kyubyeong | Cho Daehyeon | B+6.5 | 2020-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E3EwwiVU%2F74TEhex1wqdjA%3D%3D) | 
+| 2020NHシニア囲碁リーグ第12節第1試合第2局 | Kang Hun | Choi Kyubyeong | W+1.5 | 2020-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PRDa4ruekD0bvvyGYQd39Q%3D%3D) | 
+| 2020NHシニア囲碁リーグ第11節第1試合第1局 | Choi Kyubyeong | Kim Soojang | W+R | 2020-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wX%2BfDVE%2BmmwKG7h9%2BM%2FyQg%3D%3D) | 
+| 2020NHシニア囲碁リーグ第10節第3試合第2局 | Choi Kyubyeong | Oh Kyuchul | W+R | 2020-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tdhIIvuPZCqTgO7AZxHw6g%3D%3D) | 
+| 2020NHシニア囲碁リーグ第9節第2試合第1局 | Choi Kyubyeong | Kim Chuljung | B+18.5 | 2020-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m2BhsgbzeN%2FkIl5Sf8R0Ng%3D%3D) | 
+| 2020NHシニア囲碁リーグ第8節第2試合第1局 | Kim JongJoon | Choi Kyubyeong | W+5.5 | 2020-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z%2BDJfytkn7I19wzA9zUKow%3D%3D) | 
+| 第25回三星火災杯韓国シニア枠予選 | Lee Changho | Choi Kyubyeong | B+1.5 | 2020-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OXj5w4C4Mq9WagRLH057jw%3D%3D) | 
+| 第25回三星火災杯韓国シニア枠予選 | Choi Kyubyeong | Seo Nungwuk | B+7.5 | 2020-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QAH1j8lcKf9WRjJXuUwmVQ%3D%3D) | 
+| 2020NHシニア囲碁リーグ第7節第1試合第1局 | Choi Kyubyeong | Yoo Changhyuk | W+R | 2020-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MGmDDoDS6TXlrSLfkpO1YA%3D%3D) | 
+| 2020NHシニア囲碁リーグ第6節第4試合第1局 | Seo Bongsoo | Choi Kyubyeong | B+8.5 | 2020-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hIMjy%2BZtePQBRPWdBBo52g%3D%3D) | 
+| 2020NHシニア囲碁リーグ第5節第4試合第1局 | Choi Kyubyeong | Kim Chongsu | W+R | 2020-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rDqVlk7b2%2FlKhjQ8MDlnTw%3D%3D) | 
+| 2020NHシニア囲碁リーグ第4節第4試合第1局 | Choi Kyubyeong | Kim Soojang | W+3.5 | 2020-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gK%2B5NrXDWmFweinGIBJc5g%3D%3D) | 
+| 2020NHシニア囲碁リーグ第3節第2試合第1局 | Jimmy Cha | Choi Kyubyeong | W+3.5 | 2020-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o9g6FGrfhmavV6JS5Z4JrA%3D%3D) | 
+| 2020NHシニア囲碁リーグ第2節第3試合第1局 | Kim Ilhwan | Choi Kyubyeong | B+3.5 | 2020-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a9CojLeK%2BP4VMk5oF7bZnw%3D%3D) | 
+| 2020NHシニア囲碁リーグ第1節第3試合第1局 | Seo Nungwuk | Choi Kyubyeong | W+11.5 | 2020-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xjs7otcHAUi2cSv%2Fkazr7Q%3D%3D) | 
+| 第25回LG杯韓国予選 | An Jungki | Choi Kyubyeong | B+7.5 | 2020-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZU79FILfa5GLbBKiqAm3mA%3D%3D) | 
+| 第7回大舟杯プロシニア最強者戦8強戦 | Choi Kyubyeong | Yoo Changhyuk | W+1.5 | 2020-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KNT%2BXSaMAc0ZeCY5hDaCFg%3D%3D) | 
+| 第7回大舟杯プロシニア最強者戦16強戦 | missing | Choi Kyubyeong | W+R | 2020-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jYD7vuy8skofWpAFKQTuBA%3D%3D) | 
+| 第21回マキシムコーヒー杯入神最強戦2回戦 | Kang Dongyun | Choi Kyubyeong | B+R | 2020-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IUIvjr2T2aUMRcbub5cVoQ%3D%3D) | 
+| 第21回マキシムコーヒー杯入神最強戦1回戦 | Choi Kyubyeong | Yang Jaeho | B+2.5 | 2020-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1U07y%2B95ayK87Cixy5VELQ%3D%3D) | 
+| 第6回大舟杯プロシニア最強者戦決勝 | Choi Kyubyeong | Cho Hyeyeon | B+3.5 | 2019-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9WTN%2FvejwZnDjWwifcVt2A%3D%3D) | 
+| 第6回大舟杯プロシニア最強者戦準決勝 | Kim Hyeoimin | Choi Kyubyeong | W+0.5 | 2019-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4H4WAKXUl4imiq8pAGkbdQ%3D%3D) | 
+| 2019年1004島新安国際シニア囲碁大会韓国国内予選 | Choi Kyubyeong | Seo Nungwuk | W+4.5 | 2019-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NaTfXmxbrMRGBkTpTCjzzw%3D%3D) | 
+| 第6回大舟杯プロシニア最強者戦8強戦 | Choi Kyubyeong | Yoo Changhyuk | B+R | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=58U32cIwwsX0c6tVxq4o3g%3D%3D) | 
+| 第6回大舟杯プロシニア最強者戦16強戦 | Seo Nungwuk | Choi Kyubyeong | W+R | 2019-03-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=65A7TRpKZWRyGs6jSoCV5Q%3D%3D) | 
+| 第12回GGオークション杯女流対シニア連勝対抗戦第9局 | Kang Dajeong | Choi Kyubyeong | B+R | 2018-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GTJPMWnGg5rM%2Bbu20ijIeQ%3D%3D) | 
+| 第12回GGオークション杯女流対シニア連勝対抗戦第8局 | missing | Choi Kyubyeong | W+R | 2018-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mDvWpNTf6KnWTRZvvCfjxQ%3D%3D) | 
+| 第2回世界シニア囲碁大会選抜戦 | Seo Nungwuk | Choi Kyubyeong | B+0.5 | 2018-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ForEPwytBPJ7CDwcLRfpkQ%3D%3D) | 
+| 第5回大舟杯プロシニア最強者戦1回戦 | Choi Kyubyeong | Kim Ilhwan | W+5.5 | 2018-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bMYYTjQlZ1OOyADZJexFHw%3D%3D) | 
+| 第11回GGオークション杯女流対シニア連勝対抗戦第10戦 | Kim Dayoung | Choi Kyubyeong | B+R | 2017-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SOG2A8XWcnZKKse2ac14gw%3D%3D) | 
+| 第22回三星火災杯統合予選決勝 | Choi Kyubyeong | Komatsu Hideki | W+3.5 | 2017-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A%2FXUr4CNaMrk8JvalKi97A%3D%3D) | 
+| 第1期世界元老戦韓国選抜決勝 | Paek Seongho | Choi Kyubyeong | B+2.5 | 2017-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s8%2FdFO0WWzd53TxfA8httA%3D%3D) | 
+| 第18回マキシムコーヒー杯入神最強戦1回戦 | Lee Changho | Choi Kyubyeong | B+R | 2017-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wvgMHX1RKEKIOERwr4r%2Fug%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Kim Ilhwan | Choi Kyubyeong | B+R | 2016-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=annK%2FfGTSwgMiKbRac9gmw%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Yoo Changhyuk | Choi Kyubyeong | B+R | 2016-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v0EH8iDRI1lTKT3vPp%2FBQg%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Seo Bongsoo | Choi Kyubyeong | B+R | 2016-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pxZbjWgIvPSJuJczUOqw9w%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Seo Nungwuk | Choi Kyubyeong | B+10.5 | 2016-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ngIUaPAfSyX%2BFHWuISyR2Q%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Choi Kyubyeong | Kim Soojang | W+1.5 | 2016-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=huJ4HZgDQWmbFmbxKwhmgg%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Choi Kyubyeong | Kim Ilhwan | B+7.5 | 2016-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fDwn8DV5An3FJwwnhIeQRw%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Choi Kyubyeong | Yoo Changhyuk | W+R | 2016-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F19rF3lNM9mBGn9cW9vVyQ%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Seo Bongsoo | Choi Kyubyeong | B+R | 2016-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ff%2BzF%2Fc7lOC8rRKvK2naEg%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Choi Kyubyeong | Seo Nungwuk | B+R | 2016-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B%2BPi4Hgxgh9r04qHKm8Kxw%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Kim Soojang | Choi Kyubyeong | B+R | 2016-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UHaxV31U9hKde5zNkhbg%2Fw%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Choi Kyubyeong | Cho Hunhyun | W+R | 2016-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yw3ubbgTkaEnCb7JYN7kZw%3D%3D) | 
+| 第17回マキシムコーヒー杯入神最強戦1回戦 | Choi Kyubyeong | Weon Seongjin | W+1.5 | 2016-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mLC13kmWhr428hRqhS8a3Q%3D%3D) | 
+| 第9回GGオークション杯女流対シニア連勝対抗戦第6戦 | Choi Kyubyeong | Lee Sula | W+R | 2015-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mWvjNSckylSaYc0jVzSywg%3D%3D) | 
+| 第16回マキシムコーヒー杯入神最強戦2回戦 | Choi Kyubyeong | Choi Cheolhan | W+R | 2015-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vHD%2F5G99sjqetcshkfgbbg%3D%3D) | 
+| 第16回マキシムコーヒー杯入神最強戦1回戦 | Choi Kyubyeong | Kang Jiseong | B+R | 2014-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gd7DRXtiUO5u8tvTRccRsg%3D%3D) | 
+| 2014-2015年シニア囲碁クラシック棋王戦準決勝 | Seo Bongsoo | Choi Kyubyeong | B+10.5 | 2014-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NkqfxlpG0IHJ80fCJQyeug%3D%3D) | 
+| 2014-2015年シニア囲碁クラシック棋王戦準々決勝 | missing | Choi Kyubyeong | W+T | 2014-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OjWMVycANqbHU92La5SbKA%3D%3D) | 
+| 2014-2015年シニア囲碁クラシック王位戦準々決勝 | Cho Daehyeon | Choi Kyubyeong | B+R | 2014-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RJAG1o%2ByrzplOwNXYYRvGA%3D%3D) | 
+| 第8回GGオークション杯女流対シニア連勝対抗戦第9戦 | Choi Kyubyeong | Park Taehee | W+4.5 | 2014-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qb1AHeUqXdpArbqRIPzR%2Bg%3D%3D) | 
+| 2014-2015年シニア囲碁クラシック国手戦決勝 | Choi Kyubyeong | Kim Ilhwan | B+11.5 | 2014-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FHGjmCJhipaPokw4nTK%2B%2BA%3D%3D) | 
+| 2014-2015年シニア囲碁クラシック国手戦準決勝 | Choi Kyubyeong | Seo Bongsoo | B+4.5 | 2014-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DKHFRgQIB7irSfyls8egFA%3D%3D) | 
+| 第4回大舟杯プロシニア最強者戦決勝 | Choi Kyubyeong | Cho Hunhyun | W+R | 2013-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DqgSk%2Bish8ptPO74U7VWnw%3D%3D) | 
+| 第4回大舟杯プロシニア最強者戦準決勝 | Choi Kyubyeong | Seo Bongsoo | B+R | 2013-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f7u0Xm0POtHh1wIAgNB8EA%3D%3D) | 
+| 第4回大舟杯プロシニア最強者戦2回戦 | Choi Kyubyeong | Kim Dongmyeon | B+4.5 | 2013-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BW44YrOSH8XXsC2mnjyIfA%3D%3D) | 
+| 第7回GGオークション杯女流対シニア連勝対抗戦第6戦 | Choi Kyubyeong | Cho Hyeyeon | W+R | 2013-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=opII3fV8t693MzvPHJUcDg%3D%3D) | 
+| 第8期圓益杯十段戦1回戦 | Choi Kyubyeong | Park Kyuongkeun | W+R | 2012-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K6R1coAnDnGk85X%2Fz%2FZvdQ%3D%3D) | 
+| 第14回マキシムコーヒー杯入神最強戦1回戦 | Choi Kyubyeong | Cho Hyeyeon | W+R | 2012-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NwvVetfuJQreIBpVFWallQ%3D%3D) | 
+| 第3回BCカード杯世界選手権1回戦 | Choi Kyubyeong | Choi Cheolhan | W+R | 2011-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3JmGvvGWvueMvijrdJtoXg%3D%3D) | 
+| 第12回マキシムコーヒー杯入神最強戦2回戦 | Choi Kyubyeong | Lee Changho | W+R | 2011-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CJJvw%2FW8QHNIaCcB5%2FxBEg%3D%3D) | 
+| 第12回マキシムコーヒー杯入神最強戦1回戦 | Kim Dongmyeon | Choi Kyubyeong | W+R | 2010-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8rR20bz9D8Ks5sU7uk1gCA%3D%3D) | 
+| 第4回GGオークション杯女流対シニア連勝対抗戦第20戦 | Choi Kyubyeong | Rui Naiwei | W+R | 2010-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gYbiB7rxvTMxwv2LySQdRA%3D%3D) | 
+| 第14回三星火災杯世界囲碁マスターズ1回戦A2 | Choi Kyubyeong | Qiu Jun | W+R | 2009-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Og5AL1QYF1RTx0jghx74Nw%3D%3D) | 
+| 第14回三星火災杯世界囲碁マスターズ1回戦A1 | Choi Kyubyeong | Yamashita Keigo | W+4.5 | 2009-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YTEzOEWb2f%2Bj2t128quVyA%3D%3D) | 
+| 第5期圓益杯十段戦1回戦 | Choi Kyubyeong | missing | W+R | 2009-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cZMcsQiHH2Fu7abfAwFaTA%3D%3D) | 
+| 第3回GGオークション杯女流対シニア連勝対抗戦第18戦 | Choi Kyubyeong | Cho Hyeyeon | B+8.5 | 2009-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y7YGCP2F8ak%2Bzbp69VJhBg%3D%3D) | 
+| 第1回BCカード杯世界選手権2回戦 | Chang Hao | Choi Kyubyeong | B+R | 2009-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Oc7ZilBBv%2BjgLfPzvuMu8A%3D%3D) | 
+| 第1回BCカード杯世界選手権1回戦 | Niu Yutian | Choi Kyubyeong | W+R | 2009-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sj6pHE5q3hsPo4VS6YEUIw%3D%3D) | 
+| 第2回GGオークション杯女流対シニア連勝対抗戦第18戦 | Park Shiun | Choi Kyubyeong | B+R | 2008-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MTSjsh98b9j9Q4Lsaf9Ixw%3D%3D) | 
+| 第2回GGオークション杯女流対シニア連勝対抗戦第17戦 | Choi Kyubyeong | Rui Naiwei | B+1.5 | 2008-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dQgesgRBsSG6IBjcYk7CZQ%3D%3D) | 
+| 第9回マキシムコーヒー杯入神最強戦4回戦 | Cho Daehyeon | Choi Kyubyeong | B+2.5 | 2007-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JRzYQkcohgxswDUDoM01ag%3D%3D) | 
+| 第9回マキシムコーヒー杯入神最強戦3回戦 | missing | Choi Kyubyeong | W+R | 2007-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RS2b8GxFJFg2JkODjfa1SQ%3D%3D) | 
+| 第4期電子ランド杯王中王戦2回戦 | An Joyeong | Choi Kyubyeong | B+5.5 | 2007-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rBVDbcucbMBlvtzvrA1IIw%3D%3D) | 
+| 第4期電子ランド杯王中王戦1回戦 | Choi Kyubyeong | Rui Naiwei | B+R | 2007-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KGzuQUnt11kvwWlIFI0rvQ%3D%3D) | 
+| 第8回マキシムコーヒー杯入神最強戦3回戦 | Lee Sedol | Choi Kyubyeong | B+R | 2006-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hW0cTUNlJG67%2FUJ%2Bg5%2BWeg%3D%3D) | 
+| 第18期棋聖戦（韓国）2回戦 | Song Taekon | Choi Kyubyeong | B+R | 2006-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jElRvqTUsGdnauWKs%2F6Kaw%3D%3D) | 
+| 第18期棋聖戦（韓国）1回戦 | Choi Kyubyeong | Lee Sedol | B+0.5 | 2006-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aKqr25AoHCPJAWqfu236gA%3D%3D) | 
+| 第8回マキシムコーヒー杯入神最強戦2回戦 | Yang Jaeho | Choi Kyubyeong | W+R | 2006-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wcn0%2BavmSXN0dlR%2F1dY6Sg%3D%3D) | 
+| 第8回マキシムコーヒー杯入神最強戦1回戦 | Choi Kyubyeong | Lee Hongyeol | B+R | 2006-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PYzD1z1JQheZvV8%2FHF9xiw%3D%3D) | 
+| 第3期電子ランド杯王中王戦準決勝 | Choi Kyubyeong | Park Cheongsang | W+R | 2006-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qr51Jz32tFH%2Ftc8FVNGtHw%3D%3D) | 
+| 第3期電子ランド杯王中王戦3回戦 | Choi Kyubyeong | Choi Cheolhan | B+R | 2006-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5quA5cFcdj%2FvitpPbzD3eg%3D%3D) | 
+| 第3期電子ランド杯王中王戦2回戦 | Choi Kyubyeong | Lee Sedol | B+7.5 | 2006-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mgisx8ILEGwzsf7dcl9XeQ%3D%3D) | 
+| 第3期電子ランド杯王中王戦1回戦 | Choi Kyubyeong | Hwang Weonjun | B+R | 2006-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K6Vzij8jaEvMfwUMIqFQpw%3D%3D) | 
+| 第3期電子ランド杯王中王戦予選 | Choi Kyubyeong | An Joyeong | W+R | 2006-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I62sxdjKHN4USyb28NscGQ%3D%3D) | 
+| 第3期電子ランド杯王中王戦予選 | missing | Choi Kyubyeong | W+R | 2005-12-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qSzKh7Bq1d4kSFn%2FHtsJAw%3D%3D) | 
+| 第7回マキシムコーヒー杯入神最強戦2回戦 | Choi Kyubyeong | missing | W+2.5 | 2005-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B6yCgh%2FQLq1C%2BM%2FFzQLokQ%3D%3D) | 
+| 第17期棋聖戦（韓国）1回戦 | Choi Kyubyeong | Park Cheongsang | W+R | 2005-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T4Jf%2FvXwQV8G8QaiBmA8fg%3D%3D) | 
+| 第6回マキシムコーヒー杯入神最強戦2回戦 | Chang Suyeong | Choi Kyubyeong | B+1.5 | 2004-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OytxMjGfFveEin4W7h0RlQ%3D%3D) | 
+| 第6回マキシムコーヒー杯入神最強戦1回戦 | Choi Kyubyeong | missing | B+R | 2004-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a6A%2BRSq3iraxfuIzn3ER5Q%3D%3D) | 
+| 第1期電子ランド杯王中王戦3回戦 | Choi Kyubyeong | Kim Seonryong | W+17.5 | 2004-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GkBA5ivgPoWPueSvY7767w%3D%3D) | 
+| 第9回三星火災杯世界オープン囲碁選手権1回戦 | Kong Jie | Choi Kyubyeong | B+R | 2004-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BZZ1NvwXkbBab5yoEEkFIg%3D%3D) | 
+| 第1期電子ランド杯王中王戦2回戦 | Choi Myeonghun | Choi Kyubyeong | W+1.5 | 2004-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kXMyR7CmxUuM5MMi1Iw5tA%3D%3D) | 
+| 第9回三星火災杯予選決勝 | Ko Keuntae | Choi Kyubyeong | W+R | 2004-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D8yC59eKnvdMUOqkuG1Mgg%3D%3D) | 
+| 第1期電子ランド杯王中王戦予選 | Kim Seonryong | Choi Kyubyeong | W+R | 2004-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aTG18AHowevzu8ztp0zbgA%3D%3D) | 
+| 第1回韓国ドリームリーグ | Choi Kyubyeong | missing | W+R | 2003-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2S6wzXBKSQJQHIojwqwfJQ%3D%3D) | 
+| 第1回韓国ドリームリーグ | Choi Myeonghun | Choi Kyubyeong | W+R | 2003-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ssor75lfRlfw5NdT31NreA%3D%3D) | 
+| 第1回韓国ドリームリーグ | Choi Cheolhan | Choi Kyubyeong | B+R | 2003-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ktU0ahtfSpFD2LPxKRuJvA%3D%3D) | 
+| 第1回韓国ドリームリーグ | Choi Kyubyeong | Kim Myeongwan | W+R | 2003-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KWpm2v8%2FOlL97wgUZEsWPw%3D%3D) | 
+| 第1回韓国ドリームリーグ | Mok Jinseok | Choi Kyubyeong | B+R | 2003-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Sd27LEzPfOQK%2BDPR1FAxg%3D%3D) | 
+| 第2期KT杯マスターズプロ棋戦2回戦 | Choi Kyubyeong | Lee Changho | W+R | 2002-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iGYdrLvlfeudA4k2Mff4Xw%3D%3D) | 
+| 第4回マキシムコーヒー杯入神最強戦 | Choi Kyubyeong | Chang Suyeong | W+6.5 | 2002-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TlLE2sILoRvo4lSKUdWsJw%3D%3D) | 
+| 第7期LG精油杯プロ棋戦1回戦 | Cho Hunhyun | Choi Kyubyeong | B+R | 2002-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z00WzoBQdBo9CVx9aqYHKQ%3D%3D) | 
+| 第1期KT杯マスターズプロ棋戦3回戦 | Hong Jansik | Choi Kyubyeong | B+R | 2001-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FNpS5W%2FEo9KQhnYMCzWADg%3D%3D) | 
+| 第3回農心辛ラーメン杯世界囲碁最強戦第6戦 | Luo Xihe | Choi Kyubyeong | B+R | 2001-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FpJ0hKq%2B9R2Y2nW7tF7dDg%3D%3D) | 
+| 第3回マキシムコーヒー杯入神最強戦 | Choi Kyubyeong | Seo Bongsoo | W+R | 2001-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9AJ2mKiSWSYOinxrsiUSJg%3D%3D) | 
+| 第3回マキシムコーヒー杯入神最強戦 | Paek Seongho | Choi Kyubyeong | W+R | 2001-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PTGIt8HNiyyhGLYtbo3Dew%3D%3D) | 
+| 第6期三星杯1回戦 | Choi Kyubyeong | Yamada Kimio | W+3.5 | 2001-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b7ohntb6ylpGof6tJVW9yw%3D%3D) | 
+| 第1期KT杯マスターズプロ棋戦2回戦 | Kim Seungjun | Choi Kyubyeong | W+1.5 | 2001-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UNepc7vfpfhQHxpHRz5vLQ%3D%3D) | 
+| 第6期三星杯予選決勝 | Imamura Toshiya | Choi Kyubyeong | W+0.5 | 2001-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RNU3IuXJqUHeCaJFmtbSAw%3D%3D) | 
+| 第13期棋聖戦（韓国）1回戦 | missing | Choi Kyubyeong | B+R | 2001-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n5rAvFf9Rl2JKaK713r%2B9Q%3D%3D) | 
+| 第2回マキシムコーヒー杯入神最強戦準決勝 | Yang Jaeho | Choi Kyubyeong | B+R | 2001-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r50gEL1xZSbjc8EF8DCTww%3D%3D) | 
+| 第2回マキシムコーヒー杯入神最強戦第12局 | Yoo Changhyuk | Choi Kyubyeong | W+0.5 | 2001-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GRXWJNa%2F1o54Gt2DpgyW3Q%3D%3D) | 
+| 第12期棋聖戦（韓国）2回戦 | Choi Kyubyeong | Yang Jaeho | W+4.5 | 2000-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8t6x9kFwGMe%2BNdiNBnA%2BbQ%3D%3D) | 
+| 第31期名人戦（韓国）リーグ | Choi Kyubyeong | Kim Seungjun | W+8.5 | 2000-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r2vVD2Bzgus4mODFgsAEBQ%3D%3D) | 
+| 第31期名人戦（韓国）リーグ | Yang Jaeho | Choi Kyubyeong | B+R | 2000-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W5W1U8%2FtvrvAUhuva18vSQ%3D%3D) | 
+| 第12期棋聖戦（韓国）1回戦 | Cho Hunhyun | Choi Kyubyeong | W+0.5 | 2000-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FLtyeLmwtfuKkWNbUU1C0g%3D%3D) | 
+| 第31期名人戦（韓国）リーグ | Mok Jinseok | Choi Kyubyeong | B+R | 2000-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eRj8sCbpBmt9qB%2BQSJo8eQ%3D%3D) | 
+| 第5期バッカス杯天元戦2回戦 | Rui Naiwei | Choi Kyubyeong | B+R | 2000-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9B29qLjWAbSfSlw35d5FXg%3D%3D) | 
+| 第31期名人戦（韓国）リーグ | Yoo Changhyuk | Choi Kyubyeong | B+1.5 | 2000-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OItNAOx7N1XHpPcNPoRTgA%3D%3D) | 
+| 第5期バッカス杯天元戦1回戦 | missing | Choi Kyubyeong | W+R | 2000-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RT0xOYm705x%2B0JN2CSHqog%3D%3D) | 
+| 第31期名人戦（韓国）リーグ | Choi Kyubyeong | Cho Hunhyun | W+R | 2000-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VmazT3l%2BxEsug%2FnqyswyWQ%3D%3D) | 
+| 第1回マキシムコーヒー杯入神最強戦 | Choi Kyubyeong | Jiang Zhujiu | B+R | 2000-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eCyrHKuHvegrhg9mhCohgw%3D%3D) | 
+| 第1回マキシムコーヒー杯入神最強戦 | Choi Kyubyeong | Kang Hun | B+5.5 | 2000-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fzdYryv6ci69DxawbxbJLQ%3D%3D) | 
+| 第4回LG杯世界棋王戦1回戦 | Hikosaka Naoto | Choi Kyubyeong | B+2.5 | 1999-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W7%2FBLWHbzFI7R8TE0ENjFA%3D%3D) |
+
+
+
+

@@ -1,0 +1,143 @@
+## Choi Jaeyoung Games
+
+[Back to ranking](index.md)
+
+
+
+
+| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| --- | --- | --- | --- | --- | --- | --- |
+| 第4回クラウン・ヘテ杯準決勝 | Lee Changseok | Choi Jaeyoung | B+R | 2021-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2tZ86b%2BKj9a3%2BY5n0ktRmw%3D%3D) | 
+| 第4期韓国竜星戦予選 | Park Yeonghun | Choi Jaeyoung | B+R | 2021-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2kQgkQHTCFn%2FAFIJYg3QCw%3D%3D) | 
+| 第4回クラウン・ヘテ杯3回戦 | Choi Jaeyoung | Gon Jiwoo | B+2.5 | 2021-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hg8xCA8VqHEc%2B3EDetcCGA%3D%3D) | 
+| 第4回クラウン・ヘテ杯2回戦 | Choi Jaeyoung | Park Joonhoon | B+R | 2021-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yCy5pIQgBB6JrmWSIBZzTQ%3D%3D) | 
+| 第4回クラウン・ヘテ杯1回戦 | Kim Myounghoon | Choi Jaeyoung | W+R | 2020-12-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aiJT0FVMdPTvFoiqjROt2Q%3D%3D) | 
+| 第2回大統領杯全国囲碁大会1回戦 | Choi Jaeyoung | Wen Rubin | W+R | 2020-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pYrMipQR4s8J5TYfHWro1Q%3D%3D) | 
+| 第25回三星火災杯世界囲碁マスターズ2回戦 | Shi Yue | Choi Jaeyoung | B+R | 2020-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5NJn35E3DxPRAyKRx5Rzaw%3D%3D) | 
+| 第25回三星火災杯世界囲碁マスターズ1回戦  | Mimura Tomoyasu | Choi Jaeyoung | W+R | 2020-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hKYeD%2Bj5B9cac53rgbdvbQ%3D%3D) | 
+| 第25回三星火災杯韓国一般枠予選 | Park Sangjin | Choi Jaeyoung | W+1.5 | 2020-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fc6%2FYcpbJIXG8Gyq0NGsGg%3D%3D) | 
+| 第25回三星火災杯韓国一般枠予選 | Choi Jaeyoung | missing | B+R | 2020-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ORQ135UqdIToUXe4Zq6sag%3D%3D) | 
+| 第25回三星火災杯韓国一般枠予選 | missing | Choi Jaeyoung | W+R | 2020-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CRe2%2FtkNb8KsYCJYpGeGYQ%3D%3D) | 
+| 第25期GSカルテックス杯プロ棋戦16強戦 | Choi Jaeyoung | Kang Dongyun | W+R | 2020-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f8qCDoCsmv5NQe88ZNzfcw%3D%3D) | 
+| 第25回LG杯韓国予選 | Choi Jaeyoung | Yoo Jaeho | W+R | 2020-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0alLZojPEQ1E0Fuk7EkViw%3D%3D) | 
+| 第25期GSカルテックス杯プロ棋戦24強戦 | Park Joonhoon | Choi Jaeyoung | W+R | 2020-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8xJLVl11h8dCZAsJD85hng%3D%3D) | 
+| 2019-2020韓国囲碁リーグ第18節第3試合第4局 | Jin Siyoung | Choi Jaeyoung | B+R | 2020-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cV24FZmgxymyqnbvIDSeAg%3D%3D) | 
+| 2019-2020韓国囲碁リーグ第17節第2試合第4局 | Han Seungjoo | Choi Jaeyoung | B+2.5 | 2020-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qYaQyZYZcbMs6kW3Mfw54A%3D%3D) | 
+| 第3期韓国竜星戦32強戦 | Kim Myounghoon | Choi Jaeyoung | B+R | 2020-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kf9Yr2c7IGzkzW5GcPQTmg%3D%3D) | 
+| 第3期韓国竜星戦32強戦 | Shin Minjun | Choi Jaeyoung | B+R | 2020-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v1uwTubhn9%2FPUYISETafVw%3D%3D) | 
+| 2019-2020韓国囲碁リーグ第16節第1試合第2局 | Choi Jaeyoung | Park Geunho | W+R | 2020-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bouwyI8dsSMSaXS9nx3oDA%3D%3D) | 
+| 2019-2020韓国囲碁リーグ第15節第4試合第5局 | Choi Jaeyoung | Park Yeonghun | W+R | 2020-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XGXulO61BH%2B2nXj%2BYJJQug%3D%3D) | 
+| 2019-2020韓国囲碁リーグ第14節第2試合第2局 | Choi Jaeyoung | Cho Hanseung | W+0.5 | 2020-01-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cGyp6yPSYDBbcS9%2F1phBJg%3D%3D) | 
+| 2019-2020韓国囲碁リーグ第12節第2試合第4局 | Kang Seungmin | Choi Jaeyoung | W+R | 2019-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tnPdlBCCp4Nts3AAXs9WQg%3D%3D) | 
+| 2019-2020韓国囲碁リーグ第11節第4試合第2局 | Wen Rubin | Choi Jaeyoung | W+R | 2019-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xs64fwk30ZRm%2BN7MOw%2FDZA%3D%3D) | 
+| 2019-2020韓国囲碁リーグ第10節第2試合第3局 | Park Hamin | Choi Jaeyoung | B+R | 2019-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PDBI24No5xHmVQjpYOgRAA%3D%3D) | 
+| 2019-2020韓国囲碁リーグ第9節第2試合第5局 | Choi Jaeyoung | Lee Donghoon | W+R | 2019-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oAOv18KqgibsvDxMsCQJag%3D%3D) | 
+| 2019-2020韓国囲碁リーグ第8節第3試合第3局 | missing | Choi Jaeyoung | W+R | 2019-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nrc8%2B9TN5%2BGlHCtuPns6RQ%3D%3D) | 
+| 2019-2020韓国囲碁リーグ第7節第4試合第5局 | Choi Jaeyoung | Kim Sedong | B+R | 2019-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7bBYSloFJEhMyKMPk9ZG0g%3D%3D) | 
+| 2019-2020韓国囲碁リーグ第6節第1試合第4局 | Choi Jaeyoung | Park Seunghwa | B+R | 2019-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C6wgTg1Z4MaAwSQIpNDjQQ%3D%3D) | 
+| 2019-2020韓国囲碁リーグ第5節第3試合第4局 | Lee Wondo | Choi Jaeyoung | W+R | 2019-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NLXVcoerznWhlLJ%2FqO0K5w%3D%3D) | 
+| 2019-2020韓国囲碁リーグ第3節第3試合第4局 | Choi Jaeyoung | Paek Hongseok | B+R | 2019-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xuva7yJzUg3IxRGTJILBXA%3D%3D) | 
+| 2019-2020韓国囲碁リーグ第2節第1試合第5局 | Choi Jaeyoung | Wen Rubin | W+R | 2019-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wXp6jRAr8C5nJ9fT3SL46Q%3D%3D) | 
+| 2019-2020韓国囲碁リーグ第1節第3試合第5局 | Kang Dongyun | Choi Jaeyoung | W+0.5 | 2019-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QHqf578c3e%2B%2BcajDtkFH1g%3D%3D) | 
+| 第21回農心杯韓国選抜戦 | Choi Jaeyoung | Lee Donghoon | W+R | 2019-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LsmQ1A8tCBq96veFqWXUzg%3D%3D) | 
+| 第4回夢百合杯統合予選 | Shi Yulai | Choi Jaeyoung | W+R | 2019-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K8e1lYtx5iUrR8%2B4HYshsQ%3D%3D) | 
+| 2019年囲碁テレビ杯早碁戦32強戦 | Weon Seongjin | Choi Jaeyoung | B+R | 2019-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Onnltq04%2Bx%2BU3LjfZX4dA%3D%3D) | 
+| 第38回KBS杯囲碁王戦1回戦 | Choi Jaeyoung | Lee Donghoon | W+R | 2019-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VJbJde9LFU5Nd73TF5O0Gw%3D%3D) | 
+| 第4期未来の星新鋭最強戦1次大会第6戦 | Choi Jaeyoung | Park Hamin | W+0.5 | 2019-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s6N0Md%2F6h%2Fjhj6tlFJUHzg%3D%3D) | 
+| 第4期未来の星新鋭最強戦1次大会第5戦 | Choi Jaeyoung | Park Sangjin | W+R | 2019-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9lnitCVna8PeEkt26SkHnw%3D%3D) | 
+| 第4期未来の星新鋭最強戦1次大会第4戦 | Choi Kyeongho | Choi Jaeyoung | W+R | 2019-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wsEWWOcIc5nN7PmJ3Whfcg%3D%3D) | 
+| 第2回クラウン・ヘテ杯2回戦 | Choi Jaeyoung | Park Hamin | W+R | 2019-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zqv9SSgX6Sb6yWkYE10Y6Q%3D%3D) | 
+| 第4期未来の星新鋭最強戦1次大会第1戦 | missing | Choi Jaeyoung | W+R | 2019-01-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6zy1B9eLXmRmS5rbu7L0mw%3D%3D) | 
+| 第2回クラウン・ヘテ杯1回戦 | Choi Jaeyoung | Song Jihoon | B+R | 2018-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8NsqGmMeTDoru0AxR5NpvQ%3D%3D) | 
+| 2018年韓国囲碁リーグ第14節 | Shin Minjun | Choi Jaeyoung | B+R | 2018-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QNDGafi0lPGMINSczTK8Fg%3D%3D) | 
+| 2018年韓国囲碁リーグ第12節 | Choi Jaeyoung | Ahn Kukhyun | W+1.5 | 2018-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C7OMhX%2FkANm%2FXHw%2BPg%2F%2FDA%3D%3D) | 
+| 2018年韓国囲碁リーグ第11節 | Choi Jaeyoung | Kim Seongjae | B+2.5 | 2018-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wa7tSRE6hzzXDg967tAH9A%3D%3D) | 
+| 2018年韓国囲碁リーグ第10節 | Na Hyun | Choi Jaeyoung | B+0.5 | 2018-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EOMIKC1cFpu0mVFtAUSCRw%3D%3D) | 
+| 2018年韓国囲碁リーグ第9節 | Choi Jaeyoung | Lee Donghoon | W+R | 2018-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q5xsqE3EFB3BQt07lu9DZA%3D%3D) | 
+| 2018年韓国囲碁リーグ第8節 | Han Seungjoo | Choi Jaeyoung | B+R | 2018-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5joGf6ENesX4GhhbIJDcEA%3D%3D) | 
+| 2018年韓国囲碁リーグ第7節 | Choi Jaeyoung | Park Geunho | W+0.5 | 2018-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iyRjT9w1wnxCnz8DXtluiQ%3D%3D) | 
+| 2018年韓国囲碁リーグ第6節 | Choi Jaeyoung | Yun Junsang | B+R | 2018-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VWZs0GQwHwkL9DcFzRNB5g%3D%3D) | 
+| 中韓新鋭対抗韓国選抜決勝 | Kim Myounghoon | Choi Jaeyoung | B+R | 2018-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Shn64M%2Blzmoops8jtcJeQ%3D%3D) | 
+| 中韓新鋭対抗韓国選抜1回戦 | Seol Hyunjun | Choi Jaeyoung | W+R | 2018-07-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UQiZTG1yfA%2BxI4ozvj%2BsvQ%3D%3D) | 
+| 2018年韓国囲碁リーグ第5節 | Choi Jaeyoung | Han Sanghoon | W+R | 2018-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o1caZibyi1M%2FQ14pcyD0ug%3D%3D) | 
+| 2018年韓国囲碁リーグ第4節 | Park Yeonghun | Choi Jaeyoung | B+R | 2018-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=puwj15UItJ0ZzwvBGo2AJQ%3D%3D) | 
+| 2018年韓国囲碁リーグ第3節 | Choi Jaeyoung | Yun Chanhee | B+R | 2018-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V8E1G0bKklmKdnvH%2BNnPyg%3D%3D) | 
+| 2018年韓国囲碁リーグ第2節 | Choi Jaeyoung | Lee Yeongkyu | W+R | 2018-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sNRmQjNGlYXrayZYNhRnZA%3D%3D) | 
+| 2018年韓国囲碁リーグ第1節 | Choi Jaeyoung | Kim Myounghoon | W+R | 2018-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W9YOWBpplt%2BRsoEODukGvw%3D%3D) | 
+| 第23期GSカルテックス杯プロ棋戦16強戦 | Ahn Kukhyun | Choi Jaeyoung | B+R | 2018-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DplcORfOXuh1jvqzkWhxuw%3D%3D) | 
+| 第23期GSカルテックス杯プロ棋戦24強戦 | Choi Jaeyoung | Choi Jeong | B+R | 2018-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DU9Abb4AnZokFg1fMEpIug%3D%3D) | 
+| 第1回クラウン・ヘテ杯1回戦 | Han Seungjoo | Choi Jaeyoung | B+R | 2017-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vwVm%2BuUt%2BBXgpU1VSBCGjQ%3D%3D) | 
+| 2017年韓国囲碁リーグワイルドカード決定戦 | Kang Seungmin | Choi Jaeyoung | B+R | 2017-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p3%2B%2B2iR9IKW6QFu7WjLICA%3D%3D) | 
+| 2017年韓国囲碁リーグ | Choi Jaeyoung | Han Wonggyu | B+R | 2017-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=76NahdFBivFfbJCOrnK1WA%3D%3D) | 
+| 2017年韓国囲碁リーグ | Han Sanghoon | Choi Jaeyoung | W+R | 2017-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d9DipruRT1kpNW%2FBkJ00GQ%3D%3D) | 
+| 2017年韓国囲碁リーグ | Choi Jaeyoung | Paek Hongseok | W+R | 2017-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W4IdzfPnLnn9M6JZUj447A%3D%3D) | 
+| 2017年韓国囲碁リーグ | Choi Jaeyoung | Park Jinsol | B+R | 2017-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y9AQ0aUEJFFJTEAX8bp98g%3D%3D) | 
+| 2017年韓国囲碁リーグ | Choi Cheolhan | Choi Jaeyoung | W+R | 2017-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NegHukBPwujPkBYYXxSMtQ%3D%3D) | 
+| 2017年韓国囲碁リーグ | Choi Jaeyoung | Heo Yongho | B+R | 2017-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AqetZo0D%2FF28IDO7qZn0AQ%3D%3D) | 
+| 2017年韓国囲碁リーグ | Shin Minjun | Choi Jaeyoung | W+R | 2017-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m8GSJxD%2BXWFiK%2F7ww0Ngsg%3D%3D) | 
+| 2017年韓国囲碁リーグ | Choi Jaeyoung | Ahn Kukhyun | W+R | 2017-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hzctorj3a0FT87Zu8arYCQ%3D%3D) | 
+| 2017年韓国囲碁リーグ | Choi Jaeyoung | Cho Hanseung | W+R | 2017-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=anOU%2Fti%2BeLLZhFX2zqH4pA%3D%3D) | 
+| 2017年韓国囲碁リーグ | Choi Jaeyoung | Kim Kiyoung | W+R | 2017-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IWiuNvz%2B%2F5Pg3gbfQPzbNg%3D%3D) | 
+| 2017年韓国囲碁リーグ | Han Seungjoo | Choi Jaeyoung | B+R | 2017-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a6ZiyLyxji%2B6ZIYCb%2F0lqA%3D%3D) | 
+| 2017年韓国囲碁リーグ | Choi Jaeyoung | Byun Sangil | W+R | 2017-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IMIvr5rXlE0WKkmax4AJUw%3D%3D) | 
+| 2017年韓国囲碁リーグ | Heo Yongho | Choi Jaeyoung | B+R | 2017-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jlBae4kEriaxGjGMTFnEtg%3D%3D) | 
+| 2017年韓国囲碁リーグ | Shin Minjun | Choi Jaeyoung | B+R | 2017-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=57rFRNaxFkF3Jwkq6SqD4Q%3D%3D) | 
+| 2017年韓国囲碁リーグ | Choi Jaeyoung | Weon Seongjin | B+R | 2017-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VR3%2BjOTP6S6Gay4%2FtCS%2FQw%3D%3D) | 
+| 第22期LG杯世界予選決勝 | Choi Jaeyoung | Choi Jeong | W+R | 2017-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rajpK7RCaLfTBBhqYYn7ow%3D%3D) | 
+| 世界第三期Mlily夢百合杯予選2回戦 | missing | Choi Jaeyoung | B+R | 2017-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HiecAkEgl%2FF%2FsqV5pNq0kg%3D%3D) | 
+| 第22期GSカルテックス杯プロ棋戦24強戦 | Choi Jaeyoung | Hong Seongji | W+R | 2017-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=74pPCfjJ4dDAc8iFoffjyw%3D%3D) | 
+| 第2期未来の星新鋭最強戦準々決勝 | Han Seungjoo | Choi Jaeyoung | B+R | 2017-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b3QovNEVmolb3PX2lmDlgg%3D%3D) | 
+| 第2期未来の星新鋭最強戦 | Choi Jaeyoung | Li Weiqing | B+R | 2017-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6gBIGrzv4ZOOQFo7ACwpXA%3D%3D) | 
+| 第2期未来の星新鋭最強戦 | Choi Jaeyoung | missing | B+R | 2017-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m6BZUhQH6aliioKYC5lFhg%3D%3D) | 
+| 2016年韓国囲碁リーグ | Park Cheongsang | Choi Jaeyoung | W+R | 2016-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BUbVZAjbFlCZxARB%2FoIJSg%3D%3D) | 
+| 2016年韓国囲碁リーグ | Choi Jaeyoung | Kang Dongyun | B+R | 2016-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mi6woP1nh%2FdF4pS%2B5SHpFg%3D%3D) | 
+| 2016年韓国囲碁リーグ | Park Jinsol | Choi Jaeyoung | W+R | 2016-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nvdpQI9FykyJuh6FqDpOtw%3D%3D) | 
+| 2016年韓国囲碁リーグ第14節 | Mok Jinseok | Choi Jaeyoung | B+R | 2016-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oKPUxqAo84IwKjETw%2FzcSA%3D%3D) | 
+| 2016年韓国囲碁リーグ第13節 | Choi Jaeyoung | Park Junghwan | W+R | 2016-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pwn9VFwK7w%2BRDtj39OxQkQ%3D%3D) | 
+| 2016年韓国囲碁リーグ第12節 | Choi Jaeyoung | Park Yeonghun | B+R | 2016-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mqNRIj81lytOdyPUuSMCYA%3D%3D) | 
+| 2016年韓国囲碁リーグ第11節 | Choi Jaeyoung | Ahn Kukhyun | W+R | 2016-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x8YDH4gZeapBbO8n6I7ahw%3D%3D) | 
+| 2016年韓国囲碁リーグ第10節 | Choi Jaeyoung | Ryu Suhang | B+R | 2016-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BsMb2ydl1Xw3l89JQNJ3hg%3D%3D) | 
+| 2016年韓国囲碁リーグ第9節 | Choi Jaeyoung | Ko Keuntae | B+R | 2016-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YU5w8t6bGf%2FFpqLzsLcc2w%3D%3D) | 
+| 2016年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 | Wang Zejin | Choi Jaeyoung | B+R | 2016-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pq84FmZPsho7wW81K1miWg%3D%3D) | 
+| 2016年韓国囲碁リーグ第8節 | Lee Jihyun | Choi Jaeyoung | B+R | 2016-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aBem9%2FPZ9%2B5clCH4ndQC4g%3D%3D) | 
+| 2016年韓国囲碁リーグ第7節 | Choi Jaeyoung | Kim Myounghoon | W+R | 2016-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WfFTp13dCTkEMoOwdSHNkg%3D%3D) | 
+| 第18回農心杯韓国選抜戦 | Lee Changho | Choi Jaeyoung | B+R | 2016-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S9s%2FfaMrsLTr1yQaqIfmuA%3D%3D) | 
+| 2016年韓国囲碁リーグ第5節 | Choi Jaeyoung | You Byungyong | B+4.5 | 2016-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iAn4dAn1ob9V5EsaleS%2B0Q%3D%3D) | 
+| 2016年韓国囲碁リーグ第4節 | Kim Seongjae | Choi Jaeyoung | W+1.5 | 2016-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GYGyN4GJkr5DQGz4RoHSZw%3D%3D) | 
+| 第35回KBS杯囲碁王戦2回戦 | Choi Jaeyoung | Kim Junghyun | W+R | 2016-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sPAB9kuvf6161GnfrxYcKg%3D%3D) | 
+| 2016年韓国囲碁リーグ第3節 | Park Yeonghun | Choi Jaeyoung | B+R | 2016-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aZIGa47Gu%2BF4Fh9iJGJTlA%3D%3D) | 
+| 2016年韓国囲碁リーグ第2節 | Ahn Kukhyun | Choi Jaeyoung | W+2.5 | 2016-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bInn2iweqlh3G%2BSX7eFwsw%3D%3D) | 
+| 2016年韓国囲碁リーグ第1節 | Na Hyun | Choi Jaeyoung | B+R | 2016-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xido2iBKWH5Fp2c1n%2FTttg%3D%3D) | 
+| 第4期メジオン杯オープン新人王戦1回戦 | Byun Sangil | Choi Jaeyoung | B+6.5 | 2016-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HUkQOBdQq0igcPGBS0iDIg%3D%3D) | 
+| 第35回KBS杯囲碁王戦1回戦 | Choi Myeonghun | Choi Jaeyoung | W+17.5 | 2016-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ADGvQ4RRQfSTily%2BUXqkLA%3D%3D) | 
+| 第1期未来の星新鋭最強戦決勝三番勝負第3局 | Park Jaekeun | Choi Jaeyoung | B+R | 2015-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=875hGCu3qjndkg3ZW47uKg%3D%3D) | 
+| 第1期未来の星新鋭最強戦決勝三番勝負第2局 | Park Jaekeun | Choi Jaeyoung | B+R | 2015-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FTYbdNwS4I4iEuMv1I35Rw%3D%3D) | 
+| 第1期未来の星新鋭最強戦決勝三番勝負第1局 | Choi Jaeyoung | Park Jaekeun | B+R | 2015-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2RGYqlKNt5WjHSpHWxbcJQ%3D%3D) | 
+| 第1期未来の星新鋭最強戦Bリーグ | Park Jinyoung | Choi Jaeyoung | W+R | 2015-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M3apbYKaWZ4Cwd4VXyhc%2Bw%3D%3D) | 
+| 第1期未来の星新鋭最強戦Bリーグ | Choi Jaeyoung | Seol Hyunjun | B+R | 2015-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xcfroqzC4LWRQedSyGbTUA%3D%3D) | 
+| 第1期未来の星新鋭最強戦Bリーグ | Hong Mujin | Choi Jaeyoung | W+R | 2015-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LdKSBxQO6oz1g5rFns4HIQ%3D%3D) | 
+| 第1期未来の星新鋭最強戦Bリーグ | missing | Choi Jaeyoung | W+0.5 | 2015-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zvLIv0eXw01zCYkeFnU31w%3D%3D) | 
+| 第1期未来の星新鋭最強戦Bリーグ | Choi Jaeyoung | missing | B+R | 2015-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E6LIQE8YlcFqxqMJy8rIkw%3D%3D) | 
+| 第1期未来の星新鋭最強戦Bリーグ | Baek Chanhee | Choi Jaeyoung | W+R | 2015-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wsYSe9u9ey1AbqI58cu28g%3D%3D) | 
+| 2015年フューチャーズリーグ | Seol Hyunjun | Choi Jaeyoung | B+R | 2015-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EzA6pJ6kXZ3%2FDZe5L2dNCA%3D%3D) | 
+| 2015年フューチャーズリーグ | Park Jaekeun | Choi Jaeyoung | W+R | 2015-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zVemN4MYV8x%2BDArtKfNJdQ%3D%3D) | 
+| 2015年フューチャーズリーグ | Ko Keuntae | Choi Jaeyoung | B+R | 2015-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EgqHVBtjQUWGIga9C8pPTQ%3D%3D) | 
+| 2015年フューチャーズリーグ | Kim Hyeoimin | Choi Jaeyoung | W+R | 2015-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KCUQ%2F2AT0Cs%2Fvxn0ywlcGg%3D%3D) | 
+| 2015年フューチャーズリーグ | Choi Jaeyoung | missing | W+R | 2015-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pp5Vf2XfEYhxQIdUC%2F41Bg%3D%3D) | 
+| 2015年フューチャーズリーグ | missing | Choi Jaeyoung | W+R | 2015-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fBlTteC4k54B9aluHQS3wQ%3D%3D) | 
+| 2015年フューチャーズリーグ | missing | Choi Jaeyoung | W+R | 2015-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gPHpcnH1ItxcvWlgGgbkOQ%3D%3D) | 
+| 2015年フューチャーズリーグ | Choi Jaeyoung | Yun Chanhee | W+R | 2015-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jPtHrR%2FtTNEIyWXaaK9BuA%3D%3D) | 
+| 2015年フューチャーズリーグ | Choi Jaeyoung | Shin Yoonho | W+R | 2015-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T1ZQpoYCBxDTWRKAh2KkRQ%3D%3D) | 
+| 2015年韓国囲碁リーグ | Choi Jaeyoung | Song Jihoon | W+R | 2015-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ndD5jOA8%2FPic9EJOYnr4lQ%3D%3D) | 
+| 2015年フューチャーズリーグ | Choi Jaeyoung | missing | W+R | 2015-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PZ1NTDTArV1Ob49eqhhYUw%3D%3D) | 
+| 2015年フューチャーズリーグ | Lee Changseok | Choi Jaeyoung | W+R | 2015-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=89OK%2FwCNT%2F89FM4Q%2B8EtmQ%3D%3D) | 
+| 2015年フューチャーズリーグ | Choi Jaeyoung | Kim Hyeoimin | B+0.5 | 2015-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l8j6qo2wKE1zLd1OCeglyw%3D%3D) | 
+| 2015年韓国囲碁リーグ | Byun Sangil | Choi Jaeyoung | W+4.5 | 2015-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NzKlOUNWdABMQ6pTJAELmQ%3D%3D) | 
+| 2015年フューチャーズリーグ | Choi Jaeyoung | Ryu Suhang | W+1.5 | 2015-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ks2oeCICmRdPMBaFZ3290Q%3D%3D) | 
+| 2015年フューチャーズリーグ | missing | Choi Jaeyoung | B+R | 2015-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FMjFglmpalh%2Fx%2FcpRCaiDA%3D%3D) | 
+| 2015年フューチャーズリーグ | Choi Jaeyoung | Hong Kipyo | B+2.5 | 2015-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AvhINNaj24MZfqf5Gt127g%3D%3D) | 
+| 2015年フューチャーズリーグ | missing | Choi Jaeyoung | W+4.5 | 2015-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p4yLgxveUcipnYfHuU9CGQ%3D%3D) |
+
+
+
+

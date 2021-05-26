@@ -36,3 +36,7 @@ tmp-df-pls-del.csv
 workspace.code-workspace
 JuliaSysimage.dll
 .vscode/tasks.json
+
+player-games-md/jdf/
+player-games-md/tmp/
+index-tmd.md

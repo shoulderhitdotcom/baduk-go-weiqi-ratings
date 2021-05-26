@@ -1,0 +1,145 @@
+## Koyama Mitsuru Games
+
+[Back to ranking](index.md)
+
+
+
+
+| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| --- | --- | --- | --- | --- | --- | --- |
+| 第40期女流本因坊戦2回戦  | Koyama Mitsuru | missing | B+R | 2021-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3cRrZyejt%2BchQotij2KFMQ%3D%3D) | 
+| 第47期碁聖戦予選 | Ishida Yoshio | Koyama Mitsuru | B+R | 2021-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hKsZU79LPbQJ%2BYRCDYEo3A%3D%3D) | 
+| 第3回SGW杯中庸戦予選 | Tsuruyama Atsushi | Koyama Mitsuru | B+R | 2020-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F1j7eys1%2F8LMoELGTRYlWw%3D%3D) | 
+| 第24期ドコモ杯女流棋聖戦1回戦 | Fujisawa Rina | Koyama Mitsuru | B+8.5 | 2020-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=exjJybe49KCoTNdtIjRgOA%3D%3D) | 
+| 第39期女流本因坊戦準決勝  | Fujisawa Rina | Koyama Mitsuru | B+R | 2020-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eHtw%2B%2BJ%2B0DhQt9IfLz3ncA%3D%3D) | 
+| 第5回扇興杯女流最強戦1回戦 | Mannami Nao | Koyama Mitsuru | B+7.5 | 2020-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N87wJ%2FBzc2zY3RKVDZ3gKw%3D%3D) | 
+| 第39期女流本因坊戦3回戦 | Koyama Mitsuru | Cho Chien | B+R | 2020-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R%2FdphCJ01d3HAmNsKL7Wbw%3D%3D) | 
+| 第39期女流本因坊戦2回戦 | Yashiro Kumiko | Koyama Mitsuru | W+R | 2020-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HT9cnVk188baIWknczUszg%3D%3D) | 
+| 第76期本因坊戦予選 | Koyama Mitsuru | Yoda Norimoto | W+R | 2019-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8hGNepRN9bLcc7eWcalSTA%3D%3D) | 
+| 第23期ドコモ杯女流棋聖戦2回戦 | Koyama Mitsuru | Nishiyama Shizuka | W+9.5 | 2019-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3olufarIAGlk9torvT3BYg%3D%3D) | 
+| 第23期ドコモ杯女流棋聖戦1回戦 | Osawa Narumi | Koyama Mitsuru | W+6.5 | 2019-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z%2FeDdHOTHE43t28C0l5E3A%3D%3D) | 
+| 第2回SGW杯中庸戦予選 | Koyama Mitsuru | Ko Mosei | W+1.5 | 2019-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GuG4Zi7gnfukgICq1hlaHQ%3D%3D) | 
+| 第38期女流本因坊戦準決勝 | Koyama Mitsuru | Ueno Asami | W+R | 2019-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7E2YUBXZT947FdJ5hNlerQ%3D%3D) | 
+| 第38期女流本因坊戦3回戦 | Koyama Mitsuru | Nishiyama Shizuka | B+R | 2019-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OIH0%2FTfmUTRcSj9%2FNpa9VQ%3D%3D) | 
+| 第68期王座戦予選 | Koyama Mitsuru | Chino Tadahiko | B+R | 2019-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z6IwuzYsaru6GItj7Lsz6g%3D%3D) | 
+| 第38期女流本因坊戦1回戦 | Yashiro Kumiko | Koyama Mitsuru | W+R | 2019-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t010NJoHqQp7sBYAqkCA%2Fw%3D%3D) | 
+| 第38期女流本因坊戦予選 | Koyama Mitsuru | Makihata Taeko | B+R | 2019-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h7f0gPwsT7kljLA3kLOEsA%3D%3D) | 
+| 第31期女流名人戦決勝 | Xie Yimin | Koyama Mitsuru | B+R | 2019-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pehtVB8hq1hrygPc%2FGFeJQ%3D%3D) | 
+| 第31期女流名人戦準決勝 | Aoki Kikuyo | Koyama Mitsuru | W+R | 2018-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MbzfmU7IripW4wSo%2Bt4orw%3D%3D) | 
+| 第1回SGW杯中庸戦予選1回戦 | Yamashiro Hiroshi | Koyama Mitsuru | B+R | 2018-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o94NaK5wJEfxClK9RGjPkw%3D%3D) | 
+| 第31期女流名人戦2回戦 | Kato Keiko | Koyama Mitsuru | W+R | 2018-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ytrUwT13zu%2FiyVE%2BsSQTSA%3D%3D) | 
+| 第6期会津中央病院・女流立葵杯予選 | Ogawa Tomoko | Koyama Mitsuru | W+R | 2018-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UbFgwp2GCgT%2BhcmKiXGs%2FA%3D%3D) | 
+| 第45期天元戦予選 | Cho Sonjin | Koyama Mitsuru | B+R | 2018-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xA%2Bv6HW24hwOtUO12Ug%2BHQ%3D%3D) | 
+| 第58期十段戦予選 | Koyama Mitsuru | Rin Kaiho | W+R | 2018-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ptZCx%2B3R%2BP9y3FIl2%2Fg6Ig%3D%3D) | 
+| 第31期女流名人戦1回戦 | Koyama Mitsuru | Kibe Natsuki | B+R | 2018-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mDtvnpz6jX8BgIqYMVlDXQ%3D%3D) | 
+| 第37期女流本因坊戦2回戦 | Nyu Eiko | Koyama Mitsuru | B+R | 2018-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kQfxgDzqd7HYSIVKjIfq6Q%3D%3D) | 
+| 第57期十段戦予選 | Shibano Toramaru | Koyama Mitsuru | B+R | 2017-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nzNFOnV6%2Flm5ErHnM1lERA%3D%3D) | 
+| 第43期棋聖戦ファーストトーナメント予選 | Sugiuchi Masao | Koyama Mitsuru | W+R | 2017-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q%2Bfda258xPaJcYt1djGb%2Bw%3D%3D) | 
+| 第36期女流本因坊戦2回戦 | Koyama Mitsuru | Xie Yimin | W+R | 2017-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3hE7G67zHoHpp7wqJV728g%3D%3D) | 
+| 第36期女流本因坊戦1回戦 | Koyama Mitsuru | Taguchi Misei | B+R | 2017-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lsdIT9Wxoug3oLSjzEyWYQ%3D%3D) | 
+| 第36期女流本因坊戦予選決勝 | Koyama Mitsuru | Shinkai Hiroko | B+R | 2017-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tAIcwT0QTIxEscs9axvwZA%3D%3D) | 
+| 第43期天元戦　予選A | Takao Shinji | Koyama Mitsuru | B+R | 2016-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f%2B5E6drLsYPsK4dfM0VWSA%3D%3D) | 
+| 第20期ドコモ杯女流棋聖戦1回戦 | Koyama Mitsuru | Miyamoto Chiharu | W+4.5 | 2016-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qitSvcfobTNOLR991OjcyQ%3D%3D) | 
+| 第43期天元戦予選 | Koyama Mitsuru | Ryu Shikun | B+R | 2016-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y6a3Z2VCizJqxmDqsbNAuA%3D%3D) | 
+| 第35期女流本因坊戦1回戦 | Koyama Mitsuru | Tanemura Sayuri | W+2.5 | 2016-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SnARmWjTPb%2FnyXMkkAP20A%3D%3D) | 
+| 第35期女流本因坊戦予選 | Koyama Mitsuru | Mukai Kaori | B+R | 2016-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tbBjFwUqlYN%2F9s9oCXLylQ%3D%3D) | 
+| 第54期十段戦予選 | Cho Chikun | Koyama Mitsuru | B+R | 2015-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0D7DP5YHlKV4mMqYOBovqg%3D%3D) | 
+| 第34期女流本因坊戦2回戦 | Koyama Mitsuru | Chinen Kaori | W+R | 2015-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4LQV3yrkhYJwg11VL7OMxA%3D%3D) | 
+| 第28期女流名人戦予選 | Koyama Mitsuru | Okuda Aya | W+3.5 | 2015-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8wRQO7lYnZAPauH93Qq%2BRA%3D%3D) | 
+| 第34期女流本因坊戦1回戦 | Okuda Aya | Koyama Mitsuru | W+4.5 | 2015-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8XVMGec1ikib15Yo8vMIKA%3D%3D) | 
+| 第18期ドコモ杯女流棋聖戦準決勝 | Koyama Mitsuru | Konishi Kazuko | W+R | 2014-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nIYA6V3lShDSW6bo8IyMTw%3D%3D) | 
+| 第18期ドコモ杯女流棋聖戦2回戦 | Koyama Mitsuru | Tanemura Sayuri | B+R | 2014-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Z0Yy9NnfgMTDMw3srUo%2Fw%3D%3D) | 
+| 第18期ドコモ杯女流棋聖戦1回戦 | Koyama Mitsuru | Aoki Kikuyo | B+R | 2014-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rmrFYpAJc0Ot7N4XTTkP5g%3D%3D) | 
+| 第40期碁聖戦予選 | Otake Hideo | Koyama Mitsuru | B+R | 2014-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3ehqNnn8Jrsn72%2BR%2BJFvQg%3D%3D) | 
+| 第33期女流本因坊戦準決勝 | Koyama Mitsuru | Okuda Aya | W+3.5 | 2014-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GzO%2BkSer3eAk0Obdr2UVNA%3D%3D) | 
+| 第27期女流名人戦予選 | Koyama Mitsuru | Aoki Kikuyo | W+R | 2014-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=agyxfQlm686TgN7BayQ3HQ%3D%3D) | 
+| 第33期女流本因坊戦2回戦 | Tanemura Sayuri | Koyama Mitsuru | W+R | 2014-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r4kU0su4K3KcRD2QjVl3ww%3D%3D) | 
+| 第1回会津中央病院杯・女流囲碁トーナメント戦1回戦 | Okuda Aya | Koyama Mitsuru | B+5.5 | 2014-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F6vDcwWKsm8l3NbJI3PN1g%3D%3D) | 
+| 第33期女流本因坊戦1回戦 | Wang Jingyi | Koyama Mitsuru | W+R | 2014-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MYRbmiiALzUw2J7b9R3dLQ%3D%3D) | 
+| 第33期女流本因坊戦予選 | Koyama Mitsuru | Mannami Kana | B+R | 2014-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wRMnh3KDHkP6691w%2BjzLbg%3D%3D) | 
+| 第17期ドコモ杯女流棋聖戦1回戦 | Tsukuda Akiko | Koyama Mitsuru | B+5.5 | 2013-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FJIyI0QBJbBP5oDzMh4e3g%3D%3D) | 
+| 第32期女流本因坊戦2回戦 | Koyama Mitsuru | Mukai Chiaki | W+7.5 | 2013-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WN6sVOrbbjera1EzGq4ggA%3D%3D) | 
+| 第32期女流本因坊戦1回戦 | Koyama Mitsuru | Ishii Akane | B+12.5 | 2013-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5sbAo62d8K6P5fnvFkvRoA%3D%3D) | 
+| 第32期女流本因坊戦予選 | Izawa Akino | Koyama Mitsuru | W+R | 2013-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sIRVGXGr%2F%2FhX2GdFUvkIVg%3D%3D) | 
+| 第25期女流名人戦予選 | Kato Keiko | Koyama Mitsuru | B+R | 2012-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sll1rC3EhKfDSmB9YD5C4w%3D%3D) | 
+| 第61期王座戦予選 | Koyama Mitsuru | Numadate Sakiya | W+2.5 | 2012-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hwZdjjZGjk7pc2NxFmhJNg%3D%3D) | 
+| 第31期女流本因坊戦予選 | Makihata Taeko | Koyama Mitsuru | B+R | 2012-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yHFEfKlhgwtc5KqgdTHxXQ%3D%3D) | 
+| 第24期女流名人戦予選 | Yashiro Kumiko | Koyama Mitsuru | B+R | 2011-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wOw34CsLPcethxEe%2Fflk5w%3D%3D) | 
+| 第30期女流本因坊戦2回戦 | Koyama Mitsuru | Mukai Chiaki | W+R | 2011-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mBk4SQ%2B2XHSMIFPdPLB9TA%3D%3D) | 
+| 第30期女流本因坊戦予選 | Koyama Mitsuru | Osawa Narumi | B+7.5 | 2011-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gNYwh7nDfs1bikW5oxetow%3D%3D) | 
+| 第23期女流名人戦リーグ | Mannami Nao | Koyama Mitsuru | B+1.5 | 2010-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G4VxHmVO1Ya274HA9TZIiQ%3D%3D) | 
+| 第23期女流名人戦リーグ | Suzuki Ayumi | Koyama Mitsuru | B+5.5 | 2010-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=URM3pwcrgJsyMQB8JujJTQ%3D%3D) | 
+| 第23期女流名人戦リーグ | Koyama Mitsuru | Umezawa Yukari | B+R | 2010-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gBi7bYfzDXtO6VcCy1aORQ%3D%3D) | 
+| 第23期女流名人戦リーグ | Koyama Mitsuru | Okuda Aya | W+2.5 | 2010-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QtSjNBq8O6Smh9E7qxkHiA%3D%3D) | 
+| 第23期女流名人戦リーグ | Koyama Mitsuru | Mukai Chiaki | W+R | 2010-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zAL3LrT0VE1W4XEwuHJuFQ%3D%3D) | 
+| 第23期女流名人戦予選 | Koyama Mitsuru | Chinen Kaori | B+R | 2010-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kudIFXm%2FswZaW%2F4KEnGpWA%3D%3D) | 
+| 第29期女流本因坊戦2回戦 | Ishii Akane | Koyama Mitsuru | B+R | 2010-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qCOqA0B6NCPBtiTpWhGiZQ%3D%3D) | 
+| 第29期女流本因坊戦1回戦 | Koyama Mitsuru | Izawa Akino | B+R | 2010-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=niis8xQMmgfl2KTXuDzvhw%3D%3D) | 
+| 第23期女流名人戦予選 | Koyama Mitsuru | Osawa Narumi | B+2.5 | 2010-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WEIXs3xez2RKZDinpxaY0w%3D%3D) | 
+| 第66期本因坊戦予選 | Rin Kaiho | Koyama Mitsuru | B+0.5 | 2010-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ppu6V1quQH9B78gG1o47Mw%3D%3D) | 
+| 第29期女流本因坊戦予選 | Koyama Mitsuru | Mukai Kozue | B+4.5 | 2010-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BnP7Kkb%2Bxbsh2xk3Cs7fWA%3D%3D) | 
+| 第58期王座戦予選 | Kudo Norio | Koyama Mitsuru | B+R | 2009-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gz1Uc3UvKSw4NtPwj05v2A%3D%3D) | 
+| 第3回大和証券杯ネット囲碁レディース準決勝 | Koyama Mitsuru | Xie Yimin | W+R | 2009-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Eb7J7H7%2FbUz79uUsUGzHNQ%3D%3D) | 
+| 第22期女流名人戦予選 | Koyama Mitsuru | Mukai Kaori | W+R | 2009-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XPEB4oK5Ez9Bn0pAaX8RlQ%3D%3D) | 
+| 第3回大和証券杯ネット囲碁レディース1回戦 | Kato Keiko | Koyama Mitsuru | W+R | 2009-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F7KN1Cy09JHGT%2BpwOT7DbA%3D%3D) | 
+| 第28期女流本因坊戦1回戦 | Koyama Mitsuru | Aoki Kikuyo | W+R | 2009-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0D73GU7OXfuYgvMQ0Ludrw%3D%3D) | 
+| 第3回大和証券杯ネット囲碁レディース予選 | Koyama Mitsuru | Komatsu Hideko | B+2.5 | 2009-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y7zLXjKP12PuAYfS%2F2oFRw%3D%3D) | 
+| 第28期女流本因坊戦予選 | Koyama Mitsuru | Yashiro Kumiko | B+R | 2009-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eAb6oFSJNqVRh5EsaK%2BLVA%3D%3D) | 
+| 第1回ワールドマインドスポーツゲームズ囲碁女子団体戦 | Koyama Mitsuru | Wang Xiangyun | W+4.5 | 2008-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D%2B289nlYoKGQH8iE%2BPsZlQ%3D%3D) | 
+| 第12期ドコモ杯女流棋聖戦1回戦 | Osawa Narumi | Koyama Mitsuru | B+7.5 | 2008-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WqvOMeV%2BH3MWdLrF2OEAkQ%3D%3D) | 
+| 第27期女流本因坊戦2回戦 | Koyama Mitsuru | Suzuki Ayumi | W+2.5 | 2008-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0kpxdOxRucKVr0qJgfHCbw%3D%3D) | 
+| 第21期女流名人戦予選 | Suzuki Ayumi | Koyama Mitsuru | B+R | 2008-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IBIFogWwu07RDFAoNqdYcg%3D%3D) | 
+| 第2回大和証券杯ネット囲碁レディース1回戦 | Mukai Chiaki | Koyama Mitsuru | B+3.5 | 2008-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3eVNqx1Bk%2FJI3KLkv6ulmw%3D%3D) | 
+| 第10期東京精密杯女流プロ最強戦1回戦 | Koyama Mitsuru | Suzuki Ayumi | B+R | 2008-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fUW%2FNZdKf0HcpyYh7TKtvQ%3D%3D) | 
+| 第2回大和証券杯ネット囲碁レディース予選 | Sugiuchi Kazuko | Koyama Mitsuru | W+R | 2008-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9kSr6dtBoReMg9SzdJLBEA%3D%3D) | 
+| 第27期女流本因坊戦1回戦 | Yashiro Kumiko | Koyama Mitsuru | W+R | 2008-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DgWdKT0cttKDQh%2FifiXB8Q%3D%3D) | 
+| 第64期本因坊戦予選 | Ishida Yoshio | Koyama Mitsuru | W+1.5 | 2008-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kC6IjKelovzkko7teGsGnw%3D%3D) | 
+| 第20期女流名人戦敗者復活戦4回戦 | Xie Yimin | Koyama Mitsuru | B+R | 2007-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TykKfDxEIJsR6U4UmBA11Q%3D%3D) | 
+| 第20期女流名人戦敗者復活戦3回戦 | Okuda Aya | Koyama Mitsuru | W+R | 2007-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MNB7NV3AYC2DcHuDp8pQfg%3D%3D) | 
+| 第20期女流名人戦敗者復活戦2回戦 | Koyama Mitsuru | Inori Yoko | B+R | 2007-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cUmwMaT31T1xWD4P77zI4w%3D%3D) | 
+| 第11期ドコモ杯女流棋聖戦1回戦 | Mukai Chiaki | Koyama Mitsuru | B+13.5 | 2007-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MT5Jj7afaB0e2C3iRTPErQ%3D%3D) | 
+| 第20期女流名人戦2回戦 | Mukai Kaori | Koyama Mitsuru | B+2.5 | 2007-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tFHz5ZEQ2GH1ecTIXkSeqA%3D%3D) | 
+| 第26期女流本因坊戦準決勝 | Koyama Mitsuru | Kobayashi Izumi | W+R | 2007-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W5ntPJWBahqxIC9heaWLWQ%3D%3D) | 
+| 第26期女流本因坊戦2回戦 | Koyama Mitsuru | Shinkai Hiroko | B+R | 2007-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3pt9mWBuMW2BnLF6nTqDjA%3D%3D) | 
+| 第1回大和証券杯ネット囲碁レディース2回戦 | Koyama Mitsuru | Mukai Chiaki | W+6.5 | 2007-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yxEVashsUe0VfADdX2rmJQ%3D%3D) | 
+| 第20期女流名人戦1回戦 | Konishi Kazuko | Koyama Mitsuru | W+7.5 | 2007-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lhWHzznrVaemBZn%2FNCI1ag%3D%3D) | 
+| 第1回大和証券杯ネット囲碁レディース1回戦 | Koyama Mitsuru | Ikeda Ayako | B+R | 2007-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZyOYwM0UnleMIWDMUUMHgw%3D%3D) | 
+| 第26期女流本因坊戦1回戦 | Umezawa Yukari | Koyama Mitsuru | W+R | 2007-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iJAWVGgNv%2BbvFLtLBU79XA%3D%3D) | 
+| 第1回大和証券杯ネット囲碁レディース予選 | Kouda Akiko | Koyama Mitsuru | W+3.5 | 2007-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mfbIGXDeuPGS5iIqWo3snw%3D%3D) | 
+| 第20期女流名人戦予選 | Koyama Mitsuru | Kanno Naomi | B+R | 2007-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eCIcSMlSO4MIeoATUhqa%2Fg%3D%3D) | 
+| 第14期阿含・桐山杯全日本早碁オープン戦予選 | Hiraoka Satoshi | Koyama Mitsuru | B+R | 2007-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mt3EiAs89765F8Mm10nXqw%3D%3D) | 
+| 第19期女流名人戦敗者復活戦1回戦 | Makihata Taeko | Koyama Mitsuru | B+R | 2006-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xlfQVzWcuXv3WTxyFjfpbQ%3D%3D) | 
+| 第19期女流名人戦1回戦 | Koyama Mitsuru | Inori Yoko | W+2.5 | 2006-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A1VSYv95tQBnrerwAd3toQ%3D%3D) | 
+| 第8期東京精密杯女流プロ最強戦1回戦 | Koyama Mitsuru | Kato Tomoko | W+R | 2006-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NhAYrvSgDQIp3iy0YZdWvg%3D%3D) | 
+| 第25期女流本因坊戦1回戦 | Koyama Mitsuru | Ogawa Tomoko | B+2.5 | 2006-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LIbSV6BrIFCCFYS4ZhHTFw%3D%3D) | 
+| 第18期女流名人戦挑戦手合三番勝負第2局 | Koyama Mitsuru | Aoki Kikuyo | W+1.5 | 2006-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pz91oulm6p1EOcnKxDe2fA%3D%3D) | 
+| 第18期女流名人戦挑戦手合三番勝負第1局 | Aoki Kikuyo | Koyama Mitsuru | B+0.5 | 2006-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a1S828vbyDqdwhoenFfVTw%3D%3D) | 
+| 第4回正官庄杯世界女子囲碁最強戦第12戦 | Park Shiun | Koyama Mitsuru | B+4.5 | 2006-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=owB3Y3GIPfC%2F1dhm46FAAQ%3D%3D) | 
+| 第9期ドコモ杯女流棋聖戦2回戦 | Koyama Mitsuru | Kato Tomoko | W+R | 2005-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sjClieebfGdLoljOqroOsw%3D%3D) | 
+| 第9期ドコモ杯女流棋聖戦1回戦 | Koyama Mitsuru | Suzuki Ayumi | B+R | 2005-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FLyxzviRHRwDfPEjTqkYRw%3D%3D) | 
+| 第17期女流名人戦挑戦手合三番勝負第3局 | Kobayashi Izumi | Koyama Mitsuru | W+R | 2005-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K93WMhwrSLdWlZrQfefbXw%3D%3D) | 
+| 第17期女流名人戦挑戦手合三番勝負第2局 | Kobayashi Izumi | Koyama Mitsuru | W+13.5 | 2005-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zt9QtYdI%2Fp7qkqNhYd1Ezw%3D%3D) | 
+| 第17期女流名人戦挑戦手合三番勝負第1局 | Koyama Mitsuru | Kobayashi Izumi | W+R | 2005-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QNMi7L4qD7yaY9mcjipgYg%3D%3D) | 
+| 第17期女流名人戦挑戦者決定戦 | Koyama Mitsuru | Aoki Kikuyo | B+R | 2005-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZLtngENBG95NqaxaORUy6g%3D%3D) | 
+| 第8期ドコモ杯女流棋聖戦2回戦 | Izawa Akino | Koyama Mitsuru | B+6.5 | 2004-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nLl7XF820KZFshnkbj7s0A%3D%3D) | 
+| 第17期女流名人戦決勝 | Koyama Mitsuru | Yashiro Kumiko | B+4.5 | 2004-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MVhM4eQTtRk8TlpXmbo7ug%3D%3D) | 
+| 第8期ドコモ杯女流棋聖戦1回戦 | Kobayashi Izumi | Koyama Mitsuru | W+4.5 | 2004-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YLlmhhNss%2BofgyG%2BOjgRiA%3D%3D) | 
+| 第6期東京精密杯女流プロ最強戦3回戦 | Koyama Mitsuru | Abe Yumiko | W+R | 2004-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r5WFPlI6QhZNkHwfy7VgXQ%3D%3D) | 
+| 第17期女流名人戦3回戦 | Aoki Kikuyo | Koyama Mitsuru | W+R | 2004-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ahL3NxvWygh%2FboikBPo3TA%3D%3D) | 
+| 第17期女流名人戦2回戦 | Koyama Mitsuru | Ashida Isoko | B+R | 2004-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tcuCnqUMv2ricE7KLj2cVw%3D%3D) | 
+| 第6期東京精密杯女流プロ最強戦2回戦 | Koyama Mitsuru | Sugiuchi Kazuko | B+T | 2004-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hrpO0Rg1j2%2Fc7qlLMeaWqw%3D%3D) | 
+| 第17期女流名人戦1回戦 | Tamura Chiaki | Koyama Mitsuru | W+R | 2004-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F7GoFEDG%2B2rKSAg9PVxGpA%3D%3D) | 
+| 第7期ドコモ杯女流棋聖戦2回戦 | Koyama Mitsuru | Kato Keiko | W+R | 2003-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=006JbvROld76c%2FAJEFsJkQ%3D%3D) | 
+| 第7期ドコモ杯女流棋聖戦1回戦 | Koyama Mitsuru | Yoshida Mika | B+3.5 | 2003-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JZK2%2F69OdMUHmgrYMJPPOA%3D%3D) | 
+| 第16期女流名人戦敗者復活戦3回戦 | Koyama Mitsuru | Inori Yoko | W+0.5 | 2003-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RxM0WLdpcjETDDPgeAyFnA%3D%3D) | 
+| 第16期女流名人戦敗者復活戦2回戦 | Koyama Mitsuru | Suzuki Ayumi | B+8.5 | 2003-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K6eC%2BabAaDExIkBJs8%2Bx9Q%3D%3D) | 
+| 第16期女流名人戦2回戦 | Abe Yumiko | Koyama Mitsuru | B+R | 2003-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RfTMt7ZlYVh2X9aMED%2FPTA%3D%3D) | 
+| 第16期女流名人戦1回戦 | Kato Tomoko | Koyama Mitsuru | W+0.5 | 2003-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g1lOg658%2BwIWm2Js0Qe5XA%3D%3D) | 
+| 第1回正官庄杯世界女子囲碁最強戦1回戦 | Koyama Mitsuru | Zhang Xuan | W+R | 2002-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TXCoyu%2BbJI3voUq4XZoSwA%3D%3D) | 
+| 第1回興倉杯世界女流囲碁選手権戦3回戦 | Hua Xueming | Koyama Mitsuru | B+R | 2000-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nDCKK7c7HdRm9kEkP%2BSkYA%3D%3D) | 
+| 第1回興倉杯世界女流囲碁選手権戦2回戦 | Zhang Zhengping | Koyama Mitsuru | W+R | 1999-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FR0nBQU5E0Jd1n6oQH%2BcjA%3D%3D) | 
+| 第1回興倉杯世界女流囲碁選手権戦1回戦 | Yun Yeongseon | Koyama Mitsuru | W+0.5 | 1999-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QhFICuGPIu4L5pYtLPClmw%3D%3D) |
+
+
+
+

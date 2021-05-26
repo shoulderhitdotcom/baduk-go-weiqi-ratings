@@ -72,6 +72,7 @@ const OFFSET = 3800-6.5/log(10)*400
 pings_for_md1 = @chain pings begin
 #    @where :n .> infrequent_threshold
    @transform eng_name = coalesce.(eng_name.(:name), Ref(""));
+   @transform eng_name = "[" .* :eng_name .* "](./player-games-md/md/" .* :eng_name .* ".md)"
    @transform estimate_for_ranking = :estimate .- 1.97 .* :std_error
    @transform Rating = @. round(Int, :estimate * 400 / log(10) + OFFSET)
    @transform rating_for_ranking = @. round(Int, :estimate_for_ranking * 400 / log(10) + OFFSET)
@@ -86,48 +87,6 @@ pings_for_md = select(pings_for_md1, :Rank, :eng_name=>"Name", :Rating, :rating_
 
 JDF.save("pings_for_md.jdf", pings_for_md)
 
-replacements = (
-    "{{ngames}}" => string(nrow(games)),
-    "{{from_date}}" =>from_date,
-    "{{to_date}}" => to_date,
-    "{{elo_white75_adv}}" => string(round(Int, white75_advantage*400/log(10))),
-    "{{elo_black65_adv}}" => string(round(Int, black65_advantage*400/log(10))),
-    "{{ping_white75_adv}}" => string(round(white75_advantage, digits=2)),
-    "{{ping_black65_adv}}" => string(round(black65_advantage, digits=2)),
-    "Ke Jie" => "[Ke Jie](kejie.md)",
-)
-
-using Weave
-
-weave("index.jmd", out_path = "index-tmp.md", doctype = "github")
-
-open("index-tmp.md") do file
-    outfile = open("index.md", "w")
-    while !eof(file)
-        line = readline(file)
-        for (in, replace_with) in replacements
-            line = replace(line, in=>replace_with)
-        end
-        if line != "```"
-            write(outfile, line)
-            write(outfile, "\n")
-        end
-    end
-    close(outfile)
-end
-
-rm("index-tmp.md")
-
-
-try
-    run(`git add index.md`)
-    run(`git commit -m "daily update $to_date"`)
-    run(`git push`)
-    alert("Seems to have succeeded")
-catch e
-    alert("You process failed")
-    raise(e)
-end
 ## make a GLM solution
 ## Doesn't work
 

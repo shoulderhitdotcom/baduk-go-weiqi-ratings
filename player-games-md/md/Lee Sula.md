@@ -1,0 +1,147 @@
+## Lee Sula Games
+
+[Back to ranking](index.md)
+
+
+
+
+| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| --- | --- | --- | --- | --- | --- | --- |
+| 第23期女流国手戦決勝三番勝負第3局 | Lee Sula | Choi Jeong | W+R | 2018-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JF6x1MWeVUA75yNdlo8A9g%3D%3D) | 
+| 第23期女流国手戦決勝三番勝負第2局 | Choi Jeong | Lee Sula | B+R | 2018-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pl50v3jzUNzqIVYNHRCpGA%3D%3D) | 
+| 第23期女流国手戦決勝三番勝負第1局 | Lee Sula | Choi Jeong | B+R | 2018-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WVZFb%2BAcb3aubpu9wHw97Q%3D%3D) | 
+| 第23期女流国手戦準決勝 | missing | Lee Sula | W+R | 2018-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=19ghBpVNKL9a1Ok5tj6nIg%3D%3D) | 
+| 第6回中国女子囲碁甲級リーグ第12節 | Yin Qu | Lee Sula | B+R | 2018-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1%2BYEeNr5KmGadfTCYbMQrQ%3D%3D) | 
+| 第6回中国女子囲碁甲級リーグ第11節河北-蕪湖 | Lee Sula | Cao Youyin | W+1¼ | 2018-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zsHQFZZ%2FDLPcdWfjUeAxUA%3D%3D) | 
+| 第6回中国女子囲碁甲級リーグ第10節蕪湖-上海 | Tang Yi | Lee Sula | W+R | 2018-08-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yf%2FuxpLaILDrEPvHSvcJHQ%3D%3D) | 
+| 第6回中国女子囲碁甲級リーグ第9節蕪湖-広東 | Cai Bihan | Lee Sula | B+R | 2018-08-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GwHSWxzSEY1WSoqS32jg9w%3D%3D) | 
+| 第23期女流国手戦8強戦 | Lee Sula | Kim Dayoung | B+0.5 | 2018-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mum1ozQJW5N9NH0UyRK3Iw%3D%3D) | 
+| 第23期女流国手戦16強戦 | Park Jiyeon | Lee Sula | W+R | 2018-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tlxVZGAnot6Y9HzY9qZPpA%3D%3D) | 
+| 第6回中国女子囲碁甲級リーグ第8節武漢-蕪湖 | Lee Sula | missing | B+1¾ | 2018-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xccCggEPbnjlmOkY1%2FP0BQ%3D%3D) | 
+| 第4回韓国女子囲碁リーグ優勝決定戦第1戦 | missing | Lee Sula | W+5.5 | 2018-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BNrAQ5QfMC57Ci4YoxjYWg%3D%3D) | 
+| 第4回韓国女子囲碁リーグ第18節 | Lee Sula | Kim Soojin | W+R | 2018-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9IC9gMPEYLGlEDPXh8lzrA%3D%3D) | 
+| 第4回韓国女子囲碁リーグ第17節 | Cho Hyeyeon | Lee Sula | W+6.5 | 2018-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TDwy44N%2B6Gxf9V0UGlDb5g%3D%3D) | 
+| 第4回韓国女子囲碁リーグ第16節 | Lee Sula | Kim Sinyoung | B+R | 2018-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=49eVZ9SZc5EABTUaOoTjJA%3D%3D) | 
+| 第6回中国女子囲碁甲級リーグ第4節蕪湖-浙江 | Wang Yubo | Lee Sula | B+R | 2018-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7JgNesSb1yD2PBBQSffvzg%3D%3D) | 
+| 第4回韓国女子囲碁リーグ第14節 | missing | Lee Sula | W+8.5 | 2018-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VIFmHvKORTx9lJSqnn%2Bd1g%3D%3D) | 
+| 第4回韓国女子囲碁リーグ第13節 | Lee Sula | missing | B+R | 2018-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BKd1%2Buor1MkVYEAZDUYd1g%3D%3D) | 
+| 第4回韓国女子囲碁リーグ第12節 | Lee Sula | Oh Yujin | W+R | 2018-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C871%2FInE4VFdIIFYBb18vw%3D%3D) | 
+| 第4回韓国女子囲碁リーグ第11節 | Kim Eunseon | Lee Sula | W+R | 2018-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1kwi4pKHaq02shu9uY22QA%3D%3D) | 
+| 第4回韓国女子囲碁リーグ第10節 | Park Jiyeon | Lee Sula | W+5.5 | 2018-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1tUC9D3Lko%2FK06P5vVWY7A%3D%3D) | 
+| 第4回韓国女子囲碁リーグ第9節 | missing | Lee Sula | W+R | 2018-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wiaQoorRPOgaVUK%2BG0whmg%3D%3D) | 
+| 第4回韓国女子囲碁リーグ第8節 | Park Taehee | Lee Sula | W+R | 2018-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vFnsHF36RCtwAUMXCvmuhA%3D%3D) | 
+| 第4回韓国女子囲碁リーグ第7節 | Lee Sula | Choi Jeong | W+R | 2018-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LqgTS9k54TP2Mjof%2BJHk2g%3D%3D) | 
+| 第4回韓国女子囲碁リーグ第5節 | missing | Lee Sula | W+1.5 | 2018-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G0DXVFFwMZQmJmHmfJr2YA%3D%3D) | 
+| 第4回韓国女子囲碁リーグ第4節 | missing | Lee Sula | W+R | 2018-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OQw6DieuKTg1zoduJ0uU8w%3D%3D) | 
+| 第4回韓国女子囲碁リーグ第3節 | missing | Lee Sula | W+R | 2018-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7ERx6FIzZAKTnbnDVa%2Fj8A%3D%3D) | 
+| 第4回韓国女子囲碁リーグ第2節 | Kim Eunseon | Lee Sula | W+R | 2018-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vecygwz47%2Fj1aGKZtbRZvw%3D%3D) | 
+| 第4回韓国女子囲碁リーグ第1節 | Lee Sula | missing | W+3.5 | 2018-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r%2F5hgdrn5yBjWkpY15xENw%3D%3D) | 
+| 第22期女流国手戦1回戦 | Lee Sula | missing | W+R | 2017-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6YEvWLT81bDflkpbGkhcWQ%3D%3D) | 
+| 第3回韓国女子囲碁リーグ優勝決定戦第2戦 | Kim Cheayoung | Lee Sula | B+R | 2017-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cJ07J9bXkDzLpltprbIz4A%3D%3D) | 
+| 3期韓国女子連戦総決勝浦項-麗水3番1回 | Lee Sula | Cho Hyeyeon | W+10.5 | 2017-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yqWZBhIf3DvRzSeaBIvQBw%3D%3D) | 
+| 3期韓国女子連戦延長戦麗水-首爾3回 | Song Ronghui | Lee Sula | W+R | 2017-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kuzRNYxHF3dyQqfTUibFyA%3D%3D) | 
+| 3期韓国女子連戦延長戦麗水-首爾1回 | Lee Sula | Choi Jeong | W+R | 2017-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Va4EbD7GaUL0kqSWG6qxZw%3D%3D) | 
+| 3期韓国女子連戦14回戦首爾-麗水 | Choi Jeong | Lee Sula | B+3.5 | 2017-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0%2FH4zNBpvLPfsB8urmXQ6w%3D%3D) | 
+| 3期韓国女子連戦13回戦浦項-麗水 | Lee Sula | Cho Hyeyeon | W+0.5 | 2017-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l4iAQsn9b4rqANYExVcqZg%3D%3D) | 
+| 3期韓国女子連戦12回戦京畿湖畔-麗水 | Park Jiyeon | Lee Sula | B+R | 2017-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=27pql0a3zhTchF2qC%2FeSvw%3D%3D) | 
+| 3期韓国女子連戦11回戦麟蹄-麗水 | Fujisawa Rina | Lee Sula | W+R | 2017-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xVMQKpLKcceD0SpYBiAlpQ%3D%3D) | 
+| 3期韓国女子連戦9回戦京畿SG-麗水 | Lee Sula | Park Shiun | W+R | 2017-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FNZtaXrSbk5LCbObQ2ZjYw%3D%3D) | 
+| 3期韓国女子連戦8回戦西帰浦-麗水 | Lee Sula | missing | B+R | 2017-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NtBol4mQMFeecSHKbV1qpg%3D%3D) | 
+| 3期韓国女子連戦7回戦首尓-麗水 | Song Ronghui | Lee Sula | W+T | 2017-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U98GHVxiw7DgiuCiwe7wCw%3D%3D) | 
+| 3期韓国女子連戦6回戦浦項-麗水 | Lee Sula | Kim Cheayoung | W+R | 2017-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r4lMpdRRNZIIOYMWObGmfg%3D%3D) | 
+| 3期韓国女子連戦5回戦京畿湖畔-麗水 | Lee Sula | Park Jiyeon | B+R | 2017-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KTkZj0GTptcQbLEQLIopDg%3D%3D) | 
+| 3期韓国女子連戦4回戦麟蹄-麗水 | Lee Sula | Oh Yujin | B+8.5 | 2017-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gc0DpHhbr1P9WEW%2BaxFQCw%3D%3D) | 
+| 3期韓国女子連戦3回戦扶安-麗水 | Lee Sula | missing | B+R | 2017-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LtwmTYrUtJe0HDJSlucYXg%3D%3D) | 
+| 3期韓国女子連戦2回戦京畿SG-麗水 | Lee Sula | missing | W+R | 2017-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IfpTpTt%2FgBMp82nHx3KDhg%3D%3D) | 
+| 3期韓国女子連戦1回戦西帰浦-麗水 | Lee Sula | Yu Lijun | B+R | 2017-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7l5ug4YKdoe9yVFFXyHkSg%3D%3D) | 
+| 第21期女流国手戦準決勝 | Lee Sula | Oh Jeonga | W+R | 2016-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d9bwgobRJvRJdpo0K8A4KQ%3D%3D) | 
+| 韓国花様囲棋女王戦決勝 | Kim Hyeoimin | Lee Sula | B+R | 2016-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SGoE2%2BoTVFNe381QppYVaw%3D%3D) | 
+| 韓国花様囲棋女王戦準決勝 | Kim Yoonyoung | Lee Sula | W+R | 2016-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TK%2FUsgUawYRpzry%2FCLvNgw%3D%3D) | 
+| 韓国花様囲棋女王戦リーグ戦5回戦 | Lee Sula | missing | W+R | 2016-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jnBvon5K%2Bavf%2F1Opb4aT3w%3D%3D) | 
+| 韓国花様囲棋女王戦リーグ戦4R | missing | Lee Sula | B+R | 2016-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TlCPmJ%2FNJOzHNX%2BgoVjcQg%3D%3D) | 
+| 韓国花様囲棋女王戦リーグ戦3R | Lee Sula | Lee Tahye | B+R | 2016-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NhYixyM1MCaQG1%2FN%2FIOK9g%3D%3D) | 
+| 韓国花様囲棋女王戦リーグ戦2R | Lee Sula | missing | B+R | 2016-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e1bhy4fviQBmZMHzhEYvvw%3D%3D) | 
+| 韓国花様囲棋女王戦リーグ戦1R | Park Jiyeon | Lee Sula | W+R | 2016-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K7BTNArdo9VxiNItkLGGgg%3D%3D) | 
+| 第21期女流国手戦8強戦 | Lee Sula | Lee Youngjoo | B+R | 2016-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0VxxZuni4ODQ94N36t4j0g%3D%3D) | 
+| 第21期女流国手戦1回戦 | Lee Sula | Park Shiun | B+R | 2016-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5fyaZb0KfIUFbTvmq5mFfw%3D%3D) | 
+| 第2回韓国女子囲碁リーグ第14節 | Lee Sula | Kim Hyeoimin | W+R | 2016-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=337T2eA5YPZo6YA4oOEnaA%3D%3D) | 
+| 第2回韓国女子囲碁リーグ第13節 | Lee Sula | Kim Yoonyoung | B+R | 2016-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ZRTd5UmKqS1TlNiy7LIvg%3D%3D) | 
+| 第2回韓国女子囲碁リーグ第12節 | Wang Chenxing | Lee Sula | W+R | 2016-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ySQ3GIjUqpceclMpQDWB0g%3D%3D) | 
+| 第2回韓国女子囲碁リーグ第11節 | Lee Sula | Lee Youngjoo | B+R | 2016-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AD0GRPZl2p1I0Rza08wYyA%3D%3D) | 
+| 第2回韓国女子囲碁リーグ第10節 | Lee Sula | Yu Zhiying | W+R | 2016-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PAnaJ4UJOU%2FCbLs8KgrA4g%3D%3D) | 
+| 第2回韓国女子囲碁リーグ第9節 | Park Sohyun | Lee Sula | W+R | 2016-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RcSulMd4K2%2B7vLpJiwSTAg%3D%3D) | 
+| 第2回韓国女子囲碁リーグ第8節 | Lee Sula | Park Shiun | B+R | 2016-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rvnR8sHA5NzLE5mBoswkSA%3D%3D) | 
+| 第2回韓国女子囲碁リーグ第6節 | Park Jiyeon | Lee Sula | B+R | 2016-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WPGGuz8Rc2SkRAKuRVcENw%3D%3D) | 
+| 第2回韓国女子囲碁リーグ第5節 | Lee Sula | Wang Chenxing | W+3.5 | 2016-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jAWQS9gOQKz4hTjVZhr9yg%3D%3D) | 
+| 第2回韓国女子囲碁リーグ第4節 | Lee Sula | Oh Yujin | W+8.5 | 2016-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=39hCRbXOIFr0gQiqAfpL5g%3D%3D) | 
+| 第2回韓国女子囲碁リーグ第3節 | Lee Sula | Yu Zhiying | W+R | 2016-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZVmjN7ZCaAMKfrRhlPDJaQ%3D%3D) | 
+| 第2回韓国女子囲碁リーグ第2節 | Lee Sula | Oh Jeonga | W+R | 2016-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LSBKpJFx%2BUnKudeh0c70LQ%3D%3D) | 
+| 第2回韓国女子囲碁リーグ第1節 | Park Shiun | Lee Sula | B+12.5 | 2016-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d9A3rm0X2jh4BUJvMKYjLQ%3D%3D) | 
+| 第17期女流名人戦（韓国）2回戦 | Park Shiun | Lee Sula | B+5.5 | 2015-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kynSX7fZzuNampDQQlmhRw%3D%3D) | 
+| 第9回GGオークション杯女流対シニア連勝対抗戦第7戦 | Lee Sula | Seo Bongsoo | W+7.5 | 2015-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PpJzgkD8AhUA8xY9C3Yjpg%3D%3D) | 
+| 第9回GGオークション杯女流対シニア連勝対抗戦第6戦 | Choi Kyubyeong | Lee Sula | W+R | 2015-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mWvjNSckylSaYc0jVzSywg%3D%3D) | 
+| 第9回GGオークション杯女流対シニア連勝対抗戦第5戦 | Lee Sula | Seo Nungwuk | B+17.5 | 2015-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pfMcyiRHgZTH4OuVxT72cg%3D%3D) | 
+| 第9回GGオークション杯女流対シニア連勝対抗戦第4戦 | Lee Sula | Kim Chongsu | B+6.5 | 2015-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V49bqyDwuLACEyl6RL95Aw%3D%3D) | 
+| 第9回GGオークション杯女流対シニア連勝対抗戦第3戦 | Lee Sula | Kang Hun | B+R | 2015-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mWB4NgIDLx09TOeOCYT%2F%2Bg%3D%3D) | 
+| 第9回GGオークション杯女流対シニア連勝対抗戦第2戦 | Lee Sula | Lee Hongyeol | B+2.5 | 2015-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ec33rjPtrLaOdtPjKNW2HA%3D%3D) | 
+| 第17期女流名人戦（韓国）1回戦 | Lee Sula | missing | B+2.5 | 2015-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eZyGHTrzXOxmwo1od1Wgrw%3D%3D) | 
+| 第34回KBS杯囲碁王戦1回戦 | Lee Donghoon | Lee Sula | B+R | 2015-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V5JO5hqNQdOzyDWCfN2G%2Fw%3D%3D) | 
+| 第4回黄竜士双登杯世界女子囲碁団体選手権第3戦 | Song Ronghui | Lee Sula | B+R | 2014-02-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IrGt6EXnQc6rmRdz8Dgshg%3D%3D) | 
+| 第19期女流国手戦2回戦 | Lee Sula | Park Shiun | W+R | 2014-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aNGMDInYvJAIsUf36DOG8w%3D%3D) | 
+| 第19期女流国手戦1回戦 | Lee Sula | Kim Nahyun | B+7.5 | 2013-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ut46TXpwSkBVR%2Fnhh3GWmg%3D%3D) | 
+| 2012年韓国囲碁リーグ | Park Yeonghun | Lee Sula | B+4.5 | 2012-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fmQ8ivGf5y%2BwMf0bVg8uzg%3D%3D) | 
+| 第6回GGオークション杯女流対シニア連勝対抗戦第12戦 | Hwang Weonjun | Lee Sula | B+3.5 | 2012-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qo6gj4lKrrPdISNI%2BRi59g%3D%3D) | 
+| 第2回黄竜士双登杯世界女子囲碁団体選手権第3戦 | Wang Chenxing | Lee Sula | B+R | 2012-02-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yFP7t63LCqwcM42WdGfl8w%3D%3D) | 
+| 第5回GGオークション杯女流対シニア連勝対抗戦第18戦 | Lee Sula | Cho Hunhyun | W+R | 2011-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jTdMjDvXppgg84FIYDXzWg%3D%3D) | 
+| 第16回三星火災杯統合予選女子枠決勝 | Song Ronghui | Lee Sula | B+R | 2011-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3LxJJitpENQD7vH6GtsUrw%3D%3D) | 
+| 第17期女流国手戦1回戦 | Rui Naiwei | Lee Sula | B+R | 2011-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IIYnX7Kv2xifhYbMpr6yqA%3D%3D) | 
+| 第13回農心杯韓国選抜戦 | Lee Sula | Moon Dowon | B+R | 2011-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SAcfI0tm97URjHklQvwflQ%3D%3D) | 
+| 第17期女流国手戦予選 | missing | Lee Sula | W+R | 2011-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l2NrZmhrBis45Co%2FA8%2ByIg%3D%3D) | 
+| 第30回KBS杯囲碁王戦本戦1回戦 | Lee Sula | Cho Hunhyun | W+R | 2011-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kxa5TB2qUudd9kv3CYUSxA%3D%3D) | 
+| 第13期女流名人戦（韓国）予選 | Lee Sula | Park Jiyeon | W+R | 2011-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z7mkgzwsL4vR8vIK4AMWEg%3D%3D) | 
+| 第12期女流名人戦（韓国）敗者復活戦決勝 | Cho Hyeyeon | Lee Sula | B+R | 2010-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fqfpbh4jQ4zJe%2BlQXKQ8dw%3D%3D) | 
+| 第16期女流国手戦2回戦 | Kim Yoonyoung | Lee Sula | B+4.5 | 2010-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UZjwygms906qv9S%2Bg14SEQ%3D%3D) | 
+| 第12期女流名人戦（韓国）敗者復活戦3回戦 | Lee Sula | Kim Yoonyoung | B+R | 2010-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nEZ%2B75LyMDVgnv3AjbJQqQ%3D%3D) | 
+| 2010年国際新鋭囲碁対抗戦第3戦 | Lee Sula | Song Ronghui | W+R | 2010-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ea8s%2F1df9D8eutbNQH5BDg%3D%3D) | 
+| 2010年国際新鋭囲碁対抗戦第2戦 | Lee Sula | Okuda Aya | B+3.5 | 2010-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nIJKd44IjOsPEMfpTVaeXQ%3D%3D) | 
+| 2010年国際新鋭囲碁対抗戦第1戦 | Chen Feng | Lee Sula | W+R | 2010-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s37eYeNW4XTFelRHX01m2A%3D%3D) | 
+| 第12期女流名人戦（韓国）敗者復活戦2回戦 | Lee Minjin | Lee Sula | W+R | 2010-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oLsETLB8bSgYjvbvIao4dQ%3D%3D) | 
+| 第4回GGオークション杯女流対シニア連勝対抗戦第15戦 | An Kwanwuk | Lee Sula | B+4.5 | 2010-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1S%2BPXc7AHXWjvzfvVLXxyQ%3D%3D) | 
+| 第1回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Zheng Yan | Lee Sula | B+R | 2010-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T%2BgSqwMY%2BAtYi5OgYQA97A%3D%3D) | 
+| 第1回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Lee Sula | Wang Chenxing | B+R | 2010-09-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4HMplGtWWeyTSjwN1wxdHA%3D%3D) | 
+| 第4回GGオークション杯女流対シニア連勝対抗戦第14戦 | Kim Soojang | Lee Sula | W+1.5 | 2010-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GLoyUKb9StpS67TVYT0Xbg%3D%3D) | 
+| 第4回GGオークション杯女流対シニア連勝対抗戦第13戦 | Paek Seongho | Lee Sula | W+5.5 | 2010-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=makfEBa99t9ipgNw43TKiQ%3D%3D) | 
+| 第4回GGオークション杯女流対シニア連勝対抗戦第12戦 | Lee Sula | Seo Bongsoo | B+R | 2010-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TBBrTkoo2QTtWRmkHMCyfg%3D%3D) | 
+| 第15回三星火災杯統合予選2回戦 | Lee Sula | Li He | W+R | 2010-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tRtfI9H8XDGxVU%2BYhOd3PA%3D%3D) | 
+| 第1回穹窿山兵聖杯韓国予選 | Lee Sula | Moon Dowon | B+R | 2010-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rLh4j5fa5DiFFY5799s%2B0g%3D%3D) | 
+| 第16期女流国手戦1回戦 | missing | Lee Sula | W+R | 2010-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P2y%2BCwFAeM7hOpbJ%2BGIJ%2BA%3D%3D) | 
+| 第12期女流名人戦（韓国）敗者復活戦1回戦 | Lee Sula | missing | B+R | 2010-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9tBqQSHWKmb0hFlOmdSScg%3D%3D) | 
+| 第12期女流名人戦（韓国）本戦1回戦 | Lee Sula | Cho Hyeyeon | W+R | 2010-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uyGkw94lY76wGg62tWtZ%2FA%3D%3D) | 
+| 第4期女流棋聖戦（韓国）予選 | Kim Hyeoimin | Lee Sula | B+5.5 | 2010-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b2ZQ3fn5gHu%2Fd5QBaLb%2Fmw%3D%3D) | 
+| 第15期女流国手戦2回戦 | Rui Naiwei | Lee Sula | B+R | 2009-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fOqtZOOWzquFXAK7ZcmRiQ%3D%3D) | 
+| 2009年国際新鋭囲碁対抗戦第3戦 | Lee Sula | Li He | W+R | 2009-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NL2d8Fpdjq%2Bxuqw6%2F%2BXnFg%3D%3D) | 
+| 2009年国際新鋭囲碁対抗戦第2戦 | Xie Yimin | Lee Sula | B+R | 2009-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xhz08KAXYUjkEqXgHPAWmA%3D%3D) | 
+| 2009年国際新鋭囲碁対抗戦第1戦 | Lee Sula | missing | W+4.5 | 2009-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FzUG2HCv0W6CNWWJ9p11bA%3D%3D) | 
+| 第15期女流国手戦1回戦 | Kim Hyeoimin | Lee Sula | W+R | 2009-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qJuhs49pmpU4%2B7ZCAByVng%3D%3D) | 
+| 第11期女流名人戦（韓国）挑戦者決定戦 | Cho Hyeyeon | Lee Sula | B+R | 2009-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BD4enJPpx0DvMzWTDzvv0Q%3D%3D) | 
+| 第11期女流名人戦（韓国）本戦勝者組決勝 | Lee Sula | Kim Hyeoimin | B+R | 2009-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZgBbDkVg2noOkWFGjSTPDA%3D%3D) | 
+| 第11期女流名人戦（韓国）本戦2回戦 | Cho Hyeyeon | Lee Sula | W+1.5 | 2009-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N%2BMtl3gZmVORu7nyyV7RqQ%3D%3D) | 
+| 第3回GGオークション杯女流対シニア連勝対抗戦第11戦 | An Kwanwuk | Lee Sula | B+6.5 | 2009-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RddSGoL4Irc%2B8UUeCoUTWg%3D%3D) | 
+| 第11期女流名人戦（韓国）本戦1回戦 | Lee Sula | missing | B+3.5 | 2009-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ic1KtYARxALtZpu7Lrc5xQ%3D%3D) | 
+| 2008年国際新鋭囲碁対抗戦第3戦 | Lee Sula | Song Ronghui | B+R | 2008-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b5bQO7Sn2JyNOlbrEGtX1A%3D%3D) | 
+| 2008年国際新鋭囲碁対抗戦第2戦 | Xiao Ailin | Lee Sula | W+R | 2008-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EeVYxi14KBG%2FX8U%2Fz9ekIA%3D%3D) | 
+| 2008年国際新鋭囲碁対抗戦第1戦 | Ishii Akane | Lee Sula | B+0.5 | 2008-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jn%2BRxV%2BM7nFb4cFaM9lEPQ%3D%3D) | 
+| 第14期女流国手戦1回戦 | Lee Sula | Lee Minjin | W+R | 2008-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wEWDw0%2BgBtes95L%2FWshByA%3D%3D) | 
+| 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Song Ronghui | Lee Sula | B+2.5 | 2008-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GSu50xJoIPLfW8m7L%2Bp9vA%3D%3D) | 
+| 第10期女流名人戦（韓国）敗者復活戦1回戦 | Hyun Mijin | Lee Sula | B+7.5 | 2008-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=46NUgaAka5GYvM%2FVK%2F%2FUvg%3D%3D) | 
+| 第2回GGオークション杯女流対シニア連勝対抗戦第4戦 | Lee Sula | Jimmy Cha | W+R | 2008-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WTKsJheAdlyLfU7NIaCbgA%3D%3D) | 
+| 第10期女流名人戦（韓国）本戦1回戦 | Lee Sula | Lee Hajin | W+R | 2008-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TIttMnUyEzvsFMg5w8A48g%3D%3D) | 
+| 第5期電子ランド杯王中王戦1回戦 | Lee Sula | Kim Ilhwan | W+19.5 | 2008-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fi7Ni%2FGHAKcTMKUz%2FkXe4w%3D%3D) | 
+| 第5期電子ランド杯王中王戦予選 | Lee Sula | Park Shiun | B+R | 2008-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NLltccJYbcdSyuusPO0QxQ%3D%3D) | 
+| 第6回正官庄杯世界女子囲碁最強戦第3戦 | Lee Sula | Aoki Kikuyo | W+9.5 | 2008-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4R0LC%2BY4vO0Oknxr0UEgBw%3D%3D) | 
+| 第6回正官庄杯世界女子囲碁最強戦第2戦 | Lee Sula | Wang Pan | B+R | 2008-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iraGD0kht4cUi6cjxp6jTQ%3D%3D) | 
+| 第6回正官庄杯世界女子囲碁最強戦第1戦 | Lee Sula | Umezawa Yukari | B+0.5 | 2008-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7hVAJbf6PARSvdet1RnRkw%3D%3D) |
+
+
+
+

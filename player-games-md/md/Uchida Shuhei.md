@@ -1,0 +1,139 @@
+## Uchida Shuhei Games
+
+[Back to ranking](index.md)
+
+
+
+
+| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| --- | --- | --- | --- | --- | --- | --- |
+| 第77期本因坊戦予選 | O Meien | Uchida Shuhei | W+2.5 | 2021-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gVqko97ydentqxdPQy5QTA%3D%3D) | 
+| 第15回広島アルミ杯・若鯉戦1回戦 | Uchida Shuhei | Fujimura Yosuke | W+R | 2020-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c14LzHxnnNlOHY6u64JZnw%3D%3D) | 
+| 第47期天元戦予選 | Cho Sonjin | Uchida Shuhei | B+R | 2020-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JX%2Bj%2FrTdMOEPWfJukDaZ6g%3D%3D) | 
+| 第47期天元戦予選 | O Rissei | Uchida Shuhei | W+R | 2020-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=92PTp1jFIAqo8fzE1cln0Q%3D%3D) | 
+| 第45期棋聖戦Cリーグ | Uchida Shuhei | Yuki Satoshi | B+R | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Is1x3XTV4ApTKtdgdEU5QA%3D%3D) | 
+| 第27期阿含・桐山杯全日本早碁オープン戦1回戦 | Ichiriki Ryo | Uchida Shuhei | B+R | 2020-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XVgHq7hbcr1w02P1XefbGg%3D%3D) | 
+| 第45期棋聖戦Cリーグ | Uchida Shuhei | O Meien | W+R | 2020-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fF%2FRYwO5ihPj41gB8We3Vw%3D%3D) | 
+| 第59期十段戦予選 | Xie Yimin | Uchida Shuhei | B+0.5 | 2020-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mLcE3RdyU3WqpsvKmgIrQQ%3D%3D) | 
+| 第45期棋聖戦ファーストトーナメント予選 | Takano Hideki | Uchida Shuhei | W+R | 2019-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xxPMAfYLbJ7xZFjYAPddQg%3D%3D) | 
+| 第45期碁聖戦予選 | Yoda Norimoto | Uchida Shuhei | B+R | 2019-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QpnEnT8SBGVur3WHE28oqA%3D%3D) | 
+| 第67期王座戦予選 | Koike Yoshihiro | Uchida Shuhei | B+4.5 | 2018-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=etv18z%2Bz5Gykdox5UhYE1g%3D%3D) | 
+| 第45期天元戦予選 | Shibano Toramaru | Uchida Shuhei | B+R | 2018-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jh7WtNhZUzNwdCGmM3bVgA%3D%3D) | 
+| 第74期本因坊戦予選 | Uchida Shuhei | Ichiriki Ryo | W+R | 2018-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=838JQBrNGk2Chof9Rfx%2BTA%3D%3D) | 
+| 第57期十段戦予選 | Uchida Shuhei | Rin Kanketsu | W+R | 2018-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K81QG7I6Gnu1wzTxPS2vIA%3D%3D) | 
+| 第44期天元戦2回戦 | Hsu Chiayuan | Uchida Shuhei | B+R | 2018-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WJmx%2Fge5U5zxfBYYNaRNYQ%3D%3D) | 
+| 第44期天元戦1回戦 | Uchida Shuhei | Ida Atsushi | B+9.5 | 2018-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t7eJqHl0%2Bbz3jGF2B3XXtw%3D%3D) | 
+| 第44期天元戦予選 | Uchida Shuhei | Ishida Yoshio | B+8.5 | 2017-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G4jCUoS%2BbAEqqV47zQtURQ%3D%3D) | 
+| 第65回NHK杯テレビ囲碁トーナメント戦2回戦第11局 | Uchida Shuhei | Hane Naoki | W+R | 2017-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AQuPDE3yxs%2FnR0ZkL8fLGw%3D%3D) | 
+| 44期天元戦予選 | Uchida Shuhei | Kobayashi Satoru | B+R | 2017-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8bNr%2FRKebdtGxuaLPAVPNA%3D%3D) | 
+| 第65回NHK杯テレビ囲碁トーナメント戦1回戦第17局 | Adachi Toshimasa | Uchida Shuhei | W+R | 2017-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IO81z8skf9wn598%2FUKpzRg%3D%3D) | 
+| 第56期十段戦　予選A決勝 | Uchida Shuhei | O Rissei | W+R | 2017-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y0JKO5aobZFxoiOKo1RQ6Q%3D%3D) | 
+| 第11回広島アルミ杯・若鯉戦　本戦2回戦 | Motoki Katsuya | Uchida Shuhei | B+R | 2016-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I0VSChR8oTPpJSxsrRcxdg%3D%3D) | 
+| 第11回広島アルミ杯・若鯉戦　本戦1回戦 | missing | Uchida Shuhei | W+R | 2016-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J6GDgiSnVfiVVou937PgrA%3D%3D) | 
+| 第42期名人戦　最終予選1組決勝 | Sakai Hideyuki | Uchida Shuhei | B+0.5 | 2016-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=unPkpc0NJXWodz4%2FnOMh8w%3D%3D) | 
+| 第42期名人戦最終予選 | Ryu Shikun | Uchida Shuhei | W+R | 2016-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=orrOOzeIl706GWa4qkZz7A%3D%3D) | 
+| 第42期名人戦　最終予選1回戦 | Yuki Satoshi | Uchida Shuhei | W+2.5 | 2016-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wdRCPuQ9AeFh5NjM%2F46duQ%3D%3D) | 
+| 第55期十段戦予選 | O Meien | Uchida Shuhei | B+R | 2016-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KVZXtw3vnYExUWuZpQ53zA%3D%3D) | 
+| 第42期碁聖戦予選 | Uchida Shuhei | Kobayashi Koichi | W+R | 2016-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hzGQTro6eUx5KawbJC8dIQ%3D%3D) | 
+| 第41期名人戦リーグ | Uchida Shuhei | Takao Shinji | W+R | 2016-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bZv7ymTmhPHU4hZ8ERSDuQ%3D%3D) | 
+| 第41期名人戦リーグ | Uchida Shuhei | Hane Naoki | W+R | 2016-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JbMUEvF3eAUVajhIVN9RAQ%3D%3D) | 
+| 第41期名人戦リーグ | Hirata Tomoya | Uchida Shuhei | B+5.5 | 2016-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SQCcFLlvhkUPIek2WnYIVQ%3D%3D) | 
+| 第41期名人戦リーグ | Uchida Shuhei | Ko Iso | W+R | 2016-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AiIIDzEPWV5ihvkH%2FgtUVw%3D%3D) | 
+| 第41期名人戦リーグ | Yamashita Keigo | Uchida Shuhei | B+R | 2016-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k5vkbDnbofXIhHu%2B7VUsZQ%3D%3D) | 
+| 第72期本因坊戦予選 | Uchida Shuhei | Yoda Norimoto | W+R | 2016-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f4O9tzuUWit2%2BonTgIBRgw%3D%3D) | 
+| 第41期名人戦リーグ | Uchida Shuhei | Kono Rin | W+R | 2016-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4PdHEVUBv0Lon%2FTFQdggzA%3D%3D) | 
+| 第41期碁聖戦本戦1回戦 | Uchida Shuhei | Yu Zhengqi | W+R | 2016-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3fwpuS9KcA9xUys80TOs%2BQ%3D%3D) | 
+| 第41期名人戦リーグ | Cho U | Uchida Shuhei | B+0.5 | 2016-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XceZ48em1MQxqJ8HTpJq9A%3D%3D) | 
+| 第41期名人戦リーグ | Murakawa Daisuke | Uchida Shuhei | B+R | 2015-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eWFIcdN4H6koDdQR3BcVBQ%3D%3D) | 
+| 第64期王座戦予選 | Yoda Norimoto | Uchida Shuhei | B+R | 2015-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KE%2FArGLwztHDjlsJ27E6hw%3D%3D) | 
+| 第41期名人戦予選 | Uchida Shuhei | Kanazawa Makoto | B+3.5 | 2015-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4Vo3xzjBwVKbCDxrDg04dg%3D%3D) | 
+| 第54期十段戦2回戦 | Yuki Satoshi | Uchida Shuhei | B+R | 2015-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JbwqHd0xcdDRSv6mhsU6xQ%3D%3D) | 
+| 第71期本因坊戦予選 | Uchida Shuhei | Yuki Satoshi | W+1.5 | 2015-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AQd7AV%2BJNXBzoZ4AT44wsw%3D%3D) | 
+| 第41期名人戦予選 | Uchida Shuhei | O Rissei | B+0.5 | 2015-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u2JkxY8HDrRgLB21AbXTZQ%3D%3D) | 
+| 第40期棋聖戦予選 | Kobayashi Koichi | Uchida Shuhei | W+2.5 | 2015-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=twNDjJ941B1jIobdmcjEbA%3D%3D) | 
+| 第41期天元戦予選 | Mizokami Tomochika | Uchida Shuhei | B+R | 2014-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j4hQj0p6pyFpcynjcmaHJQ%3D%3D) | 
+| 第53期十段戦1回戦 | Shida Tatsuya | Uchida Shuhei | B+1.5 | 2014-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FvQm4RKGvvlEw%2BtP31g18A%3D%3D) | 
+| 第53期十段戦予選 | Imamura Toshiya | Uchida Shuhei | W+3.5 | 2014-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sHL8%2BlhQLIyvyTY388UetQ%3D%3D) | 
+| 第40期碁聖戦予選 | Uchida Shuhei | Ishida Yoshio | W+R | 2014-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6sq%2BNUWozBA47AIllrg%2B2g%3D%3D) | 
+| 第40期天元戦予選 | Kono Rin | Uchida Shuhei | B+R | 2014-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9QK5Vda7C2H3XZA%2Fb3NYXA%3D%3D) | 
+| 第62期王座戦予選 | Uchida Shuhei | Kobayashi Satoru | W+R | 2013-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wPYDbTbjADCXqLaFmKus9A%3D%3D) | 
+| 第40期天元戦予選 | Uchida Shuhei | Cho Riyu | B+4.5 | 2013-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6imeA7k679zmfyUdJUNFMA%3D%3D) | 
+| 第52期十段戦2回戦 | Mizokami Tomochika | Uchida Shuhei | B+R | 2013-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TXQOkuO%2BBFGNF1csh8maow%3D%3D) | 
+| 2013年国際新鋭囲碁対抗戦第3戦 | Uchida Shuhei | Na Hyun | W+R | 2013-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JUN54WChOWUHV%2FqyQ%2Fwdww%3D%3D) | 
+| 2013年国際新鋭囲碁対抗戦第2戦 | Lian Xiao | Uchida Shuhei | B+R | 2013-10-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ki084NJdq0iT2oTp%2BYY36g%3D%3D) | 
+| 第15回農心杯選抜戦 | Yao Zhiteng | Uchida Shuhei | B+0.5 | 2013-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N9M3ChQbXbKmsoAihZ%2FfOw%3D%3D) | 
+| 第15回農心杯選抜戦 | Uchida Shuhei | Ida Atsushi | W+R | 2013-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KX5yrCs5YeRTUDGn%2FSa8GA%3D%3D) | 
+| 第15回農心杯選抜戦 | Uchida Shuhei | Yao Zhiteng | B+1.5 | 2013-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cL2XzbCOm%2BZJzCYu4Z%2Bu0g%3D%3D) | 
+| 第52期十段戦予選 | Yokota Shigeaki | Uchida Shuhei | W+R | 2013-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qRFcD1pZ3v%2Bgpep8s10q1A%3D%3D) | 
+| 第39期天元戦本戦2回戦 | Yamashita Keigo | Uchida Shuhei | B+9.5 | 2013-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B9NKp3zS1qa2jTNhdVO95w%3D%3D) | 
+| 第39期天元戦本戦1回戦 | Sakai Hideyuki | Uchida Shuhei | W+0.5 | 2013-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rdUlZ%2Fq9zMovVtHR%2FME%2FXw%3D%3D) | 
+| 第69期本因坊戦予選 | O Meien | Uchida Shuhei | B+R | 2013-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nWQztmgaSiMNAA%2FKO0YZNg%3D%3D) | 
+| 第61期王座戦予選 | Uchida Shuhei | Ishida Yoshio | W+R | 2013-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zIbcYWOjjNnkF5H9Zljbgg%3D%3D) | 
+| 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Uchida Shuhei | Fujita Akihiko | W+R | 2012-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B2ByiA79xzBhfGZEOeQwrA%3D%3D) | 
+| 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Park Junghwan | Uchida Shuhei | B+R | 2012-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1OX3VLKjSZxNmKYDsU4FbA%3D%3D) | 
+| 第37期名人戦リーグ | Yuki Satoshi | Uchida Shuhei | W+0.5 | 2012-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kUBUY6pu2gvx%2BeMBySnMxw%3D%3D) | 
+| 第51期十段戦予選 | Cho Chikun | Uchida Shuhei | B+R | 2012-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=izIdkSHzZKMoFaG0%2BiRTJw%3D%3D) | 
+| 第37期名人戦リーグ | Uchida Shuhei | Cho U | B+R | 2012-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZHMcu8ZJiiTcVgMCTUNkjA%3D%3D) | 
+| 第68期本因坊戦予選 | Yoda Norimoto | Uchida Shuhei | B+R | 2012-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qYE5o%2Bfh%2FAm04i1SZPW%2B%2BA%3D%3D) | 
+| 第37期名人戦リーグ | Takao Shinji | Uchida Shuhei | B+R | 2012-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MWYKDU34Dku%2BCzjfY%2BOkgA%3D%3D) | 
+| 第37期名人戦リーグ | Iyama Yuta | Uchida Shuhei | B+R | 2012-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NmtNcqsNsmndkxMVbV4L9Q%3D%3D) | 
+| 第37期名人戦リーグ | Uchida Shuhei | Kim Sujun | W+R | 2012-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XnklkmxrH99%2B9ucAj8sEtA%3D%3D) | 
+| 第37期名人戦リーグ | Kono Rin | Uchida Shuhei | B+R | 2012-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cog9S99Hdemc6PdJD1DulQ%3D%3D) | 
+| 第51期十段戦予選 | Uchida Shuhei | Rin Kaiho | B+R | 2012-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RPaLylyNf5uffdTRl2p%2BiQ%3D%3D) | 
+| 第37期名人戦リーグ | Uchida Shuhei | Hane Naoki | W+R | 2012-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9PmS3dKRTxyLzYfD8nFPZA%3D%3D) | 
+| 第37期名人戦リーグ | Uchida Shuhei | Mizokami Tomochika | W+R | 2011-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wSTKlPeODmeJN6yGY20yEA%3D%3D) | 
+| 第6回広島アルミ杯・若鯉戦決勝 | Shida Tatsuya | Uchida Shuhei | W+R | 2011-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XVuvZKA1GbPjpoOTultOWg%3D%3D) | 
+| 第6回広島アルミ杯・若鯉戦準決勝 | Xie Yimin | Uchida Shuhei | W+0.5 | 2011-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mBRA2DB4n5IXM2Nh4zNZ%2FA%3D%3D) | 
+| 第6回広島アルミ杯・若鯉戦2回戦 | Uchida Shuhei | Okuda Aya | B+9.5 | 2011-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tGZQP7zbrYJfwE8Cn8RZIQ%3D%3D) | 
+| 第6回広島アルミ杯・若鯉戦1回戦 | Uchida Shuhei | Suzuki Shinji | B+R | 2011-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZP%2BJJbijf52D4EBqJCPpbQ%3D%3D) | 
+| 第37期名人戦予選 | Uchida Shuhei | Cho Chikun | B+R | 2011-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IIecSq6qXrfaEfBtqma%2FHQ%3D%3D) | 
+| 第38期天元戦予選 | Uchida Shuhei | Cho Chikun | W+R | 2011-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vrO5Jp8k%2FpQa%2F%2B4fG5f1Gg%3D%3D) | 
+| 第37期名人戦予選 | Uchida Shuhei | Nakane Naoyuki | B+R | 2011-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZTxsZJaiREHF7YjS0zvndA%3D%3D) | 
+| 第2回おかげ杯囲碁トーナメント戦準決勝 | Uchida Shuhei | Anzai Nobuaki | W+4.5 | 2011-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Updr30Dn7%2BVGaSs74d1KRQ%3D%3D) | 
+| 第37期碁聖戦予選 | Sugiuchi Masao | Uchida Shuhei | B+R | 2011-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=izzJZwwfxdcS%2BW7bzvitBg%3D%3D) | 
+| 第5回広島アルミ杯・若鯉戦1回戦 | Shida Tatsuya | Uchida Shuhei | B+0.5 | 2010-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CvfNLt%2BA%2FY0GZV7tEISJkg%3D%3D) | 
+| 第37期天元戦予選 | Kono Rin | Uchida Shuhei | B+3.5 | 2010-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nLB2s6en6%2F7RLY%2BXSFIf%2Bg%3D%3D) | 
+| 2010年国際新鋭囲碁対抗戦第3戦 | Uchida Shuhei | Lin Lixiang | W+0.5 | 2010-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zL6b0XfB9XxZSGN1wYflYw%3D%3D) | 
+| 2010年国際新鋭囲碁対抗戦第2戦 | Lee Taehyun | Uchida Shuhei | W+R | 2010-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8NNMemW0KXXsY2wH8vXe7g%3D%3D) | 
+| 2010年国際新鋭囲碁対抗戦第1戦 | Wang Tao | Uchida Shuhei | W+R | 2010-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D2choh4c1Z81jUiWxXjfHQ%3D%3D) | 
+| 第66期本因坊戦予選 | Cho Sonjin | Uchida Shuhei | B+R | 2010-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qz5qxO5KPCUjbovR%2BtVYKQ%3D%3D) | 
+| 第66期本因坊戦予選 | Ohashi Hirofumi | Uchida Shuhei | W+R | 2010-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fyp25dNgetBkh2EWGKxdIg%3D%3D) | 
+| 第4回広島アルミ杯・若鯉戦決勝 | Uchida Shuhei | Yamamori Tadanao | B+R | 2009-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=635YgAzEwllrUxmweCW0kQ%3D%3D) | 
+| 第4回広島アルミ杯・若鯉戦準決勝 | Obuchi Kotaro | Uchida Shuhei | W+T | 2009-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8zRLJoerDQMEiz0%2F%2FSJv%2Fw%3D%3D) | 
+| 第23回世界囲碁選手権富士通杯国内予選 | Uchida Shuhei | O Meien | Void | 2009-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z3Uib3JPYoXvSgwc70xxvA%3D%3D) | 
+| 第49期十段戦予選 | Uchida Shuhei | Rin Kaiho | B+4.5 | 2009-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7xlriQ1PZ4yKSeFOHjJYuQ%3D%3D) | 
+| 第5回大和証券杯ネット囲碁オープン予選 | Han Zenki | Uchida Shuhei | B+R | 2009-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qsOztopl6iFtfe5EtD62%2Bg%3D%3D) | 
+| 第16期阿含・桐山杯全日本早碁オープン戦予選 | Uchida Shuhei | missing | B+R | 2009-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RyDxSoKl7m7Ip2T%2FfThtWw%3D%3D) | 
+| 第2期幽玄杯精鋭リーグ戦 | Uchida Shuhei | Hikosaka Naoto | B+1.5 | 2008-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iaKlJm9MLzYv%2BtxZyqlqXQ%3D%3D) | 
+| 第34期棋聖戦予選 | Otake Hideo | Uchida Shuhei | W+2.5 | 2008-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VX62q0pTgnxfxcv6HEQTJw%3D%3D) | 
+| 第2期幽玄杯精鋭リーグ戦 | Ohashi Naruya | Uchida Shuhei | B+R | 2008-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LXSAxmFeOpzVK7lB%2B%2FP9gA%3D%3D) | 
+| 第33期新人王戦決勝三番勝負第2局 | Uchida Shuhei | Ha Youngil | B+R | 2008-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vZCx7SMRehu37WP%2FNk5F9w%3D%3D) | 
+| 第33期新人王戦決勝三番勝負第1局 | Ha Youngil | Uchida Shuhei | W+8.5 | 2008-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2bDn5Vhl0b07dwOziaqEZw%3D%3D) | 
+| 第33期新人王戦準決勝 | Mitani Tetsuya | Uchida Shuhei | W+R | 2008-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b%2B%2BQkTNJ2BIUZC6eIxqHpg%3D%3D) | 
+| 第33期新人王戦3回戦 | Uchida Shuhei | Shuto Shun | B+R | 2008-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yjGwE7JfsaWmRgAkIbJtcQ%3D%3D) | 
+| 第34期名人戦予選 | Uchida Shuhei | Cho Sonjin | W+7.5 | 2008-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3msSY%2By3MLqKwnZOIc8d4A%3D%3D) | 
+| 第2期幽玄杯精鋭リーグ戦 | Yamada Kimio | Uchida Shuhei | B+R | 2008-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vElRRZvMpU8whZ8%2BVMh1hg%3D%3D) | 
+| 第4回大和証券杯ネット囲碁オープン予選 | Uchida Shuhei | Mizokami Tomochika | W+2.5 | 2008-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9a23%2Bzo9AHKIP1a%2FZRW0jA%3D%3D) | 
+| 第2期幽玄杯精鋭リーグ戦 | Shida Tatsuya | Uchida Shuhei | B+R | 2008-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3nk1njzUWJcE426FuYNbMw%3D%3D) | 
+| 第33期新人王戦2回戦 | Uchida Shuhei | Ando Kazushige | B+9.5 | 2008-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LjWDNUrONAFsf0KDEmC3KQ%3D%3D) | 
+| 第33期新人王戦1回戦 | Uchida Shuhei | Rin Kanketsu | B+R | 2008-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GHr%2Bf27mkpzLBhGG63J3FA%3D%3D) | 
+| 第1期幽玄杯精鋭リーグ戦 | Hikosaka Naoto | Uchida Shuhei | B+0.5 | 2008-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qk4WE64Mm%2FTAbB5M45sNQA%3D%3D) | 
+| 第33期新人王戦予選 | Uchida Shuhei | Tajiri Yuto | B+R | 2007-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L95G7bk03TbowMky3kvdqg%3D%3D) | 
+| 第33期棋聖戦予選 | Uchida Shuhei | O Meien | W+10.5 | 2007-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=byWaHh%2BiK5%2BqLYJWAjulww%3D%3D) | 
+| 第33期棋聖戦予選 | Rin Kaiho | Uchida Shuhei | W+12.5 | 2007-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6RWl%2FYWnLomHkpHQjrSYiQ%3D%3D) | 
+| 第56期王座戦予選 | Cho Sonjin | Uchida Shuhei | B+R | 2007-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oxQ0Jez1V3djQA%2Bz7BGcIw%3D%3D) | 
+| 第47期十段戦予選 | Ryu Shikun | Uchida Shuhei | W+R | 2007-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LqO62IKy6DI0rjDgBNDs9w%3D%3D) | 
+| 第33期名人戦予選 | Rin Kaiho | Uchida Shuhei | B+R | 2007-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GrhS%2BwfwTntUGjtV40nfmA%3D%3D) | 
+| 第34期天元戦予選 | Uchida Shuhei | Kudo Norio | B+R | 2007-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z7JYCTRbSd3j09J%2BZFSjkQ%3D%3D) | 
+| 第32期名人戦予選 | Uchida Shuhei | Ryu Shikun | W+R | 2006-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L57ksIovmo6iUGI31ZB6lA%3D%3D) | 
+| 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Uchida Shuhei | Miyazaki Ryutaro | B+1.5 | 2005-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0v2FYMMxqGiNuDSCzBdpaw%3D%3D) | 
+| 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Uchida Shuhei | Mimura Tomoyasu | W+R | 2005-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K%2FLA9E7mSC9l2cc2MMxldA%3D%3D) | 
+| 第31期新人王戦予選 | Ko Reibun | Uchida Shuhei | B+3.5 | 2005-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S9I57D36lBuspmXJO7TTjA%3D%3D) | 
+| 第2回中野杯U20選手権三位決定戦 | Lee Ishu | Uchida Shuhei | B+R | 2005-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=axE%2FZiTmlenw5U4nDGwnYQ%3D%3D) | 
+| 第2回中野杯U20選手権準決勝 | Uchida Shuhei | Iyama Yuta | W+R | 2005-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fRnS4tO8SuCqGUkcqua15g%3D%3D) | 
+| 第2回中野杯U20選手権2回戦 | Murakawa Daisuke | Uchida Shuhei | W+R | 2005-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GbOAM%2F%2By4n7e4uvERMyprw%3D%3D) | 
+| 第2回中野杯U20選手権1回戦 | Uchida Shuhei | Seto Taiki | B+1.5 | 2005-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j8Vp1B%2FQjSw4klejPLXjBw%3D%3D) |
+
+
+
+

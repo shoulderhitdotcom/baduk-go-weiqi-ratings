@@ -1,0 +1,141 @@
+## Kang Hun Games
+
+[Back to ranking](index.md)
+
+
+
+
+| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| --- | --- | --- | --- | --- | --- | --- |
+| 2020NHシニア囲碁リーグプレーオフ第2戦第2局 | Kim Kihun | Kang Hun | B+R | 2020-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MM0ouIT39M9e2LI2bKT2Yg%3D%3D) | 
+| 2020NHシニア囲碁リーグプレーオフ第1戦第2局 | Kang Hun | Kim Kihun | W+3.5 | 2020-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k435iYw0beMzzft0S6xcbA%3D%3D) | 
+| 2020NHシニア囲碁リーグ第14節第3試合第1局 | Kang Hun | Seo Nungwuk | W+10.5 | 2020-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7TlUHYpzTCJBe%2B8uePwhOw%3D%3D) | 
+| 2020NHシニア囲碁リーグ第13節第3試合第1局 | Kang Hun | Kim Kihun | B+R | 2020-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4M%2Bl3XqfXMp%2FX%2B4X4HmZ1Q%3D%3D) | 
+| 2020NHシニア囲碁リーグ第12節第1試合第2局 | Kang Hun | Choi Kyubyeong | W+1.5 | 2020-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PRDa4ruekD0bvvyGYQd39Q%3D%3D) | 
+| 2020NHシニア囲碁リーグ第11節第4試合第3局 | Kang Hun | Kim Chuljung | W+R | 2020-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GVR4MLIC6neIF7YajCMc6g%3D%3D) | 
+| 2020NHシニア囲碁リーグ第10節第4試合第2局 | Kang Hun | Cho Daehyeon | B+R | 2020-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NXgpIayi9HTiqTPIxLK3%2Bw%3D%3D) | 
+| 第2期ソパルコサノル最高棋士決定戦予選 | Kang Hun | An Jungki | W+R | 2020-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=piUNfUnGlvabSVYSpHYRaA%3D%3D) | 
+| 2020NHシニア囲碁リーグ第9節第1試合第3局 | Kang Hun | Yoo Changhyuk | W+4.5 | 2020-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lbqaa63L9aL0UvGNbGuidg%3D%3D) | 
+| 2020NHシニア囲碁リーグ第8節第1試合第2局 | Kang Hun | Jimmy Cha | W+0.5 | 2020-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0cSQ3gAiRBt2HdWKA8ETQQ%3D%3D) | 
+| 第25回三星火災杯韓国一般枠予選 | Kang Hun | Lee Changseok | W+0.5 | 2020-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7TbHDFlNG8lrkeQGsg7V%2Bg%3D%3D) | 
+| 2020NHシニア囲碁リーグ第7節第2試合第2局 | Kang Hun | Kim Dongyeop | B+3.5 | 2020-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zgfHzFsnZxPu%2F%2B3rl0idJA%3D%3D) | 
+| 2020NHシニア囲碁リーグ第6節第2試合第2局 | Kang Hun | Kim Kihun | W+9.5 | 2020-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TpNs818nrAZ1A8xVfo%2BIsQ%3D%3D) | 
+| 2020NHシニア囲碁リーグ第5節第4試合第2局 | Kang Hun | Paek Seongho | B+R | 2020-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rpRHLcaDZkHJ9bDpz%2Fjn2g%3D%3D) | 
+| 2020NHシニア囲碁リーグ第4節第1試合第2局 | Park Seungmun | Kang Hun | B+6.5 | 2020-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=diFLG5saS2iLRwyr74JpFg%3D%3D) | 
+| 2020NHシニア囲碁リーグ第3節第1試合第2局 | Kang Hun | Cho Daehyeon | B+0.5 | 2020-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Is9AcnlB7u1zCKuI6dcQQ%3D%3D) | 
+| 2020NHシニア囲碁リーグ第2節第4試合第2局 | An Kwanwuk | Kang Hun | B+2.5 | 2020-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GWL4NI86ttX2MehtKc2wNQ%3D%3D) | 
+| 2020NHシニア囲碁リーグ第1節第4試合第2局 | Kang Hun | Chang Suyeong | B+R | 2020-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7FxFIFQeBoviDLpOvCXUBQ%3D%3D) | 
+| 第25回LG杯韓国予選 | Lee Taehyun | Kang Hun | B+R | 2020-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=17HG9VP1843D%2BYFuyrFx0Q%3D%3D) | 
+| 第25回LG杯韓国予選 | Gang Woohyeok | Kang Hun | W+R | 2020-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YwKJfnPLn5OEaAcCahLb2w%3D%3D) | 
+| 第25回LG杯韓国予選 | missing | Kang Hun | W+R | 2020-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A2a3HGebO5N4f5j%2BUtN8ig%3D%3D) | 
+| 2020シニアvs女子囲碁リーグチャンピオンズカップ第2戦第3局 | missing | Kang Hun | B+7.5 | 2020-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KYb248USeoyA%2BYTkar28MQ%3D%3D) | 
+| 2020シニアvs女子囲碁リーグチャンピオンズカップ第1戦第3局 | Kang Hun | missing | B+R | 2020-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6iuYv3nchp90HMBFXX%2FDLw%3D%3D) | 
+| 第13回GGオークション杯女流対シニア連勝対抗戦第6局 | missing | Kang Hun | B+5.5 | 2019-12-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n675U0pwjhQgtIanMDYOMQ%3D%3D) | 
+| 2019NHシニア囲碁リーグチャンピオン決定戦第2戦第2局 | Kang Hun | Seo Bongsoo | W+3.5 | 2019-12-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OU8GZmzWZbZcjVtapUAHKw%3D%3D) | 
+| 第13回GGオークション杯女流対シニア連勝対抗戦第5局 | Kang Hun | Kang Dajeong | B+R | 2019-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c%2Bk6kFWw%2B1Dsh97LsqDsAA%3D%3D) | 
+| 2019NHシニア囲碁リーグ第14節第4試合第2局 | Kim JongJoon | Kang Hun | W+R | 2019-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zNAjYwHHKHtVwlpGe65pXg%3D%3D) | 
+| 2019NHシニア囲碁リーグ第13節第4試合第3局 | Kim Kihun | Kang Hun | W+1.5 | 2019-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qF6BrFCbT0v1np3fNm0pwQ%3D%3D) | 
+| 2019NHシニア囲碁リーグ第12節第3試合第1局 | Kim Ilhwan | Kang Hun | B+6.5 | 2019-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=udytsfD3h50X7sTjacGV8A%3D%3D) | 
+| 2019NHシニア囲碁リーグ第11節第2試合第1局 | Kang Hun | Hwang Weonjun | B+R | 2019-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RneOB0Nzo8KrtnnFZDGIew%3D%3D) | 
+| 2019NHシニア囲碁リーグ第10節第2試合第3局 | Kang Hun | An Kwanwuk | B+R | 2019-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u6Byxv74wzOYsSKjHULQYQ%3D%3D) | 
+| 2019NHシニア囲碁リーグ第9節第1試合第3局 | Kim Chongsu | Kang Hun | B+4.5 | 2019-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IRLQAsoY1JwG5ERQfQBC0w%3D%3D) | 
+| 2019NHシニア囲碁リーグ第8節第3試合第3局 | Kang Hun | Jimmy Cha | W+R | 2019-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nw38%2FmK%2FuSJ6c6vYcaRiSA%3D%3D) | 
+| 2019NHシニア囲碁リーグ第7節第1試合第3局 | Cho Daehyeon | Kang Hun | W+R | 2019-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jUBGi%2Beet32tG%2Bf8fc3yTQ%3D%3D) | 
+| 2019NHシニア囲碁リーグ第6節第1試合第3局 | Kim Kihun | Kang Hun | W+R | 2019-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RoMKrQGOrDzR0OJinz82Mw%3D%3D) | 
+| 2019NHシニア囲碁リーグ第5節第2試合第3局 | Kang Hun | Kim Chuljung | B+8.5 | 2019-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XBAzNsGMjiiueEpAOqN%2BlQ%3D%3D) | 
+| 2019NHシニア囲碁リーグ第4節第3試合第2局 | Kim Joonyoung | Kang Hun | W+2.5 | 2019-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LKo7C8y%2B2hQ8aUbgvLSK3A%3D%3D) | 
+| 2019NHシニア囲碁リーグ第3節第3試合第1局 | An Kwanwuk | Kang Hun | B+R | 2019-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZYpBw28BV0FP%2B%2Ba4s8nfwA%3D%3D) | 
+| 2019NHシニア囲碁リーグ第2節第4試合第3局 | missing | Kang Hun | W+7.5 | 2019-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sJPnFA8bXlyTWVaTB3lYtw%3D%3D) | 
+| 2019NHシニア囲碁リーグ第1節第2試合第1局 | Kang Hun | Oh Kyuchul | B+3.5 | 2019-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h3C%2BFJkM0E2%2Bw9IhOYhesg%3D%3D) | 
+| 第6回大舟杯プロシニア最強者戦8強戦 | Kang Hun | Cho Hyeyeon | W+R | 2019-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zwNyeyLFvxe0gbS4a8%2FTxA%3D%3D) | 
+| 第6回大舟杯プロシニア最強者戦16強戦 | Kim Ilhwan | Kang Hun | W+5.5 | 2019-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zg%2B1K0W4LUbK7BteVOzlIA%3D%3D) | 
+| 2018年シニアvs女子囲碁リーグチャンピオンズカップ第2戦 | Rui Naiwei | Kang Hun | B+R | 2019-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I3Az%2BT3cItX3r5v0RYzSyg%3D%3D) | 
+| 2018年シニアvs女子囲碁リーグチャンピオンズカップ第1戦 | Kang Hun | missing | W+R | 2019-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fQ39AiqmAAgzmfTjYtkM%2FA%3D%3D) | 
+| 第3回韓国シニア囲碁リーグ決勝第2戦釜山-尚州 | Kang Hun | Kim Kihun | B+2.5 | 2018-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KRQRr%2B5S1Zj5TlTuEYWd4w%3D%3D) | 
+| 第3回韓国シニア囲碁リーグ決勝第1戦釜山-尚州 | Seo Bongsoo | Kang Hun | B+6.5 | 2018-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F%2FzZFp%2FJYyN20WoBDOAIuA%3D%3D) | 
+| 2018年フューチャーズリーグ | Wi Taewoong | Kang Hun | W+R | 2018-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kq0cwWOkD2RGI9MkjO3ceQ%3D%3D) | 
+| 2018年フューチャーズリーグ | Oh Yujin | Kang Hun | W+R | 2018-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8u%2FSv7PWlEB2jMvRNZPYuQ%3D%3D) | 
+| 2018年フューチャーズリーグ | Park Sangjin | Kang Hun | B+R | 2018-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5vj3DVsQ%2FOx6ZfC1TB0YvA%3D%3D) | 
+| 第3回韓国シニア囲碁リーグ第14節釜山-尚州 | Kang Hun | Seo Bongsoo | B+R | 2018-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vnz0PNmaIQEIO4AF2jjSjw%3D%3D) | 
+| 2018年フューチャーズリーグ | Lee Chungyu | Kang Hun | W+R | 2018-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nXkhNvG8bW263ShoNORglA%3D%3D) | 
+| 第3回韓国シニア囲碁リーグ第13節烏鹭-釜山 | Kang Hun | Seo Nungwuk | W+R | 2018-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mLPIWwgkwAkJ4bA7dd5oRA%3D%3D) | 
+| 2018年フューチャーズリーグ | Kang Hun | Jin Siyoung | W+R | 2018-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QgUvIxFVTh9Dy2jZ7%2BTXAA%3D%3D) | 
+| 第3回韓国シニア囲碁リーグ第12節陰城-釜山 | Kang Hun | Kim Soojang | W+0.5 | 2018-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m9lEsGoJjjSXXnG1plmsBw%3D%3D) | 
+| 2018年フューチャーズリーグ | missing | Kang Hun | W+0.5 | 2018-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y8LOgEvLSmPRkwy6klrJFg%3D%3D) | 
+| 第3回韓国シニア囲碁リーグ第11節富川-釜山 | Kang Hun | Kim Ilhwan | W+R | 2018-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v4fIiJE%2F%2BmlL5k8JCzFMbg%3D%3D) | 
+| 2018年フューチャーズリーグ | Kim Sedong | Kang Hun | B+R | 2018-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7XrIK2o6ZjqfCTuU72iBPw%3D%3D) | 
+| 第3回韓国シニア囲碁リーグ第10節霊岩-釜山 | Kim Chongsu | Kang Hun | W+3.5 | 2018-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7B9K10wWwO8ctYihF0IVFw%3D%3D) | 
+| 2018年フューチャーズリーグ | Wi Taewoong | Kang Hun | W+1.5 | 2018-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sutFDbNpaehKncYYcAbZEQ%3D%3D) | 
+| 2018年フューチャーズリーグ | Song Gyusang | Kang Hun | W+R | 2018-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hfAufGF%2BRlwFronF4vYpBg%3D%3D) | 
+| 第3回韓国シニア囲碁リーグ第8節三陟-釜山 | Kang Hun | missing | W+0.5 | 2018-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sva2FFskje8viH4%2B1JZHqg%3D%3D) | 
+| 第3回韓国シニア囲碁リーグ第7節釜山-尚州 | Kang Hun | Kim Kihun | W+5.5 | 2018-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=urYgryR94gAWaN2j1jlkUw%3D%3D) | 
+| 2018年フューチャーズリーグ | Kang Hun | missing | B+0.5 | 2018-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r6WYS0%2BtGQUIV%2BsuMOUX2Q%3D%3D) | 
+| 第3回韓国シニア囲碁リーグ第6節烏鹭-釜山 | Park Yeongchan | Kang Hun | W+13.5 | 2018-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VeIaUgvDv8UMD%2BkFJ0PSLA%3D%3D) | 
+| 2018年フューチャーズリーグ | Kang Hun | Lee Chungyu | W+R | 2018-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zkBTaJ5skCidCh81JllcfQ%3D%3D) | 
+| 第3回韓国シニア囲碁リーグ第5節陰城-KHエネルギー | Kang Hun | Kim Soojang | B+2.5 | 2018-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iC7vUwHCQCQunxmjbecC8A%3D%3D) | 
+| 2018年フューチャーズリーグ | Kang Hun | Jin Siyoung | B+R | 2018-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YCg17olDn9b%2F%2Fzi2itn4Tg%3D%3D) | 
+| 第3回韓国シニア囲碁リーグ第4節富川-釜山 | Kim JongJoon | Kang Hun | W+4.5 | 2018-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XqBsSwppXkwEv4A9gSneuw%3D%3D) | 
+| 2018年フューチャーズリーグ | Kang Hun | missing | W+R | 2018-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BAkl7n7lRz4NqFuEJQ09qQ%3D%3D) | 
+| 2018年フューチャーズリーグ | missing | Kang Hun | B+R | 2018-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H3EX4MAQdfrw2qZ5xxo0lw%3D%3D) | 
+| 第3回韓国シニア囲碁リーグ第3節霊岩-釜山 | Kang Hun | Kim Dongmyeon | B+R | 2018-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0pht8Krh3wKiixyNPwi32g%3D%3D) | 
+| 第3回韓国シニア囲碁リーグ第1節三陟-釜山 | Kang Hun | missing | B+3.5 | 2018-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5zreziPDohmnM3vzRi53QA%3D%3D) | 
+| 2017年シニアvs女流チャンピオンズカップ第2戦 | Kang Dajeong | Kang Hun | B+5.5 | 2018-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pwEcvmgMinTDuADj%2BY8iIw%3D%3D) | 
+| 2017年シニアvs女流チャンピオンズカップ第1戦 | Cho Hyeyeon | Kang Hun | B+R | 2018-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3iz0EpcrbT6FJCnyq9WMXA%3D%3D) | 
+| 第2回韓国シニア囲碁リーグチャンピオンシップ釜山-尚州第2戦 | Kang Hun | Kim Kihun | B+7.5 | 2017-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9bfbnOBC5yuvq0tPu9UKHg%3D%3D) | 
+| 第2回韓国元老連戦14回戦尚州-釜山 | Seo Bongsoo | Kang Hun | B+R | 2017-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LC7tDp5okH1usyXYf0zjhA%3D%3D) | 
+| 2回韓国元老連戦13回戦三陟-釜山 | Cho Daehyeon | Kang Hun | B+6.5 | 2017-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sf2ozT5A7oePkAo%2BNW7WKQ%3D%3D) | 
+| 2回韓国元老連戦11回戦霊岩-釜山 | Kang Hun | Kim Chongsu | W+4.5 | 2017-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aD3Zi1UK1iuTVDdGcA9YTw%3D%3D) | 
+| 第2回韓国シニア囲碁リーグ | Kang Hun | Kim Soojang | W+5.5 | 2017-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e2ziLx4NBbAJeHUXrARv3g%3D%3D) | 
+| 2回韓国元老連戦9回戦富川-釜山 | Kang Hun | Kim Ilhwan | B+R | 2017-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jkkt83q1heynxUBjTm1UAQ%3D%3D) | 
+| 2回韓国元老連戦7回戦尚州-浦項 | Paek Seongho | Kang Hun | B+R | 2017-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fE2lsY8dfw1nBONmGPnlMQ%3D%3D) | 
+| 2回韓国元老連戦6回戦三陟-浦項 | Park Seungmun | Kang Hun | W+R | 2017-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=li3iJDd5aj829hid%2FPq%2B%2Bg%3D%3D) | 
+| 2回韓国元老連戦5回戦烏鹭-浦項 | missing | Kang Hun | B+1.5 | 2017-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gSn%2B7XBhHNybXUHtZWvMug%3D%3D) | 
+| 第2回韓国シニア囲碁リーグ | Kang Hun | No Yeongha | B+R | 2017-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cRd45zYG6Qc0JMrq4%2BlwTA%3D%3D) | 
+| 2回韓国元老連戦3回戦陰城-釜山 | Kim Soojang | Kang Hun | B+7.5 | 2017-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xWwRDJQlqDOk57jE06VXBA%3D%3D) | 
+| 2回韓国元老連戦2回戦富川-釜山 | Kim JongJoon | Kang Hun | W+1.5 | 2017-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Md3FxnFcRFM2qa9H2C0KaQ%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Kang Hun | An Kwanwuk | W+R | 2016-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l9HGtaKOW%2Fa7uT4f0%2B%2BiaQ%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Kang Hun | Cho Daehyeon | B+R | 2016-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E1NIjXVu8bk%2FLclXjRs%2F0Q%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Kang Hun | Paek Seongho | B+R | 2016-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jnlUpcQ%2FsESvNn7xSYVVZQ%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Kang Hun | Chang Suyeong | B+1.5 | 2016-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o7lChEOvlQAdH2LmYEviyg%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Kim Dongyeop | Kang Hun | W+0.5 | 2016-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dG%2BYj0x%2FAJJhsn%2F3ecxj8A%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Kang Hun | Kim Chongsu | W+R | 2016-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MuyYRLMWOEXzXO%2BM3gmwMw%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | An Kwanwuk | Kang Hun | B+R | 2016-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BV90uWoJxQsqzWE6RnW1%2BQ%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Cho Daehyeon | Kang Hun | B+R | 2016-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s%2F4FNJQZez0l3Cn3JtB48w%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Kang Hun | Paek Seongho | W+R | 2016-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a9x0kvqzYLKost9sazJl1Q%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Chang Suyeong | Kang Hun | W+0.5 | 2016-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bU3LmgiBHjYIzgTZgydc7w%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Kang Hun | Kim Dongyeop | W+2.5 | 2016-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P5PLknclh5kNP2VLePJ3mQ%3D%3D) | 
+| 第1回韓国シニア囲碁リーグ | Kim Chongsu | Kang Hun | W+1.5 | 2016-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tDOoQNNDEZBdApSkzvbKwA%3D%3D) | 
+| 第9回GGオークション杯女流対シニア連勝対抗戦第3戦 | Lee Sula | Kang Hun | B+R | 2015-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mWB4NgIDLx09TOeOCYT%2F%2Bg%3D%3D) | 
+| 第32回KBS杯囲碁王戦敗者復活戦1回戦 | Kang Hun | Kang Jiseong | W+R | 2013-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kF8OflOJWNzksIEYlUNPiQ%3D%3D) | 
+| 第32回KBS杯囲碁王戦本戦2回戦 | Kang Hun | Hong Seongji | W+R | 2013-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zGKYRW%2BwzS6MSEYgoZ7p7A%3D%3D) | 
+| 第32回KBS杯囲碁王戦本戦1回戦 | Jin Siyoung | Kang Hun | W+R | 2013-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y2pVx9bZ4CfKjB9zQbnotA%3D%3D) | 
+| 第3回大舟杯プロシニア最強者戦準決勝 | Kang Hun | Seo Bongsoo | W+4.5 | 2012-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6OabZ9OUzTzfMUJKatp5WQ%3D%3D) | 
+| 第3回大舟杯プロシニア最強者戦2回戦 | Kim Ilhwan | Kang Hun | W+R | 2012-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B1hmRapFWdQiX9Yd%2Be0TOw%3D%3D) | 
+| 第3回大舟杯プロシニア最強者戦予選 | Kang Hun | Oh Kyuchul | B+0.5 | 2012-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=14dCH0gRhrWECXScGQVxkw%3D%3D) | 
+| 第6回GGオークション杯女流対シニア連勝対抗戦第3戦 | Lee Minjin | Kang Hun | B+R | 2012-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5fXyHYO%2BLdmjWsVHFdoylw%3D%3D) | 
+| 第14回農心杯韓国選抜戦 | Park Junghwan | Kang Hun | B+R | 2012-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DANwV0H9wAx1W6cWODWmjA%3D%3D) | 
+| 第7期圓益杯十段戦1回戦 | Kim Daehee | Kang Hun | B+R | 2011-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ITn5T4qCbK%2Fg%2Fx%2BOA1hY2Q%3D%3D) | 
+| 第13回農心杯韓国選抜戦 | Kang Dongyun | Kang Hun | B+2.5 | 2011-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NtwdoGA9C7ASZz7q%2B0uGkg%3D%3D) | 
+| 第1回大舟杯プロシニア最強者戦準決勝 | Seo Bongsoo | Kang Hun | B+R | 2010-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N173FmH6KGvC4Oj33MPKMA%3D%3D) | 
+| 第1回大舟杯プロシニア最強者戦2回戦 | Kang Hun | Paek Seongho | B+R | 2010-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xaeT%2BV%2FPOM2gh%2Fc%2FT6QU0w%3D%3D) | 
+| 第4回GGオークション杯女流対シニア連勝対抗戦第6戦 | Kang Hun | Park Jiyeon | W+0.5 | 2010-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y7KxqNyBTsMC68%2FAB3xU0Q%3D%3D) | 
+| 第9回マキシムコーヒー杯入神最強戦1回戦 | Cho Daehyeon | Kang Hun | B+R | 2007-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K2T8bItDgUL1WxnpKJ5hFw%3D%3D) | 
+| 第3期圓益杯十段戦1回戦 | Kim Hyeongwoo | Kang Hun | B+2.5 | 2007-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WZPBdd%2BfEj6MhVUdn2Hl2A%3D%3D) | 
+| 第8回マキシムコーヒー杯入神最強戦1回戦 | Kang Hun | Cho Hanseung | W+R | 2006-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ozu%2FZK1%2BmmkHA0b6FeE83Q%3D%3D) | 
+| 第7回マキシムコーヒー杯入神最強戦1回戦 | Kang Hun | Rui Naiwei | W+3.5 | 2005-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bbO%2BhZWsVlbVr9xNYQ8W9w%3D%3D) | 
+| 第6回マキシムコーヒー杯入神最強戦2回戦 | missing | Kang Hun | B+R | 2004-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PwhuRRpYf27Bb8rQumFP%2Fg%3D%3D) | 
+| 第3期石種杯プロシニア棋戦決勝三番勝負第3局 | Seo Bongsoo | Kang Hun | B+R | 2003-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MRHUbZlr5y9VGlTJq8oqDA%3D%3D) | 
+| 第3期石種杯プロシニア棋戦決勝三番勝負第2局 | Seo Bongsoo | Kang Hun | B+R | 2003-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MDDI8kc0kImswHn85jntNg%3D%3D) | 
+| 第3期石種杯プロシニア棋戦決勝三番勝負第1局 | Kang Hun | Seo Bongsoo | B+R | 2003-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wve5quSYHOUIraRJQRmAUg%3D%3D) | 
+| 第2期KT杯マスターズプロ棋戦2回戦 | Kang Hun | missing | W+R | 2002-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B4KcmFunvbZzKEZ0nDnjUA%3D%3D) | 
+| 第4回マキシムコーヒー杯入神最強戦 | Chang Suyeong | Kang Hun | B+3.5 | 2002-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LuHjQSaqrkkwbw%2Bc7LKnWw%3D%3D) | 
+| 第7期バッカス杯天元戦1回戦 | Kang Hun | Cho Hunhyun | W+3.5 | 2002-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KMEOLkZbMohZxivXUF5nEg%3D%3D) | 
+| 第3回マキシムコーヒー杯入神最強戦 | Kang Hun | Seo Bongsoo | W+4.5 | 2001-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0LJMwpUt8XiA3x685C0hsA%3D%3D) | 
+| 第36期覇王戦本戦第2局 | Kang Hun | Yoo Changhyuk | W+R | 2001-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zr%2FI9RsuZErp%2FeAZOsr6vw%3D%3D) | 
+| 第2回マキシムコーヒー杯入神最強戦第5局 | Kang Hun | Im Seongkeun | W+R | 2000-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FSrSLAubFo%2BMLyBovwpVeA%3D%3D) | 
+| 第1回マキシムコーヒー杯入神最強戦 | Kang Hun | Yoo Changhyuk | W+R | 2000-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RuoqcdRVD4GpVO7soScL6g%3D%3D) | 
+| 第1回マキシムコーヒー杯入神最強戦 | Choi Kyubyeong | Kang Hun | B+5.5 | 2000-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fzdYryv6ci69DxawbxbJLQ%3D%3D) |
+
+
+
+

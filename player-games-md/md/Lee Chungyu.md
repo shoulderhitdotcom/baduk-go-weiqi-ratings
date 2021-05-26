@@ -1,0 +1,139 @@
+## Lee Chungyu Games
+
+[Back to ranking](index.md)
+
+
+
+
+| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| --- | --- | --- | --- | --- | --- | --- |
+| 2020-2021フューチャーズリーグ | Lee Hyeonjun | Lee Chungyu | B+R | 2021-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=94E97DlAT64h%2FbSS79zo1w%3D%3D) | 
+| 2020-2021韓国囲碁リーグ | Lee Chungyu | Park Jinsol | W+2.5 | 2021-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a39grFzr54FBasBCG4%2BevA%3D%3D) | 
+| 2020-2021フューチャーズリーグ | Park Jaekeun | Lee Chungyu | B+R | 2021-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SlDkyEymbcPbYBdbrPnP6w%3D%3D) | 
+| 2020-2021フューチャーズリーグ | Lee Chungyu | Kim Sangcheon | B+R | 2021-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZKHld0zcWZifxK1s2588ZQ%3D%3D) | 
+| 2020-2021フューチャーズリーグ | Park Younglong | Lee Chungyu | B+1.5 | 2021-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CvjcPh%2FvIDHfgiU1J5Y%2BiQ%3D%3D) | 
+| 2020-2021フューチャーズリーグ | missing | Lee Chungyu | B+0.5 | 2021-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7mZ1TAhT0u%2BoaSAruEs4yw%3D%3D) | 
+| 2020-2021韓国囲碁リーグ | Kang Seungmin | Lee Chungyu | B+R | 2021-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X9yT%2BJnUKvWuYMH9EfeReQ%3D%3D) | 
+| 2020-2021フューチャーズリーグ | Oh Jeonga | Lee Chungyu | W+R | 2021-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rQjh2e7qkf%2FScCU4Z7k2tw%3D%3D) | 
+| 2020-2021フューチャーズリーグ | Lee Chungyu | Lee Wondo | W+R | 2021-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GuuTZYI0rhxtuKF0O3TkPg%3D%3D) | 
+| 2020-2021フューチャーズリーグ | Hyun Yoobin | Lee Chungyu | B+3.5 | 2021-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FwSGs2HH3iOy4QplYIhmVg%3D%3D) | 
+| 2020-2021フューチャーズリーグ | Lee Chungyu | Shin Jaeweon | B+R | 2021-01-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=53b69dDWl9Sf4c9%2Bc%2FlRew%3D%3D) | 
+| 2020-2021フューチャーズリーグ | Lee Hobum | Lee Chungyu | W+R | 2020-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nXB%2BKyHuyqfLSZ9miq%2BL9w%3D%3D) | 
+| 2020-2021フューチャーズリーグ | Lee Chungyu | Park Younglong | W+0.5 | 2020-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VWhx3ieirSaSDacn%2FkpErQ%3D%3D) | 
+| 2020-2021フューチャーズリーグ | Gon Jiwoo | Lee Chungyu | B+1.5 | 2020-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SFWp%2BGdpKbjzvOOgMzSeZg%3D%3D) | 
+| 2020-2021KBフューチャーズリーグ | Lee Chungyu | Oh Jeonga | B+R | 2020-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xVYExL4kVRoDXH8uCQQpUg%3D%3D) | 
+| 2020-2021フューチャーズリーグ | Lee Chungyu | missing | W+1.5 | 2020-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3dFUckRbpfHp5bi3z0i7gw%3D%3D) | 
+| 第25回LG杯韓国予選 | Lee Chungyu | Park Seunghwa | W+R | 2020-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n3KlsMNxZ1FqUEwZdPWt6Q%3D%3D) | 
+| 第25回LG杯韓国予選 | Lee Chungyu | Kim Kangkeun | B+R | 2020-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H0gIdJFYNYUufrq0nZHQDA%3D%3D) | 
+| 2019-2020KBフューチャーズリーグ第18節第3試合第3局 | missing | Lee Chungyu | W+R | 2020-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xntRwyDzAcqybuAJv2yAeg%3D%3D) | 
+| 2019-2020韓国囲碁リーグ第18節第3試合第5局 | Song Jihoon | Lee Chungyu | W+R | 2020-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uPxbrVeEtc29nm9KnRAHeg%3D%3D) | 
+| 2019-2020KBフューチャーズリーグ第17節第3試合第3局 | Lee Chungyu | Kang Changbae | W+0.5 | 2020-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FtDL8boEjRo6EoJYLnBqTg%3D%3D) | 
+| 2019-2020KBフューチャーズリーグ第16節第2試合第2局 | Park Hyunsoo | Lee Chungyu | B+R | 2020-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rKuyu5WAPgVzqtrgbXqTzw%3D%3D) | 
+| 2019-2020フューチャーズリーグ第14節第1試合第1局 | missing | Lee Chungyu | B+R | 2020-01-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mwfkzrh5B%2By1oJJfhMQzOg%3D%3D) | 
+| 2019-2020フューチャーズリーグ第13節第4試合第2局 | Yoo Jaeho | Lee Chungyu | W+R | 2020-01-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JE3%2BMLCwh%2BWrwD2R1DuSMw%3D%3D) | 
+| 2019-2020フューチャーズリーグ第12節第3試合第1局 | Min Sangyoun | Lee Chungyu | W+R | 2019-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FF0MGtyRB3XChCGqNsSnkQ%3D%3D) | 
+| 2019-2020韓国囲碁リーグ第12節第3試合第4局 | Shin Minjun | Lee Chungyu | B+4.5 | 2019-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zUJO66CnRknLijLkmrRMBA%3D%3D) | 
+| 2019-2020フューチャーズリーグ第11節第1試合第1局 | Kim Kiyoung | Lee Chungyu | W+R | 2019-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oyXxJ4aswFnPq%2FNNSak%2F5g%3D%3D) | 
+| 2019-2020KBフューチャーズリーグ第10節第3試合第3局 | Lee Chungyu | Lee Hoseong | B+R | 2019-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h%2BNWbHduZOUDeIvPCzQ9dg%3D%3D) | 
+| 2019-2020韓国囲碁リーグ第10節第3試合第5局 | Choi Jeong | Lee Chungyu | B+5.5 | 2019-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OrFDUK4bU%2FtDnKx2KiF7Wg%3D%3D) | 
+| 2019-2020フューチャーズリーグ第9節第2試合第3局 | Lee Chungyu | missing | B+R | 2019-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J3RKv0fKzh5dfhNc1raOew%3D%3D) | 
+| 2019-2020フューチャーズリーグ第8節第2試合第3局 | Lee Chungyu | Choi Kyeongho | W+4.5 | 2019-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BEkkhrlPYg6h9%2F21nJ8UBA%3D%3D) | 
+| 2019-2020フューチャーズリーグ第7節第3試合第3局 | Kim Sangcheon | Lee Chungyu | B+R | 2019-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fon%2BkzoO7srUASy8mEIMXQ%3D%3D) | 
+| 2019-2020フューチャーズリーグ第5節第4試合第3局 | missing | Lee Chungyu | W+R | 2019-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HoAxhc%2BbwFxq%2BUCBIcc9cw%3D%3D) | 
+| 2019-2020フューチャーズリーグ第4節第1試合第1局 | Lee Chungyu | Kim Sedong | W+R | 2019-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BJO4KbwWbHVzRSn%2BFM3Llw%3D%3D) | 
+| 2019-2020韓国囲碁リーグ第4節第1試合第4局 | Song Taekon | Lee Chungyu | W+R | 2019-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p7wAUpQ8hOGjqaDH7Iglpw%3D%3D) | 
+| 2019-2020フューチャーズリーグ第3節第2試合第3局 | Park Younglong | Lee Chungyu | B+R | 2019-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OZLyHNzKFNkUNvVyEsH4iA%3D%3D) | 
+| 2019フューチャーズリーグ第2節第4試合第3局 | Lee Chungyu | Kim Kiyoung | B+R | 2019-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r5knR1CXX06Tvi4nbep8xQ%3D%3D) | 
+| 2019-2020フューチャーズリーグ第1節第2試合第1局 | Lee Chungyu | missing | B+2.5 | 2019-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OBE43rXsSjPzt2nFjMW93A%3D%3D) | 
+| 第21回農心杯韓国選抜戦 | Lee Chungyu | missing | B+R | 2019-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b0pr8fQUrYmfwOFMF1ntBQ%3D%3D) | 
+| 第6回国手山脈韓国国内トーナメント予選 | Lee Chungyu | Lee Yeongkyu | W+R | 2019-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1%2BGLLrNvkmpbu3dYy3a2AA%3D%3D) | 
+| 第6回国手山脈韓国国内トーナメント予選 | Kang Seungmin | Lee Chungyu | W+R | 2019-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Kd9WpJb5sgScesJ5RCZoA%3D%3D) | 
+| 2019年囲碁テレビ杯早碁戦予選1回戦 | Lee Chungyu | An Joyeong | W+R | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mUwAzwUrJ5pefVkvnsNyAw%3D%3D) | 
+| 2018年フューチャーズリーグ | Lee Chungyu | Lee Hyeonjun | W+R | 2018-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LRZ1w1Vr7hvWV2tLeIV5lw%3D%3D) | 
+| 2018年フューチャーズリーグ | Lee Chungyu | Park Sangjin | W+R | 2018-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fm5Ax2sRXVlgab7hiuCRXA%3D%3D) | 
+| 2018年フューチャーズリーグ | Kim Sedong | Lee Chungyu | B+0.5 | 2018-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nJt76X2p5c%2FCOHSoG2XvwQ%3D%3D) | 
+| 2018年フューチャーズリーグ | Lee Chungyu | Kang Hun | W+R | 2018-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nXkhNvG8bW263ShoNORglA%3D%3D) | 
+| 2018年フューチャーズリーグ | Lee Chungyu | Wi Taewoong | W+R | 2018-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T%2BDOv05e0NIGmVqU7kS1eA%3D%3D) | 
+| 2018年フューチャーズリーグ | Lee Chungyu | Song Gyusang | W+R | 2018-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n7NOI2hmbjE4YbAfBuvNBg%3D%3D) | 
+| 2018年フューチャーズリーグ | Lee Chungyu | missing | B+R | 2018-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bZdrpqiFdhm%2F4ql2Yui8%2FA%3D%3D) | 
+| 2018年フューチャーズリーグ | Jin Siyoung | Lee Chungyu | B+R | 2018-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zVV5mPBAuMC3VaVGNGF4iA%3D%3D) | 
+| 2018年フューチャーズリーグ | missing | Lee Chungyu | B+R | 2018-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sGSsGiHMn1g2zPFmP6ykFg%3D%3D) | 
+| 2018年韓国囲碁リーグ第5節 | Hong Kipyo | Lee Chungyu | B+R | 2018-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yLPUIQlxw4k%2FdxMMEiSa6g%3D%3D) | 
+| 2018年フューチャーズリーグ | Kang Hun | Lee Chungyu | W+R | 2018-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zkBTaJ5skCidCh81JllcfQ%3D%3D) | 
+| 2018年フューチャーズリーグ | Lee Chungyu | Cho Insun | B+R | 2018-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K9gSu4CUMg7QU5U0whnmzQ%3D%3D) | 
+| 2018年フューチャーズリーグ | Lee Chungyu | Lee Wondo | B+R | 2018-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MehnpOFXGojtlEKyG%2BukyA%3D%3D) | 
+| 2018年韓国囲碁リーグ第1節 | Lee Chungyu | missing | W+1.5 | 2018-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=igOWvXaXlJgm4BgOXY191Q%3D%3D) | 
+| 第37回KBS杯囲碁王戦32強戦 | Lee Chungyu | Park Junsuck | W+R | 2018-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=btiE7zmNlsUKx0sXQdhYcQ%3D%3D) | 
+| 第23回LG杯予選決勝 | Lee Chungyu | Park Yeonghun | W+R | 2018-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hKO8HOsKU8GLF4diw3Oj6Q%3D%3D) | 
+| 第23回LG杯予選準決勝 | Lee Chungyu | Chen Yaoye | B+R | 2018-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eeXtQzQpp1wWN6mQEGm5Pw%3D%3D) | 
+| 第58期国手戦（韓国）1回戦 | Shin Jinseo | Lee Chungyu | B+R | 2014-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g2Go3WQkP0vOdQDhEZvjAw%3D%3D) | 
+| 第19期GSカルテックス杯プロ棋戦1回戦 | Lee Chungyu | Kim Seongjae | W+R | 2014-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AowdNT3jkrCnHemijcmxrw%3D%3D) | 
+| 2013年韓国囲碁リーグ | Kim Junghyun | Lee Chungyu | B+6.5 | 2013-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nTGKBhNj9ktgrxlgx0VkxQ%3D%3D) | 
+| 2013年楽スターリーグ | Lee Chungyu | Ryu Suhang | W+R | 2013-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F5QdNmUElZ%2FP5KS5s%2BN61g%3D%3D) | 
+| 2013年韓国囲碁リーグ | Lee Jihyun | Lee Chungyu | B+7.5 | 2013-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UZpYv7FDWgDhBTMj6rvvyg%3D%3D) | 
+| 2013年楽スターリーグ | Kim Nahyun | Lee Chungyu | W+0.5 | 2013-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9uCIjXpkF8HZC6a0%2FQuRGA%3D%3D) | 
+| 第4期Olleh杯オープン選手権準々決勝 | Lee Chungyu | Kim Jiseok | W+R | 2013-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BlfLOihIEPn9vTke9CFu0A%3D%3D) | 
+| 2013年韓国囲碁リーグ | Lee Chungyu | Lee Hobum | B+R | 2013-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xk8%2BxscFCmrZHAb%2BTxA7Gg%3D%3D) | 
+| 2013年楽スターリーグ | Lee Chungyu | Shin Minjun | B+R | 2013-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=41%2FkW6Jog%2FN%2B0Z380lcM1A%3D%3D) | 
+| 2013年韓国囲碁リーグ | Shin Minjun | Lee Chungyu | W+7.5 | 2013-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gsbns%2BcZ70VtZzTxcqb2BA%3D%3D) | 
+| 第4期Olleh杯オープン選手権4回戦 | Lee Chungyu | Park Junghwan | B+R | 2013-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bpv25YAla1kNL3SHhL0tLg%3D%3D) | 
+| 2013年楽スターリーグ | Kim Hyeongwoo | Lee Chungyu | B+5.5 | 2013-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z%2BOLA7V5nAVYtvrKd6j2lA%3D%3D) | 
+| 2013年韓国囲碁リーグ | Lee Chungyu | Choi Cheolhan | W+0.5 | 2013-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=emeJqSn9FCZ1tbyIE9uqhA%3D%3D) | 
+| 2013年楽スターリーグ | Ryu Minhyung | Lee Chungyu | B+5.5 | 2013-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=708XEwtV%2B%2FTjRfL42uzoGQ%3D%3D) | 
+| 2013年韓国囲碁リーグ | Lee Chungyu | An Joyeong | B+R | 2013-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SbfNEBgBXFht%2FrPk2a%2BilQ%3D%3D) | 
+| 第4期Olleh杯オープン選手権3回戦 | Lee Chungyu | Cho Hanseung | B+0.5 | 2013-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1eZeGOdNpNgj%2F8u2w2LOkQ%3D%3D) | 
+| 第15回農心杯韓国選抜戦 | Park Yeonghun | Lee Chungyu | B+R | 2013-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1MZ1HunsAy%2BQvCcK2YhaEQ%3D%3D) | 
+| 2013年韓国囲碁リーグ | Lee Chungyu | On Sojin | W+2.5 | 2013-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SyJc%2BUfhOrhZmOaEmvtyZQ%3D%3D) | 
+| 第18回LG杯予選 | Lee Chungyu | Lian Xiao | B+R | 2013-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d95Y7AGebEiUS33%2FN3Hs6w%3D%3D) | 
+| 第18期GSカルテックス杯プロ棋戦2回戦 | Park Yeonghun | Lee Chungyu | B+5.5 | 2013-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xeQdcvfu%2FGug7pn1wo91LA%3D%3D) | 
+| 第18期GSカルテックス杯プロ棋戦1回戦 | An Joyeong | Lee Chungyu | W+R | 2013-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Su3lYndvhiJ%2FbAQQkjYiMw%3D%3D) | 
+| 第8期圓益杯十段戦1回戦 | Lee Changho | Lee Chungyu | B+R | 2012-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=swXVZgz2rtdENpLlpBHGZg%3D%3D) | 
+| 2012年韓国囲碁リーグ | Yun Junsang | Lee Chungyu | B+R | 2012-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RGHyjZdcfDvbIDXhcFjPVw%3D%3D) | 
+| 2012年韓国囲碁リーグ | Kang Dongyun | Lee Chungyu | B+R | 2012-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NKV7W3efKuvHRwJLAQ4r8Q%3D%3D) | 
+| 2012年韓国囲碁リーグ | Jin Siyoung | Lee Chungyu | B+R | 2012-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4AF9Ru09FrceNM%2Fi8AklCQ%3D%3D) | 
+| 2012年韓国囲碁リーグ | missing | Lee Chungyu | B+R | 2012-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ASPk46%2FGUOvuy7Jj4eaCKA%3D%3D) | 
+| 2012年韓国囲碁リーグ | Lee Chungyu | An Joyeong | B+1.5 | 2012-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BqCR0GrZBDcdKnYj%2BZUz3A%3D%3D) | 
+| 第40期名人戦（韓国）予選 | Choi Cheolhan | Lee Chungyu | B+R | 2012-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O9w%2F5oczmATPNIVJCxrbqQ%3D%3D) | 
+| 第56期国手戦（韓国）1回戦 | Lee Chungyu | Lee Sedol | W+R | 2012-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PJfhqi7TZNeNo4gNOAKNuA%3D%3D) | 
+| 2012年韓国囲碁リーグ | Paek Hongseok | Lee Chungyu | W+R | 2012-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dFZJ8GRU1zuGEvqWaJJNkw%3D%3D) | 
+| 第14回農心杯韓国選抜戦 | Lee Chungyu | Mok Jinseok | W+1.5 | 2012-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e0PIwfj38rZ6UCv4wsA1jg%3D%3D) | 
+| 2012年韓国囲碁リーグ | Lee Donghoon | Lee Chungyu | B+0.5 | 2012-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S4LgGxk9RHUcSIhrtv%2Bi1g%3D%3D) | 
+| 2012年韓国囲碁リーグ | Lee Chungyu | Yoo Changhyuk | B+10.5 | 2012-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zGSR0U232ieIy0MJAhmJMg%3D%3D) | 
+| 2012年韓国囲碁リーグ | Lee Chungyu | Yang Wooseok | B+R | 2012-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B%2F4uR%2FPZZ8bPLaf0TV2UGw%3D%3D) | 
+| 2012年韓国囲碁リーグ | Hong Seongji | Lee Chungyu | W+R | 2012-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pvf%2FnDUP2RK78c41yZR%2FKw%3D%3D) | 
+| 2012年韓国囲碁リーグ | Lee Chungyu | Ahn Kukhyun | B+R | 2012-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ss3I53KCEt8OWOykrHVqPw%3D%3D) | 
+| 2012年韓国囲碁リーグ | Choi Myeonghun | Lee Chungyu | B+R | 2012-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wxnmf9UiFYXZlUOC1wXQdg%3D%3D) | 
+| 2012年韓国囲碁リーグ | Lee Chungyu | Kim Seongjae | W+R | 2012-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eu%2B6kiRkaJ51%2F8hJFqxnlw%3D%3D) | 
+| 2011年韓国囲碁リーグ | missing | Lee Chungyu | B+1.5 | 2011-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ihYgTAbhip58RS4ADS6fxA%3D%3D) | 
+| 2011年韓国囲碁リーグ | Lee Chungyu | Mok Jinseok | W+2.5 | 2011-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vWMQeTQP0a3oJS6IAjf1tg%3D%3D) | 
+| 2011年韓国囲碁リーグ | Lee Chungyu | Park Cheongsang | W+6.5 | 2011-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LLWYWUaaOETwOdMrVyrD7w%3D%3D) | 
+| 第39期名人戦（韓国）予選 | Kim Seongjae | Lee Chungyu | B+R | 2011-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j%2BlUs6dK%2Fj3qvFbGLfdPJA%3D%3D) | 
+| 2011年韓国囲碁リーグ | Lee Taehyun | Lee Chungyu | B+R | 2011-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o5jbZpB2tDoKntiI0%2BDDqQ%3D%3D) | 
+| 2011年韓国囲碁リーグ | Lee Jungwoo | Lee Chungyu | B+R | 2011-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SEKHXSBIcc5EU4OWlfQOdQ%3D%3D) | 
+| 2011年韓国囲碁リーグ | Lee Chungyu | Kang Dongyun | W+4.5 | 2011-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HigAyjqWHwUDKBOhdrNcNw%3D%3D) | 
+| 第6期圓益杯十段戦1回戦 | Bae Junhee | Lee Chungyu | B+2.5 | 2010-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=StDU35ZsVFmW0YBZJcyqvQ%3D%3D) | 
+| 第6期圓益杯十段戦予選 | Na Hyun | Lee Chungyu | W+R | 2010-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DiR1DBhA9D%2BZc7nIcxT3bw%3D%3D) | 
+| 第54期国手戦（韓国）1回戦 | Heo Yongho | Lee Chungyu | B+R | 2010-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SbcU3noQBjfCJsf558f94w%3D%3D) | 
+| 第12回農心杯韓国選抜戦 | Lee Chungyu | Park Seunghwa | W+R | 2010-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZKaUw7SBc651Hb%2FrhXMWIg%3D%3D) | 
+| 第15期GSカルテックス杯プロ棋戦2回戦 | Lee Chungyu | Choi Cheolhan | W+R | 2010-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8bd%2FBNkMZbrUkf%2Be3Reqdw%3D%3D) | 
+| 第15回LG杯予選 | So Yokoku | Lee Chungyu | W+0.5 | 2010-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AK%2Bke%2BwSbmXrkdmAvjTUqw%3D%3D) | 
+| 第15期GSカルテックス杯プロ棋戦1回戦 | Lee Chungyu | Paek Daehyun | B+R | 2010-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fc%2BeS05qWD3%2FJQAc2%2FnRVg%3D%3D) | 
+| 第2回BCカード杯世界選手権1回戦 | Kim Ilhwan | Lee Chungyu | B+R | 2010-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0p%2BjCQRQn1vM3hIouBhZCA%3D%3D) | 
+| 2009年国際新鋭囲碁対抗戦第3戦 | Wang Tao | Lee Chungyu | W+R | 2009-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YAxFVpdfhjPJ3mPkSj0gtA%3D%3D) | 
+| 2009年国際新鋭囲碁対抗戦第2戦 | Lee Chungyu | Ohba Junya | B+R | 2009-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=27oaQ2RlAhnBXcHbJidLcQ%3D%3D) | 
+| 2009年国際新鋭囲碁対抗戦第1戦 | Huang Chengyi | Lee Chungyu | W+R | 2009-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B4JY39snFdOqWav%2BZNvSJg%3D%3D) | 
+| 2009年韓国囲碁リーグ | Cho Hanseung | Lee Chungyu | B+5.5 | 2009-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OX5SV2FekhEnSGZO0i2s4Q%3D%3D) | 
+| 2009年韓国囲碁リーグ | Lee Chungyu | Kim Seongjae | W+0.5 | 2009-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gqws2Hxohh47TmjQbRufTA%3D%3D) | 
+| 2009年韓国囲碁リーグ | Lee Chungyu | Hong Seongji | W+2.5 | 2009-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9VbEQk1SPFVqjDA%2FDM8NXw%3D%3D) | 
+| 2009年韓国囲碁リーグ | Kang Yootaek | Lee Chungyu | W+0.5 | 2009-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F8sEWE0N2H0PCPfNusaI5g%3D%3D) | 
+| 2009年韓国囲碁リーグ | Lee Chungyu | Lee Jungwoo | B+R | 2009-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iT%2FwY6J%2BQh717z5N3B0qkg%3D%3D) | 
+| 2009年韓国囲碁リーグ | Heo Yongho | Lee Chungyu | B+R | 2009-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=83b0vaQ2bGFGXzDB6ODO5Q%3D%3D) | 
+| 2009年韓国囲碁リーグ | Ko Keuntae | Lee Chungyu | B+R | 2009-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TcSv4tmmrK%2B4v%2FMjNNONIQ%3D%3D) | 
+| 2008年韓国囲碁リーグ | Lee Chungyu | Kim Juho | B+R | 2008-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OvyOMPF7zSfXEQS7D7Mgbw%3D%3D) | 
+| 2008年韓国囲碁リーグ | Cho Hunhyun | Lee Chungyu | W+3.5 | 2008-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jt3vmCnAzEIx3NPJio7Sag%3D%3D) | 
+| 第4期圓益杯十段戦2回戦 | Song Taekon | Lee Chungyu | W+7.5 | 2008-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B3td%2B8Ahu6WzZxbBWlFtlg%3D%3D) | 
+| 第4期圓益杯十段戦1回戦 | Lee Chungyu | Lee Hyunho | B+4.5 | 2008-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=da55xuEvb0vrvcC6mj6%2BGQ%3D%3D) |
+
+
+
+

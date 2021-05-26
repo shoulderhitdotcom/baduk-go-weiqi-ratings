@@ -83,7 +83,15 @@ end
 
 JDF.save("pings.jdf", pings_for_md1)
 
-pings_for_md = select(pings_for_md1, :Rank, :eng_name=>"Name", :Rating, :rating_uncertainty=>Symbol("Uncertainty"), :rating_for_ranking => Symbol("5% CI Lower Bound Rating for ranking"), :n=>"Games Played", :name=>"Hanzi (汉字) Name")
+pings_for_md = select(
+    pings_for_md1,
+    :Rank,
+    :eng_name=>"Name",
+    :Rating,
+    :rating_uncertainty=>Symbol("Uncertainty"),
+    :rating_for_ranking => Symbol("5% CI Lower Bound Rating for ranking"),
+    :n=>"Games Played",
+    :name=>"Hanzi (汉字) Name")
 
 JDF.save("pings_for_md.jdf", pings_for_md)
 

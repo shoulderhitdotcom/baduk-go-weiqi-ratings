@@ -1,0 +1,144 @@
+## Ogata Masaki Games
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| --- | --- | --- | --- | --- | --- | --- |
+| 第3回SGW杯中庸戦4回戦 | Ogata Masaki | Ohashi Hirofumi | W+R | 2020-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KBJUAKUel4WwTul5clCQyA%3D%3D) | 
+| 第3回SGW杯中庸戦3回戦 | Cho Riyu | Ogata Masaki | B+R | 2020-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zT2LSUDGWm5byYeGlZGZQQ%3D%3D) | 
+| 第3回SGW杯中庸戦1回戦 | Oya Koichi | Ogata Masaki | W+R | 2020-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bk17%2F5Pu5iz3BZJDbRay7Q%3D%3D) | 
+| 第3回SGW杯中庸戦予選 | Ogata Masaki | Suzuki Ayumi | B+R | 2020-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bOg0SxrMV9ikGGnj7UofRA%3D%3D) | 
+| 第59期十段戦予選 | O Meien | Ogata Masaki | B+R | 2020-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B86fGHz9h0obuJNNSVGLDQ%3D%3D) | 
+| 第76期本因坊戦予選 | Onishi Kenya | Ogata Masaki | B+R | 2020-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YanCvSZp2ek%2BDsfNaAMNiA%3D%3D) | 
+| 第27期阿含・桐山杯全日本早碁オープン戦予選 | Ogata Masaki | missing | W+R | 2020-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=noYAvceplNsmrSS2eBjR1w%3D%3D) | 
+| 第68期王座戦予選 | Ogata Masaki | Ida Atsushi | W+R | 2019-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DbFT6KaToeb9cKSC3AD2QQ%3D%3D) | 
+| 第60期王冠戦挑戦手合一番勝負 | Ogata Masaki | Ida Atsushi | W+1.5 | 2019-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B4ln4%2BRG5k2EDYhyj3QVuw%3D%3D) | 
+| 第58期十段戦2回戦 | Ogata Masaki | Kono Rin | W+1.5 | 2019-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ab1P%2BlvbCRzU8Sz5dvEUfw%3D%3D) | 
+| 第2回SGW杯中庸戦予選決勝 | Ogata Masaki | Ohba Junya | W+T | 2019-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=khnOOoEwvpcoBEXCwiyT2g%3D%3D) | 
+| 第2回SGW杯中庸戦予選 | Ogata Masaki | Michael Redmond | B+R | 2019-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tBXsR%2B3UcWvVfm3fRJ9tLw%3D%3D) | 
+| 第2回SGW杯中庸戦予選 | Nishimura Keiji | Ogata Masaki | W+1.5 | 2019-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=37LLc7jE3WFkjmCf2HxAzg%3D%3D) | 
+| 第58期十段戦予選 | Imamura Toshiya | Ogata Masaki | W+4.5 | 2019-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8y5%2BqZRoS3YFbMEG1Rg%2BxQ%3D%3D) | 
+| 第45期天元戦予選 | Ogata Masaki | Yamada Kimio | W+R | 2018-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FWPCbIQONfwzxJq1gLXMdw%3D%3D) | 
+| 第7回フマキラー囲碁マスターズカップ　予選決勝 | Yamashiro Hiroshi | Ogata Masaki | B+2.5 | 2017-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FFogjyLVzsYadX%2FjXWu06w%3D%3D) | 
+| 第65期王座戦予選 | Ogata Masaki | Hikosaka Naoto | W+R | 2016-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mjHjmEKs0rk3Pa%2Frf1kQ6w%3D%3D) | 
+| 第72期本因坊戦予選 | Ogata Masaki | Murakawa Daisuke | W+R | 2016-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=moUvP0A56eh4%2F59U%2BGcWwg%3D%3D) | 
+| 第42期天元戦　準々決勝第1局 | Murakawa Daisuke | Ogata Masaki | B+R | 2016-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h4sRsPj5YbKSjemwnseOOQ%3D%3D) | 
+| 第72期本因坊戦予選 | Kono Rin | Ogata Masaki | W+2.5 | 2016-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HzFTuTyEq3nAR%2BWlDV%2Bd6g%3D%3D) | 
+| 第6回フマキラー囲碁マスターズカップ2回戦 | Ogata Masaki | O Meien | W+1.5 | 2016-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=65xfBncKr4DCzP7PiHvDSQ%3D%3D) | 
+| 第42期天元戦本戦2回戦 | Ogata Masaki | Nakaonoda Tomomi | B+R | 2016-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dSD%2Bb6CGT63kqWmBipXyTA%3D%3D) | 
+| 第6回フマキラー囲碁マスターズカップ1回戦 | Ogata Masaki | Hane Yasumasa | B+R | 2016-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ICF90jZOPFFEcI%2BxpwDDlg%3D%3D) | 
+| 第25期竜星戦Bブロック第9局 | Fujimura Yosuke | Ogata Masaki | B+R | 2016-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5E74ETDxJnqX%2BnpbXXvhRA%3D%3D) | 
+| 第6回フマキラー囲碁マスターズカップ予選 | Ogata Masaki | Michael Redmond | B+R | 2016-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=koHYVjhxk0N%2FE%2FkluknnpA%3D%3D) | 
+| 第55期十段戦予選 | Hane Naoki | Ogata Masaki | B+R | 2016-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9E1Bvso%2BWTKLKC3PU3tuLg%3D%3D) | 
+| 第25期竜星戦Bブロック第8局 | Ogata Masaki | Nakamura Shinya | B+3.5 | 2016-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t5Ku53ITpnE%2BkVJ9RwKPQQ%3D%3D) | 
+| 第42期天元戦本戦1回戦 | Ogata Masaki | O Meien | B+0.5 | 2015-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rzIdhkuMnXqi4KR6FbP0zg%3D%3D) | 
+| 第56期王冠戦挑戦手合一番勝負 | Ogata Masaki | Hane Naoki | W+R | 2015-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vig8kwm22goo5E7Gt6VPKw%3D%3D) | 
+| 第42期天元戦予選 | Ogata Masaki | Yamada Kimio | B+R | 2015-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xC5PZSXKepUhWl94nBmP1Q%3D%3D) | 
+| 第41期名人戦予選 | Ogata Masaki | Yuki Satoshi | W+R | 2015-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PJcF2jkHaMG2DOnIhDKz%2BA%3D%3D) | 
+| 第22期阿含・桐山杯全日本早碁オープン戦2回戦 | Sun Zhe | Ogata Masaki | B+0.5 | 2015-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vrI250xdxZJ5Wq80uB9%2BCw%3D%3D) | 
+| 第22期阿含・桐山杯全日本早碁オープン戦1回戦 | Hirata Tomoya | Ogata Masaki | W+R | 2015-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OYLjGao79f4BJ82%2FFoBcbQ%3D%3D) | 
+| 第22期阿含・桐山杯全日本早碁オープン戦予選 | Ogata Masaki | Yuki Satoshi | B+R | 2015-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aTiGNuDSAEl1mgWSIbwRaQ%3D%3D) | 
+| 第5回フマキラー囲碁マスターズカップ1回戦 | Yamashiro Hiroshi | Ogata Masaki | B+4.5 | 2015-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wi%2BWGFpvaI4Tm3rxU5jIuw%3D%3D) | 
+| 第63期王座戦予選 | Ogata Masaki | Yamada Kimio | W+R | 2015-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IrIq4oioPFwNXcdZOtaAcg%3D%3D) | 
+| 第5回フマキラー囲碁マスターズカップ予選 | Ogata Masaki | Ishii Kunio | B+R | 2015-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k8Blvrih5Bxmivi29efvPA%3D%3D) | 
+| 第55期王冠戦予選 | Ogata Masaki | Hikosaka Naoto | W+R | 2013-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4x3WJi7EjZJZra5sBI8ZSA%3D%3D) | 
+| 第52期十段戦予選 | O Meien | Ogata Masaki | B+R | 2013-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PDbHC4k4xoW34TeL8dqCDA%3D%3D) | 
+| 第52期十段戦予選 | Ogata Masaki | Cho Sonjin | B+R | 2013-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u9JCrj%2F6HBy5ITHeIrcwVw%3D%3D) | 
+| 第69期本因坊戦予選 | Ogata Masaki | Yu Zhengqi | W+R | 2013-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8AhKATj7Kz7ROZsBMMiv8Q%3D%3D) | 
+| 第69期本因坊戦予選 | Ogata Masaki | Hane Naoki | B+0.5 | 2013-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q7JpMlVRe57hK3qqQEkuUQ%3D%3D) | 
+| 第61期王座戦予選 | Ogata Masaki | Takao Shinji | W+R | 2013-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tPeuU1TFKfX8E5vuboTTMA%3D%3D) | 
+| 第51期十段戦3回戦 | Takao Shinji | Ogata Masaki | B+R | 2012-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p8QBARcTfGT6kuRzuSdOIg%3D%3D) | 
+| 第51期十段戦2回戦 | Ogata Masaki | Cho U | B+R | 2012-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PXhSFWM5fJITqZnOUnXc5w%3D%3D) | 
+| 第8回大和証券杯ネット囲碁オープン1回戦 | Ishida Atsushi | Ogata Masaki | B+R | 2012-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kQSBZWR%2BDUJWJNYC6IGmrQ%3D%3D) | 
+| 第38期名人戦予選 | Yuki Satoshi | Ogata Masaki | B+R | 2012-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nGBxQVg34hld3dEwT2g6Gw%3D%3D) | 
+| 第38期名人戦予選 | Hikosaka Naoto | Ogata Masaki | W+R | 2012-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iaPpAUqZ3P%2FTDpHLVSrlvw%3D%3D) | 
+| 第19期阿含・桐山杯全日本早碁オープン戦1回戦 | Rin Shien | Ogata Masaki | B+R | 2012-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0PX%2B1vg54OAg2treFqr01g%3D%3D) | 
+| 第7回大和証券杯ネット囲碁オープン3回戦 | Ogata Masaki | Cho U | W+R | 2012-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j4zXgdOqWizn77dJRtxYyQ%3D%3D) | 
+| 第50期十段戦準決勝 | Ko Iso | Ogata Masaki | B+R | 2011-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6mbawKBzDzddC4TEcICBRA%3D%3D) | 
+| 第53期王冠戦予選 | Ida Atsushi | Ogata Masaki | B+0.5 | 2011-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H2hPJqbFXsMzXAX9x05FFA%3D%3D) | 
+| 第50期十段戦3回戦 | Yukawa Mitsuhisa | Ogata Masaki | W+R | 2011-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xYdg9TuHuuSUkOCmTXtD6A%3D%3D) | 
+| 第7回大和証券杯ネット囲碁オープン2回戦 | Ogata Masaki | Anzai Nobuaki | B+2.5 | 2011-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r4xjo90Q8h%2For3TubcOLCw%3D%3D) | 
+| 第37期碁聖戦本戦1回戦 | Seto Taiki | Ogata Masaki | B+R | 2011-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZQlRc8mmOJAjjh954P4WCg%3D%3D) | 
+| 第37期碁聖戦予選 | Yamada Kimio | Ogata Masaki | W+R | 2011-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tULyg%2FP87%2FZShUGIULxEtQ%3D%3D) | 
+| 第31期NECカップ囲碁トーナメント戦2回戦 | Iyama Yuta | Ogata Masaki | B+R | 2011-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kSty9Ubv9IXXvuRPT%2F6LWQ%3D%3D) | 
+| 第50期十段戦2回戦 | Ogata Masaki | Kato Atsushi | B+R | 2011-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vArS0lTBitTUm5b7uyS1dw%3D%3D) | 
+| 第7回大和証券杯ネット囲碁オープン1回戦 | Hane Naoki | Ogata Masaki | W+R | 2011-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n98BzFzJF3AVEyBROWdg1w%3D%3D) | 
+| 第24回世界囲碁選手権富士通杯1回戦 | Ogata Masaki | Park Junghwan | W+R | 2011-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gzHgkpcIMVrjcSiU3vioDg%3D%3D) | 
+| 第31期NECカップ囲碁トーナメント戦1回戦 | Ogata Masaki | Hane Naoki | B+R | 2011-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kas09bD2lCEnsd6arbQc0g%3D%3D) | 
+| 第50期十段戦予選 | O Rissei | Ogata Masaki | W+R | 2011-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2HR5f3pYR7ymAo6s%2BHmTRQ%3D%3D) | 
+| 第50期十段戦予選 | Ogata Masaki | Yamada Kimio | B+R | 2011-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O85HwGN4%2BRGpl%2BWJh02Ijw%3D%3D) | 
+| 第36期棋聖戦予選 | Kono Rin | Ogata Masaki | B+R | 2011-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fBmSxxBYAX28Kf%2Blwf62WA%3D%3D) | 
+| 第37期天元戦本戦1回戦 | Murakawa Daisuke | Ogata Masaki | B+R | 2011-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=03VLEdLbJLqhvloOQZ6mDg%3D%3D) | 
+| 第37期天元戦本戦0回戦 | Nakamura Shinya | Ogata Masaki | W+R | 2010-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6E77LfSghs6H0XDbiTK%2FNQ%3D%3D) | 
+| 第36期名人戦予選 | Ogata Masaki | Seto Taiki | W+R | 2010-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MvrUYFUYUfxRDDgjyYXgKw%3D%3D) | 
+| 第36期名人戦予選 | Kono Rin | Ogata Masaki | W+R | 2010-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gVXAdH%2FHExeDyOuuiDWTUQ%3D%3D) | 
+| 第35期名人戦リーグ | Cho U | Ogata Masaki | W+2.5 | 2010-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MZYpYXjZTav%2Fehm1rgQ70w%3D%3D) | 
+| 第17期阿含・桐山杯全日本早碁オープン戦2回戦 | Rin Shien | Ogata Masaki | B+R | 2010-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RsCbrzcFqa9IjYK3hnQI6g%3D%3D) | 
+| 第35期名人戦リーグ | Yuki Satoshi | Ogata Masaki | W+1.5 | 2010-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bnV2TV0%2BXetEpfxTW8QXEQ%3D%3D) | 
+| 第17期阿含・桐山杯全日本早碁オープン戦1回戦 | Murakawa Daisuke | Ogata Masaki | W+3.5 | 2010-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6we8UZI5WwQh5CuMxEErzA%3D%3D) | 
+| 第66期本因坊戦予選 | Ogata Masaki | Kono Rin | W+2.5 | 2010-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NarvBJy7aeQG7xeNZyfMLw%3D%3D) | 
+| 第35期名人戦リーグ | Ogata Masaki | Yamada Kimio | W+R | 2010-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Kej2GwRcEhEmBlCrs9uYQ%3D%3D) | 
+| 第35期名人戦リーグ | Cho Chikun | Ogata Masaki | B+11.5 | 2010-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AqMrWCUs6YCtk29TmFL9XA%3D%3D) | 
+| 第36期天元戦本戦1回戦 | Ogata Masaki | Cho U | W+R | 2010-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UG8Sbf1dLsfSlqk1N%2FKnxA%3D%3D) | 
+| 第35期名人戦リーグ | Takao Shinji | Ogata Masaki | B+R | 2010-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1ndeysGyhiU5ZTo8dQ%2FS5g%3D%3D) | 
+| 第35期名人戦リーグ | Ogata Masaki | Sakai Hideyuki | W+R | 2010-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oNvBy5xEtWJb2AQ6noQ7RA%3D%3D) | 
+| 第35期名人戦リーグ | Ogata Masaki | Mizokami Tomochika | W+1.5 | 2010-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1%2B3Ja6nEBMw1WUCJ3buTwA%3D%3D) | 
+| 第35期名人戦リーグ | Ogata Masaki | O Meien | W+R | 2009-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=md95hLkWa7RD7%2BcToVqKNg%3D%3D) | 
+| 第34期名人戦リーグ | Iyama Yuta | Ogata Masaki | B+R | 2009-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BCPG1w0N1NL2eTLTF32H6A%3D%3D) | 
+| 第34期名人戦リーグ | Ogata Masaki | Takao Shinji | B+3.5 | 2009-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZqlBnVEcJJZ5iJ9yJKYvYg%3D%3D) | 
+| 第5回大和証券杯ネット囲碁オープン1回戦 | Ogata Masaki | O Rissei | W+1.5 | 2009-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3qynjMBJV0ooQlfQ5c2XzA%3D%3D) | 
+| 第34期名人戦リーグ | Ogata Masaki | Cho Riyu | B+R | 2009-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EKyFrJOPHtFIBv2aXLXfeg%3D%3D) | 
+| 第34期名人戦リーグ | Ogata Masaki | Kobayashi Satoru | W+R | 2009-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GnDJ8LBrBcivaa3hF7Gvjw%3D%3D) | 
+| 第5回大和証券杯ネット囲碁オープン予選 | Ogata Masaki | Miyazawa Goro | B+0.5 | 2009-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sB8C8vDXyZBj4KlMtVL7IQ%3D%3D) | 
+| 第34期名人戦リーグ | Ogata Masaki | Yamada Kimio | W+R | 2009-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=28aOHuyV%2Fz6Z9yiGORCdog%3D%3D) | 
+| 第35期天元戦本戦2回戦 | Kono Rin | Ogata Masaki | B+R | 2009-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V%2BSthCCFO3c7eRSzU1Emgw%3D%3D) | 
+| 第34期名人戦リーグ | Sakai Hideyuki | Ogata Masaki | B+R | 2009-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yt%2BFBt%2FMRCdvqf8ctlGolQ%3D%3D) | 
+| 第35期天元戦本戦1回戦 | Akiyama Jiro | Ogata Masaki | W+4.5 | 2009-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sHfcOTyVUq2LUjaVqQzB5Q%3D%3D) | 
+| 第34期名人戦リーグ | O Meien | Ogata Masaki | W+R | 2009-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i1PR2mWtvixoBXpwJmf24w%3D%3D) | 
+| 第34期名人戦リーグ | Cho Chikun | Ogata Masaki | W+R | 2008-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zRyLvo8IOS3rNJiowynyCg%3D%3D) | 
+| 第34期名人戦予選 | Ogata Masaki | Ryu Shikun | B+4.5 | 2008-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b%2B75G1exW97Vu2bR06CqkA%3D%3D) | 
+| 第4期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Ogata Masaki | Piao Wenyao | W+R | 2008-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hP31JBciAWLh3FkqtkF%2FUQ%3D%3D) | 
+| 第64期本因坊戦予選 | Ogata Masaki | So Yokoku | W+R | 2008-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bow8GSOWLyl7xD7y0dqW8A%3D%3D) | 
+| 第4回大和証券杯ネット囲碁オープン1回戦 | Ogata Masaki | O Rissei | W+R | 2008-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nWArrhQ66wTiA1RxzQnAUg%3D%3D) | 
+| 第64期本因坊戦予選 | Ogata Masaki | O Rissei | B+R | 2008-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mpHak2%2FXkymCYK%2FijMin9g%3D%3D) | 
+| 第4回大和証券杯ネット囲碁オープン予選 | Ogata Masaki | Nakane Naoyuki | B+3.5 | 2008-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b8KgZduOGjnPMHyqYd4W%2Fw%3D%3D) | 
+| 第4期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Ogata Masaki | Honda Kunihisa | B+8.5 | 2008-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IS15zl0ROWWCJqv8otOMsA%3D%3D) | 
+| 第4期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | O Meien | Ogata Masaki | W+R | 2008-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Byx8ru7WMn5%2F6fy%2F9aPIEA%3D%3D) | 
+| 第34期天元戦本戦1回戦 | Yuki Satoshi | Ogata Masaki | B+R | 2008-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=76W21WcKRrVVmCxxmEPKJA%3D%3D) | 
+| 第33期名人戦予選 | Ogata Masaki | Chin Kaei | W+R | 2007-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1dk5jBm4oF26W8BlWgMJ4Q%3D%3D) | 
+| 第14期阿含・桐山杯全日本早碁オープン戦準決勝 | Cho Chikun | Ogata Masaki | B+R | 2007-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gv2LrCvWG9WT8pdlED%2FgVw%3D%3D) | 
+| 第14期阿含・桐山杯全日本早碁オープン戦2回戦 | Akiyama Jiro | Ogata Masaki | W+5.5 | 2007-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VEomrlWNWg7FtdPEaF6axg%3D%3D) | 
+| 第14期阿含・桐山杯全日本早碁オープン戦1回戦 | Ogata Masaki | Yamada Noriyoshi | B+R | 2007-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v82O%2B%2Byem5qz5O06UhHe0A%3D%3D) | 
+| 第14期阿含・桐山杯全日本早碁オープン戦予選 | Ogata Masaki | Ishida Yoshio | B+3.5 | 2007-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TDiRdwOVXJYLO8RgwvATzA%3D%3D) | 
+| 第33期天元戦本戦0回戦 | Ogata Masaki | Yoda Norimoto | W+3.5 | 2006-12-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4BPhYIt4OU9fJuEOCvsYuw%3D%3D) | 
+| 第2回大和証券杯ネット囲碁オープン予選 | Ko Iso | Ogata Masaki | B+R | 2006-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=611%2B8Gsfy3KB98BpCc6LYQ%3D%3D) | 
+| 第1回大和証券杯ネット囲碁オープンAリーグ | Hane Naoki | Ogata Masaki | B+6.5 | 2006-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8j%2FHSMVsgujst8x6WtUSyQ%3D%3D) | 
+| 第1回大和証券杯ネット囲碁オープンAリーグ | Iyama Yuta | Ogata Masaki | B+R | 2006-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R6LtAPMTKaPJLYj1rjlPCw%3D%3D) | 
+| 第1回大和証券杯ネット囲碁オープンAリーグ | Anzai Nobuaki | Ogata Masaki | B+R | 2006-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gT2Z9Xkogyk7ziim8usLdw%3D%3D) | 
+| 第62期本因坊戦予選 | O Meien | Ogata Masaki | B+4.5 | 2006-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=80LCKQDAlYwvaBc0kWXQYA%3D%3D) | 
+| 第26期NECカップ囲碁トーナメント戦1回戦 | Kono Rin | Ogata Masaki | B+R | 2006-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w%2Bz4dFfbOfeaS9cNmbkMNA%3D%3D) | 
+| 第30期名人戦リーグ | Ogata Masaki | Yamada Kimio | W+R | 2005-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cQup4IDL3kT15tJWO7ZB8Q%3D%3D) | 
+| 第31期天元戦本戦3回戦 | Ogata Masaki | Imamura Toshiya | W+0.5 | 2005-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wEVUJBe7AIp8h3cTqUevzA%3D%3D) | 
+| 第30期名人戦リーグ | Ogata Masaki | Kobayashi Satoru | W+0.5 | 2005-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pQB0QoKPSoRz1M2hVFtZhw%3D%3D) | 
+| 第30期名人戦リーグ | Imamura Toshiya | Ogata Masaki | B+R | 2005-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A%2BmDiMtHCs2fwpW5kxpLVA%3D%3D) | 
+| 第31期天元戦本戦2回戦 | Ogata Masaki | Rin Kaiho | B+R | 2005-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xQDgfwFvWaUXiCJAb84Sdg%3D%3D) | 
+| 第30期名人戦リーグ | Ogata Masaki | Yamashita Keigo | W+R | 2005-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FmFhaVOK%2BH6vk1OQzdcabg%3D%3D) | 
+| 第30期棋聖戦予選 | Komatsu Hideki | Ogata Masaki | B+4.5 | 2005-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1LslnC4LnoZ4SU7spOrVqA%3D%3D) | 
+| 第30期名人戦リーグ | O Meien | Ogata Masaki | B+R | 2005-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RhM4AhTnyKDOf093L9TL%2FA%3D%3D) | 
+| 第31期天元戦本戦1回戦 | Ogata Masaki | Ito Yoji | B+1.5 | 2005-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pvW6h4XgG5DWaW4%2F10Xn6Q%3D%3D) | 
+| 第30期名人戦リーグ | Cho Sonjin | Ogata Masaki | W+R | 2005-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QuLmq5ytHjcZJv%2FnfPvO5A%3D%3D) | 
+| 第30期名人戦リーグ | Yoda Norimoto | Ogata Masaki | B+3.5 | 2005-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jPU2PsoCigELceOGYQBsvA%3D%3D) | 
+| 第30期名人戦リーグ | Ogata Masaki | Sakai Hideyuki | W+3.5 | 2004-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f%2F%2FQ3QuAqLXo1Wh%2F%2BDEPtQ%3D%3D) | 
+| 第30期名人戦予選 | Ogata Masaki | Kato Atsushi | B+1.5 | 2004-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WAns1R%2BjMVt7RHRf%2BxOVdA%3D%3D) | 
+| 第2期トヨタ＆デンソー杯囲碁世界王座戦日本予選決勝 | Sakai Hideyuki | Ogata Masaki | B+R | 2004-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ac4W7wsbVIQ0fUeU4T6JgQ%3D%3D) | 
+| 第29期碁聖戦本戦2回戦 | Yamada Kimio | Ogata Masaki | B+R | 2004-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bjs6WcY18RoAkk9gC6%2Ft1g%3D%3D) | 
+| 第30期天元戦本戦1回戦 | Ogata Masaki | O Meien | W+R | 2004-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TxYatCO59e7zXASZMQyl4g%3D%3D) | 
+| 第29期碁聖戦本戦1回戦 | Ogata Masaki | Kobayashi Satoru | B+0.5 | 2004-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dI6QSjdCkmr1ZvfZStSmjg%3D%3D) | 
+| 第51期王座戦1回戦 | Ogata Masaki | Yuki Satoshi | W+R | 2003-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t7tmdeGI%2Fltm3xJeVuv7Pg%3D%3D) |
+
+
+
+

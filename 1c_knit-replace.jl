@@ -32,11 +32,26 @@ replace_in_file("index-tmd.md", "index.md", replacements)
 
 # for the player games use the template to generate all the stuff
 names = vcat(df.black, df.white) |> unique
-@threads for i in 1:lenght(names)
-    name = names
+@threads for i in 1:length(names)
+    name = names[i]
     if !ismissing(name)
         replace_in_file("player-games-template.jmd", "./player-games-md/jmd/$name.jmd", ("{{name}}"=>name, ))
+        # weave("./player-games-md/jmd/$name.jmd", out_path = "./player-games-md/tmp/$name.md", doctype = "github")
+        # replace_in_file("./player-games-md/tmp/$name.md", "./player-games-md/md/$name.md", replacements)
+    end
+end
+
+@threads for i in 1:length(names)
+    name = names[i]
+    if !ismissing(name)
         weave("./player-games-md/jmd/$name.jmd", out_path = "./player-games-md/tmp/$name.md", doctype = "github")
+    end
+end
+
+# break it into two
+@threads for i in 1:length(names)
+    name = names[i]
+    if !ismissing(name)
         replace_in_file("./player-games-md/tmp/$name.md", "./player-games-md/md/$name.md", replacements)
     end
 end
@@ -52,9 +67,7 @@ catch e
 end
 
 try
-    for file in readdir("./player-games-md/md/")
-        run(`git add ./play-games-md/md/$file`)
-    end
+    run(`git add ./player-games-md/md/\*`)
     run(`git commit -m "daily update all games $to_date "`)
     run(`git push`)
     alert("Seems to have succeeded")

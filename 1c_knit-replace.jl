@@ -30,6 +30,18 @@ replacements = (
 weave("index.jmd", out_path = "index-tmd.md", doctype = "github")
 replace_in_file("index-tmd.md", "index.md", replacements)
 
+try
+    run(`git add index.md`)
+    run(`git commit -m "daily update $to_date main"`)
+    run(`git push`)
+    alert("Seems to have succeeded pushing index.md")
+catch e
+    alert("You process failed index.md")
+    raise(e)
+end
+
+
+cd(PATH)
 # for the player games use the template to generate all the stuff
 names = vcat(df.black, df.white) |> unique
 @threads for i in 1:length(names)
@@ -41,12 +53,15 @@ names = vcat(df.black, df.white) |> unique
     end
 end
 
-@threads for i in 1:length(names)
+cd(PATH)
+for i in 1:length(names)
     name = names[i]
     if !ismissing(name)
         weave("./player-games-md/jmd/$name.jmd", out_path = "./player-games-md/tmp/$name.md", doctype = "github")
     end
 end
+
+cd(PATH)
 
 # break it into two
 @threads for i in 1:length(names)
@@ -56,15 +71,6 @@ end
     end
 end
 
-try
-    run(`git add index.md`)
-    run(`git commit -m "daily update $to_date main"`)
-    run(`git push`)
-    alert("Seems to have succeeded pushing index.md")
-catch e
-    alert("You process failed index.md")
-    raise(e)
-end
 
 try
     run(`git add ./player-games-md/md/\*`)

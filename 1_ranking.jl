@@ -71,8 +71,8 @@ const OFFSET = 3800-6.5/log(10)*400
 
 pings_for_md1 = @chain pings begin
 #    @where :n .> infrequent_threshold
-   @transform eng_name = coalesce.(eng_name.(:name), Ref(""));
-   @transform eng_name = "[" .* :eng_name .* "](./player-games-md/md/" .* :eng_name .* ".md)"
+   @transform eng_name_old = coalesce.(eng_name.(:name), Ref(""));
+   @transform eng_name = "[" .* :eng_name_old .* "](./player-games-md/md/" .* :eng_name_old .* ".md)"
    @transform estimate_for_ranking = :estimate .- 1.97 .* :std_error
    @transform Rating = @. round(Int, :estimate * 400 / log(10) + OFFSET)
    @transform rating_for_ranking = @. round(Int, :estimate_for_ranking * 400 / log(10) + OFFSET)

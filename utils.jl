@@ -1,6 +1,9 @@
 using RCall
 using Missings: disallowmissing, skipmissing
-using BadukGoWeiqiTools: NAMESDB
+using BadukGoWeiqiTools: load_namesdb
+
+const NAMESDB = load_namesdb("NAMESDB")
+
 
 function eng_name(name)
     try

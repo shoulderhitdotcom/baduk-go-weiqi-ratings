@@ -5,9 +5,12 @@
         },
         {
             "path": "."
+        },
+        {
+            "path": "..\\BadukGoWeiqiTools"
         }
     ],
     "settings": {
-        "julia.environmentPath": "c:\\git\\baduk-go-weiqi-ratings\\"
+        "julia.environmentPath": "c:\\git\\BadukGoWeiqiTools"
     }
 }

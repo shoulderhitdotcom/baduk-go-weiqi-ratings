@@ -43,34 +43,30 @@ end
 
 cd(PATH)
 # for the player games use the template to generate all the stuff
-names = vcat(df.black, df.white) |> unique
-@threads for i in 1:length(names)
-    name = names[i]
+
+# names_to_update is from 1-make-links-to-kifu
+@threads for i in 1:length(names_to_update)
+    name = names_to_update[i]
     if !ismissing(name)
         replace_in_file("player-games-template.jmd", "./player-games-md/jmd/$name.jmd", ("{{name}}"=>name, ))
-        # weave("./player-games-md/jmd/$name.jmd", out_path = "./player-games-md/tmp/$name.md", doctype = "github")
-        # replace_in_file("./player-games-md/tmp/$name.md", "./player-games-md/md/$name.md", replacements)
     end
 end
 
 cd(PATH)
-for i in 1:length(names)
-    name = names[i]
+for i in 1:length(names_to_update)
+    name = names_to_update[i]
     if !ismissing(name)
         weave("./player-games-md/jmd/$name.jmd", out_path = "./player-games-md/tmp/$name.md", doctype = "github")
     end
 end
 
 cd(PATH)
-
-# break it into two
-@threads for i in 1:length(names)
-    name = names[i]
+@threads for i in 1:length(names_to_update)
+    name = names_to_update[i]
     if !ismissing(name)
         replace_in_file("./player-games-md/tmp/$name.md", "./player-games-md/md/$name.md", replacements)
     end
 end
-
 
 try
     run(`git add ./player-games-md/md/\*`)

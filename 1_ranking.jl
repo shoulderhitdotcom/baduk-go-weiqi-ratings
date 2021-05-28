@@ -6,8 +6,6 @@ using Chain: @chain
 using Serialization: deserialize
 using Dates: Date, Day
 using StatsBase
-# using Optim: optimize, BFGS
-using LoopVectorization
 using JDF
 using CSV
 using Alert
@@ -16,26 +14,27 @@ using Revise: includet
 includet("utils.jl")
 
 if isdir("c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/")
-    tbl_from_somewhere = JDF.load("c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/") |> DataFrame
-    tbl_from_somewhere.date = parse.(Date, tbl_from_somewhere.date)
-    tbl_from_somewhere.komi_fixed = replace(
-        tbl_from_somewhere.komi,
-        6.4 => 6.5,
-        8.0 => 7.5,
-        750 => 7.5,
-        605.0 => 6.5
-    )
-
-    tbl_from_somewhere = @where(tbl_from_somewhere, in.(:komi_fixed, Ref((6.5, 7.5))))
-    select!(tbl_from_somewhere, Not([:sgf, :comp, :result, :kifu_link, :win_by, :komi]))
+    tbl_from_somewhere = @chain "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
+        JDF.load()
+        DataFrame()
+        @transform date = parse.(Date, :date)
+        @transform komi_fixed = replace(
+            :komi,
+            6.4 => 6.5,
+            8.0 => 7.5,
+            750 => 7.5,
+            605.0 => 6.5
+        )
+        @where in.(:komi_fixed, Ref((6.5, 7.5)))
+        select!(Not([:sgf, :comp, :result, :kifu_link, :win_by, :komi]))
+    end
 
     JDF.save("kifu-depot-games-for-ranking.jdf/", tbl_from_somewhere)
 end
 
 tbl = JDF.load("kifu-depot-games-for-ranking.jdf/") |> DataFrame
 
-
-function meh(tbl)
+function estimate_ratings_and_save_records(tbl)
     # for easy testing
     # from_date, to_date = mad-Day(364), mad
     mad = maximum(tbl.date)
@@ -56,15 +55,15 @@ if false
     for date_filter in filter(x-> x <= Date("2016-06-19"), sort!(unique(tbl.date), rev=true))
         println(date_filter)
         tbl_earlier = @where(tbl, :date .<= date_filter)
-        @time meh(tbl_earlier)
+        @time estimate_ratings_and_save_records(tbl_earlier)
     end
 end
 
 #pings, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date, mad = meh(tbl)
-@time pings, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date, mad = meh(tbl);
+@time pings, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date, mad =
+    estimate_ratings_and_save_records(tbl);
 
 #JDF.save("pings.jdf/", pings)
-
 
 const OFFSET = 3800-6.5/log(10)*400
 #infrequent_threshold = 8

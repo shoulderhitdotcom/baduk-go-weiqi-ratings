@@ -101,10 +101,23 @@ end
 
 cd(PATH)
 for (name1, name2) in head_to_head_sets
-    weave("./head-to-head-md/jmd/$name1-$name2.jmd", out_path = "./head-to-head-md/tmp/$name1-$name2.md", doctype = "github")
+    # if !isfile("./head-to-head-md/tmp/$name1-$name2.md")
+        weave("./head-to-head-md/jmd/$name1-$name2.jmd", out_path = "./head-to-head-md/tmp/$name1-$name2.md", doctype = "github")
+    # end
 end
 
 cd(PATH)
-for (name1, name2) in head_to_head_sets
+@threads for i in 1:length(head_to_head_sets)
+    @inbounds name1, name2 = head_to_head_sets[i]
     replace_in_file("./head-to-head-md/tmp/$name1-$name2.md", "./head-to-head-md/md/$name1-$name2.md", replacements)
+end
+
+try
+    run(`git add ./head-to-head-md/md/\*`)
+    run(`git commit -m "daily update all head to head $to_date "`)
+    run(`git push`)
+    alert("Seems to have succeeded doing head to head")
+catch e
+    alert("You process failed")
+    raise(e)
 end

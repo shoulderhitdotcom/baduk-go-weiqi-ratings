@@ -1,5 +1,7 @@
 ## Welcome to Baduk Go Weiqi Ratings
 
+[Head-to-head](head-to-head-md/md/Shin Jinseo-Ke Jie.md)
+
 The ratings are based on {{ngames}} games from {{from_date}} to {{to_date}}.
 
 ```{julia; echo=false; line_width=888}

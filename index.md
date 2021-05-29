@@ -1,6 +1,6 @@
 ## Welcome to Baduk Go Weiqi Ratings
 
-[Head-to-head](head-to-head-md/md/Shin Jinseo-Ke Jie.md)
+[Head-to-head](head-to-head-md/md/Ke Jie-Shin Jinseo.md)
 
 The ratings are based on 5018 games from 2020-05-29 to 2021-05-28.
 

@@ -1,0 +1,14 @@
+## Gu Zihao vs Tao Xinran Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Gu Zihao vs Tao Xinran** | **Gu Zihao streak** | **Tao Xinran streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-04-11 | 第25回LG杯中国予選 | Tao Xinran | Gu Zihao | W+R | 6.5 | 1:0 | 1 | 0 |
+
+
+
+

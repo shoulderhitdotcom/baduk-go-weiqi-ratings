@@ -82,34 +82,33 @@ end
 # Head to head
 #############################################################################################
 
-head_to_head_sets = @chain df begin
-    @where @. !ismissing(:black)
-    @where @. !ismissing(:white)
-    @where in.(:black, Ref(names_to_update))
-    @where in.(:white, Ref(names_to_update))
-    Dict(Set((n1, n2)) => true for (n1, n2) in zip(_.black, _.white))
-    keys()
-    collect.()
-    filter(x->length(x) == 2, _) # weird case where kim jiseok played himself
-end
+using ProgressMeter: @showprogress
+
+pings_for_md1 = JDF.load("pings.jdf") |> DataFrame
+top20 = pings_for_md1.eng_name_old[1:20]
 
 # names_to_update is from 1-make-links-to-kifu
 cd(PATH)
-for (name1, name2) in head_to_head_sets
-    replace_in_file("head-to-head-template.jmd", "./head-to-head-md/jmd/$name1-$name2.jmd", ("{{name1}}"=>name1, "{{name2}}"=>name2))
+@showprogress for (name1, name2) in head_to_head_sets
+    if (name1 in top20) & (name2 in top20)
+        replace_in_file("head-to-head-template.jmd", "./head-to-head-md/jmd/$name1-$name2.jmd", ("{{name1}}"=>name1, "{{name2}}"=>name2))
+    end
 end
 
 cd(PATH)
-for (name1, name2) in head_to_head_sets
-    # if !isfile("./head-to-head-md/tmp/$name1-$name2.md")
+@showprogress for (name1, name2) in head_to_head_sets
+    if (name1 in top20) & (name2 in top20)
         weave("./head-to-head-md/jmd/$name1-$name2.jmd", out_path = "./head-to-head-md/tmp/$name1-$name2.md", doctype = "github")
-    # end
+    end
 end
 
 cd(PATH)
-@threads for i in 1:length(head_to_head_sets)
-    @inbounds name1, name2 = head_to_head_sets[i]
-    replace_in_file("./head-to-head-md/tmp/$name1-$name2.md", "./head-to-head-md/md/$name1-$name2.md", replacements)
+@showprogress for i in 1:length(head_to_head_sets)
+    name1, name2 = head_to_head_sets[i]
+    if (name1 in top20) & (name2 in top20)
+        @inbounds name1, name2 = head_to_head_sets[i]
+        replace_in_file("./head-to-head-md/tmp/$name1-$name2.md", "./head-to-head-md/md/$name1-$name2.md", replacements)
+    end
 end
 
 try

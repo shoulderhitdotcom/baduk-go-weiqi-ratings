@@ -11,11 +11,8 @@ using Revise: includet
 includet("utils.jl")
 
 for file in readdir("head-to-head-md/md/")
-    s  = split(file, "-")
-    t = sort(s)
-
-    if s != t
-        rm(joinpath("head-to-head-md/md/", file); force=true, recursive=true)
+    if ':' in file
+        println(file)
     end
 end
 
@@ -41,7 +38,7 @@ if do_for_all
     names_to_update = filter(n -> n != "", tmp |> collect)
 end
 
-sets = @chain df begin
+head_to_head_sets = @chain df begin
     @where @. !ismissing(:black)
     @where @. !ismissing(:white)
     @where in.(:black, Ref(names_to_update))

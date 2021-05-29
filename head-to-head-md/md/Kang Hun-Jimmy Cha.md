@@ -1,0 +1,15 @@
+## Kang Hun vs Jimmy Cha Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Hun vs Jimmy Cha** | **Kang Hun streak** | **Jimmy Cha streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-09-10 | 2020NHシニア囲碁リーグ第8節第1試合第2局 | Kang Hun | Jimmy Cha | W+0.5 | 6.5 | 0:2 | 0 | 2 | 
+| 2019-11-13 | 2019NHシニア囲碁リーグ第8節第3試合第3局 | Kang Hun | Jimmy Cha | W+R | 6.5 | 0:1 | 0 | 1 |
+
+
+
+

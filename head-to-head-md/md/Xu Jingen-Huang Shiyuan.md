@@ -1,0 +1,17 @@
+## Xu Jingen vs Huang Shiyuan Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Xu Jingen vs Huang Shiyuan** | **Xu Jingen streak** | **Huang Shiyuan streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-04-19 | 第11期友士杯十段戦予選 | Xu Jingen | Huang Shiyuan | B+0.5 | 6.5 | 3:1 | 3 | 0 | 
+| 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 | Xu Jingen | Huang Shiyuan | B+R | 6.5 | 2:1 | 2 | 0 | 
+| 2019-11-06 | 2019新人王戦（台湾）リーグB | Huang Shiyuan | Xu Jingen | W+R | 7.5 | 1:1 | 1 | 0 | 
+| 2019-02-25 | 第6回グロービス杯台湾予選 | Huang Shiyuan | Xu Jingen | B+1.5 | 6.5 | 0:1 | 0 | 1 |
+
+
+
+

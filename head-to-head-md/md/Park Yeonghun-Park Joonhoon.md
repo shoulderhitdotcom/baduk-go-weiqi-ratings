@@ -1,0 +1,14 @@
+## Park Yeonghun vs Park Joonhoon Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Yeonghun vs Park Joonhoon** | **Park Yeonghun streak** | **Park Joonhoon streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-01-12 | 第44期名人戦（韓国）予選 | Park Yeonghun | Park Joonhoon | W+R | 6.5 | 0:1 | 0 | 1 |
+
+
+
+

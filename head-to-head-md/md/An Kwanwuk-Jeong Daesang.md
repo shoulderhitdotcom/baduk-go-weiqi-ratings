@@ -1,0 +1,14 @@
+## An Kwanwuk vs Jeong Daesang Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative An Kwanwuk vs Jeong Daesang** | **An Kwanwuk streak** | **Jeong Daesang streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2018-06-05 | 第3回韓国シニア囲碁リーグ第1節富川-サイバーORO | An Kwanwuk | Jeong Daesang | W+3.5 | 6.5 | 0:1 | 0 | 1 |
+
+
+
+

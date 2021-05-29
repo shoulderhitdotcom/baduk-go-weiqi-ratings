@@ -1,0 +1,15 @@
+## Sun Zhe vs Mutsuura Yuta Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Sun Zhe vs Mutsuura Yuta** | **Sun Zhe streak** | **Mutsuura Yuta streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-04-07 | 第25回LG杯国内予選決勝 | Sun Zhe | Mutsuura Yuta | B+R | 6.5 | 1:1 | 1 | 0 | 
+| 2019-07-11 | 第44期名人戦リーグ | Sun Zhe | Mutsuura Yuta | W+R | 6.5 | 0:1 | 0 | 1 |
+
+
+
+

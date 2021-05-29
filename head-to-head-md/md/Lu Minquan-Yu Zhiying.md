@@ -1,0 +1,23 @@
+## Lu Minquan vs Yu Zhiying Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lu Minquan vs Yu Zhiying** | **Lu Minquan streak** | **Yu Zhiying streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-09-29 | 第3回呉清源杯世界女子囲碁選手権3回戦 | Lu Minquan | Yu Zhiying | W+R | 7.5 | 3:7 | 0 | 1 | 
+| 2019-09-08 | 第7回中国女子囲碁甲級リーグ第12節 | Yu Zhiying | Lu Minquan | W+R | 7.5 | 3:6 | 2 | 0 | 
+| 2019-05-26 | 第7回中国女子囲碁甲級リーグ第3節 | Lu Minquan | Yu Zhiying | B+R | 7.5 | 2:6 | 1 | 0 | 
+| 2018-08-24 | 第6回中国女子囲碁甲級リーグ第11節廈門-江蘇 | Lu Minquan | Yu Zhiying | W+R | 7.5 | 1:6 | 0 | 2 | 
+| 2018-03-24 | 第6回中国女子囲碁甲級リーグ第2節 | Yu Zhiying | Lu Minquan | B+R | 7.5 | 1:5 | 0 | 1 | 
+| 2017-12-17 | 第5回中国女子囲碁甲級リーグ戦17回戦 | Lu Minquan | Yu Zhiying | B+R | 7.5 | 1:4 | 1 | 0 | 
+| 2017-09-12 | 第5回中国女子囲碁甲級リーグ第8節 | Yu Zhiying | Lu Minquan | B+R | 7.5 | 0:4 | 0 | 4 | 
+| 2017-07-05 | 2017年中国全国運動会囲碁競技第1戦 | Yu Zhiying | Lu Minquan | B+R | 7.5 | 0:3 | 0 | 3 | 
+| 2017-03-19 | 昌江棋子湾中国冠軍戦決勝 | Lu Minquan | Yu Zhiying | W+R | 7.5 | 0:2 | 0 | 2 | 
+| 2015-05-01 | 第3回中国女子囲碁甲級リーグ第1節 | Lu Minquan | Yu Zhiying | W+R | 7.5 | 0:1 | 0 | 1 |
+
+
+
+

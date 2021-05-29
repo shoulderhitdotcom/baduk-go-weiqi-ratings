@@ -1,0 +1,20 @@
+## Li Xuanhao vs Gu Zihao Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Xuanhao vs Gu Zihao** | **Li Xuanhao streak** | **Gu Zihao streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-04-22 | 第17回倡棋杯中国プロ囲碁選手権戦3回戦 | Gu Zihao | Li Xuanhao | B+R | 7.5 | 2:5 | 0 | 3 | 
+| 2021-03-22 | 第35期中国囲碁天元戦3回戦 | Li Xuanhao | Gu Zihao | W+R | 7.5 | 2:4 | 0 | 2 | 
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Gu Zihao | Li Xuanhao | B+R | 7.5 | 2:3 | 0 | 1 | 
+| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Li Xuanhao | Gu Zihao | B+¾ | 7.5 | 2:2 | 1 | 0 | 
+| 2019-05-09 | 嫘祖杯第32期中国囲棋名人戦16強戦 | Gu Zihao | Li Xuanhao | B+R | 7.5 | 1:2 | 0 | 2 | 
+| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Gu Zihao | Li Xuanhao | B+R | 7.5 | 1:1 | 0 | 1 | 
+| 2015-08-31 | 2015年全国囲棋個人戦男子組第8戦 | Gu Zihao | Li Xuanhao | W+4.5 | 7.5 | 1:0 | 1 | 0 |
+
+
+
+

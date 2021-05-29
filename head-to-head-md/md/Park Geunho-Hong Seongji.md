@@ -1,0 +1,17 @@
+## Park Geunho vs Hong Seongji Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Geunho vs Hong Seongji** | **Park Geunho streak** | **Hong Seongji streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-08-23 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Geunho | Hong Seongji | B+R | 6.5 | 2:2 | 1 | 0 | 
+| 2019-11-09 | 2019-2020韓国囲碁リーグ第6節第3試合第4局 | Hong Seongji | Park Geunho | B+R | 6.5 | 1:2 | 0 | 2 | 
+| 2018-07-20 | 2018年韓国囲碁リーグ第5節 | Hong Seongji | Park Geunho | B+R | 6.5 | 1:1 | 0 | 1 | 
+| 2018-07-13 | 第20回農心杯韓国選抜戦 | Hong Seongji | Park Geunho | W+R | 6.5 | 1:0 | 1 | 0 |
+
+
+
+

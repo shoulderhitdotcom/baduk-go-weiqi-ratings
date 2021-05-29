@@ -1,0 +1,14 @@
+## Song Ronghui vs Li Xuanhao Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Song Ronghui vs Li Xuanhao** | **Song Ronghui streak** | **Li Xuanhao streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Song Ronghui | Li Xuanhao | W+R | 7.5 | 0:1 | 0 | 1 |
+
+
+
+

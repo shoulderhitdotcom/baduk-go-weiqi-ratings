@@ -1,0 +1,15 @@
+## Takao Shinji vs Kang Dongyun Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Takao Shinji vs Kang Dongyun** | **Takao Shinji streak** | **Kang Dongyun streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2014-08-27 | 第19回三星火災杯世界囲碁マスターズ1回戦D2 | Takao Shinji | Kang Dongyun | W+R | 6.5 | 1:1 | 0 | 1 | 
+| 2008-11-29 | 第10回農心辛ラーメン杯世界囲碁最強戦第10戦 | Takao Shinji | Kang Dongyun | B+R | 6.5 | 1:0 | 1 | 0 |
+
+
+
+

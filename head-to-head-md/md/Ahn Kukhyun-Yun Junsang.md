@@ -1,0 +1,14 @@
+## Ahn Kukhyun vs Yun Junsang Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ahn Kukhyun vs Yun Junsang** | **Ahn Kukhyun streak** | **Yun Junsang streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2018-04-20 | 第23期GSカルテックス杯プロ棋戦8強戦 | Ahn Kukhyun | Yun Junsang | W+R | 6.5 | 0:1 | 0 | 1 |
+
+
+
+

@@ -1,0 +1,16 @@
+## Hoshiai Shiho vs Suzuki Ayumi Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hoshiai Shiho vs Suzuki Ayumi** | **Hoshiai Shiho streak** | **Suzuki Ayumi streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-06-04 | 第39期女流本因坊戦2回戦 | Hoshiai Shiho | Suzuki Ayumi | B+R | 6.5 | 3:0 | 3 | 0 | 
+| 2018-10-04 | 第22期ドコモ杯女流棋聖戦1回戦 | Hoshiai Shiho | Suzuki Ayumi | B+19.5 | 6.5 | 2:0 | 2 | 0 | 
+| 2018-10-04 | 第22期ドコモ杯女流棋聖戦1回戦 | Hoshiai Shiho | Suzuki Ayumi | B+19.5 | 6.5 | 1:0 | 1 | 0 |
+
+
+
+

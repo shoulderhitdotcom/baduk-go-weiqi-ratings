@@ -1,0 +1,14 @@
+## Park Jinyoung vs Kim Jimyeong Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Jinyoung vs Kim Jimyeong** | **Park Jinyoung streak** | **Kim Jimyeong streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2016-01-21 | 第4回陜川郡招待河燦錫国手杯英才囲碁大会1回戦 | Kim Jimyeong | Park Jinyoung | W+R | 6.5 | 1:0 | 1 | 0 |
+
+
+
+

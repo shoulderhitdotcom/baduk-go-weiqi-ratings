@@ -1,0 +1,15 @@
+## Lee Youngjoo vs Kim Eunseon Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Youngjoo vs Kim Eunseon** | **Lee Youngjoo streak** | **Kim Eunseon streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2019-09-19 | 第24期女流国手戦8強戦 | Lee Youngjoo | Kim Eunseon | B+R | 6.5 | 1:1 | 1 | 0 | 
+| 2012-07-19 | 第14期女流名人戦（韓国）敗者復活戦2回戦 | Kim Eunseon | Lee Youngjoo | B+R | 6.5 | 0:1 | 0 | 1 |
+
+
+
+

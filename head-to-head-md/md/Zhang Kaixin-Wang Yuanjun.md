@@ -1,0 +1,16 @@
+## Zhang Kaixin vs Wang Yuanjun Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Zhang Kaixin vs Wang Yuanjun** | **Zhang Kaixin streak** | **Wang Yuanjun streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-09-20 | 第8期中環碁聖戦3回戦 | Wang Yuanjun | Zhang Kaixin | B+R | 6.5 | 0:3 | 0 | 3 | 
+| 2020-03-16 | 第10期友士杯十段戦予選勝部1回戦 | Zhang Kaixin | Wang Yuanjun | W+R | 6.5 | 0:2 | 0 | 2 | 
+| 2011-10-13 | 第3回海峰杯プロ囲碁戦16強戦 | Zhang Kaixin | Wang Yuanjun | W+R | 6.5 | 0:1 | 0 | 1 |
+
+
+
+

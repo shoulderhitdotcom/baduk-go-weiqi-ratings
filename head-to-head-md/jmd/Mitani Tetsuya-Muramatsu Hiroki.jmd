@@ -1,0 +1,15 @@
+## Mitani Tetsuya vs Muramatsu Hiroki Head to head
+
+[Back to ranking](../../index.md)
+
+
+```{julia; echo=false; line_width=888}
+using JDF
+using DataFrames: DataFrame
+
+include("c:/weiqi/simulation/utils.jl")
+
+pings_for_md = JDF.load("../jdf/Mitani Tetsuya-Muramatsu Hiroki.jdf") |> DataFrame
+
+df_to_md(pings_for_md)
+```

@@ -1,0 +1,15 @@
+## Zhang Qiang vs Fan Yin Head to head
+
+[Back to ranking](../../index.md)
+
+
+```{julia; echo=false; line_width=888}
+using JDF
+using DataFrames: DataFrame
+
+include("c:/weiqi/simulation/utils.jl")
+
+pings_for_md = JDF.load("../jdf/Zhang Qiang-Fan Yin.jdf") |> DataFrame
+
+df_to_md(pings_for_md)
+```

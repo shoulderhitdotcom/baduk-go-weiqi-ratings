@@ -25,8 +25,8 @@ function update_player_games_jdf(; do_for_all = false)
             605.0 => 6.5
         )
         @where in.(:komi_fixed, Ref((6.5, 7.5)))
-        @transform! black = eng_name.(:black)
-        @transform! white = eng_name.(:white)
+        @transform! black = coalesce.(eng_name.(:black), "")
+        @transform! white = coalesce.(eng_name.(:white), "")
     end
 
     df_for_names = @where(df, do_for_all .| (:date .== maximum(:date)))
@@ -40,6 +40,19 @@ function update_player_games_jdf(; do_for_all = false)
             if name != ""
                 @chain df begin
                     @where (:black .== name) .| (:white .== name)
+                    @transform Result = ifelse.(
+                        ((:who_win .== "W") .& (:white .== name)) .|
+                        ((:who_win .== "B") .& (:black .== name))
+                        , "Win", "Lose")
+                    select!(
+                        :date=>:Date,
+                        :comp=>:Comp,
+                        :black=>:Black,
+                        :white=>:White,
+                        :Result,
+                        :result=>Symbol("Game result"),
+                        :komi_fixed=>:Komi
+                        )
                     JDF.save("./player-games-md/jdf/$name.jdf", _)
                 end
             end

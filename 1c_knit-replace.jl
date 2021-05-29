@@ -77,3 +77,34 @@ catch e
     alert("You process failed")
     raise(e)
 end
+
+#############################################################################################
+# Head to head
+#############################################################################################
+
+head_to_head_sets = @chain df begin
+    @where @. !ismissing(:black)
+    @where @. !ismissing(:white)
+    @where in.(:black, Ref(names_to_update))
+    @where in.(:white, Ref(names_to_update))
+    Dict(Set((n1, n2)) => true for (n1, n2) in zip(_.black, _.white))
+    keys()
+    collect.()
+    filter(x->length(x) == 2, _) # weird case where kim jiseok played himself
+end
+
+# names_to_update is from 1-make-links-to-kifu
+cd(PATH)
+for (name1, name2) in head_to_head_sets
+    replace_in_file("head-to-head-template.jmd", "./head-to-head-md/jmd/$name1-$name2.jmd", ("{{name1}}"=>name1, "{{name2}}"=>name2))
+end
+
+cd(PATH)
+for (name1, name2) in head_to_head_sets
+    weave("./head-to-head-md/jmd/$name1-$name2.jmd", out_path = "./head-to-head-md/tmp/$name1-$name2.md", doctype = "github")
+end
+
+cd(PATH)
+for (name1, name2) in head_to_head_sets
+    replace_in_file("./head-to-head-md/tmp/$name1-$name2.md", "./head-to-head-md/md/$name1-$name2.md", replacements)
+end

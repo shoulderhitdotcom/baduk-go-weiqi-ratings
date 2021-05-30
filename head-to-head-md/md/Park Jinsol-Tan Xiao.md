@@ -5,7 +5,9 @@
 
 
 
-Error: SystemError: opening file "../jdf/Park Jinsol-Tan Xiao.jdf\\metadata.jls": No such file or directory
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Jinsol vs Tan Xiao** | **Park Jinsol streak** | **Tan Xiao streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Park Jinsol | Tan Xiao | W+R | 6.5 | 0:1 | 0 | 1 |
 
 
 

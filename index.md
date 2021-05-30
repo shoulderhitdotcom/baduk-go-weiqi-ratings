@@ -1,7 +1,5 @@
 ## Welcome to Baduk Go Weiqi Ratings
 
-[Head-to-head](head-to-head-md/md/Ke Jie-Shin Jinseo.md)
-
 The ratings are based on 5003 games from 2020-05-31 to 2021-05-30.
 
 
@@ -563,3 +561,6 @@ Black 6.5 komi advantage is estimated to be 3 in Elo
 Using the **Elo Rating** it is
 
 Probability that player with rating `r1` wins over someone with rating `r2` is `1/(1 + 10^((r2-r1)/400))`
+
+[Head-to-head](head-to-head-md/md/Ke Jie-Shin Jinseo.md)
+[Head-to-head](head-to-head-md/md/Lee Changseok-Tao Xinran.md)

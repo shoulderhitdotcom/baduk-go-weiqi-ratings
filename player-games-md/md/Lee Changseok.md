@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Mi Yuting | Lee Changseok | Lose | B+R | 6.5 | 
 | 2021-05-27 | 第2期ソパルコサノル最高棋士決定戦リーグ | Seol Hyunjun | Lee Changseok | Win | W+R | 6.5 | 
 | 2021-05-21 | 第44期名人戦（韓国）敗者復活戦2回戦 | Kang Dongyun | Lee Changseok | Win | W+R | 6.5 | 
 | 2021-05-19 | 第4期韓国竜星戦2回戦 | You Byungyong | Lee Changseok | Win | W+R | 6.5 | 
@@ -194,8 +195,7 @@
 | 2015-05-10 | 2015年韓国囲碁リーグ | Lee Changseok | Lee Jihyun | Win | B+R | 6.5 | 
 | 2015-05-03 | 2015年フューチャーズリーグ | Lee Changseok |  | Win | B+R | 6.5 | 
 | 2015-04-25 | 2015年フューチャーズリーグ | Lee Changseok | You Byungyong | Win | B+R | 6.5 | 
-| 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 | Lee Changseok | Gong Yanyu | Lose | W+0.5 | 7.5 | 
-| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Mi Yuting | Lee Changseok | Lose | B+R | 6.5 |
+| 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 | Lee Changseok | Gong Yanyu | Lose | W+0.5 | 7.5 |
 
 
 

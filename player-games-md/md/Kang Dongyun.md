@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kang Dongyun | Xie Erhao | Win | B+R | 6.5 | 
 | 2021-05-25 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Kang Dongyun | Win | W+R | 6.5 | 
 | 2021-05-21 | 第44期名人戦（韓国）敗者復活戦2回戦 | Kang Dongyun | Lee Changseok | Lose | W+R | 6.5 | 
 | 2021-05-19 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Seol Hyunjun | Win | B+R | 6.5 | 
@@ -806,8 +807,7 @@
 | 2002-11-15 | 第37期覇王戦本戦第8局 | Kang Dongyun |  | Lose | W+R | 6.5 | 
 | 2002-11-11 | 第37期覇王戦本戦第7局 |  | Kang Dongyun | Win | W+7.5 | 6.5 | 
 | 2002-10-03 | 2002年国際新鋭囲碁対抗戦第2戦 | Kang Dongyun | Chen Yaoye | Lose | W+R | 6.5 | 
-| 2002-07-31 | 第2回KAT杯韓国囲碁最強戦 | Kang Dongyun |  | Win | B+0.5 | 6.5 | 
-| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kang Dongyun | Xie Erhao | Win | B+R | 6.5 |
+| 2002-07-31 | 第2回KAT杯韓国囲碁最強戦 | Kang Dongyun |  | Win | B+0.5 | 6.5 |
 
 
 

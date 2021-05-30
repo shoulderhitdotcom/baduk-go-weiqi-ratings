@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Park Jinsol | Tan Xiao | Win | W+R | 6.5 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Tao Xinran | Tan Xiao | Lose | B+1¾ | 7.5 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tan Xiao | Lose | B+R | 7.5 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Tan Xiao | Ye Changxin | Win | B+R | 7.5 | 
@@ -625,8 +626,7 @@
 | 2006-01-17 | 2006CCTV杯中国囲棋電視快棋戦1回戦 | Zhou Ruiyang | Tan Xiao | Lose | B+R | 7.5 | 
 | 2005-12-31 | 第7回中国囲碁甲級リーグ第22節 | Tan Xiao | Li Kang | Win | B+1.5 | 7.5 | 
 | 2005-12-24 | 第7回中国囲碁甲級リーグ第21節 | Tan Xiao |  | Win | B+1.5 | 7.5 | 
-| 2005-04-16 | 第7回中国囲碁甲級リーグ第1節 | Wang Lei (s) | Tan Xiao | Lose | B+R | 7.5 | 
-| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Park Jinsol | Tan Xiao | Win | W+R | 6.5 |
+| 2005-04-16 | 第7回中国囲碁甲級リーグ第1節 | Wang Lei (s) | Tan Xiao | Lose | B+R | 7.5 |
 
 
 

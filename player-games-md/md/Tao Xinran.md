@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Heo Yongho | Tao Xinran | Win | W+R | 6.5 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Tao Xinran | Tan Xiao | Win | B+1¾ | 7.5 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Ding Shixiong | Tao Xinran | Win | W+R | 7.5 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Chen Hao | Tao Xinran | Win | W+¼ | 7.5 | 
@@ -435,8 +436,7 @@
 | 2007-07-20 | 2007年中国段位戦 |  | Tao Xinran | Win | W+R | 7.5 | 
 | 2007-07-13 | 2007年中国段位戦 | Song Ronghui | Tao Xinran | Lose | B+1.5 | 7.5 | 
 | 2007-07-12 | 2007年中国段位戦 | Tao Xinran | Fan Weijing | Lose | W+R | 7.5 | 
-| 2007-07-11 | 2007年中国段位戦 | Jiang Wei | Tao Xinran | Lose | B+R | 7.5 | 
-| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Heo Yongho | Tao Xinran | Win | W+R | 6.5 |
+| 2007-07-11 | 2007年中国段位戦 | Jiang Wei | Tao Xinran | Lose | B+R | 7.5 |
 
 
 

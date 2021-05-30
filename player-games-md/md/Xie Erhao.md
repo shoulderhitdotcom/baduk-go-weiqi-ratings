@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kang Dongyun | Xie Erhao | Lose | B+R | 6.5 | 
 | 2021-05-14 | 第5期洛陽白雲山杯中国棋聖戦2回戦 | Ding Hao | Xie Erhao | Lose | B+R | 7.5 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Xie Erhao | Kim Jiseok | Lose | W+R | 7.5 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Chen Zijian | Xie Erhao | Win | W+R | 7.5 | 
@@ -352,8 +353,7 @@
 | 2012-05-26 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Xie Erhao |  | Lose | W+R | 7.5 | 
 | 2012-03-14 | 第1回百霊杯世界囲碁選手権1回戦 | Rui Naiwei | Xie Erhao | Win | W+R | 7.5 | 
 | 2011-12-29 | 第12期リコー杯囲碁戦1回戦 | Zhong Wenjing | Xie Erhao | Lose | B+R | 7.5 | 
-| 2011-12-28 | 第6期リコー杯新秀戦1回戦 | Wang Yanhao | Xie Erhao | Lose | B+R | 7.5 | 
-| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kang Dongyun | Xie Erhao | Lose | B+R | 6.5 |
+| 2011-12-28 | 第6期リコー杯新秀戦1回戦 | Wang Yanhao | Xie Erhao | Lose | B+R | 7.5 |
 
 
 

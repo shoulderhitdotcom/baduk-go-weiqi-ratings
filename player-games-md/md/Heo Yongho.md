@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Heo Yongho | Tao Xinran | Lose | W+R | 6.5 | 
 | 2021-05-06 | 第26回LG杯韓国予選 | An Sungjoon | Heo Yongho | Win | W+R | 6.5 | 
 | 2021-05-05 | 第26回LG杯韓国予選 | Heo Yongho | Lee Changho | Win | B+R | 6.5 | 
 | 2021-05-03 | 第26回LG杯韓国予選 | Heo Yongho | Park Minkyu | Win | B+R | 6.5 | 
@@ -448,8 +449,7 @@
 | 2002-07-04 | 第6期SKガス杯新鋭プロ十傑戦リーグA | Heo Yongho | Park Cheongsang | Lose | W+R | 6.5 | 
 | 2002-06-28 | 第13期BCカード杯新人王戦予選 | Heo Yongho |  | Lose | W+R | 6.5 | 
 | 2002-04-26 | 第6期SKガス杯新鋭プロ十傑戦リーグA | Lee Sedol | Heo Yongho | Win | W+R | 6.5 | 
-| 2002-02-01 | 第6期SKガス杯新鋭プロ十傑戦リーグA | Heo Yongho | Kang Jiseong | Win | B+R | 6.5 | 
-| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Heo Yongho | Tao Xinran | Lose | W+R | 6.5 |
+| 2002-02-01 | 第6期SKガス杯新鋭プロ十傑戦リーグA | Heo Yongho | Kang Jiseong | Win | B+R | 6.5 |
 
 
 

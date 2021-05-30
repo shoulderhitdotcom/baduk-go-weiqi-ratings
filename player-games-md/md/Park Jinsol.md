@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Park Jinsol | Tan Xiao | Lose | W+R | 6.5 | 
 | 2021-05-06 | 第26回LG杯韓国予選 | Park Jinsol | Yun Junsang | Win | B+1.5 | 6.5 | 
 | 2021-05-05 | 第26回LG杯韓国予選 | Han Seungjoo | Park Jinsol | Win | W+0.5 | 6.5 | 
 | 2021-04-28 | 第26回LG杯韓国予選 | Jin Siyoung | Park Jinsol | Win | W+R | 6.5 | 
@@ -232,8 +233,7 @@
 | 2002-10-03 | 2002年国際新鋭囲碁対抗戦第2戦 | Hu Yaoyu | Park Jinsol | Win | W+2.5 | 6.5 | 
 | 2002-10-02 | 2002年国際新鋭囲碁対抗戦第1戦 | Weon Seongjin | Park Jinsol | Lose | B+4.5 | 6.5 | 
 | 2002-08-28 | 第7期三星杯1回戦 | Zhang Wendong | Park Jinsol | Lose | B+R | 6.5 | 
-| 2002-07-29 | 第7期三星杯予選決勝 | Park Jinsol | Imamura Toshiya | Win | B+9.5 | 6.5 | 
-| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Park Jinsol | Tan Xiao | Lose | W+R | 6.5 |
+| 2002-07-29 | 第7期三星杯予選決勝 | Park Jinsol | Imamura Toshiya | Win | B+9.5 | 6.5 |
 
 
 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kim Myounghoon | Xie Ke | Win | B+R | 6.5 | 
 | 2021-05-07 | 第26回GSカルテックス杯プロ棋戦1回戦 | Park Jaekeun | Kim Myounghoon | Win | W+R | 6.5 | 
 | 2021-05-06 | 第26回LG杯韓国予選 | Shin Jaeweon | Kim Myounghoon | Win | W+R | 6.5 | 
 | 2021-05-05 | 第26回LG杯韓国予選 | Kim Myounghoon | Moon Minjong | Win | B+4.5 | 6.5 | 
@@ -274,8 +275,7 @@
 | 2014-04-25 | 2014年韓国囲碁リーグ | Kim Myounghoon | Choi Cheolhan | Lose | W+R | 6.5 | 
 | 2014-03-11 | 第2期メジオン杯オープン新人王戦2回戦 | Min Sangyoun | Kim Myounghoon | Lose | B+R | 6.5 | 
 | 2014-02-17 | 第33回KBS杯囲碁王戦本戦1回戦 |  | Kim Myounghoon | Win | W+0.5 | 6.5 | 
-| 2013-04-19 | 第18回LG杯予選 | Kim Myounghoon | Nakano Hironari | Win | B+R | 6.5 | 
-| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kim Myounghoon | Xie Ke | Win | B+R | 6.5 |
+| 2013-04-19 | 第18回LG杯予選 | Kim Myounghoon | Nakano Hironari | Win | B+R | 6.5 |
 
 
 

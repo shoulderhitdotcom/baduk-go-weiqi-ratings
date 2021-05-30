@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kim Myounghoon | Xie Ke | Lose | B+R | 6.5 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Xie Ke | Win | W+R | 7.5 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Xie Ke | Park Junghwan | Lose | W+¼ | 7.5 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Fan Yin | Xie Ke | Lose | B+¾ | 7.5 | 
@@ -291,8 +292,7 @@
 | 2013-08-18 | 2013年宏達杯全国囲碁星鋭最強戦第3ステージ | Xie Ke |  | Lose | W+R | 7.5 | 
 | 2013-08-14 | 2013年宏達杯全国囲碁星鋭最強戦第3ステージ | Tang Weixing | Xie Ke | Lose | B+5.5 | 7.5 | 
 | 2013-07-03 | 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Xie Ke | Lei Zhenkun | Lose | W+10.5 | 7.5 | 
-| 2013-06-29 | 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Chen Hao | Xie Ke | Lose | B+R | 7.5 | 
-| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kim Myounghoon | Xie Ke | Lose | B+R | 6.5 |
+| 2013-06-29 | 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Chen Hao | Xie Ke | Lose | B+R | 7.5 |
 
 
 

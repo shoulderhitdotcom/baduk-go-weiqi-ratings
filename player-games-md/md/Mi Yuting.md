@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Mi Yuting | Lee Changseok | Win | B+R | 6.5 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Mi Yuting | Liao Yuanhe | Lose | W+R | 7.5 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Mi Yuting | Byun Sangil | Lose | W+R | 7.5 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Li Weiqing | Mi Yuting | Win | W+R | 7.5 | 
@@ -575,8 +576,7 @@
 | 2008-12-25 | 第3期リコー杯新秀戦2回戦 |  | Mi Yuting | Win | W+R | 7.5 | 
 | 2008-12-23 | 第3期リコー杯新秀戦1回戦 |  | Mi Yuting | Win | W+0.5 | 7.5 | 
 | 2008-12-22 | 第9期リコー杯囲碁戦1回戦 | Mi Yuting | Wang Lei (s) | Lose | W+R | 7.5 | 
-| 2008-12-16 | 第3期リコー杯新秀戦予選 |  | Mi Yuting | Win | W+2.5 | 7.5 | 
-| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Mi Yuting | Lee Changseok | Win | B+R | 6.5 |
+| 2008-12-16 | 第3期リコー杯新秀戦予選 |  | Mi Yuting | Win | W+2.5 | 7.5 |
 
 
 

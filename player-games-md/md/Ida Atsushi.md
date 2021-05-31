@@ -5,324 +5,325 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
-| 第69期王座戦1回戦 | Ida Atsushi | Ohba Junya | B+R | 2021-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H51Tq7KHKNW38dpSQ84Dnw%3D%3D) | 
-| 第46期碁聖戦挑戦者決定戦  | Iyama Yuta | Ida Atsushi | B+R | 2021-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G%2BnpJ9HNcOky%2BxIjVcgmYg%3D%3D) | 
-| 第69期王座戦予選 | Ida Atsushi | O Rissei | B+3.5 | 2021-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mz0MMl8pIHzSWzB2vn4tEA%3D%3D) | 
-| 第77期本因坊戦予選 | Ohashi Naruya | Ida Atsushi | B+R | 2021-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Abs92kuCGI0NH0qRgLhgaw%3D%3D) | 
-| 第69期王座戦予選 | Ida Atsushi | Yoda Norimoto | B+R | 2021-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JYN2wJV3%2B6poIswGyHwvjg%3D%3D) | 
-| 第69期王座戦予選 | Ida Atsushi | Nakano Hironari | B+R | 2021-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZlEXXUSyf3A2lqfpdNXIMA%3D%3D) | 
-| 第69期王座戦予選 | Ida Atsushi | Iwamaru Taira | B+R | 2021-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nfHGCYaHC0ggyr3%2B%2FNOuQw%3D%3D) | 
-| 第11回おかげ杯囲碁トーナメント戦決勝  | Ichiriki Ryo | Ida Atsushi | B+R | 2020-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gacmKrIed4SpXri2IDMuoA%3D%3D) | 
-| 第11回おかげ杯囲碁トーナメント戦準決勝  | Ida Atsushi | Muramatsu Hiroki | B+R | 2020-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LQfBpEcSZ0lz6GB5ZMoZMw%3D%3D) | 
-| 第11回おかげ杯囲碁トーナメント戦2回戦 | Ueno Asami | Ida Atsushi | W+R | 2020-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aa1Ez9kaJcXYvKYO6XRADg%3D%3D) | 
-| 第11回おかげ杯囲碁トーナメント戦1回戦 | Ida Atsushi | Tsuneishi Takashi | B+R | 2020-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hBUdQRa9EBo2ysk4bad0hA%3D%3D) | 
-| 第59期十段戦2回戦 | Ida Atsushi | Yu Zhengqi | W+R | 2020-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vk666%2F1zdTwjdo4H6T73zA%3D%3D) | 
-| 第61期王冠戦挑戦手合一番勝負 | Ida Atsushi | Otake Yu | B+R | 2020-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uhcDx%2BQ%2BsqZksYEt%2F4lDkw%3D%3D) | 
-| 第46期碁聖戦予選 | Ida Atsushi | Shimojima Yohei | B+R | 2020-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ake29JQ%2FfxYLaHZ6SwumEA%3D%3D) | 
-| 第46期碁聖戦予選 | Ida Atsushi | Kikkawa Hajime | B+R | 2020-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lXuF54GEZ2Ze4%2BT%2BiIHRVA%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Imamura Toshiya | Ida Atsushi | W+5.5 | 2020-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F0FI8fn2U%2Bz2M8OouFrtnw%3D%3D) | 
-| 第59期十段戦予選 | Ida Atsushi | Rin Kanketsu | B+R | 2020-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nU0zaHjrLj28cdhQW9Ov9g%3D%3D) | 
-| 第76期本因坊戦予選 | Tsuruyama Atsushi | Ida Atsushi | B+6.5 | 2020-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5YtkTGZlA7YumrGWjBKTzQ%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Ida Atsushi | Nakano Yasuhiro | B+R | 2020-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HBXi6MbSwzrUHRORe7o4XA%3D%3D) | 
-| 第46期天元戦準決勝 | Ida Atsushi | Kono Rin | W+R | 2020-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BSycSlDt%2BruQjx9YC2ALTA%3D%3D) | 
-| 第76期本因坊戦予選 | Ida Atsushi | missing | B+R | 2020-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tE8JiwBT3X%2FNOaepXljZ4Q%3D%3D) | 
-| 第46期名人戦予選 | Ida Atsushi | Yanagisawa Satoshi | W+R | 2020-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F4P%2F0u61u1tMCZ8OaWs4Yw%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Ida Atsushi | Yuki Satoshi | W+R | 2020-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Jv6qag7x3KSFP6K9OGZxQ%3D%3D) | 
-| 第46期天元戦3回戦 | Ida Atsushi | Yu Zhengqi | B+0.5 | 2020-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pmEofynUHksAhKB6L%2Fr6gw%3D%3D) | 
-| 第76期本因坊戦予選 | Ida Atsushi | Yamashita Keigo | B+10.5 | 2020-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dfedW0wqdd07sqyO1fxjow%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Mimura Tomoyasu | Ida Atsushi | B+R | 2020-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lpuvmeIv40f0tK10oieAiQ%3D%3D) | 
-| 日台交流戦第2戦 | Ida Atsushi | Jian Jingting | W+R | 2020-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pNQf%2BskndYLiVikzr5JsfA%3D%3D) | 
-| 日台交流戦第1戦 | Chen Qirui | Ida Atsushi | B+R | 2020-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TjHrgN4cgTaw9AFk%2FnmjDw%3D%3D) | 
-| 第68期王座戦予選 | Rin Kanketsu | Ida Atsushi | B+R | 2020-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EZYhpIFYTP0WhxxKmj31fw%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Kobayashi Satoru | Ida Atsushi | W+R | 2020-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=unjG%2Bt27JKFESHZssbl%2BKQ%3D%3D) | 
-| 第46期天元戦2回戦 | Ida Atsushi | Adachi Toshimasa | B+R | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XprhWriXtjiIMnr0XLtL6g%3D%3D) | 
-| 第76期本因坊戦予選 | Ida Atsushi | Kawada Kohei | B+R | 2020-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SOziBk%2BxcJrrBm8PnjYegg%3D%3D) | 
-| 第68期王座戦予選 | Ida Atsushi | Kubo Katsuaki | B+R | 2020-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LMyaK6MhToqFyJ%2B1UKHf8A%3D%3D) | 
-| 第76期本因坊戦予選 | Ida Atsushi | Muramatsu Hiroki | B+R | 2020-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ikA7frgu42n%2BCdhslxo3hA%3D%3D) | 
-| 第46期天元戦1回戦 | Kobayashi Koichi | Ida Atsushi | W+5.5 | 2020-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lyI81%2BxZwP%2BZPefFAPh3qg%3D%3D) | 
-| 第68期王座戦予選 | Ogata Masaki | Ida Atsushi | W+R | 2019-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DbFT6KaToeb9cKSC3AD2QQ%3D%3D) | 
-| 第68期王座戦予選 | Ida Atsushi | Ishii Kunio | B+R | 2019-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LOr4148uKIWQcXtGhOkkWQ%3D%3D) | 
-| 第60期王冠戦挑戦手合一番勝負 | Ogata Masaki | Ida Atsushi | W+1.5 | 2019-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B4ln4%2BRG5k2EDYhyj3QVuw%3D%3D) | 
-| 第46期天元戦予選 | Ida Atsushi | Shida Tatsuya | B+2.5 | 2019-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gWN%2FFOsAGmiJlpoEDaALSQ%3D%3D) | 
-| 第58期十段戦2回戦 | Fujita Akihiko | Ida Atsushi | B+R | 2019-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fiU4vPDVP4xD%2BE9VcyuCZQ%3D%3D) | 
-| 第44期棋聖戦Cリーグ | Hirose Yuichi | Ida Atsushi | B+R | 2019-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JAXu%2F%2FdjB2UkqrYE0f%2F8vQ%3D%3D) | 
-| 第46期天元戦予選 | Nakane Naoyuki | Ida Atsushi | W+0.5 | 2019-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IIdqJswkkgu5QtEgDd%2Bt6Q%3D%3D) | 
-| 第45期名人戦予選 | Ida Atsushi | Fujita Akihiko | W+5.5 | 2019-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2BJtpPxGLoQKJh8xJrjVNA%3D%3D) | 
-| 第75期本因坊戦予選 | Yokotsuka Riki | Ida Atsushi | B+3.5 | 2019-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Uhb04mIsvwAh1CtXZU3q1w%3D%3D) | 
-| 第44期棋聖戦Cリーグ | Tsuruta Kazushi | Ida Atsushi | W+R | 2019-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9%2BNnx054n2g2eTEp5d%2BJig%3D%3D) | 
-| 第58期十段戦予選 | Ida Atsushi | Hara Masakazu | B+R | 2019-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0%2FQRhsNRB9BLiBqazu9TDg%3D%3D) | 
-| 第44期棋聖戦Cリーグ | Ida Atsushi | Otake Yu | W+R | 2019-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=daLRuXgcgP0ZNfhSVAHonQ%3D%3D) | 
-| 第75期本因坊戦予選 | Ida Atsushi | Otake Yu | B+0.5 | 2019-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fj43wgUK%2FM34RfCqVzDZoA%3D%3D) | 
-| 第44期棋聖戦Cリーグ | Ida Atsushi | Muramatsu Hiroki | B+R | 2019-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mooLmdylGJHiuGDQKkc%2Bkg%3D%3D) | 
-| 第75期本因坊戦予選 | Ida Atsushi | Takao Shinji | B+3.5 | 2019-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z9Ie9fhVAG26dgrCn2%2BJWg%3D%3D) | 
-| 第44期棋聖戦Cリーグ | Matsumoto Takehisa | Ida Atsushi | W+1.5 | 2019-05-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CAUu6V1mfxA%2BcsIznenCfA%3D%3D) | 
-| IMSAワールドマスターズチャンピオンシップ2019男子団体戦5回戦 | Ida Atsushi | Lin Lixiang | B+R | 2019-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0ho8QLuqgJmZLXoBQ34vyg%3D%3D) | 
-| IMSAワールドマスターズチャンピオンシップ2019男子団体戦4回戦 | Ida Atsushi | Shin Jinseo | W+1¼ | 2019-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aZCikLX%2BE4htQ02F0ZNROA%3D%3D) | 
-| IMSAワールドマスターズチャンピオンシップ2019男子団体戦3回戦 | Ida Atsushi | Mi Yuting | W+R | 2019-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b9DyCMUXbO1BV%2Bw%2BxrDFkw%3D%3D) | 
-| IMSAワールドマスターズチャンピオンシップ2019男子団体戦2回戦 | Ida Atsushi | missing | B+R | 2019-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ETXO6QTG0WiZUQJ6EbLOHg%3D%3D) | 
-| ナショナルチーム研究会 | Ida Atsushi | Seki Kotaro | B+1.5 | 2019-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cIHp0IfWAxItm548n7IEuw%3D%3D) | 
-| 第75期本因坊戦予選 | Ida Atsushi | Nakamura Shinya | B+R | 2019-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EexjGplrLJfgAKaN%2BvwJfw%3D%3D) | 
-| 第45期天元戦2回戦 | Ida Atsushi | Cho U | W+6.5 | 2019-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5vFGyD21mHWacAewHrfZ5g%3D%3D) | 
-| 第6回グランドチャンピオン戦3回戦 | Ida Atsushi | Ichiriki Ryo | W+R | 2019-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jy3y51iXERCqhki7faDmCw%3D%3D) | 
-| 第6回グランドチャンピオン戦2回戦 | Yamashita Keigo | Ida Atsushi | W+R | 2019-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=swxIkF%2BwbuHOKAfMRUzNaA%3D%3D) | 
-| 第6回グランドチャンピオン戦1回戦 | Ida Atsushi | Yoda Norimoto | B+R | 2019-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nfkjG%2BNoGLYSILB%2BqZXuQw%3D%3D) | 
-| 第75期本因坊戦予選 | Ida Atsushi | Nakao Jungo | B+9.5 | 2019-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=npLHpu3hSf03kfbadtBaag%3D%3D) | 
-| 第45期天元戦1回戦 | Ida Atsushi | Ichiriki Ryo | B+R | 2019-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NDUp6LRADK1%2FrSkIyrxa4Q%3D%3D) | 
-| 第44期碁聖戦本戦2回戦 | Iyama Yuta | Ida Atsushi | B+R | 2019-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PMGU4UfcsKT46SCAZI1BVg%3D%3D) | 
-| ナショナルチーム合宿対局 | Ida Atsushi | Hirose Yuichi | W+R | 2018-12-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iEavZP1g9%2BAVb1h6g%2BwaOw%3D%3D) | 
-| 第67期王座戦予選 | Takei Takashi | Ida Atsushi | B+R | 2018-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yoXB8kiSH6J4cUjDrTg0fQ%3D%3D) | 
-| 第57期十段戦3回戦 | Ida Atsushi | Takao Shinji | W+R | 2018-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CI%2Bc463Tf0X4bO0J9LhhwA%3D%3D) | 
-| 第59期王冠戦挑戦手合一番勝負 | Nakano Hironari | Ida Atsushi | W+2.5 | 2018-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fh1Gc2Oy9yMiLzFGgUGwlA%3D%3D) | 
-| 第45期天元戦予選 | Ida Atsushi | Otake Yu | B+R | 2018-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dYZGJw9k%2BlWbmzTk6oBYtQ%3D%3D) | 
-| 第44期碁聖戦本戦1回戦 | Kobayashi Satoru | Ida Atsushi | W+R | 2018-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AU1i9sCTC6sRW33SmWhtww%3D%3D) | 
-| 第67期王座戦予選 | Ida Atsushi | Nakane Naoyuki | B+R | 2018-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uZXHwSIUO3oxpqEiDKWtNQ%3D%3D) | 
-| 第44期名人戦最終予選 | Fujii Shuya | Ida Atsushi | B+0.5 | 2018-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BES8oeUe5IyXdrK87n7%2FwA%3D%3D) | 
-| 第45期天元戦予選 | Ida Atsushi | Ito Kenryo | B+7.5 | 2018-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SH%2FZ9DLIPGBRDu88ZqLW0g%3D%3D) | 
-| 第57期十段戦2回戦 | Ida Atsushi | Shida Tatsuya | B+3.5 | 2018-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xGZKMLuUSvYavkMybuwiLQ%3D%3D) | 
-| 第43期棋聖戦Cリーグ | Ida Atsushi | Terayama Rei | W+R | 2018-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eJTPDpClf%2FEWl8UuLmxHmQ%3D%3D) | 
-| 第44期碁聖戦予選 | Nakano Hironari | Ida Atsushi | W+7.5 | 2018-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y0SZJ0HIEVa2B%2BU5wESZKg%3D%3D) | 
-| 第44期名人戦最終予選 | Ida Atsushi | Kato Atsushi | B+1.5 | 2018-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4D4UUSJDiKNvAb7hLz92%2Fg%3D%3D) | 
-| 第43期棋聖戦Cリーグ | Ida Atsushi | Sada Atsushi | B+R | 2018-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X98Y60qhjSF0UPv%2F0xkHwg%3D%3D) | 
-| 第44期碁聖戦予選 | Ida Atsushi | Iwamaru Taira | B+R | 2018-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QPiVvV9eKokcIJjvYi35mw%3D%3D) | 
-| 第44期名人戦予選 | Hikosaka Naoto | Ida Atsushi | W+R | 2018-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lv4XIpI0UdE4vwOi3PS%2BXA%3D%3D) | 
-| 阪急納涼囲碁まつり納涼トーナメント第1局 | Seto Taiki | Ida Atsushi | B+3.5 | 2018-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=58Z%2F981RPHMtbb6KvO%2BMsg%3D%3D) | 
-| 第57期十段戦最終予選決勝 | Ida Atsushi | Rin Kanketsu | B+0.5 | 2018-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NXaOQrdwksRg3Wlm5oErdA%3D%3D) | 
-| 第74期本因坊戦最終予選 | Ida Atsushi | O Rissei | W+1.5 | 2018-08-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cdlVAngxQA%2B4kLYm7cZU5Q%3D%3D) | 
-| 第43期棋聖戦Cリーグ | Mutsuura Yuta | Ida Atsushi | W+R | 2018-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E4VPjKC583eVIxeHStEJog%3D%3D) | 
-| 第44期名人戦予選 | Kuwamoto Shinpei | Ida Atsushi | W+R | 2018-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oA7RGWOwdP2W%2BfQDFer7gg%3D%3D) | 
-| 第74期本因坊戦最終予選 | Ida Atsushi | Muramatsu Hiroki | B+R | 2018-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B20KVC7zgluybeFDQC4eXA%3D%3D) | 
-| 第25期阿含・桐山杯全日本早碁オープン戦1回戦 | Ida Atsushi | Ichiriki Ryo | W+R | 2018-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y03HLoZTHRguUZezic48oQ%3D%3D) | 
-| 2018年中国囲碁乙級リーグ | Liu Xing | Ida Atsushi | B+R | 2018-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ew2VvRvsrXQkJpJeNn1TMQ%3D%3D) | 
-| 2018年中国囲碁乙級リーグ | Mao Ruilong | Ida Atsushi | W+R | 2018-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FGIf379ZDLRsYZxW6rfVlA%3D%3D) | 
-| 2018年中国囲碁乙級リーグ | Niu Yutian | Ida Atsushi | W+R | 2018-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vrf58O3icnb%2BYFiqwuIT7w%3D%3D) | 
-| 第23回LG杯朝鮮日報棋王戦1回戦 | Yang Dingxin | Ida Atsushi | B+T | 2018-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QvFTLgYjpMFpEesZj8PFxg%3D%3D) | 
-| 第43期棋聖戦Cリーグ | Adachi Toshimasa | Ida Atsushi | B+3.5 | 2018-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wR60SSPNnBfNzazPiLK%2Fyw%3D%3D) | 
-| 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Ida Atsushi | Onishi Ryuhei | B+R | 2018-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=an784UMBsolsh7OWpFe9CA%3D%3D) | 
-| 第43期棋聖戦Cリーグ | Suzuki Shinji | Ida Atsushi | W+R | 2018-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FuhVlDzzI%2BzsgH2uGbd5Bg%3D%3D) | 
-| 第73期本因坊戦残留プレーオフ | Ida Atsushi | Yu Zhengqi | W+1.5 | 2018-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yFphEIphW6YgS9H9nLF7Vw%3D%3D) | 
-| 第73期本因坊戦残留プレーオフ | Ida Atsushi | Shibano Toramaru | W+4.5 | 2018-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ONK%2Fbm1hP6L0oGz8W4%2BAJQ%3D%3D) | 
-| 第73期本因坊戦リーグ最終節  | Ida Atsushi | Shibano Toramaru | W+R | 2018-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FSIT%2FEW1X8KgmLl75H4Kig%3D%3D) | 
-| 第9回おかげ杯囲碁トーナメント戦予選 | Takahashi Masumi | Ida Atsushi | W+R | 2018-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Da%2B%2FGCWsSul5ORFa7fbI%2BA%3D%3D) | 
-| 第9回おかげ杯囲碁トーナメント戦予選決勝 | Tsuruta Kazushi | Ida Atsushi | B+1.5 | 2018-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=frRYNyGaNxQaEjpY5mHgQg%3D%3D) | 
-| 第5回グランドチャンピオン戦2回戦 | Ida Atsushi | Motoki Katsuya | W+T | 2018-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E1E%2BZY6hAkqjY5EKRCPVGA%3D%3D) | 
-| 第43期碁聖戦本戦3回戦 | Motoki Katsuya | Ida Atsushi | B+R | 2018-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J2Rz6RiHmgnARQNG%2FlrV0A%3D%3D) | 
-| 第5回グランドチャンピオン戦1回戦 | Ida Atsushi | Lee Ishu | B+R | 2018-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z7%2BpL9Fk3tP5U8A7CHRaIg%3D%3D) | 
-| 第66期王座戦最終予選 | Lee Ishu | Ida Atsushi | B+1.5 | 2018-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qCC8qRdiAJAIQOTbc4otIA%3D%3D) | 
-| 第44期天元戦1回戦 | Uchida Shuhei | Ida Atsushi | B+9.5 | 2018-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t7eJqHl0%2Bbz3jGF2B3XXtw%3D%3D) | 
-| 第43期碁聖戦本戦2回戦 | Ichiriki Ryo | Ida Atsushi | W+R | 2018-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ayYwxoz9jRkZvSwNEONMNw%3D%3D) | 
-| 第56期十段戦3回戦 | Ida Atsushi | Ichiriki Ryo | W+R | 2017-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5CHb%2BDLS1eypzFjjYJw58g%3D%3D) | 
-| 第43期碁聖戦本戦1回戦 | Ida Atsushi | Ko Iso | B+R | 2017-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=icHXZ%2BEZmsEh1meShvILnQ%3D%3D) | 
-| 第44期天元戦予選 | Nakano Hironari | Ida Atsushi | W+R | 2017-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pw3v4VgbuIBR5JTf%2BprTPw%3D%3D) | 
-| 第58期王冠戦挑戦手合一番勝負 | Mutsuura Yuta | Ida Atsushi | W+R | 2017-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=an6Hbe9wtvWEDeC%2Bc%2Bs7GA%3D%3D) | 
-| 第56期十段戦2回戦 | Imamura Toshiya | Ida Atsushi | W+R | 2017-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QSdxAU1md1wzBQ9f%2FECJWQ%3D%3D) | 
-| 第43期碁聖戦予選 | Nakamura Shinya | Ida Atsushi | W+8.5 | 2017-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fAY8RdKxAFbD7RiNly%2B%2BDA%3D%3D) | 
-| 第44期天元戦予選A | Ida Atsushi | Tsuruta Kazushi | B+3.5 | 2017-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FS2WZHM%2BbadrIoD0BQ1x%2Bw%3D%3D) | 
-| 43期碁聖戦予選 | Kato Yuuki | Ida Atsushi | W+3.5 | 2017-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uRXKA0S0Y2KxBD1SLNzhqQ%3D%3D) | 
-| 第43期名人戦　最終予選1回戦 | Yuki Satoshi | Ida Atsushi | B+R | 2017-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z%2FsxBEAYy91Cd88Pz1Rf%2BA%3D%3D) | 
-| 56期十段戦予選決勝 | Cho Sonjin | Ida Atsushi | W+R | 2017-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eRVI%2FaybV5YakPS6gtJ0MQ%3D%3D) | 
-| 第43期名人戦　予選A決勝 | Ida Atsushi | Hane Yasumasa | B+R | 2017-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WyyOf1IrAz%2B50CVE2AqNJg%3D%3D) | 
-| 第42期棋聖戦　Bリーグ1組7回戦 | Ida Atsushi | Ko Iso | W+0.5 | 2017-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yILzIPxp5aalbkHU0TITDg%3D%3D) | 
-| 第43期名人戦　予選A | Goto Shungo | Ida Atsushi | W+R | 2017-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TlQX0W%2FxGK85A7xtjBvIkQ%3D%3D) | 
-| 第42期棋聖戦　Bリーグ1組6回戦 | Ida Atsushi | Awaji Shuzo | B+R | 2017-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5fu4uHeowPCN43L%2FrgdHzg%3D%3D) | 
-| ナショナルチーム強化対局 | Ida Atsushi | DeepZenGo | W+1.5 | 2017-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kf7rQ90Vxm9tP5gtucqB3A%3D%3D) | 
-| 第73期本因坊戦　最終予選準決勝 | Yao Zhiteng | Ida Atsushi | W+R | 2017-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZosYqhY3rhEN3JoRO7XNhA%3D%3D) | 
-| ナショナルチーム強化対局 | Ida Atsushi | DeepZenGo | B+R | 2017-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bTWf9OiPahU6u9aO7DE2Qg%3D%3D) | 
-| 第65期王座戦2回戦 | Nakano Hironari | Ida Atsushi | B+1.5 | 2017-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rckENWhvtIz9W31%2FEIfvGg%3D%3D) | 
-| 第42期棋聖戦　Bリーグ1組5回戦 | Ida Atsushi | Imamura Yoshiaki | B+R | 2017-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WpsisGY6Jl3w4e3tlE26uw%3D%3D) | 
-| ナショナルチーム強化対局 | DeepZenGo | Ida Atsushi | W+T | 2017-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3OOdedHAzfl4rT%2FWbFQ25w%3D%3D) | 
-| 第73期本因坊戦　最終予選1回戦 | Nakamura Shinya | Ida Atsushi | W+2.5 | 2017-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I3zhBVJFhLZ8Tuhv2u6M9w%3D%3D) | 
-| 2017年中国囲碁乙級リーグ | missing | Ida Atsushi | W+R | 2017-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8llwTVFJzMVS2gkR1wLJYw%3D%3D) | 
-| 2017年中国囲碁乙級リーグ | missing | Ida Atsushi | B+R | 2017-06-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HKcskGp%2BGSf2%2F8nHLrYcZw%3D%3D) | 
-| 2017年中国囲碁乙級リーグ | Ida Atsushi | missing | W+R | 2017-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j2XMQ4bii06HU1hSqGct5g%3D%3D) | 
-| 第22期LG杯朝鮮日報棋王戦16強戦 | Ida Atsushi | Shin Jinseo | W+R | 2017-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=okDQcNJ4fV9BsM5I3feRUg%3D%3D) | 
-| 第22期LG杯朝鮮日報棋王戦32強戦 | Ida Atsushi | Choi Jeong | B+R | 2017-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RfqBcPYrFnfNTiZaah1rig%3D%3D) | 
-| 第42期棋聖戦　Bリーグ1組4回戦 | Ida Atsushi | Shida Tatsuya | W+R | 2017-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0e8ZmoTegeyS2VRhMeTzAw%3D%3D) | 
-| 第65期王座戦　本戦1回戦第2局 | O Rissei | Ida Atsushi | W+0.5 | 2017-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0r9pejXC5%2FyY7wksuUb%2BmA%3D%3D) | 
-| 第42期棋聖戦　Bリーグ1組3回戦 | Akiyama Jiro | Ida Atsushi | B+R | 2017-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HeG98NG8FKkizqybqnD%2B5w%3D%3D) | 
-| 第42期棋聖戦　Bリーグ2回戦 | Yamada Kimio | Ida Atsushi | W+2.5 | 2017-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SxUSxEqABKeHk8EVW%2FH60g%3D%3D) | 
-| 第73期本因坊戦　予選A決勝 | Ida Atsushi | Kitano Ryo | B+R | 2017-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r73pkxmVoZRJXgSLznf8dg%3D%3D) | 
-| 第42期棋聖戦　Bリーグ1組1回戦 | Shibano Toramaru | Ida Atsushi | B+R | 2017-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zktdV0TCM4OCdHvai5bLSA%3D%3D) | 
-| 第8回おかげ杯囲碁トーナメント戦予選 | Ida Atsushi | Onishi Ryuhei | W+R | 2017-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CkzNUe%2F4j2nbk4%2Fce2DxaA%3D%3D) | 
-| 第4回グランドチャンピオン戦　1回戦 | Yuki Satoshi | Ida Atsushi | B+R | 2017-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=slMT7sGbmNp8NlVBX613Qw%3D%3D) | 
-| 第73期本因坊戦　予選A | Iwamaru Taira | Ida Atsushi | W+R | 2017-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oNBgimKu00Xy4dR9YoXuuw%3D%3D) | 
-| 日本国家隊冬季合宿訓練戦 | Iyama Yuta | Ida Atsushi | B+1.5 | 2016-12-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Smb5zeuI9m9pHNlH5wnReg%3D%3D) | 
-| 第64回ＮＨＫ杯テレビ囲碁トーナメント3回戦第3局 | Ida Atsushi | Motoki Katsuya | B+R | 2016-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MuwociTpawQPFu9FS4XaXg%3D%3D) | 
-| 第43期天元戦　本戦1回戦第4局 | Ida Atsushi | Hsu Chiayuan | W+R | 2016-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MbCAmnFN4k62WBELmMU%2BIw%3D%3D) | 
-| 第57期王冠戦　挑戦手合一番勝負 | Ida Atsushi | Hane Naoki | B+R | 2016-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gPp4Z6736FM3h1vbucIIqg%3D%3D) | 
-| 第64回NHK杯テレビ囲碁トーナメント戦2回戦第15局 | Ida Atsushi | Ha Youngil | B+5.5 | 2016-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mQ83eexm2bKoA%2FjtCH6gyQ%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦3回戦 | Ke Jie | Ida Atsushi | B+R | 2016-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c4%2F3STTIa%2FiPzaaKISYLvA%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦2回戦 | Ida Atsushi | Chen Xian | B+R | 2016-11-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y7G%2Fn9m%2FVoz7p%2BtFO3NGXA%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦1回戦 | Ida Atsushi | Wu Guangya | B+1.5 | 2016-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ITb721GdCJtHW2MvbcaewA%3D%3D) | 
-| 第55期十段戦　本戦2回戦 | Hane Naoki | Ida Atsushi | B+R | 2016-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rWY8vfGqt2NFNrr6XlQ7lA%3D%3D) | 
-| 第3回おかげ杯国際精鋭囲碁対抗戦第3戦 | Lee Donghoon | Ida Atsushi | B+R | 2016-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VZTZKASBhv%2FbT1uMe0op1w%3D%3D) | 
-| 第3回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Ida Atsushi | Lin Junyan | W+R | 2016-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k6R3g9NAVJfz2VwC6rZ4mg%3D%3D) | 
-| 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Xiao Zhenghao | Ida Atsushi | W+R | 2016-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iSRmWbsM75SafOey0x6xEQ%3D%3D) | 
-| 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Ida Atsushi | Huang Yunsong | B+2.5 | 2016-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XDJWr0HRr747QTOky6%2FP4w%3D%3D) | 
-| 第42期名人戦最終予選 | Sakai Hideyuki | Ida Atsushi | B+R | 2016-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9o7o%2BusOepASQlQCzdNKUw%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Huang Yunsong | Ida Atsushi | B+R | 2016-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GOUdjPVSkEj5hoRx3stbHg%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Wang Yuanjun | Ida Atsushi | W+R | 2016-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TQAdvCNIujj8g91nujQmbw%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Ida Atsushi | An Sungjoon | W+R | 2016-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6x1dOukNfivmVb%2BI34hE8w%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦H3 | Ida Atsushi | Tang Weixing | W+R | 2016-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y0L3a8zlkQIJxEh7fHOJkA%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦H2 | Kang Seungmin | Ida Atsushi | B+13.5 | 2016-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P8Fdg0uVCgeIjeQjMlHj5Q%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦H1 | Lu Jia | Ida Atsushi | W+R | 2016-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FU1de%2BaLDNYbZbjdIru3Lg%3D%3D) | 
-| 第41期棋聖戦　Bリーグ7回戦 | Ida Atsushi | Tsuruyama Atsushi | B+R | 2016-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2705O7LuKHHQYXct1HbBRA%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Kim Sujun | Ida Atsushi | B+R | 2016-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DCYWrxbY5phpI%2FGHbnVVXA%3D%3D) | 
-| 第23期阿含・桐山杯全日本早碁オープン戦1回戦 | Ichiriki Ryo | Ida Atsushi | B+R | 2016-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YAGW1o4ERohT4o9ex0jgZg%3D%3D) | 
-| 第21回三星火災杯統合予選決勝 | Ida Atsushi | Song Jihoon | B+R | 2016-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5osUOD7zEGzachoErSepzQ%3D%3D) | 
-| 第21回三星火災杯統合予選準決勝 | Ida Atsushi | missing | B+0.5 | 2016-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3BsoDH1OLHUwXLkVQkjffQ%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Cho Chikun | Ida Atsushi | B+R | 2016-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SFHbDOFoCLrszyYwpLJG4Q%3D%3D) | 
-| 第72期本因坊戦予選 | Ko Iso | Ida Atsushi | B+R | 2016-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cabuTis%2Beh5dFgT0R1NGGw%3D%3D) | 
-| 2016年中国囲碁丙級リーグ | Ida Atsushi | Ding Lie | B+R | 2016-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ep7LZO0ngHMrNV3qeUTn6w%3D%3D) | 
-| 第41期棋聖戦Bリーグ | O Rissei | Ida Atsushi | W+R | 2016-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=689zXruMmkLY%2F%2BK9FiSAqA%3D%3D) | 
-| 第41期棋聖戦Bリーグ | O Meien | Ida Atsushi | W+1.5 | 2016-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e1nZp6tK4Rr0hzMZOs8BYw%3D%3D) | 
-| 第54期十段戦挑戦手合五番勝負第4局 | Iyama Yuta | Ida Atsushi | B+R | 2016-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7b2A2RVg27PopCs8iaf4aA%3D%3D) | 
-| 第54期十段戦挑戦手合五番勝負第3局 | Ida Atsushi | Iyama Yuta | B+R | 2016-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NgYo3D70SMBd5yq6eUXYMw%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Ida Atsushi | Hsu Chiayuan | W+R | 2016-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G9FSpmJj4T69mlitOywQ5w%3D%3D) | 
-| 第71期本因坊戦リーグ | Ida Atsushi | Cho U | W+R | 2016-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3RZ4dag6gYAHCaRuDgaedg%3D%3D) | 
-| 第54期十段戦挑戦手合五番勝負第2局 | Iyama Yuta | Ida Atsushi | B+R | 2016-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CRe1RNjzNpo4tg4A4kphgA%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Ida Atsushi | Mizokami Tomochika | B+2.5 | 2016-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KMlavgO2HEwnsy7PicslXQ%3D%3D) | 
-| 第54期十段戦挑戦手合五番勝負第1局 | Ida Atsushi | Iyama Yuta | W+R | 2016-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S1knz0WFkDi3isGziVB%2FDw%3D%3D) | 
-| 第71期本因坊戦リーグ | Yamashita Keigo | Ida Atsushi | B+3.5 | 2016-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rscglNbZ98Lm5itqDLji2Q%3D%3D) | 
-| 第7回おかげ杯囲碁トーナメント戦予選 | Ida Atsushi | Tanaka Nobuyuki | B+R | 2016-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=deRbulvh6u47f9QdcCRTQw%3D%3D) | 
-| 2016四都市新鋭対抗戦第3戦 | Li Qincheng | Ida Atsushi | B+R | 2016-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jeYroP%2FjymMxukX2NJe24w%3D%3D) | 
-| 2016四都市新鋭対抗戦第2戦 | Wang Yuanjun | Ida Atsushi | B+R | 2016-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=THCMgCDRvuW1CW5xzoyk1A%3D%3D) | 
-| 2016四都市新鋭対抗戦第1戦 | Ida Atsushi | Shin Jinseo | W+R | 2016-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IbjnQNxratRwvwAudQNBWA%3D%3D) | 
-| 第7回おかげ杯囲碁トーナメント戦予選 | Ida Atsushi | Obuchi Kotaro | B+R | 2016-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r69eS4wuTD75DwbTWv85aA%3D%3D) | 
-| 第71期本因坊戦リーグ | Motoki Katsuya | Ida Atsushi | B+R | 2016-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MYzLr8Nxih0qz8RAVe9hOA%3D%3D) | 
-| 2016年日台精鋭交流戦第6戦 | Yang Bowei | Ida Atsushi | B+R | 2016-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BPbbOFl7JNV%2FFaNvr%2Bm5Pg%3D%3D) | 
-| 2016年日台精鋭交流戦第5戦 | Ida Atsushi | Chen Qirui | B+R | 2016-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4%2Bu57tX6oEBiFfj%2BngEVjA%3D%3D) | 
-| 2016年日台精鋭交流戦第4戦 | Xiao Zhenghao | Ida Atsushi | B+R | 2016-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5HPEaey1qler0c68bWtzHg%3D%3D) | 
-| 2016年日台精鋭交流戦第3戦 | Lin Shuyang | Ida Atsushi | W+R | 2016-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mUuI4YjKQsnllNff9eg63A%3D%3D) | 
-| 2016年日台精鋭交流戦第2戦 | Ida Atsushi | Wang Yuanjun | B+R | 2016-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4Bjc5qX4ac5i4kpoeTjZwA%3D%3D) | 
-| 2016年日台精鋭交流戦第1戦 | Lin Junyan | Ida Atsushi | W+R | 2016-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vfeHf%2FtVvHelA36YjI9VKA%3D%3D) | 
-| 第71期本因坊戦リーグ | Kono Rin | Ida Atsushi | B+R | 2016-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XmZknN8w9IBhMRu6sydC2A%3D%3D) | 
-| 第41期碁聖戦本戦1回戦 | Ida Atsushi | Shida Tatsuya | W+R | 2015-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LZ0Pdlj7hoEWXPA0dRHUng%3D%3D) | 
-| 第71期本因坊戦リーグ | Yu Zhengqi | Ida Atsushi | B+0.5 | 2015-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2BqTJEnKY8qSuycJQPepww%3D%3D) | 
-| 第42期天元戦予選 | Nakano Hironari | Ida Atsushi | B+3.5 | 2015-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8ZKIYDBQYKzXdm3UBCId%2Bw%3D%3D) | 
-| 第17回農心辛ラーメン杯世界囲碁最強戦第6戦 | Ida Atsushi | Choi Cheolhan | W+R | 2015-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FHEBVSktUPzExZwf5wM%2FQg%3D%3D) | 
-| 第57期王冠戦予選 | Yamamori Tadanao | Ida Atsushi | W+R | 2015-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=29tdfgAOO4pJf06IsfnxjA%3D%3D) | 
-| 第71期本因坊戦リーグ | Ida Atsushi | Takao Shinji | W+R | 2015-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lTITSppjeb4k06rGIgnJMw%3D%3D) | 
-| 第42期天元戦予選 | Ida Atsushi | Yanagisawa Satoshi | B+3.5 | 2015-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rMuV1wb%2BmZksKBDdrpX%2BoQ%3D%3D) | 
-| 第41期名人戦予選 | Ida Atsushi | Hane Naoki | W+R | 2015-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hdZ65qVLx9xe0%2FY0sHozag%3D%3D) | 
-| 第71期本因坊戦リーグ | Ida Atsushi | Ichiriki Ryo | B+R | 2015-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PToIRHuG4smBBRryhHqi%2Bg%3D%3D) | 
-| 第41期名人戦予選 | Ida Atsushi | Shibano Toramaru | B+2.5 | 2015-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pb8EFOCV5RI2lrz6uFp4DQ%3D%3D) | 
-| 第41期名人戦予選 | Ichiriki Ryo | Ida Atsushi | W+R | 2015-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yBzHoCqIJ%2FUmJ%2FKYbyH1mQ%3D%3D) | 
-| 第2回おかげ杯国際精鋭囲碁対抗戦決勝 | Yun Junsang | Ida Atsushi | B+R | 2015-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gvzwUjMVVPEqwqjw19Tdlw%3D%3D) | 
-| 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Ida Atsushi | Xiao Zhenghao | B+2.5 | 2015-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0sCxuNQdLlm8Hv%2BmPRaCFw%3D%3D) | 
-| 第2回おかげ杯国際精鋭囲碁対抗戦第2戦 | Ida Atsushi | Yang Dingxin | B+R | 2015-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V70sv%2BFYcV%2FCvPXkgHjClQ%3D%3D) | 
-| 第2回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yun Junsang | Ida Atsushi | W+R | 2015-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oTOEqtqn8iyIGS9g2Sky3g%3D%3D) | 
-| 第40期棋聖戦Cリーグ | Ida Atsushi | Aragaki Shun | B+R | 2015-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BQzyUh7Lf1O0Mkc3V6eAhA%3D%3D) | 
-| 第64期王座戦予選 | Araki Issei | Ida Atsushi | B+R | 2015-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XT0%2BxBXqc%2BfvzLzkDj7sFw%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦E3 | Ida Atsushi | Zhang Tao | W+R | 2015-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tXV4NY9FAJE1m61MUn8VnA%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦E2 | Ida Atsushi | Choi Jeong | B+R | 2015-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hZwReAqM9G5grUh4MDWwJw%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦E1 | Lee Sedol | Ida Atsushi | B+R | 2015-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VEYYyS27reUaHt5VykHtlA%3D%3D) | 
-| 第42期天元戦予選 | Kori Toshio | Ida Atsushi | W+R | 2015-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JiDZ9PYP1Jmp%2Blu%2BQgA4SQ%3D%3D) | 
-| 第27回テレビアジア選手権1回戦 | Ida Atsushi | Lee Donghoon | W+R | 2015-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LmpwQnQPY8CqO0pyu6a9bQ%3D%3D) | 
-| 第41期名人戦予選 | Goto Shungo | Ida Atsushi | W+0.5 | 2015-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=opzpkigZpz15K89LKft4eQ%3D%3D) | 
-| 第40期棋聖戦Cリーグ | Ida Atsushi | Fujii Shuya | B+R | 2015-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PQK73LgAKV2b4cKgiN1Azw%3D%3D) | 
-| 第40期棋聖戦Cリーグ | Yu Zhengqi | Ida Atsushi | B+R | 2015-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3hZF1aelLMT9Q5EhIYvFzA%3D%3D) | 
-| 第2回夢百合杯世界オープン戦1回戦 | Wu Guangya | Ida Atsushi | B+R | 2015-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GQJSL2lhrB6mD2XzURk7Ow%3D%3D) | 
-| 第41期名人戦予選 | Ida Atsushi | Matsuoka Hideki | B+R | 2015-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mX9G%2FpyM7PF9hExV0AYBtQ%3D%3D) | 
-| 第40期棋聖戦Cリーグ | Nakano Hironari | Ida Atsushi | W+R | 2015-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j%2BfLZmqgS9VXnUs2e9DYbg%3D%3D) | 
-| 第41期名人戦予選 | Ida Atsushi | Nakamura Shinya | B+1.5 | 2015-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GMx20CEfpu90qSd2VJ0Y%2BQ%3D%3D) | 
-| 第40期棋聖戦Cリーグ | Kono Takashi | Ida Atsushi | W+1.5 | 2015-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CfIh5DMWesYrqigY5QTOTQ%3D%3D) | 
-| 第40期棋聖戦予選 | missing | Ida Atsushi | W+R | 2015-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lJJSXuxN0%2FC%2FF1lXJbt1VQ%3D%3D) | 
-| 第53期十段戦挑戦手合五番勝負第5局 | Ida Atsushi | Takao Shinji | B+R | 2015-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B91rgDG3L8UmY4VwPe7IAA%3D%3D) | 
-| 第53期十段戦挑戦手合五番勝負第4局 | Takao Shinji | Ida Atsushi | B+R | 2015-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qiWDcXFybhuTdS8WYsKibQ%3D%3D) | 
-| 第53期十段戦挑戦手合五番勝負第3局 | Ida Atsushi | Takao Shinji | B+2.5 | 2015-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0pAo4FW8tO%2By7eSTaCAVuA%3D%3D) | 
-| 第70期本因坊戦リーグ | Ida Atsushi | Yu Zhengqi | W+R | 2015-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9RWGqab2zQkAJpLqW7OjdQ%3D%3D) | 
-| 第53期十段戦挑戦手合五番勝負第2局 | Takao Shinji | Ida Atsushi | W+R | 2015-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tOMMZHpLpztGAv6r6UKcOw%3D%3D) | 
-| 第40期碁聖戦本戦2回戦 | Ida Atsushi | Mitani Tetsuya | W+R | 2015-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uzBGtvq6Ls3mPnB%2BccIuww%3D%3D) | 
-| 第53期十段戦挑戦手合五番勝負第1局 | Ida Atsushi | Takao Shinji | W+R | 2015-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xT8ZGkuUt4cPp0oRJFakcQ%3D%3D) | 
-| 第70期本因坊戦リーグ | Takao Shinji | Ida Atsushi | B+R | 2015-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T36sk7NA2DNcBpJ3lkSeCQ%3D%3D) | 
-| 第70期本因坊戦リーグ | Ida Atsushi | Kono Rin | W+R | 2015-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=efprSvF6GYBQI8eQsVpakQ%3D%3D) | 
-| 第63期王座戦予選 | Ida Atsushi | Hane Naoki | W+R | 2015-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=szt24ikYnWTlQMXXKAYWMQ%3D%3D) | 
-| 第6回おかげ杯囲碁トーナメント戦予選 | Ida Atsushi | Ohashi Naruya | B+R | 2015-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DuTZI5jbg8iU2McThOS9bQ%3D%3D) | 
-| 第53期十段戦挑戦者決定戦 | Ida Atsushi | Kobayashi Satoru | B+R | 2015-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rTkwvd6zm1ymlq%2Fy7sqy8A%3D%3D) | 
-| 第40期碁聖戦本戦1回戦 | Ida Atsushi | Honda Kunihisa | B+1.5 | 2015-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=308P7XEUAeTjwW%2FSU3Ur%2BA%3D%3D) | 
-| 第53期十段戦準決勝 | Ida Atsushi | Shida Tatsuya | B+R | 2015-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1KNhOU%2B8vgyr1hQt9lWL%2BA%3D%3D) | 
-| 第70期本因坊戦リーグ | Ryu Shikun | Ida Atsushi | W+R | 2015-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L67%2B%2BRhG0GiJeNG%2BJlz0LA%3D%3D) | 
-| 第53期十段戦3回戦 | Yuki Satoshi | Ida Atsushi | W+R | 2014-12-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jmlNZTFprI6wULY2MvCUzg%3D%3D) | 
-| 第70期本因坊戦リーグ | Ida Atsushi | Yamashita Keigo | B+1.5 | 2014-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T%2BgFpmhMdJ%2FbA%2FwAS2FPRg%3D%3D) | 
-| 第53期十段戦2回戦 | So Yokoku | Ida Atsushi | W+0.5 | 2014-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W226wQwPrXu%2FvJuP94lZnQ%3D%3D) | 
-| 第70期本因坊戦リーグ | Ida Atsushi | Mimura Tomoyasu | B+R | 2014-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l%2FqqM1nJWL4sVYxTvD9ZyA%3D%3D) | 
-| 第16回農心辛ラーメン杯世界囲碁最強戦第4戦 | Kang Dongyun | Ida Atsushi | B+R | 2014-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oJ%2Fhizhie2mKYL%2BRJeJRag%3D%3D) | 
-| 第70期本因坊戦リーグ | Cho U | Ida Atsushi | W+3.5 | 2014-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Va2KwtUcFaVfeIhLDZELoQ%3D%3D) | 
-| 第53期十段戦予選 | Ida Atsushi | Kiyonari Tetsuya | B+R | 2014-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JFlp2%2FVkNaqvCJRngVGd6g%3D%3D) | 
-| 2014年国際新鋭囲碁対抗戦第3戦 | Na Hyun | Ida Atsushi | B+R | 2014-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JBfpydOUJ2l3ZN2H00r0og%3D%3D) | 
-| 2014年国際新鋭囲碁対抗戦第2戦 | Ida Atsushi | Xiao Zhenghao | B+R | 2014-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2BycZNjQ2gqwA0FCjOsslA%3D%3D) | 
-| 2014年国際新鋭囲碁対抗戦第1戦 | Ida Atsushi | Ke Jie | W+R | 2014-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R0WmjoXjPy%2F8YNeey4HKkw%3D%3D) | 
-| 第21期阿含・桐山杯全日本早碁オープン戦2回戦 | Ida Atsushi | Iyama Yuta | W+R | 2014-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tT0XFlZ4QJ8ylKjUo7E3Lw%3D%3D) | 
-| 第21期阿含・桐山杯全日本早碁オープン戦1回戦 | Kataoka Satoshi | Ida Atsushi | W+R | 2014-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4gzE%2Bh%2FmxcAkfAvxoLCKYw%3D%3D) | 
-| 第69期本因坊戦挑戦手合七番勝負第5局 | Iyama Yuta | Ida Atsushi | B+R | 2014-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6ywr1CZ56uH8La1P6JkoQQ%3D%3D) | 
-| 第69期本因坊戦挑戦手合七番勝負第4局 | Ida Atsushi | Iyama Yuta | B+R | 2014-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L9QPFX%2F4rkqWhxqv9Y5mdQ%3D%3D) | 
-| 第19回LG杯朝鮮日報棋王戦1回戦 | Tuo Jiaxi | Ida Atsushi | B+R | 2014-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zfJQ9k8K6le16rZf6ZvbhA%3D%3D) | 
-| 第69期本因坊戦挑戦手合七番勝負第3局 | Iyama Yuta | Ida Atsushi | B+R | 2014-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ByiMA%2BIhImTA%2Bzj7qVhTxQ%3D%3D) | 
-| 第69期本因坊戦挑戦手合七番勝負第2局 | Ida Atsushi | Iyama Yuta | W+R | 2014-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aYNxiWPok9OQ51Crve1gCA%3D%3D) | 
-| 第21期阿含・桐山杯全日本早碁オープン戦予選 | Ichiriki Ryo | Ida Atsushi | W+R | 2014-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kAZeGOdKOWYWzBGiFT%2BzsA%3D%3D) | 
-| 第69期本因坊戦挑戦手合七番勝負第1局 | Iyama Yuta | Ida Atsushi | B+R | 2014-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S%2BJzvhIGv9ORaKbPwMlpug%3D%3D) | 
-| 第1回グロービス杯世界囲碁U-20グループリーグA | Ida Atsushi | Na Hyun | W+R | 2014-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D%2F2j7XkVpcGU3hLiTkVjJQ%3D%3D) | 
-| 第1回グロービス杯世界囲碁U-20グループリーグA | Ida Atsushi | Na Hyun | W+1.5 | 2014-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QBVSNADLuSmZxOSfXeuT7w%3D%3D) | 
-| 第1回グロービス杯世界囲碁U-20グループリーグA | Ida Atsushi | Tsuruta Kazushi | B+R | 2014-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JgdyC9eQj4xL%2F5GluKsjEA%3D%3D) | 
-| 第1回グロービス杯国内予選 | Ida Atsushi | Sada Atsushi | B+R | 2014-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BTw7Ub6ykXaQPspZE1QbiA%3D%3D) | 
-| 第1回グロービス杯国内予選 | Ida Atsushi | Kan Minu | B+R | 2014-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QrDk66xncroMmxyYEBZvsg%3D%3D) | 
-| 第69期本因坊戦挑戦者決定プレーオフ | Yamashita Keigo | Ida Atsushi | W+5.5 | 2014-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NUqtA0JBrcjOGt6tJ7fpHQ%3D%3D) | 
-| 第69期本因坊戦リーグ | Yamashita Keigo | Ida Atsushi | W+0.5 | 2014-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tEC6RwnenjgbgTuPcxvXOg%3D%3D) | 
-| 第69期本因坊戦リーグ | Ida Atsushi | Kono Rin | B+R | 2014-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fJGcQ4iGYogasLh3bWomJg%3D%3D) | 
-| 第69期本因坊戦リーグ | Sakai Hideyuki | Ida Atsushi | W+5.5 | 2014-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SVhvSK7F6YjLnHqpTMJyFw%3D%3D) | 
-| 第5回おかげ杯囲碁トーナメント戦予選 | Tajiri Yuto | Ida Atsushi | B+0.5 | 2014-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g7nWWvDQ2lKArpML1e%2FCXA%3D%3D) | 
-| 第5回おかげ杯囲碁トーナメント戦予選 | Ida Atsushi | Onishi Kenya | B+2.5 | 2014-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TF%2FploGQdOrmQupbVO77Tg%3D%3D) | 
-| 第39期碁聖戦本戦2回戦 | Cho Sonjin | Ida Atsushi | B+R | 2014-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=em1Eo0P3b976L%2BAK2brPhA%3D%3D) | 
-| 25周年記念囲碁千里杯1回戦 | Ida Atsushi | Tajiri Yuto | W+R | 2014-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=38eqOjOF6U20fG%2FeA2A2ag%3D%3D) | 
-| 第69期本因坊戦リーグ | Ida Atsushi | Takao Shinji | B+0.5 | 2014-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NV1afD1%2FAgtXaXUG224xzg%3D%3D) | 
-| 第69期本因坊戦リーグ | Ida Atsushi | Cho U | W+0.5 | 2013-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FccQrMdGRt0Mqnja33j2Cw%3D%3D) | 
-| 第40期天元戦予選 | Yamada Kimio | Ida Atsushi | B+R | 2013-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nmvoW7XSjcMN%2F1oN3%2BU9%2BA%3D%3D) | 
-| 第39期碁聖戦本戦1回戦 | Ida Atsushi | Ha Youngil | B+R | 2013-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1AO7KcHVxRhctFUzBr4CHA%3D%3D) | 
-| 第39期棋聖戦予選 | Ida Atsushi | Sakai Hideyuki | W+4.5 | 2013-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hSrQbYMIHhY5qm45hUOPzw%3D%3D) | 
-| 第8回広島アルミ杯・若鯉戦1回戦 | Ida Atsushi | Ichiriki Ryo | W+3.5 | 2013-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l0DXtYA3KGBJH7BObymVGQ%3D%3D) | 
-| 第69期本因坊戦リーグ | Yuki Satoshi | Ida Atsushi | W+R | 2013-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yW2VBtMHnOq%2BQM9jBbnBOQ%3D%3D) | 
-| 第39期碁聖戦予選 | Ida Atsushi | Yamada Kimio | B+R | 2013-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N5sd%2B5qH8M%2BzRaNqFPR50A%3D%3D) | 
-| 第69期本因坊戦リーグ | Ida Atsushi | Yu Zhengqi | B+2.5 | 2013-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nSoMxPc%2Bbr824xdMLxqIBw%3D%3D) | 
-| 第15回農心杯選抜戦 | Anzai Nobuaki | Ida Atsushi | B+R | 2013-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Fh28WXT3frR2wKSU5sM7w%3D%3D) | 
-| 第69期本因坊戦予選 | Ida Atsushi | Cho Sonjin | B+0.5 | 2013-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KXYEjnwMk63BgMCKIszLQg%3D%3D) | 
-| 第15回農心杯選抜戦 | Uchida Shuhei | Ida Atsushi | W+R | 2013-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KX5yrCs5YeRTUDGn%2FSa8GA%3D%3D) | 
-| 第15回農心杯選抜戦 | Ida Atsushi | Suzuki Shinji | B+4.5 | 2013-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q4h%2BRT%2B7uo5v62iZd0czLg%3D%3D) | 
-| 第69期本因坊戦予選 | Ida Atsushi | Mimura Tomoyasu | B+1.5 | 2013-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BpqRy4H3vYuuciE9aU7rZA%3D%3D) | 
-| 第18回三星火災杯統合予選2回戦 | Ida Atsushi | Shin Jinseo | W+R | 2013-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P%2FrLdRSegfn9uxcf8M2nMw%3D%3D) | 
-| 第69期本因坊戦予選 | Ida Atsushi | Ishida Yoshio | B+R | 2013-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YqtBlLFjB8AdjgBI2Sppyg%3D%3D) | 
-| 第52期十段戦予選 | Hikosaka Naoto | Ida Atsushi | W+0.5 | 2013-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C4w6Z4Fs%2FPQ2oKv0HQyMJQ%3D%3D) | 
-| 第38期新人王戦1回戦 | Ida Atsushi | Hatanaka Hoshinobu | W+R | 2013-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M%2BOgjha1GfFA8hok5xMI6w%3D%3D) | 
-| 第39期天元戦本戦1回戦 | Cho Sonjin | Ida Atsushi | B+R | 2013-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mvtx%2FewVmhyvQaces%2BQnvg%3D%3D) | 
-| 第38期碁聖戦本戦2回戦 | Ida Atsushi | Akiyama Jiro | W+R | 2013-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=itS%2BMoo9tN0JbQbHxgnYng%3D%3D) | 
-| 第39期天元戦予選 | Hikosaka Naoto | Ida Atsushi | W+3.5 | 2012-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Zs%2B653i%2FeGAweqS0tTToQ%3D%3D) | 
-| 第7回広島アルミ杯・若鯉戦2回戦 | Shida Tatsuya | Ida Atsushi | B+R | 2012-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=roXmPAwV5KXYffggX3yGDA%3D%3D) | 
-| 第38期碁聖戦予選 | Nakao Jungo | Ida Atsushi | W+0.5 | 2012-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KOQsq1YyJOqFNe22r8UHcA%3D%3D) | 
-| 第14回農心辛ラーメン杯世界囲碁最強戦第3戦 | Ida Atsushi | Tan Xiao | W+R | 2012-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z4RCvIbtvT6eugLE%2B9q6Og%3D%3D) | 
-| 2012ジャステック杯国際新鋭囲碁対抗戦第3戦 | Ida Atsushi | Xia Daming | W+2.5 | 2012-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bWnNRRnmKlhEaevUHJNO2A%3D%3D) | 
-| 2012ジャステック杯国際新鋭囲碁対抗戦第2戦 | Ida Atsushi | Na Hyun | W+R | 2012-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0KYrwfZ4njHEv6GbAqu5xQ%3D%3D) | 
-| 2012ジャステック杯国際新鋭囲碁対抗戦第1戦 | Ida Atsushi | missing | W+4.5 | 2012-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zPH4sgNoLHVL7%2B%2FW6cHcdQ%3D%3D) | 
-| 第19期阿含・桐山杯全日本早碁オープン戦2回戦 | Cho U | Ida Atsushi | B+7.5 | 2012-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KKVjh0MFX2Te7%2Fbrv6Lm%2FQ%3D%3D) | 
-| 第19期阿含・桐山杯全日本早碁オープン戦1回戦 | Ida Atsushi | Cho Chikun | B+1.5 | 2012-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DHBC3aA7S3bMuiINfwovPA%3D%3D) | 
-| 第19期阿含・桐山杯全日本早碁オープン戦予選 | Ryu Shikun | Ida Atsushi | W+6.5 | 2012-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DilF7Bk%2BmeX5BIb8r%2BO%2FJA%3D%3D) | 
-| 第37期新人王戦2回戦 | Hatanaka Hoshinobu | Ida Atsushi | B+R | 2012-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jnUEtQX49JLgX5jTDDInxg%3D%3D) | 
-| 第4回BCカード杯世界選手権2回戦 | Kong Jie | Ida Atsushi | B+R | 2012-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1vIEuUZTFfgmRDPfsnWu2w%3D%3D) | 
-| 第4回BCカード杯世界選手権1回戦 | Peng Quan | Ida Atsushi | W+3.5 | 2012-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pKxfPGSqQLacjLMy5arTUQ%3D%3D) | 
-| 第3回おかげ杯囲碁トーナメント戦予選 | Ida Atsushi | Kazama Jun | W+R | 2012-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1toUun4lbQwYDxdxV2gDjg%3D%3D) | 
-| 第3回おかげ杯囲碁トーナメント戦予選 | Ida Atsushi | Ito Masashi | B+R | 2012-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7ZupQooPQrxOUJl6hwlowA%3D%3D) | 
-| 第37期新人王戦1回戦 | Tamai Shin | Ida Atsushi | W+4.5 | 2012-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3rka8m1BIuQsnfbN%2FwvK2Q%3D%3D) | 
-| 第53期王冠戦予選 | Ida Atsushi | Ogata Masaki | B+0.5 | 2011-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H2hPJqbFXsMzXAX9x05FFA%3D%3D) | 
-| 第37期碁聖戦予選 | Hikosaka Naoto | Ida Atsushi | B+R | 2011-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0wNzs4uDPtpPbkPRMJKuJg%3D%3D) | 
-| 第4期幽玄杯精鋭リーグ戦 | O Meien | Ida Atsushi | W+1.5 | 2011-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vLDl84YN0zUOZuH065kgRg%3D%3D) | 
-| 第36期新人王戦1回戦 | Ida Atsushi | Takashima Takeshi | W+5.5 | 2011-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aoSMhydZI98xowQfZRlxFA%3D%3D) | 
-| 第4期幽玄杯精鋭リーグ戦 | Ida Atsushi | Ishida Atsushi | B+R | 2010-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YpW4awoFp9fxF7hRw3fvqQ%3D%3D) | 
-| 第4期幽玄杯精鋭リーグ戦 | Lee Ishu | Ida Atsushi | B+R | 2010-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JADA%2BsBckhZQmCQ7gQbhzA%3D%3D) | 
-| 第4期幽玄杯精鋭リーグ戦 | Takei Takashi | Ida Atsushi | W+R | 2010-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4IAlo42VTzSZifKLBFLmXw%3D%3D) | 
-| 第35期新人王戦予選 | Tamai Shin | Ida Atsushi | B+2.5 | 2009-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7%2FhAfpV5rEIhxQehsDRu6w%3D%3D) | 
-| 第35期新人王戦予選 | Ida Atsushi | Okuda Aya | B+R | 2009-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TCP7wYHQ1KHCCyjBolx6vA%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Ida Atsushi | Takagi Junpei | B+2.5 | 2009-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XEvmXCSzkzKrsz9KqtxXXw%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Ida Atsushi | Mizokami Tomochika | W+R | 2009-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1g0oGrYiiX%2BNWAPt9Crbzg%3D%3D) |
+| 2021-05-31 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kim Jiseok | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2021-05-20 | 第69期王座戦1回戦 | Ida Atsushi | Ohba Junya | Win | B+R | 6.5 | 
+| 2021-05-06 | 第46期碁聖戦挑戦者決定戦  | Iyama Yuta | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2021-04-15 | 第69期王座戦予選 | Ida Atsushi | O Rissei | Win | B+3.5 | 6.5 | 
+| 2021-03-22 | 第77期本因坊戦予選 | Ohashi Naruya | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2021-03-18 | 第69期王座戦予選 | Ida Atsushi | Yoda Norimoto | Win | B+R | 6.5 | 
+| 2021-01-28 | 第69期王座戦予選 | Ida Atsushi | Nakano Hironari | Win | B+R | 6.5 | 
+| 2021-01-07 | 第69期王座戦予選 | Ida Atsushi | Iwamaru Taira | Win | B+R | 6.5 | 
+| 2020-12-22 | 第11回おかげ杯囲碁トーナメント戦決勝  | Ichiriki Ryo | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2020-12-22 | 第11回おかげ杯囲碁トーナメント戦準決勝  | Ida Atsushi | Muramatsu Hiroki | Win | B+R | 6.5 | 
+| 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦2回戦 | Ueno Asami | Ida Atsushi | Win | W+R | 6.5 | 
+| 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦1回戦 | Ida Atsushi | Tsuneishi Takashi | Win | B+R | 6.5 | 
+| 2020-12-03 | 第59期十段戦2回戦 | Ida Atsushi | Yu Zhengqi | Lose | W+R | 6.5 | 
+| 2020-11-26 | 第61期王冠戦挑戦手合一番勝負 | Ida Atsushi | Otake Yu | Win | B+R | 6.5 | 
+| 2020-11-05 | 第46期碁聖戦予選 | Ida Atsushi | Shimojima Yohei | Win | B+R | 6.5 | 
+| 2020-10-01 | 第46期碁聖戦予選 | Ida Atsushi | Kikkawa Hajime | Win | B+R | 6.5 | 
+| 2020-09-10 | 第45期棋聖戦Cリーグ | Imamura Toshiya | Ida Atsushi | Win | W+5.5 | 6.5 | 
+| 2020-09-03 | 第59期十段戦予選 | Ida Atsushi | Rin Kanketsu | Win | B+R | 6.5 | 
+| 2020-08-31 | 第76期本因坊戦予選 | Tsuruyama Atsushi | Ida Atsushi | Lose | B+6.5 | 6.5 | 
+| 2020-08-27 | 第45期棋聖戦Cリーグ | Ida Atsushi | Nakano Yasuhiro | Win | B+R | 6.5 | 
+| 2020-08-17 | 第46期天元戦準決勝 | Ida Atsushi | Kono Rin | Lose | W+R | 6.5 | 
+| 2020-08-13 | 第76期本因坊戦予選 | Ida Atsushi |  | Win | B+R | 6.5 | 
+| 2020-07-30 | 第46期名人戦予選 | Ida Atsushi | Yanagisawa Satoshi | Lose | W+R | 6.5 | 
+| 2020-07-23 | 第45期棋聖戦Cリーグ | Ida Atsushi | Yuki Satoshi | Lose | W+R | 6.5 | 
+| 2020-07-20 | 第46期天元戦3回戦 | Ida Atsushi | Yu Zhengqi | Win | B+0.5 | 6.5 | 
+| 2020-07-16 | 第76期本因坊戦予選 | Ida Atsushi | Yamashita Keigo | Win | B+10.5 | 6.5 | 
+| 2020-06-25 | 第45期棋聖戦Cリーグ | Mimura Tomoyasu | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2020-04-17 | 日台交流戦第2戦 | Ida Atsushi | Jian Jingting | Lose | W+R | 6.5 | 
+| 2020-04-17 | 日台交流戦第1戦 | Chen Qirui | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2020-04-02 | 第68期王座戦予選 | Rin Kanketsu | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2020-03-26 | 第45期棋聖戦Cリーグ | Kobayashi Satoru | Ida Atsushi | Win | W+R | 6.5 | 
+| 2020-03-12 | 第46期天元戦2回戦 | Ida Atsushi | Adachi Toshimasa | Win | B+R | 6.5 | 
+| 2020-02-27 | 第76期本因坊戦予選 | Ida Atsushi | Kawada Kohei | Win | B+R | 6.5 | 
+| 2020-02-13 | 第68期王座戦予選 | Ida Atsushi | Kubo Katsuaki | Win | B+R | 6.5 | 
+| 2020-01-30 | 第76期本因坊戦予選 | Ida Atsushi | Muramatsu Hiroki | Win | B+R | 6.5 | 
+| 2020-01-09 | 第46期天元戦1回戦 | Kobayashi Koichi | Ida Atsushi | Win | W+5.5 | 6.5 | 
+| 2019-12-19 | 第68期王座戦予選 | Ogata Masaki | Ida Atsushi | Win | W+R | 6.5 | 
+| 2019-12-05 | 第68期王座戦予選 | Ida Atsushi | Ishii Kunio | Win | B+R | 6.5 | 
+| 2019-11-20 | 第60期王冠戦挑戦手合一番勝負 | Ogata Masaki | Ida Atsushi | Win | W+1.5 | 6.5 | 
+| 2019-11-07 | 第46期天元戦予選 | Ida Atsushi | Shida Tatsuya | Win | B+2.5 | 6.5 | 
+| 2019-10-17 | 第58期十段戦2回戦 | Fujita Akihiko | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2019-10-03 | 第44期棋聖戦Cリーグ | Hirose Yuichi | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2019-09-26 | 第46期天元戦予選 | Nakane Naoyuki | Ida Atsushi | Win | W+0.5 | 6.5 | 
+| 2019-09-12 | 第45期名人戦予選 | Ida Atsushi | Fujita Akihiko | Lose | W+5.5 | 6.5 | 
+| 2019-08-22 | 第75期本因坊戦予選 | Yokotsuka Riki | Ida Atsushi | Lose | B+3.5 | 6.5 | 
+| 2019-08-01 | 第44期棋聖戦Cリーグ | Tsuruta Kazushi | Ida Atsushi | Win | W+R | 6.5 | 
+| 2019-07-25 | 第58期十段戦予選 | Ida Atsushi | Hara Masakazu | Win | B+R | 6.5 | 
+| 2019-07-18 | 第44期棋聖戦Cリーグ | Ida Atsushi | Otake Yu | Lose | W+R | 6.5 | 
+| 2019-07-04 | 第75期本因坊戦予選 | Ida Atsushi | Otake Yu | Win | B+0.5 | 6.5 | 
+| 2019-06-13 | 第44期棋聖戦Cリーグ | Ida Atsushi | Muramatsu Hiroki | Win | B+R | 6.5 | 
+| 2019-05-30 | 第75期本因坊戦予選 | Ida Atsushi | Takao Shinji | Win | B+3.5 | 6.5 | 
+| 2019-05-23 | 第44期棋聖戦Cリーグ | Matsumoto Takehisa | Ida Atsushi | Win | W+1.5 | 6.5 | 
+| 2019-05-16 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦5回戦 | Ida Atsushi | Lin Lixiang | Win | B+R | 7.5 | 
+| 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦4回戦 | Ida Atsushi | Shin Jinseo | Lose | W+1¼ | 7.5 | 
+| 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦3回戦 | Ida Atsushi | Mi Yuting | Lose | W+R | 7.5 | 
+| 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦2回戦 | Ida Atsushi |  | Win | B+R | 7.5 | 
+| 2019-05-11 | ナショナルチーム研究会 | Ida Atsushi | Seki Kotaro | Win | B+1.5 | 6.5 | 
+| 2019-05-09 | 第75期本因坊戦予選 | Ida Atsushi | Nakamura Shinya | Win | B+R | 6.5 | 
+| 2019-05-02 | 第45期天元戦2回戦 | Ida Atsushi | Cho U | Lose | W+6.5 | 6.5 | 
+| 2019-04-18 | 第6回グランドチャンピオン戦3回戦 | Ida Atsushi | Ichiriki Ryo | Lose | W+R | 6.5 | 
+| 2019-04-18 | 第6回グランドチャンピオン戦2回戦 | Yamashita Keigo | Ida Atsushi | Win | W+R | 6.5 | 
+| 2019-03-21 | 第6回グランドチャンピオン戦1回戦 | Ida Atsushi | Yoda Norimoto | Win | B+R | 6.5 | 
+| 2019-02-28 | 第75期本因坊戦予選 | Ida Atsushi | Nakao Jungo | Win | B+9.5 | 6.5 | 
+| 2019-02-07 | 第45期天元戦1回戦 | Ida Atsushi | Ichiriki Ryo | Win | B+R | 6.5 | 
+| 2019-01-31 | 第44期碁聖戦本戦2回戦 | Iyama Yuta | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2018-12-27 | ナショナルチーム合宿対局 | Ida Atsushi | Hirose Yuichi | Lose | W+R | 6.5 | 
+| 2018-12-06 | 第67期王座戦予選 | Takei Takashi | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2018-11-29 | 第57期十段戦3回戦 | Ida Atsushi | Takao Shinji | Lose | W+R | 6.5 | 
+| 2018-11-25 | 第59期王冠戦挑戦手合一番勝負 | Nakano Hironari | Ida Atsushi | Win | W+2.5 | 6.5 | 
+| 2018-11-15 | 第45期天元戦予選 | Ida Atsushi | Otake Yu | Win | B+R | 6.5 | 
+| 2018-11-08 | 第44期碁聖戦本戦1回戦 | Kobayashi Satoru | Ida Atsushi | Win | W+R | 6.5 | 
+| 2018-10-25 | 第67期王座戦予選 | Ida Atsushi | Nakane Naoyuki | Win | B+R | 6.5 | 
+| 2018-10-11 | 第44期名人戦最終予選 | Fujii Shuya | Ida Atsushi | Lose | B+0.5 | 6.5 | 
+| 2018-10-04 | 第45期天元戦予選 | Ida Atsushi | Ito Kenryo | Win | B+7.5 | 6.5 | 
+| 2018-10-01 | 第57期十段戦2回戦 | Ida Atsushi | Shida Tatsuya | Win | B+3.5 | 6.5 | 
+| 2018-09-20 | 第43期棋聖戦Cリーグ | Ida Atsushi | Terayama Rei | Lose | W+R | 6.5 | 
+| 2018-09-13 | 第44期碁聖戦予選 | Nakano Hironari | Ida Atsushi | Win | W+7.5 | 6.5 | 
+| 2018-09-06 | 第44期名人戦最終予選 | Ida Atsushi | Kato Atsushi | Win | B+1.5 | 6.5 | 
+| 2018-08-30 | 第43期棋聖戦Cリーグ | Ida Atsushi | Sada Atsushi | Win | B+R | 6.5 | 
+| 2018-08-23 | 第44期碁聖戦予選 | Ida Atsushi | Iwamaru Taira | Win | B+R | 7.5 | 
+| 2018-08-16 | 第44期名人戦予選 | Hikosaka Naoto | Ida Atsushi | Win | W+R | 6.5 | 
+| 2018-08-14 | 阪急納涼囲碁まつり納涼トーナメント第1局 | Seto Taiki | Ida Atsushi | Lose | B+3.5 | 6.5 | 
+| 2018-08-09 | 第57期十段戦最終予選決勝 | Ida Atsushi | Rin Kanketsu | Win | B+0.5 | 6.5 | 
+| 2018-08-02 | 第74期本因坊戦最終予選 | Ida Atsushi | O Rissei | Lose | W+1.5 | 7.5 | 
+| 2018-07-26 | 第43期棋聖戦Cリーグ | Mutsuura Yuta | Ida Atsushi | Win | W+R | 6.5 | 
+| 2018-07-19 | 第44期名人戦予選 | Kuwamoto Shinpei | Ida Atsushi | Win | W+R | 6.5 | 
+| 2018-07-12 | 第74期本因坊戦最終予選 | Ida Atsushi | Muramatsu Hiroki | Win | B+R | 6.5 | 
+| 2018-06-28 | 第25期阿含・桐山杯全日本早碁オープン戦1回戦 | Ida Atsushi | Ichiriki Ryo | Lose | W+R | 6.5 | 
+| 2018-06-19 | 2018年中国囲碁乙級リーグ | Liu Xing | Ida Atsushi | Lose | B+R | 7.5 | 
+| 2018-06-16 | 2018年中国囲碁乙級リーグ | Mao Ruilong | Ida Atsushi | Win | W+R | 7.5 | 
+| 2018-06-13 | 2018年中国囲碁乙級リーグ | Niu Yutian | Ida Atsushi | Win | W+R | 7.5 | 
+| 2018-05-28 | 第23回LG杯朝鮮日報棋王戦1回戦 | Yang Dingxin | Ida Atsushi | Lose | B+T | 6.5 | 
+| 2018-05-17 | 第43期棋聖戦Cリーグ | Adachi Toshimasa | Ida Atsushi | Lose | B+3.5 | 6.5 | 
+| 2018-05-10 | 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Ida Atsushi | Onishi Ryuhei | Win | B+R | 6.5 | 
+| 2018-04-26 | 第43期棋聖戦Cリーグ | Suzuki Shinji | Ida Atsushi | Win | W+R | 6.5 | 
+| 2018-04-23 | 第73期本因坊戦残留プレーオフ | Ida Atsushi | Yu Zhengqi | Lose | W+1.5 | 6.5 | 
+| 2018-04-12 | 第73期本因坊戦残留プレーオフ | Ida Atsushi | Shibano Toramaru | Lose | W+4.5 | 6.5 | 
+| 2018-04-05 | 第73期本因坊戦リーグ最終節  | Ida Atsushi | Shibano Toramaru | Lose | W+R | 6.5 | 
+| 2018-03-20 | 第9回おかげ杯囲碁トーナメント戦予選 | Takahashi Masumi | Ida Atsushi | Win | W+R | 6.5 | 
+| 2018-03-20 | 第9回おかげ杯囲碁トーナメント戦予選決勝 | Tsuruta Kazushi | Ida Atsushi | Lose | B+1.5 | 6.5 | 
+| 2018-03-12 | 第5回グランドチャンピオン戦2回戦 | Ida Atsushi | Motoki Katsuya | Lose | W+T | 6.5 | 
+| 2018-03-01 | 第43期碁聖戦本戦3回戦 | Motoki Katsuya | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2018-02-05 | 第5回グランドチャンピオン戦1回戦 | Ida Atsushi | Lee Ishu | Win | B+R | 6.5 | 
+| 2018-02-01 | 第66期王座戦最終予選 | Lee Ishu | Ida Atsushi | Lose | B+1.5 | 6.5 | 
+| 2018-01-18 | 第44期天元戦1回戦 | Uchida Shuhei | Ida Atsushi | Lose | B+9.5 | 6.5 | 
+| 2018-01-11 | 第43期碁聖戦本戦2回戦 | Ichiriki Ryo | Ida Atsushi | Win | W+R | 6.5 | 
+| 2017-12-07 | 第56期十段戦3回戦 | Ida Atsushi | Ichiriki Ryo | Lose | W+R | 6.5 | 
+| 2017-11-30 | 第43期碁聖戦本戦1回戦 | Ida Atsushi | Ko Iso | Win | B+R | 6.5 | 
+| 2017-11-16 | 第44期天元戦予選 | Nakano Hironari | Ida Atsushi | Win | W+R | 6.5 | 
+| 2017-11-13 | 第58期王冠戦挑戦手合一番勝負 | Mutsuura Yuta | Ida Atsushi | Win | W+R | 6.5 | 
+| 2017-11-09 | 第56期十段戦2回戦 | Imamura Toshiya | Ida Atsushi | Win | W+R | 6.5 | 
+| 2017-10-19 | 第43期碁聖戦予選 | Nakamura Shinya | Ida Atsushi | Win | W+8.5 | 6.5 | 
+| 2017-10-05 | 第44期天元戦予選A | Ida Atsushi | Tsuruta Kazushi | Win | B+3.5 | 6.5 | 
+| 2017-09-28 | 43期碁聖戦予選 | Kato Yuuki | Ida Atsushi | Win | W+3.5 | 6.5 | 
+| 2017-09-21 | 第43期名人戦　最終予選1回戦 | Yuki Satoshi | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2017-09-07 | 56期十段戦予選決勝 | Cho Sonjin | Ida Atsushi | Win | W+R | 6.5 | 
+| 2017-08-31 | 第43期名人戦　予選A決勝 | Ida Atsushi | Hane Yasumasa | Win | B+R | 6.5 | 
+| 2017-08-24 | 第42期棋聖戦　Bリーグ1組7回戦 | Ida Atsushi | Ko Iso | Lose | W+0.5 | 6.5 | 
+| 2017-08-10 | 第43期名人戦　予選A | Goto Shungo | Ida Atsushi | Win | W+R | 6.5 | 
+| 2017-07-27 | 第42期棋聖戦　Bリーグ1組6回戦 | Ida Atsushi | Awaji Shuzo | Win | B+R | 6.5 | 
+| 2017-07-25 | ナショナルチーム強化対局 | Ida Atsushi | DeepZenGo | Lose | W+1.5 | 6.5 | 
+| 2017-07-20 | 第73期本因坊戦　最終予選準決勝 | Yao Zhiteng | Ida Atsushi | Win | W+R | 6.5 | 
+| 2017-07-15 | ナショナルチーム強化対局 | Ida Atsushi | DeepZenGo | Win | B+R | 6.5 | 
+| 2017-07-13 | 第65期王座戦2回戦 | Nakano Hironari | Ida Atsushi | Lose | B+1.5 | 6.5 | 
+| 2017-07-06 | 第42期棋聖戦　Bリーグ1組5回戦 | Ida Atsushi | Imamura Yoshiaki | Win | B+R | 6.5 | 
+| 2017-07-05 | ナショナルチーム強化対局 | DeepZenGo | Ida Atsushi | Win | W+T | 6.5 | 
+| 2017-06-22 | 第73期本因坊戦　最終予選1回戦 | Nakamura Shinya | Ida Atsushi | Win | W+2.5 | 6.5 | 
+| 2017-06-13 | 2017年中国囲碁乙級リーグ |  | Ida Atsushi | Win | W+R | 7.5 | 
+| 2017-06-12 | 2017年中国囲碁乙級リーグ |  | Ida Atsushi | Lose | B+R | 7.5 | 
+| 2017-06-11 | 2017年中国囲碁乙級リーグ | Ida Atsushi |  | Lose | W+R | 7.5 | 
+| 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Ida Atsushi | Shin Jinseo | Lose | W+R | 6.5 | 
+| 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Ida Atsushi | Choi Jeong | Win | B+R | 6.5 | 
+| 2017-05-25 | 第42期棋聖戦　Bリーグ1組4回戦 | Ida Atsushi | Shida Tatsuya | Lose | W+R | 6.5 | 
+| 2017-05-18 | 第65期王座戦　本戦1回戦第2局 | O Rissei | Ida Atsushi | Win | W+0.5 | 6.5 | 
+| 2017-05-11 | 第42期棋聖戦　Bリーグ1組3回戦 | Akiyama Jiro | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2017-04-06 | 第42期棋聖戦　Bリーグ2回戦 | Yamada Kimio | Ida Atsushi | Win | W+2.5 | 6.5 | 
+| 2017-03-30 | 第73期本因坊戦　予選A決勝 | Ida Atsushi | Kitano Ryo | Win | B+R | 6.5 | 
+| 2017-02-23 | 第42期棋聖戦　Bリーグ1組1回戦 | Shibano Toramaru | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2017-02-21 | 第8回おかげ杯囲碁トーナメント戦予選 | Ida Atsushi | Onishi Ryuhei | Lose | W+R | 6.5 | 
+| 2017-02-06 | 第4回グランドチャンピオン戦　1回戦 | Yuki Satoshi | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2017-02-02 | 第73期本因坊戦　予選A | Iwamaru Taira | Ida Atsushi | Win | W+R | 6.5 | 
+| 2016-12-28 | 日本国家隊冬季合宿訓練戦 | Iyama Yuta | Ida Atsushi | Lose | B+1.5 | 6.5 | 
+| 2016-12-18 | 第64回ＮＨＫ杯テレビ囲碁トーナメント3回戦第3局 | Ida Atsushi | Motoki Katsuya | Win | B+R | 6.5 | 
+| 2016-12-15 | 第43期天元戦　本戦1回戦第4局 | Ida Atsushi | Hsu Chiayuan | Lose | W+R | 6.5 | 
+| 2016-11-16 | 第57期王冠戦　挑戦手合一番勝負 | Ida Atsushi | Hane Naoki | Win | B+R | 6.5 | 
+| 2016-11-13 | 第64回NHK杯テレビ囲碁トーナメント戦2回戦第15局 | Ida Atsushi | Ha Youngil | Win | B+5.5 | 6.5 | 
+| 2016-11-10 | 第1回新奥杯世界囲碁オープン戦3回戦 | Ke Jie | Ida Atsushi | Lose | B+R | 7.5 | 
+| 2016-11-08 | 第1回新奥杯世界囲碁オープン戦2回戦 | Ida Atsushi | Chen Xian | Win | B+R | 7.5 | 
+| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Ida Atsushi | Wu Guangya | Win | B+1.5 | 7.5 | 
+| 2016-11-03 | 第55期十段戦　本戦2回戦 | Hane Naoki | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦第3戦 | Lee Donghoon | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Ida Atsushi | Lin Junyan | Lose | W+R | 6.5 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Xiao Zhenghao | Ida Atsushi | Win | W+R | 6.5 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Ida Atsushi | Huang Yunsong | Win | B+2.5 | 6.5 | 
+| 2016-09-29 | 第42期名人戦最終予選 | Sakai Hideyuki | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2016-09-25 | 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Huang Yunsong | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2016-09-24 | 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Wang Yuanjun | Ida Atsushi | Win | W+R | 6.5 | 
+| 2016-09-23 | 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Ida Atsushi | An Sungjoon | Lose | W+R | 6.5 | 
+| 2016-09-08 | 第21回三星火災杯世界囲碁マスターズ1回戦H3 | Ida Atsushi | Tang Weixing | Lose | W+R | 6.5 | 
+| 2016-09-07 | 第21回三星火災杯世界囲碁マスターズ1回戦H2 | Kang Seungmin | Ida Atsushi | Lose | B+13.5 | 6.5 | 
+| 2016-09-06 | 第21回三星火災杯世界囲碁マスターズ1回戦H1 | Lu Jia | Ida Atsushi | Win | W+R | 6.5 | 
+| 2016-08-25 | 第41期棋聖戦　Bリーグ7回戦 | Ida Atsushi | Tsuruyama Atsushi | Win | B+R | 6.5 | 
+| 2016-07-28 | 第41期棋聖戦Bリーグ | Kim Sujun | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2016-07-23 | 第23期阿含・桐山杯全日本早碁オープン戦1回戦 | Ichiriki Ryo | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2016-07-20 | 第21回三星火災杯統合予選決勝 | Ida Atsushi | Song Jihoon | Win | B+R | 6.5 | 
+| 2016-07-19 | 第21回三星火災杯統合予選準決勝 | Ida Atsushi |  | Win | B+0.5 | 6.5 | 
+| 2016-07-07 | 第41期棋聖戦Bリーグ | Cho Chikun | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2016-06-30 | 第72期本因坊戦予選 | Ko Iso | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2016-06-24 | 2016年中国囲碁丙級リーグ | Ida Atsushi | Ding Lie | Win | B+R | 7.5 | 
+| 2016-06-09 | 第41期棋聖戦Bリーグ | O Rissei | Ida Atsushi | Win | W+R | 6.5 | 
+| 2016-05-26 | 第41期棋聖戦Bリーグ | O Meien | Ida Atsushi | Win | W+1.5 | 6.5 | 
+| 2016-04-20 | 第54期十段戦挑戦手合五番勝負第4局 | Iyama Yuta | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2016-04-14 | 第54期十段戦挑戦手合五番勝負第3局 | Ida Atsushi | Iyama Yuta | Win | B+R | 6.5 | 
+| 2016-04-07 | 第41期棋聖戦Bリーグ | Ida Atsushi | Hsu Chiayuan | Lose | W+R | 6.5 | 
+| 2016-03-31 | 第71期本因坊戦リーグ | Ida Atsushi | Cho U | Lose | W+R | 6.5 | 
+| 2016-03-23 | 第54期十段戦挑戦手合五番勝負第2局 | Iyama Yuta | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2016-03-17 | 第41期棋聖戦Bリーグ | Ida Atsushi | Mizokami Tomochika | Win | B+2.5 | 6.5 | 
+| 2016-03-08 | 第54期十段戦挑戦手合五番勝負第1局 | Ida Atsushi | Iyama Yuta | Lose | W+R | 6.5 | 
+| 2016-03-03 | 第71期本因坊戦リーグ | Yamashita Keigo | Ida Atsushi | Lose | B+3.5 | 6.5 | 
+| 2016-02-24 | 第7回おかげ杯囲碁トーナメント戦予選 | Ida Atsushi | Tanaka Nobuyuki | Win | B+R | 6.5 | 
+| 2016-02-21 | 2016四都市新鋭対抗戦第3戦 | Li Qincheng | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2016-02-20 | 2016四都市新鋭対抗戦第2戦 | Wang Yuanjun | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2016-02-19 | 2016四都市新鋭対抗戦第1戦 | Ida Atsushi | Shin Jinseo | Lose | W+R | 6.5 | 
+| 2016-02-09 | 第7回おかげ杯囲碁トーナメント戦予選 | Ida Atsushi | Obuchi Kotaro | Win | B+R | 6.5 | 
+| 2016-02-04 | 第71期本因坊戦リーグ | Motoki Katsuya | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2016-01-30 | 2016年日台精鋭交流戦第6戦 | Yang Bowei | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2016-01-30 | 2016年日台精鋭交流戦第5戦 | Ida Atsushi | Chen Qirui | Win | B+R | 6.5 | 
+| 2016-01-29 | 2016年日台精鋭交流戦第4戦 | Xiao Zhenghao | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2016-01-29 | 2016年日台精鋭交流戦第3戦 | Lin Shuyang | Ida Atsushi | Win | W+R | 6.5 | 
+| 2016-01-28 | 2016年日台精鋭交流戦第2戦 | Ida Atsushi | Wang Yuanjun | Win | B+R | 6.5 | 
+| 2016-01-28 | 2016年日台精鋭交流戦第1戦 | Lin Junyan | Ida Atsushi | Win | W+R | 6.5 | 
+| 2016-01-21 | 第71期本因坊戦リーグ | Kono Rin | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2015-12-24 | 第41期碁聖戦本戦1回戦 | Ida Atsushi | Shida Tatsuya | Lose | W+R | 6.5 | 
+| 2015-12-10 | 第71期本因坊戦リーグ | Yu Zhengqi | Ida Atsushi | Lose | B+0.5 | 6.5 | 
+| 2015-12-07 | 第42期天元戦予選 | Nakano Hironari | Ida Atsushi | Lose | B+3.5 | 6.5 | 
+| 2015-11-28 | 第17回農心辛ラーメン杯世界囲碁最強戦第6戦 | Ida Atsushi | Choi Cheolhan | Lose | W+R | 6.5 | 
+| 2015-11-19 | 第57期王冠戦予選 | Yamamori Tadanao | Ida Atsushi | Win | W+R | 6.5 | 
+| 2015-11-12 | 第71期本因坊戦リーグ | Ida Atsushi | Takao Shinji | Lose | W+R | 6.5 | 
+| 2015-11-09 | 第42期天元戦予選 | Ida Atsushi | Yanagisawa Satoshi | Win | B+3.5 | 6.5 | 
+| 2015-11-05 | 第41期名人戦予選 | Ida Atsushi | Hane Naoki | Lose | W+R | 6.5 | 
+| 2015-10-29 | 第71期本因坊戦リーグ | Ida Atsushi | Ichiriki Ryo | Win | B+R | 6.5 | 
+| 2015-10-19 | 第41期名人戦予選 | Ida Atsushi | Shibano Toramaru | Win | B+2.5 | 6.5 | 
+| 2015-10-09 | 第41期名人戦予選 | Ichiriki Ryo | Ida Atsushi | Win | W+R | 6.5 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦決勝 | Yun Junsang | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Ida Atsushi | Xiao Zhenghao | Win | B+2.5 | 6.5 | 
+| 2015-10-02 | 第2回おかげ杯国際精鋭囲碁対抗戦第2戦 | Ida Atsushi | Yang Dingxin | Win | B+R | 6.5 | 
+| 2015-10-02 | 第2回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yun Junsang | Ida Atsushi | Win | W+R | 6.5 | 
+| 2015-09-24 | 第40期棋聖戦Cリーグ | Ida Atsushi | Aragaki Shun | Win | B+R | 6.5 | 
+| 2015-09-17 | 第64期王座戦予選 | Araki Issei | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2015-09-10 | 第20回三星火災杯世界囲碁マスターズ1回戦E3 | Ida Atsushi | Zhang Tao | Lose | W+R | 6.5 | 
+| 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦E2 | Ida Atsushi | Choi Jeong | Win | B+R | 6.5 | 
+| 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦E1 | Lee Sedol | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2015-09-03 | 第42期天元戦予選 | Kori Toshio | Ida Atsushi | Win | W+R | 6.5 | 
+| 2015-08-25 | 第27回テレビアジア選手権1回戦 | Ida Atsushi | Lee Donghoon | Lose | W+R | 6.5 | 
+| 2015-08-20 | 第41期名人戦予選 | Goto Shungo | Ida Atsushi | Win | W+0.5 | 6.5 | 
+| 2015-07-30 | 第40期棋聖戦Cリーグ | Ida Atsushi | Fujii Shuya | Win | B+R | 6.5 | 
+| 2015-07-16 | 第40期棋聖戦Cリーグ | Yu Zhengqi | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Wu Guangya | Ida Atsushi | Lose | B+R | 7.5 | 
+| 2015-07-02 | 第41期名人戦予選 | Ida Atsushi | Matsuoka Hideki | Win | B+R | 6.5 | 
+| 2015-06-11 | 第40期棋聖戦Cリーグ | Nakano Hironari | Ida Atsushi | Win | W+R | 6.5 | 
+| 2015-05-21 | 第41期名人戦予選 | Ida Atsushi | Nakamura Shinya | Win | B+1.5 | 6.5 | 
+| 2015-05-18 | 第40期棋聖戦Cリーグ | Kono Takashi | Ida Atsushi | Win | W+1.5 | 6.5 | 
+| 2015-04-30 | 第40期棋聖戦予選 |  | Ida Atsushi | Win | W+R | 6.5 | 
+| 2015-04-22 | 第53期十段戦挑戦手合五番勝負第5局 | Ida Atsushi | Takao Shinji | Win | B+R | 6.5 | 
+| 2015-04-15 | 第53期十段戦挑戦手合五番勝負第4局 | Takao Shinji | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2015-04-09 | 第53期十段戦挑戦手合五番勝負第3局 | Ida Atsushi | Takao Shinji | Win | B+2.5 | 6.5 | 
+| 2015-04-02 | 第70期本因坊戦リーグ | Ida Atsushi | Yu Zhengqi | Lose | W+R | 6.5 | 
+| 2015-03-26 | 第53期十段戦挑戦手合五番勝負第2局 | Takao Shinji | Ida Atsushi | Win | W+R | 6.5 | 
+| 2015-03-19 | 第40期碁聖戦本戦2回戦 | Ida Atsushi | Mitani Tetsuya | Lose | W+R | 6.5 | 
+| 2015-03-05 | 第53期十段戦挑戦手合五番勝負第1局 | Ida Atsushi | Takao Shinji | Lose | W+R | 6.5 | 
+| 2015-02-26 | 第70期本因坊戦リーグ | Takao Shinji | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2015-02-19 | 第70期本因坊戦リーグ | Ida Atsushi | Kono Rin | Lose | W+R | 6.5 | 
+| 2015-02-12 | 第63期王座戦予選 | Ida Atsushi | Hane Naoki | Lose | W+R | 6.5 | 
+| 2015-02-10 | 第6回おかげ杯囲碁トーナメント戦予選 | Ida Atsushi | Ohashi Naruya | Win | B+R | 6.5 | 
+| 2015-02-05 | 第53期十段戦挑戦者決定戦 | Ida Atsushi | Kobayashi Satoru | Win | B+R | 6.5 | 
+| 2015-01-29 | 第40期碁聖戦本戦1回戦 | Ida Atsushi | Honda Kunihisa | Win | B+1.5 | 6.5 | 
+| 2015-01-22 | 第53期十段戦準決勝 | Ida Atsushi | Shida Tatsuya | Win | B+R | 6.5 | 
+| 2015-01-15 | 第70期本因坊戦リーグ | Ryu Shikun | Ida Atsushi | Win | W+R | 6.5 | 
+| 2014-12-25 | 第53期十段戦3回戦 | Yuki Satoshi | Ida Atsushi | Win | W+R | 6.5 | 
+| 2014-12-04 | 第70期本因坊戦リーグ | Ida Atsushi | Yamashita Keigo | Win | B+1.5 | 6.5 | 
+| 2014-11-20 | 第53期十段戦2回戦 | So Yokoku | Ida Atsushi | Win | W+0.5 | 6.5 | 
+| 2014-11-13 | 第70期本因坊戦リーグ | Ida Atsushi | Mimura Tomoyasu | Win | B+R | 6.5 | 
+| 2014-10-24 | 第16回農心辛ラーメン杯世界囲碁最強戦第4戦 | Kang Dongyun | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2014-10-16 | 第70期本因坊戦リーグ | Cho U | Ida Atsushi | Win | W+3.5 | 6.5 | 
+| 2014-10-08 | 第53期十段戦予選 | Ida Atsushi | Kiyonari Tetsuya | Win | B+R | 6.5 | 
+| 2014-10-03 | 2014年国際新鋭囲碁対抗戦第3戦 | Na Hyun | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2014-10-02 | 2014年国際新鋭囲碁対抗戦第2戦 | Ida Atsushi | Xiao Zhenghao | Win | B+R | 6.5 | 
+| 2014-10-01 | 2014年国際新鋭囲碁対抗戦第1戦 | Ida Atsushi | Ke Jie | Lose | W+R | 6.5 | 
+| 2014-08-07 | 第21期阿含・桐山杯全日本早碁オープン戦2回戦 | Ida Atsushi | Iyama Yuta | Lose | W+R | 6.5 | 
+| 2014-07-17 | 第21期阿含・桐山杯全日本早碁オープン戦1回戦 | Kataoka Satoshi | Ida Atsushi | Win | W+R | 6.5 | 
+| 2014-07-01 | 第69期本因坊戦挑戦手合七番勝負第5局 | Iyama Yuta | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2014-06-19 | 第69期本因坊戦挑戦手合七番勝負第4局 | Ida Atsushi | Iyama Yuta | Win | B+R | 6.5 | 
+| 2014-06-09 | 第19回LG杯朝鮮日報棋王戦1回戦 | Tuo Jiaxi | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2014-06-05 | 第69期本因坊戦挑戦手合七番勝負第3局 | Iyama Yuta | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2014-05-26 | 第69期本因坊戦挑戦手合七番勝負第2局 | Ida Atsushi | Iyama Yuta | Lose | W+R | 6.5 | 
+| 2014-05-22 | 第21期阿含・桐山杯全日本早碁オープン戦予選 | Ichiriki Ryo | Ida Atsushi | Win | W+R | 6.5 | 
+| 2014-05-15 | 第69期本因坊戦挑戦手合七番勝負第1局 | Iyama Yuta | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2014-05-10 | 第1回グロービス杯世界囲碁U-20グループリーグA | Ida Atsushi | Na Hyun | Lose | W+R | 6.5 | 
+| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグA | Ida Atsushi | Na Hyun | Lose | W+1.5 | 6.5 | 
+| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグA | Ida Atsushi | Tsuruta Kazushi | Win | B+R | 6.5 | 
+| 2014-04-11 | 第1回グロービス杯国内予選 | Ida Atsushi | Sada Atsushi | Win | B+R | 6.5 | 
+| 2014-04-11 | 第1回グロービス杯国内予選 | Ida Atsushi | Kan Minu | Win | B+R | 6.5 | 
+| 2014-04-07 | 第69期本因坊戦挑戦者決定プレーオフ | Yamashita Keigo | Ida Atsushi | Win | W+5.5 | 6.5 | 
+| 2014-04-03 | 第69期本因坊戦リーグ | Yamashita Keigo | Ida Atsushi | Win | W+0.5 | 6.5 | 
+| 2014-03-06 | 第69期本因坊戦リーグ | Ida Atsushi | Kono Rin | Win | B+R | 6.5 | 
+| 2014-02-13 | 第69期本因坊戦リーグ | Sakai Hideyuki | Ida Atsushi | Win | W+5.5 | 6.5 | 
+| 2014-02-04 | 第5回おかげ杯囲碁トーナメント戦予選 | Tajiri Yuto | Ida Atsushi | Lose | B+0.5 | 6.5 | 
+| 2014-02-04 | 第5回おかげ杯囲碁トーナメント戦予選 | Ida Atsushi | Onishi Kenya | Win | B+2.5 | 6.5 | 
+| 2014-01-30 | 第39期碁聖戦本戦2回戦 | Cho Sonjin | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2014-01-17 | 25周年記念囲碁千里杯1回戦 | Ida Atsushi | Tajiri Yuto | Lose | W+R | 6.5 | 
+| 2014-01-09 | 第69期本因坊戦リーグ | Ida Atsushi | Takao Shinji | Win | B+0.5 | 6.5 | 
+| 2013-12-19 | 第69期本因坊戦リーグ | Ida Atsushi | Cho U | Lose | W+0.5 | 6.5 | 
+| 2013-12-12 | 第40期天元戦予選 | Yamada Kimio | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2013-12-09 | 第39期碁聖戦本戦1回戦 | Ida Atsushi | Ha Youngil | Win | B+R | 6.5 | 
+| 2013-11-21 | 第39期棋聖戦予選 | Ida Atsushi | Sakai Hideyuki | Lose | W+4.5 | 6.5 | 
+| 2013-11-16 | 第8回広島アルミ杯・若鯉戦1回戦 | Ida Atsushi | Ichiriki Ryo | Lose | W+3.5 | 6.5 | 
+| 2013-11-14 | 第69期本因坊戦リーグ | Yuki Satoshi | Ida Atsushi | Win | W+R | 6.5 | 
+| 2013-10-31 | 第39期碁聖戦予選 | Ida Atsushi | Yamada Kimio | Win | B+R | 6.5 | 
+| 2013-10-24 | 第69期本因坊戦リーグ | Ida Atsushi | Yu Zhengqi | Win | B+2.5 | 6.5 | 
+| 2013-09-14 | 第15回農心杯選抜戦 | Anzai Nobuaki | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2013-09-05 | 第69期本因坊戦予選 | Ida Atsushi | Cho Sonjin | Win | B+0.5 | 6.5 | 
+| 2013-08-31 | 第15回農心杯選抜戦 | Uchida Shuhei | Ida Atsushi | Win | W+R | 6.5 | 
+| 2013-08-24 | 第15回農心杯選抜戦 | Ida Atsushi | Suzuki Shinji | Win | B+4.5 | 6.5 | 
+| 2013-08-22 | 第69期本因坊戦予選 | Ida Atsushi | Mimura Tomoyasu | Win | B+1.5 | 6.5 | 
+| 2013-08-03 | 第18回三星火災杯統合予選2回戦 | Ida Atsushi | Shin Jinseo | Lose | W+R | 6.5 | 
+| 2013-07-18 | 第69期本因坊戦予選 | Ida Atsushi | Ishida Yoshio | Win | B+R | 6.5 | 
+| 2013-05-09 | 第52期十段戦予選 | Hikosaka Naoto | Ida Atsushi | Win | W+0.5 | 6.5 | 
+| 2013-03-21 | 第38期新人王戦1回戦 | Ida Atsushi | Hatanaka Hoshinobu | Lose | W+R | 6.5 | 
+| 2013-02-28 | 第39期天元戦本戦1回戦 | Cho Sonjin | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2013-02-07 | 第38期碁聖戦本戦2回戦 | Ida Atsushi | Akiyama Jiro | Lose | W+R | 6.5 | 
+| 2012-11-29 | 第39期天元戦予選 | Hikosaka Naoto | Ida Atsushi | Win | W+3.5 | 6.5 | 
+| 2012-11-17 | 第7回広島アルミ杯・若鯉戦2回戦 | Shida Tatsuya | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2012-11-01 | 第38期碁聖戦予選 | Nakao Jungo | Ida Atsushi | Win | W+0.5 | 6.5 | 
+| 2012-10-18 | 第14回農心辛ラーメン杯世界囲碁最強戦第3戦 | Ida Atsushi | Tan Xiao | Lose | W+R | 6.5 | 
+| 2012-09-13 | 2012ジャステック杯国際新鋭囲碁対抗戦第3戦 | Ida Atsushi | Xia Daming | Lose | W+2.5 | 6.5 | 
+| 2012-09-12 | 2012ジャステック杯国際新鋭囲碁対抗戦第2戦 | Ida Atsushi | Na Hyun | Lose | W+R | 6.5 | 
+| 2012-09-11 | 2012ジャステック杯国際新鋭囲碁対抗戦第1戦 | Ida Atsushi |  | Lose | W+4.5 | 6.5 | 
+| 2012-08-16 | 第19期阿含・桐山杯全日本早碁オープン戦2回戦 | Cho U | Ida Atsushi | Lose | B+7.5 | 6.5 | 
+| 2012-07-12 | 第19期阿含・桐山杯全日本早碁オープン戦1回戦 | Ida Atsushi | Cho Chikun | Win | B+1.5 | 6.5 | 
+| 2012-05-17 | 第19期阿含・桐山杯全日本早碁オープン戦予選 | Ryu Shikun | Ida Atsushi | Win | W+6.5 | 6.5 | 
+| 2012-03-22 | 第37期新人王戦2回戦 | Hatanaka Hoshinobu | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2012-03-18 | 第4回BCカード杯世界選手権2回戦 | Kong Jie | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Peng Quan | Ida Atsushi | Win | W+3.5 | 6.5 | 
+| 2012-02-06 | 第3回おかげ杯囲碁トーナメント戦予選 | Ida Atsushi | Kazama Jun | Lose | W+R | 6.5 | 
+| 2012-02-06 | 第3回おかげ杯囲碁トーナメント戦予選 | Ida Atsushi | Ito Masashi | Win | B+R | 6.5 | 
+| 2012-02-02 | 第37期新人王戦1回戦 | Tamai Shin | Ida Atsushi | Win | W+4.5 | 6.5 | 
+| 2011-12-01 | 第53期王冠戦予選 | Ida Atsushi | Ogata Masaki | Win | B+0.5 | 6.5 | 
+| 2011-08-25 | 第37期碁聖戦予選 | Hikosaka Naoto | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2011-02-07 | 第4期幽玄杯精鋭リーグ戦 | O Meien | Ida Atsushi | Win | W+1.5 | 6.5 | 
+| 2011-01-06 | 第36期新人王戦1回戦 | Ida Atsushi | Takashima Takeshi | Lose | W+5.5 | 6.5 | 
+| 2010-11-15 | 第4期幽玄杯精鋭リーグ戦 | Ida Atsushi | Ishida Atsushi | Win | B+R | 6.5 | 
+| 2010-10-18 | 第4期幽玄杯精鋭リーグ戦 | Lee Ishu | Ida Atsushi | Lose | B+R | 6.5 | 
+| 2010-08-09 | 第4期幽玄杯精鋭リーグ戦 | Takei Takashi | Ida Atsushi | Win | W+R | 6.5 | 
+| 2009-12-17 | 第35期新人王戦予選 | Tamai Shin | Ida Atsushi | Lose | B+2.5 | 6.5 | 
+| 2009-10-29 | 第35期新人王戦予選 | Ida Atsushi | Okuda Aya | Win | B+R | 6.5 | 
+| 2009-01-26 | 第2期幽玄杯精鋭リーグ戦 | Ida Atsushi | Takagi Junpei | Win | B+2.5 | 6.5 | 
+| 2009-01-19 | 第2期幽玄杯精鋭リーグ戦 | Ida Atsushi | Mizokami Tomochika | Lose | W+R | 6.5 |
 
 
 

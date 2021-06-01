@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Mi Yuting | Lee Donghoon | Win | B+R | 6.5 | 
 | 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Mi Yuting | Lee Changseok | Win | B+R | 6.5 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Mi Yuting | Liao Yuanhe | Lose | W+R | 7.5 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Mi Yuting | Byun Sangil | Lose | W+R | 7.5 | 

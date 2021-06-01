@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Shin Minjun | Kang Dongyun | Lose | B+R | 6.5 | 
 | 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kang Dongyun | Xie Erhao | Win | B+R | 6.5 | 
 | 2021-05-25 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Kang Dongyun | Win | W+R | 6.5 | 
 | 2021-05-21 | 第44期名人戦（韓国）敗者復活戦2回戦 | Kang Dongyun | Lee Changseok | Lose | W+R | 6.5 | 

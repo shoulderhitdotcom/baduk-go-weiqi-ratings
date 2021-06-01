@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Tan Xiao | Park Junghwan | Lose | W+1.5 | 6.5 | 
 | 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Park Jinsol | Tan Xiao | Win | W+R | 6.5 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Tao Xinran | Tan Xiao | Lose | B+1¾ | 7.5 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tan Xiao | Lose | B+R | 7.5 | 

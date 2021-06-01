@@ -13,25 +13,26 @@ using Revise: includet
 
 includet("utils.jl")
 
-if isdir("c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/")
-    tbl_from_somewhere = @chain "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
-        JDF.load()
-        DataFrame()
-        @transform date = parse.(Date, :date)
-        @transform komi_fixed = replace(
-            :komi,
-            6.4 => 6.5,
-            8.0 => 7.5,
-            750 => 7.5,
-            605.0 => 6.5
-        )
-        @where in.(:komi_fixed, Ref((6.5, 7.5)))
-        select!(Not([:sgf, :comp, :result, :kifu_link, :win_by, :komi]))
-    end
-
-    JDF.save("kifu-depot-games-for-ranking.jdf/", tbl_from_somewhere)
+# the intended syntax
+# @target = tbl = @chain @watch_path "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
+tbl = @chain "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
+    JDF.load()
+    DataFrame()
+    @transform date = parse.(Date, :date)
+    @transform komi_fixed = replace(
+        :komi,
+        6.4 => 6.5,
+        8.0 => 7.5,
+        750 => 7.5,
+        605.0 => 6.5
+    )
+    @where in.(:komi_fixed, Ref((6.5, 7.5)))
+    select!(Not([:sgf, :comp, :result, :kifu_link, :win_by, :komi]))
 end
 
+
+### the below two lines can be skipped under a target flow
+JDF.save("kifu-depot-games-for-ranking.jdf/", tbl)
 tbl = JDF.load("kifu-depot-games-for-ranking.jdf/") |> DataFrame
 
 function estimate_ratings_and_save_records(tbl)
@@ -59,17 +60,17 @@ if false
     end
 end
 
-#pings, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date, mad = meh(tbl)
+# @target pings, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date, mad =
 @time pings, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date, mad =
     estimate_ratings_and_save_records(tbl);
 
-#JDF.save("pings.jdf/", pings)
 
 const OFFSET = 3800-6.5/log(10)*400
 #infrequent_threshold = 8
 
+# @target should allow the return of a path where things are stored
+# out_path = @target pings_for_md1 = @chain @watch(pings) begin
 pings_for_md1 = @chain pings begin
-#    @where :n .> infrequent_threshold
    @transform eng_name_old = coalesce.(eng_name.(:name), Ref(""));
    @transform eng_name = "[" .* :eng_name_old .* "](./player-games-md/md/" .* :eng_name_old .* ".md)"
    @transform estimate_for_ranking = :estimate .- 1.97 .* :std_error
@@ -80,6 +81,7 @@ pings_for_md1 = @chain pings begin
    @transform Rank = 1:length(:estimate_for_ranking)
 end
 
+# this can be skipped in target network
 JDF.save("pings.jdf", pings_for_md1)
 
 pings_for_md = select(

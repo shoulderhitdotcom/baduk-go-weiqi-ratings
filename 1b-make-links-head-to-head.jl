@@ -44,14 +44,14 @@ head_to_head_sets = @chain df begin
     @where in.(:black, Ref(names_to_update))
     @where in.(:white, Ref(names_to_update))
     Dict(Set((n1, n2)) => true for (n1, n2) in zip(_.black, _.white))
-    keys()
-    collect.()
+    keys() # keys are the name pairs
+    collect.() # returns an array of arays of two values
     filter(x->length(x) == 2, _) # weird case where kim jiseok played himself
-    sort.()
-    unique()
+    sort.() # sort the name by alphabetical order
+    unique() #
 end
 
-for (name1, name2) in sets
+for (name1, name2) in head_to_head_sets
     # println(name1, name2)
     head_to_head = @chain df begin
         @where ((:black .== name1) .& (:white .== name2)) .| ((:black .== name2) .& (:white .== name1))
@@ -76,11 +76,7 @@ for (name1, name2) in sets
     end
 
     if nrow(head_to_head) > 0
-        @warn "Ok check here"
-        if !isdir("./head-to-head-md/jdf/$name1-$name2.jdf")
-            JDF.save("./head-to-head-md/jdf/$name1-$name2.jdf", head_to_head)
-        end
-
+        JDF.save("./head-to-head-md/jdf/$name1-$name2.jdf", head_to_head)
     end
 end
 # end

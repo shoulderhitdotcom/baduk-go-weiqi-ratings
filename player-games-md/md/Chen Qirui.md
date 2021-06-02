@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Chen Qirui | Ichiriki Ryo | Lose | W+R | 6.5 | 
 | 2021-05-31 | 第26回LG杯朝鮮日報棋王戦1回戦 | Hong Seongji | Chen Qirui | Win | W+1.5 | 6.5 | 
 | 2021-05-13 | 第11期友士杯十段戦敗部3回戦 | Lu Yiquan | Chen Qirui | Win | W+R | 6.5 | 
 | 2021-05-10 | 第11期友士杯十段戦敗部2回戦 | Jian Jingting | Chen Qirui | Win | W+R | 6.5 | 

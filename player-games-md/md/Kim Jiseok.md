@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Kim Jiseok | Yang Dingxin | Lose | W+R | 6.5 | 
 | 2021-05-31 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kim Jiseok | Ida Atsushi | Win | B+R | 6.5 | 
 | 2021-05-27 | 第26回GSカルテックス杯プロ棋戦2回戦 | Kim Jiseok | Kim Jinhyu | Win | B+4.5 | 6.5 | 
 | 2021-05-25 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Kang Dongyun | Lose | W+R | 6.5 | 

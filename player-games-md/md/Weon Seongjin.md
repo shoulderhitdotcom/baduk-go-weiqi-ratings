@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Weon Seongjin | Ke Jie | Lose | W+0.5 | 6.5 | 
 | 2021-05-31 | 第26回LG杯朝鮮日報棋王戦1回戦 | Weon Seongjin | Hsu Chiayuan | Win | B+R | 6.5 | 
 | 2021-05-13 | 第26回GSカルテックス杯プロ棋戦2回戦 | Weon Seongjin | Na Hyun | Win | B+0.5 | 6.5 | 
 | 2021-05-02 | 第26回LG杯韓国予選 | Weon Seongjin | Park Sangjin | Win | B+R | 6.5 | 

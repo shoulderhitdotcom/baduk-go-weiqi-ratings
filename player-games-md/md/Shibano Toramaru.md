@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-02 | 第76期本因坊戦挑戦手合七番勝負第3局  | Shibano Toramaru | Iyama Yuta | Win | B+R | 6.5 | 
 | 2021-05-28 | 第46期棋聖戦Aリーグ | Shibano Toramaru | Hane Naoki | Lose | W+R | 6.5 | 
 | 2021-05-25 | 第76期本因坊戦挑戦手合七番勝負第2局  | Iyama Yuta | Shibano Toramaru | Win | W+R | 6.5 | 
 | 2021-05-12 | 第76期本因坊戦挑戦手合七番勝負第1局  | Shibano Toramaru | Iyama Yuta | Lose | W+R | 6.5 | 

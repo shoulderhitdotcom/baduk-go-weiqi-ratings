@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-03 | 第7回韓国女子囲碁リーグ | Park Taehee |  | Lose | W+R | 6.5 | 
+| 2021-05-28 | 第7回韓国女子囲碁リーグ |  | Park Taehee | Win | W+7.5 | 6.5 | 
 | 2021-05-21 | 第7回韓国女子囲碁リーグ | Park Taehee | Cho Hyeyeon | Lose | W+R | 6.5 | 
 | 2020-11-10 | 第4期韓国製紙女子棋聖戦1回戦 | Park Taehee | Kim Hyeoimin | Lose | W+R | 6.5 | 
 | 2020-08-24 | 第25期女流国手戦16強戦 | Kim Dayoung | Park Taehee | Lose | B+R | 6.5 | 
@@ -110,8 +112,7 @@
 | 2014-07-29 | 第8回GGオークション杯女流対シニア連勝対抗戦第8戦 | Park Taehee | Kim Kihun | Win | B+6.5 | 6.5 | 
 | 2014-07-28 | 第8回GGオークション杯女流対シニア連勝対抗戦第7戦 | Kim Chongsu | Park Taehee | Win | W+R | 6.5 | 
 | 2014-07-22 | 第8回GGオークション杯女流対シニア連勝対抗戦第6戦 | An Kwanwuk | Park Taehee | Win | W+R | 6.5 | 
-| 2013-10-29 | 第6期女流棋聖戦（韓国）1回戦 | Park Taehee | Kim Hyeoimin | Lose | W+R | 6.5 | 
-| 2021-05-28 | 第7回韓国女子囲碁リーグ |  | Park Taehee | Win | W+7.5 | 6.5 |
+| 2013-10-29 | 第6期女流棋聖戦（韓国）1回戦 | Park Taehee | Kim Hyeoimin | Lose | W+R | 6.5 |
 
 
 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-03 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Oh Yujin | Win | W+R | 6.5 | 
+| 2021-05-28 | 第7回韓国女子囲碁リーグ | Oh Yujin |  | Lose | W+1.5 | 6.5 | 
 | 2021-05-21 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Oh Yujin | Win | W+R | 6.5 | 
 | 2021-05-19 | 第9回中国女子囲碁甲級リーグ |  | Oh Yujin | Win | W+R | 7.5 | 
 | 2021-05-18 | 第9回中国女子囲碁甲級リーグ | Oh Yujin |  | Win | B+R | 7.5 | 
@@ -372,8 +374,7 @@
 | 2013-09-15 | 2013年楽スターリーグ | Oh Yujin | Kang Seungmin | Lose | W+R | 6.5 | 
 | 2012-09-13 | 2012ジャステック杯国際新鋭囲碁対抗戦第3戦 |  | Oh Yujin | Win | W+2.5 | 6.5 | 
 | 2012-09-12 | 2012ジャステック杯国際新鋭囲碁対抗戦第2戦 | Fujisawa Rina | Oh Yujin | Win | W+0.5 | 6.5 | 
-| 2012-09-11 | 2012ジャステック杯国際新鋭囲碁対抗戦第1戦 | Oh Yujin | Dang Xiyun | Win | B+R | 6.5 | 
-| 2021-05-28 | 第7回韓国女子囲碁リーグ | Oh Yujin |  | Lose | W+1.5 | 6.5 |
+| 2012-09-11 | 2012ジャステック杯国際新鋭囲碁対抗戦第1戦 | Oh Yujin | Dang Xiyun | Win | B+R | 6.5 |
 
 
 

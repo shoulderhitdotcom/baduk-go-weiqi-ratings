@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-03 | 第77期本因坊戦予選 | Kobayashi Satoru | Yu Zhengqi | Win | W+1.5 | 6.5 | 
 | 2021-05-31 | 第46期棋聖戦Sリーグ | Yu Zhengqi | Takao Shinji | Win | B+R | 6.5 | 
 | 2021-05-19 | 第47期碁聖戦予選 | Yu Zhengqi | Hara Masakazu | Win | B+7.5 | 6.5 | 
 | 2021-05-13 | 第46期名人戦リーグ | Hsu Chiayuan | Yu Zhengqi | Lose | B+R | 6.5 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-03 | 第4回呉清源杯中国予選 | Wang Yubo | Chen Yiming | Lose | B+1¾ | 7.5 | 
 | 2021-06-01 | 第4回呉清源杯中国予選 | Fang Ruoxi | Chen Yiming | Lose | B+R | 7.5 | 
 | 2021-05-31 | 第4回呉清源杯中国予選 | Chen Yiming | Rui Naiwei | Lose | W+R | 7.5 | 
 | 2021-05-20 | 第9回中国女子囲碁甲級リーグ |  | Chen Yiming | Win | W+R | 7.5 | 

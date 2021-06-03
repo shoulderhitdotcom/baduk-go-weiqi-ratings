@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-03 | 第26回GSカルテックス杯プロ棋戦2回戦 | Lee Changseok | Kim Myounghoon | Lose | B+R | 6.5 | 
 | 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Kim Myounghoon | Byun Sangil | Lose | W+4.5 | 6.5 | 
 | 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kim Myounghoon | Xie Ke | Win | B+R | 6.5 | 
 | 2021-05-07 | 第26回GSカルテックス杯プロ棋戦1回戦 | Park Jaekeun | Kim Myounghoon | Win | W+R | 6.5 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-03 | 第4回呉清源杯中国予選 |  | Wang Shuang | Lose | B+2¼ | 7.5 | 
 | 2021-06-01 | 第4回呉清源杯中国予選 | Wang Shuang | Lu Minquan | Lose | W+R | 7.5 | 
 | 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Wang Shuang |  | Lose | W+R | 7.5 | 
 | 2021-05-19 | 第9回中国女子囲碁甲級リーグ |  | Wang Shuang | Lose | B+R | 7.5 | 

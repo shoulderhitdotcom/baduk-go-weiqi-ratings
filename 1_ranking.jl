@@ -37,18 +37,16 @@ tbl = JDF.load("kifu-depot-games-for-ranking.jdf/") |> DataFrame
 
 function estimate_ratings_and_save_records(tbl)
     # for easy testing
-    # from_date, to_date = mad-Day(364), mad
-    mad = maximum(tbl.date)
+    to_date = maximum(tbl.date)
+    from_date = to_date-Day(364)
 
-    pings, games, white75_advantage, black65_advantage, abnormal_players = estimate_rating(mad-Day(364), mad; tbl);
-    # pings, games, abnormal_players = estimate_rating(mad-Day(364), mad; tbl);
+    pings, games, white75_advantage, black65_advantage, abnormal_players = estimate_rating(from_date, to_date; tbl);
 
     from_date, to_date = string.(extrema(games.date))
 
     CSV.write("records/$(to_date) pings.csv", pings)
 
-    # pings, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date, mad
-    pings, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date, mad
+    pings, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date
 end
 
 # for creating previous records
@@ -60,8 +58,7 @@ if false
     end
 end
 
-# @target pings, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date, mad =
-@time pings, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date, mad =
+@time pings, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date =
     estimate_ratings_and_save_records(tbl);
 
 

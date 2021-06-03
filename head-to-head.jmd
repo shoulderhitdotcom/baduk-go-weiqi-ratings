@@ -1,0 +1,14 @@
+## Baduk Go Weiqi Ratings - Head to Head
+
+### Choose a player
+
+```{julia; echo=false; line_width=888}
+using JDF
+using DataFrames: DataFrame
+
+include("c:/weiqi/simulation/utils.jl")
+
+head_to_head_index = JDF.load("head-to-head-index.jdf") |> DataFrame
+
+df_to_md(head_to_head_index)
+```

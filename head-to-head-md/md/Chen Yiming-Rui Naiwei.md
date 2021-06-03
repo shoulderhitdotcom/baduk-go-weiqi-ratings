@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yiming vs Rui Naiwei** | **Chen Yiming streak** | **Rui Naiwei streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-05-31 | 第4回呉清源杯中国予選 | Chen Yiming | Rui Naiwei | W+R | 7.5 | 3:8 | 0 | 2 | 
 | 2021-05-19 | 第9回中国女子囲碁甲級リーグ | Rui Naiwei | Chen Yiming | B+R | 7.5 | 3:7 | 0 | 1 | 
 | 2019-10-17 | 第7回中国女子囲碁甲級リーグ第13節 | Chen Yiming | Rui Naiwei | B+R | 7.5 | 3:6 | 1 | 0 | 
 | 2019-05-31 | 第7回中国女子囲碁甲級リーグ第4節 | Rui Naiwei | Chen Yiming | B+R | 7.5 | 2:6 | 0 | 1 | 

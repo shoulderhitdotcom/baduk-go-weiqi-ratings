@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-04 | 第26回GSカルテックス杯プロ棋戦2回戦 | Park Geunho | Park Junghwan | Win | W+R | 6.5 | 
 | 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Tan Xiao | Park Junghwan | Win | W+1.5 | 6.5 | 
 | 2021-05-26 | 第4期韓国竜星戦2回戦 | Park Junghwan | Kim Junghyun | Win | B+R | 6.5 | 
 | 2021-05-24 | 第2期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Lee Changho | Win | B+R | 6.5 | 

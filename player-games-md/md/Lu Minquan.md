@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-04 | 第4回呉清源杯中国予選 | Lu Minquan | Rui Naiwei | Lose | W+R | 7.5 | 
 | 2021-06-01 | 第4回呉清源杯中国予選 | Wang Shuang | Lu Minquan | Win | W+R | 7.5 | 
 | 2021-05-31 | 第4回呉清源杯中国予選 | Lu Minquan | Wang Yubo | Win | B+1¾ | 7.5 | 
 | 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Lu Minquan |  | Win | B+R | 7.5 | 

@@ -5,211 +5,213 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
-| 第26回LG杯韓国予選 | Ko Keuntae | Kim Miri | W+7.5 | 2021-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ukboqn%2FyE26jkAjg8ZBK1A%3D%3D) | 
-| 第44期名人戦（韓国）敗者復活戦1回戦 | Han Seungjoo | Ko Keuntae | W+R | 2021-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iZ4%2FdXqmv5BsY5bUdBhX4g%3D%3D) | 
-| 第44期名人戦（韓国）1回戦 | Choi Jeong | Ko Keuntae | B+R | 2021-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RrVzcg6Of1L24B2FSqDZJw%3D%3D) | 
-| 第44期名人戦（韓国）予選 | Ko Keuntae | Jen Youngkyu | B+R | 2021-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LwPHjZ0pqfmCsRry6RGoUQ%3D%3D) | 
-| 第22回マキシムコーヒー杯入神最強戦1回戦 | Choi Jeong | Ko Keuntae | B+R | 2021-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3NFaMz0B9Sx62YfFuJCxbw%3D%3D) | 
-| 第25回LG杯韓国予選 | Ko Keuntae | Seol Hyunjun | W+R | 2020-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hr623ZrIMF6UZdbqNQ8ACQ%3D%3D) | 
-| 第25回LG杯韓国予選 | Ko Keuntae | missing | B+R | 2020-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k%2Bij8I%2BlU20SOo4%2Fjg7CeQ%3D%3D) | 
-| 第20回マキシムコーヒー杯入神最強戦2回戦 | Shin Minjun | Ko Keuntae | B+R | 2019-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SE0C6L%2Bhcysyvqh3dWd2Ow%3D%3D) | 
-| 第20回マキシムコーヒー杯入神最強戦1回戦 | Ko Keuntae | Weon Seongjin | B+R | 2019-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qh7Yg3CFhPgV%2FNTcrhzrwQ%3D%3D) | 
-| 第19回マキシムコーヒー杯入神最強戦1回戦 | Ko Keuntae | Kim Jiseok | W+R | 2018-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pPJ35GaPxP9dYkC%2F2trAfw%3D%3D) | 
-| 2016年フューチャーズリーグ | Park Kyuongkeun | Ko Keuntae | B+R | 2016-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f3P6Qri6dCULpekx9eVUPw%3D%3D) | 
-| 2016年フューチャーズリーグ | Ko Keuntae | Park Hyunsoo | B+R | 2016-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8VH0lPRgjX3rBQTSFsbVYQ%3D%3D) | 
-| 2016年フューチャーズリーグ | missing | Ko Keuntae | W+R | 2016-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H1XWlrKnn0ggHunmp2TzoQ%3D%3D) | 
-| 2016年フューチャーズリーグ | Ko Keuntae | Song Taekon | B+R | 2016-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fn%2FMHH%2Brh0ohL58X5%2B7Z%2BQ%3D%3D) | 
-| 2016年フューチャーズリーグ | Ko Keuntae | Kim Minho | B+R | 2016-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gsm3prqnpmxgIf2yg7gi1g%3D%3D) | 
-| 2016年フューチャーズリーグ | Lee Hyungjin | Ko Keuntae | B+R | 2016-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KTJ3kB60n9UQoRZPiwE%2FLw%3D%3D) | 
-| 2016年フューチャーズリーグ | Ko Keuntae | Hong Mujin | B+R | 2016-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QcFUSwdkd%2F0JmTfICWbJ%2Bw%3D%3D) | 
-| 2016年フューチャーズリーグ | Ko Keuntae | missing | B+R | 2016-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=67XbQvfXvlxbVZTPinSJSw%3D%3D) | 
-| 2016年フューチャーズリーグ | Ko Keuntae | Park Kyuongkeun | W+4.5 | 2016-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jhXmVjpP9qZhpPzqroC%2B4A%3D%3D) | 
-| 2016年韓国囲碁リーグ第9節 | Choi Jaeyoung | Ko Keuntae | B+R | 2016-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YU5w8t6bGf%2FFpqLzsLcc2w%3D%3D) | 
-| 2016年フューチャーズリーグ | Ko Keuntae | Park Hyunsoo | B+R | 2016-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wc09ErlubcRSoaXdQ%2BrrPA%3D%3D) | 
-| 2016年フューチャーズリーグ | Hong Minpyo | Ko Keuntae | B+R | 2016-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=es9zacmXDiFAzmDhuoYviA%3D%3D) | 
-| 2016年フューチャーズリーグ | Kim Daehee | Ko Keuntae | B+3.5 | 2016-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8LDnldLQme5S%2F%2F%2F1%2FlfByg%3D%3D) | 
-| 2016年フューチャーズリーグ | Hong Kipyo | Ko Keuntae | W+R | 2016-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qu1%2FIzYslkim7R0ENyb%2BXg%3D%3D) | 
-| 2016年韓国囲碁リーグ第3節 | Park Jinsol | Ko Keuntae | B+R | 2016-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R%2ByeZUr93WrZRi%2B1yWemgA%3D%3D) | 
-| 2016年フューチャーズリーグ | Ko Keuntae | missing | W+R | 2016-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=suz4vVYwtjINi%2Fn5FCC%2BHg%3D%3D) | 
-| 2016年フューチャーズリーグ | missing | Ko Keuntae | W+R | 2016-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nqwhZJw4jIrCMhKtJybplg%3D%3D) | 
-| 第35回KBS杯囲碁王戦1回戦 | Park Minkyu | Ko Keuntae | B+R | 2016-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tNqnKyPUet8yOCZBenBUtQ%3D%3D) | 
-| 2015年レッツランパーク杯オープントーナメント2回戦 | Ko Keuntae | missing | W+0.5 | 2015-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xKRlX%2Fs%2FVTZk3rYIaueR0Q%3D%3D) | 
-| 2015年フューチャーズリーグ | Ko Keuntae | Ryu Suhang | B+R | 2015-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FiTT0ZCBNsjkzfmrZfPrgQ%3D%3D) | 
-| 2015年レッツランパーク杯オープントーナメント1回戦 | Ko Keuntae | Lee Donghoon | B+R | 2015-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7IvjA8k8EydZTMwcb61hmQ%3D%3D) | 
-| 2015年フューチャーズリーグ | Ko Keuntae | Choi Jaeyoung | B+R | 2015-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EgqHVBtjQUWGIga9C8pPTQ%3D%3D) | 
-| 2015年フューチャーズリーグ | Ko Keuntae | missing | B+R | 2015-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xrJwAIrJaI%2FuFUJ3rYgPqg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Ko Keuntae | Park Cheongsang | W+R | 2015-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3IZIdc26g8thpAi3Guo5Mw%3D%3D) | 
-| 2015年フューチャーズリーグ | Park Geunho | Ko Keuntae | W+R | 2015-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F%2BwcbeGbOgqf532ilm8jLw%3D%3D) | 
-| 2015年フューチャーズリーグ | Ko Keuntae | Seol Hyunjun | B+0.5 | 2015-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8DAUwAA1STiWdIfNjnakJg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Ko Keuntae | Park Hamin | W+R | 2015-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jM6dqy3TUd7lFKtNuYV6Mw%3D%3D) | 
-| 2015年フューチャーズリーグ | missing | Ko Keuntae | W+12.5 | 2015-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jsOKThuW1X8UEiFF%2FwNAjw%3D%3D) | 
-| 2015年フューチャーズリーグ | Ko Keuntae | Park Younglong | W+R | 2015-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t5t8cvUZHDS6ZbEwCpj7dQ%3D%3D) | 
-| 2015年フューチャーズリーグ | Ko Keuntae | Kim Hwansoo | B+R | 2015-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qd%2BUB142I6EZ7KffV%2FhCYg%3D%3D) | 
-| 2015年フューチャーズリーグ | Ko Keuntae | Ryu Suhang | W+R | 2015-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KYoafFCG1ra5nnzj6FUp7A%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Yeonghun | Ko Keuntae | B+R | 2015-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T8fwOX5K1OeEfPIFCAyX9w%3D%3D) | 
-| 2015年フューチャーズリーグ | Park Junsuck | Ko Keuntae | W+R | 2015-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MAV1mgAWSSTOAZm44vCp3w%3D%3D) | 
-| 2015年フューチャーズリーグ | Ko Keuntae | missing | B+R | 2015-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=diMdWbgf%2FB302KgZFkpheA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Ko Keuntae | Min Sangyoun | W+R | 2015-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=htqPl8gqJMAmiVDywUF1dg%3D%3D) | 
-| 第20回LG杯朝鮮日報棋王戦1回戦 | Shi Yue | Ko Keuntae | B+R | 2015-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PqABGLrTK4ugLfnXIu17YQ%3D%3D) | 
-| 2015年フューチャーズリーグ | Ko Keuntae | Park Geunho | B+R | 2015-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xsE%2BpQqkkUAkoB%2Bb6hsmhA%3D%3D) | 
-| 2015年フューチャーズリーグ | Park Hamin | Ko Keuntae | W+R | 2015-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uoAYlkNk2nFfiYXvFAQ9tA%3D%3D) | 
-| 2015年フューチャーズリーグ | Park Jaekeun | Ko Keuntae | W+R | 2015-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yv28dyKtve0HsRXHmTs5FA%3D%3D) | 
-| 2015年フューチャーズリーグ | Yun Chanhee | Ko Keuntae | B+R | 2015-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dpQdb%2BsY3VgxOJSRikh3aA%3D%3D) | 
-| 2015年フューチャーズリーグ | missing | Ko Keuntae | B+R | 2015-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a9VXrwteYSWefEvYkEzpuw%3D%3D) | 
-| 2015年韓国囲碁リーグ | Ko Keuntae | Yun Junsang | W+R | 2015-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JikjojWvNSKSIhVJk5%2BAjA%3D%3D) | 
-| 第59期国手戦（韓国）予選 | Lee Jihyun | Ko Keuntae | B+R | 2015-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IKi4noJN%2FiawjWyW2vE77w%3D%3D) | 
-| 2014年フューチャーズリーグ | missing | Ko Keuntae | W+R | 2014-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tmd%2Fu1ROT6YUrXsbp3OpRQ%3D%3D) | 
-| 2014年フューチャーズリーグ | Ko Keuntae | Yun Chanhee | W+0.5 | 2014-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c%2FtltzhGIQ%2FRaHV2PQn8Ww%3D%3D) | 
-| 2014年フューチャーズリーグ | Ko Keuntae | missing | B+R | 2014-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6GujZPUpGOVHxGK3oG3B9A%3D%3D) | 
-| 2014年フューチャーズリーグ | Shin Yoonho | Ko Keuntae | B+R | 2014-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=guhh%2FefTmsdSfaqG07G8bA%3D%3D) | 
-| 2014年フューチャーズリーグ | Ko Keuntae | Seol Hyunjun | B+R | 2014-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BOOdb13%2BzScvP1V8r6ggPg%3D%3D) | 
-| 2014年フューチャーズリーグ | Park Junsuck | Ko Keuntae | W+R | 2014-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vtlN1oweD2uoxM8qpJQUXg%3D%3D) | 
-| 2014年フューチャーズリーグ | Ko Keuntae | Yang Wooseok | B+0.5 | 2014-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Wi9qAXQe4xaeQo4UaeyBg%3D%3D) | 
-| 2014年フューチャーズリーグ | Ko Keuntae | missing | B+R | 2014-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4LLvLIyGSWYffE7c0SDN2Q%3D%3D) | 
-| 第19期バッカス杯天元戦予選 | Byun Sangil | Ko Keuntae | B+R | 2014-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F0gAJ5u2X4x4aYCcpWdNlA%3D%3D) | 
-| 2014年フューチャーズリーグ | Ko Keuntae | Kang Seungmin | B+R | 2014-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UMGMPaMztU990D0H3yB%2Fig%3D%3D) | 
-| 2014年フューチャーズリーグ | Ko Keuntae | Park Junsuck | W+R | 2014-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lxvw4tLKTDZPwnJA0gZfeQ%3D%3D) | 
-| 2014年フューチャーズリーグ | Ko Keuntae | Park Jinsol | W+1.5 | 2014-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lc6LdAphLPs5jA3IfBectQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Ko Keuntae | Jin Siyoung | W+R | 2014-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=La3noD9SXUrIbiQaGYG1qg%3D%3D) | 
-| 2011年韓国囲碁リーグ | Ko Keuntae | An Joyeong | W+R | 2011-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=agGAK0798QCyUZv5BgVSzw%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Cheongsang | Ko Keuntae | W+R | 2011-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jojhSGhJDyXdVN3Z6ZJc1g%3D%3D) | 
-| 2011年韓国囲碁リーグ | Kim Kiwon | Ko Keuntae | B+R | 2011-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e%2B3m3MIgiKX%2FTmEPDiXTHg%3D%3D) | 
-| 2011年韓国囲碁リーグ | Hong Seongji | Ko Keuntae | W+4.5 | 2011-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yai8eB03xyl1z6NXOGxrWA%3D%3D) | 
-| 2011年韓国囲碁リーグ | Yun Junsang | Ko Keuntae | B+R | 2011-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=acCNE7LiqjP9qITP6d9gnA%3D%3D) | 
-| 2011年韓国囲碁リーグ | Ko Keuntae | Han Wonggyu | B+R | 2011-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=spwDSh4x5XTWd6KcLEq52Q%3D%3D) | 
-| 2011年韓国囲碁リーグ | Han Sanghoon | Ko Keuntae | W+R | 2011-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Edr2HRkbbA5QlG96xteFpw%3D%3D) | 
-| 2011年韓国囲碁リーグ | Lee Jihyun | Ko Keuntae | W+R | 2011-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rSKlPZDK9CcYOY9uvWew5w%3D%3D) | 
-| 2011年韓国囲碁リーグ | Ko Keuntae | Ahn Kukhyun | W+R | 2011-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hFqi8nLdJn7bwppaEkE3eQ%3D%3D) | 
-| 2011年韓国囲碁リーグ | Ko Keuntae | Paek Hongseok | W+0.5 | 2011-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lV05wAKgo%2FW6WogE7h2WiQ%3D%3D) | 
-| 第55期国手戦（韓国）1回戦 | Ko Keuntae | Weon Seongjin | W+R | 2011-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UgET%2FXTvK9fOYOqpTfVA6g%3D%3D) | 
-| 2011年韓国囲碁リーグ | Cho Hanseung | Ko Keuntae | B+R | 2011-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RdNckuFJYL7sw0H5O%2FPyCg%3D%3D) | 
-| 2011年韓国囲碁リーグ | Jin Siyoung | Ko Keuntae | B+1.5 | 2011-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FvDLSb9pvgIa%2FjOvTQjIrw%3D%3D) | 
-| 2011年韓国囲碁リーグ | Ko Keuntae | Han Wonggyu | B+1.5 | 2011-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9V41qFcZpxNrV%2F8HZVLWqw%3D%3D) | 
-| 第55期国手戦（韓国）予選 | Ko Keuntae | missing | B+R | 2011-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m0TO%2BEDP753PLWy7%2BI24mw%3D%3D) | 
-| 第16期GSカルテックス杯プロ棋戦1回戦 | missing | Ko Keuntae | B+R | 2011-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OE9bu0ZLx3CZ01ux89BkUg%3D%3D) | 
-| 第6期圓益杯十段戦予選 | Ko Keuntae | missing | W+R | 2010-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CdcnQMOpDjwYbgnJ5xlUKg%3D%3D) | 
-| 第54期国手戦（韓国）1回戦 | Ko Keuntae | Mok Jinseok | W+R | 2010-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ilul6Nt2Poawvds0jV5OTg%3D%3D) | 
-| 第15回三星火災杯統合予選決勝 | Ko Keuntae | Peng Quan | W+R | 2010-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hgOTBpzvMM2GupX%2FsDWfUg%3D%3D) | 
-| 第15回LG杯予選 | Peng Liyao | Ko Keuntae | B+R | 2010-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sub3Is1fbEigelgS%2BhbBHw%3D%3D) | 
-| 第29回KBS杯囲碁王戦本戦1回戦 | Park Yeonghun | Ko Keuntae | B+R | 2010-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x3ZkGzCk1ivT7Nd5GeIXVA%3D%3D) | 
-| 第15期GSカルテックス杯プロ棋戦1回戦 | Park Siyeol | Ko Keuntae | B+R | 2010-01-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y%2FkbES%2FW2x6jc%2BOjOea3Uw%3D%3D) | 
-| 2009年韓国囲碁リーグ | Ko Keuntae | missing | B+R | 2009-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fizyHkZGRf2J1W%2BgCIA4Fg%3D%3D) | 
-| 2009年韓国囲碁リーグ | Ko Keuntae | Kim Juho | W+R | 2009-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XkFfqpqqwNkBI9WVU8ttaA%3D%3D) | 
-| 2009年韓国囲碁リーグ | Ko Keuntae | Lee Taehyun | B+R | 2009-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jxfKSYo5OYnHgMPlT7OBhQ%3D%3D) | 
-| 2009年韓国囲碁リーグ | Ko Keuntae | Cho Hunhyun | B+R | 2009-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X%2BeY6Sm8JLkMfCcK7x4ZRA%3D%3D) | 
-| 2009年韓国囲碁リーグ | An Joyeong | Ko Keuntae | B+R | 2009-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ycc2xgOwtVWVFkJ2nWcZ1Q%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Yeongkyu | Ko Keuntae | B+3.5 | 2009-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5gVpTJUQyLQjjJbIdQkx8Q%3D%3D) | 
-| 第11回農心杯韓国選抜戦 | Ko Keuntae | Seo Bongsoo | W+R | 2009-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tOk7fotaPpw0Q9T8zD4tSw%3D%3D) | 
-| 2009年韓国囲碁リーグ | Park Cheongsang | Ko Keuntae | B+1.5 | 2009-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L4NXzHkn4RLJOY%2FSXyPTgA%3D%3D) | 
-| 2009年韓国囲碁リーグ | Ko Keuntae | Lee Chungyu | B+R | 2009-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TcSv4tmmrK%2B4v%2FMjNNONIQ%3D%3D) | 
-| 2009年韓国囲碁リーグ | Choi Myeonghun | Ko Keuntae | B+R | 2009-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OS1nlPJpZx6P%2FVtXqalBJg%3D%3D) | 
-| 2008年韓国囲碁リーグ | Ko Keuntae | Heo Yongho | B+1.5 | 2008-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fCY63LhBpnTHXX1qLy%2FI4A%3D%3D) | 
-| 2008年韓国囲碁リーグ | Ko Keuntae | Heo Yongho | W+R | 2008-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0a%2FOnNsaymqkIxb%2BnCsTow%3D%3D) | 
-| 2008年韓国囲碁リーグ | Ko Keuntae | Hong Minpyo | B+3.5 | 2008-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EgZUyZqUeRRQv4xc9Qi9Fg%3D%3D) | 
-| 2008年韓国囲碁リーグ | Ko Keuntae | Weon Seongjin | W+R | 2008-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2tQpz0Nv0CONNqvb6BCp3Q%3D%3D) | 
-| 第52期国手戦（韓国）2回戦 | Park Cheongsang | Ko Keuntae | B+R | 2008-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B%2BFy1adshrM8C6Kh96B%2Fvg%3D%3D) | 
-| 2008年韓国囲碁リーグ | Ko Keuntae | missing | B+R | 2008-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YlP3eL%2BgzvLwORYdznyykg%3D%3D) | 
-| 第52期国手戦（韓国）1回戦 | Ko Keuntae | Kim Kiyoung | B+1.5 | 2008-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fd58QSmZoIZDMxo0IxZo2A%3D%3D) | 
-| 2008年韓国囲碁リーグ | Cho Hyeyeon | Ko Keuntae | W+R | 2008-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PAp339%2FDhaMbS7%2Fht%2FSpqA%3D%3D) | 
-| 2008年韓国囲碁リーグ | Ko Keuntae | An Joyeong | W+R | 2008-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3iCglpi5fq9hn%2F8rY67XvQ%3D%3D) | 
-| 2008年韓国囲碁リーグ | Ko Keuntae | Kim Seongjae | B+1.5 | 2008-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0GkebxbuevCPHvyIpCa%2BwA%3D%3D) | 
-| 2008年韓国囲碁リーグ | missing | Ko Keuntae | W+R | 2008-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O3Ti3WdC0aYaxhuM4u8G3A%3D%3D) | 
-| 2008年韓国囲碁リーグ | Kim Hyeongwoo | Ko Keuntae | B+R | 2008-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LKXBbK%2Bu6T9mJWFUM8qO7g%3D%3D) | 
-| 2008年韓国囲碁リーグ | Choi Myeonghun | Ko Keuntae | W+R | 2008-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VY79PoShODBNCmGljFFOjA%3D%3D) | 
-| 2008年韓国囲碁リーグ | On Sojin | Ko Keuntae | B+0.5 | 2008-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1TiZcQGYYPP9xjWFm4LlzA%3D%3D) | 
-| 第3期圓益杯十段戦4回戦 | Lee Changho | Ko Keuntae | B+R | 2007-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z30TnuDVD6WaAIJS5fOtRg%3D%3D) | 
-| 2007年韓国囲碁リーグ | missing | Ko Keuntae | B+1.5 | 2007-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NKml6o%2F6HuuvxeFi3uqMWw%3D%3D) | 
-| 第3期圓益杯十段戦3回戦 | missing | Ko Keuntae | W+R | 2007-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uvVjeOHlelvamYSPLRabKw%3D%3D) | 
-| 2007年韓国囲碁リーグ | Ko Keuntae | Cho Hyeyeon | B+R | 2007-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jcSXSMzr6KcBwif7uBaswQ%3D%3D) | 
-| 2007年韓国囲碁リーグ | Ko Keuntae | Bae Junhee | B+R | 2007-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7DTQ7Nywr2plajyTClUg6Q%3D%3D) | 
-| 第3期圓益杯十段戦2回戦 | Heo Yongho | Ko Keuntae | W+2.5 | 2007-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OWHCMyE1mQI28PJ2XgnoaA%3D%3D) | 
-| 2007年韓国囲碁リーグ | Kim Seungjun | Ko Keuntae | W+R | 2007-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SKz7VE%2FQj1t2TekSJIBlNg%3D%3D) | 
-| 2007年韓国囲碁リーグ | Mok Jinseok | Ko Keuntae | B+R | 2007-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7REE0o4yQyDP7amDCkiSUQ%3D%3D) | 
-| 第3期圓益杯十段戦1回戦 | Ryu Chaehyeong | Ko Keuntae | W+R | 2007-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BrIus4OlnME9oZhaQeaMZA%3D%3D) | 
-| 2007年韓国囲碁リーグ | Ko Keuntae | Kim Juho | W+R | 2007-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s0nQvYB5%2BPPpz2rCSb5eBw%3D%3D) | 
-| 第12期バッカス杯天元戦2回戦 | Ko Keuntae | Kang Dongyun | W+R | 2007-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4wrTCmYyHK0Wwf8DzMaArA%3D%3D) | 
-| 2007年韓国囲碁リーグ | Kim Kiyoung | Ko Keuntae | B+R | 2007-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HCT5hPkjtyXl6l3fAw1lvA%3D%3D) | 
-| 2007年韓国囲碁リーグ | Ko Keuntae | Rui Naiwei | B+3.5 | 2007-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iJdjD8H0yJrMs8GeheESeQ%3D%3D) | 
-| 2007年韓国囲碁リーグ | Yun Junsang | Ko Keuntae | W+R | 2007-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CAYGIg3qKqxzCT%2FvDbgMMg%3D%3D) | 
-| 2007年韓国囲碁リーグ | Kim Jiseok | Ko Keuntae | W+1.5 | 2007-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9N26EXfy3TXhRfNFiPFedw%3D%3D) | 
-| 第12期バッカス杯天元戦1回戦 | Paek Hongseok | Ko Keuntae | W+R | 2007-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=znCzGIj4vyohK8xeKYWavQ%3D%3D) | 
-| 2007年韓国囲碁リーグ | Ko Keuntae | Cho Hanseung | W+R | 2007-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m%2B7cBGicwVD2d4DnqzK42g%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯1回戦 | Kong Jie | Ko Keuntae | B+R | 2007-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4nr6UlVC3HdgN%2BsLTpa02Q%3D%3D) | 
-| 2006年韓国囲碁リーグ | On Sojin | Ko Keuntae | W+0.5 | 2006-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O0oepmzVxJgNnoi2pGaDxw%3D%3D) | 
-| 2006年国際新鋭囲碁対抗戦第3戦 | Ko Keuntae | Piao Wenyao | W+R | 2006-11-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=89bNk2tvB8PTNxPDGmwndA%3D%3D) | 
-| 2006年国際新鋭囲碁対抗戦第2戦 | Ko Keuntae | Matsumoto Takehisa | B+7.5 | 2006-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ksVqvJO2OX9%2BYKUVAp70YA%3D%3D) | 
-| 2006年国際新鋭囲碁対抗戦第1戦 | Ko Keuntae | Chen Shiyuan | W+2.5 | 2006-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zhVHq6wSWlZUTalFXP2y4A%3D%3D) | 
-| 第10期SKガス杯新鋭プロ十傑戦五位決定戦 | Ko Keuntae | Jin Donggyu | W+1.5 | 2006-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G2uNExDaEvMJRvBQGOwNfg%3D%3D) | 
-| 2006年韓国囲碁リーグ | Park Yeonghun | Ko Keuntae | B+1.5 | 2006-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XgY6P5ZjLHjW2jgzGxQo5g%3D%3D) | 
-| 2006年韓国囲碁リーグ | Cho Hanseung | Ko Keuntae | W+R | 2006-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Iqed2hVPWC6jVSJT7GVp5Q%3D%3D) | 
-| 2006年韓国囲碁リーグ | Ko Keuntae | Kim Juho | W+R | 2006-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FTf0%2Ff3ecZV4T2NlpaK6KQ%3D%3D) | 
-| 第18期棋聖戦（韓国）1回戦 | Han Chongjin | Ko Keuntae | B+1.5 | 2006-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X%2BiCl5vYxeTF6CbaXgTtjw%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権2回戦 | Yu Bin | Ko Keuntae | B+R | 2006-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eAdV1COEDiFE6P042E%2BWHw%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権1回戦 | Ko Keuntae | Cho Chikun | B+R | 2006-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5%2B3csIaphv6a1um%2FY092Xw%3D%3D) | 
-| 2006年韓国囲碁リーグ | Ko Keuntae | An Joyeong | W+R | 2006-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0JR%2BAjyZQIIUR1RCvqFTEg%3D%3D) | 
-| 第10期SKガス杯新鋭プロ十傑戦リーグA | Ko Keuntae | Paek Hongseok | W+R | 2006-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OBC%2FkeXzLifAtAD%2BCX3I2w%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Hane Naoki | Ko Keuntae | B+R | 2006-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lzYRlbk15FSHZmVYoejODA%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Ko Keuntae | Luo Xihe | B+0.5 | 2006-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z3L7bZFeUVGIYED%2FrLRUWA%3D%3D) | 
-| 第10回中韓天元対抗戦第3局 | Ko Keuntae | Gu Li | B+R | 2006-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5j6BP1PC08VNH9kGunvIgg%3D%3D) | 
-| 第10回中韓天元対抗戦第2局 | Ko Keuntae | Gu Li | B+R | 2006-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KhffAU9S35uarvYQsuX%2BuQ%3D%3D) | 
-| 第10回中韓天元対抗戦第1局 | Gu Li | Ko Keuntae | B+7.5 | 2006-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vf%2BHJUTpgn4H3agxUTas1Q%3D%3D) | 
-| 2006年韓国囲碁リーグ | Ko Keuntae | missing | W+R | 2006-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SSTOpwb%2BLyWdYtIfcCZxoQ%3D%3D) | 
-| 第10期SKガス杯新鋭プロ十傑戦リーグA | On Sojin | Ko Keuntae | B+R | 2006-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l%2B8l9WD0EcJah2I27PSAcA%3D%3D) | 
-| 第25回KBS杯囲碁王戦敗者復活戦3回戦 | Lee Jaeung | Ko Keuntae | B+R | 2006-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ENcDK2Ss2a%2FTUa1oHYER%2BA%3D%3D) | 
-| 2006年韓国囲碁リーグ | Lee Jaeung | Ko Keuntae | W+0.5 | 2006-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ymHu2sH3kb300Z7FaKLRoA%3D%3D) | 
-| 第8回農心杯韓国選抜戦 | Ko Keuntae | Park Yeonghun | W+R | 2006-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XrvBIXS0Nwag2c3BJcjeRw%3D%3D) | 
-| 2006年韓国囲碁リーグ | missing | Ko Keuntae | W+R | 2006-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9QQqQDfP9%2FkU4aKdBb9usQ%3D%3D) | 
-| 2006年韓国囲碁リーグ | Ko Keuntae | Yun Junsang | W+R | 2006-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o2sWaLNhuJp9mUERpZkKJg%3D%3D) | 
-| 第11期バッカス杯天元戦1回戦 | Ko Keuntae | Heo Yongho | W+R | 2006-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SHCIFOC4sxzpx6mBhMno%2Fg%3D%3D) | 
-| 2006年韓国囲碁リーグ | Kim Seonryong | Ko Keuntae | B+R | 2006-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vB%2BuC9ui9H2U3Za82j4SKA%3D%3D) | 
-| 第10期SKガス杯新鋭プロ十傑戦リーグA | Ko Keuntae | Kim Kiyoung | B+11.5 | 2006-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lhg8ps%2F5ISR6dq2EgVjVxg%3D%3D) | 
-| 第6期オスラムコリア杯新鋭連勝最強戦第12戦 | Yun Junsang | Ko Keuntae | B+R | 2006-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w0F2uFdLQF139tdPYTkbwA%3D%3D) | 
-| 2006年韓国囲碁リーグ | Ko Keuntae | missing | W+1.5 | 2006-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RftzZuBEQwYlYKthPb4CUQ%3D%3D) | 
-| 第11回LG杯世界棋王戦2回戦 | Gu Li | Ko Keuntae | B+R | 2006-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=murs4%2BTqpeuDjW5p72ey4g%3D%3D) | 
-| 第11回LG杯世界棋王戦1回戦 | Ko Keuntae | Wang Xi | B+R | 2006-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5qUUef0howoQUEn1YqnROQ%3D%3D) | 
-| 2006年韓国囲碁リーグ | Ko Keuntae | Kim Seungjun | W+R | 2006-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hM%2BZm2hLL%2BaAlaxDX7VvTQ%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第3戦 | Kong Jie | Ko Keuntae | B+R | 2006-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bVq32EG0%2F%2BDitYwCyk5mYA%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第2戦 | Ko Keuntae | Chen Shiyuan | B+R | 2006-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WSChEW0QlAdlYPGNFyDr%2BQ%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第1戦 | Yuki Satoshi | Ko Keuntae | W+R | 2006-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jD2KOLPd3Bvz47G87JMF6g%3D%3D) | 
-| 2006年韓国囲碁リーグ | Ko Keuntae | Park Yeonghun | B+2.5 | 2006-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kT0oJnWLCD9mbUSxjAQt%2BQ%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯1回戦 | Ko Keuntae | Zhou Heyang | W+R | 2006-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bz%2FzL06kpll%2FY%2FsCCnMfHg%3D%3D) | 
-| 第10期SKガス杯新鋭プロ十傑戦リーグA | missing | Ko Keuntae | W+R | 2006-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jkBzrx7t9BSmXkDCTYPKYg%3D%3D) | 
-| 第6回春蘭杯世界囲碁選手権2回戦 | Peng Quan | Ko Keuntae | B+3.5 | 2006-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Csa%2BTUcEE7swKcItGwaueQ%3D%3D) | 
-| 第6回春蘭杯世界囲碁選手権1回戦 | Michael Redmond | Ko Keuntae | W+2.5 | 2006-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qCZ%2FJl6xRs%2Bk0JSuQ4JYaw%3D%3D) | 
-| 第25回KBS杯囲碁王戦本戦1回戦 | Hong Minpyo | Ko Keuntae | W+R | 2006-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=63NqnD2DzYc8e%2F2%2FIkqnkQ%3D%3D) | 
-| 第10期SKガス杯新鋭プロ十傑戦リーグA | Lee Minjin | Ko Keuntae | W+R | 2006-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N7pt9DjWJiOQUHdUUzHYig%3D%3D) | 
-| 第10期バッカス杯天元戦決勝五番勝負第4局 | missing | Ko Keuntae | W+R | 2005-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=up2RL5HnU9ttg8dSi3smsA%3D%3D) | 
-| 第10期バッカス杯天元戦決勝五番勝負第3局 | Ko Keuntae | missing | W+2.5 | 2005-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=riE%2Fgv99745SjWkXPu%2B0dQ%3D%3D) | 
-| 第10期バッカス杯天元戦決勝五番勝負第2局 | missing | Ko Keuntae | W+0.5 | 2005-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=riaAn2VpQWLjGmb%2FPRagLQ%3D%3D) | 
-| 第10期バッカス杯天元戦決勝五番勝負第1局 | Ko Keuntae | missing | B+0.5 | 2005-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XeQNi6n8EsxcZ%2Bsz9v8QHg%3D%3D) | 
-| 第9期SKガス杯新鋭プロ十傑戦決勝三番勝負第2局 | Kang Dongyun | Ko Keuntae | B+R | 2005-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tAk%2FDByBQfJE1EcXXqklyA%3D%3D) | 
-| 第9期SKガス杯新鋭プロ十傑戦決勝三番勝負第1局 | Ko Keuntae | Kang Dongyun | W+R | 2005-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q60tj%2Fl8X4i0pQqnvxwhpw%3D%3D) | 
-| 第10期バッカス杯天元戦準決勝 | An Joyeong | Ko Keuntae | W+R | 2005-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ICzdDQcg5GzMMdI%2F9YIu1A%3D%3D) | 
-| 第9期SKガス杯新鋭プロ十傑戦リーグBプレーオフ | Park Shiun | Ko Keuntae | W+R | 2005-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xmetnhPd4OYfWscdfTCpqQ%3D%3D) | 
-| 第10期バッカス杯天元戦2回戦 | Cho Hunhyun | Ko Keuntae | W+R | 2005-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jmStGd%2Fu1HQr2SYXdYjxkw%3D%3D) | 
-| 第10回三星火災杯予選決勝 | Ko Keuntae | Lee Huiseong | W+R | 2005-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jJTpNXiCxxoulpbifgIGKg%3D%3D) | 
-| 第9期SKガス杯新鋭プロ十傑戦リーグB | Park Byeongkyu | Ko Keuntae | W+12.5 | 2005-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4s7P8e1Z873GAcn4KUHHhg%3D%3D) | 
-| 第5期オスラムコリア杯新鋭連勝最強戦第24戦 | Yoo Jaeho | Ko Keuntae | W+R | 2005-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V1zjN6b1VIlgSMA%2FTBcdjQ%3D%3D) | 
-| 第9期SKガス杯新鋭プロ十傑戦リーグB | Ko Keuntae | Yun Jaewung | B+R | 2005-05-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L7F9%2FcgdLW5gfkg%2Fl2xuBg%3D%3D) | 
-| 第10期バッカス杯天元戦1回戦 | Ko Keuntae | Lee Sedol | B+R | 2005-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sd5uL%2FtDJLGaWizoC3DoQA%3D%3D) | 
-| 第15期BCカード杯新人王戦 | Park Yeonghun | Ko Keuntae | B+1.5 | 2005-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N%2BN%2B93%2BJDo%2FZjy3NbOocJw%3D%3D) | 
-| 第15期BCカード杯新人王戦 | Lee Yeongkyu | Ko Keuntae | W+R | 2005-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=syUEYcxxeS867I2DMxw4SA%3D%3D) | 
-| 第15期BCカード杯新人王戦 | Ko Keuntae | Heo Yongho | B+2.5 | 2005-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l3dIETZkvmZwD4spKf99Cg%3D%3D) | 
-| 第9期SKガス杯新鋭プロ十傑戦リーグB | Ko Keuntae | Park Shiun | W+8.5 | 2005-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fVW9z0zDUJjWW3T%2B9KunZQ%3D%3D) | 
-| 第4期オスラムコリア杯新鋭連勝最強戦決勝三番勝負第2局 | Lee Huiseong | Ko Keuntae | B+3.5 | 2004-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eYgtTI6q4wL2ItUlSSG0%2Bg%3D%3D) | 
-| 第4期オスラムコリア杯新鋭連勝最強戦決勝三番勝負第1局 | Ko Keuntae | Lee Huiseong | W+R | 2004-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kkxi1Gt6Wd8eMcPKsNY8VA%3D%3D) | 
-| 第4期オスラムコリア杯新鋭連勝最強戦 | Ko Keuntae | Park Cheongsang | B+R | 2004-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U%2BjuucVraltrU7i0UaGaEA%3D%3D) | 
-| 第9回三星火災杯予選決勝 | Ko Keuntae | Choi Kyubyeong | W+R | 2004-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D8yC59eKnvdMUOqkuG1Mgg%3D%3D) | 
-| 第9期バッカス杯天元戦1回戦 | Ko Keuntae | Rui Naiwei | W+3.5 | 2004-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h8lltU2p3Sb4jW3MZ1fiGA%3D%3D) | 
-| 第4期オスラムコリア杯新鋭連勝最強戦 | Kim Hwansoo | Ko Keuntae | W+R | 2004-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Utm6KxkwtJFsNsx6m1DTbA%3D%3D) | 
-| 第4期オスラムコリア杯新鋭連勝最強戦 | Ko Keuntae | Yun Jaewung | W+R | 2004-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P73%2B0WQ%2FhMD6dq7YPqIW%2BQ%3D%3D) | 
-| 第4期オスラムコリア杯新鋭連勝最強戦 | Ko Keuntae | Yun Hyuk | B+R | 2004-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Vxr3Zp9p8LOcPBzdoI5%2Fg%3D%3D) | 
-| 第4期オスラムコリア杯新鋭連勝最強戦 | Kang Dongyun | Ko Keuntae | W+R | 2004-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ffU%2FShWE20BMO2%2Fkj2GaYQ%3D%3D) | 
-| 第4期オスラムコリア杯新鋭連勝最強戦 | Lee Yeongkyu | Ko Keuntae | W+R | 2004-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NWkk%2BI%2BGDwtPYZr%2FoSao1g%3D%3D) | 
-| 第47期国手戦（韓国）敗者復活戦1回戦 | Ko Keuntae | An Joyeong | W+1.5 | 2003-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZwmYtplXBDYZh9llICvhkA%3D%3D) | 
-| 第47期国手戦（韓国）本戦1回戦 | Paek Daehyun | Ko Keuntae | B+R | 2003-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GY4Ltwu278zLKPtL3AdINQ%3D%3D) |
+| 2021-06-04 | 第44期名人戦（韓国）敗者復活戦3回戦 | Ko Keuntae | Shin Jinseo | Lose | W+R | 6.5 | 
+| 2021-05-29 | 第44期名人戦（韓国）敗者復活戦2回戦 | Ko Keuntae | An Sungjoon | Win | B+5.5 | 6.5 | 
+| 2021-04-28 | 第26回LG杯韓国予選 | Ko Keuntae | Kim Miri | Lose | W+7.5 | 6.5 | 
+| 2021-04-09 | 第44期名人戦（韓国）敗者復活戦1回戦 | Han Seungjoo | Ko Keuntae | Win | W+R | 6.5 | 
+| 2021-02-19 | 第44期名人戦（韓国）1回戦 | Choi Jeong | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2021-01-22 | 第44期名人戦（韓国）予選 | Ko Keuntae | Jen Youngkyu | Win | B+R | 6.5 | 
+| 2021-01-19 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Choi Jeong | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2020-04-22 | 第25回LG杯韓国予選 | Ko Keuntae | Seol Hyunjun | Lose | W+R | 6.5 | 
+| 2020-04-14 | 第25回LG杯韓国予選 | Ko Keuntae |  | Win | B+R | 6.5 | 
+| 2019-02-19 | 第20回マキシムコーヒー杯入神最強戦2回戦 | Shin Minjun | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2019-01-08 | 第20回マキシムコーヒー杯入神最強戦1回戦 | Ko Keuntae | Weon Seongjin | Win | B+R | 6.5 | 
+| 2018-01-16 | 第19回マキシムコーヒー杯入神最強戦1回戦 | Ko Keuntae | Kim Jiseok | Lose | W+R | 6.5 | 
+| 2016-10-29 | 2016年フューチャーズリーグ | Park Kyuongkeun | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2016-10-15 | 2016年フューチャーズリーグ | Ko Keuntae | Park Hyunsoo | Win | B+R | 6.5 | 
+| 2016-10-08 | 2016年フューチャーズリーグ |  | Ko Keuntae | Win | W+R | 6.5 | 
+| 2016-10-05 | 2016年フューチャーズリーグ | Ko Keuntae | Song Taekon | Win | B+R | 6.5 | 
+| 2016-09-24 | 2016年フューチャーズリーグ | Ko Keuntae | Kim Minho | Win | B+R | 6.5 | 
+| 2016-09-03 | 2016年フューチャーズリーグ | Lee Hyungjin | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2016-08-31 | 2016年フューチャーズリーグ | Ko Keuntae | Hong Mujin | Win | B+R | 6.5 | 
+| 2016-08-20 | 2016年フューチャーズリーグ | Ko Keuntae |  | Win | B+R | 6.5 | 
+| 2016-08-13 | 2016年フューチャーズリーグ | Ko Keuntae | Park Kyuongkeun | Lose | W+4.5 | 6.5 | 
+| 2016-08-12 | 2016年韓国囲碁リーグ第9節 | Choi Jaeyoung | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2016-07-31 | 2016年フューチャーズリーグ | Ko Keuntae | Park Hyunsoo | Win | B+R | 6.5 | 
+| 2016-07-09 | 2016年フューチャーズリーグ | Hong Minpyo | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2016-06-26 | 2016年フューチャーズリーグ | Kim Daehee | Ko Keuntae | Lose | B+3.5 | 6.5 | 
+| 2016-06-12 | 2016年フューチャーズリーグ | Hong Kipyo | Ko Keuntae | Win | W+R | 6.5 | 
+| 2016-06-11 | 2016年韓国囲碁リーグ第3節 | Park Jinsol | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2016-06-04 | 2016年フューチャーズリーグ | Ko Keuntae |  | Lose | W+R | 6.5 | 
+| 2016-05-22 | 2016年フューチャーズリーグ |  | Ko Keuntae | Win | W+R | 6.5 | 
+| 2016-03-21 | 第35回KBS杯囲碁王戦1回戦 | Park Minkyu | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2015-10-14 | 2015年レッツランパーク杯オープントーナメント2回戦 | Ko Keuntae |  | Lose | W+0.5 | 6.5 | 
+| 2015-10-11 | 2015年フューチャーズリーグ | Ko Keuntae | Ryu Suhang | Win | B+R | 6.5 | 
+| 2015-10-08 | 2015年レッツランパーク杯オープントーナメント1回戦 | Ko Keuntae | Lee Donghoon | Win | B+R | 6.5 | 
+| 2015-09-19 | 2015年フューチャーズリーグ | Ko Keuntae | Choi Jaeyoung | Win | B+R | 6.5 | 
+| 2015-09-05 | 2015年フューチャーズリーグ | Ko Keuntae |  | Win | B+R | 6.5 | 
+| 2015-09-04 | 2015年韓国囲碁リーグ | Ko Keuntae | Park Cheongsang | Lose | W+R | 6.5 | 
+| 2015-08-30 | 2015年フューチャーズリーグ | Park Geunho | Ko Keuntae | Win | W+R | 6.5 | 
+| 2015-08-26 | 2015年フューチャーズリーグ | Ko Keuntae | Seol Hyunjun | Win | B+0.5 | 6.5 | 
+| 2015-08-23 | 2015年韓国囲碁リーグ | Ko Keuntae | Park Hamin | Lose | W+R | 6.5 | 
+| 2015-08-21 | 2015年フューチャーズリーグ |  | Ko Keuntae | Win | W+12.5 | 6.5 | 
+| 2015-07-25 | 2015年フューチャーズリーグ | Ko Keuntae | Park Younglong | Lose | W+R | 6.5 | 
+| 2015-07-22 | 2015年フューチャーズリーグ | Ko Keuntae | Kim Hwansoo | Win | B+R | 6.5 | 
+| 2015-07-04 | 2015年フューチャーズリーグ | Ko Keuntae | Ryu Suhang | Lose | W+R | 6.5 | 
+| 2015-07-02 | 2015年韓国囲碁リーグ | Park Yeonghun | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2015-06-24 | 2015年フューチャーズリーグ | Park Junsuck | Ko Keuntae | Win | W+R | 6.5 | 
+| 2015-06-14 | 2015年フューチャーズリーグ | Ko Keuntae |  | Win | B+R | 6.5 | 
+| 2015-06-13 | 2015年韓国囲碁リーグ | Ko Keuntae | Min Sangyoun | Lose | W+R | 6.5 | 
+| 2015-06-08 | 第20回LG杯朝鮮日報棋王戦1回戦 | Shi Yue | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2015-05-30 | 2015年フューチャーズリーグ | Ko Keuntae | Park Geunho | Win | B+R | 6.5 | 
+| 2015-05-16 | 2015年フューチャーズリーグ | Park Hamin | Ko Keuntae | Win | W+R | 6.5 | 
+| 2015-05-13 | 2015年フューチャーズリーグ | Park Jaekeun | Ko Keuntae | Win | W+R | 6.5 | 
+| 2015-05-03 | 2015年フューチャーズリーグ | Yun Chanhee | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2015-04-25 | 2015年フューチャーズリーグ |  | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2015-04-24 | 2015年韓国囲碁リーグ | Ko Keuntae | Yun Junsang | Lose | W+R | 6.5 | 
+| 2015-03-20 | 第59期国手戦（韓国）予選 | Lee Jihyun | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2014-11-04 | 2014年フューチャーズリーグ |  | Ko Keuntae | Win | W+R | 6.5 | 
+| 2014-10-26 | 2014年フューチャーズリーグ | Ko Keuntae | Yun Chanhee | Lose | W+0.5 | 6.5 | 
+| 2014-10-12 | 2014年フューチャーズリーグ | Ko Keuntae |  | Win | B+R | 6.5 | 
+| 2014-09-27 | 2014年フューチャーズリーグ | Shin Yoonho | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2014-09-06 | 2014年フューチャーズリーグ | Ko Keuntae | Seol Hyunjun | Win | B+R | 6.5 | 
+| 2014-08-24 | 2014年フューチャーズリーグ | Park Junsuck | Ko Keuntae | Win | W+R | 6.5 | 
+| 2014-07-27 | 2014年フューチャーズリーグ | Ko Keuntae | Yang Wooseok | Win | B+0.5 | 6.5 | 
+| 2014-07-13 | 2014年フューチャーズリーグ | Ko Keuntae |  | Win | B+R | 6.5 | 
+| 2014-05-26 | 第19期バッカス杯天元戦予選 | Byun Sangil | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2014-05-25 | 2014年フューチャーズリーグ | Ko Keuntae | Kang Seungmin | Win | B+R | 6.5 | 
+| 2014-05-03 | 2014年フューチャーズリーグ | Ko Keuntae | Park Junsuck | Lose | W+R | 6.5 | 
+| 2014-04-26 | 2014年フューチャーズリーグ | Ko Keuntae | Park Jinsol | Lose | W+1.5 | 6.5 | 
+| 2014-04-24 | 2014年韓国囲碁リーグ | Ko Keuntae | Jin Siyoung | Lose | W+R | 6.5 | 
+| 2011-11-13 | 2011年韓国囲碁リーグ | Ko Keuntae | An Joyeong | Lose | W+R | 6.5 | 
+| 2011-10-28 | 2011年韓国囲碁リーグ | Park Cheongsang | Ko Keuntae | Win | W+R | 6.5 | 
+| 2011-10-23 | 2011年韓国囲碁リーグ | Kim Kiwon | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2011-09-21 | 2011年韓国囲碁リーグ | Hong Seongji | Ko Keuntae | Win | W+4.5 | 6.5 | 
+| 2011-09-15 | 2011年韓国囲碁リーグ | Yun Junsang | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2011-09-04 | 2011年韓国囲碁リーグ | Ko Keuntae | Han Wonggyu | Win | B+R | 6.5 | 
+| 2011-08-05 | 2011年韓国囲碁リーグ | Han Sanghoon | Ko Keuntae | Win | W+R | 6.5 | 
+| 2011-07-24 | 2011年韓国囲碁リーグ | Lee Jihyun | Ko Keuntae | Win | W+R | 6.5 | 
+| 2011-07-15 | 2011年韓国囲碁リーグ | Ko Keuntae | Ahn Kukhyun | Lose | W+R | 6.5 | 
+| 2011-07-02 | 2011年韓国囲碁リーグ | Ko Keuntae | Paek Hongseok | Lose | W+0.5 | 6.5 | 
+| 2011-06-23 | 第55期国手戦（韓国）1回戦 | Ko Keuntae | Weon Seongjin | Lose | W+R | 6.5 | 
+| 2011-06-19 | 2011年韓国囲碁リーグ | Cho Hanseung | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2011-06-04 | 2011年韓国囲碁リーグ | Jin Siyoung | Ko Keuntae | Lose | B+1.5 | 6.5 | 
+| 2011-05-22 | 2011年韓国囲碁リーグ | Ko Keuntae | Han Wonggyu | Win | B+1.5 | 6.5 | 
+| 2011-05-09 | 第55期国手戦（韓国）予選 | Ko Keuntae |  | Win | B+R | 6.5 | 
+| 2011-01-24 | 第16期GSカルテックス杯プロ棋戦1回戦 |  | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2010-09-13 | 第6期圓益杯十段戦予選 | Ko Keuntae |  | Lose | W+R | 6.5 | 
+| 2010-08-20 | 第54期国手戦（韓国）1回戦 | Ko Keuntae | Mok Jinseok | Lose | W+R | 6.5 | 
+| 2010-08-06 | 第15回三星火災杯統合予選決勝 | Ko Keuntae | Peng Quan | Lose | W+R | 6.5 | 
+| 2010-04-19 | 第15回LG杯予選 | Peng Liyao | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2010-03-22 | 第29回KBS杯囲碁王戦本戦1回戦 | Park Yeonghun | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2010-01-04 | 第15期GSカルテックス杯プロ棋戦1回戦 | Park Siyeol | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2009-10-30 | 2009年韓国囲碁リーグ | Ko Keuntae |  | Win | B+R | 6.5 | 
+| 2009-10-17 | 2009年韓国囲碁リーグ | Ko Keuntae | Kim Juho | Lose | W+R | 6.5 | 
+| 2009-10-09 | 2009年韓国囲碁リーグ | Ko Keuntae | Lee Taehyun | Win | B+R | 6.5 | 
+| 2009-09-16 | 2009年韓国囲碁リーグ | Ko Keuntae | Cho Hunhyun | Win | B+R | 6.5 | 
+| 2009-08-21 | 2009年韓国囲碁リーグ | An Joyeong | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2009-07-25 | 2009年韓国囲碁リーグ | Lee Yeongkyu | Ko Keuntae | Lose | B+3.5 | 6.5 | 
+| 2009-07-22 | 第11回農心杯韓国選抜戦 | Ko Keuntae | Seo Bongsoo | Lose | W+R | 6.5 | 
+| 2009-07-17 | 2009年韓国囲碁リーグ | Park Cheongsang | Ko Keuntae | Lose | B+1.5 | 6.5 | 
+| 2009-06-19 | 2009年韓国囲碁リーグ | Ko Keuntae | Lee Chungyu | Win | B+R | 6.5 | 
+| 2009-05-22 | 2009年韓国囲碁リーグ | Choi Myeonghun | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2008-12-06 | 2008年韓国囲碁リーグ | Ko Keuntae | Heo Yongho | Win | B+1.5 | 6.5 | 
+| 2008-12-03 | 2008年韓国囲碁リーグ | Ko Keuntae | Heo Yongho | Lose | W+R | 6.5 | 
+| 2008-10-30 | 2008年韓国囲碁リーグ | Ko Keuntae | Hong Minpyo | Win | B+3.5 | 6.5 | 
+| 2008-10-24 | 2008年韓国囲碁リーグ | Ko Keuntae | Weon Seongjin | Lose | W+R | 6.5 | 
+| 2008-10-02 | 第52期国手戦（韓国）2回戦 | Park Cheongsang | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2008-09-21 | 2008年韓国囲碁リーグ | Ko Keuntae |  | Win | B+R | 6.5 | 
+| 2008-09-10 | 第52期国手戦（韓国）1回戦 | Ko Keuntae | Kim Kiyoung | Win | B+1.5 | 6.5 | 
+| 2008-09-01 | 2008年韓国囲碁リーグ | Cho Hyeyeon | Ko Keuntae | Win | W+R | 6.5 | 
+| 2008-08-08 | 2008年韓国囲碁リーグ | Ko Keuntae | An Joyeong | Lose | W+R | 6.5 | 
+| 2008-07-04 | 2008年韓国囲碁リーグ | Ko Keuntae | Kim Seongjae | Win | B+1.5 | 6.5 | 
+| 2008-05-25 | 2008年韓国囲碁リーグ |  | Ko Keuntae | Win | W+R | 6.5 | 
+| 2008-05-09 | 2008年韓国囲碁リーグ | Kim Hyeongwoo | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2008-05-02 | 2008年韓国囲碁リーグ | Choi Myeonghun | Ko Keuntae | Win | W+R | 6.5 | 
+| 2008-04-18 | 2008年韓国囲碁リーグ | On Sojin | Ko Keuntae | Lose | B+0.5 | 6.5 | 
+| 2007-12-06 | 第3期圓益杯十段戦4回戦 | Lee Changho | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2007-11-14 | 2007年韓国囲碁リーグ |  | Ko Keuntae | Lose | B+1.5 | 6.5 | 
+| 2007-11-12 | 第3期圓益杯十段戦3回戦 |  | Ko Keuntae | Win | W+R | 6.5 | 
+| 2007-10-19 | 2007年韓国囲碁リーグ | Ko Keuntae | Cho Hyeyeon | Win | B+R | 6.5 | 
+| 2007-10-04 | 2007年韓国囲碁リーグ | Ko Keuntae | Bae Junhee | Win | B+R | 6.5 | 
+| 2007-10-01 | 第3期圓益杯十段戦2回戦 | Heo Yongho | Ko Keuntae | Win | W+2.5 | 6.5 | 
+| 2007-09-23 | 2007年韓国囲碁リーグ | Kim Seungjun | Ko Keuntae | Win | W+R | 6.5 | 
+| 2007-08-22 | 2007年韓国囲碁リーグ | Mok Jinseok | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2007-08-08 | 第3期圓益杯十段戦1回戦 | Ryu Chaehyeong | Ko Keuntae | Win | W+R | 6.5 | 
+| 2007-07-27 | 2007年韓国囲碁リーグ | Ko Keuntae | Kim Juho | Lose | W+R | 6.5 | 
+| 2007-07-19 | 第12期バッカス杯天元戦2回戦 | Ko Keuntae | Kang Dongyun | Lose | W+R | 6.5 | 
+| 2007-07-11 | 2007年韓国囲碁リーグ | Kim Kiyoung | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2007-06-27 | 2007年韓国囲碁リーグ | Ko Keuntae | Rui Naiwei | Win | B+3.5 | 6.5 | 
+| 2007-06-08 | 2007年韓国囲碁リーグ | Yun Junsang | Ko Keuntae | Win | W+R | 6.5 | 
+| 2007-05-27 | 2007年韓国囲碁リーグ | Kim Jiseok | Ko Keuntae | Win | W+1.5 | 6.5 | 
+| 2007-05-11 | 第12期バッカス杯天元戦1回戦 | Paek Hongseok | Ko Keuntae | Win | W+R | 6.5 | 
+| 2007-05-05 | 2007年韓国囲碁リーグ | Ko Keuntae | Cho Hanseung | Lose | W+R | 6.5 | 
+| 2007-04-14 | 第20回世界囲碁選手権富士通杯1回戦 | Kong Jie | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2006-11-19 | 2006年韓国囲碁リーグ | On Sojin | Ko Keuntae | Win | W+0.5 | 6.5 | 
+| 2006-11-15 | 2006年国際新鋭囲碁対抗戦第3戦 | Ko Keuntae | Piao Wenyao | Lose | W+R | 7.5 | 
+| 2006-11-14 | 2006年国際新鋭囲碁対抗戦第2戦 | Ko Keuntae | Matsumoto Takehisa | Win | B+7.5 | 7.5 | 
+| 2006-11-13 | 2006年国際新鋭囲碁対抗戦第1戦 | Ko Keuntae | Chen Shiyuan | Lose | W+2.5 | 7.5 | 
+| 2006-11-09 | 第10期SKガス杯新鋭プロ十傑戦五位決定戦 | Ko Keuntae | Jin Donggyu | Lose | W+1.5 | 6.5 | 
+| 2006-11-05 | 2006年韓国囲碁リーグ | Park Yeonghun | Ko Keuntae | Lose | B+1.5 | 6.5 | 
+| 2006-10-20 | 2006年韓国囲碁リーグ | Cho Hanseung | Ko Keuntae | Win | W+R | 6.5 | 
+| 2006-09-21 | 2006年韓国囲碁リーグ | Ko Keuntae | Kim Juho | Lose | W+R | 6.5 | 
+| 2006-09-14 | 第18期棋聖戦（韓国）1回戦 | Han Chongjin | Ko Keuntae | Lose | B+1.5 | 6.5 | 
+| 2006-09-08 | 第11回三星火災杯世界オープン囲碁選手権2回戦 | Yu Bin | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2006-09-06 | 第11回三星火災杯世界オープン囲碁選手権1回戦 | Ko Keuntae | Cho Chikun | Win | B+R | 6.5 | 
+| 2006-09-03 | 2006年韓国囲碁リーグ | Ko Keuntae | An Joyeong | Lose | W+R | 6.5 | 
+| 2006-08-31 | 第10期SKガス杯新鋭プロ十傑戦リーグA | Ko Keuntae | Paek Hongseok | Lose | W+R | 6.5 | 
+| 2006-08-28 | 第3期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Hane Naoki | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2006-08-26 | 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Ko Keuntae | Luo Xihe | Win | B+0.5 | 6.5 | 
+| 2006-08-21 | 第10回中韓天元対抗戦第3局 | Ko Keuntae | Gu Li | Win | B+R | 6.5 | 
+| 2006-08-20 | 第10回中韓天元対抗戦第2局 | Ko Keuntae | Gu Li | Win | B+R | 6.5 | 
+| 2006-08-18 | 第10回中韓天元対抗戦第1局 | Gu Li | Ko Keuntae | Lose | B+7.5 | 6.5 | 
+| 2006-08-04 | 2006年韓国囲碁リーグ | Ko Keuntae |  | Lose | W+R | 6.5 | 
+| 2006-08-02 | 第10期SKガス杯新鋭プロ十傑戦リーグA | On Sojin | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2006-07-24 | 第25回KBS杯囲碁王戦敗者復活戦3回戦 | Lee Jaeung | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2006-07-22 | 2006年韓国囲碁リーグ | Lee Jaeung | Ko Keuntae | Win | W+0.5 | 6.5 | 
+| 2006-07-21 | 第8回農心杯韓国選抜戦 | Ko Keuntae | Park Yeonghun | Lose | W+R | 6.5 | 
+| 2006-07-06 | 2006年韓国囲碁リーグ |  | Ko Keuntae | Win | W+R | 6.5 | 
+| 2006-06-29 | 2006年韓国囲碁リーグ | Ko Keuntae | Yun Junsang | Lose | W+R | 6.5 | 
+| 2006-06-26 | 第11期バッカス杯天元戦1回戦 | Ko Keuntae | Heo Yongho | Lose | W+R | 6.5 | 
+| 2006-06-18 | 2006年韓国囲碁リーグ | Kim Seonryong | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2006-06-14 | 第10期SKガス杯新鋭プロ十傑戦リーグA | Ko Keuntae | Kim Kiyoung | Win | B+11.5 | 6.5 | 
+| 2006-06-13 | 第6期オスラムコリア杯新鋭連勝最強戦第12戦 | Yun Junsang | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2006-05-18 | 2006年韓国囲碁リーグ | Ko Keuntae |  | Lose | W+1.5 | 6.5 | 
+| 2006-05-17 | 第11回LG杯世界棋王戦2回戦 | Gu Li | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2006-05-15 | 第11回LG杯世界棋王戦1回戦 | Ko Keuntae | Wang Xi | Win | B+R | 6.5 | 
+| 2006-05-05 | 2006年韓国囲碁リーグ | Ko Keuntae | Kim Seungjun | Lose | W+R | 6.5 | 
+| 2006-05-03 | 第5回CSK杯囲碁アジア対抗戦第3戦 | Kong Jie | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2006-05-02 | 第5回CSK杯囲碁アジア対抗戦第2戦 | Ko Keuntae | Chen Shiyuan | Win | B+R | 6.5 | 
+| 2006-05-01 | 第5回CSK杯囲碁アジア対抗戦第1戦 | Yuki Satoshi | Ko Keuntae | Win | W+R | 6.5 | 
+| 2006-04-22 | 2006年韓国囲碁リーグ | Ko Keuntae | Park Yeonghun | Win | B+2.5 | 6.5 | 
+| 2006-04-08 | 第19回世界囲碁選手権富士通杯1回戦 | Ko Keuntae | Zhou Heyang | Lose | W+R | 6.5 | 
+| 2006-03-28 | 第10期SKガス杯新鋭プロ十傑戦リーグA |  | Ko Keuntae | Win | W+R | 6.5 | 
+| 2006-03-13 | 第6回春蘭杯世界囲碁選手権2回戦 | Peng Quan | Ko Keuntae | Lose | B+3.5 | 7.5 | 
+| 2006-03-11 | 第6回春蘭杯世界囲碁選手権1回戦 | Michael Redmond | Ko Keuntae | Win | W+2.5 | 7.5 | 
+| 2006-01-16 | 第25回KBS杯囲碁王戦本戦1回戦 | Hong Minpyo | Ko Keuntae | Win | W+R | 6.5 | 
+| 2006-01-10 | 第10期SKガス杯新鋭プロ十傑戦リーグA | Lee Minjin | Ko Keuntae | Win | W+R | 6.5 | 
+| 2005-12-19 | 第10期バッカス杯天元戦決勝五番勝負第4局 |  | Ko Keuntae | Win | W+R | 6.5 | 
+| 2005-12-14 | 第10期バッカス杯天元戦決勝五番勝負第3局 | Ko Keuntae |  | Lose | W+2.5 | 6.5 | 
+| 2005-12-02 | 第10期バッカス杯天元戦決勝五番勝負第2局 |  | Ko Keuntae | Win | W+0.5 | 6.5 | 
+| 2005-11-24 | 第10期バッカス杯天元戦決勝五番勝負第1局 | Ko Keuntae |  | Win | B+0.5 | 6.5 | 
+| 2005-11-16 | 第9期SKガス杯新鋭プロ十傑戦決勝三番勝負第2局 | Kang Dongyun | Ko Keuntae | Lose | B+R | 6.5 | 
+| 2005-11-14 | 第9期SKガス杯新鋭プロ十傑戦決勝三番勝負第1局 | Ko Keuntae | Kang Dongyun | Lose | W+R | 6.5 | 
+| 2005-11-01 | 第10期バッカス杯天元戦準決勝 | An Joyeong | Ko Keuntae | Win | W+R | 6.5 | 
+| 2005-10-21 | 第9期SKガス杯新鋭プロ十傑戦リーグBプレーオフ | Park Shiun | Ko Keuntae | Win | W+R | 6.5 | 
+| 2005-09-01 | 第10期バッカス杯天元戦2回戦 | Cho Hunhyun | Ko Keuntae | Win | W+R | 6.5 | 
+| 2005-08-30 | 第10回三星火災杯予選決勝 | Ko Keuntae | Lee Huiseong | Lose | W+R | 6.5 | 
+| 2005-08-17 | 第9期SKガス杯新鋭プロ十傑戦リーグB | Park Byeongkyu | Ko Keuntae | Win | W+12.5 | 6.5 | 
+| 2005-07-11 | 第5期オスラムコリア杯新鋭連勝最強戦第24戦 | Yoo Jaeho | Ko Keuntae | Win | W+R | 6.5 | 
+| 2005-05-23 | 第9期SKガス杯新鋭プロ十傑戦リーグB | Ko Keuntae | Yun Jaewung | Win | B+R | 6.5 | 
+| 2005-05-06 | 第10期バッカス杯天元戦1回戦 | Ko Keuntae | Lee Sedol | Win | B+R | 6.5 | 
+| 2005-03-14 | 第15期BCカード杯新人王戦 | Park Yeonghun | Ko Keuntae | Lose | B+1.5 | 6.5 | 
+| 2005-02-25 | 第15期BCカード杯新人王戦 | Lee Yeongkyu | Ko Keuntae | Win | W+R | 6.5 | 
+| 2005-02-18 | 第15期BCカード杯新人王戦 | Ko Keuntae | Heo Yongho | Win | B+2.5 | 6.5 | 
+| 2005-02-14 | 第9期SKガス杯新鋭プロ十傑戦リーグB | Ko Keuntae | Park Shiun | Lose | W+8.5 | 6.5 | 
+| 2004-08-29 | 第4期オスラムコリア杯新鋭連勝最強戦決勝三番勝負第2局 | Lee Huiseong | Ko Keuntae | Lose | B+3.5 | 6.5 | 
+| 2004-08-28 | 第4期オスラムコリア杯新鋭連勝最強戦決勝三番勝負第1局 | Ko Keuntae | Lee Huiseong | Lose | W+R | 6.5 | 
+| 2004-08-16 | 第4期オスラムコリア杯新鋭連勝最強戦 | Ko Keuntae | Park Cheongsang | Win | B+R | 6.5 | 
+| 2004-08-03 | 第9回三星火災杯予選決勝 | Ko Keuntae | Choi Kyubyeong | Lose | W+R | 6.5 | 
+| 2004-06-04 | 第9期バッカス杯天元戦1回戦 | Ko Keuntae | Rui Naiwei | Lose | W+3.5 | 6.5 | 
+| 2004-05-21 | 第4期オスラムコリア杯新鋭連勝最強戦 | Kim Hwansoo | Ko Keuntae | Win | W+R | 6.5 | 
+| 2004-05-21 | 第4期オスラムコリア杯新鋭連勝最強戦 | Ko Keuntae | Yun Jaewung | Lose | W+R | 6.5 | 
+| 2004-05-17 | 第4期オスラムコリア杯新鋭連勝最強戦 | Ko Keuntae | Yun Hyuk | Win | B+R | 6.5 | 
+| 2004-05-17 | 第4期オスラムコリア杯新鋭連勝最強戦 | Kang Dongyun | Ko Keuntae | Win | W+R | 6.5 | 
+| 2004-05-13 | 第4期オスラムコリア杯新鋭連勝最強戦 | Lee Yeongkyu | Ko Keuntae | Win | W+R | 6.5 | 
+| 2003-08-11 | 第47期国手戦（韓国）敗者復活戦1回戦 | Ko Keuntae | An Joyeong | Lose | W+1.5 | 6.5 | 
+| 2003-06-30 | 第47期国手戦（韓国）本戦1回戦 | Paek Daehyun | Ko Keuntae | Lose | B+R | 6.5 |
 
 
 

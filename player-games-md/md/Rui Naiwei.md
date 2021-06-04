@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-04 | 第4回呉清源杯中国予選 | Lu Minquan | Rui Naiwei | Win | W+R | 7.5 | 
 | 2021-06-03 | 第4回呉清源杯中国予選 | Rui Naiwei | Li He | Win | B+1¾ | 7.5 | 
 | 2021-05-31 | 第4回呉清源杯中国予選 | Chen Yiming | Rui Naiwei | Win | W+R | 7.5 | 
 | 2021-05-20 | 第9回中国女子囲碁甲級リーグ |  | Rui Naiwei | Win | W+R | 7.5 | 

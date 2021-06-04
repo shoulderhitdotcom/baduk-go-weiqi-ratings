@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-04 | 第4回呉清源杯中国予選 | Li He | Fang Ruoxi | Win | W+2¼ | 7.5 | 
 | 2021-06-01 | 第4回呉清源杯中国予選 | Fang Ruoxi | Chen Yiming | Win | B+R | 7.5 | 
 | 2021-05-20 | 2021博思軟件杯中国囲碁新秀争覇戦3回戦 | Fang Ruoxi |  | Lose | W+¼ | 7.5 | 
 | 2021-05-18 | 第9回中国女子囲碁甲級リーグ | Fang Ruoxi | Huang Ziping | Win | B+R | 7.5 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-04 | 第4回呉清源杯中国予選 | Li He | Fang Ruoxi | Lose | W+2¼ | 7.5 | 
 | 2021-06-03 | 第4回呉清源杯中国予選 | Rui Naiwei | Li He | Lose | B+1¾ | 7.5 | 
 | 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Li He | Cai Bihan | Win | B+R | 7.5 | 
 | 2021-05-19 | 第9回中国女子囲碁甲級リーグ | Zhan Ying | Li He | Win | W+R | 7.5 | 

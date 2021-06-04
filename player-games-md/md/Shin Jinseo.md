@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-04 | 第44期名人戦（韓国）敗者復活戦3回戦 | Ko Keuntae | Shin Jinseo | Win | W+R | 6.5 | 
 | 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Tao Xinran | Shin Jinseo | Win | W+3.5 | 6.5 | 
 | 2021-05-24 | 第9回河燦錫国手杯英才最強戦記念対局 | Moon Minjong | Shin Jinseo | Win | W+R | 6.5 | 
 | 2021-05-22 | 第44期名人戦（韓国）敗者復活戦2回戦 |  | Shin Jinseo | Win | W+R | 6.5 | 

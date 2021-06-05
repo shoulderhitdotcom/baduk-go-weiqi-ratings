@@ -7,7 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-04 | 第69期王座戦1回戦 | Motoki Katsuya | Hsu Chiayuan | Win | W+R | 6.5 | 
 | 2021-05-31 | 第26回LG杯朝鮮日報棋王戦1回戦 | Weon Seongjin | Hsu Chiayuan | Lose | B+R | 6.5 | 
+| 2021-05-27 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Hsu Chiayuan | Shida Tatsuya | Win | B+0.5 | 6.5 | 
 | 2021-05-24 | 第46期棋聖戦Aリーグ | Cho U | Hsu Chiayuan | Win | W+3.5 | 6.5 | 
 | 2021-05-13 | 第46期名人戦リーグ | Hsu Chiayuan | Yu Zhengqi | Win | B+R | 6.5 | 
 | 2021-04-28 | 第59期十段戦挑戦手合五番勝負第5局  | Hsu Chiayuan | Shibano Toramaru | Win | B+R | 6.5 | 

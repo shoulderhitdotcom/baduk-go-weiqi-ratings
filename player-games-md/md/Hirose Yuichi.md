@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Park Sangjin | Hirose Yuichi | Lose | B+R | 6.5 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Hirose Yuichi | Tu Xiaoyu | Lose | W+R | 6.5 | 
 | 2021-06-03 | 第47期名人戦予選 | Kudo Norio | Hirose Yuichi | Win | W+R | 6.5 | 
 | 2020-11-21 | 第15回広島アルミ杯・若鯉戦1回戦 | Hirata Tomoya | Hirose Yuichi | Lose | B+1.5 | 6.5 | 
 | 2020-08-17 | 第59期十段戦予選 | Yamashita Keigo | Hirose Yuichi | Lose | B+R | 6.5 | 

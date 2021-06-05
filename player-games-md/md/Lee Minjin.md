@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-05 | 第7回韓国女子囲碁リーグ | Cho Hyeyeon | Lee Minjin | Lose | B+R | 6.5 | 
+| 2021-05-28 | 第7回韓国女子囲碁リーグ | Lee Minjin |  | Win | B+7.5 | 6.5 | 
 | 2021-05-20 | 第7回韓国女子囲碁リーグ |  | Lee Minjin | Win | W+4.5 | 6.5 | 
 | 2020-11-23 | 第4期韓国製紙女子棋聖戦2回戦 | Choi Jeong | Lee Minjin | Lose | B+R | 6.5 | 
 | 2020-11-17 | 第4期韓国製紙女子棋聖戦1回戦 | Lee Minjin |  | Win | B+14.5 | 6.5 | 
@@ -195,8 +197,7 @@
 | 2001-06-26 | 第1期オスラムコリア杯新鋭連勝最強戦 | Lee Minjin | An Younggil | Lose | W+R | 6.5 | 
 | 2000-11-06 | 第11期BCカード杯新人王戦 | Lee Minjin | Cho Hanseung | Lose | W+R | 6.5 | 
 | 2000-06-29 | 第7期女流国手戦本戦2回戦 | Cho Hyeyeon | Lee Minjin | Lose | B+0.5 | 6.5 | 
-| 2000-06-05 | 第7期女流国手戦本戦1回戦 | Lee Minjin | Lee Yongshin | Win | B+R | 6.5 | 
-| 2021-05-28 | 第7回韓国女子囲碁リーグ | Lee Minjin |  | Win | B+7.5 | 6.5 |
+| 2000-06-05 | 第7期女流国手戦本戦1回戦 | Lee Minjin | Lee Yongshin | Win | B+R | 6.5 |
 
 
 

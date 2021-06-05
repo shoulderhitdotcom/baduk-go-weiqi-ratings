@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第3戦 | Fukuoka Kotaro | Otake Yu | Win | W+R | 6.5 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Otake Yu |  | Win | B+R | 6.5 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Otake Yu | Moon Minjong | Lose | W+R | 6.5 | 
 | 2021-05-31 | 第46期棋聖戦Cリーグ | Otake Yu |  | Win | B+0.5 | 6.5 | 
 | 2021-03-08 | 第46期新人王戦1回戦 | Otake Yu | Ueno Asami | Lose | W+R | 6.5 | 
 | 2020-11-26 | 第61期王冠戦挑戦手合一番勝負 | Ida Atsushi | Otake Yu | Lose | B+R | 6.5 | 

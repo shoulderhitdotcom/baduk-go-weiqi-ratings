@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Gon Jiwoo | Wang Xinghao | Win | W+R | 6.5 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 |  | Wang Xinghao | Win | W+R | 6.5 | 
 | 2021-05-28 | 第25期馬橋杯中国囲碁新人王戦準決勝 | Wang Xinghao | Wang Chunhui | Win | B+R | 7.5 | 
 | 2021-05-27 | 第25期馬橋杯中国囲碁新人王戦3回戦 |  | Wang Xinghao | Win | W+R | 7.5 | 
 | 2021-05-25 | 第25期馬橋杯中国囲碁新人王戦2回戦 | Wang Xinghao | Zheng Zaixiang | Win | B+R | 7.5 | 

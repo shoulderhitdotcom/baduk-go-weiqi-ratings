@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Lai Junfu | Tu Xiaoyu | Win | W+1.5 | 6.5 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Hirose Yuichi | Tu Xiaoyu | Win | W+R | 6.5 | 
 | 2021-05-28 | 第25期馬橋杯中国囲碁新人王戦準決勝 | Chen Haoxin | Tu Xiaoyu | Win | W+¼ | 7.5 | 
 | 2021-05-27 | 第25期馬橋杯中国囲碁新人王戦3回戦 | Tu Xiaoyu | Jin Yucheng | Win | B+R | 7.5 | 
 | 2021-05-25 | 第25期馬橋杯中国囲碁新人王戦2回戦 |  | Tu Xiaoyu | Win | W+R | 7.5 | 

@@ -5,192 +5,273 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
-| 第7回韓国女子囲碁リーグ | Kim Cheayoung | Oh Yujin | W+R | 2021-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=42GDOn8W5JdIQGt1dnDKUg%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | missing | Kim Cheayoung | W+R | 2021-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CUP3XFc2ryt07zvgigKYMA%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Kim Cheayoung | Cai Bihan | W+R | 2021-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6d7mVmLxBQLq1ODY1dn7Yg%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Kim Cheayoung | missing | W+¼ | 2021-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BfXeEsPDgTlJpfYy3spEiA%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Fang Ruoxi | Kim Cheayoung | B+R | 2021-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M61f8uRLbKcz6gHNgMvL%2FA%3D%3D) | 
-| 第1回牛膝鳳爪韓国棋院選手権戦予選 | missing | Kim Cheayoung | W+R | 2021-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Wu5BApoCbe9lVHm5or0kQ%3D%3D) | 
-| 第4期韓国竜星戦予選 | Kim Cheayoung | Kim Dayoung | W+R | 2021-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OMz15iwpPN6tDQl0fKnLMA%3D%3D) | 
-| 第4期韓国製紙女子棋聖戦特別対局 | Kim Cheayoung | Kim Hyeoimin | B+2.5 | 2021-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sCq9pj%2BZ3K9C5telsxK%2BFw%3D%3D) | 
-| 第4回クラウン・ヘテ杯1回戦 | Wen Rubin | Kim Cheayoung | B+R | 2021-01-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v%2BZf%2B3bk5BlHPAYNh8rDsg%3D%3D) | 
-| 2020年台湾新鋭隊vs韓国国家隊交流戦第4戦 | Kim Cheayoung | Yu Lijun | W+R | 2020-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XFRct6izLKc%2BIuFPUIGcgg%3D%3D) | 
-| 2020年台湾新鋭隊vs韓国国家隊交流戦第3戦 | missing | Kim Cheayoung | W+R | 2020-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aKC7Fsk14g9atnd2vHXEMw%3D%3D) | 
-| 第4期韓国製紙女子棋聖戦決勝三番勝負第2局 | Kim Cheayoung | Choi Jeong | W+R | 2020-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mA66zDTIMsfHmEDU5E1Q8A%3D%3D) | 
-| 第4期韓国製紙女子棋聖戦決勝三番勝負第1局 | Choi Jeong | Kim Cheayoung | B+R | 2020-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QttDEKvvW%2FqB8bjlxJFJKQ%3D%3D) | 
-| 第4期韓国製紙女子棋聖戦準決勝 | Kim Cheayoung | Cho Hyeyeon | B+0.5 | 2020-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T8LE5nZnL9ooNMqCl9EJPg%3D%3D) | 
-| 第26期GSカルテックス杯プロ棋戦予選 | Weon Seongjin | Kim Cheayoung | B+R | 2020-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fZ1unkkDJoHrOOP6SsGD7g%3D%3D) | 
-| 第4期韓国製紙女子棋聖戦2回戦 | Kim Cheayoung | Kim Miri | B+R | 2020-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kBiuQ5mNTyBF%2BULFg9GfAA%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Lu Minquan | Kim Cheayoung | B+R | 2020-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KBfE950xDp%2BLWhCb7JvpSQ%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Kim Cheayoung | Chen Yiming | W+1¼ | 2020-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1smourrl7ZWlCLIfY59NAw%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Kim Cheayoung | missing | B+¾ | 2020-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nvyQw44c50JSioDcXJLTGQ%3D%3D) | 
-| 第4期韓国製紙女子棋聖戦1回戦 | Kim Eunseon | Kim Cheayoung | W+R | 2020-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7oSkyHmMLNsHrUkLfmP45g%3D%3D) | 
-| 第25回三星火災杯世界囲碁マスターズ1回戦 | Kim Cheayoung | Yang Dingxin | W+R | 2020-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UQL53Bx2LbCgMIRPtyBluw%3D%3D) | 
-| 第3回呉清源杯世界女子囲碁選手権2回戦 | Kim Cheayoung | Zhou Hongyu | W+¼ | 2020-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5DPT5oph%2FYTtNzbSVb4QVQ%3D%3D) | 
-| 第3回呉清源杯世界女子囲碁選手権1回戦 | Pan Yang | Kim Cheayoung | W+R | 2020-09-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CCg9%2B%2FlXyz6OrxjDiC6jMQ%3D%3D) | 
-| 第25回三星火災杯韓国女子枠予選 | Oh Yujin | Kim Cheayoung | W+R | 2020-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N%2B2QCMM%2BV%2FZ%2B9YoKglDWQw%3D%3D) | 
-| 第25回三星火災杯韓国女子枠予選 | Kim Hyeoimin | Kim Cheayoung | W+2.5 | 2020-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PjMuOP3PV1hpfHdYJW5jUw%3D%3D) | 
-| 第25回三星火災杯韓国女子枠予選 | missing | Kim Cheayoung | W+R | 2020-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ngwDMLSsDadtknEqxsyy%2Fg%3D%3D) | 
-| 第25回三星火災杯韓国女子枠予選 | Choi Jeong | Kim Cheayoung | W+R | 2020-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dhae%2FRzb0bXKyeyrcUVsNg%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第14節第2試合第1局 | missing | Kim Cheayoung | B+R | 2020-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C5NXCZ%2F0he9XQIjkwNoUMQ%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第13節第3試合第3局 | Kim Cheayoung | Park Shiun | B+4.5 | 2020-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h9qMwUFSblH%2B0gJ7qOU7MA%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第12節第4試合第1局 | Kim Cheayoung | Park Taehee | B+R | 2020-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kyPdG7FWoxV1B7pyu3bNbw%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ第4節 | Kim Cheayoung | Pan Yang | B+2¾ | 2020-07-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7%2Fxu%2FLUeqzsOrq3gNeHEuA%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第11節第1試合第3局 | Kim Cheayoung | Choi Jeong | B+1.5 | 2020-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ACSkjbW7PbUmK9bsU3FzOA%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ第2節 | Kim Cheayoung | missing | W+¼ | 2020-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jeucaNelIyuAj%2Fpt4jWUKw%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第10節第2試合第3局 | missing | Kim Cheayoung | B+R | 2020-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1PV5wXbprnIyx0j8pI9jjA%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第9節第3試合第1局 | Kim Cheayoung | missing | W+R | 2020-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dufjC53%2FoaU9oiO0sAGEGA%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第8節第4試合第3局 | missing | Kim Cheayoung | W+R | 2020-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ly8ZHmnQQsTiiLZpkEkQ4g%3D%3D) | 
-| 仲邑菫初段のオロチャレンジ第1回第3局 | Kim Cheayoung | Nakamura Sumire | B+R | 2020-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PgW6aW2rrLmzQXpeqaLPNA%3D%3D) | 
-| 仲邑菫初段のオロチャレンジ第1回第2局 | Nakamura Sumire | Kim Cheayoung | W+7.5 | 2020-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2dzgXVEZ34zninj42T%2Fgvw%3D%3D) | 
-| 仲邑菫初段のオロチャレンジ第1回第1局 | Kim Cheayoung | Nakamura Sumire | B+R | 2020-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JeTBSZwTgX06mQeH0i46lA%3D%3D) | 
-| 2020陜川歴代英才vs女性頂上連勝対抗戦第5局 | Park Hyunsoo | Kim Cheayoung | B+R | 2020-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qeY%2BIYqW15wa6zafl0mTsg%3D%3D) | 
-| 2020陜川歴代英才vs女性頂上連勝対抗戦第4局 | Moon Minjong | Kim Cheayoung | W+0.5 | 2020-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CmcbwHVFJeFDcMGDM90%2B5w%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第7節第3試合第3局 | Oh Jeonga | Kim Cheayoung | W+R | 2020-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C8%2FNmtPCU%2BdEkjZS91OsFA%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第6節第2試合第2局 | Kim Dayoung | Kim Cheayoung | W+R | 2020-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=npSqbfTf1tZFr%2B0453efMg%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第5節第1試合第3局 | missing | Kim Cheayoung | W+R | 2020-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nq2jEG4mO1zTp3t%2FcULoOA%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第4節第4試合第1局 | Kim Cheayoung | Kang Dajeong | B+R | 2020-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ZqWmkVHy%2BlnPkwU%2Bbutmw%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第3節第3試合第2局 | missing | Kim Cheayoung | W+R | 2020-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dy5HRafFE7C1KOrL37rcUw%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第2節第2試合第2局 | Kim Cheayoung | Kim Hyeoimin | B+R | 2020-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tnigPw3%2BvbIA9%2FTaBTQLSw%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第1節第1試合第3局 | Kim Cheayoung | Oh Yujin | B+0.5 | 2020-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ef8svjC%2BN6iZz7qeY44RIA%3D%3D) | 
-| 第25回LG杯韓国予選 | Baek Hyeonwoo | Kim Cheayoung | B+R | 2020-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=950dmT9aENlbV4Nu4wlpkA%3D%3D) | 
-| 第13回GGオークション杯女流対シニア連勝対抗戦第16局 | Han Chongjin | Kim Cheayoung | B+R | 2020-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8BN2m859h7crvGr%2BT6c9Ng%3D%3D) | 
-| 第3期韓国製紙女子棋聖戦決勝三番勝負第2局 | Kim Cheayoung | Choi Jeong | W+R | 2019-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gD1T%2F6t6H7YFxojhdfU1Ng%3D%3D) | 
-| 第3期韓国製紙女子棋聖戦決勝三番勝負第1局 | Choi Jeong | Kim Cheayoung | B+R | 2019-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FZ%2F38F67xPu5XAGz9yk%2Fog%3D%3D) | 
-| 第3期韓国製紙女子棋聖戦準決勝 | missing | Kim Cheayoung | W+R | 2019-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mO2VF8UYB%2FkTJqtxSykW%2Bg%3D%3D) | 
-| 第3回クラウン・ヘテ杯1回戦 | Kim Cheayoung | Kim Sangcheon | W+R | 2019-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PLJ4AjnlXsEUq2axBqshdw%3D%3D) | 
-| 第3期韓国製紙女子棋聖戦8強戦 | Kim Dayoung | Kim Cheayoung | W+R | 2019-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x%2BjJawMbsYpl5lkoBPHvaA%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第18節 | Chen Yiming | Kim Cheayoung | W+R | 2019-11-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N7Dju9y2zllQDyFotlbrJA%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第17節 | Kim Cheayoung | Pan Yang | B+R | 2019-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=doQwuCu7WepqdQ6Ls4J%2Fkg%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第16節 | missing | Kim Cheayoung | W+R | 2019-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GPbuz1BFEKT6ahFhbOp2yw%3D%3D) | 
-| 第3期韓国製紙女子棋聖戦16強戦 | missing | Kim Cheayoung | W+R | 2019-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=muvlNFS2WfIwAYWX9FF4ng%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第13節 | missing | Kim Cheayoung | W+R | 2019-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IX%2Fwtnq7dpNDyoSIwf4nmQ%3D%3D) | 
-| 第24期女流国手戦8強戦 | Kim Cheayoung | Choi Jeong | W+R | 2019-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0H5H6Hjve69COPMU68nApQ%3D%3D) | 
-| 第10回穹窿山兵聖杯韓国選抜戦 | Kim Cheayoung | Kim Hyeoimin | W+R | 2019-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HvEzDB0yOwyYWZseFxwESA%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第12節 | Kim Cheayoung | missing | B+R | 2019-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NVJfkgH3YMI6%2BDKaDlh5cQ%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第14節第3試合第2局 | Kim Eunseon | Kim Cheayoung | W+R | 2019-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xmlz1C4GlhfXyWc4vJDV8Q%3D%3D) | 
-| 第24期女流国手戦16強戦 | Kim Cheayoung | Park Jiyeon | B+R | 2019-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pyeraMUw6ERJvxpGVR1b3w%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第13節第4試合第2局 | Kim Cheayoung | Wang Chenxing | B+R | 2019-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3fBSicmTFf59HRuCRvioSg%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第12節第4試合第2局 | Kim Miri | Kim Cheayoung | W+R | 2019-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s7Hr%2BD2WSBmTfsPNrliN%2Fw%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第11節第3試合第1局 | Kim Cheayoung | Kang Dajeong | B+4.5 | 2019-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i9VRFD07PHWKlPEiXdJe9g%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第10節第1試合第2局 | Kim Cheayoung | missing | B+R | 2019-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zS%2F1Ee3SwbibDOgtPoCO5g%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第7節 | Kim Cheayoung | missing | B+R | 2019-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BrG0YRo6gY3lRnbpBQ5b3A%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第9節第4試合第1局 | Fujisawa Rina | Kim Cheayoung | B+R | 2019-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9aLRmUL1GTphm2dlVNwi%2Fw%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第8節第2試合第1局 | Lee Minjin | Kim Cheayoung | W+2.5 | 2019-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o412utuCM%2B0T2%2Bvb%2Bze5qw%3D%3D) | 
-| 第24回三星火災杯統合予選3回戦 | Kim Cheayoung | missing | B+R | 2019-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ebwi%2BEme70KBKGZV7h4X0Q%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第7節第2試合第2局 | Kim Cheayoung | Kim Dayoung | W+R | 2019-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ONfApqxTgj0SEXBN8GALdw%3D%3D) | 
-| 第24期女流国手戦予選決勝 | missing | Kim Cheayoung | W+R | 2019-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mapmIKx37GhMIHN%2FnYETAg%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第6節 | Gao Xing | Kim Cheayoung | B+R | 2019-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kedDuccWpaD5Bk4XqW1%2F%2Fw%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第6節第1試合第1局 | Kim Cheayoung | Wang Chenxing | B+R | 2019-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UjzKKc5GtbhqMJKj1sKEEw%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第5節第1試合第1局 | Kim Cheayoung | Kim Miri | B+R | 2019-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0l3s9N3pPTCngIE3mNj1fA%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第4節第2試合第3局 | Kim Cheayoung | Choi Jeong | W+R | 2019-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nghh8xvwXF%2BN%2BLZDW6nTqg%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第3節第4試合第2局 | Kim Cheayoung | Kim Soojin | B+5.5 | 2019-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pCFLKVT3L03VZhIL2AThIQ%3D%3D) | 
-| 2019年陜川歴代英才vs女性頂上連勝対抗戦第4局 | Kim Cheayoung | Park Hyunsoo | W+R | 2019-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=32WenL%2FlcOEOlYyMWcguQA%3D%3D) | 
-| 2019年陜川歴代英才vs女性頂上連勝対抗戦第3局 | Kim Cheayoung | Park Joonhoon | B+R | 2019-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x%2FFKZUsDlRhHYb6SsIkBag%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第2節第1試合第2局 | Kim Cheayoung | missing | B+R | 2019-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6ne9YVApd%2FAuJUn8EkpVXw%3D%3D) | 
-| 第8回天台山体彩杯世界女子囲碁団体戦第3戦 | Ueno Asami | Kim Cheayoung | W+R | 2019-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QJWio9N7MIonX1f6uyFJ4g%3D%3D) | 
-| 第8回天台山体彩杯世界女子囲碁団体戦第2戦 | Kim Cheayoung | missing | B+R | 2019-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=93gu%2BXwbVH2sWrnm90%2Fi9g%3D%3D) | 
-| 第8回天台山体彩杯世界女子囲碁団体戦第1戦 | Lu Minquan | Kim Cheayoung | W+R | 2019-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qCCF3l0MuIkUxe3f9siMJQ%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第1節第3試合第2局 | missing | Kim Cheayoung | B+R | 2019-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DSQgYMnsMSA%2Bgd8Kwwq6vQ%3D%3D) | 
-| 第2回呉清源杯世界女子囲碁選手権16強戦 | Li He | Kim Cheayoung | B+R | 2019-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nt7ueMXcnNw5d6D1KX5%2FHg%3D%3D) | 
-| 第9回中国姜堰黄竜士精鍛科技杯世界女子団体戦第6戦 | Kim Cheayoung | Zhou Hongyu | W+1¼ | 2019-04-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tl%2FiDsdMYFs65Hof6yKOdg%3D%3D) | 
-| 第9回中国姜堰黄竜士精鍛科技杯世界女子団体戦第5戦 | Mannami Nao | Kim Cheayoung | W+R | 2019-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7bakI1HqYDEPTFGRrljGTQ%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第2節武漢-廈門 | Kim Cheayoung | Lu Minquan | W+R | 2019-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T94dNnqZtFsTm2QFGCF3qw%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第1節安徽-武漢 | Kim Cheayoung | Zhou Hongyu | W+1¼ | 2019-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zu%2BtGUQCVg%2Bk6MyKPBRglg%3D%3D) | 
-| 第8回天台山杯世界女子囲碁団体戦韓国選抜戦 | Oh Jeonga | Kim Cheayoung | W+R | 2019-03-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X9YBiJTAMOWAu14TFAJ57A%3D%3D) | 
-| 第8回天台山杯世界女子囲碁団体戦韓国選抜戦 | Kim Cheayoung | Kim Yoonyoung | B+R | 2019-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4ovakC2%2FqAW5B6I0U9KKnQ%3D%3D) | 
-| 第2回クラウン・ヘテ杯2回戦 | Na Hyun | Kim Cheayoung | B+R | 2019-01-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DNmqXntcKeAeRj%2BtLfp%2Bbw%3D%3D) | 
-| 第2回クラウン・ヘテ杯1回戦 | Kim Cheayoung | missing | B+R | 2018-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NZ8Ov26nlnC7Ff%2BctUXsFQ%3D%3D) | 
-| 第2期韓国製紙女子棋聖戦16強 | Kim Cheayoung | Kim Hyeoimin | W+1.5 | 2018-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=STWm9jMEXr9FFXBK2uyXiQ%3D%3D) | 
-| 第12回GGオークション杯女流対シニア連勝対抗戦第20局 | Seo Bongsoo | Kim Cheayoung | W+R | 2018-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YF5BLQ20O9qpA5Ibk9iF2g%3D%3D) | 
-| 第9回穹窿山兵聖杯韓国選抜戦決勝 | Kim Cheayoung | Oh Jeonga | W+R | 2018-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d0H470pz2Veoi5kNqWHj1g%3D%3D) | 
-| 第9回穹窿山兵聖杯韓国選抜戦1回戦 | Kim Hyeoimin | Kim Cheayoung | W+R | 2018-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xYDKs3mNpUFdNohJdSTSMQ%3D%3D) | 
-| 第1回呉清源杯世界女流囲碁選手権決勝三番勝負第2局 | Kim Cheayoung | Choi Jeong | B+2¾ | 2018-07-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NUpScMPnhEZk9Pjot%2Ba63w%3D%3D) | 
-| 第1回呉清源杯世界女流囲碁選手権決勝三番勝負第1局 | Choi Jeong | Kim Cheayoung | W+R | 2018-07-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SG9cpz%2Fe%2BgaxQLXwY9ecZw%3D%3D) | 
-| 第23期女流国手戦16強戦 | Kim Cheayoung | Kim Dayoung | W+R | 2018-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rB1KWWaf%2BSnWEhzhtQeNGQ%3D%3D) | 
-| 第20回農心杯韓国選抜戦 | Kim Cheayoung | Song Taekon | W+R | 2018-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LBMcFH4qk4C0u6dYVrsVGA%3D%3D) | 
-| 第4回韓国女子囲碁リーグプレーオフ | Kim Cheayoung | missing | W+R | 2018-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q1ezr1JwPZYMsFpTLXlGow%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第18節 | Wang Chenxing | Kim Cheayoung | B+R | 2018-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Fp9bOnQEHk1S2UHwrvARw%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第17節 | Kim Cheayoung | missing | B+R | 2018-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iV4gB%2BmleB1mU%2F%2B2V3g7ew%3D%3D) | 
-| 第7回天台山森然楊帆杯世界女子囲碁団体選手権第3戦 | Zhang Kaixin | Kim Cheayoung | W+R | 2018-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n%2FTbqeS56hogAAXTMETKEw%3D%3D) | 
-| 第7回天台山森然楊帆杯世界女子囲碁団体選手権第2戦 | Kim Cheayoung | Ueno Asami | B+R | 2018-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SlJYzSUjvvYnqwj%2FbIOgcA%3D%3D) | 
-| 第7回天台山森然楊帆杯世界女子囲碁団体選手権第1戦 | Li He | Kim Cheayoung | W+¼ | 2018-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ZqIVtz6xqaBr0dqqdS%2Bpw%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第15節 | Choi Jeong | Kim Cheayoung | B+R | 2018-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EPZxVxHEA9alozKyrZB1xQ%3D%3D) | 
-| 第1回呉清源杯世界女流囲碁選手権準決勝 | Yu Zhiying | Kim Cheayoung | W+¼ | 2018-05-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N0QWy%2BnOdSCibL1WJeGFUA%3D%3D) | 
-| 第1回呉清源杯世界女流囲碁選手権8強戦 | Kim Cheayoung | Xie Yimin | B+R | 2018-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H5nR0WUPGng9XjNfdLhWTA%3D%3D) | 
-| 第1回呉清源杯世界女流囲碁選手権16強戦 | Kim Cheayoung | Gao Xing | B+R | 2018-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GMshBIQ8h%2Fme%2BP63cwCoNQ%3D%3D) | 
-| 第1回呉清源杯世界女流囲碁選手権本戦1回戦 | Kim Cheayoung | Nyu Eiko | B+¾ | 2018-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=idxw5kKyWgYmQirM0Db%2FcQ%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第14節 | Lee Minjin | Kim Cheayoung | W+R | 2018-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cSuKwvnOWQmqAV74dFHZ9w%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第13節 | missing | Kim Cheayoung | W+R | 2018-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VCo4qzpB3ZlB6xSt7UyBdQ%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第12節 | Kim Cheayoung | Park Shiun | B+R | 2018-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iuJp%2FYWdSJsPwdq0cTAioQ%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第10節 | Pan Yang | Kim Cheayoung | W+R | 2018-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IqKGhS0KrMZjKhBOPW3xVA%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第9節 | Kim Cheayoung | Park Taehee | B+R | 2018-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V6Chmr%2BI4dBVLMMbW%2BxufA%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第8節 | Kim Cheayoung | missing | B+R | 2018-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xEMvm1MCTUlpWk4YC82uvQ%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第7節 | missing | Kim Cheayoung | W+R | 2018-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E1OmA%2B2OYRtJZ9iRJTMh4Q%3D%3D) | 
-| 第7回天台山農商銀行杯韓国代表選抜戦決勝 | Kim Dayoung | Kim Cheayoung | W+R | 2018-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eRb3pAkhf8%2Fy6R7UReP63Q%3D%3D) | 
-| 第7回天台山農商銀行杯韓国代表選抜戦準決勝 | Cho Hyeyeon | Kim Cheayoung | W+R | 2018-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=spWEcs5lNHFz1qXsaIjPsQ%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第6節 | missing | Kim Cheayoung | W+R | 2018-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dBvp%2F47OAgD55rrBGZBphA%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第5節 | Kim Cheayoung | Kim Dayoung | B+R | 2018-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lX%2F1g2IyGH%2BAn0BXUuAxtg%3D%3D) | 
-| 第8回中国姜堰黄竜士精鍛科技杯韓国選抜戦 | Cho Hyeyeon | Kim Cheayoung | B+R | 2018-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vC8sha%2FWMrV3tgDtZVaR8Q%3D%3D) | 
-| 第1回韓国竜星戦32強ダブルエリミネーションD3 | Lee Sedol | Kim Cheayoung | B+R | 2018-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ae4g8enkSMjc%2F1fuCx%2BMhQ%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第4節 | Lee Youngjoo | Kim Cheayoung | W+0.5 | 2018-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KPMZ8V3jCJqsmvSN7V2AAQ%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第3節 | Kim Cheayoung | Kim Miri | B+R | 2018-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cvz6HkpiUV%2B5S1GKInSz%2FQ%3D%3D) | 
-| 第1回呉清源杯世界女流囲碁大会韓国代表選抜戦決勝 | Kim Cheayoung | Kim Dayoung | B+R | 2018-02-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bEBZIXOmoNOpYmj%2FYyZZuA%3D%3D) | 
-| 第1回呉清源杯世界女流囲碁大会韓国代表選抜戦 | Kim Cheayoung | Cho Hyeyeon | B+R | 2018-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ghDvDx1fFXABCr8Z3Vy4w%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第1節 | Pan Yang | Kim Cheayoung | W+R | 2018-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=636vusdWzlSbirzUGJY43g%3D%3D) | 
-| 第22期女流国手戦決勝三番勝負第2局 | Choi Jeong | Kim Cheayoung | B+R | 2018-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fm0rAG3VUh%2Bf9xhJuwCa6Q%3D%3D) | 
-| 第22期女流国手戦決勝三番勝負第一局 | Kim Cheayoung | Choi Jeong | W+R | 2018-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AHFwrR1kZE%2BEd%2B2j9ntBCA%3D%3D) | 
-| 2017年シニアvs女流チャンピオンズカップ第2戦 | Chang Suyeong | Kim Cheayoung | W+R | 2018-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6Hj0uwyTvkvIOSaDh2QZBQ%3D%3D) | 
-| 2017年シニアvs女流チャンピオンズカップ第1戦 | Kim Cheayoung | Cho Chikun | B+3.5 | 2018-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JTwMkLN4nEu7Rm%2BIXzeeLg%3D%3D) | 
-| 第22期女流国手戦準決勝 | Kim Cheayoung | Kim Miri | B+R | 2018-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CDu0brMVeFvjwiNeJ%2FgdSg%3D%3D) | 
-| 第22期女流国手戦8強戦 | Oh Yujin | Kim Cheayoung | W+R | 2017-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uautmhvy3aP2Yif%2F5SrIYg%3D%3D) | 
-| 第1回クラウン・ヘテ杯1回戦 | Park Geunho | Kim Cheayoung | B+R | 2017-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=77WCim9O0MmshBBpkfzrLQ%3D%3D) | 
-| 第22期女流国手戦1回戦 | Kang Dajeong | Kim Cheayoung | W+R | 2017-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tgf12wVe557DJGvWLd6oBg%3D%3D) | 
-| 第1期韓国製紙女子棋聖戦8強戦 | missing | Kim Cheayoung | B+2.5 | 2017-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gWFNXYJw8zf8ZsI%2F9YG5ig%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第12節 | Kim Cheayoung | Pan Yang | W+R | 2017-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yEAO79rw1b0NI0%2BrUzTFrA%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第11節 | Lu Minquan | Kim Cheayoung | W+R | 2017-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lQ7AFAEp4sIl33Sex%2FLEgA%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第10節 | Kim Cheayoung | Park Taehee | B+R | 2017-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QVXWiMy4CY55bmIGE1GdUw%3D%3D) | 
-| 第2回韓国花より囲碁女王戦リーグ3回戦 | Kim Cheayoung | Kim Dayoung | B+R | 2017-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t6eGGmLXwEoks9cxPiA3cw%3D%3D) | 
-| 第2回韓国花より囲碁女王戦リーグ2回戦 | Kim Hyeoimin | Kim Cheayoung | B+3.5 | 2017-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r7xG47vhAZEEyLr6SDjB0g%3D%3D) | 
-| 第2回韓国花より囲碁女王戦リーグ1回戦 | Kim Cheayoung | Park Shiun | W+R | 2017-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cfedI5mpJMgMMp%2Byjkuhcw%3D%3D) | 
-| 第1期韓国製紙女子棋聖戦16強戦 | Kim Cheayoung | Lee Jihyun | B+R | 2017-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DrsmcVWbwEG0bgG%2FvCMpjg%3D%3D) | 
-| 8回蘇州穹窿山兵聖杯韓国選抜決勝 | Oh Jeonga | Kim Cheayoung | B+R | 2017-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q%2FnCKwG3yYpufZPhseNhqg%3D%3D) | 
-| 8回蘇州穹窿山兵聖杯韓国選抜1 | Kim Dayoung | Kim Cheayoung | W+R | 2017-09-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FQg5Wsx5YyweAAJ50BzYdA%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第9節 | Cao Youyin | Kim Cheayoung | W+R | 2017-09-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hu85LjcFGEuGL7UE%2Br7aZQ%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第8節 | Kim Cheayoung | Li He | W+R | 2017-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pfuS0zbQntsrnNdkx4ivkg%3D%3D) | 
-| 第22回三星火災杯世界囲碁マスターズ1回戦F2 | Kim Cheayoung | Chen Yaoye | W+R | 2017-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NC1GPeRnE4Vtv29IZdT83w%3D%3D) | 
-| 第22回三星火災杯世界囲碁マスターズ1回戦F1 | Komatsu Hideki | Kim Cheayoung | B+R | 2017-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QTB8hM2u%2BQiwx1%2Bit9hw8w%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第7節 | Song Ronghui | Kim Cheayoung | W+R | 2017-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zQ8TVawrJg3InDmBpfuLlw%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第6節 | Kim Cheayoung | Chen Yiming | B+R | 2017-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n0lGFBGuiqqvayCDziBeTg%3D%3D) | 
-| 第22回三星火災杯統合予選4回戦 | Kim Cheayoung | Yu Zhiying | B+R | 2017-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zffzaetU9793epVzV6B5Nw%3D%3D) | 
-| 3期韓国女子連戦総決勝浦項-麗水3回 | Kim Dayoung | Kim Cheayoung | W+R | 2017-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4QIqf8mJWvOLhZr756WWGg%3D%3D) | 
-| 第3回韓国女子囲碁リーグ優勝決定戦第2戦 | Kim Cheayoung | Lee Sula | B+R | 2017-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cJ07J9bXkDzLpltprbIz4A%3D%3D) | 
-| 3期韓国女子連戦総決勝浦項-麗水3番1回 | Kim Cheayoung | Kim Dayoung | B+R | 2017-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZN5cBXls1DtZFtzhpuaNGw%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第2節 | missing | Kim Cheayoung | W+R | 2017-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sh1o18ZFF3auH3bJSbmy0A%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第1節 | missing | Kim Cheayoung | W+R | 2017-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LkYw8yCWQwx3fbLQyJhetw%3D%3D) | 
-| 3期韓国女子連戦14回戦浦項-京畿湖畔 | Kim Cheayoung | missing | B+R | 2017-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tmx17qNcxCNEK0GS5qz%2Fcg%3D%3D) | 
-| 3期韓国女子連戦13回戦浦項-麗水 | Lee Minjin | Kim Cheayoung | W+10.5 | 2017-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ju7CfrPrdigtRauxx92tNQ%3D%3D) | 
-| 3期韓国女子連戦12回戦浦項-麟蹄 | Park Taehee | Kim Cheayoung | W+R | 2017-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Px1Yjlrc8zbyLATWkkkqVg%3D%3D) | 
-| 3期韓国女子連戦11回戦浦項-西帰浦 | Kim Cheayoung | missing | B+R | 2017-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XL0x%2BbAdVJSjZscLAVVs2Q%3D%3D) | 
-| 3期韓国女子連戦10回戦浦項-京畿SG | Kim Cheayoung | Rui Naiwei | B+R | 2017-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z%2ByxEHcAKy4RCzJRYsa8Ig%3D%3D) | 
-| 3期韓国女子連戦9回戦浦項-扶安 | Kim Hyeoimin | Kim Cheayoung | W+R | 2017-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jSmdtyjm8j%2BhQuVW9ReDZA%3D%3D) | 
-| 3期韓国女子連戦8回戦首尓-浦項 | Kim Cheayoung | Song Ronghui | B+R | 2017-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TVTKWlvxVWXwqNVYRW3Pvg%3D%3D) | 
-| 3期韓国女子連戦7回戦浦項-京畿湖畔 | Kim Yoonyoung | Kim Cheayoung | W+R | 2017-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qY97uGtDrNkG9eWV6VV0JQ%3D%3D) | 
-| 3期韓国女子連戦6回戦浦項-麗水 | Lee Sula | Kim Cheayoung | W+R | 2017-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r4lMpdRRNZIIOYMWObGmfg%3D%3D) | 
-| 3期韓国女子連戦5回戦浦項-麟蹄 | Lee Youngjoo | Kim Cheayoung | W+R | 2017-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h3jnY3tFM7HzkwJe7fN2OA%3D%3D) | 
-| 3期韓国女子連戦4回戦浦項-西帰浦 | Kim Cheayoung | missing | W+R | 2017-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2TCbLnQaQ%2FRgnouw0cz9EQ%3D%3D) | 
-| 3期韓国女子連戦3回戦浦項-京畿SG | Park Shiun | Kim Cheayoung | B+R | 2017-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UZsnbImNfgoMUDN9GDI1rg%3D%3D) | 
-| 3期韓国女子連戦2回戦浦項-扶安 | Kim Cheayoung | Kim Hyeoimin | B+R | 2017-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YhwN0TdBdFkWqOS%2FNThJog%3D%3D) | 
-| 3期韓国女子連戦1回戦首尓-浦項 | Moon Dowon | Kim Cheayoung | W+R | 2017-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S4KowMqID%2F%2F86yeGLDndvA%3D%3D) | 
-| 第3回おかげ杯国際精鋭囲碁対抗戦第3戦 | Kim Cheayoung | Okuda Aya | B+4.5 | 2016-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oOy5MCDB3gIWii5Cxd3bvw%3D%3D) | 
-| 第3回おかげ杯国際精鋭囲碁対抗戦決勝 | Kim Cheayoung | Chen Yiming | W+1.5 | 2016-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=McqmRDaXd9bSXHz2vRewVQ%3D%3D) | 
-| 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Kim Cheayoung | Chen Yiming | W+R | 2016-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IM4kg4KsWGvmmHjnS%2FTeHg%3D%3D) | 
-| 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Su Shengfang | Kim Cheayoung | W+R | 2016-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LCren1g2RDgKQlze2Rm2LA%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | missing | Kim Cheayoung | W+R | 2016-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ljWPo3Lx64xRGYWnaeNfJQ%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Song Ronghui | Kim Cheayoung | W+1.5 | 2016-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9UtZWWplD3hPKHSPPHJCfw%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Kim Cheayoung | Ueno Asami | B+R | 2016-09-23 | 6.5 | Error: InterruptException:
+| 2021-06-05 | 第7回韓国女子囲碁リーグ |  | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2021-05-30 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Kim Cheayoung | Win | W+2.5 | 6.5 | 
+| 2021-05-21 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Oh Yujin | Lose | W+R | 6.5 | 
+| 2021-04-03 | 第8回中国女子囲碁甲級リーグ |  | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2021-04-02 | 第8回中国女子囲碁甲級リーグ | Kim Cheayoung | Cai Bihan | Lose | W+R | 7.5 | 
+| 2021-03-29 | 第8回中国女子囲碁甲級リーグ | Kim Cheayoung |  | Lose | W+¼ | 7.5 | 
+| 2021-03-26 | 第8回中国女子囲碁甲級リーグ | Fang Ruoxi | Kim Cheayoung | Lose | B+R | 7.5 | 
+| 2021-02-23 | 第1回牛膝鳳爪韓国棋院選手権戦予選 |  | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2021-02-02 | 第4期韓国竜星戦予選 | Kim Cheayoung | Kim Dayoung | Lose | W+R | 6.5 | 
+| 2021-01-09 | 第4期韓国製紙女子棋聖戦特別対局 | Kim Cheayoung | Kim Hyeoimin | Win | B+2.5 | 6.5 | 
+| 2021-01-05 | 第4回クラウン・ヘテ杯1回戦 | Wen Rubin | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2020-12-17 | 2020年台湾新鋭隊vs韓国国家隊交流戦第4戦 | Kim Cheayoung | Yu Lijun | Lose | W+R | 6.5 | 
+| 2020-12-17 | 2020年台湾新鋭隊vs韓国国家隊交流戦第3戦 |  | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2020-12-15 | 第4期韓国製紙女子棋聖戦決勝三番勝負第2局 | Kim Cheayoung | Choi Jeong | Lose | W+R | 6.5 | 
+| 2020-12-14 | 第4期韓国製紙女子棋聖戦決勝三番勝負第1局 | Choi Jeong | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2020-12-07 | 第4期韓国製紙女子棋聖戦準決勝 | Kim Cheayoung | Cho Hyeyeon | Win | B+0.5 | 6.5 | 
+| 2020-12-05 | 第26期GSカルテックス杯プロ棋戦予選 | Weon Seongjin | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2020-11-24 | 第4期韓国製紙女子棋聖戦2回戦 | Kim Cheayoung | Kim Miri | Win | B+R | 6.5 | 
+| 2020-11-23 | 第8回中国女子囲碁甲級リーグ | Lu Minquan | Kim Cheayoung | Lose | B+R | 7.5 | 
+| 2020-11-21 | 第8回中国女子囲碁甲級リーグ | Kim Cheayoung | Chen Yiming | Lose | W+1¼ | 7.5 | 
+| 2020-11-20 | 第8回中国女子囲碁甲級リーグ | Kim Cheayoung |  | Win | B+¾ | 7.5 | 
+| 2020-11-16 | 第4期韓国製紙女子棋聖戦1回戦 | Kim Eunseon | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦 | Kim Cheayoung | Yang Dingxin | Lose | W+R | 6.5 | 
+| 2020-09-28 | 第3回呉清源杯世界女子囲碁選手権2回戦 | Kim Cheayoung | Zhou Hongyu | Lose | W+¼ | 7.5 | 
+| 2020-09-27 | 第3回呉清源杯世界女子囲碁選手権1回戦 | Pan Yang | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2020-09-03 | 第25回三星火災杯韓国女子枠予選 | Oh Yujin | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2020-09-02 | 第25回三星火災杯韓国女子枠予選 | Kim Hyeoimin | Kim Cheayoung | Win | W+2.5 | 6.5 | 
+| 2020-09-01 | 第25回三星火災杯韓国女子枠予選 |  | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2020-08-29 | 第25回三星火災杯韓国女子枠予選 | Choi Jeong | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2020-08-22 | 第6回韓国女子囲碁リーグ第14節第2試合第1局 |  | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2020-08-15 | 第6回韓国女子囲碁リーグ第13節第3試合第3局 | Kim Cheayoung | Park Shiun | Win | B+4.5 | 6.5 | 
+| 2020-08-09 | 第6回韓国女子囲碁リーグ第12節第4試合第1局 | Kim Cheayoung | Park Taehee | Win | B+R | 6.5 | 
+| 2020-07-31 | 第8回中国女子囲碁甲級リーグ第4節 | Kim Cheayoung | Pan Yang | Win | B+2¾ | 7.5 | 
+| 2020-07-30 | 第6回韓国女子囲碁リーグ第11節第1試合第3局 | Kim Cheayoung | Choi Jeong | Win | B+1.5 | 6.5 | 
+| 2020-07-29 | 第8回中国女子囲碁甲級リーグ第2節 | Kim Cheayoung |  | Lose | W+¼ | 7.5 | 
+| 2020-07-24 | 第6回韓国女子囲碁リーグ第10節第2試合第3局 |  | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2020-07-18 | 第6回韓国女子囲碁リーグ第9節第3試合第1局 | Kim Cheayoung |  | Lose | W+R | 6.5 | 
+| 2020-07-12 | 第6回韓国女子囲碁リーグ第8節第4試合第3局 |  | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2020-07-11 | 仲邑菫初段のオロチャレンジ第1回第3局 | Kim Cheayoung | Nakamura Sumire | Win | B+R | 6.5 | 
+| 2020-07-11 | 仲邑菫初段のオロチャレンジ第1回第2局 | Nakamura Sumire | Kim Cheayoung | Win | W+7.5 | 6.5 | 
+| 2020-07-10 | 仲邑菫初段のオロチャレンジ第1回第1局 | Kim Cheayoung | Nakamura Sumire | Win | B+R | 6.5 | 
+| 2020-07-08 | 2020陜川歴代英才vs女性頂上連勝対抗戦第5局 | Park Hyunsoo | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2020-07-07 | 2020陜川歴代英才vs女性頂上連勝対抗戦第4局 | Moon Minjong | Kim Cheayoung | Win | W+0.5 | 6.5 | 
+| 2020-07-04 | 第6回韓国女子囲碁リーグ第7節第3試合第3局 | Oh Jeonga | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2020-06-24 | 第6回韓国女子囲碁リーグ第6節第2試合第2局 | Kim Dayoung | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2020-06-18 | 第6回韓国女子囲碁リーグ第5節第1試合第3局 |  | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2020-06-14 | 第6回韓国女子囲碁リーグ第4節第4試合第1局 | Kim Cheayoung | Kang Dajeong | Win | B+R | 6.5 | 
+| 2020-06-06 | 第6回韓国女子囲碁リーグ第3節第3試合第2局 |  | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2020-05-29 | 第6回韓国女子囲碁リーグ第2節第2試合第2局 | Kim Cheayoung | Kim Hyeoimin | Win | B+R | 6.5 | 
+| 2020-05-21 | 第6回韓国女子囲碁リーグ第1節第1試合第3局 | Kim Cheayoung | Oh Yujin | Win | B+0.5 | 6.5 | 
+| 2020-04-20 | 第25回LG杯韓国予選 | Baek Hyeonwoo | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2020-02-03 | 第13回GGオークション杯女流対シニア連勝対抗戦第16局 | Han Chongjin | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2019-12-23 | 第3期韓国製紙女子棋聖戦決勝三番勝負第2局 | Kim Cheayoung | Choi Jeong | Lose | W+R | 6.5 | 
+| 2019-12-17 | 第3期韓国製紙女子棋聖戦決勝三番勝負第1局 | Choi Jeong | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2019-12-10 | 第3期韓国製紙女子棋聖戦準決勝 |  | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2019-12-06 | 第3回クラウン・ヘテ杯1回戦 | Kim Cheayoung | Kim Sangcheon | Lose | W+R | 6.5 | 
+| 2019-12-03 | 第3期韓国製紙女子棋聖戦8強戦 | Kim Dayoung | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2019-11-27 | 第7回中国女子囲碁甲級リーグ第18節 | Chen Yiming | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2019-11-26 | 第7回中国女子囲碁甲級リーグ第17節 | Kim Cheayoung | Pan Yang | Win | B+R | 7.5 | 
+| 2019-11-05 | 第7回中国女子囲碁甲級リーグ第16節 |  | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2019-10-29 | 第3期韓国製紙女子棋聖戦16強戦 |  | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2019-10-17 | 第7回中国女子囲碁甲級リーグ第13節 |  | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2019-10-03 | 第24期女流国手戦8強戦 | Kim Cheayoung | Choi Jeong | Lose | W+R | 6.5 | 
+| 2019-09-29 | 第10回穹窿山兵聖杯韓国選抜戦 | Kim Cheayoung | Kim Hyeoimin | Lose | W+R | 7.5 | 
+| 2019-09-08 | 第7回中国女子囲碁甲級リーグ第12節 | Kim Cheayoung |  | Win | B+R | 7.5 | 
+| 2019-08-22 | 第5回韓国女子囲碁リーグ第14節第3試合第2局 | Kim Eunseon | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2019-08-20 | 第24期女流国手戦16強戦 | Kim Cheayoung | Park Jiyeon | Win | B+R | 6.5 | 
+| 2019-08-15 | 第5回韓国女子囲碁リーグ第13節第4試合第2局 | Kim Cheayoung | Wang Chenxing | Win | B+R | 6.5 | 
+| 2019-08-08 | 第5回韓国女子囲碁リーグ第12節第4試合第2局 | Kim Miri | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2019-07-31 | 第5回韓国女子囲碁リーグ第11節第3試合第1局 | Kim Cheayoung | Kang Dajeong | Win | B+4.5 | 6.5 | 
+| 2019-07-22 | 第5回韓国女子囲碁リーグ第10節第1試合第2局 | Kim Cheayoung |  | Win | B+R | 6.5 | 
+| 2019-07-19 | 第7回中国女子囲碁甲級リーグ第7節 | Kim Cheayoung |  | Win | B+R | 7.5 | 
+| 2019-07-18 | 第5回韓国女子囲碁リーグ第9節第4試合第1局 | Fujisawa Rina | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2019-07-09 | 第5回韓国女子囲碁リーグ第8節第2試合第1局 | Lee Minjin | Kim Cheayoung | Win | W+2.5 | 6.5 | 
+| 2019-07-03 | 第24回三星火災杯統合予選3回戦 | Kim Cheayoung |  | Win | B+R | 6.5 | 
+| 2019-07-02 | 第5回韓国女子囲碁リーグ第7節第2試合第2局 | Kim Cheayoung | Kim Dayoung | Lose | W+R | 6.5 | 
+| 2019-06-29 | 第24期女流国手戦予選決勝 |  | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2019-06-25 | 第7回中国女子囲碁甲級リーグ第6節 | Gao Xing | Kim Cheayoung | Lose | B+R | 7.5 | 
+| 2019-06-17 | 第5回韓国女子囲碁リーグ第6節第1試合第1局 | Kim Cheayoung | Wang Chenxing | Win | B+R | 6.5 | 
+| 2019-06-10 | 第5回韓国女子囲碁リーグ第5節第1試合第1局 | Kim Cheayoung | Kim Miri | Win | B+R | 6.5 | 
+| 2019-06-04 | 第5回韓国女子囲碁リーグ第4節第2試合第3局 | Kim Cheayoung | Choi Jeong | Lose | W+R | 6.5 | 
+| 2019-05-30 | 第5回韓国女子囲碁リーグ第3節第4試合第2局 | Kim Cheayoung | Kim Soojin | Win | B+5.5 | 6.5 | 
+| 2019-05-26 | 2019年陜川歴代英才vs女性頂上連勝対抗戦第4局 | Kim Cheayoung | Park Hyunsoo | Lose | W+R | 6.5 | 
+| 2019-05-18 | 2019年陜川歴代英才vs女性頂上連勝対抗戦第3局 | Kim Cheayoung | Park Joonhoon | Win | B+R | 6.5 | 
+| 2019-05-17 | 第5回韓国女子囲碁リーグ第2節第1試合第2局 | Kim Cheayoung |  | Win | B+R | 6.5 | 
+| 2019-05-12 | 第8回天台山体彩杯世界女子囲碁団体戦第3戦 | Ueno Asami | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2019-05-11 | 第8回天台山体彩杯世界女子囲碁団体戦第2戦 | Kim Cheayoung |  | Win | B+R | 7.5 | 
+| 2019-05-10 | 第8回天台山体彩杯世界女子囲碁団体戦第1戦 | Lu Minquan | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2019-05-08 | 第5回韓国女子囲碁リーグ第1節第3試合第2局 |  | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2019-04-28 | 第2回呉清源杯世界女子囲碁選手権16強戦 | Li He | Kim Cheayoung | Lose | B+R | 7.5 | 
+| 2019-04-23 | 第9回中国姜堰黄竜士精鍛科技杯世界女子団体戦第6戦 | Kim Cheayoung | Zhou Hongyu | Lose | W+1¼ | 7.5 | 
+| 2019-04-22 | 第9回中国姜堰黄竜士精鍛科技杯世界女子団体戦第5戦 | Mannami Nao | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2019-04-11 | 第7回中国女子囲碁甲級リーグ第2節武漢-廈門 | Kim Cheayoung | Lu Minquan | Lose | W+R | 7.5 | 
+| 2019-04-10 | 第7回中国女子囲碁甲級リーグ第1節安徽-武漢 | Kim Cheayoung | Zhou Hongyu | Lose | W+1¼ | 7.5 | 
+| 2019-03-20 | 第8回天台山杯世界女子囲碁団体戦韓国選抜戦 | Oh Jeonga | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2019-03-19 | 第8回天台山杯世界女子囲碁団体戦韓国選抜戦 | Kim Cheayoung | Kim Yoonyoung | Win | B+R | 7.5 | 
+| 2019-01-05 | 第2回クラウン・ヘテ杯2回戦 | Na Hyun | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2018-12-09 | 第2回クラウン・ヘテ杯1回戦 | Kim Cheayoung |  | Win | B+R | 6.5 | 
+| 2018-10-09 | 第2期韓国製紙女子棋聖戦16強 | Kim Cheayoung | Kim Hyeoimin | Lose | W+1.5 | 6.5 | 
+| 2018-09-17 | 第12回GGオークション杯女流対シニア連勝対抗戦第20局 | Seo Bongsoo | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2018-08-21 | 第9回穹窿山兵聖杯韓国選抜戦決勝 | Kim Cheayoung | Oh Jeonga | Lose | W+R | 6.5 | 
+| 2018-08-20 | 第9回穹窿山兵聖杯韓国選抜戦1回戦 | Kim Hyeoimin | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2018-07-25 | 第1回呉清源杯世界女流囲碁選手権決勝三番勝負第2局 | Kim Cheayoung | Choi Jeong | Win | B+2¾ | 7.5 | 
+| 2018-07-23 | 第1回呉清源杯世界女流囲碁選手権決勝三番勝負第1局 | Choi Jeong | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2018-07-19 | 第23期女流国手戦16強戦 | Kim Cheayoung | Kim Dayoung | Lose | W+R | 6.5 | 
+| 2018-07-13 | 第20回農心杯韓国選抜戦 | Kim Cheayoung | Song Taekon | Lose | W+R | 6.5 | 
+| 2018-05-21 | 第4回韓国女子囲碁リーグプレーオフ | Kim Cheayoung |  | Lose | W+R | 6.5 | 
+| 2018-05-17 | 第4回韓国女子囲碁リーグ第18節 | Wang Chenxing | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2018-05-15 | 第4回韓国女子囲碁リーグ第17節 | Kim Cheayoung |  | Win | B+R | 6.5 | 
+| 2018-05-12 | 第7回天台山森然楊帆杯世界女子囲碁団体選手権第3戦 | Zhang Kaixin | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2018-05-11 | 第7回天台山森然楊帆杯世界女子囲碁団体選手権第2戦 | Kim Cheayoung | Ueno Asami | Win | B+R | 7.5 | 
+| 2018-05-10 | 第7回天台山森然楊帆杯世界女子囲碁団体選手権第1戦 | Li He | Kim Cheayoung | Win | W+¼ | 7.5 | 
+| 2018-05-05 | 第4回韓国女子囲碁リーグ第15節 | Choi Jeong | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2018-05-01 | 第1回呉清源杯世界女流囲碁選手権準決勝 | Yu Zhiying | Kim Cheayoung | Win | W+¼ | 7.5 | 
+| 2018-04-30 | 第1回呉清源杯世界女流囲碁選手権8強戦 | Kim Cheayoung | Xie Yimin | Win | B+R | 7.5 | 
+| 2018-04-28 | 第1回呉清源杯世界女流囲碁選手権16強戦 | Kim Cheayoung | Gao Xing | Win | B+R | 7.5 | 
+| 2018-04-27 | 第1回呉清源杯世界女流囲碁選手権本戦1回戦 | Kim Cheayoung | Nyu Eiko | Win | B+¾ | 7.5 | 
+| 2018-04-25 | 第4回韓国女子囲碁リーグ第14節 | Lee Minjin | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2018-04-24 | 第4回韓国女子囲碁リーグ第13節 |  | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2018-04-19 | 第4回韓国女子囲碁リーグ第12節 | Kim Cheayoung | Park Shiun | Win | B+R | 6.5 | 
+| 2018-04-12 | 第4回韓国女子囲碁リーグ第10節 | Pan Yang | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2018-04-08 | 第4回韓国女子囲碁リーグ第9節 | Kim Cheayoung | Park Taehee | Win | B+R | 6.5 | 
+| 2018-03-31 | 第4回韓国女子囲碁リーグ第8節 | Kim Cheayoung |  | Win | B+R | 6.5 | 
+| 2018-03-28 | 第4回韓国女子囲碁リーグ第7節 |  | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2018-03-27 | 第7回天台山農商銀行杯韓国代表選抜戦決勝 | Kim Dayoung | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2018-03-26 | 第7回天台山農商銀行杯韓国代表選抜戦準決勝 | Cho Hyeyeon | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2018-03-23 | 第4回韓国女子囲碁リーグ第6節 |  | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2018-03-20 | 第4回韓国女子囲碁リーグ第5節 | Kim Cheayoung | Kim Dayoung | Win | B+R | 6.5 | 
+| 2018-03-19 | 第8回中国姜堰黄竜士精鍛科技杯韓国選抜戦 | Cho Hyeyeon | Kim Cheayoung | Lose | B+R | 7.5 | 
+| 2018-03-18 | 第1回韓国竜星戦32強ダブルエリミネーションD3 | Lee Sedol | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2018-03-16 | 第4回韓国女子囲碁リーグ第4節 | Lee Youngjoo | Kim Cheayoung | Win | W+0.5 | 6.5 | 
+| 2018-03-11 | 第4回韓国女子囲碁リーグ第3節 | Kim Cheayoung | Kim Miri | Win | B+R | 6.5 | 
+| 2018-02-28 | 第1回呉清源杯世界女流囲碁大会韓国代表選抜戦決勝 | Kim Cheayoung | Kim Dayoung | Win | B+R | 7.5 | 
+| 2018-02-27 | 第1回呉清源杯世界女流囲碁大会韓国代表選抜戦 | Kim Cheayoung | Cho Hyeyeon | Win | B+R | 7.5 | 
+| 2018-02-25 | 第4回韓国女子囲碁リーグ第1節 | Pan Yang | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2018-01-23 | 第22期女流国手戦決勝三番勝負第2局 | Choi Jeong | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2018-01-22 | 第22期女流国手戦決勝三番勝負第一局 | Kim Cheayoung | Choi Jeong | Lose | W+R | 6.5 | 
+| 2018-01-12 | 2017年シニアvs女流チャンピオンズカップ第2戦 | Chang Suyeong | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2018-01-11 | 2017年シニアvs女流チャンピオンズカップ第1戦 | Kim Cheayoung | Cho Chikun | Win | B+3.5 | 6.5 | 
+| 2018-01-08 | 第22期女流国手戦準決勝 | Kim Cheayoung | Kim Miri | Win | B+R | 6.5 | 
+| 2017-12-21 | 第22期女流国手戦8強戦 | Oh Yujin | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2017-12-10 | 第1回クラウン・ヘテ杯1回戦 | Park Geunho | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2017-11-22 | 第22期女流国手戦1回戦 | Kang Dajeong | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2017-11-06 | 第1期韓国製紙女子棋聖戦8強戦 |  | Kim Cheayoung | Lose | B+2.5 | 6.5 | 
+| 2017-10-29 | 第5回中国女子囲碁甲級リーグ第12節 | Kim Cheayoung | Pan Yang | Lose | W+R | 7.5 | 
+| 2017-10-27 | 第5回中国女子囲碁甲級リーグ第11節 | Lu Minquan | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2017-10-25 | 第5回中国女子囲碁甲級リーグ第10節 | Kim Cheayoung | Park Taehee | Win | B+R | 7.5 | 
+| 2017-10-21 | 第2回韓国花より囲碁女王戦リーグ3回戦 | Kim Cheayoung | Kim Dayoung | Win | B+R | 6.5 | 
+| 2017-10-20 | 第2回韓国花より囲碁女王戦リーグ2回戦 | Kim Hyeoimin | Kim Cheayoung | Lose | B+3.5 | 6.5 | 
+| 2017-10-19 | 第2回韓国花より囲碁女王戦リーグ1回戦 | Kim Cheayoung | Park Shiun | Lose | W+R | 6.5 | 
+| 2017-10-10 | 第1期韓国製紙女子棋聖戦16強戦 | Kim Cheayoung | Lee Jihyun | Win | B+R | 6.5 | 
+| 2017-09-21 | 8回蘇州穹窿山兵聖杯韓国選抜決勝 | Oh Jeonga | Kim Cheayoung | Lose | B+R | 7.5 | 
+| 2017-09-20 | 8回蘇州穹窿山兵聖杯韓国選抜1 | Kim Dayoung | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2017-09-13 | 第5回中国女子囲碁甲級リーグ第9節 | Cao Youyin | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2017-09-12 | 第5回中国女子囲碁甲級リーグ第8節 | Kim Cheayoung | Li He | Lose | W+R | 7.5 | 
+| 2017-09-06 | 第22回三星火災杯世界囲碁マスターズ1回戦F2 | Kim Cheayoung | Chen Yaoye | Lose | W+R | 6.5 | 
+| 2017-09-05 | 第22回三星火災杯世界囲碁マスターズ1回戦F1 | Komatsu Hideki | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2017-08-11 | 第5回中国女子囲碁甲級リーグ第7節 | Song Ronghui | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2017-08-09 | 第5回中国女子囲碁甲級リーグ第6節 | Kim Cheayoung | Chen Yiming | Win | B+R | 7.5 | 
+| 2017-07-02 | 第22回三星火災杯統合予選4回戦 | Kim Cheayoung | Yu Zhiying | Win | B+R | 6.5 | 
+| 2017-06-01 | 3期韓国女子連戦総決勝浦項-麗水3回 | Kim Dayoung | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2017-05-24 | 第3回韓国女子囲碁リーグ優勝決定戦第2戦 | Kim Cheayoung | Lee Sula | Win | B+R | 6.5 | 
+| 2017-05-22 | 3期韓国女子連戦総決勝浦項-麗水3番1回 | Kim Cheayoung | Kim Dayoung | Win | B+R | 6.5 | 
+| 2017-05-07 | 第5回中国女子囲碁甲級リーグ第2節 |  | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2017-05-06 | 第5回中国女子囲碁甲級リーグ第1節 |  | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2017-05-04 | 3期韓国女子連戦14回戦浦項-京畿湖畔 | Kim Cheayoung |  | Win | B+R | 6.5 | 
+| 2017-04-28 | 3期韓国女子連戦13回戦浦項-麗水 | Lee Minjin | Kim Cheayoung | Win | W+10.5 | 6.5 | 
+| 2017-04-25 | 3期韓国女子連戦12回戦浦項-麟蹄 | Park Taehee | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2017-04-14 | 3期韓国女子連戦11回戦浦項-西帰浦 | Kim Cheayoung |  | Win | B+R | 6.5 | 
+| 2017-04-11 | 3期韓国女子連戦10回戦浦項-京畿SG | Kim Cheayoung | Rui Naiwei | Win | B+R | 6.5 | 
+| 2017-04-07 | 3期韓国女子連戦9回戦浦項-扶安 | Kim Hyeoimin | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2017-04-02 | 3期韓国女子連戦8回戦首尓-浦項 | Kim Cheayoung | Song Ronghui | Win | B+R | 6.5 | 
+| 2017-03-21 | 3期韓国女子連戦7回戦浦項-京畿湖畔 | Kim Yoonyoung | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2017-03-18 | 3期韓国女子連戦6回戦浦項-麗水 | Lee Sula | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2017-03-10 | 3期韓国女子連戦5回戦浦項-麟蹄 | Lee Youngjoo | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2017-03-07 | 3期韓国女子連戦4回戦浦項-西帰浦 | Kim Cheayoung |  | Lose | W+R | 6.5 | 
+| 2017-03-05 | 3期韓国女子連戦3回戦浦項-京畿SG | Park Shiun | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2017-02-25 | 3期韓国女子連戦2回戦浦項-扶安 | Kim Cheayoung | Kim Hyeoimin | Win | B+R | 6.5 | 
+| 2017-02-16 | 3期韓国女子連戦1回戦首尓-浦項 | Moon Dowon | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦第3戦 | Kim Cheayoung | Okuda Aya | Win | B+4.5 | 6.5 | 
+| 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦決勝 | Kim Cheayoung | Chen Yiming | Lose | W+1.5 | 6.5 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Kim Cheayoung | Chen Yiming | Lose | W+R | 6.5 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Su Shengfang | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2016-09-25 | 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 |  | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2016-09-24 | 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Song Ronghui | Kim Cheayoung | Win | W+1.5 | 6.5 | 
+| 2016-09-23 | 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Kim Cheayoung | Ueno Asami | Win | B+R | 6.5 | 
+| 2016-09-21 | 第21期女流国手戦8強戦 | Kim Cheayoung | Choi Jeong | Lose | W+R | 6.5 | 
+| 2016-08-18 | 第21期女流国手戦1回戦 | Kim Cheayoung | Kang Dajeong | Win | B+R | 6.5 | 
+| 2016-08-06 | 2016年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Kim Cheayoung |  | Lose | W+R | 7.5 | 
+| 2016-07-15 | 第21回三星火災杯統合予選女子枠1回戦 | Yu Zhiying | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2016-05-28 | 第1回新奥杯世界囲碁オープン戦予選 | Kim Cheayoung | Cao Youyin | Lose | W+R | 7.5 | 
+| 2016-05-19 | 第2回韓国女子囲碁リーグプレーオフ | Oh Yujin | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2016-05-08 | 第2回韓国女子囲碁リーグ第14節 | Kim Miri | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2016-05-03 | 第2回韓国女子囲碁リーグ第13節 | Yu Zhiying | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2016-04-27 | 第2回韓国女子囲碁リーグ第12節 | Kim Cheayoung | Lee Minjin | Win | B+R | 6.5 | 
+| 2016-04-22 | 第2回韓国女子囲碁リーグ第11節 | Kim Cheayoung |  | Win | B+R | 6.5 | 
+| 2016-04-19 | 第2回韓国女子囲碁リーグ第10節 | Kim Cheayoung | Kang Dajeong | Win | B+R | 6.5 | 
+| 2016-04-14 | 第2回韓国女子囲碁リーグ第9節 | Kim Cheayoung | Oh Yujin | Win | B+R | 6.5 | 
+| 2016-04-11 | 第6回黄竜士双登杯世界女子囲碁団体選手権第5戦 | Xie Yimin | Kim Cheayoung | Lose | B+R | 7.5 | 
+| 2016-04-10 | 第6回黄竜士双登杯世界女子囲碁団体選手権第4戦 | Kim Cheayoung | Song Ronghui | Win | B+R | 7.5 | 
+| 2016-04-09 | 第6回黄竜士双登杯世界女子囲碁団体選手権第3戦 | Aoki Kikuyo | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2016-04-08 | 第6回黄竜士双登杯世界女子囲碁団体選手権第2戦 | Wang Xiangyun | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2016-04-07 | 第6回黄竜士双登杯世界女子囲碁団体選手権第1戦 | Kim Cheayoung | Kibe Natsuki | Win | B+R | 7.5 | 
+| 2016-04-02 | 第2回韓国女子囲碁リーグ第8節 | Kim Cheayoung | Kim Hyeoimin | Lose | W+R | 6.5 | 
+| 2016-03-29 | 第2回韓国女子囲碁リーグ第7節 | Oh Jeonga | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2016-03-24 | 第2回韓国女子囲碁リーグ第6節 | Kim Cheayoung | Choi Jeong | Lose | W+0.5 | 6.5 | 
+| 2016-03-18 | 第2回韓国女子囲碁リーグ第5節 | Kim Cheayoung | Kim Dayoung | Win | B+R | 6.5 | 
+| 2016-03-08 | 第2回韓国女子囲碁リーグ第4節 | Kim Yoonyoung | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2016-03-05 | 第2回韓国女子囲碁リーグ第3節 | Rui Naiwei | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2016-02-23 | 第2回韓国女子囲碁リーグ第2節 | Kim Cheayoung | Lee Youngjoo | Win | B+R | 6.5 | 
+| 2016-02-19 | 第2回韓国女子囲碁リーグ第1節 |  | Kim Cheayoung | Win | W+1.5 | 6.5 | 
+| 2015-09-21 | 第9回GGオークション杯女流対シニア連勝対抗戦第17戦 | Kim Cheayoung | Yoo Changhyuk | Lose | W+R | 6.5 | 
+| 2015-07-02 | 第17期女流名人戦（韓国）1回戦 | Kim Cheayoung | Park Shiun | Lose | W+R | 6.5 | 
+| 2015-04-07 | 第5回黄竜士双登杯世界女子囲碁団体選手権第10戦 | Kim Cheayoung | Song Ronghui | Lose | W+2.5 | 7.5 | 
+| 2015-03-28 | 第1回韓国女子囲碁リーグプレーオフ | Oh Yujin | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2015-03-27 | 第1回韓国女子囲碁リーグプレーオフ | Kim Cheayoung | Park Taehee | Win | B+R | 6.5 | 
+| 2015-03-26 | 第1回韓国女子囲碁リーグプレーオフ | Lee Youngjoo | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2015-03-22 | 第1回韓国女子囲碁リーグ第14節 | Kim Cheayoung | Oh Jeonga | Win | B+2.5 | 6.5 | 
+| 2015-03-18 | 第1回韓国女子囲碁リーグ第11節 |  | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2015-03-13 | 第1回韓国女子囲碁リーグ第13節 | Kim Sinyoung | Kim Cheayoung | Win | W+7.5 | 6.5 | 
+| 2015-03-10 | 第1回韓国女子囲碁リーグ第12節 | Lee Youngjoo | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2015-02-27 | 第1回韓国女子囲碁リーグ第10節 | Kim Cheayoung | Kim Yoonyoung | Lose | W+R | 6.5 | 
+| 2015-02-24 | 第1回韓国女子囲碁リーグ第9節 | Park Shiun | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2015-02-13 | 第1回韓国女子囲碁リーグ第7節 | Kim Cheayoung | Kim Miri | Win | B+R | 6.5 | 
+| 2015-02-10 | 第1回韓国女子囲碁リーグ第6節 | Kim Cheayoung | Kim Sinyoung | Win | B+R | 6.5 | 
+| 2015-02-06 | 第1回韓国女子囲碁リーグ第5節 | Lee Youngjoo | Kim Cheayoung | Win | W+10.5 | 6.5 | 
+| 2015-01-31 | 第1回韓国女子囲碁リーグ第4節 |  | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2015-01-27 | 第1回韓国女子囲碁リーグ第3節 | Kim Yoonyoung | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2015-01-23 | 第1回韓国女子囲碁リーグ第2節 | Park Shiun | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2014-09-19 | 第20期女流国手戦1回戦 | Kim Miri | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2014-08-30 | 第5回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Kim Cheayoung | Cao Youyin | Lose | W+R | 7.5 | 
+| 2014-04-04 | 第19期女流国手戦決勝三番勝負第3局 | Park Shiun | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2014-04-02 | 第19期女流国手戦決勝三番勝負第2局 | Park Shiun | Kim Cheayoung | Win | W+2.5 | 6.5 | 
+| 2014-03-31 | 第19期女流国手戦決勝三番勝負第1局 | Kim Cheayoung | Park Shiun | Lose | W+R | 6.5 | 
+| 2014-02-27 | 第19期女流国手戦準決勝 | Oh Yujin | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2014-02-14 | 第19期女流国手戦2回戦 | Cho Hyeyeon | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2013-11-22 | 2013年楽スターリーグ | Park Jiyeon | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2013-11-09 | 2013年楽スターリーグ |  | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2013-10-29 | 第6期女流棋聖戦（韓国）1回戦 | Park Jiyeon | Kim Cheayoung | Lose | B+R | 7.5 | 
+| 2013-10-19 | 2013年楽スターリーグ | Hong Kipyo | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2013-10-17 | 第19期女流国手戦1回戦 | Kim Yoonyoung | Kim Cheayoung | Win | W+0.5 | 6.5 | 
+| 2013-10-13 | 2013年楽スターリーグ | Park Junsuck | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2013-09-29 | 2013年楽スターリーグ | Kim Cheayoung | Ryu Suhang | Lose | W+R | 6.5 | 
+| 2013-08-08 | 第15期女流名人戦（韓国）敗者復活戦1回戦 | Kim Hyeoimin | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2013-06-07 | 第15期女流名人戦（韓国）本戦1回戦 | Park Jiyeon | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2013-04-28 | 第2回華頂茶業杯世界女子団体選手権第3戦 | Zhang Zhengping | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2013-04-27 | 第2回華頂茶業杯世界女子団体選手権第2戦 | Kim Cheayoung | Mukai Chiaki | Lose | W+R | 7.5 | 
+| 2013-04-26 | 第2回華頂茶業杯世界女子団体選手権第1戦 | Kim Cheayoung | Wang Chenxing | Lose | W+R | 7.5 | 
+| 2013-02-24 | 第3回黄竜士双登杯世界女子囲碁団体選手権第5戦 | Yu Zhiying | Kim Cheayoung | Lose | B+R | 7.5 | 
+| 2013-02-23 | 第3回黄竜士双登杯世界女子囲碁団体選手権第4戦 | Ishii Akane | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2013-02-22 | 第3回黄竜士双登杯世界女子囲碁団体選手権第3戦 | Kim Cheayoung | Chen Yiming | Win | B+R | 7.5 | 
+| 2013-02-21 | 第3回黄竜士双登杯世界女子囲碁団体選手権第2戦 | Kim Cheayoung | Osawa Narumi | Win | B+1.5 | 7.5 | 
+| 2013-02-20 | 第3回黄竜士双登杯世界女子囲碁団体選手権第1戦 | Song Ronghui | Kim Cheayoung | Win | W+R | 7.5 | 
+| 2013-02-15 | 第2回華頂茶業杯韓国予選 | Kim Yoonyoung | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2013-01-28 | 第3回黄竜士双登杯韓国選抜戦 | Kim Cheayoung | Lee Minjin | Win | B+R | 7.5 | 
+| 2013-01-11 | 第18期女流国手戦準決勝 | Kim Cheayoung | Park Jiyeon | Lose | W+1.5 | 6.5 | 
+| 2012-11-15 | 第18期女流国手戦2回戦 | Oh Jeonga | Kim Cheayoung | Win | W+4.5 | 6.5 | 
+| 2012-10-18 | 第18期女流国手戦1回戦 | Kim Yoonyoung | Kim Cheayoung | Win | W+R | 6.5 | 
+| 2012-05-14 | 第14期女流名人戦（韓国）敗者復活戦1回戦 | Kim Cheayoung | Park Shiun | Lose | W+R | 6.5 | 
+| 2012-03-27 | 第14期女流名人戦（韓国）本戦1回戦 | Kim Cheayoung | Lee Youngjoo | Lose | W+R | 6.5 | 
+| 2011-10-05 | 第7期圓益杯十段戦1回戦 | Jin Siyoung | Kim Cheayoung | Lose | B+R | 6.5 | 
+| 2011-10-01 | 第5期女流棋聖戦（韓国）準決勝 | Kim Cheayoung | Rui Naiwei | Lose | W+R | 6.5 | 
+| 2011-10-01 | 第5期女流棋聖戦（韓国）1回戦 | Kim Yoonyoung | Kim Cheayoung | Win | W+0.5 | 6.5 | 
+| 2011-08-01 | 第16回三星火災杯統合予選女子枠1回戦 | Kim Cheayoung | Hei Jiajia | Lose | W+2.5 | 6.5 | 
+| 2011-06-22 | 第17期女流国手戦予選 | Park Shiun | Kim Cheayoung | Lose | B+R | 6.5 |
 
 
 

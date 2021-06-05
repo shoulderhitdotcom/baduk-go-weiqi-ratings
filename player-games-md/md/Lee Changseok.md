@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-05 | 第44期名人戦（韓国）敗者復活戦3回戦 | Hyun Yoobin | Lee Changseok | Win | W+R | 6.5 | 
 | 2021-06-03 | 第26回GSカルテックス杯プロ棋戦2回戦 | Lee Changseok | Kim Myounghoon | Win | B+R | 6.5 | 
 | 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Mi Yuting | Lee Changseok | Lose | B+R | 6.5 | 
 | 2021-05-27 | 第2期ソパルコサノル最高棋士決定戦リーグ | Seol Hyunjun | Lee Changseok | Win | W+R | 6.5 | 

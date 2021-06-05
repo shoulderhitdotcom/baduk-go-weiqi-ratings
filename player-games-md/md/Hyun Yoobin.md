@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
 | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-05 | 第44期名人戦（韓国）敗者復活戦3回戦 | Hyun Yoobin | Lee Changseok | Lose | W+R | 6.5 | 
 | 2021-05-28 | 第44期名人戦（韓国）敗者復活戦2回戦 | Choi Jeong | Hyun Yoobin | Win | W+1.5 | 6.5 | 
 | 2021-05-07 | 第8回グロービス杯韓国予選 |  | Hyun Yoobin | Lose | B+R | 6.5 | 
 | 2021-04-23 | 第44期名人戦（韓国）敗者復活戦1回戦 | Hyun Yoobin | Lee Changho | Win | B+R | 6.5 | 

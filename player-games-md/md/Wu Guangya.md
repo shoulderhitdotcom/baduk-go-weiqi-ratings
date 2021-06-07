@@ -5,404 +5,405 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第23回中国囲碁甲級リーグ | Wu Guangya | Wang Zejin | B+R | 2021-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rn8wGvayfeOUQ0OOUKWQVA%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Guo Xinyi | Wu Guangya | B+R | 2021-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tFnaOT0sE18Or7MCLX4oMg%3D%3D) | 
-| 第17回倡棋杯中国プロ囲碁選手権戦予選 | Wu Guangya | Gu Lingyi | W+R | 2021-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j84qtwYi0nExe0lGrlum3g%3D%3D) | 
-| 第35期中国囲碁天元戦1回戦 | Wu Guangya | Tong Mengcheng | W+R | 2021-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CxI0DO0RAbELVnEXvlpAZg%3D%3D) | 
-| 第35期中国囲碁天元戦1回戦 | Wu Guangya | Zhou Hongyu | B+R | 2021-01-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6YGb1ZaTBqls3ZLlgW7eGg%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Zhao Chenyu | Wu Guangya | W+R | 2020-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ht5wfg8Ky1aC7C5i2KWtpQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Wu Guangya | Huang Yunsong | W+R | 2020-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KX%2BqmynMKNStt9nTOMW5iA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Hu Yaoyu | Wu Guangya | B+R | 2020-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=slNs%2BUBkCBcnyX7ea5PNmg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Wu Guangya | Xie Ke | B+1¾ | 2020-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cwGHk%2Bi%2F9fvfqRYKy0Nu2Q%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Wu Guangya | Tu Xiaoyu | W+¼ | 2020-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WdiXjR7Ay4XwXyoE6Otkjw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Zhang Tao | Wu Guangya | W+¼ | 2020-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rEK1BvyEyjfYfuLC6oHgbw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Gu Lingyi | Wu Guangya | B+R | 2020-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zMGMNspKOXZFJPEHdkioeQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第8節 | missing | Wu Guangya | W+R | 2020-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FOFbro94TvHl1qnvc%2BYG%2Fw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第7節 | Liao Xingwen | Wu Guangya | B+R | 2020-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7MyXFQRQ9JQrKNO4ftIuFQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第4節 | Wu Guangya | Tao Xinran | W+R | 2020-08-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gTOjZv%2BEqBQ7yRXc6HbaaQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第3節 | Wu Guangya | Zhao Chenyu | W+R | 2020-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=snpE%2Bjo14Lxex5F0s5NgdQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第2節 | Kang Dongyun | Wu Guangya | W+R | 2020-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zOo4RBZJzZ2fKT%2BLkB2kqw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第1節 | Wu Guangya | Zhou Ruiyang | W+R | 2020-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xv31GcJ85L72Q4EBXbBhcQ%3D%3D) | 
-| 第5期洛陽白雲山杯中国棋聖戦予選 | Xie He | Wu Guangya | W+R | 2019-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UKe1KakxvLdQJe4DyL1ghQ%3D%3D) | 
-| 第11期中国竜星戦Aブロック4回戦 | Wu Guangya | Wang Haoyang | W+R | 2019-12-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5A5zFwDda9mUVLzyT7g06Q%3D%3D) | 
-| 第11期中国竜星戦予選 | Wu Guangya | Li Qincheng | B+R | 2019-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x8M3J1z9juPUtnzjmh5dQQ%3D%3D) | 
-| 第11期中国竜星戦予選 | Wu Guangya | Tan Xiao | B+R | 2019-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g0hN1zOwotV3VqNyKUxK8g%3D%3D) | 
-| 第21回中国囲碁甲級リーグ優勝決定戦第2戦 | Wu Guangya | Shin Jinseo | W+1¼ | 2019-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MOF%2BTs%2BqRymK5XHu2QmyUw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ優勝決定戦第1戦 | Xie Ke | Wu Guangya | B+R | 2019-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lYAY13bqLTNhx%2FzahTOJYw%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ3回戦第2戦 | Peng Liyao | Wu Guangya | B+¾ | 2019-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MwSpDYk6BmkWLULpzIXSLA%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 | Wu Guangya | Peng Liyao | W+R | 2019-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9tqhOIO2VYee4Yf6J6NncA%3D%3D) | 
-| 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Ke Jie | Wu Guangya | B+R | 2019-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g255XtXxcA%2BrttF68dkYRQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Wu Guangya | Li Weiqing | W+R | 2019-10-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TM4oBLK%2BEFN%2Bo8FlQqPgAA%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Wang Xinghao | Wu Guangya | W+2¼ | 2019-10-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MW%2BH7sI7Xa9EHF8f6mYA%2Bw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第15節 | Liu Xing | Wu Guangya | W+R | 2019-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dOaHVPydC26stlW%2BpqplGg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第14節 | Fan Yin | Wu Guangya | B+R | 2019-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rc8UM4cSzpkRU2ERnM5zQw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第13節 | Wu Guangya | Zhang Qiang | B+R | 2019-08-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cD%2BLAO7FsmG3ey%2Bbz8iKIA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第12節 | Chen Zhengxun | Wu Guangya | W+R | 2019-08-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F3P%2FJ01lbg1i9Oh70gH%2FzQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第8節 | Tu Xiaoyu | Wu Guangya | B+R | 2019-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ixmREihFPkRldQRpop%2B6DQ%3D%3D) | 
-| 第21期阿含・桐山杯中国早碁オープン戦予選2回戦 | Wu Guangya | Wang Chenxing | B+R | 2019-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f4bFcpNo8RFFt8KTQxwA%2Fg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第7節 | Wu Guangya | Chen Xian | W+¼ | 2019-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G1fXdSjCTp8GPSVlk%2B4d7w%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第6節 | Wu Guangya | Tao Xinran | W+R | 2019-06-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w%2F23n%2B3pc8sfidtJkOxqOw%3D%3D) | 
-| 第4回夢百合杯統合予選  | Weon Seongjin | Wu Guangya | W+R | 2019-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y3HbhzToeveEwmQxF2jSSg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第5節 | Wu Guangya | Kim Jiseok | B+R | 2019-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4Fg%2BarsC6q%2B57R7uK8aorw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第4節 | Li Xiangyu | Wu Guangya | W+R | 2019-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OAL1RQ9QKlQNpVqYGieTDA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第3節 | Wu Guangya | Xie Ke | B+R | 2019-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oy5yVKvnWzSyWTei6c4MHw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第2節 | Rong Yi | Wu Guangya | W+R | 2019-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0F%2F8TAGZq%2B%2B0tgkSA0ulCg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第1節杭州-北京 | Wu Guangya | Han Yizhou | W+R | 2019-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Io3eNFr2s21wFSmqysL9cQ%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦4回戦 | Wu Guangya | Peng Liyao | W+R | 2019-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EmQgJic32jLYFHp1vRTErw%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦3回戦 | Zhou Hexi | Wu Guangya | W+3¼ | 2019-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1lrVw9tzt4td5oBF2x6QUA%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦2回戦 | Chen Yaoye | Wu Guangya | W+R | 2019-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ligdlqHGKnNjuFLE5Fc9jw%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦1回戦 | Tan Xiao | Wu Guangya | W+R | 2019-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PHe8zxeso0J8cGKfuyeZJg%3D%3D) | 
-| 第10期中国竜星戦予選 | Tan Xiao | Wu Guangya | B+R | 2019-03-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JAAXyea8VYxAzbx1zKlX%2BA%3D%3D) | 
-| 第4期洛陽白雲山杯中国棋聖戦資格戦 | Meng Tailing | Wu Guangya | B+R | 2018-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yhD2Xk9GWErPd%2B8MwMdT8Q%3D%3D) | 
-| 第4期洛陽白雲山杯中国棋聖戦資格戦 | Ding Hao | Wu Guangya | W+R | 2018-12-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jfagUzzxmWftcYHd%2FB9NVA%3D%3D) | 
-| 第4期洛陽白雲山杯中国棋聖戦入囲戦 | missing | Wu Guangya | W+R | 2018-12-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cHa6SQugdmquAcoR5pkDlg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第26節杭州-蘇泊爾 | Wu Guangya | Li Qincheng | W+R | 2018-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rOETxoskaFLIg%2BW4Y38qsg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第25節天津-杭州 | Wu Guangya | Tang Weixing | B+R | 2018-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QK4nYE6HxPA1zgDsUaEMiA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第24節杭州-江蘇 | Wu Guangya | Tong Mengcheng | W+R | 2018-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T6SY%2FhmO3nwzhW7Uy97Zwg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第23節廈門-杭州 | Wu Guangya | Fan Yin | B+R | 2018-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kbw8BPmPHwAe3OMYur0SJA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第22節杭州-浙江 | Li Zhe | Wu Guangya | W+R | 2018-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uUIAInxXuHjl3Z019lXx%2FQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第21節上海-杭州 | Wu Guangya | Hu Yaoyu | B+R | 2018-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ULaUpkSt%2B19p%2BFJ7vhHSAQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第20節杭州-江西 | Wu Guangya | Tu Xiaoyu | W+R | 2018-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZLLqEfv92qIuSq3pPw0Rqw%3D%3D) | 
-| 第14期威孚房開杯棋王戦32強戦 | Wu Guangya | Xie Erhao | W+R | 2018-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MLPYDqaaIAiCAcZHswPlgA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第17節衢州-杭州 | missing | Wu Guangya | B+R | 2018-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=annj9mUpG0FHMbzVzdil8g%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第15節民生-杭州 | Wu Guangya | Kim Jiseok | W+1¼ | 2018-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YjyNzTBtKaM1jx90Kqf5fw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第14節杭州-中信 | Wu Guangya | Han Yizhou | W+R | 2018-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vIF%2FKdVMny4kDLq1ZGRWiA%3D%3D) | 
-| 第23回三星火災杯世界囲碁マスターズ1回戦H2 | Ryu Shikun | Wu Guangya | B+R | 2018-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bVg9F3MkKuWyLEfknWDohA%3D%3D) | 
-| 第23回三星火災杯世界囲碁マスターズ1回戦H1 | Wu Guangya | Shin Jinseo | W+R | 2018-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PMsmRVBLZIniuIEjybWl4A%3D%3D) | 
-| 2018中国国家隊青年組選抜5回戦 | Wang Zejin | Wu Guangya | B+R | 2018-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9PJvYsqsOB7rN59%2Fu4t0Zw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第13節蘇泊爾-杭州 | Wu Guangya | Xie Ke | W+R | 2018-08-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NtWasiUbtW34PbIE81v6Ww%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第12節杭州-天津 | Wang Zejin | Wu Guangya | B+R | 2018-08-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jmnd%2FSJs0poN0dRX%2BSzVQw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第11節江蘇-杭州 | Wu Guangya | Huang Yunsong | B+R | 2018-08-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G6Fh6y2LyI2irelKKAkWHg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第10節杭州-廈門 | Wu Guangya | Peng Liyao | B+R | 2018-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WyxVvhR9zCyOmu89m8J8FA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第9節浙江-杭州 | Zhang Tao | Wu Guangya | B+R | 2018-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EOEgMIT%2FeEqttBw0UM2Msg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第8節杭州-上海 | Wu Guangya | Xie He | W+R | 2018-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9u1J484Eggjgca%2BciUSbDA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第7節江西-杭州 | Wu Guangya | Xu Jiayang | W+R | 2018-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Uf8dTXNa0J3sUa%2BPuy2Fqg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第6節杭州-山東 | Jiang Weijie | Wu Guangya | B+R | 2018-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uM1vx45rda2nL0sVDydEXA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第5節成都-杭州 | Gu Lingyi | Wu Guangya | W+R | 2018-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OOmKz9oYCwJB8Txg5tkHLQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第4節杭州-衢州 | missing | Wu Guangya | W+R | 2018-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qx1A3layalW3CVsnmArcdw%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦1回戦 | Wu Guangya | Jiang Weijie | W+R | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ikGU3kfM7CWGeeKzSwoOPw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第3節重慶-杭州 | Yang Dingxin | Wu Guangya | W+R | 2018-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MH9oy7dXZe%2BnmPHVeTJPVA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第2節杭州-民生 | Wu Guangya | Shen Peiran | B+R | 2018-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bFYyT4tusmAOjpZUAxZeSg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第1節中信-杭州 | Kim Myounghoon | Wu Guangya | W+R | 2018-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aG%2Bwr3gK%2B30WxEtlWTXMwA%3D%3D) | 
-| 第15期倡棋杯中国プロ囲棋選手権戦予選準決勝 | Wu Guangya | missing | W+R | 2018-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=92kqZg981VOERHd3ezwxdQ%3D%3D) | 
-| 第9期中国竜星戦Bブロック第2局 | Chen Zijian | Wu Guangya | B+¾ | 2018-03-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5%2B0dj4KpmwIFxdC5VFjALA%3D%3D) | 
-| 第9期中国竜星戦予選 | Rong Yi | Wu Guangya | W+R | 2018-03-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m%2BuVB2Mq3AOHmvU6NOxuDw%3D%3D) | 
-| 第9期中国竜星戦予選 | Tan Xiao | Wu Guangya | W+R | 2018-03-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MDCYZRdi4DctRYJgi0xoCg%3D%3D) | 
-| 第32期中国囲碁天元戦1回戦 | Zhou Ruiyang | Wu Guangya | B+R | 2018-01-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XINYofgn1hk3o3hApk1rMA%3D%3D) | 
-| 第3期洛陽白雲山杯中国棋聖戦予選甲組 | Wu Guangya | Huang Yizhong | W+R | 2017-12-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r3Epwc3WdwmL%2F5tOmBSmsg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第24節 | Yang Kaiwen | Wu Guangya | B+R | 2017-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TLUHxH%2By%2FmRzHdoP6v2GLg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第21節 | missing | Wu Guangya | W+R | 2017-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=si1VW668zzp6Gwk4sdJnqA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第20節 | Wu Guangya | Huang Xin | B+R | 2017-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7haoByZheHGKydip9SNhZA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第16節 | Wu Guangya | missing | B+R | 2017-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dX09QRbqVMGcYQH76jUFCA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第15節 | Rong Yi | Wu Guangya | B+R | 2017-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y0B9SZE8jpnoEVYwVD7Clg%3D%3D) | 
-| 2017中国国家青年隊選抜戦7回戦 | Li Xiangyu | Wu Guangya | W+R | 2017-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ldLu0gLCDGLcPU9IOOZ7Yw%3D%3D) | 
-| 中国浙江平湖当湖十局杯CCTV64強 | Gu Zihao | Wu Guangya | W+R | 2017-08-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MGZhC%2Bn0iP%2BqrIw6hU8PqA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第13節 | Wu Guangya | Li Weiqing | W+R | 2017-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ntd2EUI2Czd2gZYwHucHCw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第12節 | Gu Lingyi | Wu Guangya | B+R | 2017-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZdnGLnlVzMr3H6iTodJUZQ%3D%3D) | 
-| 嫘祖杯30回中国名人戦32強戦 | Wu Guangya | Fan Tingyu | W+R | 2017-08-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RrO1%2BR915bb62WAUcYVH8w%3D%3D) | 
-| 嫘祖杯30回中国名人戦新浪網選決勝 | Tu Xiaoyu | Wu Guangya | W+R | 2017-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vyEHSFGtLUCAzXqc1E7y7g%3D%3D) | 
-| 嫘祖杯30回中国名人戦新浪網選3回戦 | Song Ronghui | Wu Guangya | W+R | 2017-07-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sOOkl%2B4ctgzxHvHMYwZVcw%3D%3D) | 
-| 第30期中国囲碁名人戦予選 | Wu Guangya | missing | B+R | 2017-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pPH%2FO95QMT7qwuZe7am1IA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第10節 | Wu Guangya | Meng Tailing | W+R | 2017-07-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9XbVwx%2Fabkte3qqyxmw2DA%3D%3D) | 
-| 第22回三星火災杯統合予選2回戦 | Wu Guangya | Weon Seongjin | W+R | 2017-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zNY13zf0I1HmrXWe6K0Ecw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第7節 | Wu Guangya | Zhou Ruiyang | W+R | 2017-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2DwYYXwePgzDjUR3806E9g%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第6節 | Fan Yin | Wu Guangya | B+R | 2017-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p%2Fs2tLQ4k7t6d9rbtcYxdA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第5節 | Wu Guangya | Kim Jiseok | W+R | 2017-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HnxDHOCOTeWneXA%2FpHMrSw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第4節 | Shin Minjun | Wu Guangya | B+R | 2017-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WJKIT1j6%2Fig%2FtJQRD4h1xg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第3節 | missing | Wu Guangya | W+R | 2017-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=faYva85X%2BX64apm4vb5eXQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第2節 | Wu Guangya | An Dongxu | W+0.5 | 2017-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iB%2B6PFN60ENxuJYKgysRAQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第1節 | Gu Li | Wu Guangya | W+0.5 | 2017-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FEp2RvVDIqY7g9vk5KBcNQ%3D%3D) | 
-| 第14期倡棋杯中国プロ囲碁選手権戦1回戦 | Meng Tailing | Wu Guangya | B+R | 2017-04-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R18rOhfKuOGAW%2FYRnoraFQ%3D%3D) | 
-| 第19期中国阿含桐山杯本選3回戦 | Wu Guangya | Zhao Chenyu | W+2.5 | 2017-04-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U4qcYPP6qp6MagVmYaHDoQ%3D%3D) | 
-| 世界第三期Mlily夢百合杯予選決勝 | Ahn Kukhyun | Wu Guangya | B+R | 2017-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ns67lSidijjBFXQpoIQ5gw%3D%3D) | 
-| 第31期中国囲碁天元戦予選 | Wu Guangya | Jiang Weijie | W+R | 2017-01-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n8qOp7N%2FwLdUEbDES2DGcg%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選4回戦 | Wu Guangya | Xie Ke | W+R | 2016-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bbPqdMLQi0vsBpDdwIl16A%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選3回戦 | Ding Shixiong | Wu Guangya | W+R | 2016-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JKAOOyFVDiyNmrwdaK6ZFQ%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選2回戦 | missing | Wu Guangya | W+R | 2016-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rWl4wV3RKLN3Te30UJp9GQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第22節 | Hu Yuhan | Wu Guangya | W+R | 2016-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HQxswETI9reG9eH7w%2B1%2F6g%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第21節 | Wu Guangya | Gu Lingyi | B+R | 2016-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n7agJCWF9Nt%2Bw0rohoZMSg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第20節 | Ding Hao | Wu Guangya | W+R | 2016-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FMzmBnAzTJ43AdJ866%2FUNA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第19節 | Chen Zhengxun | Wu Guangya | W+R | 2016-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gh8J1UvHBSqiWb2OdVqxxA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第18節 | Wu Guangya | Huang Yunsong | B+R | 2016-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X%2B7ZFr7SnnHkUYmqOV7pdg%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦1回戦 | Ida Atsushi | Wu Guangya | B+1.5 | 2016-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ITb721GdCJtHW2MvbcaewA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第17節 | Wu Guangya | Yang Dingxin | B+1.5 | 2016-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bq0I5jJAprMkapfTLcZe3Q%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第16節 | Fan Yin | Wu Guangya | B+R | 2016-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nAGO5jnoGuyiey2HH0Jbnw%3D%3D) | 
-| 第8期中国竜星戦予選 | Zhang Qiang | Wu Guangya | B+R | 2016-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FiN5rYrZ4CGbzm2RfaFz2g%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第15節 | Wu Guangya | Peng Liyao | W+R | 2016-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZOcJSefwiBn5pRg5qrupqg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第14節 | Wu Guangya | Zhou Ruiyang | W+2.5 | 2016-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JqUv%2FTLUsKjlsMgQXkaAYQ%3D%3D) | 
-| 2016年全国囲棋個人戦男子組第9戦 | Yang Kaiwen | Wu Guangya | W+R | 2016-09-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NXsKRx%2FrfanNNU%2BNfVggNA%3D%3D) | 
-| 2016年全国囲棋個人戦男子組第8戦 | Guo Yuzheng | Wu Guangya | B+R | 2016-09-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BewC99Qw0TtJ%2FihjtFgrIw%3D%3D) | 
-| 2016年全国囲棋個人戦男子組第7戦 | Wu Guangya | missing | B+R | 2016-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OZRQ9BTLVSqucsP%2FWEZ4aQ%3D%3D) | 
-| 2016年全国囲棋個人戦男子組第5戦 | Wu Guangya | Chen Zijian | W+R | 2016-09-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZCVCyJpHOuSqQ8genaiOIA%3D%3D) | 
-| 2016年全国囲棋個人戦男子組第3戦 | Wu Guangya | Zhong Wenjing | W+R | 2016-09-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K058cUrcC0WZSoKEkd602Q%3D%3D) | 
-| 2016金立杯囲棋甲級リーグ戦聯戦第13R | Lee Donghoon | Wu Guangya | W+R | 2016-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=To3aUaI1yW8oAPFcZmvmKA%3D%3D) | 
-| 第12期威孚房開杯棋王戦1回戦 | Tan Xiao | Wu Guangya | B+R | 2016-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R2ouA67I22MO7w4LZEqzeg%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Wu Guangya | Lian Xiao | W+R | 2016-07-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rzW8LAxWCycyvUUToV1%2Fjg%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Lian Xiao | Wu Guangya | B+R | 2016-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pngc8fOzdsFHLjiUHmnaxQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第11節 | Wu Guangya | Kim Jiseok | W+R | 2016-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3%2BMq0mR6%2FcLlA5Y7C1TYDA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第10節 | Liao Yuanhe | Wu Guangya | B+1.5 | 2016-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cwhXbdLtnYYLpcpRrsB%2BkA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第9節 | Liu Xing | Wu Guangya | W+R | 2016-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DHE%2BZICHGDUXXm5ucsMHcw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第8節 | Wu Guangya | Wang Zejin | W+R | 2016-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nuoOYyuRaIpWfkWmX0IipA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第7節 | Zhao Chenyu | Wu Guangya | W+R | 2016-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ytmd70Y7M83bXeoDARsPFQ%3D%3D) | 
-| 2016CCTV杯中国囲棋電視快棋戦1回戦 | Wang Yao | Wu Guangya | B+R | 2016-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GQCzjAXsGdu4RPjCTmKcow%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第6節 | Wu Guangya | Wang Xi | W+R | 2016-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=02kmnUdddaou9BzN5JHh1g%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Chen Yaoye | Wu Guangya | B+R | 2016-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qq%2FvNAJ%2B%2BI4jADeKm0Po9w%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Ding Shixiong | Wu Guangya | W+R | 2016-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=87j6pRfGN0dNkG0ZLqtBXA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第5節 | missing | Wu Guangya | W+R | 2016-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3p8KgO7StqN1FwxVqHjFyQ%3D%3D) | 
-| 第18期阿含・桐山杯中国早碁オープン戦1回戦 | Huang Yunsong | Wu Guangya | B+R | 2016-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YolnLH5nE82c%2FJUlWqLgFA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第4節 | Tao Xinran | Wu Guangya | W+R | 2016-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ogs%2BN0ICutyrMLYCmHKCgQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第2節 | Yang Kaiwen | Wu Guangya | B+R | 2016-04-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wsPQ1xqKuBPHc%2F9PWErOkg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第1節 | Wu Guangya | Zhong Wenjing | W+R | 2016-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8A093dZFrvXj%2Fh2UkZsohw%3D%3D) | 
-| 第21回LG杯予選 | Dang Yifei | Wu Guangya | B+R | 2016-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jj9DtnzX%2F2IFrQ4cwEygUw%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦3回戦 | Wu Guangya | Gu Zihao | B+R | 2016-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o60kG%2FRPjBGcGBgrrH82cw%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦2回戦 | Yu Zhiying | Wu Guangya | W+R | 2016-03-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=24WXmH5WY%2F9mi%2B3dhyP3RA%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Wu Guangya | Chen Yaoye | B+1 | 2016-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IzhXP%2FXD8k4jqyHznViYoA%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦予選 | Sun Tengyu | Wu Guangya | W+R | 2016-02-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sK63hHR7L6YFO%2Futlex4Lw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第22節 | Wu Guangya | missing | W+R | 2015-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YEJ726oIp9eCBGIDNoudUQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第21節 | Xie Erhao | Wu Guangya | B+R | 2015-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DZp3NEf29fmN2zXiY4i1SQ%3D%3D) | 
-| 第17回農心辛ラーメン杯世界囲碁最強戦第5戦 | Choi Cheolhan | Wu Guangya | B+R | 2015-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3KmBjt6QU6UXq2I3yHFcKQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第14節 | Kim Jiseok | Wu Guangya | B+R | 2015-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FZBOcPMBM76lwqx6tnJqMA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第20節 | Wu Guangya | Qiu Jun | B+R | 2015-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XKMOjMDbLQcPR7JPj9mEZg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第19節 | Zhao Chenyu | Wu Guangya | W+R | 2015-11-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EMaFah3cbQd3UX%2FTvmm4Zw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第18節 | Wu Guangya | Ding Shixiong | B+R | 2015-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lSjIoHQCx9pN6OxQ9QLX8A%3D%3D) | 
-| 第17回農心辛ラーメン杯世界囲碁最強戦第4戦 | Ichiriki Ryo | Wu Guangya | W+R | 2015-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WMshIkrxqIGUU5eq4fTf6Q%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第17節 | Wu Guangya | missing | B+R | 2015-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z3%2FrI%2BevUxZPM48KLs3vow%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第15節 | Wu Guangya | Li Xuanhao | W+R | 2015-10-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pSTy2cqZ9kUp8HIqlxOrmA%3D%3D) | 
-| 第11期威孚房開杯棋王戦1回戦 | Wu Guangya | Fan Yunruo | W+R | 2015-10-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5MX3q%2By6fg3owZPEjabj0w%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第16節 | Gu Zihao | Wu Guangya | B+1.5 | 2015-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u6gH%2BnL1qovITLrGYruTSA%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Yang Dingxin | Wu Guangya | B+R | 2015-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4BAq6bAEyIBT1VVmClPlyA%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Wu Guangya | Gong Yanyu | B+R | 2015-09-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dStrAuNioM0iSehgHfO%2BnA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第13節 | Wu Guangya | Tao Xinran | B+R | 2015-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JVrgVelcYMrHkk2YS3bffg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第12節 | Mao Ruilong | Wu Guangya | W+2.5 | 2015-09-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t5hDlKpuwg6q9k%2F7r%2F1TyA%3D%3D) | 
-| 第2回夢百合杯世界オープン戦3回戦 | Wu Guangya | Xie Ke | W+R | 2015-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=upMli06pQ0EqQ%2BP%2BNGLJSw%3D%3D) | 
-| 第7期中国竜星戦予選 | Wu Guangya | Tao Xinran | W+0.5 | 2015-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XgYJ4tRIcjQVTW1HiDS%2BAA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第11節 | Wu Guangya | missing | B+5.5 | 2015-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rwIm0jA%2F%2F4md4DGomWWF9g%3D%3D) | 
-| 第2回夢百合杯世界オープン戦2回戦 | Shi Yue | Wu Guangya | W+R | 2015-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fk1EjkTzYpNBXybrX5qAFQ%3D%3D) | 
-| 第2回夢百合杯世界オープン戦1回戦 | Wu Guangya | Ida Atsushi | B+R | 2015-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GQJSL2lhrB6mD2XzURk7Ow%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第10節 | Tong Mengcheng | Wu Guangya | W+0.5 | 2015-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cXFJ1TgYeh3HzXg2b%2Fer4w%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第9節 | Na Hyun | Wu Guangya | W+R | 2015-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SS2w1Ims4P2Zka3aMGYx%2Fg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第8節（再対局） | Wu Guangya | Huang Yunsong | W+R | 2015-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FB4TyvlMB%2FrpvC%2FsoD80bA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第8節 | Wu Guangya | Huang Yunsong | Void | 2015-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cNftZylET8dTVTd69dciUQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第7節 | Fan Tingyu | Wu Guangya | W+R | 2015-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oevP2pNKzKotFSw936V8kg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第6節 | Wu Guangya | Zhong Wenjing | B+R | 2015-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3ApilZNwj8ObLi1uVoycWg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第5節 | Wu Guangya | missing | B+1.5 | 2015-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BCGfPV3rIu92r0EL3qKbJQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第4節 | Wu Guangya | Li Xuanhao | B+R | 2015-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=enEfwM7Brl%2BQUJRz%2BR8GzA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第3節 | Hu Yuhan | Wu Guangya | B+R | 2015-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1llIqfL8ajwnsp%2BRRNY85g%3D%3D) | 
-| 第28期中国囲碁名人戦予選 | Zhu Yuanhao | Wu Guangya | B+R | 2015-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7PYZYNSa4c%2Foarm9aUnsgw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第2節 | Wu Guangya | Xu Jiayang | B+R | 2015-05-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9BqdBrAm1PiaasgmjQg2FA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第1節 | Mao Ruilong | Wu Guangya | W+R | 2015-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f7P6hQjydstcJXejbNU3EA%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦予選 | Wu Guangya | Tong Mengcheng | W+R | 2015-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5oeCEz%2BfnrYaJ0MWKpdksg%3D%3D) | 
-| 第29期中国囲碁天元戦1回戦 | Wu Guangya | Shi Yue | W+R | 2015-01-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bYnJs4PhgiscGPDOfxBA4g%3D%3D) | 
-| 第29期中国囲碁天元戦予選 | Li Zhe | Wu Guangya | W+R | 2015-01-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7P7%2F%2FHP33g%2FTvgIE%2FwT7%2Bg%3D%3D) | 
-| 第15期リコー杯囲碁戦2回戦 | Wu Guangya | Li Xuanhao | W+R | 2015-01-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dyg22UflfXPXmJWnHb3LCA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第21節 | Chang Hao | Wu Guangya | B+R | 2014-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HOUn5xCWViPMoYZVG4Ifzw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第20節 | Wu Guangya | Gu Li | B+R | 2014-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gMmOcuxzMrX5%2FEc2OSY5vQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第17節 | missing | Wu Guangya | B+R | 2014-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U6lUQGm%2F5jP2mR3tynGd9Q%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第16節 | missing | Wu Guangya | W+R | 2014-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0x8ngx6A0nDP%2BLjqcWjVnA%3D%3D) | 
-| 第10期威孚房開杯棋王戦2回戦 | Shi Yue | Wu Guangya | B+R | 2014-10-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FGwDyDLTGDg7dkzS8WUOwQ%3D%3D) | 
-| 第10期威孚房開杯棋王戦1回戦 | Wu Guangya | Li Xuanhao | B+1.5 | 2014-10-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qf7QIziPp2d6DbUnFU04eg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第15節 | Wu Guangya | Tang Weixing | B+R | 2014-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jHjxdxD6g76kkIYHk74D3A%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第13節 | Wu Guangya | Hu Yuhan | W+R | 2014-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AX5%2FZSBfRmSqZGXtu0zxxA%3D%3D) | 
-| 第19回三星火災杯世界囲碁マスターズ1回戦H3 | Wu Guangya | Kim Seongjae | W+3.5 | 2014-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nfe9Gza2QGLIpy7Sal0n7A%3D%3D) | 
-| 第19回三星火災杯世界囲碁マスターズ1回戦H2 | Wu Guangya | Yu Bin | B+R | 2014-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fPxJIFBqbZAPp49HnQ23sA%3D%3D) | 
-| 第19回三星火災杯世界囲碁マスターズ1回戦H1 | Wu Guangya | Kim Seongjae | W+R | 2014-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gYqrSeWJifViv%2BvTXHTbew%3D%3D) | 
-| 第6期中国竜星戦予選 | Wu Guangya | Meng Tailing | W+0.5 | 2014-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sanRq9fFMjqQP3n5WmwtmQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第11節 | Wu Guangya | Xie Erhao | W+2.5 | 2014-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6FhXFQH5hyNcmA2umxktag%3D%3D) | 
-| 第16期阿含・桐山杯中国早碁オープン戦予選 | Wu Guangya | missing | W+R | 2014-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KB5rdCfITESuC44fDWTXsg%3D%3D) | 
-| 第16期阿含・桐山杯中国早碁オープン戦予選 | Rui Naiwei | Wu Guangya | W+R | 2014-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lTR0QE0q0KGtbnYghAK0GQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第9節 | Wu Guangya | Yang Dingxin | W+R | 2014-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nRE4bZEVFhLrcvSnrNzSBg%3D%3D) | 
-| 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Zhou Ruiyang | Wu Guangya | B+R | 2014-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IRT22lfxCQtuP0FDhFc32g%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第7節 | Wu Guangya | Guo Yuzheng | W+R | 2014-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rkesqn4mf4hO%2Bbo4Qpdsuw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第5節 | Gu Lingyi | Wu Guangya | B+R | 2014-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RpauY0Fuuk8EcavC7i7%2FPA%3D%3D) | 
-| 第11期倡棋杯中国プロ囲碁選手権戦1回戦 | Wu Guangya | missing | W+R | 2014-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bBWL7NZs5Ngp2pjAGNZydA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第4節 | Ke Jie | Wu Guangya | B+R | 2014-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AWEKhLFTVFs8%2BklWYhpZSA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第3節 | Wu Guangya | missing | B+R | 2014-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=39V0AMh3UNqRCIsAQepJLg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第2節 | missing | Wu Guangya | W+R | 2014-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UupRBWI5kHIncGjheAMaOg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第1節 | Wu Guangya | Zhou Ruiyang | B+R | 2014-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R2%2B9Q1XbnbRKUWjVPBIGgA%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦1回戦 | Wu Guangya | Li Zhe | W+R | 2014-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2LCEFGhQsIbSfjcCqC1%2FcQ%3D%3D) | 
-| 第14期リコー杯囲碁戦決勝 | Lian Xiao | Wu Guangya | B+R | 2014-04-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZoeahknbPnAmixrLydHu0Q%3D%3D) | 
-| 第27期中国囲碁名人戦1回戦 | Zhou Ruiyang | Wu Guangya | B+R | 2014-04-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=15RvN9DBkEBQsGSNK%2BwxPA%3D%3D) | 
-| 第27期中国囲碁名人戦予選 | Wu Guangya | Tong Yulin | B+R | 2014-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=69M5PUs7UfVwP7EQUnvLpQ%3D%3D) | 
-| 第27期中国囲碁名人戦予選 | missing | Wu Guangya | W+R | 2014-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tUOH8Yd55RITEJdp1lnRkA%3D%3D) | 
-| 第14期リコー杯囲碁戦準決勝 | Wu Guangya | Zhou Ruiyang | B+R | 2014-02-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=npG3oHsXpyCzLwVxfiafkA%3D%3D) | 
-| 第14期リコー杯囲碁戦4回戦 | Huang Yunsong | Wu Guangya | W+4.5 | 2014-02-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IJY0GFPSS%2BCKgVgQ6t2csw%3D%3D) | 
-| 第14期リコー杯囲碁戦3回戦 | Wu Guangya | Shi Yue | B+R | 2014-02-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UjXiT5Z89w6W8wMZPs33tw%3D%3D) | 
-| 第28期中国囲碁天元戦1回戦 | Wu Guangya | Niu Yutian | W+0.5 | 2014-01-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RRk8dLBj7cS%2BmfNwEjsoxg%3D%3D) | 
-| 第14期リコー杯囲碁戦2回戦 | Tuo Jiaxi | Wu Guangya | W+R | 2013-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tve2teIL%2BhElhqU7IWndOA%3D%3D) | 
-| 第14期リコー杯囲碁戦1回戦 | Han Yizhou | Wu Guangya | W+R | 2013-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tT2LTafiO2duMnMkgs%2FERw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第22節 | Tao Xinran | Wu Guangya | B+1.5 | 2013-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=59Mf9NbGmjbLi8PB4aOxjg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第21節 | Niu Yutian | Wu Guangya | W+R | 2013-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MMgr4ilLD2DTNhosji8SRA%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ準決勝三番勝負第3局 | Wu Guangya | Lee Sedol | W+R | 2013-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=toF7E7xxFS79l3RGw80sqg%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Wu Guangya | Lee Sedol | W+R | 2013-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L%2FDKQ%2B%2FWpI%2FJCq%2FxYE6Tmg%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Lee Sedol | Wu Guangya | W+R | 2013-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6mB%2BK4Q0M0eFL02LhpMnOg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第19節 | Wu Guangya | Chang Hao | W+R | 2013-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tJqRNldjK1mHuu4efO4uiw%3D%3D) | 
-| 第9期威孚房開杯棋王戦3回戦 | Yang Dingxin | Wu Guangya | B+R | 2013-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SHvuO7vZLemC6PaI2qqzvg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第18節 | Wu Guangya | Peng Quan | B+3.5 | 2013-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iO4FPh%2BRYjIiidYwFhdnhA%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦 | missing | Wu Guangya | B+R | 2013-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8DeoOvqteronqjWjBUZsgQ%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦 | Wu Guangya | Fan Yunruo | W+R | 2013-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0UUZlPAdrAKf8Yl2mm8YWQ%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦 | Huang Yunsong | Wu Guangya | W+4.5 | 2013-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XUhkNS%2BICewacg9yq6qxYA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第16節 | Wu Guangya | Liu Xing | W+R | 2013-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DQlKPkGnFtW4VA5DLDv4%2BQ%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ3回戦 | An Sungjoon | Wu Guangya | W+R | 2013-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0K4il%2BHYn3Eje8QofsxUow%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ2回戦 | Li Xuanhao | Wu Guangya | W+R | 2013-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2e8yngdLK3ovml1ptli12g%3D%3D) | 
-| 2013年全国囲棋個人戦男子組第8戦 | Wu Guangya | Zhong Wenjing | W+R | 2013-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AJwzZ9zEafWUOKmhAa4PWQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第15節 | Tong Mengcheng | Wu Guangya | B+R | 2013-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1a5OmPSug%2BRl8aC8YQl%2BtQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第14節 | Wu Guangya | Zhong Wenjing | W+R | 2013-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3iSUZHF3DbNLh65HHE9u1w%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ1回戦A3 | Seo Bongsoo | Wu Guangya | W+5.5 | 2013-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rR7jBxwdTbSfFv0s78fUlg%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ1回戦A2 | Tang Weixing | Wu Guangya | B+1.5 | 2013-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EQdu4f0zr%2Bnya5C%2BD%2FwmMA%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ1回戦A1 | Seo Bongsoo | Wu Guangya | W+7.5 | 2013-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CcO0Q7fdpLrnYImU%2BrlflQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第13節 | Wu Guangya | Gu Li | B+R | 2013-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q7N2fUXPrLDSa6WQEtQsQA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第12節 | Wu Guangya | Byun Sangil | B+1.5 | 2013-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MtKgBWTFBXmwDwjBWT%2Bv0Q%3D%3D) | 
-| 第9期威孚房開杯棋王戦2回戦 | Zhou Heyang | Wu Guangya | W+R | 2013-08-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AYwo9p860q%2Bczcopbo6RAg%3D%3D) | 
-| 第9期威孚房開杯棋王戦1回戦 | Peng Liyao | Wu Guangya | W+0.5 | 2013-08-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pW5xNXUtvMtuDlboec4XDw%3D%3D) | 
-| 第1回夢百合杯世界オープン戦4回戦 | Wang Xi | Wu Guangya | B+3.5 | 2013-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9ukdYoJFw13aDdESKYbu8g%3D%3D) | 
-| 第1回夢百合杯世界オープン戦3回戦 | Wu Guangya | missing | B+1.5 | 2013-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ASlC0GgL9pXjx%2B2GHtT69w%3D%3D) | 
-| 第18回三星火災杯統合予選決勝 | Mi Yuting | Wu Guangya | W+1.5 | 2013-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eT303H8lDkjUDYVSw1NFzQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第11節 | Tao Xinran | Wu Guangya | W+R | 2013-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O21gWq4OBWB8NeVWbp%2BmXw%3D%3D) | 
-| 第1回夢百合杯世界オープン戦2回戦 | Wu Guangya | An Dongxu | B+R | 2013-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pEZLrcGP1b0I5v59EvNnzA%3D%3D) | 
-| 第1回夢百合杯世界オープン戦1回戦 | missing | Wu Guangya | W+R | 2013-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lOacWV%2BAxMLsVEvWSLmA4g%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第10節 | Liao Xingwen | Wu Guangya | W+R | 2013-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dll7qsmBg1dNeXb1biX9hg%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦1回戦 | Fan Tingyu | Wu Guangya | B+1.5 | 2013-06-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AjozqDA0YNfljuupAIwiIg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第9節 | Rong Yi | Wu Guangya | W+R | 2013-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d7u98Hd3IS8nmmXfhamPHA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第8節 | Fan Yunruo | Wu Guangya | W+R | 2013-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=czucLig8DW436ZPJqSuaQg%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | missing | Wu Guangya | W+R | 2013-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vafnvhl8yFhDwy6jxHHFQg%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Wu Guangya | Tao Xinran | B+5.5 | 2013-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g8FqwBoI2mgno2n0q57pJA%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Wu Guangya | missing | B+R | 2013-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ixxq2fUjOdvndikK0ou4QA%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Wu Guangya | missing | B+R | 2013-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=38GzL9P3dCHoAIiMPx%2BHRw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第7節 | Wu Guangya | Peng Quan | B+R | 2013-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BRMbKxpNRKN3UjqPLolKAw%3D%3D) | 
-| 第10期倡棋杯中国プロ囲碁選手権戦1回戦 | Mi Yuting | Wu Guangya | B+1 | 2013-05-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s83bkERgjUWFX2gOiGUYXg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第5節 | Li Qincheng | Wu Guangya | B+1.5 | 2013-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CSnaswpKPZeS2qtDwm9sJg%3D%3D) | 
-| 第10期倡棋杯中国プロ囲碁選手権戦予選 | Wu Guangya | Chen Xian | B+R | 2013-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Hy5UN7C5SCSqEUVQB302Q%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第3節 | Zhong Wenjing | Wu Guangya | B+R | 2013-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j867di7AgaaOOJ%2FOWg1Wxw%3D%3D) | 
-| 第18回LG杯予選決勝 | Wu Guangya | Mok Jinseok | W+R | 2013-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W6TewOtiJJzc0jW0Cd%2B7Gw%3D%3D) | 
-| 第26期中国囲碁名人戦予選 | Tong Yulin | Wu Guangya | B+R | 2013-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XDfYiIhfb%2FFUX84ScB6U7A%3D%3D) | 
-| 第26期中国囲碁名人戦予選 | Zhu Songli | Wu Guangya | W+0.5 | 2013-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LiE6lfIx7%2BP%2F3tOJHVGi9g%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第2節 | Xie He | Wu Guangya | B+R | 2013-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I47Pprzl2XT7yM9WNXiNBw%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | Wu Guangya | Mao Ruilong | B+R | 2013-03-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KFz2h2vDwlycwzC8d9s5TA%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | Wu Guangya | Tan Xiao | W+R | 2013-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dxQkrcRNONJ81vPQQPdT5Q%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | An Dongxu | Wu Guangya | B+R | 2013-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rp%2BvDzmvNv2zRT7Qh%2FYZcQ%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | missing | Wu Guangya | W+R | 2013-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hga3vXQLqW5nl1MwBttK6A%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | Wang Zejin | Wu Guangya | W+R | 2013-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f48LTt0d6%2Bk1a6PS%2FxLiSQ%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | Wu Guangya | missing | B+R | 2013-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XdNTPjeIO651pJpppRpmBg%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | missing | Wu Guangya | W+R | 2013-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PyytApKbpQT6ssD9kK%2FZGg%3D%3D) | 
-| 2013CCTV杯中国囲棋電視快棋戦1回戦 | Chen Yaoye | Wu Guangya | B+3.5 | 2013-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AySQcjhldToISCQ2I4DffA%3D%3D) | 
-| 第27期中国囲碁天元戦1回戦 | Wu Guangya | Gu Li | W+R | 2013-01-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sQ0RGEmC6ALD%2BrI3SB6omg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第20節 | Wu Guangya | Li Kang | W+0.5 | 2012-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j18Ul%2Bg5He0Wdb7yIH2iUg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第19節 | Wu Guangya | Wang Haoyang | B+1.5 | 2012-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t7iceHnuu2yRqbnoMYF4tw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第18節 | missing | Wu Guangya | W+0.5 | 2012-11-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iLh2wNlWWI8QJ6EnRQTbLg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第17節 | Wu Guangya | Xie He | B+R | 2012-10-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Hr7oCm38fgVSlnN0UK%2FQQ%3D%3D) | 
-| 第8期威孚房開杯棋王戦予選 | Wu Guangya | Jiang Weijie | W+R | 2012-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lJ%2B2xztvXmP6fkjS5IBsbQ%3D%3D) | 
-| 第4期中国竜星戦2回戦 | Zhou Ruiyang | Wu Guangya | B+R | 2012-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ciYGm62pqGTqw3s9oj38tA%3D%3D) | 
-| 第4期中国竜星戦1回戦 | Wu Guangya | Yu Bin | B+R | 2012-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gdIIZy%2BkCfgXJMQVUou42A%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第16節 | Zhou Ruiyang | Wu Guangya | W+R | 2012-09-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tKsrp8snUwV0NkekNyj9%2FQ%3D%3D) | 
-| 2012年全国囲棋個人戦男子組第4戦 | Mao Ruilong | Wu Guangya | B+R | 2012-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K0QUCkjns8FaLWrEJ%2BJusQ%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第14節 | Zhong Wenjing | Wu Guangya | B+R | 2012-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=otoUhLeFMZZkp2UHShRaBA%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第13節 | Chang Hao | Wu Guangya | W+R | 2012-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GALWoQeaLmYy2VjgbS3nWA%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第11節 | Wu Guangya | Lee Yeongkyu | W+R | 2012-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XrNZHrPgGKHXK4GUkZF7bA%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第10節 | Sun Li | Wu Guangya | W+R | 2012-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wySGVTSkEdEFAmBvfu5aXQ%3D%3D) | 
-| 2012CCTV杯中国囲棋電視快棋戦2回戦 | Liu Xing | Wu Guangya | B+R | 2012-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RB%2FURaCj7%2Feb%2FhW%2BGC7kjw%3D%3D) | 
-| 2012CCTV杯中国囲棋電視快棋戦1回戦 | Li Zhe | Wu Guangya | W+R | 2012-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n5OwHJZBTs%2BB7iSEkDDswg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第9節 | Niu Yutian | Wu Guangya | B+R | 2012-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BZJiFmYXfW124rj7Gbuh4g%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第8節 | Wu Guangya | Wang Haoyang | W+R | 2012-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=47EXJF%2FjSuQB6NJfi6RXgQ%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦予選 | Wu Guangya | missing | W+R | 2012-06-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hFkG1gsJjzAolnrT8jYPiQ%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第7節 | Mao Ruilong | Wu Guangya | W+2.5 | 2012-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F4jf0XgvkYm0btjAFcJ6oA%3D%3D) | 
-| 第17回LG杯世界棋王戦1回戦 | Park Junghwan | Wu Guangya | B+R | 2012-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CegjuC7ld8E%2FdiXwt8jEcQ%3D%3D) | 
-| 第9期倡棋杯中国プロ囲碁選手権戦2回戦 | Wu Guangya | Qiu Jun | W+R | 2012-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=14uDGkZEJ5%2FJbVJ2Ub0yEA%3D%3D) | 
-| 第9期倡棋杯中国プロ囲碁選手権戦1回戦 | Peng Liyao | Wu Guangya | W+R | 2012-06-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XFB6IraTaaKPYkbPO5fq8w%3D%3D) | 
-| 第9期倡棋杯中国プロ囲碁選手権戦予選 | Niu Yutian | Wu Guangya | W+R | 2012-05-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mxy8wSqvFlpdGRnNY%2BdqIg%3D%3D) | 
-| 第9期倡棋杯中国プロ囲碁選手権戦予選 | Wang Tao | Wu Guangya | W+R | 2012-05-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ml8DFfDXf0cRrgv6nNClsw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第3節 | Wu Guangya | Chen Yaoye | W+R | 2012-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7LQpaKY%2F2u9a5WddDaI7qg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第1節 | Tong Mengcheng | Wu Guangya | B+5.5 | 2012-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JLr8H25py4hLolyYCK6Flw%3D%3D) | 
-| 第25期中国囲碁名人戦2回戦 | Wang Haoyang | Wu Guangya | B+R | 2012-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lel3IOyZQYCl4Udk1iWRRg%3D%3D) | 
-| 第25期中国囲碁名人戦1回戦 | Wu Guangya | Chen Yaoye | B+1.5 | 2012-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vVX40NcijRxPxU%2BGS1CG0g%3D%3D) | 
-| 第25期中国囲碁名人戦予選 | Li Xuanhao | Wu Guangya | W+R | 2012-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BOh7JBeZdBN7c8sbOiZPGw%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権1回戦 | Qiu Jun | Wu Guangya | B+R | 2012-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bAuIm0AY790at%2B%2FYAtg%2FAA%3D%3D) | 
-| 第26期中国囲碁天元戦2回戦 | Zhou Hexi | Wu Guangya | B+R | 2012-02-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5SgLsKi3CagIWT59Caipcg%3D%3D) | 
-| 第26期中国囲碁天元戦1回戦 | Wu Guangya | Tuo Jiaxi | B+R | 2012-02-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=693UobAoA5I7UeVtbtm6pg%3D%3D) | 
-| 第12期リコー杯囲碁戦2回戦 | Wu Guangya | Xie He | W+R | 2011-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Iu31SHqH0eYwSuJvHYwgzw%3D%3D) | 
-| 第12期リコー杯囲碁戦1回戦 | Tian Ruiqi | Wu Guangya | W+R | 2011-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jx8QhzypT%2FuLca6ss8FEug%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第22節 | Tao Xin | Wu Guangya | B+1.5 | 2011-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qNztqKt7vObGDL5xSmMSbA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第21節 | Wu Guangya | Piao Wenyao | B+R | 2011-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xl7PGB%2BGlppSlZ0ghHM6ZA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第20節 | Wu Guangya | Fan Tingyu | W+R | 2011-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L9SUhnvXLC9vwgjJnJ%2FDMw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第19節 | Gu Li | Wu Guangya | W+R | 2011-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YzPMdIaBHW%2BbL3DrzWGoFg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第18節 | Hu Yaoyu | Wu Guangya | W+R | 2011-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d3jAzHm2hVJmg26%2FrcgLNw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第17節 | Wu Guangya | Lee Yeongkyu | W+R | 2011-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gV5a5lgHi8uh68KiMH1dOQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第16節 | Niu Yutian | Wu Guangya | B+R | 2011-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u%2FiypLQU7Wts7todf11X0A%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第15節 | Wu Guangya | Cho Hanseung | W+R | 2011-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t8KT2uUw8ozrHTaQsz%2Fl4g%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第14節 | Wu Guangya | Zhong Wenjing | W+R | 2011-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qNt0vJj%2BJ37BX5Dms8t16A%3D%3D) | 
-| 第7期威孚房開杯棋王戦2回戦 | Wu Guangya | Li Kang | W+R | 2011-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S3DNP1kOtUzRLYBCRI9X%2Bw%3D%3D) | 
-| 第7期威孚房開杯棋王戦1回戦 | Niu Yutian | Wu Guangya | W+R | 2011-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pFfnqX84GQ8N92FjgEFUuQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第13節 | Wu Guangya | Tan Xiao | W+R | 2011-09-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jANvhKnFEJpM50mcvagYXQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第12節 | Wu Guangya | Huang Chen | B+R | 2011-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FpThq1w9Nh%2FJwE%2BwSi54%2Bg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第11節 | Zhou Ruiyang | Wu Guangya | B+R | 2011-07-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1fGHgdxbonxXjb75to2dfA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第10節 | Wu Guangya | Li Zhe | B+R | 2011-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kFQVV0Wwf4zqF4SkZZnxKA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第9節 | Fan Tingyu | Wu Guangya | B+3.5 | 2011-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5KFgJA29DeczmKT%2BT%2BayZg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第8節 | Wu Guangya | Gu Li | B+R | 2011-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q95p4xgDJ%2FmS4C6SFtQuUw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第7節 | Qiu Jun | Wu Guangya | B+R | 2011-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vbze%2BlF2TDM9DnobBpBU0A%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第6節 | Lee Yeongkyu | Wu Guangya | B+R | 2011-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wvKbstHFE7bt6VtB%2FqLB1w%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第5節 | Wang Lei (b) | Wu Guangya | B+1.5 | 2011-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ENuVHH9vml8gqiJgzLO5gA%3D%3D) | 
-| 第8期倡棋杯中国プロ囲碁選手権戦予選 | Wu Guangya | missing | W+R | 2011-05-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AYiaYBoMXZKcvjJpqv%2F4QA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第4節 | missing | Wu Guangya | W+R | 2011-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zg3x2w%2B6wpo%2Foh%2BGUBoysA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第3節 | Wu Guangya | Chen Yaoye | W+R | 2011-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PwnWCjA5FwwcUECENxVm0Q%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第2節 | Wu Guangya | Sun Tengyu | B+R | 2011-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JJXJPPPngu3siMtZDs%2BoEg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第1節 | Wang Yuhui | Wu Guangya | W+R | 2011-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KK3ZVkrDrXVtldKsPshc%2FA%3D%3D) | 
-| 第24期中国囲碁名人戦予選 | Wu Guangya | Fan Tingyu | W+R | 2011-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uWRVUMd9vYJVLsst5yMefA%3D%3D) | 
-| 2011CCTV杯中国囲棋電視快棋戦1回戦 | Wang Xiangyun | Wu Guangya | W+R | 2011-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7VB%2BfzaqedFS7AX1Dz3AbA%3D%3D) | 
-| 第3回BCカード杯世界選手権2回戦 | Wu Guangya | Tan Xiao | W+R | 2011-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FIfLXoOGwsaDrUk%2Fal5dZA%3D%3D) | 
-| 第18期建橋杯中国囲碁新人王戦準決勝 | Wu Guangya | Fan Tingyu | W+R | 2011-02-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u7wv3o96RJJgH7Bmfd4xbQ%3D%3D) | 
-| 第25期中国囲碁天元戦3回戦 | Wu Guangya | missing | W+0.5 | 2011-02-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bHiUU3ddfy%2FEHl6fuwC24g%3D%3D) | 
-| 第25期中国囲碁天元戦1回戦 | Wu Guangya | Tang Weixing | B+R | 2011-02-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fPKaNV%2FH9HEnXxQJg26c%2Fw%3D%3D) | 
-| 第3回BCカード杯世界選手権1回戦 | Wu Guangya | Seo Joonghui | B+R | 2011-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J8lgGZoHmu3YGY2UCw%2Fo0g%3D%3D) | 
-| 第6期威孚房開杯棋王戦3回戦 | Peng Liyao | Wu Guangya | B+R | 2010-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NxPMuk4%2BKWqaJOCSrnyrUA%3D%3D) | 
-| 第6期威孚房開杯棋王戦2回戦 | Wu Guangya | Tan Xiao | B+R | 2010-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bjUzYUzw%2BcaHJPGw7IVMSg%3D%3D) | 
-| 第6期威孚房開杯棋王戦1回戦 | Meng Tailing | Wu Guangya | W+4.5 | 2010-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NMrK55TaU4MWy0IKSC1jNg%3D%3D) | 
-| 2010年中国段位戦 | Wu Guangya | missing | W+0.5 | 2010-07-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NrFp9F%2FD1URiTVNHXMniiw%3D%3D) | 
-| 2010年中国段位戦 | Wu Guangya | missing | W+R | 2010-07-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4%2BXHxvYy6QjsZ4j474U5Kg%3D%3D) | 
-| 第23期中国囲碁名人戦1回戦 | Li Zhe | Wu Guangya | B+5.5 | 2010-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fv10mGSPyW5dh7Dc%2BUjv2g%3D%3D) | 
-| 第23期中国囲碁名人戦予選 | missing | Wu Guangya | W+R | 2010-03-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CgulFbpTvkn15u8tOw3R8w%3D%3D) | 
-| 第23期中国囲碁名人戦予選 | Yu Bin | Wu Guangya | W+4.5 | 2010-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=91jv4mtd5wFcMhLncs2mHA%3D%3D) | 
-| 2010CCTV杯中国囲棋電視快棋戦2回戦 | Piao Wenyao | Wu Guangya | B+R | 2010-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E4sVdlp1ba6C452XaxUJTg%3D%3D) | 
-| 2010CCTV杯中国囲棋電視快棋戦1回戦 | Wu Guangya | missing | B+3.5 | 2010-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sCy%2FpWEm2uBcYPt6%2FCSHOw%3D%3D) | 
-| 第24期中国囲碁天元戦準決勝 | Wu Guangya | Gu Li | W+R | 2010-02-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dRwlqAqFIY%2Bc3Jo4X5ulDw%3D%3D) | 
-| 第24期中国囲碁天元戦3回戦 | Li Kang | Wu Guangya | W+R | 2010-01-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jrsFijtgwqaVWtB7%2F%2BSZNw%3D%3D) | 
-| 第24期中国囲碁天元戦2回戦 | Luo Xihe | Wu Guangya | W+R | 2010-01-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q2126V8DZhYG4lZ641aGxg%3D%3D) | 
-| 第24期中国囲碁天元戦1回戦 | Wu Guangya | Wang Yao | B+R | 2010-01-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AiGW1n8cKANspMv79dyV4g%3D%3D) | 
-| 第24期中国囲碁天元戦予選 | Wang Chenxing | Wu Guangya | W+R | 2010-01-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y%2FcQu2BHvDVZ1lWZJ%2Fpi%2BQ%3D%3D) | 
-| 2009年中国段位戦 | Wu Guangya | Tan Xiao | B+R | 2009-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LuTvDUvMR45ENYPpGQifPg%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | missing | Wu Guangya | B+R | 2009-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WsBudTvnsghxgsfhj%2Ba34g%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | Wang Lei (s) | Wu Guangya | W+8.5 | 2009-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4AaQEEzmc%2Fb%2Bji3hWyHP5g%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | Wu Guangya | missing | B+R | 2009-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p0TXfKm9G9hS5Ri%2FKMvZmg%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | Zhou Heyang | Wu Guangya | W+R | 2009-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bb%2FEpz0Ktx2FsMXNmsC%2FdQ%3D%3D) | 
-| 第6期倡棋杯中国プロ囲碁選手権戦予選 | Wu Guangya | missing | W+1 | 2009-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2cebrSED2y96EDyhneocPA%3D%3D) | 
-| 2009CCTV杯中国囲棋電視快棋戦4回戦 | Zhou Ruiyang | Wu Guangya | B+R | 2009-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X7RYA0Zzy4CR9mKedVqaAQ%3D%3D) | 
-| 第22期中国囲碁名人戦予選 | Wu Guangya | Li Zhe | W+R | 2009-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hSSvpKwHpnotazCP8anBhw%3D%3D) | 
-| 2009CCTV杯中国囲棋電視快棋戦3回戦 | Liu Jing | Wu Guangya | W+R | 2009-03-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zQ8Z%2BDVTwOVKNAtYXDG%2F3w%3D%3D) | 
-| 2009CCTV杯中国囲棋電視快棋戦2回戦 | missing | Wu Guangya | W+R | 2009-03-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vuOM7NEHrIuU9Bq2%2BO1Ukw%3D%3D) | 
-| 2009CCTV杯中国囲棋電視快棋戦1回戦 | Wu Guangya | Gu Li | B+R | 2009-03-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wCb96OgIkXnt3vZa6yZMbg%3D%3D) | 
-| 第16期建橋杯中国囲碁新人王戦2回戦 | Wu Guangya | Peng Liyao | W+R | 2009-03-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=irlvOB8mFLt1hyvp6SE0Fw%3D%3D) | 
-| 第16期建橋杯中国囲碁新人王戦1回戦 | Huang Chen | Wu Guangya | W+R | 2009-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=chbUMFqvFMgrY0I3NrxtMQ%3D%3D) | 
-| 第5期倡棋杯中国プロ囲碁選手権戦1回戦 | Xie He | Wu Guangya | B+R | 2008-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BWmTICyxEiq6ujjil9NaJQ%3D%3D) | 
-| 第5期倡棋杯中国プロ囲碁選手権戦予選 | Wu Guangya | Liu Xiaoguang | B+R | 2008-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=delbrguhKVswOr7NXsBfJg%3D%3D) | 
-| 第5期倡棋杯中国プロ囲碁選手権戦予選 | missing | Wu Guangya | W+1 | 2008-04-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=71m9IbUK3imKvpUp%2F3tIYA%3D%3D) | 
-| 2008CCTV杯中国囲棋電視快棋戦1回戦 | Wu Guangya | Wang Yao | W+R | 2007-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hwSAidnCiwo%2BuKYfsi1GSQ%3D%3D) | 
-| 2007年中国段位戦 | Wang Jun | Wu Guangya | W+R | 2007-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z0kWFlgOfVwTQog28bwjdg%3D%3D) | 
-| 2007年中国段位戦 | Wu Guangya | missing | B+R | 2007-07-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G%2FEkuD8hFGjpEm8QajAVeA%3D%3D) | 
-| 2007年中国段位戦 | Meng Tailing | Wu Guangya | W+R | 2007-07-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yIlk1RoYp3F%2BzhooGep2Lw%3D%3D) | 
-| 2007年中国段位戦 | missing | Wu Guangya | W+R | 2007-07-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MOy9wQ7im0rVMmc48Q2gsQ%3D%3D) | 
-| 2007年中国段位戦 | Tao Xin | Wu Guangya | B+R | 2007-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yU6Mink7F9w7hTGu6mb2iw%3D%3D) | 
-| 第20期中国囲碁名人戦予選 | Wu Guangya | Xie He | W+R | 2007-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KE1bbnvyL4BVKA%2FG%2FivOFQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第13節 | Ding Wei | Wu Guangya | B+3.5 | 2006-10-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dOQzg6PnREKk3zrUWTyTEQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第12節 | Tan Xiao | Wu Guangya | W+R | 2006-10-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=emzqo6rgjw4RGo4ASwW7bA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第7節 | Wu Guangya | Piao Wenyao | W+6.5 | 2006-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wH2loMSeigDO2SIkpOVtPA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第5節 | Hu Yaoyu | Wu Guangya | B+R | 2006-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qsAHrOktM5mJeDx1wZUoDw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第1節 | missing | Wu Guangya | B+3.5 | 2006-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zXmmVdzgCmeUZYQKDL8wEg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第20節 | Yin Hang | Wu Guangya | B+1.5 | 2005-12-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TeGrH67bnWZRbbSzlXfKmA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第17節 | Wu Guangya | Wang Xi | W+4.5 | 2005-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x9Pci0UCNKx37h5GbVOI7w%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第16節 | Wu Guangya | Li Jie | B+1.5 | 2005-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8xC5BsUo0g%2ByPbqxtW2Qlg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第15節 | Wu Guangya | missing | B+R | 2005-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B9SU4YjxwT0kmVgBSIzSXg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第8節 | Wu Guangya | Li Zhe | W+2.5 | 2005-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fK%2FV5jI4bULGDRzKliOSFg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第4節 | Wu Guangya | missing | B+R | 2005-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PPfJ5nsP3vdpkbW%2Bvhf%2Fhw%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Wu Guangya | Lose | B+R | 7.5 | 3200 | -27 | 
+| 2021-05-12 | 第23回中国囲碁甲級リーグ | Wu Guangya | Wang Zejin | Win | B+R | 7.5 | 3227 | 18 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Guo Xinyi | Wu Guangya | Lose | B+R | 7.5 | 3209 | -51 | 
+| 2021-04-07 | 第17回倡棋杯中国プロ囲碁選手権戦予選 | Wu Guangya | Gu Lingyi | Lose | W+R | 7.5 | 3260 | -116 | 
+| 2021-03-18 | 第35期中国囲碁天元戦1回戦 | Wu Guangya | Tong Mengcheng | Lose | W+R | 7.5 | 3376 | -125 | 
+| 2021-01-26 | 第35期中国囲碁天元戦1回戦 | Wu Guangya | Zhou Hongyu | Win | B+R | 7.5 | 3501 | 5 | 
+| 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Zhao Chenyu | Wu Guangya | Win | W+R | 7.5 | 3496 | -57 | 
+| 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Wu Guangya | Huang Yunsong | Lose | W+R | 7.5 | 3553 | -31 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Hu Yaoyu | Wu Guangya | Lose | B+R | 7.5 | 3584 | -49 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Wu Guangya | Xie Ke | Win | B+1¾ | 7.5 | 3633 | 34 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Wu Guangya | Tu Xiaoyu | Lose | W+¼ | 7.5 | 3599 | 10 | 
+| 2020-12-09 | 第22回中国囲碁甲級リーグ | Zhang Tao | Wu Guangya | Win | W+¼ | 7.5 | 3589 | 41 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Gu Lingyi | Wu Guangya | Lose | B+R | 7.5 | 3548 | 102 | 
+| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 |  | Wu Guangya | Win | W+R | 7.5 | 3446 | 9 | 
+| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Liao Xingwen | Wu Guangya | Lose | B+R | 7.5 | 3437 | -44 | 
+| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Wu Guangya | Tao Xinran | Lose | W+R | 7.5 | 3481 | -33 | 
+| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Wu Guangya | Zhao Chenyu | Lose | W+R | 7.5 | 3514 | -22 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Kang Dongyun | Wu Guangya | Win | W+R | 6.5 | 3536 | 23 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Wu Guangya | Zhou Ruiyang | Lose | W+R | 7.5 | 3513 | 6 | 
+| 2019-12-28 | 第5期洛陽白雲山杯中国棋聖戦予選 | Xie He | Wu Guangya | Win | W+R | 7.5 | 3507 | 291 | 
+| 2019-12-21 | 第11期中国竜星戦Aブロック4回戦 | Wu Guangya | Wang Haoyang | Lose | W+R | 7.5 | 3216 | -16 | 
+| 2019-12-16 | 第11期中国竜星戦予選 | Wu Guangya | Li Qincheng | Win | B+R | 7.5 | 3232 | 0 | 
+| 2019-12-16 | 第11期中国竜星戦予選 | Wu Guangya | Tan Xiao | Win | B+R | 7.5 | 3232 | 45 | 
+| 2019-12-11 | 第21回中国囲碁甲級リーグ優勝決定戦第2戦 | Wu Guangya | Shin Jinseo | Lose | W+1¼ | 7.5 | 3187 | -2 | 
+| 2019-12-09 | 第21回中国囲碁甲級リーグ優勝決定戦第1戦 | Xie Ke | Wu Guangya | Lose | B+R | 7.5 | 3189 | -62 | 
+| 2019-11-06 | 第21回中国囲碁甲級リーグプレーオフ3回戦第2戦 | Peng Liyao | Wu Guangya | Lose | B+¾ | 7.5 | 3251 | -14 | 
+| 2019-11-04 | 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 | Wu Guangya | Peng Liyao | Lose | W+R | 7.5 | 3265 | 28 | 
+| 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Ke Jie | Wu Guangya | Lose | B+R | 7.5 | 3237 | -11 | 
+| 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Wu Guangya | Li Weiqing | Lose | W+R | 7.5 | 3248 | -8 | 
+| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Wang Xinghao | Wu Guangya | Win | W+2¼ | 7.5 | 3256 | 137 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Liu Xing | Wu Guangya | Win | W+R | 7.5 | 3119 | 12 | 
+| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Fan Yin | Wu Guangya | Lose | B+R | 7.5 | 3107 | -35 | 
+| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Wu Guangya | Zhang Qiang | Win | B+R | 7.5 | 3142 | -17 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Chen Zhengxun | Wu Guangya | Win | W+R | 7.5 | 3159 | 11 | 
+| 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Tu Xiaoyu | Wu Guangya | Lose | B+R | 7.5 | 3148 | -3 | 
+| 2019-06-06 | 第21期阿含・桐山杯中国早碁オープン戦予選2回戦 | Wu Guangya | Wang Chenxing | Win | B+R | 7.5 | 3151 | 9 | 
+| 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Wu Guangya | Chen Xian | Lose | W+¼ | 7.5 | 3142 | 20 | 
+| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Wu Guangya | Tao Xinran | Lose | W+R | 7.5 | 3122 | 60 | 
+| 2019-05-22 | 第4回夢百合杯統合予選  | Weon Seongjin | Wu Guangya | Win | W+R | 7.5 | 3062 | -18 | 
+| 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Wu Guangya | Kim Jiseok | Win | B+R | 7.5 | 3080 | -16 | 
+| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Li Xiangyu | Wu Guangya | Win | W+R | 7.5 | 3096 | 13 | 
+| 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Wu Guangya | Xie Ke | Win | B+R | 7.5 | 3083 | -20 | 
+| 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Rong Yi | Wu Guangya | Win | W+R | 7.5 | 3103 | 17 | 
+| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節杭州-北京 | Wu Guangya | Han Yizhou | Lose | W+R | 7.5 | 3086 | 21 | 
+| 2019-03-30 | 2019CCTV杯中国囲棋電視快棋戦4回戦 | Wu Guangya | Peng Liyao | Lose | W+R | 7.5 | 3065 | -26 | 
+| 2019-03-29 | 2019CCTV杯中国囲棋電視快棋戦3回戦 | Zhou Hexi | Wu Guangya | Win | W+3¼ | 7.5 | 3091 | 14 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Chen Yaoye | Wu Guangya | Win | W+R | 7.5 | 3077 | 0 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Tan Xiao | Wu Guangya | Win | W+R | 7.5 | 3077 | 78 | 
+| 2019-03-06 | 第10期中国竜星戦予選 | Tan Xiao | Wu Guangya | Lose | B+R | 7.5 | 2999 | -87 | 
+| 2018-12-27 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Meng Tailing | Wu Guangya | Lose | B+R | 7.5 | 3086 | -18 | 
+| 2018-12-25 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Ding Hao | Wu Guangya | Win | W+R | 7.5 | 3104 | 19 | 
+| 2018-12-23 | 第4期洛陽白雲山杯中国棋聖戦入囲戦 |  | Wu Guangya | Win | W+R | 7.5 | 3085 | 1 | 
+| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節杭州-蘇泊爾 | Wu Guangya | Li Qincheng | Lose | W+R | 7.5 | 3084 | -6 | 
+| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節天津-杭州 | Wu Guangya | Tang Weixing | Win | B+R | 7.5 | 3090 | 24 | 
+| 2018-11-16 | 第20回中国囲碁甲級リーグ第24節杭州-江蘇 | Wu Guangya | Tong Mengcheng | Lose | W+R | 7.5 | 3066 | -4 | 
+| 2018-11-09 | 第20回中国囲碁甲級リーグ第23節廈門-杭州 | Wu Guangya | Fan Yin | Win | B+R | 7.5 | 3070 | 25 | 
+| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節杭州-浙江 | Li Zhe | Wu Guangya | Win | W+R | 7.5 | 3045 | 14 | 
+| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節上海-杭州 | Wu Guangya | Hu Yaoyu | Win | B+R | 7.5 | 3031 | 16 | 
+| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節杭州-江西 | Wu Guangya | Tu Xiaoyu | Lose | W+R | 7.5 | 3015 | -33 | 
+| 2018-10-13 | 第14期威孚房開杯棋王戦32強戦 | Wu Guangya | Xie Erhao | Lose | W+R | 7.5 | 3048 | -22 | 
+| 2018-09-28 | 第20回中国囲碁甲級リーグ第17節衢州-杭州 |  | Wu Guangya | Lose | B+R | 7.5 | 3070 | -60 | 
+| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節民生-杭州 | Wu Guangya | Kim Jiseok | Lose | W+1¼ | 7.5 | 3130 | -2 | 
+| 2018-09-08 | 第20回中国囲碁甲級リーグ第14節杭州-中信 | Wu Guangya | Han Yizhou | Lose | W+R | 7.5 | 3132 | -8 | 
+| 2018-09-05 | 第23回三星火災杯世界囲碁マスターズ1回戦H2 | Ryu Shikun | Wu Guangya | Lose | B+R | 6.5 | 3140 | -50 | 
+| 2018-09-04 | 第23回三星火災杯世界囲碁マスターズ1回戦H1 | Wu Guangya | Shin Jinseo | Lose | W+R | 6.5 | 3190 | 1 | 
+| 2018-08-30 | 2018中国国家隊青年組選抜5回戦 | Wang Zejin | Wu Guangya | Lose | B+R | 7.5 | 3189 | -12 | 
+| 2018-08-15 | 第20回中国囲碁甲級リーグ第13節蘇泊爾-杭州 | Wu Guangya | Xie Ke | Lose | W+R | 7.5 | 3201 | -35 | 
+| 2018-08-13 | 第20回中国囲碁甲級リーグ第12節杭州-天津 | Wang Zejin | Wu Guangya | Lose | B+R | 7.5 | 3236 | 52 | 
+| 2018-08-06 | 第20回中国囲碁甲級リーグ第11節江蘇-杭州 | Wu Guangya | Huang Yunsong | Win | B+R | 7.5 | 3184 | -15 | 
+| 2018-07-16 | 第20回中国囲碁甲級リーグ第10節杭州-廈門 | Wu Guangya | Peng Liyao | Win | B+R | 7.5 | 3199 | 52 | 
+| 2018-06-25 | 第20回中国囲碁甲級リーグ第9節浙江-杭州 | Zhang Tao | Wu Guangya | Lose | B+R | 7.5 | 3147 | -50 | 
+| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節杭州-上海 | Wu Guangya | Xie He | Lose | W+R | 7.5 | 3197 | -74 | 
+| 2018-05-21 | 第20回中国囲碁甲級リーグ第7節江西-杭州 | Wu Guangya | Xu Jiayang | Lose | W+R | 7.5 | 3271 | 16 | 
+| 2018-05-14 | 第20回中国囲碁甲級リーグ第6節杭州-山東 | Jiang Weijie | Wu Guangya | Lose | B+R | 7.5 | 3255 | -20 | 
+| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節成都-杭州 | Gu Lingyi | Wu Guangya | Win | W+R | 7.5 | 3275 | 49 | 
+| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節杭州-衢州 |  | Wu Guangya | Win | W+R | 7.5 | 3226 | 10 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Wu Guangya | Jiang Weijie | Lose | W+R | 7.5 | 3216 | 25 | 
+| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節重慶-杭州 | Yang Dingxin | Wu Guangya | Win | W+R | 7.5 | 3191 | 2 | 
+| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節杭州-民生 | Wu Guangya | Shen Peiran | Win | B+R | 7.5 | 3189 | -20 | 
+| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節中信-杭州 | Kim Myounghoon | Wu Guangya | Win | W+R | 7.5 | 3209 | -21 | 
+| 2018-03-14 | 第15期倡棋杯中国プロ囲棋選手権戦予選準決勝 | Wu Guangya |  | Lose | W+R | 7.5 | 3230 | 8 | 
+| 2018-03-12 | 第9期中国竜星戦Bブロック第2局 | Chen Zijian | Wu Guangya | Lose | B+¾ | 7.5 | 3222 | -32 | 
+| 2018-03-06 | 第9期中国竜星戦予選 | Rong Yi | Wu Guangya | Win | W+R | 7.5 | 3254 | 14 | 
+| 2018-03-05 | 第9期中国竜星戦予選 | Tan Xiao | Wu Guangya | Win | W+R | 7.5 | 3240 | 62 | 
+| 2018-01-23 | 第32期中国囲碁天元戦1回戦 | Zhou Ruiyang | Wu Guangya | Lose | B+R | 7.5 | 3178 | 45 | 
+| 2017-12-05 | 第3期洛陽白雲山杯中国棋聖戦予選甲組 | Wu Guangya | Huang Yizhong | Lose | W+R | 7.5 | 3133 | -42 | 
+| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Yang Kaiwen | Wu Guangya | Lose | B+R | 7.5 | 3175 | -74 | 
+| 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 |  | Wu Guangya | Win | W+R | 7.5 | 3249 | 25 | 
+| 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Wu Guangya | Huang Xin | Win | B+R | 7.5 | 3224 | 76 | 
+| 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Wu Guangya |  | Win | B+R | 7.5 | 3148 | 4 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Rong Yi | Wu Guangya | Lose | B+R | 7.5 | 3144 | -5 | 
+| 2017-08-29 | 2017中国国家青年隊選抜戦7回戦 | Li Xiangyu | Wu Guangya | Win | W+R | 7.5 | 3149 | 14 | 
+| 2017-08-14 | 中国浙江平湖当湖十局杯CCTV64強 | Gu Zihao | Wu Guangya | Win | W+R | 7.5 | 3135 | 29 | 
+| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Wu Guangya | Li Weiqing | Lose | W+R | 7.5 | 3106 | -11 | 
+| 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Gu Lingyi | Wu Guangya | Lose | B+R | 7.5 | 3117 | -1 | 
+| 2017-08-03 | 嫘祖杯30回中国名人戦32強戦 | Wu Guangya | Fan Tingyu | Lose | W+R | 7.5 | 3118 | -4 | 
+| 2017-07-22 | 嫘祖杯30回中国名人戦新浪網選決勝 | Tu Xiaoyu | Wu Guangya | Win | W+R | 7.5 | 3122 | 15 | 
+| 2017-07-20 | 嫘祖杯30回中国名人戦新浪網選3回戦 | Song Ronghui | Wu Guangya | Win | W+R | 7.5 | 3107 | -1 | 
+| 2017-07-19 | 第30期中国囲碁名人戦予選 | Wu Guangya |  | Win | B+R | 7.5 | 3108 | 6 | 
+| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Wu Guangya | Meng Tailing | Lose | W+R | 7.5 | 3102 | -2 | 
+| 2017-06-29 | 第22回三星火災杯統合予選2回戦 | Wu Guangya | Weon Seongjin | Lose | W+R | 6.5 | 3104 | 11 | 
+| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Wu Guangya | Zhou Ruiyang | Lose | W+R | 7.5 | 3093 | -15 | 
+| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Fan Yin | Wu Guangya | Lose | B+R | 7.5 | 3108 | -20 | 
+| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Wu Guangya | Kim Jiseok | Lose | W+R | 7.5 | 3128 | 6 | 
+| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Shin Minjun | Wu Guangya | Lose | B+R | 7.5 | 3122 | -11 | 
+| 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 |  | Wu Guangya | Win | W+R | 7.5 | 3133 | 0 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Wu Guangya | An Dongxu | Lose | W+0.5 | 7.5 | 3133 | -5 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Gu Li | Wu Guangya | Win | W+0.5 | 7.5 | 3138 | 60 | 
+| 2017-04-19 | 第14期倡棋杯中国プロ囲碁選手権戦1回戦 | Meng Tailing | Wu Guangya | Lose | B+R | 7.5 | 3078 | -6 | 
+| 2017-04-18 | 第19期中国阿含桐山杯本選3回戦 | Wu Guangya | Zhao Chenyu | Lose | W+2.5 | 7.5 | 3084 | -9 | 
+| 2017-03-30 | 世界第三期Mlily夢百合杯予選決勝 | Ahn Kukhyun | Wu Guangya | Lose | B+R | 7.5 | 3093 | 126 | 
+| 2017-01-13 | 第31期中国囲碁天元戦予選 | Wu Guangya | Jiang Weijie | Lose | W+R | 7.5 | 2967 | 10 | 
+| 2016-12-18 | 嫘祖杯第29期中国名人戦網選4回戦 | Wu Guangya | Xie Ke | Lose | W+R | 7.5 | 2957 | -6 | 
+| 2016-12-17 | 嫘祖杯第29期中国名人戦網選3回戦 | Ding Shixiong | Wu Guangya | Win | W+R | 7.5 | 2963 | 7 | 
+| 2016-12-16 | 嫘祖杯第29期中国名人戦網選2回戦 |  | Wu Guangya | Win | W+R | 7.5 | 2956 | 7 | 
+| 2016-12-03 | 第18回中国囲碁甲級リーグ第22節 | Hu Yuhan | Wu Guangya | Win | W+R | 7.5 | 2949 | 16 | 
+| 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Wu Guangya | Gu Lingyi | Win | B+R | 7.5 | 2933 | 30 | 
+| 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Ding Hao | Wu Guangya | Win | W+R | 7.5 | 2903 | 12 | 
+| 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 | Chen Zhengxun | Wu Guangya | Win | W+R | 7.5 | 2891 | 23 | 
+| 2016-11-12 | 第18回中国囲碁甲級リーグ第18節 | Wu Guangya | Huang Yunsong | Win | B+R | 7.5 | 2868 | -86 | 
+| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Ida Atsushi | Wu Guangya | Lose | B+1.5 | 7.5 | 2954 | -11 | 
+| 2016-11-04 | 第18回中国囲碁甲級リーグ第17節 | Wu Guangya | Yang Dingxin | Win | B+1.5 | 7.5 | 2965 | 32 | 
+| 2016-10-28 | 第18回中国囲碁甲級リーグ第16節 | Fan Yin | Wu Guangya | Lose | B+R | 7.5 | 2933 | -3 | 
+| 2016-10-24 | 第8期中国竜星戦予選 | Zhang Qiang | Wu Guangya | Lose | B+R | 7.5 | 2936 | -46 | 
+| 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Wu Guangya | Peng Liyao | Lose | W+R | 7.5 | 2982 | -8 | 
+| 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Wu Guangya | Zhou Ruiyang | Lose | W+2.5 | 7.5 | 2990 | 25 | 
+| 2016-09-26 | 2016年全国囲棋個人戦男子組第9戦 | Yang Kaiwen | Wu Guangya | Win | W+R | 7.5 | 2965 | 11 | 
+| 2016-09-25 | 2016年全国囲棋個人戦男子組第8戦 | Guo Yuzheng | Wu Guangya | Lose | B+R | 7.5 | 2954 | -43 | 
+| 2016-09-23 | 2016年全国囲棋個人戦男子組第7戦 | Wu Guangya |  | Win | B+R | 7.5 | 2997 | -58 | 
+| 2016-09-20 | 2016年全国囲棋個人戦男子組第5戦 | Wu Guangya | Chen Zijian | Lose | W+R | 7.5 | 3055 | -11 | 
+| 2016-09-17 | 2016年全国囲棋個人戦男子組第3戦 | Wu Guangya | Zhong Wenjing | Lose | W+R | 7.5 | 3066 | -20 | 
+| 2016-09-12 | 2016金立杯囲棋甲級リーグ戦聯戦第13R | Lee Donghoon | Wu Guangya | Win | W+R | 7.5 | 3086 | -15 | 
+| 2016-08-22 | 第12期威孚房開杯棋王戦1回戦 | Tan Xiao | Wu Guangya | Lose | B+R | 7.5 | 3101 | -15 | 
+| 2016-07-10 | 第13期倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Wu Guangya | Lian Xiao | Lose | W+R | 7.5 | 3116 | -13 | 
+| 2016-07-09 | 第13期倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Lian Xiao | Wu Guangya | Lose | B+R | 7.5 | 3129 | 36 | 
+| 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Wu Guangya | Kim Jiseok | Lose | W+R | 7.5 | 3093 | -35 | 
+| 2016-06-25 | 第18回中国囲碁甲級リーグ第10節 | Liao Yuanhe | Wu Guangya | Lose | B+1.5 | 7.5 | 3128 | -26 | 
+| 2016-06-20 | 第18回中国囲碁甲級リーグ第9節 | Liu Xing | Wu Guangya | Win | W+R | 7.5 | 3154 | 15 | 
+| 2016-06-16 | 第18回中国囲碁甲級リーグ第8節 | Wu Guangya | Wang Zejin | Lose | W+R | 7.5 | 3139 | 0 | 
+| 2016-06-06 | 第18回中国囲碁甲級リーグ第7節 | Zhao Chenyu | Wu Guangya | Win | W+R | 7.5 | 3139 | 14 | 
+| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Wang Yao | Wu Guangya | Lose | B+R | 7.5 | 3125 | 18 | 
+| 2016-05-22 | 第18回中国囲碁甲級リーグ第6節 | Wu Guangya | Wang Xi | Lose | W+R | 7.5 | 3107 | -6 | 
+| 2016-05-20 | 第6回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Chen Yaoye | Wu Guangya | Lose | B+R | 7.5 | 3113 | 36 | 
+| 2016-05-18 | 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Ding Shixiong | Wu Guangya | Win | W+R | 7.5 | 3077 | -4 | 
+| 2016-05-16 | 第18回中国囲碁甲級リーグ第5節 |  | Wu Guangya | Win | W+R | 7.5 | 3081 | -63 | 
+| 2016-05-11 | 第18期阿含・桐山杯中国早碁オープン戦1回戦 | Huang Yunsong | Wu Guangya | Lose | B+R | 7.5 | 3144 | 11 | 
+| 2016-05-09 | 第18回中国囲碁甲級リーグ第4節 | Tao Xinran | Wu Guangya | Win | W+R | 7.5 | 3133 | 45 | 
+| 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Yang Kaiwen | Wu Guangya | Lose | B+R | 7.5 | 3088 | -10 | 
+| 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Wu Guangya | Zhong Wenjing | Lose | W+R | 7.5 | 3098 | 2 | 
+| 2016-04-05 | 第21回LG杯予選 | Dang Yifei | Wu Guangya | Lose | B+R | 6.5 | 3096 | -35 | 
+| 2016-03-23 | 第13期倡棋杯中国プロ囲碁選手権戦3回戦 | Wu Guangya | Gu Zihao | Win | B+R | 7.5 | 3131 | 29 | 
+| 2016-03-21 | 第13期倡棋杯中国プロ囲碁選手権戦2回戦 | Yu Zhiying | Wu Guangya | Win | W+R | 7.5 | 3102 | 12 | 
+| 2016-03-19 | 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Wu Guangya | Chen Yaoye | Win | B+1 | 7.5 | 3090 | 0 | 
+| 2016-02-29 | 第13期倡棋杯中国プロ囲碁選手権戦予選 | Sun Tengyu | Wu Guangya | Win | W+R | 7.5 | 3090 | -73 | 
+| 2015-12-06 | 第17回中国囲碁甲級リーグ第22節 | Wu Guangya |  | Lose | W+R | 7.5 | 3163 | -14 | 
+| 2015-12-04 | 第17回中国囲碁甲級リーグ第21節 | Xie Erhao | Wu Guangya | Lose | B+R | 7.5 | 3177 | -6 | 
+| 2015-11-27 | 第17回農心辛ラーメン杯世界囲碁最強戦第5戦 | Choi Cheolhan | Wu Guangya | Lose | B+R | 6.5 | 3183 | 4 | 
+| 2015-11-23 | 第17回中国囲碁甲級リーグ第14節 | Kim Jiseok | Wu Guangya | Lose | B+R | 7.5 | 3179 | -1 | 
+| 2015-11-13 | 第17回中国囲碁甲級リーグ第20節 | Wu Guangya | Qiu Jun | Win | B+R | 7.5 | 3180 | -4 | 
+| 2015-11-08 | 第17回中国囲碁甲級リーグ第19節 | Zhao Chenyu | Wu Guangya | Win | W+R | 7.5 | 3184 | -6 | 
+| 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 | Wu Guangya | Ding Shixiong | Win | B+R | 7.5 | 3190 | 26 | 
+| 2015-10-23 | 第17回農心辛ラーメン杯世界囲碁最強戦第4戦 | Ichiriki Ryo | Wu Guangya | Win | W+R | 6.5 | 3164 | 1 | 
+| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Wu Guangya |  | Win | B+R | 7.5 | 3163 | 10 | 
+| 2015-10-15 | 第17回中国囲碁甲級リーグ第15節 | Wu Guangya | Li Xuanhao | Lose | W+R | 7.5 | 3153 | -11 | 
+| 2015-10-12 | 第11期威孚房開杯棋王戦1回戦 | Wu Guangya | Fan Yunruo | Lose | W+R | 7.5 | 3164 | -12 | 
+| 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Gu Zihao | Wu Guangya | Lose | B+1.5 | 7.5 | 3176 | 6 | 
+| 2015-09-21 | 第3回全国智力運動会囲碁男子団体戦 | Yang Dingxin | Wu Guangya | Lose | B+R | 7.5 | 3170 | -17 | 
+| 2015-09-20 | 第3回全国智力運動会囲碁男子団体戦 | Wu Guangya | Gong Yanyu | Win | B+R | 7.5 | 3187 | 0 | 
+| 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Wu Guangya | Tao Xinran | Win | B+R | 7.5 | 3187 | 16 | 
+| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Mao Ruilong | Wu Guangya | Win | W+2.5 | 7.5 | 3171 | 0 | 
+| 2015-08-30 | 第2回夢百合杯世界オープン戦3回戦 | Wu Guangya | Xie Ke | Lose | W+R | 7.5 | 3171 | -21 | 
+| 2015-07-29 | 第7期中国竜星戦予選 | Wu Guangya | Tao Xinran | Lose | W+0.5 | 7.5 | 3192 | -23 | 
+| 2015-07-11 | 第17回中国囲碁甲級リーグ第11節 | Wu Guangya |  | Win | B+5.5 | 7.5 | 3215 | 19 | 
+| 2015-07-09 | 第2回夢百合杯世界オープン戦2回戦 | Shi Yue | Wu Guangya | Win | W+R | 7.5 | 3196 | 33 | 
+| 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Wu Guangya | Ida Atsushi | Win | B+R | 7.5 | 3163 | 4 | 
+| 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 | Tong Mengcheng | Wu Guangya | Win | W+0.5 | 7.5 | 3159 | 14 | 
+| 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Na Hyun | Wu Guangya | Win | W+R | 7.5 | 3145 | 9 | 
+| 2015-06-25 | 第17回中国囲碁甲級リーグ第8節（再対局） | Wu Guangya | Huang Yunsong | Lose | W+R | 7.5 | 3136 | 0 | 
+| 2015-06-25 | 第17回中国囲碁甲級リーグ第8節 | Wu Guangya | Huang Yunsong | Lose | Void | 7.5 | 3136 | -94 | 
+| 2015-06-13 | 第17回中国囲碁甲級リーグ第7節 | Fan Tingyu | Wu Guangya | Win | W+R | 7.5 | 3230 | 17 | 
+| 2015-05-28 | 第17回中国囲碁甲級リーグ第6節 | Wu Guangya | Zhong Wenjing | Win | B+R | 7.5 | 3213 | 28 | 
+| 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Wu Guangya |  | Win | B+1.5 | 7.5 | 3185 | -12 | 
+| 2015-05-16 | 第17回中国囲碁甲級リーグ第4節 | Wu Guangya | Li Xuanhao | Win | B+R | 7.5 | 3197 | 41 | 
+| 2015-05-11 | 第17回中国囲碁甲級リーグ第3節 | Hu Yuhan | Wu Guangya | Lose | B+R | 7.5 | 3156 | -12 | 
+| 2015-05-03 | 第28期中国囲碁名人戦予選 | Zhu Yuanhao | Wu Guangya | Lose | B+R | 7.5 | 3168 | -11 | 
+| 2015-05-01 | 第17回中国囲碁甲級リーグ第2節 | Wu Guangya | Xu Jiayang | Win | B+R | 7.5 | 3179 | 54 | 
+| 2015-04-22 | 第17回中国囲碁甲級リーグ第1節 | Mao Ruilong | Wu Guangya | Win | W+R | 7.5 | 3125 | -21 | 
+| 2015-03-23 | 第12期倡棋杯中国プロ囲碁選手権戦予選 | Wu Guangya | Tong Mengcheng | Lose | W+R | 7.5 | 3146 | -199 | 
+| 2015-01-27 | 第29期中国囲碁天元戦1回戦 | Wu Guangya | Shi Yue | Lose | W+R | 7.5 | 3345 | -10 | 
+| 2015-01-26 | 第29期中国囲碁天元戦予選 | Li Zhe | Wu Guangya | Win | W+R | 7.5 | 3355 | 0 | 
+| 2015-01-20 | 第15期リコー杯囲碁戦2回戦 | Wu Guangya | Li Xuanhao | Lose | W+R | 7.5 | 3355 | 25 | 
+| 2014-11-22 | 第16回中国囲碁甲級リーグ第21節 | Chang Hao | Wu Guangya | Lose | B+R | 7.5 | 3330 | 6 | 
+| 2014-11-11 | 第16回中国囲碁甲級リーグ第20節 | Wu Guangya | Gu Li | Win | B+R | 7.5 | 3324 | 126 | 
+| 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 |  | Wu Guangya | Lose | B+R | 7.5 | 3198 | -14 | 
+| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 |  | Wu Guangya | Win | W+R | 7.5 | 3212 | -3 | 
+| 2014-10-12 | 第10期威孚房開杯棋王戦2回戦 | Shi Yue | Wu Guangya | Lose | B+R | 7.5 | 3215 | -4 | 
+| 2014-10-11 | 第10期威孚房開杯棋王戦1回戦 | Wu Guangya | Li Xuanhao | Win | B+1.5 | 7.5 | 3219 | -52 | 
+| 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Wu Guangya | Tang Weixing | Win | B+R | 7.5 | 3271 | 42 | 
+| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Wu Guangya | Hu Yuhan | Lose | W+R | 7.5 | 3229 | -26 | 
+| 2014-08-28 | 第19回三星火災杯世界囲碁マスターズ1回戦H3 | Wu Guangya | Kim Seongjae | Lose | W+3.5 | 6.5 | 3255 | -13 | 
+| 2014-08-27 | 第19回三星火災杯世界囲碁マスターズ1回戦H2 | Wu Guangya | Yu Bin | Win | B+R | 6.5 | 3268 | -17 | 
+| 2014-08-26 | 第19回三星火災杯世界囲碁マスターズ1回戦H1 | Wu Guangya | Kim Seongjae | Lose | W+R | 6.5 | 3285 | -81 | 
+| 2014-07-11 | 第6期中国竜星戦予選 | Wu Guangya | Meng Tailing | Lose | W+0.5 | 7.5 | 3366 | -4 | 
+| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Wu Guangya | Xie Erhao | Lose | W+2.5 | 7.5 | 3370 | -23 | 
+| 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Wu Guangya |  | Lose | W+R | 7.5 | 3393 | -3 | 
+| 2014-07-02 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Rui Naiwei | Wu Guangya | Win | W+R | 7.5 | 3396 | 26 | 
+| 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Wu Guangya | Yang Dingxin | Lose | W+R | 7.5 | 3370 | 10 | 
+| 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Zhou Ruiyang | Wu Guangya | Lose | B+R | 7.5 | 3360 | -8 | 
+| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Wu Guangya | Guo Yuzheng | Lose | W+R | 7.5 | 3368 | 7 | 
+| 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Gu Lingyi | Wu Guangya | Lose | B+R | 7.5 | 3361 | -1 | 
+| 2014-05-28 | 第11期倡棋杯中国プロ囲碁選手権戦1回戦 | Wu Guangya |  | Lose | W+R | 7.5 | 3362 | 60 | 
+| 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Ke Jie | Wu Guangya | Lose | B+R | 7.5 | 3302 | -7 | 
+| 2014-05-18 | 第16回中国囲碁甲級リーグ第3節 | Wu Guangya |  | Win | B+R | 7.5 | 3309 | 1 | 
+| 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 |  | Wu Guangya | Win | W+R | 7.5 | 3308 | -2 | 
+| 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Wu Guangya | Zhou Ruiyang | Win | B+R | 7.5 | 3310 | 22 | 
+| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Wu Guangya | Li Zhe | Lose | W+R | 7.5 | 3288 | -100 | 
+| 2014-04-12 | 第14期リコー杯囲碁戦決勝 | Lian Xiao | Wu Guangya | Lose | B+R | 7.5 | 3388 | 2 | 
+| 2014-04-04 | 第27期中国囲碁名人戦1回戦 | Zhou Ruiyang | Wu Guangya | Lose | B+R | 7.5 | 3386 | -5 | 
+| 2014-04-02 | 第27期中国囲碁名人戦予選 | Wu Guangya | Tong Yulin | Win | B+R | 7.5 | 3391 | 5 | 
+| 2014-04-01 | 第27期中国囲碁名人戦予選 |  | Wu Guangya | Win | W+R | 7.5 | 3386 | 47 | 
+| 2014-02-19 | 第14期リコー杯囲碁戦準決勝 | Wu Guangya | Zhou Ruiyang | Win | B+R | 7.5 | 3339 | 7 | 
+| 2014-02-18 | 第14期リコー杯囲碁戦4回戦 | Huang Yunsong | Wu Guangya | Win | W+4.5 | 7.5 | 3332 | 13 | 
+| 2014-02-17 | 第14期リコー杯囲碁戦3回戦 | Wu Guangya | Shi Yue | Win | B+R | 7.5 | 3319 | -57 | 
+| 2014-01-15 | 第28期中国囲碁天元戦1回戦 | Wu Guangya | Niu Yutian | Lose | W+0.5 | 7.5 | 3376 | -32 | 
+| 2013-12-30 | 第14期リコー杯囲碁戦2回戦 | Tuo Jiaxi | Wu Guangya | Win | W+R | 7.5 | 3408 | 9 | 
+| 2013-12-29 | 第14期リコー杯囲碁戦1回戦 | Han Yizhou | Wu Guangya | Win | W+R | 7.5 | 3399 | 80 | 
+| 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 | Tao Xinran | Wu Guangya | Lose | B+1.5 | 7.5 | 3319 | 26 | 
+| 2013-11-23 | 第15回中国囲碁甲級リーグ第21節 | Niu Yutian | Wu Guangya | Win | W+R | 7.5 | 3293 | 8 | 
+| 2013-11-07 | 第18回三星火災杯世界囲碁マスターズ準決勝三番勝負第3局 | Wu Guangya | Lee Sedol | Lose | W+R | 6.5 | 3285 | 2 | 
+| 2013-11-06 | 第18回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Wu Guangya | Lee Sedol | Lose | W+R | 6.5 | 3283 | -6 | 
+| 2013-11-04 | 第18回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Lee Sedol | Wu Guangya | Win | W+R | 6.5 | 3289 | 10 | 
+| 2013-11-02 | 第15回中国囲碁甲級リーグ第19節 | Wu Guangya | Chang Hao | Lose | W+R | 7.5 | 3279 | -8 | 
+| 2013-10-29 | 第9期威孚房開杯棋王戦3回戦 | Yang Dingxin | Wu Guangya | Lose | B+R | 7.5 | 3287 | -2 | 
+| 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 | Wu Guangya | Peng Quan | Win | B+3.5 | 7.5 | 3289 | 0 | 
+| 2013-10-25 | 2013年宏達杯全国囲碁星鋭最強戦 |  | Wu Guangya | Lose | B+R | 7.5 | 3289 | -10 | 
+| 2013-10-24 | 2013年宏達杯全国囲碁星鋭最強戦 | Wu Guangya | Fan Yunruo | Lose | W+R | 7.5 | 3299 | -12 | 
+| 2013-10-23 | 2013年宏達杯全国囲碁星鋭最強戦 | Huang Yunsong | Wu Guangya | Win | W+4.5 | 7.5 | 3311 | -14 | 
+| 2013-10-13 | 第15回中国囲碁甲級リーグ第16節 | Wu Guangya | Liu Xing | Lose | W+R | 7.5 | 3325 | -1 | 
+| 2013-10-10 | 第18回三星火災杯世界囲碁マスターズ3回戦 | An Sungjoon | Wu Guangya | Win | W+R | 6.5 | 3326 | -3 | 
+| 2013-10-08 | 第18回三星火災杯世界囲碁マスターズ2回戦 | Li Xuanhao | Wu Guangya | Win | W+R | 6.5 | 3329 | -48 | 
+| 2013-09-24 | 2013年全国囲棋個人戦男子組第8戦 | Wu Guangya | Zhong Wenjing | Lose | W+R | 6.5 | 3377 | -131 | 
+| 2013-09-12 | 第15回中国囲碁甲級リーグ第15節 | Tong Mengcheng | Wu Guangya | Lose | B+R | 7.5 | 3508 | 32 | 
+| 2013-09-07 | 第15回中国囲碁甲級リーグ第14節 | Wu Guangya | Zhong Wenjing | Lose | W+R | 7.5 | 3476 | -9 | 
+| 2013-09-05 | 第18回三星火災杯世界囲碁マスターズ1回戦A3 | Seo Bongsoo | Wu Guangya | Win | W+5.5 | 6.5 | 3485 | 8 | 
+| 2013-09-04 | 第18回三星火災杯世界囲碁マスターズ1回戦A2 | Tang Weixing | Wu Guangya | Lose | B+1.5 | 6.5 | 3477 | -2 | 
+| 2013-09-03 | 第18回三星火災杯世界囲碁マスターズ1回戦A1 | Seo Bongsoo | Wu Guangya | Win | W+7.5 | 6.5 | 3479 | 13 | 
+| 2013-09-01 | 第15回中国囲碁甲級リーグ第13節 | Wu Guangya | Gu Li | Win | B+R | 7.5 | 3466 | 12 | 
+| 2013-08-30 | 第15回中国囲碁甲級リーグ第12節 | Wu Guangya | Byun Sangil | Win | B+1.5 | 7.5 | 3454 | -1 | 
+| 2013-08-28 | 第9期威孚房開杯棋王戦2回戦 | Zhou Heyang | Wu Guangya | Win | W+R | 7.5 | 3455 | 7 | 
+| 2013-08-27 | 第9期威孚房開杯棋王戦1回戦 | Peng Liyao | Wu Guangya | Win | W+0.5 | 7.5 | 3448 | -30 | 
+| 2013-08-11 | 第1回夢百合杯世界オープン戦4回戦 | Wang Xi | Wu Guangya | Lose | B+3.5 | 7.5 | 3478 | -7 | 
+| 2013-08-09 | 第1回夢百合杯世界オープン戦3回戦 | Wu Guangya |  | Win | B+1.5 | 7.5 | 3485 | 14 | 
+| 2013-08-07 | 第18回三星火災杯統合予選決勝 | Mi Yuting | Wu Guangya | Win | W+1.5 | 6.5 | 3471 | 123 | 
+| 2013-07-15 | 第15回中国囲碁甲級リーグ第11節 | Tao Xinran | Wu Guangya | Win | W+R | 7.5 | 3348 | 8 | 
+| 2013-07-11 | 第1回夢百合杯世界オープン戦2回戦 | Wu Guangya | An Dongxu | Win | B+R | 7.5 | 3340 | 62 | 
+| 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 |  | Wu Guangya | Win | W+R | 7.5 | 3278 | 55 | 
+| 2013-07-07 | 第15回中国囲碁甲級リーグ第10節 | Liao Xingwen | Wu Guangya | Win | W+R | 7.5 | 3223 | 16 | 
+| 2013-06-29 | 第15期阿含・桐山杯中国早碁オープン戦1回戦 | Fan Tingyu | Wu Guangya | Lose | B+1.5 | 7.5 | 3207 | 13 | 
+| 2013-06-22 | 第15回中国囲碁甲級リーグ第9節 | Rong Yi | Wu Guangya | Win | W+R | 7.5 | 3194 | 5 | 
+| 2013-06-15 | 第15回中国囲碁甲級リーグ第8節 | Fan Yunruo | Wu Guangya | Win | W+R | 7.5 | 3189 | 0 | 
+| 2013-06-06 | 第15期阿含・桐山杯中国早碁オープン戦予選 |  | Wu Guangya | Win | W+R | 7.5 | 3189 | 0 | 
+| 2013-06-06 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Wu Guangya | Tao Xinran | Win | B+5.5 | 7.5 | 3189 | 21 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Wu Guangya |  | Win | B+R | 7.5 | 3168 | 0 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Wu Guangya |  | Win | B+R | 7.5 | 3168 | 1 | 
+| 2013-06-02 | 第15回中国囲碁甲級リーグ第7節 | Wu Guangya | Peng Quan | Win | B+R | 7.5 | 3167 | 125 | 
+| 2013-05-27 | 第10期倡棋杯中国プロ囲碁選手権戦1回戦 | Mi Yuting | Wu Guangya | Lose | B+1 | 7.5 | 3042 | -83 | 
+| 2013-05-11 | 第15回中国囲碁甲級リーグ第5節 | Li Qincheng | Wu Guangya | Lose | B+1.5 | 7.5 | 3125 | -11 | 
+| 2013-05-07 | 第10期倡棋杯中国プロ囲碁選手権戦予選 | Wu Guangya | Chen Xian | Win | B+R | 7.5 | 3136 | 15 | 
+| 2013-05-04 | 第15回中国囲碁甲級リーグ第3節 | Zhong Wenjing | Wu Guangya | Lose | B+R | 7.5 | 3121 | -51 | 
+| 2013-04-23 | 第18回LG杯予選決勝 | Wu Guangya | Mok Jinseok | Lose | W+R | 6.5 | 3172 | -16 | 
+| 2013-04-11 | 第26期中国囲碁名人戦予選 | Tong Yulin | Wu Guangya | Lose | B+R | 7.5 | 3188 | -9 | 
+| 2013-04-10 | 第26期中国囲碁名人戦予選 | Zhu Songli | Wu Guangya | Win | W+0.5 | 7.5 | 3197 | 11 | 
+| 2013-04-07 | 第15回中国囲碁甲級リーグ第2節 | Xie He | Wu Guangya | Lose | B+R | 7.5 | 3186 | -35 | 
+| 2013-03-31 | 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | Wu Guangya | Mao Ruilong | Win | B+R | 7.5 | 3221 | 13 | 
+| 2013-03-30 | 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | Wu Guangya | Tan Xiao | Lose | W+R | 7.5 | 3208 | 0 | 
+| 2013-03-30 | 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | An Dongxu | Wu Guangya | Lose | B+R | 7.5 | 3208 | -24 | 
+| 2013-03-29 | 2013年宏達杯全国囲碁星鋭最強戦第1ステージ |  | Wu Guangya | Win | W+R | 7.5 | 3232 | 0 | 
+| 2013-03-29 | 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | Wang Zejin | Wu Guangya | Win | W+R | 7.5 | 3232 | -8 | 
+| 2013-03-27 | 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | Wu Guangya |  | Win | B+R | 7.5 | 3240 | 2 | 
+| 2013-03-26 | 2013年宏達杯全国囲碁星鋭最強戦第1ステージ |  | Wu Guangya | Win | W+R | 7.5 | 3238 | -15 | 
+| 2013-03-13 | 2013CCTV杯中国囲棋電視快棋戦1回戦 | Chen Yaoye | Wu Guangya | Lose | B+3.5 | 7.5 | 3253 | 35 | 
+| 2013-01-24 | 第27期中国囲碁天元戦1回戦 | Wu Guangya | Gu Li | Lose | W+R | 7.5 | 3218 | -189 | 
+| 2012-11-24 | 第14回中国囲碁甲級リーグ第20節 | Wu Guangya | Li Kang | Lose | W+0.5 | 7.5 | 3407 | -1 | 
+| 2012-11-10 | 第14回中国囲碁甲級リーグ第19節 | Wu Guangya | Wang Haoyang | Win | B+1.5 | 7.5 | 3408 | 3 | 
+| 2012-11-03 | 第14回中国囲碁甲級リーグ第18節 |  | Wu Guangya | Win | W+0.5 | 7.5 | 3405 | -3 | 
+| 2012-10-21 | 第14回中国囲碁甲級リーグ第17節 | Wu Guangya | Xie He | Win | B+R | 7.5 | 3408 | 26 | 
+| 2012-10-13 | 第8期威孚房開杯棋王戦予選 | Wu Guangya | Jiang Weijie | Lose | W+R | 7.5 | 3382 | 11 | 
+| 2012-10-10 | 第4期中国竜星戦2回戦 | Zhou Ruiyang | Wu Guangya | Lose | B+R | 7.5 | 3371 | -10 | 
+| 2012-10-09 | 第4期中国竜星戦1回戦 | Wu Guangya | Yu Bin | Win | B+R | 7.5 | 3381 | 20 | 
+| 2012-09-30 | 第14回中国囲碁甲級リーグ第16節 | Zhou Ruiyang | Wu Guangya | Win | W+R | 7.5 | 3361 | -19 | 
+| 2012-09-19 | 2012年全国囲棋個人戦男子組第4戦 | Mao Ruilong | Wu Guangya | Lose | B+R | 7.5 | 3380 | 23 | 
+| 2012-09-08 | 第14回中国囲碁甲級リーグ第14節 | Zhong Wenjing | Wu Guangya | Lose | B+R | 7.5 | 3357 | -1 | 
+| 2012-09-01 | 第14回中国囲碁甲級リーグ第13節 | Chang Hao | Wu Guangya | Win | W+R | 7.5 | 3358 | 22 | 
+| 2012-07-15 | 第14回中国囲碁甲級リーグ第11節 | Wu Guangya | Lee Yeongkyu | Lose | W+R | 7.5 | 3336 | -11 | 
+| 2012-07-13 | 第14回中国囲碁甲級リーグ第10節 | Sun Li | Wu Guangya | Win | W+R | 7.5 | 3347 | -24 | 
+| 2012-07-09 | 2012CCTV杯中国囲棋電視快棋戦2回戦 | Liu Xing | Wu Guangya | Lose | B+R | 7.5 | 3371 | 0 | 
+| 2012-07-09 | 2012CCTV杯中国囲棋電視快棋戦1回戦 | Li Zhe | Wu Guangya | Win | W+R | 7.5 | 3371 | -22 | 
+| 2012-07-07 | 第14回中国囲碁甲級リーグ第9節 | Niu Yutian | Wu Guangya | Lose | B+R | 7.5 | 3393 | 45 | 
+| 2012-06-30 | 第14回中国囲碁甲級リーグ第8節 | Wu Guangya | Wang Haoyang | Lose | W+R | 7.5 | 3348 | 29 | 
+| 2012-06-26 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Wu Guangya |  | Lose | W+R | 7.5 | 3319 | -53 | 
+| 2012-06-23 | 第14回中国囲碁甲級リーグ第7節 | Mao Ruilong | Wu Guangya | Win | W+2.5 | 7.5 | 3372 | -11 | 
+| 2012-06-18 | 第17回LG杯世界棋王戦1回戦 | Park Junghwan | Wu Guangya | Lose | B+R | 6.5 | 3383 | -14 | 
+| 2012-06-03 | 第9期倡棋杯中国プロ囲碁選手権戦2回戦 | Wu Guangya | Qiu Jun | Lose | W+R | 7.5 | 3397 | -12 | 
+| 2012-06-01 | 第9期倡棋杯中国プロ囲碁選手権戦1回戦 | Peng Liyao | Wu Guangya | Win | W+R | 7.5 | 3409 | 31 | 
+| 2012-05-19 | 第9期倡棋杯中国プロ囲碁選手権戦予選 | Niu Yutian | Wu Guangya | Win | W+R | 7.5 | 3378 | -2 | 
+| 2012-05-17 | 第9期倡棋杯中国プロ囲碁選手権戦予選 | Wang Tao | Wu Guangya | Win | W+R | 7.5 | 3380 | -58 | 
+| 2012-05-07 | 第14回中国囲碁甲級リーグ第3節 | Wu Guangya | Chen Yaoye | Lose | W+R | 7.5 | 3438 | -59 | 
+| 2012-04-28 | 第14回中国囲碁甲級リーグ第1節 | Tong Mengcheng | Wu Guangya | Lose | B+5.5 | 7.5 | 3497 | -23 | 
+| 2012-04-07 | 第25期中国囲碁名人戦2回戦 | Wang Haoyang | Wu Guangya | Lose | B+R | 7.5 | 3520 | 0 | 
+| 2012-04-05 | 第25期中国囲碁名人戦1回戦 | Wu Guangya | Chen Yaoye | Win | B+1.5 | 7.5 | 3520 | 20 | 
+| 2012-04-02 | 第25期中国囲碁名人戦予選 | Li Xuanhao | Wu Guangya | Win | W+R | 7.5 | 3500 | 24 | 
+| 2012-03-14 | 第1回百霊杯世界囲碁選手権1回戦 | Qiu Jun | Wu Guangya | Lose | B+R | 7.5 | 3476 | -31 | 
+| 2012-02-12 | 第26期中国囲碁天元戦2回戦 | Zhou Hexi | Wu Guangya | Lose | B+R | 7.5 | 3507 | -7 | 
+| 2012-02-10 | 第26期中国囲碁天元戦1回戦 | Wu Guangya | Tuo Jiaxi | Win | B+R | 7.5 | 3514 | 27 | 
+| 2011-12-30 | 第12期リコー杯囲碁戦2回戦 | Wu Guangya | Xie He | Lose | W+R | 7.5 | 3487 | 1 | 
+| 2011-12-29 | 第12期リコー杯囲碁戦1回戦 | Tian Ruiqi | Wu Guangya | Win | W+R | 7.5 | 3486 | 13 | 
+| 2011-12-26 | 第13回中国囲碁甲級リーグ第22節 | Tao Xin | Wu Guangya | Lose | B+1.5 | 7.5 | 3473 | 332 | 
+| 2011-12-06 | 第13回中国囲碁甲級リーグ第21節 | Wu Guangya | Piao Wenyao | Win | B+R | 7.5 | 3141 | 34 | 
+| 2011-11-26 | 第13回中国囲碁甲級リーグ第20節 | Wu Guangya | Fan Tingyu | Lose | W+R | 7.5 | 3107 | 32 | 
+| 2011-11-05 | 第13回中国囲碁甲級リーグ第19節 | Gu Li | Wu Guangya | Win | W+R | 7.5 | 3075 | -7 | 
+| 2011-10-29 | 第13回中国囲碁甲級リーグ第18節 | Hu Yaoyu | Wu Guangya | Win | W+R | 7.5 | 3082 | 17 | 
+| 2011-10-13 | 第13回中国囲碁甲級リーグ第17節 | Wu Guangya | Lee Yeongkyu | Lose | W+R | 7.5 | 3065 | -17 | 
+| 2011-10-08 | 第13回中国囲碁甲級リーグ第16節 | Niu Yutian | Wu Guangya | Lose | B+R | 7.5 | 3082 | -26 | 
+| 2011-09-29 | 第13回中国囲碁甲級リーグ第15節 | Wu Guangya | Cho Hanseung | Lose | W+R | 7.5 | 3108 | 46 | 
+| 2011-09-10 | 第13回中国囲碁甲級リーグ第14節 | Wu Guangya | Zhong Wenjing | Lose | W+R | 7.5 | 3062 | 4 | 
+| 2011-09-08 | 第7期威孚房開杯棋王戦2回戦 | Wu Guangya | Li Kang | Lose | W+R | 7.5 | 3058 | 0 | 
+| 2011-09-08 | 第7期威孚房開杯棋王戦1回戦 | Niu Yutian | Wu Guangya | Win | W+R | 7.5 | 3058 | 12 | 
+| 2011-09-06 | 第13回中国囲碁甲級リーグ第13節 | Wu Guangya | Tan Xiao | Lose | W+R | 7.5 | 3046 | -15 | 
+| 2011-09-04 | 第13回中国囲碁甲級リーグ第12節 | Wu Guangya | Huang Chen | Win | B+R | 7.5 | 3061 | 16 | 
+| 2011-07-14 | 第13回中国囲碁甲級リーグ第11節 | Zhou Ruiyang | Wu Guangya | Lose | B+R | 7.5 | 3045 | -8 | 
+| 2011-07-09 | 第13回中国囲碁甲級リーグ第10節 | Wu Guangya | Li Zhe | Win | B+R | 7.5 | 3053 | 1 | 
+| 2011-07-02 | 第13回中国囲碁甲級リーグ第9節 | Fan Tingyu | Wu Guangya | Lose | B+3.5 | 7.5 | 3052 | -129 | 
+| 2011-06-25 | 第13回中国囲碁甲級リーグ第8節 | Wu Guangya | Gu Li | Win | B+R | 7.5 | 3181 | 6 | 
+| 2011-06-18 | 第13回中国囲碁甲級リーグ第7節 | Qiu Jun | Wu Guangya | Lose | B+R | 7.5 | 3175 | -37 | 
+| 2011-06-09 | 第13回中国囲碁甲級リーグ第6節 | Lee Yeongkyu | Wu Guangya | Lose | B+R | 7.5 | 3212 | -6 | 
+| 2011-05-28 | 第13回中国囲碁甲級リーグ第5節 | Wang Lei (b) | Wu Guangya | Lose | B+1.5 | 7.5 | 3218 | -17 | 
+| 2011-05-25 | 第8期倡棋杯中国プロ囲碁選手権戦予選 | Wu Guangya |  | Lose | W+R | 7.5 | 3235 | -33 | 
+| 2011-05-21 | 第13回中国囲碁甲級リーグ第4節 |  | Wu Guangya | Win | W+R | 7.5 | 3268 | 6 | 
+| 2011-05-14 | 第13回中国囲碁甲級リーグ第3節 | Wu Guangya | Chen Yaoye | Lose | W+R | 7.5 | 3262 | -16 | 
+| 2011-05-09 | 第13回中国囲碁甲級リーグ第2節 | Wu Guangya | Sun Tengyu | Win | B+R | 7.5 | 3278 | 46 | 
+| 2011-05-07 | 第13回中国囲碁甲級リーグ第1節 | Wang Yuhui | Wu Guangya | Win | W+R | 7.5 | 3232 | -11 | 
+| 2011-03-23 | 第24期中国囲碁名人戦予選 | Wu Guangya | Fan Tingyu | Lose | W+R | 7.5 | 3243 | -101 | 
+| 2011-03-14 | 2011CCTV杯中国囲棋電視快棋戦1回戦 | Wang Xiangyun | Wu Guangya | Win | W+R | 7.5 | 3344 | 79 | 
+| 2011-02-27 | 第3回BCカード杯世界選手権2回戦 | Wu Guangya | Tan Xiao | Lose | W+R | 6.5 | 3265 | -8 | 
+| 2011-02-24 | 第18期建橋杯中国囲碁新人王戦準決勝 | Wu Guangya | Fan Tingyu | Lose | W+R | 7.5 | 3273 | 4 | 
+| 2011-02-17 | 第25期中国囲碁天元戦3回戦 | Wu Guangya |  | Lose | W+0.5 | 7.5 | 3269 | 9 | 
+| 2011-02-13 | 第25期中国囲碁天元戦1回戦 | Wu Guangya | Tang Weixing | Win | B+R | 7.5 | 3260 | 30 | 
+| 2011-01-29 | 第3回BCカード杯世界選手権1回戦 | Wu Guangya | Seo Joonghui | Win | B+R | 6.5 | 3230 | 112 | 
+| 2010-11-13 | 第6期威孚房開杯棋王戦3回戦 | Peng Liyao | Wu Guangya | Lose | B+R | 7.5 | 3118 | 26 | 
+| 2010-09-01 | 第6期威孚房開杯棋王戦2回戦 | Wu Guangya | Tan Xiao | Win | B+R | 7.5 | 3092 | 0 | 
+| 2010-09-01 | 第6期威孚房開杯棋王戦1回戦 | Meng Tailing | Wu Guangya | Win | W+4.5 | 7.5 | 3092 | -21 | 
+| 2010-07-28 | 2010年中国段位戦 | Wu Guangya |  | Lose | W+0.5 | 7.5 | 3113 | -47 | 
+| 2010-07-23 | 2010年中国段位戦 | Wu Guangya |  | Lose | W+R | 7.5 | 3160 | 152 | 
+| 2010-04-02 | 第23期中国囲碁名人戦1回戦 | Li Zhe | Wu Guangya | Lose | B+5.5 | 7.5 | 3008 | -6 | 
+| 2010-03-31 | 第23期中国囲碁名人戦予選 |  | Wu Guangya | Win | W+R | 7.5 | 3014 | -6 | 
+| 2010-03-30 | 第23期中国囲碁名人戦予選 | Yu Bin | Wu Guangya | Win | W+4.5 | 7.5 | 3020 | -86 | 
+| 2010-03-04 | 2010CCTV杯中国囲棋電視快棋戦2回戦 | Piao Wenyao | Wu Guangya | Lose | B+R | 7.5 | 3106 | 0 | 
+| 2010-03-04 | 2010CCTV杯中国囲棋電視快棋戦1回戦 | Wu Guangya |  | Win | B+3.5 | 7.5 | 3106 | 26 | 
+| 2010-02-02 | 第24期中国囲碁天元戦準決勝 | Wu Guangya | Gu Li | Lose | W+R | 7.5 | 3080 | -20 | 
+| 2010-01-31 | 第24期中国囲碁天元戦3回戦 | Li Kang | Wu Guangya | Win | W+R | 7.5 | 3100 | 13 | 
+| 2010-01-29 | 第24期中国囲碁天元戦2回戦 | Luo Xihe | Wu Guangya | Win | W+R | 7.5 | 3087 | 8 | 
+| 2010-01-27 | 第24期中国囲碁天元戦1回戦 | Wu Guangya | Wang Yao | Win | B+R | 7.5 | 3079 | 21 | 
+| 2010-01-26 | 第24期中国囲碁天元戦予選 | Wang Chenxing | Wu Guangya | Win | W+R | 7.5 | 3058 | -113 | 
+| 2009-07-29 | 2009年中国段位戦 | Wu Guangya | Tan Xiao | Win | B+R | 7.5 | 3171 | 5 | 
+| 2009-07-01 | 第11期阿含・桐山杯中国早碁オープン戦予選 |  | Wu Guangya | Lose | B+R | 7.5 | 3166 | 0 | 
+| 2009-07-01 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Wang Lei (s) | Wu Guangya | Win | W+8.5 | 7.5 | 3166 | -10 | 
+| 2009-06-30 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Wu Guangya |  | Win | B+R | 7.5 | 3176 | 0 | 
+| 2009-06-30 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Zhou Heyang | Wu Guangya | Win | W+R | 7.5 | 3176 | 240 | 
+| 2009-05-05 | 第6期倡棋杯中国プロ囲碁選手権戦予選 | Wu Guangya |  | Lose | W+1 | 7.5 | 2936 | -135 | 
+| 2009-05-04 | 2009CCTV杯中国囲棋電視快棋戦4回戦 | Zhou Ruiyang | Wu Guangya | Lose | B+R | 7.5 | 3071 | -77 | 
+| 2009-04-03 | 第22期中国囲碁名人戦予選 | Wu Guangya | Li Zhe | Lose | W+R | 7.5 | 3148 | -72 | 
+| 2009-03-31 | 2009CCTV杯中国囲棋電視快棋戦3回戦 | Liu Jing | Wu Guangya | Win | W+R | 7.5 | 3220 | 23 | 
+| 2009-03-12 | 2009CCTV杯中国囲棋電視快棋戦2回戦 |  | Wu Guangya | Win | W+R | 7.5 | 3197 | 25 | 
+| 2009-03-09 | 2009CCTV杯中国囲棋電視快棋戦1回戦 | Wu Guangya | Gu Li | Win | B+R | 7.5 | 3172 | 213 | 
+| 2009-03-05 | 第16期建橋杯中国囲碁新人王戦2回戦 | Wu Guangya | Peng Liyao | Lose | W+R | 7.5 | 2959 | 2959 | 
+| 2009-03-04 | 第16期建橋杯中国囲碁新人王戦1回戦 | Huang Chen | Wu Guangya | Win | W+R | 7.5 | missing | -2940 | 
+| 2008-05-22 | 第5期倡棋杯中国プロ囲碁選手権戦1回戦 | Xie He | Wu Guangya | Lose | B+R | 7.5 | 2940 | 188 | 
+| 2008-04-15 | 第5期倡棋杯中国プロ囲碁選手権戦予選 | Wu Guangya | Liu Xiaoguang | Win | B+R | 7.5 | 2752 | 87 | 
+| 2008-04-13 | 第5期倡棋杯中国プロ囲碁選手権戦予選 |  | Wu Guangya | Win | W+1 | 7.5 | 2665 | 142 | 
+| 2007-12-24 | 2008CCTV杯中国囲棋電視快棋戦1回戦 | Wu Guangya | Wang Yao | Lose | W+R | 7.5 | 2523 | -598 | 
+| 2007-07-24 | 2007年中国段位戦 | Wang Jun | Wu Guangya | Win | W+R | 7.5 | 3121 | -62 | 
+| 2007-07-23 | 2007年中国段位戦 | Wu Guangya |  | Win | B+R | 7.5 | 3183 | 2 | 
+| 2007-07-20 | 2007年中国段位戦 | Meng Tailing | Wu Guangya | Win | W+R | 7.5 | 3181 | 369 | 
+| 2007-07-12 | 2007年中国段位戦 |  | Wu Guangya | Win | W+R | 7.5 | 2812 | 60 | 
+| 2007-07-11 | 2007年中国段位戦 | Tao Xin | Wu Guangya | Lose | B+R | 7.5 | 2752 | -40 | 
+| 2007-04-02 | 第20期中国囲碁名人戦予選 | Wu Guangya | Xie He | Lose | W+R | 7.5 | 2792 | 245 | 
+| 2006-10-21 | 第8回中国囲碁甲級リーグ第13節 | Ding Wei | Wu Guangya | Lose | B+3.5 | 7.5 | 2547 | -124 | 
+| 2006-10-12 | 第8回中国囲碁甲級リーグ第12節 | Tan Xiao | Wu Guangya | Win | W+R | 7.5 | 2671 | -204 | 
+| 2006-06-24 | 第8回中国囲碁甲級リーグ第7節 | Wu Guangya | Piao Wenyao | Lose | W+6.5 | 7.5 | 2875 | -15 | 
+| 2006-06-10 | 第8回中国囲碁甲級リーグ第5節 | Hu Yaoyu | Wu Guangya | Lose | B+R | 7.5 | 2890 | 14 | 
+| 2006-04-15 | 第8回中国囲碁甲級リーグ第1節 |  | Wu Guangya | Lose | B+3.5 | 7.5 | 2876 | -241 | 
+| 2005-12-10 | 第7回中国囲碁甲級リーグ第20節 | Yin Hang | Wu Guangya | Lose | B+1.5 | 7.5 | 3117 | -100 | 
+| 2005-11-12 | 第7回中国囲碁甲級リーグ第17節 | Wu Guangya | Wang Xi | Lose | W+4.5 | 7.5 | 3217 | 212 | 
+| 2005-11-05 | 第7回中国囲碁甲級リーグ第16節 | Wu Guangya | Li Jie | Win | B+1.5 | 7.5 | 3005 | -174 | 
+| 2005-10-29 | 第7回中国囲碁甲級リーグ第15節 | Wu Guangya |  | Win | B+R | 7.5 | 3179 | 190 | 
+| 2005-07-09 | 第7回中国囲碁甲級リーグ第8節 | Wu Guangya | Li Zhe | Lose | W+2.5 | 7.5 | 2989 | 2989 | 
+| 2005-05-21 | 第7回中国囲碁甲級リーグ第4節 | Wu Guangya |  | Win | B+R | 7.5 | missing | missing |
 
 
 

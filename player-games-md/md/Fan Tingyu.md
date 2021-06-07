@@ -5,586 +5,587 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第23回中国囲碁甲級リーグ | Fan Tingyu | Yang Kaiwen | W+R | 2021-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dm6%2BDj3IEUnnazwnHEBZQQ%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Fan Tingyu | Hu Yuhan | B+R | 2021-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7IdQsLH3%2FPrsqjgi51UArA%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Fan Tingyu | Guo Xinyi | B+R | 2021-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TOVv%2BQ%2BZE33Ppc8pJNrjog%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Fan Tingyu | Lee Donghoon | B+R | 2021-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SVQISwwYhW53wdh6PhwjGg%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Zhang Tao | Fan Tingyu | B+R | 2021-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lpvKp5pzkTyWOHq9Ip1Ylg%3D%3D) | 
-| 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Lin Junyan | Fan Tingyu | B+R | 2021-04-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cZdup%2BmwSPngLnd4TMVJqA%3D%3D) | 
-| 第35期中国囲碁天元戦1回戦 | Fan Tingyu | Tang Weixing | W+2¼ | 2021-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DBvxnVIejkiAl3DMMLp8nQ%3D%3D) | 
-| 第13回春蘭杯世界囲碁選手権3回戦 | Fan Tingyu | Shin Jinseo | W+R | 2021-01-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N34P71D9LVZq16Yo5VYmJw%3D%3D) | 
-| 第4回Mlily夢百合杯世界囲碁オープン戦準決勝第2局 | Xie Ke | Fan Tingyu | B+R | 2021-01-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ru9RGuycAvZLn9EPdefNvw%3D%3D) | 
-| 第4回Mlily夢百合杯世界囲碁オープン戦準決勝第1局 | Fan Tingyu | Xie Ke | W+R | 2020-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4QZReWiyyyBmBnybr%2FpRYQ%3D%3D) | 
-| 第4回Mlily夢百合杯世界囲碁オープン戦8強戦 | Fan Tingyu | Ke Jie | B+R | 2020-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gkf1LFtXBObg2XkxUCJ%2FIQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Byun Sangil | Fan Tingyu | W+R | 2020-12-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eGzcOTz7HB6aEe14ooEq6w%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Byun Sangil | Fan Tingyu | W+R | 2020-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6Dhfb8X%2B9OKKbN5rynCfbQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Liao Yuanhe | B+R | 2020-12-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lPnzP0379UMQmenp%2FkM5eQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Park Junghwan | W+R | 2020-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rt8OBZBm9LKRm5FhxFwtRw%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Chen Xian | W+R | 2020-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=flOfu4ODsDQRp0jLvI6Q8A%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Huang Xin | Fan Tingyu | W+R | 2020-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YfuAJJw%2BKuL2uSY3ez%2B%2FNQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Fan Tingyu | Zhang Tao | B+R | 2020-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SzoesE7ZSoIH5AsYDZBSMw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | He Yuhan | Fan Tingyu | W+R | 2020-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gmp7c1WgyiBft69Sb73NYg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Xie Erhao | Fan Tingyu | B+R | 2020-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eVzjFd%2BwzL63pjEQ00qe7Q%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Fan Tingyu | Park Junghwan | W+R | 2020-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BO5ZCNMoPoidyNcESGFj5Q%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Kim Jiseok | Fan Tingyu | W+¼ | 2020-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FcWyYf3AJb32zOhgc%2F8JOw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Fan Tingyu | Na Hyun | W+¼ | 2020-12-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hA15rbL%2FbKIfWzfrMBTCwQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Gu Zihao | Fan Tingyu | W+R | 2020-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dLdXtxSxZbjGfcUFhMvfdw%3D%3D) | 
-| 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Fan Tingyu | Zhang Tao | W+R | 2020-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n1HVvIalD%2BX29sPkmIwdng%3D%3D) | 
-| 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Fan Tingyu | Zhao Chenyu | B+R | 2020-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6yrjDMdHWTSkSo4saYqCcA%3D%3D) | 
-| 第22回農心辛ラーメン杯世界囲碁最強戦第1戦 | Hong Kipyo | Fan Tingyu | B+R | 2020-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GvEUhyzzYpFUUpDnDjMviA%3D%3D) | 
-| 第2回王中王囲棋争覇戦準決勝 | Ke Jie | Fan Tingyu | B+R | 2020-10-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cZhLfn6sJenggIAEuQXpUg%3D%3D) | 
-| 第2回王中王囲棋争覇戦1回戦 | Xie Erhao | Fan Tingyu | W+R | 2020-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9jrXl3qOhNdanzhfqxEHSA%3D%3D) | 
-| 2020CCTV杯中国囲棋電視快棋戦準決勝 | Fan Tingyu | Lian Xiao | W+R | 2020-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hAissj%2BedU9sBLTNeOdlnQ%3D%3D) | 
-| 2020CCTV杯中国囲棋電視快棋戦3回戦 | Fan Tingyu | Tao Xinran | B+R | 2020-09-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WzjLF%2BuOFOTjDx7Gj3zcUg%3D%3D) | 
-| 2020CCTV杯中国囲棋電視快棋戦2回戦 | Jiang Weijie | Fan Tingyu | W+R | 2020-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TJTltwnoJLN7LtggNkrjBg%3D%3D) | 
-| 2020CCTV杯中国囲棋電視快棋戦1回戦 | Fan Tingyu | Liao Yuanhe | B+R | 2020-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Fw2V97Bk3M86iK5h3akPQ%3D%3D) | 
-| 第22回農心杯中国選抜戦 | Fan Tingyu | Lian Xiao | B+R | 2020-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1y38vC8y%2FBBMm%2BzThyafew%3D%3D) | 
-| 第22回農心杯中国選抜戦 | Fan Tingyu | Ding Hao | B+R | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KFvQV3Y1F61k6HoREBv0cg%3D%3D) | 
-| 第25回三星火災杯中国一般枠予選 | Fan Tingyu | Fan Yin | W+R | 2020-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O6E6WrZ2UZY2Pz8rQDADYw%3D%3D) | 
-| 第25回三星火災杯中国一般枠予選 | Lian Xiao | Fan Tingyu | B+R | 2020-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HrzcD92p0%2FK6t0s6IVyqLg%3D%3D) | 
-| 第9回応氏杯世界選手権2回戦 | Shin Jinseo | Fan Tingyu | B+5 | 2020-09-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3yW%2B8xVhxgIzyZHnyQUdCA%3D%3D) | 
-| 第9回応氏杯世界選手権1回戦 | Shin Minjun | Fan Tingyu | W+R | 2020-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xz%2BoI%2FGVLeofKyJanGFgpg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第8節 | Fan Tingyu | Wang Shiyi | B+R | 2020-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qFOPvuW4irWCZfsJuW%2FLCQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第7節 | Shi Yue | Fan Tingyu | W+R | 2020-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wIDkk1U7WlNfhuKn48YAXQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第6節 | Fan Tingyu | Mi Yuting | B+R | 2020-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G8IznHs7OZkA4OtLgVoK%2FQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第5節 | Fan Tingyu | Chen Hao | B+R | 2020-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KJIgENpLfvPRNqOVc5T1xQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第4節 | Fan Tingyu | Sun Tengyu | B+R | 2020-08-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5cN8d6w5egBKxuiVmTJvSw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第3節 | Fan Tingyu | Hu Yaoyu | B+R | 2020-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pytXpw1YhQ4ajqCRT6Lj5Q%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第2節 | Xie Ke | Fan Tingyu | W+R | 2020-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BeDBNvpA2fh0mqKT3rDhWg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第1節 | Fan Tingyu | Xia Chenkun | W+R | 2020-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eQv5FlMjSifC3ZXr5kMbxw%3D%3D) | 
-| 第21回農心辛ラーメン杯世界囲碁最強戦第12戦 | Park Junghwan | Fan Tingyu | B+R | 2020-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sdThmKmd72zXHDX2COUmgg%3D%3D) | 
-| 第21回農心辛ラーメン杯世界囲碁最強戦第12戦 | Fan Tingyu | Park Junghwan | Void | 2020-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OUxTdLkWq%2FJQYxJKl0lxLw%3D%3D) | 
-| 第13回春蘭杯世界囲碁選手権2回戦 | Fan Tingyu | Murakawa Daisuke | B+R | 2020-07-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eg%2B4ODqmCo0jfB%2FqiJAFuQ%3D%3D) | 
-| 第11期中国竜星戦Bブロック9回戦 | Lian Xiao | Fan Tingyu | B+R | 2020-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yJAFZqEn0uIu5EbmNotM7A%3D%3D) | 
-| 第5期洛陽白雲山杯中国棋聖戦16強戦 | Fan Tingyu | Xie Erhao | W+R | 2020-05-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ecm%2BGMJ0XU8ZPUOzBozd4Q%3D%3D) | 
-| 第25回LG杯中国予選 | Zhao Chenyu | Fan Tingyu | B+5.5 | 2020-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SZpZT65VLFP0etRuHxb%2B8w%3D%3D) | 
-| 第34期中国囲碁天元戦準決勝 | Yang Dingxin | Fan Tingyu | B+¾ | 2020-01-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EVC8GLvkZpDepxTFll5MMw%3D%3D) | 
-| 第34期中国囲碁天元戦3回戦 | Fan Yunruo | Fan Tingyu | W+¼ | 2020-01-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=08gxzlehD%2FUbKjZJ81Kzcg%3D%3D) | 
-| 第34期中国囲碁天元戦2回戦 | Tuo Jiaxi | Fan Tingyu | W+R | 2020-01-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CP7wEzEGcPiuubsNt9sQig%3D%3D) | 
-| 第34期中国囲碁天元戦1回戦 | Fan Tingyu | Gu Li | B+R | 2020-01-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XMYKh1QSvpWCeHvLDUIkDg%3D%3D) | 
-| 第21期阿含・桐山杯早碁オープン戦日中決戦 | Fan Tingyu | Cho U | W+¼ | 2019-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4SGwV%2FWA%2BqFDUje9mRoC7Q%3D%3D) | 
-| 第15期威孚房開杯棋王戦決勝 | Fan Tingyu | Mi Yuting | B+R | 2019-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2VHm0nl2IBkqcKggRCWpFg%3D%3D) | 
-| 第15期威孚房開杯棋王戦準決勝 | Fan Tingyu | Tan Xiao | B+R | 2019-11-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c%2Fpx9g7wSa9Kty8OHRRcpA%3D%3D) | 
-| 第15期威孚房開杯棋王戦8強戦 | Tuo Jiaxi | Fan Tingyu | W+R | 2019-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=crc3Hzb%2BexjnqJJoOrmgwg%3D%3D) | 
-| 第4回全国智力運動会男子団体戦第9戦 | Fan Tingyu | Tan Xiao | B+R | 2019-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2eGSXzMUgY1ZnX1yJSWF6A%3D%3D) | 
-| 第4回全国智力運動会男子団体戦第8戦 | Ding Hao | Fan Tingyu | W+R | 2019-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6cEuwXxBqY2lAcg4d3yC4A%3D%3D) | 
-| 第4回全国智力運動会男子団体戦第7戦 | Fan Tingyu | Dang Yifei | B+R | 2019-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XPnA4jf%2FSOA2KAzPlTAF3Q%3D%3D) | 
-| 第4回全国智力運動会男子団体戦第5戦 | Han Yizhou | Fan Tingyu | W+R | 2019-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EL8qME2LfPfKMYPUuNn4Bw%3D%3D) | 
-| 第4回全国智力運動会男子団体戦第3戦 | Fan Tingyu | Fan Yin | B+R | 2019-11-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n%2FwCL1IlZE6lgoDSgIuCOg%3D%3D) | 
-| 第4回全国智力運動会男子団体戦第1戦 | Fan Yunruo | Fan Tingyu | W+R | 2019-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Msqp7gEky7mv5T6PT%2FZAA%3D%3D) | 
-| 第4回全国智力運動会プロ男子個人戦第6戦 | Li Qincheng | Fan Tingyu | B+R | 2019-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n9eKwTBYY3yuqmrioMlR1A%3D%3D) | 
-| 第4回全国智力運動会プロ男子個人戦第3戦 | Tuo Jiaxi | Fan Tingyu | B+R | 2019-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FnwbWP4kjLPAuuiwFDwAUA%3D%3D) | 
-| 第4回全国智力運動会プロ男子個人戦第2戦 | Fan Tingyu | Ke Jie | B+R | 2019-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QhE3xWMm4ggEYqcIeQ0bUg%3D%3D) | 
-| 第4回全国智力運動会プロ男子個人戦第1戦 | missing | Fan Tingyu | W+R | 2019-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V24uhyVAnaijfc92N4nsOA%3D%3D) | 
-| 第4回Mlily夢百合杯世界囲碁オープン戦16強戦 | missing | Fan Tingyu | W+R | 2019-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MCjveo2rsbO6h5o%2Fp1IkcQ%3D%3D) | 
-| 第4回Mlily夢百合杯世界囲碁オープン戦32強戦 | Fan Tingyu | missing | B+2¾ | 2019-10-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xl5sfehsXGqQzJm33OKZSw%3D%3D) | 
-| 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Liao Yuanhe | Fan Tingyu | W+R | 2019-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EswwMXsR8Wqmg2ZDVGNsTQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Fan Tingyu | missing | W+R | 2019-10-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S2CWhs8Zv7Y21wa6gjgJ7g%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Fan Tingyu | Tuo Jiaxi | B+R | 2019-10-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JmgqwR51qidEJhZANLcyIw%3D%3D) | 
-| 第15期威孚房開杯棋王戦16強戦 | Fan Tingyu | Ding Hao | B+¾ | 2019-09-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZM5KX%2BuvNzxHI9kVdOh%2FdQ%3D%3D) | 
-| 第21期阿含・桐山杯中国早碁オープン戦決勝 | Tuo Jiaxi | Fan Tingyu | W+R | 2019-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DCqeThM2ieqnQpxRHco76A%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第15節 | Rong Yi | Fan Tingyu | W+¼ | 2019-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T5FBSUYH6sq2tRddgkv3Sg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第14節 | Kim Myounghoon | Fan Tingyu | B+R | 2019-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G2hO88CjdLeBfR3t3mwPdw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第13節 | Yao Xiaotong | Fan Tingyu | W+R | 2019-08-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3waI8VdprYE8qGQijma1IA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第12節 | Fan Tingyu | Sun Tengyu | W+R | 2019-08-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fV3uJmbCrb3EcgobodgpzA%3D%3D) | 
-| 第6回国手山脈国際囲碁大会世界プロ最強戦16強戦 | Lee Donghoon | Fan Tingyu | B+R | 2019-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dXEmwxitIoTM%2FJ%2BMYkmVmA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第11節 | missing | Fan Tingyu | W+R | 2019-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HUMNBlkSVNEwl0Y78cRuCw%3D%3D) | 
-| 第21期阿含・桐山杯中国早碁オープン戦準決勝 | Fan Tingyu | Ke Jie | B+R | 2019-07-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BG387vPmRT0nJkl56MRC5Q%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第10節 | Wang Zejin | Fan Tingyu | B+R | 2019-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m2P88zKa7rUEcBFU7B4FaA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第9節 | Fan Tingyu | Zhang Qiang | B+R | 2019-07-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EkgoqhJwI4DRQk37jsHm4A%3D%3D) | 
-| 第24回三星火災杯統合予選3回戦 | Fan Tingyu | Kim Myounghoon | W+R | 2019-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zs%2BucfV5ec3jRnMK2YouxA%3D%3D) | 
-| 第21期阿含・桐山杯中国早碁オープン戦8強戦 | Xie Ke | Fan Tingyu | W+R | 2019-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PJiLWaarFjRRh8LBJ6h1uA%3D%3D) | 
-| 第21期阿含・桐山杯中国早碁オープン戦16強戦 | Liao Yuanhe | Fan Tingyu | W+¼ | 2019-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WXpXqE%2BLfIEBzKsxbg5y2Q%3D%3D) | 
-| 嫘祖杯第32期中国囲棋名人戦準決勝 | Fan Tingyu | Xu Jiayang | W+R | 2019-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cpI0e4PZu9v99OoLBLVngQ%3D%3D) | 
-| 嫘祖杯第32期中国囲棋名人戦8強戦 | Tao Xinran | Fan Tingyu | W+R | 2019-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B7Zlc4F4Ten76cp2RFQPvw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第8節 | Fan Tingyu | Hu Yaoyu | B+¾ | 2019-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=73ZyOPYLYtoHCRFfjYF6Bg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第7節 | Park Junghwan | Fan Tingyu | B+R | 2019-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GtszkmGzyh6lAfP7yYevMQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第6節 | Fan Tingyu | Tu Xiaoyu | W+R | 2019-06-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bma4gp3AWYDmnIn3N1G0lg%3D%3D) | 
-| 第24回LG杯朝鮮日報棋王戦1回戦 | Fan Tingyu | Mi Yuting | W+1.5 | 2019-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WtpJKUtnr%2FuOGy%2BSLgAJIw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第5節 | Mi Yuting | Fan Tingyu | B+R | 2019-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2yZCuuoNAMcw%2FKuZn%2BLf%2FA%3D%3D) | 
-| 嫘祖杯第32期中国囲棋名人戦16強戦 | Tang Weixing | Fan Tingyu | W+R | 2019-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4V8Fhv3Y5RQs5VG%2FMooL6g%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第4節 | Fan Tingyu | Shi Yue | W+R | 2019-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RGKFTqRg6hGclA7CUqcm3w%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第3節 | Fan Tingyu | Tan Xiao | B+R | 2019-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3defCIxuvD7cIAbdm2P7iQ%3D%3D) | 
-| 第4期洛陽白雲山杯中国棋聖戦準決勝 | Fan Yunruo | Fan Tingyu | B+R | 2019-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8LYRiVOI0E33kGdi9kbBLQ%3D%3D) | 
-| 第4期洛陽白雲山杯中国棋聖戦8強戦 | Rong Yi | Fan Tingyu | W+R | 2019-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HCHmDNxlcUHt1mzMKsH31w%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦本戦2回戦 | Fan Tingyu | Zhou Ruiyang | W+R | 2019-04-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UEvtO9pyBThdxZ1FYAnYWA%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Li Weiqing | Fan Tingyu | W+R | 2019-04-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UjT4eb4%2FyfdGPxRggFfvHQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第2節 | Fan Tingyu | Yang Dingxin | W+R | 2019-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a7VdOYSdeSR6KEDznZarsg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第1節濰坊-蘇泊爾 | Shin Jinseo | Fan Tingyu | B+R | 2019-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zVUh%2Bi6xXINOaYzyxeYhLQ%3D%3D) | 
-| 第10期中国竜星戦Bブロック8回戦 | Gu Zihao | Fan Tingyu | B+R | 2019-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tjdj%2BpOED3srP7odNOFR4w%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦1回戦 | Chen Zijian | Fan Tingyu | B+R | 2019-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hiu2qJNpNMljdIDSJqk3Zg%3D%3D) | 
-| 第10期中国竜星戦Bブロック7回戦 | Fan Tingyu | Xu Jiayang | B+R | 2019-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6SDWKA9jIrlwVmJEEfCHTQ%3D%3D) | 
-| 第1回王中王囲棋争覇戦決勝 | Xie Erhao | Fan Tingyu | B+¾ | 2019-03-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xHUSaBEZFHPKdxuDogZ1VQ%3D%3D) | 
-| 第1回王中王囲棋争覇戦勝者組決勝 | Fan Tingyu | Lian Xiao | B+R | 2019-03-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6YHP86XYJf10RcoOy8e6lw%3D%3D) | 
-| 第1回王中王囲棋争覇戦勝者組準決勝 | Mi Yuting | Fan Tingyu | W+R | 2019-03-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=evoJZPzffQO96LWCvR%2FJdA%3D%3D) | 
-| 第1回王中王囲棋争覇戦1回戦 | Fan Tingyu | Chen Yaoye | B+R | 2019-03-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VdxNtopKQYWM9wdXzbDtwA%3D%3D) | 
-| 第10期中国竜星戦予選 | Fan Yunruo | Fan Tingyu | W+R | 2019-03-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pQym6YMOacBLJDhWsqkjuQ%3D%3D) | 
-| 第10期中国竜星戦予選 | Fan Tingyu | Dang Yifei | B+R | 2019-03-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W9aCfrVj2Dys2%2BmKc4m%2BtQ%3D%3D) | 
-| 第4期洛陽白雲山杯中国棋聖戦本戦2回戦 | Xie Erhao | Fan Tingyu | W+R | 2019-02-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FYXjbmm8GQ5eNi5wIZ1ECw%3D%3D) | 
-| 第33期中国囲碁天元戦3回戦 | Fan Tingyu | Tong Mengcheng | W+R | 2019-01-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AS34bLN1F%2F9yGfoPQOssqA%3D%3D) | 
-| 第33期中国囲碁天元戦2回戦 | Fan Tingyu | Zhang Tao | B+R | 2019-01-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BN0VaorE1Tdl%2FPb4uVDsww%3D%3D) | 
-| 第33期中国囲碁天元戦1回戦 | Ding Hao | Fan Tingyu | W+R | 2019-01-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1ydfdwPp46lpiETvPaLaLQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第26節江西-山東 | Fan Tingyu | Xu Jiayang | W+¼ | 2018-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zGYYjn3kPDjYWdc2c7Xcow%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第25節山東-成都 | missing | Fan Tingyu | W+R | 2018-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L1iFeDeAUvJrEWIzs8oqkg%3D%3D) | 
-| 第7回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Lian Xiao | Fan Tingyu | B+R | 2018-11-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4npPkjsaL7FXGWEaxDqtng%3D%3D) | 
-| 第20回農心辛ラーメン杯世界囲碁最強戦第9戦 | Park Junghwan | Fan Tingyu | B+R | 2018-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=meRL%2FnOwl1DrH1A6qe5IaQ%3D%3D) | 
-| 第20回農心辛ラーメン杯世界囲碁最強戦第8戦 | Ichiriki Ryo | Fan Tingyu | W+R | 2018-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V6TkW5b89wkLtseZqHj6CQ%3D%3D) | 
-| 第20回農心辛ラーメン杯世界囲碁最強戦第7戦 | Lee Sedol | Fan Tingyu | W+R | 2018-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EVW7SRdu4J9Cq9ysnwX%2FrA%3D%3D) | 
-| 第20回農心辛ラーメン杯世界囲碁最強戦第6戦 | Hsu Chiayuan | Fan Tingyu | W+R | 2018-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MCHeqdfRKcgGKzR7KsgnLw%3D%3D) | 
-| 第20回農心辛ラーメン杯世界囲碁最強戦第5戦 | Fan Tingyu | Choi Cheolhan | B+R | 2018-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EGIqwsk3ECvPZc9H5%2BDaIg%3D%3D) | 
-| 第4回TWTテンセント囲碁選手権準決勝 | Fan Tingyu | Ke Jie | W+R | 2018-11-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RQrp8L8s%2FhaL%2BvcmJ6IutQ%3D%3D) | 
-| 第4回TWTテンセント囲碁選手権8強戦 | Fan Tingyu | Yoda Norimoto | B+3¾ | 2018-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ndkk2MkWtKJIWAroF7ynKA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第24節重慶-山東 | Fan Tingyu | Yang Dingxin | W+R | 2018-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rirUkg%2FoFBfSeFXM6aQdxA%3D%3D) | 
-| 第23回LG杯朝鮮日報棋王戦準決勝 | Shi Yue | Fan Tingyu | B+R | 2018-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z4U6m1ZFMfxtpdP%2B9XWR9w%3D%3D) | 
-| 第23回LG杯朝鮮日報棋王戦3回戦 | Fan Tingyu | Park Junghwan | B+R | 2018-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oWJurLIHHYWw%2BkL6gn8hfw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第23節山東-中信 | Chen Yaoye | Fan Tingyu | B+R | 2018-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FEhxtGsKPJ8h9WFW6p29ug%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第22節天津-山東 | Meng Tailing | Fan Tingyu | W+R | 2018-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2TSpwBNVOQydu2E7SUqP7g%3D%3D) | 
-| 第20期阿含・桐山杯中国早碁オープン戦決勝  | Fan Tingyu | Gu Zihao | W+R | 2018-10-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BGeeUt5eNaBwcV2gzmwN4g%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第21節山東-廈門 | Ke Jie | Fan Tingyu | B+R | 2018-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BmkaAKw6YOz3kLLwdaUfuQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第20節上海-山東 | Fan Tingyu | Fan Yunruo | B+R | 2018-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mXEJ0%2FOOtYlveRDpShbRsQ%3D%3D) | 
-| 第20回農心辛ラーメン杯世界囲碁最強戦第4戦 | Motoki Katsuya | Fan Tingyu | W+R | 2018-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KTymk4Gg%2BMPkmIGaXePlZA%3D%3D) | 
-| 第20回農心辛ラーメン杯世界囲碁最強戦第3戦 | Fan Tingyu | Shin Minjun | B+R | 2018-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hiIfHK8GHxcKVBoWDzzpsA%3D%3D) | 
-| 第20回農心辛ラーメン杯世界囲碁最強戦第2戦 | Shibano Toramaru | Fan Tingyu | W+R | 2018-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uQKxFrO19E6yGMuSeogkWA%3D%3D) | 
-| 第14期威孚房開杯棋王戦32強戦 | Fan Tingyu | Ding Hao | W+R | 2018-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X1DCglpRNhn1AwViPdjdfw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第19節山東-杭州 | Shin Jinseo | Fan Tingyu | B+R | 2018-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QwYD2YY%2B59ZbntTx2wZS%2FQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第18節山東-衢州 | Huang Xin | Fan Tingyu | W+R | 2018-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aqAatiMjyFXyrE2GyzD4Kg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第17節民生-山東 | Fan Tingyu | Shen Peiran | B+R | 2018-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hUQsZVLEH52E791GImC%2FcA%3D%3D) | 
-| 第1回天府杯世界囲碁選手権B組2回戦 | Fan Tingyu | Tan Xiao | W+¼ | 2018-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KDMP1TecdCoxI3KfKHitww%3D%3D) | 
-| 第1回天府杯世界囲碁選手権B組1回戦 | Fan Tingyu | Hsu Chiayuan | B+R | 2018-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=alClD7s%2B9MhdvJIGuCUcew%3D%3D) | 
-| 第20期阿含・桐山杯中国早碁オープン戦準決勝 | Fan Tingyu | Lian Xiao | B+R | 2018-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T5BibXhJPHQ8t1gQ66gOww%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第16節山東-蘇泊爾 | Lian Xiao | Fan Tingyu | W+R | 2018-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gOXg7b5GFcCUJesvb7aZxQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第15節江蘇-山東 | Fan Tingyu | Mi Yuting | W+R | 2018-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DA47svhbyYma%2BhBVkvrzMg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第14節山東-浙江 | Jiang Qirun | Fan Tingyu | W+R | 2018-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5PTYkIQO6Ri8ivnfZAdcdg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第13節山東-江西 | Gu Zihao | Fan Tingyu | B+¾ | 2018-08-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I5OjogubRgk97PvcTZ27qA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第12節成都-山東 | Fan Tingyu | Liao Yuanhe | B+R | 2018-08-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lrQ3bNTeRdYlxLt4QHLzSg%3D%3D) | 
-| 第20回農心杯中国選抜戦 | Fan Tingyu | Tuo Jiaxi | B+R | 2018-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=niU32SqQl%2FC3bCWpB5qghg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第11節山東-重慶 | Fan Tingyu | Li Xuanhao | B+R | 2018-08-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ndevyGSCQub4Jazws19PWg%3D%3D) | 
-| 第20期阿含・桐山杯中国早碁オープン戦8強戦 | Fan Tingyu | Tang Weixing | B+R | 2018-07-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xhX0DQUtRlRwF%2F8Dqv%2BvAg%3D%3D) | 
-| 第20期阿含・桐山杯中国早碁オープン戦16強戦 | Ke Jie | Fan Tingyu | W+R | 2018-07-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2YMrRHEFlAa3Wgwq0ugLMA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第10節中信-山東 | Fan Tingyu | Chen Yaoye | W+1¼ | 2018-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HltLNdcwJqIGPqDOarEVqA%3D%3D) | 
-| 第20期阿含・桐山杯中国早碁オープン戦本選決勝 | Li Qincheng | Fan Tingyu | W+R | 2018-06-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8YSbSG2Oux%2FV5nul0Hxamw%3D%3D) | 
-| 第20期阿含・桐山杯中国早碁オープン戦本選2回戦 | Fan Tingyu | missing | B+R | 2018-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qpi6dW6BgTO5NdxHW0ibEg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第9節山東-天津 | Tang Weixing | Fan Tingyu | B+R | 2018-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gdWRWi%2F2r70pbNbtcB3G3A%3D%3D) | 
-| 第2回巓峰夢想福特撼路者ラリー戦a5 | Fan Tingyu | Ke Jie | B+R | 2018-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9fkKzqdXNquxPWqkopC0Bg%3D%3D) | 
-| 第2回巓峰夢想福特撼路者ラリー戦a4 | Tang Weixing | Fan Tingyu | B+R | 2018-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mEUjhL%2Bf6Lze7pM2nZczHw%3D%3D) | 
-| 第2回巓峰夢想福特撼路者ラリー戦a2 | Ke Jie | Fan Tingyu | B+R | 2018-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9jb2Nan6NZ1b2TxzPvp2hQ%3D%3D) | 
-| 第2回巓峰夢想福特撼路者ラリー戦a1 | Fan Tingyu | Tang Weixing | B+R | 2018-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qBNCVwVypqOGVD5komT%2FAg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第8節廈門-山東 | Fan Tingyu | Ke Jie | W+R | 2018-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6PE9NRb4XLvjNIUSQo2tgQ%3D%3D) | 
-| 第23回LG杯朝鮮日報棋王戦2回戦 | Park Yeonghun | Fan Tingyu | W+R | 2018-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZJTCt%2B8TjF%2F93uFnKteaBA%3D%3D) | 
-| 第23回LG杯朝鮮日報棋王戦1回戦 | Kim Jiseok | Fan Tingyu | W+R | 2018-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ziqAetfEFZHRuVULI5Tgnw%3D%3D) | 
-| 第3回洛陽白雲山杯中国棋聖戦準決勝 | Fan Tingyu | Lian Xiao | W+¼ | 2018-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4TqTsPJwtT57MU%2BREojjUw%3D%3D) | 
-| 嫘祖杯第31回中国囲棋名人戦32強戦 | Fan Tingyu | Tan Xiao | W+¼ | 2018-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BtMrheZKtKz54Bu0zYKx2g%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第6節杭州-山東 | Fan Tingyu | Ding Hao | B+¾ | 2018-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Py0MLeaYhtX%2BlAN1nLGEQQ%3D%3D) | 
-| 第7回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Fan Tingyu | Huang Yunsong | B+R | 2018-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b75fge4qo%2FAQbPQtnbrN1w%3D%3D) | 
-| 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Xu Jiayang | Fan Tingyu | W+R | 2018-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YevgAgL6wSHC4%2B7tVa%2BjtQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第5節衢州-山東 | Fan Tingyu | Lee Sedol | B+R | 2018-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bECEiyeQYax8RAE3HBRL1g%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦決勝 | Fan Yunruo | Fan Tingyu | W+R | 2018-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GnfxHHZ0KibCl%2BRBq1sjpg%3D%3D) | 
-| 第30回テレビアジア選手権準決勝 | Fan Tingyu | Na Hyun | W+R | 2018-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t6yczbdHgk8HYbXOYrZxkQ%3D%3D) | 
-| 第30回テレビアジア選手権1回戦 | Iyama Yuta | Fan Tingyu | W+R | 2018-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gsrEtU6afW%2BooV58ePzTMg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第4節山東-民生 | Shi Yue | Fan Tingyu | B+R | 2018-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AU%2Bw8SlgodWvcHmTGZ07yA%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦準決勝 | Lian Xiao | Fan Tingyu | W+¼ | 2018-04-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rl86eEhNENGRti9b1lhWvA%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦4回戦 | Fan Tingyu | Yang Dingxin | B+R | 2018-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hjxpmMMnC%2FMvWcxj0jpoUw%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦3回戦 | An Dongxu | Fan Tingyu | W+R | 2018-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yNemp7kaRcvAYfGEDQ8eig%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦2回戦 | Fan Tingyu | Liu Xing | B+R | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3qR21w3FUaal06jqAuV1wg%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦1回戦 | Zhang Tao | Fan Tingyu | W+R | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gvx28iicx%2FakUoagpUvO6Q%3D%3D) | 
-| 第23回LG杯予選決勝 | Shen Peiran | Fan Tingyu | W+R | 2018-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c3zPkUombf3aHbmJRJmu0w%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第3節蘇泊爾-山東 | Fan Tingyu | Park Junghwan | B+R | 2018-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=egqgS88bKzJQJW295gkaVA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第2節山東-江蘇 | Zhao Chenyu | Fan Tingyu | B+1¾ | 2018-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cNM5ljhui8KhRRubCgd8Ow%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第1節浙江-山東 | Fan Tingyu | Shin Minjun | B+R | 2018-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IMyAfXx2xxOKHfPnBgkVTA%3D%3D) | 
-| 第32期中国囲碁天元戦3回戦 | Fan Tingyu | Xie Ke | W+R | 2018-01-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bzqofqfxNW1BCMfA5vsY2Q%3D%3D) | 
-| 第32期中国囲碁天元戦2回戦 | Li Xuanhao | Fan Tingyu | W+R | 2018-01-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L72Jqe60QeagWRaXnVW3HQ%3D%3D) | 
-| 第32期中国囲碁天元戦1回戦 | Fan Tingyu | Tuo Jiaxi | B+R | 2018-01-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2%2FyEghcoeitgj1JYXdBJgQ%3D%3D) | 
-| 第32期中国囲碁天元戦予選 | missing | Fan Tingyu | W+R | 2018-01-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Soxfv%2FWgyiPIxGnvOXPBSw%3D%3D) | 
-| 第3回洛陽白雲山杯中国棋聖戦8強戦 | Ke Jie | Fan Tingyu | W+R | 2018-01-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fWOjdgCDgQuyr2Xzfxm84A%3D%3D) | 
-| 第3回洛陽白雲山杯中国棋聖戦本戦1回戦 | Fan Tingyu | Yang Dingxin | B+R | 2018-01-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=22WBvt9IHSSLdBr5qznMNQ%3D%3D) | 
-| 第3回洛陽白雲山杯中国棋聖戦資格戦3 | Li Qincheng | Fan Tingyu | W+R | 2018-01-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wT3MHOh9JP2mOwpatV8ctw%3D%3D) | 
-| 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Fan Tingyu | Liao Yuanhe | B+R | 2018-01-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qkS%2F39fsdIZBo6gcbiuweA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第26節 | Fan Tingyu | Fan Yin | B+R | 2017-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8nUPHmask1zeJ%2FEraZJtkg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第25節 | Fan Tingyu | Kim Jiseok | B+1¾ | 2017-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ITu48C0HMBGZn56oy%2BTsmA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第24節 | Chen Yaoye | Fan Tingyu | B+R | 2017-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4IM7xvVG5fk3GadMEQqDhw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第23節 | Li Xiangyu | Fan Tingyu | W+R | 2017-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qG6Di5ZV0mffLgLdGOP2oQ%3D%3D) | 
-| 2017寧波杭州湾方太杯世界戦優勝者招待戦8強戦 | Ke Jie | Fan Tingyu | B+2.5 | 2017-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iTMaYeJ36M7jW4Z8hXj30Q%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第22節 | Fan Tingyu | missing | B+R | 2017-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gPCypjE7GsoesEdgiGJfoA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第21節 | Fan Tingyu | Tan Xiao | W+R | 2017-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KR9Xqh%2Fl5XFW7D%2FsM%2FhZ0A%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第20節 | Lian Xiao | Fan Tingyu | B+R | 2017-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KHBpGlOiKjLAJT8rf2llSg%3D%3D) | 
-| 第13期威孚房開杯棋王戦16強戦 | Meng Tailing | Fan Tingyu | B+3.5 | 2017-10-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qPKlxNo1L5voKfJXekobHA%3D%3D) | 
-| 第13期威孚房開杯棋王戦32強戦 | Tuo Jiaxi | Fan Tingyu | W+R | 2017-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MFSO1Md7UD3bFfyefyLAtg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第19節 | Fan Tingyu | Liao Yuanhe | W+R | 2017-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T0wMK5R8BNlWBXKW2SpKuQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第18節 | Gu Zihao | Fan Tingyu | W+R | 2017-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=anQrgr4zA0h5VgQdOhP%2FNA%3D%3D) | 
-| 第19回農心辛ラーメン杯世界囲碁最強戦第1戦 | Fan Tingyu | Shin Minjun | W+3.5 | 2017-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LXwfxSPK1uBmbWLp3YNDUw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第17節 | Fan Tingyu | Tang Weixing | W+R | 2017-09-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SmMwGEMFAq%2F%2FVI5pkC3yrQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第16節 | Mi Yuting | Fan Tingyu | W+R | 2017-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2jrJnjxGugOupk83l4PBBw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第15節 | Fan Tingyu | Liu Xing | B+R | 2017-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bjVgDVdB5CGUFGu2pE%2BSdg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第14節 | Fan Tingyu | Li Weiqing | W+R | 2017-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GH%2FG1sHDNw8JILGiT6XK4Q%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第13節 | Fan Tingyu | Jiang Qirun | B+R | 2017-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kqmQf8aUpqw56QvCCwhNtg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第12節 | Shi Yue | Fan Tingyu | B+R | 2017-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nq8gziBQGH9KYVN%2FXVwNWg%3D%3D) | 
-| 嫘祖杯30回中国名人戦8強戦 | Tang Weixing | Fan Tingyu | B+R | 2017-08-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a7YBh8sWcEa6Dwac3h68xQ%3D%3D) | 
-| 嫘祖杯30回中国名人戦16強戦 | Chen Yaoye | Fan Tingyu | W+R | 2017-08-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mxsBPUlXFmgLHdLHJZIxCA%3D%3D) | 
-| 嫘祖杯30回中国名人戦32強戦 | Wu Guangya | Fan Tingyu | W+R | 2017-08-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RrO1%2BR915bb62WAUcYVH8w%3D%3D) | 
-| 金立杯7回海峡世界冠軍争覇準決勝 | Fan Tingyu | Dang Yifei | W+R | 2017-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ELOzieW38LSyQPGb%2BzNZDw%3D%3D) | 
-| 金立杯7回海峡世界冠軍争覇8強戦 | Ke Jie | Fan Tingyu | W+R | 2017-07-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3y0Iux3k%2B8xN1qntelyBFw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第11節 | Fan Tingyu | Chen Yaoye | W+R | 2017-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5l0BJo65goEkmrO0QQfKLQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第10節 | Shin Jinseo | Fan Tingyu | W+R | 2017-07-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FA2tBR4uug1L1QTsiVMFnA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第9節 | Fan Tingyu | Wang Haoyang | B+3.5 | 2017-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JG%2FaxQ12shtGk8nCGvK2qQ%3D%3D) | 
-| 2017年中国全国運動会囲碁競技第3戦 | Ke Jie | Fan Tingyu | B+R | 2017-07-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fo5Cd10%2FzeHDSAAhX9OnqQ%3D%3D) | 
-| 第22回三星火災杯統合予選決勝 | Fan Tingyu | An Sungjoon | W+R | 2017-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZJ1reHSI%2F4gtISvTHSJQUA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第8節 | Tan Xiao | Fan Tingyu | W+R | 2017-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YqLvD3HEfsSmGfdWEtW3Qg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第7節 | Fan Tingyu | Lian Xiao | B+R | 2017-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tN72jVXbjJzxsV1k2b5aeQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第6節 | Gu Lingyi | Fan Tingyu | W+2.5 | 2017-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XGCz1%2BKbIKwMnW1oOUVGJQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第5節 | Fan Tingyu | Lee Donghoon | B+R | 2017-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NJP1y9eDV63otN1OYL0R7A%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第4節 | Meng Tailing | Fan Tingyu | W+R | 2017-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Aa7uUlByhlUWz7OvhzX0Og%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第3節 | Huang Yunsong | Fan Tingyu | W+R | 2017-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QXEKGFr7L0i%2FeVDH%2BUOqwA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第2節 | Fan Tingyu | Liao Xingwen | B+R | 2017-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e4OFoT%2F4hhHs22CmoBNV4g%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第1節 | Fan Tingyu | Li Weiqing | B+R | 2017-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WhspcvzlBXg9rDXnZ7qhlA%3D%3D) | 
-| 第19期中国阿含桐山杯本選2回戦 | Fan Tingyu | Chen Xian | W+R | 2017-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U17oE9%2BXqQ4bSLr33qDu%2BQ%3D%3D) | 
-| 第22期LG杯世界予選2回戦 | Lin Shuyang | Fan Tingyu | B+R | 2017-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eYWNSeVw1nb%2B3W3OCOpexA%3D%3D) | 
-| 第31期中国囲碁天元戦2回戦 | Fan Tingyu | Mi Yuting | W+R | 2017-01-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GytSEywMXiPOSCm1wFKqyg%3D%3D) | 
-| 第31期中国囲碁天元戦1回戦 | Fan Tingyu | Zhou Hexi | B+R | 2017-01-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lnjlLh%2BuwkiY16dm8d5n7Q%3D%3D) | 
-| Alphago Online Series on Tygem and Fox 52 | Fan Tingyu | missing | W+R | 2017-01-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ppim9nW9tXfqF7HzBEBzfw%3D%3D) | 
-| 2016年利民杯世界囲碁星鋭最強戦2回戦 | Byun Sangil | Fan Tingyu | B+1.5 | 2017-01-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kI%2FkghA0TCUUXqGPVKaLlw%3D%3D) | 
-| Alphago Online Series on Tygem and Fox 27 | missing | Fan Tingyu | B+R | 2016-12-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yi5j6GeCnsluSjm2pF2xKA%3D%3D) | 
-| 2016年利民杯世界囲碁星鋭最強戦1回戦 | Wang Zejin | Fan Tingyu | W+R | 2016-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IMoxlw77shoTzlXGUVqLdw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第22節 | Chen Zhengxun | Fan Tingyu | W+R | 2016-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7c0R85zSiV56BYVCz1KAKg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第21節 | Fan Tingyu | Huang Yunsong | B+R | 2016-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R%2FL4o7GelP35Be8TSXUNmA%3D%3D) | 
-| 第18回農心辛ラーメン杯世界囲碁最強戦第9戦 | Fan Tingyu | Park Junghwan | W+R | 2016-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OXRjyRo0z1B%2FuQ3bhpjR0w%3D%3D) | 
-| 第18回農心辛ラーメン杯世界囲碁最強戦第8戦 | Fan Tingyu | Murakawa Daisuke | B+R | 2016-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zvGJSMvM2eDJNtGkSgMh2Q%3D%3D) | 
-| 第18回農心辛ラーメン杯世界囲碁最強戦第7戦 | Kim Jiseok | Fan Tingyu | W+R | 2016-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wX0hDArugKeckXfP5Z9ORw%3D%3D) | 
-| 第18回農心辛ラーメン杯世界囲碁最強戦第6戦 | Kono Rin | Fan Tingyu | W+R | 2016-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l3SYE4rG3skOuL09rwm7eg%3D%3D) | 
-| 第18回農心辛ラーメン杯世界囲碁最強戦第5戦 | Kang Dongyun | Fan Tingyu | W+R | 2016-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wqGTnYhzDaWMFWoGKWa8WA%3D%3D) | 
-| 第8期中国竜星戦予選 | Fan Tingyu | Zhou Hexi | W+2.5 | 2016-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H2Ykw1%2Fn0V61KbzBhocIWA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第20節 | Fan Tingyu | Wang Xi | W+R | 2016-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dwtmBao8HPIYWT%2BH%2BxRWmA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第19節 | Fan Tingyu | Li Kang | B+R | 2016-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YUxzFsMo2Vx6E%2FdxbqQ6kw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第18節 | Peng Liyao | Fan Tingyu | W+R | 2016-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rL4sh4aGNcH26mOY3quKFA%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦1回戦 | Fan Tingyu | Kang Dongyun | W+R | 2016-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mre1JGjBUVEd%2BsKhNqrVWw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第17節 | Fan Tingyu | Qin Yuexin | B+R | 2016-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yhNuZT0AOKniGkzUsWEpRg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第16節 | Fan Tingyu | Gu Zihao | W+0.5 | 2016-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VZBWH5nRgAAhNuJ%2FIkIK7g%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第15節 | missing | Fan Tingyu | W+R | 2016-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=buUELHyWjf1SD9Z0weRhuQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第14節 | Fan Tingyu | Li Qincheng | W+R | 2016-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PuL7q3L9Kplbz4vklJ6nQg%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ2回戦 | Tang Weixing | Fan Tingyu | B+R | 2016-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=llsXhdjHDb%2FfgWZuDhcUZw%3D%3D) | 
-| 第18回農心辛ラーメン杯世界囲碁最強戦第4戦 | Cho U | Fan Tingyu | W+R | 2016-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ycw51lV4WfD3eaXTM98G4A%3D%3D) | 
-| 第18回農心辛ラーメン杯世界囲碁最強戦第3戦 | Lee Donghoon | Fan Tingyu | W+R | 2016-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IBK6bic4dQO2asFH6wutfA%3D%3D) | 
-| 第18回農心辛ラーメン杯世界囲碁最強戦第2戦 | Ichiriki Ryo | Fan Tingyu | W+R | 2016-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7RlI4C6VdlHltGXGrJ8DXg%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦D2 | Byun Sangil | Fan Tingyu | W+R | 2016-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TDeNqXy%2BDJauSKV21%2BPsWQ%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦D1 | Li Qincheng | Fan Tingyu | W+R | 2016-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x5imZ6jkSi%2FRnOzMFoB6aQ%3D%3D) | 
-| 第12期威孚房開杯棋王戦2回戦 | Fan Tingyu | Tao Xinran | W+R | 2016-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BTDDbCASDwCVj%2Bp4clrCuA%3D%3D) | 
-| 第12期威孚房開杯棋王戦1回戦 | Zhou Ruiyang | Fan Tingyu | W+R | 2016-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IoWuM3FH%2FuYBLZfR9qGD9Q%3D%3D) | 
-| 第21回三星火災杯統合予選決勝 | Hu Yaoyu | Fan Tingyu | W+R | 2016-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lV4uRBsx%2B2CaXmHl2ufqhw%3D%3D) | 
-| 第21回三星火災杯統合予選準決勝 | Park Seunghwa | Fan Tingyu | W+R | 2016-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d8zmvz%2BWPpJFn%2Bi7YtyPWg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第11節 | Fan Tingyu | Meng Tailing | B+R | 2016-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2m7v5py1kINvdGegRyH0PQ%3D%3D) | 
-| 第3回百霊杯世界オープン戦1回戦 | Peng Quan | Fan Tingyu | B+R | 2016-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o%2BlocQQy3dG29I4NRB7VcA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第10節 | Fan Tingyu | missing | B+R | 2016-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JCcZ5XB8ykVtCpFN2ZRqjg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第9節 | Yang Dingxin | Fan Tingyu | B+R | 2016-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kMj6K5x319mspsbhAcG5lw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第8節 | Fan Tingyu | Ke Jie | W+R | 2016-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F%2Fy3PTx3mhX3LY3qoBqHpw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第7節 | Fan Tingyu | Tao Xinran | B+R | 2016-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lnwVvT7gWRDHtysPsXVvIg%3D%3D) | 
-| 2016CCTV杯中国囲棋電視快棋戦1回戦 | Hu Yaoyu | Fan Tingyu | B+R | 2016-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j4eyzoZltGajC92Sj9%2FoPA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第6節 | Jiang Qirun | Fan Tingyu | W+R | 2016-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qRH7rnmTeSjDT%2FwUMxGRSg%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Fan Tingyu | Gu Li | W+R | 2016-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YFBPKriCOOHwuPFo4slI5A%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第5節 | Fan Tingyu | missing | B+R | 2016-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jdnHEBG9xAz9h2uf5%2FrIjg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第4節 | Fan Tingyu | Zhong Wenjing | B+R | 2016-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g%2F9HjMd2u%2BBuNhOAtzhgow%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第3節 | Li Qincheng | Fan Tingyu | B+R | 2016-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FSGO5Qqmiw7hVB9J%2BYoPVg%3D%3D) | 
-| 第8回応氏杯世界選手権2回戦 | Shi Yue | Fan Tingyu | B+1 | 2016-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NgGCM3K7xVrDCOWMjx3j3w%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第2節 | Fan Tingyu | Liao Yuanhe | B+R | 2016-04-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lfs8stbWr8BVxY7zBTX7Cw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第1節 | Xie Ke | Fan Tingyu | W+0.5 | 2016-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IvPQQ6WlOPy4mwVrnQVULw%3D%3D) | 
-| 第21回LG杯予選 | Kim Myounghoon | Fan Tingyu | B+R | 2016-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JTC7bGJnl3ksAPewkrTLtA%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Gu Zihao | Fan Tingyu | B+R | 2016-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HWMmy%2BNZs%2BBirTRvOfXylA%3D%3D) | 
-| 第30期中国囲碁天元戦1回戦 | Xie Erhao | Fan Tingyu | B+R | 2016-01-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SjoQyXJiOjOLUszUXVXx%2Fg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第22節 | missing | Fan Tingyu | W+R | 2015-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pWdf1fYfdI6qRVZ%2F4%2BYh4g%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第21節 | Fan Tingyu | Liao Xingwen | B+R | 2015-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cDTHif2NwTMLLzoSPrg8Pg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第20節 | Meng Tailing | Fan Tingyu | B+1.5 | 2015-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5YhMi99MwBxAS0Fvf6nQRg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第19節 | Fan Tingyu | Fan Yunruo | B+R | 2015-11-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bmrrrMndKPzb3DWbCOcm0Q%3D%3D) | 
-| 第7期中国竜星戦2回戦 | Lian Xiao | Fan Tingyu | B+3.5 | 2015-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mQLyYeFujhculrJ0pX25dg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第18節 | Fan Tingyu | Lian Xiao | B+R | 2015-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4BWj67oGmV3qJtyYMjUJ5A%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第17節 | Fan Tingyu | missing | W+R | 2015-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9n1EE8azbV1TlxHRriA5Pw%3D%3D) | 
-| 第11期威孚房開杯棋王戦1回戦 | Peng Liyao | Fan Tingyu | B+7.5 | 2015-10-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Fzx8i8I0RCSM2guBj%2BQzA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第16節 | Chen Yaoye | Fan Tingyu | B+R | 2015-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dMjuxJHs7jB%2FuIYKetg95w%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第15節 | Fan Tingyu | Li Zhe | B+R | 2015-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BIUEmtRHmtYLNDnMUbAzSw%3D%3D) | 
-| 第7期中国竜星戦1回戦 | missing | Fan Tingyu | W+0.5 | 2015-09-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l0euNRU9omnB1I8EC0RV9A%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第14節 | Fan Tingyu | Gu Li | W+R | 2015-09-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9qAg%2BZdlgbabYNVqV10Rsw%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Fan Tingyu | Gu Zihao | W+R | 2015-09-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mG0wAH8kEtqmPZpSs%2F0zhw%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Fan Tingyu | Gong Yanyu | B+R | 2015-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dhNn7rZ3hEQwbelJna4HPw%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Fan Tingyu | Fan Yunruo | B+R | 2015-09-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=POXjddIF%2BoSLoAvOgxBQng%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第13節 | Fan Tingyu | Zhou Hexi | W+2.5 | 2015-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dX1jvGgInrCHAKaHOqwaXw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第12節 | Fan Tingyu | Peng Liyao | B+R | 2015-09-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=951lyacW6o2Ohm8t6QxAxQ%3D%3D) | 
-| 第17期阿含・桐山杯中国早碁オープン戦準決勝 | Fan Tingyu | Chen Yaoye | W+0.5 | 2015-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NZtDlcGK%2BucHC%2Fnf%2FRLPlw%3D%3D) | 
-| 第17期阿含・桐山杯中国早碁オープン戦2回戦 | Tuo Jiaxi | Fan Tingyu | W+R | 2015-07-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZPBXtM6QzEdNwwDZ8B6bkw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第11節 | Fan Tingyu | missing | B+R | 2015-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lGB%2BL3zrHBEp49Sggx7VzA%3D%3D) | 
-| 第2回夢百合杯世界オープン戦1回戦 | Tuo Jiaxi | Fan Tingyu | B+R | 2015-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nHCsFIT6vIhuOZt4knk0%2Fw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第10節 | Chen Xian | Fan Tingyu | B+3.5 | 2015-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CL0IH1F6r3i%2FTMB1LtGHPw%3D%3D) | 
-| 第17期阿含・桐山杯中国早碁オープン戦1回戦 | missing | Fan Tingyu | W+6.5 | 2015-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e%2BmgSVD8TIN3DqEzZJJQDQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第9節 | Fan Tingyu | Meng Tailing | B+R | 2015-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aH1J7kHg7pd%2BWgphClWNhg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第8節 | Chang Hao | Fan Tingyu | W+R | 2015-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZSaRpjemjdhpju9x26LObg%3D%3D) | 
-| 宝佳適杯中韓新鋭天元戦第2戦 | Baek Chanhee | Fan Tingyu | W+R | 2015-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FfMyYNm52nIacTHa6l1O2Q%3D%3D) | 
-| 宝佳適杯中韓新鋭天元戦第1戦 | Fan Tingyu | Lee Donghoon | W+R | 2015-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EoNPubaKbJTchspH%2FyD67A%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第7節 | Fan Tingyu | Wu Guangya | W+R | 2015-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oevP2pNKzKotFSw936V8kg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第6節 | Fan Tingyu | Tang Weixing | B+R | 2015-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=03%2BV85MzCH6rlNDgHfRLoA%3D%3D) | 
-| 第2回夢百合杯世界オープン戦予選 | Fan Tingyu | Kim Myounghoon | B+R | 2015-05-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uMsbEHaJhNDFFLgTVRmprg%3D%3D) | 
-| 第2回夢百合杯世界オープン戦予選 | missing | Fan Tingyu | W+R | 2015-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=46yOMLjzhos8UMUgB7d2gQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第5節 | Kong Jie | Fan Tingyu | W+R | 2015-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SMgPKzXtjhP5Yj%2B9CCGEPQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第4節 | Yang Kaiwen | Fan Tingyu | B+3.5 | 2015-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YquYFlZOjJOHd3L3e8Ib2Q%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第3節 | Fan Tingyu | Li Xuanhao | W+2.5 | 2015-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BQlUS%2FVuhOdMOB9PBKCGjQ%3D%3D) | 
-| 第28期中国囲碁名人戦1回戦 | Fan Tingyu | Xu Jiayang | W+2.5 | 2015-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WRPsaM9OtRwKt%2FnxZ8ymbA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第2節 | Fan Tingyu | Zhou Hexi | W+R | 2015-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6P6jqCdRABOCFEpSeop6gQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第1節 | Fan Tingyu | Peng Liyao | B+R | 2015-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eIdr8acY0xBJ2YRDk03Atg%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦3回戦 | Li Qincheng | Fan Tingyu | B+R | 2015-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hEPhLdcV%2BgMbRVQxdxd0Cw%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦2回戦 | Zhang Qiang | Fan Tingyu | W+R | 2015-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fZWscPKnvqDzK3%2FlA1jUqQ%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦1回戦 | Tan Xiao | Fan Tingyu | W+R | 2015-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UxWLFfYYhOVhj%2Fjpq37cTA%3D%3D) | 
-| 第29期中国囲碁天元戦1回戦 | Fan Tingyu | Sun Tengyu | W+R | 2015-01-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KTgveybXNwP0ykgYHRI%2FjQ%3D%3D) | 
-| 第15期リコー杯囲碁戦準決勝 | Ke Jie | Fan Tingyu | B+1.5 | 2015-01-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6pNzLs3rWrhi9aozum9b5Q%3D%3D) | 
-| 第15期リコー杯囲碁戦4回戦 | Fan Tingyu | Piao Wenyao | B+R | 2015-01-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KMvGahy0g8YrQ8LF%2FKwYuw%3D%3D) | 
-| 第15期リコー杯囲碁戦3回戦 | Lian Xiao | Fan Tingyu | W+R | 2015-01-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6tZmtiYepKxZpYw1cBWFoQ%3D%3D) | 
-| 第15期リコー杯囲碁戦2回戦 | Fan Tingyu | Dang Yifei | B+R | 2015-01-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yKESD%2BdNFkuSd23JDdsDRg%3D%3D) | 
-| 第6期中国竜星戦準決勝 | Tuo Jiaxi | Fan Tingyu | B+5.5 | 2014-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uyHkSV3aLIxWFPav3EOh0g%3D%3D) | 
-| 第6期中国竜星戦3回戦 | Fan Tingyu | Li Qincheng | B+R | 2014-12-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D2QwdX%2FtYbTNrf7UMJtI%2Fg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第22節 | Fan Tingyu | Zhou Hexi | B+R | 2014-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=00EvavuSfn4plazDKa%2BDUQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第21節 | Yang Kaiwen | Fan Tingyu | B+R | 2014-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=atgAd6mS5sA5krY3vYMkng%3D%3D) | 
-| 第19回LG杯朝鮮日報棋王戦3回戦 | Choi Cheolhan | Fan Tingyu | B+R | 2014-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D8etJTzQTwk0FoKuUMiPng%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第20節 | Fan Tingyu | Huang Yunsong | B+R | 2014-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z8ewu0yg%2Fxe4eY7QSKE3tw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第19節 | Fan Tingyu | Hu Yaoyu | W+R | 2014-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w7Y9BsgEYBlm%2BEtX7ad9MA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第18節 | Fan Tingyu | Li Xuanhao | W+0.5 | 2014-10-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1i8q1yNNkHs4kAoY74IUZQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第17節 | Fan Tingyu | missing | B+3.5 | 2014-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UI1CimKQyXRq0nJ7%2BJvaJw%3D%3D) | 
-| 第6期中国竜星戦2回戦 | Fan Tingyu | Shi Yue | B+R | 2014-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B3hcfK8%2F%2B8PlU4wwAhgzVg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第16節 | Wang Haoyang | Fan Tingyu | W+R | 2014-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DldEraqmHI1lAT3G6%2B1x4w%3D%3D) | 
-| 第10期威孚房開杯棋王戦1回戦 | Fan Tingyu | Xie He | W+R | 2014-10-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZTVyfYJNDnP1UJlUqzW%2BJg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第15節 | Fan Tingyu | Tuo Jiaxi | W+R | 2014-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qOQU%2BY6GPT9FxXegrywO%2BQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第14節 | Fan Tingyu | Gu Lingyi | W+R | 2014-09-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SUxrBMHq9bk5dcUwfKkeug%3D%3D) | 
-| 第5回衢州・爛柯杯中国囲棋冠軍戦決勝 | Shi Yue | Fan Tingyu | W+R | 2014-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZLPNZboAX7ss6mznCx4Rnw%3D%3D) | 
-| 第5回衢州・爛柯杯中国囲棋冠軍戦準決勝 | Fan Tingyu | Qiu Jun | B+R | 2014-09-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V%2FX%2Bjv7MaC2UWbXEtQl33A%3D%3D) | 
-| 第5回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Fan Tingyu | Mi Yuting | B+R | 2014-09-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fn2c4hfdGhcjcFIvlnNuaA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第13節 | Zhao Chenyu | Fan Tingyu | W+R | 2014-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1%2Bri6JP6Mc4YFkWsvfvNLQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第12節 | Fan Tingyu | Peng Liyao | W+R | 2014-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sSn8yxh%2FHjcOa%2B8V7JQuEA%3D%3D) | 
-| 第6期中国竜星戦1回戦 | Fan Tingyu | Zhou Heyang | B+R | 2014-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cLyp5IJ%2BY6Hnkhns7e3ZBw%3D%3D) | 
-| 第16期阿含・桐山杯中国早碁オープン戦2回戦 | Jiang Weijie | Fan Tingyu | B+3.5 | 2014-07-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4sQ2q1YWMtDnayhkOwT3kQ%3D%3D) | 
-| 第2回百霊杯世界オープン戦2回戦 | Fan Tingyu | Ke Jie | W+R | 2014-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HE%2BjAoheBkc%2BeSK2ydVw2A%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第11節 | Fan Tingyu | Zhang Tao | B+R | 2014-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gwAHbJVFBDeKMiKAeqjHzQ%3D%3D) | 
-| 第16期阿含・桐山杯中国早碁オープン戦1回戦 | Fan Tingyu | Meng Tailing | B+R | 2014-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mKFarIQC5BhqES3SVCtJ7Q%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第10節 | Fan Tingyu | Sun Tengyu | B+R | 2014-07-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uXPCUlQLps8m4Y4CSym%2Bwg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第9節 | Fan Tingyu | Xie Erhao | W+R | 2014-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q%2BNCcG08%2FBlVP%2Fc6IF3%2FwQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第8節 | Fan Tingyu | Fan Yunruo | B+R | 2014-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fp7cIAA3qL82%2Bx2fOo%2F9lQ%3D%3D) | 
-| 第5回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Tang Weixing | Fan Tingyu | W+R | 2014-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tusj7QustDLD76izVXQeFw%3D%3D) | 
-| 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Fan Tingyu | Ke Jie | B+R | 2014-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cMYTGCnVuJViacb%2FEeYnqg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第7節 | Fan Tingyu | Wang Xi | B+R | 2014-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hfgl%2BnZ%2Bq9zvcbbo5Q%2FPZQ%3D%3D) | 
-| 第19回LG杯朝鮮日報棋王戦2回戦 | Kang Dongyun | Fan Tingyu | W+R | 2014-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FttkGRD8XqwXTeHX45xcmQ%3D%3D) | 
-| 第19回LG杯朝鮮日報棋王戦1回戦 | Lee Sedol | Fan Tingyu | W+R | 2014-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1B07bWH0N5PDeCvfCNW1tA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第6節 | Fan Tingyu | missing | W+R | 2014-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jJQU5RVbrAyv6sgezthONw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第5節 | Fan Tingyu | Wang Haoyang | B+R | 2014-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HIBIsJZ2lLC91aO96d26rQ%3D%3D) | 
-| 第11期倡棋杯中国プロ囲碁選手権戦1回戦 | Fan Tingyu | Gu Lingyi | W+R | 2014-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q4nEA3IzqOowyIOu2ZhmUg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第4節 | Fan Tingyu | Chen Yaoye | W+2.5 | 2014-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AtzIwoJx9tKBf7UR5H110Q%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第3節 | Fan Tingyu | Gu Lingyi | W+R | 2014-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yfv%2B328k3sXo2A%2B%2FfKNMSg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第2節 | Tang Weixing | Fan Tingyu | W+R | 2014-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z52Oj2dA%2F%2FP6txohB0rCXQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第1節 | Fan Tingyu | Shi Yue | W+4.5 | 2014-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BTqFNWDaLU5BDEQkCRv3XA%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦4回戦 | Fan Tingyu | Li Qincheng | W+R | 2014-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pHYeM51torbraAb%2BgSBo%2Bg%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦3回戦 | Zhou Ruiyang | Fan Tingyu | W+R | 2014-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ThFgHr3sWlOGQN64800rww%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦2回戦 | Fan Tingyu | Wang Lei (b) | B+R | 2014-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nEHWMnBeQKFRzF0WG0bbrA%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦1回戦 | Fan Tingyu | missing | B+R | 2014-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fXUWV1GGnNpS%2FjbAKfzcqA%3D%3D) | 
-| 第19回LG杯予選 | Fan Tingyu | Zhao Chenyu | B+R | 2014-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mw50Bwb%2Fr4lAmWYv8gd%2BuQ%3D%3D) | 
-| 第27期中国囲碁名人戦2回戦 | Fan Tingyu | Kong Jie | W+R | 2014-04-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=izq0Ts7owlmbzKD8Qpa0Qg%3D%3D) | 
-| 第27期中国囲碁名人戦1回戦 | Fan Tingyu | Wang Xi | B+R | 2014-04-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ze4vNMKd5PJb47BNfo6uAw%3D%3D) | 
-| 第10回春蘭杯世界囲碁選手権1回戦 | Kono Rin | Fan Tingyu | B+R | 2014-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w5ImnI92zIPzzb7XjW92kQ%3D%3D) | 
-| 第4期招商地産杯中韓囲棋団体対抗戦第2戦 | Na Hyun | Fan Tingyu | B+R | 2014-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cHjvHAT%2BdeEWFj7wkq0HOw%3D%3D) | 
-| 第4期招商地産杯中韓囲棋団体対抗戦第1戦 | Kim Jiseok | Fan Tingyu | W+R | 2014-03-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=neV%2BBXBw6ClFSZcvycYfpg%3D%3D) | 
-| 第2回百霊杯世界オープン戦1回戦 | Fan Tingyu | Han Wonggyu | B+3.5 | 2014-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FLCVGc5vcJlElkcxL4pNMw%3D%3D) | 
-| 第14期リコー杯囲碁戦3回戦 | Fan Tingyu | Xu Jiayang | W+R | 2014-02-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aitIU9hBZ%2BPjsy%2FgtVuIew%3D%3D) | 
-| 第28期中国囲碁天元戦3回戦 | Shi Yue | Fan Tingyu | B+R | 2014-01-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HJqINYD0AWjto7O2rlV5uw%3D%3D) | 
-| 第28期中国囲碁天元戦2回戦 | Fan Tingyu | Peng Liyao | B+R | 2014-01-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N2m95%2BicmeDds%2FqpIk6l%2FA%3D%3D) | 
-| 第28期中国囲碁天元戦1回戦 | Fan Tingyu | Liao Xingwen | B+R | 2014-01-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pe8c29hNEicfPbRfTQDowA%3D%3D) | 
-| 第14期リコー杯囲碁戦2回戦 | Fan Tingyu | Mao Ruilong | B+R | 2013-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=roXdw%2BZvJOnjcbmReOC1Tw%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Park Junghwan | Fan Tingyu | B+R | 2013-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u4EkcTv1nmla2cxzU3xJqw%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Fan Tingyu | Fan Hui | B+R | 2013-12-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L9JfiWD%2BTQQB5GHnYyvUDg%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Fujita Akihiko | Fan Tingyu | W+R | 2013-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PB45%2FBcT5vh4Yldvi6x8iA%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Fan Tingyu | Zhou Junxun | B+R | 2013-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LUNqFsd2I8q2VhN9wVtAfQ%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Fan Tingyu | missing | B+R | 2013-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xARPlKiZDWYkQJEiyz4%2BLw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第22節 | Lee Sedol | Fan Tingyu | B+1.5 | 2013-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r2yhjROquOt%2FyNyEn5aUFg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第21節 | Fan Tingyu | Qiu Jun | W+R | 2013-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fh%2FI%2FPW8FErfFGvjoslJqg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第20節 | Li Kang | Fan Tingyu | W+R | 2013-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C6obc%2Fi%2FA5D7zxE3BnjYrQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第19節 | Fan Tingyu | Zhou Hexi | B+R | 2013-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T6bS9z6efEgYlEBs5N2vuA%3D%3D) | 
-| 第9期威孚房開杯棋王戦3回戦 | Fan Tingyu | Tan Xiao | W+R | 2013-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1s5TiWBzZf5I5D4GHpPmXA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第18節 | Gu Li | Fan Tingyu | B+R | 2013-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nX6tVrYS5KdWrJdt6LLFLQ%3D%3D) | 
-| 第15回農心辛ラーメン杯世界囲碁最強戦第4戦 | Fan Tingyu | Kang Dongyun | W+R | 2013-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lkSujUdNbmD33bB3xPLY%2Bg%3D%3D) | 
-| 第15回農心辛ラーメン杯世界囲碁最強戦第3戦 | Anzai Nobuaki | Fan Tingyu | W+R | 2013-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hNxidHfs9O9tj2IUjbKzcg%3D%3D) | 
-| 第15回農心辛ラーメン杯世界囲碁最強戦第2戦 | Fan Tingyu | missing | B+6.5 | 2013-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ITAGqoBfLMKXbPlcOJnVBQ%3D%3D) | 
-| 第15回農心辛ラーメン杯世界囲碁最強戦第1戦 | Fan Tingyu | Yao Zhiteng | B+R | 2013-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HLgv851RSDCkZoUrh1V4MQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第17節 | Fan Tingyu | Wang Haoyang | B+R | 2013-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=js8Fjo6pgnCrf5hv9E6G2w%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第16節 | Park Yeonghun | Fan Tingyu | B+R | 2013-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OCtL7Lwr6eJDYOo1d%2FcLgw%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦決勝 | Fan Tingyu | Lian Xiao | W+4.5 | 2013-09-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wi8VPKmhALBTDXqxSHLRUw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第15節 | Fan Tingyu | Huang Yunsong | B+R | 2013-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BETPNYBoLBmfdxhQWao%2FOw%3D%3D) | 
-| 第5期中国竜星戦2回戦 | Wang Xi | Fan Tingyu | B+R | 2013-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OJ3VZJnJp7GSimZTctYCBA%3D%3D) | 
-| 第5期中国竜星戦1回戦 | Niu Yutian | Fan Tingyu | W+R | 2013-09-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IuS6AFSr88zktbxrejLYrg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第14節 | Fan Tingyu | Li Qincheng | B+3.5 | 2013-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xzNRCUHisCc3yxKYXHecSA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第13節 | Zhong Wenjing | Fan Tingyu | B+R | 2013-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m2kVxE6iWbpArxiqcfYTqw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第12節 | Piao Wenyao | Fan Tingyu | W+R | 2013-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MUqX8S4u5Dbt%2BL0aWg9paA%3D%3D) | 
-| 第9期威孚房開杯棋王戦2回戦 | Liu Xing | Fan Tingyu | W+R | 2013-08-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JXkMmww02EPgz0CODihH8w%3D%3D) | 
-| 第9期威孚房開杯棋王戦1回戦 | Fan Tingyu | Kong Jie | B+R | 2013-08-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Io4O6ZQGisWxcRmUbxO7Yg%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦2回戦 | Tan Xiao | Fan Tingyu | W+R | 2013-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jWxwjs7SRa7bT8x8GQPQig%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第11節 | Fan Tingyu | Lee Sedol | W+R | 2013-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B%2BaQlXnss2hM5xg6AAOecQ%3D%3D) | 
-| 第1回夢百合杯世界オープン戦1回戦 | Tang Weixing | Fan Tingyu | B+R | 2013-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iCaGnLW69dTtFBeCG8VOWQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第10節 | Qiu Jun | Fan Tingyu | W+R | 2013-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mB%2FxalAH9svGcFNiJvHWbA%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦1回戦 | Fan Tingyu | Wu Guangya | B+1.5 | 2013-06-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AjozqDA0YNfljuupAIwiIg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第9節 | Fan Tingyu | Park Junghwan | B+R | 2013-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BvI6jW%2FlsXmOD8Z3q2npEw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第8節 | Tong Mengcheng | Fan Tingyu | W+R | 2013-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AF4Tlmpj47YlvfBBC0PFFA%3D%3D) | 
-| 第18回LG杯朝鮮日報棋王戦1回戦 | Kono Rin | Fan Tingyu | B+R | 2013-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gd2MUR4qVqGD1Uoi7M6j5g%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第7節 | Li Xuanhao | Fan Tingyu | W+R | 2013-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JsZ4gOc1gmdHJRNd6R%2F1zg%3D%3D) | 
-| 第10期倡棋杯中国プロ囲碁選手権戦2回戦 | Tan Xiao | Fan Tingyu | B+R | 2013-05-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PxDQxqjPLvJdngA13SRUwA%3D%3D) | 
-| 第10期倡棋杯中国プロ囲碁選手権戦1回戦 | Huang Yunsong | Fan Tingyu | W+R | 2013-05-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x5G7ITir0NfXUFnvZvvZaA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第6節 | Guo Yuzheng | Fan Tingyu | W+R | 2013-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rDpwQygxbwYI2GcHfAbXlw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第5節 | Fan Tingyu | Tong Yulin | B+R | 2013-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WryzDFS6O8ojpgWT59BZ0Q%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第4節 | Tang Weixing | Fan Tingyu | W+R | 2013-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aImrnWzU12d%2FHm1tkPCR0Q%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第3節 | Fan Tingyu | Na Hyun | W+R | 2013-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bnAQYvCKRTHRk1CFqI1sHg%3D%3D) | 
-| 第26期中国囲碁名人戦1回戦 | Fan Tingyu | Tong Yulin | W+R | 2013-04-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pMUK2Rgwa%2BIaNAR9v5YfZQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第2節 | Zhong Wenjing | Fan Tingyu | W+R | 2013-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bM%2BZHvLpYWAXJq91rfzBpg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第1節 | Piao Wenyao | Fan Tingyu | W+R | 2013-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9QlW%2BUVWM8mCSe9XVPbSHQ%3D%3D) | 
-| 第3期招商地産杯中韓囲棋団体対抗戦第2戦 | Fan Tingyu | Kim Jiseok | W+R | 2013-03-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8XsyjAwGEiekmEvLClDfzQ%3D%3D) | 
-| 第3期招商地産杯中韓囲棋団体対抗戦第1戦 | Fan Tingyu | Choi Cheolhan | W+R | 2013-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BanhbR%2BOQerPVF%2FsbzLACg%3D%3D) | 
-| 2013CCTV杯中国囲棋電視快棋戦2回戦 | Fan Tingyu | Gu Lingyi | W+R | 2013-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5XWEk5fgi%2F2lOHx8iP917Q%3D%3D) | 
-| 2013CCTV杯中国囲棋電視快棋戦1回戦 | missing | Fan Tingyu | W+R | 2013-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jXODDChw2wgKR2qofiVJBg%3D%3D) | 
-| 第7回応氏杯世界選手権決勝五番勝負第4局 | Fan Tingyu | Park Junghwan | B+5 | 2013-03-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7qE0oYDajZ9njRk8qin%2B3w%3D%3D) | 
-| 第7回応氏杯世界選手権決勝五番勝負第3局 | Park Junghwan | Fan Tingyu | W+R | 2013-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bktlBemaT6Ch5DYGe7Sxcg%3D%3D) | 
-| 第13期リコー杯囲碁戦3回戦 | Fan Tingyu | Zhou Hexi | W+R | 2013-02-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9xVlsry5n7XOlqT1ge2K7A%3D%3D) | 
-| 第27期中国囲碁天元戦1回戦 | Fan Tingyu | Jiang Weijie | W+R | 2013-01-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UP2Z0%2F05h4TAFBwiPP75%2Bg%3D%3D) | 
-| 第27期中国囲碁天元戦予選 | Fan Tingyu | Li Kang | B+R | 2013-01-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HL1m6t5gDd66D5iIYYMSew%3D%3D) | 
-| 第13期リコー杯囲碁戦2回戦 | Fan Tingyu | Gu Zihao | B+R | 2012-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eFzTFLojIsQzzOdNUSnlnw%3D%3D) | 
-| 第7回応氏杯世界選手権決勝五番勝負第2局 | Fan Tingyu | Park Junghwan | W+R | 2012-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aSq9bogCkNyCx0LVhbXfdA%3D%3D) | 
-| 第7回応氏杯世界選手権決勝五番勝負第1局 | Park Junghwan | Fan Tingyu | W+R | 2012-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DUkE%2FPAHnpVkgMnp8nAwCA%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第22節 | Fan Tingyu | Huang Chen | B+R | 2012-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7OHvtW6LyUSNzk14NhMFgw%3D%3D) | 
-| 第4期中国竜星戦準決勝 | Fan Tingyu | Mao Ruilong | W+0.5 | 2012-12-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZYcmd5FDkUOPklW9WrtJQQ%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第21節 | Weon Seongjin | Fan Tingyu | B+R | 2012-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DdrGsOTmuxq6DozH5j0P2A%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第20節 | Fan Tingyu | Gu Li | W+0.5 | 2012-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A9zQ%2FTkObLgEm5j2eqnLwA%3D%3D) | 
-| 第4期中国竜星戦4回戦 | Tan Xiao | Fan Tingyu | W+0.5 | 2012-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JQLwZnwUPpQE2qjCsTlrUQ%3D%3D) | 
-| 第8期威孚房開杯棋王戦決勝 | Fan Tingyu | Peng Liyao | W+R | 2012-11-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cKks2aLxtg02u5y753plCA%3D%3D) | 
-| 第8期威孚房開杯棋王戦準決勝 | Tuo Jiaxi | Fan Tingyu | W+R | 2012-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cWtmNQY9j2nr8guZbHBy9g%3D%3D) | 
-| 第8期威孚房開杯棋王戦3回戦 | Fan Tingyu | Zhou Ruiyang | B+R | 2012-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RdTiO46qEDuPIllokglqdQ%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第19節 | Zhu Yuanhao | Fan Tingyu | W+R | 2012-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PatfNVlQTU%2FTZObMBxZGgw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第18節 | Fan Tingyu | Peng Quan | W+R | 2012-11-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M%2BtfCQEGIw%2F85UzTpT0zww%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第17節 | Fan Tingyu | Kong Jie | W+0.5 | 2012-10-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GWZj%2FF1F2%2Frr97dBviynUw%3D%3D) | 
-| 第4期中国竜星戦3回戦 | Zhou Heyang | Fan Tingyu | W+T | 2012-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xxbNx3Ph1rnXDiOYT1VVew%3D%3D) | 
-| 第4期中国竜星戦2回戦 | Fan Tingyu | He Xin | B+R | 2012-10-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=20s6H6rd5TJYeQlECjXL%2BA%3D%3D) | 
-| 第4期中国竜星戦1回戦 | Dang Yifei | Fan Tingyu | W+R | 2012-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=huFXtkCFMz0%2F3x4ryWRufg%3D%3D) | 
-| 第8期威孚房開杯棋王戦予選 | Kong Jie | Fan Tingyu | W+R | 2012-10-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CZW3jf%2BB6aWhKATNqj9tWw%3D%3D) | 
-| 第8期威孚房開杯棋王戦予選 | Wang Lei (s) | Fan Tingyu | W+R | 2012-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gxzpUciiml0tMJ67j%2FQaag%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ3回戦 | Choi Cheolhan | Fan Tingyu | B+R | 2012-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FgKrB5ZDcIus6dC9MwKRjA%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ2回戦 | Fan Tingyu | Komatsu Hideki | B+R | 2012-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6dkp0PL6vu0FcZ%2FbzBZcKg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第16節 | Shi Yue | Fan Tingyu | B+R | 2012-09-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zmKnF8Bjma8trNlgiy5eng%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第15節 | Fan Tingyu | Ke Jie | B+R | 2012-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VRNYIJRylR1%2BbvdShDhMGQ%3D%3D) | 
-| 第7回応氏杯世界選手権準決勝三番勝負第3局 | Fan Tingyu | Xie He | B+R | 2012-09-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C0szHYWpbe9AlwtSVeVSkg%3D%3D) | 
-| 第7回応氏杯世界選手権準決勝三番勝負第2局 | Fan Tingyu | Xie He | B+5 | 2012-09-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J7lUZJI9X2TNIQJDuMr3WA%3D%3D) | 
-| 第7回応氏杯世界選手権準決勝三番勝負第1局 | Xie He | Fan Tingyu | B+R | 2012-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9itYCUo4uTz9PCnC%2BUREiA%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第14節 | Fan Tingyu | missing | B+R | 2012-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mo3glOATOYRbQjAfrsMTew%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ1回戦B3 | Peng Liyao | Fan Tingyu | W+R | 2012-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I%2FKPA2bMdkqgnNRJHcEdPw%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ1回戦B2 | Weon Seongjin | Fan Tingyu | B+R | 2012-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MR4NyzorW3WZXoC17Cz9yA%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ1回戦B1 | Na Hyun | Fan Tingyu | W+R | 2012-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W2S7HaOnrnLDDECl2iAntg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第13節 | Fan Tingyu | Tan Xiao | B+R | 2012-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aKGU0aEjalk2iPAKaWAHRA%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第12節 | Fan Tingyu | missing | B+R | 2012-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=54YSuRqj%2FQh3bXZNHNb8AA%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権2回戦 | Fan Tingyu | Zhou Hexi | W+0.5 | 2012-08-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ANTnEXBJ%2FVmtISB4Y4oG9g%3D%3D) | 
-| 第17回三星火災杯統合予選2回戦 | Fan Tingyu | Kang Yootaek | B+R | 2012-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HqdbyQrdaLkth8iyBPxZEA%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第11節 | Choi Cheolhan | Fan Tingyu | B+R | 2012-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YzzYORhxWE0vpkpJ8HhrfQ%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第10節 | Fan Tingyu | Weon Seongjin | W+R | 2012-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9yiLT82QaEI1b44HufIOLA%3D%3D) | 
-| 2012CCTV杯中国囲棋電視快棋戦1回戦 | Fan Tingyu | missing | W+R | 2012-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HaX0x27URxca%2BrFX%2FZPqaw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第9節 | Fan Tingyu | Wang Xi | B+R | 2012-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nva5CLRjD6S5bEa9iDpJZg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第8節 | Qiu Jun | Fan Tingyu | B+R | 2012-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yp6fgv%2F162a%2Fj%2BGs2RgkcA%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦予選 | Fan Tingyu | missing | W+R | 2012-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vADTnX5f0LQPXp7xF3HYgQ%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第7節 | Fan Tingyu | Cho Hanseung | W+R | 2012-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MCYPnOqqjjfW5fGOoZeXCQ%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第6節 | Kong Jie | Fan Tingyu | W+R | 2012-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cxOFTNqKypV1AwdfZ7w3Ng%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第5節 | Fan Tingyu | Shi Yue | B+R | 2012-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jfyad%2FV83amP3m1ubyq91A%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第4節 | Ke Jie | Fan Tingyu | W+R | 2012-05-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qDbu2FzhL%2BgjUeCZXCkcFg%3D%3D) | 
-| 第7回応氏杯世界選手権3回戦 | Fan Tingyu | Tan Xiao | B+R | 2012-05-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FTWbT%2B33mmJPYYRwltYerA%3D%3D) | 
-| 第7回応氏杯世界選手権2回戦 | Fan Tingyu | Lee Sedol | B+R | 2012-05-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wosc2v3zvfHGFHAXWL698Q%3D%3D) | 
-| 第7回応氏杯世界選手権1回戦 | Fan Tingyu | Takao Shinji | B+3 | 2012-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zQHz5uYUQUqK91p%2FsjAUyA%3D%3D) | 
-| 第9期倡棋杯中国プロ囲碁選手権戦予選 | Fan Tingyu | Li Xuanhao | W+3 | 2012-05-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IuWAvi0AHZxQHVpHR6S4Bg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第3節 | Liu Xing | Fan Tingyu | B+1.5 | 2012-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1%2FpYEmj7z7AKRliKcEFrSw%3D%3D) | 
-| 第19期建橋杯中国囲碁新人王戦決勝三番勝負第2局 | Huang Yunsong | Fan Tingyu | W+R | 2012-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H6hnJG9wCUu9Ht%2B8KnyIWA%3D%3D) | 
-| 第19期建橋杯中国囲碁新人王戦決勝三番勝負第1局 | Fan Tingyu | Huang Yunsong | B+R | 2012-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uUoAEC7i0RfNPnGjkMcmOg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第2節 | Tan Xiao | Fan Tingyu | W+R | 2012-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BdyIJt3f5ce%2BkfEnjHb8EA%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第1節 | Fan Tingyu | Li Kang | B+R | 2012-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lC4Bf3hW2Dn66v4RHmvyPA%3D%3D) | 
-| 第17回LG杯予選 | Fan Tingyu | Na Hyun | W+R | 2012-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pFnHgjo8yC607Nd20wgp1A%3D%3D) | 
-| 第25期中国囲碁名人戦予選 | Li He | Fan Tingyu | B+R | 2012-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S8UAraJVRVYNwqWoNKJ5CQ%3D%3D) | 
-| 第19期建橋杯中国囲碁新人王戦準決勝 | Tao Xinran | Fan Tingyu | W+R | 2012-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sKvPu1QuvQZP2%2BH%2BJghGQw%3D%3D) | 
-| 第2期招商地産杯中韓囲棋団体対抗戦第2戦 | Choi Cheolhan | Fan Tingyu | B+R | 2012-03-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WPNLwUmYDLAy7fo6ptWjrQ%3D%3D) | 
-| 第2期招商地産杯中韓囲棋団体対抗戦第1戦 | Fan Tingyu | Kim Jiseok | B+1.5 | 2012-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IIvY%2F%2BT5TZ8My8Mb2GlBnw%3D%3D) | 
-| 第19期建橋杯中国囲碁新人王戦3回戦 | missing | Fan Tingyu | W+R | 2012-03-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HYnY2EhGIodo5peLZcvqqg%3D%3D) | 
-| 第19期建橋杯中国囲碁新人王戦2回戦 | Tong Mengcheng | Fan Tingyu | W+R | 2012-03-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A86hCvJWWtzsO4K00MBvsg%3D%3D) | 
-| 第19期建橋杯中国囲碁新人王戦1回戦 | missing | Fan Tingyu | W+R | 2012-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n6gL0MTpoPjaS6JT%2FRqe%2Fg%3D%3D) | 
-| 第4回BCカード杯世界選手権2回戦 | Gu Li | Fan Tingyu | B+R | 2012-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VksWzGm7EfDSw2%2Bf2xOROA%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権1回戦 | Fan Tingyu | Wang Lei (s) | B+R | 2012-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yJMdJ3RPiDos3uv8JKiBRw%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権予選 | Kim Jiseok | Fan Tingyu | W+R | 2012-03-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cxEwHfDC0L2OgdkgPX5Kcg%3D%3D) | 
-| 第4回BCカード杯世界選手権1回戦 | Kim Miri | Fan Tingyu | W+R | 2012-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nI91L0k04up%2BFa8yojP5AA%3D%3D) | 
-| 第4回BCカード杯世界選手権統合予選決勝 | Fan Tingyu | Lee Yeongkyu | B+1.5 | 2012-02-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xs2xaAODD7rEZSb68tX6mw%3D%3D) | 
-| 第26期中国囲碁天元戦予選 | Gu Lingyi | Fan Tingyu | B+R | 2012-02-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z5ZafSqgs8maVHl9In0BzQ%3D%3D) | 
-| 第12期リコー杯囲碁戦4回戦 | Fan Tingyu | Yang Dingxin | W+2.5 | 2012-02-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fNiIobzkS2wDVALDVNdM5Q%3D%3D) | 
-| 第12期リコー杯囲碁戦3回戦 | Fan Tingyu | Niu Yutian | B+1.5 | 2012-01-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xjh0Z4TJmDiC9Lg5zXYlHA%3D%3D) | 
-| 第12期リコー杯囲碁戦2回戦 | Fan Tingyu | Qiu Jun | B+R | 2011-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fr2%2BCDpvP2jiGsDi3qharw%3D%3D) | 
-| 第12期リコー杯囲碁戦1回戦 | Qiu Jinbo | Fan Tingyu | W+R | 2011-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A5zbJga9tU4NQ5EhMvqnbA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第22節 | Fan Tingyu | Shi Yue | B+R | 2011-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L7bax6ANF3Um2%2FNptouN3g%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第21節 | Li Xuanhao | Fan Tingyu | B+R | 2011-11-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Roi1T%2BgpXllgxNourYDNZg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第20節 | Wu Guangya | Fan Tingyu | W+R | 2011-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L9SUhnvXLC9vwgjJnJ%2FDMw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第19節 | Fan Tingyu | Qiu Jun | W+R | 2011-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FXjuVE6YWx0o1YhJDOKXPA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第18節 | Lee Yeongkyu | Fan Tingyu | W+R | 2011-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G8Ti%2BBJ5r5zNpJ08D308eg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第17節 | Fan Tingyu | Niu Yutian | B+R | 2011-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KGQZx8Xj4cWxCLZFbCTskA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第16節 | Cho Hanseung | Fan Tingyu | W+R | 2011-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XyohKutDTFirTy3aMEwWhQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第15節 | Fan Tingyu | Chen Yaoye | W+R | 2011-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TvZbwbOK4Jsx7mRQXTWFLg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第14節 | Tan Xiao | Fan Tingyu | W+R | 2011-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=01dkNOlgIAqSdDUgakheXw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第13節 | Fan Tingyu | Choi Cheolhan | W+R | 2011-09-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7dtbkhPUkkXT3U%2BW15UKuA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第12節 | Zhou Ruiyang | Fan Tingyu | W+R | 2011-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E2w%2FosfrOdUq9EOCojvzrg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第11節 | Li Zhe | Fan Tingyu | W+R | 2011-07-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HLdzMlsTgPnp5EASaf0ucg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第10節 | Fan Tingyu | Gu Li | B+R | 2011-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h12OphdkxXUGu3aox4wW0w%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第9節 | Fan Tingyu | Wu Guangya | B+3.5 | 2011-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5KFgJA29DeczmKT%2BT%2BayZg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第8節 | Chang Hao | Fan Tingyu | W+R | 2011-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bgyLbPQ4r9tpvlHUc87IPg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第7節 | Fan Tingyu | Lee Yeongkyu | W+R | 2011-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PDHcv2BJ0NaqbTVqkAhi4Q%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第6節 | Ding Wei | Fan Tingyu | W+2.5 | 2011-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R75QKLYME8o8q6OcoctaMw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第5節 | missing | Fan Tingyu | W+R | 2011-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aClBzXiDw45y1jydWc2cCw%3D%3D) | 
-| 第8期倡棋杯中国プロ囲碁選手権戦予選 | Fan Tingyu | Li Kang | W+1 | 2011-05-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sM7YpgC1W%2Be%2FlYzccF%2BrJw%3D%3D) | 
-| 第8期倡棋杯中国プロ囲碁選手権戦予選 | Li He | Fan Tingyu | W+R | 2011-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7qPVtjYEgiL2s6z9YA8%2FEg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第4節 | Chen Yaoye | Fan Tingyu | B+R | 2011-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rtgOZgrL8lgs7FNrqK8FSg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第3節 | Fan Tingyu | Tan Xiao | B+3.5 | 2011-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RAPF2uC4MOts1p1GSSwl5Q%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第2節 | Choi Cheolhan | Fan Tingyu | W+2.5 | 2011-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=11X545YsR3%2BJovJjYoAesQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第1節 | Fan Tingyu | Zhou Ruiyang | W+R | 2011-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Eg5TutrXaLw0TaokjCSpYw%3D%3D) | 
-| 第24期中国囲碁名人戦1回戦 | Xie He | Fan Tingyu | B+R | 2011-03-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tuhb7CHxqF43%2By19M1xMOQ%3D%3D) | 
-| 第24期中国囲碁名人戦予選 | Wu Guangya | Fan Tingyu | W+R | 2011-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uWRVUMd9vYJVLsst5yMefA%3D%3D) | 
-| 第18期建橋杯中国囲碁新人王戦決勝三番勝負第2局 | Fan Tingyu | Mao Ruilong | B+R | 2011-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uCo2YBeHT%2FOOu6U%2BRGB%2Fjg%3D%3D) | 
-| 第18期建橋杯中国囲碁新人王戦決勝三番勝負第1局 | Mao Ruilong | Fan Tingyu | W+0.5 | 2011-03-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fDBTa1ECOLySw6H4u6Td1w%3D%3D) | 
-| 2011CCTV杯中国囲棋電視快棋戦1回戦 | Fan Tingyu | Peng Quan | W+R | 2011-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ipAXKCgt9g4BT88XwSDQuw%3D%3D) | 
-| 第3期中国竜星戦2回戦 | Fan Tingyu | Zhou Ruiyang | W+R | 2011-03-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1W3CYj3USZr4%2B%2FWLnzFfKw%3D%3D) | 
-| 第18期建橋杯中国囲碁新人王戦準決勝 | Wu Guangya | Fan Tingyu | W+R | 2011-02-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u7wv3o96RJJgH7Bmfd4xbQ%3D%3D) | 
-| 第18期建橋杯中国囲碁新人王戦3回戦 | Fan Tingyu | Sun Li | B+R | 2011-02-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kfeM5U09%2BbAMKtJParaq3Q%3D%3D) | 
-| 第18期建橋杯中国囲碁新人王戦1回戦 | Pan Fei | Fan Tingyu | W+R | 2011-02-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4ml06asZEqzg%2FgqSowe0zQ%3D%3D) | 
-| 第25期中国囲碁天元戦予選 | Fan Tingyu | Wang Yao | W+0.5 | 2011-02-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5%2F4%2F0P2o%2FuJ6EqJIeG5j7g%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第22節 | Fan Tingyu | Li Kang | B+R | 2010-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CXPfVIjGaFfAfBQ0sDG8%2FQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第21節 | Yu Bin | Fan Tingyu | W+2.5 | 2010-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RDywDQeU3dtaMund3c59GQ%3D%3D) | 
-| 第11期リコー杯囲碁戦1回戦 | Fan Tingyu | Meng Tailing | W+R | 2010-12-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kgXuF3GC%2B0rU%2B97QaH9ROA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第20節 | Fan Tingyu | Hu Yaoyu | W+R | 2010-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cWgbks%2FsMgG6D39uBZUxkQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第19節 | Li Zhe | Fan Tingyu | B+R | 2010-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DlQMuVWf4cB71J%2FQ%2Bjq5sQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第18節 | Fan Tingyu | Huang Chen | B+R | 2010-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=24eh6HkV3S79xwuQJwfW6w%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第17節 | Wang Lei (s) | Fan Tingyu | W+R | 2010-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nmEcxFsDlkEttR2ejiWL2w%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第16節 | Kong Jie | Fan Tingyu | W+R | 2010-10-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KWKxDvdp1gJrDWYLEWImww%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第15節 | Sun Li | Fan Tingyu | W+R | 2010-10-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a02w0teRclaXK%2Bn1RWQyiw%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第14節 | Fan Tingyu | Li Jie | B+R | 2010-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d%2FJry6X%2FuzvUqiRBI9yAXg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第11節 | Li Kang | Fan Tingyu | B+R | 2010-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3sRx7fKGm8yYnk3t30WmYA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第9節 | Chang Hao | Fan Tingyu | W+R | 2010-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9cWhlf9f7hBI%2F%2B9bQyZ9jA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第8節 | Fan Tingyu | Wang Lei (b) | B+R | 2010-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Va1cjhH6rLG6qzj40DHtzg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第7節 | Tao Xinran | Fan Tingyu | W+R | 2010-06-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hDKLFl33whyo%2BbssO651RA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第5節 | Fan Tingyu | Zhong Wenjing | W+R | 2010-05-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aLOi43TpImZOFpxEwJu1Mw%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第4節 | Sun Li | Fan Tingyu | W+4.5 | 2010-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X2BEcJnnAtqbKNG7fbnO4w%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第2節 | Fan Tingyu | Peng Quan | W+R | 2010-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uNoxtzgIwOeeeDWXRDvJwQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第1節 | Fan Tingyu | Jiang Weijie | B+R | 2010-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bTwGvpfidf1lC%2BcNIgbw%2BA%3D%3D) | 
-| 第17期建橋杯中国囲碁新人王戦決勝三番勝負第2局 | Fan Tingyu | missing | B+R | 2010-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kOMZC8cWC55lEmvjKy5vkQ%3D%3D) | 
-| 第17期建橋杯中国囲碁新人王戦決勝三番勝負第1局 | missing | Fan Tingyu | W+R | 2010-03-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6e2xwRBvGaxT8wHQ52VCqg%3D%3D) | 
-| 第17期建橋杯中国囲碁新人王戦準決勝 | Lian Xiao | Fan Tingyu | W+R | 2010-02-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JrwKGjh6EPx3MAXoFAPJiA%3D%3D) | 
-| 第17期建橋杯中国囲碁新人王戦3回戦 | Zhu Yuanhao | Fan Tingyu | W+R | 2010-02-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wBzDRTlJoCu5iWFEmApesg%3D%3D) | 
-| 第4期リコー杯新秀戦2回戦 | Fan Tingyu | missing | W+R | 2010-01-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cV%2BbknkFCQAQt%2BG4XnBM4Q%3D%3D) | 
-| 第24期中国囲碁天元戦予選 | missing | Fan Tingyu | B+R | 2010-01-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kddQdv%2BxXRwv0VgMMyhafg%3D%3D) | 
-| 第24期中国囲碁天元戦予選 | Zhang Tao | Fan Tingyu | W+10.5 | 2010-01-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dxEwAxqGvmWpG6p8Zrjxig%3D%3D) | 
-| 第24期中国囲碁天元戦予選 | Qin Yuexin | Fan Tingyu | W+0.5 | 2010-01-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rwq0HtESMCuLRJvmLIWW4g%3D%3D) | 
-| 第10期リコー杯囲碁戦2回戦 | Fan Tingyu | Wang Yao | W+R | 2009-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Aqx6TiiMYTS%2FGipgA2cm9w%3D%3D) | 
-| 第4期リコー杯新秀戦1回戦 | Fan Tingyu | missing | B+R | 2009-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u5dKxa0oEi%2F88vsGXU9XRQ%3D%3D) | 
-| 第10期リコー杯囲碁戦1回戦 | Fan Tingyu | Wang Chenxing | B+R | 2009-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8hsqr2S9aMnCl1ViliShZA%3D%3D) | 
-| 第4期リコー杯新秀戦予選 | Qiu Jinbo | Fan Tingyu | W+R | 2009-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RGBWwcD0a6I2JeXaR%2BnAiQ%3D%3D) | 
-| 第22期中国囲碁名人戦予選 | Fan Tingyu | Tao Xinran | W+0.5 | 2009-03-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ukJviJQJlk5t%2FH%2BxrlVqVQ%3D%3D) | 
-| 第22期中国囲碁名人戦予選 | Fan Tingyu | missing | B+R | 2009-03-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sJZxruSYfd0SEn1IXyheUQ%3D%3D) | 
-| 第22期中国囲碁名人戦予選 | Fan Tingyu | missing | B+5.5 | 2009-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gKcO1%2BPBrCs8o8eIPE8irA%3D%3D) | 
-| 第22期中国囲碁名人戦予選 | missing | Fan Tingyu | W+R | 2009-03-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EDiRnZlMGRw%2BtVP%2BQ%2BWwJg%3D%3D) | 
-| 第3期リコー杯新秀戦予選 | Fang Hao | Fan Tingyu | B+R | 2008-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PXgEdckObIOh1nkRYQUOFQ%3D%3D) | 
-| 第3期リコー杯新秀戦予選 | Fan Tingyu | missing | B+R | 2008-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tyxorP0FFytDXjVHq3emiw%3D%3D) | 
-| 2008年全国囲棋個人戦男子組第3戦 | Fan Tingyu | missing | B+1.5 | 2008-09-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=41cSrTfMKQbnI%2FHY3gOCrg%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Shin Minjun | Fan Tingyu | Lose | B+¾ | 7.5 | 3504 | -10 | 
+| 2021-05-12 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Yang Kaiwen | Lose | W+R | 7.5 | 3514 | -17 | 
+| 2021-05-11 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Hu Yuhan | Win | B+R | 7.5 | 3531 | 2 | 
+| 2021-05-10 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Guo Xinyi | Win | B+R | 7.5 | 3529 | 6 | 
+| 2021-05-08 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Lee Donghoon | Win | B+R | 7.5 | 3523 | 19 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Zhang Tao | Fan Tingyu | Lose | B+R | 7.5 | 3504 | -53 | 
+| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Lin Junyan | Fan Tingyu | Lose | B+R | 7.5 | 3557 | -112 | 
+| 2021-03-19 | 第35期中国囲碁天元戦1回戦 | Fan Tingyu | Tang Weixing | Lose | W+2¼ | 7.5 | 3669 | -140 | 
+| 2021-01-18 | 第13回春蘭杯世界囲碁選手権3回戦 | Fan Tingyu | Shin Jinseo | Lose | W+R | 7.5 | 3809 | 18 | 
+| 2021-01-02 | 第4回Mlily夢百合杯世界囲碁オープン戦準決勝第2局 | Xie Ke | Fan Tingyu | Lose | B+R | 7.5 | 3791 | 1 | 
+| 2020-12-31 | 第4回Mlily夢百合杯世界囲碁オープン戦準決勝第1局 | Fan Tingyu | Xie Ke | Lose | W+R | 7.5 | 3790 | -16 | 
+| 2020-12-29 | 第4回Mlily夢百合杯世界囲碁オープン戦8強戦 | Fan Tingyu | Ke Jie | Win | B+R | 7.5 | 3806 | 10 | 
+| 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Byun Sangil | Fan Tingyu | Win | W+R | 7.5 | 3796 | 19 | 
+| 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Byun Sangil | Fan Tingyu | Win | W+R | 7.5 | 3777 | 21 | 
+| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Liao Yuanhe | Win | B+R | 7.5 | 3756 | 14 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Park Junghwan | Lose | W+R | 7.5 | 3742 | 2 | 
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Chen Xian | Lose | W+R | 7.5 | 3740 | -4 | 
+| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Huang Xin | Fan Tingyu | Win | W+R | 7.5 | 3744 | -40 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Fan Tingyu | Zhang Tao | Win | B+R | 7.5 | 3784 | -7 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | He Yuhan | Fan Tingyu | Win | W+R | 7.5 | 3791 | -6 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Xie Erhao | Fan Tingyu | Lose | B+R | 7.5 | 3797 | -8 | 
+| 2020-12-09 | 第22回中国囲碁甲級リーグ | Fan Tingyu | Park Junghwan | Lose | W+R | 7.5 | 3805 | -11 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Kim Jiseok | Fan Tingyu | Win | W+¼ | 7.5 | 3816 | -1 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Fan Tingyu | Na Hyun | Lose | W+¼ | 7.5 | 3817 | -28 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Gu Zihao | Fan Tingyu | Win | W+R | 7.5 | 3845 | 99 | 
+| 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Fan Tingyu | Zhang Tao | Lose | W+R | 7.5 | 3746 | -17 | 
+| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Fan Tingyu | Zhao Chenyu | Win | B+R | 7.5 | 3763 | -8 | 
+| 2020-10-13 | 第22回農心辛ラーメン杯世界囲碁最強戦第1戦 | Hong Kipyo | Fan Tingyu | Lose | B+R | 6.5 | 3771 | -30 | 
+| 2020-10-11 | 第2回王中王囲棋争覇戦準決勝 | Ke Jie | Fan Tingyu | Lose | B+R | 7.5 | 3801 | -4 | 
+| 2020-10-10 | 第2回王中王囲棋争覇戦1回戦 | Xie Erhao | Fan Tingyu | Win | W+R | 7.5 | 3805 | 22 | 
+| 2020-09-23 | 2020CCTV杯中国囲棋電視快棋戦準決勝 | Fan Tingyu | Lian Xiao | Lose | W+R | 7.5 | 3783 | -5 | 
+| 2020-09-22 | 2020CCTV杯中国囲棋電視快棋戦3回戦 | Fan Tingyu | Tao Xinran | Win | B+R | 7.5 | 3788 | 4 | 
+| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦2回戦 | Jiang Weijie | Fan Tingyu | Win | W+R | 7.5 | 3784 | 0 | 
+| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Fan Tingyu | Liao Yuanhe | Win | B+R | 7.5 | 3784 | 7 | 
+| 2020-09-18 | 第22回農心杯中国選抜戦 | Fan Tingyu | Lian Xiao | Win | B+R | 6.5 | 3777 | 4 | 
+| 2020-09-17 | 第22回農心杯中国選抜戦 | Fan Tingyu | Ding Hao | Win | B+R | 6.5 | 3773 | 12 | 
+| 2020-09-14 | 第25回三星火災杯中国一般枠予選 | Fan Tingyu | Fan Yin | Lose | W+R | 6.5 | 3761 | -22 | 
+| 2020-09-11 | 第25回三星火災杯中国一般枠予選 | Lian Xiao | Fan Tingyu | Lose | B+R | 6.5 | 3783 | -31 | 
+| 2020-09-09 | 第9回応氏杯世界選手権2回戦 | Shin Jinseo | Fan Tingyu | Lose | B+5 | 7.5 | 3814 | -3 | 
+| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Shin Minjun | Fan Tingyu | Win | W+R | 7.5 | 3817 | 23 | 
+| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Fan Tingyu | Wang Shiyi | Win | B+R | 7.5 | 3794 | 28 | 
+| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Shi Yue | Fan Tingyu | Win | W+R | 7.5 | 3766 | -20 | 
+| 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Fan Tingyu | Mi Yuting | Win | B+R | 7.5 | 3786 | 22 | 
+| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Fan Tingyu | Chen Hao | Win | B+R | 7.5 | 3764 | -3 | 
+| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Fan Tingyu | Sun Tengyu | Win | B+R | 7.5 | 3767 | -23 | 
+| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Fan Tingyu | Hu Yaoyu | Win | B+R | 7.5 | 3790 | 8 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Xie Ke | Fan Tingyu | Win | W+R | 7.5 | 3782 | 0 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Fan Tingyu | Xia Chenkun | Lose | W+R | 7.5 | 3782 | 24 | 
+| 2020-08-21 | 第21回農心辛ラーメン杯世界囲碁最強戦第12戦 | Park Junghwan | Fan Tingyu | Lose | B+R | 6.5 | 3758 | -16 | 
+| 2020-08-20 | 第21回農心辛ラーメン杯世界囲碁最強戦第12戦 | Fan Tingyu | Park Junghwan | Lose | Void | 6.5 | 3774 | 181 | 
+| 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Fan Tingyu | Murakawa Daisuke | Win | B+R | 7.5 | 3593 | 6 | 
+| 2020-06-10 | 第11期中国竜星戦Bブロック9回戦 | Lian Xiao | Fan Tingyu | Lose | B+R | 7.5 | 3587 | -5 | 
+| 2020-05-19 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Fan Tingyu | Xie Erhao | Lose | W+R | 7.5 | 3592 | 116 | 
+| 2020-04-15 | 第25回LG杯中国予選 | Zhao Chenyu | Fan Tingyu | Lose | B+5.5 | 6.5 | 3476 | -195 | 
+| 2020-01-12 | 第34期中国囲碁天元戦準決勝 | Yang Dingxin | Fan Tingyu | Lose | B+¾ | 7.5 | 3671 | -9 | 
+| 2020-01-10 | 第34期中国囲碁天元戦3回戦 | Fan Yunruo | Fan Tingyu | Win | W+¼ | 7.5 | 3680 | 16 | 
+| 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Tuo Jiaxi | Fan Tingyu | Win | W+R | 7.5 | 3664 | 0 | 
+| 2020-01-06 | 第34期中国囲碁天元戦1回戦 | Fan Tingyu | Gu Li | Win | B+R | 7.5 | 3664 | 306 | 
+| 2019-12-03 | 第21期阿含・桐山杯早碁オープン戦日中決戦 | Fan Tingyu | Cho U | Lose | W+¼ | 7.5 | 3358 | -15 | 
+| 2019-11-30 | 第15期威孚房開杯棋王戦決勝 | Fan Tingyu | Mi Yuting | Win | B+R | 7.5 | 3373 | 6 | 
+| 2019-11-29 | 第15期威孚房開杯棋王戦準決勝 | Fan Tingyu | Tan Xiao | Win | B+R | 7.5 | 3367 | 17 | 
+| 2019-11-28 | 第15期威孚房開杯棋王戦8強戦 | Tuo Jiaxi | Fan Tingyu | Win | W+R | 7.5 | 3350 | -10 | 
+| 2019-11-18 | 第4回全国智力運動会男子団体戦第9戦 | Fan Tingyu | Tan Xiao | Win | B+R | 7.5 | 3360 | 5 | 
+| 2019-11-17 | 第4回全国智力運動会男子団体戦第8戦 | Ding Hao | Fan Tingyu | Win | W+R | 7.5 | 3355 | 0 | 
+| 2019-11-17 | 第4回全国智力運動会男子団体戦第7戦 | Fan Tingyu | Dang Yifei | Win | B+R | 7.5 | 3355 | 19 | 
+| 2019-11-16 | 第4回全国智力運動会男子団体戦第5戦 | Han Yizhou | Fan Tingyu | Win | W+R | 7.5 | 3336 | 10 | 
+| 2019-11-15 | 第4回全国智力運動会男子団体戦第3戦 | Fan Tingyu | Fan Yin | Win | B+R | 7.5 | 3326 | 0 | 
+| 2019-11-14 | 第4回全国智力運動会男子団体戦第1戦 | Fan Yunruo | Fan Tingyu | Win | W+R | 7.5 | 3326 | -14 | 
+| 2019-11-11 | 第4回全国智力運動会プロ男子個人戦第6戦 | Li Qincheng | Fan Tingyu | Lose | B+R | 7.5 | 3340 | -2 | 
+| 2019-11-10 | 第4回全国智力運動会プロ男子個人戦第3戦 | Tuo Jiaxi | Fan Tingyu | Lose | B+R | 7.5 | 3342 | -10 | 
+| 2019-11-09 | 第4回全国智力運動会プロ男子個人戦第2戦 | Fan Tingyu | Ke Jie | Win | B+R | 7.5 | 3352 | 0 | 
+| 2019-11-09 | 第4回全国智力運動会プロ男子個人戦第1戦 |  | Fan Tingyu | Win | W+R | 7.5 | 3352 | 39 | 
+| 2019-10-13 | 第4回Mlily夢百合杯世界囲碁オープン戦16強戦 |  | Fan Tingyu | Win | W+R | 7.5 | 3313 | 4 | 
+| 2019-10-11 | 第4回Mlily夢百合杯世界囲碁オープン戦32強戦 | Fan Tingyu |  | Win | B+2¾ | 7.5 | 3309 | 5 | 
+| 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Liao Yuanhe | Fan Tingyu | Win | W+R | 7.5 | 3304 | 1 | 
+| 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Fan Tingyu |  | Lose | W+R | 7.5 | 3303 | -4 | 
+| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Fan Tingyu | Tuo Jiaxi | Win | B+R | 7.5 | 3307 | 40 | 
+| 2019-09-18 | 第15期威孚房開杯棋王戦16強戦 | Fan Tingyu | Ding Hao | Win | B+¾ | 7.5 | 3267 | 29 | 
+| 2019-09-12 | 第21期阿含・桐山杯中国早碁オープン戦決勝 | Tuo Jiaxi | Fan Tingyu | Win | W+R | 7.5 | 3238 | -6 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Rong Yi | Fan Tingyu | Win | W+¼ | 7.5 | 3244 | 8 | 
+| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Kim Myounghoon | Fan Tingyu | Lose | B+R | 7.5 | 3236 | -51 | 
+| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Yao Xiaotong | Fan Tingyu | Win | W+R | 7.5 | 3287 | -22 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Fan Tingyu | Sun Tengyu | Lose | W+R | 7.5 | 3309 | -28 | 
+| 2019-08-03 | 第6回国手山脈国際囲碁大会世界プロ最強戦16強戦 | Lee Donghoon | Fan Tingyu | Lose | B+R | 6.5 | 3337 | -19 | 
+| 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 |  | Fan Tingyu | Win | W+R | 7.5 | 3356 | 29 | 
+| 2019-07-27 | 第21期阿含・桐山杯中国早碁オープン戦準決勝 | Fan Tingyu | Ke Jie | Win | B+R | 7.5 | 3327 | 15 | 
+| 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Wang Zejin | Fan Tingyu | Lose | B+R | 7.5 | 3312 | -7 | 
+| 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Fan Tingyu | Zhang Qiang | Win | B+R | 7.5 | 3319 | -6 | 
+| 2019-07-03 | 第24回三星火災杯統合予選3回戦 | Fan Tingyu | Kim Myounghoon | Lose | W+R | 6.5 | 3325 | -18 | 
+| 2019-06-28 | 第21期阿含・桐山杯中国早碁オープン戦8強戦 | Xie Ke | Fan Tingyu | Win | W+R | 7.5 | 3343 | 4 | 
+| 2019-06-27 | 第21期阿含・桐山杯中国早碁オープン戦16強戦 | Liao Yuanhe | Fan Tingyu | Win | W+¼ | 7.5 | 3339 | 11 | 
+| 2019-06-19 | 嫘祖杯第32期中国囲棋名人戦準決勝 | Fan Tingyu | Xu Jiayang | Lose | W+R | 7.5 | 3328 | -13 | 
+| 2019-06-17 | 嫘祖杯第32期中国囲棋名人戦8強戦 | Tao Xinran | Fan Tingyu | Win | W+R | 7.5 | 3341 | 17 | 
+| 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Fan Tingyu | Hu Yaoyu | Win | B+¾ | 7.5 | 3324 | 15 | 
+| 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Park Junghwan | Fan Tingyu | Lose | B+R | 7.5 | 3309 | 15 | 
+| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Fan Tingyu | Tu Xiaoyu | Lose | W+R | 7.5 | 3294 | 40 | 
+| 2019-05-27 | 第24回LG杯朝鮮日報棋王戦1回戦 | Fan Tingyu | Mi Yuting | Lose | W+1.5 | 6.5 | 3254 | -23 | 
+| 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Mi Yuting | Fan Tingyu | Lose | B+R | 7.5 | 3277 | -23 | 
+| 2019-05-09 | 嫘祖杯第32期中国囲棋名人戦16強戦 | Tang Weixing | Fan Tingyu | Win | W+R | 7.5 | 3300 | -15 | 
+| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Fan Tingyu | Shi Yue | Lose | W+R | 7.5 | 3315 | 5 | 
+| 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Fan Tingyu | Tan Xiao | Win | B+R | 7.5 | 3310 | -26 | 
+| 2019-04-27 | 第4期洛陽白雲山杯中国棋聖戦準決勝 | Fan Yunruo | Fan Tingyu | Lose | B+R | 7.5 | 3336 | -9 | 
+| 2019-04-26 | 第4期洛陽白雲山杯中国棋聖戦8強戦 | Rong Yi | Fan Tingyu | Win | W+R | 7.5 | 3345 | 5 | 
+| 2019-04-21 | 第16期倡棋杯中国プロ囲棋選手権戦本戦2回戦 | Fan Tingyu | Zhou Ruiyang | Lose | W+R | 7.5 | 3340 | 0 | 
+| 2019-04-19 | 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Li Weiqing | Fan Tingyu | Win | W+R | 7.5 | 3340 | -10 | 
+| 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Fan Tingyu | Yang Dingxin | Lose | W+R | 7.5 | 3350 | -3 | 
+| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節濰坊-蘇泊爾 | Shin Jinseo | Fan Tingyu | Lose | B+R | 7.5 | 3353 | -11 | 
+| 2019-04-11 | 第10期中国竜星戦Bブロック8回戦 | Gu Zihao | Fan Tingyu | Lose | B+R | 7.5 | 3364 | 0 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Chen Zijian | Fan Tingyu | Lose | B+R | 7.5 | 3364 | -4 | 
+| 2019-03-26 | 第10期中国竜星戦Bブロック7回戦 | Fan Tingyu | Xu Jiayang | Win | B+R | 7.5 | 3368 | -6 | 
+| 2019-03-15 | 第1回王中王囲棋争覇戦決勝 | Xie Erhao | Fan Tingyu | Lose | B+¾ | 7.5 | 3374 | 14 | 
+| 2019-03-12 | 第1回王中王囲棋争覇戦勝者組決勝 | Fan Tingyu | Lian Xiao | Win | B+R | 7.5 | 3360 | 9 | 
+| 2019-03-10 | 第1回王中王囲棋争覇戦勝者組準決勝 | Mi Yuting | Fan Tingyu | Win | W+R | 7.5 | 3351 | 4 | 
+| 2019-03-09 | 第1回王中王囲棋争覇戦1回戦 | Fan Tingyu | Chen Yaoye | Win | B+R | 7.5 | 3347 | 21 | 
+| 2019-03-07 | 第10期中国竜星戦予選 | Fan Yunruo | Fan Tingyu | Win | W+R | 7.5 | 3326 | 3 | 
+| 2019-03-06 | 第10期中国竜星戦予選 | Fan Tingyu | Dang Yifei | Win | B+R | 7.5 | 3323 | 3 | 
+| 2019-02-26 | 第4期洛陽白雲山杯中国棋聖戦本戦2回戦 | Xie Erhao | Fan Tingyu | Win | W+R | 7.5 | 3320 | -59 | 
+| 2019-01-07 | 第33期中国囲碁天元戦3回戦 | Fan Tingyu | Tong Mengcheng | Lose | W+R | 7.5 | 3379 | -3 | 
+| 2019-01-06 | 第33期中国囲碁天元戦2回戦 | Fan Tingyu | Zhang Tao | Win | B+R | 7.5 | 3382 | 0 | 
+| 2019-01-04 | 第33期中国囲碁天元戦1回戦 | Ding Hao | Fan Tingyu | Win | W+R | 7.5 | 3382 | -14 | 
+| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節江西-山東 | Fan Tingyu | Xu Jiayang | Lose | W+¼ | 7.5 | 3396 | -6 | 
+| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節山東-成都 |  | Fan Tingyu | Win | W+R | 7.5 | 3402 | -43 | 
+| 2018-11-29 | 第7回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Lian Xiao | Fan Tingyu | Lose | B+R | 7.5 | 3445 | 4 | 
+| 2018-11-27 | 第20回農心辛ラーメン杯世界囲碁最強戦第9戦 | Park Junghwan | Fan Tingyu | Lose | B+R | 6.5 | 3441 | -26 | 
+| 2018-11-26 | 第20回農心辛ラーメン杯世界囲碁最強戦第8戦 | Ichiriki Ryo | Fan Tingyu | Win | W+R | 6.5 | 3467 | 21 | 
+| 2018-11-25 | 第20回農心辛ラーメン杯世界囲碁最強戦第7戦 | Lee Sedol | Fan Tingyu | Win | W+R | 6.5 | 3446 | 0 | 
+| 2018-11-24 | 第20回農心辛ラーメン杯世界囲碁最強戦第6戦 | Hsu Chiayuan | Fan Tingyu | Win | W+R | 6.5 | 3446 | -3 | 
+| 2018-11-23 | 第20回農心辛ラーメン杯世界囲碁最強戦第5戦 | Fan Tingyu | Choi Cheolhan | Win | B+R | 6.5 | 3449 | 12 | 
+| 2018-11-19 | 第4回TWTテンセント囲碁選手権準決勝 | Fan Tingyu | Ke Jie | Lose | W+R | 7.5 | 3437 | -5 | 
+| 2018-11-18 | 第4回TWTテンセント囲碁選手権8強戦 | Fan Tingyu | Yoda Norimoto | Win | B+3¾ | 7.5 | 3442 | 0 | 
+| 2018-11-16 | 第20回中国囲碁甲級リーグ第24節重慶-山東 | Fan Tingyu | Yang Dingxin | Lose | W+R | 7.5 | 3442 | -6 | 
+| 2018-11-14 | 第23回LG杯朝鮮日報棋王戦準決勝 | Shi Yue | Fan Tingyu | Lose | B+R | 6.5 | 3448 | -16 | 
+| 2018-11-12 | 第23回LG杯朝鮮日報棋王戦3回戦 | Fan Tingyu | Park Junghwan | Win | B+R | 6.5 | 3464 | 17 | 
+| 2018-11-09 | 第20回中国囲碁甲級リーグ第23節山東-中信 | Chen Yaoye | Fan Tingyu | Lose | B+R | 7.5 | 3447 | -14 | 
+| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節天津-山東 | Meng Tailing | Fan Tingyu | Win | W+R | 7.5 | 3461 | 0 | 
+| 2018-10-31 | 第20期阿含・桐山杯中国早碁オープン戦決勝  | Fan Tingyu | Gu Zihao | Lose | W+R | 7.5 | 3461 | -4 | 
+| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節山東-廈門 | Ke Jie | Fan Tingyu | Lose | B+R | 7.5 | 3465 | 10 | 
+| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節上海-山東 | Fan Tingyu | Fan Yunruo | Win | B+R | 7.5 | 3455 | 14 | 
+| 2018-10-19 | 第20回農心辛ラーメン杯世界囲碁最強戦第4戦 | Motoki Katsuya | Fan Tingyu | Win | W+R | 6.5 | 3441 | -12 | 
+| 2018-10-18 | 第20回農心辛ラーメン杯世界囲碁最強戦第3戦 | Fan Tingyu | Shin Minjun | Win | B+R | 6.5 | 3453 | 3 | 
+| 2018-10-17 | 第20回農心辛ラーメン杯世界囲碁最強戦第2戦 | Shibano Toramaru | Fan Tingyu | Win | W+R | 6.5 | 3450 | -2 | 
+| 2018-10-13 | 第14期威孚房開杯棋王戦32強戦 | Fan Tingyu | Ding Hao | Lose | W+R | 7.5 | 3452 | 5 | 
+| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節山東-杭州 | Shin Jinseo | Fan Tingyu | Lose | B+R | 7.5 | 3447 | -14 | 
+| 2018-10-08 | 第20回中国囲碁甲級リーグ第18節山東-衢州 | Huang Xin | Fan Tingyu | Win | W+R | 7.5 | 3461 | -3 | 
+| 2018-09-28 | 第20回中国囲碁甲級リーグ第17節民生-山東 | Fan Tingyu | Shen Peiran | Win | B+R | 7.5 | 3464 | -19 | 
+| 2018-09-23 | 第1回天府杯世界囲碁選手権B組2回戦 | Fan Tingyu | Tan Xiao | Lose | W+¼ | 7.5 | 3483 | -22 | 
+| 2018-09-21 | 第1回天府杯世界囲碁選手権B組1回戦 | Fan Tingyu | Hsu Chiayuan | Win | B+R | 7.5 | 3505 | 23 | 
+| 2018-09-19 | 第20期阿含・桐山杯中国早碁オープン戦準決勝 | Fan Tingyu | Lian Xiao | Win | B+R | 7.5 | 3482 | 20 | 
+| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節山東-蘇泊爾 | Lian Xiao | Fan Tingyu | Win | W+R | 7.5 | 3462 | -5 | 
+| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節江蘇-山東 | Fan Tingyu | Mi Yuting | Lose | W+R | 7.5 | 3467 | -5 | 
+| 2018-09-08 | 第20回中国囲碁甲級リーグ第14節山東-浙江 | Jiang Qirun | Fan Tingyu | Win | W+R | 7.5 | 3472 | -20 | 
+| 2018-08-15 | 第20回中国囲碁甲級リーグ第13節山東-江西 | Gu Zihao | Fan Tingyu | Lose | B+¾ | 7.5 | 3492 | -11 | 
+| 2018-08-13 | 第20回中国囲碁甲級リーグ第12節成都-山東 | Fan Tingyu | Liao Yuanhe | Win | B+R | 7.5 | 3503 | 46 | 
+| 2018-08-08 | 第20回農心杯中国選抜戦 | Fan Tingyu | Tuo Jiaxi | Win | B+R | 6.5 | 3457 | 9 | 
+| 2018-08-06 | 第20回中国囲碁甲級リーグ第11節山東-重慶 | Fan Tingyu | Li Xuanhao | Win | B+R | 7.5 | 3448 | -16 | 
+| 2018-07-18 | 第20期阿含・桐山杯中国早碁オープン戦8強戦 | Fan Tingyu | Tang Weixing | Win | B+R | 7.5 | 3464 | 0 | 
+| 2018-07-18 | 第20期阿含・桐山杯中国早碁オープン戦16強戦 | Ke Jie | Fan Tingyu | Win | W+R | 7.5 | 3464 | 5 | 
+| 2018-07-16 | 第20回中国囲碁甲級リーグ第10節中信-山東 | Fan Tingyu | Chen Yaoye | Lose | W+1¼ | 7.5 | 3459 | 31 | 
+| 2018-06-29 | 第20期阿含・桐山杯中国早碁オープン戦本選決勝 | Li Qincheng | Fan Tingyu | Win | W+R | 7.5 | 3428 | 6 | 
+| 2018-06-28 | 第20期阿含・桐山杯中国早碁オープン戦本選2回戦 | Fan Tingyu |  | Win | B+R | 7.5 | 3422 | -3 | 
+| 2018-06-25 | 第20回中国囲碁甲級リーグ第9節山東-天津 | Tang Weixing | Fan Tingyu | Lose | B+R | 7.5 | 3425 | -19 | 
+| 2018-06-18 | 第2回巓峰夢想福特撼路者ラリー戦a5 | Fan Tingyu | Ke Jie | Win | B+R | 7.5 | 3444 | 8 | 
+| 2018-06-17 | 第2回巓峰夢想福特撼路者ラリー戦a4 | Tang Weixing | Fan Tingyu | Lose | B+R | 7.5 | 3436 | -26 | 
+| 2018-06-13 | 第2回巓峰夢想福特撼路者ラリー戦a2 | Ke Jie | Fan Tingyu | Lose | B+R | 7.5 | 3462 | 1 | 
+| 2018-06-11 | 第2回巓峰夢想福特撼路者ラリー戦a1 | Fan Tingyu | Tang Weixing | Win | B+R | 7.5 | 3461 | -8 | 
+| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節廈門-山東 | Fan Tingyu | Ke Jie | Lose | W+R | 7.5 | 3469 | -9 | 
+| 2018-05-30 | 第23回LG杯朝鮮日報棋王戦2回戦 | Park Yeonghun | Fan Tingyu | Win | W+R | 6.5 | 3478 | 4 | 
+| 2018-05-28 | 第23回LG杯朝鮮日報棋王戦1回戦 | Kim Jiseok | Fan Tingyu | Win | W+R | 6.5 | 3474 | -34 | 
+| 2018-05-23 | 第3回洛陽白雲山杯中国棋聖戦準決勝 | Fan Tingyu | Lian Xiao | Lose | W+¼ | 7.5 | 3508 | 21 | 
+| 2018-05-16 | 嫘祖杯第31回中国囲棋名人戦32強戦 | Fan Tingyu | Tan Xiao | Lose | W+¼ | 7.5 | 3487 | -41 | 
+| 2018-05-14 | 第20回中国囲碁甲級リーグ第6節杭州-山東 | Fan Tingyu | Ding Hao | Win | B+¾ | 7.5 | 3528 | -3 | 
+| 2018-05-12 | 第7回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Fan Tingyu | Huang Yunsong | Win | B+R | 7.5 | 3531 | 25 | 
+| 2018-05-11 | 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Xu Jiayang | Fan Tingyu | Win | W+R | 7.5 | 3506 | -17 | 
+| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節衢州-山東 | Fan Tingyu | Lee Sedol | Win | B+R | 7.5 | 3523 | 9 | 
+| 2018-05-07 | 2018CCTV杯中国囲棋電視快棋戦決勝 | Fan Yunruo | Fan Tingyu | Win | W+R | 7.5 | 3514 | 1 | 
+| 2018-05-03 | 第30回テレビアジア選手権準決勝 | Fan Tingyu | Na Hyun | Lose | W+R | 6.5 | 3513 | -15 | 
+| 2018-05-02 | 第30回テレビアジア選手権1回戦 | Iyama Yuta | Fan Tingyu | Win | W+R | 6.5 | 3528 | 30 | 
+| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節山東-民生 | Shi Yue | Fan Tingyu | Lose | B+R | 7.5 | 3498 | -3 | 
+| 2018-04-12 | 2018CCTV杯中国囲棋電視快棋戦準決勝 | Lian Xiao | Fan Tingyu | Win | W+¼ | 7.5 | 3501 | 3 | 
+| 2018-04-11 | 2018CCTV杯中国囲棋電視快棋戦4回戦 | Fan Tingyu | Yang Dingxin | Win | B+R | 7.5 | 3498 | 8 | 
+| 2018-04-10 | 2018CCTV杯中国囲棋電視快棋戦3回戦 | An Dongxu | Fan Tingyu | Win | W+R | 7.5 | 3490 | 2 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦2回戦 | Fan Tingyu | Liu Xing | Win | B+R | 7.5 | 3488 | 0 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Zhang Tao | Fan Tingyu | Win | W+R | 7.5 | 3488 | 12 | 
+| 2018-04-07 | 第23回LG杯予選決勝 | Shen Peiran | Fan Tingyu | Win | W+R | 6.5 | 3476 | 49 | 
+| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節蘇泊爾-山東 | Fan Tingyu | Park Junghwan | Win | B+R | 7.5 | 3427 | -15 | 
+| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節山東-江蘇 | Zhao Chenyu | Fan Tingyu | Lose | B+1¾ | 7.5 | 3442 | -38 | 
+| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節浙江-山東 | Fan Tingyu | Shin Minjun | Win | B+R | 7.5 | 3480 | -10 | 
+| 2018-01-27 | 第32期中国囲碁天元戦3回戦 | Fan Tingyu | Xie Ke | Lose | W+R | 7.5 | 3490 | -8 | 
+| 2018-01-25 | 第32期中国囲碁天元戦2回戦 | Li Xuanhao | Fan Tingyu | Win | W+R | 7.5 | 3498 | 5 | 
+| 2018-01-23 | 第32期中国囲碁天元戦1回戦 | Fan Tingyu | Tuo Jiaxi | Win | B+R | 7.5 | 3493 | 8 | 
+| 2018-01-22 | 第32期中国囲碁天元戦予選 |  | Fan Tingyu | Win | W+R | 7.5 | 3485 | 13 | 
+| 2018-01-17 | 第3回洛陽白雲山杯中国棋聖戦8強戦 | Ke Jie | Fan Tingyu | Win | W+R | 7.5 | 3472 | 23 | 
+| 2018-01-15 | 第3回洛陽白雲山杯中国棋聖戦本戦1回戦 | Fan Tingyu | Yang Dingxin | Win | B+R | 7.5 | 3449 | 6 | 
+| 2018-01-10 | 第3回洛陽白雲山杯中国棋聖戦資格戦3 | Li Qincheng | Fan Tingyu | Win | W+R | 7.5 | 3443 | 15 | 
+| 2018-01-08 | 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Fan Tingyu | Liao Yuanhe | Win | B+R | 7.5 | 3428 | 42 | 
+| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Fan Tingyu | Fan Yin | Win | B+R | 7.5 | 3386 | 5 | 
+| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Fan Tingyu | Kim Jiseok | Win | B+1¾ | 7.5 | 3381 | 7 | 
+| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Chen Yaoye | Fan Tingyu | Lose | B+R | 7.5 | 3374 | -18 | 
+| 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Li Xiangyu | Fan Tingyu | Win | W+R | 7.5 | 3392 | -11 | 
+| 2017-11-02 | 2017寧波杭州湾方太杯世界戦優勝者招待戦8強戦 | Ke Jie | Fan Tingyu | Lose | B+2.5 | 7.5 | 3403 | -5 | 
+| 2017-10-30 | 第19回中国囲碁甲級リーグ第22節 | Fan Tingyu |  | Win | B+R | 7.5 | 3408 | 6 | 
+| 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Fan Tingyu | Tan Xiao | Lose | W+R | 7.5 | 3402 | -4 | 
+| 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Lian Xiao | Fan Tingyu | Lose | B+R | 7.5 | 3406 | 59 | 
+| 2017-10-11 | 第13期威孚房開杯棋王戦16強戦 | Meng Tailing | Fan Tingyu | Lose | B+3.5 | 7.5 | 3347 | -11 | 
+| 2017-10-10 | 第13期威孚房開杯棋王戦32強戦 | Tuo Jiaxi | Fan Tingyu | Win | W+R | 7.5 | 3358 | -26 | 
+| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Fan Tingyu | Liao Yuanhe | Lose | W+R | 7.5 | 3384 | 0 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Gu Zihao | Fan Tingyu | Win | W+R | 7.5 | 3384 | 14 | 
+| 2017-09-19 | 第19回農心辛ラーメン杯世界囲碁最強戦第1戦 | Fan Tingyu | Shin Minjun | Lose | W+3.5 | 6.5 | 3370 | 16 | 
+| 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Fan Tingyu | Tang Weixing | Lose | W+R | 7.5 | 3354 | -17 | 
+| 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Mi Yuting | Fan Tingyu | Win | W+R | 7.5 | 3371 | 3 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Fan Tingyu | Liu Xing | Win | B+R | 7.5 | 3368 | 21 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Fan Tingyu | Li Weiqing | Lose | W+R | 7.5 | 3347 | -6 | 
+| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Fan Tingyu | Jiang Qirun | Win | B+R | 7.5 | 3353 | 0 | 
+| 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Shi Yue | Fan Tingyu | Lose | B+R | 7.5 | 3353 | 1 | 
+| 2017-08-06 | 嫘祖杯30回中国名人戦8強戦 | Tang Weixing | Fan Tingyu | Lose | B+R | 7.5 | 3352 | -7 | 
+| 2017-08-04 | 嫘祖杯30回中国名人戦16強戦 | Chen Yaoye | Fan Tingyu | Win | W+R | 7.5 | 3359 | 6 | 
+| 2017-08-03 | 嫘祖杯30回中国名人戦32強戦 | Wu Guangya | Fan Tingyu | Win | W+R | 7.5 | 3353 | 4 | 
+| 2017-07-22 | 金立杯7回海峡世界冠軍争覇準決勝 | Fan Tingyu | Dang Yifei | Lose | W+R | 7.5 | 3349 | -15 | 
+| 2017-07-21 | 金立杯7回海峡世界冠軍争覇8強戦 | Ke Jie | Fan Tingyu | Win | W+R | 7.5 | 3364 | 8 | 
+| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Fan Tingyu | Chen Yaoye | Lose | W+R | 7.5 | 3356 | -5 | 
+| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Shin Jinseo | Fan Tingyu | Win | W+R | 7.5 | 3361 | 9 | 
+| 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Fan Tingyu | Wang Haoyang | Win | B+3.5 | 7.5 | 3352 | 10 | 
+| 2017-07-06 | 2017年中国全国運動会囲碁競技第3戦 | Ke Jie | Fan Tingyu | Lose | B+R | 7.5 | 3342 | -17 | 
+| 2017-07-03 | 第22回三星火災杯統合予選決勝 | Fan Tingyu | An Sungjoon | Lose | W+R | 6.5 | 3359 | -34 | 
+| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Tan Xiao | Fan Tingyu | Win | W+R | 7.5 | 3393 | 30 | 
+| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Fan Tingyu | Lian Xiao | Win | B+R | 7.5 | 3363 | 15 | 
+| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Gu Lingyi | Fan Tingyu | Win | W+2.5 | 7.5 | 3348 | -4 | 
+| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Fan Tingyu | Lee Donghoon | Win | B+R | 7.5 | 3352 | 19 | 
+| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Meng Tailing | Fan Tingyu | Win | W+R | 7.5 | 3333 | 1 | 
+| 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Huang Yunsong | Fan Tingyu | Win | W+R | 7.5 | 3332 | 3 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Fan Tingyu | Liao Xingwen | Win | B+R | 7.5 | 3329 | 5 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Fan Tingyu | Li Weiqing | Win | B+R | 7.5 | 3324 | 57 | 
+| 2017-04-17 | 第19期中国阿含桐山杯本選2回戦 | Fan Tingyu | Chen Xian | Lose | W+R | 7.5 | 3267 | -36 | 
+| 2017-04-04 | 第22期LG杯世界予選2回戦 | Lin Shuyang | Fan Tingyu | Lose | B+R | 6.5 | 3303 | 178 | 
+| 2017-01-16 | 第31期中国囲碁天元戦2回戦 | Fan Tingyu | Mi Yuting | Lose | W+R | 7.5 | 3125 | -1 | 
+| 2017-01-14 | 第31期中国囲碁天元戦1回戦 | Fan Tingyu | Zhou Hexi | Win | B+R | 7.5 | 3126 | 23 | 
+| 2017-01-04 | Alphago Online Series on Tygem and Fox 52 | Fan Tingyu |  | Lose | W+R | 6.5 | 3103 | 0 | 
+| 2017-01-01 | 2016年利民杯世界囲碁星鋭最強戦2回戦 | Byun Sangil | Fan Tingyu | Lose | B+1.5 | 7.5 | 3103 | -9 | 
+| 2016-12-31 | Alphago Online Series on Tygem and Fox 27 |  | Fan Tingyu | Lose | B+R | 6.5 | 3112 | 0 | 
+| 2016-12-31 | 2016年利民杯世界囲碁星鋭最強戦1回戦 | Wang Zejin | Fan Tingyu | Win | W+R | 7.5 | 3112 | 3 | 
+| 2016-12-03 | 第18回中国囲碁甲級リーグ第22節 | Chen Zhengxun | Fan Tingyu | Win | W+R | 7.5 | 3109 | -1 | 
+| 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Fan Tingyu | Huang Yunsong | Win | B+R | 7.5 | 3110 | 7 | 
+| 2016-11-29 | 第18回農心辛ラーメン杯世界囲碁最強戦第9戦 | Fan Tingyu | Park Junghwan | Lose | W+R | 6.5 | 3103 | -7 | 
+| 2016-11-28 | 第18回農心辛ラーメン杯世界囲碁最強戦第8戦 | Fan Tingyu | Murakawa Daisuke | Win | B+R | 6.5 | 3110 | 0 | 
+| 2016-11-27 | 第18回農心辛ラーメン杯世界囲碁最強戦第7戦 | Kim Jiseok | Fan Tingyu | Win | W+R | 6.5 | 3110 | 15 | 
+| 2016-11-26 | 第18回農心辛ラーメン杯世界囲碁最強戦第6戦 | Kono Rin | Fan Tingyu | Win | W+R | 6.5 | 3095 | 9 | 
+| 2016-11-25 | 第18回農心辛ラーメン杯世界囲碁最強戦第5戦 | Kang Dongyun | Fan Tingyu | Win | W+R | 6.5 | 3086 | 14 | 
+| 2016-11-23 | 第8期中国竜星戦予選 | Fan Tingyu | Zhou Hexi | Lose | W+2.5 | 7.5 | 3072 | -10 | 
+| 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Fan Tingyu | Wang Xi | Lose | W+R | 7.5 | 3082 | -7 | 
+| 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 | Fan Tingyu | Li Kang | Win | B+R | 7.5 | 3089 | 10 | 
+| 2016-11-12 | 第18回中国囲碁甲級リーグ第18節 | Peng Liyao | Fan Tingyu | Win | W+R | 7.5 | 3079 | -60 | 
+| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Fan Tingyu | Kang Dongyun | Lose | W+R | 7.5 | 3139 | -1 | 
+| 2016-11-04 | 第18回中国囲碁甲級リーグ第17節 | Fan Tingyu | Qin Yuexin | Win | B+R | 7.5 | 3140 | 31 | 
+| 2016-10-28 | 第18回中国囲碁甲級リーグ第16節 | Fan Tingyu | Gu Zihao | Lose | W+0.5 | 7.5 | 3109 | -2 | 
+| 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 |  | Fan Tingyu | Win | W+R | 7.5 | 3111 | 9 | 
+| 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Fan Tingyu | Li Qincheng | Lose | W+R | 7.5 | 3102 | -1 | 
+| 2016-10-04 | 第21回三星火災杯世界囲碁マスターズ2回戦 | Tang Weixing | Fan Tingyu | Lose | B+R | 6.5 | 3103 | -10 | 
+| 2016-09-30 | 第18回農心辛ラーメン杯世界囲碁最強戦第4戦 | Cho U | Fan Tingyu | Win | W+R | 6.5 | 3113 | 12 | 
+| 2016-09-29 | 第18回農心辛ラーメン杯世界囲碁最強戦第3戦 | Lee Donghoon | Fan Tingyu | Win | W+R | 6.5 | 3101 | 27 | 
+| 2016-09-28 | 第18回農心辛ラーメン杯世界囲碁最強戦第2戦 | Ichiriki Ryo | Fan Tingyu | Win | W+R | 6.5 | 3074 | -128 | 
+| 2016-09-07 | 第21回三星火災杯世界囲碁マスターズ1回戦D2 | Byun Sangil | Fan Tingyu | Win | W+R | 6.5 | 3202 | 7 | 
+| 2016-09-06 | 第21回三星火災杯世界囲碁マスターズ1回戦D1 | Li Qincheng | Fan Tingyu | Win | W+R | 6.5 | 3195 | 15 | 
+| 2016-08-23 | 第12期威孚房開杯棋王戦2回戦 | Fan Tingyu | Tao Xinran | Lose | W+R | 7.5 | 3180 | -13 | 
+| 2016-08-22 | 第12期威孚房開杯棋王戦1回戦 | Zhou Ruiyang | Fan Tingyu | Win | W+R | 7.5 | 3193 | -83 | 
+| 2016-07-20 | 第21回三星火災杯統合予選決勝 | Hu Yaoyu | Fan Tingyu | Win | W+R | 6.5 | 3276 | 29 | 
+| 2016-07-19 | 第21回三星火災杯統合予選準決勝 | Park Seunghwa | Fan Tingyu | Win | W+R | 6.5 | 3247 | 120 | 
+| 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Fan Tingyu | Meng Tailing | Win | B+R | 7.5 | 3127 | -14 | 
+| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Peng Quan | Fan Tingyu | Lose | B+R | 7.5 | 3141 | -5 | 
+| 2016-06-25 | 第18回中国囲碁甲級リーグ第10節 | Fan Tingyu |  | Win | B+R | 7.5 | 3146 | -11 | 
+| 2016-06-20 | 第18回中国囲碁甲級リーグ第9節 | Yang Dingxin | Fan Tingyu | Lose | B+R | 7.5 | 3157 | -8 | 
+| 2016-06-16 | 第18回中国囲碁甲級リーグ第8節 | Fan Tingyu | Ke Jie | Lose | W+R | 7.5 | 3165 | 31 | 
+| 2016-06-06 | 第18回中国囲碁甲級リーグ第7節 | Fan Tingyu | Tao Xinran | Win | B+R | 7.5 | 3134 | 18 | 
+| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Hu Yaoyu | Fan Tingyu | Lose | B+R | 7.5 | 3116 | 5 | 
+| 2016-05-22 | 第18回中国囲碁甲級リーグ第6節 | Jiang Qirun | Fan Tingyu | Win | W+R | 7.5 | 3111 | 59 | 
+| 2016-05-18 | 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Fan Tingyu | Gu Li | Lose | W+R | 7.5 | 3052 | -18 | 
+| 2016-05-16 | 第18回中国囲碁甲級リーグ第5節 | Fan Tingyu |  | Win | B+R | 7.5 | 3070 | -23 | 
+| 2016-05-09 | 第18回中国囲碁甲級リーグ第4節 | Fan Tingyu | Zhong Wenjing | Win | B+R | 7.5 | 3093 | 18 | 
+| 2016-04-30 | 第18回中国囲碁甲級リーグ第3節 | Li Qincheng | Fan Tingyu | Lose | B+R | 7.5 | 3075 | 50 | 
+| 2016-04-22 | 第8回応氏杯世界選手権2回戦 | Shi Yue | Fan Tingyu | Lose | B+1 | 7.5 | 3025 | -24 | 
+| 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Fan Tingyu | Liao Yuanhe | Win | B+R | 7.5 | 3049 | 8 | 
+| 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Xie Ke | Fan Tingyu | Win | W+0.5 | 7.5 | 3041 | 24 | 
+| 2016-04-04 | 第21回LG杯予選 | Kim Myounghoon | Fan Tingyu | Lose | B+R | 6.5 | 3017 | -28 | 
+| 2016-03-19 | 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Gu Zihao | Fan Tingyu | Lose | B+R | 7.5 | 3045 | -113 | 
+| 2016-01-15 | 第30期中国囲碁天元戦1回戦 | Xie Erhao | Fan Tingyu | Lose | B+R | 7.5 | 3158 | -12 | 
+| 2015-12-06 | 第17回中国囲碁甲級リーグ第22節 |  | Fan Tingyu | Win | W+R | 7.5 | 3170 | -10 | 
+| 2015-12-04 | 第17回中国囲碁甲級リーグ第21節 | Fan Tingyu | Liao Xingwen | Win | B+R | 7.5 | 3180 | 33 | 
+| 2015-11-13 | 第17回中国囲碁甲級リーグ第20節 | Meng Tailing | Fan Tingyu | Lose | B+1.5 | 7.5 | 3147 | -18 | 
+| 2015-11-08 | 第17回中国囲碁甲級リーグ第19節 | Fan Tingyu | Fan Yunruo | Win | B+R | 7.5 | 3165 | 7 | 
+| 2015-10-30 | 第7期中国竜星戦2回戦 | Lian Xiao | Fan Tingyu | Lose | B+3.5 | 7.5 | 3158 | -3 | 
+| 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 | Fan Tingyu | Lian Xiao | Win | B+R | 7.5 | 3161 | -15 | 
+| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Fan Tingyu |  | Lose | W+R | 7.5 | 3176 | -9 | 
+| 2015-10-12 | 第11期威孚房開杯棋王戦1回戦 | Peng Liyao | Fan Tingyu | Lose | B+7.5 | 7.5 | 3185 | 7 | 
+| 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Chen Yaoye | Fan Tingyu | Lose | B+R | 7.5 | 3178 | 24 | 
+| 2015-09-29 | 第17回中国囲碁甲級リーグ第15節 | Fan Tingyu | Li Zhe | Win | B+R | 7.5 | 3154 | -1 | 
+| 2015-09-27 | 第7期中国竜星戦1回戦 |  | Fan Tingyu | Win | W+0.5 | 7.5 | 3155 | 9 | 
+| 2015-09-24 | 第17回中国囲碁甲級リーグ第14節 | Fan Tingyu | Gu Li | Lose | W+R | 7.5 | 3146 | 0 | 
+| 2015-09-22 | 第3回全国智力運動会囲碁男子団体戦 | Fan Tingyu | Gu Zihao | Lose | W+R | 7.5 | 3146 | -7 | 
+| 2015-09-19 | 第3回全国智力運動会囲碁男子団体戦 | Fan Tingyu | Gong Yanyu | Win | B+R | 7.5 | 3153 | -1 | 
+| 2015-09-18 | 第3回全国智力運動会囲碁男子団体戦 | Fan Tingyu | Fan Yunruo | Win | B+R | 7.5 | 3154 | -32 | 
+| 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Fan Tingyu | Zhou Hexi | Lose | W+2.5 | 7.5 | 3186 | 0 | 
+| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Fan Tingyu | Peng Liyao | Win | B+R | 7.5 | 3186 | -15 | 
+| 2015-08-23 | 第17期阿含・桐山杯中国早碁オープン戦準決勝 | Fan Tingyu | Chen Yaoye | Lose | W+0.5 | 7.5 | 3201 | -18 | 
+| 2015-07-27 | 第17期阿含・桐山杯中国早碁オープン戦2回戦 | Tuo Jiaxi | Fan Tingyu | Win | W+R | 7.5 | 3219 | -6 | 
+| 2015-07-11 | 第17回中国囲碁甲級リーグ第11節 | Fan Tingyu |  | Win | B+R | 7.5 | 3225 | -4 | 
+| 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Tuo Jiaxi | Fan Tingyu | Lose | B+R | 7.5 | 3229 | -24 | 
+| 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 | Chen Xian | Fan Tingyu | Lose | B+3.5 | 7.5 | 3253 | -18 | 
+| 2015-07-02 | 第17期阿含・桐山杯中国早碁オープン戦1回戦 |  | Fan Tingyu | Win | W+6.5 | 7.5 | 3271 | 4 | 
+| 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Fan Tingyu | Meng Tailing | Win | B+R | 7.5 | 3267 | -4 | 
+| 2015-06-25 | 第17回中国囲碁甲級リーグ第8節 | Chang Hao | Fan Tingyu | Win | W+R | 7.5 | 3271 | -73 | 
+| 2015-06-18 | 宝佳適杯中韓新鋭天元戦第2戦 | Baek Chanhee | Fan Tingyu | Win | W+R | 6.5 | 3344 | -31 | 
+| 2015-06-17 | 宝佳適杯中韓新鋭天元戦第1戦 | Fan Tingyu | Lee Donghoon | Lose | W+R | 6.5 | 3375 | -34 | 
+| 2015-06-13 | 第17回中国囲碁甲級リーグ第7節 | Fan Tingyu | Wu Guangya | Lose | W+R | 7.5 | 3409 | -46 | 
+| 2015-05-28 | 第17回中国囲碁甲級リーグ第6節 | Fan Tingyu | Tang Weixing | Win | B+R | 7.5 | 3455 | 23 | 
+| 2015-05-26 | 第2回夢百合杯世界オープン戦予選 | Fan Tingyu | Kim Myounghoon | Win | B+R | 7.5 | 3432 | -1 | 
+| 2015-05-23 | 第2回夢百合杯世界オープン戦予選 |  | Fan Tingyu | Win | W+R | 7.5 | 3433 | 9 | 
+| 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Kong Jie | Fan Tingyu | Win | W+R | 7.5 | 3424 | -1 | 
+| 2015-05-16 | 第17回中国囲碁甲級リーグ第4節 | Yang Kaiwen | Fan Tingyu | Lose | B+3.5 | 7.5 | 3425 | -24 | 
+| 2015-05-14 | 第17回中国囲碁甲級リーグ第3節 | Fan Tingyu | Li Xuanhao | Lose | W+2.5 | 7.5 | 3449 | 16 | 
+| 2015-05-06 | 第28期中国囲碁名人戦1回戦 | Fan Tingyu | Xu Jiayang | Lose | W+2.5 | 7.5 | 3433 | -11 | 
+| 2015-04-29 | 第17回中国囲碁甲級リーグ第2節 | Fan Tingyu | Zhou Hexi | Lose | W+R | 7.5 | 3444 | 41 | 
+| 2015-04-22 | 第17回中国囲碁甲級リーグ第1節 | Fan Tingyu | Peng Liyao | Win | B+R | 7.5 | 3403 | 11 | 
+| 2015-04-07 | 第12期倡棋杯中国プロ囲碁選手権戦3回戦 | Li Qincheng | Fan Tingyu | Lose | B+R | 7.5 | 3392 | 6 | 
+| 2015-04-05 | 第12期倡棋杯中国プロ囲碁選手権戦2回戦 | Zhang Qiang | Fan Tingyu | Win | W+R | 7.5 | 3386 | 0 | 
+| 2015-04-03 | 第12期倡棋杯中国プロ囲碁選手権戦1回戦 | Tan Xiao | Fan Tingyu | Win | W+R | 7.5 | 3386 | -132 | 
+| 2015-01-27 | 第29期中国囲碁天元戦1回戦 | Fan Tingyu | Sun Tengyu | Lose | W+R | 7.5 | 3518 | -28 | 
+| 2015-01-23 | 第15期リコー杯囲碁戦準決勝 | Ke Jie | Fan Tingyu | Lose | B+1.5 | 7.5 | 3546 | 10 | 
+| 2015-01-22 | 第15期リコー杯囲碁戦4回戦 | Fan Tingyu | Piao Wenyao | Win | B+R | 7.5 | 3536 | -4 | 
+| 2015-01-21 | 第15期リコー杯囲碁戦3回戦 | Lian Xiao | Fan Tingyu | Win | W+R | 7.5 | 3540 | 6 | 
+| 2015-01-20 | 第15期リコー杯囲碁戦2回戦 | Fan Tingyu | Dang Yifei | Win | B+R | 7.5 | 3534 | 9 | 
+| 2014-12-26 | 第6期中国竜星戦準決勝 | Tuo Jiaxi | Fan Tingyu | Lose | B+5.5 | 7.5 | 3525 | 44 | 
+| 2014-12-05 | 第6期中国竜星戦3回戦 | Fan Tingyu | Li Qincheng | Win | B+R | 7.5 | 3481 | 2 | 
+| 2014-11-25 | 第16回中国囲碁甲級リーグ第22節 | Fan Tingyu | Zhou Hexi | Win | B+R | 7.5 | 3479 | 8 | 
+| 2014-11-22 | 第16回中国囲碁甲級リーグ第21節 | Yang Kaiwen | Fan Tingyu | Lose | B+R | 7.5 | 3471 | 12 | 
+| 2014-11-17 | 第19回LG杯朝鮮日報棋王戦3回戦 | Choi Cheolhan | Fan Tingyu | Lose | B+R | 6.5 | 3459 | -11 | 
+| 2014-11-11 | 第16回中国囲碁甲級リーグ第20節 | Fan Tingyu | Huang Yunsong | Win | B+R | 7.5 | 3470 | 4 | 
+| 2014-11-09 | 第16回中国囲碁甲級リーグ第19節 | Fan Tingyu | Hu Yaoyu | Lose | W+R | 7.5 | 3466 | 106 | 
+| 2014-10-31 | 第16回中国囲碁甲級リーグ第18節 | Fan Tingyu | Li Xuanhao | Lose | W+0.5 | 7.5 | 3360 | -21 | 
+| 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 | Fan Tingyu |  | Win | B+3.5 | 7.5 | 3381 | 21 | 
+| 2014-10-25 | 第6期中国竜星戦2回戦 | Fan Tingyu | Shi Yue | Win | B+R | 7.5 | 3360 | 5 | 
+| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Wang Haoyang | Fan Tingyu | Win | W+R | 7.5 | 3355 | -4 | 
+| 2014-10-11 | 第10期威孚房開杯棋王戦1回戦 | Fan Tingyu | Xie He | Lose | W+R | 7.5 | 3359 | -60 | 
+| 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Fan Tingyu | Tuo Jiaxi | Lose | W+R | 7.5 | 3419 | -25 | 
+| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Fan Tingyu | Gu Lingyi | Lose | W+R | 7.5 | 3444 | -8 | 
+| 2014-09-12 | 第5回衢州・爛柯杯中国囲棋冠軍戦決勝 | Shi Yue | Fan Tingyu | Win | W+R | 7.5 | 3452 | 38 | 
+| 2014-09-11 | 第5回衢州・爛柯杯中国囲棋冠軍戦準決勝 | Fan Tingyu | Qiu Jun | Win | B+R | 7.5 | 3414 | 20 | 
+| 2014-09-09 | 第5回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Fan Tingyu | Mi Yuting | Win | B+R | 7.5 | 3394 | 10 | 
+| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Zhao Chenyu | Fan Tingyu | Win | W+R | 7.5 | 3384 | -7 | 
+| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Fan Tingyu | Peng Liyao | Lose | W+R | 7.5 | 3391 | -15 | 
+| 2014-09-02 | 第6期中国竜星戦1回戦 | Fan Tingyu | Zhou Heyang | Win | B+R | 7.5 | 3406 | -63 | 
+| 2014-07-28 | 第16期阿含・桐山杯中国早碁オープン戦2回戦 | Jiang Weijie | Fan Tingyu | Lose | B+3.5 | 7.5 | 3469 | -11 | 
+| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Fan Tingyu | Ke Jie | Lose | W+R | 7.5 | 3480 | 39 | 
+| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Fan Tingyu | Zhang Tao | Win | B+R | 7.5 | 3441 | -5 | 
+| 2014-07-07 | 第16期阿含・桐山杯中国早碁オープン戦1回戦 | Fan Tingyu | Meng Tailing | Win | B+R | 7.5 | 3446 | 1 | 
+| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Fan Tingyu | Sun Tengyu | Win | B+R | 7.5 | 3445 | 20 | 
+| 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Fan Tingyu | Xie Erhao | Lose | W+R | 7.5 | 3425 | 15 | 
+| 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Fan Tingyu | Fan Yunruo | Win | B+R | 7.5 | 3410 | -3 | 
+| 2014-06-20 | 第5回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Tang Weixing | Fan Tingyu | Win | W+R | 7.5 | 3413 | 1 | 
+| 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Fan Tingyu | Ke Jie | Win | B+R | 7.5 | 3412 | 10 | 
+| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Fan Tingyu | Wang Xi | Win | B+R | 7.5 | 3402 | 17 | 
+| 2014-06-11 | 第19回LG杯朝鮮日報棋王戦2回戦 | Kang Dongyun | Fan Tingyu | Win | W+R | 6.5 | 3385 | 22 | 
+| 2014-06-09 | 第19回LG杯朝鮮日報棋王戦1回戦 | Lee Sedol | Fan Tingyu | Win | W+R | 6.5 | 3363 | 29 | 
+| 2014-06-05 | 第16回中国囲碁甲級リーグ第6節 | Fan Tingyu |  | Lose | W+R | 7.5 | 3334 | -13 | 
+| 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Fan Tingyu | Wang Haoyang | Win | B+R | 7.5 | 3347 | 21 | 
+| 2014-05-28 | 第11期倡棋杯中国プロ囲碁選手権戦1回戦 | Fan Tingyu | Gu Lingyi | Lose | W+R | 7.5 | 3326 | 50 | 
+| 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Fan Tingyu | Chen Yaoye | Lose | W+2.5 | 7.5 | 3276 | -4 | 
+| 2014-05-18 | 第16回中国囲碁甲級リーグ第3節 | Fan Tingyu | Gu Lingyi | Lose | W+R | 7.5 | 3280 | -13 | 
+| 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Tang Weixing | Fan Tingyu | Win | W+R | 7.5 | 3293 | -9 | 
+| 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Fan Tingyu | Shi Yue | Lose | W+4.5 | 7.5 | 3302 | 4 | 
+| 2014-05-06 | 2014CCTV杯中国囲棋電視快棋戦4回戦 | Fan Tingyu | Li Qincheng | Lose | W+R | 7.5 | 3298 | 0 | 
+| 2014-05-06 | 2014CCTV杯中国囲棋電視快棋戦3回戦 | Zhou Ruiyang | Fan Tingyu | Win | W+R | 7.5 | 3298 | -2 | 
+| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦2回戦 | Fan Tingyu | Wang Lei (b) | Win | B+R | 7.5 | 3300 | 0 | 
+| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Fan Tingyu |  | Win | B+R | 7.5 | 3300 | -116 | 
+| 2014-04-19 | 第19回LG杯予選 | Fan Tingyu | Zhao Chenyu | Win | B+R | 6.5 | 3416 | 10 | 
+| 2014-04-06 | 第27期中国囲碁名人戦2回戦 | Fan Tingyu | Kong Jie | Lose | W+R | 7.5 | 3406 | -13 | 
+| 2014-04-04 | 第27期中国囲碁名人戦1回戦 | Fan Tingyu | Wang Xi | Win | B+R | 7.5 | 3419 | 49 | 
+| 2014-03-26 | 第10回春蘭杯世界囲碁選手権1回戦 | Kono Rin | Fan Tingyu | Lose | B+R | 7.5 | 3370 | -16 | 
+| 2014-03-23 | 第4期招商地産杯中韓囲棋団体対抗戦第2戦 | Na Hyun | Fan Tingyu | Lose | B+R | 7.5 | 3386 | -9 | 
+| 2014-03-21 | 第4期招商地産杯中韓囲棋団体対抗戦第1戦 | Kim Jiseok | Fan Tingyu | Win | W+R | 7.5 | 3395 | 16 | 
+| 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Fan Tingyu | Han Wonggyu | Win | B+3.5 | 7.5 | 3379 | 8 | 
+| 2014-02-17 | 第14期リコー杯囲碁戦3回戦 | Fan Tingyu | Xu Jiayang | Lose | W+R | 7.5 | 3371 | -53 | 
+| 2014-01-19 | 第28期中国囲碁天元戦3回戦 | Shi Yue | Fan Tingyu | Lose | B+R | 7.5 | 3424 | -5 | 
+| 2014-01-17 | 第28期中国囲碁天元戦2回戦 | Fan Tingyu | Peng Liyao | Win | B+R | 7.5 | 3429 | -26 | 
+| 2014-01-15 | 第28期中国囲碁天元戦1回戦 | Fan Tingyu | Liao Xingwen | Win | B+R | 7.5 | 3455 | -21 | 
+| 2013-12-30 | 第14期リコー杯囲碁戦2回戦 | Fan Tingyu | Mao Ruilong | Win | B+R | 7.5 | 3476 | 55 | 
+| 2013-12-16 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Park Junghwan | Fan Tingyu | Lose | B+R | 7.5 | 3421 | -8 | 
+| 2013-12-15 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Fan Tingyu | Fan Hui | Win | B+R | 7.5 | 3429 | 16 | 
+| 2013-12-14 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Fujita Akihiko | Fan Tingyu | Win | W+R | 7.5 | 3413 | -6 | 
+| 2013-12-13 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Fan Tingyu | Zhou Junxun | Win | B+R | 7.5 | 3419 | 2 | 
+| 2013-12-12 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Fan Tingyu |  | Win | B+R | 7.5 | 3417 | 38 | 
+| 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 | Lee Sedol | Fan Tingyu | Lose | B+1.5 | 7.5 | 3379 | 20 | 
+| 2013-11-23 | 第15回中国囲碁甲級リーグ第21節 | Fan Tingyu | Qiu Jun | Lose | W+R | 7.5 | 3359 | -37 | 
+| 2013-11-16 | 第15回中国囲碁甲級リーグ第20節 | Li Kang | Fan Tingyu | Win | W+R | 7.5 | 3396 | 35 | 
+| 2013-11-02 | 第15回中国囲碁甲級リーグ第19節 | Fan Tingyu | Zhou Hexi | Win | B+R | 7.5 | 3361 | 6 | 
+| 2013-10-29 | 第9期威孚房開杯棋王戦3回戦 | Fan Tingyu | Tan Xiao | Lose | W+R | 7.5 | 3355 | 0 | 
+| 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 | Gu Li | Fan Tingyu | Lose | B+R | 7.5 | 3355 | -13 | 
+| 2013-10-25 | 第15回農心辛ラーメン杯世界囲碁最強戦第4戦 | Fan Tingyu | Kang Dongyun | Lose | W+R | 6.5 | 3368 | -5 | 
+| 2013-10-24 | 第15回農心辛ラーメン杯世界囲碁最強戦第3戦 | Anzai Nobuaki | Fan Tingyu | Win | W+R | 6.5 | 3373 | -2 | 
+| 2013-10-23 | 第15回農心辛ラーメン杯世界囲碁最強戦第2戦 | Fan Tingyu |  | Win | B+6.5 | 6.5 | 3375 | 4 | 
+| 2013-10-22 | 第15回農心辛ラーメン杯世界囲碁最強戦第1戦 | Fan Tingyu | Yao Zhiteng | Win | B+R | 6.5 | 3371 | 33 | 
+| 2013-10-20 | 第15回中国囲碁甲級リーグ第17節 | Fan Tingyu | Wang Haoyang | Win | B+R | 7.5 | 3338 | -46 | 
+| 2013-10-13 | 第15回中国囲碁甲級リーグ第16節 | Park Yeonghun | Fan Tingyu | Lose | B+R | 7.5 | 3384 | -163 | 
+| 2013-09-16 | 第15期阿含・桐山杯中国早碁オープン戦決勝 | Fan Tingyu | Lian Xiao | Lose | W+4.5 | 7.5 | 3547 | -44 | 
+| 2013-09-12 | 第15回中国囲碁甲級リーグ第15節 | Fan Tingyu | Huang Yunsong | Win | B+R | 7.5 | 3591 | 38 | 
+| 2013-09-10 | 第5期中国竜星戦2回戦 | Wang Xi | Fan Tingyu | Lose | B+R | 7.5 | 3553 | -6 | 
+| 2013-09-09 | 第5期中国竜星戦1回戦 | Niu Yutian | Fan Tingyu | Win | W+R | 7.5 | 3559 | 4 | 
+| 2013-09-07 | 第15回中国囲碁甲級リーグ第14節 | Fan Tingyu | Li Qincheng | Win | B+3.5 | 7.5 | 3555 | 36 | 
+| 2013-09-01 | 第15回中国囲碁甲級リーグ第13節 | Zhong Wenjing | Fan Tingyu | Lose | B+R | 7.5 | 3519 | -12 | 
+| 2013-08-30 | 第15回中国囲碁甲級リーグ第12節 | Piao Wenyao | Fan Tingyu | Win | W+R | 7.5 | 3531 | -10 | 
+| 2013-08-28 | 第9期威孚房開杯棋王戦2回戦 | Liu Xing | Fan Tingyu | Win | W+R | 7.5 | 3541 | 7 | 
+| 2013-08-27 | 第9期威孚房開杯棋王戦1回戦 | Fan Tingyu | Kong Jie | Win | B+R | 7.5 | 3534 | -23 | 
+| 2013-08-09 | 第15期阿含・桐山杯中国早碁オープン戦2回戦 | Tan Xiao | Fan Tingyu | Win | W+R | 7.5 | 3557 | 127 | 
+| 2013-07-15 | 第15回中国囲碁甲級リーグ第11節 | Fan Tingyu | Lee Sedol | Lose | W+R | 7.5 | 3430 | 48 | 
+| 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 | Tang Weixing | Fan Tingyu | Lose | B+R | 7.5 | 3382 | 39 | 
+| 2013-07-07 | 第15回中国囲碁甲級リーグ第10節 | Qiu Jun | Fan Tingyu | Win | W+R | 7.5 | 3343 | -14 | 
+| 2013-06-29 | 第15期阿含・桐山杯中国早碁オープン戦1回戦 | Fan Tingyu | Wu Guangya | Win | B+1.5 | 7.5 | 3357 | 57 | 
+| 2013-06-22 | 第15回中国囲碁甲級リーグ第9節 | Fan Tingyu | Park Junghwan | Win | B+R | 7.5 | 3300 | 0 | 
+| 2013-06-15 | 第15回中国囲碁甲級リーグ第8節 | Tong Mengcheng | Fan Tingyu | Win | W+R | 7.5 | 3300 | -4 | 
+| 2013-06-10 | 第18回LG杯朝鮮日報棋王戦1回戦 | Kono Rin | Fan Tingyu | Lose | B+R | 6.5 | 3304 | -64 | 
+| 2013-06-02 | 第15回中国囲碁甲級リーグ第7節 | Li Xuanhao | Fan Tingyu | Win | W+R | 7.5 | 3368 | 80 | 
+| 2013-05-29 | 第10期倡棋杯中国プロ囲碁選手権戦2回戦 | Tan Xiao | Fan Tingyu | Lose | B+R | 7.5 | 3288 | 42 | 
+| 2013-05-27 | 第10期倡棋杯中国プロ囲碁選手権戦1回戦 | Huang Yunsong | Fan Tingyu | Win | W+R | 7.5 | 3246 | -65 | 
+| 2013-05-18 | 第15回中国囲碁甲級リーグ第6節 | Guo Yuzheng | Fan Tingyu | Win | W+R | 7.5 | 3311 | 5 | 
+| 2013-05-11 | 第15回中国囲碁甲級リーグ第5節 | Fan Tingyu | Tong Yulin | Win | B+R | 7.5 | 3306 | 2 | 
+| 2013-05-09 | 第15回中国囲碁甲級リーグ第4節 | Tang Weixing | Fan Tingyu | Win | W+R | 7.5 | 3304 | 16 | 
+| 2013-05-04 | 第15回中国囲碁甲級リーグ第3節 | Fan Tingyu | Na Hyun | Lose | W+R | 7.5 | 3288 | -63 | 
+| 2013-04-13 | 第26期中国囲碁名人戦1回戦 | Fan Tingyu | Tong Yulin | Lose | W+R | 7.5 | 3351 | -7 | 
+| 2013-04-07 | 第15回中国囲碁甲級リーグ第2節 | Zhong Wenjing | Fan Tingyu | Win | W+R | 7.5 | 3358 | 4 | 
+| 2013-04-05 | 第15回中国囲碁甲級リーグ第1節 | Piao Wenyao | Fan Tingyu | Win | W+R | 7.5 | 3354 | -36 | 
+| 2013-03-21 | 第3期招商地産杯中韓囲棋団体対抗戦第2戦 | Fan Tingyu | Kim Jiseok | Lose | W+R | 7.5 | 3390 | -15 | 
+| 2013-03-19 | 第3期招商地産杯中韓囲棋団体対抗戦第1戦 | Fan Tingyu | Choi Cheolhan | Lose | W+R | 7.5 | 3405 | -15 | 
+| 2013-03-13 | 2013CCTV杯中国囲棋電視快棋戦2回戦 | Fan Tingyu | Gu Lingyi | Lose | W+R | 7.5 | 3420 | 0 | 
+| 2013-03-13 | 2013CCTV杯中国囲棋電視快棋戦1回戦 |  | Fan Tingyu | Win | W+R | 7.5 | 3420 | 20 | 
+| 2013-03-06 | 第7回応氏杯世界選手権決勝五番勝負第4局 | Fan Tingyu | Park Junghwan | Win | B+5 | 7.5 | 3400 | 6 | 
+| 2013-03-04 | 第7回応氏杯世界選手権決勝五番勝負第3局 | Park Junghwan | Fan Tingyu | Win | W+R | 7.5 | 3394 | 32 | 
+| 2013-02-21 | 第13期リコー杯囲碁戦3回戦 | Fan Tingyu | Zhou Hexi | Lose | W+R | 7.5 | 3362 | -2 | 
+| 2013-01-24 | 第27期中国囲碁天元戦1回戦 | Fan Tingyu | Jiang Weijie | Lose | W+R | 7.5 | 3364 | -2 | 
+| 2013-01-23 | 第27期中国囲碁天元戦予選 | Fan Tingyu | Li Kang | Win | B+R | 7.5 | 3366 | -15 | 
+| 2012-12-29 | 第13期リコー杯囲碁戦2回戦 | Fan Tingyu | Gu Zihao | Win | B+R | 7.5 | 3381 | 9 | 
+| 2012-12-24 | 第7回応氏杯世界選手権決勝五番勝負第2局 | Fan Tingyu | Park Junghwan | Lose | W+R | 7.5 | 3372 | 28 | 
+| 2012-12-22 | 第7回応氏杯世界選手権決勝五番勝負第1局 | Park Junghwan | Fan Tingyu | Win | W+R | 7.5 | 3344 | -33 | 
+| 2012-12-08 | 第14回中国囲碁甲級リーグ第22節 | Fan Tingyu | Huang Chen | Win | B+R | 7.5 | 3377 | 46 | 
+| 2012-12-05 | 第4期中国竜星戦準決勝 | Fan Tingyu | Mao Ruilong | Lose | W+0.5 | 7.5 | 3331 | -10 | 
+| 2012-12-01 | 第14回中国囲碁甲級リーグ第21節 | Weon Seongjin | Fan Tingyu | Lose | B+R | 7.5 | 3341 | -232 | 
+| 2012-11-24 | 第14回中国囲碁甲級リーグ第20節 | Fan Tingyu | Gu Li | Lose | W+0.5 | 7.5 | 3573 | -40 | 
+| 2012-11-21 | 第4期中国竜星戦4回戦 | Tan Xiao | Fan Tingyu | Win | W+0.5 | 7.5 | 3613 | 7 | 
+| 2012-11-19 | 第8期威孚房開杯棋王戦決勝 | Fan Tingyu | Peng Liyao | Lose | W+R | 7.5 | 3606 | -6 | 
+| 2012-11-18 | 第8期威孚房開杯棋王戦準決勝 | Tuo Jiaxi | Fan Tingyu | Win | W+R | 7.5 | 3612 | 33 | 
+| 2012-11-17 | 第8期威孚房開杯棋王戦3回戦 | Fan Tingyu | Zhou Ruiyang | Win | B+R | 7.5 | 3579 | 24 | 
+| 2012-11-10 | 第14回中国囲碁甲級リーグ第19節 | Zhu Yuanhao | Fan Tingyu | Win | W+R | 7.5 | 3555 | 20 | 
+| 2012-11-03 | 第14回中国囲碁甲級リーグ第18節 | Fan Tingyu | Peng Quan | Lose | W+R | 7.5 | 3535 | -16 | 
+| 2012-10-21 | 第14回中国囲碁甲級リーグ第17節 | Fan Tingyu | Kong Jie | Lose | W+0.5 | 7.5 | 3551 | -13 | 
+| 2012-10-19 | 第4期中国竜星戦3回戦 | Zhou Heyang | Fan Tingyu | Win | W+T | 7.5 | 3564 | -5 | 
+| 2012-10-18 | 第4期中国竜星戦2回戦 | Fan Tingyu | He Xin | Win | B+R | 7.5 | 3569 | 19 | 
+| 2012-10-17 | 第4期中国竜星戦1回戦 | Dang Yifei | Fan Tingyu | Win | W+R | 7.5 | 3550 | 7 | 
+| 2012-10-14 | 第8期威孚房開杯棋王戦予選 | Kong Jie | Fan Tingyu | Win | W+R | 7.5 | 3543 | 2 | 
+| 2012-10-13 | 第8期威孚房開杯棋王戦予選 | Wang Lei (s) | Fan Tingyu | Win | W+R | 7.5 | 3541 | 8 | 
+| 2012-10-10 | 第17回三星火災杯世界囲碁マスターズ3回戦 | Choi Cheolhan | Fan Tingyu | Lose | B+R | 6.5 | 3533 | -8 | 
+| 2012-10-09 | 第17回三星火災杯世界囲碁マスターズ2回戦 | Fan Tingyu | Komatsu Hideki | Win | B+R | 6.5 | 3541 | 0 | 
+| 2012-09-30 | 第14回中国囲碁甲級リーグ第16節 | Shi Yue | Fan Tingyu | Lose | B+R | 7.5 | 3541 | -14 | 
+| 2012-09-28 | 第14回中国囲碁甲級リーグ第15節 | Fan Tingyu | Ke Jie | Win | B+R | 7.5 | 3555 | 9 | 
+| 2012-09-26 | 第7回応氏杯世界選手権準決勝三番勝負第3局 | Fan Tingyu | Xie He | Win | B+R | 7.5 | 3546 | 10 | 
+| 2012-09-25 | 第7回応氏杯世界選手権準決勝三番勝負第2局 | Fan Tingyu | Xie He | Win | B+5 | 7.5 | 3536 | 3 | 
+| 2012-09-23 | 第7回応氏杯世界選手権準決勝三番勝負第1局 | Xie He | Fan Tingyu | Lose | B+R | 7.5 | 3533 | -31 | 
+| 2012-09-08 | 第14回中国囲碁甲級リーグ第14節 | Fan Tingyu |  | Win | B+R | 7.5 | 3564 | 18 | 
+| 2012-09-06 | 第17回三星火災杯世界囲碁マスターズ1回戦B3 | Peng Liyao | Fan Tingyu | Win | W+R | 6.5 | 3546 | 2 | 
+| 2012-09-05 | 第17回三星火災杯世界囲碁マスターズ1回戦B2 | Weon Seongjin | Fan Tingyu | Lose | B+R | 6.5 | 3544 | -2 | 
+| 2012-09-04 | 第17回三星火災杯世界囲碁マスターズ1回戦B1 | Na Hyun | Fan Tingyu | Win | W+R | 6.5 | 3546 | 1 | 
+| 2012-09-01 | 第14回中国囲碁甲級リーグ第13節 | Fan Tingyu | Tan Xiao | Win | B+R | 7.5 | 3545 | 3 | 
+| 2012-08-30 | 第14回中国囲碁甲級リーグ第12節 | Fan Tingyu |  | Win | B+R | 7.5 | 3542 | 64 | 
+| 2012-08-19 | 第1回百霊杯世界囲碁選手権2回戦 | Fan Tingyu | Zhou Hexi | Lose | W+0.5 | 7.5 | 3478 | 32 | 
+| 2012-08-04 | 第17回三星火災杯統合予選2回戦 | Fan Tingyu | Kang Yootaek | Win | B+R | 6.5 | 3446 | -67 | 
+| 2012-07-15 | 第14回中国囲碁甲級リーグ第11節 | Choi Cheolhan | Fan Tingyu | Lose | B+R | 7.5 | 3513 | -15 | 
+| 2012-07-13 | 第14回中国囲碁甲級リーグ第10節 | Fan Tingyu | Weon Seongjin | Lose | W+R | 7.5 | 3528 | -50 | 
+| 2012-07-09 | 2012CCTV杯中国囲棋電視快棋戦1回戦 | Fan Tingyu |  | Lose | W+R | 7.5 | 3578 | -34 | 
+| 2012-07-07 | 第14回中国囲碁甲級リーグ第9節 | Fan Tingyu | Wang Xi | Win | B+R | 7.5 | 3612 | 44 | 
+| 2012-06-30 | 第14回中国囲碁甲級リーグ第8節 | Qiu Jun | Fan Tingyu | Lose | B+R | 7.5 | 3568 | 23 | 
+| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Fan Tingyu |  | Lose | W+R | 7.5 | 3545 | -44 | 
+| 2012-06-23 | 第14回中国囲碁甲級リーグ第7節 | Fan Tingyu | Cho Hanseung | Lose | W+R | 7.5 | 3589 | -31 | 
+| 2012-06-14 | 第14回中国囲碁甲級リーグ第6節 | Kong Jie | Fan Tingyu | Win | W+R | 7.5 | 3620 | -36 | 
+| 2012-06-09 | 第14回中国囲碁甲級リーグ第5節 | Fan Tingyu | Shi Yue | Win | B+R | 7.5 | 3656 | 75 | 
+| 2012-05-30 | 第14回中国囲碁甲級リーグ第4節 | Ke Jie | Fan Tingyu | Win | W+R | 7.5 | 3581 | 5 | 
+| 2012-05-27 | 第7回応氏杯世界選手権3回戦 | Fan Tingyu | Tan Xiao | Win | B+R | 7.5 | 3576 | 22 | 
+| 2012-05-25 | 第7回応氏杯世界選手権2回戦 | Fan Tingyu | Lee Sedol | Win | B+R | 7.5 | 3554 | -30 | 
+| 2012-05-23 | 第7回応氏杯世界選手権1回戦 | Fan Tingyu | Takao Shinji | Win | B+3 | 7.5 | 3584 | 18 | 
+| 2012-05-19 | 第9期倡棋杯中国プロ囲碁選手権戦予選 | Fan Tingyu | Li Xuanhao | Lose | W+3 | 7.5 | 3566 | -106 | 
+| 2012-05-07 | 第14回中国囲碁甲級リーグ第3節 | Liu Xing | Fan Tingyu | Lose | B+1.5 | 7.5 | 3672 | -8 | 
+| 2012-05-03 | 第19期建橋杯中国囲碁新人王戦決勝三番勝負第2局 | Huang Yunsong | Fan Tingyu | Win | W+R | 7.5 | 3680 | -23 | 
+| 2012-05-02 | 第19期建橋杯中国囲碁新人王戦決勝三番勝負第1局 | Fan Tingyu | Huang Yunsong | Win | B+R | 7.5 | 3703 | 19 | 
+| 2012-04-30 | 第14回中国囲碁甲級リーグ第2節 | Tan Xiao | Fan Tingyu | Win | W+R | 7.5 | 3684 | -2 | 
+| 2012-04-28 | 第14回中国囲碁甲級リーグ第1節 | Fan Tingyu | Li Kang | Win | B+R | 7.5 | 3686 | 24 | 
+| 2012-04-24 | 第17回LG杯予選 | Fan Tingyu | Na Hyun | Lose | W+R | 6.5 | 3662 | -22 | 
+| 2012-04-02 | 第25期中国囲碁名人戦予選 | Li He | Fan Tingyu | Lose | B+R | 7.5 | 3684 | -32 | 
+| 2012-03-28 | 第19期建橋杯中国囲碁新人王戦準決勝 | Tao Xinran | Fan Tingyu | Win | W+R | 7.5 | 3716 | 20 | 
+| 2012-03-25 | 第2期招商地産杯中韓囲棋団体対抗戦第2戦 | Choi Cheolhan | Fan Tingyu | Lose | B+R | 7.5 | 3696 | 0 | 
+| 2012-03-23 | 第2期招商地産杯中韓囲棋団体対抗戦第1戦 | Fan Tingyu | Kim Jiseok | Win | B+1.5 | 7.5 | 3696 | 15 | 
+| 2012-03-21 | 第19期建橋杯中国囲碁新人王戦3回戦 |  | Fan Tingyu | Win | W+R | 7.5 | 3681 | 11 | 
+| 2012-03-20 | 第19期建橋杯中国囲碁新人王戦2回戦 | Tong Mengcheng | Fan Tingyu | Win | W+R | 7.5 | 3670 | 2 | 
+| 2012-03-19 | 第19期建橋杯中国囲碁新人王戦1回戦 |  | Fan Tingyu | Win | W+R | 7.5 | 3668 | -3 | 
+| 2012-03-17 | 第4回BCカード杯世界選手権2回戦 | Gu Li | Fan Tingyu | Lose | B+R | 6.5 | 3671 | -33 | 
+| 2012-03-14 | 第1回百霊杯世界囲碁選手権1回戦 | Fan Tingyu | Wang Lei (s) | Win | B+R | 7.5 | 3704 | 23 | 
+| 2012-03-12 | 第1回百霊杯世界囲碁選手権予選 | Kim Jiseok | Fan Tingyu | Win | W+R | 7.5 | 3681 | -45 | 
+| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Kim Miri | Fan Tingyu | Win | W+R | 6.5 | 3726 | -13 | 
+| 2012-02-29 | 第4回BCカード杯世界選手権統合予選決勝 | Fan Tingyu | Lee Yeongkyu | Win | B+1.5 | 6.5 | 3739 | 78 | 
+| 2012-02-09 | 第26期中国囲碁天元戦予選 | Gu Lingyi | Fan Tingyu | Lose | B+R | 7.5 | 3661 | -30 | 
+| 2012-02-06 | 第12期リコー杯囲碁戦4回戦 | Fan Tingyu | Yang Dingxin | Lose | W+2.5 | 7.5 | 3691 | 40 | 
+| 2012-01-12 | 第12期リコー杯囲碁戦3回戦 | Fan Tingyu | Niu Yutian | Win | B+1.5 | 7.5 | 3651 | -15 | 
+| 2011-12-30 | 第12期リコー杯囲碁戦2回戦 | Fan Tingyu | Qiu Jun | Win | B+R | 7.5 | 3666 | 11 | 
+| 2011-12-29 | 第12期リコー杯囲碁戦1回戦 | Qiu Jinbo | Fan Tingyu | Win | W+R | 7.5 | 3655 | 2 | 
+| 2011-12-26 | 第13回中国囲碁甲級リーグ第22節 | Fan Tingyu | Shi Yue | Win | B+R | 7.5 | 3653 | 369 | 
+| 2011-11-29 | 第13回中国囲碁甲級リーグ第21節 | Li Xuanhao | Fan Tingyu | Lose | B+R | 7.5 | 3284 | -1 | 
+| 2011-11-26 | 第13回中国囲碁甲級リーグ第20節 | Wu Guangya | Fan Tingyu | Win | W+R | 7.5 | 3285 | 45 | 
+| 2011-11-05 | 第13回中国囲碁甲級リーグ第19節 | Fan Tingyu | Qiu Jun | Lose | W+R | 7.5 | 3240 | -46 | 
+| 2011-10-29 | 第13回中国囲碁甲級リーグ第18節 | Lee Yeongkyu | Fan Tingyu | Win | W+R | 7.5 | 3286 | -11 | 
+| 2011-10-13 | 第13回中国囲碁甲級リーグ第17節 | Fan Tingyu | Niu Yutian | Win | B+R | 7.5 | 3297 | -5 | 
+| 2011-10-08 | 第13回中国囲碁甲級リーグ第16節 | Cho Hanseung | Fan Tingyu | Win | W+R | 7.5 | 3302 | -2 | 
+| 2011-09-29 | 第13回中国囲碁甲級リーグ第15節 | Fan Tingyu | Chen Yaoye | Lose | W+R | 7.5 | 3304 | 46 | 
+| 2011-09-10 | 第13回中国囲碁甲級リーグ第14節 | Tan Xiao | Fan Tingyu | Win | W+R | 7.5 | 3258 | 36 | 
+| 2011-09-06 | 第13回中国囲碁甲級リーグ第13節 | Fan Tingyu | Choi Cheolhan | Lose | W+R | 7.5 | 3222 | -15 | 
+| 2011-09-04 | 第13回中国囲碁甲級リーグ第12節 | Zhou Ruiyang | Fan Tingyu | Win | W+R | 7.5 | 3237 | 20 | 
+| 2011-07-14 | 第13回中国囲碁甲級リーグ第11節 | Li Zhe | Fan Tingyu | Win | W+R | 7.5 | 3217 | 9 | 
+| 2011-07-09 | 第13回中国囲碁甲級リーグ第10節 | Fan Tingyu | Gu Li | Win | B+R | 7.5 | 3208 | -26 | 
+| 2011-07-02 | 第13回中国囲碁甲級リーグ第9節 | Fan Tingyu | Wu Guangya | Win | B+3.5 | 7.5 | 3234 | -115 | 
+| 2011-06-25 | 第13回中国囲碁甲級リーグ第8節 | Chang Hao | Fan Tingyu | Win | W+R | 7.5 | 3349 | -35 | 
+| 2011-06-18 | 第13回中国囲碁甲級リーグ第7節 | Fan Tingyu | Lee Yeongkyu | Lose | W+R | 7.5 | 3384 | -43 | 
+| 2011-06-09 | 第13回中国囲碁甲級リーグ第6節 | Ding Wei | Fan Tingyu | Win | W+2.5 | 7.5 | 3427 | 21 | 
+| 2011-05-28 | 第13回中国囲碁甲級リーグ第5節 |  | Fan Tingyu | Win | W+R | 7.5 | 3406 | 14 | 
+| 2011-05-25 | 第8期倡棋杯中国プロ囲碁選手権戦予選 | Fan Tingyu | Li Kang | Lose | W+1 | 7.5 | 3392 | -18 | 
+| 2011-05-23 | 第8期倡棋杯中国プロ囲碁選手権戦予選 | Li He | Fan Tingyu | Win | W+R | 7.5 | 3410 | 4 | 
+| 2011-05-21 | 第13回中国囲碁甲級リーグ第4節 | Chen Yaoye | Fan Tingyu | Lose | B+R | 7.5 | 3406 | -12 | 
+| 2011-05-14 | 第13回中国囲碁甲級リーグ第3節 | Fan Tingyu | Tan Xiao | Win | B+3.5 | 7.5 | 3418 | 16 | 
+| 2011-05-09 | 第13回中国囲碁甲級リーグ第2節 | Choi Cheolhan | Fan Tingyu | Win | W+2.5 | 7.5 | 3402 | 30 | 
+| 2011-05-07 | 第13回中国囲碁甲級リーグ第1節 | Fan Tingyu | Zhou Ruiyang | Lose | W+R | 7.5 | 3372 | -24 | 
+| 2011-03-25 | 第24期中国囲碁名人戦1回戦 | Xie He | Fan Tingyu | Lose | B+R | 7.5 | 3396 | -8 | 
+| 2011-03-23 | 第24期中国囲碁名人戦予選 | Wu Guangya | Fan Tingyu | Win | W+R | 7.5 | 3404 | -67 | 
+| 2011-03-18 | 第18期建橋杯中国囲碁新人王戦決勝三番勝負第2局 | Fan Tingyu | Mao Ruilong | Win | B+R | 7.5 | 3471 | 2 | 
+| 2011-03-17 | 第18期建橋杯中国囲碁新人王戦決勝三番勝負第1局 | Mao Ruilong | Fan Tingyu | Win | W+0.5 | 7.5 | 3469 | 1 | 
+| 2011-03-14 | 2011CCTV杯中国囲棋電視快棋戦1回戦 | Fan Tingyu | Peng Quan | Lose | W+R | 7.5 | 3468 | 2 | 
+| 2011-03-09 | 第3期中国竜星戦2回戦 | Fan Tingyu | Zhou Ruiyang | Lose | W+R | 7.5 | 3466 | -7 | 
+| 2011-02-24 | 第18期建橋杯中国囲碁新人王戦準決勝 | Wu Guangya | Fan Tingyu | Win | W+R | 7.5 | 3473 | 9 | 
+| 2011-02-22 | 第18期建橋杯中国囲碁新人王戦3回戦 | Fan Tingyu | Sun Li | Win | B+R | 7.5 | 3464 | 8 | 
+| 2011-02-20 | 第18期建橋杯中国囲碁新人王戦1回戦 | Pan Fei | Fan Tingyu | Win | W+R | 7.5 | 3456 | 61 | 
+| 2011-02-12 | 第25期中国囲碁天元戦予選 | Fan Tingyu | Wang Yao | Lose | W+0.5 | 7.5 | 3395 | 212 | 
+| 2010-12-18 | 第12回中国囲碁甲級リーグ第22節 | Fan Tingyu | Li Kang | Win | B+R | 7.5 | 3183 | 29 | 
+| 2010-12-11 | 第12回中国囲碁甲級リーグ第21節 | Yu Bin | Fan Tingyu | Win | W+2.5 | 7.5 | 3154 | 38 | 
+| 2010-12-07 | 第11期リコー杯囲碁戦1回戦 | Fan Tingyu | Meng Tailing | Lose | W+R | 7.5 | 3116 | -2 | 
+| 2010-12-04 | 第12回中国囲碁甲級リーグ第20節 | Fan Tingyu | Hu Yaoyu | Lose | W+R | 7.5 | 3118 | -82 | 
+| 2010-11-16 | 第12回中国囲碁甲級リーグ第19節 | Li Zhe | Fan Tingyu | Lose | B+R | 7.5 | 3200 | -30 | 
+| 2010-11-04 | 第12回中国囲碁甲級リーグ第18節 | Fan Tingyu | Huang Chen | Win | B+R | 7.5 | 3230 | 11 | 
+| 2010-10-30 | 第12回中国囲碁甲級リーグ第17節 | Wang Lei (s) | Fan Tingyu | Win | W+R | 7.5 | 3219 | -9 | 
+| 2010-10-21 | 第12回中国囲碁甲級リーグ第16節 | Kong Jie | Fan Tingyu | Win | W+R | 7.5 | 3228 | 15 | 
+| 2010-10-16 | 第12回中国囲碁甲級リーグ第15節 | Sun Li | Fan Tingyu | Win | W+R | 7.5 | 3213 | 35 | 
+| 2010-10-09 | 第12回中国囲碁甲級リーグ第14節 | Fan Tingyu | Li Jie | Win | B+R | 7.5 | 3178 | 85 | 
+| 2010-07-15 | 第12回中国囲碁甲級リーグ第11節 | Li Kang | Fan Tingyu | Lose | B+R | 7.5 | 3093 | -44 | 
+| 2010-07-03 | 第12回中国囲碁甲級リーグ第9節 | Chang Hao | Fan Tingyu | Win | W+R | 7.5 | 3137 | 21 | 
+| 2010-06-19 | 第12回中国囲碁甲級リーグ第8節 | Fan Tingyu | Wang Lei (b) | Win | B+R | 7.5 | 3116 | 100 | 
+| 2010-06-12 | 第12回中国囲碁甲級リーグ第7節 | Tao Xinran | Fan Tingyu | Win | W+R | 7.5 | 3016 | -24 | 
+| 2010-05-29 | 第12回中国囲碁甲級リーグ第5節 | Fan Tingyu | Zhong Wenjing | Lose | W+R | 7.5 | 3040 | -12 | 
+| 2010-05-15 | 第12回中国囲碁甲級リーグ第4節 | Sun Li | Fan Tingyu | Win | W+4.5 | 7.5 | 3052 | 45 | 
+| 2010-04-29 | 第12回中国囲碁甲級リーグ第2節 | Fan Tingyu | Peng Quan | Lose | W+R | 7.5 | 3007 | -34 | 
+| 2010-04-25 | 第12回中国囲碁甲級リーグ第1節 | Fan Tingyu | Jiang Weijie | Win | B+R | 7.5 | 3041 | -12 | 
+| 2010-03-18 | 第17期建橋杯中国囲碁新人王戦決勝三番勝負第2局 | Fan Tingyu |  | Win | B+R | 7.5 | 3053 | 8 | 
+| 2010-03-16 | 第17期建橋杯中国囲碁新人王戦決勝三番勝負第1局 |  | Fan Tingyu | Win | W+R | 7.5 | 3045 | 46 | 
+| 2010-02-26 | 第17期建橋杯中国囲碁新人王戦準決勝 | Lian Xiao | Fan Tingyu | Win | W+R | 7.5 | 2999 | 31 | 
+| 2010-02-25 | 第17期建橋杯中国囲碁新人王戦3回戦 | Zhu Yuanhao | Fan Tingyu | Win | W+R | 7.5 | 2968 | 179 | 
+| 2010-01-25 | 第4期リコー杯新秀戦2回戦 | Fan Tingyu |  | Lose | W+R | 7.5 | 2789 | -119 | 
+| 2010-01-21 | 第24期中国囲碁天元戦予選 |  | Fan Tingyu | Lose | B+R | 7.5 | 2908 | -86 | 
+| 2010-01-20 | 第24期中国囲碁天元戦予選 | Zhang Tao | Fan Tingyu | Win | W+10.5 | 7.5 | 2994 | 22 | 
+| 2010-01-19 | 第24期中国囲碁天元戦予選 | Qin Yuexin | Fan Tingyu | Win | W+0.5 | 7.5 | 2972 | -27 | 
+| 2009-12-30 | 第10期リコー杯囲碁戦2回戦 | Fan Tingyu | Wang Yao | Lose | W+R | 7.5 | 2999 | -120 | 
+| 2009-12-29 | 第4期リコー杯新秀戦1回戦 | Fan Tingyu |  | Win | B+R | 7.5 | 3119 | 129 | 
+| 2009-12-28 | 第10期リコー杯囲碁戦1回戦 | Fan Tingyu | Wang Chenxing | Win | B+R | 7.5 | 2990 | -78 | 
+| 2009-12-20 | 第4期リコー杯新秀戦予選 | Qiu Jinbo | Fan Tingyu | Win | W+R | 7.5 | 3068 | 284 | 
+| 2009-03-06 | 第22期中国囲碁名人戦予選 | Fan Tingyu | Tao Xinran | Lose | W+0.5 | 7.5 | 2784 | -58 | 
+| 2009-03-05 | 第22期中国囲碁名人戦予選 | Fan Tingyu |  | Win | B+R | 7.5 | 2842 | 2842 | 
+| 2009-03-04 | 第22期中国囲碁名人戦予選 | Fan Tingyu |  | Win | B+5.5 | 7.5 | missing | 0 | 
+| 2009-03-03 | 第22期中国囲碁名人戦予選 |  | Fan Tingyu | Win | W+R | 7.5 | missing | 0 | 
+| 2008-12-18 | 第3期リコー杯新秀戦予選 | Fang Hao | Fan Tingyu | Lose | B+R | 7.5 | missing | 0 | 
+| 2008-12-16 | 第3期リコー杯新秀戦予選 | Fan Tingyu |  | Win | B+R | 7.5 | missing | 0 | 
+| 2008-09-16 | 2008年全国囲棋個人戦男子組第3戦 | Fan Tingyu |  | Win | B+1.5 | 7.5 | missing | missing |
 
 
 

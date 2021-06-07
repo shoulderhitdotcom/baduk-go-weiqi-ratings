@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Wu Guangya | Win | B+R | 7.5 | 3385 | 11 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20決勝 | Tu Xiaoyu | Wang Xinghao | Win | W+R | 6.5 | 3374 | 0 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20準決勝 | Wang Xinghao | Moon Minjong | Win | B+R | 6.5 | 3374 | 0 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20準々決勝 | Wang Xinghao |  | Win | B+R | 6.5 | 3374 | 27 | 

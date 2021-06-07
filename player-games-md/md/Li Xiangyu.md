@@ -5,135 +5,136 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第23回中国囲碁甲級リーグ | Xu Haohong | Li Xiangyu | B+R | 2021-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hyRwC3TFFJOsCB8QKRzLgg%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Li Xiangyu | Wang Zejin | B+¾ | 2021-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YE6kbyf4DvZHzA1y4b3RHw%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Rong Yi | Li Xiangyu | B+R | 2021-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YjZb4ZpoazMeYXHsG1UNBQ%3D%3D) | 
-| 第20回西南棋王戦2回戦 | Li Xiangyu | Tang Weixing | W+R | 2021-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bBRjh1kMWhn7XRCU%2FJzGOg%3D%3D) | 
-| 第20回西南棋王戦1回戦 | Li Xiangyu | Chang Hao | B+R | 2021-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TpDWJ8SxvcQ6FcBvnERm7w%3D%3D) | 
-| 2021年龍華杯深圳市囲碁戦 | Li Xiangyu | Dang Yifei | W+R | 2021-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W3n87Wpi0rJnqCi%2BwldQbg%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Mi Yuting | W+R | 2020-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UT%2BjMulSowpHcbY3ei3qiw%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Li Xiangyu | B+R | 2020-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=06TJguSxY6SdP5Qv5bXGhQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Peng Liyao | B+R | 2020-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AAdFS4%2BfGkhfNWRC%2FLQN3w%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Tuo Jiaxi | W+R | 2020-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fi2RYzaMoB3ZqhuI%2B03OOQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Li Xiangyu | B+R | 2020-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lEbyQ7d0R8z66c3wINxoIg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Li Xiangyu | Tuo Jiaxi | B+R | 2020-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J%2FjJ2Xdf0JxOHmWX8lkkAA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Li Xiangyu | W+¼ | 2020-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MhNbxcc6SKPnc0LSBiBobw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Li Xiangyu | Hu Yaoyu | B+1¾ | 2020-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m7H1YcNb9rVOuOYkxmYC8w%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Li Xiangyu | Lee Donghoon | W+R | 2020-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AR6MU4r3l16JUpXcozSu4A%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Tan Xiao | Li Xiangyu | B+R | 2020-12-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K2l9nzvAvW6wYXqPnQrjgA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Li Xiangyu | Tu Xiaoyu | B+¾ | 2020-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Lzq0Lm9tIP3QGBlXAlPAQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第8節 | Li Xiangyu | missing | B+R | 2020-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AUqFHHPK0DAw4j1YzbaUqw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第7節 | Li Xiangyu | Gu Lingyi | B+R | 2020-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zNrHm%2BvDIm7e5q9EM3Wpag%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第5節 | Cao Xiaoyang | Li Xiangyu | B+R | 2020-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2C3cUxTL1hvnKtZspJ5OGA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第2節 | Rong Yi | Li Xiangyu | B+R | 2020-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pb%2BCEL%2BH3OuEqKrIZPQ0HA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第1節 | Li Xiangyu | Zhao Chenyu | W+R | 2020-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FDO2T5swa%2Bon%2Bsd7ncjIVQ%3D%3D) | 
-| 第4回全国智力運動会男子団体戦第7戦 | Huang Xin | Li Xiangyu | W+R | 2019-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YFGjQILjzJmfTmVHACDjCw%3D%3D) | 
-| 第4回全国智力運動会大学生個人戦第9戦 | Rong Yi | Li Xiangyu | W+R | 2019-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=urKK2Rn7VLY5bN5uWa234A%3D%3D) | 
-| 第4回Mlily夢百合杯世界囲碁オープン戦32強戦 | Park Junghwan | Li Xiangyu | B+R | 2019-10-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BMFamQ6Mj0ykCqC8SoVrSA%3D%3D) | 
-| 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Jiang Mingjiu | Li Xiangyu | W+R | 2019-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oHPWdwNZ15gwjHLq%2Fio6Kw%3D%3D) | 
-| 2019年全国囲棋個人戦男子組第11戦 | Qin Yuexin | Li Xiangyu | W+R | 2019-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=orFKaS9tyWJ1XL%2FJZWlwfg%3D%3D) | 
-| 2019年全国囲棋個人戦男子組第3戦 | missing | Li Xiangyu | B+R | 2019-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1d50dJtO03ZGoO0masAzgA%3D%3D) | 
-| 2019年全国囲棋個人戦男子組第1戦 | missing | Li Xiangyu | W+R | 2019-09-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dxBtEgzhzmE0RWONXzy3fw%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ1回戦第1戦 | Li Xiangyu | Kim Jiseok | W+R | 2019-09-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Je6mLAAoBXMgjamQ%2F8oD2A%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第13節 | Li Xiangyu | Zhao Chenyu | W+R | 2019-08-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=78TVbi%2F56B0Z0P8OPA44Hg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第12節 | Shen Peiran | Li Xiangyu | B+R | 2019-08-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BAqFLK7WOyaT1rDxrVIsOQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第11節 | Li Xiangyu | Tan Xiao | W+R | 2019-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hpVSKrASgSSjKlNWysPFkQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第10節 | Kang Dongyun | Li Xiangyu | B+R | 2019-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xCQVr9hI19dbv3uMNPHq%2Fw%3D%3D) | 
-| 第24回三星火災杯統合予選1回戦 | Li Xiangyu | Park Jinsol | W+R | 2019-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wZCBzM5SsxUpSe9wO6ix%2BA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第8節 | Li Xiangyu | missing | W+R | 2019-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yvSieEQ8tOq13O25ajfUjA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第7節 | Li Xiangyu | Kim Myounghoon | B+R | 2019-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2krGG31l7gmNO1w8%2BMLurg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第5節 | Fan Yin | Li Xiangyu | B+R | 2019-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XmROzfGG65rC%2BtYRCpMWjw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第4節 | Li Xiangyu | Wu Guangya | W+R | 2019-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OAL1RQ9QKlQNpVqYGieTDA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第3節 | Wang Zejin | Li Xiangyu | W+R | 2019-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LgroBK2lae0CMFsoNmoQBQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第2節 | Li Xiangyu | Yi Lingtao | W+R | 2019-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4SnCEoAXFSK%2Fp6G34Sx%2BOg%3D%3D) | 
-| 第10期中国竜星戦予選 | Jiang Weijie | Li Xiangyu | B+R | 2019-03-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5PCmUJns9UAhAX8uQXgaPA%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦予選決勝 | Li Xiangyu | Yang Kaiwen | W+R | 2019-03-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B6LYU73VjuUqV%2FOa2U%2F0eQ%3D%3D) | 
-| 第23回三星火災杯世界囲碁マスターズ2回戦 | Shin Jinseo | Li Xiangyu | B+R | 2018-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BZCKeZY6af1sFnqvTSxo6Q%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第17節江西-中信 | Li Xiangyu | Chen Yaoye | W+¼ | 2018-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OTpdg1y7Qggs1tzBzTKwEQ%3D%3D) | 
-| 2018年全国囲棋個人戦男子組第9戦 | Li Xiangyu | Yi Lingtao | B+R | 2018-09-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MY1U0DAfrGo5jzRLe5Dl%2Fg%3D%3D) | 
-| 2018年全国囲棋個人戦男子組第8戦 | Li Xiangyu | Liu Qifeng | B+R | 2018-09-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PkO7H0JmFF7dR7Ajpt0VjQ%3D%3D) | 
-| 2018年全国囲棋個人戦男子組第7戦 | Liu Yuhang | Li Xiangyu | W+R | 2018-09-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m040VJqS9S7ylmjBV9k96w%3D%3D) | 
-| 2018年全国囲棋個人戦男子組第2戦 | Jiang Qirun | Li Xiangyu | B+R | 2018-09-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gs7R3rrFyy2AVnygQGfTEQ%3D%3D) | 
-| 第23回三星火災杯世界囲碁マスターズ1回戦H3 | Li Xiangyu | Ryu Shikun | B+1.5 | 2018-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5YRsO4orcuGrSbc6SzeoHA%3D%3D) | 
-| 第23回三星火災杯世界囲碁マスターズ1回戦H2 | Shin Jinseo | Li Xiangyu | B+R | 2018-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6paSr%2FB5wiGLeydzCeXWyg%3D%3D) | 
-| 第23回三星火災杯世界囲碁マスターズ1回戦H1 | Li Xiangyu | Ryu Shikun | B+1.5 | 2018-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wTw0JSM2KRYwKOy0fForaw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第13節山東-江西 | Yi Lingtao | Li Xiangyu | B+R | 2018-08-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3j72gqM%2Be%2BKYXQh6KnBuGQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第12節江西-衢州 | Li Xiangyu | missing | B+¾ | 2018-08-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=45Ot%2BFdtw8DpwZYgrhTk2Q%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第10節江西-蘇泊爾 | Li Xiangyu | Li Qincheng | W+R | 2018-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VACoQmXKJ6bFLW%2FT4yCudQ%3D%3D) | 
-| 第23回三星火災杯統合予選準決勝 | Kim Sonjin | Li Xiangyu | W+R | 2018-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kCy7FjdVv6qZ8%2BKQ%2FSqnbA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第9節江蘇-江西 | Huang Yunsong | Li Xiangyu | W+R | 2018-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LKhNFbO8GmZbhxesRgF1AA%3D%3D) | 
-| 第15期倡棋杯中国プロ囲棋選手権戦予選決勝 | Li Xiangyu | missing | W+R | 2018-03-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rBtEDOH7CCZxbGlMFPw%2FdQ%3D%3D) | 
-| 第17回西南棋王戦1回戦 | Tang Weixing | Li Xiangyu | B+R | 2018-03-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K%2Be8sAaxhPw2c6ptNA6anw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第26節 | Xie Erhao | Li Xiangyu | B+R | 2017-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W9T99dts4g%2BbGxhgJ4TNRA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第25節 | Li Xiangyu | Tong Mengcheng | B+R | 2017-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aZwnYd34Ay2vkuJ0ekOImA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第24節 | missing | Li Xiangyu | B+R | 2017-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3X%2BCQeiNHQVoxFXg%2FDq8Zg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第23節 | Li Xiangyu | Fan Tingyu | W+R | 2017-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qG6Di5ZV0mffLgLdGOP2oQ%3D%3D) | 
-| 2017年全国囲棋個人戦男子組第9戦 | Li Xiangyu | Zhang Qiang | W+R | 2017-09-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oPkWgY8jZyEnPo20eht41A%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第17節 | Gu Li | Li Xiangyu | B+R | 2017-09-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0fcsbg887YDhA%2BC3gBLSpg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第16節 | Li Xiangyu | Li Qincheng | W+R | 2017-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s9mXc1Y7vni1TgM4n1vEEA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第15節 | Liao Yuanhe | Li Xiangyu | B+R | 2017-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ccmfDvM5G65PdGR3Fo%2Fjzw%3D%3D) | 
-| 2017中国国家青年隊選抜戦7回戦 | Li Xiangyu | Wu Guangya | W+R | 2017-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ldLu0gLCDGLcPU9IOOZ7Yw%3D%3D) | 
-| 2017中国国家青年隊選抜戦6回戦 | Xu Jiayang | Li Xiangyu | B+R | 2017-08-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZCFnfcIxUQSS5cWsMAsLjQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第14節 | Li Xiangyu | Yang Kaiwen | W+R | 2017-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oUfXar1sNAO8xdIWQ88gxg%3D%3D) | 
-| 2017年利民杯世界囲碁星鋭最強戦第2ステージ決勝 | Li Xiangyu | Song Jihoon | W+0.5 | 2017-08-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=apadw7Pfo5j5s1K2Qjc%2FAQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第13節 | Li Xiangyu | Wang Zejin | B+R | 2017-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JBUaQk3NfapXLaLcpK2wVg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第12節 | Huang Yunsong | Li Xiangyu | B+R | 2017-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FgFWSJfqAE2xXVX0%2Fd%2BrJg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第11節 | Li Xiangyu | Chen Xian | W+R | 2017-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8lV4ctPbsVgbaUxvmt5W%2BA%3D%3D) | 
-| 嫘祖杯30回中国名人戦新浪網選2回戦 | Hou Jingzhe | Li Xiangyu | B+R | 2017-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FPYQ0XyiU%2FX7S3QVOHuG0Q%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第10節 | Zhou Ruiyang | Li Xiangyu | B+R | 2017-07-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IzcQi147WTkMeWnVzAouVg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第9節 | Li Xiangyu | Fan Yin | B+R | 2017-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uwigQjD5L%2BRoJrzog46tow%3D%3D) | 
-| 第3回夢百合杯世界オープン戦1回戦 | Li Xiangyu | Li Zhe | W+0.5 | 2017-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z2PAIooznGGYaQgG7FZP5g%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第7節 | Li Xiangyu | Han Yizhou | W+R | 2017-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yyy0KhtcI%2FZbHHc4ka0WJA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第6節 | Li Weiqing | Li Xiangyu | B+R | 2017-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sWYJoUzzVCOGFcWLFk1jnQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第5節 | missing | Li Xiangyu | W+R | 2017-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WcSJ%2FQOkGwpLF%2BEkOSJ5hQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第4節 | Li Xiangyu | Li Xuanhao | B+R | 2017-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O8gOcWVJkcbviptDulywdA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第3節 | Xie Ke | Li Xiangyu | W+R | 2017-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LVAaaWTrrUZEULSVs5jqdw%3D%3D) | 
-| 第19期中国阿含桐山杯本選3回戦 | Li Xiangyu | Wang Zejin | W+R | 2017-04-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b9o3abuvFyn9S1rcSmFI2g%3D%3D) | 
-| 第22期LG杯世界予選準決勝 | Kim Myounghoon | Li Xiangyu | B+R | 2017-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J3AszC%2BTb%2Bk7fLUfh0sGqg%3D%3D) | 
-| 第16回西南棋王戦1回戦 | Gu Li | Li Xiangyu | W+R | 2017-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FBIKHZFzK4F0YQEuW1sT6A%3D%3D) | 
-| 第16回西南棋王戦2回戦 | Tan Xiao | Li Xiangyu | B+R | 2017-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aAxzNOHRjJRElzq5ASDX3Q%3D%3D) | 
-| Alphago Online Series on Tygem and Fox 06 | missing | Li Xiangyu | B+R | 2016-12-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SB4%2Fmokn1mMDr8i42wNz7g%3D%3D) | 
-| 第31期中国囲碁天元戦予選 | Yin Hang | Li Xiangyu | B+R | 2016-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q1qFbq2%2F8wLswsFNC59m3w%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選3回戦 | Li Xiangyu | Tu Xiaoyu | W+R | 2016-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c840QTK3pVw%2BZdtP%2BZdIcQ%3D%3D) | 
-| 2016年全国囲棋個人戦男子組第8戦 | Zhou Yuanjun | Li Xiangyu | W+R | 2016-09-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3YqjTouBvjKgGJ0oKO0C1g%3D%3D) | 
-| 2016年全国囲棋個人戦男子組第6戦 | Li Xiangyu | Wang Ruoran | B+R | 2016-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BcsC7CPSv9Pj3MC5Mu38BA%3D%3D) | 
-| 2016年利民杯世界囲碁星鋭最強戦第2ステージ決勝 | Li Xiangyu | Wang Zejin | W+R | 2016-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WVXOUfHTmwbMmQxXvBKx2A%3D%3D) | 
-| 2016年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 | Li Xiangyu | missing | B+R | 2016-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O7Gxluz1QfM0UCgk%2BRSdsQ%3D%3D) | 
-| 第3回百霊杯世界オープン戦1回戦 | Mao Ruilong | Li Xiangyu | B+R | 2016-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WJgwnhji4RKUaT4j2Ed7dg%3D%3D) | 
-| 2016年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Fan Yunruo | Li Xiangyu | B+R | 2016-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ai%2BrIjEOwIGW9YHRq3D6QA%3D%3D) | 
-| 2015年利民杯世界囲碁星鋭最強戦1回戦 | Li Xiangyu | Wang Zejin | W+R | 2015-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nnkoyK%2FN6vU0FzuYjamZ5Q%3D%3D) | 
-| 第7期中国竜星戦1回戦 | Shi Yue | Li Xiangyu | B+R | 2015-09-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6FHYMPQnYvfSI7BkAUkY0Q%3D%3D) | 
-| 2015年全国囲棋個人戦男子組第8戦 | Li Xiangyu | Zhang Qiang | W+R | 2015-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=atpowoZBmXCKXfoBZpVEZQ%3D%3D) | 
-| 第7期中国竜星戦予選 | Li Xiangyu | Zhou Hexi | B+1.5 | 2015-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0AgbSz%2Fr%2F%2FwIaQYlZct9yA%3D%3D) | 
-| 2015年中国段位戦 | Li Xiangyu | Hu Yuhan | W+R | 2015-07-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pFwbxxKLkL7ZLqcPIIjsYw%3D%3D) | 
-| 2015年中国段位戦 | Wang Yuzi | Li Xiangyu | W+6.5 | 2015-07-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uMa%2Ba2Gn%2F1jq9A2kpn9Qyw%3D%3D) | 
-| 2015年中国段位戦 | Qiu Jinbo | Li Xiangyu | W+R | 2015-07-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ltwX9to58sIMrlWvVFhsZw%3D%3D) | 
-| 2015年中国段位戦 | missing | Li Xiangyu | B+R | 2015-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SwnhwmqWUDJPhp%2BRuvPwmg%3D%3D) | 
-| 2015年中国段位戦 | missing | Li Xiangyu | B+R | 2015-07-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a5XriAI9S8FlWm5a3rv6qA%3D%3D) | 
-| 第7期中国竜星戦予選 | Sun Tengyu | Li Xiangyu | W+R | 2015-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8wFMzyZdtLXFciDuW6v5%2BA%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦予選 | Wang Xiangyun | Li Xiangyu | W+R | 2015-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=51iXKx5Jtlpf470FcWBC0A%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦予選 | Chang Hao | Li Xiangyu | W+0.5 | 2015-03-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IXJVd97gNGaKBWdtaecGaw%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Li Xiangyu | Choi Jeong | W+R | 2014-08-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iYblkKB9o1ZbKx0an4OAdg%3D%3D) | 
-| 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Li Xiangyu | Tan Xiao | W+0.5 | 2014-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yu8BpOwnFN%2BV61PTKRXO0g%3D%3D) | 
-| 第5回衢州・爛柯杯中国囲棋冠軍戦予選 | Li Xiangyu | Fan Yunruo | B+R | 2014-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y9yiH53uMWzsZWpyYGaG8w%3D%3D) | 
-| 第14期リコー杯囲碁戦1回戦 | Mao Ruilong | Li Xiangyu | B+R | 2013-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vwWGzWLRfZxKwSGOQui%2FkQ%3D%3D) | 
-| 第8期リコー杯新秀戦1回戦 | Li Xiangyu | Xie Erhao | W+R | 2013-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QKQSGtzzq3hIJPfbE%2BKa4g%3D%3D) | 
-| 第8期リコー杯新秀戦予選 | Ding Hao | Li Xiangyu | W+R | 2013-12-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g8VHGRDt%2BrF9benGhtbPWQ%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Li Xiangyu | Tuo Jiaxi | W+R | 2013-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VhaZGIhgnqZBWU7U%2BVk5%2FQ%3D%3D) | 
-| 第7期リコー杯新秀戦準決勝 | Li Xiangyu | Li Qincheng | W+R | 2013-02-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jL5kYoNyv23NW3aKtla8Ow%3D%3D) | 
-| 第13期リコー杯囲碁戦1回戦 | Li Xiangyu | Wang Haoyang | W+R | 2012-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5DNVcoBD6Pj0hYJI2ms6WQ%3D%3D) | 
-| 第7期リコー杯新秀戦2回戦 | Qiu Jinbo | Li Xiangyu | W+0.5 | 2012-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ok3%2F%2B4EFBhc%2B2Pmx1r%2FzAA%3D%3D) | 
-| 第7期リコー杯新秀戦1回戦 | Li Xiangyu | missing | B+R | 2012-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vZZet%2BUaLUC6t7pXScQMYg%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦予選 | missing | Li Xiangyu | B+R | 2012-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VFZDi%2B%2Bful2BGQ09FGYwJg%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦予選 | Cui Chao | Li Xiangyu | W+R | 2012-06-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DVxl0pu3gXC2ypRWl09D%2FQ%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦予選 | missing | Li Xiangyu | W+2.5 | 2012-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fIFHZNTTQuIfPKf1TSj4mQ%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦予選 | Han Yizhou | Li Xiangyu | W+2.5 | 2012-05-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5zw9I%2F%2FDtvN8F5WRyyYD5Q%3D%3D) | 
-| 第6期リコー杯新秀戦準決勝 | Li Xiangyu | Li Xuanhao | W+R | 2012-02-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dKH1PnFeP8XlPcr35JNTSQ%3D%3D) | 
-| 第6期リコー杯新秀戦2回戦 | Li Xiangyu | Tian Ruiqi | B+5.5 | 2012-02-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ueSGf%2FW3x8Ms3x2EBH6VgQ%3D%3D) | 
-| 第12期リコー杯囲碁戦1回戦 | Li Xiangyu | Zhou Heyang | W+R | 2011-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X6F7vhMZiC4VsIgdbB3I6A%3D%3D) | 
-| 第6期リコー杯新秀戦1回戦 | Li Xiangyu | Fan Yin | B+1.5 | 2011-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mSx2zeJuAUfD5DQpVSfTbg%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Dang Yifei | Win | B+R | 7.5 | 3346 | 11 | 
+| 2021-05-11 | 第23回中国囲碁甲級リーグ | Xu Haohong | Li Xiangyu | Lose | B+R | 7.5 | 3335 | -18 | 
+| 2021-05-10 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Wang Zejin | Win | B+¾ | 7.5 | 3353 | 29 | 
+| 2021-05-08 | 第23回中国囲碁甲級リーグ | Rong Yi | Li Xiangyu | Lose | B+R | 7.5 | 3324 | -35 | 
+| 2021-04-25 | 第20回西南棋王戦2回戦 | Li Xiangyu | Tang Weixing | Lose | W+R | 7.5 | 3359 | 0 | 
+| 2021-04-25 | 第20回西南棋王戦1回戦 | Li Xiangyu | Chang Hao | Win | B+R | 7.5 | 3359 | -12 | 
+| 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Li Xiangyu | Dang Yifei | Lose | W+R | 7.5 | 3371 | -203 | 
+| 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Mi Yuting | Lose | W+R | 7.5 | 3574 | 6 | 
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Li Xiangyu | Lose | B+R | 7.5 | 3568 | -38 | 
+| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Peng Liyao | Win | B+R | 7.5 | 3606 | -3 | 
+| 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Tuo Jiaxi | Lose | W+R | 7.5 | 3609 | -35 | 
+| 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Li Xiangyu | Lose | B+R | 7.5 | 3644 | -34 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Li Xiangyu | Tuo Jiaxi | Win | B+R | 7.5 | 3678 | 51 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Li Xiangyu | Win | W+¼ | 7.5 | 3627 | 40 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Li Xiangyu | Hu Yaoyu | Win | B+1¾ | 7.5 | 3587 | 63 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Li Xiangyu | Lee Donghoon | Lose | W+R | 7.5 | 3524 | -49 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Tan Xiao | Li Xiangyu | Lose | B+R | 7.5 | 3573 | -93 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Li Xiangyu | Tu Xiaoyu | Win | B+¾ | 7.5 | 3666 | 318 | 
+| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Li Xiangyu |  | Win | B+R | 7.5 | 3348 | 10 | 
+| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Li Xiangyu | Gu Lingyi | Win | B+R | 7.5 | 3338 | 21 | 
+| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Cao Xiaoyang | Li Xiangyu | Lose | B+R | 7.5 | 3317 | 48 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Rong Yi | Li Xiangyu | Lose | B+R | 7.5 | 3269 | -58 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Li Xiangyu | Zhao Chenyu | Lose | W+R | 7.5 | 3327 | 338 | 
+| 2019-11-17 | 第4回全国智力運動会男子団体戦第7戦 | Huang Xin | Li Xiangyu | Win | W+R | 7.5 | 2989 | 30 | 
+| 2019-11-11 | 第4回全国智力運動会大学生個人戦第9戦 | Rong Yi | Li Xiangyu | Win | W+R | 7.5 | 2959 | 64 | 
+| 2019-10-11 | 第4回Mlily夢百合杯世界囲碁オープン戦32強戦 | Park Junghwan | Li Xiangyu | Lose | B+R | 7.5 | 2895 | -5 | 
+| 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Jiang Mingjiu | Li Xiangyu | Win | W+R | 7.5 | 2900 | 10 | 
+| 2019-09-28 | 2019年全国囲棋個人戦男子組第11戦 | Qin Yuexin | Li Xiangyu | Win | W+R | 7.5 | 2890 | -10 | 
+| 2019-09-19 | 2019年全国囲棋個人戦男子組第3戦 |  | Li Xiangyu | Lose | B+R | 7.5 | 2900 | -8 | 
+| 2019-09-18 | 2019年全国囲棋個人戦男子組第1戦 |  | Li Xiangyu | Win | W+R | 7.5 | 2908 | 41 | 
+| 2019-09-14 | 第21回中国囲碁甲級リーグプレーオフ1回戦第1戦 | Li Xiangyu | Kim Jiseok | Lose | W+R | 7.5 | 2867 | -120 | 
+| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Li Xiangyu | Zhao Chenyu | Lose | W+R | 7.5 | 2987 | -32 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Shen Peiran | Li Xiangyu | Lose | B+R | 7.5 | 3019 | -47 | 
+| 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Li Xiangyu | Tan Xiao | Lose | W+R | 7.5 | 3066 | 16 | 
+| 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Kang Dongyun | Li Xiangyu | Lose | B+R | 7.5 | 3050 | -16 | 
+| 2019-06-30 | 第24回三星火災杯統合予選1回戦 | Li Xiangyu | Park Jinsol | Lose | W+R | 6.5 | 3066 | -27 | 
+| 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Li Xiangyu |  | Lose | W+R | 7.5 | 3093 | -8 | 
+| 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Li Xiangyu | Kim Myounghoon | Win | B+R | 7.5 | 3101 | 94 | 
+| 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Fan Yin | Li Xiangyu | Lose | B+R | 7.5 | 3007 | -45 | 
+| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Li Xiangyu | Wu Guangya | Lose | W+R | 7.5 | 3052 | -16 | 
+| 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Wang Zejin | Li Xiangyu | Win | W+R | 7.5 | 3068 | 3 | 
+| 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Li Xiangyu | Yi Lingtao | Lose | W+R | 7.5 | 3065 | 150 | 
+| 2019-03-07 | 第10期中国竜星戦予選 | Jiang Weijie | Li Xiangyu | Lose | B+R | 7.5 | 2915 | -30 | 
+| 2019-03-01 | 第16期倡棋杯中国プロ囲棋選手権戦予選決勝 | Li Xiangyu | Yang Kaiwen | Lose | W+R | 7.5 | 2945 | -165 | 
+| 2018-10-01 | 第23回三星火災杯世界囲碁マスターズ2回戦 | Shin Jinseo | Li Xiangyu | Lose | B+R | 6.5 | 3110 | -8 | 
+| 2018-09-28 | 第20回中国囲碁甲級リーグ第17節江西-中信 | Li Xiangyu | Chen Yaoye | Lose | W+¼ | 7.5 | 3118 | -25 | 
+| 2018-09-22 | 2018年全国囲棋個人戦男子組第9戦 | Li Xiangyu | Yi Lingtao | Win | B+R | 7.5 | 3143 | 0 | 
+| 2018-09-22 | 2018年全国囲棋個人戦男子組第8戦 | Li Xiangyu | Liu Qifeng | Win | B+R | 7.5 | 3143 | 87 | 
+| 2018-09-20 | 2018年全国囲棋個人戦男子組第7戦 | Liu Yuhang | Li Xiangyu | Win | W+R | 7.5 | 3056 | 9 | 
+| 2018-09-15 | 2018年全国囲棋個人戦男子組第2戦 | Jiang Qirun | Li Xiangyu | Lose | B+R | 7.5 | 3047 | -16 | 
+| 2018-09-06 | 第23回三星火災杯世界囲碁マスターズ1回戦H3 | Li Xiangyu | Ryu Shikun | Win | B+1.5 | 6.5 | 3063 | 0 | 
+| 2018-09-05 | 第23回三星火災杯世界囲碁マスターズ1回戦H2 | Shin Jinseo | Li Xiangyu | Lose | B+R | 6.5 | 3063 | -22 | 
+| 2018-09-04 | 第23回三星火災杯世界囲碁マスターズ1回戦H1 | Li Xiangyu | Ryu Shikun | Win | B+1.5 | 6.5 | 3085 | 88 | 
+| 2018-08-15 | 第20回中国囲碁甲級リーグ第13節山東-江西 | Yi Lingtao | Li Xiangyu | Lose | B+R | 7.5 | 2997 | -6 | 
+| 2018-08-13 | 第20回中国囲碁甲級リーグ第12節江西-衢州 | Li Xiangyu |  | Win | B+¾ | 7.5 | 3003 | 65 | 
+| 2018-07-16 | 第20回中国囲碁甲級リーグ第10節江西-蘇泊爾 | Li Xiangyu | Li Qincheng | Lose | W+R | 7.5 | 2938 | -48 | 
+| 2018-07-06 | 第23回三星火災杯統合予選準決勝 | Kim Sonjin | Li Xiangyu | Win | W+R | 6.5 | 2986 | 36 | 
+| 2018-06-25 | 第20回中国囲碁甲級リーグ第9節江蘇-江西 | Huang Yunsong | Li Xiangyu | Win | W+R | 7.5 | 2950 | -164 | 
+| 2018-03-15 | 第15期倡棋杯中国プロ囲棋選手権戦予選決勝 | Li Xiangyu |  | Lose | W+R | 7.5 | 3114 | -45 | 
+| 2018-03-09 | 第17回西南棋王戦1回戦 | Tang Weixing | Li Xiangyu | Lose | B+R | 7.5 | 3159 | 76 | 
+| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Xie Erhao | Li Xiangyu | Lose | B+R | 7.5 | 3083 | 1 | 
+| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Li Xiangyu | Tong Mengcheng | Win | B+R | 7.5 | 3082 | 36 | 
+| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 |  | Li Xiangyu | Lose | B+R | 7.5 | 3046 | -18 | 
+| 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Li Xiangyu | Fan Tingyu | Lose | W+R | 7.5 | 3064 | 17 | 
+| 2017-09-22 | 2017年全国囲棋個人戦男子組第9戦 | Li Xiangyu | Zhang Qiang | Lose | W+R | 7.5 | 3047 | 13 | 
+| 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Gu Li | Li Xiangyu | Lose | B+R | 7.5 | 3034 | -3 | 
+| 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Li Xiangyu | Li Qincheng | Lose | W+R | 7.5 | 3037 | -7 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Liao Yuanhe | Li Xiangyu | Lose | B+R | 7.5 | 3044 | -10 | 
+| 2017-08-29 | 2017中国国家青年隊選抜戦7回戦 | Li Xiangyu | Wu Guangya | Lose | W+R | 7.5 | 3054 | -19 | 
+| 2017-08-28 | 2017中国国家青年隊選抜戦6回戦 | Xu Jiayang | Li Xiangyu | Lose | B+R | 7.5 | 3073 | -7 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Li Xiangyu | Yang Kaiwen | Lose | W+R | 7.5 | 3080 | -31 | 
+| 2017-08-20 | 2017年利民杯世界囲碁星鋭最強戦第2ステージ決勝 | Li Xiangyu | Song Jihoon | Lose | W+0.5 | 7.5 | 3111 | -10 | 
+| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Li Xiangyu | Wang Zejin | Win | B+R | 7.5 | 3121 | 25 | 
+| 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Huang Yunsong | Li Xiangyu | Lose | B+R | 7.5 | 3096 | 25 | 
+| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Li Xiangyu | Chen Xian | Lose | W+R | 7.5 | 3071 | 0 | 
+| 2017-07-19 | 嫘祖杯30回中国名人戦新浪網選2回戦 | Hou Jingzhe | Li Xiangyu | Lose | B+R | 7.5 | 3071 | -10 | 
+| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Zhou Ruiyang | Li Xiangyu | Lose | B+R | 7.5 | 3081 | -9 | 
+| 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Li Xiangyu | Fan Yin | Win | B+R | 7.5 | 3090 | 60 | 
+| 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Li Xiangyu | Li Zhe | Lose | W+0.5 | 7.5 | 3030 | -48 | 
+| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Li Xiangyu | Han Yizhou | Lose | W+R | 7.5 | 3078 | -37 | 
+| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Li Weiqing | Li Xiangyu | Lose | B+R | 7.5 | 3115 | -44 | 
+| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 |  | Li Xiangyu | Win | W+R | 7.5 | 3159 | 37 | 
+| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Li Xiangyu | Li Xuanhao | Win | B+R | 7.5 | 3122 | 65 | 
+| 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Xie Ke | Li Xiangyu | Win | W+R | 7.5 | 3057 | 112 | 
+| 2017-04-18 | 第19期中国阿含桐山杯本選3回戦 | Li Xiangyu | Wang Zejin | Lose | W+R | 7.5 | 2945 | -32 | 
+| 2017-04-07 | 第22期LG杯世界予選準決勝 | Kim Myounghoon | Li Xiangyu | Lose | B+R | 6.5 | 2977 | 110 | 
+| 2017-03-11 | 第16回西南棋王戦1回戦 | Gu Li | Li Xiangyu | Win | W+R | 7.5 | 2867 | 0 | 
+| 2017-03-11 | 第16回西南棋王戦2回戦 | Tan Xiao | Li Xiangyu | Lose | B+R | 7.5 | 2867 | 174 | 
+| 2016-12-29 | Alphago Online Series on Tygem and Fox 06 |  | Li Xiangyu | Lose | B+R | 6.5 | 2693 | -22 | 
+| 2016-12-28 | 第31期中国囲碁天元戦予選 | Yin Hang | Li Xiangyu | Lose | B+R | 7.5 | 2715 | -49 | 
+| 2016-12-17 | 嫘祖杯第29期中国名人戦網選3回戦 | Li Xiangyu | Tu Xiaoyu | Lose | W+R | 7.5 | 2764 | 38 | 
+| 2016-09-24 | 2016年全国囲棋個人戦男子組第8戦 | Zhou Yuanjun | Li Xiangyu | Win | W+R | 7.5 | 2726 | 2726 | 
+| 2016-09-21 | 2016年全国囲棋個人戦男子組第6戦 | Li Xiangyu | Wang Ruoran | Win | B+R | 7.5 | missing | 0 | 
+| 2016-08-09 | 2016年利民杯世界囲碁星鋭最強戦第2ステージ決勝 | Li Xiangyu | Wang Zejin | Lose | W+R | 7.5 | missing | 0 | 
+| 2016-08-09 | 2016年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 | Li Xiangyu |  | Win | B+R | 7.5 | missing | -2876 | 
+| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Mao Ruilong | Li Xiangyu | Lose | B+R | 7.5 | 2876 | 19 | 
+| 2016-04-29 | 2016年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Fan Yunruo | Li Xiangyu | Lose | B+R | 7.5 | 2857 | -143 | 
+| 2015-11-28 | 2015年利民杯世界囲碁星鋭最強戦1回戦 | Li Xiangyu | Wang Zejin | Lose | W+R | 7.5 | 3000 | 21 | 
+| 2015-09-27 | 第7期中国竜星戦1回戦 | Shi Yue | Li Xiangyu | Lose | B+R | 7.5 | 2979 | -37 | 
+| 2015-08-31 | 2015年全国囲棋個人戦男子組第8戦 | Li Xiangyu | Zhang Qiang | Lose | W+R | 7.5 | 3016 | -49 | 
+| 2015-07-29 | 第7期中国竜星戦予選 | Li Xiangyu | Zhou Hexi | Win | B+1.5 | 7.5 | 3065 | 65 | 
+| 2015-07-27 | 2015年中国段位戦 | Li Xiangyu | Hu Yuhan | Lose | W+R | 7.5 | 3000 | -63 | 
+| 2015-07-26 | 2015年中国段位戦 | Wang Yuzi | Li Xiangyu | Win | W+6.5 | 7.5 | 3063 | 88 | 
+| 2015-07-25 | 2015年中国段位戦 | Qiu Jinbo | Li Xiangyu | Win | W+R | 7.5 | 2975 | 75 | 
+| 2015-07-24 | 2015年中国段位戦 |  | Li Xiangyu | Lose | B+R | 7.5 | 2900 | -145 | 
+| 2015-07-21 | 2015年中国段位戦 |  | Li Xiangyu | Lose | B+R | 7.5 | 3045 | -136 | 
+| 2015-07-01 | 第7期中国竜星戦予選 | Sun Tengyu | Li Xiangyu | Win | W+R | 7.5 | 3181 | -112 | 
+| 2015-03-18 | 第12期倡棋杯中国プロ囲碁選手権戦予選 | Wang Xiangyun | Li Xiangyu | Win | W+R | 7.5 | 3293 | -12 | 
+| 2015-03-17 | 第12期倡棋杯中国プロ囲碁選手権戦予選 | Chang Hao | Li Xiangyu | Win | W+0.5 | 7.5 | 3305 | 180 | 
+| 2014-08-15 | 2014年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Li Xiangyu | Choi Jeong | Lose | W+R | 7.5 | 3125 | -47 | 
+| 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Li Xiangyu | Tan Xiao | Lose | W+0.5 | 7.5 | 3172 | 29 | 
+| 2014-04-03 | 第5回衢州・爛柯杯中国囲棋冠軍戦予選 | Li Xiangyu | Fan Yunruo | Win | B+R | 7.5 | 3143 | 3143 | 
+| 2013-12-29 | 第14期リコー杯囲碁戦1回戦 | Mao Ruilong | Li Xiangyu | Lose | B+R | 7.5 | missing | 0 | 
+| 2013-12-27 | 第8期リコー杯新秀戦1回戦 | Li Xiangyu | Xie Erhao | Lose | W+R | 7.5 | missing | -3021 | 
+| 2013-12-10 | 第8期リコー杯新秀戦予選 | Ding Hao | Li Xiangyu | Win | W+R | 7.5 | 3021 | -2 | 
+| 2013-06-28 | 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Li Xiangyu | Tuo Jiaxi | Lose | W+R | 7.5 | 3023 | -77 | 
+| 2013-02-21 | 第7期リコー杯新秀戦準決勝 | Li Xiangyu | Li Qincheng | Lose | W+R | 7.5 | 3100 | 37 | 
+| 2012-12-28 | 第13期リコー杯囲碁戦1回戦 | Li Xiangyu | Wang Haoyang | Lose | W+R | 7.5 | 3063 | 97 | 
+| 2012-12-27 | 第7期リコー杯新秀戦2回戦 | Qiu Jinbo | Li Xiangyu | Win | W+0.5 | 7.5 | 2966 | -101 | 
+| 2012-12-26 | 第7期リコー杯新秀戦1回戦 | Li Xiangyu |  | Win | B+R | 7.5 | 3067 | -185 | 
+| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 |  | Li Xiangyu | Lose | B+R | 7.5 | 3252 | -118 | 
+| 2012-06-26 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Cui Chao | Li Xiangyu | Win | W+R | 7.5 | 3370 | -36 | 
+| 2012-05-28 | 第14期阿含・桐山杯中国早碁オープン戦予選 |  | Li Xiangyu | Win | W+2.5 | 7.5 | 3406 | -2 | 
+| 2012-05-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Han Yizhou | Li Xiangyu | Win | W+2.5 | 7.5 | 3408 | -203 | 
+| 2012-02-22 | 第6期リコー杯新秀戦準決勝 | Li Xiangyu | Li Xuanhao | Lose | W+R | 7.5 | 3611 | -128 | 
+| 2012-02-21 | 第6期リコー杯新秀戦2回戦 | Li Xiangyu | Tian Ruiqi | Win | B+5.5 | 7.5 | 3739 | 192 | 
+| 2011-12-29 | 第12期リコー杯囲碁戦1回戦 | Li Xiangyu | Zhou Heyang | Lose | W+R | 7.5 | 3547 | 3547 | 
+| 2011-12-28 | 第6期リコー杯新秀戦1回戦 | Li Xiangyu | Fan Yin | Win | B+1.5 | 7.5 | missing | missing |
 
 
 

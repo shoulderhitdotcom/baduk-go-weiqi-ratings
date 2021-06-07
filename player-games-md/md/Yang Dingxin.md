@@ -5,534 +5,535 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Kim Jiseok | Yang Dingxin | Win | W+R | 6.5 | 
-| 2021-05-12 | 第23回中国囲碁甲級リーグ | Ke Jie | Yang Dingxin | Win | W+R | 7.5 | 
-| 2021-05-11 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Li Weiqing | Win | B+R | 7.5 | 
-| 2021-05-10 | 第23回中国囲碁甲級リーグ | Xie Erhao | Yang Dingxin | Win | W+R | 7.5 | 
-| 2021-05-08 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Shin Minjun | Lose | W+¼ | 7.5 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Gu Zihao | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2021-04-26 | 第20回西南棋王戦決勝 | Yang Dingxin | Mi Yuting | Win | B+R | 7.5 | 
-| 2021-04-26 | 第20回西南棋王戦準決勝 | Tang Weixing | Yang Dingxin | Win | W+R | 7.5 | 
-| 2021-04-25 | 第20回西南棋王戦2回戦 | Gu Li | Yang Dingxin | Win | W+R | 7.5 | 
-| 2021-04-25 | 第20回西南棋王戦1回戦 | Yang Dingxin | Zheng Zaixiang | Win | B+R | 7.5 | 
-| 2021-04-22 | 第17回倡棋杯中国プロ囲碁選手権戦3回戦 | Yang Dingxin | Dang Yifei | Win | B+¾ | 7.5 | 
-| 2021-04-20 | 第17回倡棋杯中国プロ囲碁選手権戦2回戦 | Xie Erhao | Yang Dingxin | Win | W+R | 7.5 | 
-| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Yang Dingxin | Chen Xian | Win | B+2¾ | 7.5 | 
-| 2021-04-17 | 第35期中国囲碁天元戦挑戦手合三番勝負第3局 | Yang Dingxin | Gu Zihao | Lose | W+R | 7.5 | 
-| 2021-04-16 | 第35期中国囲碁天元戦挑戦手合三番勝負第2局 | Yang Dingxin | Gu Zihao | Lose | W+R | 7.5 | 
-| 2021-04-15 | 第35期中国囲碁天元戦挑戦手合三番勝負第1局 | Gu Zihao | Yang Dingxin | Win | W+R | 7.5 | 
-| 2021-04-01 | 2021年龍華杯深圳市囲碁戦 | Yang Dingxin | Shi Yue | Win | B+R | 7.5 | 
-| 2021-03-31 | 2021年龍華杯深圳市囲碁戦 | Tuo Jiaxi | Yang Dingxin | Win | W+R | 7.5 | 
-| 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Tu Xiaoyu | Yang Dingxin | Win | W+R | 7.5 | 
-| 2021-02-23 | 第22回農心辛ラーメン杯世界囲碁最強戦第11戦 | Shin Jinseo | Yang Dingxin | Lose | B+R | 6.5 | 
-| 2021-01-08 | 第8回衢州・爛柯杯中国囲碁冠軍戦決勝 | Yang Dingxin | Xu Jiayang | Lose | W+R | 7.5 | 
-| 2021-01-06 | 第8回衢州・爛柯杯中国囲碁冠軍戦準決勝 | Tao Xinran | Yang Dingxin | Win | W+¼ | 7.5 | 
-| 2021-01-05 | 第8回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Yi Lingtao | Yang Dingxin | Win | W+R | 7.5 | 
-| 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Yang Dingxin | Mi Yuting | Win | B+R | 7.5 | 
-| 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Huang Xin | Yang Dingxin | Win | W+R | 7.5 | 
-| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Yang Dingxin | Byun Sangil | Lose | W+R | 7.5 | 
-| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Yang Dingxin | Win | W+R | 7.5 | 
-| 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Yang Dingxin | Chen Yaoye | Win | B+R | 7.5 | 
-| 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Yang Dingxin | Tuo Jiaxi | Lose | W+R | 7.5 | 
-| 2020-12-13 | 第22回中国囲碁甲級リーグ | Yang Dingxin | Chen Yaoye | Lose | W+R | 7.5 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Jiang Weijie | Yang Dingxin | Win | W+R | 7.5 | 
-| 2020-12-11 | 第22回中国囲碁甲級リーグ | Yang Dingxin | Li Weiqing | Lose | W+R | 7.5 | 
-| 2020-12-09 | 第22回中国囲碁甲級リーグ | Shin Jinseo | Yang Dingxin | Win | W+R | 7.5 | 
-| 2020-12-08 | 第22回中国囲碁甲級リーグ | Yang Dingxin | Ding Hao | Lose | W+R | 7.5 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Tong Mengcheng | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Ke Jie | Yang Dingxin | Win | W+R | 7.5 | 
-| 2020-12-03 | 第34期中国囲碁天元戦挑戦手合三番勝負第3局 | Lian Xiao | Yang Dingxin | Win | W+R | 7.5 | 
-| 2020-12-02 | 第34期中国囲碁天元戦挑戦手合三番勝負第2局 | Yang Dingxin | Lian Xiao | Win | B+R | 7.5 | 
-| 2020-11-30 | 第34期中国囲碁天元戦挑戦手合三番勝負第1局 | Lian Xiao | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Yang Dingxin | Ding Hao | Win | B+R | 7.5 | 
-| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Yang Dingxin | Xie Erhao | Win | B+¾ | 7.5 | 
-| 2020-11-09 | 第25回LG杯朝鮮日報棋王戦3回戦 | Park Junghwan | Yang Dingxin | Lose | B+R | 6.5 | 
-| 2020-10-31 | 第25回三星火災杯世界囲碁マスターズ準決勝 | Yang Dingxin | Ke Jie | Lose | W+R | 6.5 | 
-| 2020-10-30 | 第25回三星火災杯世界囲碁マスターズ3回戦 | Yang Dingxin | Li Weiqing | Win | B+R | 6.5 | 
-| 2020-10-28 | 第25回三星火災杯世界囲碁マスターズ2回戦 | Kang Jihoon | Yang Dingxin | Win | W+R | 6.5 | 
-| 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦 | Kim Cheayoung | Yang Dingxin | Win | W+R | 6.5 | 
-| 2020-10-11 | 第2回王中王囲棋争覇戦準決勝 | Tang Weixing | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2020-10-10 | 第2回王中王囲棋争覇戦1回戦 | Yang Dingxin | Lian Xiao | Win | B+R | 7.5 | 
-| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Meng Tailing | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2020-09-09 | 第9回応氏杯世界選手権2回戦 | Yang Dingxin | Xie Ke | Lose | W+R | 7.5 | 
-| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Shibano Toramaru | Yang Dingxin | Win | W+5 | 7.5 | 
-| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Yang Dingxin | Xie Erhao | Lose | W+R | 7.5 | 
-| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Park Junghwan | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Yang Dingxin | Chen Zijian | Win | B+R | 7.5 | 
-| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Cheng Jiaye | Yang Dingxin | Win | W+2¼ | 7.5 | 
-| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Yang Dingxin | Gu Zihao | Lose | W+R | 7.5 | 
-| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Li Chengsen | Yang Dingxin | Win | W+R | 7.5 | 
-| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Yang Dingxin | Shin Minjun | Win | B+R | 7.5 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Mi Yuting | Yang Dingxin | Win | W+R | 7.5 | 
-| 2020-08-03 | 第11期中国竜星戦Bブロック10回戦 | Lian Xiao | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Yang Dingxin | Byun Sangil | Lose | W+R | 7.5 | 
-| 2020-06-14 | 第19回西南棋王戦1回戦 | Yang Dingxin | Liao Yuanhe | Lose | W+R | 7.5 | 
-| 2020-06-05 | 第25回LG杯朝鮮日報棋王戦2回戦 | Lee Donghoon | Yang Dingxin | Win | W+R | 6.5 | 
-| 2020-06-02 | 第25回LG杯朝鮮日報棋王戦1回戦 | Yang Dingxin | Seol Hyunjun | Win | B+R | 6.5 | 
-| 2020-05-25 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Peng Liyao | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2020-01-14 | 第34期中国囲碁天元戦挑戦者決定戦 | Yang Dingxin | Li Xuanhao | Win | B+R | 7.5 | 
-| 2020-01-12 | 第34期中国囲碁天元戦準決勝 | Yang Dingxin | Fan Tingyu | Win | B+¾ | 7.5 | 
-| 2020-01-10 | 第34期中国囲碁天元戦3回戦 | Shi Yue | Yang Dingxin | Win | W+R | 7.5 | 
-| 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Zhao Chenyu | Yang Dingxin | Win | W+R | 7.5 | 
-| 2019-11-26 | 第21回農心辛ラーメン杯世界囲碁最強戦第9戦 | Iyama Yuta | Yang Dingxin | Lose | B+R | 6.5 | 
-| 2019-11-25 | 第21回農心辛ラーメン杯世界囲碁最強戦第8戦 | Shin Jinseo | Yang Dingxin | Win | W+R | 6.5 | 
-| 2019-11-24 | 第21回農心辛ラーメン杯世界囲碁最強戦第7戦 | Hsu Chiayuan | Yang Dingxin | Win | W+R | 6.5 | 
-| 2019-11-23 | 第21回農心辛ラーメン杯世界囲碁最強戦第6戦 | Lee Donghoon | Yang Dingxin | Win | W+1.5 | 6.5 | 
-| 2019-11-22 | 第21回農心辛ラーメン杯世界囲碁最強戦第5戦 | Yang Dingxin | Ichiriki Ryo | Win | B+R | 6.5 | 
-| 2019-11-18 | 第4回全国智力運動会男子団体戦第9戦 | Yang Dingxin | Jiang Weijie | Win | B+R | 7.5 | 
-| 2019-11-17 | 第4回全国智力運動会男子団体戦第7戦 | Yang Dingxin | Mi Yuting | Lose | W+R | 7.5 | 
-| 2019-11-15 | 第4回全国智力運動会男子団体戦第4戦 | Yang Dingxin | Lian Xiao | Lose | W+R | 7.5 | 
-| 2019-11-15 | 第4回全国智力運動会男子団体戦第3戦 | Yang Dingxin | Tuo Jiaxi | Win | B+R | 7.5 | 
-| 2019-11-14 | 第4回全国智力運動会男子団体戦第2戦 | Chen Yaoye | Yang Dingxin | Win | W+R | 7.5 | 
-| 2019-11-14 | 第4回全国智力運動会男子団体戦第1戦 | Luo Xihe | Yang Dingxin | Win | W+R | 7.5 | 
-| 2019-11-12 | 第4回全国智力運動会プロ男子個人戦第7戦 | Yang Dingxin | Zhao Chenyu | Lose | W+R | 7.5 | 
-| 2019-11-11 | 第4回全国智力運動会プロ男子個人戦第6戦 | Yang Dingxin | Shi Yue | Lose | W+R | 7.5 | 
-| 2019-11-09 | 第4回全国智力運動会プロ男子個人戦第1戦 | Yang Dingxin | Tong Mengcheng | Lose | W+R | 7.5 | 
-| 2019-10-18 | 第21回農心辛ラーメン杯世界囲碁最強戦第4戦 | Yang Dingxin | Kim Jiseok | Win | B+R | 6.5 | 
-| 2019-10-17 | 第21回農心辛ラーメン杯世界囲碁最強戦第3戦 | Yang Dingxin | Yamashita Keigo | Win | B+3.5 | 6.5 | 
-| 2019-10-16 | 第21回農心辛ラーメン杯世界囲碁最強戦第2戦 | Yang Dingxin | Weon Seongjin | Win | B+R | 6.5 | 
-| 2019-10-11 | 第4回Mlily夢百合杯世界囲碁オープン戦32強戦 | Yang Dingxin | Xie Ke | Lose | W+R | 7.5 | 
-| 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Yang Dingxin | Fan Yin | Win | B+R | 7.5 | 
-| 2019-09-16 | 第21回中国囲碁甲級リーグプレーオフ1回戦第2戦 | Yang Dingxin | Tong Mengcheng | Win | B+R | 7.5 | 
-| 2019-09-14 | 第21回中国囲碁甲級リーグプレーオフ1回戦第1戦 | Yang Dingxin | Tan Xiao | Win | B+R | 7.5 | 
-| 2019-09-06 | 第24回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Yang Dingxin | Tang Weixing | Lose | W+R | 6.5 | 
-| 2019-09-05 | 第24回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Yang Dingxin | Tang Weixing | Win | B+R | 6.5 | 
-| 2019-09-04 | 第24回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Tang Weixing | Yang Dingxin | Lose | B+R | 6.5 | 
-| 2019-09-02 | 第24回三星火災杯世界囲碁マスターズ準決勝 | Yang Dingxin | Gu Zihao | Win | B+R | 6.5 | 
-| 2019-09-01 | 第24回三星火災杯世界囲碁マスターズ3回戦 | Tao Xinran | Yang Dingxin | Win | W+0.5 | 6.5 | 
-| 2019-08-31 | 第24回三星火災杯世界囲碁マスターズ2回戦 | Kim Jiseok | Yang Dingxin | Win | W+R | 6.5 | 
-| 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Yang Dingxin | Byun Sangil | Win | B+R | 6.5 | 
-| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Park Junghwan | Yang Dingxin | Win | W+¼ | 7.5 | 
-| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Yang Dingxin | Gu Zihao | Win | B+R | 7.5 | 
-| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Mi Yuting | Yang Dingxin | Win | W+R | 7.5 | 
-| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Yang Dingxin | Shi Yue | Lose | W+R | 7.5 | 
-| 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Kim Jiseok | Yang Dingxin | Win | W+R | 7.5 | 
-| 2019-07-27 | 第21期阿含・桐山杯中国早碁オープン戦準決勝 | Yang Dingxin | Tuo Jiaxi | Lose | W+R | 7.5 | 
-| 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Yang Dingxin | Zhou Ruiyang | Win | B+¾ | 7.5 | 
-| 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Yang Dingxin | Shin Jinseo | Lose | W+R | 7.5 | 
-| 2019-07-09 | 第16期倡棋杯中国プロ囲棋選手権戦本戦準決勝三番勝負第2局 | Ke Jie | Yang Dingxin | Lose | B+1 | 7.5 | 
-| 2019-06-28 | 第21期阿含・桐山杯中国早碁オープン戦8強戦 | Yang Dingxin | Mi Yuting | Win | B+R | 7.5 | 
-| 2019-06-27 | 第21期阿含・桐山杯中国早碁オープン戦16強戦 | Yang Dingxin |  | Win | B+R | 7.5 | 
-| 2019-06-20 | 第16期倡棋杯中国プロ囲棋選手権戦本戦準決勝三番勝負第1局 | Yang Dingxin | Ke Jie | Lose | W+R | 7.5 | 
-| 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Shin Minjun | Yang Dingxin | Win | W+¼ | 7.5 | 
-| 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Yang Dingxin | Chen Yaoye | Win | B+R | 7.5 | 
-| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Huang Jingyuan | Yang Dingxin | Win | W+R | 7.5 | 
-| 2019-05-27 | 第24回LG杯朝鮮日報棋王戦1回戦 | Byun Sangil | Yang Dingxin | Lose | B+R | 6.5 | 
-| 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Yang Dingxin | Ke Jie | Lose | W+R | 7.5 | 
-| 2019-05-09 | 嫘祖杯第32期中国囲棋名人戦16強戦 | Li Weiqing | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Ding Hao | Yang Dingxin | Win | W+¼ | 7.5 | 
-| 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Yang Dingxin | Xie Erhao | Lose | W+R | 7.5 | 
-| 2019-04-23 | 第16期倡棋杯中国プロ囲棋選手権戦本戦3回戦 | Mi Yuting | Yang Dingxin | Win | W+R | 7.5 | 
-| 2019-04-21 | 第16期倡棋杯中国プロ囲棋選手権戦本戦2回戦 | Xie Erhao | Yang Dingxin | Win | W+R | 7.5 | 
-| 2019-04-19 | 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Yang Dingxin | Tang Weixing | Win | B+R | 7.5 | 
-| 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Fan Tingyu | Yang Dingxin | Win | W+R | 7.5 | 
-| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節上海-重慶 | Yang Dingxin | Fan Yunruo | Win | B+R | 7.5 | 
-| 2019-03-29 | 2019CCTV杯中国囲棋電視快棋戦3回戦 | Yang Dingxin | Yi Lingtao | Lose | W+R | 7.5 | 
-| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Mao Ruilong | Yang Dingxin | Win | W+R | 7.5 | 
-| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Yang Dingxin | Tao Xinran | Win | B+R | 7.5 | 
-| 2019-03-24 | 第18回西南棋王戦準決勝 | Yang Dingxin | Ke Jie | Lose | W+R | 7.5 | 
-| 2019-03-23 | 第18回西南棋王戦2回戦 | Li Xuanhao | Yang Dingxin | Win | W+2¼ | 7.5 | 
-| 2019-03-23 | 第18回西南棋王戦1回戦 |  | Yang Dingxin | Win | W+R | 7.5 | 
-| 2019-03-15 | 第10期中国竜星戦Aブロック8回戦 | Jiang Weijie | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2019-02-26 | 第4期洛陽白雲山杯中国棋聖戦本戦2回戦 | Tuo Jiaxi | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2019-02-25 | 第4期洛陽白雲山杯中国棋聖戦本戦1回戦 | Li Xuanhao | Yang Dingxin | Win | W+R | 7.5 | 
-| 2019-02-14 | 第23回LG杯朝鮮日報棋王戦決勝三番勝負第3局 | Shi Yue | Yang Dingxin | Win | W+R | 6.5 | 
-| 2019-02-13 | 第23回LG杯朝鮮日報棋王戦決勝三番勝負第2局 | Yang Dingxin | Shi Yue | Win | B+R | 6.5 | 
-| 2019-02-11 | 第23回LG杯朝鮮日報棋王戦決勝三番勝負第1局 | Shi Yue | Yang Dingxin | Lose | B+R | 6.5 | 
-| 2019-01-29 | 第3回ワールド碁チャンピオンシップ国際予選決勝 | Jiang Weijie | Yang Dingxin | Lose | B+R | 6.5 | 
-| 2019-01-27 | 第3回ワールド碁チャンピオンシップ国際予選準決勝 | Yang Dingxin | Chen Yaoye | Win | B+2.5 | 6.5 | 
-| 2019-01-26 | 第3回ワールド碁チャンピオンシップ国際予選3回戦 | Hong Seongji | Yang Dingxin | Win | W+R | 6.5 | 
-| 2019-01-25 | 第3回ワールド碁チャンピオンシップ国際予選2回戦 | Yang Dingxin | Lee Sedol | Win | B+R | 6.5 | 
-| 2019-01-09 | 第33期中国囲碁天元戦準決勝 | Tong Mengcheng | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2019-01-06 | 第33期中国囲碁天元戦2回戦 | Xu Jiayang | Yang Dingxin | Win | W+R | 7.5 | 
-| 2019-01-04 | 第33期中国囲碁天元戦1回戦 | Liu Yuhang | Yang Dingxin | Win | W+R | 7.5 | 
-| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節重慶-廈門 | Ke Jie | Yang Dingxin | Win | W+R | 7.5 | 
-| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節上海-重慶 | Yang Dingxin | Li Weiqing | Win | B+R | 7.5 | 
-| 2018-11-16 | 第20回中国囲碁甲級リーグ第24節重慶-山東 | Fan Tingyu | Yang Dingxin | Win | W+R | 7.5 | 
-| 2018-11-14 | 第23回LG杯朝鮮日報棋王戦準決勝 | Shin Minjun | Yang Dingxin | Win | W+R | 6.5 | 
-| 2018-11-12 | 第23回LG杯朝鮮日報棋王戦3回戦 | Kang Dongyun | Yang Dingxin | Win | W+R | 6.5 | 
-| 2018-11-09 | 第20回中国囲碁甲級リーグ第23節衢州-重慶 |  | Yang Dingxin | Win | W+R | 7.5 | 
-| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節重慶-民生 | Shi Yue | Yang Dingxin | Win | W+R | 7.5 | 
-| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節蘇泊爾-重慶 | Yang Dingxin | Lian Xiao | Lose | W+R | 7.5 | 
-| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節重慶-江蘇 | Mi Yuting | Yang Dingxin | Win | W+R | 7.5 | 
-| 2018-10-13 | 第14期威孚房開杯棋王戦32強戦 | Yang Dingxin | Mi Yuting | Lose | W+R | 7.5 | 
-| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節浙江-重慶 | Zhang Tao | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2018-10-08 | 第20回中国囲碁甲級リーグ第18節重慶-江西 | Xu Jiayang | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2018-10-01 | 第23回三星火災杯世界囲碁マスターズ2回戦 | Yang Dingxin | Ahn Kukhyun | Lose | W+0.5 | 6.5 | 
-| 2018-09-28 | 第20回中国囲碁甲級リーグ第17節成都-重慶 | Yang Dingxin | Liao Yuanhe | Lose | W+R | 7.5 | 
-| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節杭州-重慶 | Yang Dingxin | Shin Jinseo | Lose | W+R | 7.5 | 
-| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節重慶-中信 | Kim Myounghoon | Yang Dingxin | Win | W+R | 7.5 | 
-| 2018-09-08 | 第20回中国囲碁甲級リーグ第14節天津-重慶 | Yang Dingxin | Xie Erhao | Win | B+R | 7.5 | 
-| 2018-09-05 | 第23回三星火災杯世界囲碁マスターズ1回戦F2 | Yang Dingxin | Lian Xiao | Win | B+R | 6.5 | 
-| 2018-09-04 | 第23回三星火災杯世界囲碁マスターズ1回戦F1 | Lee Youngjoo | Yang Dingxin | Win | W+R | 6.5 | 
-| 2018-08-15 | 第20回中国囲碁甲級リーグ第13節廈門-重慶 | Yang Dingxin | Lee Donghoon | Lose | W+¼ | 7.5 | 
-| 2018-08-13 | 第20回中国囲碁甲級リーグ第12節重慶-上海 | Hu Yaoyu | Yang Dingxin | Win | W+R | 7.5 | 
-| 2018-08-06 | 第20回中国囲碁甲級リーグ第11節山東-重慶 | Yang Dingxin | Na Hyun | Win | B+R | 7.5 | 
-| 2018-08-03 | 嫘祖杯第31回中国囲棋名人戦挑戦者決定戦 | Mi Yuting | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2018-08-01 | 嫘祖杯第31回中国囲棋名人戦準決勝 | Tao Xinran | Yang Dingxin | Win | W+¼ | 7.5 | 
-| 2018-07-28 | 第5回国手山脈杯世界プロ最強戦2回戦 | Yang Dingxin | Park Junghwan | Lose | W+1.5 | 6.5 | 
-| 2018-07-28 | 第5回国手山脈杯世界プロ最強戦1回戦 | Yang Dingxin | Na Hyun | Win | B+R | 6.5 | 
-| 2018-07-16 | 第20回中国囲碁甲級リーグ第10節重慶-衢州 | Yang Dingxin | Hu Yuhan | Win | B+R | 7.5 | 
-| 2018-07-07 | 第23回三星火災杯統合予選決勝 | Park Jinsol | Yang Dingxin | Win | W+R | 6.5 | 
-| 2018-06-25 | 第20回中国囲碁甲級リーグ第9節民生-重慶k | Shen Peiran | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2018-06-04 | 第9期中国竜星戦準決勝 | Yang Dingxin | Lian Xiao | Lose | W+R | 7.5 | 
-| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節重慶-蘇泊爾 | Park Junghwan | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2018-05-30 | 第23回LG杯朝鮮日報棋王戦2回戦 | Weon Seongjin | Yang Dingxin | Win | W+R | 6.5 | 
-| 2018-05-28 | 第23回LG杯朝鮮日報棋王戦1回戦 | Yang Dingxin | Ida Atsushi | Win | B+T | 6.5 | 
-| 2018-05-21 | 第20回中国囲碁甲級リーグ第7節江蘇-重慶 | Yang Dingxin | Zhao Chenyu | Win | B+R | 7.5 | 
-| 2018-05-19 | 嫘祖杯第31回中国囲棋名人戦8強戦 | Tan Xiao | Yang Dingxin | Win | W+R | 7.5 | 
-| 2018-05-17 | 嫘祖杯第31回中国囲棋名人戦16強戦 | Yang Dingxin | Huang Yunsong | Win | B+R | 7.5 | 
-| 2018-05-16 | 嫘祖杯第31回中国囲棋名人戦32強戦 | Fan Yunruo | Yang Dingxin | Win | W+R | 7.5 | 
-| 2018-05-14 | 第20回中国囲碁甲級リーグ第6節重慶-浙江 | Zhou Hexi | Yang Dingxin | Win | W+R | 7.5 | 
-| 2018-05-12 | 第7回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Yang Dingxin | Liao Yuanhe | Lose | W+R | 7.5 | 
-| 2018-05-11 | 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Tuo Jiaxi | Yang Dingxin | Win | W+R | 7.5 | 
-| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節江西-重慶 | Xu Jiayang | Yang Dingxin | Win | W+R | 7.5 | 
-| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節重慶-成都 | Yang Dingxin | Dang Yifei | Lose | W+¼ | 7.5 | 
-| 2018-04-18 | 第9期中国竜星戦Bブロック第8局 | Yang Dingxin | Tuo Jiaxi | Lose | W+R | 7.5 | 
-| 2018-04-17 | 第9期中国竜星戦Bブロック第7局 | Yang Dingxin | Xie Erhao | Win | B+R | 7.5 | 
-| 2018-04-11 | 2018CCTV杯中国囲棋電視快棋戦4回戦 | Fan Tingyu | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2018-04-10 | 2018CCTV杯中国囲棋電視快棋戦3回戦 | Yang Dingxin | Tang Weixing | Win | B+R | 7.5 | 
-| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦2回戦 | Yang Dingxin | Chen Yaoye | Win | B+R | 7.5 | 
-| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Yang Dingxin | Wang Zejin | Win | B+R | 7.5 | 
-| 2018-04-07 | 第23回LG杯予選決勝 | Tao Xinran | Yang Dingxin | Win | W+R | 6.5 | 
-| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節重慶-杭州 | Yang Dingxin | Wu Guangya | Lose | W+R | 7.5 | 
-| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節中信-重慶 | Tuo Jiaxi | Yang Dingxin | Win | W+R | 7.5 | 
-| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節重慶-天津 | Tang Weixing | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2018-03-18 | 第9期中国竜星戦Bブロック第6局 | Chang Hao | Yang Dingxin | Win | W+R | 7.5 | 
-| 2018-03-18 | 第9期中国竜星戦Bブロック第5局 | Yang Dingxin | Han Yizhou | Win | B+R | 7.5 | 
-| 2018-03-16 | 第9期中国竜星戦Bブロック第4局 | Meng Tailing | Yang Dingxin | Win | W+R | 7.5 | 
-| 2018-03-09 | 第17回西南棋王戦2回戦 | Mi Yuting | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2018-03-09 | 第17回西南棋王戦1回戦 | Gu Lingyi | Yang Dingxin | Win | W+4¼ | 7.5 | 
-| 2018-01-15 | 第3回洛陽白雲山杯中国棋聖戦本戦1回戦 | Fan Tingyu | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2018-01-10 | 第3回洛陽白雲山杯中国棋聖戦資格戦3 | Tong Mengcheng | Yang Dingxin | Win | W+R | 7.5 | 
-| 2018-01-08 | 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Yang Dingxin | Huang Yunsong | Win | B+R | 7.5 | 
-| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Dang Yifei | Yang Dingxin | Win | W+R | 7.5 | 
-| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Lee Donghoon | Yang Dingxin | Win | W+R | 7.5 | 
-| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Yang Dingxin | Chen Zhengxun | Win | B+R | 7.5 | 
-| 2017-11-13 | 第22回LG杯朝鮮日報棋王戦準々決勝 | Yang Dingxin | Iyama Yuta | Lose | W+R | 6.5 | 
-| 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Yang Dingxin | Zhao Chenyu | Lose | W+R | 7.5 | 
-| 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Jiang Weijie | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Kang Dongyun | Yang Dingxin | Win | W+R | 7.5 | 
-| 2017-10-10 | 第13期威孚房開杯棋王戦32強戦 | Yang Dingxin | Gu Zihao | Lose | W+R | 7.5 | 
-| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Xu Jiayang | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Yang Dingxin | Chen Yaoye | Lose | W+R | 7.5 | 
-| 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Ding Hao | Yang Dingxin | Win | W+R | 7.5 | 
-| 2017-09-06 | 第22回三星火災杯世界囲碁マスターズ1回戦G2 | Yang Dingxin | Byun Sangil | Lose | W+R | 6.5 | 
-| 2017-09-05 | 第22回三星火災杯世界囲碁マスターズ1回戦G1 | Yang Dingxin | Park Yeonghun | Lose | W+R | 6.5 | 
-| 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Yang Dingxin | An Dongxu | Win | B+R | 7.5 | 
-| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Li Zhe | Yang Dingxin | Win | W+R | 7.5 | 
-| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Yang Dingxin | Lian Xiao | Lose | W+R | 7.5 | 
-| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 |  | Yang Dingxin | Win | W+R | 7.5 | 
-| 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Yang Dingxin |  | Win | B+R | 7.5 | 
-| 2017-08-04 | 嫘祖杯30回中国名人戦16強戦 | Tang Weixing | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2017-08-03 | 嫘祖杯30回中国名人戦32強戦 | Yang Dingxin | Shi Yue | Win | B+R | 7.5 | 
-| 2017-07-31 | 4回国手山脈杯世界団体戦決勝 | Shin Jinseo | Yang Dingxin | Win | W+R | 6.5 | 
-| 2017-07-29 | 4回国手山脈杯世界団体戦4強戦 | Lin Lixiang | Yang Dingxin | Win | W+R | 6.5 | 
-| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Yang Dingxin | Wang Zejin | Lose | W+R | 7.5 | 
-| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Tong Mengcheng | Yang Dingxin | Win | W+R | 7.5 | 
-| 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Chen Xian | Yang Dingxin | Win | W+R | 7.5 | 
-| 2017-07-07 | 2017年中国全国運動会囲碁競技第5戦 | Yang Dingxin | Ke Jie | Lose | W+R | 7.5 | 
-| 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Chen Yaoye | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Yang Dingxin | Zhou Ruiyang | Lose | W+R | 7.5 | 
-| 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Kim Myounghoon | Yang Dingxin | Win | W+R | 6.5 | 
-| 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Yang Dingxin | Yun Junsang | Win | B+R | 6.5 | 
-| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Yang Dingxin | Fan Yin | Win | B+1.5 | 7.5 | 
-| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Tao Xinran | Yang Dingxin | Win | W+R | 7.5 | 
-| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Yang Dingxin |  | Lose | W+R | 7.5 | 
-| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Ding Hao | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Yang Dingxin | Wang Haoyang | Win | B+R | 7.5 | 
-| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Yang Dingxin | Fan Yunruo | Lose | W+2.5 | 7.5 | 
-| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Xie Ke | Yang Dingxin | Win | W+R | 7.5 | 
-| 2017-04-21 | 第14期倡棋杯中国プロ囲碁選手権戦2回戦 | Meng Tailing | Yang Dingxin | Win | W+R | 7.5 | 
-| 2017-04-12 | 第8期中国竜星戦準決勝 | Yang Dingxin | Ke Jie | Lose | W+R | 7.5 | 
-| 2017-04-07 | 第22期LG杯世界予選準決勝 | Na Hyun | Yang Dingxin | Win | W+R | 6.5 | 
-| 2017-03-12 | 第16回西南棋王戦準決勝 | Yang Dingxin | Chang Hao | Win | B+R | 7.5 | 
-| 2017-03-12 | 第16回西南棋王戦決勝 | Yang Dingxin | Tan Xiao | Win | B+R | 7.5 | 
-| 2017-03-11 | 第16回西南棋王戦1回戦 | Dang Yifei | Yang Dingxin | Win | W+R | 7.5 | 
-| 2017-03-11 | 第16回西南棋王戦2回戦 | Yang Dingxin | Mi Yuting | Win | B+R | 7.5 | 
-| 2017-01-13 | 第31期中国囲碁天元戦予選 | Hu Yaoyu | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2017-01-10 | 嫘祖杯第29期中国名人戦準決勝 | Zhou Ruiyang | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2017-01-06 | 嫘祖杯第29期中国名人戦8強戦 | Yang Dingxin | Meng Tailing | Win | B+R | 7.5 | 
-| 2017-01-03 | Alphago Online Series on Tygem and Fox 42 |  | Yang Dingxin | Lose | B+R | 6.5 | 
-| 2017-01-02 | 2016年利民杯世界囲碁星鋭最強戦3回戦 | Yang Dingxin | Huang Yunsong | Lose | W+R | 7.5 | 
-| 2017-01-01 | 2016年利民杯世界囲碁星鋭最強戦2回戦 | Yi Lingtao | Yang Dingxin | Win | W+R | 7.5 | 
-| 2016-12-31 | 2016年利民杯世界囲碁星鋭最強戦1回戦 | Tong Mengcheng | Yang Dingxin | Win | W+R | 7.5 | 
-| 2016-12-28 | 第8期中国竜星戦Bブロック3回戦 | Gu Zihao | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2016-12-26 | 嫘祖杯第29期中国名人戦16強戦 |  | Yang Dingxin | Win | W+0.5 | 7.5 | 
-| 2016-12-24 | 嫘祖杯第29期中国名人戦32強戦 | Tang Weixing | Yang Dingxin | Win | W+R | 7.5 | 
-| 2016-12-13 | 第8期中国竜星戦Bブロック1回戦 | Li He | Yang Dingxin | Win | W+4.5 | 7.5 | 
-| 2016-12-13 | 第8期中国竜星戦Bブロック2回戦 |  | Yang Dingxin | Win | W+R | 7.5 | 
-| 2016-12-03 | 第18回中国囲碁甲級リーグ第22節 | Niu Yutian | Yang Dingxin | Win | W+R | 7.5 | 
-| 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Yang Dingxin | Tao Xinran | Win | B+3.5 | 7.5 | 
-| 2016-11-24 | 第8期中国竜星戦予選 | Yang Dingxin |  | Win | B+R | 7.5 | 
-| 2016-11-24 | 第8期中国竜星戦予選 | Yang Dingxin | Huang Yunsong | Win | B+R | 7.5 | 
-| 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 | Yang Dingxin |  | Lose | W+R | 7.5 | 
-| 2016-11-12 | 第18回中国囲碁甲級リーグ第18節 | Yang Dingxin | Chen Yaoye | Win | B+9.5 | 7.5 | 
-| 2016-11-04 | 第18回中国囲碁甲級リーグ第17節 | Wu Guangya | Yang Dingxin | Lose | B+1.5 | 7.5 | 
-| 2016-10-18 | 第12期威孚房開杯中国囲棋争覇戦8強戦 | Yang Dingxin | Jiang Weijie | Lose | W+R | 7.5 | 
-| 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Yang Dingxin | Kang Dongyun | Lose | W+0.5 | 7.5 | 
-| 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Wang Zejin | Yang Dingxin | Win | W+R | 7.5 | 
-| 2016-08-23 | 第12期威孚房開杯棋王戦2回戦 | Gu Zihao | Yang Dingxin | Win | W+R | 7.5 | 
-| 2016-08-22 | 第12期威孚房開杯棋王戦1回戦 | Yang Dingxin | Meng Tailing | Win | B+R | 7.5 | 
-| 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Fan Yin | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2016-06-25 | 第18回中国囲碁甲級リーグ第10節 | Yang Dingxin | Tao Xinran | Lose | W+R | 7.5 | 
-| 2016-06-20 | 第18回中国囲碁甲級リーグ第9節 | Yang Dingxin | Fan Tingyu | Win | B+R | 7.5 | 
-| 2016-06-06 | 第18回中国囲碁甲級リーグ第7節 |  | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2016-06-04 | 2016CCTV杯中国囲棋電視快棋戦3回戦 | Yang Dingxin | Li Qincheng | Lose | W+R | 7.5 | 
-| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦2回戦 | Sun Tengyu | Yang Dingxin | Win | W+R | 7.5 | 
-| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Yang Dingxin | Dang Yifei | Win | B+R | 7.5 | 
-| 2016-05-25 | 第1回新奥杯世界囲碁オープン戦予選 | Yang Dingxin | Hong Seongji | Lose | W+R | 7.5 | 
-| 2016-05-18 | 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Tan Xiao | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2016-05-16 | 第18回中国囲碁甲級リーグ第5節 | Dang Yifei | Yang Dingxin | Win | W+R | 7.5 | 
-| 2016-05-02 | 第18回中国囲碁甲級リーグ第3節 | Xie Erhao | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2016-04-29 | 2016年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Yang Dingxin |  | Win | B+R | 7.5 | 
-| 2016-04-27 | 2016年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Yang Dingxin | Onishi Ryuhei | Win | B+R | 7.5 | 
-| 2016-04-26 | 2016年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Zhou Yuanjun | Yang Dingxin | Win | W+2.5 | 7.5 | 
-| 2016-04-24 | 第3回グロービス杯世界囲碁U-20三位決定戦 | Byun Sangil | Yang Dingxin | Lose | B+R | 6.5 | 
-| 2016-04-24 | 第3回グロービス杯世界囲碁U-20準決勝 | Hsu Chiayuan | Yang Dingxin | Lose | B+R | 6.5 | 
-| 2016-04-23 | 第3回グロービス杯世界囲碁U-20準々決勝 | Yang Dingxin | Shin Jinseo | Win | B+7.5 | 6.5 | 
-| 2016-04-23 | 第3回グロービス杯世界囲碁U-20グループリーグA | Ichiriki Ryo | Yang Dingxin | Win | W+R | 6.5 | 
-| 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグA | Yang Dingxin | Krit Jamkachornkiat | Win | B+R | 6.5 | 
-| 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグA | Yang Dingxin | Ichiriki Ryo | Lose | W+R | 6.5 | 
-| 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Mi Yuting | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Qin Yuexin | Yang Dingxin | Win | W+R | 7.5 | 
-| 2016-03-19 | 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Yang Dingxin | Mi Yuting | Lose | W+R | 7.5 | 
-| 2016-03-08 | 第15回西南棋王戦決勝 | Yang Dingxin | Tao Xinran | Win | B+R | 7.5 | 
-| 2016-03-08 | 第15回西南棋王戦準決勝 | Yang Dingxin | Gu Lingyi | Win | B+R | 7.5 | 
-| 2016-03-07 | 第15回西南棋王戦2回戦 | Yang Dingxin | Gu Li | Win | B+R | 7.5 | 
-| 2016-03-07 | 第15回西南棋王戦1回戦 | Liao Yuanhe | Yang Dingxin | Win | W+R | 7.5 | 
-| 2016-02-21 | 2016四都市新鋭対抗戦第3戦 | Ichiriki Ryo | Yang Dingxin | Win | W+R | 6.5 | 
-| 2016-02-20 | 2016四都市新鋭対抗戦第2戦 | Yang Dingxin | Lee Donghoon | Win | B+R | 6.5 | 
-| 2016-02-19 | 2016四都市新鋭対抗戦第1戦 | Yang Dingxin | Lin Junyan | Win | B+R | 6.5 | 
-| 2016-01-15 | 第30期中国囲碁天元戦1回戦 | Yang Dingxin | Tang Weixing | Lose | W+R | 7.5 | 
-| 2015-12-06 | 第17回中国囲碁甲級リーグ第22節 | Yang Dingxin | Huang Yunsong | Lose | W+0.5 | 7.5 | 
-| 2015-12-04 | 第17回中国囲碁甲級リーグ第21節 | Yang Dingxin | Zhang Tao | Win | B+R | 7.5 | 
-| 2015-11-13 | 第17回中国囲碁甲級リーグ第20節 | Yang Dingxin | Peng Liyao | Lose | W+R | 7.5 | 
-| 2015-11-08 | 第17回中国囲碁甲級リーグ第19節 | Kang Dongyun | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 |  | Yang Dingxin | Win | W+R | 7.5 | 
-| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Choi Cheolhan | Yang Dingxin | Win | W+R | 7.5 | 
-| 2015-10-15 | 第17回中国囲碁甲級リーグ第15節 | Park Junghwan | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2015-10-12 | 第11期威孚房開杯棋王戦1回戦 | Yang Dingxin | Tan Xiao | Lose | W+R | 7.5 | 
-| 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Yang Dingxin | Na Hyun | Lose | W+R | 7.5 | 
-| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Yang Dingxin | Xiao Zhenghao | Win | B+R | 6.5 | 
-| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yang Dingxin | Ahn Kukhyun | Win | B+R | 6.5 | 
-| 2015-10-02 | 第2回おかげ杯国際精鋭囲碁対抗戦第2戦 | Ida Atsushi | Yang Dingxin | Lose | B+R | 6.5 | 
-| 2015-10-02 | 第2回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yang Dingxin | Chen Shiyuan | Lose | W+R | 6.5 | 
-| 2015-09-27 | 第7期中国竜星戦1回戦 | Xie He | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2015-09-24 | 第17回中国囲碁甲級リーグ第14節 | Ding Shixiong | Yang Dingxin | Win | W+R | 7.5 | 
-| 2015-09-22 | 第3回全国智力運動会囲碁男子団体戦 | Fan Yunruo | Yang Dingxin | Win | W+R | 7.5 | 
-| 2015-09-21 | 第3回全国智力運動会囲碁男子団体戦 | Yang Dingxin | Wu Guangya | Win | B+R | 7.5 | 
-| 2015-09-21 | 第3回全国智力運動会囲碁男子団体戦 | Gong Yanyu | Yang Dingxin | Win | W+R | 7.5 | 
-| 2015-09-18 | 第3回全国智力運動会囲碁男子団体戦 | Fan Yin | Yang Dingxin | Win | W+R | 7.5 | 
-| 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Chen Yaoye | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Yang Dingxin | Tan Xiao | Win | B+R | 7.5 | 
-| 2015-08-27 | 第27回テレビアジア選手権準決勝 | Lee Sedol | Yang Dingxin | Lose | B+R | 6.5 | 
-| 2015-08-26 | 第27回テレビアジア選手権1回戦 | Yang Dingxin | Ichiriki Ryo | Win | B+0.5 | 6.5 | 
-| 2015-08-02 | 第20回三星火災杯統合予選1回戦 | Weon Seongjin | Yang Dingxin | Lose | B+R | 6.5 | 
-| 2015-07-11 | 第17回中国囲碁甲級リーグ第11節 | Mi Yuting | Yang Dingxin | Win | W+R | 7.5 | 
-| 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 | Qin Yuexin | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Tao Xinran | Yang Dingxin | Win | W+4.5 | 7.5 | 
-| 2015-06-25 | 第17回中国囲碁甲級リーグ第8節 | Yang Dingxin | Xia Chenkun | Lose | W+R | 7.5 | 
-| 2015-06-23 | 第28期中国囲碁名人戦3回戦 | Yang Dingxin | Li Qincheng | Lose | W+R | 7.5 | 
-| 2015-06-15 | 第17期阿含・桐山杯中国早碁オープン戦予選 |  | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2015-06-13 | 第17回中国囲碁甲級リーグ第7節 | Niu Yutian | Yang Dingxin | Win | W+R | 7.5 | 
-| 2015-06-11 | 第28期中国囲碁名人戦2回戦 | Yang Dingxin | Meng Tailing | Win | B+R | 7.5 | 
-| 2015-05-28 | 第17回中国囲碁甲級リーグ第6節 | Meng Tailing | Yang Dingxin | Win | W+R | 7.5 | 
-| 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Qiu Jun | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2015-05-16 | 第17回中国囲碁甲級リーグ第4節 | Yang Dingxin | Lian Xiao | Lose | W+R | 7.5 | 
-| 2015-05-14 | 第17回中国囲碁甲級リーグ第3節 | Jiang Weijie | Yang Dingxin | Win | W+0.5 | 7.5 | 
-| 2015-05-09 | 第2回グロービス杯世界囲碁U-20準々決勝 | Yang Dingxin | Na Hyun | Lose | W+R | 6.5 | 
-| 2015-05-09 | 第2回グロービス杯世界囲碁U-20グループリーグB | Fujimura Yosuke | Yang Dingxin | Win | W+R | 6.5 | 
-| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグB | Lee Donghoon | Yang Dingxin | Lose | B+R | 6.5 | 
-| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグB | Pavol Lisy | Yang Dingxin | Win | W+R | 6.5 | 
-| 2015-05-06 | 第28期中国囲碁名人戦1回戦 | Zhou Hexi | Yang Dingxin | Win | W+R | 7.5 | 
-| 2015-04-29 | 第17回中国囲碁甲級リーグ第2節 | Yang Dingxin | Tuo Jiaxi | Lose | W+R | 7.5 | 
-| 2015-04-22 | 第17回中国囲碁甲級リーグ第1節 | Tan Xiao | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2015-04-07 | 第12期倡棋杯中国プロ囲碁選手権戦3回戦 | Yang Dingxin | Lian Xiao | Lose | W+R | 7.5 | 
-| 2015-04-05 | 第12期倡棋杯中国プロ囲碁選手権戦2回戦 | Yang Dingxin | Tang Weixing | Win | B+R | 7.5 | 
-| 2015-03-09 | 第14回西南棋王戦2回戦 | Yang Dingxin | Tang Weixing | Lose | W+T | 7.5 | 
-| 2015-01-30 | 第29期中国囲碁天元戦3回戦 | Tang Weixing | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2015-01-29 | 第29期中国囲碁天元戦2回戦 | Yang Dingxin | Peng Liyao | Win | B+R | 7.5 | 
-| 2015-01-27 | 第29期中国囲碁天元戦1回戦 | Yang Dingxin | Mao Ruilong | Win | B+3.5 | 7.5 | 
-| 2015-01-20 | 第15期リコー杯囲碁戦2回戦 | Mao Ruilong | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2014-12-23 | 2014年利民杯世界囲碁星鋭最強戦決勝 | Tong Mengcheng | Yang Dingxin | Lose | B+1.5 | 7.5 | 
-| 2014-12-22 | 2014年利民杯世界囲碁星鋭最強戦準決勝 | Yang Dingxin | Shin Jinseo | Win | B+R | 7.5 | 
-| 2014-12-21 | 2014年利民杯世界囲碁星鋭最強戦3回戦 | Li Qincheng | Yang Dingxin | Win | W+R | 7.5 | 
-| 2014-12-20 | 2014年利民杯世界囲碁星鋭最強戦2回戦 | Yu Zhiying | Yang Dingxin | Win | W+R | 7.5 | 
-| 2014-12-19 | 2014年利民杯世界囲碁星鋭最強戦1回戦 |  | Yang Dingxin | Win | W+6.5 | 7.5 | 
-| 2014-11-25 | 第16回中国囲碁甲級リーグ第22節 | Yang Dingxin | Dang Yifei | Win | B+R | 7.5 | 
-| 2014-11-22 | 第16回中国囲碁甲級リーグ第21節 | Ke Jie | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2014-11-14 | 第10期威孚房開杯棋王戦準決勝 | Jiang Weijie | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2014-11-13 | 第10期威孚房開杯棋王戦3回戦 | Qiu Jun | Yang Dingxin | Win | W+R | 7.5 | 
-| 2014-11-11 | 第16回中国囲碁甲級リーグ第20節 | Piao Wenyao | Yang Dingxin | Win | W+R | 7.5 | 
-| 2014-11-09 | 第16回中国囲碁甲級リーグ第19節 | Yang Dingxin | Qin Yuexin | Lose | W+0.5 | 7.5 | 
-| 2014-10-31 | 第16回中国囲碁甲級リーグ第18節 | Yang Dingxin | Zhou Ruiyang | Lose | W+R | 7.5 | 
-| 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 | Meng Tailing | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2014-10-25 | 第11期倡棋杯中国プロ囲碁選手権戦決勝三番勝負第2局 | Piao Wenyao | Yang Dingxin | Win | W+3 | 7.5 | 
-| 2014-10-23 | 第11期倡棋杯中国プロ囲碁選手権戦決勝三番勝負第1局 | Yang Dingxin | Piao Wenyao | Win | B+R | 7.5 | 
-| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Yang Dingxin | Qiu Jun | Lose | W+R | 7.5 | 
-| 2014-10-15 | 第6期中国竜星戦2回戦 | Yang Dingxin | Tuo Jiaxi | Lose | W+R | 7.5 | 
-| 2014-10-12 | 第10期威孚房開杯棋王戦2回戦 | Yang Dingxin | Zhong Wenjing | Win | B+R | 7.5 | 
-| 2014-10-11 | 第10期威孚房開杯棋王戦1回戦 | Yang Dingxin | Tuo Jiaxi | Win | B+R | 7.5 | 
-| 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Tan Xiao | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2014-10-03 | 2014年国際新鋭囲碁対抗戦第3戦 | Yang Dingxin | Lin Junyan | Win | B+2.5 | 6.5 | 
-| 2014-10-02 | 2014年国際新鋭囲碁対抗戦第2戦 | Yang Dingxin | Shin Jinseo | Win | B+R | 6.5 | 
-| 2014-10-01 | 2014年国際新鋭囲碁対抗戦第1戦 | Terayama Rei | Yang Dingxin | Win | W+R | 6.5 | 
-| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Lee Sedol | Yang Dingxin | Lose | B+1.5 | 7.5 | 
-| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Yang Dingxin | Choi Cheolhan | Win | B+1.5 | 7.5 | 
-| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Chen Yaoye | Yang Dingxin | Win | W+R | 7.5 | 
-| 2014-09-02 | 第6期中国竜星戦1回戦 | Yang Dingxin | Li Xuanhao | Win | B+R | 7.5 | 
-| 2014-08-27 | 第19回三星火災杯世界囲碁マスターズ1回戦D2 | Yang Dingxin | Rong Yi | Lose | W+R | 6.5 | 
-| 2014-08-26 | 第19回三星火災杯世界囲碁マスターズ1回戦D1 | Kang Dongyun | Yang Dingxin | Lose | B+R | 6.5 | 
-| 2014-08-14 | 第11期倡棋杯中国プロ囲碁選手権戦準決勝第3局 | Yang Dingxin | Shi Yue | Win | B+R | 7.5 | 
-| 2014-08-13 | 第11期倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Shi Yue | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2014-08-11 | 第11期倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Yang Dingxin | Shi Yue | Win | B+1 | 7.5 | 
-| 2014-08-06 | 第19回三星火災杯統合予選決勝 | Lee Jungwoo | Yang Dingxin | Win | W+R | 6.5 | 
-| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Yang Dingxin | Jiang Weijie | Lose | W+R | 7.5 | 
-| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Gu Lingyi | Yang Dingxin | Win | W+R | 7.5 | 
-| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Yang Dingxin | Park Junghwan | Win | B+R | 7.5 | 
-| 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Yang Kaiwen | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2014-07-02 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Luo Xihe | Yang Dingxin | Win | W+R | 7.5 | 
-| 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Wu Guangya | Yang Dingxin | Win | W+R | 7.5 | 
-| 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Qin Yuexin | Yang Dingxin | Win | W+R | 7.5 | 
-| 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Yang Dingxin | Lian Xiao | Lose | W+R | 7.5 | 
-| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Jiang Weijie | Yang Dingxin | Win | W+R | 7.5 | 
-| 2014-06-05 | 第16回中国囲碁甲級リーグ第6節 | Tong Mengcheng | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2014-06-01 | 第11期倡棋杯中国プロ囲碁選手権戦3回戦 | Gu Lingyi | Yang Dingxin | Win | W+R | 7.5 | 
-| 2014-05-30 | 第11期倡棋杯中国プロ囲碁選手権戦2回戦 | Yang Dingxin | Liu Xing | Win | B+R | 7.5 | 
-| 2014-05-28 | 第11期倡棋杯中国プロ囲碁選手権戦1回戦 | Li Zhe | Yang Dingxin | Win | W+R | 7.5 | 
-| 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Yang Dingxin | Tan Xiao | Lose | W+R | 7.5 | 
-| 2014-05-18 | 第16回中国囲碁甲級リーグ第3節 | Yang Dingxin | Lee Sedol | Lose | W+0.5 | 7.5 | 
-| 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | An Dongxu | Yang Dingxin | Win | W+R | 7.5 | 
-| 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Yang Dingxin | Chen Yaoye | Lose | W+R | 7.5 | 
-| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Yang Dingxin | An Dongxu | Lose | W+R | 7.5 | 
-| 2014-04-04 | 第27期中国囲碁名人戦1回戦 | Yang Dingxin | Niu Yutian | Lose | W+R | 7.5 | 
-| 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Yang Dingxin |  | Win | B+R | 7.5 | 
-| 2014-02-17 | 第14期リコー杯囲碁戦3回戦 | Yang Dingxin | Huang Yunsong | Lose | W+0.5 | 7.5 | 
-| 2014-01-15 | 第28期中国囲碁天元戦1回戦 | Xie Erhao | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2013-12-30 | 第14期リコー杯囲碁戦2回戦 | Yang Dingxin | Zhao Chenyu | Win | B+R | 7.5 | 
-| 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 |  | Yang Dingxin | Win | W+R | 7.5 | 
-| 2013-11-23 | 第15回中国囲碁甲級リーグ第21節 | Tang Weixing | Yang Dingxin | Win | W+R | 7.5 | 
-| 2013-11-16 | 第15回中国囲碁甲級リーグ第20節 | Na Hyun | Yang Dingxin | Win | W+0.5 | 7.5 | 
-| 2013-11-02 | 第15回中国囲碁甲級リーグ第19節 | Yang Dingxin | Zhong Wenjing | Lose | W+R | 7.5 | 
-| 2013-10-31 | 第9期威孚房開杯棋王戦決勝 | Zhou Ruiyang | Yang Dingxin | Win | W+R | 7.5 | 
-| 2013-10-30 | 第9期威孚房開杯棋王戦準決勝 | Tong Mengcheng | Yang Dingxin | Win | W+R | 7.5 | 
-| 2013-10-29 | 第9期威孚房開杯棋王戦3回戦 | Yang Dingxin | Wu Guangya | Win | B+R | 7.5 | 
-| 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 | Yang Dingxin | Jiang Weijie | Win | B+R | 7.5 | 
-| 2013-10-13 | 第15回中国囲碁甲級リーグ第16節 | Fan Yunruo | Yang Dingxin | Win | W+R | 7.5 | 
-| 2013-09-21 | 2013年全国囲棋個人戦男子組第6戦 | Yang Dingxin | Zhou Hexi | Lose | W+R | 7.5 | 
-| 2013-09-18 | 2013年全国囲棋個人戦男子組第4戦 | Yang Dingxin | Qiu Jun | Win | B+R | 6.5 | 
-| 2013-09-12 | 第15回中国囲碁甲級リーグ第15節 | Yang Dingxin | Xie Erhao | Win | B+R | 7.5 | 
-| 2013-09-09 | 第5期中国竜星戦1回戦 | Zhou Ruiyang | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2013-09-09 | 第5期中国竜星戦予選 | Chen Hao | Yang Dingxin | Win | W+R | 7.5 | 
-| 2013-09-07 | 第15回中国囲碁甲級リーグ第14節 | Yang Dingxin | Kim Jiseok | Win | B+R | 7.5 | 
-| 2013-09-01 | 第15回中国囲碁甲級リーグ第13節 | Shi Yue | Yang Dingxin | Win | W+R | 7.5 | 
-| 2013-08-30 | 第15回中国囲碁甲級リーグ第12節 | Wang Haoyang | Yang Dingxin | Win | W+R | 7.5 | 
-| 2013-08-28 | 第9期威孚房開杯棋王戦2回戦 | Gu Lingyi | Yang Dingxin | Win | W+R | 7.5 | 
-| 2013-08-27 | 第9期威孚房開杯棋王戦1回戦 | Yang Dingxin | Tuo Jiaxi | Win | B+R | 7.5 | 
-| 2013-07-15 | 第15回中国囲碁甲級リーグ第11節 | Yang Dingxin | Tong Yulin | Win | B+R | 7.5 | 
-| 2013-07-07 | 第15回中国囲碁甲級リーグ第10節 | Meng Tailing | Yang Dingxin | Win | W+R | 7.5 | 
-| 2013-06-22 | 第15回中国囲碁甲級リーグ第9節 |  | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2013-06-15 | 第15回中国囲碁甲級リーグ第8節 | Kong Jie | Yang Dingxin | Win | W+R | 7.5 | 
-| 2013-06-06 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Yang Dingxin | Han Yizhou | Lose | W+R | 7.5 | 
-| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Yang Dingxin |  | Win | B+R | 7.5 | 
-| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 |  | Yang Dingxin | Win | W+R | 7.5 | 
-| 2013-05-27 | 第10期倡棋杯中国プロ囲碁選手権戦1回戦 | Yang Dingxin | Tang Weixing | Lose | W+R | 7.5 | 
-| 2013-05-23 | 第1回夢百合杯世界オープン戦予選 | Yang Dingxin | Choi Cheolhan | Lose | W+R | 7.5 | 
-| 2013-05-09 | 第15回中国囲碁甲級リーグ第4節 |  | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2013-05-07 | 第10期倡棋杯中国プロ囲碁選手権戦予選 | Yang Dingxin | Li Kang | Win | B+R | 7.5 | 
-| 2013-05-06 | 第10期倡棋杯中国プロ囲碁選手権戦予選 | Yang Dingxin |  | Win | B+R | 7.5 | 
-| 2013-04-20 | 第18回LG杯予選 | Yang Dingxin | An Sungjoon | Win | B+2.5 | 6.5 | 
-| 2013-04-13 | 第26期中国囲碁名人戦1回戦 | Zhong Wenjing | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2013-04-07 | 第15回中国囲碁甲級リーグ第2節 | Li Zhe | Yang Dingxin | Win | W+R | 7.5 | 
-| 2013-03-13 | 2013CCTV杯中国囲棋電視快棋戦2回戦 | Yang Dingxin | Peng Liyao | Lose | W+0.5 | 7.5 | 
-| 2013-03-13 | 2013CCTV杯中国囲棋電視快棋戦1回戦 | Yang Dingxin | Liao Xingwen | Win | B+R | 7.5 | 
-| 2013-03-09 | 第12回西南棋王戦1回戦 | Gu Li | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2013-02-21 | 第13期リコー杯囲碁戦3回戦 | Yang Dingxin | Tang Weixing | Lose | W+R | 7.5 | 
-| 2013-01-26 | 第27期中国囲碁天元戦2回戦 | Yang Dingxin | Qiu Jun | Lose | W+R | 7.5 | 
-| 2013-01-24 | 第27期中国囲碁天元戦1回戦 | Yang Dingxin | Hu Yaoyu | Win | B+R | 7.5 | 
-| 2012-12-29 | 第13期リコー杯囲碁戦2回戦 |  | Yang Dingxin | Win | W+R | 7.5 | 
-| 2012-12-08 | 第14回中国囲碁甲級リーグ第22節 |  | Yang Dingxin | Win | W+R | 7.5 | 
-| 2012-12-05 | 第14回中国囲碁甲級リーグ第21節 | Yang Dingxin | Qiu Jun | Win | B+R | 7.5 | 
-| 2012-11-24 | 第14回中国囲碁甲級リーグ第20節 | Jiang Weijie | Yang Dingxin | Lose | B+1.5 | 7.5 | 
-| 2012-11-10 | 第14回中国囲碁甲級リーグ第19節 | Yang Dingxin | Meng Tailing | Win | B+5.5 | 7.5 | 
-| 2012-11-03 | 第14回中国囲碁甲級リーグ第18節 | Kong Jie | Yang Dingxin | Win | W+0.5 | 7.5 | 
-| 2012-10-15 | 第4期中国竜星戦1回戦 | Yang Dingxin | Peng Quan | Lose | W+R | 7.5 | 
-| 2012-09-28 | 第14回中国囲碁甲級リーグ第15節 |  | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2012-09-19 | 2012年全国囲棋個人戦男子組第4戦 | Yang Dingxin | Li Kang | Lose | W+R | 7.5 | 
-| 2012-09-08 | 第14回中国囲碁甲級リーグ第14節 | Gu Zihao | Yang Dingxin | Win | W+R | 7.5 | 
-| 2012-09-01 | 第14回中国囲碁甲級リーグ第13節 | Yang Dingxin | Niu Yutian | Win | B+R | 7.5 | 
-| 2012-08-30 | 第14回中国囲碁甲級リーグ第12節 | Guo Yuzheng | Yang Dingxin | Win | W+R | 7.5 | 
-| 2012-08-19 | 第1回百霊杯世界囲碁選手権2回戦 | Chen Xian | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2012-08-06 | 第17回三星火災杯統合予選準決勝 | Kang Dongyun | Yang Dingxin | Lose | B+R | 6.5 | 
-| 2012-07-09 | 2012CCTV杯中国囲棋電視快棋戦1回戦 | Yang Dingxin | Li Kang | Win | B+R | 7.5 | 
-| 2012-06-30 | 第14回中国囲碁甲級リーグ第8節 |  | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Yang Dingxin |  | Lose | W+R | 7.5 | 
-| 2012-04-30 | 第14回中国囲碁甲級リーグ第2節 | Yang Dingxin | Li Kang | Lose | W+R | 7.5 | 
-| 2012-04-07 | 第12期リコー杯囲碁戦決勝 | Yang Dingxin | Piao Wenyao | Win | B+R | 7.5 | 
-| 2012-04-02 | 第25期中国囲碁名人戦予選 | An Dongxu | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2012-03-21 | 第19期建橋杯中国囲碁新人王戦3回戦 | Tao Xinran | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2012-03-20 | 第19期建橋杯中国囲碁新人王戦2回戦 | Yang Dingxin | Dang Yifei | Win | B+R | 7.5 | 
-| 2012-03-19 | 第19期建橋杯中国囲碁新人王戦1回戦 | Yang Dingxin | Wang Chenxing | Win | B+R | 7.5 | 
-| 2012-03-14 | 第1回百霊杯世界囲碁選手権1回戦 | Ha Youngil | Yang Dingxin | Win | W+6.5 | 7.5 | 
-| 2012-03-07 | 第11回西南棋王戦準決勝 | Yang Dingxin | Peng Liyao | Lose | W+R | 7.5 | 
-| 2012-03-06 | 第11回西南棋王戦2回戦 | Yang Dingxin | Li Xuanhao | Win | B+3.5 | 7.5 | 
-| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Yang Dingxin | Kim Seungjun | Lose | W+R | 6.5 | 
-| 2012-02-29 | 第4回BCカード杯世界選手権統合予選決勝 | Kang Dongyun | Yang Dingxin | Win | W+0.5 | 6.5 | 
-| 2012-02-23 | 第6期リコー杯新秀戦決勝 | Li Xuanhao | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2012-02-22 | 第6期リコー杯新秀戦準決勝 | Mi Yuting | Yang Dingxin | Win | W+R | 7.5 | 
-| 2012-02-21 | 第6期リコー杯新秀戦2回戦 | Yang Dingxin |  | Win | B+R | 7.5 | 
-| 2012-02-20 | 第12期リコー杯囲碁戦準決勝 | Mi Yuting | Yang Dingxin | Win | W+4.5 | 7.5 | 
-| 2012-02-10 | 第26期中国囲碁天元戦1回戦 | Yang Dingxin | Zhou Hexi | Lose | W+R | 7.5 | 
-| 2012-02-09 | 第26期中国囲碁天元戦予選 | Guo Yuzheng | Yang Dingxin | Win | W+6.5 | 7.5 | 
-| 2012-02-06 | 第12期リコー杯囲碁戦4回戦 | Fan Tingyu | Yang Dingxin | Win | W+2.5 | 7.5 | 
-| 2012-01-12 | 第12期リコー杯囲碁戦3回戦 | Yang Kaiwen | Yang Dingxin | Win | W+R | 7.5 | 
-| 2011-12-29 | 第12期リコー杯囲碁戦1回戦 | Wang Lei (s) | Yang Dingxin | Win | W+0.5 | 7.5 | 
-| 2011-12-28 | 第6期リコー杯新秀戦1回戦 |  | Yang Dingxin | Win | W+R | 7.5 | 
-| 2011-12-26 | 第13回中国囲碁甲級リーグ第22節 | Yang Dingxin | Tang Weixing | Lose | W+R | 7.5 | 
-| 2011-10-29 | 第13回中国囲碁甲級リーグ第18節 | Gu Zihao | Yang Dingxin | Win | W+6.5 | 7.5 | 
-| 2011-10-08 | 第13回中国囲碁甲級リーグ第16節 | Yang Dingxin | Guo Yuzheng | Win | B+3.5 | 7.5 | 
-| 2011-09-18 | 2011年全国囲棋個人戦男子組第4戦 | Zhou Hexi | Yang Dingxin | Lose | B+1.5 | 7.5 | 
-| 2011-09-10 | 第13回中国囲碁甲級リーグ第14節 | Zhou Heyang | Yang Dingxin | Win | W+R | 7.5 | 
-| 2011-09-06 | 第13回中国囲碁甲級リーグ第13節 | Yang Dingxin | Liao Xingwen | Win | B+R | 7.5 | 
-| 2011-09-04 | 第13回中国囲碁甲級リーグ第12節 | Peng Liyao | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2011-07-14 | 第13回中国囲碁甲級リーグ第11節 | Meng Tailing | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2011-07-12 | 第13期阿含・桐山杯中国早碁オープン戦2回戦 | Piao Wenyao | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2011-07-11 | 第13期阿含・桐山杯中国早碁オープン戦1回戦 | Qiu Jun | Yang Dingxin | Win | W+2.5 | 7.5 | 
-| 2011-07-09 | 第13回中国囲碁甲級リーグ第10節 | Mao Ruilong | Yang Dingxin | Win | W+R | 7.5 | 
-| 2011-07-02 | 第13回中国囲碁甲級リーグ第9節 | Yang Dingxin | Kong Jie | Lose | W+R | 7.5 | 
-| 2011-06-25 | 第13回中国囲碁甲級リーグ第8節 | Yang Dingxin | Ding Lie | Lose | W+R | 7.5 | 
-| 2011-06-23 | 第13期阿含・桐山杯中国早碁オープン戦予選 | Pan Fei | Yang Dingxin | Win | W+2.5 | 7.5 | 
-| 2011-02-20 | 第18期建橋杯中国囲碁新人王戦1回戦 |  | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2011-01-18 | 第5期リコー杯新秀戦決勝 | Fan Yunruo | Yang Dingxin | Win | W+R | 7.5 | 
-| 2010-12-21 | 第5期リコー杯新秀戦準決勝 | Yang Dingxin | Han Yizhou | Win | B+R | 7.5 | 
-| 2010-12-11 | 第12回中国囲碁甲級リーグ第21節 | Mao Ruilong | Yang Dingxin | Win | W+2.5 | 7.5 | 
-| 2010-12-08 | 第5期リコー杯新秀戦2回戦 | Yang Dingxin | Li Qincheng | Win | B+R | 7.5 | 
-| 2010-12-07 | 第11期リコー杯囲碁戦1回戦 | Yang Dingxin | Tang Yi | Win | B+R | 7.5 | 
-| 2010-10-27 | 第12回中国囲碁甲級リーグ第17節 | Tang Weixing | Yang Dingxin | Win | W+4.5 | 7.5 | 
-| 2010-10-09 | 第12回中国囲碁甲級リーグ第14節 |  | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2010-09-28 | 第3回衢州・爛柯杯中国囲棋冠軍戦準決勝 | Yang Dingxin | Jiang Weijie | Lose | W+2.5 | 7.5 | 
-| 2010-09-27 | 第3回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Yang Dingxin | Li Zhe | Win | B+1.5 | 7.5 | 
-| 2010-07-10 | 第12回中国囲碁甲級リーグ第10節 | Lian Xiao | Yang Dingxin | Win | W+R | 7.5 | 
-| 2010-07-03 | 第12回中国囲碁甲級リーグ第9節 | Yang Dingxin | Tuo Jiaxi | Lose | W+R | 7.5 | 
-| 2010-06-17 | 第3回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Yang Dingxin | Chen Yaoye | Win | B+5.5 | 7.5 | 
-| 2010-06-15 | 第3回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Yang Dingxin | Wang Yao | Win | B+R | 7.5 | 
-| 2010-03-04 | 2010CCTV杯中国囲棋電視快棋戦2回戦 | Yang Dingxin | Gu Li | Lose | W+R | 7.5 | 
-| 2010-01-22 | 第24期中国囲碁天元戦予選 | Wang Chenxing | Yang Dingxin | Lose | B+1.5 | 7.5 | 
-| 2010-01-21 | 第24期中国囲碁天元戦予選 |  | Yang Dingxin | Win | W+16.5 | 7.5 | 
-| 2010-01-20 | 第24期中国囲碁天元戦予選 |  | Yang Dingxin | Win | W+2.5 | 7.5 | 
-| 2010-01-19 | 第24期中国囲碁天元戦予選 | Yang Dingxin | Guo Yuzheng | Win | B+3.5 | 7.5 | 
-| 2009-12-30 | 第10期リコー杯囲碁戦2回戦 | Yang Dingxin | Gu Li | Lose | W+R | 7.5 | 
-| 2009-12-29 | 第4期リコー杯新秀戦1回戦 | Lian Xiao | Yang Dingxin | Lose | B+R | 7.5 | 
-| 2009-12-28 | 第10期リコー杯囲碁戦1回戦 | Lu Jia | Yang Dingxin | Win | W+R | 7.5 | 
-| 2009-12-20 | 第4期リコー杯新秀戦予選 | Yang Dingxin |  | Win | B+R | 7.5 | 
-| 2009-03-06 | 第22期中国囲碁名人戦予選 | Yang Dingxin |  | Lose | W+R | 7.5 | 
-| 2009-03-05 | 第22期中国囲碁名人戦予選 | Yang Dingxin | Fan Weijing | Win | B+R | 7.5 | 
-| 2009-03-04 | 第22期中国囲碁名人戦予選 | Yang Dingxin | Jiang Wei | Win | B+R | 7.5 | 
-| 2009-03-03 | 第22期中国囲碁名人戦予選 | Yang Dingxin |  | Win | B+3.5 | 7.5 | 
-| 2008-12-16 | 第3期リコー杯新秀戦予選 | Yang Dingxin |  | Lose | W+R | 7.5 |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Park Junghwan | Lose | W+R | 7.5 | 3591 | -9 | 
+| 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Kim Jiseok | Yang Dingxin | Win | W+R | 6.5 | 3600 | 4 | 
+| 2021-05-12 | 第23回中国囲碁甲級リーグ | Ke Jie | Yang Dingxin | Win | W+R | 7.5 | 3596 | 0 | 
+| 2021-05-11 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Li Weiqing | Win | B+R | 7.5 | 3596 | 5 | 
+| 2021-05-10 | 第23回中国囲碁甲級リーグ | Xie Erhao | Yang Dingxin | Win | W+R | 7.5 | 3591 | 10 | 
+| 2021-05-08 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Shin Minjun | Lose | W+¼ | 7.5 | 3581 | -1 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Gu Zihao | Yang Dingxin | Lose | B+R | 7.5 | 3582 | -31 | 
+| 2021-04-26 | 第20回西南棋王戦決勝 | Yang Dingxin | Mi Yuting | Win | B+R | 7.5 | 3613 | 0 | 
+| 2021-04-26 | 第20回西南棋王戦準決勝 | Tang Weixing | Yang Dingxin | Win | W+R | 7.5 | 3613 | 9 | 
+| 2021-04-25 | 第20回西南棋王戦2回戦 | Gu Li | Yang Dingxin | Win | W+R | 7.5 | 3604 | 0 | 
+| 2021-04-25 | 第20回西南棋王戦1回戦 | Yang Dingxin | Zheng Zaixiang | Win | B+R | 7.5 | 3604 | 6 | 
+| 2021-04-22 | 第17回倡棋杯中国プロ囲碁選手権戦3回戦 | Yang Dingxin | Dang Yifei | Win | B+¾ | 7.5 | 3598 | 13 | 
+| 2021-04-20 | 第17回倡棋杯中国プロ囲碁選手権戦2回戦 | Xie Erhao | Yang Dingxin | Win | W+R | 7.5 | 3585 | -14 | 
+| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Yang Dingxin | Chen Xian | Win | B+2¾ | 7.5 | 3599 | 1 | 
+| 2021-04-17 | 第35期中国囲碁天元戦挑戦手合三番勝負第3局 | Yang Dingxin | Gu Zihao | Lose | W+R | 7.5 | 3598 | 38 | 
+| 2021-04-16 | 第35期中国囲碁天元戦挑戦手合三番勝負第2局 | Yang Dingxin | Gu Zihao | Lose | W+R | 7.5 | 3560 | -9 | 
+| 2021-04-15 | 第35期中国囲碁天元戦挑戦手合三番勝負第1局 | Gu Zihao | Yang Dingxin | Win | W+R | 7.5 | 3569 | -38 | 
+| 2021-04-01 | 2021年龍華杯深圳市囲碁戦 | Yang Dingxin | Shi Yue | Win | B+R | 7.5 | 3607 | 10 | 
+| 2021-03-31 | 2021年龍華杯深圳市囲碁戦 | Tuo Jiaxi | Yang Dingxin | Win | W+R | 7.5 | 3597 | -3 | 
+| 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Tu Xiaoyu | Yang Dingxin | Win | W+R | 7.5 | 3600 | -72 | 
+| 2021-02-23 | 第22回農心辛ラーメン杯世界囲碁最強戦第11戦 | Shin Jinseo | Yang Dingxin | Lose | B+R | 6.5 | 3672 | -139 | 
+| 2021-01-08 | 第8回衢州・爛柯杯中国囲碁冠軍戦決勝 | Yang Dingxin | Xu Jiayang | Lose | W+R | 7.5 | 3811 | -13 | 
+| 2021-01-06 | 第8回衢州・爛柯杯中国囲碁冠軍戦準決勝 | Tao Xinran | Yang Dingxin | Win | W+¼ | 7.5 | 3824 | 11 | 
+| 2021-01-05 | 第8回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Yi Lingtao | Yang Dingxin | Win | W+R | 7.5 | 3813 | 5 | 
+| 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Yang Dingxin | Mi Yuting | Win | B+R | 7.5 | 3808 | 17 | 
+| 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Huang Xin | Yang Dingxin | Win | W+R | 7.5 | 3791 | 33 | 
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Yang Dingxin | Byun Sangil | Lose | W+R | 7.5 | 3758 | -6 | 
+| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Yang Dingxin | Win | W+R | 7.5 | 3764 | -26 | 
+| 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Yang Dingxin | Chen Yaoye | Win | B+R | 7.5 | 3790 | -1 | 
+| 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Yang Dingxin | Tuo Jiaxi | Lose | W+R | 7.5 | 3791 | -11 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Yang Dingxin | Chen Yaoye | Lose | W+R | 7.5 | 3802 | -28 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Jiang Weijie | Yang Dingxin | Win | W+R | 7.5 | 3830 | 0 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Yang Dingxin | Li Weiqing | Lose | W+R | 7.5 | 3830 | -6 | 
+| 2020-12-09 | 第22回中国囲碁甲級リーグ | Shin Jinseo | Yang Dingxin | Win | W+R | 7.5 | 3836 | 16 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Yang Dingxin | Ding Hao | Lose | W+R | 7.5 | 3820 | -15 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Tong Mengcheng | Yang Dingxin | Lose | B+R | 7.5 | 3835 | -25 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Ke Jie | Yang Dingxin | Win | W+R | 7.5 | 3860 | 22 | 
+| 2020-12-03 | 第34期中国囲碁天元戦挑戦手合三番勝負第3局 | Lian Xiao | Yang Dingxin | Win | W+R | 7.5 | 3838 | 10 | 
+| 2020-12-02 | 第34期中国囲碁天元戦挑戦手合三番勝負第2局 | Yang Dingxin | Lian Xiao | Win | B+R | 7.5 | 3828 | 27 | 
+| 2020-11-30 | 第34期中国囲碁天元戦挑戦手合三番勝負第1局 | Lian Xiao | Yang Dingxin | Lose | B+R | 7.5 | 3801 | 29 | 
+| 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Yang Dingxin | Ding Hao | Win | B+R | 7.5 | 3772 | 6 | 
+| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Yang Dingxin | Xie Erhao | Win | B+¾ | 7.5 | 3766 | 49 | 
+| 2020-11-09 | 第25回LG杯朝鮮日報棋王戦3回戦 | Park Junghwan | Yang Dingxin | Lose | B+R | 6.5 | 3717 | 7 | 
+| 2020-10-31 | 第25回三星火災杯世界囲碁マスターズ準決勝 | Yang Dingxin | Ke Jie | Lose | W+R | 6.5 | 3710 | -8 | 
+| 2020-10-30 | 第25回三星火災杯世界囲碁マスターズ3回戦 | Yang Dingxin | Li Weiqing | Win | B+R | 6.5 | 3718 | 0 | 
+| 2020-10-28 | 第25回三星火災杯世界囲碁マスターズ2回戦 | Kang Jihoon | Yang Dingxin | Win | W+R | 6.5 | 3718 | 17 | 
+| 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦 | Kim Cheayoung | Yang Dingxin | Win | W+R | 6.5 | 3701 | -31 | 
+| 2020-10-11 | 第2回王中王囲棋争覇戦準決勝 | Tang Weixing | Yang Dingxin | Lose | B+R | 7.5 | 3732 | -14 | 
+| 2020-10-10 | 第2回王中王囲棋争覇戦1回戦 | Yang Dingxin | Lian Xiao | Win | B+R | 7.5 | 3746 | 55 | 
+| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Meng Tailing | Yang Dingxin | Lose | B+R | 7.5 | 3691 | -31 | 
+| 2020-09-09 | 第9回応氏杯世界選手権2回戦 | Yang Dingxin | Xie Ke | Lose | W+R | 7.5 | 3722 | -4 | 
+| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Shibano Toramaru | Yang Dingxin | Win | W+5 | 7.5 | 3726 | 45 | 
+| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Yang Dingxin | Xie Erhao | Lose | W+R | 7.5 | 3681 | -7 | 
+| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Park Junghwan | Yang Dingxin | Lose | B+R | 7.5 | 3688 | -38 | 
+| 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Yang Dingxin | Chen Zijian | Win | B+R | 7.5 | 3726 | 1 | 
+| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Cheng Jiaye | Yang Dingxin | Win | W+2¼ | 7.5 | 3725 | -12 | 
+| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Yang Dingxin | Gu Zihao | Lose | W+R | 7.5 | 3737 | -23 | 
+| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Li Chengsen | Yang Dingxin | Win | W+R | 7.5 | 3760 | 4 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Yang Dingxin | Shin Minjun | Win | B+R | 7.5 | 3756 | -17 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Mi Yuting | Yang Dingxin | Win | W+R | 7.5 | 3773 | 149 | 
+| 2020-08-03 | 第11期中国竜星戦Bブロック10回戦 | Lian Xiao | Yang Dingxin | Lose | B+R | 7.5 | 3624 | -6 | 
+| 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Yang Dingxin | Byun Sangil | Lose | W+R | 7.5 | 3630 | 16 | 
+| 2020-06-14 | 第19回西南棋王戦1回戦 | Yang Dingxin | Liao Yuanhe | Lose | W+R | 7.5 | 3614 | -37 | 
+| 2020-06-05 | 第25回LG杯朝鮮日報棋王戦2回戦 | Lee Donghoon | Yang Dingxin | Win | W+R | 6.5 | 3651 | 1 | 
+| 2020-06-02 | 第25回LG杯朝鮮日報棋王戦1回戦 | Yang Dingxin | Seol Hyunjun | Win | B+R | 6.5 | 3650 | 25 | 
+| 2020-05-25 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Peng Liyao | Yang Dingxin | Lose | B+R | 7.5 | 3625 | -80 | 
+| 2020-01-14 | 第34期中国囲碁天元戦挑戦者決定戦 | Yang Dingxin | Li Xuanhao | Win | B+R | 7.5 | 3705 | 7 | 
+| 2020-01-12 | 第34期中国囲碁天元戦準決勝 | Yang Dingxin | Fan Tingyu | Win | B+¾ | 7.5 | 3698 | 5 | 
+| 2020-01-10 | 第34期中国囲碁天元戦3回戦 | Shi Yue | Yang Dingxin | Win | W+R | 7.5 | 3693 | 24 | 
+| 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Zhao Chenyu | Yang Dingxin | Win | W+R | 7.5 | 3669 | 301 | 
+| 2019-11-26 | 第21回農心辛ラーメン杯世界囲碁最強戦第9戦 | Iyama Yuta | Yang Dingxin | Lose | B+R | 6.5 | 3368 | -42 | 
+| 2019-11-25 | 第21回農心辛ラーメン杯世界囲碁最強戦第8戦 | Shin Jinseo | Yang Dingxin | Win | W+R | 6.5 | 3410 | 7 | 
+| 2019-11-24 | 第21回農心辛ラーメン杯世界囲碁最強戦第7戦 | Hsu Chiayuan | Yang Dingxin | Win | W+R | 6.5 | 3403 | 2 | 
+| 2019-11-23 | 第21回農心辛ラーメン杯世界囲碁最強戦第6戦 | Lee Donghoon | Yang Dingxin | Win | W+1.5 | 6.5 | 3401 | 0 | 
+| 2019-11-22 | 第21回農心辛ラーメン杯世界囲碁最強戦第5戦 | Yang Dingxin | Ichiriki Ryo | Win | B+R | 6.5 | 3401 | 1 | 
+| 2019-11-18 | 第4回全国智力運動会男子団体戦第9戦 | Yang Dingxin | Jiang Weijie | Win | B+R | 7.5 | 3400 | 6 | 
+| 2019-11-17 | 第4回全国智力運動会男子団体戦第7戦 | Yang Dingxin | Mi Yuting | Lose | W+R | 7.5 | 3394 | -6 | 
+| 2019-11-15 | 第4回全国智力運動会男子団体戦第4戦 | Yang Dingxin | Lian Xiao | Lose | W+R | 7.5 | 3400 | 0 | 
+| 2019-11-15 | 第4回全国智力運動会男子団体戦第3戦 | Yang Dingxin | Tuo Jiaxi | Win | B+R | 7.5 | 3400 | -6 | 
+| 2019-11-14 | 第4回全国智力運動会男子団体戦第2戦 | Chen Yaoye | Yang Dingxin | Win | W+R | 7.5 | 3406 | 0 | 
+| 2019-11-14 | 第4回全国智力運動会男子団体戦第1戦 | Luo Xihe | Yang Dingxin | Win | W+R | 7.5 | 3406 | -1 | 
+| 2019-11-12 | 第4回全国智力運動会プロ男子個人戦第7戦 | Yang Dingxin | Zhao Chenyu | Lose | W+R | 7.5 | 3407 | -30 | 
+| 2019-11-11 | 第4回全国智力運動会プロ男子個人戦第6戦 | Yang Dingxin | Shi Yue | Lose | W+R | 7.5 | 3437 | -8 | 
+| 2019-11-09 | 第4回全国智力運動会プロ男子個人戦第1戦 | Yang Dingxin | Tong Mengcheng | Lose | W+R | 7.5 | 3445 | 16 | 
+| 2019-10-18 | 第21回農心辛ラーメン杯世界囲碁最強戦第4戦 | Yang Dingxin | Kim Jiseok | Win | B+R | 6.5 | 3429 | 7 | 
+| 2019-10-17 | 第21回農心辛ラーメン杯世界囲碁最強戦第3戦 | Yang Dingxin | Yamashita Keigo | Win | B+3.5 | 6.5 | 3422 | -1 | 
+| 2019-10-16 | 第21回農心辛ラーメン杯世界囲碁最強戦第2戦 | Yang Dingxin | Weon Seongjin | Win | B+R | 6.5 | 3423 | 11 | 
+| 2019-10-11 | 第4回Mlily夢百合杯世界囲碁オープン戦32強戦 | Yang Dingxin | Xie Ke | Lose | W+R | 7.5 | 3412 | -9 | 
+| 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Yang Dingxin | Fan Yin | Win | B+R | 7.5 | 3421 | 78 | 
+| 2019-09-16 | 第21回中国囲碁甲級リーグプレーオフ1回戦第2戦 | Yang Dingxin | Tong Mengcheng | Win | B+R | 7.5 | 3343 | 21 | 
+| 2019-09-14 | 第21回中国囲碁甲級リーグプレーオフ1回戦第1戦 | Yang Dingxin | Tan Xiao | Win | B+R | 7.5 | 3322 | -19 | 
+| 2019-09-06 | 第24回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Yang Dingxin | Tang Weixing | Lose | W+R | 6.5 | 3341 | -11 | 
+| 2019-09-05 | 第24回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Yang Dingxin | Tang Weixing | Win | B+R | 6.5 | 3352 | 2 | 
+| 2019-09-04 | 第24回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Tang Weixing | Yang Dingxin | Lose | B+R | 6.5 | 3350 | 0 | 
+| 2019-09-02 | 第24回三星火災杯世界囲碁マスターズ準決勝 | Yang Dingxin | Gu Zihao | Win | B+R | 6.5 | 3350 | -2 | 
+| 2019-09-01 | 第24回三星火災杯世界囲碁マスターズ3回戦 | Tao Xinran | Yang Dingxin | Win | W+0.5 | 6.5 | 3352 | 0 | 
+| 2019-08-31 | 第24回三星火災杯世界囲碁マスターズ2回戦 | Kim Jiseok | Yang Dingxin | Win | W+R | 6.5 | 3352 | 2 | 
+| 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Yang Dingxin | Byun Sangil | Win | B+R | 6.5 | 3350 | 11 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Park Junghwan | Yang Dingxin | Win | W+¼ | 7.5 | 3339 | 13 | 
+| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Yang Dingxin | Gu Zihao | Win | B+R | 7.5 | 3326 | -31 | 
+| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Mi Yuting | Yang Dingxin | Win | W+R | 7.5 | 3357 | -15 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Yang Dingxin | Shi Yue | Lose | W+R | 7.5 | 3372 | -31 | 
+| 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Kim Jiseok | Yang Dingxin | Win | W+R | 7.5 | 3403 | 32 | 
+| 2019-07-27 | 第21期阿含・桐山杯中国早碁オープン戦準決勝 | Yang Dingxin | Tuo Jiaxi | Lose | W+R | 7.5 | 3371 | 0 | 
+| 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Yang Dingxin | Zhou Ruiyang | Win | B+¾ | 7.5 | 3371 | 8 | 
+| 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Yang Dingxin | Shin Jinseo | Lose | W+R | 7.5 | 3363 | 0 | 
+| 2019-07-09 | 第16期倡棋杯中国プロ囲棋選手権戦本戦準決勝三番勝負第2局 | Ke Jie | Yang Dingxin | Lose | B+1 | 7.5 | 3363 | -21 | 
+| 2019-06-28 | 第21期阿含・桐山杯中国早碁オープン戦8強戦 | Yang Dingxin | Mi Yuting | Win | B+R | 7.5 | 3384 | 8 | 
+| 2019-06-27 | 第21期阿含・桐山杯中国早碁オープン戦16強戦 | Yang Dingxin |  | Win | B+R | 7.5 | 3376 | 15 | 
+| 2019-06-20 | 第16期倡棋杯中国プロ囲棋選手権戦本戦準決勝三番勝負第1局 | Yang Dingxin | Ke Jie | Lose | W+R | 7.5 | 3361 | 5 | 
+| 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Shin Minjun | Yang Dingxin | Win | W+¼ | 7.5 | 3356 | 24 | 
+| 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Yang Dingxin | Chen Yaoye | Win | B+R | 7.5 | 3332 | 28 | 
+| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Huang Jingyuan | Yang Dingxin | Win | W+R | 7.5 | 3304 | 48 | 
+| 2019-05-27 | 第24回LG杯朝鮮日報棋王戦1回戦 | Byun Sangil | Yang Dingxin | Lose | B+R | 6.5 | 3256 | -43 | 
+| 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Yang Dingxin | Ke Jie | Lose | W+R | 7.5 | 3299 | -21 | 
+| 2019-05-09 | 嫘祖杯第32期中国囲棋名人戦16強戦 | Li Weiqing | Yang Dingxin | Lose | B+R | 7.5 | 3320 | -24 | 
+| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Ding Hao | Yang Dingxin | Win | W+¼ | 7.5 | 3344 | 7 | 
+| 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Yang Dingxin | Xie Erhao | Lose | W+R | 7.5 | 3337 | -32 | 
+| 2019-04-23 | 第16期倡棋杯中国プロ囲棋選手権戦本戦3回戦 | Mi Yuting | Yang Dingxin | Win | W+R | 7.5 | 3369 | 2 | 
+| 2019-04-21 | 第16期倡棋杯中国プロ囲棋選手権戦本戦2回戦 | Xie Erhao | Yang Dingxin | Win | W+R | 7.5 | 3367 | 11 | 
+| 2019-04-19 | 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Yang Dingxin | Tang Weixing | Win | B+R | 7.5 | 3356 | 0 | 
+| 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Fan Tingyu | Yang Dingxin | Win | W+R | 7.5 | 3356 | 1 | 
+| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節上海-重慶 | Yang Dingxin | Fan Yunruo | Win | B+R | 7.5 | 3355 | 26 | 
+| 2019-03-29 | 2019CCTV杯中国囲棋電視快棋戦3回戦 | Yang Dingxin | Yi Lingtao | Lose | W+R | 7.5 | 3329 | 0 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Mao Ruilong | Yang Dingxin | Win | W+R | 7.5 | 3329 | 0 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Yang Dingxin | Tao Xinran | Win | B+R | 7.5 | 3329 | 12 | 
+| 2019-03-24 | 第18回西南棋王戦準決勝 | Yang Dingxin | Ke Jie | Lose | W+R | 7.5 | 3317 | -6 | 
+| 2019-03-23 | 第18回西南棋王戦2回戦 | Li Xuanhao | Yang Dingxin | Win | W+2¼ | 7.5 | 3323 | 0 | 
+| 2019-03-23 | 第18回西南棋王戦1回戦 |  | Yang Dingxin | Win | W+R | 7.5 | 3323 | -15 | 
+| 2019-03-15 | 第10期中国竜星戦Aブロック8回戦 | Jiang Weijie | Yang Dingxin | Lose | B+R | 7.5 | 3338 | 33 | 
+| 2019-02-26 | 第4期洛陽白雲山杯中国棋聖戦本戦2回戦 | Tuo Jiaxi | Yang Dingxin | Lose | B+R | 7.5 | 3305 | -12 | 
+| 2019-02-25 | 第4期洛陽白雲山杯中国棋聖戦本戦1回戦 | Li Xuanhao | Yang Dingxin | Win | W+R | 7.5 | 3317 | -24 | 
+| 2019-02-14 | 第23回LG杯朝鮮日報棋王戦決勝三番勝負第3局 | Shi Yue | Yang Dingxin | Win | W+R | 6.5 | 3341 | 5 | 
+| 2019-02-13 | 第23回LG杯朝鮮日報棋王戦決勝三番勝負第2局 | Yang Dingxin | Shi Yue | Win | B+R | 6.5 | 3336 | 1 | 
+| 2019-02-11 | 第23回LG杯朝鮮日報棋王戦決勝三番勝負第1局 | Shi Yue | Yang Dingxin | Lose | B+R | 6.5 | 3335 | -21 | 
+| 2019-01-29 | 第3回ワールド碁チャンピオンシップ国際予選決勝 | Jiang Weijie | Yang Dingxin | Lose | B+R | 6.5 | 3356 | -10 | 
+| 2019-01-27 | 第3回ワールド碁チャンピオンシップ国際予選準決勝 | Yang Dingxin | Chen Yaoye | Win | B+2.5 | 6.5 | 3366 | 7 | 
+| 2019-01-26 | 第3回ワールド碁チャンピオンシップ国際予選3回戦 | Hong Seongji | Yang Dingxin | Win | W+R | 6.5 | 3359 | 0 | 
+| 2019-01-25 | 第3回ワールド碁チャンピオンシップ国際予選2回戦 | Yang Dingxin | Lee Sedol | Win | B+R | 6.5 | 3359 | 27 | 
+| 2019-01-09 | 第33期中国囲碁天元戦準決勝 | Tong Mengcheng | Yang Dingxin | Lose | B+R | 7.5 | 3332 | -14 | 
+| 2019-01-06 | 第33期中国囲碁天元戦2回戦 | Xu Jiayang | Yang Dingxin | Win | W+R | 7.5 | 3346 | 3 | 
+| 2019-01-04 | 第33期中国囲碁天元戦1回戦 | Liu Yuhang | Yang Dingxin | Win | W+R | 7.5 | 3343 | -16 | 
+| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節重慶-廈門 | Ke Jie | Yang Dingxin | Win | W+R | 7.5 | 3359 | 8 | 
+| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節上海-重慶 | Yang Dingxin | Li Weiqing | Win | B+R | 7.5 | 3351 | -40 | 
+| 2018-11-16 | 第20回中国囲碁甲級リーグ第24節重慶-山東 | Fan Tingyu | Yang Dingxin | Win | W+R | 7.5 | 3391 | 8 | 
+| 2018-11-14 | 第23回LG杯朝鮮日報棋王戦準決勝 | Shin Minjun | Yang Dingxin | Win | W+R | 6.5 | 3383 | 8 | 
+| 2018-11-12 | 第23回LG杯朝鮮日報棋王戦3回戦 | Kang Dongyun | Yang Dingxin | Win | W+R | 6.5 | 3375 | 28 | 
+| 2018-11-09 | 第20回中国囲碁甲級リーグ第23節衢州-重慶 |  | Yang Dingxin | Win | W+R | 7.5 | 3347 | -4 | 
+| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節重慶-民生 | Shi Yue | Yang Dingxin | Win | W+R | 7.5 | 3351 | -4 | 
+| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節蘇泊爾-重慶 | Yang Dingxin | Lian Xiao | Lose | W+R | 7.5 | 3355 | 13 | 
+| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節重慶-江蘇 | Mi Yuting | Yang Dingxin | Win | W+R | 7.5 | 3342 | -10 | 
+| 2018-10-13 | 第14期威孚房開杯棋王戦32強戦 | Yang Dingxin | Mi Yuting | Lose | W+R | 7.5 | 3352 | -6 | 
+| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節浙江-重慶 | Zhang Tao | Yang Dingxin | Lose | B+R | 7.5 | 3358 | -4 | 
+| 2018-10-08 | 第20回中国囲碁甲級リーグ第18節重慶-江西 | Xu Jiayang | Yang Dingxin | Lose | B+R | 7.5 | 3362 | -7 | 
+| 2018-10-01 | 第23回三星火災杯世界囲碁マスターズ2回戦 | Yang Dingxin | Ahn Kukhyun | Lose | W+0.5 | 6.5 | 3369 | -4 | 
+| 2018-09-28 | 第20回中国囲碁甲級リーグ第17節成都-重慶 | Yang Dingxin | Liao Yuanhe | Lose | W+R | 7.5 | 3373 | -28 | 
+| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節杭州-重慶 | Yang Dingxin | Shin Jinseo | Lose | W+R | 7.5 | 3401 | -18 | 
+| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節重慶-中信 | Kim Myounghoon | Yang Dingxin | Win | W+R | 7.5 | 3419 | 6 | 
+| 2018-09-08 | 第20回中国囲碁甲級リーグ第14節天津-重慶 | Yang Dingxin | Xie Erhao | Win | B+R | 7.5 | 3413 | 14 | 
+| 2018-09-05 | 第23回三星火災杯世界囲碁マスターズ1回戦F2 | Yang Dingxin | Lian Xiao | Win | B+R | 6.5 | 3399 | 0 | 
+| 2018-09-04 | 第23回三星火災杯世界囲碁マスターズ1回戦F1 | Lee Youngjoo | Yang Dingxin | Win | W+R | 6.5 | 3399 | -5 | 
+| 2018-08-15 | 第20回中国囲碁甲級リーグ第13節廈門-重慶 | Yang Dingxin | Lee Donghoon | Lose | W+¼ | 7.5 | 3404 | -11 | 
+| 2018-08-13 | 第20回中国囲碁甲級リーグ第12節重慶-上海 | Hu Yaoyu | Yang Dingxin | Win | W+R | 7.5 | 3415 | 37 | 
+| 2018-08-06 | 第20回中国囲碁甲級リーグ第11節山東-重慶 | Yang Dingxin | Na Hyun | Win | B+R | 7.5 | 3378 | 2 | 
+| 2018-08-03 | 嫘祖杯第31回中国囲棋名人戦挑戦者決定戦 | Mi Yuting | Yang Dingxin | Lose | B+R | 7.5 | 3376 | -20 | 
+| 2018-08-01 | 嫘祖杯第31回中国囲棋名人戦準決勝 | Tao Xinran | Yang Dingxin | Win | W+¼ | 7.5 | 3396 | -14 | 
+| 2018-07-28 | 第5回国手山脈杯世界プロ最強戦2回戦 | Yang Dingxin | Park Junghwan | Lose | W+1.5 | 6.5 | 3410 | 0 | 
+| 2018-07-28 | 第5回国手山脈杯世界プロ最強戦1回戦 | Yang Dingxin | Na Hyun | Win | B+R | 6.5 | 3410 | 5 | 
+| 2018-07-16 | 第20回中国囲碁甲級リーグ第10節重慶-衢州 | Yang Dingxin | Hu Yuhan | Win | B+R | 7.5 | 3405 | 8 | 
+| 2018-07-07 | 第23回三星火災杯統合予選決勝 | Park Jinsol | Yang Dingxin | Win | W+R | 6.5 | 3397 | 26 | 
+| 2018-06-25 | 第20回中国囲碁甲級リーグ第9節民生-重慶k | Shen Peiran | Yang Dingxin | Lose | B+R | 7.5 | 3371 | -30 | 
+| 2018-06-04 | 第9期中国竜星戦準決勝 | Yang Dingxin | Lian Xiao | Lose | W+R | 7.5 | 3401 | 1 | 
+| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節重慶-蘇泊爾 | Park Junghwan | Yang Dingxin | Lose | B+R | 7.5 | 3400 | -13 | 
+| 2018-05-30 | 第23回LG杯朝鮮日報棋王戦2回戦 | Weon Seongjin | Yang Dingxin | Win | W+R | 6.5 | 3413 | -1 | 
+| 2018-05-28 | 第23回LG杯朝鮮日報棋王戦1回戦 | Yang Dingxin | Ida Atsushi | Win | B+T | 6.5 | 3414 | -42 | 
+| 2018-05-21 | 第20回中国囲碁甲級リーグ第7節江蘇-重慶 | Yang Dingxin | Zhao Chenyu | Win | B+R | 7.5 | 3456 | 43 | 
+| 2018-05-19 | 嫘祖杯第31回中国囲棋名人戦8強戦 | Tan Xiao | Yang Dingxin | Win | W+R | 7.5 | 3413 | -5 | 
+| 2018-05-17 | 嫘祖杯第31回中国囲棋名人戦16強戦 | Yang Dingxin | Huang Yunsong | Win | B+R | 7.5 | 3418 | 8 | 
+| 2018-05-16 | 嫘祖杯第31回中国囲棋名人戦32強戦 | Fan Yunruo | Yang Dingxin | Win | W+R | 7.5 | 3410 | -28 | 
+| 2018-05-14 | 第20回中国囲碁甲級リーグ第6節重慶-浙江 | Zhou Hexi | Yang Dingxin | Win | W+R | 7.5 | 3438 | 8 | 
+| 2018-05-12 | 第7回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Yang Dingxin | Liao Yuanhe | Lose | W+R | 7.5 | 3430 | 14 | 
+| 2018-05-11 | 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Tuo Jiaxi | Yang Dingxin | Win | W+R | 7.5 | 3416 | -16 | 
+| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節江西-重慶 | Xu Jiayang | Yang Dingxin | Win | W+R | 7.5 | 3432 | 42 | 
+| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節重慶-成都 | Yang Dingxin | Dang Yifei | Lose | W+¼ | 7.5 | 3390 | -18 | 
+| 2018-04-18 | 第9期中国竜星戦Bブロック第8局 | Yang Dingxin | Tuo Jiaxi | Lose | W+R | 7.5 | 3408 | -12 | 
+| 2018-04-17 | 第9期中国竜星戦Bブロック第7局 | Yang Dingxin | Xie Erhao | Win | B+R | 7.5 | 3420 | 6 | 
+| 2018-04-11 | 2018CCTV杯中国囲棋電視快棋戦4回戦 | Fan Tingyu | Yang Dingxin | Lose | B+R | 7.5 | 3414 | -5 | 
+| 2018-04-10 | 2018CCTV杯中国囲棋電視快棋戦3回戦 | Yang Dingxin | Tang Weixing | Win | B+R | 7.5 | 3419 | 8 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦2回戦 | Yang Dingxin | Chen Yaoye | Win | B+R | 7.5 | 3411 | 0 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Yang Dingxin | Wang Zejin | Win | B+R | 7.5 | 3411 | 17 | 
+| 2018-04-07 | 第23回LG杯予選決勝 | Tao Xinran | Yang Dingxin | Win | W+R | 6.5 | 3394 | 31 | 
+| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節重慶-杭州 | Yang Dingxin | Wu Guangya | Lose | W+R | 7.5 | 3363 | -37 | 
+| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節中信-重慶 | Tuo Jiaxi | Yang Dingxin | Win | W+R | 7.5 | 3400 | -21 | 
+| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節重慶-天津 | Tang Weixing | Yang Dingxin | Lose | B+R | 7.5 | 3421 | 6 | 
+| 2018-03-18 | 第9期中国竜星戦Bブロック第6局 | Chang Hao | Yang Dingxin | Win | W+R | 7.5 | 3415 | 0 | 
+| 2018-03-18 | 第9期中国竜星戦Bブロック第5局 | Yang Dingxin | Han Yizhou | Win | B+R | 7.5 | 3415 | 7 | 
+| 2018-03-16 | 第9期中国竜星戦Bブロック第4局 | Meng Tailing | Yang Dingxin | Win | W+R | 7.5 | 3408 | -62 | 
+| 2018-03-09 | 第17回西南棋王戦2回戦 | Mi Yuting | Yang Dingxin | Lose | B+R | 7.5 | 3470 | 0 | 
+| 2018-03-09 | 第17回西南棋王戦1回戦 | Gu Lingyi | Yang Dingxin | Win | W+4¼ | 7.5 | 3470 | 23 | 
+| 2018-01-15 | 第3回洛陽白雲山杯中国棋聖戦本戦1回戦 | Fan Tingyu | Yang Dingxin | Lose | B+R | 7.5 | 3447 | 0 | 
+| 2018-01-10 | 第3回洛陽白雲山杯中国棋聖戦資格戦3 | Tong Mengcheng | Yang Dingxin | Win | W+R | 7.5 | 3447 | 20 | 
+| 2018-01-08 | 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Yang Dingxin | Huang Yunsong | Win | B+R | 7.5 | 3427 | 18 | 
+| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Dang Yifei | Yang Dingxin | Win | W+R | 7.5 | 3409 | 8 | 
+| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Lee Donghoon | Yang Dingxin | Win | W+R | 7.5 | 3401 | -2 | 
+| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Yang Dingxin | Chen Zhengxun | Win | B+R | 7.5 | 3403 | 32 | 
+| 2017-11-13 | 第22回LG杯朝鮮日報棋王戦準々決勝 | Yang Dingxin | Iyama Yuta | Lose | W+R | 6.5 | 3371 | -38 | 
+| 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Yang Dingxin | Zhao Chenyu | Lose | W+R | 7.5 | 3409 | -17 | 
+| 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Jiang Weijie | Yang Dingxin | Lose | B+R | 7.5 | 3426 | -7 | 
+| 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Kang Dongyun | Yang Dingxin | Win | W+R | 7.5 | 3433 | 77 | 
+| 2017-10-10 | 第13期威孚房開杯棋王戦32強戦 | Yang Dingxin | Gu Zihao | Lose | W+R | 7.5 | 3356 | -25 | 
+| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Xu Jiayang | Yang Dingxin | Lose | B+R | 7.5 | 3381 | -17 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Yang Dingxin | Chen Yaoye | Lose | W+R | 7.5 | 3398 | 31 | 
+| 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Ding Hao | Yang Dingxin | Win | W+R | 7.5 | 3367 | 15 | 
+| 2017-09-06 | 第22回三星火災杯世界囲碁マスターズ1回戦G2 | Yang Dingxin | Byun Sangil | Lose | W+R | 6.5 | 3352 | -7 | 
+| 2017-09-05 | 第22回三星火災杯世界囲碁マスターズ1回戦G1 | Yang Dingxin | Park Yeonghun | Lose | W+R | 6.5 | 3359 | -17 | 
+| 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Yang Dingxin | An Dongxu | Win | B+R | 7.5 | 3376 | 2 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Li Zhe | Yang Dingxin | Win | W+R | 7.5 | 3374 | -4 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Yang Dingxin | Lian Xiao | Lose | W+R | 7.5 | 3378 | -1 | 
+| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 |  | Yang Dingxin | Win | W+R | 7.5 | 3379 | -3 | 
+| 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Yang Dingxin |  | Win | B+R | 7.5 | 3382 | 19 | 
+| 2017-08-04 | 嫘祖杯30回中国名人戦16強戦 | Tang Weixing | Yang Dingxin | Lose | B+R | 7.5 | 3363 | -13 | 
+| 2017-08-03 | 嫘祖杯30回中国名人戦32強戦 | Yang Dingxin | Shi Yue | Win | B+R | 7.5 | 3376 | 10 | 
+| 2017-07-31 | 4回国手山脈杯世界団体戦決勝 | Shin Jinseo | Yang Dingxin | Win | W+R | 6.5 | 3366 | 13 | 
+| 2017-07-29 | 4回国手山脈杯世界団体戦4強戦 | Lin Lixiang | Yang Dingxin | Win | W+R | 6.5 | 3353 | 0 | 
+| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Yang Dingxin | Wang Zejin | Lose | W+R | 7.5 | 3353 | -8 | 
+| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Tong Mengcheng | Yang Dingxin | Win | W+R | 7.5 | 3361 | 4 | 
+| 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Chen Xian | Yang Dingxin | Win | W+R | 7.5 | 3357 | 10 | 
+| 2017-07-07 | 2017年中国全国運動会囲碁競技第5戦 | Yang Dingxin | Ke Jie | Lose | W+R | 7.5 | 3347 | -16 | 
+| 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Chen Yaoye | Yang Dingxin | Lose | B+R | 7.5 | 3363 | -22 | 
+| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Yang Dingxin | Zhou Ruiyang | Lose | W+R | 7.5 | 3385 | 26 | 
+| 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Kim Myounghoon | Yang Dingxin | Win | W+R | 6.5 | 3359 | -12 | 
+| 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Yang Dingxin | Yun Junsang | Win | B+R | 6.5 | 3371 | 28 | 
+| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Yang Dingxin | Fan Yin | Win | B+1.5 | 7.5 | 3343 | 9 | 
+| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Tao Xinran | Yang Dingxin | Win | W+R | 7.5 | 3334 | -4 | 
+| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Yang Dingxin |  | Lose | W+R | 7.5 | 3338 | 5 | 
+| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Ding Hao | Yang Dingxin | Lose | B+R | 7.5 | 3333 | -19 | 
+| 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Yang Dingxin | Wang Haoyang | Win | B+R | 7.5 | 3352 | -1 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Yang Dingxin | Fan Yunruo | Lose | W+2.5 | 7.5 | 3353 | -13 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Xie Ke | Yang Dingxin | Win | W+R | 7.5 | 3366 | 57 | 
+| 2017-04-21 | 第14期倡棋杯中国プロ囲碁選手権戦2回戦 | Meng Tailing | Yang Dingxin | Win | W+R | 7.5 | 3309 | 12 | 
+| 2017-04-12 | 第8期中国竜星戦準決勝 | Yang Dingxin | Ke Jie | Lose | W+R | 7.5 | 3297 | 4 | 
+| 2017-04-07 | 第22期LG杯世界予選準決勝 | Na Hyun | Yang Dingxin | Win | W+R | 6.5 | 3293 | 140 | 
+| 2017-03-12 | 第16回西南棋王戦準決勝 | Yang Dingxin | Chang Hao | Win | B+R | 7.5 | 3153 | 0 | 
+| 2017-03-12 | 第16回西南棋王戦決勝 | Yang Dingxin | Tan Xiao | Win | B+R | 7.5 | 3153 | 16 | 
+| 2017-03-11 | 第16回西南棋王戦1回戦 | Dang Yifei | Yang Dingxin | Win | W+R | 7.5 | 3137 | 0 | 
+| 2017-03-11 | 第16回西南棋王戦2回戦 | Yang Dingxin | Mi Yuting | Win | B+R | 7.5 | 3137 | 20 | 
+| 2017-01-13 | 第31期中国囲碁天元戦予選 | Hu Yaoyu | Yang Dingxin | Lose | B+R | 7.5 | 3117 | -13 | 
+| 2017-01-10 | 嫘祖杯第29期中国名人戦準決勝 | Zhou Ruiyang | Yang Dingxin | Lose | B+R | 7.5 | 3130 | 5 | 
+| 2017-01-06 | 嫘祖杯第29期中国名人戦8強戦 | Yang Dingxin | Meng Tailing | Win | B+R | 7.5 | 3125 | -1 | 
+| 2017-01-03 | Alphago Online Series on Tygem and Fox 42 |  | Yang Dingxin | Lose | B+R | 6.5 | 3126 | 1 | 
+| 2017-01-02 | 2016年利民杯世界囲碁星鋭最強戦3回戦 | Yang Dingxin | Huang Yunsong | Lose | W+R | 7.5 | 3125 | -7 | 
+| 2017-01-01 | 2016年利民杯世界囲碁星鋭最強戦2回戦 | Yi Lingtao | Yang Dingxin | Win | W+R | 7.5 | 3132 | 2 | 
+| 2016-12-31 | 2016年利民杯世界囲碁星鋭最強戦1回戦 | Tong Mengcheng | Yang Dingxin | Win | W+R | 7.5 | 3130 | 8 | 
+| 2016-12-28 | 第8期中国竜星戦Bブロック3回戦 | Gu Zihao | Yang Dingxin | Lose | B+R | 7.5 | 3122 | -6 | 
+| 2016-12-26 | 嫘祖杯第29期中国名人戦16強戦 |  | Yang Dingxin | Win | W+0.5 | 7.5 | 3128 | 10 | 
+| 2016-12-24 | 嫘祖杯第29期中国名人戦32強戦 | Tang Weixing | Yang Dingxin | Win | W+R | 7.5 | 3118 | 19 | 
+| 2016-12-13 | 第8期中国竜星戦Bブロック1回戦 | Li He | Yang Dingxin | Win | W+4.5 | 7.5 | 3099 | 0 | 
+| 2016-12-13 | 第8期中国竜星戦Bブロック2回戦 |  | Yang Dingxin | Win | W+R | 7.5 | 3099 | 1 | 
+| 2016-12-03 | 第18回中国囲碁甲級リーグ第22節 | Niu Yutian | Yang Dingxin | Win | W+R | 7.5 | 3098 | 1 | 
+| 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Yang Dingxin | Tao Xinran | Win | B+3.5 | 7.5 | 3097 | 10 | 
+| 2016-11-24 | 第8期中国竜星戦予選 | Yang Dingxin |  | Win | B+R | 7.5 | 3087 | 0 | 
+| 2016-11-24 | 第8期中国竜星戦予選 | Yang Dingxin | Huang Yunsong | Win | B+R | 7.5 | 3087 | 27 | 
+| 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 | Yang Dingxin |  | Lose | W+R | 7.5 | 3060 | -2 | 
+| 2016-11-12 | 第18回中国囲碁甲級リーグ第18節 | Yang Dingxin | Chen Yaoye | Win | B+9.5 | 7.5 | 3062 | -34 | 
+| 2016-11-04 | 第18回中国囲碁甲級リーグ第17節 | Wu Guangya | Yang Dingxin | Lose | B+1.5 | 7.5 | 3096 | -24 | 
+| 2016-10-18 | 第12期威孚房開杯中国囲棋争覇戦8強戦 | Yang Dingxin | Jiang Weijie | Lose | W+R | 7.5 | 3120 | 8 | 
+| 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Yang Dingxin | Kang Dongyun | Lose | W+0.5 | 7.5 | 3112 | -10 | 
+| 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Wang Zejin | Yang Dingxin | Win | W+R | 7.5 | 3122 | -75 | 
+| 2016-08-23 | 第12期威孚房開杯棋王戦2回戦 | Gu Zihao | Yang Dingxin | Win | W+R | 7.5 | 3197 | 10 | 
+| 2016-08-22 | 第12期威孚房開杯棋王戦1回戦 | Yang Dingxin | Meng Tailing | Win | B+R | 7.5 | 3187 | 46 | 
+| 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Fan Yin | Yang Dingxin | Lose | B+R | 7.5 | 3141 | -18 | 
+| 2016-06-25 | 第18回中国囲碁甲級リーグ第10節 | Yang Dingxin | Tao Xinran | Lose | W+R | 7.5 | 3159 | 0 | 
+| 2016-06-20 | 第18回中国囲碁甲級リーグ第9節 | Yang Dingxin | Fan Tingyu | Win | B+R | 7.5 | 3159 | 30 | 
+| 2016-06-06 | 第18回中国囲碁甲級リーグ第7節 |  | Yang Dingxin | Lose | B+R | 7.5 | 3129 | -4 | 
+| 2016-06-04 | 2016CCTV杯中国囲棋電視快棋戦3回戦 | Yang Dingxin | Li Qincheng | Lose | W+R | 7.5 | 3133 | -4 | 
+| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦2回戦 | Sun Tengyu | Yang Dingxin | Win | W+R | 7.5 | 3137 | 0 | 
+| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Yang Dingxin | Dang Yifei | Win | B+R | 7.5 | 3137 | 41 | 
+| 2016-05-25 | 第1回新奥杯世界囲碁オープン戦予選 | Yang Dingxin | Hong Seongji | Lose | W+R | 7.5 | 3096 | 66 | 
+| 2016-05-18 | 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Tan Xiao | Yang Dingxin | Lose | B+R | 7.5 | 3030 | -12 | 
+| 2016-05-16 | 第18回中国囲碁甲級リーグ第5節 | Dang Yifei | Yang Dingxin | Win | W+R | 7.5 | 3042 | -53 | 
+| 2016-05-02 | 第18回中国囲碁甲級リーグ第3節 | Xie Erhao | Yang Dingxin | Lose | B+R | 7.5 | 3095 | -11 | 
+| 2016-04-29 | 2016年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Yang Dingxin |  | Win | B+R | 7.5 | 3106 | 65 | 
+| 2016-04-27 | 2016年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Yang Dingxin | Onishi Ryuhei | Win | B+R | 7.5 | 3041 | 2 | 
+| 2016-04-26 | 2016年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Zhou Yuanjun | Yang Dingxin | Win | W+2.5 | 7.5 | 3039 | -8 | 
+| 2016-04-24 | 第3回グロービス杯世界囲碁U-20三位決定戦 | Byun Sangil | Yang Dingxin | Lose | B+R | 6.5 | 3047 | 0 | 
+| 2016-04-24 | 第3回グロービス杯世界囲碁U-20準決勝 | Hsu Chiayuan | Yang Dingxin | Lose | B+R | 6.5 | 3047 | -17 | 
+| 2016-04-23 | 第3回グロービス杯世界囲碁U-20準々決勝 | Yang Dingxin | Shin Jinseo | Win | B+7.5 | 6.5 | 3064 | 0 | 
+| 2016-04-23 | 第3回グロービス杯世界囲碁U-20グループリーグA | Ichiriki Ryo | Yang Dingxin | Win | W+R | 6.5 | 3064 | 15 | 
+| 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグA | Yang Dingxin | Krit Jamkachornkiat | Win | B+R | 6.5 | 3049 | 0 | 
+| 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグA | Yang Dingxin | Ichiriki Ryo | Lose | W+R | 6.5 | 3049 | -16 | 
+| 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Mi Yuting | Yang Dingxin | Lose | B+R | 7.5 | 3065 | -4 | 
+| 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Qin Yuexin | Yang Dingxin | Win | W+R | 7.5 | 3069 | 11 | 
+| 2016-03-19 | 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Yang Dingxin | Mi Yuting | Lose | W+R | 7.5 | 3058 | 27 | 
+| 2016-03-08 | 第15回西南棋王戦決勝 | Yang Dingxin | Tao Xinran | Win | B+R | 7.5 | 3031 | 0 | 
+| 2016-03-08 | 第15回西南棋王戦準決勝 | Yang Dingxin | Gu Lingyi | Win | B+R | 7.5 | 3031 | 5 | 
+| 2016-03-07 | 第15回西南棋王戦2回戦 | Yang Dingxin | Gu Li | Win | B+R | 7.5 | 3026 | 0 | 
+| 2016-03-07 | 第15回西南棋王戦1回戦 | Liao Yuanhe | Yang Dingxin | Win | W+R | 7.5 | 3026 | -42 | 
+| 2016-02-21 | 2016四都市新鋭対抗戦第3戦 | Ichiriki Ryo | Yang Dingxin | Win | W+R | 6.5 | 3068 | 4 | 
+| 2016-02-20 | 2016四都市新鋭対抗戦第2戦 | Yang Dingxin | Lee Donghoon | Win | B+R | 6.5 | 3064 | 11 | 
+| 2016-02-19 | 2016四都市新鋭対抗戦第1戦 | Yang Dingxin | Lin Junyan | Win | B+R | 6.5 | 3053 | -48 | 
+| 2016-01-15 | 第30期中国囲碁天元戦1回戦 | Yang Dingxin | Tang Weixing | Lose | W+R | 7.5 | 3101 | -33 | 
+| 2015-12-06 | 第17回中国囲碁甲級リーグ第22節 | Yang Dingxin | Huang Yunsong | Lose | W+0.5 | 7.5 | 3134 | -8 | 
+| 2015-12-04 | 第17回中国囲碁甲級リーグ第21節 | Yang Dingxin | Zhang Tao | Win | B+R | 7.5 | 3142 | 29 | 
+| 2015-11-13 | 第17回中国囲碁甲級リーグ第20節 | Yang Dingxin | Peng Liyao | Lose | W+R | 7.5 | 3113 | -16 | 
+| 2015-11-08 | 第17回中国囲碁甲級リーグ第19節 | Kang Dongyun | Yang Dingxin | Lose | B+R | 7.5 | 3129 | -9 | 
+| 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 |  | Yang Dingxin | Win | W+R | 7.5 | 3138 | 9 | 
+| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Choi Cheolhan | Yang Dingxin | Win | W+R | 7.5 | 3129 | 8 | 
+| 2015-10-15 | 第17回中国囲碁甲級リーグ第15節 | Park Junghwan | Yang Dingxin | Lose | B+R | 7.5 | 3121 | 0 | 
+| 2015-10-12 | 第11期威孚房開杯棋王戦1回戦 | Yang Dingxin | Tan Xiao | Lose | W+R | 7.5 | 3121 | -16 | 
+| 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Yang Dingxin | Na Hyun | Lose | W+R | 7.5 | 3137 | 4 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Yang Dingxin | Xiao Zhenghao | Win | B+R | 6.5 | 3133 | 0 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yang Dingxin | Ahn Kukhyun | Win | B+R | 6.5 | 3133 | 67 | 
+| 2015-10-02 | 第2回おかげ杯国際精鋭囲碁対抗戦第2戦 | Ida Atsushi | Yang Dingxin | Lose | B+R | 6.5 | 3066 | 0 | 
+| 2015-10-02 | 第2回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yang Dingxin | Chen Shiyuan | Lose | W+R | 6.5 | 3066 | -72 | 
+| 2015-09-27 | 第7期中国竜星戦1回戦 | Xie He | Yang Dingxin | Lose | B+R | 7.5 | 3138 | -6 | 
+| 2015-09-24 | 第17回中国囲碁甲級リーグ第14節 | Ding Shixiong | Yang Dingxin | Win | W+R | 7.5 | 3144 | 14 | 
+| 2015-09-22 | 第3回全国智力運動会囲碁男子団体戦 | Fan Yunruo | Yang Dingxin | Win | W+R | 7.5 | 3130 | 8 | 
+| 2015-09-21 | 第3回全国智力運動会囲碁男子団体戦 | Yang Dingxin | Wu Guangya | Win | B+R | 7.5 | 3122 | 0 | 
+| 2015-09-21 | 第3回全国智力運動会囲碁男子団体戦 | Gong Yanyu | Yang Dingxin | Win | W+R | 7.5 | 3122 | 6 | 
+| 2015-09-18 | 第3回全国智力運動会囲碁男子団体戦 | Fan Yin | Yang Dingxin | Win | W+R | 7.5 | 3116 | -18 | 
+| 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Chen Yaoye | Yang Dingxin | Lose | B+R | 7.5 | 3134 | -15 | 
+| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Yang Dingxin | Tan Xiao | Win | B+R | 7.5 | 3149 | -39 | 
+| 2015-08-27 | 第27回テレビアジア選手権準決勝 | Lee Sedol | Yang Dingxin | Lose | B+R | 6.5 | 3188 | 14 | 
+| 2015-08-26 | 第27回テレビアジア選手権1回戦 | Yang Dingxin | Ichiriki Ryo | Win | B+0.5 | 6.5 | 3174 | -14 | 
+| 2015-08-02 | 第20回三星火災杯統合予選1回戦 | Weon Seongjin | Yang Dingxin | Lose | B+R | 6.5 | 3188 | -26 | 
+| 2015-07-11 | 第17回中国囲碁甲級リーグ第11節 | Mi Yuting | Yang Dingxin | Win | W+R | 7.5 | 3214 | -16 | 
+| 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 | Qin Yuexin | Yang Dingxin | Lose | B+R | 7.5 | 3230 | -14 | 
+| 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Tao Xinran | Yang Dingxin | Win | W+4.5 | 7.5 | 3244 | -23 | 
+| 2015-06-25 | 第17回中国囲碁甲級リーグ第8節 | Yang Dingxin | Xia Chenkun | Lose | W+R | 7.5 | 3267 | -79 | 
+| 2015-06-23 | 第28期中国囲碁名人戦3回戦 | Yang Dingxin | Li Qincheng | Lose | W+R | 7.5 | 3346 | -32 | 
+| 2015-06-15 | 第17期阿含・桐山杯中国早碁オープン戦予選 |  | Yang Dingxin | Lose | B+R | 7.5 | 3378 | -15 | 
+| 2015-06-13 | 第17回中国囲碁甲級リーグ第7節 | Niu Yutian | Yang Dingxin | Win | W+R | 7.5 | 3393 | 4 | 
+| 2015-06-11 | 第28期中国囲碁名人戦2回戦 | Yang Dingxin | Meng Tailing | Win | B+R | 7.5 | 3389 | -10 | 
+| 2015-05-28 | 第17回中国囲碁甲級リーグ第6節 | Meng Tailing | Yang Dingxin | Win | W+R | 7.5 | 3399 | 2 | 
+| 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Qiu Jun | Yang Dingxin | Lose | B+R | 7.5 | 3397 | -10 | 
+| 2015-05-16 | 第17回中国囲碁甲級リーグ第4節 | Yang Dingxin | Lian Xiao | Lose | W+R | 7.5 | 3407 | -25 | 
+| 2015-05-14 | 第17回中国囲碁甲級リーグ第3節 | Jiang Weijie | Yang Dingxin | Win | W+0.5 | 7.5 | 3432 | 46 | 
+| 2015-05-09 | 第2回グロービス杯世界囲碁U-20準々決勝 | Yang Dingxin | Na Hyun | Lose | W+R | 6.5 | 3386 | 0 | 
+| 2015-05-09 | 第2回グロービス杯世界囲碁U-20グループリーグB | Fujimura Yosuke | Yang Dingxin | Win | W+R | 6.5 | 3386 | -25 | 
+| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグB | Lee Donghoon | Yang Dingxin | Lose | B+R | 6.5 | 3411 | 0 | 
+| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグB | Pavol Lisy | Yang Dingxin | Win | W+R | 6.5 | 3411 | 3 | 
+| 2015-05-06 | 第28期中国囲碁名人戦1回戦 | Zhou Hexi | Yang Dingxin | Win | W+R | 7.5 | 3408 | 31 | 
+| 2015-04-29 | 第17回中国囲碁甲級リーグ第2節 | Yang Dingxin | Tuo Jiaxi | Lose | W+R | 7.5 | 3377 | 41 | 
+| 2015-04-22 | 第17回中国囲碁甲級リーグ第1節 | Tan Xiao | Yang Dingxin | Lose | B+R | 7.5 | 3336 | -4 | 
+| 2015-04-07 | 第12期倡棋杯中国プロ囲碁選手権戦3回戦 | Yang Dingxin | Lian Xiao | Lose | W+R | 7.5 | 3340 | -3 | 
+| 2015-04-05 | 第12期倡棋杯中国プロ囲碁選手権戦2回戦 | Yang Dingxin | Tang Weixing | Win | B+R | 7.5 | 3343 | -235 | 
+| 2015-03-09 | 第14回西南棋王戦2回戦 | Yang Dingxin | Tang Weixing | Lose | W+T | 7.5 | 3578 | 55 | 
+| 2015-01-30 | 第29期中国囲碁天元戦3回戦 | Tang Weixing | Yang Dingxin | Lose | B+R | 7.5 | 3523 | 1 | 
+| 2015-01-29 | 第29期中国囲碁天元戦2回戦 | Yang Dingxin | Peng Liyao | Win | B+R | 7.5 | 3522 | 34 | 
+| 2015-01-27 | 第29期中国囲碁天元戦1回戦 | Yang Dingxin | Mao Ruilong | Win | B+3.5 | 7.5 | 3488 | -11 | 
+| 2015-01-20 | 第15期リコー杯囲碁戦2回戦 | Mao Ruilong | Yang Dingxin | Lose | B+R | 7.5 | 3499 | 12 | 
+| 2014-12-23 | 2014年利民杯世界囲碁星鋭最強戦決勝 | Tong Mengcheng | Yang Dingxin | Lose | B+1.5 | 7.5 | 3487 | -9 | 
+| 2014-12-22 | 2014年利民杯世界囲碁星鋭最強戦準決勝 | Yang Dingxin | Shin Jinseo | Win | B+R | 7.5 | 3496 | 6 | 
+| 2014-12-21 | 2014年利民杯世界囲碁星鋭最強戦3回戦 | Li Qincheng | Yang Dingxin | Win | W+R | 7.5 | 3490 | 8 | 
+| 2014-12-20 | 2014年利民杯世界囲碁星鋭最強戦2回戦 | Yu Zhiying | Yang Dingxin | Win | W+R | 7.5 | 3482 | 8 | 
+| 2014-12-19 | 2014年利民杯世界囲碁星鋭最強戦1回戦 |  | Yang Dingxin | Win | W+6.5 | 7.5 | 3474 | 35 | 
+| 2014-11-25 | 第16回中国囲碁甲級リーグ第22節 | Yang Dingxin | Dang Yifei | Win | B+R | 7.5 | 3439 | -9 | 
+| 2014-11-22 | 第16回中国囲碁甲級リーグ第21節 | Ke Jie | Yang Dingxin | Lose | B+R | 7.5 | 3448 | -5 | 
+| 2014-11-14 | 第10期威孚房開杯棋王戦準決勝 | Jiang Weijie | Yang Dingxin | Lose | B+R | 7.5 | 3453 | -4 | 
+| 2014-11-13 | 第10期威孚房開杯棋王戦3回戦 | Qiu Jun | Yang Dingxin | Win | W+R | 7.5 | 3457 | 20 | 
+| 2014-11-11 | 第16回中国囲碁甲級リーグ第20節 | Piao Wenyao | Yang Dingxin | Win | W+R | 7.5 | 3437 | 3 | 
+| 2014-11-09 | 第16回中国囲碁甲級リーグ第19節 | Yang Dingxin | Qin Yuexin | Lose | W+0.5 | 7.5 | 3434 | 120 | 
+| 2014-10-31 | 第16回中国囲碁甲級リーグ第18節 | Yang Dingxin | Zhou Ruiyang | Lose | W+R | 7.5 | 3314 | -43 | 
+| 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 | Meng Tailing | Yang Dingxin | Lose | B+R | 7.5 | 3357 | -12 | 
+| 2014-10-25 | 第11期倡棋杯中国プロ囲碁選手権戦決勝三番勝負第2局 | Piao Wenyao | Yang Dingxin | Win | W+3 | 7.5 | 3369 | 3 | 
+| 2014-10-23 | 第11期倡棋杯中国プロ囲碁選手権戦決勝三番勝負第1局 | Yang Dingxin | Piao Wenyao | Win | B+R | 7.5 | 3366 | 5 | 
+| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Yang Dingxin | Qiu Jun | Lose | W+R | 7.5 | 3361 | -23 | 
+| 2014-10-15 | 第6期中国竜星戦2回戦 | Yang Dingxin | Tuo Jiaxi | Lose | W+R | 7.5 | 3384 | -17 | 
+| 2014-10-12 | 第10期威孚房開杯棋王戦2回戦 | Yang Dingxin | Zhong Wenjing | Win | B+R | 7.5 | 3401 | 6 | 
+| 2014-10-11 | 第10期威孚房開杯棋王戦1回戦 | Yang Dingxin | Tuo Jiaxi | Win | B+R | 7.5 | 3395 | -40 | 
+| 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Tan Xiao | Yang Dingxin | Lose | B+R | 7.5 | 3435 | -1 | 
+| 2014-10-03 | 2014年国際新鋭囲碁対抗戦第3戦 | Yang Dingxin | Lin Junyan | Win | B+2.5 | 6.5 | 3436 | -18 | 
+| 2014-10-02 | 2014年国際新鋭囲碁対抗戦第2戦 | Yang Dingxin | Shin Jinseo | Win | B+R | 6.5 | 3454 | 19 | 
+| 2014-10-01 | 2014年国際新鋭囲碁対抗戦第1戦 | Terayama Rei | Yang Dingxin | Win | W+R | 6.5 | 3435 | -23 | 
+| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Lee Sedol | Yang Dingxin | Lose | B+1.5 | 7.5 | 3458 | 37 | 
+| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Yang Dingxin | Choi Cheolhan | Win | B+1.5 | 7.5 | 3421 | -6 | 
+| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Chen Yaoye | Yang Dingxin | Win | W+R | 7.5 | 3427 | 1 | 
+| 2014-09-02 | 第6期中国竜星戦1回戦 | Yang Dingxin | Li Xuanhao | Win | B+R | 7.5 | 3426 | -3 | 
+| 2014-08-27 | 第19回三星火災杯世界囲碁マスターズ1回戦D2 | Yang Dingxin | Rong Yi | Lose | W+R | 6.5 | 3429 | -36 | 
+| 2014-08-26 | 第19回三星火災杯世界囲碁マスターズ1回戦D1 | Kang Dongyun | Yang Dingxin | Lose | B+R | 6.5 | 3465 | -29 | 
+| 2014-08-14 | 第11期倡棋杯中国プロ囲碁選手権戦準決勝第3局 | Yang Dingxin | Shi Yue | Win | B+R | 7.5 | 3494 | 11 | 
+| 2014-08-13 | 第11期倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Shi Yue | Yang Dingxin | Lose | B+R | 7.5 | 3483 | -12 | 
+| 2014-08-11 | 第11期倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Yang Dingxin | Shi Yue | Win | B+1 | 7.5 | 3495 | 16 | 
+| 2014-08-06 | 第19回三星火災杯統合予選決勝 | Lee Jungwoo | Yang Dingxin | Win | W+R | 6.5 | 3479 | -59 | 
+| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Yang Dingxin | Jiang Weijie | Lose | W+R | 7.5 | 3538 | 20 | 
+| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Gu Lingyi | Yang Dingxin | Win | W+R | 7.5 | 3518 | -10 | 
+| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Yang Dingxin | Park Junghwan | Win | B+R | 7.5 | 3528 | 22 | 
+| 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Yang Kaiwen | Yang Dingxin | Lose | B+R | 7.5 | 3506 | -7 | 
+| 2014-07-02 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Luo Xihe | Yang Dingxin | Win | W+R | 7.5 | 3513 | 9 | 
+| 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Wu Guangya | Yang Dingxin | Win | W+R | 7.5 | 3504 | 31 | 
+| 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Qin Yuexin | Yang Dingxin | Win | W+R | 7.5 | 3473 | 16 | 
+| 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Yang Dingxin | Lian Xiao | Lose | W+R | 7.5 | 3457 | -9 | 
+| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Jiang Weijie | Yang Dingxin | Win | W+R | 7.5 | 3466 | 69 | 
+| 2014-06-05 | 第16回中国囲碁甲級リーグ第6節 | Tong Mengcheng | Yang Dingxin | Lose | B+R | 7.5 | 3397 | -31 | 
+| 2014-06-01 | 第11期倡棋杯中国プロ囲碁選手権戦3回戦 | Gu Lingyi | Yang Dingxin | Win | W+R | 7.5 | 3428 | 13 | 
+| 2014-05-30 | 第11期倡棋杯中国プロ囲碁選手権戦2回戦 | Yang Dingxin | Liu Xing | Win | B+R | 7.5 | 3415 | 14 | 
+| 2014-05-28 | 第11期倡棋杯中国プロ囲碁選手権戦1回戦 | Li Zhe | Yang Dingxin | Win | W+R | 7.5 | 3401 | 94 | 
+| 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Yang Dingxin | Tan Xiao | Lose | W+R | 7.5 | 3307 | -11 | 
+| 2014-05-18 | 第16回中国囲碁甲級リーグ第3節 | Yang Dingxin | Lee Sedol | Lose | W+0.5 | 7.5 | 3318 | -11 | 
+| 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | An Dongxu | Yang Dingxin | Win | W+R | 7.5 | 3329 | -9 | 
+| 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Yang Dingxin | Chen Yaoye | Lose | W+R | 7.5 | 3338 | 19 | 
+| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Yang Dingxin | An Dongxu | Lose | W+R | 7.5 | 3319 | -151 | 
+| 2014-04-04 | 第27期中国囲碁名人戦1回戦 | Yang Dingxin | Niu Yutian | Lose | W+R | 7.5 | 3470 | 15 | 
+| 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Yang Dingxin |  | Win | B+R | 7.5 | 3455 | 53 | 
+| 2014-02-17 | 第14期リコー杯囲碁戦3回戦 | Yang Dingxin | Huang Yunsong | Lose | W+0.5 | 7.5 | 3402 | -88 | 
+| 2014-01-15 | 第28期中国囲碁天元戦1回戦 | Xie Erhao | Yang Dingxin | Lose | B+R | 7.5 | 3490 | -42 | 
+| 2013-12-30 | 第14期リコー杯囲碁戦2回戦 | Yang Dingxin | Zhao Chenyu | Win | B+R | 7.5 | 3532 | 74 | 
+| 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 |  | Yang Dingxin | Win | W+R | 7.5 | 3458 | 35 | 
+| 2013-11-23 | 第15回中国囲碁甲級リーグ第21節 | Tang Weixing | Yang Dingxin | Win | W+R | 7.5 | 3423 | -2 | 
+| 2013-11-16 | 第15回中国囲碁甲級リーグ第20節 | Na Hyun | Yang Dingxin | Win | W+0.5 | 7.5 | 3425 | 19 | 
+| 2013-11-02 | 第15回中国囲碁甲級リーグ第19節 | Yang Dingxin | Zhong Wenjing | Lose | W+R | 7.5 | 3406 | -12 | 
+| 2013-10-31 | 第9期威孚房開杯棋王戦決勝 | Zhou Ruiyang | Yang Dingxin | Win | W+R | 7.5 | 3418 | 18 | 
+| 2013-10-30 | 第9期威孚房開杯棋王戦準決勝 | Tong Mengcheng | Yang Dingxin | Win | W+R | 7.5 | 3400 | 4 | 
+| 2013-10-29 | 第9期威孚房開杯棋王戦3回戦 | Yang Dingxin | Wu Guangya | Win | B+R | 7.5 | 3396 | 14 | 
+| 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 | Yang Dingxin | Jiang Weijie | Win | B+R | 7.5 | 3382 | 14 | 
+| 2013-10-13 | 第15回中国囲碁甲級リーグ第16節 | Fan Yunruo | Yang Dingxin | Win | W+R | 7.5 | 3368 | -36 | 
+| 2013-09-21 | 2013年全国囲棋個人戦男子組第6戦 | Yang Dingxin | Zhou Hexi | Lose | W+R | 7.5 | 3404 | -9 | 
+| 2013-09-18 | 2013年全国囲棋個人戦男子組第4戦 | Yang Dingxin | Qiu Jun | Win | B+R | 6.5 | 3413 | -113 | 
+| 2013-09-12 | 第15回中国囲碁甲級リーグ第15節 | Yang Dingxin | Xie Erhao | Win | B+R | 7.5 | 3526 | 46 | 
+| 2013-09-09 | 第5期中国竜星戦1回戦 | Zhou Ruiyang | Yang Dingxin | Lose | B+R | 7.5 | 3480 | 0 | 
+| 2013-09-09 | 第5期中国竜星戦予選 | Chen Hao | Yang Dingxin | Win | W+R | 7.5 | 3480 | -5 | 
+| 2013-09-07 | 第15回中国囲碁甲級リーグ第14節 | Yang Dingxin | Kim Jiseok | Win | B+R | 7.5 | 3485 | 48 | 
+| 2013-09-01 | 第15回中国囲碁甲級リーグ第13節 | Shi Yue | Yang Dingxin | Win | W+R | 7.5 | 3437 | 11 | 
+| 2013-08-30 | 第15回中国囲碁甲級リーグ第12節 | Wang Haoyang | Yang Dingxin | Win | W+R | 7.5 | 3426 | -13 | 
+| 2013-08-28 | 第9期威孚房開杯棋王戦2回戦 | Gu Lingyi | Yang Dingxin | Win | W+R | 7.5 | 3439 | 15 | 
+| 2013-08-27 | 第9期威孚房開杯棋王戦1回戦 | Yang Dingxin | Tuo Jiaxi | Win | B+R | 7.5 | 3424 | 117 | 
+| 2013-07-15 | 第15回中国囲碁甲級リーグ第11節 | Yang Dingxin | Tong Yulin | Win | B+R | 7.5 | 3307 | 96 | 
+| 2013-07-07 | 第15回中国囲碁甲級リーグ第10節 | Meng Tailing | Yang Dingxin | Win | W+R | 7.5 | 3211 | 38 | 
+| 2013-06-22 | 第15回中国囲碁甲級リーグ第9節 |  | Yang Dingxin | Lose | B+R | 7.5 | 3173 | -23 | 
+| 2013-06-15 | 第15回中国囲碁甲級リーグ第8節 | Kong Jie | Yang Dingxin | Win | W+R | 7.5 | 3196 | -7 | 
+| 2013-06-06 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Yang Dingxin | Han Yizhou | Lose | W+R | 7.5 | 3203 | -16 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Yang Dingxin |  | Win | B+R | 7.5 | 3219 | 0 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 |  | Yang Dingxin | Win | W+R | 7.5 | 3219 | 124 | 
+| 2013-05-27 | 第10期倡棋杯中国プロ囲碁選手権戦1回戦 | Yang Dingxin | Tang Weixing | Lose | W+R | 7.5 | 3095 | -46 | 
+| 2013-05-23 | 第1回夢百合杯世界オープン戦予選 | Yang Dingxin | Choi Cheolhan | Lose | W+R | 7.5 | 3141 | -27 | 
+| 2013-05-09 | 第15回中国囲碁甲級リーグ第4節 |  | Yang Dingxin | Lose | B+R | 7.5 | 3168 | -15 | 
+| 2013-05-07 | 第10期倡棋杯中国プロ囲碁選手権戦予選 | Yang Dingxin | Li Kang | Win | B+R | 7.5 | 3183 | 2 | 
+| 2013-05-06 | 第10期倡棋杯中国プロ囲碁選手権戦予選 | Yang Dingxin |  | Win | B+R | 7.5 | 3181 | -41 | 
+| 2013-04-20 | 第18回LG杯予選 | Yang Dingxin | An Sungjoon | Win | B+2.5 | 6.5 | 3222 | 17 | 
+| 2013-04-13 | 第26期中国囲碁名人戦1回戦 | Zhong Wenjing | Yang Dingxin | Lose | B+R | 7.5 | 3205 | -17 | 
+| 2013-04-07 | 第15回中国囲碁甲級リーグ第2節 | Li Zhe | Yang Dingxin | Win | W+R | 7.5 | 3222 | -50 | 
+| 2013-03-13 | 2013CCTV杯中国囲棋電視快棋戦2回戦 | Yang Dingxin | Peng Liyao | Lose | W+0.5 | 7.5 | 3272 | 0 | 
+| 2013-03-13 | 2013CCTV杯中国囲棋電視快棋戦1回戦 | Yang Dingxin | Liao Xingwen | Win | B+R | 7.5 | 3272 | 18 | 
+| 2013-03-09 | 第12回西南棋王戦1回戦 | Gu Li | Yang Dingxin | Lose | B+R | 7.5 | 3254 | 47 | 
+| 2013-02-21 | 第13期リコー杯囲碁戦3回戦 | Yang Dingxin | Tang Weixing | Lose | W+R | 7.5 | 3207 | -70 | 
+| 2013-01-26 | 第27期中国囲碁天元戦2回戦 | Yang Dingxin | Qiu Jun | Lose | W+R | 7.5 | 3277 | -7 | 
+| 2013-01-24 | 第27期中国囲碁天元戦1回戦 | Yang Dingxin | Hu Yaoyu | Win | B+R | 7.5 | 3284 | -9 | 
+| 2012-12-29 | 第13期リコー杯囲碁戦2回戦 |  | Yang Dingxin | Win | W+R | 7.5 | 3293 | 8 | 
+| 2012-12-08 | 第14回中国囲碁甲級リーグ第22節 |  | Yang Dingxin | Win | W+R | 7.5 | 3285 | 50 | 
+| 2012-12-05 | 第14回中国囲碁甲級リーグ第21節 | Yang Dingxin | Qiu Jun | Win | B+R | 7.5 | 3235 | -216 | 
+| 2012-11-24 | 第14回中国囲碁甲級リーグ第20節 | Jiang Weijie | Yang Dingxin | Lose | B+1.5 | 7.5 | 3451 | 3 | 
+| 2012-11-10 | 第14回中国囲碁甲級リーグ第19節 | Yang Dingxin | Meng Tailing | Win | B+5.5 | 7.5 | 3448 | 22 | 
+| 2012-11-03 | 第14回中国囲碁甲級リーグ第18節 | Kong Jie | Yang Dingxin | Win | W+0.5 | 7.5 | 3426 | -10 | 
+| 2012-10-15 | 第4期中国竜星戦1回戦 | Yang Dingxin | Peng Quan | Lose | W+R | 7.5 | 3436 | -13 | 
+| 2012-09-28 | 第14回中国囲碁甲級リーグ第15節 |  | Yang Dingxin | Lose | B+R | 7.5 | 3449 | -53 | 
+| 2012-09-19 | 2012年全国囲棋個人戦男子組第4戦 | Yang Dingxin | Li Kang | Lose | W+R | 7.5 | 3502 | 15 | 
+| 2012-09-08 | 第14回中国囲碁甲級リーグ第14節 | Gu Zihao | Yang Dingxin | Win | W+R | 7.5 | 3487 | 22 | 
+| 2012-09-01 | 第14回中国囲碁甲級リーグ第13節 | Yang Dingxin | Niu Yutian | Win | B+R | 7.5 | 3465 | 9 | 
+| 2012-08-30 | 第14回中国囲碁甲級リーグ第12節 | Guo Yuzheng | Yang Dingxin | Win | W+R | 7.5 | 3456 | 56 | 
+| 2012-08-19 | 第1回百霊杯世界囲碁選手権2回戦 | Chen Xian | Yang Dingxin | Lose | B+R | 7.5 | 3400 | 46 | 
+| 2012-08-06 | 第17回三星火災杯統合予選準決勝 | Kang Dongyun | Yang Dingxin | Lose | B+R | 6.5 | 3354 | -124 | 
+| 2012-07-09 | 2012CCTV杯中国囲棋電視快棋戦1回戦 | Yang Dingxin | Li Kang | Win | B+R | 7.5 | 3478 | 51 | 
+| 2012-06-30 | 第14回中国囲碁甲級リーグ第8節 |  | Yang Dingxin | Lose | B+R | 7.5 | 3427 | 18 | 
+| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Yang Dingxin |  | Lose | W+R | 7.5 | 3409 | -181 | 
+| 2012-04-30 | 第14回中国囲碁甲級リーグ第2節 | Yang Dingxin | Li Kang | Lose | W+R | 7.5 | 3590 | -20 | 
+| 2012-04-07 | 第12期リコー杯囲碁戦決勝 | Yang Dingxin | Piao Wenyao | Win | B+R | 7.5 | 3610 | 31 | 
+| 2012-04-02 | 第25期中国囲碁名人戦予選 | An Dongxu | Yang Dingxin | Lose | B+R | 7.5 | 3579 | -11 | 
+| 2012-03-21 | 第19期建橋杯中国囲碁新人王戦3回戦 | Tao Xinran | Yang Dingxin | Lose | B+R | 7.5 | 3590 | -14 | 
+| 2012-03-20 | 第19期建橋杯中国囲碁新人王戦2回戦 | Yang Dingxin | Dang Yifei | Win | B+R | 7.5 | 3604 | 13 | 
+| 2012-03-19 | 第19期建橋杯中国囲碁新人王戦1回戦 | Yang Dingxin | Wang Chenxing | Win | B+R | 7.5 | 3591 | -5 | 
+| 2012-03-14 | 第1回百霊杯世界囲碁選手権1回戦 | Ha Youngil | Yang Dingxin | Win | W+6.5 | 7.5 | 3596 | -67 | 
+| 2012-03-07 | 第11回西南棋王戦準決勝 | Yang Dingxin | Peng Liyao | Lose | W+R | 7.5 | 3663 | -17 | 
+| 2012-03-06 | 第11回西南棋王戦2回戦 | Yang Dingxin | Li Xuanhao | Win | B+3.5 | 7.5 | 3680 | 16 | 
+| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Yang Dingxin | Kim Seungjun | Lose | W+R | 6.5 | 3664 | -38 | 
+| 2012-02-29 | 第4回BCカード杯世界選手権統合予選決勝 | Kang Dongyun | Yang Dingxin | Win | W+0.5 | 6.5 | 3702 | -2 | 
+| 2012-02-23 | 第6期リコー杯新秀戦決勝 | Li Xuanhao | Yang Dingxin | Lose | B+R | 7.5 | 3704 | -34 | 
+| 2012-02-22 | 第6期リコー杯新秀戦準決勝 | Mi Yuting | Yang Dingxin | Win | W+R | 7.5 | 3738 | 23 | 
+| 2012-02-21 | 第6期リコー杯新秀戦2回戦 | Yang Dingxin |  | Win | B+R | 7.5 | 3715 | 14 | 
+| 2012-02-20 | 第12期リコー杯囲碁戦準決勝 | Mi Yuting | Yang Dingxin | Win | W+4.5 | 7.5 | 3701 | 167 | 
+| 2012-02-10 | 第26期中国囲碁天元戦1回戦 | Yang Dingxin | Zhou Hexi | Lose | W+R | 7.5 | 3534 | -8 | 
+| 2012-02-09 | 第26期中国囲碁天元戦予選 | Guo Yuzheng | Yang Dingxin | Win | W+6.5 | 7.5 | 3542 | -18 | 
+| 2012-02-06 | 第12期リコー杯囲碁戦4回戦 | Fan Tingyu | Yang Dingxin | Win | W+2.5 | 7.5 | 3560 | 70 | 
+| 2012-01-12 | 第12期リコー杯囲碁戦3回戦 | Yang Kaiwen | Yang Dingxin | Win | W+R | 7.5 | 3490 | 2 | 
+| 2011-12-29 | 第12期リコー杯囲碁戦1回戦 | Wang Lei (s) | Yang Dingxin | Win | W+0.5 | 7.5 | 3488 | 3488 | 
+| 2011-12-28 | 第6期リコー杯新秀戦1回戦 |  | Yang Dingxin | Win | W+R | 7.5 | missing | -3452 | 
+| 2011-12-26 | 第13回中国囲碁甲級リーグ第22節 | Yang Dingxin | Tang Weixing | Lose | W+R | 7.5 | 3452 | 290 | 
+| 2011-10-29 | 第13回中国囲碁甲級リーグ第18節 | Gu Zihao | Yang Dingxin | Win | W+6.5 | 7.5 | 3162 | -14 | 
+| 2011-10-08 | 第13回中国囲碁甲級リーグ第16節 | Yang Dingxin | Guo Yuzheng | Win | B+3.5 | 7.5 | 3176 | -29 | 
+| 2011-09-18 | 2011年全国囲棋個人戦男子組第4戦 | Zhou Hexi | Yang Dingxin | Lose | B+1.5 | 7.5 | 3205 | 51 | 
+| 2011-09-10 | 第13回中国囲碁甲級リーグ第14節 | Zhou Heyang | Yang Dingxin | Win | W+R | 7.5 | 3154 | 40 | 
+| 2011-09-06 | 第13回中国囲碁甲級リーグ第13節 | Yang Dingxin | Liao Xingwen | Win | B+R | 7.5 | 3114 | 16 | 
+| 2011-09-04 | 第13回中国囲碁甲級リーグ第12節 | Peng Liyao | Yang Dingxin | Lose | B+R | 7.5 | 3098 | -19 | 
+| 2011-07-14 | 第13回中国囲碁甲級リーグ第11節 | Meng Tailing | Yang Dingxin | Lose | B+R | 7.5 | 3117 | -38 | 
+| 2011-07-12 | 第13期阿含・桐山杯中国早碁オープン戦2回戦 | Piao Wenyao | Yang Dingxin | Lose | B+R | 7.5 | 3155 | -14 | 
+| 2011-07-11 | 第13期阿含・桐山杯中国早碁オープン戦1回戦 | Qiu Jun | Yang Dingxin | Win | W+2.5 | 7.5 | 3169 | -1 | 
+| 2011-07-09 | 第13回中国囲碁甲級リーグ第10節 | Mao Ruilong | Yang Dingxin | Win | W+R | 7.5 | 3170 | 28 | 
+| 2011-07-02 | 第13回中国囲碁甲級リーグ第9節 | Yang Dingxin | Kong Jie | Lose | W+R | 7.5 | 3142 | -145 | 
+| 2011-06-25 | 第13回中国囲碁甲級リーグ第8節 | Yang Dingxin | Ding Lie | Lose | W+R | 7.5 | 3287 | -57 | 
+| 2011-06-23 | 第13期阿含・桐山杯中国早碁オープン戦予選 | Pan Fei | Yang Dingxin | Win | W+2.5 | 7.5 | 3344 | -65 | 
+| 2011-02-20 | 第18期建橋杯中国囲碁新人王戦1回戦 |  | Yang Dingxin | Lose | B+R | 7.5 | 3409 | 143 | 
+| 2011-01-18 | 第5期リコー杯新秀戦決勝 | Fan Yunruo | Yang Dingxin | Win | W+R | 7.5 | 3266 | 159 | 
+| 2010-12-21 | 第5期リコー杯新秀戦準決勝 | Yang Dingxin | Han Yizhou | Win | B+R | 7.5 | 3107 | 8 | 
+| 2010-12-11 | 第12回中国囲碁甲級リーグ第21節 | Mao Ruilong | Yang Dingxin | Win | W+2.5 | 7.5 | 3099 | 3099 | 
+| 2010-12-08 | 第5期リコー杯新秀戦2回戦 | Yang Dingxin | Li Qincheng | Win | B+R | 7.5 | missing | -3043 | 
+| 2010-12-07 | 第11期リコー杯囲碁戦1回戦 | Yang Dingxin | Tang Yi | Win | B+R | 7.5 | 3043 | -51 | 
+| 2010-10-27 | 第12回中国囲碁甲級リーグ第17節 | Tang Weixing | Yang Dingxin | Win | W+4.5 | 7.5 | 3094 | 16 | 
+| 2010-10-09 | 第12回中国囲碁甲級リーグ第14節 |  | Yang Dingxin | Lose | B+R | 7.5 | 3078 | 78 | 
+| 2010-09-28 | 第3回衢州・爛柯杯中国囲棋冠軍戦準決勝 | Yang Dingxin | Jiang Weijie | Lose | W+2.5 | 7.5 | 3000 | -45 | 
+| 2010-09-27 | 第3回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Yang Dingxin | Li Zhe | Win | B+1.5 | 7.5 | 3045 | -7 | 
+| 2010-07-10 | 第12回中国囲碁甲級リーグ第10節 | Lian Xiao | Yang Dingxin | Win | W+R | 7.5 | 3052 | 18 | 
+| 2010-07-03 | 第12回中国囲碁甲級リーグ第9節 | Yang Dingxin | Tuo Jiaxi | Lose | W+R | 7.5 | 3034 | 57 | 
+| 2010-06-17 | 第3回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Yang Dingxin | Chen Yaoye | Win | B+5.5 | 7.5 | 2977 | 118 | 
+| 2010-06-15 | 第3回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Yang Dingxin | Wang Yao | Win | B+R | 7.5 | 2859 | 144 | 
+| 2010-03-04 | 2010CCTV杯中国囲棋電視快棋戦2回戦 | Yang Dingxin | Gu Li | Lose | W+R | 7.5 | 2715 | -49 | 
+| 2010-01-22 | 第24期中国囲碁天元戦予選 | Wang Chenxing | Yang Dingxin | Lose | B+1.5 | 7.5 | 2764 | -151 | 
+| 2010-01-21 | 第24期中国囲碁天元戦予選 |  | Yang Dingxin | Win | W+16.5 | 7.5 | 2915 | 31 | 
+| 2010-01-20 | 第24期中国囲碁天元戦予選 |  | Yang Dingxin | Win | W+2.5 | 7.5 | 2884 | 167 | 
+| 2010-01-19 | 第24期中国囲碁天元戦予選 | Yang Dingxin | Guo Yuzheng | Win | B+3.5 | 7.5 | 2717 | 57 | 
+| 2009-12-30 | 第10期リコー杯囲碁戦2回戦 | Yang Dingxin | Gu Li | Lose | W+R | 7.5 | 2660 | -16 | 
+| 2009-12-29 | 第4期リコー杯新秀戦1回戦 | Lian Xiao | Yang Dingxin | Lose | B+R | 7.5 | 2676 | -249 | 
+| 2009-12-28 | 第10期リコー杯囲碁戦1回戦 | Lu Jia | Yang Dingxin | Win | W+R | 7.5 | 2925 | 58 | 
+| 2009-12-20 | 第4期リコー杯新秀戦予選 | Yang Dingxin |  | Win | B+R | 7.5 | 2867 | -109 | 
+| 2009-03-06 | 第22期中国囲碁名人戦予選 | Yang Dingxin |  | Lose | W+R | 7.5 | 2976 | 6 | 
+| 2009-03-05 | 第22期中国囲碁名人戦予選 | Yang Dingxin | Fan Weijing | Win | B+R | 7.5 | 2970 | -88 | 
+| 2009-03-04 | 第22期中国囲碁名人戦予選 | Yang Dingxin | Jiang Wei | Win | B+R | 7.5 | 3058 | 3058 | 
+| 2009-03-03 | 第22期中国囲碁名人戦予選 | Yang Dingxin |  | Win | B+3.5 | 7.5 | missing | 0 | 
+| 2008-12-16 | 第3期リコー杯新秀戦予選 | Yang Dingxin |  | Lose | W+R | 7.5 | missing | missing |
 
 
 

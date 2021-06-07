@@ -5,414 +5,415 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第23回中国囲碁甲級リーグ | Chen Xian | Dang Yifei | W+R | 2021-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U0fGrTjT%2FV73U2cRiTs78A%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Dang Yifei | Lian Xiao | W+R | 2021-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kOT0EptOUKaz5OAluCrPNg%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Lee Donghoon | Dang Yifei | W+R | 2021-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v64mPY%2FxzGDZGuAoS5iPEA%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Dang Yifei | Byun Sangil | W+R | 2021-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nQCKT2YuC38AvAlpkgMARg%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Dang Yifei | Huang Mingyu | B+R | 2021-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wLpcdQhNALULV4zZPMNF%2FQ%3D%3D) | 
-| 第20回西南棋王戦1回戦 | Dang Yifei | Li Xuanhao | W+R | 2021-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fn5TFe9%2BjAZOArSbxcio8Q%3D%3D) | 
-| 第17回倡棋杯中国プロ囲碁選手権戦3回戦 | Yang Dingxin | Dang Yifei | B+¾ | 2021-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Mb%2FVBos9fQNnQ13V3XFOA%3D%3D) | 
-| 第17回倡棋杯中国プロ囲碁選手権戦2回戦 | Dang Yifei | Li Weiqing | B+R | 2021-04-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1KZ1Libx2DCQvnPHzccxlA%3D%3D) | 
-| 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Mi Yuting | Dang Yifei | W+¼ | 2021-04-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZowVaqueHo10M41tImK86g%3D%3D) | 
-| 第17回倡棋杯中国プロ囲碁選手権戦 | missing | Dang Yifei | W+R | 2021-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fEM8nxpcrykxXjbsl%2FcN0Q%3D%3D) | 
-| 2021年龍華杯深圳市囲碁戦 | Chen Zhengxun | Dang Yifei | B+R | 2021-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uUdJWBUrNxqcCfhd1qvJGQ%3D%3D) | 
-| 2021年龍華杯深圳市囲碁戦 | Tao Xinran | Dang Yifei | W+R | 2021-03-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u6P5aIss3MJz5otalaWRqg%3D%3D) | 
-| 2021年龍華杯深圳市囲碁戦 | Li Xiangyu | Dang Yifei | W+R | 2021-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W3n87Wpi0rJnqCi%2BwldQbg%3D%3D) | 
-| 第35期中国囲碁天元戦1回戦 | Dang Yifei | Gu Zihao | W+¼ | 2021-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EdJl%2BZ8kM%2F%2FLNtkxUtvs8A%3D%3D) | 
-| 第35期中国囲碁天元戦1回戦 | Peng Quan | Dang Yifei | W+¼ | 2021-01-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JvnrnS60OqUnuO6UoGppHw%3D%3D) | 
-| 第8回衢州・爛柯杯中国囲碁冠軍戦準決勝 | Xu Jiayang | Dang Yifei | B+¾ | 2021-01-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CNhdG%2FtatnWY5LP9WhMsDg%3D%3D) | 
-| 第8回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Tang Weixing | Dang Yifei | W+R | 2021-01-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z8YceEYcvpJ5v7xpO0%2BDyQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Xie Ke | Dang Yifei | B+R | 2020-12-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B89AbyNXsRrU%2FGoggXxL%2Fg%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Dang Yifei | Shin Jinseo | W+1¼ | 2020-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9XhPmJXJs3n6TQ5oBZe4dg%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Dang Yifei | Zhou Ruiyang | B+R | 2020-12-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wfXnpvuhHTvObTwKczEw3w%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Yi Lingtao | Dang Yifei | W+R | 2020-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wxOfH9zGC78dKfh0%2F4X7DA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Shin Minjun | Dang Yifei | W+R | 2020-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QEQT9w5M2jUKYlKeVK0bXQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Dang Yifei | Huang Yunsong | W+¼ | 2020-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uQkJAEaTavo3bcLK%2BAAgOA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Dang Yifei | Kang Dongyun | B+R | 2020-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i1XUT5jL54O4JybFDC9Blg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ  | Shibano Toramaru | Dang Yifei | W+R | 2020-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C8P88XNU7syj%2Bbsol6Wgbw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Dang Yifei | Hu Yaoyu | B+R | 2020-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VkU4xDDrFo0pC2KzGCAW9g%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Dang Yifei | Xie Ke | B+R | 2020-12-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fEYJ9ikwH0DAMA6g1jBt2g%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Xia Chenkun | Dang Yifei | W+R | 2020-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7xdXnoivbCPFlLcfREGcHA%3D%3D) | 
-| 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Tong Mengcheng | Dang Yifei | W+R | 2020-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=23FE3JGpu0H5cUIjxQvDbw%3D%3D) | 
-| 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Li Qincheng | Dang Yifei | W+R | 2020-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LRd1jHoyKDl%2B0MOhsDHBOA%3D%3D) | 
-| 2020CCTV杯中国囲棋電視快棋戦1回戦 | Fan Yin | Dang Yifei | B+R | 2020-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BBbf6jymoCafT9agNvv%2FNw%3D%3D) | 
-| 第25回三星火災杯中国一般枠予選 | Dang Yifei | Tong Mengcheng | W+R | 2020-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gd7ZLgIGS4L6XjTNRtV%2FaQ%3D%3D) | 
-| 第9回応氏杯世界選手権1回戦 | Hsu Chiayuan | Dang Yifei | B+R | 2020-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6%2FrkQld7uo8X2Y8JGakudw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第8節 | Jiang Qirun | Dang Yifei | B+R | 2020-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WQjl0%2FzLWECXnTg0cTyV3w%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第7節 | Dang Yifei | Li Xuanhao | B+R | 2020-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c%2FRYftsvVIADyvP5sfIzIQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第5節 | Dang Yifei | Tu Xiaoyu | W+R | 2020-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mqiLwIgvrb3rRnCtYQnuGQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第4節 | Ding Shixiong | Dang Yifei | W+¼ | 2020-08-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gr74wRJQ0g96qsBrAXyCkA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第3節 | Cao Xiaoyang | Dang Yifei | B+R | 2020-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q%2F%2B%2B%2BGDfpKdNgxdlSy0wWA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第2節 | Peng Liyao | Dang Yifei | W+R | 2020-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EmXR2tirvU5xpg5jNJ4U9g%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第1節 | Dang Yifei | Huang Jingyuan | B+2¾ | 2020-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oGlBqMCW461jXPxrtnoxiw%3D%3D) | 
-| 第19回西南棋王戦2回戦 | Dang Yifei | Li Xuanhao | W+R | 2020-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SZjYDBVTUVRxAVI%2FacQMYQ%3D%3D) | 
-| 第19回西南棋王戦1回戦 | Kou Zhengyan | Dang Yifei | W+R | 2020-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JLvaYfltIpMbuZdRrnlVQg%3D%3D) | 
-| 第25回LG杯中国予選決勝 | Dang Yifei | Li Xuanhao | W+R | 2020-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v4iqfHo%2FzKCtiObmZSy4QQ%3D%3D) | 
-| 第25回LG杯中国予選 | Tong Mengcheng | Dang Yifei | W+R | 2020-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ifhLPHo1AJ9ce1pqBxh4lg%3D%3D) | 
-| 第5期洛陽白雲山杯中国棋聖戦予選 | Liao Yuanhe | Dang Yifei | B+R | 2019-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TUpnHp0Xs2BcUrkGdnooXA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ5位決定戦第3戦 | Dang Yifei | Wang Xinghao | W+R | 2019-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f%2Bv%2FrssUa8CESyuvkCA44w%3D%3D) | 
-| 第21回中国囲碁甲級リーグ5位決定戦第2戦 | Fan Yunruo | Dang Yifei | W+R | 2019-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hI94trkrL3663HI2vjRK1w%3D%3D) | 
-| 第21回中国囲碁甲級リーグ5位決定戦第1戦 | Dang Yifei | Fan Yunruo | W+R | 2019-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QL95w7p3igbJOlMnCth5qw%3D%3D) | 
-| 第4回全国智力運動会男子団体戦第7戦 | Fan Tingyu | Dang Yifei | B+R | 2019-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XPnA4jf%2FSOA2KAzPlTAF3Q%3D%3D) | 
-| 第4回全国智力運動会男子団体戦第6戦 | Dang Yifei | Tong Mengcheng | B+R | 2019-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E89VbibNj87XCPWY6UMd3A%3D%3D) | 
-| 第4回全国智力運動会男子団体戦第1戦 | Tang Weixing | Dang Yifei | W+R | 2019-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ET5TK%2BA8LKKuKC66ZYgTeA%3D%3D) | 
-| 第4回全国智力運動会プロ男子個人早碁戦8強戦 | Dang Yifei | Chen Yaoye | W+T | 2019-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z7SUk7zr%2BhUr4cDv1zCYaA%3D%3D) | 
-| 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Dang Yifei | Li Weiqing | W+R | 2019-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FaX76v1upAQ6PylX5VPrvg%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Dang Yifei | Chen Xian | W+R | 2019-10-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GSBo%2FtwGB58SEBHznifXNA%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Huang Yunsong | Dang Yifei | B+R | 2019-10-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eHlccpR6KyyZ5pdvuGYclw%3D%3D) | 
-| 第24回三星火災杯世界囲碁マスターズ1回戦 | Park Junghwan | Dang Yifei | B+0.5 | 2019-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FsKkIukKnGlsF42d72qQlg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第15節 | Gu Li | Dang Yifei | W+R | 2019-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6EI%2BOku6MYq0yJZUl0YEgQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第14節 | Shin Jinseo | Dang Yifei | W+R | 2019-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6AMtRy3SOdoar4FATSyB%2Bw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第13節 | missing | Dang Yifei | W+R | 2019-08-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nd59JIR2nQ2Vq6Ua8oI43g%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第12節 | Han Yizhou | Dang Yifei | W+R | 2019-08-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6GUmYNVsGANC%2FJtDZJUNjw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第11節 | Wang Shiyi | Dang Yifei | W+R | 2019-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=anrajKP%2FWq0kxAN5xMbmdQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第10節 | Dang Yifei | Ke Jie | W+2¼ | 2019-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VArzWYqrrPQrIj60BE1b3Q%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第9節 | Dang Yifei | Lee Donghoon | W+R | 2019-07-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xzTm9cJHE51sZMfP7OgDNw%3D%3D) | 
-| 第12回春蘭杯世界囲碁選手権三位決定戦 | Ke Jie | Dang Yifei | B+R | 2019-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bicwlvu19Vw384rf%2F8cHVw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第8節 | Dang Yifei | Tang Weixing | B+R | 2019-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mCfdgrmr9ohaYj%2BGExLMrw%3D%3D) | 
-| 第21期阿含・桐山杯中国早碁オープン戦予選3回戦 | Tan Xiao | Dang Yifei | W+R | 2019-06-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NeVNdCxBP1DfjYHhBGb73g%3D%3D) | 
-| 第21期阿含・桐山杯中国早碁オープン戦予選1回戦 | Dang Yifei | Jiang Qirun | B+R | 2019-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w%2FbjclQIjxeQxM0h5QWCag%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第7節 | Chen Zijian | Dang Yifei | W+1¼ | 2019-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j0MkTXdrKr26d4FsAdskzg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第6節 | Dang Yifei | Wang Xinghao | W+¼ | 2019-06-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eb3Adnv7F3M%2BTV8I5geRig%3D%3D) | 
-| 第24回LG杯朝鮮日報棋王戦2回戦 | Dang Yifei | Park Junghwan | W+R | 2019-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qj62T6v42c0ysZwquTym8Q%3D%3D) | 
-| 第24回LG杯朝鮮日報棋王戦1回戦 | Dang Yifei | Park Yeonghun | B+R | 2019-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B2FD2yKJOPj0tB19sb5zJg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第5節 | Dang Yifei | Kang Dongyun | B+R | 2019-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e2ThJxDUe67ML%2BdtbFbPBA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第4節 | Dang Yifei | Xu Jiayang | B+R | 2019-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Otqgv13NemxYWxhqLuX%2BFA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第3節 | Dang Yifei | Zhao Chenyu | W+R | 2019-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GnKcSlqmQlke3CzptDOyPA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第2節 | Jiang Qirun | Dang Yifei | B+R | 2019-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VNcnJPngljTaDzDxGnx%2Bzw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第1節成都-浙江 | Dang Yifei | Zhang Tao | B+R | 2019-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wcCA4NbXuCIiRrtXaq50bQ%3D%3D) | 
-| 第18回西南棋王戦決勝 | Dang Yifei | Ke Jie | W+R | 2019-03-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EdMnJ7VLAOJzVQRi5%2BHuwA%3D%3D) | 
-| 第18回西南棋王戦準決勝 | Dang Yifei | He Yuhan | B+R | 2019-03-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=feGyszkusPdA8qjyWztAGw%3D%3D) | 
-| 第18回西南棋王戦2回戦 | Mi Yuting | Dang Yifei | W+R | 2019-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DVfrhkwF1bHOHBthVqGoRg%3D%3D) | 
-| 第18回西南棋王戦1回戦 | Dang Yifei | Zhou Ruiyang | B+R | 2019-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BaxenoO7Y2KgtRjuS3Ujnw%3D%3D) | 
-| 第10期中国竜星戦予選 | Fan Tingyu | Dang Yifei | B+R | 2019-03-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W9aCfrVj2Dys2%2BmKc4m%2BtQ%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦2回戦 | Li Weiqing | Dang Yifei | B+1 | 2019-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZMfC8eMOegZomWLlM1%2B1uQ%3D%3D) | 
-| 第20回農心辛ラーメン杯世界囲碁最強戦第11戦 | Dang Yifei | Park Junghwan | B+1.5 | 2019-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f5hEQmZtI8gEBbOyGGbzSQ%3D%3D) | 
-| 第4期洛陽白雲山杯中国棋聖戦資格戦 | Dang Yifei | Xu Jiayang | W+¼ | 2018-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PcQ2ZJoAxe2N1TinHNiMGA%3D%3D) | 
-| 第4期洛陽白雲山杯中国棋聖戦資格戦 | Dang Yifei | missing | B+R | 2018-12-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7tzLPFNA8lrQPx%2FV3zOOpQ%3D%3D) | 
-| 第12回春蘭杯世界囲碁選手権準決勝 | Park Yeonghun | Dang Yifei | B+1.5 | 2018-12-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8%2Fo1bhpjnzlp5Wu7vQ4ixw%3D%3D) | 
-| 第12回春蘭杯世界囲碁選手権3回戦 | Dang Yifei | Chen Yaoye | B+R | 2018-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0gU6THci5RRl8zRfZCOhKA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第26節成都-上海 | Dang Yifei | Fan Yunruo | W+R | 2018-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K8j%2BlQJ0lcafZWyo5bbMTg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第25節山東-成都 | Chen Zijian | Dang Yifei | W+R | 2018-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zyf6S%2BmCwJ048WgTtxPJ2w%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第24節成都-衢州 | Dang Yifei | Hu Yuhan | B+3¾ | 2018-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6mxLnyCGDLXBQeYE%2BLVKXA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第23節民生-成都 | Shen Peiran | Dang Yifei | W+R | 2018-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DDVN2PKrRDB1Dvj2rCcupg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第22節成都-蘇泊爾 | Dang Yifei | Li Qincheng | W+R | 2018-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b6lyaur9IBgI%2FAFVUFTFcg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第21節江蘇-成都 | Tong Mengcheng | Dang Yifei | W+R | 2018-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bKfB%2Fx0h4urJYZn15mKvjw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第20節成都-浙江 | Dang Yifei | Zhang Tao | B+R | 2018-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nfs1%2BwO76qQvCmv9ISlfMQ%3D%3D) | 
-| 第14期威孚房開杯棋王戦32強戦 | Dang Yifei | Liao Yuanhe | W+R | 2018-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DEivbVzPoS8XWNgf3ofdDg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第19節江西-成都 | Xu Jiayang | Dang Yifei | W+R | 2018-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VuqDPHsMTt3iVOyAuS0f3A%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第18節杭州-成都 | Xia Chenkun | Dang Yifei | W+R | 2018-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xfF47dngfAnJ8TgxGFvZyA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第17節成都-重慶 | Li Xuanhao | Dang Yifei | W+R | 2018-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d4wgYzE5nh%2B4n1sa1A4HSw%3D%3D) | 
-| 第1回天府杯世界囲碁選手権B組2回戦 | Shin Jinseo | Dang Yifei | B+R | 2018-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X3fVh%2FMq4oHXXDr%2FzSwACQ%3D%3D) | 
-| 第1回天府杯世界囲碁選手権B組1回戦 | Jiang Mingjiu | Dang Yifei | W+R | 2018-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jJZUWjqNdu%2FRZ%2BLKszZFbg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第16節中信-成都 | Han Yizhou | Dang Yifei | B+R | 2018-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SnrTcYu37%2BUS0g2GdcQsBQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第15節成都-天津 | Dang Yifei | Meng Tailing | W+R | 2018-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jO6yZwO9QokmW2KJUAQ3kg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第14節廈門-成都 | Dang Yifei | Lee Donghoon | B+R | 2018-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ScCbw%2BZjp%2Bpenmz%2BSd1Inw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第13節上海-成都 | Xie He | Dang Yifei | W+R | 2018-08-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AttQSgYcGCmZVVizWyAkTA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第12節成都-山東 | Dang Yifei | Yi Lingtao | W+1¼ | 2018-08-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wcai153M5p%2FE60RdjdI4YA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第11節衢州-成都 | Ding Shixiong | Dang Yifei | W+R | 2018-08-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PxVByz%2FlMk2LGmviXxY0Vw%3D%3D) | 
-| 第4回百霊杯世界オープン戦2回戦 | Shin Jinseo | Dang Yifei | B+R | 2018-07-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Eu8B99WuT6Pfi0UhxnFLOg%3D%3D) | 
-| 第4回百霊杯世界オープン戦1回戦 | Dang Yifei | Hsu Chiayuan | B+R | 2018-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GynSanXWNVfa33EdupNLew%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第10節成都-民生 | Dang Yifei | Shi Yulai | B+R | 2018-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XHo3%2Faa9q3sRdXeTCueDPA%3D%3D) | 
-| 第23回三星火災杯統合予選3回戦 | Dang Yifei | Yun Junsang | B+2.5 | 2018-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XZq%2BHEYPOHjPU%2F3iwMh9zw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第9節蘇泊爾-成都 | Li Qincheng | Dang Yifei | B+1¾ | 2018-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gGAUx3nissBySWl65pzBVQ%3D%3D) | 
-| 第2回巓峰夢想福特撼路者ラリー戦b6 | Shi Yue | Dang Yifei | B+¾ | 2018-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7NCh0YMxgkaAhhOcSDf1Pw%3D%3D) | 
-| 第2回巓峰夢想福特撼路者ラリー戦b4 | Dang Yifei | Mi Yuting | W+R | 2018-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C%2FA89VEtLoZ1Ao4edjTy0g%3D%3D) | 
-| 第2回巓峰夢想福特撼路者ラリー戦b3 | Dang Yifei | Shi Yue | B+R | 2018-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ud5ol94UcY%2FHULjUfL1duA%3D%3D) | 
-| 第2回巓峰夢想福特撼路者ラリー戦b1 | Mi Yuting | Dang Yifei | B+R | 2018-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CV%2B8BlZW8CZvT%2BPHKUMgHg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第8節成都-江蘇 | Mi Yuting | Dang Yifei | B+R | 2018-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z3%2BrP1JfVqkfw83%2F4T9KQQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第7節浙江-成都 | Li Zhe | Dang Yifei | B+R | 2018-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Laj3Rt1ct3RCA%2FpJK6ILWA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第6節成都-江西 | Dang Yifei | Yang Kaiwen | B+R | 2018-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c4tjCNxQ%2BU52NbtIUvXwrA%3D%3D) | 
-| 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Dang Yifei | Lian Xiao | W+R | 2018-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L0ZmwMD9%2B4fNawvRcahsrA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第5節成都-杭州 | Xia Chenkun | Dang Yifei | B+R | 2018-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RGNTBUXdUgUHk1LA8FFEUg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第4節重慶-成都 | Yang Dingxin | Dang Yifei | W+¼ | 2018-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z%2F9YPSrRzs1qUiRUS9LZjA%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦1回戦 | Dang Yifei | Liu Xing | W+R | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r4vfJcHz%2Bo65OsDPHOJa0Q%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第3節成都-中信 | Chen Yaoye | Dang Yifei | B+1¾ | 2018-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RpmF9gG7RjRr9yePuYVzzA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第2節天津-成都 | Dang Yifei | Tang Weixing | W+R | 2018-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3GA81O4jGQZHb%2FCjv7qOCg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第1節成都-廈門 | Ke Jie | Dang Yifei | W+R | 2018-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fJUcptVHED6enGVZf5qE%2FQ%3D%3D) | 
-| 第12回春蘭杯世界囲碁選手権2回戦 | Dang Yifei | Tan Xiao | B+R | 2018-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kiNFlG7T7yZZjhF0L0xX6g%3D%3D) | 
-| 第12回春蘭杯世界囲碁選手権1回戦 | Shin Jinseo | Dang Yifei | W+R | 2018-03-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wuEA9Ay4ff31jlCAm2tC5A%3D%3D) | 
-| 第17回西南棋王戦1回戦 | Choi Cheolhan | Dang Yifei | B+R | 2018-03-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cPE8Gub%2Fj4cgfhd1Ugig6A%3D%3D) | 
-| 第9期中国竜星戦予選 | Han Yizhou | Dang Yifei | B+R | 2018-03-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z47Jad3rKBvxkloNNkHIeQ%3D%3D) | 
-| 第19回農心辛ラーメン杯世界囲碁最強戦第12戦 | Dang Yifei | Kim Jiseok | W+0.5 | 2018-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3AHjCzOeHK008RoLmyYdPg%3D%3D) | 
-| 第19回農心辛ラーメン杯世界囲碁最強戦第11戦 | Shin Jinseo | Dang Yifei | W+R | 2018-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dfdy8yEiY0qgj8f0WMAJgA%3D%3D) | 
-| 第19回農心辛ラーメン杯世界囲碁最強戦第10戦 | Iyama Yuta | Dang Yifei | W+R | 2018-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iA7euRy3OqyYQEAKlUlKRw%3D%3D) | 
-| 第32期中国囲碁天元戦1回戦 | Dang Yifei | Mao Ruilong | W+R | 2018-01-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S2ZDxO136%2BYKFNt5aAo90A%3D%3D) | 
-| 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Dang Yifei | Xie Erhao | W+R | 2018-01-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mHyGmnZrj5jIaiULQHmEVA%3D%3D) | 
-| 第3期洛陽白雲山杯中国棋聖戦資格戦1 | Liu Qifeng | Dang Yifei | W+R | 2018-01-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aKsqNbd8FUs2eOBah%2B%2BzUw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第26節 | Dang Yifei | Yang Dingxin | W+R | 2017-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6JsIRkOpPRNcTaQJ7StbqQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第25節 | Li Qincheng | Dang Yifei | B+R | 2017-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4jEmTfl3VkFTdf9IyvyKkQ%3D%3D) | 
-| 第19回農心辛ラーメン杯世界囲碁最強戦第9戦 | Dang Yifei | Kim Myounghoon | B+R | 2017-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F%2FcNw58zxRC2CuGqaVmJ2w%3D%3D) | 
-| 第19回農心辛ラーメン杯世界囲碁最強戦第8戦 | Dang Yifei | Ichiriki Ryo | B+R | 2017-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Eohup3YTvOE6OmLxr6kLQg%3D%3D) | 
-| 第19回農心辛ラーメン杯世界囲碁最強戦第7戦 | Shin Minjun | Dang Yifei | W+R | 2017-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7fGhzzHkMjVcmYxjS9HdRQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第24節 | Li Zhe | Dang Yifei | B+R | 2017-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4SgVv2a%2BoIBQrjJjWYOeDw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第23節 | Dang Yifei | Gu Zihao | W+R | 2017-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dxDMenQx5UGjC9VrFzwuYQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第22節 | Tang Weixing | Dang Yifei | W+R | 2017-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WLx6NGKCosgxZzA%2BEJPogA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第21節 | Tong Mengcheng | Dang Yifei | W+R | 2017-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X%2FEhS61xhJz6aro1JEOBwg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第20節 | Liao Xingwen | Dang Yifei | W+R | 2017-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dsYTkICn48X2l9%2FbwxTPqQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第19節 | Jiang Weijie | Dang Yifei | B+R | 2017-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1SQa%2B0DmkBmyFAsyL1o8Rg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第18節 | Fan Yin | Dang Yifei | W+R | 2017-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mrswkWMxzKtm3hxx8O6%2Fyg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第17節 | Shi Yue | Dang Yifei | B+R | 2017-09-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4EvpCH0Zc01orN2wvLaokA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第16節 | Dang Yifei | Chen Yaoye | W+R | 2017-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AszHSl3qIrOt3HdQf2WqfA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第15節 | Shin Jinseo | Dang Yifei | W+R | 2017-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K9s81YOUkYZR4QcXWvwz%2BA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第14節 | Dang Yifei | Park Yeonghun | B+R | 2017-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VayDFQJuiHKNx4hIbcdFLg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第13節 | Li Xuanhao | Dang Yifei | W+0.5 | 2017-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F8%2BUJVIWlyeMUWRyF3FxTQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第12節 | Xie Ke | Dang Yifei | B+R | 2017-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZIodPKeOeKcsGL38TUc%2F1w%3D%3D) | 
-| 嫘祖杯30回中国名人戦32強戦 | Dang Yifei | Jiang Weijie | W+R | 2017-08-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FjM%2BpoTzVyy5UUBaKq2MKQ%3D%3D) | 
-| 4回国手山脈杯世界団体戦決勝 | Park Junghwan | Dang Yifei | B+R | 2017-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PO52lT1zvg4%2Fh%2B%2Fexdj5AA%3D%3D) | 
-| 4回国手山脈杯世界団体戦4強戦 | Xiao Zhenghao | Dang Yifei | W+0.5 | 2017-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YoDCVblQwxthdoCL%2FgatvQ%3D%3D) | 
-| 金立杯7回海峡世界冠軍争覇決勝 | Dang Yifei | Chen Yaoye | B+R | 2017-07-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yOAyqfEgHpMy9v8QxWwB0g%3D%3D) | 
-| 金立杯7回海峡世界冠軍争覇準決勝 | Fan Tingyu | Dang Yifei | W+R | 2017-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ELOzieW38LSyQPGb%2BzNZDw%3D%3D) | 
-| 金立杯7回海峡世界冠軍争覇8強戦 | Dang Yifei | Wang Yuanjun | B+R | 2017-07-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=24pt1uk52Nj%2FGcDrHmwUWQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第11節 | An Sungjoon | Dang Yifei | B+R | 2017-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Upt6GfvbixWL1xZgM5oH8Q%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第10節 | missing | Dang Yifei | W+R | 2017-07-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1P7RrUW7eOhDGQxMSA6%2B2Q%3D%3D) | 
-| 第22回三星火災杯統合予選4回戦 | Dang Yifei | Weon Seongjin | W+R | 2017-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BAMOxxp4SFEooh0WUIYacQ%3D%3D) | 
-| 19期中国阿含桐山杯8強戦 | Dang Yifei | Shi Yue | W+R | 2017-06-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oFwOk%2Biu7wBeLGLYu01Ojw%3D%3D) | 
-| 第3回夢百合杯世界オープン戦1回戦 | Wang Tao | Dang Yifei | B+1.5 | 2017-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Oq4unJs0SOWn%2B8e03cyIA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第8節 | Huang Yunsong | Dang Yifei | B+R | 2017-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FTFa5zvAUi4LVHpBaEMwkQ%3D%3D) | 
-| 第22期LG杯朝鮮日報棋王戦32強戦 | Lee Wonyoung | Dang Yifei | B+0.5 | 2017-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8X3hxSi%2BQDr1qRutd1%2FzVA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第7節 | missing | Dang Yifei | B+R | 2017-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nf8Yyeqhg48GK7FDfYKC3Q%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第6節 | Zhou Ruiyang | Dang Yifei | B+R | 2017-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mc5%2FeEsE38kSJ5I5Ez%2BoVQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第5節 | Ke Jie | Dang Yifei | B+3.5 | 2017-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O9DoRILWQZvA5GaZI0mRiw%3D%3D) | 
-| 第19期中国阿含桐山杯16強戦 | Hu Yuhan | Dang Yifei | W+R | 2017-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9B77czk6J%2F7dCbbeP%2BUZRA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第4節 | Peng Liyao | Dang Yifei | W+R | 2017-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4VMVYXmdmGA94WxSny2zsQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第3節 | Dang Yifei | Tuo Jiaxi | W+R | 2017-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5dfjelXyIdMZ6j5AR%2Fph%2Fg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第2節 | Dang Yifei | Shin Jinseo | W+0.5 | 2017-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2B%2FFQUGfDFNfRLmLSb5Eyg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第1節 | Dang Yifei | Wang Haoyang | B+3.5 | 2017-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z%2FO4aQtBllC3xD9iglwm1A%3D%3D) | 
-| 第16回西南棋王戦1回戦 | Dang Yifei | Yang Dingxin | W+R | 2017-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oTCcWgTVkolYsSiEZVAhXw%3D%3D) | 
-| 第21期LG杯朝鮮日報棋王戦決勝3番2局 | Zhou Ruiyang | Dang Yifei | W+1.5 | 2017-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kq9VpHKtSj%2Fn9JhJSkrWPQ%3D%3D) | 
-| 第21期LG杯朝鮮日報棋王戦決勝3番1局 | Dang Yifei | Zhou Ruiyang | B+R | 2017-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BlxMO9v%2BREFwudVwyRsNBw%3D%3D) | 
-| 第31期中国囲碁天元戦1回戦 | Dang Yifei | Zhou Ruiyang | W+R | 2017-01-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wt30V3hvYiwmd3fa9xGfWA%3D%3D) | 
-| 第31期中国囲碁天元戦予選 | Dang Yifei | Xia Chenkun | B+1.5 | 2017-01-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xMTfT91vj%2F%2B3A1Ul6zwLQA%3D%3D) | 
-| Alphago Online Series on Tygem and Fox 34 | missing | Dang Yifei | B+R | 2017-01-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VFjGQ%2FtBj%2FuiBWZKXkEGqQ%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選2回戦 | Dang Yifei | Shen Peiran | W+2.5 | 2016-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hRi7mihwcBXcmGgWqj5mXQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第22節 | Tuo Jiaxi | Dang Yifei | B+R | 2016-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BnnP5vdnf0sBirMAPIPHmw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第21節 | Dang Yifei | Park Junghwan | W+R | 2016-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DuvCUBZ391BbRY5iCJlR4A%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第20節 | Dang Yifei | Kim Jiseok | B+R | 2016-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OnfbiPPXXBen7pQKI5%2Ft8Q%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第19節 | Xie Ke | Dang Yifei | W+R | 2016-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IB4YQYHH3e0XCwItXT%2FR8w%3D%3D) | 
-| 第21期LG杯朝鮮日報棋王戦準決勝 | Dang Yifei | Shin Jinseo | B+R | 2016-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U%2FA9Mxg18Jca%2BdzkbK77lQ%3D%3D) | 
-| 第21期LG杯朝鮮日報棋王戦8強戦 | Dang Yifei | Chen Yaoye | B+0.5 | 2016-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xepvZqZe988jfr4J3mytCA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第18節 | Wang Zejin | Dang Yifei | W+R | 2016-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aJf0dnFmqdf682TvMbSzOQ%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦1回戦 | Shu Yixiao | Dang Yifei | B+1.5 | 2016-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O9NTQ0n1kbcgMkeEwtUZDg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第17節 | Huang Xin | Dang Yifei | W+R | 2016-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FT4YfglN2auCKkKHed5Pog%3D%3D) | 
-| 第8期中国竜星戦予選 | Dang Yifei | Zhou Hexi | W+2.5 | 2016-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7AvXS1MRfvaBx9PyFSrvSw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第15節 | Dang Yifei | Shin Jinseo | W+2.5 | 2016-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TISUBWVAokqnIU9TPBDpyw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第14節 | Xu Jiayang | Dang Yifei | B+R | 2016-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=enU3hXxHc%2B%2F9%2FvCxXapFBA%3D%3D) | 
-| 第21回三星火災杯統合予選2回戦 | Kim Seongjae | Dang Yifei | W+3.5 | 2016-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0MgH9etryp4tcjo%2FCV7eQA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第11節 | Han Yizhou | Dang Yifei | B+R | 2016-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xrPvSPPf0ocY3l91SekM4g%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第10節 | missing | Dang Yifei | W+R | 2016-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jBBh04POj6Z91fbQENZo5g%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第9節 | Zhang Tao | Dang Yifei | W+R | 2016-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jqPUDbA5Oa%2BLnUKmtxEmHQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第8節 | Xia Chenkun | Dang Yifei | W+R | 2016-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KGzxbCztgWxdcxvTMO0MUg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第7節 | Wang Zejin | Dang Yifei | B+R | 2016-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rz5zkIvsumYiJU5EF%2BX2Rw%3D%3D) | 
-| 2016CCTV杯中国囲棋電視快棋戦1回戦 | Yang Dingxin | Dang Yifei | B+R | 2016-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Egdd0UATs3%2FAxNeHOsQeQ%3D%3D) | 
-| 第21回LG杯朝鮮日報棋王戦2回戦 | Ichiriki Ryo | Dang Yifei | W+R | 2016-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kQm637tYz8sI%2Bacyp3UvqQ%3D%3D) | 
-| 第21回LG杯朝鮮日報棋王戦1回戦 | Lin Junyan | Dang Yifei | W+R | 2016-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZUfh4PbPXRp7XnkvmDp1Cg%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Tuo Jiaxi | Dang Yifei | B+1.5 | 2016-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZmlWzF65pBlXArw%2FYKlWKQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第5節 | Dang Yifei | Yang Dingxin | W+R | 2016-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NyFFEcXvBApVzL7UVmtXqw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第4節 | Shin Jinseo | Dang Yifei | B+R | 2016-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VaCrng4jJYJJn7kkatntJQ%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Dang Yifei | Tong Mengcheng | B+R | 2016-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G2Vbn84Q%2BqdYLZ5Ltgw5Sg%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Liao Yuanhe | Dang Yifei | W+R | 2016-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O5svhELHtqzU0EkVsZapog%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Yin Hang | Dang Yifei | W+0.5 | 2016-05-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QeBflbNcdWfd5VmbtANSnQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第3節 | Tao Xinran | Dang Yifei | B+R | 2016-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AjeZAs0Ch6Mb0QTZ9pZQhA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第2節 | Jiang Weijie | Dang Yifei | B+R | 2016-04-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LXtKW689qr4ZzJ%2BqpHUkaA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第1節 | Lee Donghoon | Dang Yifei | B+R | 2016-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DrA05ZsxAcyZNn9oi9qdpg%3D%3D) | 
-| 第21回LG杯予選 | Dang Yifei | Wu Guangya | B+R | 2016-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jj9DtnzX%2F2IFrQ4cwEygUw%3D%3D) | 
-| 第15回西南棋王戦1回戦 | Dang Yifei | Gu Li | W+R | 2016-03-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=evjPyny1VPGDip%2BDBi2%2BWQ%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦予選 | Dang Yifei | Tao Xinran | W+R | 2016-02-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pK%2FRdsH1%2FL%2FuBeiAXM%2B9Zg%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦予選 | Dang Yifei | Xie Ke | B+R | 2016-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WP77u9qhu1tUf1MJCLwfdw%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Dang Yifei | Yang Kaiwen | B+1.5 | 2015-09-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B%2BuGb2TyD229XGBXaRKl2g%3D%3D) | 
-| 2015年全国囲棋個人戦男子組第8戦 | missing | Dang Yifei | W+R | 2015-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ysdoRD8Osm9BDw%2BS1L1yUg%3D%3D) | 
-| 2015年全国囲棋個人戦男子組第7戦 | Dang Yifei | Zhao Chenyu | B+R | 2015-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xc21PYUuXe9OQbVrwU46BA%3D%3D) | 
-| 2015年全国囲棋個人戦男子組第6戦 | Zhang Tao | Dang Yifei | B+R | 2015-08-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TpW0H9mmukwUKHOxGwKvqQ%3D%3D) | 
-| 2015年全国囲棋個人戦男子組第5戦 | Dang Yifei | missing | B+R | 2015-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bPKKDerXuIvHsazYZqcF3A%3D%3D) | 
-| 2015年全国囲棋個人戦男子組第2戦 | missing | Dang Yifei | W+R | 2015-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y4koN2ERSg%2BjWx9i4AcgEA%3D%3D) | 
-| 2015年全国囲棋個人戦男子組第1戦 | Dang Yifei | Yu Zhiying | B+R | 2015-08-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ruh4XWDgGqBCKB9U5yColg%3D%3D) | 
-| 2015年中国囲碁乙級リーグ | Dang Yifei | Wang Tao | B+R | 2015-05-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u65OFEsyjLgArArfCLlWbw%3D%3D) | 
-| 2015年中国囲碁乙級リーグ | Dang Yifei | Chen Shiyuan | W+R | 2015-05-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oXH%2BryKhG5PxSgTSOfYz%2FQ%3D%3D) | 
-| 第28期中国囲碁名人戦予選 | Zhou Hexi | Dang Yifei | B+R | 2015-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t77r9Ux%2B9%2BBuGGQectvTxQ%3D%3D) | 
-| 第28期中国囲碁名人戦予選 | Dang Yifei | Wang Tao | B+R | 2015-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tCH3gWDQ7t7kXwuyj2fUFQ%3D%3D) | 
-| 第20回LG杯予選 | Wang Xiangyun | Dang Yifei | W+R | 2015-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gE3WwrLO8A%2FhAmvvEghWvg%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦予選 | missing | Dang Yifei | B+R | 2015-03-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lrRPR%2B4Dq7FUDLbmmRIZzw%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦予選 | Yang Kaiwen | Dang Yifei | W+4.5 | 2015-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Ibw%2FoEJnqW8jitn2nE2Xg%3D%3D) | 
-| 第29期中国囲碁天元戦1回戦 | Gu Zihao | Dang Yifei | B+R | 2015-01-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dtlylna3OnxCXgm9U%2BW%2FtQ%3D%3D) | 
-| 第15期リコー杯囲碁戦2回戦 | Fan Tingyu | Dang Yifei | B+R | 2015-01-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yKESD%2BdNFkuSd23JDdsDRg%3D%3D) | 
-| 第15期リコー杯囲碁戦1回戦 | Dang Yifei | Song Ronghui | B+R | 2014-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oNQQFQ0JIT3lSWclb5%2FKZQ%3D%3D) | 
-| 第6期中国竜星戦3回戦 | Dang Yifei | Tan Xiao | W+R | 2014-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=55mloW0dRnz6TVlfgxv8Yg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第22節 | Yang Dingxin | Dang Yifei | B+R | 2014-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lWfqWX74EV7p4OKILolv4w%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第21節 | Dang Yifei | Lee Sedol | W+R | 2014-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TcjqVs%2FtfqC6Rgiwnff5FA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第20節 | Dang Yifei | Wang Haoyang | W+R | 2014-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B7JdLo%2FvrJPiwvWFvbhhXA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第19節 | missing | Dang Yifei | W+R | 2014-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F4gxL4dnpq4TAZmcrtyAbg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第18節 | Li Zhe | Dang Yifei | B+R | 2014-10-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2Jqo5U%2FKHfPdYf1TBWbv5A%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第17節 | Dang Yifei | Park Junghwan | W+R | 2014-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Elf3uObYhPHJ9R%2Fxud7qpQ%3D%3D) | 
-| 第6期中国竜星戦2回戦 | Sun Tengyu | Dang Yifei | W+R | 2014-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WOD9avzo%2Bv43dprpesvSgw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第16節 | Xu Jiayang | Dang Yifei | B+R | 2014-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3jPJdpnwV0EHGN7CViaPMQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第15節 | Dang Yifei | Kim Jiseok | W+R | 2014-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IbPlnqipJn%2BEOXcyln1xFA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第14節 | Dang Yifei | Jiang Weijie | W+R | 2014-09-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pzS1eOeBs6P%2FjIaB377XNg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第13節 | Dang Yifei | Xie Erhao | W+R | 2014-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OHNw0Nu7NsmNZeeSI4Zjag%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第12節 | Fan Yunruo | Dang Yifei | W+R | 2014-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=85UhzmVgLGGb3MprQZcPRQ%3D%3D) | 
-| 第6期中国竜星戦1回戦 | Dang Yifei | Jiang Weijie | B+R | 2014-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A4ebSbI2rTR1I4aQgOz3MA%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Dang Yifei | Han Seungjoo | W+0.5 | 2014-08-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TK%2FtrYIPmnIGxTGq%2FjIyIg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第11節 | Li Xuanhao | Dang Yifei | B+R | 2014-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yblS6vwx3P4%2FSKA%2FndSanA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第10節 | missing | Dang Yifei | W+0.5 | 2014-07-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C0%2BPmiUZhAQAIQsKukWtKg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第9節 | Guo Yuzheng | Dang Yifei | W+0.5 | 2014-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iOLIPmJvxsJGj3SXsVCttw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第8節 | Dang Yifei | Tuo Jiaxi | W+0.5 | 2014-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UKjfvRttnIv4ID2qUiwkcg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第7節 | Dang Yifei | Li Zhe | B+R | 2014-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wdJ6H8QcvAWY3sqlW9C2fQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第6節 | Ke Jie | Dang Yifei | B+R | 2014-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j1vqxknBC0UWbuLZfmcuRQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第5節 | Shi Yue | Dang Yifei | B+R | 2014-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JlWrRQUDgL71Mq7k2t%2BqXg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第4節 | Zhang Tao | Dang Yifei | B+R | 2014-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xCihfB17mfgBEGV%2BIO15hQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第3節 | Dang Yifei | Zhou Ruiyang | W+R | 2014-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uewaLej6UHvrfIS0xddgMQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第2節 | Tong Mengcheng | Dang Yifei | B+R | 2014-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o2cagjeE5Ppy5kpfHsU%2BPg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第1節 | Fan Yunruo | Dang Yifei | W+R | 2014-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Co1SCmhuuPtcIBcd%2BUP8oQ%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦1回戦 | Gu Lingyi | Dang Yifei | B+R | 2014-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B78CDf1x9sGvQYSjT%2BSZvg%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Mi Yuting | Dang Yifei | B+R | 2014-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O2THEWhX0HCPTl%2FBbmcE2w%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Dang Yifei | Chen Xian | B+R | 2014-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K0WJ7FdD440IlbDoZjvJOQ%3D%3D) | 
-| 第27期中国囲碁名人戦1回戦 | Xia Chenkun | Dang Yifei | B+R | 2014-04-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3aK7uz2P76BCEcMBxf22ng%3D%3D) | 
-| 第27期中国囲碁名人戦予選 | Dang Yifei | Li Kang | B+R | 2014-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OEuavs2Ox3u5POG6zSVgWg%3D%3D) | 
-| 第27期中国囲碁名人戦予選 | missing | Dang Yifei | W+R | 2014-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rR%2FNVO483XeVUhI44ZUvzQ%3D%3D) | 
-| 第2回百霊杯世界オープン戦1回戦 | Jiang Weijie | Dang Yifei | B+R | 2014-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OOdpxoq5q4N253d5ZmKxZQ%3D%3D) | 
-| 第2回百霊杯世界オープン戦予選 | Dang Yifei | Byun Sangil | B+1.5 | 2014-03-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2sC1O4VLgPyWMGgpxViwTg%3D%3D) | 
-| 第28期中国囲碁天元戦準決勝 | Ke Jie | Dang Yifei | B+1.5 | 2014-01-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xQjiWcPXjcrn2ch%2BpDZQsA%3D%3D) | 
-| 第28期中国囲碁天元戦3回戦 | Dang Yifei | Zhou Heyang | B+R | 2014-01-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j2Cikw3y%2FJMK2U%2FEFnH3Zg%3D%3D) | 
-| 第28期中国囲碁天元戦2回戦 | Li Xuanhao | Dang Yifei | W+R | 2014-01-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fhM88%2BlmM%2FmfeUMdlCb7aA%3D%3D) | 
-| 第28期中国囲碁天元戦1回戦 | Dang Yifei | Xie He | B+1.5 | 2014-01-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=749%2BhZkwTEBpK95iLKQ5NA%3D%3D) | 
-| 第28期中国囲碁天元戦予選 | missing | Dang Yifei | W+R | 2014-01-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=70ZYMFK8Rq2%2F3lwKDv5JVw%3D%3D) | 
-| 第14期リコー杯囲碁戦1回戦 | Dang Yifei | Xie Erhao | W+R | 2013-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e4%2FhaCsEhJGXLRXX0%2Fmx%2FA%3D%3D) | 
-| 2013年国際新鋭囲碁対抗戦第1戦 | Dang Yifei | Han Seungjoo | W+4.5 | 2013-10-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hrB4KoXEEtaVa3lzJOFwXQ%3D%3D) | 
-| 第5期中国竜星戦2回戦 | Dang Yifei | Kong Jie | W+2.5 | 2013-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7VtSHYjvqEM7%2BWDox6TEsQ%3D%3D) | 
-| 第5期中国竜星戦1回戦 | Tuo Jiaxi | Dang Yifei | W+R | 2013-09-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YlGbOJGFscVqIZO%2BUi%2BB8Q%3D%3D) | 
-| 第5期中国竜星戦予選 | Meng Tailing | Dang Yifei | W+R | 2013-09-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1MlSXqFkYQyXuOgwTPuPGA%3D%3D) | 
-| 第9期威孚房開杯棋王戦2回戦 | Dang Yifei | Chen Yaoye | W+R | 2013-08-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=My%2BhCfar4HMB%2FGFSnbrMeg%3D%3D) | 
-| 第9期威孚房開杯棋王戦1回戦 | Chang Hao | Dang Yifei | W+R | 2013-08-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B%2FKzR4XrQJtYEHn5veKaoA%3D%3D) | 
-| 第1回夢百合杯世界オープン戦4回戦 | Dang Yifei | Mi Yuting | W+R | 2013-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rox83GDO030FveupBR4vfA%3D%3D) | 
-| 第1回夢百合杯世界オープン戦3回戦 | Dang Yifei | Tang Weixing | B+1.5 | 2013-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sz5PdICNj7acFEZzFKJnYA%3D%3D) | 
-| 第1回夢百合杯世界オープン戦2回戦 | Li Xuanhao | Dang Yifei | W+R | 2013-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jBl%2BY511HdylTUFstXwLBg%3D%3D) | 
-| 第1回夢百合杯世界オープン戦1回戦 | Dang Yifei | Xie He | B+R | 2013-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zJPvIIrt1dAwM5qsBkfnKA%3D%3D) | 
-| 2013年中国囲碁乙級リーグ | Dang Yifei | Mao Ruilong | W+2.5 | 2013-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZNJwcixLlxV9Z%2BdaIkrZeA%3D%3D) | 
-| 2013年中国囲碁乙級リーグ | Dang Yifei | Lee Donghoon | W+R | 2013-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PxdO4RjleQpGvvdQoqHMQQ%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Dang Yifei | An Dongxu | B+R | 2013-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jMX9%2FsPSvOrImdszexv9Mg%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Dang Yifei | Liu Xing | W+0.5 | 2013-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TtBLEnF2BpJCEQQcM9tKRg%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Dang Yifei | Chen Xian | B+3.5 | 2013-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a%2FVpyMRvOcAixDwjmyATDQ%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Fang Hao | Dang Yifei | W+R | 2013-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vw%2BCVrkhpZMMulIiXpsd4A%3D%3D) | 
-| 第10期倡棋杯中国プロ囲碁選手権戦予選 | Dang Yifei | Chang Hao | W+3 | 2013-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jBZrW3DZbjJzdrJMqzAd0w%3D%3D) | 
-| 第26期中国囲碁名人戦1回戦 | Zhang Tao | Dang Yifei | B+R | 2013-04-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OuYXfbhsbg%2FAlMg4N1SeKQ%3D%3D) | 
-| 2013CCTV杯中国囲棋電視快棋戦4回戦 | Xie He | Dang Yifei | B+R | 2013-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yPY8yN%2FBGG4pU4kd13JPhw%3D%3D) | 
-| 第20期建橋杯中国囲碁新人王戦1回戦 | Dang Yifei | Xie Erhao | W+T | 2013-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2RIaw68xbkHNaLLYBoUE2A%3D%3D) | 
-| 2013CCTV杯中国囲棋電視快棋戦3回戦 | Wang Haoyang | Dang Yifei | W+R | 2013-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=42ZdGVt5dx4%2FYbxag1R0Fg%3D%3D) | 
-| 2013CCTV杯中国囲棋電視快棋戦2回戦 | Lian Xiao | Dang Yifei | W+2.5 | 2013-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AlS3A%2BG%2F8rWAJCW%2BxWpUpQ%3D%3D) | 
-| 2013CCTV杯中国囲棋電視快棋戦1回戦 | Dang Yifei | Zhong Wenjing | B+R | 2013-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jg5sxNKbCqyJ1yNJhI%2F51g%3D%3D) | 
-| 第12回西南棋王戦準決勝 | Dang Yifei | Gu Li | W+2.5 | 2013-03-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H%2Fb4I%2FOkYzjY2gT%2B%2F%2BkXXQ%3D%3D) | 
-| 第12回西南棋王戦1回戦 | Shi Yue | Dang Yifei | W+R | 2013-03-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IXc%2BrXHccc9bHwBaeZEDaQ%3D%3D) | 
-| 第27期中国囲碁天元戦2回戦 | Zhou Ruiyang | Dang Yifei | B+R | 2013-01-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2pidFHY217%2Fyj1o%2F0PUzIw%3D%3D) | 
-| 第27期中国囲碁天元戦1回戦 | Dang Yifei | Lian Xiao | B+R | 2013-01-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BO414DQHbl%2FdqSXk8HJSoQ%3D%3D) | 
-| 第13期リコー杯囲碁戦1回戦 | Dang Yifei | Gu Zihao | W+R | 2012-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C%2BXMHPzdsfuyRA3Yoa6JSg%3D%3D) | 
-| 第4期中国竜星戦1回戦 | Dang Yifei | Fan Tingyu | W+R | 2012-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=huFXtkCFMz0%2F3x4ryWRufg%3D%3D) | 
-| 第8期威孚房開杯棋王戦予選 | Tuo Jiaxi | Dang Yifei | B+R | 2012-10-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KCL2a7v7MQ554grsBNO3Vg%3D%3D) | 
-| 第8期威孚房開杯棋王戦予選 | Mao Ruilong | Dang Yifei | W+2.5 | 2012-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oOuid0MdP%2FpR9SjVsz7Nsw%3D%3D) | 
-| 2012年全国囲棋個人戦男子組第8戦 | Dang Yifei | Tong Yulin | W+R | 2012-09-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4UAUbe4uWVZTkTVglwnh2A%3D%3D) | 
-| 2012年全国囲棋個人戦男子組第6戦 | Dang Yifei | Peng Liyao | W+2.5 | 2012-09-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xkXqirMDFdsHvxDvoqTJdA%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ1回戦E3 | Paek Hongseok | Dang Yifei | B+0.5 | 2012-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WxByszitINPrL6rrTJ%2FB%2Fg%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ1回戦E2 | Tuo Jiaxi | Dang Yifei | B+R | 2012-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bLX0ZxI4gPkCsJho%2Fb%2BNjg%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ1回戦E1 | Paek Hongseok | Dang Yifei | W+1.5 | 2012-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E02Jfy%2FP84yfRmCLTAHOBg%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦準決勝 | Zhou Ruiyang | Dang Yifei | B+1.5 | 2012-08-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SolpDNG%2BB3JLyoiT3xZslw%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権4回戦 | Tang Weixing | Dang Yifei | B+R | 2012-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JauXnnW5qdahAta14NdbjQ%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権3回戦 | Niu Yutian | Dang Yifei | W+6.5 | 2012-08-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FQnDUFianDHu7305Fi5Dzg%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権2回戦 | Dang Yifei | Qiu Jun | B+R | 2012-08-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MzF%2BxWPrtt0GdsiKYAIKDA%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦2回戦 | Dang Yifei | Jiang Weijie | B+R | 2012-08-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pFwzbToCKGnothZkySH5yA%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦1回戦 | Tong Mengcheng | Dang Yifei | W+R | 2012-08-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mcE%2BPa0zZ0abcjZOXIN9Hw%3D%3D) | 
-| 2012CCTV杯中国囲棋電視快棋戦1回戦 | Dang Yifei | Zhou Ruiyang | W+R | 2012-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xz%2FV%2BDQ0WSLe0IkrKZgq0g%3D%3D) | 
-| 第17回LG杯世界棋王戦1回戦 | Na Hyun | Dang Yifei | B+R | 2012-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tcRPBQ8kKZXO68L37JQUzA%3D%3D) | 
-| 第4回BCカード杯世界選手権決勝五番勝負第4局 | Dang Yifei | Paek Hongseok | W+0.5 | 2012-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tWG7LjhaF80o85oF9yJ%2BAw%3D%3D) | 
-| 第4回BCカード杯世界選手権決勝五番勝負第3局 | Paek Hongseok | Dang Yifei | B+R | 2012-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XIsiKnipaU4UjwFcV5aUUQ%3D%3D) | 
-| 第4回BCカード杯世界選手権決勝五番勝負第2局 | Dang Yifei | Paek Hongseok | W+R | 2012-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B6pMzZjaspO4z%2BGhSmGhdQ%3D%3D) | 
-| 第4回BCカード杯世界選手権決勝五番勝負第1局 | Paek Hongseok | Dang Yifei | W+R | 2012-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7LePlKbPffMBIJHQGI4rkA%3D%3D) | 
-| 第4回BCカード杯世界選手権準決勝 | Dang Yifei | Piao Wenyao | B+R | 2012-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yhb04ji9S1pOwqaffGINhw%3D%3D) | 
-| 第17回LG杯予選 | missing | Dang Yifei | W+R | 2012-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gP3FV%2Fge5JWHpzmZuX2bSg%3D%3D) | 
-| 第4回BCカード杯世界選手権4回戦 | Dang Yifei | Park Yeonghun | B+R | 2012-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DYnQE3tDRxQsi6bNje6HeQ%3D%3D) | 
-| 第4回BCカード杯世界選手権3回戦 | Tan Xiao | Dang Yifei | W+R | 2012-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=80VD%2F9%2BM%2BWc6wKO4M%2Fbl7Q%3D%3D) | 
-| 第19期建橋杯中国囲碁新人王戦2回戦 | Yang Dingxin | Dang Yifei | B+R | 2012-03-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FoxPkktWdfm3i0z%2F8N47Ow%3D%3D) | 
-| 第19期建橋杯中国囲碁新人王戦1回戦 | Dang Yifei | missing | B+3.5 | 2012-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GklUbcQyBNJGdJ7Guwsx0Q%3D%3D) | 
-| 第4回BCカード杯世界選手権2回戦 | Dang Yifei | Lee Sedol | B+R | 2012-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bJHbFlCUiqq39NsRtSlpxA%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権1回戦 | Dang Yifei | Guo Yuzheng | B+R | 2012-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U9tYKPDtgFFuwuZ8nMrErA%3D%3D) | 
-| 第4回BCカード杯世界選手権1回戦 | Dang Yifei | Seo Joonghui | B+R | 2012-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4YZRfzNA7MUezacYQ3srXA%3D%3D) | 
-| 2011年全国囲棋個人戦男子組第9戦 | Zhu Yuanhao | Dang Yifei | B+R | 2011-09-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q4JlhXSoQFggHdkV2vp7Vw%3D%3D) | 
-| 第16回三星火災杯統合予選2回戦 | Dang Yifei | Han Sanghoon | B+R | 2011-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vsz14pHNYvQnxb%2F8bznfpA%3D%3D) | 
-| 第24期中国囲碁名人戦準決勝 | Dang Yifei | Kong Jie | W+0.5 | 2011-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y5gcF%2BLi7C5Xnh62m7slkg%3D%3D) | 
-| 第24期中国囲碁名人戦3回戦 | Dang Yifei | Chen Yaoye | B+R | 2011-07-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BcHZc9vErEh7yBae10ekSQ%3D%3D) | 
-| 第24期中国囲碁名人戦予選 | Luo Xihe | Dang Yifei | W+R | 2011-03-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iWJfpzv3p91xO8LdREoi%2FQ%3D%3D) | 
-| 第3期中国竜星戦3回戦 | Dang Yifei | Wang Xi | W+R | 2011-03-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FXqZh7gQucNk3CDFHgaQMA%3D%3D) | 
-| 第3期中国竜星戦2回戦 | Dang Yifei | Jiang Weijie | B+R | 2011-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PbCIbwt5NUdrL5MTEcAt2A%3D%3D) | 
-| 2011CCTV杯中国囲棋電視快棋戦1回戦 | Dang Yifei | Niu Yutian | W+R | 2011-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t%2BMZ5eVNTc%2BuMk4VcxE1Mw%3D%3D) | 
-| 第10回西南棋王戦決勝 | Gu Lingyi | Dang Yifei | B+R | 2011-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0XyYSvMW3ExBHaWfMNoCtA%3D%3D) | 
-| 第3回BCカード杯世界選手権2回戦 | Dang Yifei | Gu Li | W+4.5 | 2011-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EOKwN%2Behiuey%2BAgBZoWalQ%3D%3D) | 
-| 第3回BCカード杯世界選手権1回戦 | Dang Yifei | Lee Taehyun | B+R | 2011-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vx5oSPwMwc0WABbps30IOA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第22節 | Wang Lei (s) | Dang Yifei | B+R | 2010-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=doIc%2BKto4qajnCcoqGxt5w%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第21節 | Peng Quan | Dang Yifei | B+1.5 | 2010-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gY73DvY3ztPfRRoWT5mC%2FA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第20節 | Tao Xin | Dang Yifei | W+R | 2010-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6uZynsLXky8X8Fx%2B%2Bd2h4Q%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第19節 | Dang Yifei | Liao Xingwen | W+R | 2010-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ORGBhT5Etz4kPzJCIv50JQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第18節 | Xie He | Dang Yifei | B+R | 2010-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zWU1pJx2COLUHJqgt0SFCA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第17節 | Qiu Jun | Dang Yifei | B+1.5 | 2010-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mw5qfYxf0LxbDEJtu3EEhg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第16節 | Shi Yue | Dang Yifei | W+R | 2010-10-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pNEiMuqDfK6gxiQ%2FlQG2mw%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第15節 | Wang Yuhui | Dang Yifei | B+R | 2010-10-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EM16mHD%2Bu78sTx6H7JIrrg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第13節 | Dang Yifei | Chen Yaoye | W+R | 2010-09-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xxNecAdlER1astrRdzI7LA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第12節 | Tan Xiao | Dang Yifei | B+R | 2010-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=88dif0I1ZK1XLH0785TwNw%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第11節 | Dang Yifei | Wang Tao | W+2.5 | 2010-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PBS83Dpqn%2BlsOcV40ura7w%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第10節 | Luo Xihe | Dang Yifei | B+R | 2010-07-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NTr7QmlZic2TAdWeayaDnQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第9節 | Dang Yifei | Jiang Weijie | W+2.5 | 2010-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hY7nWdLQL5xNXKyFObuhNA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第8節 | Li Kang | Dang Yifei | W+R | 2010-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BQTroJBrd3pEUtoXThfnWg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第6節 | Qiu Jun | Dang Yifei | B+R | 2010-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ntVuIiwkOdnmtFaJy5GRvg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第4節 | Wang Yuhui | Dang Yifei | B+R | 2010-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u8wI3kWFKs0zb1BLz%2FardQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第3節 | Shao Weigang | Dang Yifei | W+R | 2010-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pwsj9xHaL9zIT%2BtBSe%2BnkA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第2節 | Dang Yifei | Tuo Jiaxi | W+4.5 | 2010-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iULY90bmZA41%2BB95a2xwMw%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第1節 | Dang Yifei | Sun Li | W+R | 2010-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VyDbT0xgDCvWr78wL7lSTQ%3D%3D) | 
-| 第23期中国囲碁名人戦予選 | Meng Tailing | Dang Yifei | B+R | 2010-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ifwEqTMInbAQ6GcOANM3Hw%3D%3D) | 
-| 第9回西南棋王戦準決勝 | Wang Xi | Dang Yifei | B+R | 2010-03-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P7a9U5%2FLNdBrh6Ri6paHpQ%3D%3D) | 
-| 2010CCTV杯中国囲棋電視快棋戦1回戦 | Dang Yifei | Chang Hao | B+R | 2010-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v9mzbEU9cmK%2B%2FZuq%2BOsLLw%3D%3D) | 
-| 第24期中国囲碁天元戦予選 | Dang Yifei | Meng Lei | W+R | 2010-01-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nnpDdaacucwb3vGFtSJWyA%3D%3D) | 
-| 第24期中国囲碁天元戦予選 | Dang Yifei | Tong Mengcheng | B+R | 2010-01-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Up31B%2BpMri64y7Dg5os9VA%3D%3D) | 
-| 第4期リコー杯新秀戦1回戦 | Tao Xinran | Dang Yifei | B+1.5 | 2009-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dtiqzMcKxL%2FUuRxdVRK6gQ%3D%3D) | 
-| 第10期リコー杯囲碁戦1回戦 | Wang Lei (b) | Dang Yifei | B+R | 2009-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RWE64gfrnhih74LYGzPhRg%3D%3D) | 
-| 第4期リコー杯新秀戦予選 | Rong Yi | Dang Yifei | W+R | 2009-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pvy1GhvRhq9jSAEfbfyIVA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第22節 | Zhou Ruiyang | Dang Yifei | W+R | 2009-12-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0E4ZTFMVxkO2oM%2Fzkh5eUw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第21節 | Piao Wenyao | Dang Yifei | B+R | 2009-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cyOtbdWokww7ZCCbzWtIGw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第20節 | Ding Wei | Dang Yifei | W+2.5 | 2009-12-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8k%2FAx0OSTYNLRxtwzAvrtA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第19節 | Dang Yifei | Luo Xihe | B+R | 2009-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CLEH5%2BrrTvTdc0ZvIFsTTg%3D%3D) | 
-| 第1回全国智力運動会囲碁男子団体戦 | Lian Xiao | Dang Yifei | W+R | 2009-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8v67WbkzEojo8%2BeAv7m5Yw%3D%3D) | 
-| 第1回全国智力運動会囲碁男子団体戦 | Li Xuanhao | Dang Yifei | B+1.5 | 2009-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dlIeI9TjdkHSWOOxpXuX%2BA%3D%3D) | 
-| 第1回全国智力運動会囲碁男子団体戦 | Dang Yifei | Zhang Tao | B+R | 2009-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=94sBEk5FaA4z0rwF2U9tpA%3D%3D) | 
-| 第1回全国智力運動会囲碁男子団体戦 | Sun Li | Dang Yifei | W+R | 2009-11-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jldrXcK9hdo%2FphdrV6Uzaw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第18節 | Dang Yifei | Wang Haoyang | W+R | 2009-11-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p2zeZSQOuCIywtAuP9C3MQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第17節 | Mao Ruilong | Dang Yifei | B+R | 2009-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mORSlzc8mC7Vu1hOQdzhBw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第16節 | Dang Yifei | missing | B+R | 2009-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sCyspzthu59MOmDDms97Tg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第15節 | Xie He | Dang Yifei | B+R | 2009-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nD%2Br%2FhPjaFGJ0ew%2Fnql01w%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第14節 | Wang Lei (s) | Dang Yifei | W+6.5 | 2009-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NdyvSRHai8pz7BVKCODLWw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第13節 | Dang Yifei | Wang Yuhui | B+3.5 | 2009-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2Tmppq6VMBtjRLV03t9wVg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第12節 | Dang Yifei | Qiu Jun | B+1.5 | 2009-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XZMJQNJqcQUSlR81FfTQmQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第11節 | Dang Yifei | Zhou Heyang | W+R | 2009-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cOGABWE8Kpf8c%2BAcsZfAug%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第10節 | Wang Lei (b) | Dang Yifei | B+3.5 | 2009-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mY5EAo3lxWBEQrsf2%2F%2Fnbw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第9節 | Dang Yifei | Liao Xingwen | B+R | 2009-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F3zvjSDIpdYVQAVDSFweHw%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | Dang Yifei | Luo Xihe | B+R | 2009-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jKaiIEdR2%2Fo0SKR0eOiOKA%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | Liao Xingwen | Dang Yifei | B+R | 2009-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gxZ%2FxdLlqqWqFviRF905Ww%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | Zhu Yuanhao | Dang Yifei | W+R | 2009-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BGABtE%2F1XbYSE9R%2F7GextQ%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | missing | Dang Yifei | W+R | 2009-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HMcOgFC9y4vVvEtUXLRzpw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第8節 | Dang Yifei | Tong Yulin | B+R | 2009-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=33tduNptLaYRx8VA44Ju%2FQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第7節 | Dang Yifei | Meng Tailing | W+R | 2009-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XgHb3xUws%2BR%2FzRK%2Fi2PPcg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第6節 | missing | Dang Yifei | W+R | 2009-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NFxvgmnL2EG%2F68mbHLoqAw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第5節 | Pan Fei | Dang Yifei | W+R | 2009-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nFNloYj1MSWwenEi2CiMjg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第4節 | Dang Yifei | Xie He | B+R | 2009-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uk0yVKCP%2FAnodIzWIBWjwg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第3節 | Dang Yifei | Wang Lei (s) | B+5.5 | 2009-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sLbKWD9jL6xWIcghj8yRLg%3D%3D) | 
-| 第22期中国囲碁名人戦予選 | missing | Dang Yifei | B+R | 2009-03-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5fnHHOO3S%2Bmab%2FaIErdQcg%3D%3D) | 
-| 第23期中国囲碁天元戦予選 | Tang Weixing | Dang Yifei | B+3.5 | 2009-02-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r8l%2BdpvBoAZKMSzASBokXg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第21節 | missing | Dang Yifei | W+R | 2008-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6%2FuAnK%2BQU0FcDbfN6SMJLg%3D%3D) | 
-| 第3期リコー杯新秀戦予選 | Rong Yi | Dang Yifei | B+R | 2008-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6u50PT%2Be54qVuH1terps0Q%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第18節 | Dang Yifei | Yu Bin | W+R | 2008-11-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JAwws6EW2JjIdU8ghPX3dQ%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第14節 | Dang Yifei | missing | W+R | 2008-11-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IOTUJtqfxCA0gjvQiQQDsA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第12節 | Dang Yifei | missing | B+3.5 | 2008-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IPu3Enl%2FdG0wbmWBwEeE1g%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第7節 | Dang Yifei | Yu Bin | W+6.5 | 2008-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FRvEp57co33oNa0Zg91wMg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第4節 | Dang Yifei | Sun Li | W+R | 2008-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=esW7Ak52MvBISQNl%2Bau1%2FQ%3D%3D) | 
-| 第7回西南棋王戦準決勝 | Gu Lingyi | Dang Yifei | B+1.5 | 2008-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4lzm%2Fv3qPvkdI32ATMtmAg%3D%3D) | 
-| 第7回西南棋王戦2回戦 | Gu Li | Dang Yifei | W+R | 2008-03-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pPFDfPgmPKiBQV7zmaTvxg%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Dang Yifei | Lose | B+R | 7.5 | 3466 | -20 | 
+| 2021-05-12 | 第23回中国囲碁甲級リーグ | Chen Xian | Dang Yifei | Win | W+R | 7.5 | 3486 | 2 | 
+| 2021-05-11 | 第23回中国囲碁甲級リーグ | Dang Yifei | Lian Xiao | Lose | W+R | 7.5 | 3484 | -8 | 
+| 2021-05-10 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Dang Yifei | Win | W+R | 7.5 | 3492 | 14 | 
+| 2021-05-08 | 第23回中国囲碁甲級リーグ | Dang Yifei | Byun Sangil | Lose | W+R | 7.5 | 3478 | 4 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Dang Yifei | Huang Mingyu | Win | B+R | 7.5 | 3474 | -14 | 
+| 2021-04-25 | 第20回西南棋王戦1回戦 | Dang Yifei | Li Xuanhao | Lose | W+R | 7.5 | 3488 | -7 | 
+| 2021-04-22 | 第17回倡棋杯中国プロ囲碁選手権戦3回戦 | Yang Dingxin | Dang Yifei | Lose | B+¾ | 7.5 | 3495 | -5 | 
+| 2021-04-20 | 第17回倡棋杯中国プロ囲碁選手権戦2回戦 | Dang Yifei | Li Weiqing | Win | B+R | 7.5 | 3500 | 1 | 
+| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Mi Yuting | Dang Yifei | Win | W+¼ | 7.5 | 3499 | 28 | 
+| 2021-04-10 | 第17回倡棋杯中国プロ囲碁選手権戦 |  | Dang Yifei | Win | W+R | 7.5 | 3471 | -22 | 
+| 2021-04-01 | 2021年龍華杯深圳市囲碁戦 | Chen Zhengxun | Dang Yifei | Lose | B+R | 7.5 | 3493 | -19 | 
+| 2021-03-31 | 2021年龍華杯深圳市囲碁戦 | Tao Xinran | Dang Yifei | Win | W+R | 7.5 | 3512 | 8 | 
+| 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Li Xiangyu | Dang Yifei | Win | W+R | 7.5 | 3504 | -84 | 
+| 2021-03-19 | 第35期中国囲碁天元戦1回戦 | Dang Yifei | Gu Zihao | Lose | W+¼ | 7.5 | 3588 | -113 | 
+| 2021-01-27 | 第35期中国囲碁天元戦1回戦 | Peng Quan | Dang Yifei | Win | W+¼ | 7.5 | 3701 | 0 | 
+| 2021-01-06 | 第8回衢州・爛柯杯中国囲碁冠軍戦準決勝 | Xu Jiayang | Dang Yifei | Lose | B+¾ | 7.5 | 3701 | -14 | 
+| 2021-01-05 | 第8回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Tang Weixing | Dang Yifei | Win | W+R | 7.5 | 3715 | 38 | 
+| 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Xie Ke | Dang Yifei | Lose | B+R | 7.5 | 3677 | -9 | 
+| 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Dang Yifei | Shin Jinseo | Lose | W+1¼ | 7.5 | 3686 | 10 | 
+| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Dang Yifei | Zhou Ruiyang | Win | B+R | 7.5 | 3676 | 15 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Yi Lingtao | Dang Yifei | Win | W+R | 7.5 | 3661 | -9 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Shin Minjun | Dang Yifei | Win | W+R | 7.5 | 3670 | 22 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Dang Yifei | Huang Yunsong | Lose | W+¼ | 7.5 | 3648 | -41 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Dang Yifei | Kang Dongyun | Win | B+R | 7.5 | 3689 | 21 | 
+| 2020-12-09 | 第22回中国囲碁甲級リーグ  | Shibano Toramaru | Dang Yifei | Win | W+R | 7.5 | 3668 | 4 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Dang Yifei | Hu Yaoyu | Win | B+R | 7.5 | 3664 | 12 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Dang Yifei | Xie Ke | Win | B+R | 7.5 | 3652 | 39 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Xia Chenkun | Dang Yifei | Win | W+R | 7.5 | 3613 | 118 | 
+| 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Tong Mengcheng | Dang Yifei | Win | W+R | 7.5 | 3495 | 35 | 
+| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Li Qincheng | Dang Yifei | Win | W+R | 7.5 | 3460 | 43 | 
+| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Fan Yin | Dang Yifei | Lose | B+R | 7.5 | 3417 | -15 | 
+| 2020-09-14 | 第25回三星火災杯中国一般枠予選 | Dang Yifei | Tong Mengcheng | Lose | W+R | 6.5 | 3432 | -17 | 
+| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Hsu Chiayuan | Dang Yifei | Lose | B+R | 7.5 | 3449 | -12 | 
+| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Jiang Qirun | Dang Yifei | Lose | B+R | 7.5 | 3461 | -12 | 
+| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Dang Yifei | Li Xuanhao | Win | B+R | 7.5 | 3473 | 10 | 
+| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Dang Yifei | Tu Xiaoyu | Lose | W+R | 7.5 | 3463 | -11 | 
+| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Ding Shixiong | Dang Yifei | Win | W+¼ | 7.5 | 3474 | 22 | 
+| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Cao Xiaoyang | Dang Yifei | Lose | B+R | 7.5 | 3452 | -42 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Peng Liyao | Dang Yifei | Win | W+R | 7.5 | 3494 | 4 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Dang Yifei | Huang Jingyuan | Win | B+2¾ | 7.5 | 3490 | 117 | 
+| 2020-06-14 | 第19回西南棋王戦2回戦 | Dang Yifei | Li Xuanhao | Lose | W+R | 7.5 | 3373 | 0 | 
+| 2020-06-14 | 第19回西南棋王戦1回戦 | Kou Zhengyan | Dang Yifei | Win | W+R | 7.5 | 3373 | -2 | 
+| 2020-04-17 | 第25回LG杯中国予選決勝 | Dang Yifei | Li Xuanhao | Lose | W+R | 6.5 | 3375 | 14 | 
+| 2020-04-10 | 第25回LG杯中国予選 | Tong Mengcheng | Dang Yifei | Win | W+R | 6.5 | 3361 | -206 | 
+| 2019-12-28 | 第5期洛陽白雲山杯中国棋聖戦予選 | Liao Yuanhe | Dang Yifei | Lose | B+R | 7.5 | 3567 | 297 | 
+| 2019-12-12 | 第21回中国囲碁甲級リーグ5位決定戦第3戦 | Dang Yifei | Wang Xinghao | Lose | W+R | 7.5 | 3270 | -12 | 
+| 2019-12-11 | 第21回中国囲碁甲級リーグ5位決定戦第2戦 | Fan Yunruo | Dang Yifei | Win | W+R | 7.5 | 3282 | 12 | 
+| 2019-12-09 | 第21回中国囲碁甲級リーグ5位決定戦第1戦 | Dang Yifei | Fan Yunruo | Lose | W+R | 7.5 | 3270 | -25 | 
+| 2019-11-17 | 第4回全国智力運動会男子団体戦第7戦 | Fan Tingyu | Dang Yifei | Lose | B+R | 7.5 | 3295 | -5 | 
+| 2019-11-16 | 第4回全国智力運動会男子団体戦第6戦 | Dang Yifei | Tong Mengcheng | Win | B+R | 7.5 | 3300 | 7 | 
+| 2019-11-14 | 第4回全国智力運動会男子団体戦第1戦 | Tang Weixing | Dang Yifei | Win | W+R | 7.5 | 3293 | -7 | 
+| 2019-11-10 | 第4回全国智力運動会プロ男子個人早碁戦8強戦 | Dang Yifei | Chen Yaoye | Lose | W+T | 7.5 | 3300 | 7 | 
+| 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Dang Yifei | Li Weiqing | Lose | W+R | 7.5 | 3293 | -30 | 
+| 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Dang Yifei | Chen Xian | Lose | W+R | 7.5 | 3323 | -7 | 
+| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Huang Yunsong | Dang Yifei | Lose | B+R | 7.5 | 3330 | 50 | 
+| 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Park Junghwan | Dang Yifei | Lose | B+0.5 | 6.5 | 3280 | -2 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Gu Li | Dang Yifei | Win | W+R | 7.5 | 3282 | 8 | 
+| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Shin Jinseo | Dang Yifei | Win | W+R | 7.5 | 3274 | -22 | 
+| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 |  | Dang Yifei | Win | W+R | 7.5 | 3296 | -18 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Han Yizhou | Dang Yifei | Win | W+R | 7.5 | 3314 | -16 | 
+| 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Wang Shiyi | Dang Yifei | Win | W+R | 7.5 | 3330 | 35 | 
+| 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Dang Yifei | Ke Jie | Lose | W+2¼ | 7.5 | 3295 | -6 | 
+| 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Dang Yifei | Lee Donghoon | Lose | W+R | 7.5 | 3301 | -19 | 
+| 2019-06-25 | 第12回春蘭杯世界囲碁選手権三位決定戦 | Ke Jie | Dang Yifei | Lose | B+R | 7.5 | 3320 | 25 | 
+| 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Dang Yifei | Tang Weixing | Win | B+R | 7.5 | 3295 | 10 | 
+| 2019-06-07 | 第21期阿含・桐山杯中国早碁オープン戦予選3回戦 | Tan Xiao | Dang Yifei | Win | W+R | 7.5 | 3285 | 6 | 
+| 2019-06-06 | 第21期阿含・桐山杯中国早碁オープン戦予選1回戦 | Dang Yifei | Jiang Qirun | Win | B+R | 7.5 | 3279 | 10 | 
+| 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Chen Zijian | Dang Yifei | Win | W+1¼ | 7.5 | 3269 | 28 | 
+| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Dang Yifei | Wang Xinghao | Lose | W+¼ | 7.5 | 3241 | 16 | 
+| 2019-05-29 | 第24回LG杯朝鮮日報棋王戦2回戦 | Dang Yifei | Park Junghwan | Lose | W+R | 6.5 | 3225 | 15 | 
+| 2019-05-27 | 第24回LG杯朝鮮日報棋王戦1回戦 | Dang Yifei | Park Yeonghun | Win | B+R | 6.5 | 3210 | -5 | 
+| 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Dang Yifei | Kang Dongyun | Win | B+R | 7.5 | 3215 | 8 | 
+| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Dang Yifei | Xu Jiayang | Win | B+R | 7.5 | 3207 | 16 | 
+| 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Dang Yifei | Zhao Chenyu | Lose | W+R | 7.5 | 3191 | -62 | 
+| 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Jiang Qirun | Dang Yifei | Lose | B+R | 7.5 | 3253 | -12 | 
+| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節成都-浙江 | Dang Yifei | Zhang Tao | Win | B+R | 7.5 | 3265 | 57 | 
+| 2019-03-24 | 第18回西南棋王戦決勝 | Dang Yifei | Ke Jie | Lose | W+R | 7.5 | 3208 | 0 | 
+| 2019-03-24 | 第18回西南棋王戦準決勝 | Dang Yifei | He Yuhan | Win | B+R | 7.5 | 3208 | -1 | 
+| 2019-03-23 | 第18回西南棋王戦2回戦 | Mi Yuting | Dang Yifei | Win | W+R | 7.5 | 3209 | 0 | 
+| 2019-03-23 | 第18回西南棋王戦1回戦 | Dang Yifei | Zhou Ruiyang | Win | B+R | 7.5 | 3209 | 35 | 
+| 2019-03-06 | 第10期中国竜星戦予選 | Fan Tingyu | Dang Yifei | Lose | B+R | 7.5 | 3174 | -3 | 
+| 2019-03-04 | 第16期倡棋杯中国プロ囲棋選手権戦2回戦 | Li Weiqing | Dang Yifei | Lose | B+1 | 7.5 | 3177 | -49 | 
+| 2019-02-19 | 第20回農心辛ラーメン杯世界囲碁最強戦第11戦 | Dang Yifei | Park Junghwan | Win | B+1.5 | 6.5 | 3226 | 10 | 
+| 2018-12-27 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Dang Yifei | Xu Jiayang | Lose | W+¼ | 7.5 | 3216 | -7 | 
+| 2018-12-25 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Dang Yifei |  | Win | B+R | 7.5 | 3223 | 7 | 
+| 2018-12-19 | 第12回春蘭杯世界囲碁選手権準決勝 | Park Yeonghun | Dang Yifei | Lose | B+1.5 | 7.5 | 3216 | -7 | 
+| 2018-12-17 | 第12回春蘭杯世界囲碁選手権3回戦 | Dang Yifei | Chen Yaoye | Win | B+R | 7.5 | 3223 | 2 | 
+| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節成都-上海 | Dang Yifei | Fan Yunruo | Lose | W+R | 7.5 | 3221 | -7 | 
+| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節山東-成都 | Chen Zijian | Dang Yifei | Win | W+R | 7.5 | 3228 | -29 | 
+| 2018-11-16 | 第20回中国囲碁甲級リーグ第24節成都-衢州 | Dang Yifei | Hu Yuhan | Win | B+3¾ | 7.5 | 3257 | 18 | 
+| 2018-11-09 | 第20回中国囲碁甲級リーグ第23節民生-成都 | Shen Peiran | Dang Yifei | Win | W+R | 7.5 | 3239 | -2 | 
+| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節成都-蘇泊爾 | Dang Yifei | Li Qincheng | Lose | W+R | 7.5 | 3241 | -22 | 
+| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節江蘇-成都 | Tong Mengcheng | Dang Yifei | Win | W+R | 7.5 | 3263 | 11 | 
+| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節成都-浙江 | Dang Yifei | Zhang Tao | Win | B+R | 7.5 | 3252 | -4 | 
+| 2018-10-13 | 第14期威孚房開杯棋王戦32強戦 | Dang Yifei | Liao Yuanhe | Lose | W+R | 7.5 | 3256 | -5 | 
+| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節江西-成都 | Xu Jiayang | Dang Yifei | Win | W+R | 7.5 | 3261 | 6 | 
+| 2018-10-08 | 第20回中国囲碁甲級リーグ第18節杭州-成都 | Xia Chenkun | Dang Yifei | Win | W+R | 7.5 | 3255 | 2 | 
+| 2018-09-28 | 第20回中国囲碁甲級リーグ第17節成都-重慶 | Li Xuanhao | Dang Yifei | Win | W+R | 7.5 | 3253 | -11 | 
+| 2018-09-23 | 第1回天府杯世界囲碁選手権B組2回戦 | Shin Jinseo | Dang Yifei | Lose | B+R | 7.5 | 3264 | -20 | 
+| 2018-09-21 | 第1回天府杯世界囲碁選手権B組1回戦 | Jiang Mingjiu | Dang Yifei | Win | W+R | 7.5 | 3284 | 10 | 
+| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節中信-成都 | Han Yizhou | Dang Yifei | Lose | B+R | 7.5 | 3274 | -19 | 
+| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節成都-天津 | Dang Yifei | Meng Tailing | Lose | W+R | 7.5 | 3293 | -5 | 
+| 2018-09-08 | 第20回中国囲碁甲級リーグ第14節廈門-成都 | Dang Yifei | Lee Donghoon | Win | B+R | 7.5 | 3298 | -22 | 
+| 2018-08-15 | 第20回中国囲碁甲級リーグ第13節上海-成都 | Xie He | Dang Yifei | Win | W+R | 7.5 | 3320 | -2 | 
+| 2018-08-13 | 第20回中国囲碁甲級リーグ第12節成都-山東 | Dang Yifei | Yi Lingtao | Lose | W+1¼ | 7.5 | 3322 | 37 | 
+| 2018-08-06 | 第20回中国囲碁甲級リーグ第11節衢州-成都 | Ding Shixiong | Dang Yifei | Win | W+R | 7.5 | 3285 | -28 | 
+| 2018-07-26 | 第4回百霊杯世界オープン戦2回戦 | Shin Jinseo | Dang Yifei | Lose | B+R | 7.5 | 3313 | -1 | 
+| 2018-07-24 | 第4回百霊杯世界オープン戦1回戦 | Dang Yifei | Hsu Chiayuan | Win | B+R | 7.5 | 3314 | -12 | 
+| 2018-07-16 | 第20回中国囲碁甲級リーグ第10節成都-民生 | Dang Yifei | Shi Yulai | Win | B+R | 7.5 | 3326 | 14 | 
+| 2018-07-05 | 第23回三星火災杯統合予選3回戦 | Dang Yifei | Yun Junsang | Win | B+2.5 | 6.5 | 3312 | 30 | 
+| 2018-06-25 | 第20回中国囲碁甲級リーグ第9節蘇泊爾-成都 | Li Qincheng | Dang Yifei | Lose | B+1¾ | 7.5 | 3282 | -22 | 
+| 2018-06-20 | 第2回巓峰夢想福特撼路者ラリー戦b6 | Shi Yue | Dang Yifei | Lose | B+¾ | 7.5 | 3304 | 16 | 
+| 2018-06-17 | 第2回巓峰夢想福特撼路者ラリー戦b4 | Dang Yifei | Mi Yuting | Lose | W+R | 7.5 | 3288 | 0 | 
+| 2018-06-15 | 第2回巓峰夢想福特撼路者ラリー戦b3 | Dang Yifei | Shi Yue | Win | B+R | 7.5 | 3288 | 12 | 
+| 2018-06-11 | 第2回巓峰夢想福特撼路者ラリー戦b1 | Mi Yuting | Dang Yifei | Lose | B+R | 7.5 | 3276 | -19 | 
+| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節成都-江蘇 | Mi Yuting | Dang Yifei | Lose | B+R | 7.5 | 3295 | -44 | 
+| 2018-05-21 | 第20回中国囲碁甲級リーグ第7節浙江-成都 | Li Zhe | Dang Yifei | Lose | B+R | 7.5 | 3339 | 16 | 
+| 2018-05-14 | 第20回中国囲碁甲級リーグ第6節成都-江西 | Dang Yifei | Yang Kaiwen | Win | B+R | 7.5 | 3323 | 26 | 
+| 2018-05-11 | 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Dang Yifei | Lian Xiao | Lose | W+R | 7.5 | 3297 | -28 | 
+| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節成都-杭州 | Xia Chenkun | Dang Yifei | Lose | B+R | 7.5 | 3325 | 17 | 
+| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節重慶-成都 | Yang Dingxin | Dang Yifei | Win | W+¼ | 7.5 | 3308 | -5 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Dang Yifei | Liu Xing | Lose | W+R | 7.5 | 3313 | 24 | 
+| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節成都-中信 | Chen Yaoye | Dang Yifei | Lose | B+1¾ | 7.5 | 3289 | -34 | 
+| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節天津-成都 | Dang Yifei | Tang Weixing | Lose | W+R | 7.5 | 3323 | -37 | 
+| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節成都-廈門 | Ke Jie | Dang Yifei | Win | W+R | 7.5 | 3360 | 18 | 
+| 2018-03-23 | 第12回春蘭杯世界囲碁選手権2回戦 | Dang Yifei | Tan Xiao | Win | B+R | 7.5 | 3342 | 8 | 
+| 2018-03-21 | 第12回春蘭杯世界囲碁選手権1回戦 | Shin Jinseo | Dang Yifei | Win | W+R | 7.5 | 3334 | -23 | 
+| 2018-03-09 | 第17回西南棋王戦1回戦 | Choi Cheolhan | Dang Yifei | Lose | B+R | 7.5 | 3357 | -28 | 
+| 2018-03-05 | 第9期中国竜星戦予選 | Han Yizhou | Dang Yifei | Lose | B+R | 7.5 | 3385 | -11 | 
+| 2018-02-28 | 第19回農心辛ラーメン杯世界囲碁最強戦第12戦 | Dang Yifei | Kim Jiseok | Lose | W+0.5 | 6.5 | 3396 | -6 | 
+| 2018-02-27 | 第19回農心辛ラーメン杯世界囲碁最強戦第11戦 | Shin Jinseo | Dang Yifei | Win | W+R | 6.5 | 3402 | 15 | 
+| 2018-02-26 | 第19回農心辛ラーメン杯世界囲碁最強戦第10戦 | Iyama Yuta | Dang Yifei | Win | W+R | 6.5 | 3387 | 30 | 
+| 2018-01-23 | 第32期中国囲碁天元戦1回戦 | Dang Yifei | Mao Ruilong | Lose | W+R | 7.5 | 3357 | 4 | 
+| 2018-01-08 | 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Dang Yifei | Xie Erhao | Lose | W+R | 7.5 | 3353 | -2 | 
+| 2018-01-07 | 第3期洛陽白雲山杯中国棋聖戦資格戦1 | Liu Qifeng | Dang Yifei | Win | W+R | 7.5 | 3355 | 54 | 
+| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Dang Yifei | Yang Dingxin | Lose | W+R | 7.5 | 3301 | 5 | 
+| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Li Qincheng | Dang Yifei | Lose | B+R | 7.5 | 3296 | -10 | 
+| 2017-11-28 | 第19回農心辛ラーメン杯世界囲碁最強戦第9戦 | Dang Yifei | Kim Myounghoon | Win | B+R | 6.5 | 3306 | 8 | 
+| 2017-11-27 | 第19回農心辛ラーメン杯世界囲碁最強戦第8戦 | Dang Yifei | Ichiriki Ryo | Win | B+R | 6.5 | 3298 | 6 | 
+| 2017-11-26 | 第19回農心辛ラーメン杯世界囲碁最強戦第7戦 | Shin Minjun | Dang Yifei | Win | W+R | 6.5 | 3292 | 22 | 
+| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Li Zhe | Dang Yifei | Lose | B+R | 7.5 | 3270 | -72 | 
+| 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Dang Yifei | Gu Zihao | Lose | W+R | 7.5 | 3342 | -14 | 
+| 2017-10-30 | 第19回中国囲碁甲級リーグ第22節 | Tang Weixing | Dang Yifei | Win | W+R | 7.5 | 3356 | 13 | 
+| 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Tong Mengcheng | Dang Yifei | Win | W+R | 7.5 | 3343 | 17 | 
+| 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Liao Xingwen | Dang Yifei | Win | W+R | 7.5 | 3326 | 41 | 
+| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Jiang Weijie | Dang Yifei | Lose | B+R | 7.5 | 3285 | 1 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Fan Yin | Dang Yifei | Win | W+R | 7.5 | 3284 | 44 | 
+| 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Shi Yue | Dang Yifei | Lose | B+R | 7.5 | 3240 | -1 | 
+| 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Dang Yifei | Chen Yaoye | Lose | W+R | 7.5 | 3241 | -14 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Shin Jinseo | Dang Yifei | Win | W+R | 7.5 | 3255 | 17 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Dang Yifei | Park Yeonghun | Win | B+R | 7.5 | 3238 | 24 | 
+| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Li Xuanhao | Dang Yifei | Win | W+0.5 | 7.5 | 3214 | 8 | 
+| 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Xie Ke | Dang Yifei | Lose | B+R | 7.5 | 3206 | 3 | 
+| 2017-08-03 | 嫘祖杯30回中国名人戦32強戦 | Dang Yifei | Jiang Weijie | Lose | W+R | 7.5 | 3203 | -8 | 
+| 2017-07-31 | 4回国手山脈杯世界団体戦決勝 | Park Junghwan | Dang Yifei | Lose | B+R | 6.5 | 3211 | -4 | 
+| 2017-07-29 | 4回国手山脈杯世界団体戦4強戦 | Xiao Zhenghao | Dang Yifei | Win | W+0.5 | 6.5 | 3215 | 0 | 
+| 2017-07-23 | 金立杯7回海峡世界冠軍争覇決勝 | Dang Yifei | Chen Yaoye | Win | B+R | 7.5 | 3215 | 19 | 
+| 2017-07-22 | 金立杯7回海峡世界冠軍争覇準決勝 | Fan Tingyu | Dang Yifei | Win | W+R | 7.5 | 3196 | 17 | 
+| 2017-07-21 | 金立杯7回海峡世界冠軍争覇8強戦 | Dang Yifei | Wang Yuanjun | Win | B+R | 7.5 | 3179 | 10 | 
+| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | An Sungjoon | Dang Yifei | Lose | B+R | 7.5 | 3169 | 1 | 
+| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 |  | Dang Yifei | Win | W+R | 7.5 | 3168 | -2 | 
+| 2017-07-02 | 第22回三星火災杯統合予選4回戦 | Dang Yifei | Weon Seongjin | Lose | W+R | 6.5 | 3170 | -23 | 
+| 2017-06-26 | 19期中国阿含桐山杯8強戦 | Dang Yifei | Shi Yue | Lose | W+R | 7.5 | 3193 | -24 | 
+| 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Wang Tao | Dang Yifei | Lose | B+1.5 | 7.5 | 3217 | -28 | 
+| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Huang Yunsong | Dang Yifei | Lose | B+R | 7.5 | 3245 | -3 | 
+| 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Lee Wonyoung | Dang Yifei | Lose | B+0.5 | 6.5 | 3248 | -1 | 
+| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 |  | Dang Yifei | Lose | B+R | 7.5 | 3249 | -15 | 
+| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Zhou Ruiyang | Dang Yifei | Lose | B+R | 7.5 | 3264 | -2 | 
+| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Ke Jie | Dang Yifei | Lose | B+3.5 | 7.5 | 3266 | -4 | 
+| 2017-05-10 | 第19期中国阿含桐山杯16強戦 | Hu Yuhan | Dang Yifei | Win | W+R | 7.5 | 3270 | 27 | 
+| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Peng Liyao | Dang Yifei | Win | W+R | 7.5 | 3243 | 4 | 
+| 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Dang Yifei | Tuo Jiaxi | Lose | W+R | 7.5 | 3239 | -39 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Dang Yifei | Shin Jinseo | Lose | W+0.5 | 7.5 | 3278 | -7 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Dang Yifei | Wang Haoyang | Win | B+3.5 | 7.5 | 3285 | 202 | 
+| 2017-03-11 | 第16回西南棋王戦1回戦 | Dang Yifei | Yang Dingxin | Lose | W+R | 7.5 | 3083 | 79 | 
+| 2017-02-08 | 第21期LG杯朝鮮日報棋王戦決勝3番2局 | Zhou Ruiyang | Dang Yifei | Win | W+1.5 | 6.5 | 3004 | 14 | 
+| 2017-02-06 | 第21期LG杯朝鮮日報棋王戦決勝3番1局 | Dang Yifei | Zhou Ruiyang | Win | B+R | 6.5 | 2990 | -21 | 
+| 2017-01-14 | 第31期中国囲碁天元戦1回戦 | Dang Yifei | Zhou Ruiyang | Lose | W+R | 7.5 | 3011 | -7 | 
+| 2017-01-13 | 第31期中国囲碁天元戦予選 | Dang Yifei | Xia Chenkun | Win | B+1.5 | 7.5 | 3018 | 13 | 
+| 2017-01-02 | Alphago Online Series on Tygem and Fox 34 |  | Dang Yifei | Lose | B+R | 6.5 | 3005 | 18 | 
+| 2016-12-16 | 嫘祖杯第29期中国名人戦網選2回戦 | Dang Yifei | Shen Peiran | Lose | W+2.5 | 7.5 | 2987 | -22 | 
+| 2016-12-03 | 第18回中国囲碁甲級リーグ第22節 | Tuo Jiaxi | Dang Yifei | Lose | B+R | 7.5 | 3009 | -3 | 
+| 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Dang Yifei | Park Junghwan | Lose | W+R | 7.5 | 3012 | -3 | 
+| 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Dang Yifei | Kim Jiseok | Win | B+R | 7.5 | 3015 | 22 | 
+| 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 | Xie Ke | Dang Yifei | Win | W+R | 7.5 | 2993 | 20 | 
+| 2016-11-16 | 第21期LG杯朝鮮日報棋王戦準決勝 | Dang Yifei | Shin Jinseo | Win | B+R | 6.5 | 2973 | 21 | 
+| 2016-11-14 | 第21期LG杯朝鮮日報棋王戦8強戦 | Dang Yifei | Chen Yaoye | Win | B+0.5 | 6.5 | 2952 | 19 | 
+| 2016-11-12 | 第18回中国囲碁甲級リーグ第18節 | Wang Zejin | Dang Yifei | Win | W+R | 7.5 | 2933 | -58 | 
+| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Shu Yixiao | Dang Yifei | Lose | B+1.5 | 7.5 | 2991 | -14 | 
+| 2016-11-04 | 第18回中国囲碁甲級リーグ第17節 | Huang Xin | Dang Yifei | Win | W+R | 7.5 | 3005 | 32 | 
+| 2016-10-25 | 第8期中国竜星戦予選 | Dang Yifei | Zhou Hexi | Lose | W+2.5 | 7.5 | 2973 | -29 | 
+| 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Dang Yifei | Shin Jinseo | Lose | W+2.5 | 7.5 | 3002 | -21 | 
+| 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Xu Jiayang | Dang Yifei | Lose | B+R | 7.5 | 3023 | -203 | 
+| 2016-07-17 | 第21回三星火災杯統合予選2回戦 | Kim Seongjae | Dang Yifei | Win | W+3.5 | 6.5 | 3226 | 112 | 
+| 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Han Yizhou | Dang Yifei | Lose | B+R | 7.5 | 3114 | -32 | 
+| 2016-06-25 | 第18回中国囲碁甲級リーグ第10節 |  | Dang Yifei | Win | W+R | 7.5 | 3146 | 3 | 
+| 2016-06-20 | 第18回中国囲碁甲級リーグ第9節 | Zhang Tao | Dang Yifei | Win | W+R | 7.5 | 3143 | 14 | 
+| 2016-06-16 | 第18回中国囲碁甲級リーグ第8節 | Xia Chenkun | Dang Yifei | Win | W+R | 7.5 | 3129 | 23 | 
+| 2016-06-06 | 第18回中国囲碁甲級リーグ第7節 | Wang Zejin | Dang Yifei | Lose | B+R | 7.5 | 3106 | -11 | 
+| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Yang Dingxin | Dang Yifei | Lose | B+R | 7.5 | 3117 | -6 | 
+| 2016-06-01 | 第21回LG杯朝鮮日報棋王戦2回戦 | Ichiriki Ryo | Dang Yifei | Win | W+R | 6.5 | 3123 | 21 | 
+| 2016-05-30 | 第21回LG杯朝鮮日報棋王戦1回戦 | Lin Junyan | Dang Yifei | Win | W+R | 6.5 | 3102 | 74 | 
+| 2016-05-18 | 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Tuo Jiaxi | Dang Yifei | Lose | B+1.5 | 7.5 | 3028 | -29 | 
+| 2016-05-16 | 第18回中国囲碁甲級リーグ第5節 | Dang Yifei | Yang Dingxin | Lose | W+R | 7.5 | 3057 | -47 | 
+| 2016-05-09 | 第18回中国囲碁甲級リーグ第4節 | Shin Jinseo | Dang Yifei | Lose | B+R | 7.5 | 3104 | -27 | 
+| 2016-05-03 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Dang Yifei | Tong Mengcheng | Win | B+R | 7.5 | 3131 | 56 | 
+| 2016-05-02 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Liao Yuanhe | Dang Yifei | Win | W+R | 7.5 | 3075 | 13 | 
+| 2016-05-01 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Yin Hang | Dang Yifei | Win | W+0.5 | 7.5 | 3062 | 15 | 
+| 2016-04-30 | 第18回中国囲碁甲級リーグ第3節 | Tao Xinran | Dang Yifei | Lose | B+R | 7.5 | 3047 | 12 | 
+| 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Jiang Weijie | Dang Yifei | Lose | B+R | 7.5 | 3035 | -26 | 
+| 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Lee Donghoon | Dang Yifei | Lose | B+R | 7.5 | 3061 | -13 | 
+| 2016-04-05 | 第21回LG杯予選 | Dang Yifei | Wu Guangya | Win | B+R | 6.5 | 3074 | 51 | 
+| 2016-03-07 | 第15回西南棋王戦1回戦 | Dang Yifei | Gu Li | Lose | W+R | 7.5 | 3023 | -50 | 
+| 2016-02-29 | 第13期倡棋杯中国プロ囲碁選手権戦予選 | Dang Yifei | Tao Xinran | Lose | W+R | 7.5 | 3073 | -34 | 
+| 2016-02-27 | 第13期倡棋杯中国プロ囲碁選手権戦予選 | Dang Yifei | Xie Ke | Win | B+R | 7.5 | 3107 | 128 | 
+| 2015-09-18 | 第3回全国智力運動会囲碁男子団体戦 | Dang Yifei | Yang Kaiwen | Win | B+1.5 | 7.5 | 2979 | -19 | 
+| 2015-08-31 | 2015年全国囲棋個人戦男子組第8戦 |  | Dang Yifei | Win | W+R | 7.5 | 2998 | 1 | 
+| 2015-08-29 | 2015年全国囲棋個人戦男子組第7戦 | Dang Yifei | Zhao Chenyu | Win | B+R | 7.5 | 2997 | 10 | 
+| 2015-08-28 | 2015年全国囲棋個人戦男子組第6戦 | Zhang Tao | Dang Yifei | Lose | B+R | 7.5 | 2987 | -15 | 
+| 2015-08-26 | 2015年全国囲棋個人戦男子組第5戦 | Dang Yifei |  | Win | B+R | 7.5 | 3002 | 35 | 
+| 2015-08-22 | 2015年全国囲棋個人戦男子組第2戦 |  | Dang Yifei | Win | W+R | 7.5 | 2967 | 4 | 
+| 2015-08-21 | 2015年全国囲棋個人戦男子組第1戦 | Dang Yifei | Yu Zhiying | Win | B+R | 7.5 | 2963 | -221 | 
+| 2015-05-19 | 2015年中国囲碁乙級リーグ | Dang Yifei | Wang Tao | Win | B+R | 7.5 | 3184 | 10 | 
+| 2015-05-13 | 2015年中国囲碁乙級リーグ | Dang Yifei | Chen Shiyuan | Lose | W+R | 7.5 | 3174 | -16 | 
+| 2015-05-04 | 第28期中国囲碁名人戦予選 | Zhou Hexi | Dang Yifei | Lose | B+R | 7.5 | 3190 | -8 | 
+| 2015-05-03 | 第28期中国囲碁名人戦予選 | Dang Yifei | Wang Tao | Win | B+R | 7.5 | 3198 | 35 | 
+| 2015-03-24 | 第20回LG杯予選 | Wang Xiangyun | Dang Yifei | Win | W+R | 6.5 | 3163 | 8 | 
+| 2015-03-21 | 第12期倡棋杯中国プロ囲碁選手権戦予選 |  | Dang Yifei | Lose | B+R | 7.5 | 3155 | -66 | 
+| 2015-03-19 | 第12期倡棋杯中国プロ囲碁選手権戦予選 | Yang Kaiwen | Dang Yifei | Win | W+4.5 | 7.5 | 3221 | -81 | 
+| 2015-01-27 | 第29期中国囲碁天元戦1回戦 | Gu Zihao | Dang Yifei | Lose | B+R | 7.5 | 3302 | -24 | 
+| 2015-01-20 | 第15期リコー杯囲碁戦2回戦 | Fan Tingyu | Dang Yifei | Lose | B+R | 7.5 | 3326 | -44 | 
+| 2014-12-31 | 第15期リコー杯囲碁戦1回戦 | Dang Yifei | Song Ronghui | Win | B+R | 7.5 | 3370 | 59 | 
+| 2014-12-04 | 第6期中国竜星戦3回戦 | Dang Yifei | Tan Xiao | Lose | W+R | 7.5 | 3311 | -18 | 
+| 2014-11-25 | 第16回中国囲碁甲級リーグ第22節 | Yang Dingxin | Dang Yifei | Lose | B+R | 7.5 | 3329 | -12 | 
+| 2014-11-22 | 第16回中国囲碁甲級リーグ第21節 | Dang Yifei | Lee Sedol | Lose | W+R | 7.5 | 3341 | 14 | 
+| 2014-11-11 | 第16回中国囲碁甲級リーグ第20節 | Dang Yifei | Wang Haoyang | Lose | W+R | 7.5 | 3327 | -17 | 
+| 2014-11-09 | 第16回中国囲碁甲級リーグ第19節 |  | Dang Yifei | Win | W+R | 7.5 | 3344 | 132 | 
+| 2014-10-31 | 第16回中国囲碁甲級リーグ第18節 | Li Zhe | Dang Yifei | Lose | B+R | 7.5 | 3212 | -31 | 
+| 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 | Dang Yifei | Park Junghwan | Lose | W+R | 7.5 | 3243 | 0 | 
+| 2014-10-25 | 第6期中国竜星戦2回戦 | Sun Tengyu | Dang Yifei | Win | W+R | 7.5 | 3243 | 15 | 
+| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Xu Jiayang | Dang Yifei | Lose | B+R | 7.5 | 3228 | -65 | 
+| 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Dang Yifei | Kim Jiseok | Lose | W+R | 7.5 | 3293 | -28 | 
+| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Dang Yifei | Jiang Weijie | Lose | W+R | 7.5 | 3321 | 26 | 
+| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Dang Yifei | Xie Erhao | Lose | W+R | 7.5 | 3295 | -18 | 
+| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Fan Yunruo | Dang Yifei | Win | W+R | 7.5 | 3313 | 6 | 
+| 2014-09-02 | 第6期中国竜星戦1回戦 | Dang Yifei | Jiang Weijie | Win | B+R | 7.5 | 3307 | 2 | 
+| 2014-08-16 | 2014年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Dang Yifei | Han Seungjoo | Lose | W+0.5 | 7.5 | 3305 | -57 | 
+| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Li Xuanhao | Dang Yifei | Lose | B+R | 7.5 | 3362 | -36 | 
+| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 |  | Dang Yifei | Win | W+0.5 | 7.5 | 3398 | 38 | 
+| 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Guo Yuzheng | Dang Yifei | Win | W+0.5 | 7.5 | 3360 | 43 | 
+| 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Dang Yifei | Tuo Jiaxi | Lose | W+0.5 | 7.5 | 3317 | 2 | 
+| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Dang Yifei | Li Zhe | Win | B+R | 7.5 | 3315 | 57 | 
+| 2014-06-05 | 第16回中国囲碁甲級リーグ第6節 | Ke Jie | Dang Yifei | Lose | B+R | 7.5 | 3258 | -23 | 
+| 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Shi Yue | Dang Yifei | Lose | B+R | 7.5 | 3281 | 77 | 
+| 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Zhang Tao | Dang Yifei | Lose | B+R | 7.5 | 3204 | -16 | 
+| 2014-05-18 | 第16回中国囲碁甲級リーグ第3節 | Dang Yifei | Zhou Ruiyang | Lose | W+R | 7.5 | 3220 | -13 | 
+| 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Tong Mengcheng | Dang Yifei | Lose | B+R | 7.5 | 3233 | -25 | 
+| 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Fan Yunruo | Dang Yifei | Win | W+R | 7.5 | 3258 | 44 | 
+| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Gu Lingyi | Dang Yifei | Lose | B+R | 7.5 | 3214 | -20 | 
+| 2014-05-03 | 2014年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Mi Yuting | Dang Yifei | Lose | B+R | 7.5 | 3234 | -7 | 
+| 2014-05-02 | 2014年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Dang Yifei | Chen Xian | Win | B+R | 7.5 | 3241 | -102 | 
+| 2014-04-04 | 第27期中国囲碁名人戦1回戦 | Xia Chenkun | Dang Yifei | Lose | B+R | 7.5 | 3343 | -9 | 
+| 2014-04-02 | 第27期中国囲碁名人戦予選 | Dang Yifei | Li Kang | Win | B+R | 7.5 | 3352 | 27 | 
+| 2014-04-01 | 第27期中国囲碁名人戦予選 |  | Dang Yifei | Win | W+R | 7.5 | 3325 | 38 | 
+| 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Jiang Weijie | Dang Yifei | Lose | B+R | 7.5 | 3287 | 18 | 
+| 2014-03-16 | 第2回百霊杯世界オープン戦予選 | Dang Yifei | Byun Sangil | Win | B+1.5 | 7.5 | 3269 | -112 | 
+| 2014-01-21 | 第28期中国囲碁天元戦準決勝 | Ke Jie | Dang Yifei | Lose | B+1.5 | 7.5 | 3381 | -10 | 
+| 2014-01-19 | 第28期中国囲碁天元戦3回戦 | Dang Yifei | Zhou Heyang | Win | B+R | 7.5 | 3391 | 13 | 
+| 2014-01-17 | 第28期中国囲碁天元戦2回戦 | Li Xuanhao | Dang Yifei | Win | W+R | 7.5 | 3378 | -17 | 
+| 2014-01-15 | 第28期中国囲碁天元戦1回戦 | Dang Yifei | Xie He | Win | B+1.5 | 7.5 | 3395 | -16 | 
+| 2014-01-14 | 第28期中国囲碁天元戦予選 |  | Dang Yifei | Win | W+R | 7.5 | 3411 | 14 | 
+| 2013-12-29 | 第14期リコー杯囲碁戦1回戦 | Dang Yifei | Xie Erhao | Lose | W+R | 7.5 | 3397 | 135 | 
+| 2013-10-15 | 2013年国際新鋭囲碁対抗戦第1戦 | Dang Yifei | Han Seungjoo | Lose | W+4.5 | 7.5 | 3262 | -167 | 
+| 2013-09-10 | 第5期中国竜星戦2回戦 | Dang Yifei | Kong Jie | Lose | W+2.5 | 7.5 | 3429 | -12 | 
+| 2013-09-09 | 第5期中国竜星戦1回戦 | Tuo Jiaxi | Dang Yifei | Win | W+R | 7.5 | 3441 | 0 | 
+| 2013-09-09 | 第5期中国竜星戦予選 | Meng Tailing | Dang Yifei | Win | W+R | 7.5 | 3441 | 57 | 
+| 2013-08-28 | 第9期威孚房開杯棋王戦2回戦 | Dang Yifei | Chen Yaoye | Lose | W+R | 7.5 | 3384 | -7 | 
+| 2013-08-27 | 第9期威孚房開杯棋王戦1回戦 | Chang Hao | Dang Yifei | Win | W+R | 7.5 | 3391 | -61 | 
+| 2013-08-11 | 第1回夢百合杯世界オープン戦4回戦 | Dang Yifei | Mi Yuting | Lose | W+R | 7.5 | 3452 | -9 | 
+| 2013-08-09 | 第1回夢百合杯世界オープン戦3回戦 | Dang Yifei | Tang Weixing | Win | B+1.5 | 7.5 | 3461 | 114 | 
+| 2013-07-11 | 第1回夢百合杯世界オープン戦2回戦 | Li Xuanhao | Dang Yifei | Win | W+R | 7.5 | 3347 | 59 | 
+| 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 | Dang Yifei | Xie He | Win | B+R | 7.5 | 3288 | 73 | 
+| 2013-06-23 | 2013年中国囲碁乙級リーグ | Dang Yifei | Mao Ruilong | Lose | W+2.5 | 7.5 | 3215 | -14 | 
+| 2013-06-17 | 2013年中国囲碁乙級リーグ | Dang Yifei | Lee Donghoon | Lose | W+R | 7.5 | 3229 | -15 | 
+| 2013-06-06 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Dang Yifei | An Dongxu | Win | B+R | 7.5 | 3244 | 0 | 
+| 2013-06-06 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Dang Yifei | Liu Xing | Lose | W+0.5 | 7.5 | 3244 | 2 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Dang Yifei | Chen Xian | Win | B+3.5 | 7.5 | 3242 | 0 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Fang Hao | Dang Yifei | Win | W+R | 7.5 | 3242 | 49 | 
+| 2013-05-07 | 第10期倡棋杯中国プロ囲碁選手権戦予選 | Dang Yifei | Chang Hao | Lose | W+3 | 7.5 | 3193 | -86 | 
+| 2013-04-13 | 第26期中国囲碁名人戦1回戦 | Zhang Tao | Dang Yifei | Lose | B+R | 7.5 | 3279 | -18 | 
+| 2013-04-02 | 2013CCTV杯中国囲棋電視快棋戦4回戦 | Xie He | Dang Yifei | Lose | B+R | 7.5 | 3297 | -19 | 
+| 2013-03-28 | 第20期建橋杯中国囲碁新人王戦1回戦 | Dang Yifei | Xie Erhao | Lose | W+T | 7.5 | 3316 | -47 | 
+| 2013-03-14 | 2013CCTV杯中国囲棋電視快棋戦3回戦 | Wang Haoyang | Dang Yifei | Win | W+R | 7.5 | 3363 | -4 | 
+| 2013-03-13 | 2013CCTV杯中国囲棋電視快棋戦2回戦 | Lian Xiao | Dang Yifei | Win | W+2.5 | 7.5 | 3367 | 0 | 
+| 2013-03-13 | 2013CCTV杯中国囲棋電視快棋戦1回戦 | Dang Yifei | Zhong Wenjing | Win | B+R | 7.5 | 3367 | 25 | 
+| 2013-03-10 | 第12回西南棋王戦準決勝 | Dang Yifei | Gu Li | Lose | W+2.5 | 7.5 | 3342 | 5 | 
+| 2013-03-09 | 第12回西南棋王戦1回戦 | Shi Yue | Dang Yifei | Win | W+R | 7.5 | 3337 | 38 | 
+| 2013-01-26 | 第27期中国囲碁天元戦2回戦 | Zhou Ruiyang | Dang Yifei | Lose | B+R | 7.5 | 3299 | -3 | 
+| 2013-01-24 | 第27期中国囲碁天元戦1回戦 | Dang Yifei | Lian Xiao | Win | B+R | 7.5 | 3302 | 15 | 
+| 2012-12-28 | 第13期リコー杯囲碁戦1回戦 | Dang Yifei | Gu Zihao | Lose | W+R | 7.5 | 3287 | -165 | 
+| 2012-10-17 | 第4期中国竜星戦1回戦 | Dang Yifei | Fan Tingyu | Lose | W+R | 7.5 | 3452 | -8 | 
+| 2012-10-14 | 第8期威孚房開杯棋王戦予選 | Tuo Jiaxi | Dang Yifei | Lose | B+R | 7.5 | 3460 | -12 | 
+| 2012-10-13 | 第8期威孚房開杯棋王戦予選 | Mao Ruilong | Dang Yifei | Win | W+2.5 | 7.5 | 3472 | 18 | 
+| 2012-09-25 | 2012年全国囲棋個人戦男子組第8戦 | Dang Yifei | Tong Yulin | Lose | W+R | 7.5 | 3454 | -1 | 
+| 2012-09-22 | 2012年全国囲棋個人戦男子組第6戦 | Dang Yifei | Peng Liyao | Lose | W+2.5 | 7.5 | 3455 | -18 | 
+| 2012-09-06 | 第17回三星火災杯世界囲碁マスターズ1回戦E3 | Paek Hongseok | Dang Yifei | Lose | B+0.5 | 6.5 | 3473 | -20 | 
+| 2012-09-05 | 第17回三星火災杯世界囲碁マスターズ1回戦E2 | Tuo Jiaxi | Dang Yifei | Lose | B+R | 6.5 | 3493 | -15 | 
+| 2012-09-04 | 第17回三星火災杯世界囲碁マスターズ1回戦E1 | Paek Hongseok | Dang Yifei | Win | W+1.5 | 6.5 | 3508 | 26 | 
+| 2012-08-27 | 第14期阿含・桐山杯中国早碁オープン戦準決勝 | Zhou Ruiyang | Dang Yifei | Lose | B+1.5 | 7.5 | 3482 | 16 | 
+| 2012-08-23 | 第1回百霊杯世界囲碁選手権4回戦 | Tang Weixing | Dang Yifei | Lose | B+R | 7.5 | 3466 | -5 | 
+| 2012-08-21 | 第1回百霊杯世界囲碁選手権3回戦 | Niu Yutian | Dang Yifei | Win | W+6.5 | 7.5 | 3471 | 6 | 
+| 2012-08-19 | 第1回百霊杯世界囲碁選手権2回戦 | Dang Yifei | Qiu Jun | Win | B+R | 7.5 | 3465 | 19 | 
+| 2012-08-15 | 第14期阿含・桐山杯中国早碁オープン戦2回戦 | Dang Yifei | Jiang Weijie | Win | B+R | 7.5 | 3446 | -38 | 
+| 2012-08-01 | 第14期阿含・桐山杯中国早碁オープン戦1回戦 | Tong Mengcheng | Dang Yifei | Win | W+R | 7.5 | 3484 | 16 | 
+| 2012-07-09 | 2012CCTV杯中国囲棋電視快棋戦1回戦 | Dang Yifei | Zhou Ruiyang | Lose | W+R | 7.5 | 3468 | 2 | 
+| 2012-06-18 | 第17回LG杯世界棋王戦1回戦 | Na Hyun | Dang Yifei | Lose | B+R | 6.5 | 3466 | -62 | 
+| 2012-05-16 | 第4回BCカード杯世界選手権決勝五番勝負第4局 | Dang Yifei | Paek Hongseok | Lose | W+0.5 | 6.5 | 3528 | -28 | 
+| 2012-05-15 | 第4回BCカード杯世界選手権決勝五番勝負第3局 | Paek Hongseok | Dang Yifei | Lose | B+R | 6.5 | 3556 | -37 | 
+| 2012-05-13 | 第4回BCカード杯世界選手権決勝五番勝負第2局 | Dang Yifei | Paek Hongseok | Lose | W+R | 6.5 | 3593 | -42 | 
+| 2012-05-12 | 第4回BCカード杯世界選手権決勝五番勝負第1局 | Paek Hongseok | Dang Yifei | Win | W+R | 6.5 | 3635 | 17 | 
+| 2012-05-10 | 第4回BCカード杯世界選手権準決勝 | Dang Yifei | Piao Wenyao | Win | B+R | 6.5 | 3618 | -78 | 
+| 2012-04-20 | 第17回LG杯予選 |  | Dang Yifei | Win | W+R | 6.5 | 3696 | 1 | 
+| 2012-04-16 | 第4回BCカード杯世界選手権4回戦 | Dang Yifei | Park Yeonghun | Win | B+R | 6.5 | 3695 | 50 | 
+| 2012-04-14 | 第4回BCカード杯世界選手権3回戦 | Tan Xiao | Dang Yifei | Win | W+R | 6.5 | 3645 | 76 | 
+| 2012-03-20 | 第19期建橋杯中国囲碁新人王戦2回戦 | Yang Dingxin | Dang Yifei | Lose | B+R | 7.5 | 3569 | -83 | 
+| 2012-03-19 | 第19期建橋杯中国囲碁新人王戦1回戦 | Dang Yifei |  | Win | B+3.5 | 7.5 | 3652 | 92 | 
+| 2012-03-17 | 第4回BCカード杯世界選手権2回戦 | Dang Yifei | Lee Sedol | Win | B+R | 6.5 | 3560 | -6 | 
+| 2012-03-14 | 第1回百霊杯世界囲碁選手権1回戦 | Dang Yifei | Guo Yuzheng | Win | B+R | 7.5 | 3566 | 19 | 
+| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Dang Yifei | Seo Joonghui | Win | B+R | 6.5 | 3547 | 464 | 
+| 2011-09-25 | 2011年全国囲棋個人戦男子組第9戦 | Zhu Yuanhao | Dang Yifei | Lose | B+R | 7.5 | 3083 | 52 | 
+| 2011-08-03 | 第16回三星火災杯統合予選2回戦 | Dang Yifei | Han Sanghoon | Win | B+R | 6.5 | 3031 | 53 | 
+| 2011-07-07 | 第24期中国囲碁名人戦準決勝 | Dang Yifei | Kong Jie | Lose | W+0.5 | 7.5 | 2978 | -29 | 
+| 2011-07-05 | 第24期中国囲碁名人戦3回戦 | Dang Yifei | Chen Yaoye | Win | B+R | 7.5 | 3007 | -123 | 
+| 2011-03-22 | 第24期中国囲碁名人戦予選 | Luo Xihe | Dang Yifei | Win | W+R | 7.5 | 3130 | -27 | 
+| 2011-03-20 | 第3期中国竜星戦3回戦 | Dang Yifei | Wang Xi | Lose | W+R | 7.5 | 3157 | -6 | 
+| 2011-03-18 | 第3期中国竜星戦2回戦 | Dang Yifei | Jiang Weijie | Win | B+R | 7.5 | 3163 | 39 | 
+| 2011-03-14 | 2011CCTV杯中国囲棋電視快棋戦1回戦 | Dang Yifei | Niu Yutian | Lose | W+R | 7.5 | 3124 | 10 | 
+| 2011-03-11 | 第10回西南棋王戦決勝 | Gu Lingyi | Dang Yifei | Lose | B+R | 7.5 | 3114 | -34 | 
+| 2011-02-28 | 第3回BCカード杯世界選手権2回戦 | Dang Yifei | Gu Li | Lose | W+4.5 | 6.5 | 3148 | 43 | 
+| 2011-01-29 | 第3回BCカード杯世界選手権1回戦 | Dang Yifei | Lee Taehyun | Win | B+R | 6.5 | 3105 | 237 | 
+| 2010-12-18 | 第12回中国囲碁甲級リーグ第22節 | Wang Lei (s) | Dang Yifei | Lose | B+R | 7.5 | 2868 | 10 | 
+| 2010-12-11 | 第12回中国囲碁甲級リーグ第21節 | Peng Quan | Dang Yifei | Lose | B+1.5 | 7.5 | 2858 | 14 | 
+| 2010-12-04 | 第12回中国囲碁甲級リーグ第20節 | Tao Xin | Dang Yifei | Win | W+R | 7.5 | 2844 | -110 | 
+| 2010-11-16 | 第12回中国囲碁甲級リーグ第19節 | Dang Yifei | Liao Xingwen | Lose | W+R | 7.5 | 2954 | -13 | 
+| 2010-11-11 | 第12回中国囲碁甲級リーグ第18節 | Xie He | Dang Yifei | Lose | B+R | 7.5 | 2967 | -4 | 
+| 2010-10-30 | 第12回中国囲碁甲級リーグ第17節 | Qiu Jun | Dang Yifei | Lose | B+1.5 | 7.5 | 2971 | -26 | 
+| 2010-10-21 | 第12回中国囲碁甲級リーグ第16節 | Shi Yue | Dang Yifei | Win | W+R | 7.5 | 2997 | -9 | 
+| 2010-10-16 | 第12回中国囲碁甲級リーグ第15節 | Wang Yuhui | Dang Yifei | Lose | B+R | 7.5 | 3006 | 114 | 
+| 2010-09-06 | 第12回中国囲碁甲級リーグ第13節 | Dang Yifei | Chen Yaoye | Lose | W+R | 7.5 | 2892 | -22 | 
+| 2010-09-04 | 第12回中国囲碁甲級リーグ第12節 | Tan Xiao | Dang Yifei | Lose | B+R | 7.5 | 2914 | -74 | 
+| 2010-07-15 | 第12回中国囲碁甲級リーグ第11節 | Dang Yifei | Wang Tao | Lose | W+2.5 | 7.5 | 2988 | 9 | 
+| 2010-07-10 | 第12回中国囲碁甲級リーグ第10節 | Luo Xihe | Dang Yifei | Lose | B+R | 7.5 | 2979 | -40 | 
+| 2010-07-03 | 第12回中国囲碁甲級リーグ第9節 | Dang Yifei | Jiang Weijie | Lose | W+2.5 | 7.5 | 3019 | -34 | 
+| 2010-06-19 | 第12回中国囲碁甲級リーグ第8節 | Li Kang | Dang Yifei | Win | W+R | 7.5 | 3053 | 74 | 
+| 2010-06-03 | 第12回中国囲碁甲級リーグ第6節 | Qiu Jun | Dang Yifei | Lose | B+R | 7.5 | 2979 | -22 | 
+| 2010-05-15 | 第12回中国囲碁甲級リーグ第4節 | Wang Yuhui | Dang Yifei | Lose | B+R | 7.5 | 3001 | 41 | 
+| 2010-05-08 | 第12回中国囲碁甲級リーグ第3節 | Shao Weigang | Dang Yifei | Win | W+R | 7.5 | 2960 | -18 | 
+| 2010-04-29 | 第12回中国囲碁甲級リーグ第2節 | Dang Yifei | Tuo Jiaxi | Lose | W+4.5 | 7.5 | 2978 | 9 | 
+| 2010-04-25 | 第12回中国囲碁甲級リーグ第1節 | Dang Yifei | Sun Li | Lose | W+R | 7.5 | 2969 | -18 | 
+| 2010-03-30 | 第23期中国囲碁名人戦予選 | Meng Tailing | Dang Yifei | Lose | B+R | 7.5 | 2987 | -74 | 
+| 2010-03-15 | 第9回西南棋王戦準決勝 | Wang Xi | Dang Yifei | Lose | B+R | 7.5 | 3061 | -15 | 
+| 2010-03-04 | 2010CCTV杯中国囲棋電視快棋戦1回戦 | Dang Yifei | Chang Hao | Win | B+R | 7.5 | 3076 | 73 | 
+| 2010-01-20 | 第24期中国囲碁天元戦予選 | Dang Yifei | Meng Lei | Lose | W+R | 7.5 | 3003 | -30 | 
+| 2010-01-19 | 第24期中国囲碁天元戦予選 | Dang Yifei | Tong Mengcheng | Win | B+R | 7.5 | 3033 | -33 | 
+| 2009-12-29 | 第4期リコー杯新秀戦1回戦 | Tao Xinran | Dang Yifei | Lose | B+1.5 | 7.5 | 3066 | -3 | 
+| 2009-12-28 | 第10期リコー杯囲碁戦1回戦 | Wang Lei (b) | Dang Yifei | Lose | B+R | 7.5 | 3069 | -21 | 
+| 2009-12-20 | 第4期リコー杯新秀戦予選 | Rong Yi | Dang Yifei | Win | W+R | 7.5 | 3090 | 6 | 
+| 2009-12-19 | 第11回中国囲碁甲級リーグ第22節 | Zhou Ruiyang | Dang Yifei | Win | W+R | 7.5 | 3084 | 39 | 
+| 2009-12-12 | 第11回中国囲碁甲級リーグ第21節 | Piao Wenyao | Dang Yifei | Lose | B+R | 7.5 | 3045 | 7 | 
+| 2009-12-05 | 第11回中国囲碁甲級リーグ第20節 | Ding Wei | Dang Yifei | Win | W+2.5 | 7.5 | 3038 | -98 | 
+| 2009-11-28 | 第11回中国囲碁甲級リーグ第19節 | Dang Yifei | Luo Xihe | Win | B+R | 7.5 | 3136 | 18 | 
+| 2009-11-23 | 第1回全国智力運動会囲碁男子団体戦 | Lian Xiao | Dang Yifei | Win | W+R | 7.5 | 3118 | 0 | 
+| 2009-11-21 | 第1回全国智力運動会囲碁男子団体戦 | Li Xuanhao | Dang Yifei | Lose | B+1.5 | 7.5 | 3118 | -24 | 
+| 2009-11-20 | 第1回全国智力運動会囲碁男子団体戦 | Dang Yifei | Zhang Tao | Win | B+R | 7.5 | 3142 | 5 | 
+| 2009-11-19 | 第1回全国智力運動会囲碁男子団体戦 | Sun Li | Dang Yifei | Win | W+R | 7.5 | 3137 | 41 | 
+| 2009-11-07 | 第11回中国囲碁甲級リーグ第18節 | Dang Yifei | Wang Haoyang | Lose | W+R | 7.5 | 3096 | -7 | 
+| 2009-10-29 | 第11回中国囲碁甲級リーグ第17節 | Mao Ruilong | Dang Yifei | Lose | B+R | 7.5 | 3103 | 13 | 
+| 2009-10-17 | 第11回中国囲碁甲級リーグ第16節 | Dang Yifei |  | Win | B+R | 7.5 | 3090 | 5 | 
+| 2009-10-10 | 第11回中国囲碁甲級リーグ第15節 | Xie He | Dang Yifei | Lose | B+R | 7.5 | 3085 | 0 | 
+| 2009-09-29 | 第11回中国囲碁甲級リーグ第14節 | Wang Lei (s) | Dang Yifei | Win | W+6.5 | 7.5 | 3085 | 0 | 
+| 2009-09-07 | 第11回中国囲碁甲級リーグ第13節 | Dang Yifei | Wang Yuhui | Win | B+3.5 | 7.5 | 3085 | 26 | 
+| 2009-09-05 | 第11回中国囲碁甲級リーグ第12節 | Dang Yifei | Qiu Jun | Win | B+1.5 | 7.5 | 3059 | 44 | 
+| 2009-07-11 | 第11回中国囲碁甲級リーグ第11節 | Dang Yifei | Zhou Heyang | Lose | W+R | 7.5 | 3015 | -7 | 
+| 2009-07-09 | 第11回中国囲碁甲級リーグ第10節 | Wang Lei (b) | Dang Yifei | Lose | B+3.5 | 7.5 | 3022 | -18 | 
+| 2009-07-04 | 第11回中国囲碁甲級リーグ第9節 | Dang Yifei | Liao Xingwen | Win | B+R | 7.5 | 3040 | 29 | 
+| 2009-07-01 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Dang Yifei | Luo Xihe | Win | B+R | 7.5 | 3011 | 0 | 
+| 2009-07-01 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Liao Xingwen | Dang Yifei | Lose | B+R | 7.5 | 3011 | -28 | 
+| 2009-06-30 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Zhu Yuanhao | Dang Yifei | Win | W+R | 7.5 | 3039 | 0 | 
+| 2009-06-30 | 第11期阿含・桐山杯中国早碁オープン戦予選 |  | Dang Yifei | Win | W+R | 7.5 | 3039 | 33 | 
+| 2009-06-27 | 第11回中国囲碁甲級リーグ第8節 | Dang Yifei | Tong Yulin | Win | B+R | 7.5 | 3006 | 111 | 
+| 2009-06-18 | 第11回中国囲碁甲級リーグ第7節 | Dang Yifei | Meng Tailing | Lose | W+R | 7.5 | 2895 | -24 | 
+| 2009-06-13 | 第11回中国囲碁甲級リーグ第6節 |  | Dang Yifei | Win | W+R | 7.5 | 2919 | 96 | 
+| 2009-06-06 | 第11回中国囲碁甲級リーグ第5節 | Pan Fei | Dang Yifei | Win | W+R | 7.5 | 2823 | -33 | 
+| 2009-05-28 | 第11回中国囲碁甲級リーグ第4節 | Dang Yifei | Xie He | Win | B+R | 7.5 | 2856 | 123 | 
+| 2009-05-23 | 第11回中国囲碁甲級リーグ第3節 | Dang Yifei | Wang Lei (s) | Win | B+5.5 | 7.5 | 2733 | 21 | 
+| 2009-03-03 | 第22期中国囲碁名人戦予選 |  | Dang Yifei | Lose | B+R | 7.5 | 2712 | -84 | 
+| 2009-02-06 | 第23期中国囲碁天元戦予選 | Tang Weixing | Dang Yifei | Lose | B+3.5 | 7.5 | 2796 | -79 | 
+| 2008-12-20 | 第10回中国囲碁甲級リーグ第21節 |  | Dang Yifei | Win | W+R | 7.5 | 2875 | 2875 | 
+| 2008-12-16 | 第3期リコー杯新秀戦予選 | Rong Yi | Dang Yifei | Lose | B+R | 7.5 | missing | -2529 | 
+| 2008-11-29 | 第10回中国囲碁甲級リーグ第18節 | Dang Yifei | Yu Bin | Lose | W+R | 7.5 | 2529 | -79 | 
+| 2008-11-01 | 第10回中国囲碁甲級リーグ第14節 | Dang Yifei |  | Lose | W+R | 7.5 | 2608 | -314 | 
+| 2008-07-01 | 第10回中国囲碁甲級リーグ第12節 | Dang Yifei |  | Win | B+3.5 | 7.5 | 2922 | 104 | 
+| 2008-05-23 | 第10回中国囲碁甲級リーグ第7節 | Dang Yifei | Yu Bin | Lose | W+6.5 | 7.5 | 2818 | 180 | 
+| 2008-04-17 | 第10回中国囲碁甲級リーグ第4節 | Dang Yifei | Sun Li | Lose | W+R | 7.5 | 2638 | -125 | 
+| 2008-03-26 | 第7回西南棋王戦準決勝 | Gu Lingyi | Dang Yifei | Lose | B+1.5 | 7.5 | 2763 | 2763 | 
+| 2008-03-25 | 第7回西南棋王戦2回戦 | Gu Li | Dang Yifei | Win | W+R | 7.5 | missing | missing |
 
 
 

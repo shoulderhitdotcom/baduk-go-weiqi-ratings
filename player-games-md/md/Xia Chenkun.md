@@ -5,219 +5,220 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第23回中国囲碁甲級リーグ | Lian Xiao | Xia Chenkun | W+R | 2021-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OsQJ8QBGyUO01V6Ihmd0pQ%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Huang Xin | Xia Chenkun | W+R | 2021-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1nz6mFIns4Jbb3PyLFM6PQ%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Liao Yuanhe | Xia Chenkun | B+R | 2021-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sLtbQscQh5Eyi%2FECL0ymdQ%3D%3D) | 
-| 第23回中国囲碁甲級リーグ  | Xia Chenkun | Shibano Toramaru | B+R | 2021-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K3lPjsUZQVzTGzYkmtolEg%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Byun Sangil | Xia Chenkun | B+2¾ | 2021-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S7KXmIr5eq8grvAgNNE4bw%3D%3D) | 
-| 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Xia Chenkun | Gu Zihao | W+R | 2021-04-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TI10ZLjXWOU78uNBiAdHiw%3D%3D) | 
-| 第17回倡棋杯中国プロ囲碁選手権戦 | Xia Chenkun | Chen Zijian | B+R | 2021-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WEZF2tTzDQcVWhMkgtPVyw%3D%3D) | 
-| 第35期中国囲碁天元戦1回戦 | Ding Hao | Xia Chenkun | B+R | 2021-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uDworpp0a5rIXwabRk9coQ%3D%3D) | 
-| 第35期中国囲碁天元戦予選 | Gu Lingyi | Xia Chenkun | W+2¼ | 2021-03-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sxgc0uM64z2mHoVlIKu%2BBw%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Chen Xian | W+R | 2020-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KEn99gPc6OSICThbB03Sug%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Chen Xian | Xia Chenkun | B+R | 2020-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YtQWYtvtJhR1Tt90rFXn%2BA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Huang Mingyu | Xia Chenkun | W+R | 2020-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bFe%2BYj54wEq4PWPUvBKvSw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Lyu Liyan | Xia Chenkun | W+R | 2020-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p9MLOQXTVOZ97nu2ZQvR3w%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Sun Tengyu | Xia Chenkun | W+R | 2020-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0ybj0XhAE%2BpCnt1X1DIfwg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Xia Chenkun | He Yuhan | W+R | 2020-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QDgoPXEdLkEicfXZlfM8Uw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Xia Chenkun | Dang Yifei | W+R | 2020-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7xdXnoivbCPFlLcfREGcHA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第7節 | Xia Chenkun | Cao Xiaoyang | W+R | 2020-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FOKdoebRKhctY3%2BPuz2QfQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第6節 | Yang Kaiwen | Xia Chenkun | B+R | 2020-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KIpJMC9IEcTFA%2FwgtLKjFA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第5節 | Wang Shiyi | Xia Chenkun | B+¾ | 2020-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=euYzqw%2Fo%2BepvATgJ%2B0lKBQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第4節 | Rong Yi | Xia Chenkun | B+R | 2020-08-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nml4uBWfjh4k%2F44qIZPH1Q%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第3節 | Xia Chenkun | Mi Yuting | W+R | 2020-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WOCT00cOcnRWx9%2F9AIN7EQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第2節 | missing | Xia Chenkun | W+R | 2020-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JkQfHgEhdsok9CQua84lHQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第1節 | Fan Tingyu | Xia Chenkun | W+R | 2020-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eQv5FlMjSifC3ZXr5kMbxw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ優勝決定戦第2戦 | Li Qincheng | Xia Chenkun | B+R | 2019-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fVZs%2FfXaBpZgsk2J%2F9uznQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ優勝決定戦第1戦 | Li Qincheng | Xia Chenkun | W+¼ | 2019-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MDW27a54tWCHuI7C2WSo%2Fw%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ3回戦第2戦 | Sun Tengyu | Xia Chenkun | W+¼ | 2019-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u%2BpMX%2FTWO%2F3ZMhi5mFN6ow%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 | Xia Chenkun | Sun Tengyu | B+R | 2019-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5LEhxdLrWIyB5Swj4YSc9Q%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Hu Yaoyu | Xia Chenkun | W+2¼ | 2019-10-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Eo2RXmycEQ%2F2bxuQ9yej3w%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Li Weiqing | Xia Chenkun | W+R | 2019-10-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2qPRl0vcxMi5VBRMOL%2Fixw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第15節 | Huang Jingyuan | Xia Chenkun | W+2¼ | 2019-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4gZRAScAR3y0I3uFZeYhBA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第14節 | Xia Chenkun | Sun Tengyu | W+R | 2019-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FPW70vvTcuckLmMYGwE9gA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第13節 | Chen Hao | Xia Chenkun | B+R | 2019-08-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aERWYTLU05OB8xeoE1Ysig%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第12節 | Wang Zejin | Xia Chenkun | W+R | 2019-08-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HAcDJWmFv76uctXqKyzI8g%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第11節 | Chen Zijian | Xia Chenkun | W+1¼ | 2019-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IaxwAbcC4A5I%2Brwn4zReXA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第10節 | Li Weiqing | Xia Chenkun | B+R | 2019-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VsukDcjkSMNpVPh83Vv%2F5g%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第9節 | Gu Lingyi | Xia Chenkun | W+R | 2019-07-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jLtHbQh%2Bq29Hl3VWEs64qg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第8節 | Yang Kaiwen | Xia Chenkun | W+R | 2019-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fVoye%2BksoWK%2F9wVNHyqzmw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第7節 | Xia Chenkun | Zhao Chenyu | B+R | 2019-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PynjVLvd5M%2Bm41%2FyoPGydw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第6節 | Shen Peiran | Xia Chenkun | B+R | 2019-06-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZXOjIPjQoyuCO6UASouXKQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第4節 | Li Xuanhao | Xia Chenkun | B+R | 2019-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3KLIOKit%2BYL1zD1hGkWzVw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第3節 | Xia Chenkun | Lian Xiao | W+R | 2019-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HAFzd%2FPRJ7Iet0%2BEaBpKlA%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Xia Chenkun | Liao Yuanhe | W+R | 2019-04-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rC55GdwR0HnJN2HSLkvhLQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第2節 | missing | Xia Chenkun | W+2¼ | 2019-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xoV4dTg8c0tqMIsolXymbw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第1節杭州-北京 | Kim Myounghoon | Xia Chenkun | W+R | 2019-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wJ1oHm2J6DnMwE444dZZCg%3D%3D) | 
-| 第24回LG杯統合予選3回戦 | Na Hyun | Xia Chenkun | B+1.5 | 2019-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bu0Mm9KcJA4WdtAOTY5%2BVA%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦1回戦 | Xia Chenkun | Li Xuanhao | B+R | 2019-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BfnGBT0IqOTqDk1Yrlxd1A%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦2回戦 | Xia Chenkun | Chen Zijian | W+R | 2019-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CO1tvpitMZO5gp%2Boqvm9LA%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦2回戦 | Xia Chenkun | Peng Liyao | B+R | 2019-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iOjnTB%2F3FKXtypleKtWEqg%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦1回戦 | Xia Chenkun | Chen Zijian | B+R | 2019-03-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BcmX0L54rmilCkkcNa2Yvw%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦予選準決勝 | Xia Chenkun | Gu Li | B+¾ | 2019-02-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S%2BiHAQWxDiVXopKeaGvbWg%3D%3D) | 
-| 第33期中国囲碁天元戦予選 | Lu Minquan | Xia Chenkun | B+R | 2019-01-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S%2F%2B2mRaImexZcXOFHLvm0Q%3D%3D) | 
-| 第4期洛陽白雲山杯中国棋聖戦入囲戦 | Ding Shixiong | Xia Chenkun | B+R | 2018-12-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pFrLTASW431%2BAn2R%2FRP%2F%2FA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第26節杭州-蘇泊爾 | Xia Chenkun | Xie Ke | W+R | 2018-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BPTwzplqB92XyghWmV%2FSNA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第25節天津-杭州 | Wang Zejin | Xia Chenkun | B+R | 2018-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YBgatEeJlV7AdCg2AvuSHQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第24節杭州-江蘇 | Xia Chenkun | Huang Yunsong | W+R | 2018-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wOgMkYW6gJRe2iVwKcg88Q%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第23節廈門-杭州 | Zhou Ruiyang | Xia Chenkun | B+R | 2018-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tO05HNm0wdpItdEj8WVfog%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第22節杭州-浙江 | Xia Chenkun | Shin Minjun | B+R | 2018-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4FUwp2ibfzdk%2BV49DrizXA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第21節上海-杭州 | Liao Xingwen | Xia Chenkun | B+R | 2018-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4M5rgyZwWIsWQUIMKmEkVQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第20節杭州-江西 | Yang Kaiwen | Xia Chenkun | W+1¼ | 2018-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WlAQzDvO3kYIbfIJ2s%2B3vA%3D%3D) | 
-| 第14期威孚房開杯棋王戦32強戦 | Xia Chenkun | Tong Mengcheng | W+R | 2018-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zhBKw0zPEQL75DGOHhny3w%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第19節山東-杭州 | Jiang Weijie | Xia Chenkun | B+R | 2018-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bW8MUpPYYbQUq2xo0R1MWA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第18節杭州-成都 | Xia Chenkun | Dang Yifei | W+R | 2018-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xfF47dngfAnJ8TgxGFvZyA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第17節衢州-杭州 | Xia Chenkun | Hu Yuhan | W+R | 2018-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WJ3Cz3txjEaMSK7MQOvFfg%3D%3D) | 
-| 2018年全国囲棋個人戦男子組第6戦 | missing | Xia Chenkun | B+R | 2018-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rXIpUMKNjkuY7fLV4lXrHA%3D%3D) | 
-| 2018年全国囲棋個人戦男子組第5戦 | Xia Chenkun | missing | W+R | 2018-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wkYUEnVQJPBzHqlaVEq%2F6Q%3D%3D) | 
-| 2018年全国囲棋個人戦男子組第3戦 | Xia Chenkun | Wang Xinghao | B+R | 2018-09-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qnmt9NloMVQWqZegDctiyA%3D%3D) | 
-| 2018年全国囲棋個人戦男子組第2戦 | Xia Chenkun | Liu Qifeng | B+R | 2018-09-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DnLmsQp3d%2FiaZzr6HE64SQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第16節杭州-重慶 | Gu Li | Xia Chenkun | W+R | 2018-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G%2BNUeHb3GIHqHPdL9nGtLQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第15節民生-杭州 | Sun Tengyu | Xia Chenkun | W+R | 2018-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BgvrAKJUtN03sdO%2FPJ4bzg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第14節杭州-中信 | Kim Myounghoon | Xia Chenkun | B+R | 2018-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=umPg1bxwxquKdZOo40pzHw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第10節杭州-廈門 | Zhou Ruiyang | Xia Chenkun | W+1¼ | 2018-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FsU1bwbiTPI7EQ4Z%2F1vQYg%3D%3D) | 
-| 第20期阿含・桐山杯中国早碁オープン戦本選決勝 | Xia Chenkun | Tu Xiaoyu | W+¼ | 2018-06-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uZufJ7TG40j4lYSu0wnOBQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第9節浙江-杭州 | Xia Chenkun | Zhou Hexi | B+R | 2018-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o3KBBIJ6uMvpt%2B%2BRW32giQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第8節杭州-上海 | Hu Yaoyu | Xia Chenkun | W+R | 2018-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N%2BTp86ngDqzB75L8GeJLug%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第7節江西-杭州 | Tu Xiaoyu | Xia Chenkun | W+R | 2018-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rXj6e%2FZJDY0T5mDSCEdpMA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第6節杭州-山東 | Xia Chenkun | Yi Lingtao | W+R | 2018-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SMhS8hVfz3S63Zuu%2FHBhrw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第5節成都-杭州 | Xia Chenkun | Dang Yifei | B+R | 2018-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RGNTBUXdUgUHk1LA8FFEUg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第4節杭州-衢州 | Xia Chenkun | Huang Xin | B+R | 2018-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f5prlvo1vfx%2BjJu%2ByIsqhg%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦3回戦 | Zhou Ruiyang | Xia Chenkun | B+R | 2018-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Eqb0tfwk0%2BYitqJa%2F3A7Eg%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦2回戦 | Xia Chenkun | Li Xuanhao | B+R | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xepE90S7WSB%2FzvEMET9uAg%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦1回戦 | Xia Chenkun | Tan Xiao | B+2¾ | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cfkjk7NiWW%2B9Lac6tTfwug%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第3節重慶-杭州 | Xia Chenkun | Gu Li | B+R | 2018-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hWg4bATDVoptLBeM0uhz3Q%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第2節杭州-民生 | Tao Xinran | Xia Chenkun | B+R | 2018-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8GJLXiOlX4hwB62nOnV7sg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第1節中信-杭州 | Xia Chenkun | Tuo Jiaxi | W+R | 2018-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2FbZDc%2F4kDUDBcD3%2Bnyjtg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第26節 | Xia Chenkun | Wang Zejin | B+R | 2017-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IAjAkSseUxLhDF1OLpYoJw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第25節 | Zhao Chenyu | Xia Chenkun | B+R | 2017-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TIy9MCGK1WcjdLuKQhVWHA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第24節 | Xia Chenkun | missing | B+R | 2017-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tzG%2B8fFYf6UURIQFEpWfQQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第23節 | Xia Chenkun | Huang Xin | B+R | 2017-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y793ayLFRH9Lnk6x8tHCLg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第20節 | Tuo Jiaxi | Xia Chenkun | B+R | 2017-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xc03ncBB8f9NOLviGGblYg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第19節 | Xia Chenkun | Li Zhe | B+R | 2017-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jbZiKpiSy0tS78AsdxTLmQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第18節 | Wang Haoyang | Xia Chenkun | B+R | 2017-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m8CubV7t0M1Q73Rif1ziPA%3D%3D) | 
-| 2017年全国囲棋個人戦男子組第7戦 | Xia Chenkun | Zheng Xu | B+R | 2017-09-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gzq7hHxR1AbsolkgUc%2BjmQ%3D%3D) | 
-| 2017年全国囲棋個人戦男子組第2戦 | missing | Xia Chenkun | W+R | 2017-09-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y5foH5FvXK5npD5BvsoxeQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第17節 | Xia Chenkun | Li Xuanhao | B+R | 2017-09-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lWeCmcXCl38BbQCsH6wOXg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第16節 | Xia Chenkun | Xie Ke | W+0.5 | 2017-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jK8KQpOR4mBaOs3n6WfPsw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第15節 | Gu Lingyi | Xia Chenkun | W+0.5 | 2017-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dDsh8%2BSPiiFlrAUqvQNF%2Fg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第14節 | Xia Chenkun | missing | W+R | 2017-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gMYfiN8jmDQ7YNlbED2bqw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第13節 | Meng Tailing | Xia Chenkun | W+R | 2017-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RG%2BXLMVQHUmavJbK1RjUAg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第12節 | Xia Chenkun | Zhao Chenyu | B+R | 2017-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yZ9avuWsJM0iznuQ4PzxGQ%3D%3D) | 
-| 嫘祖杯30回中国名人戦新浪網選決勝 | Xia Chenkun | missing | W+R | 2017-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BtqZsDabT8AnNcKXLJGyhg%3D%3D) | 
-| 嫘祖杯30回中国名人戦新浪網選3回戦 | missing | Xia Chenkun | W+R | 2017-07-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L2Y9tIjwiYMZbCg0PTzA%2Bw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第8節 | Tao Xinran | Xia Chenkun | B+R | 2017-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EMOgen5Oz0HGkOlqmHja3w%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第7節 | Xia Chenkun | missing | W+R | 2017-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J052cKlu00Z%2FWESMcy34VQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第6節 | Li Zhe | Xia Chenkun | W+R | 2017-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N75wawOSpGKYUdo%2FmJQnaQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第4節 | Gu Li | Xia Chenkun | B+R | 2017-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IQlArJZYuSlZsl0Jij%2B%2F0w%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第2節 | Choi Cheolhan | Xia Chenkun | B+R | 2017-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JsXjtgyXmxgalKbZgb%2BQlA%3D%3D) | 
-| 第31期中国囲碁天元戦予選 | Dang Yifei | Xia Chenkun | B+1.5 | 2017-01-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xMTfT91vj%2F%2B3A1Ul6zwLQA%3D%3D) | 
-| 第31期中国囲碁天元戦予選 | Jiang Qirun | Xia Chenkun | W+R | 2016-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vstAtOY9zWd0uHHld0Z%2BRA%3D%3D) | 
-| 第31期中国囲碁天元戦予選 | missing | Xia Chenkun | W+R | 2016-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=klb3mwJOZj0vorI79vqnHQ%3D%3D) | 
-| 第31期中国囲碁天元戦予選 | Xia Chenkun | missing | B+R | 2016-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5%2BSWtOBzDfNNYFICsC1zkg%3D%3D) | 
-| 第31期中国囲碁天元戦予選 | Xia Chenkun | missing | B+5.5 | 2016-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sqkN5%2FSfuoopKgqIeEJsMw%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選4回戦 | Xia Chenkun | missing | W+R | 2016-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s63%2Fkq27t%2BLA0yyZZjH59A%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選3回戦 | Chen Yunong | Xia Chenkun | W+R | 2016-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HjZUw3GfZLxut9q5G3hNEA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第21節 | Xia Chenkun | Tuo Jiaxi | W+R | 2016-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rHFwX718fVt1wn3iCzyt0g%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第20節 | Lian Xiao | Xia Chenkun | B+R | 2016-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FqB1JV0vEmTmJhe%2FXe5BLA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第18節 | Xia Chenkun | Kim Jiseok | W+R | 2016-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LbAWQSkDRbuLP1N3I8byIA%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦2回戦 | Xia Chenkun | Chen Yaoye | W+R | 2016-11-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zw7G4xmUEojv9TVXKi3IZg%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦1回戦 | Xia Chenkun | Jiang Zhujiu | B+R | 2016-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oG6uxIlEqMyi6Qe6lNaw6g%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第17節 | Xia Chenkun | Wang Zejin | W+0.5 | 2016-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=APxTQvFAql8aRfwM6DhU5g%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第16節 | Zhao Chenyu | Xia Chenkun | W+R | 2016-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C2dSy6IRAhXp6zLMKHmg4g%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第14節 | Xia Chenkun | Niu Yutian | W+R | 2016-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AIgv5%2BLAFaDiB1CaMw7%2BdQ%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Xia Chenkun | Mutsuura Yuta | B+R | 2016-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xDoWTiYu4tTcjx7a4w8rXQ%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Park Kyuongkeun | Xia Chenkun | W+0.5 | 2016-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rv0cOsGNAV2Hd5JAiyIivg%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Xia Chenkun | Chen Qirui | B+R | 2016-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6FpEXjP53kkdwN3ZkdTj4Q%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦F3 | Park Junghwan | Xia Chenkun | B+R | 2016-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2D7Dv3EpLF8TLVfcEhMJUA%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦F2 | Xia Chenkun | Tan Xiao | W+R | 2016-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k6huS7pLO%2BqKi5Q2J88d4w%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦F1 | Xia Chenkun | Huang Yunsong | B+0.5 | 2016-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XJk4p%2F99%2BsCbG8S4WVtdtQ%3D%3D) | 
-| 第21回三星火災杯統合予選決勝 | Lian Xiao | Xia Chenkun | W+R | 2016-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lXFqdCYwBXuAE598JrCysA%3D%3D) | 
-| 第3回百霊杯世界オープン戦1回戦 | Xia Chenkun | Park Yeonghun | W+0.5 | 2016-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BK9JA%2BgJQqNPZtO9ztM4Bw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第10節 | Xia Chenkun | missing | W+R | 2016-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tficsP0IcVW2ls7%2F6GqRIw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第9節 | Lian Xiao | Xia Chenkun | B+R | 2016-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iJIvc0AmVO%2FAQQvvyY0ZZA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第8節 | Xia Chenkun | Dang Yifei | W+R | 2016-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KGzxbCztgWxdcxvTMO0MUg%3D%3D) | 
-| 第18期阿含・桐山杯中国早碁オープン戦2回戦 | Xia Chenkun | Huang Yunsong | W+R | 2016-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VF7ejgKMPQzE%2FBDpk%2FmA%2Fg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第7節 | Qin Yuexin | Xia Chenkun | W+R | 2016-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b1UJgo1lQbezcix3hWYj%2Bw%3D%3D) | 
-| 2016CCTV杯中国囲棋電視快棋戦1回戦 | Xia Chenkun | Yang Kaiwen | W+R | 2016-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QFzAjRjEnx3s8aXh7zMD6w%3D%3D) | 
-| 第18期阿含・桐山杯中国早碁オープン戦1回戦 | Xia Chenkun | Zhou Ruiyang | B+R | 2016-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6Eg%2FNqAU88iK2HSCo%2FdRdQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第4節 | Li Xuanhao | Xia Chenkun | B+R | 2016-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CLH3%2BafGWtF8mb0poH0%2BQg%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Xia Chenkun | Chen Zijian | W+R | 2016-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O6NsqOyT6wiuzpZG4ZvQLQ%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Xia Chenkun | Zhong Wenjing | B+R | 2016-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7a4ALuRVxm359NXAjyK4ZA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第2節 | Xia Chenkun | Piao Wenyao | W+R | 2016-04-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HgKeUHUG08cXWGIv%2Fedy7g%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第1節 | Yi Lingtao | Xia Chenkun | W+R | 2016-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9TxExJIhzxxMuulAcBwEnA%3D%3D) | 
-| 第21回LG杯予選 | Fan Yunruo | Xia Chenkun | B+3.5 | 2016-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p5TK5AxhVcQVAJUF%2FEiXpQ%3D%3D) | 
-| 第21回LG杯予選 | Park Jaekeun | Xia Chenkun | W+R | 2016-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gTbTnsUsc%2BAUBsIOPwsJ%2Fg%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦予選 | Xia Chenkun | Liu Xing | W+R | 2016-02-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FOvvHsGe9a3mH29FkikHmA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第22節 | Ding Shixiong | Xia Chenkun | W+R | 2015-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=85TRdV6KuyjMexgqEOjDDQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第20節 | Yang Kaiwen | Xia Chenkun | B+R | 2015-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nbl5LAQMqSM3MFS9sPYZKw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第19節 | Wang Xi | Xia Chenkun | B+1.5 | 2015-11-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F7JjJFaypuPXvwU3x2CjyA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第17節 | Xia Chenkun | Xu Jiayang | W+R | 2015-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NZTVgHr79RwqHMLIht8ZuQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第15節 | Xia Chenkun | Chen Xian | W+R | 2015-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FFqzTm9swpMbXHXWYPCi9Q%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第14節 | Xia Chenkun | Tong Mengcheng | B+R | 2015-09-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XXfdZvH8aEBo7X9GNvJknA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第13節 | Fan Yunruo | Xia Chenkun | W+R | 2015-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eS3dmhwsFMQ%2FU1PCZSeAGQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第12節 | missing | Xia Chenkun | W+R | 2015-09-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KsKEtfsUUP4s8r%2BQSJqU1g%3D%3D) | 
-| 2015年全国囲棋個人戦男子組第8戦 | Xia Chenkun | missing | W+R | 2015-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D3heYyBGwUWQGRCICkUf8A%3D%3D) | 
-| 2015年全国囲棋個人戦男子組第7戦 | Gu Zihao | Xia Chenkun | B+R | 2015-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G0cBpbov9EJRZqpDrSloxg%3D%3D) | 
-| 2015年中国段位戦 | Xia Chenkun | Tao Xinran | W+R | 2015-07-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Av7U9BmGJVJo7Z85TVZmKg%3D%3D) | 
-| 2015年中国段位戦 | Wang Yanhao | Xia Chenkun | B+R | 2015-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iXa3%2FdwP9VPN7W8iJp1y1w%3D%3D) | 
-| 2015年中国段位戦 | Xia Chenkun | Tong Yulin | W+R | 2015-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jgHwPlyZ7tjsK9QAFktuiA%3D%3D) | 
-| 2015年中国段位戦 | Cao Xiaoyang | Xia Chenkun | W+R | 2015-07-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L1Lr8cb5F94%2BjYKwu6ctzw%3D%3D) | 
-| 2015年中国段位戦 | Xia Chenkun | Yang Kaiwen | W+R | 2015-07-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rtLyOngDTZazsJeaEXvp3w%3D%3D) | 
-| 2015年中国段位戦 | Qin Yuexin | Xia Chenkun | B+R | 2015-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KJIsIR6cV%2BP5HOx%2FnyrXvg%3D%3D) | 
-| 2015年中国段位戦 | Xia Chenkun | Zhao Chenyu | W+R | 2015-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vmeMHJAHy%2BxZ4ye%2FY9gEzw%3D%3D) | 
-| 2015年中国段位戦 | Xia Chenkun | missing | W+R | 2015-07-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qmNkX%2FTP7znBBteCEXqNzA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第9節 | Gu Zihao | Xia Chenkun | B+1.5 | 2015-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FbFIMVq6k63sJcMmvpaNXA%3D%3D) | 
-| 第7期中国竜星戦予選 | Xia Chenkun | Xie Ke | W+T | 2015-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mdICYrxnt%2FVh5v1gFkJBuA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第8節 | Yang Dingxin | Xia Chenkun | W+R | 2015-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AVifB5M00m7%2FN%2FUUDXR0Zg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第7節 | Xia Chenkun | Zhang Tao | B+R | 2015-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hYSQGUsqKrylDzWdDO5V4Q%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第5節 | Xia Chenkun | missing | W+R | 2015-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RLIHqbY9GjHb3Aqrg%2Bm%2B6w%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第3節 | Xia Chenkun | Meng Tailing | W+R | 2015-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DLD1cFVunoMe4KW5p4IoDQ%3D%3D) | 
-| 第28期中国囲碁名人戦1回戦 | Huang Yunsong | Xia Chenkun | B+R | 2015-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S2e6D1BvLg6Khfau2kWcMw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第2節 | Fan Yunruo | Xia Chenkun | B+R | 2015-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U09IoSEVLg7UW%2BoVal154Q%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第1節 | Lian Xiao | Xia Chenkun | B+R | 2015-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=15hun4JEAc7po7CYCS00kQ%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦予選 | Xie Erhao | Xia Chenkun | B+R | 2015-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GHKhkUYiiBJ2p2D%2B%2FmxumQ%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦3回戦 | Xia Chenkun | Tong Mengcheng | W+R | 2014-12-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aySZYbgrsrl61CUxq5%2Fq1Q%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦2回戦 | Xia Chenkun | Yu Zhengqi | B+R | 2014-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jO1dSy4z5BmmG%2F6jHAYX9w%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦1回戦 | Hsu Chiayuan | Xia Chenkun | W+4.5 | 2014-12-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Es6Kn2vIz3%2B%2Fg3fRBZK4cw%3D%3D) | 
-| 2014年国際新鋭囲碁対抗戦第3戦 | Chen Qirui | Xia Chenkun | W+3.5 | 2014-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=efccOSGatW56OaghQftpBA%3D%3D) | 
-| 2014年国際新鋭囲碁対抗戦第2戦 | Kim Jinhyu | Xia Chenkun | W+R | 2014-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ckl%2Fwn8fkzFTAAs2BXJA6A%3D%3D) | 
-| 2014年国際新鋭囲碁対抗戦第1戦 | Xia Chenkun | Koyama Kuya | B+4.5 | 2014-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EgI9gMK8UeSGscRtwiYrzQ%3D%3D) | 
-| 第27期中国囲碁名人戦準決勝 | Xia Chenkun | Zhou Ruiyang | W+R | 2014-05-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Ip2lOZvDOS2RZ3bS1%2Bbjw%3D%3D) | 
-| 第11期倡棋杯中国プロ囲碁選手権戦予選 | Xia Chenkun | Li Zhe | W+R | 2014-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qqfJju9BWr4goEkG40Edwg%3D%3D) | 
-| 第11期倡棋杯中国プロ囲碁選手権戦予選 | Sun Li | Xia Chenkun | W+5 | 2014-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0WSJsLeMYzNg%2Fk4GeOQHlQ%3D%3D) | 
-| 第1回グロービス杯世界囲碁U-20三位決定戦 | Lian Xiao | Xia Chenkun | B+3.5 | 2014-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vjvbXlEET47gVnoF%2F0IaDA%3D%3D) | 
-| 第1回グロービス杯世界囲碁U-20準決勝 | Hsu Chiayuan | Xia Chenkun | B+R | 2014-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f7UpVrFaz9w8C7%2F%2B2CMvLg%3D%3D) | 
-| 第1回グロービス杯世界囲碁U-20準々決勝 | Xia Chenkun | Lin Junyan | B+8.5 | 2014-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MbXjhcvE7ez641PW2kemuw%3D%3D) | 
-| 第1回グロービス杯世界囲碁U-20グループリーグA | Xia Chenkun | Tsuruta Kazushi | B+2.5 | 2014-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NFoqJEoZwoFkaLA%2BU6sr5A%3D%3D) | 
-| 第1回グロービス杯世界囲碁U-20グループリーグA | Xia Chenkun | Na Hyun | B+R | 2014-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FT%2B4NvfnZTOJ%2BZX0v%2FD8Dg%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Mi Yuting | Xia Chenkun | W+R | 2014-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Oj%2FWksm7a91JkCjim%2F9SVg%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Yu Zhengqi | Xia Chenkun | W+6.5 | 2014-05-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Ftxdg%2FRdMhtIjx8s5vd1%2BQ%3D%3D) | 
-| 第19回LG杯予選 | Xia Chenkun | Piao Wenyao | W+R | 2014-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N6SRp7MDJtBfZThsy2HkuA%3D%3D) | 
-| 第27期中国囲碁名人戦3回戦 | Xia Chenkun | Kong Jie | B+R | 2014-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g%2FRAmQFfZCLxg2MmYEqR0w%3D%3D) | 
-| 第27期中国囲碁名人戦2回戦 | Xia Chenkun | Shi Yue | B+R | 2014-04-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iJS13i7EiwtY4TS4WpArJA%3D%3D) | 
-| 第27期中国囲碁名人戦1回戦 | Xia Chenkun | Dang Yifei | B+R | 2014-04-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3aK7uz2P76BCEcMBxf22ng%3D%3D) | 
-| 第27期中国囲碁名人戦予選 | Xia Chenkun | Yu Bin | B+3.5 | 2014-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xrc2wpf7FPlsCG%2BNEv3QoQ%3D%3D) | 
-| 第11期倡棋杯中国プロ囲碁選手権戦予選 | Yin Hang | Xia Chenkun | W+R | 2014-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I5Xq2voelqg1MHwIbspGLw%3D%3D) | 
-| 第27期中国囲碁名人戦予選 | Xia Chenkun | missing | B+1.5 | 2014-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ns84%2FusySW5Vbs3Bxrs5Aw%3D%3D) | 
-| 第18回LG杯朝鮮日報棋王戦3回戦 | Xia Chenkun | Li Zhe | W+R | 2013-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BHZ5pe2iZ45aBHAk3NFnPA%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第3ステージ | Xia Chenkun | missing | W+R | 2013-08-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6fNu31%2B9hccaryR1SY0UCw%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Xia Chenkun | Tong Yulin | B+1.5 | 2013-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=92Ggj%2Bv4uG56JhmHZ6tP7Q%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | An Dongxu | Xia Chenkun | W+R | 2013-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0%2FTXbe8ZRG2rLMIn7CJyJA%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Huang Yunsong | Xia Chenkun | W+R | 2013-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3E%2F4wZq0AYIKrst8UKcG3A%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Xia Chenkun | missing | B+3.5 | 2013-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JQVTsrI0zS6%2BM%2BPgfLxkew%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Xia Chenkun | missing | B+R | 2013-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EZiFZZv1opLoDAhNMZCLRA%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Shu Yixiao | Xia Chenkun | B+R | 2013-06-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3HdpuVg5TQ0kehNSLOjcDg%3D%3D) | 
-| 第18回LG杯朝鮮日報棋王戦2回戦 | Kim Sonjin | Xia Chenkun | W+2.5 | 2013-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D%2BJ8iZs11tquvCv7pvb8Cg%3D%3D) | 
-| 第18回LG杯朝鮮日報棋王戦1回戦 | Kim Jiseok | Xia Chenkun | W+0.5 | 2013-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k%2BGo4JWDr7Cf3qqpYQ%2F8%2Fw%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Li Qincheng | Xia Chenkun | W+0.5 | 2013-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FveYPWg91f%2Bx7ItYutMoHg%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Tuo Jiaxi | Xia Chenkun | B+R | 2013-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4lTgw0xn73uIQLY1qRRafg%3D%3D) | 
-| 第26期中国囲碁名人戦予選 | Xia Chenkun | missing | W+R | 2013-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jUq0A5xt3ZigDP6qWcGX9w%3D%3D) | 
-| 2012ジャステック杯国際新鋭囲碁対抗戦第3戦 | Xia Chenkun | Shin Jinseo | B+R | 2012-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AL41dAtmWn9vc2Y2Q5oZgQ%3D%3D) | 
-| 2012ジャステック杯国際新鋭囲碁対抗戦第2戦 | Xia Chenkun | Lin Lixiang | W+R | 2012-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e8K%2BLZdtalBkunkHVdL4mA%3D%3D) | 
-| 2012ジャステック杯国際新鋭囲碁対抗戦第1戦 | Yu Zhengqi | Xia Chenkun | W+R | 2012-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KZCOnFgnlhLJnLu%2Bdp%2Fv%2FQ%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Xia Chenkun | Xu Yidi | Win | B+R | 7.5 | 3314 | -5 | 
+| 2021-05-12 | 第23回中国囲碁甲級リーグ | Lian Xiao | Xia Chenkun | Win | W+R | 7.5 | 3319 | 26 | 
+| 2021-05-11 | 第23回中国囲碁甲級リーグ | Huang Xin | Xia Chenkun | Win | W+R | 7.5 | 3293 | 16 | 
+| 2021-05-10 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Xia Chenkun | Lose | B+R | 7.5 | 3277 | -18 | 
+| 2021-05-08 | 第23回中国囲碁甲級リーグ  | Xia Chenkun | Shibano Toramaru | Win | B+R | 7.5 | 3295 | 38 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Byun Sangil | Xia Chenkun | Lose | B+2¾ | 7.5 | 3257 | -44 | 
+| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Xia Chenkun | Gu Zihao | Lose | W+R | 7.5 | 3301 | -11 | 
+| 2021-04-09 | 第17回倡棋杯中国プロ囲碁選手権戦 | Xia Chenkun | Chen Zijian | Win | B+R | 7.5 | 3312 | -57 | 
+| 2021-03-18 | 第35期中国囲碁天元戦1回戦 | Ding Hao | Xia Chenkun | Lose | B+R | 7.5 | 3369 | 28 | 
+| 2021-03-09 | 第35期中国囲碁天元戦予選 | Gu Lingyi | Xia Chenkun | Win | W+2¼ | 7.5 | 3341 | -88 | 
+| 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Chen Xian | Lose | W+R | 7.5 | 3429 | -19 | 
+| 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Chen Xian | Xia Chenkun | Lose | B+R | 7.5 | 3448 | -7 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Huang Mingyu | Xia Chenkun | Win | W+R | 7.5 | 3455 | 61 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Lyu Liyan | Xia Chenkun | Win | W+R | 7.5 | 3394 | -29 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Sun Tengyu | Xia Chenkun | Win | W+R | 7.5 | 3423 | 110 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Xia Chenkun | He Yuhan | Lose | W+R | 7.5 | 3313 | -149 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Xia Chenkun | Dang Yifei | Lose | W+R | 7.5 | 3462 | -85 | 
+| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Xia Chenkun | Cao Xiaoyang | Lose | W+R | 7.5 | 3547 | -70 | 
+| 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Yang Kaiwen | Xia Chenkun | Lose | B+R | 7.5 | 3617 | -35 | 
+| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Wang Shiyi | Xia Chenkun | Lose | B+¾ | 7.5 | 3652 | -64 | 
+| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Rong Yi | Xia Chenkun | Lose | B+R | 7.5 | 3716 | -98 | 
+| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Xia Chenkun | Mi Yuting | Lose | W+R | 7.5 | 3814 | -69 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 |  | Xia Chenkun | Win | W+R | 7.5 | 3883 | -1 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Fan Tingyu | Xia Chenkun | Win | W+R | 7.5 | 3884 | 712 | 
+| 2019-12-11 | 第21回中国囲碁甲級リーグ優勝決定戦第2戦 | Li Qincheng | Xia Chenkun | Lose | B+R | 7.5 | 3172 | -15 | 
+| 2019-12-09 | 第21回中国囲碁甲級リーグ優勝決定戦第1戦 | Li Qincheng | Xia Chenkun | Win | W+¼ | 7.5 | 3187 | -5 | 
+| 2019-11-06 | 第21回中国囲碁甲級リーグプレーオフ3回戦第2戦 | Sun Tengyu | Xia Chenkun | Win | W+¼ | 7.5 | 3192 | 16 | 
+| 2019-11-04 | 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 | Xia Chenkun | Sun Tengyu | Win | B+R | 7.5 | 3176 | 41 | 
+| 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Hu Yaoyu | Xia Chenkun | Win | W+2¼ | 7.5 | 3135 | 14 | 
+| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Li Weiqing | Xia Chenkun | Win | W+R | 7.5 | 3121 | 63 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Huang Jingyuan | Xia Chenkun | Win | W+2¼ | 7.5 | 3058 | 7 | 
+| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Xia Chenkun | Sun Tengyu | Lose | W+R | 7.5 | 3051 | -47 | 
+| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Chen Hao | Xia Chenkun | Lose | B+R | 7.5 | 3098 | -31 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Wang Zejin | Xia Chenkun | Win | W+R | 7.5 | 3129 | -14 | 
+| 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Chen Zijian | Xia Chenkun | Win | W+1¼ | 7.5 | 3143 | 44 | 
+| 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Li Weiqing | Xia Chenkun | Lose | B+R | 7.5 | 3099 | -10 | 
+| 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Gu Lingyi | Xia Chenkun | Win | W+R | 7.5 | 3109 | -2 | 
+| 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Yang Kaiwen | Xia Chenkun | Win | W+R | 7.5 | 3111 | 28 | 
+| 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Xia Chenkun | Zhao Chenyu | Win | B+R | 7.5 | 3083 | 28 | 
+| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Shen Peiran | Xia Chenkun | Lose | B+R | 7.5 | 3055 | -26 | 
+| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Li Xuanhao | Xia Chenkun | Lose | B+R | 7.5 | 3081 | -6 | 
+| 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Xia Chenkun | Lian Xiao | Lose | W+R | 7.5 | 3087 | -46 | 
+| 2019-04-19 | 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Xia Chenkun | Liao Yuanhe | Lose | W+R | 7.5 | 3133 | -19 | 
+| 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 |  | Xia Chenkun | Win | W+2¼ | 7.5 | 3152 | 18 | 
+| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節杭州-北京 | Kim Myounghoon | Xia Chenkun | Win | W+R | 7.5 | 3134 | -4 | 
+| 2019-04-04 | 第24回LG杯統合予選3回戦 | Na Hyun | Xia Chenkun | Lose | B+1.5 | 6.5 | 3138 | 4 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Xia Chenkun | Li Xuanhao | Win | B+R | 7.5 | 3134 | 0 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Xia Chenkun | Chen Zijian | Lose | W+R | 7.5 | 3134 | 55 | 
+| 2019-03-04 | 第16期倡棋杯中国プロ囲棋選手権戦2回戦 | Xia Chenkun | Peng Liyao | Win | B+R | 7.5 | 3079 | 28 | 
+| 2019-03-03 | 第16期倡棋杯中国プロ囲棋選手権戦1回戦 | Xia Chenkun | Chen Zijian | Win | B+R | 7.5 | 3051 | 20 | 
+| 2019-02-28 | 第16期倡棋杯中国プロ囲棋選手権戦予選準決勝 | Xia Chenkun | Gu Li | Win | B+¾ | 7.5 | 3031 | -37 | 
+| 2019-01-03 | 第33期中国囲碁天元戦予選 | Lu Minquan | Xia Chenkun | Lose | B+R | 7.5 | 3068 | -34 | 
+| 2018-12-23 | 第4期洛陽白雲山杯中国棋聖戦入囲戦 | Ding Shixiong | Xia Chenkun | Lose | B+R | 7.5 | 3102 | -23 | 
+| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節杭州-蘇泊爾 | Xia Chenkun | Xie Ke | Lose | W+R | 7.5 | 3125 | -5 | 
+| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節天津-杭州 | Wang Zejin | Xia Chenkun | Lose | B+R | 7.5 | 3130 | -67 | 
+| 2018-11-16 | 第20回中国囲碁甲級リーグ第24節杭州-江蘇 | Xia Chenkun | Huang Yunsong | Lose | W+R | 7.5 | 3197 | -6 | 
+| 2018-11-09 | 第20回中国囲碁甲級リーグ第23節廈門-杭州 | Zhou Ruiyang | Xia Chenkun | Lose | B+R | 7.5 | 3203 | -15 | 
+| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節杭州-浙江 | Xia Chenkun | Shin Minjun | Win | B+R | 7.5 | 3218 | -2 | 
+| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節上海-杭州 | Liao Xingwen | Xia Chenkun | Lose | B+R | 7.5 | 3220 | -18 | 
+| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節杭州-江西 | Yang Kaiwen | Xia Chenkun | Win | W+1¼ | 7.5 | 3238 | 11 | 
+| 2018-10-13 | 第14期威孚房開杯棋王戦32強戦 | Xia Chenkun | Tong Mengcheng | Lose | W+R | 7.5 | 3227 | -15 | 
+| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節山東-杭州 | Jiang Weijie | Xia Chenkun | Lose | B+R | 7.5 | 3242 | -18 | 
+| 2018-10-08 | 第20回中国囲碁甲級リーグ第18節杭州-成都 | Xia Chenkun | Dang Yifei | Lose | W+R | 7.5 | 3260 | -14 | 
+| 2018-09-28 | 第20回中国囲碁甲級リーグ第17節衢州-杭州 | Xia Chenkun | Hu Yuhan | Lose | W+R | 7.5 | 3274 | -55 | 
+| 2018-09-19 | 2018年全国囲棋個人戦男子組第6戦 |  | Xia Chenkun | Lose | B+R | 7.5 | 3329 | 0 | 
+| 2018-09-19 | 2018年全国囲棋個人戦男子組第5戦 | Xia Chenkun |  | Lose | W+R | 7.5 | 3329 | -37 | 
+| 2018-09-16 | 2018年全国囲棋個人戦男子組第3戦 | Xia Chenkun | Wang Xinghao | Win | B+R | 7.5 | 3366 | 3 | 
+| 2018-09-15 | 2018年全国囲棋個人戦男子組第2戦 | Xia Chenkun | Liu Qifeng | Win | B+R | 7.5 | 3363 | -3 | 
+| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節杭州-重慶 | Gu Li | Xia Chenkun | Win | W+R | 7.5 | 3366 | 2 | 
+| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節民生-杭州 | Sun Tengyu | Xia Chenkun | Win | W+R | 7.5 | 3364 | 13 | 
+| 2018-09-08 | 第20回中国囲碁甲級リーグ第14節杭州-中信 | Kim Myounghoon | Xia Chenkun | Lose | B+R | 7.5 | 3351 | -23 | 
+| 2018-07-16 | 第20回中国囲碁甲級リーグ第10節杭州-廈門 | Zhou Ruiyang | Xia Chenkun | Win | W+1¼ | 7.5 | 3374 | 38 | 
+| 2018-06-29 | 第20期阿含・桐山杯中国早碁オープン戦本選決勝 | Xia Chenkun | Tu Xiaoyu | Lose | W+¼ | 7.5 | 3336 | -11 | 
+| 2018-06-25 | 第20回中国囲碁甲級リーグ第9節浙江-杭州 | Xia Chenkun | Zhou Hexi | Win | B+R | 7.5 | 3347 | -17 | 
+| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節杭州-上海 | Hu Yaoyu | Xia Chenkun | Win | W+R | 7.5 | 3364 | -41 | 
+| 2018-05-21 | 第20回中国囲碁甲級リーグ第7節江西-杭州 | Tu Xiaoyu | Xia Chenkun | Win | W+R | 7.5 | 3405 | 36 | 
+| 2018-05-14 | 第20回中国囲碁甲級リーグ第6節杭州-山東 | Xia Chenkun | Yi Lingtao | Lose | W+R | 7.5 | 3369 | -19 | 
+| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節成都-杭州 | Xia Chenkun | Dang Yifei | Win | B+R | 7.5 | 3388 | 78 | 
+| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節杭州-衢州 | Xia Chenkun | Huang Xin | Win | B+R | 7.5 | 3310 | -2 | 
+| 2018-04-10 | 2018CCTV杯中国囲棋電視快棋戦3回戦 | Zhou Ruiyang | Xia Chenkun | Lose | B+R | 7.5 | 3312 | -18 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦2回戦 | Xia Chenkun | Li Xuanhao | Win | B+R | 7.5 | 3330 | 0 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Xia Chenkun | Tan Xiao | Win | B+2¾ | 7.5 | 3330 | 76 | 
+| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節重慶-杭州 | Xia Chenkun | Gu Li | Win | B+R | 7.5 | 3254 | -7 | 
+| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節杭州-民生 | Tao Xinran | Xia Chenkun | Lose | B+R | 7.5 | 3261 | -45 | 
+| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節中信-杭州 | Xia Chenkun | Tuo Jiaxi | Lose | W+R | 7.5 | 3306 | 29 | 
+| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Xia Chenkun | Wang Zejin | Win | B+R | 7.5 | 3277 | 39 | 
+| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Zhao Chenyu | Xia Chenkun | Lose | B+R | 7.5 | 3238 | -9 | 
+| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Xia Chenkun |  | Win | B+R | 7.5 | 3247 | 23 | 
+| 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Xia Chenkun | Huang Xin | Win | B+R | 7.5 | 3224 | -5 | 
+| 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Tuo Jiaxi | Xia Chenkun | Lose | B+R | 7.5 | 3229 | 33 | 
+| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Xia Chenkun | Li Zhe | Win | B+R | 7.5 | 3196 | 26 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Wang Haoyang | Xia Chenkun | Lose | B+R | 7.5 | 3170 | -26 | 
+| 2017-09-20 | 2017年全国囲棋個人戦男子組第7戦 | Xia Chenkun | Zheng Xu | Win | B+R | 7.5 | 3196 | 45 | 
+| 2017-09-15 | 2017年全国囲棋個人戦男子組第2戦 |  | Xia Chenkun | Win | W+R | 7.5 | 3151 | 4 | 
+| 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Xia Chenkun | Li Xuanhao | Win | B+R | 7.5 | 3147 | 22 | 
+| 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Xia Chenkun | Xie Ke | Lose | W+0.5 | 7.5 | 3125 | -15 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Gu Lingyi | Xia Chenkun | Win | W+0.5 | 7.5 | 3140 | 11 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Xia Chenkun |  | Lose | W+R | 7.5 | 3129 | -2 | 
+| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Meng Tailing | Xia Chenkun | Win | W+R | 7.5 | 3131 | 22 | 
+| 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Xia Chenkun | Zhao Chenyu | Win | B+R | 7.5 | 3109 | 45 | 
+| 2017-07-22 | 嫘祖杯30回中国名人戦新浪網選決勝 | Xia Chenkun |  | Lose | W+R | 7.5 | 3064 | 5 | 
+| 2017-07-20 | 嫘祖杯30回中国名人戦新浪網選3回戦 |  | Xia Chenkun | Win | W+R | 7.5 | 3059 | -15 | 
+| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Tao Xinran | Xia Chenkun | Lose | B+R | 7.5 | 3074 | -9 | 
+| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Xia Chenkun |  | Lose | W+R | 7.5 | 3083 | -21 | 
+| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Li Zhe | Xia Chenkun | Win | W+R | 7.5 | 3104 | 18 | 
+| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Gu Li | Xia Chenkun | Lose | B+R | 7.5 | 3086 | -35 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Choi Cheolhan | Xia Chenkun | Lose | B+R | 7.5 | 3121 | 216 | 
+| 2017-01-13 | 第31期中国囲碁天元戦予選 | Dang Yifei | Xia Chenkun | Lose | B+1.5 | 7.5 | 2905 | -8 | 
+| 2016-12-30 | 第31期中国囲碁天元戦予選 | Jiang Qirun | Xia Chenkun | Win | W+R | 7.5 | 2913 | 11 | 
+| 2016-12-29 | 第31期中国囲碁天元戦予選 |  | Xia Chenkun | Win | W+R | 7.5 | 2902 | 10 | 
+| 2016-12-28 | 第31期中国囲碁天元戦予選 | Xia Chenkun |  | Win | B+R | 7.5 | 2892 | 12 | 
+| 2016-12-27 | 第31期中国囲碁天元戦予選 | Xia Chenkun |  | Win | B+5.5 | 7.5 | 2880 | 16 | 
+| 2016-12-18 | 嫘祖杯第29期中国名人戦網選4回戦 | Xia Chenkun |  | Lose | W+R | 7.5 | 2864 | -7 | 
+| 2016-12-17 | 嫘祖杯第29期中国名人戦網選3回戦 | Chen Yunong | Xia Chenkun | Win | W+R | 7.5 | 2871 | -13 | 
+| 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Xia Chenkun | Tuo Jiaxi | Lose | W+R | 7.5 | 2884 | 0 | 
+| 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Lian Xiao | Xia Chenkun | Lose | B+R | 7.5 | 2884 | 0 | 
+| 2016-11-12 | 第18回中国囲碁甲級リーグ第18節 | Xia Chenkun | Kim Jiseok | Lose | W+R | 7.5 | 2884 | -40 | 
+| 2016-11-08 | 第1回新奥杯世界囲碁オープン戦2回戦 | Xia Chenkun | Chen Yaoye | Lose | W+R | 7.5 | 2924 | -19 | 
+| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Xia Chenkun | Jiang Zhujiu | Win | B+R | 7.5 | 2943 | 6 | 
+| 2016-11-04 | 第18回中国囲碁甲級リーグ第17節 | Xia Chenkun | Wang Zejin | Lose | W+0.5 | 7.5 | 2937 | 6 | 
+| 2016-10-28 | 第18回中国囲碁甲級リーグ第16節 | Zhao Chenyu | Xia Chenkun | Win | W+R | 7.5 | 2931 | 15 | 
+| 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Xia Chenkun | Niu Yutian | Lose | W+R | 7.5 | 2916 | 21 | 
+| 2016-09-25 | 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Xia Chenkun | Mutsuura Yuta | Win | B+R | 6.5 | 2895 | -27 | 
+| 2016-09-24 | 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Park Kyuongkeun | Xia Chenkun | Win | W+0.5 | 6.5 | 2922 | 8 | 
+| 2016-09-23 | 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Xia Chenkun | Chen Qirui | Win | B+R | 6.5 | 2914 | -123 | 
+| 2016-09-08 | 第21回三星火災杯世界囲碁マスターズ1回戦F3 | Park Junghwan | Xia Chenkun | Lose | B+R | 6.5 | 3037 | -6 | 
+| 2016-09-07 | 第21回三星火災杯世界囲碁マスターズ1回戦F2 | Xia Chenkun | Tan Xiao | Lose | W+R | 6.5 | 3043 | -11 | 
+| 2016-09-06 | 第21回三星火災杯世界囲碁マスターズ1回戦F1 | Xia Chenkun | Huang Yunsong | Win | B+0.5 | 6.5 | 3054 | -58 | 
+| 2016-07-20 | 第21回三星火災杯統合予選決勝 | Lian Xiao | Xia Chenkun | Win | W+R | 6.5 | 3112 | 184 | 
+| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Xia Chenkun | Park Yeonghun | Lose | W+0.5 | 7.5 | 2928 | 15 | 
+| 2016-06-25 | 第18回中国囲碁甲級リーグ第10節 | Xia Chenkun |  | Lose | W+R | 7.5 | 2913 | -44 | 
+| 2016-06-20 | 第18回中国囲碁甲級リーグ第9節 | Lian Xiao | Xia Chenkun | Lose | B+R | 7.5 | 2957 | 0 | 
+| 2016-06-16 | 第18回中国囲碁甲級リーグ第8節 | Xia Chenkun | Dang Yifei | Lose | W+R | 7.5 | 2957 | 4 | 
+| 2016-06-13 | 第18期阿含・桐山杯中国早碁オープン戦2回戦 | Xia Chenkun | Huang Yunsong | Lose | W+R | 7.5 | 2953 | -18 | 
+| 2016-06-06 | 第18回中国囲碁甲級リーグ第7節 | Qin Yuexin | Xia Chenkun | Win | W+R | 7.5 | 2971 | 27 | 
+| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Xia Chenkun | Yang Kaiwen | Lose | W+R | 7.5 | 2944 | 28 | 
+| 2016-05-11 | 第18期阿含・桐山杯中国早碁オープン戦1回戦 | Xia Chenkun | Zhou Ruiyang | Win | B+R | 7.5 | 2916 | 33 | 
+| 2016-05-09 | 第18回中国囲碁甲級リーグ第4節 | Li Xuanhao | Xia Chenkun | Lose | B+R | 7.5 | 2883 | -15 | 
+| 2016-05-03 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Xia Chenkun | Chen Zijian | Lose | W+R | 7.5 | 2898 | -1 | 
+| 2016-05-02 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Xia Chenkun | Zhong Wenjing | Win | B+R | 7.5 | 2899 | 72 | 
+| 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Xia Chenkun | Piao Wenyao | Lose | W+R | 7.5 | 2827 | -16 | 
+| 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Yi Lingtao | Xia Chenkun | Win | W+R | 7.5 | 2843 | 30 | 
+| 2016-04-05 | 第21回LG杯予選 | Fan Yunruo | Xia Chenkun | Lose | B+3.5 | 6.5 | 2813 | -33 | 
+| 2016-03-31 | 第21回LG杯予選 | Park Jaekeun | Xia Chenkun | Win | W+R | 6.5 | 2846 | -10 | 
+| 2016-02-26 | 第13期倡棋杯中国プロ囲碁選手権戦予選 | Xia Chenkun | Liu Xing | Lose | W+R | 7.5 | 2856 | -95 | 
+| 2015-12-06 | 第17回中国囲碁甲級リーグ第22節 | Ding Shixiong | Xia Chenkun | Win | W+R | 7.5 | 2951 | 30 | 
+| 2015-11-13 | 第17回中国囲碁甲級リーグ第20節 | Yang Kaiwen | Xia Chenkun | Lose | B+R | 7.5 | 2921 | -13 | 
+| 2015-11-08 | 第17回中国囲碁甲級リーグ第19節 | Wang Xi | Xia Chenkun | Lose | B+1.5 | 7.5 | 2934 | -9 | 
+| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Xia Chenkun | Xu Jiayang | Lose | W+R | 7.5 | 2943 | 4 | 
+| 2015-09-29 | 第17回中国囲碁甲級リーグ第15節 | Xia Chenkun | Chen Xian | Lose | W+R | 7.5 | 2939 | -15 | 
+| 2015-09-24 | 第17回中国囲碁甲級リーグ第14節 | Xia Chenkun | Tong Mengcheng | Win | B+R | 7.5 | 2954 | 16 | 
+| 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Fan Yunruo | Xia Chenkun | Win | W+R | 7.5 | 2938 | 34 | 
+| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 |  | Xia Chenkun | Win | W+R | 7.5 | 2904 | 15 | 
+| 2015-08-31 | 2015年全国囲棋個人戦男子組第8戦 | Xia Chenkun |  | Lose | W+R | 7.5 | 2889 | -30 | 
+| 2015-08-29 | 2015年全国囲棋個人戦男子組第7戦 | Gu Zihao | Xia Chenkun | Lose | B+R | 7.5 | 2919 | -24 | 
+| 2015-07-27 | 2015年中国段位戦 | Xia Chenkun | Tao Xinran | Lose | W+R | 7.5 | 2943 | -16 | 
+| 2015-07-24 | 2015年中国段位戦 | Wang Yanhao | Xia Chenkun | Lose | B+R | 7.5 | 2959 | -22 | 
+| 2015-07-22 | 2015年中国段位戦 | Xia Chenkun | Tong Yulin | Lose | W+R | 7.5 | 2981 | -19 | 
+| 2015-07-21 | 2015年中国段位戦 | Cao Xiaoyang | Xia Chenkun | Win | W+R | 7.5 | 3000 | 26 | 
+| 2015-07-20 | 2015年中国段位戦 | Xia Chenkun | Yang Kaiwen | Lose | W+R | 7.5 | 2974 | -24 | 
+| 2015-07-16 | 2015年中国段位戦 | Qin Yuexin | Xia Chenkun | Lose | B+R | 7.5 | 2998 | -4 | 
+| 2015-07-15 | 2015年中国段位戦 | Xia Chenkun | Zhao Chenyu | Lose | W+R | 7.5 | 3002 | -26 | 
+| 2015-07-14 | 2015年中国段位戦 | Xia Chenkun |  | Lose | W+R | 7.5 | 3028 | -18 | 
+| 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Gu Zihao | Xia Chenkun | Lose | B+1.5 | 7.5 | 3046 | -34 | 
+| 2015-06-27 | 第7期中国竜星戦予選 | Xia Chenkun | Xie Ke | Lose | W+T | 7.5 | 3080 | -40 | 
+| 2015-06-25 | 第17回中国囲碁甲級リーグ第8節 | Yang Dingxin | Xia Chenkun | Win | W+R | 7.5 | 3120 | -39 | 
+| 2015-06-13 | 第17回中国囲碁甲級リーグ第7節 | Xia Chenkun | Zhang Tao | Win | B+R | 7.5 | 3159 | 64 | 
+| 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Xia Chenkun |  | Lose | W+R | 7.5 | 3095 | -5 | 
+| 2015-05-11 | 第17回中国囲碁甲級リーグ第3節 | Xia Chenkun | Meng Tailing | Lose | W+R | 7.5 | 3100 | -70 | 
+| 2015-05-06 | 第28期中国囲碁名人戦1回戦 | Huang Yunsong | Xia Chenkun | Lose | B+R | 7.5 | 3170 | -80 | 
+| 2015-04-29 | 第17回中国囲碁甲級リーグ第2節 | Fan Yunruo | Xia Chenkun | Lose | B+R | 7.5 | 3250 | 32 | 
+| 2015-04-22 | 第17回中国囲碁甲級リーグ第1節 | Lian Xiao | Xia Chenkun | Lose | B+R | 7.5 | 3218 | -181 | 
+| 2015-03-19 | 第12期倡棋杯中国プロ囲碁選手権戦予選 | Xie Erhao | Xia Chenkun | Lose | B+R | 7.5 | 3399 | -117 | 
+| 2014-12-21 | 2014年利民杯世界囲碁星鋭最強戦3回戦 | Xia Chenkun | Tong Mengcheng | Lose | W+R | 7.5 | 3516 | -31 | 
+| 2014-12-20 | 2014年利民杯世界囲碁星鋭最強戦2回戦 | Xia Chenkun | Yu Zhengqi | Win | B+R | 7.5 | 3547 | 17 | 
+| 2014-12-19 | 2014年利民杯世界囲碁星鋭最強戦1回戦 | Hsu Chiayuan | Xia Chenkun | Win | W+4.5 | 7.5 | 3530 | 141 | 
+| 2014-10-03 | 2014年国際新鋭囲碁対抗戦第3戦 | Chen Qirui | Xia Chenkun | Win | W+3.5 | 6.5 | 3389 | -18 | 
+| 2014-10-02 | 2014年国際新鋭囲碁対抗戦第2戦 | Kim Jinhyu | Xia Chenkun | Win | W+R | 6.5 | 3407 | 32 | 
+| 2014-10-01 | 2014年国際新鋭囲碁対抗戦第1戦 | Xia Chenkun | Koyama Kuya | Win | B+4.5 | 6.5 | 3375 | 35 | 
+| 2014-05-26 | 第27期中国囲碁名人戦準決勝 | Xia Chenkun | Zhou Ruiyang | Lose | W+R | 7.5 | 3340 | 43 | 
+| 2014-05-16 | 第11期倡棋杯中国プロ囲碁選手権戦予選 | Xia Chenkun | Li Zhe | Lose | W+R | 7.5 | 3297 | -22 | 
+| 2014-05-14 | 第11期倡棋杯中国プロ囲碁選手権戦予選 | Sun Li | Xia Chenkun | Win | W+5 | 7.5 | 3319 | 13 | 
+| 2014-05-11 | 第1回グロービス杯世界囲碁U-20三位決定戦 | Lian Xiao | Xia Chenkun | Lose | B+3.5 | 6.5 | 3306 | 0 | 
+| 2014-05-11 | 第1回グロービス杯世界囲碁U-20準決勝 | Hsu Chiayuan | Xia Chenkun | Lose | B+R | 6.5 | 3306 | -68 | 
+| 2014-05-10 | 第1回グロービス杯世界囲碁U-20準々決勝 | Xia Chenkun | Lin Junyan | Win | B+8.5 | 6.5 | 3374 | 0 | 
+| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグA | Xia Chenkun | Tsuruta Kazushi | Win | B+2.5 | 6.5 | 3374 | 0 | 
+| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグA | Xia Chenkun | Na Hyun | Win | B+R | 6.5 | 3374 | 23 | 
+| 2014-05-03 | 2014年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Mi Yuting | Xia Chenkun | Win | W+R | 7.5 | 3351 | 36 | 
+| 2014-05-01 | 2014年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Yu Zhengqi | Xia Chenkun | Win | W+6.5 | 7.5 | 3315 | -133 | 
+| 2014-04-19 | 第19回LG杯予選 | Xia Chenkun | Piao Wenyao | Lose | W+R | 6.5 | 3448 | 21 | 
+| 2014-04-08 | 第27期中国囲碁名人戦3回戦 | Xia Chenkun | Kong Jie | Win | B+R | 7.5 | 3427 | 23 | 
+| 2014-04-06 | 第27期中国囲碁名人戦2回戦 | Xia Chenkun | Shi Yue | Win | B+R | 7.5 | 3404 | 52 | 
+| 2014-04-04 | 第27期中国囲碁名人戦1回戦 | Xia Chenkun | Dang Yifei | Win | B+R | 7.5 | 3352 | 40 | 
+| 2014-04-02 | 第27期中国囲碁名人戦予選 | Xia Chenkun | Yu Bin | Win | B+3.5 | 7.5 | 3312 | 41 | 
+| 2014-03-27 | 第11期倡棋杯中国プロ囲碁選手権戦予選 | Yin Hang | Xia Chenkun | Win | W+R | 7.5 | 3271 | -12 | 
+| 2014-03-23 | 第27期中国囲碁名人戦予選 | Xia Chenkun |  | Win | B+1.5 | 7.5 | 3283 | -32 | 
+| 2013-11-11 | 第18回LG杯朝鮮日報棋王戦3回戦 | Xia Chenkun | Li Zhe | Lose | W+R | 6.5 | 3315 | -237 | 
+| 2013-08-13 | 2013年宏達杯全国囲碁星鋭最強戦第3ステージ | Xia Chenkun |  | Lose | W+R | 7.5 | 3552 | 117 | 
+| 2013-07-02 | 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Xia Chenkun | Tong Yulin | Win | B+1.5 | 7.5 | 3435 | 0 | 
+| 2013-07-02 | 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | An Dongxu | Xia Chenkun | Win | W+R | 7.5 | 3435 | 60 | 
+| 2013-07-01 | 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Huang Yunsong | Xia Chenkun | Win | W+R | 7.5 | 3375 | 0 | 
+| 2013-07-01 | 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Xia Chenkun |  | Win | B+3.5 | 7.5 | 3375 | 0 | 
+| 2013-07-01 | 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Xia Chenkun |  | Win | B+R | 7.5 | 3375 | 36 | 
+| 2013-06-29 | 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Shu Yixiao | Xia Chenkun | Lose | B+R | 7.5 | 3339 | -8 | 
+| 2013-06-12 | 第18回LG杯朝鮮日報棋王戦2回戦 | Kim Sonjin | Xia Chenkun | Win | W+2.5 | 6.5 | 3347 | 44 | 
+| 2013-06-10 | 第18回LG杯朝鮮日報棋王戦1回戦 | Kim Jiseok | Xia Chenkun | Win | W+0.5 | 6.5 | 3303 | 76 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Li Qincheng | Xia Chenkun | Win | W+0.5 | 7.5 | 3227 | 0 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Tuo Jiaxi | Xia Chenkun | Lose | B+R | 7.5 | 3227 | 228 | 
+| 2013-04-10 | 第26期中国囲碁名人戦予選 | Xia Chenkun |  | Lose | W+R | 7.5 | 2999 | -277 | 
+| 2012-09-13 | 2012ジャステック杯国際新鋭囲碁対抗戦第3戦 | Xia Chenkun | Shin Jinseo | Win | B+R | 6.5 | 3276 | 232 | 
+| 2012-09-12 | 2012ジャステック杯国際新鋭囲碁対抗戦第2戦 | Xia Chenkun | Lin Lixiang | Lose | W+R | 6.5 | 3044 | 3044 | 
+| 2012-09-11 | 2012ジャステック杯国際新鋭囲碁対抗戦第1戦 | Yu Zhengqi | Xia Chenkun | Win | W+R | 6.5 | missing | missing |
 
 
 

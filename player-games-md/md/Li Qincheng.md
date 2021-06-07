@@ -5,398 +5,399 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第23回中国囲碁甲級リーグ | Li Qincheng | Jin Yucheng | B+R | 2021-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7RAWSPkZmEHcnLMAUap1IA%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Liao Yuanhe | Li Qincheng | B+¾ | 2021-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rV75aeVUPsrwWX%2BPS9KkaA%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Li Qincheng | Byun Sangil | W+R | 2021-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wFKswnIb4u7z93byanK4og%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Huang Mingyu | Li Qincheng | W+R | 2021-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3XtdiisbKF%2Brn9HTFFLilA%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Li Qincheng | Xie Erhao | B+R | 2021-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BYlSyxBTwO1qizMb%2FX7%2B8w%3D%3D) | 
-| 第35期中国囲碁天元戦挑戦者決定戦 | Gu Zihao | Li Qincheng | B+R | 2021-04-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nR2xq4icUjvvoEmOiU4Fsg%3D%3D) | 
-| 第35期中国囲碁天元戦準決勝 | Ke Jie | Li Qincheng | W+R | 2021-04-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e%2BNB5hheKLyfdFk5QWnr%2FQ%3D%3D) | 
-| 第17回倡棋杯中国プロ囲碁選手権戦 | Li Qincheng | Yang Kaiwen | W+R | 2021-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9YqDH%2B4gKe10316CbLXtJQ%3D%3D) | 
-| 第35期中国囲碁天元戦3回戦 | Liao Yuanhe | Li Qincheng | W+R | 2021-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YTWQ82CbSR5UY5CwRf0lyA%3D%3D) | 
-| 第35期中国囲碁天元戦2回戦 | Xu Jiayang | Li Qincheng | W+¼ | 2021-03-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jXKCE7lxwoM5GSc4D0pSEQ%3D%3D) | 
-| 第35期中国囲碁天元戦1回戦 | Li Qincheng | Jiang Weijie | B+¾ | 2021-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w3paYcGFvWPWj3nDc%2Bnz%2BA%3D%3D) | 
-| 第35期中国囲碁天元戦予選 | Li Qincheng | Tu Xiaoyu | B+R | 2021-03-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FiG0Nv810n1hYkHDxEbrfQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Park Junghwan | Li Qincheng | B+R | 2020-12-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t2RQpV4vRjXF%2BPtPhWaYRw%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Li Qincheng | Gu Lingyi | B+R | 2020-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aawDL8GeQNZFyI1V%2B%2F1woA%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Byun Sangil | Li Qincheng | B+R | 2020-12-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oYcXjR0rL3jU28AQGX8bFQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Li Qincheng | B+¾ | 2020-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZSLTqoBnuWjEwsyZDBdRwQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Li Qincheng | Fan Yin | B+R | 2020-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bvVOCV4CCnfxtq7h8jF%2Fnw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | missing | Li Qincheng | W+1¼ | 2020-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tBw5oOUo3bBN83ggK9m4oA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Li Qincheng | Zhang Tao | W+R | 2020-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oswldFtL5EHDjGJcRONWow%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Xie He | Li Qincheng | W+R | 2020-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JB9g5cMorUJJ5hBu5mY7nQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Li Qincheng | Chen Zhengxun | W+R | 2020-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1vCj82x%2FZCrv2HkJTmJ9ww%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Liao Yuanhe | Li Qincheng | B+R | 2020-12-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bhyHZT1n5GxJVCdm0j8Wpw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Li Qincheng | Chen Zijian | B+¾ | 2020-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i%2Frjb5C8iIT8Q%2B7z076A7w%3D%3D) | 
-| 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Li Qincheng | Dang Yifei | W+R | 2020-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LRd1jHoyKDl%2B0MOhsDHBOA%3D%3D) | 
-| 2020CCTV杯中国囲棋電視快棋戦1回戦 | Xie Ke | Li Qincheng | B+R | 2020-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kzd7J%2FrYXRDtf4XG275IRg%3D%3D) | 
-| 第25回三星火災杯中国一般枠予選 | Li Qincheng | Meng Tailing | W+4.5 | 2020-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xzWsdQhBv%2FpFdf31UttlyA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第8節 | Li Qincheng | Liao Xingwen | B+R | 2020-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eaj7phNMuksAPd7VDSn7RA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第7節 | Li Qincheng | Yang Kaiwen | B+R | 2020-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SMhDQFndWsXZJPQtpA%2BZwg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第6節 | Huang Jingyuan | Li Qincheng | W+R | 2020-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n5AEbMxDCbS2nhFRck%2Fzbw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第5節 | Li Qincheng | Tao Xinran | W+R | 2020-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=15Pa2W%2BrrTXK6B6kgwES3g%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第4節 | Zhao Chenyu | Li Qincheng | W+R | 2020-08-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6ydc9pG7z7nF8H%2Fy1ISdDA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第3節 | Li Qincheng | missing | B+R | 2020-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bhxfQ1YzQ4fEu2RAvZXtSA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第2節 | Zhou Ruiyang | Li Qincheng | W+R | 2020-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JnRo%2BSfExHvtH2%2FYbyN15w%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第1節 | Li Qincheng | Huang Mingyu | B+R | 2020-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8AibSeJUrzU2eXA5Tk2eTQ%3D%3D) | 
-| 第25回LG杯中国予選 | Li Qincheng | Jiang Weijie | W+R | 2020-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b%2FFNx7llVRnslJD5gW4SVQ%3D%3D) | 
-| 第34期中国囲碁天元戦1回戦 | Li Qincheng | Jiang Weijie | W+R | 2020-01-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FGDmq%2FxiUCsHZUs2wzdmOQ%3D%3D) | 
-| 第34期中国囲碁天元戦予選 | Yu Zhiying | Li Qincheng | W+R | 2020-01-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t31JnTk1gKtcNIFFkRYSUw%3D%3D) | 
-| 第5期洛陽白雲山杯中国棋聖戦予選 | Zhao Chenyu | Li Qincheng | B+R | 2019-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DXwEQaNVwhNqP9EWBYfBZw%3D%3D) | 
-| 第5期洛陽白雲山杯中国棋聖戦予選 | Li Qincheng | Tang Weixing | B+R | 2019-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FlLQW0zKPqiEsJjxxCo7vA%3D%3D) | 
-| 第11期中国竜星戦予選 | Wu Guangya | Li Qincheng | B+R | 2019-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x8M3J1z9juPUtnzjmh5dQQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ優勝決定戦第2戦 | Li Qincheng | Xia Chenkun | B+R | 2019-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fVZs%2FfXaBpZgsk2J%2F9uznQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ優勝決定戦第1戦 | Li Qincheng | Xia Chenkun | W+¼ | 2019-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MDW27a54tWCHuI7C2WSo%2Fw%3D%3D) | 
-| 第4回全国智力運動会男子団体戦第8戦 | Li Qincheng | Yi Lingtao | W+1¼ | 2019-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VzeIEcyivozyHsYj9CZByA%3D%3D) | 
-| 第4回全国智力運動会男子団体戦第6戦 | Chen Yunong | Li Qincheng | B+R | 2019-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2FkjaoBgiBnwMEnnDQXf%2FQ%3D%3D) | 
-| 第4回全国智力運動会男子団体戦第4戦 | Li Qincheng | He Yuhan | B+¾ | 2019-11-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CbWXxIQ50pqjAcXIHyFBzw%3D%3D) | 
-| 第4回全国智力運動会プロ男子個人戦優勝決定戦 | Li Qincheng | Jiang Weijie | W+R | 2019-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RaJWLiI7xQZioOSL3Ob1yA%3D%3D) | 
-| 第4回全国智力運動会プロ男子個人戦第7戦 | Li Xuanhao | Li Qincheng | W+R | 2019-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XKyTzSdqi6xJaa2Jbz1GiA%3D%3D) | 
-| 第4回全国智力運動会プロ男子個人戦第6戦 | Li Qincheng | Fan Tingyu | B+R | 2019-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n9eKwTBYY3yuqmrioMlR1A%3D%3D) | 
-| 第4回全国智力運動会プロ男子個人戦第5戦 | Han Yizhou | Li Qincheng | W+R | 2019-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UBclOj3QJ8%2FrS2jG%2FKpK7g%3D%3D) | 
-| 第4回全国智力運動会プロ男子個人戦第4戦 | Li Qincheng | Tuo Jiaxi | B+R | 2019-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=294R79cLZo%2B%2FVGp0L7pTpw%3D%3D) | 
-| 第4回全国智力運動会プロ男子個人戦第2戦 | Li Qincheng | Cheng Honghao | B+R | 2019-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8cKJ3ZfvKlvKa7Q%2FE4nP5g%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ3回戦第2戦 | Li Qincheng | Zhao Chenyu | B+R | 2019-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XdpGP2QT22WLsotpWucMjg%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 | Chen Xian | Li Qincheng | B+R | 2019-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BUTQSdlN%2BUl3XuMLu6Tihw%3D%3D) | 
-| 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Park Junghwan | Li Qincheng | B+R | 2019-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EjIbR5RARCmil9UyGlxlkw%3D%3D) | 
-| 第15期威孚房開杯棋王戦16強戦 | Li Qincheng | Mi Yuting | W+R | 2019-09-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tmLRpmw7gz%2BX%2BM6PToYV8g%3D%3D) | 
-| 第24回三星火災杯世界囲碁マスターズ2回戦 | Li Qincheng | Shin Minjun | W+R | 2019-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=81lF2btaw8yv75uwASebGw%3D%3D) | 
-| 第24回三星火災杯世界囲碁マスターズ1回戦 | Li Qincheng | Hsu Chiayuan | B+R | 2019-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AzbUBHAX6K%2FK%2FoneeEB0OA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第15節 | Li Qincheng | Li Weiqing | W+R | 2019-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H6xXnX6FD2iklzmnkeDkzQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第14節 | Liao Yuanhe | Li Qincheng | B+R | 2019-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yHKM4W5QSO8DpNeM%2B%2Bab3w%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第13節 | Li Qincheng | Byun Sangil | W+R | 2019-08-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mWd157c12k%2F7YsnUvazmSg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第12節 | Chen Xian | Li Qincheng | W+R | 2019-08-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9hUzLOHFHAZGq%2FrSGxV1IA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第11節 | Li Qincheng | Shen Peiran | B+R | 2019-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cYCHYDMh0OFaFkmpKdlnVQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第10節 | Li Qincheng | Tan Xiao | W+R | 2019-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A3LGQ8HMg6NqmB9GKWUSjg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第9節 | Li Qincheng | Li Xuanhao | W+R | 2019-07-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B0bX3Gocq%2BJdDZ9vVTSLug%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第8節 | Chen Hao | Li Qincheng | B+R | 2019-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=to5itW5dh0BgDHbE4sIIOQ%3D%3D) | 
-| 第21期阿含・桐山杯中国早碁オープン戦予選決勝 | Li Qincheng | Tuo Jiaxi | W+R | 2019-06-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=epm9sb1v2eKZNzHODpb93w%3D%3D) | 
-| 第21期阿含・桐山杯中国早碁オープン戦予選1回戦 | Yu Zhiying | Li Qincheng | W+R | 2019-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=teKxf4yv6yHacDLFUCp95g%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第7節 | missing | Li Qincheng | W+R | 2019-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V18ScysCANWunAsPF5eFFA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第6節 | Li Qincheng | Han Yizhou | B+R | 2019-06-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lz1y6oCOdFTEiiCOukwWHw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第5節 | Liu Xing | Li Qincheng | W+R | 2019-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0zZstnz4ct5BzQZx8ywrBQ%3D%3D) | 
-| 嫘祖杯第32期中国囲棋名人戦16強戦 | Tong Mengcheng | Li Qincheng | B+R | 2019-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zek9afoolgrc%2BaSb1D7Yfg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第4節 | Li Qincheng | Sun Tengyu | B+R | 2019-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eED5jGN%2BoP%2FJHgJWfTO4uw%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Fan Yin | Li Qincheng | B+R | 2019-04-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8hyJq0eD%2BJg5KIyOUocvlA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第2節 | Li Qincheng | Wang Zejin | W+R | 2019-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XrZj6q1hSKONjXo%2Boh3ulw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第1節濰坊-蘇泊爾 | Yi Lingtao | Li Qincheng | B+R | 2019-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9XE0h8Tb0UxV%2FPYQCdxDqg%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦3回戦 | Li Qincheng | Ding Hao | W+¾ | 2019-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uuIQzVRv9%2FmI08Mh8sIHMQ%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦1回戦 | Li Qincheng | Yu Bin | B+R | 2019-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZGwuW%2Fou8PD6c3sQ8DPKng%3D%3D) | 
-| 第33期中国囲碁天元戦3回戦 | Li Qincheng | Mi Yuting | W+R | 2019-01-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SPL4JW0r6CoTIwEOEalbxA%3D%3D) | 
-| 第4期洛陽白雲山杯中国棋聖戦資格戦 | Shu Yixiao | Li Qincheng | B+R | 2018-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ueX%2BEdT2mhVV1LQVhhut7w%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第26節杭州-蘇泊爾 | Wu Guangya | Li Qincheng | W+R | 2018-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rOETxoskaFLIg%2BW4Y38qsg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第25節蘇泊爾-江蘇 | Li Qincheng | Tong Mengcheng | W+R | 2018-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dGUB%2FCKlP2W%2FmQpriWZUCw%3D%3D) | 
-| 第4回TWTテンセント囲碁選手権決勝 | Ke Jie | Li Qincheng | W+R | 2018-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r0E0djphETiNPAC4nzK3vA%3D%3D) | 
-| 第4回TWTテンセント囲碁選手権準決勝 | Mi Yuting | Li Qincheng | W+R | 2018-11-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9n8ydzozDQ05Ebl64grJiQ%3D%3D) | 
-| 第4回TWTテンセント囲碁選手権8強戦 | Li Qincheng | Fan Yunruo | B+¾ | 2018-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Rol2%2BTRYH2Snz6pSqzCeQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第24節浙江-蘇泊爾 | Zhang Tao | Li Qincheng | W+R | 2018-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v2eIpH80GN9%2BA51vpc2Mzw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第23節蘇泊爾-江西 | Li Qincheng | Byun Sangil | B+R | 2018-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=inPoUBUcuPXO6BvQUXX8ng%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第22節成都-蘇泊爾 | Dang Yifei | Li Qincheng | W+R | 2018-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b6lyaur9IBgI%2FAFVUFTFcg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第21節蘇泊爾-重慶 | Li Qincheng | Gu Li | W+R | 2018-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pf9yNrzhhFy6ls1xd9bO3Q%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第20節中信-蘇泊爾 | Li Qincheng | Kim Myounghoon | B+R | 2018-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7ZzyFYrwfqZCwwkduRLS8w%3D%3D) | 
-| 第14期威孚房開杯棋王戦16強戦 | Li Qincheng | Gu Zihao | W+R | 2018-10-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fpNtfPvTI5V7Y10qbiW2yg%3D%3D) | 
-| 第14期威孚房開杯棋王戦32強戦 | Gu Li | Li Qincheng | W+R | 2018-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zcZZOQijAnd4EkTraZCPWA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第19節蘇泊爾-天津 | Tang Weixing | Li Qincheng | B+R | 2018-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=irhEerfOoik7x5zCj91lzg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第18節廈門-蘇泊爾 | Li Qincheng | Ke Jie | B+R | 2018-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q2Qj4f8kyXoyFw2n2BukZg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第17節蘇泊爾-上海 | Li Qincheng | Liao Xingwen | B+¾ | 2018-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=suVaXUipXjij11aSYN3aMw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第16節山東-蘇泊爾 | Jiang Weijie | Li Qincheng | W+¼ | 2018-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0dgYOrGKURQ%2Be2ya8hvE3Q%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第15節蘇泊爾-衢州 | Li Qincheng | missing | B+R | 2018-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g8ydeygjnwf6zyKrclVztQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第14節民生-蘇泊爾 | Li Qincheng | Shi Yue | W+R | 2018-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=75%2F%2BXEF3kyA10UVh6Cfrrw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第13節蘇泊爾-杭州 | Li Qincheng | missing | W+R | 2018-08-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VUvTH2YmCLpmY%2F36iNT4YA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第12節江蘇-蘇泊爾 | Zhao Chenyu | Li Qincheng | W+R | 2018-08-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=noTyWi%2BuIyTVj6GKIk%2FDEw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第11節蘇泊爾-浙江 | Li Qincheng | Li Zhe | B+R | 2018-08-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F0lWmulbs6hgF5eJnjKuAA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第10節江西-蘇泊爾 | Li Xiangyu | Li Qincheng | W+R | 2018-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VACoQmXKJ6bFLW%2FT4yCudQ%3D%3D) | 
-| 第20期阿含・桐山杯中国早碁オープン戦本選決勝 | Li Qincheng | Fan Tingyu | W+R | 2018-06-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8YSbSG2Oux%2FV5nul0Hxamw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第9節蘇泊爾-成都 | Li Qincheng | Dang Yifei | B+1¾ | 2018-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gGAUx3nissBySWl65pzBVQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第8節重慶-蘇泊爾 | Tan Xiao | Li Qincheng | B+R | 2018-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MQOJPqzY96ZT8YkMCdzSOg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第7節蘇泊爾-中信 | Li Qincheng | Tuo Jiaxi | W+1¼ | 2018-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EfhXsJvPkIj2jyk1dPRkCg%3D%3D) | 
-| 嫘祖杯第31回中国囲棋名人戦16強戦 | Peng Liyao | Li Qincheng | B+R | 2018-05-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4YebykpPh2FVTA3bUPSgww%3D%3D) | 
-| 嫘祖杯第31回中国囲棋名人戦32強戦 | Li Qincheng | Chen Xian | Void | 2018-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vWf5z0aLPrz8d3nhZzfkww%3D%3D) | 
-| 嫘祖杯第31回中国囲棋名人戦32強戦 | Chen Xian | Li Qincheng | W+R | 2018-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XYANuaPMvjGcXYw4EOEIMA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第6節天津-蘇泊爾 | Meng Tailing | Li Qincheng | B+R | 2018-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c62X0srmM1eLOdygRm0ZcQ%3D%3D) | 
-| 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Ke Jie | Li Qincheng | B+R | 2018-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HPOvOK6wLsrK7FAVsJQbnA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第5節蘇泊爾-廈門 | Li Qincheng | Zhou Ruiyang | W+R | 2018-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N2YanIBF29UJGXdQsP7q7A%3D%3D) | 
-| 第9期中国竜星戦Aブロック第9局 | Li Qincheng | Lian Xiao | W+R | 2018-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ApHqd6VHHWRGXvL%2FepTTYw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第4節上海-蘇泊爾 | Xie He | Li Qincheng | W+R | 2018-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9EuoS9V4%2Bvwin2NPE0rQ1g%3D%3D) | 
-| 第9期中国竜星戦Aブロック第8局 | Li Qincheng | Gu Zihao | B+R | 2018-04-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1gzs8B6ND6T7%2F7ax7NP44w%3D%3D) | 
-| 第9期中国竜星戦Aブロック第7局 | Liu Xing | Li Qincheng | W+R | 2018-04-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qR90csjgKg6NI6WH0aiSEw%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦1回戦 | Tuo Jiaxi | Li Qincheng | B+R | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u5U3lqbzjloDLKXBk12n4g%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第3節蘇泊爾-山東 | Li Qincheng | Yi Lingtao | B+R | 2018-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XWIDlJWd5nIVuCDNkqNrAw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第2節衢州-蘇泊爾 | Hu Yuhan | Li Qincheng | W+R | 2018-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qV9yAHg%2Berjs5vLCPmSwAw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第1節蘇泊爾-民生 | Li Qincheng | Sun Tengyu | B+R | 2018-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q%2BYaCtkaZePyzjFm0S7Uhw%3D%3D) | 
-| 第32期中国囲碁天元戦1回戦 | Liao Yuanhe | Li Qincheng | B+R | 2018-01-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=up%2BzFSVwFrzwjSxY%2BaXExw%3D%3D) | 
-| 第3回洛陽白雲山杯中国棋聖戦資格戦3 | Li Qincheng | Fan Tingyu | W+R | 2018-01-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wT3MHOh9JP2mOwpatV8ctw%3D%3D) | 
-| 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Xie Ke | Li Qincheng | W+¼ | 2018-01-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yHwtOakt1s%2B1qwwoi%2B%2FOag%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第26節 | Hu Yaoyu | Li Qincheng | W+R | 2017-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X0MdtO0gOtOW9AWT2%2Ffzwg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第25節 | Li Qincheng | Dang Yifei | B+R | 2017-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4jEmTfl3VkFTdf9IyvyKkQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第24節 | Sun Tengyu | Li Qincheng | W+¼ | 2017-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YVyE98COjoEqeTYZ%2BNDy7A%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第23節 | Li Qincheng | Xie Erhao | B+R | 2017-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PEei2oLGutBN%2BIwjViG6zA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第22節 | Huang Yunsong | Li Qincheng | W+R | 2017-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AcuUB3pQfnEjZBx2lUPWsg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第21節 | Li Qincheng | missing | W+R | 2017-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Xh93dIbw%2B0AT7bXGofsBA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第20節 | Jiang Weijie | Li Qincheng | W+R | 2017-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hDTwkLNTLOS4th%2FDjPh%2Bew%3D%3D) | 
-| 2017年利民杯世界囲碁星鋭最強戦2回戦 | Li Qincheng | Byun Sangil | W+R | 2017-10-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MNc1Us%2BR0Cmf8xry5kY4IQ%3D%3D) | 
-| 2017年利民杯世界囲碁星鋭最強戦1回戦 | Lin Junyan | Li Qincheng | W+R | 2017-10-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4R4rzsgXASjeM0Q8y3K1nQ%3D%3D) | 
-| 第13期威孚房開杯棋王戦16強戦 | Zhang Tao | Li Qincheng | B+R | 2017-10-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MnxGaH9FNOt%2FIFn4tfMKwQ%3D%3D) | 
-| 第13期威孚房開杯棋王戦32強戦 | Li Qincheng | Jiang Weijie | Void | 2017-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YrYooKDGmdyt5Nh%2BEcT6mw%3D%3D) | 
-| 第13期威孚房開杯棋王戦32強加戦 | Li Qincheng | Jiang Weijie | B+1.5 | 2017-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=14Zi37uAyGzWSVQBfi9zMQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第19節 | Li Qincheng | Jiang Qirun | B+R | 2017-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6k1N6%2BLxKOmxBRWNNhAo8w%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第18節 | Li Qincheng | Kim Jiseok | W+R | 2017-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BXemSK4qPoOGaMjZuo380A%3D%3D) | 
-| 第29回テレビアジア選手権準決勝 | Lee Sedol | Li Qincheng | B+R | 2017-09-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fKVRDh1g6%2FoF1rJHEUat7Q%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第17節 | Li Qincheng | Tuo Jiaxi | B+R | 2017-09-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xca9YdzLctELOf063QH9wA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第16節 | Li Xiangyu | Li Qincheng | W+R | 2017-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s9mXc1Y7vni1TgM4n1vEEA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第15節 | Li Qincheng | An Dongxu | B+R | 2017-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qeefoSmszDzemUUB9JXyCQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第14節 | Ichiriki Ryo | Li Qincheng | W+R | 2017-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TDdOVwwmzYjLTJlBiIIGhQ%3D%3D) | 
-| 中国浙江平湖当湖十局杯CCTV8強 | Li Qincheng | Zhang Tao | W+R | 2017-08-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c3uQ5GLBMVTKDqVExC0bxA%3D%3D) | 
-| 中国浙江平湖当湖十局杯CCTV16強 | Tuo Jiaxi | Li Qincheng | W+R | 2017-08-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hyZceluMD43j4nL57gJA2g%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第13節 | Li Qincheng | Li Zhe | B+1.5 | 2017-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zXlTr96r8xW7kUjO8F7YHA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第12節 | Liao Yuanhe | Li Qincheng | B+R | 2017-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zkc5DGivX%2FJexIJBW8fWuw%3D%3D) | 
-| 嫘祖杯30回中国名人戦8強戦 | Mi Yuting | Li Qincheng | B+R | 2017-08-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MpAsVggLclDwqZ2ZKB40yg%3D%3D) | 
-| 嫘祖杯30回中国名人戦16強戦 | Gu Li | Li Qincheng | W+2.5 | 2017-08-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=meOJjpWp%2BOZuRA4syuoxiw%3D%3D) | 
-| 嫘祖杯30回中国名人戦32強戦 | Xie Erhao | Li Qincheng | W+R | 2017-08-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wsqrzP1FrsTnE%2BJqMXS9VA%3D%3D) | 
-| 4回国手山脈杯世界団体戦決勝 | Li Qincheng | Lee Sedol | B+R | 2017-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b3JpSRVqq6l5%2Fv1Rmtdliw%3D%3D) | 
-| 4回国手山脈杯世界団体戦4強戦 | Li Qincheng | Wang Yuanjun | B+R | 2017-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CwYVp07dXvsLXpWO5NK8ig%3D%3D) | 
-| 第8期中国竜星戦決勝三番勝負第2局 | Li Qincheng | Ke Jie | W+R | 2017-07-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bwouGYx%2FRG09FM9i%2ByljTg%3D%3D) | 
-| 第8期中国竜星戦決勝三番勝負第1局 | Ke Jie | Li Qincheng | B+R | 2017-07-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ruAIiRohYduY7CwAgX7n0w%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第11節 | Li Qincheng | Ding Shixiong | B+R | 2017-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kBzwvhnVVx%2Fo7X2UbhTPww%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第10節 | Chen Zhengxun | Li Qincheng | W+0.5 | 2017-07-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C9cREAM4HNgtTCyWwY8Kqw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第9節 | Li Qincheng | Mi Yuting | B+1.5 | 2017-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZmlnfzcawTCFg5j1Ty4S2A%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第8節 | missing | Li Qincheng | B+R | 2017-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eP3H8xcW6MUSz9A89rglAw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第7節 | Li Qincheng | Chen Zijian | W+0.5 | 2017-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IV8xYqkZDqbarRth1gOJvQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第6節 | Li Qincheng | Ke Jie | W+R | 2017-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vyzKtzhpdiiQnvUXZETRgA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第5節 | Li Qincheng | Xu Jiayang | B+R | 2017-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8WUDO%2BUwFM7HDNv3SVcxHQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第4節 | Li Qincheng | Han Yizhou | W+0.5 | 2017-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2Fg%2BsmABxeJL%2B0thvQk7bA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第3節 | Li Qincheng | Ding Hao | B+R | 2017-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NElegJalvMuAZuaSKJZ%2BbQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第2節 | missing | Li Qincheng | W+R | 2017-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qg8LoUW3HhcIK8QRfU8icQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第1節 | Li Qincheng | Li Xuanhao | B+R | 2017-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AW78CUmO1956Q%2Bv3IJFp7A%3D%3D) | 
-| 第19期中国阿含桐山杯本選3回戦 | Liao Xingwen | Li Qincheng | W+0.5 | 2017-04-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OKexBQh%2F3ddhWjULgnD9Vg%3D%3D) | 
-| 第19期中国阿含桐山杯本選2回戦 | Rui Naiwei | Li Qincheng | W+R | 2017-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g7%2F1f7C8AGj1AwVlfSV2uA%3D%3D) | 
-| 第8期中国竜星戦準決勝 | Gu Zihao | Li Qincheng | W+R | 2017-04-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3wLmTe6GlrYE7pUDeNJ6YQ%3D%3D) | 
-| 第8期中国竜星戦Aブロック9回戦 | Chen Yaoye | Li Qincheng | B+1.5 | 2017-03-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YsBm03QZmiMuJrUQQNszRw%3D%3D) | 
-| 第8期中国竜星戦Aブロック7回戦 | Li Qincheng | Gu Li | B+R | 2017-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dd4vP7RXuoVAmUVY9ckshA%3D%3D) | 
-| 第8期中国竜星戦Aブロック8回戦 | Tuo Jiaxi | Li Qincheng | W+R | 2017-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NgarBNGq64G2aP4wLP%2F%2BGg%3D%3D) | 
-| 第8期中国竜星戦Aブロック6回戦 | Liu Xing | Li Qincheng | W+R | 2017-03-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8I0mk%2BKNiUnh8ydRzXFEng%3D%3D) | 
-| 第31期中国囲碁天元戦1回戦 | Li Qincheng | Chen Xian | W+R | 2017-01-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ppqjzkpb3eK6jH7DJIa9FQ%3D%3D) | 
-| Alphago Online Series on Tygem and Fox 31 | missing | Li Qincheng | B+R | 2017-01-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EqzWeGGJo9AhCzWSR%2FSBmg%3D%3D) | 
-| 2016年利民杯世界囲碁星鋭最強戦1回戦 | Yi Lingtao | Li Qincheng | B+R | 2016-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=crdnhKLqD7R4Prhkh7xqSg%3D%3D) | 
-| 嫘祖杯第29期中国名人戦32強戦 | Li Qincheng | Tan Xiao | W+R | 2016-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NVAc2jCDrdnMTtd7xKrJ%2Bg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第22節 | Jiang Qirun | Li Qincheng | B+1.5 | 2016-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zd0zjJAYlmA81J4rQ85%2FaA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第21節 | Li Qincheng | Liao Yuanhe | B+R | 2016-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vvx%2B5vWY9nYZiERUGSydZw%3D%3D) | 
-| 2016CCTV杯中国囲棋電視快棋戦決勝 | Li Qincheng | Mi Yuting | W+0.5 | 2016-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7SdntHHB6%2F1ScFtyAIE5mg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第20節 | missing | Li Qincheng | W+R | 2016-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gZx8uukXyKohdWsmcMBvwQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第19節 | Li Qincheng | Meng Tailing | W+R | 2016-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DjbtImCxMHxU0Zyg%2FSxfww%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第18節 | missing | Li Qincheng | B+R | 2016-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L8wMESbMS4YRKF8Q0MvcVA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第17節 | Li Qincheng | Li Xuanhao | B+R | 2016-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RklPSVlB66PP0QBi2JPbPA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第16節 | Shin Jinseo | Li Qincheng | W+R | 2016-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5L2ylCYbsF6CTRLH1%2F9m2A%3D%3D) | 
-| 2016南昌紅谷灘杯世界精英戦2局 | Li Qincheng | Ichiriki Ryo | W+R | 2016-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XI4Csz2EhF%2Bi4PutZtzKxQ%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Li Qincheng | Mi Yuting | W+R | 2016-10-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bvACLsdbYj%2FFKCXtvjKO7Q%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第15節 | Li Qincheng | Tao Xinran | B+R | 2016-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ESj1%2Be84z7y1Wuu7%2BMAguA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第14節 | Fan Tingyu | Li Qincheng | W+R | 2016-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PuL7q3L9Kplbz4vklJ6nQg%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Hirata Tomoya | Li Qincheng | B+0.5 | 2016-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CwiVxteK%2B5DaCIeYAiAbhg%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Li Qincheng | Min Sangyoun | B+R | 2016-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hGRfGLdMpF%2Fus7mg7teCLg%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Lin Junyan | Li Qincheng | W+2.5 | 2016-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JK9slbDnQMTA54iU5G%2BbMQ%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦D2 | Ichiriki Ryo | Li Qincheng | B+R | 2016-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X1y0GU4ANlXd%2Fug%2FBtuuKQ%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦D1 | Li Qincheng | Fan Tingyu | W+R | 2016-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x5imZ6jkSi%2FRnOzMFoB6aQ%3D%3D) | 
-| 第28回テレビアジア選手権決勝 | Li Qincheng | Shin Jinseo | B+R | 2016-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GfFPtmPkd1DMN26oq%2BWt0g%3D%3D) | 
-| 第28回テレビアジア選手権準決勝 | Li Qincheng | Lee Sedol | B+7.5 | 2016-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qnm027Qma7MdzKPPab9qOg%3D%3D) | 
-| 第28回テレビアジア選手権1回戦 | Li Qincheng | Cho U | B+R | 2016-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GYsX4OJUcG1sVkNB2PPgxw%3D%3D) | 
-| 第12期威孚房開杯棋王戦1回戦 | Gu Li | Li Qincheng | B+R | 2016-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VS4qlXwS2QTar3aWpEOQVg%3D%3D) | 
-| 第21回三星火災杯統合予選決勝 | Li Qincheng | Li Xuanhao | B+R | 2016-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=evZjqHZqcMG5LxRz2bqYvg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第11節 | Li Qincheng | Zhang Tao | B+1.5 | 2016-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mDdjmayNZ%2FHY2wuqsoIfCQ%3D%3D) | 
-| 第3回百霊杯世界オープン戦3回戦 | Li Qincheng | Lian Xiao | W+R | 2016-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OzhPoNSaOPEsZMpo3X8L5g%3D%3D) | 
-| 第3回百霊杯世界オープン戦2回戦 | Li Qincheng | Mok Jinseok | B+R | 2016-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EVx0rL05Nz30AEHKzKJIqw%3D%3D) | 
-| 第3回百霊杯世界オープン戦1回戦 | Li Qincheng | Yuki Satoshi | B+R | 2016-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6z3uZu96HjHmlbfBantsiA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第10節 | missing | Li Qincheng | W+R | 2016-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lba9bJ45k9S20mwhl6Kj%2FA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第9節 | Li Qincheng | missing | B+1.5 | 2016-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jTkDYcauGNEODBqmDEQj6w%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第8節 | Meng Tailing | Li Qincheng | B+R | 2016-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KFEsn7OOT4gvzrUFkIhknw%3D%3D) | 
-| 2016CCTV杯中国囲棋電視快棋戦準決勝 | Li Qincheng | Tong Mengcheng | B+R | 2016-06-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0P1pictklPJG9otJj7614A%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第7節 | Li Qincheng | Huang Yunsong | W+R | 2016-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q%2BSNCfXCyxCKn0KLjOuGWA%3D%3D) | 
-| 2016CCTV杯中国囲棋電視快棋戦4回戦 | Gu Zihao | Li Qincheng | W+R | 2016-06-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UxnmCz9GRwd4WbjlCWk8yw%3D%3D) | 
-| 2016CCTV杯中国囲棋電視快棋戦3回戦 | Yang Dingxin | Li Qincheng | W+R | 2016-06-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HKDrtObd8CxM8FlPq3Ll2g%3D%3D) | 
-| 2016CCTV杯中国囲棋電視快棋戦2回戦 | Li Qincheng | An Dongxu | B+R | 2016-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nxYUmifbkSbUYMWUoqBHTg%3D%3D) | 
-| 2016CCTV杯中国囲棋電視快棋戦1回戦 | Li Qincheng | Zhou Hexi | B+R | 2016-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ynhAg8sxhpoesa2u%2Ft%2BAqA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第6節 | Tan Xiao | Li Qincheng | W+R | 2016-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V9%2Ba6mqDORIP9aHp065ZrQ%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Tan Xiao | Li Qincheng | W+R | 2016-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WlrB29NOXyUaE1HQlw1jtQ%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Li Qincheng | Zhou Ruiyang | B+R | 2016-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J9hAkGKJVTl8aDAR9VfG3w%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第5節 | Li Qincheng | Shin Jinseo | W+R | 2016-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nGusJvz0r%2FlR6g7nzjit6Q%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第4節 | Peng Liyao | Li Qincheng | W+R | 2016-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vILF0snlMv0%2FOahDcqNG%2FQ%3D%3D) | 
-| 第18期阿含・桐山杯中国早碁オープン戦予選 | Li Qincheng | Gu Zihao | W+R | 2016-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GXp5gQnQv7hqGDf2DqpftA%3D%3D) | 
-| 第18期阿含・桐山杯中国早碁オープン戦予選 | Li Qincheng | missing | B+R | 2016-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4jQWvMDTEr%2B5ew%2Fk9RozFQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第3節 | Li Qincheng | Fan Tingyu | B+R | 2016-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FSGO5Qqmiw7hVB9J%2BYoPVg%3D%3D) | 
-| 第3回グロービス杯世界囲碁U-20決勝 | Li Qincheng | Hsu Chiayuan | B+R | 2016-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oA46UxKTFX0xmSN1ihVNtw%3D%3D) | 
-| 第3回グロービス杯世界囲碁U-20準決勝 | Li Qincheng | Byun Sangil | B+R | 2016-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FgKd2pO4LpamvBTUXiOp9g%3D%3D) | 
-| 第3回グロービス杯世界囲碁U-20準々決勝 | Shibano Toramaru | Li Qincheng | W+R | 2016-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IDJGwnB%2Bs20lPGZwYxGFWQ%3D%3D) | 
-| 第3回グロービス杯世界囲碁U-20グループリーグB | Li Qincheng | Mutsuura Yuta | B+R | 2016-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U%2FAOirybaNksPFM6e7BWVA%3D%3D) | 
-| 第3回グロービス杯世界囲碁U-20グループリーグB | Grigorij Fionin | Li Qincheng | W+R | 2016-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SuSyXpOFZ00oyGh2kuUJRg%3D%3D) | 
-| 第3回グロービス杯世界囲碁U-20グループリーグB | Li Qincheng | Shin Jinseo | W+R | 2016-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yEyBgE23CUE6oCiPDd5Fxg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第2節 | Sun Tengyu | Li Qincheng | W+R | 2016-04-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7UntTsSlKyjSFBjnqJxphg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第1節 | Li Qincheng | Tuo Jiaxi | W+R | 2016-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X0fkS2zViXjb3m3hAeKmag%3D%3D) | 
-| 第21回LG杯予選 | missing | Li Qincheng | B+0.5 | 2016-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BzU2f73Vukp2Ag4pRG3Oeg%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Li Qincheng | missing | W+1 | 2016-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PEzxFdAoprMtTgFCNmjjTg%3D%3D) | 
-| 2016四都市新鋭対抗戦第3戦 | Li Qincheng | Ida Atsushi | B+R | 2016-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jeYroP%2FjymMxukX2NJe24w%3D%3D) | 
-| 2016四都市新鋭対抗戦第2戦 | Shin Jinseo | Li Qincheng | B+R | 2016-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4SxbEMJ2BykSgZyBiCqzyA%3D%3D) | 
-| 2016四都市新鋭対抗戦第1戦 | Wang Yuanjun | Li Qincheng | W+3.5 | 2016-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Y0Q3%2BL2ZcGQzh68%2BmKLng%3D%3D) | 
-| 第7期中国竜星戦3回戦 | Li Qincheng | Chen Yaoye | W+R | 2016-01-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SG%2Fqrf2fEtO86D5D9isZSg%3D%3D) | 
-| 第30期中国囲碁天元戦1回戦 | Wang Haoyang | Li Qincheng | B+1.5 | 2016-01-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vok8EGb2c99IKFww%2FKvpHg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第22節 | Liao Xingwen | Li Qincheng | W+R | 2015-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v2HWbzG5WAR1D6nyEMQz2Q%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第21節 | Li Qincheng | Tong Mengcheng | W+R | 2015-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YsCR4K25BngNEM9jdaKsgw%3D%3D) | 
-| 2015年利民杯世界囲碁星鋭最強戦1回戦 | missing | Li Qincheng | B+R | 2015-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m%2BQpj%2Bf%2FST0vHhKKoYm7TQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第14節 | Li Qincheng | Zhou Hexi | W+0.5 | 2015-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hpXgKcytDdwXssZ01pKdSQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第20節 | Hu Yaoyu | Li Qincheng | B+R | 2015-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t%2FHBiyTgym7WDFU1fBkcjQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第19節 | Li Qincheng | Huang Yunsong | B+R | 2015-11-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7sTAdc45nKkftwYtL106Dw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第18節 | Li Qincheng | Jiang Weijie | W+R | 2015-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jhI6CODd5%2BnMuGIlEcyAgw%3D%3D) | 
-| 第7期中国竜星戦2回戦 | Shi Yue | Li Qincheng | W+R | 2015-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AxYirMoVeKfIlH%2Fhd6aWFA%3D%3D) | 
-| 第7期中国竜星戦1回戦 | Li Qincheng | Tang Weixing | B+R | 2015-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dXTQvOyL3lCPhMEtyB%2BbOA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第17節 | Tuo Jiaxi | Li Qincheng | B+R | 2015-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hKR3r0FPv0f4dFf82QJNTw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第15節 | Gu Li | Li Qincheng | W+R | 2015-10-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DKOiaxGt4wPqkfZ1zUbbRw%3D%3D) | 
-| 第11期威孚房開杯棋王戦2回戦 | Li Qincheng | Meng Tailing | W+R | 2015-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u818hoXgvYwkB1q20Vz4UQ%3D%3D) | 
-| 第11期威孚房開杯棋王戦1回戦 | Li Qincheng | Tuo Jiaxi | B+R | 2015-10-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mIH%2BO5TaG2z87dEP0M%2Bbfg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第16節 | Li Qincheng | missing | B+R | 2015-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Th6ouzoHMYX7qPUdjq4lCw%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦準決勝第3局 | Li Qincheng | Lian Xiao | W+1 | 2015-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tyK5cZZr3COBjNXPdYlfnw%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Li Qincheng | Lian Xiao | B+R | 2015-09-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZEa5XhWaplnBEEkOf8NtEQ%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Lian Xiao | Li Qincheng | B+R | 2015-09-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WeJtwNjOw0gB508ELiLJ7Q%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Tang Weixing | Li Qincheng | B+R | 2015-09-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lsOG3T1qcbm3di3r4MJcTQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第13節 | Piao Wenyao | Li Qincheng | W+R | 2015-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ptkjH8r5v%2F481jtOxdJA2w%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第12節 | Li Qincheng | Liu Xing | B+R | 2015-09-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I9mmJ%2FcKdrqivjHTGPb8RQ%3D%3D) | 
-| 第2回夢百合杯世界オープン戦3回戦 | Tang Weixing | Li Qincheng | B+R | 2015-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UWrlPkwtWO%2BFk0bBRyNKzQ%3D%3D) | 
-| 第17期阿含・桐山杯中国早碁オープン戦準決勝 | Huang Yunsong | Li Qincheng | B+R | 2015-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IuerbOwyyuySS2pN%2FnlpAQ%3D%3D) | 
-| 第7期中国竜星戦予選 | Chen Yunong | Li Qincheng | W+R | 2015-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fcKclEF3q8lKfVBLu86uLw%3D%3D) | 
-| 第17期阿含・桐山杯中国早碁オープン戦2回戦 | Mi Yuting | Li Qincheng | W+R | 2015-07-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9oYVlslKEhs5IiTOSgV0bw%3D%3D) | 
-| 第28期中国囲碁名人戦挑戦者決定戦第2局 | Lian Xiao | Li Qincheng | B+R | 2015-07-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GvUzyqH7WK%2F8qqSbpb6ppQ%3D%3D) | 
-| 第28期中国囲碁名人戦挑戦者決定戦第1局 | Li Qincheng | Lian Xiao | W+R | 2015-07-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jXBHUY7IjACtvevKd75o1w%3D%3D) | 
-| 第2回夢百合杯世界オープン戦2回戦 | Li Qincheng | Fan Yin | B+R | 2015-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H3AGJ32vvZhWOSlyCEdUGw%3D%3D) | 
-| 第2回夢百合杯世界オープン戦1回戦 | Li Qincheng | Lee Wonyoung | B+R | 2015-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vn03P%2BD3xRKVcPpkEEzM5w%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第10節 | Meng Tailing | Li Qincheng | B+R | 2015-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GWT%2FwhhfsgjRnU4LmIfICg%3D%3D) | 
-| 第17期阿含・桐山杯中国早碁オープン戦1回戦 | Li Qincheng | Shi Yue | B+3.5 | 2015-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CVRi0szAp7h5SEKM%2ByC7GQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第9節 | Li Qincheng | Qiu Jun | W+R | 2015-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lhHKtb4cGkHW8WsZFuM3gw%3D%3D) | 
-| 第28期中国囲碁名人戦準決勝 | Guo Yuzheng | Li Qincheng | W+R | 2015-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=47oW7nRWnokUujz7T0rFhg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第8節 | missing | Li Qincheng | W+R | 2015-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gak1%2BnBJ%2BMjK8%2FpDJD8OVQ%3D%3D) | 
-| 第28期中国囲碁名人戦3回戦 | Yang Dingxin | Li Qincheng | W+R | 2015-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qAkkO%2BM6JywU%2F1wqIzCN9Q%3D%3D) | 
-| 第17期阿含・桐山杯中国早碁オープン戦予選 | Li Qincheng | Zhou Ruiyang | B+1.5 | 2015-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XW78ZLa9sAYa1XQJYEe1Vw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第7節 | Li Qincheng | Zhou Ruiyang | W+R | 2015-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JXBUk3ymk%2FgjrgNXlBSBUA%3D%3D) | 
-| 第28期中国囲碁名人戦2回戦 | Li Qincheng | Zhou Ruiyang | B+3.5 | 2015-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6ekVnt2iuWWq8csC7NPXTA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第6節 | Li Qincheng | Tuo Jiaxi | B+3.5 | 2015-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=reJxLi4MzeQQA17RU8FU9g%3D%3D) | 
-| 第2回夢百合杯世界オープン戦予選 | Li Qincheng | Ahn Kukhyun | B+R | 2015-05-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fb6pkYyKVp%2B1YDuNNoIVcQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第5節 | Yang Kaiwen | Li Qincheng | B+R | 2015-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pK3LL2sVmGOLeYPB9w2hFw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第4節 | Gu Li | Li Qincheng | B+R | 2015-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nL%2BgsE0mrXxmSSQHhSjVBg%3D%3D) | 
-| 第2回グロービス杯世界囲碁U-20三位決定戦 | Li Qincheng | Lee Donghoon | B+R | 2015-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6RVnnP6aZenmZKz39qDydA%3D%3D) | 
-| 第2回グロービス杯世界囲碁U-20準決勝 | Na Hyun | Li Qincheng | B+R | 2015-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z149BY%2Bl%2FMPORCdCyT449w%3D%3D) | 
-| 第2回グロービス杯世界囲碁U-20準々決勝 | Sada Atsushi | Li Qincheng | W+6.5 | 2015-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y35hFdol4kuumjQ6ZtWPdw%3D%3D) | 
-| 第2回グロービス杯世界囲碁U-20グループリーグC | Li Qincheng | Motoki Katsuya | B+R | 2015-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=60OB9xxbzgdK4zDIK8PVPw%3D%3D) | 
-| 第2回グロービス杯世界囲碁U-20グループリーグC | Shin Jinseo | Li Qincheng | W+R | 2015-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z2eV4LdXQ4%2BTuB4Wfqtfog%3D%3D) | 
-| 第28期中国囲碁名人戦1回戦 | Li Qincheng | Wang Yao | B+R | 2015-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FEWX91ixHO18MBR91oOP4g%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第2節 | Li Qincheng | Piao Wenyao | B+R | 2015-05-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LLUbO0cjoj%2BnGFsGtJvmIQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第1節 | Liu Xing | Li Qincheng | W+R | 2015-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M%2F7WLbira2QlGUsXCsC9OA%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦3回戦 | Li Qincheng | Fan Tingyu | B+R | 2015-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hEPhLdcV%2BgMbRVQxdxd0Cw%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦2回戦 | Wang Xi | Li Qincheng | W+R | 2015-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zSmbumSHDnz45p45tZz2AQ%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦1回戦 | Mi Yuting | Li Qincheng | W+1 | 2015-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Cua21AhXmLbgWgud2h2Kg%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦予選 | Cao Xiaoyang | Li Qincheng | W+R | 2015-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R3urCi7hmn5wmRwlUP8CHg%3D%3D) | 
-| 第29期中国囲碁天元戦挑戦者決定戦 | Li Qincheng | Mi Yuting | W+R | 2015-02-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QJkhuIv2q29myT3XHvVVzQ%3D%3D) | 
-| 第29期中国囲碁天元戦準決勝 | Li Qincheng | Tang Weixing | B+R | 2015-02-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EThtPIw3illfjcwiVQjOLg%3D%3D) | 
-| 第29期中国囲碁天元戦3回戦 | Li Qincheng | Lian Xiao | B+R | 2015-01-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AJTKtjbjgm3DN%2Bq2LDwKKw%3D%3D) | 
-| 第29期中国囲碁天元戦2回戦 | Shi Yue | Li Qincheng | W+0.5 | 2015-01-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8iwySc7InJ9arS5CObKQKw%3D%3D) | 
-| 第29期中国囲碁天元戦1回戦 | Li Qincheng | Luo Xihe | B+1.5 | 2015-01-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sWESG0K9Toeq4TFy%2F2X2mw%3D%3D) | 
-| 第15期リコー杯囲碁戦1回戦 | Li Qincheng | missing | W+2.5 | 2014-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9mUmVwaiXcXlTBP6%2Bcy2XQ%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦3回戦 | Li Qincheng | Yang Dingxin | W+R | 2014-12-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C5yCLjA85rMbNrMIPI5mqA%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦2回戦 | Li Qincheng | Aaron Ye | B+R | 2014-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aWN6HzTebBxD992OtdCZ9w%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦1回戦 | Li Qincheng | Ichiriki Ryo | B+R | 2014-12-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wt93sXgJVkEepccIhnkmUQ%3D%3D) | 
-| 第6期中国竜星戦3回戦 | Fan Tingyu | Li Qincheng | B+R | 2014-12-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D2QwdX%2FtYbTNrf7UMJtI%2Fg%3D%3D) | 
-| 第6期中国竜星戦2回戦 | Li Qincheng | An Dongxu | B+R | 2014-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j%2FrpGYaF6wrGN2U3Y%2Fz8zw%3D%3D) | 
-| 2014年国際新鋭囲碁対抗戦第3戦 | Li Qincheng | Lin Shuyang | W+R | 2014-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AlqmRBc8D8mUmiiSBQncVA%3D%3D) | 
-| 2014年国際新鋭囲碁対抗戦第2戦 | Li Qincheng | Shin Minjun | W+R | 2014-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4b3kNK1N2RaiqDMtMD%2BAag%3D%3D) | 
-| 2014年国際新鋭囲碁対抗戦第1戦 | Fujimura Yosuke | Li Qincheng | W+R | 2014-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4j2W62kb0CZp%2BzBXGHKDfQ%3D%3D) | 
-| 第6期中国竜星戦1回戦 | Li Qincheng | Zhou Ruiyang | B+1.5 | 2014-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xP%2B1Go6S7iEKsOrLce1o5g%3D%3D) | 
-| 第26回テレビアジア選手権1回戦 | Kono Rin | Li Qincheng | B+1.5 | 2014-08-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7wBNbCeamRvsYGHWJGPr8g%3D%3D) | 
-| 第6期中国竜星戦予選 | missing | Li Qincheng | W+R | 2014-06-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j30RGwJJQel5HQjk54Bl2w%3D%3D) | 
-| 第6期中国竜星戦予選 | Li Qincheng | Fan Yin | B+1.5 | 2014-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QUH5HAHmATS%2FoqzkZjdXdA%3D%3D) | 
-| 2014年中韓新鋭対抗戦第3戦 | Li Qincheng | Byun Sangil | W+R | 2014-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bRZSvrQUd8usz9IG2Gyw3A%3D%3D) | 
-| 2014年中韓新鋭対抗戦第2戦 | Li Qincheng | Shin Jinseo | W+R | 2014-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0PyLJu3tnUoDkXoC1XYDag%3D%3D) | 
-| 2014年中韓新鋭対抗戦第1戦 | Min Sangyoun | Li Qincheng | W+R | 2014-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TLdocfb1Wjg1LUCyAryuoQ%3D%3D) | 
-| 第1回グロービス杯世界囲碁U-20準々決勝 | Li Qincheng | Hsu Chiayuan | W+R | 2014-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EAcQUJ5fn4CPAFDRhziFrw%3D%3D) | 
-| 第1回グロービス杯世界囲碁U-20グループリーグC | Li Qincheng | Sun Zhe | B+0.5 | 2014-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vYJzEaCW2FU0pUu9mnEDzQ%3D%3D) | 
-| 第1回グロービス杯世界囲碁U-20グループリーグC | Li Qincheng | Shin Jinseo | B+R | 2014-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UAGWvUJTJ7REoj1iW3oOtA%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦決勝 | Li Qincheng | Tao Xinran | B+R | 2014-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bVkNIQ2De5sVoSJd0f4d6Q%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦準決勝 | Li Qincheng | Wang Haoyang | B+R | 2014-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b95lpdFzI96X9aOdOGXapg%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦4回戦 | Fan Tingyu | Li Qincheng | W+R | 2014-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pHYeM51torbraAb%2BgSBo%2Bg%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦3回戦 | Zhou Hexi | Li Qincheng | W+R | 2014-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G0EoXdbFOgLvhI76pxokzw%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦2回戦 | Li Qincheng | Niu Yutian | B+R | 2014-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AynBoahxMKSEXKofKoJOJg%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦1回戦 | Li Qincheng | Chen Yaoye | B+5.5 | 2014-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lS1iRrUz1gmkQMVRi1ObLA%3D%3D) | 
-| 2014年中国囲碁乙級リーグ | Byun Sangil | Li Qincheng | W+4.5 | 2014-04-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ibvqsIeJRIWsh%2FNwHM5ndg%3D%3D) | 
-| 第19回LG杯予選 | Kim Junghyun | Li Qincheng | B+R | 2014-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ResmAQN78FI4xSZTwK2rUA%3D%3D) | 
-| 第27期中国囲碁名人戦予選 | Sun Li | Li Qincheng | B+R | 2014-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L8cscN3e9vF%2BhdZqzb5S4w%3D%3D) | 
-| 第11期倡棋杯中国プロ囲碁選手権戦予選 | Li Qincheng | Guo Yuzheng | B+R | 2014-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lMaKuPd7G7IoCd1QLq0BIw%3D%3D) | 
-| 第21期建橋杯中国囲碁新人王戦決勝三番勝負第3局 | Yu Zhiying | Li Qincheng | B+R | 2014-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6tO75jDXT3IZjX34UqyRpw%3D%3D) | 
-| 第21期建橋杯中国囲碁新人王戦決勝三番勝負第2局 | Li Qincheng | Yu Zhiying | B+5.5 | 2014-03-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mLCTcFI8zYD8HI14yixyCQ%3D%3D) | 
-| 第21期建橋杯中国囲碁新人王戦決勝三番勝負第1局 | Yu Zhiying | Li Qincheng | B+R | 2014-03-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GYWZ9qX0MgTI96eDTS3ZeA%3D%3D) | 
-| 第21期建橋杯中国囲碁新人王戦準決勝 | Li Qincheng | Jiang Qirun | B+R | 2014-02-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xh0SlecaJUECiFUw21KMgg%3D%3D) | 
-| 第21期建橋杯中国囲碁新人王戦3回戦 | Xie Ke | Li Qincheng | W+R | 2014-02-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wahaOO2DB%2FyTvK%2Foqv84Fg%3D%3D) | 
-| 第21期建橋杯中国囲碁新人王戦2回戦 | Chen Zhengxun | Li Qincheng | W+R | 2014-02-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x8QpqkoWBYLRz2OLFD9iYQ%3D%3D) | 
-| 第21期建橋杯中国囲碁新人王戦1回戦 | Li Qincheng | missing | B+R | 2014-02-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AMxqJLNSlNu8ZJWEaDOgIA%3D%3D) | 
-| 第28期中国囲碁天元戦1回戦 | Li Qincheng | Zhou Ruiyang | W+R | 2014-01-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4YKJ%2BglQ7xUG2aQejA9f7A%3D%3D) | 
-| 第28期中国囲碁天元戦予選 | Hu Yaoyu | Li Qincheng | W+R | 2014-01-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o0PxKeo1uxSaVyRKnTGCtw%3D%3D) | 
-| 第14期リコー杯囲碁戦2回戦 | Li Qincheng | Wang Xi | W+R | 2013-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Oi4iAEl2ghaIm96%2BGGkFcg%3D%3D) | 
-| 第14期リコー杯囲碁戦1回戦 | Li Qincheng | Yu Zhiying | B+R | 2013-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OLP4p4g6%2F9STuQvzI5nQOQ%3D%3D) | 
-| 第8期リコー杯新秀戦2回戦 | Li Qincheng | Gu Zihao | W+0.5 | 2013-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=85aK0lNYzAzGPOR8MbXBjA%3D%3D) | 
-| 第8期リコー杯新秀戦1回戦 | Xu Jiayang | Li Qincheng | W+R | 2013-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N7G8ltA6Qijt9UIkeuzG0g%3D%3D) | 
-| 第8期リコー杯新秀戦予選 | missing | Li Qincheng | W+R | 2013-12-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z9AHXbirHgiMVL2tRuUtUQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第22節 | Li Qincheng | Xie Erhao | B+R | 2013-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MdwCpsctwd2cTzd2UIFIiA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第21節 | Zhang Tao | Li Qincheng | B+R | 2013-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vWent1VYcfyp4Ojmz%2FzNbw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第20節 | Li Qincheng | Xie He | B+1.5 | 2013-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cq2f8OWxK%2FOxnpHx8nq%2Bjw%3D%3D) | 
-| 第18回LG杯朝鮮日報棋王戦3回戦 | Zhou Ruiyang | Li Qincheng | B+R | 2013-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=diA6o0zy7G2Ags99DH0ukw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第19節 | missing | Li Qincheng | B+R | 2013-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OlKQUuQZu8yNg8SehefedQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第18節 | Li Qincheng | missing | B+R | 2013-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V3bpXMqsjmv%2FsnYNfnFcUg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第17節 | Peng Quan | Li Qincheng | W+R | 2013-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hxZTjS8Gpv8PGYSlvGbvFQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第16節 | Peng Liyao | Li Qincheng | W+0.5 | 2013-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4eeXYDzUaYOphETnrYBN%2BA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第15節 | Li Qincheng | Tuo Jiaxi | W+R | 2013-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kCZN5P%2B26CPbPEg3GroI8Q%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第14節 | Fan Tingyu | Li Qincheng | B+3.5 | 2013-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xzNRCUHisCc3yxKYXHecSA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第13節 | Li Qincheng | missing | B+1.5 | 2013-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TAXbCCxMcYPU3A%2FyhcXXkg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第12節 | missing | Li Qincheng | W+R | 2013-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qzEnzFe61MnLRENdVrI26A%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第3ステージ | Li Qincheng | Qin Yuexin | B+R | 2013-08-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b5XlxcKXbAtbWehcOgaBqw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第11節 | Xie Erhao | Li Qincheng | W+R | 2013-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oE0XGWGFGpN9o%2B8S4DhTKg%3D%3D) | 
-| 第1回夢百合杯世界オープン戦2回戦 | Li Qincheng | Yuki Satoshi | W+R | 2013-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HgiOEFARQF0vt%2FmFeW%2BPhQ%3D%3D) | 
-| 第1回夢百合杯世界オープン戦1回戦 | Piao Wenyao | Li Qincheng | W+R | 2013-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FiU9zxEs98IRuDHuPKoNyA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第10節 | Li Qincheng | Tong Mengcheng | W+R | 2013-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BcRIyo4lHgadRNyuuNvUNA%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | missing | Li Qincheng | B+R | 2013-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0I%2FuGwG2BTGPH9dF74bw7Q%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第9節 | Gu Li | Li Qincheng | B+R | 2013-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Psmr0hZi%2FjHwlgK21s2Ijg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第8節 | missing | Li Qincheng | B+R | 2013-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kw5EvDsllUyVMpQY%2FcOfZQ%3D%3D) | 
-| 第18回LG杯朝鮮日報棋王戦2回戦 | Mok Jinseok | Li Qincheng | W+R | 2013-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LRIZx3QRUVozmw93ERQf%2FQ%3D%3D) | 
-| 第18回LG杯朝鮮日報棋王戦1回戦 | Park Yeonghun | Li Qincheng | W+R | 2013-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PAYDef6dS6g03Mlob5jpDA%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Li Qincheng | Xia Chenkun | W+0.5 | 2013-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FveYPWg91f%2Bx7ItYutMoHg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第7節 | Wang Lei (s) | Li Qincheng | W+4.5 | 2013-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ph3n7HWkwyJAoTV82KKjVQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第6節 | Li Qincheng | Tang Weixing | B+R | 2013-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GSpkjcI%2BPsDf0fiMgUVATQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第5節 | Li Qincheng | Wu Guangya | B+1.5 | 2013-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CSnaswpKPZeS2qtDwm9sJg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第4節 | Chen Yaoye | Li Qincheng | B+R | 2013-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BkRjQtpu6MVv83mf00Dgcg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第3節 | Li Qincheng | Ding Shixiong | B+1.5 | 2013-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lcuORN%2FFEFFvEP7edtuZ2A%3D%3D) | 
-| 第18回LG杯予選 | Kim Seongjae | Li Qincheng | W+R | 2013-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VaE8uk7rZ0dfKNcTwj1LdQ%3D%3D) | 
-| 第26期中国囲碁名人戦予選 | Li Qincheng | An Dongxu | W+0.5 | 2013-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3vQt%2BKGzVsg85fFUdFlIWA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第2節 | missing | Li Qincheng | W+R | 2013-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZVrYt7kP6K%2FXgvorYsKaoQ%3D%3D) | 
-| 第20期建橋杯中国囲碁新人王戦1回戦 | Ke Jie | Li Qincheng | B+R | 2013-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B%2FtCin6ynp8MptZ%2FJtpwVg%3D%3D) | 
-| 第7期リコー杯新秀戦決勝 | Huang Yunsong | Li Qincheng | W+R | 2013-02-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hZlOt75W5i2hNKASyxhqeg%3D%3D) | 
-| 第7期リコー杯新秀戦準決勝 | Li Xiangyu | Li Qincheng | W+R | 2013-02-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jL5kYoNyv23NW3aKtla8Ow%3D%3D) | 
-| 第13期リコー杯囲碁戦2回戦 | Li Qincheng | Tan Xiao | W+0.5 | 2012-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l4ustOjmXf005US%2FwSzueg%3D%3D) | 
-| 第13期リコー杯囲碁戦1回戦 | Li He | Li Qincheng | W+R | 2012-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S2eF8UlhO5s3umEHm%2BD6oA%3D%3D) | 
-| 第7期リコー杯新秀戦2回戦 | missing | Li Qincheng | W+R | 2012-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GsSAtCLl3SgxcADt6z3alA%3D%3D) | 
-| 第7期リコー杯新秀戦1回戦 | Li Qincheng | Yu Zhiying | B+R | 2012-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UbFPkBbpmJ9pGN7GOWfQXg%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ2回戦 | Lee Sedol | Li Qincheng | B+R | 2012-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N2KvM9gz0aL4CaVE6njwBA%3D%3D) | 
-| 2012ジャステック杯国際新鋭囲碁対抗戦第3戦 | Lee Jihyun | Li Qincheng | W+R | 2012-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=asAZLRY0PDvznzyCXChxFQ%3D%3D) | 
-| 2012ジャステック杯国際新鋭囲碁対抗戦第2戦 | Li Qincheng | Lin Shuyang | B+1.5 | 2012-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V5bEUiQTcACOea1aux68Ig%3D%3D) | 
-| 2012ジャステック杯国際新鋭囲碁対抗戦第1戦 | Fujita Akihiko | Li Qincheng | W+R | 2012-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r%2B5AM%2FAc1vUap4%2B2r01Iug%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ1回戦C2 | Choi Jeong | Li Qincheng | W+R | 2012-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vJBqOFVThE7TCSzCtKLSXg%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ1回戦C1 | Li Qincheng | Park Junghwan | B+R | 2012-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tXHdOALqdrM8xn9q2pGcQQ%3D%3D) | 
-| 第17回三星火災杯統合予選決勝 | Li Qincheng | Park Yeonghun | B+R | 2012-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SY4wroo4eSLf0j4NfmhhBg%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦予選 | Li Qincheng | missing | W+R | 2012-05-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AO6PFixfxu6IGTthyls0NQ%3D%3D) | 
-| 第9期倡棋杯中国プロ囲碁選手権戦予選 | Li Qincheng | Wang Lei (s) | W+3 | 2012-05-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h0ldhpPcs2y2Dkhi3YuVqA%3D%3D) | 
-| 第9期倡棋杯中国プロ囲碁選手権戦予選 | Li Qincheng | Wang Lei (b) | B+R | 2012-05-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QGlSs5%2FLUOqcMneCpy%2Bt2w%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権1回戦 | Li Qincheng | missing | W+R | 2012-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JbvRjotPb9rGFCePB7n7Hg%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権予選 | Lee Wonyoung | Li Qincheng | W+R | 2012-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e83ZlNfpzD4KAhFocyVcTg%3D%3D) | 
-| 第4回BCカード杯世界選手権1回戦 | Li Qincheng | Na Hyun | W+F | 2012-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k3Ihv3RoG43l%2FmOHaLADTQ%3D%3D) | 
-| 第12期リコー杯囲碁戦1回戦 | Niu Yutian | Li Qincheng | B+R | 2011-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PHLIV4w34bx%2F6KWpLxmZ3A%3D%3D) | 
-| 第6期リコー杯新秀戦1回戦 | Mi Yuting | Li Qincheng | B+R | 2011-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q0DTvG2M7XyfBaqZMPm2PA%3D%3D) | 
-| 第5期リコー杯新秀戦2回戦 | Yang Dingxin | Li Qincheng | B+R | 2010-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nl68se3zj%2Bn1Tb7%2B9hwRsA%3D%3D) | 
-| 第24期中国囲碁天元戦予選 | missing | Li Qincheng | B+R | 2010-01-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q%2BnMM%2FEQt2x50dvv0XuNYA%3D%3D) | 
-| 第4期リコー杯新秀戦予選 | Li Qincheng | Lian Xiao | W+R | 2009-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K9L0WoqFyKhHIlEfWyZsRg%3D%3D) | 
-| 第4期リコー杯新秀戦予選 | Li Qincheng | missing | B+R | 2009-12-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XLjJoCW9e%2FAkIawwpCZV4Q%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Li Qincheng | Chen Xian | Win | B+R | 7.5 | 3483 | 9 | 
+| 2021-05-12 | 第23回中国囲碁甲級リーグ | Li Qincheng | Jin Yucheng | Win | B+R | 6.5 | 3474 | -2 | 
+| 2021-05-11 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Li Qincheng | Lose | B+¾ | 7.5 | 3476 | -18 | 
+| 2021-05-10 | 第23回中国囲碁甲級リーグ | Li Qincheng | Byun Sangil | Lose | W+R | 7.5 | 3494 | -4 | 
+| 2021-05-08 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Li Qincheng | Win | W+R | 7.5 | 3498 | 17 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Li Qincheng | Xie Erhao | Win | B+R | 7.5 | 3481 | 22 | 
+| 2021-04-13 | 第35期中国囲碁天元戦挑戦者決定戦 | Gu Zihao | Li Qincheng | Lose | B+R | 7.5 | 3459 | -29 | 
+| 2021-04-12 | 第35期中国囲碁天元戦準決勝 | Ke Jie | Li Qincheng | Win | W+R | 7.5 | 3488 | 18 | 
+| 2021-04-10 | 第17回倡棋杯中国プロ囲碁選手権戦 | Li Qincheng | Yang Kaiwen | Lose | W+R | 7.5 | 3470 | -107 | 
+| 2021-03-23 | 第35期中国囲碁天元戦3回戦 | Liao Yuanhe | Li Qincheng | Win | W+R | 7.5 | 3577 | 4 | 
+| 2021-03-21 | 第35期中国囲碁天元戦2回戦 | Xu Jiayang | Li Qincheng | Win | W+¼ | 7.5 | 3573 | 21 | 
+| 2021-03-19 | 第35期中国囲碁天元戦1回戦 | Li Qincheng | Jiang Weijie | Win | B+¾ | 7.5 | 3552 | 64 | 
+| 2021-03-08 | 第35期中国囲碁天元戦予選 | Li Qincheng | Tu Xiaoyu | Win | B+R | 7.5 | 3488 | -115 | 
+| 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Park Junghwan | Li Qincheng | Lose | B+R | 7.5 | 3603 | -1 | 
+| 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Li Qincheng | Gu Lingyi | Win | B+R | 7.5 | 3604 | 24 | 
+| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Byun Sangil | Li Qincheng | Lose | B+R | 7.5 | 3580 | -6 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Li Qincheng | Lose | B+¾ | 7.5 | 3586 | -26 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Li Qincheng | Fan Yin | Win | B+R | 7.5 | 3612 | 18 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ |  | Li Qincheng | Win | W+1¼ | 7.5 | 3594 | -8 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Li Qincheng | Zhang Tao | Lose | W+R | 7.5 | 3602 | -7 | 
+| 2020-12-09 | 第22回中国囲碁甲級リーグ | Xie He | Li Qincheng | Win | W+R | 7.5 | 3609 | -2 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Li Qincheng | Chen Zhengxun | Lose | W+R | 7.5 | 3611 | -13 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Liao Yuanhe | Li Qincheng | Lose | B+R | 7.5 | 3624 | -33 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Li Qincheng | Chen Zijian | Win | B+¾ | 7.5 | 3657 | 124 | 
+| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Li Qincheng | Dang Yifei | Lose | W+R | 7.5 | 3533 | -75 | 
+| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Xie Ke | Li Qincheng | Lose | B+R | 7.5 | 3608 | -3 | 
+| 2020-09-11 | 第25回三星火災杯中国一般枠予選 | Li Qincheng | Meng Tailing | Lose | W+4.5 | 6.5 | 3611 | 1 | 
+| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Li Qincheng | Liao Xingwen | Win | B+R | 7.5 | 3610 | 27 | 
+| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Li Qincheng | Yang Kaiwen | Win | B+R | 7.5 | 3583 | -6 | 
+| 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Huang Jingyuan | Li Qincheng | Win | W+R | 7.5 | 3589 | 18 | 
+| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Li Qincheng | Tao Xinran | Lose | W+R | 7.5 | 3571 | -33 | 
+| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Zhao Chenyu | Li Qincheng | Win | W+R | 7.5 | 3604 | 0 | 
+| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Li Qincheng |  | Win | B+R | 7.5 | 3604 | 13 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Zhou Ruiyang | Li Qincheng | Win | W+R | 7.5 | 3591 | 35 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Li Qincheng | Huang Mingyu | Win | B+R | 7.5 | 3556 | 261 | 
+| 2020-04-16 | 第25回LG杯中国予選 | Li Qincheng | Jiang Weijie | Lose | W+R | 6.5 | 3295 | -159 | 
+| 2020-01-06 | 第34期中国囲碁天元戦1回戦 | Li Qincheng | Jiang Weijie | Lose | W+R | 7.5 | 3454 | -4 | 
+| 2020-01-05 | 第34期中国囲碁天元戦予選 | Yu Zhiying | Li Qincheng | Win | W+R | 7.5 | 3458 | 13 | 
+| 2019-12-29 | 第5期洛陽白雲山杯中国棋聖戦予選 | Zhao Chenyu | Li Qincheng | Lose | B+R | 7.5 | 3445 | -7 | 
+| 2019-12-28 | 第5期洛陽白雲山杯中国棋聖戦予選 | Li Qincheng | Tang Weixing | Win | B+R | 7.5 | 3452 | 307 | 
+| 2019-12-16 | 第11期中国竜星戦予選 | Wu Guangya | Li Qincheng | Lose | B+R | 7.5 | 3145 | -5 | 
+| 2019-12-11 | 第21回中国囲碁甲級リーグ優勝決定戦第2戦 | Li Qincheng | Xia Chenkun | Win | B+R | 7.5 | 3150 | 14 | 
+| 2019-12-09 | 第21回中国囲碁甲級リーグ優勝決定戦第1戦 | Li Qincheng | Xia Chenkun | Lose | W+¼ | 7.5 | 3136 | -76 | 
+| 2019-11-17 | 第4回全国智力運動会男子団体戦第8戦 | Li Qincheng | Yi Lingtao | Lose | W+1¼ | 7.5 | 3212 | -4 | 
+| 2019-11-16 | 第4回全国智力運動会男子団体戦第6戦 | Chen Yunong | Li Qincheng | Lose | B+R | 7.5 | 3216 | -24 | 
+| 2019-11-15 | 第4回全国智力運動会男子団体戦第4戦 | Li Qincheng | He Yuhan | Win | B+¾ | 7.5 | 3240 | 3 | 
+| 2019-11-12 | 第4回全国智力運動会プロ男子個人戦優勝決定戦 | Li Qincheng | Jiang Weijie | Lose | W+R | 7.5 | 3237 | 0 | 
+| 2019-11-12 | 第4回全国智力運動会プロ男子個人戦第7戦 | Li Xuanhao | Li Qincheng | Win | W+R | 7.5 | 3237 | -13 | 
+| 2019-11-11 | 第4回全国智力運動会プロ男子個人戦第6戦 | Li Qincheng | Fan Tingyu | Win | B+R | 7.5 | 3250 | 0 | 
+| 2019-11-11 | 第4回全国智力運動会プロ男子個人戦第5戦 | Han Yizhou | Li Qincheng | Win | W+R | 7.5 | 3250 | 31 | 
+| 2019-11-10 | 第4回全国智力運動会プロ男子個人戦第4戦 | Li Qincheng | Tuo Jiaxi | Win | B+R | 7.5 | 3219 | 13 | 
+| 2019-11-09 | 第4回全国智力運動会プロ男子個人戦第2戦 | Li Qincheng | Cheng Honghao | Win | B+R | 7.5 | 3206 | -17 | 
+| 2019-11-06 | 第21回中国囲碁甲級リーグプレーオフ3回戦第2戦 | Li Qincheng | Zhao Chenyu | Win | B+R | 7.5 | 3223 | 15 | 
+| 2019-11-04 | 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 | Chen Xian | Li Qincheng | Lose | B+R | 7.5 | 3208 | 10 | 
+| 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Park Junghwan | Li Qincheng | Lose | B+R | 7.5 | 3198 | 22 | 
+| 2019-09-11 | 第15期威孚房開杯棋王戦16強戦 | Li Qincheng | Mi Yuting | Lose | W+R | 7.5 | 3176 | -14 | 
+| 2019-08-31 | 第24回三星火災杯世界囲碁マスターズ2回戦 | Li Qincheng | Shin Minjun | Lose | W+R | 6.5 | 3190 | -8 | 
+| 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Li Qincheng | Hsu Chiayuan | Win | B+R | 6.5 | 3198 | 8 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Li Qincheng | Li Weiqing | Lose | W+R | 7.5 | 3190 | -1 | 
+| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Liao Yuanhe | Li Qincheng | Lose | B+R | 7.5 | 3191 | -46 | 
+| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Li Qincheng | Byun Sangil | Lose | W+R | 7.5 | 3237 | -33 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Chen Xian | Li Qincheng | Win | W+R | 7.5 | 3270 | -12 | 
+| 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Li Qincheng | Shen Peiran | Win | B+R | 7.5 | 3282 | 33 | 
+| 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Li Qincheng | Tan Xiao | Lose | W+R | 7.5 | 3249 | -11 | 
+| 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Li Qincheng | Li Xuanhao | Lose | W+R | 7.5 | 3260 | -25 | 
+| 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Chen Hao | Li Qincheng | Lose | B+R | 7.5 | 3285 | -12 | 
+| 2019-06-07 | 第21期阿含・桐山杯中国早碁オープン戦予選決勝 | Li Qincheng | Tuo Jiaxi | Lose | W+R | 7.5 | 3297 | -8 | 
+| 2019-06-06 | 第21期阿含・桐山杯中国早碁オープン戦予選1回戦 | Yu Zhiying | Li Qincheng | Win | W+R | 7.5 | 3305 | 7 | 
+| 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 |  | Li Qincheng | Win | W+R | 7.5 | 3298 | 40 | 
+| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Li Qincheng | Han Yizhou | Win | B+R | 7.5 | 3258 | 71 | 
+| 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Liu Xing | Li Qincheng | Win | W+R | 7.5 | 3187 | 5 | 
+| 2019-05-09 | 嫘祖杯第32期中国囲棋名人戦16強戦 | Tong Mengcheng | Li Qincheng | Lose | B+R | 7.5 | 3182 | -10 | 
+| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Li Qincheng | Sun Tengyu | Win | B+R | 7.5 | 3192 | -15 | 
+| 2019-04-19 | 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Fan Yin | Li Qincheng | Lose | B+R | 7.5 | 3207 | -43 | 
+| 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Li Qincheng | Wang Zejin | Lose | W+R | 7.5 | 3250 | -13 | 
+| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節濰坊-蘇泊爾 | Yi Lingtao | Li Qincheng | Lose | B+R | 7.5 | 3263 | 8 | 
+| 2019-03-29 | 2019CCTV杯中国囲棋電視快棋戦3回戦 | Li Qincheng | Ding Hao | Lose | W+¾ | 7.5 | 3255 | 0 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Li Qincheng | Yu Bin | Win | B+R | 7.5 | 3255 | -4 | 
+| 2019-01-07 | 第33期中国囲碁天元戦3回戦 | Li Qincheng | Mi Yuting | Lose | W+R | 7.5 | 3259 | -18 | 
+| 2018-12-27 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Shu Yixiao | Li Qincheng | Lose | B+R | 7.5 | 3277 | -20 | 
+| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節杭州-蘇泊爾 | Wu Guangya | Li Qincheng | Win | W+R | 7.5 | 3297 | 4 | 
+| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節蘇泊爾-江蘇 | Li Qincheng | Tong Mengcheng | Lose | W+R | 7.5 | 3293 | -65 | 
+| 2018-11-21 | 第4回TWTテンセント囲碁選手権決勝 | Ke Jie | Li Qincheng | Win | W+R | 7.5 | 3358 | 14 | 
+| 2018-11-19 | 第4回TWTテンセント囲碁選手権準決勝 | Mi Yuting | Li Qincheng | Win | W+R | 7.5 | 3344 | 13 | 
+| 2018-11-18 | 第4回TWTテンセント囲碁選手権8強戦 | Li Qincheng | Fan Yunruo | Win | B+¾ | 7.5 | 3331 | 11 | 
+| 2018-11-16 | 第20回中国囲碁甲級リーグ第24節浙江-蘇泊爾 | Zhang Tao | Li Qincheng | Win | W+R | 7.5 | 3320 | 2 | 
+| 2018-11-09 | 第20回中国囲碁甲級リーグ第23節蘇泊爾-江西 | Li Qincheng | Byun Sangil | Win | B+R | 7.5 | 3318 | 9 | 
+| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節成都-蘇泊爾 | Dang Yifei | Li Qincheng | Win | W+R | 7.5 | 3309 | -14 | 
+| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節蘇泊爾-重慶 | Li Qincheng | Gu Li | Lose | W+R | 7.5 | 3323 | 11 | 
+| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節中信-蘇泊爾 | Li Qincheng | Kim Myounghoon | Win | B+R | 7.5 | 3312 | -4 | 
+| 2018-10-14 | 第14期威孚房開杯棋王戦16強戦 | Li Qincheng | Gu Zihao | Lose | W+R | 7.5 | 3316 | -12 | 
+| 2018-10-13 | 第14期威孚房開杯棋王戦32強戦 | Gu Li | Li Qincheng | Win | W+R | 7.5 | 3328 | 16 | 
+| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節蘇泊爾-天津 | Tang Weixing | Li Qincheng | Lose | B+R | 7.5 | 3312 | -27 | 
+| 2018-10-08 | 第20回中国囲碁甲級リーグ第18節廈門-蘇泊爾 | Li Qincheng | Ke Jie | Win | B+R | 7.5 | 3339 | 8 | 
+| 2018-09-28 | 第20回中国囲碁甲級リーグ第17節蘇泊爾-上海 | Li Qincheng | Liao Xingwen | Win | B+¾ | 7.5 | 3331 | -7 | 
+| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節山東-蘇泊爾 | Jiang Weijie | Li Qincheng | Win | W+¼ | 7.5 | 3338 | -1 | 
+| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節蘇泊爾-衢州 | Li Qincheng |  | Win | B+R | 7.5 | 3339 | 5 | 
+| 2018-09-08 | 第20回中国囲碁甲級リーグ第14節民生-蘇泊爾 | Li Qincheng | Shi Yue | Lose | W+R | 7.5 | 3334 | -35 | 
+| 2018-08-15 | 第20回中国囲碁甲級リーグ第13節蘇泊爾-杭州 | Li Qincheng |  | Lose | W+R | 7.5 | 3369 | -18 | 
+| 2018-08-13 | 第20回中国囲碁甲級リーグ第12節江蘇-蘇泊爾 | Zhao Chenyu | Li Qincheng | Win | W+R | 7.5 | 3387 | 49 | 
+| 2018-08-06 | 第20回中国囲碁甲級リーグ第11節蘇泊爾-浙江 | Li Qincheng | Li Zhe | Win | B+R | 7.5 | 3338 | -33 | 
+| 2018-07-16 | 第20回中国囲碁甲級リーグ第10節江西-蘇泊爾 | Li Xiangyu | Li Qincheng | Win | W+R | 7.5 | 3371 | 17 | 
+| 2018-06-29 | 第20期阿含・桐山杯中国早碁オープン戦本選決勝 | Li Qincheng | Fan Tingyu | Lose | W+R | 7.5 | 3354 | -11 | 
+| 2018-06-25 | 第20回中国囲碁甲級リーグ第9節蘇泊爾-成都 | Li Qincheng | Dang Yifei | Win | B+1¾ | 7.5 | 3365 | -9 | 
+| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節重慶-蘇泊爾 | Tan Xiao | Li Qincheng | Lose | B+R | 7.5 | 3374 | -57 | 
+| 2018-05-21 | 第20回中国囲碁甲級リーグ第7節蘇泊爾-中信 | Li Qincheng | Tuo Jiaxi | Lose | W+1¼ | 7.5 | 3431 | 36 | 
+| 2018-05-17 | 嫘祖杯第31回中国囲棋名人戦16強戦 | Peng Liyao | Li Qincheng | Lose | B+R | 7.5 | 3395 | -9 | 
+| 2018-05-16 | 嫘祖杯第31回中国囲棋名人戦32強戦 | Li Qincheng | Chen Xian | Lose | Void | 7.5 | 3404 | 0 | 
+| 2018-05-16 | 嫘祖杯第31回中国囲棋名人戦32強戦 | Chen Xian | Li Qincheng | Win | W+R | 7.5 | 3404 | -20 | 
+| 2018-05-14 | 第20回中国囲碁甲級リーグ第6節天津-蘇泊爾 | Meng Tailing | Li Qincheng | Lose | B+R | 7.5 | 3424 | -4 | 
+| 2018-05-11 | 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Ke Jie | Li Qincheng | Lose | B+R | 7.5 | 3428 | -28 | 
+| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節蘇泊爾-廈門 | Li Qincheng | Zhou Ruiyang | Lose | W+R | 7.5 | 3456 | -5 | 
+| 2018-05-06 | 第9期中国竜星戦Aブロック第9局 | Li Qincheng | Lian Xiao | Lose | W+R | 7.5 | 3461 | 12 | 
+| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節上海-蘇泊爾 | Xie He | Li Qincheng | Win | W+R | 7.5 | 3449 | -2 | 
+| 2018-04-18 | 第9期中国竜星戦Aブロック第8局 | Li Qincheng | Gu Zihao | Win | B+R | 7.5 | 3451 | -2 | 
+| 2018-04-16 | 第9期中国竜星戦Aブロック第7局 | Liu Xing | Li Qincheng | Win | W+R | 7.5 | 3453 | -6 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Tuo Jiaxi | Li Qincheng | Lose | B+R | 7.5 | 3459 | 20 | 
+| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節蘇泊爾-山東 | Li Qincheng | Yi Lingtao | Win | B+R | 7.5 | 3439 | -22 | 
+| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節衢州-蘇泊爾 | Hu Yuhan | Li Qincheng | Win | W+R | 7.5 | 3461 | -28 | 
+| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節蘇泊爾-民生 | Li Qincheng | Sun Tengyu | Win | B+R | 7.5 | 3489 | -15 | 
+| 2018-01-23 | 第32期中国囲碁天元戦1回戦 | Liao Yuanhe | Li Qincheng | Lose | B+R | 7.5 | 3504 | 11 | 
+| 2018-01-10 | 第3回洛陽白雲山杯中国棋聖戦資格戦3 | Li Qincheng | Fan Tingyu | Lose | W+R | 7.5 | 3493 | -5 | 
+| 2018-01-08 | 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Xie Ke | Li Qincheng | Win | W+¼ | 7.5 | 3498 | 79 | 
+| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Hu Yaoyu | Li Qincheng | Win | W+R | 7.5 | 3419 | 9 | 
+| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Li Qincheng | Dang Yifei | Win | B+R | 7.5 | 3410 | 18 | 
+| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Sun Tengyu | Li Qincheng | Win | W+¼ | 7.5 | 3392 | 21 | 
+| 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Li Qincheng | Xie Erhao | Win | B+R | 7.5 | 3371 | -16 | 
+| 2017-10-30 | 第19回中国囲碁甲級リーグ第22節 | Huang Yunsong | Li Qincheng | Win | W+R | 7.5 | 3387 | 8 | 
+| 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Li Qincheng |  | Lose | W+R | 7.5 | 3379 | -16 | 
+| 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Jiang Weijie | Li Qincheng | Win | W+R | 7.5 | 3395 | 6 | 
+| 2017-10-15 | 2017年利民杯世界囲碁星鋭最強戦2回戦 | Li Qincheng | Byun Sangil | Lose | W+R | 7.5 | 3389 | 32 | 
+| 2017-10-14 | 2017年利民杯世界囲碁星鋭最強戦1回戦 | Lin Junyan | Li Qincheng | Win | W+R | 7.5 | 3357 | 34 | 
+| 2017-10-11 | 第13期威孚房開杯棋王戦16強戦 | Zhang Tao | Li Qincheng | Lose | B+R | 7.5 | 3323 | -6 | 
+| 2017-10-10 | 第13期威孚房開杯棋王戦32強戦 | Li Qincheng | Jiang Weijie | Lose | Void | 7.5 | 3329 | 0 | 
+| 2017-10-10 | 第13期威孚房開杯棋王戦32強加戦 | Li Qincheng | Jiang Weijie | Win | B+1.5 | 7.5 | 3329 | -28 | 
+| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Li Qincheng | Jiang Qirun | Win | B+R | 7.5 | 3357 | -11 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Li Qincheng | Kim Jiseok | Lose | W+R | 7.5 | 3368 | 45 | 
+| 2017-09-16 | 第29回テレビアジア選手権準決勝 | Lee Sedol | Li Qincheng | Lose | B+R | 7.5 | 3323 | -15 | 
+| 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Li Qincheng | Tuo Jiaxi | Win | B+R | 7.5 | 3338 | 20 | 
+| 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Li Xiangyu | Li Qincheng | Win | W+R | 7.5 | 3318 | -6 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Li Qincheng | An Dongxu | Win | B+R | 7.5 | 3324 | 18 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Ichiriki Ryo | Li Qincheng | Win | W+R | 7.5 | 3306 | 21 | 
+| 2017-08-15 | 中国浙江平湖当湖十局杯CCTV8強 | Li Qincheng | Zhang Tao | Lose | W+R | 7.5 | 3285 | -9 | 
+| 2017-08-14 | 中国浙江平湖当湖十局杯CCTV16強 | Tuo Jiaxi | Li Qincheng | Win | W+R | 7.5 | 3294 | 20 | 
+| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Li Qincheng | Li Zhe | Win | B+1.5 | 7.5 | 3274 | 6 | 
+| 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Liao Yuanhe | Li Qincheng | Lose | B+R | 7.5 | 3268 | 0 | 
+| 2017-08-06 | 嫘祖杯30回中国名人戦8強戦 | Mi Yuting | Li Qincheng | Lose | B+R | 7.5 | 3268 | -4 | 
+| 2017-08-05 | 嫘祖杯30回中国名人戦16強戦 | Gu Li | Li Qincheng | Win | W+2.5 | 7.5 | 3272 | 8 | 
+| 2017-08-03 | 嫘祖杯30回中国名人戦32強戦 | Xie Erhao | Li Qincheng | Win | W+R | 7.5 | 3264 | 13 | 
+| 2017-07-31 | 4回国手山脈杯世界団体戦決勝 | Li Qincheng | Lee Sedol | Win | B+R | 6.5 | 3251 | 13 | 
+| 2017-07-29 | 4回国手山脈杯世界団体戦4強戦 | Li Qincheng | Wang Yuanjun | Win | B+R | 6.5 | 3238 | 10 | 
+| 2017-07-26 | 第8期中国竜星戦決勝三番勝負第2局 | Li Qincheng | Ke Jie | Lose | W+R | 7.5 | 3228 | -10 | 
+| 2017-07-25 | 第8期中国竜星戦決勝三番勝負第1局 | Ke Jie | Li Qincheng | Lose | B+R | 7.5 | 3238 | -19 | 
+| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Li Qincheng | Ding Shixiong | Win | B+R | 7.5 | 3257 | 10 | 
+| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Chen Zhengxun | Li Qincheng | Win | W+0.5 | 7.5 | 3247 | 2 | 
+| 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Li Qincheng | Mi Yuting | Win | B+1.5 | 7.5 | 3245 | -35 | 
+| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 |  | Li Qincheng | Lose | B+R | 7.5 | 3280 | -56 | 
+| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Li Qincheng | Chen Zijian | Lose | W+0.5 | 7.5 | 3336 | -32 | 
+| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Li Qincheng | Ke Jie | Lose | W+R | 7.5 | 3368 | -3 | 
+| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Li Qincheng | Xu Jiayang | Win | B+R | 7.5 | 3371 | 26 | 
+| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Li Qincheng | Han Yizhou | Lose | W+0.5 | 7.5 | 3345 | -14 | 
+| 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Li Qincheng | Ding Hao | Win | B+R | 7.5 | 3359 | -16 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 |  | Li Qincheng | Win | W+R | 7.5 | 3375 | -1 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Li Qincheng | Li Xuanhao | Win | B+R | 7.5 | 3376 | 47 | 
+| 2017-04-18 | 第19期中国阿含桐山杯本選3回戦 | Liao Xingwen | Li Qincheng | Win | W+0.5 | 7.5 | 3329 | 0 | 
+| 2017-04-17 | 第19期中国阿含桐山杯本選2回戦 | Rui Naiwei | Li Qincheng | Win | W+R | 7.5 | 3329 | -13 | 
+| 2017-04-12 | 第8期中国竜星戦準決勝 | Gu Zihao | Li Qincheng | Win | W+R | 7.5 | 3342 | 186 | 
+| 2017-03-16 | 第8期中国竜星戦Aブロック9回戦 | Chen Yaoye | Li Qincheng | Lose | B+1.5 | 7.5 | 3156 | -18 | 
+| 2017-03-14 | 第8期中国竜星戦Aブロック7回戦 | Li Qincheng | Gu Li | Win | B+R | 7.5 | 3174 | 0 | 
+| 2017-03-14 | 第8期中国竜星戦Aブロック8回戦 | Tuo Jiaxi | Li Qincheng | Win | W+R | 7.5 | 3174 | 15 | 
+| 2017-03-01 | 第8期中国竜星戦Aブロック6回戦 | Liu Xing | Li Qincheng | Win | W+R | 7.5 | 3159 | 48 | 
+| 2017-01-14 | 第31期中国囲碁天元戦1回戦 | Li Qincheng | Chen Xian | Lose | W+R | 7.5 | 3111 | 12 | 
+| 2017-01-01 | Alphago Online Series on Tygem and Fox 31 |  | Li Qincheng | Lose | B+R | 6.5 | 3099 | 0 | 
+| 2016-12-31 | 2016年利民杯世界囲碁星鋭最強戦1回戦 | Yi Lingtao | Li Qincheng | Lose | B+R | 7.5 | 3099 | -7 | 
+| 2016-12-24 | 嫘祖杯第29期中国名人戦32強戦 | Li Qincheng | Tan Xiao | Lose | W+R | 7.5 | 3106 | -12 | 
+| 2016-12-03 | 第18回中国囲碁甲級リーグ第22節 | Jiang Qirun | Li Qincheng | Lose | B+1.5 | 7.5 | 3118 | -6 | 
+| 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Li Qincheng | Liao Yuanhe | Win | B+R | 7.5 | 3124 | 2 | 
+| 2016-11-28 | 2016CCTV杯中国囲棋電視快棋戦決勝 | Li Qincheng | Mi Yuting | Lose | W+0.5 | 7.5 | 3122 | 32 | 
+| 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 |  | Li Qincheng | Win | W+R | 7.5 | 3090 | 5 | 
+| 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 | Li Qincheng | Meng Tailing | Lose | W+R | 7.5 | 3085 | -1 | 
+| 2016-11-12 | 第18回中国囲碁甲級リーグ第18節 |  | Li Qincheng | Lose | B+R | 7.5 | 3086 | -67 | 
+| 2016-11-04 | 第18回中国囲碁甲級リーグ第17節 | Li Qincheng | Li Xuanhao | Win | B+R | 7.5 | 3153 | 18 | 
+| 2016-10-28 | 第18回中国囲碁甲級リーグ第16節 | Shin Jinseo | Li Qincheng | Win | W+R | 7.5 | 3135 | 31 | 
+| 2016-10-24 | 2016南昌紅谷灘杯世界精英戦2局 | Li Qincheng | Ichiriki Ryo | Lose | W+R | 7.5 | 3104 | -43 | 
+| 2016-10-12 | 第6回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Li Qincheng | Mi Yuting | Lose | W+R | 7.5 | 3147 | -7 | 
+| 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Li Qincheng | Tao Xinran | Win | B+R | 7.5 | 3154 | -6 | 
+| 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Fan Tingyu | Li Qincheng | Win | W+R | 7.5 | 3160 | 37 | 
+| 2016-09-25 | 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Hirata Tomoya | Li Qincheng | Lose | B+0.5 | 6.5 | 3123 | -31 | 
+| 2016-09-24 | 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Li Qincheng | Min Sangyoun | Win | B+R | 6.5 | 3154 | -1 | 
+| 2016-09-23 | 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Lin Junyan | Li Qincheng | Win | W+2.5 | 6.5 | 3155 | -82 | 
+| 2016-09-07 | 第21回三星火災杯世界囲碁マスターズ1回戦D2 | Ichiriki Ryo | Li Qincheng | Lose | B+R | 6.5 | 3237 | -15 | 
+| 2016-09-06 | 第21回三星火災杯世界囲碁マスターズ1回戦D1 | Li Qincheng | Fan Tingyu | Lose | W+R | 6.5 | 3252 | -7 | 
+| 2016-09-04 | 第28回テレビアジア選手権決勝 | Li Qincheng | Shin Jinseo | Win | B+R | 6.5 | 3259 | 9 | 
+| 2016-09-03 | 第28回テレビアジア選手権準決勝 | Li Qincheng | Lee Sedol | Win | B+7.5 | 6.5 | 3250 | 10 | 
+| 2016-09-02 | 第28回テレビアジア選手権1回戦 | Li Qincheng | Cho U | Win | B+R | 6.5 | 3240 | -1 | 
+| 2016-08-22 | 第12期威孚房開杯棋王戦1回戦 | Gu Li | Li Qincheng | Lose | B+R | 7.5 | 3241 | -102 | 
+| 2016-07-20 | 第21回三星火災杯統合予選決勝 | Li Qincheng | Li Xuanhao | Win | B+R | 6.5 | 3343 | 141 | 
+| 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Li Qincheng | Zhang Tao | Win | B+1.5 | 7.5 | 3202 | 8 | 
+| 2016-07-02 | 第3回百霊杯世界オープン戦3回戦 | Li Qincheng | Lian Xiao | Lose | W+R | 7.5 | 3194 | -22 | 
+| 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Li Qincheng | Mok Jinseok | Win | B+R | 7.5 | 3216 | 9 | 
+| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Li Qincheng | Yuki Satoshi | Win | B+R | 7.5 | 3207 | 10 | 
+| 2016-06-25 | 第18回中国囲碁甲級リーグ第10節 |  | Li Qincheng | Win | W+R | 7.5 | 3197 | -12 | 
+| 2016-06-20 | 第18回中国囲碁甲級リーグ第9節 | Li Qincheng |  | Win | B+1.5 | 7.5 | 3209 | 8 | 
+| 2016-06-16 | 第18回中国囲碁甲級リーグ第8節 | Meng Tailing | Li Qincheng | Lose | B+R | 7.5 | 3201 | -11 | 
+| 2016-06-12 | 2016CCTV杯中国囲棋電視快棋戦準決勝 | Li Qincheng | Tong Mengcheng | Win | B+R | 7.5 | 3212 | 12 | 
+| 2016-06-06 | 第18回中国囲碁甲級リーグ第7節 | Li Qincheng | Huang Yunsong | Lose | W+R | 7.5 | 3200 | -1 | 
+| 2016-06-04 | 2016CCTV杯中国囲棋電視快棋戦4回戦 | Gu Zihao | Li Qincheng | Win | W+R | 7.5 | 3201 | 0 | 
+| 2016-06-04 | 2016CCTV杯中国囲棋電視快棋戦3回戦 | Yang Dingxin | Li Qincheng | Win | W+R | 7.5 | 3201 | 13 | 
+| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦2回戦 | Li Qincheng | An Dongxu | Win | B+R | 7.5 | 3188 | 0 | 
+| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Li Qincheng | Zhou Hexi | Win | B+R | 7.5 | 3188 | 41 | 
+| 2016-05-22 | 第18回中国囲碁甲級リーグ第6節 | Tan Xiao | Li Qincheng | Win | W+R | 7.5 | 3147 | 12 | 
+| 2016-05-20 | 第6回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Tan Xiao | Li Qincheng | Win | W+R | 7.5 | 3135 | 69 | 
+| 2016-05-18 | 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Li Qincheng | Zhou Ruiyang | Win | B+R | 7.5 | 3066 | 1 | 
+| 2016-05-16 | 第18回中国囲碁甲級リーグ第5節 | Li Qincheng | Shin Jinseo | Lose | W+R | 7.5 | 3065 | -57 | 
+| 2016-05-09 | 第18回中国囲碁甲級リーグ第4節 | Peng Liyao | Li Qincheng | Win | W+R | 7.5 | 3122 | 0 | 
+| 2016-05-07 | 第18期阿含・桐山杯中国早碁オープン戦予選 | Li Qincheng | Gu Zihao | Lose | W+R | 7.5 | 3122 | -19 | 
+| 2016-05-06 | 第18期阿含・桐山杯中国早碁オープン戦予選 | Li Qincheng |  | Win | B+R | 7.5 | 3141 | 4 | 
+| 2016-04-30 | 第18回中国囲碁甲級リーグ第3節 | Li Qincheng | Fan Tingyu | Win | B+R | 7.5 | 3137 | 52 | 
+| 2016-04-24 | 第3回グロービス杯世界囲碁U-20決勝 | Li Qincheng | Hsu Chiayuan | Win | B+R | 6.5 | 3085 | 0 | 
+| 2016-04-24 | 第3回グロービス杯世界囲碁U-20準決勝 | Li Qincheng | Byun Sangil | Win | B+R | 6.5 | 3085 | 12 | 
+| 2016-04-23 | 第3回グロービス杯世界囲碁U-20準々決勝 | Shibano Toramaru | Li Qincheng | Win | W+R | 6.5 | 3073 | 0 | 
+| 2016-04-23 | 第3回グロービス杯世界囲碁U-20グループリーグB | Li Qincheng | Mutsuura Yuta | Win | B+R | 6.5 | 3073 | 3 | 
+| 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグB | Grigorij Fionin | Li Qincheng | Win | W+R | 6.5 | 3070 | 0 | 
+| 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグB | Li Qincheng | Shin Jinseo | Lose | W+R | 6.5 | 3070 | -21 | 
+| 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Sun Tengyu | Li Qincheng | Win | W+R | 7.5 | 3091 | 10 | 
+| 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Li Qincheng | Tuo Jiaxi | Lose | W+R | 7.5 | 3081 | 7 | 
+| 2016-04-05 | 第21回LG杯予選 |  | Li Qincheng | Lose | B+0.5 | 6.5 | 3074 | -41 | 
+| 2016-03-19 | 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Li Qincheng |  | Lose | W+1 | 7.5 | 3115 | -62 | 
+| 2016-02-21 | 2016四都市新鋭対抗戦第3戦 | Li Qincheng | Ida Atsushi | Win | B+R | 6.5 | 3177 | 1 | 
+| 2016-02-20 | 2016四都市新鋭対抗戦第2戦 | Shin Jinseo | Li Qincheng | Lose | B+R | 6.5 | 3176 | -5 | 
+| 2016-02-19 | 2016四都市新鋭対抗戦第1戦 | Wang Yuanjun | Li Qincheng | Win | W+3.5 | 6.5 | 3181 | -57 | 
+| 2016-01-20 | 第7期中国竜星戦3回戦 | Li Qincheng | Chen Yaoye | Lose | W+R | 7.5 | 3238 | -22 | 
+| 2016-01-15 | 第30期中国囲碁天元戦1回戦 | Wang Haoyang | Li Qincheng | Lose | B+1.5 | 7.5 | 3260 | 1 | 
+| 2015-12-06 | 第17回中国囲碁甲級リーグ第22節 | Liao Xingwen | Li Qincheng | Win | W+R | 7.5 | 3259 | 11 | 
+| 2015-12-04 | 第17回中国囲碁甲級リーグ第21節 | Li Qincheng | Tong Mengcheng | Lose | W+R | 7.5 | 3248 | 3 | 
+| 2015-11-28 | 2015年利民杯世界囲碁星鋭最強戦1回戦 |  | Li Qincheng | Lose | B+R | 7.5 | 3245 | -4 | 
+| 2015-11-23 | 第17回中国囲碁甲級リーグ第14節 | Li Qincheng | Zhou Hexi | Lose | W+0.5 | 7.5 | 3249 | -11 | 
+| 2015-11-13 | 第17回中国囲碁甲級リーグ第20節 | Hu Yaoyu | Li Qincheng | Lose | B+R | 7.5 | 3260 | -17 | 
+| 2015-11-08 | 第17回中国囲碁甲級リーグ第19節 | Li Qincheng | Huang Yunsong | Win | B+R | 7.5 | 3277 | -2 | 
+| 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 | Li Qincheng | Jiang Weijie | Lose | W+R | 7.5 | 3279 | -19 | 
+| 2015-10-24 | 第7期中国竜星戦2回戦 | Shi Yue | Li Qincheng | Win | W+R | 7.5 | 3298 | 23 | 
+| 2015-10-19 | 第7期中国竜星戦1回戦 | Li Qincheng | Tang Weixing | Win | B+R | 7.5 | 3275 | -3 | 
+| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Tuo Jiaxi | Li Qincheng | Lose | B+R | 7.5 | 3278 | -8 | 
+| 2015-10-15 | 第17回中国囲碁甲級リーグ第15節 | Gu Li | Li Qincheng | Win | W+R | 7.5 | 3286 | 6 | 
+| 2015-10-13 | 第11期威孚房開杯棋王戦2回戦 | Li Qincheng | Meng Tailing | Lose | W+R | 7.5 | 3280 | -12 | 
+| 2015-10-12 | 第11期威孚房開杯棋王戦1回戦 | Li Qincheng | Tuo Jiaxi | Win | B+R | 7.5 | 3292 | 8 | 
+| 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Li Qincheng |  | Win | B+R | 7.5 | 3284 | 58 | 
+| 2015-09-28 | 第12期倡棋杯中国プロ囲碁選手権戦準決勝第3局 | Li Qincheng | Lian Xiao | Lose | W+1 | 7.5 | 3226 | -9 | 
+| 2015-09-27 | 第12期倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Li Qincheng | Lian Xiao | Win | B+R | 7.5 | 3235 | 11 | 
+| 2015-09-26 | 第12期倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Lian Xiao | Li Qincheng | Lose | B+R | 7.5 | 3224 | 0 | 
+| 2015-09-18 | 第3回全国智力運動会囲碁男子団体戦 | Tang Weixing | Li Qincheng | Lose | B+R | 7.5 | 3224 | -36 | 
+| 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Piao Wenyao | Li Qincheng | Win | W+R | 7.5 | 3260 | 1 | 
+| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Li Qincheng | Liu Xing | Win | B+R | 7.5 | 3259 | -7 | 
+| 2015-08-30 | 第2回夢百合杯世界オープン戦3回戦 | Tang Weixing | Li Qincheng | Lose | B+R | 7.5 | 3266 | -30 | 
+| 2015-08-23 | 第17期阿含・桐山杯中国早碁オープン戦準決勝 | Huang Yunsong | Li Qincheng | Lose | B+R | 7.5 | 3296 | -21 | 
+| 2015-07-29 | 第7期中国竜星戦予選 | Chen Yunong | Li Qincheng | Win | W+R | 7.5 | 3317 | 6 | 
+| 2015-07-27 | 第17期阿含・桐山杯中国早碁オープン戦2回戦 | Mi Yuting | Li Qincheng | Win | W+R | 7.5 | 3311 | -11 | 
+| 2015-07-23 | 第28期中国囲碁名人戦挑戦者決定戦第2局 | Lian Xiao | Li Qincheng | Lose | B+R | 7.5 | 3322 | -7 | 
+| 2015-07-21 | 第28期中国囲碁名人戦挑戦者決定戦第1局 | Li Qincheng | Lian Xiao | Lose | W+R | 7.5 | 3329 | -27 | 
+| 2015-07-09 | 第2回夢百合杯世界オープン戦2回戦 | Li Qincheng | Fan Yin | Win | B+R | 7.5 | 3356 | 10 | 
+| 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Li Qincheng | Lee Wonyoung | Win | B+R | 7.5 | 3346 | 1 | 
+| 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 | Meng Tailing | Li Qincheng | Lose | B+R | 7.5 | 3345 | -22 | 
+| 2015-07-02 | 第17期阿含・桐山杯中国早碁オープン戦1回戦 | Li Qincheng | Shi Yue | Win | B+3.5 | 7.5 | 3367 | 14 | 
+| 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Li Qincheng | Qiu Jun | Lose | W+R | 7.5 | 3353 | -28 | 
+| 2015-06-28 | 第28期中国囲碁名人戦準決勝 | Guo Yuzheng | Li Qincheng | Win | W+R | 7.5 | 3381 | -1 | 
+| 2015-06-25 | 第17回中国囲碁甲級リーグ第8節 |  | Li Qincheng | Win | W+R | 7.5 | 3382 | -69 | 
+| 2015-06-23 | 第28期中国囲碁名人戦3回戦 | Yang Dingxin | Li Qincheng | Win | W+R | 7.5 | 3451 | 11 | 
+| 2015-06-16 | 第17期阿含・桐山杯中国早碁オープン戦予選 | Li Qincheng | Zhou Ruiyang | Win | B+1.5 | 7.5 | 3440 | 7 | 
+| 2015-06-13 | 第17回中国囲碁甲級リーグ第7節 | Li Qincheng | Zhou Ruiyang | Lose | W+R | 7.5 | 3433 | -13 | 
+| 2015-06-11 | 第28期中国囲碁名人戦2回戦 | Li Qincheng | Zhou Ruiyang | Win | B+3.5 | 7.5 | 3446 | -6 | 
+| 2015-05-28 | 第17回中国囲碁甲級リーグ第6節 | Li Qincheng | Tuo Jiaxi | Win | B+3.5 | 7.5 | 3452 | 17 | 
+| 2015-05-26 | 第2回夢百合杯世界オープン戦予選 | Li Qincheng | Ahn Kukhyun | Win | B+R | 7.5 | 3435 | -2 | 
+| 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Yang Kaiwen | Li Qincheng | Lose | B+R | 7.5 | 3437 | -22 | 
+| 2015-05-16 | 第17回中国囲碁甲級リーグ第4節 | Gu Li | Li Qincheng | Lose | B+R | 7.5 | 3459 | 8 | 
+| 2015-05-10 | 第2回グロービス杯世界囲碁U-20三位決定戦 | Li Qincheng | Lee Donghoon | Win | B+R | 6.5 | 3451 | 0 | 
+| 2015-05-10 | 第2回グロービス杯世界囲碁U-20準決勝 | Na Hyun | Li Qincheng | Lose | B+R | 6.5 | 3451 | 36 | 
+| 2015-05-09 | 第2回グロービス杯世界囲碁U-20準々決勝 | Sada Atsushi | Li Qincheng | Win | W+6.5 | 6.5 | 3415 | -41 | 
+| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグC | Li Qincheng | Motoki Katsuya | Win | B+R | 6.5 | 3456 | 0 | 
+| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグC | Shin Jinseo | Li Qincheng | Win | W+R | 6.5 | 3456 | 3 | 
+| 2015-05-06 | 第28期中国囲碁名人戦1回戦 | Li Qincheng | Wang Yao | Win | B+R | 7.5 | 3453 | -14 | 
+| 2015-05-01 | 第17回中国囲碁甲級リーグ第2節 | Li Qincheng | Piao Wenyao | Win | B+R | 7.5 | 3467 | 41 | 
+| 2015-04-22 | 第17回中国囲碁甲級リーグ第1節 | Liu Xing | Li Qincheng | Win | W+R | 7.5 | 3426 | 29 | 
+| 2015-04-07 | 第12期倡棋杯中国プロ囲碁選手権戦3回戦 | Li Qincheng | Fan Tingyu | Win | B+R | 7.5 | 3397 | 17 | 
+| 2015-04-05 | 第12期倡棋杯中国プロ囲碁選手権戦2回戦 | Wang Xi | Li Qincheng | Win | W+R | 7.5 | 3380 | 7 | 
+| 2015-04-03 | 第12期倡棋杯中国プロ囲碁選手権戦1回戦 | Mi Yuting | Li Qincheng | Win | W+1 | 7.5 | 3373 | 9 | 
+| 2015-03-23 | 第12期倡棋杯中国プロ囲碁選手権戦予選 | Cao Xiaoyang | Li Qincheng | Win | W+R | 7.5 | 3364 | -152 | 
+| 2015-02-04 | 第29期中国囲碁天元戦挑戦者決定戦 | Li Qincheng | Mi Yuting | Lose | W+R | 7.5 | 3516 | -10 | 
+| 2015-02-02 | 第29期中国囲碁天元戦準決勝 | Li Qincheng | Tang Weixing | Win | B+R | 7.5 | 3526 | 12 | 
+| 2015-01-31 | 第29期中国囲碁天元戦3回戦 | Li Qincheng | Lian Xiao | Win | B+R | 7.5 | 3514 | 12 | 
+| 2015-01-29 | 第29期中国囲碁天元戦2回戦 | Shi Yue | Li Qincheng | Win | W+0.5 | 7.5 | 3502 | 42 | 
+| 2015-01-27 | 第29期中国囲碁天元戦1回戦 | Li Qincheng | Luo Xihe | Win | B+1.5 | 7.5 | 3460 | 14 | 
+| 2014-12-31 | 第15期リコー杯囲碁戦1回戦 | Li Qincheng |  | Lose | W+2.5 | 7.5 | 3446 | 3 | 
+| 2014-12-21 | 2014年利民杯世界囲碁星鋭最強戦3回戦 | Li Qincheng | Yang Dingxin | Lose | W+R | 7.5 | 3443 | -7 | 
+| 2014-12-20 | 2014年利民杯世界囲碁星鋭最強戦2回戦 | Li Qincheng | Aaron Ye | Win | B+R | 7.5 | 3450 | 4 | 
+| 2014-12-19 | 2014年利民杯世界囲碁星鋭最強戦1回戦 | Li Qincheng | Ichiriki Ryo | Win | B+R | 7.5 | 3446 | 47 | 
+| 2014-12-05 | 第6期中国竜星戦3回戦 | Fan Tingyu | Li Qincheng | Lose | B+R | 7.5 | 3399 | 123 | 
+| 2014-10-25 | 第6期中国竜星戦2回戦 | Li Qincheng | An Dongxu | Win | B+R | 7.5 | 3276 | -64 | 
+| 2014-10-03 | 2014年国際新鋭囲碁対抗戦第3戦 | Li Qincheng | Lin Shuyang | Lose | W+R | 6.5 | 3340 | -39 | 
+| 2014-10-02 | 2014年国際新鋭囲碁対抗戦第2戦 | Li Qincheng | Shin Minjun | Lose | W+R | 6.5 | 3379 | -7 | 
+| 2014-10-01 | 2014年国際新鋭囲碁対抗戦第1戦 | Fujimura Yosuke | Li Qincheng | Win | W+R | 6.5 | 3386 | 20 | 
+| 2014-09-02 | 第6期中国竜星戦1回戦 | Li Qincheng | Zhou Ruiyang | Win | B+1.5 | 7.5 | 3366 | 6 | 
+| 2014-08-16 | 第26回テレビアジア選手権1回戦 | Kono Rin | Li Qincheng | Lose | B+1.5 | 7.5 | 3360 | 12 | 
+| 2014-06-26 | 第6期中国竜星戦予選 |  | Li Qincheng | Win | W+R | 7.5 | 3348 | -3 | 
+| 2014-06-25 | 第6期中国竜星戦予選 | Li Qincheng | Fan Yin | Win | B+1.5 | 7.5 | 3351 | 20 | 
+| 2014-06-18 | 2014年中韓新鋭対抗戦第3戦 | Li Qincheng | Byun Sangil | Lose | W+R | 6.5 | 3331 | 0 | 
+| 2014-06-18 | 2014年中韓新鋭対抗戦第2戦 | Li Qincheng | Shin Jinseo | Lose | W+R | 6.5 | 3331 | -17 | 
+| 2014-06-17 | 2014年中韓新鋭対抗戦第1戦 | Min Sangyoun | Li Qincheng | Win | W+R | 6.5 | 3348 | 88 | 
+| 2014-05-10 | 第1回グロービス杯世界囲碁U-20準々決勝 | Li Qincheng | Hsu Chiayuan | Lose | W+R | 6.5 | 3260 | -16 | 
+| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグC | Li Qincheng | Sun Zhe | Win | B+0.5 | 6.5 | 3276 | 0 | 
+| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグC | Li Qincheng | Shin Jinseo | Win | B+R | 6.5 | 3276 | 29 | 
+| 2014-05-07 | 2014CCTV杯中国囲棋電視快棋戦決勝 | Li Qincheng | Tao Xinran | Win | B+R | 7.5 | 3247 | 0 | 
+| 2014-05-07 | 2014CCTV杯中国囲棋電視快棋戦準決勝 | Li Qincheng | Wang Haoyang | Win | B+R | 7.5 | 3247 | 15 | 
+| 2014-05-06 | 2014CCTV杯中国囲棋電視快棋戦4回戦 | Fan Tingyu | Li Qincheng | Win | W+R | 7.5 | 3232 | 0 | 
+| 2014-05-06 | 2014CCTV杯中国囲棋電視快棋戦3回戦 | Zhou Hexi | Li Qincheng | Win | W+R | 7.5 | 3232 | 16 | 
+| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦2回戦 | Li Qincheng | Niu Yutian | Win | B+R | 7.5 | 3216 | 0 | 
+| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Li Qincheng | Chen Yaoye | Win | B+5.5 | 7.5 | 3216 | -116 | 
+| 2014-04-23 | 2014年中国囲碁乙級リーグ | Byun Sangil | Li Qincheng | Win | W+4.5 | 7.5 | 3332 | 22 | 
+| 2014-04-14 | 第19回LG杯予選 | Kim Junghyun | Li Qincheng | Lose | B+R | 6.5 | 3310 | 7 | 
+| 2014-04-01 | 第27期中国囲碁名人戦予選 | Sun Li | Li Qincheng | Lose | B+R | 7.5 | 3303 | 26 | 
+| 2014-03-27 | 第11期倡棋杯中国プロ囲碁選手権戦予選 | Li Qincheng | Guo Yuzheng | Win | B+R | 7.5 | 3277 | -3 | 
+| 2014-03-04 | 第21期建橋杯中国囲碁新人王戦決勝三番勝負第3局 | Yu Zhiying | Li Qincheng | Lose | B+R | 7.5 | 3280 | -17 | 
+| 2014-03-02 | 第21期建橋杯中国囲碁新人王戦決勝三番勝負第2局 | Li Qincheng | Yu Zhiying | Win | B+5.5 | 7.5 | 3297 | 7 | 
+| 2014-03-01 | 第21期建橋杯中国囲碁新人王戦決勝三番勝負第1局 | Yu Zhiying | Li Qincheng | Lose | B+R | 7.5 | 3290 | -20 | 
+| 2014-02-13 | 第21期建橋杯中国囲碁新人王戦準決勝 | Li Qincheng | Jiang Qirun | Win | B+R | 7.5 | 3310 | -3 | 
+| 2014-02-12 | 第21期建橋杯中国囲碁新人王戦3回戦 | Xie Ke | Li Qincheng | Win | W+R | 7.5 | 3313 | -6 | 
+| 2014-02-11 | 第21期建橋杯中国囲碁新人王戦2回戦 | Chen Zhengxun | Li Qincheng | Win | W+R | 7.5 | 3319 | -14 | 
+| 2014-02-10 | 第21期建橋杯中国囲碁新人王戦1回戦 | Li Qincheng |  | Win | B+R | 7.5 | 3333 | -50 | 
+| 2014-01-15 | 第28期中国囲碁天元戦1回戦 | Li Qincheng | Zhou Ruiyang | Lose | W+R | 7.5 | 3383 | -37 | 
+| 2014-01-14 | 第28期中国囲碁天元戦予選 | Hu Yaoyu | Li Qincheng | Win | W+R | 7.5 | 3420 | 13 | 
+| 2013-12-30 | 第14期リコー杯囲碁戦2回戦 | Li Qincheng | Wang Xi | Lose | W+R | 7.5 | 3407 | -3 | 
+| 2013-12-29 | 第14期リコー杯囲碁戦1回戦 | Li Qincheng | Yu Zhiying | Win | B+R | 7.5 | 3410 | 19 | 
+| 2013-12-28 | 第8期リコー杯新秀戦2回戦 | Li Qincheng | Gu Zihao | Lose | W+0.5 | 7.5 | 3391 | -27 | 
+| 2013-12-27 | 第8期リコー杯新秀戦1回戦 | Xu Jiayang | Li Qincheng | Win | W+R | 7.5 | 3418 | 69 | 
+| 2013-12-10 | 第8期リコー杯新秀戦予選 |  | Li Qincheng | Win | W+R | 7.5 | 3349 | 16 | 
+| 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 | Li Qincheng | Xie Erhao | Win | B+R | 7.5 | 3333 | 33 | 
+| 2013-11-23 | 第15回中国囲碁甲級リーグ第21節 | Zhang Tao | Li Qincheng | Lose | B+R | 7.5 | 3300 | -26 | 
+| 2013-11-16 | 第15回中国囲碁甲級リーグ第20節 | Li Qincheng | Xie He | Win | B+1.5 | 7.5 | 3326 | 34 | 
+| 2013-11-11 | 第18回LG杯朝鮮日報棋王戦3回戦 | Zhou Ruiyang | Li Qincheng | Lose | B+R | 6.5 | 3292 | -6 | 
+| 2013-11-02 | 第15回中国囲碁甲級リーグ第19節 |  | Li Qincheng | Lose | B+R | 7.5 | 3298 | -15 | 
+| 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 | Li Qincheng |  | Win | B+R | 7.5 | 3313 | 28 | 
+| 2013-10-20 | 第15回中国囲碁甲級リーグ第17節 | Peng Quan | Li Qincheng | Win | W+R | 7.5 | 3285 | -19 | 
+| 2013-10-13 | 第15回中国囲碁甲級リーグ第16節 | Peng Liyao | Li Qincheng | Win | W+0.5 | 7.5 | 3304 | -186 | 
+| 2013-09-12 | 第15回中国囲碁甲級リーグ第15節 | Li Qincheng | Tuo Jiaxi | Lose | W+R | 7.5 | 3490 | 17 | 
+| 2013-09-07 | 第15回中国囲碁甲級リーグ第14節 | Fan Tingyu | Li Qincheng | Lose | B+3.5 | 7.5 | 3473 | -6 | 
+| 2013-09-01 | 第15回中国囲碁甲級リーグ第13節 | Li Qincheng |  | Win | B+1.5 | 7.5 | 3479 | 12 | 
+| 2013-08-30 | 第15回中国囲碁甲級リーグ第12節 |  | Li Qincheng | Win | W+R | 7.5 | 3467 | -35 | 
+| 2013-08-16 | 2013年宏達杯全国囲碁星鋭最強戦第3ステージ | Li Qincheng | Qin Yuexin | Win | B+R | 7.5 | 3502 | 101 | 
+| 2013-07-15 | 第15回中国囲碁甲級リーグ第11節 | Xie Erhao | Li Qincheng | Win | W+R | 7.5 | 3401 | 6 | 
+| 2013-07-11 | 第1回夢百合杯世界オープン戦2回戦 | Li Qincheng | Yuki Satoshi | Lose | W+R | 7.5 | 3395 | 27 | 
+| 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 | Piao Wenyao | Li Qincheng | Win | W+R | 7.5 | 3368 | 53 | 
+| 2013-07-07 | 第15回中国囲碁甲級リーグ第10節 | Li Qincheng | Tong Mengcheng | Lose | W+R | 7.5 | 3315 | -42 | 
+| 2013-06-28 | 2013年宏達杯全国囲碁星鋭最強戦第2ステージ |  | Li Qincheng | Lose | B+R | 7.5 | 3357 | 12 | 
+| 2013-06-22 | 第15回中国囲碁甲級リーグ第9節 | Gu Li | Li Qincheng | Lose | B+R | 7.5 | 3345 | -76 | 
+| 2013-06-18 | 第15回中国囲碁甲級リーグ第8節 |  | Li Qincheng | Lose | B+R | 7.5 | 3421 | 14 | 
+| 2013-06-12 | 第18回LG杯朝鮮日報棋王戦2回戦 | Mok Jinseok | Li Qincheng | Win | W+R | 6.5 | 3407 | 8 | 
+| 2013-06-10 | 第18回LG杯朝鮮日報棋王戦1回戦 | Park Yeonghun | Li Qincheng | Win | W+R | 6.5 | 3399 | 1 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Li Qincheng | Xia Chenkun | Lose | W+0.5 | 7.5 | 3398 | -59 | 
+| 2013-06-02 | 第15回中国囲碁甲級リーグ第7節 | Wang Lei (s) | Li Qincheng | Win | W+4.5 | 7.5 | 3457 | 129 | 
+| 2013-05-18 | 第15回中国囲碁甲級リーグ第6節 | Li Qincheng | Tang Weixing | Win | B+R | 7.5 | 3328 | 16 | 
+| 2013-05-11 | 第15回中国囲碁甲級リーグ第5節 | Li Qincheng | Wu Guangya | Win | B+1.5 | 7.5 | 3312 | 14 | 
+| 2013-05-09 | 第15回中国囲碁甲級リーグ第4節 | Chen Yaoye | Li Qincheng | Lose | B+R | 7.5 | 3298 | -8 | 
+| 2013-05-04 | 第15回中国囲碁甲級リーグ第3節 | Li Qincheng | Ding Shixiong | Win | B+1.5 | 7.5 | 3306 | -42 | 
+| 2013-04-23 | 第18回LG杯予選 | Kim Seongjae | Li Qincheng | Win | W+R | 6.5 | 3348 | 21 | 
+| 2013-04-10 | 第26期中国囲碁名人戦予選 | Li Qincheng | An Dongxu | Lose | W+0.5 | 7.5 | 3327 | -28 | 
+| 2013-04-07 | 第15回中国囲碁甲級リーグ第2節 |  | Li Qincheng | Win | W+R | 7.5 | 3355 | -18 | 
+| 2013-03-28 | 第20期建橋杯中国囲碁新人王戦1回戦 | Ke Jie | Li Qincheng | Lose | B+R | 7.5 | 3373 | 16 | 
+| 2013-02-22 | 第7期リコー杯新秀戦決勝 | Huang Yunsong | Li Qincheng | Win | W+R | 7.5 | 3357 | 47 | 
+| 2013-02-21 | 第7期リコー杯新秀戦準決勝 | Li Xiangyu | Li Qincheng | Win | W+R | 7.5 | 3310 | 0 | 
+| 2012-12-29 | 第13期リコー杯囲碁戦2回戦 | Li Qincheng | Tan Xiao | Lose | W+0.5 | 7.5 | 3310 | -31 | 
+| 2012-12-28 | 第13期リコー杯囲碁戦1回戦 | Li He | Li Qincheng | Win | W+R | 7.5 | 3341 | 85 | 
+| 2012-12-27 | 第7期リコー杯新秀戦2回戦 |  | Li Qincheng | Win | W+R | 7.5 | 3256 | 28 | 
+| 2012-12-26 | 第7期リコー杯新秀戦1回戦 | Li Qincheng | Yu Zhiying | Win | B+R | 7.5 | 3228 | -142 | 
+| 2012-10-09 | 第17回三星火災杯世界囲碁マスターズ2回戦 | Lee Sedol | Li Qincheng | Lose | B+R | 6.5 | 3370 | -71 | 
+| 2012-09-13 | 2012ジャステック杯国際新鋭囲碁対抗戦第3戦 | Lee Jihyun | Li Qincheng | Win | W+R | 6.5 | 3441 | 57 | 
+| 2012-09-12 | 2012ジャステック杯国際新鋭囲碁対抗戦第2戦 | Li Qincheng | Lin Shuyang | Win | B+1.5 | 6.5 | 3384 | -25 | 
+| 2012-09-11 | 2012ジャステック杯国際新鋭囲碁対抗戦第1戦 | Fujita Akihiko | Li Qincheng | Win | W+R | 6.5 | 3409 | 43 | 
+| 2012-09-05 | 第17回三星火災杯世界囲碁マスターズ1回戦C2 | Choi Jeong | Li Qincheng | Win | W+R | 6.5 | 3366 | 17 | 
+| 2012-09-04 | 第17回三星火災杯世界囲碁マスターズ1回戦C1 | Li Qincheng | Park Junghwan | Win | B+R | 6.5 | 3349 | 183 | 
+| 2012-08-07 | 第17回三星火災杯統合予選決勝 | Li Qincheng | Park Yeonghun | Win | B+R | 6.5 | 3166 | -15 | 
+| 2012-05-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Li Qincheng |  | Lose | W+R | 7.5 | 3181 | -61 | 
+| 2012-05-19 | 第9期倡棋杯中国プロ囲碁選手権戦予選 | Li Qincheng | Wang Lei (s) | Lose | W+3 | 7.5 | 3242 | -61 | 
+| 2012-05-17 | 第9期倡棋杯中国プロ囲碁選手権戦予選 | Li Qincheng | Wang Lei (b) | Win | B+R | 7.5 | 3303 | -82 | 
+| 2012-03-14 | 第1回百霊杯世界囲碁選手権1回戦 | Li Qincheng |  | Lose | W+R | 7.5 | 3385 | -12 | 
+| 2012-03-11 | 第1回百霊杯世界囲碁選手権予選 | Lee Wonyoung | Li Qincheng | Win | W+R | 7.5 | 3397 | 3397 | 
+| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Li Qincheng | Na Hyun | Lose | W+F | 6.5 | missing | 0 | 
+| 2011-12-29 | 第12期リコー杯囲碁戦1回戦 | Niu Yutian | Li Qincheng | Lose | B+R | 7.5 | missing | 0 | 
+| 2011-12-28 | 第6期リコー杯新秀戦1回戦 | Mi Yuting | Li Qincheng | Lose | B+R | 7.5 | missing | 0 | 
+| 2010-12-08 | 第5期リコー杯新秀戦2回戦 | Yang Dingxin | Li Qincheng | Lose | B+R | 7.5 | missing | 0 | 
+| 2010-01-19 | 第24期中国囲碁天元戦予選 |  | Li Qincheng | Lose | B+R | 7.5 | missing | 0 | 
+| 2009-12-20 | 第4期リコー杯新秀戦予選 | Li Qincheng | Lian Xiao | Lose | W+R | 7.5 | missing | 0 | 
+| 2009-12-19 | 第4期リコー杯新秀戦予選 | Li Qincheng |  | Win | B+R | 7.5 | missing | missing |
 
 
 

@@ -5,13 +5,14 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第23回中国囲碁甲級リーグ | Xu Yidi | Yi Lingtao | W+R | 2021-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UNYqC9NUAWirlciWohUlRg%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Xu Yidi | Chen Yunong | W+R | 2021-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n4%2BpYyNY4kPc6ihWP7ZWXA%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Shen Peiran | Xu Yidi | B+R | 2021-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O9TdMExm1EWxzaN1ZMboMA%3D%3D) | 
-| 2021博思軟件杯中国囲碁新秀争覇戦予選 | Xu Yidi | missing | B+R | 2021-04-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DDo0wHJS6k7iz4nxOQ9g2g%3D%3D) | 
-| 第17回倡棋杯中国プロ囲碁選手権戦予選 | Xu Yidi | missing | B+R | 2021-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a0epsu6OkaZNfPu%2Fy%2FDnUw%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Xia Chenkun | Xu Yidi | Lose | B+R | 7.5 | 2634 | 2634 | 
+| 2021-05-11 | 第23回中国囲碁甲級リーグ | Xu Yidi | Yi Lingtao | Lose | W+R | 7.5 | missing | 0 | 
+| 2021-05-08 | 第23回中国囲碁甲級リーグ | Xu Yidi | Chen Yunong | Lose | W+R | 7.5 | missing | 0 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Shen Peiran | Xu Yidi | Lose | B+R | 7.5 | missing | 0 | 
+| 2021-04-12 | 2021博思軟件杯中国囲碁新秀争覇戦予選 | Xu Yidi |  | Win | B+R | 7.5 | missing | 0 | 
+| 2021-04-05 | 第17回倡棋杯中国プロ囲碁選手権戦予選 | Xu Yidi |  | Win | B+R | 7.5 | missing | missing |
 
 
 

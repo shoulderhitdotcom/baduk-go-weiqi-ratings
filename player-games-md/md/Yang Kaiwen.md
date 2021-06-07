@@ -5,213 +5,214 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第23回中国囲碁甲級リーグ | Fan Tingyu | Yang Kaiwen | W+R | 2021-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dm6%2BDj3IEUnnazwnHEBZQQ%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tan Xiao | B+R | 2021-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dEddMH4%2FmMKKPxphprj3UA%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Chen Yunong | Yang Kaiwen | B+R | 2021-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dvmE86FlY8rghjy%2B0JUkpQ%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Yang Kaiwen | Chen Yichun | B+R | 2021-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bDiGA1iXTw13XURx7vg2Qg%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Meng Tailing | Yang Kaiwen | W+R | 2021-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a0cDFaWSab%2FyzQsufzM60Q%3D%3D) | 
-| 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Yang Kaiwen | Tuo Jiaxi | W+4¼ | 2021-04-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VyMlAQrFxGYRWVvYoZnarA%3D%3D) | 
-| 第17回倡棋杯中国プロ囲碁選手権戦 | Li Qincheng | Yang Kaiwen | W+R | 2021-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9YqDH%2B4gKe10316CbLXtJQ%3D%3D) | 
-| 第17回倡棋杯中国プロ囲碁選手権戦予選 | Shen Peiran | Yang Kaiwen | W+R | 2021-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j7L%2B7uLK3Lig47e6ixJq1g%3D%3D) | 
-| 第35期中国囲碁天元戦3回戦 | Lian Xiao | Yang Kaiwen | B+R | 2021-03-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oczNF2j8fdvPDIck%2FAcfWg%3D%3D) | 
-| 第35期中国囲碁天元戦2回戦 | Yang Kaiwen | Chen Yaoye | B+R | 2021-03-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kjiq4L6DmlKTKo%2Bey0tJMw%3D%3D) | 
-| 第35期中国囲碁天元戦1回戦 | Yang Kaiwen | Tao Xinran | B+R | 2021-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=okKIeio81BJnJQPnunKycg%3D%3D) | 
-| 第35期中国囲碁天元戦予選 | Hu Yaoyu | Yang Kaiwen | W+R | 2021-03-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rtvDdAeiXTWkPTYghyIJEQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ  | Yang Kaiwen | Shibano Toramaru | B+R | 2020-12-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RJejFK6rNjCC8twWUZMsMg%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Jiang Weijie | Yang Kaiwen | B+R | 2020-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G5r6TzbeW0dd7WU%2Bxagynw%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Lian Xiao | Yang Kaiwen | B+R | 2020-12-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bz8DDv3NC7qACJwVSTECEQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Li Qincheng | B+¾ | 2020-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZSLTqoBnuWjEwsyZDBdRwQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Li Xiangyu | B+R | 2020-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=06TJguSxY6SdP5Qv5bXGhQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Chen Xian | Yang Kaiwen | B+¾ | 2020-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=58OiI9in1Sip%2BMk0lKdNng%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Yang Kaiwen | Yi Lingtao | W+1¼ | 2020-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iD5yRSuO9M0VZP77ZzWYVg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第8節 | Yang Kaiwen | Huang Mingyu | B+R | 2020-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=80hXrdlEniyCaPWahzgU4w%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第7節 | Li Qincheng | Yang Kaiwen | B+R | 2020-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SMhDQFndWsXZJPQtpA%2BZwg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第6節 | Yang Kaiwen | Xia Chenkun | B+R | 2020-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KIpJMC9IEcTFA%2FwgtLKjFA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第4節 | Yang Kaiwen | He Yuhan | W+R | 2020-08-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gp3zLxl%2FUSHdh308E6mSKg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第3節 | Tang Weixing | Yang Kaiwen | B+R | 2020-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FTGbB%2FFB9LUi9cN3KaNv3A%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第2節 | Yang Kaiwen | Liao Yuanhe | B+R | 2020-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iw1%2FYTJ4dTT1%2BiHOelXVbw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第1節 | Li Zhe | Yang Kaiwen | W+R | 2020-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YZfqUsvLhYslAluH0Jb6fw%3D%3D) | 
-| 第4回全国智力運動会男子団体戦第2戦 | Yang Kaiwen | Tang Weixing | B+R | 2019-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6DELI%2F9U3DMqZc8o88KiTw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第13節 | Lian Xiao | Yang Kaiwen | B+¾ | 2019-08-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4%2FcmkvOEPVTY1tZ3HsFooA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第8節 | Yang Kaiwen | Xia Chenkun | W+R | 2019-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fVoye%2BksoWK%2F9wVNHyqzmw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第7節 | Tang Weixing | Yang Kaiwen | B+R | 2019-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VAgIWV%2FMsK1m9hC5L7GrJA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第6節 | missing | Yang Kaiwen | W+R | 2019-06-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qLbS3UddsUXpERcy2gmDiA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第5節 | Yang Kaiwen | Liao Xingwen | B+R | 2019-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RjrUSCaaccQCn0IrykKUNg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第1節江西-陜西 | Tao Xinran | Yang Kaiwen | B+¾ | 2019-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4FfYqaB8%2FvcN5MJq1spRAQ%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦2回戦 | Zhao Chenyu | Yang Kaiwen | B+R | 2019-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SBp12Ldq%2B81KAVEFtWgY1A%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦1回戦 | Ke Jie | Yang Kaiwen | W+R | 2019-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qd78KoORxB96re%2BCtYWTyg%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦2回戦 | Zhao Chenyu | Yang Kaiwen | B+R | 2019-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IiJQ6z6%2F6lAGq1SCwgKFWQ%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦1回戦 | missing | Yang Kaiwen | W+R | 2019-03-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9ErvTJXzag7YbVSZTg61eQ%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦予選決勝 | Li Xiangyu | Yang Kaiwen | W+R | 2019-03-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B6LYU73VjuUqV%2FOa2U%2F0eQ%3D%3D) | 
-| 第33期中国囲碁天元戦1回戦 | Yang Kaiwen | Gu Zihao | W+R | 2019-01-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XZjFP5zWW0AovphFfOKZRw%3D%3D) | 
-| 第4期洛陽白雲山杯中国棋聖戦資格戦 | Tu Xiaoyu | Yang Kaiwen | B+2¾ | 2018-12-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=53munglTAVkkIGZ1XZgPRw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第26節江西-山東 | Yang Kaiwen | Yi Lingtao | W+R | 2018-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4B%2Bpnc9LgSODIT6c1BBkzQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第25節衢州-江西 | Hu Yuhan | Yang Kaiwen | W+R | 2018-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7kFWwJU8R5CQ4Zu7fNnnqQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第24節江西-民生 | Yang Kaiwen | Shen Peiran | B+R | 2018-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BQFpLewH1rOzLjTulv3DNA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第22節江西-江蘇 | Yang Kaiwen | Huang Yunsong | W+R | 2018-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HSc5JTL%2FT8wMXBVw9VM2vg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第21節浙江-江西 | Zhang Tao | Yang Kaiwen | W+1¼ | 2018-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f6AIWpx5Vcy6spYMZexwJg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第20節杭州-江西 | Yang Kaiwen | Xia Chenkun | W+1¼ | 2018-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WlAQzDvO3kYIbfIJ2s%2B3vA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第19節江西-成都 | missing | Yang Kaiwen | B+R | 2018-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tWixjucnvIz9O8Vw0GJLdA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第18節重慶-江西 | Gu Li | Yang Kaiwen | B+R | 2018-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9xkWIhOjtRWd4Kn01M3VSg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第17節江西-中信 | Yang Kaiwen | missing | B+1¾ | 2018-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v9GH3l4loF%2BniX6STr22sQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第16節天津-江西 | Meng Tailing | Yang Kaiwen | W+¼ | 2018-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IS5Kz8fX6pdiGQTMhB5u3g%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第15節江西-廈門 | Yang Kaiwen | Peng Liyao | B+R | 2018-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L4x0MeIWSBCnUORZQpD8Bg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第14節上海-江西 | Lee Yeongkyu | Yang Kaiwen | W+R | 2018-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rPo1soGw1G%2Bmj4qly9%2F7qg%3D%3D) | 
-| 2018阿爾卑斯杯中韓新鋭対抗戦第2戦 | Kim Myounghoon | Yang Kaiwen | W+R | 2018-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wVCMPAqxKBZfytIer1wjkg%3D%3D) | 
-| 2018阿爾卑斯杯中韓新鋭対抗戦第1戦 | Yang Kaiwen | Kim Myounghoon | W+R | 2018-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ddZ0uzIl9wiBbgl6vMbzeg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第13節山東-江西 | Chen Zijian | Yang Kaiwen | W+R | 2018-08-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QZDIChQklnbVFelf972yBQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第12節江西-衢州 | Yang Kaiwen | Huang Xin | B+R | 2018-08-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NyN8Npc2eG9n416Ys2EcNA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第11節民生-江西 | Shen Peiran | Yang Kaiwen | B+R | 2018-08-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ad0dyrcTeUOOM9e83iB6Bw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第10節江西-蘇泊爾 | Yang Kaiwen | missing | B+R | 2018-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cEV4y%2Fm4lPjaXQEZ3bSKyQ%3D%3D) | 
-| 第23回三星火災杯統合予選準決勝 | Shin Minjun | Yang Kaiwen | B+R | 2018-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G5sUoj09L82Fo7%2FSE862bQ%3D%3D) | 
-| 第20期阿含・桐山杯中国早碁オープン戦本選3回戦 | Yang Kaiwen | Meng Tailing | W+1¼ | 2018-06-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CDJNQBgVe%2FfvGuGKJi8Jdg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第9節江蘇-江西 | Tong Mengcheng | Yang Kaiwen | W+R | 2018-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pKcKtzF4K5Ap%2FZJ12k17Hw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第6節成都-江西 | Dang Yifei | Yang Kaiwen | B+R | 2018-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c4tjCNxQ%2BU52NbtIUvXwrA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第5節江西-重慶 | Yang Kaiwen | Li Xuanhao | W+2¼ | 2018-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mrSSJkIBAl1%2BU2NP8C5nEw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第4節上海-蘇泊爾 | missing | Yang Kaiwen | W+R | 2018-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VNR9CvKGCq76zw%2BiIGNXhg%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦2回戦 | Zhou Ruiyang | Yang Kaiwen | B+R | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BvVi6AjASE0Bv8lJ4wasJQ%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦1回戦 | Mao Ruilong | Yang Kaiwen | W+R | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1%2FnAkvkeOnLvjCEOUdQSXw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第3節江西-天津 | Yang Kaiwen | Meng Tailing | B+R | 2018-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EBS95pqMoScimeTFAlR2%2Bw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第2節廈門-江西 | Yang Kaiwen | Zhou Ruiyang | W+R | 2018-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hKJ4c%2Bo2Bp1f1IDQ98eylQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第1節江西-上海 | Hu Yaoyu | Yang Kaiwen | B+2¾ | 2018-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D4aJUkSFp4XGYhUAS4kWqw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第26節 | Ding Hao | Yang Kaiwen | B+3¾ | 2017-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F0Vord8BTukR4oeZ7kQH2A%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第26節 | Yang Kaiwen | Wang Haoyang | W+R | 2017-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BSMqMxYk4Euzp%2FAb5P1GxA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第25節 | Gu Li | Yang Kaiwen | W+¼ | 2017-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xci6mh3a8Z%2BAPjiDrTcidw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第24節 | Yang Kaiwen | Wu Guangya | B+R | 2017-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TLUHxH%2By%2FmRzHdoP6v2GLg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第21節 | Wang Zejin | Yang Kaiwen | B+R | 2017-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JQJh9cb7nauoK3Bqe1qjXw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第19節 | Yang Kaiwen | Liao Xingwen | W+R | 2017-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S20CpgKkDeQPgAADHGVO%2Fw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第18節 | Jiang Weijie | Yang Kaiwen | B+R | 2017-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Huy1mVorf4LrX%2FJ9VJYymA%3D%3D) | 
-| 2017年全国囲棋個人戦男子組第13戦 | Yang Kaiwen | Jiang Qirun | W+8.5 | 2017-09-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8uq6nOp0jFaLS53pW%2FP%2BQg%3D%3D) | 
-| 2017年全国囲棋個人戦男子組第9戦 | Yang Kaiwen | Chen Hao | B+R | 2017-09-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T%2BrXjOrkfE4%2FUWvmbzmVNg%3D%3D) | 
-| 2017年全国囲棋個人戦男子組第5戦 | Yang Kaiwen | Ding Shixiong | B+R | 2017-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rIrwE9qsiDXrXYbZoaQtaQ%3D%3D) | 
-| 2017年全国囲棋個人戦男子組第3戦 | Chen Xian | Yang Kaiwen | W+R | 2017-09-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8cMM6vjuS7EEWT0Y%2FR6Ldw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第17節 | Yang Kaiwen | Fan Yin | B+3.5 | 2017-09-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hk2b9z6u6ByFeX518pPQTA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第16節 | Xu Jiayang | Yang Kaiwen | B+1.5 | 2017-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jZ5pdByigYnxmOZBLd%2BlKw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第15節 | Yang Kaiwen | missing | B+R | 2017-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lKgWo%2B%2BhuQmv2m0Ekpf03w%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第14節 | Li Xiangyu | Yang Kaiwen | W+R | 2017-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oUfXar1sNAO8xdIWQ88gxg%3D%3D) | 
-| 嫘祖杯30回中国名人戦16強戦 | Yang Kaiwen | Li Xuanhao | W+0.5 | 2017-08-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VxIDEOLH4tOIMgg5bPJbhA%3D%3D) | 
-| 第30期中国囲碁名人戦1回戦 | Huang Yunsong | Yang Kaiwen | W+R | 2017-08-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DDyxqtEtOkgGySaau1lGGg%3D%3D) | 
-| 嫘祖杯30回中国名人戦新浪網選決勝 | Yang Kaiwen | Huang Chen | B+R | 2017-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h2AY54%2BSP7MHgcyQewpXrg%3D%3D) | 
-| 第30期中国囲碁名人戦予選 | Pan Yang | Yang Kaiwen | W+R | 2017-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y1L07OIx0sIYTk6xf%2Fdzwg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第7節 | Yang Kaiwen | Tong Mengcheng | W+R | 2017-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6BnI5zaQHuZs9LxJtIDbZg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第6節 | Liao Xingwen | Yang Kaiwen | B+1.5 | 2017-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vSwbdnhOE5Dsp0o7NlLQiQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第5節 | Yang Kaiwen | Chen Zijian | B+R | 2017-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s0WU0KXB4CzdZ3ecdOntmA%3D%3D) | 
-| 第19期中国阿含桐山杯16強戦 | Yang Kaiwen | Chen Yaoye | W+R | 2017-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v7krbHbNLTclwzsSO8HIzw%3D%3D) | 
-| 第19期中国阿含桐山杯本選決勝 | Yang Kaiwen | Fan Yin | B+R | 2017-04-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j96i3bSlYIOFIqtaz0Dd4w%3D%3D) | 
-| 2017年利民杯世界囲碁星鋭最強戦第1ステージリーグ | missing | Yang Kaiwen | W+R | 2017-03-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PhwuCh88QCumGGLqX4BwLg%3D%3D) | 
-| 第31期中国囲碁天元戦予選 | Xie He | Yang Kaiwen | B+R | 2017-01-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dsfKlHuzlHFe4fEpGiPUOw%3D%3D) | 
-| 2016年利民杯世界囲碁星鋭最強戦1回戦 | Yang Kaiwen | He Yuhan | W+R | 2016-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LSgiO6tOVaPoEjCrRIv85Q%3D%3D) | 
-| 第31期中国囲碁天元戦予選 | Huang Jingyuan | Yang Kaiwen | W+R | 2016-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7XG9H05bvWFL2%2F3FuvS5Ig%3D%3D) | 
-| 第31期中国囲碁天元戦予選 | Chen Yunong | Yang Kaiwen | W+0.5 | 2016-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7j4sr8HXViC16%2Fjq%2BnYoRw%3D%3D) | 
-| 第31期中国囲碁天元戦予選 | Yang Kaiwen | missing | B+R | 2016-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U%2F2%2FLkiRySD8D1U8L9Sdjg%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選決勝 | Yang Kaiwen | Xu Jiayang | W+0.5 | 2016-12-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S5YXlKIYZtt0yGqk8FyWGA%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選4回戦 | Wang Haoyang | Yang Kaiwen | W+R | 2016-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qZN3dR1%2BxMT8skTqWL9tXQ%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選3回戦 | Chen Zhengxun | Yang Kaiwen | W+R | 2016-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FYQu6eyGeKuoQLAAP03CCw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第20節 | Yang Kaiwen | Tong Mengcheng | W+R | 2016-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=POwTldjdILljRGQMy8bExQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第19節 | Yang Kaiwen | Li Xuanhao | W+R | 2016-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wb3h2b6lJtydxTrYlQk7zw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第18節 | Yang Kaiwen | Niu Yutian | W+R | 2016-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NtiaJ6uTwfYF6ers0HBrVQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第17節 | Yang Kaiwen | Peng Liyao | B+R | 2016-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aDf10u2%2BF3KkKqkXv9r5ug%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第16節 | Yang Kaiwen | Yi Lingtao | B+1.5 | 2016-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=044Sg0fBybXsfg0G3dLItw%3D%3D) | 
-| 第8期中国竜星戦予選 | Yang Kaiwen | Ding Hao | W+R | 2016-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=514v7JSjzhEYUSyel3hDRg%3D%3D) | 
-| 第8期中国竜星戦予選 | missing | Yang Kaiwen | W+0.5 | 2016-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M8BWEZPtK4nV8A3xzL1hEw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第15節 | Yang Kaiwen | Zhang Tao | B+1.5 | 2016-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NYkLM%2BtWFkyK6qIo6blpFg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第14節 | Yang Kaiwen | missing | W+0.5 | 2016-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QoW1qkZRTPH2diDt1meYuQ%3D%3D) | 
-| 2016年全国囲棋個人戦男子組第9戦 | Yang Kaiwen | Wu Guangya | W+R | 2016-09-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NXsKRx%2FrfanNNU%2BNfVggNA%3D%3D) | 
-| 2016年全国囲棋個人戦男子組第7戦 | Yang Kaiwen | Zhang Tao | W+R | 2016-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EdFaFCj8nqwj1j12glXAnw%3D%3D) | 
-| 2016年全国囲棋個人戦男子組第2戦 | Zhong Wenjing | Yang Kaiwen | B+R | 2016-09-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5J7bLFNAuErTubJB9vJF1w%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第10節 | Yang Kaiwen | Wang Zejin | W+R | 2016-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1l3YgwRGr%2BNiSQq1hNmS%2Fg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第8節 | Yang Kaiwen | Li Xuanhao | W+R | 2016-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=56OfWK2ACBAhBZOvd36HKA%3D%3D) | 
-| 2016CCTV杯中国囲棋電視快棋戦2回戦 | Mi Yuting | Yang Kaiwen | B+R | 2016-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CGg70GZyqQ%2BJW6lgmy2EPA%3D%3D) | 
-| 2016CCTV杯中国囲棋電視快棋戦1回戦 | Xia Chenkun | Yang Kaiwen | W+R | 2016-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QFzAjRjEnx3s8aXh7zMD6w%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Chen Zijian | Yang Kaiwen | B+R | 2016-05-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9X%2BFoMzoZ09xOfx0xM5txQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第3節 | Yang Kaiwen | Chen Yaoye | W+R | 2016-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yEbDuxpcAXPzT8sjyEHBaw%3D%3D) | 
-| 2016年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Yang Kaiwen | Liu Yuhang | B+R | 2016-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XWgamn5JmCiRqSbWI%2BL1xg%3D%3D) | 
-| 2016年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Yang Kaiwen | Hu Yuhan | W+R | 2016-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6TT6x6I3FiNGMyH0KCZAmw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第2節 | Yang Kaiwen | Wu Guangya | B+R | 2016-04-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wsPQ1xqKuBPHc%2F9PWErOkg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第1節 | Gu Lingyi | Yang Kaiwen | B+1.5 | 2016-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hrecU2hPuBzA2XS%2Fn70Crw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第22節 | Zhang Tao | Yang Kaiwen | B+R | 2015-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9YpZc3YW3Jv5xZ7Ag9cILw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第21節 | Yang Kaiwen | Peng Liyao | W+R | 2015-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tyFLTqsybQaqm3RY%2FkWZ4w%3D%3D) | 
-| 2015年利民杯世界囲碁星鋭最強戦1回戦 | Shin Jinseo | Yang Kaiwen | B+1.5 | 2015-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vp78GYj44c%2BVJ5lYVlKRZQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第20節 | Yang Kaiwen | Xia Chenkun | B+R | 2015-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nbl5LAQMqSM3MFS9sPYZKw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第19節 | Yang Kaiwen | missing | B+R | 2015-11-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a1OCp%2B6LVs11HTNN9wW72Q%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第18節 | Xie Erhao | Yang Kaiwen | W+R | 2015-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RsvonWg9baFxhUg0VBJ2oQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第17節 | Yang Kaiwen | Hu Yaoyu | W+R | 2015-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kUDjkxPePvY51JJKzJcE2Q%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第16節 | Lian Xiao | Yang Kaiwen | W+R | 2015-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MWyC%2BlqIMZjZyHQvFL7UCA%3D%3D) | 
-| 第7期中国竜星戦1回戦 | Lian Xiao | Yang Kaiwen | B+5.5 | 2015-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mwfvLo3EhCgBmM7wh7TK%2Fw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第14節 | Yang Kaiwen | Chen Yaoye | B+3.5 | 2015-10-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mzGklVAq%2BomF2eOBqaZjIg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第15節 | Yang Kaiwen | Chen Zijian | B+R | 2015-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YKR4CZgedKsJ56LSVLROJQ%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Yang Kaiwen | Jiang Weijie | W+R | 2015-09-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qtNH9vR8Y96qwR8PLNwzIw%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Yang Kaiwen | Gong Yanyu | B+R | 2015-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aRMUCcLa8h4rG8%2Bu4LPOvg%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Dang Yifei | Yang Kaiwen | B+1.5 | 2015-09-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B%2BuGb2TyD229XGBXaRKl2g%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第13節 | Yang Kaiwen | Huang Yunsong | W+R | 2015-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bv9wqzXD0mvDWXfMOeZnVQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第12節 | Yang Kaiwen | Gu Li | B+R | 2015-09-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=czdR1AqBu5x9q60AWmHi1w%3D%3D) | 
-| 2015年全国囲棋個人戦男子組第8戦 | Fan Yunruo | Yang Kaiwen | B+R | 2015-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DdSzZV0lJAixCEMlL5%2FbnQ%3D%3D) | 
-| 2015年全国囲棋個人戦男子組第7戦 | Yang Kaiwen | Li Xuanhao | W+R | 2015-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6DPs6hhY%2F4p98Vg9SXbn%2BQ%3D%3D) | 
-| 2015年全国囲棋個人戦男子組第3戦 | Yang Kaiwen | Zhang Qiang | B+R | 2015-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SuwQF6ZN82zAzaG5bkixfg%3D%3D) | 
-| 2015年全国囲棋個人戦男子組第2戦 | missing | Yang Kaiwen | W+R | 2015-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pLscjYAQIsleM7JNyir8dA%3D%3D) | 
-| 第20回三星火災杯統合予選準決勝 | Kang Dongyun | Yang Kaiwen | W+R | 2015-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O9BWBClb129a54G606stQA%3D%3D) | 
-| 第7期中国竜星戦予選 | Yu Zhiying | Yang Kaiwen | W+R | 2015-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QR7zJHsdhaWgnpkuR%2F0qSg%3D%3D) | 
-| 2015年中国段位戦 | missing | Yang Kaiwen | B+R | 2015-07-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nhZGsuFRmdWPpsDdSteIDw%3D%3D) | 
-| 2015年中国段位戦 | Yang Kaiwen | Yu Zhiying | W+0.5 | 2015-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aowe03roVIzdrG6DdJ2s1g%3D%3D) | 
-| 2015年中国段位戦 | Yang Kaiwen | missing | B+R | 2015-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9ZwG7F5SEmoZF58qHuNL0w%3D%3D) | 
-| 2015年中国段位戦 | Fan Yin | Yang Kaiwen | B+R | 2015-07-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t1NfMTc2HJ5HubRhlT6xIA%3D%3D) | 
-| 2015年中国段位戦 | Xia Chenkun | Yang Kaiwen | W+R | 2015-07-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rtLyOngDTZazsJeaEXvp3w%3D%3D) | 
-| 2015年中国段位戦 | Han Yizhou | Yang Kaiwen | W+R | 2015-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m%2F7Lx1UN7bxOfvsOjWNQuw%3D%3D) | 
-| 2015年中国段位戦 | missing | Yang Kaiwen | W+R | 2015-07-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f1877Qq8V3C5hYeeXh%2F15A%3D%3D) | 
-| 2015年中国段位戦 | missing | Yang Kaiwen | W+R | 2015-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Np4meOrcdLFra053vZufFg%3D%3D) | 
-| 2015年中国段位戦 | missing | Yang Kaiwen | W+R | 2015-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xp05MP%2FSNODFKQ1hPa5pCw%3D%3D) | 
-| 2015年中国段位戦 | Huang Xin | Yang Kaiwen | W+R | 2015-07-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UXyVrS4vSvB3UieL%2Bo3fwg%3D%3D) | 
-| 第2回夢百合杯世界オープン戦2回戦 | Wang Zejin | Yang Kaiwen | B+R | 2015-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OEHpwkCtqHn0%2FChHCTF9Yg%3D%3D) | 
-| 第2回夢百合杯世界オープン戦1回戦 | Wi Taewoong | Yang Kaiwen | W+R | 2015-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZMmWu4Yp2%2F5Y2GtQNE8zUA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第10節 | Yang Kaiwen | Tao Xinran | W+R | 2015-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LhtrJYDtjxqMo3P0Ko8cMw%3D%3D) | 
-| 第7期中国竜星戦予選 | Yang Kaiwen | Huang Xin | B+1.5 | 2015-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SbryUVJihL8hhP1JpUVFXw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第9節 | Yang Kaiwen | Kang Dongyun | W+R | 2015-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MN2fZFWtbpwPYg4GOIvyfg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第8節 | Yang Kaiwen | Liao Xingwen | W+R | 2015-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=he8K4%2BV1x9%2B%2BSxTNCoMZ0Q%3D%3D) | 
-| 2015年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Yang Kaiwen | Hu Yuhan | B+1.5 | 2015-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eak9lQhqhdZ85pO%2B4wERqA%3D%3D) | 
-| 2015年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Yang Kaiwen | Li Xuanhao | B+R | 2015-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P5Vlh3fyiJmw7gUTAbLVpA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第7節 | Yang Kaiwen | Tong Mengcheng | W+R | 2015-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WhLizVXWoGKu9Xm0cU4KoQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第6節 | Yang Kaiwen | Na Hyun | B+R | 2015-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FuJW%2BMigi7x3IVenP3X%2FbQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第5節 | Yang Kaiwen | Li Qincheng | B+R | 2015-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pK3LL2sVmGOLeYPB9w2hFw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第4節 | Yang Kaiwen | Fan Tingyu | B+3.5 | 2015-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YquYFlZOjJOHd3L3e8Ib2Q%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第3節 | Yang Kaiwen | Han Yizhou | B+R | 2015-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F3nEhwWxTLXL00a34noz1g%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦予選 | Yang Kaiwen | Dang Yifei | W+4.5 | 2015-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Ibw%2FoEJnqW8jitn2nE2Xg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第22節 | Yang Kaiwen | Guo Yuzheng | W+R | 2014-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XN7T%2B6rkl7KjRCUaSpPNZA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第21節 | Yang Kaiwen | Fan Tingyu | B+R | 2014-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=atgAd6mS5sA5krY3vYMkng%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第16節 | Yang Kaiwen | Ke Jie | W+R | 2014-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l6vJAjTe%2FivEMc0a44ButA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第15節 | Yang Kaiwen | Wang Xi | W+R | 2014-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=632umqQBOTEhG0qwuPwSQA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第14節 | Yang Kaiwen | Piao Wenyao | W+R | 2014-09-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K4GMzpwArgXIPNZbg2B3Eg%3D%3D) | 
-| 第5回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Qiu Jun | Yang Kaiwen | B+1.5 | 2014-09-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WTlv776k%2F9yJ2E9PEmkQ3w%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第13節 | Yang Kaiwen | Niu Yutian | B+1.5 | 2014-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uXT4ifPp%2FDL3ULHwRj66aw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第12節 | Yang Kaiwen | Zhou Hexi | B+R | 2014-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IO6U4H3EmAbHBXw8MpLdOQ%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Yang Kaiwen | Yu Zhiying | B+R | 2014-08-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZPGUAGMAaDn3H5cuTv5H0Q%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第11節 | Yang Kaiwen | An Dongxu | W+R | 2014-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zZ%2F0sMwPKh3Ll1Gv98%2Fvyw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第10節 | Yang Kaiwen | Zhou Ruiyang | B+R | 2014-07-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HYMJjaqv8yhg3IVRnpMwCg%3D%3D) | 
-| 第16期阿含・桐山杯中国早碁オープン戦予選 | An Dongxu | Yang Kaiwen | B+R | 2014-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JfyBWNBD5xQXiO1hjPQ75g%3D%3D) | 
-| 第16期阿含・桐山杯中国早碁オープン戦予選 | Yang Kaiwen | Yang Dingxin | B+R | 2014-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dtr095YiJCbFiBN3W%2BQiNg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第9節 | Kong Jie | Yang Kaiwen | W+R | 2014-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Qgvpg4DuRd1rV45A4KjhQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第8節 | Yang Kaiwen | Peng Quan | B+3.5 | 2014-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=svE2D5OJtlECLbe5SPBJAQ%3D%3D) | 
-| 第5回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Lian Xiao | Yang Kaiwen | W+R | 2014-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K8ZJj4k1gx2Vmfz%2F%2BcEgoQ%3D%3D) | 
-| 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Wang Xi | Yang Kaiwen | W+R | 2014-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LrLKlFSbw4Wae8NPf592nA%3D%3D) | 
-| 第5回衢州・爛柯杯中国囲棋冠軍戦予選 | Huang Yunsong | Yang Kaiwen | W+R | 2014-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VM8njHuVfKeNJdhVQ1lkcQ%3D%3D) | 
-| 第27期中国囲碁名人戦予選 | Liu Xing | Yang Kaiwen | B+R | 2014-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GaNodZKzjv8VIzh%2FaYEK3w%3D%3D) | 
-| 第11期倡棋杯中国プロ囲碁選手権戦予選 | Pan Fei | Yang Kaiwen | W+R | 2014-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5TNuFBat78RGDS8M11QiEg%3D%3D) | 
-| 第27期中国囲碁名人戦予選 | Yang Kaiwen | Huang Xin | B+R | 2014-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QK%2F51FPZ5GsqoeSx84mD%2Bw%3D%3D) | 
-| 第8期リコー杯新秀戦予選 | Yang Kaiwen | Chen Zhengxun | W+R | 2013-12-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QEkoqAIRenc1gaV87WaVsA%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Chen Hao | Yang Kaiwen | B+R | 2013-06-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZV%2F6cHsXJdorCkVaU8XY5Q%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Yang Kaiwen | Peng Liyao | W+R | 2013-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jIF5nBVuRLbM0cdEsqvcrw%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Zhou Kui | Yang Kaiwen | W+R | 2013-06-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q0xhazrjq978s2r%2FWeyVVQ%3D%3D) | 
-| 第26期中国囲碁名人戦予選 | Yang Kaiwen | Huang Chen | W+R | 2013-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bbl8biOcGJmYXFZkylr0TA%3D%3D) | 
-| 第13期リコー杯囲碁戦3回戦 | Yang Kaiwen | Zhou Ruiyang | W+R | 2013-02-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jUaobQ5ea5CDrxMuCQ8fzw%3D%3D) | 
-| 第13期リコー杯囲碁戦2回戦 | Xie He | Yang Kaiwen | W+0.5 | 2012-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ph6yKwMR1cNijp%2B7AoDtnQ%3D%3D) | 
-| 第13期リコー杯囲碁戦1回戦 | Yang Kaiwen | Niu Yutian | B+R | 2012-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FL1wYqm70J4eNhI%2B7OT55w%3D%3D) | 
-| 第7期リコー杯新秀戦1回戦 | Huang Xin | Yang Kaiwen | B+R | 2012-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dehFf%2FcBbYmMZJK2hgbw1A%3D%3D) | 
-| 第4期中国竜星戦1回戦 | Niu Yutian | Yang Kaiwen | B+R | 2012-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rjI%2FJrtX1z0Hbh%2F2LM5RWw%3D%3D) | 
-| 第12期リコー杯囲碁戦3回戦 | Yang Kaiwen | Yang Dingxin | W+R | 2012-01-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HTRBzFKXBqUWTjJD4%2BWDlg%3D%3D) | 
-| 第12期リコー杯囲碁戦2回戦 | Yang Kaiwen | Li Zhe | B+R | 2011-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xNifV7GMmtXpdy8P0LuTDQ%3D%3D) | 
-| 第12期リコー杯囲碁戦1回戦 | Yang Kaiwen | Li He | B+R | 2011-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nZWhS8foC1YcdTzvEJQu6w%3D%3D) | 
-| 第6期リコー杯新秀戦1回戦 | Tian Ruiqi | Yang Kaiwen | B+R | 2011-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q5i15HTLtbCWbdeg2Myi2w%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Chen Yaoye | Win | B+R | 7.5 | 3498 | 10 | 
+| 2021-05-12 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Yang Kaiwen | Win | W+R | 7.5 | 3488 | 16 | 
+| 2021-05-11 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tan Xiao | Win | B+R | 7.5 | 3472 | 11 | 
+| 2021-05-10 | 第23回中国囲碁甲級リーグ | Chen Yunong | Yang Kaiwen | Lose | B+R | 7.5 | 3461 | -15 | 
+| 2021-05-08 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Chen Yichun | Win | B+R | 7.5 | 3476 | 10 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Meng Tailing | Yang Kaiwen | Win | W+R | 7.5 | 3466 | -24 | 
+| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Yang Kaiwen | Tuo Jiaxi | Lose | W+4¼ | 7.5 | 3490 | -13 | 
+| 2021-04-10 | 第17回倡棋杯中国プロ囲碁選手権戦 | Li Qincheng | Yang Kaiwen | Win | W+R | 7.5 | 3503 | 4 | 
+| 2021-04-08 | 第17回倡棋杯中国プロ囲碁選手権戦予選 | Shen Peiran | Yang Kaiwen | Win | W+R | 7.5 | 3499 | -93 | 
+| 2021-03-22 | 第35期中国囲碁天元戦3回戦 | Lian Xiao | Yang Kaiwen | Lose | B+R | 7.5 | 3592 | -11 | 
+| 2021-03-20 | 第35期中国囲碁天元戦2回戦 | Yang Kaiwen | Chen Yaoye | Win | B+R | 7.5 | 3603 | 24 | 
+| 2021-03-19 | 第35期中国囲碁天元戦1回戦 | Yang Kaiwen | Tao Xinran | Win | B+R | 7.5 | 3579 | 82 | 
+| 2021-03-10 | 第35期中国囲碁天元戦予選 | Hu Yaoyu | Yang Kaiwen | Win | W+R | 7.5 | 3497 | -120 | 
+| 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ  | Yang Kaiwen | Shibano Toramaru | Win | B+R | 7.5 | 3617 | 29 | 
+| 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Weijie | Yang Kaiwen | Lose | B+R | 7.5 | 3588 | -9 | 
+| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Lian Xiao | Yang Kaiwen | Lose | B+R | 7.5 | 3597 | -21 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Li Qincheng | Win | B+¾ | 7.5 | 3618 | 50 | 
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Li Xiangyu | Win | B+R | 7.5 | 3568 | 11 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Chen Xian | Yang Kaiwen | Lose | B+¾ | 7.5 | 3557 | -50 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Yang Kaiwen | Yi Lingtao | Lose | W+1¼ | 7.5 | 3607 | 9 | 
+| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Yang Kaiwen | Huang Mingyu | Win | B+R | 7.5 | 3598 | 36 | 
+| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Li Qincheng | Yang Kaiwen | Lose | B+R | 7.5 | 3562 | -122 | 
+| 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Yang Kaiwen | Xia Chenkun | Win | B+R | 7.5 | 3684 | 63 | 
+| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Yang Kaiwen | He Yuhan | Lose | W+R | 7.5 | 3621 | -157 | 
+| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Tang Weixing | Yang Kaiwen | Lose | B+R | 7.5 | 3778 | 3778 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Yang Kaiwen | Liao Yuanhe | Win | B+R | 7.5 | missing | 0 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Li Zhe | Yang Kaiwen | Win | W+R | 7.5 | missing | -3148 | 
+| 2019-11-14 | 第4回全国智力運動会男子団体戦第2戦 | Yang Kaiwen | Tang Weixing | Win | B+R | 7.5 | 3148 | 5 | 
+| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Lian Xiao | Yang Kaiwen | Lose | B+¾ | 7.5 | 3143 | -9 | 
+| 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Yang Kaiwen | Xia Chenkun | Lose | W+R | 7.5 | 3152 | -2 | 
+| 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Tang Weixing | Yang Kaiwen | Lose | B+R | 7.5 | 3154 | 0 | 
+| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 |  | Yang Kaiwen | Win | W+R | 7.5 | 3154 | 46 | 
+| 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Yang Kaiwen | Liao Xingwen | Win | B+R | 7.5 | 3108 | -26 | 
+| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節江西-陜西 | Tao Xinran | Yang Kaiwen | Lose | B+¾ | 7.5 | 3134 | 13 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Zhao Chenyu | Yang Kaiwen | Lose | B+R | 7.5 | 3121 | 0 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Ke Jie | Yang Kaiwen | Win | W+R | 7.5 | 3121 | 66 | 
+| 2019-03-04 | 第16期倡棋杯中国プロ囲棋選手権戦2回戦 | Zhao Chenyu | Yang Kaiwen | Lose | B+R | 7.5 | 3055 | -1 | 
+| 2019-03-03 | 第16期倡棋杯中国プロ囲棋選手権戦1回戦 |  | Yang Kaiwen | Win | W+R | 7.5 | 3056 | 1 | 
+| 2019-03-01 | 第16期倡棋杯中国プロ囲棋選手権戦予選決勝 | Li Xiangyu | Yang Kaiwen | Win | W+R | 7.5 | 3055 | -42 | 
+| 2019-01-04 | 第33期中国囲碁天元戦1回戦 | Yang Kaiwen | Gu Zihao | Lose | W+R | 7.5 | 3097 | -19 | 
+| 2018-12-25 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Tu Xiaoyu | Yang Kaiwen | Lose | B+2¾ | 7.5 | 3116 | -16 | 
+| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節江西-山東 | Yang Kaiwen | Yi Lingtao | Lose | W+R | 7.5 | 3132 | -4 | 
+| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節衢州-江西 | Hu Yuhan | Yang Kaiwen | Win | W+R | 7.5 | 3136 | -25 | 
+| 2018-11-16 | 第20回中国囲碁甲級リーグ第24節江西-民生 | Yang Kaiwen | Shen Peiran | Win | B+R | 7.5 | 3161 | 16 | 
+| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節江西-江蘇 | Yang Kaiwen | Huang Yunsong | Lose | W+R | 7.5 | 3145 | -22 | 
+| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節浙江-江西 | Zhang Tao | Yang Kaiwen | Win | W+1¼ | 7.5 | 3167 | 35 | 
+| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節杭州-江西 | Yang Kaiwen | Xia Chenkun | Lose | W+1¼ | 7.5 | 3132 | -30 | 
+| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節江西-成都 |  | Yang Kaiwen | Lose | B+R | 7.5 | 3162 | -29 | 
+| 2018-10-08 | 第20回中国囲碁甲級リーグ第18節重慶-江西 | Gu Li | Yang Kaiwen | Lose | B+R | 7.5 | 3191 | 0 | 
+| 2018-09-28 | 第20回中国囲碁甲級リーグ第17節江西-中信 | Yang Kaiwen |  | Win | B+1¾ | 7.5 | 3191 | -33 | 
+| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節天津-江西 | Meng Tailing | Yang Kaiwen | Win | W+¼ | 7.5 | 3224 | 4 | 
+| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節江西-廈門 | Yang Kaiwen | Peng Liyao | Win | B+R | 7.5 | 3220 | 24 | 
+| 2018-09-08 | 第20回中国囲碁甲級リーグ第14節上海-江西 | Lee Yeongkyu | Yang Kaiwen | Win | W+R | 7.5 | 3196 | 12 | 
+| 2018-08-25 | 2018阿爾卑斯杯中韓新鋭対抗戦第2戦 | Kim Myounghoon | Yang Kaiwen | Win | W+R | 7.5 | 3184 | 19 | 
+| 2018-08-23 | 2018阿爾卑斯杯中韓新鋭対抗戦第1戦 | Yang Kaiwen | Kim Myounghoon | Lose | W+R | 7.5 | 3165 | -23 | 
+| 2018-08-15 | 第20回中国囲碁甲級リーグ第13節山東-江西 | Chen Zijian | Yang Kaiwen | Win | W+R | 7.5 | 3188 | 6 | 
+| 2018-08-13 | 第20回中国囲碁甲級リーグ第12節江西-衢州 | Yang Kaiwen | Huang Xin | Win | B+R | 7.5 | 3182 | 53 | 
+| 2018-08-06 | 第20回中国囲碁甲級リーグ第11節民生-江西 | Shen Peiran | Yang Kaiwen | Lose | B+R | 7.5 | 3129 | -75 | 
+| 2018-07-16 | 第20回中国囲碁甲級リーグ第10節江西-蘇泊爾 | Yang Kaiwen |  | Win | B+R | 7.5 | 3204 | 21 | 
+| 2018-07-06 | 第23回三星火災杯統合予選準決勝 | Shin Minjun | Yang Kaiwen | Lose | B+R | 6.5 | 3183 | 8 | 
+| 2018-06-29 | 第20期阿含・桐山杯中国早碁オープン戦本選3回戦 | Yang Kaiwen | Meng Tailing | Lose | W+1¼ | 7.5 | 3175 | -15 | 
+| 2018-06-25 | 第20回中国囲碁甲級リーグ第9節江蘇-江西 | Tong Mengcheng | Yang Kaiwen | Win | W+R | 7.5 | 3190 | -48 | 
+| 2018-05-14 | 第20回中国囲碁甲級リーグ第6節成都-江西 | Dang Yifei | Yang Kaiwen | Lose | B+R | 7.5 | 3238 | -31 | 
+| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節江西-重慶 | Yang Kaiwen | Li Xuanhao | Lose | W+2¼ | 7.5 | 3269 | 11 | 
+| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節上海-蘇泊爾 |  | Yang Kaiwen | Win | W+R | 7.5 | 3258 | -13 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦2回戦 | Zhou Ruiyang | Yang Kaiwen | Lose | B+R | 7.5 | 3271 | 0 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Mao Ruilong | Yang Kaiwen | Win | W+R | 7.5 | 3271 | 27 | 
+| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節江西-天津 | Yang Kaiwen | Meng Tailing | Win | B+R | 7.5 | 3244 | -10 | 
+| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節廈門-江西 | Yang Kaiwen | Zhou Ruiyang | Lose | W+R | 7.5 | 3254 | -41 | 
+| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節江西-上海 | Hu Yaoyu | Yang Kaiwen | Lose | B+2¾ | 7.5 | 3295 | 5 | 
+| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Ding Hao | Yang Kaiwen | Lose | B+3¾ | 7.5 | 3290 | 0 | 
+| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Yang Kaiwen | Wang Haoyang | Lose | W+R | 7.5 | 3290 | -18 | 
+| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Gu Li | Yang Kaiwen | Win | W+¼ | 7.5 | 3308 | 14 | 
+| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Yang Kaiwen | Wu Guangya | Win | B+R | 7.5 | 3294 | 11 | 
+| 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Wang Zejin | Yang Kaiwen | Lose | B+R | 7.5 | 3283 | -1 | 
+| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Yang Kaiwen | Liao Xingwen | Lose | W+R | 7.5 | 3284 | -1 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Jiang Weijie | Yang Kaiwen | Lose | B+R | 7.5 | 3285 | -18 | 
+| 2017-09-26 | 2017年全国囲棋個人戦男子組第13戦 | Yang Kaiwen | Jiang Qirun | Lose | W+8.5 | 7.5 | 3303 | 20 | 
+| 2017-09-22 | 2017年全国囲棋個人戦男子組第9戦 | Yang Kaiwen | Chen Hao | Win | B+R | 7.5 | 3283 | 7 | 
+| 2017-09-19 | 2017年全国囲棋個人戦男子組第5戦 | Yang Kaiwen | Ding Shixiong | Win | B+R | 7.5 | 3276 | 34 | 
+| 2017-09-16 | 2017年全国囲棋個人戦男子組第3戦 | Chen Xian | Yang Kaiwen | Win | W+R | 7.5 | 3242 | 14 | 
+| 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Yang Kaiwen | Fan Yin | Win | B+3.5 | 7.5 | 3228 | 21 | 
+| 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Xu Jiayang | Yang Kaiwen | Lose | B+1.5 | 7.5 | 3207 | -15 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Yang Kaiwen |  | Win | B+R | 7.5 | 3222 | 16 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Li Xiangyu | Yang Kaiwen | Win | W+R | 7.5 | 3206 | 54 | 
+| 2017-08-04 | 嫘祖杯30回中国名人戦16強戦 | Yang Kaiwen | Li Xuanhao | Lose | W+0.5 | 7.5 | 3152 | -13 | 
+| 2017-08-03 | 第30期中国囲碁名人戦1回戦 | Huang Yunsong | Yang Kaiwen | Win | W+R | 7.5 | 3165 | 20 | 
+| 2017-07-22 | 嫘祖杯30回中国名人戦新浪網選決勝 | Yang Kaiwen | Huang Chen | Win | B+R | 7.5 | 3145 | 12 | 
+| 2017-07-19 | 第30期中国囲碁名人戦予選 | Pan Yang | Yang Kaiwen | Win | W+R | 7.5 | 3133 | 7 | 
+| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Yang Kaiwen | Tong Mengcheng | Lose | W+R | 7.5 | 3126 | -16 | 
+| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Liao Xingwen | Yang Kaiwen | Lose | B+1.5 | 7.5 | 3142 | -17 | 
+| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Yang Kaiwen | Chen Zijian | Win | B+R | 7.5 | 3159 | 26 | 
+| 2017-05-10 | 第19期中国阿含桐山杯16強戦 | Yang Kaiwen | Chen Yaoye | Lose | W+R | 7.5 | 3133 | 61 | 
+| 2017-04-18 | 第19期中国阿含桐山杯本選決勝 | Yang Kaiwen | Fan Yin | Win | B+R | 7.5 | 3072 | 136 | 
+| 2017-03-01 | 2017年利民杯世界囲碁星鋭最強戦第1ステージリーグ |  | Yang Kaiwen | Win | W+R | 7.5 | 2936 | 43 | 
+| 2017-01-13 | 第31期中国囲碁天元戦予選 | Xie He | Yang Kaiwen | Lose | B+R | 7.5 | 2893 | -17 | 
+| 2016-12-31 | 2016年利民杯世界囲碁星鋭最強戦1回戦 | Yang Kaiwen | He Yuhan | Lose | W+R | 7.5 | 2910 | -2 | 
+| 2016-12-30 | 第31期中国囲碁天元戦予選 | Huang Jingyuan | Yang Kaiwen | Win | W+R | 7.5 | 2912 | 18 | 
+| 2016-12-29 | 第31期中国囲碁天元戦予選 | Chen Yunong | Yang Kaiwen | Win | W+0.5 | 7.5 | 2894 | 16 | 
+| 2016-12-28 | 第31期中国囲碁天元戦予選 | Yang Kaiwen |  | Win | B+R | 7.5 | 2878 | 36 | 
+| 2016-12-19 | 嫘祖杯第29期中国名人戦網選決勝 | Yang Kaiwen | Xu Jiayang | Lose | W+0.5 | 7.5 | 2842 | -9 | 
+| 2016-12-18 | 嫘祖杯第29期中国名人戦網選4回戦 | Wang Haoyang | Yang Kaiwen | Win | W+R | 7.5 | 2851 | 23 | 
+| 2016-12-17 | 嫘祖杯第29期中国名人戦網選3回戦 | Chen Zhengxun | Yang Kaiwen | Win | W+R | 7.5 | 2828 | 69 | 
+| 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Yang Kaiwen | Tong Mengcheng | Lose | W+R | 7.5 | 2759 | -5 | 
+| 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 | Yang Kaiwen | Li Xuanhao | Lose | W+R | 7.5 | 2764 | 10 | 
+| 2016-11-14 | 第18回中国囲碁甲級リーグ第18節 | Yang Kaiwen | Niu Yutian | Lose | W+R | 7.5 | 2754 | -127 | 
+| 2016-11-04 | 第18回中国囲碁甲級リーグ第17節 | Yang Kaiwen | Peng Liyao | Win | B+R | 7.5 | 2881 | 45 | 
+| 2016-10-28 | 第18回中国囲碁甲級リーグ第16節 | Yang Kaiwen | Yi Lingtao | Win | B+1.5 | 7.5 | 2836 | -1 | 
+| 2016-10-24 | 第8期中国竜星戦予選 | Yang Kaiwen | Ding Hao | Lose | W+R | 7.5 | 2837 | -15 | 
+| 2016-10-23 | 第8期中国竜星戦予選 |  | Yang Kaiwen | Win | W+0.5 | 7.5 | 2852 | 4 | 
+| 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Yang Kaiwen | Zhang Tao | Win | B+1.5 | 7.5 | 2848 | -19 | 
+| 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Yang Kaiwen |  | Lose | W+0.5 | 7.5 | 2867 | -33 | 
+| 2016-09-26 | 2016年全国囲棋個人戦男子組第9戦 | Yang Kaiwen | Wu Guangya | Lose | W+R | 7.5 | 2900 | -41 | 
+| 2016-09-23 | 2016年全国囲棋個人戦男子組第7戦 | Yang Kaiwen | Zhang Tao | Lose | W+R | 7.5 | 2941 | -104 | 
+| 2016-09-16 | 2016年全国囲棋個人戦男子組第2戦 | Zhong Wenjing | Yang Kaiwen | Lose | B+R | 7.5 | 3045 | -44 | 
+| 2016-06-25 | 第18回中国囲碁甲級リーグ第10節 | Yang Kaiwen | Wang Zejin | Lose | W+R | 7.5 | 3089 | -22 | 
+| 2016-06-16 | 第18回中国囲碁甲級リーグ第8節 | Yang Kaiwen | Li Xuanhao | Lose | W+R | 7.5 | 3111 | 27 | 
+| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦2回戦 | Mi Yuting | Yang Kaiwen | Lose | B+R | 7.5 | 3084 | 0 | 
+| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Xia Chenkun | Yang Kaiwen | Win | W+R | 7.5 | 3084 | -10 | 
+| 2016-05-01 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Chen Zijian | Yang Kaiwen | Lose | B+R | 7.5 | 3094 | -8 | 
+| 2016-04-30 | 第18回中国囲碁甲級リーグ第3節 | Yang Kaiwen | Chen Yaoye | Lose | W+R | 7.5 | 3102 | -7 | 
+| 2016-04-29 | 2016年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Yang Kaiwen | Liu Yuhang | Win | B+R | 7.5 | 3109 | 2 | 
+| 2016-04-28 | 2016年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Yang Kaiwen | Hu Yuhan | Lose | W+R | 7.5 | 3107 | 24 | 
+| 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Yang Kaiwen | Wu Guangya | Win | B+R | 7.5 | 3083 | 8 | 
+| 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Gu Lingyi | Yang Kaiwen | Lose | B+1.5 | 7.5 | 3075 | -92 | 
+| 2015-12-06 | 第17回中国囲碁甲級リーグ第22節 | Zhang Tao | Yang Kaiwen | Lose | B+R | 7.5 | 3167 | -13 | 
+| 2015-12-04 | 第17回中国囲碁甲級リーグ第21節 | Yang Kaiwen | Peng Liyao | Lose | W+R | 7.5 | 3180 | 3 | 
+| 2015-11-28 | 2015年利民杯世界囲碁星鋭最強戦1回戦 | Shin Jinseo | Yang Kaiwen | Lose | B+1.5 | 7.5 | 3177 | 2 | 
+| 2015-11-13 | 第17回中国囲碁甲級リーグ第20節 | Yang Kaiwen | Xia Chenkun | Win | B+R | 7.5 | 3175 | -6 | 
+| 2015-11-08 | 第17回中国囲碁甲級リーグ第19節 | Yang Kaiwen |  | Win | B+R | 7.5 | 3181 | 6 | 
+| 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 | Xie Erhao | Yang Kaiwen | Win | W+R | 7.5 | 3175 | 16 | 
+| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Yang Kaiwen | Hu Yaoyu | Lose | W+R | 7.5 | 3159 | -4 | 
+| 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Lian Xiao | Yang Kaiwen | Win | W+R | 7.5 | 3163 | 33 | 
+| 2015-10-08 | 第7期中国竜星戦1回戦 | Lian Xiao | Yang Kaiwen | Lose | B+5.5 | 7.5 | 3130 | -6 | 
+| 2015-10-06 | 第17回中国囲碁甲級リーグ第14節 | Yang Kaiwen | Chen Yaoye | Win | B+3.5 | 7.5 | 3136 | 29 | 
+| 2015-09-29 | 第17回中国囲碁甲級リーグ第15節 | Yang Kaiwen | Chen Zijian | Win | B+R | 7.5 | 3107 | 9 | 
+| 2015-09-22 | 第3回全国智力運動会囲碁男子団体戦 | Yang Kaiwen | Jiang Weijie | Lose | W+R | 7.5 | 3098 | -10 | 
+| 2015-09-21 | 第3回全国智力運動会囲碁男子団体戦 | Yang Kaiwen | Gong Yanyu | Win | B+R | 7.5 | 3108 | -1 | 
+| 2015-09-18 | 第3回全国智力運動会囲碁男子団体戦 | Dang Yifei | Yang Kaiwen | Lose | B+1.5 | 7.5 | 3109 | -21 | 
+| 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Yang Kaiwen | Huang Yunsong | Lose | W+R | 7.5 | 3130 | -13 | 
+| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Yang Kaiwen | Gu Li | Win | B+R | 7.5 | 3143 | 12 | 
+| 2015-08-31 | 2015年全国囲棋個人戦男子組第8戦 | Fan Yunruo | Yang Kaiwen | Lose | B+R | 7.5 | 3131 | -31 | 
+| 2015-08-29 | 2015年全国囲棋個人戦男子組第7戦 | Yang Kaiwen | Li Xuanhao | Lose | W+R | 7.5 | 3162 | -17 | 
+| 2015-08-23 | 2015年全国囲棋個人戦男子組第3戦 | Yang Kaiwen | Zhang Qiang | Win | B+R | 7.5 | 3179 | 10 | 
+| 2015-08-22 | 2015年全国囲棋個人戦男子組第2戦 |  | Yang Kaiwen | Win | W+R | 7.5 | 3169 | -6 | 
+| 2015-08-04 | 第20回三星火災杯統合予選準決勝 | Kang Dongyun | Yang Kaiwen | Win | W+R | 6.5 | 3175 | -2 | 
+| 2015-07-29 | 第7期中国竜星戦予選 | Yu Zhiying | Yang Kaiwen | Win | W+R | 7.5 | 3177 | 14 | 
+| 2015-07-25 | 2015年中国段位戦 |  | Yang Kaiwen | Lose | B+R | 7.5 | 3163 | -27 | 
+| 2015-07-24 | 2015年中国段位戦 | Yang Kaiwen | Yu Zhiying | Lose | W+0.5 | 7.5 | 3190 | -26 | 
+| 2015-07-22 | 2015年中国段位戦 | Yang Kaiwen |  | Win | B+R | 7.5 | 3216 | 6 | 
+| 2015-07-21 | 2015年中国段位戦 | Fan Yin | Yang Kaiwen | Lose | B+R | 7.5 | 3210 | -16 | 
+| 2015-07-20 | 2015年中国段位戦 | Xia Chenkun | Yang Kaiwen | Win | W+R | 7.5 | 3226 | -14 | 
+| 2015-07-19 | 2015年中国段位戦 | Han Yizhou | Yang Kaiwen | Win | W+R | 7.5 | 3240 | 9 | 
+| 2015-07-17 | 2015年中国段位戦 |  | Yang Kaiwen | Win | W+R | 7.5 | 3231 | -1 | 
+| 2015-07-16 | 2015年中国段位戦 |  | Yang Kaiwen | Win | W+R | 7.5 | 3232 | 13 | 
+| 2015-07-15 | 2015年中国段位戦 |  | Yang Kaiwen | Win | W+R | 7.5 | 3219 | 10 | 
+| 2015-07-14 | 2015年中国段位戦 | Huang Xin | Yang Kaiwen | Win | W+R | 7.5 | 3209 | -6 | 
+| 2015-07-09 | 第2回夢百合杯世界オープン戦2回戦 | Wang Zejin | Yang Kaiwen | Lose | B+R | 7.5 | 3215 | 7 | 
+| 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Wi Taewoong | Yang Kaiwen | Win | W+R | 7.5 | 3208 | -22 | 
+| 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 | Yang Kaiwen | Tao Xinran | Lose | W+R | 7.5 | 3230 | -17 | 
+| 2015-07-01 | 第7期中国竜星戦予選 | Yang Kaiwen | Huang Xin | Win | B+1.5 | 7.5 | 3247 | 3 | 
+| 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Yang Kaiwen | Kang Dongyun | Lose | W+R | 7.5 | 3244 | -37 | 
+| 2015-06-25 | 第17回中国囲碁甲級リーグ第8節 | Yang Kaiwen | Liao Xingwen | Lose | W+R | 7.5 | 3281 | -89 | 
+| 2015-06-23 | 2015年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Yang Kaiwen | Hu Yuhan | Win | B+1.5 | 7.5 | 3370 | 0 | 
+| 2015-06-23 | 2015年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Yang Kaiwen | Li Xuanhao | Win | B+R | 7.5 | 3370 | -47 | 
+| 2015-06-13 | 第17回中国囲碁甲級リーグ第7節 | Yang Kaiwen | Tong Mengcheng | Lose | W+R | 7.5 | 3417 | -44 | 
+| 2015-05-28 | 第17回中国囲碁甲級リーグ第6節 | Yang Kaiwen | Na Hyun | Win | B+R | 7.5 | 3461 | 20 | 
+| 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Yang Kaiwen | Li Qincheng | Win | B+R | 7.5 | 3441 | 10 | 
+| 2015-05-16 | 第17回中国囲碁甲級リーグ第4節 | Yang Kaiwen | Fan Tingyu | Win | B+3.5 | 7.5 | 3431 | 23 | 
+| 2015-05-11 | 第17回中国囲碁甲級リーグ第3節 | Yang Kaiwen | Han Yizhou | Win | B+R | 7.5 | 3408 | 35 | 
+| 2015-03-19 | 第12期倡棋杯中国プロ囲碁選手権戦予選 | Yang Kaiwen | Dang Yifei | Lose | W+4.5 | 7.5 | 3373 | -55 | 
+| 2014-11-25 | 第16回中国囲碁甲級リーグ第22節 | Yang Kaiwen | Guo Yuzheng | Lose | W+R | 7.5 | 3428 | -35 | 
+| 2014-11-22 | 第16回中国囲碁甲級リーグ第21節 | Yang Kaiwen | Fan Tingyu | Win | B+R | 7.5 | 3463 | 159 | 
+| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Yang Kaiwen | Ke Jie | Lose | W+R | 7.5 | 3304 | -71 | 
+| 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Yang Kaiwen | Wang Xi | Lose | W+R | 7.5 | 3375 | -58 | 
+| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Yang Kaiwen | Piao Wenyao | Lose | W+R | 7.5 | 3433 | 3 | 
+| 2014-09-09 | 第5回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Qiu Jun | Yang Kaiwen | Lose | B+1.5 | 7.5 | 3430 | -33 | 
+| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Yang Kaiwen | Niu Yutian | Win | B+1.5 | 7.5 | 3463 | 12 | 
+| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Yang Kaiwen | Zhou Hexi | Win | B+R | 7.5 | 3451 | 14 | 
+| 2014-08-15 | 2014年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Yang Kaiwen | Yu Zhiying | Win | B+R | 7.5 | 3437 | -4 | 
+| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Yang Kaiwen | An Dongxu | Lose | W+R | 7.5 | 3441 | -86 | 
+| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Yang Kaiwen | Zhou Ruiyang | Win | B+R | 7.5 | 3527 | 58 | 
+| 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | An Dongxu | Yang Kaiwen | Lose | B+R | 7.5 | 3469 | 0 | 
+| 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Yang Kaiwen | Yang Dingxin | Win | B+R | 7.5 | 3469 | 64 | 
+| 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Kong Jie | Yang Kaiwen | Win | W+R | 7.5 | 3405 | 58 | 
+| 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Yang Kaiwen | Peng Quan | Win | B+3.5 | 7.5 | 3347 | 67 | 
+| 2014-06-20 | 第5回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Lian Xiao | Yang Kaiwen | Win | W+R | 7.5 | 3280 | 91 | 
+| 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Wang Xi | Yang Kaiwen | Win | W+R | 7.5 | 3189 | 377 | 
+| 2014-04-03 | 第5回衢州・爛柯杯中国囲棋冠軍戦予選 | Huang Yunsong | Yang Kaiwen | Win | W+R | 7.5 | 2812 | 2812 | 
+| 2014-04-01 | 第27期中国囲碁名人戦予選 | Liu Xing | Yang Kaiwen | Lose | B+R | 7.5 | missing | 0 | 
+| 2014-03-27 | 第11期倡棋杯中国プロ囲碁選手権戦予選 | Pan Fei | Yang Kaiwen | Win | W+R | 7.5 | missing | 0 | 
+| 2014-03-23 | 第27期中国囲碁名人戦予選 | Yang Kaiwen | Huang Xin | Win | B+R | 7.5 | missing | -3028 | 
+| 2013-12-10 | 第8期リコー杯新秀戦予選 | Yang Kaiwen | Chen Zhengxun | Lose | W+R | 7.5 | 3028 | -16 | 
+| 2013-06-29 | 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Chen Hao | Yang Kaiwen | Lose | B+R | 7.5 | 3044 | 2 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Yang Kaiwen | Peng Liyao | Lose | W+R | 7.5 | 3042 | -47 | 
+| 2013-06-04 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Zhou Kui | Yang Kaiwen | Win | W+R | 7.5 | 3089 | 6 | 
+| 2013-04-10 | 第26期中国囲碁名人戦予選 | Yang Kaiwen | Huang Chen | Lose | W+R | 7.5 | 3083 | -86 | 
+| 2013-02-21 | 第13期リコー杯囲碁戦3回戦 | Yang Kaiwen | Zhou Ruiyang | Lose | W+R | 7.5 | 3169 | -10 | 
+| 2012-12-29 | 第13期リコー杯囲碁戦2回戦 | Xie He | Yang Kaiwen | Win | W+0.5 | 7.5 | 3179 | 25 | 
+| 2012-12-28 | 第13期リコー杯囲碁戦1回戦 | Yang Kaiwen | Niu Yutian | Win | B+R | 7.5 | 3154 | 138 | 
+| 2012-12-26 | 第7期リコー杯新秀戦1回戦 | Huang Xin | Yang Kaiwen | Lose | B+R | 7.5 | 3016 | -254 | 
+| 2012-10-17 | 第4期中国竜星戦1回戦 | Niu Yutian | Yang Kaiwen | Lose | B+R | 7.5 | 3270 | -189 | 
+| 2012-01-12 | 第12期リコー杯囲碁戦3回戦 | Yang Kaiwen | Yang Dingxin | Lose | W+R | 7.5 | 3459 | -156 | 
+| 2011-12-30 | 第12期リコー杯囲碁戦2回戦 | Yang Kaiwen | Li Zhe | Win | B+R | 7.5 | 3615 | 311 | 
+| 2011-12-29 | 第12期リコー杯囲碁戦1回戦 | Yang Kaiwen | Li He | Win | B+R | 7.5 | 3304 | 3304 | 
+| 2011-12-28 | 第6期リコー杯新秀戦1回戦 | Tian Ruiqi | Yang Kaiwen | Lose | B+R | 7.5 | missing | missing |
 
 
 

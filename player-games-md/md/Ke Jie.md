@@ -5,647 +5,648 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Weon Seongjin | Ke Jie | Win | W+0.5 | 6.5 | 
-| 2021-05-12 | 第23回中国囲碁甲級リーグ | Ke Jie | Yang Dingxin | Lose | W+R | 7.5 | 
-| 2021-05-11 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Ke Jie | Win | W+R | 7.5 | 
-| 2021-05-10 | 第23回中国囲碁甲級リーグ | Ke Jie | Shin Jinseo | Win | B+R | 7.5 | 
-| 2021-05-08 | 第23回中国囲碁甲級リーグ | Ke Jie | Park Junghwan | Lose | W+R | 7.5 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Ding Hao | Ke Jie | Win | W+R | 7.5 | 
-| 2021-04-26 | 第20回西南棋王戦準決勝 | Mi Yuting | Ke Jie | Lose | B+¾ | 7.5 | 
-| 2021-04-25 | 第20回西南棋王戦2回戦 | Ke Jie | Liu Yuhang | Win | B+R | 7.5 | 
-| 2021-04-25 | 第20回西南棋王戦1回戦 | Ke Jie | Chen Hao | Win | B+R | 7.5 | 
-| 2021-04-20 | 第17回倡棋杯中国プロ囲碁選手権戦2回戦 | Li Xuanhao | Ke Jie | Lose | B+R | 7.5 | 
-| 2021-04-12 | 第35期中国囲碁天元戦準決勝 | Ke Jie | Li Qincheng | Lose | W+R | 7.5 | 
-| 2021-03-23 | 第35期中国囲碁天元戦3回戦 | Ke Jie | Xie Erhao | Win | B+R | 7.5 | 
-| 2021-03-21 | 第35期中国囲碁天元戦2回戦 | Mi Yuting | Ke Jie | Win | W+R | 7.5 | 
-| 2021-03-19 | 第35期中国囲碁天元戦1回戦 | Ke Jie | Huang Yunsong | Win | B+R | 7.5 | 
-| 2021-02-25 | 第22回農心辛ラーメン杯世界囲碁最強戦第13戦 | Shin Jinseo | Ke Jie | Lose | B+R | 6.5 | 
-| 2021-02-04 | 第25回LG杯朝鮮日報棋王戦決勝三番勝負第3局 | Ke Jie | Shin Minjun | Lose | W+3.5 | 6.5 | 
-| 2021-02-03 | 第25回LG杯朝鮮日報棋王戦決勝三番勝負第2局 | Ke Jie | Shin Minjun | Lose | W+R | 6.5 | 
-| 2021-02-01 | 第25回LG杯朝鮮日報棋王戦決勝三番勝負第1局 | Shin Minjun | Ke Jie | Win | W+R | 6.5 | 
-| 2021-01-20 | 第13回春蘭杯世界囲碁選手権準決勝 | Ke Jie | Tang Weixing | Lose | W+R | 7.5 | 
-| 2021-01-18 | 第13回春蘭杯世界囲碁選手権3回戦 | Ke Jie | Xu Haohong | Win | B+R | 7.5 | 
-| 2020-12-29 | 第4回Mlily夢百合杯世界囲碁オープン戦8強戦 | Fan Tingyu | Ke Jie | Lose | B+R | 7.5 | 
-| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Na Hyun | Ke Jie | Win | W+R | 7.5 | 
-| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Cao Xiaoyang | Ke Jie | Win | W+R | 7.5 | 
-| 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Ke Jie | Tao Xinran | Lose | W+R | 7.5 | 
-| 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Ke Jie | Rong Yi | Win | B+R | 7.5 | 
-| 2020-12-13 | 第22回中国囲碁甲級リーグ | Ke Jie | Shin Jinseo | Lose | W+R | 7.5 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Gu Zihao | Ke Jie | Win | W+R | 7.5 | 
-| 2020-12-11 | 第22回中国囲碁甲級リーグ | Ke Jie | Ding Hao | Lose | W+¼ | 7.5 | 
-| 2020-12-09 | 第22回中国囲碁甲級リーグ | Meng Tailing | Ke Jie | Win | W+R | 7.5 | 
-| 2020-12-08 | 第22回中国囲碁甲級リーグ | Ke Jie | Tong Mengcheng | Win | B+R | 7.5 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Shin Minjun | Ke Jie | Win | W+R | 7.5 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Ke Jie | Yang Dingxin | Lose | W+R | 7.5 | 
-| 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Ke Jie | Tao Xinran | Lose | W+R | 7.5 | 
-| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Ke Jie | Tuo Jiaxi | Win | B+R | 7.5 | 
-| 2020-11-11 | 第25回LG杯朝鮮日報棋王戦準決勝 | Byun Sangil | Ke Jie | Win | W+R | 6.5 | 
-| 2020-11-09 | 第25回LG杯朝鮮日報棋王戦3回戦 | Weon Seongjin | Ke Jie | Win | W+R | 6.5 | 
-| 2020-11-03 | 第25回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Ke Jie | Shin Jinseo | Win | B+0.5 | 6.5 | 
-| 2020-11-02 | 第25回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Shin Jinseo | Ke Jie | Win | W+R | 6.5 | 
-| 2020-10-31 | 第25回三星火災杯世界囲碁マスターズ準決勝 | Yang Dingxin | Ke Jie | Win | W+R | 6.5 | 
-| 2020-10-30 | 第25回三星火災杯世界囲碁マスターズ3回戦 | Ke Jie | Li Xuanhao | Win | B+R | 6.5 | 
-| 2020-10-28 | 第25回三星火災杯世界囲碁マスターズ2回戦 | Cho Hanseung | Ke Jie | Win | W+R | 6.5 | 
-| 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦 | Lee Donghoon | Ke Jie | Win | W+R | 6.5 | 
-| 2020-10-12 | 第2回王中王囲棋争覇戦決勝 | Tang Weixing | Ke Jie | Win | W+R | 7.5 | 
-| 2020-10-11 | 第2回王中王囲棋争覇戦準決勝 | Ke Jie | Fan Tingyu | Win | B+R | 7.5 | 
-| 2020-10-10 | 第2回王中王囲棋争覇戦1回戦 | Ke Jie | Mi Yuting | Win | B+R | 7.5 | 
-| 2020-09-23 | 2020CCTV杯中国囲棋電視快棋戦準決勝 | Gu Zihao | Ke Jie | Lose | B+R | 7.5 | 
-| 2020-09-22 | 2020CCTV杯中国囲棋電視快棋戦3回戦 | Ke Jie | Tuo Jiaxi | Win | B+R | 7.5 | 
-| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦2回戦 | Ke Jie | Fan Yin | Win | B+R | 7.5 | 
-| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Chen Xian | Ke Jie | Win | W+R | 7.5 | 
-| 2020-09-11 | 第9回応氏杯世界選手権3回戦 | Xie Ke | Ke Jie | Lose | B+3 | 7.5 | 
-| 2020-09-09 | 第9回応氏杯世界選手権2回戦 | Ke Jie | Jiang Weijie | Win | B+R | 7.5 | 
-| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Ke Jie | Kim Jiseok | Win | B+R | 7.5 | 
-| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Huang Xin | Ke Jie | Win | W+R | 7.5 | 
-| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Ke Jie | Tang Weixing | Lose | W+¼ | 7.5 | 
-| 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 |  | Ke Jie | Win | W+R | 7.5 | 
-| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Ke Jie | Park Junghwan | Win | B+R | 7.5 | 
-| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Yi Lingtao | Ke Jie | Win | W+R | 7.5 | 
-| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Ke Jie | Kim Jiseok | Win | B+R | 7.5 | 
-| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Li Weiqing | Ke Jie | Win | W+R | 7.5 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Ke Jie | Cheng Jiaye | Win | B+R | 7.5 | 
-| 2020-08-22 | 第21回農心辛ラーメン杯世界囲碁最強戦第14戦 | Park Junghwan | Ke Jie | Win | W+0.5 | 6.5 | 
-| 2020-08-04 | 第11期中国竜星戦準決勝 | Zhao Chenyu | Ke Jie | Win | W+R | 7.5 | 
-| 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Kang Dongyun | Ke Jie | Win | W+R | 7.5 | 
-| 2020-06-11 | 第11期中国竜星戦Aブロック10回戦 | Mi Yuting | Ke Jie | Win | W+R | 7.5 | 
-| 2020-06-08 | 第25回LG杯朝鮮日報棋王戦2回戦 | Shin Jinseo | Ke Jie | Win | W+R | 6.5 | 
-| 2020-06-02 | 第25回LG杯朝鮮日報棋王戦1回戦 | Ke Jie | Park Geunho | Win | B+R | 6.5 | 
-| 2020-01-22 | 第8回CCTV賀歳杯中日韓新春囲碁争覇戦決勝 | Park Junghwan | Ke Jie | Lose | B+R | 7.5 | 
-| 2020-01-21 | 第8回CCTV賀歳杯中日韓新春囲碁争覇戦第2戦 | Shibano Toramaru | Ke Jie | Win | W+R | 7.5 | 
-| 2020-01-20 | 第8回CCTV賀歳杯中日韓新春囲碁争覇戦第1戦 | Ke Jie | Park Junghwan | Lose | W+¼ | 7.5 | 
-| 2019-12-12 | 第21回中国囲碁甲級リーグ三位決定戦第3戦 | Zhao Chenyu | Ke Jie | Win | W+R | 7.5 | 
-| 2019-12-11 | 第21回中国囲碁甲級リーグ三位決定戦第2戦 | Ke Jie | Zhao Chenyu | Win | B+R | 7.5 | 
-| 2019-12-09 | 第21回中国囲碁甲級リーグ三位決定戦第1戦 | Zhao Chenyu | Ke Jie | Lose | B+R | 7.5 | 
-| 2019-11-16 | 第4回全国智力運動会男子団体戦第6戦 | Ke Jie | Shi Yue | Win | B+R | 7.5 | 
-| 2019-11-15 | 第4回全国智力運動会男子団体戦第4戦 | Ke Jie | Tuo Jiaxi | Win | B+R | 7.5 | 
-| 2019-11-15 | 第4回全国智力運動会男子団体戦第3戦 | Mi Yuting | Ke Jie | Lose | B+R | 7.5 | 
-| 2019-11-14 | 第4回全国智力運動会男子団体戦第2戦 | Ke Jie |  | Win | B+1¾ | 7.5 | 
-| 2019-11-12 | 第4回全国智力運動会プロ男子個人戦順位決定戦 | Li Chengsen | Ke Jie | Win | W+R | 7.5 | 
-| 2019-11-12 | 第4回全国智力運動会プロ男子個人戦第7戦 | Ke Jie | Chen Xian | Win | B+R | 7.5 | 
-| 2019-11-11 | 第4回全国智力運動会プロ男子個人戦第6戦 | Tuo Jiaxi | Ke Jie | Lose | B+R | 7.5 | 
-| 2019-11-11 | 第4回全国智力運動会プロ男子個人戦第5戦 | Li Xuanhao | Ke Jie | Win | W+R | 7.5 | 
-| 2019-11-10 | 第4回全国智力運動会プロ男子個人戦第4戦 | Zhang Qiang | Ke Jie | Win | W+R | 7.5 | 
-| 2019-11-10 | 第4回全国智力運動会プロ男子個人戦第3戦 | Ke Jie | Chen Yichun | Win | B+R | 7.5 | 
-| 2019-11-09 | 第4回全国智力運動会プロ男子個人戦第2戦 | Fan Tingyu | Ke Jie | Lose | B+R | 7.5 | 
-| 2019-11-09 | 第4回全国智力運動会プロ男子個人戦第1戦 | Ke Jie | Liao Yuanhe | Win | B+R | 7.5 | 
-| 2019-11-06 | 第21回中国囲碁甲級リーグプレーオフ3回戦第2戦 | Ding Hao | Ke Jie | Lose | B+1¾ | 7.5 | 
-| 2019-11-04 | 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 | Ke Jie |  | Win | B+R | 7.5 | 
-| 2019-10-30 | 第24回LG杯朝鮮日報棋王戦準決勝 | Shin Jinseo | Ke Jie | Lose | B+R | 6.5 | 
-| 2019-10-28 | 第24回LG杯朝鮮日報棋王戦3回戦 | Chen Yaoye | Ke Jie | Win | W+5.5 | 6.5 | 
-| 2019-10-24 | 第16期倡棋杯中国プロ囲棋選手権戦本戦決勝三番勝負第2局 | Zhou Ruiyang | Ke Jie | Win | W+R | 7.5 | 
-| 2019-10-22 | 第16期倡棋杯中国プロ囲棋選手権戦本戦決勝三番勝負第1局 | Ke Jie | Zhou Ruiyang | Win | B+1 | 7.5 | 
-| 2019-10-13 | 第4回Mlily夢百合杯世界囲碁オープン戦16強戦 | Park Junghwan | Ke Jie | Win | W+R | 7.5 | 
-| 2019-10-11 | 第4回Mlily夢百合杯世界囲碁オープン戦32強戦 | Shi Yue | Ke Jie | Win | W+R | 7.5 | 
-| 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Ke Jie | Wu Guangya | Win | B+R | 7.5 | 
-| 2019-08-31 | 第24回三星火災杯世界囲碁マスターズ2回戦 | Tao Xinran | Ke Jie | Lose | B+T | 6.5 | 
-| 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Ke Jie | Lee Yeongkyu | Win | B+R | 6.5 | 
-| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Zhou Ruiyang | Ke Jie | Win | W+R | 7.5 | 
-| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Ke Jie | Ding Hao | Lose | W+¼ | 7.5 | 
-| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Xie Erhao | Ke Jie | Win | W+R | 7.5 | 
-| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Ke Jie | Jiang Weijie | Lose | W+R | 7.5 | 
-| 2019-08-06 | 第4期洛陽白雲山杯中国棋聖戦挑戦手合三番勝負第3局 | Lian Xiao | Ke Jie | Win | W+R | 7.5 | 
-| 2019-08-05 | 第4期洛陽白雲山杯中国棋聖戦挑戦手合三番勝負第2局 | Lian Xiao | Ke Jie | Win | W+1¼ | 7.5 | 
-| 2019-08-03 | 第4期洛陽白雲山杯中国棋聖戦挑戦手合三番勝負第1局 | Ke Jie | Lian Xiao | Lose | W+¼ | 7.5 | 
-| 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Li Weiqing | Ke Jie | Win | W+R | 7.5 | 
-| 2019-07-27 | 第21期阿含・桐山杯中国早碁オープン戦準決勝 | Fan Tingyu | Ke Jie | Lose | B+R | 7.5 | 
-| 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Dang Yifei | Ke Jie | Win | W+2¼ | 7.5 | 
-| 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Gu Zihao | Ke Jie | Lose | B+R | 7.5 | 
-| 2019-07-18 | 2019年紹興国際囲棋精英戦国際組 | Park Junghwan | Ke Jie | Win | W+R | 7.5 | 
-| 2019-07-09 | 第16期倡棋杯中国プロ囲棋選手権戦本戦準決勝三番勝負第2局 | Ke Jie | Yang Dingxin | Win | B+1 | 7.5 | 
-| 2019-06-28 | 第21期阿含・桐山杯中国早碁オープン戦8強戦 | Chen Yaoye | Ke Jie | Win | W+R | 7.5 | 
-| 2019-06-27 | 第21期阿含・桐山杯中国早碁オープン戦16強戦 | Huang Yunsong | Ke Jie | Win | W+R | 7.5 | 
-| 2019-06-25 | 第12回春蘭杯世界囲碁選手権三位決定戦 | Ke Jie | Dang Yifei | Win | B+R | 7.5 | 
-| 2019-06-20 | 第16期倡棋杯中国プロ囲棋選手権戦本戦準決勝三番勝負第1局 | Yang Dingxin | Ke Jie | Win | W+R | 7.5 | 
-| 2019-06-15 | 第4期洛陽白雲山杯中国棋聖戦挑戦者決定戦 | Ke Jie | Fan Yunruo | Win | B+R | 7.5 | 
-| 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Ke Jie | Mi Yuting | Win | B+R | 7.5 | 
-| 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Shi Yue | Ke Jie | Lose | B+R | 7.5 | 
-| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Ke Jie | Kim Jiseok | Lose | W+¼ | 7.5 | 
-| 2019-05-29 | 第24回LG杯朝鮮日報棋王戦2回戦 | Iyama Yuta | Ke Jie | Win | W+R | 6.5 | 
-| 2019-05-27 | 第24回LG杯朝鮮日報棋王戦1回戦 | Ke Jie | Na Hyun | Win | B+R | 6.5 | 
-| 2019-05-16 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦5回戦 | Mateusz Surma | Ke Jie | Win | W+R | 7.5 | 
-| 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦4回戦 | Ryan Li | Ke Jie | Win | W+R | 7.5 | 
-| 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦3回戦 | Ke Jie | Murakawa Daisuke | Win | B+R | 7.5 | 
-| 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦2回戦 | Park Junghwan | Ke Jie | Win | W+R | 7.5 | 
-| 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦1回戦 | Ke Jie | Wang Yuanjun | Win | B+R | 7.5 | 
-| 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Yang Dingxin | Ke Jie | Win | W+R | 7.5 | 
-| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Ke Jie | Shin Jinseo | Win | B+R | 7.5 | 
-| 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Rong Yi | Ke Jie | Win | W+R | 7.5 | 
-| 2019-04-27 | 第4期洛陽白雲山杯中国棋聖戦準決勝 | Xu Jiayang | Ke Jie | Win | W+¼ | 7.5 | 
-| 2019-04-26 | 第4期洛陽白雲山杯中国棋聖戦8強戦 | Ke Jie | Tuo Jiaxi | Win | B+R | 7.5 | 
-| 2019-04-24 | 第10期中国竜星戦Bブロック10回戦 | Ke Jie | Gu Zihao | Lose | W+R | 7.5 | 
-| 2019-04-23 | 第16期倡棋杯中国プロ囲棋選手権戦本戦3回戦 | Ke Jie | Lian Xiao | Win | B+R | 7.5 | 
-| 2019-04-22 | 第16期倡棋杯中国プロ囲棋選手権戦本戦2回戦 | Fan Yin | Ke Jie | Win | W+R | 7.5 | 
-| 2019-04-19 | 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Yu Zhiying | Ke Jie | Win | W+R | 7.5 | 
-| 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Ke Jie | Chen Yaoye | Win | B+1¾ | 7.5 | 
-| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節廈門-四建 | Meng Tailing | Ke Jie | Lose | B+R | 7.5 | 
-| 2019-04-13 | 第1回日中韓竜星戦決勝 | Ichiriki Ryo | Ke Jie | Win | W+R | 6.5 | 
-| 2019-04-12 | 第1回日中韓竜星戦第2戦 | Kim Jiseok | Ke Jie | Win | W+R | 6.5 | 
-| 2019-04-11 | 第1回日中韓竜星戦第1戦 | Ke Jie | Ichiriki Ryo | Lose | W+R | 6.5 | 
-| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Ke Jie | Yang Kaiwen | Lose | W+R | 7.5 | 
-| 2019-03-24 | 第18回西南棋王戦決勝 | Dang Yifei | Ke Jie | Win | W+R | 7.5 | 
-| 2019-03-24 | 第18回西南棋王戦準決勝 | Yang Dingxin | Ke Jie | Win | W+R | 7.5 | 
-| 2019-03-23 | 第18回西南棋王戦2回戦 | Ke Jie | Liao Yuanhe | Win | B+R | 7.5 | 
-| 2019-03-23 | 第18回西南棋王戦1回戦 | Tang Weixing | Ke Jie | Win | W+R | 7.5 | 
-| 2019-03-20 | 第3回ワールド碁チャンピオンシップ決勝  | Park Junghwan | Ke Jie | Lose | B+1.5 | 6.5 | 
-| 2019-03-19 | 第3回ワールド碁チャンピオンシップ準決勝  | Ke Jie | Iyama Yuta | Win | B+R | 6.5 | 
-| 2019-03-18 | 第3回ワールド碁チャンピオンシップ1回戦  | Yoo Changhyuk | Ke Jie | Win | W+R | 6.5 | 
-| 2019-03-10 | 第1回王中王囲棋争覇戦敗者組1回戦 | Chen Yaoye | Ke Jie | Lose | B+R | 7.5 | 
-| 2019-03-09 | 第1回王中王囲棋争覇戦1回戦 | Ke Jie | Mi Yuting | Lose | W+R | 7.5 | 
-| 2019-03-05 | 3.1運動100周年記念特別対局 | Lee Sedol | Ke Jie | Win | W+R | 6.5 | 
-| 2019-02-02 | 第7回CCTV賀歳杯決勝 | Park Junghwan | Ke Jie | Lose | B+3¾ | 7.5 | 
-| 2019-01-31 | 第7回CCTV賀歳杯1回戦 | Ke Jie | Park Junghwan | Win | B+¾ | 7.5 | 
-| 2019-01-17 | 第4回百霊杯世界オープン戦決勝三番勝負第2局 | Shin Jinseo | Ke Jie | Win | W+R | 7.5 | 
-| 2019-01-15 | 第4回百霊杯世界オープン戦決勝三番勝負第1局 | Ke Jie | Shin Jinseo | Win | B+R | 7.5 | 
-| 2019-01-13 | 第4回百霊杯世界オープン戦準決勝 | Ke Jie | Chen Yaoye | Win | B+¾ | 7.5 | 
-| 2018-12-19 | 第12回春蘭杯世界囲碁選手権準決勝 | Ke Jie | Park Junghwan | Lose | W+0.5 | 7.5 | 
-| 2018-12-17 | 第12回春蘭杯世界囲碁選手権3回戦 | Kim Jiseok | Ke Jie | Win | W+0.5 | 7.5 | 
-| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節重慶-廈門 | Ke Jie | Yang Dingxin | Lose | W+R | 7.5 | 
-| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節廈門-中信 | Chen Yaoye | Ke Jie | Win | W+1¼ | 7.5 | 
-| 2018-12-05 | 第23回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Ahn Kukhyun | Ke Jie | Win | W+5.5 | 6.5 | 
-| 2018-12-04 | 第23回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Ahn Kukhyun | Ke Jie | Win | W+R | 6.5 | 
-| 2018-12-03 | 第23回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Ke Jie | Ahn Kukhyun | Lose | W+R | 6.5 | 
-| 2018-12-01 | 第7回衢州・爛柯杯中国囲棋冠軍戦決勝 | Ke Jie | Tan Xiao | Lose | W+R | 7.5 | 
-| 2018-11-30 | 第7回衢州・爛柯杯中国囲棋冠軍戦準決勝 | Ke Jie | Peng Liyao | Win | B+R | 7.5 | 
-| 2018-11-29 | 第7回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Liao Yuanhe | Ke Jie | Win | W+R | 7.5 | 
-| 2018-11-21 | 第4回TWTテンセント囲碁選手権決勝 | Ke Jie | Li Qincheng | Lose | W+R | 7.5 | 
-| 2018-11-19 | 第4回TWTテンセント囲碁選手権準決勝 | Fan Tingyu | Ke Jie | Win | W+R | 7.5 | 
-| 2018-11-18 | 第4回TWTテンセント囲碁選手権8強戦 | Tong Mengcheng | Ke Jie | Win | W+R | 7.5 | 
-| 2018-11-16 | 第20回中国囲碁甲級リーグ第24節天津-廈門 | Ke Jie | Xie Erhao | Lose | W+R | 7.5 | 
-| 2018-11-09 | 第20回中国囲碁甲級リーグ第23節廈門-杭州 | Ding Hao | Ke Jie | Win | W+R | 7.5 | 
-| 2018-11-07 | 第23回三星火災杯世界囲碁マスターズ準決勝三番勝負第3局 | Xie Erhao | Ke Jie | Win | W+R | 6.5 | 
-| 2018-11-06 | 第23回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Ke Jie | Xie Erhao | Lose | W+1.5 | 6.5 | 
-| 2018-11-05 | 第23回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Xie Erhao | Ke Jie | Win | W+R | 6.5 | 
-| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節廈門-上海 | Fan Yunruo | Ke Jie | Win | W+R | 7.5 | 
-| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節山東-廈門 | Ke Jie | Fan Tingyu | Win | B+R | 7.5 | 
-| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節廈門-衢州 |  | Ke Jie | Win | W+R | 7.5 | 
-| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節民生-廈門 | Ke Jie | Kim Jiseok | Lose | W+¼ | 7.5 | 
-| 2018-10-08 | 第20回中国囲碁甲級リーグ第18節廈門-蘇泊爾 | Li Qincheng | Ke Jie | Lose | B+R | 7.5 | 
-| 2018-10-02 | 第23回三星火災杯世界囲碁マスターズ3回戦 | Ke Jie | Shin Jinseo | Win | B+R | 6.5 | 
-| 2018-10-01 | 第23回三星火災杯世界囲碁マスターズ2回戦 | Ke Jie | Gu Zihao | Win | B+0.5 | 6.5 | 
-| 2018-09-28 | 第20回中国囲碁甲級リーグ第17節江蘇-廈門 | Ke Jie | Mi Yuting | Lose | W+R | 7.5 | 
-| 2018-09-21 | 第1回天府杯世界囲碁選手権B組1回戦 | Ke Jie | Kim Jiseok | Lose | W+R | 7.5 | 
-| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節廈門-浙江 | Qin Yuexin | Ke Jie | Win | W+R | 7.5 | 
-| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節江西-廈門 | Ke Jie | Gu Zihao | Lose | W+R | 7.5 | 
-| 2018-09-08 | 第20回中国囲碁甲級リーグ第14節廈門-成都 | Liao Yuanhe | Ke Jie | Win | W+R | 7.5 | 
-| 2018-09-06 | 第23回三星火災杯世界囲碁マスターズ1回戦D3 | Ke Jie | Wang Yuanjun | Win | B+1.5 | 6.5 | 
-| 2018-09-05 | 第23回三星火災杯世界囲碁マスターズ1回戦D2 | Xie Erhao | Ke Jie | Lose | B+R | 6.5 | 
-| 2018-09-04 | 第23回三星火災杯世界囲碁マスターズ1回戦D1 | Wang Yuanjun | Ke Jie | Win | W+R | 6.5 | 
-| 2018-08-15 | 第20回中国囲碁甲級リーグ第13節廈門-重慶 | Tan Xiao | Ke Jie | Win | W+R | 7.5 | 
-| 2018-08-13 | 第20回中国囲碁甲級リーグ第12節中信-廈門 | Ke Jie | Chen Yaoye | Win | B+¾ | 7.5 | 
-| 2018-08-06 | 第20回中国囲碁甲級リーグ第11節廈門-天津 | Tang Weixing | Ke Jie | Win | W+R | 7.5 | 
-| 2018-07-26 | 第4回百霊杯世界オープン戦2回戦 | Byun Sangil | Ke Jie | Win | W+R | 7.5 | 
-| 2018-07-24 | 第4回百霊杯世界オープン戦1回戦 | Kim Jiseok | Ke Jie | Win | W+R | 7.5 | 
-| 2018-07-18 | 第20期阿含・桐山杯中国早碁オープン戦16強戦 | Ke Jie | Fan Tingyu | Lose | W+R | 7.5 | 
-| 2018-07-16 | 第20回中国囲碁甲級リーグ第10節杭州-廈門 | Ke Jie | Ding Hao | Win | B+R | 7.5 | 
-| 2018-06-25 | 第20回中国囲碁甲級リーグ第9節上海-廈門 | Ke Jie | Fan Yunruo | Lose | W+R | 7.5 | 
-| 2018-06-22 | 第2回巓峰夢想福特撼路者ラリー戦決勝 | Mi Yuting | Ke Jie | Win | W+R | 7.5 | 
-| 2018-06-20 | 第2回巓峰夢想福特撼路者ラリー戦a6 | Ke Jie | Tang Weixing | Win | B+R | 7.5 | 
-| 2018-06-18 | 第2回巓峰夢想福特撼路者ラリー戦a5 | Fan Tingyu | Ke Jie | Lose | B+R | 7.5 | 
-| 2018-06-15 | 第2回巓峰夢想福特撼路者ラリー戦a3 | Tang Weixing | Ke Jie | Win | W+R | 7.5 | 
-| 2018-06-13 | 第2回巓峰夢想福特撼路者ラリー戦a2 | Ke Jie | Fan Tingyu | Win | B+R | 7.5 | 
-| 2018-06-07 | 第9期中国竜星戦決勝三番勝負第3局 | Lian Xiao | Ke Jie | Win | W+R | 7.5 | 
-| 2018-06-06 | 第9期中国竜星戦決勝三番勝負第2局 | Ke Jie | Lian Xiao | Lose | W+R | 7.5 | 
-| 2018-06-05 | 第9期中国竜星戦決勝三番勝負第1局 | Lian Xiao | Ke Jie | Win | W+R | 7.5 | 
-| 2018-06-04 | 第9期中国竜星戦準決勝 | Liu Xing | Ke Jie | Win | W+R | 7.5 | 
-| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節廈門-山東 | Fan Tingyu | Ke Jie | Win | W+R | 7.5 | 
-| 2018-05-28 | 第23回LG杯朝鮮日報棋王戦1回戦 | Ke Jie | Weon Seongjin | Lose | W+R | 6.5 | 
-| 2018-05-25 | 第9期中国竜星戦Bブロック第10局 | Ke Jie | Shi Yue | Win | B+R | 7.5 | 
-| 2018-05-21 | 第20回中国囲碁甲級リーグ第7節衢州-廈門 | Ke Jie | Lee Sedol | Lose | W+R | 7.5 | 
-| 2018-05-16 | 嫘祖杯第31回中国囲棋名人戦32強戦 | Tong Mengcheng | Ke Jie | Lose | B+R | 7.5 | 
-| 2018-05-14 | 第20回中国囲碁甲級リーグ第6節廈門-民生 | Shi Yue | Ke Jie | Win | W+R | 7.5 | 
-| 2018-05-12 | 第7回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Ke Jie | Jiang Weijie | Win | B+R | 7.5 | 
-| 2018-05-11 | 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Ke Jie | Li Qincheng | Win | B+R | 7.5 | 
-| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節蘇泊爾-廈門 | Ke Jie | Park Junghwan | Win | B+R | 7.5 | 
-| 2018-04-29 | 第4回日中竜星戦 | Ke Jie | Shibano Toramaru | Lose | W+R | 7.5 | 
-| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節廈門-江蘇 | Zhao Chenyu | Ke Jie | Win | W+R | 7.5 | 
-| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦2回戦 | Ke Jie | Sun Tengyu | Lose | W+R | 7.5 | 
-| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Ke Jie | Chen Xian | Win | B+R | 7.5 | 
-| 2018-04-07 | 2018華陽景区世界囲棋争覇戦 | Lee Sedol | Ke Jie | Win | W+R | 7.5 | 
-| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節浙江-廈門 | Qin Yuexin | Ke Jie | Win | W+R | 7.5 | 
-| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節廈門-江西 | Gu Zihao | Ke Jie | Win | W+R | 7.5 | 
-| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節成都-廈門 | Ke Jie | Dang Yifei | Lose | W+R | 7.5 | 
-| 2018-03-23 | 第12回春蘭杯世界囲碁選手権2回戦 | Ke Jie | Kang Dongyun | Win | B+R | 7.5 | 
-| 2018-03-18 | 第2回ワールド碁チャンピオンシップ準決勝  | Ke Jie | Park Junghwan | Lose | W+R | 6.5 | 
-| 2018-03-17 | 第2回ワールド碁チャンピオンシップ1回戦  | Shin Jinseo | Ke Jie | Win | W+R | 6.5 | 
-| 2018-03-09 | 第17回西南棋王戦2回戦 | Ke Jie | Tang Weixing | Lose | W+R | 7.5 | 
-| 2018-03-09 | 第17回西南棋王戦1回戦 |  | Ke Jie | Win | W+R | 7.5 | 
-| 2018-03-01 | 第19回農心辛ラーメン杯世界囲碁最強戦第13戦 | Kim Jiseok | Ke Jie | Lose | B+R | 6.5 | 
-| 2018-02-07 | 第6回CCTV賀歳杯決勝 | Ke Jie | Park Junghwan | Lose | W+R | 7.5 | 
-| 2018-02-06 | 第6回CCTV賀歳杯第2局 | Ichiriki Ryo | Ke Jie | Win | W+1¼ | 7.5 | 
-| 2018-01-17 | 第3回洛陽白雲山杯中国棋聖戦8強戦 | Ke Jie | Fan Tingyu | Lose | W+R | 7.5 | 
-| 2018-01-13 | 2018年ヘビチ杯 | Lee Sedol | Ke Jie | Lose | B+1.5 | 6.5 | 
-| 2017-12-26 | 第1回新奥杯世界囲碁オープン戦決勝五番勝負第5局 | Ke Jie | Peng Liyao | Win | B+1.5 | 7.5 | 
-| 2017-12-25 | 第1回新奥杯世界囲碁オープン戦決勝五番勝負第4局 | Ke Jie | Peng Liyao | Lose | W+0.5 | 7.5 | 
-| 2017-12-23 | 第1回新奥杯世界囲碁オープン戦決勝五番勝負第3局 | Peng Liyao | Ke Jie | Lose | B+1.5 | 7.5 | 
-| 2017-12-21 | 第1回新奥杯世界囲碁オープン戦決勝五番勝負第2局 | Ke Jie | Peng Liyao | Win | B+R | 7.5 | 
-| 2017-12-20 | 第1回新奥杯世界囲碁オープン戦決勝五番勝負第1局 | Peng Liyao | Ke Jie | Win | W+R | 7.5 | 
-| 2017-12-15 | 第2回IMSAエリートマインドゲームズ個人早碁戦決勝 | Park Junghwan | Ke Jie | Win | W+R | 7.5 | 
-| 2017-12-15 | 第2回IMSAエリートマインドゲームズ個人早碁戦準決勝 | Ke Jie | Chen Shiyuan | Win | B+R | 7.5 | 
-| 2017-12-14 | 第2回IMSAエリートマインドゲームズ個人早碁戦予選 | Shibano Toramaru | Ke Jie | Win | W+R | 7.5 | 
-| 2017-12-14 | 第2回IMSAエリートマインドゲームズ個人早碁戦予選 | Jiang Mingjiu | Ke Jie | Win | W+R | 7.5 | 
-| 2017-12-13 | 第2回IMSAエリートマインドゲームズ男子団体戦第4節 | Ke Jie |  | Win | B+R | 7.5 | 
-| 2017-12-12 | 第2回IMSAエリートマインドゲームズ男子団体戦第3節 | Wang Yuanjun | Ke Jie | Win | W+R | 7.5 | 
-| 2017-12-11 | 第2回IMSAエリートマインドゲームズ男子団体戦第2節 | Ke Jie | Jiang Mingjiu | Win | B+R | 7.5 | 
-| 2017-12-10 | 第2回IMSAエリートマインドゲームズ男子団体戦第1節 | Park Junghwan | Ke Jie | Win | W+R | 7.5 | 
-| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Ke Jie | Jiang Weijie | Lose | W+R | 7.5 | 
-| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Fan Yunruo | Ke Jie | Lose | B+R | 7.5 | 
-| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Shi Yue | Ke Jie | Lose | B+R | 7.5 | 
-| 2017-11-15 | 第22回LG杯朝鮮日報棋王戦準決勝 | Iyama Yuta | Ke Jie | Lose | B+R | 6.5 | 
-| 2017-11-13 | 第22回LG杯朝鮮日報棋王戦準々決勝 | Shin Jinseo | Ke Jie | Win | W+R | 6.5 | 
-| 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Ke Jie | Chen Yaoye | Lose | W+R | 7.5 | 
-| 2017-11-02 | 2017寧波杭州湾方太杯世界戦優勝者招待戦準決勝 | Jiang Weijie | Ke Jie | Lose | B+R | 7.5 | 
-| 2017-11-02 | 2017寧波杭州湾方太杯世界戦優勝者招待戦8強戦 | Ke Jie | Fan Tingyu | Win | B+2.5 | 7.5 | 
-| 2017-10-30 | 第19回中国囲碁甲級リーグ第22節 | Shin Jinseo | Ke Jie | Lose | B+R | 7.5 | 
-| 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Rong Yi | Ke Jie | Win | W+R | 7.5 | 
-| 2017-10-26 | 2017華山国際囲碁大会決勝戦 | Ke Jie | Zhou Ruiyang | Lose | W+R | 7.5 | 
-| 2017-10-25 | 2017華山国際囲碁大会準決勝 | Ke Jie | Lee Sedol | Win | B+1.5 | 7.5 | 
-| 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Tan Xiao | Ke Jie | Win | W+R | 7.5 | 
-| 2017-10-18 | 2017年利民杯世界囲碁星鋭最強戦決勝戦 | Ke Jie | Xu Jiayang | Win | B+R | 7.5 | 
-| 2017-10-17 | 2017年利民杯世界囲碁星鋭最強戦準決勝 | Ke Jie | Xie Erhao | Win | B+R | 7.5 | 
-| 2017-10-16 | 2017年利民杯世界囲碁星鋭最強戦3回戦 | Ke Jie | Shin Minjun | Win | B+R | 7.5 | 
-| 2017-10-15 | 2017年利民杯世界囲碁星鋭最強戦2回戦 | Ke Jie | Onishi Ryuhei | Win | B+7.5 | 7.5 | 
-| 2017-10-14 | 2017年利民杯世界囲碁星鋭最強戦1回戦 | Ke Jie |  | Win | B+R | 7.5 | 
-| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Ke Jie | Park Junghwan | Lose | W+0.5 | 7.5 | 
-| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 |  | Ke Jie | Win | W+R | 7.5 | 
-| 2017-09-25 | 第22回三星火災杯世界囲碁マスターズ2回戦 | Ke Jie | An Sungjoon | Lose | W+R | 6.5 | 
-| 2017-09-22 | 第8回南方長城杯世界囲碁頂上対決 | Park Junghwan | Ke Jie | Win | W+2.5 | 7.5 | 
-| 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Ke Jie | Gu Zihao | Lose | W+R | 7.5 | 
-| 2017-09-11 | 第19回中国阿含桐山杯決勝 | Ke Jie | Tuo Jiaxi | Lose | W+2.5 | 7.5 | 
-| 2017-09-06 | 第22回三星火災杯世界囲碁マスターズ1回戦B2 | Shin Minjun | Ke Jie | Win | W+0.5 | 6.5 | 
-| 2017-09-05 | 第22回三星火災杯世界囲碁マスターズ1回戦B1 | Ke Jie | Han Taehee | Win | B+R | 6.5 | 
-| 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Tang Weixing | Ke Jie | Win | W+0.5 | 7.5 | 
-| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Ke Jie | Huang Yunsong | Win | B+R | 7.5 | 
-| 2017-08-24 | 第3回Mlily夢百合杯16強戦 | Ke Jie | Park Junghwan | Lose | W+2.5 | 7.5 | 
-| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Liao Xingwen | Ke Jie | Win | W+R | 7.5 | 
-| 2017-08-17 | 第19回中国阿含桐山杯準決勝 | Zhou Ruiyang | Ke Jie | Win | W+2.5 | 7.5 | 
-| 2017-08-15 | 中国浙江平湖当湖十局杯CCTV8強 | Jiang Weijie | Ke Jie | Win | W+R | 7.5 | 
-| 2017-08-15 | 中国浙江平湖当湖十局杯CCTV準決勝 | Zhang Tao | Ke Jie | Lose | B+R | 7.5 | 
-| 2017-08-14 | 中国浙江平湖当湖十局杯CCTV32強 | Ke Jie | Xie He | Win | B+1.5 | 7.5 | 
-| 2017-08-14 | 中国浙江平湖当湖十局杯CCTV16強 | Mao Ruilong | Ke Jie | Win | W+R | 7.5 | 
-| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Jiang Weijie | Ke Jie | Win | W+R | 7.5 | 
-| 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Ke Jie | Fan Yunruo | Win | B+R | 7.5 | 
-| 2017-07-31 | 中国浙江平湖当湖十局杯CCTV64強 | Zhou Hexi | Ke Jie | Win | W+R | 7.5 | 
-| 2017-07-26 | 第8期中国竜星戦決勝三番勝負第2局 | Li Qincheng | Ke Jie | Win | W+R | 7.5 | 
-| 2017-07-25 | 第8期中国竜星戦決勝三番勝負第1局 | Ke Jie | Li Qincheng | Win | B+R | 7.5 | 
-| 2017-07-21 | 金立杯7回海峡世界冠軍争覇8強戦 | Ke Jie | Fan Tingyu | Lose | W+R | 7.5 | 
-| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Ke Jie | Shi Yue | Lose | W+R | 7.5 | 
-| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Shin Minjun | Ke Jie | Win | W+R | 7.5 | 
-| 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Ke Jie | Xie He | Win | B+R | 7.5 | 
-| 2017-07-09 | 2017年中国全国運動会囲碁競技第7戦 | Ke Jie | Tao Xinran | Win | B+R | 7.5 | 
-| 2017-07-09 | 2017年中国全国運動会囲碁競技第6戦 | Xie Erhao | Ke Jie | Win | W+4.5 | 7.5 | 
-| 2017-07-07 | 2017年中国全国運動会囲碁競技第5戦 | Yang Dingxin | Ke Jie | Win | W+R | 7.5 | 
-| 2017-07-06 | 2017年中国全国運動会囲碁競技第4戦 | Ke Jie | Tang Weixing | Win | B+R | 7.5 | 
-| 2017-07-06 | 2017年中国全国運動会囲碁競技第3戦 | Ke Jie | Fan Tingyu | Win | B+R | 7.5 | 
-| 2017-07-05 | 2017年中国全国運動会囲碁競技第2戦 | Chen Yaoye | Ke Jie | Win | W+R | 7.5 | 
-| 2017-07-05 | 2017年中国全国運動会囲碁競技第1戦 | Ke Jie | Li Zhe | Win | B+R | 7.5 | 
-| 2017-06-26 | 19期中国阿含桐山杯8強戦 | Tang Weixing | Ke Jie | Win | W+R | 7.5 | 
-| 2017-06-25 | 19期中国阿含桐山杯16強戦 |  | Ke Jie | Win | W+R | 7.5 | 
-| 2017-06-23 | 第11回春蘭杯世界囲碁選手権三位決定戦 | Gu Zihao | Ke Jie | Win | W+R | 7.5 | 
-| 2017-06-21 | 第3回夢百合杯世界オープン戦2回戦 | Ke Jie | Huang Jingyuan | Win | B+R | 7.5 | 
-| 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Ke Jie | Kang Yootaek | Win | B+T | 7.5 | 
-| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | An Dongxu | Ke Jie | Win | W+2.5 | 7.5 | 
-| 2017-06-10 | 第1回巔峰夢想拉薩交通産業集団ラリー戦a5 | Ke Jie | Gu Li | Win | B+R | 7.5 | 
-| 2017-06-09 | 第1回巔峰夢想拉薩交通産業集団ラリー戦a4 | Chen Yaoye | Ke Jie | Win | W+12.5 | 7.5 | 
-| 2017-06-07 | 第1回巔峰夢想拉薩交通産業集団ラリー戦2回戦 | Gu Li | Ke Jie | Win | W+R | 7.5 | 
-| 2017-06-03 | 第1回巔峰夢想拉薩交通産業集団ラリー戦a1 | Ke Jie | Chen Yaoye | Win | B+R | 7.5 | 
-| 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Kang Dongyun | Ke Jie | Win | W+R | 6.5 | 
-| 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Weon Seongjin | Ke Jie | Win | W+R | 6.5 | 
-| 2017-05-27 | Future of Go Summit 第三局 | Google DeepMind AlphaGo | Ke Jie | Lose | B+R | 7.5 | 
-| 2017-05-25 | Future of Go Summit 第二局 | Google DeepMind AlphaGo | Ke Jie | Lose | B+R | 7.5 | 
-| 2017-05-23 | Future of Go Summit 第一局 | Ke Jie | Google DeepMind AlphaGo | Lose | W+0.5 | 7.5 | 
-| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Ke Jie | Tan Xiao | Lose | W+R | 7.5 | 
-| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Li Qincheng | Ke Jie | Win | W+R | 7.5 | 
-| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Ke Jie | Dang Yifei | Win | B+3.5 | 7.5 | 
-| 2017-05-11 | 第1回新奥杯世界囲碁オープン戦準決勝第2局 | Li Zhe | Ke Jie | Win | W+2.5 | 7.5 | 
-| 2017-05-09 | 第1回新奥杯世界囲碁オープン戦準決勝第1局 | Ke Jie | Li Zhe | Win | B+R | 7.5 | 
-| 2017-05-07 | 第1回新奥杯世界囲碁オープン戦4回戦 | Lian Xiao | Ke Jie | Win | W+R | 7.5 | 
-| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Lee Donghoon | Ke Jie | Win | W+R | 7.5 | 
-| 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Ke Jie | Tang Weixing | Lose | W+R | 7.5 | 
-| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Zhao Chenyu | Ke Jie | Lose | B+R | 7.5 | 
-| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Chen Xian | Ke Jie | Win | W+R | 7.5 | 
-| 2017-04-12 | 第8期中国竜星戦準決勝 | Yang Dingxin | Ke Jie | Win | W+R | 7.5 | 
-| 2017-03-16 | 第8期中国竜星戦Aブロック10回戦 | Ke Jie | Chen Yaoye | Win | B+1.5 | 7.5 | 
-| 2017-03-12 | 第16回西南棋王戦準決勝 | Tan Xiao | Ke Jie | Lose | B+R | 7.5 | 
-| 2017-03-11 | 第16回西南棋王戦1回戦 | Ke Jie | Liao Yuanhe | Win | B+R | 7.5 | 
-| 2017-03-11 | 第16回西南棋王戦2回戦 | Shi Yue | Ke Jie | Win | W+R | 7.5 | 
-| 2017-01-31 | 第5回CCTV賀歳杯日中韓新春争覇戦第3戦 | Iyama Yuta | Ke Jie | Win | W+R | 7.5 | 
-| 2017-01-30 | 第5回CCTV賀歳杯日中韓新春争覇戦第2戦 | Park Junghwan | Ke Jie | Win | W+R | 7.5 | 
-| 2017-01-29 | 第5回CCTV賀歳杯日中韓新春争覇戦第1戦 | Iyama Yuta | Ke Jie | Lose | B+R | 7.5 | 
-| 2017-01-03 | Alphago Online Series on Tygem and Fox 50 | Ke Jie |  | Lose | W+R | 6.5 | 
-| 2017-01-01 | 2016年利民杯世界囲碁星鋭最強戦2回戦 | Shin Minjun | Ke Jie | Lose | B+R | 7.5 | 
-| 2016-12-31 | 2016年利民杯世界囲碁星鋭最強戦1回戦 | Song Gyusang | Ke Jie | Win | W+R | 7.5 | 
-| 2016-12-30 | Alphago Online Series on Tygem and Fox 19 | Ke Jie |  | Lose | W+R | 6.5 | 
-| 2016-12-30 | Alphago Online Series on Tygem and Fox 18 |  | Ke Jie | Lose | B+5.5 | 6.5 | 
-| 2016-12-26 | 嫘祖杯第29期中国名人戦16強戦 | Fan Yunruo | Ke Jie | Win | W+R | 7.5 | 
-| 2016-12-24 | 嫘祖杯第29期中国名人戦32強戦 | Li Xuanhao | Ke Jie | Win | W+R | 7.5 | 
-| 2016-12-22 | 第11回春蘭杯世界囲碁選手権準決勝 | Ke Jie | Park Yeonghun | Lose | W+R | 7.5 | 
-| 2016-12-20 | 第11回春蘭杯世界囲碁選手権3回戦 | Ke Jie | Mi Yuting | Win | B+R | 7.5 | 
-| 2016-12-16 | 第3回百霊杯世界オープン戦決勝五番勝負第4局 | Ke Jie | Chen Yaoye | Lose | W+4.5 | 7.5 | 
-| 2016-12-14 | 第3回百霊杯世界オープン戦決勝五番勝負第3局 | Chen Yaoye | Ke Jie | Win | W+R | 7.5 | 
-| 2016-12-11 | 第18期阿含・桐山杯　日中決戦 | Kono Rin | Ke Jie | Win | W+R | 6.5 | 
-| 2016-12-08 | 第21回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Ke Jie | Tuo Jiaxi | Win | B+R | 6.5 | 
-| 2016-12-07 | 第21回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Tuo Jiaxi | Ke Jie | Win | W+R | 6.5 | 
-| 2016-12-06 | 第21回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Ke Jie | Tuo Jiaxi | Lose | W+R | 6.5 | 
-| 2016-12-03 | 第18回中国囲碁甲級リーグ第22節 | Ke Jie | Tan Xiao | Win | B+R | 7.5 | 
-| 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Kim Jiseok | Ke Jie | Lose | B+1.5 | 7.5 | 
-| 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Shi Yue | Ke Jie | Win | W+R | 7.5 | 
-| 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 | Ke Jie | Zhou Ruiyang | Win | B+1.5 | 7.5 | 
-| 2016-11-14 | 第18回中国囲碁甲級リーグ第18節 | Lee Donghoon | Ke Jie | Win | W+2.5 | 7.5 | 
-| 2016-11-10 | 第1回新奥杯世界囲碁オープン戦3回戦 | Ke Jie | Ida Atsushi | Win | B+R | 7.5 | 
-| 2016-11-08 | 第1回新奥杯世界囲碁オープン戦2回戦 | Tang Weixing | Ke Jie | Win | W+2.5 | 7.5 | 
-| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Ke Jie | Ahn Kukhyun | Win | B+R | 7.5 | 
-| 2016-11-04 | 2016金立杯全国囲棋甲級聯戦第17回戦 | Ke Jie |  | Win | B+R | 7.5 | 
-| 2016-11-02 | 第21回三星火災杯世界囲碁マスターズ準決勝三番勝負第3局 | Lee Sedol | Ke Jie | Win | W+R | 6.5 | 
-| 2016-11-01 | 第21回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Lee Sedol | Ke Jie | Lose | B+R | 6.5 | 
-| 2016-10-31 | 第21回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Ke Jie | Lee Sedol | Win | B+R | 6.5 | 
-| 2016-10-28 | 第18回中国囲碁甲級リーグ第16節 |  | Ke Jie | Win | W+R | 7.5 | 
-| 2016-10-15 | 第6回衢州・爛柯杯中国囲棋冠軍戦決勝 | Mi Yuting | Ke Jie | Lose | B+R | 7.5 | 
-| 2016-10-14 | 第6回衢州・爛柯杯中国囲棋冠軍戦準決勝 | Tuo Jiaxi | Ke Jie | Win | W+R | 7.5 | 
-| 2016-10-12 | 第6回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Chen Yaoye | Ke Jie | Win | W+R | 7.5 | 
-| 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Ke Jie | Choi Cheolhan | Win | B+R | 7.5 | 
-| 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Xie Ke | Ke Jie | Win | W+R | 7.5 | 
-| 2016-10-06 | 第21回三星火災杯世界囲碁マスターズ3回戦 | Ke Jie | Zhou Ruiyang | Win | B+R | 6.5 | 
-| 2016-10-04 | 第21回三星火災杯世界囲碁マスターズ2回戦 | Lee Donghoon | Ke Jie | Win | W+R | 6.5 | 
-| 2016-09-29 | 第18期阿含・桐山杯中国早碁オープン戦決勝 | Chen Yaoye | Ke Jie | Win | W+4.5 | 7.5 | 
-| 2016-09-22 | 第3回百霊杯世界オープン戦決勝五番勝負第2局 | Ke Jie | Chen Yaoye | Lose | W+R | 7.5 | 
-| 2016-09-20 | 第3回百霊杯世界オープン戦決勝五番勝負第1局 | Chen Yaoye | Ke Jie | Lose | B+R | 7.5 | 
-| 2016-09-12 | 2016金立杯囲棋甲級リーグ戦聯戦第13R | Ke Jie | Tang Weixing | Win | B+R | 7.5 | 
-| 2016-09-08 | 第21回三星火災杯世界囲碁マスターズ1回戦E3 |  | Ke Jie | Win | W+R | 6.5 | 
-| 2016-09-07 | 第21回三星火災杯世界囲碁マスターズ1回戦E2 | Ke Jie | Kang Dongyun | Lose | W+R | 6.5 | 
-| 2016-09-06 | 第21回三星火災杯世界囲碁マスターズ1回戦E1 | Rui Naiwei | Ke Jie | Win | W+R | 6.5 | 
-| 2016-08-30 | 第3回百霊杯世界オープン戦準決勝第3局 | Ke Jie | Weon Seongjin | Win | B+R | 7.5 | 
-| 2016-08-29 | 第3回百霊杯世界オープン戦準決勝第2局 | Ke Jie | Weon Seongjin | Win | B+R | 7.5 | 
-| 2016-08-27 | 第3回百霊杯世界オープン戦準決勝第1局 | Weon Seongjin | Ke Jie | Lose | B+R | 7.5 | 
-| 2016-08-25 | 第3回百霊杯世界オープン戦4回戦 | Ke Jie | Xu Jiayang | Win | B+R | 7.5 | 
-| 2016-08-23 | 第12期威孚房開杯棋王戦2回戦 | Ke Jie | Huang Yunsong | Lose | W+R | 7.5 | 
-| 2016-08-22 | 第12期威孚房開杯棋王戦1回戦 | Qiu Jun | Ke Jie | Win | W+R | 7.5 | 
-| 2016-07-29 | 第18期阿含・桐山杯中国早碁オープン戦準決勝 | Huang Yunsong | Ke Jie | Win | W+R | 7.5 | 
-| 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Tan Xiao | Ke Jie | Lose | B+R | 7.5 | 
-| 2016-07-02 | 第3回百霊杯世界オープン戦3回戦 | Ke Jie | Min Sangyoun | Win | B+R | 7.5 | 
-| 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Meng Tailing | Ke Jie | Win | W+R | 7.5 | 
-| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Ke Jie | Tong Mengcheng | Win | B+R | 7.5 | 
-| 2016-06-25 | 第18回中国囲碁甲級リーグ第10節 | Ke Jie | Kim Jiseok | Win | B+R | 7.5 | 
-| 2016-06-20 | 第18回中国囲碁甲級リーグ第9節 | Ke Jie | Shi Yue | Win | B+R | 7.5 | 
-| 2016-06-16 | 第18回中国囲碁甲級リーグ第8節 | Fan Tingyu | Ke Jie | Win | W+R | 7.5 | 
-| 2016-06-13 | 第18期阿含・桐山杯中国早碁オープン戦2回戦 | Peng Liyao | Ke Jie | Win | W+R | 7.5 | 
-| 2016-06-06 | 第18回中国囲碁甲級リーグ第7節 | Ke Jie | Lee Donghoon | Lose | W+6.5 | 7.5 | 
-| 2016-06-04 | 2016CCTV杯中国囲棋電視快棋戦3回戦 | Ke Jie | Fan Yunruo | Lose | W+R | 7.5 | 
-| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦2回戦 | Ke Jie | Hu Yaoyu | Win | B+R | 7.5 | 
-| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Wang Tao | Ke Jie | Win | W+R | 7.5 | 
-| 2016-06-01 | 第21回LG杯朝鮮日報棋王戦2回戦 | Ke Jie | Park Junghwan | Lose | W+R | 6.5 | 
-| 2016-05-30 | 第21回LG杯朝鮮日報棋王戦1回戦 | So Yokoku | Ke Jie | Win | W+R | 6.5 | 
-| 2016-05-23 | 第18回中国囲碁甲級リーグ第6節 | Han Yizhou | Ke Jie | Win | W+R | 7.5 | 
-| 2016-05-20 | 第6回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Huang Yunsong | Ke Jie | Win | W+R | 7.5 | 
-| 2016-05-18 | 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Nie Weiping | Ke Jie | Win | W+R | 7.5 | 
-| 2016-05-16 | 第18回中国囲碁甲級リーグ第5節 | Ke Jie | Park Junghwan | Lose | W+R | 7.5 | 
-| 2016-05-11 | 第18期阿含・桐山杯中国早碁オープン戦1回戦 | Ke Jie | Mao Ruilong | Win | B+R | 7.5 | 
-| 2016-05-09 | 第18回中国囲碁甲級リーグ第4節 | Gu Lingyi | Ke Jie | Win | W+R | 7.5 | 
-| 2016-04-30 | 第18回中国囲碁甲級リーグ第3節 | Ke Jie | Xie Ke | Win | B+R | 7.5 | 
-| 2016-04-24 | 第8回応氏杯世界選手権3回戦 | Ke Jie | Park Junghwan | Lose | W+1 | 7.5 | 
-| 2016-04-22 | 第8回応氏杯世界選手権2回戦 | Ke Jie | Wang Yuanjun | Win | B+1 | 7.5 | 
-| 2016-04-20 | 第8回応氏杯世界選手権1回戦 | Cho U | Ke Jie | Win | W+R | 7.5 | 
-| 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Meng Tailing | Ke Jie | Win | W+R | 7.5 | 
-| 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Ke Jie | Mi Yuting | Win | B+3.5 | 7.5 | 
-| 2016-03-28 | 第11回春蘭杯世界囲碁選手権2回戦 | Ke Jie | Li Xuanhao | Win | B+R | 7.5 | 
-| 2016-03-21 | 第13期倡棋杯中国プロ囲碁選手権戦2回戦 | Ke Jie | Tang Weixing | Lose | W+R | 7.5 | 
-| 2016-03-19 | 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Ke Jie | Zhou Hexi | Win | B+R | 7.5 | 
-| 2016-03-07 | 第15回西南棋王戦1回戦 |  | Ke Jie | Lose | B+R | 7.5 | 
-| 2016-03-05 | 第17回農心辛ラーメン杯世界囲碁最強戦第14戦 | Ke Jie | Lee Sedol | Win | B+R | 6.5 | 
-| 2016-01-15 | 第30期中国囲碁天元戦1回戦 | Ke Jie |  | Lose | W+R | 7.5 | 
-| 2016-01-05 | 第2回夢百合杯世界オープン戦決勝五番勝負第5局 | Ke Jie | Lee Sedol | Win | B+1.5 | 7.5 | 
-| 2016-01-04 | 第2回夢百合杯世界オープン戦決勝五番勝負第4局 | Ke Jie | Lee Sedol | Lose | W+R | 7.5 | 
-| 2016-01-02 | 第2回夢百合杯世界オープン戦決勝五番勝負第3局 | Lee Sedol | Ke Jie | Win | W+R | 7.5 | 
-| 2015-12-31 | 第2回夢百合杯世界オープン戦決勝五番勝負第2局 | Ke Jie | Lee Sedol | Win | B+R | 7.5 | 
-| 2015-12-30 | 第2回夢百合杯世界オープン戦決勝五番勝負第1局 | Lee Sedol | Ke Jie | Lose | B+R | 7.5 | 
-| 2015-12-09 | 第20回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Shi Yue | Ke Jie | Win | W+R | 6.5 | 
-| 2015-12-08 | 第20回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Ke Jie | Shi Yue | Win | B+1.5 | 6.5 | 
-| 2015-12-06 | 第17回中国囲碁甲級リーグ第22節 | Hu Yaoyu | Ke Jie | Win | W+0.5 | 7.5 | 
-| 2015-12-04 | 第17回中国囲碁甲級リーグ第21節 | Ke Jie | Lian Xiao | Win | B+R | 7.5 | 
-| 2015-12-01 | 2015年利民杯世界囲碁星鋭最強戦準決勝 | Ke Jie | Lee Donghoon | Lose | W+R | 7.5 | 
-| 2015-11-30 | 2015年利民杯世界囲碁星鋭最強戦3回戦 | Huang Yunsong | Ke Jie | Win | W+R | 7.5 | 
-| 2015-11-29 | 2015年利民杯世界囲碁星鋭最強戦2回戦 | Lin Junyan | Ke Jie | Win | W+R | 7.5 | 
-| 2015-11-28 | 2015年利民杯世界囲碁星鋭最強戦1回戦 | Ke Jie | Na Hyun | Win | B+R | 7.5 | 
-| 2015-11-25 | 第2回夢百合杯世界オープン戦準決勝第3局 | Ke Jie | Park Yeonghun | Win | B+R | 7.5 | 
-| 2015-11-24 | 第2回夢百合杯世界オープン戦準決勝第2局 | Ke Jie | Park Yeonghun | Lose | W+R | 7.5 | 
-| 2015-11-22 | 第2回夢百合杯世界オープン戦準決勝第1局 | Park Yeonghun | Ke Jie | Win | W+R | 7.5 | 
-| 2015-11-16 | 第20回LG杯朝鮮日報棋王戦3回戦 | Ke Jie | Kang Dongyun | Lose | W+R | 6.5 | 
-| 2015-11-13 | 第17回中国囲碁甲級リーグ第20節 | Zhou Ruiyang | Ke Jie | Win | W+R | 7.5 | 
-| 2015-11-04 | 第20回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Ke Jie | Lee Sedol | Win | B+R | 6.5 | 
-| 2015-11-03 | 第20回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Lee Sedol | Ke Jie | Win | W+R | 6.5 | 
-| 2015-11-01 | 第11期威孚房開杯棋王戦決勝 | Ke Jie | Fan Yunruo | Win | B+R | 7.5 | 
-| 2015-10-31 | 第11期威孚房開杯棋王戦準決勝 | Gu Lingyi | Ke Jie | Win | W+8.5 | 7.5 | 
-| 2015-10-30 | 第11期威孚房開杯棋王戦3回戦 | Zhou Ruiyang | Ke Jie | Win | W+R | 7.5 | 
-| 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 | Tan Xiao | Ke Jie | Win | W+R | 7.5 | 
-| 2015-10-24 | 第7期中国竜星戦2回戦 | Ke Jie | Huang Yunsong | Lose | W+0.5 | 7.5 | 
-| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Ke Jie | Gu Li | Win | B+R | 7.5 | 
-| 2015-10-13 | 第11期威孚房開杯棋王戦2回戦 | Mi Yuting | Ke Jie | Win | W+0.5 | 7.5 | 
-| 2015-10-12 | 第11期威孚房開杯棋王戦1回戦 | Zhou Hexi | Ke Jie | Win | W+R | 7.5 | 
-| 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Kim Jiseok | Ke Jie | Win | W+R | 7.5 | 
-| 2015-10-08 | 第20回三星火災杯世界囲碁マスターズ3回戦 | Ke Jie | Byun Sangil | Win | B+R | 6.5 | 
-| 2015-10-06 | 第20回三星火災杯世界囲碁マスターズ2回戦 | Na Hyun | Ke Jie | Win | W+R | 6.5 | 
-| 2015-09-29 | 第17回中国囲碁甲級リーグ第15節 | Ke Jie | Shi Yue | Lose | W+R | 7.5 | 
-| 2015-09-27 | 第7期中国竜星戦1回戦 | An Dongxu | Ke Jie | Win | W+0.5 | 7.5 | 
-| 2015-09-24 | 第17回中国囲碁甲級リーグ第14節 | Kang Dongyun | Ke Jie | Win | W+R | 7.5 | 
-| 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦B2 | Ke Jie | Peng Liyao | Win | B+R | 6.5 | 
-| 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦B1 | Yoo Changhyuk | Ke Jie | Win | W+R | 6.5 | 
-| 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Ke Jie | Liao Xingwen | Win | B+R | 7.5 | 
-| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Ke Jie | Tang Weixing | Win | B+R | 7.5 | 
-| 2015-09-01 | 第2回夢百合杯世界オープン戦4回戦 | Ke Jie | Rong Yi | Win | B+R | 7.5 | 
-| 2015-08-30 | 第2回夢百合杯世界オープン戦3回戦 | Ke Jie | Wang Zejin | Win | B+R | 7.5 | 
-| 2015-07-27 | 第17期阿含・桐山杯中国早碁オープン戦2回戦 | Ke Jie | Chen Yaoye | Lose | W+3.5 | 7.5 | 
-| 2015-07-11 | 第17回中国囲碁甲級リーグ第11節 | Ke Jie | Qiu Jun | Lose | W+R | 7.5 | 
-| 2015-07-09 | 第2回夢百合杯世界オープン戦2回戦 | Zhang Qiang | Ke Jie | Win | W+R | 7.5 | 
-| 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Ke Jie | Qin Yuexin | Win | B+R | 7.5 | 
-| 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 | Lian Xiao | Ke Jie | Win | W+R | 7.5 | 
-| 2015-07-02 | 第17期阿含・桐山杯中国早碁オープン戦1回戦 | Xie Erhao | Ke Jie | Win | W+2.5 | 7.5 | 
-| 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Ke Jie | Jiang Weijie | Lose | W+R | 7.5 | 
-| 2015-06-25 | 第17回中国囲碁甲級リーグ第8節 | Tuo Jiaxi | Ke Jie | Win | W+R | 7.5 | 
-| 2015-06-23 | 2015年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Ke Jie | Park Geunho | Win | B+R | 7.5 | 
-| 2015-06-22 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Shi Yulai | Ke Jie | Win | W+R | 7.5 | 
-| 2015-06-22 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Ding Shixiong | Ke Jie | Win | W+R | 7.5 | 
-| 2015-06-21 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Ke Jie | Song Jihoon | Win | B+R | 7.5 | 
-| 2015-06-20 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Ke Jie |  | Win | B+R | 7.5 | 
-| 2015-06-20 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Liao Yuanhe | Ke Jie | Win | W+R | 7.5 | 
-| 2015-06-18 | 宝佳適杯中韓新鋭天元戦第2戦 | Lee Donghoon | Ke Jie | Win | W+R | 6.5 | 
-| 2015-06-17 | 宝佳適杯中韓新鋭天元戦第1戦 | Shin Minjun | Ke Jie | Lose | B+R | 6.5 | 
-| 2015-06-13 | 第17回中国囲碁甲級リーグ第7節 | Ke Jie | Tan Xiao | Win | B+1.5 | 7.5 | 
-| 2015-06-10 | 第20回LG杯朝鮮日報棋王戦2回戦 | Choi Cheolhan | Ke Jie | Win | W+R | 6.5 | 
-| 2015-06-08 | 第20回LG杯朝鮮日報棋王戦1回戦 | Byun Sangil | Ke Jie | Win | W+R | 6.5 | 
-| 2015-05-28 | 第17回中国囲碁甲級リーグ第6節 | Gu Li | Ke Jie | Win | W+R | 7.5 | 
-| 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Ke Jie | Kim Jiseok | Lose | W+R | 7.5 | 
-| 2015-05-16 | 第17回中国囲碁甲級リーグ第4節 | Tao Xinran | Ke Jie | Win | W+R | 7.5 | 
-| 2015-05-11 | 第17回中国囲碁甲級リーグ第3節 | Ke Jie | Liu Xing | Lose | W+R | 7.5 | 
-| 2015-05-08 | 第28期中国囲碁名人戦2回戦 | Ke Jie | Qiu Jun | Lose | W+R | 7.5 | 
-| 2015-05-06 | 第28期中国囲碁名人戦1回戦 | Ke Jie | Mao Ruilong | Win | B+1.5 | 7.5 | 
-| 2015-04-29 | 第17回中国囲碁甲級リーグ第2節 | Liao Xingwen | Ke Jie | Win | W+R | 7.5 | 
-| 2015-04-26 | 第15期リコー杯囲碁戦決勝 | Shi Yue | Ke Jie | Win | W+R | 7.5 | 
-| 2015-04-22 | 第17回中国囲碁甲級リーグ第1節 | Huang Yunsong | Ke Jie | Win | W+R | 7.5 | 
-| 2015-04-05 | 第12期倡棋杯中国プロ囲碁選手権戦2回戦 | Ke Jie | Qiu Jun | Lose | W+R | 7.5 | 
-| 2015-04-03 | 第12期倡棋杯中国プロ囲碁選手権戦1回戦 | Ke Jie | Yu Zhiying | Win | B+1 | 7.5 | 
-| 2015-03-14 | 第16回阿含・桐山杯日中決戦 | Iyama Yuta | Ke Jie | Win | W+R | 6.5 | 
-| 2015-03-10 | 第14回西南棋王戦準決勝 | Ke Jie | Shi Yue | Lose | W+R | 7.5 | 
-| 2015-03-09 | 第14回西南棋王戦2回戦 | Gu Li | Ke Jie | Win | W+R | 7.5 | 
-| 2015-03-09 | 第14回西南棋王戦1回戦 | Ke Jie |  | Win | B+1.5 | 7.5 | 
-| 2015-01-29 | 第29期中国囲碁天元戦2回戦 | Ke Jie | Gu Zihao | Lose | W+R | 7.5 | 
-| 2015-01-27 | 第29期中国囲碁天元戦1回戦 | Ke Jie | Zhou Hexi | Win | B+R | 7.5 | 
-| 2015-01-23 | 第15期リコー杯囲碁戦準決勝 | Ke Jie | Fan Tingyu | Win | B+1.5 | 7.5 | 
-| 2015-01-22 | 第15期リコー杯囲碁戦4回戦 | Ke Jie | Wang Xi | Win | B+R | 7.5 | 
-| 2015-01-21 | 第15期リコー杯囲碁戦3回戦 | Xie Erhao | Ke Jie | Win | W+R | 7.5 | 
-| 2015-01-20 | 第15期リコー杯囲碁戦2回戦 | Wang Haoyang | Ke Jie | Win | W+0.5 | 7.5 | 
-| 2015-01-14 | 第2回百霊杯世界オープン戦決勝五番勝負第5局 | Qiu Jun | Ke Jie | Win | W+R | 7.5 | 
-| 2015-01-13 | 第2回百霊杯世界オープン戦決勝五番勝負第4局 | Qiu Jun | Ke Jie | Win | W+R | 7.5 | 
-| 2015-01-11 | 第2回百霊杯世界オープン戦決勝五番勝負第3局 | Ke Jie | Qiu Jun | Lose | W+R | 7.5 | 
-| 2014-12-19 | 2014年利民杯世界囲碁星鋭最強戦1回戦 | Ke Jie | Shin Jinseo | Lose | W+0.5 | 7.5 | 
-| 2014-12-16 | 第6期中国竜星戦準決勝 | Ke Jie | Tan Xiao | Lose | W+0.5 | 7.5 | 
-| 2014-11-29 | 第2回百霊杯世界オープン戦決勝五番勝負第2局 | Qiu Jun | Ke Jie | Lose | B+1.5 | 7.5 | 
-| 2014-11-27 | 第2回百霊杯世界オープン戦決勝五番勝負第1局 | Ke Jie | Qiu Jun | Win | B+R | 7.5 | 
-| 2014-11-22 | 第16回中国囲碁甲級リーグ第21節 | Ke Jie | Yang Dingxin | Win | B+R | 7.5 | 
-| 2014-11-18 | 第6期中国竜星戦3回戦 | Fan Yunruo | Ke Jie | Win | W+R | 7.5 | 
-| 2014-11-11 | 第16回中国囲碁甲級リーグ第20節 | Ke Jie |  | Win | B+R | 7.5 | 
-| 2014-11-09 | 第16回中国囲碁甲級リーグ第19節 | An Dongxu | Ke Jie | Win | W+R | 7.5 | 
-| 2014-11-02 | 第1回おかげ杯国際精鋭囲碁対抗戦団体戦一位決定戦 | Ke Jie | Na Hyun | Lose | W+R | 6.5 | 
-| 2014-11-01 | 第1回おかげ杯国際精鋭囲碁対抗戦第2戦 | Ke Jie | Ichiriki Ryo | Win | B+R | 6.5 | 
-| 2014-11-01 | 第1回おかげ杯国際精鋭囲碁対抗戦第1戦 | Na Hyun | Ke Jie | Win | W+R | 6.5 | 
-| 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 | Ke Jie | Lee Donghoon | Lose | W+2.5 | 7.5 | 
-| 2014-10-24 | 第16期阿含・桐山杯中国早碁オープン戦決勝 | Tang Weixing | Ke Jie | Win | W+R | 7.5 | 
-| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Yang Kaiwen | Ke Jie | Win | W+R | 7.5 | 
-| 2014-10-15 | 第6期中国竜星戦2回戦 | Ke Jie | Kong Jie | Win | B+R | 7.5 | 
-| 2014-10-11 | 第10期威孚房開杯棋王戦1回戦 | Shi Yue | Ke Jie | Lose | B+R | 7.5 | 
-| 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Ke Jie | Piao Wenyao | Win | B+R | 7.5 | 
-| 2014-10-03 | 2014年国際新鋭囲碁対抗戦第3戦 | Ke Jie | Xiao Zhenghao | Win | B+R | 6.5 | 
-| 2014-10-02 | 2014年国際新鋭囲碁対抗戦第2戦 | Ke Jie | Na Hyun | Lose | W+0.5 | 6.5 | 
-| 2014-10-01 | 2014年国際新鋭囲碁対抗戦第1戦 | Ida Atsushi | Ke Jie | Win | W+R | 6.5 | 
-| 2014-09-20 | 第2回百霊杯世界オープン戦準決勝第2局 | Park Junghwan | Ke Jie | Win | W+R | 7.5 | 
-| 2014-09-18 | 第2回百霊杯世界オープン戦準決勝第1局 | Ke Jie | Park Junghwan | Win | B+R | 7.5 | 
-| 2014-09-16 | 第2回百霊杯世界オープン戦4回戦 | Choi Cheolhan | Ke Jie | Win | W+R | 7.5 | 
-| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Ke Jie | Hu Yuhan | Win | B+13.5 | 7.5 | 
-| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Jiang Weijie | Ke Jie | Lose | B+R | 7.5 | 
-| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Peng Quan | Ke Jie | Win | W+R | 7.5 | 
-| 2014-09-02 | 第6期中国竜星戦1回戦 | Ke Jie | Qin Yuexin | Win | B+R | 7.5 | 
-| 2014-08-30 | 第16期阿含・桐山杯中国早碁オープン戦準決勝 | Zhou Ruiyang | Ke Jie | Win | W+R | 7.5 | 
-| 2014-08-03 | 第19回三星火災杯統合予選2回戦 |  | Ke Jie | Lose | B+R | 6.5 | 
-| 2014-07-30 | 第16期阿含・桐山杯中国早碁オープン戦2回戦 | Ke Jie | Gu Li | Win | B+1.5 | 7.5 | 
-| 2014-07-24 | 第2回百霊杯世界オープン戦3回戦 | Wang Yao | Ke Jie | Win | W+R | 7.5 | 
-| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Fan Tingyu | Ke Jie | Win | W+R | 7.5 | 
-| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Fan Yunruo | Ke Jie | Win | W+R | 7.5 | 
-| 2014-07-07 | 第16期阿含・桐山杯中国早碁オープン戦1回戦 | Ke Jie | Lian Xiao | Win | B+R | 7.5 | 
-| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Gu Li | Ke Jie | Win | W+R | 7.5 | 
-| 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Xie He | Ke Jie | Win | W+R | 7.5 | 
-| 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Zhong Wenjing | Ke Jie | Win | W+R | 7.5 | 
-| 2014-07-02 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Chang Hao | Ke Jie | Win | W+T | 7.5 | 
-| 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Ke Jie | Liao Xingwen | Win | B+R | 7.5 | 
-| 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Ke Jie | An Dongxu | Win | B+1.5 | 7.5 | 
-| 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Fan Tingyu | Ke Jie | Lose | B+R | 7.5 | 
-| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Ke Jie | Chen Yaoye | Win | B+R | 7.5 | 
-| 2014-06-05 | 第16回中国囲碁甲級リーグ第6節 | Ke Jie | Dang Yifei | Win | B+R | 7.5 | 
-| 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Ke Jie |  | Win | B+1.5 | 7.5 | 
-| 2014-05-28 | 第11期倡棋杯中国プロ囲碁選手権戦1回戦 | Liu Xing | Ke Jie | Lose | B+R | 7.5 | 
-| 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Ke Jie | Wu Guangya | Win | B+R | 7.5 | 
-| 2014-05-18 | 第16回中国囲碁甲級リーグ第3節 | Qin Yuexin | Ke Jie | Win | W+R | 7.5 | 
-| 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Ke Jie | Ding Shixiong | Win | B+R | 7.5 | 
-| 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Huang Yunsong | Ke Jie | Win | W+R | 7.5 | 
-| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Ke Jie | Tang Weixing | Lose | W+0.5 | 7.5 | 
-| 2014-05-03 | 2014年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Liao Xingwen | Ke Jie | Win | W+0.5 | 7.5 | 
-| 2014-05-03 | 2014年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Ke Jie | Xu Jiayang | Win | B+R | 7.5 | 
-| 2014-05-02 | 2014年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Shin Jinseo | Ke Jie | Win | W+R | 7.5 | 
-| 2014-04-25 | 第28期中国囲碁天元戦挑戦手合三番勝負第3局 | Ke Jie | Chen Yaoye | Lose | W+R | 7.5 | 
-| 2014-04-24 | 第28期中国囲碁天元戦挑戦手合三番勝負第2局 | Ke Jie | Chen Yaoye | Lose | W+R | 7.5 | 
-| 2014-04-22 | 第28期中国囲碁天元戦挑戦手合三番勝負第1局 | Chen Yaoye | Ke Jie | Win | W+R | 7.5 | 
-| 2014-04-08 | 第27期中国囲碁名人戦3回戦 | Ke Jie | Lian Xiao | Lose | W+R | 7.5 | 
-| 2014-04-06 | 第27期中国囲碁名人戦2回戦 | Ke Jie | Tan Xiao | Win | B+R | 7.5 | 
-| 2014-04-04 | 第27期中国囲碁名人戦1回戦 | Hu Yaoyu | Ke Jie | Win | W+R | 7.5 | 
-| 2014-04-02 | 第27期中国囲碁名人戦予選 | Zhang Tao | Ke Jie | Win | W+R | 7.5 | 
-| 2014-04-01 | 第27期中国囲碁名人戦予選 | Ke Jie | He Tianning | Win | B+R | 7.5 | 
-| 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Ke Jie | Kim Seongjae | Win | B+R | 7.5 | 
-| 2014-01-23 | 第28期中国囲碁天元戦挑戦者決定戦 | Shi Yue | Ke Jie | Win | W+R | 7.5 | 
-| 2014-01-21 | 第28期中国囲碁天元戦準決勝 | Ke Jie | Dang Yifei | Win | B+1.5 | 7.5 | 
-| 2014-01-19 | 第28期中国囲碁天元戦3回戦 | Ke Jie | Zhou Ruiyang | Win | B+R | 7.5 | 
-| 2014-01-17 | 第28期中国囲碁天元戦2回戦 | Ke Jie | Zhang Tao | Win | B+R | 7.5 | 
-| 2014-01-15 | 第28期中国囲碁天元戦1回戦 | Ke Jie | Lian Xiao | Win | B+R | 7.5 | 
-| 2014-01-14 | 第28期中国囲碁天元戦予選 |  | Ke Jie | Win | W+R | 7.5 | 
-| 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 | Ke Jie | Meng Tailing | Win | B+R | 7.5 | 
-| 2013-11-23 | 第15回中国囲碁甲級リーグ第21節 | Ke Jie | Na Hyun | Win | B+R | 7.5 | 
-| 2013-11-16 | 第15回中国囲碁甲級リーグ第20節 | Ke Jie | Chen Yaoye | Win | B+1.5 | 7.5 | 
-| 2013-11-02 | 第15回中国囲碁甲級リーグ第19節 | Zhou Ruiyang | Ke Jie | Win | W+0.5 | 7.5 | 
-| 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 | Ke Jie | Liao Xingwen | Win | B+R | 7.5 | 
-| 2013-10-20 | 第15回中国囲碁甲級リーグ第17節 | Ke Jie | Fan Yunruo | Win | B+R | 7.5 | 
-| 2013-10-13 | 第15回中国囲碁甲級リーグ第16節 | Ke Jie | Park Junghwan | Lose | W+R | 7.5 | 
-| 2013-10-08 | 第18回三星火災杯世界囲碁マスターズ2回戦 | Ke Jie | Shi Yue | Lose | W+R | 6.5 | 
-| 2013-09-12 | 第15回中国囲碁甲級リーグ第15節 | Shi Yue | Ke Jie | Win | W+R | 7.5 | 
-| 2013-09-09 | 第5期中国竜星戦予選 | Ke Jie | Tang Weixing | Lose | W+R | 7.5 | 
-| 2013-09-07 | 第15回中国囲碁甲級リーグ第14節 | Ke Jie | Xie He | Lose | W+R | 7.5 | 
-| 2013-09-05 | 第18回三星火災杯世界囲碁マスターズ1回戦D3 | Ke Jie | Choi Cheolhan | Win | B+R | 6.5 | 
-| 2013-09-04 | 第18回三星火災杯世界囲碁マスターズ1回戦D2 | Ke Jie | Tuo Jiaxi | Win | B+R | 6.5 | 
-| 2013-09-03 | 第18回三星火災杯世界囲碁マスターズ1回戦D1 | Ke Jie | Kim Jiseok | Lose | W+R | 6.5 | 
-| 2013-09-01 | 第15回中国囲碁甲級リーグ第13節 | Ke Jie | Choi Cheolhan | Lose | W+R | 7.5 | 
-| 2013-08-30 | 第15回中国囲碁甲級リーグ第12節 | Ke Jie | Park Yeonghun | Win | B+R | 7.5 | 
-| 2013-08-07 | 第18回三星火災杯統合予選決勝 | Ke Jie |  | Win | B+R | 6.5 | 
-| 2013-07-15 | 第15回中国囲碁甲級リーグ第11節 | Ke Jie | Peng Quan | Lose | W+R | 7.5 | 
-| 2013-07-11 | 第1回夢百合杯世界オープン戦2回戦 | Ke Jie | Lian Xiao | Lose | W+0.5 | 7.5 | 
-| 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 | Ke Jie | Cho Insun | Win | B+R | 7.5 | 
-| 2013-07-07 | 第15回中国囲碁甲級リーグ第10節 |  | Ke Jie | Win | W+R | 7.5 | 
-| 2013-06-22 | 第15回中国囲碁甲級リーグ第9節 | Ke Jie | Han Yizhou | Win | B+R | 7.5 | 
-| 2013-06-15 | 第15回中国囲碁甲級リーグ第8節 | Jiang Weijie | Ke Jie | Lose | B+R | 7.5 | 
-| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Wang Haoyang | Ke Jie | Lose | B+R | 7.5 | 
-| 2013-06-02 | 第15回中国囲碁甲級リーグ第7節 | Niu Yutian | Ke Jie | Win | W+R | 7.5 | 
-| 2013-05-18 | 第15回中国囲碁甲級リーグ第6節 | Ke Jie | Hu Yaoyu | Win | B+R | 7.5 | 
-| 2013-05-11 | 第15回中国囲碁甲級リーグ第5節 | Ke Jie | Li Kang | Win | B+R | 7.5 | 
-| 2013-05-09 | 第15回中国囲碁甲級リーグ第4節 | Ke Jie | Li Zhe | Win | B+R | 7.5 | 
-| 2013-04-11 | 第26期中国囲碁名人戦予選 | Ke Jie | Wang Tao | Lose | W+0.5 | 7.5 | 
-| 2013-04-10 | 第26期中国囲碁名人戦予選 | Ke Jie |  | Win | B+R | 7.5 | 
-| 2013-04-07 | 第15回中国囲碁甲級リーグ第2節 | Ke Jie | Tao Xinran | Lose | W+R | 7.5 | 
-| 2013-04-05 | 第15回中国囲碁甲級リーグ第1節 | Ke Jie | Park Yeonghun | Win | B+1.5 | 7.5 | 
-| 2013-03-30 | 第20期建橋杯中国囲碁新人王戦3回戦 | Ke Jie | Liao Xingwen | Lose | W+R | 7.5 | 
-| 2013-03-28 | 第20期建橋杯中国囲碁新人王戦1回戦 | Ke Jie | Li Qincheng | Win | B+R | 7.5 | 
-| 2012-12-08 | 第14回中国囲碁甲級リーグ第22節 | Ke Jie | Hu Yaoyu | Win | B+R | 7.5 | 
-| 2012-12-01 | 第14回中国囲碁甲級リーグ第21節 | Wang Tao | Ke Jie | Win | W+R | 7.5 | 
-| 2012-11-10 | 第14回中国囲碁甲級リーグ第19節 | Li Kang | Ke Jie | Lose | B+R | 7.5 | 
-| 2012-11-03 | 第14回中国囲碁甲級リーグ第18節 | Guo Yuzheng | Ke Jie | Win | W+R | 7.5 | 
-| 2012-10-21 | 第14回中国囲碁甲級リーグ第17節 | Huang Yizhong | Ke Jie | Win | W+R | 7.5 | 
-| 2012-09-30 | 第14回中国囲碁甲級リーグ第16節 | Ke Jie | Li Xuanhao | Win | B+R | 7.5 | 
-| 2012-09-28 | 第14回中国囲碁甲級リーグ第15節 | Fan Tingyu | Ke Jie | Lose | B+R | 7.5 | 
-| 2012-09-08 | 第14回中国囲碁甲級リーグ第14節 | Ke Jie | Cho Hanseung | Lose | W+R | 7.5 | 
-| 2012-09-01 | 第14回中国囲碁甲級リーグ第13節 | Ke Jie | Chen Yaoye | Win | B+3.5 | 7.5 | 
-| 2012-08-30 | 第14回中国囲碁甲級リーグ第12節 | Ke Jie | Piao Wenyao | Lose | W+R | 7.5 | 
-| 2012-07-15 | 第14回中国囲碁甲級リーグ第11節 | Qiu Jun | Ke Jie | Win | W+R | 7.5 | 
-| 2012-07-13 | 第14回中国囲碁甲級リーグ第10節 | Ke Jie |  | Lose | W+R | 7.5 | 
-| 2012-07-07 | 第14回中国囲碁甲級リーグ第9節 | Ke Jie | Sun Tengyu | Win | B+1.5 | 7.5 | 
-| 2012-06-30 | 第14回中国囲碁甲級リーグ第8節 |  | Ke Jie | Win | W+R | 7.5 | 
-| 2012-06-09 | 第14回中国囲碁甲級リーグ第5節 | Ke Jie | Li Xuanhao | Lose | W+R | 7.5 | 
-| 2012-05-30 | 第14回中国囲碁甲級リーグ第4節 | Ke Jie | Fan Tingyu | Lose | W+R | 7.5 | 
-| 2012-04-28 | 第14回中国囲碁甲級リーグ第1節 | Ke Jie | Shi Yue | Lose | W+R | 7.5 | 
-| 2012-03-10 | 第1回百霊杯世界囲碁選手権予選 | Kang Dongyun | Ke Jie | Win | W+R | 7.5 | 
-| 2011-12-26 | 第13回中国囲碁甲級リーグ第22節 | Piao Wenyao | Ke Jie | Win | W+R | 7.5 | 
-| 2011-11-29 | 第13回中国囲碁甲級リーグ第21節 | Ke Jie | Wang Xi | Lose | W+R | 7.5 | 
-| 2011-11-26 | 第13回中国囲碁甲級リーグ第20節 | Ke Jie | Ding Lie | Lose | W+R | 7.5 | 
-| 2011-11-05 | 第13回中国囲碁甲級リーグ第19節 | Chang Hao | Ke Jie | Win | W+2.5 | 7.5 | 
-| 2011-10-29 | 第13回中国囲碁甲級リーグ第18節 | Ke Jie | Li Kang | Win | B+R | 7.5 | 
-| 2011-10-13 | 第13回中国囲碁甲級リーグ第17節 |  | Ke Jie | Lose | B+R | 7.5 | 
-| 2011-10-08 | 第13回中国囲碁甲級リーグ第16節 | Ke Jie | Peng Quan | Lose | W+6.5 | 7.5 | 
-| 2011-09-10 | 第13回中国囲碁甲級リーグ第14節 | Wang Lei (s) | Ke Jie | Lose | B+R | 7.5 | 
-| 2011-09-06 | 第13回中国囲碁甲級リーグ第13節 | Tao Xinran | Ke Jie | Lose | B+R | 7.5 | 
-| 2011-09-04 | 第13回中国囲碁甲級リーグ第12節 | Ke Jie | Tao Xin | Win | B+R | 7.5 | 
-| 2011-07-02 | 第13回中国囲碁甲級リーグ第9節 | Ke Jie | Hong Seongji | Lose | W+R | 7.5 | 
-| 2011-06-25 | 第13回中国囲碁甲級リーグ第8節 | Hu Yaoyu | Ke Jie | Win | W+6.5 | 7.5 | 
-| 2011-06-09 | 第13回中国囲碁甲級リーグ第6節 | Niu Yutian | Ke Jie | Lose | B+R | 7.5 | 
-| 2011-05-28 | 第13回中国囲碁甲級リーグ第5節 | Ke Jie | Meng Tailing | Lose | W+R | 7.5 | 
-| 2011-05-21 | 第13回中国囲碁甲級リーグ第4節 | Ke Jie | Tuo Jiaxi | Win | B+R | 7.5 | 
-| 2011-05-09 | 第13回中国囲碁甲級リーグ第2節 | Ke Jie | Huang Chen | Lose | W+R | 7.5 | 
-| 2011-03-15 | 2011CCTV杯中国囲棋電視快棋戦2回戦 | Tan Xiao | Ke Jie | Lose | B+R | 7.5 | 
-| 2011-03-14 | 2011CCTV杯中国囲棋電視快棋戦1回戦 | Tang Yi | Ke Jie | Win | W+R | 7.5 | 
-| 2010-03-30 | 第23期中国囲碁名人戦予選 | Shi Yue | Ke Jie | Lose | B+3.5 | 7.5 | 
-| 2010-01-19 | 第24期中国囲碁天元戦予選 | Ke Jie |  | Lose | W+R | 7.5 | 
-| 2009-12-30 | 第10期リコー杯囲碁戦2回戦 | Chen Yaoye | Ke Jie | Lose | B+R | 7.5 | 
-| 2009-12-29 | 第4期リコー杯新秀戦1回戦 | Ke Jie |  | Lose | W+R | 7.5 | 
-| 2009-12-28 | 第10期リコー杯囲碁戦1回戦 | Huang Yizhong | Ke Jie | Win | W+0.5 | 7.5 | 
-| 2009-12-20 | 第4期リコー杯新秀戦予選 |  | Ke Jie | Win | W+R | 7.5 | 
-| 2009-12-19 | 第4期リコー杯新秀戦予選 | Fan Yunruo | Ke Jie | Win | W+4.5 | 7.5 | 
-| 2009-03-03 | 第22期中国囲碁名人戦予選 | Ke Jie | Zheng Yan | Win | B+R | 7.5 | 
-| 2008-12-18 | 第3期リコー杯新秀戦予選 |  | Ke Jie | Lose | B+3.5 | 7.5 | 
-| 2008-12-16 | 第3期リコー杯新秀戦予選 | Ke Jie |  | Win | B+3.5 | 7.5 |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Chen Zijian | Ke Jie | Win | W+R | 7.5 | 3710 | -4 | 
+| 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Weon Seongjin | Ke Jie | Win | W+0.5 | 6.5 | 3714 | -1 | 
+| 2021-05-12 | 第23回中国囲碁甲級リーグ | Ke Jie | Yang Dingxin | Lose | W+R | 7.5 | 3715 | -17 | 
+| 2021-05-11 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Ke Jie | Win | W+R | 7.5 | 3732 | 0 | 
+| 2021-05-10 | 第23回中国囲碁甲級リーグ | Ke Jie | Shin Jinseo | Win | B+R | 7.5 | 3732 | 16 | 
+| 2021-05-08 | 第23回中国囲碁甲級リーグ | Ke Jie | Park Junghwan | Lose | W+R | 7.5 | 3716 | -1 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Ding Hao | Ke Jie | Win | W+R | 7.5 | 3717 | -18 | 
+| 2021-04-26 | 第20回西南棋王戦準決勝 | Mi Yuting | Ke Jie | Lose | B+¾ | 7.5 | 3735 | -17 | 
+| 2021-04-25 | 第20回西南棋王戦2回戦 | Ke Jie | Liu Yuhang | Win | B+R | 7.5 | 3752 | 0 | 
+| 2021-04-25 | 第20回西南棋王戦1回戦 | Ke Jie | Chen Hao | Win | B+R | 7.5 | 3752 | 14 | 
+| 2021-04-20 | 第17回倡棋杯中国プロ囲碁選手権戦2回戦 | Li Xuanhao | Ke Jie | Lose | B+R | 7.5 | 3738 | -23 | 
+| 2021-04-12 | 第35期中国囲碁天元戦準決勝 | Ke Jie | Li Qincheng | Lose | W+R | 7.5 | 3761 | -121 | 
+| 2021-03-23 | 第35期中国囲碁天元戦3回戦 | Ke Jie | Xie Erhao | Win | B+R | 7.5 | 3882 | 1 | 
+| 2021-03-21 | 第35期中国囲碁天元戦2回戦 | Mi Yuting | Ke Jie | Win | W+R | 7.5 | 3881 | -2 | 
+| 2021-03-19 | 第35期中国囲碁天元戦1回戦 | Ke Jie | Huang Yunsong | Win | B+R | 7.5 | 3883 | 19 | 
+| 2021-02-25 | 第22回農心辛ラーメン杯世界囲碁最強戦第13戦 | Shin Jinseo | Ke Jie | Lose | B+R | 6.5 | 3864 | -134 | 
+| 2021-02-04 | 第25回LG杯朝鮮日報棋王戦決勝三番勝負第3局 | Ke Jie | Shin Minjun | Lose | W+3.5 | 6.5 | 3998 | -18 | 
+| 2021-02-03 | 第25回LG杯朝鮮日報棋王戦決勝三番勝負第2局 | Ke Jie | Shin Minjun | Lose | W+R | 6.5 | 4016 | -20 | 
+| 2021-02-01 | 第25回LG杯朝鮮日報棋王戦決勝三番勝負第1局 | Shin Minjun | Ke Jie | Win | W+R | 6.5 | 4036 | -2 | 
+| 2021-01-20 | 第13回春蘭杯世界囲碁選手権準決勝 | Ke Jie | Tang Weixing | Lose | W+R | 7.5 | 4038 | -7 | 
+| 2021-01-18 | 第13回春蘭杯世界囲碁選手権3回戦 | Ke Jie | Xu Haohong | Win | B+R | 7.5 | 4045 | 33 | 
+| 2020-12-29 | 第4回Mlily夢百合杯世界囲碁オープン戦8強戦 | Fan Tingyu | Ke Jie | Lose | B+R | 7.5 | 4012 | 10 | 
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Na Hyun | Ke Jie | Win | W+R | 7.5 | 4002 | 7 | 
+| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Cao Xiaoyang | Ke Jie | Win | W+R | 7.5 | 3995 | -31 | 
+| 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Ke Jie | Tao Xinran | Lose | W+R | 7.5 | 4026 | -27 | 
+| 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Ke Jie | Rong Yi | Win | B+R | 7.5 | 4053 | 6 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Ke Jie | Shin Jinseo | Lose | W+R | 7.5 | 4047 | -21 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Gu Zihao | Ke Jie | Win | W+R | 7.5 | 4068 | 0 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Ke Jie | Ding Hao | Lose | W+¼ | 7.5 | 4068 | -30 | 
+| 2020-12-09 | 第22回中国囲碁甲級リーグ | Meng Tailing | Ke Jie | Win | W+R | 7.5 | 4098 | -11 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Ke Jie | Tong Mengcheng | Win | B+R | 7.5 | 4109 | 27 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Shin Minjun | Ke Jie | Win | W+R | 7.5 | 4082 | 2 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Ke Jie | Yang Dingxin | Lose | W+R | 7.5 | 4080 | 75 | 
+| 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Ke Jie | Tao Xinran | Lose | W+R | 7.5 | 4005 | -26 | 
+| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Ke Jie | Tuo Jiaxi | Win | B+R | 7.5 | 4031 | 28 | 
+| 2020-11-11 | 第25回LG杯朝鮮日報棋王戦準決勝 | Byun Sangil | Ke Jie | Win | W+R | 6.5 | 4003 | 39 | 
+| 2020-11-09 | 第25回LG杯朝鮮日報棋王戦3回戦 | Weon Seongjin | Ke Jie | Win | W+R | 6.5 | 3964 | 55 | 
+| 2020-11-03 | 第25回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Ke Jie | Shin Jinseo | Win | B+0.5 | 6.5 | 3909 | 16 | 
+| 2020-11-02 | 第25回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Shin Jinseo | Ke Jie | Win | W+R | 6.5 | 3893 | 12 | 
+| 2020-10-31 | 第25回三星火災杯世界囲碁マスターズ準決勝 | Yang Dingxin | Ke Jie | Win | W+R | 6.5 | 3881 | 4 | 
+| 2020-10-30 | 第25回三星火災杯世界囲碁マスターズ3回戦 | Ke Jie | Li Xuanhao | Win | B+R | 6.5 | 3877 | 0 | 
+| 2020-10-28 | 第25回三星火災杯世界囲碁マスターズ2回戦 | Cho Hanseung | Ke Jie | Win | W+R | 6.5 | 3877 | 12 | 
+| 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦 | Lee Donghoon | Ke Jie | Win | W+R | 6.5 | 3865 | -24 | 
+| 2020-10-12 | 第2回王中王囲棋争覇戦決勝 | Tang Weixing | Ke Jie | Win | W+R | 7.5 | 3889 | -11 | 
+| 2020-10-11 | 第2回王中王囲棋争覇戦準決勝 | Ke Jie | Fan Tingyu | Win | B+R | 7.5 | 3900 | 15 | 
+| 2020-10-10 | 第2回王中王囲棋争覇戦1回戦 | Ke Jie | Mi Yuting | Win | B+R | 7.5 | 3885 | 37 | 
+| 2020-09-23 | 2020CCTV杯中国囲棋電視快棋戦準決勝 | Gu Zihao | Ke Jie | Lose | B+R | 7.5 | 3848 | -14 | 
+| 2020-09-22 | 2020CCTV杯中国囲棋電視快棋戦3回戦 | Ke Jie | Tuo Jiaxi | Win | B+R | 7.5 | 3862 | 7 | 
+| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦2回戦 | Ke Jie | Fan Yin | Win | B+R | 7.5 | 3855 | 0 | 
+| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Chen Xian | Ke Jie | Win | W+R | 7.5 | 3855 | 14 | 
+| 2020-09-11 | 第9回応氏杯世界選手権3回戦 | Xie Ke | Ke Jie | Lose | B+3 | 7.5 | 3841 | -27 | 
+| 2020-09-09 | 第9回応氏杯世界選手権2回戦 | Ke Jie | Jiang Weijie | Win | B+R | 7.5 | 3868 | 14 | 
+| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Ke Jie | Kim Jiseok | Win | B+R | 7.5 | 3854 | 20 | 
+| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Huang Xin | Ke Jie | Win | W+R | 7.5 | 3834 | 17 | 
+| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Ke Jie | Tang Weixing | Lose | W+¼ | 7.5 | 3817 | -42 | 
+| 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 |  | Ke Jie | Win | W+R | 7.5 | 3859 | 34 | 
+| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Ke Jie | Park Junghwan | Win | B+R | 7.5 | 3825 | 12 | 
+| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Yi Lingtao | Ke Jie | Win | W+R | 7.5 | 3813 | -9 | 
+| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Ke Jie | Kim Jiseok | Win | B+R | 7.5 | 3822 | 13 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Li Weiqing | Ke Jie | Win | W+R | 7.5 | 3809 | -8 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Ke Jie | Cheng Jiaye | Win | B+R | 7.5 | 3817 | 25 | 
+| 2020-08-22 | 第21回農心辛ラーメン杯世界囲碁最強戦第14戦 | Park Junghwan | Ke Jie | Win | W+0.5 | 6.5 | 3792 | 150 | 
+| 2020-08-04 | 第11期中国竜星戦準決勝 | Zhao Chenyu | Ke Jie | Win | W+R | 7.5 | 3642 | 15 | 
+| 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Kang Dongyun | Ke Jie | Win | W+R | 7.5 | 3627 | -35 | 
+| 2020-06-11 | 第11期中国竜星戦Aブロック10回戦 | Mi Yuting | Ke Jie | Win | W+R | 7.5 | 3662 | -14 | 
+| 2020-06-08 | 第25回LG杯朝鮮日報棋王戦2回戦 | Shin Jinseo | Ke Jie | Win | W+R | 6.5 | 3676 | -4 | 
+| 2020-06-02 | 第25回LG杯朝鮮日報棋王戦1回戦 | Ke Jie | Park Geunho | Win | B+R | 6.5 | 3680 | -50 | 
+| 2020-01-22 | 第8回CCTV賀歳杯中日韓新春囲碁争覇戦決勝 | Park Junghwan | Ke Jie | Lose | B+R | 7.5 | 3730 | -4 | 
+| 2020-01-21 | 第8回CCTV賀歳杯中日韓新春囲碁争覇戦第2戦 | Shibano Toramaru | Ke Jie | Win | W+R | 7.5 | 3734 | -10 | 
+| 2020-01-20 | 第8回CCTV賀歳杯中日韓新春囲碁争覇戦第1戦 | Ke Jie | Park Junghwan | Lose | W+¼ | 7.5 | 3744 | 295 | 
+| 2019-12-12 | 第21回中国囲碁甲級リーグ三位決定戦第3戦 | Zhao Chenyu | Ke Jie | Win | W+R | 7.5 | 3449 | -1 | 
+| 2019-12-11 | 第21回中国囲碁甲級リーグ三位決定戦第2戦 | Ke Jie | Zhao Chenyu | Win | B+R | 7.5 | 3450 | 6 | 
+| 2019-12-09 | 第21回中国囲碁甲級リーグ三位決定戦第1戦 | Zhao Chenyu | Ke Jie | Lose | B+R | 7.5 | 3444 | -13 | 
+| 2019-11-16 | 第4回全国智力運動会男子団体戦第6戦 | Ke Jie | Shi Yue | Win | B+R | 7.5 | 3457 | 10 | 
+| 2019-11-15 | 第4回全国智力運動会男子団体戦第4戦 | Ke Jie | Tuo Jiaxi | Win | B+R | 7.5 | 3447 | 0 | 
+| 2019-11-15 | 第4回全国智力運動会男子団体戦第3戦 | Mi Yuting | Ke Jie | Lose | B+R | 7.5 | 3447 | -7 | 
+| 2019-11-14 | 第4回全国智力運動会男子団体戦第2戦 | Ke Jie |  | Win | B+1¾ | 7.5 | 3454 | 2 | 
+| 2019-11-12 | 第4回全国智力運動会プロ男子個人戦順位決定戦 | Li Chengsen | Ke Jie | Win | W+R | 7.5 | 3452 | 0 | 
+| 2019-11-12 | 第4回全国智力運動会プロ男子個人戦第7戦 | Ke Jie | Chen Xian | Win | B+R | 7.5 | 3452 | -13 | 
+| 2019-11-11 | 第4回全国智力運動会プロ男子個人戦第6戦 | Tuo Jiaxi | Ke Jie | Lose | B+R | 7.5 | 3465 | 0 | 
+| 2019-11-11 | 第4回全国智力運動会プロ男子個人戦第5戦 | Li Xuanhao | Ke Jie | Win | W+R | 7.5 | 3465 | -1 | 
+| 2019-11-10 | 第4回全国智力運動会プロ男子個人戦第4戦 | Zhang Qiang | Ke Jie | Win | W+R | 7.5 | 3466 | 0 | 
+| 2019-11-10 | 第4回全国智力運動会プロ男子個人戦第3戦 | Ke Jie | Chen Yichun | Win | B+R | 7.5 | 3466 | -2 | 
+| 2019-11-09 | 第4回全国智力運動会プロ男子個人戦第2戦 | Fan Tingyu | Ke Jie | Lose | B+R | 7.5 | 3468 | 0 | 
+| 2019-11-09 | 第4回全国智力運動会プロ男子個人戦第1戦 | Ke Jie | Liao Yuanhe | Win | B+R | 7.5 | 3468 | -21 | 
+| 2019-11-06 | 第21回中国囲碁甲級リーグプレーオフ3回戦第2戦 | Ding Hao | Ke Jie | Lose | B+1¾ | 7.5 | 3489 | -11 | 
+| 2019-11-04 | 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 | Ke Jie |  | Win | B+R | 7.5 | 3500 | 12 | 
+| 2019-10-30 | 第24回LG杯朝鮮日報棋王戦準決勝 | Shin Jinseo | Ke Jie | Lose | B+R | 6.5 | 3488 | -3 | 
+| 2019-10-28 | 第24回LG杯朝鮮日報棋王戦3回戦 | Chen Yaoye | Ke Jie | Win | W+5.5 | 6.5 | 3491 | 14 | 
+| 2019-10-24 | 第16期倡棋杯中国プロ囲棋選手権戦本戦決勝三番勝負第2局 | Zhou Ruiyang | Ke Jie | Win | W+R | 7.5 | 3477 | -5 | 
+| 2019-10-22 | 第16期倡棋杯中国プロ囲棋選手権戦本戦決勝三番勝負第1局 | Ke Jie | Zhou Ruiyang | Win | B+1 | 7.5 | 3482 | 27 | 
+| 2019-10-13 | 第4回Mlily夢百合杯世界囲碁オープン戦16強戦 | Park Junghwan | Ke Jie | Win | W+R | 7.5 | 3455 | -1 | 
+| 2019-10-11 | 第4回Mlily夢百合杯世界囲碁オープン戦32強戦 | Shi Yue | Ke Jie | Win | W+R | 7.5 | 3456 | 3 | 
+| 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Ke Jie | Wu Guangya | Win | B+R | 7.5 | 3453 | 68 | 
+| 2019-08-31 | 第24回三星火災杯世界囲碁マスターズ2回戦 | Tao Xinran | Ke Jie | Lose | B+T | 6.5 | 3385 | -8 | 
+| 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Ke Jie | Lee Yeongkyu | Win | B+R | 6.5 | 3393 | 7 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Zhou Ruiyang | Ke Jie | Win | W+R | 7.5 | 3386 | 8 | 
+| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Ke Jie | Ding Hao | Lose | W+¼ | 7.5 | 3378 | -52 | 
+| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Xie Erhao | Ke Jie | Win | W+R | 7.5 | 3430 | -18 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Ke Jie | Jiang Weijie | Lose | W+R | 7.5 | 3448 | -17 | 
+| 2019-08-06 | 第4期洛陽白雲山杯中国棋聖戦挑戦手合三番勝負第3局 | Lian Xiao | Ke Jie | Win | W+R | 7.5 | 3465 | 1 | 
+| 2019-08-05 | 第4期洛陽白雲山杯中国棋聖戦挑戦手合三番勝負第2局 | Lian Xiao | Ke Jie | Win | W+1¼ | 7.5 | 3464 | 7 | 
+| 2019-08-03 | 第4期洛陽白雲山杯中国棋聖戦挑戦手合三番勝負第1局 | Ke Jie | Lian Xiao | Lose | W+¼ | 7.5 | 3457 | -22 | 
+| 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Li Weiqing | Ke Jie | Win | W+R | 7.5 | 3479 | 29 | 
+| 2019-07-27 | 第21期阿含・桐山杯中国早碁オープン戦準決勝 | Fan Tingyu | Ke Jie | Lose | B+R | 7.5 | 3450 | -6 | 
+| 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Dang Yifei | Ke Jie | Win | W+2¼ | 7.5 | 3456 | 4 | 
+| 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Gu Zihao | Ke Jie | Lose | B+R | 7.5 | 3452 | 16 | 
+| 2019-07-18 | 2019年紹興国際囲棋精英戦国際組 | Park Junghwan | Ke Jie | Win | W+R | 7.5 | 3436 | -7 | 
+| 2019-07-09 | 第16期倡棋杯中国プロ囲棋選手権戦本戦準決勝三番勝負第2局 | Ke Jie | Yang Dingxin | Win | B+1 | 7.5 | 3443 | -6 | 
+| 2019-06-28 | 第21期阿含・桐山杯中国早碁オープン戦8強戦 | Chen Yaoye | Ke Jie | Win | W+R | 7.5 | 3449 | 3 | 
+| 2019-06-27 | 第21期阿含・桐山杯中国早碁オープン戦16強戦 | Huang Yunsong | Ke Jie | Win | W+R | 7.5 | 3446 | 4 | 
+| 2019-06-25 | 第12回春蘭杯世界囲碁選手権三位決定戦 | Ke Jie | Dang Yifei | Win | B+R | 7.5 | 3442 | 4 | 
+| 2019-06-20 | 第16期倡棋杯中国プロ囲棋選手権戦本戦準決勝三番勝負第1局 | Yang Dingxin | Ke Jie | Win | W+R | 7.5 | 3438 | 19 | 
+| 2019-06-15 | 第4期洛陽白雲山杯中国棋聖戦挑戦者決定戦 | Ke Jie | Fan Yunruo | Win | B+R | 7.5 | 3419 | -4 | 
+| 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Ke Jie | Mi Yuting | Win | B+R | 7.5 | 3423 | 15 | 
+| 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Shi Yue | Ke Jie | Lose | B+R | 7.5 | 3408 | 4 | 
+| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Ke Jie | Kim Jiseok | Lose | W+¼ | 7.5 | 3404 | 23 | 
+| 2019-05-29 | 第24回LG杯朝鮮日報棋王戦2回戦 | Iyama Yuta | Ke Jie | Win | W+R | 6.5 | 3381 | 34 | 
+| 2019-05-27 | 第24回LG杯朝鮮日報棋王戦1回戦 | Ke Jie | Na Hyun | Win | B+R | 6.5 | 3347 | -20 | 
+| 2019-05-16 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦5回戦 | Mateusz Surma | Ke Jie | Win | W+R | 7.5 | 3367 | 8 | 
+| 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦4回戦 | Ryan Li | Ke Jie | Win | W+R | 7.5 | 3359 | 0 | 
+| 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦3回戦 | Ke Jie | Murakawa Daisuke | Win | B+R | 7.5 | 3359 | 25 | 
+| 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦2回戦 | Park Junghwan | Ke Jie | Win | W+R | 7.5 | 3334 | 0 | 
+| 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦1回戦 | Ke Jie | Wang Yuanjun | Win | B+R | 7.5 | 3334 | -19 | 
+| 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Yang Dingxin | Ke Jie | Win | W+R | 7.5 | 3353 | -31 | 
+| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Ke Jie | Shin Jinseo | Win | B+R | 7.5 | 3384 | 9 | 
+| 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Rong Yi | Ke Jie | Win | W+R | 7.5 | 3375 | -21 | 
+| 2019-04-27 | 第4期洛陽白雲山杯中国棋聖戦準決勝 | Xu Jiayang | Ke Jie | Win | W+¼ | 7.5 | 3396 | 1 | 
+| 2019-04-26 | 第4期洛陽白雲山杯中国棋聖戦8強戦 | Ke Jie | Tuo Jiaxi | Win | B+R | 7.5 | 3395 | 0 | 
+| 2019-04-24 | 第10期中国竜星戦Bブロック10回戦 | Ke Jie | Gu Zihao | Lose | W+R | 7.5 | 3395 | -3 | 
+| 2019-04-23 | 第16期倡棋杯中国プロ囲棋選手権戦本戦3回戦 | Ke Jie | Lian Xiao | Win | B+R | 7.5 | 3398 | 1 | 
+| 2019-04-22 | 第16期倡棋杯中国プロ囲棋選手権戦本戦2回戦 | Fan Yin | Ke Jie | Win | W+R | 7.5 | 3397 | 6 | 
+| 2019-04-19 | 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Yu Zhiying | Ke Jie | Win | W+R | 7.5 | 3391 | -10 | 
+| 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Ke Jie | Chen Yaoye | Win | B+1¾ | 7.5 | 3401 | 5 | 
+| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節廈門-四建 | Meng Tailing | Ke Jie | Lose | B+R | 7.5 | 3396 | -10 | 
+| 2019-04-13 | 第1回日中韓竜星戦決勝 | Ichiriki Ryo | Ke Jie | Win | W+R | 6.5 | 3406 | 2 | 
+| 2019-04-12 | 第1回日中韓竜星戦第2戦 | Kim Jiseok | Ke Jie | Win | W+R | 6.5 | 3404 | 3 | 
+| 2019-04-11 | 第1回日中韓竜星戦第1戦 | Ke Jie | Ichiriki Ryo | Lose | W+R | 6.5 | 3401 | 19 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Ke Jie | Yang Kaiwen | Lose | W+R | 7.5 | 3382 | -2 | 
+| 2019-03-24 | 第18回西南棋王戦決勝 | Dang Yifei | Ke Jie | Win | W+R | 7.5 | 3384 | 0 | 
+| 2019-03-24 | 第18回西南棋王戦準決勝 | Yang Dingxin | Ke Jie | Win | W+R | 7.5 | 3384 | 4 | 
+| 2019-03-23 | 第18回西南棋王戦2回戦 | Ke Jie | Liao Yuanhe | Win | B+R | 7.5 | 3380 | 0 | 
+| 2019-03-23 | 第18回西南棋王戦1回戦 | Tang Weixing | Ke Jie | Win | W+R | 7.5 | 3380 | 0 | 
+| 2019-03-20 | 第3回ワールド碁チャンピオンシップ決勝  | Park Junghwan | Ke Jie | Lose | B+1.5 | 6.5 | 3380 | -6 | 
+| 2019-03-19 | 第3回ワールド碁チャンピオンシップ準決勝  | Ke Jie | Iyama Yuta | Win | B+R | 6.5 | 3386 | -2 | 
+| 2019-03-18 | 第3回ワールド碁チャンピオンシップ1回戦  | Yoo Changhyuk | Ke Jie | Win | W+R | 6.5 | 3388 | 23 | 
+| 2019-03-10 | 第1回王中王囲棋争覇戦敗者組1回戦 | Chen Yaoye | Ke Jie | Lose | B+R | 7.5 | 3365 | -7 | 
+| 2019-03-09 | 第1回王中王囲棋争覇戦1回戦 | Ke Jie | Mi Yuting | Lose | W+R | 7.5 | 3372 | 9 | 
+| 2019-03-05 | 3.1運動100周年記念特別対局 | Lee Sedol | Ke Jie | Win | W+R | 6.5 | 3363 | -28 | 
+| 2019-02-02 | 第7回CCTV賀歳杯決勝 | Park Junghwan | Ke Jie | Lose | B+3¾ | 7.5 | 3391 | -16 | 
+| 2019-01-31 | 第7回CCTV賀歳杯1回戦 | Ke Jie | Park Junghwan | Win | B+¾ | 7.5 | 3407 | 15 | 
+| 2019-01-17 | 第4回百霊杯世界オープン戦決勝三番勝負第2局 | Shin Jinseo | Ke Jie | Win | W+R | 7.5 | 3392 | 9 | 
+| 2019-01-15 | 第4回百霊杯世界オープン戦決勝三番勝負第1局 | Ke Jie | Shin Jinseo | Win | B+R | 7.5 | 3383 | -3 | 
+| 2019-01-13 | 第4回百霊杯世界オープン戦準決勝 | Ke Jie | Chen Yaoye | Win | B+¾ | 7.5 | 3386 | 15 | 
+| 2018-12-19 | 第12回春蘭杯世界囲碁選手権準決勝 | Ke Jie | Park Junghwan | Lose | W+0.5 | 7.5 | 3371 | -1 | 
+| 2018-12-17 | 第12回春蘭杯世界囲碁選手権3回戦 | Kim Jiseok | Ke Jie | Win | W+0.5 | 7.5 | 3372 | -11 | 
+| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節重慶-廈門 | Ke Jie | Yang Dingxin | Lose | W+R | 7.5 | 3383 | -6 | 
+| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節廈門-中信 | Chen Yaoye | Ke Jie | Win | W+1¼ | 7.5 | 3389 | -35 | 
+| 2018-12-05 | 第23回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Ahn Kukhyun | Ke Jie | Win | W+5.5 | 6.5 | 3424 | 4 | 
+| 2018-12-04 | 第23回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Ahn Kukhyun | Ke Jie | Win | W+R | 6.5 | 3420 | -4 | 
+| 2018-12-03 | 第23回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Ke Jie | Ahn Kukhyun | Lose | W+R | 6.5 | 3424 | -1 | 
+| 2018-12-01 | 第7回衢州・爛柯杯中国囲棋冠軍戦決勝 | Ke Jie | Tan Xiao | Lose | W+R | 7.5 | 3425 | -8 | 
+| 2018-11-30 | 第7回衢州・爛柯杯中国囲棋冠軍戦準決勝 | Ke Jie | Peng Liyao | Win | B+R | 7.5 | 3433 | 11 | 
+| 2018-11-29 | 第7回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Liao Yuanhe | Ke Jie | Win | W+R | 7.5 | 3422 | 15 | 
+| 2018-11-21 | 第4回TWTテンセント囲碁選手権決勝 | Ke Jie | Li Qincheng | Lose | W+R | 7.5 | 3407 | -4 | 
+| 2018-11-19 | 第4回TWTテンセント囲碁選手権準決勝 | Fan Tingyu | Ke Jie | Win | W+R | 7.5 | 3411 | 5 | 
+| 2018-11-18 | 第4回TWTテンセント囲碁選手権8強戦 | Tong Mengcheng | Ke Jie | Win | W+R | 7.5 | 3406 | 3 | 
+| 2018-11-16 | 第20回中国囲碁甲級リーグ第24節天津-廈門 | Ke Jie | Xie Erhao | Lose | W+R | 7.5 | 3403 | 8 | 
+| 2018-11-09 | 第20回中国囲碁甲級リーグ第23節廈門-杭州 | Ding Hao | Ke Jie | Win | W+R | 7.5 | 3395 | 8 | 
+| 2018-11-07 | 第23回三星火災杯世界囲碁マスターズ準決勝三番勝負第3局 | Xie Erhao | Ke Jie | Win | W+R | 6.5 | 3387 | -1 | 
+| 2018-11-06 | 第23回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Ke Jie | Xie Erhao | Lose | W+1.5 | 6.5 | 3388 | -18 | 
+| 2018-11-05 | 第23回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Xie Erhao | Ke Jie | Win | W+R | 6.5 | 3406 | 9 | 
+| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節廈門-上海 | Fan Yunruo | Ke Jie | Win | W+R | 7.5 | 3397 | 1 | 
+| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節山東-廈門 | Ke Jie | Fan Tingyu | Win | B+R | 7.5 | 3396 | 13 | 
+| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節廈門-衢州 |  | Ke Jie | Win | W+R | 7.5 | 3383 | -25 | 
+| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節民生-廈門 | Ke Jie | Kim Jiseok | Lose | W+¼ | 7.5 | 3408 | -5 | 
+| 2018-10-08 | 第20回中国囲碁甲級リーグ第18節廈門-蘇泊爾 | Li Qincheng | Ke Jie | Lose | B+R | 7.5 | 3413 | -6 | 
+| 2018-10-02 | 第23回三星火災杯世界囲碁マスターズ3回戦 | Ke Jie | Shin Jinseo | Win | B+R | 6.5 | 3419 | 2 | 
+| 2018-10-01 | 第23回三星火災杯世界囲碁マスターズ2回戦 | Ke Jie | Gu Zihao | Win | B+0.5 | 6.5 | 3417 | 5 | 
+| 2018-09-28 | 第20回中国囲碁甲級リーグ第17節江蘇-廈門 | Ke Jie | Mi Yuting | Lose | W+R | 7.5 | 3412 | -30 | 
+| 2018-09-21 | 第1回天府杯世界囲碁選手権B組1回戦 | Ke Jie | Kim Jiseok | Lose | W+R | 7.5 | 3442 | 15 | 
+| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節廈門-浙江 | Qin Yuexin | Ke Jie | Win | W+R | 7.5 | 3427 | -7 | 
+| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節江西-廈門 | Ke Jie | Gu Zihao | Lose | W+R | 7.5 | 3434 | -3 | 
+| 2018-09-08 | 第20回中国囲碁甲級リーグ第14節廈門-成都 | Liao Yuanhe | Ke Jie | Win | W+R | 7.5 | 3437 | 7 | 
+| 2018-09-06 | 第23回三星火災杯世界囲碁マスターズ1回戦D3 | Ke Jie | Wang Yuanjun | Win | B+1.5 | 6.5 | 3430 | -9 | 
+| 2018-09-05 | 第23回三星火災杯世界囲碁マスターズ1回戦D2 | Xie Erhao | Ke Jie | Lose | B+R | 6.5 | 3439 | -27 | 
+| 2018-09-04 | 第23回三星火災杯世界囲碁マスターズ1回戦D1 | Wang Yuanjun | Ke Jie | Win | W+R | 6.5 | 3466 | -3 | 
+| 2018-08-15 | 第20回中国囲碁甲級リーグ第13節廈門-重慶 | Tan Xiao | Ke Jie | Win | W+R | 7.5 | 3469 | 3 | 
+| 2018-08-13 | 第20回中国囲碁甲級リーグ第12節中信-廈門 | Ke Jie | Chen Yaoye | Win | B+¾ | 7.5 | 3466 | 40 | 
+| 2018-08-06 | 第20回中国囲碁甲級リーグ第11節廈門-天津 | Tang Weixing | Ke Jie | Win | W+R | 7.5 | 3426 | -33 | 
+| 2018-07-26 | 第4回百霊杯世界オープン戦2回戦 | Byun Sangil | Ke Jie | Win | W+R | 7.5 | 3459 | 1 | 
+| 2018-07-24 | 第4回百霊杯世界オープン戦1回戦 | Kim Jiseok | Ke Jie | Win | W+R | 7.5 | 3458 | 15 | 
+| 2018-07-18 | 第20期阿含・桐山杯中国早碁オープン戦16強戦 | Ke Jie | Fan Tingyu | Lose | W+R | 7.5 | 3443 | -9 | 
+| 2018-07-16 | 第20回中国囲碁甲級リーグ第10節杭州-廈門 | Ke Jie | Ding Hao | Win | B+R | 7.5 | 3452 | -6 | 
+| 2018-06-25 | 第20回中国囲碁甲級リーグ第9節上海-廈門 | Ke Jie | Fan Yunruo | Lose | W+R | 7.5 | 3458 | -13 | 
+| 2018-06-22 | 第2回巓峰夢想福特撼路者ラリー戦決勝 | Mi Yuting | Ke Jie | Win | W+R | 7.5 | 3471 | -12 | 
+| 2018-06-20 | 第2回巓峰夢想福特撼路者ラリー戦a6 | Ke Jie | Tang Weixing | Win | B+R | 7.5 | 3483 | 12 | 
+| 2018-06-18 | 第2回巓峰夢想福特撼路者ラリー戦a5 | Fan Tingyu | Ke Jie | Lose | B+R | 7.5 | 3471 | -12 | 
+| 2018-06-15 | 第2回巓峰夢想福特撼路者ラリー戦a3 | Tang Weixing | Ke Jie | Win | W+R | 7.5 | 3483 | -5 | 
+| 2018-06-13 | 第2回巓峰夢想福特撼路者ラリー戦a2 | Ke Jie | Fan Tingyu | Win | B+R | 7.5 | 3488 | -5 | 
+| 2018-06-07 | 第9期中国竜星戦決勝三番勝負第3局 | Lian Xiao | Ke Jie | Win | W+R | 7.5 | 3493 | 5 | 
+| 2018-06-06 | 第9期中国竜星戦決勝三番勝負第2局 | Ke Jie | Lian Xiao | Lose | W+R | 7.5 | 3488 | -6 | 
+| 2018-06-05 | 第9期中国竜星戦決勝三番勝負第1局 | Lian Xiao | Ke Jie | Win | W+R | 7.5 | 3494 | -6 | 
+| 2018-06-04 | 第9期中国竜星戦準決勝 | Liu Xing | Ke Jie | Win | W+R | 7.5 | 3500 | 3 | 
+| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節廈門-山東 | Fan Tingyu | Ke Jie | Win | W+R | 7.5 | 3497 | -4 | 
+| 2018-05-28 | 第23回LG杯朝鮮日報棋王戦1回戦 | Ke Jie | Weon Seongjin | Lose | W+R | 6.5 | 3501 | -35 | 
+| 2018-05-25 | 第9期中国竜星戦Bブロック第10局 | Ke Jie | Shi Yue | Win | B+R | 7.5 | 3536 | -8 | 
+| 2018-05-21 | 第20回中国囲碁甲級リーグ第7節衢州-廈門 | Ke Jie | Lee Sedol | Lose | W+R | 7.5 | 3544 | 31 | 
+| 2018-05-16 | 嫘祖杯第31回中国囲棋名人戦32強戦 | Tong Mengcheng | Ke Jie | Lose | B+R | 7.5 | 3513 | -39 | 
+| 2018-05-14 | 第20回中国囲碁甲級リーグ第6節廈門-民生 | Shi Yue | Ke Jie | Win | W+R | 7.5 | 3552 | -5 | 
+| 2018-05-12 | 第7回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Ke Jie | Jiang Weijie | Win | B+R | 7.5 | 3557 | 23 | 
+| 2018-05-11 | 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Ke Jie | Li Qincheng | Win | B+R | 7.5 | 3534 | -18 | 
+| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節蘇泊爾-廈門 | Ke Jie | Park Junghwan | Win | B+R | 7.5 | 3552 | 11 | 
+| 2018-04-29 | 第4回日中竜星戦 | Ke Jie | Shibano Toramaru | Lose | W+R | 7.5 | 3541 | 10 | 
+| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節廈門-江蘇 | Zhao Chenyu | Ke Jie | Win | W+R | 7.5 | 3531 | -5 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦2回戦 | Ke Jie | Sun Tengyu | Lose | W+R | 7.5 | 3536 | 0 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Ke Jie | Chen Xian | Win | B+R | 7.5 | 3536 | -4 | 
+| 2018-04-07 | 2018華陽景区世界囲棋争覇戦 | Lee Sedol | Ke Jie | Win | W+R | 7.5 | 3540 | 35 | 
+| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節浙江-廈門 | Qin Yuexin | Ke Jie | Win | W+R | 7.5 | 3505 | -28 | 
+| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節廈門-江西 | Gu Zihao | Ke Jie | Win | W+R | 7.5 | 3533 | -27 | 
+| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節成都-廈門 | Ke Jie | Dang Yifei | Lose | W+R | 7.5 | 3560 | 0 | 
+| 2018-03-23 | 第12回春蘭杯世界囲碁選手権2回戦 | Ke Jie | Kang Dongyun | Win | B+R | 7.5 | 3560 | 7 | 
+| 2018-03-18 | 第2回ワールド碁チャンピオンシップ準決勝  | Ke Jie | Park Junghwan | Lose | W+R | 6.5 | 3553 | -8 | 
+| 2018-03-17 | 第2回ワールド碁チャンピオンシップ1回戦  | Shin Jinseo | Ke Jie | Win | W+R | 6.5 | 3561 | -40 | 
+| 2018-03-09 | 第17回西南棋王戦2回戦 | Ke Jie | Tang Weixing | Lose | W+R | 7.5 | 3601 | 0 | 
+| 2018-03-09 | 第17回西南棋王戦1回戦 |  | Ke Jie | Win | W+R | 7.5 | 3601 | -25 | 
+| 2018-03-01 | 第19回農心辛ラーメン杯世界囲碁最強戦第13戦 | Kim Jiseok | Ke Jie | Lose | B+R | 6.5 | 3626 | 16 | 
+| 2018-02-07 | 第6回CCTV賀歳杯決勝 | Ke Jie | Park Junghwan | Lose | W+R | 7.5 | 3610 | -7 | 
+| 2018-02-06 | 第6回CCTV賀歳杯第2局 | Ichiriki Ryo | Ke Jie | Win | W+1¼ | 7.5 | 3617 | 31 | 
+| 2018-01-17 | 第3回洛陽白雲山杯中国棋聖戦8強戦 | Ke Jie | Fan Tingyu | Lose | W+R | 7.5 | 3586 | -6 | 
+| 2018-01-13 | 2018年ヘビチ杯 | Lee Sedol | Ke Jie | Lose | B+1.5 | 6.5 | 3592 | 3 | 
+| 2017-12-26 | 第1回新奥杯世界囲碁オープン戦決勝五番勝負第5局 | Ke Jie | Peng Liyao | Win | B+1.5 | 7.5 | 3589 | 2 | 
+| 2017-12-25 | 第1回新奥杯世界囲碁オープン戦決勝五番勝負第4局 | Ke Jie | Peng Liyao | Lose | W+0.5 | 7.5 | 3587 | -8 | 
+| 2017-12-23 | 第1回新奥杯世界囲碁オープン戦決勝五番勝負第3局 | Peng Liyao | Ke Jie | Lose | B+1.5 | 7.5 | 3595 | 3 | 
+| 2017-12-21 | 第1回新奥杯世界囲碁オープン戦決勝五番勝負第2局 | Ke Jie | Peng Liyao | Win | B+R | 7.5 | 3592 | 2 | 
+| 2017-12-20 | 第1回新奥杯世界囲碁オープン戦決勝五番勝負第1局 | Peng Liyao | Ke Jie | Win | W+R | 7.5 | 3590 | 0 | 
+| 2017-12-15 | 第2回IMSAエリートマインドゲームズ個人早碁戦決勝 | Park Junghwan | Ke Jie | Win | W+R | 7.5 | 3590 | 0 | 
+| 2017-12-15 | 第2回IMSAエリートマインドゲームズ個人早碁戦準決勝 | Ke Jie | Chen Shiyuan | Win | B+R | 7.5 | 3590 | 26 | 
+| 2017-12-14 | 第2回IMSAエリートマインドゲームズ個人早碁戦予選 | Shibano Toramaru | Ke Jie | Win | W+R | 7.5 | 3564 | 0 | 
+| 2017-12-14 | 第2回IMSAエリートマインドゲームズ個人早碁戦予選 | Jiang Mingjiu | Ke Jie | Win | W+R | 7.5 | 3564 | -1 | 
+| 2017-12-13 | 第2回IMSAエリートマインドゲームズ男子団体戦第4節 | Ke Jie |  | Win | B+R | 7.5 | 3565 | -5 | 
+| 2017-12-12 | 第2回IMSAエリートマインドゲームズ男子団体戦第3節 | Wang Yuanjun | Ke Jie | Win | W+R | 7.5 | 3570 | -7 | 
+| 2017-12-11 | 第2回IMSAエリートマインドゲームズ男子団体戦第2節 | Ke Jie | Jiang Mingjiu | Win | B+R | 7.5 | 3577 | 12 | 
+| 2017-12-10 | 第2回IMSAエリートマインドゲームズ男子団体戦第1節 | Park Junghwan | Ke Jie | Win | W+R | 7.5 | 3565 | 16 | 
+| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Ke Jie | Jiang Weijie | Lose | W+R | 7.5 | 3549 | 10 | 
+| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Fan Yunruo | Ke Jie | Lose | B+R | 7.5 | 3539 | -3 | 
+| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Shi Yue | Ke Jie | Lose | B+R | 7.5 | 3542 | 1 | 
+| 2017-11-15 | 第22回LG杯朝鮮日報棋王戦準決勝 | Iyama Yuta | Ke Jie | Lose | B+R | 6.5 | 3541 | -13 | 
+| 2017-11-13 | 第22回LG杯朝鮮日報棋王戦準々決勝 | Shin Jinseo | Ke Jie | Win | W+R | 6.5 | 3554 | -14 | 
+| 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Ke Jie | Chen Yaoye | Lose | W+R | 7.5 | 3568 | -35 | 
+| 2017-11-02 | 2017寧波杭州湾方太杯世界戦優勝者招待戦準決勝 | Jiang Weijie | Ke Jie | Lose | B+R | 7.5 | 3603 | 0 | 
+| 2017-11-02 | 2017寧波杭州湾方太杯世界戦優勝者招待戦8強戦 | Ke Jie | Fan Tingyu | Win | B+2.5 | 7.5 | 3603 | -3 | 
+| 2017-10-30 | 第19回中国囲碁甲級リーグ第22節 | Shin Jinseo | Ke Jie | Lose | B+R | 7.5 | 3606 | -5 | 
+| 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Rong Yi | Ke Jie | Win | W+R | 7.5 | 3611 | -13 | 
+| 2017-10-26 | 2017華山国際囲碁大会決勝戦 | Ke Jie | Zhou Ruiyang | Lose | W+R | 7.5 | 3624 | -8 | 
+| 2017-10-25 | 2017華山国際囲碁大会準決勝 | Ke Jie | Lee Sedol | Win | B+1.5 | 7.5 | 3632 | 15 | 
+| 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Tan Xiao | Ke Jie | Win | W+R | 7.5 | 3617 | 2 | 
+| 2017-10-18 | 2017年利民杯世界囲碁星鋭最強戦決勝戦 | Ke Jie | Xu Jiayang | Win | B+R | 7.5 | 3615 | 4 | 
+| 2017-10-17 | 2017年利民杯世界囲碁星鋭最強戦準決勝 | Ke Jie | Xie Erhao | Win | B+R | 7.5 | 3611 | 3 | 
+| 2017-10-16 | 2017年利民杯世界囲碁星鋭最強戦3回戦 | Ke Jie | Shin Minjun | Win | B+R | 7.5 | 3608 | 4 | 
+| 2017-10-15 | 2017年利民杯世界囲碁星鋭最強戦2回戦 | Ke Jie | Onishi Ryuhei | Win | B+7.5 | 7.5 | 3604 | 45 | 
+| 2017-10-14 | 2017年利民杯世界囲碁星鋭最強戦1回戦 | Ke Jie |  | Win | B+R | 7.5 | 3559 | -11 | 
+| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Ke Jie | Park Junghwan | Lose | W+0.5 | 7.5 | 3570 | -18 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 |  | Ke Jie | Win | W+R | 7.5 | 3588 | -8 | 
+| 2017-09-25 | 第22回三星火災杯世界囲碁マスターズ2回戦 | Ke Jie | An Sungjoon | Lose | W+R | 6.5 | 3596 | 12 | 
+| 2017-09-22 | 第8回南方長城杯世界囲碁頂上対決 | Park Junghwan | Ke Jie | Win | W+2.5 | 7.5 | 3584 | 44 | 
+| 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Ke Jie | Gu Zihao | Lose | W+R | 7.5 | 3540 | 0 | 
+| 2017-09-11 | 第19回中国阿含桐山杯決勝 | Ke Jie | Tuo Jiaxi | Lose | W+2.5 | 7.5 | 3540 | 3 | 
+| 2017-09-06 | 第22回三星火災杯世界囲碁マスターズ1回戦B2 | Shin Minjun | Ke Jie | Win | W+0.5 | 6.5 | 3537 | 6 | 
+| 2017-09-05 | 第22回三星火災杯世界囲碁マスターズ1回戦B1 | Ke Jie | Han Taehee | Win | B+R | 6.5 | 3531 | -6 | 
+| 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Tang Weixing | Ke Jie | Win | W+0.5 | 7.5 | 3537 | -5 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Ke Jie | Huang Yunsong | Win | B+R | 7.5 | 3542 | 3 | 
+| 2017-08-24 | 第3回Mlily夢百合杯16強戦 | Ke Jie | Park Junghwan | Lose | W+2.5 | 7.5 | 3539 | 3 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Liao Xingwen | Ke Jie | Win | W+R | 7.5 | 3536 | 10 | 
+| 2017-08-17 | 第19回中国阿含桐山杯準決勝 | Zhou Ruiyang | Ke Jie | Win | W+2.5 | 7.5 | 3526 | 2 | 
+| 2017-08-15 | 中国浙江平湖当湖十局杯CCTV8強 | Jiang Weijie | Ke Jie | Win | W+R | 7.5 | 3524 | 0 | 
+| 2017-08-15 | 中国浙江平湖当湖十局杯CCTV準決勝 | Zhang Tao | Ke Jie | Lose | B+R | 7.5 | 3524 | -9 | 
+| 2017-08-14 | 中国浙江平湖当湖十局杯CCTV32強 | Ke Jie | Xie He | Win | B+1.5 | 7.5 | 3533 | 0 | 
+| 2017-08-14 | 中国浙江平湖当湖十局杯CCTV16強 | Mao Ruilong | Ke Jie | Win | W+R | 7.5 | 3533 | 11 | 
+| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Jiang Weijie | Ke Jie | Win | W+R | 7.5 | 3522 | -1 | 
+| 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Ke Jie | Fan Yunruo | Win | B+R | 7.5 | 3523 | 19 | 
+| 2017-07-31 | 中国浙江平湖当湖十局杯CCTV64強 | Zhou Hexi | Ke Jie | Win | W+R | 7.5 | 3504 | 7 | 
+| 2017-07-26 | 第8期中国竜星戦決勝三番勝負第2局 | Li Qincheng | Ke Jie | Win | W+R | 7.5 | 3497 | -4 | 
+| 2017-07-25 | 第8期中国竜星戦決勝三番勝負第1局 | Ke Jie | Li Qincheng | Win | B+R | 7.5 | 3501 | -2 | 
+| 2017-07-21 | 金立杯7回海峡世界冠軍争覇8強戦 | Ke Jie | Fan Tingyu | Lose | W+R | 7.5 | 3503 | -7 | 
+| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Ke Jie | Shi Yue | Lose | W+R | 7.5 | 3510 | -1 | 
+| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Shin Minjun | Ke Jie | Win | W+R | 7.5 | 3511 | 0 | 
+| 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Ke Jie | Xie He | Win | B+R | 7.5 | 3511 | 6 | 
+| 2017-07-09 | 2017年中国全国運動会囲碁競技第7戦 | Ke Jie | Tao Xinran | Win | B+R | 7.5 | 3505 | 0 | 
+| 2017-07-09 | 2017年中国全国運動会囲碁競技第6戦 | Xie Erhao | Ke Jie | Win | W+4.5 | 7.5 | 3505 | 7 | 
+| 2017-07-07 | 2017年中国全国運動会囲碁競技第5戦 | Yang Dingxin | Ke Jie | Win | W+R | 7.5 | 3498 | 5 | 
+| 2017-07-06 | 2017年中国全国運動会囲碁競技第4戦 | Ke Jie | Tang Weixing | Win | B+R | 7.5 | 3493 | 0 | 
+| 2017-07-06 | 2017年中国全国運動会囲碁競技第3戦 | Ke Jie | Fan Tingyu | Win | B+R | 7.5 | 3493 | 10 | 
+| 2017-07-05 | 2017年中国全国運動会囲碁競技第2戦 | Chen Yaoye | Ke Jie | Win | W+R | 7.5 | 3483 | 0 | 
+| 2017-07-05 | 2017年中国全国運動会囲碁競技第1戦 | Ke Jie | Li Zhe | Win | B+R | 7.5 | 3483 | -17 | 
+| 2017-06-26 | 19期中国阿含桐山杯8強戦 | Tang Weixing | Ke Jie | Win | W+R | 7.5 | 3500 | 3 | 
+| 2017-06-25 | 19期中国阿含桐山杯16強戦 |  | Ke Jie | Win | W+R | 7.5 | 3497 | -11 | 
+| 2017-06-23 | 第11回春蘭杯世界囲碁選手権三位決定戦 | Gu Zihao | Ke Jie | Win | W+R | 7.5 | 3508 | 1 | 
+| 2017-06-21 | 第3回夢百合杯世界オープン戦2回戦 | Ke Jie | Huang Jingyuan | Win | B+R | 7.5 | 3507 | 0 | 
+| 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Ke Jie | Kang Yootaek | Win | B+T | 7.5 | 3507 | -4 | 
+| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | An Dongxu | Ke Jie | Win | W+2.5 | 7.5 | 3511 | 5 | 
+| 2017-06-10 | 第1回巔峰夢想拉薩交通産業集団ラリー戦a5 | Ke Jie | Gu Li | Win | B+R | 7.5 | 3506 | 7 | 
+| 2017-06-09 | 第1回巔峰夢想拉薩交通産業集団ラリー戦a4 | Chen Yaoye | Ke Jie | Win | W+12.5 | 7.5 | 3499 | -6 | 
+| 2017-06-07 | 第1回巔峰夢想拉薩交通産業集団ラリー戦2回戦 | Gu Li | Ke Jie | Win | W+R | 7.5 | 3505 | 78 | 
+| 2017-06-03 | 第1回巔峰夢想拉薩交通産業集団ラリー戦a1 | Ke Jie | Chen Yaoye | Win | B+R | 7.5 | 3427 | -36 | 
+| 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Kang Dongyun | Ke Jie | Win | W+R | 6.5 | 3463 | -20 | 
+| 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Weon Seongjin | Ke Jie | Win | W+R | 6.5 | 3483 | 3483 | 
+| 2017-05-27 | Future of Go Summit 第三局 | Google DeepMind AlphaGo | Ke Jie | Lose | B+R | 7.5 | missing | -3477 | 
+| 2017-05-25 | Future of Go Summit 第二局 | Google DeepMind AlphaGo | Ke Jie | Lose | B+R | 7.5 | 3477 | 3 | 
+| 2017-05-23 | Future of Go Summit 第一局 | Ke Jie | Google DeepMind AlphaGo | Lose | W+0.5 | 7.5 | 3474 | 0 | 
+| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Ke Jie | Tan Xiao | Lose | W+R | 7.5 | 3474 | -18 | 
+| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Li Qincheng | Ke Jie | Win | W+R | 7.5 | 3492 | 6 | 
+| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Ke Jie | Dang Yifei | Win | B+3.5 | 7.5 | 3486 | -15 | 
+| 2017-05-11 | 第1回新奥杯世界囲碁オープン戦準決勝第2局 | Li Zhe | Ke Jie | Win | W+2.5 | 7.5 | 3501 | 28 | 
+| 2017-05-09 | 第1回新奥杯世界囲碁オープン戦準決勝第1局 | Ke Jie | Li Zhe | Win | B+R | 7.5 | 3473 | -2 | 
+| 2017-05-07 | 第1回新奥杯世界囲碁オープン戦4回戦 | Lian Xiao | Ke Jie | Win | W+R | 7.5 | 3475 | 16 | 
+| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Lee Donghoon | Ke Jie | Win | W+R | 7.5 | 3459 | 0 | 
+| 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Ke Jie | Tang Weixing | Lose | W+R | 7.5 | 3459 | -26 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Zhao Chenyu | Ke Jie | Lose | B+R | 7.5 | 3485 | -11 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Chen Xian | Ke Jie | Win | W+R | 7.5 | 3496 | 31 | 
+| 2017-04-12 | 第8期中国竜星戦準決勝 | Yang Dingxin | Ke Jie | Win | W+R | 7.5 | 3465 | 147 | 
+| 2017-03-16 | 第8期中国竜星戦Aブロック10回戦 | Ke Jie | Chen Yaoye | Win | B+1.5 | 7.5 | 3318 | -10 | 
+| 2017-03-12 | 第16回西南棋王戦準決勝 | Tan Xiao | Ke Jie | Lose | B+R | 7.5 | 3328 | -9 | 
+| 2017-03-11 | 第16回西南棋王戦1回戦 | Ke Jie | Liao Yuanhe | Win | B+R | 7.5 | 3337 | 0 | 
+| 2017-03-11 | 第16回西南棋王戦2回戦 | Shi Yue | Ke Jie | Win | W+R | 7.5 | 3337 | 92 | 
+| 2017-01-31 | 第5回CCTV賀歳杯日中韓新春争覇戦第3戦 | Iyama Yuta | Ke Jie | Win | W+R | 7.5 | 3245 | 4 | 
+| 2017-01-30 | 第5回CCTV賀歳杯日中韓新春争覇戦第2戦 | Park Junghwan | Ke Jie | Win | W+R | 7.5 | 3241 | 5 | 
+| 2017-01-29 | 第5回CCTV賀歳杯日中韓新春争覇戦第1戦 | Iyama Yuta | Ke Jie | Lose | B+R | 7.5 | 3236 | -45 | 
+| 2017-01-03 | Alphago Online Series on Tygem and Fox 50 | Ke Jie |  | Lose | W+R | 6.5 | 3281 | 6 | 
+| 2017-01-01 | 2016年利民杯世界囲碁星鋭最強戦2回戦 | Shin Minjun | Ke Jie | Lose | B+R | 7.5 | 3275 | -13 | 
+| 2016-12-31 | 2016年利民杯世界囲碁星鋭最強戦1回戦 | Song Gyusang | Ke Jie | Win | W+R | 7.5 | 3288 | -2 | 
+| 2016-12-30 | Alphago Online Series on Tygem and Fox 19 | Ke Jie |  | Lose | W+R | 6.5 | 3290 | 0 | 
+| 2016-12-30 | Alphago Online Series on Tygem and Fox 18 |  | Ke Jie | Lose | B+5.5 | 6.5 | 3290 | 9 | 
+| 2016-12-26 | 嫘祖杯第29期中国名人戦16強戦 | Fan Yunruo | Ke Jie | Win | W+R | 7.5 | 3281 | 6 | 
+| 2016-12-24 | 嫘祖杯第29期中国名人戦32強戦 | Li Xuanhao | Ke Jie | Win | W+R | 7.5 | 3275 | 9 | 
+| 2016-12-22 | 第11回春蘭杯世界囲碁選手権準決勝 | Ke Jie | Park Yeonghun | Lose | W+R | 7.5 | 3266 | -6 | 
+| 2016-12-20 | 第11回春蘭杯世界囲碁選手権3回戦 | Ke Jie | Mi Yuting | Win | B+R | 7.5 | 3272 | 12 | 
+| 2016-12-16 | 第3回百霊杯世界オープン戦決勝五番勝負第4局 | Ke Jie | Chen Yaoye | Lose | W+4.5 | 7.5 | 3260 | -5 | 
+| 2016-12-14 | 第3回百霊杯世界オープン戦決勝五番勝負第3局 | Chen Yaoye | Ke Jie | Win | W+R | 7.5 | 3265 | 0 | 
+| 2016-12-11 | 第18期阿含・桐山杯　日中決戦 | Kono Rin | Ke Jie | Win | W+R | 6.5 | 3265 | -11 | 
+| 2016-12-08 | 第21回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Ke Jie | Tuo Jiaxi | Win | B+R | 6.5 | 3276 | -1 | 
+| 2016-12-07 | 第21回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Tuo Jiaxi | Ke Jie | Win | W+R | 6.5 | 3277 | 4 | 
+| 2016-12-06 | 第21回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Ke Jie | Tuo Jiaxi | Lose | W+R | 6.5 | 3273 | -9 | 
+| 2016-12-03 | 第18回中国囲碁甲級リーグ第22節 | Ke Jie | Tan Xiao | Win | B+R | 7.5 | 3282 | 5 | 
+| 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Kim Jiseok | Ke Jie | Lose | B+1.5 | 7.5 | 3277 | -1 | 
+| 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Shi Yue | Ke Jie | Win | W+R | 7.5 | 3278 | 4 | 
+| 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 | Ke Jie | Zhou Ruiyang | Win | B+1.5 | 7.5 | 3274 | 26 | 
+| 2016-11-14 | 第18回中国囲碁甲級リーグ第18節 | Lee Donghoon | Ke Jie | Win | W+2.5 | 7.5 | 3248 | -39 | 
+| 2016-11-10 | 第1回新奥杯世界囲碁オープン戦3回戦 | Ke Jie | Ida Atsushi | Win | B+R | 7.5 | 3287 | -14 | 
+| 2016-11-08 | 第1回新奥杯世界囲碁オープン戦2回戦 | Tang Weixing | Ke Jie | Win | W+2.5 | 7.5 | 3301 | -17 | 
+| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Ke Jie | Ahn Kukhyun | Win | B+R | 7.5 | 3318 | 8 | 
+| 2016-11-04 | 2016金立杯全国囲棋甲級聯戦第17回戦 | Ke Jie |  | Win | B+R | 7.5 | 3310 | 7 | 
+| 2016-11-02 | 第21回三星火災杯世界囲碁マスターズ準決勝三番勝負第3局 | Lee Sedol | Ke Jie | Win | W+R | 6.5 | 3303 | 2 | 
+| 2016-11-01 | 第21回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Lee Sedol | Ke Jie | Lose | B+R | 6.5 | 3301 | -9 | 
+| 2016-10-31 | 第21回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Ke Jie | Lee Sedol | Win | B+R | 6.5 | 3310 | -5 | 
+| 2016-10-28 | 第18回中国囲碁甲級リーグ第16節 |  | Ke Jie | Win | W+R | 7.5 | 3315 | -2 | 
+| 2016-10-15 | 第6回衢州・爛柯杯中国囲棋冠軍戦決勝 | Mi Yuting | Ke Jie | Lose | B+R | 7.5 | 3317 | 2 | 
+| 2016-10-14 | 第6回衢州・爛柯杯中国囲棋冠軍戦準決勝 | Tuo Jiaxi | Ke Jie | Win | W+R | 7.5 | 3315 | 4 | 
+| 2016-10-12 | 第6回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Chen Yaoye | Ke Jie | Win | W+R | 7.5 | 3311 | -7 | 
+| 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Ke Jie | Choi Cheolhan | Win | B+R | 7.5 | 3318 | -11 | 
+| 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Xie Ke | Ke Jie | Win | W+R | 7.5 | 3329 | 5 | 
+| 2016-10-06 | 第21回三星火災杯世界囲碁マスターズ3回戦 | Ke Jie | Zhou Ruiyang | Win | B+R | 6.5 | 3324 | -1 | 
+| 2016-10-04 | 第21回三星火災杯世界囲碁マスターズ2回戦 | Lee Donghoon | Ke Jie | Win | W+R | 6.5 | 3325 | 15 | 
+| 2016-09-29 | 第18期阿含・桐山杯中国早碁オープン戦決勝 | Chen Yaoye | Ke Jie | Win | W+4.5 | 7.5 | 3310 | -67 | 
+| 2016-09-22 | 第3回百霊杯世界オープン戦決勝五番勝負第2局 | Ke Jie | Chen Yaoye | Lose | W+R | 7.5 | 3377 | -17 | 
+| 2016-09-20 | 第3回百霊杯世界オープン戦決勝五番勝負第1局 | Chen Yaoye | Ke Jie | Lose | B+R | 7.5 | 3394 | -22 | 
+| 2016-09-12 | 2016金立杯囲棋甲級リーグ戦聯戦第13R | Ke Jie | Tang Weixing | Win | B+R | 7.5 | 3416 | -7 | 
+| 2016-09-08 | 第21回三星火災杯世界囲碁マスターズ1回戦E3 |  | Ke Jie | Win | W+R | 6.5 | 3423 | -3 | 
+| 2016-09-07 | 第21回三星火災杯世界囲碁マスターズ1回戦E2 | Ke Jie | Kang Dongyun | Lose | W+R | 6.5 | 3426 | -16 | 
+| 2016-09-06 | 第21回三星火災杯世界囲碁マスターズ1回戦E1 | Rui Naiwei | Ke Jie | Win | W+R | 6.5 | 3442 | -4 | 
+| 2016-08-30 | 第3回百霊杯世界オープン戦準決勝第3局 | Ke Jie | Weon Seongjin | Win | B+R | 7.5 | 3446 | -19 | 
+| 2016-08-29 | 第3回百霊杯世界オープン戦準決勝第2局 | Ke Jie | Weon Seongjin | Win | B+R | 7.5 | 3465 | 5 | 
+| 2016-08-27 | 第3回百霊杯世界オープン戦準決勝第1局 | Weon Seongjin | Ke Jie | Lose | B+R | 7.5 | 3460 | -6 | 
+| 2016-08-25 | 第3回百霊杯世界オープン戦4回戦 | Ke Jie | Xu Jiayang | Win | B+R | 7.5 | 3466 | 11 | 
+| 2016-08-23 | 第12期威孚房開杯棋王戦2回戦 | Ke Jie | Huang Yunsong | Lose | W+R | 7.5 | 3455 | -11 | 
+| 2016-08-22 | 第12期威孚房開杯棋王戦1回戦 | Qiu Jun | Ke Jie | Win | W+R | 7.5 | 3466 | 1 | 
+| 2016-07-29 | 第18期阿含・桐山杯中国早碁オープン戦準決勝 | Huang Yunsong | Ke Jie | Win | W+R | 7.5 | 3465 | 62 | 
+| 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Tan Xiao | Ke Jie | Lose | B+R | 7.5 | 3403 | -23 | 
+| 2016-07-02 | 第3回百霊杯世界オープン戦3回戦 | Ke Jie | Min Sangyoun | Win | B+R | 7.5 | 3426 | -9 | 
+| 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Meng Tailing | Ke Jie | Win | W+R | 7.5 | 3435 | 2 | 
+| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Ke Jie | Tong Mengcheng | Win | B+R | 7.5 | 3433 | 13 | 
+| 2016-06-25 | 第18回中国囲碁甲級リーグ第10節 | Ke Jie | Kim Jiseok | Win | B+R | 7.5 | 3420 | -8 | 
+| 2016-06-20 | 第18回中国囲碁甲級リーグ第9節 | Ke Jie | Shi Yue | Win | B+R | 7.5 | 3428 | 3 | 
+| 2016-06-16 | 第18回中国囲碁甲級リーグ第8節 | Fan Tingyu | Ke Jie | Win | W+R | 7.5 | 3425 | 26 | 
+| 2016-06-13 | 第18期阿含・桐山杯中国早碁オープン戦2回戦 | Peng Liyao | Ke Jie | Win | W+R | 7.5 | 3399 | 4 | 
+| 2016-06-06 | 第18回中国囲碁甲級リーグ第7節 | Ke Jie | Lee Donghoon | Lose | W+6.5 | 7.5 | 3395 | -4 | 
+| 2016-06-04 | 2016CCTV杯中国囲棋電視快棋戦3回戦 | Ke Jie | Fan Yunruo | Lose | W+R | 7.5 | 3399 | -10 | 
+| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦2回戦 | Ke Jie | Hu Yaoyu | Win | B+R | 7.5 | 3409 | 0 | 
+| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Wang Tao | Ke Jie | Win | W+R | 7.5 | 3409 | 14 | 
+| 2016-06-01 | 第21回LG杯朝鮮日報棋王戦2回戦 | Ke Jie | Park Junghwan | Lose | W+R | 6.5 | 3395 | 5 | 
+| 2016-05-30 | 第21回LG杯朝鮮日報棋王戦1回戦 | So Yokoku | Ke Jie | Win | W+R | 6.5 | 3390 | 9 | 
+| 2016-05-23 | 第18回中国囲碁甲級リーグ第6節 | Han Yizhou | Ke Jie | Win | W+R | 7.5 | 3381 | 6 | 
+| 2016-05-20 | 第6回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Huang Yunsong | Ke Jie | Win | W+R | 7.5 | 3375 | 66 | 
+| 2016-05-18 | 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Nie Weiping | Ke Jie | Win | W+R | 7.5 | 3309 | -6 | 
+| 2016-05-16 | 第18回中国囲碁甲級リーグ第5節 | Ke Jie | Park Junghwan | Lose | W+R | 7.5 | 3315 | -69 | 
+| 2016-05-11 | 第18期阿含・桐山杯中国早碁オープン戦1回戦 | Ke Jie | Mao Ruilong | Win | B+R | 7.5 | 3384 | 18 | 
+| 2016-05-09 | 第18回中国囲碁甲級リーグ第4節 | Gu Lingyi | Ke Jie | Win | W+R | 7.5 | 3366 | 9 | 
+| 2016-04-30 | 第18回中国囲碁甲級リーグ第3節 | Ke Jie | Xie Ke | Win | B+R | 7.5 | 3357 | 42 | 
+| 2016-04-24 | 第8回応氏杯世界選手権3回戦 | Ke Jie | Park Junghwan | Lose | W+1 | 7.5 | 3315 | -5 | 
+| 2016-04-22 | 第8回応氏杯世界選手権2回戦 | Ke Jie | Wang Yuanjun | Win | B+1 | 7.5 | 3320 | -3 | 
+| 2016-04-20 | 第8回応氏杯世界選手権1回戦 | Cho U | Ke Jie | Win | W+R | 7.5 | 3323 | -8 | 
+| 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Meng Tailing | Ke Jie | Win | W+R | 7.5 | 3331 | 6 | 
+| 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Ke Jie | Mi Yuting | Win | B+3.5 | 7.5 | 3325 | -3 | 
+| 2016-03-28 | 第11回春蘭杯世界囲碁選手権2回戦 | Ke Jie | Li Xuanhao | Win | B+R | 7.5 | 3328 | 28 | 
+| 2016-03-21 | 第13期倡棋杯中国プロ囲碁選手権戦2回戦 | Ke Jie | Tang Weixing | Lose | W+R | 7.5 | 3300 | -5 | 
+| 2016-03-19 | 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Ke Jie | Zhou Hexi | Win | B+R | 7.5 | 3305 | 10 | 
+| 2016-03-07 | 第15回西南棋王戦1回戦 |  | Ke Jie | Lose | B+R | 7.5 | 3295 | -10 | 
+| 2016-03-05 | 第17回農心辛ラーメン杯世界囲碁最強戦第14戦 | Ke Jie | Lee Sedol | Win | B+R | 6.5 | 3305 | -105 | 
+| 2016-01-15 | 第30期中国囲碁天元戦1回戦 | Ke Jie |  | Lose | W+R | 7.5 | 3410 | -10 | 
+| 2016-01-05 | 第2回夢百合杯世界オープン戦決勝五番勝負第5局 | Ke Jie | Lee Sedol | Win | B+1.5 | 7.5 | 3420 | 5 | 
+| 2016-01-04 | 第2回夢百合杯世界オープン戦決勝五番勝負第4局 | Ke Jie | Lee Sedol | Lose | W+R | 7.5 | 3415 | -6 | 
+| 2016-01-02 | 第2回夢百合杯世界オープン戦決勝五番勝負第3局 | Lee Sedol | Ke Jie | Win | W+R | 7.5 | 3421 | 3 | 
+| 2015-12-31 | 第2回夢百合杯世界オープン戦決勝五番勝負第2局 | Ke Jie | Lee Sedol | Win | B+R | 7.5 | 3418 | 3 | 
+| 2015-12-30 | 第2回夢百合杯世界オープン戦決勝五番勝負第1局 | Lee Sedol | Ke Jie | Lose | B+R | 7.5 | 3415 | 11 | 
+| 2015-12-09 | 第20回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Shi Yue | Ke Jie | Win | W+R | 6.5 | 3404 | 4 | 
+| 2015-12-08 | 第20回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Ke Jie | Shi Yue | Win | B+1.5 | 6.5 | 3400 | 6 | 
+| 2015-12-06 | 第17回中国囲碁甲級リーグ第22節 | Hu Yaoyu | Ke Jie | Win | W+0.5 | 7.5 | 3394 | 3 | 
+| 2015-12-04 | 第17回中国囲碁甲級リーグ第21節 | Ke Jie | Lian Xiao | Win | B+R | 7.5 | 3391 | 16 | 
+| 2015-12-01 | 2015年利民杯世界囲碁星鋭最強戦準決勝 | Ke Jie | Lee Donghoon | Lose | W+R | 7.5 | 3375 | -10 | 
+| 2015-11-30 | 2015年利民杯世界囲碁星鋭最強戦3回戦 | Huang Yunsong | Ke Jie | Win | W+R | 7.5 | 3385 | 4 | 
+| 2015-11-29 | 2015年利民杯世界囲碁星鋭最強戦2回戦 | Lin Junyan | Ke Jie | Win | W+R | 7.5 | 3381 | 12 | 
+| 2015-11-28 | 2015年利民杯世界囲碁星鋭最強戦1回戦 | Ke Jie | Na Hyun | Win | B+R | 7.5 | 3369 | 12 | 
+| 2015-11-25 | 第2回夢百合杯世界オープン戦準決勝第3局 | Ke Jie | Park Yeonghun | Win | B+R | 7.5 | 3357 | 5 | 
+| 2015-11-24 | 第2回夢百合杯世界オープン戦準決勝第2局 | Ke Jie | Park Yeonghun | Lose | W+R | 7.5 | 3352 | -8 | 
+| 2015-11-22 | 第2回夢百合杯世界オープン戦準決勝第1局 | Park Yeonghun | Ke Jie | Win | W+R | 7.5 | 3360 | -3 | 
+| 2015-11-16 | 第20回LG杯朝鮮日報棋王戦3回戦 | Ke Jie | Kang Dongyun | Lose | W+R | 6.5 | 3363 | -10 | 
+| 2015-11-13 | 第17回中国囲碁甲級リーグ第20節 | Zhou Ruiyang | Ke Jie | Win | W+R | 7.5 | 3373 | -7 | 
+| 2015-11-04 | 第20回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Ke Jie | Lee Sedol | Win | B+R | 6.5 | 3380 | 6 | 
+| 2015-11-03 | 第20回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Lee Sedol | Ke Jie | Win | W+R | 6.5 | 3374 | 12 | 
+| 2015-11-01 | 第11期威孚房開杯棋王戦決勝 | Ke Jie | Fan Yunruo | Win | B+R | 7.5 | 3362 | -1 | 
+| 2015-10-31 | 第11期威孚房開杯棋王戦準決勝 | Gu Lingyi | Ke Jie | Win | W+8.5 | 7.5 | 3363 | 3 | 
+| 2015-10-30 | 第11期威孚房開杯棋王戦3回戦 | Zhou Ruiyang | Ke Jie | Win | W+R | 7.5 | 3360 | 4 | 
+| 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 | Tan Xiao | Ke Jie | Win | W+R | 7.5 | 3356 | 8 | 
+| 2015-10-24 | 第7期中国竜星戦2回戦 | Ke Jie | Huang Yunsong | Lose | W+0.5 | 7.5 | 3348 | -10 | 
+| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Ke Jie | Gu Li | Win | B+R | 7.5 | 3358 | 1 | 
+| 2015-10-13 | 第11期威孚房開杯棋王戦2回戦 | Mi Yuting | Ke Jie | Win | W+0.5 | 7.5 | 3357 | 3 | 
+| 2015-10-12 | 第11期威孚房開杯棋王戦1回戦 | Zhou Hexi | Ke Jie | Win | W+R | 7.5 | 3354 | 13 | 
+| 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Kim Jiseok | Ke Jie | Win | W+R | 7.5 | 3341 | 11 | 
+| 2015-10-08 | 第20回三星火災杯世界囲碁マスターズ3回戦 | Ke Jie | Byun Sangil | Win | B+R | 6.5 | 3330 | 2 | 
+| 2015-10-06 | 第20回三星火災杯世界囲碁マスターズ2回戦 | Na Hyun | Ke Jie | Win | W+R | 6.5 | 3328 | 27 | 
+| 2015-09-29 | 第17回中国囲碁甲級リーグ第15節 | Ke Jie | Shi Yue | Lose | W+R | 7.5 | 3301 | -10 | 
+| 2015-09-27 | 第7期中国竜星戦1回戦 | An Dongxu | Ke Jie | Win | W+0.5 | 7.5 | 3311 | 5 | 
+| 2015-09-24 | 第17回中国囲碁甲級リーグ第14節 | Kang Dongyun | Ke Jie | Win | W+R | 7.5 | 3306 | -36 | 
+| 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦B2 | Ke Jie | Peng Liyao | Win | B+R | 6.5 | 3342 | 9 | 
+| 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦B1 | Yoo Changhyuk | Ke Jie | Win | W+R | 6.5 | 3333 | 11 | 
+| 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Ke Jie | Liao Xingwen | Win | B+R | 7.5 | 3322 | 1 | 
+| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Ke Jie | Tang Weixing | Win | B+R | 7.5 | 3321 | -1 | 
+| 2015-09-01 | 第2回夢百合杯世界オープン戦4回戦 | Ke Jie | Rong Yi | Win | B+R | 7.5 | 3322 | -2 | 
+| 2015-08-30 | 第2回夢百合杯世界オープン戦3回戦 | Ke Jie | Wang Zejin | Win | B+R | 7.5 | 3324 | -30 | 
+| 2015-07-27 | 第17期阿含・桐山杯中国早碁オープン戦2回戦 | Ke Jie | Chen Yaoye | Lose | W+3.5 | 7.5 | 3354 | -36 | 
+| 2015-07-11 | 第17回中国囲碁甲級リーグ第11節 | Ke Jie | Qiu Jun | Lose | W+R | 7.5 | 3390 | -14 | 
+| 2015-07-09 | 第2回夢百合杯世界オープン戦2回戦 | Zhang Qiang | Ke Jie | Win | W+R | 7.5 | 3404 | 3 | 
+| 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Ke Jie | Qin Yuexin | Win | B+R | 7.5 | 3401 | -12 | 
+| 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 | Lian Xiao | Ke Jie | Win | W+R | 7.5 | 3413 | -3 | 
+| 2015-07-02 | 第17期阿含・桐山杯中国早碁オープン戦1回戦 | Xie Erhao | Ke Jie | Win | W+2.5 | 7.5 | 3416 | -2 | 
+| 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Ke Jie | Jiang Weijie | Lose | W+R | 7.5 | 3418 | -35 | 
+| 2015-06-25 | 第17回中国囲碁甲級リーグ第8節 | Tuo Jiaxi | Ke Jie | Win | W+R | 7.5 | 3453 | -64 | 
+| 2015-06-23 | 2015年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Ke Jie | Park Geunho | Win | B+R | 7.5 | 3517 | 2 | 
+| 2015-06-22 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Shi Yulai | Ke Jie | Win | W+R | 7.5 | 3515 | 0 | 
+| 2015-06-22 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Ding Shixiong | Ke Jie | Win | W+R | 7.5 | 3515 | 3 | 
+| 2015-06-21 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Ke Jie | Song Jihoon | Win | B+R | 7.5 | 3512 | 1 | 
+| 2015-06-20 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Ke Jie |  | Win | B+R | 7.5 | 3511 | 0 | 
+| 2015-06-20 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Liao Yuanhe | Ke Jie | Win | W+R | 7.5 | 3511 | 3 | 
+| 2015-06-18 | 宝佳適杯中韓新鋭天元戦第2戦 | Lee Donghoon | Ke Jie | Win | W+R | 6.5 | 3508 | -7 | 
+| 2015-06-17 | 宝佳適杯中韓新鋭天元戦第1戦 | Shin Minjun | Ke Jie | Lose | B+R | 6.5 | 3515 | -34 | 
+| 2015-06-13 | 第17回中国囲碁甲級リーグ第7節 | Ke Jie | Tan Xiao | Win | B+1.5 | 7.5 | 3549 | 33 | 
+| 2015-06-10 | 第20回LG杯朝鮮日報棋王戦2回戦 | Choi Cheolhan | Ke Jie | Win | W+R | 6.5 | 3516 | -6 | 
+| 2015-06-08 | 第20回LG杯朝鮮日報棋王戦1回戦 | Byun Sangil | Ke Jie | Win | W+R | 6.5 | 3522 | -37 | 
+| 2015-05-28 | 第17回中国囲碁甲級リーグ第6節 | Gu Li | Ke Jie | Win | W+R | 7.5 | 3559 | 10 | 
+| 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Ke Jie | Kim Jiseok | Lose | W+R | 7.5 | 3549 | -19 | 
+| 2015-05-16 | 第17回中国囲碁甲級リーグ第4節 | Tao Xinran | Ke Jie | Win | W+R | 7.5 | 3568 | 3 | 
+| 2015-05-11 | 第17回中国囲碁甲級リーグ第3節 | Ke Jie | Liu Xing | Lose | W+R | 7.5 | 3565 | -15 | 
+| 2015-05-08 | 第28期中国囲碁名人戦2回戦 | Ke Jie | Qiu Jun | Lose | W+R | 7.5 | 3580 | 3 | 
+| 2015-05-06 | 第28期中国囲碁名人戦1回戦 | Ke Jie | Mao Ruilong | Win | B+1.5 | 7.5 | 3577 | 20 | 
+| 2015-04-29 | 第17回中国囲碁甲級リーグ第2節 | Liao Xingwen | Ke Jie | Win | W+R | 7.5 | 3557 | 40 | 
+| 2015-04-26 | 第15期リコー杯囲碁戦決勝 | Shi Yue | Ke Jie | Win | W+R | 7.5 | 3517 | 35 | 
+| 2015-04-22 | 第17回中国囲碁甲級リーグ第1節 | Huang Yunsong | Ke Jie | Win | W+R | 7.5 | 3482 | 9 | 
+| 2015-04-05 | 第12期倡棋杯中国プロ囲碁選手権戦2回戦 | Ke Jie | Qiu Jun | Lose | W+R | 7.5 | 3473 | -10 | 
+| 2015-04-03 | 第12期倡棋杯中国プロ囲碁選手権戦1回戦 | Ke Jie | Yu Zhiying | Win | B+1 | 7.5 | 3483 | -158 | 
+| 2015-03-14 | 第16回阿含・桐山杯日中決戦 | Iyama Yuta | Ke Jie | Win | W+R | 6.5 | 3641 | 5 | 
+| 2015-03-10 | 第14回西南棋王戦準決勝 | Ke Jie | Shi Yue | Lose | W+R | 7.5 | 3636 | -104 | 
+| 2015-03-09 | 第14回西南棋王戦2回戦 | Gu Li | Ke Jie | Win | W+R | 7.5 | 3740 | 0 | 
+| 2015-03-09 | 第14回西南棋王戦1回戦 | Ke Jie |  | Win | B+1.5 | 7.5 | 3740 | 68 | 
+| 2015-01-29 | 第29期中国囲碁天元戦2回戦 | Ke Jie | Gu Zihao | Lose | W+R | 7.5 | 3672 | 16 | 
+| 2015-01-27 | 第29期中国囲碁天元戦1回戦 | Ke Jie | Zhou Hexi | Win | B+R | 7.5 | 3656 | -16 | 
+| 2015-01-23 | 第15期リコー杯囲碁戦準決勝 | Ke Jie | Fan Tingyu | Win | B+1.5 | 7.5 | 3672 | 15 | 
+| 2015-01-22 | 第15期リコー杯囲碁戦4回戦 | Ke Jie | Wang Xi | Win | B+R | 7.5 | 3657 | -5 | 
+| 2015-01-21 | 第15期リコー杯囲碁戦3回戦 | Xie Erhao | Ke Jie | Win | W+R | 7.5 | 3662 | 0 | 
+| 2015-01-20 | 第15期リコー杯囲碁戦2回戦 | Wang Haoyang | Ke Jie | Win | W+0.5 | 7.5 | 3662 | -10 | 
+| 2015-01-14 | 第2回百霊杯世界オープン戦決勝五番勝負第5局 | Qiu Jun | Ke Jie | Win | W+R | 7.5 | 3672 | 0 | 
+| 2015-01-13 | 第2回百霊杯世界オープン戦決勝五番勝負第4局 | Qiu Jun | Ke Jie | Win | W+R | 7.5 | 3672 | 3 | 
+| 2015-01-11 | 第2回百霊杯世界オープン戦決勝五番勝負第3局 | Ke Jie | Qiu Jun | Lose | W+R | 7.5 | 3669 | 14 | 
+| 2014-12-19 | 2014年利民杯世界囲碁星鋭最強戦1回戦 | Ke Jie | Shin Jinseo | Lose | W+0.5 | 7.5 | 3655 | -13 | 
+| 2014-12-16 | 第6期中国竜星戦準決勝 | Ke Jie | Tan Xiao | Lose | W+0.5 | 7.5 | 3668 | 31 | 
+| 2014-11-29 | 第2回百霊杯世界オープン戦決勝五番勝負第2局 | Qiu Jun | Ke Jie | Lose | B+1.5 | 7.5 | 3637 | -21 | 
+| 2014-11-27 | 第2回百霊杯世界オープン戦決勝五番勝負第1局 | Ke Jie | Qiu Jun | Win | B+R | 7.5 | 3658 | -14 | 
+| 2014-11-22 | 第16回中国囲碁甲級リーグ第21節 | Ke Jie | Yang Dingxin | Win | B+R | 7.5 | 3672 | 25 | 
+| 2014-11-18 | 第6期中国竜星戦3回戦 | Fan Yunruo | Ke Jie | Win | W+R | 7.5 | 3647 | 0 | 
+| 2014-11-11 | 第16回中国囲碁甲級リーグ第20節 | Ke Jie |  | Win | B+R | 7.5 | 3647 | 0 | 
+| 2014-11-09 | 第16回中国囲碁甲級リーグ第19節 | An Dongxu | Ke Jie | Win | W+R | 7.5 | 3647 | 122 | 
+| 2014-11-02 | 第1回おかげ杯国際精鋭囲碁対抗戦団体戦一位決定戦 | Ke Jie | Na Hyun | Lose | W+R | 6.5 | 3525 | -18 | 
+| 2014-11-01 | 第1回おかげ杯国際精鋭囲碁対抗戦第2戦 | Ke Jie | Ichiriki Ryo | Win | B+R | 6.5 | 3543 | 0 | 
+| 2014-11-01 | 第1回おかげ杯国際精鋭囲碁対抗戦第1戦 | Na Hyun | Ke Jie | Win | W+R | 6.5 | 3543 | -13 | 
+| 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 | Ke Jie | Lee Donghoon | Lose | W+2.5 | 7.5 | 3556 | -10 | 
+| 2014-10-24 | 第16期阿含・桐山杯中国早碁オープン戦決勝 | Tang Weixing | Ke Jie | Win | W+R | 7.5 | 3566 | 0 | 
+| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Yang Kaiwen | Ke Jie | Win | W+R | 7.5 | 3566 | -9 | 
+| 2014-10-15 | 第6期中国竜星戦2回戦 | Ke Jie | Kong Jie | Win | B+R | 7.5 | 3575 | 10 | 
+| 2014-10-11 | 第10期威孚房開杯棋王戦1回戦 | Shi Yue | Ke Jie | Lose | B+R | 7.5 | 3565 | -60 | 
+| 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Ke Jie | Piao Wenyao | Win | B+R | 7.5 | 3625 | 28 | 
+| 2014-10-03 | 2014年国際新鋭囲碁対抗戦第3戦 | Ke Jie | Xiao Zhenghao | Win | B+R | 6.5 | 3597 | -20 | 
+| 2014-10-02 | 2014年国際新鋭囲碁対抗戦第2戦 | Ke Jie | Na Hyun | Lose | W+0.5 | 6.5 | 3617 | -6 | 
+| 2014-10-01 | 2014年国際新鋭囲碁対抗戦第1戦 | Ida Atsushi | Ke Jie | Win | W+R | 6.5 | 3623 | -23 | 
+| 2014-09-20 | 第2回百霊杯世界オープン戦準決勝第2局 | Park Junghwan | Ke Jie | Win | W+R | 7.5 | 3646 | 11 | 
+| 2014-09-18 | 第2回百霊杯世界オープン戦準決勝第1局 | Ke Jie | Park Junghwan | Win | B+R | 7.5 | 3635 | 3 | 
+| 2014-09-16 | 第2回百霊杯世界オープン戦4回戦 | Choi Cheolhan | Ke Jie | Win | W+R | 7.5 | 3632 | 3 | 
+| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Ke Jie | Hu Yuhan | Win | B+13.5 | 7.5 | 3629 | 50 | 
+| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Jiang Weijie | Ke Jie | Lose | B+R | 7.5 | 3579 | -6 | 
+| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Peng Quan | Ke Jie | Win | W+R | 7.5 | 3585 | 6 | 
+| 2014-09-02 | 第6期中国竜星戦1回戦 | Ke Jie | Qin Yuexin | Win | B+R | 7.5 | 3579 | 31 | 
+| 2014-08-30 | 第16期阿含・桐山杯中国早碁オープン戦準決勝 | Zhou Ruiyang | Ke Jie | Win | W+R | 7.5 | 3548 | -78 | 
+| 2014-08-03 | 第19回三星火災杯統合予選2回戦 |  | Ke Jie | Lose | B+R | 6.5 | 3626 | -16 | 
+| 2014-07-30 | 第16期阿含・桐山杯中国早碁オープン戦2回戦 | Ke Jie | Gu Li | Win | B+1.5 | 7.5 | 3642 | 4 | 
+| 2014-07-24 | 第2回百霊杯世界オープン戦3回戦 | Wang Yao | Ke Jie | Win | W+R | 7.5 | 3638 | -4 | 
+| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Fan Tingyu | Ke Jie | Win | W+R | 7.5 | 3642 | 70 | 
+| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Fan Yunruo | Ke Jie | Win | W+R | 7.5 | 3572 | -10 | 
+| 2014-07-07 | 第16期阿含・桐山杯中国早碁オープン戦1回戦 | Ke Jie | Lian Xiao | Win | B+R | 7.5 | 3582 | 4 | 
+| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Gu Li | Ke Jie | Win | W+R | 7.5 | 3578 | 13 | 
+| 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Xie He | Ke Jie | Win | W+R | 7.5 | 3565 | 0 | 
+| 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Zhong Wenjing | Ke Jie | Win | W+R | 7.5 | 3565 | 12 | 
+| 2014-07-02 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Chang Hao | Ke Jie | Win | W+T | 7.5 | 3553 | 13 | 
+| 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Ke Jie | Liao Xingwen | Win | B+R | 7.5 | 3540 | 25 | 
+| 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Ke Jie | An Dongxu | Win | B+1.5 | 7.5 | 3515 | -8 | 
+| 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Fan Tingyu | Ke Jie | Lose | B+R | 7.5 | 3523 | 10 | 
+| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Ke Jie | Chen Yaoye | Win | B+R | 7.5 | 3513 | 46 | 
+| 2014-06-05 | 第16回中国囲碁甲級リーグ第6節 | Ke Jie | Dang Yifei | Win | B+R | 7.5 | 3467 | 15 | 
+| 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Ke Jie |  | Win | B+1.5 | 7.5 | 3452 | 9 | 
+| 2014-05-28 | 第11期倡棋杯中国プロ囲碁選手権戦1回戦 | Liu Xing | Ke Jie | Lose | B+R | 7.5 | 3443 | 48 | 
+| 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Ke Jie | Wu Guangya | Win | B+R | 7.5 | 3395 | 13 | 
+| 2014-05-18 | 第16回中国囲碁甲級リーグ第3節 | Qin Yuexin | Ke Jie | Win | W+R | 7.5 | 3382 | -1 | 
+| 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Ke Jie | Ding Shixiong | Win | B+R | 7.5 | 3383 | -13 | 
+| 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Huang Yunsong | Ke Jie | Win | W+R | 7.5 | 3396 | 17 | 
+| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Ke Jie | Tang Weixing | Lose | W+0.5 | 7.5 | 3379 | -16 | 
+| 2014-05-03 | 2014年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Liao Xingwen | Ke Jie | Win | W+0.5 | 7.5 | 3395 | 0 | 
+| 2014-05-03 | 2014年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Ke Jie | Xu Jiayang | Win | B+R | 7.5 | 3395 | 10 | 
+| 2014-05-02 | 2014年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Shin Jinseo | Ke Jie | Win | W+R | 7.5 | 3385 | -95 | 
+| 2014-04-25 | 第28期中国囲碁天元戦挑戦手合三番勝負第3局 | Ke Jie | Chen Yaoye | Lose | W+R | 7.5 | 3480 | -39 | 
+| 2014-04-24 | 第28期中国囲碁天元戦挑戦手合三番勝負第2局 | Ke Jie | Chen Yaoye | Lose | W+R | 7.5 | 3519 | -26 | 
+| 2014-04-22 | 第28期中国囲碁天元戦挑戦手合三番勝負第1局 | Chen Yaoye | Ke Jie | Win | W+R | 7.5 | 3545 | 31 | 
+| 2014-04-08 | 第27期中国囲碁名人戦3回戦 | Ke Jie | Lian Xiao | Lose | W+R | 7.5 | 3514 | 0 | 
+| 2014-04-06 | 第27期中国囲碁名人戦2回戦 | Ke Jie | Tan Xiao | Win | B+R | 7.5 | 3514 | 2 | 
+| 2014-04-04 | 第27期中国囲碁名人戦1回戦 | Hu Yaoyu | Ke Jie | Win | W+R | 7.5 | 3512 | 7 | 
+| 2014-04-02 | 第27期中国囲碁名人戦予選 | Zhang Tao | Ke Jie | Win | W+R | 7.5 | 3505 | 13 | 
+| 2014-04-01 | 第27期中国囲碁名人戦予選 | Ke Jie | He Tianning | Win | B+R | 7.5 | 3492 | 28 | 
+| 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Ke Jie | Kim Seongjae | Win | B+R | 7.5 | 3464 | -29 | 
+| 2014-01-23 | 第28期中国囲碁天元戦挑戦者決定戦 | Shi Yue | Ke Jie | Win | W+R | 7.5 | 3493 | 5 | 
+| 2014-01-21 | 第28期中国囲碁天元戦準決勝 | Ke Jie | Dang Yifei | Win | B+1.5 | 7.5 | 3488 | 8 | 
+| 2014-01-19 | 第28期中国囲碁天元戦3回戦 | Ke Jie | Zhou Ruiyang | Win | B+R | 7.5 | 3480 | 12 | 
+| 2014-01-17 | 第28期中国囲碁天元戦2回戦 | Ke Jie | Zhang Tao | Win | B+R | 7.5 | 3468 | -22 | 
+| 2014-01-15 | 第28期中国囲碁天元戦1回戦 | Ke Jie | Lian Xiao | Win | B+R | 7.5 | 3490 | -20 | 
+| 2014-01-14 | 第28期中国囲碁天元戦予選 |  | Ke Jie | Win | W+R | 7.5 | 3510 | 79 | 
+| 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 | Ke Jie | Meng Tailing | Win | B+R | 7.5 | 3431 | 27 | 
+| 2013-11-23 | 第15回中国囲碁甲級リーグ第21節 | Ke Jie | Na Hyun | Win | B+R | 7.5 | 3404 | -3 | 
+| 2013-11-16 | 第15回中国囲碁甲級リーグ第20節 | Ke Jie | Chen Yaoye | Win | B+1.5 | 7.5 | 3407 | 52 | 
+| 2013-11-02 | 第15回中国囲碁甲級リーグ第19節 | Zhou Ruiyang | Ke Jie | Win | W+0.5 | 7.5 | 3355 | 28 | 
+| 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 | Ke Jie | Liao Xingwen | Win | B+R | 7.5 | 3327 | 23 | 
+| 2013-10-20 | 第15回中国囲碁甲級リーグ第17節 | Ke Jie | Fan Yunruo | Win | B+R | 7.5 | 3304 | -21 | 
+| 2013-10-13 | 第15回中国囲碁甲級リーグ第16節 | Ke Jie | Park Junghwan | Lose | W+R | 7.5 | 3325 | -28 | 
+| 2013-10-08 | 第18回三星火災杯世界囲碁マスターズ2回戦 | Ke Jie | Shi Yue | Lose | W+R | 6.5 | 3353 | -190 | 
+| 2013-09-12 | 第15回中国囲碁甲級リーグ第15節 | Shi Yue | Ke Jie | Win | W+R | 7.5 | 3543 | 52 | 
+| 2013-09-09 | 第5期中国竜星戦予選 | Ke Jie | Tang Weixing | Lose | W+R | 7.5 | 3491 | 0 | 
+| 2013-09-07 | 第15回中国囲碁甲級リーグ第14節 | Ke Jie | Xie He | Lose | W+R | 7.5 | 3491 | -15 | 
+| 2013-09-05 | 第18回三星火災杯世界囲碁マスターズ1回戦D3 | Ke Jie | Choi Cheolhan | Win | B+R | 6.5 | 3506 | 24 | 
+| 2013-09-04 | 第18回三星火災杯世界囲碁マスターズ1回戦D2 | Ke Jie | Tuo Jiaxi | Win | B+R | 6.5 | 3482 | 27 | 
+| 2013-09-03 | 第18回三星火災杯世界囲碁マスターズ1回戦D1 | Ke Jie | Kim Jiseok | Lose | W+R | 6.5 | 3455 | 4 | 
+| 2013-09-01 | 第15回中国囲碁甲級リーグ第13節 | Ke Jie | Choi Cheolhan | Lose | W+R | 7.5 | 3451 | -28 | 
+| 2013-08-30 | 第15回中国囲碁甲級リーグ第12節 | Ke Jie | Park Yeonghun | Win | B+R | 7.5 | 3479 | -5 | 
+| 2013-08-07 | 第18回三星火災杯統合予選決勝 | Ke Jie |  | Win | B+R | 6.5 | 3484 | 126 | 
+| 2013-07-15 | 第15回中国囲碁甲級リーグ第11節 | Ke Jie | Peng Quan | Lose | W+R | 7.5 | 3358 | -22 | 
+| 2013-07-11 | 第1回夢百合杯世界オープン戦2回戦 | Ke Jie | Lian Xiao | Lose | W+0.5 | 7.5 | 3380 | 40 | 
+| 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 | Ke Jie | Cho Insun | Win | B+R | 7.5 | 3340 | 64 | 
+| 2013-07-07 | 第15回中国囲碁甲級リーグ第10節 |  | Ke Jie | Win | W+R | 7.5 | 3276 | -1 | 
+| 2013-06-22 | 第15回中国囲碁甲級リーグ第9節 | Ke Jie | Han Yizhou | Win | B+R | 7.5 | 3277 | 1 | 
+| 2013-06-15 | 第15回中国囲碁甲級リーグ第8節 | Jiang Weijie | Ke Jie | Lose | B+R | 7.5 | 3276 | -19 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Wang Haoyang | Ke Jie | Lose | B+R | 7.5 | 3295 | -58 | 
+| 2013-06-02 | 第15回中国囲碁甲級リーグ第7節 | Niu Yutian | Ke Jie | Win | W+R | 7.5 | 3353 | 96 | 
+| 2013-05-18 | 第15回中国囲碁甲級リーグ第6節 | Ke Jie | Hu Yaoyu | Win | B+R | 7.5 | 3257 | 23 | 
+| 2013-05-11 | 第15回中国囲碁甲級リーグ第5節 | Ke Jie | Li Kang | Win | B+R | 7.5 | 3234 | 9 | 
+| 2013-05-09 | 第15回中国囲碁甲級リーグ第4節 | Ke Jie | Li Zhe | Win | B+R | 7.5 | 3225 | -42 | 
+| 2013-04-11 | 第26期中国囲碁名人戦予選 | Ke Jie | Wang Tao | Lose | W+0.5 | 7.5 | 3267 | -22 | 
+| 2013-04-10 | 第26期中国囲碁名人戦予選 | Ke Jie |  | Win | B+R | 7.5 | 3289 | 22 | 
+| 2013-04-07 | 第15回中国囲碁甲級リーグ第2節 | Ke Jie | Tao Xinran | Lose | W+R | 7.5 | 3267 | -16 | 
+| 2013-04-05 | 第15回中国囲碁甲級リーグ第1節 | Ke Jie | Park Yeonghun | Win | B+1.5 | 7.5 | 3283 | 18 | 
+| 2013-03-30 | 第20期建橋杯中国囲碁新人王戦3回戦 | Ke Jie | Liao Xingwen | Lose | W+R | 7.5 | 3265 | -35 | 
+| 2013-03-28 | 第20期建橋杯中国囲碁新人王戦1回戦 | Ke Jie | Li Qincheng | Win | B+R | 7.5 | 3300 | -22 | 
+| 2012-12-08 | 第14回中国囲碁甲級リーグ第22節 | Ke Jie | Hu Yaoyu | Win | B+R | 7.5 | 3322 | 61 | 
+| 2012-12-01 | 第14回中国囲碁甲級リーグ第21節 | Wang Tao | Ke Jie | Win | W+R | 7.5 | 3261 | -154 | 
+| 2012-11-10 | 第14回中国囲碁甲級リーグ第19節 | Li Kang | Ke Jie | Lose | B+R | 7.5 | 3415 | -32 | 
+| 2012-11-03 | 第14回中国囲碁甲級リーグ第18節 | Guo Yuzheng | Ke Jie | Win | W+R | 7.5 | 3447 | -12 | 
+| 2012-10-21 | 第14回中国囲碁甲級リーグ第17節 | Huang Yizhong | Ke Jie | Win | W+R | 7.5 | 3459 | 62 | 
+| 2012-09-30 | 第14回中国囲碁甲級リーグ第16節 | Ke Jie | Li Xuanhao | Win | B+R | 7.5 | 3397 | 12 | 
+| 2012-09-28 | 第14回中国囲碁甲級リーグ第15節 | Fan Tingyu | Ke Jie | Lose | B+R | 7.5 | 3385 | -14 | 
+| 2012-09-08 | 第14回中国囲碁甲級リーグ第14節 | Ke Jie | Cho Hanseung | Lose | W+R | 7.5 | 3399 | -6 | 
+| 2012-09-01 | 第14回中国囲碁甲級リーグ第13節 | Ke Jie | Chen Yaoye | Win | B+3.5 | 7.5 | 3405 | 24 | 
+| 2012-08-30 | 第14回中国囲碁甲級リーグ第12節 | Ke Jie | Piao Wenyao | Lose | W+R | 7.5 | 3381 | 16 | 
+| 2012-07-15 | 第14回中国囲碁甲級リーグ第11節 | Qiu Jun | Ke Jie | Win | W+R | 7.5 | 3365 | 25 | 
+| 2012-07-13 | 第14回中国囲碁甲級リーグ第10節 | Ke Jie |  | Lose | W+R | 7.5 | 3340 | -68 | 
+| 2012-07-07 | 第14回中国囲碁甲級リーグ第9節 | Ke Jie | Sun Tengyu | Win | B+1.5 | 7.5 | 3408 | 96 | 
+| 2012-06-30 | 第14回中国囲碁甲級リーグ第8節 |  | Ke Jie | Win | W+R | 7.5 | 3312 | -68 | 
+| 2012-06-09 | 第14回中国囲碁甲級リーグ第5節 | Ke Jie | Li Xuanhao | Lose | W+R | 7.5 | 3380 | 76 | 
+| 2012-05-30 | 第14回中国囲碁甲級リーグ第4節 | Ke Jie | Fan Tingyu | Lose | W+R | 7.5 | 3304 | -155 | 
+| 2012-04-28 | 第14回中国囲碁甲級リーグ第1節 | Ke Jie | Shi Yue | Lose | W+R | 7.5 | 3459 | 8 | 
+| 2012-03-10 | 第1回百霊杯世界囲碁選手権予選 | Kang Dongyun | Ke Jie | Win | W+R | 7.5 | 3451 | 34 | 
+| 2011-12-26 | 第13回中国囲碁甲級リーグ第22節 | Piao Wenyao | Ke Jie | Win | W+R | 7.5 | 3417 | 371 | 
+| 2011-11-29 | 第13回中国囲碁甲級リーグ第21節 | Ke Jie | Wang Xi | Lose | W+R | 7.5 | 3046 | 0 | 
+| 2011-11-26 | 第13回中国囲碁甲級リーグ第20節 | Ke Jie | Ding Lie | Lose | W+R | 7.5 | 3046 | -2 | 
+| 2011-11-05 | 第13回中国囲碁甲級リーグ第19節 | Chang Hao | Ke Jie | Win | W+2.5 | 7.5 | 3048 | 6 | 
+| 2011-10-29 | 第13回中国囲碁甲級リーグ第18節 | Ke Jie | Li Kang | Win | B+R | 7.5 | 3042 | 29 | 
+| 2011-10-13 | 第13回中国囲碁甲級リーグ第17節 |  | Ke Jie | Lose | B+R | 7.5 | 3013 | -33 | 
+| 2011-10-08 | 第13回中国囲碁甲級リーグ第16節 | Ke Jie | Peng Quan | Lose | W+6.5 | 7.5 | 3046 | 20 | 
+| 2011-09-10 | 第13回中国囲碁甲級リーグ第14節 | Wang Lei (s) | Ke Jie | Lose | B+R | 7.5 | 3026 | -5 | 
+| 2011-09-06 | 第13回中国囲碁甲級リーグ第13節 | Tao Xinran | Ke Jie | Lose | B+R | 7.5 | 3031 | -32 | 
+| 2011-09-04 | 第13回中国囲碁甲級リーグ第12節 | Ke Jie | Tao Xin | Win | B+R | 7.5 | 3063 | 43 | 
+| 2011-07-02 | 第13回中国囲碁甲級リーグ第9節 | Ke Jie | Hong Seongji | Lose | W+R | 7.5 | 3020 | -187 | 
+| 2011-06-25 | 第13回中国囲碁甲級リーグ第8節 | Hu Yaoyu | Ke Jie | Win | W+6.5 | 7.5 | 3207 | 39 | 
+| 2011-06-09 | 第13回中国囲碁甲級リーグ第6節 | Niu Yutian | Ke Jie | Lose | B+R | 7.5 | 3168 | -56 | 
+| 2011-05-28 | 第13回中国囲碁甲級リーグ第5節 | Ke Jie | Meng Tailing | Lose | W+R | 7.5 | 3224 | -39 | 
+| 2011-05-21 | 第13回中国囲碁甲級リーグ第4節 | Ke Jie | Tuo Jiaxi | Win | B+R | 7.5 | 3263 | 190 | 
+| 2011-05-09 | 第13回中国囲碁甲級リーグ第2節 | Ke Jie | Huang Chen | Lose | W+R | 7.5 | 3073 | -72 | 
+| 2011-03-15 | 2011CCTV杯中国囲棋電視快棋戦2回戦 | Tan Xiao | Ke Jie | Lose | B+R | 7.5 | 3145 | -58 | 
+| 2011-03-14 | 2011CCTV杯中国囲棋電視快棋戦1回戦 | Tang Yi | Ke Jie | Win | W+R | 7.5 | 3203 | 327 | 
+| 2010-03-30 | 第23期中国囲碁名人戦予選 | Shi Yue | Ke Jie | Lose | B+3.5 | 7.5 | 2876 | 54 | 
+| 2010-01-19 | 第24期中国囲碁天元戦予選 | Ke Jie |  | Lose | W+R | 7.5 | 2822 | 61 | 
+| 2009-12-30 | 第10期リコー杯囲碁戦2回戦 | Chen Yaoye | Ke Jie | Lose | B+R | 7.5 | 2761 | -28 | 
+| 2009-12-29 | 第4期リコー杯新秀戦1回戦 | Ke Jie |  | Lose | W+R | 7.5 | 2789 | 2789 | 
+| 2009-12-28 | 第10期リコー杯囲碁戦1回戦 | Huang Yizhong | Ke Jie | Win | W+0.5 | 7.5 | missing | 0 | 
+| 2009-12-20 | 第4期リコー杯新秀戦予選 |  | Ke Jie | Win | W+R | 7.5 | missing | 0 | 
+| 2009-12-19 | 第4期リコー杯新秀戦予選 | Fan Yunruo | Ke Jie | Win | W+4.5 | 7.5 | missing | -2410 | 
+| 2009-03-03 | 第22期中国囲碁名人戦予選 | Ke Jie | Zheng Yan | Win | B+R | 7.5 | 2410 | 2410 | 
+| 2008-12-18 | 第3期リコー杯新秀戦予選 |  | Ke Jie | Lose | B+3.5 | 7.5 | missing | 0 | 
+| 2008-12-16 | 第3期リコー杯新秀戦予選 | Ke Jie |  | Win | B+3.5 | 7.5 | missing | missing |
 
 
 

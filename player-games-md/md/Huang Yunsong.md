@@ -5,367 +5,368 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Huang Yunsong | W+R | 2021-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=svLr3Dqy%2F%2Bo0JsWgt4fOOg%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Huang Yunsong | Ke Jie | W+R | 2021-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZTrW5nnCLrtn2wKnajnApw%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Huang Yunsong | Xu Haohong | B+R | 2021-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6Ot4s99VwyYJWGRFbvB%2FMA%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Li Chengsen | Huang Yunsong | W+R | 2021-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GRUUW5MHBYEIiJpu1PBbGw%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Huang Yunsong | Rong Yi | W+R | 2021-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HoDunX3QqaWcL%2BkyhIxPeg%3D%3D) | 
-| 第17回倡棋杯中国プロ囲碁選手権戦3回戦 | Lin Junyan | Huang Yunsong | W+R | 2021-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ycw4VbnjCkJK4ubAVzHHRQ%3D%3D) | 
-| 第17回倡棋杯中国プロ囲碁選手権戦2回戦 | Huang Yunsong | Zhou Ruiyang | B+5¾ | 2021-04-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lUjfwUG2ybqegxZ8iYfj6g%3D%3D) | 
-| 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Tao Xinran | Huang Yunsong | W+1¾ | 2021-04-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qSFQe3p%2BiDKBOrzBEAIhQw%3D%3D) | 
-| 第35期中国囲碁天元戦1回戦 | Ke Jie | Huang Yunsong | B+R | 2021-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cfXG292Rm2YkjtKSVJZv8g%3D%3D) | 
-| 第35期中国囲碁天元戦予選 | Zhang Tao | Huang Yunsong | W+1¼ | 2021-03-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=icec95HmypFBFMDekJHRBQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Xie He | B+R | 2020-12-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tbx%2F5o2QoAToK3Y7oDDmNA%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Gu Li | Huang Yunsong | W+¼ | 2020-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ypNTd0GdEskpBncNiFM5AA%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Zhou Ruiyang | Huang Yunsong | W+R | 2020-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1%2FzyZQLTMJ8RIC3tfBT6Gw%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Yi Lingtao | B+2¾ | 2020-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k0xIlU0KAuqFtufFL9EAUQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Lee Donghoon | W+R | 2020-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cg3sNkg2BjQTcv69t1reFw%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Wu Guangya | Huang Yunsong | W+R | 2020-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KX%2BqmynMKNStt9nTOMW5iA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Huang Yunsong | Xie Erhao | W+R | 2020-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xKA98fDBa6nj0FG9Vx9vOQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Dang Yifei | Huang Yunsong | W+¼ | 2020-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uQkJAEaTavo3bcLK%2BAAgOA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Huang Yunsong | Ding Shixiong | B+R | 2020-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FNBTWRM1DoxGiBmLwVc2Pw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Chen Yichun | Huang Yunsong | W+R | 2020-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xrfCHRPXosxx9JzCXuzA8g%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Huang Yunsong | Byun Sangil | W+R | 2020-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ivNZSmhKdqRN4ucEjZ7nIg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Li Chengsen | Huang Yunsong | B+R | 2020-12-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FDOUUqLsy0A28Hth7aNP%2Bg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Huang Yunsong | Shi Yue | B+R | 2020-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xrrrV4zwVU0Vdje4D2zN9Q%3D%3D) | 
-| 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Huang Yunsong | Ding Hao | W+R | 2020-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LPk85K%2FgfWKV5wuBlaoioQ%3D%3D) | 
-| 2020CCTV杯中国囲棋電視快棋戦1回戦 | Gu Zihao | Huang Yunsong | B+R | 2020-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wxU6Hpu3btRI6dfMqJJqkw%3D%3D) | 
-| 第25回三星火災杯中国一般枠予選 | Chen Yaoye | Huang Yunsong | B+R | 2020-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OjwUJy%2FGTPHbzkHQB16rfw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第7節 | Chen Yaoye | Huang Yunsong | B+R | 2020-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CiBL3qCqrWU63aAiTssVTA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第5節 | missing | Huang Yunsong | W+R | 2020-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ai1dXErB4mriMPcYT6PU%2FQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第4節 | Huang Yunsong | Xie Ke | W+R | 2020-08-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rkqrzHuwYKo2KbWj3zpfmQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第3節 | Huang Yunsong | Lee Donghoon | W+R | 2020-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tr2KzmhjOyzuZD23IjTK2Q%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第2節 | Huang Yunsong | Zhang Tao | W+R | 2020-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dyZabool%2FhtnAbqwfv6Jog%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第1節 | He Yuhan | Huang Yunsong | W+R | 2020-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y3kZ1YxVCSdGWSel2Fz46g%3D%3D) | 
-| 第34期中国囲碁天元戦予選 | Huang Yunsong | Zhou Ruiyang | B+R | 2020-01-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b30LsMa4q09RYORoJchXVA%3D%3D) | 
-| 第5期洛陽白雲山杯中国棋聖戦予選 | Tong Mengcheng | Huang Yunsong | B+R | 2019-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O4C4R2FMpJqpP5tskKLVMg%3D%3D) | 
-| 第11期中国竜星戦予選 | Tuo Jiaxi | Huang Yunsong | B+R | 2019-12-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=anMqkhmp%2BGnO%2B4NhGyoeHA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ三位決定戦第3戦 | Huang Yunsong | Peng Liyao | W+R | 2019-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0jTMs3%2FtWitYTBo27CFAdA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ三位決定戦第2戦 | Huang Yunsong | Fan Yin | W+R | 2019-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SrddkcXXn6SKszhyMq40dQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ三位決定戦第1戦 | Park Hamin | Huang Yunsong | W+R | 2019-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7cECWBhPyP%2BO1AmTDxyMtw%3D%3D) | 
-| 第4回全国智力運動会男子団体戦第7戦 | He Yuhan | Huang Yunsong | W+R | 2019-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DQ%2FmPtH86chRpY82y16IoA%3D%3D) | 
-| 第4回全国智力運動会男子団体戦第5戦 | Xie Ke | Huang Yunsong | W+R | 2019-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dh69pOMVhJShvv8mGSne9Q%3D%3D) | 
-| 第4回全国智力運動会男子団体戦第2戦 | missing | Huang Yunsong | W+R | 2019-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QCPyi%2BlfThYxkEY5Dkr7%2Fw%3D%3D) | 
-| 第4回全国智力運動会プロ男子個人早碁戦準決勝 | Lian Xiao | Huang Yunsong | B+R | 2019-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8M9VmX3n2E%2FKhZ9rqSLZRQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ3回戦第2戦 | Lian Xiao | Huang Yunsong | W+R | 2019-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TIYFIBx7xIg8bxf6td4wtw%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 | Lian Xiao | Huang Yunsong | W+R | 2019-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zCCbgLzHCJesNzprPg45sw%3D%3D) | 
-| 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Huang Yunsong | Ding Hao | W+R | 2019-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tsFt0DRHIAJJjRbzVV0ySA%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Liao Yuanhe | Huang Yunsong | W+R | 2019-10-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=teWklheOslI3zE7O8j9%2FCA%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Huang Yunsong | Dang Yifei | B+R | 2019-10-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eHlccpR6KyyZ5pdvuGYclw%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ1回戦第2戦 | Huang Yunsong | Jiang Qirun | W+R | 2019-09-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=06Y0Me7xJLY0cxEfqvn%2Byw%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ1回戦第1戦 | Shen Peiran | Huang Yunsong | W+R | 2019-09-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=59D3OqyncYepyB8yxnXLYw%3D%3D) | 
-| 第24回三星火災杯世界囲碁マスターズ2回戦 | Huang Yunsong | Liao Yuanhe | W+R | 2019-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G9MVzmTyQfbenN%2BBW7gASw%3D%3D) | 
-| 第24回三星火災杯世界囲碁マスターズ1回戦 | Huang Yunsong | missing | B+R | 2019-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=19P0lvpFyODey64m38%2FCfw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第15節 | Shen Peiran | Huang Yunsong | W+R | 2019-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jGPH4GHSfZhDUYfwL8XZcQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第14節 | Huang Yunsong | Tan Xiao | B+R | 2019-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VlhRW6ENNOld3oUQRU7%2FPw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第11節 | missing | Huang Yunsong | B+R | 2019-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LsurgLy8sfkrRUIicNYYHA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第10節 | Huang Yunsong | Han Yizhou | B+R | 2019-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nKw4wtN6D1Wjg3uT1V5KzQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第9節 | Huang Yunsong | missing | W+R | 2019-07-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lgau%2FAx2AfyV7DLwckm%2BFg%3D%3D) | 
-| 第21期阿含・桐山杯中国早碁オープン戦16強戦 | Huang Yunsong | Ke Jie | W+R | 2019-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LQ1biuQKbXSa9KRDbRD%2BAA%3D%3D) | 
-| 第4回夢百合杯統合予選決勝 | Lee Donghoon | Huang Yunsong | W+R | 2019-05-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=efQF4elubgeMdpJIzt7WjQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第4節 | Huang Yunsong | Liao Xingwen | W+R | 2019-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lkWqFfCGDKnMmE5b3s8fYA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第3節 | Gu Lingyi | Huang Yunsong | W+¼ | 2019-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SGtROsmT2sN2ctL5%2BLOOwA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第2節 | Huang Yunsong | Tu Xiaoyu | W+R | 2019-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CRSHlXQsPMHIHhooGgHnTg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第1節江蘇-拉薩 | Huang Yunsong | Zhou Ruiyang | W+R | 2019-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rV09nb9G1GecaZW89XMXQQ%3D%3D) | 
-| 第24回LG杯統合予選2回戦 | Na Hyun | Huang Yunsong | B+R | 2019-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F8Zn7PLDXsiWgvHV46Sg8g%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦1回戦 | Xu Jiayang | Huang Yunsong | B+R | 2019-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TiKRIzFd5PzO%2BT6jufcUpg%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦2回戦 | Huang Yunsong | missing | W+R | 2019-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uQjsugGCwKWhY4DNmXXVNw%3D%3D) | 
-| 2019年韓中囲碁リーグチャンピオンズカップ第2戦 | Choi Cheolhan | Huang Yunsong | W+R | 2019-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wnyxBDqrkjj8JkoxiHSCSQ%3D%3D) | 
-| 2019年韓中囲碁リーグチャンピオンズカップ第1戦 | missing | Huang Yunsong | W+R | 2019-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ADqN6mGjKnDyDacl%2FwB2ng%3D%3D) | 
-| 第33期中国囲碁天元戦予選 | Liao Yuanhe | Huang Yunsong | B+R | 2019-01-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RKsToMBU98Rc3sgb%2BbT97A%3D%3D) | 
-| 第4期洛陽白雲山杯中国棋聖戦資格戦 | Xie Ke | Huang Yunsong | B+R | 2018-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gqiu6hquBn8E02zLVHmYtw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第26節江蘇-民生 | Tao Xinran | Huang Yunsong | W+1¼ | 2018-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dTQYhEqK%2BstxhbUD2H0NqQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第25節蘇泊爾-江蘇 | Xie Ke | Huang Yunsong | W+¼ | 2018-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WLNX%2F9aXxkDrkzKm%2FqYSgA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第24節杭州-江蘇 | Xia Chenkun | Huang Yunsong | W+R | 2018-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wOgMkYW6gJRe2iVwKcg88Q%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第23節江蘇-浙江 | Li Zhe | Huang Yunsong | W+R | 2018-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iCr%2B9mBeJnGyxZlbYqog3Q%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第22節江西-江蘇 | Yang Kaiwen | Huang Yunsong | W+R | 2018-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HSc5JTL%2FT8wMXBVw9VM2vg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第21節江蘇-成都 | Huang Yunsong | Gu Lingyi | B+¾ | 2018-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=liUizGUuyVRm9hJ%2Fwg7aAw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第20節重慶-江蘇 | Gu Li | Huang Yunsong | B+R | 2018-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EpXqcke3SARTKuiaY9p2xA%3D%3D) | 
-| 第14期威孚房開杯棋王戦32強戦 | Huang Yunsong | Gu Zihao | W+R | 2018-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eomyL5Pl2o4alrXz%2F8LNVg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第19節江蘇-中信 | Huang Yunsong | Han Yizhou | W+R | 2018-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vWoLGzeZNOtFeQeW11cv0w%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第18節天津-江蘇 | Wang Zejin | Huang Yunsong | B+R | 2018-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TjYJPHikuTsi8lK8adbVXg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第17節江蘇-廈門 | Huang Yunsong | Zhou Ruiyang | W+R | 2018-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=67d183vPnQeKTa9WiFj%2Bgw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第16節上海-江蘇 | Liao Xingwen | Huang Yunsong | B+R | 2018-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GmZ36F3%2FyjEbc%2BLRimTcEg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第15節江蘇-山東 | Jiang Weijie | Huang Yunsong | B+R | 2018-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AJ%2BZKk5Q2GoOrbAa%2Bh0ldA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第14節衢州-江蘇 | Huang Xin | Huang Yunsong | W+R | 2018-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zfRjQM6EYwkrM30AqdU5hQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第13節民生-江蘇 | Tao Xinran | Huang Yunsong | W+R | 2018-08-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pfJT8AlwULx0FVezI%2Bjqew%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第12節江蘇-蘇泊爾 | Lian Xiao | Huang Yunsong | W+R | 2018-08-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nT2DN%2BdWts9lVufBcweHqg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第11節江蘇-杭州 | Wu Guangya | Huang Yunsong | B+R | 2018-08-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G6Fh6y2LyI2irelKKAkWHg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第10節浙江-江蘇 | Qin Yuexin | Huang Yunsong | W+R | 2018-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eL7zu3BwCOYa3qeL7rq81g%3D%3D) | 
-| 第23回三星火災杯統合予選決勝 | Huang Yunsong | Shin Minjun | W+R | 2018-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ki%2Bt3XRvZmDeE%2BfQPi5Ahg%3D%3D) | 
-| 第23回三星火災杯統合予選2回戦 | Huang Yunsong | Han Taehee | B+R | 2018-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z229%2BNYgMGhxH1pW8feqgA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第9節江蘇-江西 | Huang Yunsong | Li Xiangyu | W+R | 2018-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LKhNFbO8GmZbhxesRgF1AA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第8節成都-江蘇 | missing | Huang Yunsong | W+R | 2018-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OdOJUIc5OJJFfDsIGcuVsg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第7節江蘇-重慶 | Huang Yunsong | Gu Li | B+1¾ | 2018-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=96WtjwckZaOwJNhkcj%2BVhw%3D%3D) | 
-| 嫘祖杯第31回中国囲棋名人戦16強戦 | Yang Dingxin | Huang Yunsong | B+R | 2018-05-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g0oPx1iY7c3QGuXUnoNxJA%3D%3D) | 
-| 嫘祖杯第31回中国囲棋名人戦32強戦 | Tang Weixing | Huang Yunsong | W+¼ | 2018-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=olkl75F%2Bn%2FdIG4G5KJiZJg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第6節中信-江蘇 | Kim Myounghoon | Huang Yunsong | W+R | 2018-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xgHMYun%2BnemSngf4yeRlAw%3D%3D) | 
-| 第7回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Fan Tingyu | Huang Yunsong | B+R | 2018-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b75fge4qo%2FAQbPQtnbrN1w%3D%3D) | 
-| 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Zhang Tao | Huang Yunsong | W+R | 2018-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FA5kXO%2BzKChbW0pLENZnQw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第5節江蘇-天津 | Huang Yunsong | Meng Tailing | W+R | 2018-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ClSJoFETIVBmkLB8NFQCcg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第4節廈門-江蘇 | Zhou Ruiyang | Huang Yunsong | B+R | 2018-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g094jclnS85Kme%2FvRIAtlA%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yunsong | Lian Xiao | W+R | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vDSNbnp1hQvU7h%2Fco0OFgg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第3節江蘇-上海 | Huang Yunsong | Li Weiqing | W+R | 2018-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U9baKBxqk21gor%2FIGwPBLA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第2節山東-江蘇 | Yi Lingtao | Huang Yunsong | W+R | 2018-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=raGTIccWaKAOxiaQyaEs%2Fw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第1節江蘇-衢州 | Huang Yunsong | missing | B+R | 2018-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VkEdzZ80ZhEtxFllxp6M%2BQ%3D%3D) | 
-| 第32期中国囲碁天元戦2回戦 | Huang Yunsong | Han Yizhou | W+0.5 | 2018-01-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ha1SXrx6zVvg2mfQmQpr%2FA%3D%3D) | 
-| 第32期中国囲碁天元戦1回戦 | Tang Weixing | Huang Yunsong | W+R | 2018-01-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rOdt99eZ5Vawo8RJ%2BMTyPQ%3D%3D) | 
-| 第32期中国囲碁天元戦予選 | Huang Yunsong | Yu Zhiying | B+R | 2018-01-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jo670ZW6dMaezTe7EfNwyw%3D%3D) | 
-| 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Yang Dingxin | Huang Yunsong | B+R | 2018-01-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pkPvuoLRB%2BJSYi5hldYABg%3D%3D) | 
-| 第3期洛陽白雲山杯中国棋聖戦資格戦1 | Huang Yunsong | Han Yizhou | B+R | 2018-01-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dj5Z1jku6JKvBPmWub%2B8gQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第26節 | Yi Lingtao | Huang Yunsong | W+R | 2017-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QUXvMOu0UMSzjarK3HJ1Zw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第25節 | Xie He | Huang Yunsong | W+R | 2017-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FpXKp4u8ibo7Ayc3qYqk5Q%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第24節 | An Dongxu | Huang Yunsong | W+2¼ | 2017-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mn8%2FHht0LYXoAeBtsMi61w%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第23節 | Huang Yunsong | Li Xuanhao | W+R | 2017-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jVkna0zQtJkEoR7ZcqUQcA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第22節 | Huang Yunsong | Li Qincheng | W+R | 2017-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AcuUB3pQfnEjZBx2lUPWsg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第21節 | Gu Lingyi | Huang Yunsong | W+R | 2017-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Ab7Rm2oeU6U4EHToLJ7cg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第20節 | Huang Yunsong | Ding Shixiong | W+R | 2017-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I5bU4kLp7eh6KmZNLm%2Bgkw%3D%3D) | 
-| 2017年利民杯世界囲碁星鋭最強戦1回戦 | Xie Erhao | Huang Yunsong | B+3.5 | 2017-10-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZtjwmzJsqrMwbFCIr9kyCA%3D%3D) | 
-| 第13期威孚房開杯棋王戦32強戦 | Huang Yunsong | Tang Weixing | W+R | 2017-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d2ipy479EyT75NcvMiimqA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第19節 | Huang Yunsong | Meng Tailing | B+R | 2017-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FAw9owFdmWFaAsk%2BrnEPLw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第18節 | Huang Yunsong | Li Weiqing | W+R | 2017-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=klwl%2BZGAmd0io%2BOEcDIQ5Q%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第17節 | missing | Huang Yunsong | B+R | 2017-09-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IPAdF2s%2BORfJCgc2FUUhbA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第16節 | Huang Yunsong | Jiang Weijie | B+R | 2017-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0a32R4GnWbadzjAhd9ZafQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第15節 | Ke Jie | Huang Yunsong | B+R | 2017-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a0G9NZxUvQJYGTLdyFcX0g%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第14節 | Xu Jiayang | Huang Yunsong | B+R | 2017-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mucjPlN%2FbXknJu4GPDzLfA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第13節 | Shin Minjun | Huang Yunsong | W+R | 2017-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OpGn9QSZ%2Fg65sUMbqE1q3w%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第12節 | Huang Yunsong | Li Xiangyu | B+R | 2017-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FgFWSJfqAE2xXVX0%2Fd%2BrJg%3D%3D) | 
-| 第30期中国囲碁名人戦1回戦 | Huang Yunsong | Yang Kaiwen | W+R | 2017-08-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DDyxqtEtOkgGySaau1lGGg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第11節 | Wang Haoyang | Huang Yunsong | W+2.5 | 2017-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u19mN96LibldqtOC55y19Q%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第10節 | Huang Yunsong | Gu Li | W+R | 2017-07-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YPA%2FNWTaZos31Fbf2T6vfw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第9節 | Huang Yunsong | Lian Xiao | W+R | 2017-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aPPQECimahjxC6Zrl8qSsw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第8節 | Huang Yunsong | Dang Yifei | B+R | 2017-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FTFa5zvAUi4LVHpBaEMwkQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第7節 | Ding Shixiong | Huang Yunsong | W+R | 2017-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ePHjWLE5VZRVGnWGLGbi3w%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第6節 | Huang Yunsong | Meng Tailing | B+1.5 | 2017-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uHZeqbgrWtN%2FR2m3yCjoiA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第5節 | Huang Yunsong | An Sungjoon | B+R | 2017-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L6OEWTgAphtpEvJzVFJfsQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第4節 | Liao Xingwen | Huang Yunsong | B+R | 2017-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e1Iwd4xKu24k%2Fm0tBuMcXQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第3節 | Huang Yunsong | Fan Tingyu | W+R | 2017-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QXEKGFr7L0i%2FeVDH%2BUOqwA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第2節 | Kang Dongyun | Huang Yunsong | W+R | 2017-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rTMnFK%2BYg4ui6gwfbIRWug%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第1節 | Huang Yunsong | Xu Jiayang | W+R | 2017-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DcJXMdaE4EanbnRelWM54w%3D%3D) | 
-| 第4回グロービス杯世界囲碁U-20準々決勝 | Ichiriki Ryo | Huang Yunsong | B+R | 2017-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pybnAyNXtalUdKw%2B2LhIBQ%3D%3D) | 
-| 第4回グロービス杯世界囲碁U-20グループリーグB | Huang Yunsong | missing | B+R | 2017-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gUKEGB8wf1rApR0dVmg1tw%3D%3D) | 
-| 第4回グロービス杯世界囲碁U-20グループリーグB | Shin Jinseo | Huang Yunsong | W+R | 2017-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WLl%2Fbtto9B6xDjtoigALyQ%3D%3D) | 
-| 第19期中国阿含桐山杯本選3回戦 | Huang Yunsong | Liao Yuanhe | W+R | 2017-04-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hM88YX%2BSmYPiCD3w%2BxH9lA%3D%3D) | 
-| 世界第三期Mlily夢百合杯予選決勝 | Huang Yunsong | Lee Jihyun | W+R | 2017-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MRdjzcqxNzIUyB1WwzQ%2FyQ%3D%3D) | 
-| 第31期中国囲碁天元戦1回戦 | Huang Yunsong | Hu Yaoyu | W+R | 2017-01-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JrlrHxuAIJKtJ2x1Kg7FSA%3D%3D) | 
-| 嫘祖杯第29期中国名人戦準決勝 | Huang Yunsong | Mi Yuting | W+R | 2017-01-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JV88MFJotMT9pyCm1aUz%2BQ%3D%3D) | 
-| Alphago Online Series on Tygem and Fox 53 | missing | Huang Yunsong | B+R | 2017-01-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aXcuw5btZ8U9u%2BOmt5ugZg%3D%3D) | 
-| 2016年利民杯世界囲碁星鋭最強戦準決勝 | Huang Yunsong | Mi Yuting | W+R | 2017-01-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jW%2FQqUI0TF3qG%2BxmbzAR%2Fg%3D%3D) | 
-| 2016年利民杯世界囲碁星鋭最強戦3回戦 | Yang Dingxin | Huang Yunsong | W+R | 2017-01-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y9CtC5UOb1T%2FO23kzzynNQ%3D%3D) | 
-| 2016年利民杯世界囲碁星鋭最強戦2回戦 | Huang Yunsong | He Yuhan | B+R | 2017-01-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4OYtFazdMgaH5LO1WXqcYg%3D%3D) | 
-| 2016年利民杯世界囲碁星鋭最強戦1回戦 | missing | Huang Yunsong | W+R | 2016-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VRmG1e55G%2BQLbCVMfjvNIA%3D%3D) | 
-| 嫘祖杯第29期中国名人戦16強戦 | Huang Yunsong | Tong Mengcheng | B+R | 2016-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FkL26TPBIc0RhGre8d5mUg%3D%3D) | 
-| 嫘祖杯第29期中国名人戦32強戦 | Mao Ruilong | Huang Yunsong | W+R | 2016-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NQSmIjBGgdQPyY4RoTsmOg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第22節 | Shi Yue | Huang Yunsong | B+R | 2016-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9HY785VyI7Z44lkdcpypEA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第21節 | Fan Tingyu | Huang Yunsong | B+R | 2016-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R%2FL4o7GelP35Be8TSXUNmA%3D%3D) | 
-| 第8期中国竜星戦予選 | Huang Yunsong | Zhao Chenyu | B+R | 2016-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2xGQCGkxXdAVmdfOJIa5iQ%3D%3D) | 
-| 第8期中国竜星戦予選 | Yang Dingxin | Huang Yunsong | B+R | 2016-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OVoa2TAHOBGdxPEK9Mwh1w%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第20節 | Huang Yunsong | missing | B+3.5 | 2016-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6FQIO7UtpqHfTscHFAc07A%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第19節 | Huang Yunsong | Chen Yaoye | W+R | 2016-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z6riZYp3wKiJSpljuAxHzg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第18節 | Wu Guangya | Huang Yunsong | B+R | 2016-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X%2B7ZFr7SnnHkUYmqOV7pdg%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦2回戦 | Shin Jinseo | Huang Yunsong | B+3.5 | 2016-11-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BERIgi4vv2PviAxPIClhMQ%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦1回戦 | Huang Yunsong | Hu Yaoyu | B+R | 2016-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XYBfqVwC38p12Sp4PSRq7A%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第17節 | Gu Lingyi | Huang Yunsong | B+R | 2016-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VvEdrWNyPSC8%2Bqw3Vno%2Fdw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第16節 | Huang Yunsong | Ding Hao | B+R | 2016-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YuK7JRanyXXXhweCbJF63Q%3D%3D) | 
-| 第12期中国威孚房開杯決勝 | Mi Yuting | Huang Yunsong | W+R | 2016-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pcTbhzS8BWFDcOMehcGSgQ%3D%3D) | 
-| 第12期中国威孚房開杯準決勝 | Huang Yunsong | Jiang Weijie | B+1.5 | 2016-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DZ28c2isiCETh4IGYjZ%2FuQ%3D%3D) | 
-| 第12期威孚房開杯中国囲棋争覇戦8強戦 | Tan Xiao | Huang Yunsong | W+R | 2016-10-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W4%2FrgQmwwsxkXBuXjlu3oQ%3D%3D) | 
-| 第3回おかげ杯国際精鋭囲碁対抗戦第3戦 | Xiao Zhenghao | Huang Yunsong | W+R | 2016-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B%2BiRMZzrJd3W0IItXW9OCA%3D%3D) | 
-| 第3回おかげ杯国際精鋭囲碁対抗戦決勝 | Park Minkyu | Huang Yunsong | W+R | 2016-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d%2Fze%2BHJBz7jdu8CnKwTnQA%3D%3D) | 
-| 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Lee Donghoon | Huang Yunsong | W+R | 2016-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EtDNkFKLKk45u23yxFQSsg%3D%3D) | 
-| 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Ida Atsushi | Huang Yunsong | B+2.5 | 2016-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XDJWr0HRr747QTOky6%2FP4w%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第15節 | Meng Tailing | Huang Yunsong | B+R | 2016-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jL%2BBqBlblQamT2%2Ba16R2pQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第14節 | Huang Yunsong | Kim Jiseok | W+R | 2016-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v5ff8ns6JsEdCIydnUtcWA%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Huang Yunsong | Ida Atsushi | B+R | 2016-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GOUdjPVSkEj5hoRx3stbHg%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | An Sungjoon | Huang Yunsong | W+1.5 | 2016-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zKirPfU%2BrA75vSHIxbxBlQ%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Huang Yunsong | Wang Yuanjun | B+R | 2016-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FwYrDxcij%2FI9ZXru5zLVpg%3D%3D) | 
-| 2016金立杯囲棋甲級リーグ戦聯戦第13R | Tan Xiao | Huang Yunsong | W+R | 2016-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vlm2CAtHJchy17v%2FY%2Fi%2Baw%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦F2 | Park Junghwan | Huang Yunsong | B+R | 2016-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VEry9ABWWKwpp3PKIMbwwg%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦F1 | Xia Chenkun | Huang Yunsong | B+0.5 | 2016-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XJk4p%2F99%2BsCbG8S4WVtdtQ%3D%3D) | 
-| 第12期威孚房開杯棋王戦2回戦 | Ke Jie | Huang Yunsong | W+R | 2016-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ievrxmPiPdO79rAgij%2BkQw%3D%3D) | 
-| 第12期威孚房開杯棋王戦1回戦 | Huang Yunsong | Tang Weixing | B+R | 2016-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EcHcpQqbsAZlf78LJf6mDA%3D%3D) | 
-| 第18期阿含・桐山杯中国早碁オープン戦準決勝 | Huang Yunsong | Ke Jie | W+R | 2016-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AwfegcuTeLRoyyT4gOfjMg%3D%3D) | 
-| 第21回三星火災杯統合予選決勝 | Huang Yunsong | missing | B+R | 2016-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F68RCASaEPR1Bf9Sr577zw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第11節 | Tao Xinran | Huang Yunsong | W+R | 2016-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1wL3ll3LjRZs16PnWd%2BC7g%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第10節 | Huang Yunsong | Jiang Weijie | W+R | 2016-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m8ekHUhDu73sbDXxr%2FUkhA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第9節 | missing | Huang Yunsong | W+R | 2016-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QLC9clc70lkst0OdTYw6eQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第8節 | Huang Yunsong | Zhong Wenjing | B+R | 2016-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gXkM162bOGiZbQyaquK8Hg%3D%3D) | 
-| 第18期阿含・桐山杯中国早碁オープン戦2回戦 | Xia Chenkun | Huang Yunsong | W+R | 2016-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VF7ejgKMPQzE%2FBDpk%2FmA%2Fg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第7節 | Li Qincheng | Huang Yunsong | W+R | 2016-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q%2BSNCfXCyxCKn0KLjOuGWA%3D%3D) | 
-| 2016CCTV杯中国囲棋電視快棋戦2回戦 | Huang Yunsong | Tong Mengcheng | W+R | 2016-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ABTQAdQmzMH25D2VCKXmJA%3D%3D) | 
-| 2016CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yunsong | Xie He | B+R | 2016-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wv0oGrac3gRNtg0o2UMy5Q%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦予選 | Weon Seongjin | Huang Yunsong | W+R | 2016-05-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BcatLkHvU1I%2Fg1%2F3ZrYkWg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第6節 | missing | Huang Yunsong | W+R | 2016-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jpI%2BNFM4hTJ%2FzsNtMa%2B76Q%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Huang Yunsong | Ke Jie | W+R | 2016-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dkwWJLNaLt55Diem%2B11tdw%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Chen Zijian | Huang Yunsong | W+R | 2016-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zNPar85lRksZ9yTa8NMPrQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第5節 | Xie Ke | Huang Yunsong | B+R | 2016-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pTZtVY15U6w3mZG7cbHbpA%3D%3D) | 
-| 第18期阿含・桐山杯中国早碁オープン戦1回戦 | Huang Yunsong | Wu Guangya | B+R | 2016-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YolnLH5nE82c%2FJUlWqLgFA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第4節 | Huang Yunsong | Xie Erhao | W+R | 2016-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1ZMzZC89WifeZgXLOYkUOg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第3節 | Huang Yunsong | Zhang Tao | B+R | 2016-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fsvj6xSEDI117Oxq1t2kxg%3D%3D) | 
-| 第8回応氏杯世界選手権2回戦 | Huang Yunsong | Park Junghwan | W+R | 2016-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=46s6Ol6EP3dKJjZPIIkt8A%3D%3D) | 
-| 第8回応氏杯世界選手権1回戦 | Huang Yunsong | So Yokoku | B+R | 2016-04-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gt9py2Z93zVfK3Tw8PzOhA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第2節 | Wang Xi | Huang Yunsong | W+R | 2016-04-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7QZMO%2BXowvJjiALDtqTeiA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第1節 | Huang Yunsong | Fan Yin | B+R | 2016-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wrJxHXIk1oVt29rNwggCXg%3D%3D) | 
-| 第21回LG杯予選 | Huang Yunsong | Cho Hanseung | B+1.5 | 2016-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6NQ70fNYwiNlY9vZzEaiqw%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Zhou Ruiyang | Huang Yunsong | B+R | 2016-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=axoPTEu0Sx2ovTHFyXJ7Yg%3D%3D) | 
-| 第7期中国竜星戦準決勝 | Huang Yunsong | Chen Yaoye | W+R | 2016-01-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mofMsSi8oLE9ti62EVICCg%3D%3D) | 
-| 第7期中国竜星戦3回戦 | Gu Li | Huang Yunsong | W+R | 2016-01-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y7r7wzpsox2Wjx%2FW%2FX6zew%3D%3D) | 
-| 第30期中国囲碁天元戦1回戦 | Tong Mengcheng | Huang Yunsong | B+R | 2016-01-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N7eDnxDryfmNu40GxvCtgg%3D%3D) | 
-| 第17回阿含・桐山杯日中決戦 | Huang Yunsong | Iyama Yuta | W+R | 2015-12-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=40%2BLPkPuPMgOF%2Fa9IIa2Ew%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第22節 | Yang Dingxin | Huang Yunsong | W+0.5 | 2015-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zny5HfAFdH0tBeFXhjRQaQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第21節 | Qiu Jun | Huang Yunsong | W+R | 2015-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gdaCY8rs2fpCgDENMevGDA%3D%3D) | 
-| 2015年利民杯世界囲碁星鋭最強戦3回戦 | Huang Yunsong | Ke Jie | W+R | 2015-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NGc1K02bLg%2FoZEmwRkOzmQ%3D%3D) | 
-| 2015年利民杯世界囲碁星鋭最強戦2回戦 | Shin Minjun | Huang Yunsong | W+R | 2015-11-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YVqvAbLedV6d%2FBPdauezMA%3D%3D) | 
-| 2015年利民杯世界囲碁星鋭最強戦1回戦 | Huang Yunsong | missing | B+R | 2015-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CCt7DRnZH09FGDUd51wwaQ%3D%3D) | 
-| 第17期阿含・桐山杯中国早碁オープン戦決勝 | Chen Yaoye | Huang Yunsong | W+R | 2015-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w2V8WpcTQZ33Uo3R79yevQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第20節 | Huang Yunsong | Zhou Hexi | B+1.5 | 2015-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b2bXKUJSltwuXOCU63T8Og%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第19節 | Li Qincheng | Huang Yunsong | B+R | 2015-11-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7sTAdc45nKkftwYtL106Dw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第18節 | Huang Yunsong | Tao Xinran | W+R | 2015-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EAAx%2ByyxUGFjZbbugifAWA%3D%3D) | 
-| 第7期中国竜星戦2回戦 | Ke Jie | Huang Yunsong | W+0.5 | 2015-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aA%2BuAB3LsQRaCOivYR0NLw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第17節 | Chen Hao | Huang Yunsong | W+R | 2015-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j13xhIlNBQzAka3SX1Yixw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第15節 | Huang Yunsong | missing | W+R | 2015-10-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nqXDq4fVFlmkOs9nUH8Myw%3D%3D) | 
-| 第11期威孚房開杯棋王戦1回戦 | Huang Yunsong | Gu Li | W+R | 2015-10-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DgO8Tx%2BGLQyyKl6NGR61jw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第16節 | Huang Yunsong | Liu Xing | B+R | 2015-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XfFaaBM2CHW%2F5is2kzTROw%3D%3D) | 
-| 第2回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Huang Yunsong | Lin Lixiang | B+R | 2015-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RUHTIcCejMEKlVHqnWQGZg%3D%3D) | 
-| 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Huang Yunsong | Yun Junsang | W+R | 2015-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Adz4rbRZfjbGuBPTPboQgg%3D%3D) | 
-| 第2回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhengqi | Huang Yunsong | W+R | 2015-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FTVNkjjvpyk6xsY6OqZvBg%3D%3D) | 
-| 第7期中国竜星戦1回戦 | Jiang Weijie | Huang Yunsong | W+R | 2015-09-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d4SZNGGaFIN%2F%2FnQ2ckeHGw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第14節 | Huang Yunsong | Liao Xingwen | B+R | 2015-09-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Upsj%2B2nzgvfGbdCa%2Famm5Q%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Liu Xing | Huang Yunsong | W+R | 2015-09-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BuSRGUy93h3fb2BcDWqlEw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第13節 | Yang Kaiwen | Huang Yunsong | W+R | 2015-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bv9wqzXD0mvDWXfMOeZnVQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第12節 | Huang Yunsong | Meng Tailing | B+R | 2015-09-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Afl07bKVkQdljdpqlwvfPQ%3D%3D) | 
-| 第17期阿含・桐山杯中国早碁オープン戦準決勝 | Huang Yunsong | Li Qincheng | B+R | 2015-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IuerbOwyyuySS2pN%2FnlpAQ%3D%3D) | 
-| 第20回三星火災杯統合予選決勝 | Huang Yunsong | Shin Minjun | W+5.5 | 2015-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cD7JdHMvCm963lXHNhuWDQ%3D%3D) | 
-| 第20回三星火災杯統合予選1回戦 | Lee Donghoon | Huang Yunsong | W+R | 2015-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VoCjtXhZEa8qqNLW%2BpuRhA%3D%3D) | 
-| 第7期中国竜星戦予選 | Zhou Heyang | Huang Yunsong | W+R | 2015-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d4CPPWc5EyxhjnG%2B1tgwJg%3D%3D) | 
-| 第17期阿含・桐山杯中国早碁オープン戦2回戦 | Qiu Jun | Huang Yunsong | W+R | 2015-07-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bFcvA%2FjAlVYq1rdgLC%2FTqQ%3D%3D) | 
-| 2015年中国段位戦 | Zhao Chenyu | Huang Yunsong | W+R | 2015-07-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GyRChkvnVubUR3eaxPt9rQ%3D%3D) | 
-| 2015年中国段位戦 | Rong Yi | Huang Yunsong | W+R | 2015-07-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rU6nVY4zVwFss7qWcHmHrA%3D%3D) | 
-| 2015年中国段位戦 | Huang Yunsong | missing | B+R | 2015-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VAaWZzGttGktj6X9%2BAMmQA%3D%3D) | 
-| 2015年中国段位戦 | Huang Yunsong | Qin Yuexin | B+R | 2015-07-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZJDmbJqRl8kt%2FB7UYyE4CQ%3D%3D) | 
-| 2015年中国段位戦 | missing | Huang Yunsong | B+1.5 | 2015-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fqFOWn8rwAaFgSy5Uwj79g%3D%3D) | 
-| 2015年中国段位戦 | Huang Yunsong | Cao Xiaoyang | B+R | 2015-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BDr5pmjTA2GgpPpIQpXWiQ%3D%3D) | 
-| 2015年中国段位戦 | Huang Yunsong | Chen Xian | W+R | 2015-07-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Ficm1M5WLQqb3kmj2msg9Q%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第11節 | Gu Li | Huang Yunsong | W+R | 2015-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F5IoydyhMKNqKA9kN15zrQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第10節 | Huang Yunsong | Chang Hao | W+R | 2015-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D7r1u7mvyk4urYgHJ%2FErsQ%3D%3D) | 
-| 第17期阿含・桐山杯中国早碁オープン戦1回戦 | Tang Weixing | Huang Yunsong | W+R | 2015-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dRaj1tZ20w6hph%2Fsqhz9hw%3D%3D) | 
-| 第7期中国竜星戦予選 | Shu Yixiao | Huang Yunsong | W+R | 2015-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=laoQLGFUu7qodd0%2FFTqIyw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第9節 | Huang Yunsong | Kim Jiseok | W+R | 2015-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=icxQh4R%2BMzpwe3zdeZBOfQ%3D%3D) | 
-| 第7期中国竜星戦予選 | Yin Hang | Huang Yunsong | W+R | 2015-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=70ydKylJ%2FDX4e3iUt234EA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第8節（再対局） | Wu Guangya | Huang Yunsong | W+R | 2015-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FB4TyvlMB%2FrpvC%2FsoD80bA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第8節 | Wu Guangya | Huang Yunsong | Void | 2015-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cNftZylET8dTVTd69dciUQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第7節 | Huang Yunsong | Tao Xinran | B+R | 2015-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pm3LoEtevR22qUg%2BpaZe5w%3D%3D) | 
-| 第28期中国囲碁名人戦2回戦 | Lian Xiao | Huang Yunsong | B+3.5 | 2015-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gPF97QJtwU6ifD9URORAAg%3D%3D) | 
-| 第20回LG杯朝鮮日報棋王戦1回戦 | Park Yeonghun | Huang Yunsong | B+R | 2015-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EmgQ6rN6%2BY%2FBZMazsLk0Bw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第6節 | Huang Yunsong | Jiang Weijie | W+R | 2015-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J%2BkxgeK1HERilciQHKfmqw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第5節 | Huang Yunsong | Mao Ruilong | W+R | 2015-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jdQaVdiJ35NNozI%2BueZ4qg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第4節 | Huang Yunsong | Han Yizhou | B+R | 2015-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NHsIuUFx1UL%2Bz5rK01ijBQ%3D%3D) | 
-| 第2回グロービス杯世界囲碁U-20決勝 | Na Hyun | Huang Yunsong | W+R | 2015-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xuQL3SieYq6BolvjZ20GRA%3D%3D) | 
-| 第2回グロービス杯世界囲碁U-20準決勝 | Lee Donghoon | Huang Yunsong | W+R | 2015-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dAItV9M4v8W%2FQ5uoMq8rBA%3D%3D) | 
-| 第2回グロービス杯世界囲碁U-20準々決勝 | Shin Jinseo | Huang Yunsong | W+R | 2015-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B00%2BpGoe4ss%2FmmgA%2F%2Flw7A%3D%3D) | 
-| 第2回グロービス杯世界囲碁U-20グループリーグA | Huang Yunsong | Yu Zhengqi | B+R | 2015-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M%2Bous2oMtp%2F%2Bb5aLpU8UOQ%3D%3D) | 
-| 第2回グロービス杯世界囲碁U-20グループリーグA | Ichiriki Ryo | Huang Yunsong | W+R | 2015-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HbGt4OjrGtYR6eGJ6WPz3Q%3D%3D) | 
-| 第28期中国囲碁名人戦1回戦 | Huang Yunsong | Xia Chenkun | B+R | 2015-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S2e6D1BvLg6Khfau2kWcMw%3D%3D) | 
-| 第28期中国囲碁名人戦予選 | Huang Yunsong | Zhu Yuanhao | B+R | 2015-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zG02tzYMKHWnt6GutFK2tw%3D%3D) | 
-| 第28期中国囲碁名人戦予選 | Huang Yunsong | missing | B+R | 2015-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u4M2eDtkrfIR38Ro1xqfUA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第2節 | Huang Yunsong | missing | B+R | 2015-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lWYZNifrhtzIuaY%2FKxUplw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第1節 | Huang Yunsong | Ke Jie | W+R | 2015-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B2f3oHdQl9KrzaJ%2BXfze%2Bg%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦1回戦 | Huang Yunsong | Shi Yue | W+R | 2015-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pu6pow8VogBC%2BIjm5NlGdQ%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦予選 | Huang Yunsong | Xie He | B+1 | 2015-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FBUekAFjUsiEVL%2Bw%2FqVH1g%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦予選 | Huang Yunsong | missing | B+R | 2015-03-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wBqbf41mdXIcvJt3ZHcXBA%3D%3D) | 
-| 第29期中国囲碁天元戦予選 | Huang Yunsong | Liu Xing | W+R | 2015-01-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1lcHKI9bLi8mrIDllL%2FqWg%3D%3D) | 
-| 第15期リコー杯囲碁戦1回戦 | Huang Yunsong | Mao Ruilong | W+R | 2014-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aGN73nOuCrXq3ORBZ9uSEQ%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦2回戦 | Huang Yunsong | Shin Jinseo | W+R | 2014-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QBhBm0DzP9Lhc8PsHsusTg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第22節 | Huang Yunsong | Peng Liyao | W+R | 2014-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6fDNqzXZ0i4AWd9djfBgJw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第21節 | Huang Yunsong | Hu Yuhan | B+R | 2014-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h4kUh6S125JVAMNPUc780Q%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第20節 | Fan Tingyu | Huang Yunsong | B+R | 2014-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z8ewu0yg%2Fxe4eY7QSKE3tw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第19節 | Tan Xiao | Huang Yunsong | W+0.5 | 2014-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=win%2Br8sjSVmyJuvFCotM4Q%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第18節 | Huang Yunsong | Hu Yaoyu | B+R | 2014-10-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1yv6aTwrQOUJ1KKYhi1u7A%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第17節 | Xie He | Huang Yunsong | W+R | 2014-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BD9ZyqxBiqD5w6YJrrF1%2BQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第16節 | Huang Yunsong | missing | W+R | 2014-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=soPSaybhgWsaIJlYVV%2BdIQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第15節 | Huang Yunsong | Wang Haoyang | B+R | 2014-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e5YeorKnX4IBpcxaWVXDjg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第14節 | Huang Yunsong | missing | B+R | 2014-09-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=trHXZ4XErhGDyVAhQ%2B94iw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第13節 | Huang Yunsong | Mao Ruilong | B+R | 2014-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3e7uOGoCpZePRkuoT5KCsA%3D%3D) | 
-| 第19回三星火災杯統合予選決勝 | Huang Yunsong | Lian Xiao | W+R | 2014-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3hPlZHnTzYA%2FMvvKG7KhZg%3D%3D) | 
-| 第16期阿含・桐山杯中国早碁オープン戦予選 | Huang Yunsong | Niu Yutian | W+R | 2014-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nWxQXj%2FS%2BAVPamnuwwKs8Q%3D%3D) | 
-| 第16期阿含・桐山杯中国早碁オープン戦予選 | Huang Yunsong | Bai Baoxiang | B+R | 2014-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eCtii5BI%2BW%2FaArHadougpQ%3D%3D) | 
-| 第6期中国竜星戦予選 | Huang Yunsong | Qin Yuexin | W+4.5 | 2014-06-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GYxzTyiWr5Kz9elXKxHStw%3D%3D) | 
-| 第6期中国竜星戦予選 | Huang Yunsong | Chen Xian | B+R | 2014-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pDywTNY97fEQwtgsOdx1%2Fg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第7節 | Huang Yunsong | Chang Hao | W+R | 2014-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=INx0DZNkQLnE40EQchTo7g%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第5節 | Niu Yutian | Huang Yunsong | B+R | 2014-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RYQSDVhPoqmaDl%2F%2FuMYtMQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第2節 | Huang Yunsong | Mao Ruilong | W+R | 2014-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6GzBOIwgxjRdKuCXcaN%2FWw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第1節 | Huang Yunsong | Ke Jie | W+R | 2014-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oGiKFryaEvm1QhWTFeaJ5Q%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yunsong | Lian Xiao | W+R | 2014-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E6hyKEfNKUx3azEKONIRtA%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Byun Sangil | Huang Yunsong | W+R | 2014-05-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iz4h3RFKXmtJ8FbfkQvXcQ%3D%3D) | 
-| 第19回LG杯予選 | Jin Siyoung | Huang Yunsong | B+R | 2014-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hviNCh2OKsFkQRoAzuxzMQ%3D%3D) | 
-| 第5回衢州・爛柯杯中国囲棋冠軍戦予選 | Huang Yunsong | Yang Kaiwen | W+R | 2014-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VM8njHuVfKeNJdhVQ1lkcQ%3D%3D) | 
-| 第27期中国囲碁名人戦予選 | Huang Yunsong | Tong Yulin | W+R | 2014-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vyBu7QxKTLipnMcil1EDUA%3D%3D) | 
-| 第11期倡棋杯中国プロ囲碁選手権戦予選 | Huang Yunsong | Liao Xingwen | B+R | 2014-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qmfi%2BjzSpoPIqfznAzjYNg%3D%3D) | 
-| 第2回百霊杯世界オープン戦1回戦 | Huang Yunsong | Mi Yuting | W+R | 2014-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O8K6DmX%2BJ8u6Ltc1XOxxAw%3D%3D) | 
-| 第8期リコー杯新秀戦決勝 | missing | Huang Yunsong | W+R | 2014-02-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JDBdWxQRm0gAMoTivAVYCQ%3D%3D) | 
-| 第8期リコー杯新秀戦準決勝 | Huang Yunsong | Chen Xian | B+R | 2014-02-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M3DRqL%2FVQ5BlNSt9v4Ceig%3D%3D) | 
-| 第14期リコー杯囲碁戦4回戦 | Huang Yunsong | Wu Guangya | W+4.5 | 2014-02-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IJY0GFPSS%2BCKgVgQ6t2csw%3D%3D) | 
-| 第14期リコー杯囲碁戦3回戦 | Yang Dingxin | Huang Yunsong | W+0.5 | 2014-02-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hqNJMdj9t%2Fszg7xtfr2htA%3D%3D) | 
-| 第14期リコー杯囲碁戦2回戦 | Huang Yunsong | Tan Xiao | B+R | 2013-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y2zthpWzXZ1d54febup4cA%3D%3D) | 
-| 第14期リコー杯囲碁戦1回戦 | Zhou Hexi | Huang Yunsong | W+R | 2013-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XeIFefbzSVYW42I0%2BTk0qw%3D%3D) | 
-| 第8期リコー杯新秀戦2回戦 | Fan Yin | Huang Yunsong | W+4.5 | 2013-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dEPJWzRimIiY9OXPTxNTnQ%3D%3D) | 
-| 第8期リコー杯新秀戦1回戦 | Huang Yunsong | Zhao Chenyu | B+R | 2013-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QwqRQsgFypJAgw65NS7Qig%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第22節 | Huang Yunsong | Zhang Tao | B+R | 2013-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sk7Zui1D2uiAOF9YmBzfnA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第21節 | Huang Yunsong | Gu Li | B+R | 2013-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y9t7aBDdNtwWbVS%2B%2Fyd7FQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第20節 | Huang Yunsong | missing | W+R | 2013-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zjoj0AAp3%2FhXL1CQLrUzeQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第19節 | Huang Yunsong | Rong Yi | B+R | 2013-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FtDyd%2FGWFIK8RwEXIFU06w%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第18節 | Huang Yunsong | Li Zhe | B+R | 2013-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VcWr4hSokSAQsG9EvW7uqA%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦 | Sun Tengyu | Huang Yunsong | B+R | 2013-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6LPFOShJ4b47FwXrEbtjIQ%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦 | Huang Yunsong | Wu Guangya | W+4.5 | 2013-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XUhkNS%2BICewacg9yq6qxYA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第17節 | missing | Huang Yunsong | W+0.5 | 2013-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tbv1oIgY38XVrER2UAjj1g%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第16節 | Huang Yunsong | Kong Jie | W+R | 2013-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rBvXqc8d59NsHWrJczTwQA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第15節 | Fan Tingyu | Huang Yunsong | B+R | 2013-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BETPNYBoLBmfdxhQWao%2FOw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第14節 | Gong Yanyu | Huang Yunsong | W+R | 2013-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s9gaMVjiCwA9R2YlFcu2lA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第13節 | Huang Yunsong | Fan Yunruo | W+R | 2013-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CarV63NiZ9AV1ConT6kn%2FQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第12節 | missing | Huang Yunsong | W+R | 2013-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tSxyxIEoe%2B2Yp0LR15xicg%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第3ステージ | Huang Yunsong | Sun Li | B+5.5 | 2013-08-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dv6EExho7bOq4ndqQVLTIQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第10節 | Wang Xi | Huang Yunsong | B+R | 2013-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5aAWGcRO8YIWYxwSBKP9wg%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Huang Yunsong | Xia Chenkun | W+R | 2013-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3E%2F4wZq0AYIKrst8UKcG3A%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第9節 | Tao Xinran | Huang Yunsong | B+R | 2013-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MG2KFsp4d9HCHfnhTchErA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第8節 | Huang Yunsong | Park Yeonghun | W+R | 2013-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HG7XzO6F3s1lx6m4kEe4ww%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Huang Yunsong | Zhang Qiang | B+R | 2013-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7bh2rpVu3f22pA%2Fxe2e8kg%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Huang Yunsong | Zhou Heyang | W+R | 2013-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E16zufkM1ptl8ArJpYN1qQ%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Huang Yunsong | Jiang Weijie | B+R | 2013-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5XJBi4OGQypn2G06Xr1sCQ%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Wang Chenxing | Huang Yunsong | W+R | 2013-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F8ovFUE%2BB0wsDKHQt8QrHg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第7節 | Huang Yunsong | Piao Wenyao | W+R | 2013-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qEC%2Fg1CHKQIHRxverQHdpA%3D%3D) | 
-| 第10期倡棋杯中国プロ囲碁選手権戦1回戦 | Huang Yunsong | Fan Tingyu | W+R | 2013-05-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x5G7ITir0NfXUFnvZvvZaA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第6節 | Huang Yunsong | Lian Xiao | B+R | 2013-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AdVVWxIOTqkIPT%2B2omvIzw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第4節 | Cao Xiaoyang | Huang Yunsong | W+R | 2013-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SWnUol2e2t4lr3hsrhg%2FHw%3D%3D) | 
-| 第10期倡棋杯中国プロ囲碁選手権戦予選 | Huang Yunsong | Zhong Wenjing | B+1 | 2013-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BVPDb9N6ZysRFIZTRWxsVQ%3D%3D) | 
-| 第10期倡棋杯中国プロ囲碁選手権戦予選 | Huang Yunsong | Huang Chen | B+R | 2013-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=avCYFng21kmgP3TTNJ5Dtw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第3節 | Ding Wei | Huang Yunsong | W+R | 2013-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jr3pkbPFlAYA%2BIoAALFNdg%3D%3D) | 
-| 第26期中国囲碁名人戦1回戦 | Huang Yunsong | Gu Lingyi | W+R | 2013-04-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JWDFcTxAWrWbSfR%2FebonjQ%3D%3D) | 
-| 第26期中国囲碁名人戦予選 | Huang Yunsong | Rong Yi | B+R | 2013-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AGZu19xkAHyJLrdtK3r8Bw%3D%3D) | 
-| 第26期中国囲碁名人戦予選 | Tang Weixing | Huang Yunsong | W+R | 2013-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fRHeMNupH0nitbCv4jz3Rg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第1節 | Huang Yunsong | missing | W+R | 2013-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HfScX9d%2BMADpUMMtbZ1dYQ%3D%3D) | 
-| 第7期リコー杯新秀戦決勝 | Huang Yunsong | Li Qincheng | W+R | 2013-02-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hZlOt75W5i2hNKASyxhqeg%3D%3D) | 
-| 第7期リコー杯新秀戦準決勝 | Huang Xin | Huang Yunsong | W+R | 2013-02-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yqQPPN6lp95Wt0QHRzb%2FeQ%3D%3D) | 
-| 第27期中国囲碁天元戦1回戦 | Huang Yunsong | Zhou Ruiyang | W+R | 2013-01-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T7LEP5PYVBsMnhxpY84LMg%3D%3D) | 
-| 第27期中国囲碁天元戦予選 | Huang Yunsong | missing | B+R | 2013-01-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OPMNQ2jQaz4P7%2B7qkXdsWw%3D%3D) | 
-| 第13期リコー杯囲碁戦1回戦 | Huang Yunsong | Mao Ruilong | W+R | 2012-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZA2E6iUS%2FToPDVHFHLx1pA%3D%3D) | 
-| 第7期リコー杯新秀戦2回戦 | Huang Yunsong | Gong Yanyu | B+R | 2012-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t5GAd9AI8hvhN%2BkmBx5Asw%3D%3D) | 
-| 第7期リコー杯新秀戦1回戦 | Fan Yin | Huang Yunsong | W+R | 2012-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q37TDL%2Bs32gFZHGrXdzosg%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権2回戦 | Huang Yunsong | Tang Weixing | W+R | 2012-08-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WkdCKxQAdrDQcEg1UAxk7w%3D%3D) | 
-| 2012CCTV杯中国囲棋電視快棋戦1回戦 | missing | Huang Yunsong | B+R | 2012-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DgBSc1KKdXazACDRQ7bTdQ%3D%3D) | 
-| 第4回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Huang Yunsong | Shi Yue | W+R | 2012-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tIxRVLmj2I4KlsD%2B8N1x2Q%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦予選 | Tong Mengcheng | Huang Yunsong | B+R | 2012-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=00GvfhRRpp%2F7t9ZLLQqbng%3D%3D) | 
-| 第19期建橋杯中国囲碁新人王戦決勝三番勝負第2局 | Huang Yunsong | Fan Tingyu | W+R | 2012-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H6hnJG9wCUu9Ht%2B8KnyIWA%3D%3D) | 
-| 第19期建橋杯中国囲碁新人王戦決勝三番勝負第1局 | Fan Tingyu | Huang Yunsong | B+R | 2012-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uUoAEC7i0RfNPnGjkMcmOg%3D%3D) | 
-| 第25期中国囲碁名人戦予選 | Huang Yunsong | Ding Wei | B+R | 2012-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lfDrqaGlGLF8cZDGVtFLyQ%3D%3D) | 
-| 第19期建橋杯中国囲碁新人王戦準決勝 | Huang Yunsong | Fan Yunruo | B+R | 2012-03-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5GkWSgwFNbV2TKfZ%2BDfA%2FQ%3D%3D) | 
-| 第19期建橋杯中国囲碁新人王戦3回戦 | Zhou Hexi | Huang Yunsong | W+R | 2012-03-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m%2FFPF7OTJ%2BM8YnJP8Xnveg%3D%3D) | 
-| 第19期建橋杯中国囲碁新人王戦2回戦 | Song Ronghui | Huang Yunsong | W+R | 2012-03-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kDmBIlfIgguoHI4VWwybww%3D%3D) | 
-| 第19期建橋杯中国囲碁新人王戦1回戦 | Huang Yunsong | Liao Xingwen | B+R | 2012-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZqiDN96TWymriCl0TC8rsQ%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権1回戦 | Huang Yunsong | Hane Naoki | B+R | 2012-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=urSALCLQ8DtXgiUm3fMpbg%3D%3D) | 
-| 2011CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yunsong | Liao Xingwen | W+R | 2011-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DUFZlinyqeyN9MW%2FqDuL2Q%3D%3D) | 
-| 第11期リコー杯囲碁戦1回戦 | Yu Bin | Huang Yunsong | B+11.5 | 2010-12-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cyweDy1YJgxlVoSUI20sKA%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Lian Xiao | Lose | W+R | 7.5 | 3429 | -18 | 
+| 2021-05-12 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Huang Yunsong | Win | W+R | 7.5 | 3447 | 10 | 
+| 2021-05-11 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Ke Jie | Lose | W+R | 7.5 | 3437 | -3 | 
+| 2021-05-10 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Xu Haohong | Win | B+R | 7.5 | 3440 | 16 | 
+| 2021-05-08 | 第23回中国囲碁甲級リーグ | Li Chengsen | Huang Yunsong | Win | W+R | 7.5 | 3424 | 15 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Rong Yi | Lose | W+R | 7.5 | 3409 | -31 | 
+| 2021-04-22 | 第17回倡棋杯中国プロ囲碁選手権戦3回戦 | Lin Junyan | Huang Yunsong | Win | W+R | 7.5 | 3440 | 11 | 
+| 2021-04-20 | 第17回倡棋杯中国プロ囲碁選手権戦2回戦 | Huang Yunsong | Zhou Ruiyang | Win | B+5¾ | 7.5 | 3429 | -6 | 
+| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Tao Xinran | Huang Yunsong | Win | W+1¾ | 7.5 | 3435 | -79 | 
+| 2021-03-19 | 第35期中国囲碁天元戦1回戦 | Ke Jie | Huang Yunsong | Lose | B+R | 7.5 | 3514 | 0 | 
+| 2021-03-15 | 第35期中国囲碁天元戦予選 | Zhang Tao | Huang Yunsong | Win | W+1¼ | 7.5 | 3514 | -80 | 
+| 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Xie He | Win | B+R | 7.5 | 3594 | 10 | 
+| 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Gu Li | Huang Yunsong | Win | W+¼ | 7.5 | 3584 | 38 | 
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Zhou Ruiyang | Huang Yunsong | Win | W+R | 7.5 | 3546 | 18 | 
+| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Yi Lingtao | Win | B+2¾ | 7.5 | 3528 | -5 | 
+| 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Lee Donghoon | Lose | W+R | 7.5 | 3533 | -24 | 
+| 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Wu Guangya | Huang Yunsong | Win | W+R | 7.5 | 3557 | 37 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Huang Yunsong | Xie Erhao | Lose | W+R | 7.5 | 3520 | -14 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Dang Yifei | Huang Yunsong | Win | W+¼ | 7.5 | 3534 | 17 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Huang Yunsong | Ding Shixiong | Win | B+R | 7.5 | 3517 | 66 | 
+| 2020-12-09 | 第22回中国囲碁甲級リーグ | Chen Yichun | Huang Yunsong | Win | W+R | 7.5 | 3451 | 20 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Huang Yunsong | Byun Sangil | Lose | W+R | 7.5 | 3431 | -57 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Li Chengsen | Huang Yunsong | Lose | B+R | 7.5 | 3488 | -40 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Huang Yunsong | Shi Yue | Win | B+R | 7.5 | 3528 | 149 | 
+| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Huang Yunsong | Ding Hao | Lose | W+R | 7.5 | 3379 | -184 | 
+| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Gu Zihao | Huang Yunsong | Lose | B+R | 7.5 | 3563 | 15 | 
+| 2020-09-15 | 第25回三星火災杯中国一般枠予選 | Chen Yaoye | Huang Yunsong | Lose | B+R | 6.5 | 3548 | 11 | 
+| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Chen Yaoye | Huang Yunsong | Lose | B+R | 7.5 | 3537 | -25 | 
+| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 |  | Huang Yunsong | Win | W+R | 7.5 | 3562 | -8 | 
+| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Huang Yunsong | Xie Ke | Lose | W+R | 7.5 | 3570 | -26 | 
+| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Huang Yunsong | Lee Donghoon | Lose | W+R | 7.5 | 3596 | -17 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Huang Yunsong | Zhang Tao | Lose | W+R | 7.5 | 3613 | -24 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | He Yuhan | Huang Yunsong | Win | W+R | 7.5 | 3637 | 117 | 
+| 2020-01-05 | 第34期中国囲碁天元戦予選 | Huang Yunsong | Zhou Ruiyang | Win | B+R | 7.5 | 3520 | 38 | 
+| 2019-12-28 | 第5期洛陽白雲山杯中国棋聖戦予選 | Tong Mengcheng | Huang Yunsong | Lose | B+R | 7.5 | 3482 | 293 | 
+| 2019-12-15 | 第11期中国竜星戦予選 | Tuo Jiaxi | Huang Yunsong | Lose | B+R | 7.5 | 3189 | -18 | 
+| 2019-12-12 | 第21回中国囲碁甲級リーグ三位決定戦第3戦 | Huang Yunsong | Peng Liyao | Lose | W+R | 7.5 | 3207 | -22 | 
+| 2019-12-11 | 第21回中国囲碁甲級リーグ三位決定戦第2戦 | Huang Yunsong | Fan Yin | Lose | W+R | 7.5 | 3229 | -9 | 
+| 2019-12-09 | 第21回中国囲碁甲級リーグ三位決定戦第1戦 | Park Hamin | Huang Yunsong | Win | W+R | 7.5 | 3238 | -8 | 
+| 2019-11-17 | 第4回全国智力運動会男子団体戦第7戦 | He Yuhan | Huang Yunsong | Win | W+R | 7.5 | 3246 | 12 | 
+| 2019-11-16 | 第4回全国智力運動会男子団体戦第5戦 | Xie Ke | Huang Yunsong | Win | W+R | 7.5 | 3234 | 7 | 
+| 2019-11-14 | 第4回全国智力運動会男子団体戦第2戦 |  | Huang Yunsong | Win | W+R | 7.5 | 3227 | -12 | 
+| 2019-11-10 | 第4回全国智力運動会プロ男子個人早碁戦準決勝 | Lian Xiao | Huang Yunsong | Lose | B+R | 7.5 | 3239 | -19 | 
+| 2019-11-06 | 第21回中国囲碁甲級リーグプレーオフ3回戦第2戦 | Lian Xiao | Huang Yunsong | Win | W+R | 7.5 | 3258 | 22 | 
+| 2019-11-04 | 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 | Lian Xiao | Huang Yunsong | Win | W+R | 7.5 | 3236 | 54 | 
+| 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Huang Yunsong | Ding Hao | Lose | W+R | 6.5 | 3182 | 15 | 
+| 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Liao Yuanhe | Huang Yunsong | Win | W+R | 7.5 | 3167 | 19 | 
+| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Huang Yunsong | Dang Yifei | Win | B+R | 7.5 | 3148 | 68 | 
+| 2019-09-16 | 第21回中国囲碁甲級リーグプレーオフ1回戦第2戦 | Huang Yunsong | Jiang Qirun | Lose | W+R | 7.5 | 3080 | 0 | 
+| 2019-09-14 | 第21回中国囲碁甲級リーグプレーオフ1回戦第1戦 | Shen Peiran | Huang Yunsong | Win | W+R | 7.5 | 3080 | -5 | 
+| 2019-08-31 | 第24回三星火災杯世界囲碁マスターズ2回戦 | Huang Yunsong | Liao Yuanhe | Lose | W+R | 6.5 | 3085 | -7 | 
+| 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Huang Yunsong |  | Win | B+R | 6.5 | 3092 | 2 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Shen Peiran | Huang Yunsong | Win | W+R | 7.5 | 3090 | 12 | 
+| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Huang Yunsong | Tan Xiao | Win | B+R | 7.5 | 3078 | -99 | 
+| 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 |  | Huang Yunsong | Lose | B+R | 7.5 | 3177 | 18 | 
+| 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Huang Yunsong | Han Yizhou | Win | B+R | 7.5 | 3159 | 17 | 
+| 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Huang Yunsong |  | Lose | W+R | 7.5 | 3142 | -36 | 
+| 2019-06-27 | 第21期阿含・桐山杯中国早碁オープン戦16強戦 | Huang Yunsong | Ke Jie | Lose | W+R | 7.5 | 3178 | 110 | 
+| 2019-05-24 | 第4回夢百合杯統合予選決勝 | Lee Donghoon | Huang Yunsong | Win | W+R | 7.5 | 3068 | -47 | 
+| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Huang Yunsong | Liao Xingwen | Lose | W+R | 7.5 | 3115 | -7 | 
+| 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Gu Lingyi | Huang Yunsong | Win | W+¼ | 7.5 | 3122 | -20 | 
+| 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Huang Yunsong | Tu Xiaoyu | Lose | W+R | 7.5 | 3142 | -2 | 
+| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節江蘇-拉薩 | Huang Yunsong | Zhou Ruiyang | Lose | W+R | 7.5 | 3144 | 14 | 
+| 2019-04-02 | 第24回LG杯統合予選2回戦 | Na Hyun | Huang Yunsong | Lose | B+R | 6.5 | 3130 | 9 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Xu Jiayang | Huang Yunsong | Lose | B+R | 7.5 | 3121 | 4 | 
+| 2019-03-04 | 第16期倡棋杯中国プロ囲棋選手権戦2回戦 | Huang Yunsong |  | Lose | W+R | 7.5 | 3117 | -30 | 
+| 2019-02-17 | 2019年韓中囲碁リーグチャンピオンズカップ第2戦 | Choi Cheolhan | Huang Yunsong | Win | W+R | 6.5 | 3147 | 13 | 
+| 2019-02-16 | 2019年韓中囲碁リーグチャンピオンズカップ第1戦 |  | Huang Yunsong | Win | W+R | 6.5 | 3134 | -29 | 
+| 2019-01-03 | 第33期中国囲碁天元戦予選 | Liao Yuanhe | Huang Yunsong | Lose | B+R | 7.5 | 3163 | -14 | 
+| 2018-12-27 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Xie Ke | Huang Yunsong | Lose | B+R | 7.5 | 3177 | -16 | 
+| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節江蘇-民生 | Tao Xinran | Huang Yunsong | Win | W+1¼ | 7.5 | 3193 | 11 | 
+| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節蘇泊爾-江蘇 | Xie Ke | Huang Yunsong | Win | W+¼ | 7.5 | 3182 | -45 | 
+| 2018-11-16 | 第20回中国囲碁甲級リーグ第24節杭州-江蘇 | Xia Chenkun | Huang Yunsong | Win | W+R | 7.5 | 3227 | 24 | 
+| 2018-11-09 | 第20回中国囲碁甲級リーグ第23節江蘇-浙江 | Li Zhe | Huang Yunsong | Win | W+R | 7.5 | 3203 | 7 | 
+| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節江西-江蘇 | Yang Kaiwen | Huang Yunsong | Win | W+R | 7.5 | 3196 | 0 | 
+| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節江蘇-成都 | Huang Yunsong | Gu Lingyi | Win | B+¾ | 7.5 | 3196 | 13 | 
+| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節重慶-江蘇 | Gu Li | Huang Yunsong | Lose | B+R | 7.5 | 3183 | -4 | 
+| 2018-10-13 | 第14期威孚房開杯棋王戦32強戦 | Huang Yunsong | Gu Zihao | Lose | W+R | 7.5 | 3187 | -7 | 
+| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節江蘇-中信 | Huang Yunsong | Han Yizhou | Lose | W+R | 7.5 | 3194 | -3 | 
+| 2018-10-08 | 第20回中国囲碁甲級リーグ第18節天津-江蘇 | Wang Zejin | Huang Yunsong | Lose | B+R | 7.5 | 3197 | -21 | 
+| 2018-09-28 | 第20回中国囲碁甲級リーグ第17節江蘇-廈門 | Huang Yunsong | Zhou Ruiyang | Lose | W+R | 7.5 | 3218 | -9 | 
+| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節上海-江蘇 | Liao Xingwen | Huang Yunsong | Lose | B+R | 7.5 | 3227 | -23 | 
+| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節江蘇-山東 | Jiang Weijie | Huang Yunsong | Lose | B+R | 7.5 | 3250 | -7 | 
+| 2018-09-08 | 第20回中国囲碁甲級リーグ第14節衢州-江蘇 | Huang Xin | Huang Yunsong | Win | W+R | 7.5 | 3257 | -6 | 
+| 2018-08-15 | 第20回中国囲碁甲級リーグ第13節民生-江蘇 | Tao Xinran | Huang Yunsong | Win | W+R | 7.5 | 3263 | 5 | 
+| 2018-08-13 | 第20回中国囲碁甲級リーグ第12節江蘇-蘇泊爾 | Lian Xiao | Huang Yunsong | Win | W+R | 7.5 | 3258 | 42 | 
+| 2018-08-06 | 第20回中国囲碁甲級リーグ第11節江蘇-杭州 | Wu Guangya | Huang Yunsong | Lose | B+R | 7.5 | 3216 | -31 | 
+| 2018-07-16 | 第20回中国囲碁甲級リーグ第10節浙江-江蘇 | Qin Yuexin | Huang Yunsong | Win | W+R | 7.5 | 3247 | 12 | 
+| 2018-07-07 | 第23回三星火災杯統合予選決勝 | Huang Yunsong | Shin Minjun | Lose | W+R | 6.5 | 3235 | 0 | 
+| 2018-07-04 | 第23回三星火災杯統合予選2回戦 | Huang Yunsong | Han Taehee | Win | B+R | 6.5 | 3235 | 14 | 
+| 2018-06-25 | 第20回中国囲碁甲級リーグ第9節江蘇-江西 | Huang Yunsong | Li Xiangyu | Lose | W+R | 7.5 | 3221 | -59 | 
+| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節成都-江蘇 |  | Huang Yunsong | Win | W+R | 7.5 | 3280 | -43 | 
+| 2018-05-21 | 第20回中国囲碁甲級リーグ第7節江蘇-重慶 | Huang Yunsong | Gu Li | Win | B+1¾ | 7.5 | 3323 | 39 | 
+| 2018-05-17 | 嫘祖杯第31回中国囲棋名人戦16強戦 | Yang Dingxin | Huang Yunsong | Lose | B+R | 7.5 | 3284 | -6 | 
+| 2018-05-16 | 嫘祖杯第31回中国囲棋名人戦32強戦 | Tang Weixing | Huang Yunsong | Win | W+¼ | 7.5 | 3290 | -28 | 
+| 2018-05-14 | 第20回中国囲碁甲級リーグ第6節中信-江蘇 | Kim Myounghoon | Huang Yunsong | Win | W+R | 7.5 | 3318 | -12 | 
+| 2018-05-12 | 第7回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Fan Tingyu | Huang Yunsong | Lose | B+R | 7.5 | 3330 | 15 | 
+| 2018-05-11 | 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Zhang Tao | Huang Yunsong | Win | W+R | 7.5 | 3315 | -9 | 
+| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節江蘇-天津 | Huang Yunsong | Meng Tailing | Lose | W+R | 7.5 | 3324 | 21 | 
+| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節廈門-江蘇 | Zhou Ruiyang | Huang Yunsong | Lose | B+R | 7.5 | 3303 | -5 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yunsong | Lian Xiao | Lose | W+R | 7.5 | 3308 | 26 | 
+| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節江蘇-上海 | Huang Yunsong | Li Weiqing | Lose | W+R | 7.5 | 3282 | -32 | 
+| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節山東-江蘇 | Yi Lingtao | Huang Yunsong | Win | W+R | 7.5 | 3314 | -21 | 
+| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節江蘇-衢州 | Huang Yunsong |  | Win | B+R | 7.5 | 3335 | -13 | 
+| 2018-01-25 | 第32期中国囲碁天元戦2回戦 | Huang Yunsong | Han Yizhou | Lose | W+0.5 | 7.5 | 3348 | -5 | 
+| 2018-01-23 | 第32期中国囲碁天元戦1回戦 | Tang Weixing | Huang Yunsong | Win | W+R | 7.5 | 3353 | 14 | 
+| 2018-01-22 | 第32期中国囲碁天元戦予選 | Huang Yunsong | Yu Zhiying | Win | B+R | 7.5 | 3339 | 30 | 
+| 2018-01-08 | 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Yang Dingxin | Huang Yunsong | Lose | B+R | 7.5 | 3309 | -5 | 
+| 2018-01-07 | 第3期洛陽白雲山杯中国棋聖戦資格戦1 | Huang Yunsong | Han Yizhou | Win | B+R | 7.5 | 3314 | 18 | 
+| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Yi Lingtao | Huang Yunsong | Win | W+R | 7.5 | 3296 | 19 | 
+| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Xie He | Huang Yunsong | Win | W+R | 7.5 | 3277 | 8 | 
+| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | An Dongxu | Huang Yunsong | Win | W+2¼ | 7.5 | 3269 | 11 | 
+| 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Huang Yunsong | Li Xuanhao | Lose | W+R | 7.5 | 3258 | -23 | 
+| 2017-10-30 | 第19回中国囲碁甲級リーグ第22節 | Huang Yunsong | Li Qincheng | Lose | W+R | 7.5 | 3281 | -2 | 
+| 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Gu Lingyi | Huang Yunsong | Win | W+R | 7.5 | 3283 | -5 | 
+| 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Huang Yunsong | Ding Shixiong | Lose | W+R | 7.5 | 3288 | -15 | 
+| 2017-10-14 | 2017年利民杯世界囲碁星鋭最強戦1回戦 | Xie Erhao | Huang Yunsong | Lose | B+3.5 | 7.5 | 3303 | 25 | 
+| 2017-10-10 | 第13期威孚房開杯棋王戦32強戦 | Huang Yunsong | Tang Weixing | Lose | W+R | 7.5 | 3278 | -26 | 
+| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Huang Yunsong | Meng Tailing | Win | B+R | 7.5 | 3304 | 8 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Huang Yunsong | Li Weiqing | Lose | W+R | 7.5 | 3296 | 15 | 
+| 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 |  | Huang Yunsong | Lose | B+R | 7.5 | 3281 | 0 | 
+| 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Huang Yunsong | Jiang Weijie | Win | B+R | 7.5 | 3281 | 2 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Ke Jie | Huang Yunsong | Lose | B+R | 7.5 | 3279 | -13 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Xu Jiayang | Huang Yunsong | Lose | B+R | 7.5 | 3292 | -3 | 
+| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Shin Minjun | Huang Yunsong | Win | W+R | 7.5 | 3295 | 6 | 
+| 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Huang Yunsong | Li Xiangyu | Win | B+R | 7.5 | 3289 | 7 | 
+| 2017-08-03 | 第30期中国囲碁名人戦1回戦 | Huang Yunsong | Yang Kaiwen | Lose | W+R | 7.5 | 3282 | -10 | 
+| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Wang Haoyang | Huang Yunsong | Win | W+2.5 | 7.5 | 3292 | 10 | 
+| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Huang Yunsong | Gu Li | Lose | W+R | 7.5 | 3282 | -11 | 
+| 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Huang Yunsong | Lian Xiao | Lose | W+R | 7.5 | 3293 | -33 | 
+| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Huang Yunsong | Dang Yifei | Win | B+R | 7.5 | 3326 | -7 | 
+| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Ding Shixiong | Huang Yunsong | Win | W+R | 7.5 | 3333 | -10 | 
+| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Huang Yunsong | Meng Tailing | Win | B+1.5 | 7.5 | 3343 | 13 | 
+| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Huang Yunsong | An Sungjoon | Win | B+R | 7.5 | 3330 | 24 | 
+| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Liao Xingwen | Huang Yunsong | Lose | B+R | 7.5 | 3306 | -13 | 
+| 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Huang Yunsong | Fan Tingyu | Lose | W+R | 7.5 | 3319 | -15 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Kang Dongyun | Huang Yunsong | Win | W+R | 7.5 | 3334 | 4 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Huang Yunsong | Xu Jiayang | Lose | W+R | 7.5 | 3330 | 27 | 
+| 2017-04-22 | 第4回グロービス杯世界囲碁U-20準々決勝 | Ichiriki Ryo | Huang Yunsong | Lose | B+R | 6.5 | 3303 | -4 | 
+| 2017-04-21 | 第4回グロービス杯世界囲碁U-20グループリーグB | Huang Yunsong |  | Win | B+R | 6.5 | 3307 | 0 | 
+| 2017-04-21 | 第4回グロービス杯世界囲碁U-20グループリーグB | Shin Jinseo | Huang Yunsong | Win | W+R | 6.5 | 3307 | 20 | 
+| 2017-04-18 | 第19期中国阿含桐山杯本選3回戦 | Huang Yunsong | Liao Yuanhe | Lose | W+R | 7.5 | 3287 | -59 | 
+| 2017-03-30 | 世界第三期Mlily夢百合杯予選決勝 | Huang Yunsong | Lee Jihyun | Lose | W+R | 7.5 | 3346 | 184 | 
+| 2017-01-14 | 第31期中国囲碁天元戦1回戦 | Huang Yunsong | Hu Yaoyu | Lose | W+R | 7.5 | 3162 | 1 | 
+| 2017-01-10 | 嫘祖杯第29期中国名人戦準決勝 | Huang Yunsong | Mi Yuting | Lose | W+R | 7.5 | 3161 | 1 | 
+| 2017-01-04 | Alphago Online Series on Tygem and Fox 53 |  | Huang Yunsong | Lose | B+R | 6.5 | 3160 | 0 | 
+| 2017-01-03 | 2016年利民杯世界囲碁星鋭最強戦準決勝 | Huang Yunsong | Mi Yuting | Lose | W+R | 7.5 | 3160 | -4 | 
+| 2017-01-02 | 2016年利民杯世界囲碁星鋭最強戦3回戦 | Yang Dingxin | Huang Yunsong | Win | W+R | 7.5 | 3164 | 6 | 
+| 2017-01-01 | 2016年利民杯世界囲碁星鋭最強戦2回戦 | Huang Yunsong | He Yuhan | Win | B+R | 7.5 | 3158 | 9 | 
+| 2016-12-31 | 2016年利民杯世界囲碁星鋭最強戦1回戦 |  | Huang Yunsong | Win | W+R | 7.5 | 3149 | 9 | 
+| 2016-12-26 | 嫘祖杯第29期中国名人戦16強戦 | Huang Yunsong | Tong Mengcheng | Win | B+R | 7.5 | 3140 | 10 | 
+| 2016-12-24 | 嫘祖杯第29期中国名人戦32強戦 | Mao Ruilong | Huang Yunsong | Win | W+R | 7.5 | 3130 | 12 | 
+| 2016-12-03 | 第18回中国囲碁甲級リーグ第22節 | Shi Yue | Huang Yunsong | Lose | B+R | 7.5 | 3118 | -10 | 
+| 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Fan Tingyu | Huang Yunsong | Lose | B+R | 7.5 | 3128 | -14 | 
+| 2016-11-24 | 第8期中国竜星戦予選 | Huang Yunsong | Zhao Chenyu | Win | B+R | 7.5 | 3142 | 0 | 
+| 2016-11-24 | 第8期中国竜星戦予選 | Yang Dingxin | Huang Yunsong | Lose | B+R | 7.5 | 3142 | 0 | 
+| 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Huang Yunsong |  | Win | B+3.5 | 7.5 | 3142 | 7 | 
+| 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 | Huang Yunsong | Chen Yaoye | Lose | W+R | 7.5 | 3135 | -7 | 
+| 2016-11-12 | 第18回中国囲碁甲級リーグ第18節 | Wu Guangya | Huang Yunsong | Lose | B+R | 7.5 | 3142 | -69 | 
+| 2016-11-08 | 第1回新奥杯世界囲碁オープン戦2回戦 | Shin Jinseo | Huang Yunsong | Lose | B+3.5 | 7.5 | 3211 | -20 | 
+| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Huang Yunsong | Hu Yaoyu | Win | B+R | 7.5 | 3231 | 7 | 
+| 2016-11-04 | 第18回中国囲碁甲級リーグ第17節 | Gu Lingyi | Huang Yunsong | Lose | B+R | 7.5 | 3224 | 0 | 
+| 2016-10-28 | 第18回中国囲碁甲級リーグ第16節 | Huang Yunsong | Ding Hao | Win | B+R | 7.5 | 3224 | 13 | 
+| 2016-10-20 | 第12期中国威孚房開杯決勝 | Mi Yuting | Huang Yunsong | Win | W+R | 7.5 | 3211 | -12 | 
+| 2016-10-19 | 第12期中国威孚房開杯準決勝 | Huang Yunsong | Jiang Weijie | Win | B+1.5 | 7.5 | 3223 | 5 | 
+| 2016-10-18 | 第12期威孚房開杯中国囲棋争覇戦8強戦 | Tan Xiao | Huang Yunsong | Win | W+R | 7.5 | 3218 | 11 | 
+| 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦第3戦 | Xiao Zhenghao | Huang Yunsong | Win | W+R | 6.5 | 3207 | 0 | 
+| 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦決勝 | Park Minkyu | Huang Yunsong | Win | W+R | 6.5 | 3207 | 12 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Lee Donghoon | Huang Yunsong | Win | W+R | 6.5 | 3195 | 0 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Ida Atsushi | Huang Yunsong | Lose | B+2.5 | 6.5 | 3195 | 14 | 
+| 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Meng Tailing | Huang Yunsong | Lose | B+R | 7.5 | 3181 | -25 | 
+| 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Huang Yunsong | Kim Jiseok | Lose | W+R | 7.5 | 3206 | 30 | 
+| 2016-09-25 | 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Huang Yunsong | Ida Atsushi | Win | B+R | 6.5 | 3176 | -25 | 
+| 2016-09-24 | 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | An Sungjoon | Huang Yunsong | Win | W+1.5 | 6.5 | 3201 | 4 | 
+| 2016-09-23 | 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Huang Yunsong | Wang Yuanjun | Win | B+R | 6.5 | 3197 | -89 | 
+| 2016-09-12 | 2016金立杯囲棋甲級リーグ戦聯戦第13R | Tan Xiao | Huang Yunsong | Win | W+R | 7.5 | 3286 | -4 | 
+| 2016-09-07 | 第21回三星火災杯世界囲碁マスターズ1回戦F2 | Park Junghwan | Huang Yunsong | Lose | B+R | 6.5 | 3290 | -13 | 
+| 2016-09-06 | 第21回三星火災杯世界囲碁マスターズ1回戦F1 | Xia Chenkun | Huang Yunsong | Lose | B+0.5 | 6.5 | 3303 | -22 | 
+| 2016-08-23 | 第12期威孚房開杯棋王戦2回戦 | Ke Jie | Huang Yunsong | Win | W+R | 7.5 | 3325 | 11 | 
+| 2016-08-22 | 第12期威孚房開杯棋王戦1回戦 | Huang Yunsong | Tang Weixing | Win | B+R | 7.5 | 3314 | 7 | 
+| 2016-07-29 | 第18期阿含・桐山杯中国早碁オープン戦準決勝 | Huang Yunsong | Ke Jie | Lose | W+R | 7.5 | 3307 | -103 | 
+| 2016-07-20 | 第21回三星火災杯統合予選決勝 | Huang Yunsong |  | Win | B+R | 6.5 | 3410 | 141 | 
+| 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Tao Xinran | Huang Yunsong | Win | W+R | 7.5 | 3269 | 1 | 
+| 2016-06-25 | 第18回中国囲碁甲級リーグ第10節 | Huang Yunsong | Jiang Weijie | Lose | W+R | 7.5 | 3268 | -25 | 
+| 2016-06-20 | 第18回中国囲碁甲級リーグ第9節 |  | Huang Yunsong | Win | W+R | 7.5 | 3293 | 10 | 
+| 2016-06-16 | 第18回中国囲碁甲級リーグ第8節 | Huang Yunsong | Zhong Wenjing | Win | B+R | 7.5 | 3283 | 14 | 
+| 2016-06-13 | 第18期阿含・桐山杯中国早碁オープン戦2回戦 | Xia Chenkun | Huang Yunsong | Win | W+R | 7.5 | 3269 | 18 | 
+| 2016-06-06 | 第18回中国囲碁甲級リーグ第7節 | Li Qincheng | Huang Yunsong | Win | W+R | 7.5 | 3251 | 11 | 
+| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦2回戦 | Huang Yunsong | Tong Mengcheng | Lose | W+R | 7.5 | 3240 | 0 | 
+| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yunsong | Xie He | Win | B+R | 7.5 | 3240 | 26 | 
+| 2016-05-27 | 第1回新奥杯世界囲碁オープン戦予選 | Weon Seongjin | Huang Yunsong | Win | W+R | 7.5 | 3214 | 22 | 
+| 2016-05-22 | 第18回中国囲碁甲級リーグ第6節 |  | Huang Yunsong | Win | W+R | 7.5 | 3192 | 4 | 
+| 2016-05-20 | 第6回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Huang Yunsong | Ke Jie | Lose | W+R | 7.5 | 3188 | 64 | 
+| 2016-05-18 | 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Chen Zijian | Huang Yunsong | Win | W+R | 7.5 | 3124 | -4 | 
+| 2016-05-16 | 第18回中国囲碁甲級リーグ第5節 | Xie Ke | Huang Yunsong | Lose | B+R | 7.5 | 3128 | -73 | 
+| 2016-05-11 | 第18期阿含・桐山杯中国早碁オープン戦1回戦 | Huang Yunsong | Wu Guangya | Win | B+R | 7.5 | 3201 | 10 | 
+| 2016-05-09 | 第18回中国囲碁甲級リーグ第4節 | Huang Yunsong | Xie Erhao | Lose | W+R | 7.5 | 3191 | -45 | 
+| 2016-04-30 | 第18回中国囲碁甲級リーグ第3節 | Huang Yunsong | Zhang Tao | Win | B+R | 7.5 | 3236 | 49 | 
+| 2016-04-22 | 第8回応氏杯世界選手権2回戦 | Huang Yunsong | Park Junghwan | Lose | W+R | 7.5 | 3187 | -2 | 
+| 2016-04-20 | 第8回応氏杯世界選手権1回戦 | Huang Yunsong | So Yokoku | Win | B+R | 7.5 | 3189 | -7 | 
+| 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Wang Xi | Huang Yunsong | Win | W+R | 7.5 | 3196 | 8 | 
+| 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Huang Yunsong | Fan Yin | Win | B+R | 7.5 | 3188 | 3 | 
+| 2016-04-03 | 第21回LG杯予選 | Huang Yunsong | Cho Hanseung | Win | B+1.5 | 6.5 | 3185 | 12 | 
+| 2016-03-19 | 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Zhou Ruiyang | Huang Yunsong | Lose | B+R | 7.5 | 3173 | -78 | 
+| 2016-01-24 | 第7期中国竜星戦準決勝 | Huang Yunsong | Chen Yaoye | Lose | W+R | 7.5 | 3251 | -7 | 
+| 2016-01-18 | 第7期中国竜星戦3回戦 | Gu Li | Huang Yunsong | Win | W+R | 7.5 | 3258 | -10 | 
+| 2016-01-15 | 第30期中国囲碁天元戦1回戦 | Tong Mengcheng | Huang Yunsong | Lose | B+R | 7.5 | 3268 | -4 | 
+| 2015-12-25 | 第17回阿含・桐山杯日中決戦 | Huang Yunsong | Iyama Yuta | Lose | W+R | 7.5 | 3272 | -1 | 
+| 2015-12-06 | 第17回中国囲碁甲級リーグ第22節 | Yang Dingxin | Huang Yunsong | Win | W+0.5 | 7.5 | 3273 | 5 | 
+| 2015-12-04 | 第17回中国囲碁甲級リーグ第21節 | Qiu Jun | Huang Yunsong | Win | W+R | 7.5 | 3268 | 13 | 
+| 2015-11-30 | 2015年利民杯世界囲碁星鋭最強戦3回戦 | Huang Yunsong | Ke Jie | Lose | W+R | 7.5 | 3255 | -4 | 
+| 2015-11-29 | 2015年利民杯世界囲碁星鋭最強戦2回戦 | Shin Minjun | Huang Yunsong | Win | W+R | 7.5 | 3259 | 5 | 
+| 2015-11-28 | 2015年利民杯世界囲碁星鋭最強戦1回戦 | Huang Yunsong |  | Win | B+R | 7.5 | 3254 | 13 | 
+| 2015-11-17 | 第17期阿含・桐山杯中国早碁オープン戦決勝 | Chen Yaoye | Huang Yunsong | Win | W+R | 7.5 | 3241 | 8 | 
+| 2015-11-13 | 第17回中国囲碁甲級リーグ第20節 | Huang Yunsong | Zhou Hexi | Win | B+1.5 | 7.5 | 3233 | 2 | 
+| 2015-11-08 | 第17回中国囲碁甲級リーグ第19節 | Li Qincheng | Huang Yunsong | Lose | B+R | 7.5 | 3231 | -21 | 
+| 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 | Huang Yunsong | Tao Xinran | Lose | W+R | 7.5 | 3252 | -12 | 
+| 2015-10-24 | 第7期中国竜星戦2回戦 | Ke Jie | Huang Yunsong | Win | W+0.5 | 7.5 | 3264 | 22 | 
+| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Chen Hao | Huang Yunsong | Win | W+R | 7.5 | 3242 | 3 | 
+| 2015-10-15 | 第17回中国囲碁甲級リーグ第15節 | Huang Yunsong |  | Lose | W+R | 7.5 | 3239 | -11 | 
+| 2015-10-12 | 第11期威孚房開杯棋王戦1回戦 | Huang Yunsong | Gu Li | Lose | W+R | 7.5 | 3250 | -7 | 
+| 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Huang Yunsong | Liu Xing | Win | B+R | 7.5 | 3257 | -1 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Huang Yunsong | Lin Lixiang | Win | B+R | 6.5 | 3258 | 0 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Huang Yunsong | Yun Junsang | Lose | W+R | 6.5 | 3258 | 51 | 
+| 2015-10-02 | 第2回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhengqi | Huang Yunsong | Win | W+R | 6.5 | 3207 | -41 | 
+| 2015-09-27 | 第7期中国竜星戦1回戦 | Jiang Weijie | Huang Yunsong | Win | W+R | 7.5 | 3248 | 9 | 
+| 2015-09-24 | 第17回中国囲碁甲級リーグ第14節 | Huang Yunsong | Liao Xingwen | Win | B+R | 7.5 | 3239 | 12 | 
+| 2015-09-18 | 第3回全国智力運動会囲碁男子団体戦 | Liu Xing | Huang Yunsong | Win | W+R | 7.5 | 3227 | -26 | 
+| 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Yang Kaiwen | Huang Yunsong | Win | W+R | 7.5 | 3253 | 9 | 
+| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Huang Yunsong | Meng Tailing | Win | B+R | 7.5 | 3244 | -14 | 
+| 2015-08-23 | 第17期阿含・桐山杯中国早碁オープン戦準決勝 | Huang Yunsong | Li Qincheng | Win | B+R | 7.5 | 3258 | 13 | 
+| 2015-08-05 | 第20回三星火災杯統合予選決勝 | Huang Yunsong | Shin Minjun | Lose | W+5.5 | 6.5 | 3245 | -21 | 
+| 2015-08-01 | 第20回三星火災杯統合予選1回戦 | Lee Donghoon | Huang Yunsong | Win | W+R | 6.5 | 3266 | 2 | 
+| 2015-07-29 | 第7期中国竜星戦予選 | Zhou Heyang | Huang Yunsong | Win | W+R | 7.5 | 3264 | 7 | 
+| 2015-07-27 | 第17期阿含・桐山杯中国早碁オープン戦2回戦 | Qiu Jun | Huang Yunsong | Win | W+R | 7.5 | 3257 | 1 | 
+| 2015-07-21 | 2015年中国段位戦 | Zhao Chenyu | Huang Yunsong | Win | W+R | 7.5 | 3256 | -2 | 
+| 2015-07-20 | 2015年中国段位戦 | Rong Yi | Huang Yunsong | Win | W+R | 7.5 | 3258 | -6 | 
+| 2015-07-19 | 2015年中国段位戦 | Huang Yunsong |  | Win | B+R | 7.5 | 3264 | 3 | 
+| 2015-07-17 | 2015年中国段位戦 | Huang Yunsong | Qin Yuexin | Win | B+R | 7.5 | 3261 | 7 | 
+| 2015-07-16 | 2015年中国段位戦 |  | Huang Yunsong | Lose | B+1.5 | 7.5 | 3254 | -10 | 
+| 2015-07-15 | 2015年中国段位戦 | Huang Yunsong | Cao Xiaoyang | Win | B+R | 7.5 | 3264 | 19 | 
+| 2015-07-14 | 2015年中国段位戦 | Huang Yunsong | Chen Xian | Lose | W+R | 7.5 | 3245 | -14 | 
+| 2015-07-11 | 第17回中国囲碁甲級リーグ第11節 | Gu Li | Huang Yunsong | Win | W+R | 7.5 | 3259 | -4 | 
+| 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 | Huang Yunsong | Chang Hao | Lose | W+R | 7.5 | 3263 | -3 | 
+| 2015-07-02 | 第17期阿含・桐山杯中国早碁オープン戦1回戦 | Tang Weixing | Huang Yunsong | Win | W+R | 7.5 | 3266 | 16 | 
+| 2015-07-01 | 第7期中国竜星戦予選 | Shu Yixiao | Huang Yunsong | Win | W+R | 7.5 | 3250 | -2 | 
+| 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Huang Yunsong | Kim Jiseok | Lose | W+R | 7.5 | 3252 | -24 | 
+| 2015-06-28 | 第7期中国竜星戦予選 | Yin Hang | Huang Yunsong | Win | W+R | 7.5 | 3276 | 9 | 
+| 2015-06-25 | 第17回中国囲碁甲級リーグ第8節（再対局） | Wu Guangya | Huang Yunsong | Win | W+R | 7.5 | 3267 | 0 | 
+| 2015-06-25 | 第17回中国囲碁甲級リーグ第8節 | Wu Guangya | Huang Yunsong | Lose | Void | 7.5 | 3267 | -84 | 
+| 2015-06-13 | 第17回中国囲碁甲級リーグ第7節 | Huang Yunsong | Tao Xinran | Win | B+R | 7.5 | 3351 | 18 | 
+| 2015-06-11 | 第28期中国囲碁名人戦2回戦 | Lian Xiao | Huang Yunsong | Lose | B+3.5 | 7.5 | 3333 | 11 | 
+| 2015-06-08 | 第20回LG杯朝鮮日報棋王戦1回戦 | Park Yeonghun | Huang Yunsong | Lose | B+R | 6.5 | 3322 | -31 | 
+| 2015-05-28 | 第17回中国囲碁甲級リーグ第6節 | Huang Yunsong | Jiang Weijie | Lose | W+R | 7.5 | 3353 | -11 | 
+| 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Huang Yunsong | Mao Ruilong | Lose | W+R | 7.5 | 3364 | -28 | 
+| 2015-05-16 | 第17回中国囲碁甲級リーグ第4節 | Huang Yunsong | Han Yizhou | Win | B+R | 7.5 | 3392 | 47 | 
+| 2015-05-10 | 第2回グロービス杯世界囲碁U-20決勝 | Na Hyun | Huang Yunsong | Win | W+R | 6.5 | 3345 | 0 | 
+| 2015-05-10 | 第2回グロービス杯世界囲碁U-20準決勝 | Lee Donghoon | Huang Yunsong | Win | W+R | 6.5 | 3345 | 43 | 
+| 2015-05-09 | 第2回グロービス杯世界囲碁U-20準々決勝 | Shin Jinseo | Huang Yunsong | Win | W+R | 6.5 | 3302 | -13 | 
+| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグA | Huang Yunsong | Yu Zhengqi | Win | B+R | 6.5 | 3315 | 0 | 
+| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグA | Ichiriki Ryo | Huang Yunsong | Win | W+R | 6.5 | 3315 | 33 | 
+| 2015-05-06 | 第28期中国囲碁名人戦1回戦 | Huang Yunsong | Xia Chenkun | Win | B+R | 7.5 | 3282 | 21 | 
+| 2015-05-04 | 第28期中国囲碁名人戦予選 | Huang Yunsong | Zhu Yuanhao | Win | B+R | 7.5 | 3261 | 11 | 
+| 2015-05-03 | 第28期中国囲碁名人戦予選 | Huang Yunsong |  | Win | B+R | 7.5 | 3250 | 2 | 
+| 2015-04-29 | 第17回中国囲碁甲級リーグ第2節 | Huang Yunsong |  | Win | B+R | 7.5 | 3248 | 57 | 
+| 2015-04-22 | 第17回中国囲碁甲級リーグ第1節 | Huang Yunsong | Ke Jie | Lose | W+R | 7.5 | 3191 | 7 | 
+| 2015-04-03 | 第12期倡棋杯中国プロ囲碁選手権戦1回戦 | Huang Yunsong | Shi Yue | Lose | W+R | 7.5 | 3184 | -23 | 
+| 2015-03-23 | 第12期倡棋杯中国プロ囲碁選手権戦予選 | Huang Yunsong | Xie He | Win | B+1 | 7.5 | 3207 | 18 | 
+| 2015-03-21 | 第12期倡棋杯中国プロ囲碁選手権戦予選 | Huang Yunsong |  | Win | B+R | 7.5 | 3189 | -170 | 
+| 2015-01-26 | 第29期中国囲碁天元戦予選 | Huang Yunsong | Liu Xing | Lose | W+R | 7.5 | 3359 | 10 | 
+| 2014-12-31 | 第15期リコー杯囲碁戦1回戦 | Huang Yunsong | Mao Ruilong | Lose | W+R | 7.5 | 3349 | -66 | 
+| 2014-12-20 | 2014年利民杯世界囲碁星鋭最強戦2回戦 | Huang Yunsong | Shin Jinseo | Lose | W+R | 7.5 | 3415 | 22 | 
+| 2014-11-25 | 第16回中国囲碁甲級リーグ第22節 | Huang Yunsong | Peng Liyao | Lose | W+R | 7.5 | 3393 | -25 | 
+| 2014-11-22 | 第16回中国囲碁甲級リーグ第21節 | Huang Yunsong | Hu Yuhan | Win | B+R | 7.5 | 3418 | 41 | 
+| 2014-11-11 | 第16回中国囲碁甲級リーグ第20節 | Fan Tingyu | Huang Yunsong | Lose | B+R | 7.5 | 3377 | -15 | 
+| 2014-11-09 | 第16回中国囲碁甲級リーグ第19節 | Tan Xiao | Huang Yunsong | Win | W+0.5 | 7.5 | 3392 | 126 | 
+| 2014-10-31 | 第16回中国囲碁甲級リーグ第18節 | Huang Yunsong | Hu Yaoyu | Win | B+R | 7.5 | 3266 | -4 | 
+| 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 | Xie He | Huang Yunsong | Win | W+R | 7.5 | 3270 | 15 | 
+| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Huang Yunsong |  | Lose | W+R | 7.5 | 3255 | -67 | 
+| 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Huang Yunsong | Wang Haoyang | Win | B+R | 7.5 | 3322 | -20 | 
+| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Huang Yunsong |  | Win | B+R | 7.5 | 3342 | 63 | 
+| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Huang Yunsong | Mao Ruilong | Win | B+R | 7.5 | 3279 | -16 | 
+| 2014-08-06 | 第19回三星火災杯統合予選決勝 | Huang Yunsong | Lian Xiao | Lose | W+R | 6.5 | 3295 | -33 | 
+| 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Huang Yunsong | Niu Yutian | Lose | W+R | 7.5 | 3328 | 0 | 
+| 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Huang Yunsong | Bai Baoxiang | Win | B+R | 7.5 | 3328 | 32 | 
+| 2014-06-26 | 第6期中国竜星戦予選 | Huang Yunsong | Qin Yuexin | Lose | W+4.5 | 7.5 | 3296 | -22 | 
+| 2014-06-25 | 第6期中国竜星戦予選 | Huang Yunsong | Chen Xian | Win | B+R | 7.5 | 3318 | 58 | 
+| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Huang Yunsong | Chang Hao | Lose | W+R | 7.5 | 3260 | 3 | 
+| 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Niu Yutian | Huang Yunsong | Lose | B+R | 7.5 | 3257 | 69 | 
+| 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Huang Yunsong | Mao Ruilong | Lose | W+R | 7.5 | 3188 | -20 | 
+| 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Huang Yunsong | Ke Jie | Lose | W+R | 7.5 | 3208 | -7 | 
+| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yunsong | Lian Xiao | Lose | W+R | 7.5 | 3215 | -5 | 
+| 2014-05-01 | 2014年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Byun Sangil | Huang Yunsong | Win | W+R | 7.5 | 3220 | -133 | 
+| 2014-04-18 | 第19回LG杯予選 | Jin Siyoung | Huang Yunsong | Lose | B+R | 6.5 | 3353 | 9 | 
+| 2014-04-03 | 第5回衢州・爛柯杯中国囲棋冠軍戦予選 | Huang Yunsong | Yang Kaiwen | Lose | W+R | 7.5 | 3344 | -19 | 
+| 2014-04-01 | 第27期中国囲碁名人戦予選 | Huang Yunsong | Tong Yulin | Lose | W+R | 7.5 | 3363 | 20 | 
+| 2014-03-27 | 第11期倡棋杯中国プロ囲碁選手権戦予選 | Huang Yunsong | Liao Xingwen | Win | B+R | 7.5 | 3343 | -5 | 
+| 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Huang Yunsong | Mi Yuting | Lose | W+R | 7.5 | 3348 | 2 | 
+| 2014-02-21 | 第8期リコー杯新秀戦決勝 |  | Huang Yunsong | Win | W+R | 7.5 | 3346 | 8 | 
+| 2014-02-20 | 第8期リコー杯新秀戦準決勝 | Huang Yunsong | Chen Xian | Win | B+R | 7.5 | 3338 | 8 | 
+| 2014-02-18 | 第14期リコー杯囲碁戦4回戦 | Huang Yunsong | Wu Guangya | Lose | W+4.5 | 7.5 | 3330 | -3 | 
+| 2014-02-17 | 第14期リコー杯囲碁戦3回戦 | Yang Dingxin | Huang Yunsong | Win | W+0.5 | 7.5 | 3333 | -92 | 
+| 2013-12-30 | 第14期リコー杯囲碁戦2回戦 | Huang Yunsong | Tan Xiao | Win | B+R | 7.5 | 3425 | 8 | 
+| 2013-12-29 | 第14期リコー杯囲碁戦1回戦 | Zhou Hexi | Huang Yunsong | Win | W+R | 7.5 | 3417 | 23 | 
+| 2013-12-28 | 第8期リコー杯新秀戦2回戦 | Fan Yin | Huang Yunsong | Win | W+4.5 | 7.5 | 3394 | 3 | 
+| 2013-12-27 | 第8期リコー杯新秀戦1回戦 | Huang Yunsong | Zhao Chenyu | Win | B+R | 7.5 | 3391 | 96 | 
+| 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 | Huang Yunsong | Zhang Tao | Win | B+R | 7.5 | 3295 | 35 | 
+| 2013-11-23 | 第15回中国囲碁甲級リーグ第21節 | Huang Yunsong | Gu Li | Win | B+R | 7.5 | 3260 | 4 | 
+| 2013-11-16 | 第15回中国囲碁甲級リーグ第20節 | Huang Yunsong |  | Lose | W+R | 7.5 | 3256 | 15 | 
+| 2013-11-02 | 第15回中国囲碁甲級リーグ第19節 | Huang Yunsong | Rong Yi | Win | B+R | 7.5 | 3241 | 7 | 
+| 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 | Huang Yunsong | Li Zhe | Win | B+R | 7.5 | 3234 | 8 | 
+| 2013-10-25 | 2013年宏達杯全国囲碁星鋭最強戦 | Sun Tengyu | Huang Yunsong | Lose | B+R | 7.5 | 3226 | -7 | 
+| 2013-10-23 | 2013年宏達杯全国囲碁星鋭最強戦 | Huang Yunsong | Wu Guangya | Lose | W+4.5 | 7.5 | 3233 | 14 | 
+| 2013-10-20 | 第15回中国囲碁甲級リーグ第17節 |  | Huang Yunsong | Win | W+0.5 | 7.5 | 3219 | -18 | 
+| 2013-10-13 | 第15回中国囲碁甲級リーグ第16節 | Huang Yunsong | Kong Jie | Lose | W+R | 7.5 | 3237 | -203 | 
+| 2013-09-12 | 第15回中国囲碁甲級リーグ第15節 | Fan Tingyu | Huang Yunsong | Lose | B+R | 7.5 | 3440 | 24 | 
+| 2013-09-07 | 第15回中国囲碁甲級リーグ第14節 | Gong Yanyu | Huang Yunsong | Win | W+R | 7.5 | 3416 | 33 | 
+| 2013-09-01 | 第15回中国囲碁甲級リーグ第13節 | Huang Yunsong | Fan Yunruo | Lose | W+R | 7.5 | 3383 | -13 | 
+| 2013-08-30 | 第15回中国囲碁甲級リーグ第12節 |  | Huang Yunsong | Win | W+R | 7.5 | 3396 | -16 | 
+| 2013-08-13 | 2013年宏達杯全国囲碁星鋭最強戦第3ステージ | Huang Yunsong | Sun Li | Win | B+5.5 | 7.5 | 3412 | 246 | 
+| 2013-07-07 | 第15回中国囲碁甲級リーグ第10節 | Wang Xi | Huang Yunsong | Lose | B+R | 7.5 | 3166 | -14 | 
+| 2013-07-01 | 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Huang Yunsong | Xia Chenkun | Lose | W+R | 7.5 | 3180 | 31 | 
+| 2013-06-22 | 第15回中国囲碁甲級リーグ第9節 | Tao Xinran | Huang Yunsong | Lose | B+R | 7.5 | 3149 | -19 | 
+| 2013-06-15 | 第15回中国囲碁甲級リーグ第8節 | Huang Yunsong | Park Yeonghun | Lose | W+R | 7.5 | 3168 | -35 | 
+| 2013-06-06 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Huang Yunsong | Zhang Qiang | Win | B+R | 7.5 | 3203 | 0 | 
+| 2013-06-06 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Huang Yunsong | Zhou Heyang | Lose | W+R | 7.5 | 3203 | -18 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Huang Yunsong | Jiang Weijie | Win | B+R | 7.5 | 3221 | 0 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Wang Chenxing | Huang Yunsong | Win | W+R | 7.5 | 3221 | -12 | 
+| 2013-06-02 | 第15回中国囲碁甲級リーグ第7節 | Huang Yunsong | Piao Wenyao | Lose | W+R | 7.5 | 3233 | 118 | 
+| 2013-05-27 | 第10期倡棋杯中国プロ囲碁選手権戦1回戦 | Huang Yunsong | Fan Tingyu | Lose | W+R | 7.5 | 3115 | -70 | 
+| 2013-05-18 | 第15回中国囲碁甲級リーグ第6節 | Huang Yunsong | Lian Xiao | Win | B+R | 7.5 | 3185 | 27 | 
+| 2013-05-09 | 第15回中国囲碁甲級リーグ第4節 | Cao Xiaoyang | Huang Yunsong | Win | W+R | 7.5 | 3158 | 6 | 
+| 2013-05-07 | 第10期倡棋杯中国プロ囲碁選手権戦予選 | Huang Yunsong | Zhong Wenjing | Win | B+1 | 7.5 | 3152 | 35 | 
+| 2013-05-06 | 第10期倡棋杯中国プロ囲碁選手権戦予選 | Huang Yunsong | Huang Chen | Win | B+R | 7.5 | 3117 | 26 | 
+| 2013-05-04 | 第15回中国囲碁甲級リーグ第3節 | Ding Wei | Huang Yunsong | Win | W+R | 7.5 | 3091 | -3 | 
+| 2013-04-13 | 第26期中国囲碁名人戦1回戦 | Huang Yunsong | Gu Lingyi | Lose | W+R | 7.5 | 3094 | -23 | 
+| 2013-04-11 | 第26期中国囲碁名人戦予選 | Huang Yunsong | Rong Yi | Win | B+R | 7.5 | 3117 | 31 | 
+| 2013-04-10 | 第26期中国囲碁名人戦予選 | Tang Weixing | Huang Yunsong | Win | W+R | 7.5 | 3086 | 73 | 
+| 2013-04-05 | 第15回中国囲碁甲級リーグ第1節 | Huang Yunsong |  | Lose | W+R | 7.5 | 3013 | -212 | 
+| 2013-02-22 | 第7期リコー杯新秀戦決勝 | Huang Yunsong | Li Qincheng | Lose | W+R | 7.5 | 3225 | 10 | 
+| 2013-02-21 | 第7期リコー杯新秀戦準決勝 | Huang Xin | Huang Yunsong | Win | W+R | 7.5 | 3215 | 0 | 
+| 2013-01-24 | 第27期中国囲碁天元戦1回戦 | Huang Yunsong | Zhou Ruiyang | Lose | W+R | 7.5 | 3215 | -10 | 
+| 2013-01-23 | 第27期中国囲碁天元戦予選 | Huang Yunsong |  | Win | B+R | 7.5 | 3225 | 17 | 
+| 2012-12-28 | 第13期リコー杯囲碁戦1回戦 | Huang Yunsong | Mao Ruilong | Lose | W+R | 7.5 | 3208 | -48 | 
+| 2012-12-27 | 第7期リコー杯新秀戦2回戦 | Huang Yunsong | Gong Yanyu | Win | B+R | 7.5 | 3256 | 51 | 
+| 2012-12-26 | 第7期リコー杯新秀戦1回戦 | Fan Yin | Huang Yunsong | Win | W+R | 7.5 | 3205 | -133 | 
+| 2012-08-19 | 第1回百霊杯世界囲碁選手権2回戦 | Huang Yunsong | Tang Weixing | Lose | W+R | 7.5 | 3338 | -94 | 
+| 2012-07-09 | 2012CCTV杯中国囲棋電視快棋戦1回戦 |  | Huang Yunsong | Lose | B+R | 7.5 | 3432 | -33 | 
+| 2012-07-03 | 第4回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Huang Yunsong | Shi Yue | Lose | W+R | 7.5 | 3465 | -7 | 
+| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Tong Mengcheng | Huang Yunsong | Lose | B+R | 7.5 | 3472 | -298 | 
+| 2012-05-03 | 第19期建橋杯中国囲碁新人王戦決勝三番勝負第2局 | Huang Yunsong | Fan Tingyu | Lose | W+R | 7.5 | 3770 | -142 | 
+| 2012-05-02 | 第19期建橋杯中国囲碁新人王戦決勝三番勝負第1局 | Fan Tingyu | Huang Yunsong | Lose | B+R | 7.5 | 3912 | 3912 | 
+| 2012-04-02 | 第25期中国囲碁名人戦予選 | Huang Yunsong | Ding Wei | Win | B+R | 7.5 | missing | 0 | 
+| 2012-03-22 | 第19期建橋杯中国囲碁新人王戦準決勝 | Huang Yunsong | Fan Yunruo | Win | B+R | 7.5 | missing | 0 | 
+| 2012-03-21 | 第19期建橋杯中国囲碁新人王戦3回戦 | Zhou Hexi | Huang Yunsong | Win | W+R | 7.5 | missing | 0 | 
+| 2012-03-20 | 第19期建橋杯中国囲碁新人王戦2回戦 | Song Ronghui | Huang Yunsong | Win | W+R | 7.5 | missing | 0 | 
+| 2012-03-19 | 第19期建橋杯中国囲碁新人王戦1回戦 | Huang Yunsong | Liao Xingwen | Win | B+R | 7.5 | missing | 0 | 
+| 2012-03-14 | 第1回百霊杯世界囲碁選手権1回戦 | Huang Yunsong | Hane Naoki | Win | B+R | 7.5 | missing | 0 | 
+| 2011-03-14 | 2011CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yunsong | Liao Xingwen | Lose | W+R | 7.5 | missing | 0 | 
+| 2010-12-07 | 第11期リコー杯囲碁戦1回戦 | Yu Bin | Huang Yunsong | Lose | B+11.5 | 7.5 | missing | missing |
 
 
 

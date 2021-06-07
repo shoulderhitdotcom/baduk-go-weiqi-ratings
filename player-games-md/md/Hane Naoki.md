@@ -5,711 +5,713 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 2021-05-28 | 第46期棋聖戦Aリーグ | Shibano Toramaru | Hane Naoki | Win | W+R | 6.5 | 
-| 2021-05-10 | 第46期名人戦リーグ | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 
-| 2021-05-06 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Rin Kanketsu | Hane Naoki | Lose | B+R | 6.5 | 
-| 2021-04-22 | 第46期棋聖戦Aリーグ | Suzuki Shinji | Hane Naoki | Lose | B+R | 6.5 | 
-| 2021-04-15 | 第46期名人戦リーグ  | Hane Naoki | Shibano Toramaru | Lose | W+R | 6.5 | 
-| 2021-04-02 | 第76期本因坊戦リーグ  | Shibano Toramaru | Hane Naoki | Lose | B+R | 6.5 | 
-| 2021-03-29 | 第46期棋聖戦Aリーグ | Onishi Ryuhei | Hane Naoki | Win | W+R | 6.5 | 
-| 2021-03-11 | 第46期名人戦リーグ | Anzai Nobuaki | Hane Naoki | Win | W+2.5 | 6.5 | 
-| 2021-03-04 | 第76期本因坊戦リーグ | Hane Naoki | Sada Atsushi | Lose | W+R | 6.5 | 
-| 2021-02-22 | 第46期棋聖戦Aリーグ | Hane Naoki | Cho U | Lose | W+R | 6.5 | 
-| 2021-02-11 | 第76期本因坊戦リーグ | Tsuruyama Atsushi | Hane Naoki | Win | W+R | 6.5 | 
-| 2021-02-04 | 第46期名人戦リーグ | Yu Zhengqi | Hane Naoki | Win | W+R | 6.5 | 
-| 2021-01-21 | 第76期本因坊戦リーグ | Onishi Ryuhei | Hane Naoki | Win | W+R | 6.5 | 
-| 2021-01-07 | 第46期名人戦リーグ | Hane Naoki | Kono Rin | Win | B+R | 6.5 | 
-| 2020-12-18 | 第76期本因坊戦リーグ | Hane Naoki | Hsu Chiayuan | Win | B+R | 6.5 | 
-| 2020-11-12 | 第59期十段戦2回戦 | Hsu Chiayuan | Hane Naoki | Lose | B+R | 6.5 | 
-| 2020-11-05 | 第76期本因坊戦リーグ | Hane Naoki | Ko Iso | Win | B+R | 6.5 | 
-| 2020-10-15 | 第76期本因坊戦リーグ | Ichiriki Ryo | Hane Naoki | Lose | B+R | 6.5 | 
-| 2020-09-03 | 第59期十段戦予選 | Hane Naoki | Shida Tatsuya | Win | B+2.5 | 6.5 | 
-| 2020-08-31 | 第45期棋聖戦Bリーグ | Hane Naoki | Otake Yu | Win | B+R | 6.5 | 
-| 2020-08-14 | 第45期碁聖戦挑戦手合五番勝負第3局  | Hane Naoki | Ichiriki Ryo | Lose | W+R | 6.5 | 
-| 2020-08-06 | 第45期名人戦リーグ | Hane Naoki | Cho U | Win | B+R | 6.5 | 
-| 2020-08-03 | 第45期碁聖戦挑戦手合五番勝負第2局  | Ichiriki Ryo | Hane Naoki | Lose | B+R | 6.5 | 
-| 2020-07-23 | 第45期棋聖戦Bリーグ | Hane Naoki | Akiyama Jiro | Win | B+R | 6.5 | 
-| 2020-07-18 | 第45期碁聖戦挑戦手合五番勝負第1局  | Hane Naoki | Ichiriki Ryo | Lose | W+1.5 | 6.5 | 
-| 2020-07-09 | 第27期阿含・桐山杯全日本早碁オープン戦1回戦 | Hane Naoki | Motoki Katsuya | Lose | W+R | 6.5 | 
-| 2020-07-06 | 第45期名人戦リーグ | Hane Naoki | Ichiriki Ryo | Lose | W+R | 6.5 | 
-| 2020-06-25 | 第45期名人戦リーグ | Kono Rin | Hane Naoki | Lose | B+R | 6.5 | 
-| 2020-06-18 | 第45期棋聖戦Bリーグ | Hane Naoki | Han Zenki | Win | B+R | 6.5 | 
-| 2020-06-11 | 第59期十段戦予選 | Muramatsu Hiroki | Hane Naoki | Win | W+R | 6.5 | 
-| 2020-06-08 | 第45期名人戦リーグ | Hane Naoki | Iyama Yuta | Lose | W+R | 6.5 | 
-| 2020-06-04 | 第45期名人戦リーグ | Rin Kanketsu | Hane Naoki | Win | W+R | 6.5 | 
-| 2020-04-03 | 第75期本因坊戦リーグ  | Hane Naoki | Yamashita Keigo | Win | B+6.5 | 6.5 | 
-| 2020-03-26 | 第59期十段戦予選 | Ishii Kunio | Hane Naoki | Win | W+R | 6.5 | 
-| 2020-03-19 | 第45期棋聖戦Bリーグ | Mutsuura Yuta | Hane Naoki | Lose | B+R | 6.5 | 
-| 2020-03-12 | 第45期棋聖戦Bリーグ | Koike Yoshihiro | Hane Naoki | Lose | B+0.5 | 6.5 | 
-| 2020-03-05 | 第75期本因坊戦リーグ | Shida Tatsuya | Hane Naoki | Lose | B+R | 6.5 | 
-| 2020-02-27 | 第45期棋聖戦Bリーグ | Rin Kanketsu | Hane Naoki | Win | W+R | 6.5 | 
-| 2020-02-20 | 第75期本因坊戦リーグ | Hsu Chiayuan | Hane Naoki | Lose | B+R | 6.5 | 
-| 2020-02-13 | 第45期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Lose | W+0.5 | 6.5 | 
-| 2020-01-30 | 第45期名人戦リーグ | Hsu Chiayuan | Hane Naoki | Lose | B+R | 6.5 | 
-| 2020-01-16 | 第75期本因坊戦リーグ | Hane Naoki | Kono Rin | Win | B+R | 6.5 | 
-| 2020-01-09 | 第45期棋聖戦Bリーグ | Hane Naoki | Shuto Shun | Win | B+R | 6.5 | 
-| 2019-12-12 | 第45期名人戦リーグ | Yamashita Keigo | Hane Naoki | Win | W+2.5 | 6.5 | 
-| 2019-12-05 | 第75期本因坊戦リーグ | Shibano Toramaru | Hane Naoki | Win | W+R | 6.5 | 
-| 2019-11-07 | 第75期本因坊戦リーグ | Hane Naoki | Ichiriki Ryo | Lose | W+R | 6.5 | 
-| 2019-10-24 | 第61期王冠戦予選 | Hane Naoki | Katayama Yasuo | Win | B+R | 6.5 | 
-| 2019-10-17 | 第46期天元戦予選 | Hane Naoki | Kitano Ryo | Lose | W+R | 6.5 | 
-| 2019-10-10 | 第75期本因坊戦リーグ | Hane Naoki | Yokotsuka Riki | Win | B+R | 6.5 | 
-| 2019-09-19 | 第46期天元戦予選 | Matsuoka Hideki | Hane Naoki | Win | W+R | 6.5 | 
-| 2019-09-12 | 第44期棋聖戦Bリーグ | Hane Naoki | Yoda Norimoto | Lose | W+R | 6.5 | 
-| 2019-09-02 | 第58期十段戦予選 | Fujita Akihiko | Hane Naoki | Lose | B+R | 6.5 | 
-| 2019-08-23 | 第44期碁聖戦挑戦手合五番勝負第5局  | Hsu Chiayuan | Hane Naoki | Win | W+R | 6.5 | 
-| 2019-08-09 | 第44期碁聖戦挑戦手合五番勝負第4局  | Hsu Chiayuan | Hane Naoki | Lose | B+R | 6.5 | 
-| 2019-08-01 | 第44期名人戦リーグ | Hane Naoki | Iyama Yuta | Win | B+R | 6.5 | 
-| 2019-07-27 | 第44期碁聖戦挑戦手合五番勝負第3局  | Hane Naoki | Hsu Chiayuan | Lose | W+R | 6.5 | 
-| 2019-07-19 | 第44期碁聖戦挑戦手合五番勝負第2局  | Hsu Chiayuan | Hane Naoki | Win | W+R | 6.5 | 
-| 2019-07-11 | 第44期棋聖戦Bリーグ | Hane Naoki |  | Lose | W+R | 6.5 | 
-| 2019-07-04 | 第44期名人戦リーグ | Suzuki Shinji | Hane Naoki | Win | W+2.5 | 6.5 | 
-| 2019-06-30 | 第44期碁聖戦挑戦手合五番勝負第1局  | Hane Naoki | Hsu Chiayuan | Win | B+R | 6.5 | 
-| 2019-06-27 | 第44期名人戦リーグ | Kono Rin | Hane Naoki | Lose | B+R | 6.5 | 
-| 2019-06-20 | 第44期棋聖戦Bリーグ | Numadate Sakiya | Hane Naoki | Win | W+3.5 | 6.5 | 
-| 2019-05-30 | 第44期棋聖戦Bリーグ | Hane Naoki | Onishi Ryuhei | Lose | W+3.5 | 6.5 | 
-| 2019-05-23 | 第26期阿含・桐山杯全日本早碁オープン戦予選 | Ohba Junya | Hane Naoki | Lose | B+R | 6.5 | 
-| 2019-05-16 | 第58期十段戦予選 | Hane Naoki |  | Win | B+6.5 | 6.5 | 
-| 2019-05-09 | 第44期碁聖戦挑戦者決定戦 | Hane Naoki | Ichiriki Ryo | Win | B+R | 6.5 | 
-| 2019-05-02 | 第44期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Lose | W+R | 6.5 | 
-| 2019-04-25 | 第44期名人戦リーグ | Shibano Toramaru | Hane Naoki | Win | W+R | 6.5 | 
-| 2019-04-22 | 第67期王座戦予選 | Tsuruyama Atsushi | Hane Naoki | Lose | B+R | 6.5 | 
-| 2019-04-18 | 第44期棋聖戦Bリーグ | Koike Yoshihiro | Hane Naoki | Win | W+R | 6.5 | 
-| 2019-04-15 | 第45期天元戦2回戦 | Hane Naoki | Hsu Chiayuan | Lose | W+R | 6.5 | 
-| 2019-04-08 | 第74期本因坊戦挑戦者決定リーグプレーオフ第1戦 | Kono Rin | Hane Naoki | Lose | B+R | 6.5 | 
-| 2019-04-05 | 第74期本因坊戦リーグ | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 
-| 2019-04-01 | 第44期碁聖戦本戦準決勝 | Yu Zhengqi | Hane Naoki | Win | W+R | 6.5 | 
-| 2019-03-28 | 第44期棋聖戦Bリーグ | Kobayashi Satoru | Hane Naoki | Win | W+R | 6.5 | 
-| 2019-03-21 | 第44期名人戦リーグ | Mutsuura Yuta | Hane Naoki | Win | W+R | 6.5 | 
-| 2019-03-14 | 第74期本因坊戦リーグ | Hane Naoki | Ichiriki Ryo | Win | B+R | 6.5 | 
-| 2019-03-11 | 第44期棋聖戦Bリーグ | Hane Naoki | Tsuruyama Atsushi | Win | B+R | 6.5 | 
-| 2019-02-28 | 第44期碁聖戦本戦3回戦 | Ko Iso | Hane Naoki | Win | W+R | 6.5 | 
-| 2019-02-21 | 第74期本因坊戦リーグ | Hane Naoki | Ko Iso | Win | B+R | 6.5 | 
-| 2019-02-14 | 第45期天元戦1回戦 | Shibano Toramaru | Hane Naoki | Win | W+R | 6.5 | 
-| 2019-02-07 | 第44期名人戦リーグ | Hane Naoki | Yamashita Keigo | Win | B+0.5 | 6.5 | 
-| 2019-01-31 | 第44期碁聖戦本戦2回戦 | Hane Naoki | Kim Sujun | Win | B+R | 6.5 | 
-| 2019-01-17 | 第44期名人戦リーグ | Hane Naoki | Sun Zhe | Lose | W+R | 6.5 | 
-| 2019-01-10 | 第74期本因坊戦リーグ | Yu Zhengqi | Hane Naoki | Lose | B+R | 6.5 | 
-| 2018-12-06 | 第74期本因坊戦リーグ | Hane Naoki | Shibano Toramaru | Win | B+R | 6.5 | 
-| 2018-11-22 | 第74期本因坊戦リーグ | Kono Rin | Hane Naoki | Win | W+2.5 | 6.5 | 
-| 2018-11-15 | 第44期碁聖戦本戦1回戦 | Hane Naoki | Hong Seokui | Win | B+R | 6.5 | 
-| 2018-11-01 | 第60期王冠戦予選 | Shida Tatsuya | Hane Naoki | Win | W+1.5 | 6.5 | 
-| 2018-10-11 | 第45期天元戦予選 | Otani Naoki | Hane Naoki | Win | W+R | 6.5 | 
-| 2018-10-04 | 第74期本因坊戦リーグ | Anzai Nobuaki | Hane Naoki | Win | W+R | 6.5 | 
-| 2018-09-27 | 第44期碁聖戦予選 | Nakamura Shinya | Hane Naoki | Win | W+R | 6.5 | 
-| 2018-09-20 | 第59期王冠戦準決勝 | Hane Naoki | Nakano Hironari | Lose | W+R | 6.5 | 
-| 2018-08-30 | 第43期棋聖戦Bリーグ | Hane Naoki | Cho Riyu | Win | B+R | 6.5 | 
-| 2018-08-20 | 第74期本因坊戦最終予選 | Hsu Chiayuan | Hane Naoki | Win | W+R | 6.5 | 
-| 2018-08-16 | 第57期十段戦最終予選決勝 | Onishi Ryuhei | Hane Naoki | Lose | B+0.5 | 6.5 | 
-| 2018-08-09 | 第43期棋聖戦Bリーグ | Imamura Toshiya | Hane Naoki | Win | W+R | 6.5 | 
-| 2018-08-02 | 第43期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Lose | W+R | 7.5 | 
-| 2018-07-19 | 第74期本因坊戦最終予選 | Hane Naoki | Shuto Shun | Win | B+0.5 | 6.5 | 
-| 2018-07-05 | 第43期名人戦リーグ | Hane Naoki | Yu Zhengqi | Lose | W+R | 6.5 | 
-| 2018-06-28 | 第66期王座戦2回戦 | Hane Naoki | Motoki Katsuya | Lose | W+3.5 | 6.5 | 
-| 2018-06-21 | 第43期棋聖戦Bリーグ | Yamashiro Hiroshi | Hane Naoki | Lose | B+12.5 | 6.5 | 
-| 2018-06-07 | 第43期名人戦リーグ | Shibano Toramaru | Hane Naoki | Lose | B+3.5 | 6.5 | 
-| 2018-05-24 | 第43期名人戦リーグ | Ko Iso | Hane Naoki | Win | W+R | 6.5 | 
-| 2018-05-17 | 第43期棋聖戦Bリーグ | Shibano Toramaru | Hane Naoki | Lose | B+R | 6.5 | 
-| 2018-05-10 | 第66期王座戦1回戦 | Hane Naoki | Mizokami Tomochika | Win | B+R | 6.5 | 
-| 2018-04-12 | 第44期天元戦2回戦 | Hane Naoki | Suzuki Shinji | Lose | W+R | 6.5 | 
-| 2018-04-05 | 第73期本因坊戦リーグ最終節  | Hane Naoki | Motoki Katsuya | Lose | W+R | 6.5 | 
-| 2018-03-29 | 第43期棋聖戦Bリーグ | Hane Naoki | O Meien | Lose | W+0.5 | 6.5 | 
-| 2018-03-22 | 第66期王座戦予選 | Hane Naoki | O Rissei | Win | B+R | 6.5 | 
-| 2018-03-15 | 第43期棋聖戦Bリーグ | Hane Naoki | Koike Yoshihiro | Win | B+1.5 | 6.5 | 
-| 2018-03-05 | 第5回グランドチャンピオン戦2回戦 | Yu Zhengqi | Hane Naoki | Lose | B+3.5 | 6.5 | 
-| 2018-03-01 | 第43期名人戦リーグ | Yamashita Keigo | Hane Naoki | Win | W+R | 6.5 | 
-| 2018-02-22 | 第43期棋聖戦Bリーグ | Ishida Atsushi | Hane Naoki | Win | W+R | 6.5 | 
-| 2018-02-08 | 第43期名人戦リーグ | Hane Naoki | Kono Rin | Win | B+R | 6.5 | 
-| 2018-01-11 | 第43期名人戦リーグ | Hane Naoki | Takao Shinji | Win | B+R | 6.5 | 
-| 2017-12-21 | 第43期碁聖戦本戦1回戦 | Kurahashi Masayuki | Hane Naoki | Lose | B+R | 6.5 | 
-| 2017-12-14 | 第44期天元戦1回戦 | Hane Naoki | Yamada Takuji | Win | B+0.5 | 6.5 | 
-| 2017-12-07 | 第43期名人戦リーグ | Cho U | Hane Naoki | Lose | B+R | 6.5 | 
-| 2017-11-27 | 第59期日本王冠戦予選 | Kumamoto Syusei | Hane Naoki | Win | W+R | 6.5 | 
-| 2017-11-16 | 第56期十段戦3回戦 | Hane Naoki | Hsu Chiayuan | Lose | W+R | 6.5 | 
-| 2017-11-02 | 第43期名人戦予選 | Hirata Tomoya | Hane Naoki | Win | W+R | 6.5 | 
-| 2017-10-19 | 第56期十段戦2回戦 | Hane Naoki | Kim Sujun | Win | B+0.5 | 6.5 | 
-| 2017-10-15 | 第65回NHK杯テレビ囲碁トーナメント戦2回戦第11局 | Uchida Shuhei | Hane Naoki | Win | W+R | 6.5 | 
-| 2017-10-12 | 第43期名人戦最終予選 | Hane Naoki | Rin Kanketsu | Win | B+R | 6.5 | 
-| 2017-10-05 | 第44期天元戦予選A | Kuwamoto Shinpei | Hane Naoki | Win | W+R | 6.5 | 
-| 2017-09-21 | 第43期名人戦　最終予選1回戦 | Hane Naoki | Cho Riyu | Win | B+R | 6.5 | 
-| 2017-09-14 | 第44期天元戦予選 | Hane Naoki | Goto Shungo | Win | B+R | 6.5 | 
-| 2017-09-07 | 第42期棋聖戦　Aリーグ7回戦 | Hsu Chiayuan | Hane Naoki | Lose | B+R | 6.5 | 
-| 2017-08-03 | 第42期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Win | B+R | 6.5 | 
-| 2017-07-20 | 第42期棋聖戦　Aリーグ6回戦 | Hane Naoki | Yamashiro Hiroshi | Win | B+2.5 | 6.5 | 
-| 2017-07-13 | 第43期碁聖戦　予選A | Kitano Ryo | Hane Naoki | Win | W+R | 6.5 | 
-| 2017-07-06 | 第42期名人戦リーグ | Kono Rin | Hane Naoki | Win | W+R | 6.5 | 
-| 2017-06-29 | 第42期棋聖戦　Aリーグ5回戦 | Hane Naoki | Takao Shinji | Lose | W+2.5 | 6.5 | 
-| 2017-06-22 | 第65期王座戦2回戦 | Ichiriki Ryo | Hane Naoki | Lose | B+R | 6.5 | 
-| 2017-06-08 | 第42期棋聖戦　Aリーグ4回戦 | Yoda Norimoto | Hane Naoki | Lose | B+1.5 | 6.5 | 
-| 2017-06-01 | 第42期名人戦リーグ | Hane Naoki | Ko Iso | Lose | W+R | 6.5 | 
-| 2017-05-25 | 第65期王座戦　本戦1回戦第5局 | Rin Kanketsu | Hane Naoki | Win | W+R | 6.5 | 
-| 2017-05-11 | 第42期棋聖戦　Aリーグ3回戦 | Ryu Shikun | Hane Naoki | Lose | B+R | 6.5 | 
-| 2017-05-04 | 第42期名人戦リーグ | Yamashita Keigo | Hane Naoki | Win | W+R | 6.5 | 
-| 2017-04-27 | 第43期碁聖戦予選 | Hane Naoki | Miyagawa Fumihiko | Win | B+R | 6.5 | 
-| 2017-04-24 | 第42期名人戦リーグ | Hane Naoki | Yu Zhengqi | Lose | W+R | 6.5 | 
-| 2017-04-20 | 第42期棋聖戦　Aリーグ2回戦 | Hane Naoki | Cho Chikun | Lose | W+R | 6.5 | 
-| 2017-04-06 | 第72期本因坊戦　リーグ最終戦 | Hane Naoki | Cho U | Win | B+R | 6.5 | 
-| 2017-03-27 | 第42期名人戦リーグ | Iyama Yuta | Hane Naoki | Lose | B+R | 6.5 | 
-| 2017-03-09 | 第65期王座戦　最終予選特選譜第5局 | Hane Naoki | Komatsu Hideki | Win | B+R | 6.5 | 
-| 2017-03-02 | 第72期本因坊戦　挑戦者決定リーグ第21局 | Hane Naoki | Ko Iso | Lose | W+R | 6.5 | 
-| 2017-02-23 | 第65期王座戦　最終予選 | Hane Naoki | Tanaka Nobuyuki | Win | B+R | 6.5 | 
-| 2017-02-09 | 第72期本因坊戦　挑戦者決定リーグ第18局 | Mitani Tetsuya | Hane Naoki | Win | W+R | 6.5 | 
-| 2017-02-02 | 第42期名人戦リーグ | Sakai Hideyuki | Hane Naoki | Lose | B+0.5 | 6.5 | 
-| 2017-01-19 | 第72期本因坊戦　挑戦者決定リーグ第15局 | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 
-| 2017-01-12 | 第42期名人戦リーグ | Hane Naoki | Cho U | Lose | W+R | 6.5 | 
-| 2017-01-07 | 第64回ＮＨＫ杯テレビ囲碁トーナメント3回戦第5局 | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 
-| 2016-12-26 | 第55期十段戦　準決勝 | Imamura Toshiya | Hane Naoki | Lose | B+R | 6.5 | 
-| 2016-12-01 | 第72期本因坊戦　挑戦者決定リーグ第9局 | Hane Naoki | Motoki Katsuya | Win | B+R | 6.5 | 
-| 2016-11-24 | 第55期十段戦　準々決勝 | Shida Tatsuya | Hane Naoki | Win | W+R | 6.5 | 
-| 2016-11-21 | 第72期本因坊戦　挑戦者決定リーグ第8局 | Yuki Satoshi | Hane Naoki | Win | W+R | 6.5 | 
-| 2016-11-16 | 第57期王冠戦　挑戦手合一番勝負 | Ida Atsushi | Hane Naoki | Lose | B+R | 6.5 | 
-| 2016-11-10 | 第43期天元戦　予選A第3局 | Nakano Hironari | Hane Naoki | Lose | B+0.5 | 6.5 | 
-| 2016-11-07 | 第42期名人戦　最終予選2組決勝 | Ichiriki Ryo | Hane Naoki | Win | W+1.5 | 6.5 | 
-| 2016-11-03 | 第55期十段戦　本戦2回戦 | Hane Naoki | Ida Atsushi | Win | B+R | 6.5 | 
-| 2016-10-27 | 第42期名人戦　最終予選準決勝 | Kobayashi Satoru | Hane Naoki | Win | W+R | 6.5 | 
-| 2016-10-20 | 第72期本因坊戦　挑戦者決定リーグ第4局 | Takao Shinji | Hane Naoki | Win | W+R | 6.5 | 
-| 2016-10-06 | 第43期天元戦予選 | Hane Naoki | Tsuruta Kazushi | Win | B+R | 6.5 | 
-| 2016-09-25 | 第64期NHK杯テレビ囲碁トーナメント2回戦 | Mimura Tomoyasu | Hane Naoki | Win | W+R | 6.5 | 
-| 2016-09-05 | 第72期本因坊戦予選決勝 | Murakawa Daisuke | Hane Naoki | Win | W+R | 6.5 | 
-| 2016-08-25 | 第42期碁聖戦　予選A | Shimojima Yohei | Hane Naoki | Lose | B+0.5 | 6.5 | 
-| 2016-08-18 | 第41期棋聖戦Bリーグ | Akiyama Jiro | Hane Naoki | Win | W+R | 6.5 | 
-| 2016-08-15 | 第64期王座戦準決勝 | Takao Shinji | Hane Naoki | Lose | B+R | 6.5 | 
-| 2016-08-11 | 第41期棋聖戦Bリーグ | Kiyonari Tetsuya | Hane Naoki | Win | W+9.5 | 6.5 | 
-| 2016-08-08 | 第23期阿含・桐山杯全日本早碁オープン戦2回戦 | Hane Naoki | Kono Rin | Lose | W+R | 6.5 | 
-| 2016-08-04 | 第41期名人戦　挑戦者決定リーグ第36局 | Hane Naoki | Hirata Tomoya | Lose | W+R | 6.5 | 
-| 2016-07-28 | 第72期本因坊戦　最終予選第4局 | Hane Naoki | Yoda Norimoto | Win | B+R | 6.5 | 
-| 2016-07-14 | 第64期王座戦2回戦 | Murakawa Daisuke | Hane Naoki | Win | W+1.5 | 6.5 | 
-| 2016-07-07 | 第41期棋聖戦Bリーグ | Cho Sonjin | Hane Naoki | Win | W+R | 6.5 | 
-| 2016-06-30 | 第41期名人戦リーグ | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 
-| 2016-06-23 | 第41期棋聖戦Bリーグ | Hane Naoki | Seto Taiki | Win | B+R | 6.5 | 
-| 2016-06-09 | 第41期名人戦リーグ | Uchida Shuhei | Hane Naoki | Win | W+R | 6.5 | 
-| 2016-05-30 | 第21回LG杯朝鮮日報棋王戦1回戦 | Shin Jinseo | Hane Naoki | Lose | B+R | 6.5 | 
-| 2016-05-26 | 第72期本因坊戦予選 | Hane Naoki | Yamada Takuji | Win | B+R | 6.5 | 
-| 2016-05-19 | 第64期王座戦　本戦1回戦第1局 | Sun Zhe | Hane Naoki | Win | W+5.5 | 6.5 | 
-| 2016-05-12 | 第23期阿含・桐山杯全日本早碁オープン戦予選 | Hane Naoki | Tsuneishi Takashi | Win | B+7.5 | 6.5 | 
-| 2016-05-05 | 第55期十段戦予選 | Hane Naoki | Imamura Yoshiaki | Win | B+R | 6.5 | 
-| 2016-04-28 | 第41期棋聖戦Bリーグ | Hane Naoki | Yu Zhengqi | Lose | W+R | 6.5 | 
-| 2016-04-22 | 第8回応氏杯世界選手権2回戦 | Tang Weixing | Hane Naoki | Lose | B+3 | 7.5 | 
-| 2016-04-20 | 第8回応氏杯世界選手権1回戦 |  | Hane Naoki | Win | W+R | 7.5 | 
-| 2016-04-14 | 第41期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Win | B+R | 6.5 | 
-| 2016-03-31 | 第41期棋聖戦Bリーグ | Yuki Satoshi | Hane Naoki | Lose | B+R | 6.5 | 
-| 2016-03-28 | 第72期本因坊戦予選 | Hane Naoki | Tsuruta Kazushi | Win | B+2.5 | 6.5 | 
-| 2016-03-24 | 第64期王座戦予選 | Rin Kanketsu | Hane Naoki | Win | W+R | 6.5 | 
-| 2016-03-17 | 第41期棋聖戦Bリーグ | Hane Naoki | Ko Iso | Win | B+R | 6.5 | 
-| 2016-03-10 | 第41期碁聖戦本戦2回戦 | Sakai Hideyuki | Hane Naoki | Lose | B+2.5 | 6.5 | 
-| 2016-03-03 | 第41期名人戦リーグ | Kono Rin | Hane Naoki | Win | W+R | 6.5 | 
-| 2016-02-18 | 第72期本因坊戦予選 | Hane Naoki | Sasaka Shiro | Win | B+R | 6.5 | 
-| 2016-02-04 | 第41期名人戦リーグ | Takao Shinji | Hane Naoki | Lose | B+R | 6.5 | 
-| 2016-01-21 | 第55期十段戦予選 | Hane Naoki | Ogata Masaki | Win | B+R | 6.5 | 
-| 2016-01-14 | 第41期碁聖戦本戦1回戦 | Kanazawa Makoto | Hane Naoki | Win | W+2.5 | 6.5 | 
-| 2016-01-07 | 第41期名人戦リーグ | Ko Iso | Hane Naoki | Lose | B+R | 6.5 | 
-| 2015-12-10 | 第41期名人戦リーグ | Hane Naoki | Cho U | Lose | W+R | 6.5 | 
-| 2015-12-04 | 第56期王冠戦挑戦手合一番勝負 | Ogata Masaki | Hane Naoki | Win | W+R | 6.5 | 
-| 2015-11-12 | 第42期天元戦予選 | Ohashi Naruya | Hane Naoki | Lose | B+0.5 | 6.5 | 
-| 2015-11-05 | 第41期名人戦予選 | Ida Atsushi | Hane Naoki | Win | W+R | 6.5 | 
-| 2015-10-29 | 第64期王座戦予選 | Hane Naoki | Mutsuura Yuta | Win | B+R | 6.5 | 
-| 2015-10-15 | 第41期名人戦予選 | Hane Naoki | Cho Chikun | Win | B+3.5 | 6.5 | 
-| 2015-10-01 | 第42期天元戦予選 | Matsuoka Hideki | Hane Naoki | Win | W+R | 6.5 | 
-| 2015-09-28 | 第40期棋聖戦Aリーグ | Yuki Satoshi | Hane Naoki | Lose | B+R | 6.5 | 
-| 2015-09-24 | 第41期名人戦予選 | Hikosaka Naoto | Hane Naoki | Win | W+R | 6.5 | 
-| 2015-08-27 | 第71期本因坊戦予選 | Takao Shinji | Hane Naoki | Lose | B+R | 6.5 | 
-| 2015-08-13 | 第71期本因坊戦予選 | Hane Naoki | Aoki Shinichi | Win | B+5.5 | 6.5 | 
-| 2015-08-06 | 第40期棋聖戦Aリーグ | Cho U | Hane Naoki | Lose | B+R | 6.5 | 
-| 2015-07-30 | 第40期名人戦リーグ | Kanazawa Makoto | Hane Naoki | Win | W+R | 6.5 | 
-| 2015-07-23 | 第40期棋聖戦Aリーグ | Hane Naoki | Cho Riyu | Lose | W+R | 6.5 | 
-| 2015-07-20 | 第54期十段戦予選 | Seto Taiki | Hane Naoki | Lose | B+R | 6.5 | 
-| 2015-07-16 | 第71期本因坊戦予選 | Hoshino Masaki | Hane Naoki | Win | W+R | 6.5 | 
-| 2015-07-02 | 第71期本因坊戦予選 | Tsuruta Kazushi | Hane Naoki | Win | W+R | 6.5 | 
-| 2015-06-25 | 第40期名人戦リーグ | Hane Naoki | Cho U | Lose | W+R | 6.5 | 
-| 2015-06-18 | 第40期棋聖戦Aリーグ | Ichiriki Ryo | Hane Naoki | Lose | B+R | 6.5 | 
-| 2015-06-08 | 第20回LG杯朝鮮日報棋王戦1回戦 | Hane Naoki | Lee Donghoon | Lose | W+2.5 | 6.5 | 
-| 2015-06-04 | 第40期棋聖戦Aリーグ | Hane Naoki | Cho Chikun | Win | B+R | 6.5 | 
-| 2015-05-29 | 第40期名人戦リーグ | Yamashita Keigo | Hane Naoki | Lose | B+0.5 | 6.5 | 
-| 2015-05-21 | 第71期本因坊戦予選 | Hane Naoki | Hiroe Hiroyuki | Win | B+R | 6.5 | 
-| 2015-05-18 | 第63期王座戦予選 | Hane Naoki | Ko Iso | Lose | W+R | 6.5 | 
-| 2015-05-14 | 第40期名人戦リーグ | So Yokoku | Hane Naoki | Win | W+R | 6.5 | 
-| 2015-05-07 | 第40期棋聖戦Aリーグ | Hane Naoki | Mizokami Tomochika | Win | B+R | 6.5 | 
-| 2015-04-23 | 第40期棋聖戦Aリーグ | Hane Naoki | Kono Rin | Lose | W+5.5 | 6.5 | 
-| 2015-04-18 | 第40期名人戦リーグ | Takao Shinji | Hane Naoki | Lose | B+R | 6.5 | 
-| 2015-04-02 | 第63期王座戦予選 | Hane Naoki | Shuto Shun | Win | B+R | 6.5 | 
-| 2015-03-12 | 第40期名人戦リーグ | Hane Naoki | Kono Rin | Lose | W+R | 6.5 | 
-| 2015-03-05 | 第63期王座戦予選 | Hane Naoki | Yamada Kimio | Win | B+R | 6.5 | 
-| 2015-02-26 | 第40期碁聖戦本戦2回戦 | Murakawa Daisuke | Hane Naoki | Lose | B+R | 6.5 | 
-| 2015-02-12 | 第63期王座戦予選 | Ida Atsushi | Hane Naoki | Win | W+R | 6.5 | 
-| 2015-02-09 | 第40期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Lose | W+R | 6.5 | 
-| 2014-12-25 | 第53期十段戦3回戦 | Hane Naoki | Shida Tatsuya | Lose | W+R | 6.5 | 
-| 2014-12-18 | 第41期天元戦本戦1回戦 | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 
-| 2014-12-11 | 第40期碁聖戦本戦1回戦 | Hane Naoki | Cho Sonjin | Win | B+R | 6.5 | 
-| 2014-12-04 | 第40期名人戦リーグ | Hane Naoki | Ko Iso | Lose | W+R | 6.5 | 
-| 2014-11-29 | 第55期王冠戦挑戦手合一番勝負 | Yamashiro Hiroshi | Hane Naoki | Win | W+R | 6.5 | 
-| 2014-10-28 | 第53期十段戦2回戦 | Hane Naoki | Murakawa Daisuke | Win | B+R | 6.5 | 
-| 2014-10-23 | 第41期天元戦予選 | Yanagisawa Satoshi | Hane Naoki | Win | W+R | 6.5 | 
-| 2014-10-02 | 第39期棋聖戦Aリーグ | Hane Naoki | Kono Rin | Lose | W+R | 6.5 | 
-| 2014-09-25 | 第41期天元戦予選 | Ishida Atsushi | Hane Naoki | Win | W+6.5 | 6.5 | 
-| 2014-08-28 | 第39期棋聖戦Aリーグ | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 
-| 2014-07-31 | 第39期名人戦リーグ | Takao Shinji | Hane Naoki | Lose | B+4.5 | 6.5 | 
-| 2014-07-17 | 第70期本因坊戦予選 | Hane Naoki | Yuki Satoshi | Lose | W+R | 6.5 | 
-| 2014-07-10 | 第39期棋聖戦Aリーグ | Ichiriki Ryo | Hane Naoki | Win | W+R | 6.5 | 
-| 2014-07-03 | 第40期天元戦本戦3回戦 | Kono Rin | Hane Naoki | Lose | B+R | 6.5 | 
-| 2014-06-26 | 第39期棋聖戦Aリーグ | Yamashiro Hiroshi | Hane Naoki | Lose | B+2.5 | 6.5 | 
-| 2014-06-12 | 第21期阿含・桐山杯全日本早碁オープン戦予選 | Matsumoto Takehisa | Hane Naoki | Lose | B+R | 6.5 | 
-| 2014-06-05 | 第39期名人戦リーグ | Hane Naoki | Ryu Shikun | Win | B+1.5 | 6.5 | 
-| 2014-05-29 | 第70期本因坊戦予選 | Hane Naoki | Goto Shungo | Win | B+3.5 | 6.5 | 
-| 2014-05-22 | 第39期棋聖戦Aリーグ | Hane Naoki | Takao Shinji | Lose | W+3.5 | 6.5 | 
-| 2014-05-08 | 第40期天元戦本戦2回戦 | Hane Naoki | Ito Masashi | Win | B+0.5 | 6.5 | 
-| 2014-05-01 | 第39期名人戦リーグ | Ko Iso | Hane Naoki | Win | W+R | 6.5 | 
-| 2014-04-24 | 第39期碁聖戦本戦準決勝 | Cho Riyu | Hane Naoki | Lose | B+0.5 | 6.5 | 
-| 2014-04-17 | 第62期王座戦予選 | Matsumoto Takehisa | Hane Naoki | Lose | B+R | 6.5 | 
-| 2014-04-10 | 第70期本因坊戦予選 | Yanagisawa Satoshi | Hane Naoki | Win | W+R | 6.5 | 
-| 2014-04-03 | 第39期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Lose | W+R | 6.5 | 
-| 2014-03-27 | 第39期碁聖戦本戦3回戦 | Anzai Nobuaki | Hane Naoki | Win | W+R | 6.5 | 
-| 2014-03-06 | 第39期名人戦リーグ | Hane Naoki | Cho U | Win | B+R | 6.5 | 
-| 2014-02-27 | 第39期碁聖戦本戦2回戦 | Hane Naoki | Ko Iso | Win | B+R | 6.5 | 
-| 2014-02-20 | 第40期天元戦本戦1回戦 | Chin Kaei | Hane Naoki | Win | W+R | 6.5 | 
-| 2014-02-06 | 第39期名人戦リーグ | Yuki Satoshi | Hane Naoki | Win | W+R | 6.5 | 
-| 2014-01-23 | 第39期碁聖戦本戦1回戦 | Hane Naoki | Mizokami Tomochika | Win | B+2.5 | 6.5 | 
-| 2014-01-16 | 第40期天元戦予選 | Hane Naoki | Goto Shungo | Win | B+R | 6.5 | 
-| 2014-01-09 | 第39期名人戦リーグ | Kono Rin | Hane Naoki | Lose | B+R | 6.5 | 
-| 2013-12-26 | 第52期十段戦準決勝 | Takao Shinji | Hane Naoki | Lose | B+R | 6.5 | 
-| 2013-12-12 | 第40期天元戦予選 | Hane Naoki | Yamamoto Kentaro | Win | B+R | 6.5 | 
-| 2013-12-05 | 第39期名人戦リーグ | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 
-| 2013-11-29 | 第54期王冠戦挑戦手合一番勝負 | Hane Naoki | Nakano Hironari | Win | B+R | 6.5 | 
-| 2013-11-25 | 第52期十段戦3回戦 | Hane Naoki | Ichiriki Ryo | Win | B+R | 6.5 | 
-| 2013-11-07 | 第39期碁聖戦予選 | Hane Naoki | Tsuruta Kazushi | Win | B+R | 6.5 | 
-| 2013-10-24 | 第52期十段戦2回戦 | Hane Naoki | Ryu Shikun | Win | B+R | 6.5 | 
-| 2013-10-03 | 第38期棋聖戦Bリーグ | Hane Naoki | Mizokami Tomochika | Lose | W+R | 6.5 | 
-| 2013-09-19 | 第39期碁聖戦予選 | Hane Naoki | Kitano Ryo | Win | B+R | 6.5 | 
-| 2013-09-05 | 第38期棋聖戦Bリーグ | Cho Chikun | Hane Naoki | Win | W+R | 6.5 | 
-| 2013-08-29 | 第61期王座戦準決勝 | Yuki Satoshi | Hane Naoki | Lose | B+R | 6.5 | 
-| 2013-08-22 | 第52期十段戦予選 | Hane Naoki | Yamashiro Hiroshi | Win | B+0.5 | 6.5 | 
-| 2013-08-08 | 第61期王座戦2回戦 | Hane Naoki | Murakawa Daisuke | Win | B+R | 6.5 | 
-| 2013-08-01 | 第38期名人戦リーグ | Iyama Yuta | Hane Naoki | Lose | B+R | 6.5 | 
-| 2013-07-18 | 第38期棋聖戦Bリーグ | Kono Rin | Hane Naoki | Win | W+1.5 | 6.5 | 
-| 2013-07-11 | 第39期天元戦本戦2回戦 | Hane Naoki | Cho U | Lose | W+1.5 | 6.5 | 
-| 2013-07-04 | 第38期名人戦リーグ | Sakai Hideyuki | Hane Naoki | Win | W+6.5 | 6.5 | 
-| 2013-06-27 | 第38期棋聖戦Bリーグ | Hane Naoki | Murakawa Daisuke | Lose | W+R | 6.5 | 
-| 2013-06-20 | 第38期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Lose | W+R | 6.5 | 
-| 2013-06-10 | 第18回LG杯朝鮮日報棋王戦1回戦 | Mok Jinseok | Hane Naoki | Lose | B+0.5 | 6.5 | 
-| 2013-05-30 | 第61期王座戦1回戦 | Hane Naoki | Kiyonari Tetsuya | Win | B+R | 6.5 | 
-| 2013-05-23 | 第38期棋聖戦Bリーグ | Hane Naoki | Takao Shinji | Lose | W+0.5 | 6.5 | 
-| 2013-04-25 | 第69期本因坊戦予選 | Ogata Masaki | Hane Naoki | Lose | B+0.5 | 6.5 | 
-| 2013-04-11 | 第38期名人戦リーグ | Hane Naoki | Yuki Satoshi | Win | B+R | 6.5 | 
-| 2013-03-14 | 第69期本因坊戦予選 | Hane Naoki | Ito Yoji | Win | B+R | 6.5 | 
-| 2013-03-07 | 第38期名人戦リーグ | Hane Naoki | Cho U | Lose | W+3.5 | 6.5 | 
-| 2013-02-14 | 第38期名人戦リーグ | Takao Shinji | Hane Naoki | Win | W+R | 6.5 | 
-| 2013-02-07 | 第39期天元戦本戦1回戦 | Hane Naoki | Kim Sujun | Win | B+R | 6.5 | 
-| 2013-01-17 | 第38期名人戦リーグ | Mizokami Tomochika | Hane Naoki | Win | W+3.5 | 6.5 | 
-| 2012-12-20 | 第38期名人戦リーグ | Hane Naoki | Kono Rin | Win | B+R | 6.5 | 
-| 2012-11-27 | 第53期王冠戦挑戦手合一番勝負 | Nakano Hironari | Hane Naoki | Win | W+3.5 | 6.5 | 
-| 2012-11-22 | 第38期碁聖戦本戦1回戦 | Hane Naoki | Kato Atsushi | Lose | W+4.5 | 6.5 | 
-| 2012-11-13 | 第37期名人戦挑戦手合七番勝負第7局 | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 
-| 2012-11-01 | 第37期名人戦挑戦手合七番勝負第6局 | Yamashita Keigo | Hane Naoki | Win | W+R | 6.5 | 
-| 2012-10-18 | 第37期名人戦挑戦手合七番勝負第5局 | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 
-| 2012-10-11 | 第37期名人戦挑戦手合七番勝負第4局 | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 
-| 2012-10-04 | 第37期棋聖戦Bリーグ | Hane Naoki | Iyama Yuta | Lose | W+0.5 | 6.5 | 
-| 2012-09-28 | 第37期名人戦挑戦手合七番勝負第3局 | Hane Naoki | Yamashita Keigo | Win | B+R | 6.5 | 
-| 2012-09-21 | 第37期名人戦挑戦手合七番勝負第2局 | Yamashita Keigo | Hane Naoki | Win | W+R | 6.5 | 
-| 2012-09-13 | 第60期王座戦挑戦者決定戦 | Iyama Yuta | Hane Naoki | Lose | B+R | 6.5 | 
-| 2012-09-06 | 第51期十段戦予選 | Hane Naoki | Kim Sujun | Lose | W+R | 6.5 | 
-| 2012-08-31 | 第37期名人戦挑戦手合七番勝負第1局 | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 
-| 2012-08-27 | 第19期阿含・桐山杯全日本早碁オープン戦準決勝 | Hane Naoki | Cho U | Lose | W+R | 6.5 | 
-| 2012-08-23 | 第37期棋聖戦Bリーグ | Yoda Norimoto | Hane Naoki | Win | W+1.5 | 6.5 | 
-| 2012-08-20 | 第60期王座戦準決勝 | Tsuruyama Atsushi | Hane Naoki | Win | W+R | 6.5 | 
-| 2012-08-14 | 第24回テレビアジア選手権1回戦 | Hane Naoki | Park Junghwan | Lose | W+R | 6.5 | 
-| 2012-08-09 | 第19期阿含・桐山杯全日本早碁オープン戦2回戦 | Cho Sonjin | Hane Naoki | Win | W+2.5 | 6.5 | 
-| 2012-08-06 | 第37期名人戦挑戦者決定プレーオフ | Hane Naoki | Iyama Yuta | Win | B+R | 6.5 | 
-| 2012-08-02 | 第37期名人戦リーグ | Kono Rin | Hane Naoki | Win | W+R | 6.5 | 
-| 2012-07-26 | 第60期王座戦2回戦 | Hane Naoki | Kim Sujun | Win | B+R | 6.5 | 
-| 2012-07-23 | 第37期碁聖戦挑戦手合五番勝負第3局 | Iyama Yuta | Hane Naoki | Lose | B+R | 6.5 | 
-| 2012-07-19 | 第37期棋聖戦Bリーグ | Hane Naoki | Mizokami Tomochika | Win | B+R | 6.5 | 
-| 2012-07-13 | 第37期碁聖戦挑戦手合五番勝負第2局 | Hane Naoki | Iyama Yuta | Lose | W+R | 6.5 | 
-| 2012-07-09 | 第19期阿含・桐山杯全日本早碁オープン戦1回戦 | Hane Naoki | So Yokoku | Win | B+R | 6.5 | 
-| 2012-07-05 | 第60期王座戦1回戦 | Hane Naoki | Lee Ishu | Win | B+R | 6.5 | 
-| 2012-06-28 | 第37期碁聖戦挑戦手合五番勝負第1局 | Iyama Yuta | Hane Naoki | Lose | B+R | 6.5 | 
-| 2012-06-21 | 第37期棋聖戦Bリーグ | Awaji Shuzo | Hane Naoki | Lose | B+R | 6.5 | 
-| 2012-06-14 | 第37期名人戦リーグ | Hane Naoki | Cho U | Win | B+2.5 | 6.5 | 
-| 2012-06-07 | 第68期本因坊戦予選 | Kubo Hideo | Hane Naoki | Lose | B+R | 6.5 | 
-| 2012-05-31 | 第38期天元戦本戦3回戦 | Hane Naoki | Kono Rin | Lose | W+4.5 | 6.5 | 
-| 2012-05-23 | 第7回応氏杯世界選手権1回戦 | Kong Jie | Hane Naoki | Lose | B+1 | 7.5 | 
-| 2012-05-17 | 第37期棋聖戦Bリーグ | Hane Naoki | Yamashiro Hiroshi | Win | B+R | 6.5 | 
-| 2012-05-10 | 第38期天元戦本戦2回戦 | Hane Naoki | Shida Tatsuya | Win | B+R | 6.5 | 
-| 2012-04-26 | 第37期名人戦リーグ | Hane Naoki | Mizokami Tomochika | Win | B+R | 6.5 | 
-| 2012-04-12 | 第37期名人戦リーグ | Takao Shinji | Hane Naoki | Win | W+R | 6.5 | 
-| 2012-03-29 | 第67期本因坊戦リーグ | Iyama Yuta | Hane Naoki | Lose | B+R | 6.5 | 
-| 2012-03-22 | 第67期本因坊戦リーグ | Seto Taiki | Hane Naoki | Win | W+R | 6.5 | 
-| 2012-03-14 | 第1回百霊杯世界囲碁選手権1回戦 | Huang Yunsong | Hane Naoki | Lose | B+R | 7.5 | 
-| 2012-03-01 | 第37期名人戦リーグ | Yuki Satoshi | Hane Naoki | Win | W+R | 6.5 | 
-| 2012-02-23 | 第38期天元戦本戦1回戦 | Yuki Satoshi | Hane Naoki | Win | W+3.5 | 6.5 | 
-| 2012-02-16 | 第67期本因坊戦リーグ | Hane Naoki | Kono Rin | Lose | W+R | 6.5 | 
-| 2012-02-09 | 第37期名人戦リーグ | Hane Naoki | Kim Sujun | Win | B+R | 6.5 | 
-| 2012-01-16 | 第67期本因坊戦リーグ | Takao Shinji | Hane Naoki | Win | W+R | 6.5 | 
-| 2012-01-12 | 第37期名人戦リーグ | Uchida Shuhei | Hane Naoki | Win | W+R | 6.5 | 
-| 2011-12-22 | 第37期名人戦リーグ | Hane Naoki | Iyama Yuta | Lose | W+3.5 | 6.5 | 
-| 2011-12-15 | 第67期本因坊戦リーグ | Hane Naoki | Cho U | Lose | W+R | 6.5 | 
-| 2011-11-28 | 第13回農心辛ラーメン杯世界囲碁最強戦第5戦 | Tan Xiao | Hane Naoki | Lose | B+R | 6.5 | 
-| 2011-11-24 | 第59期王座戦挑戦手合五番勝負第3局 | Hane Naoki | Cho U | Lose | W+R | 6.5 | 
-| 2011-11-16 | 第52期王冠戦挑戦手合一番勝負 | Hane Naoki | Yamashiro Hiroshi | Win | B+5.5 | 6.5 | 
-| 2011-11-11 | 第59期王座戦挑戦手合五番勝負第2局 | Cho U | Hane Naoki | Lose | B+1.5 | 6.5 | 
-| 2011-11-03 | 第67期本因坊戦リーグ | Ko Iso | Hane Naoki | Win | W+R | 6.5 | 
-| 2011-10-27 | 第38期天元戦予選 | Hane Naoki | Goto Shungo | Win | B+R | 6.5 | 
-| 2011-10-20 | 第59期王座戦挑戦手合五番勝負第1局 | Hane Naoki | Cho U | Lose | W+3.5 | 6.5 | 
-| 2011-10-06 | 第67期本因坊戦リーグ | Hane Naoki | Yuki Satoshi | Lose | W+R | 6.5 | 
-| 2011-09-29 | 第36期棋聖戦Aリーグ | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 
-| 2011-09-22 | 第38期天元戦予選 | Hane Naoki | Imamura Yoshiaki | Win | B+R | 6.5 | 
-| 2011-09-10 | 第7回大和証券杯ネット囲碁オープン1回戦 | Hane Naoki | Ogata Masaki | Lose | W+R | 6.5 | 
-| 2011-09-08 | 第59期王座戦挑戦者決定戦 | Iyama Yuta | Hane Naoki | Win | W+R | 6.5 | 
-| 2011-09-01 | 第50期十段戦1回戦 | Hane Naoki | Akiyama Jiro | Lose | W+0.5 | 6.5 | 
-| 2011-08-29 | 第36期碁聖戦挑戦手合五番勝負第5局 | Sakai Hideyuki | Hane Naoki | Win | W+R | 6.5 | 
-| 2011-08-22 | 第36期棋聖戦Aリーグ | Hane Naoki | Kono Rin | Lose | W+R | 6.5 | 
-| 2011-08-18 | 第36期碁聖戦挑戦手合五番勝負第4局 | Sakai Hideyuki | Hane Naoki | Win | W+6.5 | 6.5 | 
-| 2011-08-11 | 第24回世界囲碁選手権富士通杯2回戦 | Hane Naoki | Piao Wenyao | Lose | W+R | 6.5 | 
-| 2011-08-10 | 第24回世界囲碁選手権富士通杯1回戦 | Seto Taiki | Hane Naoki | Win | W+5.5 | 6.5 | 
-| 2011-08-08 | 第36期名人戦挑戦者決定プレーオフ | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 
-| 2011-08-04 | 第36期名人戦リーグ | Sakai Hideyuki | Hane Naoki | Win | W+0.5 | 6.5 | 
-| 2011-08-01 | 第31期NECカップ囲碁トーナメント戦1回戦 | Ogata Masaki | Hane Naoki | Lose | B+R | 6.5 | 
-| 2011-07-29 | 第36期碁聖戦挑戦手合五番勝負第3局 | Hane Naoki | Sakai Hideyuki | Win | B+3.5 | 6.5 | 
-| 2011-07-25 | 第36期棋聖戦Aリーグ | Seto Taiki | Hane Naoki | Win | W+R | 6.5 | 
-| 2011-07-21 | 第66期本因坊戦挑戦手合七番勝負第7局 | Hane Naoki | Yamashita Keigo | Lose | W+4.5 | 6.5 | 
-| 2011-07-14 | 第66期本因坊戦挑戦手合七番勝負第6局 | Yamashita Keigo | Hane Naoki | Win | W+7.5 | 6.5 | 
-| 2011-07-10 | 第36期碁聖戦挑戦手合五番勝負第2局 | Sakai Hideyuki | Hane Naoki | Lose | B+1.5 | 6.5 | 
-| 2011-07-07 | 第36期名人戦リーグ | Hane Naoki | Mizokami Tomochika | Lose | W+1.5 | 6.5 | 
-| 2011-06-30 | 第66期本因坊戦挑戦手合七番勝負第5局 | Hane Naoki | Yamashita Keigo | Win | B+R | 6.5 | 
-| 2011-06-23 | 第36期碁聖戦挑戦手合五番勝負第1局 | Hane Naoki | Sakai Hideyuki | Lose | W+R | 6.5 | 
-| 2011-06-20 | 第59期王座戦準決勝 | Mitani Tetsuya | Hane Naoki | Win | W+R | 6.5 | 
-| 2011-06-16 | 第66期本因坊戦挑戦手合七番勝負第4局 | Yamashita Keigo | Hane Naoki | Win | W+0.5 | 6.5 | 
-| 2011-06-09 | 第36期名人戦リーグ | Cho Chikun | Hane Naoki | Win | W+R | 6.5 | 
-| 2011-06-06 | 第36期棋聖戦Aリーグ | Iyama Yuta | Hane Naoki | Win | W+R | 6.5 | 
-| 2011-06-03 | 第66期本因坊戦挑戦手合七番勝負第3局 | Hane Naoki | Yamashita Keigo | Lose | W+1.5 | 6.5 | 
-| 2011-05-30 | 第59期王座戦2回戦 | Cho Chikun | Hane Naoki | Win | W+R | 6.5 | 
-| 2011-05-25 | 第66期本因坊戦挑戦手合七番勝負第2局 | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 
-| 2011-05-19 | 第36期碁聖戦挑戦者決定戦 | Rin Shien | Hane Naoki | Win | W+R | 6.5 | 
-| 2011-05-16 | 第36期棋聖戦Aリーグ | Kato Atsushi | Hane Naoki | Win | W+R | 6.5 | 
-| 2011-05-12 | 第66期本因坊戦挑戦手合七番勝負第1局 | Hane Naoki | Yamashita Keigo | Lose | W+7.5 | 6.5 | 
-| 2011-05-05 | 第18期阿含・桐山杯全日本早碁オープン戦予選 | Hane Naoki | O Meien | Lose | W+R | 6.5 | 
-| 2011-04-28 | 第59期王座戦1回戦 | Hane Naoki | Kobayashi Satoru | Win | B+1.5 | 6.5 | 
-| 2011-04-14 | 第36期碁聖戦本戦準決勝 | Hane Naoki | Cho Chikun | Win | B+R | 6.5 | 
-| 2011-03-31 | 第66期本因坊戦リーグ | O Rissei | Hane Naoki | Win | W+0.5 | 6.5 | 
-| 2011-03-24 | 第36期名人戦リーグ | Hane Naoki | Yuki Satoshi | Win | B+R | 6.5 | 
-| 2011-03-03 | 第66期本因坊戦リーグ | Hane Naoki | Seto Taiki | Win | B+R | 6.5 | 
-| 2011-02-24 | 第36期名人戦リーグ | Hane Naoki | Takao Shinji | Win | B+R | 6.5 | 
-| 2011-02-10 | 第66期本因坊戦リーグ | Hane Naoki | Cho U | Lose | W+R | 6.5 | 
-| 2011-02-03 | 第36期名人戦リーグ | Hane Naoki | Yamashita Keigo | Win | B+6.5 | 6.5 | 
-| 2011-01-27 | 第37期天元戦本戦1回戦 | Yamashiro Hiroshi | Hane Naoki | Lose | B+3.5 | 6.5 | 
-| 2011-01-20 | 第36期碁聖戦本戦3回戦 | Iyama Yuta | Hane Naoki | Win | W+R | 6.5 | 
-| 2011-01-13 | 第36期碁聖戦本戦2回戦 | Hane Naoki | Chin Kaei | Win | B+R | 6.5 | 
-| 2011-01-06 | 第36期名人戦リーグ | Cho U | Hane Naoki | Lose | B+R | 6.5 | 
-| 2010-12-23 | 第66期本因坊戦リーグ | Hane Naoki | Iyama Yuta | Win | B+R | 6.5 | 
-| 2010-12-16 | 第36期名人戦リーグ | Rin Kanketsu | Hane Naoki | Win | W+0.5 | 6.5 | 
-| 2010-12-09 | 第66期本因坊戦リーグ | Hane Naoki | Kobayashi Satoru | Win | B+R | 6.5 | 
-| 2010-11-30 | 第12回農心辛ラーメン杯世界囲碁最強戦第6戦 | Hane Naoki | Xie He | Lose | W+R | 6.5 | 
-| 2010-11-25 | 第51期王冠戦挑戦手合一番勝負 | Hane Naoki | Yamashiro Hiroshi | Lose | W+4.5 | 6.5 | 
-| 2010-11-11 | 第66期本因坊戦リーグ | Cho Sonjin | Hane Naoki | Win | W+R | 6.5 | 
-| 2010-10-28 | 第36期名人戦予選 | Yamada Kimio | Hane Naoki | Win | W+R | 6.5 | 
-| 2010-10-21 | 第66期本因坊戦リーグ | Takao Shinji | Hane Naoki | Win | W+R | 6.5 | 
-| 2010-10-14 | 第49期十段戦敗者復活戦3回戦 | Hane Naoki | Cho Chikun | Lose | W+2.5 | 6.5 | 
-| 2010-09-30 | 第35期棋聖戦Bリーグ | Akiyama Jiro | Hane Naoki | Win | W+R | 6.5 | 
-| 2010-09-23 | 第36期名人戦予選 | Murakawa Daisuke | Hane Naoki | Win | W+R | 6.5 | 
-| 2010-09-18 | 第6回大和証券杯ネット囲碁オープン2回戦 | Yoda Norimoto | Hane Naoki | Lose | B+1.5 | 6.5 | 
-| 2010-09-09 | 第15回三星火災杯世界囲碁マスターズ1回戦D2 | Hane Naoki | Min Sangyoun | Lose | W+R | 6.5 | 
-| 2010-09-08 | 第15回三星火災杯世界囲碁マスターズ1回戦D1 | Heo Yongho | Hane Naoki | Lose | B+R | 6.5 | 
-| 2010-09-02 | 第35期棋聖戦Bリーグ | Hane Naoki | Ryu Shikun | Win | B+0.5 | 6.5 | 
-| 2010-08-26 | 第49期十段戦敗者復活戦2回戦 | So Yokoku | Hane Naoki | Win | W+0.5 | 6.5 | 
-| 2010-08-19 | 第36期名人戦予選 | Hane Naoki | Tsuruyama Atsushi | Win | B+R | 6.5 | 
-| 2010-08-12 | 第30期NECカップ囲碁トーナメント戦2回戦 | Hane Naoki | Cho U | Lose | W+4.5 | 6.5 | 
-| 2010-08-05 | 第35期棋聖戦Bリーグ | Hane Naoki | Iyama Yuta | Win | B+R | 6.5 | 
-| 2010-07-31 | 第6回大和証券杯ネット囲碁オープン1回戦 | So Yokoku | Hane Naoki | Win | W+R | 6.5 | 
-| 2010-07-29 | 第35期棋聖戦Bリーグ | Yamashiro Hiroshi | Hane Naoki | Lose | B+1.5 | 6.5 | 
-| 2010-07-22 | 第49期十段戦本戦2回戦 | Hane Naoki | Iyama Yuta | Lose | W+R | 6.5 | 
-| 2010-07-19 | 第30期NECカップ囲碁トーナメント戦1回戦 | Takao Shinji | Hane Naoki | Win | W+R | 6.5 | 
-| 2010-07-08 | 第17期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Chikun | Hane Naoki | Lose | B+R | 6.5 | 
-| 2010-06-29 | 第65期本因坊戦挑戦手合七番勝負第5局 | Hane Naoki | Yamashita Keigo | Lose | W+7.5 | 6.5 | 
-| 2010-06-24 | 第35期棋聖戦Bリーグ | Hane Naoki | O Rissei | Lose | W+R | 6.5 | 
-| 2010-06-18 | 第65期本因坊戦挑戦手合七番勝負第4局 | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 
-| 2010-06-09 | 第65期本因坊戦挑戦手合七番勝負第3局 | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 
-| 2010-06-03 | 第58期王座戦2回戦 | Mitani Tetsuya | Hane Naoki | Lose | B+R | 6.5 | 
-| 2010-05-27 | 第65期本因坊戦挑戦手合七番勝負第2局 | Yamashita Keigo | Hane Naoki | Lose | B+1.5 | 6.5 | 
-| 2010-05-20 | 第49期十段戦本戦1回戦 | Hane Naoki | Yamashiro Hiroshi | Win | B+5.5 | 6.5 | 
-| 2010-05-12 | 第65期本因坊戦挑戦手合七番勝負第1局 | Hane Naoki | Yamashita Keigo | Win | B+3.5 | 6.5 | 
-| 2010-04-29 | 第58期王座戦1回戦 | Seto Taiki | Hane Naoki | Win | W+R | 6.5 | 
-| 2010-04-22 | 第49期十段戦予選 | Hane Naoki | Chin Kaei | Win | B+R | 6.5 | 
-| 2010-04-12 | 第23回世界囲碁選手権富士通杯2回戦 | Hane Naoki | Kang Dongyun | Lose | W+R | 6.5 | 
-| 2010-04-10 | 第23回世界囲碁選手権富士通杯1回戦 | Choi Cheolhan | Hane Naoki | Win | W+1.5 | 6.5 | 
-| 2010-03-09 | 第11回農心辛ラーメン杯世界囲碁最強戦第11戦 | Liu Xing | Hane Naoki | Lose | B+5.5 | 6.5 | 
-| 2010-03-06 | 第29期NECカップ囲碁トーナメント戦決勝 | Kono Rin | Hane Naoki | Lose | B+R | 6.5 | 
-| 2010-02-13 | 第29期NECカップ囲碁トーナメント戦準決勝 | Hane Naoki | Ko Iso | Win | B+7.5 | 6.5 | 
-| 2010-02-01 | 第36期天元戦本戦1回戦 | Iyama Yuta | Hane Naoki | Lose | B+R | 6.5 | 
-| 2010-01-23 | 第11回農心辛ラーメン杯世界囲碁最強戦第10戦 | Hane Naoki | Park Yeonghun | Win | B+R | 6.5 | 
-| 2010-01-22 | 第11回農心辛ラーメン杯世界囲碁最強戦第9戦 | Hane Naoki | Xie He | Win | B+R | 6.5 | 
-| 2009-12-09 | 第11回阿含・桐山杯日中決戦 | Sun Tengyu | Hane Naoki | Lose | B+3.5 | 7.5 | 
-| 2009-11-26 | 第50期王冠戦挑戦手合一番勝負 | Yamashiro Hiroshi | Hane Naoki | Win | W+R | 6.5 | 
-| 2009-10-29 | 第35期名人戦予選 | Yuki Satoshi | Hane Naoki | Lose | B+4.5 | 6.5 | 
-| 2009-10-22 | 第35期碁聖戦本戦1回戦 | Yukawa Mitsuhisa | Hane Naoki | Lose | B+6.5 | 6.5 | 
-| 2009-10-17 | 第16期阿含・桐山杯全日本早碁オープン戦決勝 | Cho U | Hane Naoki | Win | W+R | 6.5 | 
-| 2009-10-01 | 第34期棋聖戦Aリーグ | Kiyonari Tetsuya | Hane Naoki | Win | W+R | 6.5 | 
-| 2009-09-11 | 第14回三星火災杯世界囲碁マスターズ1回戦H2 | Kim Jiseok | Hane Naoki | Lose | B+R | 6.5 | 
-| 2009-09-10 | 第14回三星火災杯世界囲碁マスターズ1回戦H1 | Song Taekon | Hane Naoki | Lose | B+R | 6.5 | 
-| 2009-09-05 | 第5回大和証券杯ネット囲碁オープン2回戦 | Hane Naoki | O Meien | Lose | W+0.5 | 6.5 | 
-| 2009-09-03 | 第34期棋聖戦Aリーグ | Takao Shinji | Hane Naoki | Lose | B+R | 6.5 | 
-| 2009-08-29 | 第29期NECカップ囲碁トーナメント戦2回戦 | Hane Naoki | Cho U | Win | B+2.5 | 6.5 | 
-| 2009-08-22 | 第5回大和証券杯ネット囲碁オープン1回戦 | Ko Iso | Hane Naoki | Win | W+R | 6.5 | 
-| 2009-08-13 | 第34期棋聖戦Aリーグ | Hane Naoki | Lee Ishu | Win | B+R | 6.5 | 
-| 2009-08-06 | 第16期阿含・桐山杯全日本早碁オープン戦準決勝 | Hane Naoki | Yamashita Keigo | Win | B+R | 6.5 | 
-| 2009-07-23 | 第34期棋聖戦Aリーグ | Hane Naoki | O Rissei | Lose | W+1.5 | 6.5 | 
-| 2009-07-16 | 第64期本因坊戦挑戦手合七番勝負第6局 | Hane Naoki | Takao Shinji | Win | B+5.5 | 6.5 | 
-| 2009-07-09 | 第16期阿含・桐山杯全日本早碁オープン戦2回戦 | Hane Naoki | Mizokami Tomochika | Win | B+3.5 | 6.5 | 
-| 2009-06-30 | 第64期本因坊戦挑戦手合七番勝負第5局 | Takao Shinji | Hane Naoki | Lose | B+R | 6.5 | 
-| 2009-06-19 | 第64期本因坊戦挑戦手合七番勝負第4局 | Hane Naoki | Takao Shinji | Win | B+6.5 | 6.5 | 
-| 2009-06-15 | 第16期阿含・桐山杯全日本早碁オープン戦1回戦 | Rin Shien | Hane Naoki | Win | W+R | 6.5 | 
-| 2009-06-11 | 第64期本因坊戦挑戦手合七番勝負第3局 | Takao Shinji | Hane Naoki | Win | W+R | 6.5 | 
-| 2009-06-04 | 第34期棋聖戦Aリーグ | Hane Naoki | Yoda Norimoto | Win | B+3.5 | 6.5 | 
-| 2009-05-28 | 第64期本因坊戦挑戦手合七番勝負第2局 | Hane Naoki | Takao Shinji | Lose | W+R | 6.5 | 
-| 2009-05-20 | 第14回LG杯世界棋王戦2回戦 | Hane Naoki | Gu Li | Lose | W+R | 6.5 | 
-| 2009-05-18 | 第14回LG杯世界棋王戦1回戦 | Hane Naoki | Park Cheongsang | Win | B+R | 6.5 | 
-| 2009-05-14 | 第64期本因坊戦挑戦手合七番勝負第1局 | Takao Shinji | Hane Naoki | Win | W+2.5 | 6.5 | 
-| 2009-05-07 | 第35期天元戦本戦3回戦 | Hane Naoki | Kim Sujun | Lose | W+R | 6.5 | 
-| 2009-04-27 | 第5回大和証券杯ネット囲碁オープン予選 | Hane Naoki | Awaji Shuzo | Win | B+R | 6.5 | 
-| 2009-04-16 | 第57期王座戦予選 | Hane Naoki | Yoda Norimoto | Lose | W+R | 6.5 | 
-| 2009-04-13 | 第22回世界囲碁選手権富士通杯2回戦 | Chang Hao | Hane Naoki | Lose | B+R | 6.5 | 
-| 2009-04-11 | 第22回世界囲碁選手権富士通杯1回戦 | Hane Naoki | Li Jie (2) | Win | B+R | 6.5 | 
-| 2009-03-19 | 第35期天元戦本戦2回戦 | Hane Naoki | O Rissei | Win | B+3.5 | 6.5 | 
-| 2009-03-07 | 第28期NECカップ囲碁トーナメント戦決勝 | Hane Naoki | Cho U | Win | B+R | 6.5 | 
-| 2009-03-05 | 第48期十段戦予選 | Hane Naoki | Ishii Kunio | Win | B+R | 6.5 | 
-| 2009-02-19 | 第57期王座戦予選 | Hane Naoki | Nakaonoda Tomomi | Win | B+R | 6.5 | 
-| 2009-02-07 | 第28期NECカップ囲碁トーナメント戦準決勝 | Hane Naoki | Cho Chikun | Win | B+9.5 | 6.5 | 
-| 2009-01-08 | 第48期十段戦予選 | Hane Naoki | Imamura Yoshiaki | Win | B+5.5 | 6.5 | 
-| 2008-12-18 | 第35期天元戦本戦1回戦 | Iyama Yuta | Hane Naoki | Win | W+R | 6.5 | 
-| 2008-11-27 | 第10回農心辛ラーメン杯世界囲碁最強戦第8戦 | Kang Dongyun | Hane Naoki | Lose | B+R | 6.5 | 
-| 2008-11-22 | 第28期NECカップ囲碁トーナメント戦2回戦 | Takao Shinji | Hane Naoki | Win | W+R | 6.5 | 
-| 2008-11-17 | 第49期王冠戦挑戦手合一番勝負 | Yamashiro Hiroshi | Hane Naoki | Win | W+R | 6.5 | 
-| 2008-11-13 | 第48期十段戦予選 | Izawa Akino | Hane Naoki | Win | W+R | 6.5 | 
-| 2008-11-06 | 第34期名人戦予選 | Cho Riyu | Hane Naoki | Lose | B+R | 6.5 | 
-| 2008-10-17 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦三位決定戦 | Hane Naoki | Ko Iso | Lose | W+R | 6.5 | 
-| 2008-10-17 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Choi Cheolhan | Hane Naoki | Win | W+R | 6.5 | 
-| 2008-10-15 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Kong Jie | Hane Naoki | Lose | B+R | 6.5 | 
-| 2008-10-02 | 第33期棋聖戦Bリーグ | Kato Atsushi | Hane Naoki | Lose | B+R | 6.5 | 
-| 2008-09-25 | 第34期名人戦予選 | Hane Naoki | Kono Rin | Win | B+3.5 | 6.5 | 
-| 2008-09-18 | 第33期棋聖戦Bリーグ | Hane Naoki | Honda Kunihisa | Win | B+R | 6.5 | 
-| 2008-09-13 | 第28期NECカップ囲碁トーナメント戦1回戦 | Hane Naoki | Yamada Kimio | Win | B+23.5 | 6.5 | 
-| 2008-09-11 | 第34期碁聖戦予選 | Yamashiro Hiroshi | Hane Naoki | Lose | B+4.5 | 6.5 | 
-| 2008-09-04 | 第34期名人戦予選 | Han Zenki | Hane Naoki | Win | W+R | 6.5 | 
-| 2008-08-23 | 第4期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Hane Naoki | Mok Jinseok | Lose | W+R | 6.5 | 
-| 2008-08-14 | 第34期天元戦本戦準決勝 | Ko Iso | Hane Naoki | Lose | B+1.5 | 6.5 | 
-| 2008-08-07 | 第33期棋聖戦Bリーグ | Hane Naoki | Cho U | Win | B+3.5 | 6.5 | 
-| 2008-07-23 | 第63期本因坊戦挑戦手合七番勝負第7局 | Hane Naoki | Takao Shinji | Win | B+R | 6.5 | 
-| 2008-07-17 | 第63期本因坊戦挑戦手合七番勝負第6局 | Hane Naoki | Takao Shinji | Win | B+R | 6.5 | 
-| 2008-07-10 | 第33期棋聖戦Bリーグ | Kono Rin | Hane Naoki | Lose | B+R | 6.5 | 
-| 2008-07-02 | 第63期本因坊戦挑戦手合七番勝負第5局 | Takao Shinji | Hane Naoki | Win | W+R | 6.5 | 
-| 2008-06-24 | 第63期本因坊戦挑戦手合七番勝負第4局 | Hane Naoki | Takao Shinji | Win | B+R | 6.5 | 
-| 2008-06-19 | 第33期棋聖戦Bリーグ | Hane Naoki | Yoda Norimoto | Win | B+2.5 | 6.5 | 
-| 2008-06-12 | 第63期本因坊戦挑戦手合七番勝負第3局 | Takao Shinji | Hane Naoki | Lose | B+R | 6.5 | 
-| 2008-06-05 | 第56期王座戦2回戦 | Nakano Hironari | Hane Naoki | Lose | B+1.5 | 6.5 | 
-| 2008-05-28 | 第63期本因坊戦挑戦手合七番勝負第2局 | Hane Naoki | Takao Shinji | Lose | W+R | 6.5 | 
-| 2008-05-22 | 第34期天元戦本戦3回戦 | Hane Naoki | Ryu Shikun | Win | B+R | 6.5 | 
-| 2008-05-15 | 第63期本因坊戦挑戦手合七番勝負第1局 | Takao Shinji | Hane Naoki | Lose | B+3.5 | 6.5 | 
-| 2008-04-17 | 第56期王座戦1回戦 | Yamada Kimio | Hane Naoki | Win | W+R | 6.5 | 
-| 2008-04-03 | 第63期本因坊戦リーグ | Yoda Norimoto | Hane Naoki | Win | W+3.5 | 6.5 | 
-| 2008-03-13 | 第34期天元戦本戦2回戦 | Hane Naoki | Yukawa Mitsuhisa | Win | B+R | 6.5 | 
-| 2008-03-06 | 第63期本因坊戦リーグ | Hane Naoki | Cho U | Win | B+R | 6.5 | 
-| 2008-02-28 | 第56期王座戦予選 | Hane Naoki | Hikosaka Naoto | Win | B+R | 6.5 | 
-| 2008-02-14 | 第34期天元戦本戦1回戦 | Ishida Akira | Hane Naoki | Win | W+R | 6.5 | 
-| 2008-02-07 | 第63期本因坊戦リーグ | Hane Naoki | O Meien | Win | B+R | 6.5 | 
-| 2008-01-31 | 第33期碁聖戦本戦2回戦 | Hikosaka Naoto | Hane Naoki | Lose | B+1.5 | 6.5 | 
-| 2008-01-24 | 第63期本因坊戦リーグ | Hane Naoki | So Yokoku | Win | B+2.5 | 6.5 | 
-| 2007-12-06 | 第63期本因坊戦リーグ | Mizokami Tomochika | Hane Naoki | Win | W+R | 6.5 | 
-| 2007-11-28 | 第48期王冠戦挑戦手合一番勝負 | Hane Naoki | Matsuoka Hideki | Win | B+R | 6.5 | 
-| 2007-11-22 | 第33期碁聖戦本戦1回戦 | Hane Naoki | O Rissei | Win | B+R | 6.5 | 
-| 2007-11-12 | 第63期本因坊戦リーグ | Yamashita Keigo | Hane Naoki | Win | W+6.5 | 6.5 | 
-| 2007-10-25 | 第63期本因坊戦リーグ | Yamada Kimio | Hane Naoki | Lose | B+R | 6.5 | 
-| 2007-10-17 | 第9回農心辛ラーメン杯世界囲碁最強戦第2戦 | Hane Naoki | Hong Minpyo | Lose | W+0.5 | 6.5 | 
-| 2007-10-16 | 第9回農心辛ラーメン杯世界囲碁最強戦第1戦 | Peng Quan | Hane Naoki | Win | W+0.5 | 6.5 | 
-| 2007-10-04 | 第32期棋聖戦Bリーグ | Hane Naoki | Cho Chikun | Lose | W+5.5 | 6.5 | 
-| 2007-09-06 | 第32期棋聖戦Bリーグ | Imamura Toshiya | Hane Naoki | Lose | B+0.5 | 6.5 | 
-| 2007-08-16 | 第63期本因坊戦予選 | Hane Naoki | Iyama Yuta | Win | B+R | 6.5 | 
-| 2007-08-02 | 第32期棋聖戦Bリーグ | Kato Atsushi | Hane Naoki | Win | W+6.5 | 6.5 | 
-| 2007-07-12 | 第32期棋聖戦Bリーグ | Iyama Yuta | Hane Naoki | Lose | B+1.5 | 6.5 | 
-| 2007-06-23 | 第27期NECカップ囲碁トーナメント戦1回戦 | Hane Naoki | Kono Rin | Lose | W+R | 6.5 | 
-| 2007-06-07 | 第32期棋聖戦Bリーグ | Hane Naoki | Komatsu Hideki | Win | B+5.5 | 6.5 | 
-| 2007-05-24 | 第14期阿含・桐山杯全日本早碁オープン戦予選 | Kiyonari Tetsuya | Hane Naoki | Lose | B+1.5 | 6.5 | 
-| 2007-05-17 | 第55期王座戦1回戦 | Hane Naoki | Nakamura Shinya | Lose | W+1.5 | 6.5 | 
-| 2007-04-05 | 第62期本因坊戦リーグ | So Yokoku | Hane Naoki | Lose | B+R | 6.5 | 
-| 2007-03-08 | 第62期本因坊戦リーグ | Yamada Kimio | Hane Naoki | Lose | B+R | 6.5 | 
-| 2007-03-01 | 第33期天元戦本戦1回戦 | Yuki Satoshi | Hane Naoki | Lose | B+2.5 | 6.5 | 
-| 2007-02-17 | 第26期NECカップ囲碁トーナメント戦準決勝 | Cho U | Hane Naoki | Lose | B+R | 6.5 | 
-| 2007-02-08 | 第62期本因坊戦リーグ | Cho U | Hane Naoki | Win | W+R | 6.5 | 
-| 2007-02-01 | 第32期碁聖戦本戦2回戦 | Takao Shinji | Hane Naoki | Lose | B+0.5 | 6.5 | 
-| 2007-01-11 | 第62期本因坊戦リーグ | Hane Naoki | Yoda Norimoto | Lose | W+R | 6.5 | 
-| 2006-12-21 | 第20回世界囲碁選手権富士通杯国内予選 | Yuki Satoshi | Hane Naoki | Lose | B+0.5 | 6.5 | 
-| 2006-12-15 | 第2回大和証券杯ネット囲碁オープン予選 | Matsumoto Takehisa | Hane Naoki | Lose | B+R | 6.5 | 
-| 2006-11-30 | 第62期本因坊戦リーグ | Hane Naoki | Kobayashi Satoru | Win | B+3.5 | 6.5 | 
-| 2006-11-23 | 第62期本因坊戦リーグ | O Meien | Hane Naoki | Win | W+R | 6.5 | 
-| 2006-11-09 | 第32期名人戦予選 | Ko Iso | Hane Naoki | Lose | B+R | 6.5 | 
-| 2006-11-02 | 第31期棋聖戦挑戦者決定戦 | Hane Naoki | Kobayashi Satoru | Lose | W+R | 6.5 | 
-| 2006-10-26 | 第45期十段戦敗者復活戦2回戦 | Takao Shinji | Hane Naoki | Lose | B+R | 6.5 | 
-| 2006-10-14 | 第26期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Hane Naoki | Win | W+5.5 | 6.5 | 
-| 2006-10-12 | 第62期本因坊戦リーグ | Hane Naoki | Cho Sonjin | Lose | W+R | 6.5 | 
-| 2006-10-07 | 第13期阿含・桐山杯全日本早碁オープン戦決勝 | Hane Naoki | Cho U | Lose | W+R | 6.5 | 
-| 2006-10-05 | 第31期棋聖戦Aリーグ | Hane Naoki | Honda Kunihisa | Win | B+R | 6.5 | 
-| 2006-09-28 | 第31期棋聖戦Aリーグ | Hane Naoki | Yoda Norimoto | Lose | W+R | 6.5 | 
-| 2006-09-24 | 第1回大和証券杯ネット囲碁オープンAリーグ | Hane Naoki | Ogata Masaki | Win | B+6.5 | 6.5 | 
-| 2006-09-23 | 第1回大和証券杯ネット囲碁オープンAリーグ | Hane Naoki | Anzai Nobuaki | Win | B+R | 6.5 | 
-| 2006-09-14 | 第8回農心辛ラーメン杯世界囲碁最強戦第3戦 | Hane Naoki | Peng Quan | Lose | W+3.5 | 6.5 | 
-| 2006-09-13 | 第8回農心辛ラーメン杯世界囲碁最強戦第2戦 | Cho Hunhyun | Hane Naoki | Win | W+0.5 | 6.5 | 
-| 2006-09-12 | 第8回農心辛ラーメン杯世界囲碁最強戦第1戦 | Wang Lei (b) | Hane Naoki | Win | W+1.5 | 6.5 | 
-| 2006-09-09 | 第1回大和証券杯ネット囲碁オープンAリーグ | Hane Naoki | Iyama Yuta | Lose | W+13.5 | 6.5 | 
-| 2006-09-04 | 第13期阿含・桐山杯全日本早碁オープン戦準決勝 | Takao Shinji | Hane Naoki | Win | W+R | 6.5 | 
-| 2006-08-30 | 第3期トヨタ＆デンソー杯囲碁世界王座戦3回戦 | Lee Sedol | Hane Naoki | Lose | B+R | 6.5 | 
-| 2006-08-28 | 第3期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Hane Naoki | Ko Keuntae | Win | B+R | 6.5 | 
-| 2006-08-26 | 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Feng Yun | Hane Naoki | Win | W+R | 6.5 | 
-| 2006-08-17 | 第31期棋聖戦Aリーグ | Komatsu Hideki | Hane Naoki | Win | W+0.5 | 6.5 | 
-| 2006-08-10 | 第18回テレビアジア選手権準決勝 | Hane Naoki | Lee Changho | Lose | W+2.5 | 6.5 | 
-| 2006-08-09 | 第18回テレビアジア選手権1回戦 | Hane Naoki | Luo Xihe | Win | B+R | 6.5 | 
-| 2006-08-03 | 第13期阿含・桐山杯全日本早碁オープン戦2回戦 | Rin Kanketsu | Hane Naoki | Win | W+R | 6.5 | 
-| 2006-07-20 | 第31期棋聖戦Aリーグ | Cho U | Hane Naoki | Win | W+R | 6.5 | 
-| 2006-07-13 | 第45期十段戦敗者復活戦1回戦 | Hane Naoki | Mimura Tomoyasu | Win | B+R | 6.5 | 
-| 2006-07-10 | 第13期阿含・桐山杯全日本早碁オープン戦1回戦 | Yamashiro Hiroshi | Hane Naoki | Win | W+R | 6.5 | 
-| 2006-06-29 | 第54期王座戦2回戦 | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 
-| 2006-06-17 | 第26期NECカップ囲碁トーナメント戦1回戦 | Hane Naoki | Yamada Kimio | Win | B+R | 6.5 | 
-| 2006-06-15 | 第31期棋聖戦Aリーグ | Hane Naoki | Mimura Tomoyasu | Win | B+R | 6.5 | 
-| 2006-06-01 | 第45期十段戦本戦1回戦 | O Rissei | Hane Naoki | Lose | B+R | 6.5 | 
-| 2006-05-25 | 第32期天元戦本戦3回戦 | Hane Naoki | O Rissei | Lose | W+R | 6.5 | 
-| 2006-04-27 | 第45期十段戦予選 | Hane Naoki | Sakai Maki | Win | B+R | 6.5 | 
-| 2006-04-10 | 第19回世界囲碁選手権富士通杯2回戦 | Park Cheongsang | Hane Naoki | Lose | B+2.5 | 6.5 | 
-| 2006-04-03 | 第61期本因坊戦挑戦者決定プレーオフ | Yamada Kimio | Hane Naoki | Lose | B+R | 6.5 | 
-| 2006-03-30 | 第61期本因坊戦リーグ | Yamada Kimio | Hane Naoki | Lose | B+0.5 | 6.5 | 
-| 2006-03-23 | 第54期王座戦1回戦 | Sonoda Yuichi | Hane Naoki | Win | W+R | 6.5 | 
-| 2006-03-13 | 第6回春蘭杯世界囲碁選手権2回戦 | Xie He | Hane Naoki | Lose | B+1.5 | 7.5 | 
-| 2006-03-08 | 第61期本因坊戦リーグ | Hane Naoki | So Yokoku | Win | B+R | 6.5 | 
-| 2006-02-23 | 第30期棋聖戦挑戦手合七番勝負第4局 | Hane Naoki | Yamashita Keigo | Lose | W+2.5 | 6.5 | 
-| 2006-02-16 | 第61期本因坊戦リーグ | Hane Naoki | O Rissei | Win | B+1.5 | 6.5 | 
-| 2006-02-09 | 第30期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Hane Naoki | Lose | B+1.5 | 6.5 | 
-| 2006-02-02 | 第30期棋聖戦挑戦手合七番勝負第2局 | Hane Naoki | Yamashita Keigo | Lose | W+6.5 | 6.5 | 
-| 2006-01-26 | 第32期天元戦本戦2回戦 | Hane Naoki | Cho Chikun | Win | B+5.5 | 6.5 | 
-| 2006-01-16 | 第30期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 
-| 2006-01-06 | 第61期本因坊戦リーグ | Hane Naoki | Cho U | Lose | W+R | 6.5 | 
-| 2005-12-22 | 第32期天元戦本戦1回戦 | Iyama Yuta | Hane Naoki | Win | W+R | 6.5 | 
-| 2005-12-15 | 第31期碁聖戦本戦2回戦 | Hane Naoki | Yuki Satoshi | Lose | W+R | 6.5 | 
-| 2005-12-08 | 第61期本因坊戦リーグ | O Meien | Hane Naoki | Win | W+R | 6.5 | 
-| 2005-11-28 | 第46期王冠戦挑戦手合一番勝負 | Yamashiro Hiroshi | Hane Naoki | Lose | B+R | 6.5 | 
-| 2005-11-17 | 第31期碁聖戦本戦1回戦 | Hane Naoki | Ueki Yoshio | Win | B+R | 6.5 | 
-| 2005-11-03 | 第61期本因坊戦リーグ | Hane Naoki | Yoda Norimoto | Win | B+0.5 | 6.5 | 
-| 2005-10-22 | 第25期NECカップ囲碁トーナメント戦2回戦 | Takao Shinji | Hane Naoki | Lose | B+0.5 | 6.5 | 
-| 2005-10-19 | 2005年国際新鋭囲碁対抗戦第3戦 | Zhou Junxun | Hane Naoki | Win | W+4.5 | 6.5 | 
-| 2005-10-18 | 2005年国際新鋭囲碁対抗戦第2戦 | Hane Naoki | Kong Jie | Win | B+R | 6.5 | 
-| 2005-10-17 | 2005年国際新鋭囲碁対抗戦第1戦 | Park Yeonghun | Hane Naoki | Lose | B+R | 6.5 | 
-| 2005-10-13 | 第7回農心辛ラーメン杯世界囲碁最強戦第3戦 | Ryu Chaehyeong | Hane Naoki | Lose | B+R | 6.5 | 
-| 2005-10-12 | 第7回農心辛ラーメン杯世界囲碁最強戦第2戦 | Wang Yao | Hane Naoki | Win | W+R | 6.5 | 
-| 2005-10-11 | 第7回農心辛ラーメン杯世界囲碁最強戦第1戦 | Kang Dongyun | Hane Naoki | Win | W+R | 6.5 | 
-| 2005-10-06 | 第61期本因坊戦リーグ | Cho Sonjin | Hane Naoki | Win | W+R | 6.5 | 
-| 2005-09-30 | 第10回三星火災杯世界オープン囲碁選手権2回戦 | Choi Cheolhan | Hane Naoki | Lose | B+R | 6.5 | 
-| 2005-09-28 | 第10回三星火災杯世界オープン囲碁選手権1回戦 | Hane Naoki | Yun Junsang | Win | B+R | 6.5 | 
-| 2005-08-18 | 第2回中環杯世界囲碁選手権準決勝 | Lee Sedol | Hane Naoki | Lose | B+3.5 | 6.5 | 
-| 2005-08-16 | 第2回中環杯世界囲碁選手権2回戦 | O Rissei | Hane Naoki | Win | W+R | 6.5 | 
-| 2005-08-14 | 第2回中環杯世界囲碁選手権1回戦 | Cho U | Hane Naoki | Win | W+2.5 | 6.5 | 
-| 2005-08-04 | 第61期本因坊戦予選 | Hane Naoki | Ishida Atsushi | Win | B+2.5 | 6.5 | 
-| 2005-07-04 | 第12期阿含・桐山杯全日本早碁オープン戦1回戦 | Kobayashi Satoru | Hane Naoki | Lose | B+R | 6.5 | 
-| 2005-06-30 | 第53期王座戦2回戦 | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 
-| 2005-06-24 | 第25期NECカップ囲碁トーナメント戦1回戦 | Hane Naoki | Ryu Shikun | Win | B+R | 6.5 | 
-| 2005-06-09 | 第30期碁聖戦挑戦者決定戦 | Hane Naoki | Yuki Satoshi | Lose | W+R | 6.5 | 
-| 2005-05-16 | 第10回LG杯世界棋王戦1回戦 | Lee Sedol | Hane Naoki | Lose | B+R | 6.5 | 
-| 2005-05-03 | 第4回CSK杯囲碁アジア対抗戦第3戦 | O Rissei | Hane Naoki | Win | W+1.5 | 6.5 | 
-| 2005-05-02 | 第4回CSK杯囲碁アジア対抗戦第2戦 | Hane Naoki | Lee Sedol | Lose | W+R | 6.5 | 
-| 2005-05-01 | 第4回CSK杯囲碁アジア対抗戦第1戦 | Kong Jie | Hane Naoki | Win | W+2.5 | 6.5 | 
-| 2005-04-21 | 第30期碁聖戦本戦準決勝 | Hane Naoki | Nakaonoda Tomomi | Win | B+R | 6.5 | 
-| 2005-04-14 | 第53期王座戦1回戦 | Hane Naoki | Enda Hideki | Win | B+R | 6.5 | 
-| 2005-04-11 | 第18回世界囲碁選手権富士通杯2回戦 | Hane Naoki | Wang Xi | Lose | W+R | 6.5 | 
-| 2005-03-24 | 第30期碁聖戦本戦3回戦 | O Rissei | Hane Naoki | Win | W+1.5 | 6.5 | 
-| 2005-03-17 | 第29期棋聖戦挑戦手合七番勝負第7局 | Hane Naoki | Yuki Satoshi | Win | B+4.5 | 6.5 | 
-| 2005-03-10 | 第29期棋聖戦挑戦手合七番勝負第6局 | Hane Naoki | Yuki Satoshi | Win | B+6.5 | 6.5 | 
-| 2005-03-03 | 第30期碁聖戦本戦2回戦 | Hane Naoki | Mimura Tomoyasu | Win | B+R | 6.5 | 
-| 2005-02-25 | 第29期棋聖戦挑戦手合七番勝負第5局 | Yuki Satoshi | Hane Naoki | Lose | B+R | 6.5 | 
-| 2005-02-17 | 第29期棋聖戦挑戦手合七番勝負第4局 | Hane Naoki | Yuki Satoshi | Lose | W+R | 6.5 | 
-| 2005-02-03 | 第29期棋聖戦挑戦手合七番勝負第3局 | Yuki Satoshi | Hane Naoki | Win | W+1.5 | 6.5 | 
-| 2005-01-27 | 第29期棋聖戦挑戦手合七番勝負第2局 | Hane Naoki | Yuki Satoshi | Lose | W+R | 6.5 | 
-| 2005-01-13 | 第29期棋聖戦挑戦手合七番勝負第1局 | Yuki Satoshi | Hane Naoki | Win | W+R | 6.5 | 
-| 2004-12-23 | 第31期天元戦本戦1回戦 | Yamada Kimio | Hane Naoki | Lose | B+1.5 | 6.5 | 
-| 2004-12-13 | 第6回阿含・桐山杯日中決戦 | Zhou Heyang | Hane Naoki | Lose | B+2.5 | 6.5 | 
-| 2004-12-09 | 第30期碁聖戦本戦1回戦 | Kiyonari Tetsuya | Hane Naoki | Win | W+R | 6.5 | 
-| 2004-11-26 | 第30期天元戦挑戦手合五番勝負第3局 | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 
-| 2004-11-17 | 第45期王冠戦挑戦手合一番勝負 | Hane Naoki | Yamashiro Hiroshi | Win | B+R | 6.5 | 
-| 2004-11-12 | 第30期天元戦挑戦手合五番勝負第2局 | Yamashita Keigo | Hane Naoki | Lose | B+1.5 | 6.5 | 
-| 2004-11-04 | 第30期天元戦挑戦手合五番勝負第1局 | Hane Naoki | Yamashita Keigo | Lose | W+4.5 | 6.5 | 
-| 2004-10-28 | 第30期名人戦予選 | Hane Naoki | Sakai Hideyuki | Lose | W+R | 6.5 | 
-| 2004-10-16 | 第24期NECカップ囲碁トーナメント戦2回戦 | Hane Naoki | Cho Sonjin | Lose | W+R | 6.5 | 
-| 2004-10-09 | 第11期阿含・桐山杯全日本早碁オープン戦決勝 | Hane Naoki | Kobayashi Koichi | Win | B+3.5 | 6.5 | 
-| 2004-09-16 | 第1回中環杯世界囲碁選手権1回戦 | Hane Naoki | O Meien | Lose | W+2.5 | 6.5 | 
-| 2004-09-01 | 第9回三星火災杯世界オープン囲碁選手権1回戦 | Choi Cheolhan | Hane Naoki | Lose | B+R | 6.5 | 
-| 2004-08-17 | 第11期阿含・桐山杯全日本早碁オープン戦2回戦 | Hane Naoki | Cho U | Win | B+2.5 | 6.5 | 
-| 2004-07-29 | 第52期王座戦準決勝 | Yamashita Keigo | Hane Naoki | Lose | B+0.5 | 6.5 | 
-| 2004-07-23 | 第24期NECカップ囲碁トーナメント戦1回戦 | Hane Naoki | Takao Shinji | Win | B+R | 6.5 | 
-| 2004-06-24 | 第52期王座戦2回戦 | Hane Naoki | O Rissei | Win | B+0.5 | 6.5 | 
-| 2004-05-18 | 第9回LG杯世界棋王戦1回戦 |  | Hane Naoki | Lose | B+1.5 | 6.5 | 
-| 2004-05-01 | 第2期JALスーパー早碁1回戦 | Hane Naoki | Mimura Tomoyasu | Lose | W+R | 6.5 | 
-| 2004-04-29 | 第52期王座戦1回戦 | Kato Masao | Hane Naoki | Win | W+10.5 | 6.5 | 
-| 2004-04-20 | 第5回応氏杯世界選手権1回戦 | Choi Cheolhan | Hane Naoki | Lose | B+R | 7.5 | 
-| 2004-04-15 | 第2期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Hane Naoki | Sanno Hirotaka | Win | B+R | 6.5 | 
-| 2004-04-12 | 第17回世界囲碁選手権富士通杯2回戦 | Hane Naoki | Choi Cheolhan | Lose | W+R | 6.5 | 
-| 2004-04-08 | 第43期十段戦予選 | Hikosaka Naoto | Hane Naoki | Lose | B+R | 6.5 | 
-| 2004-03-23 | 第3回CSK杯囲碁アジア対抗戦第3戦 | Rin Kaiho | Hane Naoki | Lose | B+3.5 | 6.5 | 
-| 2004-03-22 | 第3回CSK杯囲碁アジア対抗戦第2戦 | Lee Sedol | Hane Naoki | Lose | B+R | 6.5 | 
-| 2004-03-21 | 第3回CSK杯囲碁アジア対抗戦第1戦 | Hane Naoki | Wang Xi | Lose | W+1.5 | 6.5 | 
-| 2004-03-18 | 第28期棋聖戦挑戦手合七番勝負第7局 | Hane Naoki | Yamashita Keigo | Win | B+R | 6.5 | 
-| 2004-03-11 | 第28期棋聖戦挑戦手合七番勝負第6局 | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 
-| 2004-03-04 | 第43期十段戦予選 | Hane Naoki | Yokota Shigeaki | Win | B+R | 6.5 | 
-| 2004-02-26 | 第28期棋聖戦挑戦手合七番勝負第5局 | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 
-| 2004-02-19 | 第28期棋聖戦挑戦手合七番勝負第4局 | Yamashita Keigo | Hane Naoki | Lose | B+0.5 | 6.5 | 
-| 2004-02-05 | 第28期棋聖戦挑戦手合七番勝負第3局 | Hane Naoki | Yamashita Keigo | Win | B+3.5 | 6.5 | 
-| 2004-01-29 | 第28期棋聖戦挑戦手合七番勝負第2局 | Yamashita Keigo | Hane Naoki | Win | W+R | 6.5 | 
-| 2004-01-22 | 第17回世界囲碁選手権富士通杯国内予選決勝 | O Rissei | Hane Naoki | Win | W+5.5 | 6.5 | 
-| 2004-01-16 | 第28期棋聖戦挑戦手合七番勝負第1局 | Hane Naoki | Yamashita Keigo | Win | B+R | 6.5 | 
-| 2004-01-08 | 第29期碁聖戦本戦2回戦 | Imamura Toshiya | Hane Naoki | Lose | B+R | 6.5 | 
-| 2003-12-31 | 第5回春蘭杯世界囲碁選手権2回戦 | Hane Naoki | Zhou Heyang | Lose | W+2.5 | 7.5 | 
-| 2003-12-25 | 第17回世界囲碁選手権富士通杯国内予選 | Hane Naoki | Yamada Kimio | Win | B+R | 6.5 | 
-| 2003-12-18 | 第29期天元戦挑戦手合五番勝負第5局 | Yamashita Keigo | Hane Naoki | Win | W+6.5 | 6.5 | 
-| 2003-12-04 | 第29期天元戦挑戦手合五番勝負第4局 | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 
-| 2003-12-01 | 第29期碁聖戦本戦1回戦 | Hane Naoki | Nakao Jungo | Win | B+R | 6.5 | 
-| 2003-11-27 | 第29期天元戦挑戦手合五番勝負第3局 | Yamashita Keigo | Hane Naoki | Win | W+R | 6.5 | 
-| 2003-11-20 | 第29期天元戦挑戦手合五番勝負第2局 | Hane Naoki | Yamashita Keigo | Win | B+4.5 | 6.5 | 
-| 2003-11-13 | 第28期棋聖戦挑戦者決定戦 | Hane Naoki | Cho Chikun | Win | B+2.5 | 6.5 | 
-| 2003-11-10 | 第44期王冠戦挑戦手合一番勝負 | Hikosaka Naoto | Hane Naoki | Win | W+3.5 | 6.5 | 
-| 2003-11-06 | 第29期名人戦予選 | Hane Naoki | Kobayashi Satoru | Lose | W+1.5 | 6.5 | 
-| 2003-10-30 | 第29期天元戦挑戦手合五番勝負第1局 | Yamashita Keigo | Hane Naoki | Lose | B+1.5 | 6.5 | 
-| 2003-10-02 | 第28期棋聖戦Aリーグ | Kobayashi Satoru | Hane Naoki | Win | W+4.5 | 6.5 | 
-| 2003-09-25 | 第28期棋聖戦Aリーグ | Mimura Tomoyasu | Hane Naoki | Win | W+2.5 | 6.5 | 
-| 2003-09-07 | 第1期JALスーパー早碁準決勝 | Hane Naoki | Cho U | Lose | W+R | 6.5 | 
-| 2003-09-04 | 第5回中国囲碁甲級リーグ第9節 | Li Zhe | Hane Naoki | Lose | B+R | 7.5 | 
-| 2003-08-27 | 第8期三星杯1回戦 | Yoo Changhyuk | Hane Naoki | Lose | B+0.5 | 6.5 | 
-| 2003-08-21 | 第28期棋聖戦Aリーグ | Hane Naoki | O Rissei | Win | B+R | 6.5 | 
-| 2003-08-14 | 第42期十段戦敗者復活戦2回戦 | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 
-| 2003-07-27 | 第1期JALスーパー早碁2回戦 | Hane Naoki | Cho Chikun | Win | B+R | 6.5 | 
-| 2003-07-14 | 第23期NECカップ囲碁トーナメント戦1回戦 | Hane Naoki | O Meien | Lose | W+R | 6.5 | 
-| 2003-07-09 | 第10期阿含・桐山杯全日本早碁オープン戦1回戦 | Kurahashi Masayuki | Hane Naoki | Win | W+1.5 | 6.5 | 
-| 2003-07-03 | 第28期棋聖戦Aリーグ | Hane Naoki | Ishida Yoshio | Win | B+R | 6.5 | 
-| 2003-06-17 | 第8回LG杯世界棋王戦1回戦 | Hane Naoki | Mok Jinseok | Lose | W+R | 6.5 | 
-| 2003-06-12 | 第28期棋聖戦Aリーグ | Hane Naoki | Imamura Yoshiaki | Win | B+R | 6.5 | 
-| 2003-05-04 | 第1期JALスーパー早碁1回戦 | Ryu Shikun | Hane Naoki | Win | W+R | 6.5 | 
-| 2003-04-29 | 第2回CSK杯囲碁アジア対抗戦第3戦 | Yu Bin | Hane Naoki | Lose | B+R | 6.5 | 
-| 2003-04-28 | 第2回CSK杯囲碁アジア対抗戦第2戦 | Lee Changho | Hane Naoki | Win | W+R | 6.5 | 
-| 2003-04-27 | 第2回CSK杯囲碁アジア対抗戦第1戦 | Hane Naoki | Cho U | Win | B+R | 6.5 | 
-| 2003-04-17 | 第28期碁聖戦本戦準決勝 | Hane Naoki | Akiyama Jiro | Lose | W+0.5 | 6.5 | 
-| 2003-04-14 | 第16回世界囲碁選手権富士通杯2回戦 | Hane Naoki | Lee Sedol | Lose | W+R | 6.5 | 
-| 2003-04-12 | 第16回世界囲碁選手権富士通杯1回戦 | Choi Myeonghun | Hane Naoki | Win | W+R | 6.5 | 
-| 2003-03-27 | 第51期王座戦1回戦 | Cho U | Hane Naoki | Lose | B+1.5 | 6.5 | 
-| 2003-03-18 | 第4回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Lee Changho | Hane Naoki | Lose | B+R | 7.5 | 
-| 2003-03-16 | 第4回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Hane Naoki | Lee Changho | Lose | W+R | 7.5 | 
-| 2003-02-27 | 第28期碁聖戦本戦3回戦 | Hane Naoki | Yamada Kimio | Win | B+R | 6.5 | 
-| 2003-01-30 | 第28期碁聖戦本戦2回戦 | Hane Naoki | Kenmochi Joe | Win | B+2.5 | 6.5 | 
-| 2003-01-08 | 第28期碁聖戦本戦1回戦 | Kudo Norio | Hane Naoki | Win | W+0.5 | 6.5 | 
-| 2002-12-28 | 第4回春蘭杯世界囲碁選手権準決勝 | Luo Xihe | Hane Naoki | Win | W+R | 7.5 | 
-| 2002-12-26 | 第4回春蘭杯世界囲碁選手権3回戦 | Hane Naoki | Cho Hunhyun | Win | B+R | 7.5 | 
-| 2002-08-30 | 第7期三星杯2回戦 | Hane Naoki | Wang Yuhui | Lose | W+1.5 | 6.5 | 
-| 2002-08-28 | 第7期三星杯1回戦 | Hane Naoki | Seo Bongsoo | Win | B+R | 6.5 | 
-| 2002-05-20 | 第4回春蘭杯世界囲碁選手権2回戦 | Kong Jie | Hane Naoki | Win | W+2.5 | 7.5 | 
-| 2002-05-18 | 第4回春蘭杯世界囲碁選手権1回戦 | Hane Naoki | Hu Yaoyu | Win | B+1.5 | 7.5 | 
-| 2002-04-30 | 第7回LG杯世界棋王戦1回戦 | Cho Hanseung | Hane Naoki | Lose | B+2.5 | 6.5 | 
-| 2002-03-07 | 第57期本因坊戦リーグ | Hane Naoki | Yamada Kimio | Win | B+R | 6.5 | 
-| 2000-08-01 | 第5期三星杯予選決勝 | Hane Naoki | Lee Sedol | Lose | W+R | 6.5 |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-07 | 第46期名人戦リーグ  | Ichiriki Ryo | Hane Naoki | Lose | B+R | 6.5 | 3168 | -6 | 
+| 2021-06-03 | 第69期王座戦1回戦 | Hane Naoki | Rin Kanketsu | Win | B+0.5 | 6.5 | 3174 | 8 | 
+| 2021-05-28 | 第46期棋聖戦Aリーグ | Shibano Toramaru | Hane Naoki | Win | W+R | 6.5 | 3166 | 22 | 
+| 2021-05-10 | 第46期名人戦リーグ | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 3144 | -20 | 
+| 2021-05-06 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Rin Kanketsu | Hane Naoki | Lose | B+R | 6.5 | 3164 | -26 | 
+| 2021-04-22 | 第46期棋聖戦Aリーグ | Suzuki Shinji | Hane Naoki | Lose | B+R | 6.5 | 3190 | 33 | 
+| 2021-04-15 | 第46期名人戦リーグ  | Hane Naoki | Shibano Toramaru | Lose | W+R | 6.5 | 3157 | -71 | 
+| 2021-04-02 | 第76期本因坊戦リーグ  | Shibano Toramaru | Hane Naoki | Lose | B+R | 6.5 | 3228 | -21 | 
+| 2021-03-29 | 第46期棋聖戦Aリーグ | Onishi Ryuhei | Hane Naoki | Win | W+R | 6.5 | 3249 | -6 | 
+| 2021-03-11 | 第46期名人戦リーグ | Anzai Nobuaki | Hane Naoki | Win | W+2.5 | 6.5 | 3255 | 19 | 
+| 2021-03-04 | 第76期本因坊戦リーグ | Hane Naoki | Sada Atsushi | Lose | W+R | 6.5 | 3236 | -44 | 
+| 2021-02-22 | 第46期棋聖戦Aリーグ | Hane Naoki | Cho U | Lose | W+R | 6.5 | 3280 | -110 | 
+| 2021-02-11 | 第76期本因坊戦リーグ | Tsuruyama Atsushi | Hane Naoki | Win | W+R | 6.5 | 3390 | 17 | 
+| 2021-02-04 | 第46期名人戦リーグ | Yu Zhengqi | Hane Naoki | Win | W+R | 6.5 | 3373 | 39 | 
+| 2021-01-21 | 第76期本因坊戦リーグ | Onishi Ryuhei | Hane Naoki | Win | W+R | 6.5 | 3334 | -37 | 
+| 2021-01-07 | 第46期名人戦リーグ | Hane Naoki | Kono Rin | Win | B+R | 6.5 | 3371 | 46 | 
+| 2020-12-18 | 第76期本因坊戦リーグ | Hane Naoki | Hsu Chiayuan | Win | B+R | 6.5 | 3325 | -38 | 
+| 2020-11-12 | 第59期十段戦2回戦 | Hsu Chiayuan | Hane Naoki | Lose | B+R | 6.5 | 3363 | 15 | 
+| 2020-11-05 | 第76期本因坊戦リーグ | Hane Naoki | Ko Iso | Win | B+R | 6.5 | 3348 | 1 | 
+| 2020-10-15 | 第76期本因坊戦リーグ | Ichiriki Ryo | Hane Naoki | Lose | B+R | 6.5 | 3347 | 119 | 
+| 2020-09-03 | 第59期十段戦予選 | Hane Naoki | Shida Tatsuya | Win | B+2.5 | 6.5 | 3228 | 21 | 
+| 2020-08-31 | 第45期棋聖戦Bリーグ | Hane Naoki | Otake Yu | Win | B+R | 6.5 | 3207 | -1 | 
+| 2020-08-14 | 第45期碁聖戦挑戦手合五番勝負第3局  | Hane Naoki | Ichiriki Ryo | Lose | W+R | 6.5 | 3208 | 104 | 
+| 2020-08-06 | 第45期名人戦リーグ | Hane Naoki | Cho U | Win | B+R | 6.5 | 3104 | 24 | 
+| 2020-08-03 | 第45期碁聖戦挑戦手合五番勝負第2局  | Ichiriki Ryo | Hane Naoki | Lose | B+R | 6.5 | 3080 | -32 | 
+| 2020-07-23 | 第45期棋聖戦Bリーグ | Hane Naoki | Akiyama Jiro | Win | B+R | 6.5 | 3112 | 22 | 
+| 2020-07-18 | 第45期碁聖戦挑戦手合五番勝負第1局  | Hane Naoki | Ichiriki Ryo | Lose | W+1.5 | 6.5 | 3090 | -20 | 
+| 2020-07-09 | 第27期阿含・桐山杯全日本早碁オープン戦1回戦 | Hane Naoki | Motoki Katsuya | Lose | W+R | 6.5 | 3110 | -33 | 
+| 2020-07-06 | 第45期名人戦リーグ | Hane Naoki | Ichiriki Ryo | Lose | W+R | 6.5 | 3143 | -23 | 
+| 2020-06-25 | 第45期名人戦リーグ | Kono Rin | Hane Naoki | Lose | B+R | 6.5 | 3166 | 15 | 
+| 2020-06-18 | 第45期棋聖戦Bリーグ | Hane Naoki | Han Zenki | Win | B+R | 6.5 | 3151 | 15 | 
+| 2020-06-11 | 第59期十段戦予選 | Muramatsu Hiroki | Hane Naoki | Win | W+R | 6.5 | 3136 | 1 | 
+| 2020-06-08 | 第45期名人戦リーグ | Hane Naoki | Iyama Yuta | Lose | W+R | 6.5 | 3135 | -7 | 
+| 2020-06-04 | 第45期名人戦リーグ | Rin Kanketsu | Hane Naoki | Win | W+R | 6.5 | 3142 | 187 | 
+| 2020-04-03 | 第75期本因坊戦リーグ  | Hane Naoki | Yamashita Keigo | Win | B+6.5 | 6.5 | 2955 | -9 | 
+| 2020-03-26 | 第59期十段戦予選 | Ishii Kunio | Hane Naoki | Win | W+R | 6.5 | 2964 | 3 | 
+| 2020-03-19 | 第45期棋聖戦Bリーグ | Mutsuura Yuta | Hane Naoki | Lose | B+R | 6.5 | 2961 | -40 | 
+| 2020-03-12 | 第45期棋聖戦Bリーグ | Koike Yoshihiro | Hane Naoki | Lose | B+0.5 | 6.5 | 3001 | -18 | 
+| 2020-03-05 | 第75期本因坊戦リーグ | Shida Tatsuya | Hane Naoki | Lose | B+R | 6.5 | 3019 | -37 | 
+| 2020-02-27 | 第45期棋聖戦Bリーグ | Rin Kanketsu | Hane Naoki | Win | W+R | 6.5 | 3056 | 48 | 
+| 2020-02-20 | 第75期本因坊戦リーグ | Hsu Chiayuan | Hane Naoki | Lose | B+R | 6.5 | 3008 | -163 | 
+| 2020-02-13 | 第45期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Lose | W+0.5 | 6.5 | 3171 | -127 | 
+| 2020-01-30 | 第45期名人戦リーグ | Hsu Chiayuan | Hane Naoki | Lose | B+R | 6.5 | 3298 | -5 | 
+| 2020-01-16 | 第75期本因坊戦リーグ | Hane Naoki | Kono Rin | Win | B+R | 6.5 | 3303 | 25 | 
+| 2020-01-09 | 第45期棋聖戦Bリーグ | Hane Naoki | Shuto Shun | Win | B+R | 6.5 | 3278 | 284 | 
+| 2019-12-12 | 第45期名人戦リーグ | Yamashita Keigo | Hane Naoki | Win | W+2.5 | 6.5 | 2994 | -9 | 
+| 2019-12-05 | 第75期本因坊戦リーグ | Shibano Toramaru | Hane Naoki | Win | W+R | 6.5 | 3003 | -2 | 
+| 2019-11-07 | 第75期本因坊戦リーグ | Hane Naoki | Ichiriki Ryo | Lose | W+R | 6.5 | 3005 | 9 | 
+| 2019-10-24 | 第61期王冠戦予選 | Hane Naoki | Katayama Yasuo | Win | B+R | 6.5 | 2996 | 17 | 
+| 2019-10-17 | 第46期天元戦予選 | Hane Naoki | Kitano Ryo | Lose | W+R | 6.5 | 2979 | 0 | 
+| 2019-10-10 | 第75期本因坊戦リーグ | Hane Naoki | Yokotsuka Riki | Win | B+R | 6.5 | 2979 | 55 | 
+| 2019-09-19 | 第46期天元戦予選 | Matsuoka Hideki | Hane Naoki | Win | W+R | 6.5 | 2924 | 18 | 
+| 2019-09-12 | 第44期棋聖戦Bリーグ | Hane Naoki | Yoda Norimoto | Lose | W+R | 6.5 | 2906 | -37 | 
+| 2019-09-02 | 第58期十段戦予選 | Fujita Akihiko | Hane Naoki | Lose | B+R | 6.5 | 2943 | -28 | 
+| 2019-08-23 | 第44期碁聖戦挑戦手合五番勝負第5局  | Hsu Chiayuan | Hane Naoki | Win | W+R | 6.5 | 2971 | -99 | 
+| 2019-08-09 | 第44期碁聖戦挑戦手合五番勝負第4局  | Hsu Chiayuan | Hane Naoki | Lose | B+R | 6.5 | 3070 | 23 | 
+| 2019-08-01 | 第44期名人戦リーグ | Hane Naoki | Iyama Yuta | Win | B+R | 6.5 | 3047 | 18 | 
+| 2019-07-27 | 第44期碁聖戦挑戦手合五番勝負第3局  | Hane Naoki | Hsu Chiayuan | Lose | W+R | 6.5 | 3029 | -12 | 
+| 2019-07-19 | 第44期碁聖戦挑戦手合五番勝負第2局  | Hsu Chiayuan | Hane Naoki | Win | W+R | 6.5 | 3041 | 17 | 
+| 2019-07-11 | 第44期棋聖戦Bリーグ | Hane Naoki |  | Lose | W+R | 6.5 | 3024 | -8 | 
+| 2019-07-04 | 第44期名人戦リーグ | Suzuki Shinji | Hane Naoki | Win | W+2.5 | 6.5 | 3032 | 10 | 
+| 2019-06-30 | 第44期碁聖戦挑戦手合五番勝負第1局  | Hane Naoki | Hsu Chiayuan | Win | B+R | 6.5 | 3022 | 30 | 
+| 2019-06-27 | 第44期名人戦リーグ | Kono Rin | Hane Naoki | Lose | B+R | 6.5 | 2992 | 4 | 
+| 2019-06-20 | 第44期棋聖戦Bリーグ | Numadate Sakiya | Hane Naoki | Win | W+3.5 | 6.5 | 2988 | 70 | 
+| 2019-05-30 | 第44期棋聖戦Bリーグ | Hane Naoki | Onishi Ryuhei | Lose | W+3.5 | 6.5 | 2918 | 10 | 
+| 2019-05-23 | 第26期阿含・桐山杯全日本早碁オープン戦予選 | Ohba Junya | Hane Naoki | Lose | B+R | 6.5 | 2908 | -51 | 
+| 2019-05-16 | 第58期十段戦予選 | Hane Naoki |  | Win | B+6.5 | 6.5 | 2959 | -15 | 
+| 2019-05-09 | 第44期碁聖戦挑戦者決定戦 | Hane Naoki | Ichiriki Ryo | Win | B+R | 6.5 | 2974 | 11 | 
+| 2019-05-02 | 第44期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Lose | W+R | 6.5 | 2963 | -46 | 
+| 2019-04-25 | 第44期名人戦リーグ | Shibano Toramaru | Hane Naoki | Win | W+R | 6.5 | 3009 | 2 | 
+| 2019-04-22 | 第67期王座戦予選 | Tsuruyama Atsushi | Hane Naoki | Lose | B+R | 6.5 | 3007 | -26 | 
+| 2019-04-18 | 第44期棋聖戦Bリーグ | Koike Yoshihiro | Hane Naoki | Win | W+R | 6.5 | 3033 | 3 | 
+| 2019-04-15 | 第45期天元戦2回戦 | Hane Naoki | Hsu Chiayuan | Lose | W+R | 6.5 | 3030 | 22 | 
+| 2019-04-08 | 第74期本因坊戦挑戦者決定リーグプレーオフ第1戦 | Kono Rin | Hane Naoki | Lose | B+R | 6.5 | 3008 | -13 | 
+| 2019-04-05 | 第74期本因坊戦リーグ | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 3021 | 5 | 
+| 2019-04-01 | 第44期碁聖戦本戦準決勝 | Yu Zhengqi | Hane Naoki | Win | W+R | 6.5 | 3016 | 56 | 
+| 2019-03-28 | 第44期棋聖戦Bリーグ | Kobayashi Satoru | Hane Naoki | Win | W+R | 6.5 | 2960 | 6 | 
+| 2019-03-21 | 第44期名人戦リーグ | Mutsuura Yuta | Hane Naoki | Win | W+R | 6.5 | 2954 | 17 | 
+| 2019-03-14 | 第74期本因坊戦リーグ | Hane Naoki | Ichiriki Ryo | Win | B+R | 6.5 | 2937 | 24 | 
+| 2019-03-11 | 第44期棋聖戦Bリーグ | Hane Naoki | Tsuruyama Atsushi | Win | B+R | 6.5 | 2913 | 25 | 
+| 2019-02-28 | 第44期碁聖戦本戦3回戦 | Ko Iso | Hane Naoki | Win | W+R | 6.5 | 2888 | -41 | 
+| 2019-02-21 | 第74期本因坊戦リーグ | Hane Naoki | Ko Iso | Win | B+R | 6.5 | 2929 | 10 | 
+| 2019-02-14 | 第45期天元戦1回戦 | Shibano Toramaru | Hane Naoki | Win | W+R | 6.5 | 2919 | -18 | 
+| 2019-02-07 | 第44期名人戦リーグ | Hane Naoki | Yamashita Keigo | Win | B+0.5 | 6.5 | 2937 | 6 | 
+| 2019-01-31 | 第44期碁聖戦本戦2回戦 | Hane Naoki | Kim Sujun | Win | B+R | 6.5 | 2931 | -11 | 
+| 2019-01-17 | 第44期名人戦リーグ | Hane Naoki | Sun Zhe | Lose | W+R | 6.5 | 2942 | -21 | 
+| 2019-01-10 | 第74期本因坊戦リーグ | Yu Zhengqi | Hane Naoki | Lose | B+R | 6.5 | 2963 | -33 | 
+| 2018-12-06 | 第74期本因坊戦リーグ | Hane Naoki | Shibano Toramaru | Win | B+R | 6.5 | 2996 | 25 | 
+| 2018-11-22 | 第74期本因坊戦リーグ | Kono Rin | Hane Naoki | Win | W+2.5 | 6.5 | 2971 | 40 | 
+| 2018-11-15 | 第44期碁聖戦本戦1回戦 | Hane Naoki | Hong Seokui | Win | B+R | 6.5 | 2931 | -23 | 
+| 2018-11-01 | 第60期王冠戦予選 | Shida Tatsuya | Hane Naoki | Win | W+1.5 | 6.5 | 2954 | -13 | 
+| 2018-10-11 | 第45期天元戦予選 | Otani Naoki | Hane Naoki | Win | W+R | 6.5 | 2967 | 6 | 
+| 2018-10-04 | 第74期本因坊戦リーグ | Anzai Nobuaki | Hane Naoki | Win | W+R | 6.5 | 2961 | 9 | 
+| 2018-09-27 | 第44期碁聖戦予選 | Nakamura Shinya | Hane Naoki | Win | W+R | 6.5 | 2952 | -12 | 
+| 2018-09-20 | 第59期王冠戦準決勝 | Hane Naoki | Nakano Hironari | Lose | W+R | 6.5 | 2964 | -70 | 
+| 2018-08-30 | 第43期棋聖戦Bリーグ | Hane Naoki | Cho Riyu | Win | B+R | 6.5 | 3034 | 26 | 
+| 2018-08-20 | 第74期本因坊戦最終予選 | Hsu Chiayuan | Hane Naoki | Win | W+R | 6.5 | 3008 | 24 | 
+| 2018-08-16 | 第57期十段戦最終予選決勝 | Onishi Ryuhei | Hane Naoki | Lose | B+0.5 | 6.5 | 2984 | 28 | 
+| 2018-08-09 | 第43期棋聖戦Bリーグ | Imamura Toshiya | Hane Naoki | Win | W+R | 6.5 | 2956 | -22 | 
+| 2018-08-02 | 第43期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Lose | W+R | 7.5 | 2978 | -32 | 
+| 2018-07-19 | 第74期本因坊戦最終予選 | Hane Naoki | Shuto Shun | Win | B+0.5 | 6.5 | 3010 | 3 | 
+| 2018-07-05 | 第43期名人戦リーグ | Hane Naoki | Yu Zhengqi | Lose | W+R | 6.5 | 3007 | 18 | 
+| 2018-06-28 | 第66期王座戦2回戦 | Hane Naoki | Motoki Katsuya | Lose | W+3.5 | 6.5 | 2989 | -16 | 
+| 2018-06-21 | 第43期棋聖戦Bリーグ | Yamashiro Hiroshi | Hane Naoki | Lose | B+12.5 | 6.5 | 3005 | 17 | 
+| 2018-06-07 | 第43期名人戦リーグ | Shibano Toramaru | Hane Naoki | Lose | B+3.5 | 6.5 | 2988 | -13 | 
+| 2018-05-24 | 第43期名人戦リーグ | Ko Iso | Hane Naoki | Win | W+R | 6.5 | 3001 | 35 | 
+| 2018-05-17 | 第43期棋聖戦Bリーグ | Shibano Toramaru | Hane Naoki | Lose | B+R | 6.5 | 2966 | 16 | 
+| 2018-05-10 | 第66期王座戦1回戦 | Hane Naoki | Mizokami Tomochika | Win | B+R | 6.5 | 2950 | -11 | 
+| 2018-04-12 | 第44期天元戦2回戦 | Hane Naoki | Suzuki Shinji | Lose | W+R | 6.5 | 2961 | -19 | 
+| 2018-04-05 | 第73期本因坊戦リーグ最終節  | Hane Naoki | Motoki Katsuya | Lose | W+R | 6.5 | 2980 | -5 | 
+| 2018-03-29 | 第43期棋聖戦Bリーグ | Hane Naoki | O Meien | Lose | W+0.5 | 6.5 | 2985 | -71 | 
+| 2018-03-22 | 第66期王座戦予選 | Hane Naoki | O Rissei | Win | B+R | 6.5 | 3056 | 4 | 
+| 2018-03-15 | 第43期棋聖戦Bリーグ | Hane Naoki | Koike Yoshihiro | Win | B+1.5 | 6.5 | 3052 | -64 | 
+| 2018-03-05 | 第5回グランドチャンピオン戦2回戦 | Yu Zhengqi | Hane Naoki | Lose | B+3.5 | 6.5 | 3116 | 2 | 
+| 2018-03-01 | 第43期名人戦リーグ | Yamashita Keigo | Hane Naoki | Win | W+R | 6.5 | 3114 | 13 | 
+| 2018-02-22 | 第43期棋聖戦Bリーグ | Ishida Atsushi | Hane Naoki | Win | W+R | 6.5 | 3101 | 32 | 
+| 2018-02-08 | 第43期名人戦リーグ | Hane Naoki | Kono Rin | Win | B+R | 6.5 | 3069 | 79 | 
+| 2018-01-11 | 第43期名人戦リーグ | Hane Naoki | Takao Shinji | Win | B+R | 6.5 | 2990 | 35 | 
+| 2017-12-21 | 第43期碁聖戦本戦1回戦 | Kurahashi Masayuki | Hane Naoki | Lose | B+R | 6.5 | 2955 | 4 | 
+| 2017-12-14 | 第44期天元戦1回戦 | Hane Naoki | Yamada Takuji | Win | B+0.5 | 6.5 | 2951 | 17 | 
+| 2017-12-07 | 第43期名人戦リーグ | Cho U | Hane Naoki | Lose | B+R | 6.5 | 2934 | -32 | 
+| 2017-11-27 | 第59期日本王冠戦予選 | Kumamoto Syusei | Hane Naoki | Win | W+R | 6.5 | 2966 | 1 | 
+| 2017-11-16 | 第56期十段戦3回戦 | Hane Naoki | Hsu Chiayuan | Lose | W+R | 6.5 | 2965 | -53 | 
+| 2017-11-02 | 第43期名人戦予選 | Hirata Tomoya | Hane Naoki | Win | W+R | 6.5 | 3018 | -23 | 
+| 2017-10-19 | 第56期十段戦2回戦 | Hane Naoki | Kim Sujun | Win | B+0.5 | 6.5 | 3041 | 10 | 
+| 2017-10-15 | 第65回NHK杯テレビ囲碁トーナメント戦2回戦第11局 | Uchida Shuhei | Hane Naoki | Win | W+R | 6.5 | 3031 | 76 | 
+| 2017-10-12 | 第43期名人戦最終予選 | Hane Naoki | Rin Kanketsu | Win | B+R | 6.5 | 2955 | -26 | 
+| 2017-10-05 | 第44期天元戦予選A | Kuwamoto Shinpei | Hane Naoki | Win | W+R | 6.5 | 2981 | -24 | 
+| 2017-09-21 | 第43期名人戦　最終予選1回戦 | Hane Naoki | Cho Riyu | Win | B+R | 6.5 | 3005 | 26 | 
+| 2017-09-14 | 第44期天元戦予選 | Hane Naoki | Goto Shungo | Win | B+R | 6.5 | 2979 | 4 | 
+| 2017-09-07 | 第42期棋聖戦　Aリーグ7回戦 | Hsu Chiayuan | Hane Naoki | Lose | B+R | 6.5 | 2975 | 44 | 
+| 2017-08-03 | 第42期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Win | B+R | 6.5 | 2931 | -11 | 
+| 2017-07-20 | 第42期棋聖戦　Aリーグ6回戦 | Hane Naoki | Yamashiro Hiroshi | Win | B+2.5 | 6.5 | 2942 | -4 | 
+| 2017-07-13 | 第43期碁聖戦　予選A | Kitano Ryo | Hane Naoki | Win | W+R | 6.5 | 2946 | -5 | 
+| 2017-07-06 | 第42期名人戦リーグ | Kono Rin | Hane Naoki | Win | W+R | 6.5 | 2951 | -2 | 
+| 2017-06-29 | 第42期棋聖戦　Aリーグ5回戦 | Hane Naoki | Takao Shinji | Lose | W+2.5 | 6.5 | 2953 | -17 | 
+| 2017-06-22 | 第65期王座戦2回戦 | Ichiriki Ryo | Hane Naoki | Lose | B+R | 6.5 | 2970 | -13 | 
+| 2017-06-08 | 第42期棋聖戦　Aリーグ4回戦 | Yoda Norimoto | Hane Naoki | Lose | B+1.5 | 6.5 | 2983 | -4 | 
+| 2017-06-01 | 第42期名人戦リーグ | Hane Naoki | Ko Iso | Lose | W+R | 6.5 | 2987 | -23 | 
+| 2017-05-25 | 第65期王座戦　本戦1回戦第5局 | Rin Kanketsu | Hane Naoki | Win | W+R | 6.5 | 3010 | -4 | 
+| 2017-05-11 | 第42期棋聖戦　Aリーグ3回戦 | Ryu Shikun | Hane Naoki | Lose | B+R | 6.5 | 3014 | 14 | 
+| 2017-05-04 | 第42期名人戦リーグ | Yamashita Keigo | Hane Naoki | Win | W+R | 6.5 | 3000 | 10 | 
+| 2017-04-27 | 第43期碁聖戦予選 | Hane Naoki | Miyagawa Fumihiko | Win | B+R | 6.5 | 2990 | 21 | 
+| 2017-04-24 | 第42期名人戦リーグ | Hane Naoki | Yu Zhengqi | Lose | W+R | 6.5 | 2969 | -2 | 
+| 2017-04-20 | 第42期棋聖戦　Aリーグ2回戦 | Hane Naoki | Cho Chikun | Lose | W+R | 6.5 | 2971 | -47 | 
+| 2017-04-06 | 第72期本因坊戦　リーグ最終戦 | Hane Naoki | Cho U | Win | B+R | 6.5 | 3018 | 22 | 
+| 2017-03-27 | 第42期名人戦リーグ | Iyama Yuta | Hane Naoki | Lose | B+R | 6.5 | 2996 | 116 | 
+| 2017-03-09 | 第65期王座戦　最終予選特選譜第5局 | Hane Naoki | Komatsu Hideki | Win | B+R | 6.5 | 2880 | -18 | 
+| 2017-03-02 | 第72期本因坊戦　挑戦者決定リーグ第21局 | Hane Naoki | Ko Iso | Lose | W+R | 6.5 | 2898 | -9 | 
+| 2017-02-23 | 第65期王座戦　最終予選 | Hane Naoki | Tanaka Nobuyuki | Win | B+R | 6.5 | 2907 | 34 | 
+| 2017-02-09 | 第72期本因坊戦　挑戦者決定リーグ第18局 | Mitani Tetsuya | Hane Naoki | Win | W+R | 6.5 | 2873 | 37 | 
+| 2017-02-02 | 第42期名人戦リーグ | Sakai Hideyuki | Hane Naoki | Lose | B+0.5 | 6.5 | 2836 | 1 | 
+| 2017-01-19 | 第72期本因坊戦　挑戦者決定リーグ第15局 | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 2835 | -11 | 
+| 2017-01-12 | 第42期名人戦リーグ | Hane Naoki | Cho U | Lose | W+R | 6.5 | 2846 | -15 | 
+| 2017-01-07 | 第64回ＮＨＫ杯テレビ囲碁トーナメント3回戦第5局 | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 2861 | 5 | 
+| 2016-12-26 | 第55期十段戦　準決勝 | Imamura Toshiya | Hane Naoki | Lose | B+R | 6.5 | 2856 | -34 | 
+| 2016-12-01 | 第72期本因坊戦　挑戦者決定リーグ第9局 | Hane Naoki | Motoki Katsuya | Win | B+R | 6.5 | 2890 | 8 | 
+| 2016-11-24 | 第55期十段戦　準々決勝 | Shida Tatsuya | Hane Naoki | Win | W+R | 6.5 | 2882 | 9 | 
+| 2016-11-21 | 第72期本因坊戦　挑戦者決定リーグ第8局 | Yuki Satoshi | Hane Naoki | Win | W+R | 6.5 | 2873 | 18 | 
+| 2016-11-16 | 第57期王冠戦　挑戦手合一番勝負 | Ida Atsushi | Hane Naoki | Lose | B+R | 6.5 | 2855 | -30 | 
+| 2016-11-10 | 第43期天元戦　予選A第3局 | Nakano Hironari | Hane Naoki | Lose | B+0.5 | 6.5 | 2885 | -31 | 
+| 2016-11-07 | 第42期名人戦　最終予選2組決勝 | Ichiriki Ryo | Hane Naoki | Win | W+1.5 | 6.5 | 2916 | 2 | 
+| 2016-11-03 | 第55期十段戦　本戦2回戦 | Hane Naoki | Ida Atsushi | Win | B+R | 6.5 | 2914 | 43 | 
+| 2016-10-27 | 第42期名人戦　最終予選準決勝 | Kobayashi Satoru | Hane Naoki | Win | W+R | 6.5 | 2871 | 3 | 
+| 2016-10-20 | 第72期本因坊戦　挑戦者決定リーグ第4局 | Takao Shinji | Hane Naoki | Win | W+R | 6.5 | 2868 | -8 | 
+| 2016-10-06 | 第43期天元戦予選 | Hane Naoki | Tsuruta Kazushi | Win | B+R | 6.5 | 2876 | 48 | 
+| 2016-09-25 | 第64期NHK杯テレビ囲碁トーナメント2回戦 | Mimura Tomoyasu | Hane Naoki | Win | W+R | 6.5 | 2828 | -55 | 
+| 2016-09-05 | 第72期本因坊戦予選決勝 | Murakawa Daisuke | Hane Naoki | Win | W+R | 6.5 | 2883 | 12 | 
+| 2016-08-25 | 第42期碁聖戦　予選A | Shimojima Yohei | Hane Naoki | Lose | B+0.5 | 6.5 | 2871 | 5 | 
+| 2016-08-18 | 第41期棋聖戦Bリーグ | Akiyama Jiro | Hane Naoki | Win | W+R | 6.5 | 2866 | 5 | 
+| 2016-08-15 | 第64期王座戦準決勝 | Takao Shinji | Hane Naoki | Lose | B+R | 6.5 | 2861 | 9 | 
+| 2016-08-11 | 第41期棋聖戦Bリーグ | Kiyonari Tetsuya | Hane Naoki | Win | W+9.5 | 6.5 | 2852 | -21 | 
+| 2016-08-08 | 第23期阿含・桐山杯全日本早碁オープン戦2回戦 | Hane Naoki | Kono Rin | Lose | W+R | 6.5 | 2873 | 29 | 
+| 2016-08-04 | 第41期名人戦　挑戦者決定リーグ第36局 | Hane Naoki | Hirata Tomoya | Lose | W+R | 6.5 | 2844 | -77 | 
+| 2016-07-28 | 第72期本因坊戦　最終予選第4局 | Hane Naoki | Yoda Norimoto | Win | B+R | 6.5 | 2921 | 32 | 
+| 2016-07-14 | 第64期王座戦2回戦 | Murakawa Daisuke | Hane Naoki | Win | W+1.5 | 6.5 | 2889 | 75 | 
+| 2016-07-07 | 第41期棋聖戦Bリーグ | Cho Sonjin | Hane Naoki | Win | W+R | 6.5 | 2814 | 25 | 
+| 2016-06-30 | 第41期名人戦リーグ | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 2789 | 9 | 
+| 2016-06-23 | 第41期棋聖戦Bリーグ | Hane Naoki | Seto Taiki | Win | B+R | 6.5 | 2780 | -10 | 
+| 2016-06-09 | 第41期名人戦リーグ | Uchida Shuhei | Hane Naoki | Win | W+R | 6.5 | 2790 | 5 | 
+| 2016-05-30 | 第21回LG杯朝鮮日報棋王戦1回戦 | Shin Jinseo | Hane Naoki | Lose | B+R | 6.5 | 2785 | 13 | 
+| 2016-05-26 | 第72期本因坊戦予選 | Hane Naoki | Yamada Takuji | Win | B+R | 6.5 | 2772 | 41 | 
+| 2016-05-19 | 第64期王座戦　本戦1回戦第1局 | Sun Zhe | Hane Naoki | Win | W+5.5 | 6.5 | 2731 | 0 | 
+| 2016-05-12 | 第23期阿含・桐山杯全日本早碁オープン戦予選 | Hane Naoki | Tsuneishi Takashi | Win | B+7.5 | 6.5 | 2731 | -1 | 
+| 2016-05-05 | 第55期十段戦予選 | Hane Naoki | Imamura Yoshiaki | Win | B+R | 6.5 | 2732 | -12 | 
+| 2016-04-28 | 第41期棋聖戦Bリーグ | Hane Naoki | Yu Zhengqi | Lose | W+R | 6.5 | 2744 | 57 | 
+| 2016-04-22 | 第8回応氏杯世界選手権2回戦 | Tang Weixing | Hane Naoki | Lose | B+3 | 7.5 | 2687 | 26 | 
+| 2016-04-20 | 第8回応氏杯世界選手権1回戦 |  | Hane Naoki | Win | W+R | 7.5 | 2661 | 18 | 
+| 2016-04-14 | 第41期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Win | B+R | 6.5 | 2643 | 6 | 
+| 2016-03-31 | 第41期棋聖戦Bリーグ | Yuki Satoshi | Hane Naoki | Lose | B+R | 6.5 | 2637 | -18 | 
+| 2016-03-28 | 第72期本因坊戦予選 | Hane Naoki | Tsuruta Kazushi | Win | B+2.5 | 6.5 | 2655 | 27 | 
+| 2016-03-24 | 第64期王座戦予選 | Rin Kanketsu | Hane Naoki | Win | W+R | 6.5 | 2628 | 2 | 
+| 2016-03-17 | 第41期棋聖戦Bリーグ | Hane Naoki | Ko Iso | Win | B+R | 6.5 | 2626 | 23 | 
+| 2016-03-10 | 第41期碁聖戦本戦2回戦 | Sakai Hideyuki | Hane Naoki | Lose | B+2.5 | 6.5 | 2603 | -34 | 
+| 2016-03-03 | 第41期名人戦リーグ | Kono Rin | Hane Naoki | Win | W+R | 6.5 | 2637 | 11 | 
+| 2016-02-18 | 第72期本因坊戦予選 | Hane Naoki | Sasaka Shiro | Win | B+R | 6.5 | 2626 | -53 | 
+| 2016-02-04 | 第41期名人戦リーグ | Takao Shinji | Hane Naoki | Lose | B+R | 6.5 | 2679 | -45 | 
+| 2016-01-21 | 第55期十段戦予選 | Hane Naoki | Ogata Masaki | Win | B+R | 6.5 | 2724 | -12 | 
+| 2016-01-14 | 第41期碁聖戦本戦1回戦 | Kanazawa Makoto | Hane Naoki | Win | W+2.5 | 6.5 | 2736 | 12 | 
+| 2016-01-07 | 第41期名人戦リーグ | Ko Iso | Hane Naoki | Lose | B+R | 6.5 | 2724 | -4 | 
+| 2015-12-10 | 第41期名人戦リーグ | Hane Naoki | Cho U | Lose | W+R | 6.5 | 2728 | -9 | 
+| 2015-12-04 | 第56期王冠戦挑戦手合一番勝負 | Ogata Masaki | Hane Naoki | Win | W+R | 6.5 | 2737 | 5 | 
+| 2015-11-12 | 第42期天元戦予選 | Ohashi Naruya | Hane Naoki | Lose | B+0.5 | 6.5 | 2732 | -17 | 
+| 2015-11-05 | 第41期名人戦予選 | Ida Atsushi | Hane Naoki | Win | W+R | 6.5 | 2749 | 25 | 
+| 2015-10-29 | 第64期王座戦予選 | Hane Naoki | Mutsuura Yuta | Win | B+R | 6.5 | 2724 | -2 | 
+| 2015-10-15 | 第41期名人戦予選 | Hane Naoki | Cho Chikun | Win | B+3.5 | 6.5 | 2726 | 16 | 
+| 2015-10-01 | 第42期天元戦予選 | Matsuoka Hideki | Hane Naoki | Win | W+R | 6.5 | 2710 | -4 | 
+| 2015-09-28 | 第40期棋聖戦Aリーグ | Yuki Satoshi | Hane Naoki | Lose | B+R | 6.5 | 2714 | -14 | 
+| 2015-09-24 | 第41期名人戦予選 | Hikosaka Naoto | Hane Naoki | Win | W+R | 6.5 | 2728 | -71 | 
+| 2015-08-27 | 第71期本因坊戦予選 | Takao Shinji | Hane Naoki | Lose | B+R | 6.5 | 2799 | -47 | 
+| 2015-08-13 | 第71期本因坊戦予選 | Hane Naoki | Aoki Shinichi | Win | B+5.5 | 6.5 | 2846 | 7 | 
+| 2015-08-06 | 第40期棋聖戦Aリーグ | Cho U | Hane Naoki | Lose | B+R | 6.5 | 2839 | -5 | 
+| 2015-07-30 | 第40期名人戦リーグ | Kanazawa Makoto | Hane Naoki | Win | W+R | 6.5 | 2844 | 15 | 
+| 2015-07-23 | 第40期棋聖戦Aリーグ | Hane Naoki | Cho Riyu | Lose | W+R | 6.5 | 2829 | -14 | 
+| 2015-07-20 | 第54期十段戦予選 | Seto Taiki | Hane Naoki | Lose | B+R | 6.5 | 2843 | -19 | 
+| 2015-07-16 | 第71期本因坊戦予選 | Hoshino Masaki | Hane Naoki | Win | W+R | 6.5 | 2862 | -44 | 
+| 2015-07-02 | 第71期本因坊戦予選 | Tsuruta Kazushi | Hane Naoki | Win | W+R | 6.5 | 2906 | -18 | 
+| 2015-06-25 | 第40期名人戦リーグ | Hane Naoki | Cho U | Lose | W+R | 6.5 | 2924 | -88 | 
+| 2015-06-18 | 第40期棋聖戦Aリーグ | Ichiriki Ryo | Hane Naoki | Lose | B+R | 6.5 | 3012 | 23 | 
+| 2015-06-08 | 第20回LG杯朝鮮日報棋王戦1回戦 | Hane Naoki | Lee Donghoon | Lose | W+2.5 | 6.5 | 2989 | 7 | 
+| 2015-06-04 | 第40期棋聖戦Aリーグ | Hane Naoki | Cho Chikun | Win | B+R | 6.5 | 2982 | -10 | 
+| 2015-05-29 | 第40期名人戦リーグ | Yamashita Keigo | Hane Naoki | Lose | B+0.5 | 6.5 | 2992 | -11 | 
+| 2015-05-21 | 第71期本因坊戦予選 | Hane Naoki | Hiroe Hiroyuki | Win | B+R | 6.5 | 3003 | -27 | 
+| 2015-05-18 | 第63期王座戦予選 | Hane Naoki | Ko Iso | Lose | W+R | 6.5 | 3030 | -20 | 
+| 2015-05-14 | 第40期名人戦リーグ | So Yokoku | Hane Naoki | Win | W+R | 6.5 | 3050 | -57 | 
+| 2015-05-07 | 第40期棋聖戦Aリーグ | Hane Naoki | Mizokami Tomochika | Win | B+R | 6.5 | 3107 | 99 | 
+| 2015-04-23 | 第40期棋聖戦Aリーグ | Hane Naoki | Kono Rin | Lose | W+5.5 | 6.5 | 3008 | -3 | 
+| 2015-04-18 | 第40期名人戦リーグ | Takao Shinji | Hane Naoki | Lose | B+R | 6.5 | 3011 | 9 | 
+| 2015-04-02 | 第63期王座戦予選 | Hane Naoki | Shuto Shun | Win | B+R | 6.5 | 3002 | -143 | 
+| 2015-03-12 | 第40期名人戦リーグ | Hane Naoki | Kono Rin | Lose | W+R | 6.5 | 3145 | -132 | 
+| 2015-03-05 | 第63期王座戦予選 | Hane Naoki | Yamada Kimio | Win | B+R | 6.5 | 3277 | 1 | 
+| 2015-02-26 | 第40期碁聖戦本戦2回戦 | Murakawa Daisuke | Hane Naoki | Lose | B+R | 6.5 | 3276 | 32 | 
+| 2015-02-12 | 第63期王座戦予選 | Ida Atsushi | Hane Naoki | Win | W+R | 6.5 | 3244 | 38 | 
+| 2015-02-09 | 第40期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Lose | W+R | 6.5 | 3206 | 5 | 
+| 2014-12-25 | 第53期十段戦3回戦 | Hane Naoki | Shida Tatsuya | Lose | W+R | 6.5 | 3201 | -14 | 
+| 2014-12-18 | 第41期天元戦本戦1回戦 | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 3215 | 23 | 
+| 2014-12-11 | 第40期碁聖戦本戦1回戦 | Hane Naoki | Cho Sonjin | Win | B+R | 6.5 | 3192 | 29 | 
+| 2014-12-04 | 第40期名人戦リーグ | Hane Naoki | Ko Iso | Lose | W+R | 6.5 | 3163 | -12 | 
+| 2014-11-29 | 第55期王冠戦挑戦手合一番勝負 | Yamashiro Hiroshi | Hane Naoki | Win | W+R | 6.5 | 3175 | 70 | 
+| 2014-10-28 | 第53期十段戦2回戦 | Hane Naoki | Murakawa Daisuke | Win | B+R | 6.5 | 3105 | 16 | 
+| 2014-10-23 | 第41期天元戦予選 | Yanagisawa Satoshi | Hane Naoki | Win | W+R | 6.5 | 3089 | -42 | 
+| 2014-10-02 | 第39期棋聖戦Aリーグ | Hane Naoki | Kono Rin | Lose | W+R | 6.5 | 3131 | -6 | 
+| 2014-09-25 | 第41期天元戦予選 | Ishida Atsushi | Hane Naoki | Win | W+6.5 | 6.5 | 3137 | 53 | 
+| 2014-08-28 | 第39期棋聖戦Aリーグ | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 3084 | -24 | 
+| 2014-07-31 | 第39期名人戦リーグ | Takao Shinji | Hane Naoki | Lose | B+4.5 | 6.5 | 3108 | -51 | 
+| 2014-07-17 | 第70期本因坊戦予選 | Hane Naoki | Yuki Satoshi | Lose | W+R | 6.5 | 3159 | 14 | 
+| 2014-07-10 | 第39期棋聖戦Aリーグ | Ichiriki Ryo | Hane Naoki | Win | W+R | 6.5 | 3145 | 16 | 
+| 2014-07-03 | 第40期天元戦本戦3回戦 | Kono Rin | Hane Naoki | Lose | B+R | 6.5 | 3129 | -4 | 
+| 2014-06-26 | 第39期棋聖戦Aリーグ | Yamashiro Hiroshi | Hane Naoki | Lose | B+2.5 | 6.5 | 3133 | 0 | 
+| 2014-06-12 | 第21期阿含・桐山杯全日本早碁オープン戦予選 | Matsumoto Takehisa | Hane Naoki | Lose | B+R | 6.5 | 3133 | -8 | 
+| 2014-06-05 | 第39期名人戦リーグ | Hane Naoki | Ryu Shikun | Win | B+1.5 | 6.5 | 3141 | 4 | 
+| 2014-05-29 | 第70期本因坊戦予選 | Hane Naoki | Goto Shungo | Win | B+3.5 | 6.5 | 3137 | 81 | 
+| 2014-05-22 | 第39期棋聖戦Aリーグ | Hane Naoki | Takao Shinji | Lose | W+3.5 | 6.5 | 3056 | 24 | 
+| 2014-05-08 | 第40期天元戦本戦2回戦 | Hane Naoki | Ito Masashi | Win | B+0.5 | 6.5 | 3032 | 4 | 
+| 2014-05-01 | 第39期名人戦リーグ | Ko Iso | Hane Naoki | Win | W+R | 6.5 | 3028 | -106 | 
+| 2014-04-24 | 第39期碁聖戦本戦準決勝 | Cho Riyu | Hane Naoki | Lose | B+0.5 | 6.5 | 3134 | -31 | 
+| 2014-04-17 | 第62期王座戦予選 | Matsumoto Takehisa | Hane Naoki | Lose | B+R | 6.5 | 3165 | -23 | 
+| 2014-04-10 | 第70期本因坊戦予選 | Yanagisawa Satoshi | Hane Naoki | Win | W+R | 6.5 | 3188 | 13 | 
+| 2014-04-03 | 第39期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Lose | W+R | 6.5 | 3175 | 9 | 
+| 2014-03-27 | 第39期碁聖戦本戦3回戦 | Anzai Nobuaki | Hane Naoki | Win | W+R | 6.5 | 3166 | 10 | 
+| 2014-03-06 | 第39期名人戦リーグ | Hane Naoki | Cho U | Win | B+R | 6.5 | 3156 | 15 | 
+| 2014-02-27 | 第39期碁聖戦本戦2回戦 | Hane Naoki | Ko Iso | Win | B+R | 6.5 | 3141 | 27 | 
+| 2014-02-20 | 第40期天元戦本戦1回戦 | Chin Kaei | Hane Naoki | Win | W+R | 6.5 | 3114 | -28 | 
+| 2014-02-06 | 第39期名人戦リーグ | Yuki Satoshi | Hane Naoki | Win | W+R | 6.5 | 3142 | 6 | 
+| 2014-01-23 | 第39期碁聖戦本戦1回戦 | Hane Naoki | Mizokami Tomochika | Win | B+2.5 | 6.5 | 3136 | -11 | 
+| 2014-01-16 | 第40期天元戦予選 | Hane Naoki | Goto Shungo | Win | B+R | 6.5 | 3147 | -78 | 
+| 2014-01-09 | 第39期名人戦リーグ | Kono Rin | Hane Naoki | Lose | B+R | 6.5 | 3225 | -13 | 
+| 2013-12-26 | 第52期十段戦準決勝 | Takao Shinji | Hane Naoki | Lose | B+R | 6.5 | 3238 | 32 | 
+| 2013-12-12 | 第40期天元戦予選 | Hane Naoki | Yamamoto Kentaro | Win | B+R | 6.5 | 3206 | -5 | 
+| 2013-12-05 | 第39期名人戦リーグ | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 3211 | 4 | 
+| 2013-11-29 | 第54期王冠戦挑戦手合一番勝負 | Hane Naoki | Nakano Hironari | Win | B+R | 6.5 | 3207 | 3 | 
+| 2013-11-25 | 第52期十段戦3回戦 | Hane Naoki | Ichiriki Ryo | Win | B+R | 6.5 | 3204 | 69 | 
+| 2013-11-07 | 第39期碁聖戦予選 | Hane Naoki | Tsuruta Kazushi | Win | B+R | 6.5 | 3135 | 1 | 
+| 2013-10-24 | 第52期十段戦2回戦 | Hane Naoki | Ryu Shikun | Win | B+R | 6.5 | 3134 | -24 | 
+| 2013-10-03 | 第38期棋聖戦Bリーグ | Hane Naoki | Mizokami Tomochika | Lose | W+R | 6.5 | 3158 | -76 | 
+| 2013-09-19 | 第39期碁聖戦予選 | Hane Naoki | Kitano Ryo | Win | B+R | 6.5 | 3234 | -33 | 
+| 2013-09-05 | 第38期棋聖戦Bリーグ | Cho Chikun | Hane Naoki | Win | W+R | 6.5 | 3267 | 17 | 
+| 2013-08-29 | 第61期王座戦準決勝 | Yuki Satoshi | Hane Naoki | Lose | B+R | 6.5 | 3250 | -11 | 
+| 2013-08-22 | 第52期十段戦予選 | Hane Naoki | Yamashiro Hiroshi | Win | B+0.5 | 6.5 | 3261 | -27 | 
+| 2013-08-08 | 第61期王座戦2回戦 | Hane Naoki | Murakawa Daisuke | Win | B+R | 6.5 | 3288 | 41 | 
+| 2013-08-01 | 第38期名人戦リーグ | Iyama Yuta | Hane Naoki | Lose | B+R | 6.5 | 3247 | 36 | 
+| 2013-07-18 | 第38期棋聖戦Bリーグ | Kono Rin | Hane Naoki | Win | W+1.5 | 6.5 | 3211 | 15 | 
+| 2013-07-11 | 第39期天元戦本戦2回戦 | Hane Naoki | Cho U | Lose | W+1.5 | 6.5 | 3196 | 43 | 
+| 2013-07-04 | 第38期名人戦リーグ | Sakai Hideyuki | Hane Naoki | Win | W+6.5 | 6.5 | 3153 | 24 | 
+| 2013-06-27 | 第38期棋聖戦Bリーグ | Hane Naoki | Murakawa Daisuke | Lose | W+R | 6.5 | 3129 | 50 | 
+| 2013-06-20 | 第38期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Lose | W+R | 6.5 | 3079 | 48 | 
+| 2013-06-10 | 第18回LG杯朝鮮日報棋王戦1回戦 | Mok Jinseok | Hane Naoki | Lose | B+0.5 | 6.5 | 3031 | 99 | 
+| 2013-05-30 | 第61期王座戦1回戦 | Hane Naoki | Kiyonari Tetsuya | Win | B+R | 6.5 | 2932 | -38 | 
+| 2013-05-23 | 第38期棋聖戦Bリーグ | Hane Naoki | Takao Shinji | Lose | W+0.5 | 6.5 | 2970 | -20 | 
+| 2013-04-25 | 第69期本因坊戦予選 | Ogata Masaki | Hane Naoki | Lose | B+0.5 | 6.5 | 2990 | -57 | 
+| 2013-04-11 | 第38期名人戦リーグ | Hane Naoki | Yuki Satoshi | Win | B+R | 6.5 | 3047 | -30 | 
+| 2013-03-14 | 第69期本因坊戦予選 | Hane Naoki | Ito Yoji | Win | B+R | 6.5 | 3077 | 14 | 
+| 2013-03-07 | 第38期名人戦リーグ | Hane Naoki | Cho U | Lose | W+3.5 | 6.5 | 3063 | 25 | 
+| 2013-02-14 | 第38期名人戦リーグ | Takao Shinji | Hane Naoki | Win | W+R | 6.5 | 3038 | 14 | 
+| 2013-02-07 | 第39期天元戦本戦1回戦 | Hane Naoki | Kim Sujun | Win | B+R | 6.5 | 3024 | 6 | 
+| 2013-01-17 | 第38期名人戦リーグ | Mizokami Tomochika | Hane Naoki | Win | W+3.5 | 6.5 | 3018 | 18 | 
+| 2012-12-20 | 第38期名人戦リーグ | Hane Naoki | Kono Rin | Win | B+R | 6.5 | 3000 | -295 | 
+| 2012-11-27 | 第53期王冠戦挑戦手合一番勝負 | Nakano Hironari | Hane Naoki | Win | W+3.5 | 6.5 | 3295 | 129 | 
+| 2012-11-22 | 第38期碁聖戦本戦1回戦 | Hane Naoki | Kato Atsushi | Lose | W+4.5 | 6.5 | 3166 | -18 | 
+| 2012-11-13 | 第37期名人戦挑戦手合七番勝負第7局 | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 3184 | -12 | 
+| 2012-11-01 | 第37期名人戦挑戦手合七番勝負第6局 | Yamashita Keigo | Hane Naoki | Win | W+R | 6.5 | 3196 | 13 | 
+| 2012-10-18 | 第37期名人戦挑戦手合七番勝負第5局 | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 3183 | 2 | 
+| 2012-10-11 | 第37期名人戦挑戦手合七番勝負第4局 | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 3181 | 23 | 
+| 2012-10-04 | 第37期棋聖戦Bリーグ | Hane Naoki | Iyama Yuta | Lose | W+0.5 | 6.5 | 3158 | -25 | 
+| 2012-09-28 | 第37期名人戦挑戦手合七番勝負第3局 | Hane Naoki | Yamashita Keigo | Win | B+R | 6.5 | 3183 | 33 | 
+| 2012-09-21 | 第37期名人戦挑戦手合七番勝負第2局 | Yamashita Keigo | Hane Naoki | Win | W+R | 6.5 | 3150 | -41 | 
+| 2012-09-13 | 第60期王座戦挑戦者決定戦 | Iyama Yuta | Hane Naoki | Lose | B+R | 6.5 | 3191 | -8 | 
+| 2012-09-06 | 第51期十段戦予選 | Hane Naoki | Kim Sujun | Lose | W+R | 6.5 | 3199 | -15 | 
+| 2012-08-31 | 第37期名人戦挑戦手合七番勝負第1局 | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 3214 | -1 | 
+| 2012-08-27 | 第19期阿含・桐山杯全日本早碁オープン戦準決勝 | Hane Naoki | Cho U | Lose | W+R | 6.5 | 3215 | 36 | 
+| 2012-08-23 | 第37期棋聖戦Bリーグ | Yoda Norimoto | Hane Naoki | Win | W+1.5 | 6.5 | 3179 | 22 | 
+| 2012-08-20 | 第60期王座戦準決勝 | Tsuruyama Atsushi | Hane Naoki | Win | W+R | 6.5 | 3157 | 3 | 
+| 2012-08-14 | 第24回テレビアジア選手権1回戦 | Hane Naoki | Park Junghwan | Lose | W+R | 6.5 | 3154 | -7 | 
+| 2012-08-09 | 第19期阿含・桐山杯全日本早碁オープン戦2回戦 | Cho Sonjin | Hane Naoki | Win | W+2.5 | 6.5 | 3161 | 30 | 
+| 2012-08-06 | 第37期名人戦挑戦者決定プレーオフ | Hane Naoki | Iyama Yuta | Win | B+R | 6.5 | 3131 | 0 | 
+| 2012-08-02 | 第37期名人戦リーグ | Kono Rin | Hane Naoki | Win | W+R | 6.5 | 3131 | -94 | 
+| 2012-07-26 | 第60期王座戦2回戦 | Hane Naoki | Kim Sujun | Win | B+R | 6.5 | 3225 | 5 | 
+| 2012-07-23 | 第37期碁聖戦挑戦手合五番勝負第3局 | Iyama Yuta | Hane Naoki | Lose | B+R | 6.5 | 3220 | 27 | 
+| 2012-07-19 | 第37期棋聖戦Bリーグ | Hane Naoki | Mizokami Tomochika | Win | B+R | 6.5 | 3193 | 7 | 
+| 2012-07-13 | 第37期碁聖戦挑戦手合五番勝負第2局 | Hane Naoki | Iyama Yuta | Lose | W+R | 6.5 | 3186 | -51 | 
+| 2012-07-09 | 第19期阿含・桐山杯全日本早碁オープン戦1回戦 | Hane Naoki | So Yokoku | Win | B+R | 6.5 | 3237 | 23 | 
+| 2012-07-05 | 第60期王座戦1回戦 | Hane Naoki | Lee Ishu | Win | B+R | 6.5 | 3214 | 56 | 
+| 2012-06-28 | 第37期碁聖戦挑戦手合五番勝負第1局 | Iyama Yuta | Hane Naoki | Lose | B+R | 6.5 | 3158 | -18 | 
+| 2012-06-21 | 第37期棋聖戦Bリーグ | Awaji Shuzo | Hane Naoki | Lose | B+R | 6.5 | 3176 | -64 | 
+| 2012-06-14 | 第37期名人戦リーグ | Hane Naoki | Cho U | Win | B+2.5 | 6.5 | 3240 | -58 | 
+| 2012-06-07 | 第68期本因坊戦予選 | Kubo Hideo | Hane Naoki | Lose | B+R | 6.5 | 3298 | 21 | 
+| 2012-05-31 | 第38期天元戦本戦3回戦 | Hane Naoki | Kono Rin | Lose | W+4.5 | 6.5 | 3277 | -34 | 
+| 2012-05-23 | 第7回応氏杯世界選手権1回戦 | Kong Jie | Hane Naoki | Lose | B+1 | 7.5 | 3311 | -18 | 
+| 2012-05-17 | 第37期棋聖戦Bリーグ | Hane Naoki | Yamashiro Hiroshi | Win | B+R | 6.5 | 3329 | 6 | 
+| 2012-05-10 | 第38期天元戦本戦2回戦 | Hane Naoki | Shida Tatsuya | Win | B+R | 6.5 | 3323 | -89 | 
+| 2012-04-26 | 第37期名人戦リーグ | Hane Naoki | Mizokami Tomochika | Win | B+R | 6.5 | 3412 | -10 | 
+| 2012-04-12 | 第37期名人戦リーグ | Takao Shinji | Hane Naoki | Win | W+R | 6.5 | 3422 | 0 | 
+| 2012-03-29 | 第67期本因坊戦リーグ | Iyama Yuta | Hane Naoki | Lose | B+R | 6.5 | 3422 | 51 | 
+| 2012-03-22 | 第67期本因坊戦リーグ | Seto Taiki | Hane Naoki | Win | W+R | 6.5 | 3371 | -49 | 
+| 2012-03-14 | 第1回百霊杯世界囲碁選手権1回戦 | Huang Yunsong | Hane Naoki | Lose | B+R | 7.5 | 3420 | -70 | 
+| 2012-03-01 | 第37期名人戦リーグ | Yuki Satoshi | Hane Naoki | Win | W+R | 6.5 | 3490 | -55 | 
+| 2012-02-23 | 第38期天元戦本戦1回戦 | Yuki Satoshi | Hane Naoki | Win | W+3.5 | 6.5 | 3545 | 14 | 
+| 2012-02-16 | 第67期本因坊戦リーグ | Hane Naoki | Kono Rin | Lose | W+R | 6.5 | 3531 | 75 | 
+| 2012-02-09 | 第37期名人戦リーグ | Hane Naoki | Kim Sujun | Win | B+R | 6.5 | 3456 | 75 | 
+| 2012-01-16 | 第67期本因坊戦リーグ | Takao Shinji | Hane Naoki | Win | W+R | 6.5 | 3381 | 5 | 
+| 2012-01-12 | 第37期名人戦リーグ | Uchida Shuhei | Hane Naoki | Win | W+R | 6.5 | 3376 | -32 | 
+| 2011-12-22 | 第37期名人戦リーグ | Hane Naoki | Iyama Yuta | Lose | W+3.5 | 6.5 | 3408 | -37 | 
+| 2011-12-15 | 第67期本因坊戦リーグ | Hane Naoki | Cho U | Lose | W+R | 6.5 | 3445 | 383 | 
+| 2011-11-28 | 第13回農心辛ラーメン杯世界囲碁最強戦第5戦 | Tan Xiao | Hane Naoki | Lose | B+R | 6.5 | 3062 | 47 | 
+| 2011-11-24 | 第59期王座戦挑戦手合五番勝負第3局 | Hane Naoki | Cho U | Lose | W+R | 6.5 | 3015 | -22 | 
+| 2011-11-16 | 第52期王冠戦挑戦手合一番勝負 | Hane Naoki | Yamashiro Hiroshi | Win | B+5.5 | 6.5 | 3037 | 7 | 
+| 2011-11-11 | 第59期王座戦挑戦手合五番勝負第2局 | Cho U | Hane Naoki | Lose | B+1.5 | 6.5 | 3030 | -51 | 
+| 2011-11-03 | 第67期本因坊戦リーグ | Ko Iso | Hane Naoki | Win | W+R | 6.5 | 3081 | -5 | 
+| 2011-10-27 | 第38期天元戦予選 | Hane Naoki | Goto Shungo | Win | B+R | 6.5 | 3086 | 6 | 
+| 2011-10-20 | 第59期王座戦挑戦手合五番勝負第1局 | Hane Naoki | Cho U | Lose | W+3.5 | 6.5 | 3080 | -30 | 
+| 2011-10-06 | 第67期本因坊戦リーグ | Hane Naoki | Yuki Satoshi | Lose | W+R | 6.5 | 3110 | -15 | 
+| 2011-09-29 | 第36期棋聖戦Aリーグ | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 3125 | -36 | 
+| 2011-09-22 | 第38期天元戦予選 | Hane Naoki | Imamura Yoshiaki | Win | B+R | 6.5 | 3161 | 91 | 
+| 2011-09-10 | 第7回大和証券杯ネット囲碁オープン1回戦 | Hane Naoki | Ogata Masaki | Lose | W+R | 6.5 | 3070 | 9 | 
+| 2011-09-08 | 第59期王座戦挑戦者決定戦 | Iyama Yuta | Hane Naoki | Win | W+R | 6.5 | 3061 | 19 | 
+| 2011-09-01 | 第50期十段戦1回戦 | Hane Naoki | Akiyama Jiro | Lose | W+0.5 | 6.5 | 3042 | -11 | 
+| 2011-08-29 | 第36期碁聖戦挑戦手合五番勝負第5局 | Sakai Hideyuki | Hane Naoki | Win | W+R | 6.5 | 3053 | 5 | 
+| 2011-08-22 | 第36期棋聖戦Aリーグ | Hane Naoki | Kono Rin | Lose | W+R | 6.5 | 3048 | -20 | 
+| 2011-08-18 | 第36期碁聖戦挑戦手合五番勝負第4局 | Sakai Hideyuki | Hane Naoki | Win | W+6.5 | 6.5 | 3068 | -5 | 
+| 2011-08-11 | 第24回世界囲碁選手権富士通杯2回戦 | Hane Naoki | Piao Wenyao | Lose | W+R | 6.5 | 3073 | 12 | 
+| 2011-08-10 | 第24回世界囲碁選手権富士通杯1回戦 | Seto Taiki | Hane Naoki | Win | W+5.5 | 6.5 | 3061 | -9 | 
+| 2011-08-08 | 第36期名人戦挑戦者決定プレーオフ | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 3070 | -33 | 
+| 2011-08-04 | 第36期名人戦リーグ | Sakai Hideyuki | Hane Naoki | Win | W+0.5 | 6.5 | 3103 | 18 | 
+| 2011-08-01 | 第31期NECカップ囲碁トーナメント戦1回戦 | Ogata Masaki | Hane Naoki | Lose | B+R | 6.5 | 3085 | -6 | 
+| 2011-07-29 | 第36期碁聖戦挑戦手合五番勝負第3局 | Hane Naoki | Sakai Hideyuki | Win | B+3.5 | 6.5 | 3091 | 10 | 
+| 2011-07-25 | 第36期棋聖戦Aリーグ | Seto Taiki | Hane Naoki | Win | W+R | 6.5 | 3081 | 14 | 
+| 2011-07-21 | 第66期本因坊戦挑戦手合七番勝負第7局 | Hane Naoki | Yamashita Keigo | Lose | W+4.5 | 6.5 | 3067 | -13 | 
+| 2011-07-14 | 第66期本因坊戦挑戦手合七番勝負第6局 | Yamashita Keigo | Hane Naoki | Win | W+7.5 | 6.5 | 3080 | 7 | 
+| 2011-07-10 | 第36期碁聖戦挑戦手合五番勝負第2局 | Sakai Hideyuki | Hane Naoki | Lose | B+1.5 | 6.5 | 3073 | -16 | 
+| 2011-07-07 | 第36期名人戦リーグ | Hane Naoki | Mizokami Tomochika | Lose | W+1.5 | 6.5 | 3089 | -30 | 
+| 2011-06-30 | 第66期本因坊戦挑戦手合七番勝負第5局 | Hane Naoki | Yamashita Keigo | Win | B+R | 6.5 | 3119 | -97 | 
+| 2011-06-23 | 第36期碁聖戦挑戦手合五番勝負第1局 | Hane Naoki | Sakai Hideyuki | Lose | W+R | 6.5 | 3216 | -22 | 
+| 2011-06-20 | 第59期王座戦準決勝 | Mitani Tetsuya | Hane Naoki | Win | W+R | 6.5 | 3238 | -19 | 
+| 2011-06-16 | 第66期本因坊戦挑戦手合七番勝負第4局 | Yamashita Keigo | Hane Naoki | Win | W+0.5 | 6.5 | 3257 | -1 | 
+| 2011-06-09 | 第36期名人戦リーグ | Cho Chikun | Hane Naoki | Win | W+R | 6.5 | 3258 | 15 | 
+| 2011-06-06 | 第36期棋聖戦Aリーグ | Iyama Yuta | Hane Naoki | Win | W+R | 6.5 | 3243 | 11 | 
+| 2011-06-03 | 第66期本因坊戦挑戦手合七番勝負第3局 | Hane Naoki | Yamashita Keigo | Lose | W+1.5 | 6.5 | 3232 | 33 | 
+| 2011-05-30 | 第59期王座戦2回戦 | Cho Chikun | Hane Naoki | Win | W+R | 6.5 | 3199 | 17 | 
+| 2011-05-25 | 第66期本因坊戦挑戦手合七番勝負第2局 | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 3182 | -25 | 
+| 2011-05-19 | 第36期碁聖戦挑戦者決定戦 | Rin Shien | Hane Naoki | Win | W+R | 6.5 | 3207 | 28 | 
+| 2011-05-16 | 第36期棋聖戦Aリーグ | Kato Atsushi | Hane Naoki | Win | W+R | 6.5 | 3179 | 67 | 
+| 2011-05-12 | 第66期本因坊戦挑戦手合七番勝負第1局 | Hane Naoki | Yamashita Keigo | Lose | W+7.5 | 6.5 | 3112 | -64 | 
+| 2011-05-05 | 第18期阿含・桐山杯全日本早碁オープン戦予選 | Hane Naoki | O Meien | Lose | W+R | 6.5 | 3176 | -68 | 
+| 2011-04-28 | 第59期王座戦1回戦 | Hane Naoki | Kobayashi Satoru | Win | B+1.5 | 6.5 | 3244 | 36 | 
+| 2011-04-14 | 第36期碁聖戦本戦準決勝 | Hane Naoki | Cho Chikun | Win | B+R | 6.5 | 3208 | -9 | 
+| 2011-03-31 | 第66期本因坊戦リーグ | O Rissei | Hane Naoki | Win | W+0.5 | 6.5 | 3217 | -15 | 
+| 2011-03-24 | 第36期名人戦リーグ | Hane Naoki | Yuki Satoshi | Win | B+R | 6.5 | 3232 | -17 | 
+| 2011-03-03 | 第66期本因坊戦リーグ | Hane Naoki | Seto Taiki | Win | B+R | 6.5 | 3249 | 21 | 
+| 2011-02-24 | 第36期名人戦リーグ | Hane Naoki | Takao Shinji | Win | B+R | 6.5 | 3228 | 49 | 
+| 2011-02-10 | 第66期本因坊戦リーグ | Hane Naoki | Cho U | Lose | W+R | 6.5 | 3179 | -14 | 
+| 2011-02-03 | 第36期名人戦リーグ | Hane Naoki | Yamashita Keigo | Win | B+6.5 | 6.5 | 3193 | 14 | 
+| 2011-01-27 | 第37期天元戦本戦1回戦 | Yamashiro Hiroshi | Hane Naoki | Lose | B+3.5 | 6.5 | 3179 | 100 | 
+| 2011-01-20 | 第36期碁聖戦本戦3回戦 | Iyama Yuta | Hane Naoki | Win | W+R | 6.5 | 3079 | -33 | 
+| 2011-01-13 | 第36期碁聖戦本戦2回戦 | Hane Naoki | Chin Kaei | Win | B+R | 6.5 | 3112 | -12 | 
+| 2011-01-06 | 第36期名人戦リーグ | Cho U | Hane Naoki | Lose | B+R | 6.5 | 3124 | 60 | 
+| 2010-12-23 | 第66期本因坊戦リーグ | Hane Naoki | Iyama Yuta | Win | B+R | 6.5 | 3064 | 19 | 
+| 2010-12-16 | 第36期名人戦リーグ | Rin Kanketsu | Hane Naoki | Win | W+0.5 | 6.5 | 3045 | 22 | 
+| 2010-12-09 | 第66期本因坊戦リーグ | Hane Naoki | Kobayashi Satoru | Win | B+R | 6.5 | 3023 | 107 | 
+| 2010-11-30 | 第12回農心辛ラーメン杯世界囲碁最強戦第6戦 | Hane Naoki | Xie He | Lose | W+R | 6.5 | 2916 | -85 | 
+| 2010-11-25 | 第51期王冠戦挑戦手合一番勝負 | Hane Naoki | Yamashiro Hiroshi | Lose | W+4.5 | 6.5 | 3001 | 8 | 
+| 2010-11-11 | 第66期本因坊戦リーグ | Cho Sonjin | Hane Naoki | Win | W+R | 6.5 | 2993 | 1 | 
+| 2010-10-28 | 第36期名人戦予選 | Yamada Kimio | Hane Naoki | Win | W+R | 6.5 | 2992 | 8 | 
+| 2010-10-21 | 第66期本因坊戦リーグ | Takao Shinji | Hane Naoki | Win | W+R | 6.5 | 2984 | -1 | 
+| 2010-10-14 | 第49期十段戦敗者復活戦3回戦 | Hane Naoki | Cho Chikun | Lose | W+2.5 | 6.5 | 2985 | 101 | 
+| 2010-09-30 | 第35期棋聖戦Bリーグ | Akiyama Jiro | Hane Naoki | Win | W+R | 6.5 | 2884 | 6 | 
+| 2010-09-23 | 第36期名人戦予選 | Murakawa Daisuke | Hane Naoki | Win | W+R | 6.5 | 2878 | -4 | 
+| 2010-09-18 | 第6回大和証券杯ネット囲碁オープン2回戦 | Yoda Norimoto | Hane Naoki | Lose | B+1.5 | 6.5 | 2882 | 43 | 
+| 2010-09-09 | 第15回三星火災杯世界囲碁マスターズ1回戦D2 | Hane Naoki | Min Sangyoun | Lose | W+R | 6.5 | 2839 | 1 | 
+| 2010-09-08 | 第15回三星火災杯世界囲碁マスターズ1回戦D1 | Heo Yongho | Hane Naoki | Lose | B+R | 6.5 | 2838 | -18 | 
+| 2010-09-02 | 第35期棋聖戦Bリーグ | Hane Naoki | Ryu Shikun | Win | B+0.5 | 6.5 | 2856 | 14 | 
+| 2010-08-26 | 第49期十段戦敗者復活戦2回戦 | So Yokoku | Hane Naoki | Win | W+0.5 | 6.5 | 2842 | -14 | 
+| 2010-08-19 | 第36期名人戦予選 | Hane Naoki | Tsuruyama Atsushi | Win | B+R | 6.5 | 2856 | -18 | 
+| 2010-08-12 | 第30期NECカップ囲碁トーナメント戦2回戦 | Hane Naoki | Cho U | Lose | W+4.5 | 6.5 | 2874 | -24 | 
+| 2010-08-05 | 第35期棋聖戦Bリーグ | Hane Naoki | Iyama Yuta | Win | B+R | 6.5 | 2898 | -9 | 
+| 2010-07-31 | 第6回大和証券杯ネット囲碁オープン1回戦 | So Yokoku | Hane Naoki | Win | W+R | 6.5 | 2907 | 8 | 
+| 2010-07-29 | 第35期棋聖戦Bリーグ | Yamashiro Hiroshi | Hane Naoki | Lose | B+1.5 | 6.5 | 2899 | 6 | 
+| 2010-07-22 | 第49期十段戦本戦2回戦 | Hane Naoki | Iyama Yuta | Lose | W+R | 6.5 | 2893 | -14 | 
+| 2010-07-19 | 第30期NECカップ囲碁トーナメント戦1回戦 | Takao Shinji | Hane Naoki | Win | W+R | 6.5 | 2907 | -25 | 
+| 2010-07-08 | 第17期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Chikun | Hane Naoki | Lose | B+R | 6.5 | 2932 | -18 | 
+| 2010-06-29 | 第65期本因坊戦挑戦手合七番勝負第5局 | Hane Naoki | Yamashita Keigo | Lose | W+7.5 | 6.5 | 2950 | -9 | 
+| 2010-06-24 | 第35期棋聖戦Bリーグ | Hane Naoki | O Rissei | Lose | W+R | 6.5 | 2959 | -20 | 
+| 2010-06-18 | 第65期本因坊戦挑戦手合七番勝負第4局 | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 2979 | 27 | 
+| 2010-06-09 | 第65期本因坊戦挑戦手合七番勝負第3局 | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 2952 | 8 | 
+| 2010-06-03 | 第58期王座戦2回戦 | Mitani Tetsuya | Hane Naoki | Lose | B+R | 6.5 | 2944 | -3 | 
+| 2010-05-27 | 第65期本因坊戦挑戦手合七番勝負第2局 | Yamashita Keigo | Hane Naoki | Lose | B+1.5 | 6.5 | 2947 | 13 | 
+| 2010-05-20 | 第49期十段戦本戦1回戦 | Hane Naoki | Yamashiro Hiroshi | Win | B+5.5 | 6.5 | 2934 | 23 | 
+| 2010-05-12 | 第65期本因坊戦挑戦手合七番勝負第1局 | Hane Naoki | Yamashita Keigo | Win | B+3.5 | 6.5 | 2911 | 13 | 
+| 2010-04-29 | 第58期王座戦1回戦 | Seto Taiki | Hane Naoki | Win | W+R | 6.5 | 2898 | 11 | 
+| 2010-04-22 | 第49期十段戦予選 | Hane Naoki | Chin Kaei | Win | B+R | 6.5 | 2887 | -18 | 
+| 2010-04-12 | 第23回世界囲碁選手権富士通杯2回戦 | Hane Naoki | Kang Dongyun | Lose | W+R | 6.5 | 2905 | -3 | 
+| 2010-04-10 | 第23回世界囲碁選手権富士通杯1回戦 | Choi Cheolhan | Hane Naoki | Win | W+1.5 | 6.5 | 2908 | -30 | 
+| 2010-03-09 | 第11回農心辛ラーメン杯世界囲碁最強戦第11戦 | Liu Xing | Hane Naoki | Lose | B+5.5 | 6.5 | 2938 | -17 | 
+| 2010-03-06 | 第29期NECカップ囲碁トーナメント戦決勝 | Kono Rin | Hane Naoki | Lose | B+R | 6.5 | 2955 | 25 | 
+| 2010-02-13 | 第29期NECカップ囲碁トーナメント戦準決勝 | Hane Naoki | Ko Iso | Win | B+7.5 | 6.5 | 2930 | 23 | 
+| 2010-02-01 | 第36期天元戦本戦1回戦 | Iyama Yuta | Hane Naoki | Lose | B+R | 6.5 | 2907 | -21 | 
+| 2010-01-23 | 第11回農心辛ラーメン杯世界囲碁最強戦第10戦 | Hane Naoki | Park Yeonghun | Win | B+R | 6.5 | 2928 | 15 | 
+| 2010-01-22 | 第11回農心辛ラーメン杯世界囲碁最強戦第9戦 | Hane Naoki | Xie He | Win | B+R | 6.5 | 2913 | -59 | 
+| 2009-12-09 | 第11回阿含・桐山杯日中決戦 | Sun Tengyu | Hane Naoki | Lose | B+3.5 | 7.5 | 2972 | -168 | 
+| 2009-11-26 | 第50期王冠戦挑戦手合一番勝負 | Yamashiro Hiroshi | Hane Naoki | Win | W+R | 6.5 | 3140 | -33 | 
+| 2009-10-29 | 第35期名人戦予選 | Yuki Satoshi | Hane Naoki | Lose | B+4.5 | 6.5 | 3173 | 20 | 
+| 2009-10-22 | 第35期碁聖戦本戦1回戦 | Yukawa Mitsuhisa | Hane Naoki | Lose | B+6.5 | 6.5 | 3153 | -15 | 
+| 2009-10-17 | 第16期阿含・桐山杯全日本早碁オープン戦決勝 | Cho U | Hane Naoki | Win | W+R | 6.5 | 3168 | 55 | 
+| 2009-10-01 | 第34期棋聖戦Aリーグ | Kiyonari Tetsuya | Hane Naoki | Win | W+R | 6.5 | 3113 | -36 | 
+| 2009-09-11 | 第14回三星火災杯世界囲碁マスターズ1回戦H2 | Kim Jiseok | Hane Naoki | Lose | B+R | 6.5 | 3149 | 6 | 
+| 2009-09-10 | 第14回三星火災杯世界囲碁マスターズ1回戦H1 | Song Taekon | Hane Naoki | Lose | B+R | 6.5 | 3143 | -11 | 
+| 2009-09-05 | 第5回大和証券杯ネット囲碁オープン2回戦 | Hane Naoki | O Meien | Lose | W+0.5 | 6.5 | 3154 | 4 | 
+| 2009-09-03 | 第34期棋聖戦Aリーグ | Takao Shinji | Hane Naoki | Lose | B+R | 6.5 | 3150 | -14 | 
+| 2009-08-29 | 第29期NECカップ囲碁トーナメント戦2回戦 | Hane Naoki | Cho U | Win | B+2.5 | 6.5 | 3164 | 43 | 
+| 2009-08-22 | 第5回大和証券杯ネット囲碁オープン1回戦 | Ko Iso | Hane Naoki | Win | W+R | 6.5 | 3121 | 51 | 
+| 2009-08-13 | 第34期棋聖戦Aリーグ | Hane Naoki | Lee Ishu | Win | B+R | 6.5 | 3070 | -21 | 
+| 2009-08-06 | 第16期阿含・桐山杯全日本早碁オープン戦準決勝 | Hane Naoki | Yamashita Keigo | Win | B+R | 6.5 | 3091 | 12 | 
+| 2009-07-23 | 第34期棋聖戦Aリーグ | Hane Naoki | O Rissei | Lose | W+1.5 | 6.5 | 3079 | -37 | 
+| 2009-07-16 | 第64期本因坊戦挑戦手合七番勝負第6局 | Hane Naoki | Takao Shinji | Win | B+5.5 | 6.5 | 3116 | 4 | 
+| 2009-07-09 | 第16期阿含・桐山杯全日本早碁オープン戦2回戦 | Hane Naoki | Mizokami Tomochika | Win | B+3.5 | 6.5 | 3112 | -11 | 
+| 2009-06-30 | 第64期本因坊戦挑戦手合七番勝負第5局 | Takao Shinji | Hane Naoki | Lose | B+R | 6.5 | 3123 | 27 | 
+| 2009-06-19 | 第64期本因坊戦挑戦手合七番勝負第4局 | Hane Naoki | Takao Shinji | Win | B+6.5 | 6.5 | 3096 | 23 | 
+| 2009-06-15 | 第16期阿含・桐山杯全日本早碁オープン戦1回戦 | Rin Shien | Hane Naoki | Win | W+R | 6.5 | 3073 | 39 | 
+| 2009-06-11 | 第64期本因坊戦挑戦手合七番勝負第3局 | Takao Shinji | Hane Naoki | Win | W+R | 6.5 | 3034 | 44 | 
+| 2009-06-04 | 第34期棋聖戦Aリーグ | Hane Naoki | Yoda Norimoto | Win | B+3.5 | 6.5 | 2990 | -60 | 
+| 2009-05-28 | 第64期本因坊戦挑戦手合七番勝負第2局 | Hane Naoki | Takao Shinji | Lose | W+R | 6.5 | 3050 | -39 | 
+| 2009-05-20 | 第14回LG杯世界棋王戦2回戦 | Hane Naoki | Gu Li | Lose | W+R | 6.5 | 3089 | -9 | 
+| 2009-05-18 | 第14回LG杯世界棋王戦1回戦 | Hane Naoki | Park Cheongsang | Win | B+R | 6.5 | 3098 | 31 | 
+| 2009-05-14 | 第64期本因坊戦挑戦手合七番勝負第1局 | Takao Shinji | Hane Naoki | Win | W+2.5 | 6.5 | 3067 | 38 | 
+| 2009-05-07 | 第35期天元戦本戦3回戦 | Hane Naoki | Kim Sujun | Lose | W+R | 6.5 | 3029 | 0 | 
+| 2009-04-27 | 第5回大和証券杯ネット囲碁オープン予選 | Hane Naoki | Awaji Shuzo | Win | B+R | 6.5 | 3029 | 11 | 
+| 2009-04-16 | 第57期王座戦予選 | Hane Naoki | Yoda Norimoto | Lose | W+R | 6.5 | 3018 | -15 | 
+| 2009-04-13 | 第22回世界囲碁選手権富士通杯2回戦 | Chang Hao | Hane Naoki | Lose | B+R | 6.5 | 3033 | -17 | 
+| 2009-04-11 | 第22回世界囲碁選手権富士通杯1回戦 | Hane Naoki | Li Jie (2) | Win | B+R | 6.5 | 3050 | 9 | 
+| 2009-03-19 | 第35期天元戦本戦2回戦 | Hane Naoki | O Rissei | Win | B+3.5 | 6.5 | 3041 | -28 | 
+| 2009-03-07 | 第28期NECカップ囲碁トーナメント戦決勝 | Hane Naoki | Cho U | Win | B+R | 6.5 | 3069 | 14 | 
+| 2009-03-05 | 第48期十段戦予選 | Hane Naoki | Ishii Kunio | Win | B+R | 6.5 | 3055 | -6 | 
+| 2009-02-19 | 第57期王座戦予選 | Hane Naoki | Nakaonoda Tomomi | Win | B+R | 6.5 | 3061 | 7 | 
+| 2009-02-07 | 第28期NECカップ囲碁トーナメント戦準決勝 | Hane Naoki | Cho Chikun | Win | B+9.5 | 6.5 | 3054 | -100 | 
+| 2009-01-08 | 第48期十段戦予選 | Hane Naoki | Imamura Yoshiaki | Win | B+5.5 | 6.5 | 3154 | 79 | 
+| 2008-12-18 | 第35期天元戦本戦1回戦 | Iyama Yuta | Hane Naoki | Win | W+R | 6.5 | 3075 | 350 | 
+| 2008-11-27 | 第10回農心辛ラーメン杯世界囲碁最強戦第8戦 | Kang Dongyun | Hane Naoki | Lose | B+R | 6.5 | 2725 | -19 | 
+| 2008-11-22 | 第28期NECカップ囲碁トーナメント戦2回戦 | Takao Shinji | Hane Naoki | Win | W+R | 6.5 | 2744 | 8 | 
+| 2008-11-17 | 第49期王冠戦挑戦手合一番勝負 | Yamashiro Hiroshi | Hane Naoki | Win | W+R | 6.5 | 2736 | -9 | 
+| 2008-11-13 | 第48期十段戦予選 | Izawa Akino | Hane Naoki | Win | W+R | 6.5 | 2745 | -11 | 
+| 2008-11-06 | 第34期名人戦予選 | Cho Riyu | Hane Naoki | Lose | B+R | 6.5 | 2756 | -594 | 
+| 2008-10-17 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦三位決定戦 | Hane Naoki | Ko Iso | Lose | W+R | 6.5 | 3350 | 0 | 
+| 2008-10-17 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Choi Cheolhan | Hane Naoki | Win | W+R | 6.5 | 3350 | 12 | 
+| 2008-10-15 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Kong Jie | Hane Naoki | Lose | B+R | 6.5 | 3338 | 78 | 
+| 2008-10-02 | 第33期棋聖戦Bリーグ | Kato Atsushi | Hane Naoki | Lose | B+R | 6.5 | 3260 | -30 | 
+| 2008-09-25 | 第34期名人戦予選 | Hane Naoki | Kono Rin | Win | B+3.5 | 6.5 | 3290 | 3 | 
+| 2008-09-18 | 第33期棋聖戦Bリーグ | Hane Naoki | Honda Kunihisa | Win | B+R | 6.5 | 3287 | -9 | 
+| 2008-09-13 | 第28期NECカップ囲碁トーナメント戦1回戦 | Hane Naoki | Yamada Kimio | Win | B+23.5 | 6.5 | 3296 | 26 | 
+| 2008-09-11 | 第34期碁聖戦予選 | Yamashiro Hiroshi | Hane Naoki | Lose | B+4.5 | 6.5 | 3270 | -11 | 
+| 2008-09-04 | 第34期名人戦予選 | Han Zenki | Hane Naoki | Win | W+R | 6.5 | 3281 | 11 | 
+| 2008-08-23 | 第4期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Hane Naoki | Mok Jinseok | Lose | W+R | 6.5 | 3270 | -22 | 
+| 2008-08-14 | 第34期天元戦本戦準決勝 | Ko Iso | Hane Naoki | Lose | B+1.5 | 6.5 | 3292 | 303 | 
+| 2008-08-07 | 第33期棋聖戦Bリーグ | Hane Naoki | Cho U | Win | B+3.5 | 6.5 | 2989 | 2 | 
+| 2008-07-23 | 第63期本因坊戦挑戦手合七番勝負第7局 | Hane Naoki | Takao Shinji | Win | B+R | 6.5 | 2987 | 16 | 
+| 2008-07-17 | 第63期本因坊戦挑戦手合七番勝負第6局 | Hane Naoki | Takao Shinji | Win | B+R | 6.5 | 2971 | 10 | 
+| 2008-07-10 | 第33期棋聖戦Bリーグ | Kono Rin | Hane Naoki | Lose | B+R | 6.5 | 2961 | -11 | 
+| 2008-07-02 | 第63期本因坊戦挑戦手合七番勝負第5局 | Takao Shinji | Hane Naoki | Win | W+R | 6.5 | 2972 | 20 | 
+| 2008-06-24 | 第63期本因坊戦挑戦手合七番勝負第4局 | Hane Naoki | Takao Shinji | Win | B+R | 6.5 | 2952 | 20 | 
+| 2008-06-19 | 第33期棋聖戦Bリーグ | Hane Naoki | Yoda Norimoto | Win | B+2.5 | 6.5 | 2932 | 10 | 
+| 2008-06-12 | 第63期本因坊戦挑戦手合七番勝負第3局 | Takao Shinji | Hane Naoki | Lose | B+R | 6.5 | 2922 | -40 | 
+| 2008-06-05 | 第56期王座戦2回戦 | Nakano Hironari | Hane Naoki | Lose | B+1.5 | 6.5 | 2962 | -39 | 
+| 2008-05-28 | 第63期本因坊戦挑戦手合七番勝負第2局 | Hane Naoki | Takao Shinji | Lose | W+R | 6.5 | 3001 | 32 | 
+| 2008-05-22 | 第34期天元戦本戦3回戦 | Hane Naoki | Ryu Shikun | Win | B+R | 6.5 | 2969 | 34 | 
+| 2008-05-15 | 第63期本因坊戦挑戦手合七番勝負第1局 | Takao Shinji | Hane Naoki | Lose | B+3.5 | 6.5 | 2935 | 200 | 
+| 2008-04-17 | 第56期王座戦1回戦 | Yamada Kimio | Hane Naoki | Win | W+R | 6.5 | 2735 | 37 | 
+| 2008-04-03 | 第63期本因坊戦リーグ | Yoda Norimoto | Hane Naoki | Win | W+3.5 | 6.5 | 2698 | 30 | 
+| 2008-03-13 | 第34期天元戦本戦2回戦 | Hane Naoki | Yukawa Mitsuhisa | Win | B+R | 6.5 | 2668 | 30 | 
+| 2008-03-06 | 第63期本因坊戦リーグ | Hane Naoki | Cho U | Win | B+R | 6.5 | 2638 | 27 | 
+| 2008-02-28 | 第56期王座戦予選 | Hane Naoki | Hikosaka Naoto | Win | B+R | 6.5 | 2611 | 10 | 
+| 2008-02-14 | 第34期天元戦本戦1回戦 | Ishida Akira | Hane Naoki | Win | W+R | 6.5 | 2601 | -9 | 
+| 2008-02-07 | 第63期本因坊戦リーグ | Hane Naoki | O Meien | Win | B+R | 6.5 | 2610 | 7 | 
+| 2008-01-31 | 第33期碁聖戦本戦2回戦 | Hikosaka Naoto | Hane Naoki | Lose | B+1.5 | 6.5 | 2603 | 12 | 
+| 2008-01-24 | 第63期本因坊戦リーグ | Hane Naoki | So Yokoku | Win | B+2.5 | 6.5 | 2591 | 109 | 
+| 2007-12-06 | 第63期本因坊戦リーグ | Mizokami Tomochika | Hane Naoki | Win | W+R | 6.5 | 2482 | 13 | 
+| 2007-11-28 | 第48期王冠戦挑戦手合一番勝負 | Hane Naoki | Matsuoka Hideki | Win | B+R | 6.5 | 2469 | -48 | 
+| 2007-11-22 | 第33期碁聖戦本戦1回戦 | Hane Naoki | O Rissei | Win | B+R | 6.5 | 2517 | 16 | 
+| 2007-11-12 | 第63期本因坊戦リーグ | Yamashita Keigo | Hane Naoki | Win | W+6.5 | 6.5 | 2501 | 83 | 
+| 2007-10-25 | 第63期本因坊戦リーグ | Yamada Kimio | Hane Naoki | Lose | B+R | 6.5 | 2418 | -32 | 
+| 2007-10-17 | 第9回農心辛ラーメン杯世界囲碁最強戦第2戦 | Hane Naoki | Hong Minpyo | Lose | W+0.5 | 6.5 | 2450 | -6 | 
+| 2007-10-16 | 第9回農心辛ラーメン杯世界囲碁最強戦第1戦 | Peng Quan | Hane Naoki | Win | W+0.5 | 6.5 | 2456 | -22 | 
+| 2007-10-04 | 第32期棋聖戦Bリーグ | Hane Naoki | Cho Chikun | Lose | W+5.5 | 6.5 | 2478 | -105 | 
+| 2007-09-06 | 第32期棋聖戦Bリーグ | Imamura Toshiya | Hane Naoki | Lose | B+0.5 | 6.5 | 2583 | -114 | 
+| 2007-08-16 | 第63期本因坊戦予選 | Hane Naoki | Iyama Yuta | Win | B+R | 6.5 | 2697 | -341 | 
+| 2007-08-02 | 第32期棋聖戦Bリーグ | Kato Atsushi | Hane Naoki | Win | W+6.5 | 6.5 | 3038 | 73 | 
+| 2007-07-12 | 第32期棋聖戦Bリーグ | Iyama Yuta | Hane Naoki | Lose | B+1.5 | 6.5 | 2965 | -145 | 
+| 2007-06-23 | 第27期NECカップ囲碁トーナメント戦1回戦 | Hane Naoki | Kono Rin | Lose | W+R | 6.5 | 3110 | 23 | 
+| 2007-06-07 | 第32期棋聖戦Bリーグ | Hane Naoki | Komatsu Hideki | Win | B+5.5 | 6.5 | 3087 | 68 | 
+| 2007-05-24 | 第14期阿含・桐山杯全日本早碁オープン戦予選 | Kiyonari Tetsuya | Hane Naoki | Lose | B+1.5 | 6.5 | 3019 | 7 | 
+| 2007-05-17 | 第55期王座戦1回戦 | Hane Naoki | Nakamura Shinya | Lose | W+1.5 | 6.5 | 3012 | -9 | 
+| 2007-04-05 | 第62期本因坊戦リーグ | So Yokoku | Hane Naoki | Lose | B+R | 6.5 | 3021 | 294 | 
+| 2007-03-08 | 第62期本因坊戦リーグ | Yamada Kimio | Hane Naoki | Lose | B+R | 6.5 | 2727 | -23 | 
+| 2007-03-01 | 第33期天元戦本戦1回戦 | Yuki Satoshi | Hane Naoki | Lose | B+2.5 | 6.5 | 2750 | 22 | 
+| 2007-02-17 | 第26期NECカップ囲碁トーナメント戦準決勝 | Cho U | Hane Naoki | Lose | B+R | 6.5 | 2728 | -21 | 
+| 2007-02-08 | 第62期本因坊戦リーグ | Cho U | Hane Naoki | Win | W+R | 6.5 | 2749 | 38 | 
+| 2007-02-01 | 第32期碁聖戦本戦2回戦 | Takao Shinji | Hane Naoki | Lose | B+0.5 | 6.5 | 2711 | 21 | 
+| 2007-01-11 | 第62期本因坊戦リーグ | Hane Naoki | Yoda Norimoto | Lose | W+R | 6.5 | 2690 | 24 | 
+| 2006-12-21 | 第20回世界囲碁選手権富士通杯国内予選 | Yuki Satoshi | Hane Naoki | Lose | B+0.5 | 6.5 | 2666 | -11 | 
+| 2006-12-15 | 第2回大和証券杯ネット囲碁オープン予選 | Matsumoto Takehisa | Hane Naoki | Lose | B+R | 6.5 | 2677 | -25 | 
+| 2006-11-30 | 第62期本因坊戦リーグ | Hane Naoki | Kobayashi Satoru | Win | B+3.5 | 6.5 | 2702 | 8 | 
+| 2006-11-23 | 第62期本因坊戦リーグ | O Meien | Hane Naoki | Win | W+R | 6.5 | 2694 | 33 | 
+| 2006-11-09 | 第32期名人戦予選 | Ko Iso | Hane Naoki | Lose | B+R | 6.5 | 2661 | -45 | 
+| 2006-11-02 | 第31期棋聖戦挑戦者決定戦 | Hane Naoki | Kobayashi Satoru | Lose | W+R | 6.5 | 2706 | 10 | 
+| 2006-10-26 | 第45期十段戦敗者復活戦2回戦 | Takao Shinji | Hane Naoki | Lose | B+R | 6.5 | 2696 | -86 | 
+| 2006-10-14 | 第26期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Hane Naoki | Win | W+5.5 | 6.5 | 2782 | 23 | 
+| 2006-10-12 | 第62期本因坊戦リーグ | Hane Naoki | Cho Sonjin | Lose | W+R | 6.5 | 2759 | -33 | 
+| 2006-10-07 | 第13期阿含・桐山杯全日本早碁オープン戦決勝 | Hane Naoki | Cho U | Lose | W+R | 6.5 | 2792 | -14 | 
+| 2006-10-05 | 第31期棋聖戦Aリーグ | Hane Naoki | Honda Kunihisa | Win | B+R | 6.5 | 2806 | 15 | 
+| 2006-09-28 | 第31期棋聖戦Aリーグ | Hane Naoki | Yoda Norimoto | Lose | W+R | 6.5 | 2791 | -15 | 
+| 2006-09-24 | 第1回大和証券杯ネット囲碁オープンAリーグ | Hane Naoki | Ogata Masaki | Win | B+6.5 | 6.5 | 2806 | 0 | 
+| 2006-09-23 | 第1回大和証券杯ネット囲碁オープンAリーグ | Hane Naoki | Anzai Nobuaki | Win | B+R | 6.5 | 2806 | 13 | 
+| 2006-09-14 | 第8回農心辛ラーメン杯世界囲碁最強戦第3戦 | Hane Naoki | Peng Quan | Lose | W+3.5 | 6.5 | 2793 | -11 | 
+| 2006-09-13 | 第8回農心辛ラーメン杯世界囲碁最強戦第2戦 | Cho Hunhyun | Hane Naoki | Win | W+0.5 | 6.5 | 2804 | -8 | 
+| 2006-09-12 | 第8回農心辛ラーメン杯世界囲碁最強戦第1戦 | Wang Lei (b) | Hane Naoki | Win | W+1.5 | 6.5 | 2812 | 6 | 
+| 2006-09-09 | 第1回大和証券杯ネット囲碁オープンAリーグ | Hane Naoki | Iyama Yuta | Lose | W+13.5 | 6.5 | 2806 | -17 | 
+| 2006-09-04 | 第13期阿含・桐山杯全日本早碁オープン戦準決勝 | Takao Shinji | Hane Naoki | Win | W+R | 6.5 | 2823 | 16 | 
+| 2006-08-30 | 第3期トヨタ＆デンソー杯囲碁世界王座戦3回戦 | Lee Sedol | Hane Naoki | Lose | B+R | 6.5 | 2807 | -4 | 
+| 2006-08-28 | 第3期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Hane Naoki | Ko Keuntae | Win | B+R | 6.5 | 2811 | 8 | 
+| 2006-08-26 | 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Feng Yun | Hane Naoki | Win | W+R | 6.5 | 2803 | -18 | 
+| 2006-08-17 | 第31期棋聖戦Aリーグ | Komatsu Hideki | Hane Naoki | Win | W+0.5 | 6.5 | 2821 | -16 | 
+| 2006-08-10 | 第18回テレビアジア選手権準決勝 | Hane Naoki | Lee Changho | Lose | W+2.5 | 6.5 | 2837 | -47 | 
+| 2006-08-09 | 第18回テレビアジア選手権1回戦 | Hane Naoki | Luo Xihe | Win | B+R | 6.5 | 2884 | 17 | 
+| 2006-08-03 | 第13期阿含・桐山杯全日本早碁オープン戦2回戦 | Rin Kanketsu | Hane Naoki | Win | W+R | 6.5 | 2867 | 12 | 
+| 2006-07-20 | 第31期棋聖戦Aリーグ | Cho U | Hane Naoki | Win | W+R | 6.5 | 2855 | -7 | 
+| 2006-07-13 | 第45期十段戦敗者復活戦1回戦 | Hane Naoki | Mimura Tomoyasu | Win | B+R | 6.5 | 2862 | -48 | 
+| 2006-07-10 | 第13期阿含・桐山杯全日本早碁オープン戦1回戦 | Yamashiro Hiroshi | Hane Naoki | Win | W+R | 6.5 | 2910 | 42 | 
+| 2006-06-29 | 第54期王座戦2回戦 | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 2868 | -208 | 
+| 2006-06-17 | 第26期NECカップ囲碁トーナメント戦1回戦 | Hane Naoki | Yamada Kimio | Win | B+R | 6.5 | 3076 | 17 | 
+| 2006-06-15 | 第31期棋聖戦Aリーグ | Hane Naoki | Mimura Tomoyasu | Win | B+R | 6.5 | 3059 | 11 | 
+| 2006-06-01 | 第45期十段戦本戦1回戦 | O Rissei | Hane Naoki | Lose | B+R | 6.5 | 3048 | 9 | 
+| 2006-05-25 | 第32期天元戦本戦3回戦 | Hane Naoki | O Rissei | Lose | W+R | 6.5 | 3039 | 45 | 
+| 2006-04-27 | 第45期十段戦予選 | Hane Naoki | Sakai Maki | Win | B+R | 6.5 | 2994 | -19 | 
+| 2006-04-10 | 第19回世界囲碁選手権富士通杯2回戦 | Park Cheongsang | Hane Naoki | Lose | B+2.5 | 6.5 | 3013 | -14 | 
+| 2006-04-03 | 第61期本因坊戦挑戦者決定プレーオフ | Yamada Kimio | Hane Naoki | Lose | B+R | 6.5 | 3027 | -6 | 
+| 2006-03-30 | 第61期本因坊戦リーグ | Yamada Kimio | Hane Naoki | Lose | B+0.5 | 6.5 | 3033 | -24 | 
+| 2006-03-23 | 第54期王座戦1回戦 | Sonoda Yuichi | Hane Naoki | Win | W+R | 6.5 | 3057 | -2 | 
+| 2006-03-13 | 第6回春蘭杯世界囲碁選手権2回戦 | Xie He | Hane Naoki | Lose | B+1.5 | 7.5 | 3059 | -29 | 
+| 2006-03-08 | 第61期本因坊戦リーグ | Hane Naoki | So Yokoku | Win | B+R | 6.5 | 3088 | 20 | 
+| 2006-02-23 | 第30期棋聖戦挑戦手合七番勝負第4局 | Hane Naoki | Yamashita Keigo | Lose | W+2.5 | 6.5 | 3068 | -2 | 
+| 2006-02-16 | 第61期本因坊戦リーグ | Hane Naoki | O Rissei | Win | B+1.5 | 6.5 | 3070 | 3 | 
+| 2006-02-09 | 第30期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Hane Naoki | Lose | B+1.5 | 6.5 | 3067 | -15 | 
+| 2006-02-02 | 第30期棋聖戦挑戦手合七番勝負第2局 | Hane Naoki | Yamashita Keigo | Lose | W+6.5 | 6.5 | 3082 | -9 | 
+| 2006-01-26 | 第32期天元戦本戦2回戦 | Hane Naoki | Cho Chikun | Win | B+5.5 | 6.5 | 3091 | -186 | 
+| 2006-01-16 | 第30期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 3277 | 174 | 
+| 2006-01-06 | 第61期本因坊戦リーグ | Hane Naoki | Cho U | Lose | W+R | 6.5 | 3103 | 9 | 
+| 2005-12-22 | 第32期天元戦本戦1回戦 | Iyama Yuta | Hane Naoki | Win | W+R | 6.5 | 3094 | -220 | 
+| 2005-12-15 | 第31期碁聖戦本戦2回戦 | Hane Naoki | Yuki Satoshi | Lose | W+R | 6.5 | 3314 | -11 | 
+| 2005-12-08 | 第61期本因坊戦リーグ | O Meien | Hane Naoki | Win | W+R | 6.5 | 3325 | -18 | 
+| 2005-11-28 | 第46期王冠戦挑戦手合一番勝負 | Yamashiro Hiroshi | Hane Naoki | Lose | B+R | 6.5 | 3343 | -30 | 
+| 2005-11-17 | 第31期碁聖戦本戦1回戦 | Hane Naoki | Ueki Yoshio | Win | B+R | 6.5 | 3373 | 405 | 
+| 2005-11-03 | 第61期本因坊戦リーグ | Hane Naoki | Yoda Norimoto | Win | B+0.5 | 6.5 | 2968 | -159 | 
+| 2005-10-22 | 第25期NECカップ囲碁トーナメント戦2回戦 | Takao Shinji | Hane Naoki | Lose | B+0.5 | 6.5 | 3127 | -13 | 
+| 2005-10-19 | 2005年国際新鋭囲碁対抗戦第3戦 | Zhou Junxun | Hane Naoki | Win | W+4.5 | 6.5 | 3140 | 1 | 
+| 2005-10-18 | 2005年国際新鋭囲碁対抗戦第2戦 | Hane Naoki | Kong Jie | Win | B+R | 6.5 | 3139 | 5 | 
+| 2005-10-17 | 2005年国際新鋭囲碁対抗戦第1戦 | Park Yeonghun | Hane Naoki | Lose | B+R | 6.5 | 3134 | -20 | 
+| 2005-10-13 | 第7回農心辛ラーメン杯世界囲碁最強戦第3戦 | Ryu Chaehyeong | Hane Naoki | Lose | B+R | 6.5 | 3154 | -13 | 
+| 2005-10-12 | 第7回農心辛ラーメン杯世界囲碁最強戦第2戦 | Wang Yao | Hane Naoki | Win | W+R | 6.5 | 3167 | 14 | 
+| 2005-10-11 | 第7回農心辛ラーメン杯世界囲碁最強戦第1戦 | Kang Dongyun | Hane Naoki | Win | W+R | 6.5 | 3153 | 19 | 
+| 2005-10-06 | 第61期本因坊戦リーグ | Cho Sonjin | Hane Naoki | Win | W+R | 6.5 | 3134 | 17 | 
+| 2005-09-30 | 第10回三星火災杯世界オープン囲碁選手権2回戦 | Choi Cheolhan | Hane Naoki | Lose | B+R | 6.5 | 3117 | -12 | 
+| 2005-09-28 | 第10回三星火災杯世界オープン囲碁選手権1回戦 | Hane Naoki | Yun Junsang | Win | B+R | 6.5 | 3129 | 77 | 
+| 2005-08-18 | 第2回中環杯世界囲碁選手権準決勝 | Lee Sedol | Hane Naoki | Lose | B+3.5 | 6.5 | 3052 | -81 | 
+| 2005-08-16 | 第2回中環杯世界囲碁選手権2回戦 | O Rissei | Hane Naoki | Win | W+R | 6.5 | 3133 | 26 | 
+| 2005-08-14 | 第2回中環杯世界囲碁選手権1回戦 | Cho U | Hane Naoki | Win | W+2.5 | 6.5 | 3107 | 30 | 
+| 2005-08-04 | 第61期本因坊戦予選 | Hane Naoki | Ishida Atsushi | Win | B+2.5 | 6.5 | 3077 | 2 | 
+| 2005-07-04 | 第12期阿含・桐山杯全日本早碁オープン戦1回戦 | Kobayashi Satoru | Hane Naoki | Lose | B+R | 6.5 | 3075 | -22 | 
+| 2005-06-30 | 第53期王座戦2回戦 | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 3097 | 297 | 
+| 2005-06-24 | 第25期NECカップ囲碁トーナメント戦1回戦 | Hane Naoki | Ryu Shikun | Win | B+R | 6.5 | 2800 | -19 | 
+| 2005-06-09 | 第30期碁聖戦挑戦者決定戦 | Hane Naoki | Yuki Satoshi | Lose | W+R | 6.5 | 2819 | -4 | 
+| 2005-05-16 | 第10回LG杯世界棋王戦1回戦 | Lee Sedol | Hane Naoki | Lose | B+R | 6.5 | 2823 | -32 | 
+| 2005-05-03 | 第4回CSK杯囲碁アジア対抗戦第3戦 | O Rissei | Hane Naoki | Win | W+1.5 | 6.5 | 2855 | 15 | 
+| 2005-05-02 | 第4回CSK杯囲碁アジア対抗戦第2戦 | Hane Naoki | Lee Sedol | Lose | W+R | 6.5 | 2840 | -9 | 
+| 2005-05-01 | 第4回CSK杯囲碁アジア対抗戦第1戦 | Kong Jie | Hane Naoki | Win | W+2.5 | 6.5 | 2849 | 117 | 
+| 2005-04-21 | 第30期碁聖戦本戦準決勝 | Hane Naoki | Nakaonoda Tomomi | Win | B+R | 6.5 | 2732 | 8 | 
+| 2005-04-14 | 第53期王座戦1回戦 | Hane Naoki | Enda Hideki | Win | B+R | 6.5 | 2724 | -64 | 
+| 2005-04-11 | 第18回世界囲碁選手権富士通杯2回戦 | Hane Naoki | Wang Xi | Lose | W+R | 6.5 | 2788 | 17 | 
+| 2005-03-24 | 第30期碁聖戦本戦3回戦 | O Rissei | Hane Naoki | Win | W+1.5 | 6.5 | 2771 | 12 | 
+| 2005-03-17 | 第29期棋聖戦挑戦手合七番勝負第7局 | Hane Naoki | Yuki Satoshi | Win | B+4.5 | 6.5 | 2759 | 25 | 
+| 2005-03-10 | 第29期棋聖戦挑戦手合七番勝負第6局 | Hane Naoki | Yuki Satoshi | Win | B+6.5 | 6.5 | 2734 | 47 | 
+| 2005-03-03 | 第30期碁聖戦本戦2回戦 | Hane Naoki | Mimura Tomoyasu | Win | B+R | 6.5 | 2687 | -267 | 
+| 2005-02-25 | 第29期棋聖戦挑戦手合七番勝負第5局 | Yuki Satoshi | Hane Naoki | Lose | B+R | 6.5 | 2954 | -95 | 
+| 2005-02-17 | 第29期棋聖戦挑戦手合七番勝負第4局 | Hane Naoki | Yuki Satoshi | Lose | W+R | 6.5 | 3049 | -4 | 
+| 2005-02-03 | 第29期棋聖戦挑戦手合七番勝負第3局 | Yuki Satoshi | Hane Naoki | Win | W+1.5 | 6.5 | 3053 | 2 | 
+| 2005-01-27 | 第29期棋聖戦挑戦手合七番勝負第2局 | Hane Naoki | Yuki Satoshi | Lose | W+R | 6.5 | 3051 | 24 | 
+| 2005-01-13 | 第29期棋聖戦挑戦手合七番勝負第1局 | Yuki Satoshi | Hane Naoki | Win | W+R | 6.5 | 3027 | 68 | 
+| 2004-12-23 | 第31期天元戦本戦1回戦 | Yamada Kimio | Hane Naoki | Lose | B+1.5 | 6.5 | 2959 | 31 | 
+| 2004-12-13 | 第6回阿含・桐山杯日中決戦 | Zhou Heyang | Hane Naoki | Lose | B+2.5 | 6.5 | 2928 | -36 | 
+| 2004-12-09 | 第30期碁聖戦本戦1回戦 | Kiyonari Tetsuya | Hane Naoki | Win | W+R | 6.5 | 2964 | 119 | 
+| 2004-11-26 | 第30期天元戦挑戦手合五番勝負第3局 | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 2845 | 2845 | 
+| 2004-11-17 | 第45期王冠戦挑戦手合一番勝負 | Hane Naoki | Yamashiro Hiroshi | Win | B+R | 6.5 | missing | -2829 | 
+| 2004-11-12 | 第30期天元戦挑戦手合五番勝負第2局 | Yamashita Keigo | Hane Naoki | Lose | B+1.5 | 6.5 | 2829 | -47 | 
+| 2004-11-04 | 第30期天元戦挑戦手合五番勝負第1局 | Hane Naoki | Yamashita Keigo | Lose | W+4.5 | 6.5 | 2876 | 155 | 
+| 2004-10-28 | 第30期名人戦予選 | Hane Naoki | Sakai Hideyuki | Lose | W+R | 6.5 | 2721 | -336 | 
+| 2004-10-16 | 第24期NECカップ囲碁トーナメント戦2回戦 | Hane Naoki | Cho Sonjin | Lose | W+R | 6.5 | 3057 | 18 | 
+| 2004-10-09 | 第11期阿含・桐山杯全日本早碁オープン戦決勝 | Hane Naoki | Kobayashi Koichi | Win | B+3.5 | 6.5 | 3039 | -256 | 
+| 2004-09-16 | 第1回中環杯世界囲碁選手権1回戦 | Hane Naoki | O Meien | Lose | W+2.5 | 6.5 | 3295 | 274 | 
+| 2004-09-01 | 第9回三星火災杯世界オープン囲碁選手権1回戦 | Choi Cheolhan | Hane Naoki | Lose | B+R | 6.5 | 3021 | -4 | 
+| 2004-08-17 | 第11期阿含・桐山杯全日本早碁オープン戦2回戦 | Hane Naoki | Cho U | Win | B+2.5 | 6.5 | 3025 | 45 | 
+| 2004-07-29 | 第52期王座戦準決勝 | Yamashita Keigo | Hane Naoki | Lose | B+0.5 | 6.5 | 2980 | -21 | 
+| 2004-07-23 | 第24期NECカップ囲碁トーナメント戦1回戦 | Hane Naoki | Takao Shinji | Win | B+R | 6.5 | 3001 | -16 | 
+| 2004-06-24 | 第52期王座戦2回戦 | Hane Naoki | O Rissei | Win | B+0.5 | 6.5 | 3017 | -11 | 
+| 2004-05-18 | 第9回LG杯世界棋王戦1回戦 |  | Hane Naoki | Lose | B+1.5 | 6.5 | 3028 | 15 | 
+| 2004-05-01 | 第2期JALスーパー早碁1回戦 | Hane Naoki | Mimura Tomoyasu | Lose | W+R | 6.5 | 3013 | 19 | 
+| 2004-04-29 | 第52期王座戦1回戦 | Kato Masao | Hane Naoki | Win | W+10.5 | 6.5 | 2994 | -85 | 
+| 2004-04-20 | 第5回応氏杯世界選手権1回戦 | Choi Cheolhan | Hane Naoki | Lose | B+R | 7.5 | 3079 | 5 | 
+| 2004-04-15 | 第2期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Hane Naoki | Sanno Hirotaka | Win | B+R | 6.5 | 3074 | -12 | 
+| 2004-04-12 | 第17回世界囲碁選手権富士通杯2回戦 | Hane Naoki | Choi Cheolhan | Lose | W+R | 6.5 | 3086 | -46 | 
+| 2004-04-08 | 第43期十段戦予選 | Hikosaka Naoto | Hane Naoki | Lose | B+R | 6.5 | 3132 | 43 | 
+| 2004-03-23 | 第3回CSK杯囲碁アジア対抗戦第3戦 | Rin Kaiho | Hane Naoki | Lose | B+3.5 | 6.5 | 3089 | -56 | 
+| 2004-03-22 | 第3回CSK杯囲碁アジア対抗戦第2戦 | Lee Sedol | Hane Naoki | Lose | B+R | 6.5 | 3145 | -12 | 
+| 2004-03-21 | 第3回CSK杯囲碁アジア対抗戦第1戦 | Hane Naoki | Wang Xi | Lose | W+1.5 | 6.5 | 3157 | -30 | 
+| 2004-03-18 | 第28期棋聖戦挑戦手合七番勝負第7局 | Hane Naoki | Yamashita Keigo | Win | B+R | 6.5 | 3187 | 30 | 
+| 2004-03-11 | 第28期棋聖戦挑戦手合七番勝負第6局 | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 3157 | -6 | 
+| 2004-03-04 | 第43期十段戦予選 | Hane Naoki | Yokota Shigeaki | Win | B+R | 6.5 | 3163 | -14 | 
+| 2004-02-26 | 第28期棋聖戦挑戦手合七番勝負第5局 | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 3177 | 188 | 
+| 2004-02-19 | 第28期棋聖戦挑戦手合七番勝負第4局 | Yamashita Keigo | Hane Naoki | Lose | B+0.5 | 6.5 | 2989 | -47 | 
+| 2004-02-05 | 第28期棋聖戦挑戦手合七番勝負第3局 | Hane Naoki | Yamashita Keigo | Win | B+3.5 | 6.5 | 3036 | 25 | 
+| 2004-01-29 | 第28期棋聖戦挑戦手合七番勝負第2局 | Yamashita Keigo | Hane Naoki | Win | W+R | 6.5 | 3011 | 5 | 
+| 2004-01-22 | 第17回世界囲碁選手権富士通杯国内予選決勝 | O Rissei | Hane Naoki | Win | W+5.5 | 6.5 | 3006 | -6 | 
+| 2004-01-16 | 第28期棋聖戦挑戦手合七番勝負第1局 | Hane Naoki | Yamashita Keigo | Win | B+R | 6.5 | 3012 | 14 | 
+| 2004-01-08 | 第29期碁聖戦本戦2回戦 | Imamura Toshiya | Hane Naoki | Lose | B+R | 6.5 | 2998 | -35 | 
+| 2003-12-31 | 第5回春蘭杯世界囲碁選手権2回戦 | Hane Naoki | Zhou Heyang | Lose | W+2.5 | 7.5 | 3033 | 43 | 
+| 2003-12-25 | 第17回世界囲碁選手権富士通杯国内予選 | Hane Naoki | Yamada Kimio | Win | B+R | 6.5 | 2990 | 0 | 
+| 2003-12-18 | 第29期天元戦挑戦手合五番勝負第5局 | Yamashita Keigo | Hane Naoki | Win | W+6.5 | 6.5 | 2990 | -13 | 
+| 2003-12-04 | 第29期天元戦挑戦手合五番勝負第4局 | Hane Naoki | Yamashita Keigo | Lose | W+R | 6.5 | 3003 | -47 | 
+| 2003-12-01 | 第29期碁聖戦本戦1回戦 | Hane Naoki | Nakao Jungo | Win | B+R | 6.5 | 3050 | 32 | 
+| 2003-11-27 | 第29期天元戦挑戦手合五番勝負第3局 | Yamashita Keigo | Hane Naoki | Win | W+R | 6.5 | 3018 | 16 | 
+| 2003-11-20 | 第29期天元戦挑戦手合五番勝負第2局 | Hane Naoki | Yamashita Keigo | Win | B+4.5 | 6.5 | 3002 | 20 | 
+| 2003-11-13 | 第28期棋聖戦挑戦者決定戦 | Hane Naoki | Cho Chikun | Win | B+2.5 | 6.5 | 2982 | -2 | 
+| 2003-11-10 | 第44期王冠戦挑戦手合一番勝負 | Hikosaka Naoto | Hane Naoki | Win | W+3.5 | 6.5 | 2984 | -24 | 
+| 2003-11-06 | 第29期名人戦予選 | Hane Naoki | Kobayashi Satoru | Lose | W+1.5 | 6.5 | 3008 | 3 | 
+| 2003-10-30 | 第29期天元戦挑戦手合五番勝負第1局 | Yamashita Keigo | Hane Naoki | Lose | B+1.5 | 6.5 | 3005 | -2720 | 
+| 2003-10-02 | 第28期棋聖戦Aリーグ | Kobayashi Satoru | Hane Naoki | Win | W+4.5 | 6.5 | 5725 | 2888 | 
+| 2003-09-25 | 第28期棋聖戦Aリーグ | Mimura Tomoyasu | Hane Naoki | Win | W+2.5 | 6.5 | 2837 | 34 | 
+| 2003-09-07 | 第1期JALスーパー早碁準決勝 | Hane Naoki | Cho U | Lose | W+R | 6.5 | 2803 | 4 | 
+| 2003-09-04 | 第5回中国囲碁甲級リーグ第9節 | Li Zhe | Hane Naoki | Lose | B+R | 7.5 | 2799 | 27 | 
+| 2003-08-27 | 第8期三星杯1回戦 | Yoo Changhyuk | Hane Naoki | Lose | B+0.5 | 6.5 | 2772 | 12 | 
+| 2003-08-21 | 第28期棋聖戦Aリーグ | Hane Naoki | O Rissei | Win | B+R | 6.5 | 2760 | -2 | 
+| 2003-08-14 | 第42期十段戦敗者復活戦2回戦 | Yamashita Keigo | Hane Naoki | Lose | B+R | 6.5 | 2762 | 97 | 
+| 2003-07-27 | 第1期JALスーパー早碁2回戦 | Hane Naoki | Cho Chikun | Win | B+R | 6.5 | 2665 | 83 | 
+| 2003-07-14 | 第23期NECカップ囲碁トーナメント戦1回戦 | Hane Naoki | O Meien | Lose | W+R | 6.5 | 2582 | 2582 | 
+| 2003-07-09 | 第10期阿含・桐山杯全日本早碁オープン戦1回戦 | Kurahashi Masayuki | Hane Naoki | Win | W+1.5 | 6.5 | missing | -2632 | 
+| 2003-07-03 | 第28期棋聖戦Aリーグ | Hane Naoki | Ishida Yoshio | Win | B+R | 6.5 | 2632 | -3 | 
+| 2003-06-17 | 第8回LG杯世界棋王戦1回戦 | Hane Naoki | Mok Jinseok | Lose | W+R | 6.5 | 2635 | -30 | 
+| 2003-06-12 | 第28期棋聖戦Aリーグ | Hane Naoki | Imamura Yoshiaki | Win | B+R | 6.5 | 2665 | -81 | 
+| 2003-05-04 | 第1期JALスーパー早碁1回戦 | Ryu Shikun | Hane Naoki | Win | W+R | 6.5 | 2746 | 30 | 
+| 2003-04-29 | 第2回CSK杯囲碁アジア対抗戦第3戦 | Yu Bin | Hane Naoki | Lose | B+R | 6.5 | 2716 | -40 | 
+| 2003-04-28 | 第2回CSK杯囲碁アジア対抗戦第2戦 | Lee Changho | Hane Naoki | Win | W+R | 6.5 | 2756 | 44 | 
+| 2003-04-27 | 第2回CSK杯囲碁アジア対抗戦第1戦 | Hane Naoki | Cho U | Win | B+R | 6.5 | 2712 | 11 | 
+| 2003-04-17 | 第28期碁聖戦本戦準決勝 | Hane Naoki | Akiyama Jiro | Lose | W+0.5 | 6.5 | 2701 | -15 | 
+| 2003-04-14 | 第16回世界囲碁選手権富士通杯2回戦 | Hane Naoki | Lee Sedol | Lose | W+R | 6.5 | 2716 | -28 | 
+| 2003-04-12 | 第16回世界囲碁選手権富士通杯1回戦 | Choi Myeonghun | Hane Naoki | Win | W+R | 6.5 | 2744 | 38 | 
+| 2003-03-27 | 第51期王座戦1回戦 | Cho U | Hane Naoki | Lose | B+1.5 | 6.5 | 2706 | -87 | 
+| 2003-03-18 | 第4回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Lee Changho | Hane Naoki | Lose | B+R | 7.5 | 2793 | -43 | 
+| 2003-03-16 | 第4回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Hane Naoki | Lee Changho | Lose | W+R | 7.5 | 2836 | -61 | 
+| 2003-02-27 | 第28期碁聖戦本戦3回戦 | Hane Naoki | Yamada Kimio | Win | B+R | 6.5 | 2897 | 75 | 
+| 2003-01-30 | 第28期碁聖戦本戦2回戦 | Hane Naoki | Kenmochi Joe | Win | B+2.5 | 6.5 | 2822 | 79 | 
+| 2003-01-08 | 第28期碁聖戦本戦1回戦 | Kudo Norio | Hane Naoki | Win | W+0.5 | 6.5 | 2743 | -6 | 
+| 2002-12-28 | 第4回春蘭杯世界囲碁選手権準決勝 | Luo Xihe | Hane Naoki | Win | W+R | 7.5 | 2749 | 26 | 
+| 2002-12-26 | 第4回春蘭杯世界囲碁選手権3回戦 | Hane Naoki | Cho Hunhyun | Win | B+R | 7.5 | 2723 | 162 | 
+| 2002-08-30 | 第7期三星杯2回戦 | Hane Naoki | Wang Yuhui | Lose | W+1.5 | 6.5 | 2561 | -68 | 
+| 2002-08-28 | 第7期三星杯1回戦 | Hane Naoki | Seo Bongsoo | Win | B+R | 6.5 | 2629 | 409 | 
+| 2002-05-20 | 第4回春蘭杯世界囲碁選手権2回戦 | Kong Jie | Hane Naoki | Win | W+2.5 | 7.5 | 2220 | 75 | 
+| 2002-05-18 | 第4回春蘭杯世界囲碁選手権1回戦 | Hane Naoki | Hu Yaoyu | Win | B+1.5 | 7.5 | 2145 | 379 | 
+| 2002-04-30 | 第7回LG杯世界棋王戦1回戦 | Cho Hanseung | Hane Naoki | Lose | B+2.5 | 6.5 | 1766 | 1766 | 
+| 2002-03-07 | 第57期本因坊戦リーグ | Hane Naoki | Yamada Kimio | Win | B+R | 6.5 | missing | 0 | 
+| 2000-08-01 | 第5期三星杯予選決勝 | Hane Naoki | Lee Sedol | Lose | W+R | 6.5 | missing | missing |
 
 
 

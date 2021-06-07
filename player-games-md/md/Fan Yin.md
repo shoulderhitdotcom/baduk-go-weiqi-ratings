@@ -5,227 +5,228 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第23回中国囲碁甲級リーグ | Meng Tailing | Fan Yin | B+R | 2021-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XX%2FnzN6E474FkyeWveEmcg%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Fan Yin | Zhao Chenyu | W+R | 2021-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=88rQ7pHFugHAw%2BjecrZfTA%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Fan Yin | Xie Ke | B+¾ | 2021-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3nQWKKxfdm%2Fp8j6pk1PrSA%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Fan Yin | W+1¼ | 2021-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VOvaUGn1fXDbF02e4dGBQQ%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Lee Donghoon | Fan Yin | B+R | 2021-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eTR47amaSPoBhfCJpr1H1w%3D%3D) | 
-| 第35期中国囲碁天元戦予選 | Fan Yin | Chen Zijian | W+R | 2021-03-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IQ%2F9XtbC6UxIdm1cOsN%2FNA%3D%3D) | 
-| 第8回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Xu Jiayang | Fan Yin | B+R | 2021-01-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Uo1qAo8ycxgea04bLvPmrA%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Cao Xiaoyang | Fan Yin | W+R | 2020-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MSZud9pLf3JqZcQMWLoeUA%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Fan Yin | Liao Xingwen | B+R | 2020-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zDRlPNNZg%2B4lKGxoFB4jaA%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Fan Yin | Shi Yue | W+¼ | 2020-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EndECw%2FR85Po0tsmsWRvyw%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Shi Yue | Fan Yin | W+R | 2020-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=02CVUEY3ckHpt%2F7kzq2QVg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Li Qincheng | Fan Yin | B+R | 2020-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bvVOCV4CCnfxtq7h8jF%2Fnw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Fan Yin | Xu Jiayang | W+R | 2020-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lXpefqOmsI4Vfpit%2BxLBGg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Lee Donghoon | Fan Yin | W+R | 2020-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HN85LUPzzVV73uASAMVMJg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Fan Yin | Li Chengsen | B+R | 2020-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qDAIppigjgLO7uSo03%2B%2FGA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Zhang Tao | Fan Yin | B+R | 2020-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GwL6enQ0NEla86taTDU95Q%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Shi Yue | Fan Yin | B+1¾ | 2020-12-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JXfRVQP4x%2FoDKeBlVEYYdQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | He Yuhan | Fan Yin | W+R | 2020-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YuBe7VCYnePE%2B6Mx%2FF39Bg%3D%3D) | 
-| 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Jiang Weijie | Fan Yin | W+R | 2020-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5isv5eEket%2FnUqcUyibKGA%3D%3D) | 
-| 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Fan Yin | Meng Tailing | B+¾ | 2020-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TF%2Fe%2F5RADwnto%2F2zM%2BRSlQ%3D%3D) | 
-| 2020CCTV杯中国囲棋電視快棋戦2回戦 | Ke Jie | Fan Yin | B+R | 2020-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2NSNt%2BFloKlcg65q8CJlDA%3D%3D) | 
-| 2020CCTV杯中国囲棋電視快棋戦1回戦 | Fan Yin | Dang Yifei | B+R | 2020-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BBbf6jymoCafT9agNvv%2FNw%3D%3D) | 
-| 第25回三星火災杯中国一般枠予選 | Fan Tingyu | Fan Yin | W+R | 2020-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O6E6WrZ2UZY2Pz8rQDADYw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第8節 | Chen Xian | Fan Yin | B+R | 2020-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lrp2Xnb484qTRisXQ5gGfA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第7節 | Fan Yin | Chen Zhengxun | B+R | 2020-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mpSracZoby5%2F8SpR4FfOVQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第6節 | Zhang Qiang | Fan Yin | W+¼ | 2020-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fFmGtXMZE7T25Of8ZNS89A%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第5節 | Gu Lingyi | Fan Yin | B+R | 2020-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FO8vJeFzPVO%2FRU6C1I9Ejw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第4節 | Fan Yin | Jiang Weijie | W+R | 2020-08-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YjhTpqrHMnFhMloOVAefuw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第3節 | Fan Yin | Li Zhe | B+R | 2020-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yh4x0hBmY1T5Iel8H9gWRA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第2節 | Hu Yaoyu | Fan Yin | W+1¼ | 2020-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i0G%2Fow60Dxx74%2FWdQe6LCg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第1節 | Fan Yin | Liao Xingwen | W+R | 2020-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bz5w0ThH0l1%2BglMTNdMh1Q%3D%3D) | 
-| 第11期中国竜星戦Aブロック8回戦 | Gu Zihao | Fan Yin | B+R | 2020-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZF98w5iMzKWUW%2BvSc4a6tA%3D%3D) | 
-| 第25回LG杯中国予選 | Fan Yin | Fan Yunruo | W+3.5 | 2020-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sErHHTjTpTgECzaDHeYA0A%3D%3D) | 
-| 第11期中国竜星戦Aブロック7回戦 | Fan Yin | Jiang Weijie | B+R | 2020-01-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ziDj6gK2bf3ulX6ZPnx5RQ%3D%3D) | 
-| 第11期中国竜星戦Aブロック6回戦 | Wang Haoyang | Fan Yin | W+R | 2020-01-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e4lYNDel6YAPJP32lqjxLg%3D%3D) | 
-| 第11期中国竜星戦予選 | Zhou Ruiyang | Fan Yin | W+R | 2019-12-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xik9qFuldsj3fyxNvLUjGg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ三位決定戦第3戦 | Fan Yin | Mi Yuting | W+R | 2019-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ezx6N6FKXyp%2FxcZkFPOvyw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ三位決定戦第2戦 | Huang Yunsong | Fan Yin | W+R | 2019-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SrddkcXXn6SKszhyMq40dQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ三位決定戦第1戦 | Chen Xian | Fan Yin | B+¾ | 2019-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h%2BOZEZ9CIzv%2F7m6zX%2BOC%2BA%3D%3D) | 
-| 第4回全国智力運動会男子団体戦第3戦 | Fan Tingyu | Fan Yin | B+R | 2019-11-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n%2FwCL1IlZE6lgoDSgIuCOg%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ3回戦第2戦 | Lee Donghoon | Fan Yin | B+R | 2019-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zWrZhp7EsNI2PDQi1LNtYw%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 | Fan Yin | Ding Hao | W+R | 2019-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TBk501EQnDOr7ymrrZDiQw%3D%3D) | 
-| 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Yang Dingxin | Fan Yin | B+R | 2019-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vxlFQZqpDaunLwzrwqfapA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第15節 | Kang Dongyun | Fan Yin | W+¼ | 2019-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uXcdb6JeGgteSkbN3pankw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第14節 | Fan Yin | Wu Guangya | B+R | 2019-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rc8UM4cSzpkRU2ERnM5zQw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第13節 | Fan Yin | Wang Zejin | W+R | 2019-08-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=15omb4lMW9vZ%2F8wPRRGt%2BQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第12節 | Yi Lingtao | Fan Yin | W+R | 2019-08-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T8zijvhwlChSg6dFNrx33g%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第11節 | Fan Yin | Wang Xinghao | W+R | 2019-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k1Vtlq2MbZ6ooVLJyRa5Mw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第10節 | Fan Yin | Park Junghwan | W+R | 2019-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AefGqMAK0Ilhq80L1HDCJw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第9節 | Xu Jiayang | Fan Yin | W+R | 2019-07-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e6emHM5WYMr8XzRa8S9fow%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第8節 | Fan Yin | Huang Xin | B+R | 2019-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6LothHyrrLn2zICqp%2FlEwQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第7節 | Fan Yin | Shen Peiran | B+R | 2019-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lW8VkXoimL8gF%2BQcsYYMwA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第6節 | Tong Mengcheng | Fan Yin | W+R | 2019-06-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7pLCJXoSYFEPg%2F462JcVeA%3D%3D) | 
-| 第4回夢百合杯統合予選準決勝 | Park Sangjin | Fan Yin | W+R | 2019-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=McvTR%2FKmfJfTYKQNw2PdlQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第5節 | Fan Yin | Li Xiangyu | B+R | 2019-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XmROzfGG65rC%2BtYRCpMWjw%3D%3D) | 
-| 嫘祖杯第32期中国囲棋名人戦16強戦 | Fan Yin | Lian Xiao | W+R | 2019-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HaMFkRC8rw5Q2rx%2BC4X7UQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第4節 | Xie Ke | Fan Yin | W+R | 2019-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GGGkoQN%2B30O1UL1QBcMs%2BQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第3節 | Fan Yin | missing | B+1¾ | 2019-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oykALOcq1lCBTNaL4IqNzQ%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦本戦2回戦 | Fan Yin | Ke Jie | W+R | 2019-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QtIs7pflrn64gEWqZvO1rw%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Fan Yin | Li Qincheng | B+R | 2019-04-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8hyJq0eD%2BJg5KIyOUocvlA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第2節 | Han Yizhou | Fan Yin | B+R | 2019-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RpuLAjLDJS5Llr0sTAtBww%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第1節廈門-四建 | Fan Yin | Wang Shiyi | W+R | 2019-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nb28p1au8Vpdefrro67FKQ%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦1回戦 | Fan Yin | Sun Tengyu | W+R | 2019-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c02WlMAU23U67TOe9e%2Bzhg%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦2回戦 | Fan Yin | Hu Yuhan | B+R | 2019-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B3INdTsRnT1lqUOIS%2BuEWg%3D%3D) | 
-| 第33期中国囲碁天元戦1回戦 | Xie Erhao | Fan Yin | W+R | 2019-01-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jHUJ7Wmu4aruyO4Wfs140g%3D%3D) | 
-| 第4期洛陽白雲山杯中国棋聖戦資格戦 | Gu Li | Fan Yin | B+R | 2018-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zc5JKRGyAYQEJ6UVkzUxIA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第26節重慶-廈門 | Gu Li | Fan Yin | B+5¾ | 2018-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VeO8NpdEpJEZosUeFfYbWw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第25節廈門-中信 | Kim Myounghoon | Fan Yin | W+R | 2018-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R3eEYKjZYPhRZRR2DMLjxw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第24節天津-廈門 | Fan Yin | Tang Weixing | B+R | 2018-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WfLCNg0r%2FX5MV45TL47i%2Bg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第23節廈門-杭州 | Wu Guangya | Fan Yin | B+R | 2018-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kbw8BPmPHwAe3OMYur0SJA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第21節山東-廈門 | Fan Yin | Jiang Weijie | B+R | 2018-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zzldVPUXpYIhRHlfqE3M1g%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第20節廈門-衢州 | missing | Fan Yin | W+1¼ | 2018-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A4r%2B0z204Gy52P8BScJ8fw%3D%3D) | 
-| 第14期威孚房開杯棋王戦32強戦 | Jiang Weijie | Fan Yin | B+R | 2018-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qPdSI6lP28IP819cY7rYQQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第18節廈門-蘇泊爾 | Fan Yin | Xie Ke | W+R | 2018-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EEhi0jenwqV%2Fx36v1sjFQw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第17節江蘇-廈門 | Fan Yin | Zhao Chenyu | W+R | 2018-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cVdkgaJQ3cWEjyKGURHjJQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第16節廈門-浙江 | Jiang Qirun | Fan Yin | W+R | 2018-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VWQtwKXX740LcdgZveD0WA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第15節江西-廈門 | Fan Yin | Xu Jiayang | W+R | 2018-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rdS%2Ba%2BatbEQudo4rP6yIeg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第12節中信-廈門 | Tuo Jiaxi | Fan Yin | B+R | 2018-08-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ld%2FccQ%2B%2BvtDhs5kbKx2nfQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第11節廈門-天津 | Fan Yin | Xie Erhao | W+R | 2018-08-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WfjjPQg6gQoKwM7INMj3%2FA%3D%3D) | 
-| 第5回国手山脈杯世界プロ最強戦2回戦 | Fan Yin | Wang Yuanjun | W+1.5 | 2018-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tP9t9aX49ZWAiFNk1OA8Vg%3D%3D) | 
-| 第5回国手山脈杯世界プロ最強戦1回戦 | Lee Sedol | Fan Yin | W+T | 2018-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YDLLLPJ%2F73OaWhgKAn9IvA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第10節杭州-廈門 | missing | Fan Yin | W+R | 2018-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8LioFzHbdH3dvjvcqdKzPQ%3D%3D) | 
-| 第20期阿含・桐山杯中国早碁オープン戦本選決勝 | Fan Yin | Meng Tailing | W+R | 2018-06-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vt6DjXLx27SwHxbL%2FAPjkg%3D%3D) | 
-| 第20期阿含・桐山杯中国早碁オープン戦本選3回戦 | Wang Chen | Fan Yin | W+R | 2018-06-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r0kfBm6nfPs4v0V2inUueA%3D%3D) | 
-| 第20期阿含・桐山杯中国早碁オープン戦本選2回戦 | Yi Lingtao | Fan Yin | W+2¼ | 2018-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9cL6SiSTdIpbjHem7qlTfw%3D%3D) | 
-| 第20期阿含・桐山杯中国早碁オープン戦本選1回戦 | Fan Yin | Chen Yunong | B+R | 2018-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OL9vjgSTZvDNDyEaksRJWg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第8節廈門-山東 | Fan Yin | Yi Lingtao | W+R | 2018-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n0oLsxtUiI4H1a%2BUfgOOEw%3D%3D) | 
-| 第23回LG杯朝鮮日報棋王戦1回戦 | Fan Yin | Shin Jinseo | W+R | 2018-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8KVPafBFm3NDAyW%2Fdcm9dg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第7節衢州-廈門 | Huang Xin | Fan Yin | B+R | 2018-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wrfb0TSYBYt7jYuaE9XFxw%3D%3D) | 
-| 嫘祖杯第31回中国囲棋名人戦32強戦 | Fan Yin | missing | W+R | 2018-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WOv1kEVc03jQKdZ0NDxsPA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第6節廈門-民生 | Tao Xinran | Fan Yin | W+1¼ | 2018-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7aaThIN5PCWN9hqsgWutdQ%3D%3D) | 
-| 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Fan Yin | Peng Liyao | W+¼ | 2018-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4MjZTSjJUHyibHQIlFZ%2BWQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第5節蘇泊爾-廈門 | Xie Ke | Fan Yin | W+R | 2018-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=muQOLOBsV9DXcWahcw1LaA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第4節廈門-江蘇 | Fan Yin | Tong Mengcheng | W+R | 2018-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zD0bBVx%2FoMWuuAmkvNAaVA%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦2回戦 | Fan Yin | Tang Weixing | W+¼ | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9iVZxtkXl59XjfsYt9X%2BlQ%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦1回戦 | Zhao Chenyu | Fan Yin | W+¼ | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MXtwnoLuVBhtKywJvYRrbQ%3D%3D) | 
-| 第23回LG杯予選決勝 | Fan Yin | missing | B+R | 2018-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O900ACjcO0JPjm06zYmTQg%3D%3D) | 
-| 第23回LG杯予選1回戦 | Fan Yin | Lee Changho | B+R | 2018-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5YYt4tRCyCZ9abx5hP6JtQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第3節浙江-廈門 | Zhang Tao | Fan Yin | W+R | 2018-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J92hrdalaSQL0Sb%2FytK7Gw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第2節廈門-江西 | Fan Yin | Byun Sangil | W+¼ | 2018-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AbmL3Sj399JdndciUZa8Kg%3D%3D) | 
-| 第32期中国囲碁天元戦2回戦 | Fan Yin | Zhou Ruiyang | W+R | 2018-01-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ggD9YPsDGirZMpGYKFa7dg%3D%3D) | 
-| 第32期中国囲碁天元戦1回戦 | Fan Yin | missing | B+R | 2018-01-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5eT5NCCW1pKwF0fK0sYeBw%3D%3D) | 
-| 第3回洛陽白雲山杯中国棋聖戦本戦1回戦 | Fan Yin | Tuo Jiaxi | W+R | 2018-01-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F1TaQQlwQ0RhIKh2iMEvcw%3D%3D) | 
-| 第3回洛陽白雲山杯中国棋聖戦資格戦3 | Fan Yin | Li Xuanhao | B+R | 2018-01-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HFARB2LXWxJ885CC1WmlzQ%3D%3D) | 
-| 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Meng Tailing | Fan Yin | W+R | 2018-01-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K5mbvpKnCk02TKaptIdXdw%3D%3D) | 
-| 第13期威孚房開杯棋王戦決勝 | Fan Yin | Zhang Tao | B+¾ | 2017-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I0HRyE4Q05y%2B09bfCnXtuw%3D%3D) | 
-| 第13期威孚房開杯棋王戦準決勝 | Fan Yin | Gu Lingyi | B+R | 2017-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d62gZxMJpDzQlr6G5c6%2Bow%3D%3D) | 
-| 第13期威孚房開杯棋王戦8強戦 | Fan Yin | Gu Zihao | B+R | 2017-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G%2Fdb5NK3q520HBbMkRKD8Q%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第26節 | Fan Tingyu | Fan Yin | B+R | 2017-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8nUPHmask1zeJ%2FEraZJtkg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第25節 | Fan Yin | Li Weiqing | W+¼ | 2017-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0StUkxLUcFphxOVDFyExqA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第24節 | Fan Yin | Peng Liyao | B+R | 2017-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pL06B6Uu5AiDtre9E9PkZA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第23節 | Tuo Jiaxi | Fan Yin | W+R | 2017-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xwZcpbIy0bxQyRVVzNVybQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第22節 | Fan Yin | Ding Hao | B+R | 2017-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0GmLjKkVnu0JhsWzpOvT5A%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第21節 | Fan Yin | Wang Haoyang | B+R | 2017-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OfLL5rnkSSdeW34X0ADUJg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第20節 | Li Xuanhao | Fan Yin | W+R | 2017-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rmRb5fWklIBcIsIIL85x8Q%3D%3D) | 
-| 2017年利民杯世界囲碁星鋭最強戦1回戦 | Fan Yin | Lee Donghoon | W+R | 2017-10-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y5Nu0A79hdd2NU1QnAm%2Byw%3D%3D) | 
-| 第13期威孚房開杯棋王戦16強戦 | Fan Yin | Tang Weixing | B+R | 2017-10-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qlANOvR9QvAMLrc1vXlOBw%3D%3D) | 
-| 第13期威孚房開杯棋王戦32強戦 | Zhou Hexi | Fan Yin | W+R | 2017-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jx9%2Bm6VIpA6QEl%2Ff1ZrYGA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第19節 | Fan Yin | Lian Xiao | W+R | 2017-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cq5ImbhMQNsE1Lp3MTUYqQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第19節 | Fan Yin | Lian Xiao | W+R | 2017-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GCZbTcQvKX%2F4uD20cJslxA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第18節 | Fan Yin | Dang Yifei | W+R | 2017-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mrswkWMxzKtm3hxx8O6%2Fyg%3D%3D) | 
-| 2017年全国囲棋個人戦男子組第13戦 | Fan Yin | Tu Xiaoyu | W+R | 2017-09-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4OSJcaFb8xRNTHoxP63B5Q%3D%3D) | 
-| 2017年全国囲棋個人戦男子組第8戦 | Fan Yin | Xie Ke | B+R | 2017-09-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rj6S9cojTuzPHzVQltAAqA%3D%3D) | 
-| 2017年全国囲棋個人戦男子組第9戦 | Liao Yuanhe | Fan Yin | W+R | 2017-09-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S3xirypSkQK6CqPisKwfKA%3D%3D) | 
-| 2017年全国囲棋個人戦男子組第5戦 | Fan Yin | Hu Yuhan | B+R | 2017-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=auwvmMakQNXmhKLGKncpFQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第17節 | Yang Kaiwen | Fan Yin | B+3.5 | 2017-09-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hk2b9z6u6ByFeX518pPQTA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第16節 | Chen Zhengxun | Fan Yin | W+R | 2017-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RFuOgT%2FTn49mTLL%2Bsvu39g%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第15節 | Zhao Chenyu | Fan Yin | W+R | 2017-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zol4yvhZfFna8V8At53pcA%3D%3D) | 
-| 2017中国国家青年隊選抜戦6回戦 | Yi Lingtao | Fan Yin | W+R | 2017-08-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VlnizAqGuSVCLvInAkNngw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第14節 | Fan Yin | missing | B+R | 2017-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z1q99M1DX1%2F44hFXM0L%2FXw%3D%3D) | 
-| 中国浙江平湖当湖十局杯CCTV64強 | Fan Yin | Tan Xiao | B+R | 2017-08-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QpMc1O8%2BzHILEvA%2FTa1isA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第13節 | Fan Yin | Chen Zijian | B+R | 2017-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jr2L8sbnQ1mquxDpQ%2Fp9zQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第12節 | Li Zhe | Fan Yin | B+R | 2017-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qVkF93%2F5OaPixsbZGJ2W5A%3D%3D) | 
-| 嫘祖杯30回中国名人戦16強戦 | Peng Liyao | Fan Yin | B+3.5 | 2017-08-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O4G0Yic3LzbEUBERoZkskw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第11節 | Fan Yin | Kim Jiseok | W+R | 2017-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DZzpIpu1wJwDKjNIzEhdtA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第10節 | Fan Yin | missing | B+R | 2017-07-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BpC1Vy4yIj7gO%2FY1sfDXCQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第9節 | Li Xiangyu | Fan Yin | B+R | 2017-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uwigQjD5L%2BRoJrzog46tow%3D%3D) | 
-| 第22回三星火災杯統合予選3回戦 | Kim Jiseok | Fan Yin | B+3.5 | 2017-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aFsFLHFxOPcQeDgPIYnQbQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第8節 | Fan Yin | missing | W+R | 2017-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CcgY1D69UKOOLlkhv9lKpQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第7節 | Yang Dingxin | Fan Yin | B+1.5 | 2017-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1yr5dHBZqMRzLNgFjqvI2Q%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第6節 | Fan Yin | Wu Guangya | B+R | 2017-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p%2Fs2tLQ4k7t6d9rbtcYxdA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第5節 | Gu Lingyi | Fan Yin | B+1.5 | 2017-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NSzEXZxfylsgU9Ek5Qp0Pg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第4節 | Fan Yin | missing | B+R | 2017-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5jzET60q%2FLlHYBFG0v8XrQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第3節 | Meng Tailing | Fan Yin | B+R | 2017-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QmSVEW2%2Fm9W2sKXLSy5RXA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第2節 | Fan Yin | Tong Mengcheng | W+R | 2017-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FgU6RvrfzrkrWZlsaLCktg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第1節 | Fan Yin | missing | B+R | 2017-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AUS9ke%2BznTFxrDRWswNgyw%3D%3D) | 
-| 第19期中国阿含桐山杯本選決勝 | Yang Kaiwen | Fan Yin | B+R | 2017-04-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j96i3bSlYIOFIqtaz0Dd4w%3D%3D) | 
-| 第19期中国阿含桐山杯本選3回戦 | Li Xuanhao | Fan Yin | W+R | 2017-04-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LCMiQyXP3x%2Fm7dsmU3iy4A%3D%3D) | 
-| 2017年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Park Geunho | Fan Yin | W+R | 2017-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zgysSsrdYKGoVEnmKdOX5g%3D%3D) | 
-| 2017年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Liu Yuhang | Fan Yin | W+R | 2017-03-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Je4Px91Uikk7sk5QKWF7DA%3D%3D) | 
-| 第14期中国倡棋杯予選準決勝 | Fan Yin | Shu Yixiao | B+R | 2017-02-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VCvuypVGl6JmJuyQMkkJwA%3D%3D) | 
-| 第31期中国囲碁天元戦2回戦 | Lian Xiao | Fan Yin | B+R | 2017-01-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pluHc52k%2FsXkh59AOHI3rw%3D%3D) | 
-| 第31期中国囲碁天元戦1回戦 | Fan Yin | Yu Zhiying | B+1.5 | 2017-01-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OO5nFoydbDr82pS8u9n%2BkQ%3D%3D) | 
-| 嫘祖杯第29期中国名人戦32強戦 | Zhou Ruiyang | Fan Yin | B+R | 2016-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HMV0VUeSnr%2FcnM9COACnYw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第22節 | Li Xuanhao | Fan Yin | W+R | 2016-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xz5Euvc1si9x959EFGIuBw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第21節 | Fan Yin | Zhou Hexi | W+R | 2016-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2iFMsmrh%2BFb50ApCdKF9qA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第20節 | Xu Jiayang | Fan Yin | B+R | 2016-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6hAiyK2Dfe1HEArEzu7mbg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第19節 | Ding Shixiong | Fan Yin | W+0.5 | 2016-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HW59FIiCgRyutTNCe5kB2g%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第18節 | Fan Yin | Gu Zihao | B+R | 2016-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n5WxM%2Bet2ycbr1EuX6Cu3w%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦1回戦 | Fan Yin | Fan Yunruo | W+R | 2016-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9iRBNWm%2FeGJQJCR1iF54QQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第17節 | Han Yizhou | Fan Yin | W+R | 2016-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IQCajufYwnhrAvVJsD%2FVAg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第16節 | Fan Yin | Wu Guangya | B+R | 2016-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nAGO5jnoGuyiey2HH0Jbnw%3D%3D) | 
-| 第8期中国竜星戦予選 | Fan Yin | Xie Ke | W+R | 2016-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xPy5WlZ0IimJjqVMZcsbSg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第15節 | Fan Yin | Liao Yuanhe | B+R | 2016-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6%2FqYxOxWOLe3txRGNaYjVQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第14節 | Fan Yin | missing | B+1.5 | 2016-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FsiQBS1RAueSzs8Nlfsqig%3D%3D) | 
-| 2016年全国囲棋個人戦男子組第9戦 | missing | Fan Yin | W+0.5 | 2016-09-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FV1d4y%2F6HTyrccPU9EBLpA%3D%3D) | 
-| 2016年全国囲棋個人戦男子組第8戦 | Ding Hao | Fan Yin | W+R | 2016-09-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ADH7u8We1Cs9fuZXD2Au2A%3D%3D) | 
-| 2016年全国囲棋個人戦男子組第7戦 | Fan Yin | Guo Yuzheng | B+R | 2016-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0ypqhPgoUZv7c2Dnjc6WEg%3D%3D) | 
-| 2016年全国囲棋個人戦男子組第6戦 | missing | Fan Yin | W+4.5 | 2016-09-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ryrfqh44AR0%2BniC2eoiLhg%3D%3D) | 
-| 2016年全国囲棋個人戦男子組第5戦 | Fan Yin | Zhang Tao | B+R | 2016-09-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K6Wm2jdXBXFe4keW0%2BtIhg%3D%3D) | 
-| 2016年全国囲棋個人戦男子組第4戦 | Xu Jiayang | Fan Yin | W+R | 2016-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aqi9AzoIDxdluYm%2Fx0cyDQ%3D%3D) | 
-| 2016年全国囲棋個人戦男子組第3戦 | missing | Fan Yin | W+R | 2016-09-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CLDHXAYTXhFWmB15Ccs%2BhQ%3D%3D) | 
-| 2016年全国囲棋個人戦男子組第2戦 | Fan Yin | Rong Yi | B+R | 2016-09-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nFZ6iD267Qt342S96RplSg%3D%3D) | 
-| 第3回百霊杯世界オープン戦4回戦 | Weon Seongjin | Fan Yin | B+R | 2016-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0xOkI1e3pVrIfG3vT4%2BVtA%3D%3D) | 
-| 2016年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 | Fan Yin | missing | W+R | 2016-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h2%2FbPaCKtT0fhxzWDyf0ww%3D%3D) | 
-| 2016年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Park Hamin | Fan Yin | W+R | 2016-08-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5oxXMxdCEMAqIYgQWT0nig%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第11節 | Fan Yin | Yang Dingxin | B+R | 2016-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1k0y3lqvFHk9AxVAfgJQ%2FA%3D%3D) | 
-| 第3回百霊杯世界オープン戦3回戦 | Fan Yin | Shi Yue | B+R | 2016-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g%2FKjHH76L7fuAUIwPnsxLg%3D%3D) | 
-| 第3回百霊杯世界オープン戦2回戦 | Fan Yin | Mao Ruilong | B+R | 2016-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XjBY0A0ClSYDmAY9wuJ6Vg%3D%3D) | 
-| 第3回百霊杯世界オープン戦1回戦 | Terayama Rei | Fan Yin | W+R | 2016-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WbWndu8o7xylsjJlD74xSQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第7節 | Gu Zihao | Fan Yin | B+R | 2016-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=87HcGUMvDQUuF4Xnwzw%2FeA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第6節 | Fan Yin | Tuo Jiaxi | W+2.5 | 2016-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kOmj3mCwTsYNwmJuSmGuPQ%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Mi Yuting | Fan Yin | B+R | 2016-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PS%2BR66rv3ptDHAaPd95Sjw%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Huang Xin | Fan Yin | W+6.5 | 2016-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HS31P6VF5jfJ49wSDrzffQ%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Fan Yin | Zhou Yuanjun | B+R | 2016-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jsgEsO%2BL0HDaNEhKDkd5ng%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Fan Yin | missing | B+R | 2016-05-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ro7F2p%2FYzKOQBUEzYROy2w%3D%3D) | 
-| 2016年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Park Hamin | Fan Yin | B+3.5 | 2016-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WfxkjHaoDfbfXqujZrkVjA%3D%3D) | 
-| 2016年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Liu Qifeng | Fan Yin | W+R | 2016-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xhauLSVqoltTXeltJL9M0w%3D%3D) | 
-| 2016年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Fan Yin | Shin Minjun | W+R | 2016-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E0uNdwg5oLyfr%2FYGeGUFyQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第2節 | Fan Yin | Xie Erhao | W+R | 2016-04-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vCCUrGAH%2FydIze9Hd%2BCWQA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第1節 | Huang Yunsong | Fan Yin | B+R | 2016-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wrJxHXIk1oVt29rNwggCXg%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Fan Yin | Yang Dingxin | W+R | 2015-09-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LMfFG2baM7GZdreurk1W9A%3D%3D) | 
-| 2015年全国囲棋個人戦男子組第3戦 | Fan Yunruo | Fan Yin | B+R | 2015-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IBMxCfgdf%2F4khmXnPgmwew%3D%3D) | 
-| 2015年中国段位戦 | Fan Yin | missing | B+R | 2015-07-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XKKbbwJFalLX%2BLlMUs%2B%2BUQ%3D%3D) | 
-| 2015年中国段位戦 | Song Ronghui | Fan Yin | W+R | 2015-07-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qpMAljlXIhwKJ5mUVJquaQ%3D%3D) | 
-| 2015年中国段位戦 | missing | Fan Yin | B+R | 2015-07-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EMWEfwbTe3PRV4%2FGxAW5Qg%3D%3D) | 
-| 2015年中国段位戦 | Chen Xian | Fan Yin | B+1.5 | 2015-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yc6wuCjdRyaS3ZshgB7dGA%3D%3D) | 
-| 2015年中国段位戦 | Zhang Qiang | Fan Yin | W+R | 2015-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pogj%2FIDSzFeCIhzj%2B5deuw%3D%3D) | 
-| 2015年中国段位戦 | Fan Yin | Yang Kaiwen | B+R | 2015-07-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t1NfMTc2HJ5HubRhlT6xIA%3D%3D) | 
-| 2015年中国段位戦 | Fan Yin | missing | B+R | 2015-07-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q7NHyRWrkF8Y4cI%2BOO9vMg%3D%3D) | 
-| 2015年中国段位戦 | Fan Yin | missing | B+R | 2015-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dq8q9QzFiKQvRh7dBPvehA%3D%3D) | 
-| 2015年中国段位戦 | Fan Yin | Qin Yuexin | W+R | 2015-07-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EEQiIM91a3mY5yO%2FWk7S6g%3D%3D) | 
-| 第2回夢百合杯世界オープン戦2回戦 | Li Qincheng | Fan Yin | B+R | 2015-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H3AGJ32vvZhWOSlyCEdUGw%3D%3D) | 
-| 第2回夢百合杯世界オープン戦1回戦 | missing | Fan Yin | W+2.5 | 2015-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nYtUMSEOC70nkLDum0hceA%3D%3D) | 
-| 第7期中国竜星戦予選 | Fan Yin | Liao Yuanhe | W+0.5 | 2015-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ygId6GtOk9NQfcjVEPbByQ%3D%3D) | 
-| 2015年中国囲碁乙級リーグ | missing | Fan Yin | W+R | 2015-05-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6UgD076uDXciRW%2BbTp13rw%3D%3D) | 
-| 第6期中国竜星戦予選 | Li Qincheng | Fan Yin | B+1.5 | 2014-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QUH5HAHmATS%2FoqzkZjdXdA%3D%3D) | 
-| 第27期中国囲碁名人戦予選 | Fan Yin | Zhao Chenyu | W+R | 2014-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BUhezXOz0RxAheNDEDOqWA%3D%3D) | 
-| 第27期中国囲碁名人戦予選 | Xie Ke | Fan Yin | W+R | 2014-03-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qr%2BeN14vxbb6210eZjxtDQ%3D%3D) | 
-| 第14期リコー杯囲碁戦2回戦 | Fan Yin | Lian Xiao | W+R | 2013-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gGhLivt2Gj7vMCswMTOOdg%3D%3D) | 
-| 第14期リコー杯囲碁戦1回戦 | Tang Yi | Fan Yin | W+R | 2013-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pnKudli3nrqQMWtxY9CjGg%3D%3D) | 
-| 第8期リコー杯新秀戦2回戦 | Fan Yin | Huang Yunsong | W+4.5 | 2013-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dEPJWzRimIiY9OXPTxNTnQ%3D%3D) | 
-| 第8期リコー杯新秀戦1回戦 | Chen Yunong | Fan Yin | W+R | 2013-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gq%2Bb3%2BF%2BCDxy3pXTyLYKNA%3D%3D) | 
-| 第8期リコー杯新秀戦予選 | Fan Yin | missing | B+R | 2013-12-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TivxwvWjXvqs2kthffOk1g%3D%3D) | 
-| 第13期リコー杯囲碁戦1回戦 | Fan Yin | Hu Yaoyu | W+R | 2012-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VIw3EakpxZU38wqPhyFX3w%3D%3D) | 
-| 第7期リコー杯新秀戦1回戦 | Fan Yin | Huang Yunsong | W+R | 2012-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q37TDL%2Bs32gFZHGrXdzosg%3D%3D) | 
-| 第12期リコー杯囲碁戦2回戦 | Meng Tailing | Fan Yin | B+R | 2011-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vdd%2BiPfuQqKY%2FYvnc090Xg%3D%3D) | 
-| 第12期リコー杯囲碁戦1回戦 | Liu Xing | Fan Yin | W+R | 2011-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dU1NwTGqbp5A2PiLbxFaAQ%3D%3D) | 
-| 第6期リコー杯新秀戦1回戦 | Li Xiangyu | Fan Yin | B+1.5 | 2011-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mSx2zeJuAUfD5DQpVSfTbg%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Chen Hao | Fan Yin | Lose | B+R | 7.5 | 3370 | -26 | 
+| 2021-05-12 | 第23回中国囲碁甲級リーグ | Meng Tailing | Fan Yin | Lose | B+R | 7.5 | 3396 | -22 | 
+| 2021-05-11 | 第23回中国囲碁甲級リーグ | Fan Yin | Zhao Chenyu | Lose | W+R | 7.5 | 3418 | -16 | 
+| 2021-05-10 | 第23回中国囲碁甲級リーグ | Fan Yin | Xie Ke | Win | B+¾ | 7.5 | 3434 | 25 | 
+| 2021-05-08 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Fan Yin | Win | W+1¼ | 7.5 | 3409 | 24 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Fan Yin | Lose | B+R | 7.5 | 3385 | -124 | 
+| 2021-03-16 | 第35期中国囲碁天元戦予選 | Fan Yin | Chen Zijian | Lose | W+R | 7.5 | 3509 | -123 | 
+| 2021-01-05 | 第8回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Xu Jiayang | Fan Yin | Lose | B+R | 7.5 | 3632 | -23 | 
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Cao Xiaoyang | Fan Yin | Win | W+R | 7.5 | 3655 | 18 | 
+| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Fan Yin | Liao Xingwen | Win | B+R | 7.5 | 3637 | -24 | 
+| 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Fan Yin | Shi Yue | Lose | W+¼ | 7.5 | 3661 | -24 | 
+| 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Shi Yue | Fan Yin | Win | W+R | 7.5 | 3685 | 4 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Li Qincheng | Fan Yin | Lose | B+R | 7.5 | 3681 | -30 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Fan Yin | Xu Jiayang | Lose | W+R | 7.5 | 3711 | -34 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Lee Donghoon | Fan Yin | Win | W+R | 7.5 | 3745 | 44 | 
+| 2020-12-09 | 第22回中国囲碁甲級リーグ | Fan Yin | Li Chengsen | Win | B+R | 7.5 | 3701 | -1 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Zhang Tao | Fan Yin | Lose | B+R | 7.5 | 3702 | -7 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Shi Yue | Fan Yin | Lose | B+1¾ | 7.5 | 3709 | -31 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | He Yuhan | Fan Yin | Win | W+R | 7.5 | 3740 | 137 | 
+| 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Jiang Weijie | Fan Yin | Win | W+R | 7.5 | 3603 | 20 | 
+| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Fan Yin | Meng Tailing | Win | B+¾ | 7.5 | 3583 | 76 | 
+| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦2回戦 | Ke Jie | Fan Yin | Lose | B+R | 7.5 | 3507 | 0 | 
+| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Fan Yin | Dang Yifei | Win | B+R | 7.5 | 3507 | 20 | 
+| 2020-09-14 | 第25回三星火災杯中国一般枠予選 | Fan Tingyu | Fan Yin | Win | W+R | 6.5 | 3487 | 54 | 
+| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Chen Xian | Fan Yin | Lose | B+R | 7.5 | 3433 | -15 | 
+| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Fan Yin | Chen Zhengxun | Win | B+R | 7.5 | 3448 | -30 | 
+| 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Zhang Qiang | Fan Yin | Win | W+¼ | 7.5 | 3478 | 10 | 
+| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Gu Lingyi | Fan Yin | Lose | B+R | 7.5 | 3468 | -57 | 
+| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Fan Yin | Jiang Weijie | Lose | W+R | 7.5 | 3525 | -27 | 
+| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Fan Yin | Li Zhe | Win | B+R | 7.5 | 3552 | 13 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Hu Yaoyu | Fan Yin | Win | W+1¼ | 7.5 | 3539 | -2 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Fan Yin | Liao Xingwen | Lose | W+R | 7.5 | 3541 | 73 | 
+| 2020-05-28 | 第11期中国竜星戦Aブロック8回戦 | Gu Zihao | Fan Yin | Lose | B+R | 7.5 | 3468 | 82 | 
+| 2020-04-13 | 第25回LG杯中国予選 | Fan Yin | Fan Yunruo | Lose | W+3.5 | 6.5 | 3386 | -187 | 
+| 2020-01-04 | 第11期中国竜星戦Aブロック7回戦 | Fan Yin | Jiang Weijie | Win | B+R | 7.5 | 3573 | 0 | 
+| 2020-01-04 | 第11期中国竜星戦Aブロック6回戦 | Wang Haoyang | Fan Yin | Win | W+R | 7.5 | 3573 | 341 | 
+| 2019-12-15 | 第11期中国竜星戦予選 | Zhou Ruiyang | Fan Yin | Win | W+R | 7.5 | 3232 | 34 | 
+| 2019-12-12 | 第21回中国囲碁甲級リーグ三位決定戦第3戦 | Fan Yin | Mi Yuting | Lose | W+R | 7.5 | 3198 | -13 | 
+| 2019-12-11 | 第21回中国囲碁甲級リーグ三位決定戦第2戦 | Huang Yunsong | Fan Yin | Win | W+R | 7.5 | 3211 | 15 | 
+| 2019-12-09 | 第21回中国囲碁甲級リーグ三位決定戦第1戦 | Chen Xian | Fan Yin | Lose | B+¾ | 7.5 | 3196 | -38 | 
+| 2019-11-15 | 第4回全国智力運動会男子団体戦第3戦 | Fan Tingyu | Fan Yin | Lose | B+R | 7.5 | 3234 | -17 | 
+| 2019-11-06 | 第21回中国囲碁甲級リーグプレーオフ3回戦第2戦 | Lee Donghoon | Fan Yin | Lose | B+R | 7.5 | 3251 | -10 | 
+| 2019-11-04 | 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 | Fan Yin | Ding Hao | Lose | W+R | 7.5 | 3261 | 12 | 
+| 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Yang Dingxin | Fan Yin | Lose | B+R | 7.5 | 3249 | 55 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Kang Dongyun | Fan Yin | Win | W+¼ | 7.5 | 3194 | 11 | 
+| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Fan Yin | Wu Guangya | Win | B+R | 7.5 | 3183 | -20 | 
+| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Fan Yin | Wang Zejin | Lose | W+R | 7.5 | 3203 | -34 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Yi Lingtao | Fan Yin | Win | W+R | 7.5 | 3237 | -4 | 
+| 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Fan Yin | Wang Xinghao | Lose | W+R | 7.5 | 3241 | 24 | 
+| 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Fan Yin | Park Junghwan | Lose | W+R | 7.5 | 3217 | -2 | 
+| 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Xu Jiayang | Fan Yin | Win | W+R | 7.5 | 3219 | -5 | 
+| 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Fan Yin | Huang Xin | Win | B+R | 7.5 | 3224 | 16 | 
+| 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Fan Yin | Shen Peiran | Win | B+R | 7.5 | 3208 | 35 | 
+| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Tong Mengcheng | Fan Yin | Win | W+R | 7.5 | 3173 | 84 | 
+| 2019-05-23 | 第4回夢百合杯統合予選準決勝 | Park Sangjin | Fan Yin | Win | W+R | 7.5 | 3089 | -12 | 
+| 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Fan Yin | Li Xiangyu | Win | B+R | 7.5 | 3101 | 8 | 
+| 2019-05-09 | 嫘祖杯第32期中国囲棋名人戦16強戦 | Fan Yin | Lian Xiao | Lose | W+R | 7.5 | 3093 | -27 | 
+| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Xie Ke | Fan Yin | Win | W+R | 7.5 | 3120 | 16 | 
+| 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Fan Yin |  | Win | B+1¾ | 7.5 | 3104 | -22 | 
+| 2019-04-22 | 第16期倡棋杯中国プロ囲棋選手権戦本戦2回戦 | Fan Yin | Ke Jie | Lose | W+R | 7.5 | 3126 | 2 | 
+| 2019-04-19 | 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Fan Yin | Li Qincheng | Win | B+R | 7.5 | 3124 | 6 | 
+| 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Han Yizhou | Fan Yin | Lose | B+R | 7.5 | 3118 | -6 | 
+| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節廈門-四建 | Fan Yin | Wang Shiyi | Lose | W+R | 7.5 | 3124 | -15 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Fan Yin | Sun Tengyu | Lose | W+R | 7.5 | 3139 | 38 | 
+| 2019-03-04 | 第16期倡棋杯中国プロ囲棋選手権戦2回戦 | Fan Yin | Hu Yuhan | Win | B+R | 7.5 | 3101 | -49 | 
+| 2019-01-04 | 第33期中国囲碁天元戦1回戦 | Xie Erhao | Fan Yin | Win | W+R | 7.5 | 3150 | -10 | 
+| 2018-12-27 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Gu Li | Fan Yin | Lose | B+R | 7.5 | 3160 | -47 | 
+| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節重慶-廈門 | Gu Li | Fan Yin | Lose | B+5¾ | 7.5 | 3207 | -13 | 
+| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節廈門-中信 | Kim Myounghoon | Fan Yin | Win | W+R | 7.5 | 3220 | -22 | 
+| 2018-11-16 | 第20回中国囲碁甲級リーグ第24節天津-廈門 | Fan Yin | Tang Weixing | Win | B+R | 7.5 | 3242 | 7 | 
+| 2018-11-09 | 第20回中国囲碁甲級リーグ第23節廈門-杭州 | Wu Guangya | Fan Yin | Lose | B+R | 7.5 | 3235 | -41 | 
+| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節山東-廈門 | Fan Yin | Jiang Weijie | Win | B+R | 7.5 | 3276 | 16 | 
+| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節廈門-衢州 |  | Fan Yin | Win | W+1¼ | 7.5 | 3260 | -12 | 
+| 2018-10-13 | 第14期威孚房開杯棋王戦32強戦 | Jiang Weijie | Fan Yin | Lose | B+R | 7.5 | 3272 | -31 | 
+| 2018-10-08 | 第20回中国囲碁甲級リーグ第18節廈門-蘇泊爾 | Fan Yin | Xie Ke | Lose | W+R | 7.5 | 3303 | 4 | 
+| 2018-09-28 | 第20回中国囲碁甲級リーグ第17節江蘇-廈門 | Fan Yin | Zhao Chenyu | Lose | W+R | 7.5 | 3299 | -22 | 
+| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節廈門-浙江 | Jiang Qirun | Fan Yin | Win | W+R | 7.5 | 3321 | -7 | 
+| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節江西-廈門 | Fan Yin | Xu Jiayang | Lose | W+R | 7.5 | 3328 | -56 | 
+| 2018-08-13 | 第20回中国囲碁甲級リーグ第12節中信-廈門 | Tuo Jiaxi | Fan Yin | Lose | B+R | 7.5 | 3384 | 37 | 
+| 2018-08-06 | 第20回中国囲碁甲級リーグ第11節廈門-天津 | Fan Yin | Xie Erhao | Lose | W+R | 7.5 | 3347 | -26 | 
+| 2018-07-28 | 第5回国手山脈杯世界プロ最強戦2回戦 | Fan Yin | Wang Yuanjun | Lose | W+1.5 | 6.5 | 3373 | 0 | 
+| 2018-07-28 | 第5回国手山脈杯世界プロ最強戦1回戦 | Lee Sedol | Fan Yin | Win | W+T | 6.5 | 3373 | 0 | 
+| 2018-07-16 | 第20回中国囲碁甲級リーグ第10節杭州-廈門 |  | Fan Yin | Win | W+R | 7.5 | 3373 | 48 | 
+| 2018-06-29 | 第20期阿含・桐山杯中国早碁オープン戦本選決勝 | Fan Yin | Meng Tailing | Lose | W+R | 7.5 | 3325 | 0 | 
+| 2018-06-29 | 第20期阿含・桐山杯中国早碁オープン戦本選3回戦 | Wang Chen | Fan Yin | Win | W+R | 7.5 | 3325 | -3 | 
+| 2018-06-28 | 第20期阿含・桐山杯中国早碁オープン戦本選2回戦 | Yi Lingtao | Fan Yin | Win | W+2¼ | 7.5 | 3328 | 0 | 
+| 2018-06-28 | 第20期阿含・桐山杯中国早碁オープン戦本選1回戦 | Fan Yin | Chen Yunong | Win | B+R | 7.5 | 3328 | -25 | 
+| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節廈門-山東 | Fan Yin | Yi Lingtao | Lose | W+R | 7.5 | 3353 | -11 | 
+| 2018-05-28 | 第23回LG杯朝鮮日報棋王戦1回戦 | Fan Yin | Shin Jinseo | Lose | W+R | 6.5 | 3364 | -48 | 
+| 2018-05-21 | 第20回中国囲碁甲級リーグ第7節衢州-廈門 | Huang Xin | Fan Yin | Lose | B+R | 7.5 | 3412 | 29 | 
+| 2018-05-16 | 嫘祖杯第31回中国囲棋名人戦32強戦 | Fan Yin |  | Lose | W+R | 7.5 | 3383 | -44 | 
+| 2018-05-14 | 第20回中国囲碁甲級リーグ第6節廈門-民生 | Tao Xinran | Fan Yin | Win | W+1¼ | 7.5 | 3427 | 36 | 
+| 2018-05-11 | 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Fan Yin | Peng Liyao | Lose | W+¼ | 7.5 | 3391 | -30 | 
+| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節蘇泊爾-廈門 | Xie Ke | Fan Yin | Win | W+R | 7.5 | 3421 | 48 | 
+| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節廈門-江蘇 | Fan Yin | Tong Mengcheng | Lose | W+R | 7.5 | 3373 | -15 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦2回戦 | Fan Yin | Tang Weixing | Lose | W+¼ | 7.5 | 3388 | 0 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Zhao Chenyu | Fan Yin | Win | W+¼ | 7.5 | 3388 | 2 | 
+| 2018-04-07 | 第23回LG杯予選決勝 | Fan Yin |  | Win | B+R | 6.5 | 3386 | 44 | 
+| 2018-04-02 | 第23回LG杯予選1回戦 | Fan Yin | Lee Changho | Win | B+R | 6.5 | 3342 | -3 | 
+| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節浙江-廈門 | Zhang Tao | Fan Yin | Win | W+R | 7.5 | 3345 | -17 | 
+| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節廈門-江西 | Fan Yin | Byun Sangil | Lose | W+¼ | 7.5 | 3362 | -59 | 
+| 2018-01-25 | 第32期中国囲碁天元戦2回戦 | Fan Yin | Zhou Ruiyang | Lose | W+R | 7.5 | 3421 | -6 | 
+| 2018-01-23 | 第32期中国囲碁天元戦1回戦 | Fan Yin |  | Win | B+R | 7.5 | 3427 | 25 | 
+| 2018-01-15 | 第3回洛陽白雲山杯中国棋聖戦本戦1回戦 | Fan Yin | Tuo Jiaxi | Lose | W+R | 7.5 | 3402 | -8 | 
+| 2018-01-10 | 第3回洛陽白雲山杯中国棋聖戦資格戦3 | Fan Yin | Li Xuanhao | Win | B+R | 7.5 | 3410 | 12 | 
+| 2018-01-08 | 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Meng Tailing | Fan Yin | Win | W+R | 7.5 | 3398 | 8 | 
+| 2017-12-28 | 第13期威孚房開杯棋王戦決勝 | Fan Yin | Zhang Tao | Win | B+¾ | 7.5 | 3390 | 24 | 
+| 2017-12-27 | 第13期威孚房開杯棋王戦準決勝 | Fan Yin | Gu Lingyi | Win | B+R | 7.5 | 3366 | -12 | 
+| 2017-12-26 | 第13期威孚房開杯棋王戦8強戦 | Fan Yin | Gu Zihao | Win | B+R | 7.5 | 3378 | 56 | 
+| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Fan Tingyu | Fan Yin | Lose | B+R | 7.5 | 3322 | 4 | 
+| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Fan Yin | Li Weiqing | Lose | W+¼ | 7.5 | 3318 | -8 | 
+| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Fan Yin | Peng Liyao | Win | B+R | 7.5 | 3326 | -6 | 
+| 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Tuo Jiaxi | Fan Yin | Win | W+R | 7.5 | 3332 | -10 | 
+| 2017-10-30 | 第19回中国囲碁甲級リーグ第22節 | Fan Yin | Ding Hao | Win | B+R | 7.5 | 3342 | 13 | 
+| 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Fan Yin | Wang Haoyang | Win | B+R | 7.5 | 3329 | 5 | 
+| 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Li Xuanhao | Fan Yin | Win | W+R | 7.5 | 3324 | 48 | 
+| 2017-10-14 | 2017年利民杯世界囲碁星鋭最強戦1回戦 | Fan Yin | Lee Donghoon | Lose | W+R | 7.5 | 3276 | 21 | 
+| 2017-10-11 | 第13期威孚房開杯棋王戦16強戦 | Fan Yin | Tang Weixing | Win | B+R | 7.5 | 3255 | 14 | 
+| 2017-10-10 | 第13期威孚房開杯棋王戦32強戦 | Zhou Hexi | Fan Yin | Win | W+R | 7.5 | 3241 | -30 | 
+| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Fan Yin | Lian Xiao | Lose | W+R | 7.5 | 3271 | 0 | 
+| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Fan Yin | Lian Xiao | Lose | W+R | 7.5 | 3271 | -18 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Fan Yin | Dang Yifei | Lose | W+R | 7.5 | 3289 | -14 | 
+| 2017-09-26 | 2017年全国囲棋個人戦男子組第13戦 | Fan Yin | Tu Xiaoyu | Lose | W+R | 7.5 | 3303 | -6 | 
+| 2017-09-22 | 2017年全国囲棋個人戦男子組第8戦 | Fan Yin | Xie Ke | Win | B+R | 7.5 | 3309 | 0 | 
+| 2017-09-22 | 2017年全国囲棋個人戦男子組第9戦 | Liao Yuanhe | Fan Yin | Win | W+R | 7.5 | 3309 | -9 | 
+| 2017-09-19 | 2017年全国囲棋個人戦男子組第5戦 | Fan Yin | Hu Yuhan | Win | B+R | 7.5 | 3318 | 10 | 
+| 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Yang Kaiwen | Fan Yin | Lose | B+3.5 | 7.5 | 3308 | -8 | 
+| 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Chen Zhengxun | Fan Yin | Win | W+R | 7.5 | 3316 | 0 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Zhao Chenyu | Fan Yin | Win | W+R | 7.5 | 3316 | 7 | 
+| 2017-08-28 | 2017中国国家青年隊選抜戦6回戦 | Yi Lingtao | Fan Yin | Win | W+R | 7.5 | 3309 | 14 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Fan Yin |  | Win | B+R | 7.5 | 3295 | 17 | 
+| 2017-08-14 | 中国浙江平湖当湖十局杯CCTV64強 | Fan Yin | Tan Xiao | Win | B+R | 7.5 | 3278 | 25 | 
+| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Fan Yin | Chen Zijian | Win | B+R | 7.5 | 3253 | 5 | 
+| 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Li Zhe | Fan Yin | Lose | B+R | 7.5 | 3248 | 16 | 
+| 2017-08-03 | 嫘祖杯30回中国名人戦16強戦 | Peng Liyao | Fan Yin | Lose | B+3.5 | 7.5 | 3232 | -3 | 
+| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Fan Yin | Kim Jiseok | Lose | W+R | 7.5 | 3235 | -5 | 
+| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Fan Yin |  | Win | B+R | 7.5 | 3240 | 8 | 
+| 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Li Xiangyu | Fan Yin | Lose | B+R | 7.5 | 3232 | -53 | 
+| 2017-07-01 | 第22回三星火災杯統合予選3回戦 | Kim Jiseok | Fan Yin | Lose | B+3.5 | 6.5 | 3285 | -38 | 
+| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Fan Yin |  | Lose | W+R | 7.5 | 3323 | 7 | 
+| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Yang Dingxin | Fan Yin | Lose | B+1.5 | 7.5 | 3316 | -11 | 
+| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Fan Yin | Wu Guangya | Win | B+R | 7.5 | 3327 | 0 | 
+| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Gu Lingyi | Fan Yin | Lose | B+1.5 | 7.5 | 3327 | 1 | 
+| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Fan Yin |  | Win | B+R | 7.5 | 3326 | 3 | 
+| 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Meng Tailing | Fan Yin | Lose | B+R | 7.5 | 3323 | -4 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Fan Yin | Tong Mengcheng | Lose | W+R | 7.5 | 3327 | 2 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Fan Yin |  | Win | B+R | 7.5 | 3325 | 40 | 
+| 2017-04-18 | 第19期中国阿含桐山杯本選決勝 | Yang Kaiwen | Fan Yin | Lose | B+R | 7.5 | 3285 | 0 | 
+| 2017-04-18 | 第19期中国阿含桐山杯本選3回戦 | Li Xuanhao | Fan Yin | Win | W+R | 7.5 | 3285 | 149 | 
+| 2017-03-04 | 2017年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Park Geunho | Fan Yin | Win | W+R | 7.5 | 3136 | -13 | 
+| 2017-03-01 | 2017年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Liu Yuhang | Fan Yin | Win | W+R | 7.5 | 3149 | 29 | 
+| 2017-02-17 | 第14期中国倡棋杯予選準決勝 | Fan Yin | Shu Yixiao | Win | B+R | 7.5 | 3120 | 12 | 
+| 2017-01-16 | 第31期中国囲碁天元戦2回戦 | Lian Xiao | Fan Yin | Lose | B+R | 7.5 | 3108 | -8 | 
+| 2017-01-14 | 第31期中国囲碁天元戦1回戦 | Fan Yin | Yu Zhiying | Win | B+1.5 | 7.5 | 3116 | 14 | 
+| 2016-12-24 | 嫘祖杯第29期中国名人戦32強戦 | Zhou Ruiyang | Fan Yin | Lose | B+R | 7.5 | 3102 | -4 | 
+| 2016-12-03 | 第18回中国囲碁甲級リーグ第22節 | Li Xuanhao | Fan Yin | Win | W+R | 7.5 | 3106 | 19 | 
+| 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Fan Yin | Zhou Hexi | Lose | W+R | 7.5 | 3087 | -10 | 
+| 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Xu Jiayang | Fan Yin | Lose | B+R | 7.5 | 3097 | -16 | 
+| 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 | Ding Shixiong | Fan Yin | Win | W+0.5 | 7.5 | 3113 | 15 | 
+| 2016-11-14 | 第18回中国囲碁甲級リーグ第18節 | Fan Yin | Gu Zihao | Win | B+R | 7.5 | 3098 | -52 | 
+| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Fan Yin | Fan Yunruo | Lose | W+R | 7.5 | 3150 | -8 | 
+| 2016-11-04 | 第18回中国囲碁甲級リーグ第17節 | Han Yizhou | Fan Yin | Win | W+R | 7.5 | 3158 | 17 | 
+| 2016-10-28 | 第18回中国囲碁甲級リーグ第16節 | Fan Yin | Wu Guangya | Win | B+R | 7.5 | 3141 | 26 | 
+| 2016-10-25 | 第8期中国竜星戦予選 | Fan Yin | Xie Ke | Lose | W+R | 7.5 | 3115 | -37 | 
+| 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Fan Yin | Liao Yuanhe | Win | B+R | 7.5 | 3152 | 2 | 
+| 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Fan Yin |  | Win | B+1.5 | 7.5 | 3150 | 57 | 
+| 2016-09-26 | 2016年全国囲棋個人戦男子組第9戦 |  | Fan Yin | Win | W+0.5 | 7.5 | 3093 | 9 | 
+| 2016-09-25 | 2016年全国囲棋個人戦男子組第8戦 | Ding Hao | Fan Yin | Win | W+R | 7.5 | 3084 | -7 | 
+| 2016-09-23 | 2016年全国囲棋個人戦男子組第7戦 | Fan Yin | Guo Yuzheng | Win | B+R | 7.5 | 3091 | -51 | 
+| 2016-09-22 | 2016年全国囲棋個人戦男子組第6戦 |  | Fan Yin | Win | W+4.5 | 7.5 | 3142 | -6 | 
+| 2016-09-20 | 2016年全国囲棋個人戦男子組第5戦 | Fan Yin | Zhang Tao | Win | B+R | 7.5 | 3148 | 17 | 
+| 2016-09-19 | 2016年全国囲棋個人戦男子組第4戦 | Xu Jiayang | Fan Yin | Win | W+R | 7.5 | 3131 | 18 | 
+| 2016-09-17 | 2016年全国囲棋個人戦男子組第3戦 |  | Fan Yin | Win | W+R | 7.5 | 3113 | 35 | 
+| 2016-09-16 | 2016年全国囲棋個人戦男子組第2戦 | Fan Yin | Rong Yi | Win | B+R | 7.5 | 3078 | -6 | 
+| 2016-08-25 | 第3回百霊杯世界オープン戦4回戦 | Weon Seongjin | Fan Yin | Lose | B+R | 7.5 | 3084 | 26 | 
+| 2016-08-09 | 2016年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 | Fan Yin |  | Lose | W+R | 7.5 | 3058 | -37 | 
+| 2016-08-07 | 2016年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Park Hamin | Fan Yin | Win | W+R | 7.5 | 3095 | 42 | 
+| 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Fan Yin | Yang Dingxin | Win | B+R | 7.5 | 3053 | 19 | 
+| 2016-07-02 | 第3回百霊杯世界オープン戦3回戦 | Fan Yin | Shi Yue | Win | B+R | 7.5 | 3034 | 22 | 
+| 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Fan Yin | Mao Ruilong | Win | B+R | 7.5 | 3012 | 22 | 
+| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Terayama Rei | Fan Yin | Win | W+R | 7.5 | 2990 | 39 | 
+| 2016-06-06 | 第18回中国囲碁甲級リーグ第7節 | Gu Zihao | Fan Yin | Lose | B+R | 7.5 | 2951 | 36 | 
+| 2016-05-22 | 第18回中国囲碁甲級リーグ第6節 | Fan Yin | Tuo Jiaxi | Lose | W+2.5 | 7.5 | 2915 | 46 | 
+| 2016-05-18 | 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Mi Yuting | Fan Yin | Lose | B+R | 7.5 | 2869 | -108 | 
+| 2016-05-03 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Huang Xin | Fan Yin | Win | W+6.5 | 7.5 | 2977 | 29 | 
+| 2016-05-02 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Fan Yin | Zhou Yuanjun | Win | B+R | 7.5 | 2948 | 13 | 
+| 2016-05-01 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Fan Yin |  | Win | B+R | 7.5 | 2935 | -3 | 
+| 2016-04-28 | 2016年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Park Hamin | Fan Yin | Lose | B+3.5 | 7.5 | 2938 | 26 | 
+| 2016-04-26 | 2016年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Liu Qifeng | Fan Yin | Win | W+R | 7.5 | 2912 | 0 | 
+| 2016-04-26 | 2016年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Fan Yin | Shin Minjun | Lose | W+R | 7.5 | 2912 | -28 | 
+| 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Fan Yin | Xie Erhao | Lose | W+R | 7.5 | 2940 | -21 | 
+| 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Huang Yunsong | Fan Yin | Lose | B+R | 7.5 | 2961 | -84 | 
+| 2015-09-18 | 第3回全国智力運動会囲碁男子団体戦 | Fan Yin | Yang Dingxin | Lose | W+R | 7.5 | 3045 | -65 | 
+| 2015-08-23 | 2015年全国囲棋個人戦男子組第3戦 | Fan Yunruo | Fan Yin | Lose | B+R | 7.5 | 3110 | -49 | 
+| 2015-07-27 | 2015年中国段位戦 | Fan Yin |  | Win | B+R | 7.5 | 3159 | 26 | 
+| 2015-07-26 | 2015年中国段位戦 | Song Ronghui | Fan Yin | Win | W+R | 7.5 | 3133 | 12 | 
+| 2015-07-25 | 2015年中国段位戦 |  | Fan Yin | Lose | B+R | 7.5 | 3121 | -62 | 
+| 2015-07-24 | 2015年中国段位戦 | Chen Xian | Fan Yin | Lose | B+1.5 | 7.5 | 3183 | -61 | 
+| 2015-07-22 | 2015年中国段位戦 | Zhang Qiang | Fan Yin | Win | W+R | 7.5 | 3244 | 41 | 
+| 2015-07-21 | 2015年中国段位戦 | Fan Yin | Yang Kaiwen | Win | B+R | 7.5 | 3203 | 76 | 
+| 2015-07-20 | 2015年中国段位戦 | Fan Yin |  | Win | B+R | 7.5 | 3127 | -8 | 
+| 2015-07-19 | 2015年中国段位戦 | Fan Yin |  | Win | B+R | 7.5 | 3135 | 89 | 
+| 2015-07-14 | 2015年中国段位戦 | Fan Yin | Qin Yuexin | Lose | W+R | 7.5 | 3046 | -97 | 
+| 2015-07-09 | 第2回夢百合杯世界オープン戦2回戦 | Li Qincheng | Fan Yin | Lose | B+R | 7.5 | 3143 | -69 | 
+| 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 |  | Fan Yin | Win | W+2.5 | 7.5 | 3212 | 103 | 
+| 2015-06-27 | 第7期中国竜星戦予選 | Fan Yin | Liao Yuanhe | Lose | W+0.5 | 7.5 | 3109 | -165 | 
+| 2015-05-19 | 2015年中国囲碁乙級リーグ |  | Fan Yin | Win | W+R | 7.5 | 3274 | 153 | 
+| 2014-06-25 | 第6期中国竜星戦予選 | Li Qincheng | Fan Yin | Lose | B+1.5 | 7.5 | 3121 | 2 | 
+| 2014-03-23 | 第27期中国囲碁名人戦予選 | Fan Yin | Zhao Chenyu | Lose | W+R | 7.5 | 3119 | -71 | 
+| 2014-03-20 | 第27期中国囲碁名人戦予選 | Xie Ke | Fan Yin | Win | W+R | 7.5 | 3190 | -88 | 
+| 2013-12-30 | 第14期リコー杯囲碁戦2回戦 | Fan Yin | Lian Xiao | Lose | W+R | 7.5 | 3278 | -155 | 
+| 2013-12-29 | 第14期リコー杯囲碁戦1回戦 | Tang Yi | Fan Yin | Win | W+R | 7.5 | 3433 | 3433 | 
+| 2013-12-28 | 第8期リコー杯新秀戦2回戦 | Fan Yin | Huang Yunsong | Lose | W+4.5 | 7.5 | missing | 0 | 
+| 2013-12-27 | 第8期リコー杯新秀戦1回戦 | Chen Yunong | Fan Yin | Win | W+R | 7.5 | missing | 0 | 
+| 2013-12-10 | 第8期リコー杯新秀戦予選 | Fan Yin |  | Win | B+R | 7.5 | missing | 0 | 
+| 2012-12-28 | 第13期リコー杯囲碁戦1回戦 | Fan Yin | Hu Yaoyu | Lose | W+R | 7.5 | missing | -2989 | 
+| 2012-12-26 | 第7期リコー杯新秀戦1回戦 | Fan Yin | Huang Yunsong | Lose | W+R | 7.5 | 2989 | -415 | 
+| 2011-12-30 | 第12期リコー杯囲碁戦2回戦 | Meng Tailing | Fan Yin | Lose | B+R | 7.5 | 3404 | -108 | 
+| 2011-12-29 | 第12期リコー杯囲碁戦1回戦 | Liu Xing | Fan Yin | Win | W+R | 7.5 | 3512 | 3512 | 
+| 2011-12-28 | 第6期リコー杯新秀戦1回戦 | Li Xiangyu | Fan Yin | Lose | B+1.5 | 7.5 | missing | missing |
 
 
 

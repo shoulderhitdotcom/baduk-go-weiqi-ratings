@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Junghwan vs Tan Xiao** | **Park Junghwan streak** | **Tan Xiao streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Tan Xiao | Park Junghwan | W+1.5 | 6.5 | 10:4 | 4 | 0 | 
 | 2019-04-15 | 第21回中国囲碁甲級リーグ第1節成都-浙江 | Tan Xiao | Park Junghwan | W+R | 7.5 | 9:4 | 3 | 0 | 
 | 2018-09-25 | 第1回天府杯世界囲碁選手権B組準決勝 | Park Junghwan | Tan Xiao | B+R | 7.5 | 8:4 | 2 | 0 | 
 | 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Park Junghwan | Tan Xiao | B+R | 7.5 | 7:4 | 1 | 0 | 

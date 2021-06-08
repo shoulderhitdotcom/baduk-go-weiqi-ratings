@@ -67,19 +67,48 @@ const OFFSET = 3800-6.5/log(10)*400
 
 # @target should allow the return of a path where things are stored
 # out_path = @target pings_for_md1 = @chain @watch(pings) begin
-pings_for_md1 = @chain pings begin
-   @transform eng_name_old = coalesce.(eng_name.(:name), Ref(""));
-   @transform eng_name = "[" .* :eng_name_old .* "](./player-games-md/md/" .* :eng_name_old .* ".md)"
-   @transform estimate_for_ranking = :estimate .- 1.97 .* :std_error
-   @transform Rating = @. round(Int, :estimate * 400 / log(10) + OFFSET)
-   @transform rating_for_ranking = @. round(Int, :estimate_for_ranking * 400 / log(10) + OFFSET)
-   @transform rating_uncertainty = "±" .* string.(round.(Int, :std_error .* 400 ./ log(10)))
-   sort!(:estimate_for_ranking, rev=true)
-   @transform Rank = 1:length(:estimate_for_ranking)
+
+function turn_records_into_md(pings)
+    pings_for_md1 = @chain pings begin
+        @transform name = Vector{String}(:name) # avoid weird SentinelArray Bug
+        @transform eng_name_old = coalesce.(eng_name.(:name), Ref(""));
+        @transform eng_name = "[" .* :eng_name_old .* "](./player-games-md/md/" .* :eng_name_old .* ".md)"
+        @transform estimate_for_ranking = :estimate .- 1.97 .* :std_error
+        @transform Rating = @. round(Int, :estimate * 400 / log(10) + OFFSET)
+        @transform rating_for_ranking = @. round(Int, :estimate_for_ranking * 400 / log(10) + OFFSET)
+        @transform rating_uncertainty = "±" .* string.(round.(Int, :std_error .* 400 ./ log(10)))
+        sort!(:estimate_for_ranking, rev=true)
+        @transform Rank = 1:length(:estimate_for_ranking)
+    end
 end
 
+
+# make ratings database
+if false# run only once to generate the historical ratings
+    @time pings_hist = mapreduce(vcat, Date(2001, 1, 1):Day(1):Date(2021,6,5)) do date
+        if isfile("records/$(string(date)) pings.csv")
+            pings_old = CSV.read("records/$(string(date)) pings.csv", DataFrame; select=[:name, :estimate, :std_error])
+            pings_old[!, :date] .= date
+            return select!(turn_records_into_md(pings_old), :date, :name, :eng_name_old, :Rating, :Rank)
+        else
+            return DataFrame()
+        end
+    end
+    JDF.save("pings_hist.jdf", pings_hist)
+end
+
+pings_for_md1 = turn_records_into_md(pings)
 # this can be skipped in target network
 JDF.save("pings.jdf", pings_for_md1)
+
+# add the date for appending to historical
+pings_for_md1[!, :date] .= Date.(to_date)
+
+# load the hitorical ratings
+# and append the latest record onto it
+pings_hist = JDF.load("pings_hist.jdf") |> DataFrame
+pings_hist = unique(vcat(pings_hist, select( pings_for_md1, :date, :name, :eng_name_old, :Rating, :Rank)))
+JDF.save("pings_hist.jdf", pings_hist)
 
 pings_for_md = select(
     pings_for_md1,

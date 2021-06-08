@@ -72,7 +72,7 @@ for (name1, name2) in head_to_head_sets
             :name1win_streak=>Symbol("$name1 streak"),
             :name2win_streak=>Symbol("$name2 streak")
         )
-
+        sort!(:date, rev=true)
     end
 
     if nrow(head_to_head) > 0

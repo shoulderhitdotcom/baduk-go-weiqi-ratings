@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Chen Yunong | Byun Sangil | Lose | W+R | 7.5 | 3526 | -25 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Xu Haohong | Chen Yunong | Win | W+R | 7.5 | 3551 | 20 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Tang Weixing | Chen Yunong | Win | W+R | 7.5 | 3531 | 40 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Chen Yunong | Shin Minjun | Lose | W+R | 7.5 | 3491 | -65 | 

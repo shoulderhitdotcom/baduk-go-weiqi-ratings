@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Chen Hao | Tu Xiaoyu | Win | W+R | 7.5 | 3426 | 8 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Meng Tailing | Win | B+R | 7.5 | 3418 | 16 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20決勝 | Tu Xiaoyu | Wang Xinghao | Lose | W+R | 6.5 | 3402 | 0 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20準決勝 | Tu Xiaoyu | Park Sangjin | Win | B+R | 6.5 | 3402 | 0 | 

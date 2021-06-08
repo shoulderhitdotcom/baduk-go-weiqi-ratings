@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Shi Yue | Chen Yaoye | Lose | B+R | 7.5 | 3399 | -19 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Chen Yaoye | Lose | B+R | 7.5 | 3418 | -24 | 
 | 2021-05-14 | 第5期洛陽白雲山杯中国棋聖戦2回戦 | Chen Yaoye | Shi Yue | Lose | W+¼ | 7.5 | 3442 | -25 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Chen Yaoye | Win | W+R | 6.5 | 3467 | 9 | 

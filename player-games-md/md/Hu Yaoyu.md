@@ -5,641 +5,642 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第23回中国囲碁甲級リーグ | Hu Yaoyu | Mao Ruilong | W+R | 2021-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7YzapQAwoIuTs%2Fx7VQa1Xw%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Xie Ke | Hu Yaoyu | B+R | 2021-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CjKRdhMQ6V4eI7cglRcWKw%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Hu Yaoyu | Liao Yuanhe | W+R | 2021-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hnP3KzXzCFuVmKHKmAxddQ%3D%3D) | 
-| 第35期中国囲碁天元戦予選 | Hu Yaoyu | Yang Kaiwen | W+R | 2021-03-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rtvDdAeiXTWkPTYghyIJEQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Hu Yaoyu | Tong Mengcheng | W+R | 2020-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S6hzadtuLSTVFtY9BbpFPw%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Hu Yaoyu | B+¾ | 2020-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bDgW5SOKuE92YLHg%2B4JjfQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Hu Yaoyu | Wu Guangya | B+R | 2020-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=slNs%2BUBkCBcnyX7ea5PNmg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Jiang Qirun | Hu Yaoyu | W+R | 2020-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r2wHKP9ExLyHavgeLaDizg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Li Xiangyu | Hu Yaoyu | B+1¾ | 2020-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m7H1YcNb9rVOuOYkxmYC8w%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Dang Yifei | Hu Yaoyu | B+R | 2020-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VkU4xDDrFo0pC2KzGCAW9g%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Hu Yaoyu | Ding Shixiong | W+R | 2020-12-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SdEGPtAnKFU%2BHqsOoQ7uhg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Xu Haohong | Hu Yaoyu | W+R | 2020-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6e2%2F%2BjrB9WmQiHK8lQbGMA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第8節 | Hu Yaoyu | Peng Liyao | W+R | 2020-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8GkFD8E3W28mvwwN0mDeUw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第7節 | Yao Xiaotong | Hu Yaoyu | B+R | 2020-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Dp4z%2FX%2FiAgaBejtpMXqBg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第6節 | Hu Yaoyu | Shi Yue | W+R | 2020-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IgEIpDjvMpHHEMf%2FF6bH%2BQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第3節 | Fan Tingyu | Hu Yaoyu | B+R | 2020-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pytXpw1YhQ4ajqCRT6Lj5Q%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第2節 | Hu Yaoyu | Fan Yin | W+1¼ | 2020-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i0G%2Fow60Dxx74%2FWdQe6LCg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第1節 | Hu Yaoyu | Xie Ke | B+R | 2020-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6QWjOdKW6QncSSOw2JnXsg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ5位決定戦第3戦 | Hu Yaoyu | Liao Yuanhe | W+R | 2019-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9%2B9b1Rz%2BkV0eMIpllv%2BqGw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ5位決定戦第2戦 | Gu Lingyi | Hu Yaoyu | W+R | 2019-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BUcmeI7uW6qx5zwgCd3XSQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ5位決定戦第1戦 | Hu Yaoyu | Gu Lingyi | B+R | 2019-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YqIiOtO0H8Rg0GoTiyuoXQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Hu Yaoyu | Xia Chenkun | W+2¼ | 2019-10-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Eo2RXmycEQ%2F2bxuQ9yej3w%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Lee Donghoon | Hu Yaoyu | W+R | 2019-10-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1HoAsWq%2F2ROUOszleC5C2A%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ1回戦第2戦 | Hu Yaoyu | Xu Jiayang | B+0¾ | 2019-09-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U6elujbS1Rh8ikmrBOukiA%3D%3D) | 
-| 第21回中国囲碁甲級リーグプレーオフ1回戦第1戦 | Gu Zihao | Hu Yaoyu | B+R | 2019-09-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jfKWdn9U6U%2FdMYnSco4R6w%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第15節 | Hu Yaoyu | Xie Ke | B+R | 2019-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L4fqgFpqSa1Bt5%2FtNtMcDQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第14節 | Rong Yi | Hu Yaoyu | B+R | 2019-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0cHzDZz5cS5vdbUv7C%2BJ6A%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Han Yizhou | B+R | 2019-08-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a74%2F%2Bc%2FAA1kTXZ6NO42m9Q%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第12節 | missing | Hu Yaoyu | W+R | 2019-08-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pYLidbG0wcU3dcYJCnXYSw%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第8節 | Fan Tingyu | Hu Yaoyu | B+¾ | 2019-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=73ZyOPYLYtoHCRFfjYF6Bg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第7節 | Ding Shixiong | Hu Yaoyu | B+1¾ | 2019-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tRmaZg6vU%2Bs3pa6pHB6%2BcA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第6節 | Hu Yaoyu | Gu Lingyi | B+1¾ | 2019-06-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FmWNiKTTAnpxiOL%2FDo%2BWWA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第3節 | Tao Xinran | Hu Yaoyu | B+R | 2019-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0xi91BktOYIkYKUydqWvrA%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Jiang Weijie | Hu Yaoyu | B+R | 2019-04-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LxLdsKIOcSM1V9cM3rQJCA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第2節 | Hu Yaoyu | Tan Xiao | B+¾ | 2019-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tBdpFvHqTT7opcOqTH5Q3g%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第1節上海-重慶 | Gu Li | Hu Yaoyu | W+¼ | 2019-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5V62m%2B7er5ZF4hOp7QUxiQ%3D%3D) | 
-| 第24回LG杯統合予選1回戦 | Song Taekon | Hu Yaoyu | B+R | 2019-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mz6rqeuDrviFvofRK34RHw%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦2回戦 | missing | Hu Yaoyu | B+R | 2019-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RQ6FzK8iQsU3YujaJgrTcw%3D%3D) | 
-| 第10期中国竜星戦予選 | Xie He | Hu Yaoyu | B+1¾  | 2019-03-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YVvOXKg0Ng3hbx%2BC3a%2BNog%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦2回戦 | Li Xuanhao | Hu Yaoyu | W+R | 2019-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5wBgqaEVgbLFRLNzLbXSDg%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦1回戦 | Hu Yaoyu | Zhou Hexi | B+5 | 2019-03-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iW8YX9%2Bk0qfn%2FWJviVeYEw%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦予選準決勝 | Hu Yaoyu | Li He | B+R | 2019-02-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RoGKQI85JP61KMwOeei%2BMw%3D%3D) | 
-| 第4期洛陽白雲山杯中国棋聖戦予選甲組 | missing | Hu Yaoyu | B+T | 2018-12-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gcNzyhTXb2Egj%2BGnOho%2Bkg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第24節中信-上海 | Hu Yaoyu | Chen Yaoye | W+R | 2018-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=voSnuWml5myqPBeMPpjdjw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第23節上海-天津 | Tang Weixing | Hu Yaoyu | W+R | 2018-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YpmSYQOEAZsLY2GUnOEtAQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第22節廈門-上海 | Hu Yaoyu | Lee Donghoon | W+R | 2018-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WKuOFGm3lrw%2F1bE58Ugqlg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第21節上海-杭州 | Wu Guangya | Hu Yaoyu | B+R | 2018-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ULaUpkSt%2B19p%2BFJ7vhHSAQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第20節上海-山東 | Jiang Weijie | Hu Yaoyu | B+R | 2018-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ue2VaJwjqnJC8AF3nrPUNg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第19節衢州-上海 | Hu Yaoyu | Ding Shixiong | W+R | 2018-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BRavbr0mOeIx2jstpD1GDQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第18節上海-民生 | Hu Yaoyu | Kim Jiseok | W+R | 2018-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sulk8rcaAVf%2BcLD8GS6IgQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第17節蘇泊爾-上海 | Hu Yaoyu | Xie Ke | W+R | 2018-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bpODJY3pr1tN6Y8tNHbACw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第16節上海-江蘇 | Zhao Chenyu | Hu Yaoyu | B+R | 2018-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ApepseFF6hutJMi5FfddqQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第13節上海-成都 | Choi Cheolhan | Hu Yaoyu | W+R | 2018-08-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HBfCMvQAT61KV0b9AqSnmA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第12節重慶-上海 | Hu Yaoyu | Yang Dingxin | W+R | 2018-08-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jcUcAXZ7V%2FKwfL8BEkx2nA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第8節杭州-上海 | Hu Yaoyu | Xia Chenkun | W+R | 2018-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N%2BTp86ngDqzB75L8GeJLug%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第5節民生-上海 | Sun Tengyu | Hu Yaoyu | W+R | 2018-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0%2Bdeesq0s5vA68DMBB8oaA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第4節上海-蘇泊爾 | missing | Hu Yaoyu | B+R | 2018-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vTFr0D8Sol%2B%2B3P6SBvy6JA%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦2回戦 | Xie Erhao | Hu Yaoyu | B+R | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U2AvX3I3FFshYKa2CM%2FMhg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第3節江蘇-上海 | Hu Yaoyu | Zhao Chenyu | W+R | 2018-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BXq6aAbV5uJPWYef2ZUc3Q%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第2節上海-浙江 | Zhou Hexi | Hu Yaoyu | W+R | 2018-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SzOkTlP7eUan2vbc2QON5w%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第1節江西-上海 | Hu Yaoyu | Yang Kaiwen | B+2¾ | 2018-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D4aJUkSFp4XGYhUAS4kWqw%3D%3D) | 
-| 第9期中国竜星戦予選 | Meng Tailing | Hu Yaoyu | B+R | 2018-03-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J4HyRN5YyiaGvQbIZutGlw%3D%3D) | 
-| 第9期中国竜星戦予選 | Meng Tailing | Hu Yaoyu | B+R | 2018-03-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oJDhKeg6nCjU%2FkeWLzT%2B0A%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第26節 | Hu Yaoyu | Li Qincheng | W+R | 2017-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X0MdtO0gOtOW9AWT2%2Ffzwg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第23節 | Xu Jiayang | Hu Yaoyu | B+R | 2017-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MM9YGXupVpiGSmTwtwYUyQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第20節 | Meng Tailing | Hu Yaoyu | W+R | 2017-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mEqXrgjn%2FqaN8%2BNg3z7Yig%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第19節 | Hu Yaoyu | Xie He | W+R | 2017-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YpLHUi5eTG8Km9xDKALBEQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第15節 | Gu Li | Hu Yaoyu | B+R | 2017-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cWl0yJQY8DSePjbl7GW40Q%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第14節 | Jiang Weijie | Hu Yaoyu | W+0.5 | 2017-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=btdhtN%2BIg5McQ2vrrkSqcA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Xie Ke | B+R | 2017-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0yHgxixEle54oaZK5JAbzQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第12節 | Niu Yutian | Hu Yaoyu | B+R | 2017-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dDf4zu1JiUWDiI15SBmO2w%3D%3D) | 
-| 第22回三星火災杯統合予選2回戦 | Hu Yaoyu | Hong Minpyo | B+R | 2017-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wZY6zeRFMKCgYO0ylb%2BIig%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第8節 | Han Yizhou | Hu Yaoyu | W+0.5 | 2017-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D4sYNZTqBR8VPTNEZ9pJJw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第7節 | Hu Yaoyu | Meng Tailing | W+0.5 | 2017-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bkdzaRIAvOx5D4Xu1%2F0uwQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第6節 | Ding Hao | Hu Yaoyu | B+1.5 | 2017-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G0mxGkW%2BE9FFuRE%2FxCHwAQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第5節 | Hu Yaoyu | Zhao Chenyu | W+R | 2017-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sEQZ4PhHVOsarqNbC1F6eA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第4節 | Rong Yi | Hu Yaoyu | W+R | 2017-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5%2BbQdlZpjlrsyE5YWUTQWA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第2節 | Gu Li | Hu Yaoyu | B+R | 2017-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e1eDsU1x6NcG0MK059Vh4Q%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第1節 | Hu Yaoyu | Chen Zijian | B+3.5 | 2017-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aizLMz%2BZB1mJ0YLPQWnmxQ%3D%3D) | 
-| 世界第三期Mlily夢百合杯予選準決勝 | Hong Mujin | Hu Yaoyu | B+R | 2017-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mGmhjyeniyLRG2BDh3sPJw%3D%3D) | 
-| 第31期中国囲碁天元戦2回戦 | Gu Li | Hu Yaoyu | B+R | 2017-01-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2Lfhbbv%2F%2B%2B%2BNnnNvVRxBMQ%3D%3D) | 
-| 第31期中国囲碁天元戦1回戦 | Huang Yunsong | Hu Yaoyu | W+R | 2017-01-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JrlrHxuAIJKtJ2x1Kg7FSA%3D%3D) | 
-| 第31期中国囲碁天元戦予選 | Hu Yaoyu | Yang Dingxin | B+R | 2017-01-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vau9pRHmeK8g3mxPI%2FfbHg%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選決勝 | Hu Yaoyu | Chen Hao | W+R | 2016-12-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zvALqXJboOnBRaVmuBY1tA%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選4回戦 | Hu Yaoyu | Cao Xiaoyang | B+R | 2016-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KkguNPBd9OYFTpAu1Vmb9A%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選2回戦 | missing | Hu Yaoyu | W+R | 2016-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zPfC2hmGfP6OUY1g0hY0qQ%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選3回戦 | Hu Yaoyu | missing | B+R | 2016-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gWzOaFgb%2BewqaKSyPKfgPQ%3D%3D) | 
-| 第8期中国竜星戦予選 | Wang Lei (b) | Hu Yaoyu | W+R | 2016-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LisKET6LRTeCYV9j%2Bd5Kog%3D%3D) | 
-| 第8期中国竜星戦予選 | Hu Yaoyu | Liu Xing | W+R | 2016-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qg5S3M08%2BEC2BZtqXX62lw%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦1回戦 | Huang Yunsong | Hu Yaoyu | B+R | 2016-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XYBfqVwC38p12Sp4PSRq7A%3D%3D) | 
-| 第21回三星火災杯統合予選決勝 | Hu Yaoyu | Fan Tingyu | W+R | 2016-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lV4uRBsx%2B2CaXmHl2ufqhw%3D%3D) | 
-| 2016年中国囲碁乙級リーグ | Hu Yaoyu | Wang Yao | B+R | 2016-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nkaW47fxDAWOXDxizsBrvA%3D%3D) | 
-| 2016年中国囲碁乙級リーグ | missing | Hu Yaoyu | B+R | 2016-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N2MjCa3nD%2BxG6BEM3q%2FMiA%3D%3D) | 
-| 2016CCTV杯中国囲棋電視快棋戦2回戦 | Ke Jie | Hu Yaoyu | B+R | 2016-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lSv03YL0xXKjyXdfiH38gg%3D%3D) | 
-| 2016CCTV杯中国囲棋電視快棋戦1回戦 | Hu Yaoyu | Fan Tingyu | B+R | 2016-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j4eyzoZltGajC92Sj9%2FoPA%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | missing | Hu Yaoyu | B+R | 2016-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U8yetOtt9n3UjpJ130tbWA%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Zhang Qiang | Hu Yaoyu | W+R | 2016-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kW3c5l89T0%2BgX1O5kngkBw%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Hu Yaoyu | missing | B+R | 2016-05-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OL99vOhbwn5iMVoSuVfcSA%3D%3D) | 
-| 第21回LG杯予選 | Shen Zaiyi | Hu Yaoyu | B+R | 2016-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bj09CIaS6fOecRRN2NoGtA%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦予選 | Hu Yaoyu | An Dongxu | W+5 | 2016-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kLQV6h47lQ4X3mhQHHRhLg%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦予選 | Gui Wenbo | Hu Yaoyu | W+R | 2016-02-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9XZYHlIz4kTdDA3ks8LyyA%3D%3D) | 
-| 第30期中国囲碁天元戦1回戦 | Gu Zihao | Hu Yaoyu | B+R | 2016-01-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4eInf%2FDZZ5qKOZ0gMhoA3g%3D%3D) | 
-| 第30期中国囲碁天元戦予選 | Lu Jia | Hu Yaoyu | W+R | 2016-01-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f%2FS20mLIMprhYFKAyXQLAg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第22節 | Hu Yaoyu | Ke Jie | W+0.5 | 2015-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PAyltHkvSPIoM8a5FH%2F5vQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第21節 | Mi Yuting | Hu Yaoyu | B+R | 2015-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qLm%2FGAdSZim6yX%2Fc8LxJtA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第20節 | Hu Yaoyu | Li Qincheng | B+R | 2015-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t%2FHBiyTgym7WDFU1fBkcjQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第19節 | Chen Hao | Hu Yaoyu | B+R | 2015-11-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hpd2tI9Qv7Q%2Fvn%2Fgpwgcqg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第18節 | Tuo Jiaxi | Hu Yaoyu | W+R | 2015-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jeFdCTvVfhbiB6m2YEqnGQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第15節 | Hu Yaoyu | Zhou Hexi | W+R | 2015-10-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fNie7vW5eKQCp3LhMayVoQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第17節 | Yang Kaiwen | Hu Yaoyu | W+R | 2015-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kUDjkxPePvY51JJKzJcE2Q%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第14節 | Hu Yaoyu | Peng Liyao | W+R | 2015-10-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ETJ%2B3td29WGn1JdPPpvigQ%3D%3D) | 
-| 第11期威孚房開杯棋王戦1回戦 | Hu Yaoyu | Zhou Ruiyang | W+R | 2015-10-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4AkYBQVLO6nJs5Xn%2FrIJKA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第16節 | Wang Xi | Hu Yaoyu | B+R | 2015-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aUV3G2qvD%2FJWvlcZaPZxww%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Wang Xi | Hu Yaoyu | B+R | 2015-09-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bsvas6pHuwUmOBReSohfQg%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Hu Yaoyu | Jiang Weijie | W+0.5 | 2015-09-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oZP3TimYvrFCQbut41zFdA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Xie Ke | B+R | 2015-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ijR%2BVuf6eKc8Jj8xGVAZ6g%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第12節 | Gong Yanyu | Hu Yaoyu | B+R | 2015-09-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KTo2Ikjj5Yam2KCram0foQ%3D%3D) | 
-| 第20回三星火災杯統合予選1回戦 | Kang Seungmin | Hu Yaoyu | W+R | 2015-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JxyBFE8IpuuLqtGJgD5aDQ%3D%3D) | 
-| 第7期中国竜星戦予選 | missing | Hu Yaoyu | B+R | 2015-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cgvLZjVbdjvcw5eWnaMGhA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第11節 | Tong Mengcheng | Hu Yaoyu | B+1.5 | 2015-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AS7f0hy0sLdPKm3hpsczwQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第10節 | Hu Yaoyu | Mi Yuting | W+R | 2015-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pHP9uU9Xeu7LDpIyx3uEbQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第9節 | Hu Yaoyu | Park Junghwan | W+R | 2015-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2kcDyRNaJanF2tAY87duAA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第8節 | Jiang Weijie | Hu Yaoyu | W+R | 2015-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M%2BX39uJCfWp1Yc5rW89MRQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第7節 | Hu Yaoyu | Chen Yaoye | B+1.5 | 2015-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wkP9gDoDDjKVDCOVH%2B5awA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第6節 | Lee Donghoon | Hu Yaoyu | B+R | 2015-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K0LpPZYviXZbALAlpndiGg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第5節 | Li Xuanhao | Hu Yaoyu | W+R | 2015-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7%2FvxPLft1edc21XhC0P1oQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第4節 | Hu Yaoyu | Kim Jiseok | B+R | 2015-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bS9sgM9wDf7qAY7t34MgfQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第3節 | Hu Yaoyu | Shi Yue | B+1.5 | 2015-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L%2FLJkVutWJrjmIBki25ebg%3D%3D) | 
-| 第28期中国囲碁名人戦予選 | missing | Hu Yaoyu | W+R | 2015-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jcV8DBEbEfObrwGnX8bwFw%3D%3D) | 
-| 第28期中国囲碁名人戦予選 | Hu Yaoyu | Piao Wenyao | B+R | 2015-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FLcG6MY5QTGuNTVHBJqsGg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第2節 | Hu Yaoyu | missing | B+R | 2015-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mUUQ6POQ46wremZTwjR3Jg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第1節 | Liao Xingwen | Hu Yaoyu | B+R | 2015-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LtUPCyCA%2BLTSlYVgQCJwoQ%3D%3D) | 
-| 第20回LG杯予選 | missing | Hu Yaoyu | W+R | 2015-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yikfQWgUGDYXlyhuLSKauw%3D%3D) | 
-| 第29期中国囲碁天元戦予選 | Hu Yaoyu | Sun Tengyu | W+R | 2015-01-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Eem0kr%2FUAoLk6nchBhZY6g%3D%3D) | 
-| 第15期リコー杯囲碁戦準決勝 | Hu Yaoyu | Shi Yue | W+R | 2015-01-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NNTPRkP049%2BqG6%2Bwda50SQ%3D%3D) | 
-| 第15期リコー杯囲碁戦4回戦 | Hu Yaoyu | Tang Weixing | B+R | 2015-01-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dahmVj3F%2F0M9jUFaX0o3Yw%3D%3D) | 
-| 第15期リコー杯囲碁戦3回戦 | Hu Yaoyu | Tan Xiao | B+R | 2015-01-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O9giiMQhlk9KuB5YiPucHw%3D%3D) | 
-| 第15期リコー杯囲碁戦2回戦 | Hu Yaoyu | Qiu Jun | B+R | 2015-01-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aP7Q5u%2BTVHo07JXSoL64%2Fg%3D%3D) | 
-| 第15期リコー杯囲碁戦1回戦 | Kong Jie | Hu Yaoyu | W+0.5 | 2014-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XYxqaRkJ67IgtkFMimmxDQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第22節 | Hu Yaoyu | Zhao Chenyu | B+R | 2014-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wEIl4QjrIlOnkHdkbaCZMg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第21節 | Xu Jiayang | Hu Yaoyu | B+R | 2014-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cAwau41vpaW6klsusHiGZA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第20節 | Hu Yaoyu | Kim Jiseok | W+R | 2014-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=duHBM%2B4UI0d%2BOJnvW%2Fz1vg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第19節 | Fan Tingyu | Hu Yaoyu | W+R | 2014-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w7Y9BsgEYBlm%2BEtX7ad9MA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第18節 | Huang Yunsong | Hu Yaoyu | B+R | 2014-10-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1yv6aTwrQOUJ1KKYhi1u7A%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第17節 | Hu Yaoyu | Sun Tengyu | W+R | 2014-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XvjGn9ZLdDtr6QIdyYXIcA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第16節 | Xie He | Hu Yaoyu | B+R | 2014-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JFHwzUqC0rFOtj2alzRtbA%3D%3D) | 
-| 第10期威孚房開杯棋王戦1回戦 | Peng Liyao | Hu Yaoyu | B+1.5 | 2014-10-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X0IOyQ4qgM1BpUX1cxhtuw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第15節 | Chen Xian | Hu Yaoyu | W+R | 2014-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y0ZFo010d4DMTmqO2LJgCg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第14節 | Hu Yaoyu | An Dongxu | W+R | 2014-09-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dLUdwqIam1s0Ha4SkNnAfQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Zhong Wenjing | W+R | 2014-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JoyOX9nxuBv288f8li1OfA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第12節 | missing | Hu Yaoyu | W+R | 2014-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NPvWa7foxxqqd2kmBtxshA%3D%3D) | 
-| 第19回三星火災杯統合予選2回戦 | Hu Yaoyu | Shin Minjun | W+3.5 | 2014-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EThCmw%2BF9bs0c6NEK%2BsUEA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第11節 | Park Junghwan | Hu Yaoyu | B+R | 2014-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tq9B602iL5ML4ITuiBOkIw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第10節 | Hu Yaoyu | Shi Yue | B+R | 2014-07-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y5tB%2FuxX9MmMp5NjfKG6xw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第9節 | Hu Yaoyu | Hu Yuhan | W+R | 2014-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MfzgJLIzUmWuprvka5q2xw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第8節 | Hu Yaoyu | Zhou Ruiyang | W+R | 2014-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IFVfO11n%2BjE%2B2JlsY1Kwfw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第7節 | Hu Yaoyu | Peng Quan | B+R | 2014-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jOVyUoXbf6%2FeT4MPnJWBcA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第6節 | Cho Hanseung | Hu Yaoyu | W+R | 2014-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5yeyo2aLg7Zy8Z2kxHZtQQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第5節 | Li Xuanhao | Hu Yaoyu | W+R | 2014-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CsnaMhzfDJ7ppKFVs5lMtA%3D%3D) | 
-| 第11期倡棋杯中国プロ囲碁選手権戦1回戦 | Hu Yaoyu | Tang Weixing | W+3 | 2014-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZOIz6AJrvEHgmTCGlNm1HQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第4節 | missing | Hu Yaoyu | B+R | 2014-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D0Zq4ff4sbRWYz5J883%2FNA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第3節 | Hu Yaoyu | Tao Xinran | W+R | 2014-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YKmdwDmO7cSTwWlL3xHV9g%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第2節 | Chen Yaoye | Hu Yaoyu | W+0.5 | 2014-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FtgKi8%2FkEhxVxDd%2B5wNIZg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第1節 | Hu Yaoyu | Lee Donghoon | B+1.5 | 2014-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WPuGXaZQyGpIX0GYYJKdJg%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦2回戦 | Hu Yaoyu | Zhou Hexi | W+R | 2014-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dVkg8Crh0TC2ldCNHm72qw%3D%3D) | 
-| 第19回LG杯予選 | Hu Yaoyu | Mok Jinseok | W+R | 2014-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ty4OZkGo1sUmMwWZzCdDzg%3D%3D) | 
-| 第27期中国囲碁名人戦1回戦 | Hu Yaoyu | Ke Jie | W+R | 2014-04-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FjIb4ma8WOLAK44X%2B4KFiQ%3D%3D) | 
-| 第27期中国囲碁名人戦予選 | Hu Yaoyu | Xie Erhao | B+R | 2014-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hEH5aN9AkNNlyOicESYsig%3D%3D) | 
-| 第27期中国囲碁名人戦予選 | Han Yizhou | Hu Yaoyu | W+R | 2014-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zHjJKNmksx9TAezVksgT2g%3D%3D) | 
-| 第2回百霊杯世界オープン戦1回戦 | Lee Wonyoung | Hu Yaoyu | B+R | 2014-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MKxEm68xDm4Cvb3FUuAsHg%3D%3D) | 
-| 第28期中国囲碁天元戦予選 | Hu Yaoyu | Li Qincheng | W+R | 2014-01-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o0PxKeo1uxSaVyRKnTGCtw%3D%3D) | 
-| 第14期リコー杯囲碁戦1回戦 | Chen Yunong | Hu Yaoyu | B+R | 2013-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1LQtgGctRa0mE04Kg%2FPzTQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第22節 | Hu Yaoyu | Chen Yaoye | W+R | 2013-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fUZ0geiiHUVQYXFSX6%2Ba2w%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第21節 | Hu Yaoyu | Zhou Ruiyang | W+R | 2013-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a30fptdSTb2LhRyvREPr8w%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第20節 | Hu Yaoyu | Niu Yutian | B+R | 2013-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TZ6nrVSxwdA24j0MuoqQig%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第19節 | Hu Yaoyu | Piao Wenyao | B+R | 2013-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JTH2M8j7SvVRR5vZnzf7%2FA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第18節 | Park Junghwan | Hu Yaoyu | B+R | 2013-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KNNsFY1NvJH3MQxKZDv5Mw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第17節 | Hu Yaoyu | Zhou Hexi | W+R | 2013-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2hNtQb%2F3S96bXs5dNErCmw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第16節 | Xie He | Hu Yaoyu | W+R | 2013-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LJyDJvvTefbPiJrhm0EwhA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第15節 | missing | Hu Yaoyu | W+R | 2013-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3FqDQxBcEUKSD7%2B21om12w%3D%3D) | 
-| 第5期中国竜星戦1回戦 | Wang Xi | Hu Yaoyu | B+R | 2013-09-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ryqRcdWrw63Oz7WbyvSQsw%3D%3D) | 
-| 第5期中国竜星戦予選 | Hu Yaoyu | missing | B+R | 2013-09-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oKFefdUbss371CadAnhMFA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第14節 | Park Yeonghun | Hu Yaoyu | B+R | 2013-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZrCNb5d8YdDKaV6Pvhs0%2BA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Cho Hanseung | B+R | 2013-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ut17XCiqUawo8zoF9G5adA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第12節 | missing | Hu Yaoyu | W+R | 2013-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aqiEzYBlldeRG37bPbv1xA%3D%3D) | 
-| 第9期威孚房開杯棋王戦1回戦 | Hu Yaoyu | Xie He | W+R | 2013-08-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mH6eb4vfJGY9RxVCEp1%2BxQ%3D%3D) | 
-| 第1回夢百合杯世界オープン戦3回戦 | Hu Yaoyu | Gu Li | W+R | 2013-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rg24Fh%2BBNgipCOp7T3yuSQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第11節 | Tuo Jiaxi | Hu Yaoyu | B+R | 2013-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PgqApxg%2Fniw%2BGj%2B%2BT4GAYg%3D%3D) | 
-| 第1回夢百合杯世界オープン戦2回戦 | Hu Yaoyu | Lei Zhenkun | B+R | 2013-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lXgLRloF6EGg09gXmU6Wow%3D%3D) | 
-| 第1回夢百合杯世界オープン戦1回戦 | Hu Yaoyu | Murakawa Daisuke | B+R | 2013-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HdQavlSU%2FI3USbJcuR%2BiIQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第10節 | Zhou Ruiyang | Hu Yaoyu | W+R | 2013-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R8ERoshGkI%2FxuEdi%2FM%2BFzA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第9節 | Hu Yaoyu | missing | W+4.5 | 2013-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WMfgvQXgeiAyYWSCaRJqwA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第8節 | Piao Wenyao | Hu Yaoyu | B+R | 2013-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UB75Y%2BXcKsddkN2ro%2B57Dg%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Xie Erhao | Hu Yaoyu | B+R | 2013-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WbQOywFeIk6UpbqKmFxXGg%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | missing | Hu Yaoyu | W+R | 2013-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fg2qnL3qNSIxfrdcXN2cdg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第7節 | Hu Yaoyu | Xie Erhao | B+3.5 | 2013-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9p6tDIWWf9wbwwuHGbsJjQ%3D%3D) | 
-| 第10期倡棋杯中国プロ囲碁選手権戦2回戦 | Meng Tailing | Hu Yaoyu | B+R | 2013-05-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UN3kW5Xz7Nm%2BEA49dd6miw%3D%3D) | 
-| 第10期倡棋杯中国プロ囲碁選手権戦1回戦 | Jiang Weijie | Hu Yaoyu | W+R | 2013-05-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YMnGU8yXGSMPIoTNWwpKkw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第6節 | Ke Jie | Hu Yaoyu | B+R | 2013-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FlkbdDA%2FeB9CBLHWRGtGmA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第5節 | Hu Yaoyu | Gu Li | W+R | 2013-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Ph7LDYINsnd35jgy%2FWaWA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第4節 | Hu Yaoyu | Tao Xinran | W+R | 2013-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SpRz57TW2PqlP4JoUanUng%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第3節 | missing | Hu Yaoyu | W+R | 2013-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xyvxmPdkMf661HRlBwoG9w%3D%3D) | 
-| 第26期中国囲碁名人戦予選 | Zhao Chenyu | Hu Yaoyu | B+1.5 | 2013-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gQ2kxTnkQcz3HAtyY09YmQ%3D%3D) | 
-| 第26期中国囲碁名人戦予選 | Wang Haoyang | Hu Yaoyu | W+R | 2013-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KtO8GvGx5EVtoXvgyLrocQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第2節 | Hu Yaoyu | Peng Quan | B+R | 2013-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sUwXaNdkgyZkmocxHZfWvg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第1節 | missing | Hu Yaoyu | W+R | 2013-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2gi%2FkM%2FzSNeNSZCp1JrIlg%3D%3D) | 
-| 2013CCTV杯中国囲棋電視快棋戦2回戦 | Hu Yaoyu | Jiang Weijie | W+R | 2013-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TaHNCwaiKZvfazUs6Khc5w%3D%3D) | 
-| 第27期中国囲碁天元戦1回戦 | Yang Dingxin | Hu Yaoyu | B+R | 2013-01-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oSX6VCLN88jlehd3X%2Fh81w%3D%3D) | 
-| 第27期中国囲碁天元戦予選 | Hu Yaoyu | Ding Wei | B+R | 2013-01-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XpPZn4%2FHHVWGT4Wdu9UwDQ%3D%3D) | 
-| 第13期リコー杯囲碁戦2回戦 | Jiang Weijie | Hu Yaoyu | B+R | 2012-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=azsgLCLx%2BBelC%2BQTnQvq5Q%3D%3D) | 
-| 第13期リコー杯囲碁戦1回戦 | Fan Yin | Hu Yaoyu | W+R | 2012-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VIw3EakpxZU38wqPhyFX3w%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第22節 | Ke Jie | Hu Yaoyu | B+R | 2012-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kET%2Bkf%2BvMxZHM0kbIU%2FKAg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第21節 | Hu Yaoyu | Xie He | W+R | 2012-12-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n2ThEwOZUoun6olLQYvurw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第20節 | Hu Yaoyu | Lee Yeongkyu | B+R | 2012-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vQd7OP%2BDX1x3IgLgf%2F11oQ%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第19節 | Jiang Weijie | Hu Yaoyu | W+0.5 | 2012-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qbEQhFq8s%2FWVUoc45AKj3g%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第18節 | Gu Zihao | Hu Yaoyu | W+R | 2012-11-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cXDhJEGWalKV6k%2BfjdpBug%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第17節 | Tang Weixing | Hu Yaoyu | B+R | 2012-10-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2jN5x3QZOZPZ2JyAeFI81w%3D%3D) | 
-| 第4期中国竜星戦3回戦 | Hu Yaoyu | Shi Yue | W+R | 2012-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VPl2DwWMBFL%2FU1iEZoIQog%3D%3D) | 
-| 第4期中国竜星戦2回戦 | Hu Yaoyu | Chang Hao | B+3.5 | 2012-10-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ko1VS739wQ5uKrAIJwNoDg%3D%3D) | 
-| 第4期中国竜星戦1回戦 | Hu Yaoyu | Li Zhangyuan | B+R | 2012-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vN9MCNP%2F3rbMyOWgHUbGPw%3D%3D) | 
-| 第8期威孚房開杯棋王戦予選 | Shi Yue | Hu Yaoyu | B+R | 2012-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Q9mg5qHsNzTWbWAqvding%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第16節 | Park Junghwan | Hu Yaoyu | B+R | 2012-09-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gVaVHHkJXF6fkxAwFMa4PA%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第15節 | Hu Yaoyu | Chen Yaoye | B+R | 2012-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Je58UgljWJF%2FxsGtjQiF2Q%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第14節 | Hu Yaoyu | Huang Chen | B+1.5 | 2012-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a6sAyN2r4HYyvROj7tzJiw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第13節 | Piao Wenyao | Hu Yaoyu | W+R | 2012-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A9y0aBMzJByFD5YuyFzPvg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第12節 | Hu Yaoyu | Mao Ruilong | W+R | 2012-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=37kVLNUIpdUJ0Gov7UI8Yw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第11節 | Hu Yaoyu | Zhou Hexi | W+R | 2012-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hN%2FOaNppUWm%2BEwoQfZDQ0Q%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第10節 | Gu Li | Hu Yaoyu | B+1.5 | 2012-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XD5d291f1mSl2wC0RrkVJA%3D%3D) | 
-| 2012CCTV杯中国囲棋電視快棋戦2回戦 | missing | Hu Yaoyu | B+3.5 | 2012-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8LhtGjQmixxaKc%2BJOIYnww%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第9節 | Hu Yaoyu | Lee Yeongkyu | B+R | 2012-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8%2FgDJy3X8dlBH3nfLnoZzw%3D%3D) | 
-| 第4回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Hu Yaoyu | Piao Wenyao | W+R | 2012-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=biuadEqL6FP%2FfzjieIGqAQ%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第8節 | Zhou Ruiyang | Hu Yaoyu | B+1.5 | 2012-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DNqnA1APkWqfqIFAG5M7NQ%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦予選 | Zhu Yuanhao | Hu Yaoyu | B+R | 2012-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=INPdZ8kH6azv8SGYT49XhA%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦予選 | Hu Yaoyu | missing | B+R | 2012-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z73z55avtd4BwLSlB7OTQA%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦予選 | missing | Hu Yaoyu | W+R | 2012-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u6xBkJx3sKgYuGNMLNwfOA%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第7節 | Hu Yaoyu | Sun Tengyu | B+R | 2012-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UStEcWL%2Fv0eu7KJjqL3Rgg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第6節 | Cho Hanseung | Hu Yaoyu | B+R | 2012-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v18W5%2FuLeiQcL4pyX7qb5Q%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第5節 | Hu Yaoyu | Mi Yuting | B+R | 2012-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U0gKoQSnMgSaSExFdMgFrw%3D%3D) | 
-| 第9期倡棋杯中国プロ囲碁選手権戦2回戦 | Kong Jie | Hu Yaoyu | B+5 | 2012-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xpR78W5v2m2LhN5wVXYY0g%3D%3D) | 
-| 第9期倡棋杯中国プロ囲碁選手権戦1回戦 | Wang Lei (s) | Hu Yaoyu | W+R | 2012-06-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=87Z3Hqb4yTZ9LhWFc%2F0UuA%3D%3D) | 
-| 第4回BCカード杯世界選手権準決勝 | Hu Yaoyu | Paek Hongseok | W+R | 2012-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UGwxuCWttOxxrEXGiXv1wQ%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第2節 | Piao Wenyao | Hu Yaoyu | W+R | 2012-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G03KhhVYVHD%2F7B9nxt0P0g%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第1節 | Hu Yaoyu | Weon Seongjin | W+R | 2012-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mE%2FWpYHkb9BCV%2Bf4bstoQA%3D%3D) | 
-| 第17回LG杯予選 | Cho Hunhyun | Hu Yaoyu | W+R | 2012-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C7BSA9QZKkD4txlJrh2WfA%3D%3D) | 
-| 第4回BCカード杯世界選手権4回戦 | Hu Yaoyu | Xie He | B+R | 2012-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Gn46oAqGUzobj%2FA6a7nUQ%3D%3D) | 
-| 第4回BCカード杯世界選手権3回戦 | Mi Yuting | Hu Yaoyu | W+R | 2012-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C2TyVLUZea4iJApfM5%2FR7w%3D%3D) | 
-| 第25期中国囲碁名人戦2回戦 | Tan Xiao | Hu Yaoyu | B+1.5 | 2012-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l%2FoueszaCo7pOFrbsr70yA%3D%3D) | 
-| 第4回BCカード杯世界選手権2回戦 | Kim Kiyoung | Hu Yaoyu | W+1.5 | 2012-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fNsPpECosxqMKQipG1%2Bhmw%3D%3D) | 
-| 第4回BCカード杯世界選手権1回戦 | Choi Jeong | Hu Yaoyu | W+R | 2012-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KnSzhelv6d9HzbKYE0hhQw%3D%3D) | 
-| 第26期中国囲碁天元戦3回戦 | Hu Yaoyu | Zhou Hexi | W+0.5 | 2012-02-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2uxsExPP3igM%2FSX83ywCvw%3D%3D) | 
-| 第26期中国囲碁天元戦2回戦 | Zhou Ruiyang | Hu Yaoyu | W+R | 2012-02-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IPS0uGrXFN%2B2pN6r4nQJ1w%3D%3D) | 
-| 第26期中国囲碁天元戦1回戦 | Hu Yaoyu | Liu Xing | B+R | 2012-02-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=flC%2BKgI3DHPEfPiDPYjYgw%3D%3D) | 
-| 第12期リコー杯囲碁戦3回戦 | Hu Yaoyu | Zhou Heyang | W+0.5 | 2012-01-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gIXUBLNVRx4v711OXTuVYA%3D%3D) | 
-| 第12期リコー杯囲碁戦2回戦 | Hu Yaoyu | Xiao Wei | B+R | 2011-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iGVpr7S%2BAy7Efn4zdZu%2F%2Fw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第22節 | Tao Xinran | Hu Yaoyu | B+1.5 | 2011-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nEG%2BPB99NexyUmCKfQzQgg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第21節 | Zhou Heyang | Hu Yaoyu | W+4.5 | 2011-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gg6qT1XjYwaGLB7bYkUO9g%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第20節 | Hu Yaoyu | Piao Wenyao | W+R | 2011-11-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xe51j%2FhcaHT59%2BsvVgFJkw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第19節 | Mao Ruilong | Hu Yaoyu | W+R | 2011-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=29pl4A3O5YVZocRpH8aXkA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第18節 | Hu Yaoyu | Wu Guangya | W+R | 2011-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d3jAzHm2hVJmg26%2FrcgLNw%3D%3D) | 
-| 第7期威孚房開杯棋王戦3回戦 | Hu Yaoyu | Tan Xiao | W+R | 2011-10-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q0NuS21aPzELZaEkeJlAXg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第17節 | Gu Li | Hu Yaoyu | B+R | 2011-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bPneUb3pvIuYl5peLKZKrw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第16節 | Luo Xihe | Hu Yaoyu | W+R | 2011-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BeMlgiFIAu%2Bf%2FtSNeD8dLA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第15節 | Hu Yaoyu | Ding Wei | B+R | 2011-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AEFIGolf9KTQMEQkTR9dmA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第14節 | Meng Tailing | Hu Yaoyu | W+R | 2011-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W3ios01fXfHXOfJ%2FddJd9g%3D%3D) | 
-| 第7期威孚房開杯棋王戦2回戦 | Hu Yaoyu | Xie He | B+R | 2011-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pkx7dqflbnN7iyymqyXB2w%3D%3D) | 
-| 第7期威孚房開杯棋王戦1回戦 | Hu Yaoyu | Qiu Jun | B+R | 2011-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FKu0mxPpGnHxu2VH%2BvoWOA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Chen Yaoye | B+1.5 | 2011-09-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=grHT35EAvuoifT7%2BltnkAA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第12節 | Hu Yaoyu | Sun Tengyu | B+R | 2011-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uQpKuZ6nPoV773dRTeM8%2FQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第11節 | Tao Xinran | Hu Yaoyu | W+R | 2011-07-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gCBaAgooaI0lGQI4%2Ff8Pyg%3D%3D) | 
-| 第13期阿含・桐山杯中国早碁オープン戦1回戦 | Hu Yaoyu | Kong Jie | W+0.5 | 2011-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8HEC5fx6dwqXg88cor7MRQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第10節 | Hu Yaoyu | Zhou Ruiyang | W+0.5 | 2011-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CPVle2dLtZJXmpyJQyU%2FPA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第9節 | Piao Wenyao | Hu Yaoyu | W+R | 2011-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bNt2tXxmmNRY0pois7Kqdw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第8節 | Hu Yaoyu | Ke Jie | W+6.5 | 2011-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7kHJHGOjf8VW%2Ba7%2Bjv%2FD5w%3D%3D) | 
-| 第13期阿含・桐山杯中国早碁オープン戦予選 | Hu Yaoyu | Mao Ruilong | B+3.5 | 2011-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hvSzYVyiaICd3Co5%2FlaLug%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第7節 | Hong Seongji | Hu Yaoyu | W+R | 2011-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TusGmU6X2mPsTWTkj7ed9g%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第6節 | Hu Yaoyu | Wang Xi | W+R | 2011-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=faBEYm1s8rcAGPJqs%2BPLKw%3D%3D) | 
-| 第8期倡棋杯中国プロ囲碁選手権戦2回戦 | Gu Li | Hu Yaoyu | B+R | 2011-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EFvBOIMXfbYLRA2CyWg1LQ%3D%3D) | 
-| 第8期倡棋杯中国プロ囲碁選手権戦1回戦 | Hu Yaoyu | Peng Quan | B+7 | 2011-06-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x%2BZU14A9vNUG003xeX6hZA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第5節 | Hu Yaoyu | Luo Xihe | B+5.5 | 2011-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o2fd3wtFU4mMd%2BG74NXojg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第4節 | Ding Wei | Hu Yaoyu | B+R | 2011-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tNI8XAgqTgigq6NIv%2F25jw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第3節 | Peng Quan | Hu Yaoyu | B+R | 2011-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HvzqzdKjVLnwS%2FdOZhyqUw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第2節 | Hu Yaoyu | Kong Jie | B+R | 2011-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P3YqVqnT9fZFv3Wt2TpgPw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第1節 | Hu Yaoyu | Tan Xiao | W+R | 2011-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=imoYSZkgN3dP2OIJWHFtlQ%3D%3D) | 
-| 第3期中国竜星戦2回戦 | Ding Wei | Hu Yaoyu | B+R | 2011-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ESnq0XrKajcbDexUPGNh3w%3D%3D) | 
-| 2011CCTV杯中国囲棋電視快棋戦1回戦 | Hu Yaoyu | missing | W+R | 2011-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W005XXE34ooE%2BWIVNF%2B8OA%3D%3D) | 
-| 第11期リコー杯囲碁戦準決勝 | Tan Xiao | Hu Yaoyu | B+T | 2011-03-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1o%2F3%2BtTwpchnwm5LDP%2BRCQ%3D%3D) | 
-| 第25期中国囲碁天元戦3回戦 | Hu Yaoyu | Zhou Hexi | W+R | 2011-02-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MVSPMWkXbQp9GcQkpnLIYA%3D%3D) | 
-| 第25期中国囲碁天元戦2回戦 | Zhou Ruiyang | Hu Yaoyu | W+R | 2011-02-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=71c2nrhGu2ETHJDqA6EP%2FQ%3D%3D) | 
-| 第25期中国囲碁天元戦1回戦 | Gu Li | Hu Yaoyu | W+R | 2011-02-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6rV%2FhUtLcEJng1zPKeKy8g%3D%3D) | 
-| 第25期中国囲碁天元戦予選 | Zhong Wenjing | Hu Yaoyu | W+R | 2011-02-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WGN%2F0W0GrgRIbF4bV0ZUEg%3D%3D) | 
-| 第11期リコー杯囲碁戦4回戦 | Jiang Weijie | Hu Yaoyu | W+R | 2011-01-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ncc4DjcWKuoYqgzdYC5RRg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第22節 | Hu Yaoyu | Shi Yue | B+1.5 | 2010-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8JgPim19HsV05tX%2FFkcbsg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第21節 | Hu Yaoyu | Tao Xinran | W+2.5 | 2010-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0v00i%2BSu6ZnzD0ROvCycYA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第20節 | Fan Tingyu | Hu Yaoyu | W+R | 2010-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cWgbks%2FsMgG6D39uBZUxkQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第19節 | Zhong Wenjing | Hu Yaoyu | W+R | 2010-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=emkekZEt9KbZ0g0wf1HWug%3D%3D) | 
-| 第15回LG杯世界棋王戦3回戦 | Kong Jie | Hu Yaoyu | B+R | 2010-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7rLEGM1Lfg7KZXJqQdeTrg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第18節 | Hu Yaoyu | Sun Li | B+1.5 | 2010-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rvn1Uk0PbS5H1d%2B%2FGZ7A%2BA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第17節 | Hu Yaoyu | Lee Yeongkyu | W+R | 2010-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tYSo%2BVOTWEDPSvEH%2FKHJzA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第16節 | Meng Tailing | Hu Yaoyu | W+2.5 | 2010-10-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f%2BrNVIlDCVUoeHOwvfeeOA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第15節 | Tao Xin | Hu Yaoyu | B+R | 2010-10-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fzbnFARVxQtbgZBcWz33xA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第14節 | Hu Yaoyu | missing | B+R | 2010-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qzz7z435o80Hb1%2B2XqYqvQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Yu Bin | B+R | 2010-09-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FWLuNpj5froJns4gjQ%2FG%2Bg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第12節 | missing | Hu Yaoyu | W+R | 2010-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3QQEUWq35K8%2BxL9Ttk16%2FA%3D%3D) | 
-| 第6期威孚房開杯棋王戦1回戦 | Hu Yaoyu | Chen Yaoye | W+R | 2010-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1c5Yuc%2FzdMkxEbA2KcZMUw%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第11節 | Li Zhe | Hu Yaoyu | B+R | 2010-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NgPWc9cK%2BWeQCba7MTio%2Fw%3D%3D) | 
-| 第15回三星火災杯統合予選1回戦 | missing | Hu Yaoyu | W+3.5 | 2010-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vjow0WenmkiBTRUslxg00g%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第10節 | Wang Yuhui | Hu Yaoyu | W+R | 2010-07-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lEJiDPyluBZ%2FTqcdFmKrSA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第9節 | Hu Yaoyu | missing | B+R | 2010-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SAATH7wXwaRFFxSoEvRdWQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第8節 | Chen Yaoye | Hu Yaoyu | W+R | 2010-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hw7OSmM7XP1Znl37diW6mQ%3D%3D) | 
-| 第3回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Xie He | Hu Yaoyu | B+R | 2010-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IDG%2FZWuTlezo%2B7G6UDFXag%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第7節 | Sun Li | Hu Yaoyu | B+R | 2010-06-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c4IF3uZj2InOtGSRKdCGYA%3D%3D) | 
-| 第15回LG杯世界棋王戦2回戦 | Chang Hao | Hu Yaoyu | W+R | 2010-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0wRopCAj1XECEufz9jL7Kw%3D%3D) | 
-| 第15回LG杯世界棋王戦1回戦 | Hu Yaoyu | Lee Huiseong | B+R | 2010-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zzTCK3bDg1UXTG1jxUserA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第6節 | Lee Yeongkyu | Hu Yaoyu | B+1.5 | 2010-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fCo0H31TfKNxsMaZI2iqQQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第5節 | Meng Tailing | Hu Yaoyu | B+R | 2010-05-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=32Uopzfk1ocFoxG1bmS3JA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第4節 | Hu Yaoyu | missing | B+R | 2010-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XwS3YkZ7E%2BoZlc4eEWd6bg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第3節 | Hu Yaoyu | Niu Yutian | B+R | 2010-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TJ6321sFOGaWT8K3BERWZA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第2節 | Gu Li | Hu Yaoyu | B+R | 2010-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ERe4tUatW5kasWv3aTw8IQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第1節 | Liu Xing | Hu Yaoyu | W+R | 2010-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0BTuTLZ%2BV%2B1h8s87KPIOKA%3D%3D) | 
-| 第15回LG杯予選 | Hu Yaoyu | Kang Dongyun | B+R | 2010-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Ec4COcKUNUAp%2F63IdQ9tw%3D%3D) | 
-| 第23期中国囲碁名人戦予選 | missing | Hu Yaoyu | W+R | 2010-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4vNaLPBz5gjFertudReLNg%3D%3D) | 
-| 第8回春蘭杯世界囲碁選手権1回戦 | Hu Yaoyu | Choi Cheolhan | W+0.5 | 2010-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6L8o8fxRRpivkA9Zr%2Fevdw%3D%3D) | 
-| 2010CCTV杯中国囲棋電視快棋戦1回戦 | Hu Yaoyu | missing | W+R | 2010-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3BVimEXfipR4bFxWHK59hw%3D%3D) | 
-| 第24期中国囲碁天元戦1回戦 | Hu Yaoyu | Wang Zheming | W+0.5 | 2010-01-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cBLxt9dCBDhSu7tQfXyHEQ%3D%3D) | 
-| 第2回BCカード杯世界選手権統合予選決勝 | Hu Yaoyu | On Sojin | W+R | 2010-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JYPfMLT693hZeSs%2B4Ckw%2Fw%3D%3D) | 
-| 第10期リコー杯囲碁戦2回戦 | Hu Yaoyu | Liao Xingwen | W+R | 2009-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6AEku8k5Ap5KajwFhoDodA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第21節 | Hu Yaoyu | Wang Xi | B+R | 2009-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T630jaDZoS5UJykIgvFWVQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第20節 | Liu Xing | Hu Yaoyu | W+R | 2009-12-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4X3zRiLKDTKuyXwJ5pAWag%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第19節 | Tuo Jiaxi | Hu Yaoyu | W+R | 2009-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TE5HBwSckOsX5RAIjMarIA%3D%3D) | 
-| 第1回全国智力運動会囲碁男子団体戦 | Hu Yaoyu | Chen Yaoye | W+R | 2009-11-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dbGUq%2BBnJezZ%2F1zuACtwbA%3D%3D) | 
-| 第1回全国智力運動会囲碁男子個人戦 | Hu Yaoyu | Wang Yuhui | W+2.5 | 2009-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5W%2FAf4pXgN4gd%2FagjwGmGA%3D%3D) | 
-| 第14回LG杯世界棋王戦3回戦 | Hu Yaoyu | Park Yeonghun | W+R | 2009-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=458kKj8qgc2VMmOD9drs%2Bw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第17節 | Hu Yaoyu | missing | B+R | 2009-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CCmxbmRxh8UMbSQMoqB8BA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第18節 | missing | Hu Yaoyu | W+R | 2009-10-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=abhrndW1ShCIsVcSZuFM2Q%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第14節 | Hu Yaoyu | Luo Xihe | B+R | 2009-10-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hzui14Y4un9%2BXsG6dz7kCA%3D%3D) | 
-| 第5期威孚房開杯棋王戦1回戦 | Nie Weiping | Hu Yaoyu | B+R | 2009-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jPOI86Zm44C%2BmSrO3lkENQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第16節 | Piao Wenyao | Hu Yaoyu | W+R | 2009-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rk7S0QOsBA1FLsMQZpYBrQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第15節 | Niu Yutian | Hu Yaoyu | B+1.5 | 2009-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=36fxgdUV2zhsq6%2FH1gq7Rw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Meng Tailing | W+R | 2009-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=twmTOuufGd%2FqXsME9CDEsg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第12節 | Hu Yaoyu | Sun Li | W+R | 2009-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SGmDDIZoDbYajuyeA3McTw%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦1回戦 | Hu Yaoyu | Gu Li | W+R | 2009-08-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bwHmcZA8811etM0ztC676w%3D%3D) | 
-| 第14回三星火災杯統合予選決勝 | Kim Jiseok | Hu Yaoyu | B+5.5 | 2009-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fh8mSRKtPCAc%2FwS4w9XOFQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第11節 | Zhong Wenjing | Hu Yaoyu | W+R | 2009-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ft3v7YbXIodCtnpoRMZOhQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第10節 | Gu Li | Hu Yaoyu | B+R | 2009-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pMPIbb6m9gh4tYHrq2ITog%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第9節 | Hu Yaoyu | Liu Xing | W+R | 2009-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mdj8mTAYYSadkE92YxaU1Q%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | Mao Ruilong | Hu Yaoyu | W+R | 2009-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sHT7Mflo0Rv8hNG2PVkSkg%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | Hu Yaoyu | missing | B+R | 2009-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n0haVKuv2ePl20KwlrkIeg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第8節 | Kong Jie | Hu Yaoyu | W+R | 2009-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dRBvq1L6o9UExmMOm2kjTg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第7節 | Wang Yao | Hu Yaoyu | W+R | 2009-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n7ESiyN3MFREAaxDQLRCmg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第6節 | Shao Weigang | Hu Yaoyu | W+0.5 | 2009-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ULo4DBucyeI95JOBfsiyVA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第5節 | Piao Wenyao | Hu Yaoyu | W+R | 2009-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EI5BZk5QRpnmumJGhaPLXQ%3D%3D) | 
-| 第6期倡棋杯中国プロ囲碁選手権戦2回戦 | Hu Yaoyu | Wang Xi | W+3 | 2009-06-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vzCkm3rOml%2F4CQweHMqKdg%3D%3D) | 
-| 第6期倡棋杯中国プロ囲碁選手権戦1回戦 | Hu Yaoyu | Wang Yuhui | B+1 | 2009-05-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CPLTeN8iXUSdbABdX2HYFQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第4節 | Hu Yaoyu | Ding Wei | W+R | 2009-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=saxXh7IvuPxO%2FYDBU5lk0A%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第3節 | Peng Quan | Hu Yaoyu | W+R | 2009-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tc6u29qyIi6ov%2BQLmbGVvQ%3D%3D) | 
-| 第14回LG杯世界棋王戦2回戦 | Hu Yaoyu | Weon Seongjin | B+1.5 | 2009-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=URBuH30nBprOAWGVFSC4xg%3D%3D) | 
-| 第14回LG杯世界棋王戦1回戦 | Hu Yaoyu | Kim Seongjae | B+R | 2009-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RqQWJagxUY8br1yHx%2B6crA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第2節 | Wang Haoyang | Hu Yaoyu | W+R | 2009-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i%2F2GalIwPN0JJszN%2FHVZYg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第1節 | Lee Yeongkyu | Hu Yaoyu | B+R | 2009-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VAvRW0GWT40tfkf3YwIDzA%3D%3D) | 
-| 第1回BCカード杯世界選手権2回戦 | Hu Yaoyu | Heo Yongho | W+1.5 | 2009-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=npE7Xf4k11KLRg2TF5AqzA%3D%3D) | 
-| 第1回BCカード杯世界選手権1回戦 | Paek Daehyun | Hu Yaoyu | W+R | 2009-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MKHBejDxn8tUbwT3Z6G6hw%3D%3D) | 
-| 2009CCTV杯中国囲棋電視快棋戦2回戦 | Gu Lingyi | Hu Yaoyu | B+3.5 | 2009-02-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GyrWaHg6qHfQvv1xhahMJA%3D%3D) | 
-| 第23期中国囲碁天元戦2回戦 | Zhou Ruiyang | Hu Yaoyu | B+R | 2009-02-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qgmrjGVlP%2BfJSXX07eQ0aw%3D%3D) | 
-| 第23期中国囲碁天元戦1回戦 | Yu Bin | Hu Yaoyu | W+4.5 | 2009-02-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ImkzDa0bzs4%2F7KWPlvXAPw%3D%3D) | 
-| 第9期リコー杯囲碁戦3回戦 | Kong Jie | Hu Yaoyu | B+R | 2009-02-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TS54rFpHYGskqHOKKFnxpg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第22節 | Hu Yaoyu | Ma Xiaochun | B+1.5 | 2008-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F1YXXeImVbs4sXfyF8jA8Q%3D%3D) | 
-| 第9期リコー杯囲碁戦2回戦 | Li Kang | Hu Yaoyu | W+R | 2008-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z0S9XuAwO5hhkWV0GmramA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第21節 | Wang Lei (s) | Hu Yaoyu | W+0.5 | 2008-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ku5TpBoB6wIas%2BSege%2FtDw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第20節 | Gu Li | Hu Yaoyu | B+R | 2008-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PqfJjSRGxUPzzAN%2FR%2FpYVA%3D%3D) | 
-| 第14期NEC杯囲碁戦準決勝 | Kong Jie | Hu Yaoyu | B+5.5 | 2008-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wBW3bc4xYBhlqWi0w2UKjw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第19節 | Hu Yaoyu | Peng Quan | W+0.5 | 2008-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pABYcR9wakai00Pnke4bng%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第17節 | Piao Wenyao | Hu Yaoyu | W+R | 2008-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uj8gXIY%2BbkpCy4r35n1jyg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第18節 | Kong Jie | Hu Yaoyu | W+0.5 | 2008-11-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=78odYOD3o6hMXJmgxKpnVA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第16節 | Hu Yaoyu | Ding Wei | B+R | 2008-11-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y9Anb8n8pRbpWH%2Bubuq%2FQA%3D%3D) | 
-| 第2回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Wang Yao | Hu Yaoyu | B+R | 2008-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EvLVGiiZ9oruA%2FYt3yxHxQ%3D%3D) | 
-| 第14期NEC杯囲碁戦2回戦 | Li Zhe | Hu Yaoyu | W+R | 2008-11-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bm7FyFdhdYv1WeuraiqCmA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第15節 | Hu Yaoyu | Zhou Ruiyang | B+1.5 | 2008-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sNCyiJJrZ1evHmJmAjj1bg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第14節 | Niu Yutian | Hu Yaoyu | W+R | 2008-11-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7fReutqDcPT%2Ff1oN3DghhA%3D%3D) | 
-| 第4期威孚房開杯棋王戦1回戦 | Ma Xiaochun | Hu Yaoyu | B+R | 2008-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DyNlG968ru22cIUXtA5ehQ%3D%3D) | 
-| 第10期阿含・桐山杯中国早碁オープン戦1回戦 | missing | Hu Yaoyu | B+R | 2008-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vuY%2F3McKTOq16%2BVtrD6PUg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Lee Yeongkyu | W+R | 2008-07-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qHCt0BhSJzJaJUCUwuIhEg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第12節 | Hu Yaoyu | missing | B+R | 2008-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0bYfLwCMsoy4EoftA8FKiA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第11節 | missing | Hu Yaoyu | B+1.5 | 2008-06-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F8fX80j9rBL0kvtt8mVAlA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第10節 | Hu Yaoyu | Wang Lei (s) | B+R | 2008-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F65J4i1yB20FP9QpFi1UKw%3D%3D) | 
-| 第2回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Hu Yaoyu | Ding Wei | B+R | 2008-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nz4oEelZfiIe3%2FOgx%2BpIyA%3D%3D) | 
-| 第2回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Li Zhe | Hu Yaoyu | W+R | 2008-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DzRa2eB6xQeuN3EGrJjq4Q%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第9節 | Hu Yaoyu | Gu Li | B+R | 2008-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yKtVsUS2SexXhovKhOxTwA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第7節 | Tuo Jiaxi | Hu Yaoyu | B+R | 2008-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eBUYahx7QRja72HwKlPhkg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第8節 | Huang Yizhong | Hu Yaoyu | W+2.5 | 2008-05-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c%2FZfbvBeMiw6ylXEx4BrSA%3D%3D) | 
-| 第5期倡棋杯中国プロ囲碁選手権戦2回戦 | Hu Yaoyu | Zhou Ruiyang | W+1 | 2008-05-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5NYUraKMFBNiEYj7KE5XZw%3D%3D) | 
-| 第5期倡棋杯中国プロ囲碁選手権戦1回戦 | Hu Yaoyu | Niu Yutian | B+R | 2008-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vMdmUZ3Ei6LinyfP0L5tAA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第6節 | Hu Yaoyu | Shi Yue | B+R | 2008-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ifQF743We3aLeiz01qYjtw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第5節 | Wang Yao | Hu Yaoyu | B+R | 2008-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0f9V1V%2FO%2BkhKFUFXBZZvyw%3D%3D) | 
-| 第6回応氏杯世界選手権1回戦 | Hu Yaoyu | Lee Sedol | W+5 | 2008-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9a5P2pIY7kUKippcEo6C%2Fg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第4節 | Zhou Heyang | Hu Yaoyu | W+R | 2008-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Owv3fsnx93OSZEdorB4d%2Bw%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯1回戦 | Hu Yaoyu | Lee Yeongkyu | W+T | 2008-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DY%2B3yY8FQXfvgJhjypi1AQ%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第3節 | Liao Xingwen | Hu Yaoyu | W+4.5 | 2008-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4127RRCrLeBV3lEIyjJvuA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第2節 | Lee Yeongkyu | Hu Yaoyu | B+R | 2008-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dXj%2Bqz1HzS52sTWf8o5f1g%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第1節 | Meng Tailing | Hu Yaoyu | B+R | 2008-03-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=otRD7WzUPwUXNfVyRdPqcw%3D%3D) | 
-| 第8期リコー杯囲碁戦準決勝 | Qiu Jun | Hu Yaoyu | B+R | 2008-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gSjktECnwD1kdvg4bDd1zA%3D%3D) | 
-| 第8期リコー杯囲碁戦4回戦 | Hu Yaoyu | Piao Wenyao | B+R | 2008-03-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZM343lzT37cKPK0P2Qa4WA%3D%3D) | 
-| 第8期リコー杯囲碁戦3回戦 | Li Zhe | Hu Yaoyu | W+R | 2008-03-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H4kEmMCQ8lPUP2Ixd77I%2FQ%3D%3D) | 
-| 第21期中国囲碁名人戦2回戦 | Hu Yaoyu | Wang Lei (b) | W+R | 2008-03-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Is5JFrNHCpbM1GFo%2BracQ%3D%3D) | 
-| 第21期中国囲碁名人戦1回戦 | Ding Lie | Hu Yaoyu | W+R | 2008-02-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D8i1I%2BdwpP4SWZjTZyWGxw%3D%3D) | 
-| 第22期中国囲碁天元戦1回戦 | Hu Yaoyu | Gu Lingyi | W+R | 2008-01-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dJJgbeMZgAHFmMnC9Tp9Kg%3D%3D) | 
-| 第8期リコー杯囲碁戦2回戦 | Ding Wei | Hu Yaoyu | W+2.5 | 2008-01-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wnpdWZZ6Evre72a6P4hrjA%3D%3D) | 
-| 2008CCTV杯中国囲棋電視快棋戦2回戦 | Hu Yaoyu | Zhu Songli | W+R | 2007-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tx9Paizt4RmFigbAiagb6w%3D%3D) | 
-| 2008CCTV杯中国囲棋電視快棋戦1回戦 | Hu Yaoyu | missing | B+R | 2007-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jNgiZHdumCF8OLAEQM6vUA%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第22節 | Hu Yaoyu | Huang Yizhong | W+R | 2007-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3di4XcsL5xfUhfiv34LcnA%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第21節 | Tao Xin | Hu Yaoyu | W+R | 2007-12-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sVxr6MltaE7%2BnnSLAiu%2Fcg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第19節 | Meng Tailing | Hu Yaoyu | W+2.5 | 2007-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BjfdnMmOeEKUREIvKjhbwg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第20節 | Hu Yaoyu | missing | B+R | 2007-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uGP2zh8xQDegZWXRYPyInQ%3D%3D) | 
-| 第9回農心辛ラーメン杯世界囲碁最強戦第8戦 | Hu Yaoyu | Mok Jinseok | W+0.5 | 2007-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BR29QgyuEqdmAuEALGv1Hw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第18節 | Wang Xi | Hu Yaoyu | W+0.5 | 2007-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MUtdQx8OKtsQiE4co49Ugg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第17節 | Zhou Heyang | Hu Yaoyu | W+R | 2007-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aehX9Be8UxFmPHvapjmAEw%3D%3D) | 
-| 第12回LG杯世界棋王戦準決勝 | Lee Sedol | Hu Yaoyu | B+R | 2007-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y04iHDNTNSxzID2aGD0J0A%3D%3D) | 
-| 第12回LG杯世界棋王戦3回戦 | Hu Yaoyu | Park Cheongsang | B+R | 2007-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nal2kKKEN5t%2FxzDOIf5oyQ%3D%3D) | 
-| 第3期威孚房開杯棋王戦決勝 | Hu Yaoyu | Ma Xiaochun | B+5.5 | 2007-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Tw%2BiMgXcoT7vSs96J29bw%3D%3D) | 
-| 第3期威孚房開杯棋王戦準決勝 | Wang Yuhui | Hu Yaoyu | W+R | 2007-11-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DD2R2rTA%2BsqeZf6gKEotLQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第15節 | Liao Xingwen | Hu Yaoyu | W+R | 2007-11-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dCV93Xk7BLjH5GqIBQtTgg%3D%3D) | 
-| 第4期倡棋杯中国プロ囲碁選手権戦2回戦 | Zhou Heyang | Hu Yaoyu | B+1 | 2007-10-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=24BTNuvYsf%2FPAkzwC7Lcag%3D%3D) | 
-| 第4期倡棋杯中国プロ囲碁選手権戦1回戦 | Hu Yaoyu | Tao Xinran | B+R | 2007-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m4wcdHEFf5rGiZZ%2BIK9XhA%3D%3D) | 
-| 第9期阿含・桐山杯中国早碁オープン戦2回戦 | Hu Yaoyu | Liu Xing | W+R | 2007-10-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FCE8dC5YO8hBKH5LlxallA%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第14節 | Wang Yao | Hu Yaoyu | B+R | 2007-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JOFCJlQ4MF%2F5RPOCwgrI5Q%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第13節 | Chen Yaoye | Hu Yaoyu | W+R | 2007-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PKwMIAKFafImW6yWcnRmTg%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権3回戦 | Huang Yizhong | Hu Yaoyu | B+2.5 | 2007-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hjZ3ea8qY9ntpswh2olNNw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第12節 | Hu Yaoyu | Lee Sedol | W+R | 2007-09-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vbkqwM2t6fKAKP0WV5lnCA%3D%3D) | 
-| 第20期中国囲碁名人戦準決勝 | Ding Wei | Hu Yaoyu | B+R | 2007-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eVZgnHDMs6enxRBXJFVeEw%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権2回戦 | Hu Yaoyu | Hong Seongji | B+R | 2007-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zOcI413y1LKjTsWtM%2F58YQ%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権1回戦 | Mok Jinseok | Hu Yaoyu | W+R | 2007-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7BUXTGg5Ie%2B5Yh2tcyEnsQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第11節 | Huang Yizhong | Hu Yaoyu | B+R | 2007-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dr0bTbB2vxodLFvJPfxvTg%3D%3D) | 
-| 第20期中国囲碁名人戦3回戦 | Hu Yaoyu | Wang Xi | B+R | 2007-08-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uLpZAO7SF6fmKEjLUQGL9g%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第10節 | missing | Hu Yaoyu | W+R | 2007-08-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wUGJl9kdzW%2B%2BJ7uYocX1PA%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第9節 | Ma Xiaochun | Hu Yaoyu | B+R | 2007-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FFe5pEQa2PAtqX37bO9r6Q%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第8節 | missing | Hu Yaoyu | W+R | 2007-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ObEtjWVx5AKzkZoc70tw5g%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第7節 | Hu Yaoyu | Wang Xi | W+R | 2007-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q%2FoIeTGdDiOlLR9F9Ax8XA%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第6節 | Shao Weigang | Hu Yaoyu | W+R | 2007-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0CoIzp6xFwATULYR5jAnEA%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第5節 | missing | Hu Yaoyu | B+R | 2007-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ekux6D5T29YlBtKkfHUaYg%3D%3D) | 
-| 第9期阿含・桐山杯中国早碁オープン戦1回戦 | Hu Yaoyu | Xie He | B+R | 2007-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O9bqp%2BJODkyJetT43FMW1A%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第4節 | missing | Hu Yaoyu | W+R | 2007-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AhtfnVIoKrrF4foawMDoAw%3D%3D) | 
-| 第12回LG杯世界棋王戦2回戦 | Cho Hunhyun | Hu Yaoyu | W+2.5 | 2007-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SAdWT%2BWOKYJU3xWqH%2FIaZQ%3D%3D) | 
-| 第12回LG杯世界棋王戦1回戦 | Lee Changho | Hu Yaoyu | W+0.5 | 2007-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wObThBI8qY%2BVIB0Luv6LFA%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯3回戦 | Lee Changho | Hu Yaoyu | B+2.5 | 2007-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nc7e9Nz0En18WW%2BtWJwWwg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第3節 | Hu Yaoyu | Ding Wei | B+9.5 | 2007-05-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0PesILPjycy4NCkPpe%2FNPQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第2節 | Kong Jie | Hu Yaoyu | W+R | 2007-05-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XKyBzy8scWYAG1O7F12Uug%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第1節 | Hu Yaoyu | Wang Lei (b) | B+1.5 | 2007-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yLTlsYgeLritA2y9dEJhmQ%3D%3D) | 
-| 第13期NEC杯囲碁戦1回戦 | Tuo Jiaxi | Hu Yaoyu | B+R | 2007-04-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iFRy0f8Cd3eAMrYtlvu%2BEg%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯2回戦 | Yamashita Keigo | Hu Yaoyu | W+2.5 | 2007-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QGMsJB%2FDAbPGEuIBgBCHBA%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯1回戦 | Yuki Satoshi | Hu Yaoyu | W+R | 2007-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QT2Hi%2Bxkhi09snhHFl8%2BOQ%3D%3D) | 
-| 第20期中国囲碁名人戦2回戦 | Hu Yaoyu | Li Zhe | B+R | 2007-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KfoS6RoJ2USBHXAOop3w0A%3D%3D) | 
-| 第20期中国囲碁名人戦1回戦 | Hu Yaoyu | missing | B+R | 2007-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eQV9lZdVkDpC28zMfHq1nA%3D%3D) | 
-| 第7期リコー杯囲碁戦決勝 | Hu Yaoyu | Chang Hao | B+R | 2007-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gYtn5mCMrwH7Levmd%2BDXAQ%3D%3D) | 
-| 第11回LG杯世界棋王戦決勝三番勝負第3局 | Zhou Junxun | Hu Yaoyu | B+0.5 | 2007-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2lg%2FFzJdt1nSliVEOgeE0A%3D%3D) | 
-| 第11回LG杯世界棋王戦決勝三番勝負第2局 | Hu Yaoyu | Zhou Junxun | B+0.5 | 2007-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ovm5Bq9HL%2FZM8cI3nuvyrw%3D%3D) | 
-| 第11回LG杯世界棋王戦決勝三番勝負第1局 | Zhou Junxun | Hu Yaoyu | B+R | 2007-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mNaR2RWH6jexbm2P%2FSBRSQ%3D%3D) | 
-| 第7期リコー杯囲碁戦準決勝 | Hu Yaoyu | Piao Wenyao | B+R | 2007-03-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mk6wzJs2%2FZrcut7KgnjYCw%3D%3D) | 
-| 第11回LG杯世界棋王戦準決勝 | Cho Hanseung | Hu Yaoyu | W+1.5 | 2007-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aPTcmJxInToIUQPgr8C%2FUA%3D%3D) | 
-| 第21期中国囲碁天元戦3回戦 | Hu Yaoyu | Liu Shizhen | W+R | 2007-02-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RN0tDn0tPB1gvusWP9t7LA%3D%3D) | 
-| 第13期NEC杯囲碁戦予選 | Hu Yaoyu | Chen Yaoye | B+R | 2007-02-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aYvbx%2FiJXAGbucSWiFQA5w%3D%3D) | 
-| 第21期中国囲碁天元戦2回戦 | Chang Hao | Hu Yaoyu | W+0.5 | 2007-02-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KZCGIH7VSeAazVBiGFVCHw%3D%3D) | 
-| 第21期中国囲碁天元戦1回戦 | Hu Yaoyu | missing | B+R | 2007-01-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dGFZxmfVlwYfd5H%2FGpid%2BQ%3D%3D) | 
-| 第7期リコー杯囲碁戦4回戦 | Hu Yaoyu | Kong Jie | B+T | 2006-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hy2K2VGQ7Fkq5HhvikKDrw%3D%3D) | 
-| 第7期リコー杯囲碁戦3回戦 | Niu Yutian | Hu Yaoyu | W+R | 2006-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L2rjF9%2BqKrX4tsMJHHabcQ%3D%3D) | 
-| 第3期倡棋杯中国プロ囲碁選手権戦準決勝第3局 | Gu Li | Hu Yaoyu | B+R | 2006-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yYLp2EjKwokPdFeXAIdDpg%3D%3D) | 
-| 第3期倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Hu Yaoyu | Gu Li | B+R | 2006-12-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0e6txQ54mkfk2F6Z7ysxFQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第22節 | Luo Xihe | Hu Yaoyu | W+R | 2006-12-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Eo8Ul%2ByuiC6uPQS6AJrkVw%3D%3D) | 
-| 2007CCTV杯中国囲棋電視快棋戦1回戦 | Tuo Jiaxi | Hu Yaoyu | B+R | 2006-12-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zvaOWH0sUxgLzRFPTI4%2BLw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第21節 | Hu Yaoyu | missing | B+R | 2006-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Frdde%2BX1dIgH2bmygT6B6w%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第18節 | Hu Yaoyu | Chen Yaoye | W+R | 2006-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AXUGrwEOpfOEFXpm8I96QA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第20節 | Hu Yaoyu | Wang Haoyang | W+R | 2006-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZAeUBIPdRWwv%2FsrqvdNOKg%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第19節 | Hu Yaoyu | missing | B+R | 2006-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KikPoegLg7O9KHHp2BWsvw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第17節 | Ma Xiaochun | Hu Yaoyu | B+R | 2006-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bzc5C7k1HAXX8seBeqacMw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第16節 | Niu Yutian | Hu Yaoyu | W+R | 2006-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wUvIS7oIo6iU4xmeO5fERQ%3D%3D) | 
-| 第3期倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Gu Li | Hu Yaoyu | B+1 | 2006-11-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FkVU6VHL%2BogU6PLiawzKXA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第15節 | Hu Yaoyu | Nie Weiping | B+1.5 | 2006-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lZgEsS%2Fe117eSgK701oHkg%3D%3D) | 
-| 第11回LG杯世界棋王戦3回戦 | Lee Changho | Hu Yaoyu | W+R | 2006-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WK0RyIuK%2Bp29TeS3x1QOqQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第14節 | Gu Li | Hu Yaoyu | W+R | 2006-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Ubw2Rv6qVsXSZ0TXIrAvg%3D%3D) | 
-| 第3期倡棋杯中国プロ囲碁選手権戦3回戦 | Chen Yaoye | Hu Yaoyu | W+1 | 2006-10-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CsIk2z65VNQwrLxEEDzwrQ%3D%3D) | 
-| 第3期倡棋杯中国プロ囲碁選手権戦2回戦 | missing | Hu Yaoyu | W+R | 2006-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=biTjrVDiFK4j8cJUrb%2Bwlg%3D%3D) | 
-| 第3期倡棋杯中国プロ囲碁選手権戦1回戦 | Zhang Xuan | Hu Yaoyu | W+R | 2006-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j1sGecDAo6eeUHyB8WugYA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Zhou Heyang | W+R | 2006-10-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2FqLTZn1jVMKx62HAd81NQ%3D%3D) | 
-| 第8期阿含・桐山杯中国早碁オープン戦準決勝 | Liu Xing | Hu Yaoyu | B+3.5 | 2006-10-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kis6RqNe9MV2gVT1LdArFQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第12節 | Hu Yaoyu | missing | B+R | 2006-10-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U6XlIsZ%2FrVCzcGzan0uMuA%3D%3D) | 
-| 第8期阿含・桐山杯中国早碁オープン戦2回戦 | Xie He | Hu Yaoyu | W+R | 2006-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H2onF7bGPpu0V5PD%2FX4G3w%3D%3D) | 
-| 第6回春蘭杯世界囲碁選手権3回戦 | Hu Yaoyu | Chang Hao | W+0.5 | 2006-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9%2BfhoxZ4lCTmyxMeGusKvg%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権1回戦 | Lee Changho | Hu Yaoyu | B+R | 2006-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yHocy54nw2Vl5b%2B0CEh0pw%3D%3D) | 
-| 第8期阿含・桐山杯中国早碁オープン戦1回戦 | Hu Yaoyu | Zhu Yuanhao | B+R | 2006-08-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p247NyY0BwVXKjD5O3ZvIQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第11節 | Piao Wenyao | Hu Yaoyu | W+R | 2006-08-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6mmMuL5F59HRfir5ugVkag%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第10節 | Hu Yaoyu | Huang Yizhong | W+0.5 | 2006-07-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7hNYA6Vz9FgXGJInEzhmvQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第9節 | Hu Yaoyu | Zhu Yi | B+R | 2006-07-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KjPe1opjdLmdRQCtCj5ZkQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第8節 | Wang Yao | Hu Yaoyu | B+R | 2006-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sJS4zoG96pu6pn%2BTmn7r1w%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第7節 | Hu Yaoyu | Kong Jie | W+0.5 | 2006-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=65GBdLFFIzccA7ZZB4AIzg%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第6節 | Ma Xiaochun | Hu Yaoyu | W+R | 2006-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N2fPVMlxqWcAM%2FbHUt6y3A%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第5節 | Hu Yaoyu | Wu Guangya | B+R | 2006-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qsAHrOktM5mJeDx1wZUoDw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第4節 | Wang Yuhui | Hu Yaoyu | W+R | 2006-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=voXO8HADFtgRIybE2Emedg%3D%3D) | 
-| 第11回LG杯世界棋王戦2回戦 | Hu Yaoyu | Yamashita Keigo | B+3.5 | 2006-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ym6CcnLVZL2sgHuGJfe4qw%3D%3D) | 
-| 第11回LG杯世界棋王戦1回戦 | Cho Hunhyun | Hu Yaoyu | W+5.5 | 2006-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GotsqNzCBqHjgpAplqoEDQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第3節 | Hu Yaoyu | Gu Li | W+R | 2006-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rWRF0B7WmNgG9%2FlxaxvrWQ%3D%3D) | 
-| 第11回LG杯予選 | Rui Naiwei | Hu Yaoyu | W+1.5 | 2006-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rnabYWmBaXCHqc93m5Xbhg%3D%3D) | 
-| 第11回LG杯予選 | Hu Yaoyu | Ha Sungbong | B+R | 2006-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BWoCKx8XO1H0gSckZopwUQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第1節 | missing | Hu Yaoyu | W+R | 2006-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gcLs%2Fbfha0DNSROg2xzshA%3D%3D) | 
-| 2006CCTV杯中国囲棋電視快棋戦2回戦 | Hu Yaoyu | Li Jie | W+R | 2006-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nINvNk97WWEZSTAabGB1SQ%3D%3D) | 
-| 第12期NEC杯囲碁戦予選 | Qiu Jun | Hu Yaoyu | B+1.5 | 2006-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kAXE7wpW840Hsyf3hl4rOA%3D%3D) | 
-| 第6回春蘭杯世界囲碁選手権2回戦 | Yoda Norimoto | Hu Yaoyu | W+R | 2006-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XXkexFKbk2Pueq2huL7ryA%3D%3D) | 
-| 2006CCTV杯中国囲棋電視快棋戦1回戦 | Liu Jing | Hu Yaoyu | W+R | 2006-01-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ij104fNC7h1jie8zBckZAw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第22節 | Hu Yaoyu | Dong Yan | B+R | 2005-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lGs0y4OWPEkWnznwyhCYow%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第21節 | Hu Yaoyu | Piao Wenyao | B+R | 2005-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5MFXOxTMu6heYlT9GpadOQ%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権準決勝三番勝負第3局 | Lee Changho | Hu Yaoyu | B+R | 2005-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bXt2Y6U6ckHtAyoDtJXRFQ%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権準決勝三番勝負第2局 | Lee Changho | Hu Yaoyu | W+1.5 | 2005-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KM%2FKcTyaVuMPK1I0HuQIgA%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権準決勝三番勝負第1局 | Hu Yaoyu | Lee Changho | W+R | 2005-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZHAEnf42tB9NQHhIHAMceQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第20節 | Hu Yaoyu | Yu Bin | B+R | 2005-12-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O%2FtGhBmYaKKNCa7bmzNumg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第19節 | missing | Hu Yaoyu | W+2.5 | 2005-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AX7iEtTiyiWvktiaZ0shpA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第18節 | Hu Yaoyu | missing | B+R | 2005-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hNimwBtQZATSTlpmiVVCAQ%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権3回戦 | Hu Yaoyu | Kim Myeongwan | B+R | 2005-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fXT6FXMSb9Tb7M7qIGxiew%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第17節 | Kong Jie | Hu Yaoyu | B+R | 2005-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WWMxbFJbt7%2B4rRlF0hK6fw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第16節 | Hu Yaoyu | Zhou Heyang | W+4.5 | 2005-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=negjzxkPwNy61q6anPXYqg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第15節 | Hu Yaoyu | Zhu Yuanhao | B+3.5 | 2005-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pWaSdcnKvfskLAmCTO2YYA%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第3戦 | Hu Yaoyu | Cho Hanseung | W+3.5 | 2005-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q51GVXN8D5Yz7vdTAvuuvQ%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第2戦 | Hu Yaoyu | Yamashita Keigo | B+R | 2005-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pu8RAdaOzgUVnhdV9Hhbng%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第1戦 | Hu Yaoyu | Lin Zhihan | B+R | 2005-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=28X4a%2FkqC1OwUr65AJ84mA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第13節 | Hu Yaoyu | missing | W+R | 2005-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zuhy1JhQq3PVHoVX%2Ba%2BMLQ%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権2回戦 | Yoo Jaeho | Hu Yaoyu | W+R | 2005-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SRr4TK4neKpAHlmfEnwrbA%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権1回戦 | Hu Yaoyu | Park Yeonghun | B+R | 2005-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e6Hg99EFix%2Fp1r18y5D42Q%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第11節 | Hu Yaoyu | Huang Chen | B+R | 2005-08-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rHh5ie3KcY9CqwaWH5fFYQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第10節 | Hu Yaoyu | Piao Wenyao | W+0.5 | 2005-08-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HAkvkLHn8Nv5L%2FbxWwd60Q%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第9節 | Yu Bin | Hu Yaoyu | B+7.5 | 2005-08-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MAB3EvlPfyohMpLLns0Nnw%3D%3D) | 
-| 2005年中国段位戦 | Hu Yaoyu | Ding Wei | B+R | 2005-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aqm2%2F4ZnQcMnjBceHAXZlA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第8節 | Hu Yaoyu | Yin Hang | B+R | 2005-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mGKcUNlm3OxZzko6pzI81w%3D%3D) | 
-| 第7回農心杯中国選抜戦 | Gu Li | Hu Yaoyu | B+R | 2005-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V1uJ9jPTKC3vXwZ%2F3AesLw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第7節 | Hu Yaoyu | Ma Xiaochun | W+R | 2005-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jJD5wmQv4f936%2ByMODzoDw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第6節 | Hu Yaoyu | Wang Yang | B+R | 2005-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bVLiTcVzfqe37prj8OIHTA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第5節 | Hu Yaoyu | Zhou Heyang | B+R | 2005-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LwvLSDOxhhKB%2BVN7ZiyIFQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第4節 | Hu Yaoyu | missing | B+R | 2005-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ig2gx4DEVNz%2B5ZtL2AfHow%3D%3D) | 
-| 第1回日月星杯中韓囲碁対抗戦第4戦 | Yoo Changhyuk | Hu Yaoyu | B+R | 2005-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fbSxu66nqPwKV%2FmHS09CBw%3D%3D) | 
-| 第1回日月星杯中韓囲碁対抗戦第3戦 | Hu Yaoyu | Choi Cheolhan | W+R | 2005-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MXzBS4QyPD5LgU6BxLc6vQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第3節 | missing | Hu Yaoyu | W+R | 2005-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VyDvSsOvHGiFzmsYCZdevg%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第3戦 | Hu Yaoyu | Kim Seonryong | B+2.5 | 2005-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bwLGIQW0sSXZyZk0667dcA%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第2戦 | Hu Yaoyu | O Meien | B+R | 2005-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3DymiQ1wP61UwPU0fi%2BnVw%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第1戦 | Yuki Satoshi | Hu Yaoyu | B+R | 2005-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gXTs1gtXF5PKHKrWj1A28Q%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第2節 | Liu Jing | Hu Yaoyu | W+0.5 | 2005-04-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vlLCl69YbLwHsUm%2Fm6fRbQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第1節 | Hu Yaoyu | Huang Yizhong | W+R | 2005-04-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lRdbPoIiVTpGGo069%2B6DNw%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権三位決定戦 | Hu Yaoyu | Peng Quan | W+R | 2005-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WJ5YyOzYgHUFHC%2BsZ5x%2BmA%3D%3D) | 
-| 第11期NEC杯囲碁戦予選 | Wang Lei (s) | Hu Yaoyu | B+R | 2005-03-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F%2BUjpRANSqzHP4%2Balkq%2BNg%3D%3D) | 
-| 第1回日月星杯中韓囲碁対抗戦第2戦 | Kim Seonryong | Hu Yaoyu | W+R | 2005-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=REHwKcoTI7JlKlB7vwYKSg%3D%3D) | 
-| 第1回日月星杯中韓囲碁対抗戦第1戦 | Hu Yaoyu | Park Yeonghun | B+R | 2005-02-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cahsMU04OPKbAgCPGEUaIQ%3D%3D) | 
-| 第19期中国囲碁天元戦準決勝 | Hu Yaoyu | Kong Jie | W+R | 2005-02-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DA9HpV1By3hDVCPonhVFtA%3D%3D) | 
-| 第19期中国囲碁天元戦3回戦 | Wang Xi | Hu Yaoyu | W+R | 2005-01-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZCF0TBZWMMW4hgkpsXm%2FSw%3D%3D) | 
-| 第19期中国囲碁天元戦2回戦 | Hu Yaoyu | Luo Xihe | B+R | 2005-01-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cEBynIJYIoiH3a6UHZnqSQ%3D%3D) | 
-| 第5期リコー杯囲碁戦4回戦 | Wang Lei (b) | Hu Yaoyu | B+R | 2005-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X4utZLVbpc0uT6eTgziM6w%3D%3D) | 
-| 第5期リコー杯囲碁戦3回戦 | Hu Yaoyu | Wang Yuhui | B+3.5 | 2005-01-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v%2F4E6y%2BOTH9ftOSmc%2BWqhA%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第20節 | Hu Yaoyu | missing | B+R | 2004-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v1rvecKyfjWuR3kCuJX6bA%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第19節 | Hu Yaoyu | Wang Xi | B+R | 2004-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5v0Y4dhIxAMNEUM5j1unpw%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第18節 | Hu Yaoyu | missing | B+R | 2004-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yIIin19xtreMHgzFvLjIfw%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第17節 | Hu Yaoyu | missing | B+R | 2004-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1rCdTYGwJA%2FCuF%2F934whkw%3D%3D) | 
-| 第1期倡棋杯中国プロ囲碁選手権戦3回戦 | Chang Hao | Hu Yaoyu | B+R | 2004-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E7lPFjqe3iJusnF3hDdf%2BQ%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第16節 | Peng Quan | Hu Yaoyu | W+R | 2004-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wh8Z%2BChsE4stOu6bR8EkaQ%3D%3D) | 
-| 第1期倡棋杯中国プロ囲碁選手権戦2回戦 | Shao Weigang | Hu Yaoyu | W+9 | 2004-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CSGOA3L%2BOwx10si%2BlFtATQ%3D%3D) | 
-| 第9回三星火災杯世界オープン囲碁選手権2回戦 | Lee Sedol | Hu Yaoyu | B+R | 2004-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oWq8pKkBWt8RlXfaJJ%2B6EA%3D%3D) | 
-| 第9回三星火災杯世界オープン囲碁選手権1回戦 | Hu Yaoyu | Lee Changho | B+R | 2004-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FpT3Z4V86hxg55rco1U%2BHQ%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第10節 | Hu Yaoyu | Lee Sedol | W+R | 2004-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MNqcmSV0SHb%2BslYp9eUZbg%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権準決勝 | Lee Changho | Hu Yaoyu | B+1.5 | 2004-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7DXAwukFdFs8Swt%2B6uDz8w%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権3回戦 | Cho U | Hu Yaoyu | W+R | 2004-06-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2vo77SStUnSr6uRNBJ9sIg%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第7節 | Hu Yaoyu | Xie He | B+R | 2004-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=foK6YPQ9aStWpumXk37hUA%3D%3D) | 
-| 第10期NEC杯囲碁戦1回戦 | Hu Yaoyu | Wang Lei (b) | W+R | 2004-05-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E0I%2FLA34QkqxV3iJrWEUow%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第3節 | Wang Yuhui | Hu Yaoyu | B+R | 2004-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3MRoWhnd5Jw4BDJ9saI8lA%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第2節 | Hu Yaoyu | missing | W+0.5 | 2004-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T5fooPMphezb%2BlOoL887nQ%3D%3D) | 
-| 第4期リコー杯囲碁戦準決勝 | Chang Hao | Hu Yaoyu | B+R | 2004-03-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lbTTj4t3QPXA9vdUmFYEmQ%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権2回戦 | Cho Chikun | Hu Yaoyu | W+R | 2003-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YmoCPf6panj1h%2BN2HGCDlw%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権1回戦 | Hu Yaoyu | missing | B+R | 2003-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a0C5O2ev1RPq51LbpI7W1Q%3D%3D) | 
-| 2003年国際新鋭囲碁対抗戦第3戦 | Hu Yaoyu | Park Yeonghun | W+R | 2003-12-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9BhZ%2BcF2l204VyDW0VWxCw%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第21節 | Hu Yaoyu | missing | B+1.5 | 2003-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cOcnkpQy3gRgPoyRzcNapA%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第19節 | Hu Yaoyu | Mok Jinseok | W+R | 2003-11-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oPgw8DjJiCOOi5ZzI7sc4A%3D%3D) | 
-| 第5期阿含・桐山杯中国早碁オープン戦準決勝 | Kong Jie | Hu Yaoyu | B+3.5 | 2003-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F0nrBadW%2BL%2F9EhAzHVs6Rw%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第18節 | Hu Yaoyu | Dong Yan | B+R | 2003-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lp3vYROu5Jv1z7g%2FkVF1og%3D%3D) | 
-| 第5回農心辛ラーメン杯世界囲碁最強戦第9戦 | Hu Yaoyu | Weon Seongjin | W+4.5 | 2003-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wIS8FMvWBc6yZDuQmhqX5A%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第17節 | Peng Quan | Hu Yaoyu | W+8.5 | 2003-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3fAFOpzCOhYPj1OaLAU5pQ%3D%3D) | 
-| 第8期三星杯準決勝三番勝負第2局 | Cho Chikun | Hu Yaoyu | B+0.5 | 2003-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gSQfXvqwJfsaESuai3PPnw%3D%3D) | 
-| 第8期三星杯準決勝三番勝負第1局 | Hu Yaoyu | Cho Chikun | W+R | 2003-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nx8RpZrTOkg%2BUaRI2maXqQ%3D%3D) | 
-| 第9期NEC杯囲碁戦2回戦 | Hu Yaoyu | Gu Li | W+4.5 | 2003-11-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X2AEs4apcw%2Bae78lvafQhw%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第15節 | Hu Yaoyu | Liu Xiaoguang | B+7.5 | 2003-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lFhF3CAB9f9TJi12sufXtA%3D%3D) | 
-| 第8期三星杯3回戦 | Lee Sedol | Hu Yaoyu | W+R | 2003-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jr6jAcH%2BoWzBhLf9EWWOTA%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第12節 | Hu Yaoyu | missing | B+9.5 | 2003-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QdXTC7dZa2SSjta%2B2Eu9Aw%3D%3D) | 
-| 2003年全国囲棋個人戦男子組第9戦 | Hu Yaoyu | Gu Li | W+R | 2003-09-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=un7ZShm5YVxMdwZlFoXVkw%3D%3D) | 
-| 2003年全国囲棋個人戦男子組第7戦 | Shao Weigang | Hu Yaoyu | W+R | 2003-09-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kgoIu2smUFhzt9fomQlAsg%3D%3D) | 
-| 2003年全国囲棋個人戦男子組 | Hu Yaoyu | Kong Jie | W+R | 2003-09-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rx%2F4c5BB0f7RoZs%2B8qA2sA%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第10節 | Hu Yaoyu | Kim Hyeongwan | B+R | 2003-09-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VYE%2BQklRQcgs7IHxYH3tSw%3D%3D) | 
-| 第9期NEC杯囲碁戦1回戦 | Shao Weigang | Hu Yaoyu | W+R | 2003-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b3xubG3oMbCVSWjj53BO%2Bw%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第9節 | Hu Yaoyu | Li Jie | B+R | 2003-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BsNlvNLthl6tM4q1ioq7xw%3D%3D) | 
-| 第8期三星杯2回戦 | Hu Yaoyu | Yoo Changhyuk | B+3.5 | 2003-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gef5k3kaEDnAX3syr9K8Ng%3D%3D) | 
-| 第8期三星杯1回戦 | Cho Hanseung | Hu Yaoyu | W+R | 2003-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zf1fvNir5FL1jYtBwN4hMA%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第8節 | Gu Li | Hu Yaoyu | B+R | 2003-08-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xFLTkuIxv28l57ioAirrpA%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第11節 | Hu Yaoyu | Kong Jie | W+2.5 | 2003-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HTK1MIOGSBxbMKjnUVqH9g%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第7節 | Hu Yaoyu | Dong Yan | B+R | 2003-08-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YDSdwEEznGPp8q3xJfFD9g%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第6節 | Huang Yizhong | Hu Yaoyu | W+10.5 | 2003-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ezDk0w%2B8BVBFPi%2BPZvm3DQ%3D%3D) | 
-| 第10期中国囲碁新人王戦決勝三番勝負第2局 | Hu Yaoyu | Kong Jie | W+R | 2003-04-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AQJuzLL4OiRCkFQeuXXKHw%3D%3D) | 
-| 第10期中国囲碁新人王戦決勝三番勝負第1局 | Kong Jie | Hu Yaoyu | B+R | 2003-04-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MX%2BwgqlRLDrzXljWzsYU%2Bg%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第1節 | Zhu Songli | Hu Yaoyu | W+R | 2003-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BszpmWaSvY8Z7vRPfTC6Aw%3D%3D) | 
-| 第16期中国囲碁名人戦1回戦 | Nie Weiping | Hu Yaoyu | B+1.5 | 2003-03-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CLTMD1d60WRtPnxbisL1dg%3D%3D) | 
-| 第17期中国囲碁天元戦準決勝 | Gu Li | Hu Yaoyu | B+1.5 | 2003-03-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6ZiF8kAmPj5RQvBGtwctXw%3D%3D) | 
-| 第17期中国囲碁天元戦3回戦 | missing | Hu Yaoyu | W+R | 2003-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Jz9NP%2BxZHB5NQ6yJlEK4w%3D%3D) | 
-| 第17期中国囲碁天元戦2回戦 | Chang Hao | Hu Yaoyu | W+R | 2003-02-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7lbxzwCl93UP7Q%2BFJcQ9%2BA%3D%3D) | 
-| 第10期中国囲碁新人王戦準決勝 | Hu Yaoyu | missing | B+R | 2003-02-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=27jTLWSQFwKhOCXzBrnxUA%3D%3D) | 
-| 第10期中国囲碁新人王戦2回戦 | Hu Yaoyu | Dong Yan | B+R | 2003-02-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5oeRxgTNZ%2Ftc4Qf%2F4p55ww%3D%3D) | 
-| 第4回農心辛ラーメン杯世界囲碁最強戦第13戦 | Lee Changho | Hu Yaoyu | B+5.5 | 2003-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MLb1LNC2iGQlo3khlESqrQ%3D%3D) | 
-| 第4回農心辛ラーメン杯世界囲碁最強戦第12戦 | Hu Yaoyu | Yoda Norimoto | B+0.5 | 2003-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MKSJWmQDjxim%2FxYHW7oIpg%3D%3D) | 
-| 第4回農心辛ラーメン杯世界囲碁最強戦第11戦 | Cho Hunhyun | Hu Yaoyu | W+1.5 | 2003-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i3hQ%2FNYyKsBfrkQBwHAoRQ%3D%3D) | 
-| 第3期リコー杯囲碁戦2回戦 | Hu Yaoyu | missing | W+0.5 | 2002-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QdYjruY%2BA5WcEEwI7cwGYw%3D%3D) | 
-| 第4回農心辛ラーメン杯世界囲碁最強戦第10戦 | Kato Masao | Hu Yaoyu | W+2.5 | 2002-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ko2nYFAcDCESJDckZrPRjw%3D%3D) | 
-| 第4回農心辛ラーメン杯世界囲碁最強戦第9戦 | Hu Yaoyu | Kim Seungjun | B+R | 2002-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AZP2N1NcK6Fv2Esi3d%2BNhA%3D%3D) | 
-| 第4回農心辛ラーメン杯世界囲碁最強戦第8戦 | Kobayashi Koichi | Hu Yaoyu | W+3.5 | 2002-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7ja4aJLqpse2FrrqihPpZg%3D%3D) | 
-| 第7期三星杯準決勝三番勝負第2局 | Hu Yaoyu | Wang Lei (b) | W+1.5 | 2002-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OF2ZFJjA5HOwIoXsSlOqDg%3D%3D) | 
-| 第7期三星杯準決勝三番勝負第1局 | Wang Lei (b) | Hu Yaoyu | B+4.5 | 2002-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gVswmPrL8ul8WrTuFUV4kA%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第15節 | Hu Yaoyu | Kong Jie | W+R | 2002-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N%2BO6ND%2Fsn5%2BNJhZhYyfyFw%3D%3D) | 
-| 第7期三星杯3回戦 | Cao Dayuan | Hu Yaoyu | W+R | 2002-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iN8eDvrb1MDSgokJ60HBDQ%3D%3D) | 
-| 2002年国際新鋭囲碁対抗戦第3戦 | Hu Yaoyu | Weon Seongjin | B+R | 2002-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Mx7q8iDYaazDwEf1XHzdA%3D%3D) | 
-| 2002年国際新鋭囲碁対抗戦第2戦 | Hu Yaoyu | Park Jinsol | W+2.5 | 2002-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x23%2BP74wWnYfwZlcDD7dtA%3D%3D) | 
-| 2002年全国囲棋個人戦男子組第9戦 | Gu Li | Hu Yaoyu | B+R | 2002-09-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ctbKOMbpbnvK1Advj1FkWQ%3D%3D) | 
-| 2002年全国囲棋個人戦男子組第4戦 | Peng Quan | Hu Yaoyu | W+2.5 | 2002-09-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pm07aITK3mWHxF0blSqheA%3D%3D) | 
-| 2002年全国囲棋個人戦男子組第1戦 | Hu Yaoyu | Gu Lingyi | W+R | 2002-09-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SHkVXI7ww6acuMZ9ZX3Pdw%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Ma Xiaochun | B+R | 2002-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v6LvKWIeAXL1IbLxi96Cow%3D%3D) | 
-| 第7期三星杯2回戦 | Lee Changho | Hu Yaoyu | W+R | 2002-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tQl8QJXcG7T%2F4LengjPtmQ%3D%3D) | 
-| 第7期三星杯1回戦 | Hu Yaoyu | Park Seungmun | B+R | 2002-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zjpLeCFiel2I0d3HjwEUTA%3D%3D) | 
-| 第4回農心杯中国選抜戦 | Hu Yaoyu | Zhou Heyang | B+R | 2002-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GWMxzZOIa9bdr%2BhxMMjDVg%3D%3D) | 
-| 第4回農心杯中国選抜戦 | Hu Yaoyu | Liu Jing | B+R | 2002-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=081XIAWAaBavN6CdkT54Vw%3D%3D) | 
-| 第4回農心杯中国選抜戦 | Hu Yaoyu | Dong Yan | W+4.5 | 2002-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h4S%2BBtjbbLtITLAYPLWa%2FQ%3D%3D) | 
-| 第7期三星杯予選決勝 | Hu Yaoyu | Yata Naoki | B+R | 2002-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cDpOtw2j6uRk8nz2t1MyYg%3D%3D) | 
-| 2002年中国段位戦 | Dong Yan | Hu Yaoyu | W+R | 2002-07-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AlTVQqX8rO%2B4HITB5v2aaA%3D%3D) | 
-| 2002年中国段位戦 | Hu Yaoyu | Gu Li | B+R | 2002-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pc4weoq7VZoHHm2TCP0pZQ%3D%3D) | 
-| 第4回春蘭杯世界囲碁選手権1回戦 | Hane Naoki | Hu Yaoyu | B+1.5 | 2002-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A2PsulmTM65Np9mJBire1g%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第4節 | Hu Yaoyu | Kong Jie | W+R | 2002-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=70dCWQ1jduOuGi7nACxWdA%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第2節 | Lee Changho | Hu Yaoyu | W+R | 2002-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ec1xmkTP7vAnNYW%2FY8FEGw%3D%3D) | 
-| 第15期中国囲碁名人戦2回戦 | Hu Yaoyu | Yu Bin | W+R | 2002-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=erlwbtMVCoMAj6Xr%2FnTgbw%3D%3D) | 
-| 第16期中国囲碁天元戦2回戦 | Wang Yao | Hu Yaoyu | B+3.5 | 2002-01-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vsL6iXBN5QE%2BIJAC%2FsKU%2Fg%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Hu Yaoyu | Jiang Qirun | Lose | W+R | 7.5 | 3112 | -30 | 
+| 2021-05-12 | 第23回中国囲碁甲級リーグ | Hu Yaoyu | Mao Ruilong | Lose | W+R | 7.5 | 3142 | -3 | 
+| 2021-05-08 | 第23回中国囲碁甲級リーグ | Xie Ke | Hu Yaoyu | Lose | B+R | 7.5 | 3145 | 2 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Hu Yaoyu | Liao Yuanhe | Lose | W+R | 7.5 | 3143 | -133 | 
+| 2021-03-10 | 第35期中国囲碁天元戦予選 | Hu Yaoyu | Yang Kaiwen | Lose | W+R | 7.5 | 3276 | -144 | 
+| 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Hu Yaoyu | Tong Mengcheng | Lose | W+R | 7.5 | 3420 | -34 | 
+| 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Hu Yaoyu | Lose | B+¾ | 7.5 | 3454 | -25 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Hu Yaoyu | Wu Guangya | Win | B+R | 7.5 | 3479 | 59 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Jiang Qirun | Hu Yaoyu | Win | W+R | 7.5 | 3420 | 77 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Li Xiangyu | Hu Yaoyu | Lose | B+1¾ | 7.5 | 3343 | -79 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Dang Yifei | Hu Yaoyu | Lose | B+R | 7.5 | 3422 | -43 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Hu Yaoyu | Ding Shixiong | Lose | W+R | 7.5 | 3465 | -75 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Xu Haohong | Hu Yaoyu | Win | W+R | 7.5 | 3540 | 104 | 
+| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Hu Yaoyu | Peng Liyao | Lose | W+R | 7.5 | 3436 | -11 | 
+| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Yao Xiaotong | Hu Yaoyu | Lose | B+R | 7.5 | 3447 | -102 | 
+| 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Hu Yaoyu | Shi Yue | Lose | W+R | 7.5 | 3549 | -56 | 
+| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Fan Tingyu | Hu Yaoyu | Lose | B+R | 7.5 | 3605 | -36 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Hu Yaoyu | Fan Yin | Lose | W+1¼ | 7.5 | 3641 | -168 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Hu Yaoyu | Xie Ke | Win | B+R | 7.5 | 3809 | 635 | 
+| 2019-12-12 | 第21回中国囲碁甲級リーグ5位決定戦第3戦 | Hu Yaoyu | Liao Yuanhe | Lose | W+R | 7.5 | 3174 | -13 | 
+| 2019-12-11 | 第21回中国囲碁甲級リーグ5位決定戦第2戦 | Gu Lingyi | Hu Yaoyu | Win | W+R | 7.5 | 3187 | 9 | 
+| 2019-12-09 | 第21回中国囲碁甲級リーグ5位決定戦第1戦 | Hu Yaoyu | Gu Lingyi | Win | B+R | 7.5 | 3178 | 43 | 
+| 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Hu Yaoyu | Xia Chenkun | Lose | W+2¼ | 7.5 | 3135 | -11 | 
+| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Lee Donghoon | Hu Yaoyu | Win | W+R | 7.5 | 3146 | 71 | 
+| 2019-09-16 | 第21回中国囲碁甲級リーグプレーオフ1回戦第2戦 | Hu Yaoyu | Xu Jiayang | Win | B+0¾ | 7.5 | 3075 | 47 | 
+| 2019-09-14 | 第21回中国囲碁甲級リーグプレーオフ1回戦第1戦 | Gu Zihao | Hu Yaoyu | Lose | B+R | 7.5 | 3028 | 6 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Hu Yaoyu | Xie Ke | Win | B+R | 7.5 | 3022 | 33 | 
+| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Rong Yi | Hu Yaoyu | Lose | B+R | 7.5 | 2989 | -70 | 
+| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Han Yizhou | Win | B+R | 7.5 | 3059 | 8 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 |  | Hu Yaoyu | Win | W+R | 7.5 | 3051 | 14 | 
+| 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Fan Tingyu | Hu Yaoyu | Lose | B+¾ | 7.5 | 3037 | 5 | 
+| 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Ding Shixiong | Hu Yaoyu | Lose | B+1¾ | 7.5 | 3032 | 19 | 
+| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Hu Yaoyu | Gu Lingyi | Win | B+1¾ | 7.5 | 3013 | 33 | 
+| 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Tao Xinran | Hu Yaoyu | Lose | B+R | 7.5 | 2980 | -26 | 
+| 2019-04-19 | 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Jiang Weijie | Hu Yaoyu | Lose | B+R | 7.5 | 3006 | -18 | 
+| 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Hu Yaoyu | Tan Xiao | Win | B+¾ | 7.5 | 3024 | 41 | 
+| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節上海-重慶 | Gu Li | Hu Yaoyu | Win | W+¼ | 7.5 | 2983 | 58 | 
+| 2019-04-01 | 第24回LG杯統合予選1回戦 | Song Taekon | Hu Yaoyu | Lose | B+R | 6.5 | 2925 | -2 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 |  | Hu Yaoyu | Lose | B+R | 7.5 | 2927 | -5 | 
+| 2019-03-06 | 第10期中国竜星戦予選 | Xie He | Hu Yaoyu | Lose | B+1¾  | 7.5 | 2932 | -17 | 
+| 2019-03-04 | 第16期倡棋杯中国プロ囲棋選手権戦2回戦 | Li Xuanhao | Hu Yaoyu | Win | W+R | 7.5 | 2949 | 43 | 
+| 2019-03-03 | 第16期倡棋杯中国プロ囲棋選手権戦1回戦 | Hu Yaoyu | Zhou Hexi | Win | B+5 | 7.5 | 2906 | 25 | 
+| 2019-02-28 | 第16期倡棋杯中国プロ囲棋選手権戦予選準決勝 | Hu Yaoyu | Li He | Win | B+R | 7.5 | 2881 | -37 | 
+| 2018-12-19 | 第4期洛陽白雲山杯中国棋聖戦予選甲組 |  | Hu Yaoyu | Lose | B+T | 7.5 | 2918 | -55 | 
+| 2018-11-16 | 第20回中国囲碁甲級リーグ第24節中信-上海 | Hu Yaoyu | Chen Yaoye | Lose | W+R | 7.5 | 2973 | 14 | 
+| 2018-11-09 | 第20回中国囲碁甲級リーグ第23節上海-天津 | Tang Weixing | Hu Yaoyu | Win | W+R | 7.5 | 2959 | 52 | 
+| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節廈門-上海 | Hu Yaoyu | Lee Donghoon | Lose | W+R | 7.5 | 2907 | -28 | 
+| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節上海-杭州 | Wu Guangya | Hu Yaoyu | Lose | B+R | 7.5 | 2935 | -25 | 
+| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節上海-山東 | Jiang Weijie | Hu Yaoyu | Lose | B+R | 7.5 | 2960 | -77 | 
+| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節衢州-上海 | Hu Yaoyu | Ding Shixiong | Lose | W+R | 7.5 | 3037 | -41 | 
+| 2018-10-08 | 第20回中国囲碁甲級リーグ第18節上海-民生 | Hu Yaoyu | Kim Jiseok | Lose | W+R | 7.5 | 3078 | 25 | 
+| 2018-09-28 | 第20回中国囲碁甲級リーグ第17節蘇泊爾-上海 | Hu Yaoyu | Xie Ke | Lose | W+R | 7.5 | 3053 | -31 | 
+| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節上海-江蘇 | Zhao Chenyu | Hu Yaoyu | Lose | B+R | 7.5 | 3084 | -36 | 
+| 2018-08-15 | 第20回中国囲碁甲級リーグ第13節上海-成都 | Choi Cheolhan | Hu Yaoyu | Win | W+R | 7.5 | 3120 | 40 | 
+| 2018-08-13 | 第20回中国囲碁甲級リーグ第12節重慶-上海 | Hu Yaoyu | Yang Dingxin | Lose | W+R | 7.5 | 3080 | -88 | 
+| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節杭州-上海 | Hu Yaoyu | Xia Chenkun | Lose | W+R | 7.5 | 3168 | -38 | 
+| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節民生-上海 | Sun Tengyu | Hu Yaoyu | Win | W+R | 7.5 | 3206 | 35 | 
+| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節上海-蘇泊爾 |  | Hu Yaoyu | Lose | B+R | 7.5 | 3171 | -50 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦2回戦 | Xie Erhao | Hu Yaoyu | Lose | B+R | 7.5 | 3221 | 21 | 
+| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節江蘇-上海 | Hu Yaoyu | Zhao Chenyu | Lose | W+R | 7.5 | 3200 | -34 | 
+| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節上海-浙江 | Zhou Hexi | Hu Yaoyu | Win | W+R | 7.5 | 3234 | -23 | 
+| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節江西-上海 | Hu Yaoyu | Yang Kaiwen | Win | B+2¾ | 7.5 | 3257 | -19 | 
+| 2018-03-07 | 第9期中国竜星戦予選 | Meng Tailing | Hu Yaoyu | Lose | B+R | 7.5 | 3276 | -20 | 
+| 2018-03-06 | 第9期中国竜星戦予選 | Meng Tailing | Hu Yaoyu | Lose | B+R | 7.5 | 3296 | 29 | 
+| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Hu Yaoyu | Li Qincheng | Lose | W+R | 7.5 | 3267 | 12 | 
+| 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Xu Jiayang | Hu Yaoyu | Lose | B+R | 7.5 | 3255 | 6 | 
+| 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Meng Tailing | Hu Yaoyu | Win | W+R | 7.5 | 3249 | 41 | 
+| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Hu Yaoyu | Xie He | Lose | W+R | 7.5 | 3208 | 22 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Gu Li | Hu Yaoyu | Lose | B+R | 7.5 | 3186 | -17 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Jiang Weijie | Hu Yaoyu | Win | W+0.5 | 7.5 | 3203 | 42 | 
+| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Xie Ke | Win | B+R | 7.5 | 3161 | 32 | 
+| 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Niu Yutian | Hu Yaoyu | Lose | B+R | 7.5 | 3129 | -2 | 
+| 2017-06-30 | 第22回三星火災杯統合予選2回戦 | Hu Yaoyu | Hong Minpyo | Win | B+R | 6.5 | 3131 | -6 | 
+| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Han Yizhou | Hu Yaoyu | Win | W+0.5 | 7.5 | 3137 | 18 | 
+| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Hu Yaoyu | Meng Tailing | Lose | W+0.5 | 7.5 | 3119 | -15 | 
+| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Ding Hao | Hu Yaoyu | Lose | B+1.5 | 7.5 | 3134 | -27 | 
+| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Hu Yaoyu | Zhao Chenyu | Lose | W+R | 7.5 | 3161 | -2 | 
+| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Rong Yi | Hu Yaoyu | Win | W+R | 7.5 | 3163 | 24 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Gu Li | Hu Yaoyu | Lose | B+R | 7.5 | 3139 | -14 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Hu Yaoyu | Chen Zijian | Win | B+3.5 | 7.5 | 3153 | 43 | 
+| 2017-03-29 | 世界第三期Mlily夢百合杯予選準決勝 | Hong Mujin | Hu Yaoyu | Lose | B+R | 7.5 | 3110 | 173 | 
+| 2017-01-16 | 第31期中国囲碁天元戦2回戦 | Gu Li | Hu Yaoyu | Lose | B+R | 7.5 | 2937 | -22 | 
+| 2017-01-14 | 第31期中国囲碁天元戦1回戦 | Huang Yunsong | Hu Yaoyu | Win | W+R | 7.5 | 2959 | 79 | 
+| 2017-01-13 | 第31期中国囲碁天元戦予選 | Hu Yaoyu | Yang Dingxin | Win | B+R | 7.5 | 2880 | 41 | 
+| 2016-12-19 | 嫘祖杯第29期中国名人戦網選決勝 | Hu Yaoyu | Chen Hao | Lose | W+R | 7.5 | 2839 | -23 | 
+| 2016-12-18 | 嫘祖杯第29期中国名人戦網選4回戦 | Hu Yaoyu | Cao Xiaoyang | Win | B+R | 7.5 | 2862 | 36 | 
+| 2016-12-17 | 嫘祖杯第29期中国名人戦網選2回戦 |  | Hu Yaoyu | Win | W+R | 7.5 | 2826 | 0 | 
+| 2016-12-17 | 嫘祖杯第29期中国名人戦網選3回戦 | Hu Yaoyu |  | Win | B+R | 7.5 | 2826 | 35 | 
+| 2016-11-23 | 第8期中国竜星戦予選 | Wang Lei (b) | Hu Yaoyu | Win | W+R | 7.5 | 2791 | 0 | 
+| 2016-11-23 | 第8期中国竜星戦予選 | Hu Yaoyu | Liu Xing | Lose | W+R | 7.5 | 2791 | -89 | 
+| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Huang Yunsong | Hu Yaoyu | Lose | B+R | 7.5 | 2880 | -212 | 
+| 2016-07-20 | 第21回三星火災杯統合予選決勝 | Hu Yaoyu | Fan Tingyu | Lose | W+R | 6.5 | 3092 | 120 | 
+| 2016-06-25 | 2016年中国囲碁乙級リーグ | Hu Yaoyu | Wang Yao | Win | B+R | 7.5 | 2972 | -34 | 
+| 2016-06-17 | 2016年中国囲碁乙級リーグ |  | Hu Yaoyu | Lose | B+R | 7.5 | 3006 | -27 | 
+| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦2回戦 | Ke Jie | Hu Yaoyu | Lose | B+R | 7.5 | 3033 | 0 | 
+| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Hu Yaoyu | Fan Tingyu | Win | B+R | 7.5 | 3033 | -14 | 
+| 2016-05-03 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 |  | Hu Yaoyu | Lose | B+R | 7.5 | 3047 | -14 | 
+| 2016-05-02 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Zhang Qiang | Hu Yaoyu | Win | W+R | 7.5 | 3061 | -2 | 
+| 2016-05-01 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Hu Yaoyu |  | Win | B+R | 7.5 | 3063 | 54 | 
+| 2016-04-02 | 第21回LG杯予選 | Shen Zaiyi | Hu Yaoyu | Lose | B+R | 6.5 | 3009 | -17 | 
+| 2016-02-27 | 第13期倡棋杯中国プロ囲碁選手権戦予選 | Hu Yaoyu | An Dongxu | Lose | W+5 | 7.5 | 3026 | -21 | 
+| 2016-02-25 | 第13期倡棋杯中国プロ囲碁選手権戦予選 | Gui Wenbo | Hu Yaoyu | Win | W+R | 7.5 | 3047 | -83 | 
+| 2016-01-15 | 第30期中国囲碁天元戦1回戦 | Gu Zihao | Hu Yaoyu | Lose | B+R | 7.5 | 3130 | -8 | 
+| 2016-01-14 | 第30期中国囲碁天元戦予選 | Lu Jia | Hu Yaoyu | Win | W+R | 7.5 | 3138 | -10 | 
+| 2015-12-06 | 第17回中国囲碁甲級リーグ第22節 | Hu Yaoyu | Ke Jie | Lose | W+0.5 | 7.5 | 3148 | -5 | 
+| 2015-12-04 | 第17回中国囲碁甲級リーグ第21節 | Mi Yuting | Hu Yaoyu | Lose | B+R | 7.5 | 3153 | 14 | 
+| 2015-11-13 | 第17回中国囲碁甲級リーグ第20節 | Hu Yaoyu | Li Qincheng | Win | B+R | 7.5 | 3139 | 5 | 
+| 2015-11-08 | 第17回中国囲碁甲級リーグ第19節 | Chen Hao | Hu Yaoyu | Lose | B+R | 7.5 | 3134 | -12 | 
+| 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 | Tuo Jiaxi | Hu Yaoyu | Win | W+R | 7.5 | 3146 | 21 | 
+| 2015-10-26 | 第17回中国囲碁甲級リーグ第15節 | Hu Yaoyu | Zhou Hexi | Lose | W+R | 7.5 | 3125 | 3 | 
+| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Yang Kaiwen | Hu Yaoyu | Win | W+R | 7.5 | 3122 | 11 | 
+| 2015-10-15 | 第17回中国囲碁甲級リーグ第14節 | Hu Yaoyu | Peng Liyao | Lose | W+R | 7.5 | 3111 | -9 | 
+| 2015-10-12 | 第11期威孚房開杯棋王戦1回戦 | Hu Yaoyu | Zhou Ruiyang | Lose | W+R | 7.5 | 3120 | 2 | 
+| 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Wang Xi | Hu Yaoyu | Lose | B+R | 7.5 | 3118 | 6 | 
+| 2015-09-22 | 第3回全国智力運動会囲碁男子団体戦 | Wang Xi | Hu Yaoyu | Lose | B+R | 7.5 | 3112 | -6 | 
+| 2015-09-18 | 第3回全国智力運動会囲碁男子団体戦 | Hu Yaoyu | Jiang Weijie | Lose | W+0.5 | 7.5 | 3118 | 0 | 
+| 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Xie Ke | Win | B+R | 7.5 | 3118 | 6 | 
+| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Gong Yanyu | Hu Yaoyu | Lose | B+R | 7.5 | 3112 | -60 | 
+| 2015-08-01 | 第20回三星火災杯統合予選1回戦 | Kang Seungmin | Hu Yaoyu | Win | W+R | 6.5 | 3172 | 2 | 
+| 2015-07-29 | 第7期中国竜星戦予選 |  | Hu Yaoyu | Lose | B+R | 7.5 | 3170 | -26 | 
+| 2015-07-11 | 第17回中国囲碁甲級リーグ第11節 | Tong Mengcheng | Hu Yaoyu | Lose | B+1.5 | 7.5 | 3196 | -33 | 
+| 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 | Hu Yaoyu | Mi Yuting | Lose | W+R | 7.5 | 3229 | -18 | 
+| 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Hu Yaoyu | Park Junghwan | Lose | W+R | 7.5 | 3247 | -12 | 
+| 2015-06-25 | 第17回中国囲碁甲級リーグ第8節 | Jiang Weijie | Hu Yaoyu | Win | W+R | 7.5 | 3259 | -80 | 
+| 2015-06-13 | 第17回中国囲碁甲級リーグ第7節 | Hu Yaoyu | Chen Yaoye | Win | B+1.5 | 7.5 | 3339 | -26 | 
+| 2015-05-28 | 第17回中国囲碁甲級リーグ第6節 | Lee Donghoon | Hu Yaoyu | Lose | B+R | 7.5 | 3365 | 12 | 
+| 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Li Xuanhao | Hu Yaoyu | Win | W+R | 7.5 | 3353 | 8 | 
+| 2015-05-16 | 第17回中国囲碁甲級リーグ第4節 | Hu Yaoyu | Kim Jiseok | Win | B+R | 7.5 | 3345 | 9 | 
+| 2015-05-11 | 第17回中国囲碁甲級リーグ第3節 | Hu Yaoyu | Shi Yue | Win | B+1.5 | 7.5 | 3336 | 20 | 
+| 2015-05-04 | 第28期中国囲碁名人戦予選 |  | Hu Yaoyu | Win | W+R | 7.5 | 3316 | 6 | 
+| 2015-05-03 | 第28期中国囲碁名人戦予選 | Hu Yaoyu | Piao Wenyao | Win | B+R | 7.5 | 3310 | 30 | 
+| 2015-04-29 | 第17回中国囲碁甲級リーグ第2節 | Hu Yaoyu |  | Win | B+R | 7.5 | 3280 | 62 | 
+| 2015-04-22 | 第17回中国囲碁甲級リーグ第1節 | Liao Xingwen | Hu Yaoyu | Lose | B+R | 7.5 | 3218 | -2 | 
+| 2015-04-14 | 第20回LG杯予選 |  | Hu Yaoyu | Win | W+R | 6.5 | 3220 | -157 | 
+| 2015-01-26 | 第29期中国囲碁天元戦予選 | Hu Yaoyu | Sun Tengyu | Lose | W+R | 7.5 | 3377 | -20 | 
+| 2015-01-23 | 第15期リコー杯囲碁戦準決勝 | Hu Yaoyu | Shi Yue | Lose | W+R | 7.5 | 3397 | 9 | 
+| 2015-01-22 | 第15期リコー杯囲碁戦4回戦 | Hu Yaoyu | Tang Weixing | Win | B+R | 7.5 | 3388 | 9 | 
+| 2015-01-21 | 第15期リコー杯囲碁戦3回戦 | Hu Yaoyu | Tan Xiao | Win | B+R | 7.5 | 3379 | 20 | 
+| 2015-01-20 | 第15期リコー杯囲碁戦2回戦 | Hu Yaoyu | Qiu Jun | Win | B+R | 7.5 | 3359 | 42 | 
+| 2014-12-31 | 第15期リコー杯囲碁戦1回戦 | Kong Jie | Hu Yaoyu | Win | W+0.5 | 7.5 | 3317 | 65 | 
+| 2014-11-25 | 第16回中国囲碁甲級リーグ第22節 | Hu Yaoyu | Zhao Chenyu | Win | B+R | 7.5 | 3252 | 20 | 
+| 2014-11-22 | 第16回中国囲碁甲級リーグ第21節 | Xu Jiayang | Hu Yaoyu | Lose | B+R | 7.5 | 3232 | -16 | 
+| 2014-11-11 | 第16回中国囲碁甲級リーグ第20節 | Hu Yaoyu | Kim Jiseok | Lose | W+R | 7.5 | 3248 | -7 | 
+| 2014-11-09 | 第16回中国囲碁甲級リーグ第19節 | Fan Tingyu | Hu Yaoyu | Win | W+R | 7.5 | 3255 | 126 | 
+| 2014-10-31 | 第16回中国囲碁甲級リーグ第18節 | Huang Yunsong | Hu Yaoyu | Lose | B+R | 7.5 | 3129 | -29 | 
+| 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 | Hu Yaoyu | Sun Tengyu | Lose | W+R | 7.5 | 3158 | 14 | 
+| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Xie He | Hu Yaoyu | Lose | B+R | 7.5 | 3144 | -43 | 
+| 2014-10-11 | 第10期威孚房開杯棋王戦1回戦 | Peng Liyao | Hu Yaoyu | Lose | B+1.5 | 7.5 | 3187 | -58 | 
+| 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Chen Xian | Hu Yaoyu | Win | W+R | 7.5 | 3245 | -10 | 
+| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Hu Yaoyu | An Dongxu | Lose | W+R | 7.5 | 3255 | 9 | 
+| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Zhong Wenjing | Lose | W+R | 7.5 | 3246 | -3 | 
+| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 |  | Hu Yaoyu | Win | W+R | 7.5 | 3249 | -58 | 
+| 2014-08-03 | 第19回三星火災杯統合予選2回戦 | Hu Yaoyu | Shin Minjun | Lose | W+3.5 | 6.5 | 3307 | 15 | 
+| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Park Junghwan | Hu Yaoyu | Lose | B+R | 7.5 | 3292 | -40 | 
+| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Hu Yaoyu | Shi Yue | Win | B+R | 7.5 | 3332 | 43 | 
+| 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Hu Yaoyu | Hu Yuhan | Lose | W+R | 7.5 | 3289 | 4 | 
+| 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Hu Yaoyu | Zhou Ruiyang | Lose | W+R | 7.5 | 3285 | 16 | 
+| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Hu Yaoyu | Peng Quan | Win | B+R | 7.5 | 3269 | 55 | 
+| 2014-06-05 | 第16回中国囲碁甲級リーグ第6節 | Cho Hanseung | Hu Yaoyu | Win | W+R | 7.5 | 3214 | 9 | 
+| 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Li Xuanhao | Hu Yaoyu | Win | W+R | 7.5 | 3205 | 21 | 
+| 2014-05-28 | 第11期倡棋杯中国プロ囲碁選手権戦1回戦 | Hu Yaoyu | Tang Weixing | Lose | W+3 | 7.5 | 3184 | 46 | 
+| 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 |  | Hu Yaoyu | Lose | B+R | 7.5 | 3138 | -12 | 
+| 2014-05-18 | 第16回中国囲碁甲級リーグ第3節 | Hu Yaoyu | Tao Xinran | Lose | W+R | 7.5 | 3150 | -3 | 
+| 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Chen Yaoye | Hu Yaoyu | Win | W+0.5 | 7.5 | 3153 | 1 | 
+| 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Hu Yaoyu | Lee Donghoon | Win | B+1.5 | 7.5 | 3152 | 35 | 
+| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦2回戦 | Hu Yaoyu | Zhou Hexi | Lose | W+R | 7.5 | 3117 | -140 | 
+| 2014-04-16 | 第19回LG杯予選 | Hu Yaoyu | Mok Jinseok | Lose | W+R | 6.5 | 3257 | -32 | 
+| 2014-04-04 | 第27期中国囲碁名人戦1回戦 | Hu Yaoyu | Ke Jie | Lose | W+R | 7.5 | 3289 | 2 | 
+| 2014-04-02 | 第27期中国囲碁名人戦予選 | Hu Yaoyu | Xie Erhao | Win | B+R | 7.5 | 3287 | 18 | 
+| 2014-04-01 | 第27期中国囲碁名人戦予選 | Han Yizhou | Hu Yaoyu | Win | W+R | 7.5 | 3269 | 27 | 
+| 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Lee Wonyoung | Hu Yaoyu | Lose | B+R | 7.5 | 3242 | -111 | 
+| 2014-01-14 | 第28期中国囲碁天元戦予選 | Hu Yaoyu | Li Qincheng | Lose | W+R | 7.5 | 3353 | -12 | 
+| 2013-12-29 | 第14期リコー杯囲碁戦1回戦 | Chen Yunong | Hu Yaoyu | Lose | B+R | 7.5 | 3365 | 96 | 
+| 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 | Hu Yaoyu | Chen Yaoye | Lose | W+R | 7.5 | 3269 | 4 | 
+| 2013-11-23 | 第15回中国囲碁甲級リーグ第21節 | Hu Yaoyu | Zhou Ruiyang | Lose | W+R | 7.5 | 3265 | -16 | 
+| 2013-11-16 | 第15回中国囲碁甲級リーグ第20節 | Hu Yaoyu | Niu Yutian | Win | B+R | 7.5 | 3281 | 23 | 
+| 2013-11-02 | 第15回中国囲碁甲級リーグ第19節 | Hu Yaoyu | Piao Wenyao | Win | B+R | 7.5 | 3258 | 23 | 
+| 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 | Park Junghwan | Hu Yaoyu | Lose | B+R | 7.5 | 3235 | 25 | 
+| 2013-10-20 | 第15回中国囲碁甲級リーグ第17節 | Hu Yaoyu | Zhou Hexi | Lose | W+R | 7.5 | 3210 | -42 | 
+| 2013-10-13 | 第15回中国囲碁甲級リーグ第16節 | Xie He | Hu Yaoyu | Win | W+R | 7.5 | 3252 | -192 | 
+| 2013-09-12 | 第15回中国囲碁甲級リーグ第15節 |  | Hu Yaoyu | Win | W+R | 7.5 | 3444 | 39 | 
+| 2013-09-09 | 第5期中国竜星戦1回戦 | Wang Xi | Hu Yaoyu | Lose | B+R | 7.5 | 3405 | 0 | 
+| 2013-09-09 | 第5期中国竜星戦予選 | Hu Yaoyu |  | Win | B+R | 7.5 | 3405 | -3 | 
+| 2013-09-07 | 第15回中国囲碁甲級リーグ第14節 | Park Yeonghun | Hu Yaoyu | Lose | B+R | 7.5 | 3408 | 25 | 
+| 2013-09-01 | 第15回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Cho Hanseung | Win | B+R | 7.5 | 3383 | -1 | 
+| 2013-08-30 | 第15回中国囲碁甲級リーグ第12節 |  | Hu Yaoyu | Win | W+R | 7.5 | 3384 | 9 | 
+| 2013-08-27 | 第9期威孚房開杯棋王戦1回戦 | Hu Yaoyu | Xie He | Lose | W+R | 7.5 | 3375 | -52 | 
+| 2013-08-09 | 第1回夢百合杯世界オープン戦3回戦 | Hu Yaoyu | Gu Li | Lose | W+R | 7.5 | 3427 | 123 | 
+| 2013-07-15 | 第15回中国囲碁甲級リーグ第11節 | Tuo Jiaxi | Hu Yaoyu | Lose | B+R | 7.5 | 3304 | -7 | 
+| 2013-07-11 | 第1回夢百合杯世界オープン戦2回戦 | Hu Yaoyu | Lei Zhenkun | Win | B+R | 7.5 | 3311 | 56 | 
+| 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 | Hu Yaoyu | Murakawa Daisuke | Win | B+R | 7.5 | 3255 | 61 | 
+| 2013-07-07 | 第15回中国囲碁甲級リーグ第10節 | Zhou Ruiyang | Hu Yaoyu | Win | W+R | 7.5 | 3194 | 17 | 
+| 2013-06-22 | 第15回中国囲碁甲級リーグ第9節 | Hu Yaoyu |  | Lose | W+4.5 | 7.5 | 3177 | -14 | 
+| 2013-06-15 | 第15回中国囲碁甲級リーグ第8節 | Piao Wenyao | Hu Yaoyu | Lose | B+R | 7.5 | 3191 | -47 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Xie Erhao | Hu Yaoyu | Lose | B+R | 7.5 | 3238 | 0 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 |  | Hu Yaoyu | Win | W+R | 7.5 | 3238 | -23 | 
+| 2013-06-02 | 第15回中国囲碁甲級リーグ第7節 | Hu Yaoyu | Xie Erhao | Win | B+3.5 | 7.5 | 3261 | 94 | 
+| 2013-05-29 | 第10期倡棋杯中国プロ囲碁選手権戦2回戦 | Meng Tailing | Hu Yaoyu | Lose | B+R | 7.5 | 3167 | 42 | 
+| 2013-05-27 | 第10期倡棋杯中国プロ囲碁選手権戦1回戦 | Jiang Weijie | Hu Yaoyu | Win | W+R | 7.5 | 3125 | -47 | 
+| 2013-05-18 | 第15回中国囲碁甲級リーグ第6節 | Ke Jie | Hu Yaoyu | Lose | B+R | 7.5 | 3172 | -5 | 
+| 2013-05-11 | 第15回中国囲碁甲級リーグ第5節 | Hu Yaoyu | Gu Li | Lose | W+R | 7.5 | 3177 | -8 | 
+| 2013-05-09 | 第15回中国囲碁甲級リーグ第4節 | Hu Yaoyu | Tao Xinran | Lose | W+R | 7.5 | 3185 | 0 | 
+| 2013-05-04 | 第15回中国囲碁甲級リーグ第3節 |  | Hu Yaoyu | Win | W+R | 7.5 | 3185 | -81 | 
+| 2013-04-11 | 第26期中国囲碁名人戦予選 | Zhao Chenyu | Hu Yaoyu | Lose | B+1.5 | 7.5 | 3266 | -3 | 
+| 2013-04-10 | 第26期中国囲碁名人戦予選 | Wang Haoyang | Hu Yaoyu | Win | W+R | 7.5 | 3269 | 16 | 
+| 2013-04-07 | 第15回中国囲碁甲級リーグ第2節 | Hu Yaoyu | Peng Quan | Win | B+R | 7.5 | 3253 | 17 | 
+| 2013-04-05 | 第15回中国囲碁甲級リーグ第1節 |  | Hu Yaoyu | Win | W+R | 7.5 | 3236 | -50 | 
+| 2013-03-13 | 2013CCTV杯中国囲棋電視快棋戦2回戦 | Hu Yaoyu | Jiang Weijie | Lose | W+R | 7.5 | 3286 | 16 | 
+| 2013-01-24 | 第27期中国囲碁天元戦1回戦 | Yang Dingxin | Hu Yaoyu | Lose | B+R | 7.5 | 3270 | -5 | 
+| 2013-01-23 | 第27期中国囲碁天元戦予選 | Hu Yaoyu | Ding Wei | Win | B+R | 7.5 | 3275 | 0 | 
+| 2012-12-29 | 第13期リコー杯囲碁戦2回戦 | Jiang Weijie | Hu Yaoyu | Lose | B+R | 7.5 | 3275 | -8 | 
+| 2012-12-28 | 第13期リコー杯囲碁戦1回戦 | Fan Yin | Hu Yaoyu | Win | W+R | 7.5 | 3283 | 18 | 
+| 2012-12-08 | 第14回中国囲碁甲級リーグ第22節 | Ke Jie | Hu Yaoyu | Lose | B+R | 7.5 | 3265 | 34 | 
+| 2012-12-05 | 第14回中国囲碁甲級リーグ第21節 | Hu Yaoyu | Xie He | Lose | W+R | 7.5 | 3231 | -230 | 
+| 2012-11-24 | 第14回中国囲碁甲級リーグ第20節 | Hu Yaoyu | Lee Yeongkyu | Win | B+R | 7.5 | 3461 | 20 | 
+| 2012-11-10 | 第14回中国囲碁甲級リーグ第19節 | Jiang Weijie | Hu Yaoyu | Win | W+0.5 | 7.5 | 3441 | 9 | 
+| 2012-11-03 | 第14回中国囲碁甲級リーグ第18節 | Gu Zihao | Hu Yaoyu | Win | W+R | 7.5 | 3432 | 18 | 
+| 2012-10-21 | 第14回中国囲碁甲級リーグ第17節 | Tang Weixing | Hu Yaoyu | Lose | B+R | 7.5 | 3414 | -11 | 
+| 2012-10-19 | 第4期中国竜星戦3回戦 | Hu Yaoyu | Shi Yue | Lose | W+R | 7.5 | 3425 | -13 | 
+| 2012-10-18 | 第4期中国竜星戦2回戦 | Hu Yaoyu | Chang Hao | Win | B+3.5 | 7.5 | 3438 | 25 | 
+| 2012-10-17 | 第4期中国竜星戦1回戦 | Hu Yaoyu | Li Zhangyuan | Win | B+R | 7.5 | 3413 | 7 | 
+| 2012-10-13 | 第8期威孚房開杯棋王戦予選 | Shi Yue | Hu Yaoyu | Lose | B+R | 7.5 | 3406 | 7 | 
+| 2012-09-30 | 第14回中国囲碁甲級リーグ第16節 | Park Junghwan | Hu Yaoyu | Lose | B+R | 7.5 | 3399 | -17 | 
+| 2012-09-28 | 第14回中国囲碁甲級リーグ第15節 | Hu Yaoyu | Chen Yaoye | Win | B+R | 7.5 | 3416 | -23 | 
+| 2012-09-08 | 第14回中国囲碁甲級リーグ第14節 | Hu Yaoyu | Huang Chen | Win | B+1.5 | 7.5 | 3439 | -30 | 
+| 2012-09-01 | 第14回中国囲碁甲級リーグ第13節 | Piao Wenyao | Hu Yaoyu | Win | W+R | 7.5 | 3469 | 2 | 
+| 2012-08-30 | 第14回中国囲碁甲級リーグ第12節 | Hu Yaoyu | Mao Ruilong | Lose | W+R | 7.5 | 3467 | 14 | 
+| 2012-07-15 | 第14回中国囲碁甲級リーグ第11節 | Hu Yaoyu | Zhou Hexi | Lose | W+R | 7.5 | 3453 | -9 | 
+| 2012-07-13 | 第14回中国囲碁甲級リーグ第10節 | Gu Li | Hu Yaoyu | Lose | B+1.5 | 7.5 | 3462 | -40 | 
+| 2012-07-09 | 2012CCTV杯中国囲棋電視快棋戦2回戦 |  | Hu Yaoyu | Lose | B+3.5 | 7.5 | 3502 | -4 | 
+| 2012-07-07 | 第14回中国囲碁甲級リーグ第9節 | Hu Yaoyu | Lee Yeongkyu | Win | B+R | 7.5 | 3506 | 45 | 
+| 2012-07-03 | 第4回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Hu Yaoyu | Piao Wenyao | Lose | W+R | 7.5 | 3461 | -15 | 
+| 2012-06-30 | 第14回中国囲碁甲級リーグ第8節 | Zhou Ruiyang | Hu Yaoyu | Lose | B+1.5 | 7.5 | 3476 | 28 | 
+| 2012-06-28 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Zhu Yuanhao | Hu Yaoyu | Lose | B+R | 7.5 | 3448 | -25 | 
+| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Hu Yaoyu |  | Win | B+R | 7.5 | 3473 | 0 | 
+| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 |  | Hu Yaoyu | Win | W+R | 7.5 | 3473 | 3 | 
+| 2012-06-23 | 第14回中国囲碁甲級リーグ第7節 | Hu Yaoyu | Sun Tengyu | Win | B+R | 7.5 | 3470 | -44 | 
+| 2012-06-14 | 第14回中国囲碁甲級リーグ第6節 | Cho Hanseung | Hu Yaoyu | Lose | B+R | 7.5 | 3514 | -61 | 
+| 2012-06-09 | 第14回中国囲碁甲級リーグ第5節 | Hu Yaoyu | Mi Yuting | Win | B+R | 7.5 | 3575 | 50 | 
+| 2012-06-03 | 第9期倡棋杯中国プロ囲碁選手権戦2回戦 | Kong Jie | Hu Yaoyu | Lose | B+5 | 7.5 | 3525 | -6 | 
+| 2012-06-01 | 第9期倡棋杯中国プロ囲碁選手権戦1回戦 | Wang Lei (s) | Hu Yaoyu | Win | W+R | 7.5 | 3531 | -52 | 
+| 2012-05-09 | 第4回BCカード杯世界選手権準決勝 | Hu Yaoyu | Paek Hongseok | Lose | W+R | 6.5 | 3583 | -54 | 
+| 2012-04-30 | 第14回中国囲碁甲級リーグ第2節 | Piao Wenyao | Hu Yaoyu | Win | W+R | 7.5 | 3637 | 3 | 
+| 2012-04-28 | 第14回中国囲碁甲級リーグ第1節 | Hu Yaoyu | Weon Seongjin | Lose | W+R | 7.5 | 3634 | -17 | 
+| 2012-04-20 | 第17回LG杯予選 | Cho Hunhyun | Hu Yaoyu | Win | W+R | 6.5 | 3651 | 1 | 
+| 2012-04-17 | 第4回BCカード杯世界選手権4回戦 | Hu Yaoyu | Xie He | Win | B+R | 6.5 | 3650 | 10 | 
+| 2012-04-15 | 第4回BCカード杯世界選手権3回戦 | Mi Yuting | Hu Yaoyu | Win | W+R | 6.5 | 3640 | 15 | 
+| 2012-04-07 | 第25期中国囲碁名人戦2回戦 | Tan Xiao | Hu Yaoyu | Lose | B+1.5 | 7.5 | 3625 | 22 | 
+| 2012-03-20 | 第4回BCカード杯世界選手権2回戦 | Kim Kiyoung | Hu Yaoyu | Win | W+1.5 | 6.5 | 3603 | -46 | 
+| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Choi Jeong | Hu Yaoyu | Win | W+R | 6.5 | 3649 | -19 | 
+| 2012-02-14 | 第26期中国囲碁天元戦3回戦 | Hu Yaoyu | Zhou Hexi | Lose | W+0.5 | 7.5 | 3668 | 59 | 
+| 2012-02-12 | 第26期中国囲碁天元戦2回戦 | Zhou Ruiyang | Hu Yaoyu | Win | W+R | 7.5 | 3609 | -7 | 
+| 2012-02-10 | 第26期中国囲碁天元戦1回戦 | Hu Yaoyu | Liu Xing | Win | B+R | 7.5 | 3616 | 45 | 
+| 2012-01-12 | 第12期リコー杯囲碁戦3回戦 | Hu Yaoyu | Zhou Heyang | Lose | W+0.5 | 7.5 | 3571 | -34 | 
+| 2011-12-30 | 第12期リコー杯囲碁戦2回戦 | Hu Yaoyu | Xiao Wei | Win | B+R | 7.5 | 3605 | 6 | 
+| 2011-12-26 | 第13回中国囲碁甲級リーグ第22節 | Tao Xinran | Hu Yaoyu | Lose | B+1.5 | 7.5 | 3599 | 332 | 
+| 2011-12-03 | 第13回中国囲碁甲級リーグ第21節 | Zhou Heyang | Hu Yaoyu | Win | W+4.5 | 7.5 | 3267 | 16 | 
+| 2011-11-27 | 第13回中国囲碁甲級リーグ第20節 | Hu Yaoyu | Piao Wenyao | Lose | W+R | 7.5 | 3251 | 22 | 
+| 2011-11-05 | 第13回中国囲碁甲級リーグ第19節 | Mao Ruilong | Hu Yaoyu | Win | W+R | 7.5 | 3229 | -7 | 
+| 2011-10-29 | 第13回中国囲碁甲級リーグ第18節 | Hu Yaoyu | Wu Guangya | Lose | W+R | 7.5 | 3236 | -2 | 
+| 2011-10-15 | 第7期威孚房開杯棋王戦3回戦 | Hu Yaoyu | Tan Xiao | Lose | W+R | 7.5 | 3238 | -26 | 
+| 2011-10-13 | 第13回中国囲碁甲級リーグ第17節 | Gu Li | Hu Yaoyu | Lose | B+R | 7.5 | 3264 | -26 | 
+| 2011-10-08 | 第13回中国囲碁甲級リーグ第16節 | Luo Xihe | Hu Yaoyu | Win | W+R | 7.5 | 3290 | -7 | 
+| 2011-09-29 | 第13回中国囲碁甲級リーグ第15節 | Hu Yaoyu | Ding Wei | Win | B+R | 7.5 | 3297 | 66 | 
+| 2011-09-10 | 第13回中国囲碁甲級リーグ第14節 | Meng Tailing | Hu Yaoyu | Win | W+R | 7.5 | 3231 | 26 | 
+| 2011-09-08 | 第7期威孚房開杯棋王戦2回戦 | Hu Yaoyu | Xie He | Win | B+R | 7.5 | 3205 | 0 | 
+| 2011-09-08 | 第7期威孚房開杯棋王戦1回戦 | Hu Yaoyu | Qiu Jun | Win | B+R | 7.5 | 3205 | 32 | 
+| 2011-09-06 | 第13回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Chen Yaoye | Win | B+1.5 | 7.5 | 3173 | -1 | 
+| 2011-09-04 | 第13回中国囲碁甲級リーグ第12節 | Hu Yaoyu | Sun Tengyu | Win | B+R | 7.5 | 3174 | 10 | 
+| 2011-07-25 | 第13回中国囲碁甲級リーグ第11節 | Tao Xinran | Hu Yaoyu | Win | W+R | 7.5 | 3164 | 15 | 
+| 2011-07-11 | 第13期阿含・桐山杯中国早碁オープン戦1回戦 | Hu Yaoyu | Kong Jie | Lose | W+0.5 | 7.5 | 3149 | -24 | 
+| 2011-07-09 | 第13回中国囲碁甲級リーグ第10節 | Hu Yaoyu | Zhou Ruiyang | Lose | W+0.5 | 7.5 | 3173 | -43 | 
+| 2011-07-02 | 第13回中国囲碁甲級リーグ第9節 | Piao Wenyao | Hu Yaoyu | Win | W+R | 7.5 | 3216 | -106 | 
+| 2011-06-25 | 第13回中国囲碁甲級リーグ第8節 | Hu Yaoyu | Ke Jie | Lose | W+6.5 | 7.5 | 3322 | -28 | 
+| 2011-06-23 | 第13期阿含・桐山杯中国早碁オープン戦予選 | Hu Yaoyu | Mao Ruilong | Win | B+3.5 | 7.5 | 3350 | -32 | 
+| 2011-06-18 | 第13回中国囲碁甲級リーグ第7節 | Hong Seongji | Hu Yaoyu | Win | W+R | 7.5 | 3382 | 4 | 
+| 2011-06-09 | 第13回中国囲碁甲級リーグ第6節 | Hu Yaoyu | Wang Xi | Lose | W+R | 7.5 | 3378 | -54 | 
+| 2011-06-03 | 第8期倡棋杯中国プロ囲碁選手権戦2回戦 | Gu Li | Hu Yaoyu | Lose | B+R | 7.5 | 3432 | 25 | 
+| 2011-06-01 | 第8期倡棋杯中国プロ囲碁選手権戦1回戦 | Hu Yaoyu | Peng Quan | Win | B+7 | 7.5 | 3407 | 25 | 
+| 2011-05-28 | 第13回中国囲碁甲級リーグ第5節 | Hu Yaoyu | Luo Xihe | Win | B+5.5 | 7.5 | 3382 | 20 | 
+| 2011-05-21 | 第13回中国囲碁甲級リーグ第4節 | Ding Wei | Hu Yaoyu | Lose | B+R | 7.5 | 3362 | -4 | 
+| 2011-05-14 | 第13回中国囲碁甲級リーグ第3節 | Peng Quan | Hu Yaoyu | Lose | B+R | 7.5 | 3366 | -12 | 
+| 2011-05-09 | 第13回中国囲碁甲級リーグ第2節 | Hu Yaoyu | Kong Jie | Win | B+R | 7.5 | 3378 | 20 | 
+| 2011-05-07 | 第13回中国囲碁甲級リーグ第1節 | Hu Yaoyu | Tan Xiao | Lose | W+R | 7.5 | 3358 | -94 | 
+| 2011-03-18 | 第3期中国竜星戦2回戦 | Ding Wei | Hu Yaoyu | Lose | B+R | 7.5 | 3452 | -19 | 
+| 2011-03-14 | 2011CCTV杯中国囲棋電視快棋戦1回戦 | Hu Yaoyu |  | Lose | W+R | 7.5 | 3471 | 24 | 
+| 2011-03-02 | 第11期リコー杯囲碁戦準決勝 | Tan Xiao | Hu Yaoyu | Lose | B+T | 7.5 | 3447 | 13 | 
+| 2011-02-17 | 第25期中国囲碁天元戦3回戦 | Hu Yaoyu | Zhou Hexi | Lose | W+R | 7.5 | 3434 | 3 | 
+| 2011-02-15 | 第25期中国囲碁天元戦2回戦 | Zhou Ruiyang | Hu Yaoyu | Win | W+R | 7.5 | 3431 | 43 | 
+| 2011-02-13 | 第25期中国囲碁天元戦1回戦 | Gu Li | Hu Yaoyu | Win | W+R | 7.5 | 3388 | 15 | 
+| 2011-02-12 | 第25期中国囲碁天元戦予選 | Zhong Wenjing | Hu Yaoyu | Win | W+R | 7.5 | 3373 | 156 | 
+| 2011-01-20 | 第11期リコー杯囲碁戦4回戦 | Jiang Weijie | Hu Yaoyu | Win | W+R | 7.5 | 3217 | 85 | 
+| 2010-12-18 | 第12回中国囲碁甲級リーグ第22節 | Hu Yaoyu | Shi Yue | Win | B+1.5 | 7.5 | 3132 | 13 | 
+| 2010-12-11 | 第12回中国囲碁甲級リーグ第21節 | Hu Yaoyu | Tao Xinran | Lose | W+2.5 | 7.5 | 3119 | 22 | 
+| 2010-12-04 | 第12回中国囲碁甲級リーグ第20節 | Fan Tingyu | Hu Yaoyu | Win | W+R | 7.5 | 3097 | -48 | 
+| 2010-11-16 | 第12回中国囲碁甲級リーグ第19節 | Zhong Wenjing | Hu Yaoyu | Win | W+R | 7.5 | 3145 | 18 | 
+| 2010-11-08 | 第15回LG杯世界棋王戦3回戦 | Kong Jie | Hu Yaoyu | Lose | B+R | 6.5 | 3127 | -3 | 
+| 2010-11-04 | 第12回中国囲碁甲級リーグ第18節 | Hu Yaoyu | Sun Li | Win | B+1.5 | 7.5 | 3130 | 14 | 
+| 2010-10-30 | 第12回中国囲碁甲級リーグ第17節 | Hu Yaoyu | Lee Yeongkyu | Lose | W+R | 7.5 | 3116 | -58 | 
+| 2010-10-21 | 第12回中国囲碁甲級リーグ第16節 | Meng Tailing | Hu Yaoyu | Win | W+2.5 | 7.5 | 3174 | 7 | 
+| 2010-10-16 | 第12回中国囲碁甲級リーグ第15節 | Tao Xin | Hu Yaoyu | Lose | B+R | 7.5 | 3167 | 19 | 
+| 2010-10-09 | 第12回中国囲碁甲級リーグ第14節 | Hu Yaoyu |  | Win | B+R | 7.5 | 3148 | 144 | 
+| 2010-09-06 | 第12回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Yu Bin | Win | B+R | 7.5 | 3004 | 27 | 
+| 2010-09-04 | 第12回中国囲碁甲級リーグ第12節 |  | Hu Yaoyu | Win | W+R | 7.5 | 2977 | -17 | 
+| 2010-09-01 | 第6期威孚房開杯棋王戦1回戦 | Hu Yaoyu | Chen Yaoye | Lose | W+R | 7.5 | 2994 | -2 | 
+| 2010-08-25 | 第12回中国囲碁甲級リーグ第11節 | Li Zhe | Hu Yaoyu | Lose | B+R | 7.5 | 2996 | -54 | 
+| 2010-08-03 | 第15回三星火災杯統合予選1回戦 |  | Hu Yaoyu | Win | W+3.5 | 6.5 | 3050 | 3 | 
+| 2010-07-10 | 第12回中国囲碁甲級リーグ第10節 | Wang Yuhui | Hu Yaoyu | Win | W+R | 7.5 | 3047 | -4 | 
+| 2010-07-03 | 第12回中国囲碁甲級リーグ第9節 | Hu Yaoyu |  | Win | B+R | 7.5 | 3051 | -44 | 
+| 2010-06-19 | 第12回中国囲碁甲級リーグ第8節 | Chen Yaoye | Hu Yaoyu | Win | W+R | 7.5 | 3095 | 72 | 
+| 2010-06-15 | 第3回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Xie He | Hu Yaoyu | Lose | B+R | 7.5 | 3023 | -15 | 
+| 2010-06-12 | 第12回中国囲碁甲級リーグ第7節 | Sun Li | Hu Yaoyu | Lose | B+R | 7.5 | 3038 | -50 | 
+| 2010-06-09 | 第15回LG杯世界棋王戦2回戦 | Chang Hao | Hu Yaoyu | Win | W+R | 6.5 | 3088 | -1 | 
+| 2010-06-07 | 第15回LG杯世界棋王戦1回戦 | Hu Yaoyu | Lee Huiseong | Win | B+R | 6.5 | 3089 | 43 | 
+| 2010-06-03 | 第12回中国囲碁甲級リーグ第6節 | Lee Yeongkyu | Hu Yaoyu | Lose | B+1.5 | 7.5 | 3046 | -39 | 
+| 2010-05-29 | 第12回中国囲碁甲級リーグ第5節 | Meng Tailing | Hu Yaoyu | Lose | B+R | 7.5 | 3085 | 7 | 
+| 2010-05-15 | 第12回中国囲碁甲級リーグ第4節 | Hu Yaoyu |  | Win | B+R | 7.5 | 3078 | 65 | 
+| 2010-05-08 | 第12回中国囲碁甲級リーグ第3節 | Hu Yaoyu | Niu Yutian | Win | B+R | 7.5 | 3013 | -10 | 
+| 2010-04-29 | 第12回中国囲碁甲級リーグ第2節 | Gu Li | Hu Yaoyu | Lose | B+R | 7.5 | 3023 | 9 | 
+| 2010-04-25 | 第12回中国囲碁甲級リーグ第1節 | Liu Xing | Hu Yaoyu | Win | W+R | 7.5 | 3014 | 8 | 
+| 2010-04-20 | 第15回LG杯予選 | Hu Yaoyu | Kang Dongyun | Win | B+R | 6.5 | 3006 | 15 | 
+| 2010-03-30 | 第23期中国囲碁名人戦予選 |  | Hu Yaoyu | Win | W+R | 7.5 | 2991 | 2 | 
+| 2010-03-27 | 第8回春蘭杯世界囲碁選手権1回戦 | Hu Yaoyu | Choi Cheolhan | Lose | W+0.5 | 7.5 | 2989 | -67 | 
+| 2010-03-04 | 2010CCTV杯中国囲棋電視快棋戦1回戦 | Hu Yaoyu |  | Lose | W+R | 7.5 | 3056 | 76 | 
+| 2010-01-27 | 第24期中国囲碁天元戦1回戦 | Hu Yaoyu | Wang Zheming | Lose | W+0.5 | 7.5 | 2980 | -124 | 
+| 2010-01-13 | 第2回BCカード杯世界選手権統合予選決勝 | Hu Yaoyu | On Sojin | Lose | W+R | 6.5 | 3104 | 6 | 
+| 2009-12-30 | 第10期リコー杯囲碁戦2回戦 | Hu Yaoyu | Liao Xingwen | Lose | W+R | 7.5 | 3098 | -21 | 
+| 2009-12-12 | 第11回中国囲碁甲級リーグ第21節 | Hu Yaoyu | Wang Xi | Win | B+R | 7.5 | 3119 | 29 | 
+| 2009-12-05 | 第11回中国囲碁甲級リーグ第20節 | Liu Xing | Hu Yaoyu | Win | W+R | 7.5 | 3090 | -131 | 
+| 2009-11-28 | 第11回中国囲碁甲級リーグ第19節 | Tuo Jiaxi | Hu Yaoyu | Win | W+R | 7.5 | 3221 | 6 | 
+| 2009-11-19 | 第1回全国智力運動会囲碁男子団体戦 | Hu Yaoyu | Chen Yaoye | Lose | W+R | 7.5 | 3215 | -27 | 
+| 2009-11-16 | 第1回全国智力運動会囲碁男子個人戦 | Hu Yaoyu | Wang Yuhui | Lose | W+2.5 | 7.5 | 3242 | 18 | 
+| 2009-11-09 | 第14回LG杯世界棋王戦3回戦 | Hu Yaoyu | Park Yeonghun | Lose | W+R | 6.5 | 3224 | -37 | 
+| 2009-10-29 | 第11回中国囲碁甲級リーグ第17節 | Hu Yaoyu |  | Win | B+R | 7.5 | 3261 | 33 | 
+| 2009-10-26 | 第11回中国囲碁甲級リーグ第18節 |  | Hu Yaoyu | Win | W+R | 7.5 | 3228 | 1 | 
+| 2009-10-22 | 第11回中国囲碁甲級リーグ第14節 | Hu Yaoyu | Luo Xihe | Win | B+R | 7.5 | 3227 | 3 | 
+| 2009-10-20 | 第5期威孚房開杯棋王戦1回戦 | Nie Weiping | Hu Yaoyu | Lose | B+R | 7.5 | 3224 | -15 | 
+| 2009-10-17 | 第11回中国囲碁甲級リーグ第16節 | Piao Wenyao | Hu Yaoyu | Win | W+R | 7.5 | 3239 | -2 | 
+| 2009-10-10 | 第11回中国囲碁甲級リーグ第15節 | Niu Yutian | Hu Yaoyu | Lose | B+1.5 | 7.5 | 3241 | 16 | 
+| 2009-09-07 | 第11回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Meng Tailing | Lose | W+R | 7.5 | 3225 | -7 | 
+| 2009-09-05 | 第11回中国囲碁甲級リーグ第12節 | Hu Yaoyu | Sun Li | Lose | W+R | 7.5 | 3232 | 34 | 
+| 2009-08-12 | 第11期阿含・桐山杯中国早碁オープン戦1回戦 | Hu Yaoyu | Gu Li | Lose | W+R | 7.5 | 3198 | -3 | 
+| 2009-08-08 | 第14回三星火災杯統合予選決勝 | Kim Jiseok | Hu Yaoyu | Lose | B+5.5 | 6.5 | 3201 | -36 | 
+| 2009-07-11 | 第11回中国囲碁甲級リーグ第11節 | Zhong Wenjing | Hu Yaoyu | Win | W+R | 7.5 | 3237 | 12 | 
+| 2009-07-09 | 第11回中国囲碁甲級リーグ第10節 | Gu Li | Hu Yaoyu | Lose | B+R | 7.5 | 3225 | 12 | 
+| 2009-07-04 | 第11回中国囲碁甲級リーグ第9節 | Hu Yaoyu | Liu Xing | Lose | W+R | 7.5 | 3213 | -16 | 
+| 2009-07-01 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Mao Ruilong | Hu Yaoyu | Win | W+R | 7.5 | 3229 | 0 | 
+| 2009-07-01 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Hu Yaoyu |  | Win | B+R | 7.5 | 3229 | 16 | 
+| 2009-06-27 | 第11回中国囲碁甲級リーグ第8節 | Kong Jie | Hu Yaoyu | Win | W+R | 7.5 | 3213 | 115 | 
+| 2009-06-18 | 第11回中国囲碁甲級リーグ第7節 | Wang Yao | Hu Yaoyu | Win | W+R | 7.5 | 3098 | 0 | 
+| 2009-06-13 | 第11回中国囲碁甲級リーグ第6節 | Shao Weigang | Hu Yaoyu | Win | W+0.5 | 7.5 | 3098 | 49 | 
+| 2009-06-09 | 第11回中国囲碁甲級リーグ第5節 | Piao Wenyao | Hu Yaoyu | Win | W+R | 7.5 | 3049 | -24 | 
+| 2009-06-01 | 第6期倡棋杯中国プロ囲碁選手権戦2回戦 | Hu Yaoyu | Wang Xi | Lose | W+3 | 7.5 | 3073 | -16 | 
+| 2009-05-30 | 第6期倡棋杯中国プロ囲碁選手権戦1回戦 | Hu Yaoyu | Wang Yuhui | Win | B+1 | 7.5 | 3089 | -50 | 
+| 2009-05-28 | 第11回中国囲碁甲級リーグ第4節 | Hu Yaoyu | Ding Wei | Lose | W+R | 7.5 | 3139 | -7 | 
+| 2009-05-23 | 第11回中国囲碁甲級リーグ第3節 | Peng Quan | Hu Yaoyu | Win | W+R | 7.5 | 3146 | -7 | 
+| 2009-05-20 | 第14回LG杯世界棋王戦2回戦 | Hu Yaoyu | Weon Seongjin | Win | B+1.5 | 6.5 | 3153 | 16 | 
+| 2009-05-18 | 第14回LG杯世界棋王戦1回戦 | Hu Yaoyu | Kim Seongjae | Win | B+R | 6.5 | 3137 | -10 | 
+| 2009-05-14 | 第11回中国囲碁甲級リーグ第2節 | Wang Haoyang | Hu Yaoyu | Win | W+R | 7.5 | 3147 | 19 | 
+| 2009-05-09 | 第11回中国囲碁甲級リーグ第1節 | Lee Yeongkyu | Hu Yaoyu | Lose | B+R | 7.5 | 3128 | 67 | 
+| 2009-03-22 | 第1回BCカード杯世界選手権2回戦 | Hu Yaoyu | Heo Yongho | Lose | W+1.5 | 6.5 | 3061 | -114 | 
+| 2009-02-28 | 第1回BCカード杯世界選手権1回戦 | Paek Daehyun | Hu Yaoyu | Win | W+R | 6.5 | 3175 | 78 | 
+| 2009-02-17 | 2009CCTV杯中国囲棋電視快棋戦2回戦 | Gu Lingyi | Hu Yaoyu | Lose | B+3.5 | 7.5 | 3097 | 3 | 
+| 2009-02-13 | 第23期中国囲碁天元戦2回戦 | Zhou Ruiyang | Hu Yaoyu | Lose | B+R | 7.5 | 3094 | -25 | 
+| 2009-02-11 | 第23期中国囲碁天元戦1回戦 | Yu Bin | Hu Yaoyu | Win | W+4.5 | 7.5 | 3119 | 6 | 
+| 2009-02-08 | 第9期リコー杯囲碁戦3回戦 | Kong Jie | Hu Yaoyu | Lose | B+R | 7.5 | 3113 | -72 | 
+| 2008-12-27 | 第10回中国囲碁甲級リーグ第22節 | Hu Yaoyu | Ma Xiaochun | Win | B+1.5 | 7.5 | 3185 | 14 | 
+| 2008-12-24 | 第9期リコー杯囲碁戦2回戦 | Li Kang | Hu Yaoyu | Win | W+R | 7.5 | 3171 | 55 | 
+| 2008-12-20 | 第10回中国囲碁甲級リーグ第21節 | Wang Lei (s) | Hu Yaoyu | Win | W+0.5 | 7.5 | 3116 | 105 | 
+| 2008-12-13 | 第10回中国囲碁甲級リーグ第20節 | Gu Li | Hu Yaoyu | Lose | B+R | 7.5 | 3011 | -27 | 
+| 2008-12-06 | 第14期NEC杯囲碁戦準決勝 | Kong Jie | Hu Yaoyu | Lose | B+5.5 | 7.5 | 3038 | -12 | 
+| 2008-12-04 | 第10回中国囲碁甲級リーグ第19節 | Hu Yaoyu | Peng Quan | Lose | W+0.5 | 7.5 | 3050 | -19 | 
+| 2008-12-02 | 第10回中国囲碁甲級リーグ第17節 | Piao Wenyao | Hu Yaoyu | Win | W+R | 7.5 | 3069 | 260 | 
+| 2008-11-29 | 第10回中国囲碁甲級リーグ第18節 | Kong Jie | Hu Yaoyu | Win | W+0.5 | 7.5 | 2809 | -45 | 
+| 2008-11-15 | 第10回中国囲碁甲級リーグ第16節 | Hu Yaoyu | Ding Wei | Win | B+R | 7.5 | 2854 | -2 | 
+| 2008-11-10 | 第2回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Wang Yao | Hu Yaoyu | Lose | B+R | 7.5 | 2856 | -11 | 
+| 2008-11-08 | 第14期NEC杯囲碁戦2回戦 | Li Zhe | Hu Yaoyu | Win | W+R | 7.5 | 2867 | 17 | 
+| 2008-11-06 | 第10回中国囲碁甲級リーグ第15節 | Hu Yaoyu | Zhou Ruiyang | Win | B+1.5 | 7.5 | 2850 | 6 | 
+| 2008-11-01 | 第10回中国囲碁甲級リーグ第14節 | Niu Yutian | Hu Yaoyu | Win | W+R | 7.5 | 2844 | -475 | 
+| 2008-09-10 | 第4期威孚房開杯棋王戦1回戦 | Ma Xiaochun | Hu Yaoyu | Lose | B+R | 7.5 | 3319 | -42 | 
+| 2008-08-29 | 第10期阿含・桐山杯中国早碁オープン戦1回戦 |  | Hu Yaoyu | Lose | B+R | 7.5 | 3361 | 321 | 
+| 2008-07-05 | 第10回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Lee Yeongkyu | Lose | W+R | 7.5 | 3040 | 2 | 
+| 2008-07-01 | 第10回中国囲碁甲級リーグ第12節 | Hu Yaoyu |  | Win | B+R | 7.5 | 3038 | 6 | 
+| 2008-06-21 | 第10回中国囲碁甲級リーグ第11節 |  | Hu Yaoyu | Lose | B+1.5 | 7.5 | 3032 | -8 | 
+| 2008-06-14 | 第10回中国囲碁甲級リーグ第10節 | Hu Yaoyu | Wang Lei (s) | Win | B+R | 7.5 | 3040 | -12 | 
+| 2008-06-11 | 第2回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Hu Yaoyu | Ding Wei | Win | B+R | 7.5 | 3052 | 13 | 
+| 2008-06-09 | 第2回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Li Zhe | Hu Yaoyu | Win | W+R | 7.5 | 3039 | -1 | 
+| 2008-06-05 | 第10回中国囲碁甲級リーグ第9節 | Hu Yaoyu | Gu Li | Win | B+R | 7.5 | 3040 | 10 | 
+| 2008-06-02 | 第10回中国囲碁甲級リーグ第7節 | Tuo Jiaxi | Hu Yaoyu | Lose | B+R | 7.5 | 3030 | 11 | 
+| 2008-05-31 | 第10回中国囲碁甲級リーグ第8節 | Huang Yizhong | Hu Yaoyu | Win | W+2.5 | 7.5 | 3019 | -10 | 
+| 2008-05-26 | 第5期倡棋杯中国プロ囲碁選手権戦2回戦 | Hu Yaoyu | Zhou Ruiyang | Lose | W+1 | 7.5 | 3029 | -7 | 
+| 2008-05-22 | 第5期倡棋杯中国プロ囲碁選手権戦1回戦 | Hu Yaoyu | Niu Yutian | Win | B+R | 7.5 | 3036 | -2 | 
+| 2008-05-15 | 第10回中国囲碁甲級リーグ第6節 | Hu Yaoyu | Shi Yue | Win | B+R | 7.5 | 3038 | -1 | 
+| 2008-05-10 | 第10回中国囲碁甲級リーグ第5節 | Wang Yao | Hu Yaoyu | Lose | B+R | 7.5 | 3039 | -13 | 
+| 2008-04-30 | 第6回応氏杯世界選手権1回戦 | Hu Yaoyu | Lee Sedol | Lose | W+5 | 7.5 | 3052 | 233 | 
+| 2008-04-17 | 第10回中国囲碁甲級リーグ第4節 | Zhou Heyang | Hu Yaoyu | Win | W+R | 7.5 | 2819 | -2 | 
+| 2008-04-12 | 第21回世界囲碁選手権富士通杯1回戦 | Hu Yaoyu | Lee Yeongkyu | Lose | W+T | 6.5 | 2821 | -24 | 
+| 2008-04-05 | 第10回中国囲碁甲級リーグ第3節 | Liao Xingwen | Hu Yaoyu | Win | W+4.5 | 7.5 | 2845 | 4 | 
+| 2008-03-29 | 第10回中国囲碁甲級リーグ第2節 | Lee Yeongkyu | Hu Yaoyu | Lose | B+R | 7.5 | 2841 | -5 | 
+| 2008-03-22 | 第10回中国囲碁甲級リーグ第1節 | Meng Tailing | Hu Yaoyu | Lose | B+R | 7.5 | 2846 | 49 | 
+| 2008-03-11 | 第8期リコー杯囲碁戦準決勝 | Qiu Jun | Hu Yaoyu | Lose | B+R | 7.5 | 2797 | -8 | 
+| 2008-03-08 | 第8期リコー杯囲碁戦4回戦 | Hu Yaoyu | Piao Wenyao | Win | B+R | 7.5 | 2805 | 9 | 
+| 2008-03-07 | 第8期リコー杯囲碁戦3回戦 | Li Zhe | Hu Yaoyu | Win | W+R | 7.5 | 2796 | 10 | 
+| 2008-03-01 | 第21期中国囲碁名人戦2回戦 | Hu Yaoyu | Wang Lei (b) | Lose | W+R | 7.5 | 2786 | -8 | 
+| 2008-02-28 | 第21期中国囲碁名人戦1回戦 | Ding Lie | Hu Yaoyu | Win | W+R | 7.5 | 2794 | -23 | 
+| 2008-01-29 | 第22期中国囲碁天元戦1回戦 | Hu Yaoyu | Gu Lingyi | Lose | W+R | 7.5 | 2817 | 23 | 
+| 2008-01-07 | 第8期リコー杯囲碁戦2回戦 | Ding Wei | Hu Yaoyu | Win | W+2.5 | 7.5 | 2794 | 1 | 
+| 2007-12-24 | 2008CCTV杯中国囲棋電視快棋戦2回戦 | Hu Yaoyu | Zhu Songli | Lose | W+R | 7.5 | 2793 | 0 | 
+| 2007-12-24 | 2008CCTV杯中国囲棋電視快棋戦1回戦 | Hu Yaoyu |  | Win | B+R | 7.5 | 2793 | -20 | 
+| 2007-12-22 | 第9回中国囲碁甲級リーグ第22節 | Hu Yaoyu | Huang Yizhong | Lose | W+R | 7.5 | 2813 | -11 | 
+| 2007-12-15 | 第9回中国囲碁甲級リーグ第21節 | Tao Xin | Hu Yaoyu | Win | W+R | 7.5 | 2824 | 10 | 
+| 2007-12-11 | 第9回中国囲碁甲級リーグ第19節 | Meng Tailing | Hu Yaoyu | Win | W+2.5 | 7.5 | 2814 | 9 | 
+| 2007-12-08 | 第9回中国囲碁甲級リーグ第20節 | Hu Yaoyu |  | Win | B+R | 7.5 | 2805 | -15 | 
+| 2007-11-29 | 第9回農心辛ラーメン杯世界囲碁最強戦第8戦 | Hu Yaoyu | Mok Jinseok | Lose | W+0.5 | 6.5 | 2820 | -25 | 
+| 2007-11-24 | 第9回中国囲碁甲級リーグ第18節 | Wang Xi | Hu Yaoyu | Win | W+0.5 | 7.5 | 2845 | -17 | 
+| 2007-11-17 | 第9回中国囲碁甲級リーグ第17節 | Zhou Heyang | Hu Yaoyu | Win | W+R | 7.5 | 2862 | 9 | 
+| 2007-11-14 | 第12回LG杯世界棋王戦準決勝 | Lee Sedol | Hu Yaoyu | Lose | B+R | 6.5 | 2853 | 4 | 
+| 2007-11-12 | 第12回LG杯世界棋王戦3回戦 | Hu Yaoyu | Park Cheongsang | Win | B+R | 6.5 | 2849 | 52 | 
+| 2007-11-04 | 第3期威孚房開杯棋王戦決勝 | Hu Yaoyu | Ma Xiaochun | Win | B+5.5 | 7.5 | 2797 | 0 | 
+| 2007-11-03 | 第3期威孚房開杯棋王戦準決勝 | Wang Yuhui | Hu Yaoyu | Win | W+R | 7.5 | 2797 | 12 | 
+| 2007-11-01 | 第9回中国囲碁甲級リーグ第15節 | Liao Xingwen | Hu Yaoyu | Win | W+R | 7.5 | 2785 | -4 | 
+| 2007-10-26 | 第4期倡棋杯中国プロ囲碁選手権戦2回戦 | Zhou Heyang | Hu Yaoyu | Lose | B+1 | 7.5 | 2789 | -39 | 
+| 2007-10-24 | 第4期倡棋杯中国プロ囲碁選手権戦1回戦 | Hu Yaoyu | Tao Xinran | Win | B+R | 7.5 | 2828 | 2 | 
+| 2007-10-22 | 第9期阿含・桐山杯中国早碁オープン戦2回戦 | Hu Yaoyu | Liu Xing | Lose | W+R | 7.5 | 2826 | 1 | 
+| 2007-10-20 | 第9回中国囲碁甲級リーグ第14節 | Wang Yao | Hu Yaoyu | Lose | B+R | 7.5 | 2825 | -19 | 
+| 2007-10-13 | 第9回中国囲碁甲級リーグ第13節 | Chen Yaoye | Hu Yaoyu | Win | W+R | 7.5 | 2844 | -14 | 
+| 2007-10-10 | 第12回三星火災杯世界オープン囲碁選手権3回戦 | Huang Yizhong | Hu Yaoyu | Lose | B+2.5 | 6.5 | 2858 | -31 | 
+| 2007-09-27 | 第9回中国囲碁甲級リーグ第12節 | Hu Yaoyu | Lee Sedol | Lose | W+R | 7.5 | 2889 | -1302 | 
+| 2007-09-19 | 第20期中国囲碁名人戦準決勝 | Ding Wei | Hu Yaoyu | Lose | B+R | 7.5 | 4191 | 1249 | 
+| 2007-09-06 | 第12回三星火災杯世界オープン囲碁選手権2回戦 | Hu Yaoyu | Hong Seongji | Win | B+R | 6.5 | 2942 | -13 | 
+| 2007-09-04 | 第12回三星火災杯世界オープン囲碁選手権1回戦 | Mok Jinseok | Hu Yaoyu | Win | W+R | 6.5 | 2955 | 13 | 
+| 2007-08-25 | 第9回中国囲碁甲級リーグ第11節 | Huang Yizhong | Hu Yaoyu | Lose | B+R | 7.5 | 2942 | -26 | 
+| 2007-08-21 | 第20期中国囲碁名人戦3回戦 | Hu Yaoyu | Wang Xi | Win | B+R | 7.5 | 2968 | 2 | 
+| 2007-08-18 | 第9回中国囲碁甲級リーグ第10節 |  | Hu Yaoyu | Win | W+R | 7.5 | 2966 | -243 | 
+| 2007-08-09 | 第9回中国囲碁甲級リーグ第9節 | Ma Xiaochun | Hu Yaoyu | Lose | B+R | 7.5 | 3209 | -92 | 
+| 2007-07-07 | 第9回中国囲碁甲級リーグ第8節 |  | Hu Yaoyu | Win | W+R | 7.5 | 3301 | -21 | 
+| 2007-06-30 | 第9回中国囲碁甲級リーグ第7節 | Hu Yaoyu | Wang Xi | Lose | W+R | 7.5 | 3322 | -18 | 
+| 2007-06-23 | 第9回中国囲碁甲級リーグ第6節 | Shao Weigang | Hu Yaoyu | Win | W+R | 7.5 | 3340 | -5 | 
+| 2007-06-16 | 第9回中国囲碁甲級リーグ第5節 |  | Hu Yaoyu | Lose | B+R | 7.5 | 3345 | -9 | 
+| 2007-06-14 | 第9期阿含・桐山杯中国早碁オープン戦1回戦 | Hu Yaoyu | Xie He | Win | B+R | 7.5 | 3354 | 13 | 
+| 2007-06-09 | 第9回中国囲碁甲級リーグ第4節 |  | Hu Yaoyu | Win | W+R | 7.5 | 3341 | 57 | 
+| 2007-06-06 | 第12回LG杯世界棋王戦2回戦 | Cho Hunhyun | Hu Yaoyu | Win | W+2.5 | 6.5 | 3284 | -11 | 
+| 2007-06-04 | 第12回LG杯世界棋王戦1回戦 | Lee Changho | Hu Yaoyu | Win | W+0.5 | 6.5 | 3295 | -11 | 
+| 2007-06-02 | 第20回世界囲碁選手権富士通杯3回戦 | Lee Changho | Hu Yaoyu | Lose | B+2.5 | 6.5 | 3306 | 3 | 
+| 2007-05-24 | 第9回中国囲碁甲級リーグ第3節 | Hu Yaoyu | Ding Wei | Win | B+9.5 | 7.5 | 3303 | 47 | 
+| 2007-05-19 | 第9回中国囲碁甲級リーグ第2節 | Kong Jie | Hu Yaoyu | Win | W+R | 7.5 | 3256 | -32 | 
+| 2007-05-12 | 第9回中国囲碁甲級リーグ第1節 | Hu Yaoyu | Wang Lei (b) | Win | B+1.5 | 7.5 | 3288 | -4 | 
+| 2007-04-21 | 第13期NEC杯囲碁戦1回戦 | Tuo Jiaxi | Hu Yaoyu | Lose | B+R | 7.5 | 3292 | 6 | 
+| 2007-04-16 | 第20回世界囲碁選手権富士通杯2回戦 | Yamashita Keigo | Hu Yaoyu | Win | W+2.5 | 6.5 | 3286 | 1 | 
+| 2007-04-14 | 第20回世界囲碁選手権富士通杯1回戦 | Yuki Satoshi | Hu Yaoyu | Win | W+R | 6.5 | 3285 | -4 | 
+| 2007-04-10 | 第20期中国囲碁名人戦2回戦 | Hu Yaoyu | Li Zhe | Win | B+R | 7.5 | 3289 | 30 | 
+| 2007-04-08 | 第20期中国囲碁名人戦1回戦 | Hu Yaoyu |  | Win | B+R | 7.5 | 3259 | -10 | 
+| 2007-04-01 | 第7期リコー杯囲碁戦決勝 | Hu Yaoyu | Chang Hao | Win | B+R | 7.5 | 3269 | -4 | 
+| 2007-03-22 | 第11回LG杯世界棋王戦決勝三番勝負第3局 | Zhou Junxun | Hu Yaoyu | Lose | B+0.5 | 6.5 | 3273 | 2 | 
+| 2007-03-21 | 第11回LG杯世界棋王戦決勝三番勝負第2局 | Hu Yaoyu | Zhou Junxun | Win | B+0.5 | 6.5 | 3271 | -19 | 
+| 2007-03-19 | 第11回LG杯世界棋王戦決勝三番勝負第1局 | Zhou Junxun | Hu Yaoyu | Lose | B+R | 6.5 | 3290 | -9 | 
+| 2007-03-16 | 第7期リコー杯囲碁戦準決勝 | Hu Yaoyu | Piao Wenyao | Win | B+R | 7.5 | 3299 | 361 | 
+| 2007-02-12 | 第11回LG杯世界棋王戦準決勝 | Cho Hanseung | Hu Yaoyu | Win | W+1.5 | 6.5 | 2938 | -7 | 
+| 2007-02-03 | 第21期中国囲碁天元戦3回戦 | Hu Yaoyu | Liu Shizhen | Lose | W+R | 7.5 | 2945 | 1 | 
+| 2007-02-02 | 第13期NEC杯囲碁戦予選 | Hu Yaoyu | Chen Yaoye | Win | B+R | 7.5 | 2944 | 8 | 
+| 2007-02-01 | 第21期中国囲碁天元戦2回戦 | Chang Hao | Hu Yaoyu | Win | W+0.5 | 7.5 | 2936 | 12 | 
+| 2007-01-29 | 第21期中国囲碁天元戦1回戦 | Hu Yaoyu |  | Win | B+R | 7.5 | 2924 | 60 | 
+| 2006-12-30 | 第7期リコー杯囲碁戦4回戦 | Hu Yaoyu | Kong Jie | Win | B+T | 7.5 | 2864 | 12 | 
+| 2006-12-29 | 第7期リコー杯囲碁戦3回戦 | Niu Yutian | Hu Yaoyu | Win | W+R | 7.5 | 2852 | 6 | 
+| 2006-12-27 | 第3期倡棋杯中国プロ囲碁選手権戦準決勝第3局 | Gu Li | Hu Yaoyu | Lose | B+R | 7.5 | 2846 | -7 | 
+| 2006-12-25 | 第3期倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Hu Yaoyu | Gu Li | Win | B+R | 7.5 | 2853 | 1 | 
+| 2006-12-23 | 第8回中国囲碁甲級リーグ第22節 | Luo Xihe | Hu Yaoyu | Win | W+R | 7.5 | 2852 | 22 | 
+| 2006-12-21 | 2007CCTV杯中国囲棋電視快棋戦1回戦 | Tuo Jiaxi | Hu Yaoyu | Lose | B+R | 7.5 | 2830 | -15 | 
+| 2006-12-16 | 第8回中国囲碁甲級リーグ第21節 | Hu Yaoyu |  | Win | B+R | 7.5 | 2845 | 5 | 
+| 2006-12-12 | 第8回中国囲碁甲級リーグ第18節 | Hu Yaoyu | Chen Yaoye | Lose | W+R | 7.5 | 2840 | -18 | 
+| 2006-12-09 | 第8回中国囲碁甲級リーグ第20節 | Hu Yaoyu | Wang Haoyang | Lose | W+R | 7.5 | 2858 | -29 | 
+| 2006-11-30 | 第8回中国囲碁甲級リーグ第19節 | Hu Yaoyu |  | Win | B+R | 7.5 | 2887 | 9 | 
+| 2006-11-18 | 第8回中国囲碁甲級リーグ第17節 | Ma Xiaochun | Hu Yaoyu | Lose | B+R | 7.5 | 2878 | 35 | 
+| 2006-11-11 | 第8回中国囲碁甲級リーグ第16節 | Niu Yutian | Hu Yaoyu | Win | W+R | 7.5 | 2843 | -22 | 
+| 2006-11-07 | 第3期倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Gu Li | Hu Yaoyu | Lose | B+1 | 7.5 | 2865 | 1 | 
+| 2006-11-02 | 第8回中国囲碁甲級リーグ第15節 | Hu Yaoyu | Nie Weiping | Win | B+1.5 | 7.5 | 2864 | 2 | 
+| 2006-10-31 | 第11回LG杯世界棋王戦3回戦 | Lee Changho | Hu Yaoyu | Win | W+R | 6.5 | 2862 | -5 | 
+| 2006-10-28 | 第8回中国囲碁甲級リーグ第14節 | Gu Li | Hu Yaoyu | Win | W+R | 7.5 | 2867 | 39 | 
+| 2006-10-26 | 第3期倡棋杯中国プロ囲碁選手権戦3回戦 | Chen Yaoye | Hu Yaoyu | Win | W+1 | 7.5 | 2828 | -9 | 
+| 2006-10-25 | 第3期倡棋杯中国プロ囲碁選手権戦2回戦 |  | Hu Yaoyu | Win | W+R | 7.5 | 2837 | 6 | 
+| 2006-10-23 | 第3期倡棋杯中国プロ囲碁選手権戦1回戦 | Zhang Xuan | Hu Yaoyu | Win | W+R | 7.5 | 2831 | -9 | 
+| 2006-10-21 | 第8回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Zhou Heyang | Lose | W+R | 7.5 | 2840 | -37 | 
+| 2006-10-18 | 第8期阿含・桐山杯中国早碁オープン戦準決勝 | Liu Xing | Hu Yaoyu | Lose | B+3.5 | 7.5 | 2877 | -58 | 
+| 2006-10-12 | 第8回中国囲碁甲級リーグ第12節 | Hu Yaoyu |  | Win | B+R | 7.5 | 2935 | 13 | 
+| 2006-10-09 | 第8期阿含・桐山杯中国早碁オープン戦2回戦 | Xie He | Hu Yaoyu | Win | W+R | 7.5 | 2922 | 37 | 
+| 2006-09-28 | 第6回春蘭杯世界囲碁選手権3回戦 | Hu Yaoyu | Chang Hao | Lose | W+0.5 | 7.5 | 2885 | -48 | 
+| 2006-09-06 | 第11回三星火災杯世界オープン囲碁選手権1回戦 | Lee Changho | Hu Yaoyu | Lose | B+R | 6.5 | 2933 | -24 | 
+| 2006-08-19 | 第8期阿含・桐山杯中国早碁オープン戦1回戦 | Hu Yaoyu | Zhu Yuanhao | Win | B+R | 7.5 | 2957 | -4 | 
+| 2006-08-05 | 第8回中国囲碁甲級リーグ第11節 | Piao Wenyao | Hu Yaoyu | Win | W+R | 7.5 | 2961 | 41 | 
+| 2006-07-27 | 第8回中国囲碁甲級リーグ第10節 | Hu Yaoyu | Huang Yizhong | Lose | W+0.5 | 7.5 | 2920 | -127 | 
+| 2006-07-08 | 第8回中国囲碁甲級リーグ第9節 | Hu Yaoyu | Zhu Yi | Win | B+R | 7.5 | 3047 | 31 | 
+| 2006-07-01 | 第8回中国囲碁甲級リーグ第8節 | Wang Yao | Hu Yaoyu | Lose | B+R | 7.5 | 3016 | -209 | 
+| 2006-06-24 | 第8回中国囲碁甲級リーグ第7節 | Hu Yaoyu | Kong Jie | Lose | W+0.5 | 7.5 | 3225 | 9 | 
+| 2006-06-15 | 第8回中国囲碁甲級リーグ第6節 | Ma Xiaochun | Hu Yaoyu | Win | W+R | 7.5 | 3216 | -9 | 
+| 2006-06-10 | 第8回中国囲碁甲級リーグ第5節 | Hu Yaoyu | Wu Guangya | Win | B+R | 7.5 | 3225 | 1 | 
+| 2006-06-03 | 第8回中国囲碁甲級リーグ第4節 | Wang Yuhui | Hu Yaoyu | Win | W+R | 7.5 | 3224 | 105 | 
+| 2006-05-17 | 第11回LG杯世界棋王戦2回戦 | Hu Yaoyu | Yamashita Keigo | Win | B+3.5 | 6.5 | 3119 | 8 | 
+| 2006-05-15 | 第11回LG杯世界棋王戦1回戦 | Cho Hunhyun | Hu Yaoyu | Win | W+5.5 | 6.5 | 3111 | 37 | 
+| 2006-05-11 | 第8回中国囲碁甲級リーグ第3節 | Hu Yaoyu | Gu Li | Lose | W+R | 7.5 | 3074 | -31 | 
+| 2006-04-28 | 第11回LG杯予選 | Rui Naiwei | Hu Yaoyu | Win | W+1.5 | 6.5 | 3105 | 11 | 
+| 2006-04-27 | 第11回LG杯予選 | Hu Yaoyu | Ha Sungbong | Win | B+R | 6.5 | 3094 | -11 | 
+| 2006-04-15 | 第8回中国囲碁甲級リーグ第1節 |  | Hu Yaoyu | Win | W+R | 7.5 | 3105 | 0 | 
+| 2006-04-10 | 2006CCTV杯中国囲棋電視快棋戦2回戦 | Hu Yaoyu | Li Jie | Lose | W+R | 7.5 | 3105 | -4 | 
+| 2006-03-29 | 第12期NEC杯囲碁戦予選 | Qiu Jun | Hu Yaoyu | Lose | B+1.5 | 7.5 | 3109 | -8 | 
+| 2006-03-13 | 第6回春蘭杯世界囲碁選手権2回戦 | Yoda Norimoto | Hu Yaoyu | Win | W+R | 7.5 | 3117 | -85 | 
+| 2006-01-17 | 2006CCTV杯中国囲棋電視快棋戦1回戦 | Liu Jing | Hu Yaoyu | Win | W+R | 7.5 | 3202 | 69 | 
+| 2005-12-31 | 第7回中国囲碁甲級リーグ第22節 | Hu Yaoyu | Dong Yan | Win | B+R | 7.5 | 3133 | 16 | 
+| 2005-12-24 | 第7回中国囲碁甲級リーグ第21節 | Hu Yaoyu | Piao Wenyao | Win | B+R | 7.5 | 3117 | -210 | 
+| 2005-12-16 | 第10回三星火災杯世界オープン囲碁選手権準決勝三番勝負第3局 | Lee Changho | Hu Yaoyu | Lose | B+R | 6.5 | 3327 | -5 | 
+| 2005-12-15 | 第10回三星火災杯世界オープン囲碁選手権準決勝三番勝負第2局 | Lee Changho | Hu Yaoyu | Win | W+1.5 | 6.5 | 3332 | 14 | 
+| 2005-12-13 | 第10回三星火災杯世界オープン囲碁選手権準決勝三番勝負第1局 | Hu Yaoyu | Lee Changho | Lose | W+R | 6.5 | 3318 | -8 | 
+| 2005-12-10 | 第7回中国囲碁甲級リーグ第20節 | Hu Yaoyu | Yu Bin | Win | B+R | 7.5 | 3326 | -41 | 
+| 2005-12-03 | 第7回中国囲碁甲級リーグ第19節 |  | Hu Yaoyu | Win | W+2.5 | 7.5 | 3367 | 16 | 
+| 2005-11-26 | 第7回中国囲碁甲級リーグ第18節 | Hu Yaoyu |  | Win | B+R | 7.5 | 3351 | -55 | 
+| 2005-11-16 | 第10回三星火災杯世界オープン囲碁選手権3回戦 | Hu Yaoyu | Kim Myeongwan | Win | B+R | 6.5 | 3406 | 114 | 
+| 2005-11-12 | 第7回中国囲碁甲級リーグ第17節 | Kong Jie | Hu Yaoyu | Lose | B+R | 7.5 | 3292 | 293 | 
+| 2005-11-05 | 第7回中国囲碁甲級リーグ第16節 | Hu Yaoyu | Zhou Heyang | Lose | W+4.5 | 7.5 | 2999 | -253 | 
+| 2005-10-29 | 第7回中国囲碁甲級リーグ第15節 | Hu Yaoyu | Zhu Yuanhao | Win | B+3.5 | 7.5 | 3252 | 81 | 
+| 2005-10-19 | 2005年国際新鋭囲碁対抗戦第3戦 | Hu Yaoyu | Cho Hanseung | Lose | W+3.5 | 6.5 | 3171 | -10 | 
+| 2005-10-18 | 2005年国際新鋭囲碁対抗戦第2戦 | Hu Yaoyu | Yamashita Keigo | Win | B+R | 6.5 | 3181 | 13 | 
+| 2005-10-17 | 2005年国際新鋭囲碁対抗戦第1戦 | Hu Yaoyu | Lin Zhihan | Win | B+R | 6.5 | 3168 | -9 | 
+| 2005-10-08 | 第7回中国囲碁甲級リーグ第13節 | Hu Yaoyu |  | Lose | W+R | 7.5 | 3177 | -11 | 
+| 2005-09-30 | 第10回三星火災杯世界オープン囲碁選手権2回戦 | Yoo Jaeho | Hu Yaoyu | Win | W+R | 6.5 | 3188 | 12 | 
+| 2005-09-28 | 第10回三星火災杯世界オープン囲碁選手権1回戦 | Hu Yaoyu | Park Yeonghun | Win | B+R | 6.5 | 3176 | 40 | 
+| 2005-08-20 | 第7回中国囲碁甲級リーグ第11節 | Hu Yaoyu | Huang Chen | Win | B+R | 7.5 | 3136 | -24 | 
+| 2005-08-13 | 第7回中国囲碁甲級リーグ第10節 | Hu Yaoyu | Piao Wenyao | Lose | W+0.5 | 7.5 | 3160 | -9 | 
+| 2005-08-06 | 第7回中国囲碁甲級リーグ第9節 | Yu Bin | Hu Yaoyu | Lose | B+7.5 | 7.5 | 3169 | -18 | 
+| 2005-07-15 | 2005年中国段位戦 | Hu Yaoyu | Ding Wei | Win | B+R | 7.5 | 3187 | -3 | 
+| 2005-07-09 | 第7回中国囲碁甲級リーグ第8節 | Hu Yaoyu | Yin Hang | Win | B+R | 7.5 | 3190 | 33 | 
+| 2005-07-05 | 第7回農心杯中国選抜戦 | Gu Li | Hu Yaoyu | Lose | B+R | 6.5 | 3157 | 280 | 
+| 2005-06-25 | 第7回中国囲碁甲級リーグ第7節 | Hu Yaoyu | Ma Xiaochun | Lose | W+R | 7.5 | 2877 | -17 | 
+| 2005-06-18 | 第7回中国囲碁甲級リーグ第6節 | Hu Yaoyu | Wang Yang | Win | B+R | 7.5 | 2894 | -2 | 
+| 2005-06-11 | 第7回中国囲碁甲級リーグ第5節 | Hu Yaoyu | Zhou Heyang | Win | B+R | 7.5 | 2896 | -29 | 
+| 2005-05-21 | 第7回中国囲碁甲級リーグ第4節 | Hu Yaoyu |  | Win | B+R | 7.5 | 2925 | -13 | 
+| 2005-05-13 | 第1回日月星杯中韓囲碁対抗戦第4戦 | Yoo Changhyuk | Hu Yaoyu | Lose | B+R | 6.5 | 2938 | -21 | 
+| 2005-05-12 | 第1回日月星杯中韓囲碁対抗戦第3戦 | Hu Yaoyu | Choi Cheolhan | Lose | W+R | 6.5 | 2959 | -7 | 
+| 2005-05-07 | 第7回中国囲碁甲級リーグ第3節 |  | Hu Yaoyu | Win | W+R | 7.5 | 2966 | 0 | 
+| 2005-05-03 | 第4回CSK杯囲碁アジア対抗戦第3戦 | Hu Yaoyu | Kim Seonryong | Win | B+2.5 | 6.5 | 2966 | 8 | 
+| 2005-05-02 | 第4回CSK杯囲碁アジア対抗戦第2戦 | Hu Yaoyu | O Meien | Win | B+R | 6.5 | 2958 | 9 | 
+| 2005-05-01 | 第4回CSK杯囲碁アジア対抗戦第1戦 | Yuki Satoshi | Hu Yaoyu | Lose | B+R | 6.5 | 2949 | 65 | 
+| 2005-04-21 | 第7回中国囲碁甲級リーグ第2節 | Liu Jing | Hu Yaoyu | Win | W+0.5 | 7.5 | 2884 | -12 | 
+| 2005-04-16 | 第7回中国囲碁甲級リーグ第1節 | Hu Yaoyu | Huang Yizhong | Lose | W+R | 7.5 | 2896 | -102 | 
+| 2005-03-14 | 第5回春蘭杯世界囲碁選手権三位決定戦 | Hu Yaoyu | Peng Quan | Lose | W+R | 7.5 | 2998 | -11 | 
+| 2005-03-08 | 第11期NEC杯囲碁戦予選 | Wang Lei (s) | Hu Yaoyu | Lose | B+R | 7.5 | 3009 | -352 | 
+| 2005-02-05 | 第1回日月星杯中韓囲碁対抗戦第2戦 | Kim Seonryong | Hu Yaoyu | Win | W+R | 6.5 | 3361 | 16 | 
+| 2005-02-04 | 第1回日月星杯中韓囲碁対抗戦第1戦 | Hu Yaoyu | Park Yeonghun | Win | B+R | 7.5 | 3345 | 22 | 
+| 2005-02-02 | 第19期中国囲碁天元戦準決勝 | Hu Yaoyu | Kong Jie | Lose | W+R | 7.5 | 3323 | -4 | 
+| 2005-01-31 | 第19期中国囲碁天元戦3回戦 | Wang Xi | Hu Yaoyu | Win | W+R | 7.5 | 3327 | 2 | 
+| 2005-01-29 | 第19期中国囲碁天元戦2回戦 | Hu Yaoyu | Luo Xihe | Win | B+R | 7.5 | 3325 | 73 | 
+| 2005-01-18 | 第5期リコー杯囲碁戦4回戦 | Wang Lei (b) | Hu Yaoyu | Lose | B+R | 6.5 | 3252 | -112 | 
+| 2005-01-17 | 第5期リコー杯囲碁戦3回戦 | Hu Yaoyu | Wang Yuhui | Win | B+3.5 | 7.5 | 3364 | 319 | 
+| 2004-12-02 | 第6回中国囲碁甲級リーグ第20節 | Hu Yaoyu |  | Win | B+R | 7.5 | 3045 | 17 | 
+| 2004-11-25 | 第6回中国囲碁甲級リーグ第19節 | Hu Yaoyu | Wang Xi | Win | B+R | 7.5 | 3028 | 91 | 
+| 2004-11-18 | 第6回中国囲碁甲級リーグ第18節 | Hu Yaoyu |  | Win | B+R | 7.5 | 2937 | 6 | 
+| 2004-11-11 | 第6回中国囲碁甲級リーグ第17節 | Hu Yaoyu |  | Win | B+R | 7.5 | 2931 | 5 | 
+| 2004-11-09 | 第1期倡棋杯中国プロ囲碁選手権戦3回戦 | Chang Hao | Hu Yaoyu | Lose | B+R | 7.5 | 2926 | -30 | 
+| 2004-11-04 | 第6回中国囲碁甲級リーグ第16節 | Peng Quan | Hu Yaoyu | Win | W+R | 7.5 | 2956 | -10 | 
+| 2004-10-25 | 第1期倡棋杯中国プロ囲碁選手権戦2回戦 | Shao Weigang | Hu Yaoyu | Win | W+9 | 7.5 | 2966 | -62 | 
+| 2004-09-03 | 第9回三星火災杯世界オープン囲碁選手権2回戦 | Lee Sedol | Hu Yaoyu | Lose | B+R | 6.5 | 3028 | -18 | 
+| 2004-09-01 | 第9回三星火災杯世界オープン囲碁選手権1回戦 | Hu Yaoyu | Lee Changho | Win | B+R | 6.5 | 3046 | -36 | 
+| 2004-06-24 | 第6回中国囲碁甲級リーグ第10節 | Hu Yaoyu | Lee Sedol | Lose | W+R | 7.5 | 3082 | -26 | 
+| 2004-06-10 | 第5回春蘭杯世界囲碁選手権準決勝 | Lee Changho | Hu Yaoyu | Lose | B+1.5 | 7.5 | 3108 | -9 | 
+| 2004-06-08 | 第5回春蘭杯世界囲碁選手権3回戦 | Cho U | Hu Yaoyu | Win | W+R | 7.5 | 3117 | 21 | 
+| 2004-06-03 | 第6回中国囲碁甲級リーグ第7節 | Hu Yaoyu | Xie He | Win | B+R | 7.5 | 3096 | 42 | 
+| 2004-05-29 | 第10期NEC杯囲碁戦1回戦 | Hu Yaoyu | Wang Lei (b) | Lose | W+R | 7.5 | 3054 | -17 | 
+| 2004-05-10 | 第6回中国囲碁甲級リーグ第3節 | Wang Yuhui | Hu Yaoyu | Lose | B+R | 7.5 | 3071 | 32 | 
+| 2004-04-29 | 第6回中国囲碁甲級リーグ第2節 | Hu Yaoyu |  | Lose | W+0.5 | 7.5 | 3039 | -43 | 
+| 2004-03-08 | 第4期リコー杯囲碁戦準決勝 | Chang Hao | Hu Yaoyu | Lose | B+R | 7.5 | 3082 | 40 | 
+| 2003-12-31 | 第5回春蘭杯世界囲碁選手権2回戦 | Cho Chikun | Hu Yaoyu | Win | W+R | 7.5 | 3042 | 29 | 
+| 2003-12-29 | 第5回春蘭杯世界囲碁選手権1回戦 | Hu Yaoyu |  | Win | B+R | 7.5 | 3013 | 69 | 
+| 2003-12-25 | 2003年国際新鋭囲碁対抗戦第3戦 | Hu Yaoyu | Park Yeonghun | Lose | W+R | 7.5 | 2944 | -53 | 
+| 2003-12-11 | 第5回中国囲碁甲級リーグ第21節 | Hu Yaoyu |  | Win | B+1.5 | 7.5 | 2997 | -17 | 
+| 2003-11-27 | 第5回中国囲碁甲級リーグ第19節 | Hu Yaoyu | Mok Jinseok | Lose | W+R | 7.5 | 3014 | -15 | 
+| 2003-11-23 | 第5期阿含・桐山杯中国早碁オープン戦準決勝 | Kong Jie | Hu Yaoyu | Lose | B+3.5 | 7.5 | 3029 | -21 | 
+| 2003-11-20 | 第5回中国囲碁甲級リーグ第18節 | Hu Yaoyu | Dong Yan | Win | B+R | 7.5 | 3050 | -24 | 
+| 2003-11-16 | 第5回農心辛ラーメン杯世界囲碁最強戦第9戦 | Hu Yaoyu | Weon Seongjin | Lose | W+4.5 | 6.5 | 3074 | 10 | 
+| 2003-11-13 | 第5回中国囲碁甲級リーグ第17節 | Peng Quan | Hu Yaoyu | Win | W+8.5 | 7.5 | 3064 | -25 | 
+| 2003-11-05 | 第8期三星杯準決勝三番勝負第2局 | Cho Chikun | Hu Yaoyu | Lose | B+0.5 | 6.5 | 3089 | -17 | 
+| 2003-11-04 | 第8期三星杯準決勝三番勝負第1局 | Hu Yaoyu | Cho Chikun | Lose | W+R | 6.5 | 3106 | -7 | 
+| 2003-11-01 | 第9期NEC杯囲碁戦2回戦 | Hu Yaoyu | Gu Li | Lose | W+4.5 | 7.5 | 3113 | -3 | 
+| 2003-10-30 | 第5回中国囲碁甲級リーグ第15節 | Hu Yaoyu | Liu Xiaoguang | Win | B+7.5 | 7.5 | 3116 | -2765 | 
+| 2003-10-15 | 第8期三星杯3回戦 | Lee Sedol | Hu Yaoyu | Win | W+R | 6.5 | 5881 | -87 | 
+| 2003-10-09 | 第5回中国囲碁甲級リーグ第12節 | Hu Yaoyu |  | Win | B+9.5 | 7.5 | 5968 | 3047 | 
+| 2003-09-24 | 2003年全国囲棋個人戦男子組第9戦 | Hu Yaoyu | Gu Li | Lose | W+R | 7.5 | 2921 | 11 | 
+| 2003-09-22 | 2003年全国囲棋個人戦男子組第7戦 | Shao Weigang | Hu Yaoyu | Win | W+R | 7.5 | 2910 | 3 | 
+| 2003-09-15 | 2003年全国囲棋個人戦男子組 | Hu Yaoyu | Kong Jie | Lose | W+R | 7.5 | 2907 | -20 | 
+| 2003-09-11 | 第5回中国囲碁甲級リーグ第10節 | Hu Yaoyu | Kim Hyeongwan | Win | B+R | 7.5 | 2927 | 43 | 
+| 2003-09-07 | 第9期NEC杯囲碁戦1回戦 | Shao Weigang | Hu Yaoyu | Win | W+R | 7.5 | 2884 | 13 | 
+| 2003-09-04 | 第5回中国囲碁甲級リーグ第9節 | Hu Yaoyu | Li Jie | Win | B+R | 7.5 | 2871 | 0 | 
+| 2003-08-29 | 第8期三星杯2回戦 | Hu Yaoyu | Yoo Changhyuk | Win | B+3.5 | 6.5 | 2871 | 21 | 
+| 2003-08-27 | 第8期三星杯1回戦 | Cho Hanseung | Hu Yaoyu | Win | W+R | 6.5 | 2850 | 23 | 
+| 2003-08-21 | 第5回中国囲碁甲級リーグ第8節 | Gu Li | Hu Yaoyu | Lose | B+R | 7.5 | 2827 | 8 | 
+| 2003-08-11 | 第5回中国囲碁甲級リーグ第11節 | Hu Yaoyu | Kong Jie | Lose | W+2.5 | 7.5 | 2819 | 29 | 
+| 2003-08-07 | 第5回中国囲碁甲級リーグ第7節 | Hu Yaoyu | Dong Yan | Win | B+R | 7.5 | 2790 | 46 | 
+| 2003-07-24 | 第5回中国囲碁甲級リーグ第6節 | Huang Yizhong | Hu Yaoyu | Win | W+10.5 | 7.5 | 2744 | 12 | 
+| 2003-04-20 | 第10期中国囲碁新人王戦決勝三番勝負第2局 | Hu Yaoyu | Kong Jie | Lose | W+R | 7.5 | 2732 | -11 | 
+| 2003-04-19 | 第10期中国囲碁新人王戦決勝三番勝負第1局 | Kong Jie | Hu Yaoyu | Lose | B+R | 7.5 | 2743 | -2 | 
+| 2003-04-07 | 第5回中国囲碁甲級リーグ第1節 | Zhu Songli | Hu Yaoyu | Win | W+R | 7.5 | 2745 | -39 | 
+| 2003-03-22 | 第16期中国囲碁名人戦1回戦 | Nie Weiping | Hu Yaoyu | Lose | B+1.5 | 7.5 | 2784 | -29 | 
+| 2003-03-01 | 第17期中国囲碁天元戦準決勝 | Gu Li | Hu Yaoyu | Lose | B+1.5 | 7.5 | 2813 | -6 | 
+| 2003-02-27 | 第17期中国囲碁天元戦3回戦 |  | Hu Yaoyu | Win | W+R | 7.5 | 2819 | 16 | 
+| 2003-02-25 | 第17期中国囲碁天元戦2回戦 | Chang Hao | Hu Yaoyu | Win | W+R | 7.5 | 2803 | 6 | 
+| 2003-02-19 | 第10期中国囲碁新人王戦準決勝 | Hu Yaoyu |  | Win | B+R | 7.5 | 2797 | 20 | 
+| 2003-02-18 | 第10期中国囲碁新人王戦2回戦 | Hu Yaoyu | Dong Yan | Win | B+R | 7.5 | 2777 | 116 | 
+| 2003-01-22 | 第4回農心辛ラーメン杯世界囲碁最強戦第13戦 | Lee Changho | Hu Yaoyu | Lose | B+5.5 | 6.5 | 2661 | 2661 | 
+| 2003-01-21 | 第4回農心辛ラーメン杯世界囲碁最強戦第12戦 | Hu Yaoyu | Yoda Norimoto | Win | B+0.5 | 6.5 | missing | -2676 | 
+| 2003-01-20 | 第4回農心辛ラーメン杯世界囲碁最強戦第11戦 | Cho Hunhyun | Hu Yaoyu | Win | W+1.5 | 6.5 | 2676 | 36 | 
+| 2002-12-22 | 第3期リコー杯囲碁戦2回戦 | Hu Yaoyu |  | Lose | W+0.5 | 7.5 | 2640 | -7 | 
+| 2002-11-28 | 第4回農心辛ラーメン杯世界囲碁最強戦第10戦 | Kato Masao | Hu Yaoyu | Win | W+2.5 | 6.5 | 2647 | 30 | 
+| 2002-11-27 | 第4回農心辛ラーメン杯世界囲碁最強戦第9戦 | Hu Yaoyu | Kim Seungjun | Win | B+R | 6.5 | 2617 | 7 | 
+| 2002-11-26 | 第4回農心辛ラーメン杯世界囲碁最強戦第8戦 | Kobayashi Koichi | Hu Yaoyu | Win | W+3.5 | 6.5 | 2610 | 14 | 
+| 2002-11-13 | 第7期三星杯準決勝三番勝負第2局 | Hu Yaoyu | Wang Lei (b) | Lose | W+1.5 | 6.5 | 2596 | -11 | 
+| 2002-11-12 | 第7期三星杯準決勝三番勝負第1局 | Wang Lei (b) | Hu Yaoyu | Lose | B+4.5 | 6.5 | 2607 | 6 | 
+| 2002-10-19 | 第4回中国囲碁甲級リーグ第15節 | Hu Yaoyu | Kong Jie | Lose | W+R | 7.5 | 2601 | -18 | 
+| 2002-10-17 | 第7期三星杯3回戦 | Cao Dayuan | Hu Yaoyu | Win | W+R | 6.5 | 2619 | -13 | 
+| 2002-10-05 | 2002年国際新鋭囲碁対抗戦第3戦 | Hu Yaoyu | Weon Seongjin | Win | B+R | 6.5 | 2632 | 20 | 
+| 2002-10-03 | 2002年国際新鋭囲碁対抗戦第2戦 | Hu Yaoyu | Park Jinsol | Lose | W+2.5 | 6.5 | 2612 | 2 | 
+| 2002-09-24 | 2002年全国囲棋個人戦男子組第9戦 | Gu Li | Hu Yaoyu | Lose | B+R | 7.5 | 2610 | -61 | 
+| 2002-09-18 | 2002年全国囲棋個人戦男子組第4戦 | Peng Quan | Hu Yaoyu | Win | W+2.5 | 7.5 | 2671 | 16 | 
+| 2002-09-14 | 2002年全国囲棋個人戦男子組第1戦 | Hu Yaoyu | Gu Lingyi | Lose | W+R | 7.5 | 2655 | 37 | 
+| 2002-09-12 | 第4回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Ma Xiaochun | Win | B+R | 7.5 | 2618 | 44 | 
+| 2002-08-30 | 第7期三星杯2回戦 | Lee Changho | Hu Yaoyu | Win | W+R | 6.5 | 2574 | 63 | 
+| 2002-08-28 | 第7期三星杯1回戦 | Hu Yaoyu | Park Seungmun | Win | B+R | 6.5 | 2511 | 45 | 
+| 2002-08-13 | 第4回農心杯中国選抜戦 | Hu Yaoyu | Zhou Heyang | Win | B+R | 6.5 | 2466 | 28 | 
+| 2002-08-11 | 第4回農心杯中国選抜戦 | Hu Yaoyu | Liu Jing | Win | B+R | 6.5 | 2438 | 44 | 
+| 2002-08-09 | 第4回農心杯中国選抜戦 | Hu Yaoyu | Dong Yan | Lose | W+4.5 | 6.5 | 2394 | 74 | 
+| 2002-07-29 | 第7期三星杯予選決勝 | Hu Yaoyu | Yata Naoki | Win | B+R | 6.5 | 2320 | 18 | 
+| 2002-07-12 | 2002年中国段位戦 | Dong Yan | Hu Yaoyu | Win | W+R | 7.5 | 2302 | 108 | 
+| 2002-07-11 | 2002年中国段位戦 | Hu Yaoyu | Gu Li | Win | B+R | 7.5 | 2194 | 292 | 
+| 2002-05-18 | 第4回春蘭杯世界囲碁選手権1回戦 | Hane Naoki | Hu Yaoyu | Lose | B+1.5 | 7.5 | 1902 | 58 | 
+| 2002-04-25 | 第4回中国囲碁甲級リーグ第4節 | Hu Yaoyu | Kong Jie | Lose | W+R | 7.5 | 1844 | -291 | 
+| 2002-04-08 | 第4回中国囲碁甲級リーグ第2節 | Lee Changho | Hu Yaoyu | Win | W+R | 7.5 | 2135 | 2135 | 
+| 2002-03-11 | 第15期中国囲碁名人戦2回戦 | Hu Yaoyu | Yu Bin | Lose | W+R | 7.5 | missing | 0 | 
+| 2002-01-24 | 第16期中国囲碁天元戦2回戦 | Wang Yao | Hu Yaoyu | Lose | B+3.5 | 7.5 | missing | missing |
 
 
 

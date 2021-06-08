@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Zhang Tao | Huang Mingyu | Win | W+R | 7.5 | 3345 | 14 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Huang Mingyu | Lose | B+R | 7.5 | 3331 | -11 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Huang Mingyu | Lose | B+R | 7.5 | 3342 | -9 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Zhao Chenyu | Lose | W+R | 7.5 | 3351 | -18 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Kim Jiseok | Lose | B+¾ | 7.5 | 3480 | -11 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Li Weiqing | Lose | W+R | 7.5 | 3491 | -13 | 
 | 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Kim Jiseok | Yang Dingxin | Lose | W+R | 6.5 | 3504 | 0 | 
 | 2021-05-31 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kim Jiseok | Ida Atsushi | Win | B+R | 6.5 | 3504 | -18 | 

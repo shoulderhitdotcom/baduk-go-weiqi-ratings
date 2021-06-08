@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Kim Jiseok | Win | B+¾ | 7.5 | 3458 | 36 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Kang Dongyun | Lose | W+1¼ | 7.5 | 3422 | -35 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | He Yuhan | Liu Yuhang | Win | W+R | 7.5 | 3457 | 24 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Chen Xian | Lose | W+R | 7.5 | 3433 | -38 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Xie Erhao | Jiang Weijie | Win | W+R | 7.5 | 3546 | 3 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Tao Xinran | Win | B+1¾ | 7.5 | 3543 | 25 | 
 | 2021-05-15 | 第5期洛陽白雲山杯中国棋聖戦準決勝 | Jiang Weijie | Lian Xiao | Lose | W+R | 7.5 | 3518 | -27 | 
 | 2021-05-14 | 第5期洛陽白雲山杯中国棋聖戦2回戦 | Peng Liyao | Jiang Weijie | Win | W+R | 7.5 | 3545 | -9 | 

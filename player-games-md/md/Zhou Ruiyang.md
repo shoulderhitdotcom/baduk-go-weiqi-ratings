@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Wang Zejin | Lose | W+R | 7.5 | 3271 | -15 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Shi Yue | Win | B+R | 7.5 | 3286 | 18 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Xu Jiayang | Lose | W+R | 7.5 | 3268 | -6 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Zhou Hexi | Win | B+R | 7.5 | 3274 | 20 | 

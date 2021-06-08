@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Meng Tailing | Li Qincheng | Win | W+¼ | 7.5 | 3488 | 5 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Li Qincheng | Chen Xian | Win | B+R | 7.5 | 3483 | 9 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Li Qincheng | Jin Yucheng | Win | B+R | 6.5 | 3474 | -2 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Li Qincheng | Lose | B+¾ | 7.5 | 3476 | -18 | 

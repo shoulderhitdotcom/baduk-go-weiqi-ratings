@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Liu Qifeng | Win | B+R | 7.5 | 3239 | -12 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Lee Donghoon | Lose | W+2¼ | 7.5 | 3251 | -5 | 
 | 2021-05-28 | 第25期馬橋杯中国囲碁新人王戦準決勝 | Wang Xinghao | Wang Chunhui | Lose | B+R | 7.5 | 3256 | -71 | 
 | 2021-05-27 | 第25期馬橋杯中国囲碁新人王戦3回戦 | Wang Chunhui |  | Win | B+R | 7.5 | 3327 | 32 | 

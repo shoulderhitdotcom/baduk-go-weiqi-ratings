@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Wang Zejin | Win | W+R | 7.5 | 3384 | 9 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Wang Zejin | Zhang Tao | Lose | W+R | 7.5 | 3375 | -28 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Wu Guangya | Wang Zejin | Lose | B+R | 7.5 | 3403 | -43 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Wang Zejin | Kang Dongyun | Win | B+R | 7.5 | 3446 | 32 | 

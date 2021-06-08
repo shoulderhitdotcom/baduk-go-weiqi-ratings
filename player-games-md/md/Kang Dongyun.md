@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Kang Dongyun | Win | W+R | 7.5 | 3448 | 2 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Kang Dongyun | Win | W+1¼ | 7.5 | 3446 | -5 | 
 | 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Shin Minjun | Kang Dongyun | Lose | B+R | 6.5 | 3451 | -21 | 
 | 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kang Dongyun | Xie Erhao | Win | B+R | 6.5 | 3472 | 3472 | 

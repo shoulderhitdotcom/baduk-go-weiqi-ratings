@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Shi Yue | Chen Yaoye | Win | B+R | 7.5 | 3433 | 8 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Shi Yue | Lose | B+R | 7.5 | 3425 | -10 | 
 | 2021-05-16 | 第5期洛陽白雲山杯中国棋聖戦挑戦者決定戦 | Lian Xiao | Shi Yue | Win | W+R | 7.5 | 3435 | 12 | 
 | 2021-05-15 | 第5期洛陽白雲山杯中国棋聖戦準決勝 | Shi Yue | Ding Hao | Win | B+R | 7.5 | 3423 | -2 | 

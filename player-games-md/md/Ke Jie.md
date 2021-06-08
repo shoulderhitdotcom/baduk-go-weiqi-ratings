@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Ke Jie | Tuo Jiaxi | Win | B+R | 7.5 | 3701 | -9 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Chen Zijian | Ke Jie | Win | W+R | 7.5 | 3710 | -4 | 
 | 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Weon Seongjin | Ke Jie | Win | W+0.5 | 6.5 | 3714 | -1 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Ke Jie | Yang Dingxin | Lose | W+R | 7.5 | 3715 | -17 | 

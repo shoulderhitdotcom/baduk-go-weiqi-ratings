@@ -5,19 +5,21 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第23回中国囲碁甲級リーグ | Li Qincheng | Jin Yucheng | B+R | 2021-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7RAWSPkZmEHcnLMAUap1IA%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Jin Yucheng | Zheng Xu | B+R | 2021-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CubVJrbhRFc4WF84bzkPaA%3D%3D) | 
-| 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Jin Yucheng | B+R | 2021-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zIw5ynhlLpPCBUaQtFkOQQ%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | Fukuoka Kotaro | Jin Yucheng | W+R | 2020-11-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v6tpX83RcaBii5%2FXK7RCIQ%3D%3D) | 
-| 第24期馬橋杯中国囲碁新人王戦2回戦 | Huang Mingyu | Jin Yucheng | B+¾ | 2020-05-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AtpFc8Kn0SSSx4NnVCf91A%3D%3D) | 
-| 第24期馬橋杯中国囲碁新人王戦1回戦 | Jin Yucheng | missing | B+R | 2020-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2mVvrTYUbSlpFU8siT%2BbeA%3D%3D) | 
-| 2019博思軟件杯中国囲棋新秀争覇戦32強戦 | missing | Jin Yucheng | B+¾ | 2019-10-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y6Qsg%2BOX7c6vuI6%2B3fkhvg%3D%3D) | 
-| 2019年全国囲棋個人戦男子組第11戦 | Rui Naiwei | Jin Yucheng | W+R | 2019-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=muCxYCSq1ETqi0syTMRv0A%3D%3D) | 
-| 2018年博思軟件杯中国囲棋新秀争覇戦8強戦 | Jin Yucheng | missing | W+R | 2018-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UxCJFbEro4ZB95NhCtiCZg%3D%3D) | 
-| 2018年博思軟件杯中国囲棋新秀争覇戦16強戦 | Wang Xinghao | Jin Yucheng | W+R | 2018-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M4uZOpsh1t0jDYnQRWHPhw%3D%3D) | 
-| 2018年博思軟件杯中国囲棋新秀争覇戦32強戦 | Jin Yucheng | Lu Minquan | B+R | 2018-10-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=shMKi0oC18Oa6qFMTtDTqA%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Jin Yucheng | Win | W+R | 7.5 | 3280 | 303 | 
+| 2021-05-27 | 第25期馬橋杯中国囲碁新人王戦3回戦 | Tu Xiaoyu | Jin Yucheng | Lose | B+R | 7.5 | 2977 | 2 | 
+| 2021-05-12 | 第23回中国囲碁甲級リーグ | Li Qincheng | Jin Yucheng | Lose | B+R | 6.5 | 2975 | -33 | 
+| 2021-05-11 | 第23回中国囲碁甲級リーグ | Jin Yucheng | Zheng Xu | Win | B+R | 7.5 | 3008 | -1 | 
+| 2021-05-10 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Jin Yucheng | Lose | B+R | 7.5 | 3009 | -178 | 
+| 2020-11-19 | 2020年中国囲碁乙級リーグ | Fukuoka Kotaro | Jin Yucheng | Win | W+R | 7.5 | 3187 | 340 | 
+| 2020-05-13 | 第24期馬橋杯中国囲碁新人王戦2回戦 | Huang Mingyu | Jin Yucheng | Lose | B+¾ | 7.5 | 2847 | -58 | 
+| 2020-05-12 | 第24期馬橋杯中国囲碁新人王戦1回戦 | Jin Yucheng |  | Win | B+R | 7.5 | 2905 | -110 | 
+| 2019-10-22 | 2019博思軟件杯中国囲棋新秀争覇戦32強戦 |  | Jin Yucheng | Lose | B+¾ | 7.5 | 3015 | -225 | 
+| 2019-09-28 | 2019年全国囲棋個人戦男子組第11戦 | Rui Naiwei | Jin Yucheng | Win | W+R | 7.5 | 3240 | 3240 | 
+| 2018-11-22 | 2018年博思軟件杯中国囲棋新秀争覇戦8強戦 | Jin Yucheng |  | Lose | W+R | 7.5 | missing | 0 | 
+| 2018-10-23 | 2018年博思軟件杯中国囲棋新秀争覇戦16強戦 | Wang Xinghao | Jin Yucheng | Win | W+R | 7.5 | missing | 0 | 
+| 2018-10-22 | 2018年博思軟件杯中国囲棋新秀争覇戦32強戦 | Jin Yucheng | Lu Minquan | Win | B+R | 7.5 | missing | missing |
 
 
 

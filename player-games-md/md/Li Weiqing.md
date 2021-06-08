@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Li Weiqing | Tong Mengcheng | Win | B+R | 7.5 | 3515 | 4 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Li Weiqing | Win | W+R | 7.5 | 3511 | 11 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Li Weiqing | Chen Zijian | Lose | W+R | 7.5 | 3500 | -21 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Li Weiqing | Lose | B+R | 7.5 | 3521 | -11 | 

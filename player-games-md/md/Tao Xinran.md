@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Zheng Xu | Tao Xinran | Win | W+R | 7.5 | 3538 | -4 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Tao Xinran | Lose | B+1¾ | 7.5 | 3542 | -6 | 
 | 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Tao Xinran | Shin Jinseo | Lose | W+3.5 | 6.5 | 3548 | -14 | 
 | 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Heo Yongho | Tao Xinran | Win | W+R | 6.5 | 3562 | 4 | 

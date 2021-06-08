@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Shin Minjun | Han Yizhou | Win | B+3¾ | 7.5 | 3490 | 1 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Shin Minjun | Fan Tingyu | Win | B+¾ | 7.5 | 3489 | -4 | 
 | 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Shin Minjun | Kang Dongyun | Win | B+R | 6.5 | 3493 | -6 | 
 | 2021-05-26 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Seungmin | Shin Minjun | Win | W+R | 6.5 | 3499 | -3 | 

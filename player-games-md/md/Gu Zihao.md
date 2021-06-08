@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Gu Zihao | Hu Yuhan | Win | B+R | 7.5 | 3664 | 5 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Han Yizhou | Gu Zihao | Win | W+R | 7.5 | 3659 | 0 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Gu Zihao | Jiang Weijie | Win | B+R | 7.5 | 3659 | 2 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Gu Zihao | Win | W+R | 7.5 | 3657 | 2 | 

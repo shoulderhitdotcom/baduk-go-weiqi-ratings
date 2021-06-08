@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Zheng Xu | Tao Xinran | Lose | W+R | 7.5 | 3038 | 27 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Zheng Xu | Peng Liyao | Win | B+1¾ | 7.5 | 3011 | 3011 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Jin Yucheng | Zheng Xu | Lose | B+R | 7.5 | missing | 0 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Zheng Xu | Zhou Ruiyang | Lose | W+¼ | 7.5 | missing | 0 | 

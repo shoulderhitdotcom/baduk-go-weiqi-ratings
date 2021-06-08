@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Ding Hao | Mi Yuting | Win | B+R | 7.5 | 3533 | 6 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Ding Hao | Lose | B+¾ | 7.5 | 3527 | 1 | 
 | 2021-05-15 | 第5期洛陽白雲山杯中国棋聖戦準決勝 | Shi Yue | Ding Hao | Lose | B+R | 7.5 | 3526 | -33 | 
 | 2021-05-14 | 第5期洛陽白雲山杯中国棋聖戦2回戦 | Ding Hao | Xie Erhao | Win | B+R | 7.5 | 3559 | -2 | 

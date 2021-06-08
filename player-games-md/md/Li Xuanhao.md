@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Xie Ke | Lose | W+R | 7.5 | 3539 | -13 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Li Xuanhao | Lose | B+R | 7.5 | 3552 | -6 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Byun Sangil | Li Xuanhao | Win | W+R | 7.5 | 3558 | 5 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Huang Mingyu | Win | B+R | 7.5 | 3553 | 5 | 

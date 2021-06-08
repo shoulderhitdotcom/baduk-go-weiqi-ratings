@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第17期国手戦（台湾）挑戦手合五番勝負第2局 | Xu Haohong | Lin Lixiang | Win | B+R | 6.5 | 3371 | -6 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Xu Haohong | Chen Yunong | Lose | W+R | 7.5 | 3377 | 49 | 
 | 2021-05-18 | 第17期国手戦（台湾）挑戦手合五番勝負第1局 | Lin Lixiang | Xu Haohong | Win | W+R | 6.5 | 3328 | -19 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Ding Shaojie | Xu Haohong | Win | W+R | 6.5 | 3347 | -6 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Lian Xiao | Li Xiangyu | Lose | B+R | 7.5 | 3330 | -16 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Dang Yifei | Win | B+R | 7.5 | 3346 | 11 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Xu Haohong | Li Xiangyu | Lose | B+R | 7.5 | 3335 | -18 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Wang Zejin | Win | B+¾ | 7.5 | 3353 | 29 | 

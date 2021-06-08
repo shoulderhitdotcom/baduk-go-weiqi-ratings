@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Xie Erhao | Jiang Weijie | Lose | W+R | 7.5 | 3492 | -11 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Xie Erhao | Win | W+R | 7.5 | 3503 | 0 | 
 | 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kang Dongyun | Xie Erhao | Lose | B+R | 6.5 | 3503 | -7 | 
 | 2021-05-14 | 第5期洛陽白雲山杯中国棋聖戦2回戦 | Ding Hao | Xie Erhao | Lose | B+R | 7.5 | 3510 | -23 | 

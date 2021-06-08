@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Ke Jie | Tuo Jiaxi | Lose | B+R | 7.5 | 3500 | -10 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Huang Mingyu | Win | B+R | 7.5 | 3510 | 13 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Wang Shiyi | Win | B+R | 7.5 | 3497 | 2 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Rong Yi | Tuo Jiaxi | Lose | B+R | 7.5 | 3495 | -15 | 

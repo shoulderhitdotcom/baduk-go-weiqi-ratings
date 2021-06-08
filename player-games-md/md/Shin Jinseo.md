@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Yang Dingxin | Win | B+¾ | 7.5 | 3815 | 9 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Mi Yuting | Shin Jinseo | Lose | B+R | 7.5 | 3806 | -15 | 
 | 2021-06-04 | 第44期名人戦（韓国）敗者復活戦3回戦 | Ko Keuntae | Shin Jinseo | Win | W+R | 6.5 | 3821 | 2 | 
 | 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Tao Xinran | Shin Jinseo | Win | W+3.5 | 6.5 | 3819 | 12 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Shen Peiran | Dang Yifei | Win | W+R | 7.5 | 3462 | -4 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Dang Yifei | Lose | B+R | 7.5 | 3466 | -20 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Chen Xian | Dang Yifei | Win | W+R | 7.5 | 3486 | 2 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Dang Yifei | Lian Xiao | Lose | W+R | 7.5 | 3484 | -8 | 

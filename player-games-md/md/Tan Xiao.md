@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Tan Xiao | Wang Xinghao | Lose | W+1¼ | 7.5 | 3392 | -13 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Wang Shiyi | Tan Xiao | Win | W+R | 7.5 | 3405 | 18 | 
 | 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Tan Xiao | Park Junghwan | Lose | W+1.5 | 6.5 | 3387 | -15 | 
 | 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Park Jinsol | Tan Xiao | Win | W+R | 6.5 | 3402 | 2 | 

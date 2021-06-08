@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Tang Weixing | Fan Tingyu | Win | B+R | 7.5 | 3494 | 6 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Tang Weixing | Lose | B+R | 7.5 | 3488 | -20 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Tang Weixing | Chen Yunong | Lose | W+R | 7.5 | 3508 | -15 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Tang Weixing | Chen Yichun | Win | B+R | 7.5 | 3523 | 0 | 

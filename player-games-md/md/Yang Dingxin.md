@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Yang Dingxin | Lose | B+¾ | 7.5 | 3586 | -5 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Park Junghwan | Lose | W+R | 7.5 | 3591 | -9 | 
 | 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Kim Jiseok | Yang Dingxin | Win | W+R | 6.5 | 3600 | 4 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Ke Jie | Yang Dingxin | Win | W+R | 7.5 | 3596 | 0 | 

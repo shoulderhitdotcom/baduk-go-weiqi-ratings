@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Tang Weixing | Fan Tingyu | Lose | B+R | 7.5 | 3492 | -12 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Shin Minjun | Fan Tingyu | Lose | B+¾ | 7.5 | 3504 | -10 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Yang Kaiwen | Lose | W+R | 7.5 | 3514 | -17 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Hu Yuhan | Win | B+R | 7.5 | 3531 | 2 | 

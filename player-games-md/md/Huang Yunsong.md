@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Jin Yucheng | Lose | W+R | 7.5 | 3405 | -24 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Lian Xiao | Lose | W+R | 7.5 | 3429 | -18 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Huang Yunsong | Win | W+R | 7.5 | 3447 | 10 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Ke Jie | Lose | W+R | 7.5 | 3437 | -3 | 

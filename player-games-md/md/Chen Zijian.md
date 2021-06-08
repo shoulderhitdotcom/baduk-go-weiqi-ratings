@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Park Junghwan | Chen Zijian | Win | W+1¼ | 7.5 | 3380 | 24 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Chen Zijian | Ke Jie | Lose | W+R | 7.5 | 3356 | -13 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Li Weiqing | Chen Zijian | Win | W+R | 7.5 | 3369 | 16 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Chen Zijian | Xie Erhao | Lose | W+R | 7.5 | 3353 | -9 | 

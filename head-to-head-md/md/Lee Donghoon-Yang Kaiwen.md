@@ -5,7 +5,9 @@
 
 
 
-Error: SystemError: opening file "../jdf/Lee Donghoon-Yang Kaiwen.jdf\\metadata.jls": No such file or directory
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Donghoon vs Yang Kaiwen** | **Lee Donghoon streak** | **Yang Kaiwen streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Yang Kaiwen | B+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

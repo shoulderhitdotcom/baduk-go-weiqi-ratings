@@ -5,7 +5,9 @@
 
 
 
-Error: SystemError: opening file "../jdf/Ding Shixiong-Tu Xiaoyu.jdf\\metadata.jls": No such file or directory
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ding Shixiong vs Tu Xiaoyu** | **Ding Shixiong streak** | **Tu Xiaoyu streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Ding Shixiong | W+R | 7.5 | 1:0 | 1 | 0 |
 
 
 

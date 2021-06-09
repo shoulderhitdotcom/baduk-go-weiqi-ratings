@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Junghwan vs Tuo Jiaxi** | **Park Junghwan streak** | **Tuo Jiaxi streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Park Junghwan | W+R | 7.5 | 4:2 | 1 | 0 | 
 | 2019-08-15 | 第9回世界囲棋巓峰対決準決勝 | Park Junghwan | Tuo Jiaxi | W+R | 7.5 | 3:2 | 0 | 2 | 
 | 2018-10-27 | 第20回中国囲碁甲級リーグ第20節中信-蘇泊爾 | Tuo Jiaxi | Park Junghwan | B+R | 7.5 | 3:1 | 0 | 1 | 
 | 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Tuo Jiaxi | Park Junghwan | W+R | 7.5 | 3:0 | 3 | 0 | 

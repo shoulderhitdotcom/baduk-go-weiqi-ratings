@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Xian vs Li Xiangyu** | **Chen Xian streak** | **Li Xiangyu streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Chen Xian | W+R | 7.5 | 2:0 | 2 | 0 | 
 | 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Li Xiangyu | Chen Xian | W+R | 7.5 | 1:0 | 1 | 0 |
 
 

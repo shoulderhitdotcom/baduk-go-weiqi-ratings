@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Rui Naiwei vs Wang Chenxing** | **Rui Naiwei streak** | **Wang Chenxing streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第4回呉清源杯中国予選 | Rui Naiwei | Wang Chenxing | W+1¼ | 7.5 | 8:9 | 0 | 3 | 
 | 2019-11-30 | 第2回呉清源杯世界女子囲碁選手権準決勝 | Rui Naiwei | Wang Chenxing | W+¼ | 7.5 | 8:8 | 0 | 2 | 
 | 2016-08-14 | 第4回中国女子囲碁甲級リーグ第9節 | Rui Naiwei | Wang Chenxing | W+R | 7.5 | 8:7 | 0 | 1 | 
 | 2016-07-20 | 第21回三星火災杯統合予選女子枠決勝 | Rui Naiwei | Wang Chenxing | B+R | 6.5 | 8:6 | 1 | 0 | 

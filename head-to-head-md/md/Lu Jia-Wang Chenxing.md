@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lu Jia vs Wang Chenxing** | **Lu Jia streak** | **Wang Chenxing streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-05-31 | 第4回呉清源杯中国予選 | Wang Chenxing | Lu Jia | B+R | 7.5 | 3:5 | 0 | 1 | 
 | 2021-05-19 | 第9回中国女子囲碁甲級リーグ | Lu Jia | Wang Chenxing | B+R | 7.5 | 3:4 | 1 | 0 | 
 | 2019-11-14 | 第4回全国智力運動会女子団体戦第1戦 | Lu Jia | Wang Chenxing | W+R | 7.5 | 2:4 | 0 | 1 | 
 | 2015-07-04 | 第3回中国女子囲碁甲級リーグ第6節 | Wang Chenxing | Lu Jia | W+R | 7.5 | 2:3 | 1 | 0 | 

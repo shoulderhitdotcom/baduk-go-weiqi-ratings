@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Yiming vs Lu Jia** | **Chen Yiming streak** | **Lu Jia streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第4回呉清源杯中国予選 | Chen Yiming | Lu Jia | B+R | 7.5 | 7:6 | 5 | 0 | 
 | 2021-04-02 | 第8回中国女子囲碁甲級リーグ | Chen Yiming | Lu Jia | B+1¾ | 7.5 | 6:6 | 4 | 0 | 
 | 2017-10-25 | 第5回中国女子囲碁甲級リーグ第10節 | Lu Jia | Chen Yiming | W+10.5 | 7.5 | 5:6 | 3 | 0 | 
 | 2017-05-06 | 第5回中国女子囲碁甲級リーグ第1節 | Chen Yiming | Lu Jia | B+R | 7.5 | 4:6 | 2 | 0 | 

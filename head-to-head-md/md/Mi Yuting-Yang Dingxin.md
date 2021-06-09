@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mi Yuting vs Yang Dingxin** | **Mi Yuting streak** | **Yang Dingxin streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Mi Yuting | B+R | 7.5 | 6:12 | 0 | 4 | 
 | 2021-04-26 | 第20回西南棋王戦決勝 | Yang Dingxin | Mi Yuting | B+R | 7.5 | 6:11 | 0 | 3 | 
 | 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Yang Dingxin | Mi Yuting | B+R | 7.5 | 6:10 | 0 | 2 | 
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Mi Yuting | Yang Dingxin | W+R | 7.5 | 6:9 | 0 | 1 | 

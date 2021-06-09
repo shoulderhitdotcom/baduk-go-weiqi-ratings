@@ -5,7 +5,9 @@
 
 
 
-Error: SystemError: opening file "../jdf/Fan Tingyu-Huang Mingyu.jdf\\metadata.jls": No such file or directory
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Huang Mingyu** | **Fan Tingyu streak** | **Huang Mingyu streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Fan Tingyu | W+2¼ | 7.5 | 1:0 | 1 | 0 |
 
 
 

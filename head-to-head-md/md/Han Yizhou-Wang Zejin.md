@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Han Yizhou vs Wang Zejin** | **Han Yizhou streak** | **Wang Zejin streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Wang Zejin | Han Yizhou | W+R | 7.5 | 3:3 | 1 | 0 | 
 | 2018-09-26 | 2018年全国囲棋個人戦男子組第13戦 | Han Yizhou | Wang Zejin | W+R | 7.5 | 2:3 | 0 | 2 | 
 | 2017-09-26 | 2017年全国囲棋個人戦男子組第13戦 | Han Yizhou | Wang Zejin | W+R | 7.5 | 2:2 | 0 | 1 | 
 | 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Wang Zejin | Han Yizhou | W+R | 7.5 | 2:1 | 1 | 0 | 

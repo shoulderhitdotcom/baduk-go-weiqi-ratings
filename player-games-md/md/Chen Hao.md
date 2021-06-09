@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Li Qincheng | Chen Hao | Lose | B+R | 7.5 | 3130 | -20 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Chen Hao | Tu Xiaoyu | Lose | W+R | 7.5 | 3150 | -20 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Chen Hao | Fan Yin | Win | B+R | 7.5 | 3170 | 48 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Chen Hao | Wang Shiyi | Lose | W+R | 7.5 | 3122 | -19 | 

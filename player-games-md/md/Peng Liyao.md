@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Peng Liyao | Xia Chenkun | Win | B+R | 7.5 | 3264 | 14 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Zheng Xu | Peng Liyao | Lose | B+1¾ | 7.5 | 3250 | -54 | 
 | 2021-05-14 | 第5期洛陽白雲山杯中国棋聖戦2回戦 | Peng Liyao | Jiang Weijie | Lose | W+R | 7.5 | 3304 | -22 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Peng Liyao | Yi Lingtao | Lose | W+R | 6.5 | 3326 | -25 | 

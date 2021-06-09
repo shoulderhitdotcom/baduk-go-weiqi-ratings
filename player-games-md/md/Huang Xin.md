@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Huang Xin | Xie Erhao | Lose | W+R | 7.5 | 3207 | -33 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Huang Xin | Rong Yi | Win | B+¾ | 7.5 | 3240 | 137 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Huang Xin | Hu Yuhan | Lose | W+¼ | 7.5 | 3103 | -64 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Huang Xin | Xia Chenkun | Lose | W+R | 7.5 | 3167 | -64 | 

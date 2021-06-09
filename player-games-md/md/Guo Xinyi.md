@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Guo Xinyi | Tang Weixing | Lose | W+R | 7.5 | 3125 | -32 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Xu Jiayang | Guo Xinyi | Lose | B+R | 7.5 | 3157 | -47 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Guo Xinyi | Zhou Hexi | Lose | W+R | 7.5 | 3204 | -64 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Guo Xinyi | Lose | B+R | 7.5 | 3268 | -82 | 

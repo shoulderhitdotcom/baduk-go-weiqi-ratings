@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Mi Yuting | Lose | B+R | 7.5 | 3520 | -4 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Ding Hao | Mi Yuting | Lose | B+R | 7.5 | 3524 | -10 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Mi Yuting | Shin Jinseo | Win | B+R | 7.5 | 3534 | 17 | 
 | 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Mi Yuting | Lee Donghoon | Win | B+R | 6.5 | 3517 | -4 | 

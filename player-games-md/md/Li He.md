@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第4回呉清源杯中国予選 | Li He | Wang Yubo | Win | B+1¾ | 7.5 | 2943 | 10 | 
 | 2021-06-07 | 第4回呉清源杯中国予選 | Li He | Wang Shuang | Win | B+R | 7.5 | 2933 | 9 | 
 | 2021-06-04 | 第4回呉清源杯中国予選 | Li He | Fang Ruoxi | Lose | W+2¼ | 7.5 | 2924 | -6 | 
 | 2021-06-03 | 第4回呉清源杯中国予選 | Rui Naiwei | Li He | Lose | B+1¾ | 7.5 | 2930 | -12 | 

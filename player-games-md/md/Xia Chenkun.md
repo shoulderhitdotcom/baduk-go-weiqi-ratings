@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Peng Liyao | Xia Chenkun | Lose | B+R | 7.5 | 3279 | -24 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Chen Xian | Xia Chenkun | Lose | B+R | 7.5 | 3303 | -11 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Xia Chenkun | Xu Yidi | Win | B+R | 7.5 | 3314 | -5 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Lian Xiao | Xia Chenkun | Win | W+R | 7.5 | 3319 | 26 | 

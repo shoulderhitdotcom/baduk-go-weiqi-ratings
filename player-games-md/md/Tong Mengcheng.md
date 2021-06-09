@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Ke Jie | Lose | W+R | 7.5 | 3401 | -2 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Li Weiqing | Tong Mengcheng | Lose | B+R | 7.5 | 3403 | -14 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Xie Erhao | Lose | W+R | 7.5 | 3417 | -21 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Shin Minjun | Tong Mengcheng | Win | W+R | 7.5 | 3438 | 10 | 

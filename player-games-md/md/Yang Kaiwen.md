@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Yang Kaiwen | Lose | B+R | 7.5 | 3476 | -19 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Ye Changxin | Yang Kaiwen | Win | W+R | 7.5 | 3495 | -3 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Chen Yaoye | Win | B+R | 7.5 | 3498 | 10 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Yang Kaiwen | Win | W+R | 7.5 | 3488 | 16 | 

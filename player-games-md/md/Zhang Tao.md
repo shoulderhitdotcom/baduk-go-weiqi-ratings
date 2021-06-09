@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Chen Haoxin | Zhang Tao | Win | W+R | 7.5 | 3359 | 4 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Zhang Tao | Huang Mingyu | Lose | W+R | 7.5 | 3355 | -18 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Wang Zejin | Zhang Tao | Win | W+R | 7.5 | 3373 | -3 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Zhang Tao | Shi Yue | Lose | W+R | 7.5 | 3376 | -17 | 

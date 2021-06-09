@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Shin Minjun | Lose | W+R | 7.5 | 3306 | -28 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Gu Zihao | Hu Yuhan | Lose | B+R | 7.5 | 3334 | -7 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Ding Hao | Win | B+¾ | 7.5 | 3341 | 111 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Huang Xin | Hu Yuhan | Win | W+¼ | 7.5 | 3230 | 56 | 

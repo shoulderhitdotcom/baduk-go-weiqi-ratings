@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Park Junghwan | Win | W+R | 7.5 | 3664 | 6 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Park Junghwan | Chen Zijian | Lose | W+1¼ | 7.5 | 3658 | -12 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Park Junghwan | Win | W+R | 7.5 | 3670 | 0 | 
 | 2021-06-04 | 第26回GSカルテックス杯プロ棋戦2回戦 | Park Geunho | Park Junghwan | Win | W+R | 6.5 | 3670 | 1 | 

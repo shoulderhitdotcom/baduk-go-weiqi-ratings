@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Chen Haoxin | Zhang Tao | Lose | W+R | 7.5 | 3184 | -30 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Chen Haoxin | Win | W+2¼ | 7.5 | 3214 | 59 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Chen Haoxin | Mao Ruilong | Win | B+R | 7.5 | 3155 | 167 | 
 | 2021-05-28 | 第25期馬橋杯中国囲碁新人王戦準決勝 | Chen Haoxin | Tu Xiaoyu | Lose | W+¼ | 7.5 | 2988 | -23 | 

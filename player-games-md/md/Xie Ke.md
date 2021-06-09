@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Chen Zijian | Xie Ke | Win | W+R | 7.5 | 3503 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Chen Zijian | Xie Ke | Win | W+R | 7.5 | 3503 | 6 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Xie Ke | Win | W+R | 7.5 | 3497 | 2 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Xie Ke | Zhao Chenyu | Win | B+R | 7.5 | 3495 | -1 | 

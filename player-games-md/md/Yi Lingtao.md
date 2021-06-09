@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Xu Haohong | Lose | W+2¼ | 7.5 | 3394 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Xu Haohong | Lose | W+2¼ | 7.5 | 3394 | -10 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Li Chengsen | Win | B+R | 7.5 | 3404 | 2 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Rong Yi | Yi Lingtao | Win | W+R | 7.5 | 3402 | -6 | 

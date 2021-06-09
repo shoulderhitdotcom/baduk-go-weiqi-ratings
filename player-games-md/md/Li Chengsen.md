@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Li Chengsen | Chen Yaoye | Lose | W+R | 7.5 | 3230 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Li Chengsen | Chen Yaoye | Lose | W+R | 7.5 | 3230 | -11 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Li Chengsen | Lose | B+R | 7.5 | 3241 | -45 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Li Chengsen | Li Xuanhao | Lose | W+R | 7.5 | 3286 | -3 | 

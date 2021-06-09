@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Byun Sangil | Tan Xiao | Lose | B+¾ | 7.5 | 3385 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Byun Sangil | Tan Xiao | Lose | B+¾ | 7.5 | 3385 | -7 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Tan Xiao | Wang Xinghao | Lose | W+1¼ | 7.5 | 3392 | -13 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Wang Shiyi | Tan Xiao | Win | W+R | 7.5 | 3405 | 18 | 

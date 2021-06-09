@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Zhao Chenyu | Li Xuanhao | Win | B+R | 7.5 | 3397 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Zhao Chenyu | Li Xuanhao | Win | B+R | 7.5 | 3397 | 15 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Zhao Chenyu | Lose | B+2¾ | 7.5 | 3382 | -7 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Xie Ke | Zhao Chenyu | Lose | B+R | 7.5 | 3389 | -15 | 

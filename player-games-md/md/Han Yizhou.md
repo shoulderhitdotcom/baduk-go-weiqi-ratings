@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Wang Zejin | Han Yizhou | Win | W+R | 7.5 | 3365 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Wang Zejin | Han Yizhou | Win | W+R | 7.5 | 3365 | 14 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Shin Minjun | Han Yizhou | Lose | B+3¾ | 7.5 | 3351 | -15 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Han Yizhou | Gu Zihao | Lose | W+R | 7.5 | 3366 | -9 | 

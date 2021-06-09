@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Liu Yuhang | Lose | W+R | 7.5 | 3361 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Liu Yuhang | Lose | W+R | 7.5 | 3361 | -13 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Hu Yaoyu | Jiang Qirun | Win | W+R | 7.5 | 3374 | -2 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Tang Weixing | Win | B+R | 7.5 | 3376 | 8 | 

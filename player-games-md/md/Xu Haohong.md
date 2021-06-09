@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Xu Haohong | Win | W+2¼ | 7.5 | 3383 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Xu Haohong | Win | W+2¼ | 7.5 | 3383 | 12 | 
 | 2021-06-08 | 第17期国手戦（台湾）挑戦手合五番勝負第2局 | Xu Haohong | Lin Lixiang | Win | B+R | 6.5 | 3371 | -6 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Xu Haohong | Chen Yunong | Lose | W+R | 7.5 | 3377 | 49 | 

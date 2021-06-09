@@ -5,454 +5,457 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第28期阿含・桐山杯全日本早碁オープン戦予選 | Takei Takashi | Murakawa Daisuke | W+5.5 | 2021-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uC4wbgttskwSrnhGtqN%2Bjg%3D%3D) | 
-| 第46期棋聖戦Sリーグ | Murakawa Daisuke | Kono Rin | B+R | 2021-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3diStw7JJzKkZvM%2FPHqgWQ%3D%3D) | 
-| 第46期棋聖戦Sリーグ | Takao Shinji | Murakawa Daisuke | W+R | 2021-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K3d4KyGVBE%2BwUSqyUHlF6w%3D%3D) | 
-| 第77期本因坊戦予選 | Murakawa Daisuke | Seto Taiki | W+R | 2021-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WdKQTWs5X45rypMKBXmuOA%3D%3D) | 
-| 第77期本因坊戦予選 | missing | Murakawa Daisuke | W+R | 2021-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pF92ODqBPTbMRYxqiandWQ%3D%3D) | 
-| 第65期関西棋院第一位決定戦本戦2回戦 | Hoshikawa Koyo | Murakawa Daisuke | B+0.5 | 2021-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1tMSHgRwQbJLiSryfMOm%2BA%3D%3D) | 
-| 第77期本因坊戦予選 | Yata Naoki | Murakawa Daisuke | W+R | 2021-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7JlbqDprHdMitcmbHaT8Uw%3D%3D) | 
-| 第59期十段戦準決勝 | Murakawa Daisuke | Yu Zhengqi | W+4.5 | 2021-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LWC%2FmfuHOfFPyz9V4hg8cQ%3D%3D) | 
-| 第11回おかげ杯囲碁トーナメント戦三位決定戦 | Muramatsu Hiroki | Murakawa Daisuke | B+R | 2020-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PvWayeyLUpFGBgZ0LoBBAg%3D%3D) | 
-| 第11回おかげ杯囲碁トーナメント戦準決勝  | Murakawa Daisuke | Ichiriki Ryo | W+R | 2020-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8zUjPhl9fWhUQimKePl5Fg%3D%3D) | 
-| 第11回おかげ杯囲碁トーナメント戦2回戦 | Onishi Ryuhei | Murakawa Daisuke | W+5.5 | 2020-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QiIWZmwqq6%2FWxQ3egzhLSQ%3D%3D) | 
-| 第11回おかげ杯囲碁トーナメント戦1回戦 | Murakawa Daisuke | Seki Kotaro | B+R | 2020-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H9BtzN2AFQy7HocTfFsvQg%3D%3D) | 
-| 第65期関西棋院第一位決定戦本戦1回戦 | Murakawa Daisuke | Takatsu Masaaki | B+R | 2020-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a463RRRRaSvbgC5F0XYVcA%3D%3D) | 
-| 第59期十段戦3回戦 | Murakawa Daisuke | Yamashita Keigo | B+1.5 | 2020-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lppu6ut3OcqXVQBg0gIVNQ%3D%3D) | 
-| 第22回農心辛ラーメン杯世界囲碁最強戦第5戦  | Murakawa Daisuke | Gu Zihao | W+R | 2020-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FL7YRAai8GUo2UNo0CAg9g%3D%3D) | 
-| 第1回関西囲碁オープントーナメントトップクラス決勝  | Murakawa Daisuke | Iyama Yuta | W+R | 2020-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AEVEGfC96BFK1AYox4ioCg%3D%3D) | 
-| 第64期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Murakawa Daisuke | Yu Zhengqi | W+R | 2020-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hWzgbGCr4aixI4BBFILCSw%3D%3D) | 
-| 第46期名人戦予選 | Murakawa Daisuke | Motoki Katsuya | W+1.5 | 2020-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0iXANMGNGudU%2FYcpQYReFw%3D%3D) | 
-| 第59期十段戦2回戦 | Fujita Akihiko | Murakawa Daisuke | W+R | 2020-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=beINnIWAS45phlQdmw22pA%3D%3D) | 
-| 第46期名人戦予選 | Hirata Tomoya | Murakawa Daisuke | W+R | 2020-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xahEYsshzymcCBfmI%2F09HQ%3D%3D) | 
-| 第64期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yu Zhengqi | Murakawa Daisuke | B+R | 2020-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U5peE0GIF4KOmN8KRbpSyQ%3D%3D) | 
-| 第46期名人戦予選 | Onishi Ryuhei | Murakawa Daisuke | W+R | 2020-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q1LzC1dLlqvZ%2FnS4rcuDPg%3D%3D) | 
-| 第45期棋聖戦Sリーグ | Takao Shinji | Murakawa Daisuke | W+4.5 | 2020-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sa4wT6YwxkQDdNF32XY0zg%3D%3D) | 
-| 第64期関西棋院第一位決定戦挑戦者決定戦 | Seto Taiki | Murakawa Daisuke | W+R | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5oxKRt3to5GyfDNmCUamyg%3D%3D) | 
-| 第45期棋聖戦Sリーグ | Ichiriki Ryo | Murakawa Daisuke | W+1.5 | 2020-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N%2BLKA8XZNUtW3E6yKXyWUg%3D%3D) | 
-| 第9回応氏杯世界選手権1回戦 | Murakawa Daisuke | Jiang Weijie | W+1 | 2020-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r19FKEBmVaOM9hEAG8tyhw%3D%3D) | 
-| 第27期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Murakawa Daisuke | B+R | 2020-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eFcuSK2jCpFEYLSZSElcug%3D%3D) | 
-| 第76期本因坊戦予選 | Onishi Kenya | Murakawa Daisuke | B+R | 2020-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jsXnaEBF6daZglbMXNRmyw%3D%3D) | 
-| 第45期棋聖戦Sリーグ | Murakawa Daisuke | Cho U | W+R | 2020-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UzINNdpwbSsTRWs41KT0AA%3D%3D) | 
-| 第27期阿含・桐山杯全日本早碁オープン戦2回戦 | Motoki Katsuya | Murakawa Daisuke | W+R | 2020-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LKa1Lh3uqYYN4AWeRgzRCQ%3D%3D) | 
-| 第76期本因坊戦予選 | Murakawa Daisuke | Cho U | B+R | 2020-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7xW1XUND7z5L7VObi6z9uA%3D%3D) | 
-| 第45期名人戦リーグ  | Murakawa Daisuke | Ichiriki Ryo | W+R | 2020-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=doZ%2BuWXqKUJhV256z%2BQ3lg%3D%3D) | 
-| 第64期関西棋院第一位決定戦本戦準決勝 | Nakano Yasuhiro | Murakawa Daisuke | W+5.5 | 2020-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=apmazYHQ%2FN7nuzna7tgIGw%3D%3D) | 
-| 第13回春蘭杯世界囲碁選手権2回戦 | Fan Tingyu | Murakawa Daisuke | B+R | 2020-07-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eg%2B4ODqmCo0jfB%2FqiJAFuQ%3D%3D) | 
-| 第13回春蘭杯世界囲碁選手権1回戦 | Murakawa Daisuke | Ryan Li | B+R | 2020-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fa2jHsUOVg5XwWvui3rJDQ%3D%3D) | 
-| 第45期名人戦リーグ | Rin Kanketsu | Murakawa Daisuke | B+1.5 | 2020-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4Hmf88uCpdZeOXAxExPw%2Fw%3D%3D) | 
-| 第45期棋聖戦Sリーグ | Murakawa Daisuke | Kono Rin | B+R | 2020-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6vJCgEwvrQvK%2Bon%2BlVIYlg%3D%3D) | 
-| 第64期関西棋院第一位決定戦本戦3回戦 | Hong Seokui | Murakawa Daisuke | W+3.5 | 2020-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ABrRSywrzq4yC%2Bvr9XD2IQ%3D%3D) | 
-| 第27期阿含・桐山杯全日本早碁オープン戦1回戦 | missing | Murakawa Daisuke | W+2.5 | 2020-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ik2pSltb%2F4ElHkFHad5RHg%3D%3D) | 
-| 第45期名人戦リーグ | Murakawa Daisuke | Yamashita Keigo | W+R | 2020-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fSCrEf6J6O82rlgFT7bDdw%3D%3D) | 
-| 第58期十段戦挑戦手合五番勝負第4局  | Shibano Toramaru | Murakawa Daisuke | B+R | 2020-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0saXi1iTCWtgt1e56jeuwg%3D%3D) | 
-| 第45期棋聖戦Sリーグ | Murakawa Daisuke | Hsu Chiayuan | W+R | 2020-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2n%2FAinixghOc3xgHGgGy9A%3D%3D) | 
-| 第58期十段戦挑戦手合五番勝負第3局  | Murakawa Daisuke | Shibano Toramaru | W+R | 2020-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h1nUeBIRsl5vck2nsNWGZg%3D%3D) | 
-| 第46期天元戦2回戦 | Murakawa Daisuke | Yamashita Keigo | W+R | 2020-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XWx1jt4MaPSoDMRp3uqcUw%3D%3D) | 
-| 第25回LG杯朝鮮日報棋王戦1回戦 | Murakawa Daisuke | Byun Sangil | W+R | 2020-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BJAKPFckQzbyOP30FYVZJA%3D%3D) | 
-| 日台交流戦第2戦 | Murakawa Daisuke | Lin Lixiang | B+R | 2020-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d6VvZFcTDjggqV0MsgWtBA%3D%3D) | 
-| 日台交流戦第1戦 | Lai Junfu | Murakawa Daisuke | W+0.5 | 2020-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rCdvCt17UV2rYDnhBI33Fw%3D%3D) | 
-| 第45期名人戦リーグ | Murakawa Daisuke | Cho U | B+R | 2020-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8NnaYMYxKLXP1quiWm8zyg%3D%3D) | 
-| 第58期十段戦挑戦手合五番勝負第2局  | Shibano Toramaru | Murakawa Daisuke | W+2.5 | 2020-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q%2FvpiCGNt%2BmjTFykkuGD7w%3D%3D) | 
-| 第58期十段戦挑戦手合五番勝負第1局  | Murakawa Daisuke | Shibano Toramaru | W+3.5 | 2020-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=htIvBCfpV3D9a0EzL08GDQ%3D%3D) | 
-| 第64期関西棋院第一位決定戦本戦2回戦 | Sada Atsushi | Murakawa Daisuke | W+R | 2020-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1%2BO5C1xmmjkZwGxLwQ82CQ%3D%3D) | 
-| 第45期名人戦リーグ | Murakawa Daisuke | Iyama Yuta | W+R | 2020-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b4HX4Z0BTg%2B3Tg0%2BvCGlvQ%3D%3D) | 
-| 第45期名人戦リーグ | Hane Naoki | Murakawa Daisuke | W+0.5 | 2020-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lNlSh4Wyf5p0UBsN9QLyUg%3D%3D) | 
-| 第45期名人戦リーグ | Kono Rin | Murakawa Daisuke | B+R | 2020-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aUv9ZOP2%2BAe7BfuPCHoiKQ%3D%3D) | 
-| 2020台湾精鋭vs日本精鋭交流戦第6戦 | Murakawa Daisuke | Chen Qirui | W+R | 2020-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nnY2aIy2ocZkQn3Z%2FDkibA%3D%3D) | 
-| 2020台湾精鋭vs日本精鋭交流戦第5戦 | Jian Jingting | Murakawa Daisuke | W+1.5 | 2020-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V%2BFRo5Smc013XJEt%2B2HRKA%3D%3D) | 
-| 2020台湾精鋭vs日本精鋭交流戦第4戦 | Murakawa Daisuke | Lin Junyan | W+R | 2020-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TYsvdiuBzqLDvaysK8TsVQ%3D%3D) | 
-| 2020台湾精鋭vs日本精鋭交流戦第3戦 | Xu Haohong | Murakawa Daisuke | W+R | 2020-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5NqHOVoorPl5pzAGDrTQMg%3D%3D) | 
-| 2020台湾精鋭vs日本精鋭交流戦第2戦 | Lai Junfu | Murakawa Daisuke | W+R | 2020-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5hy35OSRd2UgdIU5ZmscGw%3D%3D) | 
-| 2020台湾精鋭vs日本精鋭交流戦第1戦 | Murakawa Daisuke | Wang Yuanjun | W+R | 2020-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0an3gU%2B3QhUzlDRd17RUrw%3D%3D) | 
-| 第46期天元戦1回戦 | Murakawa Daisuke | Yamada Kimio | B+R | 2020-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mc1KRCIqwpHZAA0h9IYCIA%3D%3D) | 
-| 第45期名人戦リーグ | Hsu Chiayuan | Murakawa Daisuke | B+R | 2019-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f9RDnS1C3waCoHxglFTUKQ%3D%3D) | 
-| 第46期天元戦予選A決勝 | missing | Murakawa Daisuke | W+R | 2019-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a4iLzwbwIOFhW3bKNNXKNQ%3D%3D) | 
-| 第21回農心辛ラーメン杯世界囲碁最強戦第1戦 | Murakawa Daisuke | Weon Seongjin | W+R | 2019-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jAI7tpBfcSuQuAesMNWISQ%3D%3D) | 
-| 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Tao Xinran | Murakawa Daisuke | B+2¾ | 2019-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s4YRmVdEkYOoO6y2orkeHA%3D%3D) | 
-| 第68期王座戦予選A準決勝 | Taniguchi Tooru | Murakawa Daisuke | B+R | 2019-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3vy15xiRxdEEdVBlC1m89w%3D%3D) | 
-| 第46期天元戦予選A準決勝 | missing | Murakawa Daisuke | W+R | 2019-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wv%2FcfrqbnW3KqqjWv%2Facng%3D%3D) | 
-| 第44期棋聖戦Sリーグ | Murakawa Daisuke | Yamashita Keigo | W+R | 2019-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vQTo5PZl0i2JqAJu9vw2lA%3D%3D) | 
-| 第46期天元戦予選A | Murakawa Daisuke | Sato Yohei | B+R | 2019-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jp7kMP3vJyiCX1MzW42IhQ%3D%3D) | 
-| 第44期棋聖戦Sリーグ | Kono Rin | Murakawa Daisuke | W+R | 2019-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lgdtCqflfYndgU%2BCMbiWDg%3D%3D) | 
-| 第6回国手山脈国際囲碁大会世界プロ最強戦16強戦 | Murakawa Daisuke | Kim Jiseok | W+R | 2019-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2MvWw32OqJubY3xIuWnyzg%3D%3D) | 
-| 第44期名人戦リーグ | Sun Zhe | Murakawa Daisuke | W+R | 2019-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KvE0XfP%2FyAGi1Y%2FMUjlJ%2Bg%3D%3D) | 
-| 第44期棋聖戦Sリーグ | Murakawa Daisuke | Takao Shinji | W+R | 2019-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=av01AE%2BSQzlBVv7dYOLOcQ%3D%3D) | 
-| 第68期王座戦予選A | Kan Minu | Murakawa Daisuke | W+R | 2019-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h03K0MWdJsagXnmqi72Vrw%3D%3D) | 
-| 第4回ジャパン碁コングレスin金沢トップ棋士トーナメント決勝戦 | Seto Taiki | Murakawa Daisuke | B+R | 2019-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rz4cro66Xjy5sWhxBNnPSw%3D%3D) | 
-| 第4回ジャパン碁コングレスin金沢トップ棋士トーナメント1回戦 | Murakawa Daisuke | Rui Naiwei | B+2.5 | 2019-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zREXYbtPfmVQXk3Nd6U3nA%3D%3D) | 
-| 第45期碁聖戦予選A準決勝 | Kunisawa Hiroto | Murakawa Daisuke | B+R | 2019-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jIeNfHqklulbhXwFGi9vTw%3D%3D) | 
-| 第75期本因坊戦予選 | Murakawa Daisuke | Shida Tatsuya | W+R | 2019-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d97lFrWLebSdhbFLWfuBvg%3D%3D) | 
-| 第44期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | B+R | 2019-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cxghnTE3p995Fc7SK6Zriw%3D%3D) | 
-| 第44期棋聖戦Sリーグ | Murakawa Daisuke | So Yokoku | B+R | 2019-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ghVTLxx4doc4wnemwIbltg%3D%3D) | 
-| 第26期阿含・桐山杯全日本早碁オープン戦予選 | Murakawa Daisuke | Suzuki Shinji | W+1.5 | 2019-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1JiQJFONy%2Fp5Ie%2B1vESArQ%3D%3D) | 
-| IMSAワールドマスターズチャンピオンシップ2019男子団体戦5回戦 | Wang Yuanjun | Murakawa Daisuke | W+1¼ | 2019-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w6isdQGCrJl5aVcGskRIGQ%3D%3D) | 
-| IMSAワールドマスターズチャンピオンシップ2019男子団体戦4回戦 | Park Junghwan | Murakawa Daisuke | B+R | 2019-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EoF6hZ0oN%2FKrRqMFPhxD4g%3D%3D) | 
-| IMSAワールドマスターズチャンピオンシップ2019男子団体戦3回戦 | Ke Jie | Murakawa Daisuke | B+R | 2019-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dwlPRxXMOPj7vlqW6ZuweQ%3D%3D) | 
-| IMSAワールドマスターズチャンピオンシップ2019男子団体戦1回戦 | Ryan Li | Murakawa Daisuke | W+R | 2019-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EmwK3NZR5XpEkqVAt2jhvA%3D%3D) | 
-| 第44期棋聖戦Sリーグ | Hsu Chiayuan | Murakawa Daisuke | W+R | 2019-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fAZ%2Bq9go%2BALvOM7mfyUtRg%3D%3D) | 
-| 第44期名人戦リーグ | Hane Naoki | Murakawa Daisuke | W+R | 2019-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hsCCqjmmt6r8T1DnRfNJqQ%3D%3D) | 
-| 第57期十段戦挑戦手合五番勝負第4局  | Iyama Yuta | Murakawa Daisuke | W+R | 2019-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Aqy7UrruEgxJVOy8gbqDeg%3D%3D) | 
-| 第57期十段戦挑戦手合五番勝負第3局  | Murakawa Daisuke | Iyama Yuta | B+R | 2019-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PAn7MqNtJPEqYajWIEKyIQ%3D%3D) | 
-| 第67期王座戦予選 | Sun Zhe | Murakawa Daisuke | B+R | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QQRJmwaSxsEWcJNOOR2pvw%3D%3D) | 
-| 第44期名人戦リーグ | Iyama Yuta | Murakawa Daisuke | B+R | 2019-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OgoXwH6kM80PHEgaMowz2g%3D%3D) | 
-| 第57期十段戦挑戦手合五番勝負第2局  | Iyama Yuta | Murakawa Daisuke | W+R | 2019-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6G68tOC7nWuYfHmen29o5g%3D%3D) | 
-| 第44期名人戦リーグ | Murakawa Daisuke | Kono Rin | W+2.5 | 2019-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TbZ5kJR%2Be4ff0xcM%2Bkir%2FA%3D%3D) | 
-| 第57期十段戦挑戦手合五番勝負第1局  | Murakawa Daisuke | Iyama Yuta | W+R | 2019-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6UyBwk%2FraaNf8Flod%2BxqLg%3D%3D) | 
-| 第44期碁聖戦本戦3回戦 | Murakawa Daisuke | Yu Zhengqi | W+3.5 | 2019-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1S%2FhH1xvKjHAF%2BrtIRi8Fg%3D%3D) | 
-| 第44期名人戦リーグ | Murakawa Daisuke | Mutsuura Yuta | W+R | 2019-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4Sn2LoQRtUejrM5HgsIpgw%3D%3D) | 
-| 第44期碁聖戦本戦2回戦 | Murakawa Daisuke | Mutsuura Yuta | B+R | 2019-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kSG%2Fj9qLMWdKBig%2FJyejrg%3D%3D) | 
-| 第57期十段戦挑戦者決定戦 | Murakawa Daisuke | Takao Shinji | B+R | 2019-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qtZDR0IPfAMlzqdQBt1gjA%3D%3D) | 
-| 第44期名人戦リーグ | Murakawa Daisuke | Shibano Toramaru | W+2.5 | 2019-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FsaNm%2F5gG9A4TMdzAbnaxQ%3D%3D) | 
-| 第57期十段戦準決勝 | Onishi Ryuhei | Murakawa Daisuke | W+R | 2019-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YG%2BvpzFyuvuhjEJ8zAwfzw%3D%3D) | 
-| 第44期名人戦リーグ | Murakawa Daisuke | Suzuki Shinji | B+R | 2018-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MXhjqo0vYUIZrtpEuwSg9g%3D%3D) | 
-| 第44期碁聖戦本戦1回戦 | Murakawa Daisuke | Kono Rin | B+R | 2018-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RBIslVrLOrN3LfZseoFhdg%3D%3D) | 
-| 第57期十段戦3回戦 | Murakawa Daisuke | Motoki Katsuya | B+R | 2018-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S2tdPzdsZDo9ww7fuZ%2FISQ%3D%3D) | 
-| 第57期十段戦2回戦 | Murakawa Daisuke | Kono Rin | B+R | 2018-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1ftTJFMe6%2FBkexV3KuXeKg%3D%3D) | 
-| 第43期棋聖戦挑戦者決定トーナメント | Murakawa Daisuke | Onishi Ryuhei | W+R | 2018-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PeSy3fHUi5HcotPY4sxkvA%3D%3D) | 
-| 第1回天府杯世界囲碁選手権A組1回戦 | Murakawa Daisuke | Gu Zihao | W+R | 2018-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rr7GTK0eW4xffhCqkWR5Sw%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Murakawa Daisuke | Cho Chikun | B+R | 2018-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KZn52%2BU%2BgBNVqNII0M7a3g%3D%3D) | 
-| 第66期王座戦準決勝 | Ichiriki Ryo | Murakawa Daisuke | B+R | 2018-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CLS4mVaUQH4ngx%2BBxOcH%2Fw%3D%3D) | 
-| 第25期阿含・桐山杯全日本早碁オープン戦2回戦 | Yu Zhengqi | Murakawa Daisuke | B+R | 2018-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NXmG3t3ExjqaD6NRjyRCTA%3D%3D) | 
-| 第43期名人戦リーグ | Hane Naoki | Murakawa Daisuke | W+R | 2018-08-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nB25hVOlJXJApBQ6QcPaaQ%3D%3D) | 
-| 第66期王座戦2回戦 | Hikosaka Naoto | Murakawa Daisuke | W+R | 2018-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BFiVdN6eAHk50QLB0SWElQ%3D%3D) | 
-| 第74期本因坊戦最終予選 | Murakawa Daisuke | Anzai Nobuaki | W+R | 2018-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lA9nXk7elzIg15tVspWPuA%3D%3D) | 
-| 第25期阿含・桐山杯全日本早碁オープン戦1回戦 | Murakawa Daisuke | Oomote Takuto | B+R | 2018-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0qj9RzKZPMf7NzbB8whI%2Fw%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Shida Tatsuya | Murakawa Daisuke | W+R | 2018-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=38wni7AnwY%2F85lH%2BXcorSg%3D%3D) | 
-| 第62期関西棋院第一位決定戦本戦準々決勝 | Yuki Satoshi | Murakawa Daisuke | B+R | 2018-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LyF25tGUBqmBFl8I36qq0A%3D%3D) | 
-| 第43期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | B+R | 2018-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v4D%2BEJCy4JaU9HUxAyBciw%3D%3D) | 
-| 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Adachi Toshimasa | Murakawa Daisuke | W+R | 2018-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tfHhMOVOvsyUB6CDw%2FGdYA%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Murakawa Daisuke | Kobayashi Satoru | B+R | 2018-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DmpLY4a8l7fn3b1OISKVvw%3D%3D) | 
-| 第9回おかげ杯囲碁トーナメント戦1回戦 | Murakawa Daisuke | Ichiriki Ryo | W+0.5 | 2018-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WlupsVRAFdMRgD1tl0cLvw%3D%3D) | 
-| 第43期名人戦リーグ | Murakawa Daisuke | Takao Shinji | B+2.5 | 2018-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xN5FND%2FOq4jSBRz9sr2M7w%3D%3D) | 
-| 関西棋院日本棋院対抗戦 | Mutsuura Yuta | Murakawa Daisuke | B+R | 2018-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aWmdT%2BteIt4TXpwCdPJ0ag%3D%3D) | 
-| 第66期王座戦1回戦 | Murakawa Daisuke | Rin Shien | B+R | 2018-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l55C4AmRgdpbIm1RtqQuOg%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Ko Iso | Murakawa Daisuke | W+R | 2018-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ec9XgBTHz%2F32QzRbrJu0Q%3D%3D) | 
-| 第43期名人戦リーグ | Murakawa Daisuke | Yu Zhengqi | W+R | 2018-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AWvtYf3YrKl8TmYLOo9bWg%3D%3D) | 
-| 第56期十段戦挑戦手合五番勝負第3局  | Murakawa Daisuke | Iyama Yuta | W+4.5 | 2018-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tOPM9YRmoGLZ19iM5NMDvg%3D%3D) | 
-| 第66期王座戦予選 | Han Zenki | Murakawa Daisuke | W+R | 2018-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xFn2Y6V7l0kV2ZaVqTMLuA%3D%3D) | 
-| 第56期十段戦挑戦手合五番勝負第2局  | Iyama Yuta | Murakawa Daisuke | B+R | 2018-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K5zGHJHZ2OK2m4dNjvJdHA%3D%3D) | 
-| 第5回グランドチャンピオン戦2回戦 | Takao Shinji | Murakawa Daisuke | B+0.5 | 2018-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IfRCuqqcOd%2BYmUTvBS7cSA%3D%3D) | 
-| 第56期十段戦挑戦手合五番勝負第1局  | Murakawa Daisuke | Iyama Yuta | W+R | 2018-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T7fFsfQphtNNoz6GLKADBA%3D%3D) | 
-| 第43期名人戦リーグ | Murakawa Daisuke | Cho U | W+R | 2018-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B3D9zJwMvSyangcTg5Lbgw%3D%3D) | 
-| 第43期名人戦リーグ | Murakawa Daisuke | Ko Iso | B+R | 2018-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RLMEWN7Justwyvgh8l%2Bt6A%3D%3D) | 
-| 第5回グランドチャンピオン戦1回戦 | Murakawa Daisuke | Fujisawa Rina | B+R | 2018-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ougs1VIGPlflWApMMCdIiQ%3D%3D) | 
-| 第56期十段戦挑戦者決定戦 | Shida Tatsuya | Murakawa Daisuke | W+R | 2018-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tsJilR48QUsgPzJw1ilDAA%3D%3D) | 
-| 第43期名人戦リーグ | Kono Rin | Murakawa Daisuke | B+R | 2018-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D%2Bd3UwZS4lGvnetGDbuHTA%3D%3D) | 
-| 第43期名人戦リーグ | Shibano Toramaru | Murakawa Daisuke | B+2.5 | 2017-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4uzDfc11%2FXgv7r6zxLVnZQ%3D%3D) | 
-| 第56期十段戦準決勝 | Murakawa Daisuke | Hsu Chiayuan | B+0.5 | 2017-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4S7xsLgJkMT0Hc%2FnrMPiMQ%3D%3D) | 
-| 第56期十段戦3回戦 | Yu Zhengqi | Murakawa Daisuke | W+0.5 | 2017-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mQYSIgVoUj20Nk7ZFQDDBQ%3D%3D) | 
-| 第43期碁聖戦本戦1回戦 | Murakawa Daisuke | Ishida Atsushi | W+R | 2017-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f4ByNEFpO04MK6GB1NRFxg%3D%3D) | 
-| 第66期王座戦予選A準決勝 | Kubo Katsuaki | Murakawa Daisuke | W+R | 2017-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K3qZrzrLZubiGOW23M37dQ%3D%3D) | 
-| 第56期十段戦2回戦 | Yamashita Keigo | Murakawa Daisuke | W+5.5 | 2017-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UoUHfZHdU0McGR2rv3jrAA%3D%3D) | 
-| 第4回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Wang Yuanjun | Murakawa Daisuke | B+R | 2017-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ED57QYIwOmpRKcKzrQfiEQ%3D%3D) | 
-| 第4回おかげ杯国際精鋭囲碁対抗戦3回戦 | Fan Yunruo | Murakawa Daisuke | B+2.5 | 2017-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j8RUOSxpPwmvIYFeecmTXQ%3D%3D) | 
-| 第4回おかげ杯国際精鋭囲碁対抗戦1回戦 | Xiao Zhenghao | Murakawa Daisuke | W+R | 2017-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zQsVxNRNAX%2FrjFh%2B4%2B3tPg%3D%3D) | 
-| 第4回おかげ杯国際精鋭囲碁対抗戦2回戦 | Murakawa Daisuke | Lee Yeongkyu | B+R | 2017-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HuFexac2EoNXQRC35q1CBQ%3D%3D) | 
-| 第44期天元戦予選A準決勝 | Murakawa Daisuke | Sato Yuta | W+R | 2017-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JdOQnvikcCuKFx065CTTIw%3D%3D) | 
-| 第56期十段戦1回戦 | Motoki Katsuya | Murakawa Daisuke | W+R | 2017-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lhKlbN4jYfR%2FJK6VH2ZPoQ%3D%3D) | 
-| 第66期王座戦予選A | Onoda Takuya | Murakawa Daisuke | W+R | 2017-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FdlMxowsPcYdmSfpikGbSA%3D%3D) | 
-| 第42期棋聖戦　Sリーグ5回戦 | Yamashita Keigo | Murakawa Daisuke | B+2.5 | 2017-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XrY45LrbAhAU2LGf9CiviQ%3D%3D) | 
-| 第44期天元戦　予選A | Murakawa Daisuke | Aragaki Shun | B+R | 2017-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bsA%2F1MUXCnu%2B6q6U2oh31w%3D%3D) | 
-| 第13回プロアマトーナメント　準決勝 | Furuya Yutaka | Murakawa Daisuke | B+2.5 | 2017-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5JZJ7zEsE5mKWz%2FRazoYbA%3D%3D) | 
-| 第43期碁聖戦　予選A決勝 | Murakawa Daisuke | Hong Maleunsaem | B+R | 2017-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BqpSFzzmrnLjMWMxSiyE7w%3D%3D) | 
-| 阪急電鉄納涼囲碁まつり阪急トーナメント予選第1局 | Murakawa Daisuke | Ichiriki Ryo | W+R | 2017-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9tw%2BzmWvd%2FrPbfPvW1joYQ%3D%3D) | 
-| 第42期棋聖戦　Sリーグ4回戦 | Cho U | Murakawa Daisuke | W+R | 2017-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i1J91A7ZsCC2cOpDT2nQUw%3D%3D) | 
-| 第42期名人戦リーグ | Hane Naoki | Murakawa Daisuke | B+R | 2017-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pe7wJ%2BvKfo9t5cdhKy3vPw%3D%3D) | 
-| 第42期名人戦リーグ | Murakawa Daisuke | Iyama Yuta | W+R | 2017-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4fjMWuQAt8xVweYbGx3qiA%3D%3D) | 
-| ナショナルチーム強化対局 | DeepZenGo | Murakawa Daisuke | B+R | 2017-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rkgMzbGRrjGXB8eD3%2BQTfA%3D%3D) | 
-| 第43期碁聖戦予選A | Murakawa Daisuke | Hatanaka Hoshinobu | B+R | 2017-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hkRUkwiwEmE8hGMENhsYCg%3D%3D) | 
-| 第42期棋聖戦　Sリーグ3回戦 | Murakawa Daisuke | Ichiriki Ryo | W+R | 2017-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tJZArqIPbPucTlrzZhb2GQ%3D%3D) | 
-| 第56期十段戦　最終予選決勝 | Yamashiro Hiroshi | Murakawa Daisuke | W+R | 2017-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ol7B3Ti3qwSyEgkj1g1CDA%3D%3D) | 
-| 第43期碁聖戦　予選A | Murakawa Daisuke | Utsumi Koki | B+R | 2017-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3TiLsfDzsz2bdL9HK9AOhw%3D%3D) | 
-| 第42期棋聖戦　Sリーグ2回戦 | Murakawa Daisuke | So Yokoku | B+R | 2017-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vu1IXkCWZgfrTdE%2FIJ%2FXDQ%3D%3D) | 
-| 第56期十段戦　最終予選 | Murakawa Daisuke | Kato Atsushi | B+R | 2017-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2l0r5xi7%2FWxMq3hcdDDcoA%3D%3D) | 
-| 第42期名人戦リーグ | Kono Rin | Murakawa Daisuke | W+R | 2017-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rz6mj8FKCdl9j85n5X4f%2Bg%3D%3D) | 
-| 第24期阿含・桐山杯　最終予選決勝 | Murakawa Daisuke | Mutsuura Yuta | W+R | 2017-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tnNZz1RgbzYk1zOKzY5xlQ%3D%3D) | 
-| 第8回おかげ杯囲碁トーナメント戦決勝 | Lee Ishu | Murakawa Daisuke | W+R | 2017-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D%2FYxuDaR8tyxm8sngxerGw%3D%3D) | 
-| 第8回おかげ杯囲碁トーナメント戦準決勝 | Murakawa Daisuke | Terayama Rei | B+R | 2017-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r2REIsZuDVph0pE5skjJXQ%3D%3D) | 
-| 第8回おかげ杯囲碁トーナメント戦1回戦 | Ichiriki Ryo | Murakawa Daisuke | W+0.5 | 2017-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sc8gcN%2FxoGyaWIGbhzaMiA%3D%3D) | 
-| 第42期棋聖戦　Sリーグ1回戦 | Murakawa Daisuke | Kono Rin | W+R | 2017-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W4Ly%2BGkxK7Kb0tj2%2B0sbYQ%3D%3D) | 
-| 日本棋院vs関西棋院対抗戦 | Murakawa Daisuke | Onishi Ryuhei | B+R | 2017-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BOYAitieI8VVhqsIOjIV3Q%3D%3D) | 
-| 関西合宿個人戦決勝 | Murakawa Daisuke | Shibano Toramaru | W+R | 2017-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3aEBIWtO6vNvwsBWNfu7gg%3D%3D) | 
-| 関西合宿個人戦準決勝 | Mutsuura Yuta | Murakawa Daisuke | W+R | 2017-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0aDYuPyQIUk3hSsFX7HRig%3D%3D) | 
-| 関西合宿個人戦1回戦 | Murakawa Daisuke | Numadate Sakiya | B+R | 2017-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J9RZ%2BBz2cZlUjWd3c2KZfQ%3D%3D) | 
-| 第42期名人戦リーグ | Murakawa Daisuke | Sakai Hideyuki | B+R | 2017-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ory%2BcmjvjQd2TVtA533K7w%3D%3D) | 
-| 第73期本因坊戦予選A | Yu Zhengqi | Murakawa Daisuke | B+R | 2017-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zwovuzq1ZQCE736qLtR05A%3D%3D) | 
-| 第65期王座戦　最終予選 | Murakawa Daisuke | Nakano Hironari | W+0.5 | 2017-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SbHusJCyy0xlfNoO5M1G0g%3D%3D) | 
-| 第42期名人戦リーグ | Murakawa Daisuke | Ko Iso | W+R | 2017-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SmjamHTk4UkJX0cjvDud9A%3D%3D) | 
-| 第73期本因坊戦予選A | Aragaki Shun | Murakawa Daisuke | W+R | 2017-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j35bHXRfLZooM%2BjZYopQHA%3D%3D) | 
-| 第4回グランドチャンピオン戦　2回戦 | Ichiriki Ryo | Murakawa Daisuke | B+R | 2017-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mX19D4X5TQgb4fhWcm5xVA%3D%3D) | 
-| 第73期本因坊戦予選A | Murakawa Daisuke | missing | B+R | 2017-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RhY7eGuHa5uJz2SNhofqeQ%3D%3D) | 
-| 第42期名人戦リーグ | Murakawa Daisuke | Cho U | W+R | 2017-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yH0Y5xzFiVvDqUJdpd%2FBHA%3D%3D) | 
-| 第64回NHK杯3回戦第8局 | Yuki Satoshi | Murakawa Daisuke | B+R | 2017-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gNxzuTLg1QCstvC7VyfOXA%3D%3D) | 
-| 第42期名人戦リーグ | Yu Zhengqi | Murakawa Daisuke | W+R | 2017-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qER%2BQKwHLVvAWNWj9Jn01Q%3D%3D) | 
-| 第61期関西棋院第一位決定戦　本戦1回戦 | Yu Zhengqi | Murakawa Daisuke | B+R | 2016-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mcbb2lI8dQC%2B2yk38G%2Fu6w%3D%3D) | 
-| 第42期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | W+3.5 | 2016-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=drUL9rZFw%2Fv3SX6ma7aJFg%3D%3D) | 
-| 第43期天元戦　本戦1回戦第2局 | Murakawa Daisuke | Kim Sujun | W+0.5 | 2016-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KB9IvrcVdKQKYvGT0TcUDQ%3D%3D) | 
-| 第18回農心辛ラーメン杯世界囲碁最強戦第8戦 | Fan Tingyu | Murakawa Daisuke | B+R | 2016-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zvGJSMvM2eDJNtGkSgMh2Q%3D%3D) | 
-| 第55期十段戦　本戦2回戦 | Rin Shien | Murakawa Daisuke | B+R | 2016-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vob9v0fosMCD%2FpySKFZDcQ%3D%3D) | 
-| 第12回産経プロ・アマトーナメント戦　決勝 | Murakawa Daisuke | Sakai Hideyuki | W+R | 2016-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7G7xsvkZKYLLK0k4htDbTg%3D%3D) | 
-| 第60期関西棋院第一位決定戦　挑戦手合三番勝負第二局 | Yuki Satoshi | Murakawa Daisuke | B+R | 2016-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kja%2FKOO%2FVdYq%2F2pgT98y5g%3D%3D) | 
-| 第60期関西棋院第一位決定戦挑戦手合三番勝負　第一局 | Murakawa Daisuke | Yuki Satoshi | W+R | 2016-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hdl2fs9UQNzuO20ILxaFMQ%3D%3D) | 
-| 第41期棋聖戦　Sリーグ5回戦 | Takao Shinji | Murakawa Daisuke | B+R | 2016-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wEcJA0mVckjoq8g%2BvUf0Fg%3D%3D) | 
-| 第60期関西棋院第一位決定戦挑戦者決定戦 | Murakawa Daisuke | Kiyonari Tetsuya | B+7.5 | 2016-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2WU%2FA%2BH6%2B9td%2BsIWsLvgkA%3D%3D) | 
-| 第72期本因坊戦予選決勝 | Murakawa Daisuke | Hane Naoki | W+R | 2016-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bx5Hn%2B8w8HVfpDrTf1AkLw%3D%3D) | 
-| 第23期阿含・桐山杯全日本早碁オープン戦準決勝 | Murakawa Daisuke | Cho Chikun | W+R | 2016-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4NExC4U9H52us1SDMD77gg%3D%3D) | 
-| 第42期天元戦　準決勝第1局 | Murakawa Daisuke | Ichiriki Ryo | W+R | 2016-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NXojxPqxl7wUjb%2BRAvLG0g%3D%3D) | 
-| 第60期関西棋院第一位決定戦本戦3回戦 | Sada Atsushi | Murakawa Daisuke | W+R | 2016-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c3GYyWnTczy%2FOa5hb%2Faa8w%3D%3D) | 
-| 第41期棋聖戦Sリーグ | Murakawa Daisuke | Yoda Norimoto | B+4.5 | 2016-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tL56g1KtvgCmtR4G%2BxQe%2Bw%3D%3D) | 
-| 第41期名人戦　挑戦者決定リーグ第34局 | Murakawa Daisuke | Kono Rin | B+R | 2016-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2pJ0XUji7p2aUk2%2FAAGzNw%3D%3D) | 
-| 第23期阿含・桐山杯全日本早碁オープン戦2回戦 | Takao Shinji | Murakawa Daisuke | W+R | 2016-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V6TXACPXeEyZGQNH5S0CFA%3D%3D) | 
-| 第41期碁聖戦挑戦手合五番勝負第3局 | Iyama Yuta | Murakawa Daisuke | B+R | 2016-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h7oK7eIPCslgqkQS7IX8dw%3D%3D) | 
-| 第72期本因坊戦予選 | Ogata Masaki | Murakawa Daisuke | W+R | 2016-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=moUvP0A56eh4%2F59U%2BGcWwg%3D%3D) | 
-| 第41期棋聖戦Sリーグ | Murakawa Daisuke | Kono Rin | W+R | 2016-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c4fQyPmxKtYuoMXPCYjq3g%3D%3D) | 
-| 第41期碁聖戦挑戦手合五番勝負第2局 | Murakawa Daisuke | Iyama Yuta | W+R | 2016-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WxXL0a5iSI1W2Jn59KfFDQ%3D%3D) | 
-| 第64期王座戦2回戦 | Murakawa Daisuke | Hane Naoki | W+1.5 | 2016-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7iPQdrBQtFa%2FLU5vzsGAIw%3D%3D) | 
-| 第41期名人戦リーグ | Cho U | Murakawa Daisuke | B+2.5 | 2016-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FnHABn4d5z18T5zfWYdOfg%3D%3D) | 
-| 第72期本因坊戦予選 | Iwamaru Taira | Murakawa Daisuke | W+R | 2016-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xtsRK8Z93eH%2FleveuEORLg%3D%3D) | 
-| 第23期阿含・桐山杯全日本早碁オープン戦1回戦 | Murakawa Daisuke | Koyama Kuya | B+R | 2016-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PMSPsBsW3bbKp7wz9wNN5A%3D%3D) | 
-| 第41期碁聖戦挑戦手合五番勝負第1局 | Iyama Yuta | Murakawa Daisuke | B+R | 2016-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tdok7KrYSgUI3itpW21cNg%3D%3D) | 
-| 第60期関西棋院第一位決定戦本戦2回戦 | Murakawa Daisuke | Hong Maleunsaem | B+3.5 | 2016-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FfVX9sqtiMsFMgawop6OwA%3D%3D) | 
-| 第42期天元戦　準々決勝第1局 | Murakawa Daisuke | Ogata Masaki | B+R | 2016-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h4sRsPj5YbKSjemwnseOOQ%3D%3D) | 
-| 第41期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | W+4.5 | 2016-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mlxwty%2Blacp164rmsOlNsQ%3D%3D) | 
-| 第64期王座戦　本戦1回戦第6局 | Numadate Sakiya | Murakawa Daisuke | W+R | 2016-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ci4G09MWS0AJXViqYQbxSw%3D%3D) | 
-| 第41期棋聖戦Sリーグ | Ichiriki Ryo | Murakawa Daisuke | W+R | 2016-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nGOlhz5W1EmORepCYCxyUA%3D%3D) | 
-| 第23期阿含・桐山杯全日本早碁オープン戦予選 | Murakawa Daisuke | Rin Shien | B+R | 2016-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pv2Na%2B%2BG6xw3iFUAwFhRKw%3D%3D) | 
-| 第21回LG杯朝鮮日報棋王戦1回戦 | Murakawa Daisuke | Zhou Ruiyang | W+R | 2016-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IpAsUKcrmO07wRBYygIbTQ%3D%3D) | 
-| 第41期棋聖戦Sリーグ | Yamashita Keigo | Murakawa Daisuke | W+2.5 | 2016-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7CJS8DNstUk0uNKS907C8w%3D%3D) | 
-| 第41期碁聖戦挑戦者決定戦 | Yamashita Keigo | Murakawa Daisuke | W+4.5 | 2016-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oScewE1parkHu7%2FBc8OvtA%3D%3D) | 
-| 第42期天元戦本戦2回戦 | Murakawa Daisuke | Shibano Toramaru | B+0.5 | 2016-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r%2FLQT5PhzPLYdxyZGNkspw%3D%3D) | 
-| 第41期名人戦リーグ | Murakawa Daisuke | Takao Shinji | B+R | 2016-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=da3ohJB7sHofuDMMSZrI4w%3D%3D) | 
-| 第41期碁聖戦本戦準決勝 | Murakawa Daisuke | Sakai Hideyuki | B+R | 2016-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2MehLUsBcW6rF18m3o1NJQ%3D%3D) | 
-| 第41期名人戦リーグ | Hane Naoki | Murakawa Daisuke | B+R | 2016-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gI7p0ZEjUfEIeq9etm7lYA%3D%3D) | 
-| 第11回春蘭杯世界囲碁選手権1回戦 | Li Xuanhao | Murakawa Daisuke | B+5.5 | 2016-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3qfa2Ye1EZPU2%2BrXuWNGrQ%3D%3D) | 
-| 第41期碁聖戦本戦3回戦 | Motoki Katsuya | Murakawa Daisuke | W+R | 2016-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6xszzteDZPfRbifF2TAu4A%3D%3D) | 
-| 第41期名人戦リーグ | Murakawa Daisuke | Ko Iso | B+R | 2016-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b9yZa3fFy7uOwNa0KDMOVw%3D%3D) | 
-| 第17回農心辛ラーメン杯世界囲碁最強戦第11戦 | Murakawa Daisuke | Lee Sedol | W+R | 2016-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yKDHofOxVKUz%2Bw6JlSLplQ%3D%3D) | 
-| 第17回農心辛ラーメン杯世界囲碁最強戦第10戦 | Murakawa Daisuke | Gu Li | B+R | 2016-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iGNIA%2BoYBxOIOYfrr9xZeg%3D%3D) | 
-| 第41期碁聖戦本戦2回戦 | Goto Shungo | Murakawa Daisuke | W+R | 2016-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BzQw5G7mJNR%2BoNYxJhi01Q%3D%3D) | 
-| 2016年日台精鋭交流戦第6戦 | Murakawa Daisuke | Li Wei | W+R | 2016-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9lkkTLo%2Fvpe6UMtqnnSkdQ%3D%3D) | 
-| 2016年日台精鋭交流戦第5戦 | Zhou Junxun | Murakawa Daisuke | B+R | 2016-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E6o04kFh%2Bqb86YOtTyECWQ%3D%3D) | 
-| 2016年日台精鋭交流戦第4戦 | Murakawa Daisuke | Lin Shuyang | W+R | 2016-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nCkjeqg%2F%2FrXuo7O1two%2FgA%3D%3D) | 
-| 2016年日台精鋭交流戦第3戦 | Lin Junyan | Murakawa Daisuke | B+R | 2016-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MQu7KCUwc%2FtyKSmz%2B0yz9A%3D%3D) | 
-| 2016年日台精鋭交流戦第2戦 | Murakawa Daisuke | Cai Chengwei | W+0.5 | 2016-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BzKuPRbSScT1Y3Oq1kbRxg%3D%3D) | 
-| 2016年日台精鋭交流戦第1戦 | Chen Shiyuan | Murakawa Daisuke | B+R | 2016-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s23zk1DRiPqOF9IkcudVAw%3D%3D) | 
-| 第41期名人戦リーグ | Hirata Tomoya | Murakawa Daisuke | W+R | 2016-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PPpifqhiyrGQkOcxjGGMGg%3D%3D) | 
-| 第41期名人戦リーグ | Murakawa Daisuke | Uchida Shuhei | B+R | 2015-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eWFIcdN4H6koDdQR3BcVBQ%3D%3D) | 
-| 第42期天元戦本戦1回戦 | Cho Sonjin | Murakawa Daisuke | W+1.5 | 2015-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aLO1UpUC0ko4IprTWpF4dw%3D%3D) | 
-| 第63期王座戦挑戦手合五番勝負第3局 | Iyama Yuta | Murakawa Daisuke | B+R | 2015-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b%2B1DOmAUwzEqMAPCAL%2FJYg%3D%3D) | 
-| 第63期王座戦挑戦手合五番勝負第2局 | Murakawa Daisuke | Iyama Yuta | W+R | 2015-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hdfmp5hkyfEJUUNF7rSoXg%3D%3D) | 
-| 第40期棋聖戦挑戦者決定トーナメント | Murakawa Daisuke | Yamashita Keigo | W+R | 2015-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mVgSFP5udKbunQSiDRup2w%3D%3D) | 
-| 第40期棋聖戦挑戦者決定トーナメント | Murakawa Daisuke | Yamada Kimio | B+2.5 | 2015-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wno%2BwONLYKWCIKESQ32EFQ%3D%3D) | 
-| 第63期王座戦挑戦手合五番勝負第1局 | Iyama Yuta | Murakawa Daisuke | B+0.5 | 2015-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AYxWC1uNcpn8Rl5K%2BTf7PA%3D%3D) | 
-| 第40期棋聖戦Sリーグ | Yamashiro Hiroshi | Murakawa Daisuke | W+R | 2015-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D2Lfy1OA00cp0p14mpbAQQ%3D%3D) | 
-| 第40期棋聖戦Sリーグ | Murakawa Daisuke | Kobayashi Satoru | B+R | 2015-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lBh69IUBjfRe6sUM6as4Kw%3D%3D) | 
-| 第40期名人戦リーグ | Murakawa Daisuke | Takao Shinji | W+R | 2015-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9HxWD9D4ducXuiN%2FasgErw%3D%3D) | 
-| 第40期棋聖戦Sリーグ | Murakawa Daisuke | Yamashita Keigo | W+R | 2015-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mP2A1Hw82tiUflEgYcyF7A%3D%3D) | 
-| 第22期阿含・桐山杯全日本早碁オープン戦1回戦 | Murakawa Daisuke | Hsu Chiayuan | W+4.5 | 2015-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i0Qd%2FB96FhCKBvhwspoQbQ%3D%3D) | 
-| 第54期十段戦予選 | Murakawa Daisuke | Imamura Toshiya | W+R | 2015-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=08vkbVcdihKe%2FFCXuQbJsw%3D%3D) | 
-| 第40期名人戦リーグ | Kono Rin | Murakawa Daisuke | B+R | 2015-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RBBYuYnqd%2Frah4paPue14A%3D%3D) | 
-| 第40期棋聖戦Sリーグ | Murakawa Daisuke | Yoda Norimoto | W+R | 2015-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NpFnvLmVlvApu2QVYAGcgA%3D%3D) | 
-| 2015年中国囲碁乙級リーグ | Murakawa Daisuke | Xiao Zhenghao | W+R | 2015-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yfGu14FCJv1iQvNKm2KU0A%3D%3D) | 
-| 2015年中国囲碁乙級リーグ | Murakawa Daisuke | Cho Hanseung | W+R | 2015-05-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VMNC6N9WajYTBwBrYp8CQg%3D%3D) | 
-| 2015年中国囲碁乙級リーグ | Murakawa Daisuke | Zhu Yuanhao | W+R | 2015-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a8%2F8qi0UkdrkSS%2FgRHro3A%3D%3D) | 
-| 2015年中国囲碁乙級リーグ | missing | Murakawa Daisuke | W+R | 2015-05-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lny1UrspaciOcCnf8Sum0w%3D%3D) | 
-| 2015年中国囲碁乙級リーグ | Murakawa Daisuke | Shin Jinseo | W+R | 2015-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oFO7BpXg3Y64s56k%2FZmVCA%3D%3D) | 
-| 第40期棋聖戦Sリーグ | Takao Shinji | Murakawa Daisuke | W+4.5 | 2015-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pP1%2Fuoduv4jJ%2FarK%2BW3KKw%3D%3D) | 
-| 第40期名人戦リーグ | Cho U | Murakawa Daisuke | B+2.5 | 2015-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=snJt5CJai5snlJ0hYFBvaA%3D%3D) | 
-| 第40期碁聖戦本戦準決勝 | Murakawa Daisuke | Yamashita Keigo | W+R | 2015-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dFWw2q2OakkOTto4ZwI2YA%3D%3D) | 
-| 第40期碁聖戦本戦3回戦 | Murakawa Daisuke | Cho U | B+R | 2015-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zfhOTcBgJ8cGFmaZkmnrjQ%3D%3D) | 
-| 第40期名人戦リーグ | Ko Iso | Murakawa Daisuke | B+3.5 | 2015-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uM8bMImuqaBlCVpmJRWSnA%3D%3D) | 
-| 第41期天元戦本戦1回戦 | Murakawa Daisuke | Iyama Yuta | W+R | 2015-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1RXf94pAo5d0pxFqGtr1Ag%3D%3D) | 
-| 第40期名人戦リーグ | Murakawa Daisuke | So Yokoku | B+R | 2015-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I3W95Jvqc2ezeraCWCxbzg%3D%3D) | 
-| 第59期関西棋院第一位決定戦本戦2回戦 | Nakano Yasuhiro | Murakawa Daisuke | B+R | 2015-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NeHAC7Mhe4mZ89tfJfeFFQ%3D%3D) | 
-| 第40期碁聖戦本戦2回戦 | Murakawa Daisuke | Hane Naoki | B+R | 2015-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=unMLjGktY0Hbw82NjA94Ag%3D%3D) | 
-| 第40期名人戦リーグ | Hane Naoki | Murakawa Daisuke | W+R | 2015-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1skVMchIY7aUDI1PrFZZoA%3D%3D) | 
-| 第40期碁聖戦本戦1回戦 | Murakawa Daisuke | Nakano Hironari | B+8.5 | 2015-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DXUczOA%2FEkKP2l7ho%2BlnIQ%3D%3D) | 
-| 第59期関西棋院第一位決定戦本戦1回戦 | Onoda Takuya | Murakawa Daisuke | W+R | 2015-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O9qc6IaDaBhHtRHyjvUWAQ%3D%3D) | 
-| 第40期名人戦リーグ | Murakawa Daisuke | Yamashita Keigo | W+R | 2015-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jaBluJPjQPhly%2FRgVk6K%2BA%3D%3D) | 
-| 第62期王座戦挑戦手合五番勝負第5局 | Iyama Yuta | Murakawa Daisuke | W+1.5 | 2014-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6MARdtXfpRjWF2%2Fg%2FnxuAg%3D%3D) | 
-| 第40期名人戦リーグ | Murakawa Daisuke | Kanazawa Makoto | B+13.5 | 2014-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SG9wsRiL276SXh47wKk2iQ%3D%3D) | 
-| 第62期王座戦挑戦手合五番勝負第4局 | Murakawa Daisuke | Iyama Yuta | B+R | 2014-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bryHDgh5cww1KnWfwBw0IA%3D%3D) | 
-| 第16回農心辛ラーメン杯世界囲碁最強戦第6戦 | Murakawa Daisuke | Wang Xi | W+R | 2014-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vhruyzuTZ4ezW7p53eXlNA%3D%3D) | 
-| 第40期碁聖戦予選 | Murakawa Daisuke | Imamura Toshiya | B+R | 2014-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iwXhUijYbuGqHswKEnIPIg%3D%3D) | 
-| 第62期王座戦挑戦手合五番勝負第3局 | Iyama Yuta | Murakawa Daisuke | B+2.5 | 2014-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bSmFI42ZBwRerNXGeoAVMA%3D%3D) | 
-| 第62期王座戦挑戦手合五番勝負第2局 | Murakawa Daisuke | Iyama Yuta | B+1.5 | 2014-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gx3zrI75nC%2Fl9gB23xmxwA%3D%3D) | 
-| 第39期棋聖戦挑戦者決定戦 | Yamashita Keigo | Murakawa Daisuke | B+R | 2014-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xyDPX%2B9rkuZ9sOhDfoZpFQ%3D%3D) | 
-| 第53期十段戦2回戦 | Hane Naoki | Murakawa Daisuke | B+R | 2014-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZAHG%2BkltupUhWlIFn9bz%2Fw%3D%3D) | 
-| 第62期王座戦挑戦手合五番勝負第1局 | Iyama Yuta | Murakawa Daisuke | B+0.5 | 2014-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M4zxXSGEoNVlJ2z49PUVkw%3D%3D) | 
-| 第19回三星火災杯世界囲碁マスターズ2回戦 | Tang Weixing | Murakawa Daisuke | B+R | 2014-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MKZ8Lap49IB93r1RqsXFiQ%3D%3D) | 
-| 第39期棋聖戦Bリーグ | Murakawa Daisuke | Cho Chikun | B+3.5 | 2014-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FYMf36rar1x9b%2Fd4yZ6Pew%3D%3D) | 
-| 第53期十段戦予選 | Cho Chikun | Murakawa Daisuke | W+R | 2014-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rL73aurF1OWYF9%2BIzpCaNA%3D%3D) | 
-| 第62期王座戦挑戦者決定戦 | Murakawa Daisuke | Rin Kanketsu | B+R | 2014-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JgW%2Fz6VDPmeHyrArKLCDaA%3D%3D) | 
-| 第70期本因坊戦予選 | Takao Shinji | Murakawa Daisuke | B+R | 2014-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5cCwE6IandhCS7Q3sofExw%3D%3D) | 
-| 第19回三星火災杯世界囲碁マスターズ1回戦F3 | Kim Yoonyoung | Murakawa Daisuke | W+1.5 | 2014-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YzcG7av7yD%2FEdPp2J7%2BK%2Bg%3D%3D) | 
-| 第19回三星火災杯世界囲碁マスターズ1回戦F2 | Liao Xingwen | Murakawa Daisuke | B+0.5 | 2014-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EERmflLIqNEIGkA3W73lXQ%3D%3D) | 
-| 第19回三星火災杯世界囲碁マスターズ1回戦F1 | Murakawa Daisuke | Fan Yunruo | B+R | 2014-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eNbbm2Yyp5zk%2Fs%2But%2FyMvw%3D%3D) | 
-| 第62期王座戦準決勝 | Murakawa Daisuke | O Rissei | B+R | 2014-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aGtg7btnACyWBImWGKH4iA%3D%3D) | 
-| 第21期阿含・桐山杯全日本早碁オープン戦2回戦 | Yamashita Keigo | Murakawa Daisuke | B+5.5 | 2014-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2sbBWr9%2B0QXLu0660dJHQA%3D%3D) | 
-| 第58期関西棋院第一位決定戦本戦3回戦 | Murakawa Daisuke | Yu Zhengqi | W+R | 2014-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sq%2BC3udRrYjwTJuw%2FoxycA%3D%3D) | 
-| 第39期名人戦リーグ | Murakawa Daisuke | Yamashita Keigo | B+6.5 | 2014-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FiMq9z93PdkRn9VZriI22w%3D%3D) | 
-| 第39期棋聖戦Bリーグ | Murakawa Daisuke | Yuki Satoshi | B+R | 2014-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WLuJ5OmGnod2RQfUzNXroQ%3D%3D) | 
-| 第62期王座戦2回戦 | Murakawa Daisuke | Kono Rin | B+R | 2014-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=23jMX2hD3yx937UeahIVZw%3D%3D) | 
-| 第39期名人戦リーグ | Yuki Satoshi | Murakawa Daisuke | W+R | 2014-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ktp%2FXIeEs9gImq7fz6owsw%3D%3D) | 
-| 第70期本因坊戦予選 | Murakawa Daisuke | Tanaka Nobuyuki | B+4.5 | 2014-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B6Ud%2FKXxcH5hyd0Tpxwzwg%3D%3D) | 
-| 第39期名人戦リーグ | Murakawa Daisuke | Takao Shinji | W+R | 2014-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P2tKHx5ODYfk9MwLRvPxeQ%3D%3D) | 
-| 第39期棋聖戦Bリーグ | Cho Riyu | Murakawa Daisuke | W+R | 2014-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fx5X%2BrjbMqEe6b3dDe5O1Q%3D%3D) | 
-| 第62期王座戦1回戦 | Cho U | Murakawa Daisuke | W+0.5 | 2014-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ngcfna5QbNUf%2BjxM4Nphdg%3D%3D) | 
-| 第39期棋聖戦Bリーグ | Yoda Norimoto | Murakawa Daisuke | W+0.5 | 2014-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iVhGldMA0cDMy0mBr0Tn0g%3D%3D) | 
-| 第39期名人戦リーグ | Kono Rin | Murakawa Daisuke | B+R | 2014-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6o4OqqNgj41xjfTV2bHRDA%3D%3D) | 
-| 第70期本因坊戦予選 | Furuya Yutaka | Murakawa Daisuke | W+R | 2014-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qN38jINtNkW0loepP4uy0Q%3D%3D) | 
-| 第62期王座戦予選 | Murakawa Daisuke | Obuchi Kotaro | B+0.5 | 2014-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DomGXI3NLaBl%2Fwm3ur9K2w%3D%3D) | 
-| 第39期名人戦リーグ | Hane Naoki | Murakawa Daisuke | W+R | 2014-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CVt50YSOlwkDx%2FxzmIuedg%3D%3D) | 
-| 第10回春蘭杯世界囲碁選手権2回戦 | Shi Yue | Murakawa Daisuke | B+R | 2014-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pUAM87YCelkwnVHgZiXAgQ%3D%3D) | 
-| 第10回春蘭杯世界囲碁選手権1回戦 | Murakawa Daisuke | Lian Xiao | B+R | 2014-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ceHIpLRGpW7L2tVDp1mUUg%3D%3D) | 
-| 第39期名人戦リーグ | Ko Iso | Murakawa Daisuke | B+R | 2014-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=33VY99rbofysvuN53aVHlA%3D%3D) | 
-| 第40期天元戦本戦1回戦 | Cho Chikun | Murakawa Daisuke | B+R | 2014-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nVrxEPJdMNTlaFh%2BXfbkPA%3D%3D) | 
-| 第39期名人戦リーグ | Murakawa Daisuke | Cho U | W+R | 2014-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jw3QzaYTK3%2Bvh6UmMJcyDw%3D%3D) | 
-| 第39期名人戦リーグ | Murakawa Daisuke | Ryu Shikun | W+R | 2013-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NuWo8UPWv218UaFeg%2FwIPw%3D%3D) | 
-| 第15回阿含・桐山杯日中決戦 | Murakawa Daisuke | Lian Xiao | W+R | 2013-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sqYC%2FgrD6QZbl6iZM4Wytw%3D%3D) | 
-| 第40期天元戦予選 | Sada Atsushi | Murakawa Daisuke | W+3.5 | 2013-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rLE3l2CtiAF%2BMVo4TPacRg%3D%3D) | 
-| 第38期棋聖戦挑戦者決定戦 | Murakawa Daisuke | Yamashita Keigo | W+R | 2013-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z%2FZJkzKsT7hB6BYknpHcfA%3D%3D) | 
-| 第20期阿含・桐山杯全日本早碁オープン戦決勝 | Murakawa Daisuke | Shida Tatsuya | B+3.5 | 2013-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m7XUy2lek08t5KZx1JRRDw%3D%3D) | 
-| 第38期棋聖戦Bリーグ | Murakawa Daisuke | Cho Chikun | W+R | 2013-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8%2FcNgkvz7dm3xJP%2BJ1e2Yw%3D%3D) | 
-| 第38期棋聖戦Bリーグ | Murakawa Daisuke | Kono Rin | B+R | 2013-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rICkL3Z%2Ba%2Blfim%2BB4ZTFuw%3D%3D) | 
-| 第57期関西棋院第一位決定戦挑戦者決定戦 | Furuya Yutaka | Murakawa Daisuke | B+R | 2013-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p4zZ9pmGlsl8nkUSi55jyg%3D%3D) | 
-| 第52期十段戦予選 | Rin Kanketsu | Murakawa Daisuke | B+3.5 | 2013-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G3SDl%2Bwt4pYuut7SisAw7A%3D%3D) | 
-| 第20期阿含・桐山杯全日本早碁オープン戦準決勝 | Cho U | Murakawa Daisuke | W+R | 2013-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Yv8SBD5akB%2BTbi7%2BFz3Jw%3D%3D) | 
-| 第61期王座戦2回戦 | Hane Naoki | Murakawa Daisuke | B+R | 2013-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sIzAYbKRPeIBueRkI8XOpg%3D%3D) | 
-| 第38期名人戦リーグ | Murakawa Daisuke | Mizokami Tomochika | B+R | 2013-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0h5vOFcxWwwenf7KvVH39w%3D%3D) | 
-| 第20期阿含・桐山杯全日本早碁オープン戦2回戦 | Murakawa Daisuke | Seto Taiki | B+R | 2013-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dMZ9yPvkd9buRDa6Ajgavw%3D%3D) | 
-| 第38期棋聖戦Bリーグ | Murakawa Daisuke | Takao Shinji | B+1.5 | 2013-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g4m7dnbTUPMX2aEgtPJ0TQ%3D%3D) | 
-| 第1回夢百合杯世界オープン戦1回戦 | Hu Yaoyu | Murakawa Daisuke | B+R | 2013-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HdQavlSU%2FI3USbJcuR%2BiIQ%3D%3D) | 
-| 第20期阿含・桐山杯全日本早碁オープン戦1回戦 | Murakawa Daisuke | Ryu Shikun | B+3.5 | 2013-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OOHbaEr54wAGFVjabVQBmg%3D%3D) | 
-| 第38期名人戦リーグ | Kono Rin | Murakawa Daisuke | B+1.5 | 2013-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C2xeWmQL%2B8JJvkMYY%2Bv%2Bxg%3D%3D) | 
-| 第38期棋聖戦Bリーグ | Hane Naoki | Murakawa Daisuke | W+R | 2013-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7ph%2BCfauRWqjrbLyGPoU7w%3D%3D) | 
-| 第38期名人戦リーグ | Hane Naoki | Murakawa Daisuke | W+R | 2013-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mikb9VJQYC4X4U7denuJSA%3D%3D) | 
-| 第57期関西棋院第一位決定戦本戦2回戦 | Yuki Satoshi | Murakawa Daisuke | W+R | 2013-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mDyptPcrDR%2BtpzxvyRDp9w%3D%3D) | 
-| 第61期王座戦1回戦 | Murakawa Daisuke | Mimura Tomoyasu | B+2.5 | 2013-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2EKwpRDMQQVCGueTrHuVjg%3D%3D) | 
-| 第69期本因坊戦予選 | Kiyonari Tetsuya | Murakawa Daisuke | W+R | 2013-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6SBVJoly9Kjl%2FcufdJspjw%3D%3D) | 
-| 第38期棋聖戦Bリーグ | Mizokami Tomochika | Murakawa Daisuke | W+R | 2013-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eyLbGD5kzg2NP47Z1kIJBw%3D%3D) | 
-| 第38期名人戦リーグ | Murakawa Daisuke | Takao Shinji | W+R | 2013-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t%2BI89qmrBdPhh5qXg76F%2Fg%3D%3D) | 
-| 第38期名人戦リーグ | Murakawa Daisuke | Iyama Yuta | W+R | 2013-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=giaxywSK4h5uHHE1rpDGqw%3D%3D) | 
-| 第38期棋聖戦予選 | Murakawa Daisuke | Sakai Hideyuki | B+R | 2013-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xV0oH3LxsKI5XhfAq%2FxI2Q%3D%3D) | 
-| 第38期名人戦リーグ | Murakawa Daisuke | Sakai Hideyuki | B+5.5 | 2013-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0%2FbmR1CE%2FG7m58bXWFhxtg%3D%3D) | 
-| 第61期王座戦予選 | Murakawa Daisuke | Lee Ishu | B+R | 2013-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KtRjN2VJahcp9fI9DUFFug%3D%3D) | 
-| 第38期棋聖戦予選 | O Meien | Murakawa Daisuke | W+R | 2013-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QMUea6LJ9g5HHmB8Zlc%2FAw%3D%3D) | 
-| 第38期名人戦リーグ | Yuki Satoshi | Murakawa Daisuke | W+R | 2013-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V3dz%2B95bTmxZ5j6%2FMUh4rQ%3D%3D) | 
-| 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Jiang Weijie | Murakawa Daisuke | B+R | 2012-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EA%2Fsvh%2FTK5r47sii8T9LVw%3D%3D) | 
-| 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Choi Cheolhan | Murakawa Daisuke | B+R | 2012-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4A3SAO9XUS0H5XdVQ9f5Nw%3D%3D) | 
-| 第38期名人戦リーグ | Cho U | Murakawa Daisuke | B+R | 2012-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4fiZbizFCYcu1NCXs214fQ%3D%3D) | 
-| 第14回農心辛ラーメン杯世界囲碁最強戦第10戦 | Murakawa Daisuke | Choi Cheolhan | W+R | 2012-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k8ieISPGO8aUTHj%2BxrXVIQ%3D%3D) | 
-| 第38期名人戦予選 | Murakawa Daisuke | Komatsu Hideki | B+R | 2012-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M6PbYS%2Bca68L4AOSRKYduA%3D%3D) | 
-| 第56期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Murakawa Daisuke | Sakai Hideyuki | W+R | 2012-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kKYfmKJQe8vIcjUV2Hsf4Q%3D%3D) | 
-| 第56期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Sakai Hideyuki | Murakawa Daisuke | B+0.5 | 2012-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i70BS3E0X9aKLfzW57k47Q%3D%3D) | 
-| 第56期関西棋院第一位決定戦挑戦者決定戦 | Murakawa Daisuke | Kiyonari Tetsuya | B+2.5 | 2012-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QcbHZCf%2Bb0rctueGpwwkQw%3D%3D) | 
-| 第38期名人戦予選 | Cho Chikun | Murakawa Daisuke | W+4.5 | 2012-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QQfS1eEedvr83axj7oBr2A%3D%3D) | 
-| 第51期十段戦予選 | Murakawa Daisuke | Rin Kanketsu | W+R | 2012-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=naF76Q2huo4pY39YDN%2Fn8A%3D%3D) | 
-| 第38期名人戦予選 | Murakawa Daisuke | Ha Youngil | B+R | 2012-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z9IMhWk0GlysSG9R3Lqgdw%3D%3D) | 
-| 第68期本因坊戦予選 | Michael Redmond | Murakawa Daisuke | W+R | 2012-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hw4NreWWKJtechbjbir2Pg%3D%3D) | 
-| 第19期阿含・桐山杯全日本早碁オープン戦予選 | Murakawa Daisuke | Mizokami Tomochika | W+2.5 | 2012-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D0KAXVWUoky%2BjAgq5n%2Ftqw%3D%3D) | 
-| 第38期碁聖戦予選 | Aragaki Shun | Murakawa Daisuke | B+R | 2012-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wtrGySmRAYTtneGImEhc%2BQ%3D%3D) | 
-| 第56期関西棋院第一位決定戦本戦3回戦 | Furuya Yutaka | Murakawa Daisuke | W+2.5 | 2012-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=35RDog%2F3OXmZqvO4j%2BIQmw%3D%3D) | 
-| 第17回LG杯予選 | Murakawa Daisuke | Park Seunghwa | W+R | 2012-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AymbYqLqdj8VACOryKhdiw%3D%3D) | 
-| 第17回LG杯予選 | Park Seunghyeon | Murakawa Daisuke | W+0.5 | 2012-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QWBhSJ7MZPEqDHkyOaRz2g%3D%3D) | 
-| 第4回BCカード杯世界選手権2回戦 | Murakawa Daisuke | Liu Xing | W+R | 2012-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=prziRHamm1j5ZctJiP8gsw%3D%3D) | 
-| 第4回BCカード杯世界選手権1回戦 | Murakawa Daisuke | Kim Ilhwan | B+R | 2012-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bei2Af6Ff%2F%2FjsAR5alJUJA%3D%3D) | 
-| 第4回BCカード杯世界選手権統合予選 | Murakawa Daisuke | An Sungjoon | B+R | 2012-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hKGxAnvQmU8YeWyJ2eKvdQ%3D%3D) | 
-| 第60期王座戦予選 | Murakawa Daisuke | Yamada Kimio | W+R | 2012-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x5fERkz7tjZMRbYC6lmhwg%3D%3D) | 
-| 第56期関西棋院第一位決定戦本戦1回戦 | Murakawa Daisuke | Hoshikawa Takumi | B+R | 2011-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1oD3NqfZxpjEjKO7UvKR1A%3D%3D) | 
-| 第38期天元戦本戦0回戦 | Mimura Tomoyasu | Murakawa Daisuke | B+R | 2011-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f%2FKaotaJt4zYs%2BXXXaFjuw%3D%3D) | 
-| 2011年国際新鋭囲碁対抗戦第2戦 | Park Junghwan | Murakawa Daisuke | B+R | 2011-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0jIz%2FwjJ8KochvAqcOPcpA%3D%3D) | 
-| 2011年国際新鋭囲碁対抗戦第1戦 | Murakawa Daisuke | Li Zhe | W+R | 2011-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zDYZK%2B6XizI79q3t0DUMNQ%3D%3D) | 
-| 第55期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Sakai Hideyuki | Murakawa Daisuke | B+2.5 | 2011-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dfYsl2GdSr%2Fy4aELj6f7yQ%3D%3D) | 
-| 第37期碁聖戦予選 | Murakawa Daisuke | Kurahashi Masayuki | W+R | 2011-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CdmfQsKANaTWQemiQoExUw%3D%3D) | 
-| 第55期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Murakawa Daisuke | Sakai Hideyuki | W+R | 2011-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YRkQNBKf79JY%2BQRd3Xn2cQ%3D%3D) | 
-| 第50期十段戦2回戦 | Anzai Nobuaki | Murakawa Daisuke | B+R | 2011-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ao9acoVudAwWO4xCBUptQg%3D%3D) | 
-| 第36期新人王戦決勝三番勝負第2局 | Anzai Nobuaki | Murakawa Daisuke | W+1.5 | 2011-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tAjUwiZnM8VWuIuTp4EDBA%3D%3D) | 
-| 第36期新人王戦決勝三番勝負第1局 | Murakawa Daisuke | Anzai Nobuaki | B+6.5 | 2011-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6XiQVJ4qowsy0ogo9%2BSU9Q%3D%3D) | 
-| 第50期十段戦1回戦 | Murakawa Daisuke | Yamashita Keigo | B+0.5 | 2011-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m%2FnFNOhIxA%2BfOCuPwmu5VA%3D%3D) | 
-| 第16回三星火災杯統合予選決勝 | Murakawa Daisuke | Na Hyun | W+R | 2011-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b6WDwVNG6AhwFDztz5rIoQ%3D%3D) | 
-| 第16回三星火災杯統合予選1回戦 | Jin Siyoung | Murakawa Daisuke | W+R | 2011-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hwZ6Gtwp%2BiRgWObfcbLRiQ%3D%3D) | 
-| 第36期新人王戦準決勝 | Tamai Shin | Murakawa Daisuke | W+R | 2011-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ND3kv%2F1clrF7TekL4kPdow%3D%3D) | 
-| 第37期碁聖戦予選 | Murakawa Daisuke | Konishi Kazuko | B+R | 2011-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uRO%2BvHRuSMTyIeEK9D0OsQ%3D%3D) | 
-| 第36期新人王戦3回戦 | Mitani Tetsuya | Murakawa Daisuke | W+R | 2011-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FEbKOvfNVfj6JFGTw87D2w%3D%3D) | 
-| 第59期王座戦2回戦 | Mitani Tetsuya | Murakawa Daisuke | B+R | 2011-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ng3VjMZNq%2BBBnKNjTuZjhQ%3D%3D) | 
-| 第18期阿含・桐山杯全日本早碁オープン戦予選 | Murakawa Daisuke | Takao Shinji | W+2.5 | 2011-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5YDHAGL%2F6wvInCNIST7g5w%3D%3D) | 
-| 第59期王座戦1回戦 | So Yokoku | Murakawa Daisuke | W+R | 2011-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GqcAqtp1WwDAV5xUj6kzJw%3D%3D) | 
-| 第50期十段戦予選 | Murakawa Daisuke | Lee Ishu | B+3.5 | 2011-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UxuuHjNPr%2BCqD7tb743IBg%3D%3D) | 
-| 第36期新人王戦2回戦 | Xie Yimin | Murakawa Daisuke | W+R | 2011-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2TjIhb4yQokWCo01UHJV6w%3D%3D) | 
-| 第50期十段戦予選 | Ishida Atsushi | Murakawa Daisuke | W+R | 2011-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rIZxu8r1haMpPfi7AWcuZA%3D%3D) | 
-| 第37期天元戦本戦2回戦 | Murakawa Daisuke | Yamada Takuji | W+R | 2011-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C2sJQKWwnD1p2sDQa01D3w%3D%3D) | 
-| 第36期新人王戦1回戦 | Murakawa Daisuke | Yanagisawa Satoshi | B+R | 2011-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=peGTEq6iR62pCTxKqEx2RA%3D%3D) | 
-| 第59期王座戦予選 | Murakawa Daisuke | Fujii Shuya | B+4.5 | 2011-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sURhIpOFtHCb0Bf%2BfHYPpQ%3D%3D) | 
-| 第3回BCカード杯世界選手権統合予選 | Murakawa Daisuke | Kim Yoonyoung | B+R | 2011-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6rkVUlJkPD5xPXiN8ZBQ0Q%3D%3D) | 
-| 第59期王座戦予選 | Murakawa Daisuke | Ishida Yoshio | B+R | 2011-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yn13ueCC%2BF19s16HpU%2Fc9w%3D%3D) | 
-| 第37期天元戦本戦1回戦 | Murakawa Daisuke | Ogata Masaki | B+R | 2011-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=03VLEdLbJLqhvloOQZ6mDg%3D%3D) | 
-| 第36期棋聖戦予選 | Murakawa Daisuke | Kono Rin | W+R | 2011-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MNtPzqt6VldIJhhvns0MrA%3D%3D) | 
-| 第67期本因坊戦予選 | Yuki Satoshi | Murakawa Daisuke | B+R | 2010-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1BcQoD5oZQBc4zL4KvzDUQ%3D%3D) | 
-| 第59期王座戦予選 | Murakawa Daisuke | Yokota Shigeaki | B+R | 2010-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b2MW2Z7rHZKft2TDKqBxiQ%3D%3D) | 
-| 第50期十段戦予選 | Murakawa Daisuke | Miyamoto Yoshihisa | B+R | 2010-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mr3fKse6Rb0CHL%2BTQ2nvkQ%3D%3D) | 
-| 第54期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Murakawa Daisuke | Yuki Satoshi | B+0.5 | 2010-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b%2F%2F%2Br12%2Fa76SRWP%2BDGM2Fw%3D%3D) | 
-| 第54期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yuki Satoshi | Murakawa Daisuke | W+R | 2010-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tCH5D%2F28pJ7%2Fa%2Bc9FdTv8A%3D%3D) | 
-| 第36期碁聖戦予選 | Murakawa Daisuke | Imamura Toshiya | W+0.5 | 2010-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KA3pIhwRjTrlC50VAb%2BW8w%3D%3D) | 
-| 2010年国際新鋭囲碁対抗戦第3戦 | Murakawa Daisuke | Lin Shuyang | B+5.5 | 2010-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FzYRsHrl05UuaWPzNBkT4A%3D%3D) | 
-| 2010年国際新鋭囲碁対抗戦第2戦 | Kang Yootaek | Murakawa Daisuke | B+R | 2010-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9m9XP7pC%2BJo1D%2B2kssW7Gw%3D%3D) | 
-| 2010年国際新鋭囲碁対抗戦第1戦 | Gu Lingyi | Murakawa Daisuke | W+R | 2010-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6s094zwZIsdIW5bVMfNNsw%3D%3D) | 
-| 第36期名人戦予選 | Murakawa Daisuke | Hane Naoki | W+R | 2010-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LTUp%2BKXo0vIhHvkCsEAvYg%3D%3D) | 
-| 第54期関西棋院第一位決定戦挑戦者決定戦 | Murakawa Daisuke | Yukawa Mitsuhisa | B+6.5 | 2010-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0vc9wEncHzxfxIqRGdGsTw%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ1回戦G2 | Peng Quan | Murakawa Daisuke | B+R | 2010-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k%2Bi%2FS0EY48O1JfNsJhnW7A%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ1回戦G1 | Lee Sedol | Murakawa Daisuke | B+R | 2010-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bjXQRy6YF7uACf6VtS2fow%3D%3D) | 
-| 第54期関西棋院第一位決定戦本戦準決勝 | Takahara Syuji | Murakawa Daisuke | W+R | 2010-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o3g84vOj%2FhLyDABRD7R04w%3D%3D) | 
-| 第15回三星火災杯統合予選決勝 | On Sojin | Murakawa Daisuke | W+R | 2010-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z5loLLm4svl6zIe%2FkbF6gQ%3D%3D) | 
-| 第15回三星火災杯統合予選準決勝 | Murakawa Daisuke | Kim Hyunsub | B+R | 2010-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qb2%2BsV4XEE3cM2AJgTkrLw%3D%3D) | 
-| 第15回三星火災杯統合予選2回戦 | Murakawa Daisuke | Liu Xing | B+R | 2010-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CSdX52wyQEWIx0V5mp7Y8w%3D%3D) | 
-| 第37期天元戦予選 | Ishii Shinzo | Murakawa Daisuke | W+R | 2010-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UtX5llOvn5Xvl97JVUwe9w%3D%3D) | 
-| 第54期関西棋院第一位決定戦本戦3回戦 | Sonoda Yuichi | Murakawa Daisuke | W+R | 2010-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KdotIxnDzvF%2FoMXvkM9c4w%3D%3D) | 
-| 第7回中野杯U20選手権決勝 | Shida Tatsuya | Murakawa Daisuke | W+R | 2010-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lJMFnUG%2FzPmA9gpy%2F0hVrg%3D%3D) | 
-| 第17期阿含・桐山杯全日本早碁オープン戦1回戦 | Murakawa Daisuke | Ogata Masaki | W+3.5 | 2010-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6we8UZI5WwQh5CuMxEErzA%3D%3D) | 
-| 第49期十段戦予選 | Murakawa Daisuke | Iyama Yuta | W+R | 2010-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=teYSEaweCt3Sj5Ao10EXRA%3D%3D) | 
-| 第35期新人王戦1回戦 | Murakawa Daisuke | Ohba Junya | W+R | 2010-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2pXiVyAJI7o4DMUBI1vlDA%3D%3D) | 
-| 第35期碁聖戦本戦2回戦 | Nakaonoda Tomomi | Murakawa Daisuke | B+0.5 | 2010-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KjmFgjyjz6E8VdtrgPy7Jg%3D%3D) | 
-| 第36期天元戦本戦1回戦 | Takemiya Masaki | Murakawa Daisuke | B+R | 2010-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qJr98pAcUMzAwsO%2FyGT0Fg%3D%3D) | 
-| 第23回世界囲碁選手権富士通杯国内予選 | Murakawa Daisuke | Cho Chikun | W+R | 2009-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BDCCzQLCzuRMJHVewYhiIg%3D%3D) | 
-| 第36期天元戦予選 | Murakawa Daisuke | Mine Yasuhiro | B+R | 2009-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JDX6HIxMZkd6nYXKgYV74A%3D%3D) | 
-| 第35期碁聖戦本戦1回戦 | Murakawa Daisuke | Ko Iso | B+R | 2009-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zd%2FXu0zdpwVcC7qyCoTZJQ%3D%3D) | 
-| 第36期天元戦予選 | Murakawa Daisuke | Sonoda Yuichi | B+R | 2009-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r6Pf689%2BhSA0oNPy7FpElg%3D%3D) | 
-| 第35期名人戦予選 | Kono Rin | Murakawa Daisuke | B+R | 2009-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o5%2B4hkNSD85DRRvNKyPVEg%3D%3D) | 
-| 第66期本因坊戦予選 | Murakawa Daisuke | Ishii Shinzo | B+R | 2009-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qx0WbHtOqXBD98tMz66d4Q%3D%3D) | 
-| 第35期碁聖戦予選 | Seto Taiki | Murakawa Daisuke | W+R | 2009-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EmgqvzPWnFsia4Nb8u8c0g%3D%3D) | 
-| 第6回中野杯U20選手権決勝 | Shida Tatsuya | Murakawa Daisuke | W+R | 2009-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dUKOO5B%2BQJjatj%2FnMmAh2w%3D%3D) | 
-| 第34期新人王戦3回戦 | Murakawa Daisuke | Mitani Tetsuya | W+2.5 | 2009-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cu5Rvpk%2FI6pOnXCgnibM7g%3D%3D) | 
-| 第35期名人戦予選 | Murakawa Daisuke | Saito Tadashi | B+R | 2009-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vty8xIS6DHw7ighQVVjhnw%3D%3D) | 
-| 第34期新人王戦2回戦 | Murakawa Daisuke | Ohashi Hirofumi | B+R | 2009-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fd2%2By8Gm%2BsgaqNCyYWZlhw%3D%3D) | 
-| 第48期十段戦予選 | Yamashita Keigo | Murakawa Daisuke | B+R | 2009-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5BpwQKIrgR5C5pUHtcYpqA%3D%3D) | 
-| 第34期新人王戦1回戦 | Yanagisawa Satoshi | Murakawa Daisuke | W+R | 2009-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6wrMhysznSNoPFGONTRIHg%3D%3D) | 
-| 第34期碁聖戦本戦1回戦 | Murakawa Daisuke | Kono Rin | W+R | 2008-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=519cokKK2bg%2BnO78L0gktw%3D%3D) | 
-| 2008年国際新鋭囲碁対抗戦第3戦 | Zhang Zhehao | Murakawa Daisuke | W+3.5 | 2008-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x2H49yC2UaoQftSqiMXQrw%3D%3D) | 
-| 2008年国際新鋭囲碁対抗戦第2戦 | Shi Yue | Murakawa Daisuke | B+0.5 | 2008-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=03ymax%2F20kp6P7BHbkawxQ%3D%3D) | 
-| 2008年国際新鋭囲碁対抗戦第1戦 | Murakawa Daisuke | Kim Jiseok | W+R | 2008-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MmFyjanzg5btVt0VjoZ7FQ%3D%3D) | 
-| 第57期王座戦予選 | Kubo Katsuaki | Murakawa Daisuke | W+R | 2008-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z9QIfD7B9FTYi6f5eKSKWQ%3D%3D) | 
-| 第33期新人王戦1回戦 | Murakawa Daisuke | Mitani Tetsuya | W+R | 2008-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3vn%2BE6SAyRaYBZ2fesYVtg%3D%3D) | 
-| 第56期王座戦予選 | Murakawa Daisuke | O Rissei | W+R | 2007-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X16ntR6KkpWMN7l%2BMGkt5g%3D%3D) | 
-| 2007年国際新鋭囲碁対抗戦第3戦 | Murakawa Daisuke | Zhang Kaixin | B+1.5 | 2007-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wZGTbapxnTe7T2IrqPlmdA%3D%3D) | 
-| 2007年国際新鋭囲碁対抗戦第2戦 | Murakawa Daisuke | Park Seunghwa | W+R | 2007-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QtoxPJspwSsDPHsx%2BoLeEg%3D%3D) | 
-| 2007年国際新鋭囲碁対抗戦第1戦 | Murakawa Daisuke | missing | W+0.5 | 2007-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zemybyTR0UQlXdn0ftzC0g%3D%3D) | 
-| 第32期新人王戦3回戦 | Cho Riyu | Murakawa Daisuke | B+R | 2007-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fHkkxUQQ5PxrB26TcUKsRA%3D%3D) | 
-| 第4回中野杯U20選手権 | Murakawa Daisuke | Ko Iso | W+R | 2007-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Uq2gpXjVauJSzNaLVJwb6w%3D%3D) | 
-| 第32期新人王戦2回戦 | Murakawa Daisuke | Ko Iso | B+0.5 | 2007-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1T0LHP11%2F5XBpdNBkHo3Ow%3D%3D) | 
-| 第32期新人王戦1回戦 | Horimoto Mitsunari | Murakawa Daisuke | W+2.5 | 2007-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D25WYgdlhPoKVnfrFiNI9g%3D%3D) | 
-| 第32期碁聖戦本戦1回戦 | Murakawa Daisuke | Yamashita Keigo | W+R | 2006-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NnE5UG3WUBqYnA99Airmlg%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯国内予選 | Murakawa Daisuke | Hatanaka Hoshinobu | B+4.5 | 2006-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IGKN3BslLN8VrQtNsbb7hg%3D%3D) | 
-| 第31期新人王戦1回戦 | Kono Rin | Murakawa Daisuke | B+R | 2006-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3cxqD1LexycJQYDPQ%2Fi6bg%3D%3D) | 
-| 第30期新人王戦3回戦 | Murakawa Daisuke | Iyama Yuta | W+5.5 | 2005-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PnphK5YT2mBMoVbyPvctuw%3D%3D) | 
-| 第2回中野杯U20選手権2回戦 | Murakawa Daisuke | Uchida Shuhei | W+R | 2005-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GbOAM%2F%2By4n7e4uvERMyprw%3D%3D) | 
-| 第30期新人王戦2回戦 | Murakawa Daisuke | Furuya Yutaka | B+R | 2005-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W64KcczIW1YlUSaYkUTwPQ%3D%3D) | 
-| 第2回中野杯U20選手権1回戦 | Rin Kanketsu | Murakawa Daisuke | W+4.5 | 2005-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BXO%2BAKdnGa0ulAslSCQN3A%3D%3D) | 
-| 第30期新人王戦1回戦 | Araki Issei | Murakawa Daisuke | W+R | 2005-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G8hODLpm4gORPBBo3bsVLw%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-09 | 第47期碁聖戦予選 | Abe Yoshiki | Murakawa Daisuke | Win | W+R | 6.5 | 3135 | -3 | 
+| 2021-06-09 | 第47期碁聖戦予選 | Abe Yoshiki | Murakawa Daisuke | Win | W+R | 6.5 | 3138 | -3 | 
+| 2021-06-02 | 第47期名人戦予選 | Murakawa Daisuke | Shintani Yousuke | Win | B+R | 6.5 | 3141 | 16 | 
+| 2021-05-13 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Takei Takashi | Murakawa Daisuke | Win | W+5.5 | 6.5 | 3125 | -14 | 
+| 2021-05-06 | 第46期棋聖戦Sリーグ | Murakawa Daisuke | Kono Rin | Win | B+R | 6.5 | 3139 | 9 | 
+| 2021-04-22 | 第46期棋聖戦Sリーグ | Takao Shinji | Murakawa Daisuke | Win | W+R | 6.5 | 3130 | 31 | 
+| 2021-04-15 | 第77期本因坊戦予選 | Murakawa Daisuke | Seto Taiki | Lose | W+R | 6.5 | 3099 | -292 | 
+| 2021-02-10 | 第77期本因坊戦予選 |  | Murakawa Daisuke | Win | W+R | 6.5 | 3391 | 14 | 
+| 2021-02-03 | 第65期関西棋院第一位決定戦本戦2回戦 | Hoshikawa Koyo | Murakawa Daisuke | Lose | B+0.5 | 6.5 | 3377 | -7 | 
+| 2021-01-27 | 第77期本因坊戦予選 | Yata Naoki | Murakawa Daisuke | Win | W+R | 6.5 | 3384 | -23 | 
+| 2021-01-14 | 第59期十段戦準決勝 | Murakawa Daisuke | Yu Zhengqi | Lose | W+4.5 | 6.5 | 3407 | -4 | 
+| 2020-12-22 | 第11回おかげ杯囲碁トーナメント戦三位決定戦 | Muramatsu Hiroki | Murakawa Daisuke | Lose | B+R | 6.5 | 3411 | 0 | 
+| 2020-12-22 | 第11回おかげ杯囲碁トーナメント戦準決勝  | Murakawa Daisuke | Ichiriki Ryo | Lose | W+R | 6.5 | 3411 | -22 | 
+| 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦2回戦 | Onishi Ryuhei | Murakawa Daisuke | Win | W+5.5 | 6.5 | 3433 | 0 | 
+| 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦1回戦 | Murakawa Daisuke | Seki Kotaro | Win | B+R | 6.5 | 3433 | 12 | 
+| 2020-12-10 | 第65期関西棋院第一位決定戦本戦1回戦 | Murakawa Daisuke | Takatsu Masaaki | Win | B+R | 6.5 | 3421 | -14 | 
+| 2020-12-03 | 第59期十段戦3回戦 | Murakawa Daisuke | Yamashita Keigo | Win | B+1.5 | 6.5 | 3435 | 18 | 
+| 2020-11-20 | 第22回農心辛ラーメン杯世界囲碁最強戦第5戦  | Murakawa Daisuke | Gu Zihao | Lose | W+R | 6.5 | 3417 | 7 | 
+| 2020-11-12 | 第1回関西囲碁オープントーナメントトップクラス決勝  | Murakawa Daisuke | Iyama Yuta | Lose | W+R | 6.5 | 3410 | 17 | 
+| 2020-11-05 | 第64期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Murakawa Daisuke | Yu Zhengqi | Lose | W+R | 6.5 | 3393 | -24 | 
+| 2020-10-29 | 第46期名人戦予選 | Murakawa Daisuke | Motoki Katsuya | Lose | W+1.5 | 6.5 | 3417 | -17 | 
+| 2020-10-26 | 第59期十段戦2回戦 | Fujita Akihiko | Murakawa Daisuke | Win | W+R | 6.5 | 3434 | 32 | 
+| 2020-10-08 | 第46期名人戦予選 | Hirata Tomoya | Murakawa Daisuke | Win | W+R | 6.5 | 3402 | 8 | 
+| 2020-10-01 | 第64期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yu Zhengqi | Murakawa Daisuke | Lose | B+R | 6.5 | 3394 | 35 | 
+| 2020-09-24 | 第46期名人戦予選 | Onishi Ryuhei | Murakawa Daisuke | Win | W+R | 6.5 | 3359 | 21 | 
+| 2020-09-21 | 第45期棋聖戦Sリーグ | Takao Shinji | Murakawa Daisuke | Win | W+4.5 | 6.5 | 3338 | 3 | 
+| 2020-09-17 | 第64期関西棋院第一位決定戦挑戦者決定戦 | Seto Taiki | Murakawa Daisuke | Win | W+R | 6.5 | 3335 | 57 | 
+| 2020-09-14 | 第45期棋聖戦Sリーグ | Ichiriki Ryo | Murakawa Daisuke | Win | W+1.5 | 6.5 | 3278 | 15 | 
+| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Murakawa Daisuke | Jiang Weijie | Lose | W+1 | 7.5 | 3263 | 53 | 
+| 2020-08-31 | 第27期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Murakawa Daisuke | Lose | B+R | 6.5 | 3210 | -28 | 
+| 2020-08-27 | 第76期本因坊戦予選 | Onishi Kenya | Murakawa Daisuke | Lose | B+R | 6.5 | 3238 | -42 | 
+| 2020-08-20 | 第45期棋聖戦Sリーグ | Murakawa Daisuke | Cho U | Lose | W+R | 6.5 | 3280 | 22 | 
+| 2020-08-17 | 第27期阿含・桐山杯全日本早碁オープン戦2回戦 | Motoki Katsuya | Murakawa Daisuke | Win | W+R | 6.5 | 3258 | 86 | 
+| 2020-08-10 | 第76期本因坊戦予選 | Murakawa Daisuke | Cho U | Win | B+R | 6.5 | 3172 | 44 | 
+| 2020-08-06 | 第45期名人戦リーグ  | Murakawa Daisuke | Ichiriki Ryo | Lose | W+R | 6.5 | 3128 | 4 | 
+| 2020-08-03 | 第64期関西棋院第一位決定戦本戦準決勝 | Nakano Yasuhiro | Murakawa Daisuke | Win | W+5.5 | 6.5 | 3124 | 5 | 
+| 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Fan Tingyu | Murakawa Daisuke | Lose | B+R | 7.5 | 3119 | -8 | 
+| 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Murakawa Daisuke | Ryan Li | Win | B+R | 7.5 | 3127 | -4 | 
+| 2020-07-23 | 第45期名人戦リーグ | Rin Kanketsu | Murakawa Daisuke | Lose | B+1.5 | 6.5 | 3131 | -1 | 
+| 2020-07-20 | 第45期棋聖戦Sリーグ | Murakawa Daisuke | Kono Rin | Win | B+R | 6.5 | 3132 | -17 | 
+| 2020-07-16 | 第64期関西棋院第一位決定戦本戦3回戦 | Hong Seokui | Murakawa Daisuke | Win | W+3.5 | 6.5 | 3149 | 10 | 
+| 2020-07-09 | 第27期阿含・桐山杯全日本早碁オープン戦1回戦 |  | Murakawa Daisuke | Win | W+2.5 | 6.5 | 3139 | 25 | 
+| 2020-06-30 | 第45期名人戦リーグ | Murakawa Daisuke | Yamashita Keigo | Lose | W+R | 6.5 | 3114 | -4 | 
+| 2020-06-26 | 第58期十段戦挑戦手合五番勝負第4局  | Shibano Toramaru | Murakawa Daisuke | Lose | B+R | 6.5 | 3118 | 20 | 
+| 2020-06-22 | 第45期棋聖戦Sリーグ | Murakawa Daisuke | Hsu Chiayuan | Lose | W+R | 6.5 | 3098 | -4 | 
+| 2020-06-17 | 第58期十段戦挑戦手合五番勝負第3局  | Murakawa Daisuke | Shibano Toramaru | Lose | W+R | 6.5 | 3102 | 8 | 
+| 2020-06-11 | 第46期天元戦2回戦 | Murakawa Daisuke | Yamashita Keigo | Lose | W+R | 6.5 | 3094 | -7 | 
+| 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Murakawa Daisuke | Byun Sangil | Lose | W+R | 6.5 | 3101 | 38 | 
+| 2020-04-17 | 日台交流戦第2戦 | Murakawa Daisuke | Lin Lixiang | Win | B+R | 6.5 | 3063 | 0 | 
+| 2020-04-17 | 日台交流戦第1戦 | Lai Junfu | Murakawa Daisuke | Win | W+0.5 | 6.5 | 3063 | 71 | 
+| 2020-04-02 | 第45期名人戦リーグ | Murakawa Daisuke | Cho U | Win | B+R | 6.5 | 2992 | -6 | 
+| 2020-03-26 | 第58期十段戦挑戦手合五番勝負第2局  | Shibano Toramaru | Murakawa Daisuke | Win | W+2.5 | 6.5 | 2998 | 28 | 
+| 2020-03-03 | 第58期十段戦挑戦手合五番勝負第1局  | Murakawa Daisuke | Shibano Toramaru | Lose | W+3.5 | 6.5 | 2970 | 5 | 
+| 2020-02-26 | 第64期関西棋院第一位決定戦本戦2回戦 | Sada Atsushi | Murakawa Daisuke | Win | W+R | 6.5 | 2965 | 58 | 
+| 2020-02-20 | 第45期名人戦リーグ | Murakawa Daisuke | Iyama Yuta | Lose | W+R | 6.5 | 2907 | -150 | 
+| 2020-02-13 | 第45期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Win | W+0.5 | 6.5 | 3057 | -101 | 
+| 2020-01-30 | 第45期名人戦リーグ | Kono Rin | Murakawa Daisuke | Lose | B+R | 6.5 | 3158 | -10 | 
+| 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第6戦 | Murakawa Daisuke | Chen Qirui | Lose | W+R | 6.5 | 3168 | 0 | 
+| 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第5戦 | Jian Jingting | Murakawa Daisuke | Win | W+1.5 | 6.5 | 3168 | -12 | 
+| 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第4戦 | Murakawa Daisuke | Lin Junyan | Lose | W+R | 6.5 | 3180 | 0 | 
+| 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第3戦 | Xu Haohong | Murakawa Daisuke | Win | W+R | 6.5 | 3180 | 8 | 
+| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第2戦 | Lai Junfu | Murakawa Daisuke | Win | W+R | 6.5 | 3172 | 0 | 
+| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第1戦 | Murakawa Daisuke | Wang Yuanjun | Lose | W+R | 6.5 | 3172 | 7 | 
+| 2020-01-09 | 第46期天元戦1回戦 | Murakawa Daisuke | Yamada Kimio | Win | B+R | 6.5 | 3165 | 262 | 
+| 2019-12-12 | 第45期名人戦リーグ | Hsu Chiayuan | Murakawa Daisuke | Lose | B+R | 6.5 | 2903 | -49 | 
+| 2019-10-30 | 第46期天元戦予選A決勝 |  | Murakawa Daisuke | Win | W+R | 6.5 | 2952 | 35 | 
+| 2019-10-15 | 第21回農心辛ラーメン杯世界囲碁最強戦第1戦 | Murakawa Daisuke | Weon Seongjin | Lose | W+R | 6.5 | 2917 | 9 | 
+| 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Tao Xinran | Murakawa Daisuke | Lose | B+2¾ | 7.5 | 2908 | 44 | 
+| 2019-09-18 | 第68期王座戦予選A準決勝 | Taniguchi Tooru | Murakawa Daisuke | Lose | B+R | 6.5 | 2864 | -8 | 
+| 2019-09-11 | 第46期天元戦予選A準決勝 |  | Murakawa Daisuke | Win | W+R | 6.5 | 2872 | -21 | 
+| 2019-09-05 | 第44期棋聖戦Sリーグ | Murakawa Daisuke | Yamashita Keigo | Lose | W+R | 6.5 | 2893 | -31 | 
+| 2019-08-28 | 第46期天元戦予選A | Murakawa Daisuke | Sato Yohei | Win | B+R | 6.5 | 2924 | -6 | 
+| 2019-08-22 | 第44期棋聖戦Sリーグ | Kono Rin | Murakawa Daisuke | Win | W+R | 6.5 | 2930 | -59 | 
+| 2019-08-03 | 第6回国手山脈国際囲碁大会世界プロ最強戦16強戦 | Murakawa Daisuke | Kim Jiseok | Lose | W+R | 6.5 | 2989 | -13 | 
+| 2019-08-01 | 第44期名人戦リーグ | Sun Zhe | Murakawa Daisuke | Win | W+R | 6.5 | 3002 | 17 | 
+| 2019-07-25 | 第44期棋聖戦Sリーグ | Murakawa Daisuke | Takao Shinji | Lose | W+R | 6.5 | 2985 | 25 | 
+| 2019-07-17 | 第68期王座戦予選A | Kan Minu | Murakawa Daisuke | Win | W+R | 6.5 | 2960 | -2 | 
+| 2019-07-14 | 第4回ジャパン碁コングレスin金沢トップ棋士トーナメント決勝戦 | Seto Taiki | Murakawa Daisuke | Lose | B+R | 6.5 | 2962 | 0 | 
+| 2019-07-14 | 第4回ジャパン碁コングレスin金沢トップ棋士トーナメント1回戦 | Murakawa Daisuke | Rui Naiwei | Win | B+2.5 | 6.5 | 2962 | -29 | 
+| 2019-07-10 | 第45期碁聖戦予選A準決勝 | Kunisawa Hiroto | Murakawa Daisuke | Lose | B+R | 6.5 | 2991 | -14 | 
+| 2019-06-27 | 第75期本因坊戦予選 | Murakawa Daisuke | Shida Tatsuya | Lose | W+R | 6.5 | 3005 | 0 | 
+| 2019-06-13 | 第44期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | Lose | B+R | 6.5 | 3005 | 58 | 
+| 2019-05-30 | 第44期棋聖戦Sリーグ | Murakawa Daisuke | So Yokoku | Win | B+R | 6.5 | 2947 | 12 | 
+| 2019-05-27 | 第26期阿含・桐山杯全日本早碁オープン戦予選 | Murakawa Daisuke | Suzuki Shinji | Lose | W+1.5 | 6.5 | 2935 | -46 | 
+| 2019-05-16 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦5回戦 | Wang Yuanjun | Murakawa Daisuke | Win | W+1¼ | 7.5 | 2981 | 19 | 
+| 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦4回戦 | Park Junghwan | Murakawa Daisuke | Lose | B+R | 7.5 | 2962 | 0 | 
+| 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦3回戦 | Ke Jie | Murakawa Daisuke | Lose | B+R | 7.5 | 2962 | 8 | 
+| 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦1回戦 | Ryan Li | Murakawa Daisuke | Win | W+R | 7.5 | 2954 | -31 | 
+| 2019-05-09 | 第44期棋聖戦Sリーグ | Hsu Chiayuan | Murakawa Daisuke | Win | W+R | 6.5 | 2985 | 22 | 
+| 2019-05-02 | 第44期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Win | W+R | 6.5 | 2963 | -33 | 
+| 2019-04-19 | 第57期十段戦挑戦手合五番勝負第4局  | Iyama Yuta | Murakawa Daisuke | Win | W+R | 6.5 | 2996 | 10 | 
+| 2019-04-11 | 第57期十段戦挑戦手合五番勝負第3局  | Murakawa Daisuke | Iyama Yuta | Win | B+R | 6.5 | 2986 | 35 | 
+| 2019-04-08 | 第67期王座戦予選 | Sun Zhe | Murakawa Daisuke | Lose | B+R | 6.5 | 2951 | -20 | 
+| 2019-04-04 | 第44期名人戦リーグ | Iyama Yuta | Murakawa Daisuke | Lose | B+R | 6.5 | 2971 | 4 | 
+| 2019-03-29 | 第57期十段戦挑戦手合五番勝負第2局  | Iyama Yuta | Murakawa Daisuke | Win | W+R | 6.5 | 2967 | 59 | 
+| 2019-03-14 | 第44期名人戦リーグ | Murakawa Daisuke | Kono Rin | Lose | W+2.5 | 6.5 | 2908 | 17 | 
+| 2019-03-05 | 第57期十段戦挑戦手合五番勝負第1局  | Murakawa Daisuke | Iyama Yuta | Lose | W+R | 6.5 | 2891 | 13 | 
+| 2019-02-28 | 第44期碁聖戦本戦3回戦 | Murakawa Daisuke | Yu Zhengqi | Lose | W+3.5 | 6.5 | 2878 | -58 | 
+| 2019-02-21 | 第44期名人戦リーグ | Murakawa Daisuke | Mutsuura Yuta | Lose | W+R | 6.5 | 2936 | -26 | 
+| 2019-02-07 | 第44期碁聖戦本戦2回戦 | Murakawa Daisuke | Mutsuura Yuta | Win | B+R | 6.5 | 2962 | -11 | 
+| 2019-01-31 | 第57期十段戦挑戦者決定戦 | Murakawa Daisuke | Takao Shinji | Win | B+R | 6.5 | 2973 | 3 | 
+| 2019-01-10 | 第44期名人戦リーグ | Murakawa Daisuke | Shibano Toramaru | Lose | W+2.5 | 6.5 | 2970 | -8 | 
+| 2019-01-07 | 第57期十段戦準決勝 | Onishi Ryuhei | Murakawa Daisuke | Win | W+R | 6.5 | 2978 | -22 | 
+| 2018-12-13 | 第44期名人戦リーグ | Murakawa Daisuke | Suzuki Shinji | Win | B+R | 6.5 | 3000 | -20 | 
+| 2018-12-06 | 第44期碁聖戦本戦1回戦 | Murakawa Daisuke | Kono Rin | Win | B+R | 6.5 | 3020 | 7 | 
+| 2018-11-22 | 第57期十段戦3回戦 | Murakawa Daisuke | Motoki Katsuya | Win | B+R | 6.5 | 3013 | 13 | 
+| 2018-11-01 | 第57期十段戦2回戦 | Murakawa Daisuke | Kono Rin | Win | B+R | 6.5 | 3000 | -12 | 
+| 2018-10-08 | 第43期棋聖戦挑戦者決定トーナメント | Murakawa Daisuke | Onishi Ryuhei | Lose | W+R | 6.5 | 3012 | -36 | 
+| 2018-09-21 | 第1回天府杯世界囲碁選手権A組1回戦 | Murakawa Daisuke | Gu Zihao | Lose | W+R | 7.5 | 3048 | -9 | 
+| 2018-09-06 | 第43期棋聖戦Aリーグ | Murakawa Daisuke | Cho Chikun | Win | B+R | 6.5 | 3057 | 16 | 
+| 2018-08-13 | 第66期王座戦準決勝 | Ichiriki Ryo | Murakawa Daisuke | Lose | B+R | 6.5 | 3041 | 27 | 
+| 2018-08-09 | 第25期阿含・桐山杯全日本早碁オープン戦2回戦 | Yu Zhengqi | Murakawa Daisuke | Lose | B+R | 6.5 | 3014 | -6 | 
+| 2018-08-02 | 第43期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Win | W+R | 7.5 | 3020 | 16 | 
+| 2018-07-23 | 第66期王座戦2回戦 | Hikosaka Naoto | Murakawa Daisuke | Win | W+R | 6.5 | 3004 | 11 | 
+| 2018-07-19 | 第74期本因坊戦最終予選 | Murakawa Daisuke | Anzai Nobuaki | Lose | W+R | 6.5 | 2993 | -11 | 
+| 2018-07-17 | 第25期阿含・桐山杯全日本早碁オープン戦1回戦 | Murakawa Daisuke | Oomote Takuto | Win | B+R | 6.5 | 3004 | 29 | 
+| 2018-07-12 | 第43期棋聖戦Aリーグ | Shida Tatsuya | Murakawa Daisuke | Win | W+R | 6.5 | 2975 | -2 | 
+| 2018-06-21 | 第62期関西棋院第一位決定戦本戦準々決勝 | Yuki Satoshi | Murakawa Daisuke | Lose | B+R | 6.5 | 2977 | -10 | 
+| 2018-06-07 | 第43期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | Lose | B+R | 6.5 | 2987 | -34 | 
+| 2018-05-28 | 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Adachi Toshimasa | Murakawa Daisuke | Win | W+R | 6.5 | 3021 | -7 | 
+| 2018-05-24 | 第43期棋聖戦Aリーグ | Murakawa Daisuke | Kobayashi Satoru | Win | B+R | 6.5 | 3028 | 3 | 
+| 2018-05-14 | 第9回おかげ杯囲碁トーナメント戦1回戦 | Murakawa Daisuke | Ichiriki Ryo | Lose | W+0.5 | 6.5 | 3025 | 9 | 
+| 2018-05-10 | 第43期名人戦リーグ | Murakawa Daisuke | Takao Shinji | Win | B+2.5 | 6.5 | 3016 | -5 | 
+| 2018-05-06 | 関西棋院日本棋院対抗戦 | Mutsuura Yuta | Murakawa Daisuke | Lose | B+R | 6.5 | 3021 | -20 | 
+| 2018-05-03 | 第66期王座戦1回戦 | Murakawa Daisuke | Rin Shien | Win | B+R | 6.5 | 3041 | -4 | 
+| 2018-04-30 | 第43期棋聖戦Aリーグ | Ko Iso | Murakawa Daisuke | Win | W+R | 6.5 | 3045 | 12 | 
+| 2018-04-16 | 第43期名人戦リーグ | Murakawa Daisuke | Yu Zhengqi | Lose | W+R | 6.5 | 3033 | 6 | 
+| 2018-04-12 | 第56期十段戦挑戦手合五番勝負第3局  | Murakawa Daisuke | Iyama Yuta | Lose | W+4.5 | 6.5 | 3027 | 8 | 
+| 2018-03-29 | 第66期王座戦予選 | Han Zenki | Murakawa Daisuke | Win | W+R | 6.5 | 3019 | -47 | 
+| 2018-03-22 | 第56期十段戦挑戦手合五番勝負第2局  | Iyama Yuta | Murakawa Daisuke | Lose | B+R | 6.5 | 3066 | -25 | 
+| 2018-03-12 | 第5回グランドチャンピオン戦2回戦 | Takao Shinji | Murakawa Daisuke | Lose | B+0.5 | 6.5 | 3091 | -15 | 
+| 2018-03-06 | 第56期十段戦挑戦手合五番勝負第1局  | Murakawa Daisuke | Iyama Yuta | Lose | W+R | 6.5 | 3106 | -13 | 
+| 2018-03-01 | 第43期名人戦リーグ | Murakawa Daisuke | Cho U | Lose | W+R | 6.5 | 3119 | -11 | 
+| 2018-02-22 | 第43期名人戦リーグ | Murakawa Daisuke | Ko Iso | Win | B+R | 6.5 | 3130 | 36 | 
+| 2018-02-05 | 第5回グランドチャンピオン戦1回戦 | Murakawa Daisuke | Fujisawa Rina | Win | B+R | 6.5 | 3094 | 42 | 
+| 2018-01-25 | 第56期十段戦挑戦者決定戦 | Shida Tatsuya | Murakawa Daisuke | Win | W+R | 6.5 | 3052 | -2 | 
+| 2018-01-18 | 第43期名人戦リーグ | Kono Rin | Murakawa Daisuke | Lose | B+R | 6.5 | 3054 | -14 | 
+| 2017-12-21 | 第43期名人戦リーグ | Shibano Toramaru | Murakawa Daisuke | Lose | B+2.5 | 6.5 | 3068 | 1 | 
+| 2017-12-14 | 第56期十段戦準決勝 | Murakawa Daisuke | Hsu Chiayuan | Win | B+0.5 | 6.5 | 3067 | 56 | 
+| 2017-11-30 | 第56期十段戦3回戦 | Yu Zhengqi | Murakawa Daisuke | Win | W+0.5 | 6.5 | 3011 | 39 | 
+| 2017-11-09 | 第43期碁聖戦本戦1回戦 | Murakawa Daisuke | Ishida Atsushi | Lose | W+R | 6.5 | 2972 | -25 | 
+| 2017-11-01 | 第66期王座戦予選A準決勝 | Kubo Katsuaki | Murakawa Daisuke | Win | W+R | 6.5 | 2997 | 12 | 
+| 2017-10-19 | 第56期十段戦2回戦 | Yamashita Keigo | Murakawa Daisuke | Win | W+5.5 | 6.5 | 2985 | 18 | 
+| 2017-10-15 | 第4回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Wang Yuanjun | Murakawa Daisuke | Lose | B+R | 6.5 | 2967 | 0 | 
+| 2017-10-15 | 第4回おかげ杯国際精鋭囲碁対抗戦3回戦 | Fan Yunruo | Murakawa Daisuke | Lose | B+2.5 | 6.5 | 2967 | 29 | 
+| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦1回戦 | Xiao Zhenghao | Murakawa Daisuke | Win | W+R | 6.5 | 2938 | 0 | 
+| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦2回戦 | Murakawa Daisuke | Lee Yeongkyu | Win | B+R | 6.5 | 2938 | 39 | 
+| 2017-10-04 | 第44期天元戦予選A準決勝 | Murakawa Daisuke | Sato Yuta | Lose | W+R | 6.5 | 2899 | -22 | 
+| 2017-09-28 | 第56期十段戦1回戦 | Motoki Katsuya | Murakawa Daisuke | Win | W+R | 6.5 | 2921 | -16 | 
+| 2017-09-20 | 第66期王座戦予選A | Onoda Takuya | Murakawa Daisuke | Win | W+R | 6.5 | 2937 | 28 | 
+| 2017-09-14 | 第42期棋聖戦　Sリーグ5回戦 | Yamashita Keigo | Murakawa Daisuke | Lose | B+2.5 | 6.5 | 2909 | 13 | 
+| 2017-09-06 | 第44期天元戦　予選A | Murakawa Daisuke | Aragaki Shun | Win | B+R | 6.5 | 2896 | 17 | 
+| 2017-08-23 | 第13回プロアマトーナメント　準決勝 | Furuya Yutaka | Murakawa Daisuke | Lose | B+2.5 | 6.5 | 2879 | -3 | 
+| 2017-08-17 | 第43期碁聖戦　予選A決勝 | Murakawa Daisuke | Hong Maleunsaem | Win | B+R | 6.5 | 2882 | -7 | 
+| 2017-08-14 | 阪急電鉄納涼囲碁まつり阪急トーナメント予選第1局 | Murakawa Daisuke | Ichiriki Ryo | Lose | W+R | 6.5 | 2889 | 3 | 
+| 2017-08-10 | 第42期棋聖戦　Sリーグ4回戦 | Cho U | Murakawa Daisuke | Win | W+R | 6.5 | 2886 | 0 | 
+| 2017-08-03 | 第42期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Lose | B+R | 6.5 | 2886 | -29 | 
+| 2017-07-28 | 第42期名人戦リーグ | Murakawa Daisuke | Iyama Yuta | Lose | W+R | 6.5 | 2915 | -6 | 
+| 2017-07-26 | ナショナルチーム強化対局 | DeepZenGo | Murakawa Daisuke | Lose | B+R | 6.5 | 2921 | -1 | 
+| 2017-07-20 | 第43期碁聖戦予選A | Murakawa Daisuke | Hatanaka Hoshinobu | Win | B+R | 6.5 | 2922 | 22 | 
+| 2017-07-13 | 第42期棋聖戦　Sリーグ3回戦 | Murakawa Daisuke | Ichiriki Ryo | Lose | W+R | 6.5 | 2900 | 2 | 
+| 2017-07-06 | 第56期十段戦　最終予選決勝 | Yamashiro Hiroshi | Murakawa Daisuke | Win | W+R | 6.5 | 2898 | -40 | 
+| 2017-06-21 | 第43期碁聖戦　予選A | Murakawa Daisuke | Utsumi Koki | Win | B+R | 6.5 | 2938 | 3 | 
+| 2017-06-15 | 第42期棋聖戦　Sリーグ2回戦 | Murakawa Daisuke | So Yokoku | Win | B+R | 6.5 | 2935 | -20 | 
+| 2017-06-08 | 第56期十段戦　最終予選 | Murakawa Daisuke | Kato Atsushi | Win | B+R | 6.5 | 2955 | 3 | 
+| 2017-06-01 | 第42期名人戦リーグ | Kono Rin | Murakawa Daisuke | Win | W+R | 6.5 | 2952 | -13 | 
+| 2017-05-18 | 第24期阿含・桐山杯　最終予選決勝 | Murakawa Daisuke | Mutsuura Yuta | Lose | W+R | 6.5 | 2965 | -45 | 
+| 2017-05-15 | 第8回おかげ杯囲碁トーナメント戦決勝 | Lee Ishu | Murakawa Daisuke | Win | W+R | 6.5 | 3010 | 0 | 
+| 2017-05-15 | 第8回おかげ杯囲碁トーナメント戦準決勝 | Murakawa Daisuke | Terayama Rei | Win | B+R | 6.5 | 3010 | 22 | 
+| 2017-05-14 | 第8回おかげ杯囲碁トーナメント戦1回戦 | Ichiriki Ryo | Murakawa Daisuke | Win | W+0.5 | 6.5 | 2988 | 6 | 
+| 2017-05-11 | 第42期棋聖戦　Sリーグ1回戦 | Murakawa Daisuke | Kono Rin | Lose | W+R | 6.5 | 2982 | 1 | 
+| 2017-05-01 | 日本棋院vs関西棋院対抗戦 | Murakawa Daisuke | Onishi Ryuhei | Win | B+R | 6.5 | 2981 | 10 | 
+| 2017-04-30 | 関西合宿個人戦決勝 | Murakawa Daisuke | Shibano Toramaru | Lose | W+R | 6.5 | 2971 | 0 | 
+| 2017-04-30 | 関西合宿個人戦準決勝 | Mutsuura Yuta | Murakawa Daisuke | Win | W+R | 6.5 | 2971 | 0 | 
+| 2017-04-30 | 関西合宿個人戦1回戦 | Murakawa Daisuke | Numadate Sakiya | Win | B+R | 6.5 | 2971 | -10 | 
+| 2017-04-27 | 第42期名人戦リーグ | Murakawa Daisuke | Sakai Hideyuki | Win | B+R | 6.5 | 2981 | 16 | 
+| 2017-04-13 | 第73期本因坊戦予選A | Yu Zhengqi | Murakawa Daisuke | Lose | B+R | 6.5 | 2965 | 129 | 
+| 2017-03-16 | 第65期王座戦　最終予選 | Murakawa Daisuke | Nakano Hironari | Lose | W+0.5 | 6.5 | 2836 | -36 | 
+| 2017-03-09 | 第42期名人戦リーグ | Murakawa Daisuke | Ko Iso | Lose | W+R | 6.5 | 2872 | -8 | 
+| 2017-03-02 | 第73期本因坊戦予選A | Aragaki Shun | Murakawa Daisuke | Win | W+R | 6.5 | 2880 | 9 | 
+| 2017-02-16 | 第4回グランドチャンピオン戦　2回戦 | Ichiriki Ryo | Murakawa Daisuke | Lose | B+R | 6.5 | 2871 | 39 | 
+| 2017-02-08 | 第73期本因坊戦予選A | Murakawa Daisuke |  | Win | B+R | 6.5 | 2832 | -8 | 
+| 2017-02-02 | 第42期名人戦リーグ | Murakawa Daisuke | Cho U | Lose | W+R | 6.5 | 2840 | -4 | 
+| 2017-01-29 | 第64回NHK杯3回戦第8局 | Yuki Satoshi | Murakawa Daisuke | Lose | B+R | 6.5 | 2844 | 54 | 
+| 2017-01-19 | 第42期名人戦リーグ | Yu Zhengqi | Murakawa Daisuke | Win | W+R | 6.5 | 2790 | -4 | 
+| 2016-12-22 | 第61期関西棋院第一位決定戦　本戦1回戦 | Yu Zhengqi | Murakawa Daisuke | Lose | B+R | 6.5 | 2794 | -4 | 
+| 2016-12-15 | 第42期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | Win | W+3.5 | 6.5 | 2798 | -14 | 
+| 2016-12-08 | 第43期天元戦　本戦1回戦第2局 | Murakawa Daisuke | Kim Sujun | Lose | W+0.5 | 6.5 | 2812 | -19 | 
+| 2016-11-28 | 第18回農心辛ラーメン杯世界囲碁最強戦第8戦 | Fan Tingyu | Murakawa Daisuke | Lose | B+R | 6.5 | 2831 | -24 | 
+| 2016-11-10 | 第55期十段戦　本戦2回戦 | Rin Shien | Murakawa Daisuke | Lose | B+R | 6.5 | 2855 | 4 | 
+| 2016-10-27 | 第12回産経プロ・アマトーナメント戦　決勝 | Murakawa Daisuke | Sakai Hideyuki | Lose | W+R | 6.5 | 2851 | -7 | 
+| 2016-10-21 | 第60期関西棋院第一位決定戦　挑戦手合三番勝負第二局 | Yuki Satoshi | Murakawa Daisuke | Lose | B+R | 6.5 | 2858 | -38 | 
+| 2016-10-13 | 第60期関西棋院第一位決定戦挑戦手合三番勝負　第一局 | Murakawa Daisuke | Yuki Satoshi | Lose | W+R | 6.5 | 2896 | -6 | 
+| 2016-09-29 | 第41期棋聖戦　Sリーグ5回戦 | Takao Shinji | Murakawa Daisuke | Lose | B+R | 6.5 | 2902 | -41 | 
+| 2016-09-21 | 第60期関西棋院第一位決定戦挑戦者決定戦 | Murakawa Daisuke | Kiyonari Tetsuya | Win | B+7.5 | 6.5 | 2943 | -14 | 
+| 2016-09-05 | 第72期本因坊戦予選決勝 | Murakawa Daisuke | Hane Naoki | Lose | W+R | 6.5 | 2957 | -33 | 
+| 2016-08-25 | 第23期阿含・桐山杯全日本早碁オープン戦準決勝 | Murakawa Daisuke | Cho Chikun | Lose | W+R | 6.5 | 2990 | 1 | 
+| 2016-08-22 | 第42期天元戦　準決勝第1局 | Murakawa Daisuke | Ichiriki Ryo | Lose | W+R | 6.5 | 2989 | -12 | 
+| 2016-08-17 | 第60期関西棋院第一位決定戦本戦3回戦 | Sada Atsushi | Murakawa Daisuke | Win | W+R | 6.5 | 3001 | 22 | 
+| 2016-08-11 | 第41期棋聖戦Sリーグ | Murakawa Daisuke | Yoda Norimoto | Win | B+4.5 | 6.5 | 2979 | 12 | 
+| 2016-08-04 | 第41期名人戦　挑戦者決定リーグ第34局 | Murakawa Daisuke | Kono Rin | Win | B+R | 6.5 | 2967 | -29 | 
+| 2016-08-01 | 第23期阿含・桐山杯全日本早碁オープン戦2回戦 | Takao Shinji | Murakawa Daisuke | Win | W+R | 6.5 | 2996 | 4 | 
+| 2016-07-28 | 第41期碁聖戦挑戦手合五番勝負第3局 | Iyama Yuta | Murakawa Daisuke | Lose | B+R | 6.5 | 2992 | -79 | 
+| 2016-07-25 | 第72期本因坊戦予選 | Ogata Masaki | Murakawa Daisuke | Win | W+R | 6.5 | 3071 | 23 | 
+| 2016-07-21 | 第41期棋聖戦Sリーグ | Murakawa Daisuke | Kono Rin | Lose | W+R | 6.5 | 3048 | 9 | 
+| 2016-07-18 | 第41期碁聖戦挑戦手合五番勝負第2局 | Murakawa Daisuke | Iyama Yuta | Lose | W+R | 6.5 | 3039 | 38 | 
+| 2016-07-14 | 第64期王座戦2回戦 | Murakawa Daisuke | Hane Naoki | Lose | W+1.5 | 6.5 | 3001 | 56 | 
+| 2016-07-07 | 第41期名人戦リーグ | Cho U | Murakawa Daisuke | Lose | B+2.5 | 6.5 | 2945 | 10 | 
+| 2016-06-30 | 第72期本因坊戦予選 | Iwamaru Taira | Murakawa Daisuke | Win | W+R | 6.5 | 2935 | 5 | 
+| 2016-06-27 | 第23期阿含・桐山杯全日本早碁オープン戦1回戦 | Murakawa Daisuke | Koyama Kuya | Win | B+R | 6.5 | 2930 | 0 | 
+| 2016-06-25 | 第41期碁聖戦挑戦手合五番勝負第1局 | Iyama Yuta | Murakawa Daisuke | Lose | B+R | 6.5 | 2930 | 2 | 
+| 2016-06-22 | 第60期関西棋院第一位決定戦本戦2回戦 | Murakawa Daisuke | Hong Maleunsaem | Win | B+3.5 | 6.5 | 2928 | 12 | 
+| 2016-06-20 | 第42期天元戦　準々決勝第1局 | Murakawa Daisuke | Ogata Masaki | Win | B+R | 6.5 | 2916 | 2 | 
+| 2016-06-16 | 第41期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | Win | W+4.5 | 6.5 | 2914 | 18 | 
+| 2016-06-13 | 第64期王座戦　本戦1回戦第6局 | Numadate Sakiya | Murakawa Daisuke | Win | W+R | 6.5 | 2896 | 22 | 
+| 2016-06-09 | 第41期棋聖戦Sリーグ | Ichiriki Ryo | Murakawa Daisuke | Win | W+R | 6.5 | 2874 | 12 | 
+| 2016-06-06 | 第23期阿含・桐山杯全日本早碁オープン戦予選 | Murakawa Daisuke | Rin Shien | Win | B+R | 6.5 | 2862 | 31 | 
+| 2016-05-30 | 第21回LG杯朝鮮日報棋王戦1回戦 | Murakawa Daisuke | Zhou Ruiyang | Lose | W+R | 6.5 | 2831 | 10 | 
+| 2016-05-26 | 第41期棋聖戦Sリーグ | Yamashita Keigo | Murakawa Daisuke | Win | W+2.5 | 6.5 | 2821 | 101 | 
+| 2016-05-18 | 第41期碁聖戦挑戦者決定戦 | Yamashita Keigo | Murakawa Daisuke | Win | W+4.5 | 6.5 | 2720 | -29 | 
+| 2016-05-09 | 第42期天元戦本戦2回戦 | Murakawa Daisuke | Shibano Toramaru | Win | B+0.5 | 6.5 | 2749 | -7 | 
+| 2016-05-05 | 第41期名人戦リーグ | Murakawa Daisuke | Takao Shinji | Win | B+R | 6.5 | 2756 | 106 | 
+| 2016-04-21 | 第41期碁聖戦本戦準決勝 | Murakawa Daisuke | Sakai Hideyuki | Win | B+R | 6.5 | 2650 | 7 | 
+| 2016-04-14 | 第41期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Lose | B+R | 6.5 | 2643 | 11 | 
+| 2016-03-26 | 第11回春蘭杯世界囲碁選手権1回戦 | Li Xuanhao | Murakawa Daisuke | Lose | B+5.5 | 7.5 | 2632 | -8 | 
+| 2016-03-17 | 第41期碁聖戦本戦3回戦 | Motoki Katsuya | Murakawa Daisuke | Win | W+R | 6.5 | 2640 | 2 | 
+| 2016-03-10 | 第41期名人戦リーグ | Murakawa Daisuke | Ko Iso | Win | B+R | 6.5 | 2638 | 62 | 
+| 2016-03-02 | 第17回農心辛ラーメン杯世界囲碁最強戦第11戦 | Murakawa Daisuke | Lee Sedol | Lose | W+R | 6.5 | 2576 | -33 | 
+| 2016-03-01 | 第17回農心辛ラーメン杯世界囲碁最強戦第10戦 | Murakawa Daisuke | Gu Li | Win | B+R | 6.5 | 2609 | -31 | 
+| 2016-02-11 | 第41期碁聖戦本戦2回戦 | Goto Shungo | Murakawa Daisuke | Win | W+R | 6.5 | 2640 | -23 | 
+| 2016-01-30 | 2016年日台精鋭交流戦第6戦 | Murakawa Daisuke | Li Wei | Lose | W+R | 6.5 | 2663 | 0 | 
+| 2016-01-30 | 2016年日台精鋭交流戦第5戦 | Zhou Junxun | Murakawa Daisuke | Lose | B+R | 6.5 | 2663 | -38 | 
+| 2016-01-29 | 2016年日台精鋭交流戦第4戦 | Murakawa Daisuke | Lin Shuyang | Lose | W+R | 6.5 | 2701 | 0 | 
+| 2016-01-29 | 2016年日台精鋭交流戦第3戦 | Lin Junyan | Murakawa Daisuke | Lose | B+R | 6.5 | 2701 | -27 | 
+| 2016-01-28 | 2016年日台精鋭交流戦第2戦 | Murakawa Daisuke | Cai Chengwei | Lose | W+0.5 | 6.5 | 2728 | 0 | 
+| 2016-01-28 | 2016年日台精鋭交流戦第1戦 | Chen Shiyuan | Murakawa Daisuke | Lose | B+R | 6.5 | 2728 | -32 | 
+| 2016-01-21 | 第41期名人戦リーグ | Hirata Tomoya | Murakawa Daisuke | Win | W+R | 6.5 | 2760 | 5 | 
+| 2015-12-17 | 第41期名人戦リーグ | Murakawa Daisuke | Uchida Shuhei | Win | B+R | 6.5 | 2755 | -22 | 
+| 2015-12-10 | 第42期天元戦本戦1回戦 | Cho Sonjin | Murakawa Daisuke | Win | W+1.5 | 6.5 | 2777 | 8 | 
+| 2015-11-19 | 第63期王座戦挑戦手合五番勝負第3局 | Iyama Yuta | Murakawa Daisuke | Lose | B+R | 6.5 | 2769 | -18 | 
+| 2015-11-12 | 第63期王座戦挑戦手合五番勝負第2局 | Murakawa Daisuke | Iyama Yuta | Lose | W+R | 6.5 | 2787 | -6 | 
+| 2015-11-09 | 第40期棋聖戦挑戦者決定トーナメント | Murakawa Daisuke | Yamashita Keigo | Lose | W+R | 6.5 | 2793 | 1 | 
+| 2015-10-29 | 第40期棋聖戦挑戦者決定トーナメント | Murakawa Daisuke | Yamada Kimio | Win | B+2.5 | 6.5 | 2792 | 25 | 
+| 2015-10-20 | 第63期王座戦挑戦手合五番勝負第1局 | Iyama Yuta | Murakawa Daisuke | Lose | B+0.5 | 6.5 | 2767 | -65 | 
+| 2015-09-03 | 第40期棋聖戦Sリーグ | Yamashiro Hiroshi | Murakawa Daisuke | Win | W+R | 6.5 | 2832 | -41 | 
+| 2015-08-27 | 第40期棋聖戦Sリーグ | Murakawa Daisuke | Kobayashi Satoru | Win | B+R | 6.5 | 2873 | -39 | 
+| 2015-07-30 | 第40期名人戦リーグ | Murakawa Daisuke | Takao Shinji | Lose | W+R | 6.5 | 2912 | -22 | 
+| 2015-07-23 | 第40期棋聖戦Sリーグ | Murakawa Daisuke | Yamashita Keigo | Lose | W+R | 6.5 | 2934 | -38 | 
+| 2015-07-09 | 第22期阿含・桐山杯全日本早碁オープン戦1回戦 | Murakawa Daisuke | Hsu Chiayuan | Lose | W+4.5 | 6.5 | 2972 | -43 | 
+| 2015-07-02 | 第54期十段戦予選 | Murakawa Daisuke | Imamura Toshiya | Lose | W+R | 6.5 | 3015 | -40 | 
+| 2015-06-25 | 第40期名人戦リーグ | Kono Rin | Murakawa Daisuke | Lose | B+R | 6.5 | 3055 | -106 | 
+| 2015-06-11 | 第40期棋聖戦Sリーグ | Murakawa Daisuke | Yoda Norimoto | Lose | W+R | 6.5 | 3161 | 6 | 
+| 2015-05-20 | 2015年中国囲碁乙級リーグ | Murakawa Daisuke | Xiao Zhenghao | Lose | W+R | 7.5 | 3155 | -31 | 
+| 2015-05-17 | 2015年中国囲碁乙級リーグ | Murakawa Daisuke | Cho Hanseung | Lose | W+R | 7.5 | 3186 | -16 | 
+| 2015-05-14 | 2015年中国囲碁乙級リーグ | Murakawa Daisuke | Zhu Yuanhao | Lose | W+R | 7.5 | 3202 | -14 | 
+| 2015-05-13 | 2015年中国囲碁乙級リーグ |  | Murakawa Daisuke | Win | W+R | 7.5 | 3216 | -3 | 
+| 2015-05-12 | 2015年中国囲碁乙級リーグ | Murakawa Daisuke | Shin Jinseo | Lose | W+R | 7.5 | 3219 | -46 | 
+| 2015-05-07 | 第40期棋聖戦Sリーグ | Takao Shinji | Murakawa Daisuke | Win | W+4.5 | 6.5 | 3265 | 7 | 
+| 2015-05-04 | 第40期名人戦リーグ | Cho U | Murakawa Daisuke | Lose | B+2.5 | 6.5 | 3258 | -1 | 
+| 2015-04-30 | 第40期碁聖戦本戦準決勝 | Murakawa Daisuke | Yamashita Keigo | Lose | W+R | 6.5 | 3259 | 62 | 
+| 2015-04-16 | 第40期碁聖戦本戦3回戦 | Murakawa Daisuke | Cho U | Win | B+R | 6.5 | 3197 | -12 | 
+| 2015-04-06 | 第40期名人戦リーグ | Ko Iso | Murakawa Daisuke | Lose | B+3.5 | 6.5 | 3209 | -12 | 
+| 2015-04-02 | 第41期天元戦本戦1回戦 | Murakawa Daisuke | Iyama Yuta | Lose | W+R | 6.5 | 3221 | -177 | 
+| 2015-03-12 | 第40期名人戦リーグ | Murakawa Daisuke | So Yokoku | Win | B+R | 6.5 | 3398 | -83 | 
+| 2015-03-04 | 第59期関西棋院第一位決定戦本戦2回戦 | Nakano Yasuhiro | Murakawa Daisuke | Lose | B+R | 6.5 | 3481 | -10 | 
+| 2015-02-26 | 第40期碁聖戦本戦2回戦 | Murakawa Daisuke | Hane Naoki | Win | B+R | 6.5 | 3491 | 73 | 
+| 2015-02-09 | 第40期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Win | W+R | 6.5 | 3418 | 3 | 
+| 2015-01-19 | 第40期碁聖戦本戦1回戦 | Murakawa Daisuke | Nakano Hironari | Win | B+8.5 | 6.5 | 3415 | 3 | 
+| 2015-01-13 | 第59期関西棋院第一位決定戦本戦1回戦 | Onoda Takuya | Murakawa Daisuke | Win | W+R | 6.5 | 3412 | 32 | 
+| 2015-01-08 | 第40期名人戦リーグ | Murakawa Daisuke | Yamashita Keigo | Lose | W+R | 6.5 | 3380 | -14 | 
+| 2014-12-16 | 第62期王座戦挑戦手合五番勝負第5局 | Iyama Yuta | Murakawa Daisuke | Win | W+1.5 | 6.5 | 3394 | 66 | 
+| 2014-12-11 | 第40期名人戦リーグ | Murakawa Daisuke | Kanazawa Makoto | Win | B+13.5 | 6.5 | 3328 | 14 | 
+| 2014-12-08 | 第62期王座戦挑戦手合五番勝負第4局 | Murakawa Daisuke | Iyama Yuta | Win | B+R | 6.5 | 3314 | 28 | 
+| 2014-11-29 | 第16回農心辛ラーメン杯世界囲碁最強戦第6戦 | Murakawa Daisuke | Wang Xi | Lose | W+R | 6.5 | 3286 | -27 | 
+| 2014-11-26 | 第40期碁聖戦予選 | Murakawa Daisuke | Imamura Toshiya | Win | B+R | 6.5 | 3313 | 5 | 
+| 2014-11-20 | 第62期王座戦挑戦手合五番勝負第3局 | Iyama Yuta | Murakawa Daisuke | Lose | B+2.5 | 6.5 | 3308 | -7 | 
+| 2014-11-18 | 第62期王座戦挑戦手合五番勝負第2局 | Murakawa Daisuke | Iyama Yuta | Win | B+1.5 | 6.5 | 3315 | 20 | 
+| 2014-11-13 | 第39期棋聖戦挑戦者決定戦 | Yamashita Keigo | Murakawa Daisuke | Lose | B+R | 6.5 | 3295 | 108 | 
+| 2014-10-28 | 第53期十段戦2回戦 | Hane Naoki | Murakawa Daisuke | Lose | B+R | 6.5 | 3187 | -7 | 
+| 2014-10-21 | 第62期王座戦挑戦手合五番勝負第1局 | Iyama Yuta | Murakawa Daisuke | Lose | B+0.5 | 6.5 | 3194 | -9 | 
+| 2014-10-14 | 第19回三星火災杯世界囲碁マスターズ2回戦 | Tang Weixing | Murakawa Daisuke | Lose | B+R | 6.5 | 3203 | -50 | 
+| 2014-10-02 | 第39期棋聖戦Bリーグ | Murakawa Daisuke | Cho Chikun | Win | B+3.5 | 6.5 | 3253 | 12 | 
+| 2014-09-25 | 第53期十段戦予選 | Cho Chikun | Murakawa Daisuke | Win | W+R | 6.5 | 3241 | 47 | 
+| 2014-09-11 | 第62期王座戦挑戦者決定戦 | Murakawa Daisuke | Rin Kanketsu | Win | B+R | 6.5 | 3194 | 0 | 
+| 2014-09-04 | 第70期本因坊戦予選 | Takao Shinji | Murakawa Daisuke | Lose | B+R | 6.5 | 3194 | 33 | 
+| 2014-08-28 | 第19回三星火災杯世界囲碁マスターズ1回戦F3 | Kim Yoonyoung | Murakawa Daisuke | Win | W+1.5 | 6.5 | 3161 | 5 | 
+| 2014-08-27 | 第19回三星火災杯世界囲碁マスターズ1回戦F2 | Liao Xingwen | Murakawa Daisuke | Lose | B+0.5 | 6.5 | 3156 | -24 | 
+| 2014-08-26 | 第19回三星火災杯世界囲碁マスターズ1回戦F1 | Murakawa Daisuke | Fan Yunruo | Win | B+R | 6.5 | 3180 | 16 | 
+| 2014-08-18 | 第62期王座戦準決勝 | Murakawa Daisuke | O Rissei | Win | B+R | 6.5 | 3164 | 11 | 
+| 2014-08-11 | 第21期阿含・桐山杯全日本早碁オープン戦2回戦 | Yamashita Keigo | Murakawa Daisuke | Lose | B+5.5 | 6.5 | 3153 | 10 | 
+| 2014-08-04 | 第58期関西棋院第一位決定戦本戦3回戦 | Murakawa Daisuke | Yu Zhengqi | Lose | W+R | 6.5 | 3143 | -40 | 
+| 2014-07-31 | 第39期名人戦リーグ | Murakawa Daisuke | Yamashita Keigo | Win | B+6.5 | 6.5 | 3183 | -3 | 
+| 2014-07-24 | 第39期棋聖戦Bリーグ | Murakawa Daisuke | Yuki Satoshi | Win | B+R | 6.5 | 3186 | 6 | 
+| 2014-07-17 | 第62期王座戦2回戦 | Murakawa Daisuke | Kono Rin | Win | B+R | 6.5 | 3180 | 42 | 
+| 2014-07-10 | 第39期名人戦リーグ | Yuki Satoshi | Murakawa Daisuke | Win | W+R | 6.5 | 3138 | 23 | 
+| 2014-07-03 | 第70期本因坊戦予選 | Murakawa Daisuke | Tanaka Nobuyuki | Win | B+4.5 | 6.5 | 3115 | -12 | 
+| 2014-06-19 | 第39期名人戦リーグ | Murakawa Daisuke | Takao Shinji | Lose | W+R | 6.5 | 3127 | -26 | 
+| 2014-06-12 | 第39期棋聖戦Bリーグ | Cho Riyu | Murakawa Daisuke | Win | W+R | 6.5 | 3153 | 76 | 
+| 2014-05-22 | 第62期王座戦1回戦 | Cho U | Murakawa Daisuke | Win | W+0.5 | 6.5 | 3077 | 7 | 
+| 2014-05-15 | 第39期棋聖戦Bリーグ | Yoda Norimoto | Murakawa Daisuke | Win | W+0.5 | 6.5 | 3070 | 47 | 
+| 2014-05-08 | 第39期名人戦リーグ | Kono Rin | Murakawa Daisuke | Lose | B+R | 6.5 | 3023 | -169 | 
+| 2014-04-23 | 第70期本因坊戦予選 | Furuya Yutaka | Murakawa Daisuke | Win | W+R | 6.5 | 3192 | 12 | 
+| 2014-04-10 | 第62期王座戦予選 | Murakawa Daisuke | Obuchi Kotaro | Win | B+0.5 | 6.5 | 3180 | 18 | 
+| 2014-04-03 | 第39期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Win | W+R | 6.5 | 3162 | 15 | 
+| 2014-03-28 | 第10回春蘭杯世界囲碁選手権2回戦 | Shi Yue | Murakawa Daisuke | Lose | B+R | 7.5 | 3147 | 17 | 
+| 2014-03-26 | 第10回春蘭杯世界囲碁選手権1回戦 | Murakawa Daisuke | Lian Xiao | Win | B+R | 7.5 | 3130 | 1 | 
+| 2014-03-06 | 第39期名人戦リーグ | Ko Iso | Murakawa Daisuke | Lose | B+R | 6.5 | 3129 | 16 | 
+| 2014-02-13 | 第40期天元戦本戦1回戦 | Cho Chikun | Murakawa Daisuke | Lose | B+R | 6.5 | 3113 | -147 | 
+| 2014-01-09 | 第39期名人戦リーグ | Murakawa Daisuke | Cho U | Lose | W+R | 6.5 | 3260 | 53 | 
+| 2013-12-12 | 第39期名人戦リーグ | Murakawa Daisuke | Ryu Shikun | Lose | W+R | 6.5 | 3207 | 12 | 
+| 2013-12-03 | 第15回阿含・桐山杯日中決戦 | Murakawa Daisuke | Lian Xiao | Lose | W+R | 7.5 | 3195 | 6 | 
+| 2013-11-20 | 第40期天元戦予選 | Sada Atsushi | Murakawa Daisuke | Win | W+3.5 | 6.5 | 3189 | -4 | 
+| 2013-11-14 | 第38期棋聖戦挑戦者決定戦 | Murakawa Daisuke | Yamashita Keigo | Lose | W+R | 6.5 | 3193 | -32 | 
+| 2013-10-05 | 第20期阿含・桐山杯全日本早碁オープン戦決勝 | Murakawa Daisuke | Shida Tatsuya | Win | B+3.5 | 6.5 | 3225 | 18 | 
+| 2013-10-03 | 第38期棋聖戦Bリーグ | Murakawa Daisuke | Cho Chikun | Lose | W+R | 6.5 | 3207 | -96 | 
+| 2013-09-05 | 第38期棋聖戦Bリーグ | Murakawa Daisuke | Kono Rin | Win | B+R | 6.5 | 3303 | 20 | 
+| 2013-08-29 | 第57期関西棋院第一位決定戦挑戦者決定戦 | Furuya Yutaka | Murakawa Daisuke | Lose | B+R | 6.5 | 3283 | -45 | 
+| 2013-08-22 | 第52期十段戦予選 | Rin Kanketsu | Murakawa Daisuke | Lose | B+3.5 | 6.5 | 3328 | -59 | 
+| 2013-08-19 | 第20期阿含・桐山杯全日本早碁オープン戦準決勝 | Cho U | Murakawa Daisuke | Win | W+R | 6.5 | 3387 | 10 | 
+| 2013-08-08 | 第61期王座戦2回戦 | Hane Naoki | Murakawa Daisuke | Lose | B+R | 6.5 | 3377 | 30 | 
+| 2013-08-01 | 第38期名人戦リーグ | Murakawa Daisuke | Mizokami Tomochika | Win | B+R | 6.5 | 3347 | 10 | 
+| 2013-07-29 | 第20期阿含・桐山杯全日本早碁オープン戦2回戦 | Murakawa Daisuke | Seto Taiki | Win | B+R | 6.5 | 3337 | 37 | 
+| 2013-07-25 | 第38期棋聖戦Bリーグ | Murakawa Daisuke | Takao Shinji | Win | B+1.5 | 6.5 | 3300 | 137 | 
+| 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 | Hu Yaoyu | Murakawa Daisuke | Lose | B+R | 7.5 | 3163 | -3 | 
+| 2013-07-04 | 第20期阿含・桐山杯全日本早碁オープン戦1回戦 | Murakawa Daisuke | Ryu Shikun | Win | B+3.5 | 6.5 | 3166 | 10 | 
+| 2013-07-01 | 第38期名人戦リーグ | Kono Rin | Murakawa Daisuke | Lose | B+1.5 | 6.5 | 3156 | 3 | 
+| 2013-06-27 | 第38期棋聖戦Bリーグ | Hane Naoki | Murakawa Daisuke | Win | W+R | 6.5 | 3153 | 65 | 
+| 2013-06-20 | 第38期名人戦リーグ | Hane Naoki | Murakawa Daisuke | Win | W+R | 6.5 | 3088 | 62 | 
+| 2013-06-17 | 第57期関西棋院第一位決定戦本戦2回戦 | Yuki Satoshi | Murakawa Daisuke | Win | W+R | 6.5 | 3026 | 43 | 
+| 2013-06-13 | 第61期王座戦1回戦 | Murakawa Daisuke | Mimura Tomoyasu | Win | B+2.5 | 6.5 | 2983 | 74 | 
+| 2013-05-22 | 第69期本因坊戦予選 | Kiyonari Tetsuya | Murakawa Daisuke | Win | W+R | 6.5 | 2909 | 52 | 
+| 2013-05-16 | 第38期棋聖戦Bリーグ | Mizokami Tomochika | Murakawa Daisuke | Win | W+R | 6.5 | 2857 | 38 | 
+| 2013-05-09 | 第38期名人戦リーグ | Murakawa Daisuke | Takao Shinji | Lose | W+R | 6.5 | 2819 | -75 | 
+| 2013-04-11 | 第38期名人戦リーグ | Murakawa Daisuke | Iyama Yuta | Lose | W+R | 6.5 | 2894 | -23 | 
+| 2013-03-28 | 第38期棋聖戦予選 | Murakawa Daisuke | Sakai Hideyuki | Win | B+R | 6.5 | 2917 | 0 | 
+| 2013-03-14 | 第38期名人戦リーグ | Murakawa Daisuke | Sakai Hideyuki | Win | B+5.5 | 6.5 | 2917 | 17 | 
+| 2013-03-07 | 第61期王座戦予選 | Murakawa Daisuke | Lee Ishu | Win | B+R | 6.5 | 2900 | -51 | 
+| 2013-01-24 | 第38期棋聖戦予選 | O Meien | Murakawa Daisuke | Win | W+R | 6.5 | 2951 | 50 | 
+| 2013-01-10 | 第38期名人戦リーグ | Yuki Satoshi | Murakawa Daisuke | Win | W+R | 6.5 | 2901 | 54 | 
+| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Jiang Weijie | Murakawa Daisuke | Lose | B+R | 7.5 | 2847 | 0 | 
+| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Choi Cheolhan | Murakawa Daisuke | Lose | B+R | 7.5 | 2847 | 12 | 
+| 2012-12-06 | 第38期名人戦リーグ | Cho U | Murakawa Daisuke | Lose | B+R | 6.5 | 2835 | -29 | 
+| 2012-12-01 | 第14回農心辛ラーメン杯世界囲碁最強戦第10戦 | Murakawa Daisuke | Choi Cheolhan | Lose | W+R | 6.5 | 2864 | -150 | 
+| 2012-11-08 | 第38期名人戦予選 | Murakawa Daisuke | Komatsu Hideki | Win | B+R | 6.5 | 3014 | 132 | 
+| 2012-10-04 | 第56期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Murakawa Daisuke | Sakai Hideyuki | Lose | W+R | 6.5 | 2882 | -69 | 
+| 2012-09-20 | 第56期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Sakai Hideyuki | Murakawa Daisuke | Lose | B+0.5 | 6.5 | 2951 | -98 | 
+| 2012-08-29 | 第56期関西棋院第一位決定戦挑戦者決定戦 | Murakawa Daisuke | Kiyonari Tetsuya | Win | B+2.5 | 6.5 | 3049 | 72 | 
+| 2012-08-23 | 第38期名人戦予選 | Cho Chikun | Murakawa Daisuke | Win | W+4.5 | 6.5 | 2977 | -116 | 
+| 2012-07-26 | 第51期十段戦予選 | Murakawa Daisuke | Rin Kanketsu | Lose | W+R | 6.5 | 3093 | 40 | 
+| 2012-06-27 | 第38期名人戦予選 | Murakawa Daisuke | Ha Youngil | Win | B+R | 6.5 | 3053 | -9 | 
+| 2012-06-21 | 第68期本因坊戦予選 | Michael Redmond | Murakawa Daisuke | Win | W+R | 6.5 | 3062 | -43 | 
+| 2012-05-21 | 第19期阿含・桐山杯全日本早碁オープン戦予選 | Murakawa Daisuke | Mizokami Tomochika | Lose | W+2.5 | 6.5 | 3105 | -12 | 
+| 2012-05-16 | 第38期碁聖戦予選 | Aragaki Shun | Murakawa Daisuke | Lose | B+R | 6.5 | 3117 | -105 | 
+| 2012-05-09 | 第56期関西棋院第一位決定戦本戦3回戦 | Furuya Yutaka | Murakawa Daisuke | Win | W+2.5 | 6.5 | 3222 | 7 | 
+| 2012-04-24 | 第17回LG杯予選 | Murakawa Daisuke | Park Seunghwa | Lose | W+R | 6.5 | 3215 | -32 | 
+| 2012-04-21 | 第17回LG杯予選 | Park Seunghyeon | Murakawa Daisuke | Win | W+0.5 | 6.5 | 3247 | -32 | 
+| 2012-03-18 | 第4回BCカード杯世界選手権2回戦 | Murakawa Daisuke | Liu Xing | Lose | W+R | 6.5 | 3279 | -40 | 
+| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Murakawa Daisuke | Kim Ilhwan | Win | B+R | 6.5 | 3319 | -26 | 
+| 2012-02-27 | 第4回BCカード杯世界選手権統合予選 | Murakawa Daisuke | An Sungjoon | Win | B+R | 6.5 | 3345 | 79 | 
+| 2012-01-12 | 第60期王座戦予選 | Murakawa Daisuke | Yamada Kimio | Lose | W+R | 6.5 | 3266 | 325 | 
+| 2011-12-07 | 第56期関西棋院第一位決定戦本戦1回戦 | Murakawa Daisuke | Hoshikawa Takumi | Win | B+R | 6.5 | 2941 | -24 | 
+| 2011-12-01 | 第38期天元戦本戦0回戦 | Mimura Tomoyasu | Murakawa Daisuke | Lose | B+R | 6.5 | 2965 | -3 | 
+| 2011-11-23 | 2011年国際新鋭囲碁対抗戦第2戦 | Park Junghwan | Murakawa Daisuke | Lose | B+R | 6.5 | 2968 | -3 | 
+| 2011-11-22 | 2011年国際新鋭囲碁対抗戦第1戦 | Murakawa Daisuke | Li Zhe | Lose | W+R | 6.5 | 2971 | -7 | 
+| 2011-11-10 | 第55期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Sakai Hideyuki | Murakawa Daisuke | Lose | B+2.5 | 6.5 | 2978 | -106 | 
+| 2011-10-26 | 第37期碁聖戦予選 | Murakawa Daisuke | Kurahashi Masayuki | Lose | W+R | 6.5 | 3084 | -34 | 
+| 2011-10-19 | 第55期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Murakawa Daisuke | Sakai Hideyuki | Lose | W+R | 6.5 | 3118 | -36 | 
+| 2011-10-06 | 第50期十段戦2回戦 | Anzai Nobuaki | Murakawa Daisuke | Lose | B+R | 6.5 | 3154 | -28 | 
+| 2011-09-26 | 第36期新人王戦決勝三番勝負第2局 | Anzai Nobuaki | Murakawa Daisuke | Win | W+1.5 | 6.5 | 3182 | 25 | 
+| 2011-09-19 | 第36期新人王戦決勝三番勝負第1局 | Murakawa Daisuke | Anzai Nobuaki | Win | B+6.5 | 6.5 | 3157 | 106 | 
+| 2011-09-08 | 第50期十段戦1回戦 | Murakawa Daisuke | Yamashita Keigo | Win | B+0.5 | 6.5 | 3051 | 43 | 
+| 2011-08-05 | 第16回三星火災杯統合予選決勝 | Murakawa Daisuke | Na Hyun | Lose | W+R | 6.5 | 3008 | -34 | 
+| 2011-08-01 | 第16回三星火災杯統合予選1回戦 | Jin Siyoung | Murakawa Daisuke | Win | W+R | 6.5 | 3042 | 26 | 
+| 2011-07-28 | 第36期新人王戦準決勝 | Tamai Shin | Murakawa Daisuke | Win | W+R | 6.5 | 3016 | -10 | 
+| 2011-07-13 | 第37期碁聖戦予選 | Murakawa Daisuke | Konishi Kazuko | Win | B+R | 6.5 | 3026 | -164 | 
+| 2011-06-23 | 第36期新人王戦3回戦 | Mitani Tetsuya | Murakawa Daisuke | Win | W+R | 6.5 | 3190 | -37 | 
+| 2011-06-09 | 第59期王座戦2回戦 | Mitani Tetsuya | Murakawa Daisuke | Lose | B+R | 6.5 | 3227 | -9 | 
+| 2011-06-02 | 第18期阿含・桐山杯全日本早碁オープン戦予選 | Murakawa Daisuke | Takao Shinji | Lose | W+2.5 | 6.5 | 3236 | 78 | 
+| 2011-05-12 | 第59期王座戦1回戦 | So Yokoku | Murakawa Daisuke | Win | W+R | 6.5 | 3158 | -86 | 
+| 2011-04-21 | 第50期十段戦予選 | Murakawa Daisuke | Lee Ishu | Win | B+3.5 | 6.5 | 3244 | 49 | 
+| 2011-04-14 | 第36期新人王戦2回戦 | Xie Yimin | Murakawa Daisuke | Win | W+R | 6.5 | 3195 | 19 | 
+| 2011-03-31 | 第50期十段戦予選 | Ishida Atsushi | Murakawa Daisuke | Win | W+R | 6.5 | 3176 | -50 | 
+| 2011-03-10 | 第37期天元戦本戦2回戦 | Murakawa Daisuke | Yamada Takuji | Lose | W+R | 6.5 | 3226 | 57 | 
+| 2011-02-17 | 第36期新人王戦1回戦 | Murakawa Daisuke | Yanagisawa Satoshi | Win | B+R | 6.5 | 3169 | 67 | 
+| 2011-02-10 | 第59期王座戦予選 | Murakawa Daisuke | Fujii Shuya | Win | B+4.5 | 6.5 | 3102 | 97 | 
+| 2011-01-24 | 第3回BCカード杯世界選手権統合予選 | Murakawa Daisuke | Kim Yoonyoung | Win | B+R | 6.5 | 3005 | 78 | 
+| 2011-01-20 | 第59期王座戦予選 | Murakawa Daisuke | Ishida Yoshio | Win | B+R | 6.5 | 2927 | -19 | 
+| 2011-01-13 | 第37期天元戦本戦1回戦 | Murakawa Daisuke | Ogata Masaki | Win | B+R | 6.5 | 2946 | 24 | 
+| 2011-01-06 | 第36期棋聖戦予選 | Murakawa Daisuke | Kono Rin | Lose | W+R | 6.5 | 2922 | 45 | 
+| 2010-12-23 | 第67期本因坊戦予選 | Yuki Satoshi | Murakawa Daisuke | Lose | B+R | 6.5 | 2877 | 35 | 
+| 2010-12-06 | 第59期王座戦予選 | Murakawa Daisuke | Yokota Shigeaki | Win | B+R | 6.5 | 2842 | 2842 | 
+| 2010-11-17 | 第50期十段戦予選 | Murakawa Daisuke | Miyamoto Yoshihisa | Win | B+R | 6.5 | missing | -2861 | 
+| 2010-11-05 | 第54期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Murakawa Daisuke | Yuki Satoshi | Win | B+0.5 | 6.5 | 2861 | -10 | 
+| 2010-10-21 | 第54期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yuki Satoshi | Murakawa Daisuke | Win | W+R | 6.5 | 2871 | 36 | 
+| 2010-10-14 | 第36期碁聖戦予選 | Murakawa Daisuke | Imamura Toshiya | Lose | W+0.5 | 6.5 | 2835 | -16 | 
+| 2010-10-05 | 2010年国際新鋭囲碁対抗戦第3戦 | Murakawa Daisuke | Lin Shuyang | Win | B+5.5 | 6.5 | 2851 | 27 | 
+| 2010-10-04 | 2010年国際新鋭囲碁対抗戦第2戦 | Kang Yootaek | Murakawa Daisuke | Lose | B+R | 6.5 | 2824 | 65 | 
+| 2010-10-03 | 2010年国際新鋭囲碁対抗戦第1戦 | Gu Lingyi | Murakawa Daisuke | Win | W+R | 6.5 | 2759 | 76 | 
+| 2010-09-23 | 第36期名人戦予選 | Murakawa Daisuke | Hane Naoki | Lose | W+R | 6.5 | 2683 | -46 | 
+| 2010-09-15 | 第54期関西棋院第一位決定戦挑戦者決定戦 | Murakawa Daisuke | Yukawa Mitsuhisa | Win | B+6.5 | 6.5 | 2729 | 92 | 
+| 2010-09-09 | 第15回三星火災杯世界囲碁マスターズ1回戦G2 | Peng Quan | Murakawa Daisuke | Lose | B+R | 6.5 | 2637 | -1 | 
+| 2010-09-08 | 第15回三星火災杯世界囲碁マスターズ1回戦G1 | Lee Sedol | Murakawa Daisuke | Lose | B+R | 6.5 | 2638 | -70 | 
+| 2010-08-26 | 第54期関西棋院第一位決定戦本戦準決勝 | Takahara Syuji | Murakawa Daisuke | Win | W+R | 6.5 | 2708 | -12 | 
+| 2010-08-06 | 第15回三星火災杯統合予選決勝 | On Sojin | Murakawa Daisuke | Win | W+R | 6.5 | 2720 | 44 | 
+| 2010-08-05 | 第15回三星火災杯統合予選準決勝 | Murakawa Daisuke | Kim Hyunsub | Win | B+R | 6.5 | 2676 | 65 | 
+| 2010-08-04 | 第15回三星火災杯統合予選2回戦 | Murakawa Daisuke | Liu Xing | Win | B+R | 6.5 | 2611 | -61 | 
+| 2010-07-07 | 第37期天元戦予選 | Ishii Shinzo | Murakawa Daisuke | Win | W+R | 6.5 | 2672 | 27 | 
+| 2010-06-23 | 第54期関西棋院第一位決定戦本戦3回戦 | Sonoda Yuichi | Murakawa Daisuke | Win | W+R | 6.5 | 2645 | 111 | 
+| 2010-06-15 | 第7回中野杯U20選手権決勝 | Shida Tatsuya | Murakawa Daisuke | Win | W+R | 6.5 | 2534 | 22 | 
+| 2010-06-10 | 第17期阿含・桐山杯全日本早碁オープン戦1回戦 | Murakawa Daisuke | Ogata Masaki | Lose | W+3.5 | 6.5 | 2512 | -21 | 
+| 2010-04-08 | 第49期十段戦予選 | Murakawa Daisuke | Iyama Yuta | Lose | W+R | 6.5 | 2533 | 11 | 
+| 2010-02-18 | 第35期新人王戦1回戦 | Murakawa Daisuke | Ohba Junya | Lose | W+R | 6.5 | 2522 | -99 | 
+| 2010-02-11 | 第35期碁聖戦本戦2回戦 | Nakaonoda Tomomi | Murakawa Daisuke | Lose | B+0.5 | 6.5 | 2621 | -77 | 
+| 2010-01-07 | 第36期天元戦本戦1回戦 | Takemiya Masaki | Murakawa Daisuke | Lose | B+R | 6.5 | 2698 | -45 | 
+| 2009-12-03 | 第23回世界囲碁選手権富士通杯国内予選 | Murakawa Daisuke | Cho Chikun | Lose | W+R | 6.5 | 2743 | -185 | 
+| 2009-11-11 | 第36期天元戦予選 | Murakawa Daisuke | Mine Yasuhiro | Win | B+R | 6.5 | 2928 | 23 | 
+| 2009-10-22 | 第35期碁聖戦本戦1回戦 | Murakawa Daisuke | Ko Iso | Win | B+R | 6.5 | 2905 | 23 | 
+| 2009-10-14 | 第36期天元戦予選 | Murakawa Daisuke | Sonoda Yuichi | Win | B+R | 6.5 | 2882 | 28 | 
+| 2009-09-24 | 第35期名人戦予選 | Kono Rin | Murakawa Daisuke | Lose | B+R | 6.5 | 2854 | 4 | 
+| 2009-08-05 | 第66期本因坊戦予選 | Murakawa Daisuke | Ishii Shinzo | Win | B+R | 6.5 | 2850 | 8 | 
+| 2009-07-22 | 第35期碁聖戦予選 | Seto Taiki | Murakawa Daisuke | Win | W+R | 6.5 | 2842 | 75 | 
+| 2009-07-14 | 第6回中野杯U20選手権決勝 | Shida Tatsuya | Murakawa Daisuke | Win | W+R | 6.5 | 2767 | 140 | 
+| 2009-07-02 | 第34期新人王戦3回戦 | Murakawa Daisuke | Mitani Tetsuya | Lose | W+2.5 | 6.5 | 2627 | 2627 | 
+| 2009-05-13 | 第35期名人戦予選 | Murakawa Daisuke | Saito Tadashi | Win | B+R | 6.5 | missing | -2623 | 
+| 2009-04-02 | 第34期新人王戦2回戦 | Murakawa Daisuke | Ohashi Hirofumi | Win | B+R | 6.5 | 2623 | 139 | 
+| 2009-03-26 | 第48期十段戦予選 | Yamashita Keigo | Murakawa Daisuke | Lose | B+R | 6.5 | 2484 | -113 | 
+| 2009-02-05 | 第34期新人王戦1回戦 | Yanagisawa Satoshi | Murakawa Daisuke | Win | W+R | 6.5 | 2597 | 2597 | 
+| 2008-11-27 | 第34期碁聖戦本戦1回戦 | Murakawa Daisuke | Kono Rin | Lose | W+R | 6.5 | missing | 0 | 
+| 2008-11-19 | 2008年国際新鋭囲碁対抗戦第3戦 | Zhang Zhehao | Murakawa Daisuke | Win | W+3.5 | 6.5 | missing | 0 | 
+| 2008-11-18 | 2008年国際新鋭囲碁対抗戦第2戦 | Shi Yue | Murakawa Daisuke | Lose | B+0.5 | 6.5 | missing | 0 | 
+| 2008-11-17 | 2008年国際新鋭囲碁対抗戦第1戦 | Murakawa Daisuke | Kim Jiseok | Lose | W+R | 6.5 | missing | 0 | 
+| 2008-10-23 | 第57期王座戦予選 | Kubo Katsuaki | Murakawa Daisuke | Win | W+R | 6.5 | missing | -2200 | 
+| 2008-01-24 | 第33期新人王戦1回戦 | Murakawa Daisuke | Mitani Tetsuya | Lose | W+R | 6.5 | 2200 | 18 | 
+| 2007-12-20 | 第56期王座戦予選 | Murakawa Daisuke | O Rissei | Lose | W+R | 6.5 | 2182 | -114 | 
+| 2007-11-08 | 2007年国際新鋭囲碁対抗戦第3戦 | Murakawa Daisuke | Zhang Kaixin | Win | B+1.5 | 6.5 | 2296 | -2 | 
+| 2007-11-07 | 2007年国際新鋭囲碁対抗戦第2戦 | Murakawa Daisuke | Park Seunghwa | Lose | W+R | 6.5 | 2298 | -15 | 
+| 2007-11-05 | 2007年国際新鋭囲碁対抗戦第1戦 | Murakawa Daisuke |  | Lose | W+0.5 | 6.5 | 2313 | -452 | 
+| 2007-05-31 | 第32期新人王戦3回戦 | Cho Riyu | Murakawa Daisuke | Lose | B+R | 6.5 | 2765 | -99 | 
+| 2007-05-28 | 第4回中野杯U20選手権 | Murakawa Daisuke | Ko Iso | Lose | W+R | 6.5 | 2864 | -192 | 
+| 2007-04-05 | 第32期新人王戦2回戦 | Murakawa Daisuke | Ko Iso | Win | B+0.5 | 6.5 | 3056 | 3056 | 
+| 2007-03-08 | 第32期新人王戦1回戦 | Horimoto Mitsunari | Murakawa Daisuke | Win | W+2.5 | 6.5 | missing | 0 | 
+| 2006-10-19 | 第32期碁聖戦本戦1回戦 | Murakawa Daisuke | Yamashita Keigo | Lose | W+R | 6.5 | missing | 0 | 
+| 2006-08-03 | 第20回世界囲碁選手権富士通杯国内予選 | Murakawa Daisuke | Hatanaka Hoshinobu | Win | B+4.5 | 6.5 | missing | -2261 | 
+| 2006-02-27 | 第31期新人王戦1回戦 | Kono Rin | Murakawa Daisuke | Lose | B+R | 6.5 | 2261 | -345 | 
+| 2005-06-16 | 第30期新人王戦3回戦 | Murakawa Daisuke | Iyama Yuta | Lose | W+5.5 | 6.5 | 2606 | -63 | 
+| 2005-06-06 | 第2回中野杯U20選手権2回戦 | Murakawa Daisuke | Uchida Shuhei | Lose | W+R | 6.5 | 2669 | 2669 | 
+| 2005-05-26 | 第30期新人王戦2回戦 | Murakawa Daisuke | Furuya Yutaka | Win | B+R | 6.5 | missing | 0 | 
+| 2005-04-26 | 第2回中野杯U20選手権1回戦 | Rin Kanketsu | Murakawa Daisuke | Win | W+4.5 | 6.5 | missing | 0 | 
+| 2005-02-03 | 第30期新人王戦1回戦 | Araki Issei | Murakawa Daisuke | Win | W+R | 6.5 | missing | missing |
 
 
 

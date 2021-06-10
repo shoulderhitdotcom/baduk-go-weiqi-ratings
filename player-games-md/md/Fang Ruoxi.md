@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-10 | 第4回呉清源杯中国予選 | Fang Ruoxi |  | Win | B+R | 7.5 | 2956 | 14 | 
 | 2021-06-09 | 第4回呉清源杯中国予選 |  | Fang Ruoxi | Lose | B+¾ | 7.5 | 2942 | -16 | 
 | 2021-06-07 | 第4回呉清源杯中国予選 | Wang Chenxing | Fang Ruoxi | Lose | B+R | 7.5 | 2958 | -14 | 
 | 2021-06-04 | 第4回呉清源杯中国予選 | Li He | Fang Ruoxi | Win | W+2¼ | 7.5 | 2972 | 9 | 

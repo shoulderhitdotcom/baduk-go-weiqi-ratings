@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-10 | 第4回呉清源杯中国予選 | Chen Yiming |  | Win | B+R | 7.5 | 2907 | 14 | 
 | 2021-06-09 | 第4回呉清源杯中国予選 | Chen Yiming | Lu Jia | Win | B+R | 7.5 | 2893 | 11 | 
 | 2021-06-03 | 第4回呉清源杯中国予選 | Wang Yubo | Chen Yiming | Lose | B+1¾ | 7.5 | 2882 | -13 | 
 | 2021-06-01 | 第4回呉清源杯中国予選 | Fang Ruoxi | Chen Yiming | Lose | B+R | 7.5 | 2895 | -12 | 

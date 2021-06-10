@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-10 | 第4回呉清源杯中国予選 | Rui Naiwei |  | Win | B+R | 7.5 | 3050 | 8 | 
 | 2021-06-09 | 第4回呉清源杯中国予選 | Rui Naiwei | Wang Chenxing | Lose | W+1¼ | 7.5 | 3042 | -11 | 
 | 2021-06-07 | 第4回呉清源杯中国予選 |  | Rui Naiwei | Lose | B+R | 7.5 | 3053 | -23 | 
 | 2021-06-04 | 第4回呉清源杯中国予選 | Lu Minquan | Rui Naiwei | Win | W+R | 7.5 | 3076 | 21 | 

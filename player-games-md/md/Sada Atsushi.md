@@ -5,146 +5,148 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第65期関西棋院第一位決定戦本戦準決勝 | Utsumi Koki | Sada Atsushi | W+R | 2021-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HKziGsuOB3bq3cRWY3c1kA%3D%3D) | 
-| 第65期関西棋院第一位決定戦本戦3回戦 | Seto Taiki | Sada Atsushi | W+R | 2021-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u4pI%2Fu48zUi4W3zbKZm7ew%3D%3D) | 
-| 第76期本因坊戦リーグ  | Hsu Chiayuan | Sada Atsushi | B+R | 2021-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BIvIF1Fd22fNjVrHzhlXrw%3D%3D) | 
-| 第65期関西棋院第一位決定戦本戦2回戦 | Kan Minu | Sada Atsushi | W+R | 2021-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LxNe3t24W5JlYJ6RPv9nKg%3D%3D) | 
-| 第46期棋聖戦予選 | Sada Atsushi | Aragaki Shun | B+R | 2021-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xLSf8TNzbkjWn5RZHMz7Iw%3D%3D) | 
-| 第69期王座戦予選 | Shida Tatsuya | Sada Atsushi | B+R | 2021-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mlsHjoTmCFmxlXamxQhsyw%3D%3D) | 
-| 第76期本因坊戦リーグ | Hane Naoki | Sada Atsushi | W+R | 2021-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LZHjwjj68tTzvpwtsTNfoA%3D%3D) | 
-| 第46期新人王戦1回戦 | Sada Atsushi | Koike Yoshihiro | W+0.5 | 2021-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kN7i5HvH6GTK5mygTqJ7zw%3D%3D) | 
-| 第76期本因坊戦リーグ  | Sada Atsushi | Ichiriki Ryo | W+R | 2021-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RJrzmDSQH7PN4Jf3qWcXTg%3D%3D) | 
-| 第69期王座戦予選 | Sada Atsushi | Hong Seokui | B+1.5 | 2021-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FNDhEtTR9aXy2%2B%2Ffw3CXmw%3D%3D) | 
-| 2020年関西棋院VS台湾棋院対抗戦第3戦 | Sada Atsushi | Lai Junfu | B+R | 2020-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sdq%2FOwU7jTwmBWAKrB9VrA%3D%3D) | 
-| 第76期本因坊戦リーグ | Tsuruyama Atsushi | Sada Atsushi | B+R | 2020-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cb75NLNdG%2BDbmqr5G3vKFA%3D%3D) | 
-| 第47期天元戦予選 | Sada Atsushi | Hatanaka Hoshinobu | B+R | 2020-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ud1WiN6Lh1Xn1fbe2oywRQ%3D%3D) | 
-| 第76期本因坊戦リーグ | Sada Atsushi | Onishi Ryuhei | B+R | 2020-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xwvFk%2BByxaMIhku3A2bRAQ%3D%3D) | 
-| 第47期天元戦予選 | missing | Sada Atsushi | W+R | 2020-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1NRK0w5mkTqZ82JpD8fHKw%3D%3D) | 
-| 第46期名人戦予選 | Sada Atsushi | Yu Zhengqi | W+R | 2020-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m7khO5V6RV1XB%2B3JQEWkRA%3D%3D) | 
-| 第25回三星火災杯世界囲碁マスターズ1回戦  | Sada Atsushi | Shi Yue | W+R | 2020-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1XcrxiowGdWI4rIMJVwnVQ%3D%3D) | 
-| 第45期新人王戦決勝三番勝負第3局  | Sada Atsushi | Seki Kotaro | W+R | 2020-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5cXyKZLQTIEj85iPWcWa8w%3D%3D) | 
-| 第76期本因坊戦リーグ | Sada Atsushi | Shibano Toramaru | W+0.5 | 2020-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kLmTY2XQdc15xcI3Opdiig%3D%3D) | 
-| 第46期名人戦予選 | Sada Atsushi | Yanagisawa Satoshi | B+R | 2020-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pi5lVL980IyacLFFm8dH0A%3D%3D) | 
-| 第45期新人王戦決勝三番勝負第2局  | Sada Atsushi | Seki Kotaro | W+R | 2020-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nxvHGSySZoaSpnlAMdcTzQ%3D%3D) | 
-| 第46期碁聖戦予選 | missing | Sada Atsushi | W+R | 2020-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=atscuUMKWRVWaJHMiBwi4g%3D%3D) | 
-| 第45期新人王戦決勝三番勝負第1局  | Seki Kotaro | Sada Atsushi | W+R | 2020-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2oNhIXjNQWkP%2FGwh5DoXFg%3D%3D) | 
-| 第76期本因坊戦予選 | Yu Zhengqi | Sada Atsushi | W+R | 2020-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m8rtDyMw1JXnhPgfeh8PDA%3D%3D) | 
-| 第46期碁聖戦予選 | Sada Atsushi | Hoshikawa Manabu | B+R | 2020-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4MvwEROg%2BM43%2BRRu4iN7Nw%3D%3D) | 
-| 第45期新人王戦準決勝  | Fujisawa Rina | Sada Atsushi | W+R | 2020-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FtZAItHOxmdnKveh1ktgXg%3D%3D) | 
-| 第46期名人戦予選 | Sada Atsushi | Kubo Katsuaki | B+20.5 | 2020-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vi1Dd2z3KHTp1yR47tTGCA%3D%3D) | 
-| 第45期新人王戦3回戦 | Sada Atsushi | Koike Yoshihiro | B+R | 2020-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sv8U%2FbiVqTm02mRv7tWrow%3D%3D) | 
-| 第76期本因坊戦予選 | Sada Atsushi | Suzuki Shinji | B+1.5 | 2020-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QuJUm0VhAjffkQmiBH2qwg%3D%3D) | 
-| 第46期名人戦予選 | Yokota Shigeaki | Sada Atsushi | W+2.5 | 2020-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yegra3jZNpwbSqiekcGlMQ%3D%3D) | 
-| 第27期阿含・桐山杯全日本早碁オープン戦予選 | Motoki Katsuya | Sada Atsushi | B+1.5 | 2020-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cZ4rNEviwtGBN3rP0mbdaw%3D%3D) | 
-| 第46期天元戦2回戦 | Sada Atsushi | Kono Rin | W+R | 2020-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CP9gNB6yvmWXMAruimT9gA%3D%3D) | 
-| 第76期本因坊戦予選 | Lee Ishu | Sada Atsushi | W+R | 2020-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X87pWj99BfqB12toR4VNFg%3D%3D) | 
-| 第25回LG杯国内予選 | Sun Zhe | Sada Atsushi | B+R | 2020-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2LFaCcMtzafLtc4JA%2BcOTw%3D%3D) | 
-| 第59期十段戦予選 | Yukawa Mitsuhisa | Sada Atsushi | B+R | 2020-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sHPPayuepWpeHYabEO1gJA%3D%3D) | 
-| 第76期本因坊戦予選 | Sada Atsushi | Fujii Shuya | B+0.5 | 2020-03-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dkZMDrbXvIuL5Pdn2zhJHA%3D%3D) | 
-| 第45期新人王戦2回戦 | Otake Yu | Sada Atsushi | W+1.5 | 2020-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eNnp0MPo446QNDiG8gIn%2BA%3D%3D) | 
-| 第76期本因坊戦予選 | Yokota Shigeaki | Sada Atsushi | W+9.5 | 2020-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UQQTvlFKfRpMdyHYep01SA%3D%3D) | 
-| 第64期関西棋院第一位決定戦本戦2回戦 | Sada Atsushi | Murakawa Daisuke | W+R | 2020-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1%2BO5C1xmmjkZwGxLwQ82CQ%3D%3D) | 
-| 第45期新人王戦1回戦 | Sada Atsushi | Nyu Eiko | B+3.5 | 2020-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0trncxL%2B6yU7wtT5P9uSyw%3D%3D) | 
-| 第76期本因坊戦予選A | Sada Atsushi | Yukawa Mitsuhisa | B+R | 2020-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B5HTKFCe%2BMHvJPu9j2rhCg%3D%3D) | 
-| 第46期天元戦1回戦 | Sada Atsushi | Onishi Ryuhei | B+R | 2020-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rhuAWxEYJ707ZWJAXIrR9g%3D%3D) | 
-| 第76期本因坊戦予選 | Hara Masakazu | Sada Atsushi | W+R | 2019-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=snrqI62bnIVWe8qMZecqNQ%3D%3D) | 
-| 第64期関西棋院第一位決定戦本戦1回戦 | Sada Atsushi | missing | B+R | 2019-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FLFeL19fZg0gs1xN5AwFnw%3D%3D) | 
-| 第45期碁聖戦予選A決勝 | Kunisawa Hiroto | Sada Atsushi | W+R | 2019-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zk5BWQqQ4jBTCqPv9Do%2FIA%3D%3D) | 
-| 第45期名人戦予選 | Sada Atsushi | Adachi Toshimasa | W+R | 2019-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V7tCR2WdTVPVS9XJ4YpwPw%3D%3D) | 
-| 第45期名人戦予選A決勝 | Yu Zhengqi | Sada Atsushi | W+1.5 | 2019-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I6idrc2nY4cSJ6%2BpQ9bVLg%3D%3D) | 
-| 第45期天元戦挑戦者決定戦 | Sada Atsushi | Hsu Chiayuan | W+R | 2019-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PcQ6ArtTvfLfNq0MpanHdg%3D%3D) | 
-| 第45期天元戦準決勝 | Sada Atsushi | Kono Rin | B+R | 2019-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xvcnBQvD852WSDjCcqTc9g%3D%3D) | 
-| 第45期天元戦3回戦 | Sada Atsushi | Cho U | B+1.5 | 2019-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3fO2PGXdUz%2Fp222PWaVMAQ%3D%3D) | 
-| 関西合宿決勝トーナメント | Sada Atsushi | Iyama Yuta | W+R | 2019-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0poWMvNpvs31WYja8R6U%2FQ%3D%3D) | 
-| 第45期天元戦2回戦 | Sada Atsushi | Motoki Katsuya | B+6.5 | 2019-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tM0T9RJFTsKj7NVt5zj7%2Fg%3D%3D) | 
-| 第75期本因坊戦予選A準決勝 | Sada Atsushi | Imamura Toshiya | W+3.5 | 2019-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TofqQ5RK70cGDiGJDJKeVg%3D%3D) | 
-| 第24回LG杯統合予選1回戦 | missing | Sada Atsushi | W+R | 2019-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DtwfM12m4afKLAf06Jmckg%3D%3D) | 
-| 第45期天元戦1回戦 | Sada Atsushi | Shida Tatsuya | B+0.5 | 2019-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VUfS9foKe2BQFotrFSd46w%3D%3D) | 
-| 第44期棋聖戦ファーストトーナメント決勝 | Nakano Yasuhiro | Sada Atsushi | B+R | 2019-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R5fRteC1v%2FXCpa8IuAinkQ%3D%3D) | 
-| 第75期本因坊戦予選B | Hatanaka Hoshinobu | Sada Atsushi | W+R | 2019-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dPGgqabyGFmCtcFUC9WqQw%3D%3D) | 
-| 第44期新人王戦予選 | missing | Sada Atsushi | B+4.5 | 2018-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TNHF6bxA%2FrU%2BPfskWHOujw%3D%3D) | 
-| 国民文化祭大分囲碁祭りプロアマトーナメント戦三位決定戦 | Sada Atsushi | Ohashi Naruya | B+R | 2018-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=USSw6sDKqHJknW6Dozcutw%3D%3D) | 
-| 国民文化祭大分囲碁祭りプロアマトーナメント戦準決勝 | Sada Atsushi | Yuki Satoshi | W+5.5 | 2018-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=baveIqzxi3i9JHsW%2BXtRBw%3D%3D) | 
-| 第13回広島アルミ杯・若鯉戦1回戦 | Koike Yoshihiro | Sada Atsushi | B+2.5 | 2018-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Au6WOxGUxJsnyWAQ97CWRA%3D%3D) | 
-| 第3回谷口杯トーナメント本戦決勝 | Taniguchi Tooru | Sada Atsushi | W+0.5 | 2018-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MLNDK6a7%2FQ%2BQNfl9kzG7Kg%3D%3D) | 
-| 第3回谷口杯トーナメント本戦準決勝 | missing | Sada Atsushi | W+3.5 | 2018-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tR3onizIUbz3JZQGfbXgBw%3D%3D) | 
-| 第43期棋聖戦Cリーグ | Ida Atsushi | Sada Atsushi | B+R | 2018-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X98Y60qhjSF0UPv%2F0xkHwg%3D%3D) | 
-| 関西合宿団体戦決勝 | Sada Atsushi | Seki Kotaro | B+R | 2018-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sFh4dIblpYMeHpDhQzMhhg%3D%3D) | 
-| 第62期関西棋院第一位決定戦本戦2回戦 | Sada Atsushi | Nishi Takenobu | B+2.5 | 2018-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZsQxPMtLno79ZBHeP6x0Ng%3D%3D) | 
-| 第43期新人王戦1回戦 | Sada Atsushi | Mutsuura Yuta | W+R | 2018-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dp%2FnTBpzYfPhkOl6BC3zTQ%3D%3D) | 
-| 第43期碁聖戦本戦2回戦 | Sada Atsushi | Yamashita Keigo | W+R | 2018-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oMppLcRS%2Fv5hRm7yXWzzvQ%3D%3D) | 
-| 2017年日本囲碁リーグ2nd最終節瀬戸内-浪速主将戦 | Sada Atsushi | Nishiyama Shizuka | B+R | 2017-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BchAbwJ337f2B0g6l95%2BUw%3D%3D) | 
-| 第12回広島アルミ杯・若鯉戦2回戦 | Sada Atsushi | Adachi Toshimasa | W+R | 2017-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UiZAQfKwsKbE2uusKKcd5g%3D%3D) | 
-| 第12回広島アルミ杯・若鯉戦1回戦 | Sada Atsushi | Ueno Asami | B+R | 2017-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=litccuCXoIR08uAsB%2B0YUw%3D%3D) | 
-| 第43期碁聖戦本戦1回戦 | Sada Atsushi | Yamashiro Hiroshi | B+R | 2017-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FfN4eXQoLlhyXoCpBQez%2FA%3D%3D) | 
-| 第43期碁聖戦予選A決勝 | Kunisawa Hiroto | Sada Atsushi | W+R | 2017-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3VpMC7g8t7yCJl7CHvpREA%3D%3D) | 
-| 2017年日本囲碁リーグ2nd第4節瀬戸内-古都三将戦 | Sada Atsushi | Deguchi Mariko | B+R | 2017-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RVkbHq8X6YffGe9eCDtAVw%3D%3D) | 
-| 2017年日本囲碁リーグ2nd第3節兵庫-瀬戸内副将戦 | Tajima Shingo | Sada Atsushi | W+2.50 | 2017-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bIcVRpsS69o724X9XPPEKQ%3D%3D) | 
-| 第57期十段戦予選B | missing | Sada Atsushi | W+R | 2017-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r2n%2Bujn9srExivG%2FPC%2BELg%3D%3D) | 
-| 第43期碁聖戦予選A | Sada Atsushi | Sonoda Yuichi | B+7.5 | 2017-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RZhB0PK%2BBoJ8xSVDcsYLGQ%3D%3D) | 
-| 2017年日本囲碁リーグ2nd第2節大阪-瀬戸内三将戦 | Inaba Karin | Sada Atsushi | W+R | 2017-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xtjzK1WC%2BxH0%2F57XZ%2FPsMQ%3D%3D) | 
-| 第66期王座戦予選B | Sada Atsushi | Kunisawa Hiroto | B+R | 2017-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VXVVr0euK8PoGEdcdfHNMA%3D%3D) | 
-| 2017年日本囲碁リーグ2nd開幕戦瀬戸内-WU三将戦 | Sada Atsushi | Son Hideyo | B+R | 2017-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zUD%2F0RTg9u4JUqw%2BsII4gA%3D%3D) | 
-| 第43期名人戦予選A | Watanabe Kouki | Sada Atsushi | B+R | 2017-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZIzf7KLtyy3X7knCRmhQHw%3D%3D) | 
-| 第43期碁聖戦予選A | Kiwada Kazuomi | Sada Atsushi | W+4.5 | 2017-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=adylt3ev%2FeCYuid5u34H7A%3D%3D) | 
-| 2017年日本囲碁リーグ1st第4節古都-瀬戸内主将戦 | Sada Atsushi | Fujii Shuya | B+R | 2017-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ur8aBi%2BAZlIJnizzHGDtsA%3D%3D) | 
-| 第43期名人戦予選A | Sada Atsushi | Hasegawa Sunao | B+R | 2017-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d2QiazqwgxSFxcwRf1iqUA%3D%3D) | 
-| 2017年日本囲碁リーグ1st第3節瀬戸内-兵庫副将戦 | Sada Atsushi | Watanabe Kouki | B+R | 2017-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ti8kSiFPz1ZR%2BEw0nBs%2F9w%3D%3D) | 
-| 第43期名人戦予選B | Kim Pyonmin | Sada Atsushi | W+R | 2017-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JnVecBviesfM3oM5ZlcXAA%3D%3D) | 
-| 第73期本因坊戦予選A | Sada Atsushi | Ha Youngil | W+R | 2017-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W6OWZLCclIadQk5mOypeJw%3D%3D) | 
-| 第43期名人戦予選B | Sada Atsushi | Deguchi Mariko | B+R | 2017-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LPT519%2FmL8W7G357URr6DQ%3D%3D) | 
-| 2017年日本囲碁リーグ第1ステージ 開幕戦副将戦 | Sada Atsushi | missing | B+R | 2017-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6cTtYIRxxc3I%2Fx%2FKaM1pxA%3D%3D) | 
-| 第73期本因坊戦予選A | Fujii Shuya | Sada Atsushi | W+R | 2017-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eemeE61CwqY%2B4dhwTMG6Wg%3D%3D) | 
-| 第56期十段戦予選A | Sada Atsushi | Seto Taiki | W+R | 2017-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0GDLkbw1MGxDke076jzCHw%3D%3D) | 
-| 第73期本因坊戦予選B | missing | Sada Atsushi | W+19.5 | 2017-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6qHVMFdcykgF%2FwIn3JwVdw%3D%3D) | 
-| 第56期十段戦予選B | Deguchi Mariko | Sada Atsushi | W+R | 2017-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y%2FyaLUqdic5fN9%2FzeL10%2Bg%3D%3D) | 
-| 第42期棋聖戦ファーストトーナメント | Muraoka Shigeyuki | Sada Atsushi | W+R | 2016-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=brzVvg8D8CKMiGyO2ZbDPg%3D%3D) | 
-| 関西棋院対台湾棋院棋士対抗戦2017　2回戦 | Sada Atsushi | Lin Shixun | W+R | 2016-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=da3WMpHgzJhmXy%2Fm8pQgnA%3D%3D) | 
-| 第42期棋聖戦ファーストトーナメント | Sada Atsushi | Ushikubo Yoshitaka | B+R | 2016-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4blCTlAfyEMJakAMUxeH3A%3D%3D) | 
-| 第1回日本囲碁リーグクライマックスシリーズ 第2ステージ 三将戦 | Sada Atsushi | Kan Minu | B+R | 2016-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e%2FidXQ%2FEWFbjNhOZo4R2wA%3D%3D) | 
-| 第73期 本因坊戦 予選B | Sada Atsushi | Honda Kunihisa | B+R | 2016-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G0HTKGHpCuwoA8KD%2B6N65g%3D%3D) | 
-| 第61期関西棋院第一位決定戦　本戦1回戦 | Imamura Toshiya | Sada Atsushi | B+R | 2016-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cvB7zAIvxcHbnXlt1jM5oA%3D%3D) | 
-| 第65期王座戦　予選B | Hara Masakazu | Sada Atsushi | B+R | 2016-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VqBUBonaSY4Fh7GfRkmz3Q%3D%3D) | 
-| 第60期関西棋院第一位決定戦本戦3回戦 | Sada Atsushi | Murakawa Daisuke | W+R | 2016-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c3GYyWnTczy%2FOa5hb%2Faa8w%3D%3D) | 
-| 第3回ゆうちょ杯囲碁ユース選手権予選 | Sada Atsushi | Koike Yoshihiro | W+2.5 | 2016-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=trxTHqol6WGM0QtXf3B%2FFg%3D%3D) | 
-| 第3回ゆうちょ杯囲碁ユース選手権予選 | Sada Atsushi | Antti Tormanen | B+R | 2016-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v7PN15adOpSslEGh4ISwvA%3D%3D) | 
-| 第41期碁聖戦本戦準決勝 | Yamashita Keigo | Sada Atsushi | B+R | 2016-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gpoFqgmxZho9bSnstGZ1Qw%3D%3D) | 
-| 第60期関西棋院第一位決定戦本戦2回戦 | Yokota Shigeaki | Sada Atsushi | W+0.5 | 2016-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nxosanhk6iuKkOs9fYNygg%3D%3D) | 
-| 第41期碁聖戦本戦3回戦 | Sada Atsushi | Tsuruyama Atsushi | B+R | 2016-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jzwIBX3h2XIP%2BwgW%2Bm3YBw%3D%3D) | 
-| 第72期本因坊戦予選 | Sada Atsushi | Seto Taiki | W+R | 2016-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sHeCW6dIjRHnGF6b3YIkHQ%3D%3D) | 
-| 第55期十段戦予選 | Honda Kunihisa | Sada Atsushi | B+0.5 | 2016-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CqRcmviOzuZbuvfUXtfhNw%3D%3D) | 
-| 第41期碁聖戦本戦2回戦 | Kono Rin | Sada Atsushi | W+R | 2016-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M%2FTnGgjhUWMDL%2Fktxan8oA%3D%3D) | 
-| 第41期新人王戦1回戦 | Kumamoto Syusei | Sada Atsushi | B+R | 2016-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=96PYLR1g2avr7fEdgjXKeA%3D%3D) | 
-| 第64期王座戦予選 | Takashima Yugo | Sada Atsushi | W+4.5 | 2016-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kOv6ZemJia9kS8DJY%2FVabg%3D%3D) | 
-| 第41期碁聖戦本戦1回戦 | Sada Atsushi | Yamada Shinji | B+R | 2015-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QRN7H%2B2TLEzTwEpvDYpN%2Bg%3D%3D) | 
-| 2015年利民杯世界囲碁星鋭最強戦1回戦 | Tong Mengcheng | Sada Atsushi | B+R | 2015-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tDfEEDs9RR9i99GncjLV4Q%3D%3D) | 
-| 第41期新人王戦予選 | Nishiyama Shizuka | Sada Atsushi | W+R | 2015-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BEW%2FbeBmeyviRhuuynLiCg%3D%3D) | 
-| 第2回ゆうちょ杯囲碁ユース選手権2回戦 | Sada Atsushi | Hsu Chiayuan | W+R | 2015-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8ilRco2FDXkcV9tFWUZQGQ%3D%3D) | 
-| 第2回ゆうちょ杯囲碁ユース選手権1回戦 | Fujisawa Rina | Sada Atsushi | W+1.5 | 2015-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tQb0JWA7XAxEv5g%2FjGgQaQ%3D%3D) | 
-| 第71期本因坊戦予選 | Seto Taiki | Sada Atsushi | B+1.5 | 2015-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J300SlkweqW89ODlBAVMsg%3D%3D) | 
-| 第2回グロービス杯世界囲碁U-20準々決勝 | Sada Atsushi | Li Qincheng | W+6.5 | 2015-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y35hFdol4kuumjQ6ZtWPdw%3D%3D) | 
-| 第2回グロービス杯世界囲碁U-20グループリーグD | Sada Atsushi | Koyama Kuya | B+2.5 | 2015-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KCtBJcnkQ2tjYVDFqVPufQ%3D%3D) | 
-| 第2回グロービス杯世界囲碁U-20グループリーグD | Sada Atsushi | Krit Jamkachornkiat | B+T | 2015-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PeItu7hYckNZhHF%2F8tDFSw%3D%3D) | 
-| 第2回グロービス杯世界囲碁U-20グループリーグD | Sada Atsushi | Na Hyun | W+R | 2015-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=khOSweJ3UkgKfN2gOog%2B7Q%3D%3D) | 
-| 第63期王座戦予選 | Tsuruta Kazushi | Sada Atsushi | B+0.5 | 2015-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n7nMapeeGprCnsEyk0pHFw%3D%3D) | 
-| 第71期本因坊戦予選 | Aragaki Shun | Sada Atsushi | W+R | 2015-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LPXO5D6wGO%2BYcISeHnYQGw%3D%3D) | 
-| 第2回グロービス杯国内予選 | Yao Zhiteng | Sada Atsushi | W+R | 2015-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6LECPcSnABOnesyQpWzrXg%3D%3D) | 
-| 第2回グロービス杯国内予選 | Hoshiai Shiho | Sada Atsushi | W+R | 2015-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ccURydqC7Kf%2BkPwAKj%2BbLg%3D%3D) | 
-| 第2回グロービス杯国内予選 | Sada Atsushi | Hsu Chiayuan | B+1.5 | 2015-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UUO7dAIiq1q6oWu3PRWV0Q%3D%3D) | 
-| 第59期関西棋院第一位決定戦本戦2回戦 | Kurahashi Masayuki | Sada Atsushi | B+R | 2015-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DMQrSfRWTiE0EZO1byiZXw%3D%3D) | 
-| 第40期新人王戦1回戦 | Sada Atsushi | Motoki Katsuya | W+R | 2015-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lV%2Fs2Q51T2uHZEpInBLuPg%3D%3D) | 
-| 第63期王座戦予選 | Kiyonari Tetsuya | Sada Atsushi | W+0.5 | 2015-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uDSRfuLPMZ0Xk17xzi8dlg%3D%3D) | 
-| 第40期碁聖戦本戦1回戦 | Cho Chikun | Sada Atsushi | B+R | 2014-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RRlJ7eH4hOor4Uz%2BRwf20Q%3D%3D) | 
-| 第40期碁聖戦予選 | Sada Atsushi | Sonoda Yuichi | B+6.5 | 2014-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UKbsDNUSwblz8qn7jnvjmw%3D%3D) | 
-| 第39期新人王戦2回戦 | Sada Atsushi | Terayama Rei | W+R | 2014-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JgJFgokY6a2a6%2Bpq6k%2B3Ig%3D%3D) | 
-| 第1回グロービス杯国内予選 | Ida Atsushi | Sada Atsushi | B+R | 2014-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BTw7Ub6ykXaQPspZE1QbiA%3D%3D) | 
-| 第39期新人王戦1回戦 | Onishi Kenya | Sada Atsushi | W+7.5 | 2014-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QfCwesXH0mwNh1v5VzM7%2BA%3D%3D) | 
-| 第62期王座戦予選 | Sakai Hideyuki | Sada Atsushi | B+R | 2014-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ddSC7ONwCzXzhZeHk5jFrA%3D%3D) | 
-| 第40期天元戦予選 | Sada Atsushi | Murakawa Daisuke | W+3.5 | 2013-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rLE3l2CtiAF%2BMVo4TPacRg%3D%3D) | 
-| 第39期新人王戦予選 | Hoshikawa Koyo | Sada Atsushi | W+R | 2013-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wF3RVz%2Bdy4vQXcOL3LJj7w%3D%3D) | 
-| 第38期新人王戦1回戦 | Suzuki Shinji | Sada Atsushi | B+R | 2013-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RvK5LogJdPXLTsRSJxz7Kg%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-10 | 第60期十段戦予選 | Sada Atsushi | Utsumi Koki | Win | B+R | 6.5 | 3122 | 20 | 
+| 2021-05-27 | 第46期棋聖戦Cリーグ | Seki Kotaro | Sada Atsushi | Lose | B+R | 6.5 | 3102 | -12 | 
+| 2021-05-20 | 第65期関西棋院第一位決定戦本戦準決勝 | Utsumi Koki | Sada Atsushi | Win | W+R | 6.5 | 3114 | 1 | 
+| 2021-04-22 | 第65期関西棋院第一位決定戦本戦3回戦 | Seto Taiki | Sada Atsushi | Win | W+R | 6.5 | 3113 | 56 | 
+| 2021-04-02 | 第76期本因坊戦リーグ  | Hsu Chiayuan | Sada Atsushi | Lose | B+R | 6.5 | 3057 | -71 | 
+| 2021-03-24 | 第65期関西棋院第一位決定戦本戦2回戦 | Kan Minu | Sada Atsushi | Win | W+R | 6.5 | 3128 | -9 | 
+| 2021-03-17 | 第46期棋聖戦予選 | Sada Atsushi | Aragaki Shun | Win | B+R | 6.5 | 3137 | 5 | 
+| 2021-03-11 | 第69期王座戦予選 | Shida Tatsuya | Sada Atsushi | Lose | B+R | 6.5 | 3132 | -64 | 
+| 2021-03-04 | 第76期本因坊戦リーグ | Hane Naoki | Sada Atsushi | Win | W+R | 6.5 | 3196 | 15 | 
+| 2021-02-18 | 第46期新人王戦1回戦 | Sada Atsushi | Koike Yoshihiro | Lose | W+0.5 | 6.5 | 3181 | -122 | 
+| 2021-01-21 | 第76期本因坊戦リーグ  | Sada Atsushi | Ichiriki Ryo | Lose | W+R | 6.5 | 3303 | -52 | 
+| 2021-01-13 | 第69期王座戦予選 | Sada Atsushi | Hong Seokui | Win | B+1.5 | 6.5 | 3355 | -16 | 
+| 2020-12-14 | 2020年関西棋院VS台湾棋院対抗戦第3戦 | Sada Atsushi | Lai Junfu | Win | B+R | 6.5 | 3371 | 24 | 
+| 2020-12-10 | 第76期本因坊戦リーグ | Tsuruyama Atsushi | Sada Atsushi | Lose | B+R | 6.5 | 3347 | -36 | 
+| 2020-12-02 | 第47期天元戦予選 | Sada Atsushi | Hatanaka Hoshinobu | Win | B+R | 6.5 | 3383 | 5 | 
+| 2020-11-26 | 第76期本因坊戦リーグ | Sada Atsushi | Onishi Ryuhei | Win | B+R | 6.5 | 3378 | 52 | 
+| 2020-11-19 | 第47期天元戦予選 |  | Sada Atsushi | Win | W+R | 6.5 | 3326 | 14 | 
+| 2020-11-08 | 第46期名人戦予選 | Sada Atsushi | Yu Zhengqi | Lose | W+R | 6.5 | 3312 | -24 | 
+| 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦  | Sada Atsushi | Shi Yue | Lose | W+R | 6.5 | 3336 | -17 | 
+| 2020-10-16 | 第45期新人王戦決勝三番勝負第3局  | Sada Atsushi | Seki Kotaro | Lose | W+R | 6.5 | 3353 | -7 | 
+| 2020-10-08 | 第76期本因坊戦リーグ | Sada Atsushi | Shibano Toramaru | Lose | W+0.5 | 6.5 | 3360 | -25 | 
+| 2020-10-01 | 第46期名人戦予選 | Sada Atsushi | Yanagisawa Satoshi | Win | B+R | 6.5 | 3385 | 5 | 
+| 2020-09-28 | 第45期新人王戦決勝三番勝負第2局  | Sada Atsushi | Seki Kotaro | Lose | W+R | 6.5 | 3380 | 7 | 
+| 2020-09-23 | 第46期碁聖戦予選 |  | Sada Atsushi | Win | W+R | 6.5 | 3373 | 0 | 
+| 2020-09-18 | 第45期新人王戦決勝三番勝負第1局  | Seki Kotaro | Sada Atsushi | Win | W+R | 6.5 | 3373 | 110 | 
+| 2020-08-31 | 第76期本因坊戦予選 | Yu Zhengqi | Sada Atsushi | Win | W+R | 6.5 | 3263 | 20 | 
+| 2020-08-12 | 第46期碁聖戦予選 | Sada Atsushi | Hoshikawa Manabu | Win | B+R | 6.5 | 3243 | 107 | 
+| 2020-08-03 | 第45期新人王戦準決勝  | Fujisawa Rina | Sada Atsushi | Win | W+R | 6.5 | 3136 | -10 | 
+| 2020-07-22 | 第46期名人戦予選 | Sada Atsushi | Kubo Katsuaki | Win | B+20.5 | 6.5 | 3146 | -2 | 
+| 2020-07-13 | 第45期新人王戦3回戦 | Sada Atsushi | Koike Yoshihiro | Win | B+R | 6.5 | 3148 | 24 | 
+| 2020-07-09 | 第76期本因坊戦予選 | Sada Atsushi | Suzuki Shinji | Win | B+1.5 | 6.5 | 3124 | -17 | 
+| 2020-07-02 | 第46期名人戦予選 | Yokota Shigeaki | Sada Atsushi | Win | W+2.5 | 6.5 | 3141 | 15 | 
+| 2020-06-25 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Motoki Katsuya | Sada Atsushi | Lose | B+1.5 | 6.5 | 3126 | -27 | 
+| 2020-06-08 | 第46期天元戦2回戦 | Sada Atsushi | Kono Rin | Lose | W+R | 6.5 | 3153 | -36 | 
+| 2020-06-04 | 第76期本因坊戦予選 | Lee Ishu | Sada Atsushi | Win | W+R | 6.5 | 3189 | 210 | 
+| 2020-04-06 | 第25回LG杯国内予選 | Sun Zhe | Sada Atsushi | Lose | B+R | 6.5 | 2979 | -13 | 
+| 2020-04-01 | 第59期十段戦予選 | Yukawa Mitsuhisa | Sada Atsushi | Lose | B+R | 6.5 | 2992 | -45 | 
+| 2020-03-25 | 第76期本因坊戦予選 | Sada Atsushi | Fujii Shuya | Win | B+0.5 | 6.5 | 3037 | 1 | 
+| 2020-03-09 | 第45期新人王戦2回戦 | Otake Yu | Sada Atsushi | Win | W+1.5 | 6.5 | 3036 | -5 | 
+| 2020-03-04 | 第76期本因坊戦予選 | Yokota Shigeaki | Sada Atsushi | Win | W+9.5 | 6.5 | 3041 | 58 | 
+| 2020-02-26 | 第64期関西棋院第一位決定戦本戦2回戦 | Sada Atsushi | Murakawa Daisuke | Lose | W+R | 6.5 | 2983 | -244 | 
+| 2020-02-03 | 第45期新人王戦1回戦 | Sada Atsushi | Nyu Eiko | Win | B+3.5 | 6.5 | 3227 | 3 | 
+| 2020-01-29 | 第76期本因坊戦予選A | Sada Atsushi | Yukawa Mitsuhisa | Win | B+R | 6.5 | 3224 | -3 | 
+| 2020-01-16 | 第46期天元戦1回戦 | Sada Atsushi | Onishi Ryuhei | Win | B+R | 6.5 | 3227 | 289 | 
+| 2019-12-12 | 第76期本因坊戦予選 | Hara Masakazu | Sada Atsushi | Win | W+R | 6.5 | 2938 | 111 | 
+| 2019-10-24 | 第64期関西棋院第一位決定戦本戦1回戦 | Sada Atsushi |  | Win | B+R | 6.5 | 2827 | -3 | 
+| 2019-10-02 | 第45期碁聖戦予選A決勝 | Kunisawa Hiroto | Sada Atsushi | Win | W+R | 6.5 | 2830 | 42 | 
+| 2019-09-12 | 第45期名人戦予選 | Sada Atsushi | Adachi Toshimasa | Lose | W+R | 6.5 | 2788 | -42 | 
+| 2019-08-21 | 第45期名人戦予選A決勝 | Yu Zhengqi | Sada Atsushi | Win | W+1.5 | 6.5 | 2830 | 22 | 
+| 2019-08-15 | 第45期天元戦挑戦者決定戦 | Sada Atsushi | Hsu Chiayuan | Lose | W+R | 6.5 | 2808 | -112 | 
+| 2019-07-29 | 第45期天元戦準決勝 | Sada Atsushi | Kono Rin | Win | B+R | 6.5 | 2920 | 121 | 
+| 2019-07-04 | 第45期天元戦3回戦 | Sada Atsushi | Cho U | Win | B+1.5 | 6.5 | 2799 | 90 | 
+| 2019-05-05 | 関西合宿決勝トーナメント | Sada Atsushi | Iyama Yuta | Lose | W+R | 6.5 | 2709 | -95 | 
+| 2019-04-18 | 第45期天元戦2回戦 | Sada Atsushi | Motoki Katsuya | Win | B+6.5 | 6.5 | 2804 | 80 | 
+| 2019-04-10 | 第75期本因坊戦予選A準決勝 | Sada Atsushi | Imamura Toshiya | Lose | W+3.5 | 6.5 | 2724 | -25 | 
+| 2019-04-01 | 第24回LG杯統合予選1回戦 |  | Sada Atsushi | Win | W+R | 6.5 | 2749 | 135 | 
+| 2019-03-07 | 第45期天元戦1回戦 | Sada Atsushi | Shida Tatsuya | Win | B+0.5 | 6.5 | 2614 | 34 | 
+| 2019-02-27 | 第44期棋聖戦ファーストトーナメント決勝 | Nakano Yasuhiro | Sada Atsushi | Lose | B+R | 6.5 | 2580 | -88 | 
+| 2019-02-20 | 第75期本因坊戦予選B | Hatanaka Hoshinobu | Sada Atsushi | Win | W+R | 6.5 | 2668 | -61 | 
+| 2018-12-12 | 第44期新人王戦予選 |  | Sada Atsushi | Lose | B+4.5 | 6.5 | 2729 | -61 | 
+| 2018-11-25 | 国民文化祭大分囲碁祭りプロアマトーナメント戦三位決定戦 | Sada Atsushi | Ohashi Naruya | Win | B+R | 6.5 | 2790 | 0 | 
+| 2018-11-25 | 国民文化祭大分囲碁祭りプロアマトーナメント戦準決勝 | Sada Atsushi | Yuki Satoshi | Lose | W+5.5 | 6.5 | 2790 | -41 | 
+| 2018-11-17 | 第13回広島アルミ杯・若鯉戦1回戦 | Koike Yoshihiro | Sada Atsushi | Lose | B+2.5 | 6.5 | 2831 | -69 | 
+| 2018-11-09 | 第3回谷口杯トーナメント本戦決勝 | Taniguchi Tooru | Sada Atsushi | Win | W+0.5 | 6.5 | 2900 | 0 | 
+| 2018-11-09 | 第3回谷口杯トーナメント本戦準決勝 |  | Sada Atsushi | Win | W+3.5 | 6.5 | 2900 | -62 | 
+| 2018-08-30 | 第43期棋聖戦Cリーグ | Ida Atsushi | Sada Atsushi | Lose | B+R | 6.5 | 2962 | -14 | 
+| 2018-05-05 | 関西合宿団体戦決勝 | Sada Atsushi | Seki Kotaro | Win | B+R | 6.5 | 2976 | -22 | 
+| 2018-03-07 | 第62期関西棋院第一位決定戦本戦2回戦 | Sada Atsushi | Nishi Takenobu | Win | B+2.5 | 6.5 | 2998 | 52 | 
+| 2018-02-22 | 第43期新人王戦1回戦 | Sada Atsushi | Mutsuura Yuta | Lose | W+R | 6.5 | 2946 | 43 | 
+| 2018-01-11 | 第43期碁聖戦本戦2回戦 | Sada Atsushi | Yamashita Keigo | Lose | W+R | 6.5 | 2903 | 62 | 
+| 2017-11-27 | 2017年日本囲碁リーグ2nd最終節瀬戸内-浪速主将戦 | Sada Atsushi | Nishiyama Shizuka | Win | B+R | 6.5 | 2841 | 3 | 
+| 2017-11-25 | 第12回広島アルミ杯・若鯉戦2回戦 | Sada Atsushi | Adachi Toshimasa | Lose | W+R | 6.5 | 2838 | 0 | 
+| 2017-11-25 | 第12回広島アルミ杯・若鯉戦1回戦 | Sada Atsushi | Ueno Asami | Win | B+R | 6.5 | 2838 | 0 | 
+| 2017-11-09 | 第43期碁聖戦本戦1回戦 | Sada Atsushi | Yamashiro Hiroshi | Win | B+R | 6.5 | 2838 | 30 | 
+| 2017-10-18 | 第43期碁聖戦予選A決勝 | Kunisawa Hiroto | Sada Atsushi | Win | W+R | 6.5 | 2808 | 82 | 
+| 2017-10-09 | 2017年日本囲碁リーグ2nd第4節瀬戸内-古都三将戦 | Sada Atsushi | Deguchi Mariko | Win | B+R | 6.5 | 2726 | -63 | 
+| 2017-09-25 | 2017年日本囲碁リーグ2nd第3節兵庫-瀬戸内副将戦 | Tajima Shingo | Sada Atsushi | Win | W+2.50 | 6.5 | 2789 | -20 | 
+| 2017-09-20 | 第57期十段戦予選B |  | Sada Atsushi | Win | W+R | 6.5 | 2809 | 49 | 
+| 2017-08-30 | 第43期碁聖戦予選A | Sada Atsushi | Sonoda Yuichi | Win | B+7.5 | 6.5 | 2760 | -1 | 
+| 2017-08-28 | 2017年日本囲碁リーグ2nd第2節大阪-瀬戸内三将戦 | Inaba Karin | Sada Atsushi | Win | W+R | 6.5 | 2761 | 128 | 
+| 2017-07-26 | 第66期王座戦予選B | Sada Atsushi | Kunisawa Hiroto | Win | B+R | 6.5 | 2633 | -11 | 
+| 2017-07-24 | 2017年日本囲碁リーグ2nd開幕戦瀬戸内-WU三将戦 | Sada Atsushi | Son Hideyo | Win | B+R | 6.5 | 2644 | 15 | 
+| 2017-07-06 | 第43期名人戦予選A | Watanabe Kouki | Sada Atsushi | Lose | B+R | 6.5 | 2629 | -35 | 
+| 2017-06-28 | 第43期碁聖戦予選A | Kiwada Kazuomi | Sada Atsushi | Win | W+4.5 | 6.5 | 2664 | -30 | 
+| 2017-05-22 | 2017年日本囲碁リーグ1st第4節古都-瀬戸内主将戦 | Sada Atsushi | Fujii Shuya | Win | B+R | 6.5 | 2694 | 65 | 
+| 2017-05-04 | 第43期名人戦予選A | Sada Atsushi | Hasegawa Sunao | Win | B+R | 6.5 | 2629 | 25 | 
+| 2017-04-24 | 2017年日本囲碁リーグ1st第3節瀬戸内-兵庫副将戦 | Sada Atsushi | Watanabe Kouki | Win | B+R | 6.5 | 2604 | 37 | 
+| 2017-04-12 | 第43期名人戦予選B | Kim Pyonmin | Sada Atsushi | Win | W+R | 6.5 | 2567 | 116 | 
+| 2017-03-22 | 第73期本因坊戦予選A | Sada Atsushi | Ha Youngil | Lose | W+R | 6.5 | 2451 | -42 | 
+| 2017-03-02 | 第43期名人戦予選B | Sada Atsushi | Deguchi Mariko | Win | B+R | 6.5 | 2493 | 36 | 
+| 2017-02-27 | 2017年日本囲碁リーグ第1ステージ 開幕戦副将戦 | Sada Atsushi |  | Win | B+R | 6.5 | 2457 | -16 | 
+| 2017-02-15 | 第73期本因坊戦予選A | Fujii Shuya | Sada Atsushi | Win | W+R | 6.5 | 2473 | 105 | 
+| 2017-02-08 | 第56期十段戦予選A | Sada Atsushi | Seto Taiki | Lose | W+R | 6.5 | 2368 | -111 | 
+| 2017-01-25 | 第73期本因坊戦予選B |  | Sada Atsushi | Win | W+19.5 | 6.5 | 2479 | -48 | 
+| 2017-01-12 | 第56期十段戦予選B | Deguchi Mariko | Sada Atsushi | Win | W+R | 6.5 | 2527 | -25 | 
+| 2016-12-22 | 第42期棋聖戦ファーストトーナメント | Muraoka Shigeyuki | Sada Atsushi | Win | W+R | 6.5 | 2552 | 7 | 
+| 2016-12-19 | 関西棋院対台湾棋院棋士対抗戦2017　2回戦 | Sada Atsushi | Lin Shixun | Lose | W+R | 6.5 | 2545 | -33 | 
+| 2016-12-08 | 第42期棋聖戦ファーストトーナメント | Sada Atsushi | Ushikubo Yoshitaka | Win | B+R | 6.5 | 2578 | -12 | 
+| 2016-11-28 | 第1回日本囲碁リーグクライマックスシリーズ 第2ステージ 三将戦 | Sada Atsushi | Kan Minu | Win | B+R | 6.5 | 2590 | -16 | 
+| 2016-11-02 | 第73期 本因坊戦 予選B | Sada Atsushi | Honda Kunihisa | Win | B+R | 6.5 | 2606 | 39 | 
+| 2016-10-26 | 第61期関西棋院第一位決定戦　本戦1回戦 | Imamura Toshiya | Sada Atsushi | Lose | B+R | 6.5 | 2567 | -58 | 
+| 2016-08-25 | 第65期王座戦　予選B | Hara Masakazu | Sada Atsushi | Lose | B+R | 6.5 | 2625 | -53 | 
+| 2016-08-17 | 第60期関西棋院第一位決定戦本戦3回戦 | Sada Atsushi | Murakawa Daisuke | Lose | W+R | 6.5 | 2678 | 58 | 
+| 2016-07-05 | 第3回ゆうちょ杯囲碁ユース選手権予選 | Sada Atsushi | Koike Yoshihiro | Lose | W+2.5 | 6.5 | 2620 | 0 | 
+| 2016-07-05 | 第3回ゆうちょ杯囲碁ユース選手権予選 | Sada Atsushi | Antti Tormanen | Win | B+R | 6.5 | 2620 | 28 | 
+| 2016-05-05 | 第41期碁聖戦本戦準決勝 | Yamashita Keigo | Sada Atsushi | Lose | B+R | 6.5 | 2592 | 136 | 
+| 2016-04-06 | 第60期関西棋院第一位決定戦本戦2回戦 | Yokota Shigeaki | Sada Atsushi | Win | W+0.5 | 6.5 | 2456 | 14 | 
+| 2016-03-24 | 第41期碁聖戦本戦3回戦 | Sada Atsushi | Tsuruyama Atsushi | Win | B+R | 6.5 | 2442 | 33 | 
+| 2016-03-16 | 第72期本因坊戦予選 | Sada Atsushi | Seto Taiki | Lose | W+R | 6.5 | 2409 | -131 | 
+| 2016-03-02 | 第55期十段戦予選 | Honda Kunihisa | Sada Atsushi | Lose | B+0.5 | 6.5 | 2540 | -133 | 
+| 2016-02-04 | 第41期碁聖戦本戦2回戦 | Kono Rin | Sada Atsushi | Win | W+R | 6.5 | 2673 | 75 | 
+| 2016-01-28 | 第41期新人王戦1回戦 | Kumamoto Syusei | Sada Atsushi | Lose | B+R | 6.5 | 2598 | -73 | 
+| 2016-01-20 | 第64期王座戦予選 | Takashima Yugo | Sada Atsushi | Win | W+4.5 | 6.5 | 2671 | 13 | 
+| 2015-12-24 | 第41期碁聖戦本戦1回戦 | Sada Atsushi | Yamada Shinji | Win | B+R | 6.5 | 2658 | 69 | 
+| 2015-11-28 | 2015年利民杯世界囲碁星鋭最強戦1回戦 | Tong Mengcheng | Sada Atsushi | Lose | B+R | 7.5 | 2589 | -16 | 
+| 2015-10-01 | 第41期新人王戦予選 | Nishiyama Shizuka | Sada Atsushi | Win | W+R | 6.5 | 2605 | -101 | 
+| 2015-08-18 | 第2回ゆうちょ杯囲碁ユース選手権2回戦 | Sada Atsushi | Hsu Chiayuan | Lose | W+R | 6.5 | 2706 | 0 | 
+| 2015-08-18 | 第2回ゆうちょ杯囲碁ユース選手権1回戦 | Fujisawa Rina | Sada Atsushi | Win | W+1.5 | 6.5 | 2706 | -64 | 
+| 2015-06-04 | 第71期本因坊戦予選 | Seto Taiki | Sada Atsushi | Lose | B+1.5 | 6.5 | 2770 | -129 | 
+| 2015-05-09 | 第2回グロービス杯世界囲碁U-20準々決勝 | Sada Atsushi | Li Qincheng | Lose | W+6.5 | 6.5 | 2899 | 0 | 
+| 2015-05-09 | 第2回グロービス杯世界囲碁U-20グループリーグD | Sada Atsushi | Koyama Kuya | Win | B+2.5 | 6.5 | 2899 | -4 | 
+| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグD | Sada Atsushi | Krit Jamkachornkiat | Win | B+T | 6.5 | 2903 | 0 | 
+| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグD | Sada Atsushi | Na Hyun | Lose | W+R | 6.5 | 2903 | 104 | 
+| 2015-04-09 | 第63期王座戦予選 | Tsuruta Kazushi | Sada Atsushi | Lose | B+0.5 | 6.5 | 2799 | -84 | 
+| 2015-04-01 | 第71期本因坊戦予選 | Aragaki Shun | Sada Atsushi | Win | W+R | 6.5 | 2883 | -101 | 
+| 2015-03-17 | 第2回グロービス杯国内予選 | Yao Zhiteng | Sada Atsushi | Win | W+R | 6.5 | 2984 | 0 | 
+| 2015-03-17 | 第2回グロービス杯国内予選 | Hoshiai Shiho | Sada Atsushi | Win | W+R | 6.5 | 2984 | 0 | 
+| 2015-03-17 | 第2回グロービス杯国内予選 | Sada Atsushi | Hsu Chiayuan | Win | B+1.5 | 6.5 | 2984 | 281 | 
+| 2015-03-11 | 第59期関西棋院第一位決定戦本戦2回戦 | Kurahashi Masayuki | Sada Atsushi | Lose | B+R | 6.5 | 2703 | -213 | 
+| 2015-02-19 | 第40期新人王戦1回戦 | Sada Atsushi | Motoki Katsuya | Lose | W+R | 6.5 | 2916 | -90 | 
+| 2015-01-28 | 第63期王座戦予選 | Kiyonari Tetsuya | Sada Atsushi | Win | W+0.5 | 6.5 | 3006 | 3006 | 
+| 2014-12-18 | 第40期碁聖戦本戦1回戦 | Cho Chikun | Sada Atsushi | Lose | B+R | 6.5 | missing | -2761 | 
+| 2014-11-05 | 第40期碁聖戦予選 | Sada Atsushi | Sonoda Yuichi | Win | B+6.5 | 6.5 | 2761 | 2761 | 
+| 2014-04-28 | 第39期新人王戦2回戦 | Sada Atsushi | Terayama Rei | Lose | W+R | 6.5 | missing | 0 | 
+| 2014-04-11 | 第1回グロービス杯国内予選 | Ida Atsushi | Sada Atsushi | Lose | B+R | 6.5 | missing | 0 | 
+| 2014-02-20 | 第39期新人王戦1回戦 | Onishi Kenya | Sada Atsushi | Win | W+7.5 | 6.5 | missing | 0 | 
+| 2014-01-08 | 第62期王座戦予選 | Sakai Hideyuki | Sada Atsushi | Lose | B+R | 6.5 | missing | 0 | 
+| 2013-11-20 | 第40期天元戦予選 | Sada Atsushi | Murakawa Daisuke | Lose | W+3.5 | 6.5 | missing | 0 | 
+| 2013-11-13 | 第39期新人王戦予選 | Hoshikawa Koyo | Sada Atsushi | Win | W+R | 6.5 | missing | 0 | 
+| 2013-01-24 | 第38期新人王戦1回戦 | Suzuki Shinji | Sada Atsushi | Lose | B+R | 6.5 | missing | missing |
 
 
 

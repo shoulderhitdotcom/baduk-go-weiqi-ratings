@@ -5,892 +5,894 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第46期棋聖戦Sリーグ | Ichiriki Ryo | Yamashita Keigo | B+3.5 | 2021-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f0n1lZOfRfElKTDZ214Zkg%3D%3D) | 
-| 第46期名人戦リーグ | Hane Naoki | Yamashita Keigo | W+R | 2021-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xk%2Bv6DnZDwbHGLxmz6plBA%3D%3D) | 
-| 第77期本因坊戦予選 | Yamashita Keigo | O Rissei | B+2.5 | 2021-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IhMZxb9rglzF6q%2FjmZSCuw%3D%3D) | 
-| 第46期棋聖戦Sリーグ | Yamashita Keigo | Yu Zhengqi | W+R | 2021-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kllnN2vfxHTyLEkCBiSr3Q%3D%3D) | 
-| 第28期阿含・桐山杯全日本早碁オープン戦予選 | Mizokami Tomochika | Yamashita Keigo | W+R | 2021-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7cCfcajUeWWEhteXvCfMLg%3D%3D) | 
-| 第46期名人戦リーグ | Yamashita Keigo | Anzai Nobuaki | B+2.5 | 2021-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n2vkrNKiUo%2BgS8gV%2FkqN%2Fw%3D%3D) | 
-| 第77期本因坊戦予選 | Sakai Takeshi | Yamashita Keigo | W+R | 2021-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Cv%2BRw9wTkUFQQjbc2Ec4A%3D%3D) | 
-| 第46期名人戦リーグ | Yamashita Keigo | Yu Zhengqi | W+4.5 | 2021-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tAPkrVg3EAHATHpRroZDtw%3D%3D) | 
-| 第69期王座戦予選 | Ogaki Yusaku | Yamashita Keigo | B+R | 2021-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yeAa9uRLAhnXECaOEBbydw%3D%3D) | 
-| 第46期名人戦リーグ  | Shibano Toramaru | Yamashita Keigo | W+R | 2021-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ltCFbb1ApRaCvivvsdgmNg%3D%3D) | 
-| 2020中日韓聶衛平杯囲碁マスターズ2回戦  | Yamashita Keigo | Lee Changho | W+R | 2020-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ddjr6CfAD8NPrFx22FFKpg%3D%3D) | 
-| 2020中日韓聶衛平杯囲碁マスターズ1回戦  | Chang Hao | Yamashita Keigo | B+R | 2020-12-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ajMZue8lQlmclhLCLQr3ow%3D%3D) | 
-| 第47期天元戦予選 | Yamashita Keigo | Yoda Norimoto | B+R | 2020-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=REiWzf9%2B%2Bww2u2lN3kKkEw%3D%3D) | 
-| 第46期名人戦リーグ | Kono Rin | Yamashita Keigo | B+R | 2020-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CgS75zkUrRR4lg7X99z2xw%3D%3D) | 
-| 第59期十段戦3回戦 | Murakawa Daisuke | Yamashita Keigo | B+1.5 | 2020-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lppu6ut3OcqXVQBg0gIVNQ%3D%3D) | 
-| 第45期棋聖戦挑戦者決定トーナメント | Takao Shinji | Yamashita Keigo | B+5.5 | 2020-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bSpndZpDrm0RvPAG3k3jpg%3D%3D) | 
-| 第59期十段戦2回戦 | Ichiriki Ryo | Yamashita Keigo | W+R | 2020-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pYzHR2vHJZTdxDGNKU5k3g%3D%3D) | 
-| 第45期棋聖戦挑戦者決定トーナメント | Yamashita Keigo | Shibano Toramaru | B+R | 2020-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LBuOqkpE6RHSKMBzWibTdg%3D%3D) | 
-| 第59期十段戦1回戦 | Yamashita Keigo | Sun Zhe | B+4.5 | 2020-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8ES51FHah1vNAql0F5oCJg%3D%3D) | 
-| 第27期阿含・桐山杯全日本早碁オープン戦決勝  | Iyama Yuta | Yamashita Keigo | B+R | 2020-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zBzIg3u4agJJKnr%2FiVGW%2Fg%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Yu Zhengqi | Yamashita Keigo | B+R | 2020-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8nDB0zTMEZA6B1uuO7%2FcAQ%3D%3D) | 
-| 第68期王座戦準決勝 | Yamashita Keigo | Hsu Chiayuan | W+R | 2020-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TT2p%2Bix4tDjq4chSaL5hIA%3D%3D) | 
-| 第27期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Murakawa Daisuke | B+R | 2020-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eFcuSK2jCpFEYLSZSElcug%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Yamashita Keigo | So Yokoku | B+R | 2020-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fVJccLyEKUayq8qROQzmIQ%3D%3D) | 
-| 第59期十段戦予選 | Yamashita Keigo | Hirose Yuichi | B+R | 2020-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XTKBrwZ5RYvJjsByeMG8eQ%3D%3D) | 
-| 第27期阿含・桐山杯全日本早碁オープン戦2回戦 | Mutsuura Yuta | Yamashita Keigo | W+4.5 | 2020-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7DgkRLgfEmaBGocvC7QfZg%3D%3D) | 
-| 第45期名人戦リーグ | Yamashita Keigo | Hsu Chiayuan | B+R | 2020-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=22qayMR773RTkfmIpEpswA%3D%3D) | 
-| 第68期王座戦2回戦 | Yamashita Keigo | Ohba Junya | B+R | 2020-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ka5wo4P1%2FRWcW8CAiuw4qg%3D%3D) | 
-| 第46期天元戦3回戦 | Ichiriki Ryo | Yamashita Keigo | B+R | 2020-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LnyekfeFlhIendwmvDUBMQ%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Yamashita Keigo | Yoda Norimoto | B+3.5 | 2020-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Sa9AkfRd9eX2bcHp%2F3%2FPA%3D%3D) | 
-| 第27期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho U | Yamashita Keigo | W+R | 2020-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1LDTv%2B%2FItAyNa2I6bEZhIA%3D%3D) | 
-| 第76期本因坊戦予選 | Ida Atsushi | Yamashita Keigo | B+10.5 | 2020-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dfedW0wqdd07sqyO1fxjow%3D%3D) | 
-| 第45期名人戦リーグ | Yamashita Keigo | Kono Rin | W+1.5 | 2020-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LSHqkh1mTnpF4ON60ruG3w%3D%3D) | 
-| 第27期阿含・桐山杯全日本早碁オープン戦予選 | Yamashita Keigo | Yamada Kimio | B+R | 2020-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bvPTo51Arn2us5XItdz4Fg%3D%3D) | 
-| 第45期名人戦リーグ | Murakawa Daisuke | Yamashita Keigo | W+R | 2020-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fSCrEf6J6O82rlgFT7bDdw%3D%3D) | 
-| 第68期王座戦1回戦 | Sun Zhe | Yamashita Keigo | W+R | 2020-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4zDYaaGIr33kARGyCwGnjA%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Adachi Toshimasa | Yamashita Keigo | W+R | 2020-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UzCOCZjRd%2BnzwIt95fdmIg%3D%3D) | 
-| 第27期阿含・桐山杯全日本早碁オープン戦予選 | Yamashita Keigo | Takei Takashi | B+R | 2020-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9ac74W9iMdqAERXIbZ76SA%3D%3D) | 
-| 第46期天元戦2回戦 | Murakawa Daisuke | Yamashita Keigo | W+R | 2020-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XWx1jt4MaPSoDMRp3uqcUw%3D%3D) | 
-| 第45期名人戦リーグ | Cho U | Yamashita Keigo | W+11.5 | 2020-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uMmpNa2hzlfLMEqAfRE49g%3D%3D) | 
-| 第75期本因坊戦リーグ  | Hane Naoki | Yamashita Keigo | B+6.5 | 2020-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=skEMJO5jjC971UN7PTrdJA%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Motoki Katsuya | Yamashita Keigo | W+R | 2020-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iwnUCqI2d8bqqISjLenwOQ%3D%3D) | 
-| 第75期本因坊戦リーグ | Yamashita Keigo | Shibano Toramaru | W+0.5 | 2020-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BdEOr0Yb4wCHvkzZSqKG4g%3D%3D) | 
-| 第68期王座戦予選 | Yamashita Keigo | Kim Sujun | B+R | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZHuhG5TeRQQR74f4RGiJPw%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Yamashita Keigo | Onishi Ryuhei | W+R | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fJwQZ3PTcc3bClXsOyeUMQ%3D%3D) | 
-| 第45期名人戦リーグ | Yamashita Keigo | Rin Kanketsu | W+R | 2020-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hFuYQfcHYFc4n%2BAgqiow5w%3D%3D) | 
-| 第75期本因坊戦リーグ | Kono Rin | Yamashita Keigo | B+R | 2020-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eH%2FKQ%2B3KVpUwZfyKgqnUFA%3D%3D) | 
-| 第45期名人戦リーグ | Ichiriki Ryo | Yamashita Keigo | B+R | 2020-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4uBOdTYh2TMTaX7B4ruXMQ%3D%3D) | 
-| 第46期天元戦1回戦 | Fujita Akihiko | Yamashita Keigo | W+R | 2020-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uk07Kh9jtAEvnCynp4o%2F5w%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Yamashita Keigo | Shida Tatsuya | B+R | 2020-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tSEezsmQ854HP5T7GOUnzQ%3D%3D) | 
-| 第75期本因坊戦リーグ | Yokotsuka Riki | Yamashita Keigo | B+10.5 | 2020-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V91UUCYc9tzb7tVz9DG4tA%3D%3D) | 
-| 第45期名人戦リーグ | Iyama Yuta | Yamashita Keigo | B+R | 2020-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hJuaBRUhmavx6Vx13itR9g%3D%3D) | 
-| 第45期名人戦リーグ | Yamashita Keigo | Hane Naoki | W+2.5 | 2019-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uIUYwYGnJDsZX1TdqmS8yQ%3D%3D) | 
-| 第75期本因坊戦リーグ | Ichiriki Ryo | Yamashita Keigo | B+0.5 | 2019-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cbIWiBJrXPvDTFJIu4fN0Q%3D%3D) | 
-| 第46期天元戦予選 | Yamashita Keigo | Ueno Asami | B+R | 2019-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7yYp%2FTGnh7ZctyzwN2CXOw%3D%3D) | 
-| 第75期本因坊戦リーグ | Yamashita Keigo | Hsu Chiayuan | W+R | 2019-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bj7F4HTkASS1GhlOxVqjiQ%3D%3D) | 
-| 第75期本因坊戦リーグ | Yamashita Keigo | Shida Tatsuya | W+6.5 | 2019-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FA%2BgpuBeVYxqf7nL7uaJcA%3D%3D) | 
-| 第21回農心辛ラーメン杯世界囲碁最強戦第3戦 | Yang Dingxin | Yamashita Keigo | B+3.5 | 2019-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dE2VVFHdmzYVYAV4lzMn3g%3D%3D) | 
-| 第58期十段戦2回戦 | Yamashita Keigo | Ko Iso | W+R | 2019-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mFxcIT9Bb2GVjJ6%2B3ut5PA%3D%3D) | 
-| 第46期天元戦予選 | Cho Riyu | Yamashita Keigo | W+R | 2019-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w%2B0f%2F7N9Pdx7MMLaVQwJSg%3D%3D) | 
-| 第44期棋聖戦Sリーグ | Murakawa Daisuke | Yamashita Keigo | W+R | 2019-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vQTo5PZl0i2JqAJu9vw2lA%3D%3D) | 
-| 第44期棋聖戦Sリーグ | Takao Shinji | Yamashita Keigo | B+6.5 | 2019-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A5nGUc8NS%2FA9tKu%2BYiav9Q%3D%3D) | 
-| 第6回国手山脈国際囲碁大会世界プロ最強戦8強戦 | Yamashita Keigo | Chen Yaoye | W+R | 2019-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uTplYb3yyBkZplw9dBg9Qw%3D%3D) | 
-| 第6回国手山脈国際囲碁大会世界プロ最強戦16強戦 | Yamashita Keigo | Park Junghwan | B+R | 2019-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QKQQkYLNQyt9WJAGLveyeQ%3D%3D) | 
-| 第44期名人戦リーグ | Yamashita Keigo | Kono Rin | W+3.5 | 2019-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZjVfML1HXwybm6PmWShzlg%3D%3D) | 
-| 第44期棋聖戦Sリーグ | Yamashita Keigo | Hsu Chiayuan | W+5.5 | 2019-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B5ZfCyvowkCRzS76f1gX0Q%3D%3D) | 
-| 第44期名人戦リーグ | Shibano Toramaru | Yamashita Keigo | B+R | 2019-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RInhgHhYpoy7%2FnPCc6ibDg%3D%3D) | 
-| 第26期阿含・桐山杯全日本早碁オープン戦1回戦 | Ohba Junya | Yamashita Keigo | B+0.5 | 2019-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fEImodjYGpwaBTJW1VC18w%3D%3D) | 
-| 第44期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | B+R | 2019-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cxghnTE3p995Fc7SK6Zriw%3D%3D) | 
-| 第44期棋聖戦Sリーグ | Yamashita Keigo | Kono Rin | W+1.5 | 2019-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s%2FeNHN%2BfHK40yr5RZXxyww%3D%3D) | 
-| 第67期王座戦1回戦 | Nakano Hironari | Yamashita Keigo | B+0.5 | 2019-05-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FDddyn9R%2FpLfZZdUsdHONQ%3D%3D) | 
-| 第44期名人戦リーグ | Yamashita Keigo | Iyama Yuta | W+R | 2019-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8XUKpQ%2FI1c0Lq7%2BCKj26Dg%3D%3D) | 
-| 第26期阿含・桐山杯全日本早碁オープン戦最終予選 | Yamashita Keigo | Hirata Tomoya | B+0.5 | 2019-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gspX7IoTj9l7mSqkCb5pFg%3D%3D) | 
-| 第44期棋聖戦Sリーグ | Yamashita Keigo | So Yokoku | B+R | 2019-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WLEDWIjrMtIET7oPnJRydg%3D%3D) | 
-| 第44期名人戦リーグ | Mutsuura Yuta | Yamashita Keigo | W+R | 2019-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pAz8lgZ0ILLjjit89H4hEA%3D%3D) | 
-| 第6回グランドチャンピオン戦2回戦 | Yamashita Keigo | Ida Atsushi | W+R | 2019-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=swxIkF%2BwbuHOKAfMRUzNaA%3D%3D) | 
-| 第67期王座戦予選決勝 | Rin Shien | Yamashita Keigo | W+R | 2019-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SCmLxCpN2%2FVsx8EXMpumFw%3D%3D) | 
-| 第74期本因坊戦リーグ | Yamashita Keigo | Hane Naoki | B+R | 2019-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qNXTS2WQVNI6TRpwqd4toQ%3D%3D) | 
-| 第44期碁聖戦本戦3回戦 | Yamashita Keigo | Iyama Yuta | W+5.5 | 2019-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pjb3ozY0I6ecvaKWd%2BdI%2BA%3D%3D) | 
-| 第44期名人戦リーグ | Suzuki Shinji | Yamashita Keigo | W+3.5 | 2019-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iQONCjuuLF1hiCtdaFgRbg%3D%3D) | 
-| 第74期本因坊戦リーグ | Kono Rin | Yamashita Keigo | B+R | 2019-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VQDS2%2FUNDLSf4DCM7XdN8A%3D%3D) | 
-| 第43期棋聖戦挑戦手合七番勝負第7局 | Yamashita Keigo | Iyama Yuta | W+6.5 | 2019-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Upk2PEDSU8GT%2F60bpWcDwA%3D%3D) | 
-| 第43期棋聖戦挑戦手合七番勝負第6局 | Iyama Yuta | Yamashita Keigo | W+R | 2019-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4x46tge3kUdsCiAu3D3uYQ%3D%3D) | 
-| 第43期棋聖戦挑戦手合七番勝負第5局 | Yamashita Keigo | Iyama Yuta | B+6.5 | 2019-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v2AHhHX7%2FTeUcXKho%2FPL0w%3D%3D) | 
-| 第74期本因坊戦リーグ | Shibano Toramaru | Yamashita Keigo | W+3.5 | 2019-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G%2FRdwXoeRErwjT5Wd%2Fhk7A%3D%3D) | 
-| 第43期棋聖戦挑戦手合七番勝負第4局 | Iyama Yuta | Yamashita Keigo | B+R | 2019-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jxgLnyIxEsu0aaC0Q8qXSg%3D%3D) | 
-| 第44期名人戦リーグ | Hane Naoki | Yamashita Keigo | B+0.5 | 2019-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k2cg1oNxAxLxvApratwZJw%3D%3D) | 
-| 第43期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Iyama Yuta | W+R | 2019-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W8zU3ElzR1ol52C2WDkfMQ%3D%3D) | 
-| 第44期碁聖戦本戦2回戦 | Sakai Hideyuki | Yamashita Keigo | W+R | 2019-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PS41c5hHmLxQPya3J7jAJA%3D%3D) | 
-| 第43期棋聖戦挑戦手合七番勝負第2局 | Iyama Yuta | Yamashita Keigo | W+R | 2019-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ycG%2BAGzSNMy47Py6E8t68w%3D%3D) | 
-| 第45期天元戦1回戦 | Motoki Katsuya | Yamashita Keigo | B+1.5 | 2019-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qf%2Bj%2FNKeLCA%2FTplShFX6SA%3D%3D) | 
-| 第67期王座戦予選 | Yamashita Keigo | Numadate Sakiya | B+R | 2019-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XZKCDCTROtgyFNUjlvcxFQ%3D%3D) | 
-| 第43期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Iyama Yuta | W+R | 2019-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L5CHvLa8yjs6LNv1O8Ea%2Fw%3D%3D) | 
-| 第74期本因坊戦リーグ | Anzai Nobuaki | Yamashita Keigo | W+0.5 | 2019-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X1FIhlgfrxqIPwPF%2F8CT0A%3D%3D) | 
-| 第57期十段戦準決勝 | Yamashita Keigo | Takao Shinji | W+2.5 | 2018-12-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3ucYKs3g2jRhppvA7huR2g%3D%3D) | 
-| 第44期天元戦挑戦手合五番勝負第5局 | Yamashita Keigo | Iyama Yuta | W+R | 2018-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wEMXipiB%2BGfvPAUYkEF2wA%3D%3D) | 
-| 第44期名人戦リーグ | Yamashita Keigo | Sun Zhe | B+R | 2018-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=393HcF5EorgJmvWxam0uiQ%3D%3D) | 
-| 第44期天元戦挑戦手合五番勝負第4局 | Iyama Yuta | Yamashita Keigo | W+2.5 | 2018-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cZhuWgxfgfDWlpibYxywrw%3D%3D) | 
-| 第44期碁聖戦本戦1回戦 | Yamashita Keigo | Onishi Ryuhei | B+R | 2018-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t%2BsIv1jzuQO5XaiPM9Nvrg%3D%3D) | 
-| 第57期十段戦3回戦 | Yamashita Keigo | Ichiriki Ryo | B+R | 2018-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7uIi62gtVXBQTx44lmhK3A%3D%3D) | 
-| 第74期本因坊戦リーグ | Ko Iso | Yamashita Keigo | W+R | 2018-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EsFf7DQnIsGuK8fvMIr%2FVg%3D%3D) | 
-| 第44期天元戦挑戦手合五番勝負第3局 | Yamashita Keigo | Iyama Yuta | W+R | 2018-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FLhLv%2F24nJP1ZhFtz9zZsA%3D%3D) | 
-| 第67期王座戦予選 | Yamashita Keigo | Koyama Kuya | B+R | 2018-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3E0Ui6G9w%2FuPTZD0L8nzoA%3D%3D) | 
-| 第43期棋聖戦挑戦者決定トーナメント | Kono Rin | Yamashita Keigo | W+R | 2018-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FbW1nH7yWMGv312gV79N7g%3D%3D) | 
-| 第74期本因坊戦リーグ | Yamashita Keigo | Ichiriki Ryo | W+R | 2018-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NU9%2Fv5uFlk4%2FecyMavOFZQ%3D%3D) | 
-| 第44期天元戦挑戦手合五番勝負第2局 | Iyama Yuta | Yamashita Keigo | W+0.5 | 2018-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VPG8NiIaN1%2BW2dJl0JCqmA%3D%3D) | 
-| 第57期十段戦2回戦 | Fujii Shuya | Yamashita Keigo | W+R | 2018-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q5r00wFGekhvGD0S7jG7bg%3D%3D) | 
-| 第44期天元戦挑戦手合五番勝負第1局  | Yamashita Keigo | Iyama Yuta | W+R | 2018-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FCfHHMjZTpCIExiZdpjfjQ%3D%3D) | 
-| 第74期本因坊戦リーグ | Yamashita Keigo | Yu Zhengqi | W+0.5 | 2018-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DXVhMdW3GqKNF3Mkn6BmuQ%3D%3D) | 
-| 第57期十段戦1回戦 | Tsuruyama Atsushi | Yamashita Keigo | W+0.5 | 2018-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iXWTN14gWP5CEkEwUfRIlQ%3D%3D) | 
-| 第1回天府杯世界囲碁選手権A組2回戦 | Gu Zihao | Yamashita Keigo | B+R | 2018-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N%2FpLWIqvcFxKpCzRmqJw1g%3D%3D) | 
-| 第1回天府杯世界囲碁選手権A組1回戦 | Wang Yuanjun | Yamashita Keigo | W+R | 2018-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hpR4J3UA3lg8I99CO29t9Q%3D%3D) | 
-| 第44期碁聖戦予選 | Yamashita Keigo | Sun Zhe | B+R | 2018-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fw43Z6xHhLkc%2Fwc7LGOLnA%3D%3D) | 
-| 第44期天元戦挑戦者決定戦 | Hsu Chiayuan | Yamashita Keigo | W+R | 2018-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GgMGEYBUYV2kVVrr5sT4oQ%3D%3D) | 
-| 第44期天元戦準決勝 | Kono Rin | Yamashita Keigo | W+R | 2018-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kDk%2FJhFbGThY6vHQ636vVg%3D%3D) | 
-| 第43期名人戦リーグ | Yamashita Keigo | Kono Rin | W+R | 2018-08-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EwVHQkdh1i%2FCoQN7zMuFsg%3D%3D) | 
-| 第4回百霊杯世界オープン戦1回戦 | Gu Zihao | Yamashita Keigo | B+R | 2018-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XAXTcWEiaXOA4vboD748oQ%3D%3D) | 
-| 第57期十段戦最終予選決勝 | Yamashita Keigo | Adachi Toshimasa | B+R | 2018-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nAfYpGwFtq73HrsaC5%2FjFA%3D%3D) | 
-| 第43期名人戦リーグ | Takao Shinji | Yamashita Keigo | W+R | 2018-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uajVZxy%2BB6PJa06IWT6NsQ%3D%3D) | 
-| 第73期本因坊戦挑戦手合七番勝負第五局 | Yamashita Keigo | Iyama Yuta | W+R | 2018-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=myfOeHl581oZOMEUJ7KenQ%3D%3D) | 
-| 第44期天元戦3回戦 | Yamashita Keigo | Suzuki Shinji | B+13.5 | 2018-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Av3A7wAlB%2Bx0ZDZHSDXpmg%3D%3D) | 
-| 第73期本因坊戦挑戦手合七番勝負第四局 | Iyama Yuta | Yamashita Keigo | B+R | 2018-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ot8P3Cj%2Bz9czaNkNYHgA2w%3D%3D) | 
-| 第43期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | B+R | 2018-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v4D%2BEJCy4JaU9HUxAyBciw%3D%3D) | 
-| 第73期本因坊戦挑戦手合七番勝負第三局 | Yamashita Keigo | Iyama Yuta | W+R | 2018-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w1%2FrU3yCrZC4DQ5uplsZLA%3D%3D) | 
-| 第73期本因坊戦挑戦手合七番勝負第二局 | Iyama Yuta | Yamashita Keigo | B+R | 2018-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l0HTUZE5tW0maGSwzq77hg%3D%3D) | 
-| 第73期本因坊戦挑戦手合七番勝負第一局 | Yamashita Keigo | Iyama Yuta | B+0.5 | 2018-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nAoiLPQMV62zsLNlyCpZ%2Bw%3D%3D) | 
-| 第43期棋聖戦Sリーグ | Yamashita Keigo | Kono Rin | B+R | 2018-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AwTCMRxaawQiwGkNoUcCqw%3D%3D) | 
-| 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Yamashita Keigo | Nakano Yasuhiro | W+5.5 | 2018-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a4QNYUOttxEMdCx4GSRLXw%3D%3D) | 
-| 第44期天元戦2回戦 | Shida Tatsuya | Yamashita Keigo | W+R | 2018-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S%2F8%2Bi4e%2FFq0ZV0%2FLc8%2BtMA%3D%3D) | 
-| 第43期棋聖戦Sリーグ | Cho U | Yamashita Keigo | W+R | 2018-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sqKS17Zimbg60kMCZfd9Gg%3D%3D) | 
-| 第43期名人戦リーグ | Ko Iso | Yamashita Keigo | W+R | 2018-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=29Ws63iO5hhi4%2Fp3AqqiTQ%3D%3D) | 
-| 第73期本因坊戦リーグ最終節  | Ko Iso | Yamashita Keigo | W+R | 2018-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZJCt3%2FGY4gWwqJuIYv60uA%3D%3D) | 
-| 第66期王座戦予選 | Yamashita Keigo | Mutsuura Yuta | W+R | 2018-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FoSeWhI%2BzDcut0cbAAjy3A%3D%3D) | 
-| 第2回ワールド碁チャンピオンシップ準決勝  | Iyama Yuta | Yamashita Keigo | B+R | 2018-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AQL%2BMQZo%2Bb7RyRlBtn4c%2BA%3D%3D) | 
-| 第2回ワールド碁チャンピオンシップ1回戦  | Wang Yuanjun | Yamashita Keigo | W+R | 2018-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9uVatKIyw2ealUutgGangA%3D%3D) | 
-| 第5回グランドチャンピオン戦2回戦 | Kobayashi Satoru | Yamashita Keigo | B+3.5 | 2018-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7w0b6Lqbgq8shL2KnhBhZA%3D%3D) | 
-| 第66期王座戦最終予選 | Yamashita Keigo | Yun Chunho | B+R | 2018-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AYbM9IeK000%2FARsrJYtjHw%3D%3D) | 
-| 第43期名人戦リーグ | Yamashita Keigo | Hane Naoki | W+R | 2018-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2zKGeBbsuqVYN%2F1FnZsdtw%3D%3D) | 
-| 第43期碁聖戦本戦3回戦 | Hsu Chiayuan | Yamashita Keigo | B+R | 2018-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aTBtuqx0fZWYL23CllTY6g%3D%3D) | 
-| 第2回ワールド碁チャンピオンシップ代表決定戦決勝 | Yamashita Keigo | Ichiriki Ryo | B+R | 2018-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CUGf4bwJW6PSN3MW5%2FKj3A%3D%3D) | 
-| 第43期名人戦リーグ | Yamashita Keigo | Shibano Toramaru | W+2.5 | 2018-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GbOw7xKBh8s6URa%2FVS5YZA%3D%3D) | 
-| 第2回ワールド碁チャンピオンシップ代表決定戦準決勝 | Yamashita Keigo | Motoki Katsuya | B+R | 2018-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=86FhW0GsJ5Ii%2B4tRXKvqjA%3D%3D) | 
-| 第44期天元戦1回戦 | Ohba Junya | Yamashita Keigo | W+R | 2018-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uHNpXF59%2Fr1KbgoyXxtQ8A%3D%3D) | 
-| 第43期名人戦リーグ | Cho U | Yamashita Keigo | B+R | 2018-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rOJ8FEHs5e75CTbtLkTIeA%3D%3D) | 
-| 第43期碁聖戦本戦2回戦 | Sada Atsushi | Yamashita Keigo | W+R | 2018-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oMppLcRS%2Fv5hRm7yXWzzvQ%3D%3D) | 
-| 第66期王座戦予選 | Komatsu Hideki | Yamashita Keigo | W+R | 2017-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WeJqzEi8vrY1yIBWkyPL7g%3D%3D) | 
-| 第43期名人戦リーグ | Yu Zhengqi | Yamashita Keigo | W+R | 2017-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KsXXdhet8QNcCGbSzxvqLA%3D%3D) | 
-| 第19回農心辛ラーメン杯世界囲碁最強戦第6戦 | Yamashita Keigo | Shin Minjun | W+R | 2017-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7PVdMBGa1ImJMFziX8R76g%3D%3D) | 
-| 第66期王座戦予選 | Ito Masashi | Yamashita Keigo | W+3.5 | 2017-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B2pgrnKvKSUqa41ngep1Cg%3D%3D) | 
-| 第42期棋聖戦挑戦者決定トーナメント変則三番勝負第一局 | Yamashita Keigo | Ichiriki Ryo | W+R | 2017-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hnSFnPxLsPsNljsTDsNRFw%3D%3D) | 
-| 第42期棋聖戦挑戦者決定トーナメント | Yamashita Keigo | Motoki Katsuya | B+R | 2017-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=62JwQbJMqZ1FzuDx%2FOjcVA%3D%3D) | 
-| 第42期棋聖戦リーグSA組決勝 | Yamashita Keigo | Motoki Katsuya | B+R | 2017-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r6Nlok9cV9Ka4m48SZ4yIw%3D%3D) | 
-| 第56期十段戦2回戦 | Yamashita Keigo | Murakawa Daisuke | W+5.5 | 2017-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UoUHfZHdU0McGR2rv3jrAA%3D%3D) | 
-| 第22回三星火災杯世界囲碁マスターズ2回戦 | Yamashita Keigo | Tong Mengcheng | W+R | 2017-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=598ornaBakpQUVkUYtuO1Q%3D%3D) | 
-| 第42期棋聖戦　Sリーグ5回戦 | Yamashita Keigo | Murakawa Daisuke | B+2.5 | 2017-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XrY45LrbAhAU2LGf9CiviQ%3D%3D) | 
-| 第22回三星火災杯世界囲碁マスターズ1回戦E3 | Yamashita Keigo | Chen Zijian | B+3.5 | 2017-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2R1V%2BzXeYRbpozpkYOJRJg%3D%3D) | 
-| 第22回三星火災杯世界囲碁マスターズ1回戦E2 | Yamashita Keigo | Lee Sedol | W+R | 2017-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2UCBr2121oFVnEpLDsS1%2Bw%3D%3D) | 
-| 第22回三星火災杯世界囲碁マスターズ1回戦E1 | Yamashita Keigo | Li He | B+R | 2017-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vSinbtkEM6x6ubKGmoW6pg%3D%3D) | 
-| 第43期天元戦　挑戦者決定戦 | Ichiriki Ryo | Yamashita Keigo | B+4.5 | 2017-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l5SzLu6sdaBbogKfGNZ2jQ%3D%3D) | 
-| 阪急電鉄納涼囲碁まつり公開対局 | Yoda Norimoto | Yamashita Keigo | B+R | 2017-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qNTE14x4fWIDo4%2BtT%2FBG0A%3D%3D) | 
-| 第42期棋聖戦　Sリーグ4回戦 | Kono Rin | Yamashita Keigo | W+R | 2017-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U0y%2Bg7WZRcizTod4KnvaLw%3D%3D) | 
-| 第43期天元戦準決勝 | Hsu Chiayuan | Yamashita Keigo | W+R | 2017-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DKrQmx56PoTcXGx%2BQUVmLw%3D%3D) | 
-| 第42期碁聖戦挑戦手合五番勝負　第三局 | Yamashita Keigo | Iyama Yuta | W+R | 2017-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jg%2FkqwLdZVz8QTmXdi4Riw%3D%3D) | 
-| 第42期碁聖戦挑戦手合五番勝負　第二局 | Iyama Yuta | Yamashita Keigo | B+R | 2017-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nxZ1%2FPTSJg7oPteL6z6C7A%3D%3D) | 
-| 第42期名人戦リーグ | Ko Iso | Yamashita Keigo | W+R | 2017-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UGGUZN8SiOQQIybXCEfQKw%3D%3D) | 
-| 第42期棋聖戦　Sリーグ3回戦 | Yamashita Keigo | Cho U | W+0.5 | 2017-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bTBQsaXZ4Hk1eVUg0qbt6Q%3D%3D) | 
-| 第42期碁聖戦挑戦手合五番勝負　第一局 | Yamashita Keigo | Iyama Yuta | W+R | 2017-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bJAWiWV%2BS81220QQCQfbHA%3D%3D) | 
-| 第43期天元戦3回戦 | Yamashita Keigo | Motoki Katsuya | B+R | 2017-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cKQfPU1cHuoluTsOfpo6zg%3D%3D) | 
-| 第42期棋聖戦　Sリーグ2回戦 | Ichiriki Ryo | Yamashita Keigo | B+R | 2017-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5lKOLC43iifTKW19dTC2fg%3D%3D) | 
-| 第42期名人戦リーグ | Iyama Yuta | Yamashita Keigo | B+R | 2017-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PZYrQOeYBzV5KLt8fL%2B5ow%3D%3D) | 
-| 第24期阿含・桐山杯　最終予選決勝 | Hsu Chiayuan | Yamashita Keigo | B+0.5 | 2017-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4Qy6oAjTZeNydnmmgNn3ww%3D%3D) | 
-| 第42期碁聖戦　挑戦者決定戦 | Yamashita Keigo | Motoki Katsuya | B+R | 2017-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rvLpWXKfG40pDc%2FyiwqYkQ%3D%3D) | 
-| 第42期名人戦リーグ | Yamashita Keigo | Hane Naoki | W+R | 2017-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q4nyUXySeXB0kD31jEdO3w%3D%3D) | 
-| 第42期棋聖戦　Sリーグ1回戦 | So Yokoku | Yamashita Keigo | W+R | 2017-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aHLKmnP87%2BkPoljoFovCVA%3D%3D) | 
-| 第43期天元戦　本戦2回戦第7局 | Ko Iso | Yamashita Keigo | W+R | 2017-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tIzgdlFdNyDjmsj%2FaVq%2FuQ%3D%3D) | 
-| 第42期名人戦リーグ | Cho U | Yamashita Keigo | W+R | 2017-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M86h09suVZku7xO15%2BE2xA%3D%3D) | 
-| 第72期本因坊戦　挑戦者決定リーグ最終戦 | Takao Shinji | Yamashita Keigo | W+R | 2017-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U0RQRCOHktuXPqAFueKDBQ%3D%3D) | 
-| 第42期名人戦リーグ | Yamashita Keigo | Kono Rin | B+R | 2017-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sroEI0fD1y%2FSH08wKew0Uw%3D%3D) | 
-| 第4回グランドチャンピオン戦　決勝 | Ichiriki Ryo | Yamashita Keigo | B+R | 2017-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UBdgFiuw862vf2wZNc25gw%3D%3D) | 
-| 第4回グランドチャンピオン戦　準決勝 | Iyama Yuta | Yamashita Keigo | W+R | 2017-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qnzI2Q5j2fEdxVXq%2FF86Kw%3D%3D) | 
-| 第65期王座戦　最終予選特選譜第7局 | Yamashita Keigo | Shibano Toramaru | W+4.5 | 2017-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jJCrWx36Il5qQcAC5Vz%2FQg%3D%3D) | 
-| 第72期本因坊戦　挑戦者決定リーグ第22局 | Yuki Satoshi | Yamashita Keigo | W+5.5 | 2017-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5lIgktHiXtlYlmBBsF6uRQ%3D%3D) | 
-| 第4回グランドチャンピオン戦　3回戦 | Onishi Ryuhei | Yamashita Keigo | W+R | 2017-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IT0hf8qbkT%2FitR48%2B6I%2F4A%3D%3D) | 
-| 第4回グランドチャンピオン戦　2回戦 | missing | Yamashita Keigo | W+R | 2017-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QNEjQ83U9ngoqugu9EgKKw%3D%3D) | 
-| 第42期名人戦リーグ | Yamashita Keigo | Yu Zhengqi | B+R | 2017-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZYZD0UNPX4mCjLjKQr0H7g%3D%3D) | 
-| 第72期本因坊戦　挑戦者決定リーグ第17局 | Yamashita Keigo | Motoki Katsuya | W+4.5 | 2017-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z%2B6kyQrBNxfADcIcuORzyg%3D%3D) | 
-| 第72期本因坊戦　挑戦者決定リーグ第15局 | Yamashita Keigo | Hane Naoki | B+R | 2017-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rP2MpL8XDuYbO12s75%2FhpQ%3D%3D) | 
-| 第42期名人戦リーグ | Sakai Hideyuki | Yamashita Keigo | W+R | 2017-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=otKGp0jQvDf8DpNzzEHVlA%3D%3D) | 
-| 第55期十段戦　準決勝 | Yamashita Keigo | Yu Zhengqi | W+1.5 | 2017-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UyWV8G0XowTajmkHJyOyew%3D%3D) | 
-| 第64回ＮＨＫ杯テレビ囲碁トーナメント3回戦第5局 | Yamashita Keigo | Hane Naoki | B+R | 2017-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sf6cLKw3Qk24jTPkacfdDw%3D%3D) | 
-| 第43期天元戦　本戦1回戦第6局 | Shida Tatsuya | Yamashita Keigo | W+R | 2016-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BDXA6Of9IVqbWcEzcaqYOA%3D%3D) | 
-| 第42期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | W+3.5 | 2016-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=drUL9rZFw%2Fv3SX6ma7aJFg%3D%3D) | 
-| 第72期本因坊戦　挑戦者決定リーグ第10局 | Mitani Tetsuya | Yamashita Keigo | W+0.5 | 2016-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eZq1mzZ4KLobV0KE8A0o%2BQ%3D%3D) | 
-| 第55期十段戦　準々決勝 | Yamashita Keigo | Takao Shinji | B+R | 2016-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Si4o%2FbJKHoTxFuq83osGEw%3D%3D) | 
-| 第72期本因坊戦　挑戦者決定リーグ第5局 | Yamashita Keigo | Ko Iso | W+R | 2016-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ak55XTY1Ez85ITunl2%2BJ%2Fg%3D%3D) | 
-| 第41期棋聖戦SA組リーグ戦決勝 | Cho U | Yamashita Keigo | B+5.5 | 2016-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y72V%2BFCih85A%2F4UkuAvaTg%3D%3D) | 
-| 第55期十段戦　本戦2回戦 | Hikosaka Naoto | Yamashita Keigo | W+R | 2016-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ldrMngM4oj2lfpBQ8kCuzQ%3D%3D) | 
-| 第72期本因坊戦　挑戦者決定リーグ第1局 | Cho U | Yamashita Keigo | B+R | 2016-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I%2Ft%2B0DKZ9yWeJHlIbwlvVg%3D%3D) | 
-| 第23期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Kono Rin | W+1.5 | 2016-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8F%2FBnzw73qdJt2B41gix%2Bg%3D%3D) | 
-| 第42期天元戦　準決勝第2局 | Yamashita Keigo | Hsu Chiayuan | B+R | 2016-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pSIB8J1Zr13hxXisGypXTQ%3D%3D) | 
-| 第64期王座戦準決勝 | Yamashita Keigo | Yu Zhengqi | W+R | 2016-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9nD%2BGb%2FDpxBQmrdU3Jxowg%3D%3D) | 
-| 第41期棋聖戦Sリーグ | Yamashita Keigo | Takao Shinji | B+R | 2016-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SfLLWG0dsTPlxO1Lvl1mdw%3D%3D) | 
-| 第41期名人戦リーグ | Yamashita Keigo | Cho U | B+R | 2016-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bFSPIg2qdZimd0MZFkqaZQ%3D%3D) | 
-| 第55期十段戦予選 | Hong Maleunsaem | Yamashita Keigo | W+R | 2016-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8lEO2rqZ9W5RlHFg%2FC9WkA%3D%3D) | 
-| 第64期王座戦2回戦 | Kono Rin | Yamashita Keigo | W+1.5 | 2016-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2sestnjCtmYm4OV68BmFyg%3D%3D) | 
-| 第41期棋聖戦Sリーグ | Yoda Norimoto | Yamashita Keigo | W+1.5 | 2016-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qIQdsfY5qPToC6IlNMlaIQ%3D%3D) | 
-| 第41期名人戦リーグ | Hane Naoki | Yamashita Keigo | W+R | 2016-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yvbGSWo2aBelbLnj%2FN43yw%3D%3D) | 
-| 第42期天元戦　準々決勝第2局 | Yamashita Keigo | Fujita Akihiko | B+R | 2016-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kxIT%2FBQhCdaJQuHspyUAGQ%3D%3D) | 
-| 第41期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | W+4.5 | 2016-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mlxwty%2Blacp164rmsOlNsQ%3D%3D) | 
-| 第41期棋聖戦Sリーグ | Kono Rin | Yamashita Keigo | B+R | 2016-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CEoa5JFICPFEp8EZh18e5g%3D%3D) | 
-| 第64期王座戦　本戦1回戦第3局 | Adachi Toshimasa | Yamashita Keigo | W+1.5 | 2016-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XeKgT3ALXxI28mfRNv0AoA%3D%3D) | 
-| 第23期阿含・桐山杯全日本早碁オープン戦予選 | Hoshino Masaki | Yamashita Keigo | W+R | 2016-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x9SHd9BmNa4rKbjyiM0m5A%3D%3D) | 
-| 第41期棋聖戦Sリーグ | Yamashita Keigo | Murakawa Daisuke | W+2.5 | 2016-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7CJS8DNstUk0uNKS907C8w%3D%3D) | 
-| 第41期碁聖戦挑戦者決定戦 | Yamashita Keigo | Murakawa Daisuke | W+4.5 | 2016-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oScewE1parkHu7%2FBc8OvtA%3D%3D) | 
-| 第41期名人戦リーグ | Ko Iso | Yamashita Keigo | B+1.5 | 2016-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RqDjf61Z5plbotilwOy2%2Fg%3D%3D) | 
-| 第41期碁聖戦本戦準決勝 | Yamashita Keigo | Sada Atsushi | B+R | 2016-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gpoFqgmxZho9bSnstGZ1Qw%3D%3D) | 
-| 第42期天元戦本戦2回戦 | Yamashita Keigo | Imamura Toshiya | B+R | 2016-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XJlnR2GsRUNNZu%2FLFL1N2w%3D%3D) | 
-| 第8回応氏杯世界選手権1回戦 | Shi Yue | Yamashita Keigo | B+R | 2016-04-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SOddAVsD6VEYxEhpgF2p%2FQ%3D%3D) | 
-| 第41期碁聖戦本戦3回戦 | Yamashita Keigo | Yu Zhengqi | B+1.5 | 2016-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CnfpK6spUxiwNq7Xxs3LHg%3D%3D) | 
-| 第41期名人戦リーグ | Kono Rin | Yamashita Keigo | W+R | 2016-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3pufMaiYtCr6Sqo4xcGR2g%3D%3D) | 
-| 第71期本因坊戦リーグ | Yamashita Keigo | Yu Zhengqi | B+0.5 | 2016-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xADIMUMH%2B5muvFzNSFaHbA%3D%3D) | 
-| 第41期名人戦リーグ | Yamashita Keigo | Uchida Shuhei | B+R | 2016-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k5vkbDnbofXIhHu%2B7VUsZQ%3D%3D) | 
-| 第64期王座戦予選 | Hsu Chiayuan | Yamashita Keigo | W+R | 2016-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=csPEazkYmqCwICePqK0%2FEg%3D%3D) | 
-| 第71期本因坊戦リーグ | Yamashita Keigo | Ida Atsushi | B+3.5 | 2016-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rscglNbZ98Lm5itqDLji2Q%3D%3D) | 
-| 第64期王座戦予選 | Fujimura Yosuke | Yamashita Keigo | W+R | 2016-02-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7PvHqtzkejTpSX104oLb%2BA%3D%3D) | 
-| 第40期棋聖戦挑戦手合七番勝負第4局 | Iyama Yuta | Yamashita Keigo | B+R | 2016-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YzI76UBIkGMye%2BeSrKWfRQ%3D%3D) | 
-| 第71期本因坊戦リーグ | Takao Shinji | Yamashita Keigo | B+7.5 | 2016-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zzTnkGtUKjFRTw5hZ%2FFT9w%3D%3D) | 
-| 第41期名人戦リーグ | Hirata Tomoya | Yamashita Keigo | W+3.5 | 2016-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t%2BnGTFhd6r2CNvRmVT1z0g%3D%3D) | 
-| 第40期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Iyama Yuta | W+R | 2016-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vEpEbzDqNQ0yBaV7kBABww%3D%3D) | 
-| 第40期棋聖戦挑戦手合七番勝負第2局 | Iyama Yuta | Yamashita Keigo | B+2.5 | 2016-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oA0PbGsv4mZg2zmWPE6U0Q%3D%3D) | 
-| 第41期碁聖戦本戦2回戦 | Hsu Chiayuan | Yamashita Keigo | W+1.5 | 2016-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XXASoH7txRVA%2F3xJN7JJ1A%3D%3D) | 
-| 第40期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Iyama Yuta | W+R | 2016-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vmcx%2FvzZUnIBc%2B1nIIOCqA%3D%3D) | 
-| 第71期本因坊戦リーグ | Ichiriki Ryo | Yamashita Keigo | B+4.5 | 2016-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=29167quPYHVdAGS%2BppC%2F1Q%3D%3D) | 
-| 第42期天元戦本戦1回戦 | Muramatsu Hiroki | Yamashita Keigo | W+R | 2015-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ppgr%2BktTXdGXO%2BwBWs2mzg%3D%3D) | 
-| 第71期本因坊戦リーグ | Cho U | Yamashita Keigo | W+R | 2015-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RIf7MjUT9VwI%2Be4EZEsVjQ%3D%3D) | 
-| 第64期王座戦予選 | Yamashita Keigo | Lee Ishu | B+R | 2015-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aOlFWY0g%2BsnBJdcNcCLJtA%3D%3D) | 
-| 第41期名人戦リーグ | Yamashita Keigo | Takao Shinji | W+R | 2015-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fQM2HdVaBz4nN7aakhC1Iw%3D%3D) | 
-| 第71期本因坊戦リーグ | Yamashita Keigo | Motoki Katsuya | W+1.5 | 2015-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D8YlRnz5Gety0%2BT%2Bx0ussQ%3D%3D) | 
-| 第40期棋聖戦挑戦者決定トーナメント | Murakawa Daisuke | Yamashita Keigo | W+R | 2015-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mVgSFP5udKbunQSiDRup2w%3D%3D) | 
-| 第54期十段戦2回戦 | Yamashita Keigo | Yu Zhengqi | W+1.5 | 2015-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hkxSNYEIXm%2FdtiThXhBpcw%3D%3D) | 
-| 第64期王座戦予選 | Yamashita Keigo | Hirata Tomoya | B+R | 2015-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lsdHY61bRc4gQmdmkvDDag%3D%3D) | 
-| 第54期十段戦1回戦 | Yoda Norimoto | Yamashita Keigo | W+R | 2015-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UF9sE29xElAO6Ee3QOq5jg%3D%3D) | 
-| 第71期本因坊戦リーグ | Yamashita Keigo | Kono Rin | B+R | 2015-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UmQ28mPILe10wlBFYRHcNg%3D%3D) | 
-| 第54期十段戦予選 | Yamashita Keigo | O Rissei | B+R | 2015-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OJEfd7O0C5lPgjd9yygQWw%3D%3D) | 
-| 第40期棋聖戦Sリーグ | Yoda Norimoto | Yamashita Keigo | W+2.5 | 2015-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vXgNI1yDw%2BdpIquVewKDtw%3D%3D) | 
-| 第41期天元戦本戦準決勝 | Yamashita Keigo | Yuki Satoshi | W+1.5 | 2015-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EmsPJ%2BzBzrzx1wNT9nPgjw%3D%3D) | 
-| 第40期棋聖戦Sリーグ | Yamashita Keigo | Takao Shinji | B+2.5 | 2015-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q%2Fevd9Ymw4etBlsjlzDNhg%3D%3D) | 
-| 第40期碁聖戦挑戦手合五番勝負第4局 | Yamashita Keigo | Iyama Yuta | W+R | 2015-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nRWtkTQEXqw%2F5YYm7A1TFQ%3D%3D) | 
-| 第40期名人戦挑戦者決定プレーオフ | Yamashita Keigo | Takao Shinji | W+5.5 | 2015-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vfNUD7uhF%2F1HIbHBmleRSg%3D%3D) | 
-| 第40期名人戦リーグ | Ko Iso | Yamashita Keigo | W+R | 2015-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rEG%2BzedNYnZ3vKDAQXPtdg%3D%3D) | 
-| 第40期碁聖戦挑戦手合五番勝負第3局 | Iyama Yuta | Yamashita Keigo | B+1.5 | 2015-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=67bdM9XH9RO6iWZ7RFBWew%3D%3D) | 
-| 第40期棋聖戦Sリーグ | Murakawa Daisuke | Yamashita Keigo | W+R | 2015-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mP2A1Hw82tiUflEgYcyF7A%3D%3D) | 
-| 第40期碁聖戦挑戦手合五番勝負第2局 | Yamashita Keigo | Iyama Yuta | B+R | 2015-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LgMJyPLTQr%2FbJNGF4P3m7A%3D%3D) | 
-| 第54期十段戦予選 | Han Zenki | Yamashita Keigo | W+R | 2015-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j%2BmSbUnorpJPwLkOSjCIyg%3D%3D) | 
-| 第41期天元戦本戦3回戦 | Yamashita Keigo | Kono Rin | B+R | 2015-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GO%2FNR20idCftR9vrUL%2FCBA%3D%3D) | 
-| 第40期名人戦リーグ | Yamashita Keigo | So Yokoku | B+R | 2015-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S2Zv0ElJehGsvQYXL2Utsw%3D%3D) | 
-| 第70期本因坊戦挑戦手合七番勝負第5局 | Yamashita Keigo | Iyama Yuta | W+R | 2015-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YJ97ViYxi%2BJ3hYEv%2B%2B8yGw%3D%3D) | 
-| 第40期碁聖戦挑戦手合五番勝負第1局 | Iyama Yuta | Yamashita Keigo | B+R | 2015-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6hE5RTdzF887N62NAsD2cQ%3D%3D) | 
-| 第22期阿含・桐山杯全日本早碁オープン戦予選 | Cho Riyu | Yamashita Keigo | B+R | 2015-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zgRhF%2BAFfHfy%2F7xZoW975g%3D%3D) | 
-| 第70期本因坊戦挑戦手合七番勝負第4局 | Iyama Yuta | Yamashita Keigo | W+R | 2015-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ExqtW7pAm1ywXPvfUmpFow%3D%3D) | 
-| 第40期棋聖戦Sリーグ | Kobayashi Satoru | Yamashita Keigo | W+R | 2015-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1omrxM6UoZ1aYVxXzGSzug%3D%3D) | 
-| 第70期本因坊戦挑戦手合七番勝負第3局 | Yamashita Keigo | Iyama Yuta | W+R | 2015-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3lbzE%2FkD3MHo0tKSXGVQAA%3D%3D) | 
-| 第40期名人戦リーグ | Yamashita Keigo | Hane Naoki | B+0.5 | 2015-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cLpwfspbysZ2n%2B2T9cPC3Q%3D%3D) | 
-| 第70期本因坊戦挑戦手合七番勝負第2局 | Iyama Yuta | Yamashita Keigo | B+R | 2015-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fY7KdwercCO%2Fm3RXUjIaKw%3D%3D) | 
-| 第40期棋聖戦Sリーグ | Yamashita Keigo | Yamashiro Hiroshi | W+1.5 | 2015-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BCWQOh1nNT%2F0mw7WIYNl0A%3D%3D) | 
-| 第40期碁聖戦挑戦者決定戦 | Kono Rin | Yamashita Keigo | W+R | 2015-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BjRg8kCjaTPxLizT6I5B1Q%3D%3D) | 
-| 第70期本因坊戦挑戦手合七番勝負第1局 | Yamashita Keigo | Iyama Yuta | W+R | 2015-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x0tyDx3q5aLEjgZ2Ag5l3w%3D%3D) | 
-| 第40期名人戦リーグ | Kono Rin | Yamashita Keigo | B+R | 2015-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5NyIC%2B9rvUyiYO%2FBPENa7g%3D%3D) | 
-| 第41期天元戦本戦2回戦 | Matsumoto Takehisa | Yamashita Keigo | W+R | 2015-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aLDLmZsj5c44iYY%2F1WbfHA%3D%3D) | 
-| 第40期碁聖戦本戦準決勝 | Murakawa Daisuke | Yamashita Keigo | W+R | 2015-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dFWw2q2OakkOTto4ZwI2YA%3D%3D) | 
-| 第54期十段戦予選 | Inaba Takahiro | Yamashita Keigo | W+R | 2015-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iVHkImzkBeX9VBesOBFAJw%3D%3D) | 
-| 第40期碁聖戦本戦3回戦 | Yamashita Keigo | Iwamaru Taira | B+3.5 | 2015-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hO9qP8Eb372PQK9PbuPpTg%3D%3D) | 
-| 第40期名人戦リーグ | Yamashita Keigo | Kanazawa Makoto | B+10.5 | 2015-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EQqXYYHpCZk%2FP4PTsiVDdA%3D%3D) | 
-| 第63期王座戦予選 | Kataoka Satoshi | Yamashita Keigo | B+1.5 | 2015-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dj5952%2BQFVdHkUEjGVFWEQ%3D%3D) | 
-| 第70期本因坊戦リーグ | Yamashita Keigo | Cho U | B+R | 2015-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hLSNT3YZ0LJJrjgUYdcHjw%3D%3D) | 
-| 第40期碁聖戦本戦2回戦 | Yamashita Keigo | Cho Riyu | B+R | 2015-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DqeW7cXmykcDxMWoJHYyBQ%3D%3D) | 
-| 第70期本因坊戦リーグ | Yamashita Keigo | Ryu Shikun | B+R | 2015-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M%2F4NC9hOawJj4YVEQGWRzA%3D%3D) | 
-| 第39期棋聖戦挑戦手合七番勝負第7局 | Iyama Yuta | Yamashita Keigo | B+5.5 | 2015-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nsywB2QPhRPyHwkluWey7A%3D%3D) | 
-| 第39期棋聖戦挑戦手合七番勝負第6局 | Yamashita Keigo | Iyama Yuta | B+R | 2015-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iRD%2B2CC8srio0pgfRltUzQ%3D%3D) | 
-| 第40期名人戦リーグ | Yamashita Keigo | Cho U | B+5.5 | 2015-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wYUoQoZbfZ4S3uRz%2Bcz7yA%3D%3D) | 
-| 第39期棋聖戦挑戦手合七番勝負第5局 | Iyama Yuta | Yamashita Keigo | W+R | 2015-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L5qe08eGpR0A%2FdzcAbBF2A%3D%3D) | 
-| 第39期棋聖戦挑戦手合七番勝負第4局 | Yamashita Keigo | Iyama Yuta | B+2.5 | 2015-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8SexSrHFfo55PROCiWhVtA%3D%3D) | 
-| 第70期本因坊戦リーグ | Mimura Tomoyasu | Yamashita Keigo | W+3.5 | 2015-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P88s0tVwniJWP5H6HFr9xw%3D%3D) | 
-| 第39期棋聖戦挑戦手合七番勝負第3局 | Iyama Yuta | Yamashita Keigo | B+1.5 | 2015-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sLzotiUGTJFLM%2Bp1ILEQDA%3D%3D) | 
-| 第39期棋聖戦挑戦手合七番勝負第2局 | Yamashita Keigo | Iyama Yuta | W+R | 2015-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YFDxngOpU1Fnr9kJyW989Q%3D%3D) | 
-| 第70期本因坊戦リーグ | Yamashita Keigo | Takao Shinji | B+R | 2015-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MfOmyHE8wXsOcNuhGYAbkw%3D%3D) | 
-| 第39期棋聖戦挑戦手合七番勝負第1局 | Iyama Yuta | Yamashita Keigo | B+0.5 | 2015-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bi7idrEDYj%2FRn0IZDZtgrA%3D%3D) | 
-| 第40期名人戦リーグ | Murakawa Daisuke | Yamashita Keigo | W+R | 2015-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jaBluJPjQPhly%2FRgVk6K%2BA%3D%3D) | 
-| 第40期名人戦リーグ | Takao Shinji | Yamashita Keigo | B+0.5 | 2014-12-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Si%2FcUk9HA4%2BDrdwSazN1sQ%3D%3D) | 
-| 第41期天元戦本戦1回戦 | Hane Naoki | Yamashita Keigo | W+R | 2014-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qk%2B0BQraZu56j9HW4GMBmg%3D%3D) | 
-| 第40期碁聖戦本戦1回戦 | Yamashita Keigo | Iguchi Hideichiro | B+R | 2014-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eEADRi871g4plteoKdVfFw%3D%3D) | 
-| 第70期本因坊戦リーグ | Ida Atsushi | Yamashita Keigo | B+1.5 | 2014-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T%2BgFpmhMdJ%2FbA%2FwAS2FPRg%3D%3D) | 
-| 第70期本因坊戦リーグ | Kono Rin | Yamashita Keigo | W+R | 2014-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jw3%2BRgeeLBxBKklvpupdTg%3D%3D) | 
-| 第39期棋聖戦挑戦者決定戦 | Yamashita Keigo | Murakawa Daisuke | B+R | 2014-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xyDPX%2B9rkuZ9sOhDfoZpFQ%3D%3D) | 
-| 第41期天元戦予選 | Cho Sonjin | Yamashita Keigo | W+R | 2014-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XQmCyxgopnriE3UeCSYO6w%3D%3D) | 
-| 第70期本因坊戦リーグ | Yu Zhengqi | Yamashita Keigo | W+R | 2014-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Brij%2FFyhCliEm9Qsvmmzhg%3D%3D) | 
-| 第39期棋聖戦Aリーグ | Yamashiro Hiroshi | Yamashita Keigo | W+R | 2014-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ggaH8XyhDJTIlcU8oaPOOQ%3D%3D) | 
-| 第41期天元戦予選 | Horimoto Mitsunari | Yamashita Keigo | W+R | 2014-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HaxH5rV46HNNenxCJOjAcA%3D%3D) | 
-| 第40期碁聖戦予選 | Yamashita Keigo | Otake Hideo | B+R | 2014-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r0RD88bFqbbxHjQUOaiwRg%3D%3D) | 
-| 第39期棋聖戦Aリーグ | Yamashita Keigo | Hane Naoki | B+R | 2014-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RFcflFHU4IsMzrVP7Y4fUw%3D%3D) | 
-| 第21期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Kono Rin | W+R | 2014-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oDHMc3igImadCAs7C%2BnzdQ%3D%3D) | 
-| 第53期十段戦予選 | Shida Tatsuya | Yamashita Keigo | B+R | 2014-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fN8msUtDKOqL00gtcUcUlA%3D%3D) | 
-| 第21期阿含・桐山杯全日本早碁オープン戦2回戦 | Yamashita Keigo | Murakawa Daisuke | B+5.5 | 2014-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2sbBWr9%2B0QXLu0660dJHQA%3D%3D) | 
-| 第39期名人戦挑戦者決定プレーオフ | Kono Rin | Yamashita Keigo | B+0.5 | 2014-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JMkQEb3ow7REmNoiJdIP9A%3D%3D) | 
-| 第39期名人戦リーグ | Murakawa Daisuke | Yamashita Keigo | B+6.5 | 2014-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FiMq9z93PdkRn9VZriI22w%3D%3D) | 
-| 第39期棋聖戦Aリーグ | Kono Rin | Yamashita Keigo | W+R | 2014-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LcwyvGGCW4B%2F%2FFvBwKPjlw%3D%3D) | 
-| 第21期阿含・桐山杯全日本早碁オープン戦1回戦 | Kiyonari Tetsuya | Yamashita Keigo | W+0.5 | 2014-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zWSuexXVamP40WHwSG8wUA%3D%3D) | 
-| 第39期名人戦リーグ | Yamashita Keigo | Cho U | W+1.5 | 2014-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e%2FS7iJ9UY4mOw9ES%2FfWrgw%3D%3D) | 
-| 第39期棋聖戦Aリーグ | Yamashita Keigo | Takao Shinji | B+R | 2014-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Axhx7lJbc30R09YoWReuA%3D%3D) | 
-| 第62期王座戦1回戦 | Yamashita Keigo | Rin Kanketsu | W+5.5 | 2014-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PTUaDMRDu1kSYoleKX5%2BDQ%3D%3D) | 
-| 第19回LG杯朝鮮日報棋王戦1回戦 | Yamashita Keigo | An Dongxu | W+5.5 | 2014-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HLc6e312iNHrvhlKnwNiGg%3D%3D) | 
-| 第39期名人戦リーグ | Yamashita Keigo | Yuki Satoshi | B+R | 2014-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BgUYcA1VZPH3lurzFC6lBg%3D%3D) | 
-| 第39期棋聖戦Aリーグ | Yamashita Keigo | Ichiriki Ryo | B+R | 2014-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qU4HwgHYX99RCYgpllZIjg%3D%3D) | 
-| 第40期天元戦本戦2回戦 | Kanazawa Makoto | Yamashita Keigo | B+9.5 | 2014-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JfkeeshxIZaKQVz4M6E7iQ%3D%3D) | 
-| 第21期阿含・桐山杯全日本早碁オープン戦予選 | Ryu Shikun | Yamashita Keigo | W+R | 2014-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jst%2Fdn05Y3I%2FoxYz9AlLrg%3D%3D) | 
-| 第39期名人戦リーグ | Ryu Shikun | Yamashita Keigo | W+R | 2014-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0r3WrA3EO2PLNVvkkH4X8A%3D%3D) | 
-| 第40期天元戦本戦1回戦 | Yamashita Keigo | Kono Takashi | B+6.5 | 2014-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CMxwEIewKNOGCtZDlw9lhA%3D%3D) | 
-| 第39期名人戦リーグ | Kono Rin | Yamashita Keigo | W+3.5 | 2014-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bv36dem7QSjayYvqWjATdQ%3D%3D) | 
-| 第69期本因坊戦挑戦者決定プレーオフ | Yamashita Keigo | Ida Atsushi | W+5.5 | 2014-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NUqtA0JBrcjOGt6tJ7fpHQ%3D%3D) | 
-| 第69期本因坊戦リーグ | Yamashita Keigo | Ida Atsushi | W+0.5 | 2014-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tEC6RwnenjgbgTuPcxvXOg%3D%3D) | 
-| 第10回春蘭杯世界囲碁選手権1回戦 | Tang Weixing | Yamashita Keigo | B+R | 2014-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D0AjxmoyWRb%2Bmkzw9UDkGw%3D%3D) | 
-| 第38期棋聖戦挑戦手合七番勝負第6局 | Iyama Yuta | Yamashita Keigo | B+R | 2014-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6gpgaKbmmnDDRlshBW9FBA%3D%3D) | 
-| 第69期本因坊戦リーグ | Sakai Hideyuki | Yamashita Keigo | W+R | 2014-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rwN%2F2a5pIiwipoY6rvg1fw%3D%3D) | 
-| 第38期棋聖戦挑戦手合七番勝負第5局 | Yamashita Keigo | Iyama Yuta | B+3.5 | 2014-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hTiMco6GC5hM9xja6gHNrw%3D%3D) | 
-| 第38期棋聖戦挑戦手合七番勝負第4局 | Iyama Yuta | Yamashita Keigo | W+0.5 | 2014-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=731%2BXCPheOYivEmOtLeHXQ%3D%3D) | 
-| 第39期名人戦リーグ | Yamashita Keigo | Ko Iso | B+R | 2014-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vwInO8cGjw6S5CETC7XHbA%3D%3D) | 
-| 第69期本因坊戦リーグ | Yamashita Keigo | Kono Rin | B+1.5 | 2014-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QsSlSQnCaMINGBeWlM1c7w%3D%3D) | 
-| 第38期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Iyama Yuta | W+R | 2014-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Rxj7f094NwQDPjy6nq%2BTQ%3D%3D) | 
-| 第38期棋聖戦挑戦手合七番勝負第2局 | Iyama Yuta | Yamashita Keigo | B+R | 2014-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Im5rD7QUEz6zaSwmX0wWpA%3D%3D) | 
-| 第69期本因坊戦リーグ | Yu Zhengqi | Yamashita Keigo | W+R | 2014-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m2NIh1WGmA%2B17lWYVM90bw%3D%3D) | 
-| 第39期名人戦リーグ | Yamashita Keigo | Takao Shinji | B+R | 2014-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YRUQ1bahCbvm7ijmI%2BVneA%3D%3D) | 
-| 第38期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Iyama Yuta | W+0.5 | 2014-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T%2FxfJp2vR0uL6OQwepnIxA%3D%3D) | 
-| 第69期本因坊戦リーグ | Yuki Satoshi | Yamashita Keigo | W+R | 2013-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YafRnSFEw%2BTYHm0%2Foqz1hg%3D%3D) | 
-| 第39期名人戦リーグ | Hane Naoki | Yamashita Keigo | W+R | 2013-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dRIvOBFjZzQ5ZgGIHdI97w%3D%3D) | 
-| 第39期碁聖戦本戦1回戦 | Ohba Junya | Yamashita Keigo | B+1.5 | 2013-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MVxZEmZ47akjmlQ6vfJXow%3D%3D) | 
-| 第38期棋聖戦挑戦者決定戦 | Murakawa Daisuke | Yamashita Keigo | W+R | 2013-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z%2FZJkzKsT7hB6BYknpHcfA%3D%3D) | 
-| 第69期本因坊戦リーグ | Yamashita Keigo | Cho U | B+R | 2013-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lE0ycSgg6THKferKlHEzgg%3D%3D) | 
-| 第69期本因坊戦リーグ | Takao Shinji | Yamashita Keigo | W+R | 2013-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2rnDafkvaMm3AwLlPt%2BqzQ%3D%3D) | 
-| 第38期名人戦挑戦手合七番勝負第5局 | Iyama Yuta | Yamashita Keigo | B+4.5 | 2013-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K9QRFE3Fu%2FD0nMnSW1NBqw%3D%3D) | 
-| 第38期名人戦挑戦手合七番勝負第4局 | Yamashita Keigo | Iyama Yuta | W+R | 2013-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kZ5EiDiJtKftsoE%2BoROcTA%3D%3D) | 
-| 第38期棋聖戦Aリーグ | Kiyonari Tetsuya | Yamashita Keigo | W+1.5 | 2013-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LvjfaUNIt2xElVG6tvqz1w%3D%3D) | 
-| 第38期名人戦挑戦手合七番勝負第3局 | Iyama Yuta | Yamashita Keigo | B+1.5 | 2013-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zJifRM92iGQrEQ8uMb%2BMcw%3D%3D) | 
-| 第38期名人戦挑戦手合七番勝負第2局 | Yamashita Keigo | Iyama Yuta | W+R | 2013-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KOk2jTNVwOij2BDmJ4CBwA%3D%3D) | 
-| 第39期天元戦挑戦者決定戦 | Akiyama Jiro | Yamashita Keigo | B+R | 2013-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qwEsTbh50AirwEYkJMKNBw%3D%3D) | 
-| 第38期名人戦挑戦手合七番勝負第1局 | Iyama Yuta | Yamashita Keigo | W+R | 2013-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XWzaW0rORMMNFuvgFx25bg%3D%3D) | 
-| 第61期王座戦準決勝 | Cho U | Yamashita Keigo | B+R | 2013-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FwvyUBI%2FZ2JZkmwHdWn9Dg%3D%3D) | 
-| 第39期天元戦本戦準決勝 | Yamashita Keigo | Cho U | B+R | 2013-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OQ7lbKEwRgQQN8O6rP2AJA%3D%3D) | 
-| 第38期棋聖戦Aリーグ | Kobayashi Satoru | Yamashita Keigo | W+R | 2013-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8fyoBDLX3993X%2FAOxVA%2F4A%3D%3D) | 
-| 第39期天元戦本戦3回戦 | Yamashita Keigo | Ryu Shikun | B+R | 2013-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TJWeuX%2FoKILz%2BPaJi5ZWLA%3D%3D) | 
-| 第38期棋聖戦Aリーグ | Yamashita Keigo | Yamashiro Hiroshi | W+3.5 | 2013-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hhUbdgp%2BuoHrDvsTZ5knzQ%3D%3D) | 
-| 第61期王座戦2回戦 | Yamashita Keigo | Seto Taiki | B+R | 2013-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rJ6NfCi9GIlIu0xlrjE6ZA%3D%3D) | 
-| 第1回夢百合杯世界オープン戦1回戦 | An Dongxu | Yamashita Keigo | B+3.5 | 2013-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lCwRD7vtZKd0K9a0HzkH6A%3D%3D) | 
-| 第52期十段戦予選 | Nakano Hironari | Yamashita Keigo | B+R | 2013-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=59pfpwTdw0tkcQfdXIpj2w%3D%3D) | 
-| 第20期阿含・桐山杯全日本早碁オープン戦1回戦 | Yamashita Keigo | Tsuruyama Atsushi | W+R | 2013-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dw74aHdKngdAxOJSUzIOmw%3D%3D) | 
-| 第38期棋聖戦Aリーグ | Cho U | Yamashita Keigo | W+3.5 | 2013-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SEGtDywJWAR9uYoHbVWNrA%3D%3D) | 
-| 第61期王座戦1回戦 | Yamashita Keigo | Yoda Norimoto | B+R | 2013-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yzQh0YFii5VJHPAc8l05mA%3D%3D) | 
-| 第39期天元戦本戦2回戦 | Yamashita Keigo | Uchida Shuhei | B+9.5 | 2013-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B9NKp3zS1qa2jTNhdVO95w%3D%3D) | 
-| 第38期棋聖戦Aリーグ | Yamashita Keigo | Yoda Norimoto | B+5.5 | 2013-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MSLsZRzd4RxXYfOdCtqxtw%3D%3D) | 
-| 第38期碁聖戦本戦3回戦 | Yamashita Keigo | Matsumoto Takehisa | W+R | 2013-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YOYfQbtgX8a4SeZ7SapKrQ%3D%3D) | 
-| 第68期本因坊戦リーグ | Cho U | Yamashita Keigo | W+R | 2013-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W4DAKlDCu1trWF%2BTn8IvpA%3D%3D) | 
-| 第68期本因坊戦リーグ | Yamashita Keigo | Imamura Toshiya | W+0.5 | 2013-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VsRaPiEsDwwlETVjVU65ww%3D%3D) | 
-| 第38期碁聖戦本戦2回戦 | Yamashita Keigo | Nakane Naoyuki | B+R | 2013-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P5bgd0V%2BpDGmIHnZTgzJ7w%3D%3D) | 
-| 第68期本因坊戦リーグ | Yamashita Keigo | Takao Shinji | W+R | 2013-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BrhRHMZ8rV6CVgveREWWkw%3D%3D) | 
-| 第39期天元戦本戦1回戦 | Yamashita Keigo | Nakane Naoyuki | B+R | 2013-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nvOKVP6CsQvCZ7eWi7fsiw%3D%3D) | 
-| 第68期本因坊戦リーグ | Ko Iso | Yamashita Keigo | W+R | 2013-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Uaw3M31NTLHhI%2FanxWXR%2FA%3D%3D) | 
-| 第68期本因坊戦リーグ | Yamashita Keigo | Seto Taiki | B+R | 2012-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EzpNZbWmHRqXRA9jj2FaPA%3D%3D) | 
-| 第38期碁聖戦本戦1回戦 | Mitani Tetsuya | Yamashita Keigo | W+1.5 | 2012-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sT5jRd%2FdvAvbSpzRH8UmeQ%3D%3D) | 
-| 第68期本因坊戦リーグ | Yamashita Keigo | Yuki Satoshi | B+R | 2012-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bkjbpDAdtsx1oPAGwhCIOQ%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン1回戦 | Yamashita Keigo | Oya Koichi | W+R | 2012-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3LxDO3lpQJ3bHCrEFZqF1w%3D%3D) | 
-| 第37期名人戦挑戦手合七番勝負第7局 | Hane Naoki | Yamashita Keigo | W+R | 2012-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B5iryI8JuH2euYd%2FrUpFtg%3D%3D) | 
-| 第37期名人戦挑戦手合七番勝負第6局 | Yamashita Keigo | Hane Naoki | W+R | 2012-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KHhMJFagYhr1Q4pWB5eb6g%3D%3D) | 
-| 第68期本因坊戦リーグ | Cho Sonjin | Yamashita Keigo | W+0.5 | 2012-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qWvcPdH%2Fk1%2FIM1gN30TpJg%3D%3D) | 
-| 第37期名人戦挑戦手合七番勝負第5局 | Hane Naoki | Yamashita Keigo | W+R | 2012-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OKTJRIFJoBxxvZa0wxnuew%3D%3D) | 
-| 第37期名人戦挑戦手合七番勝負第4局 | Yamashita Keigo | Hane Naoki | B+R | 2012-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tzcyK0UPtN1ntzQLzfUWoQ%3D%3D) | 
-| 第37期棋聖戦Aリーグ | Kono Rin | Yamashita Keigo | B+1.5 | 2012-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U1ruVz7vlUm%2FwL5nM16Ghg%3D%3D) | 
-| 第37期名人戦挑戦手合七番勝負第3局 | Hane Naoki | Yamashita Keigo | B+R | 2012-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7VwV4cUHkVDtBONc8tklGw%3D%3D) | 
-| 第37期名人戦挑戦手合七番勝負第2局 | Yamashita Keigo | Hane Naoki | W+R | 2012-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IjRCb6MPq6yVg5UU7EiYRw%3D%3D) | 
-| 第3回世界囲碁名人争覇戦 | Yamashita Keigo | Jiang Weijie | W+R | 2012-09-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MKi3S9a41o4JzM1tgrrKww%3D%3D) | 
-| 第37期名人戦挑戦手合七番勝負第1局 | Hane Naoki | Yamashita Keigo | W+R | 2012-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fde8dwCtFKgq87LK%2BPfAWg%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権2回戦 | Xie Erhao | Yamashita Keigo | B+11.5 | 2012-08-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=je6zXuKipoosA9lLoyP8FQ%3D%3D) | 
-| 第37期棋聖戦Aリーグ | O Meien | Yamashita Keigo | W+6.5 | 2012-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=miJnmCnLsqfV3FsOO0rQhQ%3D%3D) | 
-| 第51期十段戦予選 | Kato Atsushi | Yamashita Keigo | B+R | 2012-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lx3k1ggDXx5yABougov2HA%3D%3D) | 
-| 第37期棋聖戦Aリーグ | Yamashita Keigo | Kobayashi Satoru | B+R | 2012-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=knziTUwE21IAxwNd9KYaZg%3D%3D) | 
-| 第19期阿含・桐山杯全日本早碁オープン戦1回戦 | Iyama Yuta | Yamashita Keigo | B+R | 2012-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r1DnnMPef06rS6xk94fRkQ%3D%3D) | 
-| 第67期本因坊戦挑戦手合七番勝負第7局 | Yamashita Keigo | Iyama Yuta | W+7.5 | 2012-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PCDGDmX1EA8gx%2FLtaACqAg%3D%3D) | 
-| 第67期本因坊戦挑戦手合七番勝負第6局 | Yamashita Keigo | Iyama Yuta | B+R | 2012-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BJLayUjhVdx7aPfRq2l%2BKw%3D%3D) | 
-| 第51期十段戦予選 | Yun Chunho | Yamashita Keigo | W+R | 2012-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hr8nEZflm4obNlfyaH5%2FkQ%3D%3D) | 
-| 第67期本因坊戦挑戦手合七番勝負第5局 | Iyama Yuta | Yamashita Keigo | B+R | 2012-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=90Od%2BuR2pUtgK0gW0k9E7w%3D%3D) | 
-| 第67期本因坊戦挑戦手合七番勝負第4局 | Yamashita Keigo | Iyama Yuta | B+R | 2012-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8MPwEACPHGCvlKHkCB6qYw%3D%3D) | 
-| 第37期棋聖戦Aリーグ | Takao Shinji | Yamashita Keigo | B+R | 2012-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TnfDTuDeaCn2VnNtBelI2g%3D%3D) | 
-| 第60期王座戦1回戦 | Yamashita Keigo | Tsuruyama Atsushi | W+11.5 | 2012-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IkXKL53iYvAhGL2NSOxEqQ%3D%3D) | 
-| 第67期本因坊戦挑戦手合七番勝負第3局 | Iyama Yuta | Yamashita Keigo | W+R | 2012-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0xGn2qx7Bppf6FRMY6ARQA%3D%3D) | 
-| 第67期本因坊戦挑戦手合七番勝負第2局 | Yamashita Keigo | Iyama Yuta | W+5.5 | 2012-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7EiT5MerH7PWl3SZgF0rnQ%3D%3D) | 
-| 第37期棋聖戦Aリーグ | Yamashita Keigo | Ryu Shikun | B+8.5 | 2012-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hadaxXozvF1J50fKPzHZAA%3D%3D) | 
-| 第67期本因坊戦挑戦手合七番勝負第1局 | Iyama Yuta | Yamashita Keigo | B+R | 2012-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Zx69w%2FWaG0w5cehNW%2FF6Q%3D%3D) | 
-| 第37期碁聖戦挑戦者決定戦 | Iyama Yuta | Yamashita Keigo | B+12.5 | 2012-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X9QLxuTT3xxfFZ4a89OuDg%3D%3D) | 
-| 第38期天元戦本戦3回戦 | Anzai Nobuaki | Yamashita Keigo | B+R | 2012-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5wrxMTVx6XfAr8xWfm8prA%3D%3D) | 
-| 第37期碁聖戦本戦準決勝 | Yamashita Keigo | Hikosaka Naoto | B+R | 2012-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YIOkKhrru5mk8S%2BRQ7TaGQ%3D%3D) | 
-| 第9回春蘭杯世界囲碁選手権1回戦 | Qiu Jun | Yamashita Keigo | B+5.5 | 2012-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cq55AUa96ctY82x1NsKWUQ%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権1回戦 | Kim Seongjae | Yamashita Keigo | W+0.5 | 2012-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UHHNYS%2F2ENpvXkWHigtAuQ%3D%3D) | 
-| 第38期天元戦本戦2回戦 | Honda Kunihisa | Yamashita Keigo | W+R | 2012-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7wE4aUxHJtBatrQQFGp5iA%3D%3D) | 
-| 第4回BCカード杯世界選手権1回戦 | Yamashita Keigo | Meng Tailing | W+R | 2012-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8P3fh8lO5blvskT7Dwuywg%3D%3D) | 
-| 第37期碁聖戦本戦3回戦 | Yamashita Keigo | Yamada Noriyoshi | B+R | 2012-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Aba%2F40FHB3QOozsaYTOcfQ%3D%3D) | 
-| 第38期天元戦本戦1回戦 | Yanaka Katsunori | Yamashita Keigo | W+R | 2012-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q2a%2FGSDd%2BmS2baeE2rKHdQ%3D%3D) | 
-| 第37期碁聖戦本戦2回戦 | Rin Kanketsu | Yamashita Keigo | W+R | 2012-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o%2BGFcDScpbfbdtAh9Sd%2BMg%3D%3D) | 
-| 第1回スポーツアコードワールドマインドゲームズ囲碁団体戦 | Catalin Taranu | Yamashita Keigo | W+R | 2011-12-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aqKaHSazn2A39zSelmOplg%3D%3D) | 
-| 第1回スポーツアコードワールドマインドゲームズ囲碁団体戦 | Yamashita Keigo | Jiang Mingjiu | B+R | 2011-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IN7TpmEnLb1xTtyxsRmzQg%3D%3D) | 
-| 第13回農心辛ラーメン杯世界囲碁最強戦第9戦 | Yamashita Keigo | Kim Jiseok | W+R | 2011-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x7cdbCVbaqY7UPIX9Yq%2FNw%3D%3D) | 
-| 第37期碁聖戦本戦1回戦 | Anzai Nobuaki | Yamashita Keigo | W+R | 2011-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=06ySlo2%2ByD5LKCSS4l00jQ%3D%3D) | 
-| 第36期名人戦挑戦手合七番勝負第6局 | Iyama Yuta | Yamashita Keigo | W+3.5 | 2011-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=roZ9afpdV7J4%2FK2i8drZoA%3D%3D) | 
-| 第36期名人戦挑戦手合七番勝負第5局 | Yamashita Keigo | Iyama Yuta | W+R | 2011-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sva2gn9jPZ6FdsJy44defg%3D%3D) | 
-| 第36期名人戦挑戦手合七番勝負第4局 | Iyama Yuta | Yamashita Keigo | W+R | 2011-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aotkUAbdbqaz%2FP411KbcOg%3D%3D) | 
-| 第18期阿含・桐山杯全日本早碁オープン戦決勝 | Iyama Yuta | Yamashita Keigo | B+R | 2011-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O673wMYMowSaG5oy1GRFSg%3D%3D) | 
-| 第36期棋聖戦Aリーグ | Hane Naoki | Yamashita Keigo | W+R | 2011-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wvtjNyWYOzIdFU94qhlYbQ%3D%3D) | 
-| 第31期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Cho Chikun | W+R | 2011-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4dDbYwyomQmd9vVMhW198Q%3D%3D) | 
-| 第36期名人戦挑戦手合七番勝負第3局 | Yamashita Keigo | Iyama Yuta | B+R | 2011-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yCwUQHU2ojsjkb4Xzj4PQQ%3D%3D) | 
-| 第36期名人戦挑戦手合七番勝負第2局 | Iyama Yuta | Yamashita Keigo | B+R | 2011-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rpjO8Of8WWFK6l1ymrmJPw%3D%3D) | 
-| 第50期十段戦1回戦 | Murakawa Daisuke | Yamashita Keigo | B+0.5 | 2011-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m%2FnFNOhIxA%2BfOCuPwmu5VA%3D%3D) | 
-| 第36期名人戦挑戦手合七番勝負第1局 | Yamashita Keigo | Iyama Yuta | B+5.5 | 2011-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gL18Fa2EK2MB3mMcwllc7A%3D%3D) | 
-| 第36期棋聖戦Aリーグ | Yamashita Keigo | Iyama Yuta | W+R | 2011-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s1yLb1SFZ3demabjZb56Dg%3D%3D) | 
-| 第18期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Kim Sujun | B+R | 2011-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lPP0wctuyFRhPUTSA8aIKQ%3D%3D) | 
-| 第7回大和証券杯ネット囲碁オープン1回戦 | Takao Shinji | Yamashita Keigo | B+R | 2011-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FdhZU7Jenc79swkjJbiwsw%3D%3D) | 
-| 第31期NECカップ囲碁トーナメント戦1回戦 | O Meien | Yamashita Keigo | W+5.5 | 2011-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V8C747caoUxuMg7QtaOcQQ%3D%3D) | 
-| 第24回世界囲碁選手権富士通杯1回戦 | Yamashita Keigo | Cho Chikun | W+8.5 | 2011-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dDdXHnLRppY5LX5icIvdnw%3D%3D) | 
-| 第36期名人戦挑戦者決定プレーオフ | Yamashita Keigo | Hane Naoki | B+R | 2011-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R8aFGqc266ukU9SqfVKvWA%3D%3D) | 
-| 第36期名人戦リーグ | Yuki Satoshi | Yamashita Keigo | W+R | 2011-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BZpm5Bzmd9m4POzVPkB2uw%3D%3D) | 
-| 第36期棋聖戦Aリーグ | Yamashita Keigo | Kato Atsushi | B+R | 2011-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iWQ3oKszTvkm0wbksLfWDw%3D%3D) | 
-| 第18期阿含・桐山杯全日本早碁オープン戦2回戦 | Ha Sungbong | Yamashita Keigo | W+R | 2011-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a1RaWqwJCPfMPmQFTNrsBg%3D%3D) | 
-| 第66期本因坊戦挑戦手合七番勝負第7局 | Hane Naoki | Yamashita Keigo | W+4.5 | 2011-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cAj10zsdZ5t54vRWop7CfQ%3D%3D) | 
-| 第66期本因坊戦挑戦手合七番勝負第6局 | Yamashita Keigo | Hane Naoki | W+7.5 | 2011-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XOxSe4NdPf%2FfiAetUzLj%2Fg%3D%3D) | 
-| 第36期名人戦リーグ | Takao Shinji | Yamashita Keigo | W+3.5 | 2011-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YXqY%2B5EMt2kWezrqRDvP0Q%3D%3D) | 
-| 第18期阿含・桐山杯全日本早碁オープン戦1回戦 | Takao Shinji | Yamashita Keigo | W+R | 2011-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e0aInbZhMp8a9hByFsCT8Q%3D%3D) | 
-| 第66期本因坊戦挑戦手合七番勝負第5局 | Hane Naoki | Yamashita Keigo | B+R | 2011-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w4u1JLxNlYvBnJ1vIK538A%3D%3D) | 
-| 第37期天元戦本戦準決勝 | O Meien | Yamashita Keigo | B+R | 2011-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z74gAIleV1qNHJxzJUNhFw%3D%3D) | 
-| 第66期本因坊戦挑戦手合七番勝負第4局 | Yamashita Keigo | Hane Naoki | W+0.5 | 2011-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g%2FR4WUdwULNObvdhZRGiKw%3D%3D) | 
-| 第36期棋聖戦Aリーグ | Yamashita Keigo | Seto Taiki | B+R | 2011-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sz6AxPjkNCFKrok0v0wJGQ%3D%3D) | 
-| 第66期本因坊戦挑戦手合七番勝負第3局 | Hane Naoki | Yamashita Keigo | W+1.5 | 2011-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GTZbWD8DP2jsKQx0bLWbEA%3D%3D) | 
-| 第7回大和証券杯ネット囲碁オープン予選 | Ohba Junya | Yamashita Keigo | W+R | 2011-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bca15ucv2ayjpZnFPWmgvg%3D%3D) | 
-| 第66期本因坊戦挑戦手合七番勝負第2局 | Yamashita Keigo | Hane Naoki | B+R | 2011-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uqYG0IA5ewvUlbETLCgcQw%3D%3D) | 
-| 第59期王座戦2回戦 | Yamashita Keigo | Yamada Kimio | W+R | 2011-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d9sRnrjR9n%2F2UYFBnkv4yQ%3D%3D) | 
-| 第36期棋聖戦Aリーグ | Kono Rin | Yamashita Keigo | B+R | 2011-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1NOWZIJVmHTNws%2FtlhFI%2BQ%3D%3D) | 
-| 第66期本因坊戦挑戦手合七番勝負第1局 | Hane Naoki | Yamashita Keigo | W+7.5 | 2011-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uD9REBW1VeLh98Utsd%2BjrA%3D%3D) | 
-| 第36期名人戦リーグ | Yamashita Keigo | Cho Chikun | B+R | 2011-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t4XinJhkNBxTCfwRJr1xwg%3D%3D) | 
-| 第36期碁聖戦本戦準決勝 | Rin Shien | Yamashita Keigo | B+R | 2011-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FdyEL%2FdNPoEiOBtX8O%2Ffng%3D%3D) | 
-| 第59期王座戦1回戦 | Yamashiro Hiroshi | Yamashita Keigo | W+5.5 | 2011-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uSVuP1%2F3Avf7BBykbIsIZg%3D%3D) | 
-| 第36期名人戦リーグ | Yamashita Keigo | Cho U | W+R | 2011-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pelgUL5VB1It2gg0g83Pdw%3D%3D) | 
-| 第37期天元戦本戦3回戦 | Yamada Takuji | Yamashita Keigo | W+R | 2011-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wYtPeM8inuPtn36OKotVcA%3D%3D) | 
-| 第36期碁聖戦本戦3回戦 | O Meien | Yamashita Keigo | W+R | 2011-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z57DC6S3HLM6nFwNdo151A%3D%3D) | 
-| 第30期NECカップ囲碁トーナメント戦決勝 | Yamashita Keigo | Cho U | W+R | 2011-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LEiCPZG8xU%2B9ttZQQ4%2FzLg%3D%3D) | 
-| 第36期名人戦リーグ | Yamashita Keigo | Rin Kanketsu | B+R | 2011-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tyi1Lq0PTNisdczxZPbIVQ%3D%3D) | 
-| 第37期天元戦本戦2回戦 | Yamashiro Hiroshi | Yamashita Keigo | W+R | 2011-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f%2FSv%2BpM9ybJJU2L9iCkiaA%3D%3D) | 
-| 第30期NECカップ囲碁トーナメント戦準決勝 | Yamashita Keigo | O Meien | B+R | 2011-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L%2F5E02F7GIRtqRvXGT37FA%3D%3D) | 
-| 第36期名人戦リーグ | Hane Naoki | Yamashita Keigo | B+6.5 | 2011-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FYhT2UjDhDA1fPkSIkk8Zw%3D%3D) | 
-| 第37期天元戦本戦1回戦 | Yamashita Keigo | Rin Kanketsu | B+6.5 | 2011-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AWjnfwdOyXl2zT6rbiqroQ%3D%3D) | 
-| 第36期名人戦リーグ | Yamashita Keigo | Sakai Hideyuki | B+R | 2011-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ta4OUb%2BTDFvgBQij0%2FZF8g%3D%3D) | 
-| 第36期碁聖戦本戦2回戦 | Shuto Shun | Yamashita Keigo | W+R | 2011-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ApdODgd7d6yDucGpUKZ8RQ%3D%3D) | 
-| 第12回阿含・桐山杯日中決戦 | Yamashita Keigo | Qiu Jun | W+R | 2010-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MEE1Eti%2BIC1z4p7pnuI9uA%3D%3D) | 
-| 第49期十段戦敗者復活戦4回戦 | Yamashita Keigo | Takao Shinji | W+R | 2010-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aWrnurJOpO2CbiAHNj4%2FmA%3D%3D) | 
-| 第36期名人戦リーグ | Mizokami Tomochika | Yamashita Keigo | W+4.5 | 2010-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dYH%2F%2FO9%2FfXd2wjY%2FDBG8Mw%3D%3D) | 
-| 2010年アジア競技大会囲碁男子団体戦 | Yamashita Keigo | Cho U | W+2.5 | 2010-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qu%2FZUR6OJ7MBJSq2JMdjyg%3D%3D) | 
-| 2010年アジア競技大会囲碁男子団体戦 | Cho U | Yamashita Keigo | B+1.5 | 2010-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B0lr2TM4GaNNgJlAsroFWg%3D%3D) | 
-| 2010年アジア競技大会囲碁男子団体戦 | Yamashita Keigo | Gu Li | B+7.5 | 2010-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ooRw8kGgIki44Tg3dT0%2Fuw%3D%3D) | 
-| 2010年アジア競技大会囲碁男子団体戦 | Lee Changho | Yamashita Keigo | W+R | 2010-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6iafbfzBfbSV1Bdl%2F8S6aA%3D%3D) | 
-| 第36期天元戦挑戦手合五番勝負第3局 | Yuki Satoshi | Yamashita Keigo | B+2.5 | 2010-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s0uHtm%2FGj5iGBZmP%2F0QLfQ%3D%3D) | 
-| 第36期天元戦挑戦手合五番勝負第2局 | Yamashita Keigo | Yuki Satoshi | W+2.5 | 2010-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FKDLv1fNwCIY2HXsqDfDRQ%3D%3D) | 
-| 第36期碁聖戦本戦1回戦 | Yamashita Keigo | Hikosaka Naoto | B+R | 2010-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zuZEUBAUqp9y5DmQ51kEUA%3D%3D) | 
-| 第36期天元戦挑戦手合五番勝負第1局 | Yuki Satoshi | Yamashita Keigo | B+R | 2010-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KM6okOwMYn1vD95mILybOw%3D%3D) | 
-| 第36期名人戦予選 | Seto Taiki | Yamashita Keigo | W+R | 2010-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iEXQ0hWzbLK0URzrN0OEQQ%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ2回戦 | Yamashita Keigo | Lee Sedol | W+R | 2010-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3vteXt5pwOBdJTvAZB4sGg%3D%3D) | 
-| 第17期阿含・桐山杯全日本早碁オープン戦決勝 | Yamashita Keigo | Cho Chikun | B+R | 2010-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q%2BWHxKmEG2sPsKqyNlBJJg%3D%3D) | 
-| 第35期棋聖戦Aリーグ | Yoda Norimoto | Yamashita Keigo | W+3.5 | 2010-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9w61QtA4SwKmgk4yvtC4Xw%3D%3D) | 
-| 第49期十段戦本戦勝者組決勝 | Iyama Yuta | Yamashita Keigo | B+0.5 | 2010-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jHzZ8hLG8hS%2B62h%2FC8XAyw%3D%3D) | 
-| 第36期名人戦予選 | Yamashita Keigo | Han Zenki | B+R | 2010-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VVQll5zHfTvKma0TDDOQqA%3D%3D) | 
-| 第35期棋聖戦Aリーグ | Yamashita Keigo | Kono Rin | B+R | 2010-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OMinCdB3Ft1ISik5MUIhhQ%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ1回戦F2 | missing | Yamashita Keigo | W+R | 2010-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=scSutkjF43QI1FyCaVKn4w%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ1回戦F1 | Yamashita Keigo | Yang Jaeho | B+R | 2010-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=40skyHtYxgHX%2Fckye5hODQ%3D%3D) | 
-| 第49期十段戦本戦3回戦 | Anzai Nobuaki | Yamashita Keigo | W+R | 2010-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vOiXGlqbvjbNL3xCUfWBbg%3D%3D) | 
-| 第30期NECカップ囲碁トーナメント戦2回戦 | Yuki Satoshi | Yamashita Keigo | W+11.5 | 2010-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BBEqGz8ObJyc5E5SKhKYMg%3D%3D) | 
-| 第35期棋聖戦Aリーグ | Takao Shinji | Yamashita Keigo | B+R | 2010-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X4uVMDp33Qxq3R3ppC3PGg%3D%3D) | 
-| 第17期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Takao Shinji | B+0.5 | 2010-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LTa3rb4ITdveHDpihZsP%2Fw%3D%3D) | 
-| 第36期名人戦予選 | Yoda Norimoto | Yamashita Keigo | W+R | 2010-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gwbh%2F%2F%2FfF8yAlcwujq%2B%2FVA%3D%3D) | 
-| 第49期十段戦本戦2回戦 | Yamashita Keigo | Lee Ishu | B+R | 2010-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xGnBKGHHoxyZufxi19qYeg%3D%3D) | 
-| 第35期棋聖戦Aリーグ | Kato Atsushi | Yamashita Keigo | W+R | 2010-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pcv5xWITiejhfBqPsw%2Bm5g%3D%3D) | 
-| 第17期阿含・桐山杯全日本早碁オープン戦2回戦 | Yamashita Keigo | Michael Redmond | B+R | 2010-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kDsS2TcYomXFqazdjZlxXw%3D%3D) | 
-| 第65期本因坊戦挑戦手合七番勝負第5局 | Hane Naoki | Yamashita Keigo | W+7.5 | 2010-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UhreVXdTagdSSKcOdsYEIA%3D%3D) | 
-| 第35期棋聖戦Aリーグ | Yamashita Keigo | O Meien | B+R | 2010-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9NCVM%2BiLCOhPLDU0gHyUDA%3D%3D) | 
-| 第17期阿含・桐山杯全日本早碁オープン戦1回戦 | Yuki Satoshi | Yamashita Keigo | W+R | 2010-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nE0%2FSueFbZr3JDS0oFDBWA%3D%3D) | 
-| 第65期本因坊戦挑戦手合七番勝負第4局 | Yamashita Keigo | Hane Naoki | B+R | 2010-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dmtOD%2BfCFD3zQey2l4pjig%3D%3D) | 
-| 第65期本因坊戦挑戦手合七番勝負第3局 | Hane Naoki | Yamashita Keigo | W+R | 2010-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WOxZJWUI0KaXhl6exh9ZaQ%3D%3D) | 
-| 第49期十段戦本戦1回戦 | Yamashita Keigo | Sakai Hideyuki | B+R | 2010-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zx7QBKOK0BIHbEn9Z2U4Ug%3D%3D) | 
-| 第65期本因坊戦挑戦手合七番勝負第2局 | Yamashita Keigo | Hane Naoki | B+1.5 | 2010-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=js17H%2B2CFJQ%2BeBd5FUDp%2BQ%3D%3D) | 
-| 第65期本因坊戦挑戦手合七番勝負第1局 | Hane Naoki | Yamashita Keigo | B+3.5 | 2010-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4aV3sngpW0ewNZgYZogeMQ%3D%3D) | 
-| 第35期碁聖戦挑戦者決定戦 | Yamashita Keigo | Sakai Hideyuki | W+R | 2010-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FXEE%2BE628UZZ7mTBA6iJ5Q%3D%3D) | 
-| 第58期王座戦1回戦 | Kobayashi Satoru | Yamashita Keigo | B+2.5 | 2010-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zej1BX3fbyN19hhRS1F9Pg%3D%3D) | 
-| 第35期碁聖戦本戦準決勝 | Yamashita Keigo | Nakaonoda Tomomi | B+R | 2010-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=75cqHRdeFXzigtJwZAP5Rg%3D%3D) | 
-| 第23回世界囲碁選手権富士通杯2回戦 | Piao Wenyao | Yamashita Keigo | B+2.5 | 2010-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KcK8wor2%2BB5Gx8%2BIbrZooQ%3D%3D) | 
-| 第48期十段戦挑戦手合五番勝負第3局 | Cho U | Yamashita Keigo | B+R | 2010-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JAHDgX1YfEX2afllGCH8Jg%3D%3D) | 
-| 第65期本因坊戦挑戦者決定プレーオフ | Iyama Yuta | Yamashita Keigo | W+R | 2010-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KAH7Dm8ie6K4j%2BcrcpgaPw%3D%3D) | 
-| 第65期本因坊戦リーグ | Yamashita Keigo | Yuki Satoshi | B+R | 2010-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7nLN%2FrkKVGEeEZLeHE%2BHhw%3D%3D) | 
-| 第8回春蘭杯世界囲碁選手権2回戦 | Gu Li | Yamashita Keigo | B+R | 2010-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FKpKMzrw0viPCnvAfRMdWA%3D%3D) | 
-| 第8回春蘭杯世界囲碁選手権1回戦 | Chen Yaoye | Yamashita Keigo | W+4.5 | 2010-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nxiCrkVLwj5hJ%2FZ48B1YTA%3D%3D) | 
-| 第48期十段戦挑戦手合五番勝負第2局 | Yamashita Keigo | Cho U | W+1.5 | 2010-03-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jM1KGhjBj5TfBXcjjQa3Dg%3D%3D) | 
-| 第65期本因坊戦リーグ | Takemiya Masaki | Yamashita Keigo | W+4.5 | 2010-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lzwTgvOrngRprugkhobhgw%3D%3D) | 
-| 第48期十段戦挑戦手合五番勝負第1局 | Cho U | Yamashita Keigo | B+R | 2010-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aURKnhK6onJ2ocL7sqEg2Q%3D%3D) | 
-| 第34期棋聖戦挑戦手合七番勝負第5局 | Yamashita Keigo | Cho U | W+1.5 | 2010-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6VtbsMT1IvTC4dIRsKW1XQ%3D%3D) | 
-| 第34期棋聖戦挑戦手合七番勝負第4局 | Cho U | Yamashita Keigo | W+7.5 | 2010-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1dG95uMIa0JDE6CMly25wA%3D%3D) | 
-| 第29期NECカップ囲碁トーナメント戦準決勝 | Yamashita Keigo | Kono Rin | W+7.5 | 2010-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ug9Zy0bQKVPLv5D0k2YDfA%3D%3D) | 
-| 第65期本因坊戦リーグ | Yamashita Keigo | Iyama Yuta | B+R | 2010-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QfDYU5P%2FPux9kVxKff7X%2Fg%3D%3D) | 
-| 第34期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Cho U | W+8.5 | 2010-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gtgVlRRFEtJvoutxZjJ7gg%3D%3D) | 
-| 第34期棋聖戦挑戦手合七番勝負第2局 | Cho U | Yamashita Keigo | B+6.5 | 2010-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HedKoTgcQC%2F%2F3dGenYnGCg%3D%3D) | 
-| 第48期十段戦挑戦者決定戦 | Yamashita Keigo | Takao Shinji | B+R | 2010-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FmCWvyLmjn8RmDcFsvzt8w%3D%3D) | 
-| 第34期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Cho U | W+R | 2010-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ri2G68B5IMwHfmFE%2F0lBw%3D%3D) | 
-| 第35期碁聖戦本戦3回戦 | O Rissei | Yamashita Keigo | W+1.5 | 2010-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tdjKaU4cSAEsuoEL3uvh0A%3D%3D) | 
-| 第65期本因坊戦リーグ | Yamashita Keigo | Cho U | B+R | 2009-12-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cHW48w%2Ft%2BsKDI0CTxBunuA%3D%3D) | 
-| 第48期十段戦敗者復活戦決勝 | Yamashita Keigo | Lee Ishu | B+R | 2009-12-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D6f0ESBVPJHlVAdYUVAoqg%3D%3D) | 
-| 第35期天元戦挑戦手合五番勝負第5局 | Yamashita Keigo | Cho U | B+R | 2009-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rm24PPmlHYTpTf3nbkHGQg%3D%3D) | 
-| 第65期本因坊戦リーグ | Yamashita Keigo | Takao Shinji | W+R | 2009-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dbrKdIstua68ov5CFVEIZA%3D%3D) | 
-| 第35期碁聖戦本戦2回戦 | Kim Sujun | Yamashita Keigo | W+R | 2009-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J99ZswCaf7SAxGqK89wnLg%3D%3D) | 
-| 第35期天元戦挑戦手合五番勝負第4局 | Cho U | Yamashita Keigo | B+R | 2009-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V%2FnMQ4bRP4KArHNws%2BEuOw%3D%3D) | 
-| 第35期天元戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho U | B+R | 2009-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AFSICJ0nPueNaYGwmMO0gw%3D%3D) | 
-| 第11回農心辛ラーメン杯世界囲碁最強戦第1戦 | Yamashita Keigo | Kim Jiseok | W+R | 2009-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NX3aabvlD2hO7TOo%2Btbngw%3D%3D) | 
-| 第35期天元戦挑戦手合五番勝負第2局 | Cho U | Yamashita Keigo | B+R | 2009-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=878D8B4CHOG5CL2f4JMA1Q%3D%3D) | 
-| 第29期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Kobayashi Satoru | B+R | 2009-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=exIc04m9EQN%2FG66TDSVxig%3D%3D) | 
-| 第35期天元戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho U | B+R | 2009-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wezPdAg1QxT7jjAvm0ChNA%3D%3D) | 
-| 第48期十段戦敗者復活戦4回戦 | Yamashita Keigo | O Rissei | B+R | 2009-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lBedSGSRlfg0wReuogQhoA%3D%3D) | 
-| 第35期名人戦予選 | Mizokami Tomochika | Yamashita Keigo | B+1.5 | 2009-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H0hnb1NQuHUqZGdvD35nSA%3D%3D) | 
-| 第65期本因坊戦リーグ | Mimura Tomoyasu | Yamashita Keigo | W+R | 2009-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q8PElxtqWeZn1putOB1p8w%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ2回戦 | Kong Jie | Yamashita Keigo | B+T | 2009-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BFaNVFvGFdSn2COlK0OQhw%3D%3D) | 
-| 第35期名人戦予選 | Yamashita Keigo | Kobayashi Koichi | B+R | 2009-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mJgnlHDrnubyElb%2BgTCpCQ%3D%3D) | 
-| 第65期本因坊戦リーグ | Yamada Kimio | Yamashita Keigo | W+R | 2009-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bUn0NuQ%2BbtYxC5go%2By%2B65A%3D%3D) | 
-| 第48期十段戦敗者復活戦3回戦 | Cho Chikun | Yamashita Keigo | W+R | 2009-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CbQz76lFpPEiCc%2FodDqftw%3D%3D) | 
-| 第35期天元戦挑戦者決定戦 | Kono Rin | Yamashita Keigo | W+R | 2009-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OkBNJNdnTJkqwkltxQ1J%2Fw%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ1回戦A2 | Yamashita Keigo | Yuki Satoshi | B+R | 2009-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MEbMDtxKvjS0S9HbDEAdUg%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ1回戦A1 | Choi Kyubyeong | Yamashita Keigo | W+4.5 | 2009-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YTEzOEWb2f%2Bj2t128quVyA%3D%3D) | 
-| 第35期名人戦予選 | Yamashita Keigo | Mimura Tomoyasu | B+R | 2009-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HA5oS3Mt%2BhcibdkwyBv3oQ%3D%3D) | 
-| 第48期十段戦敗者復活戦2回戦 | Hikosaka Naoto | Yamashita Keigo | W+R | 2009-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L1H5sMmu3olYrBSL3CeOhA%3D%3D) | 
-| 第35期天元戦本戦準決勝 | Yamashita Keigo | Takao Shinji | B+R | 2009-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yLYTOi2O%2BjFRhgBSL%2B84Hg%3D%3D) | 
-| 第16期阿含・桐山杯全日本早碁オープン戦準決勝 | Hane Naoki | Yamashita Keigo | B+R | 2009-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6TYEoV2uAKPPfA0WP2%2BSyw%3D%3D) | 
-| 第16期阿含・桐山杯全日本早碁オープン戦2回戦 | Ko Iso | Yamashita Keigo | W+R | 2009-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Iyqy9VVEbIi9wvX2Y3LmQ%3D%3D) | 
-| 第35期天元戦本戦3回戦 | Yamashita Keigo | Yukawa Mitsuhisa | B+R | 2009-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DmGa0rD%2BBaWJgPFz3pZUdA%3D%3D) | 
-| 第48期十段戦敗者復活戦1回戦 | Yamashita Keigo | Yamashiro Hiroshi | B+R | 2009-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BB07VTwkV%2FKFDEn8fW%2BsPw%3D%3D) | 
-| 第16期阿含・桐山杯全日本早碁オープン戦1回戦 | Chin Kaei | Yamashita Keigo | W+5.5 | 2009-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1QvufpjOFfLoIgofEDKDGg%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯3回戦 | Yamashita Keigo | Lee Changho | W+4.5 | 2009-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kff4UYK0rTsI2AYweMFe%2Fg%3D%3D) | 
-| 第57期王座戦2回戦 | Yoda Norimoto | Yamashita Keigo | B+R | 2009-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pGgGp5WKRb0XWefTeV9jKg%3D%3D) | 
-| 第14回LG杯世界棋王戦1回戦 | Yamashita Keigo | Weon Seongjin | W+6.5 | 2009-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=52q8e3vjkkOTCTQFpTYvtg%3D%3D) | 
-| 第48期十段戦本戦1回戦 | O Rissei | Yamashita Keigo | B+R | 2009-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N2nTpZAJ8E%2B4y7kCpKWmpg%3D%3D) | 
-| 第35期天元戦本戦2回戦 | Imamura Toshiya | Yamashita Keigo | W+0.5 | 2009-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nuj6%2B3ZqvyM4dOYjRs6xsQ%3D%3D) | 
-| 第48期十段戦予選 | Yamashita Keigo | Kataoka Satoshi | B+R | 2009-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M9VkpqSQK6tPGh0IPyRI6g%3D%3D) | 
-| 第57期王座戦1回戦 | Yamashita Keigo | Takemiya Masaki | B+8.5 | 2009-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WZ6Yy6oY1WQVw%2FuIai5GRQ%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯2回戦 | Yamashita Keigo | Qiu Jun | B+R | 2009-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BoxoOQdlxbffbFUxI5pszQ%3D%3D) | 
-| 第34期碁聖戦本戦3回戦 | Yamashita Keigo | Iyama Yuta | W+R | 2009-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cOjqxtjhJoI69cznQRYTTA%3D%3D) | 
-| 第64期本因坊戦リーグ | Kataoka Satoshi | Yamashita Keigo | W+R | 2009-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WSR%2BqABMW8ts62XO6wf5eg%3D%3D) | 
-| 第48期十段戦予選 | Yamashita Keigo | Murakawa Daisuke | B+R | 2009-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5BpwQKIrgR5C5pUHtcYpqA%3D%3D) | 
-| 第33期棋聖戦挑戦手合七番勝負第6局 | Yoda Norimoto | Yamashita Keigo | W+2.5 | 2009-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QsylCU5EoYFGdDdD56T02w%3D%3D) | 
-| 第64期本因坊戦リーグ | Yamashita Keigo | Yamada Kimio | B+R | 2009-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iRUmejwm%2FLJOVqCoazl%2FXA%3D%3D) | 
-| 第33期棋聖戦挑戦手合七番勝負第5局 | Yamashita Keigo | Yoda Norimoto | B+5.5 | 2009-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6XpZu6C7LXz7TWP15NM9Hw%3D%3D) | 
-| 第33期棋聖戦挑戦手合七番勝負第4局 | Yoda Norimoto | Yamashita Keigo | B+R | 2009-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KsFEREwHUquhRgZAZjFydQ%3D%3D) | 
-| 第64期本因坊戦リーグ | Yoda Norimoto | Yamashita Keigo | B+R | 2009-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7WFWmOh4DawOnOFBdu8hag%3D%3D) | 
-| 第33期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Yoda Norimoto | W+0.5 | 2009-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TzHzsFc2Vb33FF3j4nXuNA%3D%3D) | 
-| 第33期棋聖戦挑戦手合七番勝負第2局 | Yoda Norimoto | Yamashita Keigo | W+0.5 | 2009-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rh0vxBNrh3roJX2zO7d0BA%3D%3D) | 
-| 第33期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Yoda Norimoto | B+1.5 | 2009-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r%2F82vOqz9M9QguNWG2Ep8w%3D%3D) | 
-| 第64期本因坊戦リーグ | Yamashita Keigo | Cho U | B+R | 2009-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=obq3yz4%2Fp4fej%2F2YAvdp4w%3D%3D) | 
-| 第35期天元戦本戦1回戦 | Yuki Satoshi | Yamashita Keigo | W+2.5 | 2008-12-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qe3bCglnYVo3nDEvU9Vb7A%3D%3D) | 
-| 第64期本因坊戦リーグ | Takao Shinji | Yamashita Keigo | B+10.5 | 2008-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xtoosowfc%2BBRaT7mLlVloA%3D%3D) | 
-| 第56期王座戦挑戦手合五番勝負第4局 | Yamashita Keigo | Cho U | W+2.5 | 2008-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BAKW0FK3UTqwX4Zv0nrhlg%3D%3D) | 
-| 第34期碁聖戦本戦2回戦 | Yamashita Keigo | Mimura Tomoyasu | B+R | 2008-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IzuHDpWUmlsmsbXmoJa7qg%3D%3D) | 
-| 第56期王座戦挑戦手合五番勝負第3局 | Cho U | Yamashita Keigo | W+5.5 | 2008-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SkAgq4pupLKLHSWqK62VMg%3D%3D) | 
-| 第64期本因坊戦リーグ | So Yokoku | Yamashita Keigo | B+8.5 | 2008-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KWK3cSNYKAskSdx1n7gF1g%3D%3D) | 
-| 第13回三星火災杯世界オープン囲碁選手権3回戦 | Kong Jie | Yamashita Keigo | B+R | 2008-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e8ZrVnqNu2Wdk6qmXddwUQ%3D%3D) | 
-| 第56期王座戦挑戦手合五番勝負第2局 | Yamashita Keigo | Cho U | W+R | 2008-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g9pKB5cxBrfNui1liZGydg%3D%3D) | 
-| 第13回LG杯世界棋王戦3回戦 | Lee Changho | Yamashita Keigo | B+4.5 | 2008-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M25zHDgdsPg3hYKxZ7SFkQ%3D%3D) | 
-| 第34期碁聖戦本戦1回戦 | Kurahashi Masayuki | Yamashita Keigo | W+R | 2008-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FIqvHqGje98U7mt7%2BmQTMQ%3D%3D) | 
-| 第56期王座戦挑戦手合五番勝負第1局 | Cho U | Yamashita Keigo | B+R | 2008-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PDNNt5G4cgXSzKyj6QITOg%3D%3D) | 
-| 第10回農心辛ラーメン杯世界囲碁最強戦第2戦 | Tuo Jiaxi | Yamashita Keigo | B+4.5 | 2008-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uv1WFKMmS9FtfK12ZbLu2w%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦三位決定戦 | Yamashita Keigo | Xiao Zhenghao | W+1.5 | 2008-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i%2BvHc30RyaKNV11SAWKpbA%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Kim Jiseok | Yamashita Keigo | B+2.5 | 2008-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U%2FR1ppsW1j5ryePB00Dinw%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Piao Wenyao | Yamashita Keigo | B+R | 2008-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=05yymc5R1AMjGNBThaCa2g%3D%3D) | 
-| 第64期本因坊戦リーグ | Yamashita Keigo | Nakaonoda Tomomi | B+R | 2008-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RV7C9pGn%2FtY70fXrgMOA9Q%3D%3D) | 
-| 第28期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Cho Chikun | W+R | 2008-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cdcmkkugjx4zNht%2F%2FWP4fA%3D%3D) | 
-| 第34期名人戦予選 | Ryu Shikun | Yamashita Keigo | B+R | 2008-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BAaskRHRWt1KGNPwF8VqMQ%3D%3D) | 
-| 第13回三星火災杯世界オープン囲碁選手権2回戦 | Zhou Heyang | Yamashita Keigo | W+R | 2008-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=06NSeO8hligi%2FEE5S7Bldw%3D%3D) | 
-| 第13回三星火災杯世界オープン囲碁選手権1回戦 | Xie He | Yamashita Keigo | W+R | 2008-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sCiPnFvT6W0SIYhH8Y0lcQ%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Yamashita Keigo | Cho Hanseung | W+7.5 | 2008-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GA8MJJRJzc1tJW8oX0yPnQ%3D%3D) | 
-| 第33期碁聖戦挑戦手合五番勝負第4局 | Cho U | Yamashita Keigo | B+R | 2008-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GFqfio79iTT6d9N%2FJXg9nA%3D%3D) | 
-| 第33期碁聖戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho U | W+R | 2008-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CvbNaLPgzglr6hScgShSZQ%3D%3D) | 
-| 第33期碁聖戦挑戦手合五番勝負第2局 | Cho U | Yamashita Keigo | B+R | 2008-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0XmPkc4KRzjvgnpLavBBSw%3D%3D) | 
-| 第33期碁聖戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho U | B+R | 2008-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jK0IqKEXXEYRV8EMFig3dQ%3D%3D) | 
-| 第15期阿含・桐山杯全日本早碁オープン戦1回戦 | Nakano Hironari | Yamashita Keigo | B+1.5 | 2008-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E2DGTigCky%2BgllP9Od6JRw%3D%3D) | 
-| 第34期天元戦本戦3回戦 | Yamashita Keigo | Ko Iso | W+4.5 | 2008-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cNAazn6SDRNFy%2BBwlBv0yA%3D%3D) | 
-| 第33期碁聖戦挑戦者決定戦 | Takao Shinji | Yamashita Keigo | W+1.5 | 2008-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Voe2hNju6yengBNst0RP5A%3D%3D) | 
-| 第13回LG杯世界棋王戦2回戦 | Kim Hyeongwan | Yamashita Keigo | W+R | 2008-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V6%2B1lQPx7rWhn7eKpvlkAg%3D%3D) | 
-| 第13回LG杯世界棋王戦1回戦 | Kim Seongjae | Yamashita Keigo | W+R | 2008-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qnnYBfByMkdfU9dnwAUG5Q%3D%3D) | 
-| 第34期天元戦本戦2回戦 | Yamashita Keigo | Yuki Satoshi | B+R | 2008-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SzKwCZIzjD4WxWIySFz1ew%3D%3D) | 
-| 第6回応氏杯世界選手権1回戦 | Yamashita Keigo | Gu Li | W+R | 2008-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oc6j5A2HwxmhbZQbZtgfFQ%3D%3D) | 
-| 第47期十段戦予選 | Yamashiro Hiroshi | Yamashita Keigo | B+1.5 | 2008-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rPEWGIqaSUwB09FHvgpzSw%3D%3D) | 
-| 第34期天元戦本戦1回戦 | Yamashita Keigo | Awaji Shuzo | B+R | 2008-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JuLKvADsjvBxMDEKzjpkQA%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯2回戦 | Yamashita Keigo | Cho Hanseung | W+6.5 | 2008-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jjfhBFQoN0Yah5HGLzufHQ%3D%3D) | 
-| 第47期十段戦予選 | Yamashita Keigo | Hatanaka Hoshinobu | B+R | 2008-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a6YAqMogDJ5gMxO8zT8cLg%3D%3D) | 
-| 第63期本因坊戦リーグ | So Yokoku | Yamashita Keigo | W+R | 2008-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4yyULs8Jbt1ZmP82130fyQ%3D%3D) | 
-| 第33期碁聖戦本戦準決勝 | Yamashita Keigo | Yoda Norimoto | B+R | 2008-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NaPf%2FJSmNX6ihUU0qVIkQw%3D%3D) | 
-| 第32期棋聖戦挑戦手合七番勝負第7局 | Cho Chikun | Yamashita Keigo | W+R | 2008-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YTDHbEYRe6aqBU%2Fe4FPL%2Fw%3D%3D) | 
-| 第32期棋聖戦挑戦手合七番勝負第6局 | Yamashita Keigo | Cho Chikun | W+4.5 | 2008-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uTMp50vWVofVgl7Dts9yxA%3D%3D) | 
-| 第63期本因坊戦リーグ | Yamashita Keigo | Yamada Kimio | W+2.5 | 2008-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wRoAHL5WhTUo6MRPxEHh7A%3D%3D) | 
-| 第32期棋聖戦挑戦手合七番勝負第5局 | Cho Chikun | Yamashita Keigo | B+3.5 | 2008-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P6lAYq%2FXYt7uCL7zw6HyeQ%3D%3D) | 
-| 第32期棋聖戦挑戦手合七番勝負第4局 | Yamashita Keigo | Cho Chikun | B+R | 2008-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DE%2BMzw9J39jOBh%2FdsIJKRw%3D%3D) | 
-| 第33期碁聖戦本戦3回戦 | Yamashita Keigo | Cho Chikun | B+R | 2008-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8nL%2BEfRESDOOQKkomiFCFg%3D%3D) | 
-| 第63期本因坊戦リーグ | Yamashita Keigo | Mizokami Tomochika | B+8.5 | 2008-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YiHBBw7WAC5ArignJiZHRQ%3D%3D) | 
-| 第32期棋聖戦挑戦手合七番勝負第3局 | Cho Chikun | Yamashita Keigo | W+R | 2008-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sb4pxM9PGj1Q3YLFY3%2BSnQ%3D%3D) | 
-| 第32期棋聖戦挑戦手合七番勝負第2局 | Yamashita Keigo | Cho Chikun | W+R | 2008-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cG0HkrbEXSpuP7tbX%2F5oAg%3D%3D) | 
-| 第63期本因坊戦リーグ | Yamashita Keigo | Yoda Norimoto | B+R | 2008-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=00OX8gcZG5yNL9myRfMIjA%3D%3D) | 
-| 第32期棋聖戦挑戦手合七番勝負第1局 | Cho Chikun | Yamashita Keigo | W+R | 2008-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mqkPO8Dim%2F8TAY23cQ2clg%3D%3D) | 
-| 第63期本因坊戦リーグ | O Meien | Yamashita Keigo | W+R | 2007-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iamNsuVEphSMotbZFEDH8A%3D%3D) | 
-| 第33期天元戦挑戦手合五番勝負第4局 | Yamashita Keigo | Kono Rin | W+R | 2007-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cHzxfKgDOTGr6W06WQvcJA%3D%3D) | 
-| 第55期王座戦挑戦手合五番勝負第4局 | Yamashita Keigo | Imamura Toshiya | B+R | 2007-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2WdWFWgjFnvboF1cI2n%2FjQ%3D%3D) | 
-| 第55期王座戦挑戦手合五番勝負第3局 | Imamura Toshiya | Yamashita Keigo | W+R | 2007-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QwUnAnqgqiR5FVJv7KJ6Zw%3D%3D) | 
-| 第33期天元戦挑戦手合五番勝負第3局 | Kono Rin | Yamashita Keigo | B+R | 2007-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aTxaet71wJItlPO8prf4Lw%3D%3D) | 
-| 第33期碁聖戦本戦2回戦 | Yamashita Keigo | Ishii Shinzo | B+R | 2007-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0RfMcE8%2FDtiJ7xJVTDiQZA%3D%3D) | 
-| 第55期王座戦挑戦手合五番勝負第2局 | Yamashita Keigo | Imamura Toshiya | W+R | 2007-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rQoo69X3FHLSMlPk%2F9UY3Q%3D%3D) | 
-| 第63期本因坊戦リーグ | Yamashita Keigo | Hane Naoki | W+6.5 | 2007-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pAIvkq2OckZNE%2BtMzQ1aQQ%3D%3D) | 
-| 第33期天元戦挑戦手合五番勝負第2局 | Yamashita Keigo | Kono Rin | W+R | 2007-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oJ1Y%2BQqwca5anrJD9EhlLA%3D%3D) | 
-| 第33期天元戦挑戦手合五番勝負第1局 | Kono Rin | Yamashita Keigo | W+R | 2007-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yMUIcFI%2FFw23rU9pTPoD9g%3D%3D) | 
-| 第55期王座戦挑戦手合五番勝負第1局 | Imamura Toshiya | Yamashita Keigo | W+R | 2007-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SzRioaRB57lyb3kv7ndrkA%3D%3D) | 
-| 第63期本因坊戦リーグ | Cho U | Yamashita Keigo | B+1.5 | 2007-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tWlE2E8FcJlYYdECOHZGLw%3D%3D) | 
-| 第33期碁聖戦本戦1回戦 | Cho Riyu | Yamashita Keigo | W+4.5 | 2007-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mOMAO5uJVtmhNtNXaq7C4A%3D%3D) | 
-| 第27期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Cho Sonjin | W+6.5 | 2007-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gzu3UYSUD53zpxJFIHyAPQ%3D%3D) | 
-| 第33期天元戦挑戦者決定戦 | Iyama Yuta | Yamashita Keigo | W+1.5 | 2007-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hFdTVsj%2FX2JJ2O5UmAbHtg%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権1回戦 | Yamashita Keigo | Heo Yongho | W+R | 2007-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3iqbQLVHVJKCyzeHgNHetA%3D%3D) | 
-| 第33期名人戦予選 | Yamashita Keigo | Iyama Yuta | W+1.5 | 2007-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R99Rg%2FsQ6efWUbnE1CYoYQ%3D%3D) | 
-| 第63期本因坊戦予選 | Yamashita Keigo | Cho Chikun | B+R | 2007-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wgk70VSMV5ht0zHra%2B2Nzg%3D%3D) | 
-| 第3回中環杯世界囲碁選手権2回戦 | Cho Hanseung | Yamashita Keigo | B+R | 2007-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vFWpd1UQ86PlEVdejpF6cA%3D%3D) | 
-| 第3回中環杯世界囲碁選手権1回戦 | Chen Shiyuan | Yamashita Keigo | W+R | 2007-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ofacGuHDbT0W4aA0cXUpFA%3D%3D) | 
-| 第46期十段戦敗者復活戦1回戦 | Shuto Shun | Yamashita Keigo | B+9.5 | 2007-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rxSolGgMn3K2uyiacyQ7tQ%3D%3D) | 
-| 第32期名人戦リーグ | Yamashita Keigo | Kobayashi Satoru | W+R | 2007-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jrDO34B%2FLL9530yFGBYhaA%3D%3D) | 
-| 第27期NECカップ囲碁トーナメント戦1回戦 | Yamashita Keigo | Yamada Kimio | B+R | 2007-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vlxa601lAgbin5mqinBfIg%3D%3D) | 
-| 第33期天元戦本戦準決勝 | Yamashita Keigo | Kim Sujun | B+R | 2007-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I1dLt36iWVq%2FQw42qKtrOw%3D%3D) | 
-| 第32期名人戦リーグ | Yamada Kimio | Yamashita Keigo | B+5.5 | 2007-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G64fAgKpLtTqmYt3i51cjw%3D%3D) | 
-| 第63期本因坊戦予選 | Ueki Yoshio | Yamashita Keigo | W+R | 2007-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vr2Ppcl47SmNHIexuKYDBQ%3D%3D) | 
-| 第33期天元戦本戦3回戦 | Yuki Satoshi | Yamashita Keigo | W+R | 2007-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=reK%2F2wutH83ovuZEfNaX%2BA%3D%3D) | 
-| 第14期阿含・桐山杯全日本早碁オープン戦1回戦 | Rin Kanketsu | Yamashita Keigo | B+1.5 | 2007-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E1%2BbQaGvnhwnZU26%2F25MxA%3D%3D) | 
-| 第63期本因坊戦予選 | Matsumoto Takehisa | Yamashita Keigo | W+R | 2007-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hCZxwnXIrB336wZlAMYTdg%3D%3D) | 
-| 第12回LG杯世界棋王戦2回戦 | On Sojin | Yamashita Keigo | B+R | 2007-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PHhDWxc4Omx1ChXtufC%2FxQ%3D%3D) | 
-| 第12回LG杯世界棋王戦1回戦 | Yamashita Keigo | missing | B+R | 2007-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bism2r6UTtK34bp9MBd0nw%3D%3D) | 
-| 第32期名人戦リーグ | Yamashita Keigo | Mimura Tomoyasu | W+0.5 | 2007-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3eJ5LeyqbPe27X6aSwiDvw%3D%3D) | 
-| 第63期本因坊戦予選 | Yamashita Keigo | Sakai Hideyuki | B+R | 2007-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=keD%2F3BhG5TwAZELhCBDAJQ%3D%3D) | 
-| 第46期十段戦本戦1回戦 | Takao Shinji | Yamashita Keigo | B+R | 2007-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v8%2FVMFXf4ZszpBdowAqt3A%3D%3D) | 
-| 第32期名人戦リーグ | Hikosaka Naoto | Yamashita Keigo | B+R | 2007-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cYmxF9uijGmv%2Fzfbkg8cJg%3D%3D) | 
-| 第45期十段戦挑戦手合五番勝負第5局 | Cho Chikun | Yamashita Keigo | B+3.5 | 2007-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f8aR5rJW0Np6aPlMJDQWAA%3D%3D) | 
-| 第45期十段戦挑戦手合五番勝負第4局 | Cho Chikun | Yamashita Keigo | W+R | 2007-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Os1NK9ardyLV1XMKzrt4og%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯2回戦 | Yamashita Keigo | Hu Yaoyu | W+2.5 | 2007-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QGMsJB%2FDAbPGEuIBgBCHBA%3D%3D) | 
-| 第45期十段戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho Chikun | B+R | 2007-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PGyE6kawyLO1KAYMqtZwsQ%3D%3D) | 
-| 第45期十段戦挑戦手合五番勝負第2局 | Cho Chikun | Yamashita Keigo | B+2.5 | 2007-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wa5WROjmSP5KPoqPsnMOZw%3D%3D) | 
-| 第32期名人戦リーグ | Yamashita Keigo | Yoda Norimoto | W+4.5 | 2007-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ha5rW07amrSPoMdD99uGCg%3D%3D) | 
-| 第33期天元戦本戦2回戦 | Michael Redmond | Yamashita Keigo | W+R | 2007-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QV%2FxBlwIoX6x3OgOU5VcEw%3D%3D) | 
-| 第45期十段戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho Chikun | W+R | 2007-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QI%2Bgs1yDzIDgzHM0oI5aPA%3D%3D) | 
-| 第31期棋聖戦挑戦手合七番勝負第4局 | Kobayashi Satoru | Yamashita Keigo | W+R | 2007-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QTDidI53Wa3oBhJbK3Ww8A%3D%3D) | 
-| 第45期十段戦挑戦者決定戦 | Yamashita Keigo | Yoda Norimoto | B+6.5 | 2007-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZFE%2Fon3WLuYqaZHjQaksFg%3D%3D) | 
-| 第32期名人戦リーグ | Ko Iso | Yamashita Keigo | W+R | 2007-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4tFZfg38Ku3qBhhngyDRWw%3D%3D) | 
-| 第31期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Kobayashi Satoru | B+R | 2007-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VPeYay%2Bd3KEY1nb9NoarMA%3D%3D) | 
-| 第31期棋聖戦挑戦手合七番勝負第2局 | Kobayashi Satoru | Yamashita Keigo | W+R | 2007-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3fQy0f7I1MmLdTIpi%2FZwEQ%3D%3D) | 
-| 第32期名人戦リーグ | Yamashita Keigo | Cho U | W+0.5 | 2007-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r3PewUUvEYX5QWZiLUGjbw%3D%3D) | 
-| 第31期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Kobayashi Satoru | B+R | 2007-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QvkVErhTMHho2HLAgn0wtg%3D%3D) | 
-| 第33期天元戦本戦1回戦 | Yamashita Keigo | Takao Shinji | B+R | 2007-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZZN5c6Hs37oTfZmWQk24Kw%3D%3D) | 
-| 第32期名人戦リーグ | Sakai Hideyuki | Yamashita Keigo | B+R | 2006-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WYPl%2BXGvMVhSJvUQQyei5g%3D%3D) | 
-| 第32期天元戦挑戦手合五番勝負第4局 | Yamashita Keigo | Kono Rin | W+3.5 | 2006-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TzRVeKEqSZ3qADwc8VW0%2Fw%3D%3D) | 
-| 第54期王座戦挑戦手合五番勝負第4局 | Cho U | Yamashita Keigo | W+R | 2006-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GPpdndf4YJ0xWWWxtBWUbw%3D%3D) | 
-| 第54期王座戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho U | B+R | 2006-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=94AiEzvNMNKa8WK8dejmxA%3D%3D) | 
-| 第32期碁聖戦本戦2回戦 | Yamashita Keigo | Matsumoto Takehisa | W+R | 2006-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wQnN8mk5dGwDki92l0yQ%2Bw%3D%3D) | 
-| 第32期天元戦挑戦手合五番勝負第3局 | Kono Rin | Yamashita Keigo | B+R | 2006-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xm9GvSAirAhM4aCdTXv4Dw%3D%3D) | 
-| 第54期王座戦挑戦手合五番勝負第2局 | Cho U | Yamashita Keigo | W+1.5 | 2006-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9exqLE%2FEodfBimMFD8ypkw%3D%3D) | 
-| 第32期天元戦挑戦手合五番勝負第2局 | Yamashita Keigo | Kono Rin | B+R | 2006-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iWXwd4hfmMsVQUYnS9qNgQ%3D%3D) | 
-| 第32期天元戦挑戦手合五番勝負第1局 | Kono Rin | Yamashita Keigo | B+3.5 | 2006-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oUW%2FBwYkmR4zyAuyT0P42Q%3D%3D) | 
-| 第54期王座戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho U | W+6.5 | 2006-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qEa4KWUt2aVTXA337Ga6IQ%3D%3D) | 
-| 第32期碁聖戦本戦1回戦 | Murakawa Daisuke | Yamashita Keigo | W+R | 2006-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NnE5UG3WUBqYnA99Airmlg%3D%3D) | 
-| 第26期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Hane Naoki | W+5.5 | 2006-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m9a3v3%2FlTefUXa%2Fj9EZ3cg%3D%3D) | 
-| 第45期十段戦本戦勝者組決勝 | Yamashita Keigo | Cho U | B+R | 2006-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7fyIALk7hrbFD7qu8gqH2w%3D%3D) | 
-| 第45期十段戦本戦3回戦 | Kobayashi Satoru | Yamashita Keigo | W+0.5 | 2006-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0wueHQuAEUThSn0kL7PumA%3D%3D) | 
-| 第32期天元戦挑戦者決定戦 | Yamashita Keigo | Takemiya Masaki | B+R | 2006-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PlsPabaKF7iKOc2vlA7nJA%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権2回戦 | Piao Wenyao | Yamashita Keigo | B+3.5 | 2006-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WwsF5%2FhZ%2Ftbw97oiL3DPnQ%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権1回戦 | Yamashita Keigo | Cho Hanseung | B+3.5 | 2006-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dHaW6QM1GEhZu9dQrggomQ%3D%3D) | 
-| 第54期王座戦挑戦者決定戦 | Yamashita Keigo | Kobayashi Satoru | B+R | 2006-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SV5YyqGY05rP9%2FottJmakQ%3D%3D) | 
-| 第45期十段戦本戦2回戦 | Yamashita Keigo | Yoda Norimoto | B+R | 2006-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fcujk8takA9BeQHd20vhDw%3D%3D) | 
-| 第31期名人戦リーグ | Yoda Norimoto | Yamashita Keigo | W+7.5 | 2006-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NdSIw4k8tctNVidoqxrZ9w%3D%3D) | 
-| 第54期王座戦準決勝 | Yamashita Keigo | Ryu Shikun | B+0.5 | 2006-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fr1X%2BVx0p8kJQhlN6f0sYw%3D%3D) | 
-| 第32期天元戦本戦準決勝 | Yamashita Keigo | O Rissei | B+R | 2006-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DmQpqX1Kx4%2F7nKseBdn%2FoA%3D%3D) | 
-| 第31期名人戦リーグ | Yamashita Keigo | Imamura Toshiya | B+R | 2006-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A7WR7Ll3OfZj%2BnwBEeRG2Q%3D%3D) | 
-| 第54期王座戦2回戦 | Hane Naoki | Yamashita Keigo | W+R | 2006-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KAEMIVb7txJazw%2BNSUfxSw%3D%3D) | 
-| 第62期本因坊戦予選 | Rin Shien | Yamashita Keigo | B+4.5 | 2006-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3yP9QL9JVBqI3WkgDqhf%2Bw%3D%3D) | 
-| 第32期天元戦本戦3回戦 | Yamashita Keigo | Sakai Hideyuki | B+R | 2006-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FbCxZdo5AdKNw4N4K3%2Fypg%3D%3D) | 
-| 第26期NECカップ囲碁トーナメント戦1回戦 | Yamashita Keigo | Yoda Norimoto | B+R | 2006-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kuke8%2B6XJtKXdJ3AFNg1dg%3D%3D) | 
-| 第45期十段戦本戦1回戦 | Kobayashi Koichi | Yamashita Keigo | W+0.5 | 2006-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eiGoTyNzY9ETsWHBlE2tow%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Yamashita Keigo | Kim Sujun | W+2.5 | 2006-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SoRvS2J9x2ck7R5PBIy%2BGw%3D%3D) | 
-| 第31期碁聖戦挑戦者決定戦 | Cho U | Yamashita Keigo | B+2.5 | 2006-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7tl8zF%2BEWJwp8hUAVLywtA%3D%3D) | 
-| 第13期阿含・桐山杯全日本早碁オープン戦予選 | Kim Sujun | Yamashita Keigo | B+11.5 | 2006-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A3myy9kGc4pX8Zg%2BOb9sag%3D%3D) | 
-| 第31期名人戦リーグ | Yamashita Keigo | Ko Iso | B+5.5 | 2006-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sgSYrksB9nptkUbTEu%2FLYw%3D%3D) | 
-| 第62期本因坊戦予選 | Yamashita Keigo | Kurahashi Masayuki | B+R | 2006-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=paX8fiNsH11AGh1Qgrcpuw%3D%3D) | 
-| 第31期名人戦リーグ | Yamashita Keigo | Sakai Hideyuki | B+R | 2006-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VvvkXz6JCrdwWveNZLJzKA%3D%3D) | 
-| 第11回LG杯世界棋王戦2回戦 | Hu Yaoyu | Yamashita Keigo | B+3.5 | 2006-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ym6CcnLVZL2sgHuGJfe4qw%3D%3D) | 
-| 第11回LG杯世界棋王戦1回戦 | Yun Junsang | Yamashita Keigo | W+2.5 | 2006-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UQ5DSdPyaWvg%2F1uDxh0HKQ%3D%3D) | 
-| 第31期碁聖戦本戦準決勝 | Cho Chikun | Yamashita Keigo | W+R | 2006-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GngSoiYC%2BEafN3qflBAN2g%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第3戦 | Yamashita Keigo | O Rissei | B+2.5 | 2006-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IpX2US%2F1G2BPAnLg6mJmhA%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第2戦 | Gu Li | Yamashita Keigo | B+R | 2006-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qBdWAYsvyyPAjOOdQE%2BGgA%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第1戦 | Park Yeonghun | Yamashita Keigo | B+R | 2006-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jVdDevx7HWCPaqqpfoz1Zw%3D%3D) | 
-| 第32期天元戦本戦2回戦 | Komatsu Hideki | Yamashita Keigo | W+R | 2006-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NQuAvPM%2F8%2F4eWJuAhndNsQ%3D%3D) | 
-| 第31期名人戦リーグ | Kobayashi Satoru | Yamashita Keigo | B+0.5 | 2006-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xPJjE9nFFh9aLbdJrCPMJw%3D%3D) | 
-| 第44期十段戦挑戦手合五番勝負第4局 | Cho Chikun | Yamashita Keigo | B+2.5 | 2006-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R%2FSygh3ZAWJD6%2FfSBNKjHQ%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯2回戦 | Yamashita Keigo | Lee Changho | W+2.5 | 2006-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xGPtmyx%2FV6AvnZ2RQJOpgQ%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯1回戦 | Cho Hanseung | Yamashita Keigo | W+R | 2006-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kbcdkj3a7WeSLHG01tpU8w%3D%3D) | 
-| 第44期十段戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho Chikun | B+8.5 | 2006-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=te2rM3gMKW1foqt5xOiTXw%3D%3D) | 
-| 第54期王座戦1回戦 | Nakamura Shinya | Yamashita Keigo | W+R | 2006-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3R8REpwvhgxFMmO7Knaljw%3D%3D) | 
-| 第44期十段戦挑戦手合五番勝負第2局 | Cho Chikun | Yamashita Keigo | B+R | 2006-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=00DGHRJVdK0dSln7E%2FdImA%3D%3D) | 
-| 第32期天元戦本戦1回戦 | Yamashita Keigo | Takagi Shoichi | B+10.5 | 2006-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=odCna2CC%2FkidgpDvIV0wsQ%3D%3D) | 
-| 第31期碁聖戦本戦3回戦 | Takemiya Masaki | Yamashita Keigo | W+R | 2006-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dqx2u1H8b2H1G5fgcw0wwg%3D%3D) | 
-| 第31期名人戦リーグ | Yamada Kimio | Yamashita Keigo | W+R | 2006-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Y2yHdjrstGsV%2BLDTQrqrw%3D%3D) | 
-| 第44期十段戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho Chikun | W+R | 2006-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oUUzfEHs2vAPIfOBcAU0DA%3D%3D) | 
-| 第30期棋聖戦挑戦手合七番勝負第4局 | Hane Naoki | Yamashita Keigo | W+2.5 | 2006-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hnWoH4pFSWF2tkHLFaXitA%3D%3D) | 
-| 第31期名人戦リーグ | Yamashita Keigo | Takao Shinji | W+0.5 | 2006-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6nkmTjMoi7o67kR%2BnNxeWQ%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯国内予選決勝 | Yamashita Keigo | Sakai Hideyuki | B+3.5 | 2006-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M2Q%2BgSbu8YuNCvh4YXvB%2BA%3D%3D) | 
-| 第30期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Hane Naoki | B+1.5 | 2006-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O3KITy%2FxtdzWKGtkvCpw%2Fg%3D%3D) | 
-| 第30期棋聖戦挑戦手合七番勝負第2局 | Hane Naoki | Yamashita Keigo | W+6.5 | 2006-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7esYbKYMtJ4bQCqwTl2kpA%3D%3D) | 
-| 第44期十段戦挑戦者決定戦 | Yamashita Keigo | Takao Shinji | B+R | 2006-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2oIiLERmFh8bAsnWRw1H8Q%3D%3D) | 
-| 第30期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Hane Naoki | B+R | 2006-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I%2Fk1STVQhCGXUDT4UCPPmQ%3D%3D) | 
-| 第44期十段戦敗者復活戦決勝 | Yamashita Keigo | Mimura Tomoyasu | B+3.5 | 2006-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OlKisNzyv7%2FQnMC4D6nB0A%3D%3D) | 
-| 第31期名人戦リーグ | Han Zenki | Yamashita Keigo | B+4.5 | 2006-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Vwdwu9Z1YAZRmLY9uJi9w%3D%3D) | 
-| 第44期十段戦敗者復活戦4回戦 | Kobayashi Satoru | Yamashita Keigo | W+R | 2005-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uLvWv%2BiLX8SmgID5Gyl1JQ%3D%3D) | 
-| 第31期天元戦挑戦手合五番勝負第5局 | Yamashita Keigo | Kono Rin | W+4.5 | 2005-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dxWAW%2BTabbU2NgmRkdJOuw%3D%3D) | 
-| 第31期天元戦挑戦手合五番勝負第4局 | Yamashita Keigo | Kono Rin | B+R | 2005-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xrANrVaqaWKlyhJNfzKgSQ%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯国内予選 | Yamashita Keigo | Nakamura Shinya | B+R | 2005-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5IX9NGQtgPvJgcJacUEPZQ%3D%3D) | 
-| 第53期王座戦挑戦手合五番勝負第3局 | Cho U | Yamashita Keigo | B+9.5 | 2005-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=du5AxslG%2FOapqh2h2D3WOQ%3D%3D) | 
-| 第31期碁聖戦本戦2回戦 | Yamashita Keigo | Nakaonoda Tomomi | B+R | 2005-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sdbGF9jYogqohKmVWi2N4g%3D%3D) | 
-| 第31期天元戦挑戦手合五番勝負第3局 | Kono Rin | Yamashita Keigo | B+R | 2005-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ow2XRFMHe7enQrTIM6h2ew%3D%3D) | 
-| 第53期王座戦挑戦手合五番勝負第2局 | Yamashita Keigo | Cho U | W+R | 2005-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d9m1nEE%2BpziE6mKUm5wmTQ%3D%3D) | 
-| 第31期天元戦挑戦手合五番勝負第2局 | Yamashita Keigo | Kono Rin | W+5.5 | 2005-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FiccSlAvR0cp0%2Bjv%2FEFVqg%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯国内予選 | Kiyonari Tetsuya | Yamashita Keigo | W+5.5 | 2005-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QqZS9PTb18mIyLs1jMvnQA%3D%3D) | 
-| 第31期碁聖戦本戦1回戦 | Fujii Shuya | Yamashita Keigo | W+R | 2005-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ElDTn61w7nr7Ag0UEvqTGg%3D%3D) | 
-| 第31期天元戦挑戦手合五番勝負第1局 | Kono Rin | Yamashita Keigo | W+6.5 | 2005-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5sT2zaYgZksonPHVe7NtbQ%3D%3D) | 
-| 第30期棋聖戦挑戦者決定戦 | Yamashita Keigo | Yuki Satoshi | B+3.5 | 2005-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8n3iRdi99xJgpggqd7GI8Q%3D%3D) | 
-| 第53期王座戦挑戦手合五番勝負第1局 | Cho U | Yamashita Keigo | B+R | 2005-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DaOz9vkVTYclJWLPqL4Ghg%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第3戦 | Yamashita Keigo | Lin Zhihan | B+2.5 | 2005-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eiekEE4ZpARwPshaV%2F1yqw%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第2戦 | Hu Yaoyu | Yamashita Keigo | B+R | 2005-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pu8RAdaOzgUVnhdV9Hhbng%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第1戦 | Yamashita Keigo | Cho Hanseung | W+7.5 | 2005-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jmLMyjegR66nci9nd6zWjw%3D%3D) | 
-| 第44期十段戦敗者復活戦3回戦 | Yamashita Keigo | O Rissei | B+R | 2005-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PndETBEwOAi%2BkiPTJV0Ljg%3D%3D) | 
-| 第30期棋聖戦Bリーグ | Yamashita Keigo | O Rissei | B+R | 2005-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yOj37XSUyGr7S2PCwyuBKw%3D%3D) | 
-| 第44期十段戦本戦3回戦 | Mimura Tomoyasu | Yamashita Keigo | B+2.5 | 2005-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kN5HLmvh9foh%2BouFXWCI%2BQ%3D%3D) | 
-| 第53期王座戦挑戦者決定戦 | Yamashita Keigo | Nakaonoda Tomomi | B+R | 2005-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bWE8xNP%2FdRW7F1gjiSovEQ%3D%3D) | 
-| 第30期棋聖戦Bリーグ | Yamashita Keigo | Kobayashi Satoru | B+R | 2005-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f0vmh9Tl3MuML7%2FNI8Nq2Q%3D%3D) | 
-| 第30期棋聖戦Bリーグ | Imamura Toshiya | Yamashita Keigo | W+R | 2005-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F9toodukOZ7RRL%2BUqhRqgA%3D%3D) | 
-| 第2回中環杯世界囲碁選手権2回戦 | Yamashita Keigo | Choi Cheolhan | W+1.5 | 2005-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8RXEG%2Br12gMzY9YEOfuyWg%3D%3D) | 
-| 第2回中環杯世界囲碁選手権1回戦 | Yamashita Keigo | Zhou Junxun | B+R | 2005-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R%2BujKX8txa7ZIUny7b%2FQrw%3D%3D) | 
-| 第53期王座戦準決勝 | Yamashita Keigo | O Meien | B+R | 2005-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EfVAyuuuU1H%2BCd8fhJkc2g%3D%3D) | 
-| 第30期名人戦挑戦者決定プレーオフ | Yamashita Keigo | Kobayashi Satoru | W+1.5 | 2005-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kp1QBEVOYrowp0hYxjZghw%3D%3D) | 
-| 第30期名人戦リーグ | Yamashita Keigo | Sakai Hideyuki | B+R | 2005-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KB%2BggkmlFXp1TY4ROgwKhg%3D%3D) | 
-| 第44期十段戦本戦2回戦 | Yamashita Keigo | Hikosaka Naoto | B+R | 2005-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0wb9jIfVXj8rpWHqBGzweg%3D%3D) | 
-| 第25期NECカップ囲碁トーナメント戦1回戦 | O Meien | Yamashita Keigo | B+3.5 | 2005-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NM0zIRWY6qgNUMz2zgtZnA%3D%3D) | 
-| 第30期名人戦リーグ | Yamashita Keigo | Cho Sonjin | B+R | 2005-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m67p2r0222MDWSqO4nQ%2FiA%3D%3D) | 
-| 第30期棋聖戦Bリーグ | Yamashita Keigo | Komatsu Hideki | W+R | 2005-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fRQSO1TxAUSQpMhpJPKgCg%3D%3D) | 
-| 第44期十段戦本戦1回戦 | Yamashita Keigo | Cho U | B+R | 2005-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LAfPk5wgpnnd%2BXZMp3eSEg%3D%3D) | 
-| 第53期王座戦2回戦 | Yamashita Keigo | Hane Naoki | B+R | 2005-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8fdFqQG4Hl%2BpTRQE8FLmjA%3D%3D) | 
-| 第12期阿含・桐山杯全日本早碁オープン戦1回戦 | Yamashita Keigo | Sakai Hideyuki | W+0.5 | 2005-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CQU%2BqOd%2BUrEFkxw2vYiAoQ%3D%3D) | 
-| 第30期棋聖戦Bリーグ | O Meien | Yamashita Keigo | W+R | 2005-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2vtk9hgtXyOaDVD4PxiTzQ%3D%3D) | 
-| 第30期名人戦リーグ | Yamada Kimio | Yamashita Keigo | W+R | 2005-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DttzmpMxbi6LhsRsxaVUhg%3D%3D) | 
-| 第10回LG杯世界棋王戦2回戦 | Yamashita Keigo | Lee Sedol | W+R | 2005-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VcXjNtsZaerIsEj%2BdvBVzw%3D%3D) | 
-| 第10回LG杯世界棋王戦1回戦 | Yamashita Keigo | Chang Hao | B+R | 2005-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2FRhefGHBh3lHglZD4VQ8Q%3D%3D) | 
-| 第30期名人戦リーグ | Yoda Norimoto | Yamashita Keigo | W+1.5 | 2005-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iymixn9Nv6gveh1hFSLjBA%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第3戦 | O Meien | Yamashita Keigo | W+R | 2005-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DvhYh0f7RObUoFUrC0mMOw%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第2戦 | Lee Changho | Yamashita Keigo | B+7.5 | 2005-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AYKf5U9W1XIHKQ0Cgyin0w%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第1戦 | Yamashita Keigo | Zhou Heyang | B+R | 2005-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1d%2BIMtmBf9fEuPiSNP5%2BTQ%3D%3D) | 
-| 第53期王座戦1回戦 | Yamashita Keigo | Sakai Hideyuki | B+1.5 | 2005-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CDkX6RHmeNMGpqFSwrzE7w%3D%3D) | 
-| 第30期名人戦リーグ | Ogata Masaki | Yamashita Keigo | W+R | 2005-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FmFhaVOK%2BH6vk1OQzdcabg%3D%3D) | 
-| 第30期名人戦リーグ | Imamura Toshiya | Yamashita Keigo | W+R | 2005-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zAM%2B8bCFD7ZcOZcSIKgtcw%3D%3D) | 
-| 第30期名人戦リーグ | Yamashita Keigo | Kobayashi Satoru | W+R | 2005-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UcIYPvcdYhOH4kfUQ185Fg%3D%3D) | 
-| 第30期碁聖戦本戦2回戦 | Cho Chikun | Yamashita Keigo | B+R | 2005-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eubfAkgZTHQ4chVst3sscg%3D%3D) | 
-| 第30期名人戦リーグ | Yamashita Keigo | O Meien | B+R | 2005-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PP7dZGB8B3qlGipVznZ8zQ%3D%3D) | 
-| 第1回中環杯世界囲碁選手権準決勝 | Park Yeonghun | Yamashita Keigo | B+R | 2005-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mcGm0tv%2F4RS308j8EDBcPw%3D%3D) | 
-| 第30期碁聖戦本戦1回戦 | Yamashita Keigo | Kitano Ryo | B+R | 2005-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oWnNr%2FE%2FpyX3SNgYGJ5hvA%3D%3D) | 
-| 第52期王座戦挑戦手合五番勝負第4局 | Cho U | Yamashita Keigo | B+5.5 | 2004-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hZG4DkLaIWhBvKsgJmt7GQ%3D%3D) | 
-| 第52期王座戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho U | B+R | 2004-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7q3YuJ6IjV6%2FAllPVcRRXA%3D%3D) | 
-| 第30期天元戦挑戦手合五番勝負第3局 | Hane Naoki | Yamashita Keigo | W+R | 2004-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MKfrAtlAk%2B%2FLr3ko9xj%2F3g%3D%3D) | 
-| 第52期王座戦挑戦手合五番勝負第2局 | Cho U | Yamashita Keigo | B+3.5 | 2004-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3pyZORAy9J69bM2AOXDxUg%3D%3D) | 
-| 第30期天元戦挑戦手合五番勝負第2局 | Yamashita Keigo | Hane Naoki | B+1.5 | 2004-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j3u15NDdivl0OZl51ny8bQ%3D%3D) | 
-| 第29期棋聖戦挑戦者決定戦 | Yuki Satoshi | Yamashita Keigo | B+6.5 | 2004-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=po9vLg7hqNR0TjbLUUVCIQ%3D%3D) | 
-| 第30期天元戦挑戦手合五番勝負第1局 | Hane Naoki | Yamashita Keigo | W+4.5 | 2004-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RjRAOcV4zwvaXrzK1sWw1w%3D%3D) | 
-| 第52期王座戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho U | W+R | 2004-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c85k53EDuNouEeZDU9rskQ%3D%3D) | 
-| 第43期十段戦敗者復活戦3回戦 | Yamashita Keigo | Rin Kaiho | W+7.5 | 2004-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eLLltsGTwmMkfHIIO1SBMQ%3D%3D) | 
-| 第29期棋聖戦Aリーグ | Ryu Shikun | Yamashita Keigo | W+0.5 | 2004-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ARKNupkRNQ8eheUJ0hlsnQ%3D%3D) | 
-| 第30期天元戦挑戦者決定戦 | Yamashita Keigo | Kim Sujun | B+8.5 | 2004-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RoKGgLzIVRn3dkNZIjW6Cw%3D%3D) | 
-| 第43期十段戦敗者復活戦2回戦 | Kobayashi Koichi | Yamashita Keigo | W+6.5 | 2004-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eXez2gRLS9NqEemXMG4nPw%3D%3D) | 
-| 第1回中環杯世界囲碁選手権2回戦 | Yamashita Keigo | Lin Zhihan | B+2.5 | 2004-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7LrP%2F7l1xHD1c3RBav4XyQ%3D%3D) | 
-| 第1回中環杯世界囲碁選手権1回戦 | Choi Cheolhan | Yamashita Keigo | W+R | 2004-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=THwwWKq7K29q%2FOCN%2BUnnpw%3D%3D) | 
-| 第29期棋聖戦Aリーグ | Yamashita Keigo | Mimura Tomoyasu | B+R | 2004-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hh5o1P2YzKp0IGWh7dGG2w%3D%3D) | 
-| 第9回三星火災杯世界オープン囲碁選手権1回戦 | Yamashita Keigo | Park Yeonghun | W+R | 2004-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XWB6iWWKkTSik0cyjUlWbg%3D%3D) | 
-| 第52期王座戦挑戦者決定戦 | Yoda Norimoto | Yamashita Keigo | W+R | 2004-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O46UQUTHsMkke%2By9sAtJJg%3D%3D) | 
-| 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Yamashita Keigo | Gu Li | W+R | 2004-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sd8L9%2FjfEM9mqoVJPSV7zA%3D%3D) | 
-| 第30期天元戦本戦準決勝 | Kato Masao | Yamashita Keigo | W+R | 2004-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BhZHS8mtsDC0XJ1FZNqnRA%3D%3D) | 
-| 第29期棋聖戦Aリーグ | Yamashita Keigo | Miyazawa Goro | B+R | 2004-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Myq2gk2KljmJCoSJFGHDvA%3D%3D) | 
-| 第2期JALスーパー早碁準決勝 | Yamashita Keigo | Mimura Tomoyasu | W+5.5 | 2004-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ymXprH4UDWEcnXHw44Kbuw%3D%3D) | 
-| 第29期名人戦リーグ | Imamura Toshiya | Yamashita Keigo | B+2.5 | 2004-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ACe09HcLtG4trDYd7%2BANXQ%3D%3D) | 
-| 第52期王座戦準決勝 | Yamashita Keigo | Hane Naoki | B+0.5 | 2004-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MhK9FoMpbgp5KGpIC0j7dA%3D%3D) | 
-| 第43期十段戦敗者復活戦1回戦 | Kato Masao | Yamashita Keigo | W+3.5 | 2004-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3XSjKaZnHDb3mmicsIy4%2Fw%3D%3D) | 
-| 第30期天元戦本戦3回戦 | Kono Rin | Yamashita Keigo | W+R | 2004-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pZyJv3GSrIwvJFA3FwQ1xQ%3D%3D) | 
-| 第24期NECカップ囲碁トーナメント戦1回戦 | Cho U | Yamashita Keigo | B+2.5 | 2004-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vOZIuvGY1VvBmkYu3FYk7Q%3D%3D) | 
-| 第29期棋聖戦Aリーグ | O Meien | Yamashita Keigo | W+R | 2004-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZtL1kMGurx9CfbgdAPvCIg%3D%3D) | 
-| 第52期王座戦2回戦 | Yamashita Keigo | Yuki Satoshi | B+R | 2004-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3dokCsRyNeIYEmt4JPzuyg%3D%3D) | 
-| 第30期天元戦本戦2回戦 | Komatsu Hideki | Yamashita Keigo | W+R | 2004-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OBktDI9wBGO2rmpkbVgytg%3D%3D) | 
-| 第29期名人戦リーグ | Yamashita Keigo | Cho U | B+R | 2004-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UsDPquhtlfhKZ%2FxMBJSZRg%3D%3D) | 
-| 第29期棋聖戦Aリーグ | Yoda Norimoto | Yamashita Keigo | B+0.5 | 2004-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R6titfaiHp9s4rRsM1gyFA%3D%3D) | 
-| 第29期名人戦リーグ | Rin Kaiho | Yamashita Keigo | W+R | 2004-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yz3A9oOCQLDh%2FRIapClLgA%3D%3D) | 
-| 第29期名人戦リーグ | Yamashita Keigo | Kobayashi Satoru | W+4.5 | 2004-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AyLdocJIHyozgjzuV%2FDEqw%3D%3D) | 
-| 第9回LG杯世界棋王戦2回戦 | Yamashita Keigo | Cho Hanseung | W+7.5 | 2004-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MjYvhKXrKBANyo16DFcBJw%3D%3D) | 
-| 第9回LG杯世界棋王戦1回戦 | Yamashita Keigo | Song Taekon | B+R | 2004-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D0u5mp0RxUUSbz7QymN34g%3D%3D) | 
-| 第43期十段戦本戦1回戦 | Yoda Norimoto | Yamashita Keigo | B+R | 2004-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yPyHSceIiLegNAUO%2BIRKsw%3D%3D) | 
-| 第52期王座戦1回戦 | Yamashita Keigo | Kato Atsushi | B+R | 2004-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1f5VrmTeNttAG%2BDtUoxGfw%3D%3D) | 
-| 第29期碁聖戦本戦準決勝 | Yamashita Keigo | Cho U | W+R | 2004-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GfMs14gM2QdWKulHIrpHGQ%3D%3D) | 
-| 第30期天元戦本戦1回戦 | Yamashita Keigo | Kobayashi Satoru | B+R | 2004-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EJbYgnHUPF6V8Ii%2F%2F%2BWBsg%3D%3D) | 
-| 第5回応氏杯世界選手権2回戦 | Yamashita Keigo | Lee Changho | W+3 | 2004-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k9vWx1VyFTr3%2FkqFRxpbew%3D%3D) | 
-| 第5回応氏杯世界選手権1回戦 | Gu Li | Yamashita Keigo | W+2 | 2004-04-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s5lI3UBMKKGxhi5UIvx46w%3D%3D) | 
-| 第29期名人戦リーグ | O Meien | Yamashita Keigo | W+1.5 | 2004-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oFOtM6IdaYlu6xUyUr88OA%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯2回戦 | Park Yeonghun | Yamashita Keigo | B+5.5 | 2004-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mcfG%2BC9HMpMpEWC64nTYgg%3D%3D) | 
-| 第29期碁聖戦本戦3回戦 | Yamashita Keigo | Kobayashi Koichi | B+4.5 | 2004-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bUL0P%2FqdeB83NZVe6QFIhQ%3D%3D) | 
-| 第2期JALスーパー早碁1回戦 | Yamashita Keigo | Ryu Shikun | B+5.5 | 2004-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UxIXQv3tmiRHQBNUev4SNA%3D%3D) | 
-| 第59期本因坊戦リーグ | Yamashita Keigo | Mimura Tomoyasu | B+R | 2004-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h%2FcEhucJafuCZa2ZLIM0Vw%3D%3D) | 
-| 第3回CSK杯囲碁アジア対抗戦第3戦 | Yamashita Keigo | O Rissei | W+2.5 | 2004-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ly1u7sOsYpjfgL1%2FD5O01A%3D%3D) | 
-| 第3回CSK杯囲碁アジア対抗戦第2戦 | Yamashita Keigo | Choi Cheolhan | W+R | 2004-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jt%2BPwN0WDPear2bY2AVu2Q%3D%3D) | 
-| 第3回CSK杯囲碁アジア対抗戦第1戦 | Yu Bin | Yamashita Keigo | B+R | 2004-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UUTLTn8ww%2BMVSFCgU2EaJg%3D%3D) | 
-| 第28期棋聖戦挑戦手合七番勝負第7局 | Hane Naoki | Yamashita Keigo | B+R | 2004-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WQQvRKMte7N7SEa4sYxDzg%3D%3D) | 
-| 第28期棋聖戦挑戦手合七番勝負第6局 | Yamashita Keigo | Hane Naoki | B+R | 2004-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RrS0LdoF%2BwukoIPng3aMLg%3D%3D) | 
-| 第59期本因坊戦リーグ | Yamashita Keigo | Kato Masao | B+2.5 | 2004-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5MYnQEByJQ4pF%2F8wNryqEQ%3D%3D) | 
-| 第28期棋聖戦挑戦手合七番勝負第5局 | Hane Naoki | Yamashita Keigo | W+R | 2004-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l7T78R4AqGKKXT5xAVGtvw%3D%3D) | 
-| 第23期NECカップ囲碁トーナメント戦準決勝 | Kobayashi Koichi | Yamashita Keigo | B+R | 2004-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=793QTyxmz00nUn4hwXBK6Q%3D%3D) | 
-| 第28期棋聖戦挑戦手合七番勝負第4局 | Yamashita Keigo | Hane Naoki | B+0.5 | 2004-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JAV6Q2EpwpE61JZIvfUVlw%3D%3D) | 
-| 第59期本因坊戦リーグ | Yamashita Keigo | O Rissei | W+3.5 | 2004-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i7RlRPWh6yLXnfaEtyb9EQ%3D%3D) | 
-| 第29期碁聖戦本戦2回戦 | Kono Rin | Yamashita Keigo | W+5.5 | 2004-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QtX3g0ga%2FX9upLfHaHPvIw%3D%3D) | 
-| 第28期棋聖戦挑戦手合七番勝負第3局 | Hane Naoki | Yamashita Keigo | B+3.5 | 2004-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RSiCUtgpjp9wCO%2FAmgb16Q%3D%3D) | 
-| 第28期棋聖戦挑戦手合七番勝負第2局 | Yamashita Keigo | Hane Naoki | W+R | 2004-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nz9ovxBAgaT6g8ezq1uBfw%3D%3D) | 
-| 第29期名人戦リーグ | Yamashita Keigo | Yamada Kimio | W+R | 2004-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CzYFp0s9RGDa%2F1nbyb8Oew%3D%3D) | 
-| 第28期棋聖戦挑戦手合七番勝負第1局 | Hane Naoki | Yamashita Keigo | B+R | 2004-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZSj9Ng5gslHp5JZKDNKzxg%3D%3D) | 
-| 第59期本因坊戦リーグ | Yoda Norimoto | Yamashita Keigo | B+R | 2004-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4%2F5TzQ6jfjsWttNIyECM%2Fw%3D%3D) | 
-| 第29期名人戦リーグ | O Rissei | Yamashita Keigo | B+R | 2003-12-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h1TC6%2FTBwmaePGLH%2FqOezw%3D%3D) | 
-| 第29期天元戦挑戦手合五番勝負第5局 | Yamashita Keigo | Hane Naoki | W+6.5 | 2003-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tJPT4Nz8Z88RDHsnosEOzw%3D%3D) | 
-| 第59期本因坊戦リーグ | Yamashita Keigo | Kobayashi Koichi | W+1.5 | 2003-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Cyxfk47qqbvz8nWE%2BuW4w%3D%3D) | 
-| 第29期天元戦挑戦手合五番勝負第4局 | Hane Naoki | Yamashita Keigo | W+R | 2003-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uAq3nikuy944w%2FaPiMHMPQ%3D%3D) | 
-| 第29期碁聖戦本戦1回戦 | Yamashiro Hiroshi | Yamashita Keigo | W+R | 2003-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ps1J34kh0R8c%2FSVc6HnWPg%3D%3D) | 
-| 第23期NECカップ囲碁トーナメント戦2回戦 | Cho Sonjin | Yamashita Keigo | W+R | 2003-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UYUTu4BgRbLNhFz1BIM9%2Bw%3D%3D) | 
-| 第29期天元戦挑戦手合五番勝負第3局 | Yamashita Keigo | Hane Naoki | W+R | 2003-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7CGSGTQVrzEX4mOnzAikPQ%3D%3D) | 
-| 第29期天元戦挑戦手合五番勝負第2局 | Hane Naoki | Yamashita Keigo | B+4.5 | 2003-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rz1cdrN6a6OxgWq4V%2FxBsw%3D%3D) | 
-| 第59期本因坊戦リーグ | O Meien | Yamashita Keigo | W+R | 2003-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9klLxEkln8qY1xnfDwhMYw%3D%3D) | 
-| 第42期十段戦敗者復活戦3回戦 | Yamashita Keigo | Yamada Kimio | W+R | 2003-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OtdlPZ%2F6bey5CoQBrLLAAQ%3D%3D) | 
-| 第29期天元戦挑戦手合五番勝負第1局 | Yamashita Keigo | Hane Naoki | B+1.5 | 2003-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nB0LUSU3mH0N%2B3BFZkWHlw%3D%3D) | 
-| 第59期本因坊戦リーグ | Cho Sonjin | Yamashita Keigo | B+6.5 | 2003-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mRogLb0DCf7Pgp%2BwPUISoQ%3D%3D) | 
-| 第28期名人戦挑戦手合七番勝負第5局 | Yoda Norimoto | Yamashita Keigo | B+R | 2003-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pIV%2BtgKprDXlZsRf5n%2FUEg%3D%3D) | 
-| 第28期名人戦挑戦手合七番勝負第4局 | Yamashita Keigo | Yoda Norimoto | W+3.5 | 2003-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AsUn4Ve6sf9SPGwRJZymcA%3D%3D) | 
-| 第29期天元戦挑戦者決定戦 | Kono Rin | Yamashita Keigo | W+R | 2003-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Izn3ZjlFLdj5dagSvYh5Tg%3D%3D) | 
-| 第28期名人戦挑戦手合七番勝負第3局 | Yoda Norimoto | Yamashita Keigo | W+2.5 | 2003-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZlG9DyV%2B%2BEN1NTZLbmc4ZA%3D%3D) | 
-| 第28期名人戦挑戦手合七番勝負第2局 | Yamashita Keigo | Yoda Norimoto | W+R | 2003-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ShMZtXF0DKLyX0Y6UNWExg%3D%3D) | 
-| 第28期名人戦挑戦手合七番勝負第1局 | Yoda Norimoto | Yamashita Keigo | B+7.5 | 2003-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OlXqjn9555qrCrMhlaRmOQ%3D%3D) | 
-| 第1期JALスーパー早碁2回戦 | Yamashita Keigo | Yuki Satoshi | W+R | 2003-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xMu%2BPneRcCpAjWfNNfdITg%3D%3D) | 
-| 第42期十段戦敗者復活戦2回戦 | Yamashita Keigo | Hane Naoki | B+R | 2003-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DJaK%2F0IlYYq3QQ8mRuaqFA%3D%3D) | 
-| 第28期名人戦リーグ | O Meien | Yamashita Keigo | W+R | 2003-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E4pqAl1wB6p3bE8oIEOa8g%3D%3D) | 
-| 第29期天元戦本戦準決勝 | O Rissei | Yamashita Keigo | W+4.5 | 2003-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2MdYrWZTE5vGdo831Fd9eA%3D%3D) | 
-| 第28期名人戦リーグ | Yamashita Keigo | Cho U | B+7.5 | 2003-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SGa%2Bitdn92p32DZxltmrcA%3D%3D) | 
-| 第28期名人戦リーグ | Mizokami Tomochika | Yamashita Keigo | W+7.5 | 2003-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k9x%2FTUgNaFu2U0yhLh0BdA%3D%3D) | 
-| 第29期天元戦本戦3回戦 | Hane Yasumasa | Yamashita Keigo | W+R | 2003-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zIOUHFySs9nL50M1XdR4eQ%3D%3D) | 
-| 第23期NECカップ囲碁トーナメント戦1回戦 | Yoda Norimoto | Yamashita Keigo | W+4.5 | 2003-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vLhXzK90nvrzuevoEFq0rQ%3D%3D) | 
-| 第28期名人戦リーグ | Yamashita Keigo | Rin Kaiho | B+6.5 | 2003-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O6LvAHmMId4KTRijOdl6rg%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第3戦 | Yamashita Keigo | Wang Xi | B+R | 2003-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OVaDCCAYrQe%2Bw%2BUL28yYjg%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第2戦 | Yoo Changhyuk | Yamashita Keigo | W+R | 2003-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8fPDQiJH1XWpGYAp3spTjw%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第1戦 | O Meien | Yamashita Keigo | B+2.5 | 2003-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2lMgTP1X6D1B6wGZnaHqoQ%3D%3D) | 
-| 第1期JALスーパー早碁1回戦 | Yamashita Keigo | Yokota Shigeaki | B+R | 2003-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FjC4hOHwOfzA64stfTu2pA%3D%3D) | 
-| 第28期名人戦リーグ | Cho Chikun | Yamashita Keigo | W+R | 2003-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ztn65fWAobNki%2BtghFxY%2Fg%3D%3D) | 
-| 第29期天元戦本戦2回戦 | Yamashita Keigo | Otake Hideo | B+R | 2003-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L%2Btk%2FBbwVDsc5Icbg8p03A%3D%3D) | 
-| 第28期名人戦リーグ | Yamashita Keigo | Ryu Shikun | B+R | 2003-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EOhe%2Ba%2F%2FDH6aICzvQT3fNQ%3D%3D) | 
-| 第29期天元戦本戦1回戦 | Kubo Katsuaki | Yamashita Keigo | W+R | 2002-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fOgwdM1GKcsXyVfHMZbsFg%3D%3D) | 
-| 第28期碁聖戦本戦2回戦 | Nakano Hironari | Yamashita Keigo | B+3.5 | 2002-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hrKPzIluuJQ1wEJphLMGBA%3D%3D) | 
-| 第28期名人戦リーグ | Yamashita Keigo | Takemiya Masaki | B+R | 2002-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Co5jyjluGX%2BPEkK6fIfAEg%3D%3D) | 
-| 第28期碁聖戦本戦1回戦 | Nakano Yasuhiro | Yamashita Keigo | W+R | 2002-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yvXYEv9VQGP7sKpJyrZbRQ%3D%3D) | 
-| 坂井秀至　試練の十二番勝負　第八戦 | Yamashita Keigo | Sakai Hideyuki | B+4.5 | 2002-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v0lip7hvzvhzzj39n2dpxA%3D%3D) | 
-| 第3回農心辛ラーメン杯世界囲碁最強戦第5戦 | Luo Xihe | Yamashita Keigo | B+R | 2001-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ot%2BrHxDvhuZIjDmH%2BDljAQ%3D%3D) | 
-| 第6回LG杯世界棋王戦3回戦 | Yamashita Keigo | Cho Hunhyun | W+R | 2001-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ktZF0mDAeoML99Q492gdBA%3D%3D) | 
-| 第6回LG杯世界棋王戦2回戦 | Seo Bongsoo | Yamashita Keigo | W+R | 2001-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LOfgDh6WzwdVRq%2B9smO6OQ%3D%3D) | 
-| 第6回LG杯世界棋王戦1回戦 | Park Cheongsang | Yamashita Keigo | W+R | 2001-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wGY1co%2FsAE7oA3Xb%2B1JzTw%3D%3D) | 
-| 第2回農心辛ラーメン杯世界囲碁最強戦第11戦 | Yamashita Keigo | Cho Hunhyun | W+4.5 | 2001-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h9ARZ9YYOqrt9RlpVCa6XA%3D%3D) | 
-| 第2回農心辛ラーメン杯世界囲碁最強戦第10戦 | Yamashita Keigo | Chang Hao | B+R | 2001-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4UoI4UQeDWv3JFmH57K9Vg%3D%3D) | 
-| 2000年国際新鋭囲碁対抗戦第1戦 | Mok Jinseok | Yamashita Keigo | B+6.5 | 2000-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NmGXoFDgsh%2FkH2WrUOoryw%3D%3D) | 
-| 第1回農心辛ラーメン杯世界囲碁最強戦第1戦 | Yamashita Keigo | Mok Jinseok | W+R | 1999-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JWhqiW%2FfQkfVpGmMkmwa4g%3D%3D) | 
-| 第4期三星杯予選決勝 | Yamashita Keigo | Zhou Heyang | W+R | 1999-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c4qZnTAzjgcvM5R3WRuH7w%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-10 | 第46期名人戦リーグ  | Yamashita Keigo | Hsu Chiayuan | Lose | W+4.5 | 6.5 | 3239 | -8 | 
+| 2021-05-27 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Yamashita Keigo | Onishi Kenya | Win | B+6.5 | 6.5 | 3247 | 6 | 
+| 2021-05-24 | 第46期棋聖戦Sリーグ | Ichiriki Ryo | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3241 | -12 | 
+| 2021-05-10 | 第46期名人戦リーグ | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3253 | 15 | 
+| 2021-04-29 | 第77期本因坊戦予選 | Yamashita Keigo | O Rissei | Win | B+2.5 | 6.5 | 3238 | -22 | 
+| 2021-04-22 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Yu Zhengqi | Lose | W+R | 6.5 | 3260 | -23 | 
+| 2021-04-19 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Mizokami Tomochika | Yamashita Keigo | Win | W+R | 6.5 | 3283 | 17 | 
+| 2021-04-05 | 第46期名人戦リーグ | Yamashita Keigo | Anzai Nobuaki | Win | B+2.5 | 6.5 | 3266 | -74 | 
+| 2021-03-22 | 第77期本因坊戦予選 | Sakai Takeshi | Yamashita Keigo | Win | W+R | 6.5 | 3340 | 27 | 
+| 2021-03-04 | 第46期名人戦リーグ | Yamashita Keigo | Yu Zhengqi | Lose | W+4.5 | 6.5 | 3313 | 4 | 
+| 2021-03-01 | 第69期王座戦予選 | Ogaki Yusaku | Yamashita Keigo | Lose | B+R | 6.5 | 3309 | -54 | 
+| 2021-02-18 | 第46期名人戦リーグ  | Shibano Toramaru | Yamashita Keigo | Win | W+R | 6.5 | 3363 | -66 | 
+| 2020-12-22 | 2020中日韓聶衛平杯囲碁マスターズ2回戦  | Yamashita Keigo | Lee Changho | Lose | W+R | 7.5 | 3429 | -16 | 
+| 2020-12-21 | 2020中日韓聶衛平杯囲碁マスターズ1回戦  | Chang Hao | Yamashita Keigo | Lose | B+R | 7.5 | 3445 | -4 | 
+| 2020-12-17 | 第47期天元戦予選 | Yamashita Keigo | Yoda Norimoto | Win | B+R | 6.5 | 3449 | 12 | 
+| 2020-12-10 | 第46期名人戦リーグ | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 | 3437 | -21 | 
+| 2020-12-03 | 第59期十段戦3回戦 | Murakawa Daisuke | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3458 | 23 | 
+| 2020-10-30 | 第45期棋聖戦挑戦者決定トーナメント | Takao Shinji | Yamashita Keigo | Lose | B+5.5 | 6.5 | 3435 | -18 | 
+| 2020-10-23 | 第59期十段戦2回戦 | Ichiriki Ryo | Yamashita Keigo | Win | W+R | 6.5 | 3453 | 38 | 
+| 2020-10-19 | 第45期棋聖戦挑戦者決定トーナメント | Yamashita Keigo | Shibano Toramaru | Win | B+R | 6.5 | 3415 | 29 | 
+| 2020-10-08 | 第59期十段戦1回戦 | Yamashita Keigo | Sun Zhe | Win | B+4.5 | 6.5 | 3386 | -2 | 
+| 2020-10-03 | 第27期阿含・桐山杯全日本早碁オープン戦決勝  | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3388 | 73 | 
+| 2020-09-07 | 第45期棋聖戦Aリーグ | Yu Zhengqi | Yamashita Keigo | Lose | B+R | 6.5 | 3315 | 14 | 
+| 2020-09-03 | 第68期王座戦準決勝 | Yamashita Keigo | Hsu Chiayuan | Lose | W+R | 6.5 | 3301 | -3 | 
+| 2020-08-31 | 第27期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Murakawa Daisuke | Win | B+R | 6.5 | 3304 | -8 | 
+| 2020-08-20 | 第45期棋聖戦Aリーグ | Yamashita Keigo | So Yokoku | Win | B+R | 6.5 | 3312 | 37 | 
+| 2020-08-17 | 第59期十段戦予選 | Yamashita Keigo | Hirose Yuichi | Win | B+R | 6.5 | 3275 | 3 | 
+| 2020-08-13 | 第27期阿含・桐山杯全日本早碁オープン戦2回戦 | Mutsuura Yuta | Yamashita Keigo | Win | W+4.5 | 6.5 | 3272 | 124 | 
+| 2020-08-06 | 第45期名人戦リーグ | Yamashita Keigo | Hsu Chiayuan | Win | B+R | 6.5 | 3148 | 12 | 
+| 2020-07-30 | 第68期王座戦2回戦 | Yamashita Keigo | Ohba Junya | Win | B+R | 6.5 | 3136 | -3 | 
+| 2020-07-27 | 第46期天元戦3回戦 | Ichiriki Ryo | Yamashita Keigo | Lose | B+R | 6.5 | 3139 | -1 | 
+| 2020-07-23 | 第45期棋聖戦Aリーグ | Yamashita Keigo | Yoda Norimoto | Win | B+3.5 | 6.5 | 3140 | 20 | 
+| 2020-07-20 | 第27期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho U | Yamashita Keigo | Win | W+R | 6.5 | 3120 | -17 | 
+| 2020-07-16 | 第76期本因坊戦予選 | Ida Atsushi | Yamashita Keigo | Lose | B+10.5 | 6.5 | 3137 | 5 | 
+| 2020-07-09 | 第45期名人戦リーグ | Yamashita Keigo | Kono Rin | Lose | W+1.5 | 6.5 | 3132 | -23 | 
+| 2020-07-03 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Yamashita Keigo | Yamada Kimio | Win | B+R | 6.5 | 3155 | 19 | 
+| 2020-06-30 | 第45期名人戦リーグ | Murakawa Daisuke | Yamashita Keigo | Win | W+R | 6.5 | 3136 | 21 | 
+| 2020-06-25 | 第68期王座戦1回戦 | Sun Zhe | Yamashita Keigo | Win | W+R | 6.5 | 3115 | 53 | 
+| 2020-06-18 | 第45期棋聖戦Aリーグ | Adachi Toshimasa | Yamashita Keigo | Win | W+R | 6.5 | 3062 | 7 | 
+| 2020-06-15 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Yamashita Keigo | Takei Takashi | Win | B+R | 6.5 | 3055 | -6 | 
+| 2020-06-11 | 第46期天元戦2回戦 | Murakawa Daisuke | Yamashita Keigo | Win | W+R | 6.5 | 3061 | 16 | 
+| 2020-06-08 | 第45期名人戦リーグ | Cho U | Yamashita Keigo | Win | W+11.5 | 6.5 | 3045 | 142 | 
+| 2020-04-03 | 第75期本因坊戦リーグ  | Hane Naoki | Yamashita Keigo | Lose | B+6.5 | 6.5 | 2903 | -27 | 
+| 2020-03-26 | 第45期棋聖戦Aリーグ | Motoki Katsuya | Yamashita Keigo | Win | W+R | 6.5 | 2930 | 13 | 
+| 2020-03-23 | 第75期本因坊戦リーグ | Yamashita Keigo | Shibano Toramaru | Lose | W+0.5 | 6.5 | 2917 | 7 | 
+| 2020-03-19 | 第68期王座戦予選 | Yamashita Keigo | Kim Sujun | Win | B+R | 6.5 | 2910 | 0 | 
+| 2020-03-12 | 第45期棋聖戦Aリーグ | Yamashita Keigo | Onishi Ryuhei | Lose | W+R | 6.5 | 2910 | -34 | 
+| 2020-03-05 | 第45期名人戦リーグ | Yamashita Keigo | Rin Kanketsu | Lose | W+R | 6.5 | 2944 | -10 | 
+| 2020-02-20 | 第75期本因坊戦リーグ | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 | 2954 | -145 | 
+| 2020-02-13 | 第45期名人戦リーグ | Ichiriki Ryo | Yamashita Keigo | Lose | B+R | 6.5 | 3099 | -90 | 
+| 2020-02-06 | 第46期天元戦1回戦 | Fujita Akihiko | Yamashita Keigo | Win | W+R | 6.5 | 3189 | 16 | 
+| 2020-01-30 | 第45期棋聖戦Aリーグ | Yamashita Keigo | Shida Tatsuya | Win | B+R | 6.5 | 3173 | -6 | 
+| 2020-01-23 | 第75期本因坊戦リーグ | Yokotsuka Riki | Yamashita Keigo | Lose | B+10.5 | 6.5 | 3179 | -11 | 
+| 2020-01-16 | 第45期名人戦リーグ | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3190 | 281 | 
+| 2019-12-12 | 第45期名人戦リーグ | Yamashita Keigo | Hane Naoki | Lose | W+2.5 | 6.5 | 2909 | -30 | 
+| 2019-12-05 | 第75期本因坊戦リーグ | Ichiriki Ryo | Yamashita Keigo | Lose | B+0.5 | 6.5 | 2939 | -20 | 
+| 2019-11-11 | 第46期天元戦予選 | Yamashita Keigo | Ueno Asami | Win | B+R | 6.5 | 2959 | -13 | 
+| 2019-11-07 | 第75期本因坊戦リーグ | Yamashita Keigo | Hsu Chiayuan | Lose | W+R | 6.5 | 2972 | 15 | 
+| 2019-10-24 | 第75期本因坊戦リーグ | Yamashita Keigo | Shida Tatsuya | Lose | W+6.5 | 6.5 | 2957 | 20 | 
+| 2019-10-17 | 第21回農心辛ラーメン杯世界囲碁最強戦第3戦 | Yang Dingxin | Yamashita Keigo | Lose | B+3.5 | 6.5 | 2937 | 20 | 
+| 2019-10-10 | 第58期十段戦2回戦 | Yamashita Keigo | Ko Iso | Lose | W+R | 6.5 | 2917 | 9 | 
+| 2019-09-19 | 第46期天元戦予選 | Cho Riyu | Yamashita Keigo | Win | W+R | 6.5 | 2908 | -14 | 
+| 2019-09-05 | 第44期棋聖戦Sリーグ | Murakawa Daisuke | Yamashita Keigo | Win | W+R | 6.5 | 2922 | -25 | 
+| 2019-08-22 | 第44期棋聖戦Sリーグ | Takao Shinji | Yamashita Keigo | Lose | B+6.5 | 6.5 | 2947 | -105 | 
+| 2019-08-04 | 第6回国手山脈国際囲碁大会世界プロ最強戦8強戦 | Yamashita Keigo | Chen Yaoye | Lose | W+R | 6.5 | 3052 | -4 | 
+| 2019-08-03 | 第6回国手山脈国際囲碁大会世界プロ最強戦16強戦 | Yamashita Keigo | Park Junghwan | Win | B+R | 6.5 | 3056 | 23 | 
+| 2019-08-01 | 第44期名人戦リーグ | Yamashita Keigo | Kono Rin | Lose | W+3.5 | 6.5 | 3033 | 20 | 
+| 2019-07-15 | 第44期棋聖戦Sリーグ | Yamashita Keigo | Hsu Chiayuan | Lose | W+5.5 | 6.5 | 3013 | -25 | 
+| 2019-07-11 | 第44期名人戦リーグ | Shibano Toramaru | Yamashita Keigo | Lose | B+R | 6.5 | 3038 | -14 | 
+| 2019-06-20 | 第26期阿含・桐山杯全日本早碁オープン戦1回戦 | Ohba Junya | Yamashita Keigo | Lose | B+0.5 | 6.5 | 3052 | -8 | 
+| 2019-06-13 | 第44期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | Win | B+R | 6.5 | 3060 | 75 | 
+| 2019-05-30 | 第44期棋聖戦Sリーグ | Yamashita Keigo | Kono Rin | Lose | W+1.5 | 6.5 | 2985 | 30 | 
+| 2019-05-23 | 第67期王座戦1回戦 | Nakano Hironari | Yamashita Keigo | Lose | B+0.5 | 6.5 | 2955 | -55 | 
+| 2019-05-16 | 第44期名人戦リーグ | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3010 | -31 | 
+| 2019-05-09 | 第26期阿含・桐山杯全日本早碁オープン戦最終予選 | Yamashita Keigo | Hirata Tomoya | Win | B+0.5 | 6.5 | 3041 | 14 | 
+| 2019-05-02 | 第44期棋聖戦Sリーグ | Yamashita Keigo | So Yokoku | Win | B+R | 6.5 | 3027 | -33 | 
+| 2019-04-25 | 第44期名人戦リーグ | Mutsuura Yuta | Yamashita Keigo | Win | W+R | 6.5 | 3060 | -23 | 
+| 2019-04-18 | 第6回グランドチャンピオン戦2回戦 | Yamashita Keigo | Ida Atsushi | Lose | W+R | 6.5 | 3083 | -16 | 
+| 2019-04-15 | 第67期王座戦予選決勝 | Rin Shien | Yamashita Keigo | Win | W+R | 6.5 | 3099 | 6 | 
+| 2019-04-05 | 第74期本因坊戦リーグ | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 3093 | 9 | 
+| 2019-04-01 | 第44期碁聖戦本戦3回戦 | Yamashita Keigo | Iyama Yuta | Lose | W+5.5 | 6.5 | 3084 | 16 | 
+| 2019-03-28 | 第44期名人戦リーグ | Suzuki Shinji | Yamashita Keigo | Win | W+3.5 | 6.5 | 3068 | 10 | 
+| 2019-03-21 | 第74期本因坊戦リーグ | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 | 3058 | -8 | 
+| 2019-03-15 | 第43期棋聖戦挑戦手合七番勝負第7局 | Yamashita Keigo | Iyama Yuta | Lose | W+6.5 | 6.5 | 3066 | 31 | 
+| 2019-03-08 | 第43期棋聖戦挑戦手合七番勝負第6局 | Iyama Yuta | Yamashita Keigo | Win | W+R | 6.5 | 3035 | 33 | 
+| 2019-02-28 | 第43期棋聖戦挑戦手合七番勝負第5局 | Yamashita Keigo | Iyama Yuta | Win | B+6.5 | 6.5 | 3002 | -28 | 
+| 2019-02-21 | 第74期本因坊戦リーグ | Shibano Toramaru | Yamashita Keigo | Win | W+3.5 | 6.5 | 3030 | 6 | 
+| 2019-02-14 | 第43期棋聖戦挑戦手合七番勝負第4局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3024 | -15 | 
+| 2019-02-07 | 第44期名人戦リーグ | Hane Naoki | Yamashita Keigo | Lose | B+0.5 | 6.5 | 3039 | -24 | 
+| 2019-02-03 | 第43期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3063 | -13 | 
+| 2019-01-24 | 第44期碁聖戦本戦2回戦 | Sakai Hideyuki | Yamashita Keigo | Win | W+R | 6.5 | 3076 | -3 | 
+| 2019-01-22 | 第43期棋聖戦挑戦手合七番勝負第2局 | Iyama Yuta | Yamashita Keigo | Win | W+R | 6.5 | 3079 | 0 | 
+| 2019-01-17 | 第45期天元戦1回戦 | Motoki Katsuya | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3079 | -19 | 
+| 2019-01-14 | 第67期王座戦予選 | Yamashita Keigo | Numadate Sakiya | Win | B+R | 6.5 | 3098 | 6 | 
+| 2019-01-11 | 第43期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3092 | 9 | 
+| 2019-01-07 | 第74期本因坊戦リーグ | Anzai Nobuaki | Yamashita Keigo | Win | W+0.5 | 6.5 | 3083 | 2 | 
+| 2018-12-27 | 第57期十段戦準決勝 | Yamashita Keigo | Takao Shinji | Lose | W+2.5 | 6.5 | 3081 | -12 | 
+| 2018-12-19 | 第44期天元戦挑戦手合五番勝負第5局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3093 | -26 | 
+| 2018-12-13 | 第44期名人戦リーグ | Yamashita Keigo | Sun Zhe | Win | B+R | 6.5 | 3119 | -1 | 
+| 2018-12-10 | 第44期天元戦挑戦手合五番勝負第4局 | Iyama Yuta | Yamashita Keigo | Win | W+2.5 | 6.5 | 3120 | -22 | 
+| 2018-12-06 | 第44期碁聖戦本戦1回戦 | Yamashita Keigo | Onishi Ryuhei | Win | B+R | 6.5 | 3142 | 7 | 
+| 2018-12-02 | 第57期十段戦3回戦 | Yamashita Keigo | Ichiriki Ryo | Win | B+R | 6.5 | 3135 | 11 | 
+| 2018-11-29 | 第74期本因坊戦リーグ | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 3124 | 14 | 
+| 2018-11-23 | 第44期天元戦挑戦手合五番勝負第3局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3110 | -14 | 
+| 2018-11-15 | 第67期王座戦予選 | Yamashita Keigo | Koyama Kuya | Win | B+R | 6.5 | 3124 | -2 | 
+| 2018-11-08 | 第43期棋聖戦挑戦者決定トーナメント | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 3126 | 0 | 
+| 2018-11-01 | 第74期本因坊戦リーグ | Yamashita Keigo | Ichiriki Ryo | Lose | W+R | 6.5 | 3126 | -12 | 
+| 2018-10-29 | 第44期天元戦挑戦手合五番勝負第2局 | Iyama Yuta | Yamashita Keigo | Win | W+0.5 | 6.5 | 3138 | 4 | 
+| 2018-10-25 | 第57期十段戦2回戦 | Fujii Shuya | Yamashita Keigo | Win | W+R | 6.5 | 3134 | 16 | 
+| 2018-10-19 | 第44期天元戦挑戦手合五番勝負第1局  | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3118 | -10 | 
+| 2018-10-11 | 第74期本因坊戦リーグ | Yamashita Keigo | Yu Zhengqi | Lose | W+0.5 | 6.5 | 3128 | -6 | 
+| 2018-10-04 | 第57期十段戦1回戦 | Tsuruyama Atsushi | Yamashita Keigo | Win | W+0.5 | 6.5 | 3134 | -9 | 
+| 2018-09-23 | 第1回天府杯世界囲碁選手権A組2回戦 | Gu Zihao | Yamashita Keigo | Lose | B+R | 7.5 | 3143 | -12 | 
+| 2018-09-21 | 第1回天府杯世界囲碁選手権A組1回戦 | Wang Yuanjun | Yamashita Keigo | Win | W+R | 7.5 | 3155 | -19 | 
+| 2018-09-06 | 第44期碁聖戦予選 | Yamashita Keigo | Sun Zhe | Win | B+R | 6.5 | 3174 | -9 | 
+| 2018-09-03 | 第44期天元戦挑戦者決定戦 | Hsu Chiayuan | Yamashita Keigo | Win | W+R | 6.5 | 3183 | 36 | 
+| 2018-08-16 | 第44期天元戦準決勝 | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 3147 | 33 | 
+| 2018-08-02 | 第43期名人戦リーグ | Yamashita Keigo | Kono Rin | Lose | W+R | 7.5 | 3114 | -13 | 
+| 2018-07-24 | 第4回百霊杯世界オープン戦1回戦 | Gu Zihao | Yamashita Keigo | Lose | B+R | 7.5 | 3127 | 8 | 
+| 2018-07-19 | 第57期十段戦最終予選決勝 | Yamashita Keigo | Adachi Toshimasa | Win | B+R | 6.5 | 3119 | 25 | 
+| 2018-07-05 | 第43期名人戦リーグ | Takao Shinji | Yamashita Keigo | Win | W+R | 6.5 | 3094 | 21 | 
+| 2018-07-01 | 第73期本因坊戦挑戦手合七番勝負第五局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3073 | -13 | 
+| 2018-06-21 | 第44期天元戦3回戦 | Yamashita Keigo | Suzuki Shinji | Win | B+13.5 | 6.5 | 3086 | 9 | 
+| 2018-06-13 | 第73期本因坊戦挑戦手合七番勝負第四局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3077 | 2 | 
+| 2018-06-07 | 第43期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | Win | B+R | 6.5 | 3075 | 11 | 
+| 2018-06-03 | 第73期本因坊戦挑戦手合七番勝負第三局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3064 | -31 | 
+| 2018-05-24 | 第73期本因坊戦挑戦手合七番勝負第二局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3095 | 14 | 
+| 2018-05-16 | 第73期本因坊戦挑戦手合七番勝負第一局 | Yamashita Keigo | Iyama Yuta | Win | B+0.5 | 6.5 | 3081 | 9 | 
+| 2018-05-10 | 第43期棋聖戦Sリーグ | Yamashita Keigo | Kono Rin | Win | B+R | 6.5 | 3072 | -4 | 
+| 2018-05-03 | 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Yamashita Keigo | Nakano Yasuhiro | Lose | W+5.5 | 6.5 | 3076 | 1 | 
+| 2018-04-26 | 第44期天元戦2回戦 | Shida Tatsuya | Yamashita Keigo | Win | W+R | 6.5 | 3075 | 7 | 
+| 2018-04-19 | 第43期棋聖戦Sリーグ | Cho U | Yamashita Keigo | Win | W+R | 6.5 | 3068 | -1 | 
+| 2018-04-12 | 第43期名人戦リーグ | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 3069 | 9 | 
+| 2018-04-05 | 第73期本因坊戦リーグ最終節  | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 3060 | 12 | 
+| 2018-03-29 | 第66期王座戦予選 | Yamashita Keigo | Mutsuura Yuta | Lose | W+R | 6.5 | 3048 | -66 | 
+| 2018-03-18 | 第2回ワールド碁チャンピオンシップ準決勝  | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3114 | -17 | 
+| 2018-03-17 | 第2回ワールド碁チャンピオンシップ1回戦  | Wang Yuanjun | Yamashita Keigo | Win | W+R | 6.5 | 3131 | -19 | 
+| 2018-03-12 | 第5回グランドチャンピオン戦2回戦 | Kobayashi Satoru | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3150 | 3 | 
+| 2018-03-08 | 第66期王座戦最終予選 | Yamashita Keigo | Yun Chunho | Win | B+R | 6.5 | 3147 | -38 | 
+| 2018-03-01 | 第43期名人戦リーグ | Yamashita Keigo | Hane Naoki | Lose | W+R | 6.5 | 3185 | -11 | 
+| 2018-02-26 | 第43期碁聖戦本戦3回戦 | Hsu Chiayuan | Yamashita Keigo | Lose | B+R | 6.5 | 3196 | 9 | 
+| 2018-02-19 | 第2回ワールド碁チャンピオンシップ代表決定戦決勝 | Yamashita Keigo | Ichiriki Ryo | Win | B+R | 6.5 | 3187 | 13 | 
+| 2018-02-15 | 第43期名人戦リーグ | Yamashita Keigo | Shibano Toramaru | Lose | W+2.5 | 6.5 | 3174 | -12 | 
+| 2018-02-05 | 第2回ワールド碁チャンピオンシップ代表決定戦準決勝 | Yamashita Keigo | Motoki Katsuya | Win | B+R | 6.5 | 3186 | 22 | 
+| 2018-02-01 | 第44期天元戦1回戦 | Ohba Junya | Yamashita Keigo | Win | W+R | 6.5 | 3164 | 9 | 
+| 2018-01-25 | 第43期名人戦リーグ | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 3155 | -16 | 
+| 2018-01-11 | 第43期碁聖戦本戦2回戦 | Sada Atsushi | Yamashita Keigo | Win | W+R | 6.5 | 3171 | 32 | 
+| 2017-12-14 | 第66期王座戦予選 | Komatsu Hideki | Yamashita Keigo | Win | W+R | 6.5 | 3139 | 20 | 
+| 2017-12-07 | 第43期名人戦リーグ | Yu Zhengqi | Yamashita Keigo | Win | W+R | 6.5 | 3119 | 4 | 
+| 2017-11-25 | 第19回農心辛ラーメン杯世界囲碁最強戦第6戦 | Yamashita Keigo | Shin Minjun | Lose | W+R | 6.5 | 3115 | 5 | 
+| 2017-11-20 | 第66期王座戦予選 | Ito Masashi | Yamashita Keigo | Win | W+3.5 | 6.5 | 3110 | 5 | 
+| 2017-11-09 | 第42期棋聖戦挑戦者決定トーナメント変則三番勝負第一局 | Yamashita Keigo | Ichiriki Ryo | Lose | W+R | 6.5 | 3105 | -23 | 
+| 2017-10-27 | 第42期棋聖戦挑戦者決定トーナメント | Yamashita Keigo | Motoki Katsuya | Win | B+R | 6.5 | 3128 | 0 | 
+| 2017-10-27 | 第42期棋聖戦リーグSA組決勝 | Yamashita Keigo | Motoki Katsuya | Win | B+R | 6.5 | 3128 | 13 | 
+| 2017-10-19 | 第56期十段戦2回戦 | Yamashita Keigo | Murakawa Daisuke | Lose | W+5.5 | 6.5 | 3115 | 32 | 
+| 2017-09-25 | 第22回三星火災杯世界囲碁マスターズ2回戦 | Yamashita Keigo | Tong Mengcheng | Lose | W+R | 6.5 | 3083 | 3 | 
+| 2017-09-14 | 第42期棋聖戦　Sリーグ5回戦 | Yamashita Keigo | Murakawa Daisuke | Win | B+2.5 | 6.5 | 3080 | 13 | 
+| 2017-09-07 | 第22回三星火災杯世界囲碁マスターズ1回戦E3 | Yamashita Keigo | Chen Zijian | Win | B+3.5 | 6.5 | 3067 | 24 | 
+| 2017-09-06 | 第22回三星火災杯世界囲碁マスターズ1回戦E2 | Yamashita Keigo | Lee Sedol | Lose | W+R | 6.5 | 3043 | 3 | 
+| 2017-09-05 | 第22回三星火災杯世界囲碁マスターズ1回戦E1 | Yamashita Keigo | Li He | Win | B+R | 6.5 | 3040 | 0 | 
+| 2017-08-31 | 第43期天元戦　挑戦者決定戦 | Ichiriki Ryo | Yamashita Keigo | Lose | B+4.5 | 6.5 | 3040 | 35 | 
+| 2017-08-12 | 阪急電鉄納涼囲碁まつり公開対局 | Yoda Norimoto | Yamashita Keigo | Lose | B+R | 6.5 | 3005 | -31 | 
+| 2017-08-10 | 第42期棋聖戦　Sリーグ4回戦 | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 3036 | 4 | 
+| 2017-08-03 | 第43期天元戦準決勝 | Hsu Chiayuan | Yamashita Keigo | Win | W+R | 6.5 | 3032 | -7 | 
+| 2017-07-25 | 第42期碁聖戦挑戦手合五番勝負　第三局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3039 | -3 | 
+| 2017-07-19 | 第42期碁聖戦挑戦手合五番勝負　第二局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3042 | -12 | 
+| 2017-07-13 | 第42期名人戦リーグ | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 3054 | -1 | 
+| 2017-07-06 | 第42期棋聖戦　Sリーグ3回戦 | Yamashita Keigo | Cho U | Lose | W+0.5 | 6.5 | 3055 | -64 | 
+| 2017-06-22 | 第42期碁聖戦挑戦手合五番勝負　第一局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3119 | -24 | 
+| 2017-06-19 | 第43期天元戦3回戦 | Yamashita Keigo | Motoki Katsuya | Win | B+R | 6.5 | 3143 | 49 | 
+| 2017-06-15 | 第42期棋聖戦　Sリーグ2回戦 | Ichiriki Ryo | Yamashita Keigo | Lose | B+R | 6.5 | 3094 | 11 | 
+| 2017-06-05 | 第42期名人戦リーグ | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3083 | -36 | 
+| 2017-05-25 | 第24期阿含・桐山杯　最終予選決勝 | Hsu Chiayuan | Yamashita Keigo | Lose | B+0.5 | 6.5 | 3119 | -4 | 
+| 2017-05-18 | 第42期碁聖戦　挑戦者決定戦 | Yamashita Keigo | Motoki Katsuya | Win | B+R | 6.5 | 3123 | 35 | 
+| 2017-05-04 | 第42期名人戦リーグ | Yamashita Keigo | Hane Naoki | Lose | W+R | 6.5 | 3088 | -34 | 
+| 2017-04-27 | 第42期棋聖戦　Sリーグ1回戦 | So Yokoku | Yamashita Keigo | Win | W+R | 6.5 | 3122 | 28 | 
+| 2017-04-20 | 第43期天元戦　本戦2回戦第7局 | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 3094 | -15 | 
+| 2017-04-13 | 第42期名人戦リーグ | Cho U | Yamashita Keigo | Win | W+R | 6.5 | 3109 | -9 | 
+| 2017-04-06 | 第72期本因坊戦　挑戦者決定リーグ最終戦 | Takao Shinji | Yamashita Keigo | Win | W+R | 6.5 | 3118 | 2 | 
+| 2017-03-27 | 第42期名人戦リーグ | Yamashita Keigo | Kono Rin | Win | B+R | 6.5 | 3116 | 162 | 
+| 2017-03-18 | 第4回グランドチャンピオン戦　決勝 | Ichiriki Ryo | Yamashita Keigo | Lose | B+R | 6.5 | 2954 | 0 | 
+| 2017-03-18 | 第4回グランドチャンピオン戦　準決勝 | Iyama Yuta | Yamashita Keigo | Win | W+R | 6.5 | 2954 | -12 | 
+| 2017-03-16 | 第65期王座戦　最終予選特選譜第7局 | Yamashita Keigo | Shibano Toramaru | Lose | W+4.5 | 6.5 | 2966 | -42 | 
+| 2017-03-02 | 第72期本因坊戦　挑戦者決定リーグ第22局 | Yuki Satoshi | Yamashita Keigo | Win | W+5.5 | 6.5 | 3008 | 9 | 
+| 2017-02-20 | 第4回グランドチャンピオン戦　3回戦 | Onishi Ryuhei | Yamashita Keigo | Win | W+R | 6.5 | 2999 | 0 | 
+| 2017-02-20 | 第4回グランドチャンピオン戦　2回戦 |  | Yamashita Keigo | Win | W+R | 6.5 | 2999 | 37 | 
+| 2017-02-16 | 第42期名人戦リーグ | Yamashita Keigo | Yu Zhengqi | Win | B+R | 6.5 | 2962 | 46 | 
+| 2017-02-02 | 第72期本因坊戦　挑戦者決定リーグ第17局 | Yamashita Keigo | Motoki Katsuya | Lose | W+4.5 | 6.5 | 2916 | 9 | 
+| 2017-01-19 | 第72期本因坊戦　挑戦者決定リーグ第15局 | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 2907 | 10 | 
+| 2017-01-12 | 第42期名人戦リーグ | Sakai Hideyuki | Yamashita Keigo | Win | W+R | 6.5 | 2897 | 7 | 
+| 2017-01-09 | 第55期十段戦　準決勝 | Yamashita Keigo | Yu Zhengqi | Lose | W+1.5 | 6.5 | 2890 | -10 | 
+| 2017-01-07 | 第64回ＮＨＫ杯テレビ囲碁トーナメント3回戦第5局 | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 2900 | 5 | 
+| 2016-12-22 | 第43期天元戦　本戦1回戦第6局 | Shida Tatsuya | Yamashita Keigo | Win | W+R | 6.5 | 2895 | 2 | 
+| 2016-12-15 | 第42期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | Lose | W+3.5 | 6.5 | 2893 | -43 | 
+| 2016-12-08 | 第72期本因坊戦　挑戦者決定リーグ第10局 | Mitani Tetsuya | Yamashita Keigo | Win | W+0.5 | 6.5 | 2936 | 16 | 
+| 2016-12-01 | 第55期十段戦　準々決勝 | Yamashita Keigo | Takao Shinji | Win | B+R | 6.5 | 2920 | -37 | 
+| 2016-11-03 | 第72期本因坊戦　挑戦者決定リーグ第5局 | Yamashita Keigo | Ko Iso | Lose | W+R | 6.5 | 2957 | 2 | 
+| 2016-10-31 | 第41期棋聖戦SA組リーグ戦決勝 | Cho U | Yamashita Keigo | Lose | B+5.5 | 6.5 | 2955 | 17 | 
+| 2016-10-27 | 第55期十段戦　本戦2回戦 | Hikosaka Naoto | Yamashita Keigo | Win | W+R | 6.5 | 2938 | -30 | 
+| 2016-10-06 | 第72期本因坊戦　挑戦者決定リーグ第1局 | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 2968 | -74 | 
+| 2016-08-25 | 第23期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Kono Rin | Lose | W+1.5 | 6.5 | 3042 | 17 | 
+| 2016-08-22 | 第42期天元戦　準決勝第2局 | Yamashita Keigo | Hsu Chiayuan | Win | B+R | 6.5 | 3025 | 9 | 
+| 2016-08-18 | 第64期王座戦準決勝 | Yamashita Keigo | Yu Zhengqi | Lose | W+R | 6.5 | 3016 | -11 | 
+| 2016-08-11 | 第41期棋聖戦Sリーグ | Yamashita Keigo | Takao Shinji | Win | B+R | 6.5 | 3027 | 15 | 
+| 2016-08-04 | 第41期名人戦リーグ | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3012 | -48 | 
+| 2016-07-28 | 第55期十段戦予選 | Hong Maleunsaem | Yamashita Keigo | Win | W+R | 6.5 | 3060 | -32 | 
+| 2016-07-14 | 第64期王座戦2回戦 | Kono Rin | Yamashita Keigo | Win | W+1.5 | 6.5 | 3092 | 61 | 
+| 2016-07-07 | 第41期棋聖戦Sリーグ | Yoda Norimoto | Yamashita Keigo | Win | W+1.5 | 6.5 | 3031 | 13 | 
+| 2016-06-30 | 第41期名人戦リーグ | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3018 | 9 | 
+| 2016-06-23 | 第42期天元戦　準々決勝第2局 | Yamashita Keigo | Fujita Akihiko | Win | B+R | 6.5 | 3009 | 13 | 
+| 2016-06-16 | 第41期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | Lose | W+4.5 | 6.5 | 2996 | -25 | 
+| 2016-06-09 | 第41期棋聖戦Sリーグ | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 | 3021 | -2 | 
+| 2016-06-02 | 第64期王座戦　本戦1回戦第3局 | Adachi Toshimasa | Yamashita Keigo | Win | W+1.5 | 6.5 | 3023 | 20 | 
+| 2016-05-30 | 第23期阿含・桐山杯全日本早碁オープン戦予選 | Hoshino Masaki | Yamashita Keigo | Win | W+R | 6.5 | 3003 | 11 | 
+| 2016-05-26 | 第41期棋聖戦Sリーグ | Yamashita Keigo | Murakawa Daisuke | Lose | W+2.5 | 6.5 | 2992 | 78 | 
+| 2016-05-18 | 第41期碁聖戦挑戦者決定戦 | Yamashita Keigo | Murakawa Daisuke | Lose | W+4.5 | 6.5 | 2914 | -72 | 
+| 2016-05-12 | 第41期名人戦リーグ | Ko Iso | Yamashita Keigo | Lose | B+1.5 | 6.5 | 2986 | -14 | 
+| 2016-05-05 | 第41期碁聖戦本戦準決勝 | Yamashita Keigo | Sada Atsushi | Win | B+R | 6.5 | 3000 | -17 | 
+| 2016-04-28 | 第42期天元戦本戦2回戦 | Yamashita Keigo | Imamura Toshiya | Win | B+R | 6.5 | 3017 | 93 | 
+| 2016-04-20 | 第8回応氏杯世界選手権1回戦 | Shi Yue | Yamashita Keigo | Lose | B+R | 7.5 | 2924 | 8 | 
+| 2016-04-14 | 第41期碁聖戦本戦3回戦 | Yamashita Keigo | Yu Zhengqi | Win | B+1.5 | 6.5 | 2916 | 44 | 
+| 2016-04-07 | 第41期名人戦リーグ | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 2872 | -22 | 
+| 2016-03-31 | 第71期本因坊戦リーグ | Yamashita Keigo | Yu Zhengqi | Win | B+0.5 | 6.5 | 2894 | 18 | 
+| 2016-03-24 | 第41期名人戦リーグ | Yamashita Keigo | Uchida Shuhei | Win | B+R | 6.5 | 2876 | -1 | 
+| 2016-03-17 | 第64期王座戦予選 | Hsu Chiayuan | Yamashita Keigo | Win | W+R | 6.5 | 2877 | -18 | 
+| 2016-03-03 | 第71期本因坊戦リーグ | Yamashita Keigo | Ida Atsushi | Win | B+3.5 | 6.5 | 2895 | 2 | 
+| 2016-02-29 | 第64期王座戦予選 | Fujimura Yosuke | Yamashita Keigo | Win | W+R | 6.5 | 2893 | -36 | 
+| 2016-02-18 | 第40期棋聖戦挑戦手合七番勝負第4局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 2929 | -24 | 
+| 2016-02-11 | 第71期本因坊戦リーグ | Takao Shinji | Yamashita Keigo | Lose | B+7.5 | 6.5 | 2953 | -25 | 
+| 2016-02-08 | 第41期名人戦リーグ | Hirata Tomoya | Yamashita Keigo | Win | W+3.5 | 6.5 | 2978 | 3 | 
+| 2016-02-02 | 第40期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 2975 | -23 | 
+| 2016-01-29 | 第40期棋聖戦挑戦手合七番勝負第2局 | Iyama Yuta | Yamashita Keigo | Lose | B+2.5 | 6.5 | 2998 | -23 | 
+| 2016-01-21 | 第41期碁聖戦本戦2回戦 | Hsu Chiayuan | Yamashita Keigo | Win | W+1.5 | 6.5 | 3021 | 0 | 
+| 2016-01-15 | 第40期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3021 | 3 | 
+| 2016-01-07 | 第71期本因坊戦リーグ | Ichiriki Ryo | Yamashita Keigo | Lose | B+4.5 | 6.5 | 3018 | 1 | 
+| 2015-12-24 | 第42期天元戦本戦1回戦 | Muramatsu Hiroki | Yamashita Keigo | Win | W+R | 6.5 | 3017 | 14 | 
+| 2015-12-17 | 第71期本因坊戦リーグ | Cho U | Yamashita Keigo | Win | W+R | 6.5 | 3003 | 13 | 
+| 2015-12-10 | 第64期王座戦予選 | Yamashita Keigo | Lee Ishu | Win | B+R | 6.5 | 2990 | 27 | 
+| 2015-12-03 | 第41期名人戦リーグ | Yamashita Keigo | Takao Shinji | Lose | W+R | 6.5 | 2963 | -13 | 
+| 2015-11-26 | 第71期本因坊戦リーグ | Yamashita Keigo | Motoki Katsuya | Lose | W+1.5 | 6.5 | 2976 | 8 | 
+| 2015-11-09 | 第40期棋聖戦挑戦者決定トーナメント | Murakawa Daisuke | Yamashita Keigo | Win | W+R | 6.5 | 2968 | 6 | 
+| 2015-10-29 | 第54期十段戦2回戦 | Yamashita Keigo | Yu Zhengqi | Lose | W+1.5 | 6.5 | 2962 | -13 | 
+| 2015-10-22 | 第64期王座戦予選 | Yamashita Keigo | Hirata Tomoya | Win | B+R | 6.5 | 2975 | 3 | 
+| 2015-10-08 | 第54期十段戦1回戦 | Yoda Norimoto | Yamashita Keigo | Win | W+R | 6.5 | 2972 | -10 | 
+| 2015-10-01 | 第71期本因坊戦リーグ | Yamashita Keigo | Kono Rin | Win | B+R | 6.5 | 2982 | -21 | 
+| 2015-09-10 | 第54期十段戦予選 | Yamashita Keigo | O Rissei | Win | B+R | 6.5 | 3003 | -2 | 
+| 2015-09-03 | 第40期棋聖戦Sリーグ | Yoda Norimoto | Yamashita Keigo | Win | W+2.5 | 6.5 | 3005 | -49 | 
+| 2015-08-24 | 第41期天元戦本戦準決勝 | Yamashita Keigo | Yuki Satoshi | Lose | W+1.5 | 6.5 | 3054 | -24 | 
+| 2015-08-13 | 第40期棋聖戦Sリーグ | Yamashita Keigo | Takao Shinji | Win | B+2.5 | 6.5 | 3078 | 0 | 
+| 2015-08-07 | 第40期碁聖戦挑戦手合五番勝負第4局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3078 | 12 | 
+| 2015-08-03 | 第40期名人戦挑戦者決定プレーオフ | Yamashita Keigo | Takao Shinji | Lose | W+5.5 | 6.5 | 3066 | -8 | 
+| 2015-07-30 | 第40期名人戦リーグ | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 3074 | 5 | 
+| 2015-07-27 | 第40期碁聖戦挑戦手合五番勝負第3局 | Iyama Yuta | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3069 | -19 | 
+| 2015-07-23 | 第40期棋聖戦Sリーグ | Murakawa Daisuke | Yamashita Keigo | Win | W+R | 6.5 | 3088 | 9 | 
+| 2015-07-20 | 第40期碁聖戦挑戦手合五番勝負第2局 | Yamashita Keigo | Iyama Yuta | Win | B+R | 6.5 | 3079 | -4 | 
+| 2015-07-16 | 第54期十段戦予選 | Han Zenki | Yamashita Keigo | Win | W+R | 6.5 | 3083 | 19 | 
+| 2015-07-13 | 第41期天元戦本戦3回戦 | Yamashita Keigo | Kono Rin | Win | B+R | 6.5 | 3064 | -33 | 
+| 2015-07-03 | 第40期名人戦リーグ | Yamashita Keigo | So Yokoku | Win | B+R | 6.5 | 3097 | -6 | 
+| 2015-06-30 | 第70期本因坊戦挑戦手合七番勝負第5局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3103 | -29 | 
+| 2015-06-26 | 第40期碁聖戦挑戦手合五番勝負第1局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3132 | -87 | 
+| 2015-06-22 | 第22期阿含・桐山杯全日本早碁オープン戦予選 | Cho Riyu | Yamashita Keigo | Lose | B+R | 6.5 | 3219 | -43 | 
+| 2015-06-17 | 第70期本因坊戦挑戦手合七番勝負第4局 | Iyama Yuta | Yamashita Keigo | Win | W+R | 6.5 | 3262 | 2 | 
+| 2015-06-11 | 第40期棋聖戦Sリーグ | Kobayashi Satoru | Yamashita Keigo | Win | W+R | 6.5 | 3260 | 65 | 
+| 2015-06-04 | 第70期本因坊戦挑戦手合七番勝負第3局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3195 | -32 | 
+| 2015-05-29 | 第40期名人戦リーグ | Yamashita Keigo | Hane Naoki | Win | B+0.5 | 6.5 | 3227 | -9 | 
+| 2015-05-26 | 第70期本因坊戦挑戦手合七番勝負第2局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3236 | -5 | 
+| 2015-05-21 | 第40期棋聖戦Sリーグ | Yamashita Keigo | Yamashiro Hiroshi | Lose | W+1.5 | 6.5 | 3241 | -38 | 
+| 2015-05-18 | 第40期碁聖戦挑戦者決定戦 | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 3279 | 15 | 
+| 2015-05-14 | 第70期本因坊戦挑戦手合七番勝負第1局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3264 | -65 | 
+| 2015-05-07 | 第40期名人戦リーグ | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 | 3329 | -8 | 
+| 2015-05-04 | 第41期天元戦本戦2回戦 | Matsumoto Takehisa | Yamashita Keigo | Win | W+R | 6.5 | 3337 | 14 | 
+| 2015-04-30 | 第40期碁聖戦本戦準決勝 | Murakawa Daisuke | Yamashita Keigo | Win | W+R | 6.5 | 3323 | 4 | 
+| 2015-04-27 | 第54期十段戦予選 | Inaba Takahiro | Yamashita Keigo | Win | W+R | 6.5 | 3319 | 65 | 
+| 2015-04-20 | 第40期碁聖戦本戦3回戦 | Yamashita Keigo | Iwamaru Taira | Win | B+3.5 | 6.5 | 3254 | 8 | 
+| 2015-04-16 | 第40期名人戦リーグ | Yamashita Keigo | Kanazawa Makoto | Win | B+10.5 | 6.5 | 3246 | -11 | 
+| 2015-04-09 | 第63期王座戦予選 | Kataoka Satoshi | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3257 | 2 | 
+| 2015-04-02 | 第70期本因坊戦リーグ | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3255 | -8 | 
+| 2015-03-30 | 第40期碁聖戦本戦2回戦 | Yamashita Keigo | Cho Riyu | Win | B+R | 6.5 | 3263 | -16 | 
+| 2015-03-26 | 第70期本因坊戦リーグ | Yamashita Keigo | Ryu Shikun | Win | B+R | 6.5 | 3279 | 0 | 
+| 2015-03-20 | 第39期棋聖戦挑戦手合七番勝負第7局 | Iyama Yuta | Yamashita Keigo | Lose | B+5.5 | 6.5 | 3279 | -120 | 
+| 2015-03-12 | 第39期棋聖戦挑戦手合七番勝負第6局 | Yamashita Keigo | Iyama Yuta | Win | B+R | 6.5 | 3399 | -92 | 
+| 2015-03-05 | 第40期名人戦リーグ | Yamashita Keigo | Cho U | Win | B+5.5 | 6.5 | 3491 | -1 | 
+| 2015-02-26 | 第39期棋聖戦挑戦手合七番勝負第5局 | Iyama Yuta | Yamashita Keigo | Win | W+R | 6.5 | 3492 | 34 | 
+| 2015-02-20 | 第39期棋聖戦挑戦手合七番勝負第4局 | Yamashita Keigo | Iyama Yuta | Win | B+2.5 | 6.5 | 3458 | 1 | 
+| 2015-02-12 | 第70期本因坊戦リーグ | Mimura Tomoyasu | Yamashita Keigo | Win | W+3.5 | 6.5 | 3457 | 20 | 
+| 2015-02-06 | 第39期棋聖戦挑戦手合七番勝負第3局 | Iyama Yuta | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3437 | -23 | 
+| 2015-01-30 | 第39期棋聖戦挑戦手合七番勝負第2局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3460 | 32 | 
+| 2015-01-22 | 第70期本因坊戦リーグ | Yamashita Keigo | Takao Shinji | Win | B+R | 6.5 | 3428 | 11 | 
+| 2015-01-16 | 第39期棋聖戦挑戦手合七番勝負第1局 | Iyama Yuta | Yamashita Keigo | Lose | B+0.5 | 6.5 | 3417 | 7 | 
+| 2015-01-08 | 第40期名人戦リーグ | Murakawa Daisuke | Yamashita Keigo | Win | W+R | 6.5 | 3410 | 6 | 
+| 2014-12-25 | 第40期名人戦リーグ | Takao Shinji | Yamashita Keigo | Lose | B+0.5 | 6.5 | 3404 | -14 | 
+| 2014-12-18 | 第41期天元戦本戦1回戦 | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3418 | 37 | 
+| 2014-12-11 | 第40期碁聖戦本戦1回戦 | Yamashita Keigo | Iguchi Hideichiro | Win | B+R | 6.5 | 3381 | 2 | 
+| 2014-12-04 | 第70期本因坊戦リーグ | Ida Atsushi | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3379 | -15 | 
+| 2014-11-27 | 第70期本因坊戦リーグ | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 3394 | 9 | 
+| 2014-11-13 | 第39期棋聖戦挑戦者決定戦 | Yamashita Keigo | Murakawa Daisuke | Win | B+R | 6.5 | 3385 | 114 | 
+| 2014-10-23 | 第41期天元戦予選 | Cho Sonjin | Yamashita Keigo | Win | W+R | 6.5 | 3271 | -39 | 
+| 2014-10-09 | 第70期本因坊戦リーグ | Yu Zhengqi | Yamashita Keigo | Win | W+R | 6.5 | 3310 | -1 | 
+| 2014-10-02 | 第39期棋聖戦Aリーグ | Yamashiro Hiroshi | Yamashita Keigo | Win | W+R | 6.5 | 3311 | 16 | 
+| 2014-09-25 | 第41期天元戦予選 | Horimoto Mitsunari | Yamashita Keigo | Win | W+R | 6.5 | 3295 | 7 | 
+| 2014-09-18 | 第40期碁聖戦予選 | Yamashita Keigo | Otake Hideo | Win | B+R | 6.5 | 3288 | 84 | 
+| 2014-08-28 | 第39期棋聖戦Aリーグ | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 3204 | -11 | 
+| 2014-08-22 | 第21期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Kono Rin | Lose | W+R | 6.5 | 3215 | -13 | 
+| 2014-08-14 | 第53期十段戦予選 | Shida Tatsuya | Yamashita Keigo | Lose | B+R | 6.5 | 3228 | -10 | 
+| 2014-08-11 | 第21期阿含・桐山杯全日本早碁オープン戦2回戦 | Yamashita Keigo | Murakawa Daisuke | Win | B+5.5 | 6.5 | 3238 | 12 | 
+| 2014-08-04 | 第39期名人戦挑戦者決定プレーオフ | Kono Rin | Yamashita Keigo | Lose | B+0.5 | 6.5 | 3226 | -26 | 
+| 2014-07-31 | 第39期名人戦リーグ | Murakawa Daisuke | Yamashita Keigo | Lose | B+6.5 | 6.5 | 3252 | 4 | 
+| 2014-07-24 | 第39期棋聖戦Aリーグ | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 3248 | 28 | 
+| 2014-07-10 | 第21期阿含・桐山杯全日本早碁オープン戦1回戦 | Kiyonari Tetsuya | Yamashita Keigo | Win | W+0.5 | 6.5 | 3220 | 42 | 
+| 2014-07-03 | 第39期名人戦リーグ | Yamashita Keigo | Cho U | Lose | W+1.5 | 6.5 | 3178 | -12 | 
+| 2014-06-26 | 第39期棋聖戦Aリーグ | Yamashita Keigo | Takao Shinji | Win | B+R | 6.5 | 3190 | 9 | 
+| 2014-06-19 | 第62期王座戦1回戦 | Yamashita Keigo | Rin Kanketsu | Lose | W+5.5 | 6.5 | 3181 | -27 | 
+| 2014-06-09 | 第19回LG杯朝鮮日報棋王戦1回戦 | Yamashita Keigo | An Dongxu | Lose | W+5.5 | 6.5 | 3208 | -18 | 
+| 2014-06-05 | 第39期名人戦リーグ | Yamashita Keigo | Yuki Satoshi | Win | B+R | 6.5 | 3226 | 9 | 
+| 2014-05-29 | 第39期棋聖戦Aリーグ | Yamashita Keigo | Ichiriki Ryo | Win | B+R | 6.5 | 3217 | 86 | 
+| 2014-05-15 | 第40期天元戦本戦2回戦 | Kanazawa Makoto | Yamashita Keigo | Lose | B+9.5 | 6.5 | 3131 | 3 | 
+| 2014-05-08 | 第21期阿含・桐山杯全日本早碁オープン戦予選 | Ryu Shikun | Yamashita Keigo | Win | W+R | 6.5 | 3128 | 9 | 
+| 2014-05-01 | 第39期名人戦リーグ | Ryu Shikun | Yamashita Keigo | Win | W+R | 6.5 | 3119 | -110 | 
+| 2014-04-24 | 第40期天元戦本戦1回戦 | Yamashita Keigo | Kono Takashi | Win | B+6.5 | 6.5 | 3229 | 1 | 
+| 2014-04-14 | 第39期名人戦リーグ | Kono Rin | Yamashita Keigo | Win | W+3.5 | 6.5 | 3228 | -19 | 
+| 2014-04-07 | 第69期本因坊戦挑戦者決定プレーオフ | Yamashita Keigo | Ida Atsushi | Lose | W+5.5 | 6.5 | 3247 | 4 | 
+| 2014-04-03 | 第69期本因坊戦リーグ | Yamashita Keigo | Ida Atsushi | Lose | W+0.5 | 6.5 | 3243 | 8 | 
+| 2014-03-26 | 第10回春蘭杯世界囲碁選手権1回戦 | Tang Weixing | Yamashita Keigo | Lose | B+R | 7.5 | 3235 | 7 | 
+| 2014-03-13 | 第38期棋聖戦挑戦手合七番勝負第6局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3228 | -34 | 
+| 2014-03-07 | 第69期本因坊戦リーグ | Sakai Hideyuki | Yamashita Keigo | Win | W+R | 6.5 | 3262 | 7 | 
+| 2014-02-27 | 第38期棋聖戦挑戦手合七番勝負第5局 | Yamashita Keigo | Iyama Yuta | Win | B+3.5 | 6.5 | 3255 | 13 | 
+| 2014-02-21 | 第38期棋聖戦挑戦手合七番勝負第4局 | Iyama Yuta | Yamashita Keigo | Win | W+0.5 | 6.5 | 3242 | 53 | 
+| 2014-02-17 | 第39期名人戦リーグ | Yamashita Keigo | Ko Iso | Win | B+R | 6.5 | 3189 | 5 | 
+| 2014-02-13 | 第69期本因坊戦リーグ | Yamashita Keigo | Kono Rin | Win | B+1.5 | 6.5 | 3184 | 4 | 
+| 2014-02-07 | 第38期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3180 | -10 | 
+| 2014-01-30 | 第38期棋聖戦挑戦手合七番勝負第2局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3190 | -17 | 
+| 2014-01-23 | 第69期本因坊戦リーグ | Yu Zhengqi | Yamashita Keigo | Win | W+R | 6.5 | 3207 | 2 | 
+| 2014-01-18 | 第39期名人戦リーグ | Yamashita Keigo | Takao Shinji | Win | B+R | 6.5 | 3205 | -66 | 
+| 2014-01-12 | 第38期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Iyama Yuta | Lose | W+0.5 | 6.5 | 3271 | -4 | 
+| 2013-12-26 | 第69期本因坊戦リーグ | Yuki Satoshi | Yamashita Keigo | Win | W+R | 6.5 | 3275 | 59 | 
+| 2013-12-05 | 第39期名人戦リーグ | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3216 | 13 | 
+| 2013-11-21 | 第39期碁聖戦本戦1回戦 | Ohba Junya | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3203 | -9 | 
+| 2013-11-14 | 第38期棋聖戦挑戦者決定戦 | Murakawa Daisuke | Yamashita Keigo | Win | W+R | 6.5 | 3212 | 12 | 
+| 2013-11-07 | 第69期本因坊戦リーグ | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3200 | 38 | 
+| 2013-10-24 | 第69期本因坊戦リーグ | Takao Shinji | Yamashita Keigo | Win | W+R | 6.5 | 3162 | -17 | 
+| 2013-10-17 | 第38期名人戦挑戦手合七番勝負第5局 | Iyama Yuta | Yamashita Keigo | Lose | B+4.5 | 6.5 | 3179 | -1 | 
+| 2013-10-10 | 第38期名人戦挑戦手合七番勝負第4局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3180 | -50 | 
+| 2013-10-03 | 第38期棋聖戦Aリーグ | Kiyonari Tetsuya | Yamashita Keigo | Win | W+1.5 | 6.5 | 3230 | -9 | 
+| 2013-09-26 | 第38期名人戦挑戦手合七番勝負第3局 | Iyama Yuta | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3239 | 0 | 
+| 2013-09-20 | 第38期名人戦挑戦手合七番勝負第2局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3239 | -58 | 
+| 2013-09-09 | 第39期天元戦挑戦者決定戦 | Akiyama Jiro | Yamashita Keigo | Lose | B+R | 6.5 | 3297 | -12 | 
+| 2013-09-06 | 第38期名人戦挑戦手合七番勝負第1局 | Iyama Yuta | Yamashita Keigo | Win | W+R | 6.5 | 3309 | 13 | 
+| 2013-08-29 | 第61期王座戦準決勝 | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 3296 | -9 | 
+| 2013-08-22 | 第39期天元戦本戦準決勝 | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3305 | -3 | 
+| 2013-08-15 | 第38期棋聖戦Aリーグ | Kobayashi Satoru | Yamashita Keigo | Win | W+R | 6.5 | 3308 | 76 | 
+| 2013-08-01 | 第39期天元戦本戦3回戦 | Yamashita Keigo | Ryu Shikun | Win | B+R | 6.5 | 3232 | -7 | 
+| 2013-07-25 | 第38期棋聖戦Aリーグ | Yamashita Keigo | Yamashiro Hiroshi | Lose | W+3.5 | 6.5 | 3239 | 39 | 
+| 2013-07-18 | 第61期王座戦2回戦 | Yamashita Keigo | Seto Taiki | Win | B+R | 6.5 | 3200 | 40 | 
+| 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 | An Dongxu | Yamashita Keigo | Lose | B+3.5 | 7.5 | 3160 | 1 | 
+| 2013-07-04 | 第52期十段戦予選 | Nakano Hironari | Yamashita Keigo | Lose | B+R | 6.5 | 3159 | -7 | 
+| 2013-06-27 | 第20期阿含・桐山杯全日本早碁オープン戦1回戦 | Yamashita Keigo | Tsuruyama Atsushi | Lose | W+R | 6.5 | 3166 | 34 | 
+| 2013-06-20 | 第38期棋聖戦Aリーグ | Cho U | Yamashita Keigo | Win | W+3.5 | 6.5 | 3132 | 111 | 
+| 2013-06-06 | 第61期王座戦1回戦 | Yamashita Keigo | Yoda Norimoto | Win | B+R | 6.5 | 3021 | 36 | 
+| 2013-05-30 | 第39期天元戦本戦2回戦 | Yamashita Keigo | Uchida Shuhei | Win | B+9.5 | 6.5 | 2985 | -15 | 
+| 2013-05-09 | 第38期棋聖戦Aリーグ | Yamashita Keigo | Yoda Norimoto | Win | B+5.5 | 6.5 | 3000 | 17 | 
+| 2013-04-25 | 第38期碁聖戦本戦3回戦 | Yamashita Keigo | Matsumoto Takehisa | Lose | W+R | 6.5 | 2983 | -29 | 
+| 2013-04-08 | 第68期本因坊戦リーグ | Cho U | Yamashita Keigo | Win | W+R | 6.5 | 3012 | -30 | 
+| 2013-03-21 | 第68期本因坊戦リーグ | Yamashita Keigo | Imamura Toshiya | Lose | W+0.5 | 6.5 | 3042 | -33 | 
+| 2013-03-07 | 第38期碁聖戦本戦2回戦 | Yamashita Keigo | Nakane Naoyuki | Win | B+R | 6.5 | 3075 | 40 | 
+| 2013-02-21 | 第68期本因坊戦リーグ | Yamashita Keigo | Takao Shinji | Lose | W+R | 6.5 | 3035 | -6 | 
+| 2013-01-17 | 第39期天元戦本戦1回戦 | Yamashita Keigo | Nakane Naoyuki | Win | B+R | 6.5 | 3041 | -6 | 
+| 2013-01-10 | 第68期本因坊戦リーグ | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 3047 | 31 | 
+| 2012-12-20 | 第68期本因坊戦リーグ | Yamashita Keigo | Seto Taiki | Win | B+R | 6.5 | 3016 | -19 | 
+| 2012-12-13 | 第38期碁聖戦本戦1回戦 | Mitani Tetsuya | Yamashita Keigo | Win | W+1.5 | 6.5 | 3035 | -166 | 
+| 2012-11-22 | 第68期本因坊戦リーグ | Yamashita Keigo | Yuki Satoshi | Win | B+R | 6.5 | 3201 | -16 | 
+| 2012-11-17 | 第8回大和証券杯ネット囲碁オープン1回戦 | Yamashita Keigo | Oya Koichi | Lose | W+R | 6.5 | 3217 | 6 | 
+| 2012-11-13 | 第37期名人戦挑戦手合七番勝負第7局 | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3211 | 0 | 
+| 2012-11-01 | 第37期名人戦挑戦手合七番勝負第6局 | Yamashita Keigo | Hane Naoki | Lose | W+R | 6.5 | 3211 | -25 | 
+| 2012-10-25 | 第68期本因坊戦リーグ | Cho Sonjin | Yamashita Keigo | Win | W+0.5 | 6.5 | 3236 | 6 | 
+| 2012-10-18 | 第37期名人戦挑戦手合七番勝負第5局 | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3230 | 37 | 
+| 2012-10-11 | 第37期名人戦挑戦手合七番勝負第4局 | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 3193 | 10 | 
+| 2012-10-04 | 第37期棋聖戦Aリーグ | Kono Rin | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3183 | -32 | 
+| 2012-09-28 | 第37期名人戦挑戦手合七番勝負第3局 | Hane Naoki | Yamashita Keigo | Lose | B+R | 6.5 | 3215 | 6 | 
+| 2012-09-21 | 第37期名人戦挑戦手合七番勝負第2局 | Yamashita Keigo | Hane Naoki | Lose | W+R | 6.5 | 3209 | -79 | 
+| 2012-09-11 | 第3回世界囲碁名人争覇戦 | Yamashita Keigo | Jiang Weijie | Lose | W+R | 7.5 | 3288 | 19 | 
+| 2012-08-31 | 第37期名人戦挑戦手合七番勝負第1局 | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3269 | 73 | 
+| 2012-08-19 | 第1回百霊杯世界囲碁選手権2回戦 | Xie Erhao | Yamashita Keigo | Lose | B+11.5 | 7.5 | 3196 | -29 | 
+| 2012-08-09 | 第37期棋聖戦Aリーグ | O Meien | Yamashita Keigo | Win | W+6.5 | 6.5 | 3225 | 18 | 
+| 2012-08-02 | 第51期十段戦予選 | Kato Atsushi | Yamashita Keigo | Lose | B+R | 6.5 | 3207 | -132 | 
+| 2012-07-26 | 第37期棋聖戦Aリーグ | Yamashita Keigo | Kobayashi Satoru | Win | B+R | 6.5 | 3339 | 9 | 
+| 2012-07-21 | 第19期阿含・桐山杯全日本早碁オープン戦1回戦 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3330 | 11 | 
+| 2012-07-19 | 第67期本因坊戦挑戦手合七番勝負第7局 | Yamashita Keigo | Iyama Yuta | Lose | W+7.5 | 6.5 | 3319 | -22 | 
+| 2012-07-10 | 第67期本因坊戦挑戦手合七番勝負第6局 | Yamashita Keigo | Iyama Yuta | Win | B+R | 6.5 | 3341 | 13 | 
+| 2012-07-05 | 第51期十段戦予選 | Yun Chunho | Yamashita Keigo | Win | W+R | 6.5 | 3328 | 63 | 
+| 2012-06-25 | 第67期本因坊戦挑戦手合七番勝負第5局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3265 | -34 | 
+| 2012-06-19 | 第67期本因坊戦挑戦手合七番勝負第4局 | Yamashita Keigo | Iyama Yuta | Win | B+R | 6.5 | 3299 | 2 | 
+| 2012-06-14 | 第37期棋聖戦Aリーグ | Takao Shinji | Yamashita Keigo | Lose | B+R | 6.5 | 3297 | -82 | 
+| 2012-06-11 | 第60期王座戦1回戦 | Yamashita Keigo | Tsuruyama Atsushi | Lose | W+11.5 | 6.5 | 3379 | 18 | 
+| 2012-06-06 | 第67期本因坊戦挑戦手合七番勝負第3局 | Iyama Yuta | Yamashita Keigo | Win | W+R | 6.5 | 3361 | 35 | 
+| 2012-05-29 | 第67期本因坊戦挑戦手合七番勝負第2局 | Yamashita Keigo | Iyama Yuta | Lose | W+5.5 | 6.5 | 3326 | -33 | 
+| 2012-05-24 | 第37期棋聖戦Aリーグ | Yamashita Keigo | Ryu Shikun | Win | B+8.5 | 6.5 | 3359 | 1 | 
+| 2012-05-16 | 第67期本因坊戦挑戦手合七番勝負第1局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3358 | -84 | 
+| 2012-05-07 | 第37期碁聖戦挑戦者決定戦 | Iyama Yuta | Yamashita Keigo | Lose | B+12.5 | 6.5 | 3442 | -16 | 
+| 2012-05-03 | 第38期天元戦本戦3回戦 | Anzai Nobuaki | Yamashita Keigo | Lose | B+R | 6.5 | 3458 | -23 | 
+| 2012-04-05 | 第37期碁聖戦本戦準決勝 | Yamashita Keigo | Hikosaka Naoto | Win | B+R | 6.5 | 3481 | -3 | 
+| 2012-03-28 | 第9回春蘭杯世界囲碁選手権1回戦 | Qiu Jun | Yamashita Keigo | Lose | B+5.5 | 7.5 | 3484 | -10 | 
+| 2012-03-14 | 第1回百霊杯世界囲碁選手権1回戦 | Kim Seongjae | Yamashita Keigo | Win | W+0.5 | 7.5 | 3494 | 33 | 
+| 2012-03-08 | 第38期天元戦本戦2回戦 | Honda Kunihisa | Yamashita Keigo | Win | W+R | 6.5 | 3461 | -80 | 
+| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Yamashita Keigo | Meng Tailing | Lose | W+R | 6.5 | 3541 | -59 | 
+| 2012-02-23 | 第37期碁聖戦本戦3回戦 | Yamashita Keigo | Yamada Noriyoshi | Win | B+R | 6.5 | 3600 | 149 | 
+| 2012-01-26 | 第38期天元戦本戦1回戦 | Yanaka Katsunori | Yamashita Keigo | Win | W+R | 6.5 | 3451 | 9 | 
+| 2012-01-19 | 第37期碁聖戦本戦2回戦 | Rin Kanketsu | Yamashita Keigo | Win | W+R | 6.5 | 3442 | -46 | 
+| 2011-12-10 | 第1回スポーツアコードワールドマインドゲームズ囲碁団体戦 | Catalin Taranu | Yamashita Keigo | Win | W+R | 7.5 | 3488 | 1 | 
+| 2011-12-09 | 第1回スポーツアコードワールドマインドゲームズ囲碁団体戦 | Yamashita Keigo | Jiang Mingjiu | Win | B+R | 7.5 | 3487 | 397 | 
+| 2011-12-02 | 第13回農心辛ラーメン杯世界囲碁最強戦第9戦 | Yamashita Keigo | Kim Jiseok | Lose | W+R | 6.5 | 3090 | 13 | 
+| 2011-11-10 | 第37期碁聖戦本戦1回戦 | Anzai Nobuaki | Yamashita Keigo | Win | W+R | 6.5 | 3077 | -35 | 
+| 2011-10-28 | 第36期名人戦挑戦手合七番勝負第6局 | Iyama Yuta | Yamashita Keigo | Win | W+3.5 | 6.5 | 3112 | 16 | 
+| 2011-10-14 | 第36期名人戦挑戦手合七番勝負第5局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3096 | -22 | 
+| 2011-10-06 | 第36期名人戦挑戦手合七番勝負第4局 | Iyama Yuta | Yamashita Keigo | Win | W+R | 6.5 | 3118 | 17 | 
+| 2011-10-01 | 第18期阿含・桐山杯全日本早碁オープン戦決勝 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3101 | -31 | 
+| 2011-09-29 | 第36期棋聖戦Aリーグ | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3132 | 7 | 
+| 2011-09-26 | 第31期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Cho Chikun | Lose | W+R | 6.5 | 3125 | -33 | 
+| 2011-09-22 | 第36期名人戦挑戦手合七番勝負第3局 | Yamashita Keigo | Iyama Yuta | Win | B+R | 6.5 | 3158 | 23 | 
+| 2011-09-15 | 第36期名人戦挑戦手合七番勝負第2局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3135 | 54 | 
+| 2011-09-08 | 第50期十段戦1回戦 | Murakawa Daisuke | Yamashita Keigo | Lose | B+0.5 | 6.5 | 3081 | -13 | 
+| 2011-09-02 | 第36期名人戦挑戦手合七番勝負第1局 | Yamashita Keigo | Iyama Yuta | Win | B+5.5 | 6.5 | 3094 | 14 | 
+| 2011-08-29 | 第36期棋聖戦Aリーグ | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3080 | 12 | 
+| 2011-08-25 | 第18期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Kim Sujun | Win | B+R | 6.5 | 3068 | 2 | 
+| 2011-08-20 | 第7回大和証券杯ネット囲碁オープン1回戦 | Takao Shinji | Yamashita Keigo | Lose | B+R | 6.5 | 3066 | -18 | 
+| 2011-08-18 | 第31期NECカップ囲碁トーナメント戦1回戦 | O Meien | Yamashita Keigo | Win | W+5.5 | 6.5 | 3084 | -1 | 
+| 2011-08-10 | 第24回世界囲碁選手権富士通杯1回戦 | Yamashita Keigo | Cho Chikun | Lose | W+8.5 | 6.5 | 3085 | -24 | 
+| 2011-08-08 | 第36期名人戦挑戦者決定プレーオフ | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 3109 | -12 | 
+| 2011-08-04 | 第36期名人戦リーグ | Yuki Satoshi | Yamashita Keigo | Win | W+R | 6.5 | 3121 | 19 | 
+| 2011-07-28 | 第36期棋聖戦Aリーグ | Yamashita Keigo | Kato Atsushi | Win | B+R | 6.5 | 3102 | 1 | 
+| 2011-07-25 | 第18期阿含・桐山杯全日本早碁オープン戦2回戦 | Ha Sungbong | Yamashita Keigo | Win | W+R | 6.5 | 3101 | 7 | 
+| 2011-07-21 | 第66期本因坊戦挑戦手合七番勝負第7局 | Hane Naoki | Yamashita Keigo | Win | W+4.5 | 6.5 | 3094 | 4 | 
+| 2011-07-14 | 第66期本因坊戦挑戦手合七番勝負第6局 | Yamashita Keigo | Hane Naoki | Lose | W+7.5 | 6.5 | 3090 | -26 | 
+| 2011-07-07 | 第36期名人戦リーグ | Takao Shinji | Yamashita Keigo | Win | W+3.5 | 6.5 | 3116 | -14 | 
+| 2011-07-04 | 第18期阿含・桐山杯全日本早碁オープン戦1回戦 | Takao Shinji | Yamashita Keigo | Win | W+R | 6.5 | 3130 | 9 | 
+| 2011-06-30 | 第66期本因坊戦挑戦手合七番勝負第5局 | Hane Naoki | Yamashita Keigo | Lose | B+R | 6.5 | 3121 | -148 | 
+| 2011-06-23 | 第37期天元戦本戦準決勝 | O Meien | Yamashita Keigo | Lose | B+R | 6.5 | 3269 | -73 | 
+| 2011-06-16 | 第66期本因坊戦挑戦手合七番勝負第4局 | Yamashita Keigo | Hane Naoki | Lose | W+0.5 | 6.5 | 3342 | -23 | 
+| 2011-06-09 | 第36期棋聖戦Aリーグ | Yamashita Keigo | Seto Taiki | Win | B+R | 6.5 | 3365 | 5 | 
+| 2011-06-03 | 第66期本因坊戦挑戦手合七番勝負第3局 | Hane Naoki | Yamashita Keigo | Win | W+1.5 | 6.5 | 3360 | 32 | 
+| 2011-05-30 | 第7回大和証券杯ネット囲碁オープン予選 | Ohba Junya | Yamashita Keigo | Win | W+R | 6.5 | 3328 | 2 | 
+| 2011-05-25 | 第66期本因坊戦挑戦手合七番勝負第2局 | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 3326 | -4 | 
+| 2011-05-19 | 第59期王座戦2回戦 | Yamashita Keigo | Yamada Kimio | Lose | W+R | 6.5 | 3330 | 3 | 
+| 2011-05-16 | 第36期棋聖戦Aリーグ | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 | 3327 | 56 | 
+| 2011-05-12 | 第66期本因坊戦挑戦手合七番勝負第1局 | Hane Naoki | Yamashita Keigo | Win | W+7.5 | 6.5 | 3271 | -12 | 
+| 2011-05-05 | 第36期名人戦リーグ | Yamashita Keigo | Cho Chikun | Win | B+R | 6.5 | 3283 | -34 | 
+| 2011-04-28 | 第36期碁聖戦本戦準決勝 | Rin Shien | Yamashita Keigo | Lose | B+R | 6.5 | 3317 | -16 | 
+| 2011-04-21 | 第59期王座戦1回戦 | Yamashiro Hiroshi | Yamashita Keigo | Win | W+5.5 | 6.5 | 3333 | 45 | 
+| 2011-04-14 | 第36期名人戦リーグ | Yamashita Keigo | Cho U | Lose | W+R | 6.5 | 3288 | -6 | 
+| 2011-03-31 | 第37期天元戦本戦3回戦 | Yamada Takuji | Yamashita Keigo | Win | W+R | 6.5 | 3294 | -12 | 
+| 2011-03-24 | 第36期碁聖戦本戦3回戦 | O Meien | Yamashita Keigo | Win | W+R | 6.5 | 3306 | -32 | 
+| 2011-03-05 | 第30期NECカップ囲碁トーナメント戦決勝 | Yamashita Keigo | Cho U | Lose | W+R | 6.5 | 3338 | -4 | 
+| 2011-03-03 | 第36期名人戦リーグ | Yamashita Keigo | Rin Kanketsu | Win | B+R | 6.5 | 3342 | 27 | 
+| 2011-02-24 | 第37期天元戦本戦2回戦 | Yamashiro Hiroshi | Yamashita Keigo | Win | W+R | 6.5 | 3315 | 40 | 
+| 2011-02-05 | 第30期NECカップ囲碁トーナメント戦準決勝 | Yamashita Keigo | O Meien | Win | B+R | 6.5 | 3275 | 6 | 
+| 2011-02-03 | 第36期名人戦リーグ | Hane Naoki | Yamashita Keigo | Lose | B+6.5 | 6.5 | 3269 | -10 | 
+| 2011-01-27 | 第37期天元戦本戦1回戦 | Yamashita Keigo | Rin Kanketsu | Win | B+6.5 | 6.5 | 3279 | 137 | 
+| 2011-01-20 | 第36期名人戦リーグ | Yamashita Keigo | Sakai Hideyuki | Win | B+R | 6.5 | 3142 | -48 | 
+| 2011-01-06 | 第36期碁聖戦本戦2回戦 | Shuto Shun | Yamashita Keigo | Win | W+R | 6.5 | 3190 | 57 | 
+| 2010-12-23 | 第12回阿含・桐山杯日中決戦 | Yamashita Keigo | Qiu Jun | Lose | W+R | 6.5 | 3133 | 1 | 
+| 2010-12-16 | 第49期十段戦敗者復活戦4回戦 | Yamashita Keigo | Takao Shinji | Lose | W+R | 6.5 | 3132 | 7 | 
+| 2010-12-09 | 第36期名人戦リーグ | Mizokami Tomochika | Yamashita Keigo | Win | W+4.5 | 6.5 | 3125 | 22 | 
+| 2010-11-26 | 2010年アジア競技大会囲碁男子団体戦 | Yamashita Keigo | Cho U | Lose | W+2.5 | 7.5 | 3103 | 0 | 
+| 2010-11-26 | 2010年アジア競技大会囲碁男子団体戦 | Cho U | Yamashita Keigo | Lose | B+1.5 | 7.5 | 3103 | -21 | 
+| 2010-11-25 | 2010年アジア競技大会囲碁男子団体戦 | Yamashita Keigo | Gu Li | Win | B+7.5 | 7.5 | 3124 | 0 | 
+| 2010-11-25 | 2010年アジア競技大会囲碁男子団体戦 | Lee Changho | Yamashita Keigo | Win | W+R | 7.5 | 3124 | 50 | 
+| 2010-11-16 | 第36期天元戦挑戦手合五番勝負第3局 | Yuki Satoshi | Yamashita Keigo | Lose | B+2.5 | 6.5 | 3074 | -29 | 
+| 2010-11-09 | 第36期天元戦挑戦手合五番勝負第2局 | Yamashita Keigo | Yuki Satoshi | Lose | W+2.5 | 6.5 | 3103 | -11 | 
+| 2010-11-04 | 第36期碁聖戦本戦1回戦 | Yamashita Keigo | Hikosaka Naoto | Win | B+R | 6.5 | 3114 | 12 | 
+| 2010-10-28 | 第36期天元戦挑戦手合五番勝負第1局 | Yuki Satoshi | Yamashita Keigo | Lose | B+R | 6.5 | 3102 | -21 | 
+| 2010-10-21 | 第36期名人戦予選 | Seto Taiki | Yamashita Keigo | Win | W+R | 6.5 | 3123 | 20 | 
+| 2010-10-13 | 第15回三星火災杯世界囲碁マスターズ2回戦 | Yamashita Keigo | Lee Sedol | Lose | W+R | 6.5 | 3103 | 79 | 
+| 2010-10-02 | 第17期阿含・桐山杯全日本早碁オープン戦決勝 | Yamashita Keigo | Cho Chikun | Win | B+R | 6.5 | 3024 | 12 | 
+| 2010-09-30 | 第35期棋聖戦Aリーグ | Yoda Norimoto | Yamashita Keigo | Win | W+3.5 | 6.5 | 3012 | 3 | 
+| 2010-09-27 | 第49期十段戦本戦勝者組決勝 | Iyama Yuta | Yamashita Keigo | Lose | B+0.5 | 6.5 | 3009 | -11 | 
+| 2010-09-23 | 第36期名人戦予選 | Yamashita Keigo | Han Zenki | Win | B+R | 6.5 | 3020 | -11 | 
+| 2010-09-16 | 第35期棋聖戦Aリーグ | Yamashita Keigo | Kono Rin | Win | B+R | 6.5 | 3031 | 40 | 
+| 2010-09-09 | 第15回三星火災杯世界囲碁マスターズ1回戦F2 |  | Yamashita Keigo | Win | W+R | 6.5 | 2991 | 14 | 
+| 2010-09-08 | 第15回三星火災杯世界囲碁マスターズ1回戦F1 | Yamashita Keigo | Yang Jaeho | Win | B+R | 6.5 | 2977 | 2 | 
+| 2010-09-04 | 第49期十段戦本戦3回戦 | Anzai Nobuaki | Yamashita Keigo | Win | W+R | 6.5 | 2975 | -41 | 
+| 2010-09-02 | 第30期NECカップ囲碁トーナメント戦2回戦 | Yuki Satoshi | Yamashita Keigo | Win | W+11.5 | 6.5 | 3016 | 22 | 
+| 2010-08-26 | 第35期棋聖戦Aリーグ | Takao Shinji | Yamashita Keigo | Lose | B+R | 6.5 | 2994 | -52 | 
+| 2010-08-12 | 第17期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Takao Shinji | Win | B+0.5 | 6.5 | 3046 | 22 | 
+| 2010-08-05 | 第36期名人戦予選 | Yoda Norimoto | Yamashita Keigo | Win | W+R | 6.5 | 3024 | -20 | 
+| 2010-07-29 | 第49期十段戦本戦2回戦 | Yamashita Keigo | Lee Ishu | Win | B+R | 6.5 | 3044 | 5 | 
+| 2010-07-22 | 第35期棋聖戦Aリーグ | Kato Atsushi | Yamashita Keigo | Win | W+R | 6.5 | 3039 | -26 | 
+| 2010-07-08 | 第17期阿含・桐山杯全日本早碁オープン戦2回戦 | Yamashita Keigo | Michael Redmond | Win | B+R | 6.5 | 3065 | -17 | 
+| 2010-06-29 | 第65期本因坊戦挑戦手合七番勝負第5局 | Hane Naoki | Yamashita Keigo | Win | W+7.5 | 6.5 | 3082 | 4 | 
+| 2010-06-24 | 第35期棋聖戦Aリーグ | Yamashita Keigo | O Meien | Win | B+R | 6.5 | 3078 | 3 | 
+| 2010-06-21 | 第17期阿含・桐山杯全日本早碁オープン戦1回戦 | Yuki Satoshi | Yamashita Keigo | Win | W+R | 6.5 | 3075 | 7 | 
+| 2010-06-18 | 第65期本因坊戦挑戦手合七番勝負第4局 | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 3068 | 43 | 
+| 2010-06-09 | 第65期本因坊戦挑戦手合七番勝負第3局 | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3025 | 36 | 
+| 2010-06-03 | 第49期十段戦本戦1回戦 | Yamashita Keigo | Sakai Hideyuki | Win | B+R | 6.5 | 2989 | 20 | 
+| 2010-05-27 | 第65期本因坊戦挑戦手合七番勝負第2局 | Yamashita Keigo | Hane Naoki | Win | B+1.5 | 6.5 | 2969 | 85 | 
+| 2010-05-12 | 第65期本因坊戦挑戦手合七番勝負第1局 | Hane Naoki | Yamashita Keigo | Lose | B+3.5 | 6.5 | 2884 | -1 | 
+| 2010-05-06 | 第35期碁聖戦挑戦者決定戦 | Yamashita Keigo | Sakai Hideyuki | Lose | W+R | 6.5 | 2885 | -40 | 
+| 2010-04-29 | 第58期王座戦1回戦 | Kobayashi Satoru | Yamashita Keigo | Lose | B+2.5 | 6.5 | 2925 | -3 | 
+| 2010-04-19 | 第35期碁聖戦本戦準決勝 | Yamashita Keigo | Nakaonoda Tomomi | Win | B+R | 6.5 | 2928 | -52 | 
+| 2010-04-12 | 第23回世界囲碁選手権富士通杯2回戦 | Piao Wenyao | Yamashita Keigo | Lose | B+2.5 | 6.5 | 2980 | -14 | 
+| 2010-04-08 | 第48期十段戦挑戦手合五番勝負第3局 | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 2994 | 7 | 
+| 2010-04-05 | 第65期本因坊戦挑戦者決定プレーオフ | Iyama Yuta | Yamashita Keigo | Win | W+R | 6.5 | 2987 | 10 | 
+| 2010-04-01 | 第65期本因坊戦リーグ | Yamashita Keigo | Yuki Satoshi | Win | B+R | 6.5 | 2977 | 11 | 
+| 2010-03-29 | 第8回春蘭杯世界囲碁選手権2回戦 | Gu Li | Yamashita Keigo | Lose | B+R | 7.5 | 2966 | -8 | 
+| 2010-03-27 | 第8回春蘭杯世界囲碁選手権1回戦 | Chen Yaoye | Yamashita Keigo | Win | W+4.5 | 7.5 | 2974 | 9 | 
+| 2010-03-25 | 第48期十段戦挑戦手合五番勝負第2局 | Yamashita Keigo | Cho U | Lose | W+1.5 | 6.5 | 2965 | -34 | 
+| 2010-03-18 | 第65期本因坊戦リーグ | Takemiya Masaki | Yamashita Keigo | Win | W+4.5 | 6.5 | 2999 | -16 | 
+| 2010-03-04 | 第48期十段戦挑戦手合五番勝負第1局 | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 3015 | -12 | 
+| 2010-02-26 | 第34期棋聖戦挑戦手合七番勝負第5局 | Yamashita Keigo | Cho U | Lose | W+1.5 | 6.5 | 3027 | 41 | 
+| 2010-02-19 | 第34期棋聖戦挑戦手合七番勝負第4局 | Cho U | Yamashita Keigo | Win | W+7.5 | 6.5 | 2986 | 6 | 
+| 2010-02-13 | 第29期NECカップ囲碁トーナメント戦準決勝 | Yamashita Keigo | Kono Rin | Lose | W+7.5 | 6.5 | 2980 | 8 | 
+| 2010-02-11 | 第65期本因坊戦リーグ | Yamashita Keigo | Iyama Yuta | Win | B+R | 6.5 | 2972 | 28 | 
+| 2010-02-04 | 第34期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Cho U | Lose | W+8.5 | 6.5 | 2944 | -22 | 
+| 2010-01-28 | 第34期棋聖戦挑戦手合七番勝負第2局 | Cho U | Yamashita Keigo | Lose | B+6.5 | 6.5 | 2966 | -45 | 
+| 2010-01-21 | 第48期十段戦挑戦者決定戦 | Yamashita Keigo | Takao Shinji | Win | B+R | 6.5 | 3011 | 2 | 
+| 2010-01-15 | 第34期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Cho U | Lose | W+R | 6.5 | 3009 | 12 | 
+| 2010-01-07 | 第35期碁聖戦本戦3回戦 | O Rissei | Yamashita Keigo | Win | W+1.5 | 6.5 | 2997 | -10 | 
+| 2009-12-28 | 第65期本因坊戦リーグ | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3007 | 9 | 
+| 2009-12-25 | 第48期十段戦敗者復活戦決勝 | Yamashita Keigo | Lee Ishu | Win | B+R | 6.5 | 2998 | -6 | 
+| 2009-12-22 | 第35期天元戦挑戦手合五番勝負第5局 | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3004 | 11 | 
+| 2009-12-17 | 第65期本因坊戦リーグ | Yamashita Keigo | Takao Shinji | Lose | W+R | 6.5 | 2993 | -17 | 
+| 2009-12-14 | 第35期碁聖戦本戦2回戦 | Kim Sujun | Yamashita Keigo | Win | W+R | 6.5 | 3010 | 5 | 
+| 2009-12-10 | 第35期天元戦挑戦手合五番勝負第4局 | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 3005 | -5 | 
+| 2009-12-03 | 第35期天元戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3010 | -154 | 
+| 2009-11-25 | 第11回農心辛ラーメン杯世界囲碁最強戦第1戦 | Yamashita Keigo | Kim Jiseok | Lose | W+R | 6.5 | 3164 | -19 | 
+| 2009-11-19 | 第35期天元戦挑戦手合五番勝負第2局 | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 3183 | -44 | 
+| 2009-11-14 | 第29期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Kobayashi Satoru | Win | B+R | 6.5 | 3227 | 27 | 
+| 2009-11-12 | 第35期天元戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3200 | 11 | 
+| 2009-11-05 | 第48期十段戦敗者復活戦4回戦 | Yamashita Keigo | O Rissei | Win | B+R | 6.5 | 3189 | 8 | 
+| 2009-10-29 | 第35期名人戦予選 | Mizokami Tomochika | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3181 | 47 | 
+| 2009-10-20 | 第65期本因坊戦リーグ | Mimura Tomoyasu | Yamashita Keigo | Win | W+R | 6.5 | 3134 | 18 | 
+| 2009-10-13 | 第14回三星火災杯世界囲碁マスターズ2回戦 | Kong Jie | Yamashita Keigo | Lose | B+T | 6.5 | 3116 | 7 | 
+| 2009-10-08 | 第35期名人戦予選 | Yamashita Keigo | Kobayashi Koichi | Win | B+R | 6.5 | 3109 | 13 | 
+| 2009-10-01 | 第65期本因坊戦リーグ | Yamada Kimio | Yamashita Keigo | Win | W+R | 6.5 | 3096 | 2 | 
+| 2009-09-24 | 第48期十段戦敗者復活戦3回戦 | Cho Chikun | Yamashita Keigo | Win | W+R | 6.5 | 3094 | 12 | 
+| 2009-09-17 | 第35期天元戦挑戦者決定戦 | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 3082 | -3 | 
+| 2009-09-11 | 第14回三星火災杯世界囲碁マスターズ1回戦A2 | Yamashita Keigo | Yuki Satoshi | Win | B+R | 6.5 | 3085 | 14 | 
+| 2009-09-10 | 第14回三星火災杯世界囲碁マスターズ1回戦A1 | Choi Kyubyeong | Yamashita Keigo | Win | W+4.5 | 6.5 | 3071 | 10 | 
+| 2009-09-03 | 第35期名人戦予選 | Yamashita Keigo | Mimura Tomoyasu | Win | B+R | 6.5 | 3061 | -9 | 
+| 2009-08-27 | 第48期十段戦敗者復活戦2回戦 | Hikosaka Naoto | Yamashita Keigo | Win | W+R | 6.5 | 3070 | 52 | 
+| 2009-08-13 | 第35期天元戦本戦準決勝 | Yamashita Keigo | Takao Shinji | Win | B+R | 6.5 | 3018 | 1 | 
+| 2009-08-06 | 第16期阿含・桐山杯全日本早碁オープン戦準決勝 | Hane Naoki | Yamashita Keigo | Lose | B+R | 6.5 | 3017 | -24 | 
+| 2009-07-09 | 第16期阿含・桐山杯全日本早碁オープン戦2回戦 | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 3041 | 47 | 
+| 2009-06-25 | 第35期天元戦本戦3回戦 | Yamashita Keigo | Yukawa Mitsuhisa | Win | B+R | 6.5 | 2994 | 47 | 
+| 2009-06-18 | 第48期十段戦敗者復活戦1回戦 | Yamashita Keigo | Yamashiro Hiroshi | Win | B+R | 6.5 | 2947 | 42 | 
+| 2009-06-11 | 第16期阿含・桐山杯全日本早碁オープン戦1回戦 | Chin Kaei | Yamashita Keigo | Win | W+5.5 | 6.5 | 2905 | 20 | 
+| 2009-06-06 | 第22回世界囲碁選手権富士通杯3回戦 | Yamashita Keigo | Lee Changho | Lose | W+4.5 | 6.5 | 2885 | -98 | 
+| 2009-05-28 | 第57期王座戦2回戦 | Yoda Norimoto | Yamashita Keigo | Lose | B+R | 6.5 | 2983 | -61 | 
+| 2009-05-18 | 第14回LG杯世界棋王戦1回戦 | Yamashita Keigo | Weon Seongjin | Lose | W+6.5 | 6.5 | 3044 | -4 | 
+| 2009-05-14 | 第48期十段戦本戦1回戦 | O Rissei | Yamashita Keigo | Lose | B+R | 6.5 | 3048 | 12 | 
+| 2009-04-30 | 第35期天元戦本戦2回戦 | Imamura Toshiya | Yamashita Keigo | Win | W+0.5 | 6.5 | 3036 | 42 | 
+| 2009-04-23 | 第48期十段戦予選 | Yamashita Keigo | Kataoka Satoshi | Win | B+R | 6.5 | 2994 | -1 | 
+| 2009-04-16 | 第57期王座戦1回戦 | Yamashita Keigo | Takemiya Masaki | Win | B+8.5 | 6.5 | 2995 | 12 | 
+| 2009-04-13 | 第22回世界囲碁選手権富士通杯2回戦 | Yamashita Keigo | Qiu Jun | Win | B+R | 6.5 | 2983 | 14 | 
+| 2009-04-07 | 第34期碁聖戦本戦3回戦 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 2969 | 4 | 
+| 2009-04-02 | 第64期本因坊戦リーグ | Kataoka Satoshi | Yamashita Keigo | Win | W+R | 6.5 | 2965 | -2 | 
+| 2009-03-26 | 第48期十段戦予選 | Yamashita Keigo | Murakawa Daisuke | Win | B+R | 6.5 | 2967 | 19 | 
+| 2009-03-12 | 第33期棋聖戦挑戦手合七番勝負第6局 | Yoda Norimoto | Yamashita Keigo | Win | W+2.5 | 6.5 | 2948 | 1 | 
+| 2009-03-05 | 第64期本因坊戦リーグ | Yamashita Keigo | Yamada Kimio | Win | B+R | 6.5 | 2947 | -68 | 
+| 2009-02-26 | 第33期棋聖戦挑戦手合七番勝負第5局 | Yamashita Keigo | Yoda Norimoto | Win | B+5.5 | 6.5 | 3015 | 71 | 
+| 2009-02-20 | 第33期棋聖戦挑戦手合七番勝負第4局 | Yoda Norimoto | Yamashita Keigo | Lose | B+R | 6.5 | 2944 | -3 | 
+| 2009-02-12 | 第64期本因坊戦リーグ | Yoda Norimoto | Yamashita Keigo | Lose | B+R | 6.5 | 2947 | -28 | 
+| 2009-02-05 | 第33期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Yoda Norimoto | Lose | W+0.5 | 6.5 | 2975 | -11 | 
+| 2009-01-29 | 第33期棋聖戦挑戦手合七番勝負第2局 | Yoda Norimoto | Yamashita Keigo | Win | W+0.5 | 6.5 | 2986 | 3 | 
+| 2009-01-15 | 第33期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Yoda Norimoto | Win | B+1.5 | 6.5 | 2983 | -103 | 
+| 2009-01-08 | 第64期本因坊戦リーグ | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3086 | 53 | 
+| 2008-12-25 | 第35期天元戦本戦1回戦 | Yuki Satoshi | Yamashita Keigo | Win | W+2.5 | 6.5 | 3033 | 49 | 
+| 2008-12-18 | 第64期本因坊戦リーグ | Takao Shinji | Yamashita Keigo | Lose | B+10.5 | 6.5 | 2984 | 81 | 
+| 2008-12-08 | 第56期王座戦挑戦手合五番勝負第4局 | Yamashita Keigo | Cho U | Lose | W+2.5 | 6.5 | 2903 | 7 | 
+| 2008-12-04 | 第34期碁聖戦本戦2回戦 | Yamashita Keigo | Mimura Tomoyasu | Win | B+R | 6.5 | 2896 | -32 | 
+| 2008-12-01 | 第56期王座戦挑戦手合五番勝負第3局 | Cho U | Yamashita Keigo | Win | W+5.5 | 6.5 | 2928 | 292 | 
+| 2008-11-27 | 第64期本因坊戦リーグ | So Yokoku | Yamashita Keigo | Lose | B+8.5 | 6.5 | 2636 | -23 | 
+| 2008-11-18 | 第13回三星火災杯世界オープン囲碁選手権3回戦 | Kong Jie | Yamashita Keigo | Lose | B+R | 6.5 | 2659 | 1 | 
+| 2008-11-13 | 第56期王座戦挑戦手合五番勝負第2局 | Yamashita Keigo | Cho U | Lose | W+R | 6.5 | 2658 | 5 | 
+| 2008-11-03 | 第13回LG杯世界棋王戦3回戦 | Lee Changho | Yamashita Keigo | Lose | B+4.5 | 6.5 | 2653 | -10 | 
+| 2008-10-30 | 第34期碁聖戦本戦1回戦 | Kurahashi Masayuki | Yamashita Keigo | Win | W+R | 6.5 | 2663 | -570 | 
+| 2008-10-27 | 第56期王座戦挑戦手合五番勝負第1局 | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 3233 | -17 | 
+| 2008-10-22 | 第10回農心辛ラーメン杯世界囲碁最強戦第2戦 | Tuo Jiaxi | Yamashita Keigo | Lose | B+4.5 | 6.5 | 3250 | -7 | 
+| 2008-10-17 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦三位決定戦 | Yamashita Keigo | Xiao Zhenghao | Lose | W+1.5 | 6.5 | 3257 | 0 | 
+| 2008-10-17 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Kim Jiseok | Yamashita Keigo | Lose | B+2.5 | 6.5 | 3257 | -26 | 
+| 2008-10-15 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Piao Wenyao | Yamashita Keigo | Lose | B+R | 6.5 | 3283 | 31 | 
+| 2008-10-09 | 第64期本因坊戦リーグ | Yamashita Keigo | Nakaonoda Tomomi | Win | B+R | 6.5 | 3252 | 59 | 
+| 2008-09-20 | 第28期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Cho Chikun | Lose | W+R | 6.5 | 3193 | -29 | 
+| 2008-09-11 | 第34期名人戦予選 | Ryu Shikun | Yamashita Keigo | Lose | B+R | 6.5 | 3222 | -23 | 
+| 2008-09-05 | 第13回三星火災杯世界オープン囲碁選手権2回戦 | Zhou Heyang | Yamashita Keigo | Win | W+R | 6.5 | 3245 | 3 | 
+| 2008-09-03 | 第13回三星火災杯世界オープン囲碁選手権1回戦 | Xie He | Yamashita Keigo | Win | W+R | 6.5 | 3242 | 47 | 
+| 2008-08-23 | 第4期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Yamashita Keigo | Cho Hanseung | Lose | W+7.5 | 6.5 | 3195 | -17 | 
+| 2008-08-15 | 第33期碁聖戦挑戦手合五番勝負第4局 | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 3212 | 340 | 
+| 2008-07-31 | 第33期碁聖戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho U | Lose | W+R | 6.5 | 2872 | -8 | 
+| 2008-07-27 | 第33期碁聖戦挑戦手合五番勝負第2局 | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 2880 | -24 | 
+| 2008-07-11 | 第33期碁聖戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 2904 | 5 | 
+| 2008-06-19 | 第15期阿含・桐山杯全日本早碁オープン戦1回戦 | Nakano Hironari | Yamashita Keigo | Lose | B+1.5 | 6.5 | 2899 | -16 | 
+| 2008-06-12 | 第34期天元戦本戦3回戦 | Yamashita Keigo | Ko Iso | Lose | W+4.5 | 6.5 | 2915 | -32 | 
+| 2008-06-02 | 第33期碁聖戦挑戦者決定戦 | Takao Shinji | Yamashita Keigo | Win | W+1.5 | 6.5 | 2947 | 25 | 
+| 2008-05-28 | 第13回LG杯世界棋王戦2回戦 | Kim Hyeongwan | Yamashita Keigo | Win | W+R | 6.5 | 2922 | 10 | 
+| 2008-05-26 | 第13回LG杯世界棋王戦1回戦 | Kim Seongjae | Yamashita Keigo | Win | W+R | 6.5 | 2912 | 34 | 
+| 2008-05-15 | 第34期天元戦本戦2回戦 | Yamashita Keigo | Yuki Satoshi | Win | B+R | 6.5 | 2878 | 26 | 
+| 2008-04-30 | 第6回応氏杯世界選手権1回戦 | Yamashita Keigo | Gu Li | Lose | W+R | 7.5 | 2852 | 6 | 
+| 2008-04-24 | 第47期十段戦予選 | Yamashiro Hiroshi | Yamashita Keigo | Lose | B+1.5 | 6.5 | 2846 | 186 | 
+| 2008-04-17 | 第34期天元戦本戦1回戦 | Yamashita Keigo | Awaji Shuzo | Win | B+R | 6.5 | 2660 | 7 | 
+| 2008-04-14 | 第21回世界囲碁選手権富士通杯2回戦 | Yamashita Keigo | Cho Hanseung | Lose | W+6.5 | 6.5 | 2653 | -2 | 
+| 2008-04-10 | 第47期十段戦予選 | Yamashita Keigo | Hatanaka Hoshinobu | Win | B+R | 6.5 | 2655 | -8 | 
+| 2008-04-03 | 第63期本因坊戦リーグ | So Yokoku | Yamashita Keigo | Win | W+R | 6.5 | 2663 | 24 | 
+| 2008-03-27 | 第33期碁聖戦本戦準決勝 | Yamashita Keigo | Yoda Norimoto | Win | B+R | 6.5 | 2639 | 19 | 
+| 2008-03-20 | 第32期棋聖戦挑戦手合七番勝負第7局 | Cho Chikun | Yamashita Keigo | Win | W+R | 6.5 | 2620 | 4 | 
+| 2008-03-14 | 第32期棋聖戦挑戦手合七番勝負第6局 | Yamashita Keigo | Cho Chikun | Lose | W+4.5 | 6.5 | 2616 | 12 | 
+| 2008-03-06 | 第63期本因坊戦リーグ | Yamashita Keigo | Yamada Kimio | Lose | W+2.5 | 6.5 | 2604 | -17 | 
+| 2008-02-28 | 第32期棋聖戦挑戦手合七番勝負第5局 | Cho Chikun | Yamashita Keigo | Lose | B+3.5 | 6.5 | 2621 | -12 | 
+| 2008-02-22 | 第32期棋聖戦挑戦手合七番勝負第4局 | Yamashita Keigo | Cho Chikun | Win | B+R | 6.5 | 2633 | 14 | 
+| 2008-02-18 | 第33期碁聖戦本戦3回戦 | Yamashita Keigo | Cho Chikun | Win | B+R | 6.5 | 2619 | -20 | 
+| 2008-02-14 | 第63期本因坊戦リーグ | Yamashita Keigo | Mizokami Tomochika | Win | B+8.5 | 6.5 | 2639 | 3 | 
+| 2008-02-08 | 第32期棋聖戦挑戦手合七番勝負第3局 | Cho Chikun | Yamashita Keigo | Win | W+R | 6.5 | 2636 | -20 | 
+| 2008-01-31 | 第32期棋聖戦挑戦手合七番勝負第2局 | Yamashita Keigo | Cho Chikun | Lose | W+R | 6.5 | 2656 | 29 | 
+| 2008-01-24 | 第63期本因坊戦リーグ | Yamashita Keigo | Yoda Norimoto | Win | B+R | 6.5 | 2627 | 31 | 
+| 2008-01-13 | 第32期棋聖戦挑戦手合七番勝負第1局 | Cho Chikun | Yamashita Keigo | Win | W+R | 6.5 | 2596 | 24 | 
+| 2007-12-10 | 第63期本因坊戦リーグ | O Meien | Yamashita Keigo | Win | W+R | 6.5 | 2572 | -4 | 
+| 2007-12-06 | 第33期天元戦挑戦手合五番勝負第4局 | Yamashita Keigo | Kono Rin | Lose | W+R | 6.5 | 2576 | -26 | 
+| 2007-11-29 | 第55期王座戦挑戦手合五番勝負第4局 | Yamashita Keigo | Imamura Toshiya | Win | B+R | 6.5 | 2602 | 6 | 
+| 2007-11-27 | 第55期王座戦挑戦手合五番勝負第3局 | Imamura Toshiya | Yamashita Keigo | Win | W+R | 6.5 | 2596 | -5 | 
+| 2007-11-22 | 第33期天元戦挑戦手合五番勝負第3局 | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 | 2601 | 3 | 
+| 2007-11-19 | 第33期碁聖戦本戦2回戦 | Yamashita Keigo | Ishii Shinzo | Win | B+R | 6.5 | 2598 | -5 | 
+| 2007-11-15 | 第55期王座戦挑戦手合五番勝負第2局 | Yamashita Keigo | Imamura Toshiya | Lose | W+R | 6.5 | 2603 | -13 | 
+| 2007-11-12 | 第63期本因坊戦リーグ | Yamashita Keigo | Hane Naoki | Lose | W+6.5 | 6.5 | 2616 | -14 | 
+| 2007-11-08 | 第33期天元戦挑戦手合五番勝負第2局 | Yamashita Keigo | Kono Rin | Lose | W+R | 6.5 | 2630 | 4 | 
+| 2007-11-02 | 第33期天元戦挑戦手合五番勝負第1局 | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 2626 | 12 | 
+| 2007-10-26 | 第55期王座戦挑戦手合五番勝負第1局 | Imamura Toshiya | Yamashita Keigo | Win | W+R | 6.5 | 2614 | -3 | 
+| 2007-10-23 | 第63期本因坊戦リーグ | Cho U | Yamashita Keigo | Lose | B+1.5 | 6.5 | 2617 | -4 | 
+| 2007-10-18 | 第33期碁聖戦本戦1回戦 | Cho Riyu | Yamashita Keigo | Win | W+4.5 | 6.5 | 2621 | -26 | 
+| 2007-09-22 | 第27期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Cho Sonjin | Lose | W+6.5 | 6.5 | 2647 | -1325 | 
+| 2007-09-20 | 第33期天元戦挑戦者決定戦 | Iyama Yuta | Yamashita Keigo | Win | W+1.5 | 6.5 | 3972 | 1239 | 
+| 2007-09-04 | 第12回三星火災杯世界オープン囲碁選手権1回戦 | Yamashita Keigo | Heo Yongho | Lose | W+R | 6.5 | 2733 | -12 | 
+| 2007-08-30 | 第33期名人戦予選 | Yamashita Keigo | Iyama Yuta | Lose | W+1.5 | 6.5 | 2745 | -19 | 
+| 2007-08-23 | 第63期本因坊戦予選 | Yamashita Keigo | Cho Chikun | Win | B+R | 6.5 | 2764 | -255 | 
+| 2007-08-13 | 第3回中環杯世界囲碁選手権2回戦 | Cho Hanseung | Yamashita Keigo | Lose | B+R | 6.5 | 3019 | -13 | 
+| 2007-08-12 | 第3回中環杯世界囲碁選手権1回戦 | Chen Shiyuan | Yamashita Keigo | Win | W+R | 6.5 | 3032 | 10 | 
+| 2007-08-09 | 第46期十段戦敗者復活戦1回戦 | Shuto Shun | Yamashita Keigo | Lose | B+9.5 | 6.5 | 3022 | -127 | 
+| 2007-08-02 | 第32期名人戦リーグ | Yamashita Keigo | Kobayashi Satoru | Lose | W+R | 6.5 | 3149 | -131 | 
+| 2007-07-21 | 第27期NECカップ囲碁トーナメント戦1回戦 | Yamashita Keigo | Yamada Kimio | Win | B+R | 6.5 | 3280 | 42 | 
+| 2007-07-19 | 第33期天元戦本戦準決勝 | Yamashita Keigo | Kim Sujun | Win | B+R | 6.5 | 3238 | 162 | 
+| 2007-07-12 | 第32期名人戦リーグ | Yamada Kimio | Yamashita Keigo | Lose | B+5.5 | 6.5 | 3076 | -99 | 
+| 2007-07-05 | 第63期本因坊戦予選 | Ueki Yoshio | Yamashita Keigo | Win | W+R | 6.5 | 3175 | -32 | 
+| 2007-06-28 | 第33期天元戦本戦3回戦 | Yuki Satoshi | Yamashita Keigo | Win | W+R | 6.5 | 3207 | 1 | 
+| 2007-06-21 | 第14期阿含・桐山杯全日本早碁オープン戦1回戦 | Rin Kanketsu | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3206 | -29 | 
+| 2007-06-14 | 第63期本因坊戦予選 | Matsumoto Takehisa | Yamashita Keigo | Win | W+R | 6.5 | 3235 | 84 | 
+| 2007-06-06 | 第12回LG杯世界棋王戦2回戦 | On Sojin | Yamashita Keigo | Lose | B+R | 6.5 | 3151 | -9 | 
+| 2007-06-04 | 第12回LG杯世界棋王戦1回戦 | Yamashita Keigo |  | Win | B+R | 6.5 | 3160 | 28 | 
+| 2007-05-31 | 第32期名人戦リーグ | Yamashita Keigo | Mimura Tomoyasu | Lose | W+0.5 | 6.5 | 3132 | -4 | 
+| 2007-05-24 | 第63期本因坊戦予選 | Yamashita Keigo | Sakai Hideyuki | Win | B+R | 6.5 | 3136 | 22 | 
+| 2007-05-17 | 第46期十段戦本戦1回戦 | Takao Shinji | Yamashita Keigo | Lose | B+R | 6.5 | 3114 | -37 | 
+| 2007-05-03 | 第32期名人戦リーグ | Hikosaka Naoto | Yamashita Keigo | Lose | B+R | 6.5 | 3151 | -24 | 
+| 2007-04-25 | 第45期十段戦挑戦手合五番勝負第5局 | Cho Chikun | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3175 | 21 | 
+| 2007-04-19 | 第45期十段戦挑戦手合五番勝負第4局 | Cho Chikun | Yamashita Keigo | Win | W+R | 6.5 | 3154 | -1 | 
+| 2007-04-16 | 第20回世界囲碁選手権富士通杯2回戦 | Yamashita Keigo | Hu Yaoyu | Lose | W+2.5 | 6.5 | 3155 | 18 | 
+| 2007-04-05 | 第45期十段戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho Chikun | Win | B+R | 6.5 | 3137 | -16 | 
+| 2007-03-29 | 第45期十段戦挑戦手合五番勝負第2局 | Cho Chikun | Yamashita Keigo | Lose | B+2.5 | 6.5 | 3153 | -24 | 
+| 2007-03-22 | 第32期名人戦リーグ | Yamashita Keigo | Yoda Norimoto | Lose | W+4.5 | 6.5 | 3177 | -18 | 
+| 2007-03-15 | 第33期天元戦本戦2回戦 | Michael Redmond | Yamashita Keigo | Win | W+R | 6.5 | 3195 | 338 | 
+| 2007-03-08 | 第45期十段戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho Chikun | Lose | W+R | 6.5 | 2857 | -4 | 
+| 2007-02-23 | 第31期棋聖戦挑戦手合七番勝負第4局 | Kobayashi Satoru | Yamashita Keigo | Win | W+R | 6.5 | 2861 | 19 | 
+| 2007-02-15 | 第45期十段戦挑戦者決定戦 | Yamashita Keigo | Yoda Norimoto | Win | B+6.5 | 6.5 | 2842 | -3 | 
+| 2007-02-12 | 第32期名人戦リーグ | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 2845 | -19 | 
+| 2007-02-08 | 第31期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Kobayashi Satoru | Win | B+R | 6.5 | 2864 | 13 | 
+| 2007-02-01 | 第31期棋聖戦挑戦手合七番勝負第2局 | Kobayashi Satoru | Yamashita Keigo | Win | W+R | 6.5 | 2851 | -12 | 
+| 2007-01-25 | 第32期名人戦リーグ | Yamashita Keigo | Cho U | Lose | W+0.5 | 6.5 | 2863 | 12 | 
+| 2007-01-18 | 第31期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Kobayashi Satoru | Win | B+R | 6.5 | 2851 | 21 | 
+| 2007-01-11 | 第33期天元戦本戦1回戦 | Yamashita Keigo | Takao Shinji | Win | B+R | 6.5 | 2830 | 42 | 
+| 2006-12-21 | 第32期名人戦リーグ | Sakai Hideyuki | Yamashita Keigo | Lose | B+R | 6.5 | 2788 | -2 | 
+| 2006-12-14 | 第32期天元戦挑戦手合五番勝負第4局 | Yamashita Keigo | Kono Rin | Lose | W+3.5 | 6.5 | 2790 | -34 | 
+| 2006-12-07 | 第54期王座戦挑戦手合五番勝負第4局 | Cho U | Yamashita Keigo | Win | W+R | 6.5 | 2824 | 7 | 
+| 2006-11-30 | 第54期王座戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 2817 | 0 | 
+| 2006-11-23 | 第32期碁聖戦本戦2回戦 | Yamashita Keigo | Matsumoto Takehisa | Lose | W+R | 6.5 | 2817 | -12 | 
+| 2006-11-20 | 第32期天元戦挑戦手合五番勝負第3局 | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 | 2829 | -2 | 
+| 2006-11-16 | 第54期王座戦挑戦手合五番勝負第2局 | Cho U | Yamashita Keigo | Win | W+1.5 | 6.5 | 2831 | 15 | 
+| 2006-11-13 | 第32期天元戦挑戦手合五番勝負第2局 | Yamashita Keigo | Kono Rin | Win | B+R | 6.5 | 2816 | -7 | 
+| 2006-11-02 | 第32期天元戦挑戦手合五番勝負第1局 | Kono Rin | Yamashita Keigo | Lose | B+3.5 | 6.5 | 2823 | 14 | 
+| 2006-10-26 | 第54期王座戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho U | Lose | W+6.5 | 6.5 | 2809 | -72 | 
+| 2006-10-19 | 第32期碁聖戦本戦1回戦 | Murakawa Daisuke | Yamashita Keigo | Win | W+R | 6.5 | 2881 | 0 | 
+| 2006-10-14 | 第26期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Hane Naoki | Lose | W+5.5 | 6.5 | 2881 | -4 | 
+| 2006-10-02 | 第45期十段戦本戦勝者組決勝 | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 2885 | 7 | 
+| 2006-09-21 | 第45期十段戦本戦3回戦 | Kobayashi Satoru | Yamashita Keigo | Win | W+0.5 | 6.5 | 2878 | 23 | 
+| 2006-09-14 | 第32期天元戦挑戦者決定戦 | Yamashita Keigo | Takemiya Masaki | Win | B+R | 6.5 | 2855 | -23 | 
+| 2006-09-08 | 第11回三星火災杯世界オープン囲碁選手権2回戦 | Piao Wenyao | Yamashita Keigo | Lose | B+3.5 | 6.5 | 2878 | -5 | 
+| 2006-09-06 | 第11回三星火災杯世界オープン囲碁選手権1回戦 | Yamashita Keigo | Cho Hanseung | Win | B+3.5 | 6.5 | 2883 | 3 | 
+| 2006-08-31 | 第54期王座戦挑戦者決定戦 | Yamashita Keigo | Kobayashi Satoru | Win | B+R | 6.5 | 2880 | -15 | 
+| 2006-08-10 | 第45期十段戦本戦2回戦 | Yamashita Keigo | Yoda Norimoto | Win | B+R | 6.5 | 2895 | -30 | 
+| 2006-08-03 | 第31期名人戦リーグ | Yoda Norimoto | Yamashita Keigo | Win | W+7.5 | 6.5 | 2925 | 14 | 
+| 2006-07-20 | 第54期王座戦準決勝 | Yamashita Keigo | Ryu Shikun | Win | B+0.5 | 6.5 | 2911 | -25 | 
+| 2006-07-13 | 第32期天元戦本戦準決勝 | Yamashita Keigo | O Rissei | Win | B+R | 6.5 | 2936 | -38 | 
+| 2006-07-06 | 第31期名人戦リーグ | Yamashita Keigo | Imamura Toshiya | Win | B+R | 6.5 | 2974 | 9 | 
+| 2006-06-29 | 第54期王座戦2回戦 | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 2965 | 17 | 
+| 2006-06-26 | 第62期本因坊戦予選 | Rin Shien | Yamashita Keigo | Lose | B+4.5 | 6.5 | 2948 | -213 | 
+| 2006-06-22 | 第32期天元戦本戦3回戦 | Yamashita Keigo | Sakai Hideyuki | Win | B+R | 6.5 | 3161 | 11 | 
+| 2006-06-17 | 第26期NECカップ囲碁トーナメント戦1回戦 | Yamashita Keigo | Yoda Norimoto | Win | B+R | 6.5 | 3150 | 12 | 
+| 2006-06-15 | 第45期十段戦本戦1回戦 | Kobayashi Koichi | Yamashita Keigo | Win | W+0.5 | 6.5 | 3138 | -16 | 
+| 2006-06-12 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Yamashita Keigo | Kim Sujun | Lose | W+2.5 | 6.5 | 3154 | -2 | 
+| 2006-06-08 | 第31期碁聖戦挑戦者決定戦 | Cho U | Yamashita Keigo | Lose | B+2.5 | 6.5 | 3156 | -11 | 
+| 2006-06-05 | 第13期阿含・桐山杯全日本早碁オープン戦予選 | Kim Sujun | Yamashita Keigo | Lose | B+11.5 | 6.5 | 3167 | 0 | 
+| 2006-06-01 | 第31期名人戦リーグ | Yamashita Keigo | Ko Iso | Win | B+5.5 | 6.5 | 3167 | 6 | 
+| 2006-05-29 | 第62期本因坊戦予選 | Yamashita Keigo | Kurahashi Masayuki | Win | B+R | 6.5 | 3161 | 16 | 
+| 2006-05-25 | 第31期名人戦リーグ | Yamashita Keigo | Sakai Hideyuki | Win | B+R | 6.5 | 3145 | 116 | 
+| 2006-05-17 | 第11回LG杯世界棋王戦2回戦 | Hu Yaoyu | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3029 | -28 | 
+| 2006-05-15 | 第11回LG杯世界棋王戦1回戦 | Yun Junsang | Yamashita Keigo | Win | W+2.5 | 6.5 | 3057 | 0 | 
+| 2006-05-11 | 第31期碁聖戦本戦準決勝 | Cho Chikun | Yamashita Keigo | Win | W+R | 6.5 | 3057 | -2 | 
+| 2006-05-03 | 第5回CSK杯囲碁アジア対抗戦第3戦 | Yamashita Keigo | O Rissei | Win | B+2.5 | 6.5 | 3059 | 3 | 
+| 2006-05-02 | 第5回CSK杯囲碁アジア対抗戦第2戦 | Gu Li | Yamashita Keigo | Lose | B+R | 6.5 | 3056 | -3 | 
+| 2006-05-01 | 第5回CSK杯囲碁アジア対抗戦第1戦 | Park Yeonghun | Yamashita Keigo | Lose | B+R | 6.5 | 3059 | -27 | 
+| 2006-04-27 | 第32期天元戦本戦2回戦 | Komatsu Hideki | Yamashita Keigo | Win | W+R | 6.5 | 3086 | -8 | 
+| 2006-04-20 | 第31期名人戦リーグ | Kobayashi Satoru | Yamashita Keigo | Lose | B+0.5 | 6.5 | 3094 | -19 | 
+| 2006-04-13 | 第44期十段戦挑戦手合五番勝負第4局 | Cho Chikun | Yamashita Keigo | Lose | B+2.5 | 6.5 | 3113 | 0 | 
+| 2006-04-10 | 第19回世界囲碁選手権富士通杯2回戦 | Yamashita Keigo | Lee Changho | Lose | W+2.5 | 6.5 | 3113 | -13 | 
+| 2006-04-08 | 第19回世界囲碁選手権富士通杯1回戦 | Cho Hanseung | Yamashita Keigo | Win | W+R | 6.5 | 3126 | 7 | 
+| 2006-04-05 | 第44期十段戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho Chikun | Win | B+8.5 | 6.5 | 3119 | 10 | 
+| 2006-03-30 | 第54期王座戦1回戦 | Nakamura Shinya | Yamashita Keigo | Win | W+R | 6.5 | 3109 | -6 | 
+| 2006-03-27 | 第44期十段戦挑戦手合五番勝負第2局 | Cho Chikun | Yamashita Keigo | Lose | B+R | 6.5 | 3115 | -8 | 
+| 2006-03-23 | 第32期天元戦本戦1回戦 | Yamashita Keigo | Takagi Shoichi | Win | B+10.5 | 6.5 | 3123 | -10 | 
+| 2006-03-16 | 第31期碁聖戦本戦3回戦 | Takemiya Masaki | Yamashita Keigo | Win | W+R | 6.5 | 3133 | 6 | 
+| 2006-03-13 | 第31期名人戦リーグ | Yamada Kimio | Yamashita Keigo | Win | W+R | 6.5 | 3127 | -4 | 
+| 2006-03-08 | 第44期十段戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho Chikun | Lose | W+R | 6.5 | 3131 | -3 | 
+| 2006-02-23 | 第30期棋聖戦挑戦手合七番勝負第4局 | Hane Naoki | Yamashita Keigo | Win | W+2.5 | 6.5 | 3134 | 8 | 
+| 2006-02-16 | 第31期名人戦リーグ | Yamashita Keigo | Takao Shinji | Lose | W+0.5 | 6.5 | 3126 | -3 | 
+| 2006-02-13 | 第19回世界囲碁選手権富士通杯国内予選決勝 | Yamashita Keigo | Sakai Hideyuki | Win | B+3.5 | 6.5 | 3129 | 6 | 
+| 2006-02-09 | 第30期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Hane Naoki | Win | B+1.5 | 6.5 | 3123 | 12 | 
+| 2006-02-02 | 第30期棋聖戦挑戦手合七番勝負第2局 | Hane Naoki | Yamashita Keigo | Win | W+6.5 | 6.5 | 3111 | 17 | 
+| 2006-01-26 | 第44期十段戦挑戦者決定戦 | Yamashita Keigo | Takao Shinji | Win | B+R | 6.5 | 3094 | -186 | 
+| 2006-01-16 | 第30期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 3280 | 216 | 
+| 2006-01-09 | 第44期十段戦敗者復活戦決勝 | Yamashita Keigo | Mimura Tomoyasu | Win | B+3.5 | 6.5 | 3064 | -9 | 
+| 2006-01-06 | 第31期名人戦リーグ | Han Zenki | Yamashita Keigo | Lose | B+4.5 | 6.5 | 3073 | -4 | 
+| 2005-12-23 | 第44期十段戦敗者復活戦4回戦 | Kobayashi Satoru | Yamashita Keigo | Win | W+R | 6.5 | 3077 | -225 | 
+| 2005-12-20 | 第31期天元戦挑戦手合五番勝負第5局 | Yamashita Keigo | Kono Rin | Lose | W+4.5 | 6.5 | 3302 | 6 | 
+| 2005-12-15 | 第31期天元戦挑戦手合五番勝負第4局 | Yamashita Keigo | Kono Rin | Win | B+R | 6.5 | 3296 | -45 | 
+| 2005-12-05 | 第19回世界囲碁選手権富士通杯国内予選 | Yamashita Keigo | Nakamura Shinya | Win | B+R | 6.5 | 3341 | -7 | 
+| 2005-12-01 | 第53期王座戦挑戦手合五番勝負第3局 | Cho U | Yamashita Keigo | Lose | B+9.5 | 6.5 | 3348 | -3 | 
+| 2005-11-28 | 第31期碁聖戦本戦2回戦 | Yamashita Keigo | Nakaonoda Tomomi | Win | B+R | 6.5 | 3351 | 2 | 
+| 2005-11-24 | 第31期天元戦挑戦手合五番勝負第3局 | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 | 3349 | -11 | 
+| 2005-11-21 | 第53期王座戦挑戦手合五番勝負第2局 | Yamashita Keigo | Cho U | Lose | W+R | 6.5 | 3360 | -28 | 
+| 2005-11-17 | 第31期天元戦挑戦手合五番勝負第2局 | Yamashita Keigo | Kono Rin | Lose | W+5.5 | 6.5 | 3388 | 45 | 
+| 2005-11-14 | 第19回世界囲碁選手権富士通杯国内予選 | Kiyonari Tetsuya | Yamashita Keigo | Win | W+5.5 | 6.5 | 3343 | 72 | 
+| 2005-11-10 | 第31期碁聖戦本戦1回戦 | Fujii Shuya | Yamashita Keigo | Win | W+R | 6.5 | 3271 | 233 | 
+| 2005-11-07 | 第31期天元戦挑戦手合五番勝負第1局 | Kono Rin | Yamashita Keigo | Win | W+6.5 | 6.5 | 3038 | 25 | 
+| 2005-11-03 | 第30期棋聖戦挑戦者決定戦 | Yamashita Keigo | Yuki Satoshi | Win | B+3.5 | 6.5 | 3013 | -207 | 
+| 2005-10-28 | 第53期王座戦挑戦手合五番勝負第1局 | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 3220 | 30 | 
+| 2005-10-19 | 2005年国際新鋭囲碁対抗戦第3戦 | Yamashita Keigo | Lin Zhihan | Win | B+2.5 | 6.5 | 3190 | 0 | 
+| 2005-10-18 | 2005年国際新鋭囲碁対抗戦第2戦 | Hu Yaoyu | Yamashita Keigo | Lose | B+R | 6.5 | 3190 | -21 | 
+| 2005-10-17 | 2005年国際新鋭囲碁対抗戦第1戦 | Yamashita Keigo | Cho Hanseung | Lose | W+7.5 | 6.5 | 3211 | -23 | 
+| 2005-10-13 | 第44期十段戦敗者復活戦3回戦 | Yamashita Keigo | O Rissei | Win | B+R | 6.5 | 3234 | 18 | 
+| 2005-10-06 | 第30期棋聖戦Bリーグ | Yamashita Keigo | O Rissei | Win | B+R | 6.5 | 3216 | 34 | 
+| 2005-09-15 | 第44期十段戦本戦3回戦 | Mimura Tomoyasu | Yamashita Keigo | Lose | B+2.5 | 6.5 | 3182 | -27 | 
+| 2005-09-08 | 第53期王座戦挑戦者決定戦 | Yamashita Keigo | Nakaonoda Tomomi | Win | B+R | 6.5 | 3209 | 14 | 
+| 2005-09-01 | 第30期棋聖戦Bリーグ | Yamashita Keigo | Kobayashi Satoru | Win | B+R | 6.5 | 3195 | -6 | 
+| 2005-08-25 | 第30期棋聖戦Bリーグ | Imamura Toshiya | Yamashita Keigo | Win | W+R | 6.5 | 3201 | -14 | 
+| 2005-08-16 | 第2回中環杯世界囲碁選手権2回戦 | Yamashita Keigo | Choi Cheolhan | Lose | W+1.5 | 6.5 | 3215 | 10 | 
+| 2005-08-14 | 第2回中環杯世界囲碁選手権1回戦 | Yamashita Keigo | Zhou Junxun | Win | B+R | 6.5 | 3205 | 11 | 
+| 2005-08-11 | 第53期王座戦準決勝 | Yamashita Keigo | O Meien | Win | B+R | 6.5 | 3194 | -2 | 
+| 2005-08-08 | 第30期名人戦挑戦者決定プレーオフ | Yamashita Keigo | Kobayashi Satoru | Lose | W+1.5 | 6.5 | 3196 | 26 | 
+| 2005-08-04 | 第30期名人戦リーグ | Yamashita Keigo | Sakai Hideyuki | Win | B+R | 6.5 | 3170 | -28 | 
+| 2005-07-28 | 第44期十段戦本戦2回戦 | Yamashita Keigo | Hikosaka Naoto | Win | B+R | 6.5 | 3198 | 13 | 
+| 2005-07-24 | 第25期NECカップ囲碁トーナメント戦1回戦 | O Meien | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3185 | -5 | 
+| 2005-07-14 | 第30期名人戦リーグ | Yamashita Keigo | Cho Sonjin | Win | B+R | 6.5 | 3190 | 35 | 
+| 2005-07-07 | 第30期棋聖戦Bリーグ | Yamashita Keigo | Komatsu Hideki | Lose | W+R | 6.5 | 3155 | -13 | 
+| 2005-07-04 | 第44期十段戦本戦1回戦 | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3168 | -20 | 
+| 2005-06-30 | 第53期王座戦2回戦 | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 3188 | 244 | 
+| 2005-06-27 | 第12期阿含・桐山杯全日本早碁オープン戦1回戦 | Yamashita Keigo | Sakai Hideyuki | Lose | W+0.5 | 6.5 | 2944 | 40 | 
+| 2005-06-16 | 第30期棋聖戦Bリーグ | O Meien | Yamashita Keigo | Win | W+R | 6.5 | 2904 | 5 | 
+| 2005-06-09 | 第30期名人戦リーグ | Yamada Kimio | Yamashita Keigo | Win | W+R | 6.5 | 2899 | -5 | 
+| 2005-05-18 | 第10回LG杯世界棋王戦2回戦 | Yamashita Keigo | Lee Sedol | Lose | W+R | 6.5 | 2904 | -10 | 
+| 2005-05-16 | 第10回LG杯世界棋王戦1回戦 | Yamashita Keigo | Chang Hao | Win | B+R | 6.5 | 2914 | 1 | 
+| 2005-05-12 | 第30期名人戦リーグ | Yoda Norimoto | Yamashita Keigo | Win | W+1.5 | 6.5 | 2913 | -13 | 
+| 2005-05-03 | 第4回CSK杯囲碁アジア対抗戦第3戦 | O Meien | Yamashita Keigo | Win | W+R | 6.5 | 2926 | 16 | 
+| 2005-05-02 | 第4回CSK杯囲碁アジア対抗戦第2戦 | Lee Changho | Yamashita Keigo | Lose | B+7.5 | 6.5 | 2910 | -8 | 
+| 2005-05-01 | 第4回CSK杯囲碁アジア対抗戦第1戦 | Yamashita Keigo | Zhou Heyang | Win | B+R | 6.5 | 2918 | 2 | 
+| 2005-04-28 | 第53期王座戦1回戦 | Yamashita Keigo | Sakai Hideyuki | Win | B+1.5 | 6.5 | 2916 | 75 | 
+| 2005-04-14 | 第30期名人戦リーグ | Ogata Masaki | Yamashita Keigo | Win | W+R | 6.5 | 2841 | -1 | 
+| 2005-03-03 | 第30期名人戦リーグ | Imamura Toshiya | Yamashita Keigo | Win | W+R | 6.5 | 2842 | -359 | 
+| 2005-02-03 | 第30期名人戦リーグ | Yamashita Keigo | Kobayashi Satoru | Lose | W+R | 6.5 | 3201 | 2 | 
+| 2005-01-27 | 第30期碁聖戦本戦2回戦 | Cho Chikun | Yamashita Keigo | Lose | B+R | 6.5 | 3199 | 37 | 
+| 2005-01-20 | 第30期名人戦リーグ | Yamashita Keigo | O Meien | Win | B+R | 6.5 | 3162 | 40 | 
+| 2005-01-13 | 第1回中環杯世界囲碁選手権準決勝 | Park Yeonghun | Yamashita Keigo | Lose | B+R | 6.5 | 3122 | -22 | 
+| 2005-01-06 | 第30期碁聖戦本戦1回戦 | Yamashita Keigo | Kitano Ryo | Win | B+R | 6.5 | 3144 | 108 | 
+| 2004-12-09 | 第52期王座戦挑戦手合五番勝負第4局 | Cho U | Yamashita Keigo | Lose | B+5.5 | 6.5 | 3036 | 88 | 
+| 2004-11-29 | 第52期王座戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 2948 | 8 | 
+| 2004-11-26 | 第30期天元戦挑戦手合五番勝負第3局 | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 2940 | 65 | 
+| 2004-11-18 | 第52期王座戦挑戦手合五番勝負第2局 | Cho U | Yamashita Keigo | Lose | B+3.5 | 6.5 | 2875 | -7 | 
+| 2004-11-12 | 第30期天元戦挑戦手合五番勝負第2局 | Yamashita Keigo | Hane Naoki | Win | B+1.5 | 6.5 | 2882 | -28 | 
+| 2004-11-07 | 第29期棋聖戦挑戦者決定戦 | Yuki Satoshi | Yamashita Keigo | Lose | B+6.5 | 6.5 | 2910 | -3 | 
+| 2004-11-04 | 第30期天元戦挑戦手合五番勝負第1局 | Hane Naoki | Yamashita Keigo | Win | W+4.5 | 6.5 | 2913 | 167 | 
+| 2004-10-29 | 第52期王座戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho U | Lose | W+R | 6.5 | 2746 | -307 | 
+| 2004-10-14 | 第43期十段戦敗者復活戦3回戦 | Yamashita Keigo | Rin Kaiho | Lose | W+7.5 | 6.5 | 3053 | -34 | 
+| 2004-10-07 | 第29期棋聖戦Aリーグ | Ryu Shikun | Yamashita Keigo | Win | W+0.5 | 6.5 | 3087 | 34 | 
+| 2004-09-30 | 第30期天元戦挑戦者決定戦 | Yamashita Keigo | Kim Sujun | Win | B+8.5 | 6.5 | 3053 | -200 | 
+| 2004-09-23 | 第43期十段戦敗者復活戦2回戦 | Kobayashi Koichi | Yamashita Keigo | Win | W+6.5 | 6.5 | 3253 | -55 | 
+| 2004-09-18 | 第1回中環杯世界囲碁選手権2回戦 | Yamashita Keigo | Lin Zhihan | Win | B+2.5 | 6.5 | 3308 | 13 | 
+| 2004-09-16 | 第1回中環杯世界囲碁選手権1回戦 | Choi Cheolhan | Yamashita Keigo | Win | W+R | 6.5 | 3295 | 123 | 
+| 2004-09-09 | 第29期棋聖戦Aリーグ | Yamashita Keigo | Mimura Tomoyasu | Win | B+R | 6.5 | 3172 | 167 | 
+| 2004-09-01 | 第9回三星火災杯世界オープン囲碁選手権1回戦 | Yamashita Keigo | Park Yeonghun | Lose | W+R | 6.5 | 3005 | -13 | 
+| 2004-08-30 | 第52期王座戦挑戦者決定戦 | Yoda Norimoto | Yamashita Keigo | Win | W+R | 6.5 | 3018 | 2 | 
+| 2004-08-21 | 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Yamashita Keigo | Gu Li | Lose | W+R | 6.5 | 3016 | 5 | 
+| 2004-08-19 | 第30期天元戦本戦準決勝 | Kato Masao | Yamashita Keigo | Win | W+R | 6.5 | 3011 | 3 | 
+| 2004-08-12 | 第29期棋聖戦Aリーグ | Yamashita Keigo | Miyazawa Goro | Win | B+R | 6.5 | 3008 | 17 | 
+| 2004-08-07 | 第2期JALスーパー早碁準決勝 | Yamashita Keigo | Mimura Tomoyasu | Lose | W+5.5 | 6.5 | 2991 | -31 | 
+| 2004-08-05 | 第29期名人戦リーグ | Imamura Toshiya | Yamashita Keigo | Lose | B+2.5 | 6.5 | 3022 | 23 | 
+| 2004-07-29 | 第52期王座戦準決勝 | Yamashita Keigo | Hane Naoki | Win | B+0.5 | 6.5 | 2999 | 6 | 
+| 2004-07-22 | 第43期十段戦敗者復活戦1回戦 | Kato Masao | Yamashita Keigo | Win | W+3.5 | 6.5 | 2993 | -18 | 
+| 2004-07-15 | 第30期天元戦本戦3回戦 | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 3011 | 7 | 
+| 2004-07-12 | 第24期NECカップ囲碁トーナメント戦1回戦 | Cho U | Yamashita Keigo | Lose | B+2.5 | 6.5 | 3004 | 8 | 
+| 2004-07-08 | 第29期棋聖戦Aリーグ | O Meien | Yamashita Keigo | Win | W+R | 6.5 | 2996 | -61 | 
+| 2004-07-01 | 第52期王座戦2回戦 | Yamashita Keigo | Yuki Satoshi | Win | B+R | 6.5 | 3057 | 15 | 
+| 2004-06-24 | 第30期天元戦本戦2回戦 | Komatsu Hideki | Yamashita Keigo | Win | W+R | 6.5 | 3042 | 18 | 
+| 2004-06-14 | 第29期名人戦リーグ | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3024 | -10 | 
+| 2004-06-10 | 第29期棋聖戦Aリーグ | Yoda Norimoto | Yamashita Keigo | Lose | B+0.5 | 6.5 | 3034 | -1 | 
+| 2004-06-03 | 第29期名人戦リーグ | Rin Kaiho | Yamashita Keigo | Win | W+R | 6.5 | 3035 | 66 | 
+| 2004-05-27 | 第29期名人戦リーグ | Yamashita Keigo | Kobayashi Satoru | Lose | W+4.5 | 6.5 | 2969 | -91 | 
+| 2004-05-20 | 第9回LG杯世界棋王戦2回戦 | Yamashita Keigo | Cho Hanseung | Lose | W+7.5 | 6.5 | 3060 | -14 | 
+| 2004-05-18 | 第9回LG杯世界棋王戦1回戦 | Yamashita Keigo | Song Taekon | Win | B+R | 6.5 | 3074 | 14 | 
+| 2004-05-13 | 第43期十段戦本戦1回戦 | Yoda Norimoto | Yamashita Keigo | Lose | B+R | 6.5 | 3060 | 25 | 
+| 2004-05-06 | 第52期王座戦1回戦 | Yamashita Keigo | Kato Atsushi | Win | B+R | 6.5 | 3035 | -4 | 
+| 2004-05-03 | 第29期碁聖戦本戦準決勝 | Yamashita Keigo | Cho U | Lose | W+R | 6.5 | 3039 | 21 | 
+| 2004-04-29 | 第30期天元戦本戦1回戦 | Yamashita Keigo | Kobayashi Satoru | Win | B+R | 6.5 | 3018 | -111 | 
+| 2004-04-22 | 第5回応氏杯世界選手権2回戦 | Yamashita Keigo | Lee Changho | Lose | W+3 | 7.5 | 3129 | 18 | 
+| 2004-04-20 | 第5回応氏杯世界選手権1回戦 | Gu Li | Yamashita Keigo | Win | W+2 | 7.5 | 3111 | 0 | 
+| 2004-04-15 | 第29期名人戦リーグ | O Meien | Yamashita Keigo | Win | W+1.5 | 6.5 | 3111 | -13 | 
+| 2004-04-12 | 第17回世界囲碁選手権富士通杯2回戦 | Park Yeonghun | Yamashita Keigo | Lose | B+5.5 | 6.5 | 3124 | -50 | 
+| 2004-04-08 | 第29期碁聖戦本戦3回戦 | Yamashita Keigo | Kobayashi Koichi | Win | B+4.5 | 6.5 | 3174 | 6 | 
+| 2004-04-03 | 第2期JALスーパー早碁1回戦 | Yamashita Keigo | Ryu Shikun | Win | B+5.5 | 6.5 | 3168 | 51 | 
+| 2004-04-01 | 第59期本因坊戦リーグ | Yamashita Keigo | Mimura Tomoyasu | Win | B+R | 6.5 | 3117 | 13 | 
+| 2004-03-23 | 第3回CSK杯囲碁アジア対抗戦第3戦 | Yamashita Keigo | O Rissei | Lose | W+2.5 | 6.5 | 3104 | -51 | 
+| 2004-03-22 | 第3回CSK杯囲碁アジア対抗戦第2戦 | Yamashita Keigo | Choi Cheolhan | Lose | W+R | 6.5 | 3155 | -9 | 
+| 2004-03-21 | 第3回CSK杯囲碁アジア対抗戦第1戦 | Yu Bin | Yamashita Keigo | Lose | B+R | 6.5 | 3164 | -30 | 
+| 2004-03-18 | 第28期棋聖戦挑戦手合七番勝負第7局 | Hane Naoki | Yamashita Keigo | Lose | B+R | 6.5 | 3194 | 2 | 
+| 2004-03-11 | 第28期棋聖戦挑戦手合七番勝負第6局 | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 3192 | 9 | 
+| 2004-03-04 | 第59期本因坊戦リーグ | Yamashita Keigo | Kato Masao | Win | B+2.5 | 6.5 | 3183 | -3 | 
+| 2004-02-26 | 第28期棋聖戦挑戦手合七番勝負第5局 | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3186 | 129 | 
+| 2004-02-21 | 第23期NECカップ囲碁トーナメント戦準決勝 | Kobayashi Koichi | Yamashita Keigo | Lose | B+R | 6.5 | 3057 | 67 | 
+| 2004-02-19 | 第28期棋聖戦挑戦手合七番勝負第4局 | Yamashita Keigo | Hane Naoki | Win | B+0.5 | 6.5 | 2990 | -10 | 
+| 2004-02-12 | 第59期本因坊戦リーグ | Yamashita Keigo | O Rissei | Lose | W+3.5 | 6.5 | 3000 | -21 | 
+| 2004-02-09 | 第29期碁聖戦本戦2回戦 | Kono Rin | Yamashita Keigo | Win | W+5.5 | 6.5 | 3021 | 7 | 
+| 2004-02-05 | 第28期棋聖戦挑戦手合七番勝負第3局 | Hane Naoki | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3014 | -2 | 
+| 2004-01-29 | 第28期棋聖戦挑戦手合七番勝負第2局 | Yamashita Keigo | Hane Naoki | Lose | W+R | 6.5 | 3016 | -9 | 
+| 2004-01-22 | 第29期名人戦リーグ | Yamashita Keigo | Yamada Kimio | Lose | W+R | 6.5 | 3025 | -20 | 
+| 2004-01-16 | 第28期棋聖戦挑戦手合七番勝負第1局 | Hane Naoki | Yamashita Keigo | Lose | B+R | 6.5 | 3045 | -8 | 
+| 2004-01-08 | 第59期本因坊戦リーグ | Yoda Norimoto | Yamashita Keigo | Lose | B+R | 6.5 | 3053 | 19 | 
+| 2003-12-25 | 第29期名人戦リーグ | O Rissei | Yamashita Keigo | Lose | B+R | 6.5 | 3034 | -21 | 
+| 2003-12-18 | 第29期天元戦挑戦手合五番勝負第5局 | Yamashita Keigo | Hane Naoki | Lose | W+6.5 | 6.5 | 3055 | -29 | 
+| 2003-12-11 | 第59期本因坊戦リーグ | Yamashita Keigo | Kobayashi Koichi | Lose | W+1.5 | 6.5 | 3084 | -2 | 
+| 2003-12-04 | 第29期天元戦挑戦手合五番勝負第4局 | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3086 | -35 | 
+| 2003-12-01 | 第29期碁聖戦本戦1回戦 | Yamashiro Hiroshi | Yamashita Keigo | Win | W+R | 6.5 | 3121 | 34 | 
+| 2003-11-29 | 第23期NECカップ囲碁トーナメント戦2回戦 | Cho Sonjin | Yamashita Keigo | Win | W+R | 6.5 | 3087 | 23 | 
+| 2003-11-27 | 第29期天元戦挑戦手合五番勝負第3局 | Yamashita Keigo | Hane Naoki | Lose | W+R | 6.5 | 3064 | -26 | 
+| 2003-11-20 | 第29期天元戦挑戦手合五番勝負第2局 | Hane Naoki | Yamashita Keigo | Lose | B+4.5 | 6.5 | 3090 | -19 | 
+| 2003-11-13 | 第59期本因坊戦リーグ | O Meien | Yamashita Keigo | Win | W+R | 6.5 | 3109 | -37 | 
+| 2003-11-06 | 第42期十段戦敗者復活戦3回戦 | Yamashita Keigo | Yamada Kimio | Lose | W+R | 6.5 | 3146 | -9 | 
+| 2003-10-30 | 第29期天元戦挑戦手合五番勝負第1局 | Yamashita Keigo | Hane Naoki | Win | B+1.5 | 6.5 | 3155 | 53 | 
+| 2003-10-27 | 第59期本因坊戦リーグ | Cho Sonjin | Yamashita Keigo | Lose | B+6.5 | 6.5 | 3102 | -88 | 
+| 2003-10-23 | 第28期名人戦挑戦手合七番勝負第5局 | Yoda Norimoto | Yamashita Keigo | Lose | B+R | 6.5 | 3190 | -2930 | 
+| 2003-10-16 | 第28期名人戦挑戦手合七番勝負第4局 | Yamashita Keigo | Yoda Norimoto | Lose | W+3.5 | 6.5 | 6120 | 56 | 
+| 2003-10-09 | 第29期天元戦挑戦者決定戦 | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 6064 | 185 | 
+| 2003-10-02 | 第28期名人戦挑戦手合七番勝負第3局 | Yoda Norimoto | Yamashita Keigo | Win | W+2.5 | 6.5 | 5879 | 2895 | 
+| 2003-09-25 | 第28期名人戦挑戦手合七番勝負第2局 | Yamashita Keigo | Yoda Norimoto | Lose | W+R | 6.5 | 2984 | -40 | 
+| 2003-09-11 | 第28期名人戦挑戦手合七番勝負第1局 | Yoda Norimoto | Yamashita Keigo | Lose | B+7.5 | 6.5 | 3024 | 60 | 
+| 2003-08-24 | 第1期JALスーパー早碁2回戦 | Yamashita Keigo | Yuki Satoshi | Lose | W+R | 6.5 | 2964 | -77 | 
+| 2003-08-14 | 第42期十段戦敗者復活戦2回戦 | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 3041 | 73 | 
+| 2003-08-07 | 第28期名人戦リーグ | O Meien | Yamashita Keigo | Win | W+R | 6.5 | 2968 | 48 | 
+| 2003-07-21 | 第29期天元戦本戦準決勝 | O Rissei | Yamashita Keigo | Win | W+4.5 | 6.5 | 2920 | 13 | 
+| 2003-07-03 | 第28期名人戦リーグ | Yamashita Keigo | Cho U | Win | B+7.5 | 6.5 | 2907 | -17 | 
+| 2003-06-05 | 第28期名人戦リーグ | Mizokami Tomochika | Yamashita Keigo | Win | W+7.5 | 6.5 | 2924 | 6 | 
+| 2003-05-29 | 第29期天元戦本戦3回戦 | Hane Yasumasa | Yamashita Keigo | Win | W+R | 6.5 | 2918 | 15 | 
+| 2003-05-26 | 第23期NECカップ囲碁トーナメント戦1回戦 | Yoda Norimoto | Yamashita Keigo | Win | W+4.5 | 6.5 | 2903 | 60 | 
+| 2003-05-08 | 第28期名人戦リーグ | Yamashita Keigo | Rin Kaiho | Win | B+6.5 | 6.5 | 2843 | 23 | 
+| 2003-04-29 | 第2回CSK杯囲碁アジア対抗戦第3戦 | Yamashita Keigo | Wang Xi | Win | B+R | 6.5 | 2820 | 72 | 
+| 2003-04-28 | 第2回CSK杯囲碁アジア対抗戦第2戦 | Yoo Changhyuk | Yamashita Keigo | Win | W+R | 6.5 | 2748 | 110 | 
+| 2003-04-27 | 第2回CSK杯囲碁アジア対抗戦第1戦 | O Meien | Yamashita Keigo | Lose | B+2.5 | 6.5 | 2638 | -191 | 
+| 2003-04-20 | 第1期JALスーパー早碁1回戦 | Yamashita Keigo | Yokota Shigeaki | Win | B+R | 6.5 | 2829 | 139 | 
+| 2003-04-17 | 第28期名人戦リーグ | Cho Chikun | Yamashita Keigo | Win | W+R | 6.5 | 2690 | 157 | 
+| 2003-03-27 | 第29期天元戦本戦2回戦 | Yamashita Keigo | Otake Hideo | Win | B+R | 6.5 | 2533 | 2533 | 
+| 2003-03-06 | 第28期名人戦リーグ | Yamashita Keigo | Ryu Shikun | Win | B+R | 6.5 | missing | 0 | 
+| 2002-12-26 | 第29期天元戦本戦1回戦 | Kubo Katsuaki | Yamashita Keigo | Win | W+R | 6.5 | missing | 0 | 
+| 2002-12-12 | 第28期碁聖戦本戦2回戦 | Nakano Hironari | Yamashita Keigo | Lose | B+3.5 | 6.5 | missing | 0 | 
+| 2002-11-28 | 第28期名人戦リーグ | Yamashita Keigo | Takemiya Masaki | Win | B+R | 6.5 | missing | 0 | 
+| 2002-11-21 | 第28期碁聖戦本戦1回戦 | Nakano Yasuhiro | Yamashita Keigo | Win | W+R | 6.5 | missing | -2211 | 
+| 2002-05-19 | 坂井秀至　試練の十二番勝負　第八戦 | Yamashita Keigo | Sakai Hideyuki | Win | B+4.5 | 6.5 | 2211 | -836 | 
+| 2001-11-26 | 第3回農心辛ラーメン杯世界囲碁最強戦第5戦 | Luo Xihe | Yamashita Keigo | Lose | B+R | 6.5 | 3047 | 57 | 
+| 2001-10-26 | 第6回LG杯世界棋王戦3回戦 | Yamashita Keigo | Cho Hunhyun | Lose | W+R | 6.5 | 2990 | 352 | 
+| 2001-06-14 | 第6回LG杯世界棋王戦2回戦 | Seo Bongsoo | Yamashita Keigo | Win | W+R | 6.5 | 2638 | 246 | 
+| 2001-06-12 | 第6回LG杯世界棋王戦1回戦 | Park Cheongsang | Yamashita Keigo | Win | W+R | 6.5 | 2392 | -359 | 
+| 2001-03-16 | 第2回農心辛ラーメン杯世界囲碁最強戦第11戦 | Yamashita Keigo | Cho Hunhyun | Lose | W+4.5 | 6.5 | 2751 | -136 | 
+| 2001-03-15 | 第2回農心辛ラーメン杯世界囲碁最強戦第10戦 | Yamashita Keigo | Chang Hao | Win | B+R | 6.5 | 2887 | 2887 | 
+| 2000-12-04 | 2000年国際新鋭囲碁対抗戦第1戦 | Mok Jinseok | Yamashita Keigo | Lose | B+6.5 | 6.5 | missing | 0 | 
+| 1999-12-16 | 第1回農心辛ラーメン杯世界囲碁最強戦第1戦 | Yamashita Keigo | Mok Jinseok | Lose | W+R | 6.5 | missing | 0 | 
+| 1999-08-03 | 第4期三星杯予選決勝 | Yamashita Keigo | Zhou Heyang | Lose | W+R | 6.5 | missing | missing |
 
 
 

@@ -5,638 +5,639 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第46期棋聖戦Aリーグ | Yoda Norimoto | Onishi Ryuhei | B+R | 2021-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ODr4wRL9ft219RV2fjhVbw%3D%3D) | 
-| 第60期十段戦予選 | Yoda Norimoto | missing | B+R | 2021-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bMumgG0tZ0q%2FtlwfTmjpaw%3D%3D) | 
-| 第46期棋聖戦Aリーグ | Cho U | Yoda Norimoto | W+R | 2021-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uIv8nl5HvfJ%2F9SDIFOlWgw%3D%3D) | 
-| 第69期王座戦予選 | Ida Atsushi | Yoda Norimoto | B+R | 2021-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JYN2wJV3%2B6poIswGyHwvjg%3D%3D) | 
-| 第46期棋聖戦Aリーグ | Shibano Toramaru | Yoda Norimoto | B+6.5 | 2021-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8lSEzpO%2BLk8nriS0xc71vg%3D%3D) | 
-| 第46期棋聖戦Aリーグ | Yoda Norimoto | Suzuki Shinji | W+0.5 | 2021-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wMjZC5d7KkT1th1iifq6Iw%3D%3D) | 
-| 第69期王座戦予選 | Yoda Norimoto | Kim Sujun | B+0.5 | 2021-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1dXJZAvTmN%2FVjRz9gYRBPA%3D%3D) | 
-| 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第2ラウンド  | Yoda Norimoto | Chang Hao | W+R | 2021-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rUEmagoOhoEoxE36f4vUYg%3D%3D) | 
-| 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第2ラウンド  | Yoda Norimoto | Lee Changho | B+1.5 | 2021-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LNx1rAE%2Bu0vdVK%2FzKxFlbQ%3D%3D) | 
-| 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第1ラウンド  | Cho Hunhyun | Yoda Norimoto | B+R | 2021-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nn7Ltz9%2FUNhPKR%2BmooQ%2Fkw%3D%3D) | 
-| 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第1ラウンド  | Nie Weiping | Yoda Norimoto | B+4.5 | 2021-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K0opQg6olUUEx%2FPhN%2B57YA%3D%3D) | 
-| 第69期王座戦予選 | Yoda Norimoto | Yamada Takuji | B+2.5 | 2020-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qyg4X3p0Mws4dPMWPxw4kQ%3D%3D) | 
-| 第47期天元戦予選 | Yamashita Keigo | Yoda Norimoto | B+R | 2020-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=REiWzf9%2B%2Bww2u2lN3kKkEw%3D%3D) | 
-| 第46期碁聖戦予選 | Cho Chikun | Yoda Norimoto | W+R | 2020-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h9R7DgfeaqR19IaWvbaZaQ%3D%3D) | 
-| 第47期天元戦予選 | Yoda Norimoto | Ishida Yoshio | B+R | 2020-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dWe8Z16A2Rqq2fcK0oer6w%3D%3D) | 
-| 第69期王座戦予選 | Yoda Norimoto | Sakai Maki | B+R | 2020-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uxx2lnOGS36Oi1AZWinZvA%3D%3D) | 
-| 第46期碁聖戦予選 | Yoda Norimoto | Mukai Chiaki | B+R | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rj6oppGIiMb7f77Pek%2FHQw%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Motoki Katsuya | Yoda Norimoto | W+4.5 | 2020-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aX4aumgvWWZGrJ2AddNrPw%3D%3D) | 
-| 第46期名人戦予選 | Hirata Tomoya | Yoda Norimoto | B+0.5 | 2020-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wAVg6Oi2WSfpKNrtVvftXQ%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Yoda Norimoto | Shida Tatsuya | B+0.5 | 2020-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BtzU3hrTxz96WC%2FOMp2JZw%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Yamashita Keigo | Yoda Norimoto | B+3.5 | 2020-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Sa9AkfRd9eX2bcHp%2F3%2FPA%3D%3D) | 
-| 第46期名人戦予選 | Fujisawa Rina | Yoda Norimoto | W+9.5 | 2020-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VSuYLPD8Qw44%2BnJdqToclw%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Onishi Ryuhei | Yoda Norimoto | W+3.5 | 2020-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XMOoJPzvI%2Bp80vG8bQzwjw%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Yu Zhengqi | Yoda Norimoto | B+1.5 | 2020-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L2JnAHhDA%2Fhbrv8JeckSxQ%3D%3D) | 
-| 第46期名人戦予選 | Cho Sonjin | Yoda Norimoto | W+R | 2020-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HiEU%2FohO2YNXE99fieKwnQ%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Yoda Norimoto | So Yokoku | B+R | 2020-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K1acwUK62VZ7Y7U6OVqZ7A%3D%3D) | 
-| 第76期本因坊戦予選 | Yao Zhiteng | Yoda Norimoto | B+0.5 | 2020-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HqGGiT6iIljGideBUGpnEA%3D%3D) | 
-| 第59期十段戦予選 | Suzuki Yoshimichi | Yoda Norimoto | W+R | 2019-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9PfNxo8Sb4g8ZdiPX0TCHA%3D%3D) | 
-| 第46期天元戦予選 | O Meien | Yoda Norimoto | W+R | 2019-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Uxo7yyEjWtopneyvhO5knQ%3D%3D) | 
-| 第76期本因坊戦予選 | Koyama Mitsuru | Yoda Norimoto | W+R | 2019-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8hGNepRN9bLcc7eWcalSTA%3D%3D) | 
-| 第46期天元戦予選 | Tsuneishi Takashi | Yoda Norimoto | W+R | 2019-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JPEGSWge5qIwdr2ZRgWfTw%3D%3D) | 
-| 第45期碁聖戦予選 | Yoda Norimoto | Ko Iso | W+R | 2019-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pT25RyTcbU7oFlRg7Us2lw%3D%3D) | 
-| 第44期棋聖戦Bリーグプレーオフ | Yoda Norimoto | Motoki Katsuya | W+4.5 | 2019-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OdjvNurXfMEyMMIH5uh0MQ%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Hane Naoki | Yoda Norimoto | W+R | 2019-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nkkYJuYkELhRzCzmcRwLpw%3D%3D) | 
-| 第45期碁聖戦予選 | Yoda Norimoto | Uchida Shuhei | B+R | 2019-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QpnEnT8SBGVur3WHE28oqA%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Yoda Norimoto | Kobayashi Satoru | B+R | 2019-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tPhDliw4j4hW%2ByL2Ks5oIA%3D%3D) | 
-| 第45期名人戦予選 | Yoda Norimoto | Ogaki Yusaku | W+4.5 | 2019-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mBTtx%2BPPYQKQyi6vNOe2Qw%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Yoda Norimoto | Tsuruyama Atsushi | W+4.5 | 2019-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hQm0RbAaN5V8mGye1FfTFQ%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | Yu Bin | Yoda Norimoto | B+6.5 | 2019-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tSoTWFRboJ0%2BHkvbFgeMXg%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会個人戦準決勝 | Yoda Norimoto | Yu Bin | W+3.5 | 2019-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0BJhihR5lAzbKsAfVtJXag%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | Yoo Changhyuk | Yoda Norimoto | W+R | 2019-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BqPlMTU5s%2BO0JF07GAi8zg%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | Yoda Norimoto | Takemiya Masaki | B+T | 2019-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rq1DbaSDrCIHtsB9%2Ftx3Hg%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | O Meien | Yoda Norimoto | W+4.5 | 2019-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1zHwzvhQM%2FotAWbRIpd35A%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Yoda Norimoto | Kim Kihun | B+3.5 | 2019-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T2RLbo0kaYLJv1W%2FoElzpQ%3D%3D) | 
-| 第9回フマキラー囲碁マスターズカップ2回戦 | Yoda Norimoto | O Rissei | B+3.5 | 2019-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lujy6yYqOSHbFbAbE%2BZ1JA%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Koike Yoshihiro | Yoda Norimoto | B+0.5 | 2019-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MA0SUi4wdYw6Nq56Cld6dQ%3D%3D) | 
-| 第45期碁聖戦予選 | Komatsu Fujio | Yoda Norimoto | W+6.5 | 2019-05-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tn2RNYaoLMINw24S2dxubg%3D%3D) | 
-| 第45期名人戦予選 | Yoda Norimoto | Mochizuki Kenichi | B+5.5 | 2019-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OhW9Nq6bxCZsixH72Ke2TA%3D%3D) | 
-| 第9回フマキラー囲碁マスターズカップ1回戦 | Yoda Norimoto | O Meien | B+7.5 | 2019-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gPkj2jLTT57Sq8dJzu%2Fo6g%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Yoda Norimoto | Onishi Ryuhei | B+R | 2019-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ckj9SjENhVcX3HH2jqTXng%3D%3D) | 
-| 第45期名人戦予選 | Miyazawa Goro | Yoda Norimoto | W+R | 2019-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IPS8wZa0ZPgu40iTT%2FnSnA%3D%3D) | 
-| 第75期本因坊戦予選 | Yoda Norimoto | Seki Kotaro | W+R | 2019-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o28aXE1WQE2H9YyNLxaUBw%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Yoda Norimoto | missing | B+3.5 | 2019-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8TrMdt96RB0brc3O0DtXdg%3D%3D) | 
-| 第45期名人戦予選 | Yoda Norimoto | Takahashi Hideo | B+R | 2019-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=alR1nj7SqwJUpc%2B38a0x1w%3D%3D) | 
-| 第6回グランドチャンピオン戦1回戦 | Ida Atsushi | Yoda Norimoto | B+R | 2019-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nfkjG%2BNoGLYSILB%2BqZXuQw%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Numadate Sakiya | Yoda Norimoto | W+8.5 | 2019-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jiVruSlO7KOe%2BWHln9JEhQ%3D%3D) | 
-| 第4回百霊杯元老組決勝 | Yoda Norimoto | Ma Xiaochun | B+R | 2019-01-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5prpxkdGQjR0dSDABZBcjQ%3D%3D) | 
-| 第75期本因坊戦予選 | Yoda Norimoto | Ando Kazushige | B+R | 2018-12-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Uetq1U6d6BH6mX%2BSudItgg%3D%3D) | 
-| 第4回TWTテンセント囲碁選手権8強戦 | Fan Tingyu | Yoda Norimoto | B+3¾ | 2018-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ndkk2MkWtKJIWAroF7ynKA%3D%3D) | 
-| 第67期王座戦予選 | Rin Kanketsu | Yoda Norimoto | B+2.5 | 2018-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3LwmpxWkuthlKFXpbb31ww%3D%3D) | 
-| 2018樟樹・中国葯都杯中日韓囲碁大師戦決勝 | Chang Hao | Yoda Norimoto | W+R | 2018-10-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QtKzEbXRoISM7pWHG0p59A%3D%3D) | 
-| 2018樟樹・中国葯都杯中日韓囲碁大師戦第2局 | Yoda Norimoto | Lee Changho | B+¾ | 2018-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8ruGHoy0QvKYYDxBtiuHOw%3D%3D) | 
-| 2018樟樹・中国葯都杯中日韓囲碁大師戦第1局 | Chang Hao | Yoda Norimoto | B+2.5 | 2018-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8NfdB%2BLOx1PtKRQuTlDhcQ%3D%3D) | 
-| 第67期王座戦予選 | Onishi Ryuhei | Yoda Norimoto | W+R | 2018-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S3Av8P17TkOchw397kqELg%3D%3D) | 
-| 第45期天元戦予選 | Yoda Norimoto | Fujita Akihiko | W+R | 2018-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GLEcScAbHeOzyKIeSheDwA%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Yoda Norimoto | Shida Tatsuya | W+0.5 | 2018-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bdqy2G0fxhrv5nW6oA1aBQ%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Yu Zhengqi | Yoda Norimoto | B+4.5 | 2018-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sAgLoic1jJ2bnMAvLQjsQA%3D%3D) | 
-| 第44期碁聖戦予選 | Yoda Norimoto | Anzai Nobuaki | W+R | 2018-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OWOGXdxMe6p7tgIqVJddUA%3D%3D) | 
-| 第43期棋聖戦Aリーグ | So Yokoku | Yoda Norimoto | W+R | 2018-08-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oR138jaZY525nZJD5ksOGg%3D%3D) | 
-| 第4回百霊杯世界オープン戦シニア戦準決勝 | Chang Hao | Yoda Norimoto | W+R | 2018-07-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=609BBFoxiXT4foH6AV8KAA%3D%3D) | 
-| 第4回百霊杯世界オープン戦シニア戦1回戦 | Yoda Norimoto | Liu Xiaoguang | B+3¾ | 2018-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0E%2F%2BXloxu%2BtgRtZCE1cw9w%3D%3D) | 
-| 第8回フマキラー囲碁マスターズカップ決勝  | Kataoka Satoshi | Yoda Norimoto | W+R | 2018-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BRwJGbEP78Sshz%2FgIh10Dw%3D%3D) | 
-| 第44期名人戦予選 | Yoda Norimoto | Seki Tatsuya | W+0.5 | 2018-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h%2BVobZezT%2FnrZQ50yVQBKg%3D%3D) | 
-| 第8回フマキラー囲碁マスターズカップ準決勝  | O Rissei | Yoda Norimoto | W+2.5 | 2018-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jqsdvYmUZfcCTeFRcCQgrA%3D%3D) | 
-| 第57期十段戦予選 | Mochizuki Kenichi | Yoda Norimoto | B+R | 2018-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3ntSTLMYxXqzoQiI4xtXsw%3D%3D) | 
-| 第8回フマキラー囲碁マスターズカップ2回戦  | Kobayashi Satoru | Yoda Norimoto | W+R | 2018-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=949werdIO1FPGqWVTWjYUQ%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Yoda Norimoto | Ko Iso | W+R | 2018-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RJ4CAjeaDDRXHj%2FTNkVOAw%3D%3D) | 
-| 第74期本因坊戦予選 | Fujita Akihiko | Yoda Norimoto | B+4.5 | 2018-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VADigolx%2FLA2zbtU2HfmDw%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Kobayashi Satoru | Yoda Norimoto | B+R | 2018-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2AvO8Oy5327MNhlN0vsMtw%3D%3D) | 
-| 第8回フマキラー囲碁マスターズカップ1回戦 | Yoda Norimoto | Ishida Yoshio | B+4.5 | 2018-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LcPTi0ZR9bK5pdCv3CtBww%3D%3D) | 
-| 第2回中日韓囲碁元老戦1回戦 | Cao Dayuan | Yoda Norimoto | B+1¾ | 2018-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ie8K5fk%2Fe%2Fd6H1Glp9BdGA%3D%3D) | 
-| 第57期十段戦予選 | Yoda Norimoto | Komatsu Hideki | B+2.5 | 2018-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2Y3PbesWyl7OrwyJcDHlcw%3D%3D) | 
-| 第66期王座戦予選 | Rin Shien | Yoda Norimoto | B+1.5 | 2017-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vu21mZ1%2BbkPmaQQqozU4bg%3D%3D) | 
-| 第44期天元戦予選 | Yoda Norimoto | Inaba Takahiro | W+R | 2017-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6%2F%2FU5%2FAMTZnBGAUvVWDoDw%3D%3D) | 
-| 第43期碁聖戦予選 | So Yokoku | Yoda Norimoto | B+R | 2017-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uhll2Z%2FUJ5GvejjnC8DqGA%3D%3D) | 
-| 第42期棋聖戦　Aリーグ7回戦 | Takao Shinji | Yoda Norimoto | B+0.5 | 2017-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QzUlNxbLhip8xh5j3MCCsw%3D%3D) | 
-| 第43期名人戦　予選A | Yoda Norimoto | Koyama Kuya | W+2.5 | 2017-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nlOHOQiZo2tyYQJewyxnhQ%3D%3D) | 
-| 阪急電鉄納涼囲碁まつり公開対局 | Yoda Norimoto | Takao Shinji | B+R | 2017-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0ydVo5ata2T%2BF66gnlvk%2Bg%3D%3D) | 
-| 阪急電鉄納涼囲碁まつり公開対局 | Yoda Norimoto | Yamashita Keigo | B+R | 2017-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qNTE14x4fWIDo4%2BtT%2FBG0A%3D%3D) | 
-| 第43期碁聖戦　予選A | Yoda Norimoto | Mochizuki Kenichi | B+0.5 | 2017-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eOsddSF5yrS%2B2lLlpJGINw%3D%3D) | 
-| 第42期棋聖戦　Aリーグ6回戦 | Yoda Norimoto | Ryu Shikun | W+2.5 | 2017-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q%2BK0EaYSnFRT%2B807YKMF%2FA%3D%3D) | 
-| 第42期棋聖戦　Aリーグ5回戦 | Hsu Chiayuan | Yoda Norimoto | W+2.5 | 2017-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u2ImnNpOAkSPp14hGbv%2Btw%3D%3D) | 
-| 第73期本因坊戦　最終予選1回戦 | Ohashi Hirofumi | Yoda Norimoto | W+R | 2017-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3k6LBtVRUmxnqc37HvRopg%3D%3D) | 
-| 第42期棋聖戦　Aリーグ4回戦 | Yoda Norimoto | Hane Naoki | B+1.5 | 2017-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pFrfOm9w%2F%2BdDerAExW%2BV%2BA%3D%3D) | 
-| 第56期十段戦　最終予選 | Yoda Norimoto | Kim Sujun | W+R | 2017-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JkNICBuK15c5GsUvpjwekQ%3D%3D) | 
-| 第42期棋聖戦　Aリーグ3回戦 | Yamashiro Hiroshi | Yoda Norimoto | W+R | 2017-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xR1kRu7ApwNIaNFE85UkMQ%3D%3D) | 
-| 第7回囲碁マスターズカップ　本戦2回戦 | Yoda Norimoto | Ishida Yoshio | W+0.5 | 2017-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xgUvHeiNJ8%2FhjuHmAXQa2Q%3D%3D) | 
-| 第1回中日韓囲碁元老戦準決勝 | Yoda Norimoto | Cao Dayuan | W+0.5 | 2017-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=05vEF2nAZOFlOxze1xJJcg%3D%3D) | 
-| 第1回中日韓囲碁元老戦2回戦 | Yoda Norimoto | Ma Xiaochun | B+1.5 | 2017-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ae6m5snTDCETmR83RhBlPQ%3D%3D) | 
-| 第1回中日韓囲碁元老戦1回戦 | Yang Jaeho | Yoda Norimoto | W+R | 2017-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BQK5G95yQR2nsZDyzaL9ZQ%3D%3D) | 
-| 第42期棋聖戦　Aリーグ2回戦 | Yoda Norimoto | Yuki Satoshi | B+2.5 | 2017-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jkY76%2FodUQdp%2Ba5CqUi1Jw%3D%3D) | 
-| 第73期本因坊戦　予選A決勝 | Yoda Norimoto | Yamada Takuji | B+0.5 | 2017-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9qjWkca8aCXCfM2La%2FeqYw%3D%3D) | 
-| 第7回マスターズカップ　本戦1回戦 | Yoda Norimoto | Hikosaka Naoto | B+0.5 | 2017-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pKs6P9l6k6xtz7tX2L6vbg%3D%3D) | 
-| 第73期本因坊戦　予選A | Ohba Junya | Yoda Norimoto | W+R | 2017-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xJmvlNZxNQ%2BqTVm7J1byiA%3D%3D) | 
-| 第42期棋聖戦　Aリーグ1回戦 | Cho Chikun | Yoda Norimoto | B+R | 2017-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sqWI8QzEB6XGFUyXBpKCNA%3D%3D) | 
-| 第43期天元戦　予選A決勝 | Yoda Norimoto | Lee Ishu | W+R | 2016-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6jJuGgQanJcSZ3e0yvDMMw%3D%3D) | 
-| 第65期王座戦　予選A特選譜第6局 | Cho Riyu | Yoda Norimoto | B+3.5 | 2016-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dpo7glXyeM6NAvIVTuDf%2Bg%3D%3D) | 
-| 第55期十段戦本戦1回戦 | Yoda Norimoto | Adachi Toshimasa | W+R | 2016-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jl2E0kAwmAScXppuoJ0mtQ%3D%3D) | 
-| 第43期天元戦予選 | Yoda Norimoto | Sun Zhe | B+1.5 | 2016-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8kVcQeF%2Bz%2FMCB6cUmtfthg%3D%3D) | 
-| 第65期王座戦予選 | Yoda Norimoto | Arimura Hiroshi | B+3.5 | 2016-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9C5yothK%2FKr9InczUgi6Ww%3D%3D) | 
-| 第55期十段戦予選 | Numadate Sakiya | Yoda Norimoto | W+R | 2016-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zx4hhogBT9QPSRsqKmYwUA%3D%3D) | 
-| 第41期棋聖戦Sリーグ | Murakawa Daisuke | Yoda Norimoto | B+4.5 | 2016-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tL56g1KtvgCmtR4G%2BxQe%2Bw%3D%3D) | 
-| 第72期本因坊戦　最終予選第4局 | Hane Naoki | Yoda Norimoto | B+R | 2016-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LKbNHQ4mQWRGaC2nygWDkQ%3D%3D) | 
-| 第42期碁聖戦予選 | Yoda Norimoto | Michael Redmond | B+8.5 | 2016-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b7lSaw%2Fz1XtO%2BFj57TjLdw%3D%3D) | 
-| 第42期名人戦予選 | Obuchi Kotaro | Yoda Norimoto | W+R | 2016-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=280d59vaoZhGB8bxgfwGTw%3D%3D) | 
-| 第41期棋聖戦Sリーグ | Yoda Norimoto | Yamashita Keigo | W+1.5 | 2016-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qIQdsfY5qPToC6IlNMlaIQ%3D%3D) | 
-| 第43期天元戦予選 | Kenmochi Joe | Yoda Norimoto | W+R | 2016-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hIrHZm5BRxrvFhEuD%2FDZVg%3D%3D) | 
-| 第41期棋聖戦Sリーグ | Yoda Norimoto | Takao Shinji | B+0.5 | 2016-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yGG8nyIH0tS8AFnGqHv5lA%3D%3D) | 
-| 第72期本因坊戦予選 | Cho Riyu | Yoda Norimoto | W+2.5 | 2016-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UCwEOdT5Ujo6zGkEv%2F0kFA%3D%3D) | 
-| 第41期棋聖戦Sリーグ | Yoda Norimoto | Ichiriki Ryo | W+4.5 | 2016-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wbg1dGGeOJr9cuajHc%2F1RA%3D%3D) | 
-| 第72期本因坊戦予選 | Uchida Shuhei | Yoda Norimoto | W+R | 2016-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f4O9tzuUWit2%2BonTgIBRgw%3D%3D) | 
-| 第72期本因坊戦予選 | Sakai Maki | Yoda Norimoto | W+R | 2016-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XnNNwIq5osCFP1Q%2Bw3sNjA%3D%3D) | 
-| 第64期王座戦予選 | Yoda Norimoto | Adachi Toshimasa | W+4.5 | 2016-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DrX55P1p8UHqxX8FXVCTOA%3D%3D) | 
-| 第64期王座戦予選 | Yoda Norimoto | Uchida Shuhei | B+R | 2015-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KE%2FArGLwztHDjlsJ27E6hw%3D%3D) | 
-| 第54期十段戦1回戦 | Yoda Norimoto | Yamashita Keigo | W+R | 2015-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UF9sE29xElAO6Ee3QOq5jg%3D%3D) | 
-| 第54期十段戦予選 | Nakano Hironari | Yoda Norimoto | W+R | 2015-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZPykJEaHRQnXq7k7XQkhYg%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦H3 | missing | Yoda Norimoto | B+R | 2015-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BnWN1jRXwJlACk5O1TcOHA%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦H2 | Benjamin Lockhart | Yoda Norimoto | W+R | 2015-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kUr%2FyHS5mAX0hI25Kgydnw%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦H1 | Yoda Norimoto | Park Junghwan | W+0.5 | 2015-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2Kn60RoK7wtRLoWBlqB0HQ%3D%3D) | 
-| 第40期棋聖戦Sリーグ | Yoda Norimoto | Yamashita Keigo | W+2.5 | 2015-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vXgNI1yDw%2BdpIquVewKDtw%3D%3D) | 
-| 第41期名人戦予選 | Yoda Norimoto | Rin Kanketsu | W+3.5 | 2015-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P%2FmhJI7QLPRbd8E4naOgVA%3D%3D) | 
-| 第40期棋聖戦Sリーグ | Yamashiro Hiroshi | Yoda Norimoto | B+0.5 | 2015-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zdaLOzLT8u4Gl7S5xr%2Bo7A%3D%3D) | 
-| 第41期名人戦予選 | Yoda Norimoto | Han Zenki | B+R | 2015-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y5QZuW5KYE8mLfFmnexscA%3D%3D) | 
-| 第54期十段戦予選 | So Yokoku | Yoda Norimoto | W+R | 2015-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wM7ge7sbASTohErjR%2Bl31A%3D%3D) | 
-| 第40期棋聖戦Sリーグ | Yoda Norimoto | Takao Shinji | B+0.5 | 2015-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bg4%2BTupy29gyiNaPM1Q0Jg%3D%3D) | 
-| 第71期本因坊戦予選 | Yoda Norimoto | Hirata Tomoya | W+0.5 | 2015-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fnROBpYq58Ao%2BOa2gkjX9g%3D%3D) | 
-| 第40期棋聖戦Sリーグ | Murakawa Daisuke | Yoda Norimoto | W+R | 2015-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NpFnvLmVlvApu2QVYAGcgA%3D%3D) | 
-| 第71期本因坊戦予選 | Mitani Tetsuya | Yoda Norimoto | W+R | 2015-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CH6Hp4LiBT0DmFLdH8PwEA%3D%3D) | 
-| 第40期棋聖戦Sリーグ | Yoda Norimoto | Kobayashi Satoru | B+R | 2015-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UQ%2FpEsuD4fDmiUBNmBwIZQ%3D%3D) | 
-| 第63期王座戦予選 | Kono Rin | Yoda Norimoto | B+5.5 | 2015-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gpLZtLm7Q2XG33VJXfu2AQ%3D%3D) | 
-| 第71期本因坊戦予選 | Yoda Norimoto | Arimura Hiroshi | B+R | 2015-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZdOLSjYFIZp2fNvdxZUnAA%3D%3D) | 
-| 第40期碁聖戦本戦2回戦 | Yuki Satoshi | Yoda Norimoto | B+R | 2015-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4retsEtw%2BwVr3agff8auOQ%3D%3D) | 
-| 第41期天元戦本戦1回戦 | Yamashiro Hiroshi | Yoda Norimoto | B+3.5 | 2015-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LutLyC2ocvMzt1mwtftTLA%3D%3D) | 
-| 第40期碁聖戦本戦1回戦 | Yoda Norimoto | O Rissei | B+R | 2014-12-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lh%2F8wGADyVFn9Ri9X2EOkQ%3D%3D) | 
-| 第53期十段戦2回戦 | Yoda Norimoto | Iyama Yuta | W+R | 2014-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vziLn%2BFYMnzqxCHTpT%2FQ0Q%3D%3D) | 
-| 第39期棋聖戦Bリーグ | Yoda Norimoto | Cho Riyu | B+5.5 | 2014-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7618XUAKdOl2ebjAday7aA%3D%3D) | 
-| 第40期名人戦予選 | Suzuki Shinji | Yoda Norimoto | B+4.5 | 2014-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sXv8hkbI8fejZRRlKLUklA%3D%3D) | 
-| 第40期碁聖戦予選 | Yoda Norimoto | O Meien | B+R | 2014-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xP%2BxpHsXni3rUzjivSJszQ%3D%3D) | 
-| 第40期天元戦本戦準決勝 | Yoda Norimoto | Kono Rin | W+6.5 | 2014-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VTWdAfMQj2%2F1aduii4nsUQ%3D%3D) | 
-| 第39期棋聖戦Bリーグ | Cho Chikun | Yoda Norimoto | W+4.5 | 2014-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UsMOixFx2ShtVhADSLcLtA%3D%3D) | 
-| 第40期天元戦本戦3回戦 | Yoda Norimoto | Seto Taiki | B+R | 2014-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eRQ6Xy7ytW3TkZTkABzLhA%3D%3D) | 
-| 第39期棋聖戦Bリーグ | Yoda Norimoto | Kobayashi Satoru | B+1.5 | 2014-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dGav6%2FyOB4eX3p%2Fppc5YrA%3D%3D) | 
-| 第53期十段戦予選 | Yoda Norimoto | Goto Shungo | B+R | 2014-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N2urjIFsiif0AxFiXbt4NQ%3D%3D) | 
-| 第62期王座戦1回戦 | Seto Taiki | Yoda Norimoto | B+3.5 | 2014-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qpP9oVj%2BZSNt3FoK8YxA7Q%3D%3D) | 
-| 第39期棋聖戦Bリーグ | Yuki Satoshi | Yoda Norimoto | W+R | 2014-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v4QPO2jhcZkZDPRYMsb1Jg%3D%3D) | 
-| 第40期名人戦予選 | Yoda Norimoto | Obuchi Kotaro | B+R | 2014-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=owA7Wj6adklgVJz8tpa0Og%3D%3D) | 
-| 第40期天元戦本戦2回戦 | Yoda Norimoto | Yamashiro Hiroshi | B+2.5 | 2014-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Ian8ycvrfswMRSjAmcVUA%3D%3D) | 
-| 第53期十段戦予選 | Izumitani Hideo | Yoda Norimoto | W+R | 2014-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Zb7Xf7WJ0pyan0C3OeNaw%3D%3D) | 
-| 第39期棋聖戦Bリーグ | Yoda Norimoto | Murakawa Daisuke | W+0.5 | 2014-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iVhGldMA0cDMy0mBr0Tn0g%3D%3D) | 
-| 第40期碁聖戦予選 | Yoda Norimoto | Rin Kanketsu | B+R | 2014-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fH9Ph%2FnpdqbyugcVYhyUwQ%3D%3D) | 
-| 第62期王座戦予選 | Rin Shien | Yoda Norimoto | W+R | 2014-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=chvLong4DTWuK1%2FWv802Rg%3D%3D) | 
-| 第53期十段戦予選 | Kono Takashi | Yoda Norimoto | W+R | 2014-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=64sVEsXol%2BwuiH4knfZ0%2BQ%3D%3D) | 
-| 第70期本因坊戦予選 | Yoda Norimoto | Rin Kanketsu | W+0.5 | 2014-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R7rfQVFYsKVldxppmWiVTA%3D%3D) | 
-| 第40期天元戦本戦1回戦 | Yoda Norimoto | Rin Shien | B+R | 2014-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tn5QQciZce1Ron4RBMLECw%3D%3D) | 
-| 第40期天元戦予選 | Suzuki Yoshimichi | Yoda Norimoto | W+8.5 | 2014-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c6FJl4EN3Gc36lD9nj8Mwg%3D%3D) | 
-| 第40期天元戦予選 | Yoda Norimoto | Horimoto Mitsunari | B+0.5 | 2013-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t735sgJ146phZ49t2pU7ig%3D%3D) | 
-| 第38期棋聖戦Aリーグ | Yoda Norimoto | Kobayashi Satoru | B+2.5 | 2013-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5orskTw6PaGxZ3T4tpPhlQ%3D%3D) | 
-| 第39期碁聖戦予選 | Kobayashi Satoru | Yoda Norimoto | B+6.5 | 2013-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hwe7tvgL4v1mtWsO7PDd0w%3D%3D) | 
-| 第38期棋聖戦Aリーグ | Yoda Norimoto | Cho U | B+1.5 | 2013-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WOBKk1zZxtSwnikaRXU3BQ%3D%3D) | 
-| 第39期碁聖戦予選 | Yoda Norimoto | Kibe Natsuki | B+R | 2013-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HJhaGBfXzYuiLdvZ7sCN2g%3D%3D) | 
-| 第69期本因坊戦予選 | Sakai Hideyuki | Yoda Norimoto | B+0.5 | 2013-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rkkVczr%2BsTszeodfw1H%2BVA%3D%3D) | 
-| 第38期棋聖戦Aリーグ | Yoda Norimoto | Kiyonari Tetsuya | W+R | 2013-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2n8m6PoaskR4Im4egNBuNQ%3D%3D) | 
-| 第39期名人戦予選 | Yoda Norimoto | Takemiya Masaki | W+4.5 | 2013-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HUhLEyTzzpTgKgQGo8V%2Bdw%3D%3D) | 
-| 第38期棋聖戦Aリーグ | Yamashiro Hiroshi | Yoda Norimoto | W+R | 2013-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NC4RPyZJ90UwYFWE2jg94w%3D%3D) | 
-| 第39期名人戦予選 | Obuchi Kotaro | Yoda Norimoto | W+5.5 | 2013-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pzgDEw0t2SxhWEdaf%2BkGqQ%3D%3D) | 
-| 第69期本因坊戦予選 | Yoda Norimoto | Kobayashi Satoru | B+R | 2013-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qmxbdbg8sKVHY9efwtHLjQ%3D%3D) | 
-| 第61期王座戦1回戦 | Yamashita Keigo | Yoda Norimoto | B+R | 2013-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yzQh0YFii5VJHPAc8l05mA%3D%3D) | 
-| 第52期十段戦予選 | Yoda Norimoto | Kono Mitsuki | W+R | 2013-05-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RpzGoBRt2nVY3o52tif%2FTA%3D%3D) | 
-| 第38期棋聖戦Aリーグ | Yamashita Keigo | Yoda Norimoto | B+5.5 | 2013-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MSLsZRzd4RxXYfOdCtqxtw%3D%3D) | 
-| 第52期十段戦予選 | Takemiya Masaki | Yoda Norimoto | W+6.5 | 2013-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KnKR4FFbtHwqim9zX8LG6Q%3D%3D) | 
-| 第69期本因坊戦予選 | Fujisawa Rina | Yoda Norimoto | W+R | 2013-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U1r6uSPi5Rpt1kbEI9DVFw%3D%3D) | 
-| 第61期王座戦予選 | Yoda Norimoto | Terayama Rei | B+R | 2013-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OllZppJpEBpjjj4GdmKE1Q%3D%3D) | 
-| 第69期本因坊戦予選 | Adachi Toshimasa | Yoda Norimoto | W+5.5 | 2013-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nK3mmLfnrctw77rTvuXtCA%3D%3D) | 
-| 第39期天元戦本戦0回戦 | Rin Kanketsu | Yoda Norimoto | B+4.5 | 2013-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8K%2F%2FuzVp8zMzfNAnlYD6Mw%3D%3D) | 
-| 第39期天元戦予選 | Yoda Norimoto | Cho Chikun | B+R | 2012-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XoEDR5OT2E9ev8kBN96vVQ%3D%3D) | 
-| 第39期天元戦予選 | Yoda Norimoto | Iguchi Hideichiro | B+R | 2012-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f6JdsF3WCpzgp1vDLBNYAQ%3D%3D) | 
-| 第37期棋聖戦Bリーグ | Yoda Norimoto | Awaji Shuzo | W+4.5 | 2012-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pYrhc0GvyswfMUoGn6n%2BfQ%3D%3D) | 
-| 第38期名人戦予選 | Nakano Yasuhiro | Yoda Norimoto | B+R | 2012-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rSBPPRmpIcf8YSGdF23Kfg%3D%3D) | 
-| 第38期名人戦予選 | Yoda Norimoto | Yamashiro Hiroshi | B+R | 2012-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xt4ckpOFFR1toEWzd8KqYA%3D%3D) | 
-| 第37期棋聖戦Bリーグ | Yoda Norimoto | Hane Naoki | W+1.5 | 2012-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1CoIi2EUr%2BKR5kQb4M9jnA%3D%3D) | 
-| 第38期碁聖戦予選 | Yoda Norimoto | Lee Ishu | W+R | 2012-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BdkK1rKYfqRcsPO3mzGpMg%3D%3D) | 
-| 第51期十段戦予選 | Mizokami Tomochika | Yoda Norimoto | B+R | 2012-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B%2BCvpPLrkQKWPkQPzmCwxQ%3D%3D) | 
-| 第37期棋聖戦Bリーグ | Iyama Yuta | Yoda Norimoto | B+7.5 | 2012-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O0cxlw8hEmtXZGzr1VCMKA%3D%3D) | 
-| 第38期名人戦予選 | Yoda Norimoto | Nakaonoda Tomomi | B+3.5 | 2012-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=708RiT38sUX17O5zGhV28A%3D%3D) | 
-| 第68期本因坊戦予選 | Yoda Norimoto | Ryu Shikun | W+1.5 | 2012-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jHDjqTd%2Bt1EnJLXJbk9DwA%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン予選 | Yoda Norimoto | Yu Zhengqi | W+0.5 | 2012-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ysnwSAnEqtsfgSmZWXuQ4g%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン予選 | Tajiri Yuto | Yoda Norimoto | W+7.5 | 2012-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=da5CGtqq0Qrq%2B9fIy1wxBA%3D%3D) | 
-| 第17回LG杯世界棋王戦1回戦 | Li Kang | Yoda Norimoto | B+4.5 | 2012-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cGN%2Bt8REGRjx59igCidl9A%3D%3D) | 
-| 第37期棋聖戦Bリーグ | Yamashiro Hiroshi | Yoda Norimoto | W+0.5 | 2012-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q5dQS%2FUeIkOWJzYThof89A%3D%3D) | 
-| 第68期本因坊戦予選 | Yoda Norimoto | Kono Takashi | B+R | 2012-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vp3pJNiF9rSbp9tZ83ektA%3D%3D) | 
-| 第68期本因坊戦予選 | Yoda Norimoto | Uchida Shuhei | B+R | 2012-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qYE5o%2Bfh%2FAm04i1SZPW%2B%2BA%3D%3D) | 
-| 第37期棋聖戦Bリーグ | Mizokami Tomochika | Yoda Norimoto | W+5.5 | 2012-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I3TxvIZHa1HYURrxtSZgFg%3D%3D) | 
-| 第60期王座戦1回戦 | Yoda Norimoto | Kim Sujun | W+R | 2012-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BDsNqP89RTOrb%2FvlIQtp%2BA%3D%3D) | 
-| 第9回春蘭杯世界囲碁選手権1回戦 | Yoda Norimoto | Mi Yuting | W+4.5 | 2012-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s7bT7up0MCO33yzj6gPWDw%3D%3D) | 
-| 第60期王座戦予選 | Yamashiro Hiroshi | Yoda Norimoto | W+R | 2012-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z%2BU33CNVBgvBB6dbidPvlw%3D%3D) | 
-| 第68期本因坊戦予選 | Yoda Norimoto | Hoshino Masaki | B+2.5 | 2012-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lb05gSOK6l1y6Q4IeAvTxA%3D%3D) | 
-| 第60期王座戦予選 | Yoda Norimoto | Ko Iso | B+R | 2012-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DEGoJRQLnsbbo9G3ubUucA%3D%3D) | 
-| 第7回大和証券杯ネット囲碁オープン2回戦 | Cho Chikun | Yoda Norimoto | B+3.5 | 2011-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NJIrNtDbJnuHUPybQk4jTg%3D%3D) | 
-| 第37期名人戦予選 | Yoda Norimoto | Kono Rin | W+3.5 | 2011-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WJhMs%2Bm%2FItd824KuvQWy4g%3D%3D) | 
-| 第37期名人戦予選 | Cho Sonjin | Yoda Norimoto | W+1.5 | 2011-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9CbWb9hG5Dodxgr%2BcwfYAA%3D%3D) | 
-| 第37期碁聖戦予選 | Yoda Norimoto | Nakaonoda Tomomi | W+R | 2011-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sIoFdAyjVpDqMUChMRa2QQ%3D%3D) | 
-| 第36期棋聖戦Bリーグ | Yoda Norimoto | Ryu Shikun | W+R | 2011-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M3oekZVH6ZH4YAbMwPVJHg%3D%3D) | 
-| 第37期名人戦予選 | Yoda Norimoto | Yamada Kimio | B+2.5 | 2011-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gsnVstnda86jDRv%2BVW38Yw%3D%3D) | 
-| 第38期天元戦予選 | Anzai Nobuaki | Yoda Norimoto | B+R | 2011-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iujSDjpv2JmetS0apmL7IQ%3D%3D) | 
-| 第37期碁聖戦予選 | Yoda Norimoto | Ohba Junya | B+2.5 | 2011-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2W8YBeou%2FpudN6jStQMRHQ%3D%3D) | 
-| 第50期十段戦2回戦 | Ko Iso | Yoda Norimoto | B+R | 2011-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nvvh2P70aKptlon4A7LV1Q%3D%3D) | 
-| 第38期天元戦予選 | Ogaki Yusaku | Yoda Norimoto | W+R | 2011-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1bVH3Qc58FjWH9u6MbK7Og%3D%3D) | 
-| 第67期本因坊戦予選 | Yoda Norimoto | Kono Rin | W+5.5 | 2011-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DF3tSjKVKRrnqt%2Bw0ZnXqQ%3D%3D) | 
-| 第36期棋聖戦Bリーグ | Kobayashi Koichi | Yoda Norimoto | W+R | 2011-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YMhLcDR0oqaSDIDph0lhxQ%3D%3D) | 
-| 第37期名人戦予選 | Ko Iso | Yoda Norimoto | W+1.5 | 2011-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F1GKmrGP58ig2MdgT1NbBg%3D%3D) | 
-| 第7回大和証券杯ネット囲碁オープン1回戦 | Yamada Takuji | Yoda Norimoto | W+R | 2011-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cfNz%2B6djrg0uPAyB565w7A%3D%3D) | 
-| 第36期棋聖戦Bリーグ | Yoda Norimoto | Akiyama Jiro | B+4.5 | 2011-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7%2FWZ0bGS3nk%2FCjCNn7%2BRrw%3D%3D) | 
-| 第50期十段戦1回戦 | Cho Sonjin | Yoda Norimoto | W+R | 2011-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wGwRCllOLxYRKcysGzAWgw%3D%3D) | 
-| 第67期本因坊戦予選 | Hikosaka Naoto | Yoda Norimoto | W+0.5 | 2011-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mbG8U%2BGGwDT9BKpvyqJf%2Fw%3D%3D) | 
-| 第36期棋聖戦Bリーグ | Yoda Norimoto | Takao Shinji | W+4.5 | 2011-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C8H3Gbqw88RBlpLlMncarw%3D%3D) | 
-| 第37期名人戦予選 | Yoda Norimoto | Kamimura Haruo | B+R | 2011-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q94XKX90rX5IXodNAkD27g%3D%3D) | 
-| 第23回テレビアジア選手権1回戦 | Wang Lei (b) | Yoda Norimoto | B+1.5 | 2011-06-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MPVdeIefy66pQwckLk%2F%2FLQ%3D%3D) | 
-| 第50期十段戦予選 | So Yokoku | Yoda Norimoto | W+R | 2011-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F%2F1cR8h0zfLbEImfQckxyQ%3D%3D) | 
-| 第67期本因坊戦予選 | Yoda Norimoto | Morita Michihiro | B+R | 2011-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4hrX5%2BbTOJM5OHj22%2FrExQ%3D%3D) | 
-| 第59期王座戦1回戦 | Yoda Norimoto | Cho Chikun | W+R | 2011-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FONXtimlui6SFZf%2F%2BE%2BGKg%3D%3D) | 
-| 第36期棋聖戦Bリーグ | Yamashiro Hiroshi | Yoda Norimoto | W+R | 2011-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hvs3ZNWhhFv2V8IUzJJpew%3D%3D) | 
-| 第37期天元戦本戦2回戦 | Yoda Norimoto | Cho U | W+1.5 | 2011-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5kFo8acJs18J8mXQBgkGUg%3D%3D) | 
-| 第67期本因坊戦予選 | Araki Issei | Yoda Norimoto | W+11.5 | 2011-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7OrG0KhI6TdZJ618OJsMow%3D%3D) | 
-| 第50期十段戦予選 | Matsuoka Hideki | Yoda Norimoto | W+R | 2011-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iqdEnBPusIbGkGNfpPUPzQ%3D%3D) | 
-| 第59期王座戦予選 | Yoda Norimoto | Ogaki Yusaku | B+R | 2011-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6PefiRd8XSPTrzAiUBZgcA%3D%3D) | 
-| 第67期本因坊戦予選 | Yoda Norimoto | Sanno Hirotaka | B+8.5 | 2011-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IQkSblJKxM6F8eLt2hhRWQ%3D%3D) | 
-| 第50期十段戦予選 | Obuchi Morito | Yoda Norimoto | W+1.5 | 2011-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rnknE%2BpAjNdrCd5o2iuy3Q%3D%3D) | 
-| 第67期本因坊戦予選 | Shuto Shun | Yoda Norimoto | W+4.5 | 2011-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N%2FR%2BBK1FWKD2IggmSVHz4Q%3D%3D) | 
-| 第50期十段戦予選 | Rin Kanketsu | Yoda Norimoto | W+1.5 | 2011-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BosYvLdFmktEQn0sU%2BAk0Q%3D%3D) | 
-| 第37期天元戦本戦1回戦 | Kataoka Satoshi | Yoda Norimoto | W+R | 2010-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wcTUTXbCDeuYK2mOeiNWuw%3D%3D) | 
-| 第35期棋聖戦Aリーグ | Yoda Norimoto | Yamashita Keigo | W+3.5 | 2010-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9w61QtA4SwKmgk4yvtC4Xw%3D%3D) | 
-| 第6回大和証券杯ネット囲碁オープン3回戦 | Yoda Norimoto | Iyama Yuta | W+2.5 | 2010-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yoBTUybC3GYV1IOW9UQaPQ%3D%3D) | 
-| 第6回大和証券杯ネット囲碁オープン2回戦 | Yoda Norimoto | Hane Naoki | B+1.5 | 2010-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L2Sf1mmRKxrIXgW4qEZsPg%3D%3D) | 
-| 第36期碁聖戦予選 | Rin Kanketsu | Yoda Norimoto | B+1.5 | 2010-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z3X358nV79iS3mE1Dd3xvQ%3D%3D) | 
-| 第35期棋聖戦Aリーグ | O Meien | Yoda Norimoto | W+R | 2010-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hje4lFMOwXkCRohI6E6jwA%3D%3D) | 
-| 第35期棋聖戦Aリーグ | Kono Rin | Yoda Norimoto | W+4.5 | 2010-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9kWz67PbSf%2FEQ%2FYbNEO7Tg%3D%3D) | 
-| 第36期名人戦予選 | Yoda Norimoto | Yamashita Keigo | W+R | 2010-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gwbh%2F%2F%2FfF8yAlcwujq%2B%2FVA%3D%3D) | 
-| 第36期碁聖戦予選 | Xie Yimin | Yoda Norimoto | W+R | 2010-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FTQALHwpLI4Ya6cZ%2Bb6Nsg%3D%3D) | 
-| 第35期棋聖戦Aリーグ | Yoda Norimoto | Takao Shinji | W+R | 2010-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UcJxcA4CHhPVhXYr2zltLQ%3D%3D) | 
-| 第30期NECカップ囲碁トーナメント戦1回戦 | Yoda Norimoto | O Meien | W+R | 2010-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K84Ds%2F49HyXhtxlxzeKb%2FA%3D%3D) | 
-| 第36期天元戦本戦準決勝 | Yuki Satoshi | Yoda Norimoto | B+4.5 | 2010-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D%2Bna4z8Fncc9JOZcD7%2FywA%3D%3D) | 
-| 第6回大和証券杯ネット囲碁オープン1回戦 | Yoda Norimoto | Kobayashi Koichi | B+4.5 | 2010-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uWCd51GGplpCHpRG3PTgIw%3D%3D) | 
-| 第36期名人戦予選 | Yoda Norimoto | Matsumoto Takehisa | B+4.5 | 2010-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JOwsE1ZyYB90SA8ttGPl5g%3D%3D) | 
-| 第15回LG杯世界棋王戦1回戦 | Kong Jie | Yoda Norimoto | B+0.5 | 2010-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FzZ9EFqmWwKPo9DIPLJ68g%3D%3D) | 
-| 第35期棋聖戦Aリーグ | Yoda Norimoto | Kato Atsushi | W+0.5 | 2010-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vCKpannebA8hiQKj5kfxXA%3D%3D) | 
-| 第58期王座戦2回戦 | Iyama Yuta | Yoda Norimoto | B+3.5 | 2010-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q%2FHbKjKtRUL2vuqdHMLZpQ%3D%3D) | 
-| 第36期天元戦本戦3回戦 | Yoda Norimoto | Michael Redmond | B+1.5 | 2010-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ljoIPrKkE2vGHNQd1w0DWw%3D%3D) | 
-| 第36期名人戦予選 | Yoda Norimoto | Yo Kaei | B+R | 2010-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q%2FzbiioQ4nKJv62RTD1jAg%3D%3D) | 
-| 第58期王座戦1回戦 | Ishida Atsushi | Yoda Norimoto | W+3.5 | 2010-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QF50oJdop%2FI23bGL0MXUBQ%3D%3D) | 
-| 第8回春蘭杯世界囲碁選手権1回戦 | Yoda Norimoto | Heo Yongho | W+6.5 | 2010-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7ykUucfMNkOYL1JwiQ98sA%3D%3D) | 
-| 第66期本因坊戦予選 | Yoda Norimoto | Akiyama Jiro | W+0.5 | 2010-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YEbqnw8tteYp2YgxggPpJA%3D%3D) | 
-| 第49期十段戦予選 | Yoda Norimoto | Yamashiro Hiroshi | W+6.5 | 2010-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9GdLWTODzbFlOi3IWTd1oQ%3D%3D) | 
-| 第36期天元戦本戦2回戦 | Yoda Norimoto | Takemiya Masaki | B+0.5 | 2010-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XO%2BJLVFf0LQxIf37nNn0Aw%3D%3D) | 
-| 第66期本因坊戦予選 | So Kofuku | Yoda Norimoto | W+R | 2010-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ina0uuPPqoSggqsQrrs5Hg%3D%3D) | 
-| 第36期天元戦本戦1回戦 | Yoda Norimoto | Takao Shinji | B+R | 2010-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bUMuEXci740h0meWhyi6DA%3D%3D) | 
-| 第49期十段戦予選 | Nakaonoda Tomomi | Yoda Norimoto | W+R | 2010-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UDa3stUqH88xGp1n3hwpEQ%3D%3D) | 
-| 第23回世界囲碁選手権富士通杯国内予選 | Ishida Yoshio | Yoda Norimoto | B+2.5 | 2009-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zIj1XAMKjnNDp69gPgwx8Q%3D%3D) | 
-| 第23回世界囲碁選手権富士通杯国内予選 | Komatsu Hideki | Yoda Norimoto | W+R | 2009-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I5Zx5jn9v4lUv9hDvnaLUg%3D%3D) | 
-| 第49期十段戦予選 | Takemiya Masaki | Yoda Norimoto | W+6.5 | 2009-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UMLA0aot6DPhl00tPP5VLA%3D%3D) | 
-| 第23回世界囲碁選手権富士通杯国内予選 | Ogaki Yusaku | Yoda Norimoto | W+R | 2009-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ooEo2A%2BSiPaeD0CVWI6xxw%3D%3D) | 
-| 第36期天元戦予選 | Yoda Norimoto | Takagi Shoichi | B+11.5 | 2009-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wmxvaP0FSdFNFgn7oOfj%2BQ%3D%3D) | 
-| 第35期名人戦予選 | Yoda Norimoto | Mizokami Tomochika | W+4.5 | 2009-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YnanJW%2FUFZn74egp89Nmzg%3D%3D) | 
-| 第34期棋聖戦Aリーグ | Yoda Norimoto | Takao Shinji | B+0.5 | 2009-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cvQ72rPTaze26YcX8cbtsA%3D%3D) | 
-| 第49期十段戦予選 | Yoda Norimoto | Mimura Tomoyasu | B+R | 2009-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L7nV2DqwqJEgBl6qAkAr%2FQ%3D%3D) | 
-| 第34期棋聖戦Aリーグ | Yoda Norimoto | O Rissei | W+0.5 | 2009-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sveoXGiIzixuxfznfRLhxw%3D%3D) | 
-| 第57期王座戦挑戦者決定戦 | Yamada Kimio | Yoda Norimoto | B+R | 2009-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FA74zdJ2Dey7rj87BesfsA%3D%3D) | 
-| 第35期名人戦予選 | Ryu Shikun | Yoda Norimoto | W+1.5 | 2009-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UAXdy1O5E4e5Icp%2FHaassQ%3D%3D) | 
-| 第36期天元戦予選 | Yoda Norimoto | Tsuruyama Atsushi | B+R | 2009-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U%2FVaWXFS5CVBktmy%2FwZyQw%3D%3D) | 
-| 第35期碁聖戦予選 | Yoda Norimoto | O Rissei | W+R | 2009-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cVJQ5F7idolfDvPRTfggig%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン1回戦 | Yoda Norimoto | O Meien | W+R | 2009-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s%2B8%2BXo6xqtbLCLovxtbyKQ%3D%3D) | 
-| 第34期棋聖戦Aリーグ | Kiyonari Tetsuya | Yoda Norimoto | W+R | 2009-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2KRZiWVNYEcOtgYD2rrsXw%3D%3D) | 
-| 第65期本因坊戦予選 | Yoda Norimoto | Iyama Yuta | W+11.5 | 2009-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GNZMRbXRmkfWI9NqaqvLhw%3D%3D) | 
-| 第35期碁聖戦予選 | Fukui Masaaki | Yoda Norimoto | W+R | 2009-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=495rCgnyC3bsdAtS0zxPFA%3D%3D) | 
-| 第35期名人戦予選 | Kono Takashi | Yoda Norimoto | W+R | 2009-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U170KjH3Yhr8xPoB%2BMUxRQ%3D%3D) | 
-| 第57期王座戦準決勝 | Yoda Norimoto | Yamamori Tadanao | B+R | 2009-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=emn35ufzajC%2F6DTyrw1POQ%3D%3D) | 
-| 第34期棋聖戦Aリーグ | Yoda Norimoto | Lee Ishu | B+R | 2009-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1dDKPDxhGmvORJdiTBpz8Q%3D%3D) | 
-| 第29期NECカップ囲碁トーナメント戦1回戦 | Yoda Norimoto | Cho U | W+6.5 | 2009-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B1%2FYrsoBGU0qccLAb96b4w%3D%3D) | 
-| 第65期本因坊戦予選 | Yoda Norimoto | Mochizuki Kenichi | B+R | 2009-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aHmGf2yuyuue6TF2pVheJA%3D%3D) | 
-| 第34期棋聖戦Aリーグ | Hane Naoki | Yoda Norimoto | B+3.5 | 2009-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=alc7K5kq4vLwK3pthFllIQ%3D%3D) | 
-| 第57期王座戦2回戦 | Yoda Norimoto | Yamashita Keigo | B+R | 2009-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pGgGp5WKRb0XWefTeV9jKg%3D%3D) | 
-| 第65期本因坊戦予選 | Yoda Norimoto | Otake Hideo | B+R | 2009-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HV1vaIlWUcllg2DHjLC1Ww%3D%3D) | 
-| 第57期王座戦1回戦 | Hashimoto Yujiro | Yoda Norimoto | W+5.5 | 2009-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eGR1U1S%2F5fYmgx08aEup%2Fw%3D%3D) | 
-| 第35期名人戦予選 | Hoshino Masaki | Yoda Norimoto | W+7.5 | 2009-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dmJxTuF9ipEysH0Fy312Zg%3D%3D) | 
-| 第57期王座戦予選 | Hane Naoki | Yoda Norimoto | W+R | 2009-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l4yTpWQShpzO0NBgFTtfVA%3D%3D) | 
-| 第36期天元戦予選 | Yoda Norimoto | Suzuki Ayumi | B+3.5 | 2009-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fp2JsOlNCFwldCoKHD8UfQ%3D%3D) | 
-| 第64期本因坊戦リーグ | Yoda Norimoto | So Yokoku | W+1.5 | 2009-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VNa2fBV6%2BdntWVY4vDdxjA%3D%3D) | 
-| 第64期本因坊戦リーグ | Cho U | Yoda Norimoto | B+R | 2009-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=be4unUTBV7zx95mym8GZ1A%3D%3D) | 
-| 第33期棋聖戦挑戦手合七番勝負第6局 | Yoda Norimoto | Yamashita Keigo | W+2.5 | 2009-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QsylCU5EoYFGdDdD56T02w%3D%3D) | 
-| 第33期棋聖戦挑戦手合七番勝負第5局 | Yamashita Keigo | Yoda Norimoto | B+5.5 | 2009-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6XpZu6C7LXz7TWP15NM9Hw%3D%3D) | 
-| 第33期棋聖戦挑戦手合七番勝負第4局 | Yoda Norimoto | Yamashita Keigo | B+R | 2009-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KsFEREwHUquhRgZAZjFydQ%3D%3D) | 
-| 第64期本因坊戦リーグ | Yoda Norimoto | Yamashita Keigo | B+R | 2009-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7WFWmOh4DawOnOFBdu8hag%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯国内予選決勝 | Iyama Yuta | Yoda Norimoto | B+R | 2009-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tDp2DUQmELHfufuAuyunsA%3D%3D) | 
-| 第33期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Yoda Norimoto | W+0.5 | 2009-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TzHzsFc2Vb33FF3j4nXuNA%3D%3D) | 
-| 第33期棋聖戦挑戦手合七番勝負第2局 | Yoda Norimoto | Yamashita Keigo | W+0.5 | 2009-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rh0vxBNrh3roJX2zO7d0BA%3D%3D) | 
-| 第34期碁聖戦本戦2回戦 | Yoda Norimoto | Takemiya Masaki | W+0.5 | 2009-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9pHMhCC7E8iDlj0JwPAhHA%3D%3D) | 
-| 第33期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Yoda Norimoto | B+1.5 | 2009-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r%2F82vOqz9M9QguNWG2Ep8w%3D%3D) | 
-| 第64期本因坊戦リーグ | Yamada Kimio | Yoda Norimoto | W+R | 2009-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FFv89dR80wiPavPZgsLwBA%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯国内予選 | Yoda Norimoto | Takemiya Masaki | B+3.5 | 2008-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hHy9Md02SWMACH1bpcO5ww%3D%3D) | 
-| 第64期本因坊戦リーグ | Nakaonoda Tomomi | Yoda Norimoto | B+2.5 | 2008-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x9a1oq%2FX8RKdpw%2FvSPsV7w%3D%3D) | 
-| 第48期十段戦予選 | Yoda Norimoto | Oya Koichi | W+0.5 | 2008-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OH7AlqDKOYJf%2FTl28Y4z2A%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯国内予選 | Yukawa Mitsuhisa | Yoda Norimoto | W+R | 2008-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UP50OwZbOsDHgKCGVyuhaA%3D%3D) | 
-| 第64期本因坊戦リーグ | Yoda Norimoto | Kataoka Satoshi | W+R | 2008-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KiaQ6Q1MzaN0fITy3%2Fnvlg%3D%3D) | 
-| 第34期碁聖戦本戦1回戦 | Nakane Naoyuki | Yoda Norimoto | W+R | 2008-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ztApWbDvw7%2FudVGwC9bG3Q%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯国内予選 | Ko Iso | Yoda Norimoto | W+R | 2008-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b%2F08j9KjQZcZ7OZwyLh1PA%3D%3D) | 
-| 第33期棋聖戦挑戦者決定戦 | Yoda Norimoto | Iyama Yuta | B+R | 2008-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ANw8IebnhVNxDCzzeDwBKw%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦三位決定戦 | Chen Shiyuan | Yoda Norimoto | W+R | 2008-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LqsKlLYxAS3X8Uvjl%2FhxEQ%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Yoda Norimoto | Weon Seongjin | W+3.5 | 2008-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hqrg8jCzyhHAnjzJ7tsdGQ%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Yoda Norimoto | Chang Hao | B+5.5 | 2008-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n%2B5SAXjlcaJt%2B%2B%2F0W7g9cQ%3D%3D) | 
-| 第4回大和証券杯ネット囲碁オープン3回戦 | Yoda Norimoto | Kono Rin | W+3.5 | 2008-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ScEiE1rTq%2Fa%2FRfiksRk9ig%3D%3D) | 
-| 第64期本因坊戦リーグ | Yoda Norimoto | Takao Shinji | W+R | 2008-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O570TrZCeCtvZFQhEOoXuA%3D%3D) | 
-| 第33期棋聖戦Bリーグ | Cho U | Yoda Norimoto | W+1.5 | 2008-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MOfYTQfl7V5gb7L%2BWjFFEA%3D%3D) | 
-| 第34期名人戦予選 | Yoda Norimoto | O Meien | W+2.5 | 2008-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tP1oT%2BcFEp9j%2BuOuiat1Xg%3D%3D) | 
-| 第35期天元戦予選 | Morita Michihiro | Yoda Norimoto | B+1.5 | 2008-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rpo3Zz5B6GIe7Vk5ReamZA%3D%3D) | 
-| 第4回大和証券杯ネット囲碁オープン2回戦 | Yoda Norimoto | Iyama Yuta | B+R | 2008-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CTrKnp47kDVjFTvEsVLRTA%3D%3D) | 
-| 第33期棋聖戦Bリーグ | Yoda Norimoto | Kono Rin | B+R | 2008-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PtcUxfrg8YlVV5iGkrrFCA%3D%3D) | 
-| 第34期名人戦予選 | Yoda Norimoto | Nakaonoda Tomomi | B+0.5 | 2008-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zfTMuvzoAi7oFM7tBpzPlQ%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Zhou Junxun | Yoda Norimoto | B+0.5 | 2008-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NVw3VDWVFUitOMRrGostUg%3D%3D) | 
-| 第33期棋聖戦Bリーグ | Honda Kunihisa | Yoda Norimoto | W+3.5 | 2008-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YTF4XgiBYSDCyMlXb5k%2FUQ%3D%3D) | 
-| 第33期名人戦リーグ | Yoda Norimoto | Iyama Yuta | B+R | 2008-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UzfWYSqI2z2CjqQz72Yp8A%3D%3D) | 
-| 第4回大和証券杯ネット囲碁オープン1回戦 | Yoda Norimoto | Tsuruyama Atsushi | B+0.5 | 2008-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7qllH6b9If56B1kp%2Fx5kkQ%3D%3D) | 
-| 第35期天元戦予選 | Yoda Norimoto | Kudo Norio | B+R | 2008-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KnYVaoV6Y1CfNBUdoP94rA%3D%3D) | 
-| 第33期棋聖戦Bリーグ | Yoda Norimoto | Kato Atsushi | B+0.5 | 2008-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8O8ss837eYDbTTeP3fPdkA%3D%3D) | 
-| 第28期NECカップ囲碁トーナメント戦1回戦 | Cho U | Yoda Norimoto | B+5.5 | 2008-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lgcU1yD9%2B6rAnv42aqo0Cw%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Yoda Norimoto | Yamada Noriyoshi | B+R | 2008-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oyoox4J%2FgKx8vsgmXiPjJQ%3D%3D) | 
-| 第33期棋聖戦Bリーグ | Hane Naoki | Yoda Norimoto | B+2.5 | 2008-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HyxTZE%2FCCRuh%2Byedveevdw%3D%3D) | 
-| 第56期王座戦2回戦 | Cho U | Yoda Norimoto | B+R | 2008-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=388cCYyHwHMQN05dpXfMgg%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯3回戦 | Lee Changho | Yoda Norimoto | B+3.5 | 2008-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rbs3vU4TmhaggLF7C%2BL5Tg%3D%3D) | 
-| 第33期名人戦リーグ | Chin Kaei | Yoda Norimoto | W+R | 2008-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qLH8yI9SfGHOHCzJOezdIw%3D%3D) | 
-| 第4回大和証券杯ネット囲碁オープン予選 | Takemiya Masaki | Yoda Norimoto | W+R | 2008-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iSxO8M3Mo5VecvZ%2FbhFzqA%3D%3D) | 
-| 第33期名人戦リーグ | Yoda Norimoto | Cho Chikun | W+1.5 | 2008-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cv3qszf8AS8xwkLxV2nIPA%3D%3D) | 
-| 第56期王座戦1回戦 | Imamura Toshiya | Yoda Norimoto | W+4.5 | 2008-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iMqCxOHJJinVi%2Fr08Q4nLA%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Nakamura Shinya | Yoda Norimoto | W+R | 2008-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gep16h5WeMYOY7UB5xLCKw%3D%3D) | 
-| 第56期王座戦予選 | Takemiya Masaki | Yoda Norimoto | W+R | 2008-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4yTuFFa0pE1WRM%2FXi%2FQDFA%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯2回戦 | Kang Dongyun | Yoda Norimoto | W+R | 2008-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mjEIKrWALewP0rRLma59Kg%3D%3D) | 
-| 第33期名人戦リーグ | Ko Iso | Yoda Norimoto | B+1.5 | 2008-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Un68863tQXlFAd22vmGmdA%3D%3D) | 
-| 第63期本因坊戦リーグ | Yoda Norimoto | Hane Naoki | W+3.5 | 2008-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7QEooJHeauA64B7vsM%2BSWw%3D%3D) | 
-| 第33期碁聖戦本戦準決勝 | Yamashita Keigo | Yoda Norimoto | B+R | 2008-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NaPf%2FJSmNX6ihUU0qVIkQw%3D%3D) | 
-| 第7回春蘭杯世界囲碁選手権1回戦 | Ding Wei | Yoda Norimoto | B+R | 2008-03-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sH2LKW1bECiWL6ViqB1REg%3D%3D) | 
-| 第47期十段戦予選 | Anzai Nobuaki | Yoda Norimoto | B+0.5 | 2008-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A%2FrgBah%2B0%2FxVQiteek8Cdg%3D%3D) | 
-| 第63期本因坊戦リーグ | Yoda Norimoto | Mizokami Tomochika | B+R | 2008-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iMEs6QevYiNaW8gfu9JWvA%3D%3D) | 
-| 第33期名人戦リーグ | Yoda Norimoto | Yamada Kimio | B+R | 2008-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U9B3iWmchYCfo%2F%2FNl5Fg3g%3D%3D) | 
-| 第33期碁聖戦本戦3回戦 | Yoda Norimoto | Yamada Takuji | B+R | 2008-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aDs5USgyKJ6htZ7RhkcOgg%3D%3D) | 
-| 第33期名人戦リーグ | Takao Shinji | Yoda Norimoto | W+2.5 | 2008-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tKw6U2pETU5j9x8Uf%2FVsfw%3D%3D) | 
-| 第63期本因坊戦リーグ | Yamada Kimio | Yoda Norimoto | W+R | 2008-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wEgAIY9BRvROL4YowhD9vQ%3D%3D) | 
-| 第33期碁聖戦本戦2回戦 | Kono Rin | Yoda Norimoto | W+2.5 | 2008-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=skV1a74gi3HChwVLOnZJZA%3D%3D) | 
-| 第27期NECカップ囲碁トーナメント戦準決勝 | Kono Rin | Yoda Norimoto | B+0.5 | 2008-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CmL0fa4E419e1c4gzDPLGg%3D%3D) | 
-| 第63期本因坊戦リーグ | Yamashita Keigo | Yoda Norimoto | B+R | 2008-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=00OX8gcZG5yNL9myRfMIjA%3D%3D) | 
-| 第33期名人戦リーグ | Sakai Hideyuki | Yoda Norimoto | B+7.5 | 2008-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jyDJn8r43k014ReCo7aJxQ%3D%3D) | 
-| 第33期名人戦リーグ | Yoda Norimoto | Kobayashi Satoru | W+2.5 | 2007-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lEC3Nm55XUytsA4sksBFfQ%3D%3D) | 
-| 第63期本因坊戦リーグ | Yoda Norimoto | Cho U | B+1.5 | 2007-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bikhLwxeZayl6p7nAMAXyQ%3D%3D) | 
-| 第9回農心辛ラーメン杯世界囲碁最強戦第9戦 | Mok Jinseok | Yoda Norimoto | B+6.5 | 2007-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LlmvLbESNtEogwh4bDPXlw%3D%3D) | 
-| 第63期本因坊戦リーグ | Yoda Norimoto | So Yokoku | W+0.5 | 2007-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LQrkXGMruYd%2FNMJrAFEZow%3D%3D) | 
-| 第33期碁聖戦本戦1回戦 | Yoda Norimoto | Yokota Shigeaki | B+5.5 | 2007-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MR2dwLmNqTz9BCxa6ON03w%3D%3D) | 
-| 第56期王座戦予選 | Aoki Shinichi | Yoda Norimoto | W+2.5 | 2007-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TUJ0SrgShSHvgjDTVDFsyg%3D%3D) | 
-| 第27期NECカップ囲碁トーナメント戦2回戦 | Kobayashi Satoru | Yoda Norimoto | W+R | 2007-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V0dBVqAcU1rc%2BAebJqDCrg%3D%3D) | 
-| 第63期本因坊戦リーグ | O Meien | Yoda Norimoto | B+R | 2007-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bW1tlLKPNPa%2FOTORRlyUdA%3D%3D) | 
-| 第32期棋聖戦Aリーグ | Yoda Norimoto | Cho U | W+R | 2007-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3gHE%2BAJpXxc%2FKo6EIc1dGQ%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン2回戦 | Yoda Norimoto | Komatsu Hideki | W+2.5 | 2007-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sA3n9VK3eJ6FIgw0Y5JLug%3D%3D) | 
-| 第27期NECカップ囲碁トーナメント戦1回戦 | Yoda Norimoto | Cho U | B+R | 2007-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ow58DAYOz1CIOmrK3BpuA%3D%3D) | 
-| 第56期王座戦予選 | Yoda Norimoto | Yamada Takuji | B+R | 2007-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2SOFf4ilB5rykSzavuPlaw%3D%3D) | 
-| 第32期棋聖戦Aリーグ | Kobayashi Satoru | Yoda Norimoto | W+R | 2007-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tw0THcyjrMAUjLHslfl7Ug%3D%3D) | 
-| 第34期天元戦予選 | Lee Ishu | Yoda Norimoto | B+7.5 | 2007-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jFmJ2OfEYcgKC5LXkgP9cQ%3D%3D) | 
-| 第32期棋聖戦Aリーグ | O Rissei | Yoda Norimoto | W+R | 2007-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zdpcc38i9OlB%2BT6Dno%2FmoA%3D%3D) | 
-| 第46期十段戦敗者復活戦2回戦 | Yoda Norimoto | Kobayashi Satoru | W+0.5 | 2007-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2%2Bd0dzBcVuj8L53X12OT%2FA%3D%3D) | 
-| 第32期名人戦リーグ | Hikosaka Naoto | Yoda Norimoto | B+0.5 | 2007-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FhaKUz03QIVw3Fc22pg9Xw%3D%3D) | 
-| 第46期十段戦本戦2回戦 | Cho U | Yoda Norimoto | B+4.5 | 2007-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OCoculKULgmhRr4dU9Dxtg%3D%3D) | 
-| 第32期棋聖戦Aリーグ | Yoda Norimoto | Takao Shinji | B+R | 2007-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ieRD7UkSrnNKkEW%2BeKar9A%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯三位決定戦 | Cho U | Yoda Norimoto | W+3.5 | 2007-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Alv1oIaaSLWWLgv52a9MAw%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯準決勝 | Yoda Norimoto | Park Yeonghun | W+0.5 | 2007-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lhH7lYR8ndq%2F8QmIRVygJg%3D%3D) | 
-| 第32期名人戦リーグ | Ko Iso | Yoda Norimoto | B+3.5 | 2007-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WHRJC4i7VKr7Ul%2BqBtx7nA%3D%3D) | 
-| 第62期本因坊戦挑戦手合七番勝負第5局 | Takao Shinji | Yoda Norimoto | B+2.5 | 2007-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MLwHwM%2FytJhDfkZuPnyT4g%3D%3D) | 
-| 第62期本因坊戦挑戦手合七番勝負第4局 | Yoda Norimoto | Takao Shinji | W+5.5 | 2007-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H3W6rb94yEvFg%2FNOBD8bBw%3D%3D) | 
-| 第32期棋聖戦Aリーグ | Yamashiro Hiroshi | Yoda Norimoto | B+R | 2007-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UTDOphI0YeGbKvfKYKCoOQ%3D%3D) | 
-| 第62期本因坊戦挑戦手合七番勝負第3局 | Takao Shinji | Yoda Norimoto | B+R | 2007-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ihgpg%2F4Bt4Z9RGmIbKnbgw%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯3回戦 | Wang Xi | Yoda Norimoto | W+R | 2007-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nMQllJii2lmHi8fUcl6OPw%3D%3D) | 
-| 第62期本因坊戦挑戦手合七番勝負第2局 | Yoda Norimoto | Takao Shinji | B+1.5 | 2007-05-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UreB8HzChggK5yVb4SgVMQ%3D%3D) | 
-| 第46期十段戦本戦1回戦 | Yoda Norimoto | Yukawa Mitsuhisa | B+2.5 | 2007-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SrixVMio4pymkq2I7qabfg%3D%3D) | 
-| 第62期本因坊戦挑戦手合七番勝負第1局 | Takao Shinji | Yoda Norimoto | B+0.5 | 2007-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O4Tr%2BDxGVc4Kia8kZ3YPuA%3D%3D) | 
-| 第32期名人戦リーグ | Yoda Norimoto | Cho U | W+5.5 | 2007-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DRKotCt2ajWCT17H5bG8Pw%3D%3D) | 
-| 第32期碁聖戦本戦準決勝 | Yoda Norimoto | Kono Rin | W+R | 2007-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pVv5lRJUdT%2B7cOQ%2FaLTtIw%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯2回戦 | Yoda Norimoto | Gu Li | B+R | 2007-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1vSOulskwKPpA9wHWeUHPg%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯1回戦 | Yoda Norimoto | Li Jie (2) | B+11.5 | 2007-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V1W0LGZRUyP2z%2FnaEPlR0g%3D%3D) | 
-| 第62期本因坊戦挑戦者決定プレーオフ | Yoda Norimoto | So Yokoku | B+R | 2007-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T%2FEJZTYRc%2Br80i8P%2FIfdzA%3D%3D) | 
-| 第62期本因坊戦リーグ | Kobayashi Satoru | Yoda Norimoto | W+R | 2007-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FO8OzAV1pq5C%2FFEV9%2BReSg%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープン決勝三番勝負第2局 | O Meien | Yoda Norimoto | B+9.5 | 2007-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3JFmVS7KKD5eiTc8uceZdQ%3D%3D) | 
-| 第55期王座戦予選 | Yoda Norimoto | Kataoka Satoshi | W+3.5 | 2007-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KHXqJzWIMzHdaPjp4n8ORQ%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープン決勝三番勝負第1局 | Yoda Norimoto | O Meien | W+3.5 | 2007-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XFFNWVMcAQQ0WGRIXFwefw%3D%3D) | 
-| 第32期名人戦リーグ | Yamashita Keigo | Yoda Norimoto | W+4.5 | 2007-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ha5rW07amrSPoMdD99uGCg%3D%3D) | 
-| 第32期名人戦リーグ | Yoda Norimoto | Mimura Tomoyasu | B+R | 2007-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1fudMA23KU90LQzlY%2BeaWg%3D%3D) | 
-| 第62期本因坊戦リーグ | Yoda Norimoto | O Meien | B+3.5 | 2007-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uHCaF5eCvdxYv3x3G8TGSQ%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープン決勝トーナメント準決勝 | Yoda Norimoto | Takao Shinji | B+R | 2007-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zenYzU6KxSvgRh%2BvOgvYxQ%3D%3D) | 
-| 第32期碁聖戦本戦3回戦 | Yoda Norimoto | Takao Shinji | B+R | 2007-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TnGCIpQn%2Be3ev3%2FbVhREHQ%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープン決勝トーナメント1回戦 | Cho Chikun | Yoda Norimoto | W+R | 2007-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ySESZtbQoMcygtrloi%2BLeg%3D%3D) | 
-| 第62期本因坊戦リーグ | Cho Sonjin | Yoda Norimoto | W+R | 2007-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H5zRtYc35cH6RYHKDjGztg%3D%3D) | 
-| 第33期天元戦本戦1回戦 | Yoda Norimoto | Morita Michihiro | W+2.5 | 2007-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4QNI9KLNrEd3T4JfiMx3aw%3D%3D) | 
-| 第45期十段戦挑戦者決定戦 | Yamashita Keigo | Yoda Norimoto | B+6.5 | 2007-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZFE%2Fon3WLuYqaZHjQaksFg%3D%3D) | 
-| 第8回農心辛ラーメン杯世界囲碁最強戦第11戦 | Yoda Norimoto | Park Yeonghun | W+1.5 | 2007-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pQJpEDQPohhmpqUE%2Bg6wKw%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープンCリーグ | Ryu Shikun | Yoda Norimoto | W+5.5 | 2007-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z9M9It2j2PFap%2FSZPk4kaA%3D%3D) | 
-| 第32期名人戦リーグ | Yoda Norimoto | Sakai Hideyuki | B+0.5 | 2007-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IVzw0UayI5FmqP2wTkYIvQ%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯国内予選 | Yoda Norimoto | Kataoka Satoshi | B+R | 2007-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=efmZnqsQCGgW%2BNIh1Nca1A%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープンCリーグ | Nakano Hironari | Yoda Norimoto | W+13.5 | 2007-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vG6Gw364RaO1KWoo4ulKaA%3D%3D) | 
-| 第32期名人戦リーグ | Kobayashi Satoru | Yoda Norimoto | W+1.5 | 2007-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7vm5KtI6%2FSObbaDH8V7YaA%3D%3D) | 
-| 第55期王座戦予選 | Rin Kaiho | Yoda Norimoto | W+5.5 | 2007-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l9QZzlJ4C3DNHZswb7d50g%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープンCリーグ | Yoda Norimoto | Ko Iso | B+R | 2007-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=krDQUEuhnP3vcRp1lcYYbA%3D%3D) | 
-| 第32期碁聖戦本戦2回戦 | Yoda Norimoto | Sakai Hideyuki | B+R | 2007-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9eUVi4HDnmaPWVDrdY6kbw%3D%3D) | 
-| 第62期本因坊戦リーグ | Hane Naoki | Yoda Norimoto | W+R | 2007-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TU5FCItBglc16XbYeuy4zQ%3D%3D) | 
-| 第33期天元戦本戦0回戦 | Ogata Masaki | Yoda Norimoto | W+3.5 | 2006-12-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4BPhYIt4OU9fJuEOCvsYuw%3D%3D) | 
-| 第45期十段戦敗者復活戦決勝 | Yoda Norimoto | Cho U | B+2.5 | 2006-12-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X9TKYQkgKl9KF%2FyPmMDL4w%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯国内予選 | Yoda Norimoto | Hikosaka Naoto | B+R | 2006-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ewi1D1ZSm3E8ccebpMaL8Q%3D%3D) | 
-| 第62期本因坊戦リーグ | Yoda Norimoto | So Yokoku | W+2.5 | 2006-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nLHWgvzMc3BUghbzMoJMyQ%3D%3D) | 
-| 第32期名人戦リーグ | Yoda Norimoto | Yamada Kimio | W+1.5 | 2006-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SNzFICmH%2FuOFoKQJSXYHnw%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯国内予選 | Yoda Norimoto | Michael Redmond | B+5.5 | 2006-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sRyxjp5nrEXHKIqAQGR2IQ%3D%3D) | 
-| 第45期十段戦敗者復活戦4回戦 | Yoda Norimoto | Kobayashi Satoru | B+R | 2006-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d%2FL1ZC%2FeNGaimtI3z9N8RA%3D%3D) | 
-| 第32期碁聖戦本戦1回戦 | Nakano Hironari | Yoda Norimoto | W+R | 2006-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QS8Bdd%2B2I1MENOIBEgcxFw%3D%3D) | 
-| 第62期本因坊戦リーグ | Yoda Norimoto | Yamada Kimio | B+R | 2006-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=23eX0gbGMw2D3U8yfAvP0g%3D%3D) | 
-| 第45期十段戦敗者復活戦3回戦 | Komatsu Hideki | Yoda Norimoto | W+2.5 | 2006-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G4qXYJleA%2FdTNDNZla0Dog%3D%3D) | 
-| 第62期本因坊戦リーグ | Yoda Norimoto | Cho U | W+2.5 | 2006-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4dhFqwxNOdRUhX7LtKzUxA%3D%3D) | 
-| 第33期天元戦予選 | Awaji Shuzo | Yoda Norimoto | W+0.5 | 2006-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SPhyulM819yIkCUDLqjzaA%3D%3D) | 
-| 第1回大和証券杯ネット囲碁オープン決勝トーナメント1回戦 | Kono Rin | Yoda Norimoto | B+R | 2006-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ukmp8RjSWk9dXAZWGa%2F9sw%3D%3D) | 
-| 第31期棋聖戦Aリーグ | Yoda Norimoto | Mimura Tomoyasu | W+1.5 | 2006-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s%2F52ZIWCWJbxw342R2YG2g%3D%3D) | 
-| 第1回大和証券杯ネット囲碁オープン | Kobayashi Satoru | Yoda Norimoto | W+3.5 | 2006-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V1c08%2BE4kYUSpTzMByKXNA%3D%3D) | 
-| 第31期棋聖戦Aリーグ | Hane Naoki | Yoda Norimoto | W+R | 2006-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K48gTpT%2Bs%2FqGNgHP051xzg%3D%3D) | 
-| 第33期天元戦予選 | Yoda Norimoto | Shiraishi Yuichi | B+R | 2006-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ROC3Wdb20mqfVrWS%2FUpRdg%3D%3D) | 
-| 第45期十段戦敗者復活戦2回戦 | Kim Sujun | Yoda Norimoto | W+R | 2006-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rCwzgqORJC3J4QN8XXSnfQ%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Cho Hanseung | Yoda Norimoto | B+5.5 | 2006-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4ptX1P4U2KdclicaB1BzuA%3D%3D) | 
-| 第31期棋聖戦Aリーグ | Yoda Norimoto | Cho U | W+1.5 | 2006-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=99J0GlKSKqpKlsBP%2F4l1VQ%3D%3D) | 
-| 第45期十段戦本戦2回戦 | Yamashita Keigo | Yoda Norimoto | B+R | 2006-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fcujk8takA9BeQHd20vhDw%3D%3D) | 
-| 第31期名人戦リーグ | Yoda Norimoto | Yamashita Keigo | W+7.5 | 2006-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NdSIw4k8tctNVidoqxrZ9w%3D%3D) | 
-| 第31期碁聖戦挑戦手合五番勝負第3局 | Cho U | Yoda Norimoto | B+2.5 | 2006-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=srAhtgyOEHUOVLzn70v%2BWA%3D%3D) | 
-| 第31期棋聖戦Aリーグ | Honda Kunihisa | Yoda Norimoto | W+R | 2006-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wvmd5Z2%2BstjZb8UaIfBFvw%3D%3D) | 
-| 第31期碁聖戦挑戦手合五番勝負第2局 | Yoda Norimoto | Cho U | W+R | 2006-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2korurJkMchrQagUOkP7NQ%3D%3D) | 
-| 第31期碁聖戦挑戦手合五番勝負第1局 | Cho U | Yoda Norimoto | B+0.5 | 2006-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3jm%2BC6uImwNwh7mRpHrswA%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Sakai Hideyuki | Yoda Norimoto | W+R | 2006-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nIjpcIj3XA0gn3glEHDwcQ%3D%3D) | 
-| 第26期NECカップ囲碁トーナメント戦1回戦 | Yamashita Keigo | Yoda Norimoto | B+R | 2006-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kuke8%2B6XJtKXdJ3AFNg1dg%3D%3D) | 
-| 第45期十段戦本戦1回戦 | Sakai Takeshi | Yoda Norimoto | W+8.5 | 2006-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0OTJH6oLix1f3qwTJlwbJQ%3D%3D) | 
-| 第31期名人戦リーグ | Han Zenki | Yoda Norimoto | B+0.5 | 2006-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zMQQd37VYfkNvNscxMlMzA%3D%3D) | 
-| 第31期棋聖戦Aリーグ | Komatsu Hideki | Yoda Norimoto | B+2.5 | 2006-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PA8W1HHmgMSNTvHJOXmqdQ%3D%3D) | 
-| 第45期十段戦予選 | Mochizuki Kenichi | Yoda Norimoto | W+R | 2006-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IMgnPlKQYQuiy7LFVFx7MA%3D%3D) | 
-| 第32期天元戦本戦2回戦 | Sakai Hideyuki | Yoda Norimoto | B+0.5 | 2006-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ac23WU1J5qfi7HI3RHcXhw%3D%3D) | 
-| 第31期名人戦リーグ | Yoda Norimoto | Ko Iso | B+R | 2006-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ec43I6HC4A9yJlTsdBTOeQ%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第3戦 | O Meien | Yoda Norimoto | W+R | 2006-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uYNmBsCpxt0l0CJFzWaFfg%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第2戦 | Kong Jie | Yoda Norimoto | B+11.5 | 2006-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2HoCrMTPKJCpRO0st%2FksVA%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第1戦 | Lee Changho | Yoda Norimoto | W+2.5 | 2006-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0qL2p%2FrK1wJ0urDOzU2HSw%3D%3D) | 
-| 第31期名人戦リーグ | Yoda Norimoto | Yamada Kimio | B+0.5 | 2006-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TATmvZ5%2FuXA9gL999gOilQ%3D%3D) | 
-| 第45期十段戦予選 | Sakai Hideyuki | Yoda Norimoto | W+2.5 | 2006-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LbaEAzI%2BfDawIqEjDAB1cQ%3D%3D) | 
-| 第61期本因坊戦挑戦者決定プレーオフ | Yamada Kimio | Yoda Norimoto | B+0.5 | 2006-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hldIFyvF%2BdqiBObVbwCG3Q%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Fujii Shuya | Yoda Norimoto | W+R | 2006-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=66VYs8mHuhnzhoQdjrHewg%3D%3D) | 
-| 第61期本因坊戦リーグ | Yoda Norimoto | O Meien | B+R | 2006-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NYBbKQzvBIUo2ZSkHQb%2BHw%3D%3D) | 
-| 第31期名人戦リーグ | Yoda Norimoto | Takao Shinji | B+2.5 | 2006-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J0Kc9vTpDaO4zUib20rGHw%3D%3D) | 
-| 第6回春蘭杯世界囲碁選手権2回戦 | Yoda Norimoto | Hu Yaoyu | W+R | 2006-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XXkexFKbk2Pueq2huL7ryA%3D%3D) | 
-| 第6回春蘭杯世界囲碁選手権1回戦 | Kong Jie | Yoda Norimoto | W+R | 2006-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wc%2FfM7XWNbJu9zVIdjDXew%3D%3D) | 
-| 第61期本因坊戦リーグ | Cho Sonjin | Yoda Norimoto | W+6.5 | 2006-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7ifuHyQhrOHSoK0eqXeN7g%3D%3D) | 
-| 第7回農心辛ラーメン杯世界囲碁最強戦第14戦 | Yoda Norimoto | Lee Changho | B+R | 2006-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oPL28jTILYZ%2B0c%2B7Qt0ECA%3D%3D) | 
-| 第7回農心辛ラーメン杯世界囲碁最強戦第13戦 | Kong Jie | Yoda Norimoto | W+R | 2006-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k7iozhIgX0Sm5QP9EauS4Q%3D%3D) | 
-| 第7回農心辛ラーメン杯世界囲碁最強戦第12戦 | Cho Hanseung | Yoda Norimoto | W+R | 2006-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e0USh3C1c0HbDUO7w4LFvw%3D%3D) | 
-| 第61期本因坊戦リーグ | Yoda Norimoto | Cho U | B+3.5 | 2006-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GQjSmVTSG8YXCSzmdhXqwA%3D%3D) | 
-| 第31期名人戦リーグ | Kobayashi Satoru | Yoda Norimoto | B+2.5 | 2006-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DDWzsZbbDiGPRFKOIsxMjw%3D%3D) | 
-| 第61期本因坊戦リーグ | Yoda Norimoto | O Rissei | B+R | 2006-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J9Dg4lAADghBu%2BSurL%2Fp%2Fw%3D%3D) | 
-| 第31期名人戦リーグ | Sakai Hideyuki | Yoda Norimoto | B+R | 2006-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=krnOjDFwaJVfcP6cPDmZJA%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯国内予選 | Cho Chikun | Yoda Norimoto | B+R | 2006-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N1jSuQ7oLm39Bk4GzKlmjQ%3D%3D) | 
-| 第61期本因坊戦リーグ | Yamada Kimio | Yoda Norimoto | W+1.5 | 2005-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MSjQI0qHQ5Y8LPgKhYu1lA%3D%3D) | 
-| 第32期天元戦本戦1回戦 | Yoda Norimoto | Imamura Yoshiaki | B+R | 2005-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ahI3q6EcmSqeSZUfAa2InA%3D%3D) | 
-| 第31期名人戦リーグ | Imamura Toshiya | Yoda Norimoto | W+R | 2005-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TMPJ0ZIQjGg2TR%2BYO%2Fe3YQ%3D%3D) | 
-| 第54期王座戦予選 | Rin Kaiho | Yoda Norimoto | B+0.5 | 2005-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SfvAeLtBeAZklI3Igoo2jQ%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯国内予選 | Yoda Norimoto | Komatsu Hideki | B+2.5 | 2005-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kO6zfm6iIjVoxSvt4nj%2FOA%3D%3D) | 
-| 第61期本因坊戦リーグ | Hane Naoki | Yoda Norimoto | B+0.5 | 2005-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9aqwsCI%2FsroTOQLhbpSCCA%3D%3D) | 
-| 第32期天元戦予選 | Yoda Norimoto | Ishida Akira | B+0.5 | 2005-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hhcEoc0hJ%2F3vpjSEQlMUbA%3D%3D) | 
-| 第61期本因坊戦リーグ | Yoda Norimoto | So Yokoku | W+R | 2005-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F33QJdrA5vaVzuaI1kVdmw%3D%3D) | 
-| 第30期棋聖戦Aリーグ | Yoda Norimoto | Cho U | B+R | 2005-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y5x53FxosMo88kAIpGDkEg%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権2回戦 | Lee Sedol | Yoda Norimoto | B+R | 2005-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UsmxrcW9dMYs%2FdCa3Iv1Bg%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権1回戦 | Yoda Norimoto | Kim Jiseok | B+2.5 | 2005-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DNM1xQGjPUJHqiV93o0OaQ%3D%3D) | 
-| 第30期棋聖戦Aリーグ | Mimura Tomoyasu | Yoda Norimoto | B+R | 2005-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1L2iQ6jv4Bi2ZsKuWjUvLQ%3D%3D) | 
-| 第44期十段戦敗者復活戦2回戦 | Yoda Norimoto | Yamashiro Hiroshi | W+R | 2005-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q%2B9t6qnI8s6psbi79iO2Qw%3D%3D) | 
-| 第30期棋聖戦Aリーグ | Yoda Norimoto | Honda Kunihisa | B+2.5 | 2005-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L8UZiasUu7UjIwVtkx1XBw%3D%3D) | 
-| 第2回中環杯世界囲碁選手権準決勝 | Yoda Norimoto | Choi Cheolhan | W+1.5 | 2005-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4is3UGZNCBmJJ1WxMEnvog%3D%3D) | 
-| 第2回中環杯世界囲碁選手権2回戦 | Yoda Norimoto | Kim Seonryong | B+R | 2005-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aLiUY7kb0HX%2BDVCQYT1n0Q%3D%3D) | 
-| 第2回中環杯世界囲碁選手権1回戦 | Yoda Norimoto | Chen Shiyuan | B+R | 2005-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=48Eq9cSMtRowPjccz3O7Iw%3D%3D) | 
-| 第30期名人戦リーグ | Yoda Norimoto | Yamada Kimio | W+R | 2005-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bHxq8r72yG9da5%2BKwWIxjw%3D%3D) | 
-| 第30期碁聖戦挑戦手合五番勝負第3局 | Yoda Norimoto | Yuki Satoshi | B+R | 2005-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x1WVfdgWeTZNKOPBHg5uLQ%3D%3D) | 
-| 第30期棋聖戦Aリーグ | Yuki Satoshi | Yoda Norimoto | B+6.5 | 2005-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YzG5QYbOK0LefY%2BHWJb4nQ%3D%3D) | 
-| 第30期碁聖戦挑戦手合五番勝負第2局 | Yuki Satoshi | Yoda Norimoto | W+R | 2005-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xdV%2Fur4ruyfDyZa8V2yEtA%3D%3D) | 
-| 第30期碁聖戦挑戦手合五番勝負第1局 | Yoda Norimoto | Yuki Satoshi | B+R | 2005-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dOKB3xBAIn8MTtZuCnXE1A%3D%3D) | 
-| 第44期十段戦敗者復活戦1回戦 | Yoda Norimoto | Ryu Shikun | B+0.5 | 2005-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xIizz1dOzbSmlC0a4ekJVA%3D%3D) | 
-| 第17回テレビアジア選手権準決勝 | Yoda Norimoto | Cho Hanseung | W+10.5 | 2005-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TTvNmi6mYqF3ciTfPd6JHA%3D%3D) | 
-| 第17回テレビアジア選手権1回戦 | Gu Li | Yoda Norimoto | W+R | 2005-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H33GF7BjpUbxu9U8BL5uOg%3D%3D) | 
-| 第30期名人戦リーグ | Imamura Toshiya | Yoda Norimoto | B+5.5 | 2005-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nPJMAF383wIeRAtbTIZvlg%3D%3D) | 
-| 第30期棋聖戦Aリーグ | Kato Atsushi | Yoda Norimoto | B+0.5 | 2005-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ukb01Ud5mqg8%2F23NYTFlIw%3D%3D) | 
-| 第25期NECカップ囲碁トーナメント戦1回戦 | Cho U | Yoda Norimoto | B+R | 2005-05-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Lbi6nAAzJzWA6zEX9wd%2Bg%3D%3D) | 
-| 第44期十段戦本戦1回戦 | Yoda Norimoto | Takao Shinji | W+R | 2005-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=92mDzcSgUeNe4EZx0CVeag%3D%3D) | 
-| 第30期名人戦リーグ | Yoda Norimoto | Yamashita Keigo | W+1.5 | 2005-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iymixn9Nv6gveh1hFSLjBA%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第3戦 | Yoda Norimoto | Cho U | B+R | 2005-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BM%2FSg7XWk63w77Qm7Hi5LQ%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第2戦 | Choi Cheolhan | Yoda Norimoto | B+4.5 | 2005-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ew1l5gMy%2FKsSnR7bqeR6gA%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第1戦 | Gu Li | Yoda Norimoto | W+R | 2005-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jl%2BEQPDLIU6SdN7QH6oXbg%3D%3D) | 
-| 第53期王座戦1回戦 | O Meien | Yoda Norimoto | B+R | 2005-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dSs8bXn7%2FazUACkBCbspGw%3D%3D) | 
-| 第31期天元戦本戦3回戦 | Kono Rin | Yoda Norimoto | B+1.5 | 2005-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AAe0gs4pd7fO6xxWkJg%2FkQ%3D%3D) | 
-| 第18回世界囲碁選手権富士通杯2回戦 | Yoda Norimoto | Lee Sedol | W+1.5 | 2005-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SWJqGT1oiU1fQVocP3nOJg%3D%3D) | 
-| 第30期名人戦リーグ | Yoda Norimoto | Kobayashi Satoru | W+0.5 | 2005-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9hhOg6pFp1D5Lz5qUUb68Q%3D%3D) | 
-| 第60期本因坊戦リーグ | Yoda Norimoto | So Yokoku | W+R | 2005-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XVJ%2F7%2BY9YpMr%2Bdu8jOQlCg%3D%3D) | 
-| 第60期本因坊戦リーグ | Cho Sonjin | Yoda Norimoto | W+R | 2005-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0fxLCLdmjv6kuWJpo6DE2w%3D%3D) | 
-| 第31期天元戦本戦2回戦 | Yoda Norimoto | O Rissei | B+R | 2005-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qNwCj1OnwrItKAH%2FAL2KwA%3D%3D) | 
-| 第30期名人戦リーグ | Sakai Hideyuki | Yoda Norimoto | B+0.5 | 2005-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j%2B%2BAPRKBcglcO0WO8HQ4qw%3D%3D) | 
-| 第30期名人戦リーグ | O Meien | Yoda Norimoto | W+1.5 | 2005-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vsZv5dyRuvXg0mrntMOvyA%3D%3D) | 
-| 第60期本因坊戦リーグ | Yoda Norimoto | O Rissei | B+1.5 | 2005-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BVlDn7zySLhpiBsmZmqn9A%3D%3D) | 
-| 第60期本因坊戦リーグ | Yoda Norimoto | O Meien | W+2.5 | 2005-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FRC4zug1JwowRoBermc%2F3Q%3D%3D) | 
-| 第30期名人戦リーグ | Yoda Norimoto | Ogata Masaki | B+3.5 | 2005-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jPU2PsoCigELceOGYQBsvA%3D%3D) | 
-| 第31期天元戦本戦1回戦 | Mizokami Tomochika | Yoda Norimoto | W+R | 2004-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PCfUUMWK9YTJ9prRt6H9%2Fg%3D%3D) | 
-| 第43期十段戦敗者復活戦4回戦 | Takao Shinji | Yoda Norimoto | B+4.5 | 2004-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EWpDcTnsMQE%2BY516sDY7bA%3D%3D) | 
-| 第30期名人戦リーグ | Cho Sonjin | Yoda Norimoto | W+R | 2004-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mXJDcIUxoctARU9QId1WBw%3D%3D) | 
-| 第60期本因坊戦リーグ | Han Zenki | Yoda Norimoto | W+R | 2004-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zgFEgmjr%2B11%2BUqBfXWUlsw%3D%3D) | 
-| 第43期十段戦敗者復活戦3回戦 | Yoda Norimoto | Cho U | B+0.5 | 2004-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ujaPpCeFtfZXCYyekwf7vQ%3D%3D) | 
-| 第24期NECカップ囲碁トーナメント戦2回戦 | Yoda Norimoto | Kobayashi Koichi | W+5.5 | 2004-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HGy9skz2RfM1X0HgeoTx3w%3D%3D) | 
-| 第60期本因坊戦リーグ | Takao Shinji | Yoda Norimoto | B+1.5 | 2004-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3b0LGYcVliKyftM9tA1C%2Fw%3D%3D) | 
-| 第29期名人戦挑戦手合七番勝負第6局 | Cho U | Yoda Norimoto | B+1.5 | 2004-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bn1Ui%2BFu3PSpV4He9yuaGw%3D%3D) | 
-| 第60期本因坊戦リーグ | Mimura Tomoyasu | Yoda Norimoto | W+2.5 | 2004-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rRQgpx%2BMOJrOMZcbPOcjhQ%3D%3D) | 
-| 第29期名人戦挑戦手合七番勝負第5局 | Yoda Norimoto | Cho U | W+4.5 | 2004-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WtUfY2O4S1WzYbhoftI4Qw%3D%3D) | 
-| 第29期名人戦挑戦手合七番勝負第4局 | Cho U | Yoda Norimoto | B+7.5 | 2004-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BuRzKlqwnRGv2V2oOuhMIQ%3D%3D) | 
-| 第29期棋聖戦Aリーグ | Miyazawa Goro | Yoda Norimoto | W+10.5 | 2004-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3KTUqCFDOYbz3nlpJe0AcA%3D%3D) | 
-| 第29期名人戦挑戦手合七番勝負第3局 | Yoda Norimoto | Cho U | B+R | 2004-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8bkt9nyHAGT096%2B3Oopf%2Bw%3D%3D) | 
-| 第29期名人戦挑戦手合七番勝負第2局 | Cho U | Yoda Norimoto | B+3.5 | 2004-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XL%2FJrBUqOy%2FNmuLdBwixdw%3D%3D) | 
-| 第29期棋聖戦Aリーグ | Yoda Norimoto | Ryu Shikun | B+R | 2004-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QJhPwj47nUWEiwTNk1%2BJ9w%3D%3D) | 
-| 第24期NECカップ囲碁トーナメント戦1回戦 | Kobayashi Satoru | Yoda Norimoto | W+1.5 | 2004-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HzJZaaDazGi8rrXQNFkzwQ%3D%3D) | 
-| 第29期名人戦挑戦手合七番勝負第1局 | Yoda Norimoto | Cho U | B+0.5 | 2004-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nfca4fy4Lks%2B2w7sKy5Xbw%3D%3D) | 
-| 第43期十段戦敗者復活戦2回戦 | O Meien | Yoda Norimoto | W+R | 2004-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yaz1BTb9M7o5uxdqrqC77Q%3D%3D) | 
-| 第52期王座戦挑戦者決定戦 | Yoda Norimoto | Yamashita Keigo | W+R | 2004-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O46UQUTHsMkke%2By9sAtJJg%3D%3D) | 
-| 第2期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Song Taekon | Yoda Norimoto | B+2.5 | 2004-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E9rkrxi7nwm77fcsx7Ctpw%3D%3D) | 
-| 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Jiang Mingjiu | Yoda Norimoto | W+R | 2004-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xA9QhXZJkknKlCD0H29WWQ%3D%3D) | 
-| 第29期碁聖戦挑戦手合五番勝負第4局 | Yamada Kimio | Yoda Norimoto | W+4.5 | 2004-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=brV4GC1cmnLjkmSF2n4YIw%3D%3D) | 
-| 第29期棋聖戦Aリーグ | O Meien | Yoda Norimoto | B+2.5 | 2004-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cGs0BoczYtUnTfbkcHWH6A%3D%3D) | 
-| 第52期王座戦準決勝 | Yoda Norimoto | Takao Shinji | B+R | 2004-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w7twpTLU01zxYntlPb8Mkg%3D%3D) | 
-| 第43期十段戦本戦2回戦 | Takao Shinji | Yoda Norimoto | B+0.5 | 2004-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d2f6ZXIqHGlUkH9RkOuJEA%3D%3D) | 
-| 第29期棋聖戦Aリーグ | Yoda Norimoto | Mimura Tomoyasu | B+R | 2004-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BZkA2tZ247hrSxP5rcbHrA%3D%3D) | 
-| 第29期碁聖戦挑戦手合五番勝負第3局 | Yoda Norimoto | Yamada Kimio | B+R | 2004-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F0iJpD40ULwLyexzY1PDuQ%3D%3D) | 
-| 第29期碁聖戦挑戦手合五番勝負第2局 | Yamada Kimio | Yoda Norimoto | W+R | 2004-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MZG4uv6QYYnSzFuFbns1dQ%3D%3D) | 
-| 第59期本因坊戦挑戦手合七番勝負第6局 | Cho U | Yoda Norimoto | B+0.5 | 2004-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rlaosSKT%2BWfu%2FdnKnYQ5yA%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯決勝 | Park Yeonghun | Yoda Norimoto | B+1.5 | 2004-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m14E0JfNnu07qaS2HyQNHQ%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯準決勝 | Yoda Norimoto | Song Taekon | B+R | 2004-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PAhM3C3oQCt04HpDVIHW2w%3D%3D) | 
-| 第29期碁聖戦挑戦手合五番勝負第1局 | Yoda Norimoto | Yamada Kimio | W+0.5 | 2004-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WlcvWabDPYiLC9diR5RvGQ%3D%3D) | 
-| 第59期本因坊戦挑戦手合七番勝負第5局 | Yoda Norimoto | Cho U | B+R | 2004-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l%2F%2FBnWKxvTNGi%2BoWhd8R9w%3D%3D) | 
-| 第59期本因坊戦挑戦手合七番勝負第4局 | Cho U | Yoda Norimoto | B+7.5 | 2004-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iPjOmdzYZwwry9KYtm6C8Q%3D%3D) | 
-| 第29期棋聖戦Aリーグ | Yoda Norimoto | Yamashita Keigo | B+0.5 | 2004-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R6titfaiHp9s4rRsM1gyFA%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯3回戦 | Lee Changho | Yoda Norimoto | W+3.5 | 2004-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8sh80Ctaq3mVCyiVX79jdA%3D%3D) | 
-| 第59期本因坊戦挑戦手合七番勝負第3局 | Yoda Norimoto | Cho U | B+R | 2004-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LxPrD0s6HbdeMw2m8nKg5A%3D%3D) | 
-| 第59期本因坊戦挑戦手合七番勝負第2局 | Cho U | Yoda Norimoto | B+R | 2004-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Idn%2BlmcgQ7V%2BB%2FX8cmYiUg%3D%3D) | 
-| 第52期王座戦2回戦 | Yoda Norimoto | Kono Rin | B+R | 2004-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A0qzM5HiFqdbTyFQRq7FCw%3D%3D) | 
-| 第43期十段戦本戦1回戦 | Yoda Norimoto | Yamashita Keigo | B+R | 2004-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yPyHSceIiLegNAUO%2BIRKsw%3D%3D) | 
-| 第59期本因坊戦挑戦手合七番勝負第1局 | Yoda Norimoto | Cho U | W+0.5 | 2004-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x%2FdJFpvbpxvsnvnFK1T5iA%3D%3D) | 
-| 第52期王座戦1回戦 | Kamimura Kunio | Yoda Norimoto | W+R | 2004-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V8SHWB%2BGN1%2F%2Btx%2FfTP9nQA%3D%3D) | 
-| 第5回応氏杯世界選手権2回戦 | Peng Quan | Yoda Norimoto | B+R | 2004-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ry392Uvljx8Sajcic3pQUg%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯2回戦 | Cho Hunhyun | Yoda Norimoto | W+4.5 | 2004-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JFT%2FZMyAruth17b8mnPKTg%3D%3D) | 
-| 第59期本因坊戦リーグ | Yoda Norimoto | Mimura Tomoyasu | B+2.5 | 2004-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2PGVQUabvgB8C8FhXtyPTw%3D%3D) | 
-| 第2期JALスーパー早碁1回戦（再対局） | O Meien | Yoda Norimoto | W+R | 2004-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RVyekWORY%2B0v9Q73vS0eFQ%3D%3D) | 
-| 第59期本因坊戦リーグ | Kobayashi Koichi | Yoda Norimoto | W+6.5 | 2004-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MC79fVCGNQ1tJKCNLZsuQg%3D%3D) | 
-| 第2期JALスーパー早碁1回戦 | Yoda Norimoto | O Meien | Void | 2004-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PTZNZSddEEhWNYH29%2FVI0g%3D%3D) | 
-| 第3回CSK杯囲碁アジア対抗戦第3戦 | Yoda Norimoto | Zhou Junxun | W+R | 2004-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i61CY5E7RqY5o9DQrhMxbA%3D%3D) | 
-| 第3回CSK杯囲碁アジア対抗戦第2戦 | Yoo Changhyuk | Yoda Norimoto | W+3.5 | 2004-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hkrsUcxMUieWBtk3HOtMFA%3D%3D) | 
-| 第3回CSK杯囲碁アジア対抗戦第1戦 | Wang Lei (b) | Yoda Norimoto | W+R | 2004-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5ppoPLWy2eOPo4S7DT%2FRDQ%3D%3D) | 
-| 第59期本因坊戦リーグ | O Meien | Yoda Norimoto | W+6.5 | 2004-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FxlTM42lMWvRsV%2BEaej4ww%3D%3D) | 
-| 第59期本因坊戦リーグ | Cho Sonjin | Yoda Norimoto | W+1.5 | 2004-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RXl07u6xjyn14enwkWDT8w%3D%3D) | 
-| 第30期天元戦本戦1回戦 | Yoda Norimoto | Yamada Kimio | W+R | 2004-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YYpTQxANMTm0hEdjMqIyPg%3D%3D) | 
-| 第59期本因坊戦リーグ | Yoda Norimoto | Yamashita Keigo | B+R | 2004-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4%2F5TzQ6jfjsWttNIyECM%2Fw%3D%3D) | 
-| 第42期十段戦敗者復活戦4回戦 | Yoda Norimoto | Yamada Kimio | W+R | 2003-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ryRtargwMumDwyPaqRXrBw%3D%3D) | 
-| 第59期本因坊戦リーグ | Yoda Norimoto | Mimura Tomoyasu | W+2.5 | 2003-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Au1DSTQJGRL%2BFEGFKhtDDQ%3D%3D) | 
-| 第59期本因坊戦リーグ | Yoda Norimoto | Kato Masao | B+R | 2003-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I6qbLUaDyoZYzT8cYlpSQg%3D%3D) | 
-| 第42期十段戦本戦勝者組決勝 | Cho U | Yoda Norimoto | B+6.5 | 2003-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vOkyT4I8MwXFAOzUHP%2FExg%3D%3D) | 
-| 第59期本因坊戦リーグ | Yoda Norimoto | O Rissei | W+2.5 | 2003-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9CIauj5RnHpk%2BCSmDdUJCA%3D%3D) | 
-| 第28期名人戦挑戦手合七番勝負第5局 | Yoda Norimoto | Yamashita Keigo | B+R | 2003-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pIV%2BtgKprDXlZsRf5n%2FUEg%3D%3D) | 
-| 第28期名人戦挑戦手合七番勝負第4局 | Yamashita Keigo | Yoda Norimoto | W+3.5 | 2003-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AsUn4Ve6sf9SPGwRJZymcA%3D%3D) | 
-| 第28期棋聖戦Bリーグ | Yoda Norimoto | O Meien | W+0.5 | 2003-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FmBmmieuFNJA4BLfO48E1g%3D%3D) | 
-| 第28期名人戦挑戦手合七番勝負第3局 | Yoda Norimoto | Yamashita Keigo | W+2.5 | 2003-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZlG9DyV%2B%2BEN1NTZLbmc4ZA%3D%3D) | 
-| 第28期名人戦挑戦手合七番勝負第2局 | Yamashita Keigo | Yoda Norimoto | W+R | 2003-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ShMZtXF0DKLyX0Y6UNWExg%3D%3D) | 
-| 第28期棋聖戦Bリーグ | Awaji Shuzo | Yoda Norimoto | W+5.5 | 2003-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AqDZZiGW9PyejQvE4VPWkQ%3D%3D) | 
-| 第42期十段戦本戦3回戦 | Yoda Norimoto | Hashimoto Yujiro | B+R | 2003-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1FccUuYlKxYWJP%2Fp2pFIFg%3D%3D) | 
-| 第28期名人戦挑戦手合七番勝負第1局 | Yoda Norimoto | Yamashita Keigo | B+7.5 | 2003-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OlXqjn9555qrCrMhlaRmOQ%3D%3D) | 
-| 第28期碁聖戦挑戦手合五番勝負第5局 | Kobayashi Koichi | Yoda Norimoto | W+3.5 | 2003-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BfNmqHLoSZ9ihSLApqAcTw%3D%3D) | 
-| 第28期碁聖戦挑戦手合五番勝負第4局 | Kobayashi Koichi | Yoda Norimoto | B+0.5 | 2003-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VaCCjc0AX4P1CoHt%2Bk3kIw%3D%3D) | 
-| 第28期棋聖戦Bリーグ | Ryu Shikun | Yoda Norimoto | W+1.5 | 2003-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=to19lo4iPzaIHBnTZ%2B59VA%3D%3D) | 
-| 第28期碁聖戦挑戦手合五番勝負第3局 | Yoda Norimoto | Kobayashi Koichi | W+4.5 | 2003-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l91EfBcNaIHi1R86XnoBxg%3D%3D) | 
-| 第28期碁聖戦挑戦手合五番勝負第2局 | Kobayashi Koichi | Yoda Norimoto | W+8.5 | 2003-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hizJt7ZazCe4Q3%2BxStTDYw%3D%3D) | 
-| 第28期棋聖戦Bリーグ | Cho Chikun | Yoda Norimoto | B+6.5 | 2003-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hw8PKPEBMXGPwuHrGas%2BmA%3D%3D) | 
-| 第16回世界囲碁選手権富士通杯三位決定戦 | Yoda Norimoto | Lee Changho | W+R | 2003-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w642q0Sekk85E9vYU5%2BIQQ%3D%3D) | 
-| 第16回世界囲碁選手権富士通杯準決勝 | Yoda Norimoto | Lee Sedol | W+0.5 | 2003-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KIRw70VNxe197H1Ubo0E0w%3D%3D) | 
-| 第28期碁聖戦挑戦手合五番勝負第1局 | Yoda Norimoto | Kobayashi Koichi | B+10.5 | 2003-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IP0dqrUWBcaFa8DOLnEHUg%3D%3D) | 
-| 第1期JALスーパー早碁1回戦 | Kobayashi Koichi | Yoda Norimoto | B+6.5 | 2003-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eeBbTgSex2GGJjHfJe%2BvOQ%3D%3D) | 
-| 第28期棋聖戦Bリーグ | Yoda Norimoto | Cho U | W+R | 2003-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DaIeZvfdhzutUvkFFOzU6g%3D%3D) | 
-| 第16回世界囲碁選手権富士通杯3回戦 | Yoo Changhyuk | Yoda Norimoto | W+R | 2003-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PjmSEG6xdcDv4O2kgV7SfQ%3D%3D) | 
-| 第28期碁聖戦挑戦者決定戦 | Akiyama Jiro | Yoda Norimoto | W+2.5 | 2003-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7c%2BvPppNyA395qckSlvIhw%3D%3D) | 
-| 第23期NECカップ囲碁トーナメント戦1回戦 | Yoda Norimoto | Yamashita Keigo | W+4.5 | 2003-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vLhXzK90nvrzuevoEFq0rQ%3D%3D) | 
-| 第51期王座戦2回戦 | Cho U | Yoda Norimoto | B+R | 2003-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=powXvNlj9thGDFCalsTikw%3D%3D) | 
-| 第28期碁聖戦本戦準決勝 | Michael Redmond | Yoda Norimoto | W+8.5 | 2003-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HbGUgYeRmrZlotMwCCdNng%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第3戦 | Yoda Norimoto | Dong Yan | B+R | 2003-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WdpKsg7mmlu7FKE2KKYtrw%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第2戦 | Yoda Norimoto | Lee Sedol | B+R | 2003-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DKbN5kQ5azcav6hAmqDa8w%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第1戦 | Yoda Norimoto | O Rissei | B+R | 2003-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WGXYKR%2BrjjPGDwtGZ2tbYg%3D%3D) | 
-| 第16回世界囲碁選手権富士通杯2回戦 | Yoda Norimoto | Wang Lei (b) | B+R | 2003-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uZ%2FYjHAVJH%2FGmwmOWoEljQ%3D%3D) | 
-| 第16回世界囲碁選手権富士通杯1回戦 | Yoda Norimoto | Chang Hao | B+R | 2003-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zG4RBhY3DxOwFyZtJlXeBg%3D%3D) | 
-| 第28期碁聖戦本戦3回戦 | Yoda Norimoto | Nakano Hironari | B+R | 2003-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a7k8x2heXgDQK5DVjVXRMw%3D%3D) | 
-| 第51期王座戦1回戦 | Yoda Norimoto | Izumitani Hideo | B+4.5 | 2003-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1d8kcN3lW0Gyh18VOCxFBw%3D%3D) | 
-| 第29期天元戦本戦1回戦 | Yoda Norimoto | Yokota Shigeaki | W+R | 2003-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i85d%2B29zvQnauEwjkIU9PA%3D%3D) | 
-| 第4回農心辛ラーメン杯世界囲碁最強戦第12戦 | Hu Yaoyu | Yoda Norimoto | B+0.5 | 2003-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MKSJWmQDjxim%2FxYHW7oIpg%3D%3D) | 
-| 第28期碁聖戦本戦2回戦 | Sasaka Shiro | Yoda Norimoto | W+R | 2003-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BRo4KZ4oe9lp7x9ah3pd3A%3D%3D) | 
-| 第28期碁聖戦本戦1回戦 | Kato Masao | Yoda Norimoto | W+13.5 | 2002-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qBngqi%2FtSRskcl4MRAwIHQ%3D%3D) | 
-| 第5回LG杯世界棋王戦1回戦 | Yang Keon | Yoda Norimoto | B+2.5 | 2000-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xbV%2BMvq%2BKVKuomsDYRfnSw%3D%3D) | 
-| 第4回応氏杯世界選手権3回戦 | Lee Changho | Yoda Norimoto | B+3 | 2000-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=teq9kS7mj3jngOamvQibaw%3D%3D) | 
-| 第4回応氏杯世界選手権2回戦 | Yoda Norimoto | Shao Weigang | B+1 | 2000-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H8fn%2FGef6IQ2xYM5qH9xTw%3D%3D) | 
-| 第1回農心辛ラーメン杯世界囲碁最強戦第8戦 | Yoda Norimoto | Cho Hunhyun | W+R | 2000-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i3vfgSuBwzmdYSaLzok9zg%3D%3D) | 
-| 第1回農心辛ラーメン杯世界囲碁最強戦第7戦 | Yoda Norimoto | Wang Lei (b) | B+R | 2000-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2AsPVTP3ZaP57VHCS5AYvQ%3D%3D) | 
-| 第1回農心辛ラーメン杯世界囲碁最強戦第6戦 | Yoda Norimoto | missing | B+11.5 | 2000-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FDxZ6gL56MZQi2y2kEyegQ%3D%3D) | 
-| 第4期三星杯1回戦 | An Joyeong | Yoda Norimoto | B+R | 1999-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fYuCTaq1Rkb4f6oSuK1kmQ%3D%3D) | 
-| 第4回LG杯世界棋王戦2回戦 | Yoda Norimoto | Wang Lei (b) | W+2.5 | 1999-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jH6h20qnkncq0EGBbGunEg%3D%3D) | 
-| 第3回応氏杯世界選手権決勝五番勝負第4局 | Yoda Norimoto | Yoo Changhyuk | W+5 | 1996-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gsVunT7aLkG7ApL%2Bg%2FChyg%3D%3D) | 
-| 第3回応氏杯世界選手権決勝五番勝負第3局 | Yoo Changhyuk | Yoda Norimoto | B+5 | 1996-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PQ4pxLa8rEvGjfdSoF4%2Fjw%3D%3D) | 
-| 第3回応氏杯世界選手権決勝五番勝負第2局 | Yoda Norimoto | Yoo Changhyuk | W+3 | 1996-10-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K5tUBl%2BH5vwdV%2FWsJBw7lg%3D%3D) | 
-| 第3回応氏杯世界選手権決勝五番勝負第1局 | Yoo Changhyuk | Yoda Norimoto | W+3 | 1996-10-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0hJfxkbM4%2BF4y8njwiJy%2BA%3D%3D) | 
-| 第3回応氏杯世界選手権準決勝三番勝負第3局 | Yoda Norimoto | Cho Chikun | B+R | 1996-08-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CbVI06%2FelwMa8K0a8nRxMQ%3D%3D) | 
-| 第3回応氏杯世界選手権準決勝三番勝負第2局 | Cho Chikun | Yoda Norimoto | W+R | 1996-08-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=70fYt175M3ePGdN5c1ORkg%3D%3D) | 
-| 第3回応氏杯世界選手権準決勝三番勝負第1局 | Yoda Norimoto | Cho Chikun | W+3 | 1996-08-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QzkUa8RN8Brm0d46pgZxaQ%3D%3D) | 
-| 第3回応氏杯世界選手権3回戦 | Yoda Norimoto | Cho Hunhyun | B+3 | 1996-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fAcDoeiHusym83oAjsDizQ%3D%3D) | 
-| 第3回応氏杯世界選手権2回戦 | Seo Bongsoo | Yoda Norimoto | W+R | 1996-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bqucSjVH%2BWzEt1Hn3uB1pQ%3D%3D) | 
-| 第3回応氏杯世界選手権1回戦 | Yoda Norimoto | Michael Redmond | B+7 | 1996-04-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5pMH6%2FhGIdx8YQScIT22Tw%3D%3D) | 
-| 第2回応氏杯世界選手権2回戦 | Rin Kaiho | Yoda Norimoto | B+1 | 1992-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5HAmESFuQ2eZyiu%2FPi1HUA%3D%3D) | 
-| 第2回応氏杯世界選手権1回戦 | Wu Songsheng | Yoda Norimoto | W+1 | 1992-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0FKGXGH3T3z3zfYUvxX4oQ%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-10 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Mutsuura Yuta | Win | B+R | 6.5 | 3190 | 24 | 
+| 2021-05-10 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Onishi Ryuhei | Win | B+R | 6.5 | 3166 | 16 | 
+| 2021-04-26 | 第60期十段戦予選 | Yoda Norimoto |  | Win | B+R | 6.5 | 3150 | 0 | 
+| 2021-04-01 | 第46期棋聖戦Aリーグ | Cho U | Yoda Norimoto | Win | W+R | 6.5 | 3150 | -82 | 
+| 2021-03-18 | 第69期王座戦予選 | Ida Atsushi | Yoda Norimoto | Lose | B+R | 6.5 | 3232 | 6 | 
+| 2021-03-08 | 第46期棋聖戦Aリーグ | Shibano Toramaru | Yoda Norimoto | Lose | B+6.5 | 6.5 | 3226 | -62 | 
+| 2021-02-18 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Suzuki Shinji | Lose | W+0.5 | 6.5 | 3288 | -72 | 
+| 2021-01-28 | 第69期王座戦予選 | Yoda Norimoto | Kim Sujun | Win | B+0.5 | 6.5 | 3360 | 35 | 
+| 2021-01-23 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第2ラウンド  | Yoda Norimoto | Chang Hao | Lose | W+R | 6.5 | 3325 | -4 | 
+| 2021-01-22 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第2ラウンド  | Yoda Norimoto | Lee Changho | Win | B+1.5 | 6.5 | 3329 | -47 | 
+| 2021-01-17 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第1ラウンド  | Cho Hunhyun | Yoda Norimoto | Lose | B+R | 6.5 | 3376 | 22 | 
+| 2021-01-16 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第1ラウンド  | Nie Weiping | Yoda Norimoto | Lose | B+4.5 | 6.5 | 3354 | -12 | 
+| 2020-12-24 | 第69期王座戦予選 | Yoda Norimoto | Yamada Takuji | Win | B+2.5 | 6.5 | 3366 | -33 | 
+| 2020-12-17 | 第47期天元戦予選 | Yamashita Keigo | Yoda Norimoto | Lose | B+R | 6.5 | 3399 | -28 | 
+| 2020-11-05 | 第46期碁聖戦予選 | Cho Chikun | Yoda Norimoto | Win | W+R | 6.5 | 3427 | 1 | 
+| 2020-10-29 | 第47期天元戦予選 | Yoda Norimoto | Ishida Yoshio | Win | B+R | 6.5 | 3426 | 33 | 
+| 2020-10-08 | 第69期王座戦予選 | Yoda Norimoto | Sakai Maki | Win | B+R | 6.5 | 3393 | 103 | 
+| 2020-09-17 | 第46期碁聖戦予選 | Yoda Norimoto | Mukai Chiaki | Win | B+R | 6.5 | 3290 | 23 | 
+| 2020-08-27 | 第45期棋聖戦Aリーグ | Motoki Katsuya | Yoda Norimoto | Win | W+4.5 | 6.5 | 3267 | 148 | 
+| 2020-08-06 | 第46期名人戦予選 | Hirata Tomoya | Yoda Norimoto | Lose | B+0.5 | 6.5 | 3119 | 0 | 
+| 2020-07-30 | 第45期棋聖戦Aリーグ | Yoda Norimoto | Shida Tatsuya | Win | B+0.5 | 6.5 | 3119 | 12 | 
+| 2020-07-23 | 第45期棋聖戦Aリーグ | Yamashita Keigo | Yoda Norimoto | Lose | B+3.5 | 6.5 | 3107 | -69 | 
+| 2020-07-16 | 第46期名人戦予選 | Fujisawa Rina | Yoda Norimoto | Win | W+9.5 | 6.5 | 3176 | 178 | 
+| 2020-06-25 | 第45期棋聖戦Aリーグ | Onishi Ryuhei | Yoda Norimoto | Win | W+3.5 | 6.5 | 2998 | 98 | 
+| 2020-06-18 | 第45期棋聖戦Aリーグ | Yu Zhengqi | Yoda Norimoto | Lose | B+1.5 | 6.5 | 2900 | 67 | 
+| 2020-04-02 | 第46期名人戦予選 | Cho Sonjin | Yoda Norimoto | Win | W+R | 6.5 | 2833 | -197 | 
+| 2020-02-06 | 第45期棋聖戦Aリーグ | Yoda Norimoto | So Yokoku | Win | B+R | 6.5 | 3030 | 7 | 
+| 2020-01-30 | 第76期本因坊戦予選 | Yao Zhiteng | Yoda Norimoto | Lose | B+0.5 | 6.5 | 3023 | -51 | 
+| 2019-12-26 | 第59期十段戦予選 | Suzuki Yoshimichi | Yoda Norimoto | Win | W+R | 6.5 | 3074 | 298 | 
+| 2019-12-19 | 第46期天元戦予選 | O Meien | Yoda Norimoto | Win | W+R | 6.5 | 2776 | 8 | 
+| 2019-12-12 | 第76期本因坊戦予選 | Koyama Mitsuru | Yoda Norimoto | Win | W+R | 6.5 | 2768 | -4 | 
+| 2019-10-10 | 第46期天元戦予選 | Tsuneishi Takashi | Yoda Norimoto | Win | W+R | 6.5 | 2772 | -34 | 
+| 2019-10-03 | 第45期碁聖戦予選 | Yoda Norimoto | Ko Iso | Lose | W+R | 6.5 | 2806 | -37 | 
+| 2019-09-26 | 第44期棋聖戦Bリーグプレーオフ | Yoda Norimoto | Motoki Katsuya | Lose | W+4.5 | 6.5 | 2843 | 34 | 
+| 2019-09-12 | 第44期棋聖戦Bリーグ | Hane Naoki | Yoda Norimoto | Win | W+R | 6.5 | 2809 | 36 | 
+| 2019-08-15 | 第45期碁聖戦予選 | Yoda Norimoto | Uchida Shuhei | Win | B+R | 6.5 | 2773 | -64 | 
+| 2019-07-25 | 第44期棋聖戦Bリーグ | Yoda Norimoto | Kobayashi Satoru | Win | B+R | 6.5 | 2837 | 42 | 
+| 2019-07-11 | 第45期名人戦予選 | Yoda Norimoto | Ogaki Yusaku | Lose | W+4.5 | 6.5 | 2795 | -7 | 
+| 2019-07-04 | 第44期棋聖戦Bリーグ | Yoda Norimoto | Tsuruyama Atsushi | Lose | W+4.5 | 6.5 | 2802 | 10 | 
+| 2019-06-12 | 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | Yu Bin | Yoda Norimoto | Lose | B+6.5 | 6.5 | 2792 | -18 | 
+| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会個人戦準決勝 | Yoda Norimoto | Yu Bin | Lose | W+3.5 | 6.5 | 2810 | 0 | 
+| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | Yoo Changhyuk | Yoda Norimoto | Win | W+R | 6.5 | 2810 | 17 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | Yoda Norimoto | Takemiya Masaki | Win | B+T | 6.5 | 2793 | 0 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | O Meien | Yoda Norimoto | Win | W+4.5 | 6.5 | 2793 | 13 | 
+| 2019-06-08 | 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Yoda Norimoto | Kim Kihun | Win | B+3.5 | 6.5 | 2780 | 28 | 
+| 2019-06-06 | 第9回フマキラー囲碁マスターズカップ2回戦 | Yoda Norimoto | O Rissei | Win | B+3.5 | 6.5 | 2752 | 53 | 
+| 2019-05-30 | 第44期棋聖戦Bリーグ | Koike Yoshihiro | Yoda Norimoto | Lose | B+0.5 | 6.5 | 2699 | 4 | 
+| 2019-05-23 | 第45期碁聖戦予選 | Komatsu Fujio | Yoda Norimoto | Win | W+6.5 | 6.5 | 2695 | -37 | 
+| 2019-05-09 | 第45期名人戦予選 | Yoda Norimoto | Mochizuki Kenichi | Win | B+5.5 | 6.5 | 2732 | 13 | 
+| 2019-05-02 | 第9回フマキラー囲碁マスターズカップ1回戦 | Yoda Norimoto | O Meien | Win | B+7.5 | 6.5 | 2719 | -28 | 
+| 2019-04-25 | 第44期棋聖戦Bリーグ | Yoda Norimoto | Onishi Ryuhei | Win | B+R | 6.5 | 2747 | 38 | 
+| 2019-04-18 | 第45期名人戦予選 | Miyazawa Goro | Yoda Norimoto | Win | W+R | 6.5 | 2709 | -17 | 
+| 2019-04-11 | 第75期本因坊戦予選 | Yoda Norimoto | Seki Kotaro | Lose | W+R | 6.5 | 2726 | -10 | 
+| 2019-04-04 | 第44期棋聖戦Bリーグ | Yoda Norimoto |  | Win | B+3.5 | 6.5 | 2736 | 30 | 
+| 2019-03-28 | 第45期名人戦予選 | Yoda Norimoto | Takahashi Hideo | Win | B+R | 6.5 | 2706 | 36 | 
+| 2019-03-21 | 第6回グランドチャンピオン戦1回戦 | Ida Atsushi | Yoda Norimoto | Lose | B+R | 6.5 | 2670 | -2 | 
+| 2019-03-14 | 第44期棋聖戦Bリーグ | Numadate Sakiya | Yoda Norimoto | Win | W+8.5 | 6.5 | 2672 | -143 | 
+| 2019-01-17 | 第4回百霊杯元老組決勝 | Yoda Norimoto | Ma Xiaochun | Win | B+R | 7.5 | 2815 | 16 | 
+| 2018-12-27 | 第75期本因坊戦予選 | Yoda Norimoto | Ando Kazushige | Win | B+R | 6.5 | 2799 | 1 | 
+| 2018-11-18 | 第4回TWTテンセント囲碁選手権8強戦 | Fan Tingyu | Yoda Norimoto | Lose | B+3¾ | 7.5 | 2798 | -10 | 
+| 2018-11-01 | 第67期王座戦予選 | Rin Kanketsu | Yoda Norimoto | Lose | B+2.5 | 6.5 | 2808 | -10 | 
+| 2018-10-11 | 2018樟樹・中国葯都杯中日韓囲碁大師戦決勝 | Chang Hao | Yoda Norimoto | Win | W+R | 7.5 | 2818 | 15 | 
+| 2018-10-10 | 2018樟樹・中国葯都杯中日韓囲碁大師戦第2局 | Yoda Norimoto | Lee Changho | Win | B+¾ | 7.5 | 2803 | 0 | 
+| 2018-10-10 | 2018樟樹・中国葯都杯中日韓囲碁大師戦第1局 | Chang Hao | Yoda Norimoto | Lose | B+2.5 | 7.5 | 2803 | 34 | 
+| 2018-10-04 | 第67期王座戦予選 | Onishi Ryuhei | Yoda Norimoto | Win | W+R | 6.5 | 2769 | 58 | 
+| 2018-09-13 | 第45期天元戦予選 | Yoda Norimoto | Fujita Akihiko | Lose | W+R | 6.5 | 2711 | 6 | 
+| 2018-09-06 | 第43期棋聖戦Aリーグ | Yoda Norimoto | Shida Tatsuya | Lose | W+0.5 | 6.5 | 2705 | -9 | 
+| 2018-08-16 | 第43期棋聖戦Aリーグ | Yu Zhengqi | Yoda Norimoto | Lose | B+4.5 | 6.5 | 2714 | -48 | 
+| 2018-08-09 | 第44期碁聖戦予選 | Yoda Norimoto | Anzai Nobuaki | Lose | W+R | 6.5 | 2762 | -39 | 
+| 2018-08-02 | 第43期棋聖戦Aリーグ | So Yokoku | Yoda Norimoto | Win | W+R | 7.5 | 2801 | 3 | 
+| 2018-07-26 | 第4回百霊杯世界オープン戦シニア戦準決勝 | Chang Hao | Yoda Norimoto | Win | W+R | 7.5 | 2798 | 21 | 
+| 2018-07-24 | 第4回百霊杯世界オープン戦シニア戦1回戦 | Yoda Norimoto | Liu Xiaoguang | Win | B+3¾ | 7.5 | 2777 | 1 | 
+| 2018-07-21 | 第8回フマキラー囲碁マスターズカップ決勝  | Kataoka Satoshi | Yoda Norimoto | Win | W+R | 6.5 | 2776 | 60 | 
+| 2018-07-12 | 第44期名人戦予選 | Yoda Norimoto | Seki Tatsuya | Lose | W+0.5 | 6.5 | 2716 | 1 | 
+| 2018-07-07 | 第8回フマキラー囲碁マスターズカップ準決勝  | O Rissei | Yoda Norimoto | Win | W+2.5 | 6.5 | 2715 | -68 | 
+| 2018-06-21 | 第57期十段戦予選 | Mochizuki Kenichi | Yoda Norimoto | Lose | B+R | 6.5 | 2783 | -29 | 
+| 2018-05-17 | 第8回フマキラー囲碁マスターズカップ2回戦  | Kobayashi Satoru | Yoda Norimoto | Win | W+R | 6.5 | 2812 | 19 | 
+| 2018-05-10 | 第43期棋聖戦Aリーグ | Yoda Norimoto | Ko Iso | Lose | W+R | 6.5 | 2793 | -16 | 
+| 2018-05-03 | 第74期本因坊戦予選 | Fujita Akihiko | Yoda Norimoto | Lose | B+4.5 | 6.5 | 2809 | -65 | 
+| 2018-04-19 | 第43期棋聖戦Aリーグ | Kobayashi Satoru | Yoda Norimoto | Lose | B+R | 6.5 | 2874 | -31 | 
+| 2018-04-05 | 第8回フマキラー囲碁マスターズカップ1回戦 | Yoda Norimoto | Ishida Yoshio | Win | B+4.5 | 6.5 | 2905 | -17 | 
+| 2018-03-27 | 第2回中日韓囲碁元老戦1回戦 | Cao Dayuan | Yoda Norimoto | Lose | B+1¾ | 7.5 | 2922 | -49 | 
+| 2018-02-15 | 第57期十段戦予選 | Yoda Norimoto | Komatsu Hideki | Win | B+2.5 | 6.5 | 2971 | 102 | 
+| 2017-11-23 | 第66期王座戦予選 | Rin Shien | Yoda Norimoto | Lose | B+1.5 | 6.5 | 2869 | -22 | 
+| 2017-09-21 | 第44期天元戦予選 | Yoda Norimoto | Inaba Takahiro | Lose | W+R | 6.5 | 2891 | -22 | 
+| 2017-09-14 | 第43期碁聖戦予選 | So Yokoku | Yoda Norimoto | Lose | B+R | 6.5 | 2913 | -13 | 
+| 2017-09-07 | 第42期棋聖戦　Aリーグ7回戦 | Takao Shinji | Yoda Norimoto | Lose | B+0.5 | 6.5 | 2926 | -2 | 
+| 2017-08-24 | 第43期名人戦　予選A | Yoda Norimoto | Koyama Kuya | Lose | W+2.5 | 6.5 | 2928 | 14 | 
+| 2017-08-12 | 阪急電鉄納涼囲碁まつり公開対局 | Yoda Norimoto | Takao Shinji | Win | B+R | 6.5 | 2914 | 0 | 
+| 2017-08-12 | 阪急電鉄納涼囲碁まつり公開対局 | Yoda Norimoto | Yamashita Keigo | Win | B+R | 6.5 | 2914 | 93 | 
+| 2017-07-27 | 第43期碁聖戦　予選A | Yoda Norimoto | Mochizuki Kenichi | Win | B+0.5 | 6.5 | 2821 | -7 | 
+| 2017-07-20 | 第42期棋聖戦　Aリーグ6回戦 | Yoda Norimoto | Ryu Shikun | Lose | W+2.5 | 6.5 | 2828 | -30 | 
+| 2017-06-29 | 第42期棋聖戦　Aリーグ5回戦 | Hsu Chiayuan | Yoda Norimoto | Win | W+2.5 | 6.5 | 2858 | 4 | 
+| 2017-06-22 | 第73期本因坊戦　最終予選1回戦 | Ohashi Hirofumi | Yoda Norimoto | Win | W+R | 6.5 | 2854 | -29 | 
+| 2017-06-08 | 第42期棋聖戦　Aリーグ4回戦 | Yoda Norimoto | Hane Naoki | Win | B+1.5 | 6.5 | 2883 | 6 | 
+| 2017-05-25 | 第56期十段戦　最終予選 | Yoda Norimoto | Kim Sujun | Lose | W+R | 6.5 | 2877 | -35 | 
+| 2017-05-11 | 第42期棋聖戦　Aリーグ3回戦 | Yamashiro Hiroshi | Yoda Norimoto | Win | W+R | 6.5 | 2912 | 42 | 
+| 2017-05-04 | 第7回囲碁マスターズカップ　本戦2回戦 | Yoda Norimoto | Ishida Yoshio | Lose | W+0.5 | 6.5 | 2870 | -52 | 
+| 2017-04-26 | 第1回中日韓囲碁元老戦準決勝 | Yoda Norimoto | Cao Dayuan | Lose | W+0.5 | 7.5 | 2922 | 5 | 
+| 2017-04-25 | 第1回中日韓囲碁元老戦2回戦 | Yoda Norimoto | Ma Xiaochun | Win | B+1.5 | 7.5 | 2917 | 0 | 
+| 2017-04-25 | 第1回中日韓囲碁元老戦1回戦 | Yang Jaeho | Yoda Norimoto | Win | W+R | 7.5 | 2917 | 21 | 
+| 2017-04-13 | 第42期棋聖戦　Aリーグ2回戦 | Yoda Norimoto | Yuki Satoshi | Win | B+2.5 | 6.5 | 2896 | 215 | 
+| 2017-03-23 | 第73期本因坊戦　予選A決勝 | Yoda Norimoto | Yamada Takuji | Win | B+0.5 | 6.5 | 2681 | -49 | 
+| 2017-03-16 | 第7回マスターズカップ　本戦1回戦 | Yoda Norimoto | Hikosaka Naoto | Win | B+0.5 | 6.5 | 2730 | 20 | 
+| 2017-03-09 | 第73期本因坊戦　予選A | Ohba Junya | Yoda Norimoto | Win | W+R | 6.5 | 2710 | -1 | 
+| 2017-03-02 | 第42期棋聖戦　Aリーグ1回戦 | Cho Chikun | Yoda Norimoto | Lose | B+R | 6.5 | 2711 | 2 | 
+| 2016-10-27 | 第43期天元戦　予選A決勝 | Yoda Norimoto | Lee Ishu | Lose | W+R | 6.5 | 2709 | -44 | 
+| 2016-10-20 | 第65期王座戦　予選A特選譜第6局 | Cho Riyu | Yoda Norimoto | Lose | B+3.5 | 6.5 | 2753 | -71 | 
+| 2016-10-13 | 第55期十段戦本戦1回戦 | Yoda Norimoto | Adachi Toshimasa | Lose | W+R | 6.5 | 2824 | 16 | 
+| 2016-10-06 | 第43期天元戦予選 | Yoda Norimoto | Sun Zhe | Win | B+1.5 | 6.5 | 2808 | 16 | 
+| 2016-09-22 | 第65期王座戦予選 | Yoda Norimoto | Arimura Hiroshi | Win | B+3.5 | 6.5 | 2792 | 135 | 
+| 2016-08-18 | 第55期十段戦予選 | Numadate Sakiya | Yoda Norimoto | Win | W+R | 6.5 | 2657 | 51 | 
+| 2016-08-11 | 第41期棋聖戦Sリーグ | Murakawa Daisuke | Yoda Norimoto | Lose | B+4.5 | 6.5 | 2606 | -70 | 
+| 2016-07-28 | 第72期本因坊戦　最終予選第4局 | Hane Naoki | Yoda Norimoto | Lose | B+R | 6.5 | 2676 | -119 | 
+| 2016-07-21 | 第42期碁聖戦予選 | Yoda Norimoto | Michael Redmond | Win | B+8.5 | 6.5 | 2795 | 29 | 
+| 2016-07-14 | 第42期名人戦予選 | Obuchi Kotaro | Yoda Norimoto | Win | W+R | 6.5 | 2766 | 4 | 
+| 2016-07-07 | 第41期棋聖戦Sリーグ | Yoda Norimoto | Yamashita Keigo | Lose | W+1.5 | 6.5 | 2762 | 6 | 
+| 2016-06-30 | 第43期天元戦予選 | Kenmochi Joe | Yoda Norimoto | Win | W+R | 6.5 | 2756 | 10 | 
+| 2016-06-23 | 第41期棋聖戦Sリーグ | Yoda Norimoto | Takao Shinji | Win | B+0.5 | 6.5 | 2746 | 76 | 
+| 2016-06-16 | 第72期本因坊戦予選 | Cho Riyu | Yoda Norimoto | Win | W+2.5 | 6.5 | 2670 | -18 | 
+| 2016-05-12 | 第41期棋聖戦Sリーグ | Yoda Norimoto | Ichiriki Ryo | Lose | W+4.5 | 6.5 | 2688 | 42 | 
+| 2016-03-17 | 第72期本因坊戦予選 | Uchida Shuhei | Yoda Norimoto | Win | W+R | 6.5 | 2646 | 2 | 
+| 2016-02-25 | 第72期本因坊戦予選 | Sakai Maki | Yoda Norimoto | Win | W+R | 6.5 | 2644 | -57 | 
+| 2016-01-21 | 第64期王座戦予選 | Yoda Norimoto | Adachi Toshimasa | Lose | W+4.5 | 6.5 | 2701 | -39 | 
+| 2015-11-26 | 第64期王座戦予選 | Yoda Norimoto | Uchida Shuhei | Win | B+R | 6.5 | 2740 | 67 | 
+| 2015-10-08 | 第54期十段戦1回戦 | Yoda Norimoto | Yamashita Keigo | Lose | W+R | 6.5 | 2673 | -53 | 
+| 2015-09-24 | 第54期十段戦予選 | Nakano Hironari | Yoda Norimoto | Win | W+R | 6.5 | 2726 | -14 | 
+| 2015-09-10 | 第20回三星火災杯世界囲碁マスターズ1回戦H3 |  | Yoda Norimoto | Lose | B+R | 6.5 | 2740 | -27 | 
+| 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦H2 | Benjamin Lockhart | Yoda Norimoto | Win | W+R | 6.5 | 2767 | 9 | 
+| 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦H1 | Yoda Norimoto | Park Junghwan | Lose | W+0.5 | 6.5 | 2758 | 22 | 
+| 2015-09-03 | 第40期棋聖戦Sリーグ | Yoda Norimoto | Yamashita Keigo | Lose | W+2.5 | 6.5 | 2736 | -78 | 
+| 2015-08-27 | 第41期名人戦予選 | Yoda Norimoto | Rin Kanketsu | Lose | W+3.5 | 6.5 | 2814 | -36 | 
+| 2015-08-20 | 第40期棋聖戦Sリーグ | Yamashiro Hiroshi | Yoda Norimoto | Lose | B+0.5 | 6.5 | 2850 | -100 | 
+| 2015-07-23 | 第41期名人戦予選 | Yoda Norimoto | Han Zenki | Win | B+R | 6.5 | 2950 | -8 | 
+| 2015-07-16 | 第54期十段戦予選 | So Yokoku | Yoda Norimoto | Win | W+R | 6.5 | 2958 | 2 | 
+| 2015-07-09 | 第40期棋聖戦Sリーグ | Yoda Norimoto | Takao Shinji | Win | B+0.5 | 6.5 | 2956 | -99 | 
+| 2015-06-18 | 第71期本因坊戦予選 | Yoda Norimoto | Hirata Tomoya | Lose | W+0.5 | 6.5 | 3055 | -73 | 
+| 2015-06-11 | 第40期棋聖戦Sリーグ | Murakawa Daisuke | Yoda Norimoto | Win | W+R | 6.5 | 3128 | 30 | 
+| 2015-05-28 | 第71期本因坊戦予選 | Mitani Tetsuya | Yoda Norimoto | Win | W+R | 6.5 | 3098 | -31 | 
+| 2015-05-07 | 第40期棋聖戦Sリーグ | Yoda Norimoto | Kobayashi Satoru | Win | B+R | 6.5 | 3129 | 34 | 
+| 2015-04-30 | 第63期王座戦予選 | Kono Rin | Yoda Norimoto | Lose | B+5.5 | 6.5 | 3095 | -4 | 
+| 2015-04-09 | 第71期本因坊戦予選 | Yoda Norimoto | Arimura Hiroshi | Win | B+R | 6.5 | 3099 | -250 | 
+| 2015-02-12 | 第40期碁聖戦本戦2回戦 | Yuki Satoshi | Yoda Norimoto | Lose | B+R | 6.5 | 3349 | -47 | 
+| 2015-01-29 | 第41期天元戦本戦1回戦 | Yamashiro Hiroshi | Yoda Norimoto | Lose | B+3.5 | 6.5 | 3396 | 33 | 
+| 2014-12-25 | 第40期碁聖戦本戦1回戦 | Yoda Norimoto | O Rissei | Win | B+R | 6.5 | 3363 | 142 | 
+| 2014-10-10 | 第53期十段戦2回戦 | Yoda Norimoto | Iyama Yuta | Lose | W+R | 6.5 | 3221 | -52 | 
+| 2014-10-02 | 第39期棋聖戦Bリーグ | Yoda Norimoto | Cho Riyu | Win | B+5.5 | 6.5 | 3273 | 44 | 
+| 2014-09-04 | 第40期名人戦予選 | Suzuki Shinji | Yoda Norimoto | Lose | B+4.5 | 6.5 | 3229 | 26 | 
+| 2014-08-28 | 第40期碁聖戦予選 | Yoda Norimoto | O Meien | Win | B+R | 6.5 | 3203 | -17 | 
+| 2014-08-13 | 第40期天元戦本戦準決勝 | Yoda Norimoto | Kono Rin | Lose | W+6.5 | 6.5 | 3220 | -25 | 
+| 2014-08-07 | 第39期棋聖戦Bリーグ | Cho Chikun | Yoda Norimoto | Win | W+4.5 | 6.5 | 3245 | 6 | 
+| 2014-07-31 | 第40期天元戦本戦3回戦 | Yoda Norimoto | Seto Taiki | Win | B+R | 6.5 | 3239 | 8 | 
+| 2014-07-24 | 第39期棋聖戦Bリーグ | Yoda Norimoto | Kobayashi Satoru | Win | B+1.5 | 6.5 | 3231 | 129 | 
+| 2014-07-10 | 第53期十段戦予選 | Yoda Norimoto | Goto Shungo | Win | B+R | 6.5 | 3102 | 21 | 
+| 2014-06-26 | 第62期王座戦1回戦 | Seto Taiki | Yoda Norimoto | Lose | B+3.5 | 6.5 | 3081 | -27 | 
+| 2014-06-19 | 第39期棋聖戦Bリーグ | Yuki Satoshi | Yoda Norimoto | Win | W+R | 6.5 | 3108 | 11 | 
+| 2014-06-12 | 第40期名人戦予選 | Yoda Norimoto | Obuchi Kotaro | Win | B+R | 6.5 | 3097 | 9 | 
+| 2014-06-05 | 第40期天元戦本戦2回戦 | Yoda Norimoto | Yamashiro Hiroshi | Win | B+2.5 | 6.5 | 3088 | 122 | 
+| 2014-05-22 | 第53期十段戦予選 | Izumitani Hideo | Yoda Norimoto | Win | W+R | 6.5 | 2966 | 14 | 
+| 2014-05-15 | 第39期棋聖戦Bリーグ | Yoda Norimoto | Murakawa Daisuke | Lose | W+0.5 | 6.5 | 2952 | -131 | 
+| 2014-04-24 | 第40期碁聖戦予選 | Yoda Norimoto | Rin Kanketsu | Win | B+R | 6.5 | 3083 | 15 | 
+| 2014-04-17 | 第62期王座戦予選 | Rin Shien | Yoda Norimoto | Win | W+R | 6.5 | 3068 | 1 | 
+| 2014-04-10 | 第53期十段戦予選 | Kono Takashi | Yoda Norimoto | Win | W+R | 6.5 | 3067 | 27 | 
+| 2014-03-27 | 第70期本因坊戦予選 | Yoda Norimoto | Rin Kanketsu | Lose | W+0.5 | 6.5 | 3040 | -115 | 
+| 2014-02-27 | 第40期天元戦本戦1回戦 | Yoda Norimoto | Rin Shien | Win | B+R | 6.5 | 3155 | 43 | 
+| 2014-01-23 | 第40期天元戦予選 | Suzuki Yoshimichi | Yoda Norimoto | Win | W+8.5 | 6.5 | 3112 | -8 | 
+| 2013-11-14 | 第40期天元戦予選 | Yoda Norimoto | Horimoto Mitsunari | Win | B+0.5 | 6.5 | 3120 | 45 | 
+| 2013-10-03 | 第38期棋聖戦Aリーグ | Yoda Norimoto | Kobayashi Satoru | Win | B+2.5 | 6.5 | 3075 | -28 | 
+| 2013-08-29 | 第39期碁聖戦予選 | Kobayashi Satoru | Yoda Norimoto | Lose | B+6.5 | 6.5 | 3103 | 26 | 
+| 2013-08-15 | 第38期棋聖戦Aリーグ | Yoda Norimoto | Cho U | Win | B+1.5 | 6.5 | 3077 | 94 | 
+| 2013-07-25 | 第39期碁聖戦予選 | Yoda Norimoto | Kibe Natsuki | Win | B+R | 6.5 | 2983 | 81 | 
+| 2013-07-18 | 第69期本因坊戦予選 | Sakai Hideyuki | Yoda Norimoto | Lose | B+0.5 | 6.5 | 2902 | -38 | 
+| 2013-07-11 | 第38期棋聖戦Aリーグ | Yoda Norimoto | Kiyonari Tetsuya | Lose | W+R | 6.5 | 2940 | 35 | 
+| 2013-07-04 | 第39期名人戦予選 | Yoda Norimoto | Takemiya Masaki | Lose | W+4.5 | 6.5 | 2905 | 18 | 
+| 2013-06-27 | 第38期棋聖戦Aリーグ | Yamashiro Hiroshi | Yoda Norimoto | Win | W+R | 6.5 | 2887 | 57 | 
+| 2013-06-20 | 第39期名人戦予選 | Obuchi Kotaro | Yoda Norimoto | Win | W+5.5 | 6.5 | 2830 | 71 | 
+| 2013-06-13 | 第69期本因坊戦予選 | Yoda Norimoto | Kobayashi Satoru | Win | B+R | 6.5 | 2759 | 48 | 
+| 2013-06-06 | 第61期王座戦1回戦 | Yamashita Keigo | Yoda Norimoto | Lose | B+R | 6.5 | 2711 | -7 | 
+| 2013-05-23 | 第52期十段戦予選 | Yoda Norimoto | Kono Mitsuki | Lose | W+R | 6.5 | 2718 | -18 | 
+| 2013-05-09 | 第38期棋聖戦Aリーグ | Yamashita Keigo | Yoda Norimoto | Lose | B+5.5 | 6.5 | 2736 | -5 | 
+| 2013-04-25 | 第52期十段戦予選 | Takemiya Masaki | Yoda Norimoto | Win | W+6.5 | 6.5 | 2741 | -22 | 
+| 2013-04-11 | 第69期本因坊戦予選 | Fujisawa Rina | Yoda Norimoto | Win | W+R | 6.5 | 2763 | -38 | 
+| 2013-03-21 | 第61期王座戦予選 | Yoda Norimoto | Terayama Rei | Win | B+R | 6.5 | 2801 | 29 | 
+| 2013-03-07 | 第69期本因坊戦予選 | Adachi Toshimasa | Yoda Norimoto | Win | W+5.5 | 6.5 | 2772 | 19 | 
+| 2013-01-10 | 第39期天元戦本戦0回戦 | Rin Kanketsu | Yoda Norimoto | Lose | B+4.5 | 6.5 | 2753 | -308 | 
+| 2012-11-29 | 第39期天元戦予選 | Yoda Norimoto | Cho Chikun | Win | B+R | 6.5 | 3061 | 163 | 
+| 2012-10-18 | 第39期天元戦予選 | Yoda Norimoto | Iguchi Hideichiro | Win | B+R | 6.5 | 2898 | -1 | 
+| 2012-10-04 | 第37期棋聖戦Bリーグ | Yoda Norimoto | Awaji Shuzo | Lose | W+4.5 | 6.5 | 2899 | -72 | 
+| 2012-09-20 | 第38期名人戦予選 | Nakano Yasuhiro | Yoda Norimoto | Lose | B+R | 6.5 | 2971 | -33 | 
+| 2012-09-06 | 第38期名人戦予選 | Yoda Norimoto | Yamashiro Hiroshi | Win | B+R | 6.5 | 3004 | 62 | 
+| 2012-08-23 | 第37期棋聖戦Bリーグ | Yoda Norimoto | Hane Naoki | Lose | W+1.5 | 6.5 | 2942 | -12 | 
+| 2012-08-16 | 第38期碁聖戦予選 | Yoda Norimoto | Lee Ishu | Lose | W+R | 6.5 | 2954 | 2 | 
+| 2012-08-02 | 第51期十段戦予選 | Mizokami Tomochika | Yoda Norimoto | Lose | B+R | 6.5 | 2952 | -148 | 
+| 2012-07-26 | 第37期棋聖戦Bリーグ | Iyama Yuta | Yoda Norimoto | Lose | B+7.5 | 6.5 | 3100 | -16 | 
+| 2012-07-12 | 第38期名人戦予選 | Yoda Norimoto | Nakaonoda Tomomi | Win | B+3.5 | 6.5 | 3116 | 27 | 
+| 2012-06-28 | 第68期本因坊戦予選 | Yoda Norimoto | Ryu Shikun | Lose | W+1.5 | 6.5 | 3089 | -16 | 
+| 2012-06-25 | 第8回大和証券杯ネット囲碁オープン予選 | Yoda Norimoto | Yu Zhengqi | Lose | W+0.5 | 6.5 | 3105 | 0 | 
+| 2012-06-25 | 第8回大和証券杯ネット囲碁オープン予選 | Tajiri Yuto | Yoda Norimoto | Win | W+7.5 | 6.5 | 3105 | -26 | 
+| 2012-06-18 | 第17回LG杯世界棋王戦1回戦 | Li Kang | Yoda Norimoto | Lose | B+4.5 | 6.5 | 3131 | -34 | 
+| 2012-06-14 | 第37期棋聖戦Bリーグ | Yamashiro Hiroshi | Yoda Norimoto | Win | W+0.5 | 6.5 | 3165 | -54 | 
+| 2012-06-07 | 第68期本因坊戦予選 | Yoda Norimoto | Kono Takashi | Win | B+R | 6.5 | 3219 | 31 | 
+| 2012-05-24 | 第68期本因坊戦予選 | Yoda Norimoto | Uchida Shuhei | Win | B+R | 6.5 | 3188 | -2 | 
+| 2012-05-17 | 第37期棋聖戦Bリーグ | Mizokami Tomochika | Yoda Norimoto | Win | W+5.5 | 6.5 | 3190 | -56 | 
+| 2012-05-03 | 第60期王座戦1回戦 | Yoda Norimoto | Kim Sujun | Lose | W+R | 6.5 | 3246 | -35 | 
+| 2012-03-28 | 第9回春蘭杯世界囲碁選手権1回戦 | Yoda Norimoto | Mi Yuting | Lose | W+4.5 | 7.5 | 3281 | 0 | 
+| 2012-03-15 | 第60期王座戦予選 | Yamashiro Hiroshi | Yoda Norimoto | Win | W+R | 6.5 | 3281 | -93 | 
+| 2012-03-01 | 第68期本因坊戦予選 | Yoda Norimoto | Hoshino Masaki | Win | B+2.5 | 6.5 | 3374 | 9 | 
+| 2012-02-02 | 第60期王座戦予選 | Yoda Norimoto | Ko Iso | Win | B+R | 6.5 | 3365 | 64 | 
+| 2011-12-24 | 第7回大和証券杯ネット囲碁オープン2回戦 | Cho Chikun | Yoda Norimoto | Lose | B+3.5 | 6.5 | 3301 | 304 | 
+| 2011-10-27 | 第37期名人戦予選 | Yoda Norimoto | Kono Rin | Lose | W+3.5 | 6.5 | 2997 | -23 | 
+| 2011-10-13 | 第37期名人戦予選 | Cho Sonjin | Yoda Norimoto | Win | W+1.5 | 6.5 | 3020 | 5 | 
+| 2011-10-06 | 第37期碁聖戦予選 | Yoda Norimoto | Nakaonoda Tomomi | Lose | W+R | 6.5 | 3015 | -26 | 
+| 2011-09-29 | 第36期棋聖戦Bリーグ | Yoda Norimoto | Ryu Shikun | Lose | W+R | 6.5 | 3041 | -42 | 
+| 2011-09-22 | 第37期名人戦予選 | Yoda Norimoto | Yamada Kimio | Win | B+2.5 | 6.5 | 3083 | 33 | 
+| 2011-09-15 | 第38期天元戦予選 | Anzai Nobuaki | Yoda Norimoto | Lose | B+R | 6.5 | 3050 | 49 | 
+| 2011-09-01 | 第37期碁聖戦予選 | Yoda Norimoto | Ohba Junya | Win | B+2.5 | 6.5 | 3001 | -2 | 
+| 2011-08-25 | 第50期十段戦2回戦 | Ko Iso | Yoda Norimoto | Lose | B+R | 6.5 | 3003 | -12 | 
+| 2011-08-18 | 第38期天元戦予選 | Ogaki Yusaku | Yoda Norimoto | Win | W+R | 6.5 | 3015 | -16 | 
+| 2011-08-11 | 第67期本因坊戦予選 | Yoda Norimoto | Kono Rin | Lose | W+5.5 | 6.5 | 3031 | -21 | 
+| 2011-08-04 | 第36期棋聖戦Bリーグ | Kobayashi Koichi | Yoda Norimoto | Win | W+R | 6.5 | 3052 | 19 | 
+| 2011-07-28 | 第37期名人戦予選 | Ko Iso | Yoda Norimoto | Win | W+1.5 | 6.5 | 3033 | 17 | 
+| 2011-07-23 | 第7回大和証券杯ネット囲碁オープン1回戦 | Yamada Takuji | Yoda Norimoto | Win | W+R | 6.5 | 3016 | 25 | 
+| 2011-07-21 | 第36期棋聖戦Bリーグ | Yoda Norimoto | Akiyama Jiro | Win | B+4.5 | 6.5 | 2991 | 17 | 
+| 2011-07-14 | 第50期十段戦1回戦 | Cho Sonjin | Yoda Norimoto | Win | W+R | 6.5 | 2974 | 8 | 
+| 2011-07-07 | 第67期本因坊戦予選 | Hikosaka Naoto | Yoda Norimoto | Win | W+0.5 | 6.5 | 2966 | -125 | 
+| 2011-06-23 | 第36期棋聖戦Bリーグ | Yoda Norimoto | Takao Shinji | Lose | W+4.5 | 6.5 | 3091 | -68 | 
+| 2011-06-16 | 第37期名人戦予選 | Yoda Norimoto | Kamimura Haruo | Win | B+R | 6.5 | 3159 | -20 | 
+| 2011-06-07 | 第23回テレビアジア選手権1回戦 | Wang Lei (b) | Yoda Norimoto | Lose | B+1.5 | 7.5 | 3179 | 48 | 
+| 2011-06-02 | 第50期十段戦予選 | So Yokoku | Yoda Norimoto | Win | W+R | 6.5 | 3131 | 31 | 
+| 2011-05-26 | 第67期本因坊戦予選 | Yoda Norimoto | Morita Michihiro | Win | B+R | 6.5 | 3100 | -17 | 
+| 2011-05-19 | 第59期王座戦1回戦 | Yoda Norimoto | Cho Chikun | Lose | W+R | 6.5 | 3117 | 64 | 
+| 2011-05-12 | 第36期棋聖戦Bリーグ | Yamashiro Hiroshi | Yoda Norimoto | Win | W+R | 6.5 | 3053 | -31 | 
+| 2011-05-05 | 第37期天元戦本戦2回戦 | Yoda Norimoto | Cho U | Lose | W+1.5 | 6.5 | 3084 | -64 | 
+| 2011-04-21 | 第67期本因坊戦予選 | Araki Issei | Yoda Norimoto | Win | W+11.5 | 6.5 | 3148 | 17 | 
+| 2011-04-07 | 第50期十段戦予選 | Matsuoka Hideki | Yoda Norimoto | Win | W+R | 6.5 | 3131 | 10 | 
+| 2011-03-24 | 第59期王座戦予選 | Yoda Norimoto | Ogaki Yusaku | Win | B+R | 6.5 | 3121 | 1 | 
+| 2011-03-03 | 第67期本因坊戦予選 | Yoda Norimoto | Sanno Hirotaka | Win | B+8.5 | 6.5 | 3120 | 19 | 
+| 2011-02-24 | 第50期十段戦予選 | Obuchi Morito | Yoda Norimoto | Win | W+1.5 | 6.5 | 3101 | 37 | 
+| 2011-02-10 | 第67期本因坊戦予選 | Shuto Shun | Yoda Norimoto | Win | W+4.5 | 6.5 | 3064 | 6 | 
+| 2011-02-03 | 第50期十段戦予選 | Rin Kanketsu | Yoda Norimoto | Win | W+1.5 | 6.5 | 3058 | 134 | 
+| 2010-12-16 | 第37期天元戦本戦1回戦 | Kataoka Satoshi | Yoda Norimoto | Win | W+R | 6.5 | 2924 | 127 | 
+| 2010-09-30 | 第35期棋聖戦Aリーグ | Yoda Norimoto | Yamashita Keigo | Lose | W+3.5 | 6.5 | 2797 | -8 | 
+| 2010-09-25 | 第6回大和証券杯ネット囲碁オープン3回戦 | Yoda Norimoto | Iyama Yuta | Lose | W+2.5 | 6.5 | 2805 | -33 | 
+| 2010-09-18 | 第6回大和証券杯ネット囲碁オープン2回戦 | Yoda Norimoto | Hane Naoki | Win | B+1.5 | 6.5 | 2838 | 39 | 
+| 2010-09-16 | 第36期碁聖戦予選 | Rin Kanketsu | Yoda Norimoto | Lose | B+1.5 | 6.5 | 2799 | -11 | 
+| 2010-09-02 | 第35期棋聖戦Aリーグ | O Meien | Yoda Norimoto | Win | W+R | 6.5 | 2810 | 20 | 
+| 2010-08-26 | 第35期棋聖戦Aリーグ | Kono Rin | Yoda Norimoto | Win | W+4.5 | 6.5 | 2790 | 26 | 
+| 2010-08-05 | 第36期名人戦予選 | Yoda Norimoto | Yamashita Keigo | Lose | W+R | 6.5 | 2764 | -21 | 
+| 2010-07-29 | 第36期碁聖戦予選 | Xie Yimin | Yoda Norimoto | Win | W+R | 6.5 | 2785 | 7 | 
+| 2010-07-22 | 第35期棋聖戦Aリーグ | Yoda Norimoto | Takao Shinji | Lose | W+R | 6.5 | 2778 | -36 | 
+| 2010-07-08 | 第30期NECカップ囲碁トーナメント戦1回戦 | Yoda Norimoto | O Meien | Lose | W+R | 6.5 | 2814 | -43 | 
+| 2010-07-01 | 第36期天元戦本戦準決勝 | Yuki Satoshi | Yoda Norimoto | Lose | B+4.5 | 6.5 | 2857 | -10 | 
+| 2010-06-26 | 第6回大和証券杯ネット囲碁オープン1回戦 | Yoda Norimoto | Kobayashi Koichi | Win | B+4.5 | 6.5 | 2867 | 91 | 
+| 2010-06-17 | 第36期名人戦予選 | Yoda Norimoto | Matsumoto Takehisa | Win | B+4.5 | 6.5 | 2776 | -29 | 
+| 2010-06-07 | 第15回LG杯世界棋王戦1回戦 | Kong Jie | Yoda Norimoto | Lose | B+0.5 | 6.5 | 2805 | 37 | 
+| 2010-06-03 | 第35期棋聖戦Aリーグ | Yoda Norimoto | Kato Atsushi | Lose | W+0.5 | 6.5 | 2768 | -36 | 
+| 2010-05-27 | 第58期王座戦2回戦 | Iyama Yuta | Yoda Norimoto | Lose | B+3.5 | 6.5 | 2804 | 0 | 
+| 2010-05-20 | 第36期天元戦本戦3回戦 | Yoda Norimoto | Michael Redmond | Win | B+1.5 | 6.5 | 2804 | 46 | 
+| 2010-05-06 | 第36期名人戦予選 | Yoda Norimoto | Yo Kaei | Win | B+R | 6.5 | 2758 | -48 | 
+| 2010-04-15 | 第58期王座戦1回戦 | Ishida Atsushi | Yoda Norimoto | Win | W+3.5 | 6.5 | 2806 | 2 | 
+| 2010-03-27 | 第8回春蘭杯世界囲碁選手権1回戦 | Yoda Norimoto | Heo Yongho | Lose | W+6.5 | 7.5 | 2804 | -28 | 
+| 2010-03-18 | 第66期本因坊戦予選 | Yoda Norimoto | Akiyama Jiro | Lose | W+0.5 | 6.5 | 2832 | -11 | 
+| 2010-03-11 | 第49期十段戦予選 | Yoda Norimoto | Yamashiro Hiroshi | Lose | W+6.5 | 6.5 | 2843 | -22 | 
+| 2010-03-04 | 第36期天元戦本戦2回戦 | Yoda Norimoto | Takemiya Masaki | Win | B+0.5 | 6.5 | 2865 | 26 | 
+| 2010-02-18 | 第66期本因坊戦予選 | So Kofuku | Yoda Norimoto | Win | W+R | 6.5 | 2839 | -11 | 
+| 2010-01-28 | 第36期天元戦本戦1回戦 | Yoda Norimoto | Takao Shinji | Win | B+R | 6.5 | 2850 | -9 | 
+| 2010-01-14 | 第49期十段戦予選 | Nakaonoda Tomomi | Yoda Norimoto | Win | W+R | 6.5 | 2859 | -4 | 
+| 2009-12-17 | 第23回世界囲碁選手権富士通杯国内予選 | Ishida Yoshio | Yoda Norimoto | Lose | B+2.5 | 6.5 | 2863 | -169 | 
+| 2009-11-26 | 第23回世界囲碁選手権富士通杯国内予選 | Komatsu Hideki | Yoda Norimoto | Win | W+R | 6.5 | 3032 | -26 | 
+| 2009-11-19 | 第49期十段戦予選 | Takemiya Masaki | Yoda Norimoto | Win | W+6.5 | 6.5 | 3058 | -19 | 
+| 2009-10-29 | 第23回世界囲碁選手権富士通杯国内予選 | Ogaki Yusaku | Yoda Norimoto | Win | W+R | 6.5 | 3077 | 31 | 
+| 2009-10-15 | 第36期天元戦予選 | Yoda Norimoto | Takagi Shoichi | Win | B+11.5 | 6.5 | 3046 | 17 | 
+| 2009-10-08 | 第35期名人戦予選 | Yoda Norimoto | Mizokami Tomochika | Lose | W+4.5 | 6.5 | 3029 | -8 | 
+| 2009-10-01 | 第34期棋聖戦Aリーグ | Yoda Norimoto | Takao Shinji | Win | B+0.5 | 6.5 | 3037 | 14 | 
+| 2009-09-24 | 第49期十段戦予選 | Yoda Norimoto | Mimura Tomoyasu | Win | B+R | 6.5 | 3023 | 12 | 
+| 2009-09-17 | 第34期棋聖戦Aリーグ | Yoda Norimoto | O Rissei | Lose | W+0.5 | 6.5 | 3011 | -39 | 
+| 2009-09-10 | 第57期王座戦挑戦者決定戦 | Yamada Kimio | Yoda Norimoto | Lose | B+R | 6.5 | 3050 | 13 | 
+| 2009-09-03 | 第35期名人戦予選 | Ryu Shikun | Yoda Norimoto | Win | W+1.5 | 6.5 | 3037 | 1 | 
+| 2009-08-27 | 第36期天元戦予選 | Yoda Norimoto | Tsuruyama Atsushi | Win | B+R | 6.5 | 3036 | 41 | 
+| 2009-08-20 | 第35期碁聖戦予選 | Yoda Norimoto | O Rissei | Lose | W+R | 6.5 | 2995 | 10 | 
+| 2009-08-08 | 第5回大和証券杯ネット囲碁オープン1回戦 | Yoda Norimoto | O Meien | Lose | W+R | 6.5 | 2985 | -32 | 
+| 2009-08-06 | 第34期棋聖戦Aリーグ | Kiyonari Tetsuya | Yoda Norimoto | Win | W+R | 6.5 | 3017 | 11 | 
+| 2009-07-30 | 第65期本因坊戦予選 | Yoda Norimoto | Iyama Yuta | Lose | W+11.5 | 6.5 | 3006 | -14 | 
+| 2009-07-23 | 第35期碁聖戦予選 | Fukui Masaaki | Yoda Norimoto | Win | W+R | 6.5 | 3020 | -5 | 
+| 2009-07-16 | 第35期名人戦予選 | Kono Takashi | Yoda Norimoto | Win | W+R | 6.5 | 3025 | -11 | 
+| 2009-07-09 | 第57期王座戦準決勝 | Yoda Norimoto | Yamamori Tadanao | Win | B+R | 6.5 | 3036 | 12 | 
+| 2009-07-02 | 第34期棋聖戦Aリーグ | Yoda Norimoto | Lee Ishu | Win | B+R | 6.5 | 3024 | 70 | 
+| 2009-06-18 | 第29期NECカップ囲碁トーナメント戦1回戦 | Yoda Norimoto | Cho U | Lose | W+6.5 | 6.5 | 2954 | 24 | 
+| 2009-06-11 | 第65期本因坊戦予選 | Yoda Norimoto | Mochizuki Kenichi | Win | B+R | 6.5 | 2930 | 17 | 
+| 2009-06-04 | 第34期棋聖戦Aリーグ | Hane Naoki | Yoda Norimoto | Lose | B+3.5 | 6.5 | 2913 | -84 | 
+| 2009-05-28 | 第57期王座戦2回戦 | Yoda Norimoto | Yamashita Keigo | Win | B+R | 6.5 | 2997 | -21 | 
+| 2009-05-21 | 第65期本因坊戦予選 | Yoda Norimoto | Otake Hideo | Win | B+R | 6.5 | 3018 | 23 | 
+| 2009-04-30 | 第57期王座戦1回戦 | Hashimoto Yujiro | Yoda Norimoto | Win | W+5.5 | 6.5 | 2995 | 17 | 
+| 2009-04-23 | 第35期名人戦予選 | Hoshino Masaki | Yoda Norimoto | Win | W+7.5 | 6.5 | 2978 | -6 | 
+| 2009-04-16 | 第57期王座戦予選 | Hane Naoki | Yoda Norimoto | Win | W+R | 6.5 | 2984 | 2 | 
+| 2009-04-09 | 第36期天元戦予選 | Yoda Norimoto | Suzuki Ayumi | Win | B+3.5 | 6.5 | 2982 | 27 | 
+| 2009-04-02 | 第64期本因坊戦リーグ | Yoda Norimoto | So Yokoku | Lose | W+1.5 | 6.5 | 2955 | -1 | 
+| 2009-03-26 | 第64期本因坊戦リーグ | Cho U | Yoda Norimoto | Lose | B+R | 6.5 | 2956 | 31 | 
+| 2009-03-12 | 第33期棋聖戦挑戦手合七番勝負第6局 | Yoda Norimoto | Yamashita Keigo | Lose | W+2.5 | 6.5 | 2925 | -112 | 
+| 2009-02-26 | 第33期棋聖戦挑戦手合七番勝負第5局 | Yamashita Keigo | Yoda Norimoto | Lose | B+5.5 | 6.5 | 3037 | 65 | 
+| 2009-02-20 | 第33期棋聖戦挑戦手合七番勝負第4局 | Yoda Norimoto | Yamashita Keigo | Win | B+R | 6.5 | 2972 | 19 | 
+| 2009-02-12 | 第64期本因坊戦リーグ | Yoda Norimoto | Yamashita Keigo | Win | B+R | 6.5 | 2953 | 3 | 
+| 2009-02-09 | 第22回世界囲碁選手権富士通杯国内予選決勝 | Iyama Yuta | Yoda Norimoto | Lose | B+R | 6.5 | 2950 | -14 | 
+| 2009-02-05 | 第33期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Yoda Norimoto | Win | W+0.5 | 6.5 | 2964 | -3 | 
+| 2009-01-29 | 第33期棋聖戦挑戦手合七番勝負第2局 | Yoda Norimoto | Yamashita Keigo | Lose | W+0.5 | 6.5 | 2967 | 14 | 
+| 2009-01-22 | 第34期碁聖戦本戦2回戦 | Yoda Norimoto | Takemiya Masaki | Lose | W+0.5 | 6.5 | 2953 | -23 | 
+| 2009-01-15 | 第33期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Yoda Norimoto | Lose | B+1.5 | 6.5 | 2976 | -100 | 
+| 2009-01-08 | 第64期本因坊戦リーグ | Yamada Kimio | Yoda Norimoto | Win | W+R | 6.5 | 3076 | 100 | 
+| 2008-12-18 | 第22回世界囲碁選手権富士通杯国内予選 | Yoda Norimoto | Takemiya Masaki | Win | B+3.5 | 6.5 | 2976 | 84 | 
+| 2008-12-04 | 第64期本因坊戦リーグ | Nakaonoda Tomomi | Yoda Norimoto | Lose | B+2.5 | 6.5 | 2892 | 237 | 
+| 2008-11-27 | 第48期十段戦予選 | Yoda Norimoto | Oya Koichi | Lose | W+0.5 | 6.5 | 2655 | -14 | 
+| 2008-11-20 | 第22回世界囲碁選手権富士通杯国内予選 | Yukawa Mitsuhisa | Yoda Norimoto | Win | W+R | 6.5 | 2669 | -15 | 
+| 2008-11-13 | 第64期本因坊戦リーグ | Yoda Norimoto | Kataoka Satoshi | Lose | W+R | 6.5 | 2684 | -6 | 
+| 2008-11-06 | 第34期碁聖戦本戦1回戦 | Nakane Naoyuki | Yoda Norimoto | Win | W+R | 6.5 | 2690 | 5 | 
+| 2008-10-30 | 第22回世界囲碁選手権富士通杯国内予選 | Ko Iso | Yoda Norimoto | Win | W+R | 6.5 | 2685 | -566 | 
+| 2008-10-23 | 第33期棋聖戦挑戦者決定戦 | Yoda Norimoto | Iyama Yuta | Win | B+R | 6.5 | 3251 | 1 | 
+| 2008-10-17 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦三位決定戦 | Chen Shiyuan | Yoda Norimoto | Win | W+R | 6.5 | 3250 | 0 | 
+| 2008-10-17 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Yoda Norimoto | Weon Seongjin | Lose | W+3.5 | 6.5 | 3250 | -2 | 
+| 2008-10-15 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Yoda Norimoto | Chang Hao | Win | B+5.5 | 6.5 | 3252 | 40 | 
+| 2008-10-11 | 第4回大和証券杯ネット囲碁オープン3回戦 | Yoda Norimoto | Kono Rin | Lose | W+3.5 | 6.5 | 3212 | 8 | 
+| 2008-10-09 | 第64期本因坊戦リーグ | Yoda Norimoto | Takao Shinji | Lose | W+R | 6.5 | 3204 | 48 | 
+| 2008-10-02 | 第33期棋聖戦Bリーグ | Cho U | Yoda Norimoto | Win | W+1.5 | 6.5 | 3156 | 18 | 
+| 2008-09-25 | 第34期名人戦予選 | Yoda Norimoto | O Meien | Lose | W+2.5 | 6.5 | 3138 | -15 | 
+| 2008-09-18 | 第35期天元戦予選 | Morita Michihiro | Yoda Norimoto | Lose | B+1.5 | 6.5 | 3153 | -40 | 
+| 2008-09-13 | 第4回大和証券杯ネット囲碁オープン2回戦 | Yoda Norimoto | Iyama Yuta | Win | B+R | 6.5 | 3193 | 23 | 
+| 2008-09-11 | 第33期棋聖戦Bリーグ | Yoda Norimoto | Kono Rin | Win | B+R | 6.5 | 3170 | -12 | 
+| 2008-09-04 | 第34期名人戦予選 | Yoda Norimoto | Nakaonoda Tomomi | Win | B+0.5 | 6.5 | 3182 | 35 | 
+| 2008-08-23 | 第4期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Zhou Junxun | Yoda Norimoto | Lose | B+0.5 | 6.5 | 3147 | -8 | 
+| 2008-08-14 | 第33期棋聖戦Bリーグ | Honda Kunihisa | Yoda Norimoto | Win | W+3.5 | 6.5 | 3155 | 335 | 
+| 2008-08-07 | 第33期名人戦リーグ | Yoda Norimoto | Iyama Yuta | Win | B+R | 6.5 | 2820 | 26 | 
+| 2008-07-19 | 第4回大和証券杯ネット囲碁オープン1回戦 | Yoda Norimoto | Tsuruyama Atsushi | Win | B+0.5 | 6.5 | 2794 | -10 | 
+| 2008-07-17 | 第35期天元戦予選 | Yoda Norimoto | Kudo Norio | Win | B+R | 6.5 | 2804 | -18 | 
+| 2008-07-03 | 第33期棋聖戦Bリーグ | Yoda Norimoto | Kato Atsushi | Win | B+0.5 | 6.5 | 2822 | 23 | 
+| 2008-06-28 | 第28期NECカップ囲碁トーナメント戦1回戦 | Cho U | Yoda Norimoto | Lose | B+5.5 | 6.5 | 2799 | -1 | 
+| 2008-06-26 | 第4期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Yoda Norimoto | Yamada Noriyoshi | Win | B+R | 6.5 | 2800 | -12 | 
+| 2008-06-19 | 第33期棋聖戦Bリーグ | Hane Naoki | Yoda Norimoto | Lose | B+2.5 | 6.5 | 2812 | 8 | 
+| 2008-06-12 | 第56期王座戦2回戦 | Cho U | Yoda Norimoto | Lose | B+R | 6.5 | 2804 | -8 | 
+| 2008-06-07 | 第21回世界囲碁選手権富士通杯3回戦 | Lee Changho | Yoda Norimoto | Lose | B+3.5 | 6.5 | 2812 | -27 | 
+| 2008-05-29 | 第33期名人戦リーグ | Chin Kaei | Yoda Norimoto | Win | W+R | 6.5 | 2839 | -4 | 
+| 2008-05-26 | 第4回大和証券杯ネット囲碁オープン予選 | Takemiya Masaki | Yoda Norimoto | Win | W+R | 6.5 | 2843 | 26 | 
+| 2008-05-22 | 第33期名人戦リーグ | Yoda Norimoto | Cho Chikun | Lose | W+1.5 | 6.5 | 2817 | -14 | 
+| 2008-05-08 | 第56期王座戦1回戦 | Imamura Toshiya | Yoda Norimoto | Win | W+4.5 | 6.5 | 2831 | 23 | 
+| 2008-04-24 | 第4期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Nakamura Shinya | Yoda Norimoto | Win | W+R | 6.5 | 2808 | 212 | 
+| 2008-04-17 | 第56期王座戦予選 | Takemiya Masaki | Yoda Norimoto | Win | W+R | 6.5 | 2596 | -18 | 
+| 2008-04-14 | 第21回世界囲碁選手権富士通杯2回戦 | Kang Dongyun | Yoda Norimoto | Win | W+R | 6.5 | 2614 | 23 | 
+| 2008-04-10 | 第33期名人戦リーグ | Ko Iso | Yoda Norimoto | Lose | B+1.5 | 6.5 | 2591 | -18 | 
+| 2008-04-03 | 第63期本因坊戦リーグ | Yoda Norimoto | Hane Naoki | Lose | W+3.5 | 6.5 | 2609 | 28 | 
+| 2008-03-27 | 第33期碁聖戦本戦準決勝 | Yamashita Keigo | Yoda Norimoto | Lose | B+R | 6.5 | 2581 | 1 | 
+| 2008-03-15 | 第7回春蘭杯世界囲碁選手権1回戦 | Ding Wei | Yoda Norimoto | Lose | B+R | 7.5 | 2580 | 11 | 
+| 2008-03-10 | 第47期十段戦予選 | Anzai Nobuaki | Yoda Norimoto | Lose | B+0.5 | 6.5 | 2569 | -23 | 
+| 2008-03-06 | 第63期本因坊戦リーグ | Yoda Norimoto | Mizokami Tomochika | Win | B+R | 6.5 | 2592 | -18 | 
+| 2008-02-28 | 第33期名人戦リーグ | Yoda Norimoto | Yamada Kimio | Win | B+R | 6.5 | 2610 | -15 | 
+| 2008-02-21 | 第33期碁聖戦本戦3回戦 | Yoda Norimoto | Yamada Takuji | Win | B+R | 6.5 | 2625 | 0 | 
+| 2008-02-14 | 第33期名人戦リーグ | Takao Shinji | Yoda Norimoto | Win | W+2.5 | 6.5 | 2625 | 11 | 
+| 2008-02-07 | 第63期本因坊戦リーグ | Yamada Kimio | Yoda Norimoto | Win | W+R | 6.5 | 2614 | -20 | 
+| 2008-01-31 | 第33期碁聖戦本戦2回戦 | Kono Rin | Yoda Norimoto | Win | W+2.5 | 6.5 | 2634 | 31 | 
+| 2008-01-26 | 第27期NECカップ囲碁トーナメント戦準決勝 | Kono Rin | Yoda Norimoto | Lose | B+0.5 | 6.5 | 2603 | -2 | 
+| 2008-01-24 | 第63期本因坊戦リーグ | Yamashita Keigo | Yoda Norimoto | Lose | B+R | 6.5 | 2605 | 18 | 
+| 2008-01-10 | 第33期名人戦リーグ | Sakai Hideyuki | Yoda Norimoto | Lose | B+7.5 | 6.5 | 2587 | -20 | 
+| 2007-12-20 | 第33期名人戦リーグ | Yoda Norimoto | Kobayashi Satoru | Lose | W+2.5 | 6.5 | 2607 | 3 | 
+| 2007-12-06 | 第63期本因坊戦リーグ | Yoda Norimoto | Cho U | Win | B+1.5 | 6.5 | 2604 | -8 | 
+| 2007-11-30 | 第9回農心辛ラーメン杯世界囲碁最強戦第9戦 | Mok Jinseok | Yoda Norimoto | Lose | B+6.5 | 6.5 | 2612 | -26 | 
+| 2007-11-01 | 第63期本因坊戦リーグ | Yoda Norimoto | So Yokoku | Lose | W+0.5 | 6.5 | 2638 | -24 | 
+| 2007-10-25 | 第33期碁聖戦本戦1回戦 | Yoda Norimoto | Yokota Shigeaki | Win | B+5.5 | 6.5 | 2662 | 6 | 
+| 2007-10-18 | 第56期王座戦予選 | Aoki Shinichi | Yoda Norimoto | Win | W+2.5 | 6.5 | 2656 | -15 | 
+| 2007-10-13 | 第27期NECカップ囲碁トーナメント戦2回戦 | Kobayashi Satoru | Yoda Norimoto | Win | W+R | 6.5 | 2671 | 2 | 
+| 2007-10-11 | 第63期本因坊戦リーグ | O Meien | Yoda Norimoto | Lose | B+R | 6.5 | 2669 | -24 | 
+| 2007-10-04 | 第32期棋聖戦Aリーグ | Yoda Norimoto | Cho U | Lose | W+R | 6.5 | 2693 | -9 | 
+| 2007-09-30 | 第3回大和証券杯ネット囲碁オープン2回戦 | Yoda Norimoto | Komatsu Hideki | Lose | W+2.5 | 6.5 | 2702 | -1340 | 
+| 2007-09-15 | 第27期NECカップ囲碁トーナメント戦1回戦 | Yoda Norimoto | Cho U | Win | B+R | 6.5 | 4042 | 10 | 
+| 2007-09-13 | 第56期王座戦予選 | Yoda Norimoto | Yamada Takuji | Win | B+R | 6.5 | 4032 | 1260 | 
+| 2007-09-06 | 第32期棋聖戦Aリーグ | Kobayashi Satoru | Yoda Norimoto | Win | W+R | 6.5 | 2772 | -19 | 
+| 2007-08-30 | 第34期天元戦予選 | Lee Ishu | Yoda Norimoto | Lose | B+7.5 | 6.5 | 2791 | -31 | 
+| 2007-08-23 | 第32期棋聖戦Aリーグ | O Rissei | Yoda Norimoto | Win | W+R | 6.5 | 2822 | -3 | 
+| 2007-08-16 | 第46期十段戦敗者復活戦2回戦 | Yoda Norimoto | Kobayashi Satoru | Lose | W+0.5 | 6.5 | 2825 | -346 | 
+| 2007-08-02 | 第32期名人戦リーグ | Hikosaka Naoto | Yoda Norimoto | Lose | B+0.5 | 6.5 | 3171 | -117 | 
+| 2007-07-23 | 第46期十段戦本戦2回戦 | Cho U | Yoda Norimoto | Lose | B+4.5 | 6.5 | 3288 | 25 | 
+| 2007-07-19 | 第32期棋聖戦Aリーグ | Yoda Norimoto | Takao Shinji | Win | B+R | 6.5 | 3263 | 103 | 
+| 2007-07-09 | 第20回世界囲碁選手権富士通杯三位決定戦 | Cho U | Yoda Norimoto | Win | W+3.5 | 6.5 | 3160 | 6 | 
+| 2007-07-07 | 第20回世界囲碁選手権富士通杯準決勝 | Yoda Norimoto | Park Yeonghun | Lose | W+0.5 | 6.5 | 3154 | -49 | 
+| 2007-07-02 | 第32期名人戦リーグ | Ko Iso | Yoda Norimoto | Lose | B+3.5 | 6.5 | 3203 | -30 | 
+| 2007-06-26 | 第62期本因坊戦挑戦手合七番勝負第5局 | Takao Shinji | Yoda Norimoto | Lose | B+2.5 | 6.5 | 3233 | -18 | 
+| 2007-06-19 | 第62期本因坊戦挑戦手合七番勝負第4局 | Yoda Norimoto | Takao Shinji | Lose | W+5.5 | 6.5 | 3251 | 12 | 
+| 2007-06-14 | 第32期棋聖戦Aリーグ | Yamashiro Hiroshi | Yoda Norimoto | Lose | B+R | 6.5 | 3239 | 59 | 
+| 2007-06-07 | 第62期本因坊戦挑戦手合七番勝負第3局 | Takao Shinji | Yoda Norimoto | Lose | B+R | 6.5 | 3180 | -2 | 
+| 2007-06-02 | 第20回世界囲碁選手権富士通杯3回戦 | Wang Xi | Yoda Norimoto | Win | W+R | 6.5 | 3182 | 55 | 
+| 2007-05-23 | 第62期本因坊戦挑戦手合七番勝負第2局 | Yoda Norimoto | Takao Shinji | Win | B+1.5 | 6.5 | 3127 | 24 | 
+| 2007-05-17 | 第46期十段戦本戦1回戦 | Yoda Norimoto | Yukawa Mitsuhisa | Win | B+2.5 | 6.5 | 3103 | -11 | 
+| 2007-05-11 | 第62期本因坊戦挑戦手合七番勝負第1局 | Takao Shinji | Yoda Norimoto | Lose | B+0.5 | 6.5 | 3114 | -39 | 
+| 2007-04-26 | 第32期名人戦リーグ | Yoda Norimoto | Cho U | Lose | W+5.5 | 6.5 | 3153 | 25 | 
+| 2007-04-19 | 第32期碁聖戦本戦準決勝 | Yoda Norimoto | Kono Rin | Lose | W+R | 6.5 | 3128 | -19 | 
+| 2007-04-16 | 第20回世界囲碁選手権富士通杯2回戦 | Yoda Norimoto | Gu Li | Win | B+R | 6.5 | 3147 | 15 | 
+| 2007-04-14 | 第20回世界囲碁選手権富士通杯1回戦 | Yoda Norimoto | Li Jie (2) | Win | B+11.5 | 6.5 | 3132 | 11 | 
+| 2007-04-08 | 第62期本因坊戦挑戦者決定プレーオフ | Yoda Norimoto | So Yokoku | Win | B+R | 6.5 | 3121 | 7 | 
+| 2007-04-05 | 第62期本因坊戦リーグ | Kobayashi Satoru | Yoda Norimoto | Win | W+R | 6.5 | 3114 | -4 | 
+| 2007-03-31 | 第2回大和証券杯ネット囲碁オープン決勝三番勝負第2局 | O Meien | Yoda Norimoto | Lose | B+9.5 | 6.5 | 3118 | -19 | 
+| 2007-03-29 | 第55期王座戦予選 | Yoda Norimoto | Kataoka Satoshi | Lose | W+3.5 | 6.5 | 3137 | -19 | 
+| 2007-03-24 | 第2回大和証券杯ネット囲碁オープン決勝三番勝負第1局 | Yoda Norimoto | O Meien | Lose | W+3.5 | 6.5 | 3156 | -22 | 
+| 2007-03-22 | 第32期名人戦リーグ | Yamashita Keigo | Yoda Norimoto | Win | W+4.5 | 6.5 | 3178 | -2 | 
+| 2007-03-15 | 第32期名人戦リーグ | Yoda Norimoto | Mimura Tomoyasu | Win | B+R | 6.5 | 3180 | 340 | 
+| 2007-03-08 | 第62期本因坊戦リーグ | Yoda Norimoto | O Meien | Win | B+3.5 | 6.5 | 2840 | 4 | 
+| 2007-03-03 | 第2回大和証券杯ネット囲碁オープン決勝トーナメント準決勝 | Yoda Norimoto | Takao Shinji | Win | B+R | 6.5 | 2836 | 2 | 
+| 2007-03-01 | 第32期碁聖戦本戦3回戦 | Yoda Norimoto | Takao Shinji | Win | B+R | 6.5 | 2834 | 16 | 
+| 2007-02-24 | 第2回大和証券杯ネット囲碁オープン決勝トーナメント1回戦 | Cho Chikun | Yoda Norimoto | Win | W+R | 6.5 | 2818 | -16 | 
+| 2007-02-22 | 第62期本因坊戦リーグ | Cho Sonjin | Yoda Norimoto | Win | W+R | 6.5 | 2834 | 9 | 
+| 2007-02-19 | 第33期天元戦本戦1回戦 | Yoda Norimoto | Morita Michihiro | Lose | W+2.5 | 6.5 | 2825 | -5 | 
+| 2007-02-15 | 第45期十段戦挑戦者決定戦 | Yamashita Keigo | Yoda Norimoto | Lose | B+6.5 | 6.5 | 2830 | -42 | 
+| 2007-02-06 | 第8回農心辛ラーメン杯世界囲碁最強戦第11戦 | Yoda Norimoto | Park Yeonghun | Lose | W+1.5 | 6.5 | 2872 | -7 | 
+| 2007-02-03 | 第2回大和証券杯ネット囲碁オープンCリーグ | Ryu Shikun | Yoda Norimoto | Win | W+5.5 | 6.5 | 2879 | 32 | 
+| 2007-02-01 | 第32期名人戦リーグ | Yoda Norimoto | Sakai Hideyuki | Win | B+0.5 | 6.5 | 2847 | 4 | 
+| 2007-01-29 | 第20回世界囲碁選手権富士通杯国内予選 | Yoda Norimoto | Kataoka Satoshi | Win | B+R | 6.5 | 2843 | -15 | 
+| 2007-01-27 | 第2回大和証券杯ネット囲碁オープンCリーグ | Nakano Hironari | Yoda Norimoto | Win | W+13.5 | 6.5 | 2858 | 6 | 
+| 2007-01-25 | 第32期名人戦リーグ | Kobayashi Satoru | Yoda Norimoto | Win | W+1.5 | 6.5 | 2852 | 4 | 
+| 2007-01-22 | 第55期王座戦予選 | Rin Kaiho | Yoda Norimoto | Win | W+5.5 | 6.5 | 2848 | 12 | 
+| 2007-01-20 | 第2回大和証券杯ネット囲碁オープンCリーグ | Yoda Norimoto | Ko Iso | Win | B+R | 6.5 | 2836 | 28 | 
+| 2007-01-18 | 第32期碁聖戦本戦2回戦 | Yoda Norimoto | Sakai Hideyuki | Win | B+R | 6.5 | 2808 | 37 | 
+| 2007-01-11 | 第62期本因坊戦リーグ | Hane Naoki | Yoda Norimoto | Win | W+R | 6.5 | 2771 | 28 | 
+| 2006-12-28 | 第33期天元戦本戦0回戦 | Ogata Masaki | Yoda Norimoto | Win | W+3.5 | 6.5 | 2743 | 0 | 
+| 2006-12-25 | 第45期十段戦敗者復活戦決勝 | Yoda Norimoto | Cho U | Win | B+2.5 | 6.5 | 2743 | 13 | 
+| 2006-12-21 | 第20回世界囲碁選手権富士通杯国内予選 | Yoda Norimoto | Hikosaka Naoto | Win | B+R | 6.5 | 2730 | 1 | 
+| 2006-12-14 | 第62期本因坊戦リーグ | Yoda Norimoto | So Yokoku | Lose | W+2.5 | 6.5 | 2729 | -45 | 
+| 2006-12-07 | 第32期名人戦リーグ | Yoda Norimoto | Yamada Kimio | Lose | W+1.5 | 6.5 | 2774 | -3 | 
+| 2006-11-30 | 第20回世界囲碁選手権富士通杯国内予選 | Yoda Norimoto | Michael Redmond | Win | B+5.5 | 6.5 | 2777 | -30 | 
+| 2006-11-16 | 第45期十段戦敗者復活戦4回戦 | Yoda Norimoto | Kobayashi Satoru | Win | B+R | 6.5 | 2807 | 38 | 
+| 2006-11-09 | 第32期碁聖戦本戦1回戦 | Nakano Hironari | Yoda Norimoto | Win | W+R | 6.5 | 2769 | -12 | 
+| 2006-11-02 | 第62期本因坊戦リーグ | Yoda Norimoto | Yamada Kimio | Win | B+R | 6.5 | 2781 | 18 | 
+| 2006-10-26 | 第45期十段戦敗者復活戦3回戦 | Komatsu Hideki | Yoda Norimoto | Win | W+2.5 | 6.5 | 2763 | -14 | 
+| 2006-10-23 | 第62期本因坊戦リーグ | Yoda Norimoto | Cho U | Lose | W+2.5 | 6.5 | 2777 | -47 | 
+| 2006-10-12 | 第33期天元戦予選 | Awaji Shuzo | Yoda Norimoto | Win | W+0.5 | 6.5 | 2824 | 5 | 
+| 2006-10-07 | 第1回大和証券杯ネット囲碁オープン決勝トーナメント1回戦 | Kono Rin | Yoda Norimoto | Lose | B+R | 6.5 | 2819 | -23 | 
+| 2006-10-05 | 第31期棋聖戦Aリーグ | Yoda Norimoto | Mimura Tomoyasu | Lose | W+1.5 | 6.5 | 2842 | -9 | 
+| 2006-10-01 | 第1回大和証券杯ネット囲碁オープン | Kobayashi Satoru | Yoda Norimoto | Win | W+3.5 | 6.5 | 2851 | 15 | 
+| 2006-09-28 | 第31期棋聖戦Aリーグ | Hane Naoki | Yoda Norimoto | Win | W+R | 6.5 | 2836 | 22 | 
+| 2006-09-21 | 第33期天元戦予選 | Yoda Norimoto | Shiraishi Yuichi | Win | B+R | 6.5 | 2814 | 13 | 
+| 2006-09-14 | 第45期十段戦敗者復活戦2回戦 | Kim Sujun | Yoda Norimoto | Win | W+R | 6.5 | 2801 | 7 | 
+| 2006-08-26 | 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Cho Hanseung | Yoda Norimoto | Lose | B+5.5 | 6.5 | 2794 | -22 | 
+| 2006-08-17 | 第31期棋聖戦Aリーグ | Yoda Norimoto | Cho U | Lose | W+1.5 | 6.5 | 2816 | -22 | 
+| 2006-08-10 | 第45期十段戦本戦2回戦 | Yamashita Keigo | Yoda Norimoto | Lose | B+R | 6.5 | 2838 | -32 | 
+| 2006-08-03 | 第31期名人戦リーグ | Yoda Norimoto | Yamashita Keigo | Lose | W+7.5 | 6.5 | 2870 | 20 | 
+| 2006-07-27 | 第31期碁聖戦挑戦手合五番勝負第3局 | Cho U | Yoda Norimoto | Lose | B+2.5 | 6.5 | 2850 | -26 | 
+| 2006-07-20 | 第31期棋聖戦Aリーグ | Honda Kunihisa | Yoda Norimoto | Win | W+R | 6.5 | 2876 | -84 | 
+| 2006-07-12 | 第31期碁聖戦挑戦手合五番勝負第2局 | Yoda Norimoto | Cho U | Lose | W+R | 6.5 | 2960 | -11 | 
+| 2006-07-06 | 第31期碁聖戦挑戦手合五番勝負第1局 | Cho U | Yoda Norimoto | Lose | B+0.5 | 6.5 | 2971 | 7 | 
+| 2006-06-29 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Sakai Hideyuki | Yoda Norimoto | Win | W+R | 6.5 | 2964 | -179 | 
+| 2006-06-17 | 第26期NECカップ囲碁トーナメント戦1回戦 | Yamashita Keigo | Yoda Norimoto | Lose | B+R | 6.5 | 3143 | -5 | 
+| 2006-06-15 | 第45期十段戦本戦1回戦 | Sakai Takeshi | Yoda Norimoto | Win | W+8.5 | 6.5 | 3148 | 1 | 
+| 2006-06-08 | 第31期名人戦リーグ | Han Zenki | Yoda Norimoto | Lose | B+0.5 | 6.5 | 3147 | 1 | 
+| 2006-06-01 | 第31期棋聖戦Aリーグ | Komatsu Hideki | Yoda Norimoto | Lose | B+2.5 | 6.5 | 3146 | 14 | 
+| 2006-05-25 | 第45期十段戦予選 | Mochizuki Kenichi | Yoda Norimoto | Win | W+R | 6.5 | 3132 | 113 | 
+| 2006-05-18 | 第32期天元戦本戦2回戦 | Sakai Hideyuki | Yoda Norimoto | Lose | B+0.5 | 6.5 | 3019 | -5 | 
+| 2006-05-11 | 第31期名人戦リーグ | Yoda Norimoto | Ko Iso | Win | B+R | 6.5 | 3024 | 1 | 
+| 2006-05-03 | 第5回CSK杯囲碁アジア対抗戦第3戦 | O Meien | Yoda Norimoto | Win | W+R | 6.5 | 3023 | -7 | 
+| 2006-05-02 | 第5回CSK杯囲碁アジア対抗戦第2戦 | Kong Jie | Yoda Norimoto | Lose | B+11.5 | 6.5 | 3030 | -8 | 
+| 2006-05-01 | 第5回CSK杯囲碁アジア対抗戦第1戦 | Lee Changho | Yoda Norimoto | Win | W+2.5 | 6.5 | 3038 | 1 | 
+| 2006-04-20 | 第31期名人戦リーグ | Yoda Norimoto | Yamada Kimio | Win | B+0.5 | 6.5 | 3037 | 0 | 
+| 2006-04-17 | 第45期十段戦予選 | Sakai Hideyuki | Yoda Norimoto | Win | W+2.5 | 6.5 | 3037 | 0 | 
+| 2006-04-13 | 第61期本因坊戦挑戦者決定プレーオフ | Yamada Kimio | Yoda Norimoto | Lose | B+0.5 | 6.5 | 3037 | 4 | 
+| 2006-04-06 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Fujii Shuya | Yoda Norimoto | Win | W+R | 6.5 | 3033 | 16 | 
+| 2006-03-30 | 第61期本因坊戦リーグ | Yoda Norimoto | O Meien | Win | B+R | 6.5 | 3017 | 4 | 
+| 2006-03-23 | 第31期名人戦リーグ | Yoda Norimoto | Takao Shinji | Win | B+2.5 | 6.5 | 3013 | 0 | 
+| 2006-03-13 | 第6回春蘭杯世界囲碁選手権2回戦 | Yoda Norimoto | Hu Yaoyu | Lose | W+R | 7.5 | 3013 | -20 | 
+| 2006-03-11 | 第6回春蘭杯世界囲碁選手権1回戦 | Kong Jie | Yoda Norimoto | Win | W+R | 7.5 | 3033 | 23 | 
+| 2006-03-02 | 第61期本因坊戦リーグ | Cho Sonjin | Yoda Norimoto | Win | W+6.5 | 6.5 | 3010 | 1 | 
+| 2006-02-24 | 第7回農心辛ラーメン杯世界囲碁最強戦第14戦 | Yoda Norimoto | Lee Changho | Win | B+R | 6.5 | 3009 | 25 | 
+| 2006-02-23 | 第7回農心辛ラーメン杯世界囲碁最強戦第13戦 | Kong Jie | Yoda Norimoto | Win | W+R | 6.5 | 2984 | 18 | 
+| 2006-02-22 | 第7回農心辛ラーメン杯世界囲碁最強戦第12戦 | Cho Hanseung | Yoda Norimoto | Win | W+R | 6.5 | 2966 | 1 | 
+| 2006-02-09 | 第61期本因坊戦リーグ | Yoda Norimoto | Cho U | Win | B+3.5 | 6.5 | 2965 | 1 | 
+| 2006-02-02 | 第31期名人戦リーグ | Kobayashi Satoru | Yoda Norimoto | Lose | B+2.5 | 6.5 | 2964 | -10 | 
+| 2006-01-26 | 第61期本因坊戦リーグ | Yoda Norimoto | O Rissei | Win | B+R | 6.5 | 2974 | 1 | 
+| 2006-01-19 | 第31期名人戦リーグ | Sakai Hideyuki | Yoda Norimoto | Lose | B+R | 6.5 | 2973 | 24 | 
+| 2006-01-12 | 第19回世界囲碁選手権富士通杯国内予選 | Cho Chikun | Yoda Norimoto | Lose | B+R | 6.5 | 2949 | -28 | 
+| 2005-12-22 | 第61期本因坊戦リーグ | Yamada Kimio | Yoda Norimoto | Win | W+1.5 | 6.5 | 2977 | -208 | 
+| 2005-12-15 | 第32期天元戦本戦1回戦 | Yoda Norimoto | Imamura Yoshiaki | Win | B+R | 6.5 | 3185 | -14 | 
+| 2005-12-08 | 第31期名人戦リーグ | Imamura Toshiya | Yoda Norimoto | Win | W+R | 6.5 | 3199 | -42 | 
+| 2005-12-01 | 第54期王座戦予選 | Rin Kaiho | Yoda Norimoto | Lose | B+0.5 | 6.5 | 3241 | 136 | 
+| 2005-11-10 | 第19回世界囲碁選手権富士通杯国内予選 | Yoda Norimoto | Komatsu Hideki | Win | B+2.5 | 6.5 | 3105 | 269 | 
+| 2005-11-03 | 第61期本因坊戦リーグ | Hane Naoki | Yoda Norimoto | Lose | B+0.5 | 6.5 | 2836 | -266 | 
+| 2005-10-27 | 第32期天元戦予選 | Yoda Norimoto | Ishida Akira | Win | B+0.5 | 6.5 | 3102 | 36 | 
+| 2005-10-13 | 第61期本因坊戦リーグ | Yoda Norimoto | So Yokoku | Lose | W+R | 6.5 | 3066 | 0 | 
+| 2005-10-06 | 第30期棋聖戦Aリーグ | Yoda Norimoto | Cho U | Win | B+R | 6.5 | 3066 | 14 | 
+| 2005-09-30 | 第10回三星火災杯世界オープン囲碁選手権2回戦 | Lee Sedol | Yoda Norimoto | Lose | B+R | 6.5 | 3052 | -22 | 
+| 2005-09-28 | 第10回三星火災杯世界オープン囲碁選手権1回戦 | Yoda Norimoto | Kim Jiseok | Win | B+2.5 | 6.5 | 3074 | 38 | 
+| 2005-09-22 | 第30期棋聖戦Aリーグ | Mimura Tomoyasu | Yoda Norimoto | Lose | B+R | 6.5 | 3036 | -30 | 
+| 2005-09-01 | 第44期十段戦敗者復活戦2回戦 | Yoda Norimoto | Yamashiro Hiroshi | Lose | W+R | 6.5 | 3066 | -23 | 
+| 2005-08-25 | 第30期棋聖戦Aリーグ | Yoda Norimoto | Honda Kunihisa | Win | B+2.5 | 6.5 | 3089 | 41 | 
+| 2005-08-18 | 第2回中環杯世界囲碁選手権準決勝 | Yoda Norimoto | Choi Cheolhan | Lose | W+1.5 | 6.5 | 3048 | -60 | 
+| 2005-08-16 | 第2回中環杯世界囲碁選手権2回戦 | Yoda Norimoto | Kim Seonryong | Win | B+R | 6.5 | 3108 | 24 | 
+| 2005-08-14 | 第2回中環杯世界囲碁選手権1回戦 | Yoda Norimoto | Chen Shiyuan | Win | B+R | 6.5 | 3084 | 7 | 
+| 2005-08-04 | 第30期名人戦リーグ | Yoda Norimoto | Yamada Kimio | Lose | W+R | 6.5 | 3077 | -37 | 
+| 2005-07-26 | 第30期碁聖戦挑戦手合五番勝負第3局 | Yoda Norimoto | Yuki Satoshi | Win | B+R | 6.5 | 3114 | 14 | 
+| 2005-07-21 | 第30期棋聖戦Aリーグ | Yuki Satoshi | Yoda Norimoto | Lose | B+6.5 | 6.5 | 3100 | 9 | 
+| 2005-07-15 | 第30期碁聖戦挑戦手合五番勝負第2局 | Yuki Satoshi | Yoda Norimoto | Win | W+R | 6.5 | 3091 | 42 | 
+| 2005-07-07 | 第30期碁聖戦挑戦手合五番勝負第1局 | Yoda Norimoto | Yuki Satoshi | Win | B+R | 6.5 | 3049 | -7 | 
+| 2005-06-30 | 第44期十段戦敗者復活戦1回戦 | Yoda Norimoto | Ryu Shikun | Win | B+0.5 | 6.5 | 3056 | 309 | 
+| 2005-06-15 | 第17回テレビアジア選手権準決勝 | Yoda Norimoto | Cho Hanseung | Lose | W+10.5 | 7.5 | 2747 | -7 | 
+| 2005-06-14 | 第17回テレビアジア選手権1回戦 | Gu Li | Yoda Norimoto | Win | W+R | 7.5 | 2754 | -8 | 
+| 2005-06-09 | 第30期名人戦リーグ | Imamura Toshiya | Yoda Norimoto | Lose | B+5.5 | 6.5 | 2762 | -5 | 
+| 2005-06-02 | 第30期棋聖戦Aリーグ | Kato Atsushi | Yoda Norimoto | Lose | B+0.5 | 6.5 | 2767 | -45 | 
+| 2005-05-23 | 第25期NECカップ囲碁トーナメント戦1回戦 | Cho U | Yoda Norimoto | Lose | B+R | 6.5 | 2812 | -9 | 
+| 2005-05-19 | 第44期十段戦本戦1回戦 | Yoda Norimoto | Takao Shinji | Lose | W+R | 6.5 | 2821 | -35 | 
+| 2005-05-12 | 第30期名人戦リーグ | Yoda Norimoto | Yamashita Keigo | Lose | W+1.5 | 6.5 | 2856 | -23 | 
+| 2005-05-03 | 第4回CSK杯囲碁アジア対抗戦第3戦 | Yoda Norimoto | Cho U | Win | B+R | 6.5 | 2879 | 8 | 
+| 2005-05-02 | 第4回CSK杯囲碁アジア対抗戦第2戦 | Choi Cheolhan | Yoda Norimoto | Lose | B+4.5 | 6.5 | 2871 | -12 | 
+| 2005-05-01 | 第4回CSK杯囲碁アジア対抗戦第1戦 | Gu Li | Yoda Norimoto | Win | W+R | 6.5 | 2883 | 6 | 
+| 2005-04-28 | 第53期王座戦1回戦 | O Meien | Yoda Norimoto | Lose | B+R | 6.5 | 2877 | 88 | 
+| 2005-04-21 | 第31期天元戦本戦3回戦 | Kono Rin | Yoda Norimoto | Lose | B+1.5 | 6.5 | 2789 | -105 | 
+| 2005-04-11 | 第18回世界囲碁選手権富士通杯2回戦 | Yoda Norimoto | Lee Sedol | Lose | W+1.5 | 6.5 | 2894 | -9 | 
+| 2005-04-07 | 第30期名人戦リーグ | Yoda Norimoto | Kobayashi Satoru | Lose | W+0.5 | 6.5 | 2903 | -7 | 
+| 2005-03-31 | 第60期本因坊戦リーグ | Yoda Norimoto | So Yokoku | Lose | W+R | 6.5 | 2910 | -13 | 
+| 2005-03-17 | 第60期本因坊戦リーグ | Cho Sonjin | Yoda Norimoto | Win | W+R | 6.5 | 2923 | 2 | 
+| 2005-03-10 | 第31期天元戦本戦2回戦 | Yoda Norimoto | O Rissei | Win | B+R | 6.5 | 2921 | 48 | 
+| 2005-03-03 | 第30期名人戦リーグ | Sakai Hideyuki | Yoda Norimoto | Lose | B+0.5 | 6.5 | 2873 | -402 | 
+| 2005-02-17 | 第30期名人戦リーグ | O Meien | Yoda Norimoto | Win | W+1.5 | 6.5 | 3275 | -7 | 
+| 2005-02-03 | 第60期本因坊戦リーグ | Yoda Norimoto | O Rissei | Win | B+1.5 | 6.5 | 3282 | 83 | 
+| 2005-01-13 | 第60期本因坊戦リーグ | Yoda Norimoto | O Meien | Lose | W+2.5 | 6.5 | 3199 | -45 | 
+| 2005-01-06 | 第30期名人戦リーグ | Yoda Norimoto | Ogata Masaki | Win | B+3.5 | 6.5 | 3244 | 75 | 
+| 2004-12-23 | 第31期天元戦本戦1回戦 | Mizokami Tomochika | Yoda Norimoto | Win | W+R | 6.5 | 3169 | 57 | 
+| 2004-12-16 | 第43期十段戦敗者復活戦4回戦 | Takao Shinji | Yoda Norimoto | Lose | B+4.5 | 6.5 | 3112 | -31 | 
+| 2004-12-09 | 第30期名人戦リーグ | Cho Sonjin | Yoda Norimoto | Win | W+R | 6.5 | 3143 | 127 | 
+| 2004-12-02 | 第60期本因坊戦リーグ | Han Zenki | Yoda Norimoto | Win | W+R | 6.5 | 3016 | -15 | 
+| 2004-11-25 | 第43期十段戦敗者復活戦3回戦 | Yoda Norimoto | Cho U | Win | B+0.5 | 6.5 | 3031 | 51 | 
+| 2004-11-20 | 第24期NECカップ囲碁トーナメント戦2回戦 | Yoda Norimoto | Kobayashi Koichi | Lose | W+5.5 | 6.5 | 2980 | -8 | 
+| 2004-11-18 | 第60期本因坊戦リーグ | Takao Shinji | Yoda Norimoto | Lose | B+1.5 | 6.5 | 2988 | -22 | 
+| 2004-11-04 | 第29期名人戦挑戦手合七番勝負第6局 | Cho U | Yoda Norimoto | Lose | B+1.5 | 6.5 | 3010 | 168 | 
+| 2004-10-28 | 第60期本因坊戦リーグ | Mimura Tomoyasu | Yoda Norimoto | Win | W+2.5 | 6.5 | 2842 | -384 | 
+| 2004-10-22 | 第29期名人戦挑戦手合七番勝負第5局 | Yoda Norimoto | Cho U | Lose | W+4.5 | 6.5 | 3226 | 67 | 
+| 2004-10-14 | 第29期名人戦挑戦手合七番勝負第4局 | Cho U | Yoda Norimoto | Lose | B+7.5 | 6.5 | 3159 | -7 | 
+| 2004-10-07 | 第29期棋聖戦Aリーグ | Miyazawa Goro | Yoda Norimoto | Win | W+10.5 | 6.5 | 3166 | 53 | 
+| 2004-09-30 | 第29期名人戦挑戦手合七番勝負第3局 | Yoda Norimoto | Cho U | Win | B+R | 6.5 | 3113 | -210 | 
+| 2004-09-23 | 第29期名人戦挑戦手合七番勝負第2局 | Cho U | Yoda Norimoto | Lose | B+3.5 | 6.5 | 3323 | -58 | 
+| 2004-09-16 | 第29期棋聖戦Aリーグ | Yoda Norimoto | Ryu Shikun | Win | B+R | 6.5 | 3381 | 8 | 
+| 2004-09-13 | 第24期NECカップ囲碁トーナメント戦1回戦 | Kobayashi Satoru | Yoda Norimoto | Win | W+1.5 | 6.5 | 3373 | -21 | 
+| 2004-09-10 | 第29期名人戦挑戦手合七番勝負第1局 | Yoda Norimoto | Cho U | Win | B+0.5 | 6.5 | 3394 | 290 | 
+| 2004-09-02 | 第43期十段戦敗者復活戦2回戦 | O Meien | Yoda Norimoto | Win | W+R | 6.5 | 3104 | -7 | 
+| 2004-08-30 | 第52期王座戦挑戦者決定戦 | Yoda Norimoto | Yamashita Keigo | Lose | W+R | 6.5 | 3111 | -26 | 
+| 2004-08-23 | 第2期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Song Taekon | Yoda Norimoto | Lose | B+2.5 | 6.5 | 3137 | -15 | 
+| 2004-08-21 | 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Jiang Mingjiu | Yoda Norimoto | Win | W+R | 6.5 | 3152 | 19 | 
+| 2004-08-12 | 第29期碁聖戦挑戦手合五番勝負第4局 | Yamada Kimio | Yoda Norimoto | Win | W+4.5 | 6.5 | 3133 | 21 | 
+| 2004-08-09 | 第29期棋聖戦Aリーグ | O Meien | Yoda Norimoto | Lose | B+2.5 | 6.5 | 3112 | -36 | 
+| 2004-08-05 | 第52期王座戦準決勝 | Yoda Norimoto | Takao Shinji | Win | B+R | 6.5 | 3148 | 9 | 
+| 2004-08-02 | 第43期十段戦本戦2回戦 | Takao Shinji | Yoda Norimoto | Lose | B+0.5 | 6.5 | 3139 | 22 | 
+| 2004-07-29 | 第29期棋聖戦Aリーグ | Yoda Norimoto | Mimura Tomoyasu | Win | B+R | 6.5 | 3117 | 5 | 
+| 2004-07-26 | 第29期碁聖戦挑戦手合五番勝負第3局 | Yoda Norimoto | Yamada Kimio | Win | B+R | 6.5 | 3112 | -13 | 
+| 2004-07-15 | 第29期碁聖戦挑戦手合五番勝負第2局 | Yamada Kimio | Yoda Norimoto | Win | W+R | 6.5 | 3125 | 5 | 
+| 2004-07-09 | 第59期本因坊戦挑戦手合七番勝負第6局 | Cho U | Yoda Norimoto | Lose | B+0.5 | 6.5 | 3120 | -44 | 
+| 2004-07-05 | 第17回世界囲碁選手権富士通杯決勝 | Park Yeonghun | Yoda Norimoto | Lose | B+1.5 | 6.5 | 3164 | 5 | 
+| 2004-07-03 | 第17回世界囲碁選手権富士通杯準決勝 | Yoda Norimoto | Song Taekon | Win | B+R | 6.5 | 3159 | 15 | 
+| 2004-06-29 | 第29期碁聖戦挑戦手合五番勝負第1局 | Yoda Norimoto | Yamada Kimio | Lose | W+0.5 | 6.5 | 3144 | 2 | 
+| 2004-06-25 | 第59期本因坊戦挑戦手合七番勝負第5局 | Yoda Norimoto | Cho U | Win | B+R | 6.5 | 3142 | 20 | 
+| 2004-06-18 | 第59期本因坊戦挑戦手合七番勝負第4局 | Cho U | Yoda Norimoto | Lose | B+7.5 | 6.5 | 3122 | -21 | 
+| 2004-06-10 | 第29期棋聖戦Aリーグ | Yoda Norimoto | Yamashita Keigo | Win | B+0.5 | 6.5 | 3143 | -8 | 
+| 2004-06-05 | 第17回世界囲碁選手権富士通杯3回戦 | Lee Changho | Yoda Norimoto | Win | W+3.5 | 6.5 | 3151 | 35 | 
+| 2004-06-01 | 第59期本因坊戦挑戦手合七番勝負第3局 | Yoda Norimoto | Cho U | Win | B+R | 6.5 | 3116 | 42 | 
+| 2004-05-25 | 第59期本因坊戦挑戦手合七番勝負第2局 | Cho U | Yoda Norimoto | Lose | B+R | 6.5 | 3074 | -53 | 
+| 2004-05-20 | 第52期王座戦2回戦 | Yoda Norimoto | Kono Rin | Win | B+R | 6.5 | 3127 | 13 | 
+| 2004-05-13 | 第43期十段戦本戦1回戦 | Yoda Norimoto | Yamashita Keigo | Win | B+R | 6.5 | 3114 | 40 | 
+| 2004-05-08 | 第59期本因坊戦挑戦手合七番勝負第1局 | Yoda Norimoto | Cho U | Lose | W+0.5 | 6.5 | 3074 | 18 | 
+| 2004-04-29 | 第52期王座戦1回戦 | Kamimura Kunio | Yoda Norimoto | Win | W+R | 6.5 | 3056 | -123 | 
+| 2004-04-22 | 第5回応氏杯世界選手権2回戦 | Peng Quan | Yoda Norimoto | Lose | B+R | 7.5 | 3179 | -27 | 
+| 2004-04-12 | 第17回世界囲碁選手権富士通杯2回戦 | Cho Hunhyun | Yoda Norimoto | Win | W+4.5 | 6.5 | 3206 | -42 | 
+| 2004-04-05 | 第59期本因坊戦リーグ | Yoda Norimoto | Mimura Tomoyasu | Win | B+2.5 | 6.5 | 3248 | 8 | 
+| 2004-04-03 | 第2期JALスーパー早碁1回戦（再対局） | O Meien | Yoda Norimoto | Win | W+R | 6.5 | 3240 | 56 | 
+| 2004-04-01 | 第59期本因坊戦リーグ | Kobayashi Koichi | Yoda Norimoto | Win | W+6.5 | 6.5 | 3184 | 6 | 
+| 2004-03-27 | 第2期JALスーパー早碁1回戦 | Yoda Norimoto | O Meien | Lose | Void | 6.5 | 3178 | 2 | 
+| 2004-03-23 | 第3回CSK杯囲碁アジア対抗戦第3戦 | Yoda Norimoto | Zhou Junxun | Lose | W+R | 6.5 | 3176 | -56 | 
+| 2004-03-22 | 第3回CSK杯囲碁アジア対抗戦第2戦 | Yoo Changhyuk | Yoda Norimoto | Win | W+3.5 | 6.5 | 3232 | 8 | 
+| 2004-03-21 | 第3回CSK杯囲碁アジア対抗戦第1戦 | Wang Lei (b) | Yoda Norimoto | Win | W+R | 6.5 | 3224 | -8 | 
+| 2004-03-11 | 第59期本因坊戦リーグ | O Meien | Yoda Norimoto | Win | W+6.5 | 6.5 | 3232 | 190 | 
+| 2004-02-05 | 第59期本因坊戦リーグ | Cho Sonjin | Yoda Norimoto | Win | W+1.5 | 6.5 | 3042 | 12 | 
+| 2004-01-29 | 第30期天元戦本戦1回戦 | Yoda Norimoto | Yamada Kimio | Lose | W+R | 6.5 | 3030 | -5 | 
+| 2004-01-08 | 第59期本因坊戦リーグ | Yoda Norimoto | Yamashita Keigo | Win | B+R | 6.5 | 3035 | -11 | 
+| 2003-12-11 | 第42期十段戦敗者復活戦4回戦 | Yoda Norimoto | Yamada Kimio | Lose | W+R | 6.5 | 3046 | -5 | 
+| 2003-12-04 | 第59期本因坊戦リーグ | Yoda Norimoto | Mimura Tomoyasu | Lose | W+2.5 | 6.5 | 3051 | -26 | 
+| 2003-11-20 | 第59期本因坊戦リーグ | Yoda Norimoto | Kato Masao | Win | B+R | 6.5 | 3077 | -6 | 
+| 2003-11-13 | 第42期十段戦本戦勝者組決勝 | Cho U | Yoda Norimoto | Lose | B+6.5 | 6.5 | 3083 | -42 | 
+| 2003-10-30 | 第59期本因坊戦リーグ | Yoda Norimoto | O Rissei | Lose | W+2.5 | 6.5 | 3125 | -41 | 
+| 2003-10-23 | 第28期名人戦挑戦手合七番勝負第5局 | Yoda Norimoto | Yamashita Keigo | Win | B+R | 6.5 | 3166 | -2890 | 
+| 2003-10-16 | 第28期名人戦挑戦手合七番勝負第4局 | Yamashita Keigo | Yoda Norimoto | Win | W+3.5 | 6.5 | 6056 | 93 | 
+| 2003-10-09 | 第28期棋聖戦Bリーグ | Yoda Norimoto | O Meien | Lose | W+0.5 | 6.5 | 5963 | 146 | 
+| 2003-10-02 | 第28期名人戦挑戦手合七番勝負第3局 | Yoda Norimoto | Yamashita Keigo | Lose | W+2.5 | 6.5 | 5817 | 2870 | 
+| 2003-09-25 | 第28期名人戦挑戦手合七番勝負第2局 | Yamashita Keigo | Yoda Norimoto | Win | W+R | 6.5 | 2947 | 17 | 
+| 2003-09-18 | 第28期棋聖戦Bリーグ | Awaji Shuzo | Yoda Norimoto | Win | W+5.5 | 6.5 | 2930 | 3 | 
+| 2003-09-15 | 第42期十段戦本戦3回戦 | Yoda Norimoto | Hashimoto Yujiro | Win | B+R | 6.5 | 2927 | -26 | 
+| 2003-09-11 | 第28期名人戦挑戦手合七番勝負第1局 | Yoda Norimoto | Yamashita Keigo | Win | B+7.5 | 6.5 | 2953 | 100 | 
+| 2003-08-27 | 第28期碁聖戦挑戦手合五番勝負第5局 | Kobayashi Koichi | Yoda Norimoto | Win | W+3.5 | 6.5 | 2853 | 13 | 
+| 2003-08-20 | 第28期碁聖戦挑戦手合五番勝負第4局 | Kobayashi Koichi | Yoda Norimoto | Lose | B+0.5 | 6.5 | 2840 | -12 | 
+| 2003-08-14 | 第28期棋聖戦Bリーグ | Ryu Shikun | Yoda Norimoto | Win | W+1.5 | 6.5 | 2852 | 86 | 
+| 2003-07-31 | 第28期碁聖戦挑戦手合五番勝負第3局 | Yoda Norimoto | Kobayashi Koichi | Lose | W+4.5 | 6.5 | 2766 | 16 | 
+| 2003-07-17 | 第28期碁聖戦挑戦手合五番勝負第2局 | Kobayashi Koichi | Yoda Norimoto | Win | W+8.5 | 6.5 | 2750 | 8 | 
+| 2003-07-10 | 第28期棋聖戦Bリーグ | Cho Chikun | Yoda Norimoto | Lose | B+6.5 | 6.5 | 2742 | -25 | 
+| 2003-07-07 | 第16回世界囲碁選手権富士通杯三位決定戦 | Yoda Norimoto | Lee Changho | Lose | W+R | 6.5 | 2767 | -24 | 
+| 2003-07-05 | 第16回世界囲碁選手権富士通杯準決勝 | Yoda Norimoto | Lee Sedol | Lose | W+0.5 | 6.5 | 2791 | -35 | 
+| 2003-07-01 | 第28期碁聖戦挑戦手合五番勝負第1局 | Yoda Norimoto | Kobayashi Koichi | Win | B+10.5 | 6.5 | 2826 | 22 | 
+| 2003-06-29 | 第1期JALスーパー早碁1回戦 | Kobayashi Koichi | Yoda Norimoto | Lose | B+6.5 | 6.5 | 2804 | -60 | 
+| 2003-06-12 | 第28期棋聖戦Bリーグ | Yoda Norimoto | Cho U | Lose | W+R | 6.5 | 2864 | -47 | 
+| 2003-06-07 | 第16回世界囲碁選手権富士通杯3回戦 | Yoo Changhyuk | Yoda Norimoto | Win | W+R | 6.5 | 2911 | 9 | 
+| 2003-05-29 | 第28期碁聖戦挑戦者決定戦 | Akiyama Jiro | Yoda Norimoto | Win | W+2.5 | 6.5 | 2902 | 34 | 
+| 2003-05-26 | 第23期NECカップ囲碁トーナメント戦1回戦 | Yoda Norimoto | Yamashita Keigo | Lose | W+4.5 | 6.5 | 2868 | -38 | 
+| 2003-05-22 | 第51期王座戦2回戦 | Cho U | Yoda Norimoto | Lose | B+R | 6.5 | 2906 | -68 | 
+| 2003-05-08 | 第28期碁聖戦本戦準決勝 | Michael Redmond | Yoda Norimoto | Win | W+8.5 | 6.5 | 2974 | 17 | 
+| 2003-04-29 | 第2回CSK杯囲碁アジア対抗戦第3戦 | Yoda Norimoto | Dong Yan | Win | B+R | 6.5 | 2957 | 31 | 
+| 2003-04-28 | 第2回CSK杯囲碁アジア対抗戦第2戦 | Yoda Norimoto | Lee Sedol | Win | B+R | 6.5 | 2926 | 87 | 
+| 2003-04-27 | 第2回CSK杯囲碁アジア対抗戦第1戦 | Yoda Norimoto | O Rissei | Win | B+R | 6.5 | 2839 | -27 | 
+| 2003-04-14 | 第16回世界囲碁選手権富士通杯2回戦 | Yoda Norimoto | Wang Lei (b) | Win | B+R | 6.5 | 2866 | 104 | 
+| 2003-04-12 | 第16回世界囲碁選手権富士通杯1回戦 | Yoda Norimoto | Chang Hao | Win | B+R | 6.5 | 2762 | 131 | 
+| 2003-04-10 | 第28期碁聖戦本戦3回戦 | Yoda Norimoto | Nakano Hironari | Win | B+R | 6.5 | 2631 | 156 | 
+| 2003-04-03 | 第51期王座戦1回戦 | Yoda Norimoto | Izumitani Hideo | Win | B+4.5 | 6.5 | 2475 | 2475 | 
+| 2003-02-06 | 第29期天元戦本戦1回戦 | Yoda Norimoto | Yokota Shigeaki | Lose | W+R | 6.5 | missing | 0 | 
+| 2003-01-21 | 第4回農心辛ラーメン杯世界囲碁最強戦第12戦 | Hu Yaoyu | Yoda Norimoto | Lose | B+0.5 | 6.5 | missing | 0 | 
+| 2003-01-16 | 第28期碁聖戦本戦2回戦 | Sasaka Shiro | Yoda Norimoto | Win | W+R | 6.5 | missing | 0 | 
+| 2002-12-19 | 第28期碁聖戦本戦1回戦 | Kato Masao | Yoda Norimoto | Win | W+13.5 | 6.5 | missing | 0 | 
+| 2000-06-13 | 第5回LG杯世界棋王戦1回戦 | Yang Keon | Yoda Norimoto | Lose | B+2.5 | 6.5 | missing | 0 | 
+| 2000-05-04 | 第4回応氏杯世界選手権3回戦 | Lee Changho | Yoda Norimoto | Lose | B+3 | 7.5 | missing | 0 | 
+| 2000-05-02 | 第4回応氏杯世界選手権2回戦 | Yoda Norimoto | Shao Weigang | Win | B+1 | 7.5 | missing | 0 | 
+| 2000-01-22 | 第1回農心辛ラーメン杯世界囲碁最強戦第8戦 | Yoda Norimoto | Cho Hunhyun | Lose | W+R | 6.5 | missing | 0 | 
+| 2000-01-21 | 第1回農心辛ラーメン杯世界囲碁最強戦第7戦 | Yoda Norimoto | Wang Lei (b) | Win | B+R | 6.5 | missing | 0 | 
+| 2000-01-19 | 第1回農心辛ラーメン杯世界囲碁最強戦第6戦 | Yoda Norimoto |  | Win | B+11.5 | 6.5 | missing | 0 | 
+| 1999-09-07 | 第4期三星杯1回戦 | An Joyeong | Yoda Norimoto | Lose | B+R | 6.5 | missing | 0 | 
+| 1999-06-17 | 第4回LG杯世界棋王戦2回戦 | Yoda Norimoto | Wang Lei (b) | Lose | W+2.5 | 6.5 | missing | 0 | 
+| 1996-11-06 | 第3回応氏杯世界選手権決勝五番勝負第4局 | Yoda Norimoto | Yoo Changhyuk | Lose | W+5 | 7.5 | missing | 0 | 
+| 1996-11-04 | 第3回応氏杯世界選手権決勝五番勝負第3局 | Yoo Changhyuk | Yoda Norimoto | Lose | B+5 | 7.5 | missing | 0 | 
+| 1996-10-06 | 第3回応氏杯世界選手権決勝五番勝負第2局 | Yoda Norimoto | Yoo Changhyuk | Lose | W+3 | 7.5 | missing | 0 | 
+| 1996-10-04 | 第3回応氏杯世界選手権決勝五番勝負第1局 | Yoo Changhyuk | Yoda Norimoto | Win | W+3 | 7.5 | missing | 0 | 
+| 1996-08-14 | 第3回応氏杯世界選手権準決勝三番勝負第3局 | Yoda Norimoto | Cho Chikun | Win | B+R | 7.5 | missing | 0 | 
+| 1996-08-12 | 第3回応氏杯世界選手権準決勝三番勝負第2局 | Cho Chikun | Yoda Norimoto | Win | W+R | 7.5 | missing | 0 | 
+| 1996-08-10 | 第3回応氏杯世界選手権準決勝三番勝負第1局 | Yoda Norimoto | Cho Chikun | Lose | W+3 | 7.5 | missing | 0 | 
+| 1996-04-28 | 第3回応氏杯世界選手権3回戦 | Yoda Norimoto | Cho Hunhyun | Win | B+3 | 7.5 | missing | 0 | 
+| 1996-04-26 | 第3回応氏杯世界選手権2回戦 | Seo Bongsoo | Yoda Norimoto | Win | W+R | 7.5 | missing | 0 | 
+| 1996-04-24 | 第3回応氏杯世界選手権1回戦 | Yoda Norimoto | Michael Redmond | Win | B+7 | 7.5 | missing | 0 | 
+| 1992-07-15 | 第2回応氏杯世界選手権2回戦 | Rin Kaiho | Yoda Norimoto | Lose | B+1 | 7.5 | missing | 0 | 
+| 1992-07-13 | 第2回応氏杯世界選手権1回戦 | Wu Songsheng | Yoda Norimoto | Win | W+1 | 7.5 | missing | missing |
 
 
 

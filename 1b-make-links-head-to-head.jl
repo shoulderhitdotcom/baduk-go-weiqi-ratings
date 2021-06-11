@@ -72,14 +72,10 @@ for (name1, name2) in head_to_head_sets
             :name1win_streak=>Symbol("$name1 streak"),
             :name2win_streak=>Symbol("$name2 streak")
         )
-        sort!(:date, rev=true)
+        sort!(:Date, rev=true)
     end
 
     if nrow(head_to_head) > 0
         JDF.save("./head-to-head-md/jdf/$name1-$name2.jdf", head_to_head)
     end
 end
-# end
-
-# this is used in the next section
-# @time update_head_to_head_games_jdf(df, names_to_update);

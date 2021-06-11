@@ -34,7 +34,17 @@ function get_mean_std(paths)
     while upto <= length(paths)
         df = CSV.read(paths[upto], DataFrame)
         df[!, :date] .= Date(paths[upto][9:18])
-        df[!, :estimate_corrected] = (df.estimate .- mean(df.estimate)) ./ std(df.estimate)
+
+        df1 = @chain df begin
+            @where :p_value .<= 0.05
+        end
+
+        meane = mean(df1.estimate)
+        stde = std(df1.estimate)
+
+        df[!, :estimate_corrected] = (df.estimate .- meane) ./ stde
+        df = @where(df, :p_value .<= 0.05)
+        df[!, :nplayers] .= nrow(df)
         push!(fnl_res, select(df, Not(:term)))
         upto += 1
     end
@@ -47,8 +57,9 @@ fnl_res2 = reduce(vcat,fnl_res)
 
 fnl_res3=@chain fnl_res2 begin
     @where :Rank .== 1
-    select(:name, :estimate, :estimate_corrected, :date)
+    select(:name, :estimate, :estimate_corrected, :date, :nplayers)
     unique()
+    @where :nplayers .>= 100
 end
 
 browse(fnl_res3)

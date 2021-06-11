@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Zheng Xu | Wang Xinghao | Win | W+R | 7.5 | 3389 | 14 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Zhou Ruiyang | Lose | W+R | 7.5 | 3375 | -1 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Zhou Ruiyang | Lose | W+R | 7.5 | 3376 | -18 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Tan Xiao | Wang Xinghao | Win | W+1¼ | 7.5 | 3394 | 9 | 

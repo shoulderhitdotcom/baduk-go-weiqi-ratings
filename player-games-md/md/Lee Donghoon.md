@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Li Xuanhao | Lose | W+R | 7.5 | 3497 | 4 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Yang Kaiwen | Win | B+R | 7.5 | 3493 | 10 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Zhao Chenyu | Win | B+2¾ | 7.5 | 3483 | 1 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Lee Donghoon | Win | W+2¼ | 7.5 | 3482 | 4 | 

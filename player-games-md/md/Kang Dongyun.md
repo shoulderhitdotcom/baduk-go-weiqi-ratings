@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Mi Yuting | Kang Dongyun | Lose | B+¾ | 7.5 | 3453 | 5 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ |  | Kang Dongyun | Win | W+R | 7.5 | 3448 | -2 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ |  | Kang Dongyun | Win | W+R | 7.5 | 3450 | 2 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Kang Dongyun | Win | W+R | 7.5 | 3448 | 2 | 

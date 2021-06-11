@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | He Yuhan | Xia Chenkun | Lose | W+R | 7.5 | 3343 | -1 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Huang Yunsong | He Yuhan | Lose | B+R | 7.5 | 3344 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Huang Yunsong | He Yuhan | Lose | B+R | 7.5 | 3344 | -22 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | He Yuhan | Liu Yuhang | Lose | W+R | 7.5 | 3366 | -15 | 

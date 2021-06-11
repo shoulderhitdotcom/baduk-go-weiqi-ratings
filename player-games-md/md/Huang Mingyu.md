@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Huang Mingyu | Lose | B+¾ | 7.5 | 3336 | 4 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Fan Tingyu | Lose | W+2¼ | 7.5 | 3332 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Fan Tingyu | Lose | W+2¼ | 7.5 | 3332 | -13 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Zhang Tao | Huang Mingyu | Win | W+R | 7.5 | 3345 | 14 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Jin Yucheng | Win | W+R | 7.5 | 3324 | 75 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Jin Yucheng | Xu Jiayang | Lose | W+R | 7.5 | 3249 | -31 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Jin Yucheng | Win | W+R | 7.5 | 3280 | 303 | 
 | 2021-05-27 | 第25期馬橋杯中国囲碁新人王戦3回戦 | Tu Xiaoyu | Jin Yucheng | Lose | B+R | 7.5 | 2977 | 2 | 

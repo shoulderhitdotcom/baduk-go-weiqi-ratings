@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Xu Yidi | Wang Zejin | Lose | W+R | 7.5 | 2624 | 4 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Tao Xinran | Xu Yidi | Lose | B+¾ | 7.5 | 2620 | -14 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Xia Chenkun | Xu Yidi | Lose | B+R | 7.5 | 2634 | 2634 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Xu Yidi | Yi Lingtao | Lose | W+R | 7.5 | missing | 0 | 

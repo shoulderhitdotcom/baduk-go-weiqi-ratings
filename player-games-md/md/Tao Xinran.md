@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tao Xinran | Win | W+R | 7.5 | 3560 | 22 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Tao Xinran | Xu Yidi | Win | B+¾ | 7.5 | 3538 | 0 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Zheng Xu | Tao Xinran | Win | W+R | 7.5 | 3538 | -4 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Tao Xinran | Lose | B+1¾ | 7.5 | 3542 | -6 | 

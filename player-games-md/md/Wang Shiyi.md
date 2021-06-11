@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Wang Shiyi | Win | W+R | 7.5 | 3257 | 35 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Wang Shiyi | Tan Xiao | Lose | W+R | 7.5 | 3222 | -13 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Wang Shiyi | Lose | B+R | 7.5 | 3235 | -15 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Chen Hao | Wang Shiyi | Win | W+R | 7.5 | 3250 | -179 | 

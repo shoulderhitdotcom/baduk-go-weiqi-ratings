@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Wu Guangya | Li Qincheng | Lose | W+R | 7.5 | 3208 | 8 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Wu Guangya | Lose | B+R | 7.5 | 3200 | -27 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Wu Guangya | Wang Zejin | Win | B+R | 7.5 | 3227 | 18 | 
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Guo Xinyi | Wu Guangya | Lose | B+R | 7.5 | 3209 | -51 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Shen Peiran | Huang Yunsong | Win | W+1¼ | 7.5 | 3433 | 14 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Huang Yunsong | He Yuhan | Win | B+R | 7.5 | 3419 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Huang Yunsong | He Yuhan | Win | B+R | 7.5 | 3419 | 14 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Jin Yucheng | Lose | W+R | 7.5 | 3405 | -24 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Xie Erhao | Zhou Hexi | Lose | B+R | 7.5 | 3275 | 11 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Shi Yue | Zhou Hexi | Lose | B+R | 7.5 | 3264 | -23 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Xu Jiayang | Zhou Hexi | Lose | B+R | 7.5 | 3287 | -26 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Lyu Liyan | Zhou Hexi | Win | W+R | 7.5 | 3313 | -9 | 

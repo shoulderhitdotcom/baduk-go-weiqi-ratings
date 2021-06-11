@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Ding Shixiong | Lose | B+R | 7.5 | 3181 | 11 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Ding Shixiong | Win | W+R | 7.5 | 3170 | 53 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Ding Shixiong | Tao Xinran | Lose | W+R | 7.5 | 3117 | -72 | 
 | 2021-04-08 | 第17回倡棋杯中国プロ囲碁選手権戦予選 | Wang Yao | Ding Shixiong | Lose | B+R | 7.5 | 3189 | -3 | 

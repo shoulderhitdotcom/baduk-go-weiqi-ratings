@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Shi Yue | Xu Jiayang | Lose | W+R | 7.5 | 3447 | 6 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Shi Yue | Zhou Hexi | Win | B+R | 7.5 | 3441 | 8 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Shi Yue | Chen Yaoye | Win | B+R | 7.5 | 3433 | 8 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Shi Yue | Lose | B+R | 7.5 | 3425 | -10 | 

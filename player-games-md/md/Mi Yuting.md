@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Mi Yuting | Kang Dongyun | Win | B+¾ | 7.5 | 3535 | 15 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Mi Yuting | Lose | B+R | 7.5 | 3520 | -4 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Ding Hao | Mi Yuting | Lose | B+R | 7.5 | 3524 | -10 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Mi Yuting | Shin Jinseo | Win | B+R | 7.5 | 3534 | 17 | 

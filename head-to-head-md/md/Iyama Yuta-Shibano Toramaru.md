@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Iyama Yuta vs Shibano Toramaru** | **Iyama Yuta streak** | **Shibano Toramaru streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-11 | 第76期本因坊戦挑戦手合七番勝負第4局  | Iyama Yuta | Shibano Toramaru | W+R | 6.5 | 0:1 | 0 | 1 | 
+| 2021-06-02 | 第76期本因坊戦挑戦手合七番勝負第3局  | Shibano Toramaru | Iyama Yuta | B+R | 6.5 | 12:12 | 0 | 2 | 
 | 2021-05-25 | 第76期本因坊戦挑戦手合七番勝負第2局  | Iyama Yuta | Shibano Toramaru | W+R | 6.5 | 12:11 | 0 | 1 | 
 | 2021-05-12 | 第76期本因坊戦挑戦手合七番勝負第1局  | Shibano Toramaru | Iyama Yuta | W+R | 6.5 | 12:10 | 3 | 0 | 
 | 2020-10-14 | 第45期名人戦挑戦手合七番勝負第5局  | Shibano Toramaru | Iyama Yuta | W+R | 6.5 | 11:10 | 2 | 0 | 
@@ -28,8 +30,7 @@
 | 2019-05-06 | 第6回グランドチャンピオン戦決勝 | Iyama Yuta | Shibano Toramaru | W+R | 6.5 | 1:4 | 0 | 3 | 
 | 2019-02-07 | 第44期名人戦リーグ | Iyama Yuta | Shibano Toramaru | W+1.5 | 6.5 | 1:3 | 0 | 2 | 
 | 2018-08-14 | 阪急納涼囲碁まつり納涼トーナメント第2局 | Iyama Yuta | Shibano Toramaru | W+R | 6.5 | 1:2 | 0 | 1 | 
-| 2016-12-26 | 日本国家隊冬季合宿訓練戦 | Iyama Yuta | Shibano Toramaru | B+R | 6.5 | 1:1 | 1 | 0 | 
-| 2021-06-02 | 第76期本因坊戦挑戦手合七番勝負第3局  | Shibano Toramaru | Iyama Yuta | B+R | 6.5 | 0:1 | 0 | 1 |
+| 2016-12-26 | 日本国家隊冬季合宿訓練戦 | Iyama Yuta | Shibano Toramaru | B+R | 6.5 | 1:1 | 1 | 0 |
 
 
 

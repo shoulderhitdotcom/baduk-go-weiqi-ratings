@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Iyama Yuta | Xie Ke | Win | B+R | 7.5 | 3440 | 16 | 
 | 2021-06-11 | 第76期本因坊戦挑戦手合七番勝負第4局  | Iyama Yuta | Shibano Toramaru | Lose | W+R | 6.5 | 3424 | -26 | 
 | 2021-06-02 | 第76期本因坊戦挑戦手合七番勝負第3局  | Shibano Toramaru | Iyama Yuta | Lose | B+R | 6.5 | 3450 | 3450 | 
 | 2021-05-25 | 第76期本因坊戦挑戦手合七番勝負第2局  | Iyama Yuta | Shibano Toramaru | Lose | W+R | 6.5 | missing | -3479 | 

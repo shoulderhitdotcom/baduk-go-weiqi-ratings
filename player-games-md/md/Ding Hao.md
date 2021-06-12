@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Tao Xinran | Ding Hao | Win | W+R | 7.5 | 3583 | 8 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Ding Hao | Yang Dingxin | Win | B+R | 7.5 | 3575 | 27 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Gu Zihao | Ding Hao | Win | W+R | 7.5 | 3548 | -1 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Gu Zihao | Ding Hao | Win | W+R | 7.5 | 3549 | 16 | 

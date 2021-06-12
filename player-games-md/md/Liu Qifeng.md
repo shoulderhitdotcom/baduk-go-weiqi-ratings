@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Wang Shiyi | Liu Qifeng | Win | W+¼ | 7.5 | 3100 | 3100 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Liu Qifeng | Lose | B+R | 7.5 | missing | 0 | 
 | 2021-04-25 | 第20回西南棋王戦1回戦 | Liu Qifeng | Gu Li | Lose | W+R | 7.5 | missing | -2977 | 
 | 2019-11-10 | 第4回全国智力運動会プロ男子個人戦第4戦 | He Yuhan | Liu Qifeng | Win | W+R | 7.5 | 2977 | 0 | 

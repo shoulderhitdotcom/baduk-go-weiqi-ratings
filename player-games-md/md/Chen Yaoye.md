@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Chen Haoxin | Win | B+R | 7.5 | 3433 | 6 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Huang Mingyu | Win | B+¾ | 7.5 | 3427 | 23 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Li Chengsen | Chen Yaoye | Win | W+R | 7.5 | 3404 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Li Chengsen | Chen Yaoye | Win | W+R | 7.5 | 3404 | 5 | 

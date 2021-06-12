@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Han Yizhou | Win | W+R | 7.5 | 3388 | 15 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Li Weiqing | Han Yizhou | Lose | B+R | 7.5 | 3373 | 8 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Wang Zejin | Han Yizhou | Win | W+R | 7.5 | 3365 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Wang Zejin | Han Yizhou | Win | W+R | 7.5 | 3365 | 14 | 

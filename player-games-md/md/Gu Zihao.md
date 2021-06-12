@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Gu Zihao | Xie Erhao | Win | B+R | 7.5 | 3685 | 3 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Shin Minjun | Gu Zihao | Win | W+R | 7.5 | 3682 | 28 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Gu Zihao | Ding Hao | Lose | W+R | 7.5 | 3654 | -10 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Gu Zihao | Hu Yuhan | Win | B+R | 7.5 | 3664 | 5 | 

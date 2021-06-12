@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Lian Xiao | Tan Xiao | Lose | W+R | 7.5 | 3533 | -9 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Lian Xiao | Lose | B+R | 7.5 | 3542 | -1 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Lian Xiao | Lose | B+R | 7.5 | 3543 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Chen Yichun | Lian Xiao | Win | W+R | 7.5 | 3543 | -1 | 

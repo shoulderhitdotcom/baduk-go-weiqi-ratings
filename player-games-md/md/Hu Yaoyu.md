@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Ye Changxin | Hu Yaoyu | Lose | B+¾ | 7.5 | 3115 | 3 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Hu Yaoyu | Jiang Qirun | Lose | W+R | 7.5 | 3112 | -30 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Hu Yaoyu | Mao Ruilong | Lose | W+R | 7.5 | 3142 | -3 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Xie Ke | Hu Yaoyu | Lose | B+R | 7.5 | 3145 | 2 | 

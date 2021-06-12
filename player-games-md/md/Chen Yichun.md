@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Chen Yichun | Li Xuanhao | Win | B+R | 7.5 | 3128 | 95 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Chen Yichun | Lian Xiao | Lose | W+R | 7.5 | 3033 | -14 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Tang Weixing | Chen Yichun | Lose | B+R | 7.5 | 3047 | 0 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Chen Yichun | Lose | B+R | 7.5 | 3047 | -244 | 

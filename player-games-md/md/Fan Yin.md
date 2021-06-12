@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Fan Yin | Huang Xin | Win | B+R | 7.5 | 3372 | 7 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Fan Yin | Lose | B+1¾ | 7.5 | 3365 | -5 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Chen Hao | Fan Yin | Lose | B+R | 7.5 | 3370 | -26 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Meng Tailing | Fan Yin | Lose | B+R | 7.5 | 3396 | -22 | 

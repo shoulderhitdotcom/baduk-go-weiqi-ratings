@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Tu Xiaoyu | Win | W+R | 7.5 | 3429 | 21 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Tu Xiaoyu | Win | W+R | 7.5 | 3429 | 1 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Tu Xiaoyu | Win | W+R | 7.5 | 3428 | 20 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Tan Xiao | Lose | W+R | 7.5 | 3408 | 5 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Ding Shixiong | Lose | W+R | 7.5 | 3403 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Ding Shixiong | Lose | W+R | 7.5 | 3403 | -23 | 

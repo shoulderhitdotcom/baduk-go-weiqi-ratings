@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Chen Haoxin | Lose | B+R | 7.5 | 3189 | 5 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Chen Haoxin | Lose | B+R | 7.5 | 3189 | 1 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Chen Haoxin | Lose | B+R | 7.5 | 3188 | 4 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Chen Haoxin | Zhang Tao | Lose | W+R | 7.5 | 3184 | -1 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Chen Haoxin | Zhang Tao | Lose | W+R | 7.5 | 3185 | -29 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Chen Haoxin | Win | W+2¼ | 7.5 | 3214 | 59 | 

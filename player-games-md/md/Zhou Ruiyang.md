@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Zhou Ruiyang | Lose | B+R | 7.5 | 3313 | -7 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Zhou Ruiyang | Lose | B+R | 7.5 | 3313 | 1 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Zhou Ruiyang | Lose | B+R | 7.5 | 3312 | -8 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Fan Yin | Win | B+1¾ | 7.5 | 3320 | 31 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Zhou Ruiyang | Win | W+R | 7.5 | 3289 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Zhou Ruiyang | Win | W+R | 7.5 | 3289 | 18 | 

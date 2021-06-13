@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Wang Chunhui | Lose | B+R | 7.5 | 3173 | 19 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Wang Chunhui | Lose | B+R | 7.5 | 3173 | 1 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Wang Chunhui | Lose | B+R | 7.5 | 3172 | 18 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Tang Weixing | Wang Chunhui | Lose | B+R | 7.5 | 3154 | -18 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Shi Yulai | Lose | W+¼ | 7.5 | 3172 | -67 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Liu Qifeng | Win | B+R | 7.5 | 3239 | -12 | 

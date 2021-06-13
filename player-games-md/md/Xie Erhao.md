@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Gu Zihao | Xie Erhao | Lose | B+R | 7.5 | 3511 | -5 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Gu Zihao | Xie Erhao | Lose | B+R | 7.5 | 3511 | 1 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Gu Zihao | Xie Erhao | Lose | B+R | 7.5 | 3510 | -6 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Xie Erhao | Zhou Hexi | Win | B+R | 7.5 | 3516 | 19 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Huang Xin | Xie Erhao | Win | W+R | 7.5 | 3497 | 5 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Xie Erhao | Jiang Weijie | Lose | W+R | 7.5 | 3492 | -11 | 

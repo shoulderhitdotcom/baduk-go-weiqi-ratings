@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Zhou Ruiyang | Win | B+R | 7.5 | 3441 | 2 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Zhou Ruiyang | Win | B+R | 7.5 | 3441 | 1 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Zhou Ruiyang | Win | B+R | 7.5 | 3440 | 1 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Zhang Tao | Liao Yuanhe | Win | W+R | 7.5 | 3439 | 22 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Liao Yuanhe | Win | W+R | 7.5 | 3417 | -1 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Liao Yuanhe | Win | W+R | 7.5 | 3418 | 10 | 

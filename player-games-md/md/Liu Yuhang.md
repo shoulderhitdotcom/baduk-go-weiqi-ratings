@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Han Yizhou | Lose | W+R | 7.5 | 3435 | -30 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Han Yizhou | Lose | W+R | 7.5 | 3435 | 1 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Han Yizhou | Lose | W+R | 7.5 | 3434 | -31 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Liu Yuhang | Lose | B+R | 7.5 | 3465 | -13 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Liu Yuhang | Win | W+R | 7.5 | 3478 | 20 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Kim Jiseok | Win | B+¾ | 7.5 | 3458 | 36 | 

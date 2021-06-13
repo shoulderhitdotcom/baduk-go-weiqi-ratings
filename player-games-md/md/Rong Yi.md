@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Rong Yi | Win | W+R | 7.5 | 3450 | 30 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Rong Yi | Win | W+R | 7.5 | 3450 | 1 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Rong Yi | Win | W+R | 7.5 | 3449 | 29 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Huang Xin | Rong Yi | Lose | B+¾ | 7.5 | 3420 | -29 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Rong Yi | Yi Lingtao | Lose | W+R | 7.5 | 3449 | -20 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Rong Yi | Win | W+R | 7.5 | 3469 | 6 | 

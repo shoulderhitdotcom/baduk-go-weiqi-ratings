@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Meng Tailing | Chen Zijian | Win | B+R | 7.5 | 3346 | 43 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Meng Tailing | Chen Zijian | Win | B+R | 7.5 | 3346 | 1 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Meng Tailing | Chen Zijian | Win | B+R | 7.5 | 3345 | 42 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Meng Tailing | Li Qincheng | Lose | W+¼ | 7.5 | 3303 | -15 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Meng Tailing | Lose | B+R | 7.5 | 3318 | -27 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Meng Tailing | Fan Yin | Win | B+R | 7.5 | 3345 | 36 | 

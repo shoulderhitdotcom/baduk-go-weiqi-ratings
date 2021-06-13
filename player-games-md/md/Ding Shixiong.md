@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Ding Shixiong | Zhao Chenyu | Win | B+R | 7.5 | 3244 | 63 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Ding Shixiong | Zhao Chenyu | Win | B+R | 7.5 | 3244 | 1 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Ding Shixiong | Zhao Chenyu | Win | B+R | 7.5 | 3243 | 62 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Ding Shixiong | Lose | B+R | 7.5 | 3181 | 11 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Ding Shixiong | Win | W+R | 7.5 | 3170 | 53 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Ding Shixiong | Tao Xinran | Lose | W+R | 7.5 | 3117 | -72 | 

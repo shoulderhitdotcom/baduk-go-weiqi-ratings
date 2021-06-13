@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | He Yuhan | Mao Ruilong | Win | W+¼ | 7.5 | 3389 | 65 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | He Yuhan | Mao Ruilong | Win | W+¼ | 7.5 | 3389 | 1 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | He Yuhan | Mao Ruilong | Win | W+¼ | 7.5 | 3388 | 64 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Chen Haoxin | Mao Ruilong | Lose | B+R | 7.5 | 3324 | -154 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Hu Yaoyu | Mao Ruilong | Win | W+R | 7.5 | 3478 | 16 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Mao Ruilong | Xu Jiayang | Lose | W+R | 7.5 | 3462 | -266 | 

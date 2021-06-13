@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Guo Xinyi | Ke Jie | Lose | W+5¼ | 7.5 | 3234 | -14 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Guo Xinyi | Ke Jie | Lose | W+5¼ | 7.5 | 3234 | 1 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Guo Xinyi | Ke Jie | Lose | W+5¼ | 7.5 | 3233 | -15 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Xu Haohong | Guo Xinyi | Win | W+R | 7.5 | 3248 | 123 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Guo Xinyi | Tang Weixing | Lose | W+R | 7.5 | 3125 | -32 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Xu Jiayang | Guo Xinyi | Lose | B+R | 7.5 | 3157 | -47 | 

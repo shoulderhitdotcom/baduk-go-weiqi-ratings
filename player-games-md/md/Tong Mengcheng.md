@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Shin Jinseo | Lose | W+R | 7.5 | 3430 | -3 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Shin Jinseo | Lose | W+R | 7.5 | 3430 | 1 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Shin Jinseo | Lose | W+R | 7.5 | 3429 | -4 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Park Junghwan | Tong Mengcheng | Win | W+R | 7.5 | 3433 | 32 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Ke Jie | Lose | W+R | 7.5 | 3401 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Ke Jie | Lose | W+R | 7.5 | 3401 | -2 | 

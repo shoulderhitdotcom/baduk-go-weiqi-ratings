@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lin Lixiang vs Xu Haohong** | **Lin Lixiang streak** | **Xu Haohong streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-15 | 第17期国手戦（台湾）挑戦手合五番勝負第3局 | Lin Lixiang | Xu Haohong | W+0.5 | 6.5 | 0:1 | 0 | 1 | 
+| 2021-06-08 | 第17期国手戦（台湾）挑戦手合五番勝負第2局 | Xu Haohong | Lin Lixiang | B+R | 6.5 | 2:15 | 0 | 7 | 
 | 2021-05-18 | 第17期国手戦（台湾）挑戦手合五番勝負第1局 | Lin Lixiang | Xu Haohong | W+R | 6.5 | 2:14 | 0 | 6 | 
 | 2021-02-19 | 第20期天元戦（台湾）リーグ | Lin Lixiang | Xu Haohong | W+0.5 | 6.5 | 2:13 | 0 | 5 | 
 | 2020-10-26 | 第13期棋王戦（台湾）リーグ  | Xu Haohong | Lin Lixiang | B+R | 6.5 | 2:12 | 0 | 4 | 
@@ -21,8 +23,7 @@
 | 2019-03-14 | 第11回海峰杯プロ囲碁戦8強戦 | Lin Lixiang | Xu Haohong | W+3.5 | 6.5 | 1:4 | 0 | 1 | 
 | 2018-10-18 | 第11期棋王戦（台湾）リーグ第1節  | Lin Lixiang | Xu Haohong | B+R | 6.5 | 1:3 | 1 | 0 | 
 | 2017-05-31 | 第7期友士杯十段戦1回戦 | Xu Haohong | Lin Lixiang | B+R | 6.5 | 0:3 | 0 | 3 | 
-| 2016-11-01 | 第12期国手戦（台湾）リーグ戦第三局 | Xu Haohong | Lin Lixiang | B+R | 6.5 | 0:2 | 0 | 2 | 
-| 2021-06-08 | 第17期国手戦（台湾）挑戦手合五番勝負第2局 | Xu Haohong | Lin Lixiang | B+R | 6.5 | 0:1 | 0 | 1 |
+| 2016-11-01 | 第12期国手戦（台湾）リーグ戦第三局 | Xu Haohong | Lin Lixiang | B+R | 6.5 | 0:2 | 0 | 2 |
 
 
 

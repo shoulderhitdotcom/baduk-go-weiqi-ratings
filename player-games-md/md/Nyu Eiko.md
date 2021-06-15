@@ -5,158 +5,159 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第40期女流本因坊戦2回戦  | Nyu Eiko | Nakamura Sumire | W+1.5 | 2021-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ApozbqhbrzS%2FiWXxoIHPEg%3D%3D) | 
-| 第8期会津中央病院・女流立葵杯1回戦 | Suzuki Ayumi | Nyu Eiko | W+2.5 | 2021-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HnM%2FuxNw5B0fHcFHMHhG%2FA%3D%3D) | 
-| 2021年日本ナショナルチームvs台湾精鋭隊交流戦第2戦 | missing | Nyu Eiko | W+1.5 | 2021-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S15xZtpW2BbuzW93xsowvQ%3D%3D) | 
-| 2021年日本ナショナルチームvs台湾精鋭隊交流戦第1戦 | Yu Lijun | Nyu Eiko | B+R | 2021-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CJDC0SNVi5BJ7YaaNATXiQ%3D%3D) | 
-| 第46期新人王戦2回戦 | Sotoyanagi Sebun | Nyu Eiko | B+2.5 | 2021-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w5fWKId1CpDW%2Bas1zrezqg%3D%3D) | 
-| 第32期博多・カマチ杯女流名人戦リーグ | Ueno Asami | Nyu Eiko | B+0.5 | 2021-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QfnzW1o8ZHoAr178TrcBqg%3D%3D) | 
-| 第32期博多・カマチ杯女流名人戦リーグ | missing | Nyu Eiko | W+R | 2021-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aUxAhPf4tU52n69mmc%2B12w%3D%3D) | 
-| 第32期博多・カマチ杯女流名人戦リーグ | Nyu Eiko | Suzuki Ayumi | W+R | 2021-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oWiH7LK%2BohWWD9UOoEYVBg%3D%3D) | 
-| 第32期博多・カマチ杯女流名人戦リーグ | Nyu Eiko | Xie Yimin | W+R | 2021-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L7%2FC39HRdg5Iz29PXzou9g%3D%3D) | 
-| 第32期博多・カマチ杯女流名人戦リーグ | Nyu Eiko | missing | B+7.5 | 2021-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=klhrfqFnLIBZgsSnq4QoNw%3D%3D) | 
-| 第46期新人王戦1回戦 | missing | Nyu Eiko | W+1.5 | 2021-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JmZRzV8vypygtWAHkGrqRw%3D%3D) | 
-| 第32期博多・カマチ杯女流名人戦リーグ | Mukai Chiaki | Nyu Eiko | W+3.5 | 2021-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aefRFQX2%2Fu7T1zPgQDvZkA%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | Nyu Eiko | missing | W+¼ | 2020-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jnaA1CGmQY%2F3GsopR47Tsg%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | Nyu Eiko | missing | B+R | 2020-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GD5rB%2BZM9mglf22sY9S6Lw%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | missing | Nyu Eiko | B+R | 2020-11-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l3BhbgMncc1CODVn%2FhMZ6g%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | missing | Nyu Eiko | B+R | 2020-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TyoHkWUN9LtyicSlhoEWRw%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | Nyu Eiko | missing | B+R | 2020-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XtT2fpDLFVkCoRkYr%2BSE0Q%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | Nyu Eiko | Park Jiyeon | B+R | 2020-11-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RtbwizaB8NIh6SoYd8Lxlg%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | missing | Nyu Eiko | B+R | 2020-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s0SM0Bm3OVJpT3LBw61xww%3D%3D) | 
-| 第1回博多・カマチ杯女流オープン戦三位決定戦  | Mukai Chiaki | Nyu Eiko | B+0.5 | 2020-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FdhUuPnxwySaqsYu2ApkZg%3D%3D) | 
-| 第1回博多・カマチ杯女流オープン戦準決勝  | Nyu Eiko | Fujisawa Rina | W+R | 2020-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7kCtYGHnxzpOPQUX27SynA%3D%3D) | 
-| 第39期女流本因坊戦2回戦 | Tobita Saki | Nyu Eiko | B+R | 2020-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ixGeB%2BU7vf4fkEPMPGRFLA%3D%3D) | 
-| 第7期会津中央病院・女流立葵杯準決勝  | Nyu Eiko | missing | W+0.5 | 2020-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2I%2FCFoWQJIvVJwa5Q243Yw%3D%3D) | 
-| 第11回おかげ杯囲碁トーナメント戦予選 | Nakamura Sumire | Nyu Eiko | B+4.5 | 2020-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jx%2FFlpyj6%2F7CZ1kRbE4jTQ%3D%3D) | 
-| 第7期会津中央病院・女流立葵杯1回戦 | Okuda Aya | Nyu Eiko | W+R | 2020-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sa7nqoNFNXJ%2FbP0IZWfBuw%3D%3D) | 
-| 第47期天元戦予選 | Kin En | Nyu Eiko | W+7.5 | 2020-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aa%2FtelcbRB4FSQVgaqbFOw%3D%3D) | 
-| 第39期女流本因坊戦1回戦 | Nishiyama Shizuka | Nyu Eiko | W+4.5 | 2020-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pLXaB0G4ptBfL1dzuL%2F02g%3D%3D) | 
-| 第46期名人戦予選 | O Meien | Nyu Eiko | B+R | 2020-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7CFqrSKSll6S1yUeVpjHDA%3D%3D) | 
-| 第1回博多・カマチ杯女流オープン戦2回戦  | Nyu Eiko | Hei Jiajia | B+0.5 | 2020-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SvQ9WDgDrAA4ub3%2FeNQaJA%3D%3D) | 
-| 第1回博多・カマチ杯女流オープン戦1回戦  | Nyu Eiko | missing | B+R | 2020-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iZrfDMvJwp3125FOcNG%2B7Q%3D%3D) | 
-| 第45期新人王戦1回戦 | Sada Atsushi | Nyu Eiko | B+3.5 | 2020-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0trncxL%2B6yU7wtT5P9uSyw%3D%3D) | 
-| 2020台湾精鋭vs日本精鋭交流戦第6戦 | missing | Nyu Eiko | W+R | 2020-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8R9toHTzFYQIYI5zkt5pmw%3D%3D) | 
-| 2020台湾精鋭vs日本精鋭交流戦第5戦 | Nyu Eiko | missing | B+R | 2020-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XOSER2wygI1qYSWGWL8UoA%3D%3D) | 
-| 2020台湾精鋭vs日本精鋭交流戦第4戦 | missing | Nyu Eiko | W+R | 2020-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dxb9qkqXbQ9pIUt9ZEYvYw%3D%3D) | 
-| 2020台湾精鋭vs日本精鋭交流戦第3戦 | Nyu Eiko | missing | B+R | 2020-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Bj3HDLQeg1JW4qj%2Bi46lA%3D%3D) | 
-| 2020台湾精鋭vs日本精鋭交流戦第2戦 | Yu Lijun | Nyu Eiko | W+2.5 | 2020-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6c7hrO7iJYyiyjLS8HyK1A%3D%3D) | 
-| 2020台湾精鋭vs日本精鋭交流戦第1戦 | Nyu Eiko | missing | B+R | 2020-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nWtKAUcERcvQkVwFfcQYsA%3D%3D) | 
-| 第45期新人王戦予選 | Nakamura Sumire | Nyu Eiko | W+6.5 | 2019-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CKDldS6K7JI2wZqxx1o0MQ%3D%3D) | 
-| 第23期ドコモ杯女流棋聖戦挑戦者決定戦 | Nyu Eiko | Suzuki Ayumi | W+R | 2019-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4XyH92CbfB2S3OlFlxqBDg%3D%3D) | 
-| 第45期棋聖戦ファーストトーナメント予選 | Nyu Eiko | missing | W+1.5 | 2019-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=txnNcV%2BxhFcAueCeuYACeg%3D%3D) | 
-| 第45期新人王戦予選 | Nyu Eiko | missing | B+R | 2019-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gXlLqapthHOSewq1GOZ5Bw%3D%3D) | 
-| 第23期ドコモ杯女流棋聖戦準決勝 | Nishiyama Shizuka | Nyu Eiko | W+R | 2019-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=htdOwiwPuOJmlQ1ZA0Cakw%3D%3D) | 
-| 第23期ドコモ杯女流棋聖戦2回戦 | Nyu Eiko | Xie Yimin | B+3.5 | 2019-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pPMLI0tZ9Xwh2e9jUbVz%2BA%3D%3D) | 
-| 第23期ドコモ杯女流棋聖戦1回戦 | Nyu Eiko | missing | B+R | 2019-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J%2B6atEG7AJbZhPM6BmxwOg%3D%3D) | 
-| 第59期十段戦予選 | Ryu Shikun | Nyu Eiko | B+R | 2019-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x3D5JtK8j%2B0%2BkseZljN8zg%3D%3D) | 
-| 第38期女流本因坊戦3回戦 | Nyu Eiko | Ueno Asami | W+R | 2019-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7jEClkAWXU6P%2FxlL8bDKNw%3D%3D) | 
-| 第9回中国姜堰黄竜士精鍛科技杯世界女子団体戦第9戦 | Oh Yujin | Nyu Eiko | B+R | 2019-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q7Rvrnv5VNFmUiSuz5rszw%3D%3D) | 
-| IMSAワールドマスターズチャンピオンシップ2019女子団体戦3回戦 | Wang Chenxing | Nyu Eiko | B+R | 2019-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n5v9xSlGmu0wcvgBGXfM2Q%3D%3D) | 
-| IMSAワールドマスターズチャンピオンシップ2019女子団体戦2回戦 | Oh Yujin | Nyu Eiko | B+R | 2019-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nNCKl877%2F0fmfEEm5%2F0Ogw%3D%3D) | 
-| 第4回扇興杯女流最強戦2回戦 | Mukai Chiaki | Nyu Eiko | B+5.5 | 2019-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ybcF9Shq5flQbxSimfRPug%3D%3D) | 
-| 第2回呉清源杯世界女子囲碁選手権1回戦 | Nyu Eiko | Li He | W+R | 2019-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LRTSoGVN5e2D0s5iN7nTQA%3D%3D) | 
-| 第6回グロービス杯世界囲碁U-20グループリーグA | Nyu Eiko | Chen Zijian | W+R | 2019-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wvwb9%2Bs5ZBpI1zojp8imjA%3D%3D) | 
-| 第6回グロービス杯世界囲碁U-20グループリーグA | Onishi Ryuhei | Nyu Eiko | W+1.5 | 2019-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m7tBZoQbLmDACHT2yaoR3w%3D%3D) | 
-| 第6回グロービス杯世界囲碁U-20グループリーグA | Nyu Eiko | Chen Qirui | W+1.5 | 2019-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mizyyA4DrYfYYhCi11AFVA%3D%3D) | 
-| 第4回扇興杯女流囲碁最強戦1回戦 | Nyu Eiko | Yoshida Mika | B+R | 2019-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AG7GK2z40LlkXDYdU%2FJcWA%3D%3D) | 
-| 第38期女流本因坊戦1回戦 | Nyu Eiko | Asano Yasuko | B+R | 2019-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4IwsmH83V6heYM0dzyNwaw%3D%3D) | 
-| 第2回SENKO CUPワールド碁女流最強戦1回戦 | Nyu Eiko | Choi Jeong | W+R | 2019-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=30KgLZNLNdzZcqudql53VQ%3D%3D) | 
-| 第38期女流本因坊戦予選 | Nyu Eiko | missing | B+R | 2019-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lAfMy%2Bk7uw%2F9TAOwRBVNvA%3D%3D) | 
-| 第10回おかげ杯囲碁トーナメント戦予選 | Nyu Eiko | missing | B+R | 2019-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eIgUyB6Ja816wx2dSxer%2Bg%3D%3D) | 
-| 第6回グロービス杯国内予選 | Nyu Eiko | missing | B+T | 2019-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MjjbXIf%2F1neQIEt6ykc1yQ%3D%3D) | 
-| 第6回グロービス杯国内予選 | Seki Kotaro | Nyu Eiko | W+R | 2019-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H3p0IzbGeu4m22HmfVGgew%3D%3D) | 
-| 第44期新人王戦予選 | Nyu Eiko | missing | W+2.5 | 2018-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CZmbHgRZofMKFY3NUWGjwQ%3D%3D) | 
-| 第13回広島アルミ杯・若鯉戦1回戦  | Fujisawa Rina | Nyu Eiko | B+11.5 | 2018-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=60Oah%2FOpf%2BUwl3DI0yzdYQ%3D%3D) | 
-| 第22期ドコモ杯女流棋聖戦2回戦 | Nyu Eiko | Fujisawa Rina | W+R | 2018-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2TysWz1ArZ7BFyfQ4TkKBA%3D%3D) | 
-| 第60期王冠戦予選 | Nyu Eiko | Hikosaka Naoto | W+1.5 | 2018-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KKoBEwHbSJXFYp60lP%2Bd0w%3D%3D) | 
-| 第22期ドコモ杯女流棋聖戦1回戦 | Mukai Kaori | Nyu Eiko | W+5.5 | 2018-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Uje4gX3BFDyvqzx9M1ppig%3D%3D) | 
-| 第31期女流名人戦1回戦 | Nyu Eiko | Izawa Akino | B+R | 2018-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F95Rpjo%2FPzluvVPxjSt2Jg%3D%3D) | 
-| 第3回扇興杯女流囲碁最強戦決勝  | Nyu Eiko | Mannami Nao | W+R | 2018-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7QQslxS3K%2BEAFIJ3jl%2FMFg%3D%3D) | 
-| 第3回扇興杯女流囲碁最強戦準決勝  | Ueno Asami | Nyu Eiko | W+R | 2018-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yiMLvLjfDchEgPIu5wyoyQ%3D%3D) | 
-| 第37期女流本因坊戦3回戦 | Ueno Asami | Nyu Eiko | B+R | 2018-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FHeiuFDRInfPod1N4z6N%2Fg%3D%3D) | 
-| 第3回扇興杯女流囲碁最強戦2回戦 | Nyu Eiko | Yashiro Kumiko | B+5.5 | 2018-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hMfHlDfQLTnolxchEL1bfg%3D%3D) | 
-| 第37期女流本因坊戦2回戦 | Nyu Eiko | Koyama Mitsuru | B+R | 2018-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kQfxgDzqd7HYSIVKjIfq6Q%3D%3D) | 
-| 第3回扇興杯女流囲碁最強戦1回戦 | Nyu Eiko | Chinen Kaori | B+2.5 | 2018-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nxYZK%2B7vuPs7dlu6dVZ0Pw%3D%3D) | 
-| 第1回呉清源杯世界女流囲碁選手権本戦1回戦 | Kim Cheayoung | Nyu Eiko | B+¾ | 2018-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=idxw5kKyWgYmQirM0Db%2FcQ%3D%3D) | 
-| 第37期女流本因坊戦1回戦 | Nyu Eiko | Kato Keiko | B+4.5 | 2018-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e2qRN9kCw0XuYJdrYTY0Hg%3D%3D) | 
-| 第8回中国姜堰黄竜士精鍛科技杯世界女子団体戦第2戦 | Nyu Eiko | Li He | W+R | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PGgKY13o6VgYgiI07LBGNg%3D%3D) | 
-| 第8回中国姜堰黄竜士精鍛科技杯世界女子団体戦第1戦 | Oh Jeonga | Nyu Eiko | W+R | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GZg%2FHVNHnSdF3UAOauCQpA%3D%3D) | 
-| 第9回おかげ杯囲碁トーナメント戦予選 | Nyu Eiko | missing | B+R | 2018-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gnLO2P7N1zUcJp20YAW6%2FQ%3D%3D) | 
-| 第9回おかげ杯囲碁トーナメント戦予選 | Nyu Eiko | Xie Yimin | W+8.5 | 2018-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S2hnwS1T5J%2BeVx0tqOXHRQ%3D%3D) | 
-| 第1回SENKO CUPワールド碁女流最強戦1回戦  | Nyu Eiko | Hei Jiajia | W+R | 2018-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HmhaVxEG23HbG28%2FFK%2FzTw%3D%3D) | 
-| 2018台湾精鋭vs日本精鋭交流戦第6戦 | Nyu Eiko | Lu Yiquan | W+5.5 | 2018-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ib9mfPGOOx%2BdZIUpiEY5%2Fg%3D%3D) | 
-| 2018台湾精鋭vs日本精鋭交流戦第5戦 | Nyu Eiko | missing | B+R | 2018-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S4AbCFoh1VLVvmOY7oALwQ%3D%3D) | 
-| 2018台湾精鋭vs日本精鋭交流戦第4戦 | Nyu Eiko | missing | B+R | 2018-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pDmJytwgT1DdKtQmljmXow%3D%3D) | 
-| 2018台湾精鋭vs日本精鋭交流戦第3戦 | Nyu Eiko | Yu Lijun | W+R | 2018-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4RKJ9MsMmTq6mT0LHwAZRg%3D%3D) | 
-| 2018台湾精鋭vs日本精鋭交流戦第2戦 | missing | Nyu Eiko | W+R | 2018-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g8HufWoAomFqnDTPFBO1iA%3D%3D) | 
-| 2018台湾精鋭vs日本精鋭交流戦第1戦 | missing | Nyu Eiko | W+R | 2018-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bf7Re3aZzEe4DYNilCHWfQ%3D%3D) | 
-| 第37期女流本因坊戦予選 | Nyu Eiko | Tamura Chiaki | B+R | 2018-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NzODEfn56900EbnGntqfGg%3D%3D) | 
-| 第2回IMSAエリートマインドゲームズ女子団体戦第4節 | Nyu Eiko | Lu Minquan | W+¾ | 2017-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=soreOB4vkcnSPT5d%2Brjgig%3D%3D) | 
-| 第43期新人王戦予選 | Hirose Yuichi | Nyu Eiko | B+R | 2017-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D2owse4T%2F4%2BRZNlTg8X9mw%3D%3D) | 
-| 第30期女流名人戦2回戦 | Nyu Eiko | Yashiro Kumiko | W+R | 2017-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LI7pDBaS%2BEvkFY6tNApLuQ%3D%3D) | 
-| 第21期ドコモ杯女流棋聖戦2回戦 | Okuda Aya | Nyu Eiko | B+R | 2017-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m18L5YmgxWJC%2FJoH06HPAw%3D%3D) | 
-| 第21期ドコモ杯女流棋聖戦1回戦 | Deguchi Mariko | Nyu Eiko | W+R | 2017-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BveHfAa4GOnDG4nRqsJXEA%3D%3D) | 
-| 第8回蘇州穹窿山兵聖杯予選 | Ueno Asami | Nyu Eiko | B+R | 2017-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gFcm8NiYjzLUTqP1Cy%2BMyA%3D%3D) | 
-| 第30期女流名人戦1回戦 | Aoki Kikuyo | Nyu Eiko | W+R | 2017-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5aUHIUQifYQ25ou%2Fxk89dA%3D%3D) | 
-| ナショナルチーム強化対局 | Nyu Eiko | DeepZenGo | W+R | 2017-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WpTNP31vK8l5siCP%2BYWu2w%3D%3D) | 
-| ナショナルチーム強化対局 | Nyu Eiko | DeepZenGo | W+R | 2017-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=esJGbS44rFxKmD3%2BR%2FnfYQ%3D%3D) | 
-| 第2回扇興杯女流囲碁最強戦　準決勝 | Xie Yimin | Nyu Eiko | B+4.5 | 2017-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wx5lSSVi9vLahl24pZ4WiA%3D%3D) | 
-| 2017年日本囲碁リーグ1st第4節浪速-WU主将戦 | Nyu Eiko | Watanabe Yuu | B+R | 2017-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iaHtHEIPxMCPEfDpKD7bTQ%3D%3D) | 
-| 第2回扇興杯女流囲碁最強戦　本戦2回戦 | Tsukuda Akiko | Nyu Eiko | W+R | 2017-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yUcCk1DKByzOR0uGoRXxcg%3D%3D) | 
-| 第36期女流本因坊戦2回戦 | Umezawa Yukari | Nyu Eiko | B+1.5 | 2017-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fknzSUkasO4EtRdTr7Ao6w%3D%3D) | 
-| 第6回天台山農商銀行杯世界女子囲碁団体チャンピオンシップ第3戦 | Nyu Eiko | Zhang Zhengping | B+R | 2017-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K8gsjPkct0REgC%2F82HSqiQ%3D%3D) | 
-| 第6回天台山農商銀行杯世界女子囲碁団体チャンピオンシップ第2戦 | Park Shiun | Nyu Eiko | B+R | 2017-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dIcTaKH8wO4yo0E4E6d8YA%3D%3D) | 
-| 第6回天台山農商銀行杯世界女子囲碁団体チャンピオンシップ第1戦 | Li He | Nyu Eiko | B+5.5 | 2017-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w03Cm9g5WAWzcVzCwX%2FGgA%3D%3D) | 
-| 3期韓国女子連戦14回戦仁済-扶安 | Nyu Eiko | Park Taehee | W+R | 2017-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qh46AFR3TcZEhVAxyx47Dg%3D%3D) | 
-| 日本棋院vs関西棋院対抗戦 | Nyu Eiko | Kurahashi Masayuki | B+R | 2017-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eDggTK9G%2F%2BBsrFzYqeKwVg%3D%3D) | 
-| 第7回中国姜堰黄竜士精鍛科技杯世界女子団体戦第3戦 | Nyu Eiko | Kim Yoonyoung | W+R | 2017-04-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Psm8DnDK8eMOyTvoxN%2BFZg%3D%3D) | 
-| 第7回中国姜堰黄竜士精鍛科技杯世界女子団体戦第2戦 | Nyu Eiko | Zhou Hongyu | B+R | 2017-04-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6L0%2B34k5XphXDBxzX0jGGw%3D%3D) | 
-| 第1回トライカッププロ囲碁団体戦　本戦5回戦 | Mannami Nao | Nyu Eiko | B+R | 2017-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MbuazKMJT9oyIkkIKioE%2Bw%3D%3D) | 
-| 第1回トライカッププロ囲碁団体戦　本戦4回戦 | Xie Yimin | Nyu Eiko | B+R | 2017-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s3pePeuTNroW%2B3SZnfqTDw%3D%3D) | 
-| 第1回トライカッププロ囲碁団体戦　本戦2回戦 | Nyu Eiko | Muramatsu Hiroki | W+R | 2017-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PzE3wNvdPbZt1mETCKJ%2FMQ%3D%3D) | 
-| 第1回トライカッププロ囲碁団体戦　本戦1回戦 | Shimosaka Miori | Nyu Eiko | W+R | 2017-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=glK3DK4Ovm2vQ1PLBqBd1A%3D%3D) | 
-| 第2回扇興杯女流囲碁最強戦　本戦1回戦 | Nyu Eiko | Inori Yoko | B+R | 2017-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A%2FT1YNdokAlqxwHlv0jcWw%3D%3D) | 
-| 3期韓国女子連戦10回戦扶安-麗水 | missing | Nyu Eiko | B+4.5 | 2017-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EiOWRc4Q602VMugqyExakQ%3D%3D) | 
-| 第3回イベロジャパン杯1回戦 | Nyu Eiko | Kuwabara Shun | W+R | 2017-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MO1Ti0QazEtEKom3TBvj5w%3D%3D) | 
-| 3期韓国女子連戦8回戦扶安-京畿SG | Nyu Eiko | Kim Sinyoung | W+2.5 | 2017-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m8sh1uBta76qSLJxor0fcA%3D%3D) | 
-| 3期韓国女子連戦7回戦麟蹄-扶安 | Nyu Eiko | Oh Yujin | W+R | 2017-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jAtTyVsHMvPf21V5tv4WEQ%3D%3D) | 
-| 3期韓国女子連戦6回戦京畿湖畔-扶安 | Park Jiyeon | Nyu Eiko | B+R | 2017-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OVuLH%2Fk2pmv9bYmzY%2ByVLg%3D%3D) | 
-| 第4回グロービス杯国内予選 | Hsu Chiayuan | Nyu Eiko | B+R | 2017-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w1GR3QaIpj%2Bynjq%2Fu6iM%2FQ%3D%3D) | 
-| 第4回グロービス杯国内予選 | Nyu Eiko | Watanabe Yuu | B+R | 2017-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DjxeKjM%2FYy2vN7anLG8q9g%3D%3D) | 
-| 第8回おかげ杯囲碁トーナメント戦予選 | Fujisawa Rina | Nyu Eiko | B+5.5 | 2017-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YuLL2pXgyri8Tj7qNZsF%2Bg%3D%3D) | 
-| 第8回おかげ杯囲碁トーナメント戦予選 | Nyu Eiko | Kaneko Maki | B+R | 2017-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z04SxpSeq5iR3J2%2BPQgz0w%3D%3D) | 
-| 3期韓国女子連戦1回戦扶安-京畿SG | Nyu Eiko | missing | W+R | 2017-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jH2JRRcnAAUHuR3lDFzXSQ%3D%3D) | 
-| 第36期女流本因坊戦予選決勝 | Nyu Eiko | Ishii Akane | B+R | 2017-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FEoO8FZFQ%2FkxRMcnOAh3cQ%3D%3D) | 
-| 第20期ドコモ杯女流棋聖戦挑戦手合三番勝負　第三局 | Xie Yimin | Nyu Eiko | B+R | 2017-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ww7JLBvsNDnpK0%2BsNGMfKw%3D%3D) | 
-| 第20期ドコモ杯女流棋聖戦挑戦手合三番勝負　第二局 | Xie Yimin | Nyu Eiko | W+R | 2017-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=10q%2BIbZJoFDL0w%2Fq86uFGg%3D%3D) | 
-| 第20期ドコモ杯女流棋聖戦挑戦手合三番勝負　第一局 | Nyu Eiko | Xie Yimin | W+R | 2017-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JRCPaYTkbS4RgWO52wuQFA%3D%3D) | 
-| 第20期ドコモ杯女流棋聖戦挑戦者決定戦 | Nyu Eiko | Miyamoto Chiharu | B+5.5 | 2016-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FTamiJMWsL0MCXixqDGxPw%3D%3D) | 
-| 第20期ドコモ杯女流棋聖戦準決勝 | Nyu Eiko | Suzuki Ayumi | B+6.5 | 2016-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pZKsbWjDF7WPYczni98uaw%3D%3D) | 
-| 第7期世界穹窿山兵聖杯16強戦 | Nyu Eiko | Oh Yujin | W+R | 2016-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oAnY81%2F9OfcxbVFPhwfIkQ%3D%3D) | 
-| 第42期新人王戦　予選 | Nyu Eiko | Kazama Jun | W+R | 2016-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZumZfYIRFJF%2FWoq0%2FI%2F98w%3D%3D) | 
-| 第58期王冠戦　予選A決勝 | Hikosaka Naoto | Nyu Eiko | B+R | 2016-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mSBarJ8FliZlD9EujY5GIQ%3D%3D) | 
-| 第20期ドコモ杯女流棋聖戦2回戦 | Nyu Eiko | Inori Yoko | B+R | 2016-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qfAJrT%2BhTuECvAWzE9%2Ba2A%3D%3D) | 
-| 第20期ドコモ杯女流棋聖戦1回戦 | Nyu Eiko | Umezawa Yukari | B+R | 2016-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MCtUssPV81nGeATnsJZP4w%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Yu Zhiying | Nyu Eiko | B+3.5 | 2016-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ttU4o%2B7z3sQY55Yf%2BmFOwA%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Su Shengfang | Nyu Eiko | W+R | 2016-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ip382F3GO8yoCtibIKw8Pw%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Nyu Eiko | Oh Yujin | B+R | 2016-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jXzCgvzV%2Bbtzjibl3ziRCQ%3D%3D) | 
-| 第35期女流本因坊戦2回戦 | Tanemura Sayuri | Nyu Eiko | B+R | 2016-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YvmgAhfL%2BDOL1yRPNPD%2FPg%3D%3D) | 
-| 第1回扇興杯女流最強戦1回戦 | Osawa Narumi | Nyu Eiko | B+R | 2016-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5kWW4etU45zZFL75%2F9U7Yw%3D%3D) | 
-| 第3回グロービス杯国内予選 | Nyu Eiko | Sun Zhe | W+R | 2016-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cz9VGnnB9IQTDjFjhPTsGw%3D%3D) | 
-| 第3回グロービス杯国内予選 | Nyu Eiko | Hara Masakazu | B+R | 2016-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aWaSn8m%2Blde3lZW13x%2BMPA%3D%3D) | 
-| 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Oh Yujin | Nyu Eiko | B+R | 2016-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WAMTeR6d7E5CkRfnCgHeGg%3D%3D) | 
-| 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Nyu Eiko | Yu Zhiying | W+R | 2016-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v8HWb09isFZFiNQ4DAMMdQ%3D%3D) | 
-| 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Nyu Eiko | Rita Pocsai | B+R | 2016-02-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sHzP4gdlSJqT3FOvv2Tw6g%3D%3D) | 
-| 第35期女流本因坊戦予選 | Nyu Eiko | Deguchi Mariko | B+R | 2016-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ub3IynNStJFEPRLunQt5LA%3D%3D) | 
-| 第7回おかげ杯囲碁トーナメント戦予選 | Nyu Eiko | Kazama Jun | B+R | 2016-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7%2FW2%2BafyNgbPGg2I%2BkOHXw%3D%3D) | 
-| 第7回おかげ杯囲碁トーナメント戦予選 | Yao Zhiteng | Nyu Eiko | B+R | 2016-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tzPAwVhpTHW%2B1oKXVDCtdw%3D%3D) | 
-| 第2回イベロジャパン杯1回戦 | Hirose Yuichi | Nyu Eiko | B+R | 2016-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nWG7ecs9pauhEgRBBX1TuA%3D%3D) | 
-| 第6回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Nyu Eiko | Li He | W+R | 2015-10-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iN1W2Su3gI1Dzi4yf57lfQ%3D%3D) | 
-| 第6回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Nyu Eiko | Song Ronghui | B+R | 2015-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gXxTBIc%2F1lTWi7z1MLueSg%3D%3D) | 
-| 第19期ドコモ杯女流棋聖戦1回戦 | Aoba Kaori | Nyu Eiko | B+6.5 | 2015-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MgAEJNEXBWsitK86jt6%2BdA%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-15 | 第8期会津中央病院・女流立葵杯準決勝 | Nyu Eiko | Nakamura Sumire | Win | B+6.5 | 6.5 | 2575 | 84 | 
+| 2021-05-09 | 第40期女流本因坊戦2回戦  | Nyu Eiko | Nakamura Sumire | Lose | W+1.5 | 6.5 | 2491 | -23 | 
+| 2021-04-19 | 第8期会津中央病院・女流立葵杯1回戦 | Suzuki Ayumi | Nyu Eiko | Win | W+2.5 | 6.5 | 2514 | 39 | 
+| 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第2戦 |  | Nyu Eiko | Win | W+1.5 | 6.5 | 2475 | 0 | 
+| 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第1戦 | Yu Lijun | Nyu Eiko | Lose | B+R | 6.5 | 2475 | 0 | 
+| 2021-03-29 | 第46期新人王戦2回戦 | Sotoyanagi Sebun | Nyu Eiko | Lose | B+2.5 | 6.5 | 2475 | -120 | 
+| 2021-02-25 | 第32期博多・カマチ杯女流名人戦リーグ | Ueno Asami | Nyu Eiko | Lose | B+0.5 | 6.5 | 2595 | 1 | 
+| 2021-02-22 | 第32期博多・カマチ杯女流名人戦リーグ |  | Nyu Eiko | Win | W+R | 6.5 | 2594 | -4 | 
+| 2021-02-18 | 第32期博多・カマチ杯女流名人戦リーグ | Nyu Eiko | Suzuki Ayumi | Lose | W+R | 6.5 | 2598 | -92 | 
+| 2021-02-11 | 第32期博多・カマチ杯女流名人戦リーグ | Nyu Eiko | Xie Yimin | Lose | W+R | 6.5 | 2690 | -1 | 
+| 2021-02-08 | 第32期博多・カマチ杯女流名人戦リーグ | Nyu Eiko |  | Win | B+7.5 | 6.5 | 2691 | 25 | 
+| 2021-02-01 | 第46期新人王戦1回戦 |  | Nyu Eiko | Win | W+1.5 | 6.5 | 2666 | 1 | 
+| 2021-01-21 | 第32期博多・カマチ杯女流名人戦リーグ | Mukai Chiaki | Nyu Eiko | Win | W+3.5 | 6.5 | 2665 | -195 | 
+| 2020-11-21 | 2020年中国囲碁乙級リーグ | Nyu Eiko |  | Lose | W+¼ | 7.5 | 2860 | -6 | 
+| 2020-11-20 | 2020年中国囲碁乙級リーグ | Nyu Eiko |  | Win | B+R | 7.5 | 2866 | 64 | 
+| 2020-11-19 | 2020年中国囲碁乙級リーグ |  | Nyu Eiko | Lose | B+R | 7.5 | 2802 | -21 | 
+| 2020-11-17 | 2020年中国囲碁乙級リーグ |  | Nyu Eiko | Lose | B+R | 7.5 | 2823 | -10 | 
+| 2020-11-16 | 2020年中国囲碁乙級リーグ | Nyu Eiko |  | Win | B+R | 7.5 | 2833 | 2 | 
+| 2020-11-15 | 2020年中国囲碁乙級リーグ | Nyu Eiko | Park Jiyeon | Win | B+R | 7.5 | 2831 | 42 | 
+| 2020-11-14 | 2020年中国囲碁乙級リーグ |  | Nyu Eiko | Lose | B+R | 7.5 | 2789 | -108 | 
+| 2020-10-09 | 第1回博多・カマチ杯女流オープン戦三位決定戦  | Mukai Chiaki | Nyu Eiko | Lose | B+0.5 | 6.5 | 2897 | -19 | 
+| 2020-10-08 | 第1回博多・カマチ杯女流オープン戦準決勝  | Nyu Eiko | Fujisawa Rina | Lose | W+R | 6.5 | 2916 | 218 | 
+| 2020-06-25 | 第39期女流本因坊戦2回戦 | Tobita Saki | Nyu Eiko | Lose | B+R | 6.5 | 2698 | 11 | 
+| 2020-06-20 | 第7期会津中央病院・女流立葵杯準決勝  | Nyu Eiko |  | Lose | W+0.5 | 6.5 | 2687 | 94 | 
+| 2020-04-06 | 第11回おかげ杯囲碁トーナメント戦予選 | Nakamura Sumire | Nyu Eiko | Lose | B+4.5 | 6.5 | 2593 | -38 | 
+| 2020-04-02 | 第7期会津中央病院・女流立葵杯1回戦 | Okuda Aya | Nyu Eiko | Win | W+R | 6.5 | 2631 | 7 | 
+| 2020-03-26 | 第47期天元戦予選 | Kin En | Nyu Eiko | Win | W+7.5 | 6.5 | 2624 | -9 | 
+| 2020-03-05 | 第39期女流本因坊戦1回戦 | Nishiyama Shizuka | Nyu Eiko | Win | W+4.5 | 6.5 | 2633 | 24 | 
+| 2020-02-20 | 第46期名人戦予選 | O Meien | Nyu Eiko | Lose | B+R | 6.5 | 2609 | -159 | 
+| 2020-02-16 | 第1回博多・カマチ杯女流オープン戦2回戦  | Nyu Eiko | Hei Jiajia | Win | B+0.5 | 6.5 | 2768 | 29 | 
+| 2020-02-15 | 第1回博多・カマチ杯女流オープン戦1回戦  | Nyu Eiko |  | Win | B+R | 6.5 | 2739 | -107 | 
+| 2020-02-03 | 第45期新人王戦1回戦 | Sada Atsushi | Nyu Eiko | Lose | B+3.5 | 6.5 | 2846 | -10 | 
+| 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第6戦 |  | Nyu Eiko | Win | W+R | 6.5 | 2856 | 0 | 
+| 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第5戦 | Nyu Eiko |  | Win | B+R | 6.5 | 2856 | -51 | 
+| 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第4戦 |  | Nyu Eiko | Win | W+R | 6.5 | 2907 | 0 | 
+| 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第3戦 | Nyu Eiko |  | Win | B+R | 6.5 | 2907 | 18 | 
+| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第2戦 | Yu Lijun | Nyu Eiko | Win | W+2.5 | 6.5 | 2889 | 0 | 
+| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第1戦 | Nyu Eiko |  | Win | B+R | 6.5 | 2889 | 296 | 
+| 2019-12-16 | 第45期新人王戦予選 | Nakamura Sumire | Nyu Eiko | Win | W+6.5 | 6.5 | 2593 | 3 | 
+| 2019-12-05 | 第23期ドコモ杯女流棋聖戦挑戦者決定戦 | Nyu Eiko | Suzuki Ayumi | Lose | W+R | 6.5 | 2590 | -7 | 
+| 2019-11-21 | 第45期棋聖戦ファーストトーナメント予選 | Nyu Eiko |  | Lose | W+1.5 | 6.5 | 2597 | 36 | 
+| 2019-11-14 | 第45期新人王戦予選 | Nyu Eiko |  | Win | B+R | 6.5 | 2561 | 19 | 
+| 2019-11-11 | 第23期ドコモ杯女流棋聖戦準決勝 | Nishiyama Shizuka | Nyu Eiko | Win | W+R | 6.5 | 2542 | 57 | 
+| 2019-10-17 | 第23期ドコモ杯女流棋聖戦2回戦 | Nyu Eiko | Xie Yimin | Win | B+3.5 | 6.5 | 2485 | 70 | 
+| 2019-09-26 | 第23期ドコモ杯女流棋聖戦1回戦 | Nyu Eiko |  | Win | B+R | 6.5 | 2415 | -93 | 
+| 2019-08-08 | 第59期十段戦予選 | Ryu Shikun | Nyu Eiko | Lose | B+R | 6.5 | 2508 | 59 | 
+| 2019-07-08 | 第38期女流本因坊戦3回戦 | Nyu Eiko | Ueno Asami | Lose | W+R | 6.5 | 2449 | -53 | 
+| 2019-06-09 | 第9回中国姜堰黄竜士精鍛科技杯世界女子団体戦第9戦 | Oh Yujin | Nyu Eiko | Lose | B+R | 7.5 | 2502 | -9 | 
+| 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦3回戦 | Wang Chenxing | Nyu Eiko | Lose | B+R | 7.5 | 2511 | 7 | 
+| 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦2回戦 | Oh Yujin | Nyu Eiko | Lose | B+R | 7.5 | 2504 | -26 | 
+| 2019-05-08 | 第4回扇興杯女流最強戦2回戦 | Mukai Chiaki | Nyu Eiko | Lose | B+5.5 | 6.5 | 2530 | -64 | 
+| 2019-04-27 | 第2回呉清源杯世界女子囲碁選手権1回戦 | Nyu Eiko | Li He | Lose | W+R | 7.5 | 2594 | -33 | 
+| 2019-04-20 | 第6回グロービス杯世界囲碁U-20グループリーグA | Nyu Eiko | Chen Zijian | Lose | W+R | 6.5 | 2627 | -5 | 
+| 2019-04-19 | 第6回グロービス杯世界囲碁U-20グループリーグA | Onishi Ryuhei | Nyu Eiko | Win | W+1.5 | 6.5 | 2632 | 0 | 
+| 2019-04-19 | 第6回グロービス杯世界囲碁U-20グループリーグA | Nyu Eiko | Chen Qirui | Lose | W+1.5 | 6.5 | 2632 | 59 | 
+| 2019-04-17 | 第4回扇興杯女流囲碁最強戦1回戦 | Nyu Eiko | Yoshida Mika | Win | B+R | 6.5 | 2573 | -5 | 
+| 2019-03-28 | 第38期女流本因坊戦1回戦 | Nyu Eiko | Asano Yasuko | Win | B+R | 6.5 | 2578 | 69 | 
+| 2019-02-22 | 第2回SENKO CUPワールド碁女流最強戦1回戦 | Nyu Eiko | Choi Jeong | Lose | W+R | 6.5 | 2509 | -18 | 
+| 2019-02-07 | 第38期女流本因坊戦予選 | Nyu Eiko |  | Win | B+R | 6.5 | 2527 | -2 | 
+| 2019-02-04 | 第10回おかげ杯囲碁トーナメント戦予選 | Nyu Eiko |  | Win | B+R | 6.5 | 2529 | 22 | 
+| 2019-01-21 | 第6回グロービス杯国内予選 | Nyu Eiko |  | Win | B+T | 6.5 | 2507 | 0 | 
+| 2019-01-21 | 第6回グロービス杯国内予選 | Seki Kotaro | Nyu Eiko | Win | W+R | 6.5 | 2507 | -18 | 
+| 2018-11-22 | 第44期新人王戦予選 | Nyu Eiko |  | Lose | W+2.5 | 6.5 | 2525 | -18 | 
+| 2018-11-17 | 第13回広島アルミ杯・若鯉戦1回戦  | Fujisawa Rina | Nyu Eiko | Lose | B+11.5 | 6.5 | 2543 | -17 | 
+| 2018-11-12 | 第22期ドコモ杯女流棋聖戦2回戦 | Nyu Eiko | Fujisawa Rina | Lose | W+R | 6.5 | 2560 | -15 | 
+| 2018-10-26 | 第60期王冠戦予選 | Nyu Eiko | Hikosaka Naoto | Lose | W+1.5 | 6.5 | 2575 | 13 | 
+| 2018-09-27 | 第22期ドコモ杯女流棋聖戦1回戦 | Mukai Kaori | Nyu Eiko | Win | W+5.5 | 6.5 | 2562 | -19 | 
+| 2018-08-30 | 第31期女流名人戦1回戦 | Nyu Eiko | Izawa Akino | Win | B+R | 6.5 | 2581 | 36 | 
+| 2018-07-15 | 第3回扇興杯女流囲碁最強戦決勝  | Nyu Eiko | Mannami Nao | Lose | W+R | 6.5 | 2545 | 20 | 
+| 2018-07-13 | 第3回扇興杯女流囲碁最強戦準決勝  | Ueno Asami | Nyu Eiko | Win | W+R | 6.5 | 2525 | 41 | 
+| 2018-07-10 | 第37期女流本因坊戦3回戦 | Ueno Asami | Nyu Eiko | Lose | B+R | 6.5 | 2484 | 20 | 
+| 2018-06-07 | 第3回扇興杯女流囲碁最強戦2回戦 | Nyu Eiko | Yashiro Kumiko | Win | B+5.5 | 6.5 | 2464 | -18 | 
+| 2018-05-24 | 第37期女流本因坊戦2回戦 | Nyu Eiko | Koyama Mitsuru | Win | B+R | 6.5 | 2482 | -25 | 
+| 2018-05-21 | 第3回扇興杯女流囲碁最強戦1回戦 | Nyu Eiko | Chinen Kaori | Win | B+2.5 | 6.5 | 2507 | 58 | 
+| 2018-04-27 | 第1回呉清源杯世界女流囲碁選手権本戦1回戦 | Kim Cheayoung | Nyu Eiko | Lose | B+¾ | 7.5 | 2449 | -52 | 
+| 2018-04-16 | 第37期女流本因坊戦1回戦 | Nyu Eiko | Kato Keiko | Win | B+4.5 | 6.5 | 2501 | 34 | 
+| 2018-04-09 | 第8回中国姜堰黄竜士精鍛科技杯世界女子団体戦第2戦 | Nyu Eiko | Li He | Lose | W+R | 7.5 | 2467 | 0 | 
+| 2018-04-09 | 第8回中国姜堰黄竜士精鍛科技杯世界女子団体戦第1戦 | Oh Jeonga | Nyu Eiko | Win | W+R | 7.5 | 2467 | 24 | 
+| 2018-03-21 | 第9回おかげ杯囲碁トーナメント戦予選 | Nyu Eiko |  | Win | B+R | 6.5 | 2443 | 0 | 
+| 2018-03-21 | 第9回おかげ杯囲碁トーナメント戦予選 | Nyu Eiko | Xie Yimin | Lose | W+8.5 | 6.5 | 2443 | -30 | 
+| 2018-03-14 | 第1回SENKO CUPワールド碁女流最強戦1回戦  | Nyu Eiko | Hei Jiajia | Lose | W+R | 6.5 | 2473 | 17 | 
+| 2018-01-23 | 2018台湾精鋭vs日本精鋭交流戦第6戦 | Nyu Eiko | Lu Yiquan | Lose | W+5.5 | 6.5 | 2456 | 0 | 
+| 2018-01-23 | 2018台湾精鋭vs日本精鋭交流戦第5戦 | Nyu Eiko |  | Win | B+R | 6.5 | 2456 | 7 | 
+| 2018-01-22 | 2018台湾精鋭vs日本精鋭交流戦第4戦 | Nyu Eiko |  | Win | B+R | 6.5 | 2449 | 0 | 
+| 2018-01-22 | 2018台湾精鋭vs日本精鋭交流戦第3戦 | Nyu Eiko | Yu Lijun | Lose | W+R | 6.5 | 2449 | -54 | 
+| 2018-01-20 | 2018台湾精鋭vs日本精鋭交流戦第2戦 |  | Nyu Eiko | Win | W+R | 6.5 | 2503 | 0 | 
+| 2018-01-20 | 2018台湾精鋭vs日本精鋭交流戦第1戦 |  | Nyu Eiko | Win | W+R | 6.5 | 2503 | 31 | 
+| 2018-01-11 | 第37期女流本因坊戦予選 | Nyu Eiko | Tamura Chiaki | Win | B+R | 6.5 | 2472 | 10 | 
+| 2017-12-13 | 第2回IMSAエリートマインドゲームズ女子団体戦第4節 | Nyu Eiko | Lu Minquan | Lose | W+¾ | 7.5 | 2462 | -21 | 
+| 2017-11-30 | 第43期新人王戦予選 | Hirose Yuichi | Nyu Eiko | Lose | B+R | 6.5 | 2483 | 14 | 
+| 2017-11-09 | 第30期女流名人戦2回戦 | Nyu Eiko | Yashiro Kumiko | Lose | W+R | 6.5 | 2469 | -38 | 
+| 2017-10-19 | 第21期ドコモ杯女流棋聖戦2回戦 | Okuda Aya | Nyu Eiko | Lose | B+R | 6.5 | 2507 | 28 | 
+| 2017-10-05 | 第21期ドコモ杯女流棋聖戦1回戦 | Deguchi Mariko | Nyu Eiko | Win | W+R | 6.5 | 2479 | 9 | 
+| 2017-09-12 | 第8回蘇州穹窿山兵聖杯予選 | Ueno Asami | Nyu Eiko | Lose | B+R | 6.5 | 2470 | -7 | 
+| 2017-09-07 | 第30期女流名人戦1回戦 | Aoki Kikuyo | Nyu Eiko | Win | W+R | 6.5 | 2477 | 10 | 
+| 2017-07-18 | ナショナルチーム強化対局 | Nyu Eiko | DeepZenGo | Lose | W+R | 6.5 | 2467 | 0 | 
+| 2017-07-17 | ナショナルチーム強化対局 | Nyu Eiko | DeepZenGo | Lose | W+R | 6.5 | 2467 | -3 | 
+| 2017-07-14 | 第2回扇興杯女流囲碁最強戦　準決勝 | Xie Yimin | Nyu Eiko | Lose | B+4.5 | 6.5 | 2470 | 19 | 
+| 2017-05-22 | 2017年日本囲碁リーグ1st第4節浪速-WU主将戦 | Nyu Eiko | Watanabe Yuu | Win | B+R | 6.5 | 2451 | 0 | 
+| 2017-05-22 | 第2回扇興杯女流囲碁最強戦　本戦2回戦 | Tsukuda Akiko | Nyu Eiko | Win | W+R | 6.5 | 2451 | 31 | 
+| 2017-05-15 | 第36期女流本因坊戦2回戦 | Umezawa Yukari | Nyu Eiko | Lose | B+1.5 | 6.5 | 2420 | 4 | 
+| 2017-05-12 | 第6回天台山農商銀行杯世界女子囲碁団体チャンピオンシップ第3戦 | Nyu Eiko | Zhang Zhengping | Win | B+R | 7.5 | 2416 | -35 | 
+| 2017-05-11 | 第6回天台山農商銀行杯世界女子囲碁団体チャンピオンシップ第2戦 | Park Shiun | Nyu Eiko | Lose | B+R | 7.5 | 2451 | 11 | 
+| 2017-05-10 | 第6回天台山農商銀行杯世界女子囲碁団体チャンピオンシップ第1戦 | Li He | Nyu Eiko | Lose | B+5.5 | 7.5 | 2440 | -7 | 
+| 2017-05-07 | 3期韓国女子連戦14回戦仁済-扶安 | Nyu Eiko | Park Taehee | Lose | W+R | 6.5 | 2447 | 2 | 
+| 2017-05-01 | 日本棋院vs関西棋院対抗戦 | Nyu Eiko | Kurahashi Masayuki | Win | B+R | 6.5 | 2445 | 11 | 
+| 2017-04-21 | 第7回中国姜堰黄竜士精鍛科技杯世界女子団体戦第3戦 | Nyu Eiko | Kim Yoonyoung | Lose | W+R | 7.5 | 2434 | -15 | 
+| 2017-04-20 | 第7回中国姜堰黄竜士精鍛科技杯世界女子団体戦第2戦 | Nyu Eiko | Zhou Hongyu | Win | B+R | 7.5 | 2449 | 71 | 
+| 2017-04-16 | 第1回トライカッププロ囲碁団体戦　本戦5回戦 | Mannami Nao | Nyu Eiko | Lose | B+R | 6.5 | 2378 | 0 | 
+| 2017-04-16 | 第1回トライカッププロ囲碁団体戦　本戦4回戦 | Xie Yimin | Nyu Eiko | Lose | B+R | 6.5 | 2378 | -52 | 
+| 2017-04-15 | 第1回トライカッププロ囲碁団体戦　本戦2回戦 | Nyu Eiko | Muramatsu Hiroki | Lose | W+R | 6.5 | 2430 | 0 | 
+| 2017-04-15 | 第1回トライカッププロ囲碁団体戦　本戦1回戦 | Shimosaka Miori | Nyu Eiko | Win | W+R | 6.5 | 2430 | -9 | 
+| 2017-04-13 | 第2回扇興杯女流囲碁最強戦　本戦1回戦 | Nyu Eiko | Inori Yoko | Win | B+R | 6.5 | 2439 | -6 | 
+| 2017-04-11 | 3期韓国女子連戦10回戦扶安-麗水 |  | Nyu Eiko | Lose | B+4.5 | 6.5 | 2445 | -38 | 
+| 2017-03-31 | 第3回イベロジャパン杯1回戦 | Nyu Eiko | Kuwabara Shun | Lose | W+R | 6.5 | 2483 | 6 | 
+| 2017-03-24 | 3期韓国女子連戦8回戦扶安-京畿SG | Nyu Eiko | Kim Sinyoung | Lose | W+2.5 | 6.5 | 2477 | 113 | 
+| 2017-03-21 | 3期韓国女子連戦7回戦麟蹄-扶安 | Nyu Eiko | Oh Yujin | Lose | W+R | 6.5 | 2364 | -9 | 
+| 2017-03-19 | 3期韓国女子連戦6回戦京畿湖畔-扶安 | Park Jiyeon | Nyu Eiko | Lose | B+R | 6.5 | 2373 | -38 | 
+| 2017-03-17 | 第4回グロービス杯国内予選 | Hsu Chiayuan | Nyu Eiko | Lose | B+R | 6.5 | 2411 | 0 | 
+| 2017-03-17 | 第4回グロービス杯国内予選 | Nyu Eiko | Watanabe Yuu | Win | B+R | 6.5 | 2411 | -14 | 
+| 2017-03-14 | 第8回おかげ杯囲碁トーナメント戦予選 | Fujisawa Rina | Nyu Eiko | Lose | B+5.5 | 6.5 | 2425 | 18 | 
+| 2017-02-21 | 第8回おかげ杯囲碁トーナメント戦予選 | Nyu Eiko | Kaneko Maki | Win | B+R | 6.5 | 2407 | 30 | 
+| 2017-02-18 | 3期韓国女子連戦1回戦扶安-京畿SG | Nyu Eiko |  | Lose | W+R | 6.5 | 2377 | 14 | 
+| 2017-02-09 | 第36期女流本因坊戦予選決勝 | Nyu Eiko | Ishii Akane | Win | B+R | 6.5 | 2363 | 43 | 
+| 2017-02-06 | 第20期ドコモ杯女流棋聖戦挑戦手合三番勝負　第三局 | Xie Yimin | Nyu Eiko | Lose | B+R | 6.5 | 2320 | -33 | 
+| 2017-01-30 | 第20期ドコモ杯女流棋聖戦挑戦手合三番勝負　第二局 | Xie Yimin | Nyu Eiko | Win | W+R | 6.5 | 2353 | 59 | 
+| 2017-01-19 | 第20期ドコモ杯女流棋聖戦挑戦手合三番勝負　第一局 | Nyu Eiko | Xie Yimin | Lose | W+R | 6.5 | 2294 | -54 | 
+| 2016-12-08 | 第20期ドコモ杯女流棋聖戦挑戦者決定戦 | Nyu Eiko | Miyamoto Chiharu | Win | B+5.5 | 6.5 | 2348 | 100 | 
+| 2016-12-01 | 第20期ドコモ杯女流棋聖戦準決勝 | Nyu Eiko | Suzuki Ayumi | Win | B+6.5 | 6.5 | 2248 | 56 | 
+| 2016-11-12 | 第7期世界穹窿山兵聖杯16強戦 | Nyu Eiko | Oh Yujin | Lose | W+R | 7.5 | 2192 | -50 | 
+| 2016-11-10 | 第42期新人王戦　予選 | Nyu Eiko | Kazama Jun | Lose | W+R | 6.5 | 2242 | -97 | 
+| 2016-11-03 | 第58期王冠戦　予選A決勝 | Hikosaka Naoto | Nyu Eiko | Lose | B+R | 6.5 | 2339 | -38 | 
+| 2016-10-24 | 第20期ドコモ杯女流棋聖戦2回戦 | Nyu Eiko | Inori Yoko | Win | B+R | 6.5 | 2377 | -50 | 
+| 2016-10-06 | 第20期ドコモ杯女流棋聖戦1回戦 | Nyu Eiko | Umezawa Yukari | Win | B+R | 6.5 | 2427 | 59 | 
+| 2016-09-25 | 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Yu Zhiying | Nyu Eiko | Lose | B+3.5 | 6.5 | 2368 | -23 | 
+| 2016-09-24 | 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Su Shengfang | Nyu Eiko | Win | W+R | 6.5 | 2391 | -4 | 
+| 2016-09-23 | 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Nyu Eiko | Oh Yujin | Win | B+R | 6.5 | 2395 | 214 | 
+| 2016-05-19 | 第35期女流本因坊戦2回戦 | Tanemura Sayuri | Nyu Eiko | Lose | B+R | 6.5 | 2181 | -84 | 
+| 2016-04-18 | 第1回扇興杯女流最強戦1回戦 | Osawa Narumi | Nyu Eiko | Lose | B+R | 6.5 | 2265 | -2 | 
+| 2016-03-22 | 第3回グロービス杯国内予選 | Nyu Eiko | Sun Zhe | Lose | W+R | 6.5 | 2267 | 0 | 
+| 2016-03-22 | 第3回グロービス杯国内予選 | Nyu Eiko | Hara Masakazu | Win | B+R | 6.5 | 2267 | -90 | 
+| 2016-02-27 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Oh Yujin | Nyu Eiko | Lose | B+R | 7.5 | 2357 | 0 | 
+| 2016-02-27 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Nyu Eiko | Yu Zhiying | Lose | W+R | 7.5 | 2357 | -74 | 
+| 2016-02-26 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Nyu Eiko | Rita Pocsai | Win | B+R | 7.5 | 2431 | -5 | 
+| 2016-01-28 | 第35期女流本因坊戦予選 | Nyu Eiko | Deguchi Mariko | Win | B+R | 6.5 | 2436 | -13 | 
+| 2016-01-27 | 第7回おかげ杯囲碁トーナメント戦予選 | Nyu Eiko | Kazama Jun | Win | B+R | 6.5 | 2449 | 0 | 
+| 2016-01-27 | 第7回おかげ杯囲碁トーナメント戦予選 | Yao Zhiteng | Nyu Eiko | Lose | B+R | 6.5 | 2449 | -143 | 
+| 2016-01-08 | 第2回イベロジャパン杯1回戦 | Hirose Yuichi | Nyu Eiko | Lose | B+R | 6.5 | 2592 | 32 | 
+| 2015-10-18 | 第6回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Nyu Eiko | Li He | Lose | W+R | 7.5 | 2560 | -61 | 
+| 2015-10-17 | 第6回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Nyu Eiko | Song Ronghui | Win | B+R | 7.5 | 2621 | 2621 | 
+| 2015-10-08 | 第19期ドコモ杯女流棋聖戦1回戦 | Aoba Kaori | Nyu Eiko | Lose | B+6.5 | 6.5 | missing | missing |
 
 
 

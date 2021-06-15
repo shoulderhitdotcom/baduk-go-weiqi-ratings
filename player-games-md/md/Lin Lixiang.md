@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-15 | 第17期国手戦（台湾）挑戦手合五番勝負第3局 | Lin Lixiang | Xu Haohong | Lose | W+0.5 | 6.5 | 3063 | 25 | 
 | 2021-06-08 | 第17期国手戦（台湾）挑戦手合五番勝負第2局 | Xu Haohong | Lin Lixiang | Lose | B+R | 6.5 | 3038 | 41 | 
 | 2021-05-18 | 第17期国手戦（台湾）挑戦手合五番勝負第1局 | Lin Lixiang | Xu Haohong | Lose | W+R | 6.5 | 2997 | -19 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Gao Yun | Lin Lixiang | Win | W+R | 6.5 | 3016 | 7 | 

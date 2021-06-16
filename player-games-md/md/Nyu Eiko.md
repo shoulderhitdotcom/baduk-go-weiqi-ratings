@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-16 | 第8期会津中央病院・女流立葵杯挑戦者決定戦 | Nyu Eiko | Ueno Asami | Lose | W+R | 6.5 | 2571 | -4 | 
 | 2021-06-15 | 第8期会津中央病院・女流立葵杯準決勝 | Nyu Eiko | Nakamura Sumire | Win | B+6.5 | 6.5 | 2575 | 84 | 
 | 2021-05-09 | 第40期女流本因坊戦2回戦  | Nyu Eiko | Nakamura Sumire | Lose | W+1.5 | 6.5 | 2491 | -23 | 
 | 2021-04-19 | 第8期会津中央病院・女流立葵杯1回戦 | Suzuki Ayumi | Nyu Eiko | Win | W+2.5 | 6.5 | 2514 | 39 | 

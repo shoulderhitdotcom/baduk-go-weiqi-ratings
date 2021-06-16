@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-16 | 第25期馬橋杯中国囲碁新人王戦決勝三番勝負第3局 | Tu Xiaoyu | Wang Xinghao | Lose | B+R | 7.5 | 3392 | -17 | 
 | 2021-06-15 | 第25期馬橋杯中国囲碁新人王戦決勝三番勝負第2局 | Wang Xinghao | Tu Xiaoyu | Lose | W+R | 7.5 | 3409 | 0 | 
 | 2021-06-14 | 第25期馬橋杯中国囲碁新人王戦決勝三番勝負第1局 | Tu Xiaoyu | Wang Xinghao | Win | W+R | 7.5 | 3409 | 9 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Zhou Hexi | Win | B+¾ | 7.5 | 3400 | 1 | 

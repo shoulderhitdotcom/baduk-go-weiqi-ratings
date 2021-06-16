@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-16 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Seungmin | Kim Jiseok | Win | W+R | 6.5 | 3489 | 2 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Chen Xian | Kim Jiseok | Lose | B+R | 7.5 | 3487 | 1 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Chen Xian | Kim Jiseok | Lose | B+R | 7.5 | 3486 | -11 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Lian Xiao | Win | B+R | 7.5 | 3497 | 23 | 

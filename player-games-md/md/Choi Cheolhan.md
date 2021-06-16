@@ -5,1105 +5,1106 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 2021-05-28 | 第26回GSカルテックス杯プロ棋戦2回戦 | An Sungjoon | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2021-05-14 | 第44期名人戦（韓国）2回戦 | Choi Cheolhan | An Sungjoon | Win | B+R | 6.5 | 
-| 2021-04-23 | 第26回GSカルテックス杯プロ棋戦1回戦 | Choi Cheolhan | Heo Yongho | Win | B+R | 6.5 | 
-| 2021-04-21 | 第4期韓国竜星戦2回戦 | Kim Sedong | Choi Cheolhan | Win | W+9.5 | 6.5 | 
-| 2021-03-20 | 2020-2021韓国囲碁リーグプレーオフ第2戦 | Kang Dongyun | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2021-03-19 | 2020-2021韓国囲碁リーグプレーオフ第1戦 | Park Hamin | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2021-03-17 | 2020-2021韓国囲碁リーグ準プレーオフ | Choi Cheolhan | Yun Junsang | Win | B+R | 6.5 | 
-| 2021-03-12 | 第44期名人戦（韓国）1回戦 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2021-02-27 | 2020-2021韓国囲碁リーグ | Kim Jiseok | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2021-02-19 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | An Jungki | Win | B+R | 6.5 | 
-| 2021-02-15 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Lee Donghoon | Lose | W+R | 6.5 | 
-| 2021-02-13 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | Paek Hongseok | Win | B+R | 6.5 | 
-| 2021-02-10 | 第4期韓国竜星戦1回戦 | Kim Eunseon | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2021-02-07 | 2020-2021韓国囲碁リーグ | Lee Yeongkyu | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2021-01-28 | 2020-2021韓国囲碁リーグ | Han Sanghoon | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2021-01-22 | 2020-2021韓国囲碁リーグ | Park Jinsol | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2021-01-17 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | Cho Hanseung | Lose | W+0.5 | 6.5 | 
-| 2021-01-12 | 第44期名人戦（韓国）予選 | Choi Cheolhan |  | Win | B+R | 6.5 | 
-| 2021-01-10 | 2020-2021韓国囲碁リーグ | Lee Wondo | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2021-01-04 | 第22回マキシムコーヒー杯入神最強戦1回戦 | An Sungjoon | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2021-01-02 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | Heo Yongho | Lose | W+R | 6.5 | 
-| 2020-12-25 | 2020-2021韓国囲碁リーグ | Wen Rubin | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2020-12-17 | 2020-2021韓国囲碁リーグ | Shen Zaiyi | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2020-12-13 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | An Sungjoon | Win | B+R | 6.5 | 
-| 2020-12-11 | 第26期GSカルテックス杯プロ棋戦予選 | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 
-| 2020-12-08 | 第26期GSカルテックス杯プロ棋戦予選 | Choi Cheolhan | Choi Jeong | Win | B+R | 6.5 | 
-| 2020-12-05 | 2020-2021韓国囲碁リーグ | Park Jinsol | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2020-11-26 | 2020-2021韓国囲碁リーグ | Cho Hanseung | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2020-11-22 | 2020年中国囲碁乙級リーグ | Choi Cheolhan |  | Win | B+3¾ | 7.5 | 
-| 2020-11-21 | 2020年中国囲碁乙級リーグ | Choi Cheolhan |  | Win | B+R | 7.5 | 
-| 2020-11-20 | 2020年中国囲碁乙級リーグ | Choi Cheolhan | Wang Haoyang | Lose | W+R | 7.5 | 
-| 2020-11-19 | 2020年中国囲碁乙級リーグ | Mao Ruilong | Choi Cheolhan | Lose | B+¾ | 7.5 | 
-| 2020-11-17 | 2020年中国囲碁乙級リーグ | Choi Cheolhan |  | Lose | W+R | 7.5 | 
-| 2020-11-16 | 2020年中国囲碁乙級リーグ |  | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2020-11-15 | 2020年中国囲碁乙級リーグ | Choi Cheolhan |  | Win | B+R | 7.5 | 
-| 2020-11-14 | 2020年中国囲碁乙級リーグ | Park Sangjin | Choi Cheolhan | Win | W+¼ | 7.5 | 
-| 2020-09-24 | 第22回農心杯韓国選抜戦 | Choi Cheolhan | Lee Yeongkyu | Lose | W+R | 6.5 | 
-| 2020-04-22 | 第25回LG杯韓国予選 | On Sojin | Choi Cheolhan | Lose | B+1.5 | 6.5 | 
-| 2020-04-20 | 第25回LG杯韓国予選 | Kim Hyeongwoo | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2020-04-14 | 第25回LG杯韓国予選 | Park Taehee | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2020-03-12 | 第25期GSカルテックス杯プロ棋戦24強戦 | Park Yeonghun | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2020-02-25 | 第21回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Byun Sangil | Lose | W+R | 6.5 | 
-| 2020-02-08 | 2019-2020韓国囲碁リーグ準プレーオフ第2戦第4局 | Choi Cheolhan | Lee Hoseong | Win | B+R | 6.5 | 
-| 2020-02-06 | 2019-2020韓国囲碁リーグワイルドカード決定戦第2戦第4局 | Kim Myounghoon | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2020-02-04 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Heo Yongho | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第4試合第5局 | Shin Jinseo | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2020-01-21 | 第9回応氏杯世界選手権韓国選抜戦 | Choi Cheolhan | Kang Dongyun | Lose | W+R | 7.5 | 
-| 2020-01-20 | 第9回応氏杯世界選手権韓国選抜戦 | Weon Seongjin | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2020-01-16 | 2019-2020韓国囲碁リーグ第16節第1試合第4局 | Ryu Suhang | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2020-01-10 | 2019-2020韓国囲碁リーグ第15節第2試合第4局 | Wen Rubin | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2020-01-07 | 第3期韓国竜星戦予選決勝 | Kim Jiseok | Choi Cheolhan | Lose | B+1.5 | 6.5 | 
-| 2020-01-04 | 2019-2020韓国囲碁リーグ第14節第3試合第2局 | Park Yeonghun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2019-12-29 | 2019-2020韓国囲碁リーグ第13節第4試合第3局 | Jin Siyoung | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2019-12-19 | 2019-2020韓国囲碁リーグ第12節第1試合第5局 | Choi Cheolhan | Lee Yeongkyu | Win | B+R | 6.5 | 
-| 2019-12-16 | 第25期GSカルテックス杯プロ棋戦予選決勝 | Choi Cheolhan | Kim Daehee | Win | B+R | 6.5 | 
-| 2019-12-13 | 2019-2020韓国囲碁リーグ第11節第2試合第1局 | Choi Cheolhan | An Jungki | Lose | W+0.5 | 6.5 | 
-| 2019-12-11 | 第25期GSカルテックス杯プロ棋戦予選 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2019-12-08 | 2019-2020韓国囲碁リーグ第10節第4試合第2局 | Choi Cheolhan |  | Win | B+R | 6.5 | 
-| 2019-11-28 | 2019-2020韓国囲碁リーグ第9節第1試合第2局 | Choi Cheolhan | Cho Hanseung | Win | B+R | 6.5 | 
-| 2019-11-17 | 2019-2020韓国囲碁リーグ第7節第4試合第2局 | Choi Cheolhan | Weon Seongjin | Win | B+R | 6.5 | 
-| 2019-11-09 | 2019-2020韓国囲碁リーグ第6節第3試合第5局 | Choi Cheolhan | Seol Hyunjun | Lose | W+4.5 | 6.5 | 
-| 2019-11-01 | 2019-2020韓国囲碁リーグ第5節第2試合第3局 | Choi Cheolhan | Park Seunghwa | Win | B+R | 6.5 | 
-| 2019-10-24 | 2019-2020韓国囲碁リーグ第4節第1試合第1局 | Jin Siyoung | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2019-10-20 | 2019-2020韓国囲碁リーグ第3節第4試合第5局 | Shen Zaiyi | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2019-10-05 | 2019-2020韓国囲碁リーグ第2節第3試合第4局 | Kang Dongyun | Choi Cheolhan | Lose | B+5.5 | 6.5 | 
-| 2019-09-26 | 2019-2020韓国囲碁リーグ第1節第1試合第3局 | Choi Cheolhan |  | Win | B+R | 6.5 | 
-| 2019-09-09 | 第3回安東市真貯蓄銀行杯プロアマオープン戦32強戦 | An Jungki | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Han Seungjoo | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Choi Cheolhan | Kim Hyeongwoo | Win | B+R | 6.5 | 
-| 2019-07-18 | 第21回農心杯韓国選抜戦 | Choi Cheolhan | Lee Jihyun | Lose | W+R | 6.5 | 
-| 2019-07-16 | 第21回農心杯韓国選抜戦 | Choi Cheolhan | Seol Hyunjun | Win | B+R | 6.5 | 
-| 2019-06-27 | 第6回国手山脈韓国国内トーナメント予選 | Park Minkyu | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2019-06-05 | 第6回国手山脈杯韓国選抜戦2回戦 | Choi Cheolhan | Shin Minjun | Lose | W+R | 6.5 | 
-| 2019-06-05 | 第6回国手山脈杯韓国選抜戦1回戦 | Choi Cheolhan | Kim Myounghoon | Win | B+1.5 | 6.5 | 
-| 2019-05-24 | 第4回夢百合杯統合予選決勝 | Li Xuanhao | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2019-03-28 | 第24期GSカルテックス杯8強戦 | Choi Cheolhan | Kim Jiseok | Lose | W+R | 6.5 | 
-| 2019-03-08 | 第24期GSカルテックス杯16強戦 | Lee Donghoon | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2019-03-04 | 第20回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Paek Hongseok | Lose | W+R | 6.5 | 
-| 2019-02-17 | 2019年韓中囲碁リーグチャンピオンズカップ第2戦 | Choi Cheolhan | Huang Yunsong | Lose | W+R | 6.5 | 
-| 2019-02-16 | 2019年韓中囲碁リーグチャンピオンズカップ第1戦 | Mi Yuting | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2019-02-07 | 第24期GSカルテックス杯24強戦 | Choi Cheolhan | Lee Hyeonjun | Win | B+R | 6.5 | 
-| 2019-01-08 | 第20回マキシムコーヒー杯入神最強戦1回戦 | Choi Cheolhan | Song Taekon | Win | B+R | 6.5 | 
-| 2018-11-23 | 第20回農心辛ラーメン杯世界囲碁最強戦第5戦 | Fan Tingyu | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2018-11-17 | 2018年韓国囲碁リーグ優勝決定戦第2戦 | Choi Cheolhan | Han Seungjoo | Win | B+R | 6.5 | 
-| 2018-11-16 | 2018年韓国囲碁リーグ優勝決定戦第1戦 | Kim Myounghoon | Choi Cheolhan | Win | W+3.5 | 6.5 | 
-| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節成都-浙江 | Qin Yuexin | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2018-10-05 | 2018年韓国囲碁リーグ第14節 | Choi Cheolhan | Cho Hanseung | Lose | W+R | 6.5 | 
-| 2018-09-28 | 2018年韓国囲碁リーグ第13節 | Choi Cheolhan | Park Minkyu | Win | B+R | 6.5 | 
-| 2018-09-21 | 第1回天府杯世界囲碁選手権A組1回戦 | Chen Yaoye | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2018-09-14 | 2018年韓国囲碁リーグ第11節 | Kang Dongyun | Choi Cheolhan | Lose | B+7.5 | 6.5 | 
-| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節中信-成都 | Choi Cheolhan | Chen Yaoye | Lose | W+R | 7.5 | 
-| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節成都-天津 | Choi Cheolhan | Tang Weixing | Lose | W+R | 7.5 | 
-| 2018-09-08 | 第20回中国囲碁甲級リーグ第14節廈門-成都 | Zhou Ruiyang | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2018-09-01 | 2018年韓国囲碁リーグ第10節 | Park Junghwan | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2018-08-26 | 2018年韓国囲碁リーグ第9節 | Choi Cheolhan | Kim Myounghoon | Lose | W+R | 6.5 | 
-| 2018-08-21 | 第1回天府杯韓国選抜戦決勝 | Choi Cheolhan | Lee Sedol | Win | B+R | 6.5 | 
-| 2018-08-20 | 第1回天府杯韓国選抜戦1回戦 | Park Yeonghun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2018-08-16 | 2018年韓国囲碁リーグ第8節 | Han Sanghoon | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2018-08-15 | 第20回中国囲碁甲級リーグ第13節上海-成都 | Choi Cheolhan | Hu Yaoyu | Lose | W+R | 7.5 | 
-| 2018-08-13 | 第20回中国囲碁甲級リーグ第12節成都-山東 | Jiang Weijie | Choi Cheolhan | Lose | B+¾ | 7.5 | 
-| 2018-08-11 | 2018年韓国囲碁リーグ第7節 | Choi Cheolhan | Kim Seongjae | Win | B+R | 6.5 | 
-| 2018-08-06 | 第20回中国囲碁甲級リーグ第11節衢州-成都 | Choi Cheolhan | Hu Yuhan | Lose | W+R | 7.5 | 
-| 2018-08-04 | 2018年韓国囲碁リーグ第6節 | Lee Yeongkyu | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2018-07-28 | 第5回国手山脈杯韓国国内トーナメント32強戦 | Lee Yeongkyu | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2018-07-25 | 第20回農心杯韓国選抜戦 | Choi Cheolhan | Kang Dongyun | Win | B+R | 6.5 | 
-| 2018-07-24 | 第20回農心杯韓国選抜戦 | Choi Cheolhan | Shin Minjun | Win | B+0.5 | 6.5 | 
-| 2018-07-21 | 弈決崆峒世界道教名山戦8強戦 | Tuo Jiaxi | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2018-07-16 | 第20回中国囲碁甲級リーグ第10節成都-民生 | Choi Cheolhan | Shen Peiran | Win | B+R | 7.5 | 
-| 2018-07-14 | 2018年韓国囲碁リーグ第4節 | Park Hamin | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2018-07-07 | 第23回三星火災杯統合予選決勝 | Choi Cheolhan | Tao Xinran | Lose | W+R | 6.5 | 
-| 2018-07-06 | 第23回三星火災杯統合予選準決勝 | Rong Yi | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2018-06-29 | 2018年韓国囲碁リーグ第3節 | Choi Cheolhan | Park Junghwan | Lose | W+R | 6.5 | 
-| 2018-06-25 | 第20回中国囲碁甲級リーグ第9節蘇泊爾-成都 | Choi Cheolhan | Xie Ke | Win | B+R | 7.5 | 
-| 2018-06-21 | 2018年韓国囲碁リーグ第2節 | Park Jinsol | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2018-06-17 | 2018年韓国囲碁リーグ第1節 | Choi Cheolhan | Lee Sedol | Win | B+R | 6.5 | 
-| 2018-05-28 | 第23回LG杯朝鮮日報棋王戦1回戦 | Shi Yue | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2018-05-14 | 第20回中国囲碁甲級リーグ第6節成都-江西 | Choi Cheolhan | Xu Jiayang | Lose | W+R | 7.5 | 
-| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節成都-杭州 | Choi Cheolhan |  | Win | B+R | 7.5 | 
-| 2018-04-30 | 第5回国手山脈杯韓国選抜戦 | Choi Cheolhan | Park Yeonghun | Lose | W+R | 6.5 | 
-| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節重慶-成都 | Choi Cheolhan | Tan Xiao | Lose | W+¼ | 7.5 | 
-| 2018-04-07 | 第23回LG杯予選決勝 | Tuo Jiaxi | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2018-03-13 | 第19回マキシムコーヒー杯入神最強戦3回戦 | Choi Cheolhan | Kim Jiseok | Lose | W+R | 6.5 | 
-| 2018-03-10 | 第17回西南棋王戦準決勝 | Choi Cheolhan | Mi Yuting | Lose | W+¼ | 7.5 | 
-| 2018-03-09 | 第17回西南棋王戦2回戦 | Mao Ruilong | Choi Cheolhan | Win | W+2¼ | 7.5 | 
-| 2018-03-09 | 第17回西南棋王戦1回戦 | Choi Cheolhan | Dang Yifei | Win | B+R | 7.5 | 
-| 2018-02-13 | 韓国ナショナルチームリーグ戦 | Kang Dongyun | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2018-02-06 | 第19回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Kang Dongyun | Win | B+R | 6.5 | 
-| 2018-02-06 | 韓国ナショナルチームリーグ戦 | Choi Cheolhan | Shin Jinseo | Lose | W+R | 6.5 | 
-| 2018-02-05 | 第19回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Kang Dongyun | Win | B+R | 6.5 | 
-| 2018-01-09 | 第19回マキシムコーヒー杯入神最強戦1回戦 | Choi Cheolhan | Kim Juho | Win | B+1.5 | 6.5 | 
-| 2018-01-05 | 韓国ナショナルチームリーグ戦 | Choi Cheolhan | Shin Minjun | Win | B+R | 6.5 | 
-| 2017-12-13 | 第36回KBS杯囲碁王戦16強戦 | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2017-12-03 | 2017年韓国囲碁リーグ優勝決定戦第3戦 | Choi Cheolhan | Shin Jinseo | Lose | W+R | 6.5 | 
-| 2017-12-02 | 2017年韓国囲碁リーグ優勝決定戦第2戦 | Kim Myounghoon | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2017-12-01 | 2017年韓国囲碁リーグ優勝決定戦第1戦 | Choi Cheolhan | Shin Jinseo | Win | B+R | 6.5 | 
-| 2017-11-29 | 2017年韓国囲碁リーグプレーオフ第3戦 | Hong Kipyo | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2017-11-23 | 2017年韓国囲碁リーグプレーオフ第2戦 | Choi Cheolhan | Kang Seungmin | Lose | W+R | 6.5 | 
-| 2017-11-22 | 2017年韓国囲碁リーグプレーオフ第1戦 | Choi Cheolhan | Hong Kipyo | Win | B+R | 6.5 | 
-| 2017-11-13 | 第22回LG杯朝鮮日報棋王戦準々決勝 | Choi Cheolhan | Xie Erhao | Lose | W+R | 6.5 | 
-| 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Choi Cheolhan | Sun Tengyu | Win | B+R | 7.5 | 
-| 2017-10-30 | 第19回中国囲碁甲級リーグ第22節 | Choi Cheolhan | Chen Zhengxun | Win | B+R | 7.5 | 
-| 2017-10-26 | 2017年韓国囲碁リーグ | Choi Cheolhan | Paek Hongseok | Win | B+R | 6.5 | 
-| 2017-10-21 | 2017年韓国囲碁リーグ | Choi Cheolhan | Choi Jeong | Win | B+R | 6.5 | 
-| 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Choi Cheolhan | Liu Xing | Win | B+R | 7.5 | 
-| 2017-10-14 | 2017年韓国囲碁リーグ | Han Wonggyu | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2017-10-06 | 2017年韓国囲碁リーグ | Shin Minjun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2017-10-01 | 2017年韓国囲碁リーグ | Choi Cheolhan | Han Sanghoon | Lose | W+R | 6.5 | 
-| 2017-09-22 | 2017年韓国囲碁リーグ | Choi Cheolhan | Choi Jaeyoung | Lose | W+R | 6.5 | 
-| 2017-09-18 | 韓国国家隊循環戦 | Park Geunho | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2017-09-17 | 2017年韓国囲碁リーグ | Choi Cheolhan | Han Seungjoo | Win | B+R | 6.5 | 
-| 2017-09-03 | 2017年韓国囲碁リーグ | Choi Cheolhan | Seol Hyunjun | Win | B+R | 6.5 | 
-| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Ding Hao | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Choi Cheolhan | Rong Yi | Win | B+R | 7.5 | 
-| 2017-08-20 | 2017年韓国囲碁リーグ | Kang Seungmin | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2017-08-11 | 2017年韓国囲碁リーグ | Heo Yongho | Choi Cheolhan | Win | W+2.5 | 6.5 | 
-| 2017-08-04 | 2017年韓国囲碁リーグ | An Sungjoon | Choi Cheolhan | Win | W+1.5 | 6.5 | 
-| 2017-07-22 | 2017年韓国囲碁リーグ | Ryu Minhyung | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Fan Yunruo | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Choi Cheolhan | Gu Zihao | Lose | W+R | 7.5 | 
-| 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Tang Weixing | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2017-07-13 | 第19回農心杯韓国選抜戦 | Choi Cheolhan | Kim Myounghoon | Lose | W+13.5 | 6.5 | 
-| 2017-07-13 | 2017年韓国囲碁リーグ | Choi Cheolhan | Cho Hanseung | Win | B+R | 6.5 | 
-| 2017-07-08 | 2017年韓国囲碁リーグ | Choi Cheolhan | Kang Yootaek | Lose | W+R | 6.5 | 
-| 2017-07-03 | 第22回三星火災杯統合予選決勝 | Gu Zihao | Choi Cheolhan | Lose | B+2.5 | 6.5 | 
-| 2017-07-01 | 第22回三星火災杯統合予選3回戦 | Choi Cheolhan | Cao Xiaoyang | Win | B+R | 6.5 | 
-| 2017-06-21 | 第3回夢百合杯世界オープン戦2回戦 | Lee Sedol | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Choi Cheolhan | Yin Qu | Win | B+R | 7.5 | 
-| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Choi Cheolhan | Mi Yuting | Win | B+R | 7.5 | 
-| 2017-06-08 | 2017年韓国囲碁リーグ | Choi Cheolhan | Park Jinsol | Win | B+R | 6.5 | 
-| 2017-06-01 | 2017年韓国囲碁リーグ | Han Taehee | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Chen Yaoye | Choi Cheolhan | Win | W+4.5 | 6.5 | 
-| 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 
-| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Liu Xing | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Choi Cheolhan | Xia Chenkun | Win | B+R | 7.5 | 
-| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Rong Yi | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2017-04-17 | 第18回マキシムコーヒー杯入神最強戦準決勝 | Choi Cheolhan | Park Junghwan | Lose | W+R | 6.5 | 
-| 2017-03-14 | 第18回マキシムコーヒー杯入神最強戦3回戦 | Choi Cheolhan | Hong Seongji | Win | B+2.5 | 6.5 | 
-| 2017-02-27 | 第18回マキシムコーヒー杯入神最強戦2回戦 | Park Cheongsang | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2016-12-11 | 2016年韓国囲碁リーグ | Kim Seongjae | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2016-12-04 | 2016年韓国囲碁リーグ | Choi Cheolhan | Kim Seongjae | Win | B+3.5 | 6.5 | 
-| 2016-12-01 | 2016年韓国囲碁リーグ | Choi Cheolhan | Lee Donghoon | Lose | W+R | 6.5 | 
-| 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Choi Cheolhan | Zhou Hexi | Win | B+R | 7.5 | 
-| 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 |  | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2016-11-12 | 第18回中国囲碁甲級リーグ第18節 | Choi Cheolhan | Meng Tailing | Win | B+R | 7.5 | 
-| 2016-11-04 | 2016金立杯全国囲棋甲級聯戦第17回戦 | Choi Cheolhan | Tong Mengcheng | Win | B+1.5 | 7.5 | 
-| 2016-10-28 | 第18回中国囲碁甲級リーグ第16節 | Choi Cheolhan | Tan Xiao | Lose | W+0.5 | 7.5 | 
-| 2016-10-23 | 2016年韓国囲碁リーグ | Choi Cheolhan | Kang Yootaek | Lose | W+R | 6.5 | 
-| 2016-10-16 | 2016年韓国囲碁リーグ | Park Seunghwa | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Ke Jie | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Choi Cheolhan | Shi Yue | Win | B+R | 7.5 | 
-| 2016-09-29 | 2016年韓国囲碁リーグ | Choi Cheolhan | An Sungjoon | Win | B+1.5 | 6.5 | 
-| 2016-09-23 | 2016年韓国囲碁リーグ第14節 | An Joyeong | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2016-09-17 | 2016年韓国囲碁リーグ第13節 | Lee Sedol | Choi Cheolhan | Lose | B+2.5 | 6.5 | 
-| 2016-09-12 | 2016金立杯囲棋甲級リーグ戦聯戦第13R | Jiang Weijie | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2016-09-04 | 2016年韓国囲碁リーグ第12節 | Choi Cheolhan | Ryu Minhyung | Win | B+R | 6.5 | 
-| 2016-08-27 | 2016年韓国囲碁リーグ第11節 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2016-08-20 | 2016年韓国囲碁リーグ第10節 | Choi Cheolhan | Kim Jiseok | Win | B+R | 6.5 | 
-| 2016-08-11 | 2016年韓国囲碁リーグ第9節 | Kim Seongjae | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2016-07-28 | 2016年韓国囲碁リーグ第8節 | Weon Seongjin | Choi Cheolhan | Win | W+0.5 | 6.5 | 
-| 2016-07-22 | 第18回農心杯韓国選抜戦 | Kim Junghyun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2016-07-19 | 第21回三星火災杯統合予選準決勝 | Choi Cheolhan | Li Xuanhao | Lose | W+R | 6.5 | 
-| 2016-07-12 | 第18回農心杯韓国選抜戦 | Choi Cheolhan | Park Jinsol | Win | B+R | 6.5 | 
-| 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Choi Cheolhan | Chen Yaoye | Lose | W+R | 7.5 | 
-| 2016-06-25 | 2016年韓国囲碁リーグ第5節 | Choi Cheolhan | Lee Yeongkyu | Lose | W+R | 6.5 | 
-| 2016-06-20 | 第18回中国囲碁甲級リーグ第9節 | Zhou Hexi | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2016-06-17 | 2016年韓国囲碁リーグ第4節 | An Jungki | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2016-06-16 | 第18回中国囲碁甲級リーグ第8節 | Choi Cheolhan | Xie Ke | Win | B+R | 7.5 | 
-| 2016-06-09 | 2016年韓国囲碁リーグ第3節 | Choi Cheolhan | Lee Jihyun | Win | B+R | 6.5 | 
-| 2016-06-06 | 第18回中国囲碁甲級リーグ第7節 | Tang Weixing | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2016-06-03 | 2016年韓国囲碁リーグ第2節 | Park Jinsol | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2016-05-26 | 第1回新奥杯世界囲碁オープン戦予選 | Gu Zihao | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2016-05-22 | 第18回中国囲碁甲級リーグ第6節 | Choi Cheolhan | Mi Yuting | Lose | W+0.5 | 7.5 | 
-| 2016-05-20 | 2016年韓国囲碁リーグ第1節 | Choi Cheolhan | Heo Yongho | Lose | W+1.5 | 6.5 | 
-| 2016-05-16 | 第18回中国囲碁甲級リーグ第5節 | Tan Xiao | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2016-05-09 | 第18回中国囲碁甲級リーグ第4節 | Choi Cheolhan | Niu Yutian | Win | B+R | 7.5 | 
-| 2016-04-30 | 第18回中国囲碁甲級リーグ第3節 | Shi Yue | Choi Cheolhan | Lose | B+1.5 | 7.5 | 
-| 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Choi Cheolhan | Zhou Ruiyang | Lose | W+R | 7.5 | 
-| 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Gu Zihao | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2016-04-03 | 第21回LG杯予選 | Choi Cheolhan | Sun Tengyu | Win | B+R | 6.5 | 
-| 2016-02-28 | 第21期GSカルテックス杯プロ棋戦2回戦 | Weon Seongjin | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2016-02-01 | 第17回マキシムコーヒー杯入神最強戦2回戦 | Weon Seongjin | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2016-01-08 | 第8回応氏杯世界選手権韓国選抜戦 | Lee Donghoon | Choi Cheolhan | Lose | B+5 | 7.5 | 
-| 2015-11-29 | 第17回農心辛ラーメン杯世界囲碁最強戦第7戦 | Choi Cheolhan | Gu Li | Lose | W+R | 6.5 | 
-| 2015-11-28 | 第17回農心辛ラーメン杯世界囲碁最強戦第6戦 | Ida Atsushi | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2015-11-27 | 第17回農心辛ラーメン杯世界囲碁最強戦第5戦 | Choi Cheolhan | Wu Guangya | Win | B+R | 6.5 | 
-| 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 | Choi Cheolhan |  | Lose | W+R | 7.5 | 
-| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Choi Cheolhan | Yang Dingxin | Lose | W+R | 7.5 | 
-| 2015-10-14 | 2015年レッツランパーク杯オープントーナメント2回戦 | Lee Jihyun | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2015-10-01 | 2015年韓国囲碁リーグ |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Lee Wonyoung | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2015-09-26 | 2015年韓国囲碁リーグ | Choi Cheolhan | Shin Yoonho | Win | B+R | 6.5 | 
-| 2015-09-19 | 2015年韓国囲碁リーグ | Kim Myounghoon | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2015-09-10 | 第20回三星火災杯世界囲碁マスターズ1回戦A3 | Yu Zhiying | Choi Cheolhan | Lose | B+0.5 | 6.5 | 
-| 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦A2 | Mok Jinseok | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦A1 | Choi Cheolhan | Tang Weixing | Lose | W+3.5 | 6.5 | 
-| 2015-09-04 | 2015年韓国囲碁リーグ | Choi Cheolhan | Kim Kiyoung | Win | B+R | 6.5 | 
-| 2015-09-02 | 第43期名人戦（韓国）予選 |  | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2015-08-30 | 2015年韓国囲碁リーグ | Choi Cheolhan | You Byungyong | Win | B+R | 6.5 | 
-| 2015-08-21 | 2015年韓国囲碁リーグ | Park Junghwan | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2015-08-16 | 2015年韓国囲碁リーグ | Choi Cheolhan | Lee Taehyun | Win | B+R | 6.5 | 
-| 2015-08-03 | 第20回三星火災杯統合予選2回戦 | Choi Cheolhan | Liao Xingwen | Win | B+1.5 | 6.5 | 
-| 2015-07-26 | 2015年韓国囲碁リーグ | Lee Hobum | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2015-07-21 | 第17回農心杯韓国選抜戦 | Ahn Kukhyun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2015-07-20 | 第17回農心杯韓国選抜戦 | Choi Cheolhan | Shin Jinseo | Win | B+R | 6.5 | 
-| 2015-07-17 | 第17回農心杯韓国選抜戦 | Choi Cheolhan | Choi Jeong | Win | B+1.5 | 6.5 | 
-| 2015-07-16 | 第17回農心杯韓国選抜戦 | Kim Juho | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2015-07-05 | 2015年韓国囲碁リーグ | Park Seunghwa | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 |  | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2015-06-26 | 2015年韓国囲碁リーグ | Weon Seongjin | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2015-06-15 | 第59期国手戦（韓国）1回戦 | Lee Jihyun | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2015-06-13 | 2015年韓国囲碁リーグ | Kim Junghyun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2015-06-10 | 第20回LG杯朝鮮日報棋王戦2回戦 | Choi Cheolhan | Ke Jie | Lose | W+R | 6.5 | 
-| 2015-06-08 | 第20回LG杯朝鮮日報棋王戦1回戦 | Choi Cheolhan | Takao Shinji | Win | B+0.5 | 6.5 | 
-| 2015-05-28 | 2015年韓国囲碁リーグ | Choi Cheolhan | Kim Jiseok | Lose | W+R | 6.5 | 
-| 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Choi Cheolhan | Zhang Tao | Win | B+R | 7.5 | 
-| 2015-05-16 | 2015年韓国囲碁リーグ | Choi Cheolhan | Park Minkyu | Win | B+R | 6.5 | 
-| 2015-05-07 | 2015年韓国囲碁リーグ | Kim Sedong | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2015-05-05 | 第16回マキシムコーヒー杯入神最強戦決勝三番勝負第3局 | Choi Cheolhan | Hong Seongji | Win | B+R | 6.5 | 
-| 2015-04-30 | 2015年韓国囲碁リーグ | Cho Hanseung | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2015-04-29 | 第16回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Hong Seongji | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2015-04-22 | 第17回中国囲碁甲級リーグ第1節 | Mi Yuting | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2015-04-20 | 第16回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Choi Cheolhan | Hong Seongji | Lose | W+1.5 | 6.5 | 
-| 2015-04-02 | 第20期GSカルテックス杯プロ棋戦決勝五番勝負第4局 | Choi Cheolhan | Mok Jinseok | Lose | W+2.5 | 6.5 | 
-| 2015-04-01 | 第20期GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Mok Jinseok | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2015-03-31 | 第20期GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Choi Cheolhan | Mok Jinseok | Lose | W+R | 6.5 | 
-| 2015-03-30 | 第20期GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Mok Jinseok | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2015-03-23 | 第16回マキシムコーヒー杯入神最強戦準決勝 | Kim Jiseok | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2015-03-11 | 第20期GSカルテックス杯プロ棋戦準決勝 | Lee Donghoon | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2015-02-26 | 第20期GSカルテックス杯プロ棋戦3回戦 | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 
-| 2015-02-16 | 第16回マキシムコーヒー杯入神最強戦3回戦 | Choi Cheolhan | Lee Sedol | Win | B+R | 6.5 | 
-| 2015-02-12 | 第20期GSカルテックス杯プロ棋戦2回戦 | Choi Cheolhan |  | Win | B+R | 6.5 | 
-| 2015-01-27 | 第16回マキシムコーヒー杯入神最強戦2回戦 | Choi Kyubyeong | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2014-12-15 | 第33回KBS杯囲碁王戦敗者復活戦3回戦 | An Sungjoon | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2014-11-22 | 第16回中国囲碁甲級リーグ第21節 | Tuo Jiaxi | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2014-11-19 | 第19回LG杯朝鮮日報棋王戦準決勝 | Kim Jiseok | Choi Cheolhan | Lose | B+5.5 | 6.5 | 
-| 2014-11-17 | 第19回LG杯朝鮮日報棋王戦3回戦 | Choi Cheolhan | Fan Tingyu | Win | B+R | 6.5 | 
-| 2014-11-09 | 第16回中国囲碁甲級リーグ第19節 | Mi Yuting | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2014-11-04 | 第19期バッカス杯天元戦2回戦 | Choi Cheolhan | Shin Minjun | Lose | W+R | 6.5 | 
-| 2014-10-31 | 第16回中国囲碁甲級リーグ第18節 | Choi Cheolhan | Shi Yue | Win | B+R | 7.5 | 
-| 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 | Zhang Tao | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2014-10-20 | 第33回KBS杯囲碁王戦敗者復活戦1回戦 | Kim Myounghoon | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2014-10-17 | 2014年韓国囲碁リーグ | Mok Jinseok | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2014-10-13 | 第58期国手戦（韓国）2回戦 | Park Minkyu | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Meng Tailing | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2014-10-02 | 2014年韓国囲碁リーグ | Choi Cheolhan | Han Wonggyu | Win | B+1.5 | 6.5 | 
-| 2014-09-30 | 第19期バッカス杯天元戦1回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2014-09-24 | 2014年レッツランパーク杯オープントーナメント2回戦 | Kim Seongjae | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2014-09-16 | 第2回百霊杯世界オープン戦4回戦 | Choi Cheolhan | Ke Jie | Lose | W+R | 7.5 | 
-| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Choi Cheolhan | Fan Yunruo | Win | B+R | 7.5 | 
-| 2014-09-11 | 2014年韓国囲碁リーグ | Choi Cheolhan | Kim Jiseok | Lose | W+R | 6.5 | 
-| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Yang Dingxin | Choi Cheolhan | Lose | B+1.5 | 7.5 | 
-| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Choi Cheolhan | Liao Xingwen | Win | B+R | 7.5 | 
-| 2014-08-31 | 2014年韓国囲碁リーグ | Kang Dongyun | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2014-08-28 | 第19回三星火災杯世界囲碁マスターズ1回戦B3 | Choi Cheolhan | Tang Weixing | Lose | W+0.5 | 6.5 | 
-| 2014-08-27 | 第19回三星火災杯世界囲碁マスターズ1回戦B2 | Chen Yaoye | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2014-08-26 | 第19回三星火災杯世界囲碁マスターズ1回戦B1 | Tang Weixing | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2014-08-17 | 第16回農心杯韓国選抜戦 | An Sungjoon | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2014-08-15 | 第42期名人戦（韓国）1回戦 | Kang Dongyun | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2014-08-13 | 第58期国手戦（韓国）1回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2014-07-30 | 2014年レッツランパーク杯オープントーナメント1回戦 | Kim Hyeongwan | Choi Cheolhan | Win | W+6.5 | 6.5 | 
-| 2014-07-26 | 2014年韓国囲碁リーグ | Kim Myounghoon | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2014-07-24 | 第2回百霊杯世界オープン戦3回戦 | Zhang Tao | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Choi Cheolhan | Park Minkyu | Win | B+R | 7.5 | 
-| 2014-07-16 | 第10期物価情報杯プロ棋戦リーグB | Choi Cheolhan | Jin Siyoung | Lose | W+R | 6.5 | 
-| 2014-07-14 | 第16回農心杯韓国選抜戦 | Choi Cheolhan | Kang Seungmin | Win | B+R | 6.5 | 
-| 2014-07-11 | 2014年韓国囲碁リーグ | Kim Seongjae | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Tan Xiao | Choi Cheolhan | Lose | B+5.5 | 7.5 | 
-| 2014-07-06 | 2014年韓国囲碁リーグ | Ahn Kukhyun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Choi Cheolhan | Chen Yaoye | Win | B+R | 7.5 | 
-| 2014-06-30 | 第33回KBS杯囲碁王戦本戦2回戦 | Lee Donghoon | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Gu Lingyi | Choi Cheolhan | Lose | B+3.5 | 7.5 | 
-| 2014-06-21 | 2014年韓国囲碁リーグ |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Shi Yue | Choi Cheolhan | Lose | B+3.5 | 7.5 | 
-| 2014-06-11 | 第19回LG杯朝鮮日報棋王戦2回戦 | Xie He | Choi Cheolhan | Win | W+1.5 | 6.5 | 
-| 2014-06-09 | 第19回LG杯朝鮮日報棋王戦1回戦 | Mi Yuting | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2014-06-07 | 2014年韓国囲碁リーグ | Choi Cheolhan |  | Lose | W+3.5 | 6.5 | 
-| 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Jiang Weijie | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2014-05-28 | 第10期物価情報杯プロ棋戦リーグB | Choi Cheolhan | Lee Changho | Lose | W+R | 6.5 | 
-| 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Choi Cheolhan | Peng Quan | Win | B+R | 7.5 | 
-| 2014-05-17 | 2014年韓国囲碁リーグ | Lee Taehyun | Choi Cheolhan | Win | W+0.5 | 6.5 | 
-| 2014-05-09 | 2014年韓国囲碁リーグ | Lee Jihyun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2014-04-25 | 2014年韓国囲碁リーグ | Kim Myounghoon | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2014-04-16 | 第19期GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Choi Cheolhan | Kim Jiseok | Lose | W+R | 6.5 | 
-| 2014-04-09 | 第19期GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Kim Jiseok | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2014-04-08 | 第19期GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Choi Cheolhan | Kim Jiseok | Lose | W+R | 6.5 | 
-| 2014-04-03 | 第19期GSカルテックス杯プロ棋戦準決勝 | Choi Cheolhan | Park Junghwan | Win | B+R | 6.5 | 
-| 2014-03-28 | 第10回春蘭杯世界囲碁選手権2回戦 | Mi Yuting | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2014-03-23 | 第4期招商地産杯中韓囲棋団体対抗戦第2戦 | Choi Cheolhan | Tang Weixing | Lose | W+R | 7.5 | 
-| 2014-03-21 | 第4期招商地産杯中韓囲棋団体対抗戦第1戦 | Shi Yue | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Choi Cheolhan | Wang Yuanjun | Win | B+1.5 | 7.5 | 
-| 2014-03-16 | 第2回百霊杯世界オープン戦予選 | Choi Cheolhan | Luo Xihe | Win | B+R | 7.5 | 
-| 2014-03-12 | 第19期GSカルテックス杯プロ棋戦3回戦 | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2014-03-06 | 第15回マキシムコーヒー杯入神最強戦3回戦 | Weon Seongjin | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2014-02-20 | 第19期GSカルテックス杯プロ棋戦2回戦 | Choi Cheolhan | Heo Yongho | Win | B+R | 6.5 | 
-| 2014-01-24 | 第15回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Seo Bongsoo | Win | B+R | 6.5 | 
-| 2014-01-14 | 第18期バッカス杯天元戦決勝三番勝負第2局 | Choi Cheolhan | Park Junghwan | Lose | W+R | 6.5 | 
-| 2014-01-09 | 第18期バッカス杯天元戦決勝三番勝負第1局 | Park Junghwan | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2013-12-15 | 第41期名人戦（韓国）決勝五番勝負第5局 | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2013-12-14 | 第41期名人戦（韓国）決勝五番勝負第4局 | Choi Cheolhan | Lee Sedol | Lose | W+1.5 | 6.5 | 
-| 2013-12-05 | 第15回農心辛ラーメン杯世界囲碁最強戦第8戦 | Chen Yaoye | Choi Cheolhan | Lose | B+18.5 | 6.5 | 
-| 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 | Choi Cheolhan | Shi Yue | Win | B+R | 7.5 | 
-| 2013-11-26 | 第41期名人戦（韓国）決勝五番勝負第3局 | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2013-11-23 | 第15回中国囲碁甲級リーグ第21節 | Tong Yulin | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2013-11-18 | 第32回KBS杯囲碁王戦敗者復活戦3回戦 | Choi Cheolhan | Lee Huiseong | Lose | W+R | 6.5 | 
-| 2013-11-16 | 第15回中国囲碁甲級リーグ第20節 | Choi Cheolhan | Tang Weixing | Lose | W+R | 7.5 | 
-| 2013-11-14 | 2013年韓国囲碁リーグ | Han Sanghoon | Choi Cheolhan | Win | W+0.5 | 6.5 | 
-| 2013-11-12 | 第41期名人戦（韓国）決勝五番勝負第2局 | Choi Cheolhan | Lee Sedol | Win | B+R | 6.5 | 
-| 2013-11-11 | 第41期名人戦（韓国）決勝五番勝負第1局 | Lee Sedol | Choi Cheolhan | Lose | B+4.5 | 6.5 | 
-| 2013-11-05 | 第18期バッカス杯天元戦準決勝 | Park Yeonghun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2013-11-02 | 第15回中国囲碁甲級リーグ第19節 | Choi Cheolhan | Liu Xing | Win | B+R | 7.5 | 
-| 2013-11-01 | 2013年韓国囲碁リーグ | Na Hyun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2013-10-28 | 第32回KBS杯囲碁王戦敗者復活戦2回戦 | Ryu Chaehyeong | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 | Choi Cheolhan | Chen Yaoye | Win | B+R | 7.5 | 
-| 2013-10-20 | 第15回中国囲碁甲級リーグ第17節 | Jiang Weijie | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2013-10-18 | 第57期国手戦（韓国）2回戦 | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 
-| 2013-10-15 | 第41期名人戦（韓国）準決勝 | Choi Cheolhan | Paek Hongseok | Win | B+R | 6.5 | 
-| 2013-10-13 | 第15回中国囲碁甲級リーグ第16節 |  | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2013-10-11 | 第4期Olleh杯オープン選手権4回戦 | Kang Yootaek | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2013-10-10 | 2013年韓国囲碁リーグ | Choi Cheolhan |  | Win | B+R | 6.5 | 
-| 2013-10-06 | 2013年韓国囲碁リーグ | Lee Chungyu | Choi Cheolhan | Win | W+0.5 | 6.5 | 
-| 2013-10-02 | 第41期名人戦（韓国）2回戦 | An Sungjoon | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2013-09-30 | 第3回スポーツアコードワールドマインドゲームズ囲碁韓国予選 | Cho Hanseung | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2013-09-26 | 第57期国手戦（韓国）1回戦 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 
-| 2013-09-25 | 第3回スポーツアコードワールドマインドゲームズ囲碁韓国予選 | Lee Yeongkyu | Choi Cheolhan | Win | W+0.5 | 6.5 | 
-| 2013-09-21 | 2013年韓国囲碁リーグ | Kim Sedong | Choi Cheolhan | Lose | B+2.5 | 6.5 | 
-| 2013-09-17 | 第18期バッカス杯天元戦2回戦 | Choi Cheolhan | Ahn Kukhyun | Win | B+R | 6.5 | 
-| 2013-09-12 | 第15回中国囲碁甲級リーグ第15節 | Chang Hao | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2013-09-10 | 第41期名人戦（韓国）1回戦 | Choi Cheolhan | Mok Jinseok | Win | B+R | 6.5 | 
-| 2013-09-07 | 第15回中国囲碁甲級リーグ第14節 | Choi Cheolhan | Mi Yuting | Lose | W+R | 7.5 | 
-| 2013-09-05 | 第18回三星火災杯世界囲碁マスターズ1回戦D3 | Ke Jie | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2013-09-04 | 第18回三星火災杯世界囲碁マスターズ1回戦D2 | Kim Jiseok | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2013-09-03 | 第18回三星火災杯世界囲碁マスターズ1回戦D1 | Tuo Jiaxi | Choi Cheolhan | Win | W+2.5 | 6.5 | 
-| 2013-09-01 | 第15回中国囲碁甲級リーグ第13節 | Ke Jie | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2013-08-26 | 第32回KBS杯囲碁王戦敗者復活戦1回戦 | Choi Cheolhan | Shin Yoonho | Win | B+R | 6.5 | 
-| 2013-08-22 | 2013年韓国囲碁リーグ | Lee Wonyoung | Choi Cheolhan | Lose | B+2.5 | 6.5 | 
-| 2013-08-20 | 第18期バッカス杯天元戦1回戦 | Kim Seongjae | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2013-08-16 | 第4期Olleh杯オープン選手権3回戦 | Choi Cheolhan | Song Taekon | Win | B+R | 6.5 | 
-| 2013-08-09 | 第1回夢百合杯世界オープン戦3回戦 | Lian Xiao | Choi Cheolhan | Lose | B+1.5 | 7.5 | 
-| 2013-08-01 | 第15回農心杯韓国選抜戦 | Choi Cheolhan | Kang Dongyun | Lose | W+R | 6.5 | 
-| 2013-07-30 | 第41期名人戦（韓国）予選 | Kang Changbae | Choi Cheolhan | Win | W+1.5 | 6.5 | 
-| 2013-07-28 | 2013年韓国囲碁リーグ | Choi Cheolhan | Han Sanghoon | Win | B+R | 6.5 | 
-| 2013-07-24 | 第15回農心杯韓国選抜戦 | Choi Cheolhan |  | Win | B+2.5 | 6.5 | 
-| 2013-07-17 | 第15回農心杯韓国選抜戦 | Shin Jinseo | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2013-07-15 | 第15回中国囲碁甲級リーグ第11節 | Shi Yue | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2013-07-11 | 第1回夢百合杯世界オープン戦2回戦 | Choi Cheolhan |  | Win | B+R | 7.5 | 
-| 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 | Song Ronghui | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2013-07-01 | 第32回KBS杯囲碁王戦本戦2回戦 | Han Sanghoon | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2013-06-29 | 2013年韓国囲碁リーグ | An Sungjoon | Choi Cheolhan | Lose | Void | 6.5 | 
-| 2013-06-22 | 第15回中国囲碁甲級リーグ第9節 | Tang Weixing | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2013-06-18 | 第15回中国囲碁甲級リーグ第8節 | Choi Cheolhan | Liu Xing | Win | B+R | 7.5 | 
-| 2013-06-13 | 第9期物価情報杯プロ棋戦リーグD | Kim Hyeongwoo | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2013-06-10 | 第18回LG杯朝鮮日報棋王戦1回戦 | Zhou Ruiyang | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2013-06-02 | 第15回中国囲碁甲級リーグ第7節 | Chen Yaoye | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2013-05-30 | 2013年韓国囲碁リーグ | Park Junsuck | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2013-05-23 | 第1回夢百合杯世界オープン戦予選 | Yang Dingxin | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2013-05-18 | 第15回中国囲碁甲級リーグ第6節 | Choi Cheolhan | Zhou Ruiyang | Win | B+R | 7.5 | 
-| 2013-05-10 | 2013年韓国囲碁リーグ |  | Choi Cheolhan | Lose | B+1.5 | 6.5 | 
-| 2013-05-05 | 2013年韓国囲碁リーグ | Choi Cheolhan | Min Sangyoun | Win | B+R | 6.5 | 
-| 2013-05-04 | 第15回中国囲碁甲級リーグ第3節 | Li Kang | Choi Cheolhan | Win | W+0.5 | 7.5 | 
-| 2013-05-02 | 第9期物価情報杯プロ棋戦リーグD | Choi Cheolhan |  | Lose | W+R | 6.5 | 
-| 2013-04-25 | 第9期物価情報杯プロ棋戦予選 | Choi Cheolhan | Shin Minjun | Win | B+R | 6.5 | 
-| 2013-04-20 | 第18回LG杯予選 | Choi Cheolhan |  | Win | B+7.5 | 6.5 | 
-| 2013-04-20 | 2013年韓国囲碁リーグ | Choi Cheolhan | Kim Junghyun | Lose | W+2.5 | 6.5 | 
-| 2013-04-07 | 第15回中国囲碁甲級リーグ第2節 | Tong Mengcheng | Choi Cheolhan | Win | W+0.5 | 7.5 | 
-| 2013-04-05 | 第15回中国囲碁甲級リーグ第1節 | Gu Li | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2013-03-21 | 第3期招商地産杯中韓囲棋団体対抗戦第2戦 | Choi Cheolhan | Tuo Jiaxi | Lose | W+0.5 | 7.5 | 
-| 2013-03-19 | 第3期招商地産杯中韓囲棋団体対抗戦第1戦 | Fan Tingyu | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2013-03-14 | 第18期GSカルテックス杯プロ棋戦3回戦 | Kim Jiseok | Choi Cheolhan | Lose | B+0.5 | 6.5 | 
-| 2013-03-11 | 第8期圓益杯十段戦4回戦 | Choi Cheolhan | Park Yeonghun | Lose | W+R | 6.5 | 
-| 2013-02-27 | 第14回農心辛ラーメン杯世界囲碁最強戦第12戦 | Choi Cheolhan | Xie He | Lose | W+R | 6.5 | 
-| 2013-02-26 | 第14回農心辛ラーメン杯世界囲碁最強戦第11戦 | Chen Yaoye | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2013-02-23 | 第14回マキシムコーヒー杯入神最強戦準決勝 | Choi Cheolhan | Park Junghwan | Lose | W+R | 6.5 | 
-| 2013-02-18 | 第8期圓益杯十段戦3回戦 | Choi Cheolhan | Kim Sonjin | Win | B+R | 6.5 | 
-| 2013-02-13 | 第18期GSカルテックス杯プロ棋戦2回戦 | Choi Cheolhan | Kang Yootaek | Win | B+R | 6.5 | 
-| 2013-01-31 | 第14回マキシムコーヒー杯入神最強戦3回戦 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 
-| 2013-01-17 | 第17期バッカス杯天元戦決勝三番勝負第3局 | Choi Cheolhan | Park Yeonghun | Lose | W+R | 6.5 | 
-| 2013-01-15 | 第17期バッカス杯天元戦決勝三番勝負第2局 | Park Yeonghun | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2013-01-10 | 第17期バッカス杯天元戦決勝三番勝負第1局 | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 
-| 2012-12-16 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦決勝 | Kang Dongyun | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2012-12-14 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Chen Yaoye | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Choi Cheolhan | Murakawa Daisuke | Win | B+R | 7.5 | 
-| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Choi Cheolhan | Kang Dongyun | Win | B+R | 7.5 | 
-| 2012-12-12 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Choi Cheolhan | Tuo Jiaxi | Win | B+5.5 | 7.5 | 
-| 2012-12-10 | 第14回マキシムコーヒー杯入神最強戦2回戦 | Cho Hunhyun | Choi Cheolhan | Win | W+0.5 | 6.5 | 
-| 2012-12-05 | 第56期国手戦（韓国）挑戦手合五番勝負第3局 | Cho Hanseung | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2012-12-03 | 第56期国手戦（韓国）挑戦手合五番勝負第2局 | Choi Cheolhan | Cho Hanseung | Lose | W+R | 6.5 | 
-| 2012-12-01 | 第14回農心辛ラーメン杯世界囲碁最強戦第10戦 | Murakawa Daisuke | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2012-11-30 | 第14回農心辛ラーメン杯世界囲碁最強戦第9戦 | Choi Cheolhan | Wang Xi | Win | B+R | 6.5 | 
-| 2012-11-27 | 第17期バッカス杯天元戦準決勝 | Yun Junsang | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2012-11-23 | 第3期Olleh杯オープン選手権決勝五番勝負第4局 | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2012-11-22 | 第3期Olleh杯オープン選手権決勝五番勝負第3局 | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 
-| 2012-11-19 | 第56期国手戦（韓国）挑戦手合五番勝負第1局 | Cho Hanseung | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2012-11-14 | 第17回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 
-| 2012-11-12 | 第17回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2012-11-10 | 第14回中国囲碁甲級リーグ第19節 | Choi Cheolhan | Peng Liyao | Win | B+R | 7.5 | 
-| 2012-11-07 | 第17回LG杯世界棋王戦準決勝 | Choi Cheolhan | Weon Seongjin | Lose | W+R | 6.5 | 
-| 2012-11-02 | 第3期Olleh杯オープン選手権決勝五番勝負第2局 | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2012-11-01 | 第3期Olleh杯オープン選手権決勝五番勝負第1局 | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 
-| 2012-10-31 | 第40期名人戦（韓国）2回戦 | Choi Cheolhan | Park Yeonghun | Lose | W+0.5 | 6.5 | 
-| 2012-10-30 | 第17期バッカス杯天元戦2回戦 | Choi Cheolhan |  | Win | B+2.5 | 6.5 | 
-| 2012-10-26 | 第3期Olleh杯オープン選手権準決勝 | Kim Jiseok | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2012-10-21 | 第14回中国囲碁甲級リーグ第17節 | Choi Cheolhan | Liu Xing | Lose | W+2.5 | 7.5 | 
-| 2012-10-18 | 第56期国手戦（韓国）挑戦者決定戦第2局 | Choi Cheolhan | Min Sangyoun | Win | B+R | 6.5 | 
-| 2012-10-11 | 第3期Olleh杯オープン選手権準々決勝 | Choi Cheolhan | Cho Hanseung | Win | B+R | 6.5 | 
-| 2012-10-10 | 第17回三星火災杯世界囲碁マスターズ3回戦 | Choi Cheolhan | Fan Tingyu | Win | B+R | 6.5 | 
-| 2012-10-09 | 第17回三星火災杯世界囲碁マスターズ2回戦 | Mi Yuting | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2012-10-04 | 第56期国手戦（韓国）挑戦者決定戦第1局 | Min Sangyoun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2012-09-30 | 第14回中国囲碁甲級リーグ第16節 | Tan Xiao | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2012-09-28 | 第14回中国囲碁甲級リーグ第15節 | Choi Cheolhan | Li Kang | Lose | W+R | 7.5 | 
-| 2012-09-26 | 第56期国手戦（韓国）準決勝 | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2012-09-22 | 2012年韓国囲碁リーグ | Choi Cheolhan | Weon Seongjin | Win | B+R | 6.5 | 
-| 2012-09-20 | 2012年韓国囲碁リーグ | Choi Cheolhan | Na Hyun | Win | B+1.5 | 6.5 | 
-| 2012-09-18 | 第40期名人戦（韓国）1回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2012-09-12 | 第16回中韓天元対抗戦第2局 | Chen Yaoye | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2012-09-10 | 第16回中韓天元対抗戦第1局 | Choi Cheolhan | Chen Yaoye | Lose | W+R | 6.5 | 
-| 2012-09-08 | 第14回中国囲碁甲級リーグ第14節 | Choi Cheolhan | Qiu Jun | Win | B+R | 7.5 | 
-| 2012-09-06 | 第17回三星火災杯世界囲碁マスターズ1回戦D3 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2012-09-05 | 第17回三星火災杯世界囲碁マスターズ1回戦D2 | Zhong Wenjing | Choi Cheolhan | Lose | B+3.5 | 6.5 | 
-| 2012-09-04 | 第17回三星火災杯世界囲碁マスターズ1回戦D1 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2012-09-01 | 第14回中国囲碁甲級リーグ第13節 |  | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2012-08-30 | 第14回中国囲碁甲級リーグ第12節 | Gu Li | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2012-08-26 | 2012年韓国囲碁リーグ | Mok Jinseok | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2012-08-22 | 第56期国手戦（韓国）2回戦 | Park Junsuck | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2012-08-20 | 第31回KBS杯囲碁王戦敗者復活戦1回戦 | Na Hyun | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2012-08-19 | 2012年韓国囲碁リーグ | Choi Cheolhan | Yoo Jaeho | Win | B+R | 6.5 | 
-| 2012-08-14 | 第17期バッカス杯天元戦1回戦 | Choi Cheolhan | Min Sangyoun | Win | B+R | 6.5 | 
-| 2012-08-11 | 2012年韓国囲碁リーグ | Choi Cheolhan | Cho Hanseung | Win | B+R | 6.5 | 
-| 2012-08-03 | 2012年韓国囲碁リーグ | Choi Cheolhan | Lee Yeongkyu | Win | B+R | 6.5 | 
-| 2012-08-01 | 第40期名人戦（韓国）予選 | Kim Dongho | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2012-07-30 | 第31回KBS杯囲碁王戦本戦2回戦 | Mok Jinseok | Choi Cheolhan | Lose | B+1.5 | 6.5 | 
-| 2012-07-27 | 第56期国手戦（韓国）1回戦 | Choi Cheolhan | Kim Sedong | Win | B+R | 6.5 | 
-| 2012-07-26 | 2012年韓国囲碁リーグ | Lee Hobum | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2012-07-24 | 第14回農心杯韓国選抜戦 | Choi Cheolhan | Lee Yeongkyu | Win | B+R | 6.5 | 
-| 2012-07-19 | 第14回農心杯韓国選抜戦 | Choi Cheolhan | Cho Insun | Win | B+R | 6.5 | 
-| 2012-07-18 | 第40期名人戦（韓国）予選 | Choi Cheolhan | Lee Chungyu | Win | B+R | 6.5 | 
-| 2012-07-15 | 第14回中国囲碁甲級リーグ第11節 | Choi Cheolhan | Fan Tingyu | Win | B+R | 7.5 | 
-| 2012-07-13 | 第14回中国囲碁甲級リーグ第10節 | Meng Tailing | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2012-07-07 | 2012年韓国囲碁リーグ | Lee Wonyoung | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2012-06-30 | 第14回中国囲碁甲級リーグ第8節 | Shi Yue | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2012-06-28 | 2012年韓国囲碁リーグ | Choi Cheolhan | Weon Seongjin | Win | B+R | 6.5 | 
-| 2012-06-24 | 2012年韓国囲碁リーグ | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 
-| 2012-06-23 | 第14回中国囲碁甲級リーグ第7節 | Zhou Hexi | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2012-06-20 | 第17回LG杯世界棋王戦2回戦 | Gu Li | Choi Cheolhan | Win | W+0.5 | 6.5 | 
-| 2012-06-18 | 第17回LG杯世界棋王戦1回戦 | Choi Cheolhan | Xie He | Win | B+R | 6.5 | 
-| 2012-06-14 | 第14回中国囲碁甲級リーグ第6節 | Liu Xing | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2012-06-02 | 2012年韓国囲碁リーグ | Choi Cheolhan | Kang Dongyun | Lose | W+R | 6.5 | 
-| 2012-05-30 | 第14回中国囲碁甲級リーグ第4節 | Mi Yuting | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2012-05-25 | 第7回応氏杯世界選手権2回戦 | Tan Xiao | Choi Cheolhan | Lose | B+5 | 7.5 | 
-| 2012-05-18 | 2012年韓国囲碁リーグ | Choi Cheolhan | Kim Sonjin | Win | B+R | 6.5 | 
-| 2012-05-06 | 2012年韓国囲碁リーグ | An Joyeong | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2012-05-04 | 第8期物価情報杯プロ棋戦リーグD | Choi Cheolhan | Weon Seongjin | Lose | W+R | 6.5 | 
-| 2012-04-29 | 2012年韓国囲碁リーグ | Han Sanghoon | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2012-04-28 | 第14回中国囲碁甲級リーグ第1節 | Gu Li | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2012-04-21 | 2012年韓国囲碁リーグ | Yun Junsang | Choi Cheolhan | Lose | B+5.5 | 6.5 | 
-| 2012-04-12 | 2012年韓国囲碁リーグ | Choi Cheolhan | Lee Wonyoung | Lose | W+R | 6.5 | 
-| 2012-04-09 | 第7期圓益杯十段戦決勝三番勝負第2局 | Choi Cheolhan | Kang Dongyun | Win | B+R | 6.5 | 
-| 2012-04-03 | 第7期圓益杯十段戦決勝三番勝負第1局 | Kang Dongyun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2012-03-30 | 第9回春蘭杯世界囲碁選手権2回戦 | Choi Cheolhan | Piao Wenyao | Lose | W+4.5 | 7.5 | 
-| 2012-03-28 | 第9回春蘭杯世界囲碁選手権1回戦 | Choi Cheolhan |  | Win | B+R | 7.5 | 
-| 2012-03-25 | 第2期招商地産杯中韓囲棋団体対抗戦第2戦 | Choi Cheolhan | Fan Tingyu | Win | B+R | 7.5 | 
-| 2012-03-23 | 第2期招商地産杯中韓囲棋団体対抗戦第1戦 | Choi Cheolhan | Shi Yue | Lose | W+R | 7.5 | 
-| 2012-03-19 | 第7期圓益杯十段戦準決勝 | Kang Yootaek | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2012-03-14 | 第1回百霊杯世界囲碁選手権1回戦 | Choi Cheolhan | Chen Yaoye | Lose | W+R | 7.5 | 
-| 2012-03-07 | 第17期GSカルテックス杯プロ棋戦2回戦 | Choi Cheolhan | Kim Seongjae | Lose | W+R | 6.5 | 
-| 2012-03-05 | 第13回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Choi Cheolhan | Park Junghwan | Lose | W+R | 6.5 | 
-| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Liu Xing | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2012-02-26 | 第13回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Park Junghwan | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2012-02-21 | 第7期圓益杯十段戦4回戦 | Choi Cheolhan | Park Junghwan | Win | B+R | 6.5 | 
-| 2012-02-12 | 第13回マキシムコーヒー杯入神最強戦準決勝 | Weon Seongjin | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2012-01-16 | 第7期圓益杯十段戦3回戦 | Park Jinsol | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2012-01-12 | 第13回マキシムコーヒー杯入神最強戦3回戦 | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2012-01-02 | 第30回KBS杯囲碁王戦敗者復活戦3回戦 | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2011-12-26 | 第13回中国囲碁甲級リーグ第22節 | Qiu Jun | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2011-12-24 | 第13回マキシムコーヒー杯入神最強戦2回戦 | Jeong Suhyeon | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2011-12-21 | 2011年韓国囲碁リーグ | Kim Junghyun | Choi Cheolhan | Lose | B+3.5 | 6.5 | 
-| 2011-12-17 | 2011年韓国囲碁リーグ | Kang Yootaek | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2011-12-10 | 第1回スポーツアコードワールドマインドゲームズ囲碁団体戦 | Li Jie (2) | Choi Cheolhan | Win | W+14.5 | 7.5 | 
-| 2011-12-09 | 第1回スポーツアコードワールドマインドゲームズ囲碁団体戦 | Choi Cheolhan | Xiao Zhenghao | Win | B+R | 7.5 | 
-| 2011-12-06 | 第7期圓益杯十段戦2回戦 | Kim Daehee | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2011-12-03 | 第13回中国囲碁甲級リーグ第21節 |  | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2011-12-01 | 第16期バッカス杯天元戦決勝三番勝負第2局 | Yun Junsang | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2011-11-27 | 2011年韓国囲碁リーグ | Hong Seongji | Choi Cheolhan | Win | W+1.5 | 6.5 | 
-| 2011-11-26 | 第13回中国囲碁甲級リーグ第20節 | Wang Lei (b) | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2011-11-24 | 第16期バッカス杯天元戦決勝三番勝負第1局 | Choi Cheolhan | Yun Junsang | Win | B+R | 6.5 | 
-| 2011-11-21 | 第30回KBS杯囲碁王戦敗者復活戦2回戦 | Mok Jinseok | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2011-11-16 | 第55期国手戦（韓国）挑戦手合五番勝負第5局 | Cho Hanseung | Choi Cheolhan | Lose | B+1.5 | 6.5 | 
-| 2011-11-14 | 第55期国手戦（韓国）挑戦手合五番勝負第4局 | Choi Cheolhan | Cho Hanseung | Win | B+R | 6.5 | 
-| 2011-11-10 | 2011年韓国囲碁リーグ | Kang Yootaek | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2011-11-08 | 第55期国手戦（韓国）挑戦手合五番勝負第3局 | Cho Hanseung | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2011-11-07 | 第30回KBS杯囲碁王戦敗者復活戦1回戦 | Choi Cheolhan | On Sojin | Win | B+R | 6.5 | 
-| 2011-11-06 | 2011年韓国囲碁リーグ | Choi Cheolhan | Kim Kiyoung | Win | B+2.5 | 6.5 | 
-| 2011-10-31 | 第16期バッカス杯天元戦準決勝 | Choi Cheolhan | Lee Jihyun | Win | B+R | 6.5 | 
-| 2011-10-29 | 第13回中国囲碁甲級リーグ第18節 | Choi Cheolhan | Kong Jie | Win | B+R | 7.5 | 
-| 2011-10-25 | 第55期国手戦（韓国）挑戦手合五番勝負第2局 | Choi Cheolhan | Cho Hanseung | Win | B+R | 6.5 | 
-| 2011-10-22 | 2011年韓国囲碁リーグ | Heo Yongho | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2011-10-17 | 第55期国手戦（韓国）挑戦手合五番勝負第1局 | Cho Hanseung | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2011-10-12 | 第7期圓益杯十段戦1回戦 | Lee Yungsoo | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2011-10-09 | 2011年韓国囲碁リーグ | Jin Siyoung | Choi Cheolhan | Win | W+4.5 | 6.5 | 
-| 2011-09-29 | 第13回中国囲碁甲級リーグ第15節 | Jiang Weijie | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2011-09-21 | 2011年韓国囲碁リーグ | Choi Cheolhan | Weon Seongjin | Win | B+R | 6.5 | 
-| 2011-09-19 | 第16期バッカス杯天元戦2回戦 | Choi Cheolhan | Weon Seongjin | Win | B+R | 6.5 | 
-| 2011-09-10 | 2011年韓国囲碁リーグ | Lee Sedol | Choi Cheolhan | Lose | B+2.5 | 6.5 | 
-| 2011-09-06 | 第13回中国囲碁甲級リーグ第13節 | Fan Tingyu | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2011-09-04 | 第13回中国囲碁甲級リーグ第12節 | Wang Yao | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2011-08-31 | 第15回中韓天元対抗戦第2局 | Choi Cheolhan | Chen Yaoye | Lose | W+R | 7.5 | 
-| 2011-08-29 | 第15回中韓天元対抗戦第1局 | Chen Yaoye | Choi Cheolhan | Lose | B+5.5 | 7.5 | 
-| 2011-08-25 | 第16回三星火災杯世界囲碁マスターズ1回戦H2 | Choi Cheolhan | Kang Seungmin | Lose | W+2.5 | 6.5 | 
-| 2011-08-24 | 第16回三星火災杯世界囲碁マスターズ1回戦H1 | Choi Cheolhan | Peng Liyao | Lose | W+R | 6.5 | 
-| 2011-08-19 | 2011年韓国囲碁リーグ | Choi Cheolhan | Paek Hongseok | Lose | W+R | 6.5 | 
-| 2011-08-17 | 第16期バッカス杯天元戦1回戦 | Choi Cheolhan | Han Wonggyu | Win | B+R | 6.5 | 
-| 2011-08-11 | 第24回世界囲碁選手権富士通杯2回戦 | Iyama Yuta | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2011-08-10 | 第24回世界囲碁選手権富士通杯1回戦 | Choi Cheolhan |  | Win | B+R | 6.5 | 
-| 2011-07-28 | 2011年韓国囲碁リーグ | Choi Cheolhan | Cho Hanseung | Win | B+R | 6.5 | 
-| 2011-07-20 | 第7期物価情報杯プロ棋戦決勝トーナメント準決勝 | Choi Cheolhan | Lee Yeongkyu | Lose | W+4.5 | 6.5 | 
-| 2011-07-14 | 2011年韓国囲碁リーグ | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 
-| 2011-07-13 | 第7期物価情報杯プロ棋戦決勝トーナメント1回戦 | Mok Jinseok | Choi Cheolhan | Win | W+10.5 | 6.5 | 
-| 2011-07-09 | 第13回中国囲碁甲級リーグ第10節 | Mi Yuting | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2011-07-05 | 第13回農心杯韓国選抜戦 | Choi Cheolhan | Park Seunghwa | Lose | W+R | 6.5 | 
-| 2011-07-04 | 第30回KBS杯囲碁王戦本戦2回戦 | Choi Cheolhan | Kim Kiyoung | Lose | W+0.5 | 6.5 | 
-| 2011-07-02 | 第13回中国囲碁甲級リーグ第9節 | Choi Cheolhan | Niu Yutian | Win | B+R | 7.5 | 
-| 2011-06-30 | 2011年韓国囲碁リーグ | Lee Yeongkyu | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2011-06-25 | 第13回中国囲碁甲級リーグ第8節 | Meng Tailing | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2011-06-18 | 第7期物価情報杯プロ棋戦リーグA | Choi Cheolhan | Kang Dongyun | Win | B+R | 6.5 | 
-| 2011-06-16 | 2011年韓国囲碁リーグ |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2011-06-15 | 第16回LG杯世界棋王戦2回戦 | Choi Cheolhan | Qiu Jun | Lose | W+R | 6.5 | 
-| 2011-06-13 | 第16回LG杯世界棋王戦1回戦 | Cho U | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2011-06-09 | 第13回中国囲碁甲級リーグ第6節 | Tan Xiao | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2011-05-28 | 第13回中国囲碁甲級リーグ第5節 | Gu Li | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2011-05-26 | 2011年韓国囲碁リーグ | Choi Cheolhan | Lee Sedol | Win | B+R | 6.5 | 
-| 2011-05-21 | 第13回中国囲碁甲級リーグ第4節 | Choi Cheolhan | Zhou Ruiyang | Lose | W+R | 7.5 | 
-| 2011-05-18 | 2011年韓国囲碁リーグ | Paek Hongseok | Choi Cheolhan | Lose | B+1.5 | 6.5 | 
-| 2011-05-17 | 第7期物価情報杯プロ棋戦リーグA | Choi Cheolhan | Weon Seongjin | Win | B+1.5 | 6.5 | 
-| 2011-05-14 | 第13回中国囲碁甲級リーグ第3節 | Li Zhe | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2011-05-09 | 第13回中国囲碁甲級リーグ第2節 | Choi Cheolhan | Fan Tingyu | Lose | W+2.5 | 7.5 | 
-| 2011-05-07 | 第13回中国囲碁甲級リーグ第1節 | Wang Yao | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2011-04-13 | 第7期物価情報杯プロ棋戦リーグA | Lee Yeongkyu | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2011-03-12 | 第6期圓益杯十段戦4回戦 | Park Junghwan | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2011-03-10 | 第3回BCカード杯世界選手権3回戦 | Choi Cheolhan | Heo Yongho | Lose | W+R | 6.5 | 
-| 2011-03-07 | 第1期招商地産杯中韓囲棋団体対抗戦第2戦 | Choi Cheolhan | Gu Li | Win | B+3.5 | 7.5 | 
-| 2011-03-05 | 第1期招商地産杯中韓囲棋団体対抗戦第1戦 | Choi Cheolhan | Zhou Ruiyang | Win | B+R | 7.5 | 
-| 2011-02-28 | 第3回BCカード杯世界選手権2回戦 | Choi Cheolhan | Zhou Hexi | Win | B+R | 6.5 | 
-| 2011-02-21 | 第12回マキシムコーヒー杯入神最強戦準決勝 | Choi Cheolhan | Park Yeonghun | Lose | W+R | 6.5 | 
-| 2011-02-14 | 第54期国手戦（韓国）挑戦手合五番勝負第4局 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2011-02-01 | 第12回マキシムコーヒー杯入神最強戦3回戦 | Kim Dongyeop | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2011-01-31 | 第6期圓益杯十段戦3回戦 | Choi Cheolhan |  | Win | B+R | 6.5 | 
-| 2011-01-29 | 第3回BCカード杯世界選手権1回戦 | Choi Kyubyeong | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2011-01-27 | 第15期バッカス杯天元戦決勝五番勝負第3局 | Lee Taehyun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2011-01-25 | 第54期国手戦（韓国）挑戦手合五番勝負第3局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 
-| 2011-01-20 | 第12回農心辛ラーメン杯世界囲碁最強戦第13戦 | Kong Jie | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2011-01-19 | 第12回農心辛ラーメン杯世界囲碁最強戦第12戦 | Choi Cheolhan | Yuki Satoshi | Win | B+R | 6.5 | 
-| 2011-01-18 | 第12回農心辛ラーメン杯世界囲碁最強戦第11戦 | Zhou Ruiyang | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2011-01-14 | 第54期国手戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2011-01-12 | 第54期国手戦（韓国）挑戦手合五番勝負第1局 | Choi Cheolhan | Lee Changho | Lose | W+R | 6.5 | 
-| 2011-01-10 | 第29回KBS杯囲碁王戦敗者復活戦5回戦 | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2011-01-08 | 2010年韓国囲碁リーグ | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 
-| 2011-01-07 | 第15期バッカス杯天元戦決勝五番勝負第2局 | Choi Cheolhan | Lee Taehyun | Win | B+R | 6.5 | 
-| 2011-01-05 | 第54期国手戦（韓国）挑戦者決定戦第3局 | Kim Jiseok | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2011-01-03 | 第29回KBS杯囲碁王戦敗者復活戦4回戦 | Choi Cheolhan | Ju Hyeongwuk | Win | B+0.5 | 6.5 | 
-| 2010-12-29 | 第6期圓益杯十段戦2回戦 | Choi Byounghwan | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2010-12-29 | 第29回KBS杯囲碁王戦本戦4回戦 | Park Junghwan | Choi Cheolhan | Lose | B+4.5 | 6.5 | 
-| 2010-12-28 | 2010年韓国囲碁リーグ | Choi Cheolhan | Park Seunghyeon | Win | B+8.5 | 6.5 | 
-| 2010-12-27 | 第15期バッカス杯天元戦決勝五番勝負第1局 | Lee Taehyun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2010-12-24 | 第54期国手戦（韓国）挑戦者決定戦第2局 | Choi Cheolhan | Kim Jiseok | Win | B+2.5 | 6.5 | 
-| 2010-12-22 | 第54期国手戦（韓国）挑戦者決定戦第1局 | Kim Jiseok | Choi Cheolhan | Lose | B+3.5 | 6.5 | 
-| 2010-12-21 | 第12回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Yang Jaeho | Win | B+R | 6.5 | 
-| 2010-12-11 | 第15期バッカス杯天元戦準決勝 | Kim Jiseok | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2010-12-09 | 第54期国手戦（韓国）準決勝 | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2010-12-04 | 第12回農心辛ラーメン杯世界囲碁最強戦第10戦 | Choi Cheolhan | Takao Shinji | Win | B+1.5 | 6.5 | 
-| 2010-12-02 | 2010年韓国囲碁リーグ | Kim Seongjae | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2010-11-26 | 2010年アジア競技大会囲碁男子団体戦 | Choi Cheolhan | Zhou Ruiyang | Win | B+R | 7.5 | 
-| 2010-11-25 | 2010年アジア競技大会囲碁男子団体戦 | Choi Cheolhan | Yamada Kimio | Win | B+R | 7.5 | 
-| 2010-11-12 | 第54期国手戦（韓国）2回戦 | Weon Seongjin | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2010-11-08 | 第15回LG杯世界棋王戦3回戦 | Choi Cheolhan | Piao Wenyao | Lose | W+R | 6.5 | 
-| 2010-11-04 | 第6期圓益杯十段戦1回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2010-10-21 | 第12回中国囲碁甲級リーグ第16節 | Tan Xiao | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2010-10-13 | 第15回三星火災杯世界囲碁マスターズ2回戦 | Choi Cheolhan | Park Junghwan | Lose | W+R | 6.5 | 
-| 2010-10-03 | 第1期OllehKT杯オープン選手権準決勝 | Kang Dongyun | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2010-09-27 | 第29回KBS杯囲碁王戦本戦3回戦 | Choi Cheolhan | Kim Sooyong | Win | B+R | 6.5 | 
-| 2010-09-16 | 第15期バッカス杯天元戦2回戦 | Choi Cheolhan | Lee Huiseong | Win | B+R | 6.5 | 
-| 2010-09-10 | 第15回三星火災杯世界囲碁マスターズ1回戦A3 | Choi Cheolhan | Li Kang | Win | B+R | 6.5 | 
-| 2010-09-09 | 第15回三星火災杯世界囲碁マスターズ1回戦A2 | Choi Cheolhan | Weon Seongjin | Lose | W+R | 6.5 | 
-| 2010-09-08 | 第15回三星火災杯世界囲碁マスターズ1回戦A1 | Choi Cheolhan | Li Kang | Win | B+R | 6.5 | 
-| 2010-09-06 | 第12回中国囲碁甲級リーグ第13節 | Choi Cheolhan | Zhou Ruiyang | Win | B+R | 7.5 | 
-| 2010-09-04 | 第12回中国囲碁甲級リーグ第12節 | Li Kang | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2010-08-31 | 第15期GSカルテックス杯プロ棋戦3回戦 | Choi Cheolhan | Kim Jiseok | Lose | W+R | 6.5 | 
-| 2010-08-21 | 2010年韓国囲碁リーグ | An Joyeong | Choi Cheolhan | Win | W+0.5 | 6.5 | 
-| 2010-08-16 | 第54期国手戦（韓国）1回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2010-08-12 | 第15期バッカス杯天元戦1回戦 | Choi Cheolhan | Kang Changbae | Win | B+R | 6.5 | 
-| 2010-08-01 | 第6期物価情報杯プロ棋戦決勝トーナメント準決勝 | Lee Changho | Choi Cheolhan | Lose | B+2.5 | 6.5 | 
-| 2010-07-31 | 2010年韓国囲碁リーグ | Lee Changho | Choi Cheolhan | Lose | B+1.5 | 6.5 | 
-| 2010-07-25 | 第6期物価情報杯プロ棋戦決勝トーナメント1回戦 | Park Junghwan | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2010-07-23 | 第12回農心杯韓国選抜戦 | Kang Changbae | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2010-07-21 | 第12回農心杯韓国選抜戦 | Choi Cheolhan |  | Win | B+R | 6.5 | 
-| 2010-07-15 | 第12回中国囲碁甲級リーグ第11節 | Gu Li | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2010-07-10 | 第12回中国囲碁甲級リーグ第10節 | Choi Cheolhan | Chang Hao | Lose | W+0.5 | 7.5 | 
-| 2010-06-19 | 第12回中国囲碁甲級リーグ第8節 | Choi Cheolhan | Liu Xing | Win | B+R | 7.5 | 
-| 2010-06-12 | 第12回中国囲碁甲級リーグ第7節 | Mao Ruilong | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2010-06-09 | 第15回LG杯世界棋王戦2回戦 | Choi Cheolhan | Shi Yue | Win | B+R | 6.5 | 
-| 2010-06-07 | 第15回LG杯世界棋王戦1回戦 | Choi Cheolhan | Jiang Weijie | Win | B+6.5 | 6.5 | 
-| 2010-05-31 | 第29回KBS杯囲碁王戦本戦2回戦 | Kim Junghyun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2010-05-29 | 2010年韓国囲碁リーグ | Han Wonggyu | Choi Cheolhan | Lose | B+1.5 | 6.5 | 
-| 2010-05-14 | 2010年韓国囲碁リーグ | Lee Taehyun | Choi Cheolhan | Lose | B+2.5 | 6.5 | 
-| 2010-05-12 | 第15期GSカルテックス杯プロ棋戦2回戦 | Lee Chungyu | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2010-05-08 | 第12回中国囲碁甲級リーグ第3節 | Choi Cheolhan | Peng Quan | Win | B+1.5 | 7.5 | 
-| 2010-05-03 | 第29回KBS杯囲碁王戦本戦1回戦 | Choi Cheolhan |  | Win | B+R | 6.5 | 
-| 2010-04-27 | 第6期物価情報杯プロ棋戦リーグC | Kim Kangkeun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2010-04-25 | 第12回中国囲碁甲級リーグ第1節 | Choi Cheolhan | Niu Yutian | Win | B+R | 7.5 | 
-| 2010-04-10 | 第23回世界囲碁選手権富士通杯1回戦 | Choi Cheolhan | Hane Naoki | Lose | W+1.5 | 6.5 | 
-| 2010-04-06 | 第11回マキシムコーヒー杯入神最強戦決勝三番勝負第3局 | Choi Cheolhan | Kang Dongyun | Win | B+R | 6.5 | 
-| 2010-04-05 | 第11回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Choi Cheolhan | Kang Dongyun | Lose | W+R | 6.5 | 
-| 2010-04-01 | 第6期物価情報杯プロ棋戦リーグC | Heo Yongho | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2010-03-29 | 第8回春蘭杯世界囲碁選手権2回戦 | Choi Cheolhan | Kong Jie | Lose | W+R | 7.5 | 
-| 2010-03-27 | 第8回春蘭杯世界囲碁選手権1回戦 | Hu Yaoyu | Choi Cheolhan | Win | W+0.5 | 7.5 | 
-| 2010-03-20 | 第2回BCカード杯世界選手権4回戦 | Chang Hao | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2010-03-15 | 第11回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Kang Dongyun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2010-03-09 | 第11回マキシムコーヒー杯入神最強戦準決勝 | Park Yeonghun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2010-03-06 | 第2回BCカード杯世界選手権3回戦 | Choi Cheolhan | Kim Jiseok | Win | B+R | 6.5 | 
-| 2010-02-23 | 第11回マキシムコーヒー杯入神最強戦3回戦 | Weon Seongjin | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2010-02-07 | 第2回BCカード杯世界選手権2回戦 | Tan Xiao | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2010-01-18 | 第28回KBS杯囲碁王戦敗者復活戦決勝 | Lee Changho | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2010-01-16 | 第2回BCカード杯世界選手権1回戦 | Song Taekon | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2010-01-04 | 第28回KBS杯囲碁王戦本戦5回戦 | Choi Cheolhan | Kang Dongyun | Lose | W+R | 6.5 | 
-| 2009-12-30 | 第11回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | An Joyeong | Win | B+R | 6.5 | 
-| 2009-12-19 | 第11回中国囲碁甲級リーグ第22節 | Choi Cheolhan | Peng Liyao | Win | B+R | 7.5 | 
-| 2009-12-12 | 第11回中国囲碁甲級リーグ第21節 | Niu Yutian | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2009-12-05 | 第11回中国囲碁甲級リーグ第20節 | Choi Cheolhan | Peng Quan | Lose | W+R | 7.5 | 
-| 2009-11-28 | 第11回中国囲碁甲級リーグ第19節 | Wang Yao | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2009-11-23 | 第28回KBS杯囲碁王戦本戦4回戦 | Choi Cheolhan | An Joyeong | Win | B+R | 6.5 | 
-| 2009-11-19 | 第14期バッカス杯天元戦準決勝 | Park Junghwan | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2009-11-09 | 第14回LG杯世界棋王戦3回戦 | Kong Jie | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2009-11-05 | 第14期バッカス杯天元戦2回戦 | Choi Cheolhan | Kim Seongjae | Win | B+R | 6.5 | 
-| 2009-11-04 | 第5期圓益杯十段戦3回戦 | Kang Yootaek | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2009-10-29 | 第11回中国囲碁甲級リーグ第17節 | Choi Cheolhan | Li Zhe | Win | B+R | 7.5 | 
-| 2009-10-24 | 2009年韓国囲碁リーグ | Kang Dongyun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2009-10-19 | 第28回KBS杯囲碁王戦本戦3回戦 | Han Sanghoon | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2009-10-16 | 第5期圓益杯十段戦2回戦 | Choi Cheolhan |  | Win | B+R | 6.5 | 
-| 2009-10-13 | 第14回三星火災杯世界囲碁マスターズ2回戦 | Choi Cheolhan | Chen Yaoye | Lose | W+5.5 | 6.5 | 
-| 2009-10-10 | 2009年韓国囲碁リーグ | Choi Cheolhan | Mok Jinseok | Win | B+R | 6.5 | 
-| 2009-10-08 | 第14期バッカス杯天元戦1回戦 | Han Wonggyu | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2009-10-01 | 2009年韓国囲碁リーグ | Choi Cheolhan | Weon Seongjin | Win | B+R | 6.5 | 
-| 2009-09-29 | 第11回中国囲碁甲級リーグ第14節 | Kong Jie | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2009-09-24 | 2009年韓国囲碁リーグ | Choi Cheolhan | Han Wonggyu | Win | B+R | 6.5 | 
-| 2009-09-21 | 第14期GSカルテックス杯プロ棋戦リーグ | Lee Yeongkyu | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2009-09-18 | 第5期圓益杯十段戦1回戦 | Weon Seongjin | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2009-09-16 | 2009年韓国囲碁リーグ | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 
-| 2009-09-11 | 第14回三星火災杯世界囲碁マスターズ1回戦H2 | Song Taekon | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2009-09-10 | 第14回三星火災杯世界囲碁マスターズ1回戦H1 | Kim Jiseok | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2009-09-07 | 第11回中国囲碁甲級リーグ第13節 | Choi Cheolhan | Chang Hao | Win | B+R | 7.5 | 
-| 2009-09-05 | 第11回中国囲碁甲級リーグ第12節 | Zhou Heyang | Choi Cheolhan | Win | W+0.5 | 7.5 | 
-| 2009-08-27 | 2009年韓国囲碁リーグ | Choi Cheolhan | Park Yeonghun | Lose | W+0.5 | 6.5 | 
-| 2009-08-19 | 第11回農心杯韓国選抜戦 | Choi Cheolhan | Park Junghwan | Lose | W+R | 6.5 | 
-| 2009-08-01 | 2009年韓国囲碁リーグ | Choi Cheolhan | Lee Taehyun | Win | B+R | 6.5 | 
-| 2009-07-30 | 第14期GSカルテックス杯プロ棋戦リーグ | Yun Junsang | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2009-07-27 | 第11回農心杯韓国選抜戦 | Choi Cheolhan | Kim Kiyoung | Win | B+3.5 | 6.5 | 
-| 2009-07-18 | 2009年韓国囲碁リーグ | Choi Cheolhan |  | Win | B+R | 6.5 | 
-| 2009-07-13 | 第28回KBS杯囲碁王戦本戦2回戦 | Park Yeonghun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2009-07-07 | 第14期GSカルテックス杯プロ棋戦リーグ | Weon Seongjin | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2009-07-04 | 第11回中国囲碁甲級リーグ第9節 | Luo Xihe | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2009-07-02 | 2009年韓国囲碁リーグ | Choi Cheolhan | Kim Juho | Win | B+R | 6.5 | 
-| 2009-06-19 | 2009年韓国囲碁リーグ | Choi Cheolhan | Lee Changho | Lose | W+2.5 | 6.5 | 
-| 2009-06-13 | 第11回中国囲碁甲級リーグ第6節 | Li Zhe | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2009-06-01 | 第14期バッカス杯天元戦予選 | Choi Cheolhan | Park Shiun | Win | B+R | 6.5 | 
-| 2009-05-28 | 2009年韓国囲碁リーグ | Choi Cheolhan | Kim Jiseok | Lose | W+13.5 | 6.5 | 
-| 2009-05-26 | 第14期GSカルテックス杯プロ棋戦リーグ | Choi Cheolhan | Hong Kipyo | Lose | W+R | 6.5 | 
-| 2009-05-20 | 第14回LG杯世界棋王戦2回戦 | Shi Yue | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2009-05-18 | 第14回LG杯世界棋王戦1回戦 | Ding Wei | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2009-05-14 | 第11回中国囲碁甲級リーグ第2節 | Chang Hao | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2009-05-09 | 第11回中国囲碁甲級リーグ第1節 | Choi Cheolhan | Zhou Heyang | Win | B+R | 7.5 | 
-| 2009-04-30 | 第14期GSカルテックス杯プロ棋戦リーグ | An Joyeong | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2009-04-23 | 第6回応氏杯世界選手権決勝五番勝負第4局 | Lee Changho | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2009-04-19 | 第14回LG杯予選 | Zhou Ruiyang | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2009-04-11 | 第22回世界囲碁選手権富士通杯1回戦 | Xie He | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2009-04-01 | 第14期GSカルテックス杯プロ棋戦リーグ | Cho Hanseung | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2009-03-14 | 第1回BCカード杯世界選手権2回戦 | Huang Yizhong | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2009-03-07 | 第6回応氏杯世界選手権決勝五番勝負第3局 | Choi Cheolhan | Lee Changho | Win | B+R | 7.5 | 
-| 2009-03-05 | 第6回応氏杯世界選手権決勝五番勝負第2局 | Lee Changho | Choi Cheolhan | Win | W+7 | 7.5 | 
-| 2009-03-03 | 第6回応氏杯世界選手権決勝五番勝負第1局 | Choi Cheolhan | Lee Changho | Lose | W+3 | 7.5 | 
-| 2009-02-16 | 第22回世界囲碁選手権富士通杯韓国予選決勝 | Choi Cheolhan | Yun Junsang | Win | B+R | 6.5 | 
-| 2009-02-13 | 第22回世界囲碁選手権富士通杯韓国予選 | Choi Cheolhan | Heo Yongho | Win | B+R | 6.5 | 
-| 2009-02-10 | 第10回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Park Yeonghun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2009-01-28 | 第10回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 
-| 2009-01-14 | 第10回マキシムコーヒー杯入神最強戦準決勝 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2008-12-12 | 第10回マキシムコーヒー杯入神最強戦3回戦 | Choi Cheolhan | Mok Jinseok | Win | B+R | 6.5 | 
-| 2008-11-30 | 第4期圓益杯十段戦3回戦 | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2008-11-22 | 2008年韓国囲碁リーグ | Choi Cheolhan | Heo Yongho | Lose | W+R | 6.5 | 
-| 2008-11-21 | 第10回マキシムコーヒー杯入神最強戦2回戦 | Park Cheongsang | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2008-11-20 | 第13期GSカルテックス杯プロ棋戦リーグ | Weon Seongjin | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2008-11-15 | 2008年韓国囲碁リーグ | Park Seunghwa | Choi Cheolhan | Win | W+1.5 | 6.5 | 
-| 2008-11-05 | 第13期GSカルテックス杯プロ棋戦リーグ | Choi Cheolhan | Yoo Changhyuk | Win | B+R | 6.5 | 
-| 2008-10-31 | 2008年韓国囲碁リーグ | Park Yeonghun | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2008-10-26 | 2008年韓国囲碁リーグ | On Sojin | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2008-10-17 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦決勝 | Kong Jie | Choi Cheolhan | Win | W+3.5 | 6.5 | 
-| 2008-10-17 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Choi Cheolhan | Hane Naoki | Lose | W+R | 6.5 | 
-| 2008-10-10 | 第10回マキシムコーヒー杯入神最強戦1回戦 | Kim Soojang | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2008-10-09 | 第13期バッカス杯天元戦2回戦 | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2008-10-02 | 2008年韓国囲碁リーグ | An Joyeong | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2008-09-30 | 第13期GSカルテックス杯プロ棋戦リーグ | Kim Seongjae | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2008-09-25 | 第6回応氏杯世界選手権準決勝三番勝負第2局 | Choi Cheolhan | Liu Xing | Win | B+R | 7.5 | 
-| 2008-09-23 | 第6回応氏杯世界選手権準決勝三番勝負第1局 | Liu Xing | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2008-09-19 | 2008年韓国囲碁リーグ | Cho Hyeyeon | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2008-09-13 | 2008年韓国囲碁リーグ | Kim Daehee | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2008-08-27 | 第4期圓益杯十段戦1回戦 | Choi Cheolhan |  | Win | B+R | 6.5 | 
-| 2008-08-18 | 第13期GSカルテックス杯プロ棋戦リーグ | Hong Seongji | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2008-08-15 | 2008年韓国囲碁リーグ | Choi Cheolhan | Paek Hongseok | Win | B+R | 6.5 | 
-| 2008-08-02 | 2008年韓国囲碁リーグ | Yoo Changhyuk | Choi Cheolhan | Win | W+3.5 | 6.5 | 
-| 2008-07-31 | 第13回三星火災杯予選3回戦 | Chen Yaoye | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2008-07-21 | 第4期トヨタ＆デンソー杯囲碁世界王座戦韓国予選 | Choi Cheolhan | Kang Dongyun | Lose | W+2.5 | 6.5 | 
-| 2008-07-04 | 2008年韓国囲碁リーグ | Choi Cheolhan | Mok Jinseok | Win | B+R | 6.5 | 
-| 2008-06-26 | 2008年韓国囲碁リーグ | Choi Cheolhan | Lee Yeongkyu | Win | B+R | 6.5 | 
-| 2008-06-25 | 第13期GSカルテックス杯プロ棋戦リーグ | Choi Cheolhan | Lee Sedol | Win | B+R | 6.5 | 
-| 2008-06-12 | 第13期バッカス杯天元戦1回戦 | Choi Cheolhan | Hong Jansik | Win | B+R | 6.5 | 
-| 2008-05-29 | 2008年韓国囲碁リーグ | Choi Cheolhan | Heo Yongho | Win | B+3.5 | 6.5 | 
-| 2008-05-26 | 第13回LG杯世界棋王戦1回戦 | Choi Cheolhan | Shi Yue | Lose | W+R | 6.5 | 
-| 2008-05-18 | 2008年韓国囲碁リーグ | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2008-05-12 | 第13期GSカルテックス杯プロ棋戦リーグ | Park Cheongsang | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2008-05-04 | 第6回応氏杯世界選手権3回戦 | Choi Cheolhan | Piao Wenyao | Win | B+R | 7.5 | 
-| 2008-05-02 | 第6回応氏杯世界選手権2回戦 | Choi Cheolhan | Gu Li | Win | B+R | 7.5 | 
-| 2008-04-25 | 2008年韓国囲碁リーグ | Choi Cheolhan | Kang Dongyun | Lose | W+R | 6.5 | 
-| 2008-04-19 | 2008年韓国囲碁リーグ | Park Junghwan | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2008-03-31 | 第13期GSカルテックス杯プロ棋戦リーグ | Choi Cheolhan | Cho Hanseung | Win | B+1.5 | 6.5 | 
-| 2008-02-12 | 第21回世界囲碁選手権富士通杯韓国予選決勝 | Choi Cheolhan | Kang Dongyun | Lose | W+6.5 | 6.5 | 
-| 2008-02-11 | 第21回世界囲碁選手権富士通杯韓国予選 | Han Sanghoon | Choi Cheolhan | Win | W+2.5 | 6.5 | 
-| 2008-01-28 | 第36期名人戦（韓国）予選 | Park Cheongsang | Choi Cheolhan | Lose | B+0.5 | 6.5 | 
-| 2007-11-16 | 第3期圓益杯十段戦3回戦 | Lee Jungwoo | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2007-11-12 | 第26回KBS杯囲碁王戦敗者復活戦決勝 | Lee Changho | Choi Cheolhan | Lose | B+1.5 | 6.5 | 
-| 2007-11-08 | 2007年韓国囲碁リーグ | Choi Cheolhan | Weon Seongjin | Lose | W+R | 6.5 | 
-| 2007-11-05 | 第9回マキシムコーヒー杯入神最強戦4回戦 | Seo Bongsoo | Choi Cheolhan | Lose | B+1.5 | 6.5 | 
-| 2007-11-03 | 2007年韓国囲碁リーグ | Mok Jinseok | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2007-10-25 | 第19期棋聖戦（韓国）1回戦 | An Joyeong | Choi Cheolhan | Lose | B+4.5 | 6.5 | 
-| 2007-10-22 | 第26回KBS杯囲碁王戦敗者復活戦準決勝 | Choi Cheolhan | Lee Sedol | Win | B+R | 6.5 | 
-| 2007-10-19 | 第9回マキシムコーヒー杯入神最強戦3回戦 |  | Choi Cheolhan | Win | W+4.5 | 6.5 | 
-| 2007-10-18 | 2007年韓国囲碁リーグ | Paek Hongseok | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2007-10-10 | 第12期GSカルテックス杯プロ棋戦リーグ | Choi Cheolhan | Lee Changho | Lose | W+R | 6.5 | 
-| 2007-10-08 | 第26回KBS杯囲碁王戦本戦4回戦 | Choi Cheolhan | Cho Hanseung | Lose | W+1.5 | 6.5 | 
-| 2007-10-08 | 第26回KBS杯囲碁王戦敗者復活戦4回戦 | Kim Jiseok | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2007-09-29 | 2007年韓国囲碁リーグ | Lee Changho | Choi Cheolhan | Lose | B+4.5 | 6.5 | 
-| 2007-09-16 | 2007年韓国囲碁リーグ | Choi Cheolhan | Rui Naiwei | Win | B+9.5 | 6.5 | 
-| 2007-09-04 | 第12回三星火災杯世界オープン囲碁選手権1回戦 | Huang Yizhong | Choi Cheolhan | Lose | B+3.5 | 6.5 | 
-| 2007-08-29 | 2007年韓国囲碁リーグ | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 
-| 2007-08-21 | 第12期GSカルテックス杯プロ棋戦リーグ | Choi Myeonghun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2007-08-12 | 第3回中環杯世界囲碁選手権1回戦 | Lin Zhihan | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2007-08-04 | 2007年韓国囲碁リーグ | Choi Cheolhan | Lee Yeongkyu | Lose | W+R | 6.5 | 
-| 2007-08-02 | 第12期GSカルテックス杯プロ棋戦リーグ | Park Yeonghun | Choi Cheolhan | Lose | B+1.5 | 6.5 | 
-| 2007-07-27 | 2007年韓国囲碁リーグ | Lee Yeongkyu | Choi Cheolhan | Win | W+2.5 | 6.5 | 
-| 2007-07-19 | 第12期GSカルテックス杯プロ棋戦リーグ | Mok Jinseok | Choi Cheolhan | Lose | B+1.5 | 6.5 | 
-| 2007-07-15 | 2007年韓国囲碁リーグ | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 
-| 2007-07-12 | 第3期物価情報杯プロ棋戦決勝トーナメント1回戦 | Choi Cheolhan | Hong Seongji | Lose | W+R | 6.5 | 
-| 2007-07-06 | 第9回農心杯韓国選抜戦 | Choi Cheolhan | Kim Juho | Lose | W+T | 6.5 | 
-| 2007-07-03 | 第12期バッカス杯天元戦1回戦 | Lee Huiseong | Choi Cheolhan | Lose | B+0.5 | 6.5 | 
-| 2007-06-27 | 第12期GSカルテックス杯プロ棋戦リーグ | On Sojin | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2007-06-22 | 第3期物価情報杯プロ棋戦リーグC | Heo Yongho | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2007-06-20 | 2007年韓国囲碁リーグ | Choi Cheolhan |  | Win | B+R | 6.5 | 
-| 2007-06-18 | 第4期電子ランド杯王中王戦3回戦 | Lee Changho | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2007-06-13 | 第19回テレビアジア選手権準決勝 | Choi Cheolhan | Chen Yaoye | Lose | W+6.5 | 6.5 | 
-| 2007-06-11 | 第19回テレビアジア選手権1回戦 | Choi Cheolhan | Piao Wenyao | Win | B+R | 6.5 | 
-| 2007-06-09 | 2007年韓国囲碁リーグ |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2007-06-04 | 第12回LG杯世界棋王戦1回戦 | Choi Cheolhan | Wang Lei (b) | Lose | W+6.5 | 6.5 | 
-| 2007-06-02 | 第20回世界囲碁選手権富士通杯3回戦 | Cho U | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2007-05-28 | 第26回KBS杯囲碁王戦本戦3回戦 | Hong Kipyo | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2007-05-27 | 第4期電子ランド杯王中王戦2回戦 | Oh Kyuchul | Choi Cheolhan | Win | W+8.5 | 6.5 | 
-| 2007-05-24 | 2007年韓国囲碁リーグ | Choi Cheolhan | Mok Jinseok | Win | B+6.5 | 6.5 | 
-| 2007-05-17 | 2007年韓国囲碁リーグ | Park Yeonghun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2007-05-13 | 第3期物価情報杯プロ棋戦リーグC | Choi Cheolhan | Lee Yeongkyu | Win | B+R | 6.5 | 
-| 2007-05-09 | 第12期GSカルテックス杯プロ棋戦リーグ | Cho Hanseung | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2007-05-07 | 第3期物価情報杯プロ棋戦リーグC | Choi Cheolhan |  | Win | B+R | 6.5 | 
-| 2007-05-02 | 2007年韓国囲碁リーグ | Choi Cheolhan | An Joyeong | Lose | W+3.5 | 6.5 | 
-| 2007-04-20 | 第4期電子ランド杯王中王戦1回戦 | Choi Cheolhan | Lee Sedol | Win | B+2.5 | 6.5 | 
-| 2007-04-16 | 第20回世界囲碁選手権富士通杯2回戦 | Kong Jie | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2007-04-11 | 第41期王位戦3回戦 |  | Choi Cheolhan | Lose | B+3.5 | 6.5 | 
-| 2007-04-07 | 第18期棋聖戦（韓国）挑戦手合三番勝負第2局 | Choi Cheolhan | Park Yeonghun | Lose | W+3.5 | 6.5 | 
-| 2007-04-04 | 第41期王位戦2回戦 | Yoo Changhyuk | Choi Cheolhan | Win | W+0.5 | 6.5 | 
-| 2007-03-16 | 第12期GSカルテックス杯プロ棋戦リーグ | Choi Cheolhan | Hong Seongji | Win | B+3.5 | 6.5 | 
-| 2007-03-02 | 第18期棋聖戦（韓国）挑戦手合三番勝負第1局 | Park Yeonghun | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2007-02-16 | 第18期棋聖戦（韓国）挑戦者決定戦 | Choi Cheolhan | Kim Seungjun | Win | B+R | 6.5 | 
-| 2007-02-05 | 第18期棋聖戦（韓国）準決勝 | Choi Cheolhan | Weon Seongjin | Win | B+R | 6.5 | 
-| 2007-02-02 | 第2期圓益杯十段戦準決勝 | Paek Hongseok | Choi Cheolhan | Lose | B+2.5 | 6.5 | 
-| 2007-01-09 | 第2期圓益杯十段戦4回戦 | Choi Cheolhan | Kim Juho | Win | B+R | 6.5 | 
-| 2006-12-16 | 2006年韓国囲碁リーグ |  | Choi Cheolhan | Win | W+6.5 | 6.5 | 
-| 2006-12-15 | 2006年韓国囲碁リーグ | Weon Seongjin | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2006-12-07 | 第18期棋聖戦（韓国）2回戦 | An Joyeong | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2006-12-05 | 第2期圓益杯十段戦3回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2006-11-27 | 第11期GSカルテックス杯プロ棋戦挑戦手合五番勝負第3局 | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 
-| 2006-11-20 | 第25回KBS杯囲碁王戦決勝三番勝負第2局 | Lee Sedol | Choi Cheolhan | Lose | B+3.5 | 6.5 | 
-| 2006-11-17 | 2006年韓国囲碁リーグ | Choi Cheolhan | Yoo Changhyuk | Win | B+1.5 | 6.5 | 
-| 2006-11-14 | 第11期GSカルテックス杯プロ棋戦挑戦手合五番勝負第2局 | Lee Sedol | Choi Cheolhan | Lose | B+0.5 | 6.5 | 
-| 2006-11-08 | 第11回三星火災杯世界オープン囲碁選手権3回戦 | Choi Cheolhan | Chang Hao | Lose | W+3.5 | 6.5 | 
-| 2006-11-04 | 第11期GSカルテックス杯プロ棋戦挑戦手合五番勝負第1局 | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 
-| 2006-10-29 | 2006年韓国囲碁リーグ | Cho Hunhyun | Choi Cheolhan | Win | W+3.5 | 6.5 | 
-| 2006-10-23 | 第25回KBS杯囲碁王戦決勝三番勝負第1局 | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 
-| 2006-10-22 | 2006年韓国囲碁リーグ | Heo Yongho | Choi Cheolhan | Win | W+4.5 | 6.5 | 
-| 2006-10-07 | 2006年韓国囲碁リーグ | Ryu Chaehyeong | Choi Cheolhan | Win | W+8.5 | 6.5 | 
-| 2006-09-29 | 第18期棋聖戦（韓国）1回戦 | Heo Yongho | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2006-09-24 | 2006年韓国囲碁リーグ | Choi Cheolhan | Kim Jiseok | Win | B+R | 6.5 | 
-| 2006-09-19 | 第8回マキシムコーヒー杯入神最強戦1回戦 | Choi Cheolhan | Yoo Changhyuk | Lose | W+R | 6.5 | 
-| 2006-09-18 | 第25回KBS杯囲碁王戦本戦5回戦 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 
-| 2006-09-15 | 第8回農心辛ラーメン杯世界囲碁最強戦第4戦 | Choi Cheolhan | Peng Quan | Lose | W+3.5 | 6.5 | 
-| 2006-09-08 | 第11回三星火災杯世界オープン囲碁選手権2回戦 | Gu Li | Choi Cheolhan | Win | W+0.5 | 6.5 | 
-| 2006-09-06 | 第11回三星火災杯世界オープン囲碁選手権1回戦 | Choi Cheolhan | Kono Rin | Win | B+R | 6.5 | 
-| 2006-08-28 | 第3期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Peng Quan | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2006-08-26 | 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Choi Cheolhan | Chen Yaoye | Win | B+5.5 | 6.5 | 
-| 2006-08-18 | 2006年韓国囲碁リーグ | Kim Seonryong | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2006-08-10 | 2006年韓国囲碁リーグ | Choi Cheolhan | Mok Jinseok | Lose | W+3.5 | 6.5 | 
-| 2006-07-24 | 第8回農心杯韓国選抜戦 | Choi Myeonghun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2006-07-22 | 2006年韓国囲碁リーグ | Hong Seongji | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2006-07-13 | 2006年韓国囲碁リーグ | On Sojin | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2006-07-10 | 第25回KBS杯囲碁王戦本戦4回戦 | Yoo Changhyuk | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2006-07-05 | 第2期物価情報杯プロ棋戦決勝トーナメント1回戦 | Choi Cheolhan | Lee Changho | Lose | W+1.5 | 6.5 | 
-| 2006-07-03 | 第19回世界囲碁選手権富士通杯三位決定戦 | Choi Cheolhan | Lee Sedol | Win | B+R | 6.5 | 
-| 2006-07-01 | 第19回世界囲碁選手権富士通杯準決勝 | Choi Cheolhan | Park Cheongsang | Lose | W+R | 6.5 | 
-| 2006-06-25 | 2006年韓国囲碁リーグ | Park Yeonghun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2006-06-15 | 第50期国手戦（韓国）1回戦 | Lee Huiseong | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2006-06-13 | 第3期電子ランド杯王中王戦3回戦 | Choi Kyubyeong | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2006-06-10 | 2006年韓国囲碁リーグ | Choi Cheolhan | Kim Jiseok | Win | B+R | 6.5 | 
-| 2006-06-07 | 第2期物価情報杯プロ棋戦リーグD | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2006-06-05 | 第25回KBS杯囲碁王戦本戦3回戦 | Choi Cheolhan | Kim Juho | Win | B+R | 6.5 | 
-| 2006-06-03 | 第19回世界囲碁選手権富士通杯3回戦 | Yuki Satoshi | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2006-05-30 | 第2期物価情報杯プロ棋戦リーグD | Choi Cheolhan | Park Cheongsang | Win | B+R | 6.5 | 
-| 2006-05-20 | 2006年韓国囲碁リーグ | An Joyeong | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2006-05-18 | 第3期電子ランド杯王中王戦2回戦 | Yun Junsang | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2006-05-15 | 第11回LG杯世界棋王戦1回戦 | Choi Cheolhan | Chen Yaoye | Lose | W+R | 6.5 | 
-| 2006-05-11 | 2006年韓国囲碁リーグ | Choi Cheolhan | Yun Junsang | Win | B+2.5 | 6.5 | 
-| 2006-05-10 | 第40期王位戦準決勝 | Choi Cheolhan | Seo Musang | Lose | W+R | 6.5 | 
-| 2006-05-08 | 第40期王位戦3回戦 | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2006-05-03 | 第5回CSK杯囲碁アジア対抗戦第3戦 | Choi Cheolhan | Xie He | Lose | W+14.5 | 6.5 | 
-| 2006-05-02 | 第5回CSK杯囲碁アジア対抗戦第2戦 | Choi Cheolhan | Cho U | Lose | W+R | 6.5 | 
-| 2006-05-01 | 第5回CSK杯囲碁アジア対抗戦第1戦 | Choi Cheolhan | Kono Rin | Win | B+R | 6.5 | 
-| 2006-04-28 | 2006年韓国囲碁リーグ |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2006-04-18 | 第2期物価情報杯プロ棋戦リーグD | Choi Cheolhan | Cho Hunhyun | Win | B+R | 6.5 | 
-| 2006-04-10 | 第19回世界囲碁選手権富士通杯2回戦 | Choi Cheolhan | Cho U | Win | B+1.5 | 6.5 | 
-| 2006-04-04 | 第7回マキシムコーヒー杯入神最強戦決勝三番勝負第3局 | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2006-03-31 | 第40期王位戦2回戦 | Jin Siyoung | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2006-03-26 | 第7回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2006-03-22 | 第3期電子ランド杯王中王戦1回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2006-03-11 | 第6回春蘭杯世界囲碁選手権1回戦 | Xie He | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2006-03-02 | 第49期国手戦（韓国）挑戦手合五番勝負第5局 | Lee Changho | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2006-02-22 | 第7回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 
-| 2006-02-18 | 第7回マキシムコーヒー杯入神最強戦準決勝 | Park Yeonghun | Choi Cheolhan | Win | W+1.5 | 6.5 | 
-| 2006-02-15 | 第49期国手戦（韓国）挑戦手合五番勝負第4局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 
-| 2006-02-11 | 第49期国手戦（韓国）挑戦手合五番勝負第3局 | Lee Changho | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2006-02-09 | 第7回マキシムコーヒー杯入神最強戦3回戦 | Kim Seungjun | Choi Cheolhan | Win | W+4.5 | 6.5 | 
-| 2006-02-02 | 第49期国手戦（韓国）挑戦手合五番勝負第2局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 
-| 2006-01-25 | 第49期国手戦（韓国）挑戦手合五番勝負第1局 | Lee Changho | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2006-01-10 | 第7回マキシムコーヒー杯入神最強戦2回戦 | Kim Ilhwan | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2005-12-19 | 2005年韓国囲碁リーグ優勝決定戦 | Park Yeonghun | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2005-12-18 | 2005年韓国囲碁リーグ優勝決定戦 | Park Yeonghun | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2005-12-16 | 第10回三星火災杯世界オープン囲碁選手権準決勝三番勝負第3局 | Choi Cheolhan | Luo Xihe | Lose | W+7.5 | 6.5 | 
-| 2005-12-15 | 第10回三星火災杯世界オープン囲碁選手権準決勝三番勝負第2局 | Choi Cheolhan | Luo Xihe | Win | B+R | 6.5 | 
-| 2005-12-13 | 第10回三星火災杯世界オープン囲碁選手権準決勝三番勝負第1局 | Luo Xihe | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2005-12-11 | 2005年韓国囲碁リーグプレーオフ | Choi Cheolhan | Mok Jinseok | Win | B+1.5 | 6.5 | 
-| 2005-12-04 | 2005年韓国囲碁リーグプレーオフ | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2005-12-01 | 第10期GSカルテックス杯プロ棋戦決勝五番勝負第5局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 
-| 2005-11-21 | 第10期GSカルテックス杯プロ棋戦決勝五番勝負第4局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 
-| 2005-11-16 | 第10回三星火災杯世界オープン囲碁選手権3回戦 | Cho Hunhyun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2005-11-13 | 2005年韓国囲碁リーグ | Choi Cheolhan | Cho Hunhyun | Win | B+3.5 | 6.5 | 
-| 2005-11-12 | 第1期圓益杯十段戦準決勝 | Lee Changho | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2005-10-16 | 2005年韓国囲碁リーグ | Yoo Changhyuk | Choi Cheolhan | Win | W+8.5 | 6.5 | 
-| 2005-10-10 | 第7回マキシムコーヒー杯入神最強戦1回戦 | Jeong Suhyeon | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2005-10-06 | 第10期GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2005-10-04 | 第1期圓益杯十段戦3回戦 | Choi Cheolhan | Mok Jinseok | Win | B+R | 6.5 | 
-| 2005-09-30 | 第10回三星火災杯世界オープン囲碁選手権2回戦 | Choi Cheolhan | Hane Naoki | Win | B+R | 6.5 | 
-| 2005-09-28 | 第10回三星火災杯世界オープン囲碁選手権1回戦 | Li Zhe | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2005-09-21 | 第10期GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Choi Cheolhan | Lee Changho | Lose | W+R | 6.5 | 
-| 2005-09-14 | 第17期棋聖戦（韓国）1回戦 | Choi Cheolhan | Kim Juho | Lose | W+0.5 | 6.5 | 
-| 2005-09-08 | 第10期GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Lee Changho | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2005-09-04 | 2005年韓国囲碁リーグ | Choi Cheolhan | Lee Changho | Win | B+5.5 | 6.5 | 
-| 2005-09-01 | 第1期圓益杯十段戦1回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2005-08-24 | 第10期GSカルテックス杯プロ棋戦準決勝 | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 
-| 2005-08-21 | 2005年韓国囲碁リーグ | Choi Cheolhan | Mok Jinseok | Win | B+R | 6.5 | 
-| 2005-08-20 | 第2回中環杯世界囲碁選手権決勝 | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2005-08-18 | 第2回中環杯世界囲碁選手権準決勝 | Yoda Norimoto | Choi Cheolhan | Win | W+1.5 | 6.5 | 
-| 2005-08-16 | 第2回中環杯世界囲碁選手権2回戦 | Yamashita Keigo | Choi Cheolhan | Win | W+1.5 | 6.5 | 
-| 2005-08-14 | 第2回中環杯世界囲碁選手権1回戦 | Cho Chikun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2005-08-11 | 第1期物価情報杯プロ棋戦決勝トーナメント準決勝 | Choi Cheolhan | Park Yeonghun | Lose | W+R | 6.5 | 
-| 2005-08-10 | 第10期バッカス杯天元戦1回戦 | Choi Cheolhan | Kim Daeyoung | Lose | W+R | 6.5 | 
-| 2005-08-08 | 第1期物価情報杯プロ棋戦リーグC | Jiang Zhujiu | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2005-08-05 | 第1期物価情報杯プロ棋戦リーグC | Song Taekon | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2005-07-29 | 第10期GSカルテックス杯プロ棋戦2回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2005-07-22 | 第9回中韓天元対抗戦第3局 | Gu Li | Choi Cheolhan | Lose | B+1.5 | 7.5 | 
-| 2005-07-21 | 第9回中韓天元対抗戦第2局 | Gu Li | Choi Cheolhan | Lose | B+1.5 | 7.5 | 
-| 2005-07-19 | 第9回中韓天元対抗戦第1局 | Choi Cheolhan | Gu Li | Win | B+R | 7.5 | 
-| 2005-07-11 | 第2期電子ランド杯王中王戦決勝三番勝負第2局 | Choi Cheolhan | Lee Changho | Lose | W+R | 6.5 | 
-| 2005-07-10 | 2005年韓国囲碁リーグ | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2005-07-06 | 第2期電子ランド杯王中王戦決勝三番勝負第1局 | Lee Changho | Choi Cheolhan | Lose | B+0.5 | 6.5 | 
-| 2005-07-04 | 第18回世界囲碁選手権富士通杯決勝 | Choi Cheolhan | Lee Sedol | Lose | W+2.5 | 6.5 | 
-| 2005-07-02 | 第18回世界囲碁選手権富士通杯準決勝 | Choi Cheolhan | Song Taekon | Win | B+R | 6.5 | 
-| 2005-06-24 | 第7回農心杯韓国選抜戦 | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 
-| 2005-06-21 | 第2期電子ランド杯王中王戦準決勝 | Cho Hanseung | Choi Cheolhan | Win | W+3.5 | 6.5 | 
-| 2005-06-19 | 第1期物価情報杯プロ棋戦リーグC | Choi Cheolhan | An Joyeong | Lose | W+2.5 | 6.5 | 
-| 2005-06-14 | 第10期GSカルテックス杯プロ棋戦1回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2005-06-12 | 2005年韓国囲碁リーグ | Park Yeonghun | Choi Cheolhan | Lose | B+10.5 | 6.5 | 
-| 2005-06-06 | 第2期電子ランド杯王中王戦3回戦 | Lee Huiseong | Choi Cheolhan | Win | W+4.5 | 6.5 | 
-| 2005-06-04 | 第18回世界囲碁選手権富士通杯3回戦 | Choi Cheolhan | O Meien | Win | B+6.5 | 6.5 | 
-| 2005-05-29 | 2005年韓国囲碁リーグ | Song Taekon | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2005-05-23 | 第2期電子ランド杯王中王戦2回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2005-05-16 | 第10回LG杯世界棋王戦1回戦 | So Yokoku | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2005-05-13 | 第1回日月星杯中韓囲碁対抗戦第4戦 | Choi Cheolhan | Wang Xi | Win | B+R | 6.5 | 
-| 2005-05-12 | 第1回日月星杯中韓囲碁対抗戦第3戦 | Hu Yaoyu | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2005-05-09 | 第16期棋聖戦（韓国）挑戦手合五番勝負第5局 | Choi Cheolhan | Park Yeonghun | Lose | W+0.5 | 6.5 | 
-| 2005-05-03 | 第4回CSK杯囲碁アジア対抗戦第3戦 | Wang Lei (b) | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2005-05-02 | 第4回CSK杯囲碁アジア対抗戦第2戦 | Choi Cheolhan | Yoda Norimoto | Win | B+4.5 | 6.5 | 
-| 2005-05-01 | 第4回CSK杯囲碁アジア対抗戦第1戦 | O Meien | Choi Cheolhan | Win | W+5.5 | 6.5 | 
-| 2005-04-27 | 第16期棋聖戦（韓国）挑戦手合五番勝負第4局 | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 
-| 2005-04-21 | 第2期電子ランド杯王中王戦1回戦 | Choi Cheolhan | Cho Hyeyeon | Win | B+4.5 | 6.5 | 
-| 2005-04-20 | 第24回KBS杯囲碁王戦敗者復活戦1回戦 | Hong Minpyo | Choi Cheolhan | Win | W+14.5 | 6.5 | 
-| 2005-04-11 | 第18回世界囲碁選手権富士通杯2回戦 | Cho U | Choi Cheolhan | Win | W+1.5 | 6.5 | 
-| 2005-03-25 | 第16期棋聖戦（韓国）挑戦手合五番勝負第3局 | Park Yeonghun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2005-03-18 | 第16期棋聖戦（韓国）挑戦手合五番勝負第2局 | Choi Cheolhan | Park Yeonghun | Lose | W+R | 6.5 | 
-| 2005-03-11 | 第16期棋聖戦（韓国）挑戦手合五番勝負第1局 | Park Yeonghun | Choi Cheolhan | Lose | B+1.5 | 6.5 | 
-| 2005-03-05 | 第5回応氏杯世界選手権決勝五番勝負第4局 | Chang Hao | Choi Cheolhan | Lose | B+3 | 7.5 | 
-| 2005-03-03 | 第5回応氏杯世界選手権決勝五番勝負第3局 | Choi Cheolhan | Chang Hao | Lose | W+R | 7.5 | 
-| 2005-02-28 | 第2期電子ランド杯王中王戦予選 | Choi Cheolhan | Lee Yeongkyu | Win | B+R | 6.5 | 
-| 2005-02-19 | 第48期国手戦（韓国）挑戦手合五番勝負第3局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 
-| 2005-02-15 | 第2期電子ランド杯王中王戦予選 | Choi Cheolhan |  | Win | B+4.5 | 6.5 | 
-| 2005-02-11 | 第48期国手戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2005-02-05 | 第1回日月星杯中韓囲碁対抗戦第2戦 | Luo Xihe | Choi Cheolhan | Win | W+8.5 | 7.5 | 
-| 2005-02-04 | 第1回日月星杯中韓囲碁対抗戦第1戦 | Wang Lei (b) | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2005-01-19 | 第24回KBS杯囲碁王戦本戦2回戦 | Choi Cheolhan | Lee Yeongkyu | Lose | W+R | 6.5 | 
-| 2005-01-10 | 第48期国手戦（韓国）挑戦手合五番勝負第1局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 
-| 2004-12-28 | 第5回応氏杯世界選手権決勝五番勝負第2局 | Chang Hao | Choi Cheolhan | Lose | B+R | 7.5 | 
-| 2004-12-26 | 第5回応氏杯世界選手権決勝五番勝負第1局 | Choi Cheolhan | Chang Hao | Win | B+R | 7.5 | 
-| 2004-12-03 | 第9期バッカス杯天元戦決勝五番勝負第3局 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2004-11-27 | 第6回農心辛ラーメン杯世界囲碁最強戦第8戦 | Choi Cheolhan | Cho Chikun | Lose | W+R | 6.5 | 
-| 2004-11-26 | 第6回農心辛ラーメン杯世界囲碁最強戦第7戦 | Peng Quan | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2004-11-21 | 2004年韓国囲碁リーグ | Choi Cheolhan | Mok Jinseok | Win | B+5.5 | 6.5 | 
-| 2004-11-19 | 第9期バッカス杯天元戦決勝五番勝負第2局 | Choi Cheolhan |  | Win | B+R | 6.5 | 
-| 2004-11-12 | 第9期バッカス杯天元戦決勝五番勝負第1局 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2004-10-31 | 2004年韓国囲碁リーグ | Choi Cheolhan | Lee Sedol | Win | B+R | 6.5 | 
-| 2004-10-19 | 第9期バッカス杯天元戦準決勝 | Choi Cheolhan | Cho Hunhyun | Win | B+4.5 | 6.5 | 
-| 2004-10-10 | 2004年韓国囲碁リーグ | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 
-| 2004-10-07 | 第9回三星火災杯世界オープン囲碁選手権3回戦 | Choi Cheolhan | Gu Li | Lose | W+R | 6.5 | 
-| 2004-10-01 | 第1期電子ランド杯王中王戦準決勝 | Choi Cheolhan | Kim Seonryong | Lose | W+1.5 | 6.5 | 
-| 2004-09-23 | 第6回農心杯韓国選抜戦 | Choi Cheolhan | Lee Sedol | Win | B+15.5 | 6.5 | 
-| 2004-09-21 | 第8期SKガス杯新鋭プロ十傑戦リーグB | An Younggil | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2004-09-19 | 2004年韓国囲碁リーグ | Song Taekon | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2004-09-16 | 第1回中環杯世界囲碁選手権1回戦 | Choi Cheolhan | Yamashita Keigo | Lose | W+R | 6.5 | 
-| 2004-09-13 | 第1期電子ランド杯王中王戦3回戦 | Cho Hunhyun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2004-09-10 | 第5回応氏杯世界選手権準決勝三番勝負第3局 | Peng Quan | Choi Cheolhan | Win | W+13 | 7.5 | 
-| 2004-09-08 | 第5回応氏杯世界選手権準決勝三番勝負第2局 | Choi Cheolhan | Peng Quan | Lose | W+13 | 7.5 | 
-| 2004-09-06 | 第5回応氏杯世界選手権準決勝三番勝負第1局 | Peng Quan | Choi Cheolhan | Win | W+R | 7.5 | 
-| 2004-09-03 | 第9回三星火災杯世界オープン囲碁選手権2回戦 | Choi Cheolhan | Luo Xihe | Win | B+R | 6.5 | 
-| 2004-09-01 | 第9回三星火災杯世界オープン囲碁選手権1回戦 | Choi Cheolhan | Hane Naoki | Win | B+R | 6.5 | 
-| 2004-08-27 | 第2期トヨタ＆デンソー杯囲碁世界王座戦準決勝 | Chang Hao | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2004-08-25 | 第2期トヨタ＆デンソー杯囲碁世界王座戦3回戦 | Choi Cheolhan | Yuki Satoshi | Win | B+2.5 | 6.5 | 
-| 2004-08-23 | 第2期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Choi Cheolhan | Sakai Hideyuki | Win | B+R | 6.5 | 
-| 2004-08-21 | 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Hikosaka Naoto | Choi Cheolhan | Win | W+2.5 | 6.5 | 
-| 2004-08-17 | 第9期バッカス杯天元戦2回戦 | Choi Cheolhan | Mok Jinseok | Win | B+R | 6.5 | 
-| 2004-08-16 | 第1期電子ランド杯王中王戦2回戦 | Choi Cheolhan | Yun Kihyeon | Win | B+R | 6.5 | 
-| 2004-08-13 | 第8回中韓天元対抗戦第3局 | Choi Cheolhan | Gu Li | Lose | W+R | 6.5 | 
-| 2004-08-12 | 第8回中韓天元対抗戦第2局 | Choi Cheolhan | Gu Li | Win | B+R | 6.5 | 
-| 2004-08-10 | 第8回中韓天元対抗戦第1局 | Gu Li | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2004-07-18 | 2004年韓国囲碁リーグ | Cho Hunhyun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2004-07-12 | 第8期SKガス杯新鋭プロ十傑戦リーグB | Cho Hyeyeon | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2004-07-02 | 第23回KBS杯囲碁王戦敗者復活戦4回戦 | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2004-06-22 | 第1期電子ランド杯王中王戦予選 | Hong Seongji | Choi Cheolhan | Win | W+10.5 | 6.5 | 
-| 2004-06-18 | 第23回KBS杯囲碁王戦本戦4回戦 | Choi Cheolhan | Lee Changho | Lose | W+R | 6.5 | 
-| 2004-06-16 | 第9期バッカス杯天元戦1回戦 | Choi Cheolhan | Choi Myeonghun | Win | B+R | 6.5 | 
-| 2004-06-14 | 第1期電子ランド杯王中王戦予選 | Song Taekon | Choi Cheolhan | Lose | B+2.5 | 6.5 | 
-| 2004-06-13 | 2004年韓国囲碁リーグ | Yoo Changhyuk | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2004-06-10 | 第8期SKガス杯新鋭プロ十傑戦リーグB | Choi Cheolhan | Lee Huiseong | Lose | W+0.5 | 6.5 | 
-| 2004-06-05 | 第17回世界囲碁選手権富士通杯3回戦 | Yoo Changhyuk | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2004-05-20 | 第9回LG杯世界棋王戦2回戦 | Choi Cheolhan | Kong Jie | Lose | W+R | 6.5 | 
-| 2004-05-16 | 2004年韓国囲碁リーグ | Choi Cheolhan | Lee Changho | Lose | W+7.5 | 6.5 | 
-| 2004-05-12 | 第8期SKガス杯新鋭プロ十傑戦リーグB | Kim Daeyoung | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2004-04-24 | 第5回応氏杯世界選手権3回戦 | Choi Cheolhan | Lee Changho | Win | B+5 | 7.5 | 
-| 2004-04-22 | 第5回応氏杯世界選手権2回戦 | Choi Cheolhan | Ma Xiaochun | Win | B+3 | 7.5 | 
-| 2004-04-20 | 第5回応氏杯世界選手権1回戦 | Choi Cheolhan | Hane Naoki | Win | B+R | 7.5 | 
-| 2004-04-16 | 第15期棋聖戦（韓国）挑戦手合五番勝負第4局 | Choi Cheolhan | Lee Changho | Win | B+2.5 | 6.5 | 
-| 2004-04-12 | 第17回世界囲碁選手権富士通杯2回戦 | Hane Naoki | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2004-04-10 | 第17回世界囲碁選手権富士通杯1回戦 | Choi Cheolhan |  | Win | B+R | 6.5 | 
-| 2004-04-06 | 第15期棋聖戦（韓国）挑戦手合五番勝負第3局 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2004-04-02 | 第23回KBS杯囲碁王戦本戦3回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2004-03-23 | 第3回CSK杯囲碁アジア対抗戦第3戦 | Kong Jie | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2004-03-22 | 第3回CSK杯囲碁アジア対抗戦第2戦 | Yamashita Keigo | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2004-03-21 | 第3回CSK杯囲碁アジア対抗戦第1戦 | Choi Cheolhan | Rin Kaiho | Win | B+R | 6.5 | 
-| 2004-03-12 | 第14期BCカード杯新人王戦 | Choi Cheolhan | Yun Junsang | Lose | W+0.5 | 6.5 | 
-| 2004-03-08 | 第8期SKガス杯新鋭プロ十傑戦リーグB | Choi Cheolhan | Hong Seongji | Win | B+R | 6.5 | 
-| 2004-03-05 | 第15期棋聖戦（韓国）挑戦手合五番勝負第2局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 
-| 2004-03-02 | 第47期国手戦（韓国）挑戦手合五番勝負第5局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 
-| 2004-02-27 | 第15期棋聖戦（韓国）挑戦手合五番勝負第1局 | Lee Changho | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2004-02-23 | 第47期国手戦（韓国）挑戦手合五番勝負第4局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 
-| 2004-02-20 | 第15期棋聖戦（韓国）挑戦者決定戦三番勝負第3局 | Choi Cheolhan | Ryu Chaehyeong | Win | B+R | 6.5 | 
-| 2004-02-18 | 第47期国手戦（韓国）挑戦手合五番勝負第3局 | Lee Changho | Choi Cheolhan | Lose | B+9.5 | 6.5 | 
-| 2004-02-07 | 第47期国手戦（韓国）挑戦手合五番勝負第2局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 
-| 2004-01-30 | 第15期棋聖戦（韓国）挑戦者決定戦三番勝負第2局 | Ryu Chaehyeong | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2004-01-19 | 第15期棋聖戦（韓国）挑戦者決定戦三番勝負第1局 | Choi Cheolhan | Ryu Chaehyeong | Win | B+R | 6.5 | 
-| 2004-01-14 | 第47期国手戦（韓国）挑戦手合五番勝負第1局 | Lee Changho | Choi Cheolhan | Lose | B+1.5 | 6.5 | 
-| 2004-01-06 | 第15期棋聖戦（韓国）準決勝 | Choi Cheolhan | Mok Jinseok | Win | B+R | 6.5 | 
-| 2003-12-18 | 第8期バッカス杯天元戦決勝五番勝負第4局 | Weon Seongjin | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2003-12-13 | 第8期バッカス杯天元戦決勝五番勝負第3局 | Choi Cheolhan | Weon Seongjin | Win | B+2.5 | 6.5 | 
-| 2003-12-10 | 第47期国手戦（韓国）挑戦者決定戦第2局 | Choi Cheolhan |  | Win | B+R | 6.5 | 
-| 2003-12-08 | 第8期バッカス杯天元戦決勝五番勝負第2局 | Weon Seongjin | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2003-12-06 | 第1回韓国ドリームリーグ | Choi Myeonghun | Choi Cheolhan | Win | W+4.5 | 6.5 | 
-| 2003-12-03 | 第47期国手戦（韓国）挑戦者決定戦第1局 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2003-11-28 | 第8期バッカス杯天元戦決勝五番勝負第1局 | Choi Cheolhan | Weon Seongjin | Lose | W+1.5 | 6.5 | 
-| 2003-11-24 | 第15期棋聖戦（韓国）2回戦 | Choi Cheolhan | An Joyeong | Win | B+R | 6.5 | 
-| 2003-11-08 | 第1回韓国ドリームリーグ | Choi Cheolhan | Kim Myeongwan | Lose | W+R | 6.5 | 
-| 2003-10-29 | 第8期バッカス杯天元戦準決勝 | Choi Cheolhan | Cho Hunhyun | Win | B+R | 6.5 | 
-| 2003-10-18 | 第1回韓国ドリームリーグ | Choi Cheolhan | Choi Kyubyeong | Win | B+R | 6.5 | 
-| 2003-10-15 | 第47期国手戦（韓国）勝者組決勝 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2003-10-06 | 第14期BCカード杯新人王戦 | An Joyeong | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2003-10-02 | 第15期棋聖戦（韓国）1回戦 | Cho Hunhyun | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2003-09-17 | 第14期BCカード杯新人王戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2003-09-08 | 第47期国手戦（韓国）本戦2回戦 | Paek Daehyun | Choi Cheolhan | Win | W+15.5 | 6.5 | 
-| 2003-09-06 | 第1回韓国ドリームリーグ | Choi Cheolhan | Mok Jinseok | Lose | W+R | 6.5 | 
-| 2003-09-04 | 第14期BCカード杯新人王戦 | Park Cheongsang | Choi Cheolhan | Win | W+11.5 | 6.5 | 
-| 2003-08-29 | 第8期三星杯2回戦 | Choi Cheolhan | Xie He | Lose | W+R | 6.5 | 
-| 2003-08-27 | 第8期三星杯1回戦 | Choi Cheolhan | Chang Hao | Win | B+2.5 | 6.5 | 
-| 2003-08-14 | 第8期バッカス杯天元戦2回戦 | Choi Cheolhan | An Joyeong | Win | B+R | 6.5 | 
-| 2003-08-09 | 第1回韓国ドリームリーグ | Choi Cheolhan |  | Win | B+R | 6.5 | 
-| 2003-08-04 | 第8期三星杯予選決勝 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2003-07-08 | 第47期国手戦（韓国）本戦1回戦 | Choi Cheolhan | Cho Hunhyun | Win | B+11.5 | 6.5 | 
-| 2003-04-04 | 第8期バッカス杯天元戦1回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2003-04-03 | 第3期オスラムコリア杯新鋭連勝最強戦予選 |  | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2003-03-14 | 第37期覇王戦本戦第19局 | Lee Changho | Choi Cheolhan | Lose | B+0.5 | 6.5 | 
-| 2003-03-07 | 第37期覇王戦本戦第18局 | Choi Cheolhan | Hong Minpyo | Win | B+R | 6.5 | 
-| 2003-02-19 | 第3回KAT杯韓国囲碁最強戦 | Choi Cheolhan | An Younggil | Win | B+R | 6.5 | 
-| 2003-01-29 | 第37期王位戦予選 | Choi Cheolhan | Park Cheongsang | Lose | W+R | 6.5 | 
-| 2003-01-07 | 第3回KAT杯韓国囲碁最強戦 | Choi Cheolhan | Paek Daehyun | Win | B+R | 6.5 | 
-| 2002-12-09 | 第7期SKガス杯新鋭プロ十傑戦予選 | Choi Cheolhan | Weon Seongjin | Lose | W+R | 6.5 | 
-| 2002-10-14 | 第46期国手戦（韓国）敗者復活戦2回戦 | Paek Daehyun | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2002-10-05 | 2002年国際新鋭囲碁対抗戦第3戦 | Choi Cheolhan | Peng Quan | Win | B+4.5 | 6.5 | 
-| 2002-09-23 | 第2期KT杯マスターズプロ棋戦2回戦 | Park Yeonghun | Choi Cheolhan | Lose | B+1.5 | 6.5 | 
-| 2002-09-06 | 第46期国手戦（韓国）本戦2回戦 | Choi Cheolhan | Cho Hanseung | Lose | W+R | 6.5 | 
-| 2002-08-28 | 第7期三星杯1回戦 | Choi Cheolhan | Wang Yuhui | Lose | W+6.5 | 6.5 | 
-| 2002-08-05 | 第13期BCカード杯新人王戦 | Kim Myeongwan | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2002-07-29 | 第7期三星杯予選決勝 | Ryu Chaehyeong | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2002-06-25 | 第4回農心杯韓国選抜戦 | Park Yeonghun | Choi Cheolhan | Lose | B+0.5 | 6.5 | 
-| 2002-04-08 | 第1期KTF杯戦 | Park Yeonghun | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2002-04-02 | 第1期KTF杯戦 | Choi Cheolhan | Kim Seungjun | Win | B+R | 6.5 | 
-| 2002-03-07 | 第1期KT杯マスターズプロ棋戦決勝三番勝負第3局 | Cho Hunhyun | Choi Cheolhan | Lose | B+18.5 | 6.5 | 
-| 2002-02-22 | 第1期KTF杯戦 | Seo Bongsoo | Choi Cheolhan | Win | W+5.5 | 6.5 | 
-| 2002-02-21 | 第1期KT杯マスターズプロ棋戦決勝三番勝負第2局 | Cho Hunhyun | Choi Cheolhan | Win | W+13.5 | 6.5 | 
-| 2002-02-15 | 第1期KT杯マスターズプロ棋戦決勝三番勝負第1局 | Choi Cheolhan | Cho Hunhyun | Lose | W+15.5 | 6.5 | 
-| 2002-02-05 | 第1期KT杯マスターズプロ棋戦準決勝 | Seo Nungwuk | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2002-01-08 | 第1期KT杯マスターズプロ棋戦4回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 
-| 2002-01-03 | 第1期KTF杯戦 | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 
-| 2002-01-02 | 第21回KBS杯囲碁王戦本戦1回戦 | Choi Cheolhan |  | Lose | W+R | 6.5 | 
-| 2001-12-13 | 第1期KTF杯戦 | Lee Huiseong | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2001-12-07 | 第1期KT杯マスターズプロ棋戦3回戦 | Choi Cheolhan | An Joyeong | Win | B+0.5 | 6.5 | 
-| 2001-10-18 | 第3回農心辛ラーメン杯世界囲碁最強戦第4戦 | Choi Cheolhan | Luo Xihe | Lose | W+R | 6.5 | 
-| 2001-10-17 | 第3回農心辛ラーメン杯世界囲碁最強戦第3戦 | Choi Cheolhan | Kobayashi Koichi | Win | B+0.5 | 6.5 | 
-| 2001-10-16 | 第3回農心辛ラーメン杯世界囲碁最強戦第2戦 | Choi Cheolhan | Shao Weigang | Win | B+R | 6.5 | 
-| 2001-10-09 | 第1期KT杯マスターズプロ棋戦2回戦 | Choi Cheolhan | Weon Seongjin | Lose | W+R | 6.5 | 
-| 2001-09-27 | 第45期国手戦（韓国）敗者復活戦1回戦 | Choi Cheolhan |  | Lose | W+R | 6.5 | 
-| 2001-07-19 | 第45期国手戦（韓国）本戦1回戦 | Choi Cheolhan | Yoo Changhyuk | Lose | W+R | 6.5 | 
-| 2001-06-15 | 第6期バッカス杯天元戦2回戦 | Choi Cheolhan |  | Lose | W+0.5 | 6.5 | 
-| 2001-04-20 | 第6期バッカス杯天元戦1回戦 | Choi Cheolhan | Ryu Chaehyeong | Win | B+R | 6.5 | 
-| 2000-11-10 | 第44期国手戦（韓国）敗者復活戦2回戦 | Kim Seungjun | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2000-10-20 | 第2回農心辛ラーメン杯世界囲碁最強戦第4戦 | Kobayashi Satoru | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2000-10-19 | 第2回農心辛ラーメン杯世界囲碁最強戦第3戦 | Liu Jing | Choi Cheolhan | Win | W+1.5 | 6.5 | 
-| 2000-10-18 | 第2回農心辛ラーメン杯世界囲碁最強戦第2戦 | O Meien | Choi Cheolhan | Win | W+7.5 | 6.5 | 
-| 2000-10-17 | 第2回農心辛ラーメン杯世界囲碁最強戦第1戦 | Choi Cheolhan | Yu Ping | Win | B+R | 6.5 | 
-| 2000-10-13 | 第44期国手戦（韓国）本戦2回戦 | Choi Cheolhan | Lee Changho | Lose | W+R | 6.5 | 
-| 2000-07-14 | 第44期国手戦（韓国）本戦1回戦 | Choi Cheolhan |  | Win | B+R | 6.5 | 
-| 2000-07-12 | 第19回KBS杯囲碁王戦敗者復活戦2回戦 | Yoo Changhyuk | Choi Cheolhan | Lose | B+4.5 | 6.5 | 
-| 2000-06-01 | 第8期倍達王戦1回戦 | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 
-| 2000-02-22 | 第19回KBS杯囲碁王戦本戦2回戦 | Choi Cheolhan | Lee Changho | Lose | W+R | 6.5 |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-16 | 第4期韓国竜星戦3回戦 | Hong Mujin | Choi Cheolhan | Lose | B+R | 6.5 | 3355 | -45 | 
+| 2021-05-28 | 第26回GSカルテックス杯プロ棋戦2回戦 | An Sungjoon | Choi Cheolhan | Lose | B+R | 6.5 | 3400 | -16 | 
+| 2021-05-14 | 第44期名人戦（韓国）2回戦 | Choi Cheolhan | An Sungjoon | Win | B+R | 6.5 | 3416 | -14 | 
+| 2021-04-23 | 第26回GSカルテックス杯プロ棋戦1回戦 | Choi Cheolhan | Heo Yongho | Win | B+R | 6.5 | 3430 | 30 | 
+| 2021-04-21 | 第4期韓国竜星戦2回戦 | Kim Sedong | Choi Cheolhan | Win | W+9.5 | 6.5 | 3400 | -114 | 
+| 2021-03-20 | 2020-2021韓国囲碁リーグプレーオフ第2戦 | Kang Dongyun | Choi Cheolhan | Lose | B+R | 6.5 | 3514 | -6 | 
+| 2021-03-19 | 2020-2021韓国囲碁リーグプレーオフ第1戦 | Park Hamin | Choi Cheolhan | Lose | B+R | 6.5 | 3520 | -11 | 
+| 2021-03-17 | 2020-2021韓国囲碁リーグ準プレーオフ | Choi Cheolhan | Yun Junsang | Win | B+R | 6.5 | 3531 | 12 | 
+| 2021-03-12 | 第44期名人戦（韓国）1回戦 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 3519 | 34 | 
+| 2021-02-27 | 2020-2021韓国囲碁リーグ | Kim Jiseok | Choi Cheolhan | Win | W+R | 6.5 | 3485 | -12 | 
+| 2021-02-19 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | An Jungki | Win | B+R | 6.5 | 3497 | 7 | 
+| 2021-02-15 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Lee Donghoon | Lose | W+R | 6.5 | 3490 | -81 | 
+| 2021-02-13 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | Paek Hongseok | Win | B+R | 6.5 | 3571 | 16 | 
+| 2021-02-10 | 第4期韓国竜星戦1回戦 | Kim Eunseon | Choi Cheolhan | Win | W+R | 6.5 | 3555 | 9 | 
+| 2021-02-07 | 2020-2021韓国囲碁リーグ | Lee Yeongkyu | Choi Cheolhan | Lose | B+R | 6.5 | 3546 | -49 | 
+| 2021-01-28 | 2020-2021韓国囲碁リーグ | Han Sanghoon | Choi Cheolhan | Lose | B+R | 6.5 | 3595 | 3 | 
+| 2021-01-22 | 2020-2021韓国囲碁リーグ | Park Jinsol | Choi Cheolhan | Win | W+R | 6.5 | 3592 | -28 | 
+| 2021-01-17 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | Cho Hanseung | Lose | W+0.5 | 6.5 | 3620 | 13 | 
+| 2021-01-12 | 第44期名人戦（韓国）予選 | Choi Cheolhan |  | Win | B+R | 6.5 | 3607 | 1 | 
+| 2021-01-10 | 2020-2021韓国囲碁リーグ | Lee Wondo | Choi Cheolhan | Win | W+R | 6.5 | 3606 | 38 | 
+| 2021-01-04 | 第22回マキシムコーヒー杯入神最強戦1回戦 | An Sungjoon | Choi Cheolhan | Win | W+R | 6.5 | 3568 | 6 | 
+| 2021-01-02 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | Heo Yongho | Lose | W+R | 6.5 | 3562 | -21 | 
+| 2020-12-25 | 2020-2021韓国囲碁リーグ | Wen Rubin | Choi Cheolhan | Lose | B+R | 6.5 | 3583 | -9 | 
+| 2020-12-17 | 2020-2021韓国囲碁リーグ | Shen Zaiyi | Choi Cheolhan | Lose | B+R | 6.5 | 3592 | -58 | 
+| 2020-12-13 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | An Sungjoon | Win | B+R | 6.5 | 3650 | 19 | 
+| 2020-12-11 | 第26期GSカルテックス杯プロ棋戦予選 | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 3631 | 1 | 
+| 2020-12-08 | 第26期GSカルテックス杯プロ棋戦予選 | Choi Cheolhan | Choi Jeong | Win | B+R | 6.5 | 3630 | 15 | 
+| 2020-12-05 | 2020-2021韓国囲碁リーグ | Park Jinsol | Choi Cheolhan | Win | W+R | 6.5 | 3615 | 5 | 
+| 2020-11-26 | 2020-2021韓国囲碁リーグ | Cho Hanseung | Choi Cheolhan | Lose | B+R | 6.5 | 3610 | 10 | 
+| 2020-11-22 | 2020年中国囲碁乙級リーグ | Choi Cheolhan |  | Win | B+3¾ | 7.5 | 3600 | -10 | 
+| 2020-11-21 | 2020年中国囲碁乙級リーグ | Choi Cheolhan |  | Win | B+R | 7.5 | 3610 | 35 | 
+| 2020-11-20 | 2020年中国囲碁乙級リーグ | Choi Cheolhan | Wang Haoyang | Lose | W+R | 7.5 | 3575 | 15 | 
+| 2020-11-19 | 2020年中国囲碁乙級リーグ | Mao Ruilong | Choi Cheolhan | Lose | B+¾ | 7.5 | 3560 | -25 | 
+| 2020-11-17 | 2020年中国囲碁乙級リーグ | Choi Cheolhan |  | Lose | W+R | 7.5 | 3585 | 6 | 
+| 2020-11-16 | 2020年中国囲碁乙級リーグ |  | Choi Cheolhan | Lose | B+R | 7.5 | 3579 | 3 | 
+| 2020-11-15 | 2020年中国囲碁乙級リーグ | Choi Cheolhan |  | Win | B+R | 7.5 | 3576 | -21 | 
+| 2020-11-14 | 2020年中国囲碁乙級リーグ | Park Sangjin | Choi Cheolhan | Win | W+¼ | 7.5 | 3597 | 51 | 
+| 2020-09-24 | 第22回農心杯韓国選抜戦 | Choi Cheolhan | Lee Yeongkyu | Lose | W+R | 6.5 | 3546 | 294 | 
+| 2020-04-22 | 第25回LG杯韓国予選 | On Sojin | Choi Cheolhan | Lose | B+1.5 | 6.5 | 3252 | -17 | 
+| 2020-04-20 | 第25回LG杯韓国予選 | Kim Hyeongwoo | Choi Cheolhan | Win | W+R | 6.5 | 3269 | 8 | 
+| 2020-04-14 | 第25回LG杯韓国予選 | Park Taehee | Choi Cheolhan | Win | W+R | 6.5 | 3261 | 85 | 
+| 2020-03-12 | 第25期GSカルテックス杯プロ棋戦24強戦 | Park Yeonghun | Choi Cheolhan | Lose | B+R | 6.5 | 3176 | -15 | 
+| 2020-02-25 | 第21回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Byun Sangil | Lose | W+R | 6.5 | 3191 | -236 | 
+| 2020-02-08 | 2019-2020韓国囲碁リーグ準プレーオフ第2戦第4局 | Choi Cheolhan | Lee Hoseong | Win | B+R | 6.5 | 3427 | 11 | 
+| 2020-02-06 | 2019-2020韓国囲碁リーグワイルドカード決定戦第2戦第4局 | Kim Myounghoon | Choi Cheolhan | Win | W+R | 6.5 | 3416 | 8 | 
+| 2020-02-04 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Heo Yongho | Choi Cheolhan | Win | W+R | 6.5 | 3408 | 6 | 
+| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第4試合第5局 | Shin Jinseo | Choi Cheolhan | Lose | B+R | 6.5 | 3402 | -6 | 
+| 2020-01-21 | 第9回応氏杯世界選手権韓国選抜戦 | Choi Cheolhan | Kang Dongyun | Lose | W+R | 7.5 | 3408 | -23 | 
+| 2020-01-20 | 第9回応氏杯世界選手権韓国選抜戦 | Weon Seongjin | Choi Cheolhan | Win | W+R | 7.5 | 3431 | 3 | 
+| 2020-01-16 | 2019-2020韓国囲碁リーグ第16節第1試合第4局 | Ryu Suhang | Choi Cheolhan | Win | W+R | 6.5 | 3428 | 8 | 
+| 2020-01-10 | 2019-2020韓国囲碁リーグ第15節第2試合第4局 | Wen Rubin | Choi Cheolhan | Lose | B+R | 6.5 | 3420 | -10 | 
+| 2020-01-07 | 第3期韓国竜星戦予選決勝 | Kim Jiseok | Choi Cheolhan | Lose | B+1.5 | 6.5 | 3430 | -22 | 
+| 2020-01-04 | 2019-2020韓国囲碁リーグ第14節第3試合第2局 | Park Yeonghun | Choi Cheolhan | Win | W+R | 6.5 | 3452 | 22 | 
+| 2019-12-29 | 2019-2020韓国囲碁リーグ第13節第4試合第3局 | Jin Siyoung | Choi Cheolhan | Win | W+R | 6.5 | 3430 | 305 | 
+| 2019-12-19 | 2019-2020韓国囲碁リーグ第12節第1試合第5局 | Choi Cheolhan | Lee Yeongkyu | Win | B+R | 6.5 | 3125 | 11 | 
+| 2019-12-16 | 第25期GSカルテックス杯プロ棋戦予選決勝 | Choi Cheolhan | Kim Daehee | Win | B+R | 6.5 | 3114 | 5 | 
+| 2019-12-13 | 2019-2020韓国囲碁リーグ第11節第2試合第1局 | Choi Cheolhan | An Jungki | Lose | W+0.5 | 6.5 | 3109 | -21 | 
+| 2019-12-11 | 第25期GSカルテックス杯プロ棋戦予選 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 3130 | 15 | 
+| 2019-12-08 | 2019-2020韓国囲碁リーグ第10節第4試合第2局 | Choi Cheolhan |  | Win | B+R | 6.5 | 3115 | 7 | 
+| 2019-11-28 | 2019-2020韓国囲碁リーグ第9節第1試合第2局 | Choi Cheolhan | Cho Hanseung | Win | B+R | 6.5 | 3108 | 13 | 
+| 2019-11-17 | 2019-2020韓国囲碁リーグ第7節第4試合第2局 | Choi Cheolhan | Weon Seongjin | Win | B+R | 6.5 | 3095 | -29 | 
+| 2019-11-09 | 2019-2020韓国囲碁リーグ第6節第3試合第5局 | Choi Cheolhan | Seol Hyunjun | Lose | W+4.5 | 6.5 | 3124 | -18 | 
+| 2019-11-01 | 2019-2020韓国囲碁リーグ第5節第2試合第3局 | Choi Cheolhan | Park Seunghwa | Win | B+R | 6.5 | 3142 | 77 | 
+| 2019-10-24 | 2019-2020韓国囲碁リーグ第4節第1試合第1局 | Jin Siyoung | Choi Cheolhan | Win | W+R | 6.5 | 3065 | -4 | 
+| 2019-10-20 | 2019-2020韓国囲碁リーグ第3節第4試合第5局 | Shen Zaiyi | Choi Cheolhan | Win | W+R | 6.5 | 3069 | -1 | 
+| 2019-10-05 | 2019-2020韓国囲碁リーグ第2節第3試合第4局 | Kang Dongyun | Choi Cheolhan | Lose | B+5.5 | 6.5 | 3070 | 15 | 
+| 2019-09-26 | 2019-2020韓国囲碁リーグ第1節第1試合第3局 | Choi Cheolhan |  | Win | B+R | 6.5 | 3055 | 81 | 
+| 2019-09-09 | 第3回安東市真貯蓄銀行杯プロアマオープン戦32強戦 | An Jungki | Choi Cheolhan | Lose | B+R | 6.5 | 2974 | -113 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Han Seungjoo | Choi Cheolhan | Lose | B+R | 6.5 | 3087 | 0 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Choi Cheolhan | Kim Hyeongwoo | Win | B+R | 6.5 | 3087 | 21 | 
+| 2019-07-18 | 第21回農心杯韓国選抜戦 | Choi Cheolhan | Lee Jihyun | Lose | W+R | 6.5 | 3066 | -18 | 
+| 2019-07-16 | 第21回農心杯韓国選抜戦 | Choi Cheolhan | Seol Hyunjun | Win | B+R | 6.5 | 3084 | -37 | 
+| 2019-06-27 | 第6回国手山脈韓国国内トーナメント予選 | Park Minkyu | Choi Cheolhan | Win | W+R | 6.5 | 3121 | -2 | 
+| 2019-06-05 | 第6回国手山脈杯韓国選抜戦2回戦 | Choi Cheolhan | Shin Minjun | Lose | W+R | 6.5 | 3123 | 0 | 
+| 2019-06-05 | 第6回国手山脈杯韓国選抜戦1回戦 | Choi Cheolhan | Kim Myounghoon | Win | B+1.5 | 6.5 | 3123 | 70 | 
+| 2019-05-24 | 第4回夢百合杯統合予選決勝 | Li Xuanhao | Choi Cheolhan | Lose | B+R | 7.5 | 3053 | -80 | 
+| 2019-03-28 | 第24期GSカルテックス杯8強戦 | Choi Cheolhan | Kim Jiseok | Lose | W+R | 6.5 | 3133 | 1 | 
+| 2019-03-08 | 第24期GSカルテックス杯16強戦 | Lee Donghoon | Choi Cheolhan | Win | W+R | 6.5 | 3132 | 11 | 
+| 2019-03-04 | 第20回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Paek Hongseok | Lose | W+R | 6.5 | 3121 | -30 | 
+| 2019-02-17 | 2019年韓中囲碁リーグチャンピオンズカップ第2戦 | Choi Cheolhan | Huang Yunsong | Lose | W+R | 6.5 | 3151 | -6 | 
+| 2019-02-16 | 2019年韓中囲碁リーグチャンピオンズカップ第1戦 | Mi Yuting | Choi Cheolhan | Win | W+R | 6.5 | 3157 | 12 | 
+| 2019-02-07 | 第24期GSカルテックス杯24強戦 | Choi Cheolhan | Lee Hyeonjun | Win | B+R | 6.5 | 3145 | -16 | 
+| 2019-01-08 | 第20回マキシムコーヒー杯入神最強戦1回戦 | Choi Cheolhan | Song Taekon | Win | B+R | 6.5 | 3161 | -33 | 
+| 2018-11-23 | 第20回農心辛ラーメン杯世界囲碁最強戦第5戦 | Fan Tingyu | Choi Cheolhan | Lose | B+R | 6.5 | 3194 | 4 | 
+| 2018-11-17 | 2018年韓国囲碁リーグ優勝決定戦第2戦 | Choi Cheolhan | Han Seungjoo | Win | B+R | 6.5 | 3190 | 0 | 
+| 2018-11-16 | 2018年韓国囲碁リーグ優勝決定戦第1戦 | Kim Myounghoon | Choi Cheolhan | Win | W+3.5 | 6.5 | 3190 | -1 | 
+| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節成都-浙江 | Qin Yuexin | Choi Cheolhan | Lose | B+R | 7.5 | 3191 | -37 | 
+| 2018-10-05 | 2018年韓国囲碁リーグ第14節 | Choi Cheolhan | Cho Hanseung | Lose | W+R | 6.5 | 3228 | -9 | 
+| 2018-09-28 | 2018年韓国囲碁リーグ第13節 | Choi Cheolhan | Park Minkyu | Win | B+R | 6.5 | 3237 | -21 | 
+| 2018-09-21 | 第1回天府杯世界囲碁選手権A組1回戦 | Chen Yaoye | Choi Cheolhan | Lose | B+R | 7.5 | 3258 | -5 | 
+| 2018-09-14 | 2018年韓国囲碁リーグ第11節 | Kang Dongyun | Choi Cheolhan | Lose | B+7.5 | 6.5 | 3263 | -7 | 
+| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節中信-成都 | Choi Cheolhan | Chen Yaoye | Lose | W+R | 7.5 | 3270 | -14 | 
+| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節成都-天津 | Choi Cheolhan | Tang Weixing | Lose | W+R | 7.5 | 3284 | -2 | 
+| 2018-09-08 | 第20回中国囲碁甲級リーグ第14節廈門-成都 | Zhou Ruiyang | Choi Cheolhan | Lose | B+R | 7.5 | 3286 | -36 | 
+| 2018-09-01 | 2018年韓国囲碁リーグ第10節 | Park Junghwan | Choi Cheolhan | Lose | B+R | 6.5 | 3322 | 15 | 
+| 2018-08-26 | 2018年韓国囲碁リーグ第9節 | Choi Cheolhan | Kim Myounghoon | Lose | W+R | 6.5 | 3307 | -7 | 
+| 2018-08-21 | 第1回天府杯韓国選抜戦決勝 | Choi Cheolhan | Lee Sedol | Win | B+R | 6.5 | 3314 | 8 | 
+| 2018-08-20 | 第1回天府杯韓国選抜戦1回戦 | Park Yeonghun | Choi Cheolhan | Win | W+R | 6.5 | 3306 | -7 | 
+| 2018-08-16 | 2018年韓国囲碁リーグ第8節 | Han Sanghoon | Choi Cheolhan | Win | W+R | 6.5 | 3313 | 5 | 
+| 2018-08-15 | 第20回中国囲碁甲級リーグ第13節上海-成都 | Choi Cheolhan | Hu Yaoyu | Lose | W+R | 7.5 | 3308 | -11 | 
+| 2018-08-13 | 第20回中国囲碁甲級リーグ第12節成都-山東 | Jiang Weijie | Choi Cheolhan | Lose | B+¾ | 7.5 | 3319 | 16 | 
+| 2018-08-11 | 2018年韓国囲碁リーグ第7節 | Choi Cheolhan | Kim Seongjae | Win | B+R | 6.5 | 3303 | 17 | 
+| 2018-08-06 | 第20回中国囲碁甲級リーグ第11節衢州-成都 | Choi Cheolhan | Hu Yuhan | Lose | W+R | 7.5 | 3286 | -10 | 
+| 2018-08-04 | 2018年韓国囲碁リーグ第6節 | Lee Yeongkyu | Choi Cheolhan | Lose | B+R | 6.5 | 3296 | -37 | 
+| 2018-07-28 | 第5回国手山脈杯韓国国内トーナメント32強戦 | Lee Yeongkyu | Choi Cheolhan | Lose | B+R | 6.5 | 3333 | -13 | 
+| 2018-07-25 | 第20回農心杯韓国選抜戦 | Choi Cheolhan | Kang Dongyun | Win | B+R | 6.5 | 3346 | 6 | 
+| 2018-07-24 | 第20回農心杯韓国選抜戦 | Choi Cheolhan | Shin Minjun | Win | B+0.5 | 6.5 | 3340 | 28 | 
+| 2018-07-21 | 弈決崆峒世界道教名山戦8強戦 | Tuo Jiaxi | Choi Cheolhan | Lose | B+R | 7.5 | 3312 | -20 | 
+| 2018-07-16 | 第20回中国囲碁甲級リーグ第10節成都-民生 | Choi Cheolhan | Shen Peiran | Win | B+R | 7.5 | 3332 | 20 | 
+| 2018-07-14 | 2018年韓国囲碁リーグ第4節 | Park Hamin | Choi Cheolhan | Win | W+R | 6.5 | 3312 | 17 | 
+| 2018-07-07 | 第23回三星火災杯統合予選決勝 | Choi Cheolhan | Tao Xinran | Lose | W+R | 6.5 | 3295 | -9 | 
+| 2018-07-06 | 第23回三星火災杯統合予選準決勝 | Rong Yi | Choi Cheolhan | Win | W+R | 6.5 | 3304 | 14 | 
+| 2018-06-29 | 2018年韓国囲碁リーグ第3節 | Choi Cheolhan | Park Junghwan | Lose | W+R | 6.5 | 3290 | -7 | 
+| 2018-06-25 | 第20回中国囲碁甲級リーグ第9節蘇泊爾-成都 | Choi Cheolhan | Xie Ke | Win | B+R | 7.5 | 3297 | -2 | 
+| 2018-06-21 | 2018年韓国囲碁リーグ第2節 | Park Jinsol | Choi Cheolhan | Win | W+R | 6.5 | 3299 | 25 | 
+| 2018-06-17 | 2018年韓国囲碁リーグ第1節 | Choi Cheolhan | Lee Sedol | Win | B+R | 6.5 | 3274 | -43 | 
+| 2018-05-28 | 第23回LG杯朝鮮日報棋王戦1回戦 | Shi Yue | Choi Cheolhan | Lose | B+R | 6.5 | 3317 | -49 | 
+| 2018-05-14 | 第20回中国囲碁甲級リーグ第6節成都-江西 | Choi Cheolhan | Xu Jiayang | Lose | W+R | 7.5 | 3366 | -7 | 
+| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節成都-杭州 | Choi Cheolhan |  | Win | B+R | 7.5 | 3373 | 8 | 
+| 2018-04-30 | 第5回国手山脈杯韓国選抜戦 | Choi Cheolhan | Park Yeonghun | Lose | W+R | 6.5 | 3365 | 5 | 
+| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節重慶-成都 | Choi Cheolhan | Tan Xiao | Lose | W+¼ | 7.5 | 3360 | -11 | 
+| 2018-04-07 | 第23回LG杯予選決勝 | Tuo Jiaxi | Choi Cheolhan | Win | W+R | 6.5 | 3371 | -87 | 
+| 2018-03-13 | 第19回マキシムコーヒー杯入神最強戦3回戦 | Choi Cheolhan | Kim Jiseok | Lose | W+R | 6.5 | 3458 | 16 | 
+| 2018-03-10 | 第17回西南棋王戦準決勝 | Choi Cheolhan | Mi Yuting | Lose | W+¼ | 7.5 | 3442 | -4 | 
+| 2018-03-09 | 第17回西南棋王戦2回戦 | Mao Ruilong | Choi Cheolhan | Win | W+2¼ | 7.5 | 3446 | 0 | 
+| 2018-03-09 | 第17回西南棋王戦1回戦 | Choi Cheolhan | Dang Yifei | Win | B+R | 7.5 | 3446 | 8 | 
+| 2018-02-13 | 韓国ナショナルチームリーグ戦 | Kang Dongyun | Choi Cheolhan | Lose | B+R | 6.5 | 3438 | -15 | 
+| 2018-02-06 | 第19回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Kang Dongyun | Win | B+R | 6.5 | 3453 | 0 | 
+| 2018-02-06 | 韓国ナショナルチームリーグ戦 | Choi Cheolhan | Shin Jinseo | Lose | W+R | 6.5 | 3453 | 4 | 
+| 2018-02-05 | 第19回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Kang Dongyun | Win | B+R | 6.5 | 3449 | 39 | 
+| 2018-01-09 | 第19回マキシムコーヒー杯入神最強戦1回戦 | Choi Cheolhan | Kim Juho | Win | B+1.5 | 6.5 | 3410 | 7 | 
+| 2018-01-05 | 韓国ナショナルチームリーグ戦 | Choi Cheolhan | Shin Minjun | Win | B+R | 6.5 | 3403 | 24 | 
+| 2017-12-13 | 第36回KBS杯囲碁王戦16強戦 | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 3379 | -1 | 
+| 2017-12-03 | 2017年韓国囲碁リーグ優勝決定戦第3戦 | Choi Cheolhan | Shin Jinseo | Lose | W+R | 6.5 | 3380 | -8 | 
+| 2017-12-02 | 2017年韓国囲碁リーグ優勝決定戦第2戦 | Kim Myounghoon | Choi Cheolhan | Lose | B+R | 6.5 | 3388 | -7 | 
+| 2017-12-01 | 2017年韓国囲碁リーグ優勝決定戦第1戦 | Choi Cheolhan | Shin Jinseo | Win | B+R | 6.5 | 3395 | 23 | 
+| 2017-11-29 | 2017年韓国囲碁リーグプレーオフ第3戦 | Hong Kipyo | Choi Cheolhan | Lose | B+R | 6.5 | 3372 | -13 | 
+| 2017-11-23 | 2017年韓国囲碁リーグプレーオフ第2戦 | Choi Cheolhan | Kang Seungmin | Lose | W+R | 6.5 | 3385 | -5 | 
+| 2017-11-22 | 2017年韓国囲碁リーグプレーオフ第1戦 | Choi Cheolhan | Hong Kipyo | Win | B+R | 6.5 | 3390 | 9 | 
+| 2017-11-13 | 第22回LG杯朝鮮日報棋王戦準々決勝 | Choi Cheolhan | Xie Erhao | Lose | W+R | 6.5 | 3381 | -37 | 
+| 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Choi Cheolhan | Sun Tengyu | Win | B+R | 7.5 | 3418 | -18 | 
+| 2017-10-30 | 第19回中国囲碁甲級リーグ第22節 | Choi Cheolhan | Chen Zhengxun | Win | B+R | 7.5 | 3436 | 3 | 
+| 2017-10-26 | 2017年韓国囲碁リーグ | Choi Cheolhan | Paek Hongseok | Win | B+R | 6.5 | 3433 | 29 | 
+| 2017-10-21 | 2017年韓国囲碁リーグ | Choi Cheolhan | Choi Jeong | Win | B+R | 6.5 | 3404 | 7 | 
+| 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Choi Cheolhan | Liu Xing | Win | B+R | 7.5 | 3397 | 36 | 
+| 2017-10-14 | 2017年韓国囲碁リーグ | Han Wonggyu | Choi Cheolhan | Lose | B+R | 6.5 | 3361 | -29 | 
+| 2017-10-06 | 2017年韓国囲碁リーグ | Shin Minjun | Choi Cheolhan | Win | W+R | 6.5 | 3390 | 5 | 
+| 2017-10-01 | 2017年韓国囲碁リーグ | Choi Cheolhan | Han Sanghoon | Lose | W+R | 6.5 | 3385 | -5 | 
+| 2017-09-22 | 2017年韓国囲碁リーグ | Choi Cheolhan | Choi Jaeyoung | Lose | W+R | 6.5 | 3390 | -4 | 
+| 2017-09-18 | 韓国国家隊循環戦 | Park Geunho | Choi Cheolhan | Win | W+R | 6.5 | 3394 | 2 | 
+| 2017-09-17 | 2017年韓国囲碁リーグ | Choi Cheolhan | Han Seungjoo | Win | B+R | 6.5 | 3392 | 27 | 
+| 2017-09-03 | 2017年韓国囲碁リーグ | Choi Cheolhan | Seol Hyunjun | Win | B+R | 6.5 | 3365 | -5 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Ding Hao | Choi Cheolhan | Lose | B+R | 7.5 | 3370 | -10 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Choi Cheolhan | Rong Yi | Win | B+R | 7.5 | 3380 | 8 | 
+| 2017-08-20 | 2017年韓国囲碁リーグ | Kang Seungmin | Choi Cheolhan | Lose | B+R | 6.5 | 3372 | -14 | 
+| 2017-08-11 | 2017年韓国囲碁リーグ | Heo Yongho | Choi Cheolhan | Win | W+2.5 | 6.5 | 3386 | 10 | 
+| 2017-08-04 | 2017年韓国囲碁リーグ | An Sungjoon | Choi Cheolhan | Win | W+1.5 | 6.5 | 3376 | 1 | 
+| 2017-07-22 | 2017年韓国囲碁リーグ | Ryu Minhyung | Choi Cheolhan | Lose | B+R | 6.5 | 3375 | -17 | 
+| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Fan Yunruo | Choi Cheolhan | Win | W+R | 7.5 | 3392 | 37 | 
+| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Choi Cheolhan | Gu Zihao | Lose | W+R | 7.5 | 3355 | -13 | 
+| 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Tang Weixing | Choi Cheolhan | Lose | B+R | 7.5 | 3368 | -16 | 
+| 2017-07-13 | 第19回農心杯韓国選抜戦 | Choi Cheolhan | Kim Myounghoon | Lose | W+13.5 | 6.5 | 3384 | 0 | 
+| 2017-07-13 | 2017年韓国囲碁リーグ | Choi Cheolhan | Cho Hanseung | Win | B+R | 6.5 | 3384 | -10 | 
+| 2017-07-08 | 2017年韓国囲碁リーグ | Choi Cheolhan | Kang Yootaek | Lose | W+R | 6.5 | 3394 | 0 | 
+| 2017-07-03 | 第22回三星火災杯統合予選決勝 | Gu Zihao | Choi Cheolhan | Lose | B+2.5 | 6.5 | 3394 | -23 | 
+| 2017-07-01 | 第22回三星火災杯統合予選3回戦 | Choi Cheolhan | Cao Xiaoyang | Win | B+R | 6.5 | 3417 | 5 | 
+| 2017-06-21 | 第3回夢百合杯世界オープン戦2回戦 | Lee Sedol | Choi Cheolhan | Lose | B+R | 7.5 | 3412 | -20 | 
+| 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Choi Cheolhan | Yin Qu | Win | B+R | 7.5 | 3432 | -9 | 
+| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Choi Cheolhan | Mi Yuting | Win | B+R | 7.5 | 3441 | 43 | 
+| 2017-06-08 | 2017年韓国囲碁リーグ | Choi Cheolhan | Park Jinsol | Win | B+R | 6.5 | 3398 | 16 | 
+| 2017-06-01 | 2017年韓国囲碁リーグ | Han Taehee | Choi Cheolhan | Lose | B+R | 6.5 | 3382 | -24 | 
+| 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Chen Yaoye | Choi Cheolhan | Win | W+4.5 | 6.5 | 3406 | -9 | 
+| 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 3415 | 51 | 
+| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Liu Xing | Choi Cheolhan | Win | W+R | 7.5 | 3364 | -14 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Choi Cheolhan | Xia Chenkun | Win | B+R | 7.5 | 3378 | 6 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Rong Yi | Choi Cheolhan | Win | W+R | 7.5 | 3372 | 38 | 
+| 2017-04-17 | 第18回マキシムコーヒー杯入神最強戦準決勝 | Choi Cheolhan | Park Junghwan | Lose | W+R | 6.5 | 3334 | 114 | 
+| 2017-03-14 | 第18回マキシムコーヒー杯入神最強戦3回戦 | Choi Cheolhan | Hong Seongji | Win | B+2.5 | 6.5 | 3220 | 18 | 
+| 2017-02-27 | 第18回マキシムコーヒー杯入神最強戦2回戦 | Park Cheongsang | Choi Cheolhan | Win | W+R | 6.5 | 3202 | 78 | 
+| 2016-12-11 | 2016年韓国囲碁リーグ | Kim Seongjae | Choi Cheolhan | Win | W+R | 6.5 | 3124 | -6 | 
+| 2016-12-04 | 2016年韓国囲碁リーグ | Choi Cheolhan | Kim Seongjae | Win | B+3.5 | 6.5 | 3130 | 9 | 
+| 2016-12-01 | 2016年韓国囲碁リーグ | Choi Cheolhan | Lee Donghoon | Lose | W+R | 6.5 | 3121 | -3 | 
+| 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Choi Cheolhan | Zhou Hexi | Win | B+R | 7.5 | 3124 | 6 | 
+| 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 |  | Choi Cheolhan | Win | W+R | 7.5 | 3118 | 11 | 
+| 2016-11-12 | 第18回中国囲碁甲級リーグ第18節 | Choi Cheolhan | Meng Tailing | Win | B+R | 7.5 | 3107 | -54 | 
+| 2016-11-04 | 2016金立杯全国囲棋甲級聯戦第17回戦 | Choi Cheolhan | Tong Mengcheng | Win | B+1.5 | 7.5 | 3161 | 24 | 
+| 2016-10-28 | 第18回中国囲碁甲級リーグ第16節 | Choi Cheolhan | Tan Xiao | Lose | W+0.5 | 7.5 | 3137 | 26 | 
+| 2016-10-23 | 2016年韓国囲碁リーグ | Choi Cheolhan | Kang Yootaek | Lose | W+R | 6.5 | 3111 | -40 | 
+| 2016-10-16 | 2016年韓国囲碁リーグ | Park Seunghwa | Choi Cheolhan | Win | W+R | 6.5 | 3151 | 38 | 
+| 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Ke Jie | Choi Cheolhan | Lose | B+R | 7.5 | 3113 | -12 | 
+| 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Choi Cheolhan | Shi Yue | Win | B+R | 7.5 | 3125 | 19 | 
+| 2016-09-29 | 2016年韓国囲碁リーグ | Choi Cheolhan | An Sungjoon | Win | B+1.5 | 6.5 | 3106 | -10 | 
+| 2016-09-23 | 2016年韓国囲碁リーグ第14節 | An Joyeong | Choi Cheolhan | Win | W+R | 6.5 | 3116 | -80 | 
+| 2016-09-17 | 2016年韓国囲碁リーグ第13節 | Lee Sedol | Choi Cheolhan | Lose | B+2.5 | 6.5 | 3196 | -18 | 
+| 2016-09-12 | 2016金立杯囲棋甲級リーグ戦聯戦第13R | Jiang Weijie | Choi Cheolhan | Win | W+R | 7.5 | 3214 | 9 | 
+| 2016-09-04 | 2016年韓国囲碁リーグ第12節 | Choi Cheolhan | Ryu Minhyung | Win | B+R | 6.5 | 3205 | -9 | 
+| 2016-08-27 | 2016年韓国囲碁リーグ第11節 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 3214 | 28 | 
+| 2016-08-20 | 2016年韓国囲碁リーグ第10節 | Choi Cheolhan | Kim Jiseok | Win | B+R | 6.5 | 3186 | 11 | 
+| 2016-08-11 | 2016年韓国囲碁リーグ第9節 | Kim Seongjae | Choi Cheolhan | Win | W+R | 6.5 | 3175 | -40 | 
+| 2016-07-28 | 2016年韓国囲碁リーグ第8節 | Weon Seongjin | Choi Cheolhan | Win | W+0.5 | 6.5 | 3215 | -62 | 
+| 2016-07-22 | 第18回農心杯韓国選抜戦 | Kim Junghyun | Choi Cheolhan | Win | W+R | 6.5 | 3277 | 23 | 
+| 2016-07-19 | 第21回三星火災杯統合予選準決勝 | Choi Cheolhan | Li Xuanhao | Lose | W+R | 6.5 | 3254 | 4 | 
+| 2016-07-12 | 第18回農心杯韓国選抜戦 | Choi Cheolhan | Park Jinsol | Win | B+R | 6.5 | 3250 | 77 | 
+| 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Choi Cheolhan | Chen Yaoye | Lose | W+R | 7.5 | 3173 | -4 | 
+| 2016-06-25 | 2016年韓国囲碁リーグ第5節 | Choi Cheolhan | Lee Yeongkyu | Lose | W+R | 6.5 | 3177 | -31 | 
+| 2016-06-20 | 第18回中国囲碁甲級リーグ第9節 | Zhou Hexi | Choi Cheolhan | Win | W+R | 7.5 | 3208 | 10 | 
+| 2016-06-17 | 2016年韓国囲碁リーグ第4節 | An Jungki | Choi Cheolhan | Lose | B+R | 6.5 | 3198 | -18 | 
+| 2016-06-16 | 第18回中国囲碁甲級リーグ第8節 | Choi Cheolhan | Xie Ke | Win | B+R | 7.5 | 3216 | 18 | 
+| 2016-06-09 | 2016年韓国囲碁リーグ第3節 | Choi Cheolhan | Lee Jihyun | Win | B+R | 6.5 | 3198 | 10 | 
+| 2016-06-06 | 第18回中国囲碁甲級リーグ第7節 | Tang Weixing | Choi Cheolhan | Win | W+R | 7.5 | 3188 | 13 | 
+| 2016-06-03 | 2016年韓国囲碁リーグ第2節 | Park Jinsol | Choi Cheolhan | Lose | B+R | 6.5 | 3175 | 36 | 
+| 2016-05-26 | 第1回新奥杯世界囲碁オープン戦予選 | Gu Zihao | Choi Cheolhan | Lose | B+R | 7.5 | 3139 | -4 | 
+| 2016-05-22 | 第18回中国囲碁甲級リーグ第6節 | Choi Cheolhan | Mi Yuting | Lose | W+0.5 | 7.5 | 3143 | -3 | 
+| 2016-05-20 | 2016年韓国囲碁リーグ第1節 | Choi Cheolhan | Heo Yongho | Lose | W+1.5 | 6.5 | 3146 | 30 | 
+| 2016-05-16 | 第18回中国囲碁甲級リーグ第5節 | Tan Xiao | Choi Cheolhan | Win | W+R | 7.5 | 3116 | -47 | 
+| 2016-05-09 | 第18回中国囲碁甲級リーグ第4節 | Choi Cheolhan | Niu Yutian | Win | B+R | 7.5 | 3163 | 2 | 
+| 2016-04-30 | 第18回中国囲碁甲級リーグ第3節 | Shi Yue | Choi Cheolhan | Lose | B+1.5 | 7.5 | 3161 | 39 | 
+| 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Choi Cheolhan | Zhou Ruiyang | Lose | W+R | 7.5 | 3122 | -4 | 
+| 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Gu Zihao | Choi Cheolhan | Win | W+R | 7.5 | 3126 | 16 | 
+| 2016-04-03 | 第21回LG杯予選 | Choi Cheolhan | Sun Tengyu | Win | B+R | 6.5 | 3110 | -16 | 
+| 2016-02-28 | 第21期GSカルテックス杯プロ棋戦2回戦 | Weon Seongjin | Choi Cheolhan | Lose | B+R | 6.5 | 3126 | -69 | 
+| 2016-02-01 | 第17回マキシムコーヒー杯入神最強戦2回戦 | Weon Seongjin | Choi Cheolhan | Lose | B+R | 6.5 | 3195 | -46 | 
+| 2016-01-08 | 第8回応氏杯世界選手権韓国選抜戦 | Lee Donghoon | Choi Cheolhan | Lose | B+5 | 7.5 | 3241 | 2 | 
+| 2015-11-29 | 第17回農心辛ラーメン杯世界囲碁最強戦第7戦 | Choi Cheolhan | Gu Li | Lose | W+R | 6.5 | 3239 | -12 | 
+| 2015-11-28 | 第17回農心辛ラーメン杯世界囲碁最強戦第6戦 | Ida Atsushi | Choi Cheolhan | Win | W+R | 6.5 | 3251 | 4 | 
+| 2015-11-27 | 第17回農心辛ラーメン杯世界囲碁最強戦第5戦 | Choi Cheolhan | Wu Guangya | Win | B+R | 6.5 | 3247 | 30 | 
+| 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 | Choi Cheolhan |  | Lose | W+R | 7.5 | 3217 | -19 | 
+| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Choi Cheolhan | Yang Dingxin | Lose | W+R | 7.5 | 3236 | -17 | 
+| 2015-10-14 | 2015年レッツランパーク杯オープントーナメント2回戦 | Lee Jihyun | Choi Cheolhan | Lose | B+R | 6.5 | 3253 | 23 | 
+| 2015-10-01 | 2015年韓国囲碁リーグ |  | Choi Cheolhan | Win | W+R | 6.5 | 3230 | 2 | 
+| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Lee Wonyoung | Choi Cheolhan | Win | W+R | 6.5 | 3228 | -5 | 
+| 2015-09-26 | 2015年韓国囲碁リーグ | Choi Cheolhan | Shin Yoonho | Win | B+R | 6.5 | 3233 | 27 | 
+| 2015-09-19 | 2015年韓国囲碁リーグ | Kim Myounghoon | Choi Cheolhan | Win | W+R | 6.5 | 3206 | -25 | 
+| 2015-09-10 | 第20回三星火災杯世界囲碁マスターズ1回戦A3 | Yu Zhiying | Choi Cheolhan | Lose | B+0.5 | 6.5 | 3231 | -15 | 
+| 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦A2 | Mok Jinseok | Choi Cheolhan | Win | W+R | 6.5 | 3246 | 9 | 
+| 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦A1 | Choi Cheolhan | Tang Weixing | Lose | W+3.5 | 6.5 | 3237 | 1 | 
+| 2015-09-04 | 2015年韓国囲碁リーグ | Choi Cheolhan | Kim Kiyoung | Win | B+R | 6.5 | 3236 | -2 | 
+| 2015-09-02 | 第43期名人戦（韓国）予選 |  | Choi Cheolhan | Lose | B+R | 6.5 | 3238 | 5 | 
+| 2015-08-30 | 2015年韓国囲碁リーグ | Choi Cheolhan | You Byungyong | Win | B+R | 6.5 | 3233 | -13 | 
+| 2015-08-21 | 2015年韓国囲碁リーグ | Park Junghwan | Choi Cheolhan | Win | W+R | 6.5 | 3246 | 11 | 
+| 2015-08-16 | 2015年韓国囲碁リーグ | Choi Cheolhan | Lee Taehyun | Win | B+R | 6.5 | 3235 | 5 | 
+| 2015-08-03 | 第20回三星火災杯統合予選2回戦 | Choi Cheolhan | Liao Xingwen | Win | B+1.5 | 6.5 | 3230 | 2 | 
+| 2015-07-26 | 2015年韓国囲碁リーグ | Lee Hobum | Choi Cheolhan | Win | W+R | 6.5 | 3228 | -34 | 
+| 2015-07-21 | 第17回農心杯韓国選抜戦 | Ahn Kukhyun | Choi Cheolhan | Win | W+R | 6.5 | 3262 | 0 | 
+| 2015-07-20 | 第17回農心杯韓国選抜戦 | Choi Cheolhan | Shin Jinseo | Win | B+R | 6.5 | 3262 | -5 | 
+| 2015-07-17 | 第17回農心杯韓国選抜戦 | Choi Cheolhan | Choi Jeong | Win | B+1.5 | 6.5 | 3267 | 6 | 
+| 2015-07-16 | 第17回農心杯韓国選抜戦 | Kim Juho | Choi Cheolhan | Win | W+R | 6.5 | 3261 | 21 | 
+| 2015-07-05 | 2015年韓国囲碁リーグ | Park Seunghwa | Choi Cheolhan | Win | W+R | 6.5 | 3240 | -6 | 
+| 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 |  | Choi Cheolhan | Lose | B+R | 7.5 | 3246 | -17 | 
+| 2015-06-26 | 2015年韓国囲碁リーグ | Weon Seongjin | Choi Cheolhan | Win | W+R | 6.5 | 3263 | -104 | 
+| 2015-06-15 | 第59期国手戦（韓国）1回戦 | Lee Jihyun | Choi Cheolhan | Lose | B+R | 6.5 | 3367 | -6 | 
+| 2015-06-13 | 2015年韓国囲碁リーグ | Kim Junghyun | Choi Cheolhan | Win | W+R | 6.5 | 3373 | 31 | 
+| 2015-06-10 | 第20回LG杯朝鮮日報棋王戦2回戦 | Choi Cheolhan | Ke Jie | Lose | W+R | 6.5 | 3342 | -18 | 
+| 2015-06-08 | 第20回LG杯朝鮮日報棋王戦1回戦 | Choi Cheolhan | Takao Shinji | Win | B+0.5 | 6.5 | 3360 | -16 | 
+| 2015-05-28 | 2015年韓国囲碁リーグ | Choi Cheolhan | Kim Jiseok | Lose | W+R | 6.5 | 3376 | -6 | 
+| 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Choi Cheolhan | Zhang Tao | Win | B+R | 7.5 | 3382 | -16 | 
+| 2015-05-16 | 2015年韓国囲碁リーグ | Choi Cheolhan | Park Minkyu | Win | B+R | 6.5 | 3398 | 4 | 
+| 2015-05-07 | 2015年韓国囲碁リーグ | Kim Sedong | Choi Cheolhan | Lose | B+R | 6.5 | 3394 | -2 | 
+| 2015-05-05 | 第16回マキシムコーヒー杯入神最強戦決勝三番勝負第3局 | Choi Cheolhan | Hong Seongji | Win | B+R | 6.5 | 3396 | 17 | 
+| 2015-04-30 | 2015年韓国囲碁リーグ | Cho Hanseung | Choi Cheolhan | Win | W+R | 6.5 | 3379 | 9 | 
+| 2015-04-29 | 第16回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Hong Seongji | Choi Cheolhan | Win | W+R | 6.5 | 3370 | 53 | 
+| 2015-04-22 | 第17回中国囲碁甲級リーグ第1節 | Mi Yuting | Choi Cheolhan | Lose | B+R | 7.5 | 3317 | -1 | 
+| 2015-04-20 | 第16回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Choi Cheolhan | Hong Seongji | Lose | W+1.5 | 6.5 | 3318 | 11 | 
+| 2015-04-02 | 第20期GSカルテックス杯プロ棋戦決勝五番勝負第4局 | Choi Cheolhan | Mok Jinseok | Lose | W+2.5 | 6.5 | 3307 | -11 | 
+| 2015-04-01 | 第20期GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Mok Jinseok | Choi Cheolhan | Lose | B+R | 6.5 | 3318 | -14 | 
+| 2015-03-31 | 第20期GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Choi Cheolhan | Mok Jinseok | Lose | W+R | 6.5 | 3332 | -9 | 
+| 2015-03-30 | 第20期GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Mok Jinseok | Choi Cheolhan | Win | W+R | 6.5 | 3341 | -10 | 
+| 2015-03-23 | 第16回マキシムコーヒー杯入神最強戦準決勝 | Kim Jiseok | Choi Cheolhan | Win | W+R | 6.5 | 3351 | -124 | 
+| 2015-03-11 | 第20期GSカルテックス杯プロ棋戦準決勝 | Lee Donghoon | Choi Cheolhan | Win | W+R | 6.5 | 3475 | -86 | 
+| 2015-02-26 | 第20期GSカルテックス杯プロ棋戦3回戦 | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 3561 | 39 | 
+| 2015-02-16 | 第16回マキシムコーヒー杯入神最強戦3回戦 | Choi Cheolhan | Lee Sedol | Win | B+R | 6.5 | 3522 | 18 | 
+| 2015-02-12 | 第20期GSカルテックス杯プロ棋戦2回戦 | Choi Cheolhan |  | Win | B+R | 6.5 | 3504 | 57 | 
+| 2015-01-27 | 第16回マキシムコーヒー杯入神最強戦2回戦 | Choi Kyubyeong | Choi Cheolhan | Win | W+R | 6.5 | 3447 | 2 | 
+| 2014-12-15 | 第33回KBS杯囲碁王戦敗者復活戦3回戦 | An Sungjoon | Choi Cheolhan | Lose | B+R | 6.5 | 3445 | 9 | 
+| 2014-11-22 | 第16回中国囲碁甲級リーグ第21節 | Tuo Jiaxi | Choi Cheolhan | Lose | B+R | 7.5 | 3436 | 15 | 
+| 2014-11-19 | 第19回LG杯朝鮮日報棋王戦準決勝 | Kim Jiseok | Choi Cheolhan | Lose | B+5.5 | 6.5 | 3421 | 6 | 
+| 2014-11-17 | 第19回LG杯朝鮮日報棋王戦3回戦 | Choi Cheolhan | Fan Tingyu | Win | B+R | 6.5 | 3415 | 5 | 
+| 2014-11-09 | 第16回中国囲碁甲級リーグ第19節 | Mi Yuting | Choi Cheolhan | Lose | B+R | 7.5 | 3410 | 48 | 
+| 2014-11-04 | 第19期バッカス杯天元戦2回戦 | Choi Cheolhan | Shin Minjun | Lose | W+R | 6.5 | 3362 | 43 | 
+| 2014-10-31 | 第16回中国囲碁甲級リーグ第18節 | Choi Cheolhan | Shi Yue | Win | B+R | 7.5 | 3319 | -10 | 
+| 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 | Zhang Tao | Choi Cheolhan | Win | W+R | 7.5 | 3329 | 2 | 
+| 2014-10-20 | 第33回KBS杯囲碁王戦敗者復活戦1回戦 | Kim Myounghoon | Choi Cheolhan | Win | W+R | 6.5 | 3327 | 8 | 
+| 2014-10-17 | 2014年韓国囲碁リーグ | Mok Jinseok | Choi Cheolhan | Win | W+R | 6.5 | 3319 | -4 | 
+| 2014-10-13 | 第58期国手戦（韓国）2回戦 | Park Minkyu | Choi Cheolhan | Lose | B+R | 6.5 | 3323 | -55 | 
+| 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Meng Tailing | Choi Cheolhan | Win | W+R | 7.5 | 3378 | -11 | 
+| 2014-10-02 | 2014年韓国囲碁リーグ | Choi Cheolhan | Han Wonggyu | Win | B+1.5 | 6.5 | 3389 | 0 | 
+| 2014-09-30 | 第19期バッカス杯天元戦1回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 3389 | -10 | 
+| 2014-09-24 | 2014年レッツランパーク杯オープントーナメント2回戦 | Kim Seongjae | Choi Cheolhan | Lose | B+R | 6.5 | 3399 | -10 | 
+| 2014-09-16 | 第2回百霊杯世界オープン戦4回戦 | Choi Cheolhan | Ke Jie | Lose | W+R | 7.5 | 3409 | -3 | 
+| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Choi Cheolhan | Fan Yunruo | Win | B+R | 7.5 | 3412 | 38 | 
+| 2014-09-11 | 2014年韓国囲碁リーグ | Choi Cheolhan | Kim Jiseok | Lose | W+R | 6.5 | 3374 | 5 | 
+| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Yang Dingxin | Choi Cheolhan | Lose | B+1.5 | 7.5 | 3369 | -2 | 
+| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Choi Cheolhan | Liao Xingwen | Win | B+R | 7.5 | 3371 | -6 | 
+| 2014-08-31 | 2014年韓国囲碁リーグ | Kang Dongyun | Choi Cheolhan | Lose | B+R | 6.5 | 3377 | 0 | 
+| 2014-08-28 | 第19回三星火災杯世界囲碁マスターズ1回戦B3 | Choi Cheolhan | Tang Weixing | Lose | W+0.5 | 6.5 | 3377 | 3 | 
+| 2014-08-27 | 第19回三星火災杯世界囲碁マスターズ1回戦B2 | Chen Yaoye | Choi Cheolhan | Win | W+R | 6.5 | 3374 | -4 | 
+| 2014-08-26 | 第19回三星火災杯世界囲碁マスターズ1回戦B1 | Tang Weixing | Choi Cheolhan | Lose | B+R | 6.5 | 3378 | -23 | 
+| 2014-08-17 | 第16回農心杯韓国選抜戦 | An Sungjoon | Choi Cheolhan | Lose | B+R | 6.5 | 3401 | 0 | 
+| 2014-08-15 | 第42期名人戦（韓国）1回戦 | Kang Dongyun | Choi Cheolhan | Lose | B+R | 6.5 | 3401 | -10 | 
+| 2014-08-13 | 第58期国手戦（韓国）1回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 3411 | -22 | 
+| 2014-07-30 | 2014年レッツランパーク杯オープントーナメント1回戦 | Kim Hyeongwan | Choi Cheolhan | Win | W+6.5 | 6.5 | 3433 | -9 | 
+| 2014-07-26 | 2014年韓国囲碁リーグ | Kim Myounghoon | Choi Cheolhan | Win | W+R | 6.5 | 3442 | 3 | 
+| 2014-07-24 | 第2回百霊杯世界オープン戦3回戦 | Zhang Tao | Choi Cheolhan | Win | W+R | 7.5 | 3439 | 1 | 
+| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Choi Cheolhan | Park Minkyu | Win | B+R | 7.5 | 3438 | 6 | 
+| 2014-07-16 | 第10期物価情報杯プロ棋戦リーグB | Choi Cheolhan | Jin Siyoung | Lose | W+R | 6.5 | 3432 | -14 | 
+| 2014-07-14 | 第16回農心杯韓国選抜戦 | Choi Cheolhan | Kang Seungmin | Win | B+R | 6.5 | 3446 | 17 | 
+| 2014-07-11 | 2014年韓国囲碁リーグ | Kim Seongjae | Choi Cheolhan | Lose | B+R | 6.5 | 3429 | 4 | 
+| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Tan Xiao | Choi Cheolhan | Lose | B+5.5 | 7.5 | 3425 | -14 | 
+| 2014-07-06 | 2014年韓国囲碁リーグ | Ahn Kukhyun | Choi Cheolhan | Win | W+R | 6.5 | 3439 | 3 | 
+| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Choi Cheolhan | Chen Yaoye | Win | B+R | 7.5 | 3436 | 29 | 
+| 2014-06-30 | 第33回KBS杯囲碁王戦本戦2回戦 | Lee Donghoon | Choi Cheolhan | Lose | B+R | 6.5 | 3407 | -1 | 
+| 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Gu Lingyi | Choi Cheolhan | Lose | B+3.5 | 7.5 | 3408 | 6 | 
+| 2014-06-21 | 2014年韓国囲碁リーグ |  | Choi Cheolhan | Win | W+R | 6.5 | 3402 | -2 | 
+| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Shi Yue | Choi Cheolhan | Lose | B+3.5 | 7.5 | 3404 | 21 | 
+| 2014-06-11 | 第19回LG杯朝鮮日報棋王戦2回戦 | Xie He | Choi Cheolhan | Win | W+1.5 | 6.5 | 3383 | 17 | 
+| 2014-06-09 | 第19回LG杯朝鮮日報棋王戦1回戦 | Mi Yuting | Choi Cheolhan | Win | W+R | 6.5 | 3366 | 24 | 
+| 2014-06-07 | 2014年韓国囲碁リーグ | Choi Cheolhan |  | Lose | W+3.5 | 6.5 | 3342 | -11 | 
+| 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Jiang Weijie | Choi Cheolhan | Lose | B+R | 7.5 | 3353 | 6 | 
+| 2014-05-28 | 第10期物価情報杯プロ棋戦リーグB | Choi Cheolhan | Lee Changho | Lose | W+R | 6.5 | 3347 | 47 | 
+| 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Choi Cheolhan | Peng Quan | Win | B+R | 7.5 | 3300 | 5 | 
+| 2014-05-17 | 2014年韓国囲碁リーグ | Lee Taehyun | Choi Cheolhan | Win | W+0.5 | 6.5 | 3295 | 0 | 
+| 2014-05-09 | 2014年韓国囲碁リーグ | Lee Jihyun | Choi Cheolhan | Win | W+R | 6.5 | 3295 | -73 | 
+| 2014-04-25 | 2014年韓国囲碁リーグ | Kim Myounghoon | Choi Cheolhan | Win | W+R | 6.5 | 3368 | -29 | 
+| 2014-04-16 | 第19期GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Choi Cheolhan | Kim Jiseok | Lose | W+R | 6.5 | 3397 | -12 | 
+| 2014-04-09 | 第19期GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Kim Jiseok | Choi Cheolhan | Lose | B+R | 6.5 | 3409 | -3 | 
+| 2014-04-08 | 第19期GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Choi Cheolhan | Kim Jiseok | Lose | W+R | 6.5 | 3412 | -8 | 
+| 2014-04-03 | 第19期GSカルテックス杯プロ棋戦準決勝 | Choi Cheolhan | Park Junghwan | Win | B+R | 6.5 | 3420 | 19 | 
+| 2014-03-28 | 第10回春蘭杯世界囲碁選手権2回戦 | Mi Yuting | Choi Cheolhan | Lose | B+R | 7.5 | 3401 | 8 | 
+| 2014-03-23 | 第4期招商地産杯中韓囲棋団体対抗戦第2戦 | Choi Cheolhan | Tang Weixing | Lose | W+R | 7.5 | 3393 | -4 | 
+| 2014-03-21 | 第4期招商地産杯中韓囲棋団体対抗戦第1戦 | Shi Yue | Choi Cheolhan | Lose | B+R | 7.5 | 3397 | -9 | 
+| 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Choi Cheolhan | Wang Yuanjun | Win | B+1.5 | 7.5 | 3406 | 33 | 
+| 2014-03-16 | 第2回百霊杯世界オープン戦予選 | Choi Cheolhan | Luo Xihe | Win | B+R | 7.5 | 3373 | -3 | 
+| 2014-03-12 | 第19期GSカルテックス杯プロ棋戦3回戦 | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 3376 | 7 | 
+| 2014-03-06 | 第15回マキシムコーヒー杯入神最強戦3回戦 | Weon Seongjin | Choi Cheolhan | Lose | B+R | 6.5 | 3369 | -11 | 
+| 2014-02-20 | 第19期GSカルテックス杯プロ棋戦2回戦 | Choi Cheolhan | Heo Yongho | Win | B+R | 6.5 | 3380 | -39 | 
+| 2014-01-24 | 第15回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Seo Bongsoo | Win | B+R | 6.5 | 3419 | -52 | 
+| 2014-01-14 | 第18期バッカス杯天元戦決勝三番勝負第2局 | Choi Cheolhan | Park Junghwan | Lose | W+R | 6.5 | 3471 | -4 | 
+| 2014-01-09 | 第18期バッカス杯天元戦決勝三番勝負第1局 | Park Junghwan | Choi Cheolhan | Lose | B+R | 6.5 | 3475 | 49 | 
+| 2013-12-15 | 第41期名人戦（韓国）決勝五番勝負第5局 | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 3426 | 20 | 
+| 2013-12-14 | 第41期名人戦（韓国）決勝五番勝負第4局 | Choi Cheolhan | Lee Sedol | Lose | W+1.5 | 6.5 | 3406 | -40 | 
+| 2013-12-05 | 第15回農心辛ラーメン杯世界囲碁最強戦第8戦 | Chen Yaoye | Choi Cheolhan | Lose | B+18.5 | 6.5 | 3446 | 23 | 
+| 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 | Choi Cheolhan | Shi Yue | Win | B+R | 7.5 | 3423 | 19 | 
+| 2013-11-26 | 第41期名人戦（韓国）決勝五番勝負第3局 | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 3404 | 17 | 
+| 2013-11-23 | 第15回中国囲碁甲級リーグ第21節 | Tong Yulin | Choi Cheolhan | Win | W+R | 7.5 | 3387 | 4 | 
+| 2013-11-18 | 第32回KBS杯囲碁王戦敗者復活戦3回戦 | Choi Cheolhan | Lee Huiseong | Lose | W+R | 6.5 | 3383 | -11 | 
+| 2013-11-16 | 第15回中国囲碁甲級リーグ第20節 | Choi Cheolhan | Tang Weixing | Lose | W+R | 7.5 | 3394 | -15 | 
+| 2013-11-14 | 2013年韓国囲碁リーグ | Han Sanghoon | Choi Cheolhan | Win | W+0.5 | 6.5 | 3409 | 32 | 
+| 2013-11-12 | 第41期名人戦（韓国）決勝五番勝負第2局 | Choi Cheolhan | Lee Sedol | Win | B+R | 6.5 | 3377 | 9 | 
+| 2013-11-11 | 第41期名人戦（韓国）決勝五番勝負第1局 | Lee Sedol | Choi Cheolhan | Lose | B+4.5 | 6.5 | 3368 | 4 | 
+| 2013-11-05 | 第18期バッカス杯天元戦準決勝 | Park Yeonghun | Choi Cheolhan | Win | W+R | 6.5 | 3364 | 0 | 
+| 2013-11-02 | 第15回中国囲碁甲級リーグ第19節 | Choi Cheolhan | Liu Xing | Win | B+R | 7.5 | 3364 | -1 | 
+| 2013-11-01 | 2013年韓国囲碁リーグ | Na Hyun | Choi Cheolhan | Win | W+R | 6.5 | 3365 | 12 | 
+| 2013-10-28 | 第32回KBS杯囲碁王戦敗者復活戦2回戦 | Ryu Chaehyeong | Choi Cheolhan | Win | W+R | 6.5 | 3353 | 3 | 
+| 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 | Choi Cheolhan | Chen Yaoye | Win | B+R | 7.5 | 3350 | 23 | 
+| 2013-10-20 | 第15回中国囲碁甲級リーグ第17節 | Jiang Weijie | Choi Cheolhan | Lose | B+R | 7.5 | 3327 | -2 | 
+| 2013-10-18 | 第57期国手戦（韓国）2回戦 | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 3329 | -34 | 
+| 2013-10-15 | 第41期名人戦（韓国）準決勝 | Choi Cheolhan | Paek Hongseok | Win | B+R | 6.5 | 3363 | 4 | 
+| 2013-10-13 | 第15回中国囲碁甲級リーグ第16節 |  | Choi Cheolhan | Win | W+R | 7.5 | 3359 | 6 | 
+| 2013-10-11 | 第4期Olleh杯オープン選手権4回戦 | Kang Yootaek | Choi Cheolhan | Lose | B+R | 6.5 | 3353 | -16 | 
+| 2013-10-10 | 2013年韓国囲碁リーグ | Choi Cheolhan |  | Win | B+R | 6.5 | 3369 | -35 | 
+| 2013-10-06 | 2013年韓国囲碁リーグ | Lee Chungyu | Choi Cheolhan | Win | W+0.5 | 6.5 | 3404 | -24 | 
+| 2013-10-02 | 第41期名人戦（韓国）2回戦 | An Sungjoon | Choi Cheolhan | Win | W+R | 6.5 | 3428 | 3 | 
+| 2013-09-30 | 第3回スポーツアコードワールドマインドゲームズ囲碁韓国予選 | Cho Hanseung | Choi Cheolhan | Lose | B+R | 6.5 | 3425 | -22 | 
+| 2013-09-26 | 第57期国手戦（韓国）1回戦 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 3447 | -1 | 
+| 2013-09-25 | 第3回スポーツアコードワールドマインドゲームズ囲碁韓国予選 | Lee Yeongkyu | Choi Cheolhan | Win | W+0.5 | 6.5 | 3448 | 4 | 
+| 2013-09-21 | 2013年韓国囲碁リーグ | Kim Sedong | Choi Cheolhan | Lose | B+2.5 | 6.5 | 3444 | -110 | 
+| 2013-09-17 | 第18期バッカス杯天元戦2回戦 | Choi Cheolhan | Ahn Kukhyun | Win | B+R | 6.5 | 3554 | -28 | 
+| 2013-09-12 | 第15回中国囲碁甲級リーグ第15節 | Chang Hao | Choi Cheolhan | Win | W+R | 7.5 | 3582 | 42 | 
+| 2013-09-10 | 第41期名人戦（韓国）1回戦 | Choi Cheolhan | Mok Jinseok | Win | B+R | 6.5 | 3540 | -1 | 
+| 2013-09-07 | 第15回中国囲碁甲級リーグ第14節 | Choi Cheolhan | Mi Yuting | Lose | W+R | 7.5 | 3541 | -10 | 
+| 2013-09-05 | 第18回三星火災杯世界囲碁マスターズ1回戦D3 | Ke Jie | Choi Cheolhan | Lose | B+R | 6.5 | 3551 | 6 | 
+| 2013-09-04 | 第18回三星火災杯世界囲碁マスターズ1回戦D2 | Kim Jiseok | Choi Cheolhan | Lose | B+R | 6.5 | 3545 | 7 | 
+| 2013-09-03 | 第18回三星火災杯世界囲碁マスターズ1回戦D1 | Tuo Jiaxi | Choi Cheolhan | Win | W+2.5 | 6.5 | 3538 | 16 | 
+| 2013-09-01 | 第15回中国囲碁甲級リーグ第13節 | Ke Jie | Choi Cheolhan | Win | W+R | 7.5 | 3522 | 1 | 
+| 2013-08-26 | 第32回KBS杯囲碁王戦敗者復活戦1回戦 | Choi Cheolhan | Shin Yoonho | Win | B+R | 6.5 | 3521 | -6 | 
+| 2013-08-22 | 2013年韓国囲碁リーグ | Lee Wonyoung | Choi Cheolhan | Lose | B+2.5 | 6.5 | 3527 | -33 | 
+| 2013-08-20 | 第18期バッカス杯天元戦1回戦 | Kim Seongjae | Choi Cheolhan | Win | W+R | 6.5 | 3560 | 3 | 
+| 2013-08-16 | 第4期Olleh杯オープン選手権3回戦 | Choi Cheolhan | Song Taekon | Win | B+R | 6.5 | 3557 | -19 | 
+| 2013-08-09 | 第1回夢百合杯世界オープン戦3回戦 | Lian Xiao | Choi Cheolhan | Lose | B+1.5 | 7.5 | 3576 | 60 | 
+| 2013-08-01 | 第15回農心杯韓国選抜戦 | Choi Cheolhan | Kang Dongyun | Lose | W+R | 6.5 | 3516 | -2 | 
+| 2013-07-30 | 第41期名人戦（韓国）予選 | Kang Changbae | Choi Cheolhan | Win | W+1.5 | 6.5 | 3518 | 10 | 
+| 2013-07-28 | 2013年韓国囲碁リーグ | Choi Cheolhan | Han Sanghoon | Win | B+R | 6.5 | 3508 | -18 | 
+| 2013-07-24 | 第15回農心杯韓国選抜戦 | Choi Cheolhan |  | Win | B+2.5 | 6.5 | 3526 | 53 | 
+| 2013-07-17 | 第15回農心杯韓国選抜戦 | Shin Jinseo | Choi Cheolhan | Win | W+R | 6.5 | 3473 | 10 | 
+| 2013-07-15 | 第15回中国囲碁甲級リーグ第11節 | Shi Yue | Choi Cheolhan | Win | W+R | 7.5 | 3463 | -10 | 
+| 2013-07-11 | 第1回夢百合杯世界オープン戦2回戦 | Choi Cheolhan |  | Win | B+R | 7.5 | 3473 | 53 | 
+| 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 | Song Ronghui | Choi Cheolhan | Win | W+R | 7.5 | 3420 | 28 | 
+| 2013-07-01 | 第32回KBS杯囲碁王戦本戦2回戦 | Han Sanghoon | Choi Cheolhan | Lose | B+R | 6.5 | 3392 | -8 | 
+| 2013-06-29 | 2013年韓国囲碁リーグ | An Sungjoon | Choi Cheolhan | Lose | Void | 6.5 | 3400 | 29 | 
+| 2013-06-22 | 第15回中国囲碁甲級リーグ第9節 | Tang Weixing | Choi Cheolhan | Win | W+R | 7.5 | 3371 | -61 | 
+| 2013-06-18 | 第15回中国囲碁甲級リーグ第8節 | Choi Cheolhan | Liu Xing | Win | B+R | 7.5 | 3432 | 48 | 
+| 2013-06-13 | 第9期物価情報杯プロ棋戦リーグD | Kim Hyeongwoo | Choi Cheolhan | Lose | B+R | 6.5 | 3384 | -16 | 
+| 2013-06-10 | 第18回LG杯朝鮮日報棋王戦1回戦 | Zhou Ruiyang | Choi Cheolhan | Lose | B+R | 6.5 | 3400 | -50 | 
+| 2013-06-02 | 第15回中国囲碁甲級リーグ第7節 | Chen Yaoye | Choi Cheolhan | Win | W+R | 7.5 | 3450 | 91 | 
+| 2013-05-30 | 2013年韓国囲碁リーグ | Park Junsuck | Choi Cheolhan | Lose | B+R | 6.5 | 3359 | 9 | 
+| 2013-05-23 | 第1回夢百合杯世界オープン戦予選 | Yang Dingxin | Choi Cheolhan | Win | W+R | 7.5 | 3350 | -16 | 
+| 2013-05-18 | 第15回中国囲碁甲級リーグ第6節 | Choi Cheolhan | Zhou Ruiyang | Win | B+R | 7.5 | 3366 | 7 | 
+| 2013-05-10 | 2013年韓国囲碁リーグ |  | Choi Cheolhan | Lose | B+1.5 | 6.5 | 3359 | -15 | 
+| 2013-05-05 | 2013年韓国囲碁リーグ | Choi Cheolhan | Min Sangyoun | Win | B+R | 6.5 | 3374 | 2 | 
+| 2013-05-04 | 第15回中国囲碁甲級リーグ第3節 | Li Kang | Choi Cheolhan | Win | W+0.5 | 7.5 | 3372 | 4 | 
+| 2013-05-02 | 第9期物価情報杯プロ棋戦リーグD | Choi Cheolhan |  | Lose | W+R | 6.5 | 3368 | -28 | 
+| 2013-04-25 | 第9期物価情報杯プロ棋戦予選 | Choi Cheolhan | Shin Minjun | Win | B+R | 6.5 | 3396 | 9 | 
+| 2013-04-20 | 第18回LG杯予選 | Choi Cheolhan |  | Win | B+7.5 | 6.5 | 3387 | 0 | 
+| 2013-04-20 | 2013年韓国囲碁リーグ | Choi Cheolhan | Kim Junghyun | Lose | W+2.5 | 6.5 | 3387 | -2 | 
+| 2013-04-07 | 第15回中国囲碁甲級リーグ第2節 | Tong Mengcheng | Choi Cheolhan | Win | W+0.5 | 7.5 | 3389 | 0 | 
+| 2013-04-05 | 第15回中国囲碁甲級リーグ第1節 | Gu Li | Choi Cheolhan | Win | W+R | 7.5 | 3389 | -34 | 
+| 2013-03-21 | 第3期招商地産杯中韓囲棋団体対抗戦第2戦 | Choi Cheolhan | Tuo Jiaxi | Lose | W+0.5 | 7.5 | 3423 | -6 | 
+| 2013-03-19 | 第3期招商地産杯中韓囲棋団体対抗戦第1戦 | Fan Tingyu | Choi Cheolhan | Win | W+R | 7.5 | 3429 | 2 | 
+| 2013-03-14 | 第18期GSカルテックス杯プロ棋戦3回戦 | Kim Jiseok | Choi Cheolhan | Lose | B+0.5 | 6.5 | 3427 | -4 | 
+| 2013-03-11 | 第8期圓益杯十段戦4回戦 | Choi Cheolhan | Park Yeonghun | Lose | W+R | 6.5 | 3431 | 37 | 
+| 2013-02-27 | 第14回農心辛ラーメン杯世界囲碁最強戦第12戦 | Choi Cheolhan | Xie He | Lose | W+R | 6.5 | 3394 | -8 | 
+| 2013-02-26 | 第14回農心辛ラーメン杯世界囲碁最強戦第11戦 | Chen Yaoye | Choi Cheolhan | Win | W+R | 6.5 | 3402 | 14 | 
+| 2013-02-23 | 第14回マキシムコーヒー杯入神最強戦準決勝 | Choi Cheolhan | Park Junghwan | Lose | W+R | 6.5 | 3388 | 25 | 
+| 2013-02-18 | 第8期圓益杯十段戦3回戦 | Choi Cheolhan | Kim Sonjin | Win | B+R | 6.5 | 3363 | -5 | 
+| 2013-02-13 | 第18期GSカルテックス杯プロ棋戦2回戦 | Choi Cheolhan | Kang Yootaek | Win | B+R | 6.5 | 3368 | 6 | 
+| 2013-01-31 | 第14回マキシムコーヒー杯入神最強戦3回戦 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 3362 | -1 | 
+| 2013-01-17 | 第17期バッカス杯天元戦決勝三番勝負第3局 | Choi Cheolhan | Park Yeonghun | Lose | W+R | 6.5 | 3363 | -6 | 
+| 2013-01-15 | 第17期バッカス杯天元戦決勝三番勝負第2局 | Park Yeonghun | Choi Cheolhan | Lose | B+R | 6.5 | 3369 | -14 | 
+| 2013-01-10 | 第17期バッカス杯天元戦決勝三番勝負第1局 | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 3383 | 57 | 
+| 2012-12-16 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦決勝 | Kang Dongyun | Choi Cheolhan | Win | W+R | 7.5 | 3326 | 4 | 
+| 2012-12-14 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Chen Yaoye | Choi Cheolhan | Win | W+R | 7.5 | 3322 | -22 | 
+| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Choi Cheolhan | Murakawa Daisuke | Win | B+R | 7.5 | 3344 | 0 | 
+| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Choi Cheolhan | Kang Dongyun | Win | B+R | 7.5 | 3344 | -9 | 
+| 2012-12-12 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Choi Cheolhan | Tuo Jiaxi | Win | B+5.5 | 7.5 | 3353 | 22 | 
+| 2012-12-10 | 第14回マキシムコーヒー杯入神最強戦2回戦 | Cho Hunhyun | Choi Cheolhan | Win | W+0.5 | 6.5 | 3331 | 21 | 
+| 2012-12-05 | 第56期国手戦（韓国）挑戦手合五番勝負第3局 | Cho Hanseung | Choi Cheolhan | Lose | B+R | 6.5 | 3310 | -12 | 
+| 2012-12-03 | 第56期国手戦（韓国）挑戦手合五番勝負第2局 | Choi Cheolhan | Cho Hanseung | Lose | W+R | 6.5 | 3322 | -7 | 
+| 2012-12-01 | 第14回農心辛ラーメン杯世界囲碁最強戦第10戦 | Murakawa Daisuke | Choi Cheolhan | Win | W+R | 6.5 | 3329 | -1 | 
+| 2012-11-30 | 第14回農心辛ラーメン杯世界囲碁最強戦第9戦 | Choi Cheolhan | Wang Xi | Win | B+R | 6.5 | 3330 | -314 | 
+| 2012-11-27 | 第17期バッカス杯天元戦準決勝 | Yun Junsang | Choi Cheolhan | Win | W+R | 6.5 | 3644 | 86 | 
+| 2012-11-23 | 第3期Olleh杯オープン選手権決勝五番勝負第4局 | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 3558 | 2 | 
+| 2012-11-22 | 第3期Olleh杯オープン選手権決勝五番勝負第3局 | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 3556 | -44 | 
+| 2012-11-19 | 第56期国手戦（韓国）挑戦手合五番勝負第1局 | Cho Hanseung | Choi Cheolhan | Lose | B+R | 6.5 | 3600 | 41 | 
+| 2012-11-14 | 第17回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 3559 | -8 | 
+| 2012-11-12 | 第17回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 3567 | -2 | 
+| 2012-11-10 | 第14回中国囲碁甲級リーグ第19節 | Choi Cheolhan | Peng Liyao | Win | B+R | 7.5 | 3569 | 11 | 
+| 2012-11-07 | 第17回LG杯世界棋王戦準決勝 | Choi Cheolhan | Weon Seongjin | Lose | W+R | 6.5 | 3558 | 2 | 
+| 2012-11-02 | 第3期Olleh杯オープン選手権決勝五番勝負第2局 | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 3556 | -11 | 
+| 2012-11-01 | 第3期Olleh杯オープン選手権決勝五番勝負第1局 | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 3567 | -9 | 
+| 2012-10-31 | 第40期名人戦（韓国）2回戦 | Choi Cheolhan | Park Yeonghun | Lose | W+0.5 | 6.5 | 3576 | -7 | 
+| 2012-10-30 | 第17期バッカス杯天元戦2回戦 | Choi Cheolhan |  | Win | B+2.5 | 6.5 | 3583 | -2 | 
+| 2012-10-26 | 第3期Olleh杯オープン選手権準決勝 | Kim Jiseok | Choi Cheolhan | Win | W+R | 6.5 | 3585 | 18 | 
+| 2012-10-21 | 第14回中国囲碁甲級リーグ第17節 | Choi Cheolhan | Liu Xing | Lose | W+2.5 | 7.5 | 3567 | -21 | 
+| 2012-10-18 | 第56期国手戦（韓国）挑戦者決定戦第2局 | Choi Cheolhan | Min Sangyoun | Win | B+R | 6.5 | 3588 | 26 | 
+| 2012-10-11 | 第3期Olleh杯オープン選手権準々決勝 | Choi Cheolhan | Cho Hanseung | Win | B+R | 6.5 | 3562 | 9 | 
+| 2012-10-10 | 第17回三星火災杯世界囲碁マスターズ3回戦 | Choi Cheolhan | Fan Tingyu | Win | B+R | 6.5 | 3553 | 4 | 
+| 2012-10-09 | 第17回三星火災杯世界囲碁マスターズ2回戦 | Mi Yuting | Choi Cheolhan | Win | W+R | 6.5 | 3549 | 18 | 
+| 2012-10-04 | 第56期国手戦（韓国）挑戦者決定戦第1局 | Min Sangyoun | Choi Cheolhan | Win | W+R | 6.5 | 3531 | -8 | 
+| 2012-09-30 | 第14回中国囲碁甲級リーグ第16節 | Tan Xiao | Choi Cheolhan | Win | W+R | 7.5 | 3539 | -4 | 
+| 2012-09-28 | 第14回中国囲碁甲級リーグ第15節 | Choi Cheolhan | Li Kang | Lose | W+R | 7.5 | 3543 | -10 | 
+| 2012-09-26 | 第56期国手戦（韓国）準決勝 | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 3553 | 4 | 
+| 2012-09-22 | 2012年韓国囲碁リーグ | Choi Cheolhan | Weon Seongjin | Win | B+R | 6.5 | 3549 | -26 | 
+| 2012-09-20 | 2012年韓国囲碁リーグ | Choi Cheolhan | Na Hyun | Win | B+1.5 | 6.5 | 3575 | -12 | 
+| 2012-09-18 | 第40期名人戦（韓国）1回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 3587 | 17 | 
+| 2012-09-12 | 第16回中韓天元対抗戦第2局 | Chen Yaoye | Choi Cheolhan | Lose | B+R | 6.5 | 3570 | -16 | 
+| 2012-09-10 | 第16回中韓天元対抗戦第1局 | Choi Cheolhan | Chen Yaoye | Lose | W+R | 6.5 | 3586 | 9 | 
+| 2012-09-08 | 第14回中国囲碁甲級リーグ第14節 | Choi Cheolhan | Qiu Jun | Win | B+R | 7.5 | 3577 | 19 | 
+| 2012-09-06 | 第17回三星火災杯世界囲碁マスターズ1回戦D3 |  | Choi Cheolhan | Win | W+R | 6.5 | 3558 | 1 | 
+| 2012-09-05 | 第17回三星火災杯世界囲碁マスターズ1回戦D2 | Zhong Wenjing | Choi Cheolhan | Lose | B+3.5 | 6.5 | 3557 | -15 | 
+| 2012-09-04 | 第17回三星火災杯世界囲碁マスターズ1回戦D1 |  | Choi Cheolhan | Win | W+R | 6.5 | 3572 | 3 | 
+| 2012-09-01 | 第14回中国囲碁甲級リーグ第13節 |  | Choi Cheolhan | Win | W+R | 7.5 | 3569 | -5 | 
+| 2012-08-30 | 第14回中国囲碁甲級リーグ第12節 | Gu Li | Choi Cheolhan | Win | W+R | 7.5 | 3574 | 26 | 
+| 2012-08-26 | 2012年韓国囲碁リーグ | Mok Jinseok | Choi Cheolhan | Win | W+R | 6.5 | 3548 | 79 | 
+| 2012-08-22 | 第56期国手戦（韓国）2回戦 | Park Junsuck | Choi Cheolhan | Win | W+R | 6.5 | 3469 | -5 | 
+| 2012-08-20 | 第31回KBS杯囲碁王戦敗者復活戦1回戦 | Na Hyun | Choi Cheolhan | Lose | B+R | 6.5 | 3474 | -5 | 
+| 2012-08-19 | 2012年韓国囲碁リーグ | Choi Cheolhan | Yoo Jaeho | Win | B+R | 6.5 | 3479 | 1 | 
+| 2012-08-14 | 第17期バッカス杯天元戦1回戦 | Choi Cheolhan | Min Sangyoun | Win | B+R | 6.5 | 3478 | 6 | 
+| 2012-08-11 | 2012年韓国囲碁リーグ | Choi Cheolhan | Cho Hanseung | Win | B+R | 6.5 | 3472 | 51 | 
+| 2012-08-03 | 2012年韓国囲碁リーグ | Choi Cheolhan | Lee Yeongkyu | Win | B+R | 6.5 | 3421 | -110 | 
+| 2012-08-01 | 第40期名人戦（韓国）予選 | Kim Dongho | Choi Cheolhan | Win | W+R | 6.5 | 3531 | 15 | 
+| 2012-07-30 | 第31回KBS杯囲碁王戦本戦2回戦 | Mok Jinseok | Choi Cheolhan | Lose | B+1.5 | 6.5 | 3516 | -8 | 
+| 2012-07-27 | 第56期国手戦（韓国）1回戦 | Choi Cheolhan | Kim Sedong | Win | B+R | 6.5 | 3524 | -2 | 
+| 2012-07-26 | 2012年韓国囲碁リーグ | Lee Hobum | Choi Cheolhan | Win | W+R | 6.5 | 3526 | 8 | 
+| 2012-07-24 | 第14回農心杯韓国選抜戦 | Choi Cheolhan | Lee Yeongkyu | Win | B+R | 6.5 | 3518 | 27 | 
+| 2012-07-19 | 第14回農心杯韓国選抜戦 | Choi Cheolhan | Cho Insun | Win | B+R | 6.5 | 3491 | 6 | 
+| 2012-07-18 | 第40期名人戦（韓国）予選 | Choi Cheolhan | Lee Chungyu | Win | B+R | 6.5 | 3485 | 1 | 
+| 2012-07-15 | 第14回中国囲碁甲級リーグ第11節 | Choi Cheolhan | Fan Tingyu | Win | B+R | 7.5 | 3484 | 6 | 
+| 2012-07-13 | 第14回中国囲碁甲級リーグ第10節 | Meng Tailing | Choi Cheolhan | Win | W+R | 7.5 | 3478 | -47 | 
+| 2012-07-07 | 2012年韓国囲碁リーグ | Lee Wonyoung | Choi Cheolhan | Lose | B+R | 6.5 | 3525 | 44 | 
+| 2012-06-30 | 第14回中国囲碁甲級リーグ第8節 | Shi Yue | Choi Cheolhan | Lose | B+R | 7.5 | 3481 | 32 | 
+| 2012-06-28 | 2012年韓国囲碁リーグ | Choi Cheolhan | Weon Seongjin | Win | B+R | 6.5 | 3449 | 2 | 
+| 2012-06-24 | 2012年韓国囲碁リーグ | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 3447 | -20 | 
+| 2012-06-23 | 第14回中国囲碁甲級リーグ第7節 | Zhou Hexi | Choi Cheolhan | Win | W+R | 7.5 | 3467 | -11 | 
+| 2012-06-20 | 第17回LG杯世界棋王戦2回戦 | Gu Li | Choi Cheolhan | Win | W+0.5 | 6.5 | 3478 | 6 | 
+| 2012-06-18 | 第17回LG杯世界棋王戦1回戦 | Choi Cheolhan | Xie He | Win | B+R | 6.5 | 3472 | -12 | 
+| 2012-06-14 | 第14回中国囲碁甲級リーグ第6節 | Liu Xing | Choi Cheolhan | Win | W+R | 7.5 | 3484 | -8 | 
+| 2012-06-02 | 2012年韓国囲碁リーグ | Choi Cheolhan | Kang Dongyun | Lose | W+R | 6.5 | 3492 | 29 | 
+| 2012-05-30 | 第14回中国囲碁甲級リーグ第4節 | Mi Yuting | Choi Cheolhan | Win | W+R | 7.5 | 3463 | 14 | 
+| 2012-05-25 | 第7回応氏杯世界選手権2回戦 | Tan Xiao | Choi Cheolhan | Lose | B+5 | 7.5 | 3449 | -54 | 
+| 2012-05-18 | 2012年韓国囲碁リーグ | Choi Cheolhan | Kim Sonjin | Win | B+R | 6.5 | 3503 | -62 | 
+| 2012-05-06 | 2012年韓国囲碁リーグ | An Joyeong | Choi Cheolhan | Win | W+R | 6.5 | 3565 | 2 | 
+| 2012-05-04 | 第8期物価情報杯プロ棋戦リーグD | Choi Cheolhan | Weon Seongjin | Lose | W+R | 6.5 | 3563 | -51 | 
+| 2012-04-29 | 2012年韓国囲碁リーグ | Han Sanghoon | Choi Cheolhan | Lose | B+R | 6.5 | 3614 | -13 | 
+| 2012-04-28 | 第14回中国囲碁甲級リーグ第1節 | Gu Li | Choi Cheolhan | Lose | B+R | 7.5 | 3627 | -9 | 
+| 2012-04-21 | 2012年韓国囲碁リーグ | Yun Junsang | Choi Cheolhan | Lose | B+5.5 | 6.5 | 3636 | -3 | 
+| 2012-04-12 | 2012年韓国囲碁リーグ | Choi Cheolhan | Lee Wonyoung | Lose | W+R | 6.5 | 3639 | 3 | 
+| 2012-04-09 | 第7期圓益杯十段戦決勝三番勝負第2局 | Choi Cheolhan | Kang Dongyun | Win | B+R | 6.5 | 3636 | 10 | 
+| 2012-04-03 | 第7期圓益杯十段戦決勝三番勝負第1局 | Kang Dongyun | Choi Cheolhan | Win | W+R | 6.5 | 3626 | -7 | 
+| 2012-03-30 | 第9回春蘭杯世界囲碁選手権2回戦 | Choi Cheolhan | Piao Wenyao | Lose | W+4.5 | 7.5 | 3633 | -5 | 
+| 2012-03-28 | 第9回春蘭杯世界囲碁選手権1回戦 | Choi Cheolhan |  | Win | B+R | 7.5 | 3638 | 11 | 
+| 2012-03-25 | 第2期招商地産杯中韓囲棋団体対抗戦第2戦 | Choi Cheolhan | Fan Tingyu | Win | B+R | 7.5 | 3627 | 7 | 
+| 2012-03-23 | 第2期招商地産杯中韓囲棋団体対抗戦第1戦 | Choi Cheolhan | Shi Yue | Lose | W+R | 7.5 | 3620 | 6 | 
+| 2012-03-19 | 第7期圓益杯十段戦準決勝 | Kang Yootaek | Choi Cheolhan | Win | W+R | 6.5 | 3614 | -9 | 
+| 2012-03-14 | 第1回百霊杯世界囲碁選手権1回戦 | Choi Cheolhan | Chen Yaoye | Lose | W+R | 7.5 | 3623 | -63 | 
+| 2012-03-07 | 第17期GSカルテックス杯プロ棋戦2回戦 | Choi Cheolhan | Kim Seongjae | Lose | W+R | 6.5 | 3686 | -11 | 
+| 2012-03-05 | 第13回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Choi Cheolhan | Park Junghwan | Lose | W+R | 6.5 | 3697 | -11 | 
+| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Liu Xing | Choi Cheolhan | Lose | B+R | 6.5 | 3708 | -33 | 
+| 2012-02-26 | 第13回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Park Junghwan | Choi Cheolhan | Lose | B+R | 6.5 | 3741 | -47 | 
+| 2012-02-21 | 第7期圓益杯十段戦4回戦 | Choi Cheolhan | Park Junghwan | Win | B+R | 6.5 | 3788 | 106 | 
+| 2012-02-12 | 第13回マキシムコーヒー杯入神最強戦準決勝 | Weon Seongjin | Choi Cheolhan | Win | W+R | 6.5 | 3682 | 39 | 
+| 2012-01-16 | 第7期圓益杯十段戦3回戦 | Park Jinsol | Choi Cheolhan | Win | W+R | 6.5 | 3643 | -11 | 
+| 2012-01-12 | 第13回マキシムコーヒー杯入神最強戦3回戦 | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 3654 | -13 | 
+| 2012-01-02 | 第30回KBS杯囲碁王戦敗者復活戦3回戦 | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 3667 | 5 | 
+| 2011-12-26 | 第13回中国囲碁甲級リーグ第22節 | Qiu Jun | Choi Cheolhan | Lose | B+R | 7.5 | 3662 | -5 | 
+| 2011-12-24 | 第13回マキシムコーヒー杯入神最強戦2回戦 | Jeong Suhyeon | Choi Cheolhan | Win | W+R | 6.5 | 3667 | -46 | 
+| 2011-12-21 | 2011年韓国囲碁リーグ | Kim Junghyun | Choi Cheolhan | Lose | B+3.5 | 6.5 | 3713 | -6 | 
+| 2011-12-17 | 2011年韓国囲碁リーグ | Kang Yootaek | Choi Cheolhan | Win | W+R | 6.5 | 3719 | -10 | 
+| 2011-12-10 | 第1回スポーツアコードワールドマインドゲームズ囲碁団体戦 | Li Jie (2) | Choi Cheolhan | Win | W+14.5 | 7.5 | 3729 | 2 | 
+| 2011-12-09 | 第1回スポーツアコードワールドマインドゲームズ囲碁団体戦 | Choi Cheolhan | Xiao Zhenghao | Win | B+R | 7.5 | 3727 | 399 | 
+| 2011-12-06 | 第7期圓益杯十段戦2回戦 | Kim Daehee | Choi Cheolhan | Win | W+R | 6.5 | 3328 | -3 | 
+| 2011-12-03 | 第13回中国囲碁甲級リーグ第21節 |  | Choi Cheolhan | Win | W+R | 7.5 | 3331 | 6 | 
+| 2011-12-01 | 第16期バッカス杯天元戦決勝三番勝負第2局 | Yun Junsang | Choi Cheolhan | Win | W+R | 6.5 | 3325 | 8 | 
+| 2011-11-27 | 2011年韓国囲碁リーグ | Hong Seongji | Choi Cheolhan | Win | W+1.5 | 6.5 | 3317 | 3 | 
+| 2011-11-26 | 第13回中国囲碁甲級リーグ第20節 | Wang Lei (b) | Choi Cheolhan | Win | W+R | 7.5 | 3314 | 46 | 
+| 2011-11-24 | 第16期バッカス杯天元戦決勝三番勝負第1局 | Choi Cheolhan | Yun Junsang | Win | B+R | 6.5 | 3268 | -10 | 
+| 2011-11-21 | 第30回KBS杯囲碁王戦敗者復活戦2回戦 | Mok Jinseok | Choi Cheolhan | Win | W+R | 6.5 | 3278 | 19 | 
+| 2011-11-16 | 第55期国手戦（韓国）挑戦手合五番勝負第5局 | Cho Hanseung | Choi Cheolhan | Lose | B+1.5 | 6.5 | 3259 | -6 | 
+| 2011-11-14 | 第55期国手戦（韓国）挑戦手合五番勝負第4局 | Choi Cheolhan | Cho Hanseung | Win | B+R | 6.5 | 3265 | -5 | 
+| 2011-11-10 | 2011年韓国囲碁リーグ | Kang Yootaek | Choi Cheolhan | Win | W+R | 6.5 | 3270 | 4 | 
+| 2011-11-08 | 第55期国手戦（韓国）挑戦手合五番勝負第3局 | Cho Hanseung | Choi Cheolhan | Lose | B+R | 6.5 | 3266 | 0 | 
+| 2011-11-07 | 第30回KBS杯囲碁王戦敗者復活戦1回戦 | Choi Cheolhan | On Sojin | Win | B+R | 6.5 | 3266 | 4 | 
+| 2011-11-06 | 2011年韓国囲碁リーグ | Choi Cheolhan | Kim Kiyoung | Win | B+2.5 | 6.5 | 3262 | -34 | 
+| 2011-10-31 | 第16期バッカス杯天元戦準決勝 | Choi Cheolhan | Lee Jihyun | Win | B+R | 6.5 | 3296 | -10 | 
+| 2011-10-29 | 第13回中国囲碁甲級リーグ第18節 | Choi Cheolhan | Kong Jie | Win | B+R | 7.5 | 3306 | 13 | 
+| 2011-10-25 | 第55期国手戦（韓国）挑戦手合五番勝負第2局 | Choi Cheolhan | Cho Hanseung | Win | B+R | 6.5 | 3293 | 11 | 
+| 2011-10-22 | 2011年韓国囲碁リーグ | Heo Yongho | Choi Cheolhan | Win | W+R | 6.5 | 3282 | 7 | 
+| 2011-10-17 | 第55期国手戦（韓国）挑戦手合五番勝負第1局 | Cho Hanseung | Choi Cheolhan | Lose | B+R | 6.5 | 3275 | -57 | 
+| 2011-10-12 | 第7期圓益杯十段戦1回戦 | Lee Yungsoo | Choi Cheolhan | Win | W+R | 6.5 | 3332 | 13 | 
+| 2011-10-09 | 2011年韓国囲碁リーグ | Jin Siyoung | Choi Cheolhan | Win | W+4.5 | 6.5 | 3319 | 2 | 
+| 2011-09-29 | 第13回中国囲碁甲級リーグ第15節 | Jiang Weijie | Choi Cheolhan | Win | W+R | 7.5 | 3317 | -12 | 
+| 2011-09-21 | 2011年韓国囲碁リーグ | Choi Cheolhan | Weon Seongjin | Win | B+R | 6.5 | 3329 | 10 | 
+| 2011-09-19 | 第16期バッカス杯天元戦2回戦 | Choi Cheolhan | Weon Seongjin | Win | B+R | 6.5 | 3319 | 68 | 
+| 2011-09-10 | 2011年韓国囲碁リーグ | Lee Sedol | Choi Cheolhan | Lose | B+2.5 | 6.5 | 3251 | 10 | 
+| 2011-09-06 | 第13回中国囲碁甲級リーグ第13節 | Fan Tingyu | Choi Cheolhan | Win | W+R | 7.5 | 3241 | -6 | 
+| 2011-09-04 | 第13回中国囲碁甲級リーグ第12節 | Wang Yao | Choi Cheolhan | Win | W+R | 7.5 | 3247 | -3 | 
+| 2011-08-31 | 第15回中韓天元対抗戦第2局 | Choi Cheolhan | Chen Yaoye | Lose | W+R | 7.5 | 3250 | -3 | 
+| 2011-08-29 | 第15回中韓天元対抗戦第1局 | Chen Yaoye | Choi Cheolhan | Lose | B+5.5 | 7.5 | 3253 | -1 | 
+| 2011-08-25 | 第16回三星火災杯世界囲碁マスターズ1回戦H2 | Choi Cheolhan | Kang Seungmin | Lose | W+2.5 | 6.5 | 3254 | -12 | 
+| 2011-08-24 | 第16回三星火災杯世界囲碁マスターズ1回戦H1 | Choi Cheolhan | Peng Liyao | Lose | W+R | 6.5 | 3266 | -2 | 
+| 2011-08-19 | 2011年韓国囲碁リーグ | Choi Cheolhan | Paek Hongseok | Lose | W+R | 6.5 | 3268 | -4 | 
+| 2011-08-17 | 第16期バッカス杯天元戦1回戦 | Choi Cheolhan | Han Wonggyu | Win | B+R | 6.5 | 3272 | -11 | 
+| 2011-08-11 | 第24回世界囲碁選手権富士通杯2回戦 | Iyama Yuta | Choi Cheolhan | Lose | B+R | 6.5 | 3283 | -3 | 
+| 2011-08-10 | 第24回世界囲碁選手権富士通杯1回戦 | Choi Cheolhan |  | Win | B+R | 6.5 | 3286 | 12 | 
+| 2011-07-28 | 2011年韓国囲碁リーグ | Choi Cheolhan | Cho Hanseung | Win | B+R | 6.5 | 3274 | -6 | 
+| 2011-07-20 | 第7期物価情報杯プロ棋戦決勝トーナメント準決勝 | Choi Cheolhan | Lee Yeongkyu | Lose | W+4.5 | 6.5 | 3280 | -4 | 
+| 2011-07-14 | 2011年韓国囲碁リーグ | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 3284 | -5 | 
+| 2011-07-13 | 第7期物価情報杯プロ棋戦決勝トーナメント1回戦 | Mok Jinseok | Choi Cheolhan | Win | W+10.5 | 6.5 | 3289 | 26 | 
+| 2011-07-09 | 第13回中国囲碁甲級リーグ第10節 | Mi Yuting | Choi Cheolhan | Win | W+R | 7.5 | 3263 | -30 | 
+| 2011-07-05 | 第13回農心杯韓国選抜戦 | Choi Cheolhan | Park Seunghwa | Lose | W+R | 6.5 | 3293 | -15 | 
+| 2011-07-04 | 第30回KBS杯囲碁王戦本戦2回戦 | Choi Cheolhan | Kim Kiyoung | Lose | W+0.5 | 6.5 | 3308 | -2 | 
+| 2011-07-02 | 第13回中国囲碁甲級リーグ第9節 | Choi Cheolhan | Niu Yutian | Win | B+R | 7.5 | 3310 | 6 | 
+| 2011-06-30 | 2011年韓国囲碁リーグ | Lee Yeongkyu | Choi Cheolhan | Win | W+R | 6.5 | 3304 | -118 | 
+| 2011-06-25 | 第13回中国囲碁甲級リーグ第8節 | Meng Tailing | Choi Cheolhan | Win | W+R | 7.5 | 3422 | -43 | 
+| 2011-06-18 | 第7期物価情報杯プロ棋戦リーグA | Choi Cheolhan | Kang Dongyun | Win | B+R | 6.5 | 3465 | -6 | 
+| 2011-06-16 | 2011年韓国囲碁リーグ |  | Choi Cheolhan | Win | W+R | 6.5 | 3471 | 7 | 
+| 2011-06-15 | 第16回LG杯世界棋王戦2回戦 | Choi Cheolhan | Qiu Jun | Lose | W+R | 6.5 | 3464 | -17 | 
+| 2011-06-13 | 第16回LG杯世界棋王戦1回戦 | Cho U | Choi Cheolhan | Win | W+R | 6.5 | 3481 | -10 | 
+| 2011-06-09 | 第13回中国囲碁甲級リーグ第6節 | Tan Xiao | Choi Cheolhan | Lose | B+R | 7.5 | 3491 | 11 | 
+| 2011-05-28 | 第13回中国囲碁甲級リーグ第5節 | Gu Li | Choi Cheolhan | Lose | B+R | 7.5 | 3480 | -12 | 
+| 2011-05-26 | 2011年韓国囲碁リーグ | Choi Cheolhan | Lee Sedol | Win | B+R | 6.5 | 3492 | 18 | 
+| 2011-05-21 | 第13回中国囲碁甲級リーグ第4節 | Choi Cheolhan | Zhou Ruiyang | Lose | W+R | 7.5 | 3474 | -1 | 
+| 2011-05-18 | 2011年韓国囲碁リーグ | Paek Hongseok | Choi Cheolhan | Lose | B+1.5 | 6.5 | 3475 | -11 | 
+| 2011-05-17 | 第7期物価情報杯プロ棋戦リーグA | Choi Cheolhan | Weon Seongjin | Win | B+1.5 | 6.5 | 3486 | 6 | 
+| 2011-05-14 | 第13回中国囲碁甲級リーグ第3節 | Li Zhe | Choi Cheolhan | Lose | B+R | 7.5 | 3480 | 8 | 
+| 2011-05-09 | 第13回中国囲碁甲級リーグ第2節 | Choi Cheolhan | Fan Tingyu | Lose | W+2.5 | 7.5 | 3472 | -5 | 
+| 2011-05-07 | 第13回中国囲碁甲級リーグ第1節 | Wang Yao | Choi Cheolhan | Win | W+R | 7.5 | 3477 | -13 | 
+| 2011-04-13 | 第7期物価情報杯プロ棋戦リーグA | Lee Yeongkyu | Choi Cheolhan | Lose | B+R | 6.5 | 3490 | -29 | 
+| 2011-03-12 | 第6期圓益杯十段戦4回戦 | Park Junghwan | Choi Cheolhan | Lose | B+R | 6.5 | 3519 | -4 | 
+| 2011-03-10 | 第3回BCカード杯世界選手権3回戦 | Choi Cheolhan | Heo Yongho | Lose | W+R | 6.5 | 3523 | -14 | 
+| 2011-03-07 | 第1期招商地産杯中韓囲棋団体対抗戦第2戦 | Choi Cheolhan | Gu Li | Win | B+3.5 | 7.5 | 3537 | 1 | 
+| 2011-03-05 | 第1期招商地産杯中韓囲棋団体対抗戦第1戦 | Choi Cheolhan | Zhou Ruiyang | Win | B+R | 7.5 | 3536 | 6 | 
+| 2011-02-28 | 第3回BCカード杯世界選手権2回戦 | Choi Cheolhan | Zhou Hexi | Win | B+R | 6.5 | 3530 | 22 | 
+| 2011-02-21 | 第12回マキシムコーヒー杯入神最強戦準決勝 | Choi Cheolhan | Park Yeonghun | Lose | W+R | 6.5 | 3508 | 40 | 
+| 2011-02-14 | 第54期国手戦（韓国）挑戦手合五番勝負第4局 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 3468 | -21 | 
+| 2011-02-01 | 第12回マキシムコーヒー杯入神最強戦3回戦 | Kim Dongyeop | Choi Cheolhan | Win | W+R | 6.5 | 3489 | 1 | 
+| 2011-01-31 | 第6期圓益杯十段戦3回戦 | Choi Cheolhan |  | Win | B+R | 6.5 | 3488 | 6 | 
+| 2011-01-29 | 第3回BCカード杯世界選手権1回戦 | Choi Kyubyeong | Choi Cheolhan | Win | W+R | 6.5 | 3482 | -5 | 
+| 2011-01-27 | 第15期バッカス杯天元戦決勝五番勝負第3局 | Lee Taehyun | Choi Cheolhan | Win | W+R | 6.5 | 3487 | -7 | 
+| 2011-01-25 | 第54期国手戦（韓国）挑戦手合五番勝負第3局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 3494 | 158 | 
+| 2011-01-20 | 第12回農心辛ラーメン杯世界囲碁最強戦第13戦 | Kong Jie | Choi Cheolhan | Win | W+R | 6.5 | 3336 | -8 | 
+| 2011-01-19 | 第12回農心辛ラーメン杯世界囲碁最強戦第12戦 | Choi Cheolhan | Yuki Satoshi | Win | B+R | 6.5 | 3344 | -24 | 
+| 2011-01-18 | 第12回農心辛ラーメン杯世界囲碁最強戦第11戦 | Zhou Ruiyang | Choi Cheolhan | Win | W+R | 6.5 | 3368 | 15 | 
+| 2011-01-14 | 第54期国手戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 3353 | -14 | 
+| 2011-01-12 | 第54期国手戦（韓国）挑戦手合五番勝負第1局 | Choi Cheolhan | Lee Changho | Lose | W+R | 6.5 | 3367 | 1 | 
+| 2011-01-10 | 第29回KBS杯囲碁王戦敗者復活戦5回戦 | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 3366 | -5 | 
+| 2011-01-08 | 2010年韓国囲碁リーグ | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 3371 | -6 | 
+| 2011-01-07 | 第15期バッカス杯天元戦決勝五番勝負第2局 | Choi Cheolhan | Lee Taehyun | Win | B+R | 6.5 | 3377 | 12 | 
+| 2011-01-05 | 第54期国手戦（韓国）挑戦者決定戦第3局 | Kim Jiseok | Choi Cheolhan | Win | W+R | 6.5 | 3365 | 9 | 
+| 2011-01-03 | 第29回KBS杯囲碁王戦敗者復活戦4回戦 | Choi Cheolhan | Ju Hyeongwuk | Win | B+0.5 | 6.5 | 3356 | 11 | 
+| 2010-12-29 | 第6期圓益杯十段戦2回戦 | Choi Byounghwan | Choi Cheolhan | Win | W+R | 6.5 | 3345 | 0 | 
+| 2010-12-29 | 第29回KBS杯囲碁王戦本戦4回戦 | Park Junghwan | Choi Cheolhan | Lose | B+4.5 | 6.5 | 3345 | 6 | 
+| 2010-12-28 | 2010年韓国囲碁リーグ | Choi Cheolhan | Park Seunghyeon | Win | B+8.5 | 6.5 | 3339 | 38 | 
+| 2010-12-27 | 第15期バッカス杯天元戦決勝五番勝負第1局 | Lee Taehyun | Choi Cheolhan | Win | W+R | 6.5 | 3301 | 10 | 
+| 2010-12-24 | 第54期国手戦（韓国）挑戦者決定戦第2局 | Choi Cheolhan | Kim Jiseok | Win | B+2.5 | 6.5 | 3291 | 16 | 
+| 2010-12-22 | 第54期国手戦（韓国）挑戦者決定戦第1局 | Kim Jiseok | Choi Cheolhan | Lose | B+3.5 | 6.5 | 3275 | -9 | 
+| 2010-12-21 | 第12回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Yang Jaeho | Win | B+R | 6.5 | 3284 | 25 | 
+| 2010-12-11 | 第15期バッカス杯天元戦準決勝 | Kim Jiseok | Choi Cheolhan | Win | W+R | 6.5 | 3259 | 8 | 
+| 2010-12-09 | 第54期国手戦（韓国）準決勝 | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 3251 | 57 | 
+| 2010-12-04 | 第12回農心辛ラーメン杯世界囲碁最強戦第10戦 | Choi Cheolhan | Takao Shinji | Win | B+1.5 | 6.5 | 3194 | -6 | 
+| 2010-12-02 | 2010年韓国囲碁リーグ | Kim Seongjae | Choi Cheolhan | Win | W+R | 6.5 | 3200 | -36 | 
+| 2010-11-26 | 2010年アジア競技大会囲碁男子団体戦 | Choi Cheolhan | Zhou Ruiyang | Win | B+R | 7.5 | 3236 | -4 | 
+| 2010-11-25 | 2010年アジア競技大会囲碁男子団体戦 | Choi Cheolhan | Yamada Kimio | Win | B+R | 7.5 | 3240 | 5 | 
+| 2010-11-12 | 第54期国手戦（韓国）2回戦 | Weon Seongjin | Choi Cheolhan | Win | W+R | 6.5 | 3235 | -6 | 
+| 2010-11-08 | 第15回LG杯世界棋王戦3回戦 | Choi Cheolhan | Piao Wenyao | Lose | W+R | 6.5 | 3241 | -9 | 
+| 2010-11-04 | 第6期圓益杯十段戦1回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 3250 | -32 | 
+| 2010-10-21 | 第12回中国囲碁甲級リーグ第16節 | Tan Xiao | Choi Cheolhan | Win | W+R | 7.5 | 3282 | 13 | 
+| 2010-10-13 | 第15回三星火災杯世界囲碁マスターズ2回戦 | Choi Cheolhan | Park Junghwan | Lose | W+R | 6.5 | 3269 | 56 | 
+| 2010-10-03 | 第1期OllehKT杯オープン選手権準決勝 | Kang Dongyun | Choi Cheolhan | Lose | B+R | 6.5 | 3213 | 19 | 
+| 2010-09-27 | 第29回KBS杯囲碁王戦本戦3回戦 | Choi Cheolhan | Kim Sooyong | Win | B+R | 6.5 | 3194 | -24 | 
+| 2010-09-16 | 第15期バッカス杯天元戦2回戦 | Choi Cheolhan | Lee Huiseong | Win | B+R | 6.5 | 3218 | 39 | 
+| 2010-09-10 | 第15回三星火災杯世界囲碁マスターズ1回戦A3 | Choi Cheolhan | Li Kang | Win | B+R | 6.5 | 3179 | -11 | 
+| 2010-09-09 | 第15回三星火災杯世界囲碁マスターズ1回戦A2 | Choi Cheolhan | Weon Seongjin | Lose | W+R | 6.5 | 3190 | -6 | 
+| 2010-09-08 | 第15回三星火災杯世界囲碁マスターズ1回戦A1 | Choi Cheolhan | Li Kang | Win | B+R | 6.5 | 3196 | 2 | 
+| 2010-09-06 | 第12回中国囲碁甲級リーグ第13節 | Choi Cheolhan | Zhou Ruiyang | Win | B+R | 7.5 | 3194 | 2 | 
+| 2010-09-04 | 第12回中国囲碁甲級リーグ第12節 | Li Kang | Choi Cheolhan | Win | W+R | 7.5 | 3192 | -19 | 
+| 2010-08-31 | 第15期GSカルテックス杯プロ棋戦3回戦 | Choi Cheolhan | Kim Jiseok | Lose | W+R | 6.5 | 3211 | -5 | 
+| 2010-08-21 | 2010年韓国囲碁リーグ | An Joyeong | Choi Cheolhan | Win | W+0.5 | 6.5 | 3216 | 19 | 
+| 2010-08-16 | 第54期国手戦（韓国）1回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 3197 | -10 | 
+| 2010-08-12 | 第15期バッカス杯天元戦1回戦 | Choi Cheolhan | Kang Changbae | Win | B+R | 6.5 | 3207 | -28 | 
+| 2010-08-01 | 第6期物価情報杯プロ棋戦決勝トーナメント準決勝 | Lee Changho | Choi Cheolhan | Lose | B+2.5 | 6.5 | 3235 | -12 | 
+| 2010-07-31 | 2010年韓国囲碁リーグ | Lee Changho | Choi Cheolhan | Lose | B+1.5 | 6.5 | 3247 | 16 | 
+| 2010-07-25 | 第6期物価情報杯プロ棋戦決勝トーナメント1回戦 | Park Junghwan | Choi Cheolhan | Win | W+R | 6.5 | 3231 | 7 | 
+| 2010-07-23 | 第12回農心杯韓国選抜戦 | Kang Changbae | Choi Cheolhan | Win | W+R | 6.5 | 3224 | -1 | 
+| 2010-07-21 | 第12回農心杯韓国選抜戦 | Choi Cheolhan |  | Win | B+R | 6.5 | 3225 | -16 | 
+| 2010-07-15 | 第12回中国囲碁甲級リーグ第11節 | Gu Li | Choi Cheolhan | Lose | B+R | 7.5 | 3241 | -5 | 
+| 2010-07-10 | 第12回中国囲碁甲級リーグ第10節 | Choi Cheolhan | Chang Hao | Lose | W+0.5 | 7.5 | 3246 | -25 | 
+| 2010-06-19 | 第12回中国囲碁甲級リーグ第8節 | Choi Cheolhan | Liu Xing | Win | B+R | 7.5 | 3271 | 79 | 
+| 2010-06-12 | 第12回中国囲碁甲級リーグ第7節 | Mao Ruilong | Choi Cheolhan | Win | W+R | 7.5 | 3192 | -34 | 
+| 2010-06-09 | 第15回LG杯世界棋王戦2回戦 | Choi Cheolhan | Shi Yue | Win | B+R | 6.5 | 3226 | 5 | 
+| 2010-06-07 | 第15回LG杯世界棋王戦1回戦 | Choi Cheolhan | Jiang Weijie | Win | B+6.5 | 6.5 | 3221 | 9 | 
+| 2010-05-31 | 第29回KBS杯囲碁王戦本戦2回戦 | Kim Junghyun | Choi Cheolhan | Win | W+R | 6.5 | 3212 | 1 | 
+| 2010-05-29 | 2010年韓国囲碁リーグ | Han Wonggyu | Choi Cheolhan | Lose | B+1.5 | 6.5 | 3211 | 57 | 
+| 2010-05-14 | 2010年韓国囲碁リーグ | Lee Taehyun | Choi Cheolhan | Lose | B+2.5 | 6.5 | 3154 | 8 | 
+| 2010-05-12 | 第15期GSカルテックス杯プロ棋戦2回戦 | Lee Chungyu | Choi Cheolhan | Win | W+R | 6.5 | 3146 | 5 | 
+| 2010-05-08 | 第12回中国囲碁甲級リーグ第3節 | Choi Cheolhan | Peng Quan | Win | B+1.5 | 7.5 | 3141 | -12 | 
+| 2010-05-03 | 第29回KBS杯囲碁王戦本戦1回戦 | Choi Cheolhan |  | Win | B+R | 6.5 | 3153 | -5 | 
+| 2010-04-27 | 第6期物価情報杯プロ棋戦リーグC | Kim Kangkeun | Choi Cheolhan | Win | W+R | 6.5 | 3158 | 19 | 
+| 2010-04-25 | 第12回中国囲碁甲級リーグ第1節 | Choi Cheolhan | Niu Yutian | Win | B+R | 7.5 | 3139 | 13 | 
+| 2010-04-10 | 第23回世界囲碁選手権富士通杯1回戦 | Choi Cheolhan | Hane Naoki | Lose | W+1.5 | 6.5 | 3126 | -32 | 
+| 2010-04-06 | 第11回マキシムコーヒー杯入神最強戦決勝三番勝負第3局 | Choi Cheolhan | Kang Dongyun | Win | B+R | 6.5 | 3158 | 4 | 
+| 2010-04-05 | 第11回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Choi Cheolhan | Kang Dongyun | Lose | W+R | 6.5 | 3154 | -14 | 
+| 2010-04-01 | 第6期物価情報杯プロ棋戦リーグC | Heo Yongho | Choi Cheolhan | Win | W+R | 6.5 | 3168 | 22 | 
+| 2010-03-29 | 第8回春蘭杯世界囲碁選手権2回戦 | Choi Cheolhan | Kong Jie | Lose | W+R | 7.5 | 3146 | -5 | 
+| 2010-03-27 | 第8回春蘭杯世界囲碁選手権1回戦 | Hu Yaoyu | Choi Cheolhan | Win | W+0.5 | 7.5 | 3151 | -22 | 
+| 2010-03-20 | 第2回BCカード杯世界選手権4回戦 | Chang Hao | Choi Cheolhan | Lose | B+R | 6.5 | 3173 | -46 | 
+| 2010-03-15 | 第11回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Kang Dongyun | Choi Cheolhan | Win | W+R | 6.5 | 3219 | 13 | 
+| 2010-03-09 | 第11回マキシムコーヒー杯入神最強戦準決勝 | Park Yeonghun | Choi Cheolhan | Win | W+R | 6.5 | 3206 | 2 | 
+| 2010-03-06 | 第2回BCカード杯世界選手権3回戦 | Choi Cheolhan | Kim Jiseok | Win | B+R | 6.5 | 3204 | 64 | 
+| 2010-02-23 | 第11回マキシムコーヒー杯入神最強戦3回戦 | Weon Seongjin | Choi Cheolhan | Win | W+R | 6.5 | 3140 | -6 | 
+| 2010-02-07 | 第2回BCカード杯世界選手権2回戦 | Tan Xiao | Choi Cheolhan | Win | W+R | 6.5 | 3146 | -66 | 
+| 2010-01-18 | 第28回KBS杯囲碁王戦敗者復活戦決勝 | Lee Changho | Choi Cheolhan | Lose | B+R | 6.5 | 3212 | -8 | 
+| 2010-01-16 | 第2回BCカード杯世界選手権1回戦 | Song Taekon | Choi Cheolhan | Win | W+R | 6.5 | 3220 | -11 | 
+| 2010-01-04 | 第28回KBS杯囲碁王戦本戦5回戦 | Choi Cheolhan | Kang Dongyun | Lose | W+R | 6.5 | 3231 | -10 | 
+| 2009-12-30 | 第11回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | An Joyeong | Win | B+R | 6.5 | 3241 | 10 | 
+| 2009-12-19 | 第11回中国囲碁甲級リーグ第22節 | Choi Cheolhan | Peng Liyao | Win | B+R | 7.5 | 3231 | -1 | 
+| 2009-12-12 | 第11回中国囲碁甲級リーグ第21節 | Niu Yutian | Choi Cheolhan | Lose | B+R | 7.5 | 3232 | -12 | 
+| 2009-12-05 | 第11回中国囲碁甲級リーグ第20節 | Choi Cheolhan | Peng Quan | Lose | W+R | 7.5 | 3244 | -131 | 
+| 2009-11-28 | 第11回中国囲碁甲級リーグ第19節 | Wang Yao | Choi Cheolhan | Win | W+R | 7.5 | 3375 | 1 | 
+| 2009-11-23 | 第28回KBS杯囲碁王戦本戦4回戦 | Choi Cheolhan | An Joyeong | Win | B+R | 6.5 | 3374 | 17 | 
+| 2009-11-19 | 第14期バッカス杯天元戦準決勝 | Park Junghwan | Choi Cheolhan | Lose | B+R | 6.5 | 3357 | 2 | 
+| 2009-11-09 | 第14回LG杯世界棋王戦3回戦 | Kong Jie | Choi Cheolhan | Lose | B+R | 6.5 | 3355 | -9 | 
+| 2009-11-05 | 第14期バッカス杯天元戦2回戦 | Choi Cheolhan | Kim Seongjae | Win | B+R | 6.5 | 3364 | 0 | 
+| 2009-11-04 | 第5期圓益杯十段戦3回戦 | Kang Yootaek | Choi Cheolhan | Lose | B+R | 6.5 | 3364 | -8 | 
+| 2009-10-29 | 第11回中国囲碁甲級リーグ第17節 | Choi Cheolhan | Li Zhe | Win | B+R | 7.5 | 3372 | 30 | 
+| 2009-10-24 | 2009年韓国囲碁リーグ | Kang Dongyun | Choi Cheolhan | Win | W+R | 6.5 | 3342 | 8 | 
+| 2009-10-19 | 第28回KBS杯囲碁王戦本戦3回戦 | Han Sanghoon | Choi Cheolhan | Win | W+R | 6.5 | 3334 | 1 | 
+| 2009-10-16 | 第5期圓益杯十段戦2回戦 | Choi Cheolhan |  | Win | B+R | 6.5 | 3333 | -9 | 
+| 2009-10-13 | 第14回三星火災杯世界囲碁マスターズ2回戦 | Choi Cheolhan | Chen Yaoye | Lose | W+5.5 | 6.5 | 3342 | -14 | 
+| 2009-10-10 | 2009年韓国囲碁リーグ | Choi Cheolhan | Mok Jinseok | Win | B+R | 6.5 | 3356 | 24 | 
+| 2009-10-08 | 第14期バッカス杯天元戦1回戦 | Han Wonggyu | Choi Cheolhan | Win | W+R | 6.5 | 3332 | 8 | 
+| 2009-10-01 | 2009年韓国囲碁リーグ | Choi Cheolhan | Weon Seongjin | Win | B+R | 6.5 | 3324 | -3 | 
+| 2009-09-29 | 第11回中国囲碁甲級リーグ第14節 | Kong Jie | Choi Cheolhan | Win | W+R | 7.5 | 3327 | -3 | 
+| 2009-09-24 | 2009年韓国囲碁リーグ | Choi Cheolhan | Han Wonggyu | Win | B+R | 6.5 | 3330 | 0 | 
+| 2009-09-21 | 第14期GSカルテックス杯プロ棋戦リーグ | Lee Yeongkyu | Choi Cheolhan | Win | W+R | 6.5 | 3330 | 11 | 
+| 2009-09-18 | 第5期圓益杯十段戦1回戦 | Weon Seongjin | Choi Cheolhan | Win | W+R | 6.5 | 3319 | -10 | 
+| 2009-09-16 | 2009年韓国囲碁リーグ | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 3329 | 2 | 
+| 2009-09-11 | 第14回三星火災杯世界囲碁マスターズ1回戦H2 | Song Taekon | Choi Cheolhan | Win | W+R | 6.5 | 3327 | 5 | 
+| 2009-09-10 | 第14回三星火災杯世界囲碁マスターズ1回戦H1 | Kim Jiseok | Choi Cheolhan | Win | W+R | 6.5 | 3322 | 3 | 
+| 2009-09-07 | 第11回中国囲碁甲級リーグ第13節 | Choi Cheolhan | Chang Hao | Win | B+R | 7.5 | 3319 | 11 | 
+| 2009-09-05 | 第11回中国囲碁甲級リーグ第12節 | Zhou Heyang | Choi Cheolhan | Win | W+0.5 | 7.5 | 3308 | 28 | 
+| 2009-08-27 | 2009年韓国囲碁リーグ | Choi Cheolhan | Park Yeonghun | Lose | W+0.5 | 6.5 | 3280 | -5 | 
+| 2009-08-19 | 第11回農心杯韓国選抜戦 | Choi Cheolhan | Park Junghwan | Lose | W+R | 6.5 | 3285 | 21 | 
+| 2009-08-01 | 2009年韓国囲碁リーグ | Choi Cheolhan | Lee Taehyun | Win | B+R | 6.5 | 3264 | 7 | 
+| 2009-07-30 | 第14期GSカルテックス杯プロ棋戦リーグ | Yun Junsang | Choi Cheolhan | Lose | B+R | 6.5 | 3257 | -9 | 
+| 2009-07-27 | 第11回農心杯韓国選抜戦 | Choi Cheolhan | Kim Kiyoung | Win | B+3.5 | 6.5 | 3266 | -13 | 
+| 2009-07-18 | 2009年韓国囲碁リーグ | Choi Cheolhan |  | Win | B+R | 6.5 | 3279 | -8 | 
+| 2009-07-13 | 第28回KBS杯囲碁王戦本戦2回戦 | Park Yeonghun | Choi Cheolhan | Win | W+R | 6.5 | 3287 | 28 | 
+| 2009-07-07 | 第14期GSカルテックス杯プロ棋戦リーグ | Weon Seongjin | Choi Cheolhan | Lose | B+R | 6.5 | 3259 | -10 | 
+| 2009-07-04 | 第11回中国囲碁甲級リーグ第9節 | Luo Xihe | Choi Cheolhan | Lose | B+R | 7.5 | 3269 | -17 | 
+| 2009-07-02 | 2009年韓国囲碁リーグ | Choi Cheolhan | Kim Juho | Win | B+R | 6.5 | 3286 | 27 | 
+| 2009-06-19 | 2009年韓国囲碁リーグ | Choi Cheolhan | Lee Changho | Lose | W+2.5 | 6.5 | 3259 | 10 | 
+| 2009-06-13 | 第11回中国囲碁甲級リーグ第6節 | Li Zhe | Choi Cheolhan | Win | W+R | 7.5 | 3249 | 27 | 
+| 2009-06-01 | 第14期バッカス杯天元戦予選 | Choi Cheolhan | Park Shiun | Win | B+R | 6.5 | 3222 | -64 | 
+| 2009-05-28 | 2009年韓国囲碁リーグ | Choi Cheolhan | Kim Jiseok | Lose | W+13.5 | 6.5 | 3286 | -31 | 
+| 2009-05-26 | 第14期GSカルテックス杯プロ棋戦リーグ | Choi Cheolhan | Hong Kipyo | Lose | W+R | 6.5 | 3317 | -8 | 
+| 2009-05-20 | 第14回LG杯世界棋王戦2回戦 | Shi Yue | Choi Cheolhan | Win | W+R | 6.5 | 3325 | 6 | 
+| 2009-05-18 | 第14回LG杯世界棋王戦1回戦 | Ding Wei | Choi Cheolhan | Win | W+R | 6.5 | 3319 | -3 | 
+| 2009-05-14 | 第11回中国囲碁甲級リーグ第2節 | Chang Hao | Choi Cheolhan | Win | W+R | 7.5 | 3322 | -5 | 
+| 2009-05-09 | 第11回中国囲碁甲級リーグ第1節 | Choi Cheolhan | Zhou Heyang | Win | B+R | 7.5 | 3327 | 13 | 
+| 2009-04-30 | 第14期GSカルテックス杯プロ棋戦リーグ | An Joyeong | Choi Cheolhan | Win | W+R | 6.5 | 3314 | 37 | 
+| 2009-04-23 | 第6回応氏杯世界選手権決勝五番勝負第4局 | Lee Changho | Choi Cheolhan | Win | W+R | 7.5 | 3277 | 15 | 
+| 2009-04-19 | 第14回LG杯予選 | Zhou Ruiyang | Choi Cheolhan | Win | W+R | 6.5 | 3262 | -4 | 
+| 2009-04-11 | 第22回世界囲碁選手権富士通杯1回戦 | Xie He | Choi Cheolhan | Lose | B+R | 6.5 | 3266 | 2 | 
+| 2009-04-01 | 第14期GSカルテックス杯プロ棋戦リーグ | Cho Hanseung | Choi Cheolhan | Lose | B+R | 6.5 | 3264 | 0 | 
+| 2009-03-14 | 第1回BCカード杯世界選手権2回戦 | Huang Yizhong | Choi Cheolhan | Lose | B+R | 6.5 | 3264 | -61 | 
+| 2009-03-07 | 第6回応氏杯世界選手権決勝五番勝負第3局 | Choi Cheolhan | Lee Changho | Win | B+R | 7.5 | 3325 | 23 | 
+| 2009-03-05 | 第6回応氏杯世界選手権決勝五番勝負第2局 | Lee Changho | Choi Cheolhan | Win | W+7 | 7.5 | 3302 | 27 | 
+| 2009-03-03 | 第6回応氏杯世界選手権決勝五番勝負第1局 | Choi Cheolhan | Lee Changho | Lose | W+3 | 7.5 | 3275 | -21 | 
+| 2009-02-16 | 第22回世界囲碁選手権富士通杯韓国予選決勝 | Choi Cheolhan | Yun Junsang | Win | B+R | 6.5 | 3296 | 13 | 
+| 2009-02-13 | 第22回世界囲碁選手権富士通杯韓国予選 | Choi Cheolhan | Heo Yongho | Win | B+R | 6.5 | 3283 | 9 | 
+| 2009-02-10 | 第10回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Park Yeonghun | Choi Cheolhan | Win | W+R | 6.5 | 3274 | -2 | 
+| 2009-01-28 | 第10回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 3276 | -25 | 
+| 2009-01-14 | 第10回マキシムコーヒー杯入神最強戦準決勝 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 3301 | 134 | 
+| 2008-12-12 | 第10回マキシムコーヒー杯入神最強戦3回戦 | Choi Cheolhan | Mok Jinseok | Win | B+R | 6.5 | 3167 | 241 | 
+| 2008-11-30 | 第4期圓益杯十段戦3回戦 | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 2926 | -21 | 
+| 2008-11-22 | 2008年韓国囲碁リーグ | Choi Cheolhan | Heo Yongho | Lose | W+R | 6.5 | 2947 | -6 | 
+| 2008-11-21 | 第10回マキシムコーヒー杯入神最強戦2回戦 | Park Cheongsang | Choi Cheolhan | Win | W+R | 6.5 | 2953 | 7 | 
+| 2008-11-20 | 第13期GSカルテックス杯プロ棋戦リーグ | Weon Seongjin | Choi Cheolhan | Lose | B+R | 6.5 | 2946 | -59 | 
+| 2008-11-15 | 2008年韓国囲碁リーグ | Park Seunghwa | Choi Cheolhan | Win | W+1.5 | 6.5 | 3005 | 54 | 
+| 2008-11-05 | 第13期GSカルテックス杯プロ棋戦リーグ | Choi Cheolhan | Yoo Changhyuk | Win | B+R | 6.5 | 2951 | 44 | 
+| 2008-10-31 | 2008年韓国囲碁リーグ | Park Yeonghun | Choi Cheolhan | Lose | B+R | 6.5 | 2907 | -584 | 
+| 2008-10-26 | 2008年韓国囲碁リーグ | On Sojin | Choi Cheolhan | Win | W+R | 6.5 | 3491 | -7 | 
+| 2008-10-17 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦決勝 | Kong Jie | Choi Cheolhan | Win | W+3.5 | 6.5 | 3498 | 0 | 
+| 2008-10-17 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Choi Cheolhan | Hane Naoki | Lose | W+R | 6.5 | 3498 | 38 | 
+| 2008-10-10 | 第10回マキシムコーヒー杯入神最強戦1回戦 | Kim Soojang | Choi Cheolhan | Win | W+R | 6.5 | 3460 | 8 | 
+| 2008-10-09 | 第13期バッカス杯天元戦2回戦 | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 3452 | 46 | 
+| 2008-10-02 | 2008年韓国囲碁リーグ | An Joyeong | Choi Cheolhan | Win | W+R | 6.5 | 3406 | -9 | 
+| 2008-09-30 | 第13期GSカルテックス杯プロ棋戦リーグ | Kim Seongjae | Choi Cheolhan | Win | W+R | 6.5 | 3415 | 19 | 
+| 2008-09-25 | 第6回応氏杯世界選手権準決勝三番勝負第2局 | Choi Cheolhan | Liu Xing | Win | B+R | 7.5 | 3396 | 12 | 
+| 2008-09-23 | 第6回応氏杯世界選手権準決勝三番勝負第1局 | Liu Xing | Choi Cheolhan | Win | W+R | 7.5 | 3384 | 7 | 
+| 2008-09-19 | 2008年韓国囲碁リーグ | Cho Hyeyeon | Choi Cheolhan | Win | W+R | 6.5 | 3377 | -18 | 
+| 2008-09-13 | 2008年韓国囲碁リーグ | Kim Daehee | Choi Cheolhan | Win | W+R | 6.5 | 3395 | 19 | 
+| 2008-08-27 | 第4期圓益杯十段戦1回戦 | Choi Cheolhan |  | Win | B+R | 6.5 | 3376 | -15 | 
+| 2008-08-18 | 第13期GSカルテックス杯プロ棋戦リーグ | Hong Seongji | Choi Cheolhan | Lose | B+R | 6.5 | 3391 | -5 | 
+| 2008-08-15 | 2008年韓国囲碁リーグ | Choi Cheolhan | Paek Hongseok | Win | B+R | 6.5 | 3396 | 364 | 
+| 2008-08-02 | 2008年韓国囲碁リーグ | Yoo Changhyuk | Choi Cheolhan | Win | W+3.5 | 6.5 | 3032 | 18 | 
+| 2008-07-31 | 第13回三星火災杯予選3回戦 | Chen Yaoye | Choi Cheolhan | Lose | B+R | 6.5 | 3014 | -26 | 
+| 2008-07-21 | 第4期トヨタ＆デンソー杯囲碁世界王座戦韓国予選 | Choi Cheolhan | Kang Dongyun | Lose | W+2.5 | 6.5 | 3040 | 27 | 
+| 2008-07-04 | 2008年韓国囲碁リーグ | Choi Cheolhan | Mok Jinseok | Win | B+R | 6.5 | 3013 | 29 | 
+| 2008-06-26 | 2008年韓国囲碁リーグ | Choi Cheolhan | Lee Yeongkyu | Win | B+R | 6.5 | 2984 | 25 | 
+| 2008-06-25 | 第13期GSカルテックス杯プロ棋戦リーグ | Choi Cheolhan | Lee Sedol | Win | B+R | 6.5 | 2959 | 19 | 
+| 2008-06-12 | 第13期バッカス杯天元戦1回戦 | Choi Cheolhan | Hong Jansik | Win | B+R | 6.5 | 2940 | 27 | 
+| 2008-05-29 | 2008年韓国囲碁リーグ | Choi Cheolhan | Heo Yongho | Win | B+3.5 | 6.5 | 2913 | -5 | 
+| 2008-05-26 | 第13回LG杯世界棋王戦1回戦 | Choi Cheolhan | Shi Yue | Lose | W+R | 6.5 | 2918 | -26 | 
+| 2008-05-18 | 2008年韓国囲碁リーグ | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 2944 | 9 | 
+| 2008-05-12 | 第13期GSカルテックス杯プロ棋戦リーグ | Park Cheongsang | Choi Cheolhan | Win | W+R | 6.5 | 2935 | -15 | 
+| 2008-05-04 | 第6回応氏杯世界選手権3回戦 | Choi Cheolhan | Piao Wenyao | Win | B+R | 7.5 | 2950 | 18 | 
+| 2008-05-02 | 第6回応氏杯世界選手権2回戦 | Choi Cheolhan | Gu Li | Win | B+R | 7.5 | 2932 | 49 | 
+| 2008-04-25 | 2008年韓国囲碁リーグ | Choi Cheolhan | Kang Dongyun | Lose | W+R | 6.5 | 2883 | 188 | 
+| 2008-04-19 | 2008年韓国囲碁リーグ | Park Junghwan | Choi Cheolhan | Win | W+R | 6.5 | 2695 | 2 | 
+| 2008-03-31 | 第13期GSカルテックス杯プロ棋戦リーグ | Choi Cheolhan | Cho Hanseung | Win | B+1.5 | 6.5 | 2693 | 34 | 
+| 2008-02-12 | 第21回世界囲碁選手権富士通杯韓国予選決勝 | Choi Cheolhan | Kang Dongyun | Lose | W+6.5 | 6.5 | 2659 | 0 | 
+| 2008-02-11 | 第21回世界囲碁選手権富士通杯韓国予選 | Han Sanghoon | Choi Cheolhan | Win | W+2.5 | 6.5 | 2659 | 0 | 
+| 2008-01-28 | 第36期名人戦（韓国）予選 | Park Cheongsang | Choi Cheolhan | Lose | B+0.5 | 6.5 | 2659 | -44 | 
+| 2007-11-16 | 第3期圓益杯十段戦3回戦 | Lee Jungwoo | Choi Cheolhan | Lose | B+R | 6.5 | 2703 | 21 | 
+| 2007-11-12 | 第26回KBS杯囲碁王戦敗者復活戦決勝 | Lee Changho | Choi Cheolhan | Lose | B+1.5 | 6.5 | 2682 | 6 | 
+| 2007-11-08 | 2007年韓国囲碁リーグ | Choi Cheolhan | Weon Seongjin | Lose | W+R | 6.5 | 2676 | 8 | 
+| 2007-11-05 | 第9回マキシムコーヒー杯入神最強戦4回戦 | Seo Bongsoo | Choi Cheolhan | Lose | B+1.5 | 6.5 | 2668 | -4 | 
+| 2007-11-03 | 2007年韓国囲碁リーグ | Mok Jinseok | Choi Cheolhan | Lose | B+R | 6.5 | 2672 | -12 | 
+| 2007-10-25 | 第19期棋聖戦（韓国）1回戦 | An Joyeong | Choi Cheolhan | Lose | B+4.5 | 6.5 | 2684 | -8 | 
+| 2007-10-22 | 第26回KBS杯囲碁王戦敗者復活戦準決勝 | Choi Cheolhan | Lee Sedol | Win | B+R | 6.5 | 2692 | 8 | 
+| 2007-10-19 | 第9回マキシムコーヒー杯入神最強戦3回戦 |  | Choi Cheolhan | Win | W+4.5 | 6.5 | 2684 | 8 | 
+| 2007-10-18 | 2007年韓国囲碁リーグ | Paek Hongseok | Choi Cheolhan | Lose | B+R | 6.5 | 2676 | -42 | 
+| 2007-10-10 | 第12期GSカルテックス杯プロ棋戦リーグ | Choi Cheolhan | Lee Changho | Lose | W+R | 6.5 | 2718 | -7 | 
+| 2007-10-08 | 第26回KBS杯囲碁王戦本戦4回戦 | Choi Cheolhan | Cho Hanseung | Lose | W+1.5 | 6.5 | 2725 | 0 | 
+| 2007-10-08 | 第26回KBS杯囲碁王戦敗者復活戦4回戦 | Kim Jiseok | Choi Cheolhan | Win | W+R | 6.5 | 2725 | -12 | 
+| 2007-09-29 | 2007年韓国囲碁リーグ | Lee Changho | Choi Cheolhan | Lose | B+4.5 | 6.5 | 2737 | -1311 | 
+| 2007-09-16 | 2007年韓国囲碁リーグ | Choi Cheolhan | Rui Naiwei | Win | B+9.5 | 6.5 | 4048 | 1216 | 
+| 2007-09-04 | 第12回三星火災杯世界オープン囲碁選手権1回戦 | Huang Yizhong | Choi Cheolhan | Lose | B+3.5 | 6.5 | 2832 | 30 | 
+| 2007-08-29 | 2007年韓国囲碁リーグ | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 2802 | -57 | 
+| 2007-08-21 | 第12期GSカルテックス杯プロ棋戦リーグ | Choi Myeonghun | Choi Cheolhan | Win | W+R | 6.5 | 2859 | -259 | 
+| 2007-08-12 | 第3回中環杯世界囲碁選手権1回戦 | Lin Zhihan | Choi Cheolhan | Lose | B+R | 6.5 | 3118 | -98 | 
+| 2007-08-04 | 2007年韓国囲碁リーグ | Choi Cheolhan | Lee Yeongkyu | Lose | W+R | 6.5 | 3216 | -4 | 
+| 2007-08-02 | 第12期GSカルテックス杯プロ棋戦リーグ | Park Yeonghun | Choi Cheolhan | Lose | B+1.5 | 6.5 | 3220 | -72 | 
+| 2007-07-27 | 2007年韓国囲碁リーグ | Lee Yeongkyu | Choi Cheolhan | Win | W+2.5 | 6.5 | 3292 | 5 | 
+| 2007-07-19 | 第12期GSカルテックス杯プロ棋戦リーグ | Mok Jinseok | Choi Cheolhan | Lose | B+1.5 | 6.5 | 3287 | 73 | 
+| 2007-07-15 | 2007年韓国囲碁リーグ | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 3214 | 80 | 
+| 2007-07-12 | 第3期物価情報杯プロ棋戦決勝トーナメント1回戦 | Choi Cheolhan | Hong Seongji | Lose | W+R | 6.5 | 3134 | -82 | 
+| 2007-07-06 | 第9回農心杯韓国選抜戦 | Choi Cheolhan | Kim Juho | Lose | W+T | 6.5 | 3216 | -32 | 
+| 2007-07-03 | 第12期バッカス杯天元戦1回戦 | Lee Huiseong | Choi Cheolhan | Lose | B+0.5 | 6.5 | 3248 | -34 | 
+| 2007-06-27 | 第12期GSカルテックス杯プロ棋戦リーグ | On Sojin | Choi Cheolhan | Lose | B+R | 6.5 | 3282 | -10 | 
+| 2007-06-22 | 第3期物価情報杯プロ棋戦リーグC | Heo Yongho | Choi Cheolhan | Lose | B+R | 6.5 | 3292 | -28 | 
+| 2007-06-20 | 2007年韓国囲碁リーグ | Choi Cheolhan |  | Win | B+R | 6.5 | 3320 | -3 | 
+| 2007-06-18 | 第4期電子ランド杯王中王戦3回戦 | Lee Changho | Choi Cheolhan | Lose | B+R | 6.5 | 3323 | 19 | 
+| 2007-06-13 | 第19回テレビアジア選手権準決勝 | Choi Cheolhan | Chen Yaoye | Lose | W+6.5 | 6.5 | 3304 | 10 | 
+| 2007-06-11 | 第19回テレビアジア選手権1回戦 | Choi Cheolhan | Piao Wenyao | Win | B+R | 6.5 | 3294 | 2 | 
+| 2007-06-09 | 2007年韓国囲碁リーグ |  | Choi Cheolhan | Win | W+R | 6.5 | 3292 | 32 | 
+| 2007-06-04 | 第12回LG杯世界棋王戦1回戦 | Choi Cheolhan | Wang Lei (b) | Lose | W+6.5 | 6.5 | 3260 | -23 | 
+| 2007-06-02 | 第20回世界囲碁選手権富士通杯3回戦 | Cho U | Choi Cheolhan | Lose | B+R | 6.5 | 3283 | 8 | 
+| 2007-05-28 | 第26回KBS杯囲碁王戦本戦3回戦 | Hong Kipyo | Choi Cheolhan | Win | W+R | 6.5 | 3275 | 4 | 
+| 2007-05-27 | 第4期電子ランド杯王中王戦2回戦 | Oh Kyuchul | Choi Cheolhan | Win | W+8.5 | 6.5 | 3271 | -9 | 
+| 2007-05-24 | 2007年韓国囲碁リーグ | Choi Cheolhan | Mok Jinseok | Win | B+6.5 | 6.5 | 3280 | 10 | 
+| 2007-05-17 | 2007年韓国囲碁リーグ | Park Yeonghun | Choi Cheolhan | Win | W+R | 6.5 | 3270 | 0 | 
+| 2007-05-13 | 第3期物価情報杯プロ棋戦リーグC | Choi Cheolhan | Lee Yeongkyu | Win | B+R | 6.5 | 3270 | 7 | 
+| 2007-05-09 | 第12期GSカルテックス杯プロ棋戦リーグ | Cho Hanseung | Choi Cheolhan | Win | W+R | 6.5 | 3263 | -18 | 
+| 2007-05-07 | 第3期物価情報杯プロ棋戦リーグC | Choi Cheolhan |  | Win | B+R | 6.5 | 3281 | 1 | 
+| 2007-05-02 | 2007年韓国囲碁リーグ | Choi Cheolhan | An Joyeong | Lose | W+3.5 | 6.5 | 3280 | -14 | 
+| 2007-04-20 | 第4期電子ランド杯王中王戦1回戦 | Choi Cheolhan | Lee Sedol | Win | B+2.5 | 6.5 | 3294 | 22 | 
+| 2007-04-16 | 第20回世界囲碁選手権富士通杯2回戦 | Kong Jie | Choi Cheolhan | Win | W+R | 6.5 | 3272 | 4 | 
+| 2007-04-11 | 第41期王位戦3回戦 |  | Choi Cheolhan | Lose | B+3.5 | 6.5 | 3268 | -2 | 
+| 2007-04-07 | 第18期棋聖戦（韓国）挑戦手合三番勝負第2局 | Choi Cheolhan | Park Yeonghun | Lose | W+3.5 | 6.5 | 3270 | -6 | 
+| 2007-04-04 | 第41期王位戦2回戦 | Yoo Changhyuk | Choi Cheolhan | Win | W+0.5 | 6.5 | 3276 | -45 | 
+| 2007-03-16 | 第12期GSカルテックス杯プロ棋戦リーグ | Choi Cheolhan | Hong Seongji | Win | B+3.5 | 6.5 | 3321 | 346 | 
+| 2007-03-02 | 第18期棋聖戦（韓国）挑戦手合三番勝負第1局 | Park Yeonghun | Choi Cheolhan | Lose | B+R | 6.5 | 2975 | 26 | 
+| 2007-02-16 | 第18期棋聖戦（韓国）挑戦者決定戦 | Choi Cheolhan | Kim Seungjun | Win | B+R | 6.5 | 2949 | -20 | 
+| 2007-02-05 | 第18期棋聖戦（韓国）準決勝 | Choi Cheolhan | Weon Seongjin | Win | B+R | 6.5 | 2969 | 22 | 
+| 2007-02-02 | 第2期圓益杯十段戦準決勝 | Paek Hongseok | Choi Cheolhan | Lose | B+2.5 | 6.5 | 2947 | 57 | 
+| 2007-01-09 | 第2期圓益杯十段戦4回戦 | Choi Cheolhan | Kim Juho | Win | B+R | 6.5 | 2890 | 27 | 
+| 2006-12-16 | 2006年韓国囲碁リーグ |  | Choi Cheolhan | Win | W+6.5 | 6.5 | 2863 | 6 | 
+| 2006-12-15 | 2006年韓国囲碁リーグ | Weon Seongjin | Choi Cheolhan | Win | W+R | 6.5 | 2857 | -16 | 
+| 2006-12-07 | 第18期棋聖戦（韓国）2回戦 | An Joyeong | Choi Cheolhan | Win | W+R | 6.5 | 2873 | 1 | 
+| 2006-12-05 | 第2期圓益杯十段戦3回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 2872 | -25 | 
+| 2006-11-27 | 第11期GSカルテックス杯プロ棋戦挑戦手合五番勝負第3局 | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 2897 | 1 | 
+| 2006-11-20 | 第25回KBS杯囲碁王戦決勝三番勝負第2局 | Lee Sedol | Choi Cheolhan | Lose | B+3.5 | 6.5 | 2896 | -4 | 
+| 2006-11-17 | 2006年韓国囲碁リーグ | Choi Cheolhan | Yoo Changhyuk | Win | B+1.5 | 6.5 | 2900 | -14 | 
+| 2006-11-14 | 第11期GSカルテックス杯プロ棋戦挑戦手合五番勝負第2局 | Lee Sedol | Choi Cheolhan | Lose | B+0.5 | 6.5 | 2914 | 29 | 
+| 2006-11-08 | 第11回三星火災杯世界オープン囲碁選手権3回戦 | Choi Cheolhan | Chang Hao | Lose | W+3.5 | 6.5 | 2885 | -6 | 
+| 2006-11-04 | 第11期GSカルテックス杯プロ棋戦挑戦手合五番勝負第1局 | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 2891 | -8 | 
+| 2006-10-29 | 2006年韓国囲碁リーグ | Cho Hunhyun | Choi Cheolhan | Win | W+3.5 | 6.5 | 2899 | -4 | 
+| 2006-10-23 | 第25回KBS杯囲碁王戦決勝三番勝負第1局 | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 2903 | -15 | 
+| 2006-10-22 | 2006年韓国囲碁リーグ | Heo Yongho | Choi Cheolhan | Win | W+4.5 | 6.5 | 2918 | -56 | 
+| 2006-10-07 | 2006年韓国囲碁リーグ | Ryu Chaehyeong | Choi Cheolhan | Win | W+8.5 | 6.5 | 2974 | -13 | 
+| 2006-09-29 | 第18期棋聖戦（韓国）1回戦 | Heo Yongho | Choi Cheolhan | Win | W+R | 6.5 | 2987 | -7 | 
+| 2006-09-24 | 2006年韓国囲碁リーグ | Choi Cheolhan | Kim Jiseok | Win | B+R | 6.5 | 2994 | 21 | 
+| 2006-09-19 | 第8回マキシムコーヒー杯入神最強戦1回戦 | Choi Cheolhan | Yoo Changhyuk | Lose | W+R | 6.5 | 2973 | -10 | 
+| 2006-09-18 | 第25回KBS杯囲碁王戦本戦5回戦 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 2983 | 10 | 
+| 2006-09-15 | 第8回農心辛ラーメン杯世界囲碁最強戦第4戦 | Choi Cheolhan | Peng Quan | Lose | W+3.5 | 6.5 | 2973 | -38 | 
+| 2006-09-08 | 第11回三星火災杯世界オープン囲碁選手権2回戦 | Gu Li | Choi Cheolhan | Win | W+0.5 | 6.5 | 3011 | 16 | 
+| 2006-09-06 | 第11回三星火災杯世界オープン囲碁選手権1回戦 | Choi Cheolhan | Kono Rin | Win | B+R | 6.5 | 2995 | 6 | 
+| 2006-08-28 | 第3期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Peng Quan | Choi Cheolhan | Lose | B+R | 6.5 | 2989 | -13 | 
+| 2006-08-26 | 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Choi Cheolhan | Chen Yaoye | Win | B+5.5 | 6.5 | 3002 | -20 | 
+| 2006-08-18 | 2006年韓国囲碁リーグ | Kim Seonryong | Choi Cheolhan | Win | W+R | 6.5 | 3022 | -5 | 
+| 2006-08-10 | 2006年韓国囲碁リーグ | Choi Cheolhan | Mok Jinseok | Lose | W+3.5 | 6.5 | 3027 | -7 | 
+| 2006-07-24 | 第8回農心杯韓国選抜戦 | Choi Myeonghun | Choi Cheolhan | Win | W+R | 6.5 | 3034 | 3 | 
+| 2006-07-22 | 2006年韓国囲碁リーグ | Hong Seongji | Choi Cheolhan | Win | W+R | 6.5 | 3031 | -50 | 
+| 2006-07-13 | 2006年韓国囲碁リーグ | On Sojin | Choi Cheolhan | Lose | B+R | 6.5 | 3081 | -61 | 
+| 2006-07-10 | 第25回KBS杯囲碁王戦本戦4回戦 | Yoo Changhyuk | Choi Cheolhan | Win | W+R | 6.5 | 3142 | 31 | 
+| 2006-07-05 | 第2期物価情報杯プロ棋戦決勝トーナメント1回戦 | Choi Cheolhan | Lee Changho | Lose | W+1.5 | 6.5 | 3111 | 8 | 
+| 2006-07-03 | 第19回世界囲碁選手権富士通杯三位決定戦 | Choi Cheolhan | Lee Sedol | Win | B+R | 6.5 | 3103 | 0 | 
+| 2006-07-01 | 第19回世界囲碁選手権富士通杯準決勝 | Choi Cheolhan | Park Cheongsang | Lose | W+R | 6.5 | 3103 | -220 | 
+| 2006-06-25 | 2006年韓国囲碁リーグ | Park Yeonghun | Choi Cheolhan | Win | W+R | 6.5 | 3323 | 47 | 
+| 2006-06-15 | 第50期国手戦（韓国）1回戦 | Lee Huiseong | Choi Cheolhan | Lose | B+R | 6.5 | 3276 | -17 | 
+| 2006-06-13 | 第3期電子ランド杯王中王戦3回戦 | Choi Kyubyeong | Choi Cheolhan | Lose | B+R | 6.5 | 3293 | 5 | 
+| 2006-06-10 | 2006年韓国囲碁リーグ | Choi Cheolhan | Kim Jiseok | Win | B+R | 6.5 | 3288 | 9 | 
+| 2006-06-07 | 第2期物価情報杯プロ棋戦リーグD | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 3279 | -10 | 
+| 2006-06-05 | 第25回KBS杯囲碁王戦本戦3回戦 | Choi Cheolhan | Kim Juho | Win | B+R | 6.5 | 3289 | 0 | 
+| 2006-06-03 | 第19回世界囲碁選手権富士通杯3回戦 | Yuki Satoshi | Choi Cheolhan | Win | W+R | 6.5 | 3289 | 10 | 
+| 2006-05-30 | 第2期物価情報杯プロ棋戦リーグD | Choi Cheolhan | Park Cheongsang | Win | B+R | 6.5 | 3279 | 105 | 
+| 2006-05-20 | 2006年韓国囲碁リーグ | An Joyeong | Choi Cheolhan | Win | W+R | 6.5 | 3174 | 3 | 
+| 2006-05-18 | 第3期電子ランド杯王中王戦2回戦 | Yun Junsang | Choi Cheolhan | Win | W+R | 6.5 | 3171 | 12 | 
+| 2006-05-15 | 第11回LG杯世界棋王戦1回戦 | Choi Cheolhan | Chen Yaoye | Lose | W+R | 6.5 | 3159 | -14 | 
+| 2006-05-11 | 2006年韓国囲碁リーグ | Choi Cheolhan | Yun Junsang | Win | B+2.5 | 6.5 | 3173 | 8 | 
+| 2006-05-10 | 第40期王位戦準決勝 | Choi Cheolhan | Seo Musang | Lose | W+R | 6.5 | 3165 | -13 | 
+| 2006-05-08 | 第40期王位戦3回戦 | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 3178 | -2 | 
+| 2006-05-03 | 第5回CSK杯囲碁アジア対抗戦第3戦 | Choi Cheolhan | Xie He | Lose | W+14.5 | 6.5 | 3180 | -7 | 
+| 2006-05-02 | 第5回CSK杯囲碁アジア対抗戦第2戦 | Choi Cheolhan | Cho U | Lose | W+R | 6.5 | 3187 | -19 | 
+| 2006-05-01 | 第5回CSK杯囲碁アジア対抗戦第1戦 | Choi Cheolhan | Kono Rin | Win | B+R | 6.5 | 3206 | -9 | 
+| 2006-04-28 | 2006年韓国囲碁リーグ |  | Choi Cheolhan | Win | W+R | 6.5 | 3215 | -19 | 
+| 2006-04-18 | 第2期物価情報杯プロ棋戦リーグD | Choi Cheolhan | Cho Hunhyun | Win | B+R | 6.5 | 3234 | -2 | 
+| 2006-04-10 | 第19回世界囲碁選手権富士通杯2回戦 | Choi Cheolhan | Cho U | Win | B+1.5 | 6.5 | 3236 | 7 | 
+| 2006-04-04 | 第7回マキシムコーヒー杯入神最強戦決勝三番勝負第3局 | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 3229 | -6 | 
+| 2006-03-31 | 第40期王位戦2回戦 | Jin Siyoung | Choi Cheolhan | Win | W+R | 6.5 | 3235 | 0 | 
+| 2006-03-26 | 第7回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 3235 | 1 | 
+| 2006-03-22 | 第3期電子ランド杯王中王戦1回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 3234 | -1 | 
+| 2006-03-11 | 第6回春蘭杯世界囲碁選手権1回戦 | Xie He | Choi Cheolhan | Lose | B+R | 7.5 | 3235 | 11 | 
+| 2006-03-02 | 第49期国手戦（韓国）挑戦手合五番勝負第5局 | Lee Changho | Choi Cheolhan | Lose | B+R | 6.5 | 3224 | -15 | 
+| 2006-02-22 | 第7回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 3239 | -16 | 
+| 2006-02-18 | 第7回マキシムコーヒー杯入神最強戦準決勝 | Park Yeonghun | Choi Cheolhan | Win | W+1.5 | 6.5 | 3255 | -2 | 
+| 2006-02-15 | 第49期国手戦（韓国）挑戦手合五番勝負第4局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 3257 | 9 | 
+| 2006-02-11 | 第49期国手戦（韓国）挑戦手合五番勝負第3局 | Lee Changho | Choi Cheolhan | Lose | B+R | 6.5 | 3248 | -10 | 
+| 2006-02-09 | 第7回マキシムコーヒー杯入神最強戦3回戦 | Kim Seungjun | Choi Cheolhan | Win | W+4.5 | 6.5 | 3258 | -1 | 
+| 2006-02-02 | 第49期国手戦（韓国）挑戦手合五番勝負第2局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 3259 | 3 | 
+| 2006-01-25 | 第49期国手戦（韓国）挑戦手合五番勝負第1局 | Lee Changho | Choi Cheolhan | Lose | B+R | 6.5 | 3256 | 31 | 
+| 2006-01-10 | 第7回マキシムコーヒー杯入神最強戦2回戦 | Kim Ilhwan | Choi Cheolhan | Win | W+R | 6.5 | 3225 | -239 | 
+| 2005-12-19 | 2005年韓国囲碁リーグ優勝決定戦 | Park Yeonghun | Choi Cheolhan | Lose | B+R | 6.5 | 3464 | 20 | 
+| 2005-12-18 | 2005年韓国囲碁リーグ優勝決定戦 | Park Yeonghun | Choi Cheolhan | Lose | B+R | 6.5 | 3444 | -8 | 
+| 2005-12-16 | 第10回三星火災杯世界オープン囲碁選手権準決勝三番勝負第3局 | Choi Cheolhan | Luo Xihe | Lose | W+7.5 | 6.5 | 3452 | -8 | 
+| 2005-12-15 | 第10回三星火災杯世界オープン囲碁選手権準決勝三番勝負第2局 | Choi Cheolhan | Luo Xihe | Win | B+R | 6.5 | 3460 | 1 | 
+| 2005-12-13 | 第10回三星火災杯世界オープン囲碁選手権準決勝三番勝負第1局 | Luo Xihe | Choi Cheolhan | Lose | B+R | 6.5 | 3459 | -5 | 
+| 2005-12-11 | 2005年韓国囲碁リーグプレーオフ | Choi Cheolhan | Mok Jinseok | Win | B+1.5 | 6.5 | 3464 | -56 | 
+| 2005-12-04 | 2005年韓国囲碁リーグプレーオフ | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 3520 | -1 | 
+| 2005-12-01 | 第10期GSカルテックス杯プロ棋戦決勝五番勝負第5局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 3521 | 33 | 
+| 2005-11-21 | 第10期GSカルテックス杯プロ棋戦決勝五番勝負第4局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 3488 | -42 | 
+| 2005-11-16 | 第10回三星火災杯世界オープン囲碁選手権3回戦 | Cho Hunhyun | Choi Cheolhan | Win | W+R | 6.5 | 3530 | 114 | 
+| 2005-11-13 | 2005年韓国囲碁リーグ | Choi Cheolhan | Cho Hunhyun | Win | B+3.5 | 6.5 | 3416 | 1 | 
+| 2005-11-12 | 第1期圓益杯十段戦準決勝 | Lee Changho | Choi Cheolhan | Lose | B+R | 6.5 | 3415 | 82 | 
+| 2005-10-16 | 2005年韓国囲碁リーグ | Yoo Changhyuk | Choi Cheolhan | Win | W+8.5 | 6.5 | 3333 | 21 | 
+| 2005-10-10 | 第7回マキシムコーヒー杯入神最強戦1回戦 | Jeong Suhyeon | Choi Cheolhan | Win | W+R | 6.5 | 3312 | 8 | 
+| 2005-10-06 | 第10期GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 3304 | 13 | 
+| 2005-10-04 | 第1期圓益杯十段戦3回戦 | Choi Cheolhan | Mok Jinseok | Win | B+R | 6.5 | 3291 | 15 | 
+| 2005-09-30 | 第10回三星火災杯世界オープン囲碁選手権2回戦 | Choi Cheolhan | Hane Naoki | Win | B+R | 6.5 | 3276 | 0 | 
+| 2005-09-28 | 第10回三星火災杯世界オープン囲碁選手権1回戦 | Li Zhe | Choi Cheolhan | Win | W+R | 6.5 | 3276 | 31 | 
+| 2005-09-21 | 第10期GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Choi Cheolhan | Lee Changho | Lose | W+R | 6.5 | 3245 | 30 | 
+| 2005-09-14 | 第17期棋聖戦（韓国）1回戦 | Choi Cheolhan | Kim Juho | Lose | W+0.5 | 6.5 | 3215 | -27 | 
+| 2005-09-08 | 第10期GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Lee Changho | Choi Cheolhan | Lose | B+R | 6.5 | 3242 | 10 | 
+| 2005-09-04 | 2005年韓国囲碁リーグ | Choi Cheolhan | Lee Changho | Win | B+5.5 | 6.5 | 3232 | -2 | 
+| 2005-09-01 | 第1期圓益杯十段戦1回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 3234 | -4 | 
+| 2005-08-24 | 第10期GSカルテックス杯プロ棋戦準決勝 | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 3238 | 3 | 
+| 2005-08-21 | 2005年韓国囲碁リーグ | Choi Cheolhan | Mok Jinseok | Win | B+R | 6.5 | 3235 | 4 | 
+| 2005-08-20 | 第2回中環杯世界囲碁選手権決勝 | Lee Sedol | Choi Cheolhan | Win | W+R | 6.5 | 3231 | 15 | 
+| 2005-08-18 | 第2回中環杯世界囲碁選手権準決勝 | Yoda Norimoto | Choi Cheolhan | Win | W+1.5 | 6.5 | 3216 | -54 | 
+| 2005-08-16 | 第2回中環杯世界囲碁選手権2回戦 | Yamashita Keigo | Choi Cheolhan | Win | W+1.5 | 6.5 | 3270 | 24 | 
+| 2005-08-14 | 第2回中環杯世界囲碁選手権1回戦 | Cho Chikun | Choi Cheolhan | Win | W+R | 6.5 | 3246 | 12 | 
+| 2005-08-11 | 第1期物価情報杯プロ棋戦決勝トーナメント準決勝 | Choi Cheolhan | Park Yeonghun | Lose | W+R | 6.5 | 3234 | -4 | 
+| 2005-08-10 | 第10期バッカス杯天元戦1回戦 | Choi Cheolhan | Kim Daeyoung | Lose | W+R | 6.5 | 3238 | -5 | 
+| 2005-08-08 | 第1期物価情報杯プロ棋戦リーグC | Jiang Zhujiu | Choi Cheolhan | Win | W+R | 6.5 | 3243 | 0 | 
+| 2005-08-05 | 第1期物価情報杯プロ棋戦リーグC | Song Taekon | Choi Cheolhan | Win | W+R | 6.5 | 3243 | -23 | 
+| 2005-07-29 | 第10期GSカルテックス杯プロ棋戦2回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 3266 | 6 | 
+| 2005-07-22 | 第9回中韓天元対抗戦第3局 | Gu Li | Choi Cheolhan | Lose | B+1.5 | 7.5 | 3260 | -2 | 
+| 2005-07-21 | 第9回中韓天元対抗戦第2局 | Gu Li | Choi Cheolhan | Lose | B+1.5 | 7.5 | 3262 | -11 | 
+| 2005-07-19 | 第9回中韓天元対抗戦第1局 | Choi Cheolhan | Gu Li | Win | B+R | 7.5 | 3273 | 18 | 
+| 2005-07-11 | 第2期電子ランド杯王中王戦決勝三番勝負第2局 | Choi Cheolhan | Lee Changho | Lose | W+R | 6.5 | 3255 | -8 | 
+| 2005-07-10 | 2005年韓国囲碁リーグ | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 3263 | 24 | 
+| 2005-07-06 | 第2期電子ランド杯王中王戦決勝三番勝負第1局 | Lee Changho | Choi Cheolhan | Lose | B+0.5 | 6.5 | 3239 | -5 | 
+| 2005-07-04 | 第18回世界囲碁選手権富士通杯決勝 | Choi Cheolhan | Lee Sedol | Lose | W+2.5 | 6.5 | 3244 | -14 | 
+| 2005-07-02 | 第18回世界囲碁選手権富士通杯準決勝 | Choi Cheolhan | Song Taekon | Win | B+R | 6.5 | 3258 | 314 | 
+| 2005-06-24 | 第7回農心杯韓国選抜戦 | Choi Cheolhan | Lee Sedol | Lose | W+R | 6.5 | 2944 | -11 | 
+| 2005-06-21 | 第2期電子ランド杯王中王戦準決勝 | Cho Hanseung | Choi Cheolhan | Win | W+3.5 | 6.5 | 2955 | 1 | 
+| 2005-06-19 | 第1期物価情報杯プロ棋戦リーグC | Choi Cheolhan | An Joyeong | Lose | W+2.5 | 6.5 | 2954 | -16 | 
+| 2005-06-14 | 第10期GSカルテックス杯プロ棋戦1回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 2970 | -2 | 
+| 2005-06-12 | 2005年韓国囲碁リーグ | Park Yeonghun | Choi Cheolhan | Lose | B+10.5 | 6.5 | 2972 | 4 | 
+| 2005-06-06 | 第2期電子ランド杯王中王戦3回戦 | Lee Huiseong | Choi Cheolhan | Win | W+4.5 | 6.5 | 2968 | 15 | 
+| 2005-06-04 | 第18回世界囲碁選手権富士通杯3回戦 | Choi Cheolhan | O Meien | Win | B+6.5 | 6.5 | 2953 | 12 | 
+| 2005-05-29 | 2005年韓国囲碁リーグ | Song Taekon | Choi Cheolhan | Win | W+R | 6.5 | 2941 | -23 | 
+| 2005-05-23 | 第2期電子ランド杯王中王戦2回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 2964 | 2 | 
+| 2005-05-16 | 第10回LG杯世界棋王戦1回戦 | So Yokoku | Choi Cheolhan | Lose | B+R | 6.5 | 2962 | -33 | 
+| 2005-05-13 | 第1回日月星杯中韓囲碁対抗戦第4戦 | Choi Cheolhan | Wang Xi | Win | B+R | 6.5 | 2995 | 3 | 
+| 2005-05-12 | 第1回日月星杯中韓囲碁対抗戦第3戦 | Hu Yaoyu | Choi Cheolhan | Win | W+R | 6.5 | 2992 | -14 | 
+| 2005-05-09 | 第16期棋聖戦（韓国）挑戦手合五番勝負第5局 | Choi Cheolhan | Park Yeonghun | Lose | W+0.5 | 6.5 | 3006 | -7 | 
+| 2005-05-03 | 第4回CSK杯囲碁アジア対抗戦第3戦 | Wang Lei (b) | Choi Cheolhan | Win | W+R | 6.5 | 3013 | 6 | 
+| 2005-05-02 | 第4回CSK杯囲碁アジア対抗戦第2戦 | Choi Cheolhan | Yoda Norimoto | Win | B+4.5 | 6.5 | 3007 | 4 | 
+| 2005-05-01 | 第4回CSK杯囲碁アジア対抗戦第1戦 | O Meien | Choi Cheolhan | Win | W+5.5 | 6.5 | 3003 | 65 | 
+| 2005-04-27 | 第16期棋聖戦（韓国）挑戦手合五番勝負第4局 | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 2938 | -16 | 
+| 2005-04-21 | 第2期電子ランド杯王中王戦1回戦 | Choi Cheolhan | Cho Hyeyeon | Win | B+4.5 | 6.5 | 2954 | 3 | 
+| 2005-04-20 | 第24回KBS杯囲碁王戦敗者復活戦1回戦 | Hong Minpyo | Choi Cheolhan | Win | W+14.5 | 6.5 | 2951 | -102 | 
+| 2005-04-11 | 第18回世界囲碁選手権富士通杯2回戦 | Cho U | Choi Cheolhan | Win | W+1.5 | 6.5 | 3053 | -18 | 
+| 2005-03-25 | 第16期棋聖戦（韓国）挑戦手合五番勝負第3局 | Park Yeonghun | Choi Cheolhan | Win | W+R | 6.5 | 3071 | 5 | 
+| 2005-03-18 | 第16期棋聖戦（韓国）挑戦手合五番勝負第2局 | Choi Cheolhan | Park Yeonghun | Lose | W+R | 6.5 | 3066 | -11 | 
+| 2005-03-11 | 第16期棋聖戦（韓国）挑戦手合五番勝負第1局 | Park Yeonghun | Choi Cheolhan | Lose | B+1.5 | 6.5 | 3077 | 33 | 
+| 2005-03-05 | 第5回応氏杯世界選手権決勝五番勝負第4局 | Chang Hao | Choi Cheolhan | Lose | B+3 | 7.5 | 3044 | -20 | 
+| 2005-03-03 | 第5回応氏杯世界選手権決勝五番勝負第3局 | Choi Cheolhan | Chang Hao | Lose | W+R | 7.5 | 3064 | -371 | 
+| 2005-02-28 | 第2期電子ランド杯王中王戦予選 | Choi Cheolhan | Lee Yeongkyu | Win | B+R | 6.5 | 3435 | -20 | 
+| 2005-02-19 | 第48期国手戦（韓国）挑戦手合五番勝負第3局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 3455 | -57 | 
+| 2005-02-15 | 第2期電子ランド杯王中王戦予選 | Choi Cheolhan |  | Win | B+4.5 | 6.5 | 3512 | 53 | 
+| 2005-02-11 | 第48期国手戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 3459 | 22 | 
+| 2005-02-05 | 第1回日月星杯中韓囲碁対抗戦第2戦 | Luo Xihe | Choi Cheolhan | Win | W+8.5 | 7.5 | 3437 | 3 | 
+| 2005-02-04 | 第1回日月星杯中韓囲碁対抗戦第1戦 | Wang Lei (b) | Choi Cheolhan | Win | W+R | 7.5 | 3434 | 49 | 
+| 2005-01-19 | 第24回KBS杯囲碁王戦本戦2回戦 | Choi Cheolhan | Lee Yeongkyu | Lose | W+R | 6.5 | 3385 | 15 | 
+| 2005-01-10 | 第48期国手戦（韓国）挑戦手合五番勝負第1局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 3370 | 67 | 
+| 2004-12-28 | 第5回応氏杯世界選手権決勝五番勝負第2局 | Chang Hao | Choi Cheolhan | Lose | B+R | 7.5 | 3303 | -26 | 
+| 2004-12-26 | 第5回応氏杯世界選手権決勝五番勝負第1局 | Choi Cheolhan | Chang Hao | Win | B+R | 7.5 | 3329 | 63 | 
+| 2004-12-03 | 第9期バッカス杯天元戦決勝五番勝負第3局 |  | Choi Cheolhan | Win | W+R | 6.5 | 3266 | 74 | 
+| 2004-11-27 | 第6回農心辛ラーメン杯世界囲碁最強戦第8戦 | Choi Cheolhan | Cho Chikun | Lose | W+R | 6.5 | 3192 | -8 | 
+| 2004-11-26 | 第6回農心辛ラーメン杯世界囲碁最強戦第7戦 | Peng Quan | Choi Cheolhan | Win | W+R | 6.5 | 3200 | 38 | 
+| 2004-11-21 | 2004年韓国囲碁リーグ | Choi Cheolhan | Mok Jinseok | Win | B+5.5 | 6.5 | 3162 | 19 | 
+| 2004-11-19 | 第9期バッカス杯天元戦決勝五番勝負第2局 | Choi Cheolhan |  | Win | B+R | 6.5 | 3143 | 11 | 
+| 2004-11-12 | 第9期バッカス杯天元戦決勝五番勝負第1局 |  | Choi Cheolhan | Win | W+R | 6.5 | 3132 | 168 | 
+| 2004-10-31 | 2004年韓国囲碁リーグ | Choi Cheolhan | Lee Sedol | Win | B+R | 6.5 | 2964 | -386 | 
+| 2004-10-19 | 第9期バッカス杯天元戦準決勝 | Choi Cheolhan | Cho Hunhyun | Win | B+4.5 | 6.5 | 3350 | 93 | 
+| 2004-10-10 | 2004年韓国囲碁リーグ | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 3257 | -21 | 
+| 2004-10-07 | 第9回三星火災杯世界オープン囲碁選手権3回戦 | Choi Cheolhan | Gu Li | Lose | W+R | 6.5 | 3278 | 40 | 
+| 2004-10-01 | 第1期電子ランド杯王中王戦準決勝 | Choi Cheolhan | Kim Seonryong | Lose | W+1.5 | 6.5 | 3238 | -223 | 
+| 2004-09-23 | 第6回農心杯韓国選抜戦 | Choi Cheolhan | Lee Sedol | Win | B+15.5 | 6.5 | 3461 | 61 | 
+| 2004-09-21 | 第8期SKガス杯新鋭プロ十傑戦リーグB | An Younggil | Choi Cheolhan | Lose | B+R | 6.5 | 3400 | -120 | 
+| 2004-09-19 | 2004年韓国囲碁リーグ | Song Taekon | Choi Cheolhan | Lose | B+R | 6.5 | 3520 | -1 | 
+| 2004-09-16 | 第1回中環杯世界囲碁選手権1回戦 | Choi Cheolhan | Yamashita Keigo | Lose | W+R | 6.5 | 3521 | -21 | 
+| 2004-09-13 | 第1期電子ランド杯王中王戦3回戦 | Cho Hunhyun | Choi Cheolhan | Win | W+R | 6.5 | 3542 | -23 | 
+| 2004-09-10 | 第5回応氏杯世界選手権準決勝三番勝負第3局 | Peng Quan | Choi Cheolhan | Win | W+13 | 7.5 | 3565 | 139 | 
+| 2004-09-08 | 第5回応氏杯世界選手権準決勝三番勝負第2局 | Choi Cheolhan | Peng Quan | Lose | W+13 | 7.5 | 3426 | 157 | 
+| 2004-09-06 | 第5回応氏杯世界選手権準決勝三番勝負第1局 | Peng Quan | Choi Cheolhan | Win | W+R | 7.5 | 3269 | 20 | 
+| 2004-09-03 | 第9回三星火災杯世界オープン囲碁選手権2回戦 | Choi Cheolhan | Luo Xihe | Win | B+R | 6.5 | 3249 | -5 | 
+| 2004-09-01 | 第9回三星火災杯世界オープン囲碁選手権1回戦 | Choi Cheolhan | Hane Naoki | Win | B+R | 6.5 | 3254 | 3 | 
+| 2004-08-27 | 第2期トヨタ＆デンソー杯囲碁世界王座戦準決勝 | Chang Hao | Choi Cheolhan | Lose | B+R | 6.5 | 3251 | -18 | 
+| 2004-08-25 | 第2期トヨタ＆デンソー杯囲碁世界王座戦3回戦 | Choi Cheolhan | Yuki Satoshi | Win | B+2.5 | 6.5 | 3269 | 3 | 
+| 2004-08-23 | 第2期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Choi Cheolhan | Sakai Hideyuki | Win | B+R | 6.5 | 3266 | 5 | 
+| 2004-08-21 | 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Hikosaka Naoto | Choi Cheolhan | Win | W+2.5 | 6.5 | 3261 | 22 | 
+| 2004-08-17 | 第9期バッカス杯天元戦2回戦 | Choi Cheolhan | Mok Jinseok | Win | B+R | 6.5 | 3239 | 12 | 
+| 2004-08-16 | 第1期電子ランド杯王中王戦2回戦 | Choi Cheolhan | Yun Kihyeon | Win | B+R | 6.5 | 3227 | 6 | 
+| 2004-08-13 | 第8回中韓天元対抗戦第3局 | Choi Cheolhan | Gu Li | Lose | W+R | 6.5 | 3221 | -24 | 
+| 2004-08-12 | 第8回中韓天元対抗戦第2局 | Choi Cheolhan | Gu Li | Win | B+R | 6.5 | 3245 | -5 | 
+| 2004-08-10 | 第8回中韓天元対抗戦第1局 | Gu Li | Choi Cheolhan | Lose | B+R | 6.5 | 3250 | 41 | 
+| 2004-07-18 | 2004年韓国囲碁リーグ | Cho Hunhyun | Choi Cheolhan | Win | W+R | 6.5 | 3209 | -17 | 
+| 2004-07-12 | 第8期SKガス杯新鋭プロ十傑戦リーグB | Cho Hyeyeon | Choi Cheolhan | Win | W+R | 6.5 | 3226 | -47 | 
+| 2004-07-02 | 第23回KBS杯囲碁王戦敗者復活戦4回戦 | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 3273 | -3 | 
+| 2004-06-22 | 第1期電子ランド杯王中王戦予選 | Hong Seongji | Choi Cheolhan | Win | W+10.5 | 6.5 | 3276 | 5 | 
+| 2004-06-18 | 第23回KBS杯囲碁王戦本戦4回戦 | Choi Cheolhan | Lee Changho | Lose | W+R | 6.5 | 3271 | 3 | 
+| 2004-06-16 | 第9期バッカス杯天元戦1回戦 | Choi Cheolhan | Choi Myeonghun | Win | B+R | 6.5 | 3268 | -17 | 
+| 2004-06-14 | 第1期電子ランド杯王中王戦予選 | Song Taekon | Choi Cheolhan | Lose | B+2.5 | 6.5 | 3285 | -15 | 
+| 2004-06-13 | 2004年韓国囲碁リーグ | Yoo Changhyuk | Choi Cheolhan | Win | W+R | 6.5 | 3300 | -8 | 
+| 2004-06-10 | 第8期SKガス杯新鋭プロ十傑戦リーグB | Choi Cheolhan | Lee Huiseong | Lose | W+0.5 | 6.5 | 3308 | -26 | 
+| 2004-06-05 | 第17回世界囲碁選手権富士通杯3回戦 | Yoo Changhyuk | Choi Cheolhan | Lose | B+R | 6.5 | 3334 | -18 | 
+| 2004-05-20 | 第9回LG杯世界棋王戦2回戦 | Choi Cheolhan | Kong Jie | Lose | W+R | 6.5 | 3352 | -20 | 
+| 2004-05-16 | 2004年韓国囲碁リーグ | Choi Cheolhan | Lee Changho | Lose | W+7.5 | 6.5 | 3372 | 7 | 
+| 2004-05-12 | 第8期SKガス杯新鋭プロ十傑戦リーグB | Kim Daeyoung | Choi Cheolhan | Win | W+R | 6.5 | 3365 | -10 | 
+| 2004-04-24 | 第5回応氏杯世界選手権3回戦 | Choi Cheolhan | Lee Changho | Win | B+5 | 7.5 | 3375 | 8 | 
+| 2004-04-22 | 第5回応氏杯世界選手権2回戦 | Choi Cheolhan | Ma Xiaochun | Win | B+3 | 7.5 | 3367 | 32 | 
+| 2004-04-20 | 第5回応氏杯世界選手権1回戦 | Choi Cheolhan | Hane Naoki | Win | B+R | 7.5 | 3335 | 0 | 
+| 2004-04-16 | 第15期棋聖戦（韓国）挑戦手合五番勝負第4局 | Choi Cheolhan | Lee Changho | Win | B+2.5 | 6.5 | 3335 | 0 | 
+| 2004-04-12 | 第17回世界囲碁選手権富士通杯2回戦 | Hane Naoki | Choi Cheolhan | Win | W+R | 6.5 | 3335 | -15 | 
+| 2004-04-10 | 第17回世界囲碁選手権富士通杯1回戦 | Choi Cheolhan |  | Win | B+R | 6.5 | 3350 | -9 | 
+| 2004-04-06 | 第15期棋聖戦（韓国）挑戦手合五番勝負第3局 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 3359 | 67 | 
+| 2004-04-02 | 第23回KBS杯囲碁王戦本戦3回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 3292 | 20 | 
+| 2004-03-23 | 第3回CSK杯囲碁アジア対抗戦第3戦 | Kong Jie | Choi Cheolhan | Lose | B+R | 6.5 | 3272 | -54 | 
+| 2004-03-22 | 第3回CSK杯囲碁アジア対抗戦第2戦 | Yamashita Keigo | Choi Cheolhan | Win | W+R | 6.5 | 3326 | 20 | 
+| 2004-03-21 | 第3回CSK杯囲碁アジア対抗戦第1戦 | Choi Cheolhan | Rin Kaiho | Win | B+R | 6.5 | 3306 | 18 | 
+| 2004-03-12 | 第14期BCカード杯新人王戦 | Choi Cheolhan | Yun Junsang | Lose | W+0.5 | 6.5 | 3288 | -13 | 
+| 2004-03-08 | 第8期SKガス杯新鋭プロ十傑戦リーグB | Choi Cheolhan | Hong Seongji | Win | B+R | 6.5 | 3301 | -7 | 
+| 2004-03-05 | 第15期棋聖戦（韓国）挑戦手合五番勝負第2局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 3308 | 8 | 
+| 2004-03-02 | 第47期国手戦（韓国）挑戦手合五番勝負第5局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 3300 | 7 | 
+| 2004-02-27 | 第15期棋聖戦（韓国）挑戦手合五番勝負第1局 | Lee Changho | Choi Cheolhan | Lose | B+R | 6.5 | 3293 | 38 | 
+| 2004-02-23 | 第47期国手戦（韓国）挑戦手合五番勝負第4局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 3255 | 160 | 
+| 2004-02-20 | 第15期棋聖戦（韓国）挑戦者決定戦三番勝負第3局 | Choi Cheolhan | Ryu Chaehyeong | Win | B+R | 6.5 | 3095 | 6 | 
+| 2004-02-18 | 第47期国手戦（韓国）挑戦手合五番勝負第3局 | Lee Changho | Choi Cheolhan | Lose | B+9.5 | 6.5 | 3089 | -46 | 
+| 2004-02-07 | 第47期国手戦（韓国）挑戦手合五番勝負第2局 | Choi Cheolhan | Lee Changho | Win | B+R | 6.5 | 3135 | 24 | 
+| 2004-01-30 | 第15期棋聖戦（韓国）挑戦者決定戦三番勝負第2局 | Ryu Chaehyeong | Choi Cheolhan | Lose | B+R | 6.5 | 3111 | 1 | 
+| 2004-01-19 | 第15期棋聖戦（韓国）挑戦者決定戦三番勝負第1局 | Choi Cheolhan | Ryu Chaehyeong | Win | B+R | 6.5 | 3110 | -9 | 
+| 2004-01-14 | 第47期国手戦（韓国）挑戦手合五番勝負第1局 | Lee Changho | Choi Cheolhan | Lose | B+1.5 | 6.5 | 3119 | -29 | 
+| 2004-01-06 | 第15期棋聖戦（韓国）準決勝 | Choi Cheolhan | Mok Jinseok | Win | B+R | 6.5 | 3148 | 87 | 
+| 2003-12-18 | 第8期バッカス杯天元戦決勝五番勝負第4局 | Weon Seongjin | Choi Cheolhan | Win | W+R | 6.5 | 3061 | -32 | 
+| 2003-12-13 | 第8期バッカス杯天元戦決勝五番勝負第3局 | Choi Cheolhan | Weon Seongjin | Win | B+2.5 | 6.5 | 3093 | 14 | 
+| 2003-12-10 | 第47期国手戦（韓国）挑戦者決定戦第2局 | Choi Cheolhan |  | Win | B+R | 6.5 | 3079 | 42 | 
+| 2003-12-08 | 第8期バッカス杯天元戦決勝五番勝負第2局 | Weon Seongjin | Choi Cheolhan | Win | W+R | 6.5 | 3037 | 15 | 
+| 2003-12-06 | 第1回韓国ドリームリーグ | Choi Myeonghun | Choi Cheolhan | Win | W+4.5 | 6.5 | 3022 | -43 | 
+| 2003-12-03 | 第47期国手戦（韓国）挑戦者決定戦第1局 |  | Choi Cheolhan | Win | W+R | 6.5 | 3065 | 47 | 
+| 2003-11-28 | 第8期バッカス杯天元戦決勝五番勝負第1局 | Choi Cheolhan | Weon Seongjin | Lose | W+1.5 | 6.5 | 3018 | -11 | 
+| 2003-11-24 | 第15期棋聖戦（韓国）2回戦 | Choi Cheolhan | An Joyeong | Win | B+R | 6.5 | 3029 | -54 | 
+| 2003-11-08 | 第1回韓国ドリームリーグ | Choi Cheolhan | Kim Myeongwan | Lose | W+R | 6.5 | 3083 | -15 | 
+| 2003-10-29 | 第8期バッカス杯天元戦準決勝 | Choi Cheolhan | Cho Hunhyun | Win | B+R | 6.5 | 3098 | -2922 | 
+| 2003-10-18 | 第1回韓国ドリームリーグ | Choi Cheolhan | Choi Kyubyeong | Win | B+R | 6.5 | 6020 | 173 | 
+| 2003-10-15 | 第47期国手戦（韓国）勝者組決勝 |  | Choi Cheolhan | Win | W+R | 6.5 | 5847 | 145 | 
+| 2003-10-06 | 第14期BCカード杯新人王戦 | An Joyeong | Choi Cheolhan | Lose | B+R | 6.5 | 5702 | -50 | 
+| 2003-10-02 | 第15期棋聖戦（韓国）1回戦 | Cho Hunhyun | Choi Cheolhan | Win | W+R | 6.5 | 5752 | 2942 | 
+| 2003-09-17 | 第14期BCカード杯新人王戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 2810 | 21 | 
+| 2003-09-08 | 第47期国手戦（韓国）本戦2回戦 | Paek Daehyun | Choi Cheolhan | Win | W+15.5 | 6.5 | 2789 | 14 | 
+| 2003-09-06 | 第1回韓国ドリームリーグ | Choi Cheolhan | Mok Jinseok | Lose | W+R | 6.5 | 2775 | 9 | 
+| 2003-09-04 | 第14期BCカード杯新人王戦 | Park Cheongsang | Choi Cheolhan | Win | W+11.5 | 6.5 | 2766 | 15 | 
+| 2003-08-29 | 第8期三星杯2回戦 | Choi Cheolhan | Xie He | Lose | W+R | 6.5 | 2751 | 13 | 
+| 2003-08-27 | 第8期三星杯1回戦 | Choi Cheolhan | Chang Hao | Win | B+2.5 | 6.5 | 2738 | 30 | 
+| 2003-08-14 | 第8期バッカス杯天元戦2回戦 | Choi Cheolhan | An Joyeong | Win | B+R | 6.5 | 2708 | 100 | 
+| 2003-08-09 | 第1回韓国ドリームリーグ | Choi Cheolhan |  | Win | B+R | 6.5 | 2608 | 77 | 
+| 2003-08-04 | 第8期三星杯予選決勝 |  | Choi Cheolhan | Win | W+R | 6.5 | 2531 | 73 | 
+| 2003-07-08 | 第47期国手戦（韓国）本戦1回戦 | Choi Cheolhan | Cho Hunhyun | Win | B+11.5 | 6.5 | 2458 | -11 | 
+| 2003-04-04 | 第8期バッカス杯天元戦1回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 2469 | 21 | 
+| 2003-04-03 | 第3期オスラムコリア杯新鋭連勝最強戦予選 |  | Choi Cheolhan | Lose | B+R | 6.5 | 2448 | -91 | 
+| 2003-03-14 | 第37期覇王戦本戦第19局 | Lee Changho | Choi Cheolhan | Lose | B+0.5 | 6.5 | 2539 | -28 | 
+| 2003-03-07 | 第37期覇王戦本戦第18局 | Choi Cheolhan | Hong Minpyo | Win | B+R | 6.5 | 2567 | 14 | 
+| 2003-02-19 | 第3回KAT杯韓国囲碁最強戦 | Choi Cheolhan | An Younggil | Win | B+R | 6.5 | 2553 | 70 | 
+| 2003-01-29 | 第37期王位戦予選 | Choi Cheolhan | Park Cheongsang | Lose | W+R | 6.5 | 2483 | -8 | 
+| 2003-01-07 | 第3回KAT杯韓国囲碁最強戦 | Choi Cheolhan | Paek Daehyun | Win | B+R | 6.5 | 2491 | 58 | 
+| 2002-12-09 | 第7期SKガス杯新鋭プロ十傑戦予選 | Choi Cheolhan | Weon Seongjin | Lose | W+R | 6.5 | 2433 | -10 | 
+| 2002-10-14 | 第46期国手戦（韓国）敗者復活戦2回戦 | Paek Daehyun | Choi Cheolhan | Lose | B+R | 6.5 | 2443 | -31 | 
+| 2002-10-05 | 2002年国際新鋭囲碁対抗戦第3戦 | Choi Cheolhan | Peng Quan | Win | B+4.5 | 6.5 | 2474 | 80 | 
+| 2002-09-23 | 第2期KT杯マスターズプロ棋戦2回戦 | Park Yeonghun | Choi Cheolhan | Lose | B+1.5 | 6.5 | 2394 | -21 | 
+| 2002-09-06 | 第46期国手戦（韓国）本戦2回戦 | Choi Cheolhan | Cho Hanseung | Lose | W+R | 6.5 | 2415 | -33 | 
+| 2002-08-28 | 第7期三星杯1回戦 | Choi Cheolhan | Wang Yuhui | Lose | W+6.5 | 6.5 | 2448 | 196 | 
+| 2002-08-05 | 第13期BCカード杯新人王戦 | Kim Myeongwan | Choi Cheolhan | Lose | B+R | 6.5 | 2252 | 7 | 
+| 2002-07-29 | 第7期三星杯予選決勝 | Ryu Chaehyeong | Choi Cheolhan | Win | W+R | 6.5 | 2245 | 29 | 
+| 2002-06-25 | 第4回農心杯韓国選抜戦 | Park Yeonghun | Choi Cheolhan | Lose | B+0.5 | 6.5 | 2216 | 149 | 
+| 2002-04-08 | 第1期KTF杯戦 | Park Yeonghun | Choi Cheolhan | Lose | B+R | 6.5 | 2067 | -83 | 
+| 2002-04-02 | 第1期KTF杯戦 | Choi Cheolhan | Kim Seungjun | Win | B+R | 6.5 | 2150 | -620 | 
+| 2002-03-07 | 第1期KT杯マスターズプロ棋戦決勝三番勝負第3局 | Cho Hunhyun | Choi Cheolhan | Lose | B+18.5 | 6.5 | 2770 | -9 | 
+| 2002-02-22 | 第1期KTF杯戦 | Seo Bongsoo | Choi Cheolhan | Win | W+5.5 | 6.5 | 2779 | -16 | 
+| 2002-02-21 | 第1期KT杯マスターズプロ棋戦決勝三番勝負第2局 | Cho Hunhyun | Choi Cheolhan | Win | W+13.5 | 6.5 | 2795 | 53 | 
+| 2002-02-15 | 第1期KT杯マスターズプロ棋戦決勝三番勝負第1局 | Choi Cheolhan | Cho Hunhyun | Lose | W+15.5 | 6.5 | 2742 | 5 | 
+| 2002-02-05 | 第1期KT杯マスターズプロ棋戦準決勝 | Seo Nungwuk | Choi Cheolhan | Win | W+R | 6.5 | 2737 | -23 | 
+| 2002-01-08 | 第1期KT杯マスターズプロ棋戦4回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 2760 | 35 | 
+| 2002-01-03 | 第1期KTF杯戦 | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 2725 | 121 | 
+| 2002-01-02 | 第21回KBS杯囲碁王戦本戦1回戦 | Choi Cheolhan |  | Lose | W+R | 6.5 | 2604 | -9 | 
+| 2001-12-13 | 第1期KTF杯戦 | Lee Huiseong | Choi Cheolhan | Lose | B+R | 6.5 | 2613 | -63 | 
+| 2001-12-07 | 第1期KT杯マスターズプロ棋戦3回戦 | Choi Cheolhan | An Joyeong | Win | B+0.5 | 6.5 | 2676 | 112 | 
+| 2001-10-18 | 第3回農心辛ラーメン杯世界囲碁最強戦第4戦 | Choi Cheolhan | Luo Xihe | Lose | W+R | 6.5 | 2564 | -106 | 
+| 2001-10-17 | 第3回農心辛ラーメン杯世界囲碁最強戦第3戦 | Choi Cheolhan | Kobayashi Koichi | Win | B+0.5 | 6.5 | 2670 | 0 | 
+| 2001-10-16 | 第3回農心辛ラーメン杯世界囲碁最強戦第2戦 | Choi Cheolhan | Shao Weigang | Win | B+R | 6.5 | 2670 | 56 | 
+| 2001-10-09 | 第1期KT杯マスターズプロ棋戦2回戦 | Choi Cheolhan | Weon Seongjin | Lose | W+R | 6.5 | 2614 | -14 | 
+| 2001-09-27 | 第45期国手戦（韓国）敗者復活戦1回戦 | Choi Cheolhan |  | Lose | W+R | 6.5 | 2628 | 57 | 
+| 2001-07-19 | 第45期国手戦（韓国）本戦1回戦 | Choi Cheolhan | Yoo Changhyuk | Lose | W+R | 6.5 | 2571 | -77 | 
+| 2001-06-15 | 第6期バッカス杯天元戦2回戦 | Choi Cheolhan |  | Lose | W+0.5 | 6.5 | 2648 | 4 | 
+| 2001-04-20 | 第6期バッカス杯天元戦1回戦 | Choi Cheolhan | Ryu Chaehyeong | Win | B+R | 6.5 | 2644 | 2644 | 
+| 2000-11-10 | 第44期国手戦（韓国）敗者復活戦2回戦 | Kim Seungjun | Choi Cheolhan | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-10-20 | 第2回農心辛ラーメン杯世界囲碁最強戦第4戦 | Kobayashi Satoru | Choi Cheolhan | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-10-19 | 第2回農心辛ラーメン杯世界囲碁最強戦第3戦 | Liu Jing | Choi Cheolhan | Win | W+1.5 | 6.5 | missing | 0 | 
+| 2000-10-18 | 第2回農心辛ラーメン杯世界囲碁最強戦第2戦 | O Meien | Choi Cheolhan | Win | W+7.5 | 6.5 | missing | 0 | 
+| 2000-10-17 | 第2回農心辛ラーメン杯世界囲碁最強戦第1戦 | Choi Cheolhan | Yu Ping | Win | B+R | 6.5 | missing | 0 | 
+| 2000-10-13 | 第44期国手戦（韓国）本戦2回戦 | Choi Cheolhan | Lee Changho | Lose | W+R | 6.5 | missing | 0 | 
+| 2000-07-14 | 第44期国手戦（韓国）本戦1回戦 | Choi Cheolhan |  | Win | B+R | 6.5 | missing | 0 | 
+| 2000-07-12 | 第19回KBS杯囲碁王戦敗者復活戦2回戦 | Yoo Changhyuk | Choi Cheolhan | Lose | B+4.5 | 6.5 | missing | 0 | 
+| 2000-06-01 | 第8期倍達王戦1回戦 | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-02-22 | 第19回KBS杯囲碁王戦本戦2回戦 | Choi Cheolhan | Lee Changho | Lose | W+R | 6.5 | missing | missing |
 
 
 

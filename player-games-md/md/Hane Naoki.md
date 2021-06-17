@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-17 | 第46期棋聖戦Aリーグ | Hsu Chiayuan | Hane Naoki | Win | W+R | 6.5 | 3213 | 45 | 
 | 2021-06-07 | 第46期名人戦リーグ  | Ichiriki Ryo | Hane Naoki | Lose | B+R | 6.5 | 3168 | -6 | 
 | 2021-06-03 | 第69期王座戦1回戦 | Hane Naoki | Rin Kanketsu | Win | B+0.5 | 6.5 | 3174 | 8 | 
 | 2021-05-28 | 第46期棋聖戦Aリーグ | Shibano Toramaru | Hane Naoki | Win | W+R | 6.5 | 3166 | 22 | 

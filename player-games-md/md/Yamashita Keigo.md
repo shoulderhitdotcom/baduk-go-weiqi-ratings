@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-17 | 第46期棋聖戦Sリーグ | Takao Shinji | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3238 | -1 | 
 | 2021-06-10 | 第46期名人戦リーグ  | Yamashita Keigo | Hsu Chiayuan | Lose | W+4.5 | 6.5 | 3239 | -8 | 
 | 2021-05-27 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Yamashita Keigo | Onishi Kenya | Win | B+6.5 | 6.5 | 3247 | 6 | 
 | 2021-05-24 | 第46期棋聖戦Sリーグ | Ichiriki Ryo | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3241 | -12 | 

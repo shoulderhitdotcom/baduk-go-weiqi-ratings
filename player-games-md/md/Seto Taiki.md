@@ -5,309 +5,311 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第65期関西棋院第一位決定戦本戦3回戦 | Seto Taiki | Sada Atsushi | W+R | 2021-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u4pI%2Fu48zUi4W3zbKZm7ew%3D%3D) | 
-| 第77期本因坊戦予選 | Murakawa Daisuke | Seto Taiki | W+R | 2021-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WdKQTWs5X45rypMKBXmuOA%3D%3D) | 
-| 第46期棋聖戦Bリーグ | Seto Taiki | Sun Zhe | B+3.5 | 2021-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5kdZie6YTyQdZDn93toPVg%3D%3D) | 
-| 第77期本因坊戦予選 | Shintani Yousuke | Seto Taiki | W+R | 2021-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SSdVbaTBzk92H3VBkBgHUg%3D%3D) | 
-| 第77期本因坊戦予選 | Furuya Yutaka | Seto Taiki | W+4.5 | 2021-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z%2FPKC2PoY8%2BOPUaOAnVqgA%3D%3D) | 
-| 第65期関西棋院第一位決定戦本戦2回戦 | Nakano Yasuhiro | Seto Taiki | W+R | 2021-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RjwV7d7u6HHlb5Vhn9dv5g%3D%3D) | 
-| 第69期王座戦予選 | Shintani Yousuke | Seto Taiki | W+R | 2020-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c%2BMj%2B3maJKgF7VyOHp3QsA%3D%3D) | 
-| 2020年関西棋院VS台湾棋院対抗戦第1戦 | Seto Taiki | Wang Yuanjun | W+R | 2020-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IXWCxwxWr%2B5BzTIFDuAT0A%3D%3D) | 
-| 第47期天元戦予選 | Seto Taiki | Yuki Satoshi | B+R | 2020-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fAACaikKeGy7K6ZziZQArQ%3D%3D) | 
-| 第65期関西棋院第一位決定戦本戦1回戦 | Furuya Yutaka | Seto Taiki | W+R | 2020-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qZ0tO1NPDhzQjJKFUq8Ruw%3D%3D) | 
-| 第47期天元戦予選 | missing | Seto Taiki | W+R | 2020-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zWjYN%2FwCEQUAQfY0dmmpYQ%3D%3D) | 
-| 第59期十段戦1回戦 | Seto Taiki | Cho U | W+R | 2020-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fEsgkqEIeknGoilc4lLZwQ%3D%3D) | 
-| 第64期関西棋院第一位決定戦挑戦者決定戦 | Seto Taiki | Murakawa Daisuke | W+R | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5oxKRt3to5GyfDNmCUamyg%3D%3D) | 
-| 第46期名人戦予選 | Seto Taiki | missing | B+R | 2020-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FRfbdvbU%2Ba%2BU0grm%2Fa1pJg%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Hong Seokui | Seto Taiki | B+R | 2020-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PXAedaxvfzG0BvXYAbb6RQ%3D%3D) | 
-| 第46期碁聖戦予選 | Seto Taiki | Suzuki Keiji | B+R | 2020-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YUp7T3PHWpe628nNfYi2aw%3D%3D) | 
-| 第59期十段戦予選 | Seto Taiki | Nakamura Shinya | B+4.5 | 2020-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Y9QZoKJyCtiC6we5Xz1mw%3D%3D) | 
-| 第27期阿含・桐山杯全日本早碁オープン戦2回戦 | Iyama Yuta | Seto Taiki | B+6.5 | 2020-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K9RlM4rlzi0xdGt51FK7Dw%3D%3D) | 
-| 第64期関西棋院第一位決定戦本戦準決勝 | Seto Taiki | Hara Masakazu | B+6.5 | 2020-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ye%2B2xyfhvbEd%2F7f6vsxMYQ%3D%3D) | 
-| 第27期阿含・桐山杯全日本早碁オープン戦1回戦 | Seto Taiki | Terayama Rei | B+R | 2020-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7hLgHD%2FH72SVSE5svn6PcQ%3D%3D) | 
-| 第46期名人戦予選 | Ota Ryou | Seto Taiki | W+0.5 | 2020-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yGJCOGtnVzxEGuy%2Fda6N6w%3D%3D) | 
-| 第27期阿含・桐山杯全日本早碁オープン戦予選 | Seto Taiki | Suzuki Shinji | B+R | 2020-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EVOQALszyrYA5Q4%2BNRYYuA%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Nakano Yasuhiro | Seto Taiki | W+1.5 | 2020-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pdSl0mULeadmQwltjSXgwQ%3D%3D) | 
-| 第64期関西棋院第一位決定戦本戦3回戦 | Nishi Takenobu | Seto Taiki | W+R | 2020-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W7fj23uBiJjdVnsYo3DHzQ%3D%3D) | 
-| 第27期阿含・桐山杯全日本早碁オープン戦予選 | Seto Taiki | Adachi Toshimasa | B+6.5 | 2020-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0VBHH6SsRoYRhXmQzO6qnA%3D%3D) | 
-| 第46期天元戦2回戦 | Seto Taiki | Ichiriki Ryo | W+5.5 | 2020-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Etl5fyZiVq%2FmQ%2F1c1JsEhQ%3D%3D) | 
-| 第64期関西棋院第一位決定戦本戦2回戦 | Yata Naoki | Seto Taiki | W+R | 2020-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=27yRDEK4jriti%2FkMy%2FvtJg%3D%3D) | 
-| 第64期関西棋院第一位決定戦本戦1回戦 | Fujii Shuya | Seto Taiki | W+R | 2020-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TqO88lzzVCBMoFt9OEvm1A%3D%3D) | 
-| 第45期棋聖戦ファーストトーナメント予選 | Yamamori Tadanao | Seto Taiki | W+R | 2020-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FbhbQcWbbBSHOvt7G6HM5A%3D%3D) | 
-| 第46期天元戦1回戦 | So Yokoku | Seto Taiki | W+R | 2020-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FLC%2FIUJWaXgJymdQx%2BXVkQ%3D%3D) | 
-| 第68期王座戦予選A準決勝 | Seto Taiki | Yukawa Mitsuhisa | B+2.5 | 2019-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XQKHYraQUAWw0reKYBne7A%3D%3D) | 
-| 第46期天元戦予選A決勝 | Hatanaka Hoshinobu | Seto Taiki | W+R | 2019-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5DzXiNASQtdEMx4pPS9O5w%3D%3D) | 
-| 第58期十段戦2回戦 | Takao Shinji | Seto Taiki | B+R | 2019-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OkfJZKDaPh0%2B263MuP9BoA%3D%3D) | 
-| 第45期碁聖戦予選A決勝 | Seto Taiki | Yokota Shigeaki | B+R | 2019-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mfz2mFfNanVVXoPhI0vVJg%3D%3D) | 
-| 第58期十段戦予選 | Seto Taiki | Cho U | B+R | 2019-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bry%2B3OybdLNLvNrcqwJxkw%3D%3D) | 
-| 第44期棋聖戦Cリーグ | Seto Taiki | Hirose Yuichi | W+2.5 | 2019-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gCYPqSNTzaCp4xEn2Fy4lA%3D%3D) | 
-| 第75期本因坊戦予選 | Seto Taiki | Ichiriki Ryo | W+4.5 | 2019-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ncRO1cNgdd5rbLxJG3OQaQ%3D%3D) | 
-| 第4回ジャパン碁コングレスin金沢トップ棋士トーナメント決勝戦 | Seto Taiki | Murakawa Daisuke | B+R | 2019-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rz4cro66Xjy5sWhxBNnPSw%3D%3D) | 
-| 第4回ジャパン碁コングレスin金沢トップ棋士トーナメント1回戦 | Yuki Satoshi | Seto Taiki | W+R | 2019-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XPmzvv6qPfMIqyOIRQZAZA%3D%3D) | 
-| 第75期本因坊戦予選 | Yuki Satoshi | Seto Taiki | W+R | 2019-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7bYzNAFR0kZeVbOEcYno4A%3D%3D) | 
-| 第75期本因坊戦予選 | Ryu Shikun | Seto Taiki | W+4.5 | 2019-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AysNsyu7sU%2FA8Ll1sOhgYg%3D%3D) | 
-| 第44期碁聖戦本戦3回戦 | Seto Taiki | Ichiriki Ryo | W+R | 2019-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1SDyS6hmYanYqFXU3ogdkQ%3D%3D) | 
-| 2018年度打倒Zen！リーグ戦真剣勝負第3シーズン（互先） | missing | Seto Taiki | W+T | 2019-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hKLnFXj7VmVvMrvF%2FtcT2w%3D%3D) | 
-| 2018年度打倒Zen！リーグ戦真剣勝負第3シーズン（互先） | missing | Seto Taiki | W+R | 2019-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Hb7wHWt8N7X0e0jfyewvw%3D%3D) | 
-| 第75期本因坊戦予選A | Katsuma Shiro | Seto Taiki | W+R | 2019-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oXJtw2EqhHRWhvsJaUCvwg%3D%3D) | 
-| 2018年度打倒Zen！リーグ戦真剣勝負第3シーズン（互先） | Seto Taiki | Ha Youngil | B+7.5 | 2019-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vwt18EnwmtRf3OpD%2FqdYjA%3D%3D) | 
-| 2018年度打倒Zen！リーグ戦真剣勝負第3シーズン（互先） | Seto Taiki | Furuya Yutaka | W+0.5 | 2019-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1xIOxV79qAIczYvkOru2Wg%3D%3D) | 
-| 第44期棋聖戦ファーストトーナメント準決勝 | Kan Minu | Seto Taiki | W+4.5 | 2019-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IgNwIuqQSxBBUZdfREmvaw%3D%3D) | 
-| 2018年度打倒Zen！リーグ戦真剣勝負第3シーズン（互先） | Zen | Seto Taiki | B+R | 2019-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RhTMUvAt43AHG0wZpmm9CA%3D%3D) | 
-| 第44期碁聖戦本戦2回戦 | Shida Tatsuya | Seto Taiki | W+4.5 | 2019-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Pdu2kIuKgQnbe15fawBWA%3D%3D) | 
-| 2018年度打倒Zen！リーグ戦真剣勝負第2シーズン | Seto Taiki | Taguchi Misei | B+R | 2018-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gaJQFg%2F6RWRcPpM%2F9rKA%2Bw%3D%3D) | 
-| 第45期天元戦予選A決勝 | missing | Seto Taiki | B+R | 2018-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k%2BsjN%2FYMm5XQj0tgd9WySQ%3D%3D) | 
-| 2018年度打倒Zen！リーグ戦真剣勝負第2シーズン | Ha Youngil | Seto Taiki | W+2.5 | 2018-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WHzE0410GLhQj%2FPyenbvjQ%3D%3D) | 
-| 2018年度打倒Zen！リーグ戦真剣勝負第2シーズン | Abe Yoshiki | Seto Taiki | W+T | 2018-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n%2BlGLXUj%2BEkJKrW9Qc8OGw%3D%3D) | 
-| 第57期十段戦2回戦 | Ichiriki Ryo | Seto Taiki | B+2.5 | 2018-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZY5jfAk1GW3tp%2F5Q%2B3oq3g%3D%3D) | 
-| 2018年度打倒Zen！リーグ戦真剣勝負第2シーズン | Furuya Yutaka | Seto Taiki | B+R | 2018-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eMEwKIQFo%2FWLqLf156p6Rw%3D%3D) | 
-| 関西棋院対台湾棋院棋士対抗戦2018 | Seto Taiki | Xu Haohong | W+R | 2018-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2AuPLykR0bUv14ykrRCgPQ%3D%3D) | 
-| 阪急納涼囲碁まつり納涼トーナメント決勝戦 | Seto Taiki | Shibano Toramaru | W+R | 2018-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aexQqxM5uLvSjLeBd%2F6xsw%3D%3D) | 
-| 阪急納涼囲碁まつり納涼トーナメント第1局 | Seto Taiki | Ida Atsushi | B+3.5 | 2018-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=58Z%2F981RPHMtbb6KvO%2BMsg%3D%3D) | 
-| 第57期十段戦最終予選決勝 | Kobayashi Satoru | Seto Taiki | W+R | 2018-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pib8g7uJYPWvyYdSG1yC7A%3D%3D) | 
-| 第25期阿含・桐山杯全日本早碁オープン戦1回戦 | Seto Taiki | Shibano Toramaru | W+R | 2018-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UXDcSc%2BqZSmRoWO7TUiG0g%3D%3D) | 
-| 2018年度 打倒Zen！リーグ戦真剣勝負 第1シーズン | Seto Taiki | Inaba Karin | B+R | 2018-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hiSzQr8hNzbGfQ3pds%2B8SA%3D%3D) | 
-| 2018年度 打倒Zen！リーグ戦真剣勝負 第1シーズン | Zen | Seto Taiki | B+R | 2018-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3sXgm5P1EY7309v02IkXbA%3D%3D) | 
-| 第62期関西棋院第一位決定戦本戦3回戦 | Seto Taiki | Imamura Toshiya | B+1.5 | 2018-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mRm%2FLcZesdznxgZvzmPc0w%3D%3D) | 
-| 2018年度 打倒Zen！リーグ戦真剣勝負 第1シーズン | missing | Seto Taiki | W+2.5 | 2018-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ulZrZ8N1%2B7aODG3hXaYLnA%3D%3D) | 
-| 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Seto Taiki | Kataoka Satoshi | B+2.5 | 2018-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MYbBDzVFUTt8m%2FlT5hkCFA%3D%3D) | 
-| 2018年度 打倒Zen！リーグ戦真剣勝負 第1シーズン | Abe Yoshiki | Seto Taiki | W+3.5 | 2018-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z0Ngwtl5NsGxMbx%2BxMv5XA%3D%3D) | 
-| 2018年度 打倒Zen！リーグ戦真剣勝負 第1シーズン | Ha Youngil | Seto Taiki | W+2.5 | 2018-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F2iFYT%2FUHO1o0ufCQbx3sg%3D%3D) | 
-| 関西囲碁リーグ準決勝 | Mutsuura Yuta | Seto Taiki | B+R | 2018-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FtxhmM%2B1ftBdb4nObhsweQ%3D%3D) | 
-| 関西囲碁リーグ準々決勝 | Shibano Toramaru | Seto Taiki | W+2.5 | 2018-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VOnfF6LVHV8A4ykoxX2JcQ%3D%3D) | 
-| 第43期碁聖戦本戦準決勝 | Motoki Katsuya | Seto Taiki | B+4.5 | 2018-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hVAAUiAt8wEScYx3S%2FUf5g%3D%3D) | 
-| 第57期十段戦予選A | Watanabe Yuu | Seto Taiki | W+R | 2018-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qprQoTsL3VBZkQzYieNvQg%3D%3D) | 
-| 第43期棋聖戦ファーストトーナメント戦決勝 | Hong Seokui | Seto Taiki | W+R | 2018-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TZQyu69aOePp2rFHnd57EA%3D%3D) | 
-| 第43期碁聖戦本戦3回戦 | Kurahashi Masayuki | Seto Taiki | W+R | 2018-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZziC7A9ZQ5UJQlL9txMIkg%3D%3D) | 
-| 第66期王座戦最終予選 | Seto Taiki | Hikosaka Naoto | W+R | 2018-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y%2BDHME4xtV5wQMp2XQuaHA%3D%3D) | 
-| 第43期碁聖戦本戦2回戦 | Seto Taiki | Ryu Shikun | B+7.5 | 2018-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KnVXmNSMLi4YyYtLnpBncg%3D%3D) | 
-| 第62期関西棋院第一位決定戦本戦2回戦 | Nakano Yasuhiro | Seto Taiki | W+R | 2018-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DyRtYdZPdGcax7wEsb3%2BOw%3D%3D) | 
-| 第66期王座戦予選A | Sakai Hideyuki | Seto Taiki | W+R | 2017-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WW8lAQqbwwNoy0iUYm%2FeqQ%3D%3D) | 
-| 2017年日本囲碁リーグ2nd最終節古都-大阪副将戦 | Hara Masakazu | Seto Taiki | W+R | 2017-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=52Xb%2B4BP0E2uJepKoMxD5Q%3D%3D) | 
-| 第43期碁聖戦本戦1回戦 | Seto Taiki | Fujisawa Rina | B+R | 2017-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Anl%2BNPoGAEOTo4NWbfyXtQ%3D%3D) | 
-| 第62期関西棋院第一位決定戦本戦1回戦 | Oda Hiromitsu | Seto Taiki | W+R | 2017-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=66Puws6IcU3NJx%2BfsQ2%2FdA%3D%3D) | 
-| 第66期王座戦予選 | Seto Taiki | Watanabe Kouki | B+R | 2017-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CoU8D8A6aQI1ufE6PCVoRw%3D%3D) | 
-| 第44期天元戦予選A決勝 | Yuki Satoshi | Seto Taiki | B+R | 2017-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LPJ%2Fy1CAQecxYPv9lUb2LA%3D%3D) | 
-| 2017年日本囲碁リーグ2nd第3節古都-浪速副将戦 | Watanabe Yuu | Seto Taiki | W+R | 2017-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qnn6aAdRoPnyOzZyPC%2FcBQ%3D%3D) | 
-| 第43期名人戦　最終予選1回戦 | Shida Tatsuya | Seto Taiki | B+1.5 | 2017-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2PakMT%2F0iN7xbMhKeYB36w%3D%3D) | 
-| 第43期碁聖戦　予選A決勝 | Seto Taiki | Sakai Hideyuki | B+2.5 | 2017-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qVSSw%2ByCt88ELmiwKCVEQA%3D%3D) | 
-| 2017年日本囲碁リーグ2nd第2節WU-古都主将戦 | Seto Taiki | Kan Minu | W+R | 2017-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Is%2Fxp%2Bf8%2FDG%2FRcGFKR05AQ%3D%3D) | 
-| 阪急電鉄納涼囲碁まつり阪急トーナメント予選第2局 | Iyama Yuta | Seto Taiki | W+R | 2017-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=haMilVibebDBUPZzl3zkZQ%3D%3D) | 
-| 阪急電鉄納涼囲碁まつり阪急トーナメント決勝戦 | Seto Taiki | Ichiriki Ryo | B+R | 2017-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fDi3ItMLIiqimvQ%2BKUgLkw%3D%3D) | 
-| 第42期棋聖戦　Cリーグ4回戦 | O Rissei | Seto Taiki | W+R | 2017-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q2h2kv%2FJHR2y9BnRLtHWDw%3D%3D) | 
-| 第43期名人戦　予選A決勝 | Watanabe Kouki | Seto Taiki | W+R | 2017-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aMSe6P2zlthTe42DhupVPQ%3D%3D) | 
-| 第56期十段戦　最終予選決勝 | So Yokoku | Seto Taiki | B+R | 2017-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OKwTqUxNXe7Zd%2B1vXLVSsQ%3D%3D) | 
-| 第43期名人戦予選A | Seto Taiki | Ha Youngil | B+9.5 | 2017-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bop6m6vnldkxqLZsmTDRvw%3D%3D) | 
-| 第24期阿含・桐山杯　本戦1回戦 | Seto Taiki | Rin Kanketsu | W+0.5 | 2017-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hly3EzLOUANQtfISrWQ1TA%3D%3D) | 
-| 第43期名人戦　予選A | Utsumi Koki | Seto Taiki | W+R | 2017-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oJieyPepA0Sn1poGMMaR3g%3D%3D) | 
-| 第61期関西棋院第一位決定戦　準々決勝 | Seto Taiki | Kiyonari Tetsuya | W+R | 2017-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G3cKFCYJF%2F4HQfYJzSPCzg%3D%3D) | 
-| 第56期十段戦予選A | Seto Taiki | missing | B+R | 2017-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r7elW8j37mP1%2F%2FoDk5O2kg%3D%3D) | 
-| 日本棋院vs関西棋院対抗戦 | Tsuruta Kazushi | Seto Taiki | W+R | 2017-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S6Z6C04kJ97O7yMn5AXlYQ%3D%3D) | 
-| 第65期王座戦　最終予選特選譜第10局 | Han Zenki | Seto Taiki | B+0.5 | 2017-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ogtUtrCFnGjDq9A4jKuoFw%3D%3D) | 
-| 2017年日本囲碁リーグ第1ステージ 開幕戦副将戦 | Nishi Takenobu | Seto Taiki | W+R | 2017-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y%2FpoHZu1YeLV2mZ2QT1hTQ%3D%3D) | 
-| 第61期関西棋院第一位決定戦　本戦2回戦 | Kubo Katsuaki | Seto Taiki | W+R | 2017-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e7KUqfJnIgaKvvlo4LOhug%3D%3D) | 
-| 第56期十段戦予選A | Sada Atsushi | Seto Taiki | W+R | 2017-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0GDLkbw1MGxDke076jzCHw%3D%3D) | 
-| 第73期本因坊戦　予選A | Seto Taiki | Takashima Yugo | W+0.5 | 2017-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V2VOqXsN3bIBf11CB6Sy3Q%3D%3D) | 
-| 関西棋院対台湾棋院棋士対抗戦2017　1回戦 | Lin Xiuping | Seto Taiki | W+R | 2016-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4uSghv%2FDtZtW8fvF39Mqiw%3D%3D) | 
-| 第61期関西棋院第一位決定戦　本戦1回戦 | Seto Taiki | Hong Maleunsaem | B+R | 2016-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KTBKumUdZnPDuNpw9zE56Q%3D%3D) | 
-| 第43期天元戦　予選A決勝 | Sonoda Yuichi | Seto Taiki | B+R | 2016-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eDumQGKqeMYCosEQc%2BxK8g%3D%3D) | 
-| 第1回日本囲碁リーグクライマックスシリーズ 第1ステージ 副将戦 | Seto Taiki | Kiyonari Tetsuya | W+R | 2016-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QokUkmU7GrLhTCREDoCKqw%3D%3D) | 
-| 第13回 産経プロ・アマトーナメント戦 予選 | Watanabe Kouki | Seto Taiki | W+R | 2016-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XtnZrIJvM6AMFF0zBpKtnw%3D%3D) | 
-| 第42期碁聖戦予選 | Yukawa Mitsuhisa | Seto Taiki | W+4.5 | 2016-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VHMp7f5MhgpBMTxBGTuo1Q%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Seto Taiki | Yuki Satoshi | W+R | 2016-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=65yjhILVtRj9ZzlgLtgB%2BA%3D%3D) | 
-| 第55期十段戦予選 | Kono Rin | Seto Taiki | B+R | 2016-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xn9YomH8zvMXSgGAzdkarQ%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Seto Taiki | Cho Sonjin | W+1.5 | 2016-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nhiDb1N%2B4w9siNWgn92wAQ%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Seto Taiki | Kiyonari Tetsuya | B+R | 2016-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2oyDY0UpEg6pWq8plk%2BevQ%3D%3D) | 
-| 第55期十段戦予選 | Furuya Yutaka | Seto Taiki | W+R | 2016-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YEMka9KA0OgWYQx9akQ1Cw%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Hane Naoki | Seto Taiki | B+R | 2016-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b7JsCaCKQCbO5Ldhuz8Qog%3D%3D) | 
-| 第64期王座戦　本戦1回戦第7局 | Kono Rin | Seto Taiki | B+2.5 | 2016-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HF2woPk0rKte%2FQLHoA%2BYAA%3D%3D) | 
-| 第72期本因坊戦予選 | Seto Taiki | Kataoka Satoshi | W+2.5 | 2016-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SQey0owvB4a0deLkHYOsEA%3D%3D) | 
-| 第72期本因坊戦予選 | Seto Taiki | Son Hideyo | B+9.5 | 2016-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a2aW%2B3RjG0jBo86xGnTkUg%3D%3D) | 
-| 第64期王座戦予選 | Seto Taiki | Yamashiro Hiroshi | B+3.5 | 2016-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TYYqi4z2Zp0WvYYp3A2Egw%3D%3D) | 
-| 第41期碁聖戦本戦3回戦 | Sakai Hideyuki | Seto Taiki | B+2.5 | 2016-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z6xdg0KDzaRFaJ9Le7xlKw%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Yu Zhengqi | Seto Taiki | B+R | 2016-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HAqSHlhOLERsGb43InuwUg%3D%3D) | 
-| 第72期本因坊戦予選 | Sada Atsushi | Seto Taiki | W+R | 2016-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sHeCW6dIjRHnGF6b3YIkHQ%3D%3D) | 
-| 第41期碁聖戦本戦2回戦 | Seto Taiki | Takao Shinji | B+R | 2016-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qZw%2Fut3pPlPQMQkOs1rJLw%3D%3D) | 
-| 第64期王座戦予選 | Seto Taiki | Imamura Toshiya | B+R | 2016-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F5EPL31er53jIqk9hU37ng%3D%3D) | 
-| 第41期碁聖戦本戦1回戦 | Kim Sujun | Seto Taiki | W+R | 2016-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c8ZXhYIKw%2FhWlpAdgFCg3Q%3D%3D) | 
-| 第64期王座戦予選 | Furuya Yutaka | Seto Taiki | W+R | 2016-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nt3Q6XI2r5%2FqmbRwr4OXPw%3D%3D) | 
-| 第42期天元戦予選 | Nakano Yasuhiro | Seto Taiki | B+1.5 | 2015-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x6CHYJtjkSiMd3JmTMjbzw%3D%3D) | 
-| 第25期竜星戦Bブロック第3局 | Ando Kazushige | Seto Taiki | B+0.5 | 2015-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L3rfN5N%2Fc1BZjZUFmj7CoA%3D%3D) | 
-| 第41期名人戦予選 | Seto Taiki | Shibano Toramaru | W+R | 2015-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6V3QvG456snCgh7B2kNm6g%3D%3D) | 
-| 第42期天元戦予選 | Hoshikawa Takumi | Seto Taiki | W+R | 2015-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jUwStbvYYRb0EmIixzn%2BdA%3D%3D) | 
-| 第54期十段戦予選 | O Meien | Seto Taiki | B+R | 2015-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IIvb8N44ypmG0qSuuGbpEA%3D%3D) | 
-| 第41期名人戦予選 | Honda Kunihisa | Seto Taiki | W+R | 2015-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VPPuirjoVsLA%2BoVUFdXGJw%3D%3D) | 
-| 第59期関西棋院第一位決定戦本戦準決勝 | Seto Taiki | Nakano Yasuhiro | W+R | 2015-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ji%2FzlilM4XPOVc0tDonQew%3D%3D) | 
-| 第41期名人戦予選 | Seto Taiki | Ota Seido | B+R | 2015-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3vCyUZs5OWV%2FYDvVoU%2BsrQ%3D%3D) | 
-| 第54期十段戦予選 | Seto Taiki | Hane Naoki | B+R | 2015-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Lg0KJUA2Ye8zxRCIZc28A%3D%3D) | 
-| 第40期棋聖戦Bリーグ | Seto Taiki | Ryu Shikun | W+2.5 | 2015-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i4FnC5Kf89673bnu3mhoIw%3D%3D) | 
-| 第59期関西棋院第一位決定戦本戦3回戦 | Sakai Hideyuki | Seto Taiki | W+R | 2015-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qphu9ZLQ9vjMANTGIikG3A%3D%3D) | 
-| 第54期十段戦予選 | Seto Taiki | Taniguchi Tooru | B+R | 2015-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v%2Fovd94Af%2FbOxqxKcP5Hog%3D%3D) | 
-| 第71期本因坊戦予選 | Seto Taiki | Sada Atsushi | B+1.5 | 2015-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J300SlkweqW89ODlBAVMsg%3D%3D) | 
-| 第22期阿含・桐山杯全日本早碁オープン戦予選 | Cho U | Seto Taiki | B+R | 2015-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eLeiJmX9julD1hR4oyKVDA%3D%3D) | 
-| 第40期棋聖戦Bリーグ | Seto Taiki | Sakai Hideyuki | B+2.5 | 2015-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H3NSe590QCr6J0JlvxXYrg%3D%3D) | 
-| 第41期天元戦本戦2回戦 | Seto Taiki | Ko Iso | W+1.5 | 2015-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PVBMe4ch0piADY4Ojys5uQ%3D%3D) | 
-| 第41期天元戦本戦1回戦 | Seto Taiki | Nakamura Shinya | B+R | 2015-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=veERTw%2FJoNL7qV8GhHtFkw%3D%3D) | 
-| 第40期天元戦本戦3回戦 | Yoda Norimoto | Seto Taiki | B+R | 2014-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eRQ6Xy7ytW3TkZTkABzLhA%3D%3D) | 
-| 第62期王座戦2回戦 | Anzai Nobuaki | Seto Taiki | B+R | 2014-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DMRm%2FIuPoDZ1jkMm8tUOJA%3D%3D) | 
-| 第40期天元戦本戦2回戦 | Seto Taiki | Akiyama Jiro | B+R | 2014-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tJFUXuS858Yr1J2Xi%2FT22w%3D%3D) | 
-| 第62期王座戦1回戦 | Seto Taiki | Yoda Norimoto | B+3.5 | 2014-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qpP9oVj%2BZSNt3FoK8YxA7Q%3D%3D) | 
-| 第21期阿含・桐山杯全日本早碁オープン戦予選 | Seto Taiki | Cho U | W+1.5 | 2014-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tcChlmPAw7IGbFgjhxXhRQ%3D%3D) | 
-| 第5回おかげ杯囲碁トーナメント戦決勝 | Seto Taiki | Ichiriki Ryo | W+R | 2014-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zB4qTfGBcVfxggpF%2B1nkWA%3D%3D) | 
-| 第5回おかげ杯囲碁トーナメント戦準決勝 | Hirata Tomoya | Seto Taiki | W+R | 2014-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gtSp5KdnmXAAfhuYhcT%2F%2FQ%3D%3D) | 
-| 第5回おかげ杯囲碁トーナメント戦1回戦 | Ohashi Hirofumi | Seto Taiki | W+10.5 | 2014-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6PkNUciPny4wPftoo2GYvQ%3D%3D) | 
-| 第62期王座戦予選 | Kobayashi Satoru | Seto Taiki | W+0.5 | 2014-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4Nc0yxsSrORtGGAGuXMB9Q%3D%3D) | 
-| 第39期棋聖戦予選 | Seto Taiki | Cho Riyu | W+8.5 | 2014-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sIlm%2FkzINUZRm6d%2FFPKlvQ%3D%3D) | 
-| 第40期天元戦本戦1回戦 | Seto Taiki | Shimojima Yohei | B+R | 2014-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gCdSto6D3nIlbgLvzNEuHQ%3D%3D) | 
-| 第39期碁聖戦本戦1回戦 | Cho Riyu | Seto Taiki | B+R | 2014-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iGAIuT49bVOnQuOjQFVPYA%3D%3D) | 
-| 第39期名人戦予選 | Yamada Noriyoshi | Seto Taiki | W+R | 2013-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zHi5hUoamGXNtT%2F2NZSBVQ%3D%3D) | 
-| 第20期阿含・桐山杯全日本早碁オープン戦2回戦 | Murakawa Daisuke | Seto Taiki | B+R | 2013-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dMZ9yPvkd9buRDa6Ajgavw%3D%3D) | 
-| 第61期王座戦2回戦 | Yamashita Keigo | Seto Taiki | B+R | 2013-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rJ6NfCi9GIlIu0xlrjE6ZA%3D%3D) | 
-| 第39期天元戦本戦3回戦 | Seto Taiki | Yu Zhengqi | W+3.5 | 2013-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6VubfHEti%2BoCXltN8lEegw%3D%3D) | 
-| 第20期阿含・桐山杯全日本早碁オープン戦1回戦 | Seto Taiki | Hong Seokui | B+3.5 | 2013-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WB4AdrvJeL9YfRVyEAqt6Q%3D%3D) | 
-| 第61期王座戦1回戦 | Nakane Naoyuki | Seto Taiki | W+R | 2013-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a4HDgQNRQxoQNoorqM9P2A%3D%3D) | 
-| 第39期天元戦本戦2回戦 | Shida Tatsuya | Seto Taiki | W+R | 2013-05-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ePzS4NwTVctcGmaTsuR3ug%3D%3D) | 
-| 第61期王座戦予選 | Seto Taiki | Cho Chikun | B+8.5 | 2013-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HO%2FMn2QFVqi%2F03ENothL1A%3D%3D) | 
-| 第18回LG杯予選 | Li Zhe | Seto Taiki | B+R | 2013-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XZ%2BFmcQXVMYSd%2FR%2FkHhlyw%3D%3D) | 
-| 第68期本因坊戦リーグ | Seto Taiki | Yuki Satoshi | W+R | 2013-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vv0jaH8cVKgLKFzbi6JZlA%3D%3D) | 
-| 第68期本因坊戦リーグ | Ko Iso | Seto Taiki | B+R | 2013-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RpCHnzbOhJGjhFYSGWp9Hw%3D%3D) | 
-| 第38期碁聖戦本戦2回戦 | Seto Taiki | Cho Riyu | W+R | 2013-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=snvknp6gWVdUfjvaIU58hQ%3D%3D) | 
-| 第39期天元戦本戦1回戦 | Matsuoka Hideki | Seto Taiki | W+1.5 | 2013-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T41RwuKqsXnA2hsquREXTA%3D%3D) | 
-| 第68期本因坊戦リーグ | Cho Sonjin | Seto Taiki | W+0.5 | 2013-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WGf4U7tUl%2FLiQVFkxNaJzg%3D%3D) | 
-| 第38期棋聖戦予選 | Seto Taiki | Kudo Norio | B+R | 2013-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sJ0TVLgAMkP6p3CqZTj6qw%3D%3D) | 
-| 第38期碁聖戦本戦1回戦 | Seto Taiki | Ko Iso | B+R | 2013-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XReEKVVM%2Fdm12apsikDKdQ%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン3回戦 | Seto Taiki | Takao Shinji | W+R | 2013-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GEfXkAiyEKFIKgxxBmjDeA%3D%3D) | 
-| 第68期本因坊戦リーグ | Seto Taiki | Imamura Toshiya | B+R | 2013-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=72Z1pl9VT7eSvSwP8mRZNA%3D%3D) | 
-| 第61期王座戦予選 | Chin Kaei | Seto Taiki | W+R | 2013-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dQuUtCV7O67q4NdIgalO%2FQ%3D%3D) | 
-| 第68期本因坊戦リーグ | Yamashita Keigo | Seto Taiki | B+R | 2012-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EzpNZbWmHRqXRA9jj2FaPA%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン2回戦 | Seto Taiki | Cho Riyu | B+4.5 | 2012-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9np2UJlM6Dcnscp7aHZx9Q%3D%3D) | 
-| 第68期本因坊戦リーグ | Cho U | Seto Taiki | B+R | 2012-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UxKsiSMASiLCpWutVqrLGQ%3D%3D) | 
-| 第61期王座戦予選 | Yokota Shigeaki | Seto Taiki | W+R | 2012-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WQpFKBjkvxo3NIMdXdou%2BA%3D%3D) | 
-| 第68期本因坊戦リーグ | Seto Taiki | Takao Shinji | W+1.5 | 2012-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iwTmzj5RpcQoEAsJKuz7Qw%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン1回戦 | Seto Taiki | Otake Hideo | B+R | 2012-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vqO6zw6xFA39RxLAf1KMww%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ1回戦A2 | Komatsu Hideki | Seto Taiki | B+1.5 | 2012-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yKAoYGxlYv84%2BUl3dSRn6g%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ1回戦A1 | Chen Yaoye | Seto Taiki | B+R | 2012-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ACcDlzcqRhvCXBc0irVofA%3D%3D) | 
-| 第68期本因坊戦予選 | Seto Taiki | Shuto Shun | B+R | 2012-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b8qnB%2FU%2FmEwyM3iEOkyQ1A%3D%3D) | 
-| 第19期阿含・桐山杯全日本早碁オープン戦2回戦 | Seto Taiki | Iyama Yuta | W+R | 2012-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xBucT85Ll9Vrxu8UKKlXaw%3D%3D) | 
-| 第56期関西棋院第一位決定戦本戦準決勝 | Seto Taiki | Kiyonari Tetsuya | W+0.5 | 2012-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ous0DYwxwOPcBiyx2Ds6Hw%3D%3D) | 
-| 第19期阿含・桐山杯全日本早碁オープン戦1回戦 | Seto Taiki | Yamashiro Hiroshi | B+R | 2012-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fuYhM4u04YgE3v14KqL%2BKA%3D%3D) | 
-| 第56期関西棋院第一位決定戦本戦3回戦 | Seto Taiki | Ha Youngil | B+R | 2012-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qRZ61Yf5OV7kmeyvLhJeQg%3D%3D) | 
-| 第68期本因坊戦予選 | Seto Taiki | O Rissei | B+R | 2012-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XiG%2B950qrZ6VBNmahUH%2BPw%3D%3D) | 
-| 第19期阿含・桐山杯全日本早碁オープン戦予選 | Kobayashi Koichi | Seto Taiki | W+11.5 | 2012-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KDBMgg%2F6nDFWRJ9lGmkNtQ%3D%3D) | 
-| 第19期阿含・桐山杯全日本早碁オープン戦予選 | O Rissei | Seto Taiki | W+3.5 | 2012-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EKXCXCRnl9bqUNMYaql75w%3D%3D) | 
-| 第3回おかげ杯囲碁トーナメント戦決勝 | Seto Taiki | Anzai Nobuaki | W+R | 2012-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5uSbdHhT5VLuDEgul9lLuQ%3D%3D) | 
-| 第3回おかげ杯囲碁トーナメント戦準決勝 | Lee Ishu | Seto Taiki | W+R | 2012-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zQnxnKrYKr3n9Ak%2FvXIkSg%3D%3D) | 
-| 第3回おかげ杯囲碁トーナメント戦1回戦 | Seto Taiki | Mukai Chiaki | B+R | 2012-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FTOioD%2FpgWzC%2FSr6EXRIgw%3D%3D) | 
-| 第60期王座戦予選 | Tsuruyama Atsushi | Seto Taiki | B+1.5 | 2012-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BLXnv%2FerW4ac%2Ff9aYfGmXA%3D%3D) | 
-| 第37期碁聖戦本戦準決勝 | Seto Taiki | Iyama Yuta | W+8.5 | 2012-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=meC2WWgfNJ9BuenuNQdhLQ%3D%3D) | 
-| 第38期天元戦本戦2回戦 | Seto Taiki | Ryu Shikun | W+5.5 | 2012-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D%2Fsg8xV44DaS%2Fi4tMo6L3A%3D%3D) | 
-| 第37期碁聖戦本戦3回戦 | Seto Taiki | Kurahashi Masayuki | B+R | 2012-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PcqSU%2FwPz1HmPTXjKt2anQ%3D%3D) | 
-| 第67期本因坊戦リーグ | Kono Rin | Seto Taiki | W+R | 2012-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dwJmWMqciAMHnsd2Y%2BRh0g%3D%3D) | 
-| 第67期本因坊戦リーグ | Seto Taiki | Hane Naoki | W+R | 2012-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EOlg3zRCAaXekppxrayAKA%3D%3D) | 
-| 第37期棋聖戦予選 | Seto Taiki | Kobayashi Satoru | W+R | 2012-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KnETZapYPc5YOdSMOPltpw%3D%3D) | 
-| 第67期本因坊戦リーグ | Iyama Yuta | Seto Taiki | B+R | 2012-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7SRnyiTMrjdxKATEsHg7zA%3D%3D) | 
-| 第37期碁聖戦本戦2回戦 | Nakaonoda Tomomi | Seto Taiki | W+1.5 | 2012-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TLlZes4HbIZMRZKKGRV9ug%3D%3D) | 
-| 第67期本因坊戦リーグ | Seto Taiki | Cho U | W+R | 2012-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Df2779Z4pdtWWsu8GtNoRQ%3D%3D) | 
-| 第38期天元戦本戦1回戦 | Takao Shinji | Seto Taiki | W+1.5 | 2011-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MTr1xAI5HmNzn0mP7jb8tw%3D%3D) | 
-| 第67期本因坊戦リーグ | Seto Taiki | Takao Shinji | W+R | 2011-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZFJnGDi%2FTsjnioqPyOudyQ%3D%3D) | 
-| 第37期碁聖戦本戦1回戦 | Seto Taiki | Ogata Masaki | B+R | 2011-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZQlRc8mmOJAjjh954P4WCg%3D%3D) | 
-| 第67期本因坊戦リーグ | Yuki Satoshi | Seto Taiki | B+6.5 | 2011-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ns%2FmOlxyFjH4DlXqrxU%2BHA%3D%3D) | 
-| 第67期本因坊戦リーグ | Seto Taiki | Ko Iso | W+1.5 | 2011-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BHEb6vA3hsUs2i6dwC6AGQ%3D%3D) | 
-| 第36期棋聖戦Aリーグ | Seto Taiki | Kono Rin | B+R | 2011-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JxI5Pzc7EFGT3xDzMD5t4Q%3D%3D) | 
-| 第37期碁聖戦予選 | Yukawa Mitsuhisa | Seto Taiki | W+2.5 | 2011-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m7ge5OzsaXsAyXSei%2B5vwA%3D%3D) | 
-| 第36期棋聖戦Aリーグ | Kato Atsushi | Seto Taiki | W+R | 2011-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DhT2O%2FUWi9iDcwxP%2BlRzlA%3D%3D) | 
-| 第24回世界囲碁選手権富士通杯1回戦 | Seto Taiki | Hane Naoki | W+5.5 | 2011-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IOiU%2F81LiQMijnMpAixHJg%3D%3D) | 
-| 第36期棋聖戦Aリーグ | Seto Taiki | Hane Naoki | W+R | 2011-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dKoV%2BaxLcz1DqPS5gh28qA%3D%3D) | 
-| 第55期関西棋院第一位決定戦本戦準決勝 | Kiyonari Tetsuya | Seto Taiki | B+R | 2011-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ExmF6HcP3%2Fa%2Fo2arci1lCQ%3D%3D) | 
-| 第36期棋聖戦Aリーグ | Yamashita Keigo | Seto Taiki | B+R | 2011-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sz6AxPjkNCFKrok0v0wJGQ%3D%3D) | 
-| 第55期関西棋院第一位決定戦本戦3回戦 | Seto Taiki | Yoshida Mika | B+R | 2011-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gbzQNDjRDO9HcxcCy8PGvw%3D%3D) | 
-| 第36期棋聖戦Aリーグ | Seto Taiki | Iyama Yuta | W+R | 2011-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R6KUi6WoDAwaMcyOfVZwYg%3D%3D) | 
-| 第66期本因坊戦リーグ | Seto Taiki | Cho U | B+R | 2011-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nIChPDE9Kd5DfYK5jlIODA%3D%3D) | 
-| 第36期棋聖戦予選 | Seto Taiki | Goto Shungo | B+6.5 | 2011-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SSWOeLcW%2BjqyyheC8rlcZw%3D%3D) | 
-| 第66期本因坊戦リーグ | Hane Naoki | Seto Taiki | B+R | 2011-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=egq%2BHwVp4nrNTyePZataLw%3D%3D) | 
-| 第59期王座戦予選 | Seto Taiki | Mitani Tetsuya | W+R | 2011-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yCpa5YJtLnaJDttJI56CHA%3D%3D) | 
-| 第66期本因坊戦リーグ | O Rissei | Seto Taiki | B+R | 2011-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jr9xc53lUgwlsArg08pK0A%3D%3D) | 
-| 第36期棋聖戦予選 | Seto Taiki | O Rissei | B+2.5 | 2011-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rls0uYvwpyEYeAjZvtvPMA%3D%3D) | 
-| 第36期碁聖戦本戦1回戦 | Mizokami Tomochika | Seto Taiki | B+5.5 | 2011-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EO9WdgcQ%2BX1S1vZr1Bd4LA%3D%3D) | 
-| 第66期本因坊戦リーグ | Seto Taiki | Kobayashi Satoru | B+3.5 | 2011-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nTcM%2B2AQ%2BURelmdru8fhZQ%3D%3D) | 
-| 第59期王座戦予選 | Seto Taiki | Ishida Atsushi | B+R | 2011-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g2YLzxQ8%2FXW8EOTcwYAK%2Fg%3D%3D) | 
-| 第66期本因坊戦リーグ | Seto Taiki | Iyama Yuta | W+R | 2010-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RNLStaAxiNpLHOOJPowuCw%3D%3D) | 
-| 第55期関西棋院第一位決定戦本戦1回戦 | Seto Taiki | Ha Youngil | B+R | 2010-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9bzfTiFWaeHKGtPWUWDI0A%3D%3D) | 
-| 第66期本因坊戦リーグ | Takao Shinji | Seto Taiki | W+R | 2010-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rolnm5NbMLelYVxQvePbdA%3D%3D) | 
-| 第36期名人戦予選 | Seto Taiki | Yamashita Keigo | W+R | 2010-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iEXQ0hWzbLK0URzrN0OEQQ%3D%3D) | 
-| 第66期本因坊戦リーグ | Cho Sonjin | Seto Taiki | W+R | 2010-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XFPE5ndWjCPuEU2rZp%2Bpkg%3D%3D) | 
-| 第36期名人戦予選 | Ogata Masaki | Seto Taiki | W+R | 2010-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MvrUYFUYUfxRDDgjyYXgKw%3D%3D) | 
-| 第36期碁聖戦予選 | Yu Zhengqi | Seto Taiki | W+R | 2010-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=06GMr2VF0mP%2F0GXkRphxCQ%3D%3D) | 
-| 第36期名人戦予選 | Shida Tatsuya | Seto Taiki | W+R | 2010-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=okgm8KlhvkOXxd1ruNeukg%3D%3D) | 
-| 第66期本因坊戦予選 | Kataoka Satoshi | Seto Taiki | W+R | 2010-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lkp9TLR9XENAIYEwSwt4wQ%3D%3D) | 
-| 第58期王座戦1回戦 | Seto Taiki | Hane Naoki | W+R | 2010-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UjgpBGp4ZoYP1Vclpq%2FySA%3D%3D) | 
-| 第66期本因坊戦予選 | Seto Taiki | Sakai Hideyuki | B+0.5 | 2010-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=brxwCMV8U5eJl9XftyDkoA%3D%3D) | 
-| 第58期王座戦予選 | Suzuki Yoshimichi | Seto Taiki | W+6.5 | 2010-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L9y%2BMrUOC0E10jAwzYp2gg%3D%3D) | 
-| 第36期天元戦本戦1回戦 | Kim Sujun | Seto Taiki | B+R | 2010-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c1yaK%2BzvQ0VZ8aY3FXxnFg%3D%3D) | 
-| 第35期棋聖戦予選 | Ryu Shikun | Seto Taiki | B+R | 2010-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nWZMb6tdPCpHBK8FE6JEEg%3D%3D) | 
-| 第58期王座戦予選 | Seto Taiki | Hikosaka Naoto | B+3.5 | 2010-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EiCJykWiCDHAd8w%2BxbsmQQ%3D%3D) | 
-| 2009年国際新鋭囲碁対抗戦第3戦 | Seto Taiki | Wang Yuanjun | B+R | 2009-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZFiPCOjCotl%2B9yKCzrNzQA%3D%3D) | 
-| 2009年国際新鋭囲碁対抗戦第2戦 | Kang Yootaek | Seto Taiki | B+R | 2009-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IMqf2RttgCXr3gDSEQg1cQ%3D%3D) | 
-| 2009年国際新鋭囲碁対抗戦第1戦 | Tuo Jiaxi | Seto Taiki | B+R | 2009-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P7gfW2PX1h17hSqN8%2B0Hmw%3D%3D) | 
-| 第23回世界囲碁選手権富士通杯国内予選 | Iyama Yuta | Seto Taiki | B+0.5 | 2009-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e4nEc1saVQl5V94OJ96NyQ%3D%3D) | 
-| 第36期天元戦予選 | Seto Taiki | Yamada Noriyoshi | B+R | 2009-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BRIeugxKu5ROdwt1fW%2B2gQ%3D%3D) | 
-| 第53期関西棋院第一位決定戦本戦準決勝 | Sonoda Yuichi | Seto Taiki | B+0.5 | 2009-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dv3h6Htkp3a1Z3g1pgOEbg%3D%3D) | 
-| 第34期新人王戦準決勝 | Mitani Tetsuya | Seto Taiki | B+R | 2009-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d20p70h23DVITWrb6qVggw%3D%3D) | 
-| 第35期碁聖戦予選 | Seto Taiki | Murakawa Daisuke | W+R | 2009-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EmgqvzPWnFsia4Nb8u8c0g%3D%3D) | 
-| 第34期新人王戦3回戦 | Seto Taiki | Shida Tatsuya | B+R | 2009-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MKYI%2F4ppm5H3Imzp1rjLDQ%3D%3D) | 
-| 第53期関西棋院第一位決定戦本戦3回戦 | Seto Taiki | Moriyama Naoki | B+1.5 | 2009-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=et6koEd%2Bg62%2F1PdtkrWYJQ%3D%3D) | 
-| 第57期王座戦1回戦 | Seto Taiki | So Yokoku | W+3.5 | 2009-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m%2FwR%2BaLCvIm6NonlYaNdOw%3D%3D) | 
-| 第35期名人戦予選 | Seto Taiki | Fujii Shuya | W+R | 2009-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e5XlrV%2FdFsFfgO7KBbem0Q%3D%3D) | 
-| 第34期新人王戦2回戦 | Seto Taiki | Mannami Nao | B+R | 2009-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CkFsHFhASwkzIbgpruEhCA%3D%3D) | 
-| 第57期王座戦予選 | Seto Taiki | Takano Hideki | B+R | 2009-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FiPqA7gTcv1N5Xg1Xn1%2B9g%3D%3D) | 
-| 第34期新人王戦1回戦 | Seto Taiki | Mukai Kozue | B+R | 2009-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mNldaycX5TygQ9euvOX88w%3D%3D) | 
-| 第65期本因坊戦予選 | Sakai Hideyuki | Seto Taiki | B+4.5 | 2009-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=22ndUt7teUuYSvadD%2F%2FmbA%3D%3D) | 
-| 第57期王座戦予選 | Sonoda Yuichi | Seto Taiki | W+1.5 | 2008-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uxIl9dAHX7OsnJrUI8oPpg%3D%3D) | 
-| 2008年国際新鋭囲碁対抗戦第3戦 | Seto Taiki | Xiao Zhenghao | B+R | 2008-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=olA7Pxp3WGdBJIGAosZTWw%3D%3D) | 
-| 2008年国際新鋭囲碁対抗戦第2戦 | Seto Taiki | Gu Lingyi | W+R | 2008-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BOUovZ3QkgaHcRtlqK5fVw%3D%3D) | 
-| 2008年国際新鋭囲碁対抗戦第1戦 | Paek Hongseok | Seto Taiki | B+4.5 | 2008-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O8B24tc6If1VV2xQxTS34A%3D%3D) | 
-| 第34期棋聖戦予選 | Yamada Kimio | Seto Taiki | W+R | 2008-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7mKlQXqSruiBaOD8WJW3gQ%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Seto Taiki | Ishida Yoshio | W+R | 2008-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8glXlR3%2BToIDnrlByjEjTw%3D%3D) | 
-| 第33期棋聖戦予選 | Seto Taiki | O Meien | W+0.5 | 2008-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jj%2B%2B%2FtpTZjB3qvpOWHy1rQ%3D%3D) | 
-| 第33期新人王戦1回戦 | Shuto Shun | Seto Taiki | B+R | 2008-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Z6top6sn1vk22ktC6L1tw%3D%3D) | 
-| 第33期碁聖戦本戦1回戦 | Kobayashi Koichi | Seto Taiki | B+0.5 | 2007-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IVtkBD3979YnP6nGI0FK9g%3D%3D) | 
-| 2007年国際新鋭囲碁対抗戦第3戦 | Seto Taiki | Lin Shuyang | B+5.5 | 2007-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e%2FO4lAZfPr1uRFLi8vIReA%3D%3D) | 
-| 2007年国際新鋭囲碁対抗戦第2戦 | Seto Taiki | Kim Jiseok | W+2.5 | 2007-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b%2BeR3AUJ31huYF00bO6tgQ%3D%3D) | 
-| 2007年国際新鋭囲碁対抗戦第1戦 | Seto Taiki | Zhou Ruiyang | B+R | 2007-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t9%2FX061OibfUVrttlb4wgA%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯国内予選 | Seto Taiki | Kiyonari Tetsuya | W+R | 2007-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RdRXX9oxPod1TT5kgQFQIw%3D%3D) | 
-| 第32期新人王戦準決勝 | Seto Taiki | Iyama Yuta | W+R | 2007-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gV%2BTNsAXzjhuGnZsTBjUug%3D%3D) | 
-| 第32期新人王戦3回戦 | Son Hideyo | Seto Taiki | W+2.5 | 2007-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rpRnYOGsi9ZxcZrAo57YJw%3D%3D) | 
-| 第32期新人王戦2回戦 | Matsumoto Takehisa | Seto Taiki | W+3.5 | 2007-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V9EnT164NtSCIXBBzJPM%2BA%3D%3D) | 
-| 第32期新人王戦1回戦 | Mukai Kaori | Seto Taiki | W+R | 2007-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sXhS920wRqPCuLR8tNlHlA%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Seto Taiki | Park Yeonghun | W+R | 2006-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lqQhuNvxMNETckeGe%2BawHA%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯国内予選 | Nakano Yasuhiro | Seto Taiki | W+R | 2006-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BPqEg5Vim4w4Wgb8D%2F1YDg%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Seto Taiki | Kubo Hideo | B+5.5 | 2006-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IjOH2CIb7TqyupMpgJ8eNQ%3D%3D) | 
-| 第31期新人王戦1回戦 | Seto Taiki | Mukai Kaori | W+0.5 | 2006-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4Rq2gzWu4g6wCWlTecKNLg%3D%3D) | 
-| 第31期棋聖戦予選 | Kudo Norio | Seto Taiki | B+R | 2006-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0II38mEgoWwlA6uR5PovLQ%3D%3D) | 
-| 第31期碁聖戦本戦1回戦 | O Rissei | Seto Taiki | B+2.5 | 2005-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B%2Fs%2BNRjJh5evzWPXUSzhYw%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第3戦 | Zhou Pingqiang | Seto Taiki | W+R | 2005-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RLAwRMvnDHc9AcgXqpnAqg%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第2戦 | Seto Taiki | Li Zhe | W+2.5 | 2005-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oTBxMAd2R1xanozAleWhcw%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第1戦 | Kang Dongyun | Seto Taiki | B+3.5 | 2005-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zpk24uFgTTvCniRBvKcorg%3D%3D) | 
-| 第2回中野杯U20選手権1回戦 | Uchida Shuhei | Seto Taiki | B+1.5 | 2005-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j8Vp1B%2FQjSw4klejPLXjBw%3D%3D) | 
-| 第61期本因坊戦予選 | Imamura Toshiya | Seto Taiki | B+R | 2005-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R24%2FCbKptiG30BjIdduyUw%3D%3D) | 
-| 第31期名人戦予選 | Nakano Yasuhiro | Seto Taiki | B+2.5 | 2005-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BId8zlkN2iCnsYlXyJyVzQ%3D%3D) | 
-| 第2期JAL新鋭早碁準決勝 | Seto Taiki | Kim Sujun | W+R | 2005-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DJVQcs8N5%2FIavPY2YUl9nQ%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯国内予選 | Seto Taiki | Kataoka Satoshi | W+3.5 | 2005-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B35RL43YEuUb0wlQa7ElEg%3D%3D) | 
-| 第2期JAL新鋭早碁2回戦 | Kono Rin | Seto Taiki | W+1.5 | 2004-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lSb39%2BI0%2F7HlPKTrNhQYNQ%3D%3D) | 
-| 第9回三星火災杯予選2回戦 | Seto Taiki | Zhou Heyang | W+1.5 | 2004-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jjNrTMtHYZa%2BRjTYfK875A%3D%3D) | 
-| 第1回中野杯U20選手権決勝 | Ohashi Hirofumi | Seto Taiki | W+R | 2004-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xM0O5lqrhGqhXcql3uExXQ%3D%3D) | 
-| 2004年中国囲碁乙級リーグ | Seto Taiki | Wu Zhaoyi | B+R | 2004-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rpxYtDYOKWdG2QljJZ735A%3D%3D) | 
-| 第48期関西棋院第一位決定戦本戦1回戦 | Seto Taiki | Kubouchi Shuchi | B+R | 2004-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8FiX%2Bfa9rLOVvhZet7vicQ%3D%3D) | 
-| 2003年国際新鋭囲碁対抗戦第1戦 | Seto Taiki | Kang Jiseong | B+R | 2003-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AuG%2B510N%2BI%2FQBHFmcVgRrw%3D%3D) | 
-| 第1期JAL新鋭早碁2回戦 | Matsumoto Takehisa | Seto Taiki | B+10.5 | 2003-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WZKj11rBLRwsbVKsF55DDQ%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | Cho Hunhyun | Seto Taiki | B+R | 2003-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JTqDQESBaAGErx9zLlYHaQ%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | Niu Yutian | Seto Taiki | W+R | 2003-04-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7OmJi0%2FNyFGNIDKJTSdX%2FQ%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | Seto Taiki | missing | B+R | 2003-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MEyBRP%2Bsw2M68Mi8KvAylw%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | Wang Lei (b) | Seto Taiki | W+0.5 | 2003-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1qY0YJ3LrfYbkmuvXSnfIA%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | missing | Seto Taiki | W+0.5 | 2003-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1nETkqHjBFw%2F3AYkPJEQCA%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | Seto Taiki | Zhou Zhenyu | B+5.5 | 2003-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gl9ncAllqPRvU5BEV13nmQ%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-17 | 第77期本因坊戦予選 | Shida Tatsuya | Seto Taiki | Lose | B+4.5 | 6.5 | 3082 | -70 | 
+| 2021-05-26 | 第47期碁聖戦予選 | Okuma Yuto | Seto Taiki | Win | W+R | 6.5 | 3152 | -9 | 
+| 2021-04-22 | 第65期関西棋院第一位決定戦本戦3回戦 | Seto Taiki | Sada Atsushi | Lose | W+R | 6.5 | 3161 | -3 | 
+| 2021-04-15 | 第77期本因坊戦予選 | Murakawa Daisuke | Seto Taiki | Win | W+R | 6.5 | 3164 | -83 | 
+| 2021-03-18 | 第46期棋聖戦Bリーグ | Seto Taiki | Sun Zhe | Win | B+3.5 | 6.5 | 3247 | 71 | 
+| 2021-03-10 | 第77期本因坊戦予選 | Shintani Yousuke | Seto Taiki | Win | W+R | 6.5 | 3176 | -126 | 
+| 2021-01-27 | 第77期本因坊戦予選 | Furuya Yutaka | Seto Taiki | Win | W+4.5 | 6.5 | 3302 | -47 | 
+| 2021-01-14 | 第65期関西棋院第一位決定戦本戦2回戦 | Nakano Yasuhiro | Seto Taiki | Win | W+R | 6.5 | 3349 | 3 | 
+| 2020-12-09 | 第69期王座戦予選 | Shintani Yousuke | Seto Taiki | Win | W+R | 6.5 | 3346 | -7 | 
+| 2020-12-07 | 2020年関西棋院VS台湾棋院対抗戦第1戦 | Seto Taiki | Wang Yuanjun | Lose | W+R | 6.5 | 3353 | -8 | 
+| 2020-11-05 | 第47期天元戦予選 | Seto Taiki | Yuki Satoshi | Win | B+R | 6.5 | 3361 | 29 | 
+| 2020-10-22 | 第65期関西棋院第一位決定戦本戦1回戦 | Furuya Yutaka | Seto Taiki | Win | W+R | 6.5 | 3332 | -8 | 
+| 2020-10-15 | 第47期天元戦予選 |  | Seto Taiki | Win | W+R | 6.5 | 3340 | -26 | 
+| 2020-09-28 | 第59期十段戦1回戦 | Seto Taiki | Cho U | Lose | W+R | 6.5 | 3366 | 27 | 
+| 2020-09-17 | 第64期関西棋院第一位決定戦挑戦者決定戦 | Seto Taiki | Murakawa Daisuke | Lose | W+R | 6.5 | 3339 | -46 | 
+| 2020-09-10 | 第46期名人戦予選 | Seto Taiki |  | Win | B+R | 6.5 | 3385 | 10 | 
+| 2020-09-07 | 第45期棋聖戦Cリーグ | Hong Seokui | Seto Taiki | Lose | B+R | 6.5 | 3375 | -23 | 
+| 2020-08-26 | 第46期碁聖戦予選 | Seto Taiki | Suzuki Keiji | Win | B+R | 6.5 | 3398 | 34 | 
+| 2020-08-20 | 第59期十段戦予選 | Seto Taiki | Nakamura Shinya | Win | B+4.5 | 6.5 | 3364 | 35 | 
+| 2020-08-13 | 第27期阿含・桐山杯全日本早碁オープン戦2回戦 | Iyama Yuta | Seto Taiki | Lose | B+6.5 | 6.5 | 3329 | 131 | 
+| 2020-07-29 | 第64期関西棋院第一位決定戦本戦準決勝 | Seto Taiki | Hara Masakazu | Win | B+6.5 | 6.5 | 3198 | 3 | 
+| 2020-07-20 | 第27期阿含・桐山杯全日本早碁オープン戦1回戦 | Seto Taiki | Terayama Rei | Win | B+R | 6.5 | 3195 | 5 | 
+| 2020-07-15 | 第46期名人戦予選 | Ota Ryou | Seto Taiki | Win | W+0.5 | 6.5 | 3190 | -68 | 
+| 2020-07-02 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Seto Taiki | Suzuki Shinji | Win | B+R | 6.5 | 3258 | 49 | 
+| 2020-06-24 | 第45期棋聖戦Cリーグ | Nakano Yasuhiro | Seto Taiki | Win | W+1.5 | 6.5 | 3209 | 27 | 
+| 2020-06-10 | 第64期関西棋院第一位決定戦本戦3回戦 | Nishi Takenobu | Seto Taiki | Win | W+R | 6.5 | 3182 | -23 | 
+| 2020-06-04 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Seto Taiki | Adachi Toshimasa | Win | B+6.5 | 6.5 | 3205 | 162 | 
+| 2020-03-30 | 第46期天元戦2回戦 | Seto Taiki | Ichiriki Ryo | Lose | W+5.5 | 6.5 | 3043 | -39 | 
+| 2020-03-11 | 第64期関西棋院第一位決定戦本戦2回戦 | Yata Naoki | Seto Taiki | Win | W+R | 6.5 | 3082 | 30 | 
+| 2020-02-19 | 第64期関西棋院第一位決定戦本戦1回戦 | Fujii Shuya | Seto Taiki | Win | W+R | 6.5 | 3052 | -220 | 
+| 2020-02-06 | 第45期棋聖戦ファーストトーナメント予選 | Yamamori Tadanao | Seto Taiki | Win | W+R | 6.5 | 3272 | 43 | 
+| 2020-01-09 | 第46期天元戦1回戦 | So Yokoku | Seto Taiki | Win | W+R | 6.5 | 3229 | 262 | 
+| 2019-11-13 | 第68期王座戦予選A準決勝 | Seto Taiki | Yukawa Mitsuhisa | Win | B+2.5 | 6.5 | 2967 | 48 | 
+| 2019-10-30 | 第46期天元戦予選A決勝 | Hatanaka Hoshinobu | Seto Taiki | Win | W+R | 6.5 | 2919 | 9 | 
+| 2019-10-24 | 第58期十段戦2回戦 | Takao Shinji | Seto Taiki | Lose | B+R | 6.5 | 2910 | 21 | 
+| 2019-10-02 | 第45期碁聖戦予選A決勝 | Seto Taiki | Yokota Shigeaki | Win | B+R | 6.5 | 2889 | 45 | 
+| 2019-09-02 | 第58期十段戦予選 | Seto Taiki | Cho U | Win | B+R | 6.5 | 2844 | 37 | 
+| 2019-08-29 | 第44期棋聖戦Cリーグ | Seto Taiki | Hirose Yuichi | Lose | W+2.5 | 6.5 | 2807 | -41 | 
+| 2019-08-22 | 第75期本因坊戦予選 | Seto Taiki | Ichiriki Ryo | Lose | W+4.5 | 6.5 | 2848 | -52 | 
+| 2019-07-14 | 第4回ジャパン碁コングレスin金沢トップ棋士トーナメント決勝戦 | Seto Taiki | Murakawa Daisuke | Win | B+R | 6.5 | 2900 | 0 | 
+| 2019-07-14 | 第4回ジャパン碁コングレスin金沢トップ棋士トーナメント1回戦 | Yuki Satoshi | Seto Taiki | Win | W+R | 6.5 | 2900 | 68 | 
+| 2019-07-10 | 第75期本因坊戦予選 | Yuki Satoshi | Seto Taiki | Win | W+R | 6.5 | 2832 | 2 | 
+| 2019-06-06 | 第75期本因坊戦予選 | Ryu Shikun | Seto Taiki | Win | W+4.5 | 6.5 | 2830 | -36 | 
+| 2019-04-01 | 第44期碁聖戦本戦3回戦 | Seto Taiki | Ichiriki Ryo | Lose | W+R | 6.5 | 2866 | 31 | 
+| 2019-03-16 | 2018年度打倒Zen！リーグ戦真剣勝負第3シーズン（互先） |  | Seto Taiki | Win | W+T | 6.5 | 2835 | 2835 | 
+| 2019-03-02 | 2018年度打倒Zen！リーグ戦真剣勝負第3シーズン（互先） |  | Seto Taiki | Win | W+R | 6.5 | missing | -2847 | 
+| 2019-02-20 | 第75期本因坊戦予選A | Katsuma Shiro | Seto Taiki | Win | W+R | 6.5 | 2847 | 2 | 
+| 2019-02-16 | 2018年度打倒Zen！リーグ戦真剣勝負第3シーズン（互先） | Seto Taiki | Ha Youngil | Win | B+7.5 | 6.5 | 2845 | 7 | 
+| 2019-02-02 | 2018年度打倒Zen！リーグ戦真剣勝負第3シーズン（互先） | Seto Taiki | Furuya Yutaka | Lose | W+0.5 | 6.5 | 2838 | -62 | 
+| 2019-01-30 | 第44期棋聖戦ファーストトーナメント準決勝 | Kan Minu | Seto Taiki | Win | W+4.5 | 6.5 | 2900 | -4 | 
+| 2019-01-25 | 2018年度打倒Zen！リーグ戦真剣勝負第3シーズン（互先） | Zen | Seto Taiki | Lose | B+R | 6.5 | 2904 | -10 | 
+| 2019-01-17 | 第44期碁聖戦本戦2回戦 | Shida Tatsuya | Seto Taiki | Win | W+4.5 | 6.5 | 2914 | -53 | 
+| 2018-11-17 | 2018年度打倒Zen！リーグ戦真剣勝負第2シーズン | Seto Taiki | Taguchi Misei | Win | B+R | 6.5 | 2967 | -12 | 
+| 2018-11-07 | 第45期天元戦予選A決勝 |  | Seto Taiki | Lose | B+R | 6.5 | 2979 | -16 | 
+| 2018-10-27 | 2018年度打倒Zen！リーグ戦真剣勝負第2シーズン | Ha Youngil | Seto Taiki | Win | W+2.5 | 6.5 | 2995 | 8 | 
+| 2018-10-13 | 2018年度打倒Zen！リーグ戦真剣勝負第2シーズン | Abe Yoshiki | Seto Taiki | Win | W+T | 6.5 | 2987 | 6 | 
+| 2018-10-04 | 第57期十段戦2回戦 | Ichiriki Ryo | Seto Taiki | Lose | B+2.5 | 6.5 | 2981 | 5 | 
+| 2018-09-15 | 2018年度打倒Zen！リーグ戦真剣勝負第2シーズン | Furuya Yutaka | Seto Taiki | Lose | B+R | 6.5 | 2976 | -26 | 
+| 2018-08-20 | 関西棋院対台湾棋院棋士対抗戦2018 | Seto Taiki | Xu Haohong | Lose | W+R | 6.5 | 3002 | -22 | 
+| 2018-08-14 | 阪急納涼囲碁まつり納涼トーナメント決勝戦 | Seto Taiki | Shibano Toramaru | Lose | W+R | 6.5 | 3024 | 0 | 
+| 2018-08-14 | 阪急納涼囲碁まつり納涼トーナメント第1局 | Seto Taiki | Ida Atsushi | Win | B+3.5 | 6.5 | 3024 | -16 | 
+| 2018-07-05 | 第57期十段戦最終予選決勝 | Kobayashi Satoru | Seto Taiki | Win | W+R | 6.5 | 3040 | 18 | 
+| 2018-07-02 | 第25期阿含・桐山杯全日本早碁オープン戦1回戦 | Seto Taiki | Shibano Toramaru | Lose | W+R | 6.5 | 3022 | -9 | 
+| 2018-06-30 | 2018年度 打倒Zen！リーグ戦真剣勝負 第1シーズン | Seto Taiki | Inaba Karin | Win | B+R | 6.5 | 3031 | 0 | 
+| 2018-06-29 | 2018年度 打倒Zen！リーグ戦真剣勝負 第1シーズン | Zen | Seto Taiki | Lose | B+R | 6.5 | 3031 | 12 | 
+| 2018-06-13 | 第62期関西棋院第一位決定戦本戦3回戦 | Seto Taiki | Imamura Toshiya | Win | B+1.5 | 6.5 | 3019 | 9 | 
+| 2018-06-02 | 2018年度 打倒Zen！リーグ戦真剣勝負 第1シーズン |  | Seto Taiki | Win | W+2.5 | 6.5 | 3010 | 5 | 
+| 2018-05-31 | 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Seto Taiki | Kataoka Satoshi | Win | B+2.5 | 6.5 | 3005 | 21 | 
+| 2018-05-19 | 2018年度 打倒Zen！リーグ戦真剣勝負 第1シーズン | Abe Yoshiki | Seto Taiki | Win | W+3.5 | 6.5 | 2984 | 7 | 
+| 2018-05-12 | 2018年度 打倒Zen！リーグ戦真剣勝負 第1シーズン | Ha Youngil | Seto Taiki | Win | W+2.5 | 6.5 | 2977 | -6 | 
+| 2018-05-05 | 関西囲碁リーグ準決勝 | Mutsuura Yuta | Seto Taiki | Lose | B+R | 6.5 | 2983 | 0 | 
+| 2018-05-05 | 関西囲碁リーグ準々決勝 | Shibano Toramaru | Seto Taiki | Win | W+2.5 | 6.5 | 2983 | 19 | 
+| 2018-04-12 | 第43期碁聖戦本戦準決勝 | Motoki Katsuya | Seto Taiki | Lose | B+4.5 | 6.5 | 2964 | -87 | 
+| 2018-03-14 | 第57期十段戦予選A | Watanabe Yuu | Seto Taiki | Win | W+R | 6.5 | 3051 | -17 | 
+| 2018-03-07 | 第43期棋聖戦ファーストトーナメント戦決勝 | Hong Seokui | Seto Taiki | Win | W+R | 6.5 | 3068 | 4 | 
+| 2018-02-21 | 第43期碁聖戦本戦3回戦 | Kurahashi Masayuki | Seto Taiki | Win | W+R | 6.5 | 3064 | 29 | 
+| 2018-02-08 | 第66期王座戦最終予選 | Seto Taiki | Hikosaka Naoto | Lose | W+R | 6.5 | 3035 | -40 | 
+| 2018-01-25 | 第43期碁聖戦本戦2回戦 | Seto Taiki | Ryu Shikun | Win | B+7.5 | 6.5 | 3075 | 48 | 
+| 2018-01-10 | 第62期関西棋院第一位決定戦本戦2回戦 | Nakano Yasuhiro | Seto Taiki | Win | W+R | 6.5 | 3027 | 12 | 
+| 2017-12-21 | 第66期王座戦予選A | Sakai Hideyuki | Seto Taiki | Win | W+R | 6.5 | 3015 | 95 | 
+| 2017-11-27 | 2017年日本囲碁リーグ2nd最終節古都-大阪副将戦 | Hara Masakazu | Seto Taiki | Win | W+R | 6.5 | 2920 | 15 | 
+| 2017-11-23 | 第43期碁聖戦本戦1回戦 | Seto Taiki | Fujisawa Rina | Win | B+R | 6.5 | 2905 | -3 | 
+| 2017-11-01 | 第62期関西棋院第一位決定戦本戦1回戦 | Oda Hiromitsu | Seto Taiki | Win | W+R | 6.5 | 2908 | 18 | 
+| 2017-10-04 | 第66期王座戦予選 | Seto Taiki | Watanabe Kouki | Win | B+R | 6.5 | 2890 | -5 | 
+| 2017-09-27 | 第44期天元戦予選A決勝 | Yuki Satoshi | Seto Taiki | Lose | B+R | 6.5 | 2895 | -21 | 
+| 2017-09-25 | 2017年日本囲碁リーグ2nd第3節古都-浪速副将戦 | Watanabe Yuu | Seto Taiki | Win | W+R | 6.5 | 2916 | -9 | 
+| 2017-09-21 | 第43期名人戦　最終予選1回戦 | Shida Tatsuya | Seto Taiki | Lose | B+1.5 | 6.5 | 2925 | 10 | 
+| 2017-09-06 | 第43期碁聖戦　予選A決勝 | Seto Taiki | Sakai Hideyuki | Win | B+2.5 | 6.5 | 2915 | 7 | 
+| 2017-08-28 | 2017年日本囲碁リーグ2nd第2節WU-古都主将戦 | Seto Taiki | Kan Minu | Lose | W+R | 6.5 | 2908 | 7 | 
+| 2017-08-14 | 阪急電鉄納涼囲碁まつり阪急トーナメント予選第2局 | Iyama Yuta | Seto Taiki | Win | W+R | 6.5 | 2901 | 0 | 
+| 2017-08-14 | 阪急電鉄納涼囲碁まつり阪急トーナメント決勝戦 | Seto Taiki | Ichiriki Ryo | Win | B+R | 6.5 | 2901 | 111 | 
+| 2017-08-10 | 第42期棋聖戦　Cリーグ4回戦 | O Rissei | Seto Taiki | Win | W+R | 6.5 | 2790 | 28 | 
+| 2017-07-26 | 第43期名人戦　予選A決勝 | Watanabe Kouki | Seto Taiki | Win | W+R | 6.5 | 2762 | 4 | 
+| 2017-07-20 | 第56期十段戦　最終予選決勝 | So Yokoku | Seto Taiki | Lose | B+R | 6.5 | 2758 | -20 | 
+| 2017-07-12 | 第43期名人戦予選A | Seto Taiki | Ha Youngil | Win | B+9.5 | 6.5 | 2778 | -38 | 
+| 2017-06-28 | 第24期阿含・桐山杯　本戦1回戦 | Seto Taiki | Rin Kanketsu | Lose | W+0.5 | 6.5 | 2816 | 8 | 
+| 2017-06-14 | 第43期名人戦　予選A | Utsumi Koki | Seto Taiki | Win | W+R | 6.5 | 2808 | 16 | 
+| 2017-05-17 | 第61期関西棋院第一位決定戦　準々決勝 | Seto Taiki | Kiyonari Tetsuya | Lose | W+R | 6.5 | 2792 | -31 | 
+| 2017-05-11 | 第56期十段戦予選A | Seto Taiki |  | Win | B+R | 6.5 | 2823 | 63 | 
+| 2017-05-01 | 日本棋院vs関西棋院対抗戦 | Tsuruta Kazushi | Seto Taiki | Win | W+R | 6.5 | 2760 | -14 | 
+| 2017-04-06 | 第65期王座戦　最終予選特選譜第10局 | Han Zenki | Seto Taiki | Lose | B+0.5 | 6.5 | 2774 | 117 | 
+| 2017-02-27 | 2017年日本囲碁リーグ第1ステージ 開幕戦副将戦 | Nishi Takenobu | Seto Taiki | Win | W+R | 6.5 | 2657 | -38 | 
+| 2017-02-15 | 第61期関西棋院第一位決定戦　本戦2回戦 | Kubo Katsuaki | Seto Taiki | Win | W+R | 6.5 | 2695 | 75 | 
+| 2017-02-08 | 第56期十段戦予選A | Sada Atsushi | Seto Taiki | Win | W+R | 6.5 | 2620 | -21 | 
+| 2017-01-25 | 第73期本因坊戦　予選A | Seto Taiki | Takashima Yugo | Lose | W+0.5 | 6.5 | 2641 | -42 | 
+| 2016-12-19 | 関西棋院対台湾棋院棋士対抗戦2017　1回戦 | Lin Xiuping | Seto Taiki | Win | W+R | 6.5 | 2683 | 5 | 
+| 2016-12-14 | 第61期関西棋院第一位決定戦　本戦1回戦 | Seto Taiki | Hong Maleunsaem | Win | B+R | 6.5 | 2678 | 14 | 
+| 2016-11-30 | 第43期天元戦　予選A決勝 | Sonoda Yuichi | Seto Taiki | Lose | B+R | 6.5 | 2664 | -41 | 
+| 2016-11-28 | 第1回日本囲碁リーグクライマックスシリーズ 第1ステージ 副将戦 | Seto Taiki | Kiyonari Tetsuya | Lose | W+R | 6.5 | 2705 | -21 | 
+| 2016-11-02 | 第13回 産経プロ・アマトーナメント戦 予選 | Watanabe Kouki | Seto Taiki | Win | W+R | 6.5 | 2726 | 38 | 
+| 2016-09-21 | 第42期碁聖戦予選 | Yukawa Mitsuhisa | Seto Taiki | Win | W+4.5 | 6.5 | 2688 | 78 | 
+| 2016-08-18 | 第41期棋聖戦Bリーグ | Seto Taiki | Yuki Satoshi | Lose | W+R | 6.5 | 2610 | -18 | 
+| 2016-08-11 | 第55期十段戦予選 | Kono Rin | Seto Taiki | Lose | B+R | 6.5 | 2628 | 18 | 
+| 2016-08-04 | 第41期棋聖戦Bリーグ | Seto Taiki | Cho Sonjin | Lose | W+1.5 | 6.5 | 2610 | -28 | 
+| 2016-07-07 | 第41期棋聖戦Bリーグ | Seto Taiki | Kiyonari Tetsuya | Win | B+R | 6.5 | 2638 | 32 | 
+| 2016-06-29 | 第55期十段戦予選 | Furuya Yutaka | Seto Taiki | Win | W+R | 6.5 | 2606 | 6 | 
+| 2016-06-23 | 第41期棋聖戦Bリーグ | Hane Naoki | Seto Taiki | Lose | B+R | 6.5 | 2600 | -31 | 
+| 2016-06-16 | 第64期王座戦　本戦1回戦第7局 | Kono Rin | Seto Taiki | Lose | B+2.5 | 6.5 | 2631 | -35 | 
+| 2016-06-09 | 第72期本因坊戦予選 | Seto Taiki | Kataoka Satoshi | Lose | W+2.5 | 6.5 | 2666 | 34 | 
+| 2016-05-18 | 第72期本因坊戦予選 | Seto Taiki | Son Hideyo | Win | B+9.5 | 6.5 | 2632 | 37 | 
+| 2016-04-14 | 第64期王座戦予選 | Seto Taiki | Yamashiro Hiroshi | Win | B+3.5 | 6.5 | 2595 | 58 | 
+| 2016-04-07 | 第41期碁聖戦本戦3回戦 | Sakai Hideyuki | Seto Taiki | Lose | B+2.5 | 6.5 | 2537 | 0 | 
+| 2016-03-23 | 第41期棋聖戦Bリーグ | Yu Zhengqi | Seto Taiki | Lose | B+R | 6.5 | 2537 | -10 | 
+| 2016-03-16 | 第72期本因坊戦予選 | Sada Atsushi | Seto Taiki | Win | W+R | 6.5 | 2547 | -21 | 
+| 2016-02-18 | 第41期碁聖戦本戦2回戦 | Seto Taiki | Takao Shinji | Win | B+R | 6.5 | 2568 | -8 | 
+| 2016-02-03 | 第64期王座戦予選 | Seto Taiki | Imamura Toshiya | Win | B+R | 6.5 | 2576 | 9 | 
+| 2016-01-21 | 第41期碁聖戦本戦1回戦 | Kim Sujun | Seto Taiki | Win | W+R | 6.5 | 2567 | 19 | 
+| 2016-01-13 | 第64期王座戦予選 | Furuya Yutaka | Seto Taiki | Win | W+R | 6.5 | 2548 | 30 | 
+| 2015-11-26 | 第42期天元戦予選 | Nakano Yasuhiro | Seto Taiki | Lose | B+1.5 | 6.5 | 2518 | -21 | 
+| 2015-10-05 | 第25期竜星戦Bブロック第3局 | Ando Kazushige | Seto Taiki | Lose | B+0.5 | 6.5 | 2539 | -65 | 
+| 2015-09-17 | 第41期名人戦予選 | Seto Taiki | Shibano Toramaru | Lose | W+R | 6.5 | 2604 | -107 | 
+| 2015-09-09 | 第42期天元戦予選 | Hoshikawa Takumi | Seto Taiki | Win | W+R | 6.5 | 2711 | -39 | 
+| 2015-08-27 | 第54期十段戦予選 | O Meien | Seto Taiki | Lose | B+R | 6.5 | 2750 | -70 | 
+| 2015-08-19 | 第41期名人戦予選 | Honda Kunihisa | Seto Taiki | Win | W+R | 6.5 | 2820 | -23 | 
+| 2015-08-12 | 第59期関西棋院第一位決定戦本戦準決勝 | Seto Taiki | Nakano Yasuhiro | Lose | W+R | 6.5 | 2843 | 9 | 
+| 2015-07-29 | 第41期名人戦予選 | Seto Taiki | Ota Seido | Win | B+R | 6.5 | 2834 | 32 | 
+| 2015-07-20 | 第54期十段戦予選 | Seto Taiki | Hane Naoki | Win | B+R | 6.5 | 2802 | -18 | 
+| 2015-07-02 | 第40期棋聖戦Bリーグ | Seto Taiki | Ryu Shikun | Lose | W+2.5 | 6.5 | 2820 | -223 | 
+| 2015-06-17 | 第59期関西棋院第一位決定戦本戦3回戦 | Sakai Hideyuki | Seto Taiki | Win | W+R | 6.5 | 3043 | 55 | 
+| 2015-06-10 | 第54期十段戦予選 | Seto Taiki | Taniguchi Tooru | Win | B+R | 6.5 | 2988 | 22 | 
+| 2015-06-04 | 第71期本因坊戦予選 | Seto Taiki | Sada Atsushi | Win | B+1.5 | 6.5 | 2966 | 15 | 
+| 2015-06-01 | 第22期阿含・桐山杯全日本早碁オープン戦予選 | Cho U | Seto Taiki | Lose | B+R | 6.5 | 2951 | -53 | 
+| 2015-05-28 | 第40期棋聖戦Bリーグ | Seto Taiki | Sakai Hideyuki | Win | B+2.5 | 6.5 | 3004 | 87 | 
+| 2015-03-26 | 第41期天元戦本戦2回戦 | Seto Taiki | Ko Iso | Lose | W+1.5 | 6.5 | 2917 | -270 | 
+| 2015-02-05 | 第41期天元戦本戦1回戦 | Seto Taiki | Nakamura Shinya | Win | B+R | 6.5 | 3187 | 121 | 
+| 2014-07-31 | 第40期天元戦本戦3回戦 | Yoda Norimoto | Seto Taiki | Lose | B+R | 6.5 | 3066 | -5 | 
+| 2014-07-24 | 第62期王座戦2回戦 | Anzai Nobuaki | Seto Taiki | Lose | B+R | 6.5 | 3071 | 57 | 
+| 2014-07-03 | 第40期天元戦本戦2回戦 | Seto Taiki | Akiyama Jiro | Win | B+R | 6.5 | 3014 | 29 | 
+| 2014-06-26 | 第62期王座戦1回戦 | Seto Taiki | Yoda Norimoto | Win | B+3.5 | 6.5 | 2985 | 30 | 
+| 2014-06-19 | 第21期阿含・桐山杯全日本早碁オープン戦予選 | Seto Taiki | Cho U | Lose | W+1.5 | 6.5 | 2955 | -46 | 
+| 2014-05-16 | 第5回おかげ杯囲碁トーナメント戦決勝 | Seto Taiki | Ichiriki Ryo | Lose | W+R | 6.5 | 3001 | 0 | 
+| 2014-05-16 | 第5回おかげ杯囲碁トーナメント戦準決勝 | Hirata Tomoya | Seto Taiki | Win | W+R | 6.5 | 3001 | 4 | 
+| 2014-05-15 | 第5回おかげ杯囲碁トーナメント戦1回戦 | Ohashi Hirofumi | Seto Taiki | Win | W+10.5 | 6.5 | 2997 | 0 | 
+| 2014-05-08 | 第62期王座戦予選 | Kobayashi Satoru | Seto Taiki | Win | W+0.5 | 6.5 | 2997 | -31 | 
+| 2014-04-03 | 第39期棋聖戦予選 | Seto Taiki | Cho Riyu | Lose | W+8.5 | 6.5 | 3028 | -2 | 
+| 2014-03-27 | 第40期天元戦本戦1回戦 | Seto Taiki | Shimojima Yohei | Win | B+R | 6.5 | 3030 | -21 | 
+| 2014-01-30 | 第39期碁聖戦本戦1回戦 | Cho Riyu | Seto Taiki | Lose | B+R | 6.5 | 3051 | -134 | 
+| 2013-08-07 | 第39期名人戦予選 | Yamada Noriyoshi | Seto Taiki | Win | W+R | 6.5 | 3185 | 68 | 
+| 2013-07-29 | 第20期阿含・桐山杯全日本早碁オープン戦2回戦 | Murakawa Daisuke | Seto Taiki | Lose | B+R | 6.5 | 3117 | 25 | 
+| 2013-07-18 | 第61期王座戦2回戦 | Yamashita Keigo | Seto Taiki | Lose | B+R | 6.5 | 3092 | -21 | 
+| 2013-07-11 | 第39期天元戦本戦3回戦 | Seto Taiki | Yu Zhengqi | Lose | W+3.5 | 6.5 | 3113 | 149 | 
+| 2013-06-24 | 第20期阿含・桐山杯全日本早碁オープン戦1回戦 | Seto Taiki | Hong Seokui | Win | B+3.5 | 6.5 | 2964 | 51 | 
+| 2013-06-06 | 第61期王座戦1回戦 | Nakane Naoyuki | Seto Taiki | Win | W+R | 6.5 | 2913 | 28 | 
+| 2013-05-23 | 第39期天元戦本戦2回戦 | Shida Tatsuya | Seto Taiki | Win | W+R | 6.5 | 2885 | 45 | 
+| 2013-05-09 | 第61期王座戦予選 | Seto Taiki | Cho Chikun | Win | B+8.5 | 6.5 | 2840 | 5 | 
+| 2013-04-22 | 第18回LG杯予選 | Li Zhe | Seto Taiki | Lose | B+R | 6.5 | 2835 | 20 | 
+| 2013-04-08 | 第68期本因坊戦リーグ | Seto Taiki | Yuki Satoshi | Lose | W+R | 6.5 | 2815 | -54 | 
+| 2013-03-07 | 第68期本因坊戦リーグ | Ko Iso | Seto Taiki | Lose | B+R | 6.5 | 2869 | -21 | 
+| 2013-03-04 | 第38期碁聖戦本戦2回戦 | Seto Taiki | Cho Riyu | Lose | W+R | 6.5 | 2890 | 32 | 
+| 2013-02-21 | 第39期天元戦本戦1回戦 | Matsuoka Hideki | Seto Taiki | Win | W+1.5 | 6.5 | 2858 | 20 | 
+| 2013-02-14 | 第68期本因坊戦リーグ | Cho Sonjin | Seto Taiki | Win | W+0.5 | 6.5 | 2838 | 24 | 
+| 2013-02-07 | 第38期棋聖戦予選 | Seto Taiki | Kudo Norio | Win | B+R | 6.5 | 2814 | 6 | 
+| 2013-01-31 | 第38期碁聖戦本戦1回戦 | Seto Taiki | Ko Iso | Win | B+R | 6.5 | 2808 | -8 | 
+| 2013-01-26 | 第8回大和証券杯ネット囲碁オープン3回戦 | Seto Taiki | Takao Shinji | Lose | W+R | 6.5 | 2816 | 5 | 
+| 2013-01-24 | 第68期本因坊戦リーグ | Seto Taiki | Imamura Toshiya | Win | B+R | 6.5 | 2811 | 8 | 
+| 2013-01-09 | 第61期王座戦予選 | Chin Kaei | Seto Taiki | Win | W+R | 6.5 | 2803 | 46 | 
+| 2012-12-20 | 第68期本因坊戦リーグ | Yamashita Keigo | Seto Taiki | Lose | B+R | 6.5 | 2757 | -49 | 
+| 2012-12-01 | 第8回大和証券杯ネット囲碁オープン2回戦 | Seto Taiki | Cho Riyu | Win | B+4.5 | 6.5 | 2806 | -160 | 
+| 2012-11-08 | 第68期本因坊戦リーグ | Cho U | Seto Taiki | Lose | B+R | 6.5 | 2966 | -21 | 
+| 2012-10-17 | 第61期王座戦予選 | Yokota Shigeaki | Seto Taiki | Win | W+R | 6.5 | 2987 | 17 | 
+| 2012-10-11 | 第68期本因坊戦リーグ | Seto Taiki | Takao Shinji | Lose | W+1.5 | 6.5 | 2970 | -45 | 
+| 2012-09-22 | 第8回大和証券杯ネット囲碁オープン1回戦 | Seto Taiki | Otake Hideo | Win | B+R | 6.5 | 3015 | -45 | 
+| 2012-09-05 | 第17回三星火災杯世界囲碁マスターズ1回戦A2 | Komatsu Hideki | Seto Taiki | Lose | B+1.5 | 6.5 | 3060 | -20 | 
+| 2012-09-04 | 第17回三星火災杯世界囲碁マスターズ1回戦A1 | Chen Yaoye | Seto Taiki | Lose | B+R | 6.5 | 3080 | -14 | 
+| 2012-08-30 | 第68期本因坊戦予選 | Seto Taiki | Shuto Shun | Win | B+R | 6.5 | 3094 | 68 | 
+| 2012-08-17 | 第19期阿含・桐山杯全日本早碁オープン戦2回戦 | Seto Taiki | Iyama Yuta | Lose | W+R | 6.5 | 3026 | -109 | 
+| 2012-08-01 | 第56期関西棋院第一位決定戦本戦準決勝 | Seto Taiki | Kiyonari Tetsuya | Lose | W+0.5 | 6.5 | 3135 | -6 | 
+| 2012-07-23 | 第19期阿含・桐山杯全日本早碁オープン戦1回戦 | Seto Taiki | Yamashiro Hiroshi | Win | B+R | 6.5 | 3141 | 18 | 
+| 2012-07-04 | 第56期関西棋院第一位決定戦本戦3回戦 | Seto Taiki | Ha Youngil | Win | B+R | 6.5 | 3123 | 27 | 
+| 2012-06-21 | 第68期本因坊戦予選 | Seto Taiki | O Rissei | Win | B+R | 6.5 | 3096 | -33 | 
+| 2012-06-14 | 第19期阿含・桐山杯全日本早碁オープン戦予選 | Kobayashi Koichi | Seto Taiki | Win | W+11.5 | 6.5 | 3129 | -42 | 
+| 2012-05-24 | 第19期阿含・桐山杯全日本早碁オープン戦予選 | O Rissei | Seto Taiki | Win | W+3.5 | 6.5 | 3171 | -16 | 
+| 2012-05-17 | 第3回おかげ杯囲碁トーナメント戦決勝 | Seto Taiki | Anzai Nobuaki | Lose | W+R | 6.5 | 3187 | 0 | 
+| 2012-05-17 | 第3回おかげ杯囲碁トーナメント戦準決勝 | Lee Ishu | Seto Taiki | Win | W+R | 6.5 | 3187 | 19 | 
+| 2012-05-16 | 第3回おかげ杯囲碁トーナメント戦1回戦 | Seto Taiki | Mukai Chiaki | Win | B+R | 6.5 | 3168 | -74 | 
+| 2012-05-03 | 第60期王座戦予選 | Tsuruyama Atsushi | Seto Taiki | Lose | B+1.5 | 6.5 | 3242 | -36 | 
+| 2012-04-30 | 第37期碁聖戦本戦準決勝 | Seto Taiki | Iyama Yuta | Lose | W+8.5 | 6.5 | 3278 | 6 | 
+| 2012-04-12 | 第38期天元戦本戦2回戦 | Seto Taiki | Ryu Shikun | Lose | W+5.5 | 6.5 | 3272 | -21 | 
+| 2012-04-05 | 第37期碁聖戦本戦3回戦 | Seto Taiki | Kurahashi Masayuki | Win | B+R | 6.5 | 3293 | -22 | 
+| 2012-03-29 | 第67期本因坊戦リーグ | Kono Rin | Seto Taiki | Win | W+R | 6.5 | 3315 | 93 | 
+| 2012-03-22 | 第67期本因坊戦リーグ | Seto Taiki | Hane Naoki | Lose | W+R | 6.5 | 3222 | -156 | 
+| 2012-02-16 | 第37期棋聖戦予選 | Seto Taiki | Kobayashi Satoru | Lose | W+R | 6.5 | 3378 | 75 | 
+| 2012-02-09 | 第67期本因坊戦リーグ | Iyama Yuta | Seto Taiki | Lose | B+R | 6.5 | 3303 | -34 | 
+| 2012-02-02 | 第37期碁聖戦本戦2回戦 | Nakaonoda Tomomi | Seto Taiki | Win | W+1.5 | 6.5 | 3337 | 70 | 
+| 2012-01-19 | 第67期本因坊戦リーグ | Seto Taiki | Cho U | Lose | W+R | 6.5 | 3267 | -65 | 
+| 2011-12-15 | 第38期天元戦本戦1回戦 | Takao Shinji | Seto Taiki | Win | W+1.5 | 6.5 | 3332 | 52 | 
+| 2011-12-08 | 第67期本因坊戦リーグ | Seto Taiki | Takao Shinji | Lose | W+R | 6.5 | 3280 | 412 | 
+| 2011-11-10 | 第37期碁聖戦本戦1回戦 | Seto Taiki | Ogata Masaki | Win | B+R | 6.5 | 2868 | -43 | 
+| 2011-11-03 | 第67期本因坊戦リーグ | Yuki Satoshi | Seto Taiki | Lose | B+6.5 | 6.5 | 2911 | -52 | 
+| 2011-10-13 | 第67期本因坊戦リーグ | Seto Taiki | Ko Iso | Lose | W+1.5 | 6.5 | 2963 | -11 | 
+| 2011-09-29 | 第36期棋聖戦Aリーグ | Seto Taiki | Kono Rin | Win | B+R | 6.5 | 2974 | 55 | 
+| 2011-08-24 | 第37期碁聖戦予選 | Yukawa Mitsuhisa | Seto Taiki | Win | W+2.5 | 6.5 | 2919 | 11 | 
+| 2011-08-18 | 第36期棋聖戦Aリーグ | Kato Atsushi | Seto Taiki | Win | W+R | 6.5 | 2908 | 15 | 
+| 2011-08-10 | 第24回世界囲碁選手権富士通杯1回戦 | Seto Taiki | Hane Naoki | Lose | W+5.5 | 6.5 | 2893 | -19 | 
+| 2011-07-25 | 第36期棋聖戦Aリーグ | Seto Taiki | Hane Naoki | Lose | W+R | 6.5 | 2912 | -18 | 
+| 2011-07-13 | 第55期関西棋院第一位決定戦本戦準決勝 | Kiyonari Tetsuya | Seto Taiki | Lose | B+R | 6.5 | 2930 | -243 | 
+| 2011-06-09 | 第36期棋聖戦Aリーグ | Yamashita Keigo | Seto Taiki | Lose | B+R | 6.5 | 3173 | 26 | 
+| 2011-05-26 | 第55期関西棋院第一位決定戦本戦3回戦 | Seto Taiki | Yoshida Mika | Win | B+R | 6.5 | 3147 | 84 | 
+| 2011-05-12 | 第36期棋聖戦Aリーグ | Seto Taiki | Iyama Yuta | Lose | W+R | 6.5 | 3063 | -83 | 
+| 2011-03-31 | 第66期本因坊戦リーグ | Seto Taiki | Cho U | Win | B+R | 6.5 | 3146 | -38 | 
+| 2011-03-10 | 第36期棋聖戦予選 | Seto Taiki | Goto Shungo | Win | B+6.5 | 6.5 | 3184 | 3 | 
+| 2011-03-03 | 第66期本因坊戦リーグ | Hane Naoki | Seto Taiki | Lose | B+R | 6.5 | 3181 | -11 | 
+| 2011-02-24 | 第59期王座戦予選 | Seto Taiki | Mitani Tetsuya | Lose | W+R | 6.5 | 3192 | 67 | 
+| 2011-02-10 | 第66期本因坊戦リーグ | O Rissei | Seto Taiki | Lose | B+R | 6.5 | 3125 | -50 | 
+| 2011-02-03 | 第36期棋聖戦予選 | Seto Taiki | O Rissei | Win | B+2.5 | 6.5 | 3175 | 17 | 
+| 2011-01-27 | 第36期碁聖戦本戦1回戦 | Mizokami Tomochika | Seto Taiki | Lose | B+5.5 | 6.5 | 3158 | 140 | 
+| 2011-01-20 | 第66期本因坊戦リーグ | Seto Taiki | Kobayashi Satoru | Win | B+3.5 | 6.5 | 3018 | -5 | 
+| 2011-01-13 | 第59期王座戦予選 | Seto Taiki | Ishida Atsushi | Win | B+R | 6.5 | 3023 | 91 | 
+| 2010-12-02 | 第66期本因坊戦リーグ | Seto Taiki | Iyama Yuta | Lose | W+R | 6.5 | 2932 | -61 | 
+| 2010-11-24 | 第55期関西棋院第一位決定戦本戦1回戦 | Seto Taiki | Ha Youngil | Win | B+R | 6.5 | 2993 | 50 | 
+| 2010-11-04 | 第66期本因坊戦リーグ | Takao Shinji | Seto Taiki | Win | W+R | 6.5 | 2943 | 21 | 
+| 2010-10-21 | 第36期名人戦予選 | Seto Taiki | Yamashita Keigo | Lose | W+R | 6.5 | 2922 | -20 | 
+| 2010-10-14 | 第66期本因坊戦リーグ | Cho Sonjin | Seto Taiki | Win | W+R | 6.5 | 2942 | 84 | 
+| 2010-09-23 | 第36期名人戦予選 | Ogata Masaki | Seto Taiki | Win | W+R | 6.5 | 2858 | 33 | 
+| 2010-09-08 | 第36期碁聖戦予選 | Yu Zhengqi | Seto Taiki | Win | W+R | 6.5 | 2825 | 71 | 
+| 2010-08-26 | 第36期名人戦予選 | Shida Tatsuya | Seto Taiki | Win | W+R | 6.5 | 2754 | -2 | 
+| 2010-07-29 | 第66期本因坊戦予選 | Kataoka Satoshi | Seto Taiki | Win | W+R | 6.5 | 2756 | 169 | 
+| 2010-04-29 | 第58期王座戦1回戦 | Seto Taiki | Hane Naoki | Lose | W+R | 6.5 | 2587 | 33 | 
+| 2010-04-26 | 第66期本因坊戦予選 | Seto Taiki | Sakai Hideyuki | Win | B+0.5 | 6.5 | 2554 | 5 | 
+| 2010-03-04 | 第58期王座戦予選 | Suzuki Yoshimichi | Seto Taiki | Win | W+6.5 | 6.5 | 2549 | 32 | 
+| 2010-02-11 | 第36期天元戦本戦1回戦 | Kim Sujun | Seto Taiki | Lose | B+R | 6.5 | 2517 | -68 | 
+| 2010-01-21 | 第35期棋聖戦予選 | Ryu Shikun | Seto Taiki | Lose | B+R | 6.5 | 2585 | -14 | 
+| 2010-01-07 | 第58期王座戦予選 | Seto Taiki | Hikosaka Naoto | Win | B+3.5 | 6.5 | 2599 | -5 | 
+| 2009-12-02 | 2009年国際新鋭囲碁対抗戦第3戦 | Seto Taiki | Wang Yuanjun | Win | B+R | 7.5 | 2604 | 80 | 
+| 2009-12-01 | 2009年国際新鋭囲碁対抗戦第2戦 | Kang Yootaek | Seto Taiki | Lose | B+R | 7.5 | 2524 | -7 | 
+| 2009-11-30 | 2009年国際新鋭囲碁対抗戦第1戦 | Tuo Jiaxi | Seto Taiki | Lose | B+R | 7.5 | 2531 | -223 | 
+| 2009-11-12 | 第23回世界囲碁選手権富士通杯国内予選 | Iyama Yuta | Seto Taiki | Lose | B+0.5 | 6.5 | 2754 | 2 | 
+| 2009-10-28 | 第36期天元戦予選 | Seto Taiki | Yamada Noriyoshi | Win | B+R | 6.5 | 2752 | -84 | 
+| 2009-09-02 | 第53期関西棋院第一位決定戦本戦準決勝 | Sonoda Yuichi | Seto Taiki | Lose | B+0.5 | 6.5 | 2836 | 29 | 
+| 2009-07-30 | 第34期新人王戦準決勝 | Mitani Tetsuya | Seto Taiki | Lose | B+R | 6.5 | 2807 | -31 | 
+| 2009-07-22 | 第35期碁聖戦予選 | Seto Taiki | Murakawa Daisuke | Lose | W+R | 6.5 | 2838 | -58 | 
+| 2009-07-02 | 第34期新人王戦3回戦 | Seto Taiki | Shida Tatsuya | Win | B+R | 6.5 | 2896 | 122 | 
+| 2009-06-10 | 第53期関西棋院第一位決定戦本戦3回戦 | Seto Taiki | Moriyama Naoki | Win | B+1.5 | 6.5 | 2774 | -70 | 
+| 2009-05-14 | 第57期王座戦1回戦 | Seto Taiki | So Yokoku | Lose | W+3.5 | 6.5 | 2844 | -6 | 
+| 2009-04-29 | 第35期名人戦予選 | Seto Taiki | Fujii Shuya | Lose | W+R | 6.5 | 2850 | -71 | 
+| 2009-04-09 | 第34期新人王戦2回戦 | Seto Taiki | Mannami Nao | Win | B+R | 6.5 | 2921 | 199 | 
+| 2009-03-12 | 第57期王座戦予選 | Seto Taiki | Takano Hideki | Win | B+R | 6.5 | 2722 | 65 | 
+| 2009-02-19 | 第34期新人王戦1回戦 | Seto Taiki | Mukai Kozue | Win | B+R | 6.5 | 2657 | 21 | 
+| 2009-01-28 | 第65期本因坊戦予選 | Sakai Hideyuki | Seto Taiki | Lose | B+4.5 | 6.5 | 2636 | 79 | 
+| 2008-12-03 | 第57期王座戦予選 | Sonoda Yuichi | Seto Taiki | Win | W+1.5 | 6.5 | 2557 | 316 | 
+| 2008-11-19 | 2008年国際新鋭囲碁対抗戦第3戦 | Seto Taiki | Xiao Zhenghao | Win | B+R | 6.5 | 2241 | 98 | 
+| 2008-11-18 | 2008年国際新鋭囲碁対抗戦第2戦 | Seto Taiki | Gu Lingyi | Lose | W+R | 6.5 | 2143 | -3 | 
+| 2008-11-17 | 2008年国際新鋭囲碁対抗戦第1戦 | Paek Hongseok | Seto Taiki | Lose | B+4.5 | 6.5 | 2146 | -842 | 
+| 2008-10-16 | 第34期棋聖戦予選 | Yamada Kimio | Seto Taiki | Win | W+R | 6.5 | 2988 | 615 | 
+| 2008-03-27 | 第4期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Seto Taiki | Ishida Yoshio | Lose | W+R | 6.5 | 2373 | -73 | 
+| 2008-03-13 | 第33期棋聖戦予選 | Seto Taiki | O Meien | Lose | W+0.5 | 6.5 | 2446 | -46 | 
+| 2008-01-17 | 第33期新人王戦1回戦 | Shuto Shun | Seto Taiki | Lose | B+R | 6.5 | 2492 | -40 | 
+| 2007-12-06 | 第33期碁聖戦本戦1回戦 | Kobayashi Koichi | Seto Taiki | Lose | B+0.5 | 6.5 | 2532 | -104 | 
+| 2007-11-08 | 2007年国際新鋭囲碁対抗戦第3戦 | Seto Taiki | Lin Shuyang | Win | B+5.5 | 6.5 | 2636 | 27 | 
+| 2007-11-07 | 2007年国際新鋭囲碁対抗戦第2戦 | Seto Taiki | Kim Jiseok | Lose | W+2.5 | 6.5 | 2609 | -53 | 
+| 2007-11-05 | 2007年国際新鋭囲碁対抗戦第1戦 | Seto Taiki | Zhou Ruiyang | Win | B+R | 6.5 | 2662 | 122 | 
+| 2007-09-27 | 第21回世界囲碁選手権富士通杯国内予選 | Seto Taiki | Kiyonari Tetsuya | Lose | W+R | 6.5 | 2540 | -501 | 
+| 2007-07-05 | 第32期新人王戦準決勝 | Seto Taiki | Iyama Yuta | Lose | W+R | 6.5 | 3041 | -122 | 
+| 2007-06-07 | 第32期新人王戦3回戦 | Son Hideyo | Seto Taiki | Win | W+2.5 | 6.5 | 3163 | 29 | 
+| 2007-03-29 | 第32期新人王戦2回戦 | Matsumoto Takehisa | Seto Taiki | Win | W+3.5 | 6.5 | 3134 | 1244 | 
+| 2007-01-25 | 第32期新人王戦1回戦 | Mukai Kaori | Seto Taiki | Win | W+R | 6.5 | 1890 | -248 | 
+| 2006-08-26 | 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Seto Taiki | Park Yeonghun | Lose | W+R | 6.5 | 2138 | -202 | 
+| 2006-07-10 | 第20回世界囲碁選手権富士通杯国内予選 | Nakano Yasuhiro | Seto Taiki | Win | W+R | 6.5 | 2340 | -203 | 
+| 2006-06-08 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Seto Taiki | Kubo Hideo | Win | B+5.5 | 6.5 | 2543 | 289 | 
+| 2006-03-23 | 第31期新人王戦1回戦 | Seto Taiki | Mukai Kaori | Lose | W+0.5 | 6.5 | 2254 | 133 | 
+| 2006-02-02 | 第31期棋聖戦予選 | Kudo Norio | Seto Taiki | Lose | B+R | 6.5 | 2121 | -562 | 
+| 2005-11-10 | 第31期碁聖戦本戦1回戦 | O Rissei | Seto Taiki | Lose | B+2.5 | 6.5 | 2683 | -30 | 
+| 2005-10-19 | 2005年国際新鋭囲碁対抗戦第3戦 | Zhou Pingqiang | Seto Taiki | Win | W+R | 6.5 | 2713 | 22 | 
+| 2005-10-18 | 2005年国際新鋭囲碁対抗戦第2戦 | Seto Taiki | Li Zhe | Lose | W+2.5 | 6.5 | 2691 | -76 | 
+| 2005-10-17 | 2005年国際新鋭囲碁対抗戦第1戦 | Kang Dongyun | Seto Taiki | Lose | B+3.5 | 6.5 | 2767 | 2767 | 
+| 2005-04-26 | 第2回中野杯U20選手権1回戦 | Uchida Shuhei | Seto Taiki | Lose | B+1.5 | 6.5 | missing | -2461 | 
+| 2005-03-16 | 第61期本因坊戦予選 | Imamura Toshiya | Seto Taiki | Lose | B+R | 6.5 | 2461 | -308 | 
+| 2005-02-23 | 第31期名人戦予選 | Nakano Yasuhiro | Seto Taiki | Lose | B+2.5 | 6.5 | 2769 | -120 | 
+| 2005-02-05 | 第2期JAL新鋭早碁準決勝 | Seto Taiki | Kim Sujun | Lose | W+R | 6.5 | 2889 | -22 | 
+| 2005-01-12 | 第19回世界囲碁選手権富士通杯国内予選 | Seto Taiki | Kataoka Satoshi | Lose | W+3.5 | 6.5 | 2911 | 63 | 
+| 2004-11-13 | 第2期JAL新鋭早碁2回戦 | Kono Rin | Seto Taiki | Win | W+1.5 | 6.5 | 2848 | 2848 | 
+| 2004-07-30 | 第9回三星火災杯予選2回戦 | Seto Taiki | Zhou Heyang | Lose | W+1.5 | 6.5 | missing | 0 | 
+| 2004-07-22 | 第1回中野杯U20選手権決勝 | Ohashi Hirofumi | Seto Taiki | Win | W+R | 6.5 | missing | -3034 | 
+| 2004-04-03 | 2004年中国囲碁乙級リーグ | Seto Taiki | Wu Zhaoyi | Win | B+R | 7.5 | 3034 | -48 | 
+| 2004-01-21 | 第48期関西棋院第一位決定戦本戦1回戦 | Seto Taiki | Kubouchi Shuchi | Win | B+R | 6.5 | 3082 | 30 | 
+| 2003-12-22 | 2003年国際新鋭囲碁対抗戦第1戦 | Seto Taiki | Kang Jiseong | Win | B+R | 7.5 | 3052 | 3052 | 
+| 2003-12-20 | 第1期JAL新鋭早碁2回戦 | Matsumoto Takehisa | Seto Taiki | Lose | B+10.5 | 6.5 | missing | -2712 | 
+| 2003-04-08 | 2003年中国囲碁乙級リーグ | Cho Hunhyun | Seto Taiki | Lose | B+R | 7.5 | 2712 | 2712 | 
+| 2003-04-06 | 2003年中国囲碁乙級リーグ | Niu Yutian | Seto Taiki | Win | W+R | 7.5 | missing | 0 | 
+| 2003-04-05 | 2003年中国囲碁乙級リーグ | Seto Taiki |  | Win | B+R | 7.5 | missing | 0 | 
+| 2003-04-03 | 2003年中国囲碁乙級リーグ | Wang Lei (b) | Seto Taiki | Win | W+0.5 | 7.5 | missing | 0 | 
+| 2003-04-02 | 2003年中国囲碁乙級リーグ |  | Seto Taiki | Win | W+0.5 | 7.5 | missing | 0 | 
+| 2003-04-01 | 2003年中国囲碁乙級リーグ | Seto Taiki | Zhou Zhenyu | Win | B+5.5 | 7.5 | missing | missing |
 
 
 

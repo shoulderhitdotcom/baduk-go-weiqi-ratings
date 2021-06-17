@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-17 | 第7回韓国女子囲碁リーグ |  | Lee Minjin | Win | W+4.5 | 6.5 | 2914 | 18 | 
 | 2021-06-13 | 第7回韓国女子囲碁リーグ | Lee Minjin |  | Lose | W+3.5 | 6.5 | 2896 | -61 | 
 | 2021-06-05 | 第7回韓国女子囲碁リーグ | Cho Hyeyeon | Lee Minjin | Lose | B+R | 6.5 | 2957 | -234 | 
 | 2021-06-05 | 第7回韓国女子囲碁リーグ | Cho Hyeyeon | Lee Minjin | Lose | B+R | 6.5 | 3191 | 189 | 

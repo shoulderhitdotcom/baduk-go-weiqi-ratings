@@ -5,574 +5,576 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第60期十段戦予選 | Yuki Satoshi | Nishi Takenobu | B+2.5 | 2021-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=01DG%2F6Yfwuv84GppHXvb9Q%3D%3D) | 
-| 第60期十段戦予選 | Yuki Satoshi | Yokota Shigeaki | B+R | 2021-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=52FYRp%2BfU54s3TEfBesORA%3D%3D) | 
-| 第60期十段戦予選 | Aragaki Shun | Yuki Satoshi | W+R | 2021-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CuiYrvEPzVfMEpoy7byvgQ%3D%3D) | 
-| 第69期王座戦予選 | Ogaki Yusaku | Yuki Satoshi | W+1.5 | 2021-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fkzo%2Fs2XW6mOVbF1Q2G%2BWw%3D%3D) | 
-| 第65期関西棋院第一位決定戦本戦3回戦 | Hoshikawa Koyo | Yuki Satoshi | B+6.5 | 2021-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vlTKrSVRTH4Z0wpYVReo9g%3D%3D) | 
-| 第77期本因坊戦予選 | Kiyonari Tetsuya | Yuki Satoshi | W+3.5 | 2021-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Re12MA65oGOK35sMzmM7Q%3D%3D) | 
-| 第77期本因坊戦予選 | Yuki Satoshi | Hoshikawa Takumi | B+R | 2021-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GSdGcxEZBUB4yC%2BStEzy8A%3D%3D) | 
-| 第77期本因坊戦予選 | missing | Yuki Satoshi | W+6.5 | 2021-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mt1AlmKApmUkywAD1JbB9w%3D%3D) | 
-| 第65期関西棋院第一位決定戦本戦2回戦 | Yuki Satoshi | Yokota Shigeaki | B+R | 2020-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VWNKdKlIN01SYy%2BsrmKnKA%3D%3D) | 
-| 第47期天元戦予選 | Seto Taiki | Yuki Satoshi | B+R | 2020-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fAACaikKeGy7K6ZziZQArQ%3D%3D) | 
-| 第65期関西棋院第一位決定戦本戦1回戦 | Yuki Satoshi | Yahata Naoki | B+R | 2020-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Eq0il5h03Q%2BTsWlouHjpxw%3D%3D) | 
-| 第47期天元戦予選 | Yuki Satoshi | missing | B+6.5 | 2020-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FZSs5ivAKTb0k9vD1D5QtQ%3D%3D) | 
-| 第46期碁聖戦予選 | missing | Yuki Satoshi | B+R | 2020-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k5mTU5KnV3vikNb1fj3yjg%3D%3D) | 
-| 第47期天元戦予選 | Saito Tadashi | Yuki Satoshi | W+8.5 | 2020-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LVo9yugb3mUYKC6zg0KiuQ%3D%3D) | 
-| 第46期碁聖戦予選 | Yuki Satoshi | Muraoka Shigeyuki | B+R | 2020-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pHv5aTlGw4cOWBcL%2FpBBbA%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Uchida Shuhei | Yuki Satoshi | B+R | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Is1x3XTV4ApTKtdgdEU5QA%3D%3D) | 
-| 第46期名人戦予選 | Yuki Satoshi | Nakano Yasuhiro | W+R | 2020-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4rKPmIXBFxLZeo28c%2FkRPA%3D%3D) | 
-| 第59期十段戦予選 | Yuki Satoshi | Hsu Chiayuan | W+R | 2020-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B%2B96%2F88p%2FtsJCdCKh9IeyQ%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Yuki Satoshi | missing | B+1.5 | 2020-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i0UCghEycFDeClgwssKz6g%3D%3D) | 
-| 第59期十段戦予選 | Yuki Satoshi | Mutsuura Yuta | B+0.5 | 2020-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IkY2Aw4GVFPqPwTd8kdXWA%3D%3D) | 
-| 第46期名人戦予選 | Yata Naoki | Yuki Satoshi | W+R | 2020-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CtkVfVF%2BNrYh0Jsg4oN%2BTA%3D%3D) | 
-| 第68期王座戦2回戦 | Hsu Chiayuan | Yuki Satoshi | B+R | 2020-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oINozWvcnudO%2B1NcZ6cB%2BQ%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Ida Atsushi | Yuki Satoshi | W+R | 2020-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Jv6qag7x3KSFP6K9OGZxQ%3D%3D) | 
-| 第64期関西棋院第一位決定戦本戦3回戦 | Yuki Satoshi | Hara Masakazu | W+R | 2020-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fn4P4B01UnlrCqe8tzJv%2Bw%3D%3D) | 
-| 第27期阿含・桐山杯全日本早碁オープン戦予選 | Yuki Satoshi | Hsu Chiayuan | W+R | 2020-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tr5NC2t54s7KTUeCZWKhQA%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Yuki Satoshi | Sun Zhe | W+R | 2020-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=auWc7aRsYD2o2gmY2cTwjg%3D%3D) | 
-| 第68期王座戦1回戦 | Takao Shinji | Yuki Satoshi | W+R | 2020-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=erxKKm52UIWGyGY1mJY9nQ%3D%3D) | 
-| 第64期関西棋院第一位決定戦本戦2回戦 | Sato Yuta | Yuki Satoshi | W+R | 2020-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YYHPSKQQ02KvlcASh51Byg%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Yuki Satoshi | Numadate Sakiya | B+R | 2020-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RFWH6ESKBKuWSkPQNRwwsQ%3D%3D) | 
-| 第59期十段戦予選 | Yuki Satoshi | Hasegawa Sunao | B+7.5 | 2020-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SP%2B%2BUnDCBPly788JVFegBg%3D%3D) | 
-| 第76期本因坊戦予選 | Taniguchi Tooru | Yuki Satoshi | B+R | 2020-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nA%2BxtTUgD8zT39kJessvmA%3D%3D) | 
-| 第76期本因坊戦予選A準決勝 | Sonoda Yuichi | Yuki Satoshi | W+R | 2020-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zxGCagXrmDRMyeIvgn77sw%3D%3D) | 
-| 第68期王座戦予選 | Kobayashi Satoru | Yuki Satoshi | W+R | 2020-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kMQRFepe2KiVXjSMA34faQ%3D%3D) | 
-| 第76期本因坊戦予選A | Yuki Satoshi | Aragaki Shun | B+R | 2020-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RWra%2BSsRCSEvq6DCkLtZ4g%3D%3D) | 
-| 第59期十段戦予選A | Kurahashi Masayuki | Yuki Satoshi | W+R | 2020-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DPKkAenBDaISY9VCYQoduA%3D%3D) | 
-| 第45期碁聖戦予選 | Nishi Takenobu | Yuki Satoshi | W+R | 2019-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gJz0IUJcclEEJ53qeUW38w%3D%3D) | 
-| 第46期天元戦予選A準決勝 | Ota Ryou | Yuki Satoshi | B+R | 2019-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MWJM7MKxwklbJuPG7X8aPw%3D%3D) | 
-| 第45期碁聖戦予選A準決勝 | Hoshikawa Takumi | Yuki Satoshi | W+R | 2019-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EmWriNXTCrq46%2B7TPUQ6rA%3D%3D) | 
-| 第44期棋聖戦Cリーグ | Kiyonari Tetsuya | Yuki Satoshi | W+R | 2019-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9%2B1oEiWRo9JvSrZ6cHk%2Bjg%3D%3D) | 
-| 第46期天元戦予選A | missing | Yuki Satoshi | W+2.5 | 2019-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q%2FJNnfB7bEBq%2FdEFZmpQNA%3D%3D) | 
-| 第44期棋聖戦Cリーグ | Mimura Tomoyasu | Yuki Satoshi | B+R | 2019-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AsdusriaxuIwAB4XY9o2gQ%3D%3D) | 
-| 第45期名人戦予選A決勝 | missing | Yuki Satoshi | B+R | 2019-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jkfqN%2Fz2SHegNpETvKjx5g%3D%3D) | 
-| 第44期棋聖戦Cリーグ | Yuki Satoshi | Muramatsu Hiroki | B+R | 2019-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sp%2FhHlVPr%2FnNZXPXPknoIw%3D%3D) | 
-| 第4回ジャパン碁コングレスin金沢トップ棋士トーナメント1回戦 | Yuki Satoshi | Seto Taiki | W+R | 2019-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XPmzvv6qPfMIqyOIRQZAZA%3D%3D) | 
-| 第75期本因坊戦予選 | Yuki Satoshi | Seto Taiki | W+R | 2019-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7bYzNAFR0kZeVbOEcYno4A%3D%3D) | 
-| 第26期阿含・桐山杯全日本早碁オープン戦1回戦 | Yuki Satoshi | Iyama Yuta | W+R | 2019-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YLQ%2BKypO27dHInFjF%2Fk8%2Fg%3D%3D) | 
-| 第44期棋聖戦Cリーグ | Otake Yu | Yuki Satoshi | B+R | 2019-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=byjXSkOAY3DcmSYQ7veALQ%3D%3D) | 
-| 第67期王座戦1回戦 | Shibano Toramaru | Yuki Satoshi | B+R | 2019-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sTqPCv22RoizT5AWAr8Mlg%3D%3D) | 
-| 第75期本因坊戦予選 | Yuki Satoshi | Numadate Sakiya | B+R | 2019-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nfFsE2p7X9p5pGXbz7R4%2BQ%3D%3D) | 
-| 第26期阿含・桐山杯全日本早碁オープン戦予選 | Yuki Satoshi | Tsuneishi Takashi | B+R | 2019-05-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TrL3abAcuuQNG7L4kbAJGQ%3D%3D) | 
-| 第44期棋聖戦Cリーグ | Yuki Satoshi | Mochizuki Kenichi | B+4.5 | 2019-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aovV0%2BPJHynTodGyODH4GQ%3D%3D) | 
-| 第67期王座戦予選 | Yuki Satoshi | Anzai Nobuaki | B+4.5 | 2019-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dP7c7TmaYdjhbk3HbhFxyg%3D%3D) | 
-| 第3回ワールド碁チャンピオンシップ国際予選決勝  | Yuki Satoshi | Yoo Changhyuk | W+R | 2019-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jp%2FHLGdAuVKYCa8hilizig%3D%3D) | 
-| 第3回ワールド碁チャンピオンシップ国際予選準決勝 | Cho Sonjin | Yuki Satoshi | W+6.5 | 2019-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EvbpX2h7SF7CV0fDFQfaIw%3D%3D) | 
-| 第3回ワールド碁チャンピオンシップ国際予選3回戦 | Yuki Satoshi | Wang Lei (b) | B+2.5 | 2019-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=moDV%2F%2BbnWVtyP7l%2FjerrlQ%3D%3D) | 
-| 国民文化祭大分囲碁祭りプロアマトーナメント戦決勝 | Yuki Satoshi | missing | B+R | 2018-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sLpHmEcsSRcXUHpqz8PKxw%3D%3D) | 
-| 国民文化祭大分囲碁祭りプロアマトーナメント戦準決勝 | Sada Atsushi | Yuki Satoshi | W+5.5 | 2018-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=baveIqzxi3i9JHsW%2BXtRBw%3D%3D) | 
-| 国民文化祭大分囲碁祭りプロアマトーナメント戦1回戦 | Yuki Satoshi | missing | B+R | 2018-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lEcahjLLX5mrkuw6kBRsaA%3D%3D) | 
-| 第45期天元戦予選A準決勝 | Kurahashi Masayuki | Yuki Satoshi | W+5.5 | 2018-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sd94Gaxm9WQOajOOzjxClA%3D%3D) | 
-| 第43期棋聖戦Bリーグ | Ryu Shikun | Yuki Satoshi | B+8.5 | 2018-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZQhP7ROxQwzIfrNGl%2FEx1A%3D%3D) | 
-| 第44期名人戦予選 | Furuya Yutaka | Yuki Satoshi | B+2.5 | 2018-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tA6Y4kKfa9uEHyK%2BJ%2B0%2F9A%3D%3D) | 
-| 第74期本因坊戦最終予選 | Takao Shinji | Yuki Satoshi | B+R | 2018-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DzIPb2p8OD%2Bb8rq14wGfmg%3D%3D) | 
-| 第5回国手山脈杯世界プロ最強戦1回戦 | Yuki Satoshi | Shin Jinseo | W+R | 2018-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mhDTX1qp1mStulY8dIkHnA%3D%3D) | 
-| 第57期十段戦最終予選決勝 | Yuki Satoshi | O Meien | W+R | 2018-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EjciCgfeDM%2BIDImOMLlPzg%3D%3D) | 
-| 第74期本因坊戦最終予選 | Yuki Satoshi | Sugimoto Akira | B+R | 2018-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=miyDjZdCAJ2wsfevbNLD6g%3D%3D) | 
-| 第43期棋聖戦Bリーグ | Yuki Satoshi | Yamada Kimio | B+R | 2018-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pCKPF9q3AqcHo8ari1NvQQ%3D%3D) | 
-| 第62期関西棋院第一位決定戦本戦準々決勝 | Yuki Satoshi | Murakawa Daisuke | B+R | 2018-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LyF25tGUBqmBFl8I36qq0A%3D%3D) | 
-| 第43期棋聖戦Bリーグ | Motoki Katsuya | Yuki Satoshi | B+R | 2018-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QTRewh0yYldlVSUbmFMdWw%3D%3D) | 
-| 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Yuki Satoshi | Ichiriki Ryo | W+6.5 | 2018-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V9Sb1vrHNiV3I%2BkjevSAdg%3D%3D) | 
-| 第57期十段戦最終予選 | Koyama Kuya | Yuki Satoshi | W+R | 2018-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wKcIyLxRMqGAU5q59YBl%2Fg%3D%3D) | 
-| 第43期棋聖戦Bリーグ | Yuki Satoshi | Akiyama Jiro | W+R | 2018-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ORd0vcs2ETTdGt8v%2BLqQGg%3D%3D) | 
-| 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Yamamori Tadanao | Yuki Satoshi | W+R | 2018-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R1Stkio1OdvpZCVbt8BEbQ%3D%3D) | 
-| 第43期棋聖戦Bリーグ | Tsuruyama Atsushi | Yuki Satoshi | B+R | 2018-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QIdwBvIDukZ1C5Z6CvGOnQ%3D%3D) | 
-| 第74期本因坊戦予選A | Nakano Yasuhiro | Yuki Satoshi | W+10.5 | 2018-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cBAPIKiCa0iLibw5xckNpw%3D%3D) | 
-| 第43期棋聖戦Bリーグ | Rin Kanketsu | Yuki Satoshi | B+R | 2018-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rVgvQShaHuYIAXqTZmVj%2Fw%3D%3D) | 
-| 第43期棋聖戦Bリーグ | Yuki Satoshi | Tsuruta Kazushi | B+R | 2018-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5IfzhdjiBrtUzuEXqhX%2Bpg%3D%3D) | 
-| 第44期天元戦1回戦 | Shida Tatsuya | Yuki Satoshi | B+R | 2018-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NXJGigqAupRbj1JHT4TB9g%3D%3D) | 
-| ナショナルチーム冬季合宿 | Ichiriki Ryo | Yuki Satoshi | B+R | 2017-12-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NwXvd7EPl%2FrdTB152h3XFg%3D%3D) | 
-| 2017年日本囲碁リーグクライマックスシリーズWU-兵庫主将戦 | Kiyonari Tetsuya | Yuki Satoshi | B+R | 2017-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OCpNkHB4m4aq6JEqFlJucA%3D%3D) | 
-| 第66期王座戦予選A | Hatanaka Hoshinobu | Yuki Satoshi | B+4.5 | 2017-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cN6WeOa5dlP%2BOMN8ZmpBbA%3D%3D) | 
-| 第66期王座戦予選A | Yuki Satoshi | missing | B+R | 2017-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BACHswajkKsLxE6TBw3Cug%3D%3D) | 
-| 第43期名人戦予選 | Yu Zhengqi | Yuki Satoshi | B+R | 2017-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FaWt4PWhpBsPkPs2LABcqw%3D%3D) | 
-| 第43期名人戦最終予選 | Hsu Chiayuan | Yuki Satoshi | W+R | 2017-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FkbkKMLCpIlZJIV67vZZaw%3D%3D) | 
-| 第56期十段戦2回戦 | Yuki Satoshi | Shida Tatsuya | W+3.5 | 2017-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rdUD1wjlI75JhtYJE2Zx%2Bw%3D%3D) | 
-| 第61期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Yu Zhengqi | Yuki Satoshi | B+1.5 | 2017-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=41mgLic1zzzKEBGTO6MrRw%3D%3D) | 
-| 第44期天元戦予選A決勝 | Yuki Satoshi | Seto Taiki | B+R | 2017-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LPJ%2Fy1CAQecxYPv9lUb2LA%3D%3D) | 
-| 2017年日本囲碁リーグ2nd第3節兵庫-瀬戸内主将戦 | Yokota Shigeaki | Yuki Satoshi | W+R | 2017-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jn3YtaFzBiWtRctovKq5vQ%3D%3D) | 
-| 第43期名人戦　最終予選1回戦 | Yuki Satoshi | Ida Atsushi | B+R | 2017-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z%2FsxBEAYy91Cd88Pz1Rf%2BA%3D%3D) | 
-| 第44期天元戦　予選A準決勝 | Yata Naoki | Yuki Satoshi | W+R | 2017-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SNYcdO8QZYbW1%2F5kHh6ZZA%3D%3D) | 
-| 第61期関西棋院第一位決定戦　挑戦手合三番勝負第一局 | Yuki Satoshi | Yu Zhengqi | W+1.5 | 2017-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NPeNKIBu2BcejXqzwEyc7g%3D%3D) | 
-| 第43期名人戦　予選A決勝 | Yuki Satoshi | Nakano Hironari | B+13.5 | 2017-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=93NV5jm%2Ffub%2FKb1rzYleoA%3D%3D) | 
-| 第42期棋聖戦　Aリーグ7回戦 | Ryu Shikun | Yuki Satoshi | B+1.5 | 2017-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hAMRdWXsqPbA6wfb4JIHog%3D%3D) | 
-| 第56期十段戦　最終予選決勝 | Yuki Satoshi | Ko Iso | B+R | 2017-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sjoe3Av%2BKajufLb1HqZHfw%3D%3D) | 
-| 第44期天元戦予選A | Deguchi Mariko | Yuki Satoshi | W+R | 2017-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N8A10PS%2F5coyiuG76xwaVQ%3D%3D) | 
-| 第73期本因坊戦　最終予選準決勝 | Yuki Satoshi | Terayama Rei | W+R | 2017-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mqy%2FbRsym88YEn9Biu4vTA%3D%3D) | 
-| 2017年日本囲碁リーグ2nd開幕戦兵庫-古都主将戦 | Fujii Shuya | Yuki Satoshi | W+R | 2017-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B%2FNOfNKyOvaNUC6hRqEhPQ%3D%3D) | 
-| 第42期棋聖戦　Aリーグ6回戦 | Yuki Satoshi | Takao Shinji | W+R | 2017-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uXhefsSK8o9rKCsQ941Omg%3D%3D) | 
-| 2017年日本囲碁リーグ1st最終節兵庫-WU主将戦 | Yu Zhengqi | Yuki Satoshi | B+R | 2017-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MgNFxNjqb%2BhVbF5%2FbQ7s1Q%3D%3D) | 
-| 第43期名人戦　予選A準決勝 | Yuki Satoshi | Honda Kunihisa | B+R | 2017-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eFBJJpx0RkqS2giPydwCSg%3D%3D) | 
-| 第42期棋聖戦　Aリーグ5回戦 | Yuki Satoshi | Yamashiro Hiroshi | W+R | 2017-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZzvNOr1dSQWStroJn02UQA%3D%3D) | 
-| 第43期碁聖戦予選A | Yuki Satoshi | Takashima Yugo | W+9.5 | 2017-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UDZxWqv7LQnxtFONtLN8Lg%3D%3D) | 
-| 第43期名人戦予選A | Yuki Satoshi | Mine Yasuhiro | B+R | 2017-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MNKnBzvouBzJD3FQpBlHiA%3D%3D) | 
-| 第73期本因坊戦　最終予選1回戦 | Yuki Satoshi | Muramatsu Hiroki | B+R | 2017-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xtTjPK5iNEIPtN5SawATTQ%3D%3D) | 
-| 第42期棋聖戦　Aリーグ4回戦 | Cho Chikun | Yuki Satoshi | B+R | 2017-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AY9aAkuz8Myu52IwO5PTrg%3D%3D) | 
-| 2017年日本囲碁リーグ1st第4節兵庫-大阪主将戦 | Kubo Katsuaki | Yuki Satoshi | W+R | 2017-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8%2Fy4JfbO1lafAFf8mjWfAw%3D%3D) | 
-| 第24期阿含・桐山杯　最終予選決勝 | Yuki Satoshi | Ohba Junya | B+R | 2017-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XqS5ckIDvVta5ArpUQBiLg%3D%3D) | 
-| 日本棋院vs関西棋院対抗戦 | Yuki Satoshi | Onishi Ryuhei | W+1.5 | 2017-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gaWOonp7BLkWJp%2FB3U0IAw%3D%3D) | 
-| 関西合宿個人戦三位決定戦 | Mutsuura Yuta | Yuki Satoshi | W+R | 2017-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gw5RvikAq4HtDNpzQwHRgQ%3D%3D) | 
-| 関西合宿個人戦順位決定戦 | Yuki Satoshi | Shibano Toramaru | W+1.5 | 2017-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ev1hWTZ1%2FlH75rJ0IGq2w%3D%3D) | 
-| 関西合宿個人戦1回戦 | Iyama Yuta | Yuki Satoshi | W+R | 2017-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lge5UfpBGzpT6ErFWoeXUw%3D%3D) | 
-| 第42期棋聖戦　Aリーグ3回戦 | Hsu Chiayuan | Yuki Satoshi | B+R | 2017-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NlXk%2Fb8ThkzHKe0FxPiq9w%3D%3D) | 
-| 第65期王座戦　最終予選特選譜第13局 | Nakano Hironari | Yuki Satoshi | B+R | 2017-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C%2FQgn7aMbLSF3vAlPbgpyA%3D%3D) | 
-| 第42期棋聖戦　Aリーグ2回戦 | Yoda Norimoto | Yuki Satoshi | B+2.5 | 2017-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jkY76%2FodUQdp%2Ba5CqUi1Jw%3D%3D) | 
-| 第72期本因坊戦　挑戦者決定リーグ最終戦 | Yuki Satoshi | Mitani Tetsuya | B+2.5 | 2017-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rKkwlvx%2FoyNY8QvgUXvITg%3D%3D) | 
-| 2017年日本囲碁リーグ1st2回戦浪速-兵庫主将戦 | Nishiyama Shizuka | Yuki Satoshi | W+R | 2017-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9mqTCuRN0VKBHPTyFbtYtA%3D%3D) | 
-| 第72期本因坊戦　挑戦者決定リーグ第22局 | Yuki Satoshi | Yamashita Keigo | W+5.5 | 2017-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5lIgktHiXtlYlmBBsF6uRQ%3D%3D) | 
-| 2017年日本囲碁リーグ第1ステージ 開幕戦主将戦 | missing | Yuki Satoshi | W+R | 2017-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g4Tz1KEE7D32dw%2FZ68BBdw%3D%3D) | 
-| 第72期本因坊戦　挑戦者決定リーグ第20局 | Cho U | Yuki Satoshi | B+1.5 | 2017-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lIC1j6RwkEKg53TYshfZLw%3D%3D) | 
-| 第4回グランドチャンピオン戦　1回戦 | Yuki Satoshi | Ida Atsushi | B+R | 2017-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=slMT7sGbmNp8NlVBX613Qw%3D%3D) | 
-| 第64回NHK杯3回戦第8局 | Yuki Satoshi | Murakawa Daisuke | B+R | 2017-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gNxzuTLg1QCstvC7VyfOXA%3D%3D) | 
-| 第65期王座戦予選A | Ha Youngil | Yuki Satoshi | W+1.5 | 2017-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IJxGbth3kUxDBoLA%2F3Q74Q%3D%3D) | 
-| 第72期本因坊戦　挑戦者決定リーグ第14局 | Ko Iso | Yuki Satoshi | B+R | 2017-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2olTawpJlOFoo%2Bqgyczu3w%3D%3D) | 
-| 第72期本因坊戦　挑戦者決定リーグ第11局 | Yuki Satoshi | Takao Shinji | B+R | 2016-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2FRIlCPnXW1ASTjguloz8g%3D%3D) | 
-| 第65期王座戦予選A | Yuki Satoshi | Nishi Takenobu | B+R | 2016-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bV2mtNA43KlTyz8dWNwrkg%3D%3D) | 
-| 第43期天元戦　予選A決勝 | Yuki Satoshi | Yukawa Mitsuhisa | W+R | 2016-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iAi%2BM5Z4nqwpHLX1XQ3BAA%3D%3D) | 
-| 第72期本因坊戦　挑戦者決定リーグ第8局 | Yuki Satoshi | Hane Naoki | W+R | 2016-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kRugaoBzcAuP2hQmoNeiHA%3D%3D) | 
-| 第65期 王座戦 予選A | Yuki Satoshi | Hong Seokui | B+R | 2016-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rcqxYKdOgYDp7IJccdtiqA%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦1回戦 | Han Seungjoo | Yuki Satoshi | B+R | 2016-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dFGYALeo2mCXAYNRFYr78g%3D%3D) | 
-| 第41期棋聖戦　挑戦者決定トーナメントA・Bリーグ | Yuki Satoshi | Cho U | W+R | 2016-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vU%2F%2F0D%2B6CcSa1Ft%2BmaHziA%3D%3D) | 
-| 第60期関西棋院第一位決定戦　挑戦手合三番勝負第二局 | Yuki Satoshi | Murakawa Daisuke | B+R | 2016-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kja%2FKOO%2FVdYq%2F2pgT98y5g%3D%3D) | 
-| 第43期天元戦予選 | Yuki Satoshi | Sato Yuta | B+R | 2016-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vROaEKtAyVnJxyR1UHbvZw%3D%3D) | 
-| 第55期十段戦　本戦1回戦 | Yuki Satoshi | Kim Sujun | W+R | 2016-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i6%2F5xce2EBX%2BoDTR54VWcg%3D%3D) | 
-| 第60期関西棋院第一位決定戦挑戦手合三番勝負　第一局 | Murakawa Daisuke | Yuki Satoshi | W+R | 2016-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hdl2fs9UQNzuO20ILxaFMQ%3D%3D) | 
-| 第72期本因坊戦　挑戦者決定リーグ第2局 | Motoki Katsuya | Yuki Satoshi | B+R | 2016-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f6MRksWnmewlJD2YTRnr4A%3D%3D) | 
-| 第41期棋聖戦BC組リーグ戦決勝 | Shida Tatsuya | Yuki Satoshi | W+1.5 | 2016-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xtvA7JWVsKDw%2FcW4OLxUBQ%3D%3D) | 
-| 第42期名人戦　最終予選1回戦 | Yuki Satoshi | Uchida Shuhei | W+2.5 | 2016-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wdRCPuQ9AeFh5NjM%2F46duQ%3D%3D) | 
-| 第41期棋聖戦Bリーグ決勝 | Cho Chikun | Yuki Satoshi | W+R | 2016-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bJi0m1Eit3l8OGzc4Vn9jA%3D%3D) | 
-| 第72期本因坊戦　最終予選決勝第2局 | Yuki Satoshi | Cho Sonjin | B+R | 2016-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tXITQclQzFc5YmThooUBUg%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Seto Taiki | Yuki Satoshi | W+R | 2016-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=65yjhILVtRj9ZzlgLtgB%2BA%3D%3D) | 
-| 第42期名人戦予選 | Yuki Satoshi | missing | B+R | 2016-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ikzBYgKQWaBjTymZ6%2BMfNQ%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Yu Zhengqi | Yuki Satoshi | W+R | 2016-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YGuvm7MekoyMe0WQGfWTnA%3D%3D) | 
-| 第72期本因坊戦予選 | Ryu Shikun | Yuki Satoshi | W+R | 2016-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=drj2gnVoN6zvHZQHRyDglw%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Ko Iso | Yuki Satoshi | B+R | 2016-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vWB0JU47e6gh0D0uNoCOMQ%3D%3D) | 
-| 第3回百霊杯世界オープン戦1回戦 | Li Qincheng | Yuki Satoshi | B+R | 2016-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6z3uZu96HjHmlbfBantsiA%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Yuki Satoshi | Akiyama Jiro | B+R | 2016-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dIWM%2FzUwgSGsgzvKiLBwRQ%3D%3D) | 
-| 第72期本因坊戦予選 | Nakano Hironari | Yuki Satoshi | W+9.5 | 2016-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rtO6Qrgv%2F5hzdpdGrur3zg%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Yuki Satoshi | Kiyonari Tetsuya | W+R | 2016-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GInr4PTRa70pBXv0MZYREw%3D%3D) | 
-| 第23期阿含・桐山杯全日本早碁オープン戦予選 | Mizokami Tomochika | Yuki Satoshi | B+R | 2016-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1QfjzaxJEOaheKkm4bQqaQ%3D%3D) | 
-| 第8回応氏杯世界選手権1回戦 | Yuki Satoshi | Tang Weixing | W+5 | 2016-04-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sjbyjGGgNDQRI5kWxtRgmg%3D%3D) | 
-| 第25期竜星戦Aブロック第11局 | Yuki Satoshi | Motoki Katsuya | B+R | 2016-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hhR5g6mLNEyQrBTMQm3w%2FA%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Yuki Satoshi | Hane Naoki | B+R | 2016-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nbrl0xNjRWlWS1da0uvECQ%3D%3D) | 
-| 第2回日中竜星戦 | Tuo Jiaxi | Yuki Satoshi | B+R | 2016-03-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BBxUncEhfDhX0iwBh93gcQ%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Yuki Satoshi | Cho Sonjin | B+0.5 | 2016-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l3A5H52tnG1Kx5Bm3fb%2FQQ%3D%3D) | 
-| 第64期王座戦予選 | Shida Tatsuya | Yuki Satoshi | B+R | 2016-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k9uh7FxUnnaRtbmTLeWcZQ%3D%3D) | 
-| 第41期碁聖戦本戦1回戦 | Takao Shinji | Yuki Satoshi | B+5.5 | 2016-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BSsHNoEuc6IdsTS6zboLeQ%3D%3D) | 
-| 第42期天元戦本戦1回戦 | Yuki Satoshi | Ohashi Naruya | W+4.5 | 2016-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7t3S2Fk3eP7jI%2BW6wvtFlA%3D%3D) | 
-| 第54期十段戦3回戦 | Iyama Yuta | Yuki Satoshi | B+R | 2015-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L5GnMfBeGQEiyVU1qTl6JQ%3D%3D) | 
-| 第54期十段戦2回戦 | Yuki Satoshi | Uchida Shuhei | B+R | 2015-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JbwqHd0xcdDRSv6mhsU6xQ%3D%3D) | 
-| 第41期名人戦予選 | Yuki Satoshi | So Yokoku | W+R | 2015-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m%2BDDLlZB4C2nEjmk0K6tCg%3D%3D) | 
-| 第59期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Nakano Yasuhiro | Yuki Satoshi | W+R | 2015-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B%2Fsn8LEgER9Z2BSVGl27oA%3D%3D) | 
-| 第59期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yuki Satoshi | Nakano Yasuhiro | B+R | 2015-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VtBXab2YAUhAZDngJCUaDg%3D%3D) | 
-| 第54期十段戦1回戦 | Yuki Satoshi | Kono Rin | B+R | 2015-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ocT8T4bQUINtk4ERMl%2FVOA%3D%3D) | 
-| 第41期名人戦予選 | Ogata Masaki | Yuki Satoshi | W+R | 2015-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PJcF2jkHaMG2DOnIhDKz%2BA%3D%3D) | 
-| 第40期棋聖戦Aリーグ | Yuki Satoshi | Hane Naoki | B+R | 2015-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K6Y8UvodEzrQbOJiw8%2FeSw%3D%3D) | 
-| 第54期十段戦予選 | Ryu Shikun | Yuki Satoshi | W+0.5 | 2015-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WwsPz4ER99lPjatwHXO3Lw%3D%3D) | 
-| 第41期天元戦挑戦者決定戦 | Yuki Satoshi | Iyama Yuta | W+R | 2015-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1EuSYU8VT823GRX69A%2Bvig%3D%3D) | 
-| 第71期本因坊戦予選 | Ichiriki Ryo | Yuki Satoshi | B+R | 2015-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ThLrqXfaWAWcBZCDVAhdvA%3D%3D) | 
-| 第41期名人戦予選 | Yuki Satoshi | Imamura Toshiya | B+R | 2015-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3NKOWe1yLBu6V5DUUXs7uQ%3D%3D) | 
-| 第41期天元戦本戦準決勝 | Yamashita Keigo | Yuki Satoshi | W+1.5 | 2015-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EmsPJ%2BzBzrzx1wNT9nPgjw%3D%3D) | 
-| 第40期棋聖戦Aリーグ | Mizokami Tomochika | Yuki Satoshi | W+R | 2015-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yiAGtnlmgycCM7XLM32Ptw%3D%3D) | 
-| 第63期王座戦準決勝 | Iyama Yuta | Yuki Satoshi | B+R | 2015-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M0YjGmbBS%2FLYM73ZJVf5Zg%3D%3D) | 
-| 第71期本因坊戦予選 | Uchida Shuhei | Yuki Satoshi | W+1.5 | 2015-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AQd7AV%2BJNXBzoZ4AT44wsw%3D%3D) | 
-| 第63期王座戦2回戦 | Yuki Satoshi | Hsu Chiayuan | B+R | 2015-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kVvxNyPtviDF7j7rpr%2BWpQ%3D%3D) | 
-| 第41期天元戦本戦3回戦 | Yuki Satoshi | Nakano Hironari | B+R | 2015-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tDOnBcx2Qoc%2BQmCFzfIvpQ%3D%3D) | 
-| 第40期棋聖戦Aリーグ | Yuki Satoshi | Ichiriki Ryo | W+R | 2015-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LZHdMgaseHn2%2BXp1SinzXw%3D%3D) | 
-| 第71期本因坊戦予選 | Yuki Satoshi | Ryu Shikun | B+R | 2015-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fv4n9Wa1kPAgSR%2B8h8ULxA%3D%3D) | 
-| 第2回夢百合杯世界オープン戦1回戦 | Tang Weixing | Yuki Satoshi | B+R | 2015-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WS5J%2BuNkTFVYGXMDmDE8Cw%3D%3D) | 
-| 第54期十段戦予選 | Yuki Satoshi | Kobayashi Koichi | B+0.5 | 2015-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lbwgJIf%2FiYWlWjV1NZ47Rw%3D%3D) | 
-| 第63期王座戦本戦1回戦第4局 | Yuki Satoshi | Yamashiro Hiroshi | B+R | 2015-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xHgzburtO7eswMYOUmRIlw%3D%3D) | 
-| 第40期棋聖戦Aリーグ | Cho Riyu | Yuki Satoshi | B+R | 2015-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aH%2FJ3BPQvm2qqKlNQmn34w%3D%3D) | 
-| 第20回LG杯朝鮮日報棋王戦1回戦 | Weon Seongjin | Yuki Satoshi | B+R | 2015-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K23XT1jkjR339JJXENd84A%3D%3D) | 
-| 第40期棋聖戦Aリーグ | Kono Rin | Yuki Satoshi | B+R | 2015-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nKDyZlI8NTDb5oHeICLfdA%3D%3D) | 
-| 第40期棋聖戦Aリーグ | Yuki Satoshi | Cho U | W+R | 2015-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6XPz2mf7MhmdDdUKAy6QDg%3D%3D) | 
-| 第22期阿含・桐山杯全日本早碁オープン戦予選 | Ogata Masaki | Yuki Satoshi | B+R | 2015-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aTiGNuDSAEl1mgWSIbwRaQ%3D%3D) | 
-| 第41期天元戦本戦2回戦 | Yuki Satoshi | O Meien | B+R | 2015-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LnES3k7lnuKc2DVZRdkIYg%3D%3D) | 
-| 第40期棋聖戦Aリーグ | Cho Chikun | Yuki Satoshi | B+R | 2015-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RcIskbLroEA1uFpRIEtRSA%3D%3D) | 
-| 第40期碁聖戦本戦3回戦 | Yuki Satoshi | Shida Tatsuya | W+R | 2015-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w317XZy6IAwyGsj02u%2BPQg%3D%3D) | 
-| 第40期碁聖戦本戦2回戦 | Yuki Satoshi | Yoda Norimoto | B+R | 2015-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4retsEtw%2BwVr3agff8auOQ%3D%3D) | 
-| 第40期碁聖戦本戦1回戦 | Yuki Satoshi | Tsuruyama Atsushi | B+R | 2015-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qQ6HyTNyDO%2B3zYxZypeZBw%3D%3D) | 
-| 第41期天元戦本戦1回戦 | Nakaonoda Tomomi | Yuki Satoshi | W+R | 2015-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iv1NqLHeoHimdgNhlwLGUQ%3D%3D) | 
-| 第53期十段戦3回戦 | Yuki Satoshi | Ida Atsushi | W+R | 2014-12-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jmlNZTFprI6wULY2MvCUzg%3D%3D) | 
-| 第58期関西棋院第一位決定戦挑戦手合三番勝負第3局 | Sakai Hideyuki | Yuki Satoshi | W+2.5 | 2014-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F15s48MX0WVZj4WcYwFgNQ%3D%3D) | 
-| 第53期十段戦2回戦 | Yuki Satoshi | Kim Sujun | B+R | 2014-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RCqybscy9kAxBKAaD68xQQ%3D%3D) | 
-| 第58期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Sakai Hideyuki | Yuki Satoshi | B+R | 2014-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mz0M7ww3hQcn9VIJEmKZwQ%3D%3D) | 
-| 第58期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yuki Satoshi | Sakai Hideyuki | B+R | 2014-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2KvHgvqsUCZAAdNNhQW0dg%3D%3D) | 
-| 第40期名人戦予選 | Kanazawa Makoto | Yuki Satoshi | B+R | 2014-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PhIwEz4ib6wuRkNStAb4pg%3D%3D) | 
-| 第39期棋聖戦Bリーグ | Yuki Satoshi | Kobayashi Satoru | B+R | 2014-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d%2FsdZX2ohGoH0K%2BLqaQdPw%3D%3D) | 
-| 第40期名人戦予選 | Yuki Satoshi | Hane Yasumasa | B+R | 2014-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tQuyPe4aeZv2NL4%2Fgi0gsg%3D%3D) | 
-| 第58期関西棋院第一位決定戦挑戦者決定戦 | Yuki Satoshi | Yu Zhengqi | B+0.5 | 2014-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KOAmlcwInLrcbJ569Bqxyw%3D%3D) | 
-| 第58期関西棋院第一位決定戦本戦準決勝 | Yuki Satoshi | Imamura Toshiya | B+0.5 | 2014-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i%2FImef5JLzAp841KqwLmYg%3D%3D) | 
-| 第39期棋聖戦Bリーグ | Cho Riyu | Yuki Satoshi | W+R | 2014-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QKiIFahmE%2BHUnQDGp3ddiQ%3D%3D) | 
-| 第26回テレビアジア選手権1回戦 | Park Junghwan | Yuki Satoshi | B+R | 2014-08-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pM9rvLQiknEEoHbt8v5qNg%3D%3D) | 
-| 第70期本因坊戦予選 | Matsumoto Takehisa | Yuki Satoshi | B+R | 2014-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tFbHIemeYcoxSBNwar%2Bjrw%3D%3D) | 
-| 第39期名人戦リーグ | Ryu Shikun | Yuki Satoshi | W+R | 2014-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iKzn4dd6Vo92%2FP7LvVGi6g%3D%3D) | 
-| 第39期棋聖戦Bリーグ | Murakawa Daisuke | Yuki Satoshi | B+R | 2014-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WLuJ5OmGnod2RQfUzNXroQ%3D%3D) | 
-| 第70期本因坊戦予選 | Hane Naoki | Yuki Satoshi | W+R | 2014-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LYpnBfzUNqGGpihjv40b0A%3D%3D) | 
-| 第39期名人戦リーグ | Yuki Satoshi | Murakawa Daisuke | W+R | 2014-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ktp%2FXIeEs9gImq7fz6owsw%3D%3D) | 
-| 第62期王座戦1回戦 | O Rissei | Yuki Satoshi | B+R | 2014-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hCUmMWyYwtZuesRKFsN2jA%3D%3D) | 
-| 第21期阿含・桐山杯全日本早碁オープン戦1回戦 | Kono Rin | Yuki Satoshi | B+R | 2014-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1zviobC7UFkrwSEIO3E%2FwA%3D%3D) | 
-| 第39期棋聖戦Bリーグ | Yuki Satoshi | Yoda Norimoto | W+R | 2014-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v4QPO2jhcZkZDPRYMsb1Jg%3D%3D) | 
-| 第19回LG杯朝鮮日報棋王戦1回戦 | Tang Weixing | Yuki Satoshi | B+R | 2014-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JvCZA5jYHlhrJW3vZi3Rfw%3D%3D) | 
-| 第39期名人戦リーグ | Yamashita Keigo | Yuki Satoshi | B+R | 2014-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BgUYcA1VZPH3lurzFC6lBg%3D%3D) | 
-| 第58期関西棋院第一位決定戦本戦3回戦 | Yuki Satoshi | Onoda Takuya | B+R | 2014-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MZ0JKq35qbYcVzBzg4Foxg%3D%3D) | 
-| 第39期棋聖戦Bリーグ | Cho Chikun | Yuki Satoshi | B+R | 2014-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KU25q0sRcSN%2Bf53ILr34EQ%3D%3D) | 
-| 第39期名人戦リーグ | Cho U | Yuki Satoshi | W+0.5 | 2014-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ukNnEvmbg3ncFasaTCB7Sw%3D%3D) | 
-| 第39期棋聖戦予選 | Mizokami Tomochika | Yuki Satoshi | W+R | 2014-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AU6TH8olrSpuETt9li2kkQ%3D%3D) | 
-| 第52期十段戦挑戦手合五番勝負第5局 | Takao Shinji | Yuki Satoshi | B+R | 2014-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EWPFAqsqlApk3ltwAea6Zg%3D%3D) | 
-| 第52期十段戦挑戦手合五番勝負第4局 | Takao Shinji | Yuki Satoshi | B+R | 2014-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=paveDxp22XvfYsx5u%2Bybdg%3D%3D) | 
-| 第52期十段戦挑戦手合五番勝負第3局 | Yuki Satoshi | Takao Shinji | B+10.5 | 2014-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gJoXSO90TYeeh1EYDkQXQw%3D%3D) | 
-| 第39期棋聖戦予選 | So Yokoku | Yuki Satoshi | W+R | 2014-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ojgfK8Lp8yX%2Bx6LZE%2FQ8mA%3D%3D) | 
-| 第52期十段戦挑戦手合五番勝負第2局 | Takao Shinji | Yuki Satoshi | W+0.5 | 2014-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EC0J9ihmbfykHAGrORWVIA%3D%3D) | 
-| 第69期本因坊戦リーグ | Yu Zhengqi | Yuki Satoshi | W+R | 2014-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=srEUii%2BZt6cldSIsEb0q0A%3D%3D) | 
-| 第2回百霊杯世界オープン戦1回戦 | Wang Xi | Yuki Satoshi | B+R | 2014-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=idu9wSqY6MGS5Rpy14PYsg%3D%3D) | 
-| 第39期棋聖戦予選 | Yuki Satoshi | Kataoka Satoshi | B+R | 2014-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xe9beWuJL%2BX%2F2J%2BJsl8W0Q%3D%3D) | 
-| 第39期名人戦リーグ | Yuki Satoshi | Kono Rin | W+2.5 | 2014-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xd0J3%2BNDgveA7b1x9s4CTA%3D%3D) | 
-| 第52期十段戦挑戦手合五番勝負第1局 | Yuki Satoshi | Takao Shinji | W+0.5 | 2014-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KR2Xc%2BB6Iu4B%2FuZQjd2DZg%3D%3D) | 
-| 第69期本因坊戦リーグ | Takao Shinji | Yuki Satoshi | W+1.5 | 2014-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mDrOe89ajSxMImQj%2Fvv7pg%3D%3D) | 
-| 第58期関西棋院第一位決定戦本戦2回戦 | Yuki Satoshi | Kunisawa Hiroto | B+R | 2014-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yhVRePT1IAQ1popr6zbB0w%3D%3D) | 
-| 第39期名人戦リーグ | Yuki Satoshi | Hane Naoki | W+R | 2014-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YTcskZihEBSnGF%2F1g%2Foy2w%3D%3D) | 
-| 第69期本因坊戦リーグ | Sakai Hideyuki | Yuki Satoshi | B+R | 2014-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XCeIfDTL03nPm67bIcQU1g%3D%3D) | 
-| 第39期名人戦リーグ | Yuki Satoshi | Ko Iso | W+R | 2014-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GTw9xr8Bvw6P9qu%2B%2FyE2sA%3D%3D) | 
-| 第69期本因坊戦リーグ | Yuki Satoshi | Yamashita Keigo | W+R | 2013-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YafRnSFEw%2BTYHm0%2Foqz1hg%3D%3D) | 
-| 第40期天元戦予選 | Yuki Satoshi | Takahara Syuji | W+R | 2013-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TCqfGH2xsehm3eprxej%2Bhw%3D%3D) | 
-| 第39期名人戦リーグ | Takao Shinji | Yuki Satoshi | B+R | 2013-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F6wXCh3vHcWfEB85W%2BvF1A%3D%3D) | 
-| 第15回農心辛ラーメン杯世界囲碁最強戦第7戦 | Chen Yaoye | Yuki Satoshi | B+R | 2013-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RH%2F1dky%2BB2K%2Fe%2FAyi8DjWA%3D%3D) | 
-| 第40期天元戦予選 | Hong Maleunsaem | Yuki Satoshi | W+R | 2013-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zJxGVSuqdWNv0lsc2glgnQ%3D%3D) | 
-| 第69期本因坊戦リーグ | Yuki Satoshi | Ida Atsushi | W+R | 2013-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yW2VBtMHnOq%2BQM9jBbnBOQ%3D%3D) | 
-| 第58期関西棋院第一位決定戦本戦1回戦 | Taniguchi Tooru | Yuki Satoshi | W+R | 2013-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g8VBAjhL07earQqsj2LjiQ%3D%3D) | 
-| 第39期名人戦予選 | Yuki Satoshi | Cho Sonjin | B+R | 2013-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0cxyqI%2Bze4r2AV2ybJknxw%3D%3D) | 
-| 第69期本因坊戦リーグ | Yuki Satoshi | Kono Rin | W+R | 2013-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VstOEknPmPXT4S9AiezNJQ%3D%3D) | 
-| 第39期碁聖戦予選 | Yuki Satoshi | Sakai Hideyuki | W+3.5 | 2013-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t6DBQaJn2gFK5AD98BWQOA%3D%3D) | 
-| 第39期名人戦予選 | Yuki Satoshi | Yamada Kimio | B+R | 2013-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qk5%2BI6zQ3uxznKaJ%2BTQpIQ%3D%3D) | 
-| 第61期王座戦挑戦者決定戦 | Cho U | Yuki Satoshi | B+2.5 | 2013-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hv3wVhq%2BssgMDdycuVrxsw%3D%3D) | 
-| 第39期名人戦予選 | Ha Youngil | Yuki Satoshi | W+1.5 | 2013-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pqk3e9JG1t%2Bp7kDez432Aw%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ1回戦H2 | Yuki Satoshi | Liao Xingwen | W+R | 2013-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Os27B5kSNkjcp8s%2Buxjx5w%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ1回戦H1 | Yuki Satoshi | Gu Li | W+R | 2013-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FfUcJZMldf%2BkUSWpO8zdmA%3D%3D) | 
-| 第61期王座戦準決勝 | Yuki Satoshi | Hane Naoki | B+R | 2013-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6xsFTgcd8f88RMW%2FFWeJqQ%3D%3D) | 
-| 第61期王座戦2回戦 | Matsumoto Takehisa | Yuki Satoshi | W+6.5 | 2013-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XY6SGvQ0EixNFtllm%2BCl1g%3D%3D) | 
-| 第39期碁聖戦予選 | Hatanaka Hoshinobu | Yuki Satoshi | W+R | 2013-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ADj1Rw1edPz2bZgx9JJsJg%3D%3D) | 
-| 第1回夢百合杯世界オープン戦3回戦 | Wang Xi | Yuki Satoshi | B+R | 2013-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Py8qRNQebl6HLfbaIy1SxA%3D%3D) | 
-| 第38期名人戦リーグ | Yuki Satoshi | Takao Shinji | B+R | 2013-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7X7WSHeIch1uyUdOQfWqaA%3D%3D) | 
-| 第39期天元戦本戦3回戦 | Yuki Satoshi | Akiyama Jiro | W+R | 2013-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lOoZkyxbpnZt4D2LTAvaKQ%3D%3D) | 
-| 第38期名人戦リーグ | Yuki Satoshi | Mizokami Tomochika | B+0.5 | 2013-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0qGDENGMvtyg24T0VBSWuQ%3D%3D) | 
-| 第1回夢百合杯世界オープン戦2回戦 | Li Qincheng | Yuki Satoshi | W+R | 2013-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HgiOEFARQF0vt%2FmFeW%2BPhQ%3D%3D) | 
-| 第1回夢百合杯世界オープン戦1回戦 | missing | Yuki Satoshi | W+R | 2013-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lFrbkFst4wiqFUwa%2B5CWfA%3D%3D) | 
-| 第20期阿含・桐山杯全日本早碁オープン戦1回戦 | Ichiriki Ryo | Yuki Satoshi | B+R | 2013-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uAvtFC3H1PV6oJEtgkKrNg%3D%3D) | 
-| 第25回テレビアジア選手権準決勝 | Yuki Satoshi | Park Junghwan | W+5.5 | 2013-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7wvAsx5OPWUNSK37nfLVsw%3D%3D) | 
-| 第25回テレビアジア選手権1回戦 | Jiang Weijie | Yuki Satoshi | W+2.5 | 2013-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8DB0gqt%2Ba8DZwcjTwSRPAA%3D%3D) | 
-| 第61期王座戦1回戦 | Takei Takashi | Yuki Satoshi | W+R | 2013-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RTK3uKQecG0PITabXsMtFA%3D%3D) | 
-| 第57期関西棋院第一位決定戦本戦2回戦 | Yuki Satoshi | Murakawa Daisuke | W+R | 2013-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mDyptPcrDR%2BtpzxvyRDp9w%3D%3D) | 
-| 第39期天元戦本戦2回戦 | Kurahashi Masayuki | Yuki Satoshi | W+16.5 | 2013-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nhJbzrBHVRH7cTK7%2FLsrDg%3D%3D) | 
-| 第38期名人戦リーグ | Sakai Hideyuki | Yuki Satoshi | B+R | 2013-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gN70QrQ6EJ54M3ZKmqVxYQ%3D%3D) | 
-| 第39期天元戦本戦1回戦 | Yuki Satoshi | Ishii Kunio | B+4.5 | 2013-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p675D5CJQxHlqqXWeZV%2F2g%3D%3D) | 
-| 第38期名人戦リーグ | Kono Rin | Yuki Satoshi | B+R | 2013-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oYVdiGimc51TdFbhGiWDWQ%3D%3D) | 
-| 第51期十段戦挑戦手合五番勝負第5局 | Iyama Yuta | Yuki Satoshi | W+1.5 | 2013-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zHpP1DhbRn%2F6gwArH%2Bp9PQ%3D%3D) | 
-| 第51期十段戦挑戦手合五番勝負第4局 | Iyama Yuta | Yuki Satoshi | B+R | 2013-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Scon7xIqQgp7DcE7lkSHoA%3D%3D) | 
-| 第38期名人戦リーグ | Hane Naoki | Yuki Satoshi | B+R | 2013-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8sNr8wD4Gr1H5Jgv7mMVVQ%3D%3D) | 
-| 第68期本因坊戦リーグ | Seto Taiki | Yuki Satoshi | W+R | 2013-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vv0jaH8cVKgLKFzbi6JZlA%3D%3D) | 
-| 第51期十段戦挑戦手合五番勝負第3局 | Yuki Satoshi | Iyama Yuta | B+R | 2013-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KT2IU5wZTAn7JCrX%2FrbsHg%3D%3D) | 
-| 第51期十段戦挑戦手合五番勝負第2局 | Iyama Yuta | Yuki Satoshi | W+2.5 | 2013-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a0465uIvOP8GUb8HPSuLAw%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン決勝 | Yuki Satoshi | Takao Shinji | B+3.5 | 2013-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ubu9Zpld2VC%2B%2Fly4myP0MA%3D%3D) | 
-| 第68期本因坊戦リーグ | Yuki Satoshi | Cho Sonjin | W+R | 2013-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=01CUM4kZ6mPSvh72YAKSyQ%3D%3D) | 
-| 第61期王座戦予選 | Nakano Hironari | Yuki Satoshi | W+7.5 | 2013-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SKWKKSO7uLnhs4wWqFP41g%3D%3D) | 
-| 第38期名人戦リーグ | Yuki Satoshi | Iyama Yuta | W+10.5 | 2013-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h6jnRJK1ZZeAfAX0bNnpgA%3D%3D) | 
-| 第51期十段戦挑戦手合五番勝負第1局 | Yuki Satoshi | Iyama Yuta | W+R | 2013-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DHr7dh1yH6DnNbueW%2BTLfg%3D%3D) | 
-| 第38期碁聖戦本戦1回戦 | Yuki Satoshi | Takemiya Masaki | W+R | 2013-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=77L6%2BHdZvsmxTLLOMOPX2A%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン準決勝 | Yuki Satoshi | Kono Rin | B+R | 2013-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qpoiuMMkQR6sM1zAvNkV4w%3D%3D) | 
-| 第68期本因坊戦リーグ | Yuki Satoshi | Ko Iso | B+R | 2013-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bPqaDVZQXCtGJKgOKRpaBg%3D%3D) | 
-| 第38期名人戦リーグ | Cho U | Yuki Satoshi | B+R | 2013-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bw2I%2Bg3nGb59P0o79n97UQ%3D%3D) | 
-| 第51期十段戦挑戦者決定戦 | Yuki Satoshi | Takao Shinji | B+R | 2013-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cq%2Bw%2BCqXnkV7p9pYEA8snw%3D%3D) | 
-| 第68期本因坊戦リーグ | Takao Shinji | Yuki Satoshi | B+R | 2013-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CDHK4oaYtuT3%2B6k7%2F2iSEw%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン3回戦 | Oya Koichi | Yuki Satoshi | W+10.5 | 2013-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=djqGkqZuA4FD7q9ydUhbnA%3D%3D) | 
-| 第38期名人戦リーグ | Yuki Satoshi | Murakawa Daisuke | W+R | 2013-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V3dz%2B95bTmxZ5j6%2FMUh4rQ%3D%3D) | 
-| 第51期十段戦準決勝 | Ryu Shikun | Yuki Satoshi | W+3.5 | 2012-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YpRXejkn4rNeecK8Icm0Hg%3D%3D) | 
-| 第38期棋聖戦予選 | Ishida Atsushi | Yuki Satoshi | B+R | 2012-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jFR4B1R3MMUbxgyIBKvxyA%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン2回戦 | Akiyama Jiro | Yuki Satoshi | W+R | 2012-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AhIu%2Bfx7c%2B%2F7yVmDFdBW6w%3D%3D) | 
-| 第51期十段戦3回戦 | Cho Sonjin | Yuki Satoshi | W+R | 2012-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IQnHM4lFnjIG8xsghHYxfA%3D%3D) | 
-| 第68期本因坊戦リーグ | Yamashita Keigo | Yuki Satoshi | B+R | 2012-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bkjbpDAdtsx1oPAGwhCIOQ%3D%3D) | 
-| 第68期本因坊戦リーグ | Yuki Satoshi | Cho U | W+R | 2012-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h%2BoTSv8IMvA0D3dPSbHDpw%3D%3D) | 
-| 第38期名人戦予選 | Yuki Satoshi | Nakano Yasuhiro | B+2.5 | 2012-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QxgMy2e4Pzib8y5UsPXc7A%3D%3D) | 
-| 第39期天元戦予選 | Yuki Satoshi | Onoda Takuya | B+R | 2012-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RtqiwwLyLbe%2Bgbx6V%2B636Q%3D%3D) | 
-| 第68期本因坊戦リーグ | Imamura Toshiya | Yuki Satoshi | W+R | 2012-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=idQqbjAfJrRMKppfd54AXg%3D%3D) | 
-| 第51期十段戦2回戦 | Cho Chikun | Yuki Satoshi | W+9.5 | 2012-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aK%2BWjGXPQoURXUo%2FxHSstg%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン1回戦 | Yuki Satoshi | Mochizuki Kenichi | B+6.5 | 2012-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gK%2BwXh9cPyYSGDSdSRkBvw%3D%3D) | 
-| 第38期名人戦予選 | Yuki Satoshi | Ogata Masaki | B+R | 2012-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nGBxQVg34hld3dEwT2g6Gw%3D%3D) | 
-| 第51期十段戦予選 | Mochizuki Kenichi | Yuki Satoshi | W+2.5 | 2012-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sSkjCT%2BlOCQFn5Rv3KakNQ%3D%3D) | 
-| 第39期天元戦予選 | Yun Chunho | Yuki Satoshi | W+R | 2012-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V3hh%2BO0YOJBF1hfQ%2BNp5GQ%3D%3D) | 
-| 第24回テレビアジア選手権1回戦 | Tuo Jiaxi | Yuki Satoshi | B+R | 2012-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WYhmJ2G7jS8rH1RAuK3aEQ%3D%3D) | 
-| 第60期王座戦準決勝 | Yuki Satoshi | Iyama Yuta | W+R | 2012-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZBey%2FfbY1Ur5LmqKkne6FQ%3D%3D) | 
-| 第19期阿含・桐山杯全日本早碁オープン戦2回戦 | Rin Shien | Yuki Satoshi | B+3.5 | 2012-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y708uKXVuD4WlP1w59lBzg%3D%3D) | 
-| 第37期名人戦リーグ | Yuki Satoshi | Uchida Shuhei | W+0.5 | 2012-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kUBUY6pu2gvx%2BeMBySnMxw%3D%3D) | 
-| 第19期阿含・桐山杯全日本早碁オープン戦1回戦 | Suzuki Shinji | Yuki Satoshi | W+R | 2012-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oYIpZ%2BSQivjNrgca23I5Kg%3D%3D) | 
-| 第37期名人戦リーグ | Iyama Yuta | Yuki Satoshi | B+R | 2012-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YCtp6oBiOpXS9cQ6fiDRSw%3D%3D) | 
-| 第17回LG杯世界棋王戦1回戦 | Shi Yue | Yuki Satoshi | B+R | 2012-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I2%2BRSLeEP%2FNZh%2Fay9geGOw%3D%3D) | 
-| 第60期王座戦2回戦 | Yuki Satoshi | Imamura Toshiya | B+6.5 | 2012-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LZ%2Fmw%2FBPiHyR5L2gzjTDxA%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン予選 | Yuki Satoshi | Yamashiro Hiroshi | B+2.5 | 2012-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H21AFc9SOWGhjxi6ShyG2g%3D%3D) | 
-| 第19期阿含・桐山杯全日本早碁オープン戦予選 | Nakaonoda Tomomi | Yuki Satoshi | W+R | 2012-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K%2Bl%2BGNgkUr4owH%2FCDRdb%2Fw%3D%3D) | 
-| 第37期名人戦リーグ | Mizokami Tomochika | Yuki Satoshi | B+R | 2012-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3lmaldXX67Z6He34VKD9Xw%3D%3D) | 
-| 第7回応氏杯世界選手権1回戦 | Yuki Satoshi | Liu Xing | W+R | 2012-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4Vcf71TSXa%2FKz%2BTKrGXr%2FA%3D%3D) | 
-| 第60期王座戦1回戦 | Cho Chikun | Yuki Satoshi | W+R | 2012-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jw1pBpQfQCOEr89kiKYgag%3D%3D) | 
-| 第37期名人戦リーグ | Kim Sujun | Yuki Satoshi | B+8.5 | 2012-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l0Rj0ql7BtcjT6pSKvPUvQ%3D%3D) | 
-| 第37期名人戦リーグ | Yuki Satoshi | Kono Rin | W+R | 2012-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NbRe30Hrf2c1%2BZhMRGALAQ%3D%3D) | 
-| 第67期本因坊戦リーグ | Takao Shinji | Yuki Satoshi | W+R | 2012-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YvD1QG%2BLvAAdTvX8tzK8uA%3D%3D) | 
-| 第37期碁聖戦本戦2回戦 | Kurahashi Masayuki | Yuki Satoshi | B+R | 2012-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KzuHj72PzN8HdZMLb9pq0Q%3D%3D) | 
-| 第67期本因坊戦リーグ | Ko Iso | Yuki Satoshi | W+R | 2012-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zvaADSTuBsEfH%2FapjM9ibA%3D%3D) | 
-| 第37期名人戦リーグ | Yuki Satoshi | Hane Naoki | W+R | 2012-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kfok5vhbMrehHoxj%2FqQ%2F3g%3D%3D) | 
-| 第67期本因坊戦リーグ | Cho U | Yuki Satoshi | W+R | 2012-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=skxALpqvn2WX%2FL37CuKbJw%3D%3D) | 
-| 第38期天元戦本戦1回戦 | Yuki Satoshi | Hane Naoki | W+3.5 | 2012-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dIHow6Z9BZhZnSctCqpfWg%3D%3D) | 
-| 第37期名人戦リーグ | Yuki Satoshi | Cho U | W+R | 2012-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=07FEUzr6Hh3LtqipjNiClw%3D%3D) | 
-| 第37期碁聖戦本戦1回戦 | So Yokoku | Yuki Satoshi | W+R | 2012-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bk8LDfCL%2Fl37Z9wD%2BBVueg%3D%3D) | 
-| 第37期名人戦リーグ | Takao Shinji | Yuki Satoshi | B+R | 2012-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eTLh%2FWbnBk5qXZS1TV4ylQ%3D%3D) | 
-| 第67期本因坊戦リーグ | Yuki Satoshi | Iyama Yuta | W+R | 2012-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zlJ%2BVkmGmvZAl27jHDPgPQ%3D%3D) | 
-| 第67期本因坊戦リーグ | Yuki Satoshi | Kono Rin | W+1.5 | 2011-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X3HH9qTTebtRpn21a4mEKg%3D%3D) | 
-| 第13回農心辛ラーメン杯世界囲碁最強戦第7戦 | Tan Xiao | Yuki Satoshi | B+R | 2011-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dEImEDcYlUdNGxU4uFif%2FQ%3D%3D) | 
-| 第37期天元戦挑戦手合五番勝負第3局 | Yuki Satoshi | Iyama Yuta | W+R | 2011-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0gXCzv%2F5LKqDipz5YbvYUw%3D%3D) | 
-| 第37期天元戦挑戦手合五番勝負第2局 | Iyama Yuta | Yuki Satoshi | B+0.5 | 2011-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yqNAwnVlL9yDQpVniRIwSg%3D%3D) | 
-| 第67期本因坊戦リーグ | Yuki Satoshi | Seto Taiki | B+6.5 | 2011-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ns%2FmOlxyFjH4DlXqrxU%2BHA%3D%3D) | 
-| 第37期天元戦挑戦手合五番勝負第1局 | Yuki Satoshi | Iyama Yuta | W+R | 2011-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YIJ9A8K7NozWInRHv0%2FWfw%3D%3D) | 
-| 第67期本因坊戦リーグ | Hane Naoki | Yuki Satoshi | W+R | 2011-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YFY06YUJKCarOX%2Fn02R4cQ%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ1回戦G2 | Yuki Satoshi | Li Xuanhao | W+R | 2011-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kMBYjs1V4lam3Xb1y0%2FgGw%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ1回戦G1 | missing | Yuki Satoshi | B+R | 2011-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MxlZ%2FGfBEthXMtDg8Pcv6g%3D%3D) | 
-| 第67期本因坊戦予選 | Yuki Satoshi | Kobayashi Satoru | B+R | 2011-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GLSlmZxLKa95FGC1vdWMrw%3D%3D) | 
-| 第24回世界囲碁選手権富士通杯1回戦 | Kong Jie | Yuki Satoshi | B+R | 2011-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X%2FYYamI%2BNHLceXMWZW0baA%3D%3D) | 
-| 第36期名人戦リーグ | Yuki Satoshi | Yamashita Keigo | W+R | 2011-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BZpm5Bzmd9m4POzVPkB2uw%3D%3D) | 
-| 第18期阿含・桐山杯全日本早碁オープン戦2回戦 | Iyama Yuta | Yuki Satoshi | B+0.5 | 2011-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pVjhfMBJhWPn3AeE1L%2FI5g%3D%3D) | 
-| 第31期NECカップ囲碁トーナメント戦1回戦 | Takao Shinji | Yuki Satoshi | B+2.5 | 2011-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CZ9xz545ZGBNmh%2FiQx9FGQ%3D%3D) | 
-| 第36期名人戦リーグ | Yuki Satoshi | Cho U | W+0.5 | 2011-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pbuyiEwpGhpS%2FB%2BlmdUYrw%3D%3D) | 
-| 第55期関西棋院第一位決定戦本戦3回戦 | Yuki Satoshi | Sakai Hideyuki | W+4.5 | 2011-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gDT7Kd0qFnCaJRgH8M79gw%3D%3D) | 
-| 第50期十段戦予選 | Kono Rin | Yuki Satoshi | B+R | 2011-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RVSV%2BhT1jYiRZ7qHAH%2Bzxg%3D%3D) | 
-| 第16回LG杯世界棋王戦1回戦 | Kim Jiseok | Yuki Satoshi | B+R | 2011-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b0ppd15rgb90jmaSW7W5QQ%3D%3D) | 
-| 第18期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Sonjin | Yuki Satoshi | W+1.5 | 2011-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fx5PDtEjIZKQgajYC78hPA%3D%3D) | 
-| 第36期名人戦リーグ | Yuki Satoshi | Mizokami Tomochika | B+R | 2011-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FZ2InI8xBkHDlfxwvU22fQ%3D%3D) | 
-| 第50期十段戦予選 | Nakano Hironari | Yuki Satoshi | W+2.5 | 2011-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HHPMeiyu2Ua7gIrktl6sJw%3D%3D) | 
-| 第67期本因坊戦予選 | Yuki Satoshi | Komatsu Hideki | B+R | 2011-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M0SbG8NC6ckZKlrCQNpMeA%3D%3D) | 
-| 第36期名人戦リーグ | Yuki Satoshi | Rin Kanketsu | B+R | 2011-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qzs90MFBcxy2dNkFqWlR0g%3D%3D) | 
-| 第59期王座戦予選 | Kono Rin | Yuki Satoshi | B+R | 2011-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z2OkYmobUcw9nGsWfIxEig%3D%3D) | 
-| 第36期名人戦リーグ | Hane Naoki | Yuki Satoshi | B+R | 2011-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JRHGOQTOgDHPqBE7hKTSrg%3D%3D) | 
-| 第36期名人戦リーグ | Sakai Hideyuki | Yuki Satoshi | W+1.5 | 2011-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9%2FDRmQQfB%2FTSRLtuwX0g2w%3D%3D) | 
-| 第59期王座戦予選 | Otake Hideo | Yuki Satoshi | W+1.5 | 2011-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yffx%2FuQNIu4u7%2FUO61%2BEFw%3D%3D) | 
-| 第67期本因坊戦予選 | Yuki Satoshi | Nakano Yasuhiro | B+R | 2011-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kUaoqfj372HrCvsbxKnQ9g%3D%3D) | 
-| 第36期名人戦リーグ | Takao Shinji | Yuki Satoshi | W+0.5 | 2011-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E0pM1xtAbdd89WjBHD%2FeCw%3D%3D) | 
-| 第12回農心辛ラーメン杯世界囲碁最強戦第12戦 | Choi Cheolhan | Yuki Satoshi | B+R | 2011-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ajBXrrPPHENlD%2FASLTja%2Bg%3D%3D) | 
-| 第36期名人戦リーグ | Cho Chikun | Yuki Satoshi | W+R | 2011-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f5lPgUtzWv77zcngI1%2BVaA%3D%3D) | 
-| 第67期本因坊戦予選 | Yuki Satoshi | Murakawa Daisuke | B+R | 2010-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1BcQoD5oZQBc4zL4KvzDUQ%3D%3D) | 
-| 第55期関西棋院第一位決定戦本戦1回戦 | Kiwada Kazuomi | Yuki Satoshi | W+R | 2010-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KH0Ahf%2F%2F%2FCnIWFeN8vgT9w%3D%3D) | 
-| 2010年アジア競技大会囲碁男子団体戦 | Yuki Satoshi | Xiao Zhenghao | B+1.5 | 2010-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=svFLgHwDfp6hbCx3ZNCSVQ%3D%3D) | 
-| 2010年アジア競技大会囲碁男子団体戦 | Yuki Satoshi | Park Junghwan | W+R | 2010-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0WRNlz5rMhhMuKHOtY07rw%3D%3D) | 
-| 2010年アジア競技大会囲碁男子団体戦 | Xie He | Yuki Satoshi | B+R | 2010-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3bFPcRRWiGtznOE5OWXTRw%3D%3D) | 
-| 第36期天元戦挑戦手合五番勝負第3局 | Yuki Satoshi | Yamashita Keigo | B+2.5 | 2010-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s0uHtm%2FGj5iGBZmP%2F0QLfQ%3D%3D) | 
-| 第36期天元戦挑戦手合五番勝負第2局 | Yamashita Keigo | Yuki Satoshi | W+2.5 | 2010-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FKDLv1fNwCIY2HXsqDfDRQ%3D%3D) | 
-| 第54期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Murakawa Daisuke | Yuki Satoshi | B+0.5 | 2010-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b%2F%2F%2Br12%2Fa76SRWP%2BDGM2Fw%3D%3D) | 
-| 第36期碁聖戦本戦1回戦 | Iyama Yuta | Yuki Satoshi | B+R | 2010-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vy2lbti70VdcGLa12A5BWg%3D%3D) | 
-| 第36期天元戦挑戦手合五番勝負第1局 | Yuki Satoshi | Yamashita Keigo | B+R | 2010-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KM6okOwMYn1vD95mILybOw%3D%3D) | 
-| 第54期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yuki Satoshi | Murakawa Daisuke | W+R | 2010-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tCH5D%2F28pJ7%2Fa%2Bc9FdTv8A%3D%3D) | 
-| 第36期天元戦挑戦者決定戦 | Kim Sujun | Yuki Satoshi | W+4.5 | 2010-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wuvv3zvCnspu8NtI%2Fe8QzQ%3D%3D) | 
-| 第30期NECカップ囲碁トーナメント戦2回戦 | Yuki Satoshi | Yamashita Keigo | W+11.5 | 2010-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BBEqGz8ObJyc5E5SKhKYMg%3D%3D) | 
-| 第36期碁聖戦予選 | Yokota Shigeaki | Yuki Satoshi | W+0.5 | 2010-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P6eaCoakY5fL1VGMcSFL4Q%3D%3D) | 
-| 第35期名人戦リーグ | Yuki Satoshi | Takao Shinji | W+R | 2010-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uY4ZChFygIw%2FLjN2IrC3Fg%3D%3D) | 
-| 第30期NECカップ囲碁トーナメント戦1回戦 | Kobayashi Satoru | Yuki Satoshi | W+2.5 | 2010-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K1wJvw4lnT4TxX9nOKlpKg%3D%3D) | 
-| 第66期本因坊戦予選 | O Rissei | Yuki Satoshi | B+8.5 | 2010-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=36%2BhszTKnVcR1BVYw6xoYA%3D%3D) | 
-| 第35期名人戦リーグ | Yuki Satoshi | Ogata Masaki | W+1.5 | 2010-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bnV2TV0%2BXetEpfxTW8QXEQ%3D%3D) | 
-| 第36期天元戦本戦準決勝 | Yuki Satoshi | Yoda Norimoto | B+4.5 | 2010-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D%2Bna4z8Fncc9JOZcD7%2FywA%3D%3D) | 
-| 第17期阿含・桐山杯全日本早碁オープン戦1回戦 | Yuki Satoshi | Yamashita Keigo | W+R | 2010-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nE0%2FSueFbZr3JDS0oFDBWA%3D%3D) | 
-| 第35期名人戦リーグ | Mizokami Tomochika | Yuki Satoshi | W+3.5 | 2010-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zKF4qHz3OIAHyKaIGmgaQg%3D%3D) | 
-| 第36期天元戦本戦3回戦 | Akiyama Jiro | Yuki Satoshi | W+8.5 | 2010-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hP4tMKbnyi%2FF7D51utveow%3D%3D) | 
-| 第22回テレビアジア選手権決勝 | Yuki Satoshi | Kong Jie | W+R | 2010-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m%2BDKylAfY4JLb94Pwz2%2Fog%3D%3D) | 
-| 第22回テレビアジア選手権準決勝 | Yuki Satoshi | Kang Dongyun | B+R | 2010-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0V00Fl65hMB8ug4GRZYY8g%3D%3D) | 
-| 第22回テレビアジア選手権1回戦 | Chen Yaoye | Yuki Satoshi | W+R | 2010-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qHr6vPiCuSs0Gn48J%2FH7IQ%3D%3D) | 
-| 第35期名人戦リーグ | Cho Chikun | Yuki Satoshi | W+R | 2010-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qpvo1QLA%2B9iyo6PglFpoBA%3D%3D) | 
-| 第36期天元戦本戦2回戦 | Shuto Shun | Yuki Satoshi | W+R | 2010-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y20lW9rTPrlCQJ6r46ny6g%3D%3D) | 
-| 第35期名人戦リーグ | Yuki Satoshi | O Meien | B+R | 2010-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NXb88%2FjXPiCRTLT94NQN4g%3D%3D) | 
-| 第65期本因坊戦リーグ | Yamashita Keigo | Yuki Satoshi | B+R | 2010-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7nLN%2FrkKVGEeEZLeHE%2BHhw%3D%3D) | 
-| 第8回春蘭杯世界囲碁選手権2回戦 | Wang Xi | Yuki Satoshi | B+R | 2010-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l2E8hJl5hdNn4Ix9UZ34Tw%3D%3D) | 
-| 第8回春蘭杯世界囲碁選手権1回戦 | Yuki Satoshi | Lin Zhihan | B+R | 2010-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l1No21Iw5ud3bwbSkKhRDQ%3D%3D) | 
-| 第58期王座戦予選 | Ishida Atsushi | Yuki Satoshi | B+2.5 | 2010-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=59ksUsegRjEmysBRHA6Nsg%3D%3D) | 
-| 第35期碁聖戦本戦3回戦 | Yuki Satoshi | Sakai Hideyuki | W+R | 2010-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QszJm6gH0hxknMuaWVQnHA%3D%3D) | 
-| 第65期本因坊戦リーグ | Iyama Yuta | Yuki Satoshi | B+5.5 | 2010-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=er98wPiBIAvEdNNJ9zypEw%3D%3D) | 
-| 第35期名人戦リーグ | Sakai Hideyuki | Yuki Satoshi | B+R | 2010-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZAK1EcgASE17tgZ9V01GHQ%3D%3D) | 
-| 第49期十段戦予選 | Yuki Satoshi | Oyama Kunio | B+R | 2010-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MsBWGZhoe7PVOJcK1OxQ1w%3D%3D) | 
-| 第36期天元戦本戦1回戦 | Yuki Satoshi | Kono Rin | B+8.5 | 2010-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m2PeiWshcZIHQoXYiV0XJg%3D%3D) | 
-| 第58期王座戦予選 | Yuki Satoshi | Omori Yasushi | B+R | 2010-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cMUnHyDJzoIVd%2B0Czcl%2F%2Fw%3D%3D) | 
-| 第65期本因坊戦リーグ | Takemiya Masaki | Yuki Satoshi | W+10.5 | 2010-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PIv63e8rioUEeehLOJsmmA%3D%3D) | 
-| 第35期名人戦リーグ | Yuki Satoshi | Cho U | B+R | 2010-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ne6RNtGVqEzWXSvBvv1SSQ%3D%3D) | 
-| 第65期本因坊戦リーグ | Yuki Satoshi | Yamada Kimio | W+R | 2010-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6EWKCpRWvaRZJwgo3Kt9WQ%3D%3D) | 
-| 第35期碁聖戦本戦2回戦 | Takei Takashi | Yuki Satoshi | W+3.5 | 2010-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fp4y0dRuyg9l%2BhWuo%2BZg2A%3D%3D) | 
-| 第58期王座戦予選 | Ha Youngil | Yuki Satoshi | W+R | 2009-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z5VorBzpeOTQvPoCnRt1Kg%3D%3D) | 
-| 第65期本因坊戦リーグ | Yuki Satoshi | Mimura Tomoyasu | B+R | 2009-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i11ZygIpkPfjx7W8dl9h4Q%3D%3D) | 
-| 第35期碁聖戦本戦1回戦 | Takao Shinji | Yuki Satoshi | W+R | 2009-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KmepGHq3yLRyUAudQOZ36A%3D%3D) | 
-| 第35期名人戦リーグ | Yamada Kimio | Yuki Satoshi | W+R | 2009-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CDKGRtq2aEA9p3bjLYPuwg%3D%3D) | 
-| 第53期関西棋院第一位決定戦挑戦手合三番勝負第3局 | Yuki Satoshi | Imamura Toshiya | B+R | 2009-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Uxq6o8pzj9CL59W6a2pdeg%3D%3D) | 
-| 第29期NECカップ囲碁トーナメント戦2回戦 | Ko Iso | Yuki Satoshi | B+11.5 | 2009-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8ixsp6BRyB8lnWQzXXdlwQ%3D%3D) | 
-| 第65期本因坊戦リーグ | Takao Shinji | Yuki Satoshi | B+R | 2009-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OA1MFYopiwfKrsGHHdcn1Q%3D%3D) | 
-| 第53期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Imamura Toshiya | Yuki Satoshi | B+R | 2009-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rWMirkNoNi2VfanZcVKoDQ%3D%3D) | 
-| 第35期名人戦予選 | Yuki Satoshi | Hane Naoki | B+4.5 | 2009-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oDjMYYQ9fwraMKQd7sn%2FPA%3D%3D) | 
-| 第65期本因坊戦リーグ | Yuki Satoshi | Cho U | W+R | 2009-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BHHr69X5nhaKZT%2BQMBm0fA%3D%3D) | 
-| 第53期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yuki Satoshi | Imamura Toshiya | B+R | 2009-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C50xD5dOMMNBaFQlhtWOHA%3D%3D) | 
-| 第35期名人戦予選 | Yuki Satoshi | Tsuruyama Atsushi | B+5.5 | 2009-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W0MG8OiKRXBq%2FWlQ3xxHyQ%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ1回戦A3 | Yuki Satoshi | Qiu Jun | W+R | 2009-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vt1mk9o4BIBQ5ID5Vy9Cjg%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ1回戦A2 | Yamashita Keigo | Yuki Satoshi | B+R | 2009-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MEbMDtxKvjS0S9HbDEAdUg%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ1回戦A1 | Yuki Satoshi | Qiu Jun | B+R | 2009-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G1ji8He%2BqM7muOQPoLuMSw%3D%3D) | 
-| 第65期本因坊戦予選 | Yuki Satoshi | Oya Koichi | B+R | 2009-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jximAgXZsJxPlJA9gGQfww%3D%3D) | 
-| 第34期碁聖戦挑戦手合五番勝負第3局 | Cho U | Yuki Satoshi | B+1.5 | 2009-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GEW2PHPLV2cxuSGeCcXfyQ%3D%3D) | 
-| 第34期碁聖戦挑戦手合五番勝負第2局 | Yuki Satoshi | Cho U | W+13.5 | 2009-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0ZKakoHjc6hQqqUQrsVWFg%3D%3D) | 
-| 第29期NECカップ囲碁トーナメント戦1回戦 | Takao Shinji | Yuki Satoshi | W+0.5 | 2009-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U47RupaMhc0KA8zks9RSwA%3D%3D) | 
-| 第34期碁聖戦挑戦手合五番勝負第1局 | Cho U | Yuki Satoshi | B+R | 2009-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PcfIBKWU18fzWsfQvmEUQA%3D%3D) | 
-| 第21回テレビアジア選手権1回戦 | Yuki Satoshi | Lee Changho | W+R | 2009-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DJWylzmWIt2cn19OurSGVg%3D%3D) | 
-| 第34期碁聖戦挑戦者決定戦 | Yuki Satoshi | Iyama Yuta | B+1.5 | 2009-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LapqcNUAwKLwBQf3Mq3PFA%3D%3D) | 
-| 第16期阿含・桐山杯全日本早碁オープン戦予選 | Yuki Satoshi | Kato Atsushi | W+R | 2009-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gPwTdOjts2X%2Bb%2Bj6ut%2Fyeg%3D%3D) | 
-| 第34期碁聖戦本戦準決勝 | Yuki Satoshi | Takemiya Masaki | B+4.5 | 2009-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DEb3Hk6LmrXlmFvf68DDUQ%3D%3D) | 
-| 第34期碁聖戦本戦3回戦 | So Yokoku | Yuki Satoshi | W+R | 2009-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EcP6pYuq3gdJ0EdjAfhTzQ%3D%3D) | 
-| 第35期名人戦予選 | Kiyonari Tetsuya | Yuki Satoshi | W+R | 2009-03-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2vSBsBzFwFYxUd6MioBKOw%3D%3D) | 
-| 第34期碁聖戦本戦2回戦 | Yuki Satoshi | O Meien | B+R | 2009-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qIl4PyOhQSXadi26QiFDWw%3D%3D) | 
-| 第34期棋聖戦予選 | Yuki Satoshi | Akiyama Jiro | W+R | 2009-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SJ6i9jka2%2Fqctd76rPt5Ew%3D%3D) | 
-| 第57期王座戦予選 | Yuki Satoshi | Takemiya Masaki | W+1.5 | 2009-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IJ%2FXgGwVlH%2Bhbulym3ZxgQ%3D%3D) | 
-| 第34期棋聖戦予選 | Yuki Satoshi | O Meien | B+R | 2009-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9QOMn1v1gG%2BGnaG94THa9w%3D%3D) | 
-| 第35期天元戦本戦1回戦 | Yuki Satoshi | Yamashita Keigo | W+2.5 | 2008-12-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qe3bCglnYVo3nDEvU9Vb7A%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯国内予選 | Kudo Norio | Yuki Satoshi | B+R | 2008-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pZiIeDF%2FoEwiUAiZNwmCVg%3D%3D) | 
-| 第52期関西棋院第一位決定戦挑戦手合三番勝負第3局 | Yuki Satoshi | Kiyonari Tetsuya | B+R | 2008-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0TGIjuSDGAGnxIVNjwuVAw%3D%3D) | 
-| 第34期碁聖戦本戦1回戦 | Yuki Satoshi | Morita Michihiro | B+R | 2008-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lfxfgjL%2BQpqKFrG2BX8NoQ%3D%3D) | 
-| 第52期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Kiyonari Tetsuya | Yuki Satoshi | B+R | 2008-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UYBm4rMyo7YsWGnXhoRjHw%3D%3D) | 
-| 第52期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yuki Satoshi | Kiyonari Tetsuya | B+R | 2008-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FxwxkvJwnWQtc9vafI548A%3D%3D) | 
-| 第34期碁聖戦予選 | Yamada Noriyoshi | Yuki Satoshi | W+11.5 | 2008-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U20duGT28f%2BaBPYNtWyBxg%3D%3D) | 
-| 第33期棋聖戦Aリーグ | Yuki Satoshi | Takao Shinji | B+2.5 | 2008-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I%2Bwe%2F5fFP5VhDe2zXXowGw%3D%3D) | 
-| 第15期阿含・桐山杯全日本早碁オープン戦準決勝 | Yuki Satoshi | Cho U | W+R | 2008-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iY1s7Ti0owDfBC9t9ujEWw%3D%3D) | 
-| 第33期棋聖戦Aリーグ | Kataoka Satoshi | Yuki Satoshi | B+R | 2008-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9iKPUMI%2BUa5HFDOxoHX5yg%3D%3D) | 
-| 第48期十段戦予選 | Aragaki Shun | Yuki Satoshi | B+4.5 | 2008-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oSVYQUK6ne5RU8G7iGjb6A%3D%3D) | 
-| 第33期棋聖戦Aリーグ | Cho Chikun | Yuki Satoshi | W+0.5 | 2008-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yzXA2v%2FjBlbRa%2BZkwipI8g%3D%3D) | 
-| 第33期棋聖戦Aリーグ | Yuki Satoshi | O Rissei | W+R | 2008-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yOWutLixQCdw5rdqnR1NWw%3D%3D) | 
-| 第15期阿含・桐山杯全日本早碁オープン戦2回戦 | Yuki Satoshi | Yamada Kimio | B+1.5 | 2008-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=32x6r53MvT%2FiUnYcIbsjWA%3D%3D) | 
-| 第34期名人戦予選 | Yuki Satoshi | Ha Youngil | W+1.5 | 2008-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a3lPxxv%2FswWeJdljAK8kog%3D%3D) | 
-| 第56期王座戦準決勝 | Cho U | Yuki Satoshi | B+R | 2008-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qYDUwLQNQKqOB1ynOXZN7Q%3D%3D) | 
-| 第15期阿含・桐山杯全日本早碁オープン戦1回戦 | Yuki Satoshi | Kobayashi Koichi | B+R | 2008-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m9G%2FTgZ%2FTo9Y0%2FP%2BJiHUxA%3D%3D) | 
-| 第33期棋聖戦Aリーグ | Iyama Yuta | Yuki Satoshi | B+7.5 | 2008-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2nqgWE4CkG6EkD9qbh0QyA%3D%3D) | 
-| 第64期本因坊戦予選 | Nakaonoda Tomomi | Yuki Satoshi | B+R | 2008-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=un5WdFapZDf%2FuZ4c1oZKtA%3D%3D) | 
-| 第34期天元戦本戦2回戦 | Yamashita Keigo | Yuki Satoshi | B+R | 2008-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SzKwCZIzjD4WxWIySFz1ew%3D%3D) | 
-| 第56期王座戦2回戦 | Yuki Satoshi | Takao Shinji | B+0.5 | 2008-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=djUwRe16%2Fu2Frh2pzpG3Vw%3D%3D) | 
-| 第56期王座戦1回戦 | Cho Chikun | Yuki Satoshi | W+R | 2008-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y%2Fcd3FA30C46ZkpNIOFsWw%3D%3D) | 
-| 第33期棋聖戦予選 | Yuki Satoshi | Yamashiro Hiroshi | B+R | 2008-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Aac602M8MDsDoj1NDUBxZQ%3D%3D) | 
-| 第33期碁聖戦本戦3回戦 | Yuki Satoshi | Takao Shinji | W+R | 2008-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kJoLFz4Jg7C04uRk4JK%2B9g%3D%3D) | 
-| 第56期王座戦予選 | Yuki Satoshi | So Yokoku | B+R | 2008-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uBW2%2FqzkeNmIYL4k9LOVyQ%3D%3D) | 
-| 第33期碁聖戦本戦2回戦 | Yuki Satoshi | Kobayashi Koichi | B+R | 2008-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tz35p2cAr3pwPKetKT1SFg%3D%3D) | 
-| 第34期天元戦本戦1回戦 | Yuki Satoshi | Ogata Masaki | B+R | 2008-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=76W21WcKRrVVmCxxmEPKJA%3D%3D) | 
-| 第51期関西棋院第一位決定戦挑戦手合三番勝負第3局 | Yuki Satoshi | Sakai Hideyuki | B+4.5 | 2007-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ktk%2BuPK8KgAWyzM2exlKhA%3D%3D) | 
-| 第51期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Sakai Hideyuki | Yuki Satoshi | W+R | 2007-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BXmEziqHSz6W8E%2BmeULIDQ%3D%3D) | 
-| 第33期碁聖戦本戦1回戦 | Yuki Satoshi | Mimura Tomoyasu | B+1.5 | 2007-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JNkqBclfMBAGdzJgBzvWPw%3D%3D) | 
-| 第51期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yuki Satoshi | Sakai Hideyuki | W+3.5 | 2007-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6jw0cD0TGXc%2FGuMc8OUtRQ%3D%3D) | 
-| 第14期阿含・桐山杯全日本早碁オープン戦1回戦 | Takao Shinji | Yuki Satoshi | B+R | 2007-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mj2ZMU6NRCx3d1%2F%2BX8311w%3D%3D) | 
-| 第33期天元戦本戦3回戦 | Yuki Satoshi | Yamashita Keigo | W+R | 2007-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=reK%2F2wutH83ovuZEfNaX%2BA%3D%3D) | 
-| 第19回テレビアジア選手権1回戦 | Yuki Satoshi | Lee Sedol | W+7.5 | 2007-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zX21YSKJUUXPH1pYSe6eeA%3D%3D) | 
-| 第33期天元戦本戦2回戦 | Yamada Noriyoshi | Yuki Satoshi | W+R | 2007-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XVIc%2BbuHpacKQ5o9utHNlQ%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯1回戦 | Yuki Satoshi | Hu Yaoyu | W+R | 2007-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QT2Hi%2Bxkhi09snhHFl8%2BOQ%3D%3D) | 
-| 第55期王座戦予選 | So Yokoku | Yuki Satoshi | B+0.5 | 2007-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FPeq7vLlfDas2j6tFhDaDg%3D%3D) | 
-| 第33期天元戦本戦1回戦 | Yuki Satoshi | Hane Naoki | B+2.5 | 2007-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yKo2B1M9to3WNPw00zT3vg%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯国内予選決勝 | Cho Chikun | Yuki Satoshi | W+R | 2007-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hg%2FPnp%2B2wHdLAFXrtt6ySA%3D%3D) | 
-| 第32期碁聖戦本戦2回戦 | Yuki Satoshi | Kono Rin | W+R | 2007-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iWwfr8ZCKUsipW16txlL9w%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯国内予選 | Yuki Satoshi | Hane Naoki | B+0.5 | 2006-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QrKNtnzSZa2dYbV2BC7uqw%3D%3D) | 
-| 第32期碁聖戦本戦1回戦 | Yuki Satoshi | Tsuruyama Atsushi | B+2.5 | 2006-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VRm43bppMtI9CCJXzEyzzQ%3D%3D) | 
-| 第50期関西棋院第一位決定戦本戦決勝三番勝負第2局 | Yata Naoki | Yuki Satoshi | W+R | 2006-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2TPltDs3L4nusACpsILIzg%3D%3D) | 
-| 第50期関西棋院第一位決定戦本戦決勝三番勝負第1局 | Yuki Satoshi | Yata Naoki | B+8.5 | 2006-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YX5h4ly5vccUApJYLCCwxg%3D%3D) | 
-| 第31期棋聖戦Bリーグ | Kato Atsushi | Yuki Satoshi | B+2.5 | 2006-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zEP9nHzM80dURAVFqfie3g%3D%3D) | 
-| 第31期棋聖戦Bリーグ | Yuki Satoshi | Kobayashi Satoru | W+2.5 | 2006-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m0zKq2G3eN%2FM8weAApC8ag%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Yuki Satoshi | Lee Sedol | W+R | 2006-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kbvo3DS3fhqM4LpK1pLCSg%3D%3D) | 
-| 第13期阿含・桐山杯全日本早碁オープン戦準決勝 | Cho U | Yuki Satoshi | B+R | 2006-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2pK7qabPRXnULBzdwE%2B%2FSw%3D%3D) | 
-| 第31期棋聖戦Bリーグ | Yuki Satoshi | Imamura Toshiya | W+R | 2006-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QkIytfHgD5s4uQpwR%2F1pGw%3D%3D) | 
-| 第13期阿含・桐山杯全日本早碁オープン戦2回戦 | Yuki Satoshi | Kono Rin | B+R | 2006-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GzNvaiB8CRrqovhANorHsg%3D%3D) | 
-| 第31期棋聖戦Bリーグ | Yuki Satoshi | O Rissei | W+0.5 | 2006-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gKZX0NOPQQ%2FDnwScIbNUcQ%3D%3D) | 
-| 第13期阿含・桐山杯全日本早碁オープン戦1回戦 | Yuki Satoshi | Ryu Shikun | B+9.5 | 2006-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0ta0btbocYyel%2B3MjC7tPA%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Yuki Satoshi | Cho Chikun | B+2.5 | 2006-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZbTFJ6BDdXQ1I0f2aM1ukw%3D%3D) | 
-| 第31期棋聖戦Bリーグ | Cho Chikun | Yuki Satoshi | W+R | 2006-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gKTYsiTLUG0oJAXnooB4PQ%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯3回戦 | Yuki Satoshi | Choi Cheolhan | W+R | 2006-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xkByO9Nh8nxNtpKeXSoAeA%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第3戦 | Chen Shiyuan | Yuki Satoshi | W+4.5 | 2006-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rhn%2F%2BUC9xJDpujkBziJHbg%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第2戦 | Yuki Satoshi | Xie He | W+1.5 | 2006-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tm4yPPTr2OtqrYIQF2XXAQ%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第1戦 | Yuki Satoshi | Ko Keuntae | W+R | 2006-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jD2KOLPd3Bvz47G87JMF6g%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯2回戦 | Yuki Satoshi | Gu Li | B+R | 2006-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LdEO1T0zH8Ah7Z8LDH4CAw%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯1回戦 | Yu Bin | Yuki Satoshi | W+R | 2006-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WRTjoNrVB2MI1PWhOqRgnQ%3D%3D) | 
-| 第6回春蘭杯世界囲碁選手権2回戦 | Yuki Satoshi | Chang Hao | W+R | 2006-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ph6ZaFwH6TQonBPeWKSv2A%3D%3D) | 
-| 第6回春蘭杯世界囲碁選手権1回戦 | Zhou Junxun | Yuki Satoshi | W+R | 2006-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wBFH7Xa3y8%2BVZJGFkqSXpw%3D%3D) | 
-| 第31期碁聖戦本戦3回戦 | Yuki Satoshi | Ryu Shikun | W+R | 2006-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HV%2BM%2BStjmQwwvBI2pRROXg%3D%3D) | 
-| 第32期天元戦本戦1回戦 | Takao Shinji | Yuki Satoshi | B+R | 2006-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NGbBPXDMRNrAxjSOqqPTtA%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯国内予選決勝 | Rin Kaiho | Yuki Satoshi | W+R | 2006-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x4owMSpfx3Q1hal5kxk6fw%3D%3D) | 
-| 第54期王座戦予選 | Michael Redmond | Yuki Satoshi | B+R | 2005-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7V2gd%2BoitHyWHp5iejprXg%3D%3D) | 
-| 第31期碁聖戦本戦2回戦 | Hane Naoki | Yuki Satoshi | W+R | 2005-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N2E1VbE6vOu7R%2FgE5ow1cQ%3D%3D) | 
-| 第31期碁聖戦本戦1回戦 | Yamada Kimio | Yuki Satoshi | W+R | 2005-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UApZEDWRJkR3GfyLm27Bdg%3D%3D) | 
-| 第30期棋聖戦挑戦者決定戦 | Yamashita Keigo | Yuki Satoshi | B+3.5 | 2005-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8n3iRdi99xJgpggqd7GI8Q%3D%3D) | 
-| 第30期棋聖戦Aリーグ | Yuki Satoshi | Kato Atsushi | B+8.5 | 2005-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V31lawghEJmB%2BmzDgVHpyQ%3D%3D) | 
-| 第30期棋聖戦Aリーグ | Honda Kunihisa | Yuki Satoshi | W+R | 2005-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xyaUrHeZ%2Bxx%2B%2BvDvY8zIOw%3D%3D) | 
-| 第61期本因坊戦予選 | Kobayashi Satoru | Yuki Satoshi | B+R | 2005-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u1YMN1ghz0OtDRKFJ5SKtQ%3D%3D) | 
-| 第30期棋聖戦Aリーグ | Cho U | Yuki Satoshi | W+R | 2005-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qjr8aVvPyqiLLHLWehXj7A%3D%3D) | 
-| 第30期碁聖戦挑戦手合五番勝負第3局 | Yoda Norimoto | Yuki Satoshi | B+R | 2005-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x1WVfdgWeTZNKOPBHg5uLQ%3D%3D) | 
-| 第30期棋聖戦Aリーグ | Yuki Satoshi | Yoda Norimoto | B+6.5 | 2005-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YzG5QYbOK0LefY%2BHWJb4nQ%3D%3D) | 
-| 第30期碁聖戦挑戦手合五番勝負第2局 | Yuki Satoshi | Yoda Norimoto | W+R | 2005-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xdV%2Fur4ruyfDyZa8V2yEtA%3D%3D) | 
-| 第30期碁聖戦挑戦手合五番勝負第1局 | Yoda Norimoto | Yuki Satoshi | B+R | 2005-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dOKB3xBAIn8MTtZuCnXE1A%3D%3D) | 
-| 第30期棋聖戦Aリーグ | Yuki Satoshi | Mimura Tomoyasu | B+R | 2005-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qgalKJx%2F1XTDeBPwDz0cBA%3D%3D) | 
-| 第53期王座戦1回戦 | Yuki Satoshi | O Rissei | W+R | 2005-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rxFEMQypQ%2B0BQTPtUKmbpA%3D%3D) | 
-| 第30期碁聖戦挑戦者決定戦 | Hane Naoki | Yuki Satoshi | W+R | 2005-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bOidd0B2cmzt6D58Qd6c5w%3D%3D) | 
-| 第30期碁聖戦本戦準決勝 | Cho Chikun | Yuki Satoshi | W+R | 2005-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G86AkZwC%2FPTz5CyZeP9rqw%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第3戦 | Yuki Satoshi | Rin Kaiho | B+5.5 | 2005-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=du3vibln31lu1byWWO%2FlSw%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第2戦 | Yuki Satoshi | Kim Seonryong | B+R | 2005-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vv%2FNcrGn6STyurwMrBw2%2Bg%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第1戦 | Yuki Satoshi | Hu Yaoyu | B+R | 2005-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gXTs1gtXF5PKHKrWj1A28Q%3D%3D) | 
-| 第53期王座戦予選 | Yuki Satoshi | Takao Shinji | B+R | 2005-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L73ITXyFSvTHnTt6Lk%2BEBw%3D%3D) | 
-| 第18回世界囲碁選手権富士通杯2回戦 | Yuki Satoshi | Yoo Changhyuk | W+R | 2005-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FpQZxUhrYOmo9FczAaiFyA%3D%3D) | 
-| 第18回世界囲碁選手権富士通杯1回戦 | Yuki Satoshi | missing | B+R | 2005-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=35wuX%2FzN74wpknUNLMwdiA%3D%3D) | 
-| 第29期棋聖戦挑戦手合七番勝負第7局 | Hane Naoki | Yuki Satoshi | B+4.5 | 2005-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=41Ocq%2FljCrreqxTy113sOA%3D%3D) | 
-| 第29期棋聖戦挑戦手合七番勝負第6局 | Hane Naoki | Yuki Satoshi | B+6.5 | 2005-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tA0kLszaAi%2BFca%2FyXEFimA%3D%3D) | 
-| 第30期碁聖戦本戦3回戦 | Takanashi Seiken | Yuki Satoshi | W+R | 2005-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2CmA9T%2F%2B1mmpfw8fAxjtdA%3D%3D) | 
-| 第29期棋聖戦挑戦手合七番勝負第5局 | Yuki Satoshi | Hane Naoki | B+R | 2005-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GVl%2BsWUcg%2BVAfwXjrVzkmA%3D%3D) | 
-| 第29期棋聖戦挑戦手合七番勝負第4局 | Hane Naoki | Yuki Satoshi | W+R | 2005-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CoeZ%2BQM7mmU4SEPIbawJxQ%3D%3D) | 
-| 第18回世界囲碁選手権富士通杯国内予選決勝 | Yuki Satoshi | Mimura Tomoyasu | B+2.5 | 2005-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cEOCQTDhEstdpRD%2Bxou7FA%3D%3D) | 
-| 第29期棋聖戦挑戦手合七番勝負第3局 | Yuki Satoshi | Hane Naoki | W+1.5 | 2005-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2nrHFpBWbFVUbUYTxnI2vg%3D%3D) | 
-| 第29期棋聖戦挑戦手合七番勝負第2局 | Hane Naoki | Yuki Satoshi | W+R | 2005-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YAsrEStZap2uoLu84NCiCA%3D%3D) | 
-| 第30期碁聖戦本戦2回戦 | Yuki Satoshi | Yamashiro Hiroshi | B+R | 2005-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xsNgczXmM1L6DZ6GkPGI0Q%3D%3D) | 
-| 第29期棋聖戦挑戦手合七番勝負第1局 | Yuki Satoshi | Hane Naoki | W+R | 2005-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i1U%2FMZWqCPG12sdPPUW4Qw%3D%3D) | 
-| 第30期碁聖戦本戦1回戦 | Ishikura Noboru | Yuki Satoshi | W+6.5 | 2004-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MY9HftRse2Qi51bb6RGo5g%3D%3D) | 
-| 第31期天元戦本戦1回戦 | Kato Masao | Yuki Satoshi | B+R | 2004-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YPe0OK3X87N7wX1hC%2BwAMA%3D%3D) | 
-| 第29期棋聖戦挑戦者決定戦 | Yuki Satoshi | Yamashita Keigo | B+6.5 | 2004-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=po9vLg7hqNR0TjbLUUVCIQ%3D%3D) | 
-| 第29期棋聖戦Bリーグ | Yuki Satoshi | Cho U | B+R | 2004-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bq%2BTQJ4H36YcSySMlGMPBQ%3D%3D) | 
-| 第29期棋聖戦Bリーグ | Yuki Satoshi | Cho Chikun | B+R | 2004-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=refVSkeOs%2B8yoJ4IeiqEAg%3D%3D) | 
-| 第2期トヨタ＆デンソー杯囲碁世界王座戦3回戦 | Choi Cheolhan | Yuki Satoshi | B+2.5 | 2004-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6HPYIQX96JIlG4rNNfdtew%3D%3D) | 
-| 第2期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Wang Lei (b) | Yuki Satoshi | W+R | 2004-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m0LB8jmKOpTkkdmswulUFA%3D%3D) | 
-| 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Cho Hunhyun | Yuki Satoshi | W+R | 2004-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KNnUNEBPtvDNM3Y%2BJqtCkw%3D%3D) | 
-| 第29期棋聖戦Bリーグ | Yuki Satoshi | Kobayashi Satoru | B+1.5 | 2004-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ESgIvkekVlQErEiEsfB3WQ%3D%3D) | 
-| 第2期トヨタ＆デンソー杯囲碁世界王座戦日本予選決勝 | Yuki Satoshi | Nakamura Shinya | B+R | 2004-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KoX6zouvClAmSfZOwBl0LQ%3D%3D) | 
-| 第29期棋聖戦Bリーグ | Imamura Yoshiaki | Yuki Satoshi | W+11.5 | 2004-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=54GgXzhpajKUM%2FV9SsIAiw%3D%3D) | 
-| 第52期王座戦2回戦 | Yamashita Keigo | Yuki Satoshi | B+R | 2004-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3dokCsRyNeIYEmt4JPzuyg%3D%3D) | 
-| 第2期JALスーパー早碁2回戦 | Cho Chikun | Yuki Satoshi | B+R | 2004-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z%2FO%2FPAMt7tn3f0ZMBCmuDA%3D%3D) | 
-| 第29期棋聖戦Bリーグ | O Rissei | Yuki Satoshi | B+0.5 | 2004-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mlmYEPDRligUIObnbeF0HQ%3D%3D) | 
-| 第52期王座戦1回戦 | Rin Kaiho | Yuki Satoshi | W+3.5 | 2004-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=khOtrTAf6HI%2FDJ2OpeFUAw%3D%3D) | 
-| 第29期棋聖戦予選 | Takemiya Masaki | Yuki Satoshi | W+5.5 | 2004-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zG1FeRCeeseVbVpuaz9blw%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯1回戦 | Yuki Satoshi | Park Yeonghun | W+1.5 | 2004-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xpknVfDZnpni1Be3mJCkUA%3D%3D) | 
-| 第3回CSK杯囲碁アジア対抗戦第3戦 | O Meien | Yuki Satoshi | W+0.5 | 2004-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RYveuIpmCYb2bjocNQRAfA%3D%3D) | 
-| 第3回CSK杯囲碁アジア対抗戦第2戦 | Lee Changho | Yuki Satoshi | B+R | 2004-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WMYXMVMzP5iGmZembbmLXw%3D%3D) | 
-| 第3回CSK杯囲碁アジア対抗戦第1戦 | Ding Wei | Yuki Satoshi | W+R | 2004-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iuXJf3vaR5jJHVVDzdSQUw%3D%3D) | 
-| 第29期碁聖戦本戦3回戦 | Yuki Satoshi | O Rissei | W+R | 2004-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fykTnNL4get%2Fv515ebAw6Q%3D%3D) | 
-| 第29期碁聖戦本戦2回戦 | Yuki Satoshi | Hikosaka Naoto | B+R | 2004-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fXAd7hMzs5%2BjOmY%2BbaRT2g%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯国内予選決勝 | Yuki Satoshi | Kataoka Satoshi | B+R | 2004-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GgbBJHer4aT39sv2HTNPTQ%3D%3D) | 
-| 第29期碁聖戦本戦1回戦 | O Meien | Yuki Satoshi | W+R | 2004-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cnQzCByVOCoHRenZ1zB0gQ%3D%3D) | 
-| 第52期王座戦予選 | Yuki Satoshi | Cho Sonjin | B+R | 2004-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4gmgqGJ7nBlnav70D3hSag%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権2回戦 | Yuki Satoshi | Gu Li | W+R | 2003-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8wAhKdngS%2FyE6KJq9B7FJw%3D%3D) | 
-| 第1期JALスーパー早碁決勝 | Cho U | Yuki Satoshi | W+5.5 | 2003-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EKLQuxAHfb02Dba7mfrWwQ%3D%3D) | 
-| 第1期JALスーパー早碁準決勝 | Yuki Satoshi | Kobayashi Koichi | B+R | 2003-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mgWPqCwlAxGMZKX%2FQII2bg%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯国内予選 | Sakai Hideyuki | Yuki Satoshi | W+R | 2003-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x73HcyB6QycunoP7aRy%2Fng%3D%3D) | 
-| 第1期JALスーパー早碁2回戦 | Yamashita Keigo | Yuki Satoshi | W+R | 2003-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xMu%2BPneRcCpAjWfNNfdITg%3D%3D) | 
-| 第51期王座戦2回戦 | Yuki Satoshi | Takao Shinji | W+R | 2003-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XvnHmLfPefXVtmnx5jzy0A%3D%3D) | 
-| 第29期碁聖戦予選 | Yamada Noriyoshi | Yuki Satoshi | W+R | 2003-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hpo%2BFb%2BZKzoyLZLA14YSmQ%3D%3D) | 
-| 第1期JALスーパー早碁1回戦 | Yuki Satoshi | O Meien | B+R | 2003-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FPSeNO6WhvM8sfaP63JK1w%3D%3D) | 
-| 第29期天元戦本戦2回戦 | Yuki Satoshi | Kono Rin | W+2.5 | 2003-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qhSHk3iMg2Z5Pf9mtzAg8g%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第3戦 | Yuki Satoshi | Ding Wei | B+R | 2003-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nMuGGsf%2F9MJFUcC2SwOO6g%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第2戦 | Yuki Satoshi | Song Taekon | B+R | 2003-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=deB3XF4dNwAGPuMyp5oQ6w%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第1戦 | Huang Xiangren | Yuki Satoshi | W+R | 2003-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5sWBgYu%2BQv5tmrDNKpw4gg%3D%3D) | 
-| 第51期王座戦1回戦 | Ogata Masaki | Yuki Satoshi | W+R | 2003-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t7tmdeGI%2Fltm3xJeVuv7Pg%3D%3D) | 
-| 第29期天元戦本戦1回戦 | Yuki Satoshi | Omori Yasushi | B+R | 2003-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3LB%2FTj0Wn%2By3%2BecZ452zDA%3D%3D) | 
-| 第28期碁聖戦本戦1回戦 | Otake Hideo | Yuki Satoshi | B+R | 2003-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W8RInoCCvQl%2FpUVzKS4G8g%3D%3D) | 
-| 第4回春蘭杯世界囲碁選手権3回戦 | Luo Xihe | Yuki Satoshi | B+1.5 | 2002-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XUivw8XwSQZv6dK%2Bp5HkKg%3D%3D) | 
-| 第4回春蘭杯世界囲碁選手権2回戦 | Ma Xiaochun | Yuki Satoshi | W+4.5 | 2002-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rrRgGiTkF6bKwBrOBjw%2F0Q%3D%3D) | 
-| 第4回春蘭杯世界囲碁選手権1回戦 | Lee Sedol | Yuki Satoshi | W+8.5 | 2002-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=meWgd%2FsGcMf2WJyi4xaqYA%3D%3D) | 
-| 2000年国際新鋭囲碁対抗戦第3戦 | Yuki Satoshi | Gu Li | W+R | 2000-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vb8cEqEY2QekA8qYtmQimQ%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-17 | 第46期棋聖戦Cリーグ | Yuki Satoshi | Ishida Yoshio | Win | B+7.5 | 6.5 | 2945 | 3 | 
+| 2021-05-27 | 第46期棋聖戦Cリーグ | Yuki Satoshi | Cho Riyu | Win | B+9.5 | 6.5 | 2942 | 7 | 
+| 2021-05-13 | 第60期十段戦予選 | Yuki Satoshi | Nishi Takenobu | Win | B+2.5 | 6.5 | 2935 | -9 | 
+| 2021-04-21 | 第60期十段戦予選 | Yuki Satoshi | Yokota Shigeaki | Win | B+R | 6.5 | 2944 | -4 | 
+| 2021-04-07 | 第60期十段戦予選 | Aragaki Shun | Yuki Satoshi | Win | W+R | 6.5 | 2948 | -16 | 
+| 2021-04-01 | 第69期王座戦予選 | Ogaki Yusaku | Yuki Satoshi | Win | W+1.5 | 6.5 | 2964 | 0 | 
+| 2021-03-11 | 第65期関西棋院第一位決定戦本戦3回戦 | Hoshikawa Koyo | Yuki Satoshi | Lose | B+6.5 | 6.5 | 2964 | 7 | 
+| 2021-03-04 | 第77期本因坊戦予選 | Kiyonari Tetsuya | Yuki Satoshi | Win | W+3.5 | 6.5 | 2957 | 1 | 
+| 2021-02-17 | 第77期本因坊戦予選 | Yuki Satoshi | Hoshikawa Takumi | Win | B+R | 6.5 | 2956 | -177 | 
+| 2021-01-20 | 第77期本因坊戦予選 |  | Yuki Satoshi | Win | W+6.5 | 6.5 | 3133 | 13 | 
+| 2020-12-03 | 第65期関西棋院第一位決定戦本戦2回戦 | Yuki Satoshi | Yokota Shigeaki | Win | B+R | 6.5 | 3120 | 37 | 
+| 2020-11-05 | 第47期天元戦予選 | Seto Taiki | Yuki Satoshi | Lose | B+R | 6.5 | 3083 | -24 | 
+| 2020-10-29 | 第65期関西棋院第一位決定戦本戦1回戦 | Yuki Satoshi | Yahata Naoki | Win | B+R | 6.5 | 3107 | 9 | 
+| 2020-10-22 | 第47期天元戦予選 | Yuki Satoshi |  | Win | B+6.5 | 6.5 | 3098 | 0 | 
+| 2020-10-15 | 第46期碁聖戦予選 |  | Yuki Satoshi | Lose | B+R | 6.5 | 3098 | -113 | 
+| 2020-10-07 | 第47期天元戦予選 | Saito Tadashi | Yuki Satoshi | Win | W+8.5 | 6.5 | 3211 | 61 | 
+| 2020-09-30 | 第46期碁聖戦予選 | Yuki Satoshi | Muraoka Shigeyuki | Win | B+R | 6.5 | 3150 | 65 | 
+| 2020-09-17 | 第45期棋聖戦Cリーグ | Uchida Shuhei | Yuki Satoshi | Lose | B+R | 6.5 | 3085 | -57 | 
+| 2020-09-10 | 第46期名人戦予選 | Yuki Satoshi | Nakano Yasuhiro | Lose | W+R | 6.5 | 3142 | -27 | 
+| 2020-08-27 | 第59期十段戦予選 | Yuki Satoshi | Hsu Chiayuan | Lose | W+R | 6.5 | 3169 | -25 | 
+| 2020-08-21 | 第45期棋聖戦Cリーグ | Yuki Satoshi |  | Win | B+1.5 | 6.5 | 3194 | 64 | 
+| 2020-08-17 | 第59期十段戦予選 | Yuki Satoshi | Mutsuura Yuta | Win | B+0.5 | 6.5 | 3130 | 195 | 
+| 2020-08-05 | 第46期名人戦予選 | Yata Naoki | Yuki Satoshi | Win | W+R | 6.5 | 2935 | -15 | 
+| 2020-07-27 | 第68期王座戦2回戦 | Hsu Chiayuan | Yuki Satoshi | Lose | B+R | 6.5 | 2950 | 72 | 
+| 2020-07-23 | 第45期棋聖戦Cリーグ | Ida Atsushi | Yuki Satoshi | Win | W+R | 6.5 | 2878 | 69 | 
+| 2020-07-16 | 第64期関西棋院第一位決定戦本戦3回戦 | Yuki Satoshi | Hara Masakazu | Lose | W+R | 6.5 | 2809 | -72 | 
+| 2020-07-08 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Yuki Satoshi | Hsu Chiayuan | Lose | W+R | 6.5 | 2881 | 14 | 
+| 2020-06-18 | 第45期棋聖戦Cリーグ | Yuki Satoshi | Sun Zhe | Lose | W+R | 6.5 | 2867 | 15 | 
+| 2020-06-11 | 第68期王座戦1回戦 | Takao Shinji | Yuki Satoshi | Win | W+R | 6.5 | 2852 | 101 | 
+| 2020-06-04 | 第64期関西棋院第一位決定戦本戦2回戦 | Sato Yuta | Yuki Satoshi | Win | W+R | 6.5 | 2751 | 59 | 
+| 2020-04-02 | 第45期棋聖戦Cリーグ | Yuki Satoshi | Numadate Sakiya | Win | B+R | 6.5 | 2692 | 32 | 
+| 2020-03-18 | 第59期十段戦予選 | Yuki Satoshi | Hasegawa Sunao | Win | B+7.5 | 6.5 | 2660 | -48 | 
+| 2020-03-11 | 第76期本因坊戦予選 | Taniguchi Tooru | Yuki Satoshi | Lose | B+R | 6.5 | 2708 | 16 | 
+| 2020-02-19 | 第76期本因坊戦予選A準決勝 | Sonoda Yuichi | Yuki Satoshi | Win | W+R | 6.5 | 2692 | -147 | 
+| 2020-02-13 | 第68期王座戦予選 | Kobayashi Satoru | Yuki Satoshi | Win | W+R | 6.5 | 2839 | -103 | 
+| 2020-01-29 | 第76期本因坊戦予選A | Yuki Satoshi | Aragaki Shun | Win | B+R | 6.5 | 2942 | 7 | 
+| 2020-01-15 | 第59期十段戦予選A | Kurahashi Masayuki | Yuki Satoshi | Win | W+R | 6.5 | 2935 | 220 | 
+| 2019-10-10 | 第45期碁聖戦予選 | Nishi Takenobu | Yuki Satoshi | Win | W+R | 6.5 | 2715 | 24 | 
+| 2019-10-03 | 第46期天元戦予選A準決勝 | Ota Ryou | Yuki Satoshi | Lose | B+R | 6.5 | 2691 | -6 | 
+| 2019-09-25 | 第45期碁聖戦予選A準決勝 | Hoshikawa Takumi | Yuki Satoshi | Win | W+R | 6.5 | 2697 | 40 | 
+| 2019-09-18 | 第44期棋聖戦Cリーグ | Kiyonari Tetsuya | Yuki Satoshi | Win | W+R | 6.5 | 2657 | -14 | 
+| 2019-08-29 | 第46期天元戦予選A |  | Yuki Satoshi | Win | W+2.5 | 6.5 | 2671 | -62 | 
+| 2019-08-08 | 第44期棋聖戦Cリーグ | Mimura Tomoyasu | Yuki Satoshi | Lose | B+R | 6.5 | 2733 | 46 | 
+| 2019-07-25 | 第45期名人戦予選A決勝 |  | Yuki Satoshi | Lose | B+R | 6.5 | 2687 | 4 | 
+| 2019-07-18 | 第44期棋聖戦Cリーグ | Yuki Satoshi | Muramatsu Hiroki | Win | B+R | 6.5 | 2683 | 23 | 
+| 2019-07-14 | 第4回ジャパン碁コングレスin金沢トップ棋士トーナメント1回戦 | Yuki Satoshi | Seto Taiki | Lose | W+R | 6.5 | 2660 | -4 | 
+| 2019-07-10 | 第75期本因坊戦予選 | Yuki Satoshi | Seto Taiki | Lose | W+R | 6.5 | 2664 | -28 | 
+| 2019-07-01 | 第26期阿含・桐山杯全日本早碁オープン戦1回戦 | Yuki Satoshi | Iyama Yuta | Lose | W+R | 6.5 | 2692 | -74 | 
+| 2019-06-13 | 第44期棋聖戦Cリーグ | Otake Yu | Yuki Satoshi | Lose | B+R | 6.5 | 2766 | -14 | 
+| 2019-06-03 | 第67期王座戦1回戦 | Shibano Toramaru | Yuki Satoshi | Lose | B+R | 6.5 | 2780 | 21 | 
+| 2019-05-30 | 第75期本因坊戦予選 | Yuki Satoshi | Numadate Sakiya | Win | B+R | 6.5 | 2759 | 57 | 
+| 2019-05-23 | 第26期阿含・桐山杯全日本早碁オープン戦予選 | Yuki Satoshi | Tsuneishi Takashi | Win | B+R | 6.5 | 2702 | -3 | 
+| 2019-05-16 | 第44期棋聖戦Cリーグ | Yuki Satoshi | Mochizuki Kenichi | Win | B+4.5 | 6.5 | 2705 | -38 | 
+| 2019-03-14 | 第67期王座戦予選 | Yuki Satoshi | Anzai Nobuaki | Win | B+4.5 | 6.5 | 2743 | -9 | 
+| 2019-01-29 | 第3回ワールド碁チャンピオンシップ国際予選決勝  | Yuki Satoshi | Yoo Changhyuk | Lose | W+R | 6.5 | 2752 | -7 | 
+| 2019-01-27 | 第3回ワールド碁チャンピオンシップ国際予選準決勝 | Cho Sonjin | Yuki Satoshi | Win | W+6.5 | 6.5 | 2759 | 12 | 
+| 2019-01-26 | 第3回ワールド碁チャンピオンシップ国際予選3回戦 | Yuki Satoshi | Wang Lei (b) | Win | B+2.5 | 6.5 | 2747 | 41 | 
+| 2018-11-25 | 国民文化祭大分囲碁祭りプロアマトーナメント戦決勝 | Yuki Satoshi |  | Win | B+R | 6.5 | 2706 | 0 | 
+| 2018-11-25 | 国民文化祭大分囲碁祭りプロアマトーナメント戦準決勝 | Sada Atsushi | Yuki Satoshi | Win | W+5.5 | 6.5 | 2706 | 58 | 
+| 2018-11-24 | 国民文化祭大分囲碁祭りプロアマトーナメント戦1回戦 | Yuki Satoshi |  | Win | B+R | 6.5 | 2648 | -86 | 
+| 2018-10-17 | 第45期天元戦予選A準決勝 | Kurahashi Masayuki | Yuki Satoshi | Win | W+5.5 | 6.5 | 2734 | -56 | 
+| 2018-09-20 | 第43期棋聖戦Bリーグ | Ryu Shikun | Yuki Satoshi | Lose | B+8.5 | 6.5 | 2790 | -65 | 
+| 2018-08-29 | 第44期名人戦予選 | Furuya Yutaka | Yuki Satoshi | Lose | B+2.5 | 6.5 | 2855 | 5 | 
+| 2018-08-16 | 第74期本因坊戦最終予選 | Takao Shinji | Yuki Satoshi | Lose | B+R | 6.5 | 2850 | 1 | 
+| 2018-07-28 | 第5回国手山脈杯世界プロ最強戦1回戦 | Yuki Satoshi | Shin Jinseo | Lose | W+R | 6.5 | 2849 | 8 | 
+| 2018-07-26 | 第57期十段戦最終予選決勝 | Yuki Satoshi | O Meien | Lose | W+R | 6.5 | 2841 | -15 | 
+| 2018-07-19 | 第74期本因坊戦最終予選 | Yuki Satoshi | Sugimoto Akira | Win | B+R | 6.5 | 2856 | 6 | 
+| 2018-07-05 | 第43期棋聖戦Bリーグ | Yuki Satoshi | Yamada Kimio | Win | B+R | 6.5 | 2850 | 18 | 
+| 2018-06-21 | 第62期関西棋院第一位決定戦本戦準々決勝 | Yuki Satoshi | Murakawa Daisuke | Win | B+R | 6.5 | 2832 | 54 | 
+| 2018-06-14 | 第43期棋聖戦Bリーグ | Motoki Katsuya | Yuki Satoshi | Lose | B+R | 6.5 | 2778 | -26 | 
+| 2018-06-04 | 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Yuki Satoshi | Ichiriki Ryo | Lose | W+6.5 | 6.5 | 2804 | -2 | 
+| 2018-05-31 | 第57期十段戦最終予選 | Koyama Kuya | Yuki Satoshi | Win | W+R | 6.5 | 2806 | 13 | 
+| 2018-05-24 | 第43期棋聖戦Bリーグ | Yuki Satoshi | Akiyama Jiro | Lose | W+R | 6.5 | 2793 | 4 | 
+| 2018-05-10 | 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Yamamori Tadanao | Yuki Satoshi | Win | W+R | 6.5 | 2789 | -29 | 
+| 2018-04-12 | 第43期棋聖戦Bリーグ | Tsuruyama Atsushi | Yuki Satoshi | Lose | B+R | 6.5 | 2818 | -65 | 
+| 2018-03-22 | 第74期本因坊戦予選A | Nakano Yasuhiro | Yuki Satoshi | Win | W+10.5 | 6.5 | 2883 | 0 | 
+| 2018-03-15 | 第43期棋聖戦Bリーグ | Rin Kanketsu | Yuki Satoshi | Lose | B+R | 6.5 | 2883 | -40 | 
+| 2018-02-01 | 第43期棋聖戦Bリーグ | Yuki Satoshi | Tsuruta Kazushi | Win | B+R | 6.5 | 2923 | -6 | 
+| 2018-01-18 | 第44期天元戦1回戦 | Shida Tatsuya | Yuki Satoshi | Lose | B+R | 6.5 | 2929 | -5 | 
+| 2017-12-27 | ナショナルチーム冬季合宿 | Ichiriki Ryo | Yuki Satoshi | Lose | B+R | 6.5 | 2934 | -2 | 
+| 2017-12-11 | 2017年日本囲碁リーグクライマックスシリーズWU-兵庫主将戦 | Kiyonari Tetsuya | Yuki Satoshi | Lose | B+R | 6.5 | 2936 | 0 | 
+| 2017-11-30 | 第66期王座戦予選A | Hatanaka Hoshinobu | Yuki Satoshi | Lose | B+4.5 | 6.5 | 2936 | 14 | 
+| 2017-11-09 | 第66期王座戦予選A | Yuki Satoshi |  | Win | B+R | 6.5 | 2922 | -24 | 
+| 2017-11-02 | 第43期名人戦予選 | Yu Zhengqi | Yuki Satoshi | Lose | B+R | 6.5 | 2946 | -19 | 
+| 2017-10-19 | 第43期名人戦最終予選 | Hsu Chiayuan | Yuki Satoshi | Win | W+R | 6.5 | 2965 | 92 | 
+| 2017-10-12 | 第56期十段戦2回戦 | Yuki Satoshi | Shida Tatsuya | Lose | W+3.5 | 6.5 | 2873 | -32 | 
+| 2017-10-05 | 第61期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Yu Zhengqi | Yuki Satoshi | Lose | B+1.5 | 6.5 | 2905 | -15 | 
+| 2017-09-27 | 第44期天元戦予選A決勝 | Yuki Satoshi | Seto Taiki | Win | B+R | 6.5 | 2920 | 7 | 
+| 2017-09-25 | 2017年日本囲碁リーグ2nd第3節兵庫-瀬戸内主将戦 | Yokota Shigeaki | Yuki Satoshi | Win | W+R | 6.5 | 2913 | -10 | 
+| 2017-09-21 | 第43期名人戦　最終予選1回戦 | Yuki Satoshi | Ida Atsushi | Win | B+R | 6.5 | 2923 | 20 | 
+| 2017-09-13 | 第44期天元戦　予選A準決勝 | Yata Naoki | Yuki Satoshi | Win | W+R | 6.5 | 2903 | 9 | 
+| 2017-09-07 | 第61期関西棋院第一位決定戦　挑戦手合三番勝負第一局 | Yuki Satoshi | Yu Zhengqi | Lose | W+1.5 | 6.5 | 2894 | 13 | 
+| 2017-08-31 | 第43期名人戦　予選A決勝 | Yuki Satoshi | Nakano Hironari | Win | B+13.5 | 6.5 | 2881 | 10 | 
+| 2017-08-24 | 第42期棋聖戦　Aリーグ7回戦 | Ryu Shikun | Yuki Satoshi | Lose | B+1.5 | 6.5 | 2871 | 7 | 
+| 2017-08-10 | 第56期十段戦　最終予選決勝 | Yuki Satoshi | Ko Iso | Win | B+R | 6.5 | 2864 | 13 | 
+| 2017-08-03 | 第44期天元戦予選A | Deguchi Mariko | Yuki Satoshi | Win | W+R | 6.5 | 2851 | -14 | 
+| 2017-07-27 | 第73期本因坊戦　最終予選準決勝 | Yuki Satoshi | Terayama Rei | Lose | W+R | 6.5 | 2865 | -18 | 
+| 2017-07-24 | 2017年日本囲碁リーグ2nd開幕戦兵庫-古都主将戦 | Fujii Shuya | Yuki Satoshi | Win | W+R | 6.5 | 2883 | -6 | 
+| 2017-07-20 | 第42期棋聖戦　Aリーグ6回戦 | Yuki Satoshi | Takao Shinji | Lose | W+R | 6.5 | 2889 | -7 | 
+| 2017-07-16 | 2017年日本囲碁リーグ1st最終節兵庫-WU主将戦 | Yu Zhengqi | Yuki Satoshi | Lose | B+R | 6.5 | 2896 | 3 | 
+| 2017-07-05 | 第43期名人戦　予選A準決勝 | Yuki Satoshi | Honda Kunihisa | Win | B+R | 6.5 | 2893 | -19 | 
+| 2017-06-29 | 第42期棋聖戦　Aリーグ5回戦 | Yuki Satoshi | Yamashiro Hiroshi | Lose | W+R | 6.5 | 2912 | -12 | 
+| 2017-06-15 | 第43期碁聖戦予選A | Yuki Satoshi | Takashima Yugo | Lose | W+9.5 | 6.5 | 2924 | -47 | 
+| 2017-06-08 | 第43期名人戦予選A | Yuki Satoshi | Mine Yasuhiro | Win | B+R | 6.5 | 2971 | 8 | 
+| 2017-06-01 | 第73期本因坊戦　最終予選1回戦 | Yuki Satoshi | Muramatsu Hiroki | Win | B+R | 6.5 | 2963 | 2 | 
+| 2017-05-25 | 第42期棋聖戦　Aリーグ4回戦 | Cho Chikun | Yuki Satoshi | Lose | B+R | 6.5 | 2961 | 0 | 
+| 2017-05-22 | 2017年日本囲碁リーグ1st第4節兵庫-大阪主将戦 | Kubo Katsuaki | Yuki Satoshi | Win | W+R | 6.5 | 2961 | -4 | 
+| 2017-05-11 | 第24期阿含・桐山杯　最終予選決勝 | Yuki Satoshi | Ohba Junya | Win | B+R | 6.5 | 2965 | 29 | 
+| 2017-05-01 | 日本棋院vs関西棋院対抗戦 | Yuki Satoshi | Onishi Ryuhei | Lose | W+1.5 | 6.5 | 2936 | -8 | 
+| 2017-04-30 | 関西合宿個人戦三位決定戦 | Mutsuura Yuta | Yuki Satoshi | Win | W+R | 6.5 | 2944 | 0 | 
+| 2017-04-30 | 関西合宿個人戦順位決定戦 | Yuki Satoshi | Shibano Toramaru | Lose | W+1.5 | 6.5 | 2944 | 0 | 
+| 2017-04-30 | 関西合宿個人戦1回戦 | Iyama Yuta | Yuki Satoshi | Win | W+R | 6.5 | 2944 | 10 | 
+| 2017-04-27 | 第42期棋聖戦　Aリーグ3回戦 | Hsu Chiayuan | Yuki Satoshi | Lose | B+R | 6.5 | 2934 | 7 | 
+| 2017-04-20 | 第65期王座戦　最終予選特選譜第13局 | Nakano Hironari | Yuki Satoshi | Lose | B+R | 6.5 | 2927 | -38 | 
+| 2017-04-13 | 第42期棋聖戦　Aリーグ2回戦 | Yoda Norimoto | Yuki Satoshi | Lose | B+2.5 | 6.5 | 2965 | -23 | 
+| 2017-04-06 | 第72期本因坊戦　挑戦者決定リーグ最終戦 | Yuki Satoshi | Mitani Tetsuya | Win | B+2.5 | 6.5 | 2988 | -1 | 
+| 2017-03-27 | 2017年日本囲碁リーグ1st2回戦浪速-兵庫主将戦 | Nishiyama Shizuka | Yuki Satoshi | Win | W+R | 6.5 | 2989 | 139 | 
+| 2017-03-02 | 第72期本因坊戦　挑戦者決定リーグ第22局 | Yuki Satoshi | Yamashita Keigo | Lose | W+5.5 | 6.5 | 2850 | -5 | 
+| 2017-02-27 | 2017年日本囲碁リーグ第1ステージ 開幕戦主将戦 |  | Yuki Satoshi | Win | W+R | 6.5 | 2855 | 28 | 
+| 2017-02-16 | 第72期本因坊戦　挑戦者決定リーグ第20局 | Cho U | Yuki Satoshi | Lose | B+1.5 | 6.5 | 2827 | 23 | 
+| 2017-02-06 | 第4回グランドチャンピオン戦　1回戦 | Yuki Satoshi | Ida Atsushi | Win | B+R | 6.5 | 2804 | 19 | 
+| 2017-01-29 | 第64回NHK杯3回戦第8局 | Yuki Satoshi | Murakawa Daisuke | Win | B+R | 6.5 | 2785 | 28 | 
+| 2017-01-18 | 第65期王座戦予選A | Ha Youngil | Yuki Satoshi | Win | W+1.5 | 6.5 | 2757 | -1 | 
+| 2017-01-12 | 第72期本因坊戦　挑戦者決定リーグ第14局 | Ko Iso | Yuki Satoshi | Lose | B+R | 6.5 | 2758 | 4 | 
+| 2016-12-15 | 第72期本因坊戦　挑戦者決定リーグ第11局 | Yuki Satoshi | Takao Shinji | Win | B+R | 6.5 | 2754 | -2 | 
+| 2016-12-01 | 第65期王座戦予選A | Yuki Satoshi | Nishi Takenobu | Win | B+R | 6.5 | 2756 | 4 | 
+| 2016-11-24 | 第43期天元戦　予選A決勝 | Yuki Satoshi | Yukawa Mitsuhisa | Lose | W+R | 6.5 | 2752 | -12 | 
+| 2016-11-21 | 第72期本因坊戦　挑戦者決定リーグ第8局 | Yuki Satoshi | Hane Naoki | Lose | W+R | 6.5 | 2764 | -2 | 
+| 2016-11-17 | 第65期 王座戦 予選A | Yuki Satoshi | Hong Seokui | Win | B+R | 6.5 | 2766 | -52 | 
+| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Han Seungjoo | Yuki Satoshi | Lose | B+R | 7.5 | 2818 | 31 | 
+| 2016-10-24 | 第41期棋聖戦　挑戦者決定トーナメントA・Bリーグ | Yuki Satoshi | Cho U | Lose | W+R | 6.5 | 2787 | -13 | 
+| 2016-10-21 | 第60期関西棋院第一位決定戦　挑戦手合三番勝負第二局 | Yuki Satoshi | Murakawa Daisuke | Win | B+R | 6.5 | 2800 | -12 | 
+| 2016-10-19 | 第43期天元戦予選 | Yuki Satoshi | Sato Yuta | Win | B+R | 6.5 | 2812 | 16 | 
+| 2016-10-17 | 第55期十段戦　本戦1回戦 | Yuki Satoshi | Kim Sujun | Lose | W+R | 6.5 | 2796 | -30 | 
+| 2016-10-13 | 第60期関西棋院第一位決定戦挑戦手合三番勝負　第一局 | Murakawa Daisuke | Yuki Satoshi | Win | W+R | 6.5 | 2826 | 22 | 
+| 2016-10-06 | 第72期本因坊戦　挑戦者決定リーグ第2局 | Motoki Katsuya | Yuki Satoshi | Lose | B+R | 6.5 | 2804 | -28 | 
+| 2016-10-03 | 第41期棋聖戦BC組リーグ戦決勝 | Shida Tatsuya | Yuki Satoshi | Win | W+1.5 | 6.5 | 2832 | 22 | 
+| 2016-09-28 | 第42期名人戦　最終予選1回戦 | Yuki Satoshi | Uchida Shuhei | Lose | W+2.5 | 6.5 | 2810 | -113 | 
+| 2016-09-19 | 第41期棋聖戦Bリーグ決勝 | Cho Chikun | Yuki Satoshi | Win | W+R | 6.5 | 2923 | -6 | 
+| 2016-08-25 | 第72期本因坊戦　最終予選決勝第2局 | Yuki Satoshi | Cho Sonjin | Win | B+R | 6.5 | 2929 | -1 | 
+| 2016-08-18 | 第41期棋聖戦Bリーグ | Seto Taiki | Yuki Satoshi | Win | W+R | 6.5 | 2930 | -128 | 
+| 2016-07-27 | 第42期名人戦予選 | Yuki Satoshi |  | Win | B+R | 6.5 | 3058 | 11 | 
+| 2016-07-21 | 第41期棋聖戦Bリーグ | Yu Zhengqi | Yuki Satoshi | Win | W+R | 6.5 | 3047 | 71 | 
+| 2016-07-14 | 第72期本因坊戦予選 | Ryu Shikun | Yuki Satoshi | Win | W+R | 6.5 | 2976 | 81 | 
+| 2016-07-07 | 第41期棋聖戦Bリーグ | Ko Iso | Yuki Satoshi | Lose | B+R | 6.5 | 2895 | -19 | 
+| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Li Qincheng | Yuki Satoshi | Lose | B+R | 7.5 | 2914 | 10 | 
+| 2016-06-16 | 第41期棋聖戦Bリーグ | Yuki Satoshi | Akiyama Jiro | Win | B+R | 6.5 | 2904 | 7 | 
+| 2016-06-09 | 第72期本因坊戦予選 | Nakano Hironari | Yuki Satoshi | Win | W+9.5 | 6.5 | 2897 | 50 | 
+| 2016-05-26 | 第41期棋聖戦Bリーグ | Yuki Satoshi | Kiyonari Tetsuya | Lose | W+R | 6.5 | 2847 | 4 | 
+| 2016-05-19 | 第23期阿含・桐山杯全日本早碁オープン戦予選 | Mizokami Tomochika | Yuki Satoshi | Lose | B+R | 6.5 | 2843 | 88 | 
+| 2016-04-20 | 第8回応氏杯世界選手権1回戦 | Yuki Satoshi | Tang Weixing | Lose | W+5 | 7.5 | 2755 | 19 | 
+| 2016-04-14 | 第25期竜星戦Aブロック第11局 | Yuki Satoshi | Motoki Katsuya | Win | B+R | 6.5 | 2736 | 33 | 
+| 2016-03-31 | 第41期棋聖戦Bリーグ | Yuki Satoshi | Hane Naoki | Win | B+R | 6.5 | 2703 | 34 | 
+| 2016-03-16 | 第2回日中竜星戦 | Tuo Jiaxi | Yuki Satoshi | Lose | B+R | 7.5 | 2669 | -8 | 
+| 2016-03-03 | 第41期棋聖戦Bリーグ | Yuki Satoshi | Cho Sonjin | Win | B+0.5 | 6.5 | 2677 | -11 | 
+| 2016-02-25 | 第64期王座戦予選 | Shida Tatsuya | Yuki Satoshi | Lose | B+R | 6.5 | 2688 | -120 | 
+| 2016-01-21 | 第41期碁聖戦本戦1回戦 | Takao Shinji | Yuki Satoshi | Lose | B+5.5 | 6.5 | 2808 | -26 | 
+| 2016-01-07 | 第42期天元戦本戦1回戦 | Yuki Satoshi | Ohashi Naruya | Lose | W+4.5 | 6.5 | 2834 | 12 | 
+| 2015-11-05 | 第54期十段戦3回戦 | Iyama Yuta | Yuki Satoshi | Lose | B+R | 6.5 | 2822 | 21 | 
+| 2015-10-22 | 第54期十段戦2回戦 | Yuki Satoshi | Uchida Shuhei | Win | B+R | 6.5 | 2801 | 17 | 
+| 2015-10-19 | 第41期名人戦予選 | Yuki Satoshi | So Yokoku | Lose | W+R | 6.5 | 2784 | 4 | 
+| 2015-10-15 | 第59期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Nakano Yasuhiro | Yuki Satoshi | Win | W+R | 6.5 | 2780 | 14 | 
+| 2015-10-08 | 第59期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yuki Satoshi | Nakano Yasuhiro | Win | B+R | 6.5 | 2766 | 12 | 
+| 2015-10-05 | 第54期十段戦1回戦 | Yuki Satoshi | Kono Rin | Win | B+R | 6.5 | 2754 | 9 | 
+| 2015-10-01 | 第41期名人戦予選 | Ogata Masaki | Yuki Satoshi | Win | W+R | 6.5 | 2745 | -8 | 
+| 2015-09-28 | 第40期棋聖戦Aリーグ | Yuki Satoshi | Hane Naoki | Win | B+R | 6.5 | 2753 | 16 | 
+| 2015-09-24 | 第54期十段戦予選 | Ryu Shikun | Yuki Satoshi | Win | W+0.5 | 6.5 | 2737 | -49 | 
+| 2015-09-10 | 第41期天元戦挑戦者決定戦 | Yuki Satoshi | Iyama Yuta | Lose | W+R | 6.5 | 2786 | -22 | 
+| 2015-09-03 | 第71期本因坊戦予選 | Ichiriki Ryo | Yuki Satoshi | Lose | B+R | 6.5 | 2808 | -67 | 
+| 2015-08-27 | 第41期名人戦予選 | Yuki Satoshi | Imamura Toshiya | Win | B+R | 6.5 | 2875 | -2 | 
+| 2015-08-24 | 第41期天元戦本戦準決勝 | Yamashita Keigo | Yuki Satoshi | Win | W+1.5 | 6.5 | 2877 | 14 | 
+| 2015-08-20 | 第40期棋聖戦Aリーグ | Mizokami Tomochika | Yuki Satoshi | Win | W+R | 6.5 | 2863 | 1 | 
+| 2015-08-17 | 第63期王座戦準決勝 | Iyama Yuta | Yuki Satoshi | Lose | B+R | 6.5 | 2862 | -12 | 
+| 2015-08-13 | 第71期本因坊戦予選 | Uchida Shuhei | Yuki Satoshi | Win | W+1.5 | 6.5 | 2874 | 43 | 
+| 2015-08-03 | 第63期王座戦2回戦 | Yuki Satoshi | Hsu Chiayuan | Win | B+R | 6.5 | 2831 | -8 | 
+| 2015-07-30 | 第41期天元戦本戦3回戦 | Yuki Satoshi | Nakano Hironari | Win | B+R | 6.5 | 2839 | 14 | 
+| 2015-07-23 | 第40期棋聖戦Aリーグ | Yuki Satoshi | Ichiriki Ryo | Lose | W+R | 6.5 | 2825 | -34 | 
+| 2015-07-16 | 第71期本因坊戦予選 | Yuki Satoshi | Ryu Shikun | Win | B+R | 6.5 | 2859 | 15 | 
+| 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Tang Weixing | Yuki Satoshi | Lose | B+R | 7.5 | 2844 | -37 | 
+| 2015-07-02 | 第54期十段戦予選 | Yuki Satoshi | Kobayashi Koichi | Win | B+0.5 | 6.5 | 2881 | -53 | 
+| 2015-06-22 | 第63期王座戦本戦1回戦第4局 | Yuki Satoshi | Yamashiro Hiroshi | Win | B+R | 6.5 | 2934 | 35 | 
+| 2015-06-18 | 第40期棋聖戦Aリーグ | Cho Riyu | Yuki Satoshi | Lose | B+R | 6.5 | 2899 | 0 | 
+| 2015-06-08 | 第20回LG杯朝鮮日報棋王戦1回戦 | Weon Seongjin | Yuki Satoshi | Lose | B+R | 6.5 | 2899 | -28 | 
+| 2015-05-28 | 第40期棋聖戦Aリーグ | Kono Rin | Yuki Satoshi | Lose | B+R | 6.5 | 2927 | -2 | 
+| 2015-05-14 | 第40期棋聖戦Aリーグ | Yuki Satoshi | Cho U | Lose | W+R | 6.5 | 2929 | -97 | 
+| 2015-05-07 | 第22期阿含・桐山杯全日本早碁オープン戦予選 | Ogata Masaki | Yuki Satoshi | Lose | B+R | 6.5 | 3026 | -19 | 
+| 2015-04-30 | 第41期天元戦本戦2回戦 | Yuki Satoshi | O Meien | Win | B+R | 6.5 | 3045 | 61 | 
+| 2015-04-23 | 第40期棋聖戦Aリーグ | Cho Chikun | Yuki Satoshi | Lose | B+R | 6.5 | 2984 | -33 | 
+| 2015-04-02 | 第40期碁聖戦本戦3回戦 | Yuki Satoshi | Shida Tatsuya | Lose | W+R | 6.5 | 3017 | -277 | 
+| 2015-02-12 | 第40期碁聖戦本戦2回戦 | Yuki Satoshi | Yoda Norimoto | Win | B+R | 6.5 | 3294 | 40 | 
+| 2015-01-22 | 第40期碁聖戦本戦1回戦 | Yuki Satoshi | Tsuruyama Atsushi | Win | B+R | 6.5 | 3254 | 25 | 
+| 2015-01-08 | 第41期天元戦本戦1回戦 | Nakaonoda Tomomi | Yuki Satoshi | Win | W+R | 6.5 | 3229 | 17 | 
+| 2014-12-25 | 第53期十段戦3回戦 | Yuki Satoshi | Ida Atsushi | Lose | W+R | 6.5 | 3212 | 34 | 
+| 2014-11-13 | 第58期関西棋院第一位決定戦挑戦手合三番勝負第3局 | Sakai Hideyuki | Yuki Satoshi | Win | W+2.5 | 6.5 | 3178 | 148 | 
+| 2014-11-03 | 第53期十段戦2回戦 | Yuki Satoshi | Kim Sujun | Win | B+R | 6.5 | 3030 | -13 | 
+| 2014-10-30 | 第58期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Sakai Hideyuki | Yuki Satoshi | Lose | B+R | 6.5 | 3043 | -4 | 
+| 2014-10-23 | 第58期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yuki Satoshi | Sakai Hideyuki | Win | B+R | 6.5 | 3047 | 13 | 
+| 2014-10-16 | 第40期名人戦予選 | Kanazawa Makoto | Yuki Satoshi | Lose | B+R | 6.5 | 3034 | -59 | 
+| 2014-10-02 | 第39期棋聖戦Bリーグ | Yuki Satoshi | Kobayashi Satoru | Win | B+R | 6.5 | 3093 | 16 | 
+| 2014-09-25 | 第40期名人戦予選 | Yuki Satoshi | Hane Yasumasa | Win | B+R | 6.5 | 3077 | -2 | 
+| 2014-09-22 | 第58期関西棋院第一位決定戦挑戦者決定戦 | Yuki Satoshi | Yu Zhengqi | Win | B+0.5 | 6.5 | 3079 | 64 | 
+| 2014-09-04 | 第58期関西棋院第一位決定戦本戦準決勝 | Yuki Satoshi | Imamura Toshiya | Win | B+0.5 | 6.5 | 3015 | 14 | 
+| 2014-08-28 | 第39期棋聖戦Bリーグ | Cho Riyu | Yuki Satoshi | Win | W+R | 6.5 | 3001 | -1 | 
+| 2014-08-17 | 第26回テレビアジア選手権1回戦 | Park Junghwan | Yuki Satoshi | Lose | B+R | 7.5 | 3002 | 8 | 
+| 2014-08-07 | 第70期本因坊戦予選 | Matsumoto Takehisa | Yuki Satoshi | Lose | B+R | 6.5 | 2994 | -30 | 
+| 2014-07-31 | 第39期名人戦リーグ | Ryu Shikun | Yuki Satoshi | Win | W+R | 6.5 | 3024 | 21 | 
+| 2014-07-24 | 第39期棋聖戦Bリーグ | Murakawa Daisuke | Yuki Satoshi | Lose | B+R | 6.5 | 3003 | -19 | 
+| 2014-07-17 | 第70期本因坊戦予選 | Hane Naoki | Yuki Satoshi | Win | W+R | 6.5 | 3022 | 12 | 
+| 2014-07-10 | 第39期名人戦リーグ | Yuki Satoshi | Murakawa Daisuke | Lose | W+R | 6.5 | 3010 | -25 | 
+| 2014-06-26 | 第62期王座戦1回戦 | O Rissei | Yuki Satoshi | Lose | B+R | 6.5 | 3035 | -17 | 
+| 2014-06-23 | 第21期阿含・桐山杯全日本早碁オープン戦1回戦 | Kono Rin | Yuki Satoshi | Lose | B+R | 6.5 | 3052 | 1 | 
+| 2014-06-19 | 第39期棋聖戦Bリーグ | Yuki Satoshi | Yoda Norimoto | Lose | W+R | 6.5 | 3051 | -3 | 
+| 2014-06-09 | 第19回LG杯朝鮮日報棋王戦1回戦 | Tang Weixing | Yuki Satoshi | Lose | B+R | 6.5 | 3054 | -4 | 
+| 2014-06-05 | 第39期名人戦リーグ | Yamashita Keigo | Yuki Satoshi | Lose | B+R | 6.5 | 3058 | 9 | 
+| 2014-05-28 | 第58期関西棋院第一位決定戦本戦3回戦 | Yuki Satoshi | Onoda Takuya | Win | B+R | 6.5 | 3049 | 60 | 
+| 2014-05-22 | 第39期棋聖戦Bリーグ | Cho Chikun | Yuki Satoshi | Lose | B+R | 6.5 | 2989 | 20 | 
+| 2014-05-08 | 第39期名人戦リーグ | Cho U | Yuki Satoshi | Win | W+0.5 | 6.5 | 2969 | -131 | 
+| 2014-04-24 | 第39期棋聖戦予選 | Mizokami Tomochika | Yuki Satoshi | Win | W+R | 6.5 | 3100 | -18 | 
+| 2014-04-21 | 第52期十段戦挑戦手合五番勝負第5局 | Takao Shinji | Yuki Satoshi | Lose | B+R | 6.5 | 3118 | 4 | 
+| 2014-04-17 | 第52期十段戦挑戦手合五番勝負第4局 | Takao Shinji | Yuki Satoshi | Lose | B+R | 6.5 | 3114 | -13 | 
+| 2014-04-10 | 第52期十段戦挑戦手合五番勝負第3局 | Yuki Satoshi | Takao Shinji | Win | B+10.5 | 6.5 | 3127 | -3 | 
+| 2014-03-31 | 第39期棋聖戦予選 | So Yokoku | Yuki Satoshi | Win | W+R | 6.5 | 3130 | 12 | 
+| 2014-03-27 | 第52期十段戦挑戦手合五番勝負第2局 | Takao Shinji | Yuki Satoshi | Win | W+0.5 | 6.5 | 3118 | 22 | 
+| 2014-03-24 | 第69期本因坊戦リーグ | Yu Zhengqi | Yuki Satoshi | Win | W+R | 6.5 | 3096 | -9 | 
+| 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Wang Xi | Yuki Satoshi | Lose | B+R | 7.5 | 3105 | -5 | 
+| 2014-03-13 | 第39期棋聖戦予選 | Yuki Satoshi | Kataoka Satoshi | Win | B+R | 6.5 | 3110 | -23 | 
+| 2014-03-10 | 第39期名人戦リーグ | Yuki Satoshi | Kono Rin | Lose | W+2.5 | 6.5 | 3133 | -4 | 
+| 2014-03-04 | 第52期十段戦挑戦手合五番勝負第1局 | Yuki Satoshi | Takao Shinji | Lose | W+0.5 | 6.5 | 3137 | 11 | 
+| 2014-02-24 | 第69期本因坊戦リーグ | Takao Shinji | Yuki Satoshi | Win | W+1.5 | 6.5 | 3126 | -1 | 
+| 2014-02-20 | 第58期関西棋院第一位決定戦本戦2回戦 | Yuki Satoshi | Kunisawa Hiroto | Win | B+R | 6.5 | 3127 | 9 | 
+| 2014-02-06 | 第39期名人戦リーグ | Yuki Satoshi | Hane Naoki | Lose | W+R | 6.5 | 3118 | -41 | 
+| 2014-01-16 | 第69期本因坊戦リーグ | Sakai Hideyuki | Yuki Satoshi | Lose | B+R | 6.5 | 3159 | -77 | 
+| 2014-01-09 | 第39期名人戦リーグ | Yuki Satoshi | Ko Iso | Lose | W+R | 6.5 | 3236 | -2 | 
+| 2013-12-26 | 第69期本因坊戦リーグ | Yuki Satoshi | Yamashita Keigo | Lose | W+R | 6.5 | 3238 | 38 | 
+| 2013-12-19 | 第40期天元戦予選 | Yuki Satoshi | Takahara Syuji | Lose | W+R | 6.5 | 3200 | -1 | 
+| 2013-12-16 | 第39期名人戦リーグ | Takao Shinji | Yuki Satoshi | Lose | B+R | 6.5 | 3201 | 13 | 
+| 2013-12-04 | 第15回農心辛ラーメン杯世界囲碁最強戦第7戦 | Chen Yaoye | Yuki Satoshi | Lose | B+R | 6.5 | 3188 | -16 | 
+| 2013-11-28 | 第40期天元戦予選 | Hong Maleunsaem | Yuki Satoshi | Win | W+R | 6.5 | 3204 | 25 | 
+| 2013-11-14 | 第69期本因坊戦リーグ | Yuki Satoshi | Ida Atsushi | Lose | W+R | 6.5 | 3179 | -2 | 
+| 2013-11-07 | 第58期関西棋院第一位決定戦本戦1回戦 | Taniguchi Tooru | Yuki Satoshi | Win | W+R | 6.5 | 3181 | 14 | 
+| 2013-10-31 | 第39期名人戦予選 | Yuki Satoshi | Cho Sonjin | Win | B+R | 6.5 | 3167 | -18 | 
+| 2013-10-17 | 第69期本因坊戦リーグ | Yuki Satoshi | Kono Rin | Lose | W+R | 6.5 | 3185 | 7 | 
+| 2013-10-10 | 第39期碁聖戦予選 | Yuki Satoshi | Sakai Hideyuki | Lose | W+3.5 | 6.5 | 3178 | -77 | 
+| 2013-10-03 | 第39期名人戦予選 | Yuki Satoshi | Yamada Kimio | Win | B+R | 6.5 | 3255 | -140 | 
+| 2013-09-12 | 第61期王座戦挑戦者決定戦 | Cho U | Yuki Satoshi | Lose | B+2.5 | 6.5 | 3395 | 43 | 
+| 2013-09-09 | 第39期名人戦予選 | Ha Youngil | Yuki Satoshi | Win | W+1.5 | 6.5 | 3352 | -3 | 
+| 2013-09-04 | 第18回三星火災杯世界囲碁マスターズ1回戦H2 | Yuki Satoshi | Liao Xingwen | Lose | W+R | 6.5 | 3355 | -7 | 
+| 2013-09-03 | 第18回三星火災杯世界囲碁マスターズ1回戦H1 | Yuki Satoshi | Gu Li | Lose | W+R | 6.5 | 3362 | -15 | 
+| 2013-08-29 | 第61期王座戦準決勝 | Yuki Satoshi | Hane Naoki | Win | B+R | 6.5 | 3377 | 14 | 
+| 2013-08-22 | 第61期王座戦2回戦 | Matsumoto Takehisa | Yuki Satoshi | Win | W+6.5 | 6.5 | 3363 | -19 | 
+| 2013-08-19 | 第39期碁聖戦予選 | Hatanaka Hoshinobu | Yuki Satoshi | Win | W+R | 6.5 | 3382 | 15 | 
+| 2013-08-09 | 第1回夢百合杯世界オープン戦3回戦 | Wang Xi | Yuki Satoshi | Lose | B+R | 7.5 | 3367 | 80 | 
+| 2013-08-01 | 第38期名人戦リーグ | Yuki Satoshi | Takao Shinji | Win | B+R | 6.5 | 3287 | 21 | 
+| 2013-07-25 | 第39期天元戦本戦3回戦 | Yuki Satoshi | Akiyama Jiro | Lose | W+R | 6.5 | 3266 | 33 | 
+| 2013-07-18 | 第38期名人戦リーグ | Yuki Satoshi | Mizokami Tomochika | Win | B+0.5 | 6.5 | 3233 | 8 | 
+| 2013-07-11 | 第1回夢百合杯世界オープン戦2回戦 | Li Qincheng | Yuki Satoshi | Win | W+R | 7.5 | 3225 | 68 | 
+| 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 |  | Yuki Satoshi | Win | W+R | 7.5 | 3157 | 14 | 
+| 2013-07-04 | 第20期阿含・桐山杯全日本早碁オープン戦1回戦 | Ichiriki Ryo | Yuki Satoshi | Lose | B+R | 6.5 | 3143 | 0 | 
+| 2013-06-29 | 第25回テレビアジア選手権準決勝 | Yuki Satoshi | Park Junghwan | Lose | W+5.5 | 6.5 | 3143 | 0 | 
+| 2013-06-28 | 第25回テレビアジア選手権1回戦 | Jiang Weijie | Yuki Satoshi | Win | W+2.5 | 6.5 | 3143 | 60 | 
+| 2013-06-20 | 第61期王座戦1回戦 | Takei Takashi | Yuki Satoshi | Win | W+R | 6.5 | 3083 | 44 | 
+| 2013-06-17 | 第57期関西棋院第一位決定戦本戦2回戦 | Yuki Satoshi | Murakawa Daisuke | Lose | W+R | 6.5 | 3039 | 8 | 
+| 2013-06-13 | 第39期天元戦本戦2回戦 | Kurahashi Masayuki | Yuki Satoshi | Win | W+16.5 | 6.5 | 3031 | 36 | 
+| 2013-06-05 | 第38期名人戦リーグ | Sakai Hideyuki | Yuki Satoshi | Lose | B+R | 6.5 | 2995 | 41 | 
+| 2013-05-16 | 第39期天元戦本戦1回戦 | Yuki Satoshi | Ishii Kunio | Win | B+4.5 | 6.5 | 2954 | -5 | 
+| 2013-05-09 | 第38期名人戦リーグ | Kono Rin | Yuki Satoshi | Lose | B+R | 6.5 | 2959 | -22 | 
+| 2013-04-26 | 第51期十段戦挑戦手合五番勝負第5局 | Iyama Yuta | Yuki Satoshi | Win | W+1.5 | 6.5 | 2981 | 16 | 
+| 2013-04-18 | 第51期十段戦挑戦手合五番勝負第4局 | Iyama Yuta | Yuki Satoshi | Lose | B+R | 6.5 | 2965 | -17 | 
+| 2013-04-11 | 第38期名人戦リーグ | Hane Naoki | Yuki Satoshi | Lose | B+R | 6.5 | 2982 | 3 | 
+| 2013-04-08 | 第68期本因坊戦リーグ | Seto Taiki | Yuki Satoshi | Win | W+R | 6.5 | 2979 | 11 | 
+| 2013-04-04 | 第51期十段戦挑戦手合五番勝負第3局 | Yuki Satoshi | Iyama Yuta | Win | B+R | 6.5 | 2968 | -1 | 
+| 2013-03-28 | 第51期十段戦挑戦手合五番勝負第2局 | Iyama Yuta | Yuki Satoshi | Win | W+2.5 | 6.5 | 2969 | 8 | 
+| 2013-03-23 | 第8回大和証券杯ネット囲碁オープン決勝 | Yuki Satoshi | Takao Shinji | Win | B+3.5 | 6.5 | 2961 | -3 | 
+| 2013-03-21 | 第68期本因坊戦リーグ | Yuki Satoshi | Cho Sonjin | Lose | W+R | 6.5 | 2964 | 6 | 
+| 2013-03-18 | 第61期王座戦予選 | Nakano Hironari | Yuki Satoshi | Win | W+7.5 | 6.5 | 2958 | -2 | 
+| 2013-03-09 | 第38期名人戦リーグ | Yuki Satoshi | Iyama Yuta | Lose | W+10.5 | 6.5 | 2960 | 8 | 
+| 2013-03-06 | 第51期十段戦挑戦手合五番勝負第1局 | Yuki Satoshi | Iyama Yuta | Lose | W+R | 6.5 | 2952 | 2 | 
+| 2013-02-28 | 第38期碁聖戦本戦1回戦 | Yuki Satoshi | Takemiya Masaki | Lose | W+R | 6.5 | 2950 | -23 | 
+| 2013-02-23 | 第8回大和証券杯ネット囲碁オープン準決勝 | Yuki Satoshi | Kono Rin | Win | B+R | 6.5 | 2973 | 49 | 
+| 2013-02-21 | 第68期本因坊戦リーグ | Yuki Satoshi | Ko Iso | Win | B+R | 6.5 | 2924 | 9 | 
+| 2013-02-14 | 第38期名人戦リーグ | Cho U | Yuki Satoshi | Lose | B+R | 6.5 | 2915 | 12 | 
+| 2013-01-31 | 第51期十段戦挑戦者決定戦 | Yuki Satoshi | Takao Shinji | Win | B+R | 6.5 | 2903 | -3 | 
+| 2013-01-24 | 第68期本因坊戦リーグ | Takao Shinji | Yuki Satoshi | Lose | B+R | 6.5 | 2906 | -1 | 
+| 2013-01-19 | 第8回大和証券杯ネット囲碁オープン3回戦 | Oya Koichi | Yuki Satoshi | Win | W+10.5 | 6.5 | 2907 | 14 | 
+| 2013-01-10 | 第38期名人戦リーグ | Yuki Satoshi | Murakawa Daisuke | Lose | W+R | 6.5 | 2893 | 22 | 
+| 2012-12-20 | 第51期十段戦準決勝 | Ryu Shikun | Yuki Satoshi | Win | W+3.5 | 6.5 | 2871 | -11 | 
+| 2012-12-13 | 第38期棋聖戦予選 | Ishida Atsushi | Yuki Satoshi | Lose | B+R | 6.5 | 2882 | -36 | 
+| 2012-12-08 | 第8回大和証券杯ネット囲碁オープン2回戦 | Akiyama Jiro | Yuki Satoshi | Win | W+R | 6.5 | 2918 | 71 | 
+| 2012-12-03 | 第51期十段戦3回戦 | Cho Sonjin | Yuki Satoshi | Win | W+R | 6.5 | 2847 | -189 | 
+| 2012-11-22 | 第68期本因坊戦リーグ | Yamashita Keigo | Yuki Satoshi | Lose | B+R | 6.5 | 3036 | -18 | 
+| 2012-11-15 | 第68期本因坊戦リーグ | Yuki Satoshi | Cho U | Lose | W+R | 6.5 | 3054 | 11 | 
+| 2012-11-08 | 第38期名人戦予選 | Yuki Satoshi | Nakano Yasuhiro | Win | B+2.5 | 6.5 | 3043 | -2 | 
+| 2012-10-24 | 第39期天元戦予選 | Yuki Satoshi | Onoda Takuya | Win | B+R | 6.5 | 3045 | -8 | 
+| 2012-10-04 | 第68期本因坊戦リーグ | Imamura Toshiya | Yuki Satoshi | Win | W+R | 6.5 | 3053 | -28 | 
+| 2012-09-20 | 第51期十段戦2回戦 | Cho Chikun | Yuki Satoshi | Win | W+9.5 | 6.5 | 3081 | 5 | 
+| 2012-09-15 | 第8回大和証券杯ネット囲碁オープン1回戦 | Yuki Satoshi | Mochizuki Kenichi | Win | B+6.5 | 6.5 | 3076 | -11 | 
+| 2012-09-06 | 第38期名人戦予選 | Yuki Satoshi | Ogata Masaki | Win | B+R | 6.5 | 3087 | 10 | 
+| 2012-08-30 | 第51期十段戦予選 | Mochizuki Kenichi | Yuki Satoshi | Win | W+2.5 | 6.5 | 3077 | 86 | 
+| 2012-08-22 | 第39期天元戦予選 | Yun Chunho | Yuki Satoshi | Win | W+R | 6.5 | 2991 | -15 | 
+| 2012-08-14 | 第24回テレビアジア選手権1回戦 | Tuo Jiaxi | Yuki Satoshi | Lose | B+R | 6.5 | 3006 | -4 | 
+| 2012-08-11 | 第60期王座戦準決勝 | Yuki Satoshi | Iyama Yuta | Lose | W+R | 6.5 | 3010 | -7 | 
+| 2012-08-09 | 第19期阿含・桐山杯全日本早碁オープン戦2回戦 | Rin Shien | Yuki Satoshi | Lose | B+3.5 | 6.5 | 3017 | 20 | 
+| 2012-08-02 | 第37期名人戦リーグ | Yuki Satoshi | Uchida Shuhei | Lose | W+0.5 | 6.5 | 2997 | -95 | 
+| 2012-07-19 | 第19期阿含・桐山杯全日本早碁オープン戦1回戦 | Suzuki Shinji | Yuki Satoshi | Win | W+R | 6.5 | 3092 | -13 | 
+| 2012-07-05 | 第37期名人戦リーグ | Iyama Yuta | Yuki Satoshi | Lose | B+R | 6.5 | 3105 | 35 | 
+| 2012-06-18 | 第17回LG杯世界棋王戦1回戦 | Shi Yue | Yuki Satoshi | Lose | B+R | 6.5 | 3070 | -31 | 
+| 2012-06-14 | 第60期王座戦2回戦 | Yuki Satoshi | Imamura Toshiya | Win | B+6.5 | 6.5 | 3101 | -61 | 
+| 2012-06-11 | 第8回大和証券杯ネット囲碁オープン予選 | Yuki Satoshi | Yamashiro Hiroshi | Win | B+2.5 | 6.5 | 3162 | 12 | 
+| 2012-06-07 | 第19期阿含・桐山杯全日本早碁オープン戦予選 | Nakaonoda Tomomi | Yuki Satoshi | Win | W+R | 6.5 | 3150 | 28 | 
+| 2012-05-31 | 第37期名人戦リーグ | Mizokami Tomochika | Yuki Satoshi | Lose | B+R | 6.5 | 3122 | -42 | 
+| 2012-05-23 | 第7回応氏杯世界選手権1回戦 | Yuki Satoshi | Liu Xing | Lose | W+R | 7.5 | 3164 | -20 | 
+| 2012-05-10 | 第60期王座戦1回戦 | Cho Chikun | Yuki Satoshi | Win | W+R | 6.5 | 3184 | -83 | 
+| 2012-04-26 | 第37期名人戦リーグ | Kim Sujun | Yuki Satoshi | Lose | B+8.5 | 6.5 | 3267 | -20 | 
+| 2012-04-05 | 第37期名人戦リーグ | Yuki Satoshi | Kono Rin | Lose | W+R | 6.5 | 3287 | -9 | 
+| 2012-03-29 | 第67期本因坊戦リーグ | Takao Shinji | Yuki Satoshi | Win | W+R | 6.5 | 3296 | 52 | 
+| 2012-03-19 | 第37期碁聖戦本戦2回戦 | Kurahashi Masayuki | Yuki Satoshi | Lose | B+R | 6.5 | 3244 | -31 | 
+| 2012-03-15 | 第67期本因坊戦リーグ | Ko Iso | Yuki Satoshi | Win | W+R | 6.5 | 3275 | -89 | 
+| 2012-03-01 | 第37期名人戦リーグ | Yuki Satoshi | Hane Naoki | Lose | W+R | 6.5 | 3364 | -28 | 
+| 2012-02-27 | 第67期本因坊戦リーグ | Cho U | Yuki Satoshi | Win | W+R | 6.5 | 3392 | -15 | 
+| 2012-02-23 | 第38期天元戦本戦1回戦 | Yuki Satoshi | Hane Naoki | Lose | W+3.5 | 6.5 | 3407 | 66 | 
+| 2012-02-09 | 第37期名人戦リーグ | Yuki Satoshi | Cho U | Lose | W+R | 6.5 | 3341 | 19 | 
+| 2012-01-26 | 第37期碁聖戦本戦1回戦 | So Yokoku | Yuki Satoshi | Win | W+R | 6.5 | 3322 | 13 | 
+| 2012-01-19 | 第37期名人戦リーグ | Takao Shinji | Yuki Satoshi | Lose | B+R | 6.5 | 3309 | -15 | 
+| 2012-01-12 | 第67期本因坊戦リーグ | Yuki Satoshi | Iyama Yuta | Lose | W+R | 6.5 | 3324 | -65 | 
+| 2011-12-08 | 第67期本因坊戦リーグ | Yuki Satoshi | Kono Rin | Lose | W+1.5 | 6.5 | 3389 | 377 | 
+| 2011-11-30 | 第13回農心辛ラーメン杯世界囲碁最強戦第7戦 | Tan Xiao | Yuki Satoshi | Lose | B+R | 6.5 | 3012 | 33 | 
+| 2011-11-17 | 第37期天元戦挑戦手合五番勝負第3局 | Yuki Satoshi | Iyama Yuta | Lose | W+R | 6.5 | 2979 | -29 | 
+| 2011-11-08 | 第37期天元戦挑戦手合五番勝負第2局 | Iyama Yuta | Yuki Satoshi | Lose | B+0.5 | 6.5 | 3008 | -39 | 
+| 2011-11-03 | 第67期本因坊戦リーグ | Yuki Satoshi | Seto Taiki | Win | B+6.5 | 6.5 | 3047 | -8 | 
+| 2011-10-24 | 第37期天元戦挑戦手合五番勝負第1局 | Yuki Satoshi | Iyama Yuta | Lose | W+R | 6.5 | 3055 | -20 | 
+| 2011-10-06 | 第67期本因坊戦リーグ | Hane Naoki | Yuki Satoshi | Win | W+R | 6.5 | 3075 | 91 | 
+| 2011-08-25 | 第16回三星火災杯世界囲碁マスターズ1回戦G2 | Yuki Satoshi | Li Xuanhao | Lose | W+R | 6.5 | 2984 | -13 | 
+| 2011-08-24 | 第16回三星火災杯世界囲碁マスターズ1回戦G1 |  | Yuki Satoshi | Lose | B+R | 6.5 | 2997 | -1 | 
+| 2011-08-18 | 第67期本因坊戦予選 | Yuki Satoshi | Kobayashi Satoru | Win | B+R | 6.5 | 2998 | 5 | 
+| 2011-08-10 | 第24回世界囲碁選手権富士通杯1回戦 | Kong Jie | Yuki Satoshi | Lose | B+R | 6.5 | 2993 | -18 | 
+| 2011-08-04 | 第36期名人戦リーグ | Yuki Satoshi | Yamashita Keigo | Lose | W+R | 6.5 | 3011 | 5 | 
+| 2011-07-18 | 第18期阿含・桐山杯全日本早碁オープン戦2回戦 | Iyama Yuta | Yuki Satoshi | Lose | B+0.5 | 6.5 | 3006 | 12 | 
+| 2011-07-11 | 第31期NECカップ囲碁トーナメント戦1回戦 | Takao Shinji | Yuki Satoshi | Lose | B+2.5 | 6.5 | 2994 | -16 | 
+| 2011-07-07 | 第36期名人戦リーグ | Yuki Satoshi | Cho U | Lose | W+0.5 | 6.5 | 3010 | -23 | 
+| 2011-07-04 | 第55期関西棋院第一位決定戦本戦3回戦 | Yuki Satoshi | Sakai Hideyuki | Lose | W+4.5 | 6.5 | 3033 | -24 | 
+| 2011-06-30 | 第50期十段戦予選 | Kono Rin | Yuki Satoshi | Lose | B+R | 6.5 | 3057 | -195 | 
+| 2011-06-13 | 第16回LG杯世界棋王戦1回戦 | Kim Jiseok | Yuki Satoshi | Lose | B+R | 6.5 | 3252 | -23 | 
+| 2011-06-09 | 第18期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Sonjin | Yuki Satoshi | Win | W+1.5 | 6.5 | 3275 | 28 | 
+| 2011-06-02 | 第36期名人戦リーグ | Yuki Satoshi | Mizokami Tomochika | Win | B+R | 6.5 | 3247 | -22 | 
+| 2011-05-19 | 第50期十段戦予選 | Nakano Hironari | Yuki Satoshi | Win | W+2.5 | 6.5 | 3269 | 90 | 
+| 2011-05-12 | 第67期本因坊戦予選 | Yuki Satoshi | Komatsu Hideki | Win | B+R | 6.5 | 3179 | -41 | 
+| 2011-05-05 | 第36期名人戦リーグ | Yuki Satoshi | Rin Kanketsu | Win | B+R | 6.5 | 3220 | -3 | 
+| 2011-03-31 | 第59期王座戦予選 | Kono Rin | Yuki Satoshi | Lose | B+R | 6.5 | 3223 | -29 | 
+| 2011-03-24 | 第36期名人戦リーグ | Hane Naoki | Yuki Satoshi | Lose | B+R | 6.5 | 3252 | -6 | 
+| 2011-03-10 | 第36期名人戦リーグ | Sakai Hideyuki | Yuki Satoshi | Win | W+1.5 | 6.5 | 3258 | 20 | 
+| 2011-03-03 | 第59期王座戦予選 | Otake Hideo | Yuki Satoshi | Win | W+1.5 | 6.5 | 3238 | 63 | 
+| 2011-02-10 | 第67期本因坊戦予選 | Yuki Satoshi | Nakano Yasuhiro | Win | B+R | 6.5 | 3175 | -12 | 
+| 2011-01-27 | 第36期名人戦リーグ | Takao Shinji | Yuki Satoshi | Win | W+0.5 | 6.5 | 3187 | 124 | 
+| 2011-01-19 | 第12回農心辛ラーメン杯世界囲碁最強戦第12戦 | Choi Cheolhan | Yuki Satoshi | Lose | B+R | 6.5 | 3063 | -19 | 
+| 2011-01-13 | 第36期名人戦リーグ | Cho Chikun | Yuki Satoshi | Win | W+R | 6.5 | 3082 | 58 | 
+| 2010-12-23 | 第67期本因坊戦予選 | Yuki Satoshi | Murakawa Daisuke | Win | B+R | 6.5 | 3024 | 3024 | 
+| 2010-12-08 | 第55期関西棋院第一位決定戦本戦1回戦 | Kiwada Kazuomi | Yuki Satoshi | Win | W+R | 6.5 | missing | -2998 | 
+| 2010-11-26 | 2010年アジア競技大会囲碁男子団体戦 | Yuki Satoshi | Xiao Zhenghao | Win | B+1.5 | 7.5 | 2998 | 2 | 
+| 2010-11-25 | 2010年アジア競技大会囲碁男子団体戦 | Yuki Satoshi | Park Junghwan | Lose | W+R | 7.5 | 2996 | 0 | 
+| 2010-11-25 | 2010年アジア競技大会囲碁男子団体戦 | Xie He | Yuki Satoshi | Lose | B+R | 7.5 | 2996 | 2 | 
+| 2010-11-16 | 第36期天元戦挑戦手合五番勝負第3局 | Yuki Satoshi | Yamashita Keigo | Win | B+2.5 | 6.5 | 2994 | 14 | 
+| 2010-11-09 | 第36期天元戦挑戦手合五番勝負第2局 | Yamashita Keigo | Yuki Satoshi | Win | W+2.5 | 6.5 | 2980 | 23 | 
+| 2010-11-05 | 第54期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Murakawa Daisuke | Yuki Satoshi | Lose | B+0.5 | 6.5 | 2957 | -8 | 
+| 2010-11-01 | 第36期碁聖戦本戦1回戦 | Iyama Yuta | Yuki Satoshi | Lose | B+R | 6.5 | 2965 | -26 | 
+| 2010-10-28 | 第36期天元戦挑戦手合五番勝負第1局 | Yuki Satoshi | Yamashita Keigo | Win | B+R | 6.5 | 2991 | 0 | 
+| 2010-10-21 | 第54期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yuki Satoshi | Murakawa Daisuke | Lose | W+R | 6.5 | 2991 | 107 | 
+| 2010-09-09 | 第36期天元戦挑戦者決定戦 | Kim Sujun | Yuki Satoshi | Win | W+4.5 | 6.5 | 2884 | -25 | 
+| 2010-09-02 | 第30期NECカップ囲碁トーナメント戦2回戦 | Yuki Satoshi | Yamashita Keigo | Lose | W+11.5 | 6.5 | 2909 | 2909 | 
+| 2010-08-11 | 第36期碁聖戦予選 | Yokota Shigeaki | Yuki Satoshi | Win | W+0.5 | 6.5 | missing | -2923 | 
+| 2010-08-05 | 第35期名人戦リーグ | Yuki Satoshi | Takao Shinji | Lose | W+R | 6.5 | 2923 | -33 | 
+| 2010-07-22 | 第30期NECカップ囲碁トーナメント戦1回戦 | Kobayashi Satoru | Yuki Satoshi | Win | W+2.5 | 6.5 | 2956 | -10 | 
+| 2010-07-15 | 第66期本因坊戦予選 | O Rissei | Yuki Satoshi | Lose | B+8.5 | 6.5 | 2966 | -4 | 
+| 2010-07-08 | 第35期名人戦リーグ | Yuki Satoshi | Ogata Masaki | Lose | W+1.5 | 6.5 | 2970 | -42 | 
+| 2010-07-01 | 第36期天元戦本戦準決勝 | Yuki Satoshi | Yoda Norimoto | Win | B+4.5 | 6.5 | 3012 | 15 | 
+| 2010-06-21 | 第17期阿含・桐山杯全日本早碁オープン戦1回戦 | Yuki Satoshi | Yamashita Keigo | Lose | W+R | 6.5 | 2997 | 63 | 
+| 2010-06-17 | 第35期名人戦リーグ | Mizokami Tomochika | Yuki Satoshi | Win | W+3.5 | 6.5 | 2934 | 9 | 
+| 2010-06-10 | 第36期天元戦本戦3回戦 | Akiyama Jiro | Yuki Satoshi | Win | W+8.5 | 6.5 | 2925 | 11 | 
+| 2010-06-03 | 第22回テレビアジア選手権決勝 | Yuki Satoshi | Kong Jie | Lose | W+R | 6.5 | 2914 | -4 | 
+| 2010-06-02 | 第22回テレビアジア選手権準決勝 | Yuki Satoshi | Kang Dongyun | Win | B+R | 6.5 | 2918 | 16 | 
+| 2010-06-01 | 第22回テレビアジア選手権1回戦 | Chen Yaoye | Yuki Satoshi | Win | W+R | 6.5 | 2902 | 102 | 
+| 2010-05-06 | 第35期名人戦リーグ | Cho Chikun | Yuki Satoshi | Win | W+R | 6.5 | 2800 | -18 | 
+| 2010-04-29 | 第36期天元戦本戦2回戦 | Shuto Shun | Yuki Satoshi | Win | W+R | 6.5 | 2818 | -34 | 
+| 2010-04-08 | 第35期名人戦リーグ | Yuki Satoshi | O Meien | Win | B+R | 6.5 | 2852 | 8 | 
+| 2010-04-01 | 第65期本因坊戦リーグ | Yamashita Keigo | Yuki Satoshi | Lose | B+R | 6.5 | 2844 | -7 | 
+| 2010-03-29 | 第8回春蘭杯世界囲碁選手権2回戦 | Wang Xi | Yuki Satoshi | Lose | B+R | 7.5 | 2851 | -8 | 
+| 2010-03-27 | 第8回春蘭杯世界囲碁選手権1回戦 | Yuki Satoshi | Lin Zhihan | Win | B+R | 7.5 | 2859 | -24 | 
+| 2010-03-18 | 第58期王座戦予選 | Ishida Atsushi | Yuki Satoshi | Lose | B+2.5 | 6.5 | 2883 | -30 | 
+| 2010-03-15 | 第35期碁聖戦本戦3回戦 | Yuki Satoshi | Sakai Hideyuki | Lose | W+R | 6.5 | 2913 | -24 | 
+| 2010-03-11 | 第65期本因坊戦リーグ | Iyama Yuta | Yuki Satoshi | Lose | B+5.5 | 6.5 | 2937 | -15 | 
+| 2010-03-04 | 第35期名人戦リーグ | Sakai Hideyuki | Yuki Satoshi | Lose | B+R | 6.5 | 2952 | -27 | 
+| 2010-02-25 | 第49期十段戦予選 | Yuki Satoshi | Oyama Kunio | Win | B+R | 6.5 | 2979 | 52 | 
+| 2010-02-18 | 第36期天元戦本戦1回戦 | Yuki Satoshi | Kono Rin | Win | B+8.5 | 6.5 | 2927 | 24 | 
+| 2010-02-11 | 第58期王座戦予選 | Yuki Satoshi | Omori Yasushi | Win | B+R | 6.5 | 2903 | 35 | 
+| 2010-02-04 | 第65期本因坊戦リーグ | Takemiya Masaki | Yuki Satoshi | Win | W+10.5 | 6.5 | 2868 | -45 | 
+| 2010-01-21 | 第35期名人戦リーグ | Yuki Satoshi | Cho U | Win | B+R | 6.5 | 2913 | 16 | 
+| 2010-01-14 | 第65期本因坊戦リーグ | Yuki Satoshi | Yamada Kimio | Lose | W+R | 6.5 | 2897 | 14 | 
+| 2010-01-07 | 第35期碁聖戦本戦2回戦 | Takei Takashi | Yuki Satoshi | Win | W+3.5 | 6.5 | 2883 | -1 | 
+| 2009-12-24 | 第58期王座戦予選 | Ha Youngil | Yuki Satoshi | Win | W+R | 6.5 | 2884 | -10 | 
+| 2009-12-17 | 第65期本因坊戦リーグ | Yuki Satoshi | Mimura Tomoyasu | Win | B+R | 6.5 | 2894 | 6 | 
+| 2009-12-10 | 第35期碁聖戦本戦1回戦 | Takao Shinji | Yuki Satoshi | Win | W+R | 6.5 | 2888 | 13 | 
+| 2009-12-03 | 第35期名人戦リーグ | Yamada Kimio | Yuki Satoshi | Win | W+R | 6.5 | 2875 | -212 | 
+| 2009-11-18 | 第53期関西棋院第一位決定戦挑戦手合三番勝負第3局 | Yuki Satoshi | Imamura Toshiya | Win | B+R | 6.5 | 3087 | 33 | 
+| 2009-11-14 | 第29期NECカップ囲碁トーナメント戦2回戦 | Ko Iso | Yuki Satoshi | Lose | B+11.5 | 6.5 | 3054 | -6 | 
+| 2009-11-12 | 第65期本因坊戦リーグ | Takao Shinji | Yuki Satoshi | Lose | B+R | 6.5 | 3060 | 16 | 
+| 2009-11-07 | 第53期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Imamura Toshiya | Yuki Satoshi | Lose | B+R | 6.5 | 3044 | -21 | 
+| 2009-10-29 | 第35期名人戦予選 | Yuki Satoshi | Hane Naoki | Win | B+4.5 | 6.5 | 3065 | 60 | 
+| 2009-10-20 | 第65期本因坊戦リーグ | Yuki Satoshi | Cho U | Lose | W+R | 6.5 | 3005 | -22 | 
+| 2009-10-15 | 第53期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yuki Satoshi | Imamura Toshiya | Win | B+R | 6.5 | 3027 | -28 | 
+| 2009-09-17 | 第35期名人戦予選 | Yuki Satoshi | Tsuruyama Atsushi | Win | B+5.5 | 6.5 | 3055 | 6 | 
+| 2009-09-12 | 第14回三星火災杯世界囲碁マスターズ1回戦A3 | Yuki Satoshi | Qiu Jun | Lose | W+R | 6.5 | 3049 | -16 | 
+| 2009-09-11 | 第14回三星火災杯世界囲碁マスターズ1回戦A2 | Yamashita Keigo | Yuki Satoshi | Lose | B+R | 6.5 | 3065 | 9 | 
+| 2009-09-10 | 第14回三星火災杯世界囲碁マスターズ1回戦A1 | Yuki Satoshi | Qiu Jun | Win | B+R | 6.5 | 3056 | 63 | 
+| 2009-08-20 | 第65期本因坊戦予選 | Yuki Satoshi | Oya Koichi | Win | B+R | 6.5 | 2993 | 38 | 
+| 2009-07-21 | 第34期碁聖戦挑戦手合五番勝負第3局 | Cho U | Yuki Satoshi | Lose | B+1.5 | 6.5 | 2955 | -29 | 
+| 2009-07-10 | 第34期碁聖戦挑戦手合五番勝負第2局 | Yuki Satoshi | Cho U | Lose | W+13.5 | 6.5 | 2984 | 43 | 
+| 2009-07-03 | 第29期NECカップ囲碁トーナメント戦1回戦 | Takao Shinji | Yuki Satoshi | Win | W+0.5 | 6.5 | 2941 | 13 | 
+| 2009-06-26 | 第34期碁聖戦挑戦手合五番勝負第1局 | Cho U | Yuki Satoshi | Lose | B+R | 6.5 | 2928 | 82 | 
+| 2009-06-10 | 第21回テレビアジア選手権1回戦 | Yuki Satoshi | Lee Changho | Lose | W+R | 6.5 | 2846 | -68 | 
+| 2009-05-28 | 第34期碁聖戦挑戦者決定戦 | Yuki Satoshi | Iyama Yuta | Win | B+1.5 | 6.5 | 2914 | 25 | 
+| 2009-05-14 | 第16期阿含・桐山杯全日本早碁オープン戦予選 | Yuki Satoshi | Kato Atsushi | Lose | W+R | 6.5 | 2889 | -21 | 
+| 2009-04-30 | 第34期碁聖戦本戦準決勝 | Yuki Satoshi | Takemiya Masaki | Win | B+4.5 | 6.5 | 2910 | 3 | 
+| 2009-04-09 | 第34期碁聖戦本戦3回戦 | So Yokoku | Yuki Satoshi | Win | W+R | 6.5 | 2907 | 17 | 
+| 2009-03-25 | 第35期名人戦予選 | Kiyonari Tetsuya | Yuki Satoshi | Win | W+R | 6.5 | 2890 | -64 | 
+| 2009-02-26 | 第34期碁聖戦本戦2回戦 | Yuki Satoshi | O Meien | Win | B+R | 6.5 | 2954 | 91 | 
+| 2009-02-19 | 第34期棋聖戦予選 | Yuki Satoshi | Akiyama Jiro | Lose | W+R | 6.5 | 2863 | -11 | 
+| 2009-02-05 | 第57期王座戦予選 | Yuki Satoshi | Takemiya Masaki | Lose | W+1.5 | 6.5 | 2874 | -163 | 
+| 2009-01-08 | 第34期棋聖戦予選 | Yuki Satoshi | O Meien | Win | B+R | 6.5 | 3037 | 51 | 
+| 2008-12-25 | 第35期天元戦本戦1回戦 | Yuki Satoshi | Yamashita Keigo | Lose | W+2.5 | 6.5 | 2986 | 358 | 
+| 2008-11-27 | 第22回世界囲碁選手権富士通杯国内予選 | Kudo Norio | Yuki Satoshi | Lose | B+R | 6.5 | 2628 | -28 | 
+| 2008-11-20 | 第52期関西棋院第一位決定戦挑戦手合三番勝負第3局 | Yuki Satoshi | Kiyonari Tetsuya | Win | B+R | 6.5 | 2656 | -10 | 
+| 2008-11-13 | 第34期碁聖戦本戦1回戦 | Yuki Satoshi | Morita Michihiro | Win | B+R | 6.5 | 2666 | 2 | 
+| 2008-11-08 | 第52期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Kiyonari Tetsuya | Yuki Satoshi | Lose | B+R | 6.5 | 2664 | -589 | 
+| 2008-10-16 | 第52期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yuki Satoshi | Kiyonari Tetsuya | Win | B+R | 6.5 | 3253 | 39 | 
+| 2008-10-09 | 第34期碁聖戦予選 | Yamada Noriyoshi | Yuki Satoshi | Win | W+11.5 | 6.5 | 3214 | 60 | 
+| 2008-10-02 | 第33期棋聖戦Aリーグ | Yuki Satoshi | Takao Shinji | Win | B+2.5 | 6.5 | 3154 | 10 | 
+| 2008-09-29 | 第15期阿含・桐山杯全日本早碁オープン戦準決勝 | Yuki Satoshi | Cho U | Lose | W+R | 6.5 | 3144 | -19 | 
+| 2008-09-11 | 第33期棋聖戦Aリーグ | Kataoka Satoshi | Yuki Satoshi | Lose | B+R | 6.5 | 3163 | -19 | 
+| 2008-08-28 | 第48期十段戦予選 | Aragaki Shun | Yuki Satoshi | Lose | B+4.5 | 6.5 | 3182 | -33 | 
+| 2008-08-21 | 第33期棋聖戦Aリーグ | Cho Chikun | Yuki Satoshi | Win | W+0.5 | 6.5 | 3215 | 352 | 
+| 2008-07-24 | 第33期棋聖戦Aリーグ | Yuki Satoshi | O Rissei | Lose | W+R | 6.5 | 2863 | -41 | 
+| 2008-07-17 | 第15期阿含・桐山杯全日本早碁オープン戦2回戦 | Yuki Satoshi | Yamada Kimio | Win | B+1.5 | 6.5 | 2904 | 21 | 
+| 2008-07-10 | 第34期名人戦予選 | Yuki Satoshi | Ha Youngil | Lose | W+1.5 | 6.5 | 2883 | 0 | 
+| 2008-07-07 | 第56期王座戦準決勝 | Cho U | Yuki Satoshi | Lose | B+R | 6.5 | 2883 | -6 | 
+| 2008-07-03 | 第15期阿含・桐山杯全日本早碁オープン戦1回戦 | Yuki Satoshi | Kobayashi Koichi | Win | B+R | 6.5 | 2889 | 17 | 
+| 2008-06-05 | 第33期棋聖戦Aリーグ | Iyama Yuta | Yuki Satoshi | Lose | B+7.5 | 6.5 | 2872 | 7 | 
+| 2008-05-22 | 第64期本因坊戦予選 | Nakaonoda Tomomi | Yuki Satoshi | Lose | B+R | 6.5 | 2865 | -35 | 
+| 2008-05-15 | 第34期天元戦本戦2回戦 | Yamashita Keigo | Yuki Satoshi | Lose | B+R | 6.5 | 2900 | -46 | 
+| 2008-05-08 | 第56期王座戦2回戦 | Yuki Satoshi | Takao Shinji | Win | B+0.5 | 6.5 | 2946 | 59 | 
+| 2008-04-24 | 第56期王座戦1回戦 | Cho Chikun | Yuki Satoshi | Win | W+R | 6.5 | 2887 | 232 | 
+| 2008-04-17 | 第33期棋聖戦予選 | Yuki Satoshi | Yamashiro Hiroshi | Win | B+R | 6.5 | 2655 | 120 | 
+| 2008-03-12 | 第33期碁聖戦本戦3回戦 | Yuki Satoshi | Takao Shinji | Lose | W+R | 6.5 | 2535 | -27 | 
+| 2008-03-03 | 第56期王座戦予選 | Yuki Satoshi | So Yokoku | Win | B+R | 6.5 | 2562 | -45 | 
+| 2008-01-24 | 第33期碁聖戦本戦2回戦 | Yuki Satoshi | Kobayashi Koichi | Win | B+R | 6.5 | 2607 | 58 | 
+| 2008-01-17 | 第34期天元戦本戦1回戦 | Yuki Satoshi | Ogata Masaki | Win | B+R | 6.5 | 2549 | -15 | 
+| 2007-11-22 | 第51期関西棋院第一位決定戦挑戦手合三番勝負第3局 | Yuki Satoshi | Sakai Hideyuki | Win | B+4.5 | 6.5 | 2564 | 11 | 
+| 2007-11-10 | 第51期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Sakai Hideyuki | Yuki Satoshi | Win | W+R | 6.5 | 2553 | 40 | 
+| 2007-11-01 | 第33期碁聖戦本戦1回戦 | Yuki Satoshi | Mimura Tomoyasu | Win | B+1.5 | 6.5 | 2513 | 34 | 
+| 2007-10-25 | 第51期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yuki Satoshi | Sakai Hideyuki | Lose | W+3.5 | 6.5 | 2479 | -520 | 
+| 2007-07-05 | 第14期阿含・桐山杯全日本早碁オープン戦1回戦 | Takao Shinji | Yuki Satoshi | Lose | B+R | 6.5 | 2999 | -39 | 
+| 2007-06-28 | 第33期天元戦本戦3回戦 | Yuki Satoshi | Yamashita Keigo | Lose | W+R | 6.5 | 3038 | -23 | 
+| 2007-06-11 | 第19回テレビアジア選手権1回戦 | Yuki Satoshi | Lee Sedol | Lose | W+7.5 | 6.5 | 3061 | 55 | 
+| 2007-04-26 | 第33期天元戦本戦2回戦 | Yamada Noriyoshi | Yuki Satoshi | Win | W+R | 6.5 | 3006 | 18 | 
+| 2007-04-14 | 第20回世界囲碁選手権富士通杯1回戦 | Yuki Satoshi | Hu Yaoyu | Lose | W+R | 6.5 | 2988 | -79 | 
+| 2007-03-29 | 第55期王座戦予選 | So Yokoku | Yuki Satoshi | Lose | B+0.5 | 6.5 | 3067 | 260 | 
+| 2007-03-01 | 第33期天元戦本戦1回戦 | Yuki Satoshi | Hane Naoki | Win | B+2.5 | 6.5 | 2807 | 45 | 
+| 2007-02-08 | 第20回世界囲碁選手権富士通杯国内予選決勝 | Cho Chikun | Yuki Satoshi | Win | W+R | 6.5 | 2762 | 77 | 
+| 2007-01-11 | 第32期碁聖戦本戦2回戦 | Yuki Satoshi | Kono Rin | Lose | W+R | 6.5 | 2685 | 42 | 
+| 2006-12-21 | 第20回世界囲碁選手権富士通杯国内予選 | Yuki Satoshi | Hane Naoki | Win | B+0.5 | 6.5 | 2643 | -5 | 
+| 2006-12-14 | 第32期碁聖戦本戦1回戦 | Yuki Satoshi | Tsuruyama Atsushi | Win | B+2.5 | 6.5 | 2648 | -37 | 
+| 2006-11-18 | 第50期関西棋院第一位決定戦本戦決勝三番勝負第2局 | Yata Naoki | Yuki Satoshi | Win | W+R | 6.5 | 2685 | -7 | 
+| 2006-11-02 | 第50期関西棋院第一位決定戦本戦決勝三番勝負第1局 | Yuki Satoshi | Yata Naoki | Win | B+8.5 | 6.5 | 2692 | -55 | 
+| 2006-10-05 | 第31期棋聖戦Bリーグ | Kato Atsushi | Yuki Satoshi | Lose | B+2.5 | 6.5 | 2747 | -34 | 
+| 2006-09-07 | 第31期棋聖戦Bリーグ | Yuki Satoshi | Kobayashi Satoru | Lose | W+2.5 | 6.5 | 2781 | -13 | 
+| 2006-08-26 | 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Yuki Satoshi | Lee Sedol | Lose | W+R | 6.5 | 2794 | -30 | 
+| 2006-08-21 | 第13期阿含・桐山杯全日本早碁オープン戦準決勝 | Cho U | Yuki Satoshi | Lose | B+R | 6.5 | 2824 | 6 | 
+| 2006-08-17 | 第31期棋聖戦Bリーグ | Yuki Satoshi | Imamura Toshiya | Lose | W+R | 6.5 | 2818 | -85 | 
+| 2006-08-03 | 第13期阿含・桐山杯全日本早碁オープン戦2回戦 | Yuki Satoshi | Kono Rin | Win | B+R | 6.5 | 2903 | 17 | 
+| 2006-07-20 | 第31期棋聖戦Bリーグ | Yuki Satoshi | O Rissei | Lose | W+0.5 | 6.5 | 2886 | -38 | 
+| 2006-07-13 | 第13期阿含・桐山杯全日本早碁オープン戦1回戦 | Yuki Satoshi | Ryu Shikun | Win | B+9.5 | 6.5 | 2924 | -20 | 
+| 2006-07-06 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Yuki Satoshi | Cho Chikun | Win | B+2.5 | 6.5 | 2944 | -155 | 
+| 2006-06-22 | 第31期棋聖戦Bリーグ | Cho Chikun | Yuki Satoshi | Win | W+R | 6.5 | 3099 | 10 | 
+| 2006-06-03 | 第19回世界囲碁選手権富士通杯3回戦 | Yuki Satoshi | Choi Cheolhan | Lose | W+R | 6.5 | 3089 | 91 | 
+| 2006-05-03 | 第5回CSK杯囲碁アジア対抗戦第3戦 | Chen Shiyuan | Yuki Satoshi | Win | W+4.5 | 6.5 | 2998 | -8 | 
+| 2006-05-02 | 第5回CSK杯囲碁アジア対抗戦第2戦 | Yuki Satoshi | Xie He | Lose | W+1.5 | 6.5 | 3006 | -28 | 
+| 2006-05-01 | 第5回CSK杯囲碁アジア対抗戦第1戦 | Yuki Satoshi | Ko Keuntae | Lose | W+R | 6.5 | 3034 | -44 | 
+| 2006-04-10 | 第19回世界囲碁選手権富士通杯2回戦 | Yuki Satoshi | Gu Li | Win | B+R | 6.5 | 3078 | 14 | 
+| 2006-04-08 | 第19回世界囲碁選手権富士通杯1回戦 | Yu Bin | Yuki Satoshi | Win | W+R | 6.5 | 3064 | 30 | 
+| 2006-03-13 | 第6回春蘭杯世界囲碁選手権2回戦 | Yuki Satoshi | Chang Hao | Lose | W+R | 7.5 | 3034 | -27 | 
+| 2006-03-11 | 第6回春蘭杯世界囲碁選手権1回戦 | Zhou Junxun | Yuki Satoshi | Win | W+R | 7.5 | 3061 | 8 | 
+| 2006-02-16 | 第31期碁聖戦本戦3回戦 | Yuki Satoshi | Ryu Shikun | Lose | W+R | 6.5 | 3053 | -14 | 
+| 2006-02-02 | 第32期天元戦本戦1回戦 | Takao Shinji | Yuki Satoshi | Lose | B+R | 6.5 | 3067 | -51 | 
+| 2006-01-19 | 第19回世界囲碁選手権富士通杯国内予選決勝 | Rin Kaiho | Yuki Satoshi | Win | W+R | 6.5 | 3118 | 28 | 
+| 2005-12-22 | 第54期王座戦予選 | Michael Redmond | Yuki Satoshi | Lose | B+R | 6.5 | 3090 | -241 | 
+| 2005-12-15 | 第31期碁聖戦本戦2回戦 | Hane Naoki | Yuki Satoshi | Win | W+R | 6.5 | 3331 | 90 | 
+| 2005-11-10 | 第31期碁聖戦本戦1回戦 | Yamada Kimio | Yuki Satoshi | Win | W+R | 6.5 | 3241 | 254 | 
+| 2005-11-03 | 第30期棋聖戦挑戦者決定戦 | Yamashita Keigo | Yuki Satoshi | Lose | B+3.5 | 6.5 | 2987 | -228 | 
+| 2005-10-06 | 第30期棋聖戦Aリーグ | Yuki Satoshi | Kato Atsushi | Win | B+8.5 | 6.5 | 3215 | 75 | 
+| 2005-09-15 | 第30期棋聖戦Aリーグ | Honda Kunihisa | Yuki Satoshi | Win | W+R | 6.5 | 3140 | -7 | 
+| 2005-08-18 | 第61期本因坊戦予選 | Kobayashi Satoru | Yuki Satoshi | Lose | B+R | 6.5 | 3147 | -45 | 
+| 2005-08-04 | 第30期棋聖戦Aリーグ | Cho U | Yuki Satoshi | Win | W+R | 6.5 | 3192 | -11 | 
+| 2005-07-26 | 第30期碁聖戦挑戦手合五番勝負第3局 | Yoda Norimoto | Yuki Satoshi | Lose | B+R | 6.5 | 3203 | -17 | 
+| 2005-07-21 | 第30期棋聖戦Aリーグ | Yuki Satoshi | Yoda Norimoto | Win | B+6.5 | 6.5 | 3220 | 23 | 
+| 2005-07-15 | 第30期碁聖戦挑戦手合五番勝負第2局 | Yuki Satoshi | Yoda Norimoto | Lose | W+R | 6.5 | 3197 | 4 | 
+| 2005-07-07 | 第30期碁聖戦挑戦手合五番勝負第1局 | Yoda Norimoto | Yuki Satoshi | Lose | B+R | 6.5 | 3193 | -26 | 
+| 2005-06-30 | 第30期棋聖戦Aリーグ | Yuki Satoshi | Mimura Tomoyasu | Win | B+R | 6.5 | 3219 | 304 | 
+| 2005-06-23 | 第53期王座戦1回戦 | Yuki Satoshi | O Rissei | Lose | W+R | 6.5 | 2915 | -18 | 
+| 2005-06-09 | 第30期碁聖戦挑戦者決定戦 | Hane Naoki | Yuki Satoshi | Win | W+R | 6.5 | 2933 | -7 | 
+| 2005-05-12 | 第30期碁聖戦本戦準決勝 | Cho Chikun | Yuki Satoshi | Win | W+R | 6.5 | 2940 | -5 | 
+| 2005-05-03 | 第4回CSK杯囲碁アジア対抗戦第3戦 | Yuki Satoshi | Rin Kaiho | Win | B+5.5 | 6.5 | 2945 | 9 | 
+| 2005-05-02 | 第4回CSK杯囲碁アジア対抗戦第2戦 | Yuki Satoshi | Kim Seonryong | Win | B+R | 6.5 | 2936 | 7 | 
+| 2005-05-01 | 第4回CSK杯囲碁アジア対抗戦第1戦 | Yuki Satoshi | Hu Yaoyu | Win | B+R | 6.5 | 2929 | 96 | 
+| 2005-04-14 | 第53期王座戦予選 | Yuki Satoshi | Takao Shinji | Win | B+R | 6.5 | 2833 | -51 | 
+| 2005-04-11 | 第18回世界囲碁選手権富士通杯2回戦 | Yuki Satoshi | Yoo Changhyuk | Lose | W+R | 6.5 | 2884 | -11 | 
+| 2005-04-09 | 第18回世界囲碁選手権富士通杯1回戦 | Yuki Satoshi |  | Win | B+R | 6.5 | 2895 | -3 | 
+| 2005-03-17 | 第29期棋聖戦挑戦手合七番勝負第7局 | Hane Naoki | Yuki Satoshi | Lose | B+4.5 | 6.5 | 2898 | 3 | 
+| 2005-03-10 | 第29期棋聖戦挑戦手合七番勝負第6局 | Hane Naoki | Yuki Satoshi | Lose | B+6.5 | 6.5 | 2895 | 14 | 
+| 2005-03-03 | 第30期碁聖戦本戦3回戦 | Takanashi Seiken | Yuki Satoshi | Win | W+R | 6.5 | 2881 | -278 | 
+| 2005-02-25 | 第29期棋聖戦挑戦手合七番勝負第5局 | Yuki Satoshi | Hane Naoki | Win | B+R | 6.5 | 3159 | -103 | 
+| 2005-02-17 | 第29期棋聖戦挑戦手合七番勝負第4局 | Hane Naoki | Yuki Satoshi | Win | W+R | 6.5 | 3262 | -8 | 
+| 2005-02-10 | 第18回世界囲碁選手権富士通杯国内予選決勝 | Yuki Satoshi | Mimura Tomoyasu | Win | B+2.5 | 6.5 | 3270 | 32 | 
+| 2005-02-03 | 第29期棋聖戦挑戦手合七番勝負第3局 | Yuki Satoshi | Hane Naoki | Lose | W+1.5 | 6.5 | 3238 | -34 | 
+| 2005-01-27 | 第29期棋聖戦挑戦手合七番勝負第2局 | Hane Naoki | Yuki Satoshi | Win | W+R | 6.5 | 3272 | 55 | 
+| 2005-01-20 | 第30期碁聖戦本戦2回戦 | Yuki Satoshi | Yamashiro Hiroshi | Win | B+R | 6.5 | 3217 | 28 | 
+| 2005-01-13 | 第29期棋聖戦挑戦手合七番勝負第1局 | Yuki Satoshi | Hane Naoki | Lose | W+R | 6.5 | 3189 | 17 | 
+| 2004-12-23 | 第30期碁聖戦本戦1回戦 | Ishikura Noboru | Yuki Satoshi | Win | W+6.5 | 6.5 | 3172 | 157 | 
+| 2004-12-02 | 第31期天元戦本戦1回戦 | Kato Masao | Yuki Satoshi | Lose | B+R | 6.5 | 3015 | 9 | 
+| 2004-11-07 | 第29期棋聖戦挑戦者決定戦 | Yuki Satoshi | Yamashita Keigo | Win | B+6.5 | 6.5 | 3006 | -166 | 
+| 2004-10-07 | 第29期棋聖戦Bリーグ | Yuki Satoshi | Cho U | Win | B+R | 6.5 | 3172 | -123 | 
+| 2004-09-09 | 第29期棋聖戦Bリーグ | Yuki Satoshi | Cho Chikun | Win | B+R | 6.5 | 3295 | 157 | 
+| 2004-08-25 | 第2期トヨタ＆デンソー杯囲碁世界王座戦3回戦 | Choi Cheolhan | Yuki Satoshi | Lose | B+2.5 | 6.5 | 3138 | -16 | 
+| 2004-08-23 | 第2期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Wang Lei (b) | Yuki Satoshi | Win | W+R | 6.5 | 3154 | 1 | 
+| 2004-08-21 | 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Cho Hunhyun | Yuki Satoshi | Win | W+R | 6.5 | 3153 | 27 | 
+| 2004-08-05 | 第29期棋聖戦Bリーグ | Yuki Satoshi | Kobayashi Satoru | Win | B+1.5 | 6.5 | 3126 | 39 | 
+| 2004-07-22 | 第2期トヨタ＆デンソー杯囲碁世界王座戦日本予選決勝 | Yuki Satoshi | Nakamura Shinya | Win | B+R | 6.5 | 3087 | 9 | 
+| 2004-07-08 | 第29期棋聖戦Bリーグ | Imamura Yoshiaki | Yuki Satoshi | Win | W+11.5 | 6.5 | 3078 | -49 | 
+| 2004-07-01 | 第52期王座戦2回戦 | Yamashita Keigo | Yuki Satoshi | Lose | B+R | 6.5 | 3127 | -29 | 
+| 2004-06-12 | 第2期JALスーパー早碁2回戦 | Cho Chikun | Yuki Satoshi | Lose | B+R | 6.5 | 3156 | -14 | 
+| 2004-06-03 | 第29期棋聖戦Bリーグ | O Rissei | Yuki Satoshi | Lose | B+0.5 | 6.5 | 3170 | 27 | 
+| 2004-05-27 | 第52期王座戦1回戦 | Rin Kaiho | Yuki Satoshi | Win | W+3.5 | 6.5 | 3143 | -60 | 
+| 2004-05-13 | 第29期棋聖戦予選 | Takemiya Masaki | Yuki Satoshi | Win | W+5.5 | 6.5 | 3203 | -77 | 
+| 2004-04-10 | 第17回世界囲碁選手権富士通杯1回戦 | Yuki Satoshi | Park Yeonghun | Lose | W+1.5 | 6.5 | 3280 | 3 | 
+| 2004-03-23 | 第3回CSK杯囲碁アジア対抗戦第3戦 | O Meien | Yuki Satoshi | Win | W+0.5 | 6.5 | 3277 | -23 | 
+| 2004-03-22 | 第3回CSK杯囲碁アジア対抗戦第2戦 | Lee Changho | Yuki Satoshi | Lose | B+R | 6.5 | 3300 | -32 | 
+| 2004-03-21 | 第3回CSK杯囲碁アジア対抗戦第1戦 | Ding Wei | Yuki Satoshi | Win | W+R | 6.5 | 3332 | -18 | 
+| 2004-03-15 | 第29期碁聖戦本戦3回戦 | Yuki Satoshi | O Rissei | Lose | W+R | 6.5 | 3350 | 134 | 
+| 2004-02-19 | 第29期碁聖戦本戦2回戦 | Yuki Satoshi | Hikosaka Naoto | Win | B+R | 6.5 | 3216 | -11 | 
+| 2004-02-09 | 第17回世界囲碁選手権富士通杯国内予選決勝 | Yuki Satoshi | Kataoka Satoshi | Win | B+R | 6.5 | 3227 | -18 | 
+| 2004-01-29 | 第29期碁聖戦本戦1回戦 | O Meien | Yuki Satoshi | Win | W+R | 6.5 | 3245 | 88 | 
+| 2004-01-08 | 第52期王座戦予選 | Yuki Satoshi | Cho Sonjin | Win | B+R | 6.5 | 3157 | -17 | 
+| 2003-12-31 | 第5回春蘭杯世界囲碁選手権2回戦 | Yuki Satoshi | Gu Li | Lose | W+R | 7.5 | 3174 | -2634 | 
+| 2003-10-05 | 第1期JALスーパー早碁決勝 | Cho U | Yuki Satoshi | Win | W+5.5 | 6.5 | 5808 | 2918 | 
+| 2003-09-21 | 第1期JALスーパー早碁準決勝 | Yuki Satoshi | Kobayashi Koichi | Win | B+R | 6.5 | 2890 | 57 | 
+| 2003-09-08 | 第17回世界囲碁選手権富士通杯国内予選 | Sakai Hideyuki | Yuki Satoshi | Win | W+R | 6.5 | 2833 | 65 | 
+| 2003-08-24 | 第1期JALスーパー早碁2回戦 | Yamashita Keigo | Yuki Satoshi | Win | W+R | 6.5 | 2768 | 227 | 
+| 2003-07-17 | 第51期王座戦2回戦 | Yuki Satoshi | Takao Shinji | Lose | W+R | 6.5 | 2541 | -26 | 
+| 2003-05-21 | 第29期碁聖戦予選 | Yamada Noriyoshi | Yuki Satoshi | Win | W+R | 6.5 | 2567 | -27 | 
+| 2003-05-18 | 第1期JALスーパー早碁1回戦 | Yuki Satoshi | O Meien | Win | B+R | 6.5 | 2594 | -49 | 
+| 2003-05-15 | 第29期天元戦本戦2回戦 | Yuki Satoshi | Kono Rin | Lose | W+2.5 | 6.5 | 2643 | -88 | 
+| 2003-04-29 | 第2回CSK杯囲碁アジア対抗戦第3戦 | Yuki Satoshi | Ding Wei | Win | B+R | 6.5 | 2731 | 46 | 
+| 2003-04-28 | 第2回CSK杯囲碁アジア対抗戦第2戦 | Yuki Satoshi | Song Taekon | Win | B+R | 6.5 | 2685 | 152 | 
+| 2003-04-27 | 第2回CSK杯囲碁アジア対抗戦第1戦 | Huang Xiangren | Yuki Satoshi | Win | W+R | 6.5 | 2533 | -19 | 
+| 2003-03-20 | 第51期王座戦1回戦 | Ogata Masaki | Yuki Satoshi | Win | W+R | 6.5 | 2552 | -72 | 
+| 2003-01-30 | 第29期天元戦本戦1回戦 | Yuki Satoshi | Omori Yasushi | Win | B+R | 6.5 | 2624 | 29 | 
+| 2003-01-23 | 第28期碁聖戦本戦1回戦 | Otake Hideo | Yuki Satoshi | Lose | B+R | 6.5 | 2595 | 4 | 
+| 2002-12-26 | 第4回春蘭杯世界囲碁選手権3回戦 | Luo Xihe | Yuki Satoshi | Lose | B+1.5 | 7.5 | 2591 | 2591 | 
+| 2002-05-20 | 第4回春蘭杯世界囲碁選手権2回戦 | Ma Xiaochun | Yuki Satoshi | Win | W+4.5 | 7.5 | missing | 0 | 
+| 2002-05-18 | 第4回春蘭杯世界囲碁選手権1回戦 | Lee Sedol | Yuki Satoshi | Win | W+8.5 | 7.5 | missing | 0 | 
+| 2000-12-06 | 2000年国際新鋭囲碁対抗戦第3戦 | Yuki Satoshi | Gu Li | Lose | W+R | 6.5 | missing | missing |
 
 
 

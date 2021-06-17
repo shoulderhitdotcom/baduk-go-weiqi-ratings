@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-17 | 第46期棋聖戦Sリーグ  | Murakawa Daisuke | Ichiriki Ryo | Lose | W+R | 6.5 | 3163 | 28 | 
 | 2021-06-09 | 第47期碁聖戦予選 | Abe Yoshiki | Murakawa Daisuke | Win | W+R | 6.5 | 3135 | -3 | 
 | 2021-06-09 | 第47期碁聖戦予選 | Abe Yoshiki | Murakawa Daisuke | Win | W+R | 6.5 | 3138 | -3 | 
 | 2021-06-02 | 第47期名人戦予選 | Murakawa Daisuke | Shintani Yousuke | Win | B+R | 6.5 | 3141 | 16 | 

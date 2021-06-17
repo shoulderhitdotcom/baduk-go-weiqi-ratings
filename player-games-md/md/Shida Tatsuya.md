@@ -5,241 +5,243 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第69期王座戦予選 | Shida Tatsuya | Koyama Kuya | W+R | 2021-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qWTKq9QT9L5KsDU3AGUH%2BQ%3D%3D) | 
-| 第69期王座戦予選 | Shida Tatsuya | Sada Atsushi | B+R | 2021-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mlsHjoTmCFmxlXamxQhsyw%3D%3D) | 
-| 第11回おかげ杯囲碁トーナメント戦1回戦 | Ueno Asami | Shida Tatsuya | B+R | 2020-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HSyehAKjPOz9R08HZWM%2BIA%3D%3D) | 
-| 第46期名人戦予選 | Cho U | Shida Tatsuya | B+3.5 | 2020-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AtkkF3HYwFDkZPTK7bYSAg%3D%3D) | 
-| 第59期十段戦予選 | Hane Naoki | Shida Tatsuya | B+2.5 | 2020-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LOvWwwSF%2BITBcBCpETkpsQ%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Onishi Ryuhei | Shida Tatsuya | B+R | 2020-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J9Qte3RDPRNNqzgDOqVmTA%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Yoda Norimoto | Shida Tatsuya | B+0.5 | 2020-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BtzU3hrTxz96WC%2FOMp2JZw%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Shida Tatsuya | So Yokoku | W+R | 2020-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jXpD0P3xMRtPtaqeHng2cA%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Shida Tatsuya | Motoki Katsuya | W+0.5 | 2020-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uxiH90Lu5BU0dl5Q7M2e9g%3D%3D) | 
-| 第68期王座戦予選 | Shida Tatsuya | Sun Zhe | W+R | 2020-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OsOUKwjQ%2FRkNuRTOGA%2FL5w%3D%3D) | 
-| 第25回LG杯国内予選決勝 | Onishi Ryuhei | Shida Tatsuya | B+1.5 | 2020-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pq3J%2BKNIM8EVZfXkDNn86w%3D%3D) | 
-| 第25回LG杯国内予選 | Shida Tatsuya | Suzuki Shinji | B+R | 2020-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EIcivyo42v0m31Fy%2BIUbSg%3D%3D) | 
-| 第75期本因坊戦リーグ  | Hsu Chiayuan | Shida Tatsuya | B+R | 2020-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AmyjaeGA0to%2Bpj%2F8AWkHTQ%3D%3D) | 
-| 第27期阿含・桐山杯全日本早碁オープン戦予選 | missing | Shida Tatsuya | W+8.5 | 2020-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VCSMWvYxj3kxI4wfHwYsFA%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Shida Tatsuya | Adachi Toshimasa | B+1.5 | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HhtWh%2BqH9aoPnQpDCHST7A%3D%3D) | 
-| 第68期王座戦予選 | Numadate Sakiya | Shida Tatsuya | W+3.5 | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9j5tL9pufCFQEE6YhDY%2FbQ%3D%3D) | 
-| 第75期本因坊戦リーグ | Shida Tatsuya | Hane Naoki | B+R | 2020-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6I83xFbnCXW%2F%2BWfDnIW5zQ%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Yu Zhengqi | Shida Tatsuya | B+R | 2020-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bha6%2Fi1WSZX6Bb1VryWamw%3D%3D) | 
-| 第75期本因坊戦リーグ | Shibano Toramaru | Shida Tatsuya | B+1.5 | 2020-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ncDKWoSnHcwB8aG%2B11jcyQ%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Yamashita Keigo | Shida Tatsuya | B+R | 2020-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tSEezsmQ854HP5T7GOUnzQ%3D%3D) | 
-| 第75期本因坊戦リーグ | Shida Tatsuya | Ichiriki Ryo | W+R | 2020-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dS59D%2FjB515heQMKXl6vKg%3D%3D) | 
-| 第75期本因坊戦リーグ | Shida Tatsuya | Kono Rin | W+2.5 | 2019-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rb%2FlbTwLmAAHgpRU0C9LBA%3D%3D) | 
-| 第75期本因坊戦リーグ | Shida Tatsuya | Yokotsuka Riki | B+R | 2019-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aHIa%2BrjR3TM9I4CorVunxQ%3D%3D) | 
-| 第46期天元戦予選 | Ida Atsushi | Shida Tatsuya | B+2.5 | 2019-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gWN%2FFOsAGmiJlpoEDaALSQ%3D%3D) | 
-| 第58期十段戦2回戦 | Iyama Yuta | Shida Tatsuya | B+R | 2019-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F80oGlFkSdNQI2YqqXE3Tw%3D%3D) | 
-| 第75期本因坊戦リーグ | Yamashita Keigo | Shida Tatsuya | W+6.5 | 2019-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FA%2BgpuBeVYxqf7nL7uaJcA%3D%3D) | 
-| 第58期十段戦1回戦 | Chang Rueijie | Shida Tatsuya | W+R | 2019-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j1qGHAR24%2BP83L5zSRT5uQ%3D%3D) | 
-| 第45期名人戦予選 | Shida Tatsuya | Fujisawa Rina | W+R | 2019-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xo3aEPXfvL9uEiHzuEX56g%3D%3D) | 
-| 第44期棋聖戦Aリーグ | Shida Tatsuya | Yu Zhengqi | W+3.5 | 2019-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vM1BgFNO%2FFd0SOVuGm6kcw%3D%3D) | 
-| 第75期本因坊戦予選 | Shida Tatsuya | Ko Iso | B+R | 2019-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=up%2FuUxcDE2%2FkXGy4Zw8iDQ%3D%3D) | 
-| 第44期棋聖戦Aリーグ | Cho U | Shida Tatsuya | W+R | 2019-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yDptcBk6XebiUS6dcQ6syg%3D%3D) | 
-| 第58期十段戦予選 | Shida Tatsuya | Fujii Shuya | B+R | 2019-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=32A%2FfhasRNZG%2FqcoPv0Ulw%3D%3D) | 
-| 第44期棋聖戦Aリーグ | Shida Tatsuya | Akiyama Jiro | W+R | 2019-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=34EYFtEhHu5rg0jxFuWgwA%3D%3D) | 
-| 第75期本因坊戦予選 | Murakawa Daisuke | Shida Tatsuya | W+R | 2019-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d97lFrWLebSdhbFLWfuBvg%3D%3D) | 
-| 第44期棋聖戦Aリーグ | Yamashiro Hiroshi | Shida Tatsuya | W+R | 2019-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8kjETfEP7H5ZBoscl%2F4mRg%3D%3D) | 
-| 第44期棋聖戦Aリーグ | Shida Tatsuya | Rin Kanketsu | B+R | 2019-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=puoy0MJKw5Drx%2Bkks7DuYg%3D%3D) | 
-| 第10回おかげ杯囲碁トーナメント戦1回戦 | Ichiriki Ryo | Shida Tatsuya | B+6.5 | 2019-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V%2FJ1OoV5CDdHQkCLnjLvRA%3D%3D) | 
-| 第44期棋聖戦Aリーグ | Shida Tatsuya | Ichiriki Ryo | W+R | 2019-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NiJYEOsCEgDpXQUB0%2Baewg%3D%3D) | 
-| 第67期王座戦予選 | Shida Tatsuya | Shibano Toramaru | W+R | 2019-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hy65abaNbUKAiRcjWD79Fw%3D%3D) | 
-| 第44期棋聖戦Aリーグ | Shibano Toramaru | Shida Tatsuya | W+R | 2019-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qAhnsuyBkYDSRVzfuBwjiA%3D%3D) | 
-| 第45期天元戦1回戦 | Sada Atsushi | Shida Tatsuya | B+0.5 | 2019-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VUfS9foKe2BQFotrFSd46w%3D%3D) | 
-| 第44期碁聖戦本戦2回戦 | Shida Tatsuya | Seto Taiki | W+4.5 | 2019-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Pdu2kIuKgQnbe15fawBWA%3D%3D) | 
-| 第44期碁聖戦本戦1回戦 | Shida Tatsuya | Ryu Shikun | B+1.5 | 2018-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hf9o2StV%2F6THVLiXHMnYIQ%3D%3D) | 
-| 第44期名人戦最終予選決勝 | Shida Tatsuya | Suzuki Shinji | W+0.5 | 2018-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FoAxDLFXWokiYGQxAZhzFA%3D%3D) | 
-| 第60期王冠戦予選 | Shida Tatsuya | Hane Naoki | W+1.5 | 2018-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p2cw7agOliRiNSY8jHOh0w%3D%3D) | 
-| 第44期名人戦最終予選 | Shida Tatsuya | Takao Shinji | B+4.5 | 2018-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Faa6GsUlR%2BhN1%2F0r8wydg%3D%3D) | 
-| 第44期名人戦最終予選 | Shida Tatsuya | Sakai Hideyuki | B+R | 2018-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nOcj6RjX4mQR83OOqSWmJg%3D%3D) | 
-| 第57期十段戦2回戦 | Ida Atsushi | Shida Tatsuya | B+3.5 | 2018-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xGZKMLuUSvYavkMybuwiLQ%3D%3D) | 
-| 第44期碁聖戦予選 | Yamada Kimio | Shida Tatsuya | W+6.5 | 2018-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0ZFBK9PT%2BQ%2F2ZtZU09mJqQ%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Yoda Norimoto | Shida Tatsuya | W+0.5 | 2018-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bdqy2G0fxhrv5nW6oA1aBQ%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Shida Tatsuya | Ko Iso | B+R | 2018-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A25c277pXsz3%2BhDyETLQQQ%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Kobayashi Satoru | Shida Tatsuya | W+R | 2018-08-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3ZBO9xdX1kOiHKWmoz6GcA%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Shida Tatsuya | Murakawa Daisuke | W+R | 2018-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=38wni7AnwY%2F85lH%2BXcorSg%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Cho Chikun | Shida Tatsuya | B+R | 2018-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fasSE71bYGFi8G9NImye0g%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Shida Tatsuya | Yu Zhengqi | B+1.5 | 2018-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YiG%2F4sFlbTEwFJobQA%2FhBQ%3D%3D) | 
-| 第30回テレビアジア選手権1回戦 | Park Junghwan | Shida Tatsuya | B+R | 2018-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C5LrDHGdnGoji7PbGGpLyg%3D%3D) | 
-| 第44期天元戦2回戦 | Shida Tatsuya | Yamashita Keigo | W+R | 2018-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S%2F8%2Bi4e%2FFq0ZV0%2FLc8%2BtMA%3D%3D) | 
-| 第43期棋聖戦Aリーグ | So Yokoku | Shida Tatsuya | B+1.5 | 2018-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jH5JB15UDAoe0cR%2B3iE6oQ%3D%3D) | 
-| 第43期碁聖戦本戦3回戦 | Takao Shinji | Shida Tatsuya | B+R | 2018-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6nQPxeJrcZcTSMbB4Th91w%3D%3D) | 
-| 第66期王座戦予選 | Shida Tatsuya | Sun Zhe | W+0.5 | 2018-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8CYgXmyzrPMhlnhrm0V53g%3D%3D) | 
-| 第56期十段戦挑戦者決定戦 | Shida Tatsuya | Murakawa Daisuke | W+R | 2018-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tsJilR48QUsgPzJw1ilDAA%3D%3D) | 
-| 第44期天元戦1回戦 | Shida Tatsuya | Yuki Satoshi | B+R | 2018-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NXJGigqAupRbj1JHT4TB9g%3D%3D) | 
-| 第43期碁聖戦本戦2回戦 | Matsumoto Takehisa | Shida Tatsuya | W+R | 2018-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J6rijV9h%2Ff8fAX2ti0D3PQ%3D%3D) | 
-| ナショナルチーム冬季合宿 | Ichiriki Ryo | Shida Tatsuya | W+1.5 | 2017-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sJjS8j9PmSV6pcai9OfAjA%3D%3D) | 
-| 第56期十段戦準決勝 | Shida Tatsuya | Ichiriki Ryo | B+1.5 | 2017-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F5on2S6AwMImRnAyC%2Fpbkg%3D%3D) | 
-| 第56期十段戦3回戦 | O Meien | Shida Tatsuya | W+3.5 | 2017-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LFNylnX5jwsMSJDY5k7qtA%3D%3D) | 
-| 第12回広島アルミ杯・若鯉戦2回戦 | Lee Ishu | Shida Tatsuya | B+6.5 | 2017-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DxZTfKxT3MUHiFv99KYmTQ%3D%3D) | 
-| 第12回広島アルミ杯・若鯉戦1回戦 | Hirata Tomoya | Shida Tatsuya | W+3.5 | 2017-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FswH4mqPTKDznzvNjKlUzw%3D%3D) | 
-| 第43期碁聖戦本戦1回戦 | Shida Tatsuya | Mimura Tomoyasu | B+R | 2017-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zzerI%2Bzk6queLiNESYX9gQ%3D%3D) | 
-| 第43期名人戦最終予選 | Shida Tatsuya | Hirata Tomoya | W+R | 2017-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IldZVWu%2BWYcCY%2FVyewDlow%3D%3D) | 
-| 第56期十段戦2回戦 | Yuki Satoshi | Shida Tatsuya | W+3.5 | 2017-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rdUD1wjlI75JhtYJE2Zx%2Bw%3D%3D) | 
-| 第56期十段戦1回戦 | Adachi Toshimasa | Shida Tatsuya | W+R | 2017-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a2xv%2F4vAQRK6R34n%2BvXpHQ%3D%3D) | 
-| 第43期名人戦　最終予選1回戦 | Shida Tatsuya | Seto Taiki | B+1.5 | 2017-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2PakMT%2F0iN7xbMhKeYB36w%3D%3D) | 
-| 第42期棋聖戦　Bリーグプレーオフ | Shida Tatsuya | Yu Zhengqi | W+R | 2017-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=591dnWa7JwlUgIqyz3OkfA%3D%3D) | 
-| 第56期十段戦　最終予選決勝 | Shida Tatsuya | Rin Kanketsu | B+0.5 | 2017-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zytBnp6TqwVH6fZHhOovRQ%3D%3D) | 
-| 第73期本因坊戦　最終予選第6局 | Shida Tatsuya | Shibano Toramaru | W+0.5 | 2017-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5TjtA%2BERgGlwjZghK0IDmw%3D%3D) | 
-| 第42期棋聖戦　Bリーグ1組6回戦 | Shibano Toramaru | Shida Tatsuya | W+R | 2017-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wXum1kfyhAB3Q2i%2B5nm6iA%3D%3D) | 
-| 第42期棋聖戦　Bリーグ1組5回戦 | Shida Tatsuya | Ko Iso | B+R | 2017-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u%2FDbdWghOCo%2FgxvM%2BXLXNg%3D%3D) | 
-| 第73期本因坊戦　最終予選1回戦 | Cho U | Shida Tatsuya | W+R | 2017-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PXVuusd0KnftaJwXoEfz3w%3D%3D) | 
-| 第65回NHK杯テレビ囲碁トーナメント戦1回戦第10局 | Sakai Hideyuki | Shida Tatsuya | W+0.5 | 2017-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7PnMg3WVUTPdwOpa%2BDcWxw%3D%3D) | 
-| 第42期棋聖戦　Bリーグ1組4回戦 | Ida Atsushi | Shida Tatsuya | W+R | 2017-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0e8ZmoTegeyS2VRhMeTzAw%3D%3D) | 
-| 第65期王座戦　本戦1回戦第4局 | Ichiriki Ryo | Shida Tatsuya | B+R | 2017-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wp58D1kZqnCjARGFehEJDA%3D%3D) | 
-| 第42期棋聖戦リーグ戦B組 | Yamada Kimio | Shida Tatsuya | B+2.5 | 2017-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i%2BqBtk2f88h45%2FqCAyVrqw%3D%3D) | 
-| 世界第22期LG杯予選2回戦 | Lee Yeongkyu | Shida Tatsuya | B+R | 2017-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AZrSAZcBevUGei0%2FZ3hE7g%3D%3D) | 
-| 第8回おかげ杯囲碁トーナメント戦予選 | Shida Tatsuya | Koyama Kuya | W+R | 2017-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qx9I%2FFcL%2BawKPGIr7Enk4w%3D%3D) | 
-| 第8回おかげ杯囲碁トーナメント戦予選 | Shida Tatsuya | Yokotsuka Riki | B+1.5 | 2017-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H8eziVMj4HpJsgAtyNPZwA%3D%3D) | 
-| 第65期王座戦　最終予選特選譜第3局 | Imamura Toshiya | Shida Tatsuya | W+3.5 | 2017-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Gd9MYVYUR2JNRxZCa23HQ%3D%3D) | 
-| 第43期天元戦　本戦1回戦第6局 | Shida Tatsuya | Yamashita Keigo | W+R | 2016-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BDXA6Of9IVqbWcEzcaqYOA%3D%3D) | 
-| 第55期十段戦　準々決勝 | Shida Tatsuya | Hane Naoki | W+R | 2016-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=baSwxiQnA1hEuQRnpjXdvw%3D%3D) | 
-| 第55期十段戦　本戦2回戦 | Shida Tatsuya | Motoki Katsuya | B+1.5 | 2016-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=25t3nOrSF%2FLD6MBYpfUHXQ%3D%3D) | 
-| 第41期棋聖戦BC組リーグ戦決勝 | Shida Tatsuya | Yuki Satoshi | W+1.5 | 2016-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xtvA7JWVsKDw%2FcW4OLxUBQ%3D%3D) | 
-| 第42期名人戦最終予選 | Shida Tatsuya | Yu Zhengqi | W+R | 2016-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S3fA4FQjXYP8mgalFhZ2%2FQ%3D%3D) | 
-| 第41期棋聖戦Cリーグ | Shida Tatsuya | Sakai Hideyuki | B+0.5 | 2016-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ujnn3HJqi1uP73%2BjQNJX8A%3D%3D) | 
-| 第64期王座戦2回戦 | Shida Tatsuya | Yu Zhengqi | W+R | 2016-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PqMz05fcI3hMDn%2Blyo4hUw%3D%3D) | 
-| 第64期王座戦　本戦1回戦第4局 | Yukawa Mitsuhisa | Shida Tatsuya | W+R | 2016-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u1zahG9tZc2zs3pFRd5dtA%3D%3D) | 
-| 第64期王座戦予選 | Shida Tatsuya | Ko Iso | B+R | 2016-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fh6zwpdlyGXXo6MzGWXGhw%3D%3D) | 
-| 第64期王座戦予選 | Shida Tatsuya | Yuki Satoshi | B+R | 2016-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k9uh7FxUnnaRtbmTLeWcZQ%3D%3D) | 
-| 第41期碁聖戦本戦2回戦 | Tsuruyama Atsushi | Shida Tatsuya | B+R | 2016-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WtM7GlILRObo7FA41yl0GA%3D%3D) | 
-| 第7回おかげ杯囲碁トーナメント戦予選 | Shida Tatsuya | Numadate Sakiya | W+R | 2016-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o7T4H%2FW%2B%2Fqe51xb0iwwWig%3D%3D) | 
-| 第54期十段戦準決勝 | Shida Tatsuya | Yu Zhengqi | W+R | 2016-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L7vCt3ydpmG%2Bl4keIlIVMA%3D%3D) | 
-| 第41期碁聖戦本戦1回戦 | Ida Atsushi | Shida Tatsuya | W+R | 2015-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LZ0Pdlj7hoEWXPA0dRHUng%3D%3D) | 
-| 第54期十段戦3回戦 | Kobayashi Satoru | Shida Tatsuya | W+R | 2015-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kyGeFkVXn99USbQUhZvf%2Fw%3D%3D) | 
-| 第10回広島アルミ杯・若鯉戦決勝 | Terayama Rei | Shida Tatsuya | B+R | 2015-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ezao1MbDvjm%2BCrbxt%2BS8iA%3D%3D) | 
-| 第10回広島アルミ杯・若鯉戦準決勝 | Shida Tatsuya | Yu Zhengqi | B+2.5 | 2015-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lA2HuArUM%2Feh4GJdsWtceQ%3D%3D) | 
-| 第10回広島アルミ杯・若鯉戦2回戦 | Shida Tatsuya | Ohashi Hirofumi | B+R | 2015-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cSXjmkR4VBmbaSvqV%2FNTwQ%3D%3D) | 
-| 第10回広島アルミ杯・若鯉戦1回戦 | Shibano Toramaru | Shida Tatsuya | W+0.5 | 2015-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T6T36Hw2pys3sXagN8QtZA%3D%3D) | 
-| 第54期十段戦2回戦 | Shida Tatsuya | Mizokami Tomochika | B+1.5 | 2015-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q5%2BJsiQXHWgx%2F5OEngpwTw%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦G2 | Zhou Hexi | Shida Tatsuya | B+R | 2015-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mb7G5J1CsHPFPNTaaj1LcQ%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦G1 | Seo Bongsoo | Shida Tatsuya | B+R | 2015-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WzRZFFgA0ep35G3nL%2FzLGA%3D%3D) | 
-| 第20回三星火災杯統合予選決勝 | Park Seunghwa | Shida Tatsuya | W+R | 2015-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qOySCTGLUIaqmkN6Rb4MEQ%3D%3D) | 
-| 第40期棋聖戦Bリーグ | Shida Tatsuya | Yamada Kimio | W+R | 2015-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8ctfjx6sWbR5Zvuf712Mbw%3D%3D) | 
-| 第71期本因坊戦予選 | Shida Tatsuya | Hikosaka Naoto | W+R | 2015-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jvqKwnJz%2FxRvOcnfVZTtCA%3D%3D) | 
-| 第40期碁聖戦本戦準決勝 | Kono Rin | Shida Tatsuya | B+3.5 | 2015-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9j%2BA6XpJevAMjK4VmMme9Q%3D%3D) | 
-| 第63期王座戦予選 | Ichiriki Ryo | Shida Tatsuya | B+R | 2015-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dDiB9CugmA5D3nNhSXkLMg%3D%3D) | 
-| 第40期棋聖戦Bリーグ | Shida Tatsuya | O Meien | B+3.5 | 2015-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LdhhrqcrMGugNPZdO8lL%2FA%3D%3D) | 
-| 第40期碁聖戦本戦3回戦 | Yuki Satoshi | Shida Tatsuya | W+R | 2015-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w317XZy6IAwyGsj02u%2BPQg%3D%3D) | 
-| 第40期碁聖戦本戦2回戦 | So Yokoku | Shida Tatsuya | W+R | 2015-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ztN1JjeZvOhmlADPNataTA%3D%3D) | 
-| 第6回おかげ杯囲碁トーナメント戦予選 | Shida Tatsuya | Suzuki Shinji | B+4.5 | 2015-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WNfCt2qNcPUqivXWMTVuRQ%3D%3D) | 
-| 第6回おかげ杯囲碁トーナメント戦予選 | Shida Tatsuya | Obuchi Kotaro | B+R | 2015-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=co1nLpxlT47atP1X6aP1Hg%3D%3D) | 
-| 第63期王座戦予選 | Hikosaka Naoto | Shida Tatsuya | W+R | 2015-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4AtFe%2B6S4SYVIcrNTJH7Kg%3D%3D) | 
-| 第40期碁聖戦本戦1回戦 | Shida Tatsuya | Ohashi Naruya | B+5.5 | 2015-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TmxLDC1%2BZbq15hcC8jPNwg%3D%3D) | 
-| 第53期十段戦準決勝 | Ida Atsushi | Shida Tatsuya | B+R | 2015-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1KNhOU%2B8vgyr1hQt9lWL%2BA%3D%3D) | 
-| 第53期十段戦3回戦 | Hane Naoki | Shida Tatsuya | W+R | 2014-12-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U0mkmA2hGEhevM1ibtPiIQ%3D%3D) | 
-| 第53期十段戦2回戦 | Shida Tatsuya | Kono Rin | B+R | 2014-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9oMh81Cpbv9xWLjk2WHbrw%3D%3D) | 
-| 第53期十段戦1回戦 | Shida Tatsuya | Uchida Shuhei | B+1.5 | 2014-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FvQm4RKGvvlEw%2BtP31g18A%3D%3D) | 
-| 2014年国際新鋭囲碁対抗戦第3戦 | Shida Tatsuya | Lee Donghoon | W+0.5 | 2014-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jxm7A57dAxAS8xuSx8X1Vg%3D%3D) | 
-| 2014年国際新鋭囲碁対抗戦第2戦 | Wang Yuanjun | Shida Tatsuya | W+1.5 | 2014-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w2dh6B90g8UU9G3%2FeXOA6g%3D%3D) | 
-| 2014年国際新鋭囲碁対抗戦第1戦 | Lian Xiao | Shida Tatsuya | W+0.5 | 2014-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sqwhaiz8%2F1%2BXtJUt9DuRmQ%3D%3D) | 
-| 第39期新人王戦決勝三番勝負第3局 | Ichiriki Ryo | Shida Tatsuya | B+R | 2014-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SfuAaEc0V2CdpqytzPuJ4A%3D%3D) | 
-| 第39期新人王戦決勝三番勝負第2局 | Shida Tatsuya | Ichiriki Ryo | B+R | 2014-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D8lWs2XBBPjFCiU9onB4Pw%3D%3D) | 
-| 第39期新人王戦決勝三番勝負第1局 | Ichiriki Ryo | Shida Tatsuya | B+0.5 | 2014-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b7t9kCb8mNmM9xUMheVfVA%3D%3D) | 
-| 第40期碁聖戦予選 | Hikosaka Naoto | Shida Tatsuya | W+1.5 | 2014-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tWgm5qdszU5dJ5HP4f32FQ%3D%3D) | 
-| 第53期十段戦予選 | Shida Tatsuya | Yamashita Keigo | B+R | 2014-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fN8msUtDKOqL00gtcUcUlA%3D%3D) | 
-| 第39期新人王戦準決勝 | Suzuki Shinji | Shida Tatsuya | W+R | 2014-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dpbc5vpFGt5MLLxBsMY3RQ%3D%3D) | 
-| 第53期十段戦予選 | Shida Tatsuya | Nakano Yasuhiro | B+R | 2014-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t0Pc8bi6AgShniLDHbphWg%3D%3D) | 
-| 第39期新人王戦3回戦 | Adachi Toshimasa | Shida Tatsuya | W+7.5 | 2014-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8VbDmvGF60UWmXLLySRgTQ%3D%3D) | 
-| 第21期阿含・桐山杯全日本早碁オープン戦予選 | Kono Rin | Shida Tatsuya | B+R | 2014-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MX9lAr3%2F61k9qioQb5eRuQ%3D%3D) | 
-| 第39期新人王戦2回戦 | Shida Tatsuya | Tamai Shin | B+2.5 | 2014-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cB2j7EwfoLVQKg7VuexAZQ%3D%3D) | 
-| 第39期棋聖戦予選 | Kono Rin | Shida Tatsuya | B+R | 2014-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=obtTv9linyXG7yDgQ9X18A%3D%3D) | 
-| 第5回おかげ杯囲碁トーナメント戦予選 | Shida Tatsuya | Hsu Chiayuan | B+R | 2014-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l6KTjIA8w%2Bpu6ewLr3ySCw%3D%3D) | 
-| 第5回おかげ杯囲碁トーナメント戦予選 | Numadate Sakiya | Shida Tatsuya | W+0.5 | 2014-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z5V%2FpDb%2BvnRR0Zh%2FJ3LzLw%3D%3D) | 
-| 25周年記念囲碁千里杯1回戦 | Suzuki Shinji | Shida Tatsuya | B+2.5 | 2014-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ytDJiyMu%2BdtbeMVeNxZgAw%3D%3D) | 
-| 第39期新人王戦1回戦 | Onoda Takuya | Shida Tatsuya | W+R | 2014-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5k%2FrPqtX8yBNMfLqDNoZjg%3D%3D) | 
-| 第20期阿含・桐山杯全日本早碁オープン戦決勝 | Murakawa Daisuke | Shida Tatsuya | B+3.5 | 2013-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m7XUy2lek08t5KZx1JRRDw%3D%3D) | 
-| 第20期阿含・桐山杯全日本早碁オープン戦準決勝 | Shida Tatsuya | Ichiriki Ryo | B+0.5 | 2013-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ex8E9D1G%2F9YApDSti4Rj2Q%3D%3D) | 
-| 第20期阿含・桐山杯全日本早碁オープン戦2回戦 | Takao Shinji | Shida Tatsuya | W+0.5 | 2013-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y0mFC%2F%2BnCG%2F4kRzH1IDI6g%3D%3D) | 
-| 第38期新人王戦準決勝 | Yu Zhengqi | Shida Tatsuya | B+R | 2013-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yq9z7AySc1ZhX7gW4FrgZg%3D%3D) | 
-| 第38期新人王戦3回戦 | Hatanaka Hoshinobu | Shida Tatsuya | W+R | 2013-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=prh3scV7RdRPiGHTZMXerw%3D%3D) | 
-| 第38期新人王戦2回戦 | Shida Tatsuya | Shimosaka Miori | B+R | 2013-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i2OGvSi8Ql%2B8WXa6hB2sbA%3D%3D) | 
-| 第20期阿含・桐山杯全日本早碁オープン戦1回戦 | Shida Tatsuya | Ko Iso | B+R | 2013-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pP9LTFpKnK2ti2HxeLtngw%3D%3D) | 
-| 第39期天元戦本戦2回戦 | Shida Tatsuya | Seto Taiki | W+R | 2013-05-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ePzS4NwTVctcGmaTsuR3ug%3D%3D) | 
-| 第38期新人王戦1回戦 | Shida Tatsuya | Adachi Toshimasa | B+0.5 | 2013-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7XacUVXsQA%2FtsdI%2FqSZztQ%3D%3D) | 
-| 第39期天元戦本戦1回戦 | Shida Tatsuya | O Meien | B+R | 2013-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4xe65b2KDHM5mzVpUPylnQ%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン準決勝 | Shida Tatsuya | Takao Shinji | W+R | 2013-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zfsi12wqG395F88h3qTNag%3D%3D) | 
-| 第38期新人王戦 | Kazama Jun | Shida Tatsuya | W+R | 2013-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7bVjZL2RxJNlZdlZbewG%2Fw%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン3回戦 | Shida Tatsuya | Cho U | B+2.5 | 2013-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k3ogm%2FBCZnaQpnsRAjA7%2Bw%3D%3D) | 
-| 第38期碁聖戦本戦1回戦 | Shida Tatsuya | Goto Shungo | W+R | 2013-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NNhqaZ2LM1QZg4%2FUG%2BPg3Q%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン2回戦 | Nakao Jungo | Shida Tatsuya | W+R | 2012-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=spTlG295rL2M5FA1AW%2Fwgg%3D%3D) | 
-| 第7回広島アルミ杯・若鯉戦準決勝 | Shida Tatsuya | Suzuki Shinji | W+R | 2012-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3ukiDTrjABqEfVj6ViCpyg%3D%3D) | 
-| 第7回広島アルミ杯・若鯉戦2回戦 | Shida Tatsuya | Ida Atsushi | B+R | 2012-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=roXmPAwV5KXYffggX3yGDA%3D%3D) | 
-| 第7回広島アルミ杯・若鯉戦1回戦 | Xie Yimin | Shida Tatsuya | W+R | 2012-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xGJNJeX9p59K7XTAtik82g%3D%3D) | 
-| 第38期碁聖戦予選 | Shida Tatsuya | Yamada Kimio | B+R | 2012-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ivhZPp7d1TBLVK8uJJSxAg%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン1回戦 | Shida Tatsuya | Kobayashi Satoru | B+1.5 | 2012-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b3FwTwzAgJSI1H0rITmHTg%3D%3D) | 
-| 第3回おかげ杯囲碁トーナメント戦準決勝 | Shida Tatsuya | Anzai Nobuaki | W+0.5 | 2012-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uMHLjRszOlxGFCWJbXiTKw%3D%3D) | 
-| 第38期天元戦本戦2回戦 | Hane Naoki | Shida Tatsuya | B+R | 2012-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=71qVUwxNr2W8GFL3NkOLxQ%3D%3D) | 
-| 第51期十段戦予選 | Ishii Kunio | Shida Tatsuya | W+R | 2012-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=17Vk1tjUa%2BDnid56bJA6pw%3D%3D) | 
-| 第37期新人王戦2回戦 | Tajiri Yuto | Shida Tatsuya | B+R | 2012-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M9OYW2Upm1IA4nlafVPycA%3D%3D) | 
-| 第3回おかげ杯囲碁トーナメント戦予選 | Shida Tatsuya | Tajima Shingo | B+R | 2012-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=THEx80QtCWpaGa4tPhesIA%3D%3D) | 
-| 第38期天元戦本戦1回戦 | Mitani Tetsuya | Shida Tatsuya | W+2.5 | 2012-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FauXbAz%2FUYYqaqJ%2BVkYUjw%3D%3D) | 
-| 第37期棋聖戦予選 | Ichiriki Ryo | Shida Tatsuya | W+3.5 | 2012-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D4YlbqhXh3NErnFjAjya0Q%3D%3D) | 
-| 第3回おかげ杯囲碁トーナメント戦予選 | Shida Tatsuya | Yamada Shinji | B+T | 2012-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VO05AT%2BBPONX1uvY9SHANg%3D%3D) | 
-| 第7回大和証券杯ネット囲碁オープン3回戦 | Shida Tatsuya | Akiyama Jiro | W+1.5 | 2012-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vUw1p2g5lWImpXHe9XTTaw%3D%3D) | 
-| 第37期新人王戦1回戦 | Shida Tatsuya | Motoki Katsuya | B+R | 2011-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hm8oxvKWJP50yCQ48QIoqA%3D%3D) | 
-| 第7回大和証券杯ネット囲碁オープン2回戦 | Shuto Shun | Shida Tatsuya | W+R | 2011-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mi7zwMwZJ5g%2Fajeq3SJ6NQ%3D%3D) | 
-| 第6回広島アルミ杯・若鯉戦決勝 | Shida Tatsuya | Uchida Shuhei | W+R | 2011-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XVuvZKA1GbPjpoOTultOWg%3D%3D) | 
-| 第6回広島アルミ杯・若鯉戦準決勝 | Shida Tatsuya | Terayama Rei | B+R | 2011-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oGGq2J0mbpzIBhIawLqIww%3D%3D) | 
-| 第6回広島アルミ杯・若鯉戦2回戦 | Shida Tatsuya | Ohashi Hirofumi | B+6.5 | 2011-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hbpANpBuooLA7UJLBQCqNA%3D%3D) | 
-| 第53期王冠戦予選 | Shida Tatsuya | Hikosaka Naoto | B+R | 2011-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ciuA1DNklK7OCSGzIoIZ%2Fg%3D%3D) | 
-| 第7回大和証券杯ネット囲碁オープン1回戦 | Shida Tatsuya | Obuchi Morito | B+R | 2011-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r%2F7fKmGKBxSmTdP2xkYCRw%3D%3D) | 
-| 第60期王座戦予選 | Shida Tatsuya | Hikosaka Naoto | W+R | 2011-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BtnWBEY9UP5ckuvCkD7Zxw%3D%3D) | 
-| 第18期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho U | Shida Tatsuya | B+1.5 | 2011-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rUR5IhIYIMTpzr5dx0PQjA%3D%3D) | 
-| 第2回おかげ杯囲碁トーナメント戦決勝 | Shida Tatsuya | Anzai Nobuaki | W+R | 2011-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6OTyVBrZiogk0wGCy3pmHQ%3D%3D) | 
-| 第2回おかげ杯囲碁トーナメント戦準決勝 | Shida Tatsuya | Rin Kanketsu | B+0.5 | 2011-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tKA3fLDfXVPD3KFBqRQpeg%3D%3D) | 
-| 第36期新人王戦2回戦 | Numadate Sakiya | Shida Tatsuya | B+3.5 | 2011-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lScStj0FeCyyxR8KypaNDw%3D%3D) | 
-| 第59期王座戦予選 | Nakano Yasuhiro | Shida Tatsuya | B+R | 2011-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fyh9YamDnBB9pDtcMBZ2rg%3D%3D) | 
-| 第36期新人王戦1回戦 | Hatanaka Hoshinobu | Shida Tatsuya | W+R | 2011-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bKupLIuESdVJb18NWZtZvQ%3D%3D) | 
-| 第3回BCカード杯世界選手権統合予選 | Shida Tatsuya | Rui Naiwei | B+T | 2011-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wI5%2F2ACPRHYq2JnXF41akg%3D%3D) | 
-| 第36期棋聖戦予選 | Shida Tatsuya | O Rissei | W+R | 2010-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JV7V5Y0JsKjBThEpajeTfw%3D%3D) | 
-| 第59期王座戦予選 | Goto Shungo | Shida Tatsuya | W+2.5 | 2010-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B9Vsqv2cTuM6vAlzw4x6Xg%3D%3D) | 
-| 第37期天元戦予選 | Hikosaka Naoto | Shida Tatsuya | B+4.5 | 2010-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l6JD2mBSv6kRQ%2BjSnCM1NA%3D%3D) | 
-| 第5回広島アルミ杯・若鯉戦準決勝 | Shida Tatsuya | Terayama Rei | W+R | 2010-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pv2yoHw4v%2Fi0WEifH2h9OA%3D%3D) | 
-| 第5回広島アルミ杯・若鯉戦2回戦 | Shida Tatsuya | Takagi Junpei | B+R | 2010-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5MICPmrySo8wK19%2Fb6DG0A%3D%3D) | 
-| 第5回広島アルミ杯・若鯉戦1回戦 | Shida Tatsuya | Uchida Shuhei | B+0.5 | 2010-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CvfNLt%2BA%2FY0GZV7tEISJkg%3D%3D) | 
-| 第36期名人戦予選 | Shida Tatsuya | Seto Taiki | W+R | 2010-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=okgm8KlhvkOXxd1ruNeukg%3D%3D) | 
-| 第7回中野杯U20選手権決勝 | Shida Tatsuya | Murakawa Daisuke | W+R | 2010-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lJMFnUG%2FzPmA9gpy%2F0hVrg%3D%3D) | 
-| 第35期新人王戦1回戦 | Shida Tatsuya | Mannami Kana | W+R | 2010-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GplSUqH5ryoxaJP7ZmFoEQ%3D%3D) | 
-| 第36期天元戦本戦1回戦 | Shida Tatsuya | Imamura Toshiya | W+R | 2010-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BXLX76FmeEfnNKR74QEpHA%3D%3D) | 
-| 第35期名人戦予選 | Cho Riyu | Shida Tatsuya | W+2.5 | 2009-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ojVCXzHJ%2Fkudkk8Io1wYQ%3D%3D) | 
-| 第6回中野杯U20選手権決勝 | Shida Tatsuya | Murakawa Daisuke | W+R | 2009-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dUKOO5B%2BQJjatj%2FnMmAh2w%3D%3D) | 
-| 第6回中野杯U20選手権準決勝 | Shida Tatsuya | Lee Ishu | B+R | 2009-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LAhb6%2FgSNwmprPMeijd5QQ%3D%3D) | 
-| 第34期新人王戦3回戦 | Seto Taiki | Shida Tatsuya | B+R | 2009-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MKYI%2F4ppm5H3Imzp1rjLDQ%3D%3D) | 
-| 第34期新人王戦2回戦 | Shida Tatsuya | Obuchi Kotaro | B+0.5 | 2009-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y5AYYC1VXINwoneQ%2FVW2VA%3D%3D) | 
-| 第34期新人王戦1回戦 | Shida Tatsuya | Suzuki Ayumi | B+R | 2009-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4rpywq86KVSPVE8%2FqD%2BUxQ%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Shida Tatsuya | Tajima Shingo | B+R | 2009-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g72F%2Bi1BCM2yv1XjVqko2w%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Cho Chien | Shida Tatsuya | W+R | 2009-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N3X9JHWEVEm9Y656iUmVNA%3D%3D) | 
-| 第57期王座戦予選 | Kobayashi Satoru | Shida Tatsuya | B+R | 2009-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GQ%2BNVhFqazKM3K91zF739Q%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Shida Tatsuya | Mimura Tomoyasu | B+R | 2009-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rB6YpSaBsPtAtd7Dhg%2FQHQ%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Shida Tatsuya | Kobayashi Satoru | W+3.5 | 2008-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sQ%2FAKXoN7tcSsaG9zzwEOg%3D%3D) | 
-| 第57期王座戦予選 | Shida Tatsuya | Hikosaka Naoto | B+0.5 | 2008-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=As6aTsZjm%2BEhZouQn6CIEg%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Shida Tatsuya | So Yokoku | W+2.5 | 2008-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oXmp%2BzwBrGdNqBn6zmAqHA%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Ryu Shikun | Shida Tatsuya | B+3.5 | 2008-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Uo6VlKI231pmGMIT9W9I0Q%3D%3D) | 
-| 第3回広島アルミ杯・若鯉戦2回戦 | Shida Tatsuya | Ohba Junya | W+R | 2008-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0QKwjLvBcpM4UKBNdWynNQ%3D%3D) | 
-| 第3回広島アルミ杯・若鯉戦1回戦 | Takemiya Youkou | Shida Tatsuya | W+R | 2008-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bqk9edLrUPDNi1donp8sbQ%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Mukai Chiaki | Shida Tatsuya | W+R | 2008-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XJS2B7yIwUk7Z3Q%2BHDVLAg%3D%3D) | 
-| 第35期天元戦予選 | Yamada Kimio | Shida Tatsuya | B+R | 2008-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ktq6YYprEW%2FOyJ02seqX5A%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Shida Tatsuya | O Rissei | W+3.5 | 2008-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BvBVRtHnkhZxdjD4llu5Wg%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Ko Iso | Shida Tatsuya | B+0.5 | 2008-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eBOdoS2M%2FMRSHGjC4UEeHg%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Shida Tatsuya | Xie Yimin | B+R | 2008-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NdP8sisa%2B3k9G1U4DuDlhQ%3D%3D) | 
-| 第33期新人王戦2回戦 | Ha Youngil | Shida Tatsuya | B+R | 2008-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kO2wV98waZXMTfE8JmTKgg%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Shida Tatsuya | Uchida Shuhei | B+R | 2008-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3nk1njzUWJcE426FuYNbMw%3D%3D) | 
-| 第1期幽玄杯精鋭リーグ戦 | Kobayashi Koichi | Shida Tatsuya | B+R | 2008-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2iQIQtcT75RVNFBPDigaMw%3D%3D) | 
-| 第1期幽玄杯精鋭リーグ戦 | Kono Rin | Shida Tatsuya | W+R | 2008-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0ymEpmfvofUbqFvP0QaIWw%3D%3D) | 
-| 第1期幽玄杯精鋭リーグ戦 | Mukai Chiaki | Shida Tatsuya | W+R | 2008-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LMG%2FvHHyTrlygCwbhx8zxA%3D%3D) | 
-| 第1期幽玄杯精鋭リーグ戦 | Shida Tatsuya | Seki Tatsuya | B+2.5 | 2008-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3p63S1o0IKK4TjtnYrfIaA%3D%3D) | 
-| 第33期新人王戦1回戦 | Shida Tatsuya | Ohba Junya | B+R | 2008-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N3BfqQTX8newmwkUeBp%2Bgw%3D%3D) | 
-| 第1期幽玄杯精鋭リーグ戦 | Shida Tatsuya | Terayama Rei | B+1.5 | 2007-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AW4AlduOK0eSs1TeU9dJmA%3D%3D) | 
-| 第1期幽玄杯精鋭リーグ戦 | Shida Tatsuya | Nakajima Mieko | B+R | 2007-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DEvc9kdGA1x2KO1WwjeAhQ%3D%3D) | 
-| 第2回広島アルミ杯・若鯉戦決勝 | Mitani Tetsuya | Shida Tatsuya | W+3.5 | 2007-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UIoj9rb8ugha3P827sVGZg%3D%3D) | 
-| 第2回広島アルミ杯・若鯉戦準決勝 | Xie Yimin | Shida Tatsuya | W+R | 2007-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QsQc4WigGvjpmUvNJV0QSg%3D%3D) | 
-| 第2回広島アルミ杯・若鯉戦2回戦 | Shida Tatsuya | Takekiyo Isamu | B+0.5 | 2007-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8WJwAT4vCrwM7EDJjE0FeQ%3D%3D) | 
-| 第33期新人王戦予選 | Kato Yuuki | Shida Tatsuya | W+R | 2007-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OPRxtwuEWYHzg2fKCx%2F9DQ%3D%3D) | 
-| 第4回中野杯U20選手権 | Horimoto Mitsunari | Shida Tatsuya | W+R | 2007-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PQa5m8RQNDK9FWIdbiw81A%3D%3D) | 
-| 第32期新人王戦予選 | Tamai Shin | Shida Tatsuya | B+R | 2006-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fFBResh7a4Hr%2BbhtZHerWg%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-17 | 第77期本因坊戦予選 | Shida Tatsuya | Seto Taiki | Win | B+4.5 | 6.5 | 2836 | 218 | 
+| 2021-05-27 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Hsu Chiayuan | Shida Tatsuya | Lose | B+0.5 | 6.5 | 2618 | 17 | 
+| 2021-04-12 | 第69期王座戦予選 | Shida Tatsuya | Koyama Kuya | Lose | W+R | 6.5 | 2601 | -361 | 
+| 2021-03-11 | 第69期王座戦予選 | Shida Tatsuya | Sada Atsushi | Win | B+R | 6.5 | 2962 | -136 | 
+| 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦1回戦 | Ueno Asami | Shida Tatsuya | Lose | B+R | 6.5 | 3098 | -102 | 
+| 2020-10-01 | 第46期名人戦予選 | Cho U | Shida Tatsuya | Lose | B+3.5 | 6.5 | 3200 | 102 | 
+| 2020-09-03 | 第59期十段戦予選 | Hane Naoki | Shida Tatsuya | Lose | B+2.5 | 6.5 | 3098 | -8 | 
+| 2020-08-31 | 第45期棋聖戦Aリーグ | Onishi Ryuhei | Shida Tatsuya | Lose | B+R | 6.5 | 3106 | 64 | 
+| 2020-07-30 | 第45期棋聖戦Aリーグ | Yoda Norimoto | Shida Tatsuya | Lose | B+0.5 | 6.5 | 3042 | -22 | 
+| 2020-07-09 | 第45期棋聖戦Aリーグ | Shida Tatsuya | So Yokoku | Lose | W+R | 6.5 | 3064 | -36 | 
+| 2020-07-02 | 第45期棋聖戦Aリーグ | Shida Tatsuya | Motoki Katsuya | Lose | W+0.5 | 6.5 | 3100 | 2 | 
+| 2020-06-03 | 第68期王座戦予選 | Shida Tatsuya | Sun Zhe | Lose | W+R | 6.5 | 3098 | 123 | 
+| 2020-04-07 | 第25回LG杯国内予選決勝 | Onishi Ryuhei | Shida Tatsuya | Lose | B+1.5 | 6.5 | 2975 | -12 | 
+| 2020-04-06 | 第25回LG杯国内予選 | Shida Tatsuya | Suzuki Shinji | Win | B+R | 6.5 | 2987 | 23 | 
+| 2020-04-03 | 第75期本因坊戦リーグ  | Hsu Chiayuan | Shida Tatsuya | Lose | B+R | 6.5 | 2964 | -14 | 
+| 2020-03-23 | 第27期阿含・桐山杯全日本早碁オープン戦予選 |  | Shida Tatsuya | Win | W+8.5 | 6.5 | 2978 | -6 | 
+| 2020-03-19 | 第45期棋聖戦Aリーグ | Shida Tatsuya | Adachi Toshimasa | Win | B+1.5 | 6.5 | 2984 | 5 | 
+| 2020-03-12 | 第68期王座戦予選 | Numadate Sakiya | Shida Tatsuya | Win | W+3.5 | 6.5 | 2979 | 10 | 
+| 2020-03-05 | 第75期本因坊戦リーグ | Shida Tatsuya | Hane Naoki | Win | B+R | 6.5 | 2969 | 58 | 
+| 2020-02-20 | 第45期棋聖戦Aリーグ | Yu Zhengqi | Shida Tatsuya | Lose | B+R | 6.5 | 2911 | -152 | 
+| 2020-02-13 | 第75期本因坊戦リーグ | Shibano Toramaru | Shida Tatsuya | Lose | B+1.5 | 6.5 | 3063 | -97 | 
+| 2020-01-30 | 第45期棋聖戦Aリーグ | Yamashita Keigo | Shida Tatsuya | Lose | B+R | 6.5 | 3160 | -24 | 
+| 2020-01-09 | 第75期本因坊戦リーグ | Shida Tatsuya | Ichiriki Ryo | Lose | W+R | 6.5 | 3184 | 292 | 
+| 2019-12-19 | 第75期本因坊戦リーグ | Shida Tatsuya | Kono Rin | Lose | W+2.5 | 6.5 | 2892 | -19 | 
+| 2019-11-14 | 第75期本因坊戦リーグ | Shida Tatsuya | Yokotsuka Riki | Win | B+R | 6.5 | 2911 | 25 | 
+| 2019-11-07 | 第46期天元戦予選 | Ida Atsushi | Shida Tatsuya | Lose | B+2.5 | 6.5 | 2886 | 10 | 
+| 2019-10-31 | 第58期十段戦2回戦 | Iyama Yuta | Shida Tatsuya | Lose | B+R | 6.5 | 2876 | -4 | 
+| 2019-10-24 | 第75期本因坊戦リーグ | Yamashita Keigo | Shida Tatsuya | Win | W+6.5 | 6.5 | 2880 | 31 | 
+| 2019-10-10 | 第58期十段戦1回戦 | Chang Rueijie | Shida Tatsuya | Win | W+R | 6.5 | 2849 | 42 | 
+| 2019-09-26 | 第45期名人戦予選 | Shida Tatsuya | Fujisawa Rina | Lose | W+R | 6.5 | 2807 | -34 | 
+| 2019-09-05 | 第44期棋聖戦Aリーグ | Shida Tatsuya | Yu Zhengqi | Lose | W+3.5 | 6.5 | 2841 | -54 | 
+| 2019-08-15 | 第75期本因坊戦予選 | Shida Tatsuya | Ko Iso | Win | B+R | 6.5 | 2895 | -85 | 
+| 2019-08-08 | 第44期棋聖戦Aリーグ | Cho U | Shida Tatsuya | Win | W+R | 6.5 | 2980 | 40 | 
+| 2019-08-01 | 第58期十段戦予選 | Shida Tatsuya | Fujii Shuya | Win | B+R | 6.5 | 2940 | 51 | 
+| 2019-07-11 | 第44期棋聖戦Aリーグ | Shida Tatsuya | Akiyama Jiro | Lose | W+R | 6.5 | 2889 | -23 | 
+| 2019-06-27 | 第75期本因坊戦予選 | Murakawa Daisuke | Shida Tatsuya | Win | W+R | 6.5 | 2912 | 34 | 
+| 2019-06-20 | 第44期棋聖戦Aリーグ | Yamashiro Hiroshi | Shida Tatsuya | Win | W+R | 6.5 | 2878 | 103 | 
+| 2019-05-27 | 第44期棋聖戦Aリーグ | Shida Tatsuya | Rin Kanketsu | Win | B+R | 6.5 | 2775 | 22 | 
+| 2019-05-14 | 第10回おかげ杯囲碁トーナメント戦1回戦 | Ichiriki Ryo | Shida Tatsuya | Lose | B+6.5 | 6.5 | 2753 | -124 | 
+| 2019-04-26 | 第44期棋聖戦Aリーグ | Shida Tatsuya | Ichiriki Ryo | Lose | W+R | 6.5 | 2877 | 5 | 
+| 2019-04-15 | 第67期王座戦予選 | Shida Tatsuya | Shibano Toramaru | Lose | W+R | 6.5 | 2872 | 56 | 
+| 2019-03-21 | 第44期棋聖戦Aリーグ | Shibano Toramaru | Shida Tatsuya | Win | W+R | 6.5 | 2816 | 82 | 
+| 2019-03-07 | 第45期天元戦1回戦 | Sada Atsushi | Shida Tatsuya | Lose | B+0.5 | 6.5 | 2734 | -105 | 
+| 2019-01-17 | 第44期碁聖戦本戦2回戦 | Shida Tatsuya | Seto Taiki | Lose | W+4.5 | 6.5 | 2839 | -109 | 
+| 2018-11-15 | 第44期碁聖戦本戦1回戦 | Shida Tatsuya | Ryu Shikun | Win | B+1.5 | 6.5 | 2948 | -5 | 
+| 2018-11-08 | 第44期名人戦最終予選決勝 | Shida Tatsuya | Suzuki Shinji | Lose | W+0.5 | 6.5 | 2953 | -33 | 
+| 2018-11-01 | 第60期王冠戦予選 | Shida Tatsuya | Hane Naoki | Lose | W+1.5 | 6.5 | 2986 | 0 | 
+| 2018-10-18 | 第44期名人戦最終予選 | Shida Tatsuya | Takao Shinji | Win | B+4.5 | 6.5 | 2986 | 28 | 
+| 2018-10-04 | 第44期名人戦最終予選 | Shida Tatsuya | Sakai Hideyuki | Win | B+R | 6.5 | 2958 | 22 | 
+| 2018-10-01 | 第57期十段戦2回戦 | Ida Atsushi | Shida Tatsuya | Lose | B+3.5 | 6.5 | 2936 | -65 | 
+| 2018-09-13 | 第44期碁聖戦予選 | Yamada Kimio | Shida Tatsuya | Win | W+6.5 | 6.5 | 3001 | 1 | 
+| 2018-09-06 | 第43期棋聖戦Aリーグ | Yoda Norimoto | Shida Tatsuya | Win | W+0.5 | 6.5 | 3000 | -4 | 
+| 2018-08-23 | 第43期棋聖戦Aリーグ | Shida Tatsuya | Ko Iso | Win | B+R | 7.5 | 3004 | 36 | 
+| 2018-08-02 | 第43期棋聖戦Aリーグ | Kobayashi Satoru | Shida Tatsuya | Win | W+R | 7.5 | 2968 | 7 | 
+| 2018-07-12 | 第43期棋聖戦Aリーグ | Shida Tatsuya | Murakawa Daisuke | Lose | W+R | 6.5 | 2961 | -52 | 
+| 2018-05-31 | 第43期棋聖戦Aリーグ | Cho Chikun | Shida Tatsuya | Lose | B+R | 6.5 | 3013 | -17 | 
+| 2018-05-10 | 第43期棋聖戦Aリーグ | Shida Tatsuya | Yu Zhengqi | Win | B+1.5 | 6.5 | 3030 | -16 | 
+| 2018-05-01 | 第30回テレビアジア選手権1回戦 | Park Junghwan | Shida Tatsuya | Lose | B+R | 6.5 | 3046 | 37 | 
+| 2018-04-26 | 第44期天元戦2回戦 | Shida Tatsuya | Yamashita Keigo | Lose | W+R | 6.5 | 3009 | -28 | 
+| 2018-04-12 | 第43期棋聖戦Aリーグ | So Yokoku | Shida Tatsuya | Lose | B+1.5 | 6.5 | 3037 | -73 | 
+| 2018-02-15 | 第43期碁聖戦本戦3回戦 | Takao Shinji | Shida Tatsuya | Lose | B+R | 6.5 | 3110 | -24 | 
+| 2018-02-08 | 第66期王座戦予選 | Shida Tatsuya | Sun Zhe | Lose | W+0.5 | 6.5 | 3134 | -8 | 
+| 2018-01-25 | 第56期十段戦挑戦者決定戦 | Shida Tatsuya | Murakawa Daisuke | Lose | W+R | 6.5 | 3142 | -19 | 
+| 2018-01-18 | 第44期天元戦1回戦 | Shida Tatsuya | Yuki Satoshi | Win | B+R | 6.5 | 3161 | 2 | 
+| 2018-01-11 | 第43期碁聖戦本戦2回戦 | Matsumoto Takehisa | Shida Tatsuya | Win | W+R | 6.5 | 3159 | -11 | 
+| 2017-12-26 | ナショナルチーム冬季合宿 | Ichiriki Ryo | Shida Tatsuya | Win | W+1.5 | 6.5 | 3170 | 46 | 
+| 2017-12-21 | 第56期十段戦準決勝 | Shida Tatsuya | Ichiriki Ryo | Win | B+1.5 | 6.5 | 3124 | 68 | 
+| 2017-12-07 | 第56期十段戦3回戦 | O Meien | Shida Tatsuya | Win | W+3.5 | 6.5 | 3056 | 7 | 
+| 2017-11-25 | 第12回広島アルミ杯・若鯉戦2回戦 | Lee Ishu | Shida Tatsuya | Lose | B+6.5 | 6.5 | 3049 | 0 | 
+| 2017-11-25 | 第12回広島アルミ杯・若鯉戦1回戦 | Hirata Tomoya | Shida Tatsuya | Win | W+3.5 | 6.5 | 3049 | 5 | 
+| 2017-11-02 | 第43期碁聖戦本戦1回戦 | Shida Tatsuya | Mimura Tomoyasu | Win | B+R | 6.5 | 3044 | -36 | 
+| 2017-10-19 | 第43期名人戦最終予選 | Shida Tatsuya | Hirata Tomoya | Lose | W+R | 6.5 | 3080 | 47 | 
+| 2017-10-12 | 第56期十段戦2回戦 | Yuki Satoshi | Shida Tatsuya | Win | W+3.5 | 6.5 | 3033 | 16 | 
+| 2017-09-28 | 第56期十段戦1回戦 | Adachi Toshimasa | Shida Tatsuya | Win | W+R | 6.5 | 3017 | -1 | 
+| 2017-09-21 | 第43期名人戦　最終予選1回戦 | Shida Tatsuya | Seto Taiki | Win | B+1.5 | 6.5 | 3018 | 34 | 
+| 2017-09-14 | 第42期棋聖戦　Bリーグプレーオフ | Shida Tatsuya | Yu Zhengqi | Lose | W+R | 6.5 | 2984 | 14 | 
+| 2017-08-24 | 第56期十段戦　最終予選決勝 | Shida Tatsuya | Rin Kanketsu | Win | B+0.5 | 6.5 | 2970 | 40 | 
+| 2017-07-27 | 第73期本因坊戦　最終予選第6局 | Shida Tatsuya | Shibano Toramaru | Lose | W+0.5 | 6.5 | 2930 | -35 | 
+| 2017-07-20 | 第42期棋聖戦　Bリーグ1組6回戦 | Shibano Toramaru | Shida Tatsuya | Win | W+R | 6.5 | 2965 | 21 | 
+| 2017-06-22 | 第42期棋聖戦　Bリーグ1組5回戦 | Shida Tatsuya | Ko Iso | Win | B+R | 6.5 | 2944 | 38 | 
+| 2017-06-15 | 第73期本因坊戦　最終予選1回戦 | Cho U | Shida Tatsuya | Win | W+R | 6.5 | 2906 | 56 | 
+| 2017-06-04 | 第65回NHK杯テレビ囲碁トーナメント戦1回戦第10局 | Sakai Hideyuki | Shida Tatsuya | Win | W+0.5 | 6.5 | 2850 | -30 | 
+| 2017-05-25 | 第42期棋聖戦　Bリーグ1組4回戦 | Ida Atsushi | Shida Tatsuya | Win | W+R | 6.5 | 2880 | 44 | 
+| 2017-05-18 | 第65期王座戦　本戦1回戦第4局 | Ichiriki Ryo | Shida Tatsuya | Lose | B+R | 6.5 | 2836 | -5 | 
+| 2017-04-27 | 第42期棋聖戦リーグ戦B組 | Yamada Kimio | Shida Tatsuya | Lose | B+2.5 | 6.5 | 2841 | -104 | 
+| 2017-04-04 | 世界第22期LG杯予選2回戦 | Lee Yeongkyu | Shida Tatsuya | Lose | B+R | 6.5 | 2945 | 136 | 
+| 2017-03-07 | 第8回おかげ杯囲碁トーナメント戦予選 | Shida Tatsuya | Koyama Kuya | Lose | W+R | 6.5 | 2809 | -64 | 
+| 2017-02-28 | 第8回おかげ杯囲碁トーナメント戦予選 | Shida Tatsuya | Yokotsuka Riki | Win | B+1.5 | 6.5 | 2873 | -33 | 
+| 2017-02-23 | 第65期王座戦　最終予選特選譜第3局 | Imamura Toshiya | Shida Tatsuya | Win | W+3.5 | 6.5 | 2906 | 169 | 
+| 2016-12-22 | 第43期天元戦　本戦1回戦第6局 | Shida Tatsuya | Yamashita Keigo | Lose | W+R | 6.5 | 2737 | -54 | 
+| 2016-11-24 | 第55期十段戦　準々決勝 | Shida Tatsuya | Hane Naoki | Lose | W+R | 6.5 | 2791 | -64 | 
+| 2016-10-27 | 第55期十段戦　本戦2回戦 | Shida Tatsuya | Motoki Katsuya | Win | B+1.5 | 6.5 | 2855 | 9 | 
+| 2016-10-03 | 第41期棋聖戦BC組リーグ戦決勝 | Shida Tatsuya | Yuki Satoshi | Lose | W+1.5 | 6.5 | 2846 | -32 | 
+| 2016-09-29 | 第42期名人戦最終予選 | Shida Tatsuya | Yu Zhengqi | Lose | W+R | 6.5 | 2878 | -125 | 
+| 2016-07-25 | 第41期棋聖戦Cリーグ | Shida Tatsuya | Sakai Hideyuki | Win | B+0.5 | 6.5 | 3003 | 131 | 
+| 2016-07-07 | 第64期王座戦2回戦 | Shida Tatsuya | Yu Zhengqi | Lose | W+R | 6.5 | 2872 | 60 | 
+| 2016-06-02 | 第64期王座戦　本戦1回戦第4局 | Yukawa Mitsuhisa | Shida Tatsuya | Win | W+R | 6.5 | 2812 | 156 | 
+| 2016-04-14 | 第64期王座戦予選 | Shida Tatsuya | Ko Iso | Win | B+R | 6.5 | 2656 | -41 | 
+| 2016-02-25 | 第64期王座戦予選 | Shida Tatsuya | Yuki Satoshi | Win | B+R | 6.5 | 2697 | 22 | 
+| 2016-02-18 | 第41期碁聖戦本戦2回戦 | Tsuruyama Atsushi | Shida Tatsuya | Lose | B+R | 6.5 | 2675 | -101 | 
+| 2016-02-03 | 第7回おかげ杯囲碁トーナメント戦予選 | Shida Tatsuya | Numadate Sakiya | Lose | W+R | 6.5 | 2776 | -71 | 
+| 2016-01-07 | 第54期十段戦準決勝 | Shida Tatsuya | Yu Zhengqi | Lose | W+R | 6.5 | 2847 | -18 | 
+| 2015-12-24 | 第41期碁聖戦本戦1回戦 | Ida Atsushi | Shida Tatsuya | Win | W+R | 6.5 | 2865 | 11 | 
+| 2015-11-26 | 第54期十段戦3回戦 | Kobayashi Satoru | Shida Tatsuya | Win | W+R | 6.5 | 2854 | 32 | 
+| 2015-11-22 | 第10回広島アルミ杯・若鯉戦決勝 | Terayama Rei | Shida Tatsuya | Lose | B+R | 6.5 | 2822 | 0 | 
+| 2015-11-22 | 第10回広島アルミ杯・若鯉戦準決勝 | Shida Tatsuya | Yu Zhengqi | Win | B+2.5 | 7.5 | 2822 | -5 | 
+| 2015-11-21 | 第10回広島アルミ杯・若鯉戦2回戦 | Shida Tatsuya | Ohashi Hirofumi | Win | B+R | 6.5 | 2827 | 0 | 
+| 2015-11-21 | 第10回広島アルミ杯・若鯉戦1回戦 | Shibano Toramaru | Shida Tatsuya | Win | W+0.5 | 6.5 | 2827 | 9 | 
+| 2015-10-01 | 第54期十段戦2回戦 | Shida Tatsuya | Mizokami Tomochika | Win | B+1.5 | 6.5 | 2818 | -65 | 
+| 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦G2 | Zhou Hexi | Shida Tatsuya | Lose | B+R | 6.5 | 2883 | -3 | 
+| 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦G1 | Seo Bongsoo | Shida Tatsuya | Lose | B+R | 6.5 | 2886 | -149 | 
+| 2015-08-05 | 第20回三星火災杯統合予選決勝 | Park Seunghwa | Shida Tatsuya | Win | W+R | 6.5 | 3035 | -180 | 
+| 2015-06-11 | 第40期棋聖戦Bリーグ | Shida Tatsuya | Yamada Kimio | Lose | W+R | 6.5 | 3215 | 36 | 
+| 2015-06-04 | 第71期本因坊戦予選 | Shida Tatsuya | Hikosaka Naoto | Lose | W+R | 6.5 | 3179 | -82 | 
+| 2015-05-11 | 第40期碁聖戦本戦準決勝 | Kono Rin | Shida Tatsuya | Lose | B+3.5 | 6.5 | 3261 | -86 | 
+| 2015-04-30 | 第63期王座戦予選 | Ichiriki Ryo | Shida Tatsuya | Lose | B+R | 6.5 | 3347 | 31 | 
+| 2015-04-23 | 第40期棋聖戦Bリーグ | Shida Tatsuya | O Meien | Win | B+3.5 | 6.5 | 3316 | 20 | 
+| 2015-04-02 | 第40期碁聖戦本戦3回戦 | Yuki Satoshi | Shida Tatsuya | Win | W+R | 6.5 | 3296 | -215 | 
+| 2015-02-26 | 第40期碁聖戦本戦2回戦 | So Yokoku | Shida Tatsuya | Win | W+R | 6.5 | 3511 | 36 | 
+| 2015-02-17 | 第6回おかげ杯囲碁トーナメント戦予選 | Shida Tatsuya | Suzuki Shinji | Win | B+4.5 | 6.5 | 3475 | 0 | 
+| 2015-02-17 | 第6回おかげ杯囲碁トーナメント戦予選 | Shida Tatsuya | Obuchi Kotaro | Win | B+R | 6.5 | 3475 | 17 | 
+| 2015-02-12 | 第63期王座戦予選 | Hikosaka Naoto | Shida Tatsuya | Win | W+R | 6.5 | 3458 | 4 | 
+| 2015-01-29 | 第40期碁聖戦本戦1回戦 | Shida Tatsuya | Ohashi Naruya | Win | B+5.5 | 6.5 | 3454 | 37 | 
+| 2015-01-22 | 第53期十段戦準決勝 | Ida Atsushi | Shida Tatsuya | Lose | B+R | 6.5 | 3417 | 15 | 
+| 2014-12-25 | 第53期十段戦3回戦 | Hane Naoki | Shida Tatsuya | Win | W+R | 6.5 | 3402 | 34 | 
+| 2014-11-20 | 第53期十段戦2回戦 | Shida Tatsuya | Kono Rin | Win | B+R | 6.5 | 3368 | 104 | 
+| 2014-10-09 | 第53期十段戦1回戦 | Shida Tatsuya | Uchida Shuhei | Win | B+1.5 | 6.5 | 3264 | 39 | 
+| 2014-10-03 | 2014年国際新鋭囲碁対抗戦第3戦 | Shida Tatsuya | Lee Donghoon | Lose | W+0.5 | 6.5 | 3225 | -46 | 
+| 2014-10-02 | 2014年国際新鋭囲碁対抗戦第2戦 | Wang Yuanjun | Shida Tatsuya | Win | W+1.5 | 6.5 | 3271 | 30 | 
+| 2014-10-01 | 2014年国際新鋭囲碁対抗戦第1戦 | Lian Xiao | Shida Tatsuya | Win | W+0.5 | 6.5 | 3241 | 32 | 
+| 2014-09-25 | 第39期新人王戦決勝三番勝負第3局 | Ichiriki Ryo | Shida Tatsuya | Lose | B+R | 6.5 | 3209 | -44 | 
+| 2014-09-17 | 第39期新人王戦決勝三番勝負第2局 | Shida Tatsuya | Ichiriki Ryo | Win | B+R | 6.5 | 3253 | 63 | 
+| 2014-09-11 | 第39期新人王戦決勝三番勝負第1局 | Ichiriki Ryo | Shida Tatsuya | Lose | B+0.5 | 6.5 | 3190 | 6 | 
+| 2014-08-28 | 第40期碁聖戦予選 | Hikosaka Naoto | Shida Tatsuya | Win | W+1.5 | 6.5 | 3184 | -55 | 
+| 2014-08-14 | 第53期十段戦予選 | Shida Tatsuya | Yamashita Keigo | Win | B+R | 6.5 | 3239 | 93 | 
+| 2014-07-17 | 第39期新人王戦準決勝 | Suzuki Shinji | Shida Tatsuya | Win | W+R | 6.5 | 3146 | 40 | 
+| 2014-07-10 | 第53期十段戦予選 | Shida Tatsuya | Nakano Yasuhiro | Win | B+R | 6.5 | 3106 | -17 | 
+| 2014-06-26 | 第39期新人王戦3回戦 | Adachi Toshimasa | Shida Tatsuya | Win | W+7.5 | 6.5 | 3123 | -3 | 
+| 2014-06-09 | 第21期阿含・桐山杯全日本早碁オープン戦予選 | Kono Rin | Shida Tatsuya | Lose | B+R | 6.5 | 3126 | -29 | 
+| 2014-04-10 | 第39期新人王戦2回戦 | Shida Tatsuya | Tamai Shin | Win | B+2.5 | 6.5 | 3155 | 20 | 
+| 2014-02-27 | 第39期棋聖戦予選 | Kono Rin | Shida Tatsuya | Lose | B+R | 6.5 | 3135 | -53 | 
+| 2014-02-04 | 第5回おかげ杯囲碁トーナメント戦予選 | Shida Tatsuya | Hsu Chiayuan | Win | B+R | 6.5 | 3188 | 54 | 
+| 2014-01-28 | 第5回おかげ杯囲碁トーナメント戦予選 | Numadate Sakiya | Shida Tatsuya | Win | W+0.5 | 6.5 | 3134 | 21 | 
+| 2014-01-17 | 25周年記念囲碁千里杯1回戦 | Suzuki Shinji | Shida Tatsuya | Lose | B+2.5 | 6.5 | 3113 | -78 | 
+| 2014-01-16 | 第39期新人王戦1回戦 | Onoda Takuya | Shida Tatsuya | Win | W+R | 6.5 | 3191 | 24 | 
+| 2013-10-05 | 第20期阿含・桐山杯全日本早碁オープン戦決勝 | Murakawa Daisuke | Shida Tatsuya | Lose | B+3.5 | 6.5 | 3167 | -190 | 
+| 2013-08-19 | 第20期阿含・桐山杯全日本早碁オープン戦準決勝 | Shida Tatsuya | Ichiriki Ryo | Win | B+0.5 | 6.5 | 3357 | 26 | 
+| 2013-08-15 | 第20期阿含・桐山杯全日本早碁オープン戦2回戦 | Takao Shinji | Shida Tatsuya | Win | W+0.5 | 6.5 | 3331 | 85 | 
+| 2013-07-29 | 第38期新人王戦準決勝 | Yu Zhengqi | Shida Tatsuya | Lose | B+R | 6.5 | 3246 | -21 | 
+| 2013-07-25 | 第38期新人王戦3回戦 | Hatanaka Hoshinobu | Shida Tatsuya | Win | W+R | 6.5 | 3267 | 154 | 
+| 2013-07-04 | 第38期新人王戦2回戦 | Shida Tatsuya | Shimosaka Miori | Win | B+R | 6.5 | 3113 | 94 | 
+| 2013-06-24 | 第20期阿含・桐山杯全日本早碁オープン戦1回戦 | Shida Tatsuya | Ko Iso | Win | B+R | 6.5 | 3019 | 90 | 
+| 2013-05-23 | 第39期天元戦本戦2回戦 | Shida Tatsuya | Seto Taiki | Lose | W+R | 6.5 | 2929 | 63 | 
+| 2013-02-21 | 第38期新人王戦1回戦 | Shida Tatsuya | Adachi Toshimasa | Win | B+0.5 | 6.5 | 2866 | -20 | 
+| 2013-02-14 | 第39期天元戦本戦1回戦 | Shida Tatsuya | O Meien | Win | B+R | 6.5 | 2886 | 15 | 
+| 2013-02-02 | 第8回大和証券杯ネット囲碁オープン準決勝 | Shida Tatsuya | Takao Shinji | Lose | W+R | 6.5 | 2871 | -13 | 
+| 2013-01-17 | 第38期新人王戦 | Kazama Jun | Shida Tatsuya | Win | W+R | 6.5 | 2884 | 46 | 
+| 2013-01-12 | 第8回大和証券杯ネット囲碁オープン3回戦 | Shida Tatsuya | Cho U | Win | B+2.5 | 6.5 | 2838 | 61 | 
+| 2013-01-10 | 第38期碁聖戦本戦1回戦 | Shida Tatsuya | Goto Shungo | Lose | W+R | 6.5 | 2777 | -41 | 
+| 2012-12-15 | 第8回大和証券杯ネット囲碁オープン2回戦 | Nakao Jungo | Shida Tatsuya | Win | W+R | 6.5 | 2818 | -250 | 
+| 2012-11-18 | 第7回広島アルミ杯・若鯉戦準決勝 | Shida Tatsuya | Suzuki Shinji | Lose | W+R | 6.5 | 3068 | -38 | 
+| 2012-11-17 | 第7回広島アルミ杯・若鯉戦2回戦 | Shida Tatsuya | Ida Atsushi | Win | B+R | 6.5 | 3106 | 0 | 
+| 2012-11-17 | 第7回広島アルミ杯・若鯉戦1回戦 | Xie Yimin | Shida Tatsuya | Win | W+R | 6.5 | 3106 | 39 | 
+| 2012-09-27 | 第38期碁聖戦予選 | Shida Tatsuya | Yamada Kimio | Win | B+R | 6.5 | 3067 | 33 | 
+| 2012-09-01 | 第8回大和証券杯ネット囲碁オープン1回戦 | Shida Tatsuya | Kobayashi Satoru | Win | B+1.5 | 6.5 | 3034 | -81 | 
+| 2012-05-17 | 第3回おかげ杯囲碁トーナメント戦準決勝 | Shida Tatsuya | Anzai Nobuaki | Lose | W+0.5 | 6.5 | 3115 | -28 | 
+| 2012-05-10 | 第38期天元戦本戦2回戦 | Hane Naoki | Shida Tatsuya | Lose | B+R | 6.5 | 3143 | -93 | 
+| 2012-04-12 | 第51期十段戦予選 | Ishii Kunio | Shida Tatsuya | Win | W+R | 6.5 | 3236 | 95 | 
+| 2012-03-22 | 第37期新人王戦2回戦 | Tajiri Yuto | Shida Tatsuya | Lose | B+R | 6.5 | 3141 | -84 | 
+| 2012-03-19 | 第3回おかげ杯囲碁トーナメント戦予選 | Shida Tatsuya | Tajima Shingo | Win | B+R | 6.5 | 3225 | -73 | 
+| 2012-02-23 | 第38期天元戦本戦1回戦 | Mitani Tetsuya | Shida Tatsuya | Win | W+2.5 | 6.5 | 3298 | 68 | 
+| 2012-02-16 | 第37期棋聖戦予選 | Ichiriki Ryo | Shida Tatsuya | Win | W+3.5 | 6.5 | 3230 | 76 | 
+| 2012-02-06 | 第3回おかげ杯囲碁トーナメント戦予選 | Shida Tatsuya | Yamada Shinji | Win | B+T | 6.5 | 3154 | 22 | 
+| 2012-01-14 | 第7回大和証券杯ネット囲碁オープン3回戦 | Shida Tatsuya | Akiyama Jiro | Lose | W+1.5 | 6.5 | 3132 | -30 | 
+| 2011-12-22 | 第37期新人王戦1回戦 | Shida Tatsuya | Motoki Katsuya | Win | B+R | 6.5 | 3162 | -8 | 
+| 2011-12-10 | 第7回大和証券杯ネット囲碁オープン2回戦 | Shuto Shun | Shida Tatsuya | Win | W+R | 6.5 | 3170 | 490 | 
+| 2011-11-20 | 第6回広島アルミ杯・若鯉戦決勝 | Shida Tatsuya | Uchida Shuhei | Lose | W+R | 6.5 | 2680 | 0 | 
+| 2011-11-20 | 第6回広島アルミ杯・若鯉戦準決勝 | Shida Tatsuya | Terayama Rei | Win | B+R | 6.5 | 2680 | -8 | 
+| 2011-11-19 | 第6回広島アルミ杯・若鯉戦2回戦 | Shida Tatsuya | Ohashi Hirofumi | Win | B+6.5 | 6.5 | 2688 | 11 | 
+| 2011-10-20 | 第53期王冠戦予選 | Shida Tatsuya | Hikosaka Naoto | Win | B+R | 6.5 | 2677 | -40 | 
+| 2011-09-24 | 第7回大和証券杯ネット囲碁オープン1回戦 | Shida Tatsuya | Obuchi Morito | Win | B+R | 6.5 | 2717 | -9 | 
+| 2011-09-15 | 第60期王座戦予選 | Shida Tatsuya | Hikosaka Naoto | Lose | W+R | 6.5 | 2726 | -91 | 
+| 2011-06-23 | 第18期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho U | Shida Tatsuya | Lose | B+1.5 | 6.5 | 2817 | -49 | 
+| 2011-05-14 | 第2回おかげ杯囲碁トーナメント戦決勝 | Shida Tatsuya | Anzai Nobuaki | Lose | W+R | 6.5 | 2866 | 0 | 
+| 2011-05-14 | 第2回おかげ杯囲碁トーナメント戦準決勝 | Shida Tatsuya | Rin Kanketsu | Win | B+0.5 | 6.5 | 2866 | 42 | 
+| 2011-03-24 | 第36期新人王戦2回戦 | Numadate Sakiya | Shida Tatsuya | Lose | B+3.5 | 6.5 | 2824 | -70 | 
+| 2011-03-17 | 第59期王座戦予選 | Nakano Yasuhiro | Shida Tatsuya | Lose | B+R | 6.5 | 2894 | 99 | 
+| 2011-02-03 | 第36期新人王戦1回戦 | Hatanaka Hoshinobu | Shida Tatsuya | Win | W+R | 6.5 | 2795 | -2 | 
+| 2011-01-25 | 第3回BCカード杯世界選手権統合予選 | Shida Tatsuya | Rui Naiwei | Win | B+T | 6.5 | 2797 | 265 | 
+| 2010-12-23 | 第36期棋聖戦予選 | Shida Tatsuya | O Rissei | Lose | W+R | 6.5 | 2532 | -19 | 
+| 2010-12-02 | 第59期王座戦予選 | Goto Shungo | Shida Tatsuya | Win | W+2.5 | 6.5 | 2551 | 53 | 
+| 2010-11-18 | 第37期天元戦予選 | Hikosaka Naoto | Shida Tatsuya | Lose | B+4.5 | 6.5 | 2498 | -53 | 
+| 2010-10-31 | 第5回広島アルミ杯・若鯉戦準決勝 | Shida Tatsuya | Terayama Rei | Lose | W+R | 6.5 | 2551 | -68 | 
+| 2010-10-30 | 第5回広島アルミ杯・若鯉戦2回戦 | Shida Tatsuya | Takagi Junpei | Win | B+R | 6.5 | 2619 | 0 | 
+| 2010-10-30 | 第5回広島アルミ杯・若鯉戦1回戦 | Shida Tatsuya | Uchida Shuhei | Win | B+0.5 | 6.5 | 2619 | 324 | 
+| 2010-08-26 | 第36期名人戦予選 | Shida Tatsuya | Seto Taiki | Lose | W+R | 6.5 | 2295 | -87 | 
+| 2010-06-15 | 第7回中野杯U20選手権決勝 | Shida Tatsuya | Murakawa Daisuke | Lose | W+R | 6.5 | 2382 | -40 | 
+| 2010-02-18 | 第35期新人王戦1回戦 | Shida Tatsuya | Mannami Kana | Lose | W+R | 6.5 | 2422 | -171 | 
+| 2010-01-21 | 第36期天元戦本戦1回戦 | Shida Tatsuya | Imamura Toshiya | Lose | W+R | 6.5 | 2593 | -201 | 
+| 2009-08-27 | 第35期名人戦予選 | Cho Riyu | Shida Tatsuya | Win | W+2.5 | 6.5 | 2794 | 90 | 
+| 2009-07-14 | 第6回中野杯U20選手権決勝 | Shida Tatsuya | Murakawa Daisuke | Lose | W+R | 6.5 | 2704 | 0 | 
+| 2009-07-14 | 第6回中野杯U20選手権準決勝 | Shida Tatsuya | Lee Ishu | Win | B+R | 6.5 | 2704 | 30 | 
+| 2009-07-02 | 第34期新人王戦3回戦 | Seto Taiki | Shida Tatsuya | Lose | B+R | 6.5 | 2674 | -29 | 
+| 2009-04-30 | 第34期新人王戦2回戦 | Shida Tatsuya | Obuchi Kotaro | Win | B+0.5 | 6.5 | 2703 | -9 | 
+| 2009-02-26 | 第34期新人王戦1回戦 | Shida Tatsuya | Suzuki Ayumi | Win | B+R | 6.5 | 2712 | 78 | 
+| 2009-02-09 | 第2期幽玄杯精鋭リーグ戦 | Shida Tatsuya | Tajima Shingo | Win | B+R | 6.5 | 2634 | -45 | 
+| 2009-01-26 | 第2期幽玄杯精鋭リーグ戦 | Cho Chien | Shida Tatsuya | Win | W+R | 6.5 | 2679 | 4 | 
+| 2009-01-22 | 第57期王座戦予選 | Kobayashi Satoru | Shida Tatsuya | Lose | B+R | 6.5 | 2675 | -86 | 
+| 2009-01-12 | 第2期幽玄杯精鋭リーグ戦 | Shida Tatsuya | Mimura Tomoyasu | Win | B+R | 6.5 | 2761 | 114 | 
+| 2008-12-15 | 第2期幽玄杯精鋭リーグ戦 | Shida Tatsuya | Kobayashi Satoru | Lose | W+3.5 | 6.5 | 2647 | 213 | 
+| 2008-11-27 | 第57期王座戦予選 | Shida Tatsuya | Hikosaka Naoto | Win | B+0.5 | 6.5 | 2434 | 19 | 
+| 2008-11-24 | 第2期幽玄杯精鋭リーグ戦 | Shida Tatsuya | So Yokoku | Lose | W+2.5 | 6.5 | 2415 | -28 | 
+| 2008-11-17 | 第2期幽玄杯精鋭リーグ戦 | Ryu Shikun | Shida Tatsuya | Lose | B+3.5 | 6.5 | 2443 | -85 | 
+| 2008-11-01 | 第3回広島アルミ杯・若鯉戦2回戦 | Shida Tatsuya | Ohba Junya | Lose | W+R | 6.5 | 2528 | 0 | 
+| 2008-11-01 | 第3回広島アルミ杯・若鯉戦1回戦 | Takemiya Youkou | Shida Tatsuya | Win | W+R | 6.5 | 2528 | -595 | 
+| 2008-10-13 | 第2期幽玄杯精鋭リーグ戦 | Mukai Chiaki | Shida Tatsuya | Win | W+R | 6.5 | 3123 | 65 | 
+| 2008-09-25 | 第35期天元戦予選 | Yamada Kimio | Shida Tatsuya | Lose | B+R | 6.5 | 3058 | -40 | 
+| 2008-09-22 | 第2期幽玄杯精鋭リーグ戦 | Shida Tatsuya | O Rissei | Lose | W+3.5 | 6.5 | 3098 | 168 | 
+| 2008-06-30 | 第2期幽玄杯精鋭リーグ戦 | Ko Iso | Shida Tatsuya | Lose | B+0.5 | 6.5 | 2930 | -160 | 
+| 2008-06-02 | 第2期幽玄杯精鋭リーグ戦 | Shida Tatsuya | Xie Yimin | Win | B+R | 6.5 | 3090 | 40 | 
+| 2008-05-15 | 第33期新人王戦2回戦 | Ha Youngil | Shida Tatsuya | Lose | B+R | 6.5 | 3050 | -1 | 
+| 2008-05-12 | 第2期幽玄杯精鋭リーグ戦 | Shida Tatsuya | Uchida Shuhei | Win | B+R | 6.5 | 3051 | 220 | 
+| 2008-02-04 | 第1期幽玄杯精鋭リーグ戦 | Kobayashi Koichi | Shida Tatsuya | Lose | B+R | 6.5 | 2831 | 2831 | 
+| 2008-01-28 | 第1期幽玄杯精鋭リーグ戦 | Kono Rin | Shida Tatsuya | Win | W+R | 6.5 | missing | 0 | 
+| 2008-01-21 | 第1期幽玄杯精鋭リーグ戦 | Mukai Chiaki | Shida Tatsuya | Win | W+R | 6.5 | missing | 0 | 
+| 2008-01-14 | 第1期幽玄杯精鋭リーグ戦 | Shida Tatsuya | Seki Tatsuya | Win | B+2.5 | 6.5 | missing | 0 | 
+| 2008-01-10 | 第33期新人王戦1回戦 | Shida Tatsuya | Ohba Junya | Win | B+R | 6.5 | missing | 0 | 
+| 2007-12-17 | 第1期幽玄杯精鋭リーグ戦 | Shida Tatsuya | Terayama Rei | Win | B+1.5 | 6.5 | missing | 0 | 
+| 2007-12-03 | 第1期幽玄杯精鋭リーグ戦 | Shida Tatsuya | Nakajima Mieko | Win | B+R | 6.5 | missing | 0 | 
+| 2007-11-18 | 第2回広島アルミ杯・若鯉戦決勝 | Mitani Tetsuya | Shida Tatsuya | Win | W+3.5 | 6.5 | missing | 0 | 
+| 2007-11-18 | 第2回広島アルミ杯・若鯉戦準決勝 | Xie Yimin | Shida Tatsuya | Win | W+R | 6.5 | missing | 0 | 
+| 2007-11-17 | 第2回広島アルミ杯・若鯉戦2回戦 | Shida Tatsuya | Takekiyo Isamu | Win | B+0.5 | 6.5 | missing | 0 | 
+| 2007-10-25 | 第33期新人王戦予選 | Kato Yuuki | Shida Tatsuya | Win | W+R | 6.5 | missing | 0 | 
+| 2007-05-28 | 第4回中野杯U20選手権 | Horimoto Mitsunari | Shida Tatsuya | Win | W+R | 6.5 | missing | 0 | 
+| 2006-10-12 | 第32期新人王戦予選 | Tamai Shin | Shida Tatsuya | Lose | B+R | 6.5 | missing | missing |
 
 
 

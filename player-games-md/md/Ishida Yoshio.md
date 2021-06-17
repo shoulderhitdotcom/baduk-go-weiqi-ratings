@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-17 | 第46期棋聖戦Cリーグ | Yuki Satoshi | Ishida Yoshio | Lose | B+7.5 | 6.5 | 2885 | -111 | 
 | 2021-06-10 | 第47期名人戦予選 | Ishida Yoshio | Kobayashi Izumi | Win | B+R | 6.5 | 2996 | 39 | 
 | 2021-05-31 | 第46期棋聖戦Cリーグ | Ishida Yoshio | Abe Yoshiki | Win | B+1.5 | 6.5 | 2957 | 75 | 
 | 2021-05-03 | 第46期棋聖戦予選  | Ishida Yoshio | Takemiya Masaki | Win | B+2.5 | 6.5 | 2882 | 19 | 

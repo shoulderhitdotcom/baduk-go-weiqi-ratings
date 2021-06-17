@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-17 | 第46期棋聖戦Sリーグ  | Murakawa Daisuke | Ichiriki Ryo | Win | W+R | 6.5 | 3520 | 12 | 
 | 2021-06-07 | 第46期名人戦リーグ  | Ichiriki Ryo | Hane Naoki | Win | B+R | 6.5 | 3508 | -2 | 
 | 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Chen Qirui | Ichiriki Ryo | Win | W+R | 6.5 | 3510 | 14 | 
 | 2021-05-24 | 第46期棋聖戦Sリーグ | Ichiriki Ryo | Yamashita Keigo | Win | B+3.5 | 6.5 | 3496 | 5 | 

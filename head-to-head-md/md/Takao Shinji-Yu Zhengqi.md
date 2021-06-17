@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Takao Shinji vs Yu Zhengqi** | **Takao Shinji streak** | **Yu Zhengqi streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-05-31 | 第46期棋聖戦Sリーグ | Yu Zhengqi | Takao Shinji | B+R | 6.5 | 1:10 | 0 | 10 | 
 | 2019-01-17 | 第44期碁聖戦本戦2回戦 | Yu Zhengqi | Takao Shinji | B+R | 6.5 | 1:9 | 0 | 9 | 
 | 2018-02-01 | 第43期名人戦リーグ | Takao Shinji | Yu Zhengqi | W+R | 6.5 | 1:8 | 0 | 8 | 
 | 2017-07-27 | 第73期本因坊戦　最終予選第5局 | Takao Shinji | Yu Zhengqi | W+R | 6.5 | 1:7 | 0 | 7 | 

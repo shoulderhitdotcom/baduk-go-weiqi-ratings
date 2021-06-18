@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-18 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Cho Hyeyeon | Lose | W+0.5 | 6.5 | 2705 | 6 | 
 | 2021-06-10 | 第7回韓国女子囲碁リーグ | Kang Dajeong |  | Win | B+R | 6.5 | 2699 | -7 | 
 | 2021-05-29 | 第7回韓国女子囲碁リーグ | Kang Dajeong |  | Lose | W+R | 6.5 | 2706 | -16 | 
 | 2021-05-24 | 第4回呉清源杯韓国予選 | Kang Dajeong | Kim Hyeoimin | Lose | W+R | 7.5 | 2722 | 24 | 

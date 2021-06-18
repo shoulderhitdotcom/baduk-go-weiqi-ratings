@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-18 | 第26回GSカルテックス杯プロ棋戦3回戦 | Lee Changseok | Shin Jinseo | Win | W+R | 6.5 | 3818 | 1 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Shin Jinseo | Win | W+R | 7.5 | 3817 | 1 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Shin Jinseo | Win | W+R | 7.5 | 3816 | -7 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Ding Shixiong | Win | B+R | 7.5 | 3823 | 8 | 

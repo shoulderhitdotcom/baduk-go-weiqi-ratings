@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-18 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Cheayoung | Win | B+R | 6.5 | 3267 | -8 | 
 | 2021-06-10 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Dayoung | Win | B+1.5 | 6.5 | 3275 | -2 | 
 | 2021-06-06 | 第7回韓国女子囲碁リーグ | Choi Jeong |  | Win | B+R | 6.5 | 3277 | -21 | 
 | 2021-05-29 | 第7回韓国女子囲碁リーグ | Choi Jeong |  | Win | B+R | 6.5 | 3298 | 12 | 

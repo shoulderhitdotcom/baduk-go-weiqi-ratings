@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-18 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Cho Hyeyeon | Win | W+0.5 | 6.5 | 3003 | 1 | 
 | 2021-06-12 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Cho Hyeyeon | Lose | B+R | 6.5 | 3002 | 22 | 
 | 2021-06-12 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Cho Hyeyeon | Lose | B+R | 6.5 | 2980 | 1 | 
 | 2021-06-05 | 第7回韓国女子囲碁リーグ | Cho Hyeyeon | Lee Minjin | Win | B+R | 6.5 | 2979 | -220 | 

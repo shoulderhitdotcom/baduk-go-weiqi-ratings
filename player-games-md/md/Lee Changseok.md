@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-18 | 第26回GSカルテックス杯プロ棋戦3回戦 | Lee Changseok | Shin Jinseo | Lose | W+R | 6.5 | 3520 | -3 | 
 | 2021-06-17 | 第2期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Lee Changseok | Lose | B+R | 6.5 | 3523 | -11 | 
 | 2021-06-09 | 第4期韓国竜星戦3回戦 | Han Wonggyu | Lee Changseok | Lose | B+R | 6.5 | 3534 | 3 | 
 | 2021-06-09 | 第4期韓国竜星戦3回戦 | Han Wonggyu | Lee Changseok | Lose | B+R | 6.5 | 3531 | -6 | 

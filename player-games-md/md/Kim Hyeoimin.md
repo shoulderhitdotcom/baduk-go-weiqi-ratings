@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-19 | 第7回韓国女子囲碁リーグ | Oh Yujin | Kim Hyeoimin | Lose | B+0.5 | 6.5 | 2979 | -6 | 
 | 2021-06-12 | 第7回韓国女子囲碁リーグ | Kim Eunseon | Kim Hyeoimin | Win | W+R | 6.5 | 2985 | -4 | 
 | 2021-06-12 | 第7回韓国女子囲碁リーグ | Kim Eunseon | Kim Hyeoimin | Win | W+R | 6.5 | 2989 | 11 | 
 | 2021-06-04 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Kim Hyeoimin | Lose | B+R | 6.5 | 2978 | 2 | 

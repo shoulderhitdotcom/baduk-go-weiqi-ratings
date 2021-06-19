@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-19 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Park Taehee | Win | W+5.5 | 6.5 | 2666 | -60 | 
 | 2021-06-11 | 第7回韓国女子囲碁リーグ |  | Park Taehee | Lose | B+R | 6.5 | 2726 | 18 | 
 | 2021-06-11 | 第7回韓国女子囲碁リーグ |  | Park Taehee | Lose | B+R | 6.5 | 2708 | -12 | 
 | 2021-06-03 | 第7回韓国女子囲碁リーグ | Park Taehee |  | Lose | W+R | 6.5 | 2720 | -29 | 

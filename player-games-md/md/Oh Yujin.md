@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-19 | 第7回韓国女子囲碁リーグ | Oh Yujin | Kim Hyeoimin | Win | B+0.5 | 6.5 | 3091 | -4 | 
 | 2021-06-11 | 第7回韓国女子囲碁リーグ |  | Oh Yujin | Win | W+R | 6.5 | 3095 | -4 | 
 | 2021-06-11 | 第7回韓国女子囲碁リーグ |  | Oh Yujin | Win | W+R | 6.5 | 3099 | 2 | 
 | 2021-06-03 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Oh Yujin | Win | W+R | 6.5 | 3097 | 8 | 

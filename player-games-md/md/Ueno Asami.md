@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-19 | 第8期会津中央病院・女流立葵杯挑戦手合三番勝負第2局  | Fujisawa Rina | Ueno Asami | Lose | B+R | 6.5 | 3011 | 3 | 
 | 2021-06-18 | 第8期会津中央病院・女流立葵杯挑戦手合三番勝負第1局  | Ueno Asami | Fujisawa Rina | Lose | W+R | 6.5 | 3008 | 1 | 
 | 2021-06-16 | 第8期会津中央病院・女流立葵杯挑戦者決定戦 | Nyu Eiko | Ueno Asami | Win | W+R | 6.5 | 3007 | 4 | 
 | 2021-06-15 | 第8期会津中央病院・女流立葵杯準決勝 |  | Ueno Asami | Win | W+R | 6.5 | 3003 | 15 | 

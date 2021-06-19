@@ -5,683 +5,684 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Weon Seongjin | Ke Jie | Lose | W+0.5 | 6.5 | 
-| 2021-05-31 | 第26回LG杯朝鮮日報棋王戦1回戦 | Weon Seongjin | Hsu Chiayuan | Win | B+R | 6.5 | 
-| 2021-05-13 | 第26回GSカルテックス杯プロ棋戦2回戦 | Weon Seongjin | Na Hyun | Win | B+0.5 | 6.5 | 
-| 2021-05-02 | 第26回LG杯韓国予選 | Weon Seongjin | Park Sangjin | Win | B+R | 6.5 | 
-| 2021-04-17 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Weon Seongjin | Park Minkyu | Win | B+R | 6.5 | 
-| 2021-03-28 | 2020-2021韓国囲碁リーグ優勝決定戦第3戦 | Heo Yongho | Weon Seongjin | Win | W+R | 6.5 | 
-| 2021-03-27 | 2020-2021韓国囲碁リーグ優勝決定戦第2戦 | Weon Seongjin | An Jungki | Win | B+R | 6.5 | 
-| 2021-03-26 | 2020-2021韓国囲碁リーグ優勝決定戦第1戦 | An Jungki | Weon Seongjin | Win | W+R | 6.5 | 
-| 2021-02-27 | 2020-2021韓国囲碁リーグ | Kang Dongyun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2021-02-20 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Na Hyun | Win | B+R | 6.5 | 
-| 2021-02-14 | 2020-2021韓国囲碁リーグ | Han Sanghoon | Weon Seongjin | Win | W+R | 6.5 | 
-| 2021-02-08 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Park Junghwan | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2021-02-04 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Park Jinsol | Win | B+R | 6.5 | 
-| 2021-01-29 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Wen Rubin | Win | B+R | 6.5 | 
-| 2021-01-28 | 第4期韓国竜星戦予選 | An Jungki | Weon Seongjin | Lose | B+2.5 | 6.5 | 
-| 2021-01-23 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Park Sangjin | Win | B+R | 6.5 | 
-| 2021-01-17 | 2020-2021韓国囲碁リーグ | Park Geunho | Weon Seongjin | Win | W+R | 6.5 | 
-| 2021-01-09 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Kang Dongyun | Win | B+R | 6.5 | 
-| 2021-01-04 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Weon Seongjin | Win | W+R | 6.5 | 
-| 2021-01-01 | 2020-2021韓国囲碁リーグ | Choi Jeong | Weon Seongjin | Win | W+R | 6.5 | 
-| 2020-12-24 | 2020-2021韓国囲碁リーグ | Park Seunghwa | Weon Seongjin | Win | W+1.5 | 6.5 | 
-| 2020-12-20 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Park Jinsol | Win | B+R | 6.5 | 
-| 2020-12-12 | 2020-2021韓国囲碁リーグ | Lee Donghoon | Weon Seongjin | Win | W+R | 6.5 | 
-| 2020-12-05 | 第26期GSカルテックス杯プロ棋戦予選 | Weon Seongjin | Kim Cheayoung | Win | B+R | 6.5 | 
-| 2020-12-04 | 2020-2021韓国囲碁リーグ | Lee Wonyoung | Weon Seongjin | Win | W+R | 6.5 | 
-| 2020-11-26 | 2020-2021韓国囲碁リーグ | Park Geunho | Weon Seongjin | Win | W+0.5 | 6.5 | 
-| 2020-11-09 | 第25回LG杯朝鮮日報棋王戦3回戦 | Weon Seongjin | Ke Jie | Lose | W+R | 6.5 | 
-| 2020-08-03 | 第2期ソパルコサノル最高棋士決定戦予選 | Kim Jinhyu | Weon Seongjin | Lose | B+0.5 | 6.5 | 
-| 2020-06-08 | 第25回LG杯朝鮮日報棋王戦2回戦 | Gu Zihao | Weon Seongjin | Win | W+1.5 | 6.5 | 
-| 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Weon Seongjin | Xu Haohong | Win | B+R | 6.5 | 
-| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第3試合第1局 | Weon Seongjin | An Joyeong | Win | B+R | 6.5 | 
-| 2020-01-27 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Na Hyun | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2020-01-24 | 2019-2020韓国囲碁リーグ第17節第2試合第5局 | Weon Seongjin | Kim Myounghoon | Win | B+R | 6.5 | 
-| 2020-01-20 | 第9回応氏杯世界選手権韓国選抜戦 | Weon Seongjin | Choi Cheolhan | Lose | W+R | 7.5 | 
-| 2020-01-16 | 2019-2020韓国囲碁リーグ第16節第1試合第1局 | Park Junsuck | Weon Seongjin | Win | W+2.5 | 6.5 | 
-| 2020-01-12 | 2019-2020韓国囲碁リーグ第15節第4試合第4局 | Gang Woohyeok | Weon Seongjin | Win | W+R | 6.5 | 
-| 2020-01-10 | 第13回春蘭杯韓国予選 | Weon Seongjin | Shin Minjun | Lose | W+R | 7.5 | 
-| 2020-01-08 | 第13回春蘭杯韓国予選 | Weon Seongjin | Lee Donghoon | Win | B+R | 7.5 | 
-| 2020-01-03 | 2019-2020韓国囲碁リーグ第14節第2試合第5局 | Lee Hoseong | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2019-12-20 | 2019-2020韓国囲碁リーグ第12節第2試合第3局 | Weon Seongjin |  | Win | B+R | 6.5 | 
-| 2019-12-15 | 2019-2020韓国囲碁リーグ第11節第4試合第1局 | Weon Seongjin | Song Gyusang | Win | B+R | 6.5 | 
-| 2019-12-06 | 2019-2020韓国囲碁リーグ第10節第2試合第2局 | Weon Seongjin | Kang Dongyun | Lose | W+R | 6.5 | 
-| 2019-11-29 | 2019-2020韓国囲碁リーグ第9節第2試合第2局 | Jin Siyoung | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2019-11-23 | 2019-2020韓国囲碁リーグ第8節第3試合第2局 | Weon Seongjin | Lee Yeongkyu | Lose | W+R | 6.5 | 
-| 2019-11-17 | 2019-2020韓国囲碁リーグ第7節第4試合第2局 | Choi Cheolhan | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2019-11-13 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第6戦 | Weon Seongjin | Lai Junfu | Win | B+R | 6.5 | 
-| 2019-11-13 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第5戦 | Weon Seongjin | Jian Jingting | Win | B+R | 6.5 | 
-| 2019-11-12 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第4戦 | Xu Jingen | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2019-11-12 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第3戦 | Lin Lixiang | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2019-11-11 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第2戦 | Lin Shixun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2019-11-11 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第1戦 | Chen Shiyuan | Weon Seongjin | Win | W+R | 6.5 | 
-| 2019-11-07 | 2019-2020韓国囲碁リーグ第6節第1試合第3局 | Park Yeonghun | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2019-11-02 | 2019-2020韓国囲碁リーグ第5節第3試合第5局 | Weon Seongjin | Lee Hoseong | Lose | W+R | 6.5 | 
-| 2019-10-19 | 2019-2020韓国囲碁リーグ第3節第3試合第1局 | Yun Junsang | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2019-10-16 | 第21回農心辛ラーメン杯世界囲碁最強戦第2戦 | Yang Dingxin | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2019-10-15 | 第21回農心辛ラーメン杯世界囲碁最強戦第1戦 | Murakawa Daisuke | Weon Seongjin | Win | W+R | 6.5 | 
-| 2019-10-03 | 2019-2020韓国囲碁リーグ第2節第1試合第1局 | Weon Seongjin | Seol Hyunjun | Win | B+R | 6.5 | 
-| 2019-09-28 | 2019-2020韓国囲碁リーグ第1節第3試合第2局 | Weon Seongjin | Park Hamin | Lose | W+R | 6.5 | 
-| 2019-07-19 | 第21回農心杯韓国選抜戦 | Lee Changho | Weon Seongjin | Win | W+14.5 | 6.5 | 
-| 2019-07-18 | 第21回農心杯韓国選抜戦 | Shin Minjun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2019-07-15 | 第21回農心杯韓国選抜戦 | Weon Seongjin | Yun Chanhee | Win | B+R | 6.5 | 
-| 2019-07-11 | 第21回農心杯韓国選抜戦 | Weon Seongjin | Park Sangjin | Win | B+R | 6.5 | 
-| 2019-06-26 | 第6回国手山脈韓国国内トーナメント予選 | Jin Siyoung | Weon Seongjin | Win | W+R | 6.5 | 
-| 2019-06-23 | 2019年中国囲碁乙級リーグ |  | Weon Seongjin | Win | W+1¼ | 7.5 | 
-| 2019-06-22 | 2019年中国囲碁乙級リーグ | An Dongxu | Weon Seongjin | Win | W+R | 7.5 | 
-| 2019-06-21 | 2019年中国囲碁乙級リーグ | Weon Seongjin | Na Hyun | Win | B+R | 7.5 | 
-| 2019-06-19 | 2019年中国囲碁乙級リーグ | Weon Seongjin |  | Win | B+R | 7.5 | 
-| 2019-06-18 | 2019年中国囲碁乙級リーグ | Chen Shiyuan | Weon Seongjin | Win | W+R | 7.5 | 
-| 2019-06-12 | 2019年囲碁テレビ杯早碁戦16強戦 | Song Jihoon | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2019-06-05 | 第6回国手山脈杯韓国選抜戦1回戦 | Hong Seongji | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2019-05-22 | 第4回夢百合杯統合予選  | Weon Seongjin | Wu Guangya | Lose | W+R | 7.5 | 
-| 2019-05-14 | 第38回KBS杯囲碁王戦2回戦 | Park Hamin | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2019-05-04 | 2019年囲碁テレビ杯早碁戦32強戦 | Weon Seongjin | Choi Jaeyoung | Win | B+R | 6.5 | 
-| 2019-02-01 | 第24期GSカルテックス杯24強戦 | Weon Seongjin | Kim Seongjae | Lose | W+R | 6.5 | 
-| 2019-01-08 | 第20回マキシムコーヒー杯入神最強戦1回戦 | Ko Keuntae | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2018-11-14 | 2018年台湾精鋭vs韓国交流戦第6戦 | Xiao Zhenghao | Weon Seongjin | Win | W+R | 6.5 | 
-| 2018-11-14 | 2018年台湾精鋭vs韓国交流戦第5戦 | Lin Lixiang | Weon Seongjin | Win | W+R | 6.5 | 
-| 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第4戦 | Weon Seongjin | Xu Haohong | Lose | W+R | 6.5 | 
-| 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第3戦 | Weon Seongjin | Chen Qirui | Win | B+R | 6.5 | 
-| 2018-11-12 | 2018年台湾精鋭vs韓国交流戦第2戦 | Weon Seongjin | Wang Yuanjun | Win | B+1.5 | 6.5 | 
-| 2018-11-12 | 2018年台湾精鋭vs韓国交流戦第1戦 | Weon Seongjin | Lin Junyan | Win | B+R | 6.5 | 
-| 2018-10-07 | 2018年韓国囲碁リーグ第14節 | Weon Seongjin | Park Geunho | Win | B+R | 6.5 | 
-| 2018-09-27 | 2018年韓国囲碁リーグ第13節 | Yun Junsang | Weon Seongjin | Win | W+R | 6.5 | 
-| 2018-09-20 | 2018年韓国囲碁リーグ第12節 | Weon Seongjin | Lee Jihyun | Win | B+R | 6.5 | 
-| 2018-09-13 | 2018年韓国囲碁リーグ第11節 | Weon Seongjin | Lee Changseok | Win | B+R | 6.5 | 
-| 2018-09-01 | 2018年韓国囲碁リーグ第10節 | Weon Seongjin | Lee Wonyoung | Win | B+R | 6.5 | 
-| 2018-08-24 | 2018年韓国囲碁リーグ第9節 | Weon Seongjin | Park Minkyu | Lose | W+R | 6.5 | 
-| 2018-08-17 | 2018年韓国囲碁リーグ第8節 | Shin Jinseo | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2018-08-09 | 2018年韓国囲碁リーグ第7節 | Weon Seongjin | Kang Dongyun | Lose | W+R | 6.5 | 
-| 2018-08-05 | 2018年韓国囲碁リーグ第6節 | Weon Seongjin | Kim Jiseok | Lose | W+R | 6.5 | 
-| 2018-07-28 | 第5回国手山脈杯世界プロ最強戦1回戦 | Weon Seongjin | Liao Yuanhe | Lose | W+R | 6.5 | 
-| 2018-07-22 | 2018年韓国囲碁リーグ第5節 | Weon Seongjin | Han Taehee | Win | B+R | 6.5 | 
-| 2018-07-19 | 第20回農心杯韓国選抜戦 | Paek Hongseok | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2018-07-17 | 第20回農心杯韓国選抜戦 | Hong Kipyo | Weon Seongjin | Win | W+R | 6.5 | 
-| 2018-07-15 | 2018年韓国囲碁リーグ第4節 | Weon Seongjin | Cho Hanseung | Win | B+R | 6.5 | 
-| 2018-07-05 | 第23回三星火災杯統合予選3回戦 | Weon Seongjin | Shi Yue | Lose | W+R | 6.5 | 
-| 2018-07-03 | 第23回三星火災杯統合予選2回戦 |  | Weon Seongjin | Win | W+R | 6.5 | 
-| 2018-06-29 | 2018年韓国囲碁リーグ第3節 | Byun Sangil | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2018-06-23 | 2018年韓国囲碁リーグ第2節 | Lee Donghoon | Weon Seongjin | Win | W+R | 6.5 | 
-| 2018-06-16 | 2018年韓国囲碁リーグ第1節 | Weon Seongjin | Lee Changho | Lose | W+2.5 | 6.5 | 
-| 2018-05-30 | 第23回LG杯朝鮮日報棋王戦2回戦 | Weon Seongjin | Yang Dingxin | Lose | W+R | 6.5 | 
-| 2018-05-28 | 第23回LG杯朝鮮日報棋王戦1回戦 | Ke Jie | Weon Seongjin | Win | W+R | 6.5 | 
-| 2018-03-05 | 韓国ナショナルチームリーグ戦 | Weon Seongjin | Shin Minjun | Lose | W+R | 6.5 | 
-| 2018-02-12 | 韓国ナショナルチームリーグ戦 | Park Junghwan | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2018-01-29 | 第19回マキシムコーヒー杯入神最強戦1回戦 | Weon Seongjin | Paek Hongseok | Lose | W+R | 6.5 | 
-| 2018-01-22 | 韓国ナショナルチームリーグ戦 | Weon Seongjin | Lee Jihyun | Lose | W+2.5 | 6.5 | 
-| 2017-10-28 | 2017年韓国囲碁リーグ | Weon Seongjin | Choi Jeong | Lose | W+0.5 | 6.5 | 
-| 2017-10-20 | 2017年韓国囲碁リーグ | Weon Seongjin | Hong Kipyo | Win | B+R | 6.5 | 
-| 2017-10-12 | 2017年韓国囲碁リーグ | Weon Seongjin | Ryu Minhyung | Lose | W+R | 6.5 | 
-| 2017-10-08 | 2017年韓国囲碁リーグ | Weon Seongjin | Hong Seongji | Win | B+R | 6.5 | 
-| 2017-09-29 | 2017年韓国囲碁リーグ | Park Jinsol | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2017-09-15 | 2017年韓国囲碁リーグ | Weon Seongjin | Han Sanghoon | Win | B+R | 6.5 | 
-| 2017-09-03 | 2017年韓国囲碁リーグ | Weon Seongjin | Yun Chanhee | Win | B+R | 6.5 | 
-| 2017-08-25 | 2017年韓国囲碁リーグ | Weon Seongjin | Lee Hyungjin | Win | B+R | 6.5 | 
-| 2017-08-18 | 2017年韓国囲碁リーグ | Heo Yongho | Weon Seongjin | Win | W+0.5 | 6.5 | 
-| 2017-08-12 | 2017年韓国囲碁リーグ | Kim Jiseok | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2017-08-06 | 2017年韓国囲碁リーグ | Weon Seongjin | Kim Junghyun | Win | B+R | 6.5 | 
-| 2017-07-31 | 韓国国家隊連戦 | Weon Seongjin | Kim Jiseok | Lose | W+R | 6.5 | 
-| 2017-07-20 | 2017年韓国囲碁リーグ | Weon Seongjin | Park Minkyu | Lose | W+R | 6.5 | 
-| 2017-07-15 | 2017年韓国囲碁リーグ | Lee Changho | Weon Seongjin | Win | W+2.5 | 6.5 | 
-| 2017-07-02 | 第22回三星火災杯統合予選4回戦 | Dang Yifei | Weon Seongjin | Win | W+R | 6.5 | 
-| 2017-06-29 | 第22回三星火災杯統合予選2回戦 | Wu Guangya | Weon Seongjin | Win | W+R | 6.5 | 
-| 2017-06-26 | 第36回KBS杯囲碁王戦32強戦 | Lee Sedol | Weon Seongjin | Lose | B+7.5 | 6.5 | 
-| 2017-06-16 | 2017年中国囲碁乙級リーグ | Weon Seongjin |  | Win | B+R | 7.5 | 
-| 2017-06-08 | 2017年中国囲碁乙級リーグ | Guo Yuzheng | Weon Seongjin | Win | W+R | 7.5 | 
-| 2017-06-01 | 2017年韓国囲碁リーグ | Weon Seongjin | Yun Chanhee | Win | B+R | 6.5 | 
-| 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Weon Seongjin | Ke Jie | Lose | W+R | 6.5 | 
-| 2017-05-20 | 2017年韓国囲碁リーグ | Choi Jaeyoung | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2017-04-08 | 第22期LG杯世界予選決勝 | Weon Seongjin |  | Lose | W+R | 6.5 | 
-| 2017-04-06 | 第22期LG杯世界予選3回戦 | Weon Seongjin |  | Win | B+0.5 | 6.5 | 
-| 2017-03-20 | 第18回マキシムコーヒー杯入神最強戦3回戦 | Weon Seongjin | Yun Junsang | Lose | W+R | 6.5 | 
-| 2017-03-06 | 第18回マキシムコーヒー杯入神最強戦2回戦 | Weon Seongjin | An Joyeong | Win | B+3.5 | 6.5 | 
-| 2017-02-09 | 第22期GSカルテックス杯プロ棋戦16強戦 | Weon Seongjin | Shin Minjun | Lose | W+R | 6.5 | 
-| 2017-01-23 | 第36回KBS杯囲碁王戦32強戦 | Kim Juho | Weon Seongjin | Win | W+R | 6.5 | 
-| 2017-01-03 | Alphago Online Series on Tygem and Fox 49 | Weon Seongjin |  | Lose | W+R | 6.5 | 
-| 2016-11-14 | 第35回KBS杯囲碁王戦8強戦 | Lee Yeongkyu | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2016-10-21 | 2016年韓国囲碁リーグ | An Sungjoon | Weon Seongjin | Lose | B+3.5 | 6.5 | 
-| 2016-10-16 | 2016年韓国囲碁リーグ | Na Hyun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2016-10-08 | 2016年韓国囲碁リーグ | Kang Dongyun | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2016-10-02 | 2016年韓国囲碁リーグ | Weon Seongjin | Lee Yeongkyu | Win | B+R | 6.5 | 
-| 2016-09-24 | 2016年韓国囲碁リーグ第14節 | Weon Seongjin | Lee Donghoon | Win | B+R | 6.5 | 
-| 2016-09-15 | 2016年韓国囲碁リーグ第13節 | Han Seungjoo | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2016-08-30 | 第3回百霊杯世界オープン戦準決勝第3局 | Ke Jie | Weon Seongjin | Lose | B+R | 7.5 | 
-| 2016-08-29 | 第3回百霊杯世界オープン戦準決勝第2局 | Ke Jie | Weon Seongjin | Lose | B+R | 7.5 | 
-| 2016-08-27 | 第3回百霊杯世界オープン戦準決勝第1局 | Weon Seongjin | Ke Jie | Win | B+R | 7.5 | 
-| 2016-08-25 | 第3回百霊杯世界オープン戦4回戦 | Weon Seongjin | Fan Yin | Win | B+R | 7.5 | 
-| 2016-08-18 | 2016年韓国囲碁リーグ第10節 | Weon Seongjin | Lee Sedol | Win | B+R | 6.5 | 
-| 2016-08-13 | 2016年韓国囲碁リーグ第9節 | Weon Seongjin | An Sungjoon | Lose | W+R | 6.5 | 
-| 2016-07-28 | 2016年韓国囲碁リーグ第8節 | Weon Seongjin | Choi Cheolhan | Lose | W+0.5 | 6.5 | 
-| 2016-07-22 | 2016年韓国囲碁リーグ第7節 | Weon Seongjin | Kang Dongyun | Win | B+R | 6.5 | 
-| 2016-07-07 | 2016年韓国囲碁リーグ第6節 | Weon Seongjin | Lee Yeongkyu | Lose | W+R | 6.5 | 
-| 2016-07-02 | 第3回百霊杯世界オープン戦3回戦 | Weon Seongjin | Chen Zhengxun | Win | B+R | 7.5 | 
-| 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Liao Xingwen | Weon Seongjin | Win | W+R | 7.5 | 
-| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Weon Seongjin | Lee Taehyun | Win | B+R | 7.5 | 
-| 2016-06-24 | 2016年韓国囲碁リーグ第5節 | Weon Seongjin | Kim Seongjae | Win | B+R | 6.5 | 
-| 2016-06-19 | 2016年韓国囲碁リーグ第4節 | Park Jinsol | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2016-06-05 | 2016年韓国囲碁リーグ第2節 | Heo Yongho | Weon Seongjin | Win | W+R | 6.5 | 
-| 2016-05-27 | 第1回新奥杯世界囲碁オープン戦予選 | Weon Seongjin | Huang Yunsong | Lose | W+R | 7.5 | 
-| 2016-05-22 | 2016年韓国囲碁リーグ第1節 | Weon Seongjin | Lee Hobum | Win | B+R | 6.5 | 
-| 2016-05-16 | 第35回KBS杯囲碁王戦2回戦 | Kang Changbae | Weon Seongjin | Win | W+R | 6.5 | 
-| 2016-05-10 | 第17回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Lee Sedol | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2016-05-03 | 第17回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Weon Seongjin | Lee Sedol | Lose | W+R | 6.5 | 
-| 2016-04-26 | 第17回マキシムコーヒー杯入神最強戦準決勝 | Weon Seongjin | Kang Dongyun | Win | B+R | 6.5 | 
-| 2016-04-22 | 第8回応氏杯世界選手権2回戦 | Weon Seongjin | Kang Dongyun | Lose | W+R | 7.5 | 
-| 2016-04-20 | 第8回応氏杯世界選手権1回戦 | Tuo Jiaxi | Weon Seongjin | Win | W+R | 7.5 | 
-| 2016-04-07 | 第21期GSカルテックス杯プロ棋戦準決勝 | Yun Chanhee | Weon Seongjin | Lose | B+0.5 | 6.5 | 
-| 2016-04-01 | 第21回LG杯予選 | Weon Seongjin | Peng Liyao | Lose | W+R | 6.5 | 
-| 2016-03-29 | 第17回マキシムコーヒー杯入神最強戦3回戦 | Weon Seongjin | Mok Jinseok | Win | B+R | 6.5 | 
-| 2016-03-25 | 第21期GSカルテックス杯プロ棋戦3回戦 | An Sungjoon | Weon Seongjin | Win | W+R | 6.5 | 
-| 2016-02-28 | 第21期GSカルテックス杯プロ棋戦2回戦 | Weon Seongjin | Choi Cheolhan | Win | B+R | 6.5 | 
-| 2016-02-01 | 第17回マキシムコーヒー杯入神最強戦2回戦 | Weon Seongjin | Choi Cheolhan | Win | B+R | 6.5 | 
-| 2016-01-19 | 第17回マキシムコーヒー杯入神最強戦1回戦 | Choi Kyubyeong | Weon Seongjin | Win | W+1.5 | 6.5 | 
-| 2016-01-16 | 第21期GSカルテックス杯プロ棋戦1回戦 | Weon Seongjin | Park Seunghyeon | Win | B+R | 6.5 | 
-| 2016-01-11 | 第8回応氏杯世界選手権韓国選抜戦 | Lee Donghoon | Weon Seongjin | Win | W+R | 7.5 | 
-| 2016-01-08 | 第8回応氏杯世界選手権韓国選抜戦 | Weon Seongjin | An Sungjoon | Win | B+R | 7.5 | 
-| 2015-11-16 | 第20回LG杯朝鮮日報棋王戦3回戦 | Tuo Jiaxi | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2015-10-30 | 2015年レッツランパーク杯オープントーナメント4回戦 | Weon Seongjin | Lee Jihyun | Lose | W+R | 6.5 | 
-| 2015-10-16 | 2015年レッツランパーク杯オープントーナメント3回戦 | Kim Junghyun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2015-10-14 | 2015年レッツランパーク杯オープントーナメント2回戦 | Park Cheongsang | Weon Seongjin | Win | W+R | 6.5 | 
-| 2015-10-03 | 2015年韓国囲碁リーグ | Lee Hobum | Weon Seongjin | Win | W+R | 6.5 | 
-| 2015-10-01 | 第43期名人戦（韓国）1回戦 | Weon Seongjin |  | Lose | W+4.5 | 6.5 | 
-| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Kim Hyeoimin | Weon Seongjin | Win | W+0.5 | 6.5 | 
-| 2015-09-26 | 2015年韓国囲碁リーグ | Lee Wonyoung | Weon Seongjin | Win | W+3.5 | 6.5 | 
-| 2015-09-18 | 2015年韓国囲碁リーグ | Heo Yongho | Weon Seongjin | Win | W+R | 6.5 | 
-| 2015-08-27 | 2015年韓国囲碁リーグ | Shin Jinseo | Weon Seongjin | Win | W+R | 6.5 | 
-| 2015-08-23 | 2015年韓国囲碁リーグ | Weon Seongjin | Kim Junghyun | Lose | W+R | 6.5 | 
-| 2015-08-15 | 2015年韓国囲碁リーグ | Lee Donghoon | Weon Seongjin | Win | W+R | 6.5 | 
-| 2015-08-02 | 第20回三星火災杯統合予選1回戦 | Weon Seongjin | Yang Dingxin | Win | B+R | 6.5 | 
-| 2015-07-23 | 2015年韓国囲碁リーグ | Kim Myounghoon | Weon Seongjin | Win | W+2.5 | 6.5 | 
-| 2015-07-20 | 第17回農心杯韓国選抜戦 | Weon Seongjin | Kim Jiseok | Lose | W+R | 6.5 | 
-| 2015-07-18 | 2015年韓国囲碁リーグ | Weon Seongjin | Park Yeonghun | Lose | W+R | 6.5 | 
-| 2015-07-09 | 第2回夢百合杯世界オープン戦2回戦 | Weon Seongjin | Xie Ke | Lose | W+R | 7.5 | 
-| 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Weon Seongjin | Park Seunghwa | Win | B+R | 7.5 | 
-| 2015-07-03 | 2015年韓国囲碁リーグ | Weon Seongjin | Mok Jinseok | Lose | W+R | 6.5 | 
-| 2015-06-26 | 2015年韓国囲碁リーグ | Weon Seongjin | Choi Cheolhan | Lose | W+R | 6.5 | 
-| 2015-06-20 | 2015年韓国囲碁リーグ | Yun Junsang | Weon Seongjin | Lose | B+5.5 | 6.5 | 
-| 2015-06-10 | 第20回LG杯朝鮮日報棋王戦2回戦 | Lin Junyan | Weon Seongjin | Win | W+R | 6.5 | 
-| 2015-06-08 | 第20回LG杯朝鮮日報棋王戦1回戦 | Weon Seongjin | Yuki Satoshi | Win | B+R | 6.5 | 
-| 2015-05-31 | 2015年韓国囲碁リーグ | Kang Seungmin | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2015-05-26 | 第2回夢百合杯世界オープン戦予選 | Weon Seongjin | Jiang Qirun | Win | B+R | 7.5 | 
-| 2015-05-14 | 2015年韓国囲碁リーグ | Kim Kiyoung | Weon Seongjin | Win | W+R | 6.5 | 
-| 2015-05-11 | 第34回KBS杯囲碁王戦1回戦 | Song Jihoon | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2015-05-08 | 2015年韓国囲碁リーグ | Kim Seongjae | Weon Seongjin | Lose | B+0.5 | 6.5 | 
-| 2015-05-03 | 2015年韓国囲碁リーグ | Weon Seongjin | Byun Sangil | Lose | W+R | 6.5 | 
-| 2015-04-23 | 2015年韓国囲碁リーグ | Weon Seongjin | Park Yeonghun | Win | B+2.5 | 6.5 | 
-| 2015-02-17 | 第16回マキシムコーヒー杯入神最強戦3回戦 | Hong Seongji | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2015-01-20 | 第16回マキシムコーヒー杯入神最強戦2回戦 | Han Chongjin | Weon Seongjin | Win | W+R | 6.5 | 
-| 2014-08-27 | 第10期物価情報杯プロ棋戦決勝トーナメント1回戦 | Weon Seongjin |  | Lose | W+R | 6.5 | 
-| 2014-07-23 | 第10期物価情報杯プロ棋戦リーグA | Lee Sedol | Weon Seongjin | Win | W+R | 6.5 | 
-| 2014-05-21 | 第10期物価情報杯プロ棋戦リーグA | Shin Minjun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2014-04-07 | 第15回マキシムコーヒー杯入神最強戦準決勝 | Lee Sedol | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2014-04-02 | 第10期物価情報杯プロ棋戦予選 | Weon Seongjin |  | Win | B+R | 6.5 | 
-| 2014-03-06 | 第15回マキシムコーヒー杯入神最強戦3回戦 | Weon Seongjin | Choi Cheolhan | Win | B+R | 6.5 | 
-| 2014-01-24 | 第15回マキシムコーヒー杯入神最強戦2回戦 | An Joyeong | Weon Seongjin | Win | W+R | 6.5 | 
-| 2013-12-09 | 第32回KBS杯囲碁王戦敗者復活戦4回戦 | Lee Huiseong | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2013-12-02 | 第32回KBS杯囲碁王戦本戦4回戦 | Weon Seongjin | Park Junghwan | Lose | W+R | 6.5 | 
-| 2013-09-23 | 第32回KBS杯囲碁王戦本戦3回戦 | Han Sanghoon | Weon Seongjin | Win | W+R | 6.5 | 
-| 2013-06-03 | 第32回KBS杯囲碁王戦本戦2回戦 | Choi Myeonghun | Weon Seongjin | Win | W+2.5 | 6.5 | 
-| 2013-03-11 | 第32回KBS杯囲碁王戦本戦1回戦 | Na Hyun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2013-02-20 | 第17回LG杯世界棋王戦決勝三番勝負第2局 | Weon Seongjin | Shi Yue | Lose | W+R | 6.5 | 
-| 2013-02-18 | 第17回LG杯世界棋王戦決勝三番勝負第1局 | Shi Yue | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2013-01-23 | 第14回マキシムコーヒー杯入神最強戦3回戦 | Weon Seongjin | Park Junghwan | Lose | W+R | 6.5 | 
-| 2013-01-14 | 第8期圓益杯十段戦2回戦 | Weon Seongjin | Han Wonggyu | Lose | W+R | 6.5 | 
-| 2013-01-07 | 第31回KBS杯囲碁王戦敗者復活戦4回戦 | Na Hyun | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2012-12-10 | 第31回KBS杯囲碁王戦本戦4回戦 | Park Junghwan | Weon Seongjin | Lose | B+1.5 | 6.5 | 
-| 2012-12-04 | 第9回春蘭杯世界囲碁選手権3回戦 | Jiang Weijie | Weon Seongjin | Lose | B+R | 7.5 | 
-| 2012-12-01 | 第14回中国囲碁甲級リーグ第21節 | Weon Seongjin | Fan Tingyu | Win | B+R | 7.5 | 
-| 2012-11-26 | 第14回マキシムコーヒー杯入神最強戦2回戦 | Weon Seongjin |  | Win | B+R | 6.5 | 
-| 2012-11-24 | 第14回中国囲碁甲級リーグ第20節 | Peng Quan | Weon Seongjin | Lose | B+R | 7.5 | 
-| 2012-11-10 | 第14回中国囲碁甲級リーグ第19節 | Weon Seongjin | Chen Yaoye | Lose | W+R | 7.5 | 
-| 2012-11-07 | 第17回LG杯世界棋王戦準決勝 | Choi Cheolhan | Weon Seongjin | Win | W+R | 6.5 | 
-| 2012-11-05 | 第17回LG杯世界棋王戦3回戦 | Lee Yeongkyu | Weon Seongjin | Win | W+R | 6.5 | 
-| 2012-10-29 | 第8期圓益杯十段戦1回戦 | Weon Seongjin |  | Win | B+R | 6.5 | 
-| 2012-10-22 | 第31回KBS杯囲碁王戦本戦3回戦 | Paek Hongseok | Weon Seongjin | Win | W+R | 6.5 | 
-| 2012-10-10 | 第17回三星火災杯世界囲碁マスターズ3回戦 | Weon Seongjin | Park Junghwan | Lose | W+R | 6.5 | 
-| 2012-10-09 | 第17回三星火災杯世界囲碁マスターズ2回戦 | Tuo Jiaxi | Weon Seongjin | Win | W+1.5 | 6.5 | 
-| 2012-09-30 | 第14回中国囲碁甲級リーグ第16節 | Lian Xiao | Weon Seongjin | Win | W+R | 7.5 | 
-| 2012-09-28 | 第14回中国囲碁甲級リーグ第15節 | Weon Seongjin | Tan Xiao | Lose | W+R | 7.5 | 
-| 2012-09-22 | 2012年韓国囲碁リーグ | Choi Cheolhan | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2012-09-14 | 2012年韓国囲碁リーグ | Heo Jin | Weon Seongjin | Win | W+R | 6.5 | 
-| 2012-09-08 | 第14回中国囲碁甲級リーグ第14節 | Mi Yuting | Weon Seongjin | Win | W+R | 7.5 | 
-| 2012-09-05 | 第17回三星火災杯世界囲碁マスターズ1回戦B2 | Weon Seongjin | Fan Tingyu | Win | B+R | 6.5 | 
-| 2012-09-04 | 第17回三星火災杯世界囲碁マスターズ1回戦B1 | Peng Liyao | Weon Seongjin | Win | W+R | 6.5 | 
-| 2012-09-01 | 第14回中国囲碁甲級リーグ第13節 | Huang Chen | Weon Seongjin | Lose | B+R | 7.5 | 
-| 2012-08-30 | 第14回中国囲碁甲級リーグ第12節 | Weon Seongjin | Qiu Jun | Lose | W+R | 7.5 | 
-| 2012-08-27 | 第56期国手戦（韓国）2回戦 | Weon Seongjin |  | Lose | W+1.5 | 6.5 | 
-| 2012-08-23 | 2012年韓国囲碁リーグ | Yun Junsang | Weon Seongjin | Win | W+R | 6.5 | 
-| 2012-08-12 | 2012年韓国囲碁リーグ | Kang Dongyun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2012-08-04 | 2012年韓国囲碁リーグ | Weon Seongjin | Lee Sedol | Lose | W+R | 6.5 | 
-| 2012-07-27 | 2012年韓国囲碁リーグ | Weon Seongjin | Song Taekon | Win | B+R | 6.5 | 
-| 2012-07-26 | 第56期国手戦（韓国）1回戦 | Weon Seongjin | Park Yeonghun | Win | B+1.5 | 6.5 | 
-| 2012-07-14 | 2012年韓国囲碁リーグ | Lee Wonyoung | Weon Seongjin | Win | W+R | 6.5 | 
-| 2012-07-13 | 第14回中国囲碁甲級リーグ第10節 | Fan Tingyu | Weon Seongjin | Win | W+R | 7.5 | 
-| 2012-07-09 | 第31回KBS杯囲碁王戦本戦2回戦 | Na Hyun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2012-07-06 | 2012年韓国囲碁リーグ | Weon Seongjin | Cho Hunhyun | Win | B+R | 6.5 | 
-| 2012-06-30 | 第14回中国囲碁甲級リーグ第8節 | Chen Yaoye | Weon Seongjin | Lose | B+R | 7.5 | 
-| 2012-06-28 | 2012年韓国囲碁リーグ | Choi Cheolhan | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2012-06-25 | 第8期物価情報杯プロ棋戦リーグD | Weon Seongjin | Han Sanghoon | Lose | W+R | 6.5 | 
-| 2012-06-23 | 第14回中国囲碁甲級リーグ第7節 | Weon Seongjin | Shi Yue | Lose | W+R | 7.5 | 
-| 2012-06-21 | 2012年韓国囲碁リーグ | Weon Seongjin | Heo Yongho | Lose | W+R | 6.5 | 
-| 2012-06-20 | 第17回LG杯世界棋王戦2回戦 | Weon Seongjin |  | Win | B+5.5 | 6.5 | 
-| 2012-06-18 | 第17回LG杯世界棋王戦1回戦 | Weon Seongjin | Tan Xiao | Win | B+R | 6.5 | 
-| 2012-06-14 | 第14回中国囲碁甲級リーグ第6節 | Zhou Hexi | Weon Seongjin | Lose | B+R | 7.5 | 
-| 2012-06-11 | 第31回KBS杯囲碁王戦本戦1回戦 | Lee Jihyun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2012-06-09 | 2012年韓国囲碁リーグ | Weon Seongjin |  | Lose | W+5.5 | 6.5 | 
-| 2012-05-30 | 第14回中国囲碁甲級リーグ第4節 | Tan Xiao | Weon Seongjin | Lose | B+R | 7.5 | 
-| 2012-05-25 | 第7回応氏杯世界選手権2回戦 | Weon Seongjin | Gu Li | Lose | W+3 | 7.5 | 
-| 2012-05-23 | 第7回応氏杯世界選手権1回戦 | Weon Seongjin | Chen Yaoye | Win | B+R | 7.5 | 
-| 2012-05-20 | 第8期物価情報杯プロ棋戦リーグD | Park Junghwan | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2012-05-19 | 2012年韓国囲碁リーグ | Mok Jinseok | Weon Seongjin | Win | W+R | 6.5 | 
-| 2012-05-11 | 2012年韓国囲碁リーグ | Weon Seongjin | Lee Sedol | Win | B+R | 6.5 | 
-| 2012-05-04 | 第8期物価情報杯プロ棋戦リーグD | Choi Cheolhan | Weon Seongjin | Win | W+R | 6.5 | 
-| 2012-05-03 | 2012年韓国囲碁リーグ | Park Yeonghun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2012-04-30 | 第14回中国囲碁甲級リーグ第2節 | Wang Haoyang | Weon Seongjin | Lose | B+R | 7.5 | 
-| 2012-04-28 | 第14回中国囲碁甲級リーグ第1節 | Hu Yaoyu | Weon Seongjin | Win | W+R | 7.5 | 
-| 2012-04-20 | 2012年韓国囲碁リーグ | Kim Kiwon | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2012-04-13 | 2012年韓国囲碁リーグ | Hong Kipyo | Weon Seongjin | Win | W+R | 6.5 | 
-| 2012-04-04 | 第17期GSカルテックス杯プロ棋戦3回戦 | Lee Sedol | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2012-03-30 | 第9回春蘭杯世界囲碁選手権2回戦 | Gu Lingyi | Weon Seongjin | Win | W+R | 7.5 | 
-| 2012-03-28 | 第9回春蘭杯世界囲碁選手権1回戦 | Tan Xiao | Weon Seongjin | Win | W+R | 7.5 | 
-| 2012-03-25 | 第2期招商地産杯中韓囲棋団体対抗戦第2戦 | Weon Seongjin | Piao Wenyao | Lose | W+R | 7.5 | 
-| 2012-03-23 | 第2期招商地産杯中韓囲棋団体対抗戦第1戦 | Weon Seongjin | Peng Liyao | Lose | W+R | 7.5 | 
-| 2012-03-16 | 第4回BCカード杯世界選手権2回戦 | Paek Hongseok | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2012-03-10 | 第1回百霊杯世界囲碁選手権予選 | Weon Seongjin | Rui Naiwei | Lose | W+R | 7.5 | 
-| 2012-03-07 | 第7回応氏杯世界選手権韓国選抜戦 | Park Yeonghun | Weon Seongjin | Win | W+3 | 7.5 | 
-| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Tuo Jiaxi | Weon Seongjin | Win | W+3.5 | 6.5 | 
-| 2012-02-23 | 第13回農心辛ラーメン杯世界囲碁最強戦第13戦 | Weon Seongjin | Xie He | Lose | W+R | 6.5 | 
-| 2012-02-17 | 第7回応氏杯世界選手権韓国選抜戦 | Yun Junsang | Weon Seongjin | Win | W+R | 7.5 | 
-| 2012-02-12 | 第13回マキシムコーヒー杯入神最強戦準決勝 | Weon Seongjin | Choi Cheolhan | Lose | W+R | 6.5 | 
-| 2012-02-08 | 第17期GSカルテックス杯プロ棋戦2回戦 | Park Cheongsang | Weon Seongjin | Win | W+R | 6.5 | 
-| 2012-02-06 | 第30回KBS杯囲碁王戦敗者復活戦4回戦 | Kim Kiyoung | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2012-01-18 | 第13回マキシムコーヒー杯入神最強戦3回戦 | An Joyeong | Weon Seongjin | Win | W+R | 6.5 | 
-| 2012-01-16 | 第30回KBS杯囲碁王戦本戦4回戦 | Kang Dongyun | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2011-12-14 | 第13回マキシムコーヒー杯入神最強戦2回戦 | Song Taekon | Weon Seongjin | Win | W+R | 6.5 | 
-| 2011-12-12 | 第30回KBS杯囲碁王戦本戦3回戦 | Kim Kiyoung | Weon Seongjin | Win | W+0.5 | 6.5 | 
-| 2011-12-07 | 第16回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Weon Seongjin | Gu Li | Win | B+R | 6.5 | 
-| 2011-12-06 | 第16回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Weon Seongjin | Gu Li | Lose | W+R | 6.5 | 
-| 2011-12-05 | 第16回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Gu Li | Weon Seongjin | Win | W+R | 6.5 | 
-| 2011-11-21 | 第16回LG杯世界棋王戦3回戦 | Jiang Weijie | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2011-11-17 | 2011年韓国囲碁リーグ | Weon Seongjin |  | Win | B+4.5 | 6.5 | 
-| 2011-11-16 | 第13回マキシムコーヒー杯入神最強戦1回戦 | Park Cheongsang | Weon Seongjin | Win | W+R | 6.5 | 
-| 2011-11-03 | 第16回三星火災杯世界囲碁マスターズ準決勝三番勝負第3局 | Chen Yaoye | Weon Seongjin | Win | W+7.5 | 6.5 | 
-| 2011-11-02 | 第16回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Chen Yaoye | Weon Seongjin | Lose | B+2.5 | 6.5 | 
-| 2011-10-31 | 第16回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Weon Seongjin | Chen Yaoye | Win | B+R | 6.5 | 
-| 2011-10-29 | 2011年韓国囲碁リーグ | Weon Seongjin | Han Sanghoon | Win | B+R | 6.5 | 
-| 2011-10-20 | 2011年韓国囲碁リーグ | Cho Hanseung | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2011-10-05 | 第16回三星火災杯世界囲碁マスターズ2回戦 | Park Yeonghun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2011-10-04 | 第16回三星火災杯世界囲碁マスターズ1回戦 | Weon Seongjin | Li Xuanhao | Win | B+R | 6.5 | 
-| 2011-09-30 | 2011年韓国囲碁リーグ | Lee Jihyun | Weon Seongjin | Win | W+1.5 | 6.5 | 
-| 2011-09-28 | 第39期名人戦（韓国）1回戦 | Weon Seongjin | Kim Seongjae | Lose | W+R | 6.5 | 
-| 2011-09-21 | 2011年韓国囲碁リーグ | Choi Cheolhan | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2011-09-19 | 第16期バッカス杯天元戦2回戦 | Choi Cheolhan | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2011-09-18 | 2011年韓国囲碁リーグ | Paek Hongseok | Weon Seongjin | Win | W+R | 6.5 | 
-| 2011-09-16 | 第55期国手戦（韓国）挑戦者決定戦第2局 | Weon Seongjin | Cho Hanseung | Lose | W+R | 6.5 | 
-| 2011-09-06 | 第55期国手戦（韓国）挑戦者決定戦第1局 | Cho Hanseung | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2011-09-04 | 2011年韓国囲碁リーグ | Jin Donggyu | Weon Seongjin | Win | W+R | 6.5 | 
-| 2011-08-25 | 第16回三星火災杯世界囲碁マスターズ1回戦G2 |  | Weon Seongjin | Win | W+R | 6.5 | 
-| 2011-08-24 | 第16回三星火災杯世界囲碁マスターズ1回戦G1 | Li Xuanhao | Weon Seongjin | Win | W+R | 6.5 | 
-| 2011-08-19 | 第55期国手戦（韓国）準決勝 | Park Junghwan | Weon Seongjin | Win | W+0.5 | 6.5 | 
-| 2011-08-16 | 第16期バッカス杯天元戦1回戦 | On Sojin | Weon Seongjin | Win | W+R | 6.5 | 
-| 2011-08-14 | 2011年韓国囲碁リーグ | Weon Seongjin | Jin Siyoung | Win | B+R | 6.5 | 
-| 2011-07-29 | 第1回スポーツアコードワールドマインドゲームズ囲碁韓国予選 | Weon Seongjin | Kim Jiseok | Lose | W+R | 6.5 | 
-| 2011-07-27 | 第55期国手戦（韓国）2回戦 | Heo Yongho | Weon Seongjin | Win | W+R | 6.5 | 
-| 2011-07-22 | 2011年韓国囲碁リーグ | Weon Seongjin | Lee Jungwoo | Win | B+5.5 | 6.5 | 
-| 2011-07-18 | 第30回KBS杯囲碁王戦本戦2回戦 | Ju Hyeongwuk | Weon Seongjin | Win | W+R | 6.5 | 
-| 2011-07-16 | 2011年韓国囲碁リーグ | Weon Seongjin | Hong Seongji | Lose | W+7.5 | 6.5 | 
-| 2011-07-15 | 第13回農心杯韓国選抜戦 | Park Junghwan | Weon Seongjin | Win | W+R | 6.5 | 
-| 2011-07-11 | 第13回農心杯韓国選抜戦 | Weon Seongjin | Hong Seongji | Win | B+1.5 | 6.5 | 
-| 2011-07-04 | 第13回農心杯韓国選抜戦 | Lee Wondo | Weon Seongjin | Win | W+R | 6.5 | 
-| 2011-06-26 | 2011年韓国囲碁リーグ | Park Cheongsang | Weon Seongjin | Win | W+R | 6.5 | 
-| 2011-06-23 | 第55期国手戦（韓国）1回戦 | Ko Keuntae | Weon Seongjin | Win | W+R | 6.5 | 
-| 2011-06-17 | 2011年韓国囲碁リーグ | Weon Seongjin | An Sungjoon | Lose | W+2.5 | 6.5 | 
-| 2011-06-15 | 第16回LG杯世界棋王戦2回戦 | Weon Seongjin | Zhou Heyang | Win | B+2.5 | 6.5 | 
-| 2011-06-13 | 第16回LG杯世界棋王戦1回戦 | Sakai Hideyuki | Weon Seongjin | Win | W+T | 6.5 | 
-| 2011-06-02 | 2011年韓国囲碁リーグ | Kim Junghyun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2011-05-24 | 第55期国手戦（韓国）予選 | Weon Seongjin | Lee Hobum | Win | B+R | 6.5 | 
-| 2011-05-23 | 第30回KBS杯囲碁王戦本戦1回戦 | Kim Juho | Weon Seongjin | Win | W+R | 6.5 | 
-| 2011-05-22 | 2011年韓国囲碁リーグ | Weon Seongjin | Jin Donggyu | Lose | W+R | 6.5 | 
-| 2011-05-17 | 第7期物価情報杯プロ棋戦リーグA | Choi Cheolhan | Weon Seongjin | Lose | B+1.5 | 6.5 | 
-| 2011-05-13 | 2011年中国囲碁乙級リーグ |  | Weon Seongjin | Win | W+R | 7.5 | 
-| 2011-05-11 | 2011年中国囲碁乙級リーグ | Weon Seongjin | Kang Dongyun | Lose | W+2.5 | 7.5 | 
-| 2011-05-10 | 2011年中国囲碁乙級リーグ | Weon Seongjin |  | Win | B+3.5 | 7.5 | 
-| 2011-05-08 | 2011年中国囲碁乙級リーグ | Lee Wonyoung | Weon Seongjin | Lose | B+R | 7.5 | 
-| 2011-05-07 | 2011年中国囲碁乙級リーグ | Weon Seongjin |  | Lose | W+R | 7.5 | 
-| 2011-04-26 | 第55期国手戦（韓国）予選 | Weon Seongjin | Lee Hyungjin | Win | B+R | 6.5 | 
-| 2011-04-13 | 第7期物価情報杯プロ棋戦リーグA | Weon Seongjin | Kang Dongyun | Lose | W+R | 6.5 | 
-| 2011-04-11 | 第16期GSカルテックス杯プロ棋戦2回戦 | Kang Changbae | Weon Seongjin | Lose | B+5.5 | 6.5 | 
-| 2011-03-05 | 第6期圓益杯十段戦4回戦 | Kang Yootaek | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2011-02-11 | 第24回世界囲碁選手権富士通杯韓国予選決勝 | Weon Seongjin | Lee Yeongkyu | Lose | W+1.5 | 6.5 | 
-| 2011-02-09 | 第24回世界囲碁選手権富士通杯韓国予選 | Lee Changho | Weon Seongjin | Win | W+R | 6.5 | 
-| 2011-01-26 | 第3回BCカード杯世界選手権統合予選決勝 | Weon Seongjin | Piao Wenyao | Lose | W+R | 6.5 | 
-| 2011-01-25 | 第3回BCカード杯世界選手権統合予選 | Wang Haoyang | Weon Seongjin | Win | W+R | 6.5 | 
-| 2011-01-05 | 第6期圓益杯十段戦3回戦 | Kang Dongyun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2010-12-27 | 第6期圓益杯十段戦2回戦 | Kim Dongho | Weon Seongjin | Win | W+R | 6.5 | 
-| 2010-12-21 | 第12回マキシムコーヒー杯入神最強戦2回戦 | Weon Seongjin | Kang Dongyun | Lose | W+R | 6.5 | 
-| 2010-12-07 | 第12回マキシムコーヒー杯入神最強戦1回戦 | Kim Seungjun | Weon Seongjin | Win | W+6.5 | 6.5 | 
-| 2010-12-02 | 第6期圓益杯十段戦1回戦 | Weon Seongjin | Lee Minjin | Win | B+R | 6.5 | 
-| 2010-11-15 | 第15期GSカルテックス杯プロ棋戦挑戦手合五番勝負第4局 | Weon Seongjin | Cho Hanseung | Win | B+1.5 | 6.5 | 
-| 2010-11-12 | 第54期国手戦（韓国）2回戦 | Weon Seongjin | Choi Cheolhan | Lose | W+R | 6.5 | 
-| 2010-11-11 | 第38期名人戦（韓国）決勝五番勝負第5局 | Weon Seongjin | Park Yeonghun | Lose | W+R | 6.5 | 
-| 2010-11-09 | 第38期名人戦（韓国）決勝五番勝負第4局 | Weon Seongjin | Park Yeonghun | Lose | W+1.5 | 6.5 | 
-| 2010-11-05 | 第15期GSカルテックス杯プロ棋戦挑戦手合五番勝負第3局 | Cho Hanseung | Weon Seongjin | Win | W+0.5 | 6.5 | 
-| 2010-11-03 | 第15期GSカルテックス杯プロ棋戦挑戦手合五番勝負第2局 | Weon Seongjin | Cho Hanseung | Win | B+1.5 | 6.5 | 
-| 2010-11-01 | 第15期GSカルテックス杯プロ棋戦挑戦手合五番勝負第1局 | Cho Hanseung | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2010-10-27 | 第38期名人戦（韓国）決勝五番勝負第3局 | Park Yeonghun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2010-10-25 | 第38期名人戦（韓国）決勝五番勝負第2局 | Weon Seongjin | Park Yeonghun | Win | B+R | 6.5 | 
-| 2010-10-23 | 第38期名人戦（韓国）決勝五番勝負第1局 | Park Yeonghun | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2010-10-14 | 第15回三星火災杯世界囲碁マスターズ3回戦 | Park Junghwan | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2010-10-13 | 第15回三星火災杯世界囲碁マスターズ2回戦 | Weon Seongjin | Zhou Ruiyang | Win | B+R | 6.5 | 
-| 2010-10-07 | 第15期GSカルテックス杯プロ棋戦挑戦者決定戦 | Park Yeonghun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2010-09-29 | 第15期GSカルテックス杯プロ棋戦準決勝 | Weon Seongjin | Kim Jiseok | Win | B+R | 6.5 | 
-| 2010-09-19 | 第38期名人戦（韓国）準決勝第2局 | Kang Dongyun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2010-09-14 | 第38期名人戦（韓国）準決勝第1局 | Weon Seongjin | Kang Dongyun | Win | B+R | 6.5 | 
-| 2010-09-09 | 第15回三星火災杯世界囲碁マスターズ1回戦A2 | Choi Cheolhan | Weon Seongjin | Win | W+R | 6.5 | 
-| 2010-09-08 | 第15回三星火災杯世界囲碁マスターズ1回戦A1 | Qiu Jun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2010-09-05 | 第38期名人戦（韓国）リーグプレーオフ | Kim Kiyoung | Weon Seongjin | Win | W+R | 6.5 | 
-| 2010-09-03 | 2010年韓国囲碁リーグ | Heo Yongho | Weon Seongjin | Lose | B+2.5 | 6.5 | 
-| 2010-08-30 | 第38期名人戦（韓国）リーグプレーオフ | Cho Hanseung | Weon Seongjin | Win | W+R | 6.5 | 
-| 2010-08-16 | 第54期国手戦（韓国）1回戦 | Ju Hyeongwuk | Weon Seongjin | Win | W+R | 6.5 | 
-| 2010-08-08 | 第6期物価情報杯プロ棋戦決勝トーナメント準決勝 | Lee Sedol | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2010-08-04 | 第15回三星火災杯統合予選2回戦 | Ohashi Hirofumi | Weon Seongjin | Win | W+R | 6.5 | 
-| 2010-07-29 | 第38期名人戦（韓国）リーグB | Weon Seongjin | Hong Seongji | Win | B+R | 6.5 | 
-| 2010-07-25 | 2010年韓国囲碁リーグ | Kang Dongyun | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2010-07-21 | 第15期GSカルテックス杯プロ棋戦3回戦 | Weon Seongjin | An Joyeong | Win | B+R | 6.5 | 
-| 2010-07-18 | 第6期物価情報杯プロ棋戦決勝トーナメント1回戦 | Park Yeonghun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2010-07-16 | 第12回農心杯韓国選抜戦 | Jen Youngkyu | Weon Seongjin | Lose | B+3.5 | 6.5 | 
-| 2010-07-13 | 第38期名人戦（韓国）リーグB | Weon Seongjin | Park Yeonghun | Lose | W+R | 6.5 | 
-| 2010-07-09 | 2010年韓国囲碁リーグ | Weon Seongjin | Paek Hongseok | Win | B+R | 6.5 | 
-| 2010-06-22 | 第38期名人戦（韓国）リーグB | Weon Seongjin | Kim Kiyoung | Lose | W+0.5 | 6.5 | 
-| 2010-06-08 | 第38期名人戦（韓国）リーグB | Weon Seongjin | Cho Hanseung | Win | B+R | 6.5 | 
-| 2010-05-28 | 第15期GSカルテックス杯プロ棋戦2回戦 | Weon Seongjin | Kim Seonryong | Win | B+R | 6.5 | 
-| 2010-05-20 | 第38期名人戦（韓国）リーグB | Weon Seongjin |  | Win | B+R | 6.5 | 
-| 2010-05-12 | 2010年中国囲碁乙級リーグ | Lee Changho | Weon Seongjin | Win | W+R | 7.5 | 
-| 2010-05-01 | 第6期物価情報杯プロ棋戦リーグD | Kang Dongyun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2010-03-29 | 第6期物価情報杯プロ棋戦リーグD | Weon Seongjin | Hong Minpyo | Win | B+5.5 | 6.5 | 
-| 2010-02-23 | 第11回マキシムコーヒー杯入神最強戦3回戦 | Weon Seongjin | Choi Cheolhan | Lose | W+R | 6.5 | 
-| 2010-02-19 | 第8回春蘭杯韓国予選 | Weon Seongjin | Heo Yongho | Lose | W+0.5 | 6.5 | 
-| 2010-02-02 | 第23回世界囲碁選手権富士通杯韓国予選 | Weon Seongjin | Mok Jinseok | Lose | W+R | 6.5 | 
-| 2010-01-16 | 第2回BCカード杯世界選手権1回戦 | Park Seunghyeon | Weon Seongjin | Lose | B+2.5 | 6.5 | 
-| 2010-01-05 | 第11回マキシムコーヒー杯入神最強戦2回戦 | Mok Jinseok | Weon Seongjin | Win | W+0.5 | 6.5 | 
-| 2009-12-14 | 第28回KBS杯囲碁王戦敗者復活戦3回戦 | Lee Changho | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2009-12-10 | 第37期名人戦（韓国）決勝五番勝負第4局 | Lee Changho | Weon Seongjin | Lose | B+0.5 | 6.5 | 
-| 2009-12-08 | 第37期名人戦（韓国）決勝五番勝負第3局 | Weon Seongjin | Lee Changho | Lose | W+3.5 | 6.5 | 
-| 2009-12-03 | 第37期名人戦（韓国）決勝五番勝負第2局 | Lee Changho | Weon Seongjin | Win | W+1.5 | 6.5 | 
-| 2009-12-01 | 第37期名人戦（韓国）決勝五番勝負第1局 | Weon Seongjin | Lee Changho | Lose | W+R | 6.5 | 
-| 2009-11-14 | 2009年韓国囲碁リーグ | Han Wonggyu | Weon Seongjin | Win | W+R | 6.5 | 
-| 2009-11-13 | 第37期名人戦（韓国）準決勝第3局 | Hong Seongji | Weon Seongjin | Win | W+1.5 | 6.5 | 
-| 2009-11-12 | 第37期名人戦（韓国）準決勝第2局 | Weon Seongjin | Hong Seongji | Win | B+3.5 | 6.5 | 
-| 2009-11-10 | 第37期名人戦（韓国）準決勝第1局 | Hong Seongji | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2009-10-25 | 第37期名人戦（韓国）リーグB | Lee Changho | Weon Seongjin | Lose | B+5.5 | 6.5 | 
-| 2009-10-16 | 第14期GSカルテックス杯プロ棋戦リーグ | Weon Seongjin | Yun Junsang | Lose | W+R | 6.5 | 
-| 2009-10-07 | 第14期GSカルテックス杯プロ棋戦リーグ | Weon Seongjin | Hong Kipyo | Win | B+R | 6.5 | 
-| 2009-10-01 | 2009年韓国囲碁リーグ | Choi Cheolhan | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2009-09-29 | 第37期名人戦（韓国）リーグB | Weon Seongjin | Choi Myeonghun | Win | B+R | 6.5 | 
-| 2009-09-20 | 2009年韓国囲碁リーグ | Kim Hyeongwoo | Weon Seongjin | Win | W+R | 6.5 | 
-| 2009-09-18 | 第5期圓益杯十段戦1回戦 | Weon Seongjin | Choi Cheolhan | Lose | W+R | 6.5 | 
-| 2009-09-15 | 第37期名人戦（韓国）リーグB | Han Sanghoon | Weon Seongjin | Win | W+R | 6.5 | 
-| 2009-08-31 | 第28回KBS杯囲碁王戦敗者復活戦1回戦 | Paek Daehyun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2009-08-29 | 2009年韓国囲碁リーグ | Park Junghwan | Weon Seongjin | Win | W+R | 6.5 | 
-| 2009-08-22 | 2009年韓国囲碁リーグ | Weon Seongjin | Hong Seongji | Lose | W+4.5 | 6.5 | 
-| 2009-08-20 | 第37期名人戦（韓国）リーグB |  | Weon Seongjin | Win | W+R | 6.5 | 
-| 2009-08-15 | 2009年韓国囲碁リーグ | Weon Seongjin | Mok Jinseok | Lose | W+0.5 | 6.5 | 
-| 2009-08-05 | 第14回三星火災杯統合予選2回戦 | Park Seunghwa | Weon Seongjin | Win | W+R | 6.5 | 
-| 2009-07-30 | 第37期名人戦（韓国）リーグB | Weon Seongjin |  | Win | B+R | 6.5 | 
-| 2009-07-27 | 第28回KBS杯囲碁王戦本戦2回戦 | Han Sanghoon | Weon Seongjin | Lose | B+3.5 | 6.5 | 
-| 2009-07-09 | 2009年韓国囲碁リーグ | Jin Donggyu | Weon Seongjin | Win | W+R | 6.5 | 
-| 2009-07-07 | 第14期GSカルテックス杯プロ棋戦リーグ | Weon Seongjin | Choi Cheolhan | Win | B+R | 6.5 | 
-| 2009-06-28 | 2009年韓国囲碁リーグ | Weon Seongjin | Kang Yootaek | Win | B+R | 6.5 | 
-| 2009-06-21 | 2009年韓国囲碁リーグ | Lee Taehyun | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2009-06-05 | 第14期GSカルテックス杯プロ棋戦リーグ | Lee Yeongkyu | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2009-05-24 | 2009年韓国囲碁リーグ | Weon Seongjin | Hong Seongji | Lose | W+5.5 | 6.5 | 
-| 2009-05-20 | 第14回LG杯世界棋王戦2回戦 | Hu Yaoyu | Weon Seongjin | Lose | B+1.5 | 6.5 | 
-| 2009-05-18 | 第14回LG杯世界棋王戦1回戦 | Yamashita Keigo | Weon Seongjin | Win | W+6.5 | 6.5 | 
-| 2009-05-11 | 第14期GSカルテックス杯プロ棋戦リーグ | Cho Hanseung | Weon Seongjin | Lose | B+0.5 | 6.5 | 
-| 2009-04-11 | 第22回世界囲碁選手権富士通杯1回戦 | Weon Seongjin | Iyama Yuta | Lose | W+R | 6.5 | 
-| 2009-04-05 | 第1回BCカード杯世界選手権3回戦 | Lee Sedol | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2009-03-27 | 第14期GSカルテックス杯プロ棋戦リーグ | An Joyeong | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2009-03-23 | 第28回KBS杯囲碁王戦本戦1回戦 | Weon Seongjin | Park Junghwan | Win | B+R | 6.5 | 
-| 2009-03-20 | 第1回BCカード杯世界選手権2回戦 | Wang Lei (b) | Weon Seongjin | Win | W+R | 6.5 | 
-| 2009-01-07 | 第10回マキシムコーヒー杯入神最強戦準決勝 | Park Yeonghun | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2008-12-09 | 第13期GSカルテックス杯プロ棋戦挑戦手合五番勝負第3局 | Weon Seongjin | Park Yeonghun | Lose | W+R | 6.5 | 
-| 2008-11-28 | 第13期GSカルテックス杯プロ棋戦挑戦手合五番勝負第2局 | Park Yeonghun | Weon Seongjin | Lose | B+2.5 | 6.5 | 
-| 2008-11-26 | 第13期GSカルテックス杯プロ棋戦挑戦手合五番勝負第1局 | Weon Seongjin | Park Yeonghun | Lose | W+R | 6.5 | 
-| 2008-11-24 | 第10回マキシムコーヒー杯入神最強戦2回戦 | Cho Daehyeon | Weon Seongjin | Win | W+2.5 | 6.5 | 
-| 2008-11-20 | 第13期GSカルテックス杯プロ棋戦リーグ | Weon Seongjin | Choi Cheolhan | Win | B+R | 6.5 | 
-| 2008-11-17 | 第36期名人戦（韓国）リーグプレーオフ | Weon Seongjin | Kang Dongyun | Lose | W+3.5 | 6.5 | 
-| 2008-11-15 | 2008年韓国囲碁リーグ | Hong Minpyo | Weon Seongjin | Win | W+1.5 | 6.5 | 
-| 2008-11-14 | 第36期名人戦（韓国）リーグプレーオフ | Lee Changho | Weon Seongjin | Win | W+R | 6.5 | 
-| 2008-11-07 | 2008年韓国囲碁リーグ | Kang Dongyun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2008-11-04 | 第13期GSカルテックス杯プロ棋戦リーグ | Cho Hanseung | Weon Seongjin | Win | W+2.5 | 6.5 | 
-| 2008-10-31 | 第36期名人戦（韓国）リーグ | Weon Seongjin | Lee Changho | Lose | W+R | 6.5 | 
-| 2008-10-24 | 2008年韓国囲碁リーグ | Ko Keuntae | Weon Seongjin | Win | W+R | 6.5 | 
-| 2008-10-17 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦決勝 | Weon Seongjin | Chang Hao | Win | B+R | 6.5 | 
-| 2008-10-17 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Yoda Norimoto | Weon Seongjin | Win | W+3.5 | 6.5 | 
-| 2008-10-10 | 2008年韓国囲碁リーグ | Weon Seongjin | Lee Changho | Win | B+R | 6.5 | 
-| 2008-10-08 | 第13期GSカルテックス杯プロ棋戦リーグ | Weon Seongjin | Kim Seongjae | Win | B+4.5 | 6.5 | 
-| 2008-10-06 | 第13期バッカス杯天元戦1回戦 | Weon Seongjin | Kang Yootaek | Lose | W+R | 6.5 | 
-| 2008-09-26 | 2008年韓国囲碁リーグ | Lee Hyunho | Weon Seongjin | Win | W+2.5 | 6.5 | 
-| 2008-09-16 | 第36期名人戦（韓国）リーグ | Weon Seongjin | Park Cheongsang | Win | B+R | 6.5 | 
-| 2008-09-11 | 2008年韓国囲碁リーグ | Weon Seongjin | Cho Hanseung | Lose | W+R | 6.5 | 
-| 2008-09-08 | 第13期GSカルテックス杯プロ棋戦リーグ | Weon Seongjin | Lee Sedol | Win | B+R | 6.5 | 
-| 2008-08-26 | 第36期名人戦（韓国）リーグ | Weon Seongjin | Choi Myeonghun | Win | B+R | 6.5 | 
-| 2008-08-16 | 2008年韓国囲碁リーグ | Kim Hyeongwoo | Weon Seongjin | Win | W+R | 6.5 | 
-| 2008-08-14 | 第4期圓益杯十段戦1回戦 | Weon Seongjin | Kim Won | Win | B+R | 6.5 | 
-| 2008-08-08 | 第13期GSカルテックス杯プロ棋戦リーグ | Park Cheongsang | Weon Seongjin | Win | W+2.5 | 6.5 | 
-| 2008-08-05 | 第36期名人戦（韓国）リーグ | Weon Seongjin | Cho Hanseung | Win | B+R | 6.5 | 
-| 2008-08-03 | 2008年韓国囲碁リーグ | Hong Minpyo | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2008-08-01 | 第13回三星火災杯予選準決勝 | Weon Seongjin | Kong Jie | Lose | W+3.5 | 6.5 | 
-| 2008-07-21 | 第4期トヨタ＆デンソー杯囲碁世界王座戦韓国予選 | Weon Seongjin | Hong Seongji | Lose | W+1.5 | 6.5 | 
-| 2008-07-10 | 2008年韓国囲碁リーグ | Paek Hongseok | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2008-07-08 | 第36期名人戦（韓国）リーグ | Mok Jinseok | Weon Seongjin | Win | W+2.5 | 6.5 | 
-| 2008-06-26 | 第12回中韓天元対抗戦第2局 | Gu Li | Weon Seongjin | Win | W+R | 6.5 | 
-| 2008-06-24 | 第12回中韓天元対抗戦第1局 | Weon Seongjin | Gu Li | Win | B+R | 6.5 | 
-| 2008-06-10 | 第36期名人戦（韓国）リーグ | Kang Dongyun | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2008-05-28 | 第13回LG杯世界棋王戦2回戦 | Gu Li | Weon Seongjin | Lose | B+2.5 | 6.5 | 
-| 2008-05-26 | 第13回LG杯世界棋王戦1回戦 | Li Kang | Weon Seongjin | Win | W+R | 6.5 | 
-| 2008-05-22 | 2008年韓国囲碁リーグ | Weon Seongjin | Lee Yeongkyu | Win | B+R | 6.5 | 
-| 2008-05-20 | 第36期名人戦（韓国）リーグ | Lee Sedol | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2008-05-16 | 2008年韓国囲碁リーグ | Cho Hanseung | Weon Seongjin | Win | W+R | 6.5 | 
-| 2008-05-05 | 2008年韓国囲碁リーグ | Weon Seongjin | Yun Junsang | Lose | W+3.5 | 6.5 | 
-| 2008-04-29 | 第13期GSカルテックス杯プロ棋戦リーグ | Weon Seongjin | Hong Seongji | Lose | W+R | 6.5 | 
-| 2008-04-15 | 第36期名人戦（韓国）リーグ | Weon Seongjin | Choi Wongyong | Win | B+R | 6.5 | 
-| 2008-03-17 | 第7回春蘭杯世界囲碁選手権2回戦 | Gu Li | Weon Seongjin | Lose | B+R | 7.5 | 
-| 2008-03-15 | 第7回春蘭杯世界囲碁選手権1回戦 | Weon Seongjin | Cristian Pop | Win | B+R | 7.5 | 
-| 2008-02-29 | 第13期GSカルテックス杯プロ棋戦リーグ | Yoo Changhyuk | Weon Seongjin | Win | W+R | 6.5 | 
-| 2008-02-19 | 第36期名人戦（韓国）リーグ | Cho Hunhyun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2008-02-15 | 第7回春蘭杯韓国予選 | Park Yeonghun | Weon Seongjin | Win | W+1.5 | 6.5 | 
-| 2008-02-14 | 第7回春蘭杯韓国予選 | Han Sanghoon | Weon Seongjin | Win | W+5.5 | 6.5 | 
-| 2008-02-11 | 第21回世界囲碁選手権富士通杯韓国予選 | Weon Seongjin | Kang Dongyun | Lose | W+8.5 | 6.5 | 
-| 2008-01-25 | 第36期名人戦（韓国）予選 | Weon Seongjin | Paek Hongseok | Win | B+R | 6.5 | 
-| 2008-01-15 | 第18期BCカード杯新人王戦3回戦 | Kim Kiyoung | Weon Seongjin | Lose | B+1.5 | 6.5 | 
-| 2007-12-21 | 第18期BCカード杯新人王戦2回戦 | Jen Youngkyu | Weon Seongjin | Win | W+R | 6.5 | 
-| 2007-12-18 | 第12期バッカス杯天元戦決勝五番勝負第4局 | Kang Dongyun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2007-12-11 | 第12期バッカス杯天元戦決勝五番勝負第3局 | Weon Seongjin | Kang Dongyun | Lose | W+R | 6.5 | 
-| 2007-12-06 | 第3期圓益杯十段戦4回戦 | Weon Seongjin | Paek Hongseok | Lose | W+3.5 | 6.5 | 
-| 2007-12-04 | 第12期バッカス杯天元戦決勝五番勝負第2局 | Kang Dongyun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2007-11-21 | 第12期バッカス杯天元戦決勝五番勝負第1局 | Weon Seongjin | Kang Dongyun | Win | B+R | 6.5 | 
-| 2007-11-16 | 第3期圓益杯十段戦3回戦 | Weon Seongjin | Lee Sedol | Win | B+R | 6.5 | 
-| 2007-11-08 | 2007年韓国囲碁リーグ | Choi Cheolhan | Weon Seongjin | Win | W+R | 6.5 | 
-| 2007-10-27 | 2007年韓国囲碁リーグ | Kim Kiyoung | Weon Seongjin | Win | W+1.5 | 6.5 | 
-| 2007-10-11 | 第12期バッカス杯天元戦準決勝 | Weon Seongjin | Lee Sedol | Win | B+5.5 | 6.5 | 
-| 2007-10-10 | 2007年韓国囲碁リーグ | Weon Seongjin | Lee Yeongkyu | Lose | W+R | 6.5 | 
-| 2007-10-09 | 第19期棋聖戦（韓国）1回戦 | Mok Jinseok | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2007-10-07 | 2007年韓国囲碁リーグ | Hong Seongji | Weon Seongjin | Win | W+4.5 | 6.5 | 
-| 2007-09-20 | 2007年韓国囲碁リーグ | Cho Hunhyun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2007-09-17 | 第26回KBS杯囲碁王戦敗者復活戦3回戦 | Weon Seongjin | Kim Jiseok | Lose | W+R | 6.5 | 
-| 2007-09-03 | 第3期圓益杯十段戦2回戦 | Weon Seongjin |  | Win | B+0.5 | 6.5 | 
-| 2007-09-02 | 2007年韓国囲碁リーグ | Weon Seongjin | Rui Naiwei | Win | B+R | 6.5 | 
-| 2007-08-12 | 2007年韓国囲碁リーグ | Weon Seongjin | Park Seunghwa | Lose | W+R | 6.5 | 
-| 2007-08-09 | 第12期バッカス杯天元戦2回戦 | Weon Seongjin | Lee Huiseong | Win | B+R | 6.5 | 
-| 2007-08-08 | 第3期圓益杯十段戦1回戦 | Kim Kangkeun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2007-07-19 | 第9回農心杯韓国選抜戦 | Weon Seongjin | Kim Jiseok | Lose | W+3.5 | 6.5 | 
-| 2007-07-18 | 2007年韓国囲碁リーグ | Weon Seongjin | Park Yeonghun | Lose | W+R | 6.5 | 
-| 2007-07-13 | 第9回農心杯韓国選抜戦 | Lee Changho | Weon Seongjin | Win | W+R | 6.5 | 
-| 2007-07-12 | 第3期物価情報杯プロ棋戦決勝トーナメント1回戦 | Weon Seongjin | Cho Hunhyun | Lose | W+R | 6.5 | 
-| 2007-07-10 | 第51期国手戦（韓国）1回戦 | Lee Huiseong | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2007-07-07 | 2007年韓国囲碁リーグ | Hong Minpyo | Weon Seongjin | Lose | B+5.5 | 6.5 | 
-| 2007-06-26 | 2007年中国囲碁乙級リーグ | So Yokoku | Weon Seongjin | Win | W+R | 7.5 | 
-| 2007-06-22 | 2007年中国囲碁乙級リーグ | Weon Seongjin | Zhu Songli | Win | B+7.5 | 7.5 | 
-| 2007-06-20 | 2007年中国囲碁乙級リーグ | Cho Hanseung | Weon Seongjin | Lose | B+3.5 | 7.5 | 
-| 2007-06-19 | 2007年中国囲碁乙級リーグ | Yue Liang | Weon Seongjin | Win | W+2.5 | 7.5 | 
-| 2007-06-06 | 2007年韓国囲碁リーグ | Weon Seongjin | Kim Seungjun | Win | B+R | 6.5 | 
-| 2007-06-04 | 第3期物価情報杯プロ棋戦リーグD | Choi Wongyong | Weon Seongjin | Win | W+R | 6.5 | 
-| 2007-06-02 | 2007年韓国囲碁リーグ |  | Weon Seongjin | Win | W+R | 6.5 | 
-| 2007-05-18 | 2007年韓国囲碁リーグ | Weon Seongjin | Paek Hongseok | Win | B+R | 6.5 | 
-| 2007-05-15 | 第12期バッカス杯天元戦1回戦 | Weon Seongjin | Kim Hyeoimin | Win | B+R | 6.5 | 
-| 2007-05-11 | 第3期物価情報杯プロ棋戦リーグD | Park Yeonghun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2007-05-03 | 2007年韓国囲碁リーグ | Yun Junsang | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2007-05-01 | 第17期BCカード杯新人王戦決勝三番勝負第3局 | Paek Hongseok | Weon Seongjin | Win | W+10.5 | 6.5 | 
-| 2007-04-19 | 第17期BCカード杯新人王戦決勝三番勝負第2局 | Paek Hongseok | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2007-04-16 | 第3期物価情報杯プロ棋戦リーグD | Weon Seongjin | Rui Naiwei | Win | B+R | 6.5 | 
-| 2007-04-12 | 第17期BCカード杯新人王戦決勝三番勝負第1局 | Weon Seongjin | Paek Hongseok | Win | B+R | 6.5 | 
-| 2007-04-02 | 第17期BCカード杯新人王戦準決勝 | Weon Seongjin | Yun Junsang | Win | B+R | 6.5 | 
-| 2007-03-22 | 第41期王位戦1回戦 | Heo Yongho | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2007-02-21 | 第17期BCカード杯新人王戦3回戦 | Kim Juho | Weon Seongjin | Win | W+R | 6.5 | 
-| 2007-02-05 | 第18期棋聖戦（韓国）準決勝 | Choi Cheolhan | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2007-01-16 | 第17期BCカード杯新人王戦2回戦 | Weon Seongjin | Kim Daehee | Win | B+R | 6.5 | 
-| 2006-12-17 | 2006年韓国囲碁リーグ | Choi Wongyong | Weon Seongjin | Win | W+2.5 | 6.5 | 
-| 2006-12-15 | 2006年韓国囲碁リーグ | Weon Seongjin | Choi Cheolhan | Lose | W+R | 6.5 | 
-| 2006-12-10 | 2006年韓国囲碁リーグ | Cho Hanseung | Weon Seongjin | Win | W+R | 6.5 | 
-| 2006-12-02 | 2006年韓国囲碁リーグ | Kim Hyeoimin | Weon Seongjin | Lose | B+1.5 | 6.5 | 
-| 2006-11-23 | 第8回農心辛ラーメン杯世界囲碁最強戦第6戦 | Weon Seongjin | Peng Quan | Lose | W+3.5 | 6.5 | 
-| 2006-11-18 | 2006年韓国囲碁リーグ | Ryu Chaehyeong | Weon Seongjin | Win | W+R | 6.5 | 
-| 2006-11-10 | 第18期棋聖戦（韓国）2回戦 | Weon Seongjin | Han Chongjin | Win | B+R | 6.5 | 
-| 2006-11-03 | 2006年韓国囲碁リーグ | Mok Jinseok | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2006-10-17 | 第50期国手戦（韓国）準決勝 | Weon Seongjin | Park Yeonghun | Lose | W+2.5 | 6.5 | 
-| 2006-10-14 | 2006年韓国囲碁リーグ | Weon Seongjin | Kim Jiseok | Lose | W+3.5 | 6.5 | 
-| 2006-09-30 | 2006年韓国囲碁リーグ | Weon Seongjin |  | Win | B+2.5 | 6.5 | 
-| 2006-09-22 | 第50期国手戦（韓国）2回戦 |  | Weon Seongjin | Win | W+R | 6.5 | 
-| 2006-09-12 | 2006年韓国囲碁リーグ | Weon Seongjin | Yoo Changhyuk | Win | B+R | 6.5 | 
-| 2006-08-25 | 第18期棋聖戦（韓国）1回戦 | Weon Seongjin | Paek Daehyun | Win | B+4.5 | 6.5 | 
-| 2006-08-17 | 2006年韓国囲碁リーグ | Weon Seongjin | Choi Wongyong | Win | B+R | 6.5 | 
-| 2006-08-14 | 第11回三星火災杯予選2回戦 | Weon Seongjin |  | Win | B+R | 6.5 | 
-| 2006-08-06 | 2006年韓国囲碁リーグ | Heo Yongho | Weon Seongjin | Win | W+9.5 | 6.5 | 
-| 2006-07-24 | 第8回農心杯韓国選抜戦 | Heo Yongho | Weon Seongjin | Win | W+R | 6.5 | 
-| 2006-07-21 | 第8回農心杯韓国選抜戦 | Weon Seongjin | Lee Sedol | Win | B+0.5 | 6.5 | 
-| 2006-07-20 | 2006年韓国囲碁リーグ |  | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2006-07-14 | 2006年韓国囲碁リーグ | Weon Seongjin | Hong Minpyo | Win | B+1.5 | 6.5 | 
-| 2006-07-01 | 2006年韓国囲碁リーグ | Kim Seungjun | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2006-06-17 | 2006年韓国囲碁リーグ | Lee Changho | Weon Seongjin | Win | W+1.5 | 6.5 | 
-| 2006-06-15 | 第50期国手戦（韓国）1回戦 | Weon Seongjin | Lee Sedol | Win | B+15.5 | 6.5 | 
-| 2006-05-29 | 第25回KBS杯囲碁王戦本戦3回戦 | Weon Seongjin | Lee Changho | Lose | W+3.5 | 6.5 | 
-| 2006-05-25 | 2006年韓国囲碁リーグ | Weon Seongjin | Lee Huiseong | Win | B+0.5 | 6.5 | 
-| 2006-05-19 | 第16期BCカード杯新人王戦決勝三番勝負第2局 | Weon Seongjin | Heo Yongho | Lose | W+5.5 | 6.5 | 
-| 2006-05-14 | 2006年韓国囲碁リーグ | Weon Seongjin | Kang Dongyun | Win | B+R | 6.5 | 
-| 2006-05-12 | 第16期BCカード杯新人王戦決勝三番勝負第1局 | Heo Yongho | Weon Seongjin | Lose | B+0.5 | 6.5 | 
-| 2006-04-29 | 2006年韓国囲碁リーグ | Yun Junsang | Weon Seongjin | Win | W+3.5 | 6.5 | 
-| 2006-04-23 | 第16期BCカード杯新人王戦準決勝 | Weon Seongjin | Kang Dongyun | Win | B+R | 6.5 | 
-| 2006-04-16 | 2006年中国囲碁乙級リーグ |  | Weon Seongjin | Win | W+R | 7.5 | 
-| 2006-04-14 | 2006年中国囲碁乙級リーグ |  | Weon Seongjin | Win | W+R | 7.5 | 
-| 2006-04-07 | 第16期BCカード杯新人王戦3回戦 | Lee Yeongkyu | Weon Seongjin | Win | W+R | 6.5 | 
-| 2006-03-31 | 第40期王位戦2回戦 | Lee Sedol | Weon Seongjin | Lose | B+8.5 | 6.5 | 
-| 2006-02-07 | 第16期BCカード杯新人王戦2回戦 | Choi Wongyong | Weon Seongjin | Win | W+10.5 | 6.5 | 
-| 2005-11-25 | 第7回農心辛ラーメン杯世界囲碁最強戦第7戦 | Weon Seongjin | Xie He | Lose | W+0.5 | 6.5 | 
-| 2005-11-24 | 第7回農心辛ラーメン杯世界囲碁最強戦第6戦 | Weon Seongjin | Mimura Tomoyasu | Win | B+R | 6.5 | 
-| 2005-10-29 | 2005年韓国囲碁リーグ | Kim Seonryong | Weon Seongjin | Win | W+R | 6.5 | 
-| 2005-10-27 | 第17期棋聖戦（韓国）1回戦 | Lee Sedol | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2005-10-19 | 2005年国際新鋭囲碁対抗戦第3戦 | Liu Xing | Weon Seongjin | Win | W+R | 6.5 | 
-| 2005-10-18 | 2005年国際新鋭囲碁対抗戦第2戦 | Weon Seongjin | Xia Daming | Win | B+R | 6.5 | 
-| 2005-10-17 | 2005年国際新鋭囲碁対抗戦第1戦 | Mizokami Tomochika | Weon Seongjin | Lose | B+0.5 | 6.5 | 
-| 2005-10-15 | 2005年韓国囲碁リーグ | An Joyeong | Weon Seongjin | Lose | B+2.5 | 6.5 | 
-| 2005-09-24 | 2005年韓国囲碁リーグ | Yun Junsang | Weon Seongjin | Win | W+R | 6.5 | 
-| 2005-09-09 | 第1期圓益杯十段戦1回戦 | Weon Seongjin | Lee Jungwoo | Win | B+R | 6.5 | 
-| 2005-08-13 | 2005年韓国囲碁リーグ | Kim Juho | Weon Seongjin | Win | W+R | 6.5 | 
-| 2005-07-30 | 2005年韓国囲碁リーグ | Weon Seongjin | Park Cheongsang | Win | B+R | 6.5 | 
-| 2005-07-22 | 第10期バッカス杯天元戦1回戦 | Cho Hunhyun | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2005-07-20 | 第1期物価情報杯プロ棋戦リーグB | Cho Hanseung | Weon Seongjin | Lose | B+3.5 | 6.5 | 
-| 2005-06-30 | 第1期物価情報杯プロ棋戦リーグB | Weon Seongjin | Kim Seonryong | Win | B+R | 6.5 | 
-| 2005-06-29 | 第7回農心杯韓国選抜戦 | An Joyeong | Weon Seongjin | Win | W+R | 6.5 | 
-| 2005-06-18 | 2005年韓国囲碁リーグ | Weon Seongjin | Hong Minpyo | Lose | W+2.5 | 6.5 | 
-| 2005-06-12 | 第1期物価情報杯プロ棋戦リーグB | Lee Sedol | Weon Seongjin | Lose | B+9.5 | 6.5 | 
-| 2005-05-31 | 第39期王位戦挑戦者決定戦 | Weon Seongjin |  | Lose | W+R | 6.5 | 
-| 2005-05-27 | 第10期GSカルテックス杯プロ棋戦1回戦 | Weon Seongjin |  | Lose | W+0.5 | 6.5 | 
-| 2005-05-24 | 第39期王位戦準決勝 | Weon Seongjin | Lee Yeongkyu | Win | B+4.5 | 6.5 | 
-| 2005-05-14 | 2005年韓国囲碁リーグ | Cho Hanseung | Weon Seongjin | Lose | B+2.5 | 6.5 | 
-| 2005-05-10 | 第39期王位戦3回戦 | Weon Seongjin | Kang Dongyun | Win | B+2.5 | 6.5 | 
-| 2005-04-22 | 第39期王位戦2回戦 | Weon Seongjin | Lee Huiseong | Win | B+2.5 | 6.5 | 
-| 2005-04-21 | 第39期王位戦1回戦 | Weon Seongjin | Cho Hunhyun | Win | B+R | 6.5 | 
-| 2004-12-18 | 2004年韓国囲碁リーグ | An Joyeong | Weon Seongjin | Win | W+R | 6.5 | 
-| 2004-11-27 | 2004年韓国囲碁リーグ | Kang Dongyun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2004-11-08 | 第48期国手戦（韓国）敗者復活戦3回戦 | Yoo Changhyuk | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2004-11-06 | 2004年韓国囲碁リーグ | An Joyeong | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2004-10-26 | 第9回LG杯世界棋王戦3回戦 | Yu Bin | Weon Seongjin | Lose | B+6.5 | 6.5 | 
-| 2004-10-22 | 第48期国手戦（韓国）敗者復活戦2回戦 | Cho Hunhyun | Weon Seongjin | Win | W+3.5 | 6.5 | 
-| 2004-10-16 | 2004年韓国囲碁リーグ | Rui Naiwei | Weon Seongjin | Win | W+R | 6.5 | 
-| 2004-09-22 | 第48期国手戦（韓国）本戦2回戦 | Weon Seongjin | Lee Changho | Lose | W+8.5 | 6.5 | 
-| 2004-09-18 | 2004年韓国囲碁リーグ | Heo Yongho | Weon Seongjin | Lose | B+2.5 | 6.5 | 
-| 2004-09-14 | 第15期BCカード杯新人王戦 | Weon Seongjin | Kim Donghee | Lose | W+1.5 | 6.5 | 
-| 2004-08-30 | 第15期BCカード杯新人王戦 | Weon Seongjin | Cho Hyeyeon | Win | B+R | 6.5 | 
-| 2004-08-14 | 2004年韓国囲碁リーグ | Lee Huiseong | Weon Seongjin | Win | W+R | 6.5 | 
-| 2004-07-13 | 第9期バッカス杯天元戦1回戦 | Weon Seongjin |  | Lose | W+5.5 | 6.5 | 
-| 2004-07-10 | 2004年韓国囲碁リーグ | Weon Seongjin | Cho Hanseung | Lose | W+R | 6.5 | 
-| 2004-06-16 | 第48期国手戦（韓国）本戦1回戦 | Weon Seongjin |  | Win | B+R | 6.5 | 
-| 2004-06-03 | 第48期国手戦（韓国）予選 | Weon Seongjin | Lee Sedol | Win | B+R | 6.5 | 
-| 2004-05-29 | 2004年韓国囲碁リーグ | Weon Seongjin | Yun Junsang | Lose | W+0.5 | 6.5 | 
-| 2004-05-20 | 第9回LG杯世界棋王戦2回戦 | Weon Seongjin |  | Win | B+2.5 | 6.5 | 
-| 2004-02-11 | 第5回農心辛ラーメン杯世界囲碁最強戦第11戦 | Gu Li | Weon Seongjin | Lose | B+2.5 | 6.5 | 
-| 2004-02-03 | 第8回LG杯世界棋王戦準決勝 | Weon Seongjin | Lee Changho | Lose | W+R | 6.5 | 
-| 2003-12-25 | 2003年国際新鋭囲碁対抗戦第3戦 | Weon Seongjin | Peng Quan | Win | B+R | 7.5 | 
-| 2003-12-23 | 2003年国際新鋭囲碁対抗戦第2戦 |  | Weon Seongjin | Lose | B+R | 7.5 | 
-| 2003-12-22 | 2003年国際新鋭囲碁対抗戦第1戦 | Weon Seongjin | Rin Kanketsu | Win | B+R | 7.5 | 
-| 2003-12-18 | 第8期バッカス杯天元戦決勝五番勝負第4局 | Weon Seongjin | Choi Cheolhan | Lose | W+R | 6.5 | 
-| 2003-12-13 | 第8期バッカス杯天元戦決勝五番勝負第3局 | Choi Cheolhan | Weon Seongjin | Lose | B+2.5 | 6.5 | 
-| 2003-12-08 | 第8期バッカス杯天元戦決勝五番勝負第2局 | Weon Seongjin | Choi Cheolhan | Lose | W+R | 6.5 | 
-| 2003-11-28 | 第8期バッカス杯天元戦決勝五番勝負第1局 | Choi Cheolhan | Weon Seongjin | Win | W+1.5 | 6.5 | 
-| 2003-11-17 | 第5回農心辛ラーメン杯世界囲碁最強戦第10戦 | Ryu Shikun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2003-11-16 | 第5回農心辛ラーメン杯世界囲碁最強戦第9戦 | Hu Yaoyu | Weon Seongjin | Win | W+4.5 | 6.5 | 
-| 2003-11-15 | 第5回農心辛ラーメン杯世界囲碁最強戦第8戦 | Weon Seongjin | Kobayashi Koichi | Win | B+3.5 | 6.5 | 
-| 2003-10-28 | 第8回LG杯世界棋王戦3回戦 | Weon Seongjin | Chang Hao | Win | B+R | 6.5 | 
-| 2003-09-25 | 第8期バッカス杯天元戦準決勝 | Weon Seongjin | Kim Seungjun | Win | B+4.5 | 6.5 | 
-| 2003-09-23 | 第7期SKガス杯新鋭プロ十傑戦五位決定戦 |  | Weon Seongjin | Win | W+R | 6.5 | 
-| 2003-08-29 | 第8期三星杯2回戦 | Weon Seongjin | Cho Chikun | Lose | W+R | 6.5 | 
-| 2003-08-27 | 第8期三星杯1回戦 | Wang Lei (b) | Weon Seongjin | Win | W+R | 6.5 | 
-| 2003-08-13 | 第5回農心杯韓国選抜戦 | Ryu Chaehyeong | Weon Seongjin | Win | W+R | 6.5 | 
-| 2003-08-04 | 第8期三星杯予選決勝 | Chen Yaoye | Weon Seongjin | Win | W+3.5 | 6.5 | 
-| 2003-07-25 | 第7期SKガス杯新鋭プロ十傑戦リーグB | Weon Seongjin | Park Seunghyeon | Win | B+R | 6.5 | 
-| 2003-07-18 | 第8期バッカス杯天元戦2回戦 | Park Yeonghun | Weon Seongjin | Win | W+R | 6.5 | 
-| 2003-06-23 | 第7期SKガス杯新鋭プロ十傑戦リーグB | Weon Seongjin | Cho Hanseung | Lose | W+R | 6.5 | 
-| 2003-06-19 | 第8回LG杯世界棋王戦2回戦 | Weon Seongjin | Michael Redmond | Win | B+R | 6.5 | 
-| 2003-06-15 | 第3回KAT杯韓国囲碁最強戦 | Yun Junsang | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2003-06-13 | 第8期バッカス杯天元戦1回戦 | Weon Seongjin | Heo Yongho | Win | B+4.5 | 6.5 | 
-| 2003-05-23 | 第7期SKガス杯新鋭プロ十傑戦リーグB | Ryu Chaehyeong | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2003-04-10 | 第3期オスラムコリア杯新鋭連勝最強戦予選 | Weon Seongjin | Lee Yeongkyu | Lose | W+R | 6.5 | 
-| 2003-04-04 | 第7期SKガス杯新鋭プロ十傑戦リーグB |  | Weon Seongjin | Win | W+3.5 | 6.5 | 
-| 2003-02-11 | 第7回LG杯世界棋王戦準決勝 | Lee Changho | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2003-02-05 | 第22回KBS杯囲碁王戦本戦1回戦 | Kim Seungjun | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2002-12-17 | 第2回KAT杯韓国囲碁最強戦 | Weon Seongjin | Yun Junsang | Lose | W+R | 6.5 | 
-| 2002-12-10 | 第2回KAT杯韓国囲碁最強戦 | Hyun Mijin | Weon Seongjin | Win | W+R | 6.5 | 
-| 2002-12-09 | 第7期SKガス杯新鋭プロ十傑戦予選 | Choi Cheolhan | Weon Seongjin | Win | W+R | 6.5 | 
-| 2002-10-31 | 第7回LG杯世界棋王戦3回戦 | Zhou Heyang | Weon Seongjin | Win | W+R | 6.5 | 
-| 2002-10-29 | 第2回KAT杯韓国囲碁最強戦 | Hong Minpyo | Weon Seongjin | Win | W+4.5 | 6.5 | 
-| 2002-10-05 | 2002年国際新鋭囲碁対抗戦第3戦 | Hu Yaoyu | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2002-10-02 | 2002年国際新鋭囲碁対抗戦第1戦 | Weon Seongjin | Park Jinsol | Win | B+4.5 | 6.5 | 
-| 2002-05-02 | 第7回LG杯世界棋王戦2回戦 | Weon Seongjin | Chang Hao | Win | B+R | 6.5 | 
-| 2002-04-30 | 第7回LG杯世界棋王戦1回戦 | Weon Seongjin | Kobayashi Koichi | Win | B+3.5 | 6.5 | 
-| 2002-04-06 | 第7期バッカス杯天元戦1回戦 | Weon Seongjin |  | Lose | W+0.5 | 6.5 | 
-| 2001-10-09 | 第1期KT杯マスターズプロ棋戦2回戦 | Choi Cheolhan | Weon Seongjin | Win | W+R | 6.5 | 
-| 2001-10-04 | 第1期オスラムコリア杯新鋭連勝最強戦 | Park Yeonghun | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2001-08-02 | 第6期バッカス杯天元戦2回戦 | Weon Seongjin | Kim Seungjun | Lose | W+R | 6.5 | 
-| 2001-05-28 | 第6期バッカス杯天元戦1回戦 | Weon Seongjin | Choi Myeonghun | Win | B+R | 6.5 | 
-| 2001-05-11 | 第11期BCカード杯新人王戦決勝三番勝負第2局 | Cho Hanseung | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2001-05-03 | 第11期BCカード杯新人王戦決勝三番勝負第1局 | Weon Seongjin | Cho Hanseung | Lose | W+1.5 | 6.5 | 
-| 2001-04-17 | 第1期オスラムコリア杯新鋭連勝最強戦 | Weon Seongjin | Cho Hyeyeon | Lose | W+R | 6.5 | 
-| 2001-04-13 | 第11期BCカード杯新人王戦準決勝 | Weon Seongjin |  | Win | B+R | 6.5 | 
-| 2001-03-30 | 第1期オスラムコリア杯新鋭連勝最強戦 | Mok Jinseok | Weon Seongjin | Win | W+R | 6.5 | 
-| 2001-02-16 | 第11期BCカード杯新人王戦 |  | Weon Seongjin | Win | W+R | 6.5 | 
-| 2001-02-02 | 第11期BCカード杯新人王戦 | Weon Seongjin | An Joyeong | Win | B+R | 6.5 | 
-| 2001-01-19 | 第11期BCカード杯新人王戦 | Lee Huiseong | Weon Seongjin | Win | W+R | 6.5 | 
-| 2000-10-05 | 第4期SKガス杯新鋭プロ十傑戦五位決定戦 | Mok Jinseok | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2000-09-15 | 第12期棋聖戦（韓国）1回戦 | Mok Jinseok | Weon Seongjin | Lose | B+R | 6.5 | 
-| 2000-09-07 | 第4期SKガス杯新鋭プロ十傑戦リーグB | Kim Kwangsik | Weon Seongjin | Lose | B+1.5 | 6.5 | 
-| 2000-08-30 | 第5期三星杯1回戦 | Weon Seongjin | Yamada Kimio | Lose | W+2.5 | 6.5 | 
-| 2000-06-15 | 第5回LG杯世界棋王戦2回戦 | Ma Xiaochun | Weon Seongjin | Lose | B+6.5 | 6.5 | 
-| 2000-06-13 | 第5回LG杯世界棋王戦1回戦 | Weon Seongjin | Zhou Junxun | Win | B+R | 6.5 | 
-| 2000-05-08 | 第5期バッカス杯天元戦1回戦 | Seo Bongsoo | Weon Seongjin | Lose | B+R | 6.5 |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-19 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Weon Seongjin | Kim Jiseok | Lose | W+R | 6.5 | 3631 | -67 | 
+| 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Weon Seongjin | Ke Jie | Lose | W+0.5 | 6.5 | 3698 | -36 | 
+| 2021-05-31 | 第26回LG杯朝鮮日報棋王戦1回戦 | Weon Seongjin | Hsu Chiayuan | Win | B+R | 6.5 | 3734 | 2 | 
+| 2021-05-13 | 第26回GSカルテックス杯プロ棋戦2回戦 | Weon Seongjin | Na Hyun | Win | B+0.5 | 6.5 | 3732 | -3 | 
+| 2021-05-02 | 第26回LG杯韓国予選 | Weon Seongjin | Park Sangjin | Win | B+R | 6.5 | 3735 | -30 | 
+| 2021-04-17 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Weon Seongjin | Park Minkyu | Win | B+R | 6.5 | 3765 | -11 | 
+| 2021-03-28 | 2020-2021韓国囲碁リーグ優勝決定戦第3戦 | Heo Yongho | Weon Seongjin | Win | W+R | 6.5 | 3776 | 15 | 
+| 2021-03-27 | 2020-2021韓国囲碁リーグ優勝決定戦第2戦 | Weon Seongjin | An Jungki | Win | B+R | 6.5 | 3761 | 34 | 
+| 2021-03-26 | 2020-2021韓国囲碁リーグ優勝決定戦第1戦 | An Jungki | Weon Seongjin | Win | W+R | 6.5 | 3727 | -76 | 
+| 2021-02-27 | 2020-2021韓国囲碁リーグ | Kang Dongyun | Weon Seongjin | Win | W+R | 6.5 | 3803 | -21 | 
+| 2021-02-20 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Na Hyun | Win | B+R | 6.5 | 3824 | -82 | 
+| 2021-02-14 | 2020-2021韓国囲碁リーグ | Han Sanghoon | Weon Seongjin | Win | W+R | 6.5 | 3906 | 8 | 
+| 2021-02-08 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Park Junghwan | Weon Seongjin | Lose | B+R | 6.5 | 3898 | -25 | 
+| 2021-02-04 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Park Jinsol | Win | B+R | 6.5 | 3923 | 4 | 
+| 2021-01-29 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Wen Rubin | Win | B+R | 6.5 | 3919 | 4 | 
+| 2021-01-28 | 第4期韓国竜星戦予選 | An Jungki | Weon Seongjin | Lose | B+2.5 | 6.5 | 3915 | 11 | 
+| 2021-01-23 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Park Sangjin | Win | B+R | 6.5 | 3904 | 36 | 
+| 2021-01-17 | 2020-2021韓国囲碁リーグ | Park Geunho | Weon Seongjin | Win | W+R | 6.5 | 3868 | 34 | 
+| 2021-01-09 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Kang Dongyun | Win | B+R | 6.5 | 3834 | 27 | 
+| 2021-01-04 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Weon Seongjin | Win | W+R | 6.5 | 3807 | 48 | 
+| 2021-01-01 | 2020-2021韓国囲碁リーグ | Choi Jeong | Weon Seongjin | Win | W+R | 6.5 | 3759 | 3 | 
+| 2020-12-24 | 2020-2021韓国囲碁リーグ | Park Seunghwa | Weon Seongjin | Win | W+1.5 | 6.5 | 3756 | 31 | 
+| 2020-12-20 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Park Jinsol | Win | B+R | 6.5 | 3725 | -23 | 
+| 2020-12-12 | 2020-2021韓国囲碁リーグ | Lee Donghoon | Weon Seongjin | Win | W+R | 6.5 | 3748 | 28 | 
+| 2020-12-05 | 第26期GSカルテックス杯プロ棋戦予選 | Weon Seongjin | Kim Cheayoung | Win | B+R | 6.5 | 3720 | 36 | 
+| 2020-12-04 | 2020-2021韓国囲碁リーグ | Lee Wonyoung | Weon Seongjin | Win | W+R | 6.5 | 3684 | 34 | 
+| 2020-11-26 | 2020-2021韓国囲碁リーグ | Park Geunho | Weon Seongjin | Win | W+0.5 | 6.5 | 3650 | 202 | 
+| 2020-11-09 | 第25回LG杯朝鮮日報棋王戦3回戦 | Weon Seongjin | Ke Jie | Lose | W+R | 6.5 | 3448 | 254 | 
+| 2020-08-03 | 第2期ソパルコサノル最高棋士決定戦予選 | Kim Jinhyu | Weon Seongjin | Lose | B+0.5 | 6.5 | 3194 | -115 | 
+| 2020-06-08 | 第25回LG杯朝鮮日報棋王戦2回戦 | Gu Zihao | Weon Seongjin | Win | W+1.5 | 6.5 | 3309 | 35 | 
+| 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Weon Seongjin | Xu Haohong | Win | B+R | 6.5 | 3274 | -41 | 
+| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第3試合第1局 | Weon Seongjin | An Joyeong | Win | B+R | 6.5 | 3315 | 0 | 
+| 2020-01-27 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Na Hyun | Weon Seongjin | Lose | B+R | 6.5 | 3315 | -21 | 
+| 2020-01-24 | 2019-2020韓国囲碁リーグ第17節第2試合第5局 | Weon Seongjin | Kim Myounghoon | Win | B+R | 6.5 | 3336 | 8 | 
+| 2020-01-20 | 第9回応氏杯世界選手権韓国選抜戦 | Weon Seongjin | Choi Cheolhan | Lose | W+R | 7.5 | 3328 | -13 | 
+| 2020-01-16 | 2019-2020韓国囲碁リーグ第16節第1試合第1局 | Park Junsuck | Weon Seongjin | Win | W+2.5 | 6.5 | 3341 | 10 | 
+| 2020-01-12 | 2019-2020韓国囲碁リーグ第15節第4試合第4局 | Gang Woohyeok | Weon Seongjin | Win | W+R | 6.5 | 3331 | 6 | 
+| 2020-01-10 | 第13回春蘭杯韓国予選 | Weon Seongjin | Shin Minjun | Lose | W+R | 7.5 | 3325 | 3 | 
+| 2020-01-08 | 第13回春蘭杯韓国予選 | Weon Seongjin | Lee Donghoon | Win | B+R | 7.5 | 3322 | 19 | 
+| 2020-01-03 | 2019-2020韓国囲碁リーグ第14節第2試合第5局 | Lee Hoseong | Weon Seongjin | Lose | B+R | 6.5 | 3303 | 283 | 
+| 2019-12-20 | 2019-2020韓国囲碁リーグ第12節第2試合第3局 | Weon Seongjin |  | Win | B+R | 6.5 | 3020 | -1 | 
+| 2019-12-15 | 2019-2020韓国囲碁リーグ第11節第4試合第1局 | Weon Seongjin | Song Gyusang | Win | B+R | 6.5 | 3021 | 10 | 
+| 2019-12-06 | 2019-2020韓国囲碁リーグ第10節第2試合第2局 | Weon Seongjin | Kang Dongyun | Lose | W+R | 6.5 | 3011 | -8 | 
+| 2019-11-29 | 2019-2020韓国囲碁リーグ第9節第2試合第2局 | Jin Siyoung | Weon Seongjin | Lose | B+R | 6.5 | 3019 | -19 | 
+| 2019-11-23 | 2019-2020韓国囲碁リーグ第8節第3試合第2局 | Weon Seongjin | Lee Yeongkyu | Lose | W+R | 6.5 | 3038 | -19 | 
+| 2019-11-17 | 2019-2020韓国囲碁リーグ第7節第4試合第2局 | Choi Cheolhan | Weon Seongjin | Lose | B+R | 6.5 | 3057 | -29 | 
+| 2019-11-13 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第6戦 | Weon Seongjin | Lai Junfu | Win | B+R | 6.5 | 3086 | 0 | 
+| 2019-11-13 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第5戦 | Weon Seongjin | Jian Jingting | Win | B+R | 6.5 | 3086 | 17 | 
+| 2019-11-12 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第4戦 | Xu Jingen | Weon Seongjin | Lose | B+R | 6.5 | 3069 | 0 | 
+| 2019-11-12 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第3戦 | Lin Lixiang | Weon Seongjin | Lose | B+R | 6.5 | 3069 | -87 | 
+| 2019-11-11 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第2戦 | Lin Shixun | Weon Seongjin | Win | W+R | 6.5 | 3156 | 0 | 
+| 2019-11-11 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第1戦 | Chen Shiyuan | Weon Seongjin | Win | W+R | 6.5 | 3156 | 11 | 
+| 2019-11-07 | 2019-2020韓国囲碁リーグ第6節第1試合第3局 | Park Yeonghun | Weon Seongjin | Lose | B+R | 6.5 | 3145 | -8 | 
+| 2019-11-02 | 2019-2020韓国囲碁リーグ第5節第3試合第5局 | Weon Seongjin | Lee Hoseong | Lose | W+R | 6.5 | 3153 | -10 | 
+| 2019-10-19 | 2019-2020韓国囲碁リーグ第3節第3試合第1局 | Yun Junsang | Weon Seongjin | Lose | B+R | 6.5 | 3163 | -5 | 
+| 2019-10-16 | 第21回農心辛ラーメン杯世界囲碁最強戦第2戦 | Yang Dingxin | Weon Seongjin | Lose | B+R | 6.5 | 3168 | -6 | 
+| 2019-10-15 | 第21回農心辛ラーメン杯世界囲碁最強戦第1戦 | Murakawa Daisuke | Weon Seongjin | Win | W+R | 6.5 | 3174 | -7 | 
+| 2019-10-03 | 2019-2020韓国囲碁リーグ第2節第1試合第1局 | Weon Seongjin | Seol Hyunjun | Win | B+R | 6.5 | 3181 | 21 | 
+| 2019-09-28 | 2019-2020韓国囲碁リーグ第1節第3試合第2局 | Weon Seongjin | Park Hamin | Lose | W+R | 6.5 | 3160 | -4 | 
+| 2019-07-19 | 第21回農心杯韓国選抜戦 | Lee Changho | Weon Seongjin | Win | W+14.5 | 6.5 | 3164 | 46 | 
+| 2019-07-18 | 第21回農心杯韓国選抜戦 | Shin Minjun | Weon Seongjin | Win | W+R | 6.5 | 3118 | 2 | 
+| 2019-07-15 | 第21回農心杯韓国選抜戦 | Weon Seongjin | Yun Chanhee | Win | B+R | 6.5 | 3116 | -27 | 
+| 2019-07-11 | 第21回農心杯韓国選抜戦 | Weon Seongjin | Park Sangjin | Win | B+R | 6.5 | 3143 | 27 | 
+| 2019-06-26 | 第6回国手山脈韓国国内トーナメント予選 | Jin Siyoung | Weon Seongjin | Win | W+R | 6.5 | 3116 | -9 | 
+| 2019-06-23 | 2019年中国囲碁乙級リーグ |  | Weon Seongjin | Win | W+1¼ | 7.5 | 3125 | -12 | 
+| 2019-06-22 | 2019年中国囲碁乙級リーグ | An Dongxu | Weon Seongjin | Win | W+R | 7.5 | 3137 | 3 | 
+| 2019-06-21 | 2019年中国囲碁乙級リーグ | Weon Seongjin | Na Hyun | Win | B+R | 7.5 | 3134 | 19 | 
+| 2019-06-19 | 2019年中国囲碁乙級リーグ | Weon Seongjin |  | Win | B+R | 7.5 | 3115 | 3 | 
+| 2019-06-18 | 2019年中国囲碁乙級リーグ | Chen Shiyuan | Weon Seongjin | Win | W+R | 7.5 | 3112 | 29 | 
+| 2019-06-12 | 2019年囲碁テレビ杯早碁戦16強戦 | Song Jihoon | Weon Seongjin | Lose | B+R | 6.5 | 3083 | 1 | 
+| 2019-06-05 | 第6回国手山脈杯韓国選抜戦1回戦 | Hong Seongji | Weon Seongjin | Lose | B+R | 6.5 | 3082 | 30 | 
+| 2019-05-22 | 第4回夢百合杯統合予選  | Weon Seongjin | Wu Guangya | Lose | W+R | 7.5 | 3052 | -30 | 
+| 2019-05-14 | 第38回KBS杯囲碁王戦2回戦 | Park Hamin | Weon Seongjin | Lose | B+R | 6.5 | 3082 | -58 | 
+| 2019-05-04 | 2019年囲碁テレビ杯早碁戦32強戦 | Weon Seongjin | Choi Jaeyoung | Win | B+R | 6.5 | 3140 | -23 | 
+| 2019-02-01 | 第24期GSカルテックス杯24強戦 | Weon Seongjin | Kim Seongjae | Lose | W+R | 6.5 | 3163 | 29 | 
+| 2019-01-08 | 第20回マキシムコーヒー杯入神最強戦1回戦 | Ko Keuntae | Weon Seongjin | Lose | B+R | 6.5 | 3134 | -58 | 
+| 2018-11-14 | 2018年台湾精鋭vs韓国交流戦第6戦 | Xiao Zhenghao | Weon Seongjin | Win | W+R | 6.5 | 3192 | 0 | 
+| 2018-11-14 | 2018年台湾精鋭vs韓国交流戦第5戦 | Lin Lixiang | Weon Seongjin | Win | W+R | 6.5 | 3192 | 13 | 
+| 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第4戦 | Weon Seongjin | Xu Haohong | Lose | W+R | 6.5 | 3179 | 0 | 
+| 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第3戦 | Weon Seongjin | Chen Qirui | Win | B+R | 6.5 | 3179 | -10 | 
+| 2018-11-12 | 2018年台湾精鋭vs韓国交流戦第2戦 | Weon Seongjin | Wang Yuanjun | Win | B+1.5 | 6.5 | 3189 | 0 | 
+| 2018-11-12 | 2018年台湾精鋭vs韓国交流戦第1戦 | Weon Seongjin | Lin Junyan | Win | B+R | 6.5 | 3189 | 43 | 
+| 2018-10-07 | 2018年韓国囲碁リーグ第14節 | Weon Seongjin | Park Geunho | Win | B+R | 6.5 | 3146 | 13 | 
+| 2018-09-27 | 2018年韓国囲碁リーグ第13節 | Yun Junsang | Weon Seongjin | Win | W+R | 6.5 | 3133 | -4 | 
+| 2018-09-20 | 2018年韓国囲碁リーグ第12節 | Weon Seongjin | Lee Jihyun | Win | B+R | 6.5 | 3137 | -1 | 
+| 2018-09-13 | 2018年韓国囲碁リーグ第11節 | Weon Seongjin | Lee Changseok | Win | B+R | 6.5 | 3138 | -33 | 
+| 2018-09-01 | 2018年韓国囲碁リーグ第10節 | Weon Seongjin | Lee Wonyoung | Win | B+R | 6.5 | 3171 | 12 | 
+| 2018-08-24 | 2018年韓国囲碁リーグ第9節 | Weon Seongjin | Park Minkyu | Lose | W+R | 6.5 | 3159 | -27 | 
+| 2018-08-17 | 2018年韓国囲碁リーグ第8節 | Shin Jinseo | Weon Seongjin | Lose | B+R | 6.5 | 3186 | 28 | 
+| 2018-08-09 | 2018年韓国囲碁リーグ第7節 | Weon Seongjin | Kang Dongyun | Lose | W+R | 6.5 | 3158 | -27 | 
+| 2018-08-05 | 2018年韓国囲碁リーグ第6節 | Weon Seongjin | Kim Jiseok | Lose | W+R | 6.5 | 3185 | -18 | 
+| 2018-07-28 | 第5回国手山脈杯世界プロ最強戦1回戦 | Weon Seongjin | Liao Yuanhe | Lose | W+R | 6.5 | 3203 | -12 | 
+| 2018-07-22 | 2018年韓国囲碁リーグ第5節 | Weon Seongjin | Han Taehee | Win | B+R | 6.5 | 3215 | 36 | 
+| 2018-07-19 | 第20回農心杯韓国選抜戦 | Paek Hongseok | Weon Seongjin | Lose | B+R | 6.5 | 3179 | -28 | 
+| 2018-07-17 | 第20回農心杯韓国選抜戦 | Hong Kipyo | Weon Seongjin | Win | W+R | 6.5 | 3207 | 14 | 
+| 2018-07-15 | 2018年韓国囲碁リーグ第4節 | Weon Seongjin | Cho Hanseung | Win | B+R | 6.5 | 3193 | 14 | 
+| 2018-07-05 | 第23回三星火災杯統合予選3回戦 | Weon Seongjin | Shi Yue | Lose | W+R | 6.5 | 3179 | 0 | 
+| 2018-07-03 | 第23回三星火災杯統合予選2回戦 |  | Weon Seongjin | Win | W+R | 6.5 | 3179 | -23 | 
+| 2018-06-29 | 2018年韓国囲碁リーグ第3節 | Byun Sangil | Weon Seongjin | Lose | B+R | 6.5 | 3202 | -19 | 
+| 2018-06-23 | 2018年韓国囲碁リーグ第2節 | Lee Donghoon | Weon Seongjin | Win | W+R | 6.5 | 3221 | 12 | 
+| 2018-06-16 | 2018年韓国囲碁リーグ第1節 | Weon Seongjin | Lee Changho | Lose | W+2.5 | 6.5 | 3209 | -89 | 
+| 2018-05-30 | 第23回LG杯朝鮮日報棋王戦2回戦 | Weon Seongjin | Yang Dingxin | Lose | W+R | 6.5 | 3298 | 2 | 
+| 2018-05-28 | 第23回LG杯朝鮮日報棋王戦1回戦 | Ke Jie | Weon Seongjin | Win | W+R | 6.5 | 3296 | -66 | 
+| 2018-03-05 | 韓国ナショナルチームリーグ戦 | Weon Seongjin | Shin Minjun | Lose | W+R | 6.5 | 3362 | 9 | 
+| 2018-02-12 | 韓国ナショナルチームリーグ戦 | Park Junghwan | Weon Seongjin | Lose | B+R | 6.5 | 3353 | 16 | 
+| 2018-01-29 | 第19回マキシムコーヒー杯入神最強戦1回戦 | Weon Seongjin | Paek Hongseok | Lose | W+R | 6.5 | 3337 | -14 | 
+| 2018-01-22 | 韓国ナショナルチームリーグ戦 | Weon Seongjin | Lee Jihyun | Lose | W+2.5 | 6.5 | 3351 | 52 | 
+| 2017-10-28 | 2017年韓国囲碁リーグ | Weon Seongjin | Choi Jeong | Lose | W+0.5 | 6.5 | 3299 | -14 | 
+| 2017-10-20 | 2017年韓国囲碁リーグ | Weon Seongjin | Hong Kipyo | Win | B+R | 6.5 | 3313 | 52 | 
+| 2017-10-12 | 2017年韓国囲碁リーグ | Weon Seongjin | Ryu Minhyung | Lose | W+R | 6.5 | 3261 | -39 | 
+| 2017-10-08 | 2017年韓国囲碁リーグ | Weon Seongjin | Hong Seongji | Win | B+R | 6.5 | 3300 | 21 | 
+| 2017-09-29 | 2017年韓国囲碁リーグ | Park Jinsol | Weon Seongjin | Lose | B+R | 6.5 | 3279 | 19 | 
+| 2017-09-15 | 2017年韓国囲碁リーグ | Weon Seongjin | Han Sanghoon | Win | B+R | 6.5 | 3260 | 12 | 
+| 2017-09-03 | 2017年韓国囲碁リーグ | Weon Seongjin | Yun Chanhee | Win | B+R | 6.5 | 3248 | -14 | 
+| 2017-08-25 | 2017年韓国囲碁リーグ | Weon Seongjin | Lee Hyungjin | Win | B+R | 6.5 | 3262 | -6 | 
+| 2017-08-18 | 2017年韓国囲碁リーグ | Heo Yongho | Weon Seongjin | Win | W+0.5 | 6.5 | 3268 | 21 | 
+| 2017-08-12 | 2017年韓国囲碁リーグ | Kim Jiseok | Weon Seongjin | Lose | B+R | 6.5 | 3247 | -8 | 
+| 2017-08-06 | 2017年韓国囲碁リーグ | Weon Seongjin | Kim Junghyun | Win | B+R | 6.5 | 3255 | 4 | 
+| 2017-07-31 | 韓国国家隊連戦 | Weon Seongjin | Kim Jiseok | Lose | W+R | 6.5 | 3251 | -7 | 
+| 2017-07-20 | 2017年韓国囲碁リーグ | Weon Seongjin | Park Minkyu | Lose | W+R | 6.5 | 3258 | -9 | 
+| 2017-07-15 | 2017年韓国囲碁リーグ | Lee Changho | Weon Seongjin | Win | W+2.5 | 6.5 | 3267 | 30 | 
+| 2017-07-02 | 第22回三星火災杯統合予選4回戦 | Dang Yifei | Weon Seongjin | Win | W+R | 6.5 | 3237 | -17 | 
+| 2017-06-29 | 第22回三星火災杯統合予選2回戦 | Wu Guangya | Weon Seongjin | Win | W+R | 6.5 | 3254 | -12 | 
+| 2017-06-26 | 第36回KBS杯囲碁王戦32強戦 | Lee Sedol | Weon Seongjin | Lose | B+7.5 | 6.5 | 3266 | -16 | 
+| 2017-06-16 | 2017年中国囲碁乙級リーグ | Weon Seongjin |  | Win | B+R | 7.5 | 3282 | 21 | 
+| 2017-06-08 | 2017年中国囲碁乙級リーグ | Guo Yuzheng | Weon Seongjin | Win | W+R | 7.5 | 3261 | 4 | 
+| 2017-06-01 | 2017年韓国囲碁リーグ | Weon Seongjin | Yun Chanhee | Win | B+R | 6.5 | 3257 | -19 | 
+| 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Weon Seongjin | Ke Jie | Lose | W+R | 6.5 | 3276 | -3 | 
+| 2017-05-20 | 2017年韓国囲碁リーグ | Choi Jaeyoung | Weon Seongjin | Lose | B+R | 6.5 | 3279 | 18 | 
+| 2017-04-08 | 第22期LG杯世界予選決勝 | Weon Seongjin |  | Lose | W+R | 6.5 | 3261 | 0 | 
+| 2017-04-06 | 第22期LG杯世界予選3回戦 | Weon Seongjin |  | Win | B+0.5 | 6.5 | 3261 | 149 | 
+| 2017-03-20 | 第18回マキシムコーヒー杯入神最強戦3回戦 | Weon Seongjin | Yun Junsang | Lose | W+R | 6.5 | 3112 | -17 | 
+| 2017-03-06 | 第18回マキシムコーヒー杯入神最強戦2回戦 | Weon Seongjin | An Joyeong | Win | B+3.5 | 6.5 | 3129 | 27 | 
+| 2017-02-09 | 第22期GSカルテックス杯プロ棋戦16強戦 | Weon Seongjin | Shin Minjun | Lose | W+R | 6.5 | 3102 | -22 | 
+| 2017-01-23 | 第36回KBS杯囲碁王戦32強戦 | Kim Juho | Weon Seongjin | Win | W+R | 6.5 | 3124 | -26 | 
+| 2017-01-03 | Alphago Online Series on Tygem and Fox 49 | Weon Seongjin |  | Lose | W+R | 6.5 | 3150 | 26 | 
+| 2016-11-14 | 第35回KBS杯囲碁王戦8強戦 | Lee Yeongkyu | Weon Seongjin | Lose | B+R | 6.5 | 3124 | -35 | 
+| 2016-10-21 | 2016年韓国囲碁リーグ | An Sungjoon | Weon Seongjin | Lose | B+3.5 | 6.5 | 3159 | -36 | 
+| 2016-10-16 | 2016年韓国囲碁リーグ | Na Hyun | Weon Seongjin | Win | W+R | 6.5 | 3195 | 12 | 
+| 2016-10-08 | 2016年韓国囲碁リーグ | Kang Dongyun | Weon Seongjin | Lose | B+R | 6.5 | 3183 | 0 | 
+| 2016-10-02 | 2016年韓国囲碁リーグ | Weon Seongjin | Lee Yeongkyu | Win | B+R | 6.5 | 3183 | 11 | 
+| 2016-09-24 | 2016年韓国囲碁リーグ第14節 | Weon Seongjin | Lee Donghoon | Win | B+R | 6.5 | 3172 | -83 | 
+| 2016-09-15 | 2016年韓国囲碁リーグ第13節 | Han Seungjoo | Weon Seongjin | Lose | B+R | 6.5 | 3255 | -32 | 
+| 2016-08-30 | 第3回百霊杯世界オープン戦準決勝第3局 | Ke Jie | Weon Seongjin | Lose | B+R | 7.5 | 3287 | -29 | 
+| 2016-08-29 | 第3回百霊杯世界オープン戦準決勝第2局 | Ke Jie | Weon Seongjin | Lose | B+R | 7.5 | 3316 | -8 | 
+| 2016-08-27 | 第3回百霊杯世界オープン戦準決勝第1局 | Weon Seongjin | Ke Jie | Win | B+R | 7.5 | 3324 | 10 | 
+| 2016-08-25 | 第3回百霊杯世界オープン戦4回戦 | Weon Seongjin | Fan Yin | Win | B+R | 7.5 | 3314 | 38 | 
+| 2016-08-18 | 2016年韓国囲碁リーグ第10節 | Weon Seongjin | Lee Sedol | Win | B+R | 6.5 | 3276 | 4 | 
+| 2016-08-13 | 2016年韓国囲碁リーグ第9節 | Weon Seongjin | An Sungjoon | Lose | W+R | 6.5 | 3272 | -38 | 
+| 2016-07-28 | 2016年韓国囲碁リーグ第8節 | Weon Seongjin | Choi Cheolhan | Lose | W+0.5 | 6.5 | 3310 | -88 | 
+| 2016-07-22 | 2016年韓国囲碁リーグ第7節 | Weon Seongjin | Kang Dongyun | Win | B+R | 6.5 | 3398 | 156 | 
+| 2016-07-07 | 2016年韓国囲碁リーグ第6節 | Weon Seongjin | Lee Yeongkyu | Lose | W+R | 6.5 | 3242 | -13 | 
+| 2016-07-02 | 第3回百霊杯世界オープン戦3回戦 | Weon Seongjin | Chen Zhengxun | Win | B+R | 7.5 | 3255 | 4 | 
+| 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Liao Xingwen | Weon Seongjin | Win | W+R | 7.5 | 3251 | -5 | 
+| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Weon Seongjin | Lee Taehyun | Win | B+R | 7.5 | 3256 | 29 | 
+| 2016-06-24 | 2016年韓国囲碁リーグ第5節 | Weon Seongjin | Kim Seongjae | Win | B+R | 6.5 | 3227 | -12 | 
+| 2016-06-19 | 2016年韓国囲碁リーグ第4節 | Park Jinsol | Weon Seongjin | Lose | B+R | 6.5 | 3239 | 22 | 
+| 2016-06-05 | 2016年韓国囲碁リーグ第2節 | Heo Yongho | Weon Seongjin | Win | W+R | 6.5 | 3217 | 50 | 
+| 2016-05-27 | 第1回新奥杯世界囲碁オープン戦予選 | Weon Seongjin | Huang Yunsong | Lose | W+R | 7.5 | 3167 | 0 | 
+| 2016-05-22 | 2016年韓国囲碁リーグ第1節 | Weon Seongjin | Lee Hobum | Win | B+R | 6.5 | 3167 | 60 | 
+| 2016-05-16 | 第35回KBS杯囲碁王戦2回戦 | Kang Changbae | Weon Seongjin | Win | W+R | 6.5 | 3107 | -50 | 
+| 2016-05-10 | 第17回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Lee Sedol | Weon Seongjin | Lose | B+R | 6.5 | 3157 | 14 | 
+| 2016-05-03 | 第17回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Weon Seongjin | Lee Sedol | Lose | W+R | 6.5 | 3143 | 59 | 
+| 2016-04-26 | 第17回マキシムコーヒー杯入神最強戦準決勝 | Weon Seongjin | Kang Dongyun | Win | B+R | 6.5 | 3084 | 4 | 
+| 2016-04-22 | 第8回応氏杯世界選手権2回戦 | Weon Seongjin | Kang Dongyun | Lose | W+R | 7.5 | 3080 | -19 | 
+| 2016-04-20 | 第8回応氏杯世界選手権1回戦 | Tuo Jiaxi | Weon Seongjin | Win | W+R | 7.5 | 3099 | 35 | 
+| 2016-04-07 | 第21期GSカルテックス杯プロ棋戦準決勝 | Yun Chanhee | Weon Seongjin | Lose | B+0.5 | 6.5 | 3064 | -29 | 
+| 2016-04-01 | 第21回LG杯予選 | Weon Seongjin | Peng Liyao | Lose | W+R | 6.5 | 3093 | -13 | 
+| 2016-03-29 | 第17回マキシムコーヒー杯入神最強戦3回戦 | Weon Seongjin | Mok Jinseok | Win | B+R | 6.5 | 3106 | 19 | 
+| 2016-03-25 | 第21期GSカルテックス杯プロ棋戦3回戦 | An Sungjoon | Weon Seongjin | Win | W+R | 6.5 | 3087 | -14 | 
+| 2016-02-28 | 第21期GSカルテックス杯プロ棋戦2回戦 | Weon Seongjin | Choi Cheolhan | Win | B+R | 6.5 | 3101 | -21 | 
+| 2016-02-01 | 第17回マキシムコーヒー杯入神最強戦2回戦 | Weon Seongjin | Choi Cheolhan | Win | B+R | 6.5 | 3122 | -3 | 
+| 2016-01-19 | 第17回マキシムコーヒー杯入神最強戦1回戦 | Choi Kyubyeong | Weon Seongjin | Win | W+1.5 | 6.5 | 3125 | -9 | 
+| 2016-01-16 | 第21期GSカルテックス杯プロ棋戦1回戦 | Weon Seongjin | Park Seunghyeon | Win | B+R | 6.5 | 3134 | -8 | 
+| 2016-01-11 | 第8回応氏杯世界選手権韓国選抜戦 | Lee Donghoon | Weon Seongjin | Win | W+R | 7.5 | 3142 | 14 | 
+| 2016-01-08 | 第8回応氏杯世界選手権韓国選抜戦 | Weon Seongjin | An Sungjoon | Win | B+R | 7.5 | 3128 | 23 | 
+| 2015-11-16 | 第20回LG杯朝鮮日報棋王戦3回戦 | Tuo Jiaxi | Weon Seongjin | Lose | B+R | 6.5 | 3105 | -27 | 
+| 2015-10-30 | 2015年レッツランパーク杯オープントーナメント4回戦 | Weon Seongjin | Lee Jihyun | Lose | W+R | 6.5 | 3132 | -8 | 
+| 2015-10-16 | 2015年レッツランパーク杯オープントーナメント3回戦 | Kim Junghyun | Weon Seongjin | Win | W+R | 6.5 | 3140 | 8 | 
+| 2015-10-14 | 2015年レッツランパーク杯オープントーナメント2回戦 | Park Cheongsang | Weon Seongjin | Win | W+R | 6.5 | 3132 | 17 | 
+| 2015-10-03 | 2015年韓国囲碁リーグ | Lee Hobum | Weon Seongjin | Win | W+R | 6.5 | 3115 | 36 | 
+| 2015-10-01 | 第43期名人戦（韓国）1回戦 | Weon Seongjin |  | Lose | W+4.5 | 6.5 | 3079 | -15 | 
+| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Kim Hyeoimin | Weon Seongjin | Win | W+0.5 | 6.5 | 3094 | -1 | 
+| 2015-09-26 | 2015年韓国囲碁リーグ | Lee Wonyoung | Weon Seongjin | Win | W+3.5 | 6.5 | 3095 | 26 | 
+| 2015-09-18 | 2015年韓国囲碁リーグ | Heo Yongho | Weon Seongjin | Win | W+R | 6.5 | 3069 | -49 | 
+| 2015-08-27 | 2015年韓国囲碁リーグ | Shin Jinseo | Weon Seongjin | Win | W+R | 6.5 | 3118 | 63 | 
+| 2015-08-23 | 2015年韓国囲碁リーグ | Weon Seongjin | Kim Junghyun | Lose | W+R | 6.5 | 3055 | -26 | 
+| 2015-08-15 | 2015年韓国囲碁リーグ | Lee Donghoon | Weon Seongjin | Win | W+R | 6.5 | 3081 | 14 | 
+| 2015-08-02 | 第20回三星火災杯統合予選1回戦 | Weon Seongjin | Yang Dingxin | Win | B+R | 6.5 | 3067 | 19 | 
+| 2015-07-23 | 2015年韓国囲碁リーグ | Kim Myounghoon | Weon Seongjin | Win | W+2.5 | 6.5 | 3048 | -14 | 
+| 2015-07-20 | 第17回農心杯韓国選抜戦 | Weon Seongjin | Kim Jiseok | Lose | W+R | 6.5 | 3062 | -18 | 
+| 2015-07-18 | 2015年韓国囲碁リーグ | Weon Seongjin | Park Yeonghun | Lose | W+R | 6.5 | 3080 | -6 | 
+| 2015-07-09 | 第2回夢百合杯世界オープン戦2回戦 | Weon Seongjin | Xie Ke | Lose | W+R | 7.5 | 3086 | -10 | 
+| 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Weon Seongjin | Park Seunghwa | Win | B+R | 7.5 | 3096 | 21 | 
+| 2015-07-03 | 2015年韓国囲碁リーグ | Weon Seongjin | Mok Jinseok | Lose | W+R | 6.5 | 3075 | -47 | 
+| 2015-06-26 | 2015年韓国囲碁リーグ | Weon Seongjin | Choi Cheolhan | Lose | W+R | 6.5 | 3122 | -79 | 
+| 2015-06-20 | 2015年韓国囲碁リーグ | Yun Junsang | Weon Seongjin | Lose | B+5.5 | 6.5 | 3201 | -46 | 
+| 2015-06-10 | 第20回LG杯朝鮮日報棋王戦2回戦 | Lin Junyan | Weon Seongjin | Win | W+R | 6.5 | 3247 | 8 | 
+| 2015-06-08 | 第20回LG杯朝鮮日報棋王戦1回戦 | Weon Seongjin | Yuki Satoshi | Win | B+R | 6.5 | 3239 | -23 | 
+| 2015-05-31 | 2015年韓国囲碁リーグ | Kang Seungmin | Weon Seongjin | Lose | B+R | 6.5 | 3262 | -48 | 
+| 2015-05-26 | 第2回夢百合杯世界オープン戦予選 | Weon Seongjin | Jiang Qirun | Win | B+R | 7.5 | 3310 | -69 | 
+| 2015-05-14 | 2015年韓国囲碁リーグ | Kim Kiyoung | Weon Seongjin | Win | W+R | 6.5 | 3379 | 49 | 
+| 2015-05-11 | 第34回KBS杯囲碁王戦1回戦 | Song Jihoon | Weon Seongjin | Lose | B+R | 6.5 | 3330 | -31 | 
+| 2015-05-08 | 2015年韓国囲碁リーグ | Kim Seongjae | Weon Seongjin | Lose | B+0.5 | 6.5 | 3361 | -47 | 
+| 2015-05-03 | 2015年韓国囲碁リーグ | Weon Seongjin | Byun Sangil | Lose | W+R | 6.5 | 3408 | -71 | 
+| 2015-04-23 | 2015年韓国囲碁リーグ | Weon Seongjin | Park Yeonghun | Win | B+2.5 | 6.5 | 3479 | -153 | 
+| 2015-02-17 | 第16回マキシムコーヒー杯入神最強戦3回戦 | Hong Seongji | Weon Seongjin | Lose | B+R | 6.5 | 3632 | -27 | 
+| 2015-01-20 | 第16回マキシムコーヒー杯入神最強戦2回戦 | Han Chongjin | Weon Seongjin | Win | W+R | 6.5 | 3659 | 267 | 
+| 2014-08-27 | 第10期物価情報杯プロ棋戦決勝トーナメント1回戦 | Weon Seongjin |  | Lose | W+R | 6.5 | 3392 | -123 | 
+| 2014-07-23 | 第10期物価情報杯プロ棋戦リーグA | Lee Sedol | Weon Seongjin | Win | W+R | 6.5 | 3515 | 259 | 
+| 2014-05-21 | 第10期物価情報杯プロ棋戦リーグA | Shin Minjun | Weon Seongjin | Win | W+R | 6.5 | 3256 | -159 | 
+| 2014-04-07 | 第15回マキシムコーヒー杯入神最強戦準決勝 | Lee Sedol | Weon Seongjin | Lose | B+R | 6.5 | 3415 | -58 | 
+| 2014-04-02 | 第10期物価情報杯プロ棋戦予選 | Weon Seongjin |  | Win | B+R | 6.5 | 3473 | 37 | 
+| 2014-03-06 | 第15回マキシムコーヒー杯入神最強戦3回戦 | Weon Seongjin | Choi Cheolhan | Win | B+R | 6.5 | 3436 | 105 | 
+| 2014-01-24 | 第15回マキシムコーヒー杯入神最強戦2回戦 | An Joyeong | Weon Seongjin | Win | W+R | 6.5 | 3331 | 206 | 
+| 2013-12-09 | 第32回KBS杯囲碁王戦敗者復活戦4回戦 | Lee Huiseong | Weon Seongjin | Lose | B+R | 6.5 | 3125 | 2 | 
+| 2013-12-02 | 第32回KBS杯囲碁王戦本戦4回戦 | Weon Seongjin | Park Junghwan | Lose | W+R | 6.5 | 3123 | -239 | 
+| 2013-09-23 | 第32回KBS杯囲碁王戦本戦3回戦 | Han Sanghoon | Weon Seongjin | Win | W+R | 6.5 | 3362 | 61 | 
+| 2013-06-03 | 第32回KBS杯囲碁王戦本戦2回戦 | Choi Myeonghun | Weon Seongjin | Win | W+2.5 | 6.5 | 3301 | -29 | 
+| 2013-03-11 | 第32回KBS杯囲碁王戦本戦1回戦 | Na Hyun | Weon Seongjin | Win | W+R | 6.5 | 3330 | 64 | 
+| 2013-02-20 | 第17回LG杯世界棋王戦決勝三番勝負第2局 | Weon Seongjin | Shi Yue | Lose | W+R | 6.5 | 3266 | 3 | 
+| 2013-02-18 | 第17回LG杯世界棋王戦決勝三番勝負第1局 | Shi Yue | Weon Seongjin | Lose | B+R | 6.5 | 3263 | -6 | 
+| 2013-01-23 | 第14回マキシムコーヒー杯入神最強戦3回戦 | Weon Seongjin | Park Junghwan | Lose | W+R | 6.5 | 3269 | 1 | 
+| 2013-01-14 | 第8期圓益杯十段戦2回戦 | Weon Seongjin | Han Wonggyu | Lose | W+R | 6.5 | 3268 | -20 | 
+| 2013-01-07 | 第31回KBS杯囲碁王戦敗者復活戦4回戦 | Na Hyun | Weon Seongjin | Lose | B+R | 6.5 | 3288 | 16 | 
+| 2012-12-10 | 第31回KBS杯囲碁王戦本戦4回戦 | Park Junghwan | Weon Seongjin | Lose | B+1.5 | 6.5 | 3272 | 13 | 
+| 2012-12-04 | 第9回春蘭杯世界囲碁選手権3回戦 | Jiang Weijie | Weon Seongjin | Lose | B+R | 7.5 | 3259 | -14 | 
+| 2012-12-01 | 第14回中国囲碁甲級リーグ第21節 | Weon Seongjin | Fan Tingyu | Win | B+R | 7.5 | 3273 | -205 | 
+| 2012-11-26 | 第14回マキシムコーヒー杯入神最強戦2回戦 | Weon Seongjin |  | Win | B+R | 6.5 | 3478 | -16 | 
+| 2012-11-24 | 第14回中国囲碁甲級リーグ第20節 | Peng Quan | Weon Seongjin | Lose | B+R | 7.5 | 3494 | 7 | 
+| 2012-11-10 | 第14回中国囲碁甲級リーグ第19節 | Weon Seongjin | Chen Yaoye | Lose | W+R | 7.5 | 3487 | 3 | 
+| 2012-11-07 | 第17回LG杯世界棋王戦準決勝 | Choi Cheolhan | Weon Seongjin | Win | W+R | 6.5 | 3484 | 5 | 
+| 2012-11-05 | 第17回LG杯世界棋王戦3回戦 | Lee Yeongkyu | Weon Seongjin | Win | W+R | 6.5 | 3479 | -15 | 
+| 2012-10-29 | 第8期圓益杯十段戦1回戦 | Weon Seongjin |  | Win | B+R | 6.5 | 3494 | 9 | 
+| 2012-10-22 | 第31回KBS杯囲碁王戦本戦3回戦 | Paek Hongseok | Weon Seongjin | Win | W+R | 6.5 | 3485 | 27 | 
+| 2012-10-10 | 第17回三星火災杯世界囲碁マスターズ3回戦 | Weon Seongjin | Park Junghwan | Lose | W+R | 6.5 | 3458 | -4 | 
+| 2012-10-09 | 第17回三星火災杯世界囲碁マスターズ2回戦 | Tuo Jiaxi | Weon Seongjin | Win | W+1.5 | 6.5 | 3462 | 3 | 
+| 2012-09-30 | 第14回中国囲碁甲級リーグ第16節 | Lian Xiao | Weon Seongjin | Win | W+R | 7.5 | 3459 | -6 | 
+| 2012-09-28 | 第14回中国囲碁甲級リーグ第15節 | Weon Seongjin | Tan Xiao | Lose | W+R | 7.5 | 3465 | 1 | 
+| 2012-09-22 | 2012年韓国囲碁リーグ | Choi Cheolhan | Weon Seongjin | Lose | B+R | 6.5 | 3464 | -43 | 
+| 2012-09-14 | 2012年韓国囲碁リーグ | Heo Jin | Weon Seongjin | Win | W+R | 6.5 | 3507 | 22 | 
+| 2012-09-08 | 第14回中国囲碁甲級リーグ第14節 | Mi Yuting | Weon Seongjin | Win | W+R | 7.5 | 3485 | 16 | 
+| 2012-09-05 | 第17回三星火災杯世界囲碁マスターズ1回戦B2 | Weon Seongjin | Fan Tingyu | Win | B+R | 6.5 | 3469 | 9 | 
+| 2012-09-04 | 第17回三星火災杯世界囲碁マスターズ1回戦B1 | Peng Liyao | Weon Seongjin | Win | W+R | 6.5 | 3460 | 3 | 
+| 2012-09-01 | 第14回中国囲碁甲級リーグ第13節 | Huang Chen | Weon Seongjin | Lose | B+R | 7.5 | 3457 | -18 | 
+| 2012-08-30 | 第14回中国囲碁甲級リーグ第12節 | Weon Seongjin | Qiu Jun | Lose | W+R | 7.5 | 3475 | 9 | 
+| 2012-08-27 | 第56期国手戦（韓国）2回戦 | Weon Seongjin |  | Lose | W+1.5 | 6.5 | 3466 | 29 | 
+| 2012-08-23 | 2012年韓国囲碁リーグ | Yun Junsang | Weon Seongjin | Win | W+R | 6.5 | 3437 | 3 | 
+| 2012-08-12 | 2012年韓国囲碁リーグ | Kang Dongyun | Weon Seongjin | Win | W+R | 6.5 | 3434 | 41 | 
+| 2012-08-04 | 2012年韓国囲碁リーグ | Weon Seongjin | Lee Sedol | Lose | W+R | 6.5 | 3393 | -96 | 
+| 2012-07-27 | 2012年韓国囲碁リーグ | Weon Seongjin | Song Taekon | Win | B+R | 6.5 | 3489 | 0 | 
+| 2012-07-26 | 第56期国手戦（韓国）1回戦 | Weon Seongjin | Park Yeonghun | Win | B+1.5 | 6.5 | 3489 | 33 | 
+| 2012-07-14 | 2012年韓国囲碁リーグ | Lee Wonyoung | Weon Seongjin | Win | W+R | 6.5 | 3456 | -2 | 
+| 2012-07-13 | 第14回中国囲碁甲級リーグ第10節 | Fan Tingyu | Weon Seongjin | Win | W+R | 7.5 | 3458 | -33 | 
+| 2012-07-09 | 第31回KBS杯囲碁王戦本戦2回戦 | Na Hyun | Weon Seongjin | Win | W+R | 6.5 | 3491 | 7 | 
+| 2012-07-06 | 2012年韓国囲碁リーグ | Weon Seongjin | Cho Hunhyun | Win | B+R | 6.5 | 3484 | 36 | 
+| 2012-06-30 | 第14回中国囲碁甲級リーグ第8節 | Chen Yaoye | Weon Seongjin | Lose | B+R | 7.5 | 3448 | 36 | 
+| 2012-06-28 | 2012年韓国囲碁リーグ | Choi Cheolhan | Weon Seongjin | Lose | B+R | 6.5 | 3412 | -19 | 
+| 2012-06-25 | 第8期物価情報杯プロ棋戦リーグD | Weon Seongjin | Han Sanghoon | Lose | W+R | 6.5 | 3431 | -20 | 
+| 2012-06-23 | 第14回中国囲碁甲級リーグ第7節 | Weon Seongjin | Shi Yue | Lose | W+R | 7.5 | 3451 | -14 | 
+| 2012-06-21 | 2012年韓国囲碁リーグ | Weon Seongjin | Heo Yongho | Lose | W+R | 6.5 | 3465 | -18 | 
+| 2012-06-20 | 第17回LG杯世界棋王戦2回戦 | Weon Seongjin |  | Win | B+5.5 | 6.5 | 3483 | 4 | 
+| 2012-06-18 | 第17回LG杯世界棋王戦1回戦 | Weon Seongjin | Tan Xiao | Win | B+R | 6.5 | 3479 | 6 | 
+| 2012-06-14 | 第14回中国囲碁甲級リーグ第6節 | Zhou Hexi | Weon Seongjin | Lose | B+R | 7.5 | 3473 | -81 | 
+| 2012-06-11 | 第31回KBS杯囲碁王戦本戦1回戦 | Lee Jihyun | Weon Seongjin | Win | W+R | 6.5 | 3554 | 25 | 
+| 2012-06-09 | 2012年韓国囲碁リーグ | Weon Seongjin |  | Lose | W+5.5 | 6.5 | 3529 | 56 | 
+| 2012-05-30 | 第14回中国囲碁甲級リーグ第4節 | Tan Xiao | Weon Seongjin | Lose | B+R | 7.5 | 3473 | 1 | 
+| 2012-05-25 | 第7回応氏杯世界選手権2回戦 | Weon Seongjin | Gu Li | Lose | W+3 | 7.5 | 3472 | -57 | 
+| 2012-05-23 | 第7回応氏杯世界選手権1回戦 | Weon Seongjin | Chen Yaoye | Win | B+R | 7.5 | 3529 | 19 | 
+| 2012-05-20 | 第8期物価情報杯プロ棋戦リーグD | Park Junghwan | Weon Seongjin | Lose | B+R | 6.5 | 3510 | -5 | 
+| 2012-05-19 | 2012年韓国囲碁リーグ | Mok Jinseok | Weon Seongjin | Win | W+R | 6.5 | 3515 | 31 | 
+| 2012-05-11 | 2012年韓国囲碁リーグ | Weon Seongjin | Lee Sedol | Win | B+R | 6.5 | 3484 | -72 | 
+| 2012-05-04 | 第8期物価情報杯プロ棋戦リーグD | Choi Cheolhan | Weon Seongjin | Win | W+R | 6.5 | 3556 | 0 | 
+| 2012-05-03 | 2012年韓国囲碁リーグ | Park Yeonghun | Weon Seongjin | Win | W+R | 6.5 | 3556 | -27 | 
+| 2012-04-30 | 第14回中国囲碁甲級リーグ第2節 | Wang Haoyang | Weon Seongjin | Lose | B+R | 7.5 | 3583 | -20 | 
+| 2012-04-28 | 第14回中国囲碁甲級リーグ第1節 | Hu Yaoyu | Weon Seongjin | Win | W+R | 7.5 | 3603 | -3 | 
+| 2012-04-20 | 2012年韓国囲碁リーグ | Kim Kiwon | Weon Seongjin | Lose | B+R | 6.5 | 3606 | -2 | 
+| 2012-04-13 | 2012年韓国囲碁リーグ | Hong Kipyo | Weon Seongjin | Win | W+R | 6.5 | 3608 | 30 | 
+| 2012-04-04 | 第17期GSカルテックス杯プロ棋戦3回戦 | Lee Sedol | Weon Seongjin | Lose | B+R | 6.5 | 3578 | -17 | 
+| 2012-03-30 | 第9回春蘭杯世界囲碁選手権2回戦 | Gu Lingyi | Weon Seongjin | Win | W+R | 7.5 | 3595 | 2 | 
+| 2012-03-28 | 第9回春蘭杯世界囲碁選手権1回戦 | Tan Xiao | Weon Seongjin | Win | W+R | 7.5 | 3593 | 19 | 
+| 2012-03-25 | 第2期招商地産杯中韓囲棋団体対抗戦第2戦 | Weon Seongjin | Piao Wenyao | Lose | W+R | 7.5 | 3574 | -6 | 
+| 2012-03-23 | 第2期招商地産杯中韓囲棋団体対抗戦第1戦 | Weon Seongjin | Peng Liyao | Lose | W+R | 7.5 | 3580 | -4 | 
+| 2012-03-16 | 第4回BCカード杯世界選手権2回戦 | Paek Hongseok | Weon Seongjin | Lose | B+R | 6.5 | 3584 | -18 | 
+| 2012-03-10 | 第1回百霊杯世界囲碁選手権予選 | Weon Seongjin | Rui Naiwei | Lose | W+R | 7.5 | 3602 | -79 | 
+| 2012-03-07 | 第7回応氏杯世界選手権韓国選抜戦 | Park Yeonghun | Weon Seongjin | Win | W+3 | 7.5 | 3681 | 15 | 
+| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Tuo Jiaxi | Weon Seongjin | Win | W+3.5 | 6.5 | 3666 | -49 | 
+| 2012-02-23 | 第13回農心辛ラーメン杯世界囲碁最強戦第13戦 | Weon Seongjin | Xie He | Lose | W+R | 6.5 | 3715 | -27 | 
+| 2012-02-17 | 第7回応氏杯世界選手権韓国選抜戦 | Yun Junsang | Weon Seongjin | Win | W+R | 7.5 | 3742 | 116 | 
+| 2012-02-12 | 第13回マキシムコーヒー杯入神最強戦準決勝 | Weon Seongjin | Choi Cheolhan | Lose | W+R | 6.5 | 3626 | -20 | 
+| 2012-02-08 | 第17期GSカルテックス杯プロ棋戦2回戦 | Park Cheongsang | Weon Seongjin | Win | W+R | 6.5 | 3646 | 3 | 
+| 2012-02-06 | 第30回KBS杯囲碁王戦敗者復活戦4回戦 | Kim Kiyoung | Weon Seongjin | Lose | B+R | 6.5 | 3643 | 49 | 
+| 2012-01-18 | 第13回マキシムコーヒー杯入神最強戦3回戦 | An Joyeong | Weon Seongjin | Win | W+R | 6.5 | 3594 | 17 | 
+| 2012-01-16 | 第30回KBS杯囲碁王戦本戦4回戦 | Kang Dongyun | Weon Seongjin | Lose | B+R | 6.5 | 3577 | -93 | 
+| 2011-12-14 | 第13回マキシムコーヒー杯入神最強戦2回戦 | Song Taekon | Weon Seongjin | Win | W+R | 6.5 | 3670 | -3 | 
+| 2011-12-12 | 第30回KBS杯囲碁王戦本戦3回戦 | Kim Kiyoung | Weon Seongjin | Win | W+0.5 | 6.5 | 3673 | 416 | 
+| 2011-12-07 | 第16回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Weon Seongjin | Gu Li | Win | B+R | 6.5 | 3257 | 0 | 
+| 2011-12-06 | 第16回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Weon Seongjin | Gu Li | Lose | W+R | 6.5 | 3257 | -7 | 
+| 2011-12-05 | 第16回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Gu Li | Weon Seongjin | Win | W+R | 6.5 | 3264 | 60 | 
+| 2011-11-21 | 第16回LG杯世界棋王戦3回戦 | Jiang Weijie | Weon Seongjin | Lose | B+R | 6.5 | 3204 | -2 | 
+| 2011-11-17 | 2011年韓国囲碁リーグ | Weon Seongjin |  | Win | B+4.5 | 6.5 | 3206 | 12 | 
+| 2011-11-16 | 第13回マキシムコーヒー杯入神最強戦1回戦 | Park Cheongsang | Weon Seongjin | Win | W+R | 6.5 | 3194 | -40 | 
+| 2011-11-03 | 第16回三星火災杯世界囲碁マスターズ準決勝三番勝負第3局 | Chen Yaoye | Weon Seongjin | Win | W+7.5 | 6.5 | 3234 | 1 | 
+| 2011-11-02 | 第16回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Chen Yaoye | Weon Seongjin | Lose | B+2.5 | 6.5 | 3233 | -2 | 
+| 2011-10-31 | 第16回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Weon Seongjin | Chen Yaoye | Win | B+R | 6.5 | 3235 | -4 | 
+| 2011-10-29 | 2011年韓国囲碁リーグ | Weon Seongjin | Han Sanghoon | Win | B+R | 6.5 | 3239 | 18 | 
+| 2011-10-20 | 2011年韓国囲碁リーグ | Cho Hanseung | Weon Seongjin | Lose | B+R | 6.5 | 3221 | -40 | 
+| 2011-10-05 | 第16回三星火災杯世界囲碁マスターズ2回戦 | Park Yeonghun | Weon Seongjin | Win | W+R | 6.5 | 3261 | 24 | 
+| 2011-10-04 | 第16回三星火災杯世界囲碁マスターズ1回戦 | Weon Seongjin | Li Xuanhao | Win | B+R | 6.5 | 3237 | -31 | 
+| 2011-09-30 | 2011年韓国囲碁リーグ | Lee Jihyun | Weon Seongjin | Win | W+1.5 | 6.5 | 3268 | 5 | 
+| 2011-09-28 | 第39期名人戦（韓国）1回戦 | Weon Seongjin | Kim Seongjae | Lose | W+R | 6.5 | 3263 | -24 | 
+| 2011-09-21 | 2011年韓国囲碁リーグ | Choi Cheolhan | Weon Seongjin | Lose | B+R | 6.5 | 3287 | 0 | 
+| 2011-09-19 | 第16期バッカス杯天元戦2回戦 | Choi Cheolhan | Weon Seongjin | Lose | B+R | 6.5 | 3287 | -14 | 
+| 2011-09-18 | 2011年韓国囲碁リーグ | Paek Hongseok | Weon Seongjin | Win | W+R | 6.5 | 3301 | 4 | 
+| 2011-09-16 | 第55期国手戦（韓国）挑戦者決定戦第2局 | Weon Seongjin | Cho Hanseung | Lose | W+R | 6.5 | 3297 | 43 | 
+| 2011-09-06 | 第55期国手戦（韓国）挑戦者決定戦第1局 | Cho Hanseung | Weon Seongjin | Lose | B+R | 6.5 | 3254 | -15 | 
+| 2011-09-04 | 2011年韓国囲碁リーグ | Jin Donggyu | Weon Seongjin | Win | W+R | 6.5 | 3269 | 1 | 
+| 2011-08-25 | 第16回三星火災杯世界囲碁マスターズ1回戦G2 |  | Weon Seongjin | Win | W+R | 6.5 | 3268 | 6 | 
+| 2011-08-24 | 第16回三星火災杯世界囲碁マスターズ1回戦G1 | Li Xuanhao | Weon Seongjin | Win | W+R | 6.5 | 3262 | 12 | 
+| 2011-08-19 | 第55期国手戦（韓国）準決勝 | Park Junghwan | Weon Seongjin | Win | W+0.5 | 6.5 | 3250 | 11 | 
+| 2011-08-16 | 第16期バッカス杯天元戦1回戦 | On Sojin | Weon Seongjin | Win | W+R | 6.5 | 3239 | -23 | 
+| 2011-08-14 | 2011年韓国囲碁リーグ | Weon Seongjin | Jin Siyoung | Win | B+R | 6.5 | 3262 | 18 | 
+| 2011-07-29 | 第1回スポーツアコードワールドマインドゲームズ囲碁韓国予選 | Weon Seongjin | Kim Jiseok | Lose | W+R | 6.5 | 3244 | -19 | 
+| 2011-07-27 | 第55期国手戦（韓国）2回戦 | Heo Yongho | Weon Seongjin | Win | W+R | 6.5 | 3263 | 18 | 
+| 2011-07-22 | 2011年韓国囲碁リーグ | Weon Seongjin | Lee Jungwoo | Win | B+5.5 | 6.5 | 3245 | -15 | 
+| 2011-07-18 | 第30回KBS杯囲碁王戦本戦2回戦 | Ju Hyeongwuk | Weon Seongjin | Win | W+R | 6.5 | 3260 | 3 | 
+| 2011-07-16 | 2011年韓国囲碁リーグ | Weon Seongjin | Hong Seongji | Lose | W+7.5 | 6.5 | 3257 | -4 | 
+| 2011-07-15 | 第13回農心杯韓国選抜戦 | Park Junghwan | Weon Seongjin | Win | W+R | 6.5 | 3261 | 12 | 
+| 2011-07-11 | 第13回農心杯韓国選抜戦 | Weon Seongjin | Hong Seongji | Win | B+1.5 | 6.5 | 3249 | -44 | 
+| 2011-07-04 | 第13回農心杯韓国選抜戦 | Lee Wondo | Weon Seongjin | Win | W+R | 6.5 | 3293 | -67 | 
+| 2011-06-26 | 2011年韓国囲碁リーグ | Park Cheongsang | Weon Seongjin | Win | W+R | 6.5 | 3360 | -48 | 
+| 2011-06-23 | 第55期国手戦（韓国）1回戦 | Ko Keuntae | Weon Seongjin | Win | W+R | 6.5 | 3408 | -14 | 
+| 2011-06-17 | 2011年韓国囲碁リーグ | Weon Seongjin | An Sungjoon | Lose | W+2.5 | 6.5 | 3422 | -23 | 
+| 2011-06-15 | 第16回LG杯世界棋王戦2回戦 | Weon Seongjin | Zhou Heyang | Win | B+2.5 | 6.5 | 3445 | -8 | 
+| 2011-06-13 | 第16回LG杯世界棋王戦1回戦 | Sakai Hideyuki | Weon Seongjin | Win | W+T | 6.5 | 3453 | -31 | 
+| 2011-06-02 | 2011年韓国囲碁リーグ | Kim Junghyun | Weon Seongjin | Win | W+R | 6.5 | 3484 | 49 | 
+| 2011-05-24 | 第55期国手戦（韓国）予選 | Weon Seongjin | Lee Hobum | Win | B+R | 6.5 | 3435 | 6 | 
+| 2011-05-23 | 第30回KBS杯囲碁王戦本戦1回戦 | Kim Juho | Weon Seongjin | Win | W+R | 6.5 | 3429 | 6 | 
+| 2011-05-22 | 2011年韓国囲碁リーグ | Weon Seongjin | Jin Donggyu | Lose | W+R | 6.5 | 3423 | -6 | 
+| 2011-05-17 | 第7期物価情報杯プロ棋戦リーグA | Choi Cheolhan | Weon Seongjin | Lose | B+1.5 | 6.5 | 3429 | 39 | 
+| 2011-05-13 | 2011年中国囲碁乙級リーグ |  | Weon Seongjin | Win | W+R | 7.5 | 3390 | -46 | 
+| 2011-05-11 | 2011年中国囲碁乙級リーグ | Weon Seongjin | Kang Dongyun | Lose | W+2.5 | 7.5 | 3436 | -4 | 
+| 2011-05-10 | 2011年中国囲碁乙級リーグ | Weon Seongjin |  | Win | B+3.5 | 7.5 | 3440 | 16 | 
+| 2011-05-08 | 2011年中国囲碁乙級リーグ | Lee Wonyoung | Weon Seongjin | Lose | B+R | 7.5 | 3424 | -12 | 
+| 2011-05-07 | 2011年中国囲碁乙級リーグ | Weon Seongjin |  | Lose | W+R | 7.5 | 3436 | -34 | 
+| 2011-04-26 | 第55期国手戦（韓国）予選 | Weon Seongjin | Lee Hyungjin | Win | B+R | 6.5 | 3470 | 34 | 
+| 2011-04-13 | 第7期物価情報杯プロ棋戦リーグA | Weon Seongjin | Kang Dongyun | Lose | W+R | 6.5 | 3436 | -18 | 
+| 2011-04-11 | 第16期GSカルテックス杯プロ棋戦2回戦 | Kang Changbae | Weon Seongjin | Lose | B+5.5 | 6.5 | 3454 | -80 | 
+| 2011-03-05 | 第6期圓益杯十段戦4回戦 | Kang Yootaek | Weon Seongjin | Lose | B+R | 6.5 | 3534 | 73 | 
+| 2011-02-11 | 第24回世界囲碁選手権富士通杯韓国予選決勝 | Weon Seongjin | Lee Yeongkyu | Lose | W+1.5 | 6.5 | 3461 | -7 | 
+| 2011-02-09 | 第24回世界囲碁選手権富士通杯韓国予選 | Lee Changho | Weon Seongjin | Win | W+R | 6.5 | 3468 | 4 | 
+| 2011-01-26 | 第3回BCカード杯世界選手権統合予選決勝 | Weon Seongjin | Piao Wenyao | Lose | W+R | 6.5 | 3464 | -20 | 
+| 2011-01-25 | 第3回BCカード杯世界選手権統合予選 | Wang Haoyang | Weon Seongjin | Win | W+R | 6.5 | 3484 | 130 | 
+| 2011-01-05 | 第6期圓益杯十段戦3回戦 | Kang Dongyun | Weon Seongjin | Win | W+R | 6.5 | 3354 | 55 | 
+| 2010-12-27 | 第6期圓益杯十段戦2回戦 | Kim Dongho | Weon Seongjin | Win | W+R | 6.5 | 3299 | 13 | 
+| 2010-12-21 | 第12回マキシムコーヒー杯入神最強戦2回戦 | Weon Seongjin | Kang Dongyun | Lose | W+R | 6.5 | 3286 | 72 | 
+| 2010-12-07 | 第12回マキシムコーヒー杯入神最強戦1回戦 | Kim Seungjun | Weon Seongjin | Win | W+6.5 | 6.5 | 3214 | -6 | 
+| 2010-12-02 | 第6期圓益杯十段戦1回戦 | Weon Seongjin | Lee Minjin | Win | B+R | 6.5 | 3220 | -24 | 
+| 2010-11-15 | 第15期GSカルテックス杯プロ棋戦挑戦手合五番勝負第4局 | Weon Seongjin | Cho Hanseung | Win | B+1.5 | 6.5 | 3244 | -10 | 
+| 2010-11-12 | 第54期国手戦（韓国）2回戦 | Weon Seongjin | Choi Cheolhan | Lose | W+R | 6.5 | 3254 | -14 | 
+| 2010-11-11 | 第38期名人戦（韓国）決勝五番勝負第5局 | Weon Seongjin | Park Yeonghun | Lose | W+R | 6.5 | 3268 | -12 | 
+| 2010-11-09 | 第38期名人戦（韓国）決勝五番勝負第4局 | Weon Seongjin | Park Yeonghun | Lose | W+1.5 | 6.5 | 3280 | -22 | 
+| 2010-11-05 | 第15期GSカルテックス杯プロ棋戦挑戦手合五番勝負第3局 | Cho Hanseung | Weon Seongjin | Win | W+0.5 | 6.5 | 3302 | 11 | 
+| 2010-11-03 | 第15期GSカルテックス杯プロ棋戦挑戦手合五番勝負第2局 | Weon Seongjin | Cho Hanseung | Win | B+1.5 | 6.5 | 3291 | 2 | 
+| 2010-11-01 | 第15期GSカルテックス杯プロ棋戦挑戦手合五番勝負第1局 | Cho Hanseung | Weon Seongjin | Lose | B+R | 6.5 | 3289 | -2 | 
+| 2010-10-27 | 第38期名人戦（韓国）決勝五番勝負第3局 | Park Yeonghun | Weon Seongjin | Win | W+R | 6.5 | 3291 | -2 | 
+| 2010-10-25 | 第38期名人戦（韓国）決勝五番勝負第2局 | Weon Seongjin | Park Yeonghun | Win | B+R | 6.5 | 3293 | 11 | 
+| 2010-10-23 | 第38期名人戦（韓国）決勝五番勝負第1局 | Park Yeonghun | Weon Seongjin | Lose | B+R | 6.5 | 3282 | -18 | 
+| 2010-10-14 | 第15回三星火災杯世界囲碁マスターズ3回戦 | Park Junghwan | Weon Seongjin | Lose | B+R | 6.5 | 3300 | 1 | 
+| 2010-10-13 | 第15回三星火災杯世界囲碁マスターズ2回戦 | Weon Seongjin | Zhou Ruiyang | Win | B+R | 6.5 | 3299 | 4 | 
+| 2010-10-07 | 第15期GSカルテックス杯プロ棋戦挑戦者決定戦 | Park Yeonghun | Weon Seongjin | Win | W+R | 6.5 | 3295 | 154 | 
+| 2010-09-29 | 第15期GSカルテックス杯プロ棋戦準決勝 | Weon Seongjin | Kim Jiseok | Win | B+R | 6.5 | 3141 | -27 | 
+| 2010-09-19 | 第38期名人戦（韓国）準決勝第2局 | Kang Dongyun | Weon Seongjin | Win | W+R | 6.5 | 3168 | 2 | 
+| 2010-09-14 | 第38期名人戦（韓国）準決勝第1局 | Weon Seongjin | Kang Dongyun | Win | B+R | 6.5 | 3166 | 72 | 
+| 2010-09-09 | 第15回三星火災杯世界囲碁マスターズ1回戦A2 | Choi Cheolhan | Weon Seongjin | Win | W+R | 6.5 | 3094 | 19 | 
+| 2010-09-08 | 第15回三星火災杯世界囲碁マスターズ1回戦A1 | Qiu Jun | Weon Seongjin | Win | W+R | 6.5 | 3075 | 16 | 
+| 2010-09-05 | 第38期名人戦（韓国）リーグプレーオフ | Kim Kiyoung | Weon Seongjin | Win | W+R | 6.5 | 3059 | 10 | 
+| 2010-09-03 | 2010年韓国囲碁リーグ | Heo Yongho | Weon Seongjin | Lose | B+2.5 | 6.5 | 3049 | -20 | 
+| 2010-08-30 | 第38期名人戦（韓国）リーグプレーオフ | Cho Hanseung | Weon Seongjin | Win | W+R | 6.5 | 3069 | 5 | 
+| 2010-08-16 | 第54期国手戦（韓国）1回戦 | Ju Hyeongwuk | Weon Seongjin | Win | W+R | 6.5 | 3064 | 20 | 
+| 2010-08-08 | 第6期物価情報杯プロ棋戦決勝トーナメント準決勝 | Lee Sedol | Weon Seongjin | Lose | B+R | 6.5 | 3044 | -50 | 
+| 2010-08-04 | 第15回三星火災杯統合予選2回戦 | Ohashi Hirofumi | Weon Seongjin | Win | W+R | 6.5 | 3094 | 3 | 
+| 2010-07-29 | 第38期名人戦（韓国）リーグB | Weon Seongjin | Hong Seongji | Win | B+R | 6.5 | 3091 | 32 | 
+| 2010-07-25 | 2010年韓国囲碁リーグ | Kang Dongyun | Weon Seongjin | Lose | B+R | 6.5 | 3059 | -9 | 
+| 2010-07-21 | 第15期GSカルテックス杯プロ棋戦3回戦 | Weon Seongjin | An Joyeong | Win | B+R | 6.5 | 3068 | 14 | 
+| 2010-07-18 | 第6期物価情報杯プロ棋戦決勝トーナメント1回戦 | Park Yeonghun | Weon Seongjin | Win | W+R | 6.5 | 3054 | 12 | 
+| 2010-07-16 | 第12回農心杯韓国選抜戦 | Jen Youngkyu | Weon Seongjin | Lose | B+3.5 | 6.5 | 3042 | -12 | 
+| 2010-07-13 | 第38期名人戦（韓国）リーグB | Weon Seongjin | Park Yeonghun | Lose | W+R | 6.5 | 3054 | -15 | 
+| 2010-07-09 | 2010年韓国囲碁リーグ | Weon Seongjin | Paek Hongseok | Win | B+R | 6.5 | 3069 | -61 | 
+| 2010-06-22 | 第38期名人戦（韓国）リーグB | Weon Seongjin | Kim Kiyoung | Lose | W+0.5 | 6.5 | 3130 | 53 | 
+| 2010-06-08 | 第38期名人戦（韓国）リーグB | Weon Seongjin | Cho Hanseung | Win | B+R | 6.5 | 3077 | 33 | 
+| 2010-05-28 | 第15期GSカルテックス杯プロ棋戦2回戦 | Weon Seongjin | Kim Seonryong | Win | B+R | 6.5 | 3044 | 41 | 
+| 2010-05-20 | 第38期名人戦（韓国）リーグB | Weon Seongjin |  | Win | B+R | 6.5 | 3003 | 45 | 
+| 2010-05-12 | 2010年中国囲碁乙級リーグ | Lee Changho | Weon Seongjin | Win | W+R | 7.5 | 2958 | 7 | 
+| 2010-05-01 | 第6期物価情報杯プロ棋戦リーグD | Kang Dongyun | Weon Seongjin | Win | W+R | 6.5 | 2951 | 14 | 
+| 2010-03-29 | 第6期物価情報杯プロ棋戦リーグD | Weon Seongjin | Hong Minpyo | Win | B+5.5 | 6.5 | 2937 | -12 | 
+| 2010-02-23 | 第11回マキシムコーヒー杯入神最強戦3回戦 | Weon Seongjin | Choi Cheolhan | Lose | W+R | 6.5 | 2949 | -5 | 
+| 2010-02-19 | 第8回春蘭杯韓国予選 | Weon Seongjin | Heo Yongho | Lose | W+0.5 | 6.5 | 2954 | 8 | 
+| 2010-02-02 | 第23回世界囲碁選手権富士通杯韓国予選 | Weon Seongjin | Mok Jinseok | Lose | W+R | 6.5 | 2946 | -93 | 
+| 2010-01-16 | 第2回BCカード杯世界選手権1回戦 | Park Seunghyeon | Weon Seongjin | Lose | B+2.5 | 6.5 | 3039 | -6 | 
+| 2010-01-05 | 第11回マキシムコーヒー杯入神最強戦2回戦 | Mok Jinseok | Weon Seongjin | Win | W+0.5 | 6.5 | 3045 | 11 | 
+| 2009-12-14 | 第28回KBS杯囲碁王戦敗者復活戦3回戦 | Lee Changho | Weon Seongjin | Lose | B+R | 6.5 | 3034 | -5 | 
+| 2009-12-10 | 第37期名人戦（韓国）決勝五番勝負第4局 | Lee Changho | Weon Seongjin | Lose | B+0.5 | 6.5 | 3039 | 1 | 
+| 2009-12-08 | 第37期名人戦（韓国）決勝五番勝負第3局 | Weon Seongjin | Lee Changho | Lose | W+3.5 | 6.5 | 3038 | -11 | 
+| 2009-12-03 | 第37期名人戦（韓国）決勝五番勝負第2局 | Lee Changho | Weon Seongjin | Win | W+1.5 | 6.5 | 3049 | 31 | 
+| 2009-12-01 | 第37期名人戦（韓国）決勝五番勝負第1局 | Weon Seongjin | Lee Changho | Lose | W+R | 6.5 | 3018 | -173 | 
+| 2009-11-14 | 2009年韓国囲碁リーグ | Han Wonggyu | Weon Seongjin | Win | W+R | 6.5 | 3191 | 7 | 
+| 2009-11-13 | 第37期名人戦（韓国）準決勝第3局 | Hong Seongji | Weon Seongjin | Win | W+1.5 | 6.5 | 3184 | 13 | 
+| 2009-11-12 | 第37期名人戦（韓国）準決勝第2局 | Weon Seongjin | Hong Seongji | Win | B+3.5 | 6.5 | 3171 | 15 | 
+| 2009-11-10 | 第37期名人戦（韓国）準決勝第1局 | Hong Seongji | Weon Seongjin | Lose | B+R | 6.5 | 3156 | 0 | 
+| 2009-10-25 | 第37期名人戦（韓国）リーグB | Lee Changho | Weon Seongjin | Lose | B+5.5 | 6.5 | 3156 | -36 | 
+| 2009-10-16 | 第14期GSカルテックス杯プロ棋戦リーグ | Weon Seongjin | Yun Junsang | Lose | W+R | 6.5 | 3192 | -54 | 
+| 2009-10-07 | 第14期GSカルテックス杯プロ棋戦リーグ | Weon Seongjin | Hong Kipyo | Win | B+R | 6.5 | 3246 | 52 | 
+| 2009-10-01 | 2009年韓国囲碁リーグ | Choi Cheolhan | Weon Seongjin | Lose | B+R | 6.5 | 3194 | -7 | 
+| 2009-09-29 | 第37期名人戦（韓国）リーグB | Weon Seongjin | Choi Myeonghun | Win | B+R | 6.5 | 3201 | 4 | 
+| 2009-09-20 | 2009年韓国囲碁リーグ | Kim Hyeongwoo | Weon Seongjin | Win | W+R | 6.5 | 3197 | 13 | 
+| 2009-09-18 | 第5期圓益杯十段戦1回戦 | Weon Seongjin | Choi Cheolhan | Lose | W+R | 6.5 | 3184 | -28 | 
+| 2009-09-15 | 第37期名人戦（韓国）リーグB | Han Sanghoon | Weon Seongjin | Win | W+R | 6.5 | 3212 | 10 | 
+| 2009-08-31 | 第28回KBS杯囲碁王戦敗者復活戦1回戦 | Paek Daehyun | Weon Seongjin | Win | W+R | 6.5 | 3202 | 5 | 
+| 2009-08-29 | 2009年韓国囲碁リーグ | Park Junghwan | Weon Seongjin | Win | W+R | 6.5 | 3197 | 4 | 
+| 2009-08-22 | 2009年韓国囲碁リーグ | Weon Seongjin | Hong Seongji | Lose | W+4.5 | 6.5 | 3193 | -10 | 
+| 2009-08-20 | 第37期名人戦（韓国）リーグB |  | Weon Seongjin | Win | W+R | 6.5 | 3203 | -6 | 
+| 2009-08-15 | 2009年韓国囲碁リーグ | Weon Seongjin | Mok Jinseok | Lose | W+0.5 | 6.5 | 3209 | -7 | 
+| 2009-08-05 | 第14回三星火災杯統合予選2回戦 | Park Seunghwa | Weon Seongjin | Win | W+R | 6.5 | 3216 | 11 | 
+| 2009-07-30 | 第37期名人戦（韓国）リーグB | Weon Seongjin |  | Win | B+R | 6.5 | 3205 | 7 | 
+| 2009-07-27 | 第28回KBS杯囲碁王戦本戦2回戦 | Han Sanghoon | Weon Seongjin | Lose | B+3.5 | 6.5 | 3198 | -13 | 
+| 2009-07-09 | 2009年韓国囲碁リーグ | Jin Donggyu | Weon Seongjin | Win | W+R | 6.5 | 3211 | -5 | 
+| 2009-07-07 | 第14期GSカルテックス杯プロ棋戦リーグ | Weon Seongjin | Choi Cheolhan | Win | B+R | 6.5 | 3216 | 10 | 
+| 2009-06-28 | 2009年韓国囲碁リーグ | Weon Seongjin | Kang Yootaek | Win | B+R | 6.5 | 3206 | -20 | 
+| 2009-06-21 | 2009年韓国囲碁リーグ | Lee Taehyun | Weon Seongjin | Lose | B+R | 6.5 | 3226 | 127 | 
+| 2009-06-05 | 第14期GSカルテックス杯プロ棋戦リーグ | Lee Yeongkyu | Weon Seongjin | Lose | B+R | 6.5 | 3099 | -111 | 
+| 2009-05-24 | 2009年韓国囲碁リーグ | Weon Seongjin | Hong Seongji | Lose | W+5.5 | 6.5 | 3210 | -33 | 
+| 2009-05-20 | 第14回LG杯世界棋王戦2回戦 | Hu Yaoyu | Weon Seongjin | Lose | B+1.5 | 6.5 | 3243 | -7 | 
+| 2009-05-18 | 第14回LG杯世界棋王戦1回戦 | Yamashita Keigo | Weon Seongjin | Win | W+6.5 | 6.5 | 3250 | -2 | 
+| 2009-05-11 | 第14期GSカルテックス杯プロ棋戦リーグ | Cho Hanseung | Weon Seongjin | Lose | B+0.5 | 6.5 | 3252 | 62 | 
+| 2009-04-11 | 第22回世界囲碁選手権富士通杯1回戦 | Weon Seongjin | Iyama Yuta | Lose | W+R | 6.5 | 3190 | -28 | 
+| 2009-04-05 | 第1回BCカード杯世界選手権3回戦 | Lee Sedol | Weon Seongjin | Lose | B+R | 6.5 | 3218 | 27 | 
+| 2009-03-27 | 第14期GSカルテックス杯プロ棋戦リーグ | An Joyeong | Weon Seongjin | Lose | B+R | 6.5 | 3191 | -13 | 
+| 2009-03-23 | 第28回KBS杯囲碁王戦本戦1回戦 | Weon Seongjin | Park Junghwan | Win | B+R | 6.5 | 3204 | 16 | 
+| 2009-03-20 | 第1回BCカード杯世界選手権2回戦 | Wang Lei (b) | Weon Seongjin | Win | W+R | 6.5 | 3188 | -114 | 
+| 2009-01-07 | 第10回マキシムコーヒー杯入神最強戦準決勝 | Park Yeonghun | Weon Seongjin | Lose | B+R | 6.5 | 3302 | 159 | 
+| 2008-12-09 | 第13期GSカルテックス杯プロ棋戦挑戦手合五番勝負第3局 | Weon Seongjin | Park Yeonghun | Lose | W+R | 6.5 | 3143 | 222 | 
+| 2008-11-28 | 第13期GSカルテックス杯プロ棋戦挑戦手合五番勝負第2局 | Park Yeonghun | Weon Seongjin | Lose | B+2.5 | 6.5 | 2921 | -20 | 
+| 2008-11-26 | 第13期GSカルテックス杯プロ棋戦挑戦手合五番勝負第1局 | Weon Seongjin | Park Yeonghun | Lose | W+R | 6.5 | 2941 | 2 | 
+| 2008-11-24 | 第10回マキシムコーヒー杯入神最強戦2回戦 | Cho Daehyeon | Weon Seongjin | Win | W+2.5 | 6.5 | 2939 | 8 | 
+| 2008-11-20 | 第13期GSカルテックス杯プロ棋戦リーグ | Weon Seongjin | Choi Cheolhan | Win | B+R | 6.5 | 2931 | -9 | 
+| 2008-11-17 | 第36期名人戦（韓国）リーグプレーオフ | Weon Seongjin | Kang Dongyun | Lose | W+3.5 | 6.5 | 2940 | -43 | 
+| 2008-11-15 | 2008年韓国囲碁リーグ | Hong Minpyo | Weon Seongjin | Win | W+1.5 | 6.5 | 2983 | -7 | 
+| 2008-11-14 | 第36期名人戦（韓国）リーグプレーオフ | Lee Changho | Weon Seongjin | Win | W+R | 6.5 | 2990 | 3 | 
+| 2008-11-07 | 2008年韓国囲碁リーグ | Kang Dongyun | Weon Seongjin | Win | W+R | 6.5 | 2987 | 13 | 
+| 2008-11-04 | 第13期GSカルテックス杯プロ棋戦リーグ | Cho Hanseung | Weon Seongjin | Win | W+2.5 | 6.5 | 2974 | 16 | 
+| 2008-10-31 | 第36期名人戦（韓国）リーグ | Weon Seongjin | Lee Changho | Lose | W+R | 6.5 | 2958 | -628 | 
+| 2008-10-24 | 2008年韓国囲碁リーグ | Ko Keuntae | Weon Seongjin | Win | W+R | 6.5 | 3586 | 32 | 
+| 2008-10-17 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦決勝 | Weon Seongjin | Chang Hao | Win | B+R | 6.5 | 3554 | 0 | 
+| 2008-10-17 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Yoda Norimoto | Weon Seongjin | Win | W+3.5 | 6.5 | 3554 | 39 | 
+| 2008-10-10 | 2008年韓国囲碁リーグ | Weon Seongjin | Lee Changho | Win | B+R | 6.5 | 3515 | -15 | 
+| 2008-10-08 | 第13期GSカルテックス杯プロ棋戦リーグ | Weon Seongjin | Kim Seongjae | Win | B+4.5 | 6.5 | 3530 | 83 | 
+| 2008-10-06 | 第13期バッカス杯天元戦1回戦 | Weon Seongjin | Kang Yootaek | Lose | W+R | 6.5 | 3447 | -20 | 
+| 2008-09-26 | 2008年韓国囲碁リーグ | Lee Hyunho | Weon Seongjin | Win | W+2.5 | 6.5 | 3467 | -21 | 
+| 2008-09-16 | 第36期名人戦（韓国）リーグ | Weon Seongjin | Park Cheongsang | Win | B+R | 6.5 | 3488 | 25 | 
+| 2008-09-11 | 2008年韓国囲碁リーグ | Weon Seongjin | Cho Hanseung | Lose | W+R | 6.5 | 3463 | -21 | 
+| 2008-09-08 | 第13期GSカルテックス杯プロ棋戦リーグ | Weon Seongjin | Lee Sedol | Win | B+R | 6.5 | 3484 | -15 | 
+| 2008-08-26 | 第36期名人戦（韓国）リーグ | Weon Seongjin | Choi Myeonghun | Win | B+R | 6.5 | 3499 | 7 | 
+| 2008-08-16 | 2008年韓国囲碁リーグ | Kim Hyeongwoo | Weon Seongjin | Win | W+R | 6.5 | 3492 | 9 | 
+| 2008-08-14 | 第4期圓益杯十段戦1回戦 | Weon Seongjin | Kim Won | Win | B+R | 6.5 | 3483 | 347 | 
+| 2008-08-08 | 第13期GSカルテックス杯プロ棋戦リーグ | Park Cheongsang | Weon Seongjin | Win | W+2.5 | 6.5 | 3136 | -8 | 
+| 2008-08-05 | 第36期名人戦（韓国）リーグ | Weon Seongjin | Cho Hanseung | Win | B+R | 6.5 | 3144 | 8 | 
+| 2008-08-03 | 2008年韓国囲碁リーグ | Hong Minpyo | Weon Seongjin | Lose | B+R | 6.5 | 3136 | -17 | 
+| 2008-08-01 | 第13回三星火災杯予選準決勝 | Weon Seongjin | Kong Jie | Lose | W+3.5 | 6.5 | 3153 | -17 | 
+| 2008-07-21 | 第4期トヨタ＆デンソー杯囲碁世界王座戦韓国予選 | Weon Seongjin | Hong Seongji | Lose | W+1.5 | 6.5 | 3170 | 11 | 
+| 2008-07-10 | 2008年韓国囲碁リーグ | Paek Hongseok | Weon Seongjin | Lose | B+R | 6.5 | 3159 | -3 | 
+| 2008-07-08 | 第36期名人戦（韓国）リーグ | Mok Jinseok | Weon Seongjin | Win | W+2.5 | 6.5 | 3162 | 36 | 
+| 2008-06-26 | 第12回中韓天元対抗戦第2局 | Gu Li | Weon Seongjin | Win | W+R | 6.5 | 3126 | 13 | 
+| 2008-06-24 | 第12回中韓天元対抗戦第1局 | Weon Seongjin | Gu Li | Win | B+R | 6.5 | 3113 | 6 | 
+| 2008-06-10 | 第36期名人戦（韓国）リーグ | Kang Dongyun | Weon Seongjin | Lose | B+R | 6.5 | 3107 | 2 | 
+| 2008-05-28 | 第13回LG杯世界棋王戦2回戦 | Gu Li | Weon Seongjin | Lose | B+2.5 | 6.5 | 3105 | -20 | 
+| 2008-05-26 | 第13回LG杯世界棋王戦1回戦 | Li Kang | Weon Seongjin | Win | W+R | 6.5 | 3125 | 14 | 
+| 2008-05-22 | 2008年韓国囲碁リーグ | Weon Seongjin | Lee Yeongkyu | Win | B+R | 6.5 | 3111 | 11 | 
+| 2008-05-20 | 第36期名人戦（韓国）リーグ | Lee Sedol | Weon Seongjin | Lose | B+R | 6.5 | 3100 | -16 | 
+| 2008-05-16 | 2008年韓国囲碁リーグ | Cho Hanseung | Weon Seongjin | Win | W+R | 6.5 | 3116 | 2 | 
+| 2008-05-05 | 2008年韓国囲碁リーグ | Weon Seongjin | Yun Junsang | Lose | W+3.5 | 6.5 | 3114 | -1 | 
+| 2008-04-29 | 第13期GSカルテックス杯プロ棋戦リーグ | Weon Seongjin | Hong Seongji | Lose | W+R | 6.5 | 3115 | 210 | 
+| 2008-04-15 | 第36期名人戦（韓国）リーグ | Weon Seongjin | Choi Wongyong | Win | B+R | 6.5 | 2905 | 26 | 
+| 2008-03-17 | 第7回春蘭杯世界囲碁選手権2回戦 | Gu Li | Weon Seongjin | Lose | B+R | 7.5 | 2879 | -7 | 
+| 2008-03-15 | 第7回春蘭杯世界囲碁選手権1回戦 | Weon Seongjin | Cristian Pop | Win | B+R | 7.5 | 2886 | 28 | 
+| 2008-02-29 | 第13期GSカルテックス杯プロ棋戦リーグ | Yoo Changhyuk | Weon Seongjin | Win | W+R | 6.5 | 2858 | 3 | 
+| 2008-02-19 | 第36期名人戦（韓国）リーグ | Cho Hunhyun | Weon Seongjin | Win | W+R | 6.5 | 2855 | 14 | 
+| 2008-02-15 | 第7回春蘭杯韓国予選 | Park Yeonghun | Weon Seongjin | Win | W+1.5 | 6.5 | 2841 | -6 | 
+| 2008-02-14 | 第7回春蘭杯韓国予選 | Han Sanghoon | Weon Seongjin | Win | W+5.5 | 6.5 | 2847 | 8 | 
+| 2008-02-11 | 第21回世界囲碁選手権富士通杯韓国予選 | Weon Seongjin | Kang Dongyun | Lose | W+8.5 | 6.5 | 2839 | -2 | 
+| 2008-01-25 | 第36期名人戦（韓国）予選 | Weon Seongjin | Paek Hongseok | Win | B+R | 6.5 | 2841 | 46 | 
+| 2008-01-15 | 第18期BCカード杯新人王戦3回戦 | Kim Kiyoung | Weon Seongjin | Lose | B+1.5 | 6.5 | 2795 | 15 | 
+| 2007-12-21 | 第18期BCカード杯新人王戦2回戦 | Jen Youngkyu | Weon Seongjin | Win | W+R | 6.5 | 2780 | -12 | 
+| 2007-12-18 | 第12期バッカス杯天元戦決勝五番勝負第4局 | Kang Dongyun | Weon Seongjin | Win | W+R | 6.5 | 2792 | 21 | 
+| 2007-12-11 | 第12期バッカス杯天元戦決勝五番勝負第3局 | Weon Seongjin | Kang Dongyun | Lose | W+R | 6.5 | 2771 | -17 | 
+| 2007-12-06 | 第3期圓益杯十段戦4回戦 | Weon Seongjin | Paek Hongseok | Lose | W+3.5 | 6.5 | 2788 | -23 | 
+| 2007-12-04 | 第12期バッカス杯天元戦決勝五番勝負第2局 | Kang Dongyun | Weon Seongjin | Win | W+R | 6.5 | 2811 | 16 | 
+| 2007-11-21 | 第12期バッカス杯天元戦決勝五番勝負第1局 | Weon Seongjin | Kang Dongyun | Win | B+R | 6.5 | 2795 | 17 | 
+| 2007-11-16 | 第3期圓益杯十段戦3回戦 | Weon Seongjin | Lee Sedol | Win | B+R | 6.5 | 2778 | 42 | 
+| 2007-11-08 | 2007年韓国囲碁リーグ | Choi Cheolhan | Weon Seongjin | Win | W+R | 6.5 | 2736 | 48 | 
+| 2007-10-27 | 2007年韓国囲碁リーグ | Kim Kiyoung | Weon Seongjin | Win | W+1.5 | 6.5 | 2688 | 7 | 
+| 2007-10-11 | 第12期バッカス杯天元戦準決勝 | Weon Seongjin | Lee Sedol | Win | B+5.5 | 6.5 | 2681 | -3 | 
+| 2007-10-10 | 2007年韓国囲碁リーグ | Weon Seongjin | Lee Yeongkyu | Lose | W+R | 6.5 | 2684 | -13 | 
+| 2007-10-09 | 第19期棋聖戦（韓国）1回戦 | Mok Jinseok | Weon Seongjin | Lose | B+R | 6.5 | 2697 | -8 | 
+| 2007-10-07 | 2007年韓国囲碁リーグ | Hong Seongji | Weon Seongjin | Win | W+4.5 | 6.5 | 2705 | -1323 | 
+| 2007-09-20 | 2007年韓国囲碁リーグ | Cho Hunhyun | Weon Seongjin | Win | W+R | 6.5 | 4028 | 28 | 
+| 2007-09-17 | 第26回KBS杯囲碁王戦敗者復活戦3回戦 | Weon Seongjin | Kim Jiseok | Lose | W+R | 6.5 | 4000 | 1201 | 
+| 2007-09-03 | 第3期圓益杯十段戦2回戦 | Weon Seongjin |  | Win | B+0.5 | 6.5 | 2799 | 9 | 
+| 2007-09-02 | 2007年韓国囲碁リーグ | Weon Seongjin | Rui Naiwei | Win | B+R | 6.5 | 2790 | -311 | 
+| 2007-08-12 | 2007年韓国囲碁リーグ | Weon Seongjin | Park Seunghwa | Lose | W+R | 6.5 | 3101 | -8 | 
+| 2007-08-09 | 第12期バッカス杯天元戦2回戦 | Weon Seongjin | Lee Huiseong | Win | B+R | 6.5 | 3109 | 4 | 
+| 2007-08-08 | 第3期圓益杯十段戦1回戦 | Kim Kangkeun | Weon Seongjin | Win | W+R | 6.5 | 3105 | -173 | 
+| 2007-07-19 | 第9回農心杯韓国選抜戦 | Weon Seongjin | Kim Jiseok | Lose | W+3.5 | 6.5 | 3278 | -10 | 
+| 2007-07-18 | 2007年韓国囲碁リーグ | Weon Seongjin | Park Yeonghun | Lose | W+R | 6.5 | 3288 | 62 | 
+| 2007-07-13 | 第9回農心杯韓国選抜戦 | Lee Changho | Weon Seongjin | Win | W+R | 6.5 | 3226 | 84 | 
+| 2007-07-12 | 第3期物価情報杯プロ棋戦決勝トーナメント1回戦 | Weon Seongjin | Cho Hunhyun | Lose | W+R | 6.5 | 3142 | -90 | 
+| 2007-07-10 | 第51期国手戦（韓国）1回戦 | Lee Huiseong | Weon Seongjin | Lose | B+R | 6.5 | 3232 | -17 | 
+| 2007-07-07 | 2007年韓国囲碁リーグ | Hong Minpyo | Weon Seongjin | Lose | B+5.5 | 6.5 | 3249 | -36 | 
+| 2007-06-26 | 2007年中国囲碁乙級リーグ | So Yokoku | Weon Seongjin | Win | W+R | 7.5 | 3285 | 3 | 
+| 2007-06-22 | 2007年中国囲碁乙級リーグ | Weon Seongjin | Zhu Songli | Win | B+7.5 | 7.5 | 3282 | -18 | 
+| 2007-06-20 | 2007年中国囲碁乙級リーグ | Cho Hanseung | Weon Seongjin | Lose | B+3.5 | 7.5 | 3300 | -10 | 
+| 2007-06-19 | 2007年中国囲碁乙級リーグ | Yue Liang | Weon Seongjin | Win | W+2.5 | 7.5 | 3310 | 39 | 
+| 2007-06-06 | 2007年韓国囲碁リーグ | Weon Seongjin | Kim Seungjun | Win | B+R | 6.5 | 3271 | -4 | 
+| 2007-06-04 | 第3期物価情報杯プロ棋戦リーグD | Choi Wongyong | Weon Seongjin | Win | W+R | 6.5 | 3275 | -7 | 
+| 2007-06-02 | 2007年韓国囲碁リーグ |  | Weon Seongjin | Win | W+R | 6.5 | 3282 | 74 | 
+| 2007-05-18 | 2007年韓国囲碁リーグ | Weon Seongjin | Paek Hongseok | Win | B+R | 6.5 | 3208 | -20 | 
+| 2007-05-15 | 第12期バッカス杯天元戦1回戦 | Weon Seongjin | Kim Hyeoimin | Win | B+R | 6.5 | 3228 | 13 | 
+| 2007-05-11 | 第3期物価情報杯プロ棋戦リーグD | Park Yeonghun | Weon Seongjin | Win | W+R | 6.5 | 3215 | 4 | 
+| 2007-05-03 | 2007年韓国囲碁リーグ | Yun Junsang | Weon Seongjin | Lose | B+R | 6.5 | 3211 | -19 | 
+| 2007-05-01 | 第17期BCカード杯新人王戦決勝三番勝負第3局 | Paek Hongseok | Weon Seongjin | Win | W+10.5 | 6.5 | 3230 | 14 | 
+| 2007-04-19 | 第17期BCカード杯新人王戦決勝三番勝負第2局 | Paek Hongseok | Weon Seongjin | Lose | B+R | 6.5 | 3216 | -11 | 
+| 2007-04-16 | 第3期物価情報杯プロ棋戦リーグD | Weon Seongjin | Rui Naiwei | Win | B+R | 6.5 | 3227 | 6 | 
+| 2007-04-12 | 第17期BCカード杯新人王戦決勝三番勝負第1局 | Weon Seongjin | Paek Hongseok | Win | B+R | 6.5 | 3221 | 3 | 
+| 2007-04-02 | 第17期BCカード杯新人王戦準決勝 | Weon Seongjin | Yun Junsang | Win | B+R | 6.5 | 3218 | -4 | 
+| 2007-03-22 | 第41期王位戦1回戦 | Heo Yongho | Weon Seongjin | Lose | B+R | 6.5 | 3222 | 339 | 
+| 2007-02-21 | 第17期BCカード杯新人王戦3回戦 | Kim Juho | Weon Seongjin | Win | W+R | 6.5 | 2883 | -21 | 
+| 2007-02-05 | 第18期棋聖戦（韓国）準決勝 | Choi Cheolhan | Weon Seongjin | Lose | B+R | 6.5 | 2904 | 21 | 
+| 2007-01-16 | 第17期BCカード杯新人王戦2回戦 | Weon Seongjin | Kim Daehee | Win | B+R | 6.5 | 2883 | 55 | 
+| 2006-12-17 | 2006年韓国囲碁リーグ | Choi Wongyong | Weon Seongjin | Win | W+2.5 | 6.5 | 2828 | 7 | 
+| 2006-12-15 | 2006年韓国囲碁リーグ | Weon Seongjin | Choi Cheolhan | Lose | W+R | 6.5 | 2821 | -18 | 
+| 2006-12-10 | 2006年韓国囲碁リーグ | Cho Hanseung | Weon Seongjin | Win | W+R | 6.5 | 2839 | -1 | 
+| 2006-12-02 | 2006年韓国囲碁リーグ | Kim Hyeoimin | Weon Seongjin | Lose | B+1.5 | 6.5 | 2840 | -21 | 
+| 2006-11-23 | 第8回農心辛ラーメン杯世界囲碁最強戦第6戦 | Weon Seongjin | Peng Quan | Lose | W+3.5 | 6.5 | 2861 | -23 | 
+| 2006-11-18 | 2006年韓国囲碁リーグ | Ryu Chaehyeong | Weon Seongjin | Win | W+R | 6.5 | 2884 | 32 | 
+| 2006-11-10 | 第18期棋聖戦（韓国）2回戦 | Weon Seongjin | Han Chongjin | Win | B+R | 6.5 | 2852 | -13 | 
+| 2006-11-03 | 2006年韓国囲碁リーグ | Mok Jinseok | Weon Seongjin | Lose | B+R | 6.5 | 2865 | -90 | 
+| 2006-10-17 | 第50期国手戦（韓国）準決勝 | Weon Seongjin | Park Yeonghun | Lose | W+2.5 | 6.5 | 2955 | 15 | 
+| 2006-10-14 | 2006年韓国囲碁リーグ | Weon Seongjin | Kim Jiseok | Lose | W+3.5 | 6.5 | 2940 | -18 | 
+| 2006-09-30 | 2006年韓国囲碁リーグ | Weon Seongjin |  | Win | B+2.5 | 6.5 | 2958 | -23 | 
+| 2006-09-22 | 第50期国手戦（韓国）2回戦 |  | Weon Seongjin | Win | W+R | 6.5 | 2981 | -5 | 
+| 2006-09-12 | 2006年韓国囲碁リーグ | Weon Seongjin | Yoo Changhyuk | Win | B+R | 6.5 | 2986 | 22 | 
+| 2006-08-25 | 第18期棋聖戦（韓国）1回戦 | Weon Seongjin | Paek Daehyun | Win | B+4.5 | 6.5 | 2964 | -29 | 
+| 2006-08-17 | 2006年韓国囲碁リーグ | Weon Seongjin | Choi Wongyong | Win | B+R | 6.5 | 2993 | -3 | 
+| 2006-08-14 | 第11回三星火災杯予選2回戦 | Weon Seongjin |  | Win | B+R | 6.5 | 2996 | -28 | 
+| 2006-08-06 | 2006年韓国囲碁リーグ | Heo Yongho | Weon Seongjin | Win | W+9.5 | 6.5 | 3024 | 37 | 
+| 2006-07-24 | 第8回農心杯韓国選抜戦 | Heo Yongho | Weon Seongjin | Win | W+R | 6.5 | 2987 | 27 | 
+| 2006-07-21 | 第8回農心杯韓国選抜戦 | Weon Seongjin | Lee Sedol | Win | B+0.5 | 6.5 | 2960 | -9 | 
+| 2006-07-20 | 2006年韓国囲碁リーグ |  | Weon Seongjin | Lose | B+R | 6.5 | 2969 | -29 | 
+| 2006-07-14 | 2006年韓国囲碁リーグ | Weon Seongjin | Hong Minpyo | Win | B+1.5 | 6.5 | 2998 | -32 | 
+| 2006-07-01 | 2006年韓国囲碁リーグ | Kim Seungjun | Weon Seongjin | Lose | B+R | 6.5 | 3030 | -216 | 
+| 2006-06-17 | 2006年韓国囲碁リーグ | Lee Changho | Weon Seongjin | Win | W+1.5 | 6.5 | 3246 | 26 | 
+| 2006-06-15 | 第50期国手戦（韓国）1回戦 | Weon Seongjin | Lee Sedol | Win | B+15.5 | 6.5 | 3220 | 49 | 
+| 2006-05-29 | 第25回KBS杯囲碁王戦本戦3回戦 | Weon Seongjin | Lee Changho | Lose | W+3.5 | 6.5 | 3171 | 32 | 
+| 2006-05-25 | 2006年韓国囲碁リーグ | Weon Seongjin | Lee Huiseong | Win | B+0.5 | 6.5 | 3139 | 87 | 
+| 2006-05-19 | 第16期BCカード杯新人王戦決勝三番勝負第2局 | Weon Seongjin | Heo Yongho | Lose | W+5.5 | 6.5 | 3052 | -21 | 
+| 2006-05-14 | 2006年韓国囲碁リーグ | Weon Seongjin | Kang Dongyun | Win | B+R | 6.5 | 3073 | 25 | 
+| 2006-05-12 | 第16期BCカード杯新人王戦決勝三番勝負第1局 | Heo Yongho | Weon Seongjin | Lose | B+0.5 | 6.5 | 3048 | -46 | 
+| 2006-04-29 | 2006年韓国囲碁リーグ | Yun Junsang | Weon Seongjin | Win | W+3.5 | 6.5 | 3094 | 11 | 
+| 2006-04-23 | 第16期BCカード杯新人王戦準決勝 | Weon Seongjin | Kang Dongyun | Win | B+R | 6.5 | 3083 | -23 | 
+| 2006-04-16 | 2006年中国囲碁乙級リーグ |  | Weon Seongjin | Win | W+R | 7.5 | 3106 | 2 | 
+| 2006-04-14 | 2006年中国囲碁乙級リーグ |  | Weon Seongjin | Win | W+R | 7.5 | 3104 | 4 | 
+| 2006-04-07 | 第16期BCカード杯新人王戦3回戦 | Lee Yeongkyu | Weon Seongjin | Win | W+R | 6.5 | 3100 | 12 | 
+| 2006-03-31 | 第40期王位戦2回戦 | Lee Sedol | Weon Seongjin | Lose | B+8.5 | 6.5 | 3088 | -8 | 
+| 2006-02-07 | 第16期BCカード杯新人王戦2回戦 | Choi Wongyong | Weon Seongjin | Win | W+10.5 | 6.5 | 3096 | -240 | 
+| 2005-11-25 | 第7回農心辛ラーメン杯世界囲碁最強戦第7戦 | Weon Seongjin | Xie He | Lose | W+0.5 | 6.5 | 3336 | -6 | 
+| 2005-11-24 | 第7回農心辛ラーメン杯世界囲碁最強戦第6戦 | Weon Seongjin | Mimura Tomoyasu | Win | B+R | 6.5 | 3342 | 155 | 
+| 2005-10-29 | 2005年韓国囲碁リーグ | Kim Seonryong | Weon Seongjin | Win | W+R | 6.5 | 3187 | 4 | 
+| 2005-10-27 | 第17期棋聖戦（韓国）1回戦 | Lee Sedol | Weon Seongjin | Lose | B+R | 6.5 | 3183 | 62 | 
+| 2005-10-19 | 2005年国際新鋭囲碁対抗戦第3戦 | Liu Xing | Weon Seongjin | Win | W+R | 6.5 | 3121 | 14 | 
+| 2005-10-18 | 2005年国際新鋭囲碁対抗戦第2戦 | Weon Seongjin | Xia Daming | Win | B+R | 6.5 | 3107 | -9 | 
+| 2005-10-17 | 2005年国際新鋭囲碁対抗戦第1戦 | Mizokami Tomochika | Weon Seongjin | Lose | B+0.5 | 6.5 | 3116 | -64 | 
+| 2005-10-15 | 2005年韓国囲碁リーグ | An Joyeong | Weon Seongjin | Lose | B+2.5 | 6.5 | 3180 | 21 | 
+| 2005-09-24 | 2005年韓国囲碁リーグ | Yun Junsang | Weon Seongjin | Win | W+R | 6.5 | 3159 | 72 | 
+| 2005-09-09 | 第1期圓益杯十段戦1回戦 | Weon Seongjin | Lee Jungwoo | Win | B+R | 6.5 | 3087 | -17 | 
+| 2005-08-13 | 2005年韓国囲碁リーグ | Kim Juho | Weon Seongjin | Win | W+R | 6.5 | 3104 | -3 | 
+| 2005-07-30 | 2005年韓国囲碁リーグ | Weon Seongjin | Park Cheongsang | Win | B+R | 6.5 | 3107 | 24 | 
+| 2005-07-22 | 第10期バッカス杯天元戦1回戦 | Cho Hunhyun | Weon Seongjin | Lose | B+R | 6.5 | 3083 | -24 | 
+| 2005-07-20 | 第1期物価情報杯プロ棋戦リーグB | Cho Hanseung | Weon Seongjin | Lose | B+3.5 | 6.5 | 3107 | 42 | 
+| 2005-06-30 | 第1期物価情報杯プロ棋戦リーグB | Weon Seongjin | Kim Seonryong | Win | B+R | 6.5 | 3065 | 58 | 
+| 2005-06-29 | 第7回農心杯韓国選抜戦 | An Joyeong | Weon Seongjin | Win | W+R | 6.5 | 3007 | 287 | 
+| 2005-06-18 | 2005年韓国囲碁リーグ | Weon Seongjin | Hong Minpyo | Lose | W+2.5 | 6.5 | 2720 | -52 | 
+| 2005-06-12 | 第1期物価情報杯プロ棋戦リーグB | Lee Sedol | Weon Seongjin | Lose | B+9.5 | 6.5 | 2772 | 2772 | 
+| 2005-05-31 | 第39期王位戦挑戦者決定戦 | Weon Seongjin |  | Lose | W+R | 6.5 | missing | -2773 | 
+| 2005-05-27 | 第10期GSカルテックス杯プロ棋戦1回戦 | Weon Seongjin |  | Lose | W+0.5 | 6.5 | 2773 | -54 | 
+| 2005-05-24 | 第39期王位戦準決勝 | Weon Seongjin | Lee Yeongkyu | Win | B+4.5 | 6.5 | 2827 | -34 | 
+| 2005-05-14 | 2005年韓国囲碁リーグ | Cho Hanseung | Weon Seongjin | Lose | B+2.5 | 6.5 | 2861 | -33 | 
+| 2005-05-10 | 第39期王位戦3回戦 | Weon Seongjin | Kang Dongyun | Win | B+2.5 | 6.5 | 2894 | 67 | 
+| 2005-04-22 | 第39期王位戦2回戦 | Weon Seongjin | Lee Huiseong | Win | B+2.5 | 6.5 | 2827 | 17 | 
+| 2005-04-21 | 第39期王位戦1回戦 | Weon Seongjin | Cho Hunhyun | Win | B+R | 6.5 | 2810 | -279 | 
+| 2004-12-18 | 2004年韓国囲碁リーグ | An Joyeong | Weon Seongjin | Win | W+R | 6.5 | 3089 | 138 | 
+| 2004-11-27 | 2004年韓国囲碁リーグ | Kang Dongyun | Weon Seongjin | Win | W+R | 6.5 | 2951 | -5 | 
+| 2004-11-08 | 第48期国手戦（韓国）敗者復活戦3回戦 | Yoo Changhyuk | Weon Seongjin | Lose | B+R | 6.5 | 2956 | -16 | 
+| 2004-11-06 | 2004年韓国囲碁リーグ | An Joyeong | Weon Seongjin | Lose | B+R | 6.5 | 2972 | -126 | 
+| 2004-10-26 | 第9回LG杯世界棋王戦3回戦 | Yu Bin | Weon Seongjin | Lose | B+6.5 | 6.5 | 3098 | -183 | 
+| 2004-10-22 | 第48期国手戦（韓国）敗者復活戦2回戦 | Cho Hunhyun | Weon Seongjin | Win | W+3.5 | 6.5 | 3281 | 92 | 
+| 2004-10-16 | 2004年韓国囲碁リーグ | Rui Naiwei | Weon Seongjin | Win | W+R | 6.5 | 3189 | -95 | 
+| 2004-09-22 | 第48期国手戦（韓国）本戦2回戦 | Weon Seongjin | Lee Changho | Lose | W+8.5 | 6.5 | 3284 | -127 | 
+| 2004-09-18 | 2004年韓国囲碁リーグ | Heo Yongho | Weon Seongjin | Lose | B+2.5 | 6.5 | 3411 | -26 | 
+| 2004-09-14 | 第15期BCカード杯新人王戦 | Weon Seongjin | Kim Donghee | Lose | W+1.5 | 6.5 | 3437 | 228 | 
+| 2004-08-30 | 第15期BCカード杯新人王戦 | Weon Seongjin | Cho Hyeyeon | Win | B+R | 6.5 | 3209 | 62 | 
+| 2004-08-14 | 2004年韓国囲碁リーグ | Lee Huiseong | Weon Seongjin | Win | W+R | 6.5 | 3147 | -35 | 
+| 2004-07-13 | 第9期バッカス杯天元戦1回戦 | Weon Seongjin |  | Lose | W+5.5 | 6.5 | 3182 | -26 | 
+| 2004-07-10 | 2004年韓国囲碁リーグ | Weon Seongjin | Cho Hanseung | Lose | W+R | 6.5 | 3208 | -14 | 
+| 2004-06-16 | 第48期国手戦（韓国）本戦1回戦 | Weon Seongjin |  | Win | B+R | 6.5 | 3222 | -20 | 
+| 2004-06-03 | 第48期国手戦（韓国）予選 | Weon Seongjin | Lee Sedol | Win | B+R | 6.5 | 3242 | 50 | 
+| 2004-05-29 | 2004年韓国囲碁リーグ | Weon Seongjin | Yun Junsang | Lose | W+0.5 | 6.5 | 3192 | -32 | 
+| 2004-05-20 | 第9回LG杯世界棋王戦2回戦 | Weon Seongjin |  | Win | B+2.5 | 6.5 | 3224 | 232 | 
+| 2004-02-11 | 第5回農心辛ラーメン杯世界囲碁最強戦第11戦 | Gu Li | Weon Seongjin | Lose | B+2.5 | 6.5 | 2992 | 13 | 
+| 2004-02-03 | 第8回LG杯世界棋王戦準決勝 | Weon Seongjin | Lee Changho | Lose | W+R | 6.5 | 2979 | 40 | 
+| 2003-12-25 | 2003年国際新鋭囲碁対抗戦第3戦 | Weon Seongjin | Peng Quan | Win | B+R | 7.5 | 2939 | 15 | 
+| 2003-12-23 | 2003年国際新鋭囲碁対抗戦第2戦 |  | Weon Seongjin | Lose | B+R | 7.5 | 2924 | -21 | 
+| 2003-12-22 | 2003年国際新鋭囲碁対抗戦第1戦 | Weon Seongjin | Rin Kanketsu | Win | B+R | 7.5 | 2945 | 14 | 
+| 2003-12-18 | 第8期バッカス杯天元戦決勝五番勝負第4局 | Weon Seongjin | Choi Cheolhan | Lose | W+R | 6.5 | 2931 | -27 | 
+| 2003-12-13 | 第8期バッカス杯天元戦決勝五番勝負第3局 | Choi Cheolhan | Weon Seongjin | Lose | B+2.5 | 6.5 | 2958 | -31 | 
+| 2003-12-08 | 第8期バッカス杯天元戦決勝五番勝負第2局 | Weon Seongjin | Choi Cheolhan | Lose | W+R | 6.5 | 2989 | -27 | 
+| 2003-11-28 | 第8期バッカス杯天元戦決勝五番勝負第1局 | Choi Cheolhan | Weon Seongjin | Win | W+1.5 | 6.5 | 3016 | -23 | 
+| 2003-11-17 | 第5回農心辛ラーメン杯世界囲碁最強戦第10戦 | Ryu Shikun | Weon Seongjin | Win | W+R | 6.5 | 3039 | 0 | 
+| 2003-11-16 | 第5回農心辛ラーメン杯世界囲碁最強戦第9戦 | Hu Yaoyu | Weon Seongjin | Win | W+4.5 | 6.5 | 3039 | 49 | 
+| 2003-11-15 | 第5回農心辛ラーメン杯世界囲碁最強戦第8戦 | Weon Seongjin | Kobayashi Koichi | Win | B+3.5 | 6.5 | 2990 | -24 | 
+| 2003-10-28 | 第8回LG杯世界棋王戦3回戦 | Weon Seongjin | Chang Hao | Win | B+R | 6.5 | 3014 | 190 | 
+| 2003-09-25 | 第8期バッカス杯天元戦準決勝 | Weon Seongjin | Kim Seungjun | Win | B+4.5 | 6.5 | 2824 | -39 | 
+| 2003-09-23 | 第7期SKガス杯新鋭プロ十傑戦五位決定戦 |  | Weon Seongjin | Win | W+R | 6.5 | 2863 | 104 | 
+| 2003-08-29 | 第8期三星杯2回戦 | Weon Seongjin | Cho Chikun | Lose | W+R | 6.5 | 2759 | -5 | 
+| 2003-08-27 | 第8期三星杯1回戦 | Wang Lei (b) | Weon Seongjin | Win | W+R | 6.5 | 2764 | 27 | 
+| 2003-08-13 | 第5回農心杯韓国選抜戦 | Ryu Chaehyeong | Weon Seongjin | Win | W+R | 6.5 | 2737 | 124 | 
+| 2003-08-04 | 第8期三星杯予選決勝 | Chen Yaoye | Weon Seongjin | Win | W+3.5 | 6.5 | 2613 | 33 | 
+| 2003-07-25 | 第7期SKガス杯新鋭プロ十傑戦リーグB | Weon Seongjin | Park Seunghyeon | Win | B+R | 6.5 | 2580 | 42 | 
+| 2003-07-18 | 第8期バッカス杯天元戦2回戦 | Park Yeonghun | Weon Seongjin | Win | W+R | 6.5 | 2538 | 65 | 
+| 2003-06-23 | 第7期SKガス杯新鋭プロ十傑戦リーグB | Weon Seongjin | Cho Hanseung | Lose | W+R | 6.5 | 2473 | -5 | 
+| 2003-06-19 | 第8回LG杯世界棋王戦2回戦 | Weon Seongjin | Michael Redmond | Win | B+R | 6.5 | 2478 | 46 | 
+| 2003-06-15 | 第3回KAT杯韓国囲碁最強戦 | Yun Junsang | Weon Seongjin | Lose | B+R | 6.5 | 2432 | -22 | 
+| 2003-06-13 | 第8期バッカス杯天元戦1回戦 | Weon Seongjin | Heo Yongho | Win | B+4.5 | 6.5 | 2454 | -6 | 
+| 2003-05-23 | 第7期SKガス杯新鋭プロ十傑戦リーグB | Ryu Chaehyeong | Weon Seongjin | Lose | B+R | 6.5 | 2460 | -153 | 
+| 2003-04-10 | 第3期オスラムコリア杯新鋭連勝最強戦予選 | Weon Seongjin | Lee Yeongkyu | Lose | W+R | 6.5 | 2613 | -40 | 
+| 2003-04-04 | 第7期SKガス杯新鋭プロ十傑戦リーグB |  | Weon Seongjin | Win | W+3.5 | 6.5 | 2653 | 14 | 
+| 2003-02-11 | 第7回LG杯世界棋王戦準決勝 | Lee Changho | Weon Seongjin | Lose | B+R | 6.5 | 2639 | 4 | 
+| 2003-02-05 | 第22回KBS杯囲碁王戦本戦1回戦 | Kim Seungjun | Weon Seongjin | Lose | B+R | 6.5 | 2635 | -16 | 
+| 2002-12-17 | 第2回KAT杯韓国囲碁最強戦 | Weon Seongjin | Yun Junsang | Lose | W+R | 6.5 | 2651 | -49 | 
+| 2002-12-10 | 第2回KAT杯韓国囲碁最強戦 | Hyun Mijin | Weon Seongjin | Win | W+R | 6.5 | 2700 | 0 | 
+| 2002-12-09 | 第7期SKガス杯新鋭プロ十傑戦予選 | Choi Cheolhan | Weon Seongjin | Win | W+R | 6.5 | 2700 | 94 | 
+| 2002-10-31 | 第7回LG杯世界棋王戦3回戦 | Zhou Heyang | Weon Seongjin | Win | W+R | 6.5 | 2606 | 2606 | 
+| 2002-10-29 | 第2回KAT杯韓国囲碁最強戦 | Hong Minpyo | Weon Seongjin | Win | W+4.5 | 6.5 | missing | -2609 | 
+| 2002-10-05 | 2002年国際新鋭囲碁対抗戦第3戦 | Hu Yaoyu | Weon Seongjin | Lose | B+R | 6.5 | 2609 | 41 | 
+| 2002-10-02 | 2002年国際新鋭囲碁対抗戦第1戦 | Weon Seongjin | Park Jinsol | Win | B+4.5 | 6.5 | 2568 | 677 | 
+| 2002-05-02 | 第7回LG杯世界棋王戦2回戦 | Weon Seongjin | Chang Hao | Win | B+R | 6.5 | 1891 | 137 | 
+| 2002-04-30 | 第7回LG杯世界棋王戦1回戦 | Weon Seongjin | Kobayashi Koichi | Win | B+3.5 | 6.5 | 1754 | -170 | 
+| 2002-04-06 | 第7期バッカス杯天元戦1回戦 | Weon Seongjin |  | Lose | W+0.5 | 6.5 | 1924 | -950 | 
+| 2001-10-09 | 第1期KT杯マスターズプロ棋戦2回戦 | Choi Cheolhan | Weon Seongjin | Win | W+R | 6.5 | 2874 | 12 | 
+| 2001-10-04 | 第1期オスラムコリア杯新鋭連勝最強戦 | Park Yeonghun | Weon Seongjin | Lose | B+R | 6.5 | 2862 | 322 | 
+| 2001-08-02 | 第6期バッカス杯天元戦2回戦 | Weon Seongjin | Kim Seungjun | Lose | W+R | 6.5 | 2540 | 38 | 
+| 2001-05-28 | 第6期バッカス杯天元戦1回戦 | Weon Seongjin | Choi Myeonghun | Win | B+R | 6.5 | 2502 | -9 | 
+| 2001-05-11 | 第11期BCカード杯新人王戦決勝三番勝負第2局 | Cho Hanseung | Weon Seongjin | Lose | B+R | 6.5 | 2511 | -100 | 
+| 2001-05-03 | 第11期BCカード杯新人王戦決勝三番勝負第1局 | Weon Seongjin | Cho Hanseung | Lose | W+1.5 | 6.5 | 2611 | 3 | 
+| 2001-04-17 | 第1期オスラムコリア杯新鋭連勝最強戦 | Weon Seongjin | Cho Hyeyeon | Lose | W+R | 6.5 | 2608 | -27 | 
+| 2001-04-13 | 第11期BCカード杯新人王戦準決勝 | Weon Seongjin |  | Win | B+R | 6.5 | 2635 | 16 | 
+| 2001-03-30 | 第1期オスラムコリア杯新鋭連勝最強戦 | Mok Jinseok | Weon Seongjin | Win | W+R | 6.5 | 2619 | 32 | 
+| 2001-02-16 | 第11期BCカード杯新人王戦 |  | Weon Seongjin | Win | W+R | 6.5 | 2587 | 147 | 
+| 2001-02-02 | 第11期BCカード杯新人王戦 | Weon Seongjin | An Joyeong | Win | B+R | 6.5 | 2440 | 11 | 
+| 2001-01-19 | 第11期BCカード杯新人王戦 | Lee Huiseong | Weon Seongjin | Win | W+R | 6.5 | 2429 | 2429 | 
+| 2000-10-05 | 第4期SKガス杯新鋭プロ十傑戦五位決定戦 | Mok Jinseok | Weon Seongjin | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-09-15 | 第12期棋聖戦（韓国）1回戦 | Mok Jinseok | Weon Seongjin | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-09-07 | 第4期SKガス杯新鋭プロ十傑戦リーグB | Kim Kwangsik | Weon Seongjin | Lose | B+1.5 | 6.5 | missing | 0 | 
+| 2000-08-30 | 第5期三星杯1回戦 | Weon Seongjin | Yamada Kimio | Lose | W+2.5 | 6.5 | missing | 0 | 
+| 2000-06-15 | 第5回LG杯世界棋王戦2回戦 | Ma Xiaochun | Weon Seongjin | Lose | B+6.5 | 6.5 | missing | 0 | 
+| 2000-06-13 | 第5回LG杯世界棋王戦1回戦 | Weon Seongjin | Zhou Junxun | Win | B+R | 6.5 | missing | 0 | 
+| 2000-05-08 | 第5期バッカス杯天元戦1回戦 | Seo Bongsoo | Weon Seongjin | Lose | B+R | 6.5 | missing | missing |
 
 
 

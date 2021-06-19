@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fujisawa Rina vs Ueno Asami** | **Fujisawa Rina streak** | **Ueno Asami streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-18 | 第8期会津中央病院・女流立葵杯挑戦手合三番勝負第1局  | Ueno Asami | Fujisawa Rina | W+R | 6.5 | 1:0 | 1 | 0 | 
+| 2021-06-19 | 第8期会津中央病院・女流立葵杯挑戦手合三番勝負第2局  | Fujisawa Rina | Ueno Asami | B+R | 6.5 | 1:0 | 1 | 0 | 
+| 2021-06-18 | 第8期会津中央病院・女流立葵杯挑戦手合三番勝負第1局  | Ueno Asami | Fujisawa Rina | W+R | 6.5 | 14:8 | 3 | 0 | 
 | 2021-04-16 | 第32期博多・カマチ杯女流名人戦挑戦手合三番勝負第2局  | Ueno Asami | Fujisawa Rina | W+R | 6.5 | 13:8 | 2 | 0 | 
 | 2021-04-14 | 第32期博多・カマチ杯女流名人戦挑戦手合三番勝負第1局  | Fujisawa Rina | Ueno Asami | B+1.5 | 6.5 | 12:8 | 1 | 0 | 
 | 2020-12-03 | 第24期ドコモ杯女流棋聖戦挑戦者決定戦 | Ueno Asami | Fujisawa Rina | B+R | 6.5 | 11:8 | 0 | 1 | 

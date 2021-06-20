@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-20 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Shin Minjun | Kim Junghyun | Lose | B+R | 6.5 | 3338 | -45 | 
+| 2021-06-20 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Shin Minjun | Kim Junghyun | Lose | B+R | 6.5 | 3338 | 1 | 
+| 2021-06-20 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Shin Minjun | Kim Junghyun | Lose | B+R | 6.5 | 3337 | -46 | 
 | 2021-05-26 | 第4期韓国竜星戦2回戦 | Park Junghwan | Kim Junghyun | Lose | B+R | 6.5 | 3383 | -24 | 
 | 2021-05-06 | 第26回LG杯韓国予選 | Kang Dongyun | Kim Junghyun | Lose | B+R | 6.5 | 3407 | -2 | 
 | 2021-05-02 | 第26回LG杯韓国予選 | Kim Seongjae | Kim Junghyun | Win | W+R | 6.5 | 3409 | -55 | 

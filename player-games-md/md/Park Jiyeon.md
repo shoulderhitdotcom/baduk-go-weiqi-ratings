@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-20 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Park Jiyeon | Lose | B+R | 6.5 | 2918 | 19 | 
+| 2021-06-20 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Park Jiyeon | Lose | B+R | 6.5 | 2899 | -31 | 
 | 2021-06-13 | 第7回韓国女子囲碁リーグ |  | Park Jiyeon | Win | W+R | 6.5 | 2930 | 10 | 
 | 2021-06-04 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Kim Hyeoimin | Win | B+R | 6.5 | 2920 | 19 | 
 | 2021-05-29 | 第7回韓国女子囲碁リーグ | Park Jiyeon |  | Lose | W+R | 6.5 | 2901 | -11 | 

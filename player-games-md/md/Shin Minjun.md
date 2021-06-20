@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-20 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Shin Minjun | Kim Junghyun | Win | B+R | 6.5 | 3487 | 6 | 
 | 2021-06-15 | 第2期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Shin Minjun | Lose | B+R | 6.5 | 3481 | -6 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Shin Minjun | Xia Chenkun | Lose | W+R | 7.5 | 3487 | 1 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Shin Minjun | Xia Chenkun | Lose | W+R | 7.5 | 3486 | -15 | 

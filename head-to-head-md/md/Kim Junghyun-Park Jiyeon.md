@@ -5,9 +5,10 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Junghyun vs Park Jiyeon** | **Kim Junghyun streak** | **Park Jiyeon streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2015-09-07 | 第34回KBS杯囲碁王戦3回戦 | Park Jiyeon | Kim Junghyun | W+R | 6.5 | 1:0 | 1 | 0 |
+Error: LoadError: ArgumentError: Package DFMacros [75880514-38bc-4a95-a458-c2aea5a3a702] is required but does not seem to be installed:
+ - Run `Pkg.instantiate()` to install all recorded dependencies.
+
+in expression starting at c:\weiqi\simulation\utils.jl:5
 
 
 

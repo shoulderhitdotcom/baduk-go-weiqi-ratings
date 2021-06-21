@@ -5,9 +5,10 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Jiyeon vs Shin Minjun** | **Park Jiyeon streak** | **Shin Minjun streak** | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2013-11-10 | 2013年楽スターリーグ | Park Jiyeon | Shin Minjun | B+R | 6.5 | 1:0 | 1 | 0 |
+Error: LoadError: ArgumentError: Package DFMacros [75880514-38bc-4a95-a458-c2aea5a3a702] is required but does not seem to be installed:
+ - Run `Pkg.instantiate()` to install all recorded dependencies.
+
+in expression starting at c:\weiqi\simulation\utils.jl:5
 
 
 

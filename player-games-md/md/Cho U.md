@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-21 | 第69期王座戦1回戦 | Cho U | Koyama Kuya | Win | B+2.5 | 6.5 | 3114 | 7 | 
+| 2021-06-14 | 第77期本因坊戦予選 | Cho U | Onishi Ryuhei | Lose | W+2.5 | 6.5 | 3107 | 15 | 
 | 2021-06-07 | 第46期棋聖戦Aリーグ | Shibano Toramaru | Cho U | Win | W+R | 6.5 | 3092 | 35 | 
 | 2021-05-24 | 第46期棋聖戦Aリーグ | Cho U | Hsu Chiayuan | Lose | W+3.5 | 6.5 | 3057 | -6 | 
 | 2021-04-29 | 第77期本因坊戦予選  | Kobayashi Koichi | Cho U | Win | W+1.5 | 6.5 | 3063 | -15 | 

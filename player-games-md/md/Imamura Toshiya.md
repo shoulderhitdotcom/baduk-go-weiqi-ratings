@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-09 | 第60期十段戦予選 | Imamura Toshiya |  | Win | B+R | 6.5 | 2539 | 1 | 
+| 2021-06-23 | 第60期十段戦予選 | Imamura Toshiya | Watanabe Yuu | Win | B+R | 6.5 | 2590 | 52 | 
 | 2021-06-09 | 第60期十段戦予選 | Imamura Toshiya |  | Win | B+R | 6.5 | 2538 | -51 | 
 | 2021-04-07 | 第77期本因坊戦予選 | Yu Zhengqi | Imamura Toshiya | Lose | B+R | 6.5 | 2589 | -87 | 
 | 2021-03-18 | 第46期棋聖戦予選 | Imamura Toshiya | Komatsu Daiki | Lose | W+2.5 | 6.5 | 2676 | -139 | 

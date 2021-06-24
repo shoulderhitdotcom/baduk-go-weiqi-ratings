@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-24 | 第46期棋聖戦Cリーグ | Fujisawa Rina | Numadate Sakiya | Lose | W+R | 6.5 | 3064 | -18 | 
 | 2021-06-19 | 第8期会津中央病院・女流立葵杯挑戦手合三番勝負第2局  | Fujisawa Rina | Ueno Asami | Win | B+R | 6.5 | 3082 | 13 | 
 | 2021-06-18 | 第8期会津中央病院・女流立葵杯挑戦手合三番勝負第1局  | Ueno Asami | Fujisawa Rina | Win | W+R | 6.5 | 3069 | 76 | 
 | 2021-05-13 | 第46期新人王戦3回戦 | Fujisawa Rina | Koyama Kuya | Lose | W+R | 6.5 | 2993 | -28 | 

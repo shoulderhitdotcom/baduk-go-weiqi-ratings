@@ -5,579 +5,625 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第28期阿含・桐山杯全日本早碁オープン戦予選 | Fujisawa Rina | O Meien | B+R | 2021-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WHIgxX2IvK0W0x76c%2FYtlg%3D%3D) | 
-| 第69期王座戦予選 | Ohba Junya | O Meien | B+R | 2021-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IX6euZNj3Tprmdo12u5%2BkQ%3D%3D) | 
-| 第77期本因坊戦予選 | O Meien | Uchida Shuhei | W+2.5 | 2021-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gVqko97ydentqxdPQy5QTA%3D%3D) | 
-| 第69期王座戦予選 | Numadate Sakiya | O Meien | W+4.5 | 2021-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=guom7x%2B7fA9X89TTHPsBqg%3D%3D) | 
-| 第47期天元戦予選 | O Meien | Ryu Shikun | W+R | 2020-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BG2p9jt52nzyIx1n1dL1mg%3D%3D) | 
-| 第47期天元戦予選 | Suzuki Yoshimichi | O Meien | W+R | 2020-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TlN27JmB8cz5fu7s7A4eIw%3D%3D) | 
-| 第59期十段戦1回戦 | O Meien | Hsu Chiayuan | W+R | 2020-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aH%2BftIg4Sd5MRtGFbb0cRQ%3D%3D) | 
-| 第46期碁聖戦予選 | O Meien | So Yokoku | B+R | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FvcseS1gS5PorVRMM5mZYA%3D%3D) | 
-| 第45期棋聖戦Cリーグ | O Meien | Mimura Tomoyasu | W+4.5 | 2020-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l2i14ta7GGmvaQdbmj%2BR7A%3D%3D) | 
-| 第69期王座戦予選 | O Meien | Sakai Takeshi | B+R | 2020-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=USEp6jupVcMqIfcKVGRehw%3D%3D) | 
-| 第59期十段戦予選 | Adachi Toshimasa | O Meien | W+R | 2020-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9krT1U4rVLp7KnMbRMu4yQ%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Cho Chikun | O Meien | W+R | 2020-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9uTHzyBFU0xLmYxEIlps5g%3D%3D) | 
-| 第46期碁聖戦予選 | O Meien | Fujisawa Rina | B+R | 2020-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d1u5p59Ip9W5muorH150fw%3D%3D) | 
-| 第59期十段戦予選 | O Meien | Ogata Masaki | B+R | 2020-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B86fGHz9h0obuJNNSVGLDQ%3D%3D) | 
-| 第46期名人戦予選 | O Meien | Sun Zhe | W+R | 2020-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oQyfbMCyNOYuT6Dd00Yw9Q%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Chang Rueijie | O Meien | B+2.5 | 2020-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ySpifW2nQylpcbpbtjYCJw%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Uchida Shuhei | O Meien | W+R | 2020-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fF%2FRYwO5ihPj41gB8We3Vw%3D%3D) | 
-| 第76期本因坊戦予選 | O Meien | Cho U | W+R | 2020-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2dK9PkqHDa98bmP6CY2pGA%3D%3D) | 
-| 第59期十段戦予選 | Numadate Sakiya | O Meien | W+R | 2020-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PtAvSEYlxuY%2B1rvdbDotfw%3D%3D) | 
-| 第45期棋聖戦Cリーグ | O Meien | Ishida Atsushi | B+R | 2020-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9rQR4Av%2B2x09D6JAiEHOEQ%3D%3D) | 
-| 第59期十段戦予選 | Ueno Asami | O Meien | W+2.5 | 2020-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZixDbpZqXUwdK5rAo2tbww%3D%3D) | 
-| 第46期名人戦予選 | O Meien | Kono Mitsuki | B+R | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ibm25sed1lG9EKT0IKEPsA%3D%3D) | 
-| 第46期碁聖戦予選 | O Meien | Shimoji Gensho | B+R | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AdtdA8I3JuXMMKHnJ5AVwg%3D%3D) | 
-| 第76期本因坊戦予選 | Cho Chikun | O Meien | W+R | 2020-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QVT9hHN11lxqB8%2BIiKyBrg%3D%3D) | 
-| 第46期名人戦予選 | O Meien | Nyu Eiko | B+R | 2020-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7CFqrSKSll6S1yUeVpjHDA%3D%3D) | 
-| 第76期本因坊戦予選 | Omori Yasushi | O Meien | W+R | 2020-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KHb1axv7JJvhgJFN2AYn3w%3D%3D) | 
-| 第46期碁聖戦予選 | Oomote Takuto | O Meien | W+R | 2020-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3iMcHlAfEO%2F0aUrCyhCJdg%3D%3D) | 
-| 第76期本因坊戦予選 | Komatsu Fujio | O Meien | W+R | 2019-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=REKw7WFStYfvK24t3Q81Rw%3D%3D) | 
-| 第46期天元戦予選 | O Meien | Yoda Norimoto | W+R | 2019-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Uxo7yyEjWtopneyvhO5knQ%3D%3D) | 
-| 第46期天元戦予選 | Kobayashi Satoru | O Meien | W+R | 2019-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q0tmiC3Du0LGZsn9O4LiBQ%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Terayama Rei | O Meien | W+1.5 | 2019-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GOon0ost89MYnS%2BaqFF2ew%3D%3D) | 
-| 第58期十段戦予選 | O Meien | Sun Zhe | W+R | 2019-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=coAuxssztlpeuifBUc2myg%3D%3D) | 
-| 第68期王座戦予選 | Awaji Shuzo | O Meien | B+R | 2019-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jF1PjaeKBtrw0oiUy8h7PA%3D%3D) | 
-| 第44期棋聖戦Bリーグ | O Meien | Ko Iso | W+R | 2019-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VN9gTFt9OOis7Tbg5ckT3A%3D%3D) | 
-| 第44期棋聖戦Bリーグ | O Meien | Yamada Kimio | W+R | 2019-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yRpTSpszch7BqNdnWMB5UQ%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | O Meien | Yoo Changhyuk | W+R | 2019-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tpPx8sKP7cRR6L9Zu1KWAw%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | Yu Bin | O Meien | B+1.5 | 2019-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GOyfbSwHfixX12jAxZHVbQ%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | O Meien | Seo Bongsoo | W+R | 2019-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nAJCEb5wEYBzeHqTmrx8qw%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | O Meien | Yoda Norimoto | W+4.5 | 2019-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1zHwzvhQM%2FotAWbRIpd35A%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Kim Chongsu | O Meien | W+1.5 | 2019-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AFtc1yuSkI4MImgGpEa92A%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Adachi Toshimasa | O Meien | B+7.5 | 2019-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kJImdcWjO1HktDjjYqF5jw%3D%3D) | 
-| 第45期天元戦2回戦 | O Meien | Onishi Ryuhei | W+R | 2019-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Gaw2CvsPtIjbhdpLfVklw%3D%3D) | 
-| 第9回フマキラー囲碁マスターズカップ1回戦 | Yoda Norimoto | O Meien | B+7.5 | 2019-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gPkj2jLTT57Sq8dJzu%2Fo6g%3D%3D) | 
-| 第68期王座戦予選 | O Meien | O Yuinin | B+R | 2019-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NGQ8KKV8GWvlQqb%2FO1GV%2Bw%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Cho Chikun | O Meien | W+R | 2019-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NeVRHModZvV3pwRrUmOgGQ%3D%3D) | 
-| 第45期名人戦予選 | O Meien | Fujisawa Rina | W+R | 2019-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=71SC92rwEN%2B0U5%2BZ3kRP6w%3D%3D) | 
-| 第75期本因坊戦予選 | Chang Rueijie | O Meien | B+R | 2019-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4a1cRbBwFKrfKGTHEIAGGQ%3D%3D) | 
-| 第44期棋聖戦Bリーグ | O Meien | Han Zenki | B+R | 2019-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VZVYpAuBHtITevtvor3iEQ%3D%3D) | 
-| 第45期名人戦予選 | missing | O Meien | W+R | 2019-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gZqtohe3Q8WfnfmQRiH7kg%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Motoki Katsuya | O Meien | B+R | 2019-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cBuo%2BDAzU%2BDfikONilbajg%3D%3D) | 
-| 第45期名人戦予選 | Aoki Shinichi | O Meien | W+1.5 | 2019-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rZYSAd2CpO893MQPhoevpQ%3D%3D) | 
-| 第45期天元戦1回戦 | O Meien | Ko Iso | B+R | 2019-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UX%2FAGycbLvR%2BsG4pE6OwUw%3D%3D) | 
-| 第45期碁聖戦予選 | Ohashi Hirofumi | O Meien | B+7.5 | 2019-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FXKStbrVE08lZcCej%2BsaSQ%3D%3D) | 
-| 第3回ワールド碁チャンピオンシップ国際予選準決勝 | Yoo Changhyuk | O Meien | B+R | 2019-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FpvuFgy4CZ%2BBWIf8tOfhkA%3D%3D) | 
-| 第45期碁聖戦予選 | Kono Mitsuki | O Meien | W+R | 2019-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tOci27Dkb%2FGwKhKMT5cr0w%3D%3D) | 
-| 第45期天元戦予選 | O Meien | Ueno Asami | B+R | 2018-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gGNZUlN04GQK%2B8Eyre46bA%3D%3D) | 
-| 第57期十段戦3回戦 | Onishi Ryuhei | O Meien | B+0.5 | 2018-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Wm11qJo2StnKaOZ40VqRQ%3D%3D) | 
-| 第57期十段戦2回戦 | O Meien | So Yokoku | B+1.5 | 2018-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KZZkE3w7YJ7wTfnUnY003g%3D%3D) | 
-| 第45期天元戦予選 | Miyazaki Ryutaro | O Meien | W+R | 2018-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U2R%2FCsarnms1Pd9DyESUHA%3D%3D) | 
-| 第67期王座戦予選 | O Meien | So Yokoku | W+R | 2018-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6EbwY3Y%2B1xaO1byPtRKK0w%3D%3D) | 
-| 阪急納涼囲碁まつり盤上のスターウォーズ | Takemiya Masaki | O Meien | B+R | 2018-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SNK7NTrh%2FxW4GEzdDQ0TiQ%3D%3D) | 
-| 第74期本因坊戦最終予選 | Mutsuura Yuta | O Meien | B+R | 2018-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RMRnnYVnpWV4SU%2ByUiujYw%3D%3D) | 
-| 第57期十段戦最終予選決勝 | Yuki Satoshi | O Meien | W+R | 2018-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EjciCgfeDM%2BIDImOMLlPzg%3D%3D) | 
-| 第44期碁聖戦予選 | Hirose Yuichi | O Meien | B+R | 2018-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8jOu%2Fah7YW80mR%2FpkdmB6A%3D%3D) | 
-| 第74期本因坊戦最終予選 | Nakamura Shinya | O Meien | W+1.5 | 2018-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bZKXRxoNdyrcjFEDpjvZcg%3D%3D) | 
-| 第43期棋聖戦Bリーグ | Ishida Atsushi | O Meien | W+R | 2018-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nTr%2Fr8NOAGHNh0eLcKS0aQ%3D%3D) | 
-| 第44期名人戦予選 | O Meien | Oomote Takuto | W+R | 2018-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RtejiqAkj8jATS2fk689PQ%3D%3D) | 
-| 第8回フマキラー囲碁マスターズカップ2回戦  | Cho Chikun | O Meien | B+2.5 | 2018-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Msjutf%2BqPe1KgxucrbteA%3D%3D) | 
-| 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | O Meien | Mochizuki Kenichi | W+R | 2018-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yo5myK8RNIrCkP3SGrspBw%3D%3D) | 
-| 第74期本因坊戦予選 | Suzuki Ayumi | O Meien | W+R | 2018-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hg485eW4cUnYcc8UFThWTw%3D%3D) | 
-| 第43期棋聖戦Bリーグ | O Meien | Cho Riyu | B+R | 2018-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qOHTLJVvAS%2FcrDs6%2FB%2BFzw%3D%3D) | 
-| 第74期本因坊戦予選 | O Meien | Kaneko Maki | B+R | 2018-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dcKJjJ2OfdG7QQDgKH9Elw%3D%3D) | 
-| 第8回フマキラー囲碁マスターズカップ1回戦 | O Meien | Hane Yasumasa | B+R | 2018-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6x%2BrXoBkxuveeLCmdecnSQ%3D%3D) | 
-| 第43期棋聖戦Bリーグ | Hane Naoki | O Meien | W+0.5 | 2018-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kq%2FWI3m1ofseykh3nmDegg%3D%3D) | 
-| 第43期棋聖戦Bリーグ | Imamura Toshiya | O Meien | W+R | 2018-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p43TdUjjkNqfEcKlINYhPw%3D%3D) | 
-| 第43期棋聖戦Bリーグ | O Meien | Yamashiro Hiroshi | W+R | 2018-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HvtHZDeQ11t3hIQia8DsnQ%3D%3D) | 
-| 第56期十段戦3回戦 | O Meien | Shida Tatsuya | W+3.5 | 2017-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LFNylnX5jwsMSJDY5k7qtA%3D%3D) | 
-| 第66期王座戦予選 | O Meien | Horimoto Mitsunari | W+R | 2017-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=foOF0C6CcQzMbml9g%2FX2Cw%3D%3D) | 
-| 第44期天元戦予選A | O Meien | Ko Iso | W+1.5 | 2017-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=djaAjisPLkNkVlgNnJ9MXw%3D%3D) | 
-| 第56期十段戦2回戦 | O Meien | Hatanaka Hoshinobu | B+0.5 | 2017-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vNJUNMz%2FDC%2FhRuY7cfQxEg%3D%3D) | 
-| 第44期天元戦予選 | O Meien | Hoshino Masaki | B+R | 2017-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j4jxox%2BYbUQYr0XfrpsIgA%3D%3D) | 
-| 第43期碁聖戦　予選A | Matsumoto Takehisa | O Meien | B+R | 2017-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EoBmm1m7fFwwQrU%2BeNAt%2Bw%3D%3D) | 
-| 第66期王座戦　予選B決勝 | Ogaki Yusaku | O Meien | W+R | 2017-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FicKdr%2Brz6t7xJhvt7oEqA%3D%3D) | 
-| 第42期棋聖戦　Bリーグ2組7回戦 | O Meien | Kim Sujun | B+R | 2017-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=adJm0X9e2qRXCJ09vfYGsg%3D%3D) | 
-| 第56期十段戦　最終予選決勝 | Koyama Kuya | O Meien | W+1.5 | 2017-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2IxYjkXXOoW1N%2F67%2Fx9JTQ%3D%3D) | 
-| 第43期名人戦　予選A | O Meien | Akiyama Jiro | W+R | 2017-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MdjnCZlkHmXcDdnOimUTdw%3D%3D) | 
-| 第42期棋聖戦　Bリーグ2組6回戦 | Lee Ishu | O Meien | B+2.5 | 2017-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QOTVLIFrg0OoHtuLIxhh%2Fw%3D%3D) | 
-| 第43期名人戦　予選B決勝 | Kato Atsushi | O Meien | W+R | 2017-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WkNN0ZAYCkHMCMJwa48lZA%3D%3D) | 
-| 第43期碁聖戦　予選B決勝 | Suzuki Shinji | O Meien | W+R | 2017-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rrqeQ2amoMH0vbe4vh9L1Q%3D%3D) | 
-| 第42期棋聖戦　Bリーグ2組5回戦 | Yu Zhengqi | O Meien | W+R | 2017-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dww0Q%2FOXRZfNHZaEJ%2FOLWQ%3D%3D) | 
-| 第73期本因坊戦　最終予選第4局 | O Meien | Ichiriki Ryo | W+R | 2017-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tTSJHQlSkaJWj3a%2Bs99N2Q%3D%3D) | 
-| 第56期十段戦　最終予選 | Takei Takashi | O Meien | W+R | 2017-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1P2IvjlTVpknw30%2Ft9qtBA%3D%3D) | 
-| 第42期棋聖戦　Bリーグ2組4回戦 | O Meien | Han Zenki | W+R | 2017-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2dfeCdIKYinYsW%2FRY%2FcM3w%3D%3D) | 
-| 第24期阿含・桐山杯　最終予選決勝 | O Meien | Rin Kanketsu | W+R | 2017-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=joliJr9%2BAef07eLC%2BehPkQ%3D%3D) | 
-| 第42期棋聖戦　Bリーグ2組3回戦 | Kobayashi Satoru | O Meien | W+5.5 | 2017-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e0ZCuPEPM%2FCaPM6%2BL8aSbA%3D%3D) | 
-| 第73期本因坊戦　予選A決勝 | O Meien | Koike Yoshihiro | B+R | 2017-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5%2F6DU4vdh3bdLTqOzDcmqw%3D%3D) | 
-| 第43期碁聖戦　予選B | Sotoyanagi Sebun | O Meien | W+R | 2017-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dJ2r1OgtrRAvYHzZ8TwO5Q%3D%3D) | 
-| 第42期棋聖戦　Bリーグ2回戦 | Rin Kanketsu | O Meien | B+4.5 | 2017-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oj%2FNbCVlj%2Fds%2F5m9TY8VLw%3D%3D) | 
-| 第43期碁聖戦　予選C決勝 | O Meien | Anzai Nobuaki | B+R | 2017-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NyzxIFmTbtsFJLAPDmIcog%3D%3D) | 
-| 第7回マスターズカップ　本戦1回戦 | O Rissei | O Meien | B+R | 2017-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ewleGBGtX98qxEL7YPtfbA%3D%3D) | 
-| 第42期棋聖戦　Bリーグ1回戦 | O Meien | Cho Riyu | B+1.5 | 2017-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MxULKHPPpgucPzgwW4hJkw%3D%3D) | 
-| 第43期天元戦　本戦1回戦第16局 | Lee Ishu | O Meien | B+R | 2017-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nsHB3k%2FR%2B%2BCqY2FCJS2Qqw%3D%3D) | 
-| 第73期本因坊戦　予選A | O Meien | Kazama Jun | B+R | 2017-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QxRuHN5iPHpSNOCm4yQXZA%3D%3D) | 
-| 第43期碁聖戦　予選C | O Meien | Takanashi Seiken | B+R | 2017-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LpNo0zaNQvgyvl227k5cCA%3D%3D) | 
-| 第65期王座戦予選 | O Meien | Suzuki Shinji | W+3.5 | 2016-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xiqy39B%2F8ef6azuHPLF3IQ%3D%3D) | 
-| 第43期天元戦予選 | O Meien | Takeuchi Kousuke | B+R | 2016-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IkWA32Gp%2Fs2%2Bzr7px9kCtg%3D%3D) | 
-| 第55期十段戦1R | Hikosaka Naoto | O Meien | B+R | 2016-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IdaOyP7oWV3pW1cO5VtoBA%3D%3D) | 
-| 第41期棋聖戦　Bリーグ7回戦 | O Meien | Mizokami Tomochika | W+1.5 | 2016-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eD0ysA7ioawDP6gqyx6uwQ%3D%3D) | 
-| 第55期十段戦予選 | O Meien | Uchida Shuhei | B+R | 2016-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KVZXtw3vnYExUWuZpQ53zA%3D%3D) | 
-| 第72期本因坊戦予選 | O Meien | Mitani Tetsuya | W+1.5 | 2016-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e9l7RZHMKOB8IutbEoz52w%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Cho Chikun | O Meien | W+R | 2016-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ED89SJFRuVXN%2BX91BnDfRA%3D%3D) | 
-| 第42期名人戦予選 | Fujita Akihiko | O Meien | B+R | 2016-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cng8MJkyLlNq2F0SoLT5Wg%3D%3D) | 
-| 第41期棋聖戦Bリーグ | O Meien | Kim Sujun | B+0.5 | 2016-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JVW%2BsYLrsql7MEZs9EsFGw%3D%3D) | 
-| 第23期阿含・桐山杯全日本早碁オープン戦1回戦 | O Meien | Takao Shinji | W+R | 2016-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lxCUCCkiFLgBRL2AYRU04Q%3D%3D) | 
-| 第42期名人戦予選 | O Meien | Kato Keiko | B+R | 2016-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DG0vB9nb11mq%2Bb4%2BrQLuqA%3D%3D) | 
-| 第6回フマキラー囲碁マスターズカップ準決勝 | Awaji Shuzo | O Meien | B+2.5 | 2016-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kEbVq%2BeTriTFM3VTtmSm%2Fg%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Hsu Chiayuan | O Meien | B+R | 2016-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l%2FC2vFgorI6CkiooLdFZIQ%3D%3D) | 
-| 第23期阿含・桐山杯全日本早碁オープン戦予選 | Mizokami Tomochika | O Meien | W+R | 2016-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YIyOmgl3X5E2F14TMx9tqA%3D%3D) | 
-| 第72期本因坊戦予選 | Hikosaka Naoto | O Meien | W+5.5 | 2016-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iVM0kw7f4v0s8ZhGme33JQ%3D%3D) | 
-| 第41期棋聖戦Bリーグ | O Meien | Ida Atsushi | W+1.5 | 2016-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e1nZp6tK4Rr0hzMZOs8BYw%3D%3D) | 
-| 第41期棋聖戦Bリーグ | O Rissei | O Meien | W+R | 2016-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DDuIB1UJAZ29uIz89QBaRg%3D%3D) | 
-| 第6回フマキラー囲碁マスターズカップ2回戦 | Ogata Masaki | O Meien | W+1.5 | 2016-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=65xfBncKr4DCzP7PiHvDSQ%3D%3D) | 
-| 第65回NHK杯テレビ囲碁トーナメント戦1回戦第1局 | O Meien | Motoki Katsuya | W+R | 2016-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pOp7cVTyncLI1Xc9OPHBaQ%3D%3D) | 
-| 第72期本因坊戦予選 | Tajiri Yuto | O Meien | W+R | 2016-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fGyyh92XYBHJkJ%2F%2FIPoH8Q%3D%3D) | 
-| 第6回フマキラー囲碁マスターズカップ1回戦 | Kataoka Satoshi | O Meien | W+10.5 | 2016-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PAPwUOEOb8hWppxS1hrZZQ%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Tsuruyama Atsushi | O Meien | W+4.5 | 2016-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TUDRZ3wh0nyfOaE%2F3wavOw%3D%3D) | 
-| 第42期碁聖戦予選 | O Meien | Katsura Atsushi | W+0.5 | 2016-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nijAjsk8LLxdlG7R%2FWImRQ%3D%3D) | 
-| 第72期本因坊戦予選 | Morita Michihiro | O Meien | W+2.5 | 2016-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=06osKcSqMCs%2BWbZZHaCnTw%3D%3D) | 
-| 第42期天元戦本戦1回戦 | Ogata Masaki | O Meien | B+0.5 | 2015-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rzIdhkuMnXqi4KR6FbP0zg%3D%3D) | 
-| 第64期王座戦予選 | O Meien | Ohba Junya | W+R | 2015-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OI3qsyBd0c8ZpsQFMl%2ByrQ%3D%3D) | 
-| 第64期王座戦予選 | Michael Redmond | O Meien | W+3.5 | 2015-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EtkCEzu57OYIw4IO2M%2FHSQ%3D%3D) | 
-| 第42期天元戦予選 | Takeuchi Kousuke | O Meien | W+13.5 | 2015-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=izxUAMalUbVU%2Bibo9y%2Bjiw%3D%3D) | 
-| 第2回OVER40早碁トーナメント戦決勝 | O Meien | O Rissei | W+R | 2015-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xspU5sV1272oHLDYrIURPQ%3D%3D) | 
-| 第2回OVER40早碁トーナメント戦準決勝 | O Meien | Oya Koichi | B+R | 2015-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ocz0vX36YqD67uf3pBovlQ%3D%3D) | 
-| 第54期十段戦2回戦 | O Meien | Ichiriki Ryo | W+R | 2015-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MRrg0XUo4SSBF4A6FDXqLA%3D%3D) | 
-| 第42期天元戦予選 | O Meien | Fujisawa Kazunari | B+R | 2015-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9jQB93nV9Ozp4JYJzduQjA%3D%3D) | 
-| 第54期十段戦予選 | O Meien | Seto Taiki | B+R | 2015-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IIvb8N44ypmG0qSuuGbpEA%3D%3D) | 
-| 第71期本因坊戦予選 | Muramatsu Hiroki | O Meien | B+R | 2015-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x7yBZqTERaw8HD%2B208%2BLOw%3D%3D) | 
-| 第40期棋聖戦Bリーグ | Sonoda Yuichi | O Meien | W+R | 2015-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QkJG%2BEuLHW9H1yRSdRmRBA%3D%3D) | 
-| 第40期棋聖戦Bリーグ | Yamada Kimio | O Meien | B+R | 2015-07-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mN4QXi8jcPFqjId%2FBk%2FK4A%3D%3D) | 
-| 第41期碁聖戦予選 | O Meien | Takano Hideki | B+8.5 | 2015-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DmJoFtiCSTRbXApZF0fXCw%3D%3D) | 
-| 第40期棋聖戦Bリーグ | O Meien | Suzuki Yoshimichi | B+13.5 | 2015-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d0w5zhMefnOqaPQnj0BL6g%3D%3D) | 
-| 第41期名人戦予選 | Anzai Nobuaki | O Meien | B+R | 2015-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t3r8cfe5d0HxLEH0ssMAxA%3D%3D) | 
-| 第71期本因坊戦予選 | O Meien | Mimura Tomoyasu | B+R | 2015-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6VLUrnRnwgp446iVsK2jkQ%3D%3D) | 
-| 第40期棋聖戦Bリーグ | Kiyonari Tetsuya | O Meien | B+R | 2015-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IBd2fcsn%2F%2BdU3Q4BIGc%2BtQ%3D%3D) | 
-| 第40期棋聖戦Bリーグ | O Meien | So Yokoku | B+R | 2015-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G4ZZzigBW4AgCc0MIa83zg%3D%3D) | 
-| 第54期十段戦予選 | Hsu Chiayuan | O Meien | W+R | 2015-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9fVXNs90hTsDSoDsNuzgMQ%3D%3D) | 
-| 第71期本因坊戦予選 | Shuto Shun | O Meien | W+R | 2015-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rrWWxCPeO4nN05%2FdJ5p%2BhQ%3D%3D) | 
-| 第40期棋聖戦Bリーグ | O Meien | Kim Sujun | B+R | 2015-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kOJWdlKQMOarNfDtWqEg9A%3D%3D) | 
-| 第71期本因坊戦予選 | Takemiya Youkou | O Meien | W+R | 2015-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a81w%2FqwaYHgod5Im2lYd2A%3D%3D) | 
-| 第63期王座戦予選 | O Meien | Yamashiro Hiroshi | W+R | 2015-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F0xD0hgPWouLqlqysr22Bg%3D%3D) | 
-| 第41期天元戦本戦2回戦 | Yuki Satoshi | O Meien | B+R | 2015-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LnES3k7lnuKc2DVZRdkIYg%3D%3D) | 
-| 第40期棋聖戦Bリーグ | Shida Tatsuya | O Meien | B+3.5 | 2015-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LdhhrqcrMGugNPZdO8lL%2FA%3D%3D) | 
-| 第5回フマキラー囲碁マスターズカップ1回戦 | O Meien | Kudo Norio | W+R | 2015-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D8Kc8tY0szGDQcsq00PAYg%3D%3D) | 
-| 第54期十段戦予選 | Kono Takashi | O Meien | W+R | 2015-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B4k1i7V4HifjnbglsOqReQ%3D%3D) | 
-| 第41期天元戦本戦1回戦 | Yu Zhengqi | O Meien | W+R | 2015-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AASx88syhcs4BU%2FBjSfpLQ%3D%3D) | 
-| 第63期王座戦予選 | Yo Kaei | O Meien | W+R | 2015-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P7DWBGn6pYBmfXY63HGkOg%3D%3D) | 
-| 第63期王座戦予選 | O Meien | Komatsu Hideki | B+R | 2014-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IuPrlZThs1m1vyhHncfcLg%3D%3D) | 
-| 第40期名人戦予選 | O Meien | Kanazawa Makoto | W+1.5 | 2014-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Polqlyqeh%2FFTmAldnT0BUg%3D%3D) | 
-| 第40期名人戦予選 | O Meien | Yamashiro Hiroshi | B+R | 2014-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lDiMOp%2BaJWo5gkfijnhEog%3D%3D) | 
-| 第41期天元戦予選 | O Meien | Iguchi Hideichiro | B+R | 2014-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=faaVKtqQmDO6McMvtaLp%2FQ%3D%3D) | 
-| 第40期名人戦予選 | Hikosaka Naoto | O Meien | W+R | 2014-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L9vNrifBDl6MQ%2F4%2B84lViQ%3D%3D) | 
-| 第41期天元戦予選 | O Meien | Cho Riyu | B+R | 2014-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m21c2Inv586O%2F65A4wiJAg%3D%3D) | 
-| 第40期名人戦予選 | Suzuki Shinji | O Meien | W+R | 2014-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bFn8RZsyFThEuDHZusTEzg%3D%3D) | 
-| 第53期十段戦予選 | O Meien | Kobayashi Koichi | W+R | 2014-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vjvD7iCRxCGUXsoCGMQjzA%3D%3D) | 
-| 第40期碁聖戦予選 | Yoda Norimoto | O Meien | B+R | 2014-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xP%2BxpHsXni3rUzjivSJszQ%3D%3D) | 
-| 第40期名人戦予選 | Michael Redmond | O Meien | W+R | 2014-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RRNKaFyFBcxB7U3waYb%2FpQ%3D%3D) | 
-| 第40期名人戦予選 | O Meien | Ishida Yoshio | B+3.5 | 2014-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h%2BFkmNg9aLRVuB4CyBiLDQ%3D%3D) | 
-| 第70期本因坊戦予選 | O Meien | Kobayashi Satoru | W+0.5 | 2014-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ibnz6bXTiR5HJVHKB8kM2w%3D%3D) | 
-| 第4回フマキラー囲碁マスターズカップ1回戦 | O Meien | Kobayashi Koichi | W+R | 2014-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cv9AKnzjSQrB9nz64sArxA%3D%3D) | 
-| 第70期本因坊戦予選 | Mukai Kaori | O Meien | W+R | 2014-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZQqX8s9mTHm5xNfEw0P%2FNg%3D%3D) | 
-| 第40期天元戦予選 | O Meien | Kono Takashi | W+5.5 | 2014-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FhKAKIWgBgksRLO1K0xZ9g%3D%3D) | 
-| 第62期王座戦予選 | Ko Reibun | O Meien | B+2.5 | 2014-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k5N1%2BVR0%2BFsH8mTVatkrEw%3D%3D) | 
-| 2014年日台精鋭交流戦第6戦 | Zhou Junxun | O Meien | B+R | 2014-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7lBazc8fVRLbOJMed9UqwA%3D%3D) | 
-| 2014年日台精鋭交流戦第5戦 | Lin Shuyang | O Meien | W+R | 2014-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=685r5mJZ6C2NdVt0JDn5%2Bg%3D%3D) | 
-| 2014年日台精鋭交流戦第4戦 | O Meien | Lin Zhihan | B+R | 2014-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p6Tdo42a4zT0TD3GAOa76g%3D%3D) | 
-| 2014年日台精鋭交流戦第3戦 | Chen Shiyuan | O Meien | B+T | 2014-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T7ytHJT0lNGQveSwHtEdLA%3D%3D) | 
-| 2014年日台精鋭交流戦第2戦 | Lin Junyan | O Meien | W+R | 2014-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0LQEBmpbfa7r%2FVA3LHTWOg%3D%3D) | 
-| 2014年日台精鋭交流戦第1戦 | O Meien | Lin Lixiang | W+12.5 | 2014-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=70t65Q7JnppZa%2BKZm4Hgpg%3D%3D) | 
-| 第62期王座戦予選 | Ishikura Noboru | O Meien | W+R | 2013-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rbbCDTzHJg1f22buOunsQg%3D%3D) | 
-| 第39期棋聖戦予選 | O Meien | Tsuruyama Atsushi | W+R | 2013-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lLPoPaxizJQWEJQklBPIIA%3D%3D) | 
-| 第40期天元戦予選 | O Meien | Katsura Atsushi | B+R | 2013-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ereo4%2B8qDC%2BveVlFvUFeww%3D%3D) | 
-| 第39期棋聖戦予選 | O Meien | Mizuma Toshifumi | B+3.5 | 2013-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=48ogSFdYvkdgbgYl63XTmQ%3D%3D) | 
-| 第52期十段戦1回戦 | O Rissei | O Meien | B+R | 2013-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v66fL9iGgaE0QREYeQQcGQ%3D%3D) | 
-| 第39期碁聖戦予選 | Takemiya Masaki | O Meien | W+R | 2013-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XL%2B9BbaP2O01gQFSlTxxuw%3D%3D) | 
-| 第52期十段戦予選 | O Meien | Ogata Masaki | B+R | 2013-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PDbHC4k4xoW34TeL8dqCDA%3D%3D) | 
-| 第39期碁聖戦予選 | Okuda Aya | O Meien | W+2.5 | 2013-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0jFLf1a0TX3VdoeBBPJg5w%3D%3D) | 
-| 第39期名人戦予選 | Hirata Tomoya | O Meien | B+3.5 | 2013-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SFmpXvfI7s6o7QkDr8V%2FdA%3D%3D) | 
-| 第3回エステー＆フマキラー囲碁マスターズカップ準決勝 | O Meien | Kobayashi Satoru | W+R | 2013-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E0RVCQalqBjYB%2BZStTO%2BdA%3D%3D) | 
-| 第39期名人戦予選 | O Meien | Sonoda Yasutaka | B+R | 2013-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d705eaFhKIVtEu9UwND61g%3D%3D) | 
-| 第20期阿含・桐山杯全日本早碁オープン戦予選 | O Meien | Takao Shinji | W+R | 2013-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w5w%2FQfyS18OpeOh5GE9yEA%3D%3D) | 
-| 第52期十段戦予選 | Han Zenki | O Meien | W+R | 2013-05-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cbm4Q07HsV%2FM9SON%2Byu91Q%3D%3D) | 
-| 第3回エステー＆フマキラー囲碁マスターズカップ2回戦 | Cho Chikun | O Meien | W+10.5 | 2013-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mwlZ7bnR9HzuE%2BdLrZPlUQ%3D%3D) | 
-| 第69期本因坊戦予選 | O Meien | Kobayashi Satoru | W+R | 2013-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Em0iCQ42AnbBmpuzmYTnnA%3D%3D) | 
-| 第52期十段戦予選 | O Meien | Ohba Junya | B+R | 2013-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FEmgj7z6epPogdR4K5pcGg%3D%3D) | 
-| 第20期阿含・桐山杯全日本早碁オープン戦予選 | Nakano Yasuhiro | O Meien | W+R | 2013-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZKDEmRYOcwJHBw2fv3xtpA%3D%3D) | 
-| 第69期本因坊戦予選 | O Meien | Uchida Shuhei | B+R | 2013-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nWQztmgaSiMNAA%2FKO0YZNg%3D%3D) | 
-| 第3回エステー＆フマキラー囲碁マスターズカップ1回戦 | O Meien | Kudo Norio | B+R | 2013-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0wQtdjyb1wX5fD9y0cpSWg%3D%3D) | 
-| 第39期天元戦本戦1回戦 | Shida Tatsuya | O Meien | B+R | 2013-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4xe65b2KDHM5mzVpUPylnQ%3D%3D) | 
-| 第52期十段戦予選 | O Meien | Fujita Akihiko | B+2.5 | 2013-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DiNQIixYePumtcG0RZQWRw%3D%3D) | 
-| 第69期本因坊戦予選 | Lee Ishu | O Meien | W+R | 2013-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C2mEN7xD%2FGxkClopBIx%2BOQ%3D%3D) | 
-| 第38期棋聖戦予選 | O Meien | Murakawa Daisuke | W+R | 2013-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QMUea6LJ9g5HHmB8Zlc%2FAw%3D%3D) | 
-| 第61期王座戦予選 | Rin Shien | O Meien | B+R | 2013-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iUe%2B5J8wJjzO4LkzaW8gHg%3D%3D) | 
-| 第61期王座戦予選 | Xie Yimin | O Meien | W+0.5 | 2012-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nEz78y5hVJT7Eu43xXofIQ%3D%3D) | 
-| 第37期棋聖戦Aリーグ | Kobayashi Satoru | O Meien | B+4.5 | 2012-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XawfRTHb0hKeR61kmCVbUQ%3D%3D) | 
-| 第38期碁聖戦予選 | Kono Rin | O Meien | B+R | 2012-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0lOBgeONlaI7yeGJ9TUPKA%3D%3D) | 
-| 第37期棋聖戦Aリーグ | O Meien | Yamashita Keigo | W+6.5 | 2012-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=miJnmCnLsqfV3FsOO0rQhQ%3D%3D) | 
-| 第2回エステー＆フマキラー囲碁マスターズカップ決勝 | Cho Chikun | O Meien | W+3.5 | 2012-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BZViHMQPzU6GHZNKh%2Fs7JQ%3D%3D) | 
-| 第38期名人戦予選 | Cho Riyu | O Meien | B+1.5 | 2012-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NSNAQMbvxZg8%2F%2FEAMmfYxw%3D%3D) | 
-| 第37期棋聖戦Aリーグ | Takao Shinji | O Meien | B+2.5 | 2012-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B0P4wuN10rKvs2xCvCnmbg%3D%3D) | 
-| 第38期天元戦本戦準決勝 | O Meien | Anzai Nobuaki | W+R | 2012-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GLT4aYuW4j9eUXM2LyR6cw%3D%3D) | 
-| 第2回エステー＆フマキラー囲碁マスターズカップ準決勝 | Kataoka Satoshi | O Meien | W+R | 2012-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3hoscrQVWXvwxPRArz78Xw%3D%3D) | 
-| 第38期名人戦予選 | Tsuruyama Atsushi | O Meien | W+1.5 | 2012-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CKxyThRYRF09gOcN2%2B4B%2Bw%3D%3D) | 
-| 第37期棋聖戦Aリーグ | Ryu Shikun | O Meien | W+1.5 | 2012-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vid%2FUHq4pi7ffiZuGccgzg%3D%3D) | 
-| 第37期棋聖戦Aリーグ | O Meien | Kono Rin | B+R | 2012-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WSVsJkaDUq%2BFze%2FqGbxLVg%3D%3D) | 
-| 第2回エステー＆フマキラー囲碁マスターズカップ2回戦 | O Meien | Ishida Yoshio | B+0.5 | 2012-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=14G4cq8J3a7bkQKJHEq3xg%3D%3D) | 
-| 第38期天元戦本戦3回戦 | O Meien | Ryu Shikun | B+11.5 | 2012-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jLKPlfZsgEbq7b4WOzYKrg%3D%3D) | 
-| 第51期十段戦予選 | Kanazawa Makoto | O Meien | B+R | 2012-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PYAPLYK3QnNjeq3U5XC88w%3D%3D) | 
-| 第68期本因坊戦予選 | Rin Shien | O Meien | B+0.5 | 2012-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AyKbn5aEb%2Fw1HngKfS8B%2Bg%3D%3D) | 
-| 第2回エステー＆フマキラー囲碁マスターズカップ1回戦 | O Meien | Hane Yasumasa | B+R | 2012-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6RtHkmVoOoBG9grJ5PcEkw%3D%3D) | 
-| 第38期天元戦本戦2回戦 | O Meien | Lee Ishu | B+R | 2012-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ROap6ZQ2sljdIbsywF%2BM5w%3D%3D) | 
-| 第37期棋聖戦予選 | Sonoda Yuichi | O Meien | W+R | 2012-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F7m45WJGa%2Fxu8%2F7i%2FenYSw%3D%3D) | 
-| 第38期天元戦本戦1回戦 | O Meien | Hikosaka Naoto | B+R | 2012-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gLKqtQ2Gu%2FfWvp%2B3QISF%2Fw%3D%3D) | 
-| 第37期棋聖戦予選 | O Meien | Kato Atsushi | B+1.5 | 2012-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UT6KsfZluLZ8FKYxLdqHOg%3D%3D) | 
-| 第37期棋聖戦予選 | Moriyama Naoki | O Meien | W+R | 2012-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jNOskjYK3G5PWjJ1WoYNIw%3D%3D) | 
-| 第68期本因坊戦予選 | Ogoshi Ichiro | O Meien | W+R | 2012-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L00%2F5Xd0AVHeGCLZUY1KUw%3D%3D) | 
-| 第37期棋聖戦予選 | Miyazawa Goro | O Meien | W+R | 2011-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rgBEjEUn7IGAekAb5rmkmA%3D%3D) | 
-| 第37期棋聖戦予選 | O Meien | Anzai Nobuaki | B+3.5 | 2011-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L93NGUv30K5AsdjvbtfWCw%3D%3D) | 
-| 第37期碁聖戦予選 | Cho Sonjin | O Meien | B+R | 2011-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dXr43%2BbAUqF7ohOxQ8pWJA%3D%3D) | 
-| 第37期碁聖戦予選 | Awaji Shuzo | O Meien | W+R | 2011-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c8Xap5HwHy6sHQHsGmaMuQ%3D%3D) | 
-| 第37期天元戦挑戦者決定戦 | O Meien | Iyama Yuta | W+R | 2011-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4SIy5n0ktpVLxhostekU0g%3D%3D) | 
-| 第31期NECカップ囲碁トーナメント戦1回戦 | O Meien | Yamashita Keigo | W+5.5 | 2011-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V8C747caoUxuMg7QtaOcQQ%3D%3D) | 
-| 第24回世界囲碁選手権富士通杯1回戦 | Qiu Jun | O Meien | B+R | 2011-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DA0CGGZPZmvq6%2FRZnMDy9g%3D%3D) | 
-| 第60期王座戦予選 | Kobayashi Koichi | O Meien | W+4.5 | 2011-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kvE5pHAXmrEDEp6ctqnKvQ%3D%3D) | 
-| 第18期阿含・桐山杯全日本早碁オープン戦2回戦 | O Meien | Yamada Kimio | W+R | 2011-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=idwG9erDdmEcLUDF6rIw8g%3D%3D) | 
-| 第37期名人戦予選 | O Meien | Otake Hideo | W+R | 2011-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FbdbGXPNm%2FDORfcT%2FpOLnA%3D%3D) | 
-| 第18期阿含・桐山杯全日本早碁オープン戦1回戦 | O Meien | Sakai Hideyuki | B+0.5 | 2011-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EuibcP4o8y7wqFBc7DJueA%3D%3D) | 
-| 第37期天元戦本戦準決勝 | O Meien | Yamashita Keigo | B+R | 2011-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z74gAIleV1qNHJxzJUNhFw%3D%3D) | 
-| 第37期名人戦予選 | Anzai Nobuaki | O Meien | W+0.5 | 2011-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qrbda%2FIerdyH%2F959jaBFZA%3D%3D) | 
-| 第37期天元戦本戦3回戦 | O Meien | Cho U | B+R | 2011-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZR%2BVz0UqZgpaKG0%2FN8jyuQ%3D%3D) | 
-| 第18期阿含・桐山杯全日本早碁オープン戦予選 | Hane Naoki | O Meien | W+R | 2011-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HeMgU1sQt0hXBIvgUi7dwQ%3D%3D) | 
-| 第60期王座戦予選 | O Meien | Kataoka Satoshi | B+R | 2011-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F2rdaMbPQHPzRiNL6LpnSA%3D%3D) | 
-| 第18期阿含・桐山杯全日本早碁オープン戦予選 | Nakano Yasuhiro | O Meien | W+R | 2011-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M0NJGIjCGU9yWOWN5fzONg%3D%3D) | 
-| 第60期王座戦予選 | O Meien | Tamaki Shinobu | B+R | 2011-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zwPbshtMr7zSxUKhhX5RYA%3D%3D) | 
-| 第36期碁聖戦本戦3回戦 | O Meien | Yamashita Keigo | W+R | 2011-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z57DC6S3HLM6nFwNdo151A%3D%3D) | 
-| 第37期天元戦本戦2回戦 | Kono Takashi | O Meien | W+4.5 | 2011-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ov%2BrS1WlZito2wAhCoelLQ%3D%3D) | 
-| 第50期十段戦予選 | O Meien | Kobayashi Satoru | W+R | 2011-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o6jEd4nV6pJaO20ADoxYcw%3D%3D) | 
-| 第36期碁聖戦本戦2回戦 | Mizokami Tomochika | O Meien | W+R | 2011-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1FiTwZvjTz08XHBJqY91Tw%3D%3D) | 
-| 第67期本因坊戦予選 | Tsuruyama Atsushi | O Meien | B+R | 2011-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7diafddtpy8bNrohS9791g%3D%3D) | 
-| 第4期幽玄杯精鋭リーグ戦 | O Meien | Ida Atsushi | W+1.5 | 2011-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vLDl84YN0zUOZuH065kgRg%3D%3D) | 
-| 第30期NECカップ囲碁トーナメント戦準決勝 | Yamashita Keigo | O Meien | B+R | 2011-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L%2F5E02F7GIRtqRvXGT37FA%3D%3D) | 
-| 第36期棋聖戦予選 | O Meien | Kobayashi Koichi | W+0.5 | 2011-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LVkLCiiggqorLMLE1yXimg%3D%3D) | 
-| 第50期十段戦予選 | Kubo Hideo | O Meien | W+R | 2010-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lkb1N52EkT0BS8G9or%2B83w%3D%3D) | 
-| 第36期棋聖戦予選 | Yamada Takuji | O Meien | W+R | 2010-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N6mFdE204Hjvd%2FeQ1NbJzA%3D%3D) | 
-| 第37期天元戦本戦1回戦 | O Meien | Matsuoka Hideki | B+5.5 | 2010-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hnOw1fHQF8vb9dXM7TmpAg%3D%3D) | 
-| 2010年アジア競技大会囲碁男子団体戦 | O Meien | Iyama Yuta | W+T | 2010-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KootKrjy63rjbLx2hgW3Pg%3D%3D) | 
-| 2010年アジア競技大会囲碁男子団体戦 | Gu Li | O Meien | B+R | 2010-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=98URF7U75vec4NpLm0%2FYmA%3D%3D) | 
-| 第37期天元戦予選 | O Meien | Kobayashi Koichi | B+5.5 | 2010-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cRLwdnbrEnkLVOYHl6%2FpAg%3D%3D) | 
-| 第4期幽玄杯精鋭リーグ戦 | O Meien | Fujisawa Rina | B+R | 2010-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kkoVktsrim%2BrUy7F7nLM%2BA%3D%3D) | 
-| 第36期名人戦予選 | Rin Kanketsu | O Meien | B+R | 2010-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TiHUFFt5cGbx0%2BZHpDnVgw%3D%3D) | 
-| 第36期碁聖戦予選 | O Meien | Mimura Tomoyasu | B+4.5 | 2010-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yb4BHK4RsxYdrBAAz8ji7A%3D%3D) | 
-| 第36期名人戦予選 | O Meien | Goto Shungo | B+R | 2010-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZeMIeu%2Btdm585uu1I4C8Bg%3D%3D) | 
-| 第35期棋聖戦Aリーグ | O Meien | Takao Shinji | W+3.5 | 2010-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MQmrRnQ61WtuPToqDPV%2Fng%3D%3D) | 
-| 第37期天元戦予選 | Morita Michihiro | O Meien | W+R | 2010-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=90IHWkbmmesl0Ipb%2Bwnq8Q%3D%3D) | 
-| 第36期碁聖戦予選 | O Meien | Kataoka Satoshi | B+1.5 | 2010-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FadD9%2F4IKG1Jg6TnDQBA1w%3D%3D) | 
-| 第59期王座戦予選 | O Meien | Kono Takashi | W+1.5 | 2010-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BJTb0F8qG%2FXuHFsQW0EMXg%3D%3D) | 
-| 第35期棋聖戦Aリーグ | O Meien | Yoda Norimoto | W+R | 2010-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hje4lFMOwXkCRohI6E6jwA%3D%3D) | 
-| 第36期名人戦予選 | Sakakibara Masateru | O Meien | W+R | 2010-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4rZHdRskRcHaW%2Fb0UpUhMQ%3D%3D) | 
-| 第6回大和証券杯ネット囲碁オープン1回戦 | O Meien | Anzai Nobuaki | W+5.5 | 2010-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zRTX7k4P48mMegUoUoqeMg%3D%3D) | 
-| 第30期NECカップ囲碁トーナメント戦2回戦 | O Meien | Iyama Yuta | B+2.5 | 2010-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6OHUyKDlIrRJ4X88eXC2xA%3D%3D) | 
-| 第35期棋聖戦Aリーグ | Kato Atsushi | O Meien | W+R | 2010-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zXSgCixmU6JO7CSU1AXLyw%3D%3D) | 
-| 第59期王座戦予選 | O Meien | Xie Yimin | B+R | 2010-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P3mqX4%2BEM61Qfy9nA4fCBw%3D%3D) | 
-| 第35期棋聖戦Aリーグ | Kono Rin | O Meien | B+R | 2010-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=34O5M1IkmXMiUkqszCt7fw%3D%3D) | 
-| 第30期NECカップ囲碁トーナメント戦1回戦 | Yoda Norimoto | O Meien | W+R | 2010-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K84Ds%2F49HyXhtxlxzeKb%2FA%3D%3D) | 
-| 第35期名人戦リーグ | O Meien | Sakai Hideyuki | B+0.5 | 2010-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hnpga1q%2FoK4MtXaCU8Q%2B4A%3D%3D) | 
-| 第35期棋聖戦Aリーグ | Yamashita Keigo | O Meien | B+R | 2010-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9NCVM%2BiLCOhPLDU0gHyUDA%3D%3D) | 
-| 第36期碁聖戦予選 | Ogaki Yusaku | O Meien | W+R | 2010-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kN8wux1OG5%2FSNMZ%2Bw%2FJX2Q%3D%3D) | 
-| 第35期名人戦リーグ | Cho U | O Meien | B+R | 2010-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m47Yg%2BKt9cQkOW3uWnU0xg%3D%3D) | 
-| 第35期名人戦リーグ | O Meien | Mizokami Tomochika | W+R | 2010-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qnVgNgFqhQgCdRSHFQscVw%3D%3D) | 
-| 第59期王座戦予選 | O Meien | Miyazaki Shimako | B+R | 2010-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eAgR96QDP%2BvDQW9wCieTdg%3D%3D) | 
-| 第66期本因坊戦予選 | Kobayashi Satoru | O Meien | B+R | 2010-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z8QQv0bMTuLNTpYm%2BNzNjw%3D%3D) | 
-| 第17期阿含・桐山杯全日本早碁オープン戦予選 | Cho Sonjin | O Meien | B+R | 2010-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=idfsxIFdywisfBT%2BCX114Q%3D%3D) | 
-| 第35期名人戦リーグ | Yuki Satoshi | O Meien | B+R | 2010-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NXb88%2FjXPiCRTLT94NQN4g%3D%3D) | 
-| 第49期十段戦予選 | Chin Kaei | O Meien | B+R | 2010-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IOe9LyOFOh%2BdF91r598JWg%3D%3D) | 
-| 第59期王座戦予選 | Takamizawa Tadao | O Meien | W+R | 2010-03-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Yl7n5zVfZm%2ByUFE5GYp%2FA%3D%3D) | 
-| 第66期本因坊戦予選 | Michael Redmond | O Meien | W+R | 2010-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sKc%2Bevxpnn6i%2FQovn4iy9Q%3D%3D) | 
-| 第35期名人戦リーグ | O Meien | Yamada Kimio | B+5.5 | 2010-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k%2FvndHCtSbQQdZsTfQwE5g%3D%3D) | 
-| 第35期棋聖戦予選 | Ko Iso | O Meien | W+R | 2010-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XNOwe8PF06uWe0YRqOZk0w%3D%3D) | 
-| 第35期名人戦リーグ | O Meien | Cho Chikun | W+R | 2010-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BGgkFuZfRxfcufso4IGx7g%3D%3D) | 
-| 第66期本因坊戦予選 | Nakamura Hidehito | O Meien | W+R | 2010-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=akZdZQL%2FW1PzvSwiOOWrTg%3D%3D) | 
-| 第35期棋聖戦予選 | O Meien | Ko Reibun | B+1.5 | 2010-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gIvp5Y9fcBPx507b9wSDHw%3D%3D) | 
-| 第35期名人戦リーグ | Takao Shinji | O Meien | B+R | 2010-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yr%2BRoPXUmHKT6Gm5xgw6Gw%3D%3D) | 
-| 第35期棋聖戦予選 | Ueki Yoshio | O Meien | W+R | 2009-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mWjtJ6tje%2FHZMPIm3U7ZEA%3D%3D) | 
-| 第35期名人戦リーグ | Ogata Masaki | O Meien | W+R | 2009-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=md95hLkWa7RD7%2BcToVqKNg%3D%3D) | 
-| 第35期棋聖戦予選 | O Meien | Ogaki Yusaku | B+R | 2009-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a80clsIMpFpwdf4r0HJTDw%3D%3D) | 
-| 第35期棋聖戦予選 | Kojima Takaho | O Meien | W+R | 2009-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tpjJdhF3eomW8js%2FV6o%2FHg%3D%3D) | 
-| 第35期名人戦予選 | Kono Rin | O Meien | W+1.5 | 2009-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4p%2BxdJQSQ3%2BkNasYxW7pMA%3D%3D) | 
-| 第36期天元戦予選 | Ryu Shikun | O Meien | B+R | 2009-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i0aAJUeDMtoxJZu8ftLxLw%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン3回戦 | O Meien | Kono Rin | W+R | 2009-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FSo6G80hpygKmgyAurhmAg%3D%3D) | 
-| 第35期名人戦予選 | Honda Kunihisa | O Meien | W+4.5 | 2009-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aYpuClbGMEJdkWFa%2BprVvQ%3D%3D) | 
-| 第36期天元戦予選 | O Meien | Umezawa Yukari | B+R | 2009-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ajlnek0Kk4spNg718dFpsg%3D%3D) | 
-| 第48期十段戦敗者復活戦2回戦 | So Yokoku | O Meien | B+1.5 | 2009-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qZQ8KB9zR0DI%2BIjCeDzkMw%3D%3D) | 
-| 第23回世界囲碁選手権富士通杯国内予選 | Uchida Shuhei | O Meien | Void | 2009-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z3Uib3JPYoXvSgwc70xxvA%3D%3D) | 
-| 第35期名人戦予選 | O Meien | Goto Shungo | B+2.5 | 2009-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d7iHBSMlFHlS8eeb%2FqqkVg%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン2回戦 | Hane Naoki | O Meien | W+0.5 | 2009-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ak68deNaB6B4E%2BTh6GreHA%3D%3D) | 
-| 第58期王座戦予選 | Cho Riyu | O Meien | B+R | 2009-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aW9U%2F1yHRmDxaTabFucTfw%3D%3D) | 
-| 第35期碁聖戦予選 | O Meien | Iguchi Hideichiro | W+0.5 | 2009-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=98Nc3nQQ3c19d42sxBK9fA%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン1回戦 | Yoda Norimoto | O Meien | W+R | 2009-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s%2B8%2BXo6xqtbLCLovxtbyKQ%3D%3D) | 
-| 第34期名人戦リーグ | Takao Shinji | O Meien | B+R | 2009-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hHv6H9YMu7iDf2pchTceFA%3D%3D) | 
-| 第48期十段戦本戦2回戦 | Lee Ishu | O Meien | B+2.5 | 2009-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5xHM3D5fiXG7dYjvAjFO2A%3D%3D) | 
-| 第34期名人戦リーグ | O Meien | Cho Chikun | W+R | 2009-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TdwLME575dzgv%2FiENqMfzg%3D%3D) | 
-| 第29期NECカップ囲碁トーナメント戦1回戦 | O Meien | Kataoka Satoshi | W+R | 2009-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i6MDn3m8TdK9Tr2i6ro81g%3D%3D) | 
-| 第34期名人戦リーグ | O Meien | Sakai Hideyuki | W+3.5 | 2009-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BFqetMR2YUv3TH7QWbOfjQ%3D%3D) | 
-| 第48期十段戦本戦1回戦 | O Meien | Tsuruyama Atsushi | B+R | 2009-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hm%2B%2FeiWCf15jxeLM6VgZiQ%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン予選 | O Meien | Ko Reibun | B+7.5 | 2009-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vgGG3dmTEBop3wBytjCbiA%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン予選 | O Meien | Xie Yimin | B+R | 2009-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KYI%2Bo%2BPOK7zwCKNm5PihuQ%3D%3D) | 
-| 第48期十段戦予選 | O Meien | Ishida Atsushi | B+R | 2009-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ap6p09dPTyyS8CsEwmOuFw%3D%3D) | 
-| 第34期名人戦リーグ | Cho Riyu | O Meien | W+R | 2009-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sfo5k3vfiS1fkTSMtW7Mfw%3D%3D) | 
-| 第65期本因坊戦予選 | Kanda Ei | O Meien | B+2.5 | 2009-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2m0tB8J2ShvUWnSWEC0wCQ%3D%3D) | 
-| 第48期十段戦予選 | Kurahashi Masayuki | O Meien | W+R | 2009-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uZ%2B8AuJzv1P1FELoxdVEiA%3D%3D) | 
-| 第35期天元戦本戦2回戦 | Takao Shinji | O Meien | B+R | 2009-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BFcOBnBOrsG0H%2BZsTtTviQ%3D%3D) | 
-| 第34期名人戦リーグ | Yamada Kimio | O Meien | B+0.5 | 2009-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n5PxwtgUYU0qCW%2BtrXC7Xw%3D%3D) | 
-| 第65期本因坊戦予選 | Kono Takashi | O Meien | W+R | 2009-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lOLM5jawEMRXL9xhxuhWlQ%3D%3D) | 
-| 第34期碁聖戦本戦2回戦 | Yuki Satoshi | O Meien | B+R | 2009-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qIl4PyOhQSXadi26QiFDWw%3D%3D) | 
-| 第35期天元戦本戦1回戦 | O Meien | Cho Chikun | B+R | 2009-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NmJYHBWkE6hVWVKe5p%2FDdg%3D%3D) | 
-| 第34期名人戦リーグ | Kobayashi Satoru | O Meien | W+R | 2009-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TOYtz4d%2FSp2D%2BPkOjY9t2Q%3D%3D) | 
-| 第48期十段戦予選 | O Meien | Kenmochi Joe | B+R | 2009-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hY%2BSkSM5Xtd5%2Bjl9ywC5BQ%3D%3D) | 
-| 第34期名人戦リーグ | O Meien | Ogata Masaki | W+R | 2009-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i1PR2mWtvixoBXpwJmf24w%3D%3D) | 
-| 第34期棋聖戦予選 | Yuki Satoshi | O Meien | B+R | 2009-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9QOMn1v1gG%2BGnaG94THa9w%3D%3D) | 
-| 第34期碁聖戦本戦1回戦 | O Meien | Oya Koichi | B+13.5 | 2008-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IkYlPFOnO59F4YS6gzI31g%3D%3D) | 
-| 第48期十段戦予選 | Cho Riyu | O Meien | W+2.5 | 2008-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wM6tMtTnUsYcisOvLONOZQ%3D%3D) | 
-| 第34期名人戦リーグ | O Meien | Iyama Yuta | W+R | 2008-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MSIqRwfTDxGGAQTufnaRrA%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | O Meien | Kumamoto Syusei | B+R | 2008-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cq%2FofEEUtk7IEln0gtbiAA%3D%3D) | 
-| 第34期棋聖戦予選 | Ohba Junya | O Meien | W+R | 2008-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lchCQsYWGb7yx%2FauqNDu4A%3D%3D) | 
-| 第35期天元戦予選 | O Meien | Kobayashi Koichi | B+1.5 | 2008-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7lWb8IuRr2x0hOE3C1WlXQ%3D%3D) | 
-| 第57期王座戦予選 | O Meien | Ryu Shikun | W+R | 2008-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vIzefeQndY1mn%2ByyPrBEzA%3D%3D) | 
-| 第34期棋聖戦予選 | O Meien | Mitsunaga Junzo | B+R | 2008-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yHGxEYL%2Fy3tfd8BlZQPSQg%3D%3D) | 
-| 第34期名人戦予選 | O Meien | Yamada Noriyoshi | B+7.5 | 2008-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jSAxpMFP8W08ef1sV5o8ow%3D%3D) | 
-| 第34期碁聖戦予選 | Han Zenki | O Meien | W+4.5 | 2008-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UD4ncnM1ROwxedyOCmS7Iw%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Park Cheongsang | O Meien | B+2.5 | 2008-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DJraOGA41FDSy%2F9PZw7AQQ%3D%3D) | 
-| 第34期名人戦予選 | Yoda Norimoto | O Meien | W+2.5 | 2008-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tP1oT%2BcFEp9j%2BuOuiat1Xg%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | O Meien | Osawa Kenro | B+6.5 | 2008-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o9A%2BzFoHBTMu1PVLDkjM7w%3D%3D) | 
-| 第48期十段戦予選 | Horimoto Mitsunari | O Meien | W+R | 2008-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=94uTcwcUD7K29m7%2BYPblwg%3D%3D) | 
-| 第35期天元戦予選 | O Meien | Hashimoto Yujiro | B+R | 2008-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aswq8kZ4LFrvCNTkoJ5qBA%3D%3D) | 
-| 第34期碁聖戦予選 | O Meien | Matsumoto Takehisa | B+1.5 | 2008-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MFuWbuuN%2B3ktA%2FV1vBYQgQ%3D%3D) | 
-| 第34期名人戦予選 | Cho Sonjin | O Meien | W+R | 2008-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m8CodDR1UqLIqfsynJrqOQ%3D%3D) | 
-| 第34期名人戦予選 | O Meien | Mimura Tomoyasu | B+R | 2008-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7zoCkvBO1hCF7j23ScGFpQ%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Oda Teppei | O Meien | W+R | 2008-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EVNMMBBnfolJkLTkLzE%2F2w%3D%3D) | 
-| 第34期碁聖戦予選 | missing | O Meien | W+R | 2008-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OsxS4nqmDx%2FsUZiPj6GrVg%3D%3D) | 
-| 第4回大和証券杯ネット囲碁オープン予選 | Nakaonoda Tomomi | O Meien | B+10.5 | 2008-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eNDQ5m1XPENrp5To2OPeRw%3D%3D) | 
-| 第6回応氏杯世界選手権2回戦 | O Meien | Liu Xing | W+R | 2008-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cvaPP%2BPFOpSAkrVav%2BheRg%3D%3D) | 
-| 第64期本因坊戦予選 | O Meien | Kurotaki Masanori | B+R | 2008-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p%2BOVATRpr8%2FbJYdQ1ybf%2BA%3D%3D) | 
-| 第34期名人戦予選 | O Meien | Kubo Hideo | B+3.5 | 2008-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9ikMHuMvTfPM%2BcJko%2BZykg%3D%3D) | 
-| 第33期棋聖戦予選 | O Meien | Honda Kunihisa | W+5.5 | 2008-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8SDbmEK03Okj3%2FUuPWOmCA%3D%3D) | 
-| 第63期本因坊戦リーグ | O Meien | Yamada Kimio | W+R | 2008-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=By3JHhrqOF48sGxCTjUgVg%3D%3D) | 
-| 第63期本因坊戦リーグ | So Yokoku | O Meien | W+R | 2008-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b5cIFsa3l5ec7SIdCybgSw%3D%3D) | 
-| 第33期棋聖戦予選 | Seto Taiki | O Meien | W+0.5 | 2008-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jj%2B%2B%2FtpTZjB3qvpOWHy1rQ%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | O Meien | Ogata Masaki | W+R | 2008-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Byx8ru7WMn5%2F6fy%2F9aPIEA%3D%3D) | 
-| 第33期棋聖戦予選 | O Meien | Imamura Toshiya | B+T | 2008-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Ln%2BMCqQyg1WNrjg5AWZFg%3D%3D) | 
-| 第63期本因坊戦リーグ | Hane Naoki | O Meien | B+R | 2008-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L0n4wsVimGBRheh40ogeDw%3D%3D) | 
-| 第1期幽玄杯精鋭リーグ戦 | O Meien | Takeda Yoshinori | B+R | 2008-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QK%2FXqOLylfTXsPkV%2F9b%2B6A%3D%3D) | 
-| 第56期王座戦予選 | Hikosaka Naoto | O Meien | B+R | 2008-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B76wEWoMwmoZNEen%2FQqueA%3D%3D) | 
-| 第63期本因坊戦リーグ | Cho U | O Meien | B+8.5 | 2008-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JtlhaeLU3QfgmG%2BNH5qHHA%3D%3D) | 
-| 第1期幽玄杯精鋭リーグ戦 | Imamura Yoshiaki | O Meien | W+R | 2007-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V6FUY%2FMSjaDM01gdAwYkVA%3D%3D) | 
-| 第63期本因坊戦リーグ | O Meien | Yamashita Keigo | W+R | 2007-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iamNsuVEphSMotbZFEDH8A%3D%3D) | 
-| 第33期棋聖戦予選 | Uchida Shuhei | O Meien | W+10.5 | 2007-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=byWaHh%2BiK5%2BqLYJWAjulww%3D%3D) | 
-| 第63期本因坊戦リーグ | O Meien | Mizokami Tomochika | B+R | 2007-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rCetw9J2O1M%2F4do4bDJHaA%3D%3D) | 
-| 第47期十段戦予選 | Anzai Nobuaki | O Meien | B+R | 2007-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hnV%2BV8Cc4YvdK0NgulgA6g%3D%3D) | 
-| 第33期棋聖戦予選 | O Meien | Omori Yasushi | B+R | 2007-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8HbztfZXBNJQ0AXxY3raSw%3D%3D) | 
-| 第63期本因坊戦リーグ | O Meien | Yoda Norimoto | B+R | 2007-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bW1tlLKPNPa%2FOTORRlyUdA%3D%3D) | 
-| 第56期王座戦予選 | O Meien | Akiyama Jiro | B+R | 2007-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uUDi5bxZHw7cJJoYY%2FQbhA%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン2回戦 | Yamada Kimio | O Meien | B+R | 2007-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YAvMQB77ieP%2Fselh24dYbA%3D%3D) | 
-| 第56期王座戦予選 | Nishimura Keiji | O Meien | W+R | 2007-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X4oTUzfUKeC0eb8cup7o1g%3D%3D) | 
-| 第33期名人戦予選 | O Meien | Cho Chikun | W+R | 2007-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kjwFg7wC048lR6qC8Txk2g%3D%3D) | 
-| 第27期NECカップ囲碁トーナメント戦1回戦 | Kobayashi Satoru | O Meien | B+0.5 | 2007-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j%2BBoeY%2Fj4TET6h4AgqeCDQ%3D%3D) | 
-| 第63期本因坊戦予選 | O Meien | Ko Iso | B+R | 2007-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0vGbWOFiiPMbh2XsaVab5Q%3D%3D) | 
-| 第34期天元戦予選 | Yo Kaei | O Meien | W+2.5 | 2007-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XMfTZur%2FEeEIswJxUXNMbw%3D%3D) | 
-| 第33期碁聖戦予選 | Awaji Shuzo | O Meien | B+R | 2007-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rngxPutoW1cvqOE5suWSLQ%3D%3D) | 
-| 第63期本因坊戦予選 | Ishida Yoshio | O Meien | W+8.5 | 2007-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mgmnp273DVM9qhG9ZPU4MA%3D%3D) | 
-| 第33期碁聖戦予選 | missing | O Meien | W+4.5 | 2007-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6nJnGzG6lhqfRx%2BzF3xkpQ%3D%3D) | 
-| 第14期阿含・桐山杯全日本早碁オープン戦予選 | O Meien | Yamashiro Hiroshi | W+R | 2007-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DD9mxrIaeqeOZfsqEdrYOQ%3D%3D) | 
-| 第63期本因坊戦予選 | O Meien | Nakamura Shinya | B+R | 2007-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F%2BcSXJxYOlleZlaQ%2FGoong%3D%3D) | 
-| 第33期名人戦予選 | O Meien | Ko Mosei | B+R | 2007-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eWpxoYnTppTeNIbV%2BuFJKQ%3D%3D) | 
-| 第62期本因坊戦リーグ | Cho Sonjin | O Meien | W+R | 2007-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6tW8JYbFlYPTWZNaR%2FTfTg%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープン決勝三番勝負第2局 | O Meien | Yoda Norimoto | B+9.5 | 2007-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3JFmVS7KKD5eiTc8uceZdQ%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープン決勝三番勝負第1局 | Yoda Norimoto | O Meien | W+3.5 | 2007-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XFFNWVMcAQQ0WGRIXFwefw%3D%3D) | 
-| 第46期十段戦予選 | Yukawa Mitsuhisa | O Meien | B+1.5 | 2007-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5rglZjmCzeCt6xXjnqmxqg%3D%3D) | 
-| 第62期本因坊戦リーグ | Yoda Norimoto | O Meien | B+3.5 | 2007-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uHCaF5eCvdxYv3x3G8TGSQ%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープン決勝トーナメント準決勝 | O Meien | Cho U | B+3.5 | 2007-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iUYzV0n7TCMjk%2BTaDOa9mg%3D%3D) | 
-| 第46期十段戦予選 | O Meien | Nakano Hironari | B+2.5 | 2007-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hlg9RFtnHmIvL3gdiz1LhQ%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープン決勝トーナメント1回戦 | Kono Rin | O Meien | W+R | 2007-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ArpHNPBnX2aUlRJiGPyr3A%3D%3D) | 
-| 第62期本因坊戦リーグ | O Meien | Kobayashi Satoru | B+R | 2007-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5hTFw4KbmMnSs0npnkuMKQ%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープンBリーグ | Yamada Kimio | O Meien | W+6.5 | 2007-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WpbzRFXdw1K2D1n4pbfY%2FQ%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープンBリーグ | O Meien | Komatsu Hideki | W+R | 2007-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xSX7C8BUVRp15nFxS2Pr0A%3D%3D) | 
-| 第26期NECカップ囲碁トーナメント戦準決勝 | Takao Shinji | O Meien | B+R | 2007-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oPqzYafCYEyQ5pwTb0vaww%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープンBリーグ | Matsumoto Takehisa | O Meien | W+R | 2007-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HVQ7tpD4MdzeR%2BTlETuL%2Fw%3D%3D) | 
-| 第62期本因坊戦リーグ | O Meien | Yamada Kimio | B+R | 2007-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S8HXuEb8EhR1DICqGEpt3g%3D%3D) | 
-| 第55期王座戦予選 | O Meien | Kudo Norio | W+R | 2007-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zpJ2ZpEWfW%2FdEBmbWA01%2FQ%3D%3D) | 
-| 第62期本因坊戦リーグ | Cho U | O Meien | B+0.5 | 2006-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SoFEz%2Bl5flDZgYbJ8r%2BWFQ%3D%3D) | 
-| 第46期十段戦予選 | Ishida Yoshio | O Meien | W+5.5 | 2006-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IhZwz%2F1G9%2BVA7RdKoEUhxg%3D%3D) | 
-| 第26期NECカップ囲碁トーナメント戦2回戦 | O Meien | Kobayashi Satoru | B+1.5 | 2006-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wXxQ9mQUO9y6QQbUztvRUg%3D%3D) | 
-| 第62期本因坊戦リーグ | O Meien | Hane Naoki | W+R | 2006-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wVhOTjgVEHWtuGlj9ROFKQ%3D%3D) | 
-| 第46期十段戦予選 | O Meien | Morita Michihiro | B+R | 2006-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yM7ipV8pCS0xzEl94CLwyw%3D%3D) | 
-| 第1回大和証券杯ネット囲碁オープン決勝トーナメント1回戦 | O Meien | Cho U | W+R | 2006-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oIIbqfLIL1dXMYljj00rhQ%3D%3D) | 
-| 第62期本因坊戦リーグ | O Meien | So Yokoku | W+R | 2006-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SKP%2BN6g%2BqwnzrjT%2Fxzg0RA%3D%3D) | 
-| 第1回大和証券杯ネット囲碁オープンCリーグ | O Meien | Michael Redmond | B+2.5 | 2006-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bARADzdq3XEZ2ZVblAatCg%3D%3D) | 
-| 第55期王座戦予選 | Hoshino Masaki | O Meien | W+R | 2006-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2LgYJ4YIVZxhcUUFF7zkrw%3D%3D) | 
-| 第1回大和証券杯ネット囲碁オープンCリーグ | O Meien | Yamashiro Hiroshi | B+R | 2006-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cxQWBroWB2a5qJlRf9%2BKxg%3D%3D) | 
-| 第1回大和証券杯ネット囲碁オープンCリーグ | O Meien | Mimura Tomoyasu | B+R | 2006-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w%2F22deOACt%2BIvSMkgGiJMA%3D%3D) | 
-| 第33期天元戦予選 | O Meien | Kurotaki Masanori | B+R | 2006-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ki463ppXl1FG%2FOQh7kEajg%3D%3D) | 
-| 第32期名人戦予選 | O Meien | Yokota Shigeaki | W+R | 2006-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gcePvkNISQjkT5c6U4hAJA%3D%3D) | 
-| 第55期王座戦予選 | O Meien | Tahara Yasufumi | B+R | 2006-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CycfvYs95Rc6o37GOYEg4Q%3D%3D) | 
-| 第32期碁聖戦予選 | O Meien | Ishida Akira | W+R | 2006-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MNEEsEF9YnheRroV4slK3A%3D%3D) | 
-| 第62期本因坊戦予選 | Rin Shien | O Meien | W+1.5 | 2006-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sWA9Q24nzfWzxDWzNj3U6A%3D%3D) | 
-| 第32期名人戦予選 | O Meien | Cho Sonjin | B+R | 2006-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YfN9Ybdy6judtSDycXsAPw%3D%3D) | 
-| 第62期本因坊戦予選 | O Meien | Ohba Junya | B+R | 2006-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r7z5pzzYYc9yhOzbU%2B%2BjHQ%3D%3D) | 
-| 第62期本因坊戦予選 | O Meien | Ogata Masaki | B+4.5 | 2006-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=80LCKQDAlYwvaBc0kWXQYA%3D%3D) | 
-| 第26期NECカップ囲碁トーナメント戦1回戦 | O Meien | Cho Sonjin | B+0.5 | 2006-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LbLwsms7Pp4kKYvQqxQs3Q%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第3戦 | O Meien | Yoda Norimoto | W+R | 2006-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uYNmBsCpxt0l0CJFzWaFfg%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第2戦 | O Meien | Lee Sedol | W+R | 2006-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kEMaMxnEvroIx9LrfzOtpQ%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第1戦 | Kong Jie | O Meien | B+R | 2006-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O17%2BthZNxdo2AB8lY6kwSw%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Sakai Hideyuki | O Meien | B+R | 2006-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nI5Srr7ZoGlly2xLPFfHTQ%3D%3D) | 
-| 第61期本因坊戦リーグ | Yoda Norimoto | O Meien | B+R | 2006-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NYBbKQzvBIUo2ZSkHQb%2BHw%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Ishida Atsushi | O Meien | W+R | 2006-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GBovS0sqCDd7VW8V%2B8%2BcBw%3D%3D) | 
-| 第61期本因坊戦リーグ | O Rissei | O Meien | B+3.5 | 2006-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xls%2BokaH140FAQkd6sKxHQ%3D%3D) | 
-| 第61期本因坊戦リーグ | So Yokoku | O Meien | B+R | 2006-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rRg%2FHQSse%2FvDubQFvaInkQ%3D%3D) | 
-| 第32期天元戦本戦1回戦 | O Meien | Mizokami Tomochika | W+R | 2006-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lUm%2B0vx0CNXDS09R47j%2B5Q%3D%3D) | 
-| 第54期王座戦予選 | O Meien | Kudo Norio | W+1.5 | 2006-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JTFfwPO%2FcPsjtPp7aFH5pg%3D%3D) | 
-| 第31期棋聖戦予選 | O Meien | Cho Chikun | W+R | 2006-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w1%2BlHisfxndQZSh2D63BNA%3D%3D) | 
-| 第31期碁聖戦本戦2回戦 | O Meien | Cho Chikun | W+7.5 | 2006-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=clmlnWhYbi00ua3ukr2zrg%3D%3D) | 
-| 第61期本因坊戦リーグ | O Meien | Cho Sonjin | W+8.5 | 2006-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ItVMIBtDDCO4tc1HR5BgQ%3D%3D) | 
-| 第31期碁聖戦本戦1回戦 | Nakao Jungo | O Meien | W+R | 2005-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0LX73Xc99Qm2a14Ty4GBVg%3D%3D) | 
-| 第45期十段戦予選 | O Meien | Kim Sujun | W+R | 2005-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pzVsKba4NlCC6wCnAn7cuw%3D%3D) | 
-| 第61期本因坊戦リーグ | O Meien | Hane Naoki | W+R | 2005-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mJeTGw%2B2wkld%2Bt%2F1%2BHFoVA%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯国内予選 | O Rissei | O Meien | B+1.5 | 2005-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1kxKHggp8NLa4AHE8Sg3Mw%3D%3D) | 
-| 第45期十段戦予選 | Kono Mitsuki | O Meien | W+2.5 | 2005-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6cBzlX1XIcebLBZ6sVBNRg%3D%3D) | 
-| 第61期本因坊戦リーグ | O Meien | Yamada Kimio | W+5.5 | 2005-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3sRGeX3f6msmD5ePHm%2ByaQ%3D%3D) | 
-| 第31期名人戦予選 | O Meien | Takao Shinji | W+R | 2005-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r9OtvpjOAAeZUXBlB%2BmZRQ%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯国内予選 | Goto Shungo | O Meien | W+R | 2005-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z3xJgl15Cg9BAGXYeQ01WA%3D%3D) | 
-| 第61期本因坊戦リーグ | Cho U | O Meien | B+R | 2005-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2O4L7LuEBMmd8emLhdFPkw%3D%3D) | 
-| 第31期名人戦予選 | O Meien | Kanda Ei | B+R | 2005-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PFUHpoK%2BAmdlEdAH9CSe6Q%3D%3D) | 
-| 第25期NECカップ囲碁トーナメント戦2回戦 | O Meien | Cho Sonjin | W+R | 2005-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wWRdaajg%2B4Gl1kAUHzQN0Q%3D%3D) | 
-| 第30期棋聖戦Bリーグ | Imamura Toshiya | O Meien | W+R | 2005-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YCRLva60heOjy8UQUqiYmA%3D%3D) | 
-| 第30期棋聖戦Bリーグ | O Meien | Komatsu Hideki | W+R | 2005-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EFZDl2ChT5RU1RxQjPuiaw%3D%3D) | 
-| 第30期棋聖戦Bリーグ | O Meien | Kobayashi Satoru | W+6.5 | 2005-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m7jKI1CaeXotHe9VrQX36Q%3D%3D) | 
-| 第2回中環杯世界囲碁選手権2回戦 | O Meien | Lee Sedol | W+R | 2005-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JgXc5M6I%2B0UxdsnH4whnWw%3D%3D) | 
-| 第2回中環杯世界囲碁選手権1回戦 | Lee Changho | O Meien | W+0.5 | 2005-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E6EGdC59%2Br2%2FASOH6TOUcQ%3D%3D) | 
-| 第53期王座戦準決勝 | Yamashita Keigo | O Meien | B+R | 2005-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EfVAyuuuU1H%2BCd8fhJkc2g%3D%3D) | 
-| 第30期名人戦リーグ | Kobayashi Satoru | O Meien | B+3.5 | 2005-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B1t1mVwqG5OW%2FIVIWjobrw%3D%3D) | 
-| 第30期棋聖戦Bリーグ | O Rissei | O Meien | W+R | 2005-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ZLQdN%2BXCh24id8CeRpryg%3D%3D) | 
-| 第25期NECカップ囲碁トーナメント戦1回戦 | O Meien | Yamashita Keigo | B+3.5 | 2005-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NM0zIRWY6qgNUMz2zgtZnA%3D%3D) | 
-| 第30期名人戦リーグ | O Meien | Imamura Toshiya | W+R | 2005-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TRmXLN1%2BR6PMInoacqwIqQ%3D%3D) | 
-| 第30期棋聖戦Bリーグ | O Meien | Yamashita Keigo | W+R | 2005-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2vtk9hgtXyOaDVD4PxiTzQ%3D%3D) | 
-| 第53期王座戦2回戦 | O Meien | Kataoka Satoshi | B+2.5 | 2005-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xh%2BQEDZTitSJElJDlN%2Fp%2BQ%3D%3D) | 
-| 第18回世界囲碁選手権富士通杯3回戦 | Choi Cheolhan | O Meien | B+6.5 | 2005-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tVrSWzHDLtWMahroLsAg2Q%3D%3D) | 
-| 第30期名人戦リーグ | Sakai Hideyuki | O Meien | B+3.5 | 2005-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3hHXbmQU7RqfYu7X6BKPpQ%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第3戦 | O Meien | Yamashita Keigo | W+R | 2005-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DvhYh0f7RObUoFUrC0mMOw%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第2戦 | Hu Yaoyu | O Meien | B+R | 2005-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3DymiQ1wP61UwPU0fi%2BnVw%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第1戦 | O Meien | Choi Cheolhan | W+5.5 | 2005-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fXfmZxpon%2FtaVz1%2BqK6o3A%3D%3D) | 
-| 第53期王座戦1回戦 | O Meien | Yoda Norimoto | B+R | 2005-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dSs8bXn7%2FazUACkBCbspGw%3D%3D) | 
-| 第30期名人戦リーグ | Cho Sonjin | O Meien | W+R | 2005-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i4WBKWLePZOu91dO6MEKHA%3D%3D) | 
-| 第60期本因坊戦残留プレーオフ | So Yokoku | O Meien | W+R | 2005-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m7%2F6yJQGzpoZeHwuBS9h4w%3D%3D) | 
-| 第18回世界囲碁選手権富士通杯2回戦 | O Meien | Park Yeonghun | B+R | 2005-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0SvJxOkxkwczULkUQ756Pw%3D%3D) | 
-| 第18回世界囲碁選手権富士通杯1回戦 | Kim Seonryong | O Meien | W+0.5 | 2005-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T62zhsFj72oYaJY%2FXApFwg%3D%3D) | 
-| 第60期本因坊戦リーグ | O Meien | Mimura Tomoyasu | B+R | 2005-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FyaQOfM%2Bf7pIgQmcG6%2Fwyg%3D%3D) | 
-| 第53期王座戦予選 | O Meien | Izumitani Hideo | B+10.5 | 2005-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hzyrTSygKBBXbpotfJS3Ig%3D%3D) | 
-| 第30期名人戦リーグ | O Meien | Ogata Masaki | B+R | 2005-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RhM4AhTnyKDOf093L9TL%2FA%3D%3D) | 
-| 第60期本因坊戦リーグ | Han Zenki | O Meien | W+4.5 | 2005-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z4Geh%2BJW0yJzAD6uphViPQ%3D%3D) | 
-| 第6回農心辛ラーメン杯世界囲碁最強戦第13戦 | O Meien | Lee Changho | W+R | 2005-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rnWR4FyPfI%2FjQS5ukI83ew%3D%3D) | 
-| 第30期名人戦リーグ | O Meien | Yoda Norimoto | W+1.5 | 2005-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vsZv5dyRuvXg0mrntMOvyA%3D%3D) | 
-| 第60期本因坊戦リーグ | Takao Shinji | O Meien | B+0.5 | 2005-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HjUtlKTorSGNned5B2dQ1A%3D%3D) | 
-| 第18回世界囲碁選手権富士通杯国内予選決勝 | O Meien | Kim Sujun | B+R | 2005-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=79D%2BkHCo1DmcYsC%2FUcY7NQ%3D%3D) | 
-| 第30期名人戦リーグ | Yamashita Keigo | O Meien | B+R | 2005-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PP7dZGB8B3qlGipVznZ8zQ%3D%3D) | 
-| 第60期本因坊戦リーグ | Yoda Norimoto | O Meien | W+2.5 | 2005-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FRC4zug1JwowRoBermc%2F3Q%3D%3D) | 
-| 第60期本因坊戦リーグ | O Meien | Cho Sonjin | W+R | 2004-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q284y35LCtVOEFVEs9NYiA%3D%3D) | 
-| 第30期名人戦リーグ | O Meien | Yamada Kimio | B+R | 2004-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KJFyQVhHJWpMj5%2BMPMwYmA%3D%3D) | 
-| 第60期本因坊戦リーグ | O Rissei | O Meien | W+0.5 | 2004-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FBXxD%2BYEDGRFm7m2Eek2Xg%3D%3D) | 
-| 第60期本因坊戦リーグ | O Meien | So Yokoku | W+R | 2004-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GZajIlxyhkvgEJwdQl5e%2Bw%3D%3D) | 
-| 第29期棋聖戦Aリーグ | Mimura Tomoyasu | O Meien | W+9.5 | 2004-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Yn0HIyHWXHI6nKZj%2Bb%2BxQ%3D%3D) | 
-| 第1回中環杯世界囲碁選手権2回戦 | Park Yeonghun | O Meien | B+1.5 | 2004-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ofbrEclDWE9EbQJMGdIrJA%3D%3D) | 
-| 第1回中環杯世界囲碁選手権1回戦 | Hane Naoki | O Meien | W+2.5 | 2004-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=irfYvQIzuiGr8pet%2BBTylg%3D%3D) | 
-| 第29期棋聖戦Aリーグ | Miyazawa Goro | O Meien | W+R | 2004-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bwdTZAjbZxYH%2FxRO17Ie8A%3D%3D) | 
-| 第43期十段戦敗者復活戦2回戦 | O Meien | Yoda Norimoto | W+R | 2004-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yaz1BTb9M7o5uxdqrqC77Q%3D%3D) | 
-| 第60期本因坊戦予選 | O Meien | Otake Hideo | B+1.5 | 2004-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bWusGCy6kWX8QlTqfDIF8g%3D%3D) | 
-| 第31期天元戦予選 | Sakai Takeshi | O Meien | B+R | 2004-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jI2N7Yopim0xICohNp315w%3D%3D) | 
-| 第29期棋聖戦Aリーグ | O Meien | Yoda Norimoto | B+2.5 | 2004-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cGs0BoczYtUnTfbkcHWH6A%3D%3D) | 
-| 第29期名人戦リーグ | Rin Kaiho | O Meien | W+R | 2004-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uW0uzydQcJ0AYvOi1lHJxg%3D%3D) | 
-| 第43期十段戦本戦2回戦 | O Meien | Mimura Tomoyasu | W+R | 2004-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kz%2BqvcaNLvm2aRHwGc3KJw%3D%3D) | 
-| 第29期棋聖戦Aリーグ | O Meien | Yamashita Keigo | W+R | 2004-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZtL1kMGurx9CfbgdAPvCIg%3D%3D) | 
-| 第29期名人戦リーグ | Kobayashi Satoru | O Meien | B+2.5 | 2004-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BNi%2B8HJcIho165xqCXqpSw%3D%3D) | 
-| 第43期十段戦本戦1回戦 | Kobayashi Izumi | O Meien | W+R | 2004-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PofWWDJoRxDQRe1LqIrKiw%3D%3D) | 
-| 第29期棋聖戦Aリーグ | O Meien | Ryu Shikun | W+R | 2004-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9ftwQTGp21E7y0AeNgBeow%3D%3D) | 
-| 第29期名人戦リーグ | Yamada Kimio | O Meien | W+2.5 | 2004-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7fq0oTQwXPkywo8HJDplxQ%3D%3D) | 
-| 第30期天元戦本戦2回戦 | O Meien | Kataoka Satoshi | W+5.5 | 2004-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w5tpjXRohrUkRK1ZgmWnSg%3D%3D) | 
-| 第24期NECカップ囲碁トーナメント戦1回戦 | O Meien | Cho Sonjin | W+R | 2004-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jTQsPOFRFIGViLiEuqMg9Q%3D%3D) | 
-| 第9回LG杯世界棋王戦1回戦 | Park Seunghyeon | O Meien | B+R | 2004-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g%2B7wEnjDdrefLmfFAjpvxg%3D%3D) | 
-| 第29期名人戦リーグ | O Meien | Cho Chikun | B+R | 2004-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zv8XWWP4PyKbM0AQ7zn7kg%3D%3D) | 
-| 第52期王座戦1回戦 | Takao Shinji | O Meien | B+1.5 | 2004-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RJhZy3hHDNqUcIZc8mKSSw%3D%3D) | 
-| 第5回応氏杯世界選手権3回戦 | O Meien | Song Taekon | W+R | 2004-04-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hJ8S4b%2B6iUVLeetEkR729A%3D%3D) | 
-| 第5回応氏杯世界選手権2回戦 | O Meien | Zhou Junxun | B+1 | 2004-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j4imFomkdaSRs5drR8JtwA%3D%3D) | 
-| 第29期名人戦リーグ | O Meien | Yamashita Keigo | W+1.5 | 2004-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oFOtM6IdaYlu6xUyUr88OA%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯2回戦 | Yoo Changhyuk | O Meien | B+4.5 | 2004-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w3%2Ffrqe7gshyQOwUsVBJhA%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯1回戦 | O Meien | missing | B+17.5 | 2004-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q4Om5jTcilLA5Xk%2BYnSNBg%3D%3D) | 
-| 第2期JALスーパー早碁1回戦（再対局） | O Meien | Yoda Norimoto | W+R | 2004-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RVyekWORY%2B0v9Q73vS0eFQ%3D%3D) | 
-| 第59期本因坊戦リーグ | O Rissei | O Meien | W+R | 2004-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d6lKUVq841c0%2FqIc7liGow%3D%3D) | 
-| 第2期JALスーパー早碁1回戦 | Yoda Norimoto | O Meien | Void | 2004-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PTZNZSddEEhWNYH29%2FVI0g%3D%3D) | 
-| 第3回CSK杯囲碁アジア対抗戦第3戦 | O Meien | Yuki Satoshi | W+0.5 | 2004-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RYveuIpmCYb2bjocNQRAfA%3D%3D) | 
-| 第3回CSK杯囲碁アジア対抗戦第2戦 | Wang Lei (b) | O Meien | B+R | 2004-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fiFACcnzTMFPUcXz2Uq8dw%3D%3D) | 
-| 第3回CSK杯囲碁アジア対抗戦第1戦 | O Meien | Lee Sedol | W+R | 2004-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fDFBObjScGF2nZTP3JSU5g%3D%3D) | 
-| 第59期本因坊戦リーグ | O Meien | Yoda Norimoto | W+6.5 | 2004-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FxlTM42lMWvRsV%2BEaej4ww%3D%3D) | 
-| 第29期名人戦リーグ | O Meien | Cho U | B+5.5 | 2004-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F2nFLmYmEoz7jizbf9rmYw%3D%3D) | 
-| 第29期名人戦リーグ | O Rissei | O Meien | B+R | 2004-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oBwEIFtWANZUrlLL5Q2ZKg%3D%3D) | 
-| 第30期天元戦本戦1回戦 | Ogata Masaki | O Meien | W+R | 2004-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TxYatCO59e7zXASZMQyl4g%3D%3D) | 
-| 第59期本因坊戦リーグ | Mimura Tomoyasu | O Meien | B+R | 2004-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oQmKKFNlhICMtMqDLnVo5g%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯国内予選決勝 | O Meien | Kobayashi Satoru | B+R | 2004-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8wg3JeCvk7eqW2GQqqjpfw%3D%3D) | 
-| 第42期十段戦挑戦者決定戦 | Cho U | O Meien | B+R | 2004-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HcoqdvGpWUq21lgTwlGcOQ%3D%3D) | 
-| 第29期碁聖戦本戦1回戦 | O Meien | Yuki Satoshi | W+R | 2004-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cnQzCByVOCoHRenZ1zB0gQ%3D%3D) | 
-| 第29期名人戦リーグ | O Meien | Imamura Toshiya | W+R | 2004-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sqwwZGFUMbF82JGmWOqDaQ%3D%3D) | 
-| 第59期本因坊戦リーグ | Kato Masao | O Meien | W+11.5 | 2004-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bhlYx24sFmp7l0eJy9C4Og%3D%3D) | 
-| 第42期十段戦敗者復活戦決勝 | O Meien | Yamada Kimio | B+R | 2004-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s72DXi5Rx7EoruY3plmfcA%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権1回戦 | Wang Lei (b) | O Meien | B+R | 2003-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BPRvY4lMZAs%2FqIGS6MUynA%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯国内予選 | O Meien | Akiyama Jiro | B+4.5 | 2003-12-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fqw8MywhpQHme321Q05sjw%3D%3D) | 
-| 第59期本因坊戦リーグ | O Meien | Cho Sonjin | W+2.5 | 2003-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uv9RBzbIEOZoJQMiFZHeHw%3D%3D) | 
-| 第51期王座戦挑戦手合五番勝負第4局 | Cho U | O Meien | B+0.5 | 2003-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ABHrNtCKsTT%2BOHsLSAFdBA%3D%3D) | 
-| 第51期王座戦挑戦手合五番勝負第3局 | O Meien | Cho U | W+R | 2003-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0FBOBoxKtDkJ%2B6WKTK6DWA%3D%3D) | 
-| 第23期NECカップ囲碁トーナメント戦2回戦 | O Meien | Cho Chikun | W+1.5 | 2003-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0DjCiOxoPGaYcLVMlaRFTQ%3D%3D) | 
-| 第42期十段戦敗者復活戦4回戦 | Hashimoto Yujiro | O Meien | W+12.5 | 2003-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JhQ11yzTqjrLwINOlckTZQ%3D%3D) | 
-| 第59期本因坊戦リーグ | O Meien | Yamashita Keigo | W+R | 2003-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9klLxEkln8qY1xnfDwhMYw%3D%3D) | 
-| 第51期王座戦挑戦手合五番勝負第2局 | Cho U | O Meien | B+R | 2003-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3SeIkFriNbsVAtbYaflefA%3D%3D) | 
-| 第51期王座戦挑戦手合五番勝負第1局 | O Meien | Cho U | B+R | 2003-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j4PUlZ9WKd%2B9lDgpzs3%2BPA%3D%3D) | 
-| 第42期十段戦敗者復活戦3回戦 | O Meien | Kato Masao | B+R | 2003-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XzwZtWSqk91GdzfkIMVSug%3D%3D) | 
-| 第28期棋聖戦Bリーグ | Yoda Norimoto | O Meien | W+0.5 | 2003-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FmBmmieuFNJA4BLfO48E1g%3D%3D) | 
-| 第59期本因坊戦リーグ | Kobayashi Koichi | O Meien | B+5.5 | 2003-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r5ypC0QS0kXT4yXBb4VxxA%3D%3D) | 
-| 第42期十段戦敗者復活戦2回戦 | Nakano Hironari | O Meien | W+4.5 | 2003-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rly3EuZCLBKXzk78WbYGnw%3D%3D) | 
-| 第28期棋聖戦Bリーグ | Ryu Shikun | O Meien | W+2.5 | 2003-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A2xp%2BuzGrmtcsHZMoc5q8g%3D%3D) | 
-| 第28期棋聖戦Bリーグ | O Meien | Cho U | B+R | 2003-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tEz3xEFEWJVFq%2BanNqmB%2Bw%3D%3D) | 
-| 第42期十段戦本戦2回戦 | Cho Chikun | O Meien | B+3.5 | 2003-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HSRJKylTnvheIre%2FCDBcgQ%3D%3D) | 
-| 第28期名人戦リーグ | O Meien | Yamashita Keigo | W+R | 2003-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E4pqAl1wB6p3bE8oIEOa8g%3D%3D) | 
-| 第23期NECカップ囲碁トーナメント戦1回戦 | Hane Naoki | O Meien | W+R | 2003-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1eUpjWxCcWH8vLGJZIVE5w%3D%3D) | 
-| 第28期名人戦リーグ | O Meien | O Rissei | W+R | 2003-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZQiuclyb8gn15ONYwJ02Rg%3D%3D) | 
-| 第28期棋聖戦Bリーグ | Awaji Shuzo | O Meien | W+R | 2003-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ViLkuRL7l2c0Xv4CZhxp5Q%3D%3D) | 
-| 第8回LG杯世界棋王戦1回戦 | O Meien | Michael Redmond | W+R | 2003-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IR7FQ0EUQAxW3knStR9d2g%3D%3D) | 
-| 第28期名人戦リーグ | Takemiya Masaki | O Meien | W+R | 2003-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x%2FW8iFenZuOfgkCh3yoMZQ%3D%3D) | 
-| 第28期棋聖戦Bリーグ | O Meien | Cho Chikun | W+R | 2003-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ehgiSuxqhnRWc8hypstWRA%3D%3D) | 
-| 第1期JALスーパー早碁1回戦 | Yuki Satoshi | O Meien | B+R | 2003-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FPSeNO6WhvM8sfaP63JK1w%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第3戦 | O Meien | Yoo Changhyuk | B+1.5 | 2003-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c%2BuNjo%2F0DoOQrpzPDlsJQA%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第2戦 | O Meien | Liu Jing | W+0.5 | 2003-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U1AkXmZuKz5ZYr3nXZ00fA%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第1戦 | O Meien | Yamashita Keigo | B+2.5 | 2003-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2lMgTP1X6D1B6wGZnaHqoQ%3D%3D) | 
-| 第28期名人戦リーグ | Cho U | O Meien | B+3.5 | 2003-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=33IYhtZkc3NRSEI09BCrFQ%3D%3D) | 
-| 第16回世界囲碁選手権富士通杯2回戦 | Song Taekon | O Meien | B+R | 2003-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e5pNgnuJkIjFtfgd8WdtDw%3D%3D) | 
-| 第28期名人戦リーグ | O Meien | Mizokami Tomochika | B+2.5 | 2003-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nXmZPHJgy5e05yrecmy1Ew%3D%3D) | 
-| 第28期名人戦リーグ | Rin Kaiho | O Meien | B+R | 2003-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wUdOmyrM5pQ8N417%2FmYihA%3D%3D) | 
-| 第29期天元戦本戦1回戦 | O Meien | Kono Rin | W+R | 2003-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N7DOkO7x2m2%2FfkIyxHmi6A%3D%3D) | 
-| 第28期名人戦リーグ | Ryu Shikun | O Meien | W+R | 2002-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ehJNtpOHxbx%2FxxM4%2F0CG2A%3D%3D) | 
-| 第28期碁聖戦本戦1回戦 | O Meien | Akiyama Jiro | W+R | 2002-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2RLrJv5EXi%2F60NL%2BTZONMg%3D%3D) | 
-| 第7期三星杯1回戦 | O Meien | Yang Keon | W+4.5 | 2002-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ECIkxLkO%2BhiPBsRZUCG%2F5g%3D%3D) | 
-| 第7回LG杯世界棋王戦1回戦 | missing | O Meien | B+3.5 | 2002-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pEcZkn%2BbBG6op2AkrqSlbg%3D%3D) | 
-| 第6期三星杯1回戦 | Park Cheongsang | O Meien | B+R | 2001-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z8wAYmOde6cJZZFkVyl4Xw%3D%3D) | 
-| 第6回LG杯世界棋王戦2回戦 | Lee Sedol | O Meien | B+R | 2001-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yoG18VyYGp0towLK1KMjSg%3D%3D) | 
-| 第6回LG杯世界棋王戦1回戦 | O Meien | Choi Myeonghun | B+R | 2001-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9fcXRaErFNGYrnRRsmPnfQ%3D%3D) | 
-| 第2回農心辛ラーメン杯世界囲碁最強戦第2戦 | O Meien | Choi Cheolhan | W+7.5 | 2000-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bzeo69VPqxNKMWpUx3qa5Q%3D%3D) | 
-| 第4回応氏杯世界選手権準決勝三番勝負第3局 | Chang Hao | O Meien | B+R | 2000-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UgB7XzdD16PaIaISogilkA%3D%3D) | 
-| 第4回応氏杯世界選手権準決勝三番勝負第2局 | O Meien | Chang Hao | B+3 | 2000-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D72cf8QrqD25qfmd9NLvng%3D%3D) | 
-| 第4回応氏杯世界選手権準決勝三番勝負第1局 | Chang Hao | O Meien | B+R | 2000-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3y89UkHf3hrHMrIoYqHxBw%3D%3D) | 
-| 第4回応氏杯世界選手権3回戦 | O Meien | Ma Xiaochun | B+3 | 2000-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O%2F0bhK%2FOgYi%2FGZfpXfrLig%3D%3D) | 
-| 第4回応氏杯世界選手権2回戦 | Cho Hunhyun | O Meien | W+3 | 2000-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=45tqq8jlwYpnxZeMHZp%2BRA%3D%3D) | 
-| 第4回応氏杯世界選手権1回戦 | O Meien | Yang Jaeho | B+R | 2000-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EXWDZK%2Bby4my37rXrGaNcQ%3D%3D) | 
-| 第3回応氏杯世界選手権1回戦 | Cao Dayuan | O Meien | B+3 | 1996-04-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b1P%2BoaO7kBn0nzkE7BICgA%3D%3D) | 
-| 第2回応氏杯世界選手権2回戦 | O Meien | Takemiya Masaki | W+R | 1992-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dtgF7HiIJzvAfEmtfRUTDQ%3D%3D) | 
-| 第2回応氏杯世界選手権1回戦 | O Meien | Ishii Kunio | B+R | 1992-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ifk430F%2B2ZZ0Ksx9%2FilxFw%3D%3D) | 
-| 第1回応氏杯世界選手権1回戦 | Cho Hunhyun | O Meien | B+R | 1988-08-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pdoYCPVDdI%2FzWJzbGUG9ew%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-24 | 第46期棋聖戦Cリーグ | Xie Yimin | O Meien | Win | W+R | 6.5 | 2950 | 67 | 
+| 2021-05-27 | 第46期棋聖戦Cリーグ | O Meien | Kubo Katsuaki | Win | B+4.5 | 6.5 | 2883 | -9 | 
+| 2021-05-06 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Fujisawa Rina | O Meien | Lose | B+R | 6.5 | 2892 | -57 | 
+| 2021-03-29 | 第69期王座戦予選 | Ohba Junya | O Meien | Lose | B+R | 6.5 | 2949 | -149 | 
+| 2021-03-15 | 第77期本因坊戦予選 | O Meien | Uchida Shuhei | Lose | W+2.5 | 6.5 | 3098 | -207 | 
+| 2021-01-14 | 第69期王座戦予選 | Numadate Sakiya | O Meien | Win | W+4.5 | 6.5 | 3305 | 48 | 
+| 2020-11-19 | 第47期天元戦予選 | O Meien | Ryu Shikun | Lose | W+R | 6.5 | 3257 | -23 | 
+| 2020-10-22 | 第47期天元戦予選 | Suzuki Yoshimichi | O Meien | Win | W+R | 6.5 | 3280 | -14 | 
+| 2020-10-01 | 第59期十段戦1回戦 | O Meien | Hsu Chiayuan | Lose | W+R | 6.5 | 3294 | 43 | 
+| 2020-09-17 | 第46期碁聖戦予選 | O Meien | So Yokoku | Win | B+R | 6.5 | 3251 | 51 | 
+| 2020-09-10 | 第45期棋聖戦Cリーグ | O Meien | Mimura Tomoyasu | Lose | W+4.5 | 6.5 | 3200 | 15 | 
+| 2020-09-03 | 第69期王座戦予選 | O Meien | Sakai Takeshi | Win | B+R | 6.5 | 3185 | 16 | 
+| 2020-08-31 | 第59期十段戦予選 | Adachi Toshimasa | O Meien | Win | W+R | 6.5 | 3169 | -38 | 
+| 2020-08-20 | 第45期棋聖戦Cリーグ | Cho Chikun | O Meien | Win | W+R | 6.5 | 3207 | 68 | 
+| 2020-08-13 | 第46期碁聖戦予選 | O Meien | Fujisawa Rina | Win | B+R | 6.5 | 3139 | 152 | 
+| 2020-08-06 | 第59期十段戦予選 | O Meien | Ogata Masaki | Win | B+R | 6.5 | 2987 | 59 | 
+| 2020-07-30 | 第46期名人戦予選 | O Meien | Sun Zhe | Lose | W+R | 6.5 | 2928 | -30 | 
+| 2020-07-09 | 第45期棋聖戦Cリーグ | Chang Rueijie | O Meien | Lose | B+2.5 | 6.5 | 2958 | -60 | 
+| 2020-06-25 | 第45期棋聖戦Cリーグ | Uchida Shuhei | O Meien | Win | W+R | 6.5 | 3018 | 52 | 
+| 2020-06-18 | 第76期本因坊戦予選 | O Meien | Cho U | Lose | W+R | 6.5 | 2966 | 153 | 
+| 2020-06-04 | 第59期十段戦予選 | Numadate Sakiya | O Meien | Win | W+R | 6.5 | 2813 | 154 | 
+| 2020-04-02 | 第45期棋聖戦Cリーグ | O Meien | Ishida Atsushi | Win | B+R | 6.5 | 2659 | 5 | 
+| 2020-03-26 | 第59期十段戦予選 | Ueno Asami | O Meien | Win | W+2.5 | 6.5 | 2654 | 22 | 
+| 2020-03-19 | 第46期名人戦予選 | O Meien | Kono Mitsuki | Win | B+R | 6.5 | 2632 | -24 | 
+| 2020-03-12 | 第46期碁聖戦予選 | O Meien | Shimoji Gensho | Win | B+R | 6.5 | 2656 | 11 | 
+| 2020-03-05 | 第76期本因坊戦予選 | Cho Chikun | O Meien | Win | W+R | 6.5 | 2645 | 80 | 
+| 2020-02-20 | 第46期名人戦予選 | O Meien | Nyu Eiko | Win | B+R | 6.5 | 2565 | -212 | 
+| 2020-01-30 | 第76期本因坊戦予選 | Omori Yasushi | O Meien | Win | W+R | 6.5 | 2777 | -20 | 
+| 2020-01-23 | 第46期碁聖戦予選 | Oomote Takuto | O Meien | Win | W+R | 6.5 | 2797 | -4 | 
+| 2019-12-26 | 第76期本因坊戦予選 | Komatsu Fujio | O Meien | Win | W+R | 6.5 | 2801 | 303 | 
+| 2019-12-19 | 第46期天元戦予選 | O Meien | Yoda Norimoto | Lose | W+R | 6.5 | 2498 | 0 | 
+| 2019-09-19 | 第46期天元戦予選 | Kobayashi Satoru | O Meien | Win | W+R | 6.5 | 2498 | 52 | 
+| 2019-08-22 | 第44期棋聖戦Bリーグ | Terayama Rei | O Meien | Win | W+1.5 | 6.5 | 2446 | -4 | 
+| 2019-08-15 | 第58期十段戦予選 | O Meien | Sun Zhe | Lose | W+R | 6.5 | 2450 | -57 | 
+| 2019-08-01 | 第68期王座戦予選 | Awaji Shuzo | O Meien | Lose | B+R | 6.5 | 2507 | 6 | 
+| 2019-07-18 | 第44期棋聖戦Bリーグ | O Meien | Ko Iso | Lose | W+R | 6.5 | 2501 | -41 | 
+| 2019-06-20 | 第44期棋聖戦Bリーグ | O Meien | Yamada Kimio | Lose | W+R | 6.5 | 2542 | -15 | 
+| 2019-06-12 | 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | O Meien | Yoo Changhyuk | Lose | W+R | 6.5 | 2557 | -9 | 
+| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | Yu Bin | O Meien | Lose | B+1.5 | 6.5 | 2566 | -5 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | O Meien | Seo Bongsoo | Lose | W+R | 6.5 | 2571 | 0 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | O Meien | Yoda Norimoto | Lose | W+4.5 | 6.5 | 2571 | -36 | 
+| 2019-06-08 | 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Kim Chongsu | O Meien | Win | W+1.5 | 6.5 | 2607 | 40 | 
+| 2019-06-06 | 第44期棋聖戦Bリーグ | Adachi Toshimasa | O Meien | Lose | B+7.5 | 6.5 | 2567 | 56 | 
+| 2019-05-17 | 第45期天元戦2回戦 | O Meien | Onishi Ryuhei | Lose | W+R | 6.5 | 2511 | -59 | 
+| 2019-05-02 | 第9回フマキラー囲碁マスターズカップ1回戦 | Yoda Norimoto | O Meien | Lose | B+7.5 | 6.5 | 2570 | -43 | 
+| 2019-04-25 | 第68期王座戦予選 | O Meien | O Yuinin | Win | B+R | 6.5 | 2613 | -20 | 
+| 2019-04-18 | 第44期棋聖戦Bリーグ | Cho Chikun | O Meien | Win | W+R | 6.5 | 2633 | 39 | 
+| 2019-04-15 | 第45期名人戦予選 | O Meien | Fujisawa Rina | Lose | W+R | 6.5 | 2594 | -29 | 
+| 2019-04-11 | 第75期本因坊戦予選 | Chang Rueijie | O Meien | Lose | B+R | 6.5 | 2623 | -27 | 
+| 2019-04-04 | 第44期棋聖戦Bリーグ | O Meien | Han Zenki | Win | B+R | 6.5 | 2650 | -3 | 
+| 2019-03-14 | 第45期名人戦予選 |  | O Meien | Win | W+R | 6.5 | 2653 | -5 | 
+| 2019-03-07 | 第44期棋聖戦Bリーグ | Motoki Katsuya | O Meien | Lose | B+R | 6.5 | 2658 | -46 | 
+| 2019-02-21 | 第45期名人戦予選 | Aoki Shinichi | O Meien | Win | W+1.5 | 6.5 | 2704 | -4 | 
+| 2019-02-14 | 第45期天元戦1回戦 | O Meien | Ko Iso | Win | B+R | 6.5 | 2708 | 13 | 
+| 2019-02-07 | 第45期碁聖戦予選 | Ohashi Hirofumi | O Meien | Lose | B+7.5 | 6.5 | 2695 | -35 | 
+| 2019-01-27 | 第3回ワールド碁チャンピオンシップ国際予選準決勝 | Yoo Changhyuk | O Meien | Lose | B+R | 6.5 | 2730 | -15 | 
+| 2019-01-10 | 第45期碁聖戦予選 | Kono Mitsuki | O Meien | Win | W+R | 6.5 | 2745 | -14 | 
+| 2018-12-06 | 第45期天元戦予選 | O Meien | Ueno Asami | Win | B+R | 6.5 | 2759 | 56 | 
+| 2018-11-22 | 第57期十段戦3回戦 | Onishi Ryuhei | O Meien | Lose | B+0.5 | 6.5 | 2703 | -13 | 
+| 2018-10-11 | 第57期十段戦2回戦 | O Meien | So Yokoku | Win | B+1.5 | 6.5 | 2716 | 16 | 
+| 2018-10-04 | 第45期天元戦予選 | Miyazaki Ryutaro | O Meien | Win | W+R | 6.5 | 2700 | -52 | 
+| 2018-08-23 | 第67期王座戦予選 | O Meien | So Yokoku | Lose | W+R | 7.5 | 2752 | 5 | 
+| 2018-08-11 | 阪急納涼囲碁まつり盤上のスターウォーズ | Takemiya Masaki | O Meien | Lose | B+R | 6.5 | 2747 | -9 | 
+| 2018-08-11 | 阪急納涼囲碁まつり盤上のスターウォーズ | Takemiya Masaki | O Meien | Lose | B+R | 6.5 | 2756 | -13 | 
+| 2018-08-09 | 第74期本因坊戦最終予選 | Mutsuura Yuta | O Meien | Lose | B+R | 6.5 | 2769 | -160 | 
+| 2018-08-09 | 第74期本因坊戦最終予選 | Mutsuura Yuta | O Meien | Lose | B+R | 6.5 | 2929 | 148 | 
+| 2018-07-26 | 第57期十段戦最終予選決勝 | Yuki Satoshi | O Meien | Win | W+R | 6.5 | 2781 | -132 | 
+| 2018-07-26 | 第57期十段戦最終予選決勝 | Yuki Satoshi | O Meien | Win | W+R | 6.5 | 2913 | 179 | 
+| 2018-07-12 | 第44期碁聖戦予選 | Hirose Yuichi | O Meien | Lose | B+R | 6.5 | 2734 | -101 | 
+| 2018-07-12 | 第44期碁聖戦予選 | Hirose Yuichi | O Meien | Lose | B+R | 6.5 | 2835 | -115 | 
+| 2018-07-05 | 第74期本因坊戦最終予選 | Nakamura Shinya | O Meien | Win | W+1.5 | 6.5 | 2950 | 199 | 
+| 2018-07-05 | 第74期本因坊戦最終予選 | Nakamura Shinya | O Meien | Win | W+1.5 | 6.5 | 2751 | -215 | 
+| 2018-06-28 | 第43期棋聖戦Bリーグ | Ishida Atsushi | O Meien | Win | W+R | 6.5 | 2966 | 245 | 
+| 2018-06-28 | 第43期棋聖戦Bリーグ | Ishida Atsushi | O Meien | Win | W+R | 6.5 | 2721 | -256 | 
+| 2018-06-14 | 第44期名人戦予選 | O Meien | Oomote Takuto | Lose | W+R | 6.5 | 2977 | 292 | 
+| 2018-06-14 | 第44期名人戦予選 | O Meien | Oomote Takuto | Lose | W+R | 6.5 | 2685 | -228 | 
+| 2018-06-07 | 第8回フマキラー囲碁マスターズカップ2回戦  | Cho Chikun | O Meien | Lose | B+2.5 | 6.5 | 2913 | 213 | 
+| 2018-06-07 | 第8回フマキラー囲碁マスターズカップ2回戦  | Cho Chikun | O Meien | Lose | B+2.5 | 6.5 | 2700 | -212 | 
+| 2018-06-04 | 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | O Meien | Mochizuki Kenichi | Lose | W+R | 6.5 | 2912 | 172 | 
+| 2018-06-04 | 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | O Meien | Mochizuki Kenichi | Lose | W+R | 6.5 | 2740 | -148 | 
+| 2018-05-31 | 第74期本因坊戦予選 | Suzuki Ayumi | O Meien | Win | W+R | 6.5 | 2888 | 95 | 
+| 2018-05-31 | 第74期本因坊戦予選 | Suzuki Ayumi | O Meien | Win | W+R | 6.5 | 2793 | -116 | 
+| 2018-05-24 | 第43期棋聖戦Bリーグ | O Meien | Cho Riyu | Win | B+R | 6.5 | 2909 | 101 | 
+| 2018-05-24 | 第43期棋聖戦Bリーグ | O Meien | Cho Riyu | Win | B+R | 6.5 | 2808 | -111 | 
+| 2018-05-03 | 第74期本因坊戦予選 | O Meien | Kaneko Maki | Win | B+R | 6.5 | 2919 | 153 | 
+| 2018-05-03 | 第74期本因坊戦予選 | O Meien | Kaneko Maki | Win | B+R | 6.5 | 2766 | -144 | 
+| 2018-04-05 | 第8回フマキラー囲碁マスターズカップ1回戦 | O Meien | Hane Yasumasa | Win | B+R | 6.5 | 2910 | 166 | 
+| 2018-04-05 | 第8回フマキラー囲碁マスターズカップ1回戦 | O Meien | Hane Yasumasa | Win | B+R | 6.5 | 2744 | -184 | 
+| 2018-03-29 | 第43期棋聖戦Bリーグ | Hane Naoki | O Meien | Win | W+0.5 | 6.5 | 2928 | 193 | 
+| 2018-03-29 | 第43期棋聖戦Bリーグ | Hane Naoki | O Meien | Win | W+0.5 | 6.5 | 2735 | -288 | 
+| 2018-03-08 | 第43期棋聖戦Bリーグ | Imamura Toshiya | O Meien | Win | W+R | 6.5 | 3023 | 408 | 
+| 2018-03-08 | 第43期棋聖戦Bリーグ | Imamura Toshiya | O Meien | Win | W+R | 6.5 | 2615 | -425 | 
+| 2018-02-01 | 第43期棋聖戦Bリーグ | O Meien | Yamashiro Hiroshi | Lose | W+R | 6.5 | 3040 | 551 | 
+| 2018-02-01 | 第43期棋聖戦Bリーグ | O Meien | Yamashiro Hiroshi | Lose | W+R | 6.5 | 2489 | -524 | 
+| 2017-12-07 | 第56期十段戦3回戦 | O Meien | Shida Tatsuya | Lose | W+3.5 | 6.5 | 3013 | 442 | 
+| 2017-12-07 | 第56期十段戦3回戦 | O Meien | Shida Tatsuya | Lose | W+3.5 | 6.5 | 2571 | -422 | 
+| 2017-11-23 | 第66期王座戦予選 | O Meien | Horimoto Mitsunari | Lose | W+R | 6.5 | 2993 | 454 | 
+| 2017-11-23 | 第66期王座戦予選 | O Meien | Horimoto Mitsunari | Lose | W+R | 6.5 | 2539 | -410 | 
+| 2017-10-12 | 第44期天元戦予選A | O Meien | Ko Iso | Lose | W+1.5 | 6.5 | 2949 | 324 | 
+| 2017-10-12 | 第44期天元戦予選A | O Meien | Ko Iso | Lose | W+1.5 | 6.5 | 2625 | -356 | 
+| 2017-10-05 | 第56期十段戦2回戦 | O Meien | Hatanaka Hoshinobu | Win | B+0.5 | 6.5 | 2981 | 365 | 
+| 2017-10-05 | 第56期十段戦2回戦 | O Meien | Hatanaka Hoshinobu | Win | B+0.5 | 6.5 | 2616 | -378 | 
+| 2017-09-28 | 第44期天元戦予選 | O Meien | Hoshino Masaki | Win | B+R | 6.5 | 2994 | 456 | 
+| 2017-09-28 | 第44期天元戦予選 | O Meien | Hoshino Masaki | Win | B+R | 6.5 | 2538 | -444 | 
+| 2017-08-31 | 第43期碁聖戦　予選A | Matsumoto Takehisa | O Meien | Lose | B+R | 6.5 | 2982 | 486 | 
+| 2017-08-31 | 第43期碁聖戦　予選A | Matsumoto Takehisa | O Meien | Lose | B+R | 6.5 | 2496 | -507 | 
+| 2017-08-24 | 第66期王座戦　予選B決勝 | Ogaki Yusaku | O Meien | Win | W+R | 6.5 | 3003 | 490 | 
+| 2017-08-24 | 第66期王座戦　予選B決勝 | Ogaki Yusaku | O Meien | Win | W+R | 6.5 | 2513 | -474 | 
+| 2017-08-17 | 第42期棋聖戦　Bリーグ2組7回戦 | O Meien | Kim Sujun | Win | B+R | 6.5 | 2987 | 482 | 
+| 2017-08-17 | 第42期棋聖戦　Bリーグ2組7回戦 | O Meien | Kim Sujun | Win | B+R | 6.5 | 2505 | -434 | 
+| 2017-08-10 | 第56期十段戦　最終予選決勝 | Koyama Kuya | O Meien | Win | W+1.5 | 6.5 | 2939 | 290 | 
+| 2017-08-10 | 第56期十段戦　最終予選決勝 | Koyama Kuya | O Meien | Win | W+1.5 | 6.5 | 2649 | -270 | 
+| 2017-07-27 | 第43期名人戦　予選A | O Meien | Akiyama Jiro | Lose | W+R | 6.5 | 2919 | 184 | 
+| 2017-07-27 | 第43期名人戦　予選A | O Meien | Akiyama Jiro | Lose | W+R | 6.5 | 2735 | -207 | 
+| 2017-07-20 | 第42期棋聖戦　Bリーグ2組6回戦 | Lee Ishu | O Meien | Lose | B+2.5 | 6.5 | 2942 | 227 | 
+| 2017-07-20 | 第42期棋聖戦　Bリーグ2組6回戦 | Lee Ishu | O Meien | Lose | B+2.5 | 6.5 | 2715 | -234 | 
+| 2017-07-13 | 第43期名人戦　予選B決勝 | Kato Atsushi | O Meien | Win | W+R | 6.5 | 2949 | 163 | 
+| 2017-07-13 | 第43期名人戦　予選B決勝 | Kato Atsushi | O Meien | Win | W+R | 6.5 | 2786 | -148 | 
+| 2017-07-06 | 第43期碁聖戦　予選B決勝 | Suzuki Shinji | O Meien | Win | W+R | 6.5 | 2934 | 164 | 
+| 2017-07-06 | 第43期碁聖戦　予選B決勝 | Suzuki Shinji | O Meien | Win | W+R | 6.5 | 2770 | -139 | 
+| 2017-07-03 | 第42期棋聖戦　Bリーグ2組5回戦 | Yu Zhengqi | O Meien | Win | W+R | 6.5 | 2909 | 133 | 
+| 2017-07-03 | 第42期棋聖戦　Bリーグ2組5回戦 | Yu Zhengqi | O Meien | Win | W+R | 6.5 | 2776 | -100 | 
+| 2017-06-29 | 第73期本因坊戦　最終予選第4局 | O Meien | Ichiriki Ryo | Lose | W+R | 6.5 | 2876 | 89 | 
+| 2017-06-29 | 第73期本因坊戦　最終予選第4局 | O Meien | Ichiriki Ryo | Lose | W+R | 6.5 | 2787 | -74 | 
+| 2017-06-15 | 第56期十段戦　最終予選 | Takei Takashi | O Meien | Win | W+R | 6.5 | 2861 | 183 | 
+| 2017-06-15 | 第56期十段戦　最終予選 | Takei Takashi | O Meien | Win | W+R | 6.5 | 2678 | -155 | 
+| 2017-06-08 | 第42期棋聖戦　Bリーグ2組4回戦 | O Meien | Han Zenki | Lose | W+R | 6.5 | 2833 | 152 | 
+| 2017-06-08 | 第42期棋聖戦　Bリーグ2組4回戦 | O Meien | Han Zenki | Lose | W+R | 6.5 | 2681 | -182 | 
+| 2017-05-18 | 第24期阿含・桐山杯　最終予選決勝 | O Meien | Rin Kanketsu | Lose | W+R | 6.5 | 2863 | 90 | 
+| 2017-05-18 | 第24期阿含・桐山杯　最終予選決勝 | O Meien | Rin Kanketsu | Lose | W+R | 6.5 | 2773 | -148 | 
+| 2017-05-04 | 第42期棋聖戦　Bリーグ2組3回戦 | Kobayashi Satoru | O Meien | Win | W+5.5 | 6.5 | 2921 | 133 | 
+| 2017-05-04 | 第42期棋聖戦　Bリーグ2組3回戦 | Kobayashi Satoru | O Meien | Win | W+5.5 | 6.5 | 2788 | -30 | 
+| 2017-04-20 | 第73期本因坊戦　予選A決勝 | O Meien | Koike Yoshihiro | Win | B+R | 6.5 | 2818 | -55 | 
+| 2017-04-20 | 第73期本因坊戦　予選A決勝 | O Meien | Koike Yoshihiro | Win | B+R | 6.5 | 2873 | 25 | 
+| 2017-04-13 | 第43期碁聖戦　予選B | Sotoyanagi Sebun | O Meien | Win | W+R | 6.5 | 2848 | 6 | 
+| 2017-04-13 | 第43期碁聖戦　予選B | Sotoyanagi Sebun | O Meien | Win | W+R | 6.5 | 2842 | -2 | 
+| 2017-04-06 | 第42期棋聖戦　Bリーグ2回戦 | Rin Kanketsu | O Meien | Lose | B+4.5 | 6.5 | 2844 | 60 | 
+| 2017-04-06 | 第42期棋聖戦　Bリーグ2回戦 | Rin Kanketsu | O Meien | Lose | B+4.5 | 6.5 | 2784 | -59 | 
+| 2017-03-30 | 第43期碁聖戦　予選C決勝 | O Meien | Anzai Nobuaki | Win | B+R | 6.5 | 2843 | 18 | 
+| 2017-03-30 | 第43期碁聖戦　予選C決勝 | O Meien | Anzai Nobuaki | Win | B+R | 6.5 | 2825 | 121 | 
+| 2017-03-09 | 第7回マスターズカップ　本戦1回戦 | O Rissei | O Meien | Lose | B+R | 6.5 | 2704 | 128 | 
+| 2017-03-09 | 第7回マスターズカップ　本戦1回戦 | O Rissei | O Meien | Lose | B+R | 6.5 | 2576 | -174 | 
+| 2017-03-02 | 第42期棋聖戦　Bリーグ1回戦 | O Meien | Cho Riyu | Win | B+1.5 | 6.5 | 2750 | 180 | 
+| 2017-03-02 | 第42期棋聖戦　Bリーグ1回戦 | O Meien | Cho Riyu | Win | B+1.5 | 6.5 | 2570 | -139 | 
+| 2017-02-16 | 第43期天元戦　本戦1回戦第16局 | Lee Ishu | O Meien | Lose | B+R | 6.5 | 2709 | 277 | 
+| 2017-02-16 | 第43期天元戦　本戦1回戦第16局 | Lee Ishu | O Meien | Lose | B+R | 6.5 | 2432 | -241 | 
+| 2017-01-26 | 第73期本因坊戦　予選A | O Meien | Kazama Jun | Win | B+R | 6.5 | 2673 | 260 | 
+| 2017-01-26 | 第73期本因坊戦　予選A | O Meien | Kazama Jun | Win | B+R | 6.5 | 2413 | -231 | 
+| 2017-01-19 | 第43期碁聖戦　予選C | O Meien | Takanashi Seiken | Win | B+R | 6.5 | 2644 | 411 | 
+| 2017-01-19 | 第43期碁聖戦　予選C | O Meien | Takanashi Seiken | Win | B+R | 6.5 | 2233 | -400 | 
+| 2016-10-20 | 第65期王座戦予選 | O Meien | Suzuki Shinji | Lose | W+3.5 | 6.5 | 2633 | -28 | 
+| 2016-10-13 | 第43期天元戦予選 | O Meien | Takeuchi Kousuke | Win | B+R | 6.5 | 2661 | 11 | 
+| 2016-10-06 | 第55期十段戦1R | Hikosaka Naoto | O Meien | Lose | B+R | 6.5 | 2650 | -84 | 
+| 2016-08-25 | 第41期棋聖戦　Bリーグ7回戦 | O Meien | Mizokami Tomochika | Lose | W+1.5 | 6.5 | 2734 | 47 | 
+| 2016-08-11 | 第55期十段戦予選 | O Meien | Uchida Shuhei | Win | B+R | 6.5 | 2687 | 17 | 
+| 2016-08-04 | 第72期本因坊戦予選 | O Meien | Mitani Tetsuya | Lose | W+1.5 | 6.5 | 2670 | -48 | 
+| 2016-07-28 | 第41期棋聖戦Bリーグ | Cho Chikun | O Meien | Win | W+R | 6.5 | 2718 | -52 | 
+| 2016-07-25 | 第42期名人戦予選 | Fujita Akihiko | O Meien | Lose | B+R | 6.5 | 2770 | 34 | 
+| 2016-07-14 | 第41期棋聖戦Bリーグ | O Meien | Kim Sujun | Win | B+0.5 | 6.5 | 2736 | 13 | 
+| 2016-07-11 | 第23期阿含・桐山杯全日本早碁オープン戦1回戦 | O Meien | Takao Shinji | Lose | W+R | 6.5 | 2723 | 42 | 
+| 2016-06-30 | 第42期名人戦予選 | O Meien | Kato Keiko | Win | B+R | 6.5 | 2681 | 1 | 
+| 2016-06-25 | 第6回フマキラー囲碁マスターズカップ準決勝 | Awaji Shuzo | O Meien | Lose | B+2.5 | 6.5 | 2680 | -29 | 
+| 2016-06-09 | 第41期棋聖戦Bリーグ | Hsu Chiayuan | O Meien | Lose | B+R | 6.5 | 2709 | -19 | 
+| 2016-06-06 | 第23期阿含・桐山杯全日本早碁オープン戦予選 | Mizokami Tomochika | O Meien | Win | W+R | 6.5 | 2728 | -19 | 
+| 2016-06-02 | 第72期本因坊戦予選 | Hikosaka Naoto | O Meien | Win | W+5.5 | 6.5 | 2747 | 10 | 
+| 2016-05-26 | 第41期棋聖戦Bリーグ | O Meien | Ida Atsushi | Lose | W+1.5 | 6.5 | 2737 | 137 | 
+| 2016-04-21 | 第41期棋聖戦Bリーグ | O Rissei | O Meien | Win | W+R | 6.5 | 2600 | 36 | 
+| 2016-04-14 | 第6回フマキラー囲碁マスターズカップ2回戦 | Ogata Masaki | O Meien | Win | W+1.5 | 6.5 | 2564 | 16 | 
+| 2016-04-02 | 第65回NHK杯テレビ囲碁トーナメント戦1回戦第1局 | O Meien | Motoki Katsuya | Lose | W+R | 6.5 | 2548 | 39 | 
+| 2016-03-24 | 第72期本因坊戦予選 | Tajiri Yuto | O Meien | Win | W+R | 6.5 | 2509 | 12 | 
+| 2016-03-17 | 第6回フマキラー囲碁マスターズカップ1回戦 | Kataoka Satoshi | O Meien | Win | W+10.5 | 6.5 | 2497 | 47 | 
+| 2016-03-03 | 第41期棋聖戦Bリーグ | Tsuruyama Atsushi | O Meien | Win | W+4.5 | 6.5 | 2450 | -12 | 
+| 2016-02-25 | 第42期碁聖戦予選 | O Meien | Katsura Atsushi | Lose | W+0.5 | 6.5 | 2462 | -109 | 
+| 2016-02-04 | 第72期本因坊戦予選 | Morita Michihiro | O Meien | Win | W+2.5 | 6.5 | 2571 | -45 | 
+| 2015-12-24 | 第42期天元戦本戦1回戦 | Ogata Masaki | O Meien | Lose | B+0.5 | 6.5 | 2616 | -22 | 
+| 2015-12-17 | 第64期王座戦予選 | O Meien | Ohba Junya | Lose | W+R | 6.5 | 2638 | -29 | 
+| 2015-11-30 | 第64期王座戦予選 | Michael Redmond | O Meien | Win | W+3.5 | 6.5 | 2667 | 32 | 
+| 2015-11-12 | 第42期天元戦予選 | Takeuchi Kousuke | O Meien | Win | W+13.5 | 6.5 | 2635 | 7 | 
+| 2015-11-07 | 第2回OVER40早碁トーナメント戦決勝 | O Meien | O Rissei | Lose | W+R | 6.5 | 2628 | 0 | 
+| 2015-11-07 | 第2回OVER40早碁トーナメント戦準決勝 | O Meien | Oya Koichi | Win | B+R | 6.5 | 2628 | 9 | 
+| 2015-11-05 | 第54期十段戦2回戦 | O Meien | Ichiriki Ryo | Lose | W+R | 6.5 | 2619 | -44 | 
+| 2015-10-01 | 第42期天元戦予選 | O Meien | Fujisawa Kazunari | Win | B+R | 6.5 | 2663 | -91 | 
+| 2015-08-27 | 第54期十段戦予選 | O Meien | Seto Taiki | Win | B+R | 6.5 | 2754 | -6 | 
+| 2015-08-20 | 第71期本因坊戦予選 | Muramatsu Hiroki | O Meien | Lose | B+R | 6.5 | 2760 | -37 | 
+| 2015-08-13 | 第40期棋聖戦Bリーグ | Sonoda Yuichi | O Meien | Win | W+R | 6.5 | 2797 | -5 | 
+| 2015-07-30 | 第40期棋聖戦Bリーグ | Yamada Kimio | O Meien | Lose | B+R | 7.5 | 2802 | -56 | 
+| 2015-07-23 | 第41期碁聖戦予選 | O Meien | Takano Hideki | Win | B+8.5 | 6.5 | 2858 | -18 | 
+| 2015-07-16 | 第40期棋聖戦Bリーグ | O Meien | Suzuki Yoshimichi | Win | B+13.5 | 6.5 | 2876 | -6 | 
+| 2015-07-09 | 第41期名人戦予選 | Anzai Nobuaki | O Meien | Lose | B+R | 6.5 | 2882 | -37 | 
+| 2015-07-02 | 第71期本因坊戦予選 | O Meien | Mimura Tomoyasu | Win | B+R | 6.5 | 2919 | -8 | 
+| 2015-06-25 | 第40期棋聖戦Bリーグ | Kiyonari Tetsuya | O Meien | Lose | B+R | 6.5 | 2927 | -167 | 
+| 2015-06-11 | 第40期棋聖戦Bリーグ | O Meien | So Yokoku | Win | B+R | 6.5 | 3094 | 82 | 
+| 2015-06-04 | 第54期十段戦予選 | Hsu Chiayuan | O Meien | Win | W+R | 6.5 | 3012 | -14 | 
+| 2015-05-28 | 第71期本因坊戦予選 | Shuto Shun | O Meien | Win | W+R | 6.5 | 3026 | 47 | 
+| 2015-05-21 | 第40期棋聖戦Bリーグ | O Meien | Kim Sujun | Win | B+R | 6.5 | 2979 | -9 | 
+| 2015-05-14 | 第71期本因坊戦予選 | Takemiya Youkou | O Meien | Win | W+R | 6.5 | 2988 | -80 | 
+| 2015-05-07 | 第63期王座戦予選 | O Meien | Yamashiro Hiroshi | Lose | W+R | 6.5 | 3068 | -4 | 
+| 2015-04-30 | 第41期天元戦本戦2回戦 | Yuki Satoshi | O Meien | Lose | B+R | 6.5 | 3072 | 39 | 
+| 2015-04-23 | 第40期棋聖戦Bリーグ | Shida Tatsuya | O Meien | Lose | B+3.5 | 6.5 | 3033 | -45 | 
+| 2015-04-02 | 第5回フマキラー囲碁マスターズカップ1回戦 | O Meien | Kudo Norio | Lose | W+R | 6.5 | 3078 | -269 | 
+| 2015-02-26 | 第54期十段戦予選 | Kono Takashi | O Meien | Win | W+R | 6.5 | 3347 | 35 | 
+| 2015-02-12 | 第41期天元戦本戦1回戦 | Yu Zhengqi | O Meien | Win | W+R | 6.5 | 3312 | 120 | 
+| 2015-01-22 | 第63期王座戦予選 | Yo Kaei | O Meien | Win | W+R | 6.5 | 3192 | 71 | 
+| 2014-12-18 | 第63期王座戦予選 | O Meien | Komatsu Hideki | Win | B+R | 6.5 | 3121 | 56 | 
+| 2014-11-13 | 第40期名人戦予選 | O Meien | Kanazawa Makoto | Lose | W+1.5 | 6.5 | 3065 | 124 | 
+| 2014-10-23 | 第40期名人戦予選 | O Meien | Yamashiro Hiroshi | Win | B+R | 6.5 | 2941 | 33 | 
+| 2014-10-16 | 第41期天元戦予選 | O Meien | Iguchi Hideichiro | Win | B+R | 6.5 | 2908 | -7 | 
+| 2014-10-02 | 第40期名人戦予選 | Hikosaka Naoto | O Meien | Win | W+R | 6.5 | 2915 | 31 | 
+| 2014-09-25 | 第41期天元戦予選 | O Meien | Cho Riyu | Win | B+R | 6.5 | 2884 | 53 | 
+| 2014-09-18 | 第40期名人戦予選 | Suzuki Shinji | O Meien | Win | W+R | 6.5 | 2831 | 11 | 
+| 2014-09-04 | 第53期十段戦予選 | O Meien | Kobayashi Koichi | Lose | W+R | 6.5 | 2820 | 12 | 
+| 2014-08-28 | 第40期碁聖戦予選 | Yoda Norimoto | O Meien | Lose | B+R | 6.5 | 2808 | -19 | 
+| 2014-08-21 | 第40期名人戦予選 | Michael Redmond | O Meien | Win | W+R | 6.5 | 2827 | 20 | 
+| 2014-07-24 | 第40期名人戦予選 | O Meien | Ishida Yoshio | Win | B+3.5 | 6.5 | 2807 | -58 | 
+| 2014-04-24 | 第70期本因坊戦予選 | O Meien | Kobayashi Satoru | Lose | W+0.5 | 6.5 | 2865 | -30 | 
+| 2014-03-20 | 第4回フマキラー囲碁マスターズカップ1回戦 | O Meien | Kobayashi Koichi | Lose | W+R | 6.5 | 2895 | -30 | 
+| 2014-03-13 | 第70期本因坊戦予選 | Mukai Kaori | O Meien | Win | W+R | 6.5 | 2925 | -30 | 
+| 2014-01-30 | 第40期天元戦予選 | O Meien | Kono Takashi | Lose | W+5.5 | 6.5 | 2955 | -18 | 
+| 2014-01-23 | 第62期王座戦予選 | Ko Reibun | O Meien | Lose | B+2.5 | 6.5 | 2973 | -2 | 
+| 2014-01-17 | 2014年日台精鋭交流戦第6戦 | Zhou Junxun | O Meien | Lose | B+R | 6.5 | 2975 | 0 | 
+| 2014-01-17 | 2014年日台精鋭交流戦第5戦 | Lin Shuyang | O Meien | Win | W+R | 6.5 | 2975 | 4 | 
+| 2014-01-16 | 2014年日台精鋭交流戦第4戦 | O Meien | Lin Zhihan | Win | B+R | 6.5 | 2971 | 0 | 
+| 2014-01-16 | 2014年日台精鋭交流戦第3戦 | Chen Shiyuan | O Meien | Lose | B+T | 6.5 | 2971 | -45 | 
+| 2014-01-15 | 2014年日台精鋭交流戦第2戦 | Lin Junyan | O Meien | Win | W+R | 6.5 | 3016 | 0 | 
+| 2014-01-15 | 2014年日台精鋭交流戦第1戦 | O Meien | Lin Lixiang | Lose | W+12.5 | 6.5 | 3016 | 17 | 
+| 2013-12-12 | 第62期王座戦予選 | Ishikura Noboru | O Meien | Win | W+R | 6.5 | 2999 | -2 | 
+| 2013-12-05 | 第39期棋聖戦予選 | O Meien | Tsuruyama Atsushi | Lose | W+R | 6.5 | 3001 | -15 | 
+| 2013-11-28 | 第40期天元戦予選 | O Meien | Katsura Atsushi | Win | B+R | 6.5 | 3016 | -17 | 
+| 2013-11-21 | 第39期棋聖戦予選 | O Meien | Mizuma Toshifumi | Win | B+3.5 | 6.5 | 3033 | -26 | 
+| 2013-09-26 | 第52期十段戦1回戦 | O Rissei | O Meien | Lose | B+R | 6.5 | 3059 | -170 | 
+| 2013-09-12 | 第39期碁聖戦予選 | Takemiya Masaki | O Meien | Win | W+R | 6.5 | 3229 | 54 | 
+| 2013-08-22 | 第52期十段戦予選 | O Meien | Ogata Masaki | Win | B+R | 6.5 | 3175 | 135 | 
+| 2013-07-18 | 第39期碁聖戦予選 | Okuda Aya | O Meien | Win | W+2.5 | 6.5 | 3040 | 43 | 
+| 2013-07-11 | 第39期名人戦予選 | Hirata Tomoya | O Meien | Lose | B+3.5 | 6.5 | 2997 | 124 | 
+| 2013-06-22 | 第3回エステー＆フマキラー囲碁マスターズカップ準決勝 | O Meien | Kobayashi Satoru | Lose | W+R | 6.5 | 2873 | -63 | 
+| 2013-06-20 | 第39期名人戦予選 | O Meien | Sonoda Yasutaka | Win | B+R | 6.5 | 2936 | 47 | 
+| 2013-06-03 | 第20期阿含・桐山杯全日本早碁オープン戦予選 | O Meien | Takao Shinji | Lose | W+R | 6.5 | 2889 | 4 | 
+| 2013-05-23 | 第52期十段戦予選 | Han Zenki | O Meien | Win | W+R | 6.5 | 2885 | 7 | 
+| 2013-05-16 | 第3回エステー＆フマキラー囲碁マスターズカップ2回戦 | Cho Chikun | O Meien | Win | W+10.5 | 6.5 | 2878 | -9 | 
+| 2013-05-09 | 第69期本因坊戦予選 | O Meien | Kobayashi Satoru | Lose | W+R | 6.5 | 2887 | 10 | 
+| 2013-05-02 | 第52期十段戦予選 | O Meien | Ohba Junya | Win | B+R | 6.5 | 2877 | -2 | 
+| 2013-04-25 | 第20期阿含・桐山杯全日本早碁オープン戦予選 | Nakano Yasuhiro | O Meien | Win | W+R | 6.5 | 2879 | -16 | 
+| 2013-04-11 | 第69期本因坊戦予選 | O Meien | Uchida Shuhei | Win | B+R | 6.5 | 2895 | -25 | 
+| 2013-03-14 | 第3回エステー＆フマキラー囲碁マスターズカップ1回戦 | O Meien | Kudo Norio | Win | B+R | 6.5 | 2920 | 8 | 
+| 2013-02-14 | 第39期天元戦本戦1回戦 | Shida Tatsuya | O Meien | Lose | B+R | 6.5 | 2912 | -16 | 
+| 2013-02-07 | 第52期十段戦予選 | O Meien | Fujita Akihiko | Win | B+2.5 | 6.5 | 2928 | 15 | 
+| 2013-01-31 | 第69期本因坊戦予選 | Lee Ishu | O Meien | Win | W+R | 6.5 | 2913 | 2 | 
+| 2013-01-24 | 第38期棋聖戦予選 | O Meien | Murakawa Daisuke | Lose | W+R | 6.5 | 2911 | -11 | 
+| 2013-01-17 | 第61期王座戦予選 | Rin Shien | O Meien | Lose | B+R | 6.5 | 2922 | 2 | 
+| 2012-12-20 | 第61期王座戦予選 | Xie Yimin | O Meien | Win | W+0.5 | 6.5 | 2920 | -220 | 
+| 2012-10-04 | 第37期棋聖戦Aリーグ | Kobayashi Satoru | O Meien | Lose | B+4.5 | 6.5 | 3140 | 18 | 
+| 2012-08-16 | 第38期碁聖戦予選 | Kono Rin | O Meien | Lose | B+R | 6.5 | 3122 | -13 | 
+| 2012-08-09 | 第37期棋聖戦Aリーグ | O Meien | Yamashita Keigo | Lose | W+6.5 | 6.5 | 3135 | -102 | 
+| 2012-07-28 | 第2回エステー＆フマキラー囲碁マスターズカップ決勝 | Cho Chikun | O Meien | Win | W+3.5 | 6.5 | 3237 | 19 | 
+| 2012-07-26 | 第38期名人戦予選 | Cho Riyu | O Meien | Lose | B+1.5 | 6.5 | 3218 | 51 | 
+| 2012-07-19 | 第37期棋聖戦Aリーグ | Takao Shinji | O Meien | Lose | B+2.5 | 6.5 | 3167 | 11 | 
+| 2012-07-12 | 第38期天元戦本戦準決勝 | O Meien | Anzai Nobuaki | Lose | W+R | 6.5 | 3156 | -25 | 
+| 2012-06-30 | 第2回エステー＆フマキラー囲碁マスターズカップ準決勝 | Kataoka Satoshi | O Meien | Win | W+R | 6.5 | 3181 | 37 | 
+| 2012-06-28 | 第38期名人戦予選 | Tsuruyama Atsushi | O Meien | Win | W+1.5 | 6.5 | 3144 | -63 | 
+| 2012-06-14 | 第37期棋聖戦Aリーグ | Ryu Shikun | O Meien | Win | W+1.5 | 6.5 | 3207 | -33 | 
+| 2012-05-24 | 第37期棋聖戦Aリーグ | O Meien | Kono Rin | Win | B+R | 6.5 | 3240 | -22 | 
+| 2012-05-17 | 第2回エステー＆フマキラー囲碁マスターズカップ2回戦 | O Meien | Ishida Yoshio | Win | B+0.5 | 6.5 | 3262 | 3 | 
+| 2012-05-10 | 第38期天元戦本戦3回戦 | O Meien | Ryu Shikun | Win | B+11.5 | 6.5 | 3259 | -78 | 
+| 2012-05-03 | 第51期十段戦予選 | Kanazawa Makoto | O Meien | Lose | B+R | 6.5 | 3337 | -102 | 
+| 2012-04-26 | 第68期本因坊戦予選 | Rin Shien | O Meien | Lose | B+0.5 | 6.5 | 3439 | -40 | 
+| 2012-04-19 | 第2回エステー＆フマキラー囲碁マスターズカップ1回戦 | O Meien | Hane Yasumasa | Win | B+R | 6.5 | 3479 | 11 | 
+| 2012-04-12 | 第38期天元戦本戦2回戦 | O Meien | Lee Ishu | Win | B+R | 6.5 | 3468 | 17 | 
+| 2012-03-29 | 第37期棋聖戦予選 | Sonoda Yuichi | O Meien | Win | W+R | 6.5 | 3451 | 86 | 
+| 2012-03-22 | 第38期天元戦本戦1回戦 | O Meien | Hikosaka Naoto | Win | B+R | 6.5 | 3365 | -67 | 
+| 2012-03-01 | 第37期棋聖戦予選 | O Meien | Kato Atsushi | Win | B+1.5 | 6.5 | 3432 | 56 | 
+| 2012-02-02 | 第37期棋聖戦予選 | Moriyama Naoki | O Meien | Win | W+R | 6.5 | 3376 | 101 | 
+| 2012-01-12 | 第68期本因坊戦予選 | Ogoshi Ichiro | O Meien | Win | W+R | 6.5 | 3275 | -13 | 
+| 2011-12-22 | 第37期棋聖戦予選 | Miyazawa Goro | O Meien | Win | W+R | 6.5 | 3288 | 391 | 
+| 2011-11-17 | 第37期棋聖戦予選 | O Meien | Anzai Nobuaki | Win | B+3.5 | 6.5 | 2897 | -84 | 
+| 2011-09-22 | 第37期碁聖戦予選 | Cho Sonjin | O Meien | Lose | B+R | 6.5 | 2981 | 88 | 
+| 2011-09-01 | 第37期碁聖戦予選 | Awaji Shuzo | O Meien | Win | W+R | 6.5 | 2893 | 1 | 
+| 2011-08-25 | 第37期天元戦挑戦者決定戦 | O Meien | Iyama Yuta | Lose | W+R | 6.5 | 2892 | -18 | 
+| 2011-08-18 | 第31期NECカップ囲碁トーナメント戦1回戦 | O Meien | Yamashita Keigo | Lose | W+5.5 | 6.5 | 2910 | -13 | 
+| 2011-08-10 | 第24回世界囲碁選手権富士通杯1回戦 | Qiu Jun | O Meien | Lose | B+R | 6.5 | 2923 | -23 | 
+| 2011-07-28 | 第60期王座戦予選 | Kobayashi Koichi | O Meien | Win | W+4.5 | 6.5 | 2946 | -10 | 
+| 2011-07-21 | 第18期阿含・桐山杯全日本早碁オープン戦2回戦 | O Meien | Yamada Kimio | Lose | W+R | 6.5 | 2956 | -1 | 
+| 2011-07-14 | 第37期名人戦予選 | O Meien | Otake Hideo | Lose | W+R | 6.5 | 2957 | -66 | 
+| 2011-06-30 | 第18期阿含・桐山杯全日本早碁オープン戦1回戦 | O Meien | Sakai Hideyuki | Win | B+0.5 | 6.5 | 3023 | -109 | 
+| 2011-06-23 | 第37期天元戦本戦準決勝 | O Meien | Yamashita Keigo | Win | B+R | 6.5 | 3132 | -22 | 
+| 2011-06-16 | 第37期名人戦予選 | Anzai Nobuaki | O Meien | Win | W+0.5 | 6.5 | 3154 | 36 | 
+| 2011-05-19 | 第37期天元戦本戦3回戦 | O Meien | Cho U | Win | B+R | 6.5 | 3118 | 88 | 
+| 2011-05-05 | 第18期阿含・桐山杯全日本早碁オープン戦予選 | Hane Naoki | O Meien | Win | W+R | 6.5 | 3030 | -32 | 
+| 2011-04-28 | 第60期王座戦予選 | O Meien | Kataoka Satoshi | Win | B+R | 6.5 | 3062 | 10 | 
+| 2011-04-21 | 第18期阿含・桐山杯全日本早碁オープン戦予選 | Nakano Yasuhiro | O Meien | Win | W+R | 6.5 | 3052 | 71 | 
+| 2011-03-31 | 第60期王座戦予選 | O Meien | Tamaki Shinobu | Win | B+R | 6.5 | 2981 | -16 | 
+| 2011-03-24 | 第36期碁聖戦本戦3回戦 | O Meien | Yamashita Keigo | Lose | W+R | 6.5 | 2997 | -69 | 
+| 2011-03-10 | 第37期天元戦本戦2回戦 | Kono Takashi | O Meien | Win | W+4.5 | 6.5 | 3066 | 23 | 
+| 2011-03-03 | 第50期十段戦予選 | O Meien | Kobayashi Satoru | Lose | W+R | 6.5 | 3043 | -15 | 
+| 2011-02-24 | 第36期碁聖戦本戦2回戦 | Mizokami Tomochika | O Meien | Win | W+R | 6.5 | 3058 | 19 | 
+| 2011-02-17 | 第67期本因坊戦予選 | Tsuruyama Atsushi | O Meien | Lose | B+R | 6.5 | 3039 | 22 | 
+| 2011-02-07 | 第4期幽玄杯精鋭リーグ戦 | O Meien | Ida Atsushi | Lose | W+1.5 | 6.5 | 3017 | -19 | 
+| 2011-02-05 | 第30期NECカップ囲碁トーナメント戦準決勝 | Yamashita Keigo | O Meien | Lose | B+R | 6.5 | 3036 | 116 | 
+| 2011-01-20 | 第36期棋聖戦予選 | O Meien | Kobayashi Koichi | Lose | W+0.5 | 6.5 | 2920 | -12 | 
+| 2010-12-23 | 第50期十段戦予選 | Kubo Hideo | O Meien | Win | W+R | 6.5 | 2932 | 4 | 
+| 2010-12-16 | 第36期棋聖戦予選 | Yamada Takuji | O Meien | Win | W+R | 6.5 | 2928 | 6 | 
+| 2010-12-09 | 第37期天元戦本戦1回戦 | O Meien | Matsuoka Hideki | Win | B+5.5 | 6.5 | 2922 | 42 | 
+| 2010-11-26 | 2010年アジア競技大会囲碁男子団体戦 | O Meien | Iyama Yuta | Lose | W+T | 7.5 | 2880 | -56 | 
+| 2010-11-24 | 2010年アジア競技大会囲碁男子団体戦 | Gu Li | O Meien | Lose | B+R | 7.5 | 2936 | 57 | 
+| 2010-11-11 | 第37期天元戦予選 | O Meien | Kobayashi Koichi | Win | B+5.5 | 6.5 | 2879 | -2 | 
+| 2010-11-08 | 第4期幽玄杯精鋭リーグ戦 | O Meien | Fujisawa Rina | Win | B+R | 6.5 | 2881 | -4 | 
+| 2010-10-28 | 第36期名人戦予選 | Rin Kanketsu | O Meien | Lose | B+R | 6.5 | 2885 | -31 | 
+| 2010-10-14 | 第36期碁聖戦予選 | O Meien | Mimura Tomoyasu | Win | B+4.5 | 6.5 | 2916 | 33 | 
+| 2010-10-07 | 第36期名人戦予選 | O Meien | Goto Shungo | Win | B+R | 6.5 | 2883 | 101 | 
+| 2010-09-30 | 第35期棋聖戦Aリーグ | O Meien | Takao Shinji | Lose | W+3.5 | 6.5 | 2782 | -11 | 
+| 2010-09-23 | 第37期天元戦予選 | Morita Michihiro | O Meien | Win | W+R | 6.5 | 2793 | 21 | 
+| 2010-09-16 | 第36期碁聖戦予選 | O Meien | Kataoka Satoshi | Win | B+1.5 | 6.5 | 2772 | 57 | 
+| 2010-09-09 | 第59期王座戦予選 | O Meien | Kono Takashi | Lose | W+1.5 | 6.5 | 2715 | -74 | 
+| 2010-09-02 | 第35期棋聖戦Aリーグ | O Meien | Yoda Norimoto | Lose | W+R | 6.5 | 2789 | 4 | 
+| 2010-08-26 | 第36期名人戦予選 | Sakakibara Masateru | O Meien | Win | W+R | 6.5 | 2785 | -19 | 
+| 2010-08-21 | 第6回大和証券杯ネット囲碁オープン1回戦 | O Meien | Anzai Nobuaki | Lose | W+5.5 | 6.5 | 2804 | 14 | 
+| 2010-08-19 | 第30期NECカップ囲碁トーナメント戦2回戦 | O Meien | Iyama Yuta | Win | B+2.5 | 6.5 | 2790 | 34 | 
+| 2010-08-05 | 第35期棋聖戦Aリーグ | Kato Atsushi | O Meien | Win | W+R | 6.5 | 2756 | 1 | 
+| 2010-07-22 | 第59期王座戦予選 | O Meien | Xie Yimin | Win | B+R | 6.5 | 2755 | -19 | 
+| 2010-07-15 | 第35期棋聖戦Aリーグ | Kono Rin | O Meien | Lose | B+R | 6.5 | 2774 | 11 | 
+| 2010-07-08 | 第30期NECカップ囲碁トーナメント戦1回戦 | Yoda Norimoto | O Meien | Win | W+R | 6.5 | 2763 | 12 | 
+| 2010-07-01 | 第35期名人戦リーグ | O Meien | Sakai Hideyuki | Win | B+0.5 | 6.5 | 2751 | 23 | 
+| 2010-06-24 | 第35期棋聖戦Aリーグ | Yamashita Keigo | O Meien | Lose | B+R | 6.5 | 2728 | 68 | 
+| 2010-06-17 | 第36期碁聖戦予選 | Ogaki Yusaku | O Meien | Win | W+R | 6.5 | 2660 | 34 | 
+| 2010-06-10 | 第35期名人戦リーグ | Cho U | O Meien | Lose | B+R | 6.5 | 2626 | 52 | 
+| 2010-05-06 | 第35期名人戦リーグ | O Meien | Mizokami Tomochika | Lose | W+R | 6.5 | 2574 | -30 | 
+| 2010-04-29 | 第59期王座戦予選 | O Meien | Miyazaki Shimako | Win | B+R | 6.5 | 2604 | 10 | 
+| 2010-04-22 | 第66期本因坊戦予選 | Kobayashi Satoru | O Meien | Lose | B+R | 6.5 | 2594 | -30 | 
+| 2010-04-15 | 第17期阿含・桐山杯全日本早碁オープン戦予選 | Cho Sonjin | O Meien | Lose | B+R | 6.5 | 2624 | -49 | 
+| 2010-04-08 | 第35期名人戦リーグ | Yuki Satoshi | O Meien | Lose | B+R | 6.5 | 2673 | 11 | 
+| 2010-04-01 | 第49期十段戦予選 | Chin Kaei | O Meien | Lose | B+R | 6.5 | 2662 | -4 | 
+| 2010-03-25 | 第59期王座戦予選 | Takamizawa Tadao | O Meien | Win | W+R | 6.5 | 2666 | -14 | 
+| 2010-03-18 | 第66期本因坊戦予選 | Michael Redmond | O Meien | Win | W+R | 6.5 | 2680 | 15 | 
+| 2010-03-11 | 第35期名人戦リーグ | O Meien | Yamada Kimio | Win | B+5.5 | 6.5 | 2665 | 26 | 
+| 2010-02-25 | 第35期棋聖戦予選 | Ko Iso | O Meien | Win | W+R | 6.5 | 2639 | 15 | 
+| 2010-02-04 | 第35期名人戦リーグ | O Meien | Cho Chikun | Lose | W+R | 6.5 | 2624 | -43 | 
+| 2010-01-28 | 第66期本因坊戦予選 | Nakamura Hidehito | O Meien | Win | W+R | 6.5 | 2667 | -38 | 
+| 2010-01-21 | 第35期棋聖戦予選 | O Meien | Ko Reibun | Win | B+1.5 | 6.5 | 2705 | 55 | 
+| 2010-01-07 | 第35期名人戦リーグ | Takao Shinji | O Meien | Lose | B+R | 6.5 | 2650 | -46 | 
+| 2009-12-17 | 第35期棋聖戦予選 | Ueki Yoshio | O Meien | Win | W+R | 6.5 | 2696 | -6 | 
+| 2009-12-10 | 第35期名人戦リーグ | Ogata Masaki | O Meien | Win | W+R | 6.5 | 2702 | -180 | 
+| 2009-11-19 | 第35期棋聖戦予選 | O Meien | Ogaki Yusaku | Win | B+R | 6.5 | 2882 | -17 | 
+| 2009-10-29 | 第35期棋聖戦予選 | Kojima Takaho | O Meien | Win | W+R | 6.5 | 2899 | 10 | 
+| 2009-10-22 | 第35期名人戦予選 | Kono Rin | O Meien | Win | W+1.5 | 6.5 | 2889 | 20 | 
+| 2009-10-15 | 第36期天元戦予選 | Ryu Shikun | O Meien | Lose | B+R | 6.5 | 2869 | -21 | 
+| 2009-10-10 | 第5回大和証券杯ネット囲碁オープン3回戦 | O Meien | Kono Rin | Lose | W+R | 6.5 | 2890 | 29 | 
+| 2009-10-01 | 第35期名人戦予選 | Honda Kunihisa | O Meien | Win | W+4.5 | 6.5 | 2861 | -41 | 
+| 2009-09-24 | 第36期天元戦予選 | O Meien | Umezawa Yukari | Win | B+R | 6.5 | 2902 | -21 | 
+| 2009-09-17 | 第48期十段戦敗者復活戦2回戦 | So Yokoku | O Meien | Lose | B+1.5 | 6.5 | 2923 | -11 | 
+| 2009-09-14 | 第23回世界囲碁選手権富士通杯国内予選 | Uchida Shuhei | O Meien | Lose | Void | 6.5 | 2934 | -19 | 
+| 2009-09-10 | 第35期名人戦予選 | O Meien | Goto Shungo | Win | B+2.5 | 6.5 | 2953 | -3 | 
+| 2009-09-05 | 第5回大和証券杯ネット囲碁オープン2回戦 | Hane Naoki | O Meien | Win | W+0.5 | 6.5 | 2956 | 73 | 
+| 2009-08-20 | 第58期王座戦予選 | Cho Riyu | O Meien | Lose | B+R | 6.5 | 2883 | -5 | 
+| 2009-08-13 | 第35期碁聖戦予選 | O Meien | Iguchi Hideichiro | Lose | W+0.5 | 6.5 | 2888 | -18 | 
+| 2009-08-08 | 第5回大和証券杯ネット囲碁オープン1回戦 | Yoda Norimoto | O Meien | Win | W+R | 6.5 | 2906 | 12 | 
+| 2009-08-06 | 第34期名人戦リーグ | Takao Shinji | O Meien | Lose | B+R | 6.5 | 2894 | 3 | 
+| 2009-07-23 | 第48期十段戦本戦2回戦 | Lee Ishu | O Meien | Lose | B+2.5 | 6.5 | 2891 | -38 | 
+| 2009-07-09 | 第34期名人戦リーグ | O Meien | Cho Chikun | Lose | W+R | 6.5 | 2929 | 22 | 
+| 2009-06-17 | 第29期NECカップ囲碁トーナメント戦1回戦 | O Meien | Kataoka Satoshi | Lose | W+R | 6.5 | 2907 | 12 | 
+| 2009-06-04 | 第34期名人戦リーグ | O Meien | Sakai Hideyuki | Lose | W+3.5 | 6.5 | 2895 | -80 | 
+| 2009-05-14 | 第48期十段戦本戦1回戦 | O Meien | Tsuruyama Atsushi | Win | B+R | 6.5 | 2975 | 12 | 
+| 2009-05-11 | 第5回大和証券杯ネット囲碁オープン予選 | O Meien | Ko Reibun | Win | B+7.5 | 6.5 | 2963 | 0 | 
+| 2009-05-11 | 第5回大和証券杯ネット囲碁オープン予選 | O Meien | Xie Yimin | Win | B+R | 6.5 | 2963 | 63 | 
+| 2009-04-16 | 第48期十段戦予選 | O Meien | Ishida Atsushi | Win | B+R | 6.5 | 2900 | 23 | 
+| 2009-04-09 | 第34期名人戦リーグ | Cho Riyu | O Meien | Win | W+R | 6.5 | 2877 | 39 | 
+| 2009-04-02 | 第65期本因坊戦予選 | Kanda Ei | O Meien | Lose | B+2.5 | 6.5 | 2838 | -11 | 
+| 2009-03-26 | 第48期十段戦予選 | Kurahashi Masayuki | O Meien | Win | W+R | 6.5 | 2849 | 14 | 
+| 2009-03-23 | 第35期天元戦本戦2回戦 | Takao Shinji | O Meien | Lose | B+R | 6.5 | 2835 | -22 | 
+| 2009-03-12 | 第34期名人戦リーグ | Yamada Kimio | O Meien | Lose | B+0.5 | 6.5 | 2857 | -14 | 
+| 2009-03-05 | 第65期本因坊戦予選 | Kono Takashi | O Meien | Win | W+R | 6.5 | 2871 | -96 | 
+| 2009-02-26 | 第34期碁聖戦本戦2回戦 | Yuki Satoshi | O Meien | Lose | B+R | 6.5 | 2967 | 70 | 
+| 2009-02-12 | 第35期天元戦本戦1回戦 | O Meien | Cho Chikun | Win | B+R | 6.5 | 2897 | 19 | 
+| 2009-02-05 | 第34期名人戦リーグ | Kobayashi Satoru | O Meien | Win | W+R | 6.5 | 2878 | 3 | 
+| 2009-01-29 | 第48期十段戦予選 | O Meien | Kenmochi Joe | Win | B+R | 6.5 | 2875 | -10 | 
+| 2009-01-22 | 第34期名人戦リーグ | O Meien | Ogata Masaki | Lose | W+R | 6.5 | 2885 | -83 | 
+| 2009-01-08 | 第34期棋聖戦予選 | Yuki Satoshi | O Meien | Lose | B+R | 6.5 | 2968 | 55 | 
+| 2008-12-18 | 第34期碁聖戦本戦1回戦 | O Meien | Oya Koichi | Win | B+13.5 | 6.5 | 2913 | 102 | 
+| 2008-12-11 | 第48期十段戦予選 | Cho Riyu | O Meien | Win | W+2.5 | 6.5 | 2811 | 27 | 
+| 2008-12-04 | 第34期名人戦リーグ | O Meien | Iyama Yuta | Lose | W+R | 6.5 | 2784 | -37 | 
+| 2008-12-01 | 第2期幽玄杯精鋭リーグ戦 | O Meien | Kumamoto Syusei | Win | B+R | 6.5 | 2821 | 301 | 
+| 2008-11-27 | 第34期棋聖戦予選 | Ohba Junya | O Meien | Win | W+R | 6.5 | 2520 | 14 | 
+| 2008-11-20 | 第35期天元戦予選 | O Meien | Kobayashi Koichi | Win | B+1.5 | 6.5 | 2506 | -12 | 
+| 2008-11-13 | 第57期王座戦予選 | O Meien | Ryu Shikun | Lose | W+R | 6.5 | 2518 | -50 | 
+| 2008-11-06 | 第34期棋聖戦予選 | O Meien | Mitsunaga Junzo | Win | B+R | 6.5 | 2568 | -2 | 
+| 2008-10-30 | 第34期名人戦予選 | O Meien | Yamada Noriyoshi | Win | B+7.5 | 6.5 | 2570 | -554 | 
+| 2008-10-23 | 第34期碁聖戦予選 | Han Zenki | O Meien | Win | W+4.5 | 6.5 | 3124 | 69 | 
+| 2008-10-04 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Park Cheongsang | O Meien | Lose | B+2.5 | 6.5 | 3055 | -5 | 
+| 2008-09-25 | 第34期名人戦予選 | Yoda Norimoto | O Meien | Win | W+2.5 | 6.5 | 3060 | 26 | 
+| 2008-09-22 | 第2期幽玄杯精鋭リーグ戦 | O Meien | Osawa Kenro | Win | B+6.5 | 6.5 | 3034 | -1 | 
+| 2008-09-18 | 第48期十段戦予選 | Horimoto Mitsunari | O Meien | Win | W+R | 6.5 | 3035 | -4 | 
+| 2008-09-11 | 第35期天元戦予選 | O Meien | Hashimoto Yujiro | Win | B+R | 6.5 | 3039 | 33 | 
+| 2008-08-28 | 第34期碁聖戦予選 | O Meien | Matsumoto Takehisa | Win | B+1.5 | 6.5 | 3006 | -33 | 
+| 2008-08-14 | 第34期名人戦予選 | Cho Sonjin | O Meien | Win | W+R | 6.5 | 3039 | 319 | 
+| 2008-07-10 | 第34期名人戦予選 | O Meien | Mimura Tomoyasu | Win | B+R | 6.5 | 2720 | 3 | 
+| 2008-06-30 | 第2期幽玄杯精鋭リーグ戦 | Oda Teppei | O Meien | Win | W+R | 6.5 | 2717 | 6 | 
+| 2008-06-26 | 第34期碁聖戦予選 |  | O Meien | Win | W+R | 6.5 | 2711 | -6 | 
+| 2008-05-26 | 第4回大和証券杯ネット囲碁オープン予選 | Nakaonoda Tomomi | O Meien | Lose | B+10.5 | 6.5 | 2717 | -7 | 
+| 2008-05-02 | 第6回応氏杯世界選手権2回戦 | O Meien | Liu Xing | Lose | W+R | 7.5 | 2724 | -6 | 
+| 2008-04-24 | 第64期本因坊戦予選 | O Meien | Kurotaki Masanori | Win | B+R | 6.5 | 2730 | 210 | 
+| 2008-04-17 | 第34期名人戦予選 | O Meien | Kubo Hideo | Win | B+3.5 | 6.5 | 2520 | -1 | 
+| 2008-04-10 | 第33期棋聖戦予選 | O Meien | Honda Kunihisa | Lose | W+5.5 | 6.5 | 2521 | -28 | 
+| 2008-04-03 | 第63期本因坊戦リーグ | O Meien | Yamada Kimio | Lose | W+R | 6.5 | 2549 | 3 | 
+| 2008-03-20 | 第63期本因坊戦リーグ | So Yokoku | O Meien | Win | W+R | 6.5 | 2546 | 14 | 
+| 2008-03-13 | 第33期棋聖戦予選 | Seto Taiki | O Meien | Win | W+0.5 | 6.5 | 2532 | 34 | 
+| 2008-03-06 | 第4期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | O Meien | Ogata Masaki | Lose | W+R | 6.5 | 2498 | -89 | 
+| 2008-02-21 | 第33期棋聖戦予選 | O Meien | Imamura Toshiya | Win | B+T | 6.5 | 2587 | -15 | 
+| 2008-02-07 | 第63期本因坊戦リーグ | Hane Naoki | O Meien | Lose | B+R | 6.5 | 2602 | 12 | 
+| 2008-01-28 | 第1期幽玄杯精鋭リーグ戦 | O Meien | Takeda Yoshinori | Win | B+R | 6.5 | 2590 | 14 | 
+| 2008-01-17 | 第56期王座戦予選 | Hikosaka Naoto | O Meien | Lose | B+R | 6.5 | 2576 | 20 | 
+| 2008-01-10 | 第63期本因坊戦リーグ | Cho U | O Meien | Lose | B+8.5 | 6.5 | 2556 | 3 | 
+| 2007-12-17 | 第1期幽玄杯精鋭リーグ戦 | Imamura Yoshiaki | O Meien | Win | W+R | 6.5 | 2553 | -10 | 
+| 2007-12-10 | 第63期本因坊戦リーグ | O Meien | Yamashita Keigo | Lose | W+R | 6.5 | 2563 | -46 | 
+| 2007-11-15 | 第33期棋聖戦予選 | Uchida Shuhei | O Meien | Win | W+10.5 | 6.5 | 2609 | 5 | 
+| 2007-11-08 | 第63期本因坊戦リーグ | O Meien | Mizokami Tomochika | Win | B+R | 6.5 | 2604 | -4 | 
+| 2007-10-25 | 第47期十段戦予選 | Anzai Nobuaki | O Meien | Lose | B+R | 6.5 | 2608 | -19 | 
+| 2007-10-18 | 第33期棋聖戦予選 | O Meien | Omori Yasushi | Win | B+R | 6.5 | 2627 | -1 | 
+| 2007-10-11 | 第63期本因坊戦リーグ | O Meien | Yoda Norimoto | Win | B+R | 6.5 | 2628 | 2 | 
+| 2007-10-04 | 第56期王座戦予選 | O Meien | Akiyama Jiro | Win | B+R | 6.5 | 2626 | -1 | 
+| 2007-09-29 | 第3回大和証券杯ネット囲碁オープン2回戦 | Yamada Kimio | O Meien | Lose | B+R | 6.5 | 2627 | -106 | 
+| 2007-09-06 | 第56期王座戦予選 | Nishimura Keiji | O Meien | Win | W+R | 6.5 | 2733 | -23 | 
+| 2007-08-30 | 第33期名人戦予選 | O Meien | Cho Chikun | Lose | W+R | 6.5 | 2756 | -33 | 
+| 2007-08-25 | 第27期NECカップ囲碁トーナメント戦1回戦 | Kobayashi Satoru | O Meien | Lose | B+0.5 | 6.5 | 2789 | -13 | 
+| 2007-08-23 | 第63期本因坊戦予選 | O Meien | Ko Iso | Win | B+R | 6.5 | 2802 | -1 | 
+| 2007-08-16 | 第34期天元戦予選 | Yo Kaei | O Meien | Win | W+2.5 | 6.5 | 2803 | -368 | 
+| 2007-07-26 | 第33期碁聖戦予選 | Awaji Shuzo | O Meien | Lose | B+R | 6.5 | 3171 | 15 | 
+| 2007-07-05 | 第63期本因坊戦予選 | Ishida Yoshio | O Meien | Win | W+8.5 | 6.5 | 3156 | -68 | 
+| 2007-06-21 | 第33期碁聖戦予選 |  | O Meien | Win | W+4.5 | 6.5 | 3224 | 59 | 
+| 2007-06-07 | 第14期阿含・桐山杯全日本早碁オープン戦予選 | O Meien | Yamashiro Hiroshi | Lose | W+R | 6.5 | 3165 | 17 | 
+| 2007-05-24 | 第63期本因坊戦予選 | O Meien | Nakamura Shinya | Win | B+R | 6.5 | 3148 | -2 | 
+| 2007-04-26 | 第33期名人戦予選 | O Meien | Ko Mosei | Win | B+R | 6.5 | 3150 | 57 | 
+| 2007-04-05 | 第62期本因坊戦リーグ | Cho Sonjin | O Meien | Win | W+R | 6.5 | 3093 | -2 | 
+| 2007-03-31 | 第2回大和証券杯ネット囲碁オープン決勝三番勝負第2局 | O Meien | Yoda Norimoto | Win | B+9.5 | 6.5 | 3095 | 7 | 
+| 2007-03-24 | 第2回大和証券杯ネット囲碁オープン決勝三番勝負第1局 | Yoda Norimoto | O Meien | Win | W+3.5 | 6.5 | 3088 | 10 | 
+| 2007-03-22 | 第46期十段戦予選 | Yukawa Mitsuhisa | O Meien | Lose | B+1.5 | 6.5 | 3078 | 332 | 
+| 2007-03-08 | 第62期本因坊戦リーグ | Yoda Norimoto | O Meien | Lose | B+3.5 | 6.5 | 2746 | -12 | 
+| 2007-03-04 | 第2回大和証券杯ネット囲碁オープン決勝トーナメント準決勝 | O Meien | Cho U | Win | B+3.5 | 6.5 | 2758 | 38 | 
+| 2007-03-01 | 第46期十段戦予選 | O Meien | Nakano Hironari | Win | B+2.5 | 6.5 | 2720 | 19 | 
+| 2007-02-25 | 第2回大和証券杯ネット囲碁オープン決勝トーナメント1回戦 | Kono Rin | O Meien | Win | W+R | 6.5 | 2701 | 73 | 
+| 2007-02-15 | 第62期本因坊戦リーグ | O Meien | Kobayashi Satoru | Win | B+R | 6.5 | 2628 | 13 | 
+| 2007-02-10 | 第2回大和証券杯ネット囲碁オープンBリーグ | Yamada Kimio | O Meien | Win | W+6.5 | 6.5 | 2615 | 15 | 
+| 2007-02-03 | 第2回大和証券杯ネット囲碁オープンBリーグ | O Meien | Komatsu Hideki | Lose | W+R | 6.5 | 2600 | -5 | 
+| 2007-01-27 | 第26期NECカップ囲碁トーナメント戦準決勝 | Takao Shinji | O Meien | Lose | B+R | 6.5 | 2605 | -2 | 
+| 2007-01-21 | 第2回大和証券杯ネット囲碁オープンBリーグ | Matsumoto Takehisa | O Meien | Win | W+R | 6.5 | 2607 | 72 | 
+| 2007-01-18 | 第62期本因坊戦リーグ | O Meien | Yamada Kimio | Win | B+R | 6.5 | 2535 | 49 | 
+| 2007-01-11 | 第55期王座戦予選 | O Meien | Kudo Norio | Lose | W+R | 6.5 | 2486 | 16 | 
+| 2006-12-21 | 第62期本因坊戦リーグ | Cho U | O Meien | Lose | B+0.5 | 6.5 | 2470 | 13 | 
+| 2006-11-30 | 第46期十段戦予選 | Ishida Yoshio | O Meien | Win | W+5.5 | 6.5 | 2457 | -8 | 
+| 2006-11-25 | 第26期NECカップ囲碁トーナメント戦2回戦 | O Meien | Kobayashi Satoru | Win | B+1.5 | 6.5 | 2465 | -1 | 
+| 2006-11-23 | 第62期本因坊戦リーグ | O Meien | Hane Naoki | Lose | W+R | 6.5 | 2466 | 26 | 
+| 2006-10-26 | 第46期十段戦予選 | O Meien | Morita Michihiro | Win | B+R | 6.5 | 2440 | -42 | 
+| 2006-10-14 | 第1回大和証券杯ネット囲碁オープン決勝トーナメント1回戦 | O Meien | Cho U | Lose | W+R | 6.5 | 2482 | -24 | 
+| 2006-10-05 | 第62期本因坊戦リーグ | O Meien | So Yokoku | Lose | W+R | 6.5 | 2506 | 17 | 
+| 2006-09-17 | 第1回大和証券杯ネット囲碁オープンCリーグ | O Meien | Michael Redmond | Win | B+2.5 | 6.5 | 2489 | 9 | 
+| 2006-09-14 | 第55期王座戦予選 | Hoshino Masaki | O Meien | Win | W+R | 6.5 | 2480 | 18 | 
+| 2006-09-10 | 第1回大和証券杯ネット囲碁オープンCリーグ | O Meien | Yamashiro Hiroshi | Win | B+R | 6.5 | 2462 | 30 | 
+| 2006-09-09 | 第1回大和証券杯ネット囲碁オープンCリーグ | O Meien | Mimura Tomoyasu | Win | B+R | 6.5 | 2432 | 50 | 
+| 2006-09-07 | 第33期天元戦予選 | O Meien | Kurotaki Masanori | Win | B+R | 6.5 | 2382 | 5 | 
+| 2006-08-24 | 第32期名人戦予選 | O Meien | Yokota Shigeaki | Lose | W+R | 6.5 | 2377 | -58 | 
+| 2006-08-17 | 第55期王座戦予選 | O Meien | Tahara Yasufumi | Win | B+R | 6.5 | 2435 | -27 | 
+| 2006-08-10 | 第32期碁聖戦予選 | O Meien | Ishida Akira | Lose | W+R | 6.5 | 2462 | -76 | 
+| 2006-07-27 | 第62期本因坊戦予選 | Rin Shien | O Meien | Win | W+1.5 | 6.5 | 2538 | -69 | 
+| 2006-07-06 | 第32期名人戦予選 | O Meien | Cho Sonjin | Win | B+R | 6.5 | 2607 | -151 | 
+| 2006-06-15 | 第62期本因坊戦予選 | O Meien | Ohba Junya | Win | B+R | 6.5 | 2758 | -29 | 
+| 2006-05-25 | 第62期本因坊戦予選 | O Meien | Ogata Masaki | Win | B+4.5 | 6.5 | 2787 | 96 | 
+| 2006-05-13 | 第26期NECカップ囲碁トーナメント戦1回戦 | O Meien | Cho Sonjin | Win | B+0.5 | 6.5 | 2691 | 32 | 
+| 2006-05-03 | 第5回CSK杯囲碁アジア対抗戦第3戦 | O Meien | Yoda Norimoto | Lose | W+R | 6.5 | 2659 | -1 | 
+| 2006-05-02 | 第5回CSK杯囲碁アジア対抗戦第2戦 | O Meien | Lee Sedol | Lose | W+R | 6.5 | 2660 | -2 | 
+| 2006-05-01 | 第5回CSK杯囲碁アジア対抗戦第1戦 | Kong Jie | O Meien | Lose | B+R | 6.5 | 2662 | -126 | 
+| 2006-04-13 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Sakai Hideyuki | O Meien | Lose | B+R | 6.5 | 2788 | -72 | 
+| 2006-03-30 | 第61期本因坊戦リーグ | Yoda Norimoto | O Meien | Lose | B+R | 6.5 | 2860 | -20 | 
+| 2006-03-09 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Ishida Atsushi | O Meien | Win | W+R | 6.5 | 2880 | -1 | 
+| 2006-03-02 | 第61期本因坊戦リーグ | O Rissei | O Meien | Lose | B+3.5 | 6.5 | 2881 | -1 | 
+| 2006-02-23 | 第61期本因坊戦リーグ | So Yokoku | O Meien | Lose | B+R | 6.5 | 2882 | 8 | 
+| 2006-02-16 | 第32期天元戦本戦1回戦 | O Meien | Mizokami Tomochika | Lose | W+R | 6.5 | 2874 | -13 | 
+| 2006-02-09 | 第54期王座戦予選 | O Meien | Kudo Norio | Lose | W+1.5 | 6.5 | 2887 | -22 | 
+| 2006-02-02 | 第31期棋聖戦予選 | O Meien | Cho Chikun | Lose | W+R | 6.5 | 2909 | -17 | 
+| 2006-01-19 | 第31期碁聖戦本戦2回戦 | O Meien | Cho Chikun | Lose | W+7.5 | 6.5 | 2926 | -1 | 
+| 2006-01-12 | 第61期本因坊戦リーグ | O Meien | Cho Sonjin | Lose | W+8.5 | 6.5 | 2927 | -19 | 
+| 2005-12-22 | 第31期碁聖戦本戦1回戦 | Nakao Jungo | O Meien | Win | W+R | 6.5 | 2946 | -211 | 
+| 2005-12-15 | 第45期十段戦予選 | O Meien | Kim Sujun | Lose | W+R | 6.5 | 3157 | -29 | 
+| 2005-12-08 | 第61期本因坊戦リーグ | O Meien | Hane Naoki | Lose | W+R | 6.5 | 3186 | -55 | 
+| 2005-12-01 | 第19回世界囲碁選手権富士通杯国内予選 | O Rissei | O Meien | Lose | B+1.5 | 6.5 | 3241 | 5 | 
+| 2005-11-24 | 第45期十段戦予選 | Kono Mitsuki | O Meien | Win | W+2.5 | 6.5 | 3236 | -28 | 
+| 2005-11-17 | 第61期本因坊戦リーグ | O Meien | Yamada Kimio | Lose | W+5.5 | 6.5 | 3264 | 127 | 
+| 2005-11-10 | 第31期名人戦予選 | O Meien | Takao Shinji | Lose | W+R | 6.5 | 3137 | 240 | 
+| 2005-11-03 | 第19回世界囲碁選手権富士通杯国内予選 | Goto Shungo | O Meien | Win | W+R | 6.5 | 2897 | -245 | 
+| 2005-10-24 | 第61期本因坊戦リーグ | Cho U | O Meien | Lose | B+R | 6.5 | 3142 | 69 | 
+| 2005-10-20 | 第31期名人戦予選 | O Meien | Kanda Ei | Win | B+R | 6.5 | 3073 | -61 | 
+| 2005-10-15 | 第25期NECカップ囲碁トーナメント戦2回戦 | O Meien | Cho Sonjin | Lose | W+R | 6.5 | 3134 | 14 | 
+| 2005-10-06 | 第30期棋聖戦Bリーグ | Imamura Toshiya | O Meien | Win | W+R | 6.5 | 3120 | 32 | 
+| 2005-09-08 | 第30期棋聖戦Bリーグ | O Meien | Komatsu Hideki | Lose | W+R | 6.5 | 3088 | -15 | 
+| 2005-08-25 | 第30期棋聖戦Bリーグ | O Meien | Kobayashi Satoru | Lose | W+6.5 | 6.5 | 3103 | -31 | 
+| 2005-08-16 | 第2回中環杯世界囲碁選手権2回戦 | O Meien | Lee Sedol | Lose | W+R | 6.5 | 3134 | 10 | 
+| 2005-08-14 | 第2回中環杯世界囲碁選手権1回戦 | Lee Changho | O Meien | Win | W+0.5 | 6.5 | 3124 | 31 | 
+| 2005-08-11 | 第53期王座戦準決勝 | Yamashita Keigo | O Meien | Lose | B+R | 6.5 | 3093 | -13 | 
+| 2005-08-04 | 第30期名人戦リーグ | Kobayashi Satoru | O Meien | Lose | B+3.5 | 6.5 | 3106 | -33 | 
+| 2005-07-28 | 第30期棋聖戦Bリーグ | O Rissei | O Meien | Win | W+R | 6.5 | 3139 | 15 | 
+| 2005-07-24 | 第25期NECカップ囲碁トーナメント戦1回戦 | O Meien | Yamashita Keigo | Win | B+3.5 | 6.5 | 3124 | 91 | 
+| 2005-07-07 | 第30期名人戦リーグ | O Meien | Imamura Toshiya | Lose | W+R | 6.5 | 3033 | 297 | 
+| 2005-06-16 | 第30期棋聖戦Bリーグ | O Meien | Yamashita Keigo | Lose | W+R | 6.5 | 2736 | -26 | 
+| 2005-06-09 | 第53期王座戦2回戦 | O Meien | Kataoka Satoshi | Win | B+2.5 | 6.5 | 2762 | 6 | 
+| 2005-06-04 | 第18回世界囲碁選手権富士通杯3回戦 | Choi Cheolhan | O Meien | Lose | B+6.5 | 6.5 | 2756 | -7 | 
+| 2005-05-12 | 第30期名人戦リーグ | Sakai Hideyuki | O Meien | Lose | B+3.5 | 6.5 | 2763 | -43 | 
+| 2005-05-03 | 第4回CSK杯囲碁アジア対抗戦第3戦 | O Meien | Yamashita Keigo | Lose | W+R | 6.5 | 2806 | -5 | 
+| 2005-05-02 | 第4回CSK杯囲碁アジア対抗戦第2戦 | Hu Yaoyu | O Meien | Lose | B+R | 6.5 | 2811 | -12 | 
+| 2005-05-01 | 第4回CSK杯囲碁アジア対抗戦第1戦 | O Meien | Choi Cheolhan | Lose | W+5.5 | 6.5 | 2823 | -1 | 
+| 2005-04-28 | 第53期王座戦1回戦 | O Meien | Yoda Norimoto | Win | B+R | 6.5 | 2824 | 98 | 
+| 2005-04-21 | 第30期名人戦リーグ | Cho Sonjin | O Meien | Win | W+R | 6.5 | 2726 | 8 | 
+| 2005-04-14 | 第60期本因坊戦残留プレーオフ | So Yokoku | O Meien | Win | W+R | 6.5 | 2718 | -62 | 
+| 2005-04-11 | 第18回世界囲碁選手権富士通杯2回戦 | O Meien | Park Yeonghun | Win | B+R | 6.5 | 2780 | 21 | 
+| 2005-04-09 | 第18回世界囲碁選手権富士通杯1回戦 | Kim Seonryong | O Meien | Win | W+0.5 | 6.5 | 2759 | 2 | 
+| 2005-03-31 | 第60期本因坊戦リーグ | O Meien | Mimura Tomoyasu | Win | B+R | 6.5 | 2757 | 17 | 
+| 2005-03-24 | 第53期王座戦予選 | O Meien | Izumitani Hideo | Win | B+10.5 | 6.5 | 2740 | 7 | 
+| 2005-03-10 | 第30期名人戦リーグ | O Meien | Ogata Masaki | Win | B+R | 6.5 | 2733 | 28 | 
+| 2005-03-03 | 第60期本因坊戦リーグ | Han Zenki | O Meien | Win | W+4.5 | 6.5 | 2705 | -288 | 
+| 2005-02-25 | 第6回農心辛ラーメン杯世界囲碁最強戦第13戦 | O Meien | Lee Changho | Lose | W+R | 6.5 | 2993 | -96 | 
+| 2005-02-17 | 第30期名人戦リーグ | O Meien | Yoda Norimoto | Lose | W+1.5 | 6.5 | 3089 | -20 | 
+| 2005-02-10 | 第60期本因坊戦リーグ | Takao Shinji | O Meien | Lose | B+0.5 | 6.5 | 3109 | 17 | 
+| 2005-01-27 | 第18回世界囲碁選手権富士通杯国内予選決勝 | O Meien | Kim Sujun | Win | B+R | 6.5 | 3092 | 67 | 
+| 2005-01-20 | 第30期名人戦リーグ | Yamashita Keigo | O Meien | Lose | B+R | 6.5 | 3025 | 13 | 
+| 2005-01-13 | 第60期本因坊戦リーグ | Yoda Norimoto | O Meien | Win | W+2.5 | 6.5 | 3012 | 116 | 
+| 2004-12-16 | 第60期本因坊戦リーグ | O Meien | Cho Sonjin | Lose | W+R | 6.5 | 2896 | -42 | 
+| 2004-12-09 | 第30期名人戦リーグ | O Meien | Yamada Kimio | Win | B+R | 6.5 | 2938 | 167 | 
+| 2004-11-04 | 第60期本因坊戦リーグ | O Rissei | O Meien | Win | W+0.5 | 6.5 | 2771 | -240 | 
+| 2004-10-21 | 第60期本因坊戦リーグ | O Meien | So Yokoku | Lose | W+R | 6.5 | 3011 | 46 | 
+| 2004-10-07 | 第29期棋聖戦Aリーグ | Mimura Tomoyasu | O Meien | Win | W+9.5 | 6.5 | 2965 | -210 | 
+| 2004-09-18 | 第1回中環杯世界囲碁選手権2回戦 | Park Yeonghun | O Meien | Lose | B+1.5 | 6.5 | 3175 | 8 | 
+| 2004-09-16 | 第1回中環杯世界囲碁選手権1回戦 | Hane Naoki | O Meien | Win | W+2.5 | 6.5 | 3167 | 126 | 
+| 2004-09-09 | 第29期棋聖戦Aリーグ | Miyazawa Goro | O Meien | Win | W+R | 6.5 | 3041 | 150 | 
+| 2004-09-02 | 第43期十段戦敗者復活戦2回戦 | O Meien | Yoda Norimoto | Lose | W+R | 6.5 | 2891 | -30 | 
+| 2004-08-26 | 第60期本因坊戦予選 | O Meien | Otake Hideo | Win | B+1.5 | 6.5 | 2921 | -2 | 
+| 2004-08-19 | 第31期天元戦予選 | Sakai Takeshi | O Meien | Lose | B+R | 6.5 | 2923 | 22 | 
+| 2004-08-09 | 第29期棋聖戦Aリーグ | O Meien | Yoda Norimoto | Win | B+2.5 | 6.5 | 2901 | -3 | 
+| 2004-08-05 | 第29期名人戦リーグ | Rin Kaiho | O Meien | Win | W+R | 6.5 | 2904 | 24 | 
+| 2004-07-22 | 第43期十段戦本戦2回戦 | O Meien | Mimura Tomoyasu | Lose | W+R | 6.5 | 2880 | -14 | 
+| 2004-07-08 | 第29期棋聖戦Aリーグ | O Meien | Yamashita Keigo | Lose | W+R | 6.5 | 2894 | -61 | 
+| 2004-07-01 | 第29期名人戦リーグ | Kobayashi Satoru | O Meien | Lose | B+2.5 | 6.5 | 2955 | -8 | 
+| 2004-06-24 | 第43期十段戦本戦1回戦 | Kobayashi Izumi | O Meien | Win | W+R | 6.5 | 2963 | 17 | 
+| 2004-06-17 | 第29期棋聖戦Aリーグ | O Meien | Ryu Shikun | Lose | W+R | 6.5 | 2946 | -24 | 
+| 2004-06-10 | 第29期名人戦リーグ | Yamada Kimio | O Meien | Win | W+2.5 | 6.5 | 2970 | 30 | 
+| 2004-06-03 | 第30期天元戦本戦2回戦 | O Meien | Kataoka Satoshi | Lose | W+5.5 | 6.5 | 2940 | 47 | 
+| 2004-05-28 | 第24期NECカップ囲碁トーナメント戦1回戦 | O Meien | Cho Sonjin | Lose | W+R | 6.5 | 2893 | -85 | 
+| 2004-05-18 | 第9回LG杯世界棋王戦1回戦 | Park Seunghyeon | O Meien | Lose | B+R | 6.5 | 2978 | 42 | 
+| 2004-05-06 | 第29期名人戦リーグ | O Meien | Cho Chikun | Win | B+R | 6.5 | 2936 | 39 | 
+| 2004-04-29 | 第52期王座戦1回戦 | Takao Shinji | O Meien | Lose | B+1.5 | 6.5 | 2897 | -128 | 
+| 2004-04-24 | 第5回応氏杯世界選手権3回戦 | O Meien | Song Taekon | Lose | W+R | 7.5 | 3025 | -9 | 
+| 2004-04-22 | 第5回応氏杯世界選手権2回戦 | O Meien | Zhou Junxun | Win | B+1 | 7.5 | 3034 | 27 | 
+| 2004-04-15 | 第29期名人戦リーグ | O Meien | Yamashita Keigo | Lose | W+1.5 | 6.5 | 3007 | -21 | 
+| 2004-04-12 | 第17回世界囲碁選手権富士通杯2回戦 | Yoo Changhyuk | O Meien | Lose | B+4.5 | 6.5 | 3028 | -23 | 
+| 2004-04-10 | 第17回世界囲碁選手権富士通杯1回戦 | O Meien |  | Win | B+17.5 | 6.5 | 3051 | -31 | 
+| 2004-04-03 | 第2期JALスーパー早碁1回戦（再対局） | O Meien | Yoda Norimoto | Lose | W+R | 6.5 | 3082 | 45 | 
+| 2004-04-01 | 第59期本因坊戦リーグ | O Rissei | O Meien | Win | W+R | 6.5 | 3037 | 7 | 
+| 2004-03-27 | 第2期JALスーパー早碁1回戦 | Yoda Norimoto | O Meien | Lose | Void | 6.5 | 3030 | 5 | 
+| 2004-03-23 | 第3回CSK杯囲碁アジア対抗戦第3戦 | O Meien | Yuki Satoshi | Lose | W+0.5 | 6.5 | 3025 | -45 | 
+| 2004-03-22 | 第3回CSK杯囲碁アジア対抗戦第2戦 | Wang Lei (b) | O Meien | Lose | B+R | 6.5 | 3070 | -12 | 
+| 2004-03-21 | 第3回CSK杯囲碁アジア対抗戦第1戦 | O Meien | Lee Sedol | Lose | W+R | 6.5 | 3082 | -19 | 
+| 2004-03-11 | 第59期本因坊戦リーグ | O Meien | Yoda Norimoto | Lose | W+6.5 | 6.5 | 3101 | -7 | 
+| 2004-03-04 | 第29期名人戦リーグ | O Meien | Cho U | Win | B+5.5 | 6.5 | 3108 | 23 | 
+| 2004-02-26 | 第29期名人戦リーグ | O Rissei | O Meien | Lose | B+R | 6.5 | 3085 | 174 | 
+| 2004-02-16 | 第30期天元戦本戦1回戦 | Ogata Masaki | O Meien | Win | W+R | 6.5 | 2911 | 3 | 
+| 2004-02-12 | 第59期本因坊戦リーグ | Mimura Tomoyasu | O Meien | Lose | B+R | 6.5 | 2908 | -18 | 
+| 2004-02-09 | 第17回世界囲碁選手権富士通杯国内予選決勝 | O Meien | Kobayashi Satoru | Win | B+R | 6.5 | 2926 | 4 | 
+| 2004-02-05 | 第42期十段戦挑戦者決定戦 | Cho U | O Meien | Lose | B+R | 6.5 | 2922 | -4 | 
+| 2004-01-29 | 第29期碁聖戦本戦1回戦 | O Meien | Yuki Satoshi | Lose | W+R | 6.5 | 2926 | 0 | 
+| 2004-01-22 | 第29期名人戦リーグ | O Meien | Imamura Toshiya | Lose | W+R | 6.5 | 2926 | -17 | 
+| 2004-01-15 | 第59期本因坊戦リーグ | Kato Masao | O Meien | Win | W+11.5 | 6.5 | 2943 | 24 | 
+| 2004-01-08 | 第42期十段戦敗者復活戦決勝 | O Meien | Yamada Kimio | Win | B+R | 6.5 | 2919 | -19 | 
+| 2003-12-29 | 第5回春蘭杯世界囲碁選手権1回戦 | Wang Lei (b) | O Meien | Lose | B+R | 7.5 | 2938 | 69 | 
+| 2003-12-25 | 第17回世界囲碁選手権富士通杯国内予選 | O Meien | Akiyama Jiro | Win | B+4.5 | 6.5 | 2869 | 10 | 
+| 2003-12-18 | 第59期本因坊戦リーグ | O Meien | Cho Sonjin | Lose | W+2.5 | 6.5 | 2859 | -44 | 
+| 2003-12-04 | 第51期王座戦挑戦手合五番勝負第4局 | Cho U | O Meien | Lose | B+0.5 | 6.5 | 2903 | -16 | 
+| 2003-11-27 | 第51期王座戦挑戦手合五番勝負第3局 | O Meien | Cho U | Lose | W+R | 6.5 | 2919 | 19 | 
+| 2003-11-22 | 第23期NECカップ囲碁トーナメント戦2回戦 | O Meien | Cho Chikun | Lose | W+1.5 | 6.5 | 2900 | -43 | 
+| 2003-11-20 | 第42期十段戦敗者復活戦4回戦 | Hashimoto Yujiro | O Meien | Win | W+12.5 | 6.5 | 2943 | 24 | 
+| 2003-11-13 | 第59期本因坊戦リーグ | O Meien | Yamashita Keigo | Lose | W+R | 6.5 | 2919 | -50 | 
+| 2003-11-06 | 第51期王座戦挑戦手合五番勝負第2局 | Cho U | O Meien | Lose | B+R | 6.5 | 2969 | 6 | 
+| 2003-10-30 | 第51期王座戦挑戦手合五番勝負第1局 | O Meien | Cho U | Win | B+R | 6.5 | 2963 | -2910 | 
+| 2003-10-16 | 第42期十段戦敗者復活戦3回戦 | O Meien | Kato Masao | Win | B+R | 6.5 | 5873 | 99 | 
+| 2003-10-09 | 第28期棋聖戦Bリーグ | Yoda Norimoto | O Meien | Win | W+0.5 | 6.5 | 5774 | 198 | 
+| 2003-10-02 | 第59期本因坊戦リーグ | Kobayashi Koichi | O Meien | Lose | B+5.5 | 6.5 | 5576 | 2882 | 
+| 2003-09-18 | 第42期十段戦敗者復活戦2回戦 | Nakano Hironari | O Meien | Win | W+4.5 | 6.5 | 2694 | 42 | 
+| 2003-09-04 | 第28期棋聖戦Bリーグ | Ryu Shikun | O Meien | Win | W+2.5 | 6.5 | 2652 | 35 | 
+| 2003-08-28 | 第28期棋聖戦Bリーグ | O Meien | Cho U | Win | B+R | 6.5 | 2617 | 80 | 
+| 2003-08-14 | 第42期十段戦本戦2回戦 | Cho Chikun | O Meien | Lose | B+3.5 | 6.5 | 2537 | 46 | 
+| 2003-08-07 | 第28期名人戦リーグ | O Meien | Yamashita Keigo | Lose | W+R | 6.5 | 2491 | 92 | 
+| 2003-07-14 | 第23期NECカップ囲碁トーナメント戦1回戦 | Hane Naoki | O Meien | Win | W+R | 6.5 | 2399 | 60 | 
+| 2003-07-10 | 第28期名人戦リーグ | O Meien | O Rissei | Lose | W+R | 6.5 | 2339 | -8 | 
+| 2003-07-03 | 第28期棋聖戦Bリーグ | Awaji Shuzo | O Meien | Win | W+R | 6.5 | 2347 | 24 | 
+| 2003-06-17 | 第8回LG杯世界棋王戦1回戦 | O Meien | Michael Redmond | Lose | W+R | 6.5 | 2323 | -30 | 
+| 2003-06-12 | 第28期名人戦リーグ | Takemiya Masaki | O Meien | Win | W+R | 6.5 | 2353 | -4 | 
+| 2003-06-05 | 第28期棋聖戦Bリーグ | O Meien | Cho Chikun | Lose | W+R | 6.5 | 2357 | -16 | 
+| 2003-05-18 | 第1期JALスーパー早碁1回戦 | Yuki Satoshi | O Meien | Lose | B+R | 6.5 | 2373 | -13 | 
+| 2003-04-29 | 第2回CSK杯囲碁アジア対抗戦第3戦 | O Meien | Yoo Changhyuk | Win | B+1.5 | 6.5 | 2386 | 141 | 
+| 2003-04-28 | 第2回CSK杯囲碁アジア対抗戦第2戦 | O Meien | Liu Jing | Lose | W+0.5 | 6.5 | 2245 | 18 | 
+| 2003-04-27 | 第2回CSK杯囲碁アジア対抗戦第1戦 | O Meien | Yamashita Keigo | Win | B+2.5 | 6.5 | 2227 | 206 | 
+| 2003-04-17 | 第28期名人戦リーグ | Cho U | O Meien | Lose | B+3.5 | 6.5 | 2021 | -10 | 
+| 2003-04-14 | 第16回世界囲碁選手権富士通杯2回戦 | Song Taekon | O Meien | Lose | B+R | 6.5 | 2031 | 151 | 
+| 2003-03-20 | 第28期名人戦リーグ | O Meien | Mizokami Tomochika | Win | B+2.5 | 6.5 | 1880 | 1880 | 
+| 2003-02-27 | 第28期名人戦リーグ | Rin Kaiho | O Meien | Lose | B+R | 6.5 | missing | 0 | 
+| 2003-02-13 | 第29期天元戦本戦1回戦 | O Meien | Kono Rin | Lose | W+R | 6.5 | missing | 0 | 
+| 2002-12-05 | 第28期名人戦リーグ | Ryu Shikun | O Meien | Win | W+R | 6.5 | missing | 0 | 
+| 2002-11-14 | 第28期碁聖戦本戦1回戦 | O Meien | Akiyama Jiro | Lose | W+R | 6.5 | missing | 0 | 
+| 2002-08-28 | 第7期三星杯1回戦 | O Meien | Yang Keon | Lose | W+4.5 | 6.5 | missing | -1659 | 
+| 2002-04-30 | 第7回LG杯世界棋王戦1回戦 |  | O Meien | Lose | B+3.5 | 6.5 | 1659 | -6852 | 
+| 2001-08-29 | 第6期三星杯1回戦 | Park Cheongsang | O Meien | Lose | B+R | 6.5 | 8511 | 5944 | 
+| 2001-06-14 | 第6回LG杯世界棋王戦2回戦 | Lee Sedol | O Meien | Lose | B+R | 6.5 | 2567 | 111 | 
+| 2001-06-12 | 第6回LG杯世界棋王戦1回戦 | O Meien | Choi Myeonghun | Win | B+R | 6.5 | 2456 | 2456 | 
+| 2000-10-18 | 第2回農心辛ラーメン杯世界囲碁最強戦第2戦 | O Meien | Choi Cheolhan | Lose | W+7.5 | 6.5 | missing | 0 | 
+| 2000-08-26 | 第4回応氏杯世界選手権準決勝三番勝負第3局 | Chang Hao | O Meien | Lose | B+R | 7.5 | missing | 0 | 
+| 2000-08-24 | 第4回応氏杯世界選手権準決勝三番勝負第2局 | O Meien | Chang Hao | Win | B+3 | 7.5 | missing | 0 | 
+| 2000-08-22 | 第4回応氏杯世界選手権準決勝三番勝負第1局 | Chang Hao | O Meien | Lose | B+R | 7.5 | missing | 0 | 
+| 2000-05-04 | 第4回応氏杯世界選手権3回戦 | O Meien | Ma Xiaochun | Win | B+3 | 7.5 | missing | 0 | 
+| 2000-05-02 | 第4回応氏杯世界選手権2回戦 | Cho Hunhyun | O Meien | Win | W+3 | 7.5 | missing | 0 | 
+| 2000-04-30 | 第4回応氏杯世界選手権1回戦 | O Meien | Yang Jaeho | Win | B+R | 7.5 | missing | 0 | 
+| 1996-04-24 | 第3回応氏杯世界選手権1回戦 | Cao Dayuan | O Meien | Lose | B+3 | 7.5 | missing | 0 | 
+| 1992-07-15 | 第2回応氏杯世界選手権2回戦 | O Meien | Takemiya Masaki | Lose | W+R | 7.5 | missing | 0 | 
+| 1992-07-13 | 第2回応氏杯世界選手権1回戦 | O Meien | Ishii Kunio | Win | B+R | 7.5 | missing | 0 | 
+| 1988-08-21 | 第1回応氏杯世界選手権1回戦 | Cho Hunhyun | O Meien | Lose | B+R | 7.5 | missing | missing |
 
 
 

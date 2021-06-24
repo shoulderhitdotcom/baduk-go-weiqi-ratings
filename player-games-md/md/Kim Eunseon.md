@@ -7,10 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第7回韓国女子囲碁リーグ | Kim Eunseon | Kim Hyeoimin | Lose | W+R | 6.5 | 2729 | 15 | 
+| 2021-06-24 | 第7回韓国女子囲碁リーグ |  | Kim Eunseon | Win | W+R | 6.5 | 2806 | 92 | 
 | 2021-06-12 | 第7回韓国女子囲碁リーグ | Kim Eunseon | Kim Hyeoimin | Lose | W+R | 6.5 | 2714 | -68 | 
-| 2021-06-05 | 第7回韓国女子囲碁リーグ |  | Kim Eunseon | Lose | B+R | 6.5 | 2782 | -177 | 
-| 2021-06-05 | 第7回韓国女子囲碁リーグ |  | Kim Eunseon | Lose | B+R | 6.5 | 2959 | 175 | 
+| 2021-06-05 | 第7回韓国女子囲碁リーグ |  | Kim Eunseon | Lose | B+R | 6.5 | 2782 | -2 | 
 | 2021-05-30 | 第7回韓国女子囲碁リーグ | Kim Eunseon |  | Win | B+0.5 | 6.5 | 2784 | -9 | 
 | 2021-05-21 | 第7回韓国女子囲碁リーグ | Kim Eunseon |  | Win | B+R | 6.5 | 2793 | -145 | 
 | 2021-02-10 | 第4期韓国竜星戦1回戦 | Kim Eunseon | Choi Cheolhan | Lose | W+R | 6.5 | 2938 | 121 | 

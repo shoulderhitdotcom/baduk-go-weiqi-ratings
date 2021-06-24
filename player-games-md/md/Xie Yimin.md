@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-24 | 第46期棋聖戦Cリーグ | Xie Yimin | O Meien | Lose | W+R | 6.5 | 2717 | 65 | 
 | 2021-06-10 | 第46期棋聖戦Cリーグ | Xie Yimin | Kobayashi Satoru | Win | B+2.5 | 6.5 | 2652 | 51 | 
 | 2021-05-27 | 第40期女流本因坊戦2回戦 | Xie Yimin | Tsukuda Akiko | Win | B+R | 6.5 | 2601 | -124 | 
 | 2021-03-22 | 第3回SENKO CUPワールド碁女流最強戦1回戦  | Xie Yimin | Choi Jeong | Lose | W+2.5 | 6.5 | 2725 | 55 | 

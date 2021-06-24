@@ -7,11 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-18 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Cho Hyeyeon | Win | W+0.5 | 6.5 | 3003 | 1 | 
-| 2021-06-12 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Cho Hyeyeon | Lose | B+R | 6.5 | 3002 | 22 | 
+| 2021-06-24 | 第7回韓国女子囲碁リーグ | Cho Hyeyeon |  | Win | B+R | 6.5 | 2985 | -18 | 
+| 2021-06-18 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Cho Hyeyeon | Win | W+0.5 | 6.5 | 3003 | 23 | 
 | 2021-06-12 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Cho Hyeyeon | Lose | B+R | 6.5 | 2980 | 1 | 
-| 2021-06-05 | 第7回韓国女子囲碁リーグ | Cho Hyeyeon | Lee Minjin | Win | B+R | 6.5 | 2979 | -220 | 
-| 2021-06-05 | 第7回韓国女子囲碁リーグ | Cho Hyeyeon | Lee Minjin | Win | B+R | 6.5 | 3199 | 251 | 
+| 2021-06-05 | 第7回韓国女子囲碁リーグ | Cho Hyeyeon | Lee Minjin | Win | B+R | 6.5 | 2979 | 31 | 
 | 2021-05-21 | 第7回韓国女子囲碁リーグ | Park Taehee | Cho Hyeyeon | Win | W+R | 6.5 | 2948 | -133 | 
 | 2021-03-25 | 第8回大舟杯プロシニア最強者戦2回戦 | Kim Hyeoimin | Cho Hyeyeon | Lose | B+9.5 | 6.5 | 3081 | 8 | 
 | 2021-03-11 | 第8回大舟杯プロシニア最強者戦1回戦 | Cho Hyeyeon | Park Shiun | Win | B+0.5 | 6.5 | 3073 | -126 | 

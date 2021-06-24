@@ -5,336 +5,338 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第46期棋聖戦予選  | Ishida Yoshio | Takemiya Masaki | B+2.5 | 2021-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vE0GSHgXatKHrADRj2zlCg%3D%3D) | 
-| 第60期十段戦予選 | Takemiya Masaki | Hoshiai Shiho | W+2.5 | 2021-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tmT1QKiNcHRmelpLSXocow%3D%3D) | 
-| 第46期棋聖戦予選 | Takemiya Masaki | Yamamoto Masato | B+R | 2021-03-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eLpITJljhEYuxuiEXxt4ng%3D%3D) | 
-| 第47期碁聖戦予選 | Takemiya Masaki | Rin Shien | W+R | 2021-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=feKtyYayWfR9EhKTKXWOng%3D%3D) | 
-| 第46期棋聖戦予選 | Takemiya Masaki | Ryu Shikun | B+0.5 | 2021-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=em4I%2Ftw80YESz12yzuVpEg%3D%3D) | 
-| 第46期棋聖戦予選 | Takemiya Masaki | missing | B+R | 2021-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6Ad2V7f10d5MHCgTCaktIg%3D%3D) | 
-| 第46期棋聖戦予選 | Hara Sachiko | Takemiya Masaki | W+R | 2021-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T3EXdgolgsEbyKTZzSqu7g%3D%3D) | 
-| 2020中日韓聶衛平杯囲碁マスターズ2回戦  | Cho Hunhyun | Takemiya Masaki | B+R | 2020-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gNUUyIpgEFAsOKuENJn4lA%3D%3D) | 
-| 2020中日韓聶衛平杯囲碁マスターズ1回戦  | Nie Weiping | Takemiya Masaki | B+¾ | 2020-12-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0WKAj40TeiOePgptJDdb5w%3D%3D) | 
-| 第77期本因坊戦予選 | Kanda Ei | Takemiya Masaki | B+0.5 | 2020-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RXMK7wD6t%2BWsrB5KPCxeNQ%3D%3D) | 
-| 第47期天元戦予選 | Takemiya Masaki | Shuto Shun | W+R | 2020-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2XD2JEdMBVx%2FUdSk%2B8aGgw%3D%3D) | 
-| 第77期本因坊戦予選 | Takemiya Masaki | Kurotaki Masaki | B+1.5 | 2020-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zBMZJvovrOxMmDTrdiYuZQ%3D%3D) | 
-| 第46期名人戦予選 | Takemiya Masaki | Ohashi Hirofumi | W+1.5 | 2020-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y4dta46cqhYb6bMFQJDCpQ%3D%3D) | 
-| 第46期名人戦予選 | Takemiya Masaki | Chang Rueijie | B+R | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2diaoppzymQ68iyned7mFg%3D%3D) | 
-| 第59期十段戦予選 | Takemiya Masaki | So Yokoku | W+R | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i5vJaSPMg0uXgxhyWRcVQg%3D%3D) | 
-| 第69期王座戦予選 | Ohashi Hirofumi | Takemiya Masaki | B+3.5 | 2020-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rs71Y7%2Fr86bzlHdhFWZWjQ%3D%3D) | 
-| 第46期碁聖戦予選 | Takemiya Masaki | Oki Keiji | W+R | 2020-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wcntp2GLTKSMFJvmw%2BLi3w%3D%3D) | 
-| 第59期十段戦予選 | Takemiya Masaki | Kanda Ei | B+R | 2019-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rxrvDF4GpG1ScPFCp60Cug%3D%3D) | 
-| 第76期本因坊戦予選 | Takemiya Masaki | Inaba Takahiro | W+0.5 | 2019-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=80LFmakCL%2Fz34dAUyWzTow%3D%3D) | 
-| 第45期棋聖戦ファーストトーナメント予選 | Takemiya Masaki | Fujisawa Kazunari | W+3.5 | 2019-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S%2FTvVQaipazXbQb%2FUkIE3g%3D%3D) | 
-| 第76期本因坊戦予選 | Kobayashi Izumi | Takemiya Masaki | W+R | 2019-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aQCk37aqFRoJdX9BT79y7A%3D%3D) | 
-| 第46期天元戦予選 | Ichiriki Ryo | Takemiya Masaki | B+9.5 | 2019-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=25YYv2HXedxYIPwy7EgMEw%3D%3D) | 
-| 第46期天元戦予選 | Takemiya Masaki | Motoki Katsuya | B+0.5 | 2019-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OZATl%2FG6f3Aanf93aEeBNQ%3D%3D) | 
-| 第46期天元戦予選 | Takemiya Masaki | Kazama Jun | B+R | 2019-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZLneb7N40roTdJ57QcvU2w%3D%3D) | 
-| 第45期名人戦予選 | Onishi Ryuhei | Takemiya Masaki | B+2.5 | 2019-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sHYEeInnOGKBW%2Bims48ZGQ%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | Liu Xiaoguang | Takemiya Masaki | B+R | 2019-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zrwbQdyBAUSWGhRTo8aRUQ%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | Takemiya Masaki | Yang Jaeho | W+1.5 | 2019-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8qFXPDK1ZCOvuPXtDoQVrQ%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | Yoda Norimoto | Takemiya Masaki | B+T | 2019-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rq1DbaSDrCIHtsB9%2Ftx3Hg%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | Takemiya Masaki | Rin Kaiho | B+T | 2019-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xV28%2BRpdMWWZbRCkyuCSNA%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Takemiya Masaki | Cho Chikun | B+R | 2019-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mZSLkzvtMC4t55HhMxJBmQ%3D%3D) | 
-| 第68期王座戦予選 | Ko Reibun | Takemiya Masaki | W+R | 2019-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=35sH6d9wvqg7BwywLYH0AQ%3D%3D) | 
-| 第58期十段戦予選 | Morita Michihiro | Takemiya Masaki | B+1.5 | 2019-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2lJrxfzHVnu461j%2FelwGRg%3D%3D) | 
-| 第9回フマキラー囲碁マスターズカップ1回戦 | Ishida Yoshio | Takemiya Masaki | B+4.5 | 2019-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qwh5oukbEhHXc2iHr7Bhnw%3D%3D) | 
-| 第3回中日韓囲碁元老戦準決勝 | Takemiya Masaki | Yoo Changhyuk | W+T | 2019-04-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SuVGcs83Zuzy5%2F9u2XQIPA%3D%3D) | 
-| 第3回中日韓囲碁元老戦1回戦 | Ma Xiaochun | Takemiya Masaki | W+¼ | 2019-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jlq%2BdjuEt4pz4OqT6CWLzA%3D%3D) | 
-| 路鑫杯2019介休張壁古堡国際囲棋大師戦決勝 | Rui Naiwei | Takemiya Masaki | B+3¾ | 2019-04-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qJ3ABxFC4hjhop6sQ%2BYx4A%3D%3D) | 
-| 路鑫杯2019介休張壁古堡国際囲棋大師戦4強戦 | Takemiya Masaki | Rin Kaiho | B+¾ | 2019-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r%2BGWMP%2BlVj2w4%2BTaz0l4gQ%3D%3D) | 
-| 2019年中日韓囲棋大師招待戦8強戦 | Takemiya Masaki | Nie Weiping | W+5¼ | 2019-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ABCHSk7%2F%2Fl%2Bkc2GoNSgd0g%3D%3D) | 
-| 第45期碁聖戦予選 | Izumitani Hideo | Takemiya Masaki | B+1.5 | 2019-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iU%2BLSAx1Zj4zB5xeEsLITA%3D%3D) | 
-| 第58期十段戦予選 | Takemiya Masaki | Oomote Takuto | B+3.5 | 2019-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YD4rpoGp41QihFM%2BMnBYAQ%3D%3D) | 
-| 第44期棋聖戦ファーストトーナメント予選 | Fujisawa Rina | Takemiya Masaki | B+5.5 | 2019-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MpbM5FcioFEBG8XVrO7Hsw%3D%3D) | 
-| 第44期棋聖戦ファーストトーナメント予選 | Izumitani Hideo | Takemiya Masaki | W+0.5 | 2018-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1gVDkCZslbBEJWI4cC3FnA%3D%3D) | 
-| 第75期本因坊戦予選 | Yo Kagen | Takemiya Masaki | B+1.5 | 2018-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u7xxRqA3abFtqoO7eg4wHA%3D%3D) | 
-| 第44期棋聖戦ファーストトーナメント予選 | Yamamoto Masato | Takemiya Masaki | W+R | 2018-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pNCxw62CAix66YGmp0i1SQ%3D%3D) | 
-| 第75期本因坊戦予選 | missing | Takemiya Masaki | W+R | 2018-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DCr3aIjUEyIT8Rc6sZJqoQ%3D%3D) | 
-| 第58期十段戦予選 | Takeuchi Kousuke | Takemiya Masaki | B+7.5 | 2018-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JN22dm0PFNFDB5euQc95jg%3D%3D) | 
-| 第67期王座戦予選 | Koike Yoshihiro | Takemiya Masaki | B+R | 2018-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NCMt9Z3f27V%2Bd5BgxErEpA%3D%3D) | 
-| 第44期名人戦予選 | Takemiya Masaki | Takano Hideki | W+3.5 | 2018-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wgIcRQvShiQCLmvzxlQjfw%3D%3D) | 
-| 阪急納涼囲碁まつり盤上のスターウォーズ | Takemiya Masaki | O Meien | B+R | 2018-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SNK7NTrh%2FxW4GEzdDQ0TiQ%3D%3D) | 
-| 第44期名人戦予選 | Seki Tatsuya | Takemiya Masaki | W+R | 2018-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3V1W%2BGl5hvbgQxDheryyJQ%3D%3D) | 
-| 第4回百霊杯世界オープン戦シニア戦1回戦 | Takemiya Masaki | Nie Weiping | W+2¼ | 2018-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9RGjuXnQabKDiq%2BfM2JNag%3D%3D) | 
-| 2018年紹興国際囲棋大師戦8強戦 | Takemiya Masaki | Nie Weiping | W+T | 2018-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ahB5L70fFlWKrKwZaQW53w%3D%3D) | 
-| 第8回フマキラー囲碁マスターズカップ1回戦 | O Rissei | Takemiya Masaki | B+4.5 | 2018-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KygU6PAklI5inHyIml7dBA%3D%3D) | 
-| 第57期十段戦予選 | Koyama Kuya | Takemiya Masaki | B+1.5 | 2018-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T5WVUm2d%2FK40ROvTmuEbzw%3D%3D) | 
-| 第57期十段戦予選 | Takemiya Masaki | Sugimoto Akira | B+R | 2018-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dSMlhr1rO%2FUMgtXmYnrK%2BA%3D%3D) | 
-| 第74期本因坊戦予選 | Takemiya Masaki | Kaneko Maki | W+R | 2018-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OLFQJT3YC8byi7W3to3rPg%3D%3D) | 
-| 第44期碁聖戦予選 | Takemiya Masaki | Suzuki Shinji | W+1.5 | 2018-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GE0H6glb%2FZWHZOqTVA2m4Q%3D%3D) | 
-| 第74期本因坊戦予選 | Takemiya Masaki | Tamaki Shinobu | B+R | 2018-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6AwRcKILRbz8nWZQyVHBlA%3D%3D) | 
-| 第66期王座戦予選 | Mitani Tetsuya | Takemiya Masaki | B+R | 2017-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5GhXWLAsfrCzz9UNzxeryw%3D%3D) | 
-| 第43期棋聖戦ファーストトーナメント予選 | Takemiya Masaki | Yamada Shinji | W+R | 2017-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vd2DQtV8GLqGVRe3lEnmdA%3D%3D) | 
-| 第44期天元戦予選A | Takemiya Masaki | Okada Shinichiro | W+0.5 | 2017-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BFqu3Ba%2BPukTqV8C%2FC%2F4%2Fw%3D%3D) | 
-| 第44期天元戦　予選A | Takemiya Masaki | Onishi Ryuhei | B+R | 2017-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HJ2VkgXm1ka6QXGapFV5gA%3D%3D) | 
-| 第43期名人戦　予選A決勝 | Terayama Rei | Takemiya Masaki | B+1.5 | 2017-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aAXBOMNo42ND7erwdwpyhg%3D%3D) | 
-| 第44期天元戦　予選B決勝 | Cho Riyu | Takemiya Masaki | W+R | 2017-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KMOXa1iidj9m9OS9Uxa%2B6g%3D%3D) | 
-| 第44期天元戦　予選B | Takemiya Masaki | Takagi Shoichi | B+10.5 | 2017-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zKeht%2Fhabq7JCKWkW88E1w%3D%3D) | 
-| 第43期名人戦　予選B決勝 | Fujimura Yosuke | Takemiya Masaki | W+R | 2017-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k6ky479zmmEtlKyOBYNr8Q%3D%3D) | 
-| 第7回囲碁マスターズカップ　本戦2回戦 | O Rissei | Takemiya Masaki | B+2.5 | 2017-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XnVlI2xIvFGeVChPut%2BzKA%3D%3D) | 
-| 第1回中日韓囲碁元老戦2回戦 | Cao Dayuan | Takemiya Masaki | B+1.5 | 2017-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sRkorM6WxzWvROXXDfwFFQ%3D%3D) | 
-| 第1回中日韓囲碁元老戦1回戦 | Takemiya Masaki | Liu Xiaoguang | B+R | 2017-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kuy6Bvnl%2BcaFhLxdOHTBww%3D%3D) | 
-| 第56期十段戦　予選A決勝 | Takemiya Masaki | Yamashiro Hiroshi | W+0.5 | 2017-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YjVJGijfAwVKQXDqIltq1A%3D%3D) | 
-| 第42期棋聖戦　ファーストトーナメント準決勝 | Takemiya Masaki | Adachi Toshimasa | W+0.5 | 2017-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oU6UunHzRwVm5VuEN%2BVWgg%3D%3D) | 
-| 第7回フマキラー囲碁マスターズカップ　本戦1回戦 | Takemiya Masaki | Kobayashi Koichi | B+1.5 | 2017-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iscH8wSU8UlhSjOu1Cq9GQ%3D%3D) | 
-| 第43期碁聖戦　予選B | Rin Kanketsu | Takemiya Masaki | B+8.5 | 2017-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CbkBViXU8sFpGokCLQUHCQ%3D%3D) | 
-| 第56期十段戦　予選A | Takemiya Masaki | Suzuki Yoshimichi | B+R | 2017-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PNepAdoEjp2mHnsCV%2BSp2A%3D%3D) | 
-| 第43期碁聖戦　予選C決勝 | Takemiya Masaki | Fukui Masaaki | B+R | 2017-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uAOUADjhik%2FsxGtrc4cQqg%3D%3D) | 
-| 第42期棋聖戦　ファーストトーナメント3回戦 | Tajiri Yuto | Takemiya Masaki | W+R | 2017-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TzmXPyhDNSst%2B6AgP3TVCg%3D%3D) | 
-| 第43期碁聖戦　予選C | Takemiya Masaki | Tamai Shin | B+R | 2017-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=re5xf592G4yVJcYmZBMSPA%3D%3D) | 
-| 第42期棋聖戦　ファーストトーナメント2回戦 | Muramatsu Ryuichi | Takemiya Masaki | W+R | 2016-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=679piJnHRsRe0w736occww%3D%3D) | 
-| 第73期本因坊戦予選 | Numadate Sakiya | Takemiya Masaki | B+5.5 | 2016-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BlOd%2B11IBytzkPvQ2QfyAA%3D%3D) | 
-| 第65期王座戦予選 | Takemiya Masaki | Fujimura Yosuke | B+R | 2016-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jQvaqxEPdJAjJ8KXllcowQ%3D%3D) | 
-| 第43期天元戦予選 | Han Zenki | Takemiya Masaki | B+6.5 | 2016-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yOCPtMxAeUSh%2BlFDcGB8YA%3D%3D) | 
-| 第42期名人戦予選 | Rin Shien | Takemiya Masaki | B+1.5 | 2016-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q2gLXl49KHsjlB53svbtiA%3D%3D) | 
-| 第65期王座戦予選 | Kazama Jun | Takemiya Masaki | W+R | 2016-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bpk6heH2%2FWOTgxysdo%2Bd4Q%3D%3D) | 
-| 第42期名人戦予選 | Yashiro Kumiko | Takemiya Masaki | W+0.5 | 2016-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cLNcgX%2FwNBnYZ9K2EUaH7w%3D%3D) | 
-| 第43期天元戦予選 | Ishigure Ikuro | Takemiya Masaki | W+3.5 | 2016-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M7%2FN5fMUH2YvcQTbEzy%2FDg%3D%3D) | 
-| 第43期天元戦予選 | Sanno Hirotaka | Takemiya Masaki | W+R | 2016-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F6mFJ8vDNwOADXOGIk9Zfg%3D%3D) | 
-| 第6回フマキラー囲碁マスターズカップ2回戦 | Awaji Shuzo | Takemiya Masaki | B+8.5 | 2016-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RLys%2Fy2is5lSU3YQ9rfrQA%3D%3D) | 
-| 第43期天元戦予選 | Takemiya Masaki | Kato Keiko | B+R | 2016-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZUTyyMVOTyKpW0YsbORxYw%3D%3D) | 
-| 第55期十段戦予選 | Takemiya Masaki | Terayama Rei | W+R | 2016-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Uy%2FYJBOJEGdfDrnvi9ptKw%3D%3D) | 
-| 第42期碁聖戦予選 | Hirata Tomoya | Takemiya Masaki | B+R | 2016-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AlYKouXIU5NaqgzhEI6Lqg%3D%3D) | 
-| 第6回フマキラー囲碁マスターズカップ1回戦 | Ishii Kunio | Takemiya Masaki | W+R | 2016-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qs6ZJviQaiIlFnUnlg2BeQ%3D%3D) | 
-| 第72期本因坊戦予選 | Takemiya Masaki | Iguchi Hideichiro | W+3.5 | 2016-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8%2FMMxkN03rwhvZc1VInuuA%3D%3D) | 
-| 第42期碁聖戦予選 | Takemiya Masaki | Yashiro Kumiko | B+R | 2016-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j4M%2F5wMHwA9mnE7tEASoVg%3D%3D) | 
-| 第41期棋聖戦予選 | Adachi Toshimasa | Takemiya Masaki | B+10.5 | 2016-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FmCRrcdARVuQXzPmjr3o2A%3D%3D) | 
-| 第55期十段戦予選 | Takemiya Masaki | Kono Takashi | B+R | 2016-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fwtvT1t8cRaX5tBXHpuRLw%3D%3D) | 
-| 第41期棋聖戦予選 | Takemiya Masaki | Yasuda Yasutoshi | B+R | 2015-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7LxdDvRdJu89pOkLsgStOQ%3D%3D) | 
-| 第42期碁聖戦予選 | Takemiya Masaki | Kubo Hideo | B+8.5 | 2015-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m3A4c%2BWiGiMmbmh1Jdd1vQ%3D%3D) | 
-| 第41期棋聖戦予選 | Takemiya Masaki | Komatsu Hideko | B+R | 2015-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CJ6N03jmGNlcAXYUJ8eV5A%3D%3D) | 
-| 第64期王座戦予選 | Sun Zhe | Takemiya Masaki | B+6.5 | 2015-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NqSMThchkrQ1k80X5KRb%2Fw%3D%3D) | 
-| 第64期王座戦予選 | Takemiya Masaki | Ko Iun | B+R | 2015-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PpyvFCfoZVcVNjyJgSZj8g%3D%3D) | 
-| 第64期王座戦予選 | Takemiya Masaki | Takano Hideki | B+0.5 | 2015-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ddB9MxEISxbLW0VOARpktQ%3D%3D) | 
-| 第42期天元戦予選 | Takemiya Masaki | Tsuneishi Takashi | W+2.5 | 2015-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HrKCkpkoEhppKo%2B3bzXCxQ%3D%3D) | 
-| 第64期王座戦予選 | Takemiya Masaki | Kanazawa Makoto | B+R | 2015-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=klFqZXCd30Xquq4ftZh7yw%3D%3D) | 
-| 第41期名人戦予選 | Motoki Katsuya | Takemiya Masaki | B+3.5 | 2015-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2Hat%2FNUdLuP7nq%2FSAdElGg%3D%3D) | 
-| 第54期十段戦予選 | Takemiya Masaki | Shuto Shun | W+9.5 | 2015-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8cVj8ECYprBaObInvcpnyw%3D%3D) | 
-| 第71期本因坊戦予選 | Takemiya Masaki | Takao Shinji | W+4.5 | 2015-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i3irwDkLJk05EUCPbQlHVA%3D%3D) | 
-| 第5回フマキラー囲碁マスターズカップ決勝 | Takemiya Masaki | Cho Chikun | W+5.5 | 2015-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ueGA9HkTm9t3TWp%2BUPZkhA%3D%3D) | 
-| 第64期王座戦予選 | Takemiya Masaki | Nakajima Mieko | B+R | 2015-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l1hPG4TcQoE6C1yE%2BhxYNA%3D%3D) | 
-| 第5回フマキラー囲碁マスターズカップ準決勝 | Yamashiro Hiroshi | Takemiya Masaki | W+2.5 | 2015-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OmjVOFIsQacb9NjY%2BYVmfg%3D%3D) | 
-| 第71期本因坊戦予選 | Obuchi Kotaro | Takemiya Masaki | W+R | 2015-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v%2BCMvSptwdIsUhuLRrhcHg%3D%3D) | 
-| 第71期本因坊戦予選 | Takemiya Masaki | Kubo Hideo | B+R | 2015-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dtxucnlz1iB5wwX9JhfVUg%3D%3D) | 
-| 第5回フマキラー囲碁マスターズカップ2回戦 | Takemiya Masaki | Ishida Yoshio | B+2.5 | 2015-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=13SQQ9fxB3zddqwvkFPgXw%3D%3D) | 
-| 第54期十段戦予選 | Takemiya Masaki | Chino Tadahiko | B+R | 2015-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5a%2FxGCyLonUXA8osc1Et1Q%3D%3D) | 
-| 第71期本因坊戦予選 | Kanda Ei | Takemiya Masaki | W+R | 2015-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HytPuuwldiCjr7KzGYackA%3D%3D) | 
-| 第5回フマキラー囲碁マスターズカップ1回戦 | Rin Kaiho | Takemiya Masaki | W+9.5 | 2015-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JgY5pVsfqqyDYp8s2%2FXQUQ%3D%3D) | 
-| 第40期棋聖戦予選 | Takemiya Masaki | Kono Takashi | W+4.5 | 2015-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DjUgsc0Lm1e319SSA%2Fh3Rw%3D%3D) | 
-| 第40期棋聖戦予選 | Takemiya Masaki | Tajiri Yuto | B+R | 2014-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4PGWiacUv2co8iLwYY09cQ%3D%3D) | 
-| 第63期王座戦予選 | Yo Kagen | Takemiya Masaki | B+2.5 | 2014-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BsYUXlaumRDVhu9zz6plVQ%3D%3D) | 
-| 第40期名人戦予選 | Takemiya Masaki | Ko Iso | W+6.5 | 2014-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I8Pq1zW739bjm0kn%2FSRmBA%3D%3D) | 
-| 第40期碁聖戦予選 | So Yokoku | Takemiya Masaki | B+3.5 | 2014-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gB8ueLeU6i60uWhDTvTByw%3D%3D) | 
-| 第40期名人戦予選 | Honda Kunihisa | Takemiya Masaki | W+1.5 | 2014-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kUVo4k1GGhNeB1IErOd4ZQ%3D%3D) | 
-| 第41期天元戦予選 | Takemiya Masaki | Shuto Shun | W+R | 2014-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=92g%2Bav7Rz9uioSwyKt%2Fizg%3D%3D) | 
-| 第40期名人戦予選 | Mimura Tomoyasu | Takemiya Masaki | W+0.5 | 2014-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nmVac26eSgQbkWG6HtjKGA%3D%3D) | 
-| 第40期名人戦予選 | Mannami Nao | Takemiya Masaki | W+5.5 | 2014-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hRyaah9otHTUkRDI%2FnB3HQ%3D%3D) | 
-| 第40期碁聖戦予選 | So Kofuku | Takemiya Masaki | W+R | 2014-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xsgGz0AA5we8q%2B4g%2FRg%2B%2FQ%3D%3D) | 
-| 第53期十段戦予選 | Mimura Tomoyasu | Takemiya Masaki | B+2.5 | 2014-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9hRPjUWhro6j7vEK4onAjw%3D%3D) | 
-| 第53期十段戦予選 | Takemiya Masaki | Anzai Nobuaki | B+R | 2014-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=svc9dNiKt8t1IiApOZyXbA%3D%3D) | 
-| 第40期天元戦本戦2回戦 | Sakai Hideyuki | Takemiya Masaki | B+1.5 | 2014-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OXOvRYhwq9Px%2Baz1QngU1g%3D%3D) | 
-| 第4回フマキラー囲碁マスターズカップ1回戦 | Takemiya Masaki | Kobayashi Satoru | W+4.5 | 2014-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VAcohDLr85cb3bcXvren0A%3D%3D) | 
-| 第70期本因坊戦予選 | Hirata Tomoya | Takemiya Masaki | B+6.5 | 2014-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=thy%2FsNVXFKJ%2Bj5Ag3MFBZg%3D%3D) | 
-| 第53期十段戦予選 | Mukai Chiaki | Takemiya Masaki | W+R | 2014-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qo3NWKPOt03t0XRn9t0r5A%3D%3D) | 
-| 第40期天元戦本戦1回戦 | Ko Iso | Takemiya Masaki | W+R | 2014-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HvjSZpmLjnfnyNpOlmGvCQ%3D%3D) | 
-| 第40期天元戦予選 | Takemiya Masaki | Cho Sonjin | B+R | 2014-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0iNuxIJcUazgHGbuW%2B4Fvg%3D%3D) | 
-| 第62期王座戦予選 | Ichiriki Ryo | Takemiya Masaki | B+4.5 | 2013-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iTV%2BArsTWensPWs%2FYGtdGg%3D%3D) | 
-| 第40期天元戦予選 | Aoki Kikuyo | Takemiya Masaki | W+R | 2013-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CS%2F4BFuRbZyOomDROWt6KQ%3D%3D) | 
-| 第39期碁聖戦予選 | Takemiya Masaki | O Meien | W+R | 2013-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XL%2B9BbaP2O01gQFSlTxxuw%3D%3D) | 
-| 第39期名人戦予選 | Takemiya Masaki | Yamada Kimio | W+2.5 | 2013-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b9eJm8htwlIkFA6UFomYvg%3D%3D) | 
-| 第39期棋聖戦予選 | Hoshino Masaki | Takemiya Masaki | B+11.5 | 2013-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5fAFiR5hVNeJxSkoW6bRPw%3D%3D) | 
-| 第39期名人戦予選 | Yoda Norimoto | Takemiya Masaki | W+4.5 | 2013-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HUhLEyTzzpTgKgQGo8V%2Bdw%3D%3D) | 
-| 第39期名人戦予選 | Takemiya Masaki | Tsuruyama Atsushi | B+2.5 | 2013-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HSmC%2BSYOyMdXaMe9WwirhQ%3D%3D) | 
-| 第69期本因坊戦予選 | Takemiya Masaki | Yamada Takuji | W+8.5 | 2013-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rZAvCNJpDl%2FB1BxSlCuGGA%3D%3D) | 
-| 第38期碁聖戦本戦3回戦 | Takemiya Masaki | Kono Rin | W+R | 2013-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hu2VhD3BJKIkB66CTkjkbQ%3D%3D) | 
-| 第52期十段戦予選 | Takemiya Masaki | Yoda Norimoto | W+6.5 | 2013-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KnKR4FFbtHwqim9zX8LG6Q%3D%3D) | 
-| 第69期本因坊戦予選 | Ogaki Yusaku | Takemiya Masaki | W+5.5 | 2013-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zkkPo3BOsjjoBQaaDHLkfw%3D%3D) | 
-| 第38期碁聖戦本戦2回戦 | Kato Atsushi | Takemiya Masaki | W+3.5 | 2013-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ov0TG%2Bb9cralIO8BUEzl5A%3D%3D) | 
-| 第52期十段戦予選 | Takemiya Masaki | Sakai Maki | B+R | 2013-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y3WI4lNCDAkfVpx%2FecQSwA%3D%3D) | 
-| 第3回エステー＆フマキラー囲碁マスターズカップ1回戦 | Ishii Kunio | Takemiya Masaki | B+R | 2013-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3oXpLTDf0H2m8hYTWTERfQ%3D%3D) | 
-| 第61期王座戦予選 | Takemiya Masaki | Kono Rin | W+R | 2013-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Oq480JRzM6XO7fSxovXRig%3D%3D) | 
-| 第39期天元戦本戦1回戦 | Takemiya Masaki | O Rissei | W+13.5 | 2013-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kvKWAI6zcPDU7NjrRIQIrw%3D%3D) | 
-| 第38期碁聖戦本戦1回戦 | Yuki Satoshi | Takemiya Masaki | W+R | 2013-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=77L6%2BHdZvsmxTLLOMOPX2A%3D%3D) | 
-| 第52期十段戦予選 | Shimosaka Miori | Takemiya Masaki | W+R | 2013-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fCBuJpFvSq%2FM%2BLyzJR%2B7%2BA%3D%3D) | 
-| 第61期王座戦予選 | Ohba Junya | Takemiya Masaki | W+0.5 | 2013-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v9S%2FCXOuxHIOo5Rq3B0%2BJg%3D%3D) | 
-| 第52期十段戦予選 | Oto Shozo | Takemiya Masaki | W+18.5 | 2013-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zA8xb%2Fa41XmvaDIJkiSUzQ%3D%3D) | 
-| 第61期王座戦予選 | Takemiya Masaki | Ohashi Hirofumi | B+8.5 | 2012-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bf5pF%2BtISGcX2aNl%2FaqQQQ%3D%3D) | 
-| 第39期天元戦予選 | Mizuma Toshifumi | Takemiya Masaki | W+R | 2012-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nu0YA1f9GzQtQtL5ozDS0w%3D%3D) | 
-| 第52期十段戦予選 | Suzuki Isao | Takemiya Masaki | W+R | 2012-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WcwVczzigSBZY2sR6TwpSg%3D%3D) | 
-| 第39期天元戦予選 | Morita Michihiro | Takemiya Masaki | W+R | 2012-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FxQMQohMGLF01Rtk6tGlVQ%3D%3D) | 
-| 第38期棋聖戦予選 | Nakamura Shinya | Takemiya Masaki | B+R | 2012-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yrm28FA344SFAKiK0MzQsA%3D%3D) | 
-| 第38期碁聖戦予選 | Takemiya Masaki | Ohba Junya | B+0.5 | 2012-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3hTUun%2BYU595jHhi55F9Og%3D%3D) | 
-| 第39期天元戦予選 | So Kofuku | Takemiya Masaki | W+R | 2012-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bZicWFFyNspbOr1k02LTrQ%3D%3D) | 
-| 第38期名人戦予選 | Kiyonari Tetsuya | Takemiya Masaki | B+R | 2012-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IX2hTrhVJVQDzZGllppdqg%3D%3D) | 
-| 第38期碁聖戦予選 | Suzuki Ayumi | Takemiya Masaki | W+R | 2012-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ssBCf88uG7n%2B3W1fvX%2FjEw%3D%3D) | 
-| 第38期棋聖戦予選 | Takemiya Masaki | Takabayashi Takuji | B+10.5 | 2012-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ztzSgE82kBvZL1hBMcch2w%3D%3D) | 
-| 第38期名人戦予選 | Takemiya Masaki | Ohba Junya | B+R | 2012-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1MWwg0NW6MoV5lS4okYw3A%3D%3D) | 
-| 第38期碁聖戦予選 | Komatsu Fujio | Takemiya Masaki | W+R | 2012-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XpKIQtMle3lropmHnxAipA%3D%3D) | 
-| 第38期名人戦予選 | Kamimura Haruo | Takemiya Masaki | W+R | 2012-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PxlMs6Pg%2F9C8uGg48L0uyA%3D%3D) | 
-| 第68期本因坊戦予選 | Takemiya Masaki | Shuto Shun | W+R | 2012-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=We%2BvJab%2B7T7h%2Ba6oozAJoQ%3D%3D) | 
-| 第2回エステー＆フマキラー囲碁マスターズカップ1回戦 | Takemiya Masaki | Kataoka Satoshi | W+8.5 | 2012-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YPvJX0lBWIUluk7Ofbcr7g%3D%3D) | 
-| 第68期本因坊戦予選 | Yo Kaei | Takemiya Masaki | W+R | 2012-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vl8sI%2Fyu1l3v9VWlo%2FK1nw%3D%3D) | 
-| 第51期十段戦予選 | Takemiya Masaki | So Kofuku | W+8.5 | 2012-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zOkxLi7NcLaL4bldQGApHQ%3D%3D) | 
-| 第60期王座戦予選 | Kobayashi Satoru | Takemiya Masaki | B+1.5 | 2011-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LS6uZMkwdq4alpQt4VacVg%3D%3D) | 
-| 第60期王座戦予選 | Takemiya Masaki | Ishida Yoshio | B+7.5 | 2011-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y0Os5CIF9j41MgnSGV3NLA%3D%3D) | 
-| 第38期天元戦予選 | Takemiya Masaki | Cho Sonjin | W+0.5 | 2011-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3NHsD6QhO8Z57zvJLq5YHw%3D%3D) | 
-| 第37期棋聖戦予選 | Sun Zhe | Takemiya Masaki | B+R | 2011-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T2JCH5CUDvU5RG898j661w%3D%3D) | 
-| 第60期王座戦予選 | Miyazawa Goro | Takemiya Masaki | W+3.5 | 2011-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pd%2Fcir7UHnGsN5sSuaiHhA%3D%3D) | 
-| 第37期碁聖戦予選 | Ko Iso | Takemiya Masaki | B+3.5 | 2011-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bwPjRidlz0aG4Y%2FCBP9ATw%3D%3D) | 
-| 第37期名人戦予選 | Takemiya Masaki | Kono Rin | W+R | 2011-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lCa0XGEGmg8vJSQ10I1E4A%3D%3D) | 
-| 第38期天元戦予選 | Arimura Hiroshi | Takemiya Masaki | W+R | 2011-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D9tL2uhx2KX7PEbUJdDJQQ%3D%3D) | 
-| 第37期名人戦予選 | Takemiya Masaki | Kanazawa Hideo | B+R | 2011-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IGbtV%2BzLZOXXajSR93esmg%3D%3D) | 
-| 第37期名人戦予選 | Takemiya Masaki | Kenmochi Joe | B+R | 2011-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lm2qP%2Bk56d09ip6To72yMQ%3D%3D) | 
-| 第67期本因坊戦予選 | Takemiya Masaki | Morita Michihiro | W+R | 2011-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XWUcUvLdGeXuO4Gn2sYQWA%3D%3D) | 
-| 第1回エステー＆フマキラー囲碁マスターズカップ2回戦 | Cho Chikun | Takemiya Masaki | B+6.5 | 2011-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QGNW%2F1AwtbHf6zR0U263ow%3D%3D) | 
-| 第59期王座戦予選 | Yamashiro Hiroshi | Takemiya Masaki | B+0.5 | 2011-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qfNNHEX%2BK%2BsGFE3azsFKzg%3D%3D) | 
-| 第67期本因坊戦予選 | Nakamura Shinya | Takemiya Masaki | W+0.5 | 2011-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ko6OHU8LggqMPVHvRxUCgg%3D%3D) | 
-| 第50期十段戦予選 | Takemiya Masaki | Kenmochi Joe | W+2.5 | 2011-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mdLlNN2xkt10vWoTVJN%2BQg%3D%3D) | 
-| 第59期王座戦予選 | Omori Yasushi | Takemiya Masaki | W+0.5 | 2010-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qaMGT9FAL5COmEUYfUBe%2BA%3D%3D) | 
-| 第50期十段戦予選 | Takemiya Masaki | Kanazawa Hideo | B+R | 2010-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uHOgxViwwDRP49Z21VqCfA%3D%3D) | 
-| 第59期王座戦予選 | Takemiya Masaki | Rin Shien | B+R | 2010-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9VJt6qfv69vbjfVNGxGu%2FA%3D%3D) | 
-| 第37期天元戦予選 | Yamada Shinji | Takemiya Masaki | B+2.5 | 2010-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M1d2Ij%2FnIcJvn0RAflLZsA%3D%3D) | 
-| 第36期碁聖戦予選 | Takemiya Masaki | Han Zenki | W+0.5 | 2010-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nBDfOn6o42qp5p6YB9r8hg%3D%3D) | 
-| 第36期棋聖戦予選 | Umezawa Yukari | Takemiya Masaki | B+1.5 | 2010-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JoPl8EP06U1IpXwmYPO66g%3D%3D) | 
-| 第36期碁聖戦予選 | Ko Iun | Takemiya Masaki | W+R | 2010-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qFiug6v54DnbUar7GQyRvw%3D%3D) | 
-| 第6回大和証券杯ネット囲碁オープン1回戦 | Han Zenki | Takemiya Masaki | B+1.5 | 2010-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lb3rzuNSIsgZC9u%2BpuJOvQ%3D%3D) | 
-| 第36期棋聖戦予選 | Hata Hidefumi | Takemiya Masaki | W+R | 2010-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ryGFkNHtUgfMbDwVjrIJJg%3D%3D) | 
-| 第36期棋聖戦予選 | Oto Shozo | Takemiya Masaki | W+18.5 | 2010-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3ikS3BCl713Wn3glbEc%2Bqg%3D%3D) | 
-| 第66期本因坊戦予選 | Cho Chikun | Takemiya Masaki | B+2.5 | 2010-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QLY03nB40DfVpJ1%2FwZIpGg%3D%3D) | 
-| 第36期名人戦予選 | Takemiya Masaki | Suzuki Shinji | W+3.5 | 2010-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1BgUYmoVW8CZewHLwHqSzQ%3D%3D) | 
-| 第65期本因坊戦リーグ | Takemiya Masaki | Iyama Yuta | W+R | 2010-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RrTR0YwIGa8wSoTlTVeJdQ%3D%3D) | 
-| 第65期本因坊戦リーグ | Takemiya Masaki | Yamashita Keigo | W+4.5 | 2010-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lzwTgvOrngRprugkhobhgw%3D%3D) | 
-| 第36期天元戦本戦2回戦 | Yoda Norimoto | Takemiya Masaki | B+0.5 | 2010-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XO%2BJLVFf0LQxIf37nNn0Aw%3D%3D) | 
-| 第35期碁聖戦本戦2回戦 | Iyama Yuta | Takemiya Masaki | B+12.5 | 2010-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CGTjKzIJr%2BoasrcqgT1dzg%3D%3D) | 
-| 第65期本因坊戦リーグ | Takemiya Masaki | Yuki Satoshi | W+10.5 | 2010-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PIv63e8rioUEeehLOJsmmA%3D%3D) | 
-| 第58期王座戦予選 | Kono Rin | Takemiya Masaki | B+8.5 | 2010-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D8SsMlnuNurBaQrNZcA2Vg%3D%3D) | 
-| 第65期本因坊戦リーグ | Takemiya Masaki | Takao Shinji | W+13.5 | 2010-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XiXjGouQjbfRnU2qV%2BtdoQ%3D%3D) | 
-| 第36期天元戦本戦1回戦 | Takemiya Masaki | Murakawa Daisuke | B+R | 2010-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qJr98pAcUMzAwsO%2FyGT0Fg%3D%3D) | 
-| 第65期本因坊戦リーグ | Cho U | Takemiya Masaki | B+3.5 | 2009-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bpCxo9GmjqrobTro1WVlwQ%3D%3D) | 
-| 第36期天元戦予選 | Kobayashi Satoru | Takemiya Masaki | W+R | 2009-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jnHVzMwbxmulDskW264A5g%3D%3D) | 
-| 第49期十段戦予選 | Takemiya Masaki | Yoda Norimoto | W+6.5 | 2009-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UMLA0aot6DPhl00tPP5VLA%3D%3D) | 
-| 第65期本因坊戦リーグ | Yamada Kimio | Takemiya Masaki | W+R | 2009-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rVezW3hjlq69k3uaSOyY5g%3D%3D) | 
-| 第35期碁聖戦本戦1回戦 | Kurahashi Masayuki | Takemiya Masaki | W+R | 2009-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tt6Sj%2FTm15u%2BzqzIQWNYEQ%3D%3D) | 
-| 第65期本因坊戦リーグ | Mimura Tomoyasu | Takemiya Masaki | B+4.5 | 2009-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9l7DervPJI%2BvAk1ObkGgVA%3D%3D) | 
-| 第36期天元戦予選 | Okada Shinichiro | Takemiya Masaki | W+R | 2009-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9UaYjIPSkFDyW98BydMqVg%3D%3D) | 
-| 第35期棋聖戦予選 | Suzuki Ayumi | Takemiya Masaki | B+4.5 | 2009-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dt%2BFhMQreCbSgnpO06OPzw%3D%3D) | 
-| 第65期本因坊戦予選 | Ishida Atsushi | Takemiya Masaki | W+3.5 | 2009-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=woFCCNXxZBnB7EOyMrxYxQ%3D%3D) | 
-| 第35期名人戦予選 | Takemiya Masaki | Mizokami Tomochika | W+7.5 | 2009-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FS%2B8iNmWIaOpX2SjrNwFbQ%3D%3D) | 
-| 第65期本因坊戦予選 | Kono Rin | Takemiya Masaki | W+R | 2009-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qtb9vgeb%2FYlN9lGeX%2BaPJg%3D%3D) | 
-| 第21回テレビアジア選手権1回戦 | Takemiya Masaki | Zhou Heyang | W+R | 2009-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IX8EAvLbPvwgaaIgxbN52Q%3D%3D) | 
-| 第65期本因坊戦予選 | Takemiya Masaki | Kobayashi Koichi | B+R | 2009-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T4SVK9ja9CnlX5jmKnrg7g%3D%3D) | 
-| 第34期碁聖戦本戦準決勝 | Yuki Satoshi | Takemiya Masaki | B+4.5 | 2009-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DEb3Hk6LmrXlmFvf68DDUQ%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン予選 | Takemiya Masaki | Nakane Naoyuki | W+T | 2009-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qcHvQCLQM%2FWHdCN4kJAwBA%3D%3D) | 
-| 第35期名人戦予選 | Takemiya Masaki | Koyama Ryugo | B+R | 2009-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fd3cv2PUJ4FRmFScNWSwRg%3D%3D) | 
-| 第57期王座戦1回戦 | Yamashita Keigo | Takemiya Masaki | B+8.5 | 2009-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WZ6Yy6oY1WQVw%2FuIai5GRQ%3D%3D) | 
-| 第34期碁聖戦本戦3回戦 | Takano Hideki | Takemiya Masaki | W+R | 2009-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mPqydcKxYI1uvsiWIFluRA%3D%3D) | 
-| 第65期本因坊戦予選 | Takemiya Masaki | Iguchi Hideichiro | B+R | 2009-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k8q8rAScyQL9fwfvYflRrQ%3D%3D) | 
-| 第57期王座戦予選 | Takemiya Masaki | Ko Iso | B+R | 2009-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ft3AzXacz%2BNH8Xfz5yfDUg%3D%3D) | 
-| 第57期王座戦予選 | Yuki Satoshi | Takemiya Masaki | W+1.5 | 2009-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IJ%2FXgGwVlH%2Bhbulym3ZxgQ%3D%3D) | 
-| 第65期本因坊戦予選 | Takemiya Masaki | O Rissei | B+R | 2009-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dc%2FMOLhBiyYomLKkA2VOJw%3D%3D) | 
-| 第34期碁聖戦本戦2回戦 | Yoda Norimoto | Takemiya Masaki | W+0.5 | 2009-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9pHMhCC7E8iDlj0JwPAhHA%3D%3D) | 
-| 第48期十段戦予選 | Takemiya Masaki | Oya Koichi | W+2.5 | 2009-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=17ZWQNspYjHVEfNNb2aQ8Q%3D%3D) | 
-| 第35期天元戦本戦1回戦 | Takemiya Masaki | Yukawa Mitsuhisa | W+5.5 | 2009-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p82zXv7rgUMWGtnH6iNDWA%3D%3D) | 
-| 第65期本因坊戦予選 | Horimoto Mitsunari | Takemiya Masaki | W+7.5 | 2008-12-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OmVZipgcqctcMftcysp8Fw%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯国内予選 | Yoda Norimoto | Takemiya Masaki | B+3.5 | 2008-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hHy9Md02SWMACH1bpcO5ww%3D%3D) | 
-| 第34期碁聖戦本戦1回戦 | Ishii Kunio | Takemiya Masaki | W+6.5 | 2008-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aSGQ7OksxfS7hFY71xuJ7g%3D%3D) | 
-| 第48期十段戦予選 | Takemiya Masaki | Awaji Shuzo | B+R | 2008-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0CCnoyShYeu%2FhBG3TqMtzA%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯国内予選 | Takemiya Masaki | So Yokoku | B+3.5 | 2008-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h51zlaplMIVBETQ8UxuHxg%3D%3D) | 
-| 第57期王座戦予選 | Takemiya Masaki | Sugiuchi Masao | B+R | 2008-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MeLRch3NgSMBzDp3EUxFdA%3D%3D) | 
-| 第35期天元戦予選 | Takemiya Masaki | Lee Ishu | B+1.5 | 2008-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VnAiKZvnUzxJl7aC%2BPz8uQ%3D%3D) | 
-| 第34期棋聖戦予選 | Rin Shien | Takemiya Masaki | B+4.5 | 2008-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=09PWooreyDRKcA08zlPDEQ%3D%3D) | 
-| 第57期王座戦予選 | Takemiya Masaki | Tei Meiko | B+2.5 | 2008-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wCXOjVQ99KZrWGnAJR%2F6Iw%3D%3D) | 
-| 第34期名人戦予選 | Takemiya Masaki | Yamada Noriyoshi | W+0.5 | 2008-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gp1BAkJ6GJoXFuuKnoVPUg%3D%3D) | 
-| 第34期碁聖戦予選 | Takemiya Masaki | Kudo Norio | B+R | 2008-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hY%2B%2FFJzf4r6Cc61Nm3DZVA%3D%3D) | 
-| 第34期名人戦予選 | Takemiya Masaki | Tsuruyama Atsushi | B+R | 2008-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5E3ulNn0532TR9XM6WVF3A%3D%3D) | 
-| 第35期天元戦予選 | Takemiya Masaki | So Kofuku | B+R | 2008-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0XaBh9WQGpk8mhxmkQaB%2Bg%3D%3D) | 
-| 第34期名人戦予選 | Kamimura Haruo | Takemiya Masaki | W+R | 2008-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HIT1R8%2F%2FdfcycmwMAMFkpQ%3D%3D) | 
-| 第34期碁聖戦予選 | Takemiya Masaki | Fukui Masaaki | B+R | 2008-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=juqIXGMGR6qAqyM3uTUWKg%3D%3D) | 
-| 第34期名人戦予選 | Takemiya Masaki | Arimura Hiroshi | B+R | 2008-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=orhYvBZNv8qG0qWLW1jbCw%3D%3D) | 
-| 第34期名人戦予選 | Takemiya Masaki | Komatsu Hideki | B+R | 2008-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pSrHhUXwkgHH78oozJXViQ%3D%3D) | 
-| 第4回大和証券杯ネット囲碁オープン予選 | Takemiya Masaki | Yoda Norimoto | W+R | 2008-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iSxO8M3Mo5VecvZ%2FbhFzqA%3D%3D) | 
-| 第56期王座戦予選 | Takemiya Masaki | Yoda Norimoto | W+R | 2008-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4yTuFFa0pE1WRM%2FXi%2FQDFA%3D%3D) | 
-| 第35期天元戦予選 | Takemiya Masaki | Su Kaiseki | B+7.5 | 2008-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GMBbY8O%2BN%2Bp00Vblw4KT8Q%3D%3D) | 
-| 第64期本因坊戦予選 | Takemiya Masaki | Yamada Takuji | W+2.5 | 2008-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BBmj2Bo4Rf5SdDvK6Bda7A%3D%3D) | 
-| 第56期王座戦予選 | Takemiya Masaki | Goto Shungo | B+R | 2008-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oxXJG%2FnNIqcmOTRwWfYqCw%3D%3D) | 
-| 第47期十段戦予選 | Takemiya Masaki | Nakaonoda Tomomi | W+2.5 | 2007-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sYEMd7tff8JsuWuW55%2Bltw%3D%3D) | 
-| 第33期碁聖戦本戦1回戦 | Goto Shungo | Takemiya Masaki | B+0.5 | 2007-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pys9wDqiaZK2JKxnYf660w%3D%3D) | 
-| 第33期棋聖戦予選 | Ko Iun | Takemiya Masaki | B+R | 2007-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z779%2FmELkx%2BejGOoAnbIZg%3D%3D) | 
-| 第33期棋聖戦予選 | Takemiya Masaki | Akiyama Jiro | B+R | 2007-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NsVr5zavpCfNTYbFTzzG5w%3D%3D) | 
-| 第47期十段戦予選 | Nakamura Hidehito | Takemiya Masaki | W+1.5 | 2007-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=onCzRmUjYkCcHIxftJkQ2Q%3D%3D) | 
-| 第33期碁聖戦予選 | Yasuda Yasutoshi | Takemiya Masaki | W+R | 2007-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1PQqcEYyk66VLgspQ7bNfg%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン予選 | Rin Kanketsu | Takemiya Masaki | B+0.5 | 2007-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qLhCsgfER4kRUBwAHkrEQQ%3D%3D) | 
-| 第34期天元戦予選 | Tsuruyama Atsushi | Takemiya Masaki | B+R | 2007-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wGx8RY3Tu%2Bl71Ry%2BoL%2BBVw%3D%3D) | 
-| 第33期碁聖戦予選 | Oki Keiji | Takemiya Masaki | W+R | 2007-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mv8wud0vxFxZIg3TnyCn1Q%3D%3D) | 
-| 第33期名人戦予選 | Takemiya Masaki | Kobayashi Koichi | W+3.5 | 2007-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wz%2FnlyKsOLRIo2xTw5KnVQ%3D%3D) | 
-| 第33期碁聖戦予選 | Takemiya Masaki | Kamimura Haruo | B+R | 2007-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BqaA6kOSbtVwAyUqXTN%2Bvg%3D%3D) | 
-| 第55期王座戦1回戦 | Takemiya Masaki | Yamada Kimio | W+R | 2007-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jUwf2zg%2F%2FhOQHc4YKV7ZTg%3D%3D) | 
-| 第33期名人戦予選 | Ishida Yoshio | Takemiya Masaki | W+5.5 | 2007-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qhJLnDUgRMxxhFZfDZ2UUg%3D%3D) | 
-| 第14期阿含・桐山杯全日本早碁オープン戦予選 | Takemiya Masaki | Imamura Toshiya | W+6.5 | 2007-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0hVVWL%2B8zz426fyuwCI%2FUQ%3D%3D) | 
-| 第33期天元戦本戦2回戦 | Takemiya Masaki | Morita Michihiro | W+R | 2007-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sO86ECf75d5Dw9nz8qX2%2FQ%3D%3D) | 
-| 第32期棋聖戦予選 | Takemiya Masaki | Nakamura Shinya | W+4.5 | 2007-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hBDUx1lPSGhlF9b02Qb%2FYQ%3D%3D) | 
-| 第55期王座戦予選 | Takemiya Masaki | Iwata Hajime | B+R | 2007-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TWVYOKglU7Sk1XBxIyeWTQ%3D%3D) | 
-| 第46期十段戦予選 | Tsuruyama Atsushi | Takemiya Masaki | B+R | 2007-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aGA5PHLR0EH8W2wKZcnBpA%3D%3D) | 
-| 第32期棋聖戦予選 | Kataoka Satoshi | Takemiya Masaki | W+R | 2007-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hOoyYK0Mn%2FEVt%2F06W5VzVA%3D%3D) | 
-| 第63期本因坊戦予選 | Suzuki Ayumi | Takemiya Masaki | B+R | 2007-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XYMMRwui7HtGAJNX0Qruvg%3D%3D) | 
-| 第46期十段戦予選 | Yashiro Kumiko | Takemiya Masaki | W+4.5 | 2007-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MySBfjFeZklYTB58NygCHg%3D%3D) | 
-| 第55期王座戦予選 | Ryu Shikun | Takemiya Masaki | W+5.5 | 2006-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QDsJn1GstB98nLZWClvmOQ%3D%3D) | 
-| 第33期天元戦本戦1回戦 | Oya Koichi | Takemiya Masaki | W+R | 2006-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vMh7mESq6VdJDP%2BqziGhcQ%3D%3D) | 
-| 第32期棋聖戦予選 | Takemiya Masaki | Sakai Maki | B+R | 2006-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IaZ6dmtLWYRhJ6P9xQ5Q3Q%3D%3D) | 
-| 第32期棋聖戦予選 | Takekiyo Isamu | Takemiya Masaki | W+R | 2006-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=llmk97AByH0gA%2BzISYPnLw%3D%3D) | 
-| 第32期名人戦予選 | Takemiya Masaki | Hikosaka Naoto | W+8.5 | 2006-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h6RfRKkjzX20q%2FuZe1SW2g%3D%3D) | 
-| 第55期王座戦予選 | Ishida Yoshio | Takemiya Masaki | W+4.5 | 2006-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8smwHAm7qqgS3wMO89Sokw%3D%3D) | 
-| 第32期天元戦挑戦者決定戦 | Yamashita Keigo | Takemiya Masaki | B+R | 2006-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PlsPabaKF7iKOc2vlA7nJA%3D%3D) | 
-| 第32期名人戦予選 | Takemiya Masaki | Takei Takashi | B+R | 2006-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fjI3RwPvC5ZT3zMJU5BXYg%3D%3D) | 
-| 第55期王座戦予選 | Nishimura Keiji | Takemiya Masaki | W+0.5 | 2006-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MJWr8Wl4VzZS%2F74MmeM59w%3D%3D) | 
-| 第32期碁聖戦予選 | Takemiya Masaki | Kono Mitsuki | W+R | 2006-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FHM1rNBhqBB0oDvhl7gVmQ%3D%3D) | 
-| 第32期天元戦本戦準決勝 | Takao Shinji | Takemiya Masaki | W+R | 2006-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=swx6GBM6IFvX2PTsTEgfeA%3D%3D) | 
-| 第32期名人戦予選 | Takemiya Masaki | Arimura Hiroshi | B+R | 2006-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t6gYXmmUqN5hbyG2%2Bb7PRw%3D%3D) | 
-| 第32期天元戦本戦3回戦 | Takemiya Masaki | Imamura Toshiya | B+R | 2006-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AF5oyAAbvmiL3Yq3qaAoEw%3D%3D) | 
-| 第32期名人戦予選 | Takemiya Masaki | Hashimoto Yujiro | B+R | 2006-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FhiCYX17sSc%2BNyQ2otbiZA%3D%3D) | 
-| 第32期天元戦本戦2回戦 | Yamashiro Hiroshi | Takemiya Masaki | W+4.5 | 2006-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BeSHh%2F2d%2BlUPxIe%2BeJflpg%3D%3D) | 
-| 第31期碁聖戦本戦3回戦 | Takemiya Masaki | Yamashita Keigo | W+R | 2006-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dqx2u1H8b2H1G5fgcw0wwg%3D%3D) | 
-| 第62期本因坊戦予選 | Mizokami Tomochika | Takemiya Masaki | B+4.5 | 2006-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I60%2BXbKDtWo7eGGtYMMo7Q%3D%3D) | 
-| 第31期棋聖戦予選 | Hoshino Masaki | Takemiya Masaki | B+1.5 | 2006-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bbMgBwDC%2FgUzscQk2BefsA%3D%3D) | 
-| 第32期天元戦本戦1回戦 | Honda Kunihisa | Takemiya Masaki | W+1.5 | 2006-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=veuVDFszQrqGlS1LZND2cQ%3D%3D) | 
-| 第62期本因坊戦予選 | Fukui Masaaki | Takemiya Masaki | W+R | 2006-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f%2F0bzS7RH5E8mjbrnVDMNA%3D%3D) | 
-| 第45期十段戦予選 | Otake Hideo | Takemiya Masaki | B+2.5 | 2006-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tHHHPgF4Osb3%2Bp2s9eXNXw%3D%3D) | 
-| 第31期棋聖戦予選 | Takemiya Masaki | Kataoka Satoshi | B+R | 2006-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mnq%2FgU2jneYz%2Be1nQJ3S7Q%3D%3D) | 
-| 第31期碁聖戦本戦2回戦 | Takemiya Masaki | Awaji Shuzo | B+2.5 | 2006-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zEKPJoUKW3oxN3DIAN9Pzw%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯国内予選 | Rin Kaiho | Takemiya Masaki | B+5.5 | 2005-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sCHAw6gMh6oJclB8imHX4w%3D%3D) | 
-| 第54期王座戦予選 | Mizokami Tomochika | Takemiya Masaki | B+2.5 | 2005-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5spnnyzr%2FovOTqWY%2FLCieg%3D%3D) | 
-| 第31期碁聖戦本戦1回戦 | Hikosaka Naoto | Takemiya Masaki | W+R | 2005-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zx0QlxlghmaUra9AkQhNwQ%3D%3D) | 
-| 第62期本因坊戦予選 | Takemiya Masaki | Suzuki Isao | B+R | 2005-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UfyPlGIAj51Gg92evHq5Gg%3D%3D) | 
-| 第31期棋聖戦予選 | Takemiya Masaki | Rin Kanketsu | B+R | 2005-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DUaSg0KKWg36g2Atn5wKMQ%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯国内予選 | Takemiya Masaki | Nakano Hironari | B+10.5 | 2005-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x2jOJZyLQf5xUBseThN6Hw%3D%3D) | 
-| 第32期天元戦予選 | Mimura Tomoyasu | Takemiya Masaki | W+0.5 | 2005-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DcZjCQ2HdjaNP9eoysQ34Q%3D%3D) | 
-| 第31期棋聖戦予選 | Nakamura Hidehito | Takemiya Masaki | W+R | 2005-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zO0xD7Vw0hxPdDtFVtvhXQ%3D%3D) | 
-| 第54期王座戦予選 | Takemiya Masaki | Izumitani Hideo | B+R | 2005-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BHQwhBCEq%2FaVA%2B3FlCWYPw%3D%3D) | 
-| 第45期十段戦予選 | Takemiya Masaki | Mizokami Tomochika | B+8.5 | 2005-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VxbA%2BKQMHJr50YUXFOxSqg%3D%3D) | 
-| 第24期NECカップ囲碁トーナメント戦1回戦 | Kobayashi Koichi | Takemiya Masaki | B+3.5 | 2004-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aBgEBuvbkYfw0KKKPGxU%2Bw%3D%3D) | 
-| 第29期棋聖戦予選 | Takemiya Masaki | Yuki Satoshi | W+5.5 | 2004-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zG1FeRCeeseVbVpuaz9blw%3D%3D) | 
-| 第30期天元戦本戦0回戦 | Michael Redmond | Takemiya Masaki | B+R | 2003-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9dZWRadcd77QOFkkMEBWww%3D%3D) | 
-| 第28期名人戦リーグ | Takemiya Masaki | O Rissei | W+4.5 | 2003-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3xwVbWCKD28jN8kC18M3AQ%3D%3D) | 
-| 第28期名人戦リーグ | Takemiya Masaki | Ryu Shikun | B+R | 2003-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tQOh%2FV6ZHLaHMQ%2F20kTqzQ%3D%3D) | 
-| 第28期名人戦リーグ | Takemiya Masaki | O Meien | W+R | 2003-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x%2FW8iFenZuOfgkCh3yoMZQ%3D%3D) | 
-| 第28期名人戦リーグ | Takemiya Masaki | Cho U | W+8.5 | 2003-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FISjkg%2Fa8X8qXHtv6PtYZg%3D%3D) | 
-| 第28期名人戦リーグ | Rin Kaiho | Takemiya Masaki | B+0.5 | 2003-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7thBAOX0NefW2LkPvu8HYw%3D%3D) | 
-| 第29期天元戦本戦1回戦 | Hane Yasumasa | Takemiya Masaki | B+R | 2003-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9%2Ftu7MkTrvTe1Ywknv36bA%3D%3D) | 
-| 第28期碁聖戦本戦0回戦 | Kobayashi Satoru | Takemiya Masaki | B+9.5 | 2002-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kcal8%2Bq%2BoTh1z64akPzkNQ%3D%3D) | 
-| 第28期名人戦リーグ | Yamashita Keigo | Takemiya Masaki | B+R | 2002-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Co5jyjluGX%2BPEkK6fIfAEg%3D%3D) | 
-| 第28期名人戦予選 | Takemiya Masaki | Kudo Norio | B+R | 2002-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yjy15GbNnsS%2FfGz%2BLWdQcg%3D%3D) | 
-| 第7期三星杯1回戦 | Wang Lei (b) | Takemiya Masaki | B+6.5 | 2002-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GbOmqVYhBxU2%2F1JaI3QEmw%3D%3D) | 
-| 第2回農心辛ラーメン杯世界囲碁最強戦第8戦 | Chang Hao | Takemiya Masaki | B+9.5 | 2000-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kl2vh4z%2B%2Fi94j60lFgZoBg%3D%3D) | 
-| 第2回農心辛ラーメン杯世界囲碁最強戦第7戦 | Mok Jinseok | Takemiya Masaki | W+10.5 | 2000-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0D4OynRe5NaZgP1z6TRO4A%3D%3D) | 
-| 第4回応氏杯世界選手権2回戦 | Takemiya Masaki | Chang Hao | W+R | 2000-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=boA9zM8jn%2BqtzHJla%2B8UFQ%3D%3D) | 
-| 第3回応氏杯世界選手権3回戦 | Takemiya Masaki | Rin Kaiho | W+R | 1996-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ctoRCDq8%2FwcEf5x2HFnrAQ%3D%3D) | 
-| 第3回応氏杯世界選手権2回戦 | Takemiya Masaki | Liu Xiaoguang | B+7 | 1996-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dJoLisy54fD7yLWvGr%2FQ1A%3D%3D) | 
-| 第2回応氏杯世界選手権3回戦 | Takemiya Masaki | Seo Bongsoo | W+9 | 1992-07-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SXKYSjx2K6YY33UoKw2aqw%3D%3D) | 
-| 第2回応氏杯世界選手権2回戦 | O Meien | Takemiya Masaki | W+R | 1992-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dtgF7HiIJzvAfEmtfRUTDQ%3D%3D) | 
-| 第1回テレビアジア選手権 | Takemiya Masaki | Kim Heejung | B+R | 1989-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u8HeFnW7Bzj0FOx1sEh1Lg%3D%3D) | 
-| 第1回応氏杯世界選手権1回戦 | Takemiya Masaki | Jiang Zhujiu | W+7 | 1988-08-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MxZWs9otPzgpHiuquNxptg%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-24 | 第47期名人戦予選 | Takemiya Masaki | Sakai Takeshi | Win | B+17.5 | 6.5 | 2408 | 99 | 
+| 2021-05-27 | 第70期王座戦予選 | Takemiya Masaki | Kibe Natsuki | Win | B+R | 6.5 | 2309 | 20 | 
+| 2021-05-03 | 第46期棋聖戦予選  | Ishida Yoshio | Takemiya Masaki | Lose | B+2.5 | 6.5 | 2289 | -8 | 
+| 2021-04-12 | 第60期十段戦予選 | Takemiya Masaki | Hoshiai Shiho | Lose | W+2.5 | 6.5 | 2297 | -149 | 
+| 2021-03-25 | 第46期棋聖戦予選 | Takemiya Masaki | Yamamoto Masato | Win | B+R | 6.5 | 2446 | 0 | 
+| 2021-03-22 | 第47期碁聖戦予選 | Takemiya Masaki | Rin Shien | Lose | W+R | 6.5 | 2446 | -346 | 
+| 2021-03-04 | 第46期棋聖戦予選 | Takemiya Masaki | Ryu Shikun | Win | B+0.5 | 6.5 | 2792 | 44 | 
+| 2021-02-04 | 第46期棋聖戦予選 | Takemiya Masaki |  | Win | B+R | 6.5 | 2748 | 197 | 
+| 2021-01-14 | 第46期棋聖戦予選 | Hara Sachiko | Takemiya Masaki | Win | W+R | 6.5 | 2551 | -15 | 
+| 2020-12-22 | 2020中日韓聶衛平杯囲碁マスターズ2回戦  | Cho Hunhyun | Takemiya Masaki | Lose | B+R | 7.5 | 2566 | -32 | 
+| 2020-12-21 | 2020中日韓聶衛平杯囲碁マスターズ1回戦  | Nie Weiping | Takemiya Masaki | Lose | B+¾ | 7.5 | 2598 | -79 | 
+| 2020-11-02 | 第77期本因坊戦予選 | Kanda Ei | Takemiya Masaki | Lose | B+0.5 | 6.5 | 2677 | -100 | 
+| 2020-10-22 | 第47期天元戦予選 | Takemiya Masaki | Shuto Shun | Lose | W+R | 6.5 | 2777 | -222 | 
+| 2020-10-08 | 第77期本因坊戦予選 | Takemiya Masaki | Kurotaki Masaki | Win | B+1.5 | 6.5 | 2999 | 241 | 
+| 2020-07-16 | 第46期名人戦予選 | Takemiya Masaki | Ohashi Hirofumi | Lose | W+1.5 | 6.5 | 2758 | 219 | 
+| 2020-03-19 | 第46期名人戦予選 | Takemiya Masaki | Chang Rueijie | Win | B+R | 6.5 | 2539 | 16 | 
+| 2020-03-12 | 第59期十段戦予選 | Takemiya Masaki | So Yokoku | Lose | W+R | 6.5 | 2523 | -11 | 
+| 2020-03-05 | 第69期王座戦予選 | Ohashi Hirofumi | Takemiya Masaki | Lose | B+3.5 | 6.5 | 2534 | -229 | 
+| 2020-01-09 | 第46期碁聖戦予選 | Takemiya Masaki | Oki Keiji | Lose | W+R | 6.5 | 2763 | 295 | 
+| 2019-12-12 | 第59期十段戦予選 | Takemiya Masaki | Kanda Ei | Win | B+R | 6.5 | 2468 | -7 | 
+| 2019-11-21 | 第76期本因坊戦予選 | Takemiya Masaki | Inaba Takahiro | Lose | W+0.5 | 6.5 | 2475 | 34 | 
+| 2019-11-14 | 第45期棋聖戦ファーストトーナメント予選 | Takemiya Masaki | Fujisawa Kazunari | Lose | W+3.5 | 6.5 | 2441 | -22 | 
+| 2019-11-07 | 第76期本因坊戦予選 | Kobayashi Izumi | Takemiya Masaki | Win | W+R | 6.5 | 2463 | 21 | 
+| 2019-10-24 | 第46期天元戦予選 | Ichiriki Ryo | Takemiya Masaki | Lose | B+9.5 | 6.5 | 2442 | 50 | 
+| 2019-10-10 | 第46期天元戦予選 | Takemiya Masaki | Motoki Katsuya | Win | B+0.5 | 6.5 | 2392 | -72 | 
+| 2019-08-08 | 第46期天元戦予選 | Takemiya Masaki | Kazama Jun | Win | B+R | 6.5 | 2464 | 92 | 
+| 2019-07-25 | 第45期名人戦予選 | Onishi Ryuhei | Takemiya Masaki | Lose | B+2.5 | 6.5 | 2372 | -7 | 
+| 2019-06-12 | 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | Liu Xiaoguang | Takemiya Masaki | Lose | B+R | 6.5 | 2379 | -42 | 
+| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | Takemiya Masaki | Yang Jaeho | Lose | W+1.5 | 6.5 | 2421 | -19 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | Yoda Norimoto | Takemiya Masaki | Lose | B+T | 6.5 | 2440 | 0 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | Takemiya Masaki | Rin Kaiho | Win | B+T | 6.5 | 2440 | -15 | 
+| 2019-06-08 | 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Takemiya Masaki | Cho Chikun | Win | B+R | 6.5 | 2455 | 90 | 
+| 2019-05-09 | 第68期王座戦予選 | Ko Reibun | Takemiya Masaki | Win | W+R | 6.5 | 2365 | 3 | 
+| 2019-05-02 | 第58期十段戦予選 | Morita Michihiro | Takemiya Masaki | Lose | B+1.5 | 6.5 | 2362 | -35 | 
+| 2019-04-25 | 第9回フマキラー囲碁マスターズカップ1回戦 | Ishida Yoshio | Takemiya Masaki | Lose | B+4.5 | 6.5 | 2397 | -68 | 
+| 2019-04-16 | 第3回中日韓囲碁元老戦準決勝 | Takemiya Masaki | Yoo Changhyuk | Lose | W+T | 7.5 | 2465 | -5 | 
+| 2019-04-15 | 第3回中日韓囲碁元老戦1回戦 | Ma Xiaochun | Takemiya Masaki | Win | W+¼ | 7.5 | 2470 | 15 | 
+| 2019-04-06 | 路鑫杯2019介休張壁古堡国際囲棋大師戦決勝 | Rui Naiwei | Takemiya Masaki | Lose | B+3¾ | 7.5 | 2455 | -32 | 
+| 2019-04-05 | 路鑫杯2019介休張壁古堡国際囲棋大師戦4強戦 | Takemiya Masaki | Rin Kaiho | Win | B+¾ | 7.5 | 2487 | 7 | 
+| 2019-03-23 | 2019年中日韓囲棋大師招待戦8強戦 | Takemiya Masaki | Nie Weiping | Lose | W+5¼ | 7.5 | 2480 | 102 | 
+| 2019-02-28 | 第45期碁聖戦予選 | Izumitani Hideo | Takemiya Masaki | Lose | B+1.5 | 6.5 | 2378 | -78 | 
+| 2019-01-31 | 第58期十段戦予選 | Takemiya Masaki | Oomote Takuto | Win | B+3.5 | 6.5 | 2456 | 74 | 
+| 2019-01-10 | 第44期棋聖戦ファーストトーナメント予選 | Fujisawa Rina | Takemiya Masaki | Lose | B+5.5 | 6.5 | 2382 | -2 | 
+| 2018-11-22 | 第44期棋聖戦ファーストトーナメント予選 | Izumitani Hideo | Takemiya Masaki | Win | W+0.5 | 6.5 | 2384 | 67 | 
+| 2018-11-15 | 第75期本因坊戦予選 | Yo Kagen | Takemiya Masaki | Lose | B+1.5 | 6.5 | 2317 | -46 | 
+| 2018-11-08 | 第44期棋聖戦ファーストトーナメント予選 | Yamamoto Masato | Takemiya Masaki | Win | W+R | 6.5 | 2363 | -13 | 
+| 2018-10-18 | 第75期本因坊戦予選 |  | Takemiya Masaki | Win | W+R | 6.5 | 2376 | 55 | 
+| 2018-10-11 | 第58期十段戦予選 | Takeuchi Kousuke | Takemiya Masaki | Lose | B+7.5 | 6.5 | 2321 | -171 | 
+| 2018-09-13 | 第67期王座戦予選 | Koike Yoshihiro | Takemiya Masaki | Lose | B+R | 6.5 | 2492 | -54 | 
+| 2018-08-30 | 第44期名人戦予選 | Takemiya Masaki | Takano Hideki | Lose | W+3.5 | 6.5 | 2546 | -47 | 
+| 2018-08-11 | 阪急納涼囲碁まつり盤上のスターウォーズ | Takemiya Masaki | O Meien | Win | B+R | 6.5 | 2593 | 138 | 
+| 2018-08-09 | 第44期名人戦予選 | Seki Tatsuya | Takemiya Masaki | Win | W+R | 6.5 | 2455 | -19 | 
+| 2018-07-24 | 第4回百霊杯世界オープン戦シニア戦1回戦 | Takemiya Masaki | Nie Weiping | Lose | W+2¼ | 7.5 | 2474 | -30 | 
+| 2018-07-01 | 2018年紹興国際囲棋大師戦8強戦 | Takemiya Masaki | Nie Weiping | Lose | W+T | 7.5 | 2504 | -66 | 
+| 2018-04-19 | 第8回フマキラー囲碁マスターズカップ1回戦 | O Rissei | Takemiya Masaki | Lose | B+4.5 | 6.5 | 2570 | 36 | 
+| 2018-04-05 | 第57期十段戦予選 | Koyama Kuya | Takemiya Masaki | Lose | B+1.5 | 6.5 | 2534 | -216 | 
+| 2018-02-22 | 第57期十段戦予選 | Takemiya Masaki | Sugimoto Akira | Win | B+R | 6.5 | 2750 | 78 | 
+| 2018-02-15 | 第74期本因坊戦予選 | Takemiya Masaki | Kaneko Maki | Lose | W+R | 6.5 | 2672 | -105 | 
+| 2018-01-25 | 第44期碁聖戦予選 | Takemiya Masaki | Suzuki Shinji | Lose | W+1.5 | 6.5 | 2777 | -18 | 
+| 2018-01-18 | 第74期本因坊戦予選 | Takemiya Masaki | Tamaki Shinobu | Win | B+R | 6.5 | 2795 | 67 | 
+| 2017-11-16 | 第66期王座戦予選 | Mitani Tetsuya | Takemiya Masaki | Lose | B+R | 6.5 | 2728 | -44 | 
+| 2017-11-02 | 第43期棋聖戦ファーストトーナメント予選 | Takemiya Masaki | Yamada Shinji | Lose | W+R | 6.5 | 2772 | -49 | 
+| 2017-10-12 | 第44期天元戦予選A | Takemiya Masaki | Okada Shinichiro | Lose | W+0.5 | 6.5 | 2821 | -31 | 
+| 2017-09-21 | 第44期天元戦　予選A | Takemiya Masaki | Onishi Ryuhei | Win | B+R | 6.5 | 2852 | 119 | 
+| 2017-08-24 | 第43期名人戦　予選A決勝 | Terayama Rei | Takemiya Masaki | Lose | B+1.5 | 6.5 | 2733 | -3 | 
+| 2017-08-03 | 第44期天元戦　予選B決勝 | Cho Riyu | Takemiya Masaki | Win | W+R | 6.5 | 2736 | 54 | 
+| 2017-06-29 | 第44期天元戦　予選B | Takemiya Masaki | Takagi Shoichi | Win | B+10.5 | 6.5 | 2682 | -2 | 
+| 2017-06-22 | 第43期名人戦　予選B決勝 | Fujimura Yosuke | Takemiya Masaki | Win | W+R | 6.5 | 2684 | -4 | 
+| 2017-05-04 | 第7回囲碁マスターズカップ　本戦2回戦 | O Rissei | Takemiya Masaki | Lose | B+2.5 | 6.5 | 2688 | 44 | 
+| 2017-04-25 | 第1回中日韓囲碁元老戦2回戦 | Cao Dayuan | Takemiya Masaki | Lose | B+1.5 | 7.5 | 2644 | 0 | 
+| 2017-04-25 | 第1回中日韓囲碁元老戦1回戦 | Takemiya Masaki | Liu Xiaoguang | Win | B+R | 7.5 | 2644 | -23 | 
+| 2017-03-30 | 第56期十段戦　予選A決勝 | Takemiya Masaki | Yamashiro Hiroshi | Lose | W+0.5 | 6.5 | 2667 | 115 | 
+| 2017-03-09 | 第42期棋聖戦　ファーストトーナメント準決勝 | Takemiya Masaki | Adachi Toshimasa | Lose | W+0.5 | 6.5 | 2552 | -14 | 
+| 2017-03-02 | 第7回フマキラー囲碁マスターズカップ　本戦1回戦 | Takemiya Masaki | Kobayashi Koichi | Win | B+1.5 | 6.5 | 2566 | 96 | 
+| 2017-02-23 | 第43期碁聖戦　予選B | Rin Kanketsu | Takemiya Masaki | Lose | B+8.5 | 6.5 | 2470 | -15 | 
+| 2017-02-09 | 第56期十段戦　予選A | Takemiya Masaki | Suzuki Yoshimichi | Win | B+R | 6.5 | 2485 | 24 | 
+| 2017-02-02 | 第43期碁聖戦　予選C決勝 | Takemiya Masaki | Fukui Masaaki | Win | B+R | 6.5 | 2461 | -7 | 
+| 2017-01-26 | 第42期棋聖戦　ファーストトーナメント3回戦 | Tajiri Yuto | Takemiya Masaki | Win | W+R | 6.5 | 2468 | 74 | 
+| 2017-01-19 | 第43期碁聖戦　予選C | Takemiya Masaki | Tamai Shin | Win | B+R | 6.5 | 2394 | 65 | 
+| 2016-12-22 | 第42期棋聖戦　ファーストトーナメント2回戦 | Muramatsu Ryuichi | Takemiya Masaki | Win | W+R | 6.5 | 2329 | -26 | 
+| 2016-10-06 | 第73期本因坊戦予選 | Numadate Sakiya | Takemiya Masaki | Lose | B+5.5 | 6.5 | 2355 | -67 | 
+| 2016-09-29 | 第65期王座戦予選 | Takemiya Masaki | Fujimura Yosuke | Win | B+R | 6.5 | 2422 | -5 | 
+| 2016-07-28 | 第43期天元戦予選 | Han Zenki | Takemiya Masaki | Lose | B+6.5 | 6.5 | 2427 | 18 | 
+| 2016-07-14 | 第42期名人戦予選 | Rin Shien | Takemiya Masaki | Lose | B+1.5 | 6.5 | 2409 | 56 | 
+| 2016-07-07 | 第65期王座戦予選 | Kazama Jun | Takemiya Masaki | Win | W+R | 6.5 | 2353 | -113 | 
+| 2016-06-23 | 第42期名人戦予選 | Yashiro Kumiko | Takemiya Masaki | Win | W+0.5 | 6.5 | 2466 | -37 | 
+| 2016-05-26 | 第43期天元戦予選 | Ishigure Ikuro | Takemiya Masaki | Win | W+3.5 | 6.5 | 2503 | -53 | 
+| 2016-05-05 | 第43期天元戦予選 | Sanno Hirotaka | Takemiya Masaki | Win | W+R | 6.5 | 2556 | 8 | 
+| 2016-04-28 | 第6回フマキラー囲碁マスターズカップ2回戦 | Awaji Shuzo | Takemiya Masaki | Lose | B+8.5 | 6.5 | 2548 | 60 | 
+| 2016-04-21 | 第43期天元戦予選 | Takemiya Masaki | Kato Keiko | Win | B+R | 6.5 | 2488 | 34 | 
+| 2016-04-14 | 第55期十段戦予選 | Takemiya Masaki | Terayama Rei | Lose | W+R | 6.5 | 2454 | -7 | 
+| 2016-04-07 | 第42期碁聖戦予選 | Hirata Tomoya | Takemiya Masaki | Lose | B+R | 6.5 | 2461 | -99 | 
+| 2016-03-31 | 第6回フマキラー囲碁マスターズカップ1回戦 | Ishii Kunio | Takemiya Masaki | Win | W+R | 6.5 | 2560 | 52 | 
+| 2016-03-03 | 第72期本因坊戦予選 | Takemiya Masaki | Iguchi Hideichiro | Lose | W+3.5 | 6.5 | 2508 | -67 | 
+| 2016-02-04 | 第42期碁聖戦予選 | Takemiya Masaki | Yashiro Kumiko | Win | B+R | 6.5 | 2575 | -28 | 
+| 2016-01-28 | 第41期棋聖戦予選 | Adachi Toshimasa | Takemiya Masaki | Lose | B+10.5 | 6.5 | 2603 | -15 | 
+| 2016-01-14 | 第55期十段戦予選 | Takemiya Masaki | Kono Takashi | Win | B+R | 6.5 | 2618 | 28 | 
+| 2015-12-24 | 第41期棋聖戦予選 | Takemiya Masaki | Yasuda Yasutoshi | Win | B+R | 6.5 | 2590 | 52 | 
+| 2015-12-17 | 第42期碁聖戦予選 | Takemiya Masaki | Kubo Hideo | Win | B+8.5 | 6.5 | 2538 | -4 | 
+| 2015-12-10 | 第41期棋聖戦予選 | Takemiya Masaki | Komatsu Hideko | Win | B+R | 6.5 | 2542 | 0 | 
+| 2015-12-03 | 第64期王座戦予選 | Sun Zhe | Takemiya Masaki | Lose | B+6.5 | 6.5 | 2542 | 3 | 
+| 2015-10-15 | 第64期王座戦予選 | Takemiya Masaki | Ko Iun | Win | B+R | 6.5 | 2539 | 12 | 
+| 2015-09-24 | 第64期王座戦予選 | Takemiya Masaki | Takano Hideki | Win | B+0.5 | 6.5 | 2527 | -43 | 
+| 2015-09-10 | 第42期天元戦予選 | Takemiya Masaki | Tsuneishi Takashi | Lose | W+2.5 | 6.5 | 2570 | -87 | 
+| 2015-08-20 | 第64期王座戦予選 | Takemiya Masaki | Kanazawa Makoto | Win | B+R | 6.5 | 2657 | 6 | 
+| 2015-07-30 | 第41期名人戦予選 | Motoki Katsuya | Takemiya Masaki | Lose | B+3.5 | 6.5 | 2651 | -34 | 
+| 2015-07-23 | 第54期十段戦予選 | Takemiya Masaki | Shuto Shun | Lose | W+9.5 | 6.5 | 2685 | -36 | 
+| 2015-07-16 | 第71期本因坊戦予選 | Takemiya Masaki | Takao Shinji | Lose | W+4.5 | 6.5 | 2721 | -15 | 
+| 2015-07-11 | 第5回フマキラー囲碁マスターズカップ決勝 | Takemiya Masaki | Cho Chikun | Lose | W+5.5 | 6.5 | 2736 | -52 | 
+| 2015-07-02 | 第64期王座戦予選 | Takemiya Masaki | Nakajima Mieko | Win | B+R | 6.5 | 2788 | 14 | 
+| 2015-06-27 | 第5回フマキラー囲碁マスターズカップ準決勝 | Yamashiro Hiroshi | Takemiya Masaki | Win | W+2.5 | 6.5 | 2774 | -39 | 
+| 2015-06-11 | 第71期本因坊戦予選 | Obuchi Kotaro | Takemiya Masaki | Win | W+R | 6.5 | 2813 | 56 | 
+| 2015-05-14 | 第71期本因坊戦予選 | Takemiya Masaki | Kubo Hideo | Win | B+R | 6.5 | 2757 | -157 | 
+| 2015-05-07 | 第5回フマキラー囲碁マスターズカップ2回戦 | Takemiya Masaki | Ishida Yoshio | Win | B+2.5 | 6.5 | 2914 | 135 | 
+| 2015-04-23 | 第54期十段戦予選 | Takemiya Masaki | Chino Tadahiko | Win | B+R | 6.5 | 2779 | 7 | 
+| 2015-04-02 | 第71期本因坊戦予選 | Kanda Ei | Takemiya Masaki | Win | W+R | 6.5 | 2772 | -16 | 
+| 2015-03-26 | 第5回フマキラー囲碁マスターズカップ1回戦 | Rin Kaiho | Takemiya Masaki | Win | W+9.5 | 6.5 | 2788 | -310 | 
+| 2015-01-15 | 第40期棋聖戦予選 | Takemiya Masaki | Kono Takashi | Lose | W+4.5 | 6.5 | 3098 | 17 | 
+| 2014-12-18 | 第40期棋聖戦予選 | Takemiya Masaki | Tajiri Yuto | Win | B+R | 6.5 | 3081 | 54 | 
+| 2014-11-13 | 第63期王座戦予選 | Yo Kagen | Takemiya Masaki | Lose | B+2.5 | 6.5 | 3027 | 124 | 
+| 2014-10-23 | 第40期名人戦予選 | Takemiya Masaki | Ko Iso | Lose | W+6.5 | 6.5 | 2903 | -78 | 
+| 2014-10-09 | 第40期碁聖戦予選 | So Yokoku | Takemiya Masaki | Lose | B+3.5 | 6.5 | 2981 | -44 | 
+| 2014-10-02 | 第40期名人戦予選 | Honda Kunihisa | Takemiya Masaki | Win | W+1.5 | 6.5 | 3025 | 8 | 
+| 2014-09-18 | 第41期天元戦予選 | Takemiya Masaki | Shuto Shun | Lose | W+R | 6.5 | 3017 | 73 | 
+| 2014-09-11 | 第40期名人戦予選 | Mimura Tomoyasu | Takemiya Masaki | Win | W+0.5 | 6.5 | 2944 | 121 | 
+| 2014-07-24 | 第40期名人戦予選 | Mannami Nao | Takemiya Masaki | Win | W+5.5 | 6.5 | 2823 | 46 | 
+| 2014-07-10 | 第40期碁聖戦予選 | So Kofuku | Takemiya Masaki | Win | W+R | 6.5 | 2777 | -116 | 
+| 2014-05-29 | 第53期十段戦予選 | Mimura Tomoyasu | Takemiya Masaki | Lose | B+2.5 | 6.5 | 2893 | 81 | 
+| 2014-05-08 | 第53期十段戦予選 | Takemiya Masaki | Anzai Nobuaki | Win | B+R | 6.5 | 2812 | 55 | 
+| 2014-05-01 | 第40期天元戦本戦2回戦 | Sakai Hideyuki | Takemiya Masaki | Lose | B+1.5 | 6.5 | 2757 | -133 | 
+| 2014-03-27 | 第4回フマキラー囲碁マスターズカップ1回戦 | Takemiya Masaki | Kobayashi Satoru | Lose | W+4.5 | 6.5 | 2890 | -18 | 
+| 2014-03-13 | 第70期本因坊戦予選 | Hirata Tomoya | Takemiya Masaki | Lose | B+6.5 | 6.5 | 2908 | -65 | 
+| 2014-02-20 | 第53期十段戦予選 | Mukai Chiaki | Takemiya Masaki | Win | W+R | 6.5 | 2973 | 34 | 
+| 2014-02-06 | 第40期天元戦本戦1回戦 | Ko Iso | Takemiya Masaki | Win | W+R | 6.5 | 2939 | -11 | 
+| 2014-01-16 | 第40期天元戦予選 | Takemiya Masaki | Cho Sonjin | Win | B+R | 6.5 | 2950 | 15 | 
+| 2013-12-19 | 第62期王座戦予選 | Ichiriki Ryo | Takemiya Masaki | Lose | B+4.5 | 6.5 | 2935 | -16 | 
+| 2013-12-05 | 第40期天元戦予選 | Aoki Kikuyo | Takemiya Masaki | Win | W+R | 6.5 | 2951 | -131 | 
+| 2013-09-12 | 第39期碁聖戦予選 | Takemiya Masaki | O Meien | Lose | W+R | 6.5 | 3082 | 26 | 
+| 2013-08-29 | 第39期名人戦予選 | Takemiya Masaki | Yamada Kimio | Lose | W+2.5 | 6.5 | 3056 | 108 | 
+| 2013-07-11 | 第39期棋聖戦予選 | Hoshino Masaki | Takemiya Masaki | Lose | B+11.5 | 6.5 | 2948 | 45 | 
+| 2013-07-04 | 第39期名人戦予選 | Yoda Norimoto | Takemiya Masaki | Win | W+4.5 | 6.5 | 2903 | 105 | 
+| 2013-06-20 | 第39期名人戦予選 | Takemiya Masaki | Tsuruyama Atsushi | Win | B+2.5 | 6.5 | 2798 | 153 | 
+| 2013-05-09 | 第69期本因坊戦予選 | Takemiya Masaki | Yamada Takuji | Lose | W+8.5 | 6.5 | 2645 | 24 | 
+| 2013-05-02 | 第38期碁聖戦本戦3回戦 | Takemiya Masaki | Kono Rin | Lose | W+R | 6.5 | 2621 | -18 | 
+| 2013-04-25 | 第52期十段戦予選 | Takemiya Masaki | Yoda Norimoto | Lose | W+6.5 | 6.5 | 2639 | -93 | 
+| 2013-04-18 | 第69期本因坊戦予選 | Ogaki Yusaku | Takemiya Masaki | Win | W+5.5 | 6.5 | 2732 | 12 | 
+| 2013-04-11 | 第38期碁聖戦本戦2回戦 | Kato Atsushi | Takemiya Masaki | Win | W+3.5 | 6.5 | 2720 | 43 | 
+| 2013-04-04 | 第52期十段戦予選 | Takemiya Masaki | Sakai Maki | Win | B+R | 6.5 | 2677 | 54 | 
+| 2013-03-28 | 第3回エステー＆フマキラー囲碁マスターズカップ1回戦 | Ishii Kunio | Takemiya Masaki | Lose | B+R | 6.5 | 2623 | -78 | 
+| 2013-03-14 | 第61期王座戦予選 | Takemiya Masaki | Kono Rin | Lose | W+R | 6.5 | 2701 | -16 | 
+| 2013-03-07 | 第39期天元戦本戦1回戦 | Takemiya Masaki | O Rissei | Lose | W+13.5 | 6.5 | 2717 | -119 | 
+| 2013-02-28 | 第38期碁聖戦本戦1回戦 | Yuki Satoshi | Takemiya Masaki | Win | W+R | 6.5 | 2836 | 177 | 
+| 2013-02-14 | 第52期十段戦予選 | Shimosaka Miori | Takemiya Masaki | Win | W+R | 6.5 | 2659 | 0 | 
+| 2013-01-31 | 第61期王座戦予選 | Ohba Junya | Takemiya Masaki | Win | W+0.5 | 6.5 | 2659 | 10 | 
+| 2013-01-24 | 第52期十段戦予選 | Oto Shozo | Takemiya Masaki | Win | W+18.5 | 6.5 | 2649 | 87 | 
+| 2012-12-13 | 第61期王座戦予選 | Takemiya Masaki | Ohashi Hirofumi | Win | B+8.5 | 6.5 | 2562 | -233 | 
+| 2012-11-29 | 第39期天元戦予選 | Mizuma Toshifumi | Takemiya Masaki | Win | W+R | 6.5 | 2795 | 95 | 
+| 2012-11-01 | 第52期十段戦予選 | Suzuki Isao | Takemiya Masaki | Win | W+R | 6.5 | 2700 | -35 | 
+| 2012-10-25 | 第39期天元戦予選 | Morita Michihiro | Takemiya Masaki | Win | W+R | 6.5 | 2735 | 39 | 
+| 2012-10-04 | 第38期棋聖戦予選 | Nakamura Shinya | Takemiya Masaki | Lose | B+R | 6.5 | 2696 | -101 | 
+| 2012-09-20 | 第38期碁聖戦予選 | Takemiya Masaki | Ohba Junya | Win | B+0.5 | 6.5 | 2797 | 24 | 
+| 2012-08-30 | 第39期天元戦予選 | So Kofuku | Takemiya Masaki | Win | W+R | 6.5 | 2773 | 8 | 
+| 2012-08-23 | 第38期名人戦予選 | Kiyonari Tetsuya | Takemiya Masaki | Lose | B+R | 6.5 | 2765 | 25 | 
+| 2012-08-16 | 第38期碁聖戦予選 | Suzuki Ayumi | Takemiya Masaki | Win | W+R | 6.5 | 2740 | -42 | 
+| 2012-07-26 | 第38期棋聖戦予選 | Takemiya Masaki | Takabayashi Takuji | Win | B+10.5 | 6.5 | 2782 | 17 | 
+| 2012-07-12 | 第38期名人戦予選 | Takemiya Masaki | Ohba Junya | Win | B+R | 6.5 | 2765 | -26 | 
+| 2012-06-28 | 第38期碁聖戦予選 | Komatsu Fujio | Takemiya Masaki | Win | W+R | 6.5 | 2791 | 50 | 
+| 2012-06-21 | 第38期名人戦予選 | Kamimura Haruo | Takemiya Masaki | Win | W+R | 6.5 | 2741 | -34 | 
+| 2012-05-03 | 第68期本因坊戦予選 | Takemiya Masaki | Shuto Shun | Lose | W+R | 6.5 | 2775 | 11 | 
+| 2012-03-29 | 第2回エステー＆フマキラー囲碁マスターズカップ1回戦 | Takemiya Masaki | Kataoka Satoshi | Lose | W+8.5 | 6.5 | 2764 | 14 | 
+| 2012-03-22 | 第68期本因坊戦予選 | Yo Kaei | Takemiya Masaki | Win | W+R | 6.5 | 2750 | 184 | 
+| 2012-02-09 | 第51期十段戦予選 | Takemiya Masaki | So Kofuku | Lose | W+8.5 | 6.5 | 2566 | -168 | 
+| 2011-12-22 | 第60期王座戦予選 | Kobayashi Satoru | Takemiya Masaki | Lose | B+1.5 | 6.5 | 2734 | 4 | 
+| 2011-09-22 | 第60期王座戦予選 | Takemiya Masaki | Ishida Yoshio | Win | B+7.5 | 6.5 | 2730 | 162 | 
+| 2011-09-15 | 第38期天元戦予選 | Takemiya Masaki | Cho Sonjin | Lose | W+0.5 | 6.5 | 2568 | 76 | 
+| 2011-09-08 | 第37期棋聖戦予選 | Sun Zhe | Takemiya Masaki | Lose | B+R | 6.5 | 2492 | 140 | 
+| 2011-08-25 | 第60期王座戦予選 | Miyazawa Goro | Takemiya Masaki | Win | W+3.5 | 6.5 | 2352 | 90 | 
+| 2011-08-18 | 第37期碁聖戦予選 | Ko Iso | Takemiya Masaki | Lose | B+3.5 | 6.5 | 2262 | -99 | 
+| 2011-07-14 | 第37期名人戦予選 | Takemiya Masaki | Kono Rin | Lose | W+R | 6.5 | 2361 | -16 | 
+| 2011-06-30 | 第38期天元戦予選 | Arimura Hiroshi | Takemiya Masaki | Win | W+R | 6.5 | 2377 | -138 | 
+| 2011-06-09 | 第37期名人戦予選 | Takemiya Masaki | Kanazawa Hideo | Win | B+R | 6.5 | 2515 | -43 | 
+| 2011-04-21 | 第37期名人戦予選 | Takemiya Masaki | Kenmochi Joe | Win | B+R | 6.5 | 2558 | 21 | 
+| 2011-04-07 | 第67期本因坊戦予選 | Takemiya Masaki | Morita Michihiro | Lose | W+R | 6.5 | 2537 | -23 | 
+| 2011-03-31 | 第1回エステー＆フマキラー囲碁マスターズカップ2回戦 | Cho Chikun | Takemiya Masaki | Lose | B+6.5 | 6.5 | 2560 | -188 | 
+| 2011-03-03 | 第59期王座戦予選 | Yamashiro Hiroshi | Takemiya Masaki | Lose | B+0.5 | 6.5 | 2748 | 46 | 
+| 2011-02-10 | 第67期本因坊戦予選 | Nakamura Shinya | Takemiya Masaki | Win | W+0.5 | 6.5 | 2702 | 194 | 
+| 2011-01-13 | 第50期十段戦予選 | Takemiya Masaki | Kenmochi Joe | Lose | W+2.5 | 6.5 | 2508 | -104 | 
+| 2010-12-16 | 第59期王座戦予選 | Omori Yasushi | Takemiya Masaki | Win | W+0.5 | 6.5 | 2612 | -65 | 
+| 2010-12-09 | 第50期十段戦予選 | Takemiya Masaki | Kanazawa Hideo | Win | B+R | 6.5 | 2677 | 13 | 
+| 2010-11-11 | 第59期王座戦予選 | Takemiya Masaki | Rin Shien | Win | B+R | 6.5 | 2664 | 95 | 
+| 2010-09-16 | 第37期天元戦予選 | Yamada Shinji | Takemiya Masaki | Lose | B+2.5 | 6.5 | 2569 | 62 | 
+| 2010-09-09 | 第36期碁聖戦予選 | Takemiya Masaki | Han Zenki | Lose | W+0.5 | 6.5 | 2507 | -42 | 
+| 2010-09-02 | 第36期棋聖戦予選 | Umezawa Yukari | Takemiya Masaki | Lose | B+1.5 | 6.5 | 2549 | -50 | 
+| 2010-08-19 | 第36期碁聖戦予選 | Ko Iun | Takemiya Masaki | Win | W+R | 6.5 | 2599 | 27 | 
+| 2010-07-31 | 第6回大和証券杯ネット囲碁オープン1回戦 | Han Zenki | Takemiya Masaki | Lose | B+1.5 | 6.5 | 2572 | -3 | 
+| 2010-06-17 | 第36期棋聖戦予選 | Hata Hidefumi | Takemiya Masaki | Win | W+R | 6.5 | 2575 | 16 | 
+| 2010-05-27 | 第36期棋聖戦予選 | Oto Shozo | Takemiya Masaki | Win | W+18.5 | 6.5 | 2559 | -10 | 
+| 2010-05-13 | 第66期本因坊戦予選 | Cho Chikun | Takemiya Masaki | Lose | B+2.5 | 6.5 | 2569 | -5 | 
+| 2010-05-06 | 第36期名人戦予選 | Takemiya Masaki | Suzuki Shinji | Lose | W+3.5 | 6.5 | 2574 | 4 | 
+| 2010-04-01 | 第65期本因坊戦リーグ | Takemiya Masaki | Iyama Yuta | Lose | W+R | 6.5 | 2570 | -78 | 
+| 2010-03-18 | 第65期本因坊戦リーグ | Takemiya Masaki | Yamashita Keigo | Lose | W+4.5 | 6.5 | 2648 | -18 | 
+| 2010-03-04 | 第36期天元戦本戦2回戦 | Yoda Norimoto | Takemiya Masaki | Lose | B+0.5 | 6.5 | 2666 | 25 | 
+| 2010-02-18 | 第35期碁聖戦本戦2回戦 | Iyama Yuta | Takemiya Masaki | Lose | B+12.5 | 6.5 | 2641 | -41 | 
+| 2010-02-04 | 第65期本因坊戦リーグ | Takemiya Masaki | Yuki Satoshi | Lose | W+10.5 | 6.5 | 2682 | -57 | 
+| 2010-01-28 | 第58期王座戦予選 | Kono Rin | Takemiya Masaki | Lose | B+8.5 | 6.5 | 2739 | -58 | 
+| 2010-01-14 | 第65期本因坊戦リーグ | Takemiya Masaki | Takao Shinji | Lose | W+13.5 | 6.5 | 2797 | 41 | 
+| 2010-01-07 | 第36期天元戦本戦1回戦 | Takemiya Masaki | Murakawa Daisuke | Win | B+R | 6.5 | 2756 | 9 | 
+| 2009-12-17 | 第65期本因坊戦リーグ | Cho U | Takemiya Masaki | Lose | B+3.5 | 6.5 | 2747 | -12 | 
+| 2009-12-10 | 第36期天元戦予選 | Kobayashi Satoru | Takemiya Masaki | Win | W+R | 6.5 | 2759 | -197 | 
+| 2009-11-19 | 第49期十段戦予選 | Takemiya Masaki | Yoda Norimoto | Lose | W+6.5 | 6.5 | 2956 | -74 | 
+| 2009-11-12 | 第65期本因坊戦リーグ | Yamada Kimio | Takemiya Masaki | Win | W+R | 6.5 | 3030 | 71 | 
+| 2009-10-15 | 第35期碁聖戦本戦1回戦 | Kurahashi Masayuki | Takemiya Masaki | Win | W+R | 6.5 | 2959 | 21 | 
+| 2009-10-08 | 第65期本因坊戦リーグ | Mimura Tomoyasu | Takemiya Masaki | Lose | B+4.5 | 6.5 | 2938 | 12 | 
+| 2009-09-24 | 第36期天元戦予選 | Okada Shinichiro | Takemiya Masaki | Win | W+R | 6.5 | 2926 | -24 | 
+| 2009-09-10 | 第35期棋聖戦予選 | Suzuki Ayumi | Takemiya Masaki | Lose | B+4.5 | 6.5 | 2950 | 2 | 
+| 2009-08-20 | 第65期本因坊戦予選 | Ishida Atsushi | Takemiya Masaki | Win | W+3.5 | 6.5 | 2948 | 43 | 
+| 2009-06-25 | 第35期名人戦予選 | Takemiya Masaki | Mizokami Tomochika | Lose | W+7.5 | 6.5 | 2905 | 6 | 
+| 2009-06-18 | 第65期本因坊戦予選 | Kono Rin | Takemiya Masaki | Win | W+R | 6.5 | 2899 | 72 | 
+| 2009-06-09 | 第21回テレビアジア選手権1回戦 | Takemiya Masaki | Zhou Heyang | Lose | W+R | 6.5 | 2827 | -83 | 
+| 2009-05-21 | 第65期本因坊戦予選 | Takemiya Masaki | Kobayashi Koichi | Win | B+R | 6.5 | 2910 | 32 | 
+| 2009-04-30 | 第34期碁聖戦本戦準決勝 | Yuki Satoshi | Takemiya Masaki | Lose | B+4.5 | 6.5 | 2878 | -11 | 
+| 2009-04-27 | 第5回大和証券杯ネット囲碁オープン予選 | Takemiya Masaki | Nakane Naoyuki | Lose | W+T | 6.5 | 2889 | -32 | 
+| 2009-04-23 | 第35期名人戦予選 | Takemiya Masaki | Koyama Ryugo | Win | B+R | 6.5 | 2921 | 21 | 
+| 2009-04-16 | 第57期王座戦1回戦 | Yamashita Keigo | Takemiya Masaki | Lose | B+8.5 | 6.5 | 2900 | -7 | 
+| 2009-04-02 | 第34期碁聖戦本戦3回戦 | Takano Hideki | Takemiya Masaki | Win | W+R | 6.5 | 2907 | 16 | 
+| 2009-03-26 | 第65期本因坊戦予選 | Takemiya Masaki | Iguchi Hideichiro | Win | B+R | 6.5 | 2891 | 30 | 
+| 2009-03-19 | 第57期王座戦予選 | Takemiya Masaki | Ko Iso | Win | B+R | 6.5 | 2861 | 72 | 
+| 2009-02-05 | 第57期王座戦予選 | Yuki Satoshi | Takemiya Masaki | Win | W+1.5 | 6.5 | 2789 | 22 | 
+| 2009-01-29 | 第65期本因坊戦予選 | Takemiya Masaki | O Rissei | Win | B+R | 6.5 | 2767 | 42 | 
+| 2009-01-22 | 第34期碁聖戦本戦2回戦 | Yoda Norimoto | Takemiya Masaki | Win | W+0.5 | 6.5 | 2725 | 32 | 
+| 2009-01-15 | 第48期十段戦予選 | Takemiya Masaki | Oya Koichi | Lose | W+2.5 | 6.5 | 2693 | -132 | 
+| 2009-01-08 | 第35期天元戦本戦1回戦 | Takemiya Masaki | Yukawa Mitsuhisa | Lose | W+5.5 | 6.5 | 2825 | -1 | 
+| 2008-12-25 | 第65期本因坊戦予選 | Horimoto Mitsunari | Takemiya Masaki | Win | W+7.5 | 6.5 | 2826 | 63 | 
+| 2008-12-18 | 第22回世界囲碁選手権富士通杯国内予選 | Yoda Norimoto | Takemiya Masaki | Lose | B+3.5 | 6.5 | 2763 | 89 | 
+| 2008-12-04 | 第34期碁聖戦本戦1回戦 | Ishii Kunio | Takemiya Masaki | Win | W+6.5 | 6.5 | 2674 | 249 | 
+| 2008-11-27 | 第48期十段戦予選 | Takemiya Masaki | Awaji Shuzo | Win | B+R | 6.5 | 2425 | 48 | 
+| 2008-11-13 | 第22回世界囲碁選手権富士通杯国内予選 | Takemiya Masaki | So Yokoku | Win | B+3.5 | 6.5 | 2377 | 43 | 
+| 2008-11-06 | 第57期王座戦予選 | Takemiya Masaki | Sugiuchi Masao | Win | B+R | 6.5 | 2334 | 4 | 
+| 2008-10-30 | 第35期天元戦予選 | Takemiya Masaki | Lee Ishu | Win | B+1.5 | 6.5 | 2330 | -636 | 
+| 2008-10-16 | 第34期棋聖戦予選 | Rin Shien | Takemiya Masaki | Lose | B+4.5 | 6.5 | 2966 | 87 | 
+| 2008-10-02 | 第57期王座戦予選 | Takemiya Masaki | Tei Meiko | Win | B+2.5 | 6.5 | 2879 | -43 | 
+| 2008-09-25 | 第34期名人戦予選 | Takemiya Masaki | Yamada Noriyoshi | Lose | W+0.5 | 6.5 | 2922 | -56 | 
+| 2008-09-11 | 第34期碁聖戦予選 | Takemiya Masaki | Kudo Norio | Win | B+R | 6.5 | 2978 | -3 | 
+| 2008-09-04 | 第34期名人戦予選 | Takemiya Masaki | Tsuruyama Atsushi | Win | B+R | 6.5 | 2981 | 45 | 
+| 2008-08-28 | 第35期天元戦予選 | Takemiya Masaki | So Kofuku | Win | B+R | 6.5 | 2936 | 51 | 
+| 2008-08-21 | 第34期名人戦予選 | Kamimura Haruo | Takemiya Masaki | Win | W+R | 6.5 | 2885 | 401 | 
+| 2008-07-24 | 第34期碁聖戦予選 | Takemiya Masaki | Fukui Masaaki | Win | B+R | 6.5 | 2484 | -20 | 
+| 2008-07-10 | 第34期名人戦予選 | Takemiya Masaki | Arimura Hiroshi | Win | B+R | 6.5 | 2504 | -19 | 
+| 2008-06-12 | 第34期名人戦予選 | Takemiya Masaki | Komatsu Hideki | Win | B+R | 6.5 | 2523 | 71 | 
+| 2008-05-26 | 第4回大和証券杯ネット囲碁オープン予選 | Takemiya Masaki | Yoda Norimoto | Lose | W+R | 6.5 | 2452 | 248 | 
+| 2008-04-17 | 第56期王座戦予選 | Takemiya Masaki | Yoda Norimoto | Lose | W+R | 6.5 | 2204 | 4 | 
+| 2008-04-10 | 第35期天元戦予選 | Takemiya Masaki | Su Kaiseki | Win | B+7.5 | 6.5 | 2200 | 58 | 
+| 2008-02-14 | 第64期本因坊戦予選 | Takemiya Masaki | Yamada Takuji | Lose | W+2.5 | 6.5 | 2142 | 22 | 
+| 2008-01-31 | 第56期王座戦予選 | Takemiya Masaki | Goto Shungo | Win | B+R | 6.5 | 2120 | -133 | 
+| 2007-12-20 | 第47期十段戦予選 | Takemiya Masaki | Nakaonoda Tomomi | Lose | W+2.5 | 6.5 | 2253 | -15 | 
+| 2007-12-13 | 第33期碁聖戦本戦1回戦 | Goto Shungo | Takemiya Masaki | Lose | B+0.5 | 6.5 | 2268 | -7 | 
+| 2007-12-06 | 第33期棋聖戦予選 | Ko Iun | Takemiya Masaki | Lose | B+R | 6.5 | 2275 | -72 | 
+| 2007-10-18 | 第33期棋聖戦予選 | Takemiya Masaki | Akiyama Jiro | Win | B+R | 6.5 | 2347 | 22 | 
+| 2007-09-27 | 第47期十段戦予選 | Nakamura Hidehito | Takemiya Masaki | Win | W+1.5 | 6.5 | 2325 | -1311 | 
+| 2007-09-20 | 第33期碁聖戦予選 | Yasuda Yasutoshi | Takemiya Masaki | Win | W+R | 6.5 | 3636 | 1274 | 
+| 2007-08-28 | 第3回大和証券杯ネット囲碁オープン予選 | Rin Kanketsu | Takemiya Masaki | Lose | B+0.5 | 6.5 | 2362 | -63 | 
+| 2007-08-23 | 第34期天元戦予選 | Tsuruyama Atsushi | Takemiya Masaki | Lose | B+R | 6.5 | 2425 | -4 | 
+| 2007-08-16 | 第33期碁聖戦予選 | Oki Keiji | Takemiya Masaki | Win | W+R | 6.5 | 2429 | -440 | 
+| 2007-06-28 | 第33期名人戦予選 | Takemiya Masaki | Kobayashi Koichi | Lose | W+3.5 | 6.5 | 2869 | -33 | 
+| 2007-06-14 | 第33期碁聖戦予選 | Takemiya Masaki | Kamimura Haruo | Win | B+R | 6.5 | 2902 | 49 | 
+| 2007-05-10 | 第55期王座戦1回戦 | Takemiya Masaki | Yamada Kimio | Lose | W+R | 6.5 | 2853 | -18 | 
+| 2007-05-03 | 第33期名人戦予選 | Ishida Yoshio | Takemiya Masaki | Win | W+5.5 | 6.5 | 2871 | 18 | 
+| 2007-04-26 | 第14期阿含・桐山杯全日本早碁オープン戦予選 | Takemiya Masaki | Imamura Toshiya | Lose | W+6.5 | 6.5 | 2853 | -80 | 
+| 2007-03-29 | 第33期天元戦本戦2回戦 | Takemiya Masaki | Morita Michihiro | Lose | W+R | 6.5 | 2933 | -33 | 
+| 2007-03-15 | 第32期棋聖戦予選 | Takemiya Masaki | Nakamura Shinya | Lose | W+4.5 | 6.5 | 2966 | 370 | 
+| 2007-02-08 | 第55期王座戦予選 | Takemiya Masaki | Iwata Hajime | Win | B+R | 6.5 | 2596 | 10 | 
+| 2007-02-01 | 第46期十段戦予選 | Tsuruyama Atsushi | Takemiya Masaki | Lose | B+R | 6.5 | 2586 | -8 | 
+| 2007-01-25 | 第32期棋聖戦予選 | Kataoka Satoshi | Takemiya Masaki | Win | W+R | 6.5 | 2594 | 25 | 
+| 2007-01-18 | 第63期本因坊戦予選 | Suzuki Ayumi | Takemiya Masaki | Lose | B+R | 6.5 | 2569 | -35 | 
+| 2007-01-11 | 第46期十段戦予選 | Yashiro Kumiko | Takemiya Masaki | Win | W+4.5 | 6.5 | 2604 | 64 | 
+| 2006-12-21 | 第55期王座戦予選 | Ryu Shikun | Takemiya Masaki | Win | W+5.5 | 6.5 | 2540 | -29 | 
+| 2006-12-07 | 第33期天元戦本戦1回戦 | Oya Koichi | Takemiya Masaki | Win | W+R | 6.5 | 2569 | -68 | 
+| 2006-11-16 | 第32期棋聖戦予選 | Takemiya Masaki | Sakai Maki | Win | B+R | 6.5 | 2637 | -3 | 
+| 2006-10-26 | 第32期棋聖戦予選 | Takekiyo Isamu | Takemiya Masaki | Win | W+R | 6.5 | 2640 | -107 | 
+| 2006-10-05 | 第32期名人戦予選 | Takemiya Masaki | Hikosaka Naoto | Lose | W+8.5 | 6.5 | 2747 | -11 | 
+| 2006-09-21 | 第55期王座戦予選 | Ishida Yoshio | Takemiya Masaki | Win | W+4.5 | 6.5 | 2758 | 39 | 
+| 2006-09-14 | 第32期天元戦挑戦者決定戦 | Yamashita Keigo | Takemiya Masaki | Lose | B+R | 6.5 | 2719 | -39 | 
+| 2006-08-31 | 第32期名人戦予選 | Takemiya Masaki | Takei Takashi | Win | B+R | 6.5 | 2758 | 11 | 
+| 2006-08-24 | 第55期王座戦予選 | Nishimura Keiji | Takemiya Masaki | Win | W+0.5 | 6.5 | 2747 | -14 | 
+| 2006-08-17 | 第32期碁聖戦予選 | Takemiya Masaki | Kono Mitsuki | Lose | W+R | 6.5 | 2761 | -75 | 
+| 2006-07-27 | 第32期天元戦本戦準決勝 | Takao Shinji | Takemiya Masaki | Win | W+R | 6.5 | 2836 | 19 | 
+| 2006-07-20 | 第32期名人戦予選 | Takemiya Masaki | Arimura Hiroshi | Win | B+R | 6.5 | 2817 | -61 | 
+| 2006-06-29 | 第32期天元戦本戦3回戦 | Takemiya Masaki | Imamura Toshiya | Win | B+R | 6.5 | 2878 | -159 | 
+| 2006-05-25 | 第32期名人戦予選 | Takemiya Masaki | Hashimoto Yujiro | Win | B+R | 6.5 | 3037 | 62 | 
+| 2006-03-30 | 第32期天元戦本戦2回戦 | Yamashiro Hiroshi | Takemiya Masaki | Win | W+4.5 | 6.5 | 2975 | 15 | 
+| 2006-03-16 | 第31期碁聖戦本戦3回戦 | Takemiya Masaki | Yamashita Keigo | Lose | W+R | 6.5 | 2960 | -39 | 
+| 2006-03-09 | 第62期本因坊戦予選 | Mizokami Tomochika | Takemiya Masaki | Lose | B+4.5 | 6.5 | 2999 | -24 | 
+| 2006-02-23 | 第31期棋聖戦予選 | Hoshino Masaki | Takemiya Masaki | Lose | B+1.5 | 6.5 | 3023 | 4 | 
+| 2006-02-16 | 第32期天元戦本戦1回戦 | Honda Kunihisa | Takemiya Masaki | Win | W+1.5 | 6.5 | 3019 | 14 | 
+| 2006-02-09 | 第62期本因坊戦予選 | Fukui Masaaki | Takemiya Masaki | Win | W+R | 6.5 | 3005 | 11 | 
+| 2006-01-26 | 第45期十段戦予選 | Otake Hideo | Takemiya Masaki | Lose | B+2.5 | 6.5 | 2994 | -58 | 
+| 2006-01-19 | 第31期棋聖戦予選 | Takemiya Masaki | Kataoka Satoshi | Win | B+R | 6.5 | 3052 | 114 | 
+| 2006-01-12 | 第31期碁聖戦本戦2回戦 | Takemiya Masaki | Awaji Shuzo | Win | B+2.5 | 6.5 | 2938 | 146 | 
+| 2005-12-22 | 第19回世界囲碁選手権富士通杯国内予選 | Rin Kaiho | Takemiya Masaki | Lose | B+5.5 | 6.5 | 2792 | -335 | 
+| 2005-12-15 | 第54期王座戦予選 | Mizokami Tomochika | Takemiya Masaki | Lose | B+2.5 | 6.5 | 3127 | 3127 | 
+| 2005-12-08 | 第31期碁聖戦本戦1回戦 | Hikosaka Naoto | Takemiya Masaki | Win | W+R | 6.5 | missing | 0 | 
+| 2005-12-01 | 第62期本因坊戦予選 | Takemiya Masaki | Suzuki Isao | Win | B+R | 6.5 | missing | 0 | 
+| 2005-11-24 | 第31期棋聖戦予選 | Takemiya Masaki | Rin Kanketsu | Win | B+R | 6.5 | missing | 0 | 
+| 2005-11-10 | 第19回世界囲碁選手権富士通杯国内予選 | Takemiya Masaki | Nakano Hironari | Win | B+10.5 | 6.5 | missing | 0 | 
+| 2005-11-03 | 第32期天元戦予選 | Mimura Tomoyasu | Takemiya Masaki | Win | W+0.5 | 6.5 | missing | 0 | 
+| 2005-10-27 | 第31期棋聖戦予選 | Nakamura Hidehito | Takemiya Masaki | Win | W+R | 6.5 | missing | 0 | 
+| 2005-10-20 | 第54期王座戦予選 | Takemiya Masaki | Izumitani Hideo | Win | B+R | 6.5 | missing | 0 | 
+| 2005-10-13 | 第45期十段戦予選 | Takemiya Masaki | Mizokami Tomochika | Win | B+8.5 | 6.5 | missing | 0 | 
+| 2004-09-10 | 第24期NECカップ囲碁トーナメント戦1回戦 | Kobayashi Koichi | Takemiya Masaki | Lose | B+3.5 | 6.5 | missing | -2570 | 
+| 2004-05-13 | 第29期棋聖戦予選 | Takemiya Masaki | Yuki Satoshi | Lose | W+5.5 | 6.5 | 2570 | 130 | 
+| 2003-12-18 | 第30期天元戦本戦0回戦 | Michael Redmond | Takemiya Masaki | Lose | B+R | 6.5 | 2440 | 267 | 
+| 2003-08-07 | 第28期名人戦リーグ | Takemiya Masaki | O Rissei | Lose | W+4.5 | 6.5 | 2173 | 169 | 
+| 2003-07-10 | 第28期名人戦リーグ | Takemiya Masaki | Ryu Shikun | Win | B+R | 6.5 | 2004 | 2004 | 
+| 2003-06-12 | 第28期名人戦リーグ | Takemiya Masaki | O Meien | Lose | W+R | 6.5 | missing | 0 | 
+| 2003-05-08 | 第28期名人戦リーグ | Takemiya Masaki | Cho U | Lose | W+8.5 | 6.5 | missing | 0 | 
+| 2003-03-06 | 第28期名人戦リーグ | Rin Kaiho | Takemiya Masaki | Lose | B+0.5 | 6.5 | missing | 0 | 
+| 2003-02-13 | 第29期天元戦本戦1回戦 | Hane Yasumasa | Takemiya Masaki | Lose | B+R | 6.5 | missing | 0 | 
+| 2002-12-05 | 第28期碁聖戦本戦0回戦 | Kobayashi Satoru | Takemiya Masaki | Lose | B+9.5 | 6.5 | missing | 0 | 
+| 2002-11-28 | 第28期名人戦リーグ | Yamashita Keigo | Takemiya Masaki | Lose | B+R | 6.5 | missing | 0 | 
+| 2002-11-07 | 第28期名人戦予選 | Takemiya Masaki | Kudo Norio | Win | B+R | 6.5 | missing | 0 | 
+| 2002-08-28 | 第7期三星杯1回戦 | Wang Lei (b) | Takemiya Masaki | Lose | B+6.5 | 6.5 | missing | 0 | 
+| 2000-11-29 | 第2回農心辛ラーメン杯世界囲碁最強戦第8戦 | Chang Hao | Takemiya Masaki | Lose | B+9.5 | 6.5 | missing | 0 | 
+| 2000-11-28 | 第2回農心辛ラーメン杯世界囲碁最強戦第7戦 | Mok Jinseok | Takemiya Masaki | Win | W+10.5 | 6.5 | missing | 0 | 
+| 2000-05-02 | 第4回応氏杯世界選手権2回戦 | Takemiya Masaki | Chang Hao | Lose | W+R | 7.5 | missing | 0 | 
+| 1996-04-28 | 第3回応氏杯世界選手権3回戦 | Takemiya Masaki | Rin Kaiho | Lose | W+R | 7.5 | missing | 0 | 
+| 1996-04-26 | 第3回応氏杯世界選手権2回戦 | Takemiya Masaki | Liu Xiaoguang | Win | B+7 | 7.5 | missing | 0 | 
+| 1992-07-17 | 第2回応氏杯世界選手権3回戦 | Takemiya Masaki | Seo Bongsoo | Lose | W+9 | 7.5 | missing | 0 | 
+| 1992-07-15 | 第2回応氏杯世界選手権2回戦 | O Meien | Takemiya Masaki | Win | W+R | 7.5 | missing | 0 | 
+| 1989-08-12 | 第1回テレビアジア選手権 | Takemiya Masaki | Kim Heejung | Win | B+R | 6.5 | missing | 0 | 
+| 1988-08-21 | 第1回応氏杯世界選手権1回戦 | Takemiya Masaki | Jiang Zhujiu | Lose | W+7 | 7.5 | missing | missing |
 
 
 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-24 | 第60期十段戦予選 | Mochizuki Kenichi | Yoda Norimoto | Lose | B+3.5 | 6.5 | 3200 | 10 | 
 | 2021-06-10 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Mutsuura Yuta | Win | B+R | 6.5 | 3190 | 24 | 
 | 2021-05-10 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Onishi Ryuhei | Win | B+R | 6.5 | 3166 | 16 | 
 | 2021-04-26 | 第60期十段戦予選 | Yoda Norimoto |  | Win | B+R | 6.5 | 3150 | 0 | 

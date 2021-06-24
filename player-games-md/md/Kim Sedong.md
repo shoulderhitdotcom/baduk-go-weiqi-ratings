@@ -5,182 +5,183 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第26回GSカルテックス杯プロ棋戦2回戦 | Kang Dongyun | Kim Sedong | W+R | 2021-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nSMWg9uWIAIpfKk1JXW1gA%3D%3D) | 
-| 第4期韓国竜星戦2回戦 | Kim Sedong | Choi Cheolhan | W+9.5 | 2021-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FyNllyxiUbEeBWjxEe2qyw%3D%3D) | 
-| 第26回GSカルテックス杯プロ棋戦1回戦 | Han Sanghoon | Kim Sedong | W+R | 2021-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c4ztgX6j0Ji%2F%2BmNdMfETrg%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Hyun Yoobin | Kim Sedong | W+R | 2021-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L%2B0SHiG7rrai8WKpnmFo7g%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Kim Sedong | Shin Jaeweon | B+R | 2021-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ClkYpEmGqf6%2ButKmeiqldA%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Baek Hyeonwoo | Kim Sedong | B+R | 2021-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VJAdwltKnTo2%2FdyYeKe9CQ%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Kim Sedong | Lee Hobum | B+R | 2021-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2arLawih63tj4NxytQYV2A%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Lee Changseok | Kim Sedong | W+R | 2021-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UFX1PJaW9X1pcKeai0WQPA%3D%3D) | 
-| 第4期韓国竜星戦1回戦 | Kim Sedong | Park Joonhoon | B+R | 2021-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LR6WqKyBFWNkQbeIVeGXyQ%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Kim Sedong | Song Gyusang | B+R | 2021-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T3tRuLSkHr8%2B4%2BbWcJWxgA%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Kim Sedong | Gon Jiwoo | B+R | 2021-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=flp5pCwIwwz3KEimLN1UIw%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Kim Sedong | Oh Yujin | B+R | 2021-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JvwWB%2BOIAIJE9DiYgAir9A%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Kim Sedong | Shen Zaiyi | W+R | 2021-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ALhbRZmI9O5vvJuvnWaRTA%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Kim Sedong | missing | B+3.5 | 2021-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3e%2Ff%2Bmw6TFGdDG8a2uBkxQ%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Kim Sedong | Moon Minjong | B+R | 2021-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6PC9urBIPpkaHtyVwngYGA%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Kim Sedong | Kim Hyeongwoo | B+R | 2021-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TIlZxKNrdFi5YVYA6VePZw%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Kim Sedong | Han Sanghoon | W+0.5 | 2021-01-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FoN0W02S%2BIRliuEtrlcUMw%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Baek Hyeonwoo | Kim Sedong | B+R | 2020-12-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7%2FJcpV%2FVQptztB72RhTRvA%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Kim Sedong | Kim Sangcheon | B+R | 2020-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ERH1zOZbq%2Fn2vOqXSzm1Sw%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Song Gyusang | Kim Sedong | B+R | 2020-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FY8kDHzcvaoXDhxjVFGA7A%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Kim Sedong | Kim Sonjin | B+R | 2020-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uq6V4BndyR9VAU%2BZKpI2pw%3D%3D) | 
-| 2020-2021KBフューチャーズリーグ | Oh Yujin | Kim Sedong | W+R | 2020-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SXGKy1uq%2BbZjYbueWgrbRA%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Kim Sedong | Lee Wondo | B+R | 2020-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=194uBQL%2BabSjQN8bKqiRRw%3D%3D) | 
-| 第25回三星火災杯韓国一般枠予選 | Kim Sedong | An Sungjoon | W+0.5 | 2020-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RbPKm9pJUzUEq1RMv1UepQ%3D%3D) | 
-| 第25回LG杯韓国予選 | Lee Yeongkyu | Kim Sedong | B+R | 2020-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0mQtTJMM3NqXxcQaGPcsYw%3D%3D) | 
-| 第25回LG杯韓国予選 | missing | Kim Sedong | W+R | 2020-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bCyLZao2S4b818ksmOtNpg%3D%3D) | 
-| 第25回LG杯韓国予選 | Kim Sedong | You Byungyong | B+R | 2020-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8UNVTUZCWXddOyYJMsCt1g%3D%3D) | 
-| 2019-2020KBフューチャーズリーグ第18節第4試合第3局 | Kim Sedong | Lee Hoseong | B+1.5 | 2020-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xr%2F5nx3POmlWYrAP2pjjqA%3D%3D) | 
-| 2019-2020KBフューチャーズリーグ第16節第1試合第3局 | Kim Sedong | missing | B+R | 2020-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZO9SL1U5TuXLRXGSIm0A%2BQ%3D%3D) | 
-| 2019-2020KBフューチャーズリーグ第15節第2試合第2局 | Kim Sedong | Choi Kyeongho | B+R | 2020-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xQk6DXz7JTM4oOPRfotegw%3D%3D) | 
-| 2019-2020KBフューチャーズリーグ第14節第3試合第1局 | Kim Sedong | missing | W+R | 2020-01-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EZoGRnpAYL8JTFyRUG9j4w%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第14節第3試合第5局 | Kim Sedong | Park Sangjin | W+7.5 | 2020-01-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P5REsQ9L5HKKj%2FR7NwQV%2FQ%3D%3D) | 
-| 2019-2020フューチャーズリーグ第13節第4試合第3局 | Lee Hyunho | Kim Sedong | W+R | 2020-01-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zgzoW561GjIaeUgNviGMYw%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第13節第4試合第2局 | Kim Sedong | Lee Changho | B+R | 2019-12-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UVAz7ceLqa1phxYK4p79Sg%3D%3D) | 
-| 2019-2020フューチャーズリーグ第12節第1試合第2局 | Kim Sedong | missing | B+R | 2019-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6%2BAR%2FbPuuiN6%2BqYd1anYvQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第12節第1試合第2局 | Kim Myounghoon | Kim Sedong | B+R | 2019-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C5cA03fHugx1GQw8siOu6A%3D%3D) | 
-| 2019-2020フューチャーズリーグ第11節第2試合第1局 | Min Sangyoun | Kim Sedong | W+R | 2019-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I5MBpLmOvkWo%2F03%2B41%2FuOg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第11節第2試合第5局 | Kim Sedong | Park Hamin | W+4.5 | 2019-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BBpKfVlr46HZ%2BF6T9rM5uw%3D%3D) | 
-| 2019-2020フューチャーズリーグ第10節第4試合第3局 | Kim Sedong | Kim Sangcheon | W+R | 2019-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mkzv6Ue%2BQvFC%2F7CRewf7vg%3D%3D) | 
-| 2019-2020フューチャーズリーグ第9節第1試合第3局 | Kim Sedong | missing | B+R | 2019-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VfgiIgcfXmmzhxv1KJpsvg%3D%3D) | 
-| 2019-2020フューチャーズリーグ第7節第4試合第2局 | Kim Sedong | Hong Kipyo | W+1.5 | 2019-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=49p8WbVFPDuH2LZ4PyPDcA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第7節第4試合第5局 | Choi Jaeyoung | Kim Sedong | B+R | 2019-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7bBYSloFJEhMyKMPk9ZG0g%3D%3D) | 
-| 2019-2020フューチャーズリーグ第6節第3試合第3局 | Kim Sedong | Choi Kyeongho | W+0.5 | 2019-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B6teVZETfB9bUiUJCejVVw%3D%3D) | 
-| 2019-2020フューチャーズリーグ第5節第2試合第3局 | Kim Sedong | missing | B+R | 2019-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S710fLoHXofdOrgoUvBJwQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第5節第2試合第1局 | Kim Sedong | Park Sangjin | W+1.5 | 2019-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mJClilsMc9mNEKVeL9Tr7A%3D%3D) | 
-| 2019-2020フューチャーズリーグ第4節第1試合第1局 | Lee Chungyu | Kim Sedong | W+R | 2019-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BJO4KbwWbHVzRSn%2BFM3Llw%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第4節第1試合第5局 | Yun Chanhee | Kim Sedong | B+R | 2019-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TqErOmABIogK21Su5XLndg%3D%3D) | 
-| 2019-2020フューチャーズリーグ第3節第4試合第1局 | Kim Sedong | Choi Wongyong | B+R | 2019-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rmLvOF%2FmAQqLhQL3UYNSIA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第3節第4試合第2局 | Kim Sedong | Lee Yeongkyu | W+R | 2019-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tdU4Y9WUDMsHimUAsxZNgQ%3D%3D) | 
-| 2019-2020フューチャーズリーグ第2節第3試合第3局 | Kim Sedong | missing | B+R | 2019-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=inAfU3CxIGJwTzD4qXe9xA%3D%3D) | 
-| 2019-2020フューチャーズリーグ第1節第1試合第3局 | Kim Sangcheon | Kim Sedong | B+R | 2019-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GBl5ZiFMEl4lOS5yVRpJFA%3D%3D) | 
-| 2019年囲碁テレビ杯早碁戦予選2回戦 | Han Seungjoo | Kim Sedong | B+R | 2019-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n0rvoGuW0qvtUckbYA9duA%3D%3D) | 
-| 第24回LG杯統合予選1回戦 | missing | Kim Sedong | B+0.5 | 2019-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=su1IBrMs3JfhK9JoLVkeMA%3D%3D) | 
-| 第2期韓国竜星戦32強戦-3 | Na Hyun | Kim Sedong | B+R | 2019-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k4YzVYN8Ec7osU6RDrdpWQ%3D%3D) | 
-| 第38回KBS杯囲碁王戦1回戦 | Hong Seongji | Kim Sedong | B+1.5 | 2019-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Ol4pMOt0gmuzyrZRRgtNA%3D%3D) | 
-| 2018年韓国囲碁リーグ準プレーオフ | Park Geunho | Kim Sedong | B+R | 2018-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uu1FzEZ%2FXtwfLQaKoq402Q%3D%3D) | 
-| 2018年フューチャーズリーグ | missing | Kim Sedong | W+R | 2018-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=af43OG8tZEnYeVsEAg9bRQ%3D%3D) | 
-| 2018年フューチャーズリーグ | Kim Sedong | Lee Hoseong | B+R | 2018-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vB4VX9wZ5Gq0QI%2Bf6wTweg%3D%3D) | 
-| 2018年韓国囲碁リーグ第13節 | Park Junghwan | Kim Sedong | B+R | 2018-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dtpic1PxnilmDGNnIpBhuA%3D%3D) | 
-| 2018年フューチャーズリーグ | Kim Sedong | Lee Chungyu | B+0.5 | 2018-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nJt76X2p5c%2FCOHSoG2XvwQ%3D%3D) | 
-| 2018年韓国囲碁リーグ第12節 | Kim Sedong | Na Hyun | B+R | 2018-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F8C%2Bj2u4Lv6Av1bd0bl7Lg%3D%3D) | 
-| 2018年フューチャーズリーグ | Song Gyusang | Kim Sedong | W+R | 2018-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uRj6lw5cMb6WeiPXGQ1YYA%3D%3D) | 
-| 2018年フューチャーズリーグ | Choi Kyeongho | Kim Sedong | B+0.5 | 2018-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9KZVqx7lo58zNIMX%2BmPzRg%3D%3D) | 
-| 2018年韓国囲碁リーグ第10節 | Han Sanghoon | Kim Sedong | B+R | 2018-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VXu00hf%2B8lAFAerwQYtMkQ%3D%3D) | 
-| 2018年フューチャーズリーグ | Jin Siyoung | Kim Sedong | W+R | 2018-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kS5U%2FAmBeSuLnBd%2BHo%2FSxw%3D%3D) | 
-| 2018年フューチャーズリーグ | Kim Sedong | Kang Hun | B+R | 2018-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7XrIK2o6ZjqfCTuU72iBPw%3D%3D) | 
-| 2018年フューチャーズリーグ | Kim Sedong | Park Sangjin | W+4.5 | 2018-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DfsdeKc%2B%2BZ4ARkDvlEMirw%3D%3D) | 
-| 2018年フューチャーズリーグ | Kim Sedong | Wi Taewoong | W+R | 2018-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TjlcLAAmgejyn6weEi70FQ%3D%3D) | 
-| 2018年フューチャーズリーグ | missing | Kim Sedong | W+R | 2018-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aD7fw9F49WOD1eYLNRc3zA%3D%3D) | 
-| 2018年フューチャーズリーグ | Lee Wondo | Kim Sedong | B+R | 2018-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cgx%2BrB67b3NFvKsTlm3X9A%3D%3D) | 
-| 2018年韓国囲碁リーグ第4節 | Lee Changho | Kim Sedong | W+9.5 | 2018-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rB5lcMIkjzVl2QULzZga%2Fg%3D%3D) | 
-| 2018年フューチャーズリーグ | Kim Sedong | Choi Kyeongho | B+R | 2018-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r85RQ3OINO9jzw4MX9Jkng%3D%3D) | 
-| 2018年フューチャーズリーグ | Kim Sedong | An Joyeong | B+R | 2018-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EIuFLom5lAXqD6MtIrwdWA%3D%3D) | 
-| 2018年フューチャーズリーグ | You Byungyong | Kim Sedong | B+1.5 | 2018-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LBrGRS1enD7kBVLFAuvfTA%3D%3D) | 
-| 2018年韓国囲碁リーグ第1節 | Park Geunho | Kim Sedong | W+R | 2018-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=93VGSM1aN9cO%2BUzddV24%2Fw%3D%3D) | 
-| 第37回KBS杯囲碁王戦32強戦 | Kim Sedong | On Sojin | W+R | 2018-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3rYaS2AGZLCXPIq6Q3PESw%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Sedong | Ryu Minhyung | W+R | 2015-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lKnlhwV6nkik428r5MwdRw%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Sedong | Park Junghwan | W+R | 2015-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wVDcPjhA%2FitlfhWaM7RsEg%3D%3D) | 
-| 第2回夢百合杯世界オープン戦3回戦 | Kim Sedong | Rong Yi | W+0.5 | 2015-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WG%2B3%2F718kuv8VwHDystSag%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Sedong | Cho Hanseung | W+R | 2015-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HMf2GpI4OVCMv8hKXHauNA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Sedong | Park Seunghwa | B+R | 2015-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iX4DdymvrhVUEhPtUdD6rg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Dongho | Kim Sedong | W+R | 2015-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZrxSHtRRG5Y68fzIJqgM0Q%3D%3D) | 
-| 第34回KBS杯囲碁王戦3回戦 | Kim Sedong | An Sungjoon | W+R | 2015-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A8s20xSgU12FkkStu9IzMg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Sedong | missing | B+0.5 | 2015-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ccUXx3QuOAjCWE7ruKcong%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Sedong | Paek Hongseok | B+R | 2015-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ng%2BcgXEJ6oZwZBa2Ad8kZQ%3D%3D) | 
-| 第34回KBS杯囲碁王戦2回戦 | Kim Sedong | Kim Yoonyoung | B+R | 2015-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SPfgechfWTKfTiH%2BnQ60Yg%3D%3D) | 
-| 第2回夢百合杯世界オープン戦2回戦 | Kim Sedong | An Jungki | B+R | 2015-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8azZz7Uuy0t%2FZkqOQltV%2BA%3D%3D) | 
-| 第2回夢百合杯世界オープン戦1回戦 | Kim Sedong | Alexander Dinerchtein | B+R | 2015-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bc%2FuCGVMOb7bxcSmAMUfxg%3D%3D) | 
-| 2015年韓国囲碁リーグ | missing | Kim Sedong | W+R | 2015-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vr1oLLn8PRF4En%2F%2BS45acg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Sedong | Byun Sangil | B+R | 2015-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qZMhKVkA6aPB0aoRrOaNnA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Sedong | Park Junghwan | W+R | 2015-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sm6RRC6%2FnM2n4UYyYJGCGg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Mok Jinseok | Kim Sedong | B+1.5 | 2015-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mMiJVlzhcJ%2BcsKvtjy%2BYxA%3D%3D) | 
-| 第34回KBS杯囲碁王戦1回戦 | Kim Sedong | Choi Myeonghun | B+1.5 | 2015-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cHXMRyXtSatAuyJNtGF9wQ%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Seunghwa | Kim Sedong | B+R | 2015-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cY5bwVQrSaDAp73S7SvZ2w%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Sedong | Choi Cheolhan | B+R | 2015-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nh0XmN6YtGRkazP2IHE39A%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Sedong | Han Seungjoo | B+R | 2015-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l2M3y%2F0YGikQhFFwPgwwzw%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Sedong | Ahn Kukhyun | W+2.5 | 2015-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=luUVz23z%2Fz0B%2Bg8FSDYQlA%3D%3D) | 
-| 第59期国手戦（韓国）予選 | Kim Sooyong | Kim Sedong | B+R | 2015-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BVcYSU%2Bzjs%2B9kQh1eRX8eQ%3D%3D) | 
-| 第20期GSカルテックス杯プロ棋戦1回戦 | Kim Sedong | missing | W+0.5 | 2015-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jXa4YxzuvUqoycyW8M1ZhQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kim Myounghoon | Kim Sedong | B+R | 2014-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fF6C6pZWMyRauRiRaQPzww%3D%3D) | 
-| 2014年韓国囲碁リーグ | Lee Hobum | Kim Sedong | W+R | 2014-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b2Mi5xCFC3HarT8GacNk0A%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kim Sedong | Lee Jihyun | W+R | 2014-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kUI0PvOXiy64F1OzeY%2FuIA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kim Sedong | Han Sanghoon | W+R | 2014-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aja2o9OCWClExOuz7TTSWA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kim Sedong | Kim Seongjae | W+1.5 | 2014-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QJBXN3%2BXXztmPDBXVKUlZA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kim Sedong | Park Jinsol | B+R | 2014-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UzKidy2f8xQV%2Ft2j6j3Dkg%3D%3D) | 
-| 2014年韓国囲碁リーグ | missing | Kim Sedong | W+R | 2014-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QJEbCmCvAeC03T2tzr1k0A%3D%3D) | 
-| 2014年レッツランパーク杯オープントーナメント1回戦 | Kim Sedong | Kang Dongyun | W+R | 2014-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZGrDWJ9Fo810h4GawDRWkA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Yeonghun | Kim Sedong | W+0.5 | 2014-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XRPPeTczyG7TFgwMaYRmeQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kim Sedong | Lee Changho | B+R | 2014-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XeKOzte1azyWT5fwbknXIg%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kim Sedong | Shin Jinseo | B+0.5 | 2014-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jKJqzEFY0uiNqQBvqvMZ0w%3D%3D) | 
-| 2014年韓国囲碁リーグ | Han Sanghoon | Kim Sedong | B+R | 2014-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QiIwhyBD538NqlSi5n1YbQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kang Yootaek | Kim Sedong | W+R | 2014-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ia4BDJ%2FpRBOkS36qg4l8oA%3D%3D) | 
-| 第33回KBS杯囲碁王戦本戦1回戦 | Kim Sedong | An Sungjoon | W+R | 2014-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GPqR5J0vFswIN1oSXjf17g%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kim Sedong | Ryu Suhang | B+R | 2014-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gxj1dBJuVeBQvYfgwHBXow%3D%3D) | 
-| 2014年韓国囲碁リーグ | Na Hyun | Kim Sedong | W+T | 2014-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z%2BqoqJrGm4%2FwK2pTpPAWIg%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kim Sedong | Kim Dongho | W+3.5 | 2014-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ltp6jedLTzT25x9afRIt%2Fg%3D%3D) | 
-| 第19期GSカルテックス杯プロ棋戦1回戦 | Heo Yongho | Kim Sedong | B+1.5 | 2014-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BagG2oIk9T3xeasXmzNaEg%3D%3D) | 
-| 2013年韓国囲碁リーグ | Kang Yootaek | Kim Sedong | B+R | 2013-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ahe5DUUGNk17nvMTTBbIug%3D%3D) | 
-| 2013年韓国囲碁リーグ | Kim Sedong | Kang Yootaek | W+R | 2013-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cQtqDDTkH9euQL6R8ZutnA%3D%3D) | 
-| 2013年韓国囲碁リーグ | On Sojin | Kim Sedong | W+R | 2013-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FJGy%2BDpB%2Bi04eIgG8xoLww%3D%3D) | 
-| 2013年韓国囲碁リーグ | Lee Hobum | Kim Sedong | B+R | 2013-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w%2BD4Pn%2FlYGuV%2BqFf1p75JQ%3D%3D) | 
-| 2013年韓国囲碁リーグ | Kim Sedong | Han Sanghoon | W+R | 2013-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YqtKV8VQG9dKB7320Xvdzw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Kim Sedong | Choi Cheolhan | B+2.5 | 2013-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qV7w9st8jEXJJWBx0%2BGoWg%3D%3D) | 
-| 2013年韓国囲碁リーグ | Shin Jinseo | Kim Sedong | W+8.5 | 2013-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2IaXLDtwKPmz72bZJfzw3A%3D%3D) | 
-| 2013年韓国囲碁リーグ | Shin Minjun | Kim Sedong | W+R | 2013-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dEakV0K9Vli1htTlNGtrFA%3D%3D) | 
-| 第18回三星火災杯統合予選準決勝 | Gu Lingyi | Kim Sedong | B+R | 2013-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zO8WcfjrDrr8d2dSL7Ncgw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Kim Jiseok | Kim Sedong | B+R | 2013-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8CncMXKYYFz7FmM7P6epUA%3D%3D) | 
-| 第15回農心杯韓国選抜戦 | Kim Sedong | Kim Jiseok | W+0.5 | 2013-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=65uSJ0SBvcwreREf%2FsKxBw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Kim Sedong | Hong Seongji | W+0.5 | 2013-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cbPVLLXBzTmfHGdQ%2FessQA%3D%3D) | 
-| 第15回農心杯韓国選抜戦 | Kim Juho | Kim Sedong | W+R | 2013-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mx50buakG7GEZh0i%2Fwzh7g%3D%3D) | 
-| 2013年韓国囲碁リーグ | missing | Kim Sedong | W+R | 2013-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tk2%2BjLJAoO%2BBSVHya%2B1Ydw%3D%3D) | 
-| 第4期Olleh杯オープン選手権1回戦 | Kim Sedong | Han Seungjoo | B+0.5 | 2013-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KiDHe%2FgAxeMi5HqYG9Lr5g%3D%3D) | 
-| 2013年韓国囲碁リーグ | Kim Seongjae | Kim Sedong | W+R | 2013-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BSJHI1gDI0d1nZw%2FrnD76Q%3D%3D) | 
-| 2013年韓国囲碁リーグ | Byun Sangil | Kim Sedong | B+R | 2013-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XsrIQdHXTszP29PIu0s4Hg%3D%3D) | 
-| 2013年韓国囲碁リーグ | Kim Dongho | Kim Sedong | W+R | 2013-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mpTtDLlNg2gMBZWw%2FK6sNg%3D%3D) | 
-| 第57期国手戦（韓国）予選 | Kim Sedong | Park Yeonghun | W+R | 2013-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U6AGgm0knA74I45OjrjPVA%3D%3D) | 
-| 2013年韓国囲碁リーグ | Park Yeonghun | Kim Sedong | W+R | 2013-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lqh4k9PpAiC11PfsFdrdQQ%3D%3D) | 
-| 第8期圓益杯十段戦3回戦 | Kim Sedong | Kim Seongjae | W+R | 2013-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hn6E2j3OG04iZlj1rRzJ%2FA%3D%3D) | 
-| 第8期圓益杯十段戦2回戦 | missing | Kim Sedong | W+R | 2013-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gb0CwxXSOtmM5EGq%2FzG36A%3D%3D) | 
-| 第8期圓益杯十段戦1回戦 | Song Taekon | Kim Sedong | W+1.5 | 2012-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZyqIl4Bu7TmgzyPAQXsH9w%3D%3D) | 
-| 2012年韓国囲碁リーグ | Kim Sedong | Paek Hongseok | W+R | 2012-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r8fzHofeXDnGY66KwtopzA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Han Sanghoon | Kim Sedong | W+R | 2012-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1W%2FBSZWZR2oa0hJtWbKenQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Kim Sedong | Cho Hanseung | W+R | 2012-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6XsoTFwFcix9M%2FE7dTLdoA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Junghwan | Kim Sedong | B+R | 2012-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oqn5WDMcbfBkXugEN1KK%2BA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Kim Sedong | Byun Sangil | W+3.5 | 2012-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aKITm%2BWs4LzymK2VVpWblQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Kim Sedong | Park Younglong | B+R | 2012-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FA36vn2oYvNE3mR6bKS9hA%3D%3D) | 
-| 第31回KBS杯囲碁王戦敗者復活戦1回戦 | Lee Hobum | Kim Sedong | B+R | 2012-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BAkZiaBtZGeMD97x8H1Iaw%3D%3D) | 
-| 2012年韓国囲碁リーグ | missing | Kim Sedong | B+6.5 | 2012-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qDySBErISX%2FZB64NiTeB8w%3D%3D) | 
-| 第17回三星火災杯統合予選決勝 | missing | Kim Sedong | B+R | 2012-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PidrHkXZ6hDBvAtrydRrFQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Minkyu | Kim Sedong | W+R | 2012-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p3rv8yIlagY5dxBjEzrGPw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Kim Sedong | Lee Yeongkyu | W+R | 2012-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0QJRgYxXRt0m6%2Bp%2Bzi61hw%3D%3D) | 
-| 第56期国手戦（韓国）1回戦 | Choi Cheolhan | Kim Sedong | B+R | 2012-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tTTND54eTUOIQ2TCjJgEfQ%3D%3D) | 
-| 第40期名人戦（韓国）予選 | Kim Sedong | Lee Jihyun | W+0.5 | 2012-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6aqBg9TJlK221uUf2r7LKQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Kim Sedong | missing | B+R | 2012-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dzxoB7YTzeWteY6K5xbobA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Jihyun | Kim Sedong | W+R | 2012-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eCoTjmOYl3fpYwM2%2B3U3Ag%3D%3D) | 
-| 第31回KBS杯囲碁王戦本戦2回戦 | Kim Sedong | Heo Yongho | W+R | 2012-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EB%2B0kKuUJd5K74hs7qj0fQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Kim Sedong | Lee Jungwoo | W+R | 2012-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hV7H4JaRSQBpe7li%2Bi0Sbw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Byun Sangil | Kim Sedong | W+R | 2012-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y8e6%2Fp5uhdEmlQzlql31WQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Kim Sedong | Kim Hyeongwoo | B+R | 2012-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BLaoxladnw9T8IagZ3tSCg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Kim Sedong | missing | B+R | 2012-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sI78FJwUoiNLRPBiDgPyRg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Kang Yootaek | Kim Sedong | W+R | 2012-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KhiyiQ6yCBQSnqvZbP%2B1fQ%3D%3D) | 
-| 第31回KBS杯囲碁王戦本戦1回戦 | Kim Sedong | missing | B+R | 2012-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jqlzuUclud1gQQO9H8Nl2w%3D%3D) | 
-| 第7期圓益杯十段戦3回戦 | Na Hyun | Kim Sedong | B+R | 2012-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PTr6Y4AlXdXQJlvZ21GJkw%3D%3D) | 
-| 第7期圓益杯十段戦2回戦 | Ahn Kukhyun | Kim Sedong | W+R | 2012-01-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZoHmas7OeyShqGYYAG%2F1dA%3D%3D) | 
-| 第30回KBS杯囲碁王戦敗者復活戦3回戦 | Kim Kiyoung | Kim Sedong | B+R | 2012-01-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kC7b%2Fy%2FU9FkD3wIUvhogjw%3D%3D) | 
-| 第30回KBS杯囲碁王戦敗者復活戦2回戦 | Kim Seungjun | Kim Sedong | W+R | 2011-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=okoY3oNECrPfU6BvFKGaFA%3D%3D) | 
-| 第7期圓益杯十段戦1回戦 | Choi Myeonghun | Kim Sedong | W+1.5 | 2011-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=87ygX%2BhcTwXqgAYYlA28Ig%3D%3D) | 
-| 第30回KBS杯囲碁王戦敗者復活戦1回戦 | Park Jinsol | Kim Sedong | W+R | 2011-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y1qk7IQeO75cet%2BYzxLGKA%3D%3D) | 
-| 第30回KBS杯囲碁王戦本戦2回戦 | Kim Sedong | Kang Dongyun | W+R | 2011-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aTR1awWvKpFLltiRRjDlnA%3D%3D) | 
-| 第16期GSカルテックス杯プロ棋戦2回戦 | Kim Sedong | Cho Hanseung | W+1.5 | 2011-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xWPCVVXWgKIw%2F8id17RjxA%3D%3D) | 
-| 第30回KBS杯囲碁王戦本戦1回戦 | Kim Sedong | missing | B+4.5 | 2011-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ArKi2lO0NWdVeEsw%2BTuBHQ%3D%3D) | 
-| 第16期GSカルテックス杯プロ棋戦1回戦 | Park Siyeol | Kim Sedong | W+1.5 | 2011-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FQRZ5UgwkoOfCkk7Cjdesg%3D%3D) | 
-| 第3回BCカード杯世界選手権1回戦 | Kim Sedong | missing | W+R | 2011-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CojflMuDlHz72I8jOB7PfQ%3D%3D) | 
-| 第6期圓益杯十段戦1回戦 | Kim Sedong | Kang Dongyun | W+R | 2010-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wdYIq3gydU4s8qxz96mF7Q%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-24 | 第26回GSカルテックス杯プロ棋戦3回戦 | Kim Sedong | Byun Sangil | Lose | W+5.5 | 6.5 | 3401 | -30 | 
+| 2021-05-14 | 第26回GSカルテックス杯プロ棋戦2回戦 | Kang Dongyun | Kim Sedong | Win | W+R | 6.5 | 3431 | 16 | 
+| 2021-04-21 | 第4期韓国竜星戦2回戦 | Kim Sedong | Choi Cheolhan | Lose | W+9.5 | 6.5 | 3415 | -56 | 
+| 2021-04-08 | 第26回GSカルテックス杯プロ棋戦1回戦 | Han Sanghoon | Kim Sedong | Win | W+R | 6.5 | 3471 | -53 | 
+| 2021-03-07 | 2020-2021フューチャーズリーグ | Hyun Yoobin | Kim Sedong | Win | W+R | 6.5 | 3524 | 7 | 
+| 2021-02-24 | 2020-2021フューチャーズリーグ | Kim Sedong | Shin Jaeweon | Win | B+R | 6.5 | 3517 | -16 | 
+| 2021-02-21 | 2020-2021韓国囲碁リーグ | Baek Hyeonwoo | Kim Sedong | Lose | B+R | 6.5 | 3533 | -98 | 
+| 2021-02-14 | 2020-2021フューチャーズリーグ | Kim Sedong | Lee Hobum | Win | B+R | 6.5 | 3631 | -1 | 
+| 2021-02-13 | 2020-2021韓国囲碁リーグ | Lee Changseok | Kim Sedong | Win | W+R | 6.5 | 3632 | 44 | 
+| 2021-02-09 | 第4期韓国竜星戦1回戦 | Kim Sedong | Park Joonhoon | Win | B+R | 6.5 | 3588 | 34 | 
+| 2021-02-06 | 2020-2021フューチャーズリーグ | Kim Sedong | Song Gyusang | Win | B+R | 6.5 | 3554 | -9 | 
+| 2021-01-30 | 2020-2021フューチャーズリーグ | Kim Sedong | Gon Jiwoo | Win | B+R | 6.5 | 3563 | 27 | 
+| 2021-01-23 | 2020-2021フューチャーズリーグ | Kim Sedong | Oh Yujin | Win | B+R | 6.5 | 3536 | 12 | 
+| 2021-01-21 | 2020-2021韓国囲碁リーグ | Kim Sedong | Shen Zaiyi | Lose | W+R | 6.5 | 3524 | -53 | 
+| 2021-01-17 | 2020-2021フューチャーズリーグ | Kim Sedong |  | Win | B+3.5 | 6.5 | 3577 | 36 | 
+| 2021-01-16 | 2020-2021韓国囲碁リーグ | Kim Sedong | Moon Minjong | Win | B+R | 6.5 | 3541 | -1 | 
+| 2021-01-09 | 2020-2021フューチャーズリーグ | Kim Sedong | Kim Hyeongwoo | Win | B+R | 6.5 | 3542 | 98 | 
+| 2021-01-02 | 2020-2021フューチャーズリーグ | Kim Sedong | Han Sanghoon | Lose | W+0.5 | 6.5 | 3444 | -36 | 
+| 2020-12-31 | 2020-2021韓国囲碁リーグ | Baek Hyeonwoo | Kim Sedong | Lose | B+R | 6.5 | 3480 | -77 | 
+| 2020-12-26 | 2020-2021フューチャーズリーグ | Kim Sedong | Kim Sangcheon | Win | B+R | 6.5 | 3557 | 44 | 
+| 2020-12-20 | 2020-2021フューチャーズリーグ | Song Gyusang | Kim Sedong | Lose | B+R | 6.5 | 3513 | -80 | 
+| 2020-12-13 | 2020-2021フューチャーズリーグ | Kim Sedong | Kim Sonjin | Win | B+R | 6.5 | 3593 | 48 | 
+| 2020-12-09 | 2020-2021KBフューチャーズリーグ | Oh Yujin | Kim Sedong | Win | W+R | 6.5 | 3545 | 23 | 
+| 2020-11-28 | 2020-2021フューチャーズリーグ | Kim Sedong | Lee Wondo | Win | B+R | 6.5 | 3522 | 272 | 
+| 2020-08-29 | 第25回三星火災杯韓国一般枠予選 | Kim Sedong | An Sungjoon | Lose | W+0.5 | 6.5 | 3250 | 231 | 
+| 2020-04-22 | 第25回LG杯韓国予選 | Lee Yeongkyu | Kim Sedong | Lose | B+R | 6.5 | 3019 | 0 | 
+| 2020-04-20 | 第25回LG杯韓国予選 |  | Kim Sedong | Win | W+R | 6.5 | 3019 | -1 | 
+| 2020-04-13 | 第25回LG杯韓国予選 | Kim Sedong | You Byungyong | Win | B+R | 6.5 | 3020 | -107 | 
+| 2020-02-04 | 2019-2020KBフューチャーズリーグ第18節第4試合第3局 | Kim Sedong | Lee Hoseong | Win | B+1.5 | 6.5 | 3127 | -10 | 
+| 2020-01-18 | 2019-2020KBフューチャーズリーグ第16節第1試合第3局 | Kim Sedong |  | Win | B+R | 6.5 | 3137 | 35 | 
+| 2020-01-11 | 2019-2020KBフューチャーズリーグ第15節第2試合第2局 | Kim Sedong | Choi Kyeongho | Win | B+R | 6.5 | 3102 | 19 | 
+| 2020-01-05 | 2019-2020KBフューチャーズリーグ第14節第3試合第1局 | Kim Sedong |  | Lose | W+R | 6.5 | 3083 | -18 | 
+| 2020-01-04 | 2019-2020韓国囲碁リーグ第14節第3試合第5局 | Kim Sedong | Park Sangjin | Lose | W+7.5 | 6.5 | 3101 | -20 | 
+| 2020-01-01 | 2019-2020フューチャーズリーグ第13節第4試合第3局 | Lee Hyunho | Kim Sedong | Win | W+R | 6.5 | 3121 | 18 | 
+| 2019-12-29 | 2019-2020韓国囲碁リーグ第13節第4試合第2局 | Kim Sedong | Lee Changho | Win | B+R | 6.5 | 3103 | 363 | 
+| 2019-12-21 | 2019-2020フューチャーズリーグ第12節第1試合第2局 | Kim Sedong |  | Win | B+R | 6.5 | 2740 | 18 | 
+| 2019-12-19 | 2019-2020韓国囲碁リーグ第12節第1試合第2局 | Kim Myounghoon | Kim Sedong | Lose | B+R | 6.5 | 2722 | -11 | 
+| 2019-12-14 | 2019-2020フューチャーズリーグ第11節第2試合第1局 | Min Sangyoun | Kim Sedong | Win | W+R | 6.5 | 2733 | 21 | 
+| 2019-12-13 | 2019-2020韓国囲碁リーグ第11節第2試合第5局 | Kim Sedong | Park Hamin | Lose | W+4.5 | 6.5 | 2712 | 25 | 
+| 2019-12-11 | 2019-2020フューチャーズリーグ第10節第4試合第3局 | Kim Sedong | Kim Sangcheon | Lose | W+R | 6.5 | 2687 | -24 | 
+| 2019-11-30 | 2019-2020フューチャーズリーグ第9節第1試合第3局 | Kim Sedong |  | Win | B+R | 6.5 | 2711 | -56 | 
+| 2019-11-20 | 2019-2020フューチャーズリーグ第7節第4試合第2局 | Kim Sedong | Hong Kipyo | Lose | W+1.5 | 6.5 | 2767 | -8 | 
+| 2019-11-17 | 2019-2020韓国囲碁リーグ第7節第4試合第5局 | Choi Jaeyoung | Kim Sedong | Lose | B+R | 6.5 | 2775 | -3 | 
+| 2019-11-10 | 2019-2020フューチャーズリーグ第6節第3試合第3局 | Kim Sedong | Choi Kyeongho | Lose | W+0.5 | 6.5 | 2778 | -40 | 
+| 2019-11-02 | 2019-2020フューチャーズリーグ第5節第2試合第3局 | Kim Sedong |  | Win | B+R | 6.5 | 2818 | 75 | 
+| 2019-11-01 | 2019-2020韓国囲碁リーグ第5節第2試合第1局 | Kim Sedong | Park Sangjin | Lose | W+1.5 | 6.5 | 2743 | 33 | 
+| 2019-10-26 | 2019-2020フューチャーズリーグ第4節第1試合第1局 | Lee Chungyu | Kim Sedong | Win | W+R | 6.5 | 2710 | 2710 | 
+| 2019-10-24 | 2019-2020韓国囲碁リーグ第4節第1試合第5局 | Yun Chanhee | Kim Sedong | Lose | B+R | 6.5 | missing | 0 | 
+| 2019-10-23 | 2019-2020フューチャーズリーグ第3節第4試合第1局 | Kim Sedong | Choi Wongyong | Win | B+R | 6.5 | missing | 0 | 
+| 2019-10-20 | 2019-2020韓国囲碁リーグ第3節第4試合第2局 | Kim Sedong | Lee Yeongkyu | Lose | W+R | 6.5 | missing | 0 | 
+| 2019-10-06 | 2019-2020フューチャーズリーグ第2節第3試合第3局 | Kim Sedong |  | Win | B+R | 6.5 | missing | -2743 | 
+| 2019-09-28 | 2019-2020フューチャーズリーグ第1節第1試合第3局 | Kim Sangcheon | Kim Sedong | Lose | B+R | 6.5 | 2743 | -169 | 
+| 2019-04-09 | 2019年囲碁テレビ杯早碁戦予選2回戦 | Han Seungjoo | Kim Sedong | Lose | B+R | 6.5 | 2912 | -14 | 
+| 2019-04-01 | 第24回LG杯統合予選1回戦 |  | Kim Sedong | Lose | B+0.5 | 6.5 | 2926 | -5 | 
+| 2019-03-13 | 第2期韓国竜星戦32強戦-3 | Na Hyun | Kim Sedong | Lose | B+R | 6.5 | 2931 | -31 | 
+| 2019-02-19 | 第38回KBS杯囲碁王戦1回戦 | Hong Seongji | Kim Sedong | Lose | B+1.5 | 6.5 | 2962 | -83 | 
+| 2018-10-30 | 2018年韓国囲碁リーグ準プレーオフ | Park Geunho | Kim Sedong | Lose | B+R | 6.5 | 3045 | -25 | 
+| 2018-10-18 | 2018年フューチャーズリーグ |  | Kim Sedong | Win | W+R | 6.5 | 3070 | -20 | 
+| 2018-09-29 | 2018年フューチャーズリーグ | Kim Sedong | Lee Hoseong | Win | B+R | 6.5 | 3090 | 7 | 
+| 2018-09-27 | 2018年韓国囲碁リーグ第13節 | Park Junghwan | Kim Sedong | Lose | B+R | 6.5 | 3083 | -8 | 
+| 2018-09-22 | 2018年フューチャーズリーグ | Kim Sedong | Lee Chungyu | Win | B+0.5 | 6.5 | 3091 | -1 | 
+| 2018-09-21 | 2018年韓国囲碁リーグ第12節 | Kim Sedong | Na Hyun | Win | B+R | 6.5 | 3092 | 36 | 
+| 2018-09-16 | 2018年フューチャーズリーグ | Song Gyusang | Kim Sedong | Win | W+R | 6.5 | 3056 | 23 | 
+| 2018-09-12 | 2018年フューチャーズリーグ | Choi Kyeongho | Kim Sedong | Lose | B+0.5 | 6.5 | 3033 | -59 | 
+| 2018-09-02 | 2018年韓国囲碁リーグ第10節 | Han Sanghoon | Kim Sedong | Lose | B+R | 6.5 | 3092 | 13 | 
+| 2018-08-26 | 2018年フューチャーズリーグ | Jin Siyoung | Kim Sedong | Win | W+R | 6.5 | 3079 | 42 | 
+| 2018-08-19 | 2018年フューチャーズリーグ | Kim Sedong | Kang Hun | Win | B+R | 6.5 | 3037 | 0 | 
+| 2018-08-15 | 2018年フューチャーズリーグ | Kim Sedong | Park Sangjin | Lose | W+4.5 | 6.5 | 3037 | -2 | 
+| 2018-08-08 | 2018年フューチャーズリーグ | Kim Sedong | Wi Taewoong | Lose | W+R | 6.5 | 3039 | -101 | 
+| 2018-07-22 | 2018年フューチャーズリーグ |  | Kim Sedong | Win | W+R | 6.5 | 3140 | -27 | 
+| 2018-07-14 | 2018年フューチャーズリーグ | Lee Wondo | Kim Sedong | Lose | B+R | 6.5 | 3167 | -63 | 
+| 2018-07-13 | 2018年韓国囲碁リーグ第4節 | Lee Changho | Kim Sedong | Win | W+9.5 | 6.5 | 3230 | 100 | 
+| 2018-06-30 | 2018年フューチャーズリーグ | Kim Sedong | Choi Kyeongho | Win | B+R | 6.5 | 3130 | -32 | 
+| 2018-06-23 | 2018年フューチャーズリーグ | Kim Sedong | An Joyeong | Win | B+R | 6.5 | 3162 | 110 | 
+| 2018-06-16 | 2018年フューチャーズリーグ | You Byungyong | Kim Sedong | Lose | B+1.5 | 6.5 | 3052 | -213 | 
+| 2018-06-15 | 2018年韓国囲碁リーグ第1節 | Park Geunho | Kim Sedong | Win | W+R | 6.5 | 3265 | 3265 | 
+| 2018-05-28 | 第37回KBS杯囲碁王戦32強戦 | Kim Sedong | On Sojin | Lose | W+R | 6.5 | missing | -3019 | 
+| 2015-09-27 | 2015年韓国囲碁リーグ | Kim Sedong | Ryu Minhyung | Lose | W+R | 6.5 | 3019 | -14 | 
+| 2015-09-03 | 2015年韓国囲碁リーグ | Kim Sedong | Park Junghwan | Lose | W+R | 6.5 | 3033 | -10 | 
+| 2015-08-30 | 第2回夢百合杯世界オープン戦3回戦 | Kim Sedong | Rong Yi | Lose | W+0.5 | 7.5 | 3043 | -43 | 
+| 2015-08-28 | 2015年韓国囲碁リーグ | Kim Sedong | Cho Hanseung | Lose | W+R | 6.5 | 3086 | -27 | 
+| 2015-08-22 | 2015年韓国囲碁リーグ | Kim Sedong | Park Seunghwa | Win | B+R | 6.5 | 3113 | 0 | 
+| 2015-08-16 | 2015年韓国囲碁リーグ | Kim Dongho | Kim Sedong | Win | W+R | 6.5 | 3113 | 5 | 
+| 2015-08-10 | 第34回KBS杯囲碁王戦3回戦 | Kim Sedong | An Sungjoon | Lose | W+R | 6.5 | 3108 | -30 | 
+| 2015-07-25 | 2015年韓国囲碁リーグ | Kim Sedong |  | Win | B+0.5 | 6.5 | 3138 | -51 | 
+| 2015-07-18 | 2015年韓国囲碁リーグ | Kim Sedong | Paek Hongseok | Win | B+R | 6.5 | 3189 | 28 | 
+| 2015-07-13 | 第34回KBS杯囲碁王戦2回戦 | Kim Sedong | Kim Yoonyoung | Win | B+R | 6.5 | 3161 | -17 | 
+| 2015-07-09 | 第2回夢百合杯世界オープン戦2回戦 | Kim Sedong | An Jungki | Win | B+R | 7.5 | 3178 | 37 | 
+| 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Kim Sedong | Alexander Dinerchtein | Win | B+R | 7.5 | 3141 | -34 | 
+| 2015-07-02 | 2015年韓国囲碁リーグ |  | Kim Sedong | Win | W+R | 6.5 | 3175 | -5 | 
+| 2015-06-25 | 2015年韓国囲碁リーグ | Kim Sedong | Byun Sangil | Win | B+R | 6.5 | 3180 | -92 | 
+| 2015-06-14 | 2015年韓国囲碁リーグ | Kim Sedong | Park Junghwan | Lose | W+R | 6.5 | 3272 | -17 | 
+| 2015-05-30 | 2015年韓国囲碁リーグ | Mok Jinseok | Kim Sedong | Lose | B+1.5 | 6.5 | 3289 | -56 | 
+| 2015-05-19 | 第34回KBS杯囲碁王戦1回戦 | Kim Sedong | Choi Myeonghun | Win | B+1.5 | 6.5 | 3345 | -23 | 
+| 2015-05-15 | 2015年韓国囲碁リーグ | Park Seunghwa | Kim Sedong | Lose | B+R | 6.5 | 3368 | -10 | 
+| 2015-05-07 | 2015年韓国囲碁リーグ | Kim Sedong | Choi Cheolhan | Win | B+R | 6.5 | 3378 | 35 | 
+| 2015-05-01 | 2015年韓国囲碁リーグ | Kim Sedong | Han Seungjoo | Win | B+R | 6.5 | 3343 | 81 | 
+| 2015-04-23 | 2015年韓国囲碁リーグ | Kim Sedong | Ahn Kukhyun | Lose | W+2.5 | 6.5 | 3262 | -32 | 
+| 2015-03-20 | 第59期国手戦（韓国）予選 | Kim Sooyong | Kim Sedong | Lose | B+R | 6.5 | 3294 | -175 | 
+| 2015-01-29 | 第20期GSカルテックス杯プロ棋戦1回戦 | Kim Sedong |  | Lose | W+0.5 | 6.5 | 3469 | 155 | 
+| 2014-11-13 | 2014年韓国囲碁リーグ | Kim Myounghoon | Kim Sedong | Lose | B+R | 6.5 | 3314 | 101 | 
+| 2014-11-01 | 2014年韓国囲碁リーグ | Lee Hobum | Kim Sedong | Win | W+R | 6.5 | 3213 | 3 | 
+| 2014-10-19 | 2014年韓国囲碁リーグ | Kim Sedong | Lee Jihyun | Lose | W+R | 6.5 | 3210 | -54 | 
+| 2014-10-04 | 2014年韓国囲碁リーグ | Kim Sedong | Han Sanghoon | Lose | W+R | 6.5 | 3264 | -25 | 
+| 2014-09-21 | 2014年韓国囲碁リーグ | Kim Sedong | Kim Seongjae | Lose | W+1.5 | 6.5 | 3289 | -50 | 
+| 2014-09-12 | 2014年韓国囲碁リーグ | Kim Sedong | Park Jinsol | Win | B+R | 6.5 | 3339 | 43 | 
+| 2014-08-24 | 2014年韓国囲碁リーグ |  | Kim Sedong | Win | W+R | 6.5 | 3296 | -4 | 
+| 2014-07-30 | 2014年レッツランパーク杯オープントーナメント1回戦 | Kim Sedong | Kang Dongyun | Lose | W+R | 6.5 | 3300 | -8 | 
+| 2014-07-24 | 2014年韓国囲碁リーグ | Park Yeonghun | Kim Sedong | Win | W+0.5 | 6.5 | 3308 | 58 | 
+| 2014-07-17 | 2014年韓国囲碁リーグ | Kim Sedong | Lee Changho | Win | B+R | 6.5 | 3250 | 24 | 
+| 2014-07-04 | 2014年韓国囲碁リーグ | Kim Sedong | Shin Jinseo | Win | B+0.5 | 6.5 | 3226 | 22 | 
+| 2014-06-19 | 2014年韓国囲碁リーグ | Han Sanghoon | Kim Sedong | Lose | B+R | 6.5 | 3204 | 42 | 
+| 2014-06-05 | 2014年韓国囲碁リーグ | Kang Yootaek | Kim Sedong | Win | W+R | 6.5 | 3162 | 10 | 
+| 2014-06-02 | 第33回KBS杯囲碁王戦本戦1回戦 | Kim Sedong | An Sungjoon | Lose | W+R | 6.5 | 3152 | 52 | 
+| 2014-05-18 | 2014年韓国囲碁リーグ | Kim Sedong | Ryu Suhang | Win | B+R | 6.5 | 3100 | 46 | 
+| 2014-05-01 | 2014年韓国囲碁リーグ | Na Hyun | Kim Sedong | Win | W+T | 6.5 | 3054 | -83 | 
+| 2014-04-26 | 2014年韓国囲碁リーグ | Kim Sedong | Kim Dongho | Lose | W+3.5 | 6.5 | 3137 | -115 | 
+| 2014-01-15 | 第19期GSカルテックス杯プロ棋戦1回戦 | Heo Yongho | Kim Sedong | Lose | B+1.5 | 6.5 | 3252 | -74 | 
+| 2013-12-24 | 2013年韓国囲碁リーグ | Kang Yootaek | Kim Sedong | Lose | B+R | 6.5 | 3326 | -24 | 
+| 2013-12-21 | 2013年韓国囲碁リーグ | Kim Sedong | Kang Yootaek | Lose | W+R | 6.5 | 3350 | -30 | 
+| 2013-12-20 | 2013年韓国囲碁リーグ | On Sojin | Kim Sedong | Win | W+R | 6.5 | 3380 | 118 | 
+| 2013-10-12 | 2013年韓国囲碁リーグ | Lee Hobum | Kim Sedong | Lose | B+R | 6.5 | 3262 | -67 | 
+| 2013-10-03 | 2013年韓国囲碁リーグ | Kim Sedong | Han Sanghoon | Lose | W+R | 6.5 | 3329 | -25 | 
+| 2013-09-21 | 2013年韓国囲碁リーグ | Kim Sedong | Choi Cheolhan | Win | B+2.5 | 6.5 | 3354 | -16 | 
+| 2013-08-29 | 2013年韓国囲碁リーグ | Shin Jinseo | Kim Sedong | Win | W+8.5 | 6.5 | 3370 | 45 | 
+| 2013-08-16 | 2013年韓国囲碁リーグ | Shin Minjun | Kim Sedong | Win | W+R | 6.5 | 3325 | 32 | 
+| 2013-08-06 | 第18回三星火災杯統合予選準決勝 | Gu Lingyi | Kim Sedong | Lose | B+R | 6.5 | 3293 | -19 | 
+| 2013-08-03 | 2013年韓国囲碁リーグ | Kim Jiseok | Kim Sedong | Lose | B+R | 6.5 | 3312 | 47 | 
+| 2013-07-24 | 第15回農心杯韓国選抜戦 | Kim Sedong | Kim Jiseok | Lose | W+0.5 | 6.5 | 3265 | -11 | 
+| 2013-07-20 | 2013年韓国囲碁リーグ | Kim Sedong | Hong Seongji | Lose | W+0.5 | 6.5 | 3276 | 48 | 
+| 2013-07-16 | 第15回農心杯韓国選抜戦 | Kim Juho | Kim Sedong | Win | W+R | 6.5 | 3228 | 69 | 
+| 2013-06-28 | 2013年韓国囲碁リーグ |  | Kim Sedong | Win | W+R | 6.5 | 3159 | 70 | 
+| 2013-06-24 | 第4期Olleh杯オープン選手権1回戦 | Kim Sedong | Han Seungjoo | Win | B+0.5 | 6.5 | 3089 | -53 | 
+| 2013-06-01 | 2013年韓国囲碁リーグ | Kim Seongjae | Kim Sedong | Win | W+R | 6.5 | 3142 | 32 | 
+| 2013-05-10 | 2013年韓国囲碁リーグ | Byun Sangil | Kim Sedong | Lose | B+R | 6.5 | 3110 | -25 | 
+| 2013-04-28 | 2013年韓国囲碁リーグ | Kim Dongho | Kim Sedong | Win | W+R | 6.5 | 3135 | -21 | 
+| 2013-04-25 | 第57期国手戦（韓国）予選 | Kim Sedong | Park Yeonghun | Lose | W+R | 6.5 | 3156 | -7 | 
+| 2013-04-14 | 2013年韓国囲碁リーグ | Park Yeonghun | Kim Sedong | Win | W+R | 6.5 | 3163 | 10 | 
+| 2013-03-04 | 第8期圓益杯十段戦3回戦 | Kim Sedong | Kim Seongjae | Lose | W+R | 6.5 | 3153 | 29 | 
+| 2013-01-08 | 第8期圓益杯十段戦2回戦 |  | Kim Sedong | Win | W+R | 6.5 | 3124 | -212 | 
+| 2012-11-19 | 第8期圓益杯十段戦1回戦 | Song Taekon | Kim Sedong | Win | W+1.5 | 6.5 | 3336 | 56 | 
+| 2012-11-10 | 2012年韓国囲碁リーグ | Kim Sedong | Paek Hongseok | Lose | W+R | 6.5 | 3280 | -9 | 
+| 2012-10-27 | 2012年韓国囲碁リーグ | Han Sanghoon | Kim Sedong | Win | W+R | 6.5 | 3289 | 23 | 
+| 2012-09-23 | 2012年韓国囲碁リーグ | Kim Sedong | Cho Hanseung | Lose | W+R | 6.5 | 3266 | -63 | 
+| 2012-09-13 | 2012年韓国囲碁リーグ | Park Junghwan | Kim Sedong | Lose | B+R | 6.5 | 3329 | 11 | 
+| 2012-08-31 | 2012年韓国囲碁リーグ | Kim Sedong | Byun Sangil | Lose | W+3.5 | 6.5 | 3318 | 30 | 
+| 2012-08-23 | 2012年韓国囲碁リーグ | Kim Sedong | Park Younglong | Win | B+R | 6.5 | 3288 | 16 | 
+| 2012-08-20 | 第31回KBS杯囲碁王戦敗者復活戦1回戦 | Lee Hobum | Kim Sedong | Lose | B+R | 6.5 | 3272 | 6 | 
+| 2012-08-17 | 2012年韓国囲碁リーグ |  | Kim Sedong | Lose | B+6.5 | 6.5 | 3266 | 14 | 
+| 2012-08-07 | 第17回三星火災杯統合予選決勝 |  | Kim Sedong | Lose | B+R | 6.5 | 3252 | -27 | 
+| 2012-08-05 | 2012年韓国囲碁リーグ | Park Minkyu | Kim Sedong | Win | W+R | 6.5 | 3279 | -75 | 
+| 2012-07-28 | 2012年韓国囲碁リーグ | Kim Sedong | Lee Yeongkyu | Lose | W+R | 6.5 | 3354 | -28 | 
+| 2012-07-27 | 第56期国手戦（韓国）1回戦 | Choi Cheolhan | Kim Sedong | Lose | B+R | 6.5 | 3382 | -11 | 
+| 2012-07-18 | 第40期名人戦（韓国）予選 | Kim Sedong | Lee Jihyun | Lose | W+0.5 | 6.5 | 3393 | -37 | 
+| 2012-07-08 | 2012年韓国囲碁リーグ | Kim Sedong |  | Win | B+R | 6.5 | 3430 | 30 | 
+| 2012-06-30 | 2012年韓国囲碁リーグ | Lee Jihyun | Kim Sedong | Win | W+R | 6.5 | 3400 | 62 | 
+| 2012-06-25 | 第31回KBS杯囲碁王戦本戦2回戦 | Kim Sedong | Heo Yongho | Lose | W+R | 6.5 | 3338 | -120 | 
+| 2012-06-10 | 2012年韓国囲碁リーグ | Kim Sedong | Lee Jungwoo | Lose | W+R | 6.5 | 3458 | -67 | 
+| 2012-06-07 | 2012年韓国囲碁リーグ | Byun Sangil | Kim Sedong | Win | W+R | 6.5 | 3525 | 71 | 
+| 2012-05-27 | 2012年韓国囲碁リーグ | Kim Sedong | Kim Hyeongwoo | Win | B+R | 6.5 | 3454 | -9 | 
+| 2012-05-24 | 2012年韓国囲碁リーグ | Kim Sedong |  | Win | B+R | 6.5 | 3463 | 51 | 
+| 2012-05-12 | 2012年韓国囲碁リーグ | Kang Yootaek | Kim Sedong | Win | W+R | 6.5 | 3412 | -86 | 
+| 2012-04-30 | 第31回KBS杯囲碁王戦本戦1回戦 | Kim Sedong |  | Win | B+R | 6.5 | 3498 | -87 | 
+| 2012-02-06 | 第7期圓益杯十段戦3回戦 | Na Hyun | Kim Sedong | Lose | B+R | 6.5 | 3585 | 107 | 
+| 2012-01-03 | 第7期圓益杯十段戦2回戦 | Ahn Kukhyun | Kim Sedong | Win | W+R | 6.5 | 3478 | 63 | 
+| 2012-01-02 | 第30回KBS杯囲碁王戦敗者復活戦3回戦 | Kim Kiyoung | Kim Sedong | Lose | B+R | 6.5 | 3415 | -118 | 
+| 2011-12-19 | 第30回KBS杯囲碁王戦敗者復活戦2回戦 | Kim Seungjun | Kim Sedong | Win | W+R | 6.5 | 3533 | 586 | 
+| 2011-10-27 | 第7期圓益杯十段戦1回戦 | Choi Myeonghun | Kim Sedong | Win | W+1.5 | 6.5 | 2947 | -9 | 
+| 2011-09-26 | 第30回KBS杯囲碁王戦敗者復活戦1回戦 | Park Jinsol | Kim Sedong | Win | W+R | 6.5 | 2956 | 2956 | 
+| 2011-07-18 | 第30回KBS杯囲碁王戦本戦2回戦 | Kim Sedong | Kang Dongyun | Lose | W+R | 6.5 | missing | 0 | 
+| 2011-05-16 | 第16期GSカルテックス杯プロ棋戦2回戦 | Kim Sedong | Cho Hanseung | Lose | W+1.5 | 6.5 | missing | 0 | 
+| 2011-04-04 | 第30回KBS杯囲碁王戦本戦1回戦 | Kim Sedong |  | Win | B+4.5 | 6.5 | missing | 0 | 
+| 2011-02-21 | 第16期GSカルテックス杯プロ棋戦1回戦 | Park Siyeol | Kim Sedong | Win | W+1.5 | 6.5 | missing | 0 | 
+| 2011-01-29 | 第3回BCカード杯世界選手権1回戦 | Kim Sedong |  | Lose | W+R | 6.5 | missing | 0 | 
+| 2010-10-11 | 第6期圓益杯十段戦1回戦 | Kim Sedong | Kang Dongyun | Lose | W+R | 6.5 | missing | missing |
 
 
 

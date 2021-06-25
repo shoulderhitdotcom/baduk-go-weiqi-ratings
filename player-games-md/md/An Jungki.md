@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-25 | 第44期名人戦（韓国）敗者復活戦4回戦 | An Jungki | Lee Changseok | Lose | W+R | 6.5 | 3388 | -13 | 
 | 2021-06-19 | 第44期名人戦（韓国）3回戦 | Park Junghwan | An Jungki | Lose | B+R | 6.5 | 3401 | -18 | 
 | 2021-05-15 | 第44期名人戦（韓国）2回戦 | Choi Jeong | An Jungki | Win | W+0.5 | 6.5 | 3419 | -64 | 
 | 2021-03-27 | 2020-2021韓国囲碁リーグ優勝決定戦第2戦 | Weon Seongjin | An Jungki | Lose | B+R | 6.5 | 3483 | 19 | 

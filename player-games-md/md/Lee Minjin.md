@@ -7,10 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-25 | 第7回韓国女子囲碁リーグ | Lee Minjin | Kim Dayoung | Lose | W+9.5 | 6.5 | 2891 | -23 | 
 | 2021-06-17 | 第7回韓国女子囲碁リーグ |  | Lee Minjin | Win | W+4.5 | 6.5 | 2914 | 18 | 
 | 2021-06-13 | 第7回韓国女子囲碁リーグ | Lee Minjin |  | Lose | W+3.5 | 6.5 | 2896 | -61 | 
-| 2021-06-05 | 第7回韓国女子囲碁リーグ | Cho Hyeyeon | Lee Minjin | Lose | B+R | 6.5 | 2957 | -234 | 
-| 2021-06-05 | 第7回韓国女子囲碁リーグ | Cho Hyeyeon | Lee Minjin | Lose | B+R | 6.5 | 3191 | 189 | 
+| 2021-06-05 | 第7回韓国女子囲碁リーグ | Cho Hyeyeon | Lee Minjin | Lose | B+R | 6.5 | 2957 | -45 | 
 | 2021-05-28 | 第7回韓国女子囲碁リーグ | Lee Minjin |  | Win | B+7.5 | 6.5 | 3002 | 33 | 
 | 2021-05-20 | 第7回韓国女子囲碁リーグ |  | Lee Minjin | Win | W+4.5 | 6.5 | 2969 | -141 | 
 | 2020-11-23 | 第4期韓国製紙女子棋聖戦2回戦 | Choi Jeong | Lee Minjin | Lose | B+R | 6.5 | 3110 | 55 | 

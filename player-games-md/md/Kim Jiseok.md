@@ -7,9 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-25 | 第26回GSカルテックス杯プロ棋戦3回戦 | An Sungjoon | Kim Jiseok | Win | W+2.5 | 6.5 | 3500 | 1 | 
 | 2021-06-19 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Weon Seongjin | Kim Jiseok | Win | W+R | 6.5 | 3499 | 10 | 
-| 2021-06-16 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Seungmin | Kim Jiseok | Win | W+R | 6.5 | 3489 | 2 | 
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Chen Xian | Kim Jiseok | Lose | B+R | 7.5 | 3487 | 1 | 
+| 2021-06-16 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Seungmin | Kim Jiseok | Win | W+R | 6.5 | 3489 | 3 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Chen Xian | Kim Jiseok | Lose | B+R | 7.5 | 3486 | -11 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Lian Xiao | Win | B+R | 7.5 | 3497 | 23 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Liao Yuanhe | Lose | W+R | 7.5 | 3474 | -6 | 
@@ -17,8 +17,8 @@
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Li Weiqing | Lose | W+R | 7.5 | 3491 | -13 | 
 | 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Kim Jiseok | Yang Dingxin | Lose | W+R | 6.5 | 3504 | 0 | 
 | 2021-05-31 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kim Jiseok | Ida Atsushi | Win | B+R | 6.5 | 3504 | -18 | 
-| 2021-05-27 | 第26回GSカルテックス杯プロ棋戦2回戦 | Kim Jiseok | Kim Jinhyu | Win | B+4.5 | 6.5 | 3522 | 3522 | 
-| 2021-05-25 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Kang Dongyun | Lose | W+R | 6.5 | missing | -3520 | 
+| 2021-05-27 | 第26回GSカルテックス杯プロ棋戦2回戦 | Kim Jiseok | Kim Jinhyu | Win | B+4.5 | 6.5 | 3522 | 15 | 
+| 2021-05-25 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Kang Dongyun | Lose | W+R | 6.5 | 3507 | -13 | 
 | 2021-05-20 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Park Junghwan | Lose | W+R | 6.5 | 3520 | -11 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Xie Erhao | Kim Jiseok | Win | W+R | 7.5 | 3531 | -1 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Shi Yue | Kim Jiseok | Win | W+R | 7.5 | 3532 | 3 | 

@@ -7,8 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-19 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Park Taehee | Lose | W+5.5 | 6.5 | 2825 | 7 | 
-| 2021-06-12 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Cho Hyeyeon | Win | B+R | 6.5 | 2818 | -35 | 
+| 2021-06-26 | 第7回韓国女子囲碁リーグ | Lee Youngjoo |  | Win | B+R | 6.5 | 2855 | 30 | 
+| 2021-06-19 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Park Taehee | Lose | W+5.5 | 6.5 | 2825 | -28 | 
 | 2021-06-12 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Cho Hyeyeon | Win | B+R | 6.5 | 2853 | 44 | 
 | 2021-06-04 | 第7回韓国女子囲碁リーグ | Lee Youngjoo |  | Win | B+R | 6.5 | 2809 | 14 | 
 | 2021-05-27 | 第7回韓国女子囲碁リーグ | Kim Miri | Lee Youngjoo | Lose | B+9.5 | 6.5 | 2795 | 14 | 

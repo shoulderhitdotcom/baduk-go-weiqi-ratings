@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Han Sanghoon | Park Minkyu | Win | W+R | 6.5 | 3392 | 33 | 
 | 2021-06-23 | 第4期韓国竜星戦3回戦 | Park Minkyu | Shin Jinseo | Lose | W+R | 6.5 | 3359 | -47 | 
 | 2021-05-03 | 第26回LG杯韓国予選 | Heo Yongho | Park Minkyu | Lose | B+R | 6.5 | 3406 | -85 | 
 | 2021-04-17 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Weon Seongjin | Park Minkyu | Lose | B+R | 6.5 | 3491 | -7 | 

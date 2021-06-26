@@ -7,12 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-19 | 第7回韓国女子囲碁リーグ | Oh Yujin | Kim Hyeoimin | Lose | B+0.5 | 6.5 | 2979 | -6 | 
-| 2021-06-12 | 第7回韓国女子囲碁リーグ | Kim Eunseon | Kim Hyeoimin | Win | W+R | 6.5 | 2985 | -4 | 
+| 2021-06-26 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Hyeoimin | Lose | B+R | 6.5 | 2965 | -14 | 
+| 2021-06-19 | 第7回韓国女子囲碁リーグ | Oh Yujin | Kim Hyeoimin | Lose | B+0.5 | 6.5 | 2979 | -10 | 
 | 2021-06-12 | 第7回韓国女子囲碁リーグ | Kim Eunseon | Kim Hyeoimin | Win | W+R | 6.5 | 2989 | 11 | 
 | 2021-06-04 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Kim Hyeoimin | Lose | B+R | 6.5 | 2978 | 2 | 
-| 2021-05-27 | 第7回韓国女子囲碁リーグ | Kim Hyeoimin |  | Win | B+R | 6.5 | 2976 | 2976 | 
-| 2021-05-25 | 第4回呉清源杯韓国予選 | Kim Hyeoimin | Oh Jeonga | Lose | W+R | 7.5 | missing | -2993 | 
+| 2021-05-27 | 第7回韓国女子囲碁リーグ | Kim Hyeoimin |  | Win | B+R | 6.5 | 2976 | -1 | 
+| 2021-05-25 | 第4回呉清源杯韓国予選 | Kim Hyeoimin | Oh Jeonga | Lose | W+R | 7.5 | 2977 | -16 | 
 | 2021-05-24 | 第4回呉清源杯韓国予選 | Kang Dajeong | Kim Hyeoimin | Win | W+R | 7.5 | 2993 | 9 | 
 | 2021-05-23 | 第7回韓国女子囲碁リーグ | Kim Hyeoimin |  | Win | B+0.5 | 6.5 | 2984 | -14 | 
 | 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Kim Hyeoimin |  | Win | B+R | 7.5 | 2998 | 24 | 

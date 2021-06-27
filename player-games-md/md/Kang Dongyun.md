@@ -7,16 +7,15 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Kang Dongyun | Yang Dingxin | Lose | W+R | 7.5 | 3444 | 1 | 
+| 2021-06-27 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Kang Dongyun | Choi Jeong | Win | B+R | 6.5 | 3444 | 1 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Kang Dongyun | Yang Dingxin | Lose | W+R | 7.5 | 3443 | -10 | 
-| 2021-06-11 | 第23回中国囲碁甲級リーグ | Mi Yuting | Kang Dongyun | Lose | B+¾ | 7.5 | 3453 | 5 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ |  | Kang Dongyun | Win | W+R | 7.5 | 3448 | -2 | 
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Mi Yuting | Kang Dongyun | Lose | B+¾ | 7.5 | 3453 | 3 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ |  | Kang Dongyun | Win | W+R | 7.5 | 3450 | 2 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Kang Dongyun | Win | W+R | 7.5 | 3448 | 2 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Kang Dongyun | Win | W+1¼ | 7.5 | 3446 | -5 | 
 | 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Shin Minjun | Kang Dongyun | Lose | B+R | 6.5 | 3451 | -21 | 
-| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kang Dongyun | Xie Erhao | Win | B+R | 6.5 | 3472 | 3472 | 
-| 2021-05-25 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Kang Dongyun | Win | W+R | 6.5 | missing | -3461 | 
+| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kang Dongyun | Xie Erhao | Win | B+R | 6.5 | 3472 | 8 | 
+| 2021-05-25 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Kang Dongyun | Win | W+R | 6.5 | 3464 | 3 | 
 | 2021-05-21 | 第44期名人戦（韓国）敗者復活戦2回戦 | Kang Dongyun | Lee Changseok | Lose | W+R | 6.5 | 3461 | 14 | 
 | 2021-05-19 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Seol Hyunjun | Win | B+R | 6.5 | 3447 | 16 | 
 | 2021-05-16 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Kang Dongyun | Yun Chanhee | Win | B+R | 6.5 | 3431 | -10 | 

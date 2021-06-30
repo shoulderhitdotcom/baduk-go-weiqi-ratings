@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-30 | 第1回IBK企業銀行杯女子囲碁マスターズ1回戦 | Choi Jeong |  | Win | B+2.5 | 6.5 | 3261 | 0 | 
 | 2021-06-27 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Kang Dongyun | Choi Jeong | Lose | B+R | 6.5 | 3261 | -4 | 
 | 2021-06-26 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Hyeoimin | Win | B+R | 6.5 | 3265 | -2 | 
 | 2021-06-18 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Cheayoung | Win | B+R | 6.5 | 3267 | -8 | 

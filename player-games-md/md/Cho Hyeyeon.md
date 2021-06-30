@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-06-30 | 第1回IBK企業銀行杯女子囲碁マスターズ1回戦 | Cho Hyeyeon |  | Win | B+R | 6.5 | 3008 | 23 | 
 | 2021-06-24 | 第7回韓国女子囲碁リーグ | Cho Hyeyeon |  | Win | B+R | 6.5 | 2985 | -18 | 
 | 2021-06-18 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Cho Hyeyeon | Win | W+0.5 | 6.5 | 3003 | 23 | 
 | 2021-06-12 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Cho Hyeyeon | Lose | B+R | 6.5 | 2980 | 1 | 

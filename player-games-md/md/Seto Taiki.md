@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-01 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Seto Taiki | Cho U | Win | B+2.5 | 6.5 | 3093 | 11 | 
 | 2021-06-17 | 第77期本因坊戦予選 | Shida Tatsuya | Seto Taiki | Lose | B+4.5 | 6.5 | 3082 | -70 | 
 | 2021-05-26 | 第47期碁聖戦予選 | Okuma Yuto | Seto Taiki | Win | W+R | 6.5 | 3152 | -9 | 
 | 2021-04-22 | 第65期関西棋院第一位決定戦本戦3回戦 | Seto Taiki | Sada Atsushi | Lose | W+R | 6.5 | 3161 | -3 | 

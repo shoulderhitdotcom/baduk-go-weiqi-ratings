@@ -5,239 +5,240 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第4回呉清源杯韓国予選 | missing | Oh Jeonga | B+R | 2021-05-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qhSTaktcLYh55vH9Cve74g%3D%3D) | 
-| 第4回呉清源杯韓国予選 | Kim Hyeoimin | Oh Jeonga | W+R | 2021-05-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2fupk9%2FdU9u0BJ2tCNFKxA%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Oh Jeonga | Rui Naiwei | W+R | 2021-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hE8sEWiiDCuV9hG4z%2BGU3g%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Oh Jeonga | Wang Shuang | W+¼ | 2021-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LR%2BEQKsaqFwUY6dSN54ZyQ%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Oh Jeonga | missing | B+R | 2021-03-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LfCrQyjDm%2FPUm77oRh3pEQ%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Oh Jeonga | Zhou Hongyu | W+R | 2021-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FR1bqwV%2FK321Qs5wgkNnFg%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Shin Jaeweon | Oh Jeonga | B+R | 2021-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=secogH%2B%2B3KpspQx8%2FeAM%2BA%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Gon Jiwoo | Oh Jeonga | B+R | 2021-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IQz8bTlnes3cmrNzs%2BmVTA%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Oh Jeonga | Hyun Yoobin | W+R | 2021-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r%2FYgJZqwjZOqyw5D1n5QaQ%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Oh Jeonga | missing | W+R | 2021-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w969gXmug3ahSOAG%2BBBUBg%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Lee Wondo | Oh Jeonga | B+R | 2021-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sqeeXGUStX8gCKxlq8T%2Fsg%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Oh Jeonga | Lee Chungyu | W+R | 2021-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rQjh2e7qkf%2FScCU4Z7k2tw%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Song Gyusang | Oh Jeonga | W+R | 2021-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ei5wAlTZRGtGEZ7%2FJMx5Ww%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Oh Jeonga | Park Jaekeun | W+R | 2021-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ULBELVkW9st%2BGXQpgjKZqQ%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Gon Jiwoo | Oh Jeonga | B+R | 2021-01-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BT0DkCbiPaJ9f6MLvmcybA%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Oh Jeonga | Kim Hyeongwoo | W+2.5 | 2020-12-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ug1S%2FBNb7SCopFKxnk67Yg%3D%3D) | 
-| 2020年台湾新鋭隊vs韓国国家隊交流戦第8戦 | Yu Lijun | Oh Jeonga | W+R | 2020-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D6MqkEIYlWjQMq5PwOG04A%3D%3D) | 
-| 2020年台湾新鋭隊vs韓国国家隊交流戦第7戦 | Oh Jeonga | missing | B+R | 2020-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RYDtNY6%2FK2DAeraPNv%2BF9Q%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Kim Sangcheon | Oh Jeonga | B+R | 2020-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G%2BnFdZ9WeAyNvTYDC835LQ%3D%3D) | 
-| 2020-2021フューチャーズリーグ | missing | Oh Jeonga | W+1.5 | 2020-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RH5BHYzuJZMn1vhYwEw98A%3D%3D) | 
-| 2020-2021KBフューチャーズリーグ | Lee Chungyu | Oh Jeonga | B+R | 2020-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xVYExL4kVRoDXH8uCQQpUg%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Kim Minho | Oh Jeonga | W+R | 2020-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d%2BRoYzvRN3o9CvGst8wO9w%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Rui Naiwei | Oh Jeonga | W+R | 2020-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cMFYtFahtiP9I6WG4E9ebQ%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Pan Yang | Oh Jeonga | W+R | 2020-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a30O5qsGxIl0g1tdLt90tg%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Oh Jeonga | Gao Xing | W+R | 2020-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oBKxH%2Fbv%2Bhamz0jtjb1HqA%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Lu Minquan | Oh Jeonga | W+R | 2020-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GNsPlf4N0kgbNH1WL%2BlmRQ%3D%3D) | 
-| 第4期韓国製紙女子棋聖戦1回戦 | Oh Jeonga | Choi Jeong | W+R | 2020-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wxGXBO8Ad3qY7o4PMthCSg%3D%3D) | 
-| 第3回呉清源杯世界女子囲碁選手権2回戦 | Wang Chenxing | Oh Jeonga | B+3¾ | 2020-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vIPAIBcRCVmHwCfGzNezlA%3D%3D) | 
-| 第3回呉清源杯世界女子囲碁選手権1回戦 | missing | Oh Jeonga | W+R | 2020-09-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jvwT%2FvDpcYS8XPgCaC5ODg%3D%3D) | 
-| 第14回GGオークション杯女流対シニア連勝対抗戦第13局 | An Joyeong | Oh Jeonga | B+R | 2020-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tEcAvlmNkRsf9kT09KSv5w%3D%3D) | 
-| 第25期女流国手戦16強戦 | Oh Jeonga | Kim Hyeoimin | W+5.5 | 2020-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=surVsYQRp15Aqf0WwjutSQ%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第14節第2試合第2局 | Kim Miri | Oh Jeonga | W+R | 2020-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2c3RmTJVCT%2Bw9uVQUApdpA%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第13節第2試合第1局 | Oh Jeonga | Oh Yujin | W+R | 2020-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y6GevaPaZ3CyIpFUOfxT5Q%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第12節第2試合第3局 | Oh Jeonga | Lee Youngjoo | W+R | 2020-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7q0A0%2FygLhMySAGrWOqYUg%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第11節第2試合第3局 | Oh Jeonga | Lee Minjin | B+3.5 | 2020-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UZSL7Pf8gzsaG0tZBtKVNw%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ第2節 | Oh Jeonga | Zhou Hongyu | B+R | 2020-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KJLGk4oYq%2F%2Bx%2BaDNz%2FHXGw%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第10節第3試合第3局 | Oh Jeonga | missing | B+R | 2020-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jo2tIS58pw8w4Lh6%2BdWw%2Bg%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第9節第4試合第1局 | Park Taehee | Oh Jeonga | W+R | 2020-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RSPyYCy7BlCtTidfS3vu4g%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第8節第1試合第1局 | Oh Jeonga | Kim Dayoung | B+R | 2020-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oVrQf011cqRjWHBgy4oJdg%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第7節第3試合第3局 | Oh Jeonga | Kim Cheayoung | W+R | 2020-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C8%2FNmtPCU%2BdEkjZS91OsFA%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第6節第3試合第2局 | Oh Jeonga | missing | W+R | 2020-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FNJXw7dDtgUpemiUeu5kCg%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第5節第3試合第2局 | Kim Hyeoimin | Oh Jeonga | B+R | 2020-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GUleF%2FFiYW1uinh4BCWOhQ%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第4節第3試合第1局 | Cho Hyeyeon | Oh Jeonga | W+R | 2020-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BR1bqQWwytwIDMcfrTFsdw%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第3節第2試合第1局 | Choi Jeong | Oh Jeonga | B+3.5 | 2020-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CYtyyDv2Vmf079VzKScthA%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第2節第1試合第3局 | Park Taehee | Oh Jeonga | B+R | 2020-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uzFD9%2FIKe7rQ22h4ie8kSA%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第1節第4試合第3局 | missing | Oh Jeonga | W+R | 2020-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XndIeUs8Krn42HYIVQDlmg%3D%3D) | 
-| 第25回LG杯韓国予選 | Lee Wondo | Oh Jeonga | B+R | 2020-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R%2F0PQTMXtCGPRzIaseEbIw%3D%3D) | 
-| 第13回GGオークション杯女流対シニア連勝対抗戦第13局 | Oh Jeonga | Han Chongjin | W+R | 2020-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vgdqtTbz0KEDICgabCHu4g%3D%3D) | 
-| 2019台湾精鋭vs韓国ナショナルチーム交流戦第6戦 | Oh Jeonga | Huang Shiyuan | W+R | 2019-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ve9hN9%2FOCX8ltP1RBzsiWA%3D%3D) | 
-| 2019台湾精鋭vs韓国ナショナルチーム交流戦第5戦 | Lu Yiquan | Oh Jeonga | W+R | 2019-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZmrtkGTnu%2BQ7cjgO9OEUeA%3D%3D) | 
-| 2019台湾精鋭vs韓国ナショナルチーム交流戦第4戦 | Oh Jeonga | missing | B+R | 2019-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QaNR9KDHrLEjceXggEY%2FhA%3D%3D) | 
-| 2019台湾精鋭vs韓国ナショナルチーム交流戦第3戦 | missing | Oh Jeonga | W+R | 2019-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IR6ZvXRlHmqZ1XPCtyabCw%3D%3D) | 
-| 2019台湾精鋭vs韓国ナショナルチーム交流戦第1戦 | missing | Oh Jeonga | W+R | 2019-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RV9ZCwI4x5%2BBOqPjttnGvw%3D%3D) | 
-| 2019台湾精鋭vs韓国ナショナルチーム交流戦第2戦 | Oh Jeonga | Yu Lijun | B+R | 2019-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ii95k2tNiiX7xNyEF%2FDSpA%3D%3D) | 
-| 第10回穹窿山兵聖杯韓国選抜戦 | missing | Oh Jeonga | B+R | 2019-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fvahSna%2F6kzSnrmsn%2FejpA%3D%3D) | 
-| 第10回穹窿山兵聖杯韓国選抜戦 | missing | Oh Jeonga | W+R | 2019-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=stUrv8ihsI9FlAlc9hq%2FCA%3D%3D) | 
-| 第5回韓国女子囲碁リーグ優勝決定戦第2戦第1局 | missing | Oh Jeonga | W+3.5 | 2019-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XI0bFtxilRwwrIYGV%2Ba8Wg%3D%3D) | 
-| 第5回韓国女子囲碁リーグプレーオフ第2戦第1局 | Oh Jeonga | Cho Hyeyeon | W+R | 2019-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=df%2Bnh0h9LrdmunntGwEOsg%3D%3D) | 
-| 第5回韓国女子囲碁リーグプレーオフ第1戦第1局 | missing | Oh Jeonga | W+R | 2019-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EKYPHBT%2Fu3DqvZ8vpRQQow%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第14節第1試合第3局 | missing | Oh Jeonga | W+R | 2019-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GyB4pCQ0pHQ2T75fioOP1Q%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第13節第2試合第1局 | Fujisawa Rina | Oh Jeonga | B+R | 2019-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P3r6d4kZxcqIjkfuxAs%2Bqw%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第12節第3試合第1局 | Oh Jeonga | missing | B+R | 2019-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7DHBH3SeCzbACZZfhxTVAA%3D%3D) | 
-| 第6回国手山脈韓国国内トーナメント準決勝 | Oh Jeonga | Han Seungjoo | W+R | 2019-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2jrTNLBHnvxBUjY7wM1%2FdQ%3D%3D) | 
-| 第6回国手山脈韓国国内トーナメント8強戦 | Kim Sangcheon | Oh Jeonga | W+6.5 | 2019-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=khXHICytOMtYLdh1rvs3Wg%3D%3D) | 
-| 第6回国手山脈韓国国内トーナメント16強戦 | Oh Jeonga | Hyun Yoobin | B+R | 2019-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YSmaoWz1ugKm1XFzD8HsLQ%3D%3D) | 
-| 第6回国手山脈韓国国内トーナメント32強戦 | Oh Jeonga | Na Hyun | B+R | 2019-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=obtW%2F4m6d%2FBDPu4oVbjrkw%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第11節第4試合第2局 | Oh Jeonga | Lee Youngjoo | W+0.5 | 2019-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oiiznl%2FdCRy702YQaCflIw%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第10節第1試合第3局 | Oh Jeonga | missing | W+R | 2019-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GAHfZYNVWxld0xa5wkjDJw%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第9節第2試合第3局 | Lee Minjin | Oh Jeonga | B+R | 2019-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7OkWgLsVYRhVW4aQYFx4vQ%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第8節第4試合第3局 | Kim Miri | Oh Jeonga | W+R | 2019-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1DhJKjSaFdKWeAp7pePT8A%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第7節第4試合第1局 | Choi Jeong | Oh Jeonga | B+0.5 | 2019-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YyNcHrNCerXAruVuDRuLyg%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第5節第2試合第1局 | Oh Jeonga | Wang Chenxing | W+7.5 | 2019-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yJrlTmg4KuTEsPo3Fke0fg%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第4節第1試合第2局 | Oh Jeonga | Lee Youngjoo | B+R | 2019-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jPHCSHgu4KgC0%2Fd%2FVkmlSQ%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第3節第4試合第1局 | Oh Jeonga | missing | B+2.5 | 2019-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nMkWn8NCa6AN64CXhseUmg%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第2節第3試合第1局 | Lee Minjin | Oh Jeonga | W+2.5 | 2019-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LM7GX8uqvc8rOTNAQJ8x%2FQ%3D%3D) | 
-| 第5回韓国女子囲碁リーグ第1節第1試合第1局 | Oh Jeonga | missing | B+R | 2019-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gVldxO2F20e8aU0X0Bpt3w%3D%3D) | 
-| 2019年陜川歴代英才vs女性頂上連勝対抗戦第2局 | Park Joonhoon | Oh Jeonga | B+R | 2019-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9T3ugwhzZ8XTfg94MTzoBA%3D%3D) | 
-| 第2回呉清源杯世界女子囲碁選手権16強戦 | Gao Xing | Oh Jeonga | B+R | 2019-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a7SiUVJIFiyAV7ccbzMunw%3D%3D) | 
-| 第9回中国姜堰黄竜士精鍛科技杯世界女子団体戦第3戦 | Oh Jeonga | Gao Xing | W+R | 2019-04-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=91ND%2Ba4l70HW2kFZnMeMGg%3D%3D) | 
-| 第8回天台山杯世界女子囲碁団体戦韓国選抜戦 | Oh Jeonga | Kim Cheayoung | W+R | 2019-03-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X9YBiJTAMOWAu14TFAJ57A%3D%3D) | 
-| 第8回天台山杯世界女子囲碁団体戦韓国選抜戦 | Oh Jeonga | missing | B+R | 2019-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s1nAwGSLDomOMvXSkRXaVQ%3D%3D) | 
-| 第2回クラウン・ヘテ杯1回戦 | missing | Oh Jeonga | B+R | 2018-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AlLpPMhYlbS3eF4hjRj%2B%2FQ%3D%3D) | 
-| 第9回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Oh Yujin | Oh Jeonga | B+R | 2018-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SpMy%2FzWpHfCH3ZCF20y1cA%3D%3D) | 
-| 第9回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Oh Jeonga | missing | B+R | 2018-11-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ma0ssSdknbg3ANiQp1OL2g%3D%3D) | 
-| 第9回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Oh Jeonga | Ueno Asami | B+R | 2018-10-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MpwyC5RVq2pMXXX6hjKh3A%3D%3D) | 
-| 第9回穹窿山兵聖杯韓国選抜戦決勝 | Kim Cheayoung | Oh Jeonga | W+R | 2018-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d0H470pz2Veoi5kNqWHj1g%3D%3D) | 
-| 第9回穹窿山兵聖杯韓国選抜戦1回戦 | Oh Jeonga | Kim Dayoung | B+R | 2018-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UhI6O2%2BrSYWk79bgAGW6rg%3D%3D) | 
-| 第20回農心杯韓国選抜戦 | Oh Jeonga | missing | B+R | 2018-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EXA%2FcLQ9XPrATE5JRf%2BtJg%3D%3D) | 
-| 第23回三星火災杯統合予選決勝 | Oh Jeonga | Choi Jeong | W+R | 2018-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RkoyFAWSShaGnbrJ%2BirFLw%3D%3D) | 
-| 第23回三星火災杯統合予選準決勝 | Fujisawa Rina | Oh Jeonga | W+R | 2018-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gVQgIFpEJq4gdyASF2cjlQ%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第18節 | Oh Jeonga | Kim Dayoung | W+1.5 | 2018-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1gD1kb6Z00rfemBv2oVkcg%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第17節 | Oh Jeonga | Lu Minquan | B+R | 2018-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YViYDVSNJ5hf2FAckFCorA%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第16節 | Oh Jeonga | missing | B+0.5 | 2018-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cQiXZ2Keh7PN54wlnvWZNw%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第15節 | Kim Eunseon | Oh Jeonga | W+R | 2018-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Li8dUJrAxAwmCejQ7ec6hQ%3D%3D) | 
-| 第1回呉清源杯世界女流囲碁選手権8強戦 | Oh Jeonga | Yu Zhiying | W+R | 2018-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VKB2hHdcnRh6MJ0cIj1GWQ%3D%3D) | 
-| 第1回呉清源杯世界女流囲碁選手権16強戦 | Oh Jeonga | Wang Chenxing | B+R | 2018-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AzgsTf%2Bg7FA10ikzUqV8fQ%3D%3D) | 
-| 第1回呉清源杯世界女流囲碁選手権本戦1回戦 | missing | Oh Jeonga | W+R | 2018-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nt6uq71F%2B8E2E6MkOHZbUw%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第12節 | Choi Jeong | Oh Jeonga | B+R | 2018-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0vUbpY%2B27bBIhpkN%2Bf9YyA%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第11節 | Oh Jeonga | Kang Dajeong | W+7.5 | 2018-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=00RUnfAWg4ZgChcv%2FXH3%2Bw%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第10節 | Oh Jeonga | Oh Yujin | W+R | 2018-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AuWq3UQvaMVae0SLCXxFLw%3D%3D) | 
-| 第8回中国姜堰黄竜士精鍛科技杯世界女子団体戦第1戦 | Oh Jeonga | Nyu Eiko | W+R | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GZg%2FHVNHnSdF3UAOauCQpA%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第9節 | Lee Minjin | Oh Jeonga | W+3.5 | 2018-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z46hDed3oR15%2FUlmRCWEsw%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第8節 | Lu Minquan | Oh Jeonga | B+R | 2018-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m%2F4TCiPyIoIFhxJQUApYHQ%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第7節 | Oh Jeonga | Gao Xing | B+R | 2018-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zmQl1JHO8xLyFZ9OwJlLqA%3D%3D) | 
-| 第7回天台山農商銀行杯韓国代表選抜戦準決勝 | Kim Dayoung | Oh Jeonga | B+R | 2018-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hdiMq3Cv0A%2BfSrss%2FExOQQ%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第6節 | Oh Jeonga | Kim Hyeoimin | B+R | 2018-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qIkolHGmgXptvVnjn3zS%2Bg%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第5節 | Oh Jeonga | Park Jiyeon | B+R | 2018-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q00DfiIWlXZC9Nc0lD6CdA%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第3節 | Oh Jeonga | Choi Jeong | B+R | 2018-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AZ3m2O9a4wrpSO2bo2l7DQ%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第2節 | Kang Dajeong | Oh Jeonga | W+R | 2018-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=veDlAoo6Hou4pLEgX8GfLg%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第1節 | Oh Yujin | Oh Jeonga | W+R | 2018-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zgEB6rp64FCdhGeqaSkR2A%3D%3D) | 
-| 第1回クラウン・ヘテ杯2回戦 | Lee Donghoon | Oh Jeonga | B+R | 2017-12-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M0cEliFzWVft1cCiqylHug%3D%3D) | 
-| 第1回クラウン・ヘテ杯1回戦 | Oh Jeonga | missing | B+R | 2017-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BtTOVZw3khQ99nOnkKEdQw%3D%3D) | 
-| 第22期女流国手戦8強戦 | Kim Miri | Oh Jeonga | B+2.5 | 2017-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7bQFQFwJ81UkiWUYl9sE7Q%3D%3D) | 
-| 第22期女流国手戦1回戦 | Oh Jeonga | missing | B+R | 2017-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DNlezYIghB5%2F6JdUGT2jcw%3D%3D) | 
-| 第8回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Oh Jeonga | Yu Zhiying | W+R | 2017-11-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4JfriAzeZlsXdx%2FDMXZ1zg%3D%3D) | 
-| 第8回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Xie Yimin | Oh Jeonga | W+R | 2017-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O95jqEK4kdhK5hDMoPyk5Q%3D%3D) | 
-| 第1期韓国製紙女子棋聖戦16強戦 | Kim Dayoung | Oh Jeonga | B+R | 2017-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U5S8FaPBeZ6YtrDVSHnWbg%3D%3D) | 
-| 8回蘇州穹窿山兵聖杯韓国選抜決勝 | Oh Jeonga | Kim Cheayoung | B+R | 2017-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q%2FnCKwG3yYpufZPhseNhqg%3D%3D) | 
-| 8回蘇州穹窿山兵聖杯韓国選抜1 | Oh Jeonga | Park Shiun | B+R | 2017-09-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lISKB6LStuy3FJS4e2j92w%3D%3D) | 
-| 第7回中国姜堰黄竜士精鍛科技杯世界女子団体戦第10戦 | Li He | Oh Jeonga | B+R | 2017-06-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mC3K%2FtRBXcki8It9rFyUtw%3D%3D) | 
-| 第7回中国姜堰黄竜士精鍛科技杯世界女子団体戦第8戦 | Oh Jeonga | Lu Jia | B+1.5 | 2017-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hd25922uq%2FRASbPscnh5Kg%3D%3D) | 
-| 3期韓国女子連戦14回戦京畿SG-西帰浦 | Oh Jeonga | Kim Sinyoung | B+2.5 | 2017-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fD7Tq26ZBp8p4F89A2OtQA%3D%3D) | 
-| 3期韓国女子連戦13回戦首爾-西帰浦 | Song Ronghui | Oh Jeonga | B+R | 2017-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dBYvCvTilTEbP56qVZFQ2A%3D%3D) | 
-| 3期韓国女子連戦12回戦扶安-西帰浦 | Oh Jeonga | missing | B+R | 2017-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2D7LPP0I8B32SamjUbJlCA%3D%3D) | 
-| 第7回中国姜堰黄竜士精鍛科技杯世界女子団体戦第7戦 | Mukai Chiaki | Oh Jeonga | W+R | 2017-04-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tf%2ByxZ%2FlqNpuQcE%2FRrEmTQ%3D%3D) | 
-| 第7回中国姜堰黄竜士精鍛科技杯世界女子団体戦第6戦 | Lu Minquan | Oh Jeonga | W+0.5 | 2017-04-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tDTl6biyN7GleDQWxYk1oA%3D%3D) | 
-| 3期韓国女子連戦11回戦浦項-西帰浦 | Oh Jeonga | Cho Hyeyeon | W+R | 2017-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rx2hBHVjBq6GBCcmYOTMbQ%3D%3D) | 
-| 3期韓国女子連戦10回戦京畿湖畔-西帰浦 | Park Jiyeon | Oh Jeonga | W+R | 2017-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NJ4t3uy49o9bBMbMLzdghw%3D%3D) | 
-| 3期韓国女子連戦9回戦麟蹄-西帰浦 | Oh Jeonga | Lee Youngjoo | B+R | 2017-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VOnirJ2MEBipSRDV0LW9TA%3D%3D) | 
-| 3期韓国女子連戦8回戦西帰浦-麗水 | Oh Jeonga | Lee Minjin | W+R | 2017-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JpV7tSOFVjmr1fhTy6UnxA%3D%3D) | 
-| 3期韓国女子連戦7回戦京畿SG-西帰浦 | Park Shiun | Oh Jeonga | B+R | 2017-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UFYjMZw50J%2Fm6FzLRya4YQ%3D%3D) | 
-| 3期韓国女子連戦6回戦首尓-西帰浦 | Oh Jeonga | Kim Miri | B+R | 2017-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EYTgzhC%2F%2BLdQOcxMOEokYw%3D%3D) | 
-| 3期韓国女子連戦5回戦扶安-西帰浦 | Kim Hyeoimin | Oh Jeonga | B+3.5 | 2017-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sTASAARsPMH4hvy35F9iww%3D%3D) | 
-| 3期韓国女子連戦4回戦浦項-西帰浦 | Oh Jeonga | Cho Hyeyeon | W+3.5 | 2017-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pHJbsCh6luYtjzRgW7GIvg%3D%3D) | 
-| 3期韓国女子連戦3回戦京畿湖畔-西帰浦 | Oh Jeonga | Park Jiyeon | W+R | 2017-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5aHgzOEz5BzpCTZa4LfBYg%3D%3D) | 
-| 3期韓国女子連戦2回戦麟蹄-西帰浦 | Lee Youngjoo | Oh Jeonga | W+R | 2017-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iE6%2FGux5WE4uD65zaU5xhw%3D%3D) | 
-| 3期韓国女子連戦1回戦西帰浦-麗水 | Oh Jeonga | Kim Dayoung | B+R | 2017-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wnCgC5e1%2F%2FL0bGW7p4wChA%3D%3D) | 
-| 第21期女流国手戦決勝三番勝負第3局 | Oh Jeonga | Oh Yujin | W+1.5 | 2016-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VK%2F11zTQAjBpW5N7YFeZpQ%3D%3D) | 
-| 第21期女流国手戦決勝三番勝負第2局 | Oh Yujin | Oh Jeonga | B+R | 2016-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vOW62P7oWKwVRRKJsY6VOA%3D%3D) | 
-| 第21期女流国手戦決勝三番勝負第1局 | Oh Jeonga | Oh Yujin | B+R | 2016-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9GIxX00J9b0r3M9L%2FJK%2FAQ%3D%3D) | 
-| 第21期女流国手戦準決勝 | Lee Sula | Oh Jeonga | W+R | 2016-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d9bwgobRJvRJdpo0K8A4KQ%3D%3D) | 
-| 韓国花様囲棋女王戦リーグ戦5回戦 | Kim Hyeoimin | Oh Jeonga | B+1.5 | 2016-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RgrCAiBUqGS25Wup3wER3g%3D%3D) | 
-| 韓国花様囲棋女王戦リーグ戦4R | missing | Oh Jeonga | W+R | 2016-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n3HYPj0aLpkSuwBJqK3mbA%3D%3D) | 
-| 韓国花様囲棋女王戦リーグ戦3R | Oh Jeonga | Moon Dowon | W+R | 2016-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZNFUSWYITPj07zLpnW%2FGsQ%3D%3D) | 
-| 第7期穹窿山兵聖杯韓国選抜 | Kim Hyeoimin | Oh Jeonga | B+R | 2016-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0PhiTjVjC%2BGce6scQ8HPwg%3D%3D) | 
-| 第21期女流国手戦8強戦 | Kim Eunseon | Oh Jeonga | W+R | 2016-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8qDwToU82cPKYsAF9UvMbA%3D%3D) | 
-| 第21期女流国手戦1回戦 | Oh Jeonga | Kim Sinyoung | B+R | 2016-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2d7hjJgYNBxGEAcTu8hJbg%3D%3D) | 
-| 第10回GGオークション杯女流対シニア連勝対抗戦第4戦 | Oh Jeonga | Seo Bongsoo | W+R | 2016-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B9%2B3ITm70l2d0P53n56mXA%3D%3D) | 
-| 第21回三星火災杯統合予選女子枠1回戦 | Rui Naiwei | Oh Jeonga | B+1.5 | 2016-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R8nS2AsVMyykjSpyhqDrqA%3D%3D) | 
-| 第5回天台山農商銀行杯世界女子団体戦第3戦 | Mannami Nao | Oh Jeonga | W+2.5 | 2016-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R4N6L6genGZHijETt1ficA%3D%3D) | 
-| 第5回天台山農商銀行杯世界女子団体戦第2戦 | Oh Jeonga | Song Ronghui | W+R | 2016-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ToBeB8Tnshi72I9NU%2Bw7lg%3D%3D) | 
-| 第5回天台山農商銀行杯世界女子団体戦第1戦 | Oh Jeonga | Zhang Kaixin | B+R | 2016-05-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LeJAYVKK0lfbDbuzIYfLWg%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第14節 | Oh Jeonga | Kim Eunseon | B+R | 2016-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XDROhW4YMZnR9R4TXFDbDg%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第13節 | Oh Jeonga | Li He | W+R | 2016-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CF65zFzDvmCghZ%2BStQSngw%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第12節 | Lee Youngjoo | Oh Jeonga | W+1.5 | 2016-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cpk3RCStxzFnwlygFu%2Fudg%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第11節 | Kang Dajeong | Oh Jeonga | B+1.5 | 2016-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BuXCR2TRHi5HgZ1xnA6kwg%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第10節 | Kim Yoonyoung | Oh Jeonga | B+2.5 | 2016-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4JRi%2BiWqLRjp2lsuOqs80A%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第9節 | Kim Dayoung | Oh Jeonga | B+R | 2016-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KSvz3EE0Lo8H5MlJjFXsFA%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第8節 | Oh Jeonga | Choi Jeong | W+R | 2016-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dg8Z1l0NWNbskPCfKywXkA%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第7節 | Oh Jeonga | Kim Cheayoung | W+R | 2016-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bHlpJ6Nx%2B4CNVv42sZAO5Q%3D%3D) | 
-| 第5回天台山農商銀行杯韓国選抜戦 | Park Shiun | Oh Jeonga | W+R | 2016-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ndN%2B9T%2B8fOzMjOfOJqIvOg%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第6節 | Oh Jeonga | missing | B+R | 2016-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6UJcWhDUnL849oWAJDbdLA%3D%3D) | 
-| 第5回天台山農商銀行杯韓国選抜戦 | Kim Hyeoimin | Oh Jeonga | W+R | 2016-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J4HDphHSx46KS7xmpyMWCA%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第5節 | Oh Jeonga | Oh Yujin | W+R | 2016-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3JmAV28AviuPYHnfzGBUsg%3D%3D) | 
-| 第6回黄竜士双登杯韓国選抜戦 | Oh Jeonga | Park Jiyeon | W+11.5 | 2016-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Knv5fuqDKrKI6Gf0R4IFEw%3D%3D) | 
-| 第3回百霊杯世界オープン戦予選 | Oh Jeonga | Li He | W+R | 2016-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=canbRRO8k%2FV%2BQMS2ODnhTw%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第4節 | Oh Jeonga | Rui Naiwei | W+2.5 | 2016-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BLIxGKdsRYrYHafeyKUz3Q%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第3節 | Park Jiyeon | Oh Jeonga | W+R | 2016-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vW03GNkjvFDqpH2tIgqg1Q%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第2節 | Lee Sula | Oh Jeonga | W+R | 2016-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LSBKpJFx%2BUnKudeh0c70LQ%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第1節 | Kim Sinyoung | Oh Jeonga | B+1.5 | 2016-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9czddDiLI1k2E5qcORF6pg%3D%3D) | 
-| 第17期女流名人戦（韓国）挑戦者決定戦 | Oh Jeonga | Oh Yujin | W+R | 2015-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UrUGT2OlD0e%2FFOGSjzy1YQ%3D%3D) | 
-| 第17期女流名人戦（韓国）準決勝 | Park Sohyun | Oh Jeonga | W+R | 2015-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iF4Duss6rZ3j8ytBGlOJbw%3D%3D) | 
-| 第17期女流名人戦（韓国）2回戦 | Kim Hyeoimin | Oh Jeonga | W+R | 2015-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hhfHuI2bk3%2FlOpKkQFPMQA%3D%3D) | 
-| 第9回GGオークション杯女流対シニア連勝対抗戦第13戦 | missing | Oh Jeonga | B+R | 2015-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F%2Fdt%2BFAsWI2lL5TMdJ0SzA%3D%3D) | 
-| 第9回GGオークション杯女流対シニア連勝対抗戦第12戦 | Oh Jeonga | Paek Seongho | B+R | 2015-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1MGHgCZh4osiiIMFhPkx2Q%3D%3D) | 
-| 第9回GGオークション杯女流対シニア連勝対抗戦第11戦 | missing | Oh Jeonga | W+R | 2015-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N74JADhJB6ONnMpqhCMwgA%3D%3D) | 
-| 第17回農心杯韓国選抜戦 | missing | Oh Jeonga | W+R | 2015-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NQJUVSbj8nMHCRix%2BBJf7g%3D%3D) | 
-| 第17期女流名人戦（韓国）1回戦 | missing | Oh Jeonga | W+12.5 | 2015-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jbLGKA8nrVYymYBIjVV7sw%3D%3D) | 
-| 第20期女流国手戦準決勝 | Kim Sinyoung | Oh Jeonga | B+1.5 | 2015-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IIBwrZ31PAxSL%2BFIFsFwHQ%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第14節 | Kim Cheayoung | Oh Jeonga | B+2.5 | 2015-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1SUItVU7ZHvdLtVjE7%2BTcw%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第11節 | Rui Naiwei | Oh Jeonga | B+R | 2015-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UCkZcGbC3z6h0nfhK6rSaQ%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第13節 | Oh Jeonga | Park Jiyeon | W+R | 2015-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SZkXsKsyapzUnAKABZLL%2Bg%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第12節 | Oh Jeonga | Kim Nahyun | B+R | 2015-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8oP8JW49BWRv5z7sdYsmWg%3D%3D) | 
-| 第5回黄竜士双登杯世界女子囲碁団体選手権第6戦 | Oh Jeonga | Song Ronghui | W+2.5 | 2015-03-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OQmWH9UyPGrL59WTKXd2QQ%3D%3D) | 
-| 第5回黄竜士双登杯世界女子囲碁団体選手権第5戦 | Fujisawa Rina | Oh Jeonga | W+R | 2015-03-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IUVX%2BJaT1Me1iu74XVHSGw%3D%3D) | 
-| 第5回黄竜士双登杯世界女子囲碁団体選手権第4戦 | Wang Chenxing | Oh Jeonga | W+R | 2015-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A0K8zTRICIsyifnepdxq%2Fw%3D%3D) | 
-| 第5回黄竜士双登杯世界女子囲碁団体選手権第3戦 | Kibe Natsuki | Oh Jeonga | W+R | 2015-03-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iQgRBn1yyYJSgOvz%2FENjZA%3D%3D) | 
-| 第5回黄竜士双登杯世界女子囲碁団体選手権第2戦 | Oh Jeonga | Li He | B+R | 2015-03-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OcW8h0AQg%2F5FkKMuvB8Twg%3D%3D) | 
-| 第5回黄竜士双登杯世界女子囲碁団体選手権第1戦 | Okuda Aya | Oh Jeonga | W+R | 2015-03-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=77TbmPFdhA3PbK4PSspfJw%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第10節 | missing | Oh Jeonga | W+R | 2015-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a%2FiVBfeGk%2F9pLIGB0j%2FeYw%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第8節 | Park Taehee | Oh Jeonga | W+R | 2015-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HDjJcCEWT8Hp%2B%2FSmuix%2F4Q%3D%3D) | 
-| 第20期女流国手戦2回戦 | Kim Hyeoimin | Oh Jeonga | W+R | 2015-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EGlXlU%2BDPRxDpMZf0aQ7ig%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第7節 | Oh Jeonga | Kim Eunseon | B+R | 2015-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uLxSOZQEBZrRNm23SiTUZA%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第6節 | Oh Jeonga | Park Sohyun | B+R | 2015-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=npnERncHt0BOLookLZTG2g%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第5節 | Oh Jeonga | Kim Sinyoung | B+R | 2015-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NEBX%2Fv5ZDAYWQXYVVMEDUA%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第4節 | Oh Jeonga | Lee Minjin | W+3.5 | 2015-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N5TekTz4QE86RPMIMZKFnA%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第3節 | Oh Jeonga | missing | B+13.5 | 2015-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jP9CJfP5eeoMxtQrtr9%2B2g%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第1節 | Hei Jiajia | Oh Jeonga | W+R | 2015-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j6oglNeW5UC8xsw6Dp5EoA%3D%3D) | 
-| 第16期女流名人戦（韓国）敗者復活戦3回戦 | Oh Yujin | Oh Jeonga | B+R | 2015-01-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FhQtUIbjAQlmSZP94gTp%2Fg%3D%3D) | 
-| 第16期女流名人戦（韓国）敗者復活戦2回戦 | Oh Jeonga | Park Jiyeon | B+R | 2014-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aLHgS%2Fiu4lLuUYEy7sAsuw%3D%3D) | 
-| 第16期女流名人戦（韓国）敗者復活戦1回戦 | Oh Jeonga | Kang Dajeong | B+R | 2014-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RveCQF6DdqsqJH89oUYmHQ%3D%3D) | 
-| 第16期女流名人戦（韓国）本戦1回戦 | Oh Jeonga | Park Jiyeon | W+0.5 | 2014-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rDEkqEJBjyZpA1KmnGYXcg%3D%3D) | 
-| 第20期女流国手戦1回戦 | Oh Yujin | Oh Jeonga | W+3.5 | 2014-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=szUx3fC1htc8O6t0%2FRdT2Q%3D%3D) | 
-| 第8回GGオークション杯女流対シニア連勝対抗戦第17戦 | Oh Jeonga | Yoo Changhyuk | W+R | 2014-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kkcLJCDMxHljMIaBK482Lw%3D%3D) | 
-| 第8回GGオークション杯女流対シニア連勝対抗戦第16戦 | Cho Hunhyun | Oh Jeonga | W+0.5 | 2014-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WPlu953u7PLAXoqS2C74Qw%3D%3D) | 
-| 第8回GGオークション杯女流対シニア連勝対抗戦第15戦 | Oh Jeonga | Seo Bongsoo | B+R | 2014-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fH9greovMUypXFdIsRIQbg%3D%3D) | 
-| 第3回天台山葛玄緑茶杯世界女子団体戦第3戦 | Zhang Kaixin | Oh Jeonga | W+R | 2014-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N1FL9RRsJ7WuN0S%2BgSAn6A%3D%3D) | 
-| 第3回天台山葛玄緑茶杯世界女子団体戦第2戦 | Oh Jeonga | Okuda Aya | B+R | 2014-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FDknviQs8AQ2y43XDuI8gA%3D%3D) | 
-| 第3回天台山葛玄緑茶杯世界女子団体戦第1戦 | Oh Jeonga | Rui Naiwei | W+10.5 | 2014-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WyYjMDYUpH4PMN%2F2d7UtJQ%3D%3D) | 
-| 第15期女流名人戦（韓国）挑戦者決定戦 | Park Jiyeon | Oh Jeonga | B+R | 2014-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BwfXau%2F%2B2lqG0X1jpStPNQ%3D%3D) | 
-| 第19期女流国手戦2回戦 | Oh Yujin | Oh Jeonga | B+R | 2014-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OEzXeVOQELabsesI1T%2B0og%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Oh Jeonga | Park Shiun | W+R | 2013-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N1g4YnALRErrMFkZwyrR8Q%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Hei Jiajia | Oh Jeonga | B+5.5 | 2013-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d8TlL0ANnpNz1wVkD3LtGg%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Fujisawa Rina | Oh Jeonga | W+R | 2013-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HqFVm%2BBI9JMX5e7YPHz4%2FA%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Yu Jin | Oh Jeonga | W+R | 2013-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=72ou03huwoKE86i85fr3UA%3D%3D) | 
-| 第19期女流国手戦1回戦 | Oh Jeonga | Choi Jeong | B+R | 2013-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ebmDW6N97vbpcLYvp4OeMA%3D%3D) | 
-| 第15期女流名人戦（韓国）本戦勝者組決勝 | Oh Jeonga | Park Jiyeon | B+R | 2013-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bz2iyHpWdoCrZ1zsZbXR1A%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁韓国予選 | Park Jiyeon | Oh Jeonga | W+R | 2013-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gYnt5fle8pYDEZioRCKdAQ%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁韓国予選 | Choi Jeong | Oh Jeonga | W+R | 2013-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cq1AG5axnGxw2v2gQK5wWA%3D%3D) | 
-| 第4回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Tang Yi | Oh Jeonga | B+R | 2013-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wXunMiuj56%2BUaMIpO%2BrWwg%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ1回戦E2 | An Sungjoon | Oh Jeonga | B+R | 2013-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AVQGOANE9pQqlfM2p7VOBw%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ1回戦E1 | Chang Hao | Oh Jeonga | B+R | 2013-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SXxZ9JDJ1Lvmk4%2BdGw7SIQ%3D%3D) | 
-| 第15期女流名人戦（韓国）本戦2回戦 | Oh Jeonga | Kim Eunseon | B+R | 2013-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kjM1QMYvEXd19XvODfRs7Q%3D%3D) | 
-| 第18回三星火災杯統合予選女子枠決勝 | Oh Jeonga | Cao Youyin | B+0.5 | 2013-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YObKL0IubeY4L6S%2BkCXXrA%3D%3D) | 
-| 第15期女流名人戦（韓国）本戦1回戦 | Oh Jeonga | Kim Hyeoimin | B+R | 2013-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YAravfdcmuDDAuOOHgiSLA%3D%3D) | 
-| 第3回黄竜士双登杯韓国選抜戦 | Moon Dowon | Oh Jeonga | B+R | 2013-01-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dU5Mls8hq3WY93sDxkkpAA%3D%3D) | 
-| 第18期女流国手戦2回戦 | Oh Jeonga | Kim Cheayoung | W+4.5 | 2012-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2%2FMTPzaAGn74zCZVcGLjPw%3D%3D) | 
-| 第18期女流国手戦1回戦 | Oh Jeonga | Choi Jeong | B+R | 2012-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2GvjsBpJPOQTXwZp3mni9g%3D%3D) | 
-| 2012年韓国囲碁リーグ | Cho Hanseung | Oh Jeonga | B+R | 2012-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NAlUbtue2s0JSgw51ky%2Bpw%3D%3D) | 
-| 第5回GGオークション杯女流対シニア連勝対抗戦第14戦 | Cho Hunhyun | Oh Jeonga | B+3.5 | 2011-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GjAnVhdfA2L%2FQXq0hb3y0Q%3D%3D) | 
-| 第17期女流国手戦予選 | Oh Jeonga | Moon Dowon | W+R | 2011-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tgS161DQP6LlYUm4m1hJmw%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-01 | 第1回IBK企業銀行杯女子囲碁マスターズ1回戦 | Yun Youngmin | Oh Jeonga | Win | W+R | 6.5 | 2923 | 17 | 
+| 2021-05-26 | 第4回呉清源杯韓国予選 |  | Oh Jeonga | Lose | B+R | 7.5 | 2906 | -9 | 
+| 2021-05-25 | 第4回呉清源杯韓国予選 | Kim Hyeoimin | Oh Jeonga | Win | W+R | 7.5 | 2915 | -12 | 
+| 2021-04-02 | 第8回中国女子囲碁甲級リーグ | Oh Jeonga | Rui Naiwei | Lose | W+R | 7.5 | 2927 | -6 | 
+| 2021-04-01 | 第8回中国女子囲碁甲級リーグ | Oh Jeonga | Wang Shuang | Lose | W+¼ | 7.5 | 2933 | -5 | 
+| 2021-03-31 | 第8回中国女子囲碁甲級リーグ | Oh Jeonga |  | Win | B+R | 7.5 | 2938 | 27 | 
+| 2021-03-26 | 第8回中国女子囲碁甲級リーグ | Oh Jeonga | Zhou Hongyu | Lose | W+R | 7.5 | 2911 | -105 | 
+| 2021-03-06 | 2020-2021フューチャーズリーグ | Shin Jaeweon | Oh Jeonga | Lose | B+R | 6.5 | 3016 | -34 | 
+| 2021-02-21 | 2020-2021フューチャーズリーグ | Gon Jiwoo | Oh Jeonga | Lose | B+R | 6.5 | 3050 | -76 | 
+| 2021-02-13 | 2020-2021フューチャーズリーグ | Oh Jeonga | Hyun Yoobin | Lose | W+R | 6.5 | 3126 | -6 | 
+| 2021-02-10 | 2020-2021フューチャーズリーグ | Oh Jeonga |  | Lose | W+R | 6.5 | 3132 | -8 | 
+| 2021-02-03 | 2020-2021フューチャーズリーグ | Lee Wondo | Oh Jeonga | Lose | B+R | 6.5 | 3140 | -5 | 
+| 2021-01-23 | 2020-2021フューチャーズリーグ | Oh Jeonga | Lee Chungyu | Lose | W+R | 6.5 | 3145 | -15 | 
+| 2021-01-16 | 2020-2021フューチャーズリーグ | Song Gyusang | Oh Jeonga | Win | W+R | 6.5 | 3160 | 40 | 
+| 2021-01-09 | 2020-2021フューチャーズリーグ | Oh Jeonga | Park Jaekeun | Lose | W+R | 6.5 | 3120 | 23 | 
+| 2021-01-02 | 2020-2021フューチャーズリーグ | Gon Jiwoo | Oh Jeonga | Lose | B+R | 6.5 | 3097 | -9 | 
+| 2020-12-30 | 2020-2021フューチャーズリーグ | Oh Jeonga | Kim Hyeongwoo | Lose | W+2.5 | 6.5 | 3106 | -6 | 
+| 2020-12-24 | 2020年台湾新鋭隊vs韓国国家隊交流戦第8戦 | Yu Lijun | Oh Jeonga | Win | W+R | 6.5 | 3112 | 0 | 
+| 2020-12-24 | 2020年台湾新鋭隊vs韓国国家隊交流戦第7戦 | Oh Jeonga |  | Win | B+R | 6.5 | 3112 | 8 | 
+| 2020-12-19 | 2020-2021フューチャーズリーグ | Kim Sangcheon | Oh Jeonga | Lose | B+R | 6.5 | 3104 | -71 | 
+| 2020-12-12 | 2020-2021フューチャーズリーグ |  | Oh Jeonga | Win | W+1.5 | 6.5 | 3175 | 36 | 
+| 2020-12-09 | 2020-2021KBフューチャーズリーグ | Lee Chungyu | Oh Jeonga | Lose | B+R | 6.5 | 3139 | 7 | 
+| 2020-12-02 | 2020-2021フューチャーズリーグ | Kim Minho | Oh Jeonga | Win | W+R | 6.5 | 3132 | 20 | 
+| 2020-11-21 | 第8回中国女子囲碁甲級リーグ | Rui Naiwei | Oh Jeonga | Win | W+R | 7.5 | 3112 | 37 | 
+| 2020-11-20 | 第8回中国女子囲碁甲級リーグ | Pan Yang | Oh Jeonga | Win | W+R | 7.5 | 3075 | 79 | 
+| 2020-11-18 | 第8回中国女子囲碁甲級リーグ | Oh Jeonga | Gao Xing | Lose | W+R | 7.5 | 2996 | -25 | 
+| 2020-11-17 | 第8回中国女子囲碁甲級リーグ | Lu Minquan | Oh Jeonga | Win | W+R | 7.5 | 3021 | 15 | 
+| 2020-11-03 | 第4期韓国製紙女子棋聖戦1回戦 | Oh Jeonga | Choi Jeong | Lose | W+R | 6.5 | 3006 | 22 | 
+| 2020-09-28 | 第3回呉清源杯世界女子囲碁選手権2回戦 | Wang Chenxing | Oh Jeonga | Lose | B+3¾ | 7.5 | 2984 | 62 | 
+| 2020-09-27 | 第3回呉清源杯世界女子囲碁選手権1回戦 |  | Oh Jeonga | Win | W+R | 7.5 | 2922 | 25 | 
+| 2020-09-14 | 第14回GGオークション杯女流対シニア連勝対抗戦第13局 | An Joyeong | Oh Jeonga | Lose | B+R | 6.5 | 2897 | 6 | 
+| 2020-08-27 | 第25期女流国手戦16強戦 | Oh Jeonga | Kim Hyeoimin | Lose | W+5.5 | 6.5 | 2891 | -3 | 
+| 2020-08-22 | 第6回韓国女子囲碁リーグ第14節第2試合第2局 | Kim Miri | Oh Jeonga | Win | W+R | 6.5 | 2894 | 49 | 
+| 2020-08-14 | 第6回韓国女子囲碁リーグ第13節第2試合第1局 | Oh Jeonga | Oh Yujin | Lose | W+R | 6.5 | 2845 | 93 | 
+| 2020-08-07 | 第6回韓国女子囲碁リーグ第12節第2試合第3局 | Oh Jeonga | Lee Youngjoo | Lose | W+R | 6.5 | 2752 | -112 | 
+| 2020-07-31 | 第6回韓国女子囲碁リーグ第11節第2試合第3局 | Oh Jeonga | Lee Minjin | Win | B+3.5 | 6.5 | 2864 | 48 | 
+| 2020-07-29 | 第8回中国女子囲碁甲級リーグ第2節 | Oh Jeonga | Zhou Hongyu | Win | B+R | 7.5 | 2816 | -6 | 
+| 2020-07-25 | 第6回韓国女子囲碁リーグ第10節第3試合第3局 | Oh Jeonga |  | Win | B+R | 6.5 | 2822 | 45 | 
+| 2020-07-19 | 第6回韓国女子囲碁リーグ第9節第4試合第1局 | Park Taehee | Oh Jeonga | Win | W+R | 6.5 | 2777 | -10 | 
+| 2020-07-09 | 第6回韓国女子囲碁リーグ第8節第1試合第1局 | Oh Jeonga | Kim Dayoung | Win | B+R | 6.5 | 2787 | -3 | 
+| 2020-07-04 | 第6回韓国女子囲碁リーグ第7節第3試合第3局 | Oh Jeonga | Kim Cheayoung | Lose | W+R | 6.5 | 2790 | -1 | 
+| 2020-06-24 | 第6回韓国女子囲碁リーグ第6節第3試合第2局 | Oh Jeonga |  | Lose | W+R | 6.5 | 2791 | -18 | 
+| 2020-06-20 | 第6回韓国女子囲碁リーグ第5節第3試合第2局 | Kim Hyeoimin | Oh Jeonga | Lose | B+R | 6.5 | 2809 | -33 | 
+| 2020-06-13 | 第6回韓国女子囲碁リーグ第4節第3試合第1局 | Cho Hyeyeon | Oh Jeonga | Win | W+R | 6.5 | 2842 | 38 | 
+| 2020-06-05 | 第6回韓国女子囲碁リーグ第3節第2試合第1局 | Choi Jeong | Oh Jeonga | Lose | B+3.5 | 6.5 | 2804 | -29 | 
+| 2020-05-28 | 第6回韓国女子囲碁リーグ第2節第1試合第3局 | Park Taehee | Oh Jeonga | Lose | B+R | 6.5 | 2833 | -46 | 
+| 2020-05-24 | 第6回韓国女子囲碁リーグ第1節第4試合第3局 |  | Oh Jeonga | Win | W+R | 6.5 | 2879 | 113 | 
+| 2020-04-14 | 第25回LG杯韓国予選 | Lee Wondo | Oh Jeonga | Lose | B+R | 6.5 | 2766 | -199 | 
+| 2020-01-21 | 第13回GGオークション杯女流対シニア連勝対抗戦第13局 | Oh Jeonga | Han Chongjin | Lose | W+R | 6.5 | 2965 | 319 | 
+| 2019-11-13 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第6戦 | Oh Jeonga | Huang Shiyuan | Lose | W+R | 6.5 | 2646 | 0 | 
+| 2019-11-13 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第5戦 | Lu Yiquan | Oh Jeonga | Win | W+R | 6.5 | 2646 | -12 | 
+| 2019-11-12 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第4戦 | Oh Jeonga |  | Win | B+R | 6.5 | 2658 | 0 | 
+| 2019-11-12 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第3戦 |  | Oh Jeonga | Win | W+R | 6.5 | 2658 | 24 | 
+| 2019-11-11 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第1戦 |  | Oh Jeonga | Win | W+R | 6.5 | 2634 | 0 | 
+| 2019-11-11 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第2戦 | Oh Jeonga | Yu Lijun | Win | B+R | 6.5 | 2634 | 18 | 
+| 2019-09-29 | 第10回穹窿山兵聖杯韓国選抜戦 |  | Oh Jeonga | Lose | B+R | 7.5 | 2616 | -32 | 
+| 2019-09-28 | 第10回穹窿山兵聖杯韓国選抜戦 |  | Oh Jeonga | Win | W+R | 7.5 | 2648 | 44 | 
+| 2019-09-07 | 第5回韓国女子囲碁リーグ優勝決定戦第2戦第1局 |  | Oh Jeonga | Win | W+3.5 | 6.5 | 2604 | -3 | 
+| 2019-08-28 | 第5回韓国女子囲碁リーグプレーオフ第2戦第1局 | Oh Jeonga | Cho Hyeyeon | Lose | W+R | 6.5 | 2607 | -21 | 
+| 2019-08-27 | 第5回韓国女子囲碁リーグプレーオフ第1戦第1局 |  | Oh Jeonga | Win | W+R | 6.5 | 2628 | 3 | 
+| 2019-08-22 | 第5回韓国女子囲碁リーグ第14節第1試合第3局 |  | Oh Jeonga | Win | W+R | 6.5 | 2625 | -48 | 
+| 2019-08-13 | 第5回韓国女子囲碁リーグ第13節第2試合第1局 | Fujisawa Rina | Oh Jeonga | Lose | B+R | 6.5 | 2673 | -88 | 
+| 2019-08-07 | 第5回韓国女子囲碁リーグ第12節第3試合第1局 | Oh Jeonga |  | Win | B+R | 6.5 | 2761 | 10 | 
+| 2019-08-04 | 第6回国手山脈韓国国内トーナメント準決勝 | Oh Jeonga | Han Seungjoo | Lose | W+R | 6.5 | 2751 | 0 | 
+| 2019-08-04 | 第6回国手山脈韓国国内トーナメント8強戦 | Kim Sangcheon | Oh Jeonga | Win | W+6.5 | 6.5 | 2751 | 32 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Oh Jeonga | Hyun Yoobin | Win | B+R | 6.5 | 2719 | 0 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Oh Jeonga | Na Hyun | Win | B+R | 6.5 | 2719 | 52 | 
+| 2019-08-01 | 第5回韓国女子囲碁リーグ第11節第4試合第2局 | Oh Jeonga | Lee Youngjoo | Lose | W+0.5 | 6.5 | 2667 | -25 | 
+| 2019-07-22 | 第5回韓国女子囲碁リーグ第10節第1試合第3局 | Oh Jeonga |  | Lose | W+R | 6.5 | 2692 | -25 | 
+| 2019-07-16 | 第5回韓国女子囲碁リーグ第9節第2試合第3局 | Lee Minjin | Oh Jeonga | Lose | B+R | 6.5 | 2717 | -42 | 
+| 2019-07-11 | 第5回韓国女子囲碁リーグ第8節第4試合第3局 | Kim Miri | Oh Jeonga | Win | W+R | 6.5 | 2759 | -48 | 
+| 2019-06-27 | 第5回韓国女子囲碁リーグ第7節第4試合第1局 | Choi Jeong | Oh Jeonga | Lose | B+0.5 | 6.5 | 2807 | 0 | 
+| 2019-06-11 | 第5回韓国女子囲碁リーグ第5節第2試合第1局 | Oh Jeonga | Wang Chenxing | Lose | W+7.5 | 6.5 | 2807 | -35 | 
+| 2019-06-03 | 第5回韓国女子囲碁リーグ第4節第1試合第2局 | Oh Jeonga | Lee Youngjoo | Win | B+R | 6.5 | 2842 | 56 | 
+| 2019-05-30 | 第5回韓国女子囲碁リーグ第3節第4試合第1局 | Oh Jeonga |  | Win | B+2.5 | 6.5 | 2786 | 75 | 
+| 2019-05-15 | 第5回韓国女子囲碁リーグ第2節第3試合第1局 | Lee Minjin | Oh Jeonga | Win | W+2.5 | 6.5 | 2711 | -32 | 
+| 2019-05-06 | 第5回韓国女子囲碁リーグ第1節第1試合第1局 | Oh Jeonga |  | Win | B+R | 6.5 | 2743 | -4 | 
+| 2019-05-05 | 2019年陜川歴代英才vs女性頂上連勝対抗戦第2局 | Park Joonhoon | Oh Jeonga | Lose | B+R | 6.5 | 2747 | -20 | 
+| 2019-04-28 | 第2回呉清源杯世界女子囲碁選手権16強戦 | Gao Xing | Oh Jeonga | Lose | B+R | 7.5 | 2767 | -110 | 
+| 2019-04-21 | 第9回中国姜堰黄竜士精鍛科技杯世界女子団体戦第3戦 | Oh Jeonga | Gao Xing | Lose | W+R | 7.5 | 2877 | 129 | 
+| 2019-03-20 | 第8回天台山杯世界女子囲碁団体戦韓国選抜戦 | Oh Jeonga | Kim Cheayoung | Lose | W+R | 7.5 | 2748 | -10 | 
+| 2019-03-19 | 第8回天台山杯世界女子囲碁団体戦韓国選抜戦 | Oh Jeonga |  | Win | B+R | 7.5 | 2758 | -55 | 
+| 2018-12-14 | 第2回クラウン・ヘテ杯1回戦 |  | Oh Jeonga | Lose | B+R | 6.5 | 2813 | -9 | 
+| 2018-11-02 | 第9回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Oh Yujin | Oh Jeonga | Lose | B+R | 7.5 | 2822 | -10 | 
+| 2018-11-01 | 第9回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Oh Jeonga |  | Win | B+R | 7.5 | 2832 | -7 | 
+| 2018-10-31 | 第9回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Oh Jeonga | Ueno Asami | Win | B+R | 7.5 | 2839 | -39 | 
+| 2018-08-21 | 第9回穹窿山兵聖杯韓国選抜戦決勝 | Kim Cheayoung | Oh Jeonga | Win | W+R | 6.5 | 2878 | 17 | 
+| 2018-08-20 | 第9回穹窿山兵聖杯韓国選抜戦1回戦 | Oh Jeonga | Kim Dayoung | Win | B+R | 6.5 | 2861 | 45 | 
+| 2018-07-11 | 第20回農心杯韓国選抜戦 | Oh Jeonga |  | Win | B+R | 6.5 | 2816 | 24 | 
+| 2018-07-07 | 第23回三星火災杯統合予選決勝 | Oh Jeonga | Choi Jeong | Lose | W+R | 6.5 | 2792 | -10 | 
+| 2018-07-06 | 第23回三星火災杯統合予選準決勝 | Fujisawa Rina | Oh Jeonga | Win | W+R | 6.5 | 2802 | -40 | 
+| 2018-05-19 | 第4回韓国女子囲碁リーグ第18節 | Oh Jeonga | Kim Dayoung | Lose | W+1.5 | 6.5 | 2842 | -14 | 
+| 2018-05-15 | 第4回韓国女子囲碁リーグ第17節 | Oh Jeonga | Lu Minquan | Win | B+R | 6.5 | 2856 | 12 | 
+| 2018-05-10 | 第4回韓国女子囲碁リーグ第16節 | Oh Jeonga |  | Win | B+0.5 | 6.5 | 2844 | -19 | 
+| 2018-05-06 | 第4回韓国女子囲碁リーグ第15節 | Kim Eunseon | Oh Jeonga | Win | W+R | 6.5 | 2863 | 4 | 
+| 2018-04-30 | 第1回呉清源杯世界女流囲碁選手権8強戦 | Oh Jeonga | Yu Zhiying | Lose | W+R | 7.5 | 2859 | 11 | 
+| 2018-04-28 | 第1回呉清源杯世界女流囲碁選手権16強戦 | Oh Jeonga | Wang Chenxing | Win | B+R | 7.5 | 2848 | 24 | 
+| 2018-04-27 | 第1回呉清源杯世界女流囲碁選手権本戦1回戦 |  | Oh Jeonga | Win | W+R | 7.5 | 2824 | -32 | 
+| 2018-04-20 | 第4回韓国女子囲碁リーグ第12節 | Choi Jeong | Oh Jeonga | Lose | B+R | 6.5 | 2856 | -12 | 
+| 2018-04-18 | 第4回韓国女子囲碁リーグ第11節 | Oh Jeonga | Kang Dajeong | Lose | W+7.5 | 6.5 | 2868 | -28 | 
+| 2018-04-17 | 第4回韓国女子囲碁リーグ第10節 | Oh Jeonga | Oh Yujin | Lose | W+R | 6.5 | 2896 | -1 | 
+| 2018-04-09 | 第8回中国姜堰黄竜士精鍛科技杯世界女子団体戦第1戦 | Oh Jeonga | Nyu Eiko | Lose | W+R | 7.5 | 2897 | -47 | 
+| 2018-04-06 | 第4回韓国女子囲碁リーグ第9節 | Lee Minjin | Oh Jeonga | Win | W+3.5 | 6.5 | 2944 | 8 | 
+| 2018-03-31 | 第4回韓国女子囲碁リーグ第8節 | Lu Minquan | Oh Jeonga | Lose | B+R | 6.5 | 2936 | -54 | 
+| 2018-03-28 | 第4回韓国女子囲碁リーグ第7節 | Oh Jeonga | Gao Xing | Win | B+R | 6.5 | 2990 | -20 | 
+| 2018-03-26 | 第7回天台山農商銀行杯韓国代表選抜戦準決勝 | Kim Dayoung | Oh Jeonga | Lose | B+R | 6.5 | 3010 | 3 | 
+| 2018-03-22 | 第4回韓国女子囲碁リーグ第6節 | Oh Jeonga | Kim Hyeoimin | Win | B+R | 6.5 | 3007 | 30 | 
+| 2018-03-20 | 第4回韓国女子囲碁リーグ第5節 | Oh Jeonga | Park Jiyeon | Win | B+R | 6.5 | 2977 | -30 | 
+| 2018-03-10 | 第4回韓国女子囲碁リーグ第3節 | Oh Jeonga | Choi Jeong | Win | B+R | 6.5 | 3007 | 69 | 
+| 2018-03-01 | 第4回韓国女子囲碁リーグ第2節 | Kang Dajeong | Oh Jeonga | Win | W+R | 6.5 | 2938 | 17 | 
+| 2018-02-24 | 第4回韓国女子囲碁リーグ第1節 | Oh Yujin | Oh Jeonga | Win | W+R | 6.5 | 2921 | 15 | 
+| 2017-12-29 | 第1回クラウン・ヘテ杯2回戦 | Lee Donghoon | Oh Jeonga | Lose | B+R | 6.5 | 2906 | 57 | 
+| 2017-12-09 | 第1回クラウン・ヘテ杯1回戦 | Oh Jeonga |  | Win | B+R | 6.5 | 2849 | 21 | 
+| 2017-11-30 | 第22期女流国手戦8強戦 | Kim Miri | Oh Jeonga | Lose | B+2.5 | 6.5 | 2828 | -41 | 
+| 2017-11-22 | 第22期女流国手戦1回戦 | Oh Jeonga |  | Win | B+R | 6.5 | 2869 | 3 | 
+| 2017-11-07 | 第8回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Oh Jeonga | Yu Zhiying | Lose | W+R | 7.5 | 2866 | -9 | 
+| 2017-11-06 | 第8回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Xie Yimin | Oh Jeonga | Win | W+R | 7.5 | 2875 | -24 | 
+| 2017-10-30 | 第1期韓国製紙女子棋聖戦16強戦 | Kim Dayoung | Oh Jeonga | Lose | B+R | 6.5 | 2899 | 59 | 
+| 2017-09-21 | 8回蘇州穹窿山兵聖杯韓国選抜決勝 | Oh Jeonga | Kim Cheayoung | Win | B+R | 7.5 | 2840 | 13 | 
+| 2017-09-20 | 8回蘇州穹窿山兵聖杯韓国選抜1 | Oh Jeonga | Park Shiun | Win | B+R | 7.5 | 2827 | 158 | 
+| 2017-06-04 | 第7回中国姜堰黄竜士精鍛科技杯世界女子団体戦第10戦 | Li He | Oh Jeonga | Lose | B+R | 7.5 | 2669 | -11 | 
+| 2017-06-03 | 第7回中国姜堰黄竜士精鍛科技杯世界女子団体戦第8戦 | Oh Jeonga | Lu Jia | Win | B+1.5 | 7.5 | 2680 | -19 | 
+| 2017-05-06 | 3期韓国女子連戦14回戦京畿SG-西帰浦 | Oh Jeonga | Kim Sinyoung | Win | B+2.5 | 6.5 | 2699 | -6 | 
+| 2017-04-29 | 3期韓国女子連戦13回戦首爾-西帰浦 | Song Ronghui | Oh Jeonga | Lose | B+R | 6.5 | 2705 | -19 | 
+| 2017-04-25 | 3期韓国女子連戦12回戦扶安-西帰浦 | Oh Jeonga |  | Win | B+R | 6.5 | 2724 | 3 | 
+| 2017-04-23 | 第7回中国姜堰黄竜士精鍛科技杯世界女子団体戦第7戦 | Mukai Chiaki | Oh Jeonga | Win | W+R | 7.5 | 2721 | 0 | 
+| 2017-04-23 | 第7回中国姜堰黄竜士精鍛科技杯世界女子団体戦第6戦 | Lu Minquan | Oh Jeonga | Win | W+0.5 | 7.5 | 2721 | 79 | 
+| 2017-04-14 | 3期韓国女子連戦11回戦浦項-西帰浦 | Oh Jeonga | Cho Hyeyeon | Lose | W+R | 6.5 | 2642 | -2 | 
+| 2017-04-11 | 3期韓国女子連戦10回戦京畿湖畔-西帰浦 | Park Jiyeon | Oh Jeonga | Win | W+R | 6.5 | 2644 | 30 | 
+| 2017-04-06 | 3期韓国女子連戦9回戦麟蹄-西帰浦 | Oh Jeonga | Lee Youngjoo | Win | B+R | 6.5 | 2614 | 143 | 
+| 2017-03-23 | 3期韓国女子連戦8回戦西帰浦-麗水 | Oh Jeonga | Lee Minjin | Lose | W+R | 6.5 | 2471 | -18 | 
+| 2017-03-21 | 3期韓国女子連戦7回戦京畿SG-西帰浦 | Park Shiun | Oh Jeonga | Lose | B+R | 6.5 | 2489 | -6 | 
+| 2017-03-17 | 3期韓国女子連戦6回戦首尓-西帰浦 | Oh Jeonga | Kim Miri | Win | B+R | 6.5 | 2495 | -7 | 
+| 2017-03-12 | 3期韓国女子連戦5回戦扶安-西帰浦 | Kim Hyeoimin | Oh Jeonga | Lose | B+3.5 | 6.5 | 2502 | 5 | 
+| 2017-03-07 | 3期韓国女子連戦4回戦浦項-西帰浦 | Oh Jeonga | Cho Hyeyeon | Lose | W+3.5 | 6.5 | 2497 | -26 | 
+| 2017-03-02 | 3期韓国女子連戦3回戦京畿湖畔-西帰浦 | Oh Jeonga | Park Jiyeon | Lose | W+R | 6.5 | 2523 | 3 | 
+| 2017-02-26 | 3期韓国女子連戦2回戦麟蹄-西帰浦 | Lee Youngjoo | Oh Jeonga | Win | W+R | 6.5 | 2520 | 43 | 
+| 2017-02-19 | 3期韓国女子連戦1回戦西帰浦-麗水 | Oh Jeonga | Kim Dayoung | Win | B+R | 6.5 | 2477 | 71 | 
+| 2016-12-13 | 第21期女流国手戦決勝三番勝負第3局 | Oh Jeonga | Oh Yujin | Lose | W+1.5 | 6.5 | 2406 | -14 | 
+| 2016-12-09 | 第21期女流国手戦決勝三番勝負第2局 | Oh Yujin | Oh Jeonga | Lose | B+R | 6.5 | 2420 | -16 | 
+| 2016-11-24 | 第21期女流国手戦決勝三番勝負第1局 | Oh Jeonga | Oh Yujin | Win | B+R | 6.5 | 2436 | 9 | 
+| 2016-10-28 | 第21期女流国手戦準決勝 | Lee Sula | Oh Jeonga | Win | W+R | 6.5 | 2427 | -2 | 
+| 2016-10-12 | 韓国花様囲棋女王戦リーグ戦5回戦 | Kim Hyeoimin | Oh Jeonga | Lose | B+1.5 | 6.5 | 2429 | -11 | 
+| 2016-10-11 | 韓国花様囲棋女王戦リーグ戦4R |  | Oh Jeonga | Win | W+R | 6.5 | 2440 | 24 | 
+| 2016-10-10 | 韓国花様囲棋女王戦リーグ戦3R | Oh Jeonga | Moon Dowon | Lose | W+R | 6.5 | 2416 | -28 | 
+| 2016-09-30 | 第7期穹窿山兵聖杯韓国選抜 | Kim Hyeoimin | Oh Jeonga | Lose | B+R | 6.5 | 2444 | -99 | 
+| 2016-09-21 | 第21期女流国手戦8強戦 | Kim Eunseon | Oh Jeonga | Win | W+R | 6.5 | 2543 | -52 | 
+| 2016-08-04 | 第21期女流国手戦1回戦 | Oh Jeonga | Kim Sinyoung | Win | B+R | 6.5 | 2595 | -88 | 
+| 2016-07-19 | 第10回GGオークション杯女流対シニア連勝対抗戦第4戦 | Oh Jeonga | Seo Bongsoo | Lose | W+R | 6.5 | 2683 | -19 | 
+| 2016-07-15 | 第21回三星火災杯統合予選女子枠1回戦 | Rui Naiwei | Oh Jeonga | Lose | B+1.5 | 6.5 | 2702 | 142 | 
+| 2016-05-15 | 第5回天台山農商銀行杯世界女子団体戦第3戦 | Mannami Nao | Oh Jeonga | Win | W+2.5 | 7.5 | 2560 | 6 | 
+| 2016-05-14 | 第5回天台山農商銀行杯世界女子団体戦第2戦 | Oh Jeonga | Song Ronghui | Lose | W+R | 7.5 | 2554 | -13 | 
+| 2016-05-13 | 第5回天台山農商銀行杯世界女子団体戦第1戦 | Oh Jeonga | Zhang Kaixin | Win | B+R | 7.5 | 2567 | -71 | 
+| 2016-05-08 | 第2回韓国女子囲碁リーグ第14節 | Oh Jeonga | Kim Eunseon | Win | B+R | 6.5 | 2638 | 5 | 
+| 2016-05-03 | 第2回韓国女子囲碁リーグ第13節 | Oh Jeonga | Li He | Lose | W+R | 6.5 | 2633 | 1 | 
+| 2016-04-28 | 第2回韓国女子囲碁リーグ第12節 | Lee Youngjoo | Oh Jeonga | Win | W+1.5 | 6.5 | 2632 | 101 | 
+| 2016-04-21 | 第2回韓国女子囲碁リーグ第11節 | Kang Dajeong | Oh Jeonga | Lose | B+1.5 | 6.5 | 2531 | -30 | 
+| 2016-04-19 | 第2回韓国女子囲碁リーグ第10節 | Kim Yoonyoung | Oh Jeonga | Lose | B+2.5 | 6.5 | 2561 | -3 | 
+| 2016-04-15 | 第2回韓国女子囲碁リーグ第9節 | Kim Dayoung | Oh Jeonga | Lose | B+R | 6.5 | 2564 | 19 | 
+| 2016-04-01 | 第2回韓国女子囲碁リーグ第8節 | Oh Jeonga | Choi Jeong | Lose | W+R | 6.5 | 2545 | 19 | 
+| 2016-03-29 | 第2回韓国女子囲碁リーグ第7節 | Oh Jeonga | Kim Cheayoung | Lose | W+R | 6.5 | 2526 | -73 | 
+| 2016-03-28 | 第5回天台山農商銀行杯韓国選抜戦 | Park Shiun | Oh Jeonga | Win | W+R | 6.5 | 2599 | 36 | 
+| 2016-03-27 | 第2回韓国女子囲碁リーグ第6節 | Oh Jeonga |  | Win | B+R | 6.5 | 2563 | 14 | 
+| 2016-03-24 | 第5回天台山農商銀行杯韓国選抜戦 | Kim Hyeoimin | Oh Jeonga | Win | W+R | 6.5 | 2549 | 116 | 
+| 2016-03-20 | 第2回韓国女子囲碁リーグ第5節 | Oh Jeonga | Oh Yujin | Lose | W+R | 6.5 | 2433 | -43 | 
+| 2016-03-16 | 第6回黄竜士双登杯韓国選抜戦 | Oh Jeonga | Park Jiyeon | Lose | W+11.5 | 6.5 | 2476 | -5 | 
+| 2016-03-14 | 第3回百霊杯世界オープン戦予選 | Oh Jeonga | Li He | Lose | W+R | 7.5 | 2481 | 52 | 
+| 2016-03-08 | 第2回韓国女子囲碁リーグ第4節 | Oh Jeonga | Rui Naiwei | Lose | W+2.5 | 6.5 | 2429 | -24 | 
+| 2016-03-04 | 第2回韓国女子囲碁リーグ第3節 | Park Jiyeon | Oh Jeonga | Win | W+R | 6.5 | 2453 | -160 | 
+| 2016-02-27 | 第2回韓国女子囲碁リーグ第2節 | Lee Sula | Oh Jeonga | Win | W+R | 6.5 | 2613 | -96 | 
+| 2016-02-20 | 第2回韓国女子囲碁リーグ第1節 | Kim Sinyoung | Oh Jeonga | Lose | B+1.5 | 6.5 | 2709 | -152 | 
+| 2015-11-20 | 第17期女流名人戦（韓国）挑戦者決定戦 | Oh Jeonga | Oh Yujin | Lose | W+R | 6.5 | 2861 | -34 | 
+| 2015-10-23 | 第17期女流名人戦（韓国）準決勝 | Park Sohyun | Oh Jeonga | Win | W+R | 6.5 | 2895 | 51 | 
+| 2015-09-18 | 第17期女流名人戦（韓国）2回戦 | Kim Hyeoimin | Oh Jeonga | Win | W+R | 6.5 | 2844 | -49 | 
+| 2015-09-07 | 第9回GGオークション杯女流対シニア連勝対抗戦第13戦 |  | Oh Jeonga | Lose | B+R | 6.5 | 2893 | -5 | 
+| 2015-09-01 | 第9回GGオークション杯女流対シニア連勝対抗戦第12戦 | Oh Jeonga | Paek Seongho | Win | B+R | 6.5 | 2898 | 21 | 
+| 2015-08-31 | 第9回GGオークション杯女流対シニア連勝対抗戦第11戦 |  | Oh Jeonga | Win | W+R | 6.5 | 2877 | -32 | 
+| 2015-07-13 | 第17回農心杯韓国選抜戦 |  | Oh Jeonga | Win | W+R | 6.5 | 2909 | 2 | 
+| 2015-07-02 | 第17期女流名人戦（韓国）1回戦 |  | Oh Jeonga | Win | W+12.5 | 6.5 | 2907 | -17 | 
+| 2015-04-24 | 第20期女流国手戦準決勝 | Kim Sinyoung | Oh Jeonga | Lose | B+1.5 | 6.5 | 2924 | -68 | 
+| 2015-03-22 | 第1回韓国女子囲碁リーグ第14節 | Kim Cheayoung | Oh Jeonga | Lose | B+2.5 | 6.5 | 2992 | -77 | 
+| 2015-03-17 | 第1回韓国女子囲碁リーグ第11節 | Rui Naiwei | Oh Jeonga | Lose | B+R | 6.5 | 3069 | -69 | 
+| 2015-03-14 | 第1回韓国女子囲碁リーグ第13節 | Oh Jeonga | Park Jiyeon | Lose | W+R | 6.5 | 3138 | -14 | 
+| 2015-03-10 | 第1回韓国女子囲碁リーグ第12節 | Oh Jeonga | Kim Nahyun | Win | B+R | 6.5 | 3152 | -80 | 
+| 2015-03-06 | 第5回黄竜士双登杯世界女子囲碁団体選手権第6戦 | Oh Jeonga | Song Ronghui | Lose | W+2.5 | 7.5 | 3232 | -50 | 
+| 2015-03-05 | 第5回黄竜士双登杯世界女子囲碁団体選手権第5戦 | Fujisawa Rina | Oh Jeonga | Win | W+R | 7.5 | 3282 | 21 | 
+| 2015-03-04 | 第5回黄竜士双登杯世界女子囲碁団体選手権第4戦 | Wang Chenxing | Oh Jeonga | Win | W+R | 7.5 | 3261 | 23 | 
+| 2015-03-03 | 第5回黄竜士双登杯世界女子囲碁団体選手権第3戦 | Kibe Natsuki | Oh Jeonga | Win | W+R | 7.5 | 3238 | 9 | 
+| 2015-03-02 | 第5回黄竜士双登杯世界女子囲碁団体選手権第2戦 | Oh Jeonga | Li He | Win | B+R | 7.5 | 3229 | 21 | 
+| 2015-03-01 | 第5回黄竜士双登杯世界女子囲碁団体選手権第1戦 | Okuda Aya | Oh Jeonga | Win | W+R | 7.5 | 3208 | 3 | 
+| 2015-02-26 | 第1回韓国女子囲碁リーグ第10節 |  | Oh Jeonga | Win | W+R | 6.5 | 3205 | 58 | 
+| 2015-02-20 | 第1回韓国女子囲碁リーグ第8節 | Park Taehee | Oh Jeonga | Win | W+R | 6.5 | 3147 | 64 | 
+| 2015-02-17 | 第20期女流国手戦2回戦 | Kim Hyeoimin | Oh Jeonga | Win | W+R | 6.5 | 3083 | 103 | 
+| 2015-02-13 | 第1回韓国女子囲碁リーグ第7節 | Oh Jeonga | Kim Eunseon | Win | B+R | 6.5 | 2980 | -1 | 
+| 2015-02-10 | 第1回韓国女子囲碁リーグ第6節 | Oh Jeonga | Park Sohyun | Win | B+R | 6.5 | 2981 | 9 | 
+| 2015-02-07 | 第1回韓国女子囲碁リーグ第5節 | Oh Jeonga | Kim Sinyoung | Win | B+R | 6.5 | 2972 | 17 | 
+| 2015-02-01 | 第1回韓国女子囲碁リーグ第4節 | Oh Jeonga | Lee Minjin | Lose | W+3.5 | 6.5 | 2955 | -60 | 
+| 2015-01-27 | 第1回韓国女子囲碁リーグ第3節 | Oh Jeonga |  | Win | B+13.5 | 6.5 | 3015 | 25 | 
+| 2015-01-18 | 第1回韓国女子囲碁リーグ第1節 | Hei Jiajia | Oh Jeonga | Win | W+R | 6.5 | 2990 | 111 | 
+| 2015-01-02 | 第16期女流名人戦（韓国）敗者復活戦3回戦 | Oh Yujin | Oh Jeonga | Lose | B+R | 6.5 | 2879 | -30 | 
+| 2014-12-26 | 第16期女流名人戦（韓国）敗者復活戦2回戦 | Oh Jeonga | Park Jiyeon | Win | B+R | 6.5 | 2909 | 236 | 
+| 2014-11-03 | 第16期女流名人戦（韓国）敗者復活戦1回戦 | Oh Jeonga | Kang Dajeong | Win | B+R | 6.5 | 2673 | -142 | 
+| 2014-10-08 | 第16期女流名人戦（韓国）本戦1回戦 | Oh Jeonga | Park Jiyeon | Lose | W+0.5 | 6.5 | 2815 | -195 | 
+| 2014-09-12 | 第20期女流国手戦1回戦 | Oh Yujin | Oh Jeonga | Win | W+3.5 | 6.5 | 3010 | 127 | 
+| 2014-09-01 | 第8回GGオークション杯女流対シニア連勝対抗戦第17戦 | Oh Jeonga | Yoo Changhyuk | Lose | W+R | 6.5 | 2883 | -32 | 
+| 2014-08-26 | 第8回GGオークション杯女流対シニア連勝対抗戦第16戦 | Cho Hunhyun | Oh Jeonga | Win | W+0.5 | 6.5 | 2915 | 30 | 
+| 2014-08-25 | 第8回GGオークション杯女流対シニア連勝対抗戦第15戦 | Oh Jeonga | Seo Bongsoo | Win | B+R | 6.5 | 2885 | 46 | 
+| 2014-04-27 | 第3回天台山葛玄緑茶杯世界女子団体戦第3戦 | Zhang Kaixin | Oh Jeonga | Win | W+R | 7.5 | 2839 | -63 | 
+| 2014-04-26 | 第3回天台山葛玄緑茶杯世界女子団体戦第2戦 | Oh Jeonga | Okuda Aya | Win | B+R | 7.5 | 2902 | 2 | 
+| 2014-04-25 | 第3回天台山葛玄緑茶杯世界女子団体戦第1戦 | Oh Jeonga | Rui Naiwei | Lose | W+10.5 | 7.5 | 2900 | -4 | 
+| 2014-02-20 | 第15期女流名人戦（韓国）挑戦者決定戦 | Park Jiyeon | Oh Jeonga | Lose | B+R | 6.5 | 2904 | -29 | 
+| 2014-02-18 | 第19期女流国手戦2回戦 | Oh Yujin | Oh Jeonga | Lose | B+R | 6.5 | 2933 | 17 | 
+| 2013-12-14 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Oh Jeonga | Park Shiun | Lose | W+R | 7.5 | 2916 | -62 | 
+| 2013-12-13 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Hei Jiajia | Oh Jeonga | Lose | B+5.5 | 7.5 | 2978 | 0 | 
+| 2013-12-13 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Fujisawa Rina | Oh Jeonga | Win | W+R | 7.5 | 2978 | -60 | 
+| 2013-12-12 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Yu Jin | Oh Jeonga | Win | W+R | 7.5 | 3038 | 273 | 
+| 2013-10-23 | 第19期女流国手戦1回戦 | Oh Jeonga | Choi Jeong | Win | B+R | 6.5 | 2765 | -38 | 
+| 2013-10-07 | 第15期女流名人戦（韓国）本戦勝者組決勝 | Oh Jeonga | Park Jiyeon | Win | B+R | 6.5 | 2803 | 22 | 
+| 2013-09-30 | 第3回スポーツアコードワールドマインドゲームズ囲碁韓国予選 | Park Jiyeon | Oh Jeonga | Win | W+R | 6.5 | 2781 | 7 | 
+| 2013-09-25 | 第3回スポーツアコードワールドマインドゲームズ囲碁韓国予選 | Choi Jeong | Oh Jeonga | Win | W+R | 6.5 | 2774 | -139 | 
+| 2013-09-08 | 第4回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Tang Yi | Oh Jeonga | Lose | B+R | 7.5 | 2913 | -87 | 
+| 2013-09-04 | 第18回三星火災杯世界囲碁マスターズ1回戦E2 | An Sungjoon | Oh Jeonga | Lose | B+R | 6.5 | 3000 | -43 | 
+| 2013-09-03 | 第18回三星火災杯世界囲碁マスターズ1回戦E1 | Chang Hao | Oh Jeonga | Lose | B+R | 6.5 | 3043 | -103 | 
+| 2013-08-21 | 第15期女流名人戦（韓国）本戦2回戦 | Oh Jeonga | Kim Eunseon | Win | B+R | 6.5 | 3146 | 45 | 
+| 2013-08-07 | 第18回三星火災杯統合予選女子枠決勝 | Oh Jeonga | Cao Youyin | Win | B+0.5 | 6.5 | 3101 | 323 | 
+| 2013-05-07 | 第15期女流名人戦（韓国）本戦1回戦 | Oh Jeonga | Kim Hyeoimin | Win | B+R | 6.5 | 2778 | 184 | 
+| 2013-01-28 | 第3回黄竜士双登杯韓国選抜戦 | Moon Dowon | Oh Jeonga | Lose | B+R | 7.5 | 2594 | -298 | 
+| 2012-11-15 | 第18期女流国手戦2回戦 | Oh Jeonga | Kim Cheayoung | Lose | W+4.5 | 6.5 | 2892 | -415 | 
+| 2012-09-20 | 第18期女流国手戦1回戦 | Oh Jeonga | Choi Jeong | Win | B+R | 6.5 | 3307 | 3307 | 
+| 2012-09-14 | 2012年韓国囲碁リーグ | Cho Hanseung | Oh Jeonga | Lose | B+R | 6.5 | missing | 0 | 
+| 2011-08-09 | 第5回GGオークション杯女流対シニア連勝対抗戦第14戦 | Cho Hunhyun | Oh Jeonga | Lose | B+3.5 | 6.5 | missing | 0 | 
+| 2011-06-22 | 第17期女流国手戦予選 | Oh Jeonga | Moon Dowon | Lose | W+R | 6.5 | missing | missing |
 
 
 

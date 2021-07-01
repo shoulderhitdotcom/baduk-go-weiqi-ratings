@@ -1,7 +1,7 @@
 const PATH = "c:/git/baduk-go-weiqi-ratings/"
 using Pkg; Pkg.activate(PATH); cd(PATH)
 using Revise: includet
-using DataFrames, DataFramesMeta
+using DataFrames, DataFrameMacros
 using Chain: @chain
 using Dates: Date, Day
 using JDF
@@ -21,12 +21,12 @@ db = load_namesdb("NAMESDB"; force=false)
 
 do_for_all = false
 
-# @where(stack(DataFrame(db), :), :value .== "Kim Jiseok")
+# @subset(stack(DataFrame(db), :), :value .== "Kim Jiseok")
 
 # tbl_from_somewhere = @chain "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
 #         JDF.load()
 #         DataFrame()
-#         @where (:black .== "金志錫") .& (:white .== "金志錫")
+#         @subset (:black .== "金志錫") .& (:white .== "金志錫")
 #         select!(:kifu_link)
 # end
 
@@ -39,10 +39,10 @@ if do_for_all
 end
 
 head_to_head_sets = @chain df begin
-    @where @. !ismissing(:black)
-    @where @. !ismissing(:white)
-    @where in.(:black, Ref(names_to_update))
-    @where in.(:white, Ref(names_to_update))
+    @subset !ismissing(:black)
+    @subset !ismissing(:white)
+    @subset :black in names_to_update
+    @subset :white in names_to_update
     Dict(Set((n1, n2)) => true for (n1, n2) in zip(_.black, _.white))
     keys() # keys are the name pairs
     collect.() # returns an array of arays of two values
@@ -54,13 +54,13 @@ end
 for (name1, name2) in head_to_head_sets
     # println(name1, name2)
     head_to_head = @chain df begin
-        @where ((:black .== name1) .& (:white .== name2)) .| ((:black .== name2) .& (:white .== name1))
-        @transform name1win = @. ifelse((:who_win == "W") & (:white == name1) | (:who_win == "B") & (:black == name1), 1, 0)
-        @transform name1win_cum = reverse(accumulate(+, reverse(:name1win)))
-        @transform name2win_cum = reverse(accumulate(+, 1 .- reverse(:name1win)))
-        @transform cum = @. string(:name1win_cum) * ":" * string(:name2win_cum)
-        @transform name1win_streak = accumulate((cum, newres)->ifelse(newres == 1, cum+1, 0), reverse(:name1win)) |> reverse
-        @transform name2win_streak = accumulate((cum, newres)->ifelse(newres == 1, cum+1, 0), reverse(1 .- :name1win)) |> reverse
+        @subset ((:black .== name1) .& (:white .== name2)) .| ((:black .== name2) .& (:white .== name1))
+        @transform :name1win = ifelse((:who_win == "W") & (:white == name1) | (:who_win == "B") & (:black == name1), 1, 0)
+        @transform :name1win_cum = @c reverse(accumulate(+, reverse(:name1win)))
+        @transform :name2win_cum = @c reverse(accumulate(+, 1 .- reverse(:name1win)))
+        @transform :cum = string(:name1win_cum) * ":" * string(:name2win_cum)
+        @transform :name1win_streak = @c accumulate((cum, newres)->ifelse(newres == 1, cum+1, 0), reverse(:name1win)) |> reverse
+        @transform :name2win_streak = @c accumulate((cum, newres)->ifelse(newres == 1, cum+1, 0), reverse(1 .- :name1win)) |> reverse
         select!(
             :date=>:Date,
             :comp=>:Comp,

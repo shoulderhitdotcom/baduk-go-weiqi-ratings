@@ -1,7 +1,7 @@
 const PATH = "c:/git/baduk-go-weiqi-ratings/"
 using Pkg; Pkg.activate(PATH); cd(PATH)
 using Revise: includet
-using DataFrames, DataFramesMeta
+using DataFrames, DataFrameMacros
 using Chain: @chain
 using Serialization: deserialize
 using Dates: Date, Day
@@ -18,15 +18,15 @@ includet("utils.jl")
 tbl = @chain "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
     JDF.load()
     DataFrame()
-    @transform date = parse.(Date, :date)
-    @transform komi_fixed = replace(
+    @transform :date = parse(Date, :date)
+    @transform :komi_fixed = @c replace(
         :komi,
         6.4 => 6.5,
         8.0 => 7.5,
         750 => 7.5,
         605.0 => 6.5
     )
-    @where in.(:komi_fixed, Ref((6.5, 7.5)))
+    @subset :komi_fixed in (6.5, 7.5)
     select!(Not([:sgf, :comp, :result, :kifu_link, :win_by, :komi]))
 end
 
@@ -53,7 +53,7 @@ end
 if false
     for date_filter in filter(x-> x <= Date("2016-06-19"), sort!(unique(tbl.date), rev=true))
         println(date_filter)
-        tbl_earlier = @where(tbl, :date .<= date_filter)
+        tbl_earlier = @subset(tbl, :date <= date_filter)
         @time estimate_ratings_and_save_records(tbl_earlier)
     end
 end
@@ -69,23 +69,22 @@ const OFFSET = 3800-6.5/log(10)*400
 # out_path = @target pings_for_md1 = @chain @watch(pings) begin
 
 function turn_records_into_md(pings)
-    pings_for_md1 = @chain pings begin
-        @transform name = Vector{String}(:name) # avoid weird SentinelArray Bug
-        @transform eng_name_old = coalesce.(eng_name.(:name), Ref(""));
-        @transform eng_name = "[" .* :eng_name_old .* "](./player-games-md/md/" .* :eng_name_old .* ".md)"
-        @transform estimate_for_ranking = :estimate .- 1.97 .* :std_error
-        @transform Rating = @. round(Int, :estimate * 400 / log(10) + OFFSET)
-        @transform rating_for_ranking = @. round(Int, :estimate_for_ranking * 400 / log(10) + OFFSET)
-        @transform rating_uncertainty = "±" .* string.(round.(Int, :std_error .* 400 ./ log(10)))
+    @chain pings begin
+        @transform :name = @c Vector{String}(:name) # avoid weird SentinelArray Bug
+        @transform :eng_name_old = coalesce(eng_name(:name), "");
+        @transform :eng_name = "[" * :eng_name_old * "](./player-games-md/md/" * :eng_name_old * ".md)"
+        @transform :estimate_for_ranking = :estimate - 1.97 * :std_error
+        @transform :Rating = round(Int, :estimate * 400 / log(10) + OFFSET)
+        @transform :rating_for_ranking = round(Int, :estimate_for_ranking * 400 / log(10) + OFFSET)
+        @transform :rating_uncertainty = "±" * string(round(Int, :std_error * 400 / log(10)))
         sort!(:estimate_for_ranking, rev=true)
-        @transform Rank = 1:length(:estimate_for_ranking)
+        @transform :Rank = @c 1:length(:estimate_for_ranking)
     end
 end
 
-
 # make ratings database
 if false# run only once to generate the historical ratings
-    @time pings_hist = mapreduce(vcat, Date(2001, 1, 1):Day(1):Date(2021,6,5)) do date
+    @time pings_hist = mapreduce(vcat, Date(2001, 1, 1):Day(1):Date(2021,6,20)) do date
         if isfile("records/$(string(date)) pings.csv")
             pings_old = CSV.read("records/$(string(date)) pings.csv", DataFrame; select=[:name, :estimate, :std_error])
             pings_old[!, :date] .= date
@@ -121,6 +120,18 @@ pings_for_md = select(
     :name=>"Hanzi (汉字) Name")
 
 JDF.save("pings_for_md.jdf", pings_for_md)
+
+CSV.write("c:/data/tmp.csv", pings_for_md)
+
+using ParallelKMeans: kmeans
+
+m = kmeans(reshape(Float64.(pings_for_md.Rating), 1, :), 10)
+pings_for_md.m = m.assignments
+
+
+@chain pings_for_md begin
+    select(:Name, :Rating, :m)
+end
 
 ## make a GLM solution
 ## Doesn't work

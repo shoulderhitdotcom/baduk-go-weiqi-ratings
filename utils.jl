@@ -14,16 +14,15 @@ function eng_name(name)
 end
 
 
-const AI = ["FineArt(絶芸)", "Golaxy", "韓豆", "BADUKi", "LeelaZero", "GLOBIS-AQZ", "Baduki", "DolBaram", "Raynz", "AlphaGo"]
+const AI = ["FineArt(絶芸)", "Golaxy", "韓豆", "BADUKi", "LeelaZero", "GLOBIS-AQZ", "Baduki", "DolBaram", "Raynz", "AlphaGo", "DeepZenGo", "CGI", "Aya", "ELFOpenGo", "ALPHAGOZERO", "AQ", "AlphaGoZero", "AlphaGoMaster", "星陣", "AQ", "Aya", "Aq", "神算子"]
 const INFREQUENT_THRESHOLD = 10
 
 function prep_data(from_date, to_date, tbl)
     tbl_1yr = @chain tbl begin
-        @where .!in.(:black, Ref(AI))
-        @where .!in.(:white, Ref(AI))
-        @where :who_win .!= "Void"
-        @where from_date .<= :date .<= to_date
-        #@where ((:black .!= "柯潔") .& (:white .!= "柯潔")) .| (:date .<= Date("2021-01-01")) # for assess ke jie form
+        @subset .!in.(:black, Ref(AI))
+        @subset .!in.(:white, Ref(AI))
+        @subset :who_win .!= "Void"
+        @subset from_date .<= :date .<= to_date
     end
 
     all_players_before_filter = vcat(tbl_1yr.black, tbl_1yr.white) |> unique
@@ -33,19 +32,19 @@ function prep_data(from_date, to_date, tbl)
     while !retained_at_least_one_win_one_loss
         won_at_least_one_game = @chain tbl_1yr begin
             select([:black, :white, :who_win])
-            @transform winner = ifelse.(:who_win .== "B", :black, :white)
+            @transform :winner = ifelse(:who_win == "B", :black, :white)
             groupby(:winner)
             combine(nrow)
-            @where :nrow .>= 1
+            @subset :nrow >= 1
             _.winner
         end
 
         lost_at_least_one_game = @chain tbl_1yr begin
             select([:black, :white, :who_win])
-            @transform loser = ifelse.(:who_win .== "B", :white, :black)
+            @transform :loser = ifelse(:who_win == "B", :white, :black)
             groupby(:loser)
             combine(nrow)
-            @where :nrow .>= 1
+            @subset :nrow >= 1
             _.loser
         end
 
@@ -53,13 +52,10 @@ function prep_data(from_date, to_date, tbl)
 
         # estimate their strengths
         tbl_1yr = @chain tbl_1yr begin
-            # @where .!in.(:black, Ref(infrequents.name))
-            # @where .!in.(:white, Ref(infrequents.name))
-
-            @where in.(:black, Ref(won_at_least_one_game))
-            @where in.(:white, Ref(won_at_least_one_game))
-            @where in.(:black, Ref(lost_at_least_one_game))
-            @where in.(:white, Ref(lost_at_least_one_game))
+            @subset in(:black, won_at_least_one_game)
+            @subset in(:white, won_at_least_one_game)
+            @subset in(:black, lost_at_least_one_game)
+            @subset in(:white, lost_at_least_one_game)
         end
 
         if nrow(tbl_1yr) == before_nrow
@@ -109,7 +105,6 @@ function estimate_rating(from_date, to_date = from_date + Day(364); tbl)
 
     R"""
         df = data.table::fread("tmp-df-pls-del.csv")
-        #m = glm(y~.-1, df, family=binomial, start = rep(5, ncol(df)-1))
         m = glm(y~.-1, df, family=binomial)
         strengths = broom::tidy(m)
     """
@@ -118,15 +113,16 @@ function estimate_rating(from_date, to_date = from_date + Day(364); tbl)
 
     @rget strengths
 
-
     pings = @chain strengths[1:end-2, :] begin
-        @transform name = players
+        @transform :name = @c players
         leftjoin(games_played, on =:name)
-        @transform estimate = disallowmissing(coalesce.(:estimate, 0.0))
-        @transform std_error = disallowmissing(coalesce.(:std_error, mean(:std_error |> skipmissing)))
-        @transform estimate_for_ranking = :estimate .- 1.97 .* :std_error
+        @transform :estimate = coalesce(:estimate, 0.0)
+        @transform :estimate = @c disallowmissing(:estimate)
+        @aside mean_std = mean(_.std_error |> skipmissing)
+        @transform :std_error = @c disallowmissing(@.(coalesce(:std_error, mean_std)))
+        @transform :estimate_for_ranking = :estimate - 1.97 * :std_error
         sort!(:estimate_for_ranking, rev=true)
-        @transform Rank = 1:length(:estimate_for_ranking)
+        @transform :Rank = @c 1:length(:estimate_for_ranking)
     end
 
     pings, tbl_1yr, strengths.estimate[end-1], strengths.estimate[end], abnormal_players

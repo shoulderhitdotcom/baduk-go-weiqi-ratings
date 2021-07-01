@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-01 | 第46期棋聖戦Cリーグ | Nakamura Sumire | Shuto Shun | Lose | W+1.5 | 6.5 | 2658 | 12 | 
+| 2021-07-01 | 第46期棋聖戦Cリーグ | Nakamura Sumire | Shuto Shun | Lose | W+1.5 | 6.5 | 2646 | -16 | 
 | 2021-06-15 | 第8期会津中央病院・女流立葵杯準決勝 | Nyu Eiko | Nakamura Sumire | Lose | B+6.5 | 6.5 | 2662 | -7 | 
 | 2021-06-03 | 第60期十段戦予選 | Nakane Naoyuki | Nakamura Sumire | Win | W+1.5 | 6.5 | 2669 | -9 | 
 | 2021-05-27 | 第46期棋聖戦Cリーグ | Nakamura Sumire | Mizokami Tomochika | Lose | W+R | 6.5 | 2678 | 1 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-01 | 第7回韓国女子囲碁リーグ | Kim Cheayoung |  | Win | B+R | 6.5 | 3032 | -4 | 
+| 2021-07-01 | 第7回韓国女子囲碁リーグ | Kim Cheayoung |  | Win | B+R | 6.5 | 3036 | 7 | 
 | 2021-06-30 | 第1回IBK企業銀行杯女子囲碁マスターズ1回戦 | Kim Yoonyoung | Kim Cheayoung | Lose | B+R | 6.5 | 3029 | 4 | 
 | 2021-06-24 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Kim Miri | Win | B+2.5 | 6.5 | 3025 | 7 | 
 | 2021-06-18 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Cheayoung | Lose | B+R | 6.5 | 3018 | -14 | 

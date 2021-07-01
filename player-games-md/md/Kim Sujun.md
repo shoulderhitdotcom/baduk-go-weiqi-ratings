@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-07-01 | 第60期十段戦予選 | Kim Sujun | Xie Yimin | Lose | W+R | 6.5 | 2981 | -322 | 
+| 2021-07-01 | 第60期十段戦予選 | Kim Sujun | Xie Yimin | Lose | W+R | 6.5 | 2981 | -11 | 
+| 2021-07-01 | 第60期十段戦予選 | Kim Sujun | Xie Yimin | Lose | W+R | 6.5 | 2992 | -311 | 
 | 2021-01-28 | 第69期王座戦予選 | Yoda Norimoto | Kim Sujun | Lose | B+0.5 | 6.5 | 3303 | 106 | 
 | 2020-11-01 | 第3回SGW杯中庸戦4回戦（優勝決定戦）  | Kanazawa Hideo | Kim Sujun | Lose | B+R | 6.5 | 3197 | 0 | 
 | 2020-11-01 | 第3回SGW杯中庸戦3回戦  | Kim Sujun | Akiyama Jiro | Win | B+R | 6.5 | 3197 | 60 | 

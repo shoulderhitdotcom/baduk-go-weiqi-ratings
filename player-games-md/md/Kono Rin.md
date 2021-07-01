@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-01 | 第46期名人戦リーグ  | Ichiriki Ryo | Kono Rin | Lose | B+0.5 | 6.5 | 3107 | 1 | 
+| 2021-07-01 | 第46期名人戦リーグ  | Ichiriki Ryo | Kono Rin | Lose | B+0.5 | 6.5 | 3106 | -44 | 
+| 2021-06-14 | 第46期名人戦リーグ | Kono Rin | Motoki Katsuya | Lose | W+R | 6.5 | 3150 | -4 | 
 | 2021-06-10 | 第46期棋聖戦Sリーグ | Kono Rin | Yu Zhengqi | Lose | W+R | 6.5 | 3154 | -35 | 
 | 2021-05-27 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Kono Rin | Adachi Toshimasa | Lose | W+R | 6.5 | 3189 | -5 | 
 | 2021-05-06 | 第46期棋聖戦Sリーグ | Murakawa Daisuke | Kono Rin | Lose | B+R | 6.5 | 3194 | -22 | 

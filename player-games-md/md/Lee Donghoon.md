@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-03 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Lee Donghoon | Lee Changseok | Lose | W+R | 6.5 | 3472 | -14 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Rong Yi | Lose | W+R | 7.5 | 3486 | -11 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Li Xuanhao | Lose | W+R | 7.5 | 3497 | 4 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Yang Kaiwen | Win | B+R | 7.5 | 3493 | 10 | 

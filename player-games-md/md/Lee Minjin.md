@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-03 | 第7回韓国女子囲碁リーグ | Lee Minjin | Lee Youngjoo | Lose | W+3.5 | 6.5 | 2904 | 31 | 
+| 2021-07-03 | 第7回韓国女子囲碁リーグ | Lee Minjin | Lee Youngjoo | Lose | W+3.5 | 6.5 | 2873 | -18 | 
 | 2021-06-25 | 第7回韓国女子囲碁リーグ | Lee Minjin | Kim Dayoung | Lose | W+9.5 | 6.5 | 2891 | -23 | 
 | 2021-06-17 | 第7回韓国女子囲碁リーグ |  | Lee Minjin | Win | W+4.5 | 6.5 | 2914 | 18 | 
 | 2021-06-13 | 第7回韓国女子囲碁リーグ | Lee Minjin |  | Lose | W+3.5 | 6.5 | 2896 | -61 | 

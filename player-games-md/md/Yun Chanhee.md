@@ -5,215 +5,216 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Kang Dongyun | Yun Chanhee | B+R | 2021-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LnXylr%2FxcOCBnAa%2Fxmrf7w%3D%3D) | 
-| 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Yun Chanhee | Park Jaekeun | B+R | 2021-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bou%2BapC5lXoYhxDu562FoQ%3D%3D) | 
-| 第1回牛膝鳳爪韓国棋院選手権戦予選 | Park Jinsol | Yun Chanhee | W+R | 2021-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SL38bJnpof3mId4EJZQKEg%3D%3D) | 
-| 第44期名人戦（韓国）予選 | Yun Chanhee | Lee Donghoon | B+R | 2021-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4JO7Hzyb8op%2B82237mtnQw%3D%3D) | 
-| 第1回ORO30-40囲碁選手権決勝五番勝負第5局 | Yun Chanhee | Han Sanghoon | W+0.5 | 2020-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6zMQhOJsfy46FA9B0MJemA%3D%3D) | 
-| 第1回ORO30-40囲碁選手権決勝五番勝負第4局 | Han Sanghoon | Yun Chanhee | W+R | 2020-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nPdhsS0yUyrCPCukSZHJvQ%3D%3D) | 
-| 第1回ORO30-40囲碁選手権決勝五番勝負第3局 | Yun Chanhee | Han Sanghoon | B+R | 2020-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kB1vZA8LUQJVkAbKCXzHwg%3D%3D) | 
-| 第1回ORO30-40囲碁選手権決勝五番勝負第2局 | Han Sanghoon | Yun Chanhee | B+R | 2020-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0KWbzwtaUiMe9uef3H005A%3D%3D) | 
-| 第1回ORO30-40囲碁選手権決勝五番勝負第1局 | Yun Chanhee | Han Sanghoon | W+0.5 | 2020-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dqBq4NnBjsAzDo0juve5lQ%3D%3D) | 
-| 第2回大統領杯全国囲碁大会1回戦 | Song Jihoon | Yun Chanhee | B+R | 2020-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xBn%2FwMCUuuIdcoBS2OwIzA%3D%3D) | 
-| 第1回ORO30-40囲碁選手権リーグ | Yun Chanhee | Paek Hongseok | B+R | 2020-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q%2Babd4jlBOJrCwH%2FZrrueQ%3D%3D) | 
-| 第1回ORO30-40囲碁選手権リーグ | Cho Hyeyeon | Yun Chanhee | W+R | 2020-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n2F%2BRf61wiWuRp%2FbJCaG8Q%3D%3D) | 
-| 第1回ORO30-40囲碁選手権リーグ | Yun Chanhee | On Sojin | B+1.5 | 2020-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8p%2BWFiGBFPqfPm2KO%2FZLNQ%3D%3D) | 
-| 第1回ORO30-40囲碁選手権リーグ | Yun Chanhee | Yun Junsang | W+R | 2020-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=32UjTns5e16FhWQf3mhw4A%3D%3D) | 
-| 第1回ORO30-40囲碁選手権リーグ | Kim Sonjin | Yun Chanhee | B+R | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m7WjCpy2p8s1qBElD9eJTg%3D%3D) | 
-| 第1回ORO30-40囲碁選手権リーグ | Yun Chanhee | Park Seunghwa | W+4.5 | 2020-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uD9A4qQxcmSot2nIY5ZNgQ%3D%3D) | 
-| 第1回ORO30-40囲碁選手権リーグ | Han Sanghoon | Yun Chanhee | W+R | 2020-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yg89CZdAmZPBU705eVOOBg%3D%3D) | 
-| 第3期韓国竜星戦8強戦 | Yun Chanhee | Shin Jinseo | W+R | 2020-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WeDxHNqXFoz1IQTNgvdahw%3D%3D) | 
-| 第25回LG杯韓国予選 | Yun Chanhee | missing | B+R | 2020-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h0M%2BEY48HR0NJ5Pc0HpaHA%3D%3D) | 
-| 第3期韓国竜星戦16強戦 | Yun Chanhee | Song Gyusang | B+R | 2020-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xOJCSLVsCDCa%2FtV89d179Q%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第17節第3試合第5局 | Yun Chanhee | Seol Hyunjun | W+0.5 | 2020-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rReshtEETB67ZYLwX23JDQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第16節第2試合第1局 | Yun Chanhee | Paek Hongseok | W+R | 2020-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OwoJSYK0z6SLQvjRuI8h0A%3D%3D) | 
-| 第3期韓国竜星戦32強戦 | Lee Jihyun | Yun Chanhee | W+R | 2020-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HLKlTSjZvObpDv2zTqFr8w%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第14節第1試合第2局 | missing | Yun Chanhee | B+R | 2020-01-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4u8WfNxzTqotXmH9w6h%2FRg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第13節第4試合第5局 | Yun Chanhee | Lee Changseok | B+R | 2019-12-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P4yONoBIM3cLoaRN4QK9UA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第12節第3試合第2局 | Kang Dongyun | Yun Chanhee | B+R | 2019-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LOCSmRiSl8INmVp8Sums0A%3D%3D) | 
-| 第25期GSカルテックス杯プロ棋戦予選決勝 | Yun Chanhee | Kang Seungmin | W+R | 2019-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H8sxYPK1t%2FTe3xqnrkZb2A%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第11節第1試合第1局 | Park Joonhoon | Yun Chanhee | W+R | 2019-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r2OHBjqoF7lw%2F7w3U63kQg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第9節第2試合第4局 | Yun Chanhee | Ryu Suhang | W+R | 2019-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hFYtmWlCU%2BlwSqOzF36HaA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第8節第2試合第3局 | Seol Hyunjun | Yun Chanhee | B+R | 2019-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yv7c07wZcJussKsyM79cwg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第7節第4試合第3局 | Yun Chanhee | Yun Junsang | W+R | 2019-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bEUBoqr%2BWIhQGFlrMkTOsw%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第5節第4試合第4局 | Yun Chanhee | Kim Myounghoon | W+R | 2019-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GiLcllFVsQrzjpC9Qh2jIg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第4節第1試合第5局 | Yun Chanhee | Kim Sedong | B+R | 2019-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TqErOmABIogK21Su5XLndg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第3節第2試合第3局 | Yun Chanhee | Shin Minjun | W+0.5 | 2019-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f3H2vPUVtMqK8lBiyMusVQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第2節第4試合第3局 | Park Yeonghun | Yun Chanhee | B+0.5 | 2019-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BKex0hI1wu%2BOzGeyl2TOJQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第1節第2試合第5局 | Shin Jinseo | Yun Chanhee | B+R | 2019-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t3sWIPiHY%2FPHPFGgweX4Dg%3D%3D) | 
-| 第21回農心杯韓国選抜戦 | Weon Seongjin | Yun Chanhee | B+R | 2019-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bmD7rZqP9qYzLIwCsm9BbQ%3D%3D) | 
-| 第4回夢百合杯統合予選準決勝 | Yun Chanhee | Mi Yuting | W+R | 2019-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I670Goj1qkkTjBBNCcctRA%3D%3D) | 
-| 第38回KBS杯囲碁王戦1回戦 | Han Wonggyu | Yun Chanhee | W+5.5 | 2019-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V5tE2OMh0j5a89WqXRii1g%3D%3D) | 
-| 2019年韓中囲碁リーグチャンピオンズカップ第2戦 | Yu Zhiying | Yun Chanhee | W+2.5 | 2019-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fl7DFBCDh0wnhnZTE%2BRFnA%3D%3D) | 
-| 2019年韓中囲碁リーグチャンピオンズカップ第1戦 | Yun Chanhee | Zhao Chenyu | W+R | 2019-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MygsibEkx57N2X2tFR%2BVXw%3D%3D) | 
-| 2018年韓国囲碁リーグ第13節 | Hong Seongji | Yun Chanhee | B+R | 2018-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cVpRmKVaaMIX8veipfbNsg%3D%3D) | 
-| 2018年韓国囲碁リーグ第12節 | Yun Chanhee | Hong Kipyo | B+R | 2018-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XuqWqVWwAGbXO%2Bq9cdWG5Q%3D%3D) | 
-| 2018年韓国囲碁リーグ第11節 | Shin Minjun | Yun Chanhee | B+R | 2018-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1aFDYnJ3UKNdSjxi4ya8ww%3D%3D) | 
-| 第37回KBS杯囲碁王戦16強戦 | Yun Chanhee | Kim Myounghoon | W+R | 2018-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wdViN470CdxPR2L%2FYzIbvQ%3D%3D) | 
-| 2018年韓国囲碁リーグ第10節 | Ryu Suhang | Yun Chanhee | B+R | 2018-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t%2FvBlNdQrqHIJ0MZcIFV%2BA%3D%3D) | 
-| 2018年韓国囲碁リーグ第9節 | Yun Chanhee | Park Jinsol | W+R | 2018-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PcmVz2lrUites%2FbcAGGoBA%3D%3D) | 
-| 2018年韓国囲碁リーグ第8節 | Yun Chanhee | Lee Sedol | B+R | 2018-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sWr8xFknFdoOS27HKPovVA%3D%3D) | 
-| 2018年韓国囲碁リーグ第7節 | Park Yeonghun | Yun Chanhee | B+R | 2018-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1WBbvnfcYCoVKq59czrypw%3D%3D) | 
-| 2018年韓国囲碁リーグ第6節 | Yun Chanhee | Park Minkyu | B+R | 2018-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MW%2FNcQ9Vik6YdaYxmvjCSQ%3D%3D) | 
-| 2018年韓国囲碁リーグ第5節 | Kang Seungmin | Yun Chanhee | W+R | 2018-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ilRpU9b2FhKVZvPfCtW7kw%3D%3D) | 
-| 第20回農心杯韓国選抜戦 | Shin Jinseo | Yun Chanhee | B+R | 2018-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0LsrwVA5BYTd9Yro2W0zvQ%3D%3D) | 
-| 2018年韓国囲碁リーグ第4節 | Yun Chanhee | Kang Dongyun | B+R | 2018-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O3CgbraH64mnuNH2Vt4Dzw%3D%3D) | 
-| 第20回農心杯韓国選抜戦 | Cho Hanseung | Yun Chanhee | W+R | 2018-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TfFFYkGc3VWpGMesHJIZTw%3D%3D) | 
-| 2018年韓国囲碁リーグ第3節 | Choi Jaeyoung | Yun Chanhee | B+R | 2018-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V8E1G0bKklmKdnvH%2BNnPyg%3D%3D) | 
-| 2018年中国囲碁乙級リーグ | Wang Haoyang | Yun Chanhee | W+R | 2018-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OKQjy%2BuiTQEERkTjN1StJQ%3D%3D) | 
-| 2018年中国囲碁乙級リーグ | Yun Chanhee | Chen Xian | B+R | 2018-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XJLKUK%2BlyDAPPw1pszyh3w%3D%3D) | 
-| 第37回KBS杯囲碁王戦32強戦 | Yun Chanhee | missing | B+R | 2018-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FRTzK01UIe74no8ovH%2BZjg%3D%3D) | 
-| 第23期GSカルテックス杯プロ棋戦16強戦 | Kim Jiseok | Yun Chanhee | B+0.5 | 2018-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YXjLS%2FUi803CajAKpgfw3A%3D%3D) | 
-| 第23期GSカルテックス杯プロ棋戦24強戦 | Hong Seongji | Yun Chanhee | W+0.5 | 2018-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j0oNnaNC5en9nz8bmhH7ow%3D%3D) | 
-| 2017年韓国囲碁リーグ優勝決定戦第3戦 | Lee Changho | Yun Chanhee | B+R | 2017-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h9%2FlQ9WkbLvpcE86wBX9jA%3D%3D) | 
-| 2017年韓国囲碁リーグ優勝決定戦第2戦 | Yun Chanhee | Lee Changho | W+R | 2017-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sg6rLWlxEA7mtilEKVPCXQ%3D%3D) | 
-| 2017年韓国囲碁リーグ優勝決定戦第1戦 | Kim Myounghoon | Yun Chanhee | B+R | 2017-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FGF6D9y%2FGcUYn83yWiW1Qw%3D%3D) | 
-| 2017年韓国囲碁リーグプレーオフ第3戦 | Yun Chanhee | Yun Junsang | B+R | 2017-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8jQ%2FhSRJrEx4Htb1MHylCA%3D%3D) | 
-| 2017年韓国囲碁リーグプレーオフ第1戦 | Yun Chanhee | Yun Junsang | W+R | 2017-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mTk%2Bg5yy1KwxzpR5TQKxuw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Yun Junsang | Yun Chanhee | B+R | 2017-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cZQ6omQ9cceX05z%2FIHqz0Q%3D%3D) | 
-| 2017年韓国囲碁リーグ | Lee Jihyun | Yun Chanhee | B+R | 2017-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NIg%2Bb6%2FctR2JbPauTmVxZw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Yun Chanhee | Lee Taehyun | B+6.5 | 2017-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NRd510DUZewyr%2B2iu6%2BV1Q%3D%3D) | 
-| 2017年韓国囲碁リーグ | Kim Junghyun | Yun Chanhee | B+R | 2017-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ulv2GyhlHy1vvHXfZTlIuw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Yun Chanhee | Shen Zaiyi | B+R | 2017-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ii7G8Kcv0uNyzJmHq4A69Q%3D%3D) | 
-| 2017年韓国囲碁リーグ | Yun Chanhee | Song Jihoon | W+R | 2017-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FoWyC8FhqFaIg%2FMUhAMLsw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Yun Chanhee | Shin Jinseo | W+3.5 | 2017-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9NCyc5U5QwwwzzT7v5TedQ%3D%3D) | 
-| 2017年韓国囲碁リーグ | Weon Seongjin | Yun Chanhee | B+R | 2017-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zbRFOIqVVB1EveJivoHlgw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Yun Chanhee | Yun Junsang | B+1.5 | 2017-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1EF8ceFy6XAnW87b5RBOgA%3D%3D) | 
-| 2017年韓国囲碁リーグ | Jin Siyoung | Yun Chanhee | W+R | 2017-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IjS%2BSlSQHCVmF%2FkCe1%2FvDw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Yun Chanhee | Lee Taehyun | W+R | 2017-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5%2FtQoKMVukCTOakasUktYA%3D%3D) | 
-| 2017年韓国囲碁リーグ | Yun Chanhee | Kim Junghyun | B+0.5 | 2017-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BSIpUIbdtwFfMvWlFvm6cA%3D%3D) | 
-| 2017年韓国囲碁リーグ | Lee Sedol | Yun Chanhee | W+R | 2017-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ExJLqO284NADjzNn4fTSJw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Yun Chanhee | Song Jihoon | B+R | 2017-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9iJ6%2B3IB9pQXGwzZDldbYg%3D%3D) | 
-| 第22回三星火災杯統合予選2回戦 | Shi Yue | Yun Chanhee | B+R | 2017-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p0bCLly1rMeLIMYl7%2B%2BZpA%3D%3D) | 
-| 2017年韓国囲碁リーグ | Yun Chanhee | Shin Jinseo | W+R | 2017-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u16tpDLXb5JwvoOsjKltJQ%3D%3D) | 
-| 2017年韓国囲碁リーグ | Weon Seongjin | Yun Chanhee | B+R | 2017-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mQYK59rH61DbppEbbV781Q%3D%3D) | 
-| 第22期GSカルテックス杯プロ棋戦16強戦 | Yun Chanhee | Heo Yongho | W+R | 2017-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yKp6bC4ai4gv9lpHzRI5NQ%3D%3D) | 
-| Alphago Online Series on Tygem and Fox 26 | missing | Yun Chanhee | B+R | 2016-12-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TNPu18bl%2FWSkPYfgegWE%2FA%3D%3D) | 
-| 2016年韓国囲碁リーグ | Yun Chanhee | Kang Yootaek | W+R | 2016-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dDTkUgyyAYlzM0abHhFmZw%3D%3D) | 
-| 2016年韓国囲碁リーグ | Yun Chanhee | Park Minkyu | B+R | 2016-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FaRZcX7W0rY21LqWgyFO4w%3D%3D) | 
-| 2016年韓国囲碁リーグ | Yun Chanhee | Kim Seongjae | W+R | 2016-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oBSeiQP8MyckiOf6UPHZuQ%3D%3D) | 
-| 2016年韓国囲碁リーグ | Yun Chanhee | Kim Seongjae | W+R | 2016-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SfsO7bvxeCbsn6cFqXpYBw%3D%3D) | 
-| 2016年韓国囲碁リーグ | Yun Chanhee | Han Taehee | B+R | 2016-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d0vpv%2BpT6I2W6VDlOgiIMQ%3D%3D) | 
-| 2016年韓国囲碁リーグ | Park Yeonghun | Yun Chanhee | B+R | 2016-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R%2FTZuTCn3%2FTyk%2FD5RelZAA%3D%3D) | 
-| 2016年韓国囲碁リーグ第14節 | Park Cheongsang | Yun Chanhee | W+R | 2016-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ujIJHafCpBSsBogUQrYzlQ%3D%3D) | 
-| 2016年韓国囲碁リーグ第13節 | Yun Chanhee | Lee Hobum | B+R | 2016-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZWiUpnfCJedeWSAYotn20w%3D%3D) | 
-| 2016年韓国囲碁リーグ第12節 | Lee Jihyun | Yun Chanhee | W+R | 2016-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oix6ECPaUydTzINlYE2ppA%3D%3D) | 
-| 2016年韓国囲碁リーグ第11節 | Hong Kipyo | Yun Chanhee | W+R | 2016-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kT4RFhsKSVmBgdzsdz7bZg%3D%3D) | 
-| 2016年韓国囲碁リーグ第10節 | Yun Chanhee | Yun Junsang | W+R | 2016-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XTk1kDKMYiqZ4Ugnb1qY3Q%3D%3D) | 
-| 2016年韓国囲碁リーグ第9節 | Yun Chanhee | Kim Sooyong | B+0.5 | 2016-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p5AJs9NBCPJLe40dRnefkQ%3D%3D) | 
-| 2016年韓国囲碁リーグ第8節 | Yun Chanhee | Paek Hongseok | W+4.5 | 2016-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uxw44kGOS6gncaNhkDiFoA%3D%3D) | 
-| 2016年韓国囲碁リーグ第6節 | Yun Chanhee | Kang Seungmin | W+R | 2016-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XuThSoEgi5KAQomgxwAIpg%3D%3D) | 
-| 2016年韓国囲碁リーグ第5節 | Hong Seongji | Yun Chanhee | B+R | 2016-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BM60luiqbVVRC%2BAbRlJOtw%3D%3D) | 
-| 2016年韓国囲碁リーグ第4節 | Yun Chanhee | Lee Hobum | B+R | 2016-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KZ3z0SVs3GNtq6r%2BCickbQ%3D%3D) | 
-| 第35回KBS杯囲碁王戦2回戦 | Kim Seungjun | Yun Chanhee | B+R | 2016-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sf7caycwZ0ssRbLanMAY0w%3D%3D) | 
-| 2016年韓国囲碁リーグ第3節 | Yun Chanhee | Kang Dongyun | W+R | 2016-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jxUfBUKM0Pl%2FQQ3cxSHRLw%3D%3D) | 
-| 2016年韓国囲碁リーグ第2節 | Shin Jinseo | Yun Chanhee | B+R | 2016-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GXTXGiE5ckYc4F1ttiyRpA%3D%3D) | 
-| 2016年韓国囲碁リーグ第1節 | Kim Jiseok | Yun Chanhee | B+R | 2016-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Ijs8xcmo%2BXA8QfN2Wj4BA%3D%3D) | 
-| 第21期GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Yun Chanhee | Lee Donghoon | W+R | 2016-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gEl%2BcylF2zVYyLp9SY%2B6rg%3D%3D) | 
-| 第21期GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Lee Donghoon | Yun Chanhee | B+R | 2016-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bz%2BUkKoQy6MEhj%2FGe1hmSA%3D%3D) | 
-| 第21期GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Yun Chanhee | Lee Donghoon | W+R | 2016-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=laS6UyT4LC02fbg4SNi7nA%3D%3D) | 
-| 第21期GSカルテックス杯プロ棋戦準決勝 | Yun Chanhee | Weon Seongjin | B+0.5 | 2016-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BCiE02tyOXtfdDlunvmWVw%3D%3D) | 
-| 第21期GSカルテックス杯プロ棋戦3回戦 | Yun Chanhee | Shin Jinseo | B+R | 2016-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q4A4hEQLwYzW5bSadbrPpg%3D%3D) | 
-| 第35回KBS杯囲碁王戦1回戦 | Park Yeonghun | Yun Chanhee | W+4.5 | 2016-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1iF3ejsbZOFXqC1Eb6Hm7A%3D%3D) | 
-| 第21期GSカルテックス杯プロ棋戦2回戦 | Yun Chanhee | Kim Myounghoon | B+R | 2016-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xHaR8NR6rBRZDbth5xJzdA%3D%3D) | 
-| 第21期GSカルテックス杯プロ棋戦1回戦 | Yun Chanhee | Kang Seungmin | B+0.5 | 2016-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BGZApF9HnYIBDlskLoVwzw%3D%3D) | 
-| 2015年レッツランパーク杯オープントーナメント2回戦 | Yun Chanhee | Park Jaekeun | W+R | 2015-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dyB60LBEbXO0t5BuUv7nLg%3D%3D) | 
-| 2015年フューチャーズリーグ | Yun Chanhee | Kim Hyeoimin | B+R | 2015-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ic1A%2F8bUnC%2F8j4aw24gJUQ%3D%3D) | 
-| 2015年レッツランパーク杯オープントーナメント1回戦 | Yun Chanhee | Choi Myeonghun | B+3.5 | 2015-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X31pB8%2FrOF%2Femh7rnOjPDA%3D%3D) | 
-| 2015年フューチャーズリーグ | Yun Chanhee | Kim Hwansoo | B+R | 2015-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5sCXAM6uk0DJkwECcIq2Aw%3D%3D) | 
-| 2015年フューチャーズリーグ | missing | Yun Chanhee | B+R | 2015-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3QE%2FfZMyWirc1aBzvi%2FzTg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Yun Chanhee | Kang Seungmin | W+R | 2015-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4R8SqQ6pGv9%2F8AeqenzYVA%3D%3D) | 
-| 2015年フューチャーズリーグ | Yun Chanhee | Ryu Suhang | B+R | 2015-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5p6IP0IU0I5JdR%2BMxRsk9w%3D%3D) | 
-| 第43期名人戦（韓国）予選 | Min Sangyoun | Yun Chanhee | B+R | 2015-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=THfY9qh9Ozf5jIgFcjUOeQ%3D%3D) | 
-| 2015年フューチャーズリーグ | Yun Chanhee | missing | B+R | 2015-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bP4HF53tWgkCtTzmE%2FVMng%3D%3D) | 
-| 2015年フューチャーズリーグ | Shin Yoonho | Yun Chanhee | W+R | 2015-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FfTPxxYVhhbRkox4uSxi8w%3D%3D) | 
-| 2015年フューチャーズリーグ | Lee Changseok | Yun Chanhee | W+0.5 | 2015-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yJ%2BtkH6T4msiH%2BkEsdBlCA%3D%3D) | 
-| 2015年フューチャーズリーグ | Choi Jaeyoung | Yun Chanhee | W+R | 2015-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jPtHrR%2FtTNEIyWXaaK9BuA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Mok Jinseok | Yun Chanhee | B+4.5 | 2015-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gACNIBlIvjMXBsTiJ3Ew%2FQ%3D%3D) | 
-| 2015年フューチャーズリーグ | Kim Hyeoimin | Yun Chanhee | W+R | 2015-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yyVQd6Op3s%2BFNhJ6v3r3tQ%3D%3D) | 
-| 2015年フューチャーズリーグ | You Byungyong | Yun Chanhee | B+R | 2015-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QuE4OJTdhn28c2JTjDfGMQ%3D%3D) | 
-| 2015年フューチャーズリーグ | Park Jaekeun | Yun Chanhee | W+4.5 | 2015-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oCjdfF7tvgRYzs%2FKg0%2FbQA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Jaekeun | Yun Chanhee | B+4.5 | 2015-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=614vhYXzeoHdJ4bntLV5gQ%3D%3D) | 
-| 2015年フューチャーズリーグ | Yun Chanhee | Ryu Suhang | B+2.5 | 2015-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1IXhTTACgXPp0m3SBJnJ3w%3D%3D) | 
-| 2015年韓国囲碁リーグ | Yun Chanhee | Lee Taehyun | B+R | 2015-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XqNutnxIHj%2By%2BwbpUCNoTQ%3D%3D) | 
-| 2015年フューチャーズリーグ | Park Jinsol | Yun Chanhee | B+R | 2015-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uI7q9xzCnvazDZTUPwMo2g%3D%3D) | 
-| 2015年韓国囲碁リーグ | Yun Chanhee | Min Sangyoun | B+R | 2015-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ds2RIH26wowYJkb%2Be9T9qA%3D%3D) | 
-| 2015年フューチャーズリーグ | Yun Chanhee | Park Hamin | B+R | 2015-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KS3uB0geH9SaFA3j%2BR14Ow%3D%3D) | 
-| 2015年フューチャーズリーグ | Yun Chanhee | Ko Keuntae | B+R | 2015-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dpQdb%2BsY3VgxOJSRikh3aA%3D%3D) | 
-| 2015年フューチャーズリーグ | Kim Juho | Yun Chanhee | B+R | 2015-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KuNh1xa0PLT0eE6MoKc1nA%3D%3D) | 
-| 第33回KBS杯囲碁王戦敗者復活戦決勝 | Lee Donghoon | Yun Chanhee | B+0.5 | 2015-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E9CQr7RmdGXM04For0h8ug%3D%3D) | 
-| 第33回KBS杯囲碁王戦敗者復活戦準決勝 | An Sungjoon | Yun Chanhee | W+R | 2015-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dHtSgd6zk3cB5gAFJ2EHtg%3D%3D) | 
-| 第33回KBS杯囲碁王戦敗者復活戦4回戦 | Kim Junghyun | Yun Chanhee | W+R | 2015-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L3RVNf%2BNV3sgsMSI1KGCaA%3D%3D) | 
-| 第33回KBS杯囲碁王戦敗者復活戦3回戦 | Kim Jiseok | Yun Chanhee | W+R | 2014-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3o%2FahiT7fYXZXj2tKcvDdg%3D%3D) | 
-| 2014年フューチャーズリーグ | Yun Chanhee | Yang Wooseok | B+1.5 | 2014-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kluyXfXS010X2msbKUmP1w%3D%3D) | 
-| 2014年レッツランパーク杯オープントーナメント4回戦 | Yun Chanhee | Kang Dongyun | W+R | 2014-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bu1rl%2BqCDSVHRR%2FTyDWW9Q%3D%3D) | 
-| 2014年フューチャーズリーグ | Ko Keuntae | Yun Chanhee | W+0.5 | 2014-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c%2FtltzhGIQ%2FRaHV2PQn8Ww%3D%3D) | 
-| 第33回KBS杯囲碁王戦敗者復活戦2回戦 | Yun Chanhee | Min Sangyoun | B+R | 2014-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gNiPRrDV06wfJEsMWgRyVw%3D%3D) | 
-| 2014年フューチャーズリーグ | Yun Chanhee | Seol Hyunjun | B+R | 2014-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TBZSai2OkzdhlKVXy2kajw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Lee Jihyun | Yun Chanhee | B+R | 2014-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UlbUNqkvcPtGTYih7WCI8Q%3D%3D) | 
-| 第33回KBS杯囲碁王戦本戦3回戦 | Yun Chanhee | Lee Donghoon | W+1.5 | 2014-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gD9XFmjqgwkW7YeBZ%2BDv3g%3D%3D) | 
-| 2014年レッツランパーク杯オープントーナメント3回戦 | Yun Chanhee | Kim Hyeongwoo | B+R | 2014-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z8xc%2F9HFcyZl%2BtBl6h1ErA%3D%3D) | 
-| 2014年フューチャーズリーグ | Yun Chanhee | missing | B+R | 2014-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5wJH3u97aJlwC9Gjvg%2BqiQ%3D%3D) | 
-| 2014年レッツランパーク杯オープントーナメント2回戦 | Yun Chanhee | Lee Taehyun | B+R | 2014-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P%2FkuzMwnH%2BVEHST%2B%2FbwM%2Bg%3D%3D) | 
-| 2014年フューチャーズリーグ | Yun Chanhee | missing | B+R | 2014-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M%2FIWDlc49dQXk%2FJaRRX4cA%3D%3D) | 
-| 2014年フューチャーズリーグ | Yun Chanhee | missing | B+R | 2014-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8NQEDR1Mbyf5Q3nS9N8lQw%3D%3D) | 
-| 2014年フューチャーズリーグ | Yun Chanhee | Cho Insun | W+R | 2014-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ix6B9mykFfS7Urj09SQx7g%3D%3D) | 
-| 第33回KBS杯囲碁王戦本戦2回戦 | Kim Daeyoung | Yun Chanhee | W+1.5 | 2014-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qTdhFj7eTX3apL4JfwhUNQ%3D%3D) | 
-| 2014年フューチャーズリーグ | Yun Chanhee | Park Jinsol | W+R | 2014-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FEUJ0brl%2BjbB7UB2YpFAHg%3D%3D) | 
-| 2014年フューチャーズリーグ | Lee Hyungjin | Yun Chanhee | B+R | 2014-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ytl6%2FljfWqqXdznRWT2VHw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Yun Chanhee | Lee Hyungjin | W+1.5 | 2014-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BrzqeXPEF%2BsFaYI%2BvGqDiw%3D%3D) | 
-| 2014年フューチャーズリーグ | Yun Chanhee | missing | B+R | 2014-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WA%2FPMrwl6PTNFViNtwgMsA%3D%3D) | 
-| 2014年フューチャーズリーグ | missing | Yun Chanhee | W+R | 2014-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gEzZC45Xv3Gv5ZgrACYfGg%3D%3D) | 
-| 2014年フューチャーズリーグ | Yun Chanhee | Hong Kipyo | W+R | 2014-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0sf%2BDZEnrYUi8anX642G4w%3D%3D) | 
-| 第33回KBS杯囲碁王戦本戦1回戦 | Na Hyun | Yun Chanhee | W+R | 2014-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q4XRdsMkvM%2FlxVbvlSR7Ng%3D%3D) | 
-| 第7期圓益杯十段戦1回戦 | Mok Jinseok | Yun Chanhee | B+R | 2011-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XdUiUw3VHEuTq%2Fyg07pSuQ%3D%3D) | 
-| 第39期名人戦（韓国）1回戦 | Yun Chanhee | Lee Changho | W+R | 2011-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BvlKKFmbO8rVuvPxGVDnjg%3D%3D) | 
-| 第39期名人戦（韓国）予選 | Yang Keon | Yun Chanhee | W+R | 2011-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2%2Frp%2BQgeMghvmBP8kk5RCg%3D%3D) | 
-| 第13回農心杯韓国選抜戦 | Yun Chanhee | Park Yeonghun | W+R | 2011-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aQtyO42oVbbOdoS7cOXrkA%3D%3D) | 
-| 第16期GSカルテックス杯プロ棋戦1回戦 | Kim Juho | Yun Chanhee | B+R | 2011-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NvJVzhANeHY3LwCu%2BQGhvQ%3D%3D) | 
-| 第6期圓益杯十段戦1回戦 | An Joyeong | Yun Chanhee | B+R | 2010-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w%2BFR9aimjMgTQaEksrnQ3Q%3D%3D) | 
-| 2010年韓国囲碁リーグ | Park Junghwan | Yun Chanhee | W+R | 2010-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r6hYWp5aH7%2FX1511l5%2B5gQ%3D%3D) | 
-| 第15回LG杯予選 | Yun Chanhee | Zhou Heyang | B+R | 2010-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d2Lof%2BEoUvuonrsdyop79A%3D%3D) | 
-| 第28回KBS杯囲碁王戦敗者復活戦準決勝 | Lee Changho | Yun Chanhee | B+R | 2010-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6ChmQYNZ2AUMdBILOEqELg%3D%3D) | 
-| 第28回KBS杯囲碁王戦敗者復活戦4回戦 | Yun Chanhee | An Joyeong | B+R | 2009-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wiaJmmCkJ0FAbsnBj3F0LA%3D%3D) | 
-| 第28回KBS杯囲碁王戦敗者復活戦3回戦 | Lee Huiseong | Yun Chanhee | W+R | 2009-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pJgRmjYCaaPNbq38g0HHQg%3D%3D) | 
-| 第28回KBS杯囲碁王戦敗者復活戦2回戦 | Yun Chanhee | Han Sanghoon | B+R | 2009-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wkNOHUhoQSqzXSF15rr1vw%3D%3D) | 
-| 第28回KBS杯囲碁王戦敗者復活戦1回戦 | Yun Chanhee | Kang Changbae | B+0.5 | 2009-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WsWvi1GhfPlTf296z8sFgg%3D%3D) | 
-| 第28回KBS杯囲碁王戦本戦2回戦 | Yun Chanhee | Kang Dongyun | W+R | 2009-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t6nyX22dF7entZznXtDZ2w%3D%3D) | 
-| 第28回KBS杯囲碁王戦本戦1回戦 | Jen Youngkyu | Yun Chanhee | W+R | 2009-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y9zmil8xVqB%2Fnq2dzP5s2g%3D%3D) | 
-| 2008年韓国囲碁リーグ | Heo Yongho | Yun Chanhee | B+R | 2008-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wPf1YlL6ZcAyTReYglsX%2FQ%3D%3D) | 
-| 2008年韓国囲碁リーグ | Yun Chanhee | Kang Yootaek | B+0.5 | 2008-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S%2FxLhsZN1lYaPahbaFR%2Fng%3D%3D) | 
-| 2008年韓国囲碁リーグ | Lee Sedol | Yun Chanhee | B+R | 2008-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MWWEkX3CEwA%2Fs7zbChGhJA%3D%3D) | 
-| 2008年韓国囲碁リーグ | Bae Junhee | Yun Chanhee | W+1.5 | 2008-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c%2FgGTIYeX781%2FCabifZ56Q%3D%3D) | 
-| 第4期圓益杯十段戦2回戦 | Yun Chanhee | Hong Minpyo | B+R | 2008-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R5RMy4xVGoY%2BWlOTN8fcqg%3D%3D) | 
-| 2008年韓国囲碁リーグ | Yun Chanhee | Kim Dongyeop | B+7.5 | 2008-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KDr9ANBiVBp5xayPrXFl0Q%3D%3D) | 
-| 2008年韓国囲碁リーグ | Yun Chanhee | Cho Hunhyun | W+R | 2008-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OAsJGDfbQ1jCXzTiY%2B0LVw%3D%3D) | 
-| 第4期圓益杯十段戦1回戦 | Yun Chanhee | Han Sanghoon | B+R | 2008-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uMbepM4JMkGzlIcQMkEInw%3D%3D) | 
-| 2008年韓国囲碁リーグ | Cho Hanseung | Yun Chanhee | B+0.5 | 2008-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9MdLNkJH95f6uoKQx%2FaFgQ%3D%3D) | 
-| 2008年韓国囲碁リーグ | Yun Chanhee | On Sojin | B+R | 2008-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jg0T8969QMOr%2B1MejWAqzw%3D%3D) | 
-| 第4期物価情報杯プロ棋戦リーグD | Yun Chanhee | Mok Jinseok | W+R | 2008-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n0rlWMaRhSDwA04l5Bq0TQ%3D%3D) | 
-| 第5期電子ランド杯王中王戦2回戦 | Mok Jinseok | Yun Chanhee | B+R | 2008-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yYdLE87%2BbXLa3sSWOPTetQ%3D%3D) | 
-| 2008年韓国囲碁リーグ | Cho Hyeyeon | Yun Chanhee | B+R | 2008-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JFNrxqQqAuqy%2FYyAHbZImQ%3D%3D) | 
-| 第5期電子ランド杯王中王戦1回戦 | Yun Chanhee | missing | B+R | 2008-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7WjLgpffAnc7qoItfU%2FbTw%3D%3D) | 
-| 第4期物価情報杯プロ棋戦リーグD | Lee Yeongkyu | Yun Chanhee | B+R | 2008-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zRmBeMW9BVCYS9APSCvmgg%3D%3D) | 
-| 2008年韓国囲碁リーグ | Yun Chanhee | An Joyeong | W+R | 2008-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r5avWTujRphNybQizTY5dA%3D%3D) | 
-| 2008年韓国囲碁リーグ | Yun Chanhee | Kim Juho | W+R | 2008-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BaFsNd0tLDNlNvtGm8Sjyg%3D%3D) | 
-| 第4期物価情報杯プロ棋戦リーグD | Lee Jungwoo | Yun Chanhee | W+6.5 | 2008-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gs5cP4QBd7tHzKE18aG9BA%3D%3D) | 
-| 第5期電子ランド杯王中王戦予選 | Yun Chanhee | Han Sanghoon | W+R | 2008-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RSlBBFHyXg67U28XZk5ytg%3D%3D) | 
-| 2007年韓国囲碁リーグ | Hong Minpyo | Yun Chanhee | B+R | 2007-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=39F8ggyr5Lp34NuthEoESA%3D%3D) | 
-| 2007年韓国囲碁リーグ | Yun Chanhee | Lee Sedol | B+R | 2007-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ze%2BiglrVKnDS2Q5a%2B4UAog%3D%3D) | 
-| 2007年韓国囲碁リーグ | Kim Kiyoung | Yun Chanhee | B+R | 2007-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ObcNVdRzwn%2Bwf3WrD5HGdQ%3D%3D) | 
-| 2007年韓国囲碁リーグ | Yun Chanhee | Heo Yongho | B+R | 2007-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eJGVfL4YT25wE5W2z7tI0g%3D%3D) | 
-| 2007年韓国囲碁リーグ | Park Cheongsang | Yun Chanhee | W+2.5 | 2007-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oXB1WPWcat4SMiVCKShK5g%3D%3D) | 
-| 第7期オスラムコリア杯新鋭連勝最強戦第15戦 | Yun Chanhee | Kim Jiseok | W+2.5 | 2007-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q%2Bov%2FKsOXeqOTPfHLYt2gg%3D%3D) | 
-| 第7期オスラムコリア杯新鋭連勝最強戦第14戦 | Kim Hyeoimin | Yun Chanhee | W+4.5 | 2007-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hJSOV0wLnGl2W5dn%2BA2b3w%3D%3D) | 
-| 2007年韓国囲碁リーグ | Yun Chanhee | Heo Yongho | W+6.5 | 2007-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gs%2BUS9nwJPwbpxd70ka0lA%3D%3D) | 
-| 2007年韓国囲碁リーグ | Yun Chanhee | Cho Hunhyun | B+2.5 | 2007-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9oap1%2BahMbt4UyS5NbkmKw%3D%3D) | 
-| 2007年韓国囲碁リーグ | Yun Chanhee | Paek Hongseok | W+4.5 | 2007-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R16ACfsj9UtSdiMN8ctOOQ%3D%3D) | 
-| 第41期王位戦3回戦 | Yun Chanhee | Yun Junsang | W+R | 2007-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1W4BwRLVqk4IMrnEGPNj0w%3D%3D) | 
-| 第41期王位戦2回戦 | Mok Jinseok | Yun Chanhee | W+R | 2007-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tNOId4OKEyKV25zjdFUODQ%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-04 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | An Sungjoon | Yun Chanhee | Lose | B+R | 6.5 | 3242 | -42 | 
+| 2021-05-16 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Kang Dongyun | Yun Chanhee | Lose | B+R | 6.5 | 3284 | -210 | 
+| 2021-03-16 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Yun Chanhee | Park Jaekeun | Win | B+R | 6.5 | 3494 | 58 | 
+| 2021-02-25 | 第1回牛膝鳳爪韓国棋院選手権戦予選 | Park Jinsol | Yun Chanhee | Win | W+R | 6.5 | 3436 | -36 | 
+| 2021-01-14 | 第44期名人戦（韓国）予選 | Yun Chanhee | Lee Donghoon | Win | B+R | 6.5 | 3472 | 24 | 
+| 2020-11-27 | 第1回ORO30-40囲碁選手権決勝五番勝負第5局 | Yun Chanhee | Han Sanghoon | Lose | W+0.5 | 6.5 | 3448 | -19 | 
+| 2020-11-26 | 第1回ORO30-40囲碁選手権決勝五番勝負第4局 | Han Sanghoon | Yun Chanhee | Win | W+R | 6.5 | 3467 | 20 | 
+| 2020-11-25 | 第1回ORO30-40囲碁選手権決勝五番勝負第3局 | Yun Chanhee | Han Sanghoon | Win | B+R | 6.5 | 3447 | 24 | 
+| 2020-11-24 | 第1回ORO30-40囲碁選手権決勝五番勝負第2局 | Han Sanghoon | Yun Chanhee | Lose | B+R | 6.5 | 3423 | -15 | 
+| 2020-11-23 | 第1回ORO30-40囲碁選手権決勝五番勝負第1局 | Yun Chanhee | Han Sanghoon | Lose | W+0.5 | 6.5 | 3438 | -43 | 
+| 2020-11-21 | 第2回大統領杯全国囲碁大会1回戦 | Song Jihoon | Yun Chanhee | Lose | B+R | 6.5 | 3481 | 145 | 
+| 2020-10-26 | 第1回ORO30-40囲碁選手権リーグ | Yun Chanhee | Paek Hongseok | Win | B+R | 6.5 | 3336 | 10 | 
+| 2020-10-15 | 第1回ORO30-40囲碁選手権リーグ | Cho Hyeyeon | Yun Chanhee | Win | W+R | 6.5 | 3326 | 18 | 
+| 2020-10-07 | 第1回ORO30-40囲碁選手権リーグ | Yun Chanhee | On Sojin | Win | B+1.5 | 6.5 | 3308 | -1 | 
+| 2020-09-28 | 第1回ORO30-40囲碁選手権リーグ | Yun Chanhee | Yun Junsang | Lose | W+R | 6.5 | 3309 | 19 | 
+| 2020-09-17 | 第1回ORO30-40囲碁選手権リーグ | Kim Sonjin | Yun Chanhee | Lose | B+R | 6.5 | 3290 | 6 | 
+| 2020-09-10 | 第1回ORO30-40囲碁選手権リーグ | Yun Chanhee | Park Seunghwa | Lose | W+4.5 | 6.5 | 3284 | 4 | 
+| 2020-09-02 | 第1回ORO30-40囲碁選手権リーグ | Han Sanghoon | Yun Chanhee | Win | W+R | 6.5 | 3280 | 190 | 
+| 2020-05-19 | 第3期韓国竜星戦8強戦 | Yun Chanhee | Shin Jinseo | Lose | W+R | 6.5 | 3090 | 83 | 
+| 2020-04-13 | 第25回LG杯韓国予選 | Yun Chanhee |  | Win | B+R | 6.5 | 3007 | 59 | 
+| 2020-04-08 | 第3期韓国竜星戦16強戦 | Yun Chanhee | Song Gyusang | Win | B+R | 6.5 | 2948 | -230 | 
+| 2020-01-25 | 2019-2020韓国囲碁リーグ第17節第3試合第5局 | Yun Chanhee | Seol Hyunjun | Lose | W+0.5 | 6.5 | 3178 | -19 | 
+| 2020-01-17 | 2019-2020韓国囲碁リーグ第16節第2試合第1局 | Yun Chanhee | Paek Hongseok | Lose | W+R | 6.5 | 3197 | -6 | 
+| 2020-01-16 | 第3期韓国竜星戦32強戦 | Lee Jihyun | Yun Chanhee | Win | W+R | 6.5 | 3203 | 60 | 
+| 2020-01-02 | 2019-2020韓国囲碁リーグ第14節第1試合第2局 |  | Yun Chanhee | Lose | B+R | 6.5 | 3143 | -15 | 
+| 2019-12-29 | 2019-2020韓国囲碁リーグ第13節第4試合第5局 | Yun Chanhee | Lee Changseok | Win | B+R | 6.5 | 3158 | 364 | 
+| 2019-12-21 | 2019-2020韓国囲碁リーグ第12節第3試合第2局 | Kang Dongyun | Yun Chanhee | Lose | B+R | 6.5 | 2794 | -19 | 
+| 2019-12-18 | 第25期GSカルテックス杯プロ棋戦予選決勝 | Yun Chanhee | Kang Seungmin | Lose | W+R | 6.5 | 2813 | -3 | 
+| 2019-12-12 | 2019-2020韓国囲碁リーグ第11節第1試合第1局 | Park Joonhoon | Yun Chanhee | Win | W+R | 6.5 | 2816 | 68 | 
+| 2019-11-29 | 2019-2020韓国囲碁リーグ第9節第2試合第4局 | Yun Chanhee | Ryu Suhang | Lose | W+R | 6.5 | 2748 | -81 | 
+| 2019-11-22 | 2019-2020韓国囲碁リーグ第8節第2試合第3局 | Seol Hyunjun | Yun Chanhee | Lose | B+R | 6.5 | 2829 | -24 | 
+| 2019-11-16 | 2019-2020韓国囲碁リーグ第7節第4試合第3局 | Yun Chanhee | Yun Junsang | Lose | W+R | 6.5 | 2853 | -61 | 
+| 2019-11-03 | 2019-2020韓国囲碁リーグ第5節第4試合第4局 | Yun Chanhee | Kim Myounghoon | Lose | W+R | 6.5 | 2914 | 36 | 
+| 2019-10-24 | 2019-2020韓国囲碁リーグ第4節第1試合第5局 | Yun Chanhee | Kim Sedong | Win | B+R | 6.5 | 2878 | 91 | 
+| 2019-10-18 | 2019-2020韓国囲碁リーグ第3節第2試合第3局 | Yun Chanhee | Shin Minjun | Lose | W+0.5 | 6.5 | 2787 | -49 | 
+| 2019-10-06 | 2019-2020韓国囲碁リーグ第2節第4試合第3局 | Park Yeonghun | Yun Chanhee | Lose | B+0.5 | 6.5 | 2836 | 10 | 
+| 2019-09-27 | 2019-2020韓国囲碁リーグ第1節第2試合第5局 | Shin Jinseo | Yun Chanhee | Lose | B+R | 6.5 | 2826 | -126 | 
+| 2019-07-15 | 第21回農心杯韓国選抜戦 | Weon Seongjin | Yun Chanhee | Lose | B+R | 6.5 | 2952 | -35 | 
+| 2019-05-23 | 第4回夢百合杯統合予選準決勝 | Yun Chanhee | Mi Yuting | Lose | W+R | 7.5 | 2987 | -96 | 
+| 2019-03-19 | 第38回KBS杯囲碁王戦1回戦 | Han Wonggyu | Yun Chanhee | Win | W+5.5 | 6.5 | 3083 | 9 | 
+| 2019-02-17 | 2019年韓中囲碁リーグチャンピオンズカップ第2戦 | Yu Zhiying | Yun Chanhee | Win | W+2.5 | 6.5 | 3074 | 19 | 
+| 2019-02-16 | 2019年韓中囲碁リーグチャンピオンズカップ第1戦 | Yun Chanhee | Zhao Chenyu | Lose | W+R | 6.5 | 3055 | -58 | 
+| 2018-09-28 | 2018年韓国囲碁リーグ第13節 | Hong Seongji | Yun Chanhee | Lose | B+R | 6.5 | 3113 | -49 | 
+| 2018-09-21 | 2018年韓国囲碁リーグ第12節 | Yun Chanhee | Hong Kipyo | Win | B+R | 6.5 | 3162 | 16 | 
+| 2018-09-14 | 2018年韓国囲碁リーグ第11節 | Shin Minjun | Yun Chanhee | Lose | B+R | 6.5 | 3146 | -19 | 
+| 2018-09-11 | 第37回KBS杯囲碁王戦16強戦 | Yun Chanhee | Kim Myounghoon | Lose | W+R | 6.5 | 3165 | -12 | 
+| 2018-09-01 | 2018年韓国囲碁リーグ第10節 | Ryu Suhang | Yun Chanhee | Lose | B+R | 6.5 | 3177 | -3 | 
+| 2018-08-26 | 2018年韓国囲碁リーグ第9節 | Yun Chanhee | Park Jinsol | Lose | W+R | 6.5 | 3180 | -47 | 
+| 2018-08-16 | 2018年韓国囲碁リーグ第8節 | Yun Chanhee | Lee Sedol | Win | B+R | 6.5 | 3227 | 49 | 
+| 2018-08-11 | 2018年韓国囲碁リーグ第7節 | Park Yeonghun | Yun Chanhee | Lose | B+R | 6.5 | 3178 | -2 | 
+| 2018-08-04 | 2018年韓国囲碁リーグ第6節 | Yun Chanhee | Park Minkyu | Win | B+R | 6.5 | 3180 | 12 | 
+| 2018-07-21 | 2018年韓国囲碁リーグ第5節 | Kang Seungmin | Yun Chanhee | Win | W+R | 6.5 | 3168 | 6 | 
+| 2018-07-17 | 第20回農心杯韓国選抜戦 | Shin Jinseo | Yun Chanhee | Lose | B+R | 6.5 | 3162 | 2 | 
+| 2018-07-14 | 2018年韓国囲碁リーグ第4節 | Yun Chanhee | Kang Dongyun | Win | B+R | 6.5 | 3160 | 11 | 
+| 2018-07-12 | 第20回農心杯韓国選抜戦 | Cho Hanseung | Yun Chanhee | Win | W+R | 6.5 | 3149 | 3 | 
+| 2018-06-29 | 2018年韓国囲碁リーグ第3節 | Choi Jaeyoung | Yun Chanhee | Lose | B+R | 6.5 | 3146 | -29 | 
+| 2018-06-18 | 2018年中国囲碁乙級リーグ | Wang Haoyang | Yun Chanhee | Win | W+R | 7.5 | 3175 | 9 | 
+| 2018-06-16 | 2018年中国囲碁乙級リーグ | Yun Chanhee | Chen Xian | Win | B+R | 7.5 | 3166 | 16 | 
+| 2018-04-02 | 第37回KBS杯囲碁王戦32強戦 | Yun Chanhee |  | Win | B+R | 6.5 | 3150 | -100 | 
+| 2018-03-09 | 第23期GSカルテックス杯プロ棋戦16強戦 | Kim Jiseok | Yun Chanhee | Lose | B+0.5 | 6.5 | 3250 | 11 | 
+| 2018-02-02 | 第23期GSカルテックス杯プロ棋戦24強戦 | Hong Seongji | Yun Chanhee | Win | W+0.5 | 6.5 | 3239 | 99 | 
+| 2017-12-03 | 2017年韓国囲碁リーグ優勝決定戦第3戦 | Lee Changho | Yun Chanhee | Lose | B+R | 6.5 | 3140 | -37 | 
+| 2017-12-02 | 2017年韓国囲碁リーグ優勝決定戦第2戦 | Yun Chanhee | Lee Changho | Lose | W+R | 6.5 | 3177 | 3 | 
+| 2017-12-01 | 2017年韓国囲碁リーグ優勝決定戦第1戦 | Kim Myounghoon | Yun Chanhee | Lose | B+R | 6.5 | 3174 | -8 | 
+| 2017-11-29 | 2017年韓国囲碁リーグプレーオフ第3戦 | Yun Chanhee | Yun Junsang | Win | B+R | 6.5 | 3182 | 41 | 
+| 2017-11-22 | 2017年韓国囲碁リーグプレーオフ第1戦 | Yun Chanhee | Yun Junsang | Lose | W+R | 6.5 | 3141 | -37 | 
+| 2017-10-26 | 2017年韓国囲碁リーグ | Yun Junsang | Yun Chanhee | Lose | B+R | 6.5 | 3178 | 19 | 
+| 2017-10-21 | 2017年韓国囲碁リーグ | Lee Jihyun | Yun Chanhee | Lose | B+R | 6.5 | 3159 | -2 | 
+| 2017-10-14 | 2017年韓国囲碁リーグ | Yun Chanhee | Lee Taehyun | Win | B+6.5 | 6.5 | 3161 | 13 | 
+| 2017-10-06 | 2017年韓国囲碁リーグ | Kim Junghyun | Yun Chanhee | Lose | B+R | 6.5 | 3148 | -10 | 
+| 2017-10-01 | 2017年韓国囲碁リーグ | Yun Chanhee | Shen Zaiyi | Win | B+R | 6.5 | 3158 | 22 | 
+| 2017-09-22 | 2017年韓国囲碁リーグ | Yun Chanhee | Song Jihoon | Lose | W+R | 6.5 | 3136 | -11 | 
+| 2017-09-17 | 2017年韓国囲碁リーグ | Yun Chanhee | Shin Jinseo | Lose | W+3.5 | 6.5 | 3147 | -17 | 
+| 2017-09-03 | 2017年韓国囲碁リーグ | Weon Seongjin | Yun Chanhee | Lose | B+R | 6.5 | 3164 | -53 | 
+| 2017-08-20 | 2017年韓国囲碁リーグ | Yun Chanhee | Yun Junsang | Win | B+1.5 | 6.5 | 3217 | 45 | 
+| 2017-08-11 | 2017年韓国囲碁リーグ | Jin Siyoung | Yun Chanhee | Win | W+R | 6.5 | 3172 | 10 | 
+| 2017-08-04 | 2017年韓国囲碁リーグ | Yun Chanhee | Lee Taehyun | Lose | W+R | 6.5 | 3162 | -5 | 
+| 2017-07-22 | 2017年韓国囲碁リーグ | Yun Chanhee | Kim Junghyun | Win | B+0.5 | 6.5 | 3167 | 36 | 
+| 2017-07-13 | 2017年韓国囲碁リーグ | Lee Sedol | Yun Chanhee | Win | W+R | 6.5 | 3131 | 60 | 
+| 2017-07-08 | 2017年韓国囲碁リーグ | Yun Chanhee | Song Jihoon | Win | B+R | 6.5 | 3071 | 15 | 
+| 2017-06-30 | 第22回三星火災杯統合予選2回戦 | Shi Yue | Yun Chanhee | Lose | B+R | 6.5 | 3056 | 8 | 
+| 2017-06-08 | 2017年韓国囲碁リーグ | Yun Chanhee | Shin Jinseo | Lose | W+R | 6.5 | 3048 | -3 | 
+| 2017-06-01 | 2017年韓国囲碁リーグ | Weon Seongjin | Yun Chanhee | Lose | B+R | 6.5 | 3051 | 52 | 
+| 2017-03-09 | 第22期GSカルテックス杯プロ棋戦16強戦 | Yun Chanhee | Heo Yongho | Lose | W+R | 6.5 | 2999 | 8 | 
+| 2016-12-31 | Alphago Online Series on Tygem and Fox 26 |  | Yun Chanhee | Lose | B+R | 6.5 | 2991 | 18 | 
+| 2016-12-11 | 2016年韓国囲碁リーグ | Yun Chanhee | Kang Yootaek | Lose | W+R | 6.5 | 2973 | -28 | 
+| 2016-12-03 | 2016年韓国囲碁リーグ | Yun Chanhee | Park Minkyu | Win | B+R | 6.5 | 3001 | 17 | 
+| 2016-12-02 | 2016年韓国囲碁リーグ | Yun Chanhee | Kim Seongjae | Lose | W+R | 6.5 | 2984 | -49 | 
+| 2016-10-23 | 2016年韓国囲碁リーグ | Yun Chanhee | Kim Seongjae | Lose | W+R | 6.5 | 3033 | -47 | 
+| 2016-10-16 | 2016年韓国囲碁リーグ | Yun Chanhee | Han Taehee | Win | B+R | 6.5 | 3080 | 50 | 
+| 2016-09-29 | 2016年韓国囲碁リーグ | Park Yeonghun | Yun Chanhee | Lose | B+R | 6.5 | 3030 | -26 | 
+| 2016-09-23 | 2016年韓国囲碁リーグ第14節 | Park Cheongsang | Yun Chanhee | Win | W+R | 6.5 | 3056 | -14 | 
+| 2016-09-17 | 2016年韓国囲碁リーグ第13節 | Yun Chanhee | Lee Hobum | Win | B+R | 6.5 | 3070 | 7 | 
+| 2016-09-04 | 2016年韓国囲碁リーグ第12節 | Lee Jihyun | Yun Chanhee | Win | W+R | 6.5 | 3063 | 9 | 
+| 2016-08-27 | 2016年韓国囲碁リーグ第11節 | Hong Kipyo | Yun Chanhee | Win | W+R | 6.5 | 3054 | 23 | 
+| 2016-08-20 | 2016年韓国囲碁リーグ第10節 | Yun Chanhee | Yun Junsang | Lose | W+R | 6.5 | 3031 | -17 | 
+| 2016-08-11 | 2016年韓国囲碁リーグ第9節 | Yun Chanhee | Kim Sooyong | Win | B+0.5 | 6.5 | 3048 | -23 | 
+| 2016-07-28 | 2016年韓国囲碁リーグ第8節 | Yun Chanhee | Paek Hongseok | Lose | W+4.5 | 6.5 | 3071 | -37 | 
+| 2016-07-10 | 2016年韓国囲碁リーグ第6節 | Yun Chanhee | Kang Seungmin | Lose | W+R | 6.5 | 3108 | 55 | 
+| 2016-06-25 | 2016年韓国囲碁リーグ第5節 | Hong Seongji | Yun Chanhee | Lose | B+R | 6.5 | 3053 | -29 | 
+| 2016-06-17 | 2016年韓国囲碁リーグ第4節 | Yun Chanhee | Lee Hobum | Win | B+R | 6.5 | 3082 | 47 | 
+| 2016-06-13 | 第35回KBS杯囲碁王戦2回戦 | Kim Seungjun | Yun Chanhee | Lose | B+R | 6.5 | 3035 | -20 | 
+| 2016-06-09 | 2016年韓国囲碁リーグ第3節 | Yun Chanhee | Kang Dongyun | Lose | W+R | 6.5 | 3055 | -8 | 
+| 2016-06-03 | 2016年韓国囲碁リーグ第2節 | Shin Jinseo | Yun Chanhee | Lose | B+R | 6.5 | 3063 | 35 | 
+| 2016-05-20 | 2016年韓国囲碁リーグ第1節 | Kim Jiseok | Yun Chanhee | Lose | B+R | 6.5 | 3028 | -39 | 
+| 2016-04-28 | 第21期GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Yun Chanhee | Lee Donghoon | Lose | W+R | 6.5 | 3067 | 59 | 
+| 2016-04-15 | 第21期GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Lee Donghoon | Yun Chanhee | Lose | B+R | 6.5 | 3008 | -13 | 
+| 2016-04-14 | 第21期GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Yun Chanhee | Lee Donghoon | Lose | W+R | 6.5 | 3021 | 12 | 
+| 2016-04-07 | 第21期GSカルテックス杯プロ棋戦準決勝 | Yun Chanhee | Weon Seongjin | Win | B+0.5 | 6.5 | 3009 | 14 | 
+| 2016-03-24 | 第21期GSカルテックス杯プロ棋戦3回戦 | Yun Chanhee | Shin Jinseo | Win | B+R | 6.5 | 2995 | 22 | 
+| 2016-03-21 | 第35回KBS杯囲碁王戦1回戦 | Park Yeonghun | Yun Chanhee | Win | W+4.5 | 6.5 | 2973 | -1 | 
+| 2016-02-14 | 第21期GSカルテックス杯プロ棋戦2回戦 | Yun Chanhee | Kim Myounghoon | Win | B+R | 6.5 | 2974 | -87 | 
+| 2016-01-14 | 第21期GSカルテックス杯プロ棋戦1回戦 | Yun Chanhee | Kang Seungmin | Win | B+0.5 | 6.5 | 3061 | -9 | 
+| 2015-10-14 | 2015年レッツランパーク杯オープントーナメント2回戦 | Yun Chanhee | Park Jaekeun | Lose | W+R | 6.5 | 3070 | -35 | 
+| 2015-10-09 | 2015年フューチャーズリーグ | Yun Chanhee | Kim Hyeoimin | Win | B+R | 6.5 | 3105 | 57 | 
+| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Yun Chanhee | Choi Myeonghun | Win | B+3.5 | 6.5 | 3048 | -3 | 
+| 2015-09-26 | 2015年フューチャーズリーグ | Yun Chanhee | Kim Hwansoo | Win | B+R | 6.5 | 3051 | 10 | 
+| 2015-09-23 | 2015年フューチャーズリーグ |  | Yun Chanhee | Lose | B+R | 6.5 | 3041 | -22 | 
+| 2015-09-20 | 2015年韓国囲碁リーグ | Yun Chanhee | Kang Seungmin | Lose | W+R | 6.5 | 3063 | -73 | 
+| 2015-09-05 | 2015年フューチャーズリーグ | Yun Chanhee | Ryu Suhang | Win | B+R | 6.5 | 3136 | 2 | 
+| 2015-09-02 | 第43期名人戦（韓国）予選 | Min Sangyoun | Yun Chanhee | Lose | B+R | 6.5 | 3134 | -53 | 
+| 2015-08-22 | 2015年フューチャーズリーグ | Yun Chanhee |  | Win | B+R | 6.5 | 3187 | -20 | 
+| 2015-08-16 | 2015年フューチャーズリーグ | Shin Yoonho | Yun Chanhee | Win | W+R | 6.5 | 3207 | 14 | 
+| 2015-07-25 | 2015年フューチャーズリーグ | Lee Changseok | Yun Chanhee | Win | W+0.5 | 6.5 | 3193 | -23 | 
+| 2015-07-18 | 2015年フューチャーズリーグ | Choi Jaeyoung | Yun Chanhee | Win | W+R | 6.5 | 3216 | 3 | 
+| 2015-07-17 | 2015年韓国囲碁リーグ | Mok Jinseok | Yun Chanhee | Lose | B+4.5 | 6.5 | 3213 | -13 | 
+| 2015-07-05 | 2015年フューチャーズリーグ | Kim Hyeoimin | Yun Chanhee | Win | W+R | 6.5 | 3226 | -2 | 
+| 2015-07-01 | 2015年フューチャーズリーグ | You Byungyong | Yun Chanhee | Lose | B+R | 6.5 | 3228 | -65 | 
+| 2015-06-20 | 2015年フューチャーズリーグ | Park Jaekeun | Yun Chanhee | Win | W+4.5 | 6.5 | 3293 | 13 | 
+| 2015-06-18 | 2015年韓国囲碁リーグ | Park Jaekeun | Yun Chanhee | Lose | B+4.5 | 6.5 | 3280 | -54 | 
+| 2015-06-17 | 2015年フューチャーズリーグ | Yun Chanhee | Ryu Suhang | Win | B+2.5 | 6.5 | 3334 | 0 | 
+| 2015-06-14 | 2015年韓国囲碁リーグ | Yun Chanhee | Lee Taehyun | Win | B+R | 6.5 | 3334 | -31 | 
+| 2015-05-17 | 2015年フューチャーズリーグ | Park Jinsol | Yun Chanhee | Lose | B+R | 6.5 | 3365 | -21 | 
+| 2015-05-16 | 2015年韓国囲碁リーグ | Yun Chanhee | Min Sangyoun | Win | B+R | 6.5 | 3386 | 13 | 
+| 2015-05-09 | 2015年フューチャーズリーグ | Yun Chanhee | Park Hamin | Win | B+R | 6.5 | 3373 | 8 | 
+| 2015-05-03 | 2015年フューチャーズリーグ | Yun Chanhee | Ko Keuntae | Win | B+R | 6.5 | 3365 | 63 | 
+| 2015-04-26 | 2015年フューチャーズリーグ | Kim Juho | Yun Chanhee | Lose | B+R | 6.5 | 3302 | -199 | 
+| 2015-02-02 | 第33回KBS杯囲碁王戦敗者復活戦決勝 | Lee Donghoon | Yun Chanhee | Lose | B+0.5 | 6.5 | 3501 | -4 | 
+| 2015-01-19 | 第33回KBS杯囲碁王戦敗者復活戦準決勝 | An Sungjoon | Yun Chanhee | Win | W+R | 6.5 | 3505 | 40 | 
+| 2015-01-16 | 第33回KBS杯囲碁王戦敗者復活戦4回戦 | Kim Junghyun | Yun Chanhee | Win | W+R | 6.5 | 3465 | 21 | 
+| 2014-12-22 | 第33回KBS杯囲碁王戦敗者復活戦3回戦 | Kim Jiseok | Yun Chanhee | Win | W+R | 6.5 | 3444 | 155 | 
+| 2014-11-04 | 2014年フューチャーズリーグ | Yun Chanhee | Yang Wooseok | Win | B+1.5 | 6.5 | 3289 | 70 | 
+| 2014-10-27 | 2014年レッツランパーク杯オープントーナメント4回戦 | Yun Chanhee | Kang Dongyun | Lose | W+R | 6.5 | 3219 | -13 | 
+| 2014-10-26 | 2014年フューチャーズリーグ | Ko Keuntae | Yun Chanhee | Win | W+0.5 | 6.5 | 3232 | 17 | 
+| 2014-10-20 | 第33回KBS杯囲碁王戦敗者復活戦2回戦 | Yun Chanhee | Min Sangyoun | Win | B+R | 6.5 | 3215 | -13 | 
+| 2014-10-11 | 2014年フューチャーズリーグ | Yun Chanhee | Seol Hyunjun | Win | B+R | 6.5 | 3228 | -34 | 
+| 2014-10-09 | 2014年韓国囲碁リーグ | Lee Jihyun | Yun Chanhee | Lose | B+R | 6.5 | 3262 | -2 | 
+| 2014-10-06 | 第33回KBS杯囲碁王戦本戦3回戦 | Yun Chanhee | Lee Donghoon | Lose | W+1.5 | 6.5 | 3264 | -63 | 
+| 2014-09-26 | 2014年レッツランパーク杯オープントーナメント3回戦 | Yun Chanhee | Kim Hyeongwoo | Win | B+R | 6.5 | 3327 | 8 | 
+| 2014-09-21 | 2014年フューチャーズリーグ | Yun Chanhee |  | Win | B+R | 6.5 | 3319 | 4 | 
+| 2014-09-18 | 2014年レッツランパーク杯オープントーナメント2回戦 | Yun Chanhee | Lee Taehyun | Win | B+R | 6.5 | 3315 | 87 | 
+| 2014-09-07 | 2014年フューチャーズリーグ | Yun Chanhee |  | Win | B+R | 6.5 | 3228 | 48 | 
+| 2014-08-16 | 2014年フューチャーズリーグ | Yun Chanhee |  | Win | B+R | 6.5 | 3180 | 61 | 
+| 2014-08-09 | 2014年フューチャーズリーグ | Yun Chanhee | Cho Insun | Lose | W+R | 6.5 | 3119 | -89 | 
+| 2014-07-15 | 第33回KBS杯囲碁王戦本戦2回戦 | Kim Daeyoung | Yun Chanhee | Win | W+1.5 | 6.5 | 3208 | 25 | 
+| 2014-07-12 | 2014年フューチャーズリーグ | Yun Chanhee | Park Jinsol | Lose | W+R | 6.5 | 3183 | -59 | 
+| 2014-06-28 | 2014年フューチャーズリーグ | Lee Hyungjin | Yun Chanhee | Lose | B+R | 6.5 | 3242 | -40 | 
+| 2014-06-26 | 2014年韓国囲碁リーグ | Yun Chanhee | Lee Hyungjin | Lose | W+1.5 | 6.5 | 3282 | -122 | 
+| 2014-05-24 | 2014年フューチャーズリーグ | Yun Chanhee |  | Win | B+R | 6.5 | 3404 | 127 | 
+| 2014-05-11 | 2014年フューチャーズリーグ |  | Yun Chanhee | Win | W+R | 6.5 | 3277 | -9 | 
+| 2014-04-13 | 2014年フューチャーズリーグ | Yun Chanhee | Hong Kipyo | Lose | W+R | 6.5 | 3286 | 3286 | 
+| 2014-02-17 | 第33回KBS杯囲碁王戦本戦1回戦 | Na Hyun | Yun Chanhee | Win | W+R | 6.5 | missing | 0 | 
+| 2011-09-30 | 第7期圓益杯十段戦1回戦 | Mok Jinseok | Yun Chanhee | Lose | B+R | 6.5 | missing | 0 | 
+| 2011-09-27 | 第39期名人戦（韓国）1回戦 | Yun Chanhee | Lee Changho | Lose | W+R | 6.5 | missing | 0 | 
+| 2011-08-09 | 第39期名人戦（韓国）予選 | Yang Keon | Yun Chanhee | Win | W+R | 6.5 | missing | -2874 | 
+| 2011-07-08 | 第13回農心杯韓国選抜戦 | Yun Chanhee | Park Yeonghun | Lose | W+R | 6.5 | 2874 | -206 | 
+| 2011-01-17 | 第16期GSカルテックス杯プロ棋戦1回戦 | Kim Juho | Yun Chanhee | Lose | B+R | 6.5 | 3080 | -271 | 
+| 2010-10-06 | 第6期圓益杯十段戦1回戦 | An Joyeong | Yun Chanhee | Lose | B+R | 6.5 | 3351 | -38 | 
+| 2010-07-22 | 2010年韓国囲碁リーグ | Park Junghwan | Yun Chanhee | Win | W+R | 6.5 | 3389 | 254 | 
+| 2010-04-20 | 第15回LG杯予選 | Yun Chanhee | Zhou Heyang | Win | B+R | 6.5 | 3135 | -26 | 
+| 2010-01-18 | 第28回KBS杯囲碁王戦敗者復活戦準決勝 | Lee Changho | Yun Chanhee | Lose | B+R | 6.5 | 3161 | -104 | 
+| 2009-12-14 | 第28回KBS杯囲碁王戦敗者復活戦4回戦 | Yun Chanhee | An Joyeong | Win | B+R | 6.5 | 3265 | 16 | 
+| 2009-11-23 | 第28回KBS杯囲碁王戦敗者復活戦3回戦 | Lee Huiseong | Yun Chanhee | Win | W+R | 6.5 | 3249 | 45 | 
+| 2009-11-09 | 第28回KBS杯囲碁王戦敗者復活戦2回戦 | Yun Chanhee | Han Sanghoon | Win | B+R | 6.5 | 3204 | 11 | 
+| 2009-08-17 | 第28回KBS杯囲碁王戦敗者復活戦1回戦 | Yun Chanhee | Kang Changbae | Win | B+0.5 | 6.5 | 3193 | 124 | 
+| 2009-06-01 | 第28回KBS杯囲碁王戦本戦2回戦 | Yun Chanhee | Kang Dongyun | Lose | W+R | 6.5 | 3069 | 98 | 
+| 2009-03-23 | 第28回KBS杯囲碁王戦本戦1回戦 | Jen Youngkyu | Yun Chanhee | Win | W+R | 6.5 | 2971 | 105 | 
+| 2008-12-13 | 2008年韓国囲碁リーグ | Heo Yongho | Yun Chanhee | Lose | B+R | 6.5 | 2866 | -7 | 
+| 2008-12-06 | 2008年韓国囲碁リーグ | Yun Chanhee | Kang Yootaek | Win | B+0.5 | 6.5 | 2873 | 184 | 
+| 2008-10-30 | 2008年韓国囲碁リーグ | Lee Sedol | Yun Chanhee | Lose | B+R | 6.5 | 2689 | -632 | 
+| 2008-10-24 | 2008年韓国囲碁リーグ | Bae Junhee | Yun Chanhee | Win | W+1.5 | 6.5 | 3321 | 100 | 
+| 2008-10-13 | 第4期圓益杯十段戦2回戦 | Yun Chanhee | Hong Minpyo | Win | B+R | 6.5 | 3221 | 66 | 
+| 2008-10-12 | 2008年韓国囲碁リーグ | Yun Chanhee | Kim Dongyeop | Win | B+7.5 | 6.5 | 3155 | 35 | 
+| 2008-09-20 | 2008年韓国囲碁リーグ | Yun Chanhee | Cho Hunhyun | Lose | W+R | 6.5 | 3120 | -75 | 
+| 2008-09-10 | 第4期圓益杯十段戦1回戦 | Yun Chanhee | Han Sanghoon | Win | B+R | 6.5 | 3195 | 342 | 
+| 2008-08-08 | 2008年韓国囲碁リーグ | Cho Hanseung | Yun Chanhee | Lose | B+0.5 | 6.5 | 2853 | -36 | 
+| 2008-07-25 | 2008年韓国囲碁リーグ | Yun Chanhee | On Sojin | Win | B+R | 6.5 | 2889 | 13 | 
+| 2008-06-11 | 第4期物価情報杯プロ棋戦リーグD | Yun Chanhee | Mok Jinseok | Lose | W+R | 6.5 | 2876 | -16 | 
+| 2008-06-10 | 第5期電子ランド杯王中王戦2回戦 | Mok Jinseok | Yun Chanhee | Lose | B+R | 6.5 | 2892 | -53 | 
+| 2008-05-09 | 2008年韓国囲碁リーグ | Cho Hyeyeon | Yun Chanhee | Lose | B+R | 6.5 | 2945 | -44 | 
+| 2008-05-07 | 第5期電子ランド杯王中王戦1回戦 | Yun Chanhee |  | Win | B+R | 6.5 | 2989 | 5 | 
+| 2008-05-06 | 第4期物価情報杯プロ棋戦リーグD | Lee Yeongkyu | Yun Chanhee | Lose | B+R | 6.5 | 2984 | 6 | 
+| 2008-05-02 | 2008年韓国囲碁リーグ | Yun Chanhee | An Joyeong | Lose | W+R | 6.5 | 2978 | 195 | 
+| 2008-04-18 | 2008年韓国囲碁リーグ | Yun Chanhee | Kim Juho | Lose | W+R | 6.5 | 2783 | -28 | 
+| 2008-04-11 | 第4期物価情報杯プロ棋戦リーグD | Lee Jungwoo | Yun Chanhee | Win | W+6.5 | 6.5 | 2811 | 56 | 
+| 2008-02-01 | 第5期電子ランド杯王中王戦予選 | Yun Chanhee | Han Sanghoon | Lose | W+R | 6.5 | 2755 | 50 | 
+| 2007-12-21 | 2007年韓国囲碁リーグ | Hong Minpyo | Yun Chanhee | Lose | B+R | 6.5 | 2705 | -85 | 
+| 2007-11-17 | 2007年韓国囲碁リーグ | Yun Chanhee | Lee Sedol | Win | B+R | 6.5 | 2790 | 115 | 
+| 2007-10-21 | 2007年韓国囲碁リーグ | Kim Kiyoung | Yun Chanhee | Lose | B+R | 6.5 | 2675 | -1411 | 
+| 2007-09-13 | 2007年韓国囲碁リーグ | Yun Chanhee | Heo Yongho | Win | B+R | 6.5 | 4086 | 829 | 
+| 2007-07-22 | 2007年韓国囲碁リーグ | Park Cheongsang | Yun Chanhee | Win | W+2.5 | 6.5 | 3257 | 196 | 
+| 2007-07-16 | 第7期オスラムコリア杯新鋭連勝最強戦第15戦 | Yun Chanhee | Kim Jiseok | Lose | W+2.5 | 6.5 | 3061 | -43 | 
+| 2007-07-13 | 第7期オスラムコリア杯新鋭連勝最強戦第14戦 | Kim Hyeoimin | Yun Chanhee | Win | W+4.5 | 6.5 | 3104 | -17 | 
+| 2007-06-14 | 2007年韓国囲碁リーグ | Yun Chanhee | Heo Yongho | Lose | W+6.5 | 6.5 | 3121 | -30 | 
+| 2007-05-12 | 2007年韓国囲碁リーグ | Yun Chanhee | Cho Hunhyun | Win | B+2.5 | 6.5 | 3151 | 73 | 
+| 2007-05-06 | 2007年韓国囲碁リーグ | Yun Chanhee | Paek Hongseok | Lose | W+4.5 | 6.5 | 3078 | -85 | 
+| 2007-04-06 | 第41期王位戦3回戦 | Yun Chanhee | Yun Junsang | Lose | W+R | 6.5 | 3163 | 3163 | 
+| 2007-04-04 | 第41期王位戦2回戦 | Mok Jinseok | Yun Chanhee | Win | W+R | 6.5 | missing | missing |
 
 
 

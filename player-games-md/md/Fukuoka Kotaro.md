@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-05 | 第47期名人戦予選 | Fujisawa Rina | Fukuoka Kotaro | Win | W+R | 6.5 | 2914 | 21 | 
 | 2021-06-24 | 第46期棋聖戦Cリーグ | Ida Atsushi | Fukuoka Kotaro | Win | W+0.5 | 6.5 | 2893 | 126 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第3戦 | Fukuoka Kotaro | Otake Yu | Lose | W+R | 6.5 | 2767 | 0 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Fukuoka Kotaro |  | Win | B+R | 6.5 | 2767 | 0 | 

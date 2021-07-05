@@ -5,163 +5,165 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第46期棋聖戦Aリーグ | Yoda Norimoto | Onishi Ryuhei | B+R | 2021-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ODr4wRL9ft219RV2fjhVbw%3D%3D) | 
-| 第46期棋聖戦Aリーグ | Hsu Chiayuan | Onishi Ryuhei | W+R | 2021-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t%2BGaykU%2BIf5fwloSt%2B0BRQ%3D%3D) | 
-| 第76期本因坊戦リーグ  | Ichiriki Ryo | Onishi Ryuhei | B+R | 2021-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T5ztfwVu5uiRhfJ1S%2BLuvg%3D%3D) | 
-| 第46期棋聖戦Aリーグ | Onishi Ryuhei | Hane Naoki | W+R | 2021-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zOY1o3kh%2FSGATVVbZm%2Bd6A%3D%3D) | 
-| 第69期王座戦予選 | Onishi Ryuhei | Rin Kanketsu | W+3.5 | 2021-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HCL2rQXDtZPgqbl0QdJeyw%3D%3D) | 
-| 第76期本因坊戦リーグ | Onishi Ryuhei | Tsuruyama Atsushi | B+R | 2021-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YW3%2F98kgLm5u5GvpJPHTRg%3D%3D) | 
-| 第46期棋聖戦Aリーグ | Mutsuura Yuta | Onishi Ryuhei | W+2.5 | 2021-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lZywVg7NSma6xNA9z%2FDDXQ%3D%3D) | 
-| 第76期本因坊戦リーグ | Onishi Ryuhei | Hsu Chiayuan | B+R | 2021-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rijM9elA51GrXdfCMQ5P4A%3D%3D) | 
-| 第69期王座戦予選 | Onishi Ryuhei | Mukai Chiaki | B+R | 2021-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8KjNYH5RpaJQN2o3LEYueQ%3D%3D) | 
-| 第76期本因坊戦リーグ | Onishi Ryuhei | Hane Naoki | W+R | 2021-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c6uSZs1UvTcuP8Dw5%2FqZuA%3D%3D) | 
-| 第59期十段戦3回戦 | Onishi Ryuhei | Yu Zhengqi | W+1.5 | 2020-12-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4tAZ2cBx9IsXmN0FfqSUXw%3D%3D) | 
-| 第11回おかげ杯囲碁トーナメント戦2回戦 | Onishi Ryuhei | Murakawa Daisuke | W+5.5 | 2020-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QiIWZmwqq6%2FWxQ3egzhLSQ%3D%3D) | 
-| 第11回おかげ杯囲碁トーナメント戦1回戦 | Onishi Ryuhei | Fujisawa Rina | B+R | 2020-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r8pyyfIqKolm6v%2FScOBmEw%3D%3D) | 
-| 第76期本因坊戦リーグ  | Shibano Toramaru | Onishi Ryuhei | B+R | 2020-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RdQBFHqwjhFgQpNYJLwpuQ%3D%3D) | 
-| 第76期本因坊戦リーグ | Sada Atsushi | Onishi Ryuhei | B+R | 2020-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xwvFk%2BByxaMIhku3A2bRAQ%3D%3D) | 
-| 第15回広島アルミ杯・若鯉戦2回戦  | Onishi Ryuhei | Hirata Tomoya | W+0.5 | 2020-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bB8Dm99xYJCEEtYIeesWFw%3D%3D) | 
-| 第15回広島アルミ杯・若鯉戦1回戦 | missing | Onishi Ryuhei | W+R | 2020-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8MefKCkrIi5TUh5bn9RblA%3D%3D) | 
-| 第76期本因坊戦リーグ | Ko Iso | Onishi Ryuhei | W+R | 2020-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gohZixwFoP%2BBTDFenRcxJg%3D%3D) | 
-| 第59期十段戦2回戦 | Onishi Ryuhei | Mizokami Tomochika | B+0.5 | 2020-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rtfM%2FGm9DU3Sr2sUq19ysA%3D%3D) | 
-| 第46期名人戦予選 | Onishi Ryuhei | Murakawa Daisuke | W+R | 2020-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q1LzC1dLlqvZ%2FnS4rcuDPg%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Onishi Ryuhei | Shida Tatsuya | B+R | 2020-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J9Qte3RDPRNNqzgDOqVmTA%3D%3D) | 
-| 第76期本因坊戦予選  | Onishi Ryuhei | Kono Rin | B+R | 2020-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yqSr0Az8Sh6GG2EnrMN5OA%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Motoki Katsuya | Onishi Ryuhei | B+R | 2020-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kGeg5FoznttDTzifopjYIQ%3D%3D) | 
-| 第76期本因坊戦予選 | O Rissei | Onishi Ryuhei | W+R | 2020-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rgDMofmzdfBg7DHeioRoOg%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Adachi Toshimasa | Onishi Ryuhei | W+1.5 | 2020-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BuR2ULvFRwzo5P%2B1X5fgiw%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Onishi Ryuhei | Yoda Norimoto | W+3.5 | 2020-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XMOoJPzvI%2Bp80vG8bQzwjw%3D%3D) | 
-| 第25回LG杯朝鮮日報棋王戦1回戦 | Lee Taehyun | Onishi Ryuhei | B+0.5 | 2020-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ti4oaQYZJ1sH5dwIQ7KZoA%3D%3D) | 
-| 日台交流戦第2戦 | Xu Jingen | Onishi Ryuhei | W+0.5 | 2020-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kv7GzQe%2FgTVazfAg9ewlCA%3D%3D) | 
-| 日台交流戦第1戦 | Onishi Ryuhei | Li Wei | W+0.5 | 2020-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4YT8GJSsCw5ODDWvuixepA%3D%3D) | 
-| 第25回LG杯国内予選決勝 | Onishi Ryuhei | Shida Tatsuya | B+1.5 | 2020-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pq3J%2BKNIM8EVZfXkDNn86w%3D%3D) | 
-| 第25回LG杯国内予選 | Onishi Ryuhei | Yu Zhengqi | B+R | 2020-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I21KLWvEE2%2FvUqHU45ys8w%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Onishi Ryuhei | So Yokoku | B+R | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2l%2B%2Blfkgf01o9H%2FNSOYPsw%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Yamashita Keigo | Onishi Ryuhei | W+R | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fJwQZ3PTcc3bClXsOyeUMQ%3D%3D) | 
-| 第76期本因坊戦予選 | Anzai Nobuaki | Onishi Ryuhei | W+0.5 | 2020-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FpZAXOo%2BGwBbmK2yiPscUw%3D%3D) | 
-| 第76期本因坊戦予選 | Onishi Ryuhei | Rin Kanketsu | B+2.5 | 2020-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lBgSf3crUjtejd%2FjqHWYwA%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Yu Zhengqi | Onishi Ryuhei | W+R | 2020-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VjXq1zYCjFtGtb1rroH8tA%3D%3D) | 
-| 第46期天元戦1回戦 | Sada Atsushi | Onishi Ryuhei | B+R | 2020-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rhuAWxEYJ707ZWJAXIrR9g%3D%3D) | 
-| 第58期十段戦準決勝 | Onishi Ryuhei | Shibano Toramaru | W+R | 2019-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yChefn99q8GI05L07HN1Tw%3D%3D) | 
-| 第58期十段戦3回戦 | Onishi Ryuhei | Fujita Akihiko | B+1.5 | 2019-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JrWiWtNJ6fwHoMiDKIkvfQ%3D%3D) | 
-| 第58期十段戦2回戦 | Onishi Ryuhei | Yu Zhengqi | B+2.5 | 2019-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iN%2B6lddw3j3nCx0xrwuVxg%3D%3D) | 
-| 第46期天元戦予選 | Onishi Ryuhei | Hoshiai Shiho | B+R | 2019-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YFwqVfUMB6Iyf0DRnHa5fw%3D%3D) | 
-| 第45期名人戦予選 | Onishi Ryuhei | Fujisawa Rina | W+R | 2019-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S2x3soSBjdjDzCLPeIj4Qg%3D%3D) | 
-| 第45期名人戦予選 | Onishi Ryuhei | Takemiya Masaki | B+2.5 | 2019-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sHYEeInnOGKBW%2Bims48ZGQ%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Onishi Ryuhei | Tsuruyama Atsushi | B+R | 2019-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lLzk0hW3P3Ko5j6FAuY%2Bbg%3D%3D) | 
-| 第45期天元戦3回戦 | Onishi Ryuhei | Kono Rin | W+R | 2019-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6%2Blj8jtMKi2pBSYJv2TiRQ%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Onishi Ryuhei | Kobayashi Satoru | B+1.5 | 2019-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=reUoY00cN2WuVslImj7zbw%3D%3D) | 
-| 2019年中国囲碁乙級リーグ | Onishi Ryuhei | Na Hyun | W+R | 2019-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AemoYjrs3TuV4qxcU5sIUQ%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Hane Naoki | Onishi Ryuhei | W+3.5 | 2019-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mBOxVPo0pWO7LnTMAavqbQ%3D%3D) | 
-| 第45期天元戦2回戦 | O Meien | Onishi Ryuhei | W+R | 2019-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Gaw2CvsPtIjbhdpLfVklw%3D%3D) | 
-| 第10回おかげ杯囲碁トーナメント戦1回戦 | Onishi Ryuhei | Shibano Toramaru | W+1.5 | 2019-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n6p6xDSPaP3nlUNHlOo9LA%3D%3D) | 
-| 関西合宿決勝トーナメント準決勝 | Iyama Yuta | Onishi Ryuhei | B+R | 2019-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WcO%2F0sm2c1CC54cHSFzvmQ%3D%3D) | 
-| 関西合宿決勝トーナメント | Mutsuura Yuta | Onishi Ryuhei | W+R | 2019-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YztkgCwn8Pkk9CgwbszeCw%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Yoda Norimoto | Onishi Ryuhei | B+R | 2019-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ckj9SjENhVcX3HH2jqTXng%3D%3D) | 
-| 第6回グロービス杯世界囲碁U-20グループリーグA | Onishi Ryuhei | Nyu Eiko | W+1.5 | 2019-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m7tBZoQbLmDACHT2yaoR3w%3D%3D) | 
-| 第6回グロービス杯世界囲碁U-20グループリーグA | Onishi Ryuhei | Chen Zijian | W+R | 2019-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cv0%2FjuAabF0QX56WVx0viQ%3D%3D) | 
-| 第2回トライカップ プロ囲碁団体戦 | Onishi Ryuhei | Kono Rin | W+6.5 | 2019-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hTD6cnRGCS9wvEMyjB%2FHrw%3D%3D) | 
-| 第2回トライカップ プロ囲碁団体戦 | Onishi Ryuhei | Xie Yimin | B+1.5 | 2019-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RhnnjRso7VpYzZDGjYtdbw%3D%3D) | 
-| 第3回ワールド碁チャンピオンシップ国際予選1回戦 | Jiang Weijie | Onishi Ryuhei | B+R | 2019-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IDdAHAaEzqBF9H3hgQD2fQ%3D%3D) | 
-| 第45期天元戦1回戦 | missing | Onishi Ryuhei | W+R | 2019-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZNV3HZpgo1a6Dj6J1vyA5w%3D%3D) | 
-| 第6回グロービス杯国内予選 | Onishi Ryuhei | missing | B+3.5 | 2019-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PaHS9jNnqiILLGQaae%2Bi4w%3D%3D) | 
-| 第57期十段戦準決勝 | Onishi Ryuhei | Murakawa Daisuke | W+R | 2019-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YG%2BvpzFyuvuhjEJ8zAwfzw%3D%3D) | 
-| ナショナルチーム合宿対局 | Onishi Ryuhei | Sun Zhe | B+3.5 | 2018-12-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oxzDPZEBnWujmT0Hy8fq7w%3D%3D) | 
-| 第44期碁聖戦本戦1回戦 | Yamashita Keigo | Onishi Ryuhei | B+R | 2018-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t%2BsIv1jzuQO5XaiPM9Nvrg%3D%3D) | 
-| 第45期天元戦予選 | Onishi Ryuhei | Suzuki Shinji | B+R | 2018-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xp8PvlIns%2FPGd1rhNxG4Hw%3D%3D) | 
-| 第57期十段戦3回戦 | Onishi Ryuhei | O Meien | B+0.5 | 2018-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Wm11qJo2StnKaOZ40VqRQ%3D%3D) | 
-| 第13回広島アルミ杯・若鯉戦2回戦  | Fujisawa Rina | Onishi Ryuhei | B+R | 2018-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oJmfD55xVRU0patt%2FtRGiA%3D%3D) | 
-| 第13回広島アルミ杯・若鯉戦1回戦  | Xie Yimin | Onishi Ryuhei | W+5.5 | 2018-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SdSJcBKnfyX%2B2aZJblQtkg%3D%3D) | 
-| 第57期十段戦2回戦 | Onishi Ryuhei | Yu Zhengqi | B+R | 2018-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B5jq9i49P%2FsU4vY%2FzhnGYw%3D%3D) | 
-| 第43期棋聖戦挑戦者決定トーナメント | Onishi Ryuhei | Kono Rin | W+0.5 | 2018-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O9hM5SQ97PkaXVNSYkY5qA%3D%3D) | 
-| 第45期天元戦予選 | Ryu Shikun | Onishi Ryuhei | W+0.5 | 2018-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BQBSh3LnhtI8FjGAoe0c8A%3D%3D) | 
-| 第44期碁聖戦予選 | Yamashiro Hiroshi | Onishi Ryuhei | W+R | 2018-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HUZjECQg%2Bpxpi0HWeTWD2g%3D%3D) | 
-| 第43期棋聖戦挑戦者決定トーナメント | Murakawa Daisuke | Onishi Ryuhei | W+R | 2018-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PeSy3fHUi5HcotPY4sxkvA%3D%3D) | 
-| 第67期王座戦予選 | Onishi Ryuhei | Yoda Norimoto | W+R | 2018-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S3Av8P17TkOchw397kqELg%3D%3D) | 
-| 第57期十段戦1回戦 | Onishi Ryuhei | Chang Rueijie | B+R | 2018-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9qlrnnsSy%2BfJgctjs%2BXjLg%3D%3D) | 
-| 第57期十段戦最終予選決勝 | Onishi Ryuhei | Hane Naoki | B+0.5 | 2018-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vbb3DWKh%2B1cqd%2FD4oe9SBw%3D%3D) | 
-| 第43期棋聖戦Cリーグ | Onishi Ryuhei | Han Zenki | B+R | 2018-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r0eR4BzbFqOPANwA1fZO%2Bw%3D%3D) | 
-| 第44期名人戦予選 | Onishi Ryuhei | Lee Ishu | B+R | 2018-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c%2Bpp0ka6ZMdg0Z24up3I4Q%3D%3D) | 
-| 第74期本因坊戦予選 | Sun Zhe | Onishi Ryuhei | B+R | 2018-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XC76DnrwQhf5JTm3EPAqIA%3D%3D) | 
-| 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Ida Atsushi | Onishi Ryuhei | B+R | 2018-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=an784UMBsolsh7OWpFe9CA%3D%3D) | 
-| 関西棋院日本棋院対抗戦 | Furuya Yutaka | Onishi Ryuhei | W+1.5 | 2018-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jzszuy9E7s0%2FIiYX9NkQHA%3D%3D) | 
-| 第5回グロービス杯世界囲碁U-20グループリーグA | Yao Zhiteng | Onishi Ryuhei | B+R | 2018-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vdmUNsjQr3G3zPcCK3S%2F2w%3D%3D) | 
-| 第5回グロービス杯世界囲碁U-20グループリーグA | Zhao Chenyu | Onishi Ryuhei | B+R | 2018-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ahOmpMEmuzzIE0fNdBlycQ%3D%3D) | 
-| 第5回グロービス杯世界囲碁U-20グループリーグA | Onishi Ryuhei | missing | B+R | 2018-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gbnb5ZDhxn8JO%2FRN5VooPQ%3D%3D) | 
-| 第57期十段戦予選 | Onishi Ryuhei | Shibano Toramaru | B+R | 2018-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4I7Wle3c7xQb1SpejmJPpA%3D%3D) | 
-| 第6回陜川郡招待韓中日台英才戦4強戦第3戦 | Onishi Ryuhei | Chen Haoxin | B+R | 2018-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MAtWQsdydehULemONQ9Y9Q%3D%3D) | 
-| 第6回陜川郡招待韓中日台英才戦4強戦第2戦 | Onishi Ryuhei | Xu Haohong | B+R | 2018-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OUwiqZ3eFIKsQt1qu3JGkg%3D%3D) | 
-| 第6回陜川郡招待韓中日台英才戦4強戦 | Onishi Ryuhei | Park Hyunsoo | W+R | 2018-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BphrgiVbuNjPYaw%2FkFq%2Fiw%3D%3D) | 
-| 第44期碁聖戦予選 | Miyazaki Ryutaro | Onishi Ryuhei | W+4.5 | 2018-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g6Cfz1RxCZBORQQ%2BNregnw%3D%3D) | 
-| 第5回グロービス杯国内予選 | Onishi Ryuhei | Chang Rueijie | B+R | 2018-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Aw%2FEkV7cHACCNndoMgA1w%3D%3D) | 
-| 第57期十段戦予選 | Onishi Ryuhei | Xie Yimin | B+R | 2018-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mHgeLH3RLwvlOX0xaMA7gg%3D%3D) | 
-| 第3期未来の星新鋭最強戦16強戦 | Onishi Ryuhei | Park Geunho | W+R | 2018-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XMLvij%2FBf%2Fk6hPzPaUJxkA%3D%3D) | 
-| 2017年利民杯世界囲碁星鋭最強戦2回戦 | Ke Jie | Onishi Ryuhei | B+7.5 | 2017-10-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V2hylWMB7nbQsuYmhxZj4Q%3D%3D) | 
-| 第44期天元戦　予選A | Takemiya Masaki | Onishi Ryuhei | B+R | 2017-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HJ2VkgXm1ka6QXGapFV5gA%3D%3D) | 
-| 日本棋院ファン感謝囲碁まつり特別対局 | Onishi Ryuhei | Fujisawa Rina | B+1.5 | 2017-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mbTDOFOJKJ6Si%2FnP5mBJpg%3D%3D) | 
-| ナショナルチーム強化対局 | Onishi Ryuhei | DeepZenGo | W+R | 2017-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yOFWuiylq0GHzDK%2B1OoMJA%3D%3D) | 
-| ナショナルチーム強化対局 | Onishi Ryuhei | DeepZenGo | W+R | 2017-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Anm2aZJb%2Fk4iP3whiuCvBg%3D%3D) | 
-| ナショナルチーム強化対局 | DeepZenGo | Onishi Ryuhei | B+R | 2017-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T4IWDRGsLuwVJegPzwKZHA%3D%3D) | 
-| ナショナルチーム強化対局 | Onishi Ryuhei | DeepZenGo | B+0.5 | 2017-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lz8Oe9A0Or5m1Wd7EdMbhA%3D%3D) | 
-| ナショナルチーム強化対局 | Onishi Ryuhei | DeepZenGo | W+R | 2017-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oQvzcWsHZ6Q5H1GpunomDQ%3D%3D) | 
-| ナショナルチーム強化対局 | Onishi Ryuhei | DeepZenGo | B+R | 2017-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BwWE1COJl2XayC%2BndXjaog%3D%3D) | 
-| ナショナルチーム強化対局 | Onishi Ryuhei | DeepZenGo | W+R | 2017-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u%2B0pd8PNEguu5vZ%2B185jbw%3D%3D) | 
-| ナショナルチーム強化対局 | DeepZenGo | Onishi Ryuhei | B+R | 2017-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=scD6ICmDVguQMFw%2BrRJ26Q%3D%3D) | 
-| ナショナルチーム強化対局 | Onishi Ryuhei | DeepZenGo | W+R | 2017-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3RlBvvS68rQwiUQx1442%2BA%3D%3D) | 
-| ナショナルチーム強化対局 | Onishi Ryuhei | DeepZenGo | W+R | 2017-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1SC9G9AlOSXuO%2FMoZTrcZw%3D%3D) | 
-| ナショナルチーム強化対局 | DeepZenGo | Onishi Ryuhei | B+R | 2017-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bdie1%2FR2Laz8kgg1sNIoZQ%3D%3D) | 
-| ナショナルチーム強化対局 | DeepZenGo | Onishi Ryuhei | W+R | 2017-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c%2BWYW%2BRqpKNW6nhxUw7myg%3D%3D) | 
-| ナショナルチーム強化対局 | DeepZenGo | Onishi Ryuhei | B+R | 2017-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fz7J62xWP9ndY35c173%2BTw%3D%3D) | 
-| ナショナルチーム強化対局 | Onishi Ryuhei | DeepZenGo | W+R | 2017-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PtXn42YDgZXtMdjNnhicjQ%3D%3D) | 
-| ナショナルチーム強化対局 | DeepZenGo | Onishi Ryuhei | B+R | 2017-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8tT5%2F7YfjcRJVk50fIw9sg%3D%3D) | 
-| ナショナルチーム強化対局 | DeepZenGo | Onishi Ryuhei | B+5.5 | 2017-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MyVuF63uDa3xT%2FmX5xcGNw%3D%3D) | 
-| ナショナルチーム強化対局 | DeepZenGo | Onishi Ryuhei | B+R | 2017-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RL1yZrJnH%2BulQJuSKr8QoQ%3D%3D) | 
-| ナショナルチーム強化対局 | Onishi Ryuhei | DeepZenGo | W+R | 2017-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oiOMnuPwO9JUg3%2BtJZpuVw%3D%3D) | 
-| 第8回おかげ杯囲碁トーナメント戦三位決定戦 | Onishi Ryuhei | Terayama Rei | W+4.5 | 2017-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kBulZXiPD4xKFdOZUOOJEg%3D%3D) | 
-| 第43期天元戦3回戦 | Hsu Chiayuan | Onishi Ryuhei | B+6.5 | 2017-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y6qmeMy85lsKvBXpRrVHOA%3D%3D) | 
-| 第42期棋聖戦　Cリーグ2回戦 | Onishi Ryuhei | Cho Sonjin | B+R | 2017-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j9irE%2FbKsCgqWmVvKLypnA%3D%3D) | 
-| 第8回おかげ杯囲碁トーナメント戦準決勝 | Onishi Ryuhei | Lee Ishu | W+6.5 | 2017-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Wn69XpgU69pwTOFiHGGnQ%3D%3D) | 
-| 日本棋院vs関西棋院対抗戦 | Yuki Satoshi | Onishi Ryuhei | W+1.5 | 2017-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gaWOonp7BLkWJp%2FB3U0IAw%3D%3D) | 
-| 日本棋院vs関西棋院対抗戦 | Murakawa Daisuke | Onishi Ryuhei | B+R | 2017-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BOYAitieI8VVhqsIOjIV3Q%3D%3D) | 
-| 第3回イベロジャパン杯決勝 | Onishi Ryuhei | Hirose Yuichi | B+3.5 | 2017-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KUFlcFF7pbxOjkJnLmuPbA%3D%3D) | 
-| 第3回イベロジャパン杯2回戦 | Otake Yu | Onishi Ryuhei | W+R | 2017-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jD96OY2gCgVxKrUpTDlOWA%3D%3D) | 
-| 第4回グロービス杯国内予選 | Watanabe Kouki | Onishi Ryuhei | B+0.5 | 2017-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bhoUGzT65wh3KPTCpXPIXg%3D%3D) | 
-| 第42期棋聖戦　ファーストトーナメント決勝 | Ueno Asami | Onishi Ryuhei | W+3.5 | 2017-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Bnn%2F9cQ9wxDbwxrtiUc%2BQ%3D%3D) | 
-| 第43期天元戦　本戦2回戦第2局 | Shuto Shun | Onishi Ryuhei | W+R | 2017-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ryjnlAsqiotLWJC1jHRv8w%3D%3D) | 
-| 2017年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Onishi Ryuhei | missing | W+R | 2017-03-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qG7jEErt06tEuZ2yper%2BhQ%3D%3D) | 
-| 第73期本因坊戦　予選A | Onishi Ryuhei | Cho Chikun | W+R | 2017-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5C7UADSy1RFTimbL7MMXIg%3D%3D) | 
-| 第8回おかげ杯囲碁トーナメント戦予選 | Ida Atsushi | Onishi Ryuhei | W+R | 2017-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CkzNUe%2F4j2nbk4%2Fce2DxaA%3D%3D) | 
-| 第4回グランドチャンピオン戦　3回戦 | Onishi Ryuhei | Yamashita Keigo | W+R | 2017-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IT0hf8qbkT%2FitR48%2B6I%2F4A%3D%3D) | 
-| 第4回グランドチャンピオン戦　2回戦 | Onishi Ryuhei | Cho U | B+R | 2017-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KchSGaQX2zOYXSeAlYFftw%3D%3D) | 
-| 第4回グランドチャンピオン戦　1回戦 | Kobayashi Koichi | Onishi Ryuhei | W+6.5 | 2017-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vkbrwawSJqtCLuzcle%2BXgQ%3D%3D) | 
-| 第43期天元戦　本戦1回戦第8局 | Onishi Ryuhei | Takao Shinji | B+R | 2017-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=57ps%2FX5nk8y2pTV%2B4%2BJLiw%3D%3D) | 
-| 第56期十段戦　予選B決勝 | Kobayashi Koichi | Onishi Ryuhei | W+R | 2016-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wwgP80xSiZYfs93x2J8WaQ%3D%3D) | 
-| 第41期日本新人王戦決勝2局 | Onishi Ryuhei | Taniguchi Tooru | B+R | 2016-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sOgIFxhNa3MepjXva%2FTXAw%3D%3D) | 
-| 第41期日本新人王戦決勝1局 | Taniguchi Tooru | Onishi Ryuhei | W+0.5 | 2016-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RQGet7yDkUEA6UUgt4xrQA%3D%3D) | 
-| 第3回ゆうちょ杯囲碁ユース選手権1回戦 | Onishi Ryuhei | Hsu Chiayuan | W+0.5 | 2016-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RLJnwFDdyFry2PPXh8mGrQ%3D%3D) | 
-| 第41期新人王戦準決勝 | Inaba Takahiro | Onishi Ryuhei | W+R | 2016-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vVoH72Dmx8fO0cXtMuRHUA%3D%3D) | 
-| 第41期新人王戦3回戦 | Adachi Toshimasa | Onishi Ryuhei | W+0.5 | 2016-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q288Vw6ktg1QJMAorElwJg%3D%3D) | 
-| 第41期新人王戦2回戦 | Tanaka Nobuyuki | Onishi Ryuhei | W+R | 2016-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wGQ31Rp%2FZJpVj0c77CrBDg%3D%3D) | 
-| 第43期天元戦予選 | Onishi Ryuhei | Otake Hideo | B+R | 2016-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XL7rNgUWXPxf3C7mD7l4vA%3D%3D) | 
-| 2016年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Yang Dingxin | Onishi Ryuhei | B+R | 2016-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YuJLZKA%2FJh0p1%2FhKvyhawg%3D%3D) | 
-| 第3回グロービス杯世界囲碁U-20グループリーグD | Onishi Ryuhei | Lin Shixun | W+4.5 | 2016-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fwSvdeAxgD3ZaYS0cZ%2BF0g%3D%3D) | 
-| 第3回グロービス杯世界囲碁U-20グループリーグD | Onishi Ryuhei | Sun Zhe | W+R | 2016-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P5%2B1b7hMZRmRbsLbDmJGlg%3D%3D) | 
-| 第3回グロービス杯国内予選 | Onishi Ryuhei | Inaba Karin | B+R | 2016-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zPRJzfaDJXLCb%2FGu%2BaUPCg%3D%3D) | 
-| 第3回グロービス杯国内予選 | Onishi Ryuhei | Koike Yoshihiro | B+R | 2016-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nN7QbCgoQta3%2BexuSNOX9w%3D%3D) | 
-| 第65期王座戦予選 | Onishi Ryuhei | Sugiuchi Masao | B+R | 2016-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ST%2FYlzNeSNxyT6w3%2BshHvQ%3D%3D) | 
-| 第7回おかげ杯囲碁トーナメント戦予選 | Muramatsu Hiroki | Onishi Ryuhei | B+R | 2016-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DIMYHh34dVkAksTG0E3J%2BQ%3D%3D) | 
-| 第7回おかげ杯囲碁トーナメント戦予選 | Onishi Ryuhei | Kumamoto Syusei | B+R | 2016-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qGZ8w%2B7lISGZf1HYH3EY6Q%3D%3D) | 
-| 2016年日台精鋭交流戦第5戦 | Lin Shimin | Onishi Ryuhei | W+2.5 | 2016-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G2y3dM8%2BvXsRBjoXezheDQ%3D%3D) | 
-| 2016年日台精鋭交流戦第2戦 | Su Shengfang | Onishi Ryuhei | W+R | 2016-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zQAG66CTqVFFSaq2sCOGag%3D%3D) | 
-| 2016年日台精鋭交流戦第1戦 | Onishi Ryuhei | Chen Qirui | B+3.5 | 2016-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7sJjVzNuhK3sYEnzbH1HGg%3D%3D) | 
-| 第41期新人王戦1回戦 | Onishi Ryuhei | Ito Masashi | B+R | 2016-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tN4%2FS7MFohwqcmF137VG4A%3D%3D) | 
-| 第2回イベロジャパン杯1回戦 | Otake Yu | Onishi Ryuhei | B+R | 2016-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qYFqjxdGL2OgFGsE5tpNlQ%3D%3D) | 
-| 第41期棋聖戦予選 | Onishi Ryuhei | Kobayashi Koichi | B+6.5 | 2016-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SUzU%2F6ku%2F6%2BTVuF2kVuzVA%3D%3D) | 
-| 第41期新人王戦予選 | Onishi Ryuhei | Kibe Natsuki | B+R | 2015-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7ywSX0M%2FEaVNJ1HfY%2B%2FWag%3D%3D) | 
-| 第20回三星火災杯統合予選1回戦 | Onishi Ryuhei | Hong Kipyo | W+R | 2015-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ox3ks2Y2dWwEmuxwfE8AiQ%3D%3D) | 
-| 第6回おかげ杯囲碁トーナメント戦予選 | Onishi Ryuhei | Tanaka Nobuyuki | W+1.5 | 2015-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OpB8uZiRqxZDpUcoBNzauA%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-05 | 第46期棋聖戦Aリーグ | Onishi Ryuhei | Cho U | Win | B+R | 6.5 | 3162 | 18 | 
+| 2021-06-14 | 第77期本因坊戦予選 | Cho U | Onishi Ryuhei | Win | W+2.5 | 6.5 | 3144 | 66 | 
+| 2021-05-10 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Onishi Ryuhei | Lose | B+R | 6.5 | 3078 | 11 | 
+| 2021-04-15 | 第46期棋聖戦Aリーグ | Hsu Chiayuan | Onishi Ryuhei | Win | W+R | 6.5 | 3067 | -38 | 
+| 2021-04-02 | 第76期本因坊戦リーグ  | Ichiriki Ryo | Onishi Ryuhei | Lose | B+R | 6.5 | 3105 | -10 | 
+| 2021-03-29 | 第46期棋聖戦Aリーグ | Onishi Ryuhei | Hane Naoki | Lose | W+R | 6.5 | 3115 | -108 | 
+| 2021-03-22 | 第69期王座戦予選 | Onishi Ryuhei | Rin Kanketsu | Lose | W+3.5 | 6.5 | 3223 | -17 | 
+| 2021-03-11 | 第76期本因坊戦リーグ | Onishi Ryuhei | Tsuruyama Atsushi | Win | B+R | 6.5 | 3240 | -3 | 
+| 2021-02-25 | 第46期棋聖戦Aリーグ | Mutsuura Yuta | Onishi Ryuhei | Win | W+2.5 | 6.5 | 3243 | -45 | 
+| 2021-02-18 | 第76期本因坊戦リーグ | Onishi Ryuhei | Hsu Chiayuan | Win | B+R | 6.5 | 3288 | -68 | 
+| 2021-01-28 | 第69期王座戦予選 | Onishi Ryuhei | Mukai Chiaki | Win | B+R | 6.5 | 3356 | -13 | 
+| 2021-01-21 | 第76期本因坊戦リーグ | Onishi Ryuhei | Hane Naoki | Lose | W+R | 6.5 | 3369 | -25 | 
+| 2020-12-28 | 第59期十段戦3回戦 | Onishi Ryuhei | Yu Zhengqi | Lose | W+1.5 | 6.5 | 3394 | -17 | 
+| 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦2回戦 | Onishi Ryuhei | Murakawa Daisuke | Lose | W+5.5 | 6.5 | 3411 | 0 | 
+| 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦1回戦 | Onishi Ryuhei | Fujisawa Rina | Win | B+R | 6.5 | 3411 | -8 | 
+| 2020-12-18 | 第76期本因坊戦リーグ  | Shibano Toramaru | Onishi Ryuhei | Lose | B+R | 6.5 | 3419 | -44 | 
+| 2020-11-26 | 第76期本因坊戦リーグ | Sada Atsushi | Onishi Ryuhei | Lose | B+R | 6.5 | 3463 | -25 | 
+| 2020-11-21 | 第15回広島アルミ杯・若鯉戦2回戦  | Onishi Ryuhei | Hirata Tomoya | Lose | W+0.5 | 6.5 | 3488 | 0 | 
+| 2020-11-21 | 第15回広島アルミ杯・若鯉戦1回戦 |  | Onishi Ryuhei | Win | W+R | 6.5 | 3488 | 4 | 
+| 2020-10-22 | 第76期本因坊戦リーグ | Ko Iso | Onishi Ryuhei | Win | W+R | 6.5 | 3484 | -7 | 
+| 2020-10-12 | 第59期十段戦2回戦 | Onishi Ryuhei | Mizokami Tomochika | Win | B+0.5 | 6.5 | 3491 | 65 | 
+| 2020-09-24 | 第46期名人戦予選 | Onishi Ryuhei | Murakawa Daisuke | Lose | W+R | 6.5 | 3426 | 56 | 
+| 2020-08-31 | 第45期棋聖戦Aリーグ | Onishi Ryuhei | Shida Tatsuya | Win | B+R | 6.5 | 3370 | -6 | 
+| 2020-08-27 | 第76期本因坊戦予選  | Onishi Ryuhei | Kono Rin | Win | B+R | 6.5 | 3376 | 164 | 
+| 2020-08-03 | 第45期棋聖戦Aリーグ | Motoki Katsuya | Onishi Ryuhei | Lose | B+R | 6.5 | 3212 | -39 | 
+| 2020-07-30 | 第76期本因坊戦予選 | O Rissei | Onishi Ryuhei | Win | W+R | 6.5 | 3251 | -8 | 
+| 2020-07-13 | 第45期棋聖戦Aリーグ | Adachi Toshimasa | Onishi Ryuhei | Win | W+1.5 | 6.5 | 3259 | 34 | 
+| 2020-06-25 | 第45期棋聖戦Aリーグ | Onishi Ryuhei | Yoda Norimoto | Lose | W+3.5 | 6.5 | 3225 | -5 | 
+| 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Lee Taehyun | Onishi Ryuhei | Lose | B+0.5 | 6.5 | 3230 | 196 | 
+| 2020-04-17 | 日台交流戦第2戦 | Xu Jingen | Onishi Ryuhei | Win | W+0.5 | 6.5 | 3034 | 0 | 
+| 2020-04-17 | 日台交流戦第1戦 | Onishi Ryuhei | Li Wei | Lose | W+0.5 | 6.5 | 3034 | 36 | 
+| 2020-04-07 | 第25回LG杯国内予選決勝 | Onishi Ryuhei | Shida Tatsuya | Win | B+1.5 | 6.5 | 2998 | 18 | 
+| 2020-04-06 | 第25回LG杯国内予選 | Onishi Ryuhei | Yu Zhengqi | Win | B+R | 6.5 | 2980 | 23 | 
+| 2020-03-19 | 第45期棋聖戦Aリーグ | Onishi Ryuhei | So Yokoku | Win | B+R | 6.5 | 2957 | -1 | 
+| 2020-03-12 | 第45期棋聖戦Aリーグ | Yamashita Keigo | Onishi Ryuhei | Win | W+R | 6.5 | 2958 | 51 | 
+| 2020-02-20 | 第76期本因坊戦予選 | Anzai Nobuaki | Onishi Ryuhei | Win | W+0.5 | 6.5 | 2907 | -235 | 
+| 2020-01-30 | 第76期本因坊戦予選 | Onishi Ryuhei | Rin Kanketsu | Win | B+2.5 | 6.5 | 3142 | 5 | 
+| 2020-01-23 | 第45期棋聖戦Aリーグ | Yu Zhengqi | Onishi Ryuhei | Win | W+R | 6.5 | 3137 | 15 | 
+| 2020-01-16 | 第46期天元戦1回戦 | Sada Atsushi | Onishi Ryuhei | Lose | B+R | 6.5 | 3122 | 259 | 
+| 2019-12-19 | 第58期十段戦準決勝 | Onishi Ryuhei | Shibano Toramaru | Lose | W+R | 6.5 | 2863 | -44 | 
+| 2019-11-18 | 第58期十段戦3回戦 | Onishi Ryuhei | Fujita Akihiko | Win | B+1.5 | 6.5 | 2907 | 50 | 
+| 2019-10-17 | 第58期十段戦2回戦 | Onishi Ryuhei | Yu Zhengqi | Win | B+2.5 | 6.5 | 2857 | 35 | 
+| 2019-09-19 | 第46期天元戦予選 | Onishi Ryuhei | Hoshiai Shiho | Win | B+R | 6.5 | 2822 | 7 | 
+| 2019-09-05 | 第45期名人戦予選 | Onishi Ryuhei | Fujisawa Rina | Lose | W+R | 6.5 | 2815 | -134 | 
+| 2019-07-25 | 第45期名人戦予選 | Onishi Ryuhei | Takemiya Masaki | Win | B+2.5 | 6.5 | 2949 | 29 | 
+| 2019-07-18 | 第44期棋聖戦Bリーグ | Onishi Ryuhei | Tsuruyama Atsushi | Win | B+R | 6.5 | 2920 | 9 | 
+| 2019-07-15 | 第45期天元戦3回戦 | Onishi Ryuhei | Kono Rin | Lose | W+R | 6.5 | 2911 | -21 | 
+| 2019-07-11 | 第44期棋聖戦Bリーグ | Onishi Ryuhei | Kobayashi Satoru | Win | B+1.5 | 6.5 | 2932 | 3 | 
+| 2019-06-23 | 2019年中国囲碁乙級リーグ | Onishi Ryuhei | Na Hyun | Lose | W+R | 7.5 | 2929 | 60 | 
+| 2019-05-30 | 第44期棋聖戦Bリーグ | Hane Naoki | Onishi Ryuhei | Win | W+3.5 | 6.5 | 2869 | 9 | 
+| 2019-05-17 | 第45期天元戦2回戦 | O Meien | Onishi Ryuhei | Win | W+R | 6.5 | 2860 | 25 | 
+| 2019-05-14 | 第10回おかげ杯囲碁トーナメント戦1回戦 | Onishi Ryuhei | Shibano Toramaru | Lose | W+1.5 | 6.5 | 2835 | -33 | 
+| 2019-05-05 | 関西合宿決勝トーナメント準決勝 | Iyama Yuta | Onishi Ryuhei | Lose | B+R | 6.5 | 2868 | 0 | 
+| 2019-05-05 | 関西合宿決勝トーナメント | Mutsuura Yuta | Onishi Ryuhei | Win | W+R | 6.5 | 2868 | -20 | 
+| 2019-04-25 | 第44期棋聖戦Bリーグ | Yoda Norimoto | Onishi Ryuhei | Lose | B+R | 6.5 | 2888 | -2 | 
+| 2019-04-19 | 第6回グロービス杯世界囲碁U-20グループリーグA | Onishi Ryuhei | Nyu Eiko | Lose | W+1.5 | 6.5 | 2890 | 0 | 
+| 2019-04-19 | 第6回グロービス杯世界囲碁U-20グループリーグA | Onishi Ryuhei | Chen Zijian | Lose | W+R | 6.5 | 2890 | -70 | 
+| 2019-04-14 | 第2回トライカップ プロ囲碁団体戦 | Onishi Ryuhei | Kono Rin | Lose | W+6.5 | 6.5 | 2960 | 0 | 
+| 2019-04-14 | 第2回トライカップ プロ囲碁団体戦 | Onishi Ryuhei | Xie Yimin | Win | B+1.5 | 6.5 | 2960 | -31 | 
+| 2019-01-24 | 第3回ワールド碁チャンピオンシップ国際予選1回戦 | Jiang Weijie | Onishi Ryuhei | Lose | B+R | 6.5 | 2991 | -12 | 
+| 2019-01-17 | 第45期天元戦1回戦 |  | Onishi Ryuhei | Win | W+R | 6.5 | 3003 | 16 | 
+| 2019-01-14 | 第6回グロービス杯国内予選 | Onishi Ryuhei |  | Win | B+3.5 | 6.5 | 2987 | 14 | 
+| 2019-01-07 | 第57期十段戦準決勝 | Onishi Ryuhei | Murakawa Daisuke | Lose | W+R | 6.5 | 2973 | -18 | 
+| 2018-12-27 | ナショナルチーム合宿対局 | Onishi Ryuhei | Sun Zhe | Win | B+3.5 | 6.5 | 2991 | -40 | 
+| 2018-12-06 | 第44期碁聖戦本戦1回戦 | Yamashita Keigo | Onishi Ryuhei | Lose | B+R | 6.5 | 3031 | -13 | 
+| 2018-11-29 | 第45期天元戦予選 | Onishi Ryuhei | Suzuki Shinji | Win | B+R | 6.5 | 3044 | 3 | 
+| 2018-11-22 | 第57期十段戦3回戦 | Onishi Ryuhei | O Meien | Win | B+0.5 | 6.5 | 3041 | 11 | 
+| 2018-11-17 | 第13回広島アルミ杯・若鯉戦2回戦  | Fujisawa Rina | Onishi Ryuhei | Lose | B+R | 6.5 | 3030 | 0 | 
+| 2018-11-17 | 第13回広島アルミ杯・若鯉戦1回戦  | Xie Yimin | Onishi Ryuhei | Win | W+5.5 | 6.5 | 3030 | -53 | 
+| 2018-10-25 | 第57期十段戦2回戦 | Onishi Ryuhei | Yu Zhengqi | Win | B+R | 6.5 | 3083 | 40 | 
+| 2018-10-22 | 第43期棋聖戦挑戦者決定トーナメント | Onishi Ryuhei | Kono Rin | Lose | W+0.5 | 6.5 | 3043 | -46 | 
+| 2018-10-18 | 第45期天元戦予選 | Ryu Shikun | Onishi Ryuhei | Win | W+0.5 | 6.5 | 3089 | 17 | 
+| 2018-10-11 | 第44期碁聖戦予選 | Yamashiro Hiroshi | Onishi Ryuhei | Win | W+R | 6.5 | 3072 | 22 | 
+| 2018-10-08 | 第43期棋聖戦挑戦者決定トーナメント | Murakawa Daisuke | Onishi Ryuhei | Win | W+R | 6.5 | 3050 | 25 | 
+| 2018-10-04 | 第67期王座戦予選 | Onishi Ryuhei | Yoda Norimoto | Lose | W+R | 6.5 | 3025 | -6 | 
+| 2018-09-20 | 第57期十段戦1回戦 | Onishi Ryuhei | Chang Rueijie | Win | B+R | 6.5 | 3031 | -15 | 
+| 2018-08-16 | 第57期十段戦最終予選決勝 | Onishi Ryuhei | Hane Naoki | Win | B+0.5 | 6.5 | 3046 | 60 | 
+| 2018-07-26 | 第43期棋聖戦Cリーグ | Onishi Ryuhei | Han Zenki | Win | B+R | 6.5 | 2986 | 15 | 
+| 2018-06-21 | 第44期名人戦予選 | Onishi Ryuhei | Lee Ishu | Win | B+R | 6.5 | 2971 | 48 | 
+| 2018-06-07 | 第74期本因坊戦予選 | Sun Zhe | Onishi Ryuhei | Lose | B+R | 6.5 | 2923 | -18 | 
+| 2018-05-10 | 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Ida Atsushi | Onishi Ryuhei | Lose | B+R | 6.5 | 2941 | -34 | 
+| 2018-05-06 | 関西棋院日本棋院対抗戦 | Furuya Yutaka | Onishi Ryuhei | Win | W+1.5 | 6.5 | 2975 | 15 | 
+| 2018-04-21 | 第5回グロービス杯世界囲碁U-20グループリーグA | Yao Zhiteng | Onishi Ryuhei | Lose | B+R | 6.5 | 2960 | -18 | 
+| 2018-04-20 | 第5回グロービス杯世界囲碁U-20グループリーグA | Zhao Chenyu | Onishi Ryuhei | Lose | B+R | 6.5 | 2978 | 0 | 
+| 2018-04-20 | 第5回グロービス杯世界囲碁U-20グループリーグA | Onishi Ryuhei |  | Win | B+R | 6.5 | 2978 | -3 | 
+| 2018-04-16 | 第57期十段戦予選 | Onishi Ryuhei | Shibano Toramaru | Win | B+R | 6.5 | 2981 | 3 | 
+| 2018-03-28 | 第6回陜川郡招待韓中日台英才戦4強戦第3戦 | Onishi Ryuhei | Chen Haoxin | Win | B+R | 6.5 | 2978 | 9 | 
+| 2018-03-27 | 第6回陜川郡招待韓中日台英才戦4強戦第2戦 | Onishi Ryuhei | Xu Haohong | Win | B+R | 6.5 | 2969 | -11 | 
+| 2018-03-26 | 第6回陜川郡招待韓中日台英才戦4強戦 | Onishi Ryuhei | Park Hyunsoo | Lose | W+R | 6.5 | 2980 | -49 | 
+| 2018-02-01 | 第44期碁聖戦予選 | Miyazaki Ryutaro | Onishi Ryuhei | Win | W+4.5 | 6.5 | 3029 | 5 | 
+| 2018-01-29 | 第5回グロービス杯国内予選 | Onishi Ryuhei | Chang Rueijie | Win | B+R | 6.5 | 3024 | 6 | 
+| 2018-01-25 | 第57期十段戦予選 | Onishi Ryuhei | Xie Yimin | Win | B+R | 6.5 | 3018 | 6 | 
+| 2018-01-16 | 第3期未来の星新鋭最強戦16強戦 | Onishi Ryuhei | Park Geunho | Lose | W+R | 6.5 | 3012 | 3 | 
+| 2017-10-15 | 2017年利民杯世界囲碁星鋭最強戦2回戦 | Ke Jie | Onishi Ryuhei | Lose | B+7.5 | 7.5 | 3009 | 17 | 
+| 2017-09-21 | 第44期天元戦　予選A | Takemiya Masaki | Onishi Ryuhei | Lose | B+R | 6.5 | 2992 | 17 | 
+| 2017-09-10 | 日本棋院ファン感謝囲碁まつり特別対局 | Onishi Ryuhei | Fujisawa Rina | Win | B+1.5 | 6.5 | 2975 | 51 | 
+| 2017-07-30 | ナショナルチーム強化対局 | Onishi Ryuhei | DeepZenGo | Lose | W+R | 6.5 | 2924 | -7 | 
+| 2017-07-27 | ナショナルチーム強化対局 | Onishi Ryuhei | DeepZenGo | Lose | W+R | 6.5 | 2931 | -3 | 
+| 2017-07-26 | ナショナルチーム強化対局 | DeepZenGo | Onishi Ryuhei | Lose | B+R | 6.5 | 2934 | 9 | 
+| 2017-07-18 | ナショナルチーム強化対局 | Onishi Ryuhei | DeepZenGo | Win | B+0.5 | 6.5 | 2925 | -1 | 
+| 2017-07-14 | ナショナルチーム強化対局 | Onishi Ryuhei | DeepZenGo | Lose | W+R | 6.5 | 2926 | 2 | 
+| 2017-07-13 | ナショナルチーム強化対局 | Onishi Ryuhei | DeepZenGo | Win | B+R | 6.5 | 2924 | 23 | 
+| 2017-07-04 | ナショナルチーム強化対局 | Onishi Ryuhei | DeepZenGo | Lose | W+R | 6.5 | 2901 | -9 | 
+| 2017-07-03 | ナショナルチーム強化対局 | DeepZenGo | Onishi Ryuhei | Lose | B+R | 6.5 | 2910 | -7 | 
+| 2017-07-02 | ナショナルチーム強化対局 | Onishi Ryuhei | DeepZenGo | Lose | W+R | 6.5 | 2917 | -12 | 
+| 2017-07-01 | ナショナルチーム強化対局 | Onishi Ryuhei | DeepZenGo | Lose | W+R | 6.5 | 2929 | -4 | 
+| 2017-06-30 | ナショナルチーム強化対局 | DeepZenGo | Onishi Ryuhei | Lose | B+R | 6.5 | 2933 | -22 | 
+| 2017-06-29 | ナショナルチーム強化対局 | DeepZenGo | Onishi Ryuhei | Win | W+R | 6.5 | 2955 | 20 | 
+| 2017-06-28 | ナショナルチーム強化対局 | DeepZenGo | Onishi Ryuhei | Lose | B+R | 6.5 | 2935 | 7 | 
+| 2017-06-25 | ナショナルチーム強化対局 | Onishi Ryuhei | DeepZenGo | Lose | W+R | 6.5 | 2928 | -9 | 
+| 2017-06-24 | ナショナルチーム強化対局 | DeepZenGo | Onishi Ryuhei | Lose | B+R | 6.5 | 2937 | -7 | 
+| 2017-06-23 | ナショナルチーム強化対局 | DeepZenGo | Onishi Ryuhei | Lose | B+5.5 | 6.5 | 2944 | -3 | 
+| 2017-06-22 | ナショナルチーム強化対局 | DeepZenGo | Onishi Ryuhei | Lose | B+R | 6.5 | 2947 | -10 | 
+| 2017-06-21 | ナショナルチーム強化対局 | Onishi Ryuhei | DeepZenGo | Lose | W+R | 6.5 | 2957 | -31 | 
+| 2017-06-12 | 第8回おかげ杯囲碁トーナメント戦三位決定戦 | Onishi Ryuhei | Terayama Rei | Lose | W+4.5 | 6.5 | 2988 | -11 | 
+| 2017-06-05 | 第43期天元戦3回戦 | Hsu Chiayuan | Onishi Ryuhei | Lose | B+6.5 | 6.5 | 2999 | -52 | 
+| 2017-05-18 | 第42期棋聖戦　Cリーグ2回戦 | Onishi Ryuhei | Cho Sonjin | Win | B+R | 6.5 | 3051 | -6 | 
+| 2017-05-15 | 第8回おかげ杯囲碁トーナメント戦準決勝 | Onishi Ryuhei | Lee Ishu | Lose | W+6.5 | 6.5 | 3057 | -23 | 
+| 2017-05-01 | 日本棋院vs関西棋院対抗戦 | Yuki Satoshi | Onishi Ryuhei | Win | W+1.5 | 6.5 | 3080 | 0 | 
+| 2017-05-01 | 日本棋院vs関西棋院対抗戦 | Murakawa Daisuke | Onishi Ryuhei | Lose | B+R | 6.5 | 3080 | 9 | 
+| 2017-04-24 | 第3回イベロジャパン杯決勝 | Onishi Ryuhei | Hirose Yuichi | Win | B+3.5 | 6.5 | 3071 | 66 | 
+| 2017-04-14 | 第3回イベロジャパン杯2回戦 | Otake Yu | Onishi Ryuhei | Win | W+R | 6.5 | 3005 | 141 | 
+| 2017-03-21 | 第4回グロービス杯国内予選 | Watanabe Kouki | Onishi Ryuhei | Lose | B+0.5 | 6.5 | 2864 | -58 | 
+| 2017-03-16 | 第42期棋聖戦　ファーストトーナメント決勝 | Ueno Asami | Onishi Ryuhei | Win | W+3.5 | 6.5 | 2922 | -5 | 
+| 2017-03-09 | 第43期天元戦　本戦2回戦第2局 | Shuto Shun | Onishi Ryuhei | Win | W+R | 6.5 | 2927 | 9 | 
+| 2017-03-02 | 2017年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Onishi Ryuhei |  | Lose | W+R | 7.5 | 2918 | -12 | 
+| 2017-02-23 | 第73期本因坊戦　予選A | Onishi Ryuhei | Cho Chikun | Lose | W+R | 6.5 | 2930 | 17 | 
+| 2017-02-21 | 第8回おかげ杯囲碁トーナメント戦予選 | Ida Atsushi | Onishi Ryuhei | Win | W+R | 6.5 | 2913 | 13 | 
+| 2017-02-20 | 第4回グランドチャンピオン戦　3回戦 | Onishi Ryuhei | Yamashita Keigo | Lose | W+R | 6.5 | 2900 | 0 | 
+| 2017-02-20 | 第4回グランドチャンピオン戦　2回戦 | Onishi Ryuhei | Cho U | Win | B+R | 6.5 | 2900 | 67 | 
+| 2017-02-06 | 第4回グランドチャンピオン戦　1回戦 | Kobayashi Koichi | Onishi Ryuhei | Win | W+6.5 | 6.5 | 2833 | -22 | 
+| 2017-01-12 | 第43期天元戦　本戦1回戦第8局 | Onishi Ryuhei | Takao Shinji | Win | B+R | 6.5 | 2855 | -49 | 
+| 2016-11-03 | 第56期十段戦　予選B決勝 | Kobayashi Koichi | Onishi Ryuhei | Win | W+R | 6.5 | 2904 | 51 | 
+| 2016-09-30 | 第41期日本新人王戦決勝2局 | Onishi Ryuhei | Taniguchi Tooru | Win | B+R | 6.5 | 2853 | 1 | 
+| 2016-09-22 | 第41期日本新人王戦決勝1局 | Taniguchi Tooru | Onishi Ryuhei | Win | W+0.5 | 6.5 | 2852 | -1 | 
+| 2016-08-02 | 第3回ゆうちょ杯囲碁ユース選手権1回戦 | Onishi Ryuhei | Hsu Chiayuan | Lose | W+0.5 | 6.5 | 2853 | -20 | 
+| 2016-07-14 | 第41期新人王戦準決勝 | Inaba Takahiro | Onishi Ryuhei | Win | W+R | 6.5 | 2873 | 78 | 
+| 2016-06-16 | 第41期新人王戦3回戦 | Adachi Toshimasa | Onishi Ryuhei | Win | W+0.5 | 6.5 | 2795 | 106 | 
+| 2016-05-19 | 第41期新人王戦2回戦 | Tanaka Nobuyuki | Onishi Ryuhei | Win | W+R | 6.5 | 2689 | -2 | 
+| 2016-05-05 | 第43期天元戦予選 | Onishi Ryuhei | Otake Hideo | Win | B+R | 6.5 | 2691 | 72 | 
+| 2016-04-27 | 2016年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Yang Dingxin | Onishi Ryuhei | Lose | B+R | 7.5 | 2619 | -5 | 
+| 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグD | Onishi Ryuhei | Lin Shixun | Lose | W+4.5 | 6.5 | 2624 | 0 | 
+| 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグD | Onishi Ryuhei | Sun Zhe | Lose | W+R | 6.5 | 2624 | -71 | 
+| 2016-03-22 | 第3回グロービス杯国内予選 | Onishi Ryuhei | Inaba Karin | Win | B+R | 6.5 | 2695 | 0 | 
+| 2016-03-22 | 第3回グロービス杯国内予選 | Onishi Ryuhei | Koike Yoshihiro | Win | B+R | 6.5 | 2695 | 36 | 
+| 2016-03-10 | 第65期王座戦予選 | Onishi Ryuhei | Sugiuchi Masao | Win | B+R | 6.5 | 2659 | 9 | 
+| 2016-02-24 | 第7回おかげ杯囲碁トーナメント戦予選 | Muramatsu Hiroki | Onishi Ryuhei | Lose | B+R | 6.5 | 2650 | -96 | 
+| 2016-02-09 | 第7回おかげ杯囲碁トーナメント戦予選 | Onishi Ryuhei | Kumamoto Syusei | Win | B+R | 6.5 | 2746 | 68 | 
+| 2016-01-30 | 2016年日台精鋭交流戦第5戦 | Lin Shimin | Onishi Ryuhei | Win | W+2.5 | 6.5 | 2678 | -22 | 
+| 2016-01-28 | 2016年日台精鋭交流戦第2戦 | Su Shengfang | Onishi Ryuhei | Win | W+R | 6.5 | 2700 | 0 | 
+| 2016-01-28 | 2016年日台精鋭交流戦第1戦 | Onishi Ryuhei | Chen Qirui | Win | B+3.5 | 6.5 | 2700 | 121 | 
+| 2016-01-25 | 第41期新人王戦1回戦 | Onishi Ryuhei | Ito Masashi | Win | B+R | 6.5 | 2579 | -93 | 
+| 2016-01-08 | 第2回イベロジャパン杯1回戦 | Otake Yu | Onishi Ryuhei | Lose | B+R | 6.5 | 2672 | -15 | 
+| 2016-01-07 | 第41期棋聖戦予選 | Onishi Ryuhei | Kobayashi Koichi | Win | B+6.5 | 6.5 | 2687 | 2687 | 
+| 2015-10-05 | 第41期新人王戦予選 | Onishi Ryuhei | Kibe Natsuki | Win | B+R | 6.5 | missing | 0 | 
+| 2015-08-01 | 第20回三星火災杯統合予選1回戦 | Onishi Ryuhei | Hong Kipyo | Lose | W+R | 6.5 | missing | 0 | 
+| 2015-02-17 | 第6回おかげ杯囲碁トーナメント戦予選 | Onishi Ryuhei | Tanaka Nobuyuki | Lose | W+1.5 | 6.5 | missing | missing |
 
 
 

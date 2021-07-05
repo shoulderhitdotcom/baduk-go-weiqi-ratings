@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-07-01 | 第46期名人戦リーグ  | Ichiriki Ryo | Kono Rin | Win | B+0.5 | 6.5 | 3492 | -4 | 
+| 2021-07-05 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Motoki Katsuya | Ichiriki Ryo | Lose | B+R | 6.5 | 3496 | 0 | 
 | 2021-07-01 | 第46期名人戦リーグ  | Ichiriki Ryo | Kono Rin | Win | B+0.5 | 6.5 | 3496 | -5 | 
 | 2021-06-26 | 第46期碁聖戦挑戦手合五番勝負第1局  | Iyama Yuta | Ichiriki Ryo | Lose | B+R | 6.5 | 3501 | -19 | 
 | 2021-06-17 | 第46期棋聖戦Sリーグ  | Murakawa Daisuke | Ichiriki Ryo | Win | W+R | 6.5 | 3520 | 12 | 

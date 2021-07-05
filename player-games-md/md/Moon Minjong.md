@@ -7,17 +7,14 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-05 | 2021陜川歴代英才vs女子頂上連勝対抗戦第3局 | Moon Minjong |  | Win | B+0.5 | 6.5 | 3220 | -6 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20三位決定戦 | Park Sangjin | Moon Minjong | Lose | B+5.5 | 6.5 | 3226 | 0 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20準決勝 | Wang Xinghao | Moon Minjong | Lose | B+R | 6.5 | 3226 | 0 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20準々決勝  | Ueno Asami | Moon Minjong | Win | W+R | 6.5 | 3226 | -9 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Moon Minjong | Fukuoka Kotaro | Win | B+R | 6.5 | 3235 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Otake Yu | Moon Minjong | Win | W+R | 6.5 | 3235 | 0 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦  | Moon Minjong | Fukuoka Kotaro | Win | B+R | 6.5 | 3235 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  | Otake Yu | Moon Minjong | Win | W+R | 6.5 | 3235 | -343 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Moon Minjong | Fukuoka Kotaro | Win | B+R | 6.5 | 3578 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Otake Yu | Moon Minjong | Win | W+R | 6.5 | 3578 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦  | Moon Minjong | Fukuoka Kotaro | Win | B+R | 6.5 | 3578 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  | Otake Yu | Moon Minjong | Win | W+R | 6.5 | 3578 | 333 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  | Otake Yu | Moon Minjong | Win | W+R | 6.5 | 3235 | 0 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Moon Minjong | Fukuoka Kotaro | Win | B+R | 6.5 | 3235 | 0 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Otake Yu | Moon Minjong | Win | W+R | 6.5 | 3235 | -10 | 
 | 2021-05-24 | 第9回河燦錫国手杯英才最強戦記念対局 | Moon Minjong | Shin Jinseo | Lose | W+R | 6.5 | 3245 | 7 | 
 | 2021-05-18 | 第9回河燦錫国手杯英才最強戦決勝三番勝負第2局 | Moon Minjong |  | Win | B+R | 6.5 | 3238 | 7 | 
 | 2021-05-17 | 第9回河燦錫国手杯英才最強戦決勝三番勝負第1局 |  | Moon Minjong | Win | W+2.5 | 6.5 | 3231 | -27 | 

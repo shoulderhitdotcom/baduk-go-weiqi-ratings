@@ -84,7 +84,7 @@ end
 
 # make ratings database
 if false# run only once to generate the historical ratings
-    @time pings_hist = mapreduce(vcat, Date(2001, 1, 1):Day(1):Date(2021,6,20)) do date
+    @time pings_hist = mapreduce(vcat, Date(2001, 1, 1):Day(1):Date(2021,7,5)) do date
         if isfile("records/$(string(date)) pings.csv")
             pings_old = CSV.read("records/$(string(date)) pings.csv", DataFrame; select=[:name, :estimate, :std_error])
             pings_old[!, :date] .= date
@@ -123,15 +123,6 @@ JDF.save("pings_for_md.jdf", pings_for_md)
 
 CSV.write("c:/data/tmp.csv", pings_for_md)
 
-using ParallelKMeans: kmeans
-
-m = kmeans(reshape(Float64.(pings_for_md.Rating), 1, :), 10)
-pings_for_md.m = m.assignments
-
-
-@chain pings_for_md begin
-    select(:Name, :Rating, :m)
-end
 
 ## make a GLM solution
 ## Doesn't work

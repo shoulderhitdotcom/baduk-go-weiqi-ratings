@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-06 | 2021陜川歴代英才vs女子頂上連勝対抗戦第4局 | Moon Minjong | Oh Jeonga | Lose | B+R | 6.5 | 2922 | -1 | 
 | 2021-07-01 | 第1回IBK企業銀行杯女子囲碁マスターズ1回戦 | Yun Youngmin | Oh Jeonga | Win | W+R | 6.5 | 2923 | 17 | 
 | 2021-05-26 | 第4回呉清源杯韓国予選 |  | Oh Jeonga | Lose | B+R | 7.5 | 2906 | -9 | 
 | 2021-05-25 | 第4回呉清源杯韓国予選 | Kim Hyeoimin | Oh Jeonga | Win | W+R | 7.5 | 2915 | -12 | 

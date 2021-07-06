@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-06 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第2局 | Shin Jinseo | Park Junghwan | Win | B+R | 6.5 | 3797 | 5 | 
 | 2021-07-05 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第1局 | Park Junghwan | Shin Jinseo | Lose | B+R | 6.5 | 3792 | -16 | 
 | 2021-07-02 | 第44期名人戦（韓国）敗者復活戦4回戦 | Choi Cheolhan | Shin Jinseo | Win | W+R | 6.5 | 3808 | -3 | 
 | 2021-06-23 | 第4期韓国竜星戦3回戦 | Park Minkyu | Shin Jinseo | Win | W+R | 6.5 | 3811 | -7 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-06 | 2021陜川歴代英才vs女子頂上連勝対抗戦第4局 | Moon Minjong | Oh Jeonga | Win | B+R | 6.5 | 3224 | 4 | 
 | 2021-07-05 | 2021陜川歴代英才vs女子頂上連勝対抗戦第3局 | Moon Minjong |  | Win | B+0.5 | 6.5 | 3220 | -6 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20三位決定戦 | Park Sangjin | Moon Minjong | Lose | B+5.5 | 6.5 | 3226 | 0 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20準決勝 | Wang Xinghao | Moon Minjong | Lose | B+R | 6.5 | 3226 | 0 | 

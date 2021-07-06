@@ -1,0 +1,14 @@
+## Moon Minjong vs Oh Jeonga Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Moon Minjong vs Oh Jeonga** | **Moon Minjong streak** | **Oh Jeonga streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-06 | 2021陜川歴代英才vs女子頂上連勝対抗戦第4局 | Moon Minjong | Oh Jeonga | B+R | 6.5 | 1:0 | 1 | 0 |
+
+
+
+

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-07 | 第76期本因坊戦挑戦手合七番勝負第7局  | Shibano Toramaru | Iyama Yuta | Lose | W+R | 6.5 | 3311 | -11 | 
 | 2021-06-30 | 第76期本因坊戦挑戦手合七番勝負第6局  | Iyama Yuta | Shibano Toramaru | Lose | B+R | 6.5 | 3322 | -8 | 
 | 2021-06-22 | 第76期本因坊戦挑戦手合七番勝負第5局  | Shibano Toramaru | Iyama Yuta | Lose | W+R | 6.5 | 3330 | -6 | 
 | 2021-06-17 | 第46期名人戦リーグ | Yu Zhengqi | Shibano Toramaru | Win | W+3.5 | 6.5 | 3336 | 15 | 

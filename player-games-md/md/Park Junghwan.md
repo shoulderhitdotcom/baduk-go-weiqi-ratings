@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-08 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第3局 | Park Junghwan | Shin Jinseo | Lose | W+R | 6.5 | 3662 | 4 | 
 | 2021-07-06 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第2局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3658 | -2 | 
 | 2021-07-05 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第1局 | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3660 | 0 | 
 | 2021-07-02 | 第4期韓国竜星戦3回戦 | Park Sangjin | Park Junghwan | Win | W+R | 6.5 | 3660 | 5 | 

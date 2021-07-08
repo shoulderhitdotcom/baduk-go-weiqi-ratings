@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-08 | 第6回扇興杯女流最強戦1回戦 |  | Nakamura Sumire | Win | W+R | 6.5 | 2637 | 7 | 
 | 2021-07-05 | 第40期女流本因坊戦3回戦 | Koyama Mitsuru | Nakamura Sumire | Lose | B+3.5 | 6.5 | 2630 | -16 | 
 | 2021-07-01 | 第46期棋聖戦Cリーグ | Nakamura Sumire | Shuto Shun | Lose | W+1.5 | 6.5 | 2646 | -16 | 
 | 2021-06-15 | 第8期会津中央病院・女流立葵杯準決勝 | Nyu Eiko | Nakamura Sumire | Lose | B+6.5 | 6.5 | 2662 | -7 | 

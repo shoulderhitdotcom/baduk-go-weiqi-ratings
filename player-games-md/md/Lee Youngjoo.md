@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-07-03 | 第7回韓国女子囲碁リーグ | Lee Minjin | Lee Youngjoo | Win | W+3.5 | 6.5 | 2861 | -10 | 
+| 2021-07-08 | 第7回韓国女子囲碁リーグ | Lee Youngjoo |  | Win | B+7.5 | 6.5 | 2867 | -4 | 
 | 2021-07-03 | 第7回韓国女子囲碁リーグ | Lee Minjin | Lee Youngjoo | Win | W+3.5 | 6.5 | 2871 | 16 | 
 | 2021-06-26 | 第7回韓国女子囲碁リーグ | Lee Youngjoo |  | Win | B+R | 6.5 | 2855 | 30 | 
 | 2021-06-19 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Park Taehee | Lose | W+5.5 | 6.5 | 2825 | -28 | 

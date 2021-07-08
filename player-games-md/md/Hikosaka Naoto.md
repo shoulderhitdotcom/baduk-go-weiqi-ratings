@@ -5,318 +5,319 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第77期本因坊戦予選 | missing | Hikosaka Naoto | W+0.5 | 2021-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8YnSNBdRfoIrP8jMs8wPog%3D%3D) | 
-| 第69期王座戦予選 | Hikosaka Naoto | Takao Shinji | W+R | 2021-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9X01GUDI%2FF5BCepFHtpAQA%3D%3D) | 
-| 第48期天元戦予選 | Kim Hyun Jung | Hikosaka Naoto | W+R | 2021-03-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SHMjRNaVCXmF%2Bq6hbrWX5Q%3D%3D) | 
-| 第77期本因坊戦予選 | Kikkawa Hajime | Hikosaka Naoto | W+R | 2021-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Pv5npa94ec5Kbz%2BgwCkcA%3D%3D) | 
-| 第46期棋聖戦予選 | Hikosaka Naoto | Yamada Shihou | B+R | 2021-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T68yZZqiHui%2BeEM515Zfdg%3D%3D) | 
-| 第46期棋聖戦予選 | Yokota Shigeaki | Hikosaka Naoto | W+4.5 | 2021-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VeJNPuZmsiZtba5JgCNvBg%3D%3D) | 
-| 第60期十段戦予選 | Hikosaka Naoto | Hamanaka Takamitsu | B+R | 2021-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xBcydjEvUl4KjxHNBjgAqg%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Terayama Rei | Hikosaka Naoto | B+1.5 | 2020-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lfa20Fgcjx%2FN9Cu61zsyAA%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Kiyonari Tetsuya | Hikosaka Naoto | W+1.5 | 2020-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jqXCEFZPJZIT4%2FHzGkvttQ%3D%3D) | 
-| 第46期名人戦予選 | Hikosaka Naoto | missing | W+4.5 | 2020-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ocmgEGSQTDBDX4aQt6GqUQ%3D%3D) | 
-| 第68期王座戦2回戦 | Hikosaka Naoto | Cho U | W+R | 2020-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FjCEwIDi2VSP5RwF7SUkfA%3D%3D) | 
-| 第45期棋聖戦Cリーグ | missing | Hikosaka Naoto | B+R | 2020-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6QTBzKFDAAA%2F9rZjOGrwpg%3D%3D) | 
-| 第68期王座戦1回戦 | Koike Yoshihiro | Hikosaka Naoto | W+1.5 | 2020-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YvFCdxCmAV6wSwnQuVHVJw%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Kobayashi Koichi | Hikosaka Naoto | W+5.5 | 2020-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zKcl%2FH9LgnTv4l%2BIsGzpuQ%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Hikosaka Naoto | Chang Rueijie | W+1.5 | 2020-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4QcOAzfBHCtRzWn%2FC0kXOQ%3D%3D) | 
-| 第68期王座戦予選 | Oomote Takuto | Hikosaka Naoto | W+R | 2020-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dT5WCd3LmRDsIKRx3ytaJw%3D%3D) | 
-| 第76期本因坊戦予選 | missing | Hikosaka Naoto | B+R | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yz09uqgd3sWuQ78yTESSqQ%3D%3D) | 
-| 第76期本因坊戦予選 | Hikosaka Naoto | Kitano Ryo | B+R | 2020-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0ZhjZJmMX3ZcnE55%2FSW1Vg%3D%3D) | 
-| 第68期王座戦予選 | Tsuruyama Atsushi | Hikosaka Naoto | W+2.5 | 2020-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v8CAyO1edJzoC2gcBdehXA%3D%3D) | 
-| 第45期棋聖戦ファーストトーナメント予選 | Hikosaka Naoto | Hasegawa Sunao | B+R | 2020-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4R4JhT1qBAt94SEZQUoNdA%3D%3D) | 
-| 第45期棋聖戦ファーストトーナメント予選 | Shimojima Yohei | Hikosaka Naoto | W+R | 2019-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7UPGiTNFX7%2B3alZ5p3m35g%3D%3D) | 
-| 第45期棋聖戦ファーストトーナメント予選 | Hikosaka Naoto | Hotta Yozo | B+R | 2019-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7ZaKnULhWNXYmLX9M1L5ZQ%3D%3D) | 
-| 第61期王冠戦予選 | Hikosaka Naoto | Yamamori Tadanao | B+2.5 | 2019-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J3tdU8vEGbshJGkuc68knQ%3D%3D) | 
-| 第46期天元戦予選 | Hikosaka Naoto | Yamamori Tadanao | W+R | 2019-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F0Kap5pnb7ZL%2FBvUGTV%2BrQ%3D%3D) | 
-| 第67期王座戦1回戦 | Hikosaka Naoto | Motoki Katsuya | W+R | 2019-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dn4O97WH0falT1vGxLsuWg%3D%3D) | 
-| 第45期碁聖戦予選 | Hikosaka Naoto | Shimojima Yohei | W+1.5 | 2019-05-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jaFMO2o7b0PQH%2BH85tWGYA%3D%3D) | 
-| 第9回フマキラー囲碁マスターズカップ1回戦 | Yamashiro Hiroshi | Hikosaka Naoto | B+R | 2019-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ogeYvmZ05f1KIp%2BiFPeAsA%3D%3D) | 
-| 第45期碁聖戦予選 | Hikosaka Naoto | Miyagawa Fumihiko | B+R | 2019-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d8TEPkGm8I%2B7erXPKvhYLg%3D%3D) | 
-| 第75期本因坊戦予選 | Muramatsu Hiroki | Hikosaka Naoto | B+R | 2019-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BhczyEu0ybm54%2FEt31ScMA%3D%3D) | 
-| 第67期王座戦最終予選決勝 | Takei Takashi | Hikosaka Naoto | W+R | 2019-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rCQstwxzCKnHYuOCApc7LA%3D%3D) | 
-| 第75期本因坊戦予選 | Ohashi Naruya | Hikosaka Naoto | W+R | 2019-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nxOsAX8%2BjZ%2FIji7qPDOyDw%3D%3D) | 
-| 第75期本因坊戦予選 | Hikosaka Naoto | Kawada Kohei | B+R | 2019-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BTpfacA6lWIQFCa5%2FFVRrg%3D%3D) | 
-| 第45期碁聖戦予選 | Kato Yuuki | Hikosaka Naoto | W+R | 2019-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=48qbLiLTyT5%2FW6WZELxvXQ%3D%3D) | 
-| 第45期天元戦1回戦 | Hikosaka Naoto | Sakai Hideyuki | W+R | 2019-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=44v9ZCAw28r2kjivdsuGUw%3D%3D) | 
-| 第45期碁聖戦予選 | Hikosaka Naoto | Kim Hyun Jung | B+R | 2019-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I4KIqRo7ga2QKw8tRuizdw%3D%3D) | 
-| 第44期棋聖戦ファーストトーナメント予選 | Hikosaka Naoto | Tajima Shingo | W+R | 2019-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bwk08rLKf%2Bf%2FZhV5pp2WLg%3D%3D) | 
-| 第75期本因坊戦予選 | Hikosaka Naoto | Osawa Kenro | B+R | 2018-12-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rf%2FGmMOpAYu16fZUM3mrqw%3D%3D) | 
-| 第44期棋聖戦予選 | Tsukuda Akiko | Hikosaka Naoto | W+R | 2018-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=41yXq8eYaMt16AlnspTibQ%3D%3D) | 
-| 第45期天元戦予選 | Hikosaka Naoto | Yamada Kimio | B+R | 2018-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ps3uDvg9G6la%2BFoigqu2BA%3D%3D) | 
-| 第60期王冠戦予選 | Nyu Eiko | Hikosaka Naoto | W+1.5 | 2018-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KKoBEwHbSJXFYp60lP%2Bd0w%3D%3D) | 
-| 第45期天元戦予選 | Ishida Atsushi | Hikosaka Naoto | W+R | 2018-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5rE6JK90K7sj58e1VX8jdQ%3D%3D) | 
-| 第44期名人戦予選 | Hikosaka Naoto | Ida Atsushi | W+R | 2018-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lv4XIpI0UdE4vwOi3PS%2BXA%3D%3D) | 
-| 第66期王座戦2回戦 | Hikosaka Naoto | Murakawa Daisuke | W+R | 2018-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BFiVdN6eAHk50QLB0SWElQ%3D%3D) | 
-| 第44期天元戦3回戦 | Hikosaka Naoto | Kono Rin | W+4.5 | 2018-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m3q9r7nR1R3OUEpuGPvNDw%3D%3D) | 
-| 第66期王座戦1回戦 | Shibano Toramaru | Hikosaka Naoto | W+2.5 | 2018-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UufbSHD5I7u%2B4qUYDTJDww%3D%3D) | 
-| 第8回フマキラー囲碁マスターズカップ2回戦  | Hikosaka Naoto | Kataoka Satoshi | W+R | 2018-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fy6yfYJ%2Fenkl1ZZ%2B2PmFxw%3D%3D) | 
-| 第74期本因坊戦予選 | Hikosaka Naoto | Nakano Hironari | W+1.5 | 2018-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kBQul2x91ypV2Z5Ukfb%2FZw%3D%3D) | 
-| 第8回フマキラー囲碁マスターズカップ1回戦 | Hikosaka Naoto | Komatsu Hideki | B+R | 2018-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BpC5gLo1vcjC2dvtbJcpBQ%3D%3D) | 
-| 第43期棋聖戦ファーストトーナメント予選 | Sonoda Yuichi | Hikosaka Naoto | B+R | 2018-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SDBJHvg868nUVBZVWU74mg%3D%3D) | 
-| 第44期碁聖戦予選 | missing | Hikosaka Naoto | B+2.5 | 2018-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dRKSvPbpbXY%2F21carNsarQ%3D%3D) | 
-| 第66期王座戦予選 | Hikosaka Naoto | Rin Kanketsu | B+R | 2018-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rN1TddPeeHVBgESM3FWF9Q%3D%3D) | 
-| 第44期天元戦2回戦 | Takao Shinji | Hikosaka Naoto | W+R | 2018-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kg%2F5eIiTtBEAyHc%2F0jGjpw%3D%3D) | 
-| 第66期王座戦最終予選 | Seto Taiki | Hikosaka Naoto | W+R | 2018-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y%2BDHME4xtV5wQMp2XQuaHA%3D%3D) | 
-| 第43期棋聖戦ファーストトーナメント予選 | Hikosaka Naoto | Oda Hiromitsu | B+R | 2018-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OiGr06AqYJoVj1Hgd%2Bx2Rg%3D%3D) | 
-| 第57期十段戦予選 | Ohashi Naruya | Hikosaka Naoto | B+R | 2018-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dvDEwEBntEfLCiyL32IBLQ%3D%3D) | 
-| 第43期棋聖戦ファーストトーナメント予選 | Hikosaka Naoto | Nakane Naoyuki | B+R | 2018-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bsWiZ2o8eC2oE7C%2FXvjySw%3D%3D) | 
-| 第44期天元戦1回戦 | Suzuki Ayumi | Hikosaka Naoto | W+R | 2017-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oYe0pbkRx0n2H%2F%2Br0DpFfw%3D%3D) | 
-| 第66期王座戦予選 | Hikosaka Naoto | Imamura Yoshiaki | B+R | 2017-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jlN03syQMHwgiyZH9kYZiA%3D%3D) | 
-| 第43期棋聖戦ファーストトーナメント予選 | Nishiyama Shizuka | Hikosaka Naoto | W+R | 2017-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FDoFemazUnTJAyfkgQnSlg%3D%3D) | 
-| 第59期王冠戦予選 | Nakane Naoyuki | Hikosaka Naoto | W+R | 2017-10-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mUKI58qMixze%2F01%2BHgClkQ%3D%3D) | 
-| 第43期天元戦予選 | Ishii Kunio | Hikosaka Naoto | W+R | 2017-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RXpm6CkE6PJ6K1xXA3pHGA%3D%3D) | 
-| 第44期天元戦予選 | Hikosaka Naoto | Takei Takashi | B+R | 2017-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kGYcciU60FZrcedK5IOGpg%3D%3D) | 
-| 第43期名人戦　最終予選1回戦 | Hikosaka Naoto | Shibano Toramaru | W+R | 2017-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4en7CE2r9cNpvPQ03hQqKg%3D%3D) | 
-| 第43期名人戦　予選A決勝 | Muramatsu Hiroki | Hikosaka Naoto | W+R | 2017-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JokDY0gGU5pnLepUbxFz1w%3D%3D) | 
-| 第44期天元戦　予選B決勝 | Hikosaka Naoto | Takabayashi Masahiro | B+8.5 | 2017-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Crhu0LytgqbXzBS623Ikjg%3D%3D) | 
-| 第43期名人戦　予選A | Kuwamoto Shinpei | Hikosaka Naoto | W+R | 2017-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pct7FSJ9NVg7lmMd3F%2BEHA%3D%3D) | 
-| 第56期十段戦　最終予選決勝 | Hikosaka Naoto | Kim Sujun | W+R | 2017-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dWMICcdlpljDVJWB%2BiEBqw%3D%3D) | 
-| 第73期本因坊戦　最終予選第2局 | Hikosaka Naoto | Terayama Rei | W+R | 2017-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UI4lbWnrHMtJ0UaCdbfxeQ%3D%3D) | 
-| 第43期碁聖戦　予選B決勝 | Hikosaka Naoto | Nakamura Shinya | W+1.5 | 2017-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pDKfZooddEnEtFqwt8XKnA%3D%3D) | 
-| 第7回マスターズカップ　本戦1回戦 | Yoda Norimoto | Hikosaka Naoto | B+0.5 | 2017-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pKs6P9l6k6xtz7tX2L6vbg%3D%3D) | 
-| 第65期王座戦　最終予選 | Ichiriki Ryo | Hikosaka Naoto | B+1.5 | 2017-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PRsxwEf9QlLvL0QNA2xYnQ%3D%3D) | 
-| 第73期本因坊戦　予選A決勝 | Mutsuura Yuta | Hikosaka Naoto | W+0.5 | 2017-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WoaZ1xc6e8sXrqOvpL0Rjw%3D%3D) | 
-| 第73期本因坊戦　予選A | Hikosaka Naoto | Oda Teppei | B+12.5 | 2017-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VCd8EjxbNTwIO%2BbDqFm44w%3D%3D) | 
-| 第42期棋聖戦　ファーストトーナメント2回戦 | Otani Naoki | Hikosaka Naoto | B+R | 2016-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uxn8kfKeMvm3%2Fp0%2FkQnQhA%3D%3D) | 
-| 第58期王冠戦　予選A決勝 | Hikosaka Naoto | Nyu Eiko | B+R | 2016-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mSBarJ8FliZlD9EujY5GIQ%3D%3D) | 
-| 第55期十段戦　本戦2回戦 | Hikosaka Naoto | Yamashita Keigo | W+R | 2016-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ldrMngM4oj2lfpBQ8kCuzQ%3D%3D) | 
-| 第65期王座戦予選 | Ogata Masaki | Hikosaka Naoto | W+R | 2016-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mjHjmEKs0rk3Pa%2Frf1kQ6w%3D%3D) | 
-| 第55期十段戦1R | Hikosaka Naoto | O Meien | B+R | 2016-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IdaOyP7oWV3pW1cO5VtoBA%3D%3D) | 
-| 第42期名人戦最終予選 | Hikosaka Naoto | Kiyonari Tetsuya | W+R | 2016-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SGZuFR%2FOpPbXrhd%2B5PT4gA%3D%3D) | 
-| 第65期王座戦予選 | Hikosaka Naoto | Shimojima Yohei | B+R | 2016-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zoPuQFZC%2FPxstg9ixOyZOw%3D%3D) | 
-| 第42期名人戦予選 | Hikosaka Naoto | Iwamaru Taira | B+R | 2016-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5dUfkZBjPFRdJTXWql3B4w%3D%3D) | 
-| 第55期十段戦予選 | Morita Michihiro | Hikosaka Naoto | W+R | 2016-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3XvlfU7A%2BtQTp1v6Yb%2BwWw%3D%3D) | 
-| 第42期碁聖戦予選 | Kato Yuuki | Hikosaka Naoto | B+4.5 | 2016-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Ipr%2FSky%2FzMuFyKFhknQ%2Fg%3D%3D) | 
-| 第42期名人戦予選 | Ohashi Naruya | Hikosaka Naoto | W+2.5 | 2016-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P23UDMCVKOJypFO6Xjnv8A%3D%3D) | 
-| 第65期王座戦予選 | Hikosaka Naoto | Sasaki Tsuyoshi | B+R | 2016-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hcIfUwWHOIbvuc5iV040Kg%3D%3D) | 
-| 第72期本因坊戦予選 | Hikosaka Naoto | O Meien | W+5.5 | 2016-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iVM0kw7f4v0s8ZhGme33JQ%3D%3D) | 
-| 第65期王座戦予選 | Hikosaka Naoto | Komatsu Daiki | B+R | 2016-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vMAbTkxR0rHHjTzrLhReew%3D%3D) | 
-| 第65期王座戦予選 | Takahashi Masumi | Hikosaka Naoto | W+R | 2016-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EmHiXCgRFRZ9kou5dMp6Pw%3D%3D) | 
-| 第72期本因坊戦予選 | Hikosaka Naoto | Muramatsu Hiroki | B+R | 2016-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FoeLHYvxotcK9vF%2Bvpq9wA%3D%3D) | 
-| 第65期王座戦予選 | Nakao Jungo | Hikosaka Naoto | W+4.5 | 2016-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9cynac%2BJDfQsCE84kGIgFA%3D%3D) | 
-| 第6回フマキラー囲碁マスターズカップ1回戦 | Hikosaka Naoto | Kobayashi Satoru | W+2.5 | 2016-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0ZSxmSHTw%2BzLlADAQRp3fw%3D%3D) | 
-| 第55期十段戦予選 | Hikosaka Naoto | Muramatsu Hiroki | B+R | 2016-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JALGnhbySm5gRpE7RN96LA%3D%3D) | 
-| 第41期棋聖戦予選 | Tsuruta Kazushi | Hikosaka Naoto | B+R | 2016-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cul%2FdhNrxP7zeVBWsQ9Idw%3D%3D) | 
-| 第72期本因坊戦予選 | Hikosaka Naoto | Imamura Yoshiaki | B+2.5 | 2016-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FaNDxZHBADM95Q5t0TjkFw%3D%3D) | 
-| 第41期棋聖戦予選 | Watanabe Yuu | Hikosaka Naoto | W+R | 2016-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CRd5LV2jIAHBi4IZnrfY8w%3D%3D) | 
-| 第55期十段戦予選 | Mutsuura Yuta | Hikosaka Naoto | W+R | 2016-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BCPPNIiU0OKcDVyVsvlugQ%3D%3D) | 
-| 第41期棋聖戦予選 | Morino Setsuo | Hikosaka Naoto | W+3.5 | 2016-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OQqXnHMT7jsTNswsDOM54A%3D%3D) | 
-| 第41期碁聖戦本戦1回戦 | Hikosaka Naoto | Goto Shungo | W+R | 2015-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oRpFpiXt8ZrCV1ZrcjFrZg%3D%3D) | 
-| 第41期棋聖戦予選 | Otani Naoki | Hikosaka Naoto | W+R | 2015-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u%2Fx4QRKjhzabvlQLBHa1NA%3D%3D) | 
-| 第42期天元戦予選 | Hikosaka Naoto | Iwamaru Taira | W+R | 2015-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=48KhgfOaYG9nLwnJ%2F2QAyw%3D%3D) | 
-| 第57期王冠戦予選 | Takahashi Masumi | Hikosaka Naoto | W+R | 2015-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=10UjJ78Piq%2Bk%2Fn2OAPlI8Q%3D%3D) | 
-| 第64期王座戦予選 | Hikosaka Naoto | Yanagisawa Satoshi | W+R | 2015-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dkoT0IOFWDrB%2BGUYFUu%2FKA%3D%3D) | 
-| 第42期天元戦予選 | Takei Takashi | Hikosaka Naoto | W+0.5 | 2015-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=REOvhKDkdtDRP94wbFjKGg%3D%3D) | 
-| 第41期名人戦予選 | Hikosaka Naoto | Hane Naoki | W+R | 2015-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q9eWSz%2BuLp40jxM1Eu%2FuoQ%3D%3D) | 
-| 第40期棋聖戦Cリーグ | Hikosaka Naoto | Ito Masashi | W+0.5 | 2015-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gc%2BuBNE5LOE6b07Gzu6tpw%3D%3D) | 
-| 第41期名人戦予選 | Hikosaka Naoto | Iwamaru Taira | B+R | 2015-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s42kNHd0zkFAdvgcH1g0QQ%3D%3D) | 
-| 第40期棋聖戦Cリーグ | Hikosaka Naoto | O Rissei | W+2.5 | 2015-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r2RUlc9PEa9G5cWkc3FZEQ%3D%3D) | 
-| 第71期本因坊戦予選 | Yu Zhengqi | Hikosaka Naoto | B+R | 2015-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j5NQGMY6LGoRH0MYc0b0NA%3D%3D) | 
-| 第41期碁聖戦予選 | Yanagisawa Satoshi | Hikosaka Naoto | W+R | 2015-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J4iJl981teY19X1HCoMVcw%3D%3D) | 
-| 第71期本因坊戦予選 | Tsuruyama Atsushi | Hikosaka Naoto | W+2.5 | 2015-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kzAqACS30prh84oy2Q0P%2FA%3D%3D) | 
-| 第41期名人戦予選 | Hikosaka Naoto | Yamamori Tadanao | B+R | 2015-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xrLDT5JirrKn1cURA4H%2FfA%3D%3D) | 
-| 第71期本因坊戦予選 | Tajima Shingo | Hikosaka Naoto | W+R | 2015-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SLG3n5el9GzX7iOdoVzAmQ%3D%3D) | 
-| 第40期棋聖戦Cリーグ | Nakano Yasuhiro | Hikosaka Naoto | W+2.5 | 2015-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fR20e8m7ePG7mXrNB0KTPQ%3D%3D) | 
-| 第40期棋聖戦Cリーグ | Hikosaka Naoto | Fujita Akihiko | B+3.5 | 2015-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F5nR7uO3t2NfEk%2Fc2LXtoA%3D%3D) | 
-| 第22期阿含・桐山杯全日本早碁オープン戦予選 | Sun Zhe | Hikosaka Naoto | B+R | 2015-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ExigrfU22y4u3amgt1RS9Q%3D%3D) | 
-| 第71期本因坊戦予選 | Shida Tatsuya | Hikosaka Naoto | W+R | 2015-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jvqKwnJz%2FxRvOcnfVZTtCA%3D%3D) | 
-| 第40期棋聖戦Cリーグ | Hikosaka Naoto | Suzuki Ayumi | W+3.5 | 2015-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1lv%2BwawBuz4pw5H0ZwLfAQ%3D%3D) | 
-| 第5回フマキラー囲碁マスターズカップ2回戦 | Cho Chikun | Hikosaka Naoto | B+R | 2015-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8tWxI28Qh1V0Xh4UQJ%2FHbg%3D%3D) | 
-| 第71期本因坊戦予選 | Hikosaka Naoto | Yamamori Tadanao | B+5.5 | 2015-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LGvyvTHKBqXveVPPIIepKQ%3D%3D) | 
-| 第54期十段戦予選 | Goto Shungo | Hikosaka Naoto | B+R | 2015-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J2nvA3igzvbUr5GIqwQNOQ%3D%3D) | 
-| 第5回フマキラー囲碁マスターズカップ1回戦 | Hikosaka Naoto | Kobayashi Koichi | B+1.5 | 2015-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XtgQD1Vx576S%2BN4B5Php%2Bw%3D%3D) | 
-| 第40期棋聖戦予選 | Takashima Yugo | Hikosaka Naoto | W+R | 2015-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=viHqgD9BPFIZEQU7cWtAYw%3D%3D) | 
-| 第54期十段戦予選 | Hikosaka Naoto | Yanagisawa Satoshi | B+R | 2015-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WMmGMYsP%2FbsSXulZ0yTllQ%3D%3D) | 
-| 第40期棋聖戦予選 | Hikosaka Naoto | Chin Kaei | B+R | 2015-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F1RnVtk644q%2F23iV66vS6Q%3D%3D) | 
-| 第63期王座戦予選 | Hikosaka Naoto | Shida Tatsuya | W+R | 2015-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4AtFe%2B6S4SYVIcrNTJH7Kg%3D%3D) | 
-| 第40期棋聖戦予選 | Hikosaka Naoto | Fujiwara Katsuya | B+R | 2015-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zCDL%2FUEdXD799Jq7zh9jaA%3D%3D) | 
-| 第54期十段戦予選 | Baba Shigeru | Hikosaka Naoto | W+R | 2014-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gx%2FAt7rlkiCfP%2BJULrR3BA%3D%3D) | 
-| 第41期天元戦予選 | Hikosaka Naoto | Nakamura Shinya | W+R | 2014-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YgPQBhndjSXMmKfDxdOJmA%3D%3D) | 
-| 第40期名人戦予選 | Hikosaka Naoto | O Meien | W+R | 2014-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L9vNrifBDl6MQ%2F4%2B84lViQ%3D%3D) | 
-| 第41期天元戦予選 | Hikosaka Naoto | Iwamaru Taira | B+R | 2014-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V2wfrNfSaSbt4EB7Ofjo2A%3D%3D) | 
-| 第40期碁聖戦予選 | Hikosaka Naoto | Shida Tatsuya | W+1.5 | 2014-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tWgm5qdszU5dJ5HP4f32FQ%3D%3D) | 
-| 第40期名人戦予選 | Iwamaru Taira | Hikosaka Naoto | W+R | 2014-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VbvzQqNUWmJtsPeo62SwVQ%3D%3D) | 
-| 第40期名人戦予選 | Hikosaka Naoto | Miyagawa Fumihiko | B+2.5 | 2014-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l4gKTQN7PZaGK8lXRbK%2FNQ%3D%3D) | 
-| 第70期本因坊戦予選 | Hikosaka Naoto | Nakano Hironari | W+R | 2014-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dUPvkf4cX19N2k5jNUBs7w%3D%3D) | 
-| 第53期十段戦予選 | Hikosaka Naoto | Muramatsu Hiroki | W+R | 2014-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FSUIZFNzv5fxslHYX9G3kw%3D%3D) | 
-| 第4回フマキラー囲碁マスターズカップ2回戦 | Hikosaka Naoto | Ishii Kunio | W+1.5 | 2014-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GnWCgEs%2FIbsXThpqZq3avg%3D%3D) | 
-| 第70期本因坊戦予選 | Komatsu Daiki | Hikosaka Naoto | W+R | 2014-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IGvdeVuxIbKVQ5Oc3PxhOA%3D%3D) | 
-| 第4回フマキラー囲碁マスターズカップ1回戦 | Awaji Shuzo | Hikosaka Naoto | W+4.5 | 2014-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AtUmy8Zq%2BJynlQAXq6ocYA%3D%3D) | 
-| 第53期十段戦予選 | Ito Yoji | Hikosaka Naoto | W+R | 2014-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VCsR1nTZKqZpZ%2FBz%2F7HvjA%3D%3D) | 
-| 第62期王座戦予選 | Hikosaka Naoto | Rin Shien | W+0.5 | 2014-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CrpYAbb00%2BHGtkWg4NZCdg%3D%3D) | 
-| 第40期天元戦本戦1回戦 | Hikosaka Naoto | Sakai Hideyuki | W+R | 2014-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pG3yNYIGbCg9vlxPiaw9aw%3D%3D) | 
-| 第39期碁聖戦本戦2回戦 | Yamashiro Hiroshi | Hikosaka Naoto | B+2.5 | 2014-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X%2F6UvORIxOaBsYEywvJfgA%3D%3D) | 
-| 第62期王座戦予選 | Hikosaka Naoto | Ishida Atsushi | B+3.5 | 2014-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K2m1htNZMu0aisTYyBoaPA%3D%3D) | 
-| 第40期天元戦予選 | Hikosaka Naoto | Hiroe Hiroyuki | B+R | 2014-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7mW7blf%2FsgDZLVj0M%2BwiJA%3D%3D) | 
-| 第39期碁聖戦本戦1回戦 | Hikosaka Naoto | Fujita Akihiko | B+R | 2014-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j2ERzNpvvuBWzqRdKAomOw%3D%3D) | 
-| 第62期王座戦予選 | Hikosaka Naoto | Shimojima Yohei | B+R | 2013-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=14QAsgUVOEqRusF0iXmFCA%3D%3D) | 
-| 第40期天元戦予選 | Kawada Kohei | Hikosaka Naoto | W+R | 2013-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GyY0lKPgFLDULOgauibSmw%3D%3D) | 
-| 第55期王冠戦予選 | Ogata Masaki | Hikosaka Naoto | W+R | 2013-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4x3WJi7EjZJZra5sBI8ZSA%3D%3D) | 
-| 第39期棋聖戦予選 | Enda Hideki | Hikosaka Naoto | B+1.5 | 2013-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dxynnYdRmloqwphYxANKOA%3D%3D) | 
-| 第39期碁聖戦予選 | Hikosaka Naoto | Imamura Yoshiaki | B+4.5 | 2013-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nZA%2BXlxWWDKff4ttaoRC2A%3D%3D) | 
-| 第62期王座戦予選 | Hikosaka Naoto | Yanaka Katsunori | B+4.5 | 2013-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=plpe7KQen%2FRYgXoMEyKt3Q%3D%3D) | 
-| 第39期碁聖戦予選 | Yamamoto Kentaro | Hikosaka Naoto | W+R | 2013-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kYg8UsjgW%2BieKWv%2BIfO0gg%3D%3D) | 
-| 第39期名人戦予選 | Hikosaka Naoto | Hirata Tomoya | W+R | 2013-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KD4ytO6%2FFN3ft2%2B1N2%2FYBw%3D%3D) | 
-| 第39期名人戦予選 | Yanaka Katsunori | Hikosaka Naoto | W+R | 2013-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A8%2F5LBrJZdX3Xed3p6PWmQ%3D%3D) | 
-| 第39期名人戦予選 | Ishii Kunio | Hikosaka Naoto | W+R | 2013-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hdeU%2BWwhQMjSZFwAKmpCqg%3D%3D) | 
-| 第3回エステー＆フマキラー囲碁マスターズカップ2回戦 | Hikosaka Naoto | Kobayashi Satoru | W+R | 2013-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xRZk6LuMFM4L4MMTZtbCeA%3D%3D) | 
-| 第52期十段戦予選 | Hikosaka Naoto | Ida Atsushi | W+0.5 | 2013-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C4w6Z4Fs%2FPQ2oKv0HQyMJQ%3D%3D) | 
-| 第69期本因坊戦予選 | Hikosaka Naoto | Takei Takashi | W+R | 2013-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DpraXoc4qJVSe%2BLCSAnAEA%3D%3D) | 
-| 第69期本因坊戦予選 | Nakano Hironari | Hikosaka Naoto | W+11.5 | 2013-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HTlWvn1noCTbF5Jb%2FecYLA%3D%3D) | 
-| 第3回エステー＆フマキラー囲碁マスターズカップ1回戦 | Hane Yasumasa | Hikosaka Naoto | W+R | 2013-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vsRdZCAlj27E%2FVMgz67Lhg%3D%3D) | 
-| 第38期棋聖戦予選 | Hikosaka Naoto | Yamada Kimio | W+0.5 | 2013-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZuEGJewsaOZrsg9juDuduw%3D%3D) | 
-| 第69期本因坊戦予選 | Hikosaka Naoto | Tanemura Sayuri | B+R | 2013-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J14RcCs12cEQuQpfSuz21w%3D%3D) | 
-| 第38期棋聖戦予選 | Ryu Shikun | Hikosaka Naoto | W+3.5 | 2013-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8rq4EjM%2BGBi5p0G%2F4heq7A%3D%3D) | 
-| 第38期碁聖戦本戦1回戦 | Hikosaka Naoto | Sakai Hideyuki | W+5.5 | 2013-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gQmWkuB3ztmXSq9fcCpmVw%3D%3D) | 
-| 第61期王座戦予選 | Ohashi Naruya | Hikosaka Naoto | B+R | 2013-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cAk6Vissvyq6BqGQgjCq4w%3D%3D) | 
-| 第38期棋聖戦予選 | Kurahashi Masayuki | Hikosaka Naoto | W+1.5 | 2012-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c%2ByeUYrsGxJUC3cCwmJbcQ%3D%3D) | 
-| 第39期天元戦予選 | Hikosaka Naoto | Ida Atsushi | W+3.5 | 2012-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Zs%2B653i%2FeGAweqS0tTToQ%3D%3D) | 
-| 第38期棋聖戦予選 | Hikosaka Naoto | Tajima Shingo | B+R | 2012-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r0mpOD5Xn%2B%2FT1BppDKPCcw%3D%3D) | 
-| 第39期天元戦予選 | Hikosaka Naoto | Ohashi Naruya | B+R | 2012-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=18ghjQ6dS4JjkN5m6vXtGA%3D%3D) | 
-| 第54期王冠戦予選 | Hikosaka Naoto | Katayama Yasuo | B+R | 2012-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h5A55zh0pnLywyHDod2cnQ%3D%3D) | 
-| 第38期名人戦予選 | Hikosaka Naoto | Ogata Masaki | W+R | 2012-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iaPpAUqZ3P%2FTDpHLVSrlvw%3D%3D) | 
-| 第51期十段戦予選 | Hikosaka Naoto | Sakai Hideyuki | W+R | 2012-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PLkFnXfOdurRZrkwEAgbLg%3D%3D) | 
-| 第38期名人戦予選 | Yamamoto Kentaro | Hikosaka Naoto | W+7.5 | 2012-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t2WWZ1UcjzGZHPcQ21uClg%3D%3D) | 
-| 第51期十段戦予選 | Hikosaka Naoto | Matsuoka Hideki | B+4.5 | 2012-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7m4kY%2ByykqL%2FP0UP9KV8Rw%3D%3D) | 
-| 第37期碁聖戦本戦準決勝 | Yamashita Keigo | Hikosaka Naoto | B+R | 2012-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YIOkKhrru5mk8S%2BRQ7TaGQ%3D%3D) | 
-| 第38期天元戦本戦1回戦 | O Meien | Hikosaka Naoto | B+R | 2012-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gLKqtQ2Gu%2FfWvp%2B3QISF%2Fw%3D%3D) | 
-| 第51期十段戦予選 | Hikosaka Naoto | Hane Yasumasa | B+R | 2012-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=luSO59%2BaQXwRhlQIE0f5%2Fg%3D%3D) | 
-| 第68期本因坊戦予選 | Hikosaka Naoto | Imamura Yoshiaki | W+R | 2012-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ch4XKg%2BKAoOx5PPUZfK1yA%3D%3D) | 
-| 第37期碁聖戦本戦3回戦 | O Rissei | Hikosaka Naoto | W+4.5 | 2012-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dBFjiGyF2NEHjtzXj0k9zw%3D%3D) | 
-| 第37期碁聖戦本戦2回戦 | Hikosaka Naoto | Nakano Hironari | B+R | 2011-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rGX5VpwV8ivOq1oy%2B9Crjg%3D%3D) | 
-| 第37期棋聖戦予選 | Yamada Kimio | Hikosaka Naoto | W+2.5 | 2011-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2XSvCp1J5FdErKMP1yoGBg%3D%3D) | 
-| 第7回大和証券杯ネット囲碁オープン2回戦 | Hikosaka Naoto | Cho U | W+6.5 | 2011-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BNFuhUzhoPmEJjcOS8N12A%3D%3D) | 
-| 第37期碁聖戦本戦1回戦 | Morita Michihiro | Hikosaka Naoto | W+R | 2011-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2r3Rnh%2BpxfIkMHLO93uNdQ%3D%3D) | 
-| 第53期王冠戦予選 | Shida Tatsuya | Hikosaka Naoto | B+R | 2011-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ciuA1DNklK7OCSGzIoIZ%2Fg%3D%3D) | 
-| 第38期天元戦予選 | Hikosaka Naoto | Matsuoka Hideki | B+R | 2011-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IpKq6qcnMdVDMze0Cw5SLg%3D%3D) | 
-| 第37期碁聖戦予選 | Goto Shungo | Hikosaka Naoto | W+R | 2011-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EHwxtiBFL2ZIP4yQ7rUfGQ%3D%3D) | 
-| 第7回大和証券杯ネット囲碁オープン1回戦 | Hikosaka Naoto | O Rissei | B+0.5 | 2011-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Phih1DIQaPCIHEZ2UStAjQ%3D%3D) | 
-| 第60期王座戦予選 | Shida Tatsuya | Hikosaka Naoto | W+R | 2011-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BtnWBEY9UP5ckuvCkD7Zxw%3D%3D) | 
-| 第37期名人戦予選 | Ko Reibun | Hikosaka Naoto | B+R | 2011-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w1AXDF2506X%2FwOgQtoe60g%3D%3D) | 
-| 第37期碁聖戦予選 | Hikosaka Naoto | Ida Atsushi | B+R | 2011-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0wNzs4uDPtpPbkPRMJKuJg%3D%3D) | 
-| 第38期天元戦予選 | Hikosaka Naoto | Iwamaru Taira | B+R | 2011-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FvF8Tcf8l7LS5%2FKnFHWAUg%3D%3D) | 
-| 第37期名人戦予選 | Hikosaka Naoto | Matsuoka Hideki | B+2.5 | 2011-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TmozrgejcnpUnTWswibjhA%3D%3D) | 
-| 第53期王冠戦予選 | Hikosaka Naoto | Nakao Jungo | B+7.5 | 2011-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zac%2BzscDN%2BHavIdSDKoW2g%3D%3D) | 
-| 第60期王座戦予選 | Ishii Kunio | Hikosaka Naoto | W+R | 2011-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cZVYvi7MkI529dbX0WgfIw%3D%3D) | 
-| 第37期名人戦予選 | Ishii Kunio | Hikosaka Naoto | W+5.5 | 2011-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X1QwXSEjn6qaPyXEFjdg3Q%3D%3D) | 
-| 第67期本因坊戦予選 | Hikosaka Naoto | Yoda Norimoto | W+0.5 | 2011-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mbG8U%2BGGwDT9BKpvyqJf%2Fw%3D%3D) | 
-| 第37期名人戦予選 | Hikosaka Naoto | Kitano Ryo | B+R | 2011-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3hTQ%2BcnFyTXznfJEJJ06Pg%3D%3D) | 
-| 第67期本因坊戦予選 | Hikosaka Naoto | So Yokoku | B+R | 2011-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FFHJH4YY34RpvCkCDO83%2Fw%3D%3D) | 
-| 第67期本因坊戦予選 | Matsuoka Hideki | Hikosaka Naoto | W+R | 2011-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1%2BPTu38TThUBM7G42KYHkQ%3D%3D) | 
-| 第37期天元戦本戦1回戦 | Hikosaka Naoto | Komatsu Hideki | W+R | 2011-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ae0uSebmTlyoSxFrhKHUQg%3D%3D) | 
-| 第50期十段戦予選 | Nakano Hironari | Hikosaka Naoto | B+R | 2011-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vO7L2xslywsbfh3VE4meJg%3D%3D) | 
-| 第67期本因坊戦予選 | Goto Shungo | Hikosaka Naoto | W+1.5 | 2011-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=naA6TveRn56N0i8XeEdaTg%3D%3D) | 
-| 第50期十段戦予選 | Kato Yuuki | Hikosaka Naoto | W+R | 2011-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=te2yp1CvhILRdf9INu%2FyQQ%3D%3D) | 
-| 第59期王座戦予選 | Hikosaka Naoto | Sasaka Shiro | W+0.5 | 2010-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uFlC3IcBcPmXEe0ZMDq4aw%3D%3D) | 
-| 第36期棋聖戦予選 | Iguchi Hideichiro | Hikosaka Naoto | B+R | 2010-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mfoG3IKkaGGm8hcOaqd5wA%3D%3D) | 
-| 第67期本因坊戦予選 | Hikosaka Naoto | Ueki Yoshio | B+6.5 | 2010-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xGxXMZOXxpSS6aomC4iw3w%3D%3D) | 
-| 第59期王座戦予選 | Hane Yasumasa | Hikosaka Naoto | W+R | 2010-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7xfytp7SBF9BQwOCrNlz4A%3D%3D) | 
-| 第37期天元戦予選 | Hikosaka Naoto | Shida Tatsuya | B+4.5 | 2010-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l6JD2mBSv6kRQ%2BjSnCM1NA%3D%3D) | 
-| 第36期棋聖戦予選 | Hikosaka Naoto | Kiwada Kazuomi | B+R | 2010-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XRUh%2FQMzhgXM3KLxdQDRUg%3D%3D) | 
-| 第36期碁聖戦本戦1回戦 | Yamashita Keigo | Hikosaka Naoto | B+R | 2010-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zuZEUBAUqp9y5DmQ51kEUA%3D%3D) | 
-| 第52期王冠戦予選 | Hane Yasumasa | Hikosaka Naoto | B+R | 2010-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pjuKObz6jNxTB6Sd4m2Emw%3D%3D) | 
-| 第37期天元戦予選 | Hikosaka Naoto | Kato Yuuki | B+0.5 | 2010-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zetZ0mtY%2FXOowIfqTGMrVw%3D%3D) | 
-| 第36期碁聖戦予選 | Yamada Kimio | Hikosaka Naoto | W+R | 2010-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nZcJ78IqRg12Wv2nzKKhDQ%3D%3D) | 
-| 第36期碁聖戦予選 | Matsuoka Hideki | Hikosaka Naoto | W+2.5 | 2010-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tP7KxtTu7NAXC0dB7d%2BxrQ%3D%3D) | 
-| 第36期名人戦予選 | Kobayashi Satoru | Hikosaka Naoto | B+3.5 | 2010-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S7XIPpKnc82VWPNbKHXwdg%3D%3D) | 
-| 第6回大和証券杯ネット囲碁オープン1回戦 | Hikosaka Naoto | O Rissei | W+R | 2010-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QNM6C%2BseOI9WjwZd4%2FkF7Q%3D%3D) | 
-| 第36期名人戦予選 | Yamashiro Hiroshi | Hikosaka Naoto | W+7.5 | 2010-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n3M25HxgBHTpelhcXotRYg%3D%3D) | 
-| 第17期阿含・桐山杯全日本早碁オープン戦予選 | Mimura Tomoyasu | Hikosaka Naoto | B+R | 2010-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qd%2Bb6OWCcceFkJjoGrfdOw%3D%3D) | 
-| 第49期十段戦予選 | Anzai Nobuaki | Hikosaka Naoto | B+R | 2010-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fM74ZJFxIc2HW1DLlufqtQ%3D%3D) | 
-| 第36期名人戦予選 | Hikosaka Naoto | Takei Takashi | B+R | 2010-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5ZT7xXY3ILk1cRKTwVRN5Q%3D%3D) | 
-| 第35期棋聖戦予選 | Hikosaka Naoto | Ryu Shikun | W+R | 2010-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z5tOA7zYVyH0kW9lrnGcvQ%3D%3D) | 
-| 第58期王座戦予選 | Seto Taiki | Hikosaka Naoto | B+3.5 | 2010-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EiCJykWiCDHAd8w%2BxbsmQQ%3D%3D) | 
-| 第36期天元戦予選 | Hikosaka Naoto | Iyama Yuta | W+R | 2009-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xdhzbRN6TFcsAEKwyOstOg%3D%3D) | 
-| 第35期棋聖戦予選 | Hikosaka Naoto | Ishida Atsushi | B+4.5 | 2009-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eQpeyEwlvO91kqro6vsUOw%3D%3D) | 
-| 第36期天元戦予選 | Hikosaka Naoto | Yamashiro Hiroshi | B+2.5 | 2009-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UGU9R8FTtHvfQbZxiVpY9w%3D%3D) | 
-| 第48期十段戦敗者復活戦2回戦 | Hikosaka Naoto | Yamashita Keigo | W+R | 2009-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L1H5sMmu3olYrBSL3CeOhA%3D%3D) | 
-| 第48期十段戦敗者復活戦1回戦 | Iyama Yuta | Hikosaka Naoto | W+R | 2009-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iAXl0c0y9%2BjmBw1YgLOL6g%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン1回戦 | Cho Sonjin | Hikosaka Naoto | B+3.5 | 2009-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DzzpFHXXPDOnN01lUSBSBg%3D%3D) | 
-| 第35期名人戦予選 | Hikosaka Naoto | Takei Takashi | W+1.5 | 2009-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gPA%2BeF50Zw3DaravQu4gcQ%3D%3D) | 
-| 第35期天元戦本戦2回戦 | Yukawa Mitsuhisa | Hikosaka Naoto | B+1.5 | 2009-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EzstUP80etXU6DecdoZpJQ%3D%3D) | 
-| 第48期十段戦本戦1回戦 | Hikosaka Naoto | Shuto Shun | W+R | 2009-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qMqonG6un%2FznPmrgAm5ovA%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン予選 | Yo Kagen | Hikosaka Naoto | W+0.5 | 2009-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ENOt3yWCe6z%2Fy6pkvaWbtg%3D%3D) | 
-| 第35期天元戦本戦1回戦 | Yamada Kimio | Hikosaka Naoto | W+R | 2009-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZSs06ViSHM9Ld5rkx1lZRw%3D%3D) | 
-| 第48期十段戦予選 | Hikosaka Naoto | Rin Shien | B+R | 2009-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FjAg6YLQRuTJ0pTw5dOZRQ%3D%3D) | 
-| 第34期棋聖戦予選 | Hikosaka Naoto | Kataoka Satoshi | W+R | 2009-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b8zfDdNnC1rDs%2F4Dne%2Fl5A%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Tajiri Yuto | Hikosaka Naoto | W+2.5 | 2009-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HWFuv4hgxxy0KRdvbhNcZg%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Terayama Rei | Hikosaka Naoto | B+R | 2009-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BPLTLWgPrE%2FwHpAiH5Yh9w%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Hikosaka Naoto | Mukai Kaori | W+0.5 | 2009-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pJR8SUv0kLTRkRCREELE0Q%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Uchida Shuhei | Hikosaka Naoto | B+1.5 | 2008-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iaKlJm9MLzYv%2BtxZyqlqXQ%3D%3D) | 
-| 第57期王座戦予選 | Shida Tatsuya | Hikosaka Naoto | B+0.5 | 2008-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=As6aTsZjm%2BEhZouQn6CIEg%3D%3D) | 
-| 第48期十段戦予選 | Hikosaka Naoto | Iwata Tatsuaki | B+R | 2008-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c2JdJ0UNtkPe%2FoLf%2FF146Q%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Mannami Nao | Hikosaka Naoto | B+R | 2008-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Oz06voVtD153pr%2Fg91PO7Q%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Hikosaka Naoto | Cho Riyu | W+0.5 | 2008-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GuH5bscsLUoklYexDUefHQ%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Gu Li | Hikosaka Naoto | B+R | 2008-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=52PDw38Za%2BCgXSPPESezhQ%3D%3D) | 
-| 第34期碁聖戦予選 | Iyama Yuta | Hikosaka Naoto | B+R | 2008-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cg1kQERi4npxSv8Ud7mVdg%3D%3D) | 
-| 第4回大和証券杯ネット囲碁オープン1回戦 | Hikosaka Naoto | Kono Rin | W+R | 2008-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qkTXZuiVJW%2BO37lRzCPBIw%3D%3D) | 
-| 第64期本因坊戦予選 | Hikosaka Naoto | Nakaonoda Tomomi | W+R | 2008-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wx45RD%2Bd0ygcf2LAnGXc2g%3D%3D) | 
-| 第28期NECカップ囲碁トーナメント戦1回戦 | Hikosaka Naoto | Ko Iso | W+R | 2008-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uV00VOjLnu%2FN5kqR4P4Xxw%3D%3D) | 
-| 第4回大和証券杯ネット囲碁オープン予選 | Hikosaka Naoto | Cho Riyu | B+2.5 | 2008-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jGsJvcuzR8mk8KYAThdXQA%3D%3D) | 
-| 第34期天元戦本戦2回戦 | Komatsu Hideki | Hikosaka Naoto | B+R | 2008-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TwrMJSg4tpdqQTJUfP76UA%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Hikosaka Naoto | Mukai Chiaki | W+0.5 | 2008-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nl78N%2B9S7kP5ibY4RZxgbA%3D%3D) | 
-| 第47期十段戦予選 | O Rissei | Hikosaka Naoto | B+R | 2008-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F%2F447fqYCHI7FQZ0JC8WNg%3D%3D) | 
-| 第33期碁聖戦本戦3回戦 | Hikosaka Naoto | Yamada Kimio | W+R | 2008-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X8CWAAtreStWhcpD3rqZ5g%3D%3D) | 
-| 第56期王座戦予選 | Hane Naoki | Hikosaka Naoto | B+R | 2008-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=padhXKYOw07%2Bv9r3EiRKrQ%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Hikosaka Naoto | Rin Kaiho | B+R | 2008-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S%2BO7n1nn7zByb7Dtvd49Jw%3D%3D) | 
-| 第1期幽玄杯精鋭リーグ戦 | Hikosaka Naoto | Cho Chien | B+R | 2008-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1G9DF5rWC%2BBtQGbCwm1%2FHA%3D%3D) | 
-| 第33期碁聖戦本戦2回戦 | Hikosaka Naoto | Hane Naoki | B+1.5 | 2008-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CuQmP336DtnmenPe7Th6Nw%3D%3D) | 
-| 第1期幽玄杯精鋭リーグ戦 | Hikosaka Naoto | Uchida Shuhei | B+0.5 | 2008-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qk4WE64Mm%2FTAbB5M45sNQA%3D%3D) | 
-| 第1期幽玄杯精鋭リーグ戦 | Hikosaka Naoto | O Rissei | W+R | 2008-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tp2QuQ%2BGn2mLUb3qZLQQRQ%3D%3D) | 
-| 第56期王座戦予選 | Hikosaka Naoto | O Meien | B+R | 2008-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B76wEWoMwmoZNEen%2FQqueA%3D%3D) | 
-| 第1期幽玄杯精鋭リーグ戦 | Hikosaka Naoto | Mimura Tomoyasu | B+4.5 | 2008-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3II%2BG5PsNHtfumArVL5v1A%3D%3D) | 
-| 第34期天元戦本戦1回戦 | Ishida Yoshio | Hikosaka Naoto | W+8.5 | 2008-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cvu3USpKG9YnyfzqcTOp9g%3D%3D) | 
-| 第1期幽玄杯精鋭リーグ戦 | Hikosaka Naoto | Mochizuki Kenichi | W+R | 2007-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CUr7vs93lesSxv2O8Vnl0Q%3D%3D) | 
-| 第1期幽玄杯精鋭リーグ戦 | Ohashi Naruya | Hikosaka Naoto | W+R | 2007-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2T4GICSXNxiv9pIhcKElxQ%3D%3D) | 
-| 第33期碁聖戦本戦1回戦 | Hikosaka Naoto | Kim Sujun | B+2.5 | 2007-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O4aGYPreJAkesKqOud4yrg%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン予選 | Hikosaka Naoto | Kanazawa Hideo | W+R | 2007-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lhwXxTBhBVWXqDhBrfYLEQ%3D%3D) | 
-| 第32期名人戦リーグ | Hikosaka Naoto | Yoda Norimoto | B+0.5 | 2007-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FhaKUz03QIVw3Fc22pg9Xw%3D%3D) | 
-| 第32期名人戦リーグ | Hikosaka Naoto | Ko Iso | W+1.5 | 2007-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hI7ewD2GND6sGPYAaxcsyw%3D%3D) | 
-| 第32期名人戦リーグ | Hikosaka Naoto | Yamashita Keigo | B+R | 2007-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cYmxF9uijGmv%2Fzfbkg8cJg%3D%3D) | 
-| 第32期名人戦リーグ | Sakai Hideyuki | Hikosaka Naoto | B+8.5 | 2007-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4RXCqCg7MkbLO6TMqUzgfA%3D%3D) | 
-| 第32期名人戦リーグ | Yamada Kimio | Hikosaka Naoto | W+R | 2007-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LNT6%2BR4L8S7UHUjLCRO0cA%3D%3D) | 
-| 第32期名人戦リーグ | Cho U | Hikosaka Naoto | B+1.5 | 2007-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ATRGY4D4H%2FTP7oS0MnbyKw%3D%3D) | 
-| 第32期名人戦リーグ | Mimura Tomoyasu | Hikosaka Naoto | B+1.5 | 2007-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zd9bU356%2BwmCr4Evjl1Zbw%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯国内予選 | Yoda Norimoto | Hikosaka Naoto | B+R | 2006-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ewi1D1ZSm3E8ccebpMaL8Q%3D%3D) | 
-| 第32期名人戦リーグ | Hikosaka Naoto | Kobayashi Satoru | W+R | 2006-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dVVzpI%2FNzstuexQ6uI%2FrNA%3D%3D) | 
-| 第33期天元戦本戦0回戦 | Ogaki Yusaku | Hikosaka Naoto | B+R | 2006-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aCAlfdEiDIis1kYpLUuP7w%3D%3D) | 
-| 第32期名人戦予選 | Hikosaka Naoto | Yamada Noriyoshi | B+0.5 | 2006-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BiYwDnJNE0RHtcIAcxc4eQ%3D%3D) | 
-| 第32期名人戦予選 | Takemiya Masaki | Hikosaka Naoto | W+8.5 | 2006-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h6RfRKkjzX20q%2FuZe1SW2g%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Hikosaka Naoto | Kong Jie | W+R | 2006-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9HTmxtOtml4Klsbjpy%2BVqw%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Hikosaka Naoto | Kudo Norio | B+9.5 | 2006-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ezA32on%2BUG8Hxe1ScgA%2B6w%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | O Rissei | Hikosaka Naoto | W+2.5 | 2006-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yyGsBDgFd3LqTd26Qtnb3Q%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Hikosaka Naoto | Nakano Hironari | B+R | 2006-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HQ7wuNCUeAnYXU0aRNl72g%3D%3D) | 
-| 第45期十段戦予選 | Hikosaka Naoto | Kobayashi Koichi | W+7.5 | 2006-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h5GT0hEG0tqiKrMxt9xQog%3D%3D) | 
-| 第31期棋聖戦予選 | Hikosaka Naoto | Cho U | W+R | 2006-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7dmVihBgkFfFhr0%2Bt3qFOA%3D%3D) | 
-| 第31期碁聖戦本戦1回戦 | Hikosaka Naoto | Takemiya Masaki | W+R | 2005-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zx0QlxlghmaUra9AkQhNwQ%3D%3D) | 
-| 第44期十段戦敗者復活戦2回戦 | Kobayashi Satoru | Hikosaka Naoto | B+0.5 | 2005-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FuIECeUx347LdPmy1Ku2dA%3D%3D) | 
-| 第44期十段戦本戦2回戦 | Yamashita Keigo | Hikosaka Naoto | B+R | 2005-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0wb9jIfVXj8rpWHqBGzweg%3D%3D) | 
-| 第44期十段戦本戦1回戦 | Ishikura Noboru | Hikosaka Naoto | W+R | 2005-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wePfpxl7OeV%2BFg91NngE7w%3D%3D) | 
-| 第43期十段戦敗者復活戦3回戦 | Takao Shinji | Hikosaka Naoto | B+R | 2004-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dC8niBAFcsp6AaxtsUwSvA%3D%3D) | 
-| 第43期十段戦本戦3回戦 | Hikosaka Naoto | Cho Chikun | W+2.5 | 2004-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cbAEnMi8uFXpTYqnsKmqFA%3D%3D) | 
-| 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Hikosaka Naoto | Choi Cheolhan | W+2.5 | 2004-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q4PDDdzT7340F0TuSi9bpw%3D%3D) | 
-| 第43期十段戦本戦2回戦 | Hikosaka Naoto | Cho U | B+R | 2004-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SuEv039EsI1pZj0MZhm13A%3D%3D) | 
-| 第30期天元戦本戦2回戦 | Takao Shinji | Hikosaka Naoto | B+6.5 | 2004-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=34tBB9yU8ymeQM4ozcMmGA%3D%3D) | 
-| 第43期十段戦本戦1回戦 | Hikosaka Naoto | Suzuki Yoshimichi | B+R | 2004-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jcx20G%2Fafp3STi9QKKNfgQ%3D%3D) | 
-| 第43期十段戦予選 | Hikosaka Naoto | Hane Naoki | B+R | 2004-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DI%2BRi1CbmeUdtfvwfjzBqQ%3D%3D) | 
-| 第29期碁聖戦本戦2回戦 | Yuki Satoshi | Hikosaka Naoto | B+R | 2004-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fXAd7hMzs5%2BjOmY%2BbaRT2g%3D%3D) | 
-| 第30期天元戦本戦1回戦 | Kobayashi Koichi | Hikosaka Naoto | W+2.5 | 2004-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g%2BOybMJB48fXxN1rk%2FogMw%3D%3D) | 
-| 第29期碁聖戦本戦1回戦 | Hikosaka Naoto | Otake Hideo | B+R | 2004-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zgiL0Vbw5Wwl1QZybbICsQ%3D%3D) | 
-| 第44期王冠戦挑戦手合一番勝負 | Hikosaka Naoto | Hane Naoki | W+3.5 | 2003-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eEWgB7fc%2F%2B5xynPA3UkHdw%3D%3D) | 
-| 第23期NECカップ囲碁トーナメント戦1回戦 | Mimura Tomoyasu | Hikosaka Naoto | B+R | 2003-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bTeCvjSyEsTlZ6j3S6j%2B%2BQ%3D%3D) | 
-| 第6期三星杯1回戦 | Lee Changho | Hikosaka Naoto | B+R | 2001-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0mVp%2Fos3jh3wD9AP6du44w%3D%3D) | 
-| 第5期三星杯1回戦 | Zhou Heyang | Hikosaka Naoto | B+1.5 | 2000-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SxpaZyctKGpKood25CL1DA%3D%3D) | 
-| 第5回LG杯世界棋王戦2回戦 | Hikosaka Naoto | Lee Changho | W+R | 2000-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aVdMZS7UetoKlbvy7L%2FUCg%3D%3D) | 
-| 第5回LG杯世界棋王戦1回戦 | missing | Hikosaka Naoto | W+R | 2000-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BSBTkoxZSLNR%2FZCcOsZIKg%3D%3D) | 
-| 第4期三星杯準決勝 | Cho Sonjin | Hikosaka Naoto | B+R | 1999-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HZ7UcgCcwJ%2FxvGqxxIRz2A%3D%3D) | 
-| 第4期三星杯3回戦 | Hikosaka Naoto | Kang Jiseong | B+R | 1999-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4rFLaOL4BWG%2FAx13KaV2Kw%3D%3D) | 
-| 第4期三星杯2回戦 | An Joyeong | Hikosaka Naoto | W+0.5 | 1999-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qim2QxO54EaJCGPFWllOKg%3D%3D) | 
-| 第4期三星杯1回戦 | Hikosaka Naoto | Jeong Daesang | B+1.5 | 1999-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=57vyyHsV9dxY7G1har5cPA%3D%3D) | 
-| 第4回LG杯世界棋王戦2回戦 | Hikosaka Naoto | Ma Xiaochun | W+R | 1999-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f%2B5E1qc0L%2FmpFcGoqOZYlg%3D%3D) | 
-| 第4回LG杯世界棋王戦1回戦 | Hikosaka Naoto | Choi Kyubyeong | B+2.5 | 1999-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W7%2FBLWHbzFI7R8TE0ENjFA%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-08 | 第47期名人戦予選 | Nakamura Shinya | Hikosaka Naoto | Lose | B+R | 6.5 | 2414 | -320 | 
+| 2021-04-12 | 第77期本因坊戦予選 |  | Hikosaka Naoto | Win | W+0.5 | 6.5 | 2734 | 54 | 
+| 2021-04-01 | 第69期王座戦予選 | Hikosaka Naoto | Takao Shinji | Lose | W+R | 6.5 | 2680 | -70 | 
+| 2021-03-25 | 第48期天元戦予選 | Kim Hyun Jung | Hikosaka Naoto | Win | W+R | 6.5 | 2750 | 92 | 
+| 2021-03-15 | 第77期本因坊戦予選 | Kikkawa Hajime | Hikosaka Naoto | Win | W+R | 6.5 | 2658 | -33 | 
+| 2021-03-11 | 第46期棋聖戦予選 | Hikosaka Naoto | Yamada Shihou | Win | B+R | 6.5 | 2691 | -40 | 
+| 2021-02-18 | 第46期棋聖戦予選 | Yokota Shigeaki | Hikosaka Naoto | Win | W+4.5 | 6.5 | 2731 | -224 | 
+| 2021-01-21 | 第60期十段戦予選 | Hikosaka Naoto | Hamanaka Takamitsu | Win | B+R | 6.5 | 2955 | -129 | 
+| 2020-10-01 | 第45期棋聖戦Cリーグ | Terayama Rei | Hikosaka Naoto | Lose | B+1.5 | 6.5 | 3084 | 63 | 
+| 2020-09-10 | 第45期棋聖戦Cリーグ | Kiyonari Tetsuya | Hikosaka Naoto | Win | W+1.5 | 6.5 | 3021 | 139 | 
+| 2020-08-06 | 第46期名人戦予選 | Hikosaka Naoto |  | Lose | W+4.5 | 6.5 | 2882 | -21 | 
+| 2020-07-30 | 第68期王座戦2回戦 | Hikosaka Naoto | Cho U | Lose | W+R | 6.5 | 2903 | -43 | 
+| 2020-07-23 | 第45期棋聖戦Cリーグ |  | Hikosaka Naoto | Lose | B+R | 6.5 | 2946 | -155 | 
+| 2020-07-02 | 第68期王座戦1回戦 | Koike Yoshihiro | Hikosaka Naoto | Win | W+1.5 | 6.5 | 3101 | 146 | 
+| 2020-06-18 | 第45期棋聖戦Cリーグ | Kobayashi Koichi | Hikosaka Naoto | Win | W+5.5 | 6.5 | 2955 | 395 | 
+| 2020-04-02 | 第45期棋聖戦Cリーグ | Hikosaka Naoto | Chang Rueijie | Lose | W+1.5 | 6.5 | 2560 | -55 | 
+| 2020-03-26 | 第68期王座戦予選 | Oomote Takuto | Hikosaka Naoto | Win | W+R | 6.5 | 2615 | 3 | 
+| 2020-03-19 | 第76期本因坊戦予選 |  | Hikosaka Naoto | Lose | B+R | 6.5 | 2612 | -94 | 
+| 2020-02-27 | 第76期本因坊戦予選 | Hikosaka Naoto | Kitano Ryo | Win | B+R | 6.5 | 2706 | -97 | 
+| 2020-01-30 | 第68期王座戦予選 | Tsuruyama Atsushi | Hikosaka Naoto | Win | W+2.5 | 6.5 | 2803 | 101 | 
+| 2020-01-23 | 第45期棋聖戦ファーストトーナメント予選 | Hikosaka Naoto | Hasegawa Sunao | Win | B+R | 6.5 | 2702 | 379 | 
+| 2019-12-19 | 第45期棋聖戦ファーストトーナメント予選 | Shimojima Yohei | Hikosaka Naoto | Win | W+R | 6.5 | 2323 | -8 | 
+| 2019-12-05 | 第45期棋聖戦ファーストトーナメント予選 | Hikosaka Naoto | Hotta Yozo | Win | B+R | 6.5 | 2331 | -154 | 
+| 2019-10-10 | 第61期王冠戦予選 | Hikosaka Naoto | Yamamori Tadanao | Win | B+2.5 | 6.5 | 2485 | 55 | 
+| 2019-09-12 | 第46期天元戦予選 | Hikosaka Naoto | Yamamori Tadanao | Lose | W+R | 6.5 | 2430 | -51 | 
+| 2019-05-30 | 第67期王座戦1回戦 | Hikosaka Naoto | Motoki Katsuya | Lose | W+R | 6.5 | 2481 | -93 | 
+| 2019-05-23 | 第45期碁聖戦予選 | Hikosaka Naoto | Shimojima Yohei | Lose | W+1.5 | 6.5 | 2574 | -91 | 
+| 2019-05-16 | 第9回フマキラー囲碁マスターズカップ1回戦 | Yamashiro Hiroshi | Hikosaka Naoto | Lose | B+R | 6.5 | 2665 | -23 | 
+| 2019-04-25 | 第45期碁聖戦予選 | Hikosaka Naoto | Miyagawa Fumihiko | Win | B+R | 6.5 | 2688 | -27 | 
+| 2019-04-18 | 第75期本因坊戦予選 | Muramatsu Hiroki | Hikosaka Naoto | Lose | B+R | 6.5 | 2715 | -36 | 
+| 2019-04-04 | 第67期王座戦最終予選決勝 | Takei Takashi | Hikosaka Naoto | Win | W+R | 6.5 | 2751 | 54 | 
+| 2019-03-28 | 第75期本因坊戦予選 | Ohashi Naruya | Hikosaka Naoto | Win | W+R | 6.5 | 2697 | 91 | 
+| 2019-03-07 | 第75期本因坊戦予選 | Hikosaka Naoto | Kawada Kohei | Win | B+R | 6.5 | 2606 | -183 | 
+| 2019-02-21 | 第45期碁聖戦予選 | Kato Yuuki | Hikosaka Naoto | Win | W+R | 6.5 | 2789 | -66 | 
+| 2019-01-31 | 第45期天元戦1回戦 | Hikosaka Naoto | Sakai Hideyuki | Lose | W+R | 6.5 | 2855 | 17 | 
+| 2019-01-17 | 第45期碁聖戦予選 | Hikosaka Naoto | Kim Hyun Jung | Win | B+R | 6.5 | 2838 | 6 | 
+| 2019-01-10 | 第44期棋聖戦ファーストトーナメント予選 | Hikosaka Naoto | Tajima Shingo | Lose | W+R | 6.5 | 2832 | -14 | 
+| 2018-12-27 | 第75期本因坊戦予選 | Hikosaka Naoto | Osawa Kenro | Win | B+R | 6.5 | 2846 | -49 | 
+| 2018-11-29 | 第44期棋聖戦予選 | Tsukuda Akiko | Hikosaka Naoto | Win | W+R | 6.5 | 2895 | -4 | 
+| 2018-11-15 | 第45期天元戦予選 | Hikosaka Naoto | Yamada Kimio | Win | B+R | 6.5 | 2899 | -18 | 
+| 2018-10-26 | 第60期王冠戦予選 | Nyu Eiko | Hikosaka Naoto | Win | W+1.5 | 6.5 | 2917 | 10 | 
+| 2018-10-18 | 第45期天元戦予選 | Ishida Atsushi | Hikosaka Naoto | Win | W+R | 6.5 | 2907 | 53 | 
+| 2018-08-16 | 第44期名人戦予選 | Hikosaka Naoto | Ida Atsushi | Lose | W+R | 6.5 | 2854 | -14 | 
+| 2018-07-23 | 第66期王座戦2回戦 | Hikosaka Naoto | Murakawa Daisuke | Lose | W+R | 6.5 | 2868 | -8 | 
+| 2018-07-05 | 第44期天元戦3回戦 | Hikosaka Naoto | Kono Rin | Lose | W+4.5 | 6.5 | 2876 | -23 | 
+| 2018-05-24 | 第66期王座戦1回戦 | Shibano Toramaru | Hikosaka Naoto | Win | W+2.5 | 6.5 | 2899 | 124 | 
+| 2018-05-10 | 第8回フマキラー囲碁マスターズカップ2回戦  | Hikosaka Naoto | Kataoka Satoshi | Lose | W+R | 6.5 | 2775 | -79 | 
+| 2018-05-03 | 第74期本因坊戦予選 | Hikosaka Naoto | Nakano Hironari | Lose | W+1.5 | 6.5 | 2854 | -51 | 
+| 2018-04-19 | 第8回フマキラー囲碁マスターズカップ1回戦 | Hikosaka Naoto | Komatsu Hideki | Win | B+R | 6.5 | 2905 | -5 | 
+| 2018-03-15 | 第43期棋聖戦ファーストトーナメント予選 | Sonoda Yuichi | Hikosaka Naoto | Lose | B+R | 6.5 | 2910 | -59 | 
+| 2018-03-08 | 第44期碁聖戦予選 |  | Hikosaka Naoto | Lose | B+2.5 | 6.5 | 2969 | -42 | 
+| 2018-03-01 | 第66期王座戦予選 | Hikosaka Naoto | Rin Kanketsu | Win | B+R | 6.5 | 3011 | -11 | 
+| 2018-02-22 | 第44期天元戦2回戦 | Takao Shinji | Hikosaka Naoto | Win | W+R | 6.5 | 3022 | 77 | 
+| 2018-02-08 | 第66期王座戦最終予選 | Seto Taiki | Hikosaka Naoto | Win | W+R | 6.5 | 2945 | 59 | 
+| 2018-02-01 | 第43期棋聖戦ファーストトーナメント予選 | Hikosaka Naoto | Oda Hiromitsu | Win | B+R | 6.5 | 2886 | -12 | 
+| 2018-01-25 | 第57期十段戦予選 | Ohashi Naruya | Hikosaka Naoto | Lose | B+R | 6.5 | 2898 | -38 | 
+| 2018-01-11 | 第43期棋聖戦ファーストトーナメント予選 | Hikosaka Naoto | Nakane Naoyuki | Win | B+R | 6.5 | 2936 | 70 | 
+| 2017-12-14 | 第44期天元戦1回戦 | Suzuki Ayumi | Hikosaka Naoto | Win | W+R | 6.5 | 2866 | 34 | 
+| 2017-12-07 | 第66期王座戦予選 | Hikosaka Naoto | Imamura Yoshiaki | Win | B+R | 6.5 | 2832 | 73 | 
+| 2017-11-16 | 第43期棋聖戦ファーストトーナメント予選 | Nishiyama Shizuka | Hikosaka Naoto | Win | W+R | 6.5 | 2759 | -31 | 
+| 2017-10-26 | 第59期王冠戦予選 | Nakane Naoyuki | Hikosaka Naoto | Win | W+R | 7.5 | 2790 | -22 | 
+| 2017-10-19 | 第43期天元戦予選 | Ishii Kunio | Hikosaka Naoto | Win | W+R | 6.5 | 2812 | 72 | 
+| 2017-09-28 | 第44期天元戦予選 | Hikosaka Naoto | Takei Takashi | Win | B+R | 6.5 | 2740 | 13 | 
+| 2017-09-21 | 第43期名人戦　最終予選1回戦 | Hikosaka Naoto | Shibano Toramaru | Lose | W+R | 6.5 | 2727 | 9 | 
+| 2017-08-17 | 第43期名人戦　予選A決勝 | Muramatsu Hiroki | Hikosaka Naoto | Win | W+R | 6.5 | 2718 | 43 | 
+| 2017-08-03 | 第44期天元戦　予選B決勝 | Hikosaka Naoto | Takabayashi Masahiro | Win | B+8.5 | 6.5 | 2675 | -85 | 
+| 2017-07-27 | 第43期名人戦　予選A | Kuwamoto Shinpei | Hikosaka Naoto | Win | W+R | 6.5 | 2760 | 8 | 
+| 2017-07-06 | 第56期十段戦　最終予選決勝 | Hikosaka Naoto | Kim Sujun | Lose | W+R | 6.5 | 2752 | -38 | 
+| 2017-06-15 | 第73期本因坊戦　最終予選第2局 | Hikosaka Naoto | Terayama Rei | Lose | W+R | 6.5 | 2790 | -14 | 
+| 2017-05-18 | 第43期碁聖戦　予選B決勝 | Hikosaka Naoto | Nakamura Shinya | Lose | W+1.5 | 6.5 | 2804 | 146 | 
+| 2017-03-16 | 第7回マスターズカップ　本戦1回戦 | Yoda Norimoto | Hikosaka Naoto | Lose | B+0.5 | 6.5 | 2658 | -43 | 
+| 2017-03-09 | 第65期王座戦　最終予選 | Ichiriki Ryo | Hikosaka Naoto | Lose | B+1.5 | 6.5 | 2701 | -30 | 
+| 2017-02-23 | 第73期本因坊戦　予選A決勝 | Mutsuura Yuta | Hikosaka Naoto | Win | W+0.5 | 6.5 | 2731 | 121 | 
+| 2017-01-26 | 第73期本因坊戦　予選A | Hikosaka Naoto | Oda Teppei | Win | B+12.5 | 6.5 | 2610 | -7 | 
+| 2016-12-22 | 第42期棋聖戦　ファーストトーナメント2回戦 | Otani Naoki | Hikosaka Naoto | Lose | B+R | 6.5 | 2617 | -18 | 
+| 2016-11-03 | 第58期王冠戦　予選A決勝 | Hikosaka Naoto | Nyu Eiko | Win | B+R | 6.5 | 2635 | 37 | 
+| 2016-10-27 | 第55期十段戦　本戦2回戦 | Hikosaka Naoto | Yamashita Keigo | Lose | W+R | 6.5 | 2598 | -23 | 
+| 2016-10-13 | 第65期王座戦予選 | Ogata Masaki | Hikosaka Naoto | Win | W+R | 6.5 | 2621 | 68 | 
+| 2016-10-06 | 第55期十段戦1R | Hikosaka Naoto | O Meien | Win | B+R | 6.5 | 2553 | 14 | 
+| 2016-09-29 | 第42期名人戦最終予選 | Hikosaka Naoto | Kiyonari Tetsuya | Lose | W+R | 6.5 | 2539 | -27 | 
+| 2016-09-22 | 第65期王座戦予選 | Hikosaka Naoto | Shimojima Yohei | Win | B+R | 6.5 | 2566 | 86 | 
+| 2016-08-18 | 第42期名人戦予選 | Hikosaka Naoto | Iwamaru Taira | Win | B+R | 6.5 | 2480 | 22 | 
+| 2016-08-11 | 第55期十段戦予選 | Morita Michihiro | Hikosaka Naoto | Win | W+R | 6.5 | 2458 | -46 | 
+| 2016-08-04 | 第42期碁聖戦予選 | Kato Yuuki | Hikosaka Naoto | Lose | B+4.5 | 6.5 | 2504 | -67 | 
+| 2016-07-28 | 第42期名人戦予選 | Ohashi Naruya | Hikosaka Naoto | Win | W+2.5 | 6.5 | 2571 | -17 | 
+| 2016-07-21 | 第65期王座戦予選 | Hikosaka Naoto | Sasaki Tsuyoshi | Win | B+R | 6.5 | 2588 | -14 | 
+| 2016-06-02 | 第72期本因坊戦予選 | Hikosaka Naoto | O Meien | Lose | W+5.5 | 6.5 | 2602 | 52 | 
+| 2016-05-19 | 第65期王座戦予選 | Hikosaka Naoto | Komatsu Daiki | Win | B+R | 6.5 | 2550 | 7 | 
+| 2016-05-05 | 第65期王座戦予選 | Takahashi Masumi | Hikosaka Naoto | Win | W+R | 6.5 | 2543 | 52 | 
+| 2016-04-21 | 第72期本因坊戦予選 | Hikosaka Naoto | Muramatsu Hiroki | Win | B+R | 6.5 | 2491 | 67 | 
+| 2016-04-14 | 第65期王座戦予選 | Nakao Jungo | Hikosaka Naoto | Win | W+4.5 | 6.5 | 2424 | -12 | 
+| 2016-03-17 | 第6回フマキラー囲碁マスターズカップ1回戦 | Hikosaka Naoto | Kobayashi Satoru | Lose | W+2.5 | 6.5 | 2436 | -11 | 
+| 2016-03-03 | 第55期十段戦予選 | Hikosaka Naoto | Muramatsu Hiroki | Win | B+R | 6.5 | 2447 | -33 | 
+| 2016-02-18 | 第41期棋聖戦予選 | Tsuruta Kazushi | Hikosaka Naoto | Lose | B+R | 6.5 | 2480 | -43 | 
+| 2016-02-11 | 第72期本因坊戦予選 | Hikosaka Naoto | Imamura Yoshiaki | Win | B+2.5 | 6.5 | 2523 | -22 | 
+| 2016-01-28 | 第41期棋聖戦予選 | Watanabe Yuu | Hikosaka Naoto | Win | W+R | 6.5 | 2545 | -37 | 
+| 2016-01-14 | 第55期十段戦予選 | Mutsuura Yuta | Hikosaka Naoto | Win | W+R | 6.5 | 2582 | 14 | 
+| 2016-01-07 | 第41期棋聖戦予選 | Morino Setsuo | Hikosaka Naoto | Win | W+3.5 | 6.5 | 2568 | 19 | 
+| 2015-12-17 | 第41期碁聖戦本戦1回戦 | Hikosaka Naoto | Goto Shungo | Lose | W+R | 6.5 | 2549 | -30 | 
+| 2015-12-03 | 第41期棋聖戦予選 | Otani Naoki | Hikosaka Naoto | Win | W+R | 6.5 | 2579 | 59 | 
+| 2015-11-19 | 第42期天元戦予選 | Hikosaka Naoto | Iwamaru Taira | Lose | W+R | 6.5 | 2520 | -40 | 
+| 2015-11-05 | 第57期王冠戦予選 | Takahashi Masumi | Hikosaka Naoto | Win | W+R | 6.5 | 2560 | 22 | 
+| 2015-10-22 | 第64期王座戦予選 | Hikosaka Naoto | Yanagisawa Satoshi | Lose | W+R | 6.5 | 2538 | 7 | 
+| 2015-10-15 | 第42期天元戦予選 | Takei Takashi | Hikosaka Naoto | Win | W+0.5 | 6.5 | 2531 | -3 | 
+| 2015-09-24 | 第41期名人戦予選 | Hikosaka Naoto | Hane Naoki | Lose | W+R | 6.5 | 2534 | -15 | 
+| 2015-09-17 | 第40期棋聖戦Cリーグ | Hikosaka Naoto | Ito Masashi | Lose | W+0.5 | 6.5 | 2549 | -67 | 
+| 2015-09-10 | 第41期名人戦予選 | Hikosaka Naoto | Iwamaru Taira | Win | B+R | 6.5 | 2616 | -9 | 
+| 2015-09-03 | 第40期棋聖戦Cリーグ | Hikosaka Naoto | O Rissei | Lose | W+2.5 | 6.5 | 2625 | -85 | 
+| 2015-08-27 | 第71期本因坊戦予選 | Yu Zhengqi | Hikosaka Naoto | Lose | B+R | 6.5 | 2710 | -61 | 
+| 2015-08-13 | 第41期碁聖戦予選 | Yanagisawa Satoshi | Hikosaka Naoto | Win | W+R | 6.5 | 2771 | 8 | 
+| 2015-08-06 | 第71期本因坊戦予選 | Tsuruyama Atsushi | Hikosaka Naoto | Win | W+2.5 | 6.5 | 2763 | 3 | 
+| 2015-07-30 | 第41期名人戦予選 | Hikosaka Naoto | Yamamori Tadanao | Win | B+R | 6.5 | 2760 | -32 | 
+| 2015-07-16 | 第71期本因坊戦予選 | Tajima Shingo | Hikosaka Naoto | Win | W+R | 6.5 | 2792 | 8 | 
+| 2015-07-09 | 第40期棋聖戦Cリーグ | Nakano Yasuhiro | Hikosaka Naoto | Win | W+2.5 | 6.5 | 2784 | -75 | 
+| 2015-06-18 | 第40期棋聖戦Cリーグ | Hikosaka Naoto | Fujita Akihiko | Win | B+3.5 | 6.5 | 2859 | -20 | 
+| 2015-06-11 | 第22期阿含・桐山杯全日本早碁オープン戦予選 | Sun Zhe | Hikosaka Naoto | Lose | B+R | 6.5 | 2879 | 37 | 
+| 2015-06-04 | 第71期本因坊戦予選 | Shida Tatsuya | Hikosaka Naoto | Win | W+R | 6.5 | 2842 | 83 | 
+| 2015-05-21 | 第40期棋聖戦Cリーグ | Hikosaka Naoto | Suzuki Ayumi | Lose | W+3.5 | 6.5 | 2759 | -43 | 
+| 2015-05-14 | 第5回フマキラー囲碁マスターズカップ2回戦 | Cho Chikun | Hikosaka Naoto | Lose | B+R | 6.5 | 2802 | -59 | 
+| 2015-05-07 | 第71期本因坊戦予選 | Hikosaka Naoto | Yamamori Tadanao | Win | B+5.5 | 6.5 | 2861 | 135 | 
+| 2015-04-16 | 第54期十段戦予選 | Goto Shungo | Hikosaka Naoto | Lose | B+R | 6.5 | 2726 | -66 | 
+| 2015-03-26 | 第5回フマキラー囲碁マスターズカップ1回戦 | Hikosaka Naoto | Kobayashi Koichi | Win | B+1.5 | 6.5 | 2792 | 60 | 
+| 2015-03-19 | 第40期棋聖戦予選 | Takashima Yugo | Hikosaka Naoto | Win | W+R | 6.5 | 2732 | 20 | 
+| 2015-03-12 | 第54期十段戦予選 | Hikosaka Naoto | Yanagisawa Satoshi | Win | B+R | 6.5 | 2712 | -113 | 
+| 2015-02-26 | 第40期棋聖戦予選 | Hikosaka Naoto | Chin Kaei | Win | B+R | 6.5 | 2825 | 471 | 
+| 2015-02-12 | 第63期王座戦予選 | Hikosaka Naoto | Shida Tatsuya | Lose | W+R | 6.5 | 2354 | -308 | 
+| 2015-01-22 | 第40期棋聖戦予選 | Hikosaka Naoto | Fujiwara Katsuya | Win | B+R | 6.5 | 2662 | -139 | 
+| 2014-11-20 | 第54期十段戦予選 | Baba Shigeru | Hikosaka Naoto | Win | W+R | 6.5 | 2801 | 113 | 
+| 2014-10-16 | 第41期天元戦予選 | Hikosaka Naoto | Nakamura Shinya | Lose | W+R | 6.5 | 2688 | -87 | 
+| 2014-10-02 | 第40期名人戦予選 | Hikosaka Naoto | O Meien | Lose | W+R | 6.5 | 2775 | -60 | 
+| 2014-09-25 | 第41期天元戦予選 | Hikosaka Naoto | Iwamaru Taira | Win | B+R | 6.5 | 2835 | 31 | 
+| 2014-08-28 | 第40期碁聖戦予選 | Hikosaka Naoto | Shida Tatsuya | Lose | W+1.5 | 6.5 | 2804 | 75 | 
+| 2014-08-21 | 第40期名人戦予選 | Iwamaru Taira | Hikosaka Naoto | Win | W+R | 6.5 | 2729 | -59 | 
+| 2014-07-03 | 第40期名人戦予選 | Hikosaka Naoto | Miyagawa Fumihiko | Win | B+2.5 | 6.5 | 2788 | 49 | 
+| 2014-05-15 | 第70期本因坊戦予選 | Hikosaka Naoto | Nakano Hironari | Lose | W+R | 6.5 | 2739 | 14 | 
+| 2014-05-08 | 第53期十段戦予選 | Hikosaka Naoto | Muramatsu Hiroki | Lose | W+R | 6.5 | 2725 | -21 | 
+| 2014-05-01 | 第4回フマキラー囲碁マスターズカップ2回戦 | Hikosaka Naoto | Ishii Kunio | Lose | W+1.5 | 6.5 | 2746 | -110 | 
+| 2014-04-24 | 第70期本因坊戦予選 | Komatsu Daiki | Hikosaka Naoto | Win | W+R | 6.5 | 2856 | -31 | 
+| 2014-04-10 | 第4回フマキラー囲碁マスターズカップ1回戦 | Awaji Shuzo | Hikosaka Naoto | Win | W+4.5 | 6.5 | 2887 | 10 | 
+| 2014-03-20 | 第53期十段戦予選 | Ito Yoji | Hikosaka Naoto | Win | W+R | 6.5 | 2877 | 2 | 
+| 2014-03-13 | 第62期王座戦予選 | Hikosaka Naoto | Rin Shien | Lose | W+0.5 | 6.5 | 2875 | -28 | 
+| 2014-02-20 | 第40期天元戦本戦1回戦 | Hikosaka Naoto | Sakai Hideyuki | Lose | W+R | 6.5 | 2903 | -14 | 
+| 2014-02-13 | 第39期碁聖戦本戦2回戦 | Yamashiro Hiroshi | Hikosaka Naoto | Lose | B+2.5 | 6.5 | 2917 | -39 | 
+| 2014-01-30 | 第62期王座戦予選 | Hikosaka Naoto | Ishida Atsushi | Win | B+3.5 | 6.5 | 2956 | -59 | 
+| 2014-01-23 | 第40期天元戦予選 | Hikosaka Naoto | Hiroe Hiroyuki | Win | B+R | 6.5 | 3015 | -20 | 
+| 2014-01-09 | 第39期碁聖戦本戦1回戦 | Hikosaka Naoto | Fujita Akihiko | Win | B+R | 6.5 | 3035 | 58 | 
+| 2013-12-26 | 第62期王座戦予選 | Hikosaka Naoto | Shimojima Yohei | Win | B+R | 6.5 | 2977 | 40 | 
+| 2013-12-12 | 第40期天元戦予選 | Kawada Kohei | Hikosaka Naoto | Win | W+R | 6.5 | 2937 | 48 | 
+| 2013-11-25 | 第55期王冠戦予選 | Ogata Masaki | Hikosaka Naoto | Win | W+R | 6.5 | 2889 | 26 | 
+| 2013-11-14 | 第39期棋聖戦予選 | Enda Hideki | Hikosaka Naoto | Lose | B+1.5 | 6.5 | 2863 | -26 | 
+| 2013-10-10 | 第39期碁聖戦予選 | Hikosaka Naoto | Imamura Yoshiaki | Win | B+4.5 | 6.5 | 2889 | -59 | 
+| 2013-09-26 | 第62期王座戦予選 | Hikosaka Naoto | Yanaka Katsunori | Win | B+4.5 | 6.5 | 2948 | -22 | 
+| 2013-08-29 | 第39期碁聖戦予選 | Yamamoto Kentaro | Hikosaka Naoto | Win | W+R | 6.5 | 2970 | 22 | 
+| 2013-08-22 | 第39期名人戦予選 | Hikosaka Naoto | Hirata Tomoya | Lose | W+R | 6.5 | 2948 | 83 | 
+| 2013-07-11 | 第39期名人戦予選 | Yanaka Katsunori | Hikosaka Naoto | Win | W+R | 6.5 | 2865 | 148 | 
+| 2013-06-27 | 第39期名人戦予選 | Ishii Kunio | Hikosaka Naoto | Win | W+R | 6.5 | 2717 | 221 | 
+| 2013-05-16 | 第3回エステー＆フマキラー囲碁マスターズカップ2回戦 | Hikosaka Naoto | Kobayashi Satoru | Lose | W+R | 6.5 | 2496 | -14 | 
+| 2013-05-09 | 第52期十段戦予選 | Hikosaka Naoto | Ida Atsushi | Lose | W+0.5 | 6.5 | 2510 | -40 | 
+| 2013-04-25 | 第69期本因坊戦予選 | Hikosaka Naoto | Takei Takashi | Lose | W+R | 6.5 | 2550 | 18 | 
+| 2013-04-04 | 第69期本因坊戦予選 | Nakano Hironari | Hikosaka Naoto | Win | W+11.5 | 6.5 | 2532 | 57 | 
+| 2013-03-21 | 第3回エステー＆フマキラー囲碁マスターズカップ1回戦 | Hane Yasumasa | Hikosaka Naoto | Win | W+R | 6.5 | 2475 | -93 | 
+| 2013-03-07 | 第38期棋聖戦予選 | Hikosaka Naoto | Yamada Kimio | Lose | W+0.5 | 6.5 | 2568 | -57 | 
+| 2013-01-31 | 第69期本因坊戦予選 | Hikosaka Naoto | Tanemura Sayuri | Win | B+R | 6.5 | 2625 | -6 | 
+| 2013-01-24 | 第38期棋聖戦予選 | Ryu Shikun | Hikosaka Naoto | Win | W+3.5 | 6.5 | 2631 | 131 | 
+| 2013-01-17 | 第38期碁聖戦本戦1回戦 | Hikosaka Naoto | Sakai Hideyuki | Lose | W+5.5 | 6.5 | 2500 | -38 | 
+| 2013-01-10 | 第61期王座戦予選 | Ohashi Naruya | Hikosaka Naoto | Lose | B+R | 6.5 | 2538 | -78 | 
+| 2012-12-20 | 第38期棋聖戦予選 | Kurahashi Masayuki | Hikosaka Naoto | Win | W+1.5 | 6.5 | 2616 | -396 | 
+| 2012-11-29 | 第39期天元戦予選 | Hikosaka Naoto | Ida Atsushi | Lose | W+3.5 | 6.5 | 3012 | 138 | 
+| 2012-11-15 | 第38期棋聖戦予選 | Hikosaka Naoto | Tajima Shingo | Win | B+R | 6.5 | 2874 | 21 | 
+| 2012-10-18 | 第39期天元戦予選 | Hikosaka Naoto | Ohashi Naruya | Win | B+R | 6.5 | 2853 | -8 | 
+| 2012-10-11 | 第54期王冠戦予選 | Hikosaka Naoto | Katayama Yasuo | Win | B+R | 6.5 | 2861 | -175 | 
+| 2012-07-19 | 第38期名人戦予選 | Hikosaka Naoto | Ogata Masaki | Lose | W+R | 6.5 | 3036 | -32 | 
+| 2012-07-05 | 第51期十段戦予選 | Hikosaka Naoto | Sakai Hideyuki | Lose | W+R | 6.5 | 3068 | 14 | 
+| 2012-06-14 | 第38期名人戦予選 | Yamamoto Kentaro | Hikosaka Naoto | Win | W+7.5 | 6.5 | 3054 | -185 | 
+| 2012-04-26 | 第51期十段戦予選 | Hikosaka Naoto | Matsuoka Hideki | Win | B+4.5 | 6.5 | 3239 | -12 | 
+| 2012-04-05 | 第37期碁聖戦本戦準決勝 | Yamashita Keigo | Hikosaka Naoto | Lose | B+R | 6.5 | 3251 | 52 | 
+| 2012-03-22 | 第38期天元戦本戦1回戦 | O Meien | Hikosaka Naoto | Lose | B+R | 6.5 | 3199 | -93 | 
+| 2012-03-15 | 第51期十段戦予選 | Hikosaka Naoto | Hane Yasumasa | Win | B+R | 6.5 | 3292 | -54 | 
+| 2012-03-01 | 第68期本因坊戦予選 | Hikosaka Naoto | Imamura Yoshiaki | Lose | W+R | 6.5 | 3346 | -52 | 
+| 2012-02-23 | 第37期碁聖戦本戦3回戦 | O Rissei | Hikosaka Naoto | Win | W+4.5 | 6.5 | 3398 | 131 | 
+| 2011-12-22 | 第37期碁聖戦本戦2回戦 | Hikosaka Naoto | Nakano Hironari | Win | B+R | 6.5 | 3267 | 71 | 
+| 2011-12-08 | 第37期棋聖戦予選 | Yamada Kimio | Hikosaka Naoto | Win | W+2.5 | 6.5 | 3196 | 408 | 
+| 2011-11-05 | 第7回大和証券杯ネット囲碁オープン2回戦 | Hikosaka Naoto | Cho U | Lose | W+6.5 | 6.5 | 2788 | 0 | 
+| 2011-11-03 | 第37期碁聖戦本戦1回戦 | Morita Michihiro | Hikosaka Naoto | Win | W+R | 6.5 | 2788 | 53 | 
+| 2011-10-20 | 第53期王冠戦予選 | Shida Tatsuya | Hikosaka Naoto | Lose | B+R | 6.5 | 2735 | -46 | 
+| 2011-10-13 | 第38期天元戦予選 | Hikosaka Naoto | Matsuoka Hideki | Win | B+R | 6.5 | 2781 | -100 | 
+| 2011-09-22 | 第37期碁聖戦予選 | Goto Shungo | Hikosaka Naoto | Win | W+R | 6.5 | 2881 | 7 | 
+| 2011-09-17 | 第7回大和証券杯ネット囲碁オープン1回戦 | Hikosaka Naoto | O Rissei | Win | B+0.5 | 6.5 | 2874 | 40 | 
+| 2011-09-15 | 第60期王座戦予選 | Shida Tatsuya | Hikosaka Naoto | Win | W+R | 6.5 | 2834 | 129 | 
+| 2011-09-01 | 第37期名人戦予選 | Ko Reibun | Hikosaka Naoto | Lose | B+R | 6.5 | 2705 | -45 | 
+| 2011-08-25 | 第37期碁聖戦予選 | Hikosaka Naoto | Ida Atsushi | Win | B+R | 6.5 | 2750 | 32 | 
+| 2011-08-18 | 第38期天元戦予選 | Hikosaka Naoto | Iwamaru Taira | Win | B+R | 6.5 | 2718 | -1 | 
+| 2011-08-11 | 第37期名人戦予選 | Hikosaka Naoto | Matsuoka Hideki | Win | B+2.5 | 6.5 | 2719 | 52 | 
+| 2011-07-28 | 第53期王冠戦予選 | Hikosaka Naoto | Nakao Jungo | Win | B+7.5 | 6.5 | 2667 | 0 | 
+| 2011-07-21 | 第60期王座戦予選 | Ishii Kunio | Hikosaka Naoto | Win | W+R | 6.5 | 2667 | -10 | 
+| 2011-07-14 | 第37期名人戦予選 | Ishii Kunio | Hikosaka Naoto | Win | W+5.5 | 6.5 | 2677 | -21 | 
+| 2011-07-07 | 第67期本因坊戦予選 | Hikosaka Naoto | Yoda Norimoto | Lose | W+0.5 | 6.5 | 2698 | -151 | 
+| 2011-06-23 | 第37期名人戦予選 | Hikosaka Naoto | Kitano Ryo | Win | B+R | 6.5 | 2849 | -91 | 
+| 2011-05-19 | 第67期本因坊戦予選 | Hikosaka Naoto | So Yokoku | Win | B+R | 6.5 | 2940 | 29 | 
+| 2011-03-10 | 第67期本因坊戦予選 | Matsuoka Hideki | Hikosaka Naoto | Win | W+R | 6.5 | 2911 | 30 | 
+| 2011-02-24 | 第37期天元戦本戦1回戦 | Hikosaka Naoto | Komatsu Hideki | Lose | W+R | 6.5 | 2881 | 21 | 
+| 2011-02-10 | 第50期十段戦予選 | Nakano Hironari | Hikosaka Naoto | Lose | B+R | 6.5 | 2860 | -60 | 
+| 2011-01-27 | 第67期本因坊戦予選 | Goto Shungo | Hikosaka Naoto | Win | W+1.5 | 6.5 | 2920 | 106 | 
+| 2011-01-13 | 第50期十段戦予選 | Kato Yuuki | Hikosaka Naoto | Win | W+R | 6.5 | 2814 | 70 | 
+| 2010-12-23 | 第59期王座戦予選 | Hikosaka Naoto | Sasaka Shiro | Lose | W+0.5 | 6.5 | 2744 | 10 | 
+| 2010-12-16 | 第36期棋聖戦予選 | Iguchi Hideichiro | Hikosaka Naoto | Lose | B+R | 6.5 | 2734 | -23 | 
+| 2010-12-02 | 第67期本因坊戦予選 | Hikosaka Naoto | Ueki Yoshio | Win | B+6.5 | 6.5 | 2757 | 9 | 
+| 2010-11-25 | 第59期王座戦予選 | Hane Yasumasa | Hikosaka Naoto | Win | W+R | 6.5 | 2748 | 6 | 
+| 2010-11-18 | 第37期天元戦予選 | Hikosaka Naoto | Shida Tatsuya | Win | B+4.5 | 6.5 | 2742 | 76 | 
+| 2010-11-11 | 第36期棋聖戦予選 | Hikosaka Naoto | Kiwada Kazuomi | Win | B+R | 6.5 | 2666 | -48 | 
+| 2010-11-04 | 第36期碁聖戦本戦1回戦 | Yamashita Keigo | Hikosaka Naoto | Lose | B+R | 6.5 | 2714 | -9 | 
+| 2010-10-28 | 第52期王冠戦予選 | Hane Yasumasa | Hikosaka Naoto | Lose | B+R | 6.5 | 2723 | 84 | 
+| 2010-09-30 | 第37期天元戦予選 | Hikosaka Naoto | Kato Yuuki | Win | B+0.5 | 6.5 | 2639 | 0 | 
+| 2010-09-23 | 第36期碁聖戦予選 | Yamada Kimio | Hikosaka Naoto | Win | W+R | 6.5 | 2639 | 46 | 
+| 2010-08-26 | 第36期碁聖戦予選 | Matsuoka Hideki | Hikosaka Naoto | Win | W+2.5 | 6.5 | 2593 | -22 | 
+| 2010-08-12 | 第36期名人戦予選 | Kobayashi Satoru | Hikosaka Naoto | Lose | B+3.5 | 6.5 | 2615 | -56 | 
+| 2010-08-07 | 第6回大和証券杯ネット囲碁オープン1回戦 | Hikosaka Naoto | O Rissei | Lose | W+R | 6.5 | 2671 | 23 | 
+| 2010-06-10 | 第36期名人戦予選 | Yamashiro Hiroshi | Hikosaka Naoto | Win | W+7.5 | 6.5 | 2648 | 152 | 
+| 2010-05-06 | 第17期阿含・桐山杯全日本早碁オープン戦予選 | Mimura Tomoyasu | Hikosaka Naoto | Lose | B+R | 6.5 | 2496 | -48 | 
+| 2010-04-29 | 第49期十段戦予選 | Anzai Nobuaki | Hikosaka Naoto | Lose | B+R | 6.5 | 2544 | -19 | 
+| 2010-04-15 | 第36期名人戦予選 | Hikosaka Naoto | Takei Takashi | Win | B+R | 6.5 | 2563 | 11 | 
+| 2010-02-11 | 第35期棋聖戦予選 | Hikosaka Naoto | Ryu Shikun | Lose | W+R | 6.5 | 2552 | 55 | 
+| 2010-01-07 | 第58期王座戦予選 | Seto Taiki | Hikosaka Naoto | Lose | B+3.5 | 6.5 | 2497 | -230 | 
+| 2009-11-19 | 第36期天元戦予選 | Hikosaka Naoto | Iyama Yuta | Lose | W+R | 6.5 | 2727 | -43 | 
+| 2009-11-05 | 第35期棋聖戦予選 | Hikosaka Naoto | Ishida Atsushi | Win | B+4.5 | 6.5 | 2770 | 196 | 
+| 2009-09-17 | 第36期天元戦予選 | Hikosaka Naoto | Yamashiro Hiroshi | Win | B+2.5 | 6.5 | 2574 | 57 | 
+| 2009-08-27 | 第48期十段戦敗者復活戦2回戦 | Hikosaka Naoto | Yamashita Keigo | Lose | W+R | 6.5 | 2517 | 46 | 
+| 2009-07-16 | 第48期十段戦敗者復活戦1回戦 | Iyama Yuta | Hikosaka Naoto | Win | W+R | 6.5 | 2471 | 90 | 
+| 2009-06-27 | 第5回大和証券杯ネット囲碁オープン1回戦 | Cho Sonjin | Hikosaka Naoto | Lose | B+3.5 | 6.5 | 2381 | -8 | 
+| 2009-06-18 | 第35期名人戦予選 | Hikosaka Naoto | Takei Takashi | Lose | W+1.5 | 6.5 | 2389 | -11 | 
+| 2009-06-11 | 第35期天元戦本戦2回戦 | Yukawa Mitsuhisa | Hikosaka Naoto | Lose | B+1.5 | 6.5 | 2400 | -32 | 
+| 2009-05-28 | 第48期十段戦本戦1回戦 | Hikosaka Naoto | Shuto Shun | Lose | W+R | 6.5 | 2432 | -86 | 
+| 2009-05-11 | 第5回大和証券杯ネット囲碁オープン予選 | Yo Kagen | Hikosaka Naoto | Win | W+0.5 | 6.5 | 2518 | 140 | 
+| 2009-03-26 | 第35期天元戦本戦1回戦 | Yamada Kimio | Hikosaka Naoto | Win | W+R | 6.5 | 2378 | 119 | 
+| 2009-03-12 | 第48期十段戦予選 | Hikosaka Naoto | Rin Shien | Win | B+R | 6.5 | 2259 | 33 | 
+| 2009-02-19 | 第34期棋聖戦予選 | Hikosaka Naoto | Kataoka Satoshi | Lose | W+R | 6.5 | 2226 | -40 | 
+| 2009-02-09 | 第2期幽玄杯精鋭リーグ戦 | Tajiri Yuto | Hikosaka Naoto | Win | W+2.5 | 6.5 | 2266 | 21 | 
+| 2009-02-02 | 第2期幽玄杯精鋭リーグ戦 | Terayama Rei | Hikosaka Naoto | Lose | B+R | 6.5 | 2245 | -219 | 
+| 2009-01-19 | 第2期幽玄杯精鋭リーグ戦 | Hikosaka Naoto | Mukai Kaori | Lose | W+0.5 | 6.5 | 2464 | -151 | 
+| 2008-12-01 | 第2期幽玄杯精鋭リーグ戦 | Uchida Shuhei | Hikosaka Naoto | Lose | B+1.5 | 6.5 | 2615 | 270 | 
+| 2008-11-27 | 第57期王座戦予選 | Shida Tatsuya | Hikosaka Naoto | Lose | B+0.5 | 6.5 | 2345 | -53 | 
+| 2008-11-20 | 第48期十段戦予選 | Hikosaka Naoto | Iwata Tatsuaki | Win | B+R | 6.5 | 2398 | -553 | 
+| 2008-10-27 | 第2期幽玄杯精鋭リーグ戦 | Mannami Nao | Hikosaka Naoto | Lose | B+R | 6.5 | 2951 | 40 | 
+| 2008-10-05 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Hikosaka Naoto | Cho Riyu | Lose | W+0.5 | 6.5 | 2911 | -25 | 
+| 2008-08-23 | 第4期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Gu Li | Hikosaka Naoto | Lose | B+R | 6.5 | 2936 | 309 | 
+| 2008-08-11 | 第34期碁聖戦予選 | Iyama Yuta | Hikosaka Naoto | Lose | B+R | 6.5 | 2627 | -22 | 
+| 2008-07-19 | 第4回大和証券杯ネット囲碁オープン1回戦 | Hikosaka Naoto | Kono Rin | Lose | W+R | 6.5 | 2649 | -27 | 
+| 2008-07-10 | 第64期本因坊戦予選 | Hikosaka Naoto | Nakaonoda Tomomi | Lose | W+R | 6.5 | 2676 | -28 | 
+| 2008-06-28 | 第28期NECカップ囲碁トーナメント戦1回戦 | Hikosaka Naoto | Ko Iso | Lose | W+R | 6.5 | 2704 | -40 | 
+| 2008-05-19 | 第4回大和証券杯ネット囲碁オープン予選 | Hikosaka Naoto | Cho Riyu | Win | B+2.5 | 6.5 | 2744 | 10 | 
+| 2008-05-08 | 第34期天元戦本戦2回戦 | Komatsu Hideki | Hikosaka Naoto | Lose | B+R | 6.5 | 2734 | -37 | 
+| 2008-04-28 | 第2期幽玄杯精鋭リーグ戦 | Hikosaka Naoto | Mukai Chiaki | Lose | W+0.5 | 6.5 | 2771 | 192 | 
+| 2008-04-03 | 第47期十段戦予選 | O Rissei | Hikosaka Naoto | Lose | B+R | 6.5 | 2579 | 10 | 
+| 2008-03-13 | 第33期碁聖戦本戦3回戦 | Hikosaka Naoto | Yamada Kimio | Lose | W+R | 6.5 | 2569 | -59 | 
+| 2008-02-28 | 第56期王座戦予選 | Hane Naoki | Hikosaka Naoto | Lose | B+R | 6.5 | 2628 | -29 | 
+| 2008-02-21 | 第4期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Hikosaka Naoto | Rin Kaiho | Win | B+R | 6.5 | 2657 | 4 | 
+| 2008-02-11 | 第1期幽玄杯精鋭リーグ戦 | Hikosaka Naoto | Cho Chien | Win | B+R | 6.5 | 2653 | 24 | 
+| 2008-01-31 | 第33期碁聖戦本戦2回戦 | Hikosaka Naoto | Hane Naoki | Win | B+1.5 | 6.5 | 2629 | 56 | 
+| 2008-01-28 | 第1期幽玄杯精鋭リーグ戦 | Hikosaka Naoto | Uchida Shuhei | Win | B+0.5 | 6.5 | 2573 | 40 | 
+| 2008-01-21 | 第1期幽玄杯精鋭リーグ戦 | Hikosaka Naoto | O Rissei | Lose | W+R | 6.5 | 2533 | -35 | 
+| 2008-01-17 | 第56期王座戦予選 | Hikosaka Naoto | O Meien | Win | B+R | 6.5 | 2568 | 36 | 
+| 2008-01-14 | 第1期幽玄杯精鋭リーグ戦 | Hikosaka Naoto | Mimura Tomoyasu | Win | B+4.5 | 6.5 | 2532 | 80 | 
+| 2008-01-10 | 第34期天元戦本戦1回戦 | Ishida Yoshio | Hikosaka Naoto | Win | W+8.5 | 6.5 | 2452 | 74 | 
+| 2007-12-10 | 第1期幽玄杯精鋭リーグ戦 | Hikosaka Naoto | Mochizuki Kenichi | Lose | W+R | 6.5 | 2378 | -25 | 
+| 2007-12-03 | 第1期幽玄杯精鋭リーグ戦 | Ohashi Naruya | Hikosaka Naoto | Win | W+R | 6.5 | 2403 | -16 | 
+| 2007-11-22 | 第33期碁聖戦本戦1回戦 | Hikosaka Naoto | Kim Sujun | Win | B+2.5 | 6.5 | 2419 | -370 | 
+| 2007-08-07 | 第3回大和証券杯ネット囲碁オープン予選 | Hikosaka Naoto | Kanazawa Hideo | Lose | W+R | 6.5 | 2789 | -148 | 
+| 2007-08-02 | 第32期名人戦リーグ | Hikosaka Naoto | Yoda Norimoto | Win | B+0.5 | 6.5 | 2937 | 25 | 
+| 2007-06-07 | 第32期名人戦リーグ | Hikosaka Naoto | Ko Iso | Lose | W+1.5 | 6.5 | 2912 | -35 | 
+| 2007-05-03 | 第32期名人戦リーグ | Hikosaka Naoto | Yamashita Keigo | Win | B+R | 6.5 | 2947 | 79 | 
+| 2007-04-12 | 第32期名人戦リーグ | Sakai Hideyuki | Hikosaka Naoto | Lose | B+8.5 | 6.5 | 2868 | 158 | 
+| 2007-03-01 | 第32期名人戦リーグ | Yamada Kimio | Hikosaka Naoto | Win | W+R | 6.5 | 2710 | 143 | 
+| 2007-02-01 | 第32期名人戦リーグ | Cho U | Hikosaka Naoto | Lose | B+1.5 | 6.5 | 2567 | 37 | 
+| 2007-01-11 | 第32期名人戦リーグ | Mimura Tomoyasu | Hikosaka Naoto | Lose | B+1.5 | 6.5 | 2530 | 0 | 
+| 2006-12-21 | 第20回世界囲碁選手権富士通杯国内予選 | Yoda Norimoto | Hikosaka Naoto | Lose | B+R | 6.5 | 2530 | -18 | 
+| 2006-12-14 | 第32期名人戦リーグ | Hikosaka Naoto | Kobayashi Satoru | Lose | W+R | 6.5 | 2548 | 34 | 
+| 2006-12-07 | 第33期天元戦本戦0回戦 | Ogaki Yusaku | Hikosaka Naoto | Lose | B+R | 6.5 | 2514 | -81 | 
+| 2006-10-26 | 第32期名人戦予選 | Hikosaka Naoto | Yamada Noriyoshi | Win | B+0.5 | 6.5 | 2595 | -96 | 
+| 2006-10-05 | 第32期名人戦予選 | Takemiya Masaki | Hikosaka Naoto | Win | W+8.5 | 6.5 | 2691 | 197 | 
+| 2006-08-26 | 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Hikosaka Naoto | Kong Jie | Lose | W+R | 6.5 | 2494 | -324 | 
+| 2006-06-15 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Hikosaka Naoto | Kudo Norio | Win | B+9.5 | 6.5 | 2818 | 118 | 
+| 2006-04-06 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | O Rissei | Hikosaka Naoto | Win | W+2.5 | 6.5 | 2700 | 2700 | 
+| 2006-03-02 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Hikosaka Naoto | Nakano Hironari | Win | B+R | 6.5 | missing | 0 | 
+| 2006-02-16 | 第45期十段戦予選 | Hikosaka Naoto | Kobayashi Koichi | Lose | W+7.5 | 6.5 | missing | 0 | 
+| 2006-01-26 | 第31期棋聖戦予選 | Hikosaka Naoto | Cho U | Lose | W+R | 6.5 | missing | 0 | 
+| 2005-12-08 | 第31期碁聖戦本戦1回戦 | Hikosaka Naoto | Takemiya Masaki | Lose | W+R | 6.5 | missing | -2772 | 
+| 2005-09-15 | 第44期十段戦敗者復活戦2回戦 | Kobayashi Satoru | Hikosaka Naoto | Lose | B+0.5 | 6.5 | 2772 | -226 | 
+| 2005-07-28 | 第44期十段戦本戦2回戦 | Yamashita Keigo | Hikosaka Naoto | Lose | B+R | 6.5 | 2998 | 284 | 
+| 2005-05-19 | 第44期十段戦本戦1回戦 | Ishikura Noboru | Hikosaka Naoto | Win | W+R | 6.5 | 2714 | -123 | 
+| 2004-11-04 | 第43期十段戦敗者復活戦3回戦 | Takao Shinji | Hikosaka Naoto | Lose | B+R | 6.5 | 2837 | -166 | 
+| 2004-10-14 | 第43期十段戦本戦3回戦 | Hikosaka Naoto | Cho Chikun | Lose | W+2.5 | 6.5 | 3003 | -63 | 
+| 2004-08-21 | 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Hikosaka Naoto | Choi Cheolhan | Lose | W+2.5 | 6.5 | 3066 | -10 | 
+| 2004-08-12 | 第43期十段戦本戦2回戦 | Hikosaka Naoto | Cho U | Win | B+R | 6.5 | 3076 | 86 | 
+| 2004-06-03 | 第30期天元戦本戦2回戦 | Takao Shinji | Hikosaka Naoto | Lose | B+6.5 | 6.5 | 2990 | 38 | 
+| 2004-05-27 | 第43期十段戦本戦1回戦 | Hikosaka Naoto | Suzuki Yoshimichi | Win | B+R | 6.5 | 2952 | -176 | 
+| 2004-04-08 | 第43期十段戦予選 | Hikosaka Naoto | Hane Naoki | Win | B+R | 6.5 | 3128 | 264 | 
+| 2004-02-19 | 第29期碁聖戦本戦2回戦 | Yuki Satoshi | Hikosaka Naoto | Lose | B+R | 6.5 | 2864 | -47 | 
+| 2004-02-05 | 第30期天元戦本戦1回戦 | Kobayashi Koichi | Hikosaka Naoto | Win | W+2.5 | 6.5 | 2911 | 73 | 
+| 2004-01-08 | 第29期碁聖戦本戦1回戦 | Hikosaka Naoto | Otake Hideo | Win | B+R | 6.5 | 2838 | 2838 | 
+| 2003-11-10 | 第44期王冠戦挑戦手合一番勝負 | Hikosaka Naoto | Hane Naoki | Lose | W+3.5 | 6.5 | missing | 0 | 
+| 2003-05-30 | 第23期NECカップ囲碁トーナメント戦1回戦 | Mimura Tomoyasu | Hikosaka Naoto | Lose | B+R | 6.5 | missing | 0 | 
+| 2001-08-29 | 第6期三星杯1回戦 | Lee Changho | Hikosaka Naoto | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-08-30 | 第5期三星杯1回戦 | Zhou Heyang | Hikosaka Naoto | Lose | B+1.5 | 6.5 | missing | 0 | 
+| 2000-06-15 | 第5回LG杯世界棋王戦2回戦 | Hikosaka Naoto | Lee Changho | Lose | W+R | 6.5 | missing | 0 | 
+| 2000-06-13 | 第5回LG杯世界棋王戦1回戦 |  | Hikosaka Naoto | Win | W+R | 6.5 | missing | 0 | 
+| 1999-10-28 | 第4期三星杯準決勝 | Cho Sonjin | Hikosaka Naoto | Lose | B+R | 6.5 | missing | 0 | 
+| 1999-10-06 | 第4期三星杯3回戦 | Hikosaka Naoto | Kang Jiseong | Win | B+R | 6.5 | missing | 0 | 
+| 1999-09-09 | 第4期三星杯2回戦 | An Joyeong | Hikosaka Naoto | Win | W+0.5 | 6.5 | missing | 0 | 
+| 1999-09-07 | 第4期三星杯1回戦 | Hikosaka Naoto | Jeong Daesang | Win | B+1.5 | 6.5 | missing | 0 | 
+| 1999-06-17 | 第4回LG杯世界棋王戦2回戦 | Hikosaka Naoto | Ma Xiaochun | Lose | W+R | 6.5 | missing | 0 | 
+| 1999-06-15 | 第4回LG杯世界棋王戦1回戦 | Hikosaka Naoto | Choi Kyubyeong | Win | B+2.5 | 6.5 | missing | missing |
 
 
 

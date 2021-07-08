@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-08 | 第46期棋聖戦Cリーグ | Ishida Yoshio | Mizokami Tomochika | Lose | W+12.5 | 6.5 | 2824 | -25 | 
+| 2021-07-01 | 第47期碁聖戦予選 | Aoki Kikuyo | Ishida Yoshio | Lose | B+5.5 | 6.5 | 2849 | -11 | 
+| 2021-06-21 | 第70期王座戦予選 | Hagiya Kazuhiro | Ishida Yoshio | Win | W+R | 6.5 | 2860 | -25 | 
 | 2021-06-17 | 第46期棋聖戦Cリーグ | Yuki Satoshi | Ishida Yoshio | Lose | B+7.5 | 6.5 | 2885 | -111 | 
 | 2021-06-10 | 第47期名人戦予選 | Ishida Yoshio | Kobayashi Izumi | Win | B+R | 6.5 | 2996 | 39 | 
 | 2021-05-31 | 第46期棋聖戦Cリーグ | Ishida Yoshio | Abe Yoshiki | Win | B+1.5 | 6.5 | 2957 | 75 | 

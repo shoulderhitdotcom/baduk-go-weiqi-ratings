@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-08 | 第46期棋聖戦Cリーグ | Numadate Sakiya | Fukuoka Kotaro | Win | B+1.5 | 6.5 | 3074 | 121 | 
 | 2021-06-24 | 第46期棋聖戦Cリーグ | Fujisawa Rina | Numadate Sakiya | Win | W+R | 6.5 | 2953 | 2953 | 
 | 2021-06-10 | 第77期本因坊戦予選 | Suzuki Ayumi | Numadate Sakiya | Lose | B+R | 6.5 | missing | -2824 | 
 | 2021-01-14 | 第69期王座戦予選 | Numadate Sakiya | O Meien | Lose | W+4.5 | 6.5 | 2824 | 87 | 

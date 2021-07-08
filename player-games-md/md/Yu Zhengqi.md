@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-08 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Yamashita Keigo | Yu Zhengqi | Lose | B+0.5 | 6.5 | 3269 | -28 | 
 | 2021-06-17 | 第46期名人戦リーグ | Yu Zhengqi | Shibano Toramaru | Lose | W+3.5 | 6.5 | 3297 | 4 | 
 | 2021-06-10 | 第46期棋聖戦Sリーグ | Kono Rin | Yu Zhengqi | Win | W+R | 6.5 | 3293 | 6 | 
 | 2021-06-03 | 第77期本因坊戦予選 | Kobayashi Satoru | Yu Zhengqi | Win | W+1.5 | 6.5 | 3287 | 7 | 

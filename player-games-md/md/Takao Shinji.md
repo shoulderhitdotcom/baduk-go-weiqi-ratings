@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-08 | 第69期王座戦2回戦 | Takao Shinji | Ichiriki Ryo | Lose | W+R | 6.5 | 3177 | -40 | 
 | 2021-06-17 | 第46期棋聖戦Sリーグ | Takao Shinji | Yamashita Keigo | Win | B+3.5 | 6.5 | 3217 | 83 | 
 | 2021-05-31 | 第46期棋聖戦Sリーグ | Yu Zhengqi | Takao Shinji | Lose | B+R | 6.5 | 3134 | -8 | 
 | 2021-04-29 | 第77期本因坊戦予選 | Kudo Norio | Takao Shinji | Win | W+13.5 | 6.5 | 3142 | -10 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-08 | 第7回韓国女子囲碁リーグ | Kim Dayoung |  | Lose | W+R | 6.5 | 2884 | -37 | 
+| 2021-07-02 | 第7回韓国女子囲碁リーグ |  | Kim Dayoung | Win | W+R | 6.5 | 2921 | 15 | 
 | 2021-07-01 | 第1回IBK企業銀行杯女子囲碁マスターズ1回戦 | Kim Dayoung |  | Win | B+R | 6.5 | 2906 | 18 | 
 | 2021-06-25 | 第7回韓国女子囲碁リーグ | Lee Minjin | Kim Dayoung | Win | W+9.5 | 6.5 | 2888 | 22 | 
 | 2021-06-20 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Park Jiyeon | Win | B+R | 6.5 | 2866 | -3 | 

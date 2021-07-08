@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-07-01 | 第77期本因坊戦予選 | Hirata Tomoya | Yamashita Keigo | Win | W+R | 6.5 | 3196 | -11 | 
+| 2021-07-08 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Yamashita Keigo | Yu Zhengqi | Win | B+0.5 | 6.5 | 3217 | 10 | 
 | 2021-07-01 | 第77期本因坊戦予選 | Hirata Tomoya | Yamashita Keigo | Win | W+R | 6.5 | 3207 | -31 | 
 | 2021-06-17 | 第46期棋聖戦Sリーグ | Takao Shinji | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3238 | -1 | 
 | 2021-06-10 | 第46期名人戦リーグ  | Yamashita Keigo | Hsu Chiayuan | Lose | W+4.5 | 6.5 | 3239 | -8 | 

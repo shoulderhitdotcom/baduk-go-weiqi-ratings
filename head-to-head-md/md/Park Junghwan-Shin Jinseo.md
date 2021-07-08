@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Junghwan vs Shin Jinseo** | **Park Junghwan streak** | **Shin Jinseo streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-07-06 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第2局 | Shin Jinseo | Park Junghwan | B+R | 6.5 | 0:1 | 0 | 1 | 
+| 2021-07-08 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第3局 | Park Junghwan | Shin Jinseo | W+R | 6.5 | 0:1 | 0 | 1 | 
+| 2021-07-06 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第2局 | Shin Jinseo | Park Junghwan | B+R | 6.5 | 17:20 | 0 | 1 | 
 | 2021-07-05 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第1局 | Park Junghwan | Shin Jinseo | B+R | 6.5 | 17:19 | 2 | 0 | 
 | 2020-12-20 | 2020-2021韓国囲碁リーグ | Shin Jinseo | Park Junghwan | W+R | 6.5 | 16:19 | 1 | 0 | 
 | 2020-12-02 | 美しい宝島南海・申眞諝vs朴廷桓囲碁スーパーマッチ第7局 | Park Junghwan | Shin Jinseo | W+R | 6.5 | 15:19 | 0 | 12 | 

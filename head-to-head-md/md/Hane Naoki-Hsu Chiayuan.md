@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hane Naoki vs Hsu Chiayuan** | **Hane Naoki streak** | **Hsu Chiayuan streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-17 | 第46期棋聖戦Aリーグ | Hsu Chiayuan | Hane Naoki | W+R | 6.5 | 1:0 | 1 | 0 | 
+| 2021-07-08 | 第46期名人戦リーグ  | Hsu Chiayuan | Hane Naoki | W+R | 6.5 | 1:0 | 1 | 0 | 
+| 2021-06-17 | 第46期棋聖戦Aリーグ | Hsu Chiayuan | Hane Naoki | W+R | 6.5 | 7:8 | 2 | 0 | 
 | 2020-12-18 | 第76期本因坊戦リーグ | Hane Naoki | Hsu Chiayuan | B+R | 6.5 | 6:8 | 1 | 0 | 
 | 2020-11-12 | 第59期十段戦2回戦 | Hsu Chiayuan | Hane Naoki | B+R | 6.5 | 5:8 | 0 | 3 | 
 | 2020-02-20 | 第75期本因坊戦リーグ | Hsu Chiayuan | Hane Naoki | B+R | 6.5 | 5:7 | 0 | 2 | 

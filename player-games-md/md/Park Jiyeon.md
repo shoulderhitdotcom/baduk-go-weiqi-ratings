@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-07-01 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Cho Hyeyeon | Win | B+1.5 | 6.5 | 2846 | -22 | 
+| 2021-07-09 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Kim Miri | Lose | W+R | 6.5 | 2865 | -3 | 
 | 2021-07-01 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Cho Hyeyeon | Win | B+1.5 | 6.5 | 2868 | 25 | 
 | 2021-06-27 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Park Taehee | Lose | W+3.5 | 6.5 | 2843 | -56 | 
 | 2021-06-20 | 第7回韓国女子囲碁リーグ | Kim Dayoung | Park Jiyeon | Lose | B+R | 6.5 | 2899 | -31 | 

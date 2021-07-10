@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-07-01 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Cho Hyeyeon | Lose | B+1.5 | 6.5 | 3010 | 26 | 
+| 2021-07-10 | 第7回韓国女子囲碁リーグ |  | Cho Hyeyeon | Win | W+1.5 | 6.5 | 2984 | 16 | 
+| 2021-07-05 | 第15回GGオークション杯予選 | Cho Hyeyeon |  | Win | B+R | 6.5 | 2968 | -16 | 
 | 2021-07-01 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Cho Hyeyeon | Lose | B+1.5 | 6.5 | 2984 | -24 | 
 | 2021-06-30 | 第1回IBK企業銀行杯女子囲碁マスターズ1回戦 | Cho Hyeyeon |  | Win | B+R | 6.5 | 3008 | 23 | 
 | 2021-06-24 | 第7回韓国女子囲碁リーグ | Cho Hyeyeon |  | Win | B+R | 6.5 | 2985 | -18 | 

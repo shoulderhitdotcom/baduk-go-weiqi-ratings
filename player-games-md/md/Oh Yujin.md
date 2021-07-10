@@ -7,8 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-07-04 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Oh Yujin | Lose | B+R | 6.5 | 3091 | -21 | 
-| 2021-07-01 | 第1回IBK企業銀行杯女子囲碁マスターズ1回戦 | Oh Yujin |  | Win | B+7.5 | 6.5 | 3112 | 1 | 
+| 2021-07-10 | 第7回韓国女子囲碁リーグ | Kim Eunseon | Oh Yujin | Win | W+R | 6.5 | 3080 | -7 | 
+| 2021-07-07 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Oh Yujin | Oh Jeonga | Lose | W+R | 6.5 | 3087 | -4 | 
+| 2021-07-04 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Oh Yujin | Lose | B+R | 6.5 | 3091 | -20 | 
 | 2021-07-01 | 第1回IBK企業銀行杯女子囲碁マスターズ1回戦 | Oh Yujin |  | Win | B+7.5 | 6.5 | 3111 | 1 | 
 | 2021-06-27 | 第7回韓国女子囲碁リーグ | Oh Yujin |  | Win | B+0.5 | 6.5 | 3110 | 19 | 
 | 2021-06-19 | 第7回韓国女子囲碁リーグ | Oh Yujin | Kim Hyeoimin | Win | B+0.5 | 6.5 | 3091 | -8 | 

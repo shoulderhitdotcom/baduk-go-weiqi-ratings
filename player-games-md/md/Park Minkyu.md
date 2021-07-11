@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-07-11 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Minkyu | Weon Seongjin | Lose | W+R | 6.5 | 3403 | 11 | 
+| 2021-07-11 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Minkyu | Weon Seongjin | Lose | W+R | 6.5 | 3403 | -1 | 
+| 2021-07-11 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Minkyu | Weon Seongjin | Lose | W+R | 6.5 | 3404 | 12 | 
 | 2021-06-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Han Sanghoon | Park Minkyu | Lose | Void | 6.5 | 3392 | 0 | 
 | 2021-06-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選（再対局） | Han Sanghoon | Park Minkyu | Win | W+R | 6.5 | 3392 | 0 | 
 | 2021-06-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Han Sanghoon | Park Minkyu | Win | W+R | 6.5 | 3392 | 33 | 

@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-07-11 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Minkyu | Weon Seongjin | Win | W+R | 6.5 | 3657 | 10 | 
+| 2021-07-11 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Minkyu | Weon Seongjin | Win | W+R | 6.5 | 3657 | -1 | 
+| 2021-07-11 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Minkyu | Weon Seongjin | Win | W+R | 6.5 | 3658 | 11 | 
 | 2021-07-01 | 第26回GSカルテックス杯プロ棋戦3回戦 | Weon Seongjin | Park Junghwan | Win | B+0.5 | 6.5 | 3647 | 16 | 
 | 2021-06-19 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Weon Seongjin | Kim Jiseok | Lose | W+R | 6.5 | 3631 | -67 | 
 | 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Weon Seongjin | Ke Jie | Lose | W+0.5 | 6.5 | 3698 | -36 | 

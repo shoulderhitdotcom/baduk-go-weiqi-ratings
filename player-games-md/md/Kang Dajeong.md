@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-11 | 第7回韓国女子囲碁リーグ | Lee Minjin | Kang Dajeong | Lose | B+0.5 | 6.5 | 2784 | 16 | 
+| 2021-07-11 | 第7回韓国女子囲碁リーグ | Lee Minjin | Kang Dajeong | Lose | B+0.5 | 6.5 | 2768 | -6 | 
 | 2021-07-04 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Oh Yujin | Win | B+R | 6.5 | 2774 | 53 | 
 | 2021-06-26 | 第7回韓国女子囲碁リーグ | Kang Dajeong |  | Win | B+R | 6.5 | 2721 | 16 | 
 | 2021-06-18 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Cho Hyeyeon | Lose | W+0.5 | 6.5 | 2705 | 6 | 

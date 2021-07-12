@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-12 | 第69期王座戦2回戦 | Ida Atsushi | Hsu Chiayuan | Win | B+R | 6.5 | 3129 | 51 | 
 | 2021-06-24 | 第46期棋聖戦Cリーグ | Ida Atsushi | Fukuoka Kotaro | Lose | W+0.5 | 6.5 | 3078 | -22 | 
 | 2021-05-31 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kim Jiseok | Ida Atsushi | Lose | B+R | 6.5 | 3100 | -8 | 
 | 2021-05-20 | 第69期王座戦1回戦 | Ida Atsushi | Ohba Junya | Win | B+R | 6.5 | 3108 | 25 | 

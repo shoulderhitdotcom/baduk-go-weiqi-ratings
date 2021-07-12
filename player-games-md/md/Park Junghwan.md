@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-12 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第4局 | Shin Jinseo | Park Junghwan | Win | W+R | 6.5 | 3659 | 7 | 
 | 2021-07-10 | 第44期名人戦（韓国）勝者組決勝 | Byun Sangil | Park Junghwan | Lose | B+R | 6.5 | 3652 | -10 | 
 | 2021-07-08 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第3局 | Park Junghwan | Shin Jinseo | Lose | W+R | 6.5 | 3662 | 4 | 
 | 2021-07-06 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第2局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3658 | -2 | 

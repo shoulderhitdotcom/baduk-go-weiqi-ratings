@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-12 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Yuki Satoshi | Shibano Toramaru | Win | B+R | 6.5 | 3034 | 85 | 
+| 2021-07-08 | 第46期棋聖戦Cリーグ | Mochizuki Kenichi | Yuki Satoshi | Win | W+3.5 | 6.5 | 2949 | 22 | 
+| 2021-06-28 | 第69期王座戦1回戦 | Yuki Satoshi | Sun Zhe | Win | B+R | 6.5 | 2927 | -32 | 
+| 2021-06-21 | 第77期本因坊戦予選 | Ogata Masaki | Yuki Satoshi | Lose | B+5.5 | 6.5 | 2959 | 14 | 
 | 2021-06-17 | 第46期棋聖戦Cリーグ | Yuki Satoshi | Ishida Yoshio | Win | B+7.5 | 6.5 | 2945 | 3 | 
 | 2021-05-27 | 第46期棋聖戦Cリーグ | Yuki Satoshi | Cho Riyu | Win | B+9.5 | 6.5 | 2942 | 7 | 
 | 2021-05-13 | 第60期十段戦予選 | Yuki Satoshi | Nishi Takenobu | Win | B+2.5 | 6.5 | 2935 | -9 | 

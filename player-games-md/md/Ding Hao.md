@@ -7,10 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Tao Xinran | Ding Hao | Win | W+R | 7.5 | 3583 | 1 | 
+| 2021-07-12 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Ding Hao | Huang Yunsong | Win | B+R | 7.5 | 3589 | 7 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Tao Xinran | Ding Hao | Win | W+R | 7.5 | 3582 | 7 | 
-| 2021-06-11 | 第23回中国囲碁甲級リーグ | Ding Hao | Yang Dingxin | Win | B+R | 7.5 | 3575 | 27 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Gu Zihao | Ding Hao | Win | W+R | 7.5 | 3548 | -1 | 
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Ding Hao | Yang Dingxin | Win | B+R | 7.5 | 3575 | 26 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Gu Zihao | Ding Hao | Win | W+R | 7.5 | 3549 | 16 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Ding Hao | Mi Yuting | Win | B+R | 7.5 | 3533 | 6 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Ding Hao | Lose | B+¾ | 7.5 | 3527 | 1 | 

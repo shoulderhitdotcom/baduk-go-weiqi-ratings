@@ -7,9 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-12 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Ding Hao | Huang Yunsong | Lose | B+R | 7.5 | 3446 | -5 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Chen Yunong | Win | B+R | 7.5 | 3451 | 18 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Shen Peiran | Huang Yunsong | Win | W+1¼ | 7.5 | 3433 | 14 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Huang Yunsong | He Yuhan | Win | B+R | 7.5 | 3419 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Huang Yunsong | He Yuhan | Win | B+R | 7.5 | 3419 | 14 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Jin Yucheng | Lose | W+R | 7.5 | 3405 | -24 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Lian Xiao | Lose | W+R | 7.5 | 3429 | -18 | 

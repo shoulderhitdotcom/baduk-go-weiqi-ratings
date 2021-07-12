@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Kang Dongyun | Yang Dingxin | Win | W+R | 7.5 | 3601 | 1 | 
+| 2021-07-12 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Gu Zihao | Yang Dingxin | Win | W+R | 7.5 | 3614 | 14 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Kang Dongyun | Yang Dingxin | Win | W+R | 7.5 | 3600 | 0 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Ding Hao | Yang Dingxin | Lose | B+R | 7.5 | 3600 | 7 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Mi Yuting | Win | B+R | 7.5 | 3593 | 7 | 

@@ -5,1114 +5,1116 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第2期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Lee Changho | B+R | 2021-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0O9Y46i38SXONBzWfweaAw%3D%3D) | 
-| 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changho | Byun Sangil | W+2.5 | 2021-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AmGe7QJYcB%2BTJ4V6ey8Mdg%3D%3D) | 
-| 第26回LG杯韓国予選 | Heo Yongho | Lee Changho | B+R | 2021-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9ZP2XlDELmxY28KjvikTbg%3D%3D) | 
-| 第26回LG杯韓国予選 | missing | Lee Changho | W+R | 2021-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2e%2FqiL7xb7kJlIHYZf7yaQ%3D%3D) | 
-| 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changho | Kang Seungmin | W+R | 2021-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dybIJegxDzgZWlF1Nbfpag%3D%3D) | 
-| 第44期名人戦（韓国）敗者復活戦1回戦 | Hyun Yoobin | Lee Changho | B+R | 2021-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JUk7h%2B5Ec7A4jVEFRRJ3Pg%3D%3D) | 
-| 第2期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Lee Changho | W+R | 2021-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a7vJ4CcReqkGRsMlZcT6Vg%3D%3D) | 
-| 第44期名人戦（韓国）1回戦 | Lee Changho | Choi Cheolhan | W+R | 2021-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SSlRdfG2ci8OIM4jlEsxIw%3D%3D) | 
-| 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Lee Changho | B+R | 2021-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1kzB1CWZpK1ueyYigX0jyw%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Lee Changho | Choi Kyeongho | W+R | 2021-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oa6mUFJ7arfu3qAAd8fRrw%3D%3D) | 
-| 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changho | Lee Changseok | B+R | 2021-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T8DEVRj44sze8dw7KOcJAw%3D%3D) | 
-| 第44期名人戦（韓国）特別対局第2局 | Lee Changho | Seo Bongsoo | B+R | 2021-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JQQGvF6Ztn%2FHPtfl1XDBNA%3D%3D) | 
-| 第44期名人戦（韓国）特別対局第1局 | Lee Changho | Cho Hunhyun | B+R | 2021-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IHKd4lKUnjog%2FxMll1Yg5w%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Park Hamin | Lee Changho | W+R | 2021-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7G44IeTdfei3P3TEG6omOA%3D%3D) | 
-| 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Lee Changho | B+1.5 | 2021-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WLeBobfYkRZSvrNldWCo8A%3D%3D) | 
-| 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第2ラウンド | Chang Hao | Lee Changho | B+R | 2021-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KumTNKMgVJJ3HjJy9MCQcA%3D%3D) | 
-| 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第2ラウンド  | Yoda Norimoto | Lee Changho | B+1.5 | 2021-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LNx1rAE%2Bu0vdVK%2FzKxFlbQ%3D%3D) | 
-| 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第1ラウンド  | Lee Changho | Kobayashi Koichi | B+8.5 | 2021-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wgb47ieegee2zQ%2Bb5L2%2BtQ%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Lee Changho | Park Sangjin | W+5.5 | 2021-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vSHQ5LqlruTn0n0WyFHElQ%3D%3D) | 
-| 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第1ラウンド | Lee Changho | Nie Weiping | B+15.5 | 2021-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2KUaNjI5IE5UiebjnYCi5g%3D%3D) | 
-| 第22回マキシムコーヒー杯入神最強戦1回戦 | Byun Sangil | Lee Changho | B+R | 2021-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IOIqXuNDMeF5W4GLiSrVlQ%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Lee Changho | Kang Yootaek | W+R | 2021-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QU8rpVbR17qCv%2BVt2ncAtg%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Lee Changho | Park Yeonghun | W+R | 2020-12-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=67cV5HsWxwMiZIt00ma6xg%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Lee Changho | Park Geunho | W+0.5 | 2020-12-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b%2BtWqpZ7AxNbMt%2B1F8%2BA9A%3D%3D) | 
-| 2020中日韓聶衛平杯囲碁マスターズ3回戦 | Chang Hao | Lee Changho | B+¾ | 2020-12-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VA9OH5U0VsGYjXhJlaQdYw%3D%3D) | 
-| 2020中日韓聶衛平杯囲碁マスターズ2回戦  | Yamashita Keigo | Lee Changho | W+R | 2020-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ddjr6CfAD8NPrFx22FFKpg%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Heo Yongho | Lee Changho | B+R | 2020-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u0oqlBDmZ5uT0Z6xojfXVg%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Cho Hanseung | Lee Changho | W+R | 2020-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C4m%2FYI9hbmqWfWg%2FxmUCIQ%3D%3D) | 
-| 第26期GSカルテックス杯プロ棋戦予選 | Lee Changseok | Lee Changho | B+R | 2020-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fKqTF8uCRSXCUaWvR0pS0A%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Lee Changho | Choi Jeong | B+R | 2020-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RVcvIpa4pJvEGXfaYoVsSw%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Lee Changho | Kim Jiseok | W+5.5 | 2020-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v2WoBAzIAkSkk6zfKBoOVQ%3D%3D) | 
-| 第25回三星火災杯世界囲碁マスターズ1回戦 | Li Xuanhao | Lee Changho | B+6.5 | 2020-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GqcNlaB24SP8kKW%2FyJyZLg%3D%3D) | 
-| 第14回GGオークション杯女流対シニア連勝対抗戦第20局 | Lee Changho | Lee Minjin | W+0.5 | 2020-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=po4fc55r4QB8wSVGpm7avg%3D%3D) | 
-| 第22回農心杯韓国選抜戦 | Seol Hyunjun | Lee Changho | B+1.5 | 2020-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0TIzCN5%2Bz0MgR9H1dHXNww%3D%3D) | 
-| 第22回農心杯韓国選抜戦 | Lee Changho | Kim Myounghoon | B+0.5 | 2020-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A580%2Bvmos%2BCt4Hki0mVOOQ%3D%3D) | 
-| 第25回三星火災杯韓国シニア枠予選 | Lee Changho | Choi Kyubyeong | B+1.5 | 2020-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OXj5w4C4Mq9WagRLH057jw%3D%3D) | 
-| 第25回三星火災杯韓国シニア枠予選 | Seo Bongsoo | Lee Changho | W+R | 2020-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GKKRwaDKrX8cw64a4vxPwQ%3D%3D) | 
-| 第25回三星火災杯韓国シニア枠予選 | Lee Changho | missing | B+R | 2020-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R1gwGQmFpLJFHidxs2wtKQ%3D%3D) | 
-| 第25回LG杯韓国予選 | Na Hyun | Lee Changho | B+R | 2020-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8BgIGcEWXFee2NMB26%2B4%2Fw%3D%3D) | 
-| 第25回LG杯韓国予選 | Seo Joonghui | Lee Changho | W+R | 2020-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LWgtmbm7hJy3e0XwBfVbSw%3D%3D) | 
-| 第25回LG杯韓国予選 | Lee Changho | missing | B+R | 2020-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DziYHzMZ0DGtngKwObMzBQ%3D%3D) | 
-| 第25回LG杯韓国予選 | Lee Changho | Kim Jimyeong | B+R | 2020-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kXIVEFNsbMXV4UvPtb1OUw%3D%3D) | 
-| 第21回マキシムコーヒー杯入神最強戦1回戦 | Lee Changho | Cho Hanseung | W+R | 2020-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cTpHUCtb92e33ZmQPFXJzQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第16節第2試合第2局 | Kim Jiseok | Lee Changho | B+2.5 | 2020-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sxFMSO6zRmsMGB7yv48%2FdQ%3D%3D) | 
-| 第3期韓国竜星戦32強戦 | Lee Changho | Park Junghwan | W+R | 2020-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zgtQx3sCZ82zT43Bg5URDg%3D%3D) | 
-| 第3期韓国竜星戦予選決勝 | Lee Changho | missing | B+5.5 | 2020-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7FuwOr34a6tF%2FtcTrgEZsA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第13節第4試合第2局 | Kim Sedong | Lee Changho | B+R | 2019-12-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UVAz7ceLqa1phxYK4p79Sg%3D%3D) | 
-| 永子杯国際囲碁大師戦決勝 | Lee Changho | Takao Shinji | B+R | 2019-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1IHRq3RB%2BReBSUeonv%2BtuQ%3D%3D) | 
-| 永子杯国際囲碁大師戦準決勝 | Ma Xiaochun | Lee Changho | W+R | 2019-12-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cjx2khVLj0PqkugNuf74qQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第11節第1試合第2局 | Lee Changho | Lee Jihyun | W+R | 2019-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vC7Cp1PiBSh8Mqbe8WVQ4g%3D%3D) | 
-| 第25期GSカルテックス杯プロ棋戦予選 | Lee Changho | Choi Cheolhan | W+R | 2019-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UmM2tOBMFbUXeAB0eHL3VQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第10節第3試合第2局 | Lee Changho | Han Sanghoon | B+R | 2019-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zV%2B9d02Tvd8A9R0LraKQFw%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第9節第2試合第1局 | Park Junghwan | Lee Changho | B+R | 2019-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=syh5QZishFJfWU%2BWFrM%2B3A%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第8節第2試合第1局 | Wen Rubin | Lee Changho | B+R | 2019-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CuZxeOj11y9ETDz3cdiPwA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第7節第3試合第1局 | Lee Changho | missing | W+R | 2019-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RcsyKrD0ZZIJOhTv1KJfhA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第5節第4試合第1局 | missing | Lee Changho | W+R | 2019-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kM2zT6RRyC0KRLok0tpNpA%3D%3D) | 
-| 2019扁康杯中韓囲棋国手友誼戦第2戦 | Lee Changho | Chang Hao | B+R | 2019-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cVI4%2FuAoQZvof3u%2Ft6EIIQ%3D%3D) | 
-| 2019扁康杯中韓囲棋国手友誼戦第1戦 | Lee Changho | Gu Li | W+R | 2019-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sRFUAqxLgmDtPguKg2HgVg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第3節第2試合第2局 | Park Hamin | Lee Changho | W+1.5 | 2019-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7fObpLL%2FSHV%2BRDYDvP2BMw%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第2節第4試合第2局 | Lee Changho | Park Sangjin | W+0.5 | 2019-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FDFSDtTmuwdzAPj4LhzL0Q%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第1節第2試合第1局 | Cho Hanseung | Lee Changho | B+R | 2019-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bOZcE7htwQI7OLqGiDHlow%3D%3D) | 
-| 第6回国手山脈国際囲碁大会世界プロ最強戦16強戦 | Lee Changho | Chen Yaoye | W+R | 2019-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xQDsP5c9SvGvYQdCWAE%2BOw%3D%3D) | 
-| 第21回農心杯韓国選抜戦 | Lee Changho | Weon Seongjin | W+14.5 | 2019-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g1J%2FSxDWtzsTwS5RMzRQXA%3D%3D) | 
-| 第21回農心杯韓国選抜戦 | Lee Hyeonjun | Lee Changho | W+1.5 | 2019-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lcKaAkcH8rH3qJ1EslNHLQ%3D%3D) | 
-| 第21回農心杯韓国選抜戦 | Shen Zaiyi | Lee Changho | W+R | 2019-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cxDUuxskzkHMV0OnrlsHGQ%3D%3D) | 
-| 第21回農心杯韓国選抜戦 | Kim Jiseok | Lee Changho | W+R | 2019-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m7QVf9qSMyAB2t%2B5Ty%2Bu1A%3D%3D) | 
-| 第21回農心杯韓国選抜戦 | Lee Changho | missing | B+R | 2019-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YS5z4gAvIjGxR4N%2BNNbVBg%3D%3D) | 
-| 第24回三星火災杯統合予選2回戦 | Lee Changho | Peng Liyao | W+R | 2019-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C0qpywC6gIDU1C1i%2F1ttiA%3D%3D) | 
-| 2019年囲碁テレビ杯早碁戦予選1回戦 | Lee Changho | Park Jinyoung | B+2.5 | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0P8GKP9WJ8klcaOCLzGzwQ%3D%3D) | 
-| 第24回LG杯統合予選4回戦 | Lee Changho | Zhao Chenyu | W+1.5 | 2019-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YnOIhkMfEKpxaGbBDXBGLQ%3D%3D) | 
-| 第24回LG杯統合予選3回戦 | Lee Yungsoo | Lee Changho | W+R | 2019-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aOg1wlpJZfEBMQo8SujZfw%3D%3D) | 
-| 第24回LG杯統合予選2回戦 | Lee Changho | Seki Kotaro | B+R | 2019-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=le%2Fbc3vuzReIo8jolEe1oQ%3D%3D) | 
-| 第20回マキシムコーヒー杯入神最強戦3回戦 | Lee Changho | Lee Donghoon | W+R | 2019-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WxGp1lrSN%2BsnNcUSIOsZTg%3D%3D) | 
-| 第20回マキシムコーヒー杯入神最強戦2回戦 | Lee Changho | Mok Jinseok | B+R | 2019-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R5hio7uXl%2BWZVs7BtlUtxQ%3D%3D) | 
-| 第20回マキシムコーヒー杯入神最強戦1回戦 | Cho Hyeyeon | Lee Changho | W+R | 2019-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QM0V573tqAmRLCyNitx81g%3D%3D) | 
-| 2018年韓国囲碁リーグ優勝決定戦第2戦 | Lee Changho | Na Hyun | W+R | 2018-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sk4CeOgeNgbmazEGmn1tnQ%3D%3D) | 
-| 2018年韓国囲碁リーグ優勝決定戦第1戦 | Byun Sangil | Lee Changho | B+R | 2018-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=23zyqkRFhPbQK6oza9OqaQ%3D%3D) | 
-| 2018年韓国囲碁リーグプレーオフ第2戦 | Lee Changho | Park Hamin | W+2.5 | 2018-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OXxOMJockdzZKv3vzEt4Qg%3D%3D) | 
-| 2018年韓国囲碁リーグプレーオフ第1戦 | Park Hamin | Lee Changho | W+R | 2018-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SEtSVzrWrZFRpRj5BaaszA%3D%3D) | 
-| 2018樟樹・中国葯都杯中日韓囲碁大師戦第2局 | Yoda Norimoto | Lee Changho | B+¾ | 2018-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8ruGHoy0QvKYYDxBtiuHOw%3D%3D) | 
-| 2018年韓国囲碁リーグ第14節 | Lee Changho | Lee Jihyun | B+R | 2018-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TLYYrsLnaHlXShrwZWpU9w%3D%3D) | 
-| 2018年韓国囲碁リーグ第13節 | Lee Changho | Park Geunho | B+R | 2018-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ubTKcJEOArOKDIotyCAa7w%3D%3D) | 
-| 第1回天府杯世界囲碁選手権A組1回戦 | Xie Erhao | Lee Changho | B+R | 2018-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1haO%2B%2BUxjnjiH%2BUhdnR%2Bng%3D%3D) | 
-| 第12回GGオークション杯女流対シニア連勝対抗戦第17局 | Lee Changho | Oh Yujin | W+R | 2018-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=etv%2FbCDDs%2BejA2eVT1qFMQ%3D%3D) | 
-| 2018年韓国囲碁リーグ第10節 | Lee Changho | Lee Yeongkyu | W+R | 2018-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YF3c1tYZY8jBb3CVE39mmw%3D%3D) | 
-| 2018年韓国囲碁リーグ第8節 | Song Jihoon | Lee Changho | B+R | 2018-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F9vD8bymA4Iz2XFLLmLFyQ%3D%3D) | 
-| 2018年韓国囲碁リーグ第7節 | Lee Jihyun | Lee Changho | B+2.5 | 2018-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fVfJfVd%2Fr7GIdfijLh9wAg%3D%3D) | 
-| 2018年韓国囲碁リーグ第6節 | Kang Dongyun | Lee Changho | W+R | 2018-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W7q4ANKl8UX5Laox1IKTaw%3D%3D) | 
-| 弈決崆峒世界道教名山戦8強戦 | Chen Yaoye | Lee Changho | B+R | 2018-07-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Gekeh7D8gBHBKrmUY%2B3%2FQ%3D%3D) | 
-| 第20回農心杯韓国選抜戦 | Lee Changho | Byun Sangil | W+R | 2018-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ffkpjeBdfMvv1jgvCYLDMw%3D%3D) | 
-| 2018年韓国囲碁リーグ第4節 | Lee Changho | Kim Sedong | W+9.5 | 2018-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rB5lcMIkjzVl2QULzZga%2Fg%3D%3D) | 
-| 第20回農心杯韓国選抜戦 | Seol Hyunjun | Lee Changho | W+R | 2018-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aX4gSECXRFAI2mJ%2F6Ittyw%3D%3D) | 
-| 2018年韓国囲碁リーグ第3節 | Lee Changho | Lee Yeongkyu | W+R | 2018-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OtIoSl0REBRzGirR4FEKWg%3D%3D) | 
-| 2018年韓国囲碁リーグ第2節 | Na Hyun | Lee Changho | B+R | 2018-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TvhMVf2Xf8A5EdkgWn0TEg%3D%3D) | 
-| 2018年韓国囲碁リーグ第1節 | Weon Seongjin | Lee Changho | W+2.5 | 2018-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1bFSK%2BZ4slOqVHFahXAGHQ%3D%3D) | 
-| 第23回LG杯予選1回戦 | Fan Yin | Lee Changho | B+R | 2018-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5YYt4tRCyCZ9abx5hP6JtQ%3D%3D) | 
-| 第1回韓国竜星戦32強ダブルエリミネーションA3 | Ryu Minhyung | Lee Changho | B+1.5 | 2018-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=plopCFCAT%2F9jK3jnxFTTlg%3D%3D) | 
-| 第1回韓国竜星戦32強ダブルエリミネーションA1 | Kim Jiseok | Lee Changho | B+R | 2018-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BLeokcUc6xoSF63829y%2FOA%3D%3D) | 
-| 第19回マキシムコーヒー杯入神最強戦1回戦 | Lee Changho | Lee Sedol | W+R | 2018-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AlPZQ3azn6C4XA2n3kVtmQ%3D%3D) | 
-| 金立杯2018中韓リーグ優勝チーム対抗戦第2戦 | Tuo Jiaxi | Lee Changho | W+R | 2018-01-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E9hYYSUKKuZAHVQnEWVgLA%3D%3D) | 
-| 金立杯2018中韓リーグ優勝チーム対抗戦第1戦 | Han Yizhou | Lee Changho | W+R | 2018-01-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YMyFJmd9JAskSdw22rGByA%3D%3D) | 
-| 2017年韓国囲碁リーグ優勝決定戦第3戦 | Lee Changho | Yun Chanhee | B+R | 2017-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h9%2FlQ9WkbLvpcE86wBX9jA%3D%3D) | 
-| 2017年韓国囲碁リーグ優勝決定戦第2戦 | Yun Chanhee | Lee Changho | W+R | 2017-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sg6rLWlxEA7mtilEKVPCXQ%3D%3D) | 
-| 2017年韓国囲碁リーグ優勝決定戦第1戦 | Byun Sangil | Lee Changho | B+1.5 | 2017-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PJ8jOPhYCgopuZ%2Bn4dydAg%3D%3D) | 
-| 2017年韓国囲碁リーグ | Hong Seongji | Lee Changho | B+R | 2017-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0kJCYzaKpD1C1InmSsVA8A%3D%3D) | 
-| 2017年韓国囲碁リーグ | Kang Yootaek | Lee Changho | W+0.5 | 2017-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z6YSOmfjLdUPot2X2OnkVQ%3D%3D) | 
-| 2017年韓国囲碁リーグ | Lee Changho | Seol Hyunjun | W+R | 2017-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BPQkPLxvNyQiusV59NSNow%3D%3D) | 
-| 第11回GGオークション杯特別対局 | Lee Changho | Choi Jeong | B+R | 2017-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j%2Bcdx3t83GwpxXEqHYVlDw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Yun Junsang | Lee Changho | B+R | 2017-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aPha%2FJYNVN59Oxv8TTiUkg%3D%3D) | 
-| 2017年韓国囲碁リーグ | Lee Wonyoung | Lee Changho | W+R | 2017-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z0pNCfSDTDD7D4GTpm3h4g%3D%3D) | 
-| 第11回GGオークション杯女流対シニア連勝対抗戦第17戦 | Lee Changho | Cho Hyeyeon | W+0.5 | 2017-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MC5xKwewB59wWrvQC6q6aw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Lee Changho | Cho Hanseung | W+R | 2017-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jy5Fo4ZN01r9vyRp26dY%2Bg%3D%3D) | 
-| 2017年韓国囲碁リーグ | Lee Changseok | Lee Changho | B+1.5 | 2017-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YgE8TonKR11zRCeZ0NKDqg%3D%3D) | 
-| 2017年韓国囲碁リーグ | Lee Changho | Kim Junghyun | B+R | 2017-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9HZ9Q%2BfY2HHbActntGzh%2Fg%3D%3D) | 
-| 2017年韓国囲碁リーグ | Lee Changho | Lee Yeongkyu | B+R | 2017-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ei2W5TEMCPxfQLPquCS8PQ%3D%3D) | 
-| 2017年韓国囲碁リーグ | Song Jihoon | Lee Changho | W+R | 2017-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h%2FylY4FEDfA55s8iGtyfLw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Lee Changho | Weon Seongjin | W+2.5 | 2017-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zcVBTkfdNigyuKDSaIOp3A%3D%3D) | 
-| 第19回農心杯韓国選抜戦 | Lee Changho | Shin Jinseo | W+R | 2017-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0%2F8CNARoz%2BANZeNBMu1i0g%3D%3D) | 
-| 第19回農心杯韓国選抜戦 | Heo Yongho | Lee Changho | W+R | 2017-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=peSZ9TO3bzoAmCKAeqqC7w%3D%3D) | 
-| 第22回三星火災杯統合予選2回戦 | Lee Changho | Shin Minjun | W+R | 2017-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4J5uZ%2BFEX%2BEeKAYb%2BgLbaA%3D%3D) | 
-| 2017年韓国囲碁リーグ | Lee Changho | Lee Wonyoung | B+R | 2017-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M1DRIZIq7JXW7hsMo2PixQ%3D%3D) | 
-| 2017年韓国囲碁リーグ | Lee Sedol | Lee Changho | B+R | 2017-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5ttzlKTtSTZ8KGM%2FuMcgAw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Lee Changho | Heo Yongho | W+R | 2017-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XATkfmSGIra4kgSqKqtd1Q%3D%3D) | 
-| 元大証券杯韓国特別対局 | Lee Changho | Lee Sedol | B+7.5 | 2017-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sNAggVZNxEZC5A1Vhm6a5w%3D%3D) | 
-| 第22期LG杯世界予選3回戦 | missing | Lee Changho | B+R | 2017-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bc%2FwomxXE4TSPzVDj5SJBQ%3D%3D) | 
-| 第18回マキシムコーヒー杯入神最強戦3回戦 | Lee Changho | Park Junghwan | W+R | 2017-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8VYFWJIPFL6tQCmvkgB6UA%3D%3D) | 
-| 第18回マキシムコーヒー杯入神最強戦2回戦 | Lee Changho | Lee Sedol | B+R | 2017-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wkyNglfuCYvKEy78SyBx%2Bw%3D%3D) | 
-| 第18回マキシムコーヒー杯入神最強戦1回戦 | Lee Changho | Choi Kyubyeong | B+R | 2017-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wvgMHX1RKEKIOERwr4r%2Fug%3D%3D) | 
-| 2016年韓国囲碁リーグ | Park Junghwan | Lee Changho | B+R | 2016-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6ZcUkhwiXU4ra3S0jMhwLg%3D%3D) | 
-| 2016年韓国囲碁リーグ | Lee Changho | Kang Yootaek | W+R | 2016-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pZHLkVRBT1dpLOTG8DbNYQ%3D%3D) | 
-| 2016年韓国囲碁リーグ | Lee Taehyun | Lee Changho | B+R | 2016-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ciC5t3VVmyLiRB%2FPtvwujw%3D%3D) | 
-| 2016年韓国囲碁リーグ | Lee Changho | Song Jihoon | W+0.5 | 2016-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y%2F0G%2FtoPwF%2BzW33WN6chuw%3D%3D) | 
-| 2016年韓国囲碁リーグ | Lee Changho | Shin Minjun | W+5.5 | 2016-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B629HziIsfHJq%2BZ3gTUGJg%3D%3D) | 
-| 10期韓国GG拍売杯紳士淑女特別対局1 | Lee Changho | Choi Jeong | B+R | 2016-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l9HX4U0hpTiEIDgT2VleeQ%3D%3D) | 
-| 2016年韓国囲碁リーグ第14節 | Lee Changho | Choi Jeong | B+R | 2016-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j4A0xyQKLHW7zzJXcP5R2w%3D%3D) | 
-| 塩城東方集団杯中韓囲棋団体名人選手権戦3回戦 | Lee Changho | Chang Hao | W+R | 2016-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GFTZ8rd%2BSly4ewYmK7LkqA%3D%3D) | 
-| 塩城東方集団杯中韓囲棋団体名人選手権戦2回戦 | Ma Xiaochun | Lee Changho | W+R | 2016-09-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3OTnkWlLd%2FCMdZ5AYjWC1w%3D%3D) | 
-| 塩城東方集団杯中韓囲棋団体名人選手権戦1回戦 | Lee Changho | Nie Weiping | B+R | 2016-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E8sx46cUGX5C%2FhzaCxZhcA%3D%3D) | 
-| 2016年韓国囲碁リーグ第13節 | Lee Changho | Han Taehee | B+0.5 | 2016-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5I3BXfoZ3hVS3%2Fk%2FRJwB%2Bw%3D%3D) | 
-| 2016年韓国囲碁リーグ第12節 | Lee Changho | Kim Junghyun | W+R | 2016-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OfCe3WXOWEbomBQKhsTqMQ%3D%3D) | 
-| 2016年韓国囲碁リーグ第11節 | Lee Changho | Choi Cheolhan | W+R | 2016-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mxcWDQrqRrbp6q3P1d72aw%3D%3D) | 
-| 2016年韓国囲碁リーグ第10節 | Kang Yootaek | Lee Changho | B+R | 2016-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9xOH85aCdd7LLfAQ%2FEuSZA%3D%3D) | 
-| 2016年韓国囲碁リーグ第8節 | Lee Changho | Min Sangyoun | B+R | 2016-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I5wESZGLRCyus0uyGSc5Fg%3D%3D) | 
-| 2016年韓国囲碁リーグ第7節 | Heo Yongho | Lee Changho | W+R | 2016-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s2KSBxbvVebSXU4d8wumeA%3D%3D) | 
-| 第18回農心杯韓国選抜戦 | Lee Changho | Kang Jiseong | W+R | 2016-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VAokTDCz0TWbcbnvZgCr7A%3D%3D) | 
-| 第18回農心杯韓国選抜戦 | Lee Changho | Choi Jaeyoung | B+R | 2016-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S9s%2FfaMrsLTr1yQaqIfmuA%3D%3D) | 
-| 2016年韓国囲碁リーグ第6節 | Lee Sedol | Lee Changho | B+R | 2016-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fsG4wlyDOshG2dyT%2B4c8KQ%3D%3D) | 
-| 2016年韓国囲碁リーグ第5節 | Lee Changho | Lee Changseok | B+R | 2016-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9eu5rscIfpF5hYIv%2Bf5BwA%3D%3D) | 
-| 2016年韓国囲碁リーグ第4節 | Hong Minpyo | Lee Changho | W+1.5 | 2016-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y%2Fz%2BmuK%2FaxwMnsmYlCIkcw%3D%3D) | 
-| 2016年韓国囲碁リーグ第3節 | Kim Junghyun | Lee Changho | W+R | 2016-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RaphzXcNe5P0fC6m96kVGQ%3D%3D) | 
-| 2016年韓国囲碁リーグ第2節 | Ryu Suhang | Lee Changho | W+R | 2016-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HenZOQDYOwFrWvhpgZz2Kw%3D%3D) | 
-| 第35回KBS杯囲碁王戦2回戦 | Lee Changho | Mok Jinseok | W+R | 2016-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=btu8Ji2JritisxkdldbhFw%3D%3D) | 
-| 2016年韓国囲碁リーグ第1節 | Park Minkyu | Lee Changho | B+R | 2016-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nXwH4cceYO3V3uS%2BXm8Bhg%3D%3D) | 
-| 第17回マキシムコーヒー杯入神最強戦2回戦 | Lee Changho | Kang Dongyun | W+R | 2016-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9fEeyxoLbp3CnUaL3gKIMA%3D%3D) | 
-| 第17回マキシムコーヒー杯入神最強戦1回戦 | Lee Changho | Park Cheongsang | B+R | 2016-01-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8ab%2B9djxhjzH6H7ZjMEE5w%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ2回戦 | Tang Weixing | Lee Changho | B+1.5 | 2015-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AJpjtuIj4LM99oxZ5qe3Pw%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Daeyoung | Lee Changho | W+R | 2015-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=On5yMCnkRd7FyNa%2BxZblhg%3D%3D) | 
-| 2015年レッツランパーク杯オープントーナメント1回戦 | Shin Minjun | Lee Changho | B+R | 2015-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5BFZg0i%2B4W1Yl98vCUrCig%3D%3D) | 
-| 2015年韓国囲碁リーグ | Lee Changho | Lee Sedol | B+R | 2015-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gyqu7H9ulxWbledoDetQEg%3D%3D) | 
-| 第59期国手戦（韓国）2回戦 | Han Sanghoon | Lee Changho | B+R | 2015-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OVddTlJSEARd0btpooHC%2BA%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦D2 | Kim Dongho | Lee Changho | W+R | 2015-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UpVRLUTU7NlmJNr63jcrJw%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦D1 | Lee Changho | Lin Junyan | B+R | 2015-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R3DmGHuYl0STK3MvYVc1zw%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Jinsol | Lee Changho | W+R | 2015-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xyMZa4LtKAnC8XJOVdFVlA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Lee Changho | Park Geunho | B+R | 2015-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DR1tUP9EyNyELtbnXN55Ww%3D%3D) | 
-| 2015年韓国囲碁リーグ | Lee Changho | Paek Hongseok | B+R | 2015-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UYDImwne2TDtGgk2hLZgJQ%3D%3D) | 
-| 2015年韓国囲碁リーグ | Lee Jihyun | Lee Changho | W+R | 2015-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OlxKfV2YxcNcIK5xEHVkWg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Lee Donghoon | Lee Changho | B+R | 2015-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P%2BwarELZ4GR8NmqKk5I52g%3D%3D) | 
-| 2015年韓国囲碁リーグ | Lee Changho | missing | W+R | 2015-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TdsZ%2FrAX%2B%2F%2BE1q%2FIOCoM8g%3D%3D) | 
-| 第17回農心杯韓国選抜戦 | Lee Changho | Song Taekon | W+R | 2015-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vhqAcXo09hwrKCReLiE7Kw%3D%3D) | 
-| 2015年韓国囲碁リーグ | Lee Taehyun | Lee Changho | B+R | 2015-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F73dXFEWu0kv%2BgoKX4YrJA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Lee Changho | Kim Juho | W+2.5 | 2015-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wkzFpSx09Hy%2B7rC9wA%2BSJA%3D%3D) | 
-| 第59期国手戦（韓国）1回戦 | Park Yeonghun | Lee Changho | W+R | 2015-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WJPzW43WkKIYbalvixo1Zg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Jinsol | Lee Changho | W+R | 2015-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qenaKtPSZcqXIn1gc5tlUw%3D%3D) | 
-| 第20回LG杯朝鮮日報棋王戦1回戦 | Lin Junyan | Lee Changho | B+R | 2015-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lc%2Bn%2BBjonKU4qAaTwlKeug%3D%3D) | 
-| 2015年韓国囲碁リーグ | Lee Changho | An Joyeong | B+R | 2015-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=77ea5pe9Hdn6%2FUyEnlQJhQ%3D%3D) | 
-| 2015年韓国囲碁リーグ | Lee Changho | Paek Hongseok | W+1.5 | 2015-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hHfpI%2FefroYWbjh3LCL0IQ%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kang Seungmin | Lee Changho | W+R | 2015-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cd%2FXTg0r2IebT%2BRe8O2JJQ%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Junghwan | Lee Changho | B+R | 2015-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nY1kQpxuvDC11xiORbXDRw%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Jiseok | Lee Changho | B+R | 2015-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z%2BOQ7hlSeXfG0uo%2F0RlC4Q%3D%3D) | 
-| 第59期国手戦（韓国）予選 | Lee Changho | Na Hyun | B+R | 2015-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dXF2n0w6NO8q%2FykE%2FQS3CA%3D%3D) | 
-| 第16回マキシムコーヒー杯入神最強戦2回戦 | Lee Sedol | Lee Changho | B+R | 2015-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qtNFqYetsgviTdlAgD%2FXdg%3D%3D) | 
-| 第16回マキシムコーヒー杯入神最強戦1回戦 | Cho Hyeyeon | Lee Changho | W+R | 2014-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EwT90hJJK3fKOdkbGAXGVw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Lee Changho | Min Sangyoun | W+R | 2014-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zrNXHBQQqEzrwORkWz01vw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Lee Changho | Kim Myounghoon | W+R | 2014-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MGLoDR5atpQ0nuT7tFpIhQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Lee Changho | Ryu Suhang | B+R | 2014-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gc0I9wilazLVxXmA3Yj7vg%3D%3D) | 
-| 第10期物価情報杯プロ棋戦決勝トーナメント準決勝 | Na Hyun | Lee Changho | B+R | 2014-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sWKsd1%2BDOuC7gCO9BL0fiQ%3D%3D) | 
-| 第10期物価情報杯プロ棋戦決勝トーナメント1回戦 | Lee Changho | Park Junghwan | B+R | 2014-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vxG7c36l75MZDABrnyt8Lg%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kim Seongjae | Lee Changho | B+R | 2014-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CnDh%2F88p8l2InZgwmVOn%2BA%3D%3D) | 
-| 第19回三星火災杯世界囲碁マスターズ1回戦C3 | Lee Changho | Park Junghwan | W+R | 2014-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u7u%2F9QopeqDtNnzSBXXn5w%3D%3D) | 
-| 第19回三星火災杯世界囲碁マスターズ1回戦C2 | Shi Yue | Lee Changho | B+R | 2014-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mIwstS4oHsiDi%2BcnAeqZkQ%3D%3D) | 
-| 第19回三星火災杯世界囲碁マスターズ1回戦C1 | Lee Changho | Meng Tailing | B+T | 2014-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7RITvZjKMiskWhwqgHbPHA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kim Juho | Lee Changho | B+R | 2014-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CA%2F6S8neUE%2Fv4iukDQq9ig%3D%3D) | 
-| 第10期物価情報杯プロ棋戦リーグB | Lee Changho | An Sungjoon | B+R | 2014-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lzuY1oMQpiqOcz3nnlJ38A%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kim Jinhyu | Lee Changho | W+2.5 | 2014-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T9kA9Doel7ckWRgU%2B3%2FLng%3D%3D) | 
-| 2014年レッツランパーク杯オープントーナメント1回戦 | Lee Changho | Cho Insun | W+0.5 | 2014-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PMuCP3CnjzR2JYqWIiFx2g%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kim Sedong | Lee Changho | B+R | 2014-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XeKOzte1azyWT5fwbknXIg%3D%3D) | 
-| 第16回農心杯韓国選抜戦 | Lee Changho | Park Cheongsang | B+R | 2014-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ue%2FFKeQVg5l%2BT6w2daQtFg%3D%3D) | 
-| 第16回農心杯韓国選抜戦 | Shin Minjun | Lee Changho | W+R | 2014-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=71E%2FxfQC6Ej3fH1BQJlfWg%3D%3D) | 
-| 2014年韓国囲碁リーグ | Lee Changho | Kim Dongho | B+R | 2014-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RnELxKOOsKF78N%2FD7YHjEw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Lee Changho | Na Hyun | B+R | 2014-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Be2zoPm1CL6AjtApvcPNNg%3D%3D) | 
-| 2014年韓国囲碁リーグ | Jin Siyoung | Lee Changho | B+R | 2014-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RAu6DkURnP%2Bu0NJakGYR%2BQ%3D%3D) | 
-| 第10期物価情報杯プロ棋戦リーグB | Choi Cheolhan | Lee Changho | W+R | 2014-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HnFrzkGCFblj6h00qSCI6Q%3D%3D) | 
-| 2014年韓国囲碁リーグ | Lee Changho | An Joyeong | B+R | 2014-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WLKer%2FOj59E3485VR3j8cg%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kim Juho | Lee Changho | B+1.5 | 2014-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FxIqC8enZoU6oBc4uRJDIA%3D%3D) | 
-| 2014年中国囲碁乙級リーグ | Lee Changho | missing | B+R | 2014-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QjO7l4pi6h12iNklzL2SCQ%3D%3D) | 
-| 2014年中国囲碁乙級リーグ | Park Yeonghun | Lee Changho | B+R | 2014-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8ClAo2b3HAn%2Fj%2BI7ACFSng%3D%3D) | 
-| 2014年中国囲碁乙級リーグ | Lee Changho | Zhu Yuanhao | W+0.5 | 2014-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mBJpVsrxI3I3bslOJHGtlg%3D%3D) | 
-| 2014年中国囲碁乙級リーグ | Lee Changho | Liu Xing | W+R | 2014-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P9eQ3a0hzk0u2alo408Mng%3D%3D) | 
-| 2014年中国囲碁乙級リーグ | Wang Lei (s) | Lee Changho | W+R | 2014-04-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aZfFYh1YE8F%2Bc0Dsp9EyKQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Lee Changho | Lee Jihyun | W+1.5 | 2014-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lN6cBwVvG55b9%2BB3V5hCrQ%3D%3D) | 
-| 第58期国手戦（韓国）予選 | Kim Jinhyu | Lee Changho | B+R | 2014-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AM2LXlEBrjGCf8Kaut4RFg%3D%3D) | 
-| 第4期招商地産杯韓国選抜戦 | Byun Sangil | Lee Changho | B+R | 2014-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rxGI%2BdV1Ge0GQOT6OuhRTQ%3D%3D) | 
-| 第15回マキシムコーヒー杯入神最強戦2回戦 | Yun Junsang | Lee Changho | B+1.5 | 2014-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uI9rl11o8Xy4othj7GyOWQ%3D%3D) | 
-| 第32回KBS杯囲碁王戦敗者復活戦2回戦 | Lee Changho | Kang Jiseong | W+R | 2013-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i0tB0ACq07CTBqeuobn18g%3D%3D) | 
-| 第32回KBS杯囲碁王戦本戦3回戦 | Lee Changho | Park Yeonghun | W+4.5 | 2013-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9kueyGxH98zshkSm9xILvQ%3D%3D) | 
-| 2013年韓国囲碁リーグ | missing | Lee Changho | W+1.5 | 2013-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lCSTIdhKn50u31YXOsQYDQ%3D%3D) | 
-| 第4期Olleh杯オープン選手権準決勝 | Kim Jiseok | Lee Changho | B+R | 2013-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A%2Ba2bn%2FFfqyz1N%2BhGhoS5g%3D%3D) | 
-| 2013年韓国囲碁リーグ | Kim Seongjae | Lee Changho | W+R | 2013-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RJUQmns3AipfL3FVpirmJA%3D%3D) | 
-| 第4期Olleh杯オープン選手権準々決勝 | Kang Dongyun | Lee Changho | W+R | 2013-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tu7qkE%2FW1LS7BmkjhQbr9w%3D%3D) | 
-| 2013年韓国囲碁リーグ | Lee Changho | Lee Donghoon | B+R | 2013-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V4sIuRHwqNQattE9JG%2FFsA%3D%3D) | 
-| 第4期Olleh杯オープン選手権4回戦 | Yun Junsang | Lee Changho | W+R | 2013-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b5Ix%2F8Qy3m6O2oMimkr%2FeQ%3D%3D) | 
-| 2013年韓国囲碁リーグ | Lee Changho | Kim Junghyun | W+R | 2013-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Fa7Yb5dA5XdqLBy3YHiaw%3D%3D) | 
-| 第57期国手戦（韓国）1回戦 | Choi Cheolhan | Lee Changho | B+R | 2013-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iziN%2FdlkK3iqRwncJ0Qphw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Kang Dongyun | Lee Changho | B+0.5 | 2013-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6vvyI6w%2FRZ11HP6LVGjjIg%3D%3D) | 
-| 第4期Olleh杯オープン選手権3回戦 | Lee Changho | Lee Taehyun | B+R | 2013-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d4GFPMvO1Lzm%2BJcSRZsdlw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Byun Sangil | Lee Changho | B+R | 2013-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kHvNE0DjuKEoex4S%2FKqurA%3D%3D) | 
-| 2013年韓国囲碁リーグ | Cho Hanseung | Lee Changho | W+R | 2013-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hqNDfvxzm2RUPB4cgTKInw%3D%3D) | 
-| 第41期名人戦（韓国）1回戦 | Paek Hongseok | Lee Changho | B+R | 2013-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q5CxsnrJcH1Xp9sIz1%2BGhw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Hong Seongji | Lee Changho | B+R | 2013-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sib27sgBpRuXJdvp54lNjg%3D%3D) | 
-| 第9期物価情報杯プロ棋戦決勝トーナメント1回戦 | Lee Changho | An Sungjoon | W+R | 2013-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NlWQ7Z6atUc%2FzyS3zI1OKw%3D%3D) | 
-| 第15回農心杯韓国選抜戦 | Lee Changho | Kim Hyeongwoo | B+1.5 | 2013-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J8QVAdgdLCjZ3wsU%2F%2F8ibQ%3D%3D) | 
-| 第1回夢百合杯世界オープン戦1回戦 | Lee Changho | Lei Zhenkun | W+R | 2013-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fBn0xtGmwt2z4CE3oHWHWQ%3D%3D) | 
-| 第4期Olleh杯オープン選手権2回戦 | Shin Jinseo | Lee Changho | W+1.5 | 2013-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p5j7JSHnGSJ%2Fa6hwdGtQ4A%3D%3D) | 
-| 第9期物価情報杯プロ棋戦リーグB | Lee Changho | Lee Jihyun | B+R | 2013-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s9ZjcuSXZwG8N6o73pJphw%3D%3D) | 
-| 第25回テレビアジア選手権1回戦 | Lee Changho | Iyama Yuta | W+R | 2013-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oqfdQd4eL8x6q%2FNZ3X0bOA%3D%3D) | 
-| 2013年中国囲碁乙級リーグ | Lee Changho | Gu Lingyi | W+0.5 | 2013-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NK0oZhA45CEFXGUeLmDlbQ%3D%3D) | 
-| 2013年中国囲碁乙級リーグ | Lee Changho | Tan Xiao | B+R | 2013-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sdOCClc%2FvZDyjL4boXaJpQ%3D%3D) | 
-| 2013年中国囲碁乙級リーグ | Wang Tao | Lee Changho | W+R | 2013-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C%2BcKRd4BoYMqZ8H8eFO9cQ%3D%3D) | 
-| 2013年中国囲碁乙級リーグ | Zhu Yuanhao | Lee Changho | B+1.5 | 2013-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KAxqpuS3dqKR4pb41%2BHFVA%3D%3D) | 
-| 2013年中国囲碁乙級リーグ | Lee Changho | missing | W+R | 2013-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9pJOb%2BPnRcJb7cSdiolh3g%3D%3D) | 
-| 2013年中国囲碁乙級リーグ | Lee Changho | Tao Xin | W+R | 2013-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f0G7EEma6YbFcBSQLx0tLQ%3D%3D) | 
-| 2013年中国囲碁乙級リーグ | Luo Xihe | Lee Changho | W+R | 2013-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JRP1UzXKmYvqJ%2B5NGTjl%2Bg%3D%3D) | 
-| 2013年韓国囲碁リーグ | Lee Sedol | Lee Changho | W+R | 2013-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2vVrnzt0TfLzRL3EzIwMhg%3D%3D) | 
-| 第18回LG杯朝鮮日報棋王戦1回戦 | Tuo Jiaxi | Lee Changho | B+R | 2013-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HWL9OfdNr6HnTyhzdPB4JQ%3D%3D) | 
-| 第9期物価情報杯プロ棋戦リーグB | Mok Jinseok | Lee Changho | W+R | 2013-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lZ%2BOwiocyWxdMfTcr2aJhg%3D%3D) | 
-| 第32回KBS杯囲碁王戦本戦2回戦 | Lee Changho | Lee Huiseong | B+1.5 | 2013-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bTG%2Bdrsp8aZGuL%2BbD3MCDw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Na Hyun | Lee Changho | B+1.5 | 2013-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h8ou8%2FCJsJWMhjnvXK07Zw%3D%3D) | 
-| 第9期物価情報杯プロ棋戦リーグB | Lee Changho | Lee Jihyun | W+R | 2013-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uxzBf%2BDDYYdAF3V2E86Vzg%3D%3D) | 
-| 2013年韓国囲碁リーグ | Byun Sangil | Lee Changho | W+R | 2013-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sNMdBzUIvCO3HrLOYkK20Q%3D%3D) | 
-| 第9期物価情報杯プロ棋戦予選 | Lee Taehyun | Lee Changho | W+R | 2013-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=km%2BWmjuAP%2FTOZ9wRhefA8w%3D%3D) | 
-| 第18回LG杯予選 | Lee Changho | Wang Haoyang | B+R | 2013-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rgIeIbPyoseomOieWMmvAg%3D%3D) | 
-| 2013年韓国囲碁リーグ | Cho Hanseung | Lee Changho | W+R | 2013-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HrdoeCMyBQpiLNKe8E%2FGVQ%3D%3D) | 
-| 第31回KBS杯囲碁王戦決勝三番勝負第2局 | Lee Changho | Park Junghwan | W+R | 2013-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o04PAcr2eNyHkhySsK6Kkg%3D%3D) | 
-| 第31回KBS杯囲碁王戦決勝三番勝負第1局 | Park Junghwan | Lee Changho | W+R | 2013-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YNzEwXZ3eLIATFmXsE%2FEyw%3D%3D) | 
-| 第14回マキシムコーヒー杯入神最強戦3回戦 | Choi Cheolhan | Lee Changho | B+R | 2013-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EMNE1rLwngWg5EgIMdPk3g%3D%3D) | 
-| 第3期招商地産杯韓国選抜戦 | Lee Changho | Kim Seongjae | W+0.5 | 2013-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D%2F2vDp10PODONO%2F8Y0jtzw%3D%3D) | 
-| 第8期圓益杯十段戦2回戦 | Lee Changho | Park Yeonghun | W+R | 2013-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UwnWSLlHI7ZEywYUCHzLjA%3D%3D) | 
-| 第31回KBS杯囲碁王戦本戦5回戦 | Lee Changho | Park Junghwan | B+R | 2013-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aULI3gs6vzLoWS51k5KdTw%3D%3D) | 
-| 第31回KBS杯囲碁王戦本戦4回戦 | Lee Changho | Lee Sedol | B+R | 2012-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6KKRZm6kieY13unAuic5%2Fw%3D%3D) | 
-| 第14回マキシムコーヒー杯入神最強戦2回戦 | Lee Huiseong | Lee Changho | W+3.5 | 2012-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GRdSnEB2HkG3ayr4BCzTZw%3D%3D) | 
-| 第8期圓益杯十段戦1回戦 | Lee Changho | Lee Chungyu | B+R | 2012-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=swXVZgz2rtdENpLlpBHGZg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Changho | Lee Wonyoung | B+1.5 | 2012-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GhWSopuK5R77VlVSEJZwKg%3D%3D) | 
-| 第7回応氏杯世界選手権準決勝三番勝負第2局 | Lee Changho | Park Junghwan | W+R | 2012-09-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ayYNo0qHjwJeev9dpcNwYQ%3D%3D) | 
-| 第7回応氏杯世界選手権準決勝三番勝負第1局 | Park Junghwan | Lee Changho | B+R | 2012-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ntwzf2UE9rpDySI0NEEUow%3D%3D) | 
-| 第31回KBS杯囲碁王戦本戦3回戦 | Lee Changho | Mok Jinseok | B+R | 2012-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cIT%2FkcFZm4WvUAFKH69zGg%3D%3D) | 
-| 第40期名人戦（韓国）1回戦 | Lee Changho | Park Junghwan | W+R | 2012-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NOEMeVIhZhG61Iwga48NRQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Changho | missing | B+2.5 | 2012-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D00HZfFij%2FYtUakpGmY2iw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Changho | Hong Kipyo | B+R | 2012-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uLRRE2uv6spKO0T9IKjRcQ%3D%3D) | 
-| 第31回KBS杯囲碁王戦本戦2回戦 | Lee Changho | Kim Seungjun | B+R | 2012-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BcA4iV4gQi%2FMpXhK75F0lQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Paek Hongseok | Lee Changho | B+R | 2012-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v6DFsXIQUwSiDBudG8vwfw%3D%3D) | 
-| 第14回農心杯韓国選抜戦 | Lee Changho | Lee Donghoon | W+0.5 | 2012-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BKs0jiGjGuVX1pQDsw9VvQ%3D%3D) | 
-| 第14回農心杯韓国選抜戦 | Lee Changho | Park Jinsol | B+R | 2012-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZwxU%2FrVJmfFlmFapehlwaw%3D%3D) | 
-| 第14回農心杯韓国選抜戦 | Hong Kipyo | Lee Changho | W+R | 2012-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6EA9ooKKXULKvjumnKcimA%3D%3D) | 
-| 2012年韓国囲碁リーグ | An Sungjoon | Lee Changho | B+R | 2012-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dp8no%2F4dQlgSFe9OgmC0EA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Choi Cheolhan | Lee Changho | B+R | 2012-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SDkdmIjI9c6EyA3cK99Irg%3D%3D) | 
-| 第17回LG杯世界棋王戦2回戦 | Li Kang | Lee Changho | B+R | 2012-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ToJ9w90XRbLB80cQgLBBVg%3D%3D) | 
-| 第17回LG杯世界棋王戦1回戦 | Liu Xing | Lee Changho | W+R | 2012-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KS9uKqt3AslS7XrhMGN0%2BQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Han Wonggyu | Lee Changho | W+R | 2012-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w9wBK4WC7Ar%2FBMAhdZvh1g%3D%3D) | 
-| 2012年韓国囲碁リーグ | Hong Kipyo | Lee Changho | B+R | 2012-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=71K079B%2FRNaRzG4tfo535Q%3D%3D) | 
-| 第7回応氏杯世界選手権3回戦 | Cho U | Lee Changho | W+R | 2012-05-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ctKcUmHyVBI6HvNePePkw%3D%3D) | 
-| 第7回応氏杯世界選手権2回戦 | Lee Changho | Kong Jie | B+1 | 2012-05-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F4UQ%2BhoQf%2FuMYbA7hQmBFw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Changho | Hong Seongji | W+R | 2012-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9mtLgU0Y47%2F8%2B25byEdpTA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Changho | Lee Wondo | B+R | 2012-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kRDB2TPxTuBx4TDMboCwGQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Sedol | Lee Changho | B+R | 2012-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V3S%2FghA4dwHQ2itJBntK0g%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Cheongsang | Lee Changho | B+R | 2012-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3eddWd4ZzhSUTkZ0uOxiSQ%3D%3D) | 
-| 第31回KBS杯囲碁王戦本戦1回戦 | Kang Seungmin | Lee Changho | W+R | 2012-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lmOCCWbSzwtCaBRdj7ZWuA%3D%3D) | 
-| 第4回BCカード杯世界選手権2回戦 | Mi Yuting | Lee Changho | B+R | 2012-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RkBY32HWnaSwTVyvojR3nw%3D%3D) | 
-| 第4回BCカード杯世界選手権1回戦 | Ding Wei | Lee Changho | W+R | 2012-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a9HOlrEnxXe4v9dCXrsYQQ%3D%3D) | 
-| 第4回BCカード杯世界選手権統合予選決勝 | Lee Juhyung | Lee Changho | W+R | 2012-02-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5rzm3A4SX83zre6lkKuzKw%3D%3D) | 
-| 第13回農心辛ラーメン杯世界囲碁最強戦第14戦 | Xie He | Lee Changho | B+3.5 | 2012-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=efg1n5dAOuHbgJ2ecJMaXw%3D%3D) | 
-| 第16回LG杯世界棋王戦決勝三番勝負第2局 | Lee Changho | Jiang Weijie | W+R | 2012-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BxPzw%2ByeCIKcFNF9sOH1Lg%3D%3D) | 
-| 第16回LG杯世界棋王戦決勝三番勝負第1局 | Jiang Weijie | Lee Changho | B+R | 2012-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=an8W68hucdd4MRjZr6sgAA%3D%3D) | 
-| 第9回春蘭杯韓国予選 | Kang Dongyun | Lee Changho | B+R | 2012-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bjl67oi98YBDxuS9UOKAhg%3D%3D) | 
-| 第9回春蘭杯韓国予選 | Park Yeonghun | Lee Changho | W+R | 2012-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ki1jlmesj2yWJyssyyZgug%3D%3D) | 
-| 第13回マキシムコーヒー杯入神最強戦2回戦 | Lee Sedol | Lee Changho | B+R | 2012-01-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n%2BE3PoD%2Fn%2BEVB33jjwXyNg%3D%3D) | 
-| 第2期Olleh杯オープン選手権決勝五番勝負第4局 | Lee Sedol | Lee Changho | B+0.5 | 2011-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=87TXu6eBDSfDyh8t%2BOFCDQ%3D%3D) | 
-| 第2期Olleh杯オープン選手権決勝五番勝負第3局 | Lee Changho | Lee Sedol | W+R | 2011-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f3j6v1sNjT9D%2BStS%2BLgrPA%3D%3D) | 
-| 第2期Olleh杯オープン選手権決勝五番勝負第2局 | Lee Sedol | Lee Changho | B+R | 2011-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qM7POmApEKdMMMH%2FS5qCkg%3D%3D) | 
-| 第2期Olleh杯オープン選手権決勝五番勝負第1局 | Lee Changho | Lee Sedol | B+2.5 | 2011-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vxZVE1RhJwmdYaURekzzZA%3D%3D) | 
-| 第16回LG杯世界棋王戦準決勝 | Lee Changho | Xie He | B+R | 2011-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RxAqERIXkD5imDXARRBM6g%3D%3D) | 
-| 第16回LG杯世界棋王戦3回戦 | Chen Shiyuan | Lee Changho | W+R | 2011-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xp4xtfVvJFZvpBpRLdYPiQ%3D%3D) | 
-| 2011年韓国囲碁リーグ | Lee Changho | Jin Siyoung | W+R | 2011-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y7yHx0YWxS2%2FpRQCc2pe4A%3D%3D) | 
-| 第2期Olleh杯オープン選手権準決勝 | Park Junghwan | Lee Changho | W+R | 2011-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UtjAYlmjZdCeLBlKgcnKcQ%3D%3D) | 
-| 第39期名人戦（韓国）準決勝第2局 | Paek Hongseok | Lee Changho | B+R | 2011-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W7ppckHkR6WLfrJi9aXQlg%3D%3D) | 
-| 第39期名人戦（韓国）準決勝第1局 | Lee Changho | Paek Hongseok | W+R | 2011-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=POavT94EmAq5QcR1SY%2BWXg%3D%3D) | 
-| 2011年韓国囲碁リーグ | Lee Changho | Kim Dongho | B+R | 2011-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HzIbmnwTrYbLiWvAgGjOew%3D%3D) | 
-| 第7期圓益杯十段戦1回戦 | Lee Changho | Han Chongjin | W+R | 2011-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vq54%2F2SIj0RXqloLgZfZhw%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Junghwan | Lee Changho | W+0.5 | 2011-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uhuv%2BuzbFoKhqbRV9a4t3g%3D%3D) | 
-| 第39期名人戦（韓国）2回戦 | Cho Insun | Lee Changho | W+R | 2011-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nHyNZenCmtFvJD50iaJdIg%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ1回戦 | Gu Li | Lee Changho | B+0.5 | 2011-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fylh4A2LY6AbpnpzIB70IQ%3D%3D) | 
-| 2011年韓国囲碁リーグ | Lee Changho | Kang Yootaek | B+R | 2011-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1kxUFkJqld8Roowhg44FMQ%3D%3D) | 
-| 第39期名人戦（韓国）1回戦 | Yun Chanhee | Lee Changho | W+R | 2011-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BvlKKFmbO8rVuvPxGVDnjg%3D%3D) | 
-| 2011年韓国囲碁リーグ | An Sungjoon | Lee Changho | B+R | 2011-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q9h7Hr18%2F7uhg0IzfiIz%2Bg%3D%3D) | 
-| 2011年韓国囲碁リーグ | Lee Changho | On Sojin | B+0.5 | 2011-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QGpQOjvu3SV2uIYJi9gEBg%3D%3D) | 
-| 2011年韓国囲碁リーグ | Lee Changho | Heo Yongho | B+R | 2011-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ARaUrMjeZ6BbquL0FMYcmw%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ1回戦C3 | Sun Li | Lee Changho | W+R | 2011-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YXByuZkN%2FZ8C7v0UIrNO5w%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ1回戦C2 | Lee Changho | Tan Xiao | W+R | 2011-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=65NoIx0hXb5EMND8ZozSdw%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ1回戦C1 | Lee Changho | Jiang Zhujiu | B+R | 2011-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rc3vpnUtYcbj6ABkX2bmLA%3D%3D) | 
-| 2011年韓国囲碁リーグ | Lee Changho | Ryu Chaehyeong | B+R | 2011-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dMzWzf8%2Bjb5DYlDZwbFHIA%3D%3D) | 
-| 第16回三星火災杯統合予選準決勝 | missing | Lee Changho | W+R | 2011-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oBM7fnR0UqwO98eAi04JSg%3D%3D) | 
-| 第16回三星火災杯統合予選2回戦 | Peng Quan | Lee Changho | W+R | 2011-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kE2k2tSl7H3CM0go7HAxKA%3D%3D) | 
-| 第55期国手戦（韓国）2回戦 | Lee Changho | Park Junghwan | W+R | 2011-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9r0LEQeOAPoPXaPKAkjLuw%3D%3D) | 
-| 2011年韓国囲碁リーグ | Lee Changho | Lee Sedol | W+R | 2011-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mTJppWpmpL6H6TOoOljD4Q%3D%3D) | 
-| 第13回農心杯韓国選抜戦 | Lee Yeongkyu | Lee Changho | B+R | 2011-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zm50oAw7S4rf73RzlP0r9g%3D%3D) | 
-| 2011年韓国囲碁リーグ | Kim Kiyoung | Lee Changho | W+1.5 | 2011-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MTm9Dd77t8V1RVR86UKmSg%3D%3D) | 
-| 第13回農心杯韓国選抜戦 | Park Jiyeon | Lee Changho | W+R | 2011-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BC%2BLLD1Iv5tra1%2BblLFgYg%3D%3D) | 
-| 第55期国手戦（韓国）1回戦 | Lee Changho | Hong Seongji | B+R | 2011-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DfHA%2FP1nzfeDxlHZJ3sH2g%3D%3D) | 
-| 第7期物価情報杯プロ棋戦リーグD | Lee Changho | An Joyeong | W+2.5 | 2011-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1AE5iGmQxMBhlxYH7eifqw%3D%3D) | 
-| 2011年韓国囲碁リーグ | Lee Changho | Kang Yootaek | W+R | 2011-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V1lZZzTF0vW0ot5wsHXkMQ%3D%3D) | 
-| 2011年韓国囲碁リーグ | Ahn Kukhyun | Lee Changho | W+R | 2011-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lDjeR404w1c46mQ7lx%2BFSQ%3D%3D) | 
-| 第16回LG杯世界棋王戦2回戦 | Iyama Yuta | Lee Changho | W+R | 2011-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AwVsuBY0J7FZOXtBaomZ6w%3D%3D) | 
-| 第16回LG杯世界棋王戦1回戦 | Gu Li | Lee Changho | W+R | 2011-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ptu%2B8aLVvqZzA0w24Y9gnA%3D%3D) | 
-| 2011年韓国囲碁リーグ | Lee Changho | Paek Hongseok | B+R | 2011-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hMpdCDCpTds8nEDoUH270g%3D%3D) | 
-| 2011年韓国囲碁リーグ | Lee Changho | Park Yeonghun | B+R | 2011-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d8Z5WROR8yN8WxGJEuy2xg%3D%3D) | 
-| 2011年中国囲碁乙級リーグ | missing | Lee Changho | W+R | 2011-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qOVZQQ4IFPPMMtkxAUUODA%3D%3D) | 
-| 2011年中国囲碁乙級リーグ | Lee Changho | missing | B+1.5 | 2011-05-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4%2BtdB8F3Do5t8CMYjj2Yow%3D%3D) | 
-| 2011年中国囲碁乙級リーグ | Paek Hongseok | Lee Changho | W+R | 2011-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6RecAHj%2Byq6%2BZBOesm9RqA%3D%3D) | 
-| 2011年中国囲碁乙級リーグ | Lee Changho | Heo Yongho | B+R | 2011-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2n8%2F2ABsprX2rzzdXmJDiw%3D%3D) | 
-| 2011年中国囲碁乙級リーグ | missing | Lee Changho | B+R | 2011-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dt73WSkTBVIIWqOBglaPWw%3D%3D) | 
-| 2011年中国囲碁乙級リーグ | Lee Wonyoung | Lee Changho | W+R | 2011-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LYUuLf259wYaP47b%2B2E67A%3D%3D) | 
-| 2011年中国囲碁乙級リーグ | Lee Changho | Kang Dongyun | B+R | 2011-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hVoe34iVvIet6c06hZ%2FScw%3D%3D) | 
-| 第16回LG杯予選 | Lee Changho | Hong Seongji | B+R | 2011-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IvCBos%2BQgQokNUZ5OAYpBw%3D%3D) | 
-| 第16回LG杯予選 | Li He | Lee Changho | W+R | 2011-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5MOzmNdcrLtZ%2B1OWTFGsDA%3D%3D) | 
-| 第16回LG杯予選 | Shi Yue | Lee Changho | W+R | 2011-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r9YW7qvt%2FbZqRz5b3DDCkg%3D%3D) | 
-| 第16回LG杯予選 | Lee Changho | Oya Koichi | B+R | 2011-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SOZjzoqEz8jdJSMKzzYVqg%3D%3D) | 
-| 第7期物価情報杯プロ棋戦リーグD | An Joyeong | Lee Changho | W+R | 2011-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WTZn989MwSai6y6cNW9Z%2BA%3D%3D) | 
-| 第12回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Park Yeonghun | Lee Changho | B+0.5 | 2011-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KDWaioWHzhbLdmFu6XggCw%3D%3D) | 
-| 第12回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Lee Changho | Park Yeonghun | W+R | 2011-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HzgiyTf0JYweYYTeQstJXw%3D%3D) | 
-| 第12回マキシムコーヒー杯入神最強戦準決勝 | Lee Changho | Mok Jinseok | B+R | 2011-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WEtXZd4GZOhm2SLK89JTUg%3D%3D) | 
-| 第3回BCカード杯世界選手権2回戦 | Kim Juho | Lee Changho | B+R | 2011-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=57Oh1%2F%2FiXU1WsWLomwI67A%3D%3D) | 
-| 第54期国手戦（韓国）挑戦手合五番勝負第4局 | Lee Changho | Choi Cheolhan | W+R | 2011-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xTwP%2B5pneKfqZmF0N9GtPg%3D%3D) | 
-| 第24回世界囲碁選手権富士通杯韓国予選 | Lee Changho | Weon Seongjin | W+R | 2011-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=guhg92n6tNLkTOu2SP5eFA%3D%3D) | 
-| 第12回マキシムコーヒー杯入神最強戦3回戦 | Cho Hunhyun | Lee Changho | W+R | 2011-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IEXSHB5A3NcVA1GEULIcLA%3D%3D) | 
-| 第3回BCカード杯世界選手権1回戦 | Peng Quan | Lee Changho | W+R | 2011-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aL9EBwRiLZRlkRpBPWFiCQ%3D%3D) | 
-| 第54期国手戦（韓国）挑戦手合五番勝負第3局 | Choi Cheolhan | Lee Changho | B+R | 2011-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cx%2B92%2BRujqM1mNIA%2B2vS1A%3D%3D) | 
-| 第54期国手戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Choi Cheolhan | W+R | 2011-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XdMHZqD%2BTYu1hsBi1AhmNA%3D%3D) | 
-| 第54期国手戦（韓国）挑戦手合五番勝負第1局 | Choi Cheolhan | Lee Changho | W+R | 2011-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wx8LSHbtFJ4STm054I5c%2Fg%3D%3D) | 
-| 第6期圓益杯十段戦3回戦 | Lee Changho | Lee Yeongkyu | W+R | 2011-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OjDyZlJQCfuzBYPXkBMj1g%3D%3D) | 
-| 第12回マキシムコーヒー杯入神最強戦2回戦 | Choi Kyubyeong | Lee Changho | W+R | 2011-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CJJvw%2FW8QHNIaCcB5%2FxBEg%3D%3D) | 
-| 第29回KBS杯囲碁王戦敗者復活戦3回戦 | Lee Changho | Lee Sedol | W+R | 2010-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xFL5lJt9lK0s929nX9vJSw%3D%3D) | 
-| 2010年アジア競技大会囲碁男子団体戦 | Lee Changho | Gu Li | B+R | 2010-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZVYkfmyShyS45CZi3w5S5A%3D%3D) | 
-| 2010年アジア競技大会囲碁男子団体戦 | Lee Changho | Yamashita Keigo | W+R | 2010-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6iafbfzBfbSV1Bdl%2F8S6aA%3D%3D) | 
-| 2010年アジア競技大会囲碁男子団体戦 | Chang Hao | Lee Changho | W+T | 2010-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3UhuBs2HbTJANRuvjHL0ng%3D%3D) | 
-| 第29回KBS杯囲碁王戦敗者復活戦2回戦 | Kang Dongyun | Lee Changho | W+R | 2010-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fbMPQtAry3qctkbpyuCIPg%3D%3D) | 
-| 第15回LG杯世界棋王戦3回戦 | Wang Yao | Lee Changho | B+R | 2010-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LYRuwIYS%2FoD%2FTy4RXwsVRg%3D%3D) | 
-| 第29回KBS杯囲碁王戦本戦3回戦 | Park Junghwan | Lee Changho | B+R | 2010-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=89cQywbodwhmdrbze1ayzw%3D%3D) | 
-| 2010年韓国囲碁リーグ | Lee Changho | Kang Dongyun | W+0.5 | 2010-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dyj94b7CFbZhdRyHN%2F0gdg%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ2回戦 | Lee Changho | Kong Jie | W+R | 2010-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fTyqLeUwH5HHo6ydtY2zxw%3D%3D) | 
-| 2010年韓国囲碁リーグ | Lee Changho | Park Seunghyeon | B+1.5 | 2010-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NK66KMtbuyTeAcVq6DrGCw%3D%3D) | 
-| 第38期名人戦（韓国）準決勝第3局 | Park Yeonghun | Lee Changho | B+R | 2010-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F3Z7wkwddg2m3j5irsRItg%3D%3D) | 
-| 第38期名人戦（韓国）準決勝第2局 | Park Yeonghun | Lee Changho | W+R | 2010-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1t46Q9%2BSGmd3ExJy%2FXu9cQ%3D%3D) | 
-| 第38期名人戦（韓国）準決勝第1局 | Lee Changho | Park Yeonghun | W+R | 2010-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FPXSI8SoUuLuW02TH2mt%2FA%3D%3D) | 
-| 2010年韓国囲碁リーグ | Lee Changho | Mok Jinseok | W+R | 2010-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JjEiHRnqRou2sKzLFJBYPg%3D%3D) | 
-| 第6期物価情報杯プロ棋戦決勝三番勝負第2局 | Lee Sedol | Lee Changho | B+R | 2010-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bOlPwbcvxu99%2FaX7XMt7Dg%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ1回戦C3 | Tan Xiao | Lee Changho | W+R | 2010-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WqUEX9m6UQd8K2BfD6k79g%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ1回戦C2 | Chang Hao | Lee Changho | W+R | 2010-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Np8mFukttVGMRSUuPA1cUA%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ1回戦C1 | Tan Xiao | Lee Changho | B+R | 2010-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X5ZHydfFKrqhPQatPRer%2Bg%3D%3D) | 
-| 第38期名人戦（韓国）リーグプレーオフ | Ahn Kukhyun | Lee Changho | W+1.5 | 2010-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tvGFEyWZnmilAUpx8rRkoA%3D%3D) | 
-| 第6期物価情報杯プロ棋戦決勝三番勝負第1局 | Lee Changho | Lee Sedol | W+R | 2010-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WUWqkkscu55%2BUuHA1YlFTQ%3D%3D) | 
-| 2010年韓国囲碁リーグ | Lee Changho | Han Sanghoon | B+5.5 | 2010-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pIIOsB6%2BXK6u0SkeYNyI3Q%3D%3D) | 
-| 2010年韓国囲碁リーグ | Lee Changho | Park Yeonghun | B+R | 2010-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rcs7BQG0ZcdBCPva3Lt%2FQg%3D%3D) | 
-| 第38期名人戦（韓国）リーグA | Lee Changho | Lee Sedol | B+R | 2010-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FhD0A43Yrr%2Fbx%2BQDsn0%2BGg%3D%3D) | 
-| 第6期物価情報杯プロ棋戦決勝トーナメント準決勝 | Lee Changho | Choi Cheolhan | B+2.5 | 2010-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fA%2FhT9lZv6PK4hFJicy3fA%3D%3D) | 
-| 2010年韓国囲碁リーグ | Lee Changho | Choi Cheolhan | B+1.5 | 2010-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=764LGR59rYD59NnThFgAGA%3D%3D) | 
-| 第1回世界囲碁名人争覇戦決勝 | Gu Li | Lee Changho | B+1.5 | 2010-07-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j%2BErJpxgEkzKfQLtKYNOdQ%3D%3D) | 
-| 第1回世界囲碁名人争覇戦 | Lee Changho | Gu Li | B+R | 2010-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pAeUxm3Yl9enHt3ozu66FA%3D%3D) | 
-| 第6期物価情報杯プロ棋戦決勝トーナメント1回戦 | Lee Changho | Kang Dongyun | B+R | 2010-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WJjrT%2B2VgEUnaF%2B9OVD3Ig%3D%3D) | 
-| 2010年韓国囲碁リーグ | Heo Yongho | Lee Changho | B+R | 2010-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9ZY7nDeg3mP5U%2FT6%2BaGlxg%3D%3D) | 
-| 第29回KBS杯囲碁王戦本戦2回戦 | Lee Changho | Kim Juho | B+R | 2010-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tRokhI73cxuaUHMh%2BY0Qfw%3D%3D) | 
-| 第38期名人戦（韓国）リーグA | Kim Seongjae | Lee Changho | W+R | 2010-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XBMSinRkxnrTrUaJBIpSqQ%3D%3D) | 
-| 2010年韓国囲碁リーグ | Lee Changho | Kang Dongyun | W+R | 2010-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fo1zeEw%2F1mPNqraNOEhH4Q%3D%3D) | 
-| 第38期名人戦（韓国）リーグA | Lee Changho | Paek Hongseok | B+R | 2010-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rldroHSSvrcGKNj95YvUCw%3D%3D) | 
-| 2010年韓国囲碁リーグ | Lee Changho | Kang Yootaek | W+R | 2010-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J6pVSPMZeX7nNyNj4tyJ8Q%3D%3D) | 
-| 第38期名人戦（韓国）リーグA | Kang Dongyun | Lee Changho | B+R | 2010-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LbWPW%2F1%2BdFJ6nSslArtrog%3D%3D) | 
-| 第15期GSカルテックス杯プロ棋戦2回戦 | Lee Changho | Kim Junghyun | W+R | 2010-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C0%2BUgQLaAHRqRd78KpoeyA%3D%3D) | 
-| 第15回LG杯世界棋王戦2回戦 | Tuo Jiaxi | Lee Changho | W+R | 2010-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kkQwkS88NAK6ENdTc5KRQQ%3D%3D) | 
-| 第15回LG杯世界棋王戦1回戦 | Wang Xi | Lee Changho | W+R | 2010-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lpKhd4p0ttsNYb1mV5JhAg%3D%3D) | 
-| 2010年韓国囲碁リーグ | An Joyeong | Lee Changho | W+R | 2010-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qBqcZYg%2BZpOKoJuwCkafew%3D%3D) | 
-| 第22回テレビアジア選手権準決勝 | Kong Jie | Lee Changho | B+R | 2010-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Gla5ziiURVDr6h7KVd2ew%3D%3D) | 
-| 第22回テレビアジア選手権1回戦 | Iyama Yuta | Lee Changho | W+5.5 | 2010-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DEutVswNSJi2wzkQENrEOg%3D%3D) | 
-| 第6期物価情報杯プロ棋戦リーグA | Lee Changho | Yoo Changhyuk | B+R | 2010-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BG7X3Dk7esH1Q3H9zBDX2Q%3D%3D) | 
-| 2010年韓国囲碁リーグ | Lee Changho | Hong Seongji | B+R | 2010-05-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LhFr1riBnR4nZUrayyJ4AQ%3D%3D) | 
-| 第38期名人戦（韓国）リーグA | Ahn Kukhyun | Lee Changho | B+R | 2010-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NvMkh%2Fkscuux2V39W7e6Nw%3D%3D) | 
-| 2010年中国囲碁乙級リーグ | missing | Lee Changho | W+R | 2010-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wFakL6b9yRcjuqvjqp4pjg%3D%3D) | 
-| 2010年中国囲碁乙級リーグ | Lee Changho | missing | B+5.5 | 2010-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ed8DgjBCb%2F58yVzgg0k%2Byw%3D%3D) | 
-| 2010年中国囲碁乙級リーグ | Lee Changho | Weon Seongjin | W+R | 2010-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WbcdXeaJJiGUOy0Vfu1cOw%3D%3D) | 
-| 2010年中国囲碁乙級リーグ | Lee Changho | Dong Yan | B+R | 2010-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3t0IFKCbYi9hdj1inpICVg%3D%3D) | 
-| 2010年中国囲碁乙級リーグ | missing | Lee Changho | W+R | 2010-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZZlsEv3YxDpHJGHa2d3p5w%3D%3D) | 
-| 2010年中国囲碁乙級リーグ | missing | Lee Changho | B+R | 2010-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9NXO3msP8e3km6XhEPJDwA%3D%3D) | 
-| 第6期物価情報杯プロ棋戦リーグA | Lee Changho | missing | B+R | 2010-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VRL6eoWns%2FEp9xgEOHhfzg%3D%3D) | 
-| 第23回世界囲碁選手権富士通杯2回戦 | Lee Changho | Qiu Jun | W+R | 2010-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ckzbcmSg1DeGbJ70bP4MMw%3D%3D) | 
-| 第6期物価情報杯プロ棋戦リーグA | Lee Changho | Park Yeonghun | W+R | 2010-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pJ0EoxLFT9P6GOY3rbmHpQ%3D%3D) | 
-| 第8回春蘭杯世界囲碁選手権2回戦 | Gu Lingyi | Lee Changho | B+R | 2010-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a8MJnEVn6PZ9akLZ%2FiZTyw%3D%3D) | 
-| 第53期国手戦（韓国）挑戦手合五番勝負第4局 | Lee Changho | Hong Kipyo | B+R | 2010-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JZwR0sSTaJVuauClrEbzKQ%3D%3D) | 
-| 第53期国手戦（韓国）挑戦手合五番勝負第3局 | Hong Kipyo | Lee Changho | W+R | 2010-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qxd2lhpRGKaINy1qZKg6pQ%3D%3D) | 
-| 第53期国手戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Hong Kipyo | W+R | 2010-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pYgHS5RxaHrlnxRQ2i2Grg%3D%3D) | 
-| 第11回農心辛ラーメン杯世界囲碁最強戦第14戦 | Lee Changho | Chang Hao | B+R | 2010-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=blBNzdTAS1220hkaUOCoVQ%3D%3D) | 
-| 第11回農心辛ラーメン杯世界囲碁最強戦第13戦 | Lee Changho | Gu Li | B+R | 2010-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XajEUOV05SnhB1MCgj7w6A%3D%3D) | 
-| 第11回農心辛ラーメン杯世界囲碁最強戦第12戦 | Lee Changho | Liu Xing | B+R | 2010-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rrtdjl33hhpfMm9G%2FYnapw%3D%3D) | 
-| 第53期国手戦（韓国）挑戦手合五番勝負第1局 | Hong Kipyo | Lee Changho | W+R | 2010-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SCVjxdlzGBboZBmjrY%2BTTg%3D%3D) | 
-| 第28回KBS杯囲碁王戦決勝三番勝負第2局 | Kang Dongyun | Lee Changho | W+R | 2010-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2m8nbHpHqqqG4DVAPixbgQ%3D%3D) | 
-| 第11回マキシムコーヒー杯入神最強戦3回戦 | Kang Dongyun | Lee Changho | B+R | 2010-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9C%2BfpV1bJ4LryYdmhtq8XA%3D%3D) | 
-| 第14回LG杯世界棋王戦決勝三番勝負第2局 | Kong Jie | Lee Changho | B+1.5 | 2010-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=14gX6OmP0Xy2DuP7TF9S9Q%3D%3D) | 
-| 第14回LG杯世界棋王戦決勝三番勝負第1局 | Lee Changho | Kong Jie | W+2.5 | 2010-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2iTwjCE4ZsjWN0meWgJl0g%3D%3D) | 
-| 第53期国手戦（韓国）準決勝 | Ju Hyeongwuk | Lee Changho | W+R | 2010-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AIgMpIAMC65bJgyRC%2BdjxA%3D%3D) | 
-| 第28回KBS杯囲碁王戦決勝三番勝負第1局 | Lee Changho | Kang Dongyun | B+R | 2010-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BnDTkaJRMHFBu%2F0nPwQ8zg%3D%3D) | 
-| 第53期国手戦（韓国）2回戦 | Lee Changho | Mok Jinseok | B+R | 2010-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=92ANbRaL6iQ9jy%2B1O%2BNp2g%3D%3D) | 
-| 第28回KBS杯囲碁王戦敗者復活戦決勝 | Lee Changho | Choi Cheolhan | B+R | 2010-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2ByvCz58RpV%2F1wj7JqBNKjQ%3D%3D) | 
-| 第28回KBS杯囲碁王戦敗者復活戦準決勝 | Lee Changho | Yun Chanhee | B+R | 2010-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6ChmQYNZ2AUMdBILOEqELg%3D%3D) | 
-| 第2回BCカード杯世界選手権1回戦 | Lee Changho | missing | W+R | 2010-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NwmY%2Br2r5C8Cmn2BbLzqCw%3D%3D) | 
-| 第5期圓益杯十段戦決勝三番勝負第3局 | Lee Changho | Park Junghwan | W+0.5 | 2010-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WPHGCTEah7gG2Q9qPwXRDg%3D%3D) | 
-| 第5期圓益杯十段戦決勝三番勝負第2局 | Lee Changho | Park Junghwan | W+R | 2010-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LTbe2sv6cKZLLdxm%2FqcR3Q%3D%3D) | 
-| 第5期圓益杯十段戦決勝三番勝負第1局 | Park Junghwan | Lee Changho | W+R | 2010-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Kt4MljzMBVxyH3tkQobLw%3D%3D) | 
-| 第28回KBS杯囲碁王戦敗者復活戦4回戦 | Lee Jungwoo | Lee Changho | W+R | 2010-01-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RlJDTeVY4uTIgIUTncp0SQ%3D%3D) | 
-| 第5期圓益杯十段戦準決勝 | Kang Yootaek | Lee Changho | W+2.5 | 2009-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S2%2FcUFJEUxj2%2BtHq98OUQw%3D%3D) | 
-| 第28回KBS杯囲碁王戦敗者復活戦3回戦 | Lee Changho | Weon Seongjin | B+R | 2009-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a%2FPyq8hw0ITuaAdYrbd1Kg%3D%3D) | 
-| 第37期名人戦（韓国）決勝五番勝負第4局 | Lee Changho | Weon Seongjin | B+0.5 | 2009-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h0yUnwLQG3QLzKY0qXH31Q%3D%3D) | 
-| 第37期名人戦（韓国）決勝五番勝負第3局 | Weon Seongjin | Lee Changho | W+3.5 | 2009-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I%2FQpb9f1vuOErdsCXTRw%2Fg%3D%3D) | 
-| 第37期名人戦（韓国）決勝五番勝負第2局 | Lee Changho | Weon Seongjin | W+1.5 | 2009-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1MGvwIZa6gar%2FybHC1PWGg%3D%3D) | 
-| 第5期圓益杯十段戦4回戦 | Lee Changho | Cho Hunhyun | B+R | 2009-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8nmCiGo8aqbfE0of5HZL7Q%3D%3D) | 
-| 第37期名人戦（韓国）決勝五番勝負第1局 | Weon Seongjin | Lee Changho | W+R | 2009-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2cK8%2FBcwjxAKXNkluwms1A%3D%3D) | 
-| 第28回KBS杯囲碁王戦敗者復活戦2回戦 | Lee Changho | Cho Hunhyun | B+R | 2009-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1zavlgWbIuTbxBMWopqUFg%3D%3D) | 
-| 第37期名人戦（韓国）準決勝第2局 | Kim Seongjae | Lee Changho | W+3.5 | 2009-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vkzrzTDd0wlBsfqoNutu7w%3D%3D) | 
-| 第37期名人戦（韓国）準決勝第1局 | Lee Changho | Kim Seongjae | B+1.5 | 2009-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zBTzcjBI3qDNoPqoVLoOjQ%3D%3D) | 
-| 第53期国手戦（韓国）1回戦 | Park Cheongsang | Lee Changho | W+R | 2009-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1O4g4gqKzOtfM%2BdJXD%2F%2Bng%3D%3D) | 
-| 第14回LG杯世界棋王戦準決勝 | Piao Wenyao | Lee Changho | W+R | 2009-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PS3HkSEawwKBlrjQcl5Dbg%3D%3D) | 
-| 第14回LG杯世界棋王戦3回戦 | Qiu Jun | Lee Changho | W+R | 2009-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BzIlDSApZR610HWGSrzLqA%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Changho | Yun Junsang | W+R | 2009-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hqtM9EErJf7K8Z5ASjEvSg%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ準決勝三番勝負第3局 | Lee Changho | Qiu Jun | W+R | 2009-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZQB51q1mzq8K7rvR3lB6Bw%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Lee Changho | Qiu Jun | B+R | 2009-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lBFMYi%2B5jAOW1WeqS%2FEaWg%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Qiu Jun | Lee Changho | B+R | 2009-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pEgf0iAsbR5JWRLqlXjH2w%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Changho | Kim Hyeongwoo | B+R | 2009-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fyNIHsAE9ulEJfN02t3tZA%3D%3D) | 
-| 第5期圓益杯十段戦3回戦 | Lee Changho | Cho Hyeyeon | B+8.5 | 2009-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Besv%2BlPe8%2FncoAbPCLtJRQ%3D%3D) | 
-| 第37期名人戦（韓国）リーグB | Lee Changho | Weon Seongjin | B+5.5 | 2009-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lM%2FgDb2BrvGhQlcc00uHsw%3D%3D) | 
-| 第28回KBS杯囲碁王戦本戦3回戦 | Kang Dongyun | Lee Changho | B+3.5 | 2009-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9o%2ByQ7dozF0FlINSNtt9Gg%3D%3D) | 
-| 2009年韓国囲碁リーグ | Yun Junsang | Lee Changho | B+R | 2009-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SMBXJ%2FSB%2BAsdHyYl1YYNgg%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ3回戦 | Lee Changho | Zhou Ruiyang | B+0.5 | 2009-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K1HTlbl3pDAqrAqfDjPh3Q%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ2回戦 | Lee Changho | Ding Wei | B+R | 2009-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SV1fzQv34rsVxn436Ws5rA%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Changho | Kang Dongyun | W+R | 2009-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YuhIjcALzLprwcZCCp9ZYQ%3D%3D) | 
-| 第37期名人戦（韓国）リーグB | Han Sanghoon | Lee Changho | W+11.5 | 2009-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EjSq4tZ71VwPvL78lDFAPA%3D%3D) | 
-| 第37期名人戦（韓国）リーグB | Lee Changho | missing | W+0.5 | 2009-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2cFayms%2FGUmffNqOwLcf5w%3D%3D) | 
-| 2009年韓国囲碁リーグ | Choi Cheolhan | Lee Changho | B+R | 2009-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KJWpNGrV0PuVXgLcnrSMMA%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ1回戦D2 | Lee Changho | Kong Jie | B+R | 2009-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6Yax1%2B8CjM6JLDYzIn%2BeUg%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ1回戦D1 | Lee Changho | Hong Kipyo | B+R | 2009-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3dfhIRMiNaGA94SFwSjSaw%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Changho | Kim Seongjae | W+R | 2009-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tOlQpO4Tyh6%2BK70eE1w%2Fag%3D%3D) | 
-| 第37期名人戦（韓国）リーグB | missing | Lee Changho | W+R | 2009-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r994Ax1ZXlC9PBhueZnxfg%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Changho | missing | B+R | 2009-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FZp1awJmITBry5t1rDWBaQ%3D%3D) | 
-| 第5期物価情報杯プロ棋戦決勝三番勝負第2局 | Kim Jiseok | Lee Changho | B+1.5 | 2009-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IrWCi4owg4JkF7cjzo1rVQ%3D%3D) | 
-| 第5期物価情報杯プロ棋戦決勝三番勝負第1局 | Lee Changho | Kim Jiseok | W+R | 2009-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LphpRKeFFRgMDoFTWC%2B0gw%3D%3D) | 
-| 第11回農心杯韓国選抜戦 | Lee Changho | Kim Seungjun | W+1.5 | 2009-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FPX0gZImqAAeE4Yo1osV1w%3D%3D) | 
-| 2009年韓国囲碁リーグ | Kim Jiseok | Lee Changho | W+R | 2009-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LXS3XaYrLDOL1sWklKYi8w%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Changho | Han Wonggyu | B+7.5 | 2009-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=STTro%2F8%2BK7Jm3DdiLECa9g%3D%3D) | 
-| 第37期名人戦（韓国）リーグB | Lee Changho | Choi Myeonghun | B+R | 2009-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rYFBc7BjEmUTEvcLFndSHg%3D%3D) | 
-| 2009年韓国囲碁リーグ | Kang Dongyun | Lee Changho | B+R | 2009-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X9Fvb3L7dqejnBhF8JWSkw%3D%3D) | 
-| 第5期物価情報杯プロ棋戦決勝トーナメント準決勝 | Lee Changho | Park Yeonghun | B+0.5 | 2009-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FwAgq5neZu7myB9Egx5Vvw%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯決勝 | Lee Changho | Kang Dongyun | W+2.5 | 2009-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KX6%2FtLFLyIGRn3RAHPXaaQ%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯準決勝 | Lee Changho | Chang Hao | B+4.5 | 2009-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xow5veJ%2BerA6axbNRJ2Gag%3D%3D) | 
-| 第5期物価情報杯プロ棋戦決勝トーナメント1回戦 | Lee Changho | Lee Jaeung | B+R | 2009-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PffqYWy5N9w6%2FcxKPjwCWQ%3D%3D) | 
-| 第28回KBS杯囲碁王戦本戦2回戦 | Lee Changho | Lee Huiseong | B+1.5 | 2009-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BZLe1u4yYRO7gt5h%2FJTe6Q%3D%3D) | 
-| 第7回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Lee Changho | Chang Hao | W+R | 2009-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BJhzRsP3XXbo3mcITi2ySg%3D%3D) | 
-| 第7回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Chang Hao | Lee Changho | B+R | 2009-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b336hgUJvbmin8kTEfJG%2FA%3D%3D) | 
-| 2009年韓国囲碁リーグ | Choi Cheolhan | Lee Changho | W+2.5 | 2009-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Xs5rJXSLAqNOl%2BByLzdfw%3D%3D) | 
-| 第5期物価情報杯プロ棋戦リーグB | Paek Hongseok | Lee Changho | B+R | 2009-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S49pBS2FaIWHIxmBnHdnHQ%3D%3D) | 
-| 第21回テレビアジア選手権準決勝 | Kong Jie | Lee Changho | B+2.5 | 2009-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DNo4%2FFkFxD07ajUnpLot6w%3D%3D) | 
-| 第21回テレビアジア選手権1回戦 | Yuki Satoshi | Lee Changho | W+R | 2009-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DJWylzmWIt2cn19OurSGVg%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯3回戦 | Yamashita Keigo | Lee Changho | W+4.5 | 2009-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kff4UYK0rTsI2AYweMFe%2Fg%3D%3D) | 
-| 第5期物価情報杯プロ棋戦リーグB | Lee Changho | missing | B+R | 2009-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4zWDM%2Bb0j0VCqY9qJ1xVgA%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Changho | Park Seunghwa | B+R | 2009-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=35FsqPjH8sQ2uoP3XRZRIQ%3D%3D) | 
-| 第14回LG杯世界棋王戦2回戦 | Iyama Yuta | Lee Changho | W+R | 2009-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WE8b5Qys9W7AztpRd2i%2Fng%3D%3D) | 
-| 第14回LG杯世界棋王戦1回戦 | Tuo Jiaxi | Lee Changho | W+R | 2009-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=21IQfoy9bf0NeFUZ5Gyq1g%3D%3D) | 
-| 第5期物価情報杯プロ棋戦リーグB | Kim Hyeongwoo | Lee Changho | W+R | 2009-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3k7TE1%2BLVO8aZ%2Bh0xMl%2BZA%3D%3D) | 
-| 第6回応氏杯世界選手権決勝五番勝負第4局 | Lee Changho | Choi Cheolhan | W+R | 2009-04-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=imYWf%2Bc5jkrzDm7OxJNffQ%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯2回戦 | Lee Changho | Takao Shinji | B+R | 2009-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=82wpf1gPQSE3wrjaSub45A%3D%3D) | 
-| 第1回BCカード杯世界選手権3回戦 | Piao Wenyao | Lee Changho | B+R | 2009-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4%2BSAUuA4Vzr9iAqXoCYYQw%3D%3D) | 
-| 第1回BCカード杯世界選手権2回戦 | Lee Changho | Zhu Yuanhao | B+R | 2009-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EVWrObKNOavK93ep4Z246A%3D%3D) | 
-| 第27回KBS杯囲碁王戦決勝三番勝負第3局 | Lee Sedol | Lee Changho | W+2.5 | 2009-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g%2FeyBs%2Fq2JH6DmPOUBNtxg%3D%3D) | 
-| 第27回KBS杯囲碁王戦決勝三番勝負第2局 | Lee Changho | Lee Sedol | W+R | 2009-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lbgi5mOVD6PKcxS6ClxyfA%3D%3D) | 
-| 第6回応氏杯世界選手権決勝五番勝負第3局 | Choi Cheolhan | Lee Changho | B+R | 2009-03-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MkouN97ck0Gs%2FOy03w3EWg%3D%3D) | 
-| 第6回応氏杯世界選手権決勝五番勝負第2局 | Lee Changho | Choi Cheolhan | W+7 | 2009-03-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BdK1HDKC4TQJafBR1UL8lA%3D%3D) | 
-| 第6回応氏杯世界選手権決勝五番勝負第1局 | Choi Cheolhan | Lee Changho | W+3 | 2009-03-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o31MUCy1o1dxmCybAmtKlQ%3D%3D) | 
-| 第1回BCカード杯世界選手権1回戦 | Lee Changho | Kim Junghyun | B+R | 2009-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8qoIJZMsc4zfIUJ2k0iuuQ%3D%3D) | 
-| 第27回KBS杯囲碁王戦決勝三番勝負第1局 | Lee Sedol | Lee Changho | W+R | 2009-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lb8%2FY2X3RJtMIizFtRMoJA%3D%3D) | 
-| 第27回KBS杯囲碁王戦敗者復活戦決勝 | Lee Changho | Kang Dongyun | B+R | 2009-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yyceGyEuBsjLZXgvLWzKrg%3D%3D) | 
-| 第10回マキシムコーヒー杯入神最強戦準決勝 | Lee Changho | Choi Cheolhan | W+R | 2009-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8j7b8MgSnkuCEnntH292cg%3D%3D) | 
-| 第4期圓益杯十段戦準決勝 | Park Junghwan | Lee Changho | B+R | 2009-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OH9RRAysoDMNFonsmVRzXQ%3D%3D) | 
-| 第27回KBS杯囲碁王戦敗者復活戦準決勝 | Bae Junhee | Lee Changho | W+6.5 | 2009-01-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xbzcn8XP8VPSPmkedvzyqg%3D%3D) | 
-| 第4期圓益杯十段戦4回戦 | Lee Sedol | Lee Changho | W+R | 2008-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0A8zN3PCeJY8o5YOzvOuNA%3D%3D) | 
-| 第27回KBS杯囲碁王戦敗者復活戦4回戦 | Lee Changho | Mok Jinseok | B+R | 2008-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=epEwY%2BwLTeeihOBw6L7FwQ%3D%3D) | 
-| 第7回春蘭杯世界囲碁選手権準決勝 | Lee Changho | Kong Jie | B+R | 2008-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jNv8S235pSg%2BHKsgfV5ekA%3D%3D) | 
-| 第7回春蘭杯世界囲碁選手権3回戦 | Lee Changho | Gu Li | B+R | 2008-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uRuTz8mGVTqHgMnBcrrcBQ%3D%3D) | 
-| 第10回マキシムコーヒー杯入神最強戦3回戦 | Lee Changho | Seo Nungwuk | B+4.5 | 2008-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BXu%2FR7O6f84HPR0K8u4W1Q%3D%3D) | 
-| 第27回KBS杯囲碁王戦本戦4回戦 | Kang Dongyun | Lee Changho | B+2.5 | 2008-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pLI42921OroHAejyCT2lsg%3D%3D) | 
-| 第13回三星火災杯世界オープン囲碁選手権3回戦 | Lee Sedol | Lee Changho | B+R | 2008-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9wo9OCyWA58XO2Pma0DEWA%3D%3D) | 
-| 第36期名人戦（韓国）リーグプレーオフ | Lee Changho | Weon Seongjin | W+R | 2008-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a04rjq9MoPcIrbiFj8BfOg%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Lee Sedol | Lee Changho | W+R | 2008-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OTvXAqZkr3UB5aRP%2F1jAwQ%3D%3D) | 
-| 第13回LG杯世界棋王戦準決勝 | Lee Changho | Gu Li | W+1.5 | 2008-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TeRinpTRlC8EhHLTfNcCQw%3D%3D) | 
-| 第13回LG杯世界棋王戦3回戦 | Lee Changho | Yamashita Keigo | B+4.5 | 2008-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M25zHDgdsPg3hYKxZ7SFkQ%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Weon Seongjin | Lee Changho | W+R | 2008-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7K6V68OYph5Ie4t%2FGHkzEw%3D%3D) | 
-| 第10回マキシムコーヒー杯入神最強戦2回戦 | Lee Changho | Cho Hanseung | B+R | 2008-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I2Z2fLSOyw5UI%2FLEpkIdpA%3D%3D) | 
-| 2008年韓国囲碁リーグ | Choi Myeonghun | Lee Changho | B+R | 2008-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m7QP%2Fkyuxnmg2SyytD612Q%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Mok Jinseok | Lee Changho | B+R | 2008-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DXNmxdrwRDf25RwhG1nlBw%3D%3D) | 
-| 2008年韓国囲碁リーグ | Weon Seongjin | Lee Changho | B+R | 2008-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=shnJ9EjTCrlqcXljLXhPgg%3D%3D) | 
-| 第6回応氏杯世界選手権準決勝三番勝負第2局 | Lee Changho | Lee Sedol | B+R | 2008-09-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lCAnz%2FYQ%2FU%2BVgBt8ZBjxhg%3D%3D) | 
-| 第6回応氏杯世界選手権準決勝三番勝負第1局 | Lee Sedol | Lee Changho | W+R | 2008-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TO6mjXvTmR4OBuGnWrhYhA%3D%3D) | 
-| 2008年韓国囲碁リーグ | Lee Changho | Lee Jungwoo | W+R | 2008-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rDJkQa9awWwUQRJKrmmnlw%3D%3D) | 
-| 2008年韓国囲碁リーグ | missing | Lee Changho | W+R | 2008-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sKQ6kbjlYC7lzgEHgCSbCw%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Lee Changho | Cho Hunhyun | B+4.5 | 2008-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tthEeCdZerA1ybpwMWLGHA%3D%3D) | 
-| 第13回三星火災杯世界オープン囲碁選手権2回戦 | Lee Changho | Cho Hanseung | B+1.5 | 2008-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3duSqAGnKEJOvM6Xxrkavg%3D%3D) | 
-| 第13回三星火災杯世界オープン囲碁選手権1回戦 | Zheng Yan | Lee Changho | W+R | 2008-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JVRvUnLnjSYnOKUwiZVOVQ%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Lee Changho | Piao Wenyao | W+R | 2008-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Iij%2BEw7Q9jCbn2xbYWxW%2Bg%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Lee Changho | Fernand Aguilar | B+R | 2008-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lAs09d%2F9fryhGFN88LAg8A%3D%3D) | 
-| 第27回KBS杯囲碁王戦本戦3回戦 | Lee Changho | Paek Hongseok | B+R | 2008-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ugibDjRGYlv9UQshdW4O6Q%3D%3D) | 
-| 2008年韓国囲碁リーグ | Lee Changho | Lee Hyunho | B+R | 2008-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E%2BvrPjP0v2kZ8mioD5xNxg%3D%3D) | 
-| 第5期電子ランド杯王中王戦決勝三番勝負第2局 | Lee Changho | Mok Jinseok | B+R | 2008-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yU9Q5mFQJXVhgA9d%2F6dQuQ%3D%3D) | 
-| 第5期電子ランド杯王中王戦決勝三番勝負第1局 | Mok Jinseok | Lee Changho | W+R | 2008-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fmWg82fkwmIGZDikIam%2BNw%3D%3D) | 
-| 2008年韓国囲碁リーグ | Lee Changho | Kim Kiyoung | B+7.5 | 2008-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vkFhCTlzMhjSFVr%2FP09QxA%3D%3D) | 
-| 第5期電子ランド杯王中王戦準決勝 | Kang Dongyun | Lee Changho | W+R | 2008-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w%2FJT%2B3lZihPi4L47iUd5JA%3D%3D) | 
-| 第10回農心杯韓国選抜戦 | Lee Changho | Kang Dongyun | W+R | 2008-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u5jswUb0COepGP4HZC5LTQ%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Lee Changho | Park Cheongsang | B+2.5 | 2008-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0BhhtCgZe1YKOBDyqQTb0w%3D%3D) | 
-| 第10回農心杯韓国選抜戦 | Lee Changho | missing | B+6.5 | 2008-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lO60kkKrR28E1d9Gj9QyxA%3D%3D) | 
-| 第5期電子ランド杯王中王戦3回戦 | Kim Ilhwan | Lee Changho | W+R | 2008-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AgiKIUKlirHzCdPc3mIMhg%3D%3D) | 
-| 2008年韓国囲碁リーグ | Kim Hyeongwoo | Lee Changho | B+5.5 | 2008-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VHEJw%2B%2B8wcaNu7oKScOOvw%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯決勝 | Gu Li | Lee Changho | B+R | 2008-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=StuAkDjVWrtLEOddwDXS%2FA%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯準決勝 | Liu Xing | Lee Changho | W+R | 2008-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v%2FpJX8T6QogFAJTo4EUlHg%3D%3D) | 
-| 第4期物価情報杯プロ棋戦決勝トーナメント1回戦 | Lee Changho | Hong Seongji | W+R | 2008-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UOL96czzOTxjMgeJamqmZA%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Kang Dongyun | Lee Changho | B+R | 2008-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=flAootkZ4DF%2BlLOxcRuHtA%3D%3D) | 
-| 第5期電子ランド杯王中王戦2回戦 | Kim Seongjae | Lee Changho | W+R | 2008-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KWDMLxVDd9A7dBa2jYAlYA%3D%3D) | 
-| 第4期物価情報杯プロ棋戦リーグB | Lee Changho | Paek Hongseok | B+R | 2008-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7mM3WtlMy0cY9PwmiAwX4A%3D%3D) | 
-| 2008年韓国囲碁リーグ | Lee Changho | Yoo Changhyuk | B+R | 2008-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Klq7PeO6f88aCg0K8a23ig%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯3回戦 | Lee Changho | Yoda Norimoto | B+3.5 | 2008-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rbs3vU4TmhaggLF7C%2BL5Tg%3D%3D) | 
-| 第20回テレビアジア選手権準決勝 | Cho Hanseung | Lee Changho | B+R | 2008-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kfYc3IurDHv6UhP8wYsScQ%3D%3D) | 
-| 第20回テレビアジア選手権1回戦 | Lee Changho | Cho Chikun | B+1.5 | 2008-06-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x8ZQoQF4xPl3spsYebmD5Q%3D%3D) | 
-| 第13回LG杯世界棋王戦2回戦 | Lee Changho | Cho Chikun | B+R | 2008-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=69eyASf4XkOA4m8QSY2YKw%3D%3D) | 
-| 第13回LG杯世界棋王戦1回戦 | Xie He | Lee Changho | W+R | 2008-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xBsrFywgaRk8khqbG6DJAA%3D%3D) | 
-| 2008年韓国囲碁リーグ | Lee Changho | Mok Jinseok | B+1.5 | 2008-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EBj8MBh%2B6Jb6z4J1jWN0Ig%3D%3D) | 
-| 第27回KBS杯囲碁王戦本戦2回戦 | On Sojin | Lee Changho | W+9.5 | 2008-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QCWYyfcaDplbJCb4l6Un%2Fg%3D%3D) | 
-| 2008年韓国囲碁リーグ | Lee Changho | Choi Cheolhan | W+R | 2008-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pa%2BibKnaDkgGXplpjPfXGA%3D%3D) | 
-| 第4期物価情報杯プロ棋戦リーグB | Yoo Changhyuk | Lee Changho | W+9.5 | 2008-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JRNWuH7uVYnrDuZZTj5Rqw%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Lee Changho | Choi Myeonghun | B+R | 2008-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vm%2FxCnPlMxX6B1VoPJQePA%3D%3D) | 
-| 第5期電子ランド杯王中王戦1回戦 | Cho Hunhyun | Lee Changho | W+R | 2008-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2ByU9%2FI%2BXOtFTuafP1DKBkw%3D%3D) | 
-| 第6回応氏杯世界選手権3回戦 | Lee Changho | Cho Chikun | B+3 | 2008-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LW8jZqFxr1ySea11xewhOw%3D%3D) | 
-| 第6回応氏杯世界選手権2回戦 | Xie He | Lee Changho | W+R | 2008-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VeINM1cTS%2BOqA5XMzw0JhQ%3D%3D) | 
-| 2008年韓国囲碁リーグ | Hong Seongji | Lee Changho | B+3.5 | 2008-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XEtq40fxYqZ%2BRtED8uExgw%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Cho Hanseung | Lee Changho | B+1.5 | 2008-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6ab4%2FTnyPP0gMwHUjt7kZQ%3D%3D) | 
-| 第4期物価情報杯プロ棋戦リーグB | Lee Changho | missing | B+R | 2008-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GB%2BB80Jd4oCxWd9d8M7Oxg%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯2回戦 | Lee Changho | Kong Jie | B+R | 2008-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o85IZad27sbMiK0fFMO9vA%3D%3D) | 
-| 2008年韓国囲碁リーグ | Kang Dongyun | Lee Changho | B+R | 2008-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BzCITErfzbxTkyf6lxCqwA%3D%3D) | 
-| 第7回春蘭杯世界囲碁選手権2回戦 | Lee Changho | Chen Yaoye | B+3.5 | 2008-03-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JRQ9r%2BvmCjjjSyiPoNmTzA%3D%3D) | 
-| 第9回農心辛ラーメン杯世界囲碁最強戦第12戦 | Lee Changho | Chang Hao | W+0.5 | 2008-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qIt2%2FLeMNNz2lBoopYjN7Q%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Choi Wongyong | Lee Changho | W+1.5 | 2008-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GZOhHN6wihrDNCGeneH0MA%3D%3D) | 
-| 第3期圓益杯十段戦決勝三番勝負第2局 | Lee Changho | Mok Jinseok | B+R | 2008-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sNgQYc6DC%2FycgxTc6JZVDQ%3D%3D) | 
-| 第36期名人戦（韓国）予選 | Lee Changho | Yun Junsang | B+R | 2008-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4KmE5M9771JpfUJAUPhOtQ%3D%3D) | 
-| 第3期圓益杯十段戦決勝三番勝負第1局 | Mok Jinseok | Lee Changho | W+R | 2008-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rnk4U9Lnr0KR4Lei0N2ypA%3D%3D) | 
-| 第3期圓益杯十段戦準決勝 | Lee Changho | Lee Yeongkyu | B+R | 2008-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MCoZWAT0xEa6hF38h11YjA%3D%3D) | 
-| 第5期電子ランド杯王中王戦予選 | An Joyeong | Lee Changho | W+R | 2008-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1JGJP2JZLUF5rtWrB%2FVrtg%3D%3D) | 
-| 第5期電子ランド杯王中王戦予選 | Cho Hanseung | Lee Changho | W+R | 2008-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bdEyOVREW%2FKoZjC48zTpRw%3D%3D) | 
-| 第5期電子ランド杯王中王戦予選 | Lee Changho | Mok Jinseok | B+0.5 | 2008-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0wwaiuzme16%2Fhu00FEPUaA%3D%3D) | 
-| 第3期圓益杯十段戦4回戦 | Lee Changho | Ko Keuntae | B+R | 2007-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z30TnuDVD6WaAIJS5fOtRg%3D%3D) | 
-| 第26回KBS杯囲碁王戦決勝三番勝負第3局 | Lee Changho | Cho Hanseung | B+2.5 | 2007-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iitjf2lbdNAOiWS%2BX8S5og%3D%3D) | 
-| 第26回KBS杯囲碁王戦決勝三番勝負第2局 | Cho Hanseung | Lee Changho | W+R | 2007-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2zBoUDFs2uAVnT58VeHi9w%3D%3D) | 
-| 第26回KBS杯囲碁王戦決勝三番勝負第1局 | Lee Changho | Cho Hanseung | W+3.5 | 2007-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kpkJSmgcmERi4X5d1ypK7A%3D%3D) | 
-| 第26回KBS杯囲碁王戦敗者復活戦決勝 | Lee Changho | Choi Cheolhan | B+1.5 | 2007-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fADtdx28PN%2FBGhyMErX6zQ%3D%3D) | 
-| 2007年韓国囲碁リーグ | Lee Changho | Park Yeonghun | B+R | 2007-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b7k%2BRvg2Hv2aDNjn%2FfxgFQ%3D%3D) | 
-| 第3期圓益杯十段戦3回戦 | Song Taekon | Lee Changho | W+R | 2007-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VCHKDmn6rAACKU2YyDInPQ%3D%3D) | 
-| 第26回KBS杯囲碁王戦本戦5回戦 | Cho Hanseung | Lee Changho | B+R | 2007-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pqNzC015zJNJS8VkLU6%2FVQ%3D%3D) | 
-| 2007年韓国囲碁リーグ | Mok Jinseok | Lee Changho | W+5.5 | 2007-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9WBZ4dr2YSTWYxVZ0mr69w%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦リーグ | Choi Cheolhan | Lee Changho | W+R | 2007-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JW8J%2F6SQuXKhBrTkzywGzg%3D%3D) | 
-| 第3期圓益杯十段戦2回戦 | Lee Changho | missing | B+R | 2007-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nolqhMgGwzMjTtjl%2Byh71A%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦リーグ | Cho Hanseung | Lee Changho | B+R | 2007-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VPcsUvtVn34nSWD5bNSpLQ%3D%3D) | 
-| 2007年韓国囲碁リーグ | Lee Changho | Choi Cheolhan | B+4.5 | 2007-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BCRPOC6HP1C7mV6o%2FYk51Q%3D%3D) | 
-| 2007年韓国囲碁リーグ | Lee Changho | Kang Dongyun | W+R | 2007-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=76iRbE4SiMTRI7YLyUeYHA%3D%3D) | 
-| 第3期圓益杯十段戦1回戦 | Lee Changho | Kang Dongyun | B+R | 2007-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bt%2BDXFZbw%2BQsl16Sl9zfyQ%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦リーグ | Lee Changho | Hong Seongji | W+0.5 | 2007-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n%2BL0506d6Xo3ibJWYWq6wA%3D%3D) | 
-| 第35期名人戦（韓国）リーグ | Lee Changho | Lee Yeongkyu | B+R | 2007-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QiyHGjhJ%2BLJ2AtkrWB35%2Bg%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権2回戦 | Lee Changho | Han Sanghoon | W+2.5 | 2007-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1FFEf0DD0KiA5rGworoeig%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権1回戦 | Ko Iso | Lee Changho | W+R | 2007-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VJiIkPT6tlwpRQzLbyjiqA%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦リーグ | Mok Jinseok | Lee Changho | W+R | 2007-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PZppnXasiich6vyeO%2BlD9A%3D%3D) | 
-| 第35期名人戦（韓国）リーグ | Lee Changho | Kim Jiseok | B+R | 2007-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sQJtEucbuadH5DR9R%2FOL3A%3D%3D) | 
-| 2007年韓国囲碁リーグ | Heo Yongho | Lee Changho | W+R | 2007-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RxG7e0yCwCFK0PoEDbcsaA%3D%3D) | 
-| 第35期名人戦（韓国）リーグ | Kim Seungjun | Lee Changho | W+8.5 | 2007-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xa94EhSqte18GCCrHDGlQg%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦リーグ | On Sojin | Lee Changho | B+R | 2007-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dakap%2FMDXd%2FVIxaVkM%2BhTQ%3D%3D) | 
-| 第3回中環杯世界囲碁選手権決勝 | Park Cheongsang | Lee Changho | W+R | 2007-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MKcF1IeeP7pCYzAN4I6G4Q%3D%3D) | 
-| 第3回中環杯世界囲碁選手権準決勝 | Cho Hanseung | Lee Changho | W+R | 2007-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OSI%2FESIwTWF2UW8EyYhhMQ%3D%3D) | 
-| 第3回中環杯世界囲碁選手権2回戦 | Lee Changho | Takao Shinji | B+R | 2007-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3O7VzhCEsBCDPVj9j58N3A%3D%3D) | 
-| 第3回中環杯世界囲碁選手権1回戦 | Lee Changho | Cho U | B+R | 2007-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xIeQwBE2wEs2dgDJf5Ha4w%3D%3D) | 
-| 第26回KBS杯囲碁王戦本戦4回戦 | Lee Sedol | Lee Changho | W+R | 2007-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lQARDPIobDFo5sqtbhUKQg%3D%3D) | 
-| 2007年韓国囲碁リーグ | Lee Changho | Jin Donggyu | W+R | 2007-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aRtSNJ3FQuLkHyP%2B1OFWAw%3D%3D) | 
-| 第35期名人戦（韓国）リーグ | Lee Changho | Lee Sedol | W+R | 2007-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UM2Glue%2BYluLoaZc28Usdg%3D%3D) | 
-| 第51期国手戦（韓国）1回戦 | Lee Changho | missing | W+1.5 | 2007-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I3pj5YTMgCNGYZufjduWAQ%3D%3D) | 
-| 2007年韓国囲碁リーグ | Cho Hanseung | Lee Changho | W+R | 2007-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SLWHZnn%2Fv4zxzYESpjVkRQ%3D%3D) | 
-| 第41期王位戦挑戦手合五番勝負第5局 | Yun Junsang | Lee Changho | W+R | 2007-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QKdwWnFsNvSRflspZm%2Bs%2FA%3D%3D) | 
-| 第4期電子ランド杯王中王戦決勝三番勝負第3局 | Kang Dongyun | Lee Changho | B+R | 2007-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2Bb468xPQm6%2Bt%2Bm665kliQ%3D%3D) | 
-| 第9回農心杯韓国選抜戦 | Lee Changho | Weon Seongjin | W+R | 2007-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r20ImPFtF1fwRE3UCY5G%2Bw%3D%3D) | 
-| 2007年韓国囲碁リーグ | Kang Dongyun | Lee Changho | B+4.5 | 2007-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3CBXEW%2Fwvtys%2Fb5B3DDcTg%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯決勝 | Lee Changho | Park Yeonghun | W+1.5 | 2007-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0BznVkOFXcupqS7KIcadQQ%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯準決勝 | Lee Changho | Cho U | B+R | 2007-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cxn27alUHeEZsDP9RzGHjA%3D%3D) | 
-| 第4期電子ランド杯王中王戦決勝三番勝負第2局 | Lee Changho | Kang Dongyun | B+R | 2007-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zja27W1HON%2FQjY45gxal1g%3D%3D) | 
-| 第4期電子ランド杯王中王戦決勝三番勝負第1局 | Kang Dongyun | Lee Changho | B+1.5 | 2007-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DmpTTWajO5VERV8M4IoDLw%3D%3D) | 
-| 第3期物価情報杯プロ棋戦リーグB | Lee Changho | Cho Hunhyun | W+R | 2007-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Je7NA93LbbLzlMBf3%2FqRIA%3D%3D) | 
-| 第41期王位戦挑戦手合五番勝負第4局 | Yun Junsang | Lee Changho | W+1.5 | 2007-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x2taxmiabuGCoHkWrfVicQ%3D%3D) | 
-| 第4期電子ランド杯王中王戦準決勝 | Lee Changho | Kim Ilhwan | B+R | 2007-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vJDilezQrBnxIB1VR%2FT9rQ%3D%3D) | 
-| 2007年韓国囲碁リーグ | Lee Changho | Park Junghwan | B+R | 2007-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pl1rKw0FAgWFUPIzlPoKvQ%3D%3D) | 
-| 第41期王位戦挑戦手合五番勝負第3局 | Lee Changho | Yun Junsang | W+3.5 | 2007-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LdKYlnoIY6ijn6b2OBAKwQ%3D%3D) | 
-| 第4期電子ランド杯王中王戦3回戦 | Lee Changho | Choi Cheolhan | B+R | 2007-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MLYsFPLqIYm5QsXPubRBTQ%3D%3D) | 
-| 第41期王位戦挑戦手合五番勝負第2局 | Yun Junsang | Lee Changho | W+0.5 | 2007-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YTl9zUkGtnRG5dXDvA2Iwg%3D%3D) | 
-| 2007年韓国囲碁リーグ | Lee Changho | An Joyeong | B+R | 2007-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XQ3a%2B%2BAeT42D0toEIGHM2g%3D%3D) | 
-| 第12回LG杯世界棋王戦1回戦 | Lee Changho | Hu Yaoyu | W+0.5 | 2007-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wObThBI8qY%2BVIB0Luv6LFA%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯3回戦 | Lee Changho | Hu Yaoyu | B+2.5 | 2007-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nc7e9Nz0En18WW%2BtWJwWwg%3D%3D) | 
-| 2007年韓国囲碁リーグ | Lee Changho | Rui Naiwei | B+R | 2007-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NlWNlCKwXIze0OO7FiPm1w%3D%3D) | 
-| 第35期名人戦（韓国）リーグ | Bae Junhee | Lee Changho | W+5.5 | 2007-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RZx31X%2BVLCcbtjqMgsfOng%3D%3D) | 
-| 第41期王位戦挑戦手合五番勝負第1局 | Lee Changho | Yun Junsang | W+R | 2007-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nZEQW4JTRS7o%2BUP%2FeyQUVw%3D%3D) | 
-| 第26回KBS杯囲碁王戦本戦3回戦 | Lee Changho | Park Cheongsang | B+R | 2007-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dIDMG9uwvxQWwyc1Mv0b4Q%3D%3D) | 
-| 第4期電子ランド杯王中王戦2回戦 | Lee Changho | Lee Yeongkyu | B+2.5 | 2007-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eCo1VXUWM2FMUMLwF6asCg%3D%3D) | 
-| 第35期名人戦（韓国）リーグ | Lee Changho | Park Cheongsang | W+0.5 | 2007-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=drY%2B9C952aWzFuaBxZTZFA%3D%3D) | 
-| 第3期物価情報杯プロ棋戦リーグB | Lee Changho | Jin Donggyu | B+R | 2007-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NjtKHav4GifKDg9YwXnRdg%3D%3D) | 
-| 2007年韓国囲碁リーグ | Lee Changho | Lee Yeongkyu | W+R | 2007-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ePo0YiiFdOv34PIoJIDTw%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦リーグ | Choi Myeonghun | Lee Changho | W+11.5 | 2007-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A2QBHy75XrxxyoeEJxf4Yw%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦リーグ | Park Yeonghun | Lee Changho | B+R | 2007-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xb2qtB7XFLHPb%2BxeVRDxlQ%3D%3D) | 
-| 2007年韓国囲碁リーグ | Bae Junhee | Lee Changho | W+R | 2007-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7v3LukN71C1WayND73JghQ%3D%3D) | 
-| 第35期名人戦（韓国）リーグ | Cho Hanseung | Lee Changho | B+R | 2007-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gmiFS5yXwP8vnbEUr2kKtA%3D%3D) | 
-| 第3期物価情報杯プロ棋戦リーグB | Hong Seongji | Lee Changho | B+4.5 | 2007-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=12%2FcvDK96ko7G9jsgxgD9Q%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯2回戦 | Lee Changho | Chang Hao | B+R | 2007-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W6R64h3zka2stEDhn1hobw%3D%3D) | 
-| 第4期電子ランド杯王中王戦1回戦 | Lee Changho | Yang Jaeho | B+R | 2007-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pTAHT%2FVKchgK9FisT0%2B1sA%3D%3D) | 
-| 第35期名人戦（韓国）リーグ | Lee Changho | Mok Jinseok | W+2.5 | 2007-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WCEqaBILf0Q%2Bujop4El1wg%3D%3D) | 
-| 第50期国手戦（韓国）挑戦手合五番勝負第4局 | Lee Changho | Yun Junsang | W+R | 2007-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GwYUpYp%2BWV4HbXrsvJ2qrg%3D%3D) | 
-| 第50期国手戦（韓国）挑戦手合五番勝負第3局 | Yun Junsang | Lee Changho | W+R | 2007-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PstYfEs%2FigUmIPt7h%2FsqMQ%3D%3D) | 
-| 第35期名人戦（韓国）リーグ | Lee Changho | Kim Kiyoung | B+4.5 | 2007-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fi2YE3F%2FVXKpK9pErWwGPA%3D%3D) | 
-| 第8回農心辛ラーメン杯世界囲碁最強戦第14戦 | Lee Changho | Gu Li | B+1.5 | 2007-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=moDs4k0LQZLGJn96QaT1qA%3D%3D) | 
-| 第8回農心辛ラーメン杯世界囲碁最強戦第13戦 | Kong Jie | Lee Changho | W+R | 2007-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5L3mZ04MlHmWZWZSBAIo0g%3D%3D) | 
-| 第50期国手戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Yun Junsang | W+0.5 | 2007-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FBmvY9Uz%2F2h8zT%2FGHNeDLg%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権決勝三番勝負第2局 | Chang Hao | Lee Changho | B+3.5 | 2007-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FJILqoIjyPSNaOyplYzNaQ%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権決勝三番勝負第1局 | Lee Changho | Chang Hao | W+R | 2007-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fMLZ4%2Bi4zaTWl8qRH%2BAqlw%3D%3D) | 
-| 第50期国手戦（韓国）挑戦手合五番勝負第1局 | Yun Junsang | Lee Changho | B+R | 2007-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VFPfekFRZVPkwjdvqU1I4g%3D%3D) | 
-| 第2期圓益杯十段戦4回戦 | Lee Changho | An Joyeong | W+R | 2006-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QjyMjzKBdlWRO1n4XIcbIA%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権準決勝三番勝負第2局 | Lee Changho | Paek Hongseok | B+R | 2006-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NYTcuIqQghLj0o%2BUgiR3cw%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権準決勝三番勝負第1局 | Paek Hongseok | Lee Changho | W+R | 2006-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kQdrfJmPvbC0QOIMSKuTRA%3D%3D) | 
-| 2006年韓国囲碁リーグ | Lee Changho | Kim Seonryong | B+R | 2006-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HFe9s1Hx9EDuXXvKVHrVjA%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権3回戦 | Lee Changho | Piao Wenyao | B+R | 2006-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RJYScXqhFEg56JuzpZNCJw%3D%3D) | 
-| 2006年韓国囲碁リーグ | Lee Changho | Lee Huiseong | B+0.5 | 2006-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fw8HIKL5TuKlWGQZqDLMiQ%3D%3D) | 
-| 第11回LG杯世界棋王戦3回戦 | Lee Changho | Hu Yaoyu | W+R | 2006-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WK0RyIuK%2Bp29TeS3x1QOqQ%3D%3D) | 
-| 2006年韓国囲碁リーグ | missing | Lee Changho | B+R | 2006-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZTXzUGYBhBhrDzKttr6JKg%3D%3D) | 
-| 第25回KBS杯囲碁王戦敗者復活戦決勝 | Lee Changho | Lee Sedol | W+R | 2006-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2nTLanYrZtHzwO0CroAPdQ%3D%3D) | 
-| 第11期GSカルテックス杯プロ棋戦リーグ | Lee Sedol | Lee Changho | B+R | 2006-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QUTXsJtOzlEXeW%2BMzzmtRg%3D%3D) | 
-| 第11期GSカルテックス杯プロ棋戦リーグ | On Sojin | Lee Changho | B+0.5 | 2006-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HOv3tqJpqdFMZFTdZYVxKw%3D%3D) | 
-| 2006年韓国囲碁リーグ | Choi Wongyong | Lee Changho | W+R | 2006-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=66iwBDhVPz6HkPaHb6cM7g%3D%3D) | 
-| 第6回春蘭杯世界囲碁選手権3回戦 | Gu Li | Lee Changho | B+R | 2006-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8R7GVJ%2BqBGF8fw0wVyedWg%3D%3D) | 
-| 第11期GSカルテックス杯プロ棋戦リーグ | Lee Changho | missing | W+7.5 | 2006-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B1k85YTuVLdjSx4LNjArYw%3D%3D) | 
-| 2006年韓国囲碁リーグ | Cho Hunhyun | Lee Changho | W+R | 2006-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tvVr%2BO2zRLa2vVDbzcYTQw%3D%3D) | 
-| 第11期GSカルテックス杯プロ棋戦リーグ | Kim Seungjun | Lee Changho | W+7.5 | 2006-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RQCS6BVzyGqCj7qQ4pw7Mw%3D%3D) | 
-| 第25回KBS杯囲碁王戦本戦5回戦 | Choi Cheolhan | Lee Changho | B+R | 2006-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zewCE%2BaY8uMsxT%2FxL9%2BsMQ%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権2回戦 | Lee Changho | Zhou Heyang | B+R | 2006-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N75tgM%2FvUK0fZkEsEN6JsA%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権1回戦 | Lee Changho | Hu Yaoyu | B+R | 2006-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yHocy54nw2Vl5b%2B0CEh0pw%3D%3D) | 
-| 2006年韓国囲碁リーグ | Kim Seungjun | Lee Changho | W+4.5 | 2006-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JzcDfJ95VEK1qht%2Ffs%2F%2FXQ%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦準決勝 | Lee Sedol | Lee Changho | B+R | 2006-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1vUgcmeYfjUDRp4scqyvVQ%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦3回戦 | Peng Quan | Lee Changho | W+2.5 | 2006-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qkb5AgE75Z6unBiarQkH8w%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Lee Changho | Gu Li | B+R | 2006-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AObIwuy5X6Q6DcTvZL8c1g%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Alexander Dinerchtein | Lee Changho | W+R | 2006-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ihePg7TYv9DIK8x2Ac5iJg%3D%3D) | 
-| 第25回KBS杯囲碁王戦本戦4回戦 | Lee Sedol | Lee Changho | W+R | 2006-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ooZ8atG166zjEUIgVBzoiA%3D%3D) | 
-| 第18回テレビアジア選手権決勝 | Lee Changho | Wang Xi | W+R | 2006-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tV6d20mA9We5MIxHxjamDg%3D%3D) | 
-| 第18回テレビアジア選手権準決勝 | Hane Naoki | Lee Changho | W+2.5 | 2006-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WGpyzOHYulQGrcieDiT65g%3D%3D) | 
-| 第18回テレビアジア選手権1回戦 | Lee Changho | Imamura Toshiya | B+6.5 | 2006-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=39vwQpqxAA7Eg1919Evq1g%3D%3D) | 
-| 2006年韓国囲碁リーグ | Kim Jiseok | Lee Changho | W+R | 2006-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6aIG9XMQTA%2FfLcIud85d2g%3D%3D) | 
-| 第8回農心杯韓国選抜戦 | Lee Hyeonwuk | Lee Changho | W+R | 2006-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2bQ%2Bl7cbxg6wtXGOxxrVpQ%3D%3D) | 
-| 2006年韓国囲碁リーグ | Lee Changho | Choi Wongyong | B+R | 2006-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j1vAYffCpEyULAJY7T79mg%3D%3D) | 
-| 第8回農心杯韓国選抜戦 | Lee Changho | Kim Seungjun | B+1.5 | 2006-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yn7lRqgsXt7EWRnzhPLAqA%3D%3D) | 
-| 第40期王位戦挑戦手合五番勝負第3局 | Lee Yeongkyu | Lee Changho | W+R | 2006-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z8e2tFqGB7M77Miqdr2Xuw%3D%3D) | 
-| 第2期物価情報杯プロ棋戦決勝トーナメント準決勝 | Lee Changho | Choi Wongyong | W+R | 2006-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=74u%2FmpmpFSzWbgJ90pPANA%3D%3D) | 
-| 第40期王位戦挑戦手合五番勝負第2局 | Lee Changho | Lee Yeongkyu | B+R | 2006-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qDS4eAGgjIbNJ3kCiyfWHg%3D%3D) | 
-| 2006年韓国囲碁リーグ | Lee Changho | Cho Hunhyun | B+1.5 | 2006-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DVZ6ToI3gqj%2FAym92j7YvQ%3D%3D) | 
-| 第2期物価情報杯プロ棋戦決勝トーナメント1回戦 | Choi Cheolhan | Lee Changho | W+1.5 | 2006-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LkFt6bDeamKvAI0Kjkmwbg%3D%3D) | 
-| 第11期GSカルテックス杯プロ棋戦リーグ | Lee Changho | Park Yeonghun | B+R | 2006-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VxU%2FjqeL%2B%2Bthw97VmpWOhQ%3D%3D) | 
-| 2006年韓国囲碁リーグ | Lee Jungwoo | Lee Changho | W+8.5 | 2006-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w7pzw6fJp0jhMDnao%2Ff8Ig%3D%3D) | 
-| 第3期電子ランド杯王中王戦決勝三番勝負第2局 | Lee Changho | Park Cheongsang | B+R | 2006-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6qdxa8vRV1YFoghj%2B%2F8lZA%3D%3D) | 
-| 第3期電子ランド杯王中王戦決勝三番勝負第1局 | Park Cheongsang | Lee Changho | W+0.5 | 2006-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a902FgfTJv4Un1ClaQ8bZg%3D%3D) | 
-| 第40期王位戦挑戦手合五番勝負第1局 | Lee Yeongkyu | Lee Changho | W+1.5 | 2006-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8YhIVNaCXIfAoJ2idHxK%2BQ%3D%3D) | 
-| 第3期電子ランド杯王中王戦準決勝 | Cho Hunhyun | Lee Changho | W+9.5 | 2006-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XEPOO4M5Aiyg%2BJ1tzFO6oQ%3D%3D) | 
-| 2006年韓国囲碁リーグ | Lee Changho | Weon Seongjin | W+1.5 | 2006-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N0u7NMFvuchcuneoEvqNyA%3D%3D) | 
-| 第2期物価情報杯プロ棋戦リーグC | Lee Changho | Choi Wongyong | W+R | 2006-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mEHHteALb1f3nfYkPBYTEA%3D%3D) | 
-| 第3期電子ランド杯王中王戦3回戦 | Lee Changho | Cho Hyeyeon | B+R | 2006-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PziziFEqR370etxTIyZbOA%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯3回戦 | Lee Changho | Lee Sedol | W+4.5 | 2006-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xo91Nex4lB8iuvE0eJ%2B2dg%3D%3D) | 
-| 第25回KBS杯囲碁王戦本戦3回戦 | Weon Seongjin | Lee Changho | W+3.5 | 2006-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ns3PB8TCkRK%2Far1CIRFLig%3D%3D) | 
-| 第11期GSカルテックス杯プロ棋戦リーグ | Park Cheongsang | Lee Changho | W+2.5 | 2006-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hzax9J8Gl1TtSwwcclQSmQ%3D%3D) | 
-| 2006年韓国囲碁リーグ | Lee Changho | Kim Jiseok | B+0.5 | 2006-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=edjvwwMhhi9yIcT1L4fW%2Fw%3D%3D) | 
-| 第11回LG杯世界棋王戦2回戦 | Lee Changho | Kono Rin | B+1.5 | 2006-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ekqi14GPWxuZcr6r7RFEvg%3D%3D) | 
-| 第11回LG杯世界棋王戦1回戦 | Huang Yizhong | Lee Changho | W+3.5 | 2006-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7SDcvtqPEhogNZoQ3%2FRsUA%3D%3D) | 
-| 第2期物価情報杯プロ棋戦リーグC | Lee Changho | Han Chongjin | B+R | 2006-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sPB4dw%2F1ftv3AiI%2FxEqf%2FA%3D%3D) | 
-| 第3期電子ランド杯王中王戦2回戦 | Oh Kyuchul | Lee Changho | W+11.5 | 2006-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PfqxQFXRfyKWoH5LJetRVg%3D%3D) | 
-| 2006年韓国囲碁リーグ | Rui Naiwei | Lee Changho | W+R | 2006-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Aixv2PWP5k4e0JYXEgd9sw%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第3戦 | Lee Changho | Chang Hao | B+R | 2006-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sGr6X3kJRrvoq3xFu1%2Bo2A%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第2戦 | Lee Changho | Han Zenki | B+R | 2006-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=trKapfMzW60%2FZwacCrg8oA%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第1戦 | Lee Changho | Yoda Norimoto | W+2.5 | 2006-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0qL2p%2FrK1wJ0urDOzU2HSw%3D%3D) | 
-| 第11期GSカルテックス杯プロ棋戦リーグ | Lee Changho | Cho Hanseung | W+1.5 | 2006-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=65IU0IUy9z9nIWELdh%2FEJw%3D%3D) | 
-| 2006年韓国囲碁リーグ | Heo Yongho | Lee Changho | W+R | 2006-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c6A26mU2%2FaY72gRPHAWc%2BA%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯2回戦 | Yamashita Keigo | Lee Changho | W+2.5 | 2006-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xGPtmyx%2FV6AvnZ2RQJOpgQ%3D%3D) | 
-| 第3期電子ランド杯王中王戦1回戦 | Lee Changho | missing | B+R | 2006-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QpXh0wlTPTMUFsO1qRluVA%3D%3D) | 
-| 第2期物価情報杯プロ棋戦リーグC | Lee Changho | Rui Naiwei | B+R | 2006-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N8llC0tbH6Ta1Sml7iNNMw%3D%3D) | 
-| 第25回KBS杯囲碁王戦本戦2回戦 | Lee Changho | Choi Wongyong | B+R | 2006-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p9dY8sxRFTAl5Kllemn6Gg%3D%3D) | 
-| 第1回江原ランド杯韓中囲碁対抗戦第10戦 | Lee Changho | Chang Hao | W+3.5 | 2006-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ST73PCEK6bk1g4JrmUVn9w%3D%3D) | 
-| 第6回春蘭杯世界囲碁選手権2回戦 | Lee Changho | Chen Yaoye | B+R | 2006-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VV1mT%2F4J9oc4Ps9d3xlakg%3D%3D) | 
-| 第49期国手戦（韓国）挑戦手合五番勝負第5局 | Lee Changho | Choi Cheolhan | B+R | 2006-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=drn39%2BLJaLFu0bsNhI8ipg%3D%3D) | 
-| 第7回農心辛ラーメン杯世界囲碁最強戦第14戦 | Yoda Norimoto | Lee Changho | B+R | 2006-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oPL28jTILYZ%2B0c%2B7Qt0ECA%3D%3D) | 
-| 第49期国手戦（韓国）挑戦手合五番勝負第4局 | Choi Cheolhan | Lee Changho | B+R | 2006-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NF5%2BWCNT73IvOo3ImGCYrQ%3D%3D) | 
-| 第49期国手戦（韓国）挑戦手合五番勝負第3局 | Lee Changho | Choi Cheolhan | B+R | 2006-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FaHdD7DtydhTk74HDRgoBA%3D%3D) | 
-| 第49期国手戦（韓国）挑戦手合五番勝負第2局 | Choi Cheolhan | Lee Changho | B+R | 2006-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I7OXy9%2BCGW5Dz8H3sSkrRw%3D%3D) | 
-| 第49期国手戦（韓国）挑戦手合五番勝負第1局 | Lee Changho | Choi Cheolhan | B+R | 2006-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J1R%2F7U71%2BCtFT6BkoyHbkQ%3D%3D) | 
-| 第1期圓益杯十段戦決勝三番勝負第3局 | Park Yeonghun | Lee Changho | W+R | 2006-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TAiyJsktihoBjCcXGi9%2Fbg%3D%3D) | 
-| 第1期圓益杯十段戦決勝三番勝負第2局 | Lee Changho | Park Yeonghun | W+R | 2006-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hhSmsYQRkuzuXvU%2BonaX%2FA%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権決勝三番勝負第3局 | Luo Xihe | Lee Changho | B+5.5 | 2006-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zuy7mDgCmL6UIbRsyTC%2B0w%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権決勝三番勝負第2局 | Lee Changho | Luo Xihe | B+3.5 | 2006-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GTOVOKIGEfxM04B8ekCihg%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権決勝三番勝負第1局 | Luo Xihe | Lee Changho | B+R | 2006-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fAWqRcOkkpc2CCawF0O8JA%3D%3D) | 
-| 第1期圓益杯十段戦決勝三番勝負第1局 | Park Yeonghun | Lee Changho | W+1.5 | 2006-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6QnKbnnCY%2BuZqZIOwXpa3A%3D%3D) | 
-| 第49期国手戦（韓国）挑戦者決定戦第2局 | Lee Sedol | Lee Changho | W+R | 2006-01-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=diGHRYPIhHLUxeEeVKN6JA%3D%3D) | 
-| 第49期国手戦（韓国）挑戦者決定戦第1局 | Lee Changho | Lee Sedol | B+R | 2005-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jqxqq9j1J6N3bPP%2BKWyZfw%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権準決勝三番勝負第3局 | Lee Changho | Hu Yaoyu | B+R | 2005-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bXt2Y6U6ckHtAyoDtJXRFQ%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権準決勝三番勝負第2局 | Lee Changho | Hu Yaoyu | W+1.5 | 2005-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KM%2FKcTyaVuMPK1I0HuQIgA%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権準決勝三番勝負第1局 | Hu Yaoyu | Lee Changho | W+R | 2005-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZHAEnf42tB9NQHhIHAMceQ%3D%3D) | 
-| 2005年韓国囲碁リーグプレーオフ | Lee Changho | Choi Cheolhan | W+R | 2005-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BL4K5fGnK%2FUawqtDWcosZg%3D%3D) | 
-| 第10期GSカルテックス杯プロ棋戦決勝五番勝負第5局 | Choi Cheolhan | Lee Changho | B+R | 2005-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jm9j1cLSDfHFVnYUqPMcTQ%3D%3D) | 
-| 第10期GSカルテックス杯プロ棋戦決勝五番勝負第4局 | Choi Cheolhan | Lee Changho | B+R | 2005-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pDOCND1ZImtfgAWgrZIV%2Fg%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権3回戦 | Lee Changho | Yoo Changhyuk | B+5.5 | 2005-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mIISQpFB71EzRjr7MdOu%2FQ%3D%3D) | 
-| 第1期圓益杯十段戦準決勝 | Lee Changho | Choi Cheolhan | B+R | 2005-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zRMXJ2B5LE84dhIAjZG2Lg%3D%3D) | 
-| 第49期国手戦（韓国）勝者組決勝 | Lee Changho | missing | B+8.5 | 2005-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MreKhi2qE9AshLP1RjwNSw%3D%3D) | 
-| 第1期圓益杯十段戦3回戦 | Lee Changho | Hong Seongji | B+12.5 | 2005-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eVs7s5uFA9H8rEOpnhOPdw%3D%3D) | 
-| 2005年韓国囲碁リーグ | Yoo Changhyuk | Lee Changho | W+1.5 | 2005-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JUqaqIfnBr56MB8ym4nFew%3D%3D) | 
-| 第1期圓益杯十段戦2回戦 | Kang Dongyun | Lee Changho | W+R | 2005-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5esgE58hIbu2s%2FZLwZedFQ%3D%3D) | 
-| 第24回KBS杯囲碁王戦決勝三番勝負第2局 | Yoo Changhyuk | Lee Changho | W+R | 2005-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wrCTX0CgFzlExrR4yOeCSg%3D%3D) | 
-| 第1期物価情報杯プロ棋戦決勝三番勝負第2局 | Park Yeonghun | Lee Changho | B+4.5 | 2005-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ib1ubekZI79jQZp%2FIlp1nw%3D%3D) | 
-| 2005年韓国囲碁リーグ | Mok Jinseok | Lee Changho | W+R | 2005-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ym0ykMZ9G5Mojsow0iudrA%3D%3D) | 
-| 第10期GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Lee Changho | Choi Cheolhan | W+R | 2005-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KxQnIl9lFtdgioOaMPMlog%3D%3D) | 
-| 第1期物価情報杯プロ棋戦決勝三番勝負第1局 | Lee Changho | Park Yeonghun | W+2.5 | 2005-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7GAn7iv47sd4D7Pxbp%2F%2BLA%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権2回戦 | Lee Changho | Gu Li | B+0.5 | 2005-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=amz5OqIqFa6aP3xK5UFFdA%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権1回戦 | Lee Huiseong | Lee Changho | W+R | 2005-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yOmNTE54BT%2BR5jQmS7A0KQ%3D%3D) | 
-| 第24回KBS杯囲碁王戦決勝三番勝負第1局 | Lee Changho | Yoo Changhyuk | B+7.5 | 2005-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OgBFjLJn7luClAL2%2FdQX4g%3D%3D) | 
-| 第10期GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Choi Cheolhan | Lee Changho | W+R | 2005-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jowveq3gfgZtve%2FoHKRo2Q%3D%3D) | 
-| 第49期国手戦（韓国）本戦2回戦 | Cho Hunhyun | Lee Changho | W+R | 2005-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jl9b7GyZKQVKdmEThLVtOw%3D%3D) | 
-| 第10期GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Lee Changho | Choi Cheolhan | B+R | 2005-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gfzp7pV%2Fm39iHBv28bq%2B4g%3D%3D) | 
-| 2005年韓国囲碁リーグ | Choi Cheolhan | Lee Changho | B+5.5 | 2005-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nUUrWQW%2FDd%2FIiZsnQSuHqA%3D%3D) | 
-| 第1期圓益杯十段戦1回戦 | Lee Changho | missing | B+2.5 | 2005-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wDcEqip994Yy6%2F9qRPBiAQ%3D%3D) | 
-| 第10期GSカルテックス杯プロ棋戦準決勝 | Cho Hanseung | Lee Changho | W+R | 2005-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8dkPX0qWNrvLkakWd7f3tA%3D%3D) | 
-| 第2回中環杯世界囲碁選手権1回戦 | Lee Changho | O Meien | W+0.5 | 2005-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E6EGdC59%2Br2%2FASOH6TOUcQ%3D%3D) | 
-| 第1期物価情報杯プロ棋戦決勝トーナメント準決勝 | Cho Hanseung | Lee Changho | W+3.5 | 2005-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NnkPHJtBavmVCcC%2FvOi47g%3D%3D) | 
-| 2005年韓国囲碁リーグ | Park Yeonghun | Lee Changho | B+2.5 | 2005-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iFbGqzIuNXCigKt2CK%2BwBg%3D%3D) | 
-| 第1期物価情報杯プロ棋戦リーグA | Lee Changho | missing | B+R | 2005-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a4m3D9J1Gz67k0iwYEdpeA%3D%3D) | 
-| 第10期GSカルテックス杯プロ棋戦2回戦 | Lee Changho | missing | B+R | 2005-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=umAGi9qkrp5ItS7ijti80A%3D%3D) | 
-| 第24回KBS杯囲碁王戦本戦5回戦 | Yoo Changhyuk | Lee Changho | W+1.5 | 2005-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JtsDiKRXKR%2FMNEsag21PRg%3D%3D) | 
-| 第1期物価情報杯プロ棋戦リーグA | missing | Lee Changho | W+R | 2005-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Qyp9Hcf%2BpK%2BVLxW61e7Uw%3D%3D) | 
-| 第24回KBS杯囲碁王戦本戦4回戦 | Lee Yeongkyu | Lee Changho | W+6.5 | 2005-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UzkNaGLxv8EMQ1cJel0y6A%3D%3D) | 
-| 2005年韓国囲碁リーグ | Cho Hunhyun | Lee Changho | W+R | 2005-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oNkCQzT7Ai20O27cmocNvA%3D%3D) | 
-| 第39期王位戦挑戦手合五番勝負第4局 | Lee Changho | missing | B+2.5 | 2005-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7b7DYxGnyvyBfQaZZ96P%2Fg%3D%3D) | 
-| 第2期電子ランド杯王中王戦決勝三番勝負第2局 | Choi Cheolhan | Lee Changho | W+R | 2005-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GnGY3gQo5i31i%2FCmxl2Wcg%3D%3D) | 
-| 第39期王位戦挑戦手合五番勝負第3局 | missing | Lee Changho | W+2.5 | 2005-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wb%2FGC8tL0ELVz7Pc5su4SQ%3D%3D) | 
-| 第2期電子ランド杯王中王戦決勝三番勝負第1局 | Lee Changho | Choi Cheolhan | B+0.5 | 2005-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fy%2FFLGs0XdCPJAmbv5%2BW2A%3D%3D) | 
-| 第49期国手戦（韓国）本戦1回戦 | On Sojin | Lee Changho | W+3.5 | 2005-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BzRuumlExwNoimXfQx4ZKQ%3D%3D) | 
-| 第2期電子ランド杯王中王戦準決勝 | Kim Juho | Lee Changho | W+R | 2005-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z%2FcPzo8vbciddunaYQu4aQ%3D%3D) | 
-| 2005年韓国囲碁リーグ | Lee Changho | Song Taekon | W+R | 2005-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FZ2rg53CX1HOyRT6vttxgw%3D%3D) | 
-| 第39期王位戦挑戦手合五番勝負第2局 | Lee Changho | missing | B+R | 2005-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FzDtWyiF3hcKqh%2BbQhcKcg%3D%3D) | 
-| 第17回テレビアジア選手権1回戦 | Lee Changho | Cho U | W+2.5 | 2005-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C3NQKuws2nhw1CuAI91aKw%3D%3D) | 
-| 第39期王位戦挑戦手合五番勝負第1局 | missing | Lee Changho | B+R | 2005-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=waoV%2BlqUfyZ5bzWDBYxmZg%3D%3D) | 
-| 第2期電子ランド杯王中王戦3回戦 | Lee Changho | An Joyeong | B+R | 2005-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xw3JsffXOWoQKueuzwbpUA%3D%3D) | 
-| 第1期物価情報杯プロ棋戦リーグA | Oh Kyuchul | Lee Changho | W+10.5 | 2005-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FOdakhmBNkfEx6RT8%2Fva0Q%3D%3D) | 
-| 2005年韓国囲碁リーグ | Lee Sedol | Lee Changho | W+R | 2005-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JM43WBEEI93EI6AItmpYng%3D%3D) | 
-| 第10回LG杯世界棋王戦2回戦 | Chen Yaoye | Lee Changho | B+R | 2005-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WXCtCPSzLtDavbzalnceTQ%3D%3D) | 
-| 第10回LG杯世界棋王戦1回戦 | Wang Xi | Lee Changho | W+R | 2005-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5xKXchfZfzw5oa7tNpFIaQ%3D%3D) | 
-| 第2期電子ランド杯王中王戦2回戦 | Lee Changho | Kim Seungjun | B+R | 2005-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c58DX%2Ff6LWq78Uvzi3LaRg%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第3戦 | Lee Changho | Zhou Heyang | W+R | 2005-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i98qJm0ReECooOLTvJNN5w%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第2戦 | Lee Changho | Yamashita Keigo | B+7.5 | 2005-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AYKf5U9W1XIHKQ0Cgyin0w%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第1戦 | Lee Changho | Rin Kaiho | B+2.5 | 2005-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4gLGEi%2BwhkltZnR%2BHn3gaQ%3D%3D) | 
-| 第24回KBS杯囲碁王戦本戦3回戦 | Lee Changho | Mok Jinseok | B+R | 2005-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YB7vOnNL48ouWswPl5xLSQ%3D%3D) | 
-| 第18回世界囲碁選手権富士通杯2回戦 | Lee Changho | Gu Li | W+R | 2005-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8K2ce6gmBGuc3L0EL7jcdQ%3D%3D) | 
-| 第2期電子ランド杯王中王戦1回戦 | Lee Changho | Lee Yeongkyu | B+R | 2005-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=inMb6Kdp7oHRD%2FroTqH%2B4A%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権決勝三番勝負第3局 | Lee Changho | Zhou Heyang | B+R | 2005-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OEiUFlzeOv6oux%2BGPod3gw%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Zhou Heyang | Lee Changho | W+R | 2005-03-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kpS1wpGhU4c3xgfLMJjp%2BA%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Lee Changho | Zhou Heyang | W+0.5 | 2005-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PDkYdN9fwyWC9W9ZzsA3yA%3D%3D) | 
-| 第10期GSカルテックス杯プロ棋戦1回戦 | Lee Huiseong | Lee Changho | W+R | 2005-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ocWK6VeeMQ8N6TrqTfYAmg%3D%3D) | 
-| 第6回農心辛ラーメン杯世界囲碁最強戦第14戦 | Lee Changho | Wang Xi | B+R | 2005-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1cMnJjqL0%2Ffvasj0M99gyQ%3D%3D) | 
-| 第6回農心辛ラーメン杯世界囲碁最強戦第13戦 | O Meien | Lee Changho | W+R | 2005-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rnWR4FyPfI%2FjQS5ukI83ew%3D%3D) | 
-| 第6回農心辛ラーメン杯世界囲碁最強戦第12戦 | Wang Lei (b) | Lee Changho | W+R | 2005-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yMqAOV02hWnQ80YNsrFI1w%3D%3D) | 
-| 第6回農心辛ラーメン杯世界囲碁最強戦第11戦 | Lee Changho | Cho U | B+R | 2005-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qn1MWqyORZi87C72e%2FDB9A%3D%3D) | 
-| 第48期国手戦（韓国）挑戦手合五番勝負第3局 | Choi Cheolhan | Lee Changho | B+R | 2005-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6exdrfgzjglBIkLvugEZww%3D%3D) | 
-| 第48期国手戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Choi Cheolhan | W+R | 2005-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JgWivw27cI6mZfBb1bf4eQ%3D%3D) | 
-| 第9回LG杯世界棋王戦準決勝 | Yu Bin | Lee Changho | B+R | 2005-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5JzPDTuC5G6VF2j92NH7OA%3D%3D) | 
-| 第24回KBS杯囲碁王戦本戦2回戦 | missing | Lee Changho | W+R | 2005-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1BxrGQo%2F74flaEFU%2Be%2Bs0Q%3D%3D) | 
-| 第1回中環杯世界囲碁選手権準決勝 | O Rissei | Lee Changho | B+0.5 | 2005-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DcjmKHvQQWLHXEep7amLgw%3D%3D) | 
-| 第48期国手戦（韓国）挑戦手合五番勝負第1局 | Choi Cheolhan | Lee Changho | B+R | 2005-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EBWeav2ZFaE3%2B%2FZ7AwVUVA%3D%3D) | 
-| 第48期国手戦（韓国）挑戦者決定戦第3局 | Lee Changho | Yoo Changhyuk | B+R | 2004-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qPae89xdG3lKHKhCIqCRFQ%3D%3D) | 
-| 2004年韓国囲碁リーグ | Lee Changho | Cho Hunhyun | W+R | 2004-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pjupc%2BZmrok0yk5bLwcR2w%3D%3D) | 
-| 第48期国手戦（韓国）挑戦者決定戦第2局 | Lee Changho | Yoo Changhyuk | W+1.5 | 2004-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xu8%2BR4DAv8GelVqOm%2BdG9Q%3D%3D) | 
-| 第48期国手戦（韓国）挑戦者決定戦第1局 | Yoo Changhyuk | Lee Changho | W+6.5 | 2004-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QVeGcdj8qzjYwthY5j%2Fnww%3D%3D) | 
-| 第6回農心辛ラーメン杯世界囲碁最強戦第10戦 | Luo Xihe | Lee Changho | W+R | 2004-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J5s1KIh39N6Dea6n%2FogZcA%3D%3D) | 
-| 第48期国手戦（韓国）勝者組決勝 | Yun Junsang | Lee Changho | W+2.5 | 2004-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dPM1N78QfY5JvcWBeEbBGQ%3D%3D) | 
-| 第23回KBS杯囲碁王戦決勝三番勝負第2局 | Lee Changho | Cho Hanseung | B+R | 2004-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uhoP30meEXmNSRJ%2FlNR2vA%3D%3D) | 
-| 第9期LG精油杯プロ棋戦決勝五番勝負第3局 | Lee Changho | Park Yeonghun | B+2.5 | 2004-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FdMFUh7pifTaDZHg6s7Uzg%3D%3D) | 
-| 第9期LG精油杯プロ棋戦決勝五番勝負第2局 | Park Yeonghun | Lee Changho | W+0.5 | 2004-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d6IGbaGs%2Bzx3nAhWgFANpQ%3D%3D) | 
-| 第16期棋聖戦（韓国）1回戦 | Rui Naiwei | Lee Changho | B+R | 2004-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wbyvaslj9BD45hmSOXQ5qg%3D%3D) | 
-| 第9回LG杯世界棋王戦3回戦 | Lee Changho | Lee Sedol | B+R | 2004-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0R2%2B3tItdLhQ4LOnBCw7Sg%3D%3D) | 
-| 2004年韓国囲碁リーグ | Lee Changho | Yoo Changhyuk | W+R | 2004-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gqvkooax%2BLwZUymfbFi%2FVQ%3D%3D) | 
-| 第23回KBS杯囲碁王戦決勝三番勝負第1局 | Cho Hanseung | Lee Changho | W+R | 2004-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WALdaQwT9H5%2FbM%2FkX42BmA%3D%3D) | 
-| 第9期LG精油杯プロ棋戦決勝五番勝負第1局 | Lee Changho | Park Yeonghun | B+R | 2004-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nEFmLf9IDb%2B1HHd%2F9gfxgQ%3D%3D) | 
-| 2004年韓国囲碁リーグ | Lee Changho | Mok Jinseok | B+R | 2004-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HMqBZ9A0MbwAFLQR9j3mAg%3D%3D) | 
-| 第48期国手戦（韓国）本戦2回戦 | Weon Seongjin | Lee Changho | W+8.5 | 2004-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xolRHaocczWgzzH80PZdWg%3D%3D) | 
-| 第1回中環杯世界囲碁選手権2回戦 | Cho U | Lee Changho | W+4.5 | 2004-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tkUlmJQk2jVTWkmM4FdjrQ%3D%3D) | 
-| 第1回中環杯世界囲碁選手権1回戦 | Rin Kaiho | Lee Changho | W+R | 2004-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jauB673eqSGdZDuci9fZJg%3D%3D) | 
-| 第9期LG精油杯プロ棋戦準決勝 | Yun Junsang | Lee Changho | W+R | 2004-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IHcjmOsgkxPlch%2FR%2FUPVWg%3D%3D) | 
-| 2004年韓国囲碁リーグ | Lee Changho | Park Yeonghun | B+R | 2004-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7DtW0b%2BVjhl5FpZqJfqgRg%3D%3D) | 
-| 第9回三星火災杯世界オープン囲碁選手権1回戦 | Hu Yaoyu | Lee Changho | B+R | 2004-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FpT3Z4V86hxg55rco1U%2BHQ%3D%3D) | 
-| 第9期LG精油杯プロ棋戦2回戦 | Lee Changho | Heo Yongho | B+7.5 | 2004-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mXg71W8uD4BkZ6EB8%2BgkYg%3D%3D) | 
-| 第2期トヨタ＆デンソー杯囲碁世界王座戦3回戦 | Lee Changho | Kong Jie | W+0.5 | 2004-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zKCOXPHyG3dxq%2B%2Bm4qBcCg%3D%3D) | 
-| 第2期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Lee Changho | Gu Li | B+R | 2004-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y%2BrrXXg8P%2FIDNQHIDT3kvA%3D%3D) | 
-| 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Lee Changho | missing | B+2.5 | 2004-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=83qC8RgO1YONEECHGZSBGw%3D%3D) | 
-| 第38期王位戦挑戦手合五番勝負第5局 | Lee Sedol | Lee Changho | W+R | 2004-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F6%2FfXS3GQoTDtDq%2BFcLUTw%3D%3D) | 
-| 2004年韓国囲碁リーグ | Song Taekon | Lee Changho | W+R | 2004-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sHICvIql1nnvFipGpZt%2BMw%3D%3D) | 
-| 第38期王位戦挑戦手合五番勝負第4局 | Lee Sedol | Lee Changho | W+R | 2004-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n3dT6H19%2BcMdGMoaJoHmDw%3D%3D) | 
-| 第23回KBS杯囲碁王戦敗者復活戦決勝 | Lee Changho | Lee Sedol | B+R | 2004-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kVxGmMshNg2CjlPBL%2BaMbg%3D%3D) | 
-| 第38期王位戦挑戦手合五番勝負第3局 | Lee Changho | Lee Sedol | W+R | 2004-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TxsEus5P3yKmSBG3I1sb7Q%3D%3D) | 
-| 第38期王位戦挑戦手合五番勝負第2局 | Lee Sedol | Lee Changho | W+R | 2004-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1FqLVtJrXUeUZ1LPh42wxw%3D%3D) | 
-| 第38期王位戦挑戦手合五番勝負第1局 | Lee Changho | Lee Sedol | W+3.5 | 2004-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3ppwCTCuZ1XaEr6FqL5jIA%3D%3D) | 
-| 第23回KBS杯囲碁王戦本戦5回戦 | Cho Hanseung | Lee Changho | B+1.5 | 2004-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F7ggZ8hoBcNLXSFbPICWmA%3D%3D) | 
-| 第48期国手戦（韓国）本戦1回戦 | Lee Changho | Yang Keon | B+R | 2004-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mRe%2FOsKca1OWSBsKyTI81g%3D%3D) | 
-| 2004年韓国囲碁リーグ | Lee Changho | Lee Sedol | B+6.5 | 2004-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CEaLe8cARztlztjOr9EUUw%3D%3D) | 
-| 第23回KBS杯囲碁王戦本戦4回戦 | Choi Cheolhan | Lee Changho | W+R | 2004-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BE7WP%2BUbC4gDdcXNxWTayw%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権準決勝 | Lee Changho | Hu Yaoyu | B+1.5 | 2004-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7DXAwukFdFs8Swt%2B6uDz8w%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権3回戦 | Lee Changho | Chang Hao | B+R | 2004-06-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F92YBHgbqBpGG3E7wngnBA%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯3回戦 | Lee Changho | Yoda Norimoto | W+3.5 | 2004-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8sh80Ctaq3mVCyiVX79jdA%3D%3D) | 
-| 第9期LG精油杯プロ棋戦1回戦 | Kim Seonryong | Lee Changho | W+R | 2004-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=geDu%2BWbATqL%2FlFV1Y%2BAqGw%3D%3D) | 
-| 第9回LG杯世界棋王戦2回戦 | Lee Changho | O Rissei | B+R | 2004-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6H%2BHF%2FK55Ron8Np09IeRSg%3D%3D) | 
-| 2004年韓国囲碁リーグ | Choi Cheolhan | Lee Changho | W+7.5 | 2004-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QbsL%2F%2FSH6DhOIIEYmMtnhQ%3D%3D) | 
-| 第23回KBS杯囲碁王戦本戦3回戦 | Lee Changho | Rui Naiwei | B+R | 2004-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Prs8xP0t2z%2B3fKDIRm%2FkKg%3D%3D) | 
-| 第5回応氏杯世界選手権3回戦 | Choi Cheolhan | Lee Changho | B+5 | 2004-04-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T2i6fdYlqJgVjg0uKeEYQQ%3D%3D) | 
-| 第5回応氏杯世界選手権2回戦 | Yamashita Keigo | Lee Changho | W+3 | 2004-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k9vWx1VyFTr3%2FkqFRxpbew%3D%3D) | 
-| 第15期棋聖戦（韓国）挑戦手合五番勝負第4局 | Choi Cheolhan | Lee Changho | B+2.5 | 2004-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bqBke0KW5JZf6yqG5YA1rA%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯2回戦 | Wang Lei (b) | Lee Changho | W+3.5 | 2004-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RWQlF68VP1guqGAJkwTy4A%3D%3D) | 
-| 第15期棋聖戦（韓国）挑戦手合五番勝負第3局 | Lee Changho | Choi Cheolhan | W+R | 2004-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yBFGIKLCh2IvpRMggxp4fQ%3D%3D) | 
-| 第8回LG杯世界棋王戦決勝五番勝負第4局 | Lee Changho | Mok Jinseok | B+R | 2004-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EtZFazAszxpgxnwCbCYxvw%3D%3D) | 
-| 第8回LG杯世界棋王戦決勝五番勝負第3局 | Mok Jinseok | Lee Changho | W+R | 2004-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TXUbY7FDR1kp9IDZxbxnRA%3D%3D) | 
-| 第3回CSK杯囲碁アジア対抗戦第3戦 | Lee Changho | Wang Lei (b) | B+R | 2004-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g74J8rnNLpT7j52bO4bjjw%3D%3D) | 
-| 第3回CSK杯囲碁アジア対抗戦第2戦 | Lee Changho | Yuki Satoshi | B+R | 2004-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WMYXMVMzP5iGmZembbmLXw%3D%3D) | 
-| 第3回CSK杯囲碁アジア対抗戦第1戦 | Cho U | Lee Changho | W+R | 2004-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y4gRiiwyBj8uHq3lthIkSg%3D%3D) | 
-| 第8回LG杯世界棋王戦決勝五番勝負第2局 | Lee Changho | Mok Jinseok | B+R | 2004-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2yMMRuuEeWCDvrLXfsyaCw%3D%3D) | 
-| 第8回LG杯世界棋王戦決勝五番勝負第1局 | Mok Jinseok | Lee Changho | B+3.5 | 2004-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z8vF8nEwYg%2FIFrn8Kl7auw%3D%3D) | 
-| 第15期棋聖戦（韓国）挑戦手合五番勝負第2局 | Choi Cheolhan | Lee Changho | B+R | 2004-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UqiX02qP42suUHHH7cwrAw%3D%3D) | 
-| 第47期国手戦（韓国）挑戦手合五番勝負第5局 | Choi Cheolhan | Lee Changho | B+R | 2004-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i2NwJuolZrJ1sBOY1U5pxg%3D%3D) | 
-| 第15期棋聖戦（韓国）挑戦手合五番勝負第1局 | Lee Changho | Choi Cheolhan | B+R | 2004-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pg%2BfTuNZ4RE9baLzNigL4Q%3D%3D) | 
-| 第47期国手戦（韓国）挑戦手合五番勝負第4局 | Choi Cheolhan | Lee Changho | B+R | 2004-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tLVrrrmB6PHwMnuOyYd%2B1w%3D%3D) | 
-| 第47期国手戦（韓国）挑戦手合五番勝負第3局 | Lee Changho | Choi Cheolhan | B+9.5 | 2004-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BYNYFgAvgf7SjdxqUXw%2B%2Fg%3D%3D) | 
-| 第5回農心辛ラーメン杯世界囲碁最強戦第14戦 | Lee Changho | Rin Kaiho | B+R | 2004-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FIpsNnmSEdIYmG%2FseTlEhg%3D%3D) | 
-| 第5回農心辛ラーメン杯世界囲碁最強戦第13戦 | Kato Masao | Lee Changho | W+R | 2004-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FAokFtOsYxlvvkbvBlDrDw%3D%3D) | 
-| 第47期国手戦（韓国）挑戦手合五番勝負第2局 | Choi Cheolhan | Lee Changho | B+R | 2004-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Motltn8e0h4vKE8fMLo0Yw%3D%3D) | 
-| 第8回LG杯世界棋王戦準決勝 | Weon Seongjin | Lee Changho | W+R | 2004-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N0tbjLcjkjTWQ5AQrPE2Qw%3D%3D) | 
-| 第47期国手戦（韓国）挑戦手合五番勝負第1局 | Lee Changho | Choi Cheolhan | B+1.5 | 2004-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x4%2F2XTgLT93UhZRWzZvuRg%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権2回戦 | Yu Bin | Lee Changho | W+6.5 | 2003-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cLoC5foTIsos2n%2FbO2omSQ%3D%3D) | 
-| 第34期名人戦（韓国）挑戦手合五番勝負第5局 | Cho Hunhyun | Lee Changho | W+0.5 | 2003-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mX9PAKlYt96BBouwBHQlsg%3D%3D) | 
-| 第34期名人戦（韓国）挑戦手合五番勝負第4局 | Lee Changho | Cho Hunhyun | W+R | 2003-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rn4BYnEmLpzTRL9B2G38Xg%3D%3D) | 
-| 第34期名人戦（韓国）挑戦手合五番勝負第3局 | Cho Hunhyun | Lee Changho | W+R | 2003-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oQ5DMzMkNRC2t%2BuK15i0jg%3D%3D) | 
-| 第1回韓国ドリームリーグ | Lee Changho | Seo Bongsoo | B+R | 2003-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=adwdv0aCaAqgPiHzZ%2BrC%2Bw%3D%3D) | 
-| 第8期LG精油杯プロ棋戦決勝五番勝負第3局 | Cho Hanseung | Lee Changho | W+R | 2003-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3zWnn79s97zJo7K4Hj9D4A%3D%3D) | 
-| 第34期名人戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Cho Hunhyun | B+R | 2003-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VPNSTI9rg%2FbstjqDxulXow%3D%3D) | 
-| 第8期LG精油杯プロ棋戦決勝五番勝負第2局 | Lee Changho | Cho Hanseung | B+R | 2003-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KqUwl8mtB%2B6ZXR7BsQ62qg%3D%3D) | 
-| 第1回韓国ドリームリーグ | Lee Changho | Park Yeonghun | B+R | 2003-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0N%2BoEr8Vliuw0WZTooLiSw%3D%3D) | 
-| 第8回LG杯世界棋王戦3回戦 | Lee Changho | Kim Juho | B+R | 2003-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E%2BC0ciqy1IaJKmgA4UeObw%3D%3D) | 
-| 第1回韓国ドリームリーグ | Lee Changho | Yoo Changhyuk | B+1.5 | 2003-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cr%2FUCVqox%2F%2B5TZftZ3Z2zw%3D%3D) | 
-| 第8期三星杯3回戦 | Xie He | Lee Changho | B+0.5 | 2003-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R33JcnB2tfiUYiHAIBcA8A%3D%3D) | 
-| 第34期名人戦（韓国）挑戦手合五番勝負第1局 | Cho Hunhyun | Lee Changho | B+R | 2003-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E7XStciJVNkcNvyWy%2FJuHg%3D%3D) | 
-| 第8期LG精油杯プロ棋戦決勝五番勝負第1局 | Cho Hanseung | Lee Changho | W+R | 2003-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FljcWWL%2Bzfuh0SqHIwt%2Bfg%3D%3D) | 
-| 第8期LG精油杯プロ棋戦準決勝 | An Joyeong | Lee Changho | W+R | 2003-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d3WnzmC37e4wN34NXTjl0Q%3D%3D) | 
-| 第1回韓国ドリームリーグ | Cho Hunhyun | Lee Changho | W+0.5 | 2003-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yvQgYDdq0MECUo1A54t%2BsA%3D%3D) | 
-| 第15回テレビアジア選手権 | Lee Changho | Mimura Tomoyasu | W+R | 2003-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TTbrsc7exnbUCdAi8YfHPg%3D%3D) | 
-| 第8期三星杯2回戦 | Wang Yuhui | Lee Changho | W+R | 2003-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=21zaRmnRBWFjkwhjwew3ZQ%3D%3D) | 
-| 第8期三星杯1回戦 | Lee Changho | Peng Quan | B+1.5 | 2003-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j2mzCQhZcebNZYxI3T29uA%3D%3D) | 
-| 第1回韓国ドリームリーグ | Song Taekon | Lee Changho | W+R | 2003-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0zFgBdHQFqAP%2BbSRAHkA6g%3D%3D) | 
-| 第37期王位戦挑戦手合五番勝負第4局 | Lee Changho | Cho Hunhyun | B+R | 2003-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E8LuTeqwKhGV%2BrjsTRjlqA%3D%3D) | 
-| 第37期王位戦挑戦手合五番勝負第3局 | Cho Hunhyun | Lee Changho | B+R | 2003-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pf4Iuavt49EJlekWGHUF8g%3D%3D) | 
-| 第8期LG精油杯プロ棋戦2回戦 | missing | Lee Changho | W+R | 2003-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o6NDZjlphsGwRsCnOBjz6Q%3D%3D) | 
-| 第37期王位戦挑戦手合五番勝負第2局 | Lee Changho | Cho Hunhyun | B+1.5 | 2003-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nkxZz3oUdXVNwBnsP96D%2Bw%3D%3D) | 
-| 第37期王位戦挑戦手合五番勝負第1局 | Cho Hunhyun | Lee Changho | W+4.5 | 2003-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A2t0K7forwFvuqKk7fF0dg%3D%3D) | 
-| 第16回世界囲碁選手権富士通杯三位決定戦 | Yoda Norimoto | Lee Changho | W+R | 2003-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w642q0Sekk85E9vYU5%2BIQQ%3D%3D) | 
-| 第16回世界囲碁選手権富士通杯準決勝 | Song Taekon | Lee Changho | B+R | 2003-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1T7SODBJdx55WmgQ0CTUeA%3D%3D) | 
-| 第22回KBS杯囲碁王戦敗者復活戦3回戦 | Cho Hanseung | Lee Changho | B+3.5 | 2003-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B6glA2CLq9eEcRHOFjK8jw%3D%3D) | 
-| 第8回LG杯世界棋王戦2回戦 | Cho Chikun | Lee Changho | W+R | 2003-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eKrGk0JvDza8D7zwwr1fxQ%3D%3D) | 
-| 第37期覇王戦挑戦手合五番勝負第3局 | Yoo Changhyuk | Lee Changho | B+0.5 | 2003-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RDXdIA0ehhxWYHwbCEoumA%3D%3D) | 
-| 第22回KBS杯囲碁王戦敗者復活戦2回戦 | Lee Changho | Jiang Zhujiu | B+R | 2003-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s0tzvCjGfYfAvlRSctg7wQ%3D%3D) | 
-| 第16回世界囲碁選手権富士通杯3回戦 | Lee Changho | O Rissei | B+4.5 | 2003-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sahvGsdi9KB%2FnBraWym7Kg%3D%3D) | 
-| 第37期覇王戦挑戦手合五番勝負第2局 | Lee Changho | Yoo Changhyuk | W+R | 2003-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CWZ0N7st912tGoJugHodoA%3D%3D) | 
-| 第3回KAT杯韓国囲碁最強戦 | Park Yeonghun | Lee Changho | B+R | 2003-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I6jxwUTT8G4%2BOHR6ZINT0w%3D%3D) | 
-| 第37期覇王戦挑戦手合五番勝負第1局 | Yoo Changhyuk | Lee Changho | B+R | 2003-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fUm%2BniqPQ7eNYtO%2BI57C1g%3D%3D) | 
-| 第8期LG精油杯プロ棋戦1回戦 | Lee Changho | Park Yeonghun | B+1.5 | 2003-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DYk%2FKAjQWUF6QF9UoJt36A%3D%3D) | 
-| 第22回KBS杯囲碁王戦敗者復活戦1回戦 | Lee Changho | An Younggil | B+R | 2003-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4Eg15hTCqahgaPTY1TmbZw%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第3戦 | Cho U | Lee Changho | B+R | 2003-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BMSfCByiKNiEIEwU5vXAxQ%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第2戦 | Lee Changho | Hane Naoki | W+R | 2003-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sb%2B7n4AlM0ar5QH%2BiPNUWA%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第1戦 | Lee Changho | Ding Wei | B+R | 2003-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7xA6uqBnP1ypBK8IPqCjGw%3D%3D) | 
-| 第3回KAT杯韓国囲碁最強戦 | Cho Hunhyun | Lee Changho | W+R | 2003-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RxXIQPQ64AS%2BhRY1fjPptw%3D%3D) | 
-| 第37期覇王戦 | Lee Changho | missing | B+6.5 | 2003-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BIOANvCZdKM7IpHkxD5wIA%3D%3D) | 
-| 第14期棋聖戦（韓国）挑戦手合五番勝負第5局 | Lee Changho | Cho Hunhyun | B+8.5 | 2003-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UBOi%2BTvyPkcknJuYJ7ykUQ%3D%3D) | 
-| 第16回世界囲碁選手権富士通杯2回戦 | missing | Lee Changho | W+R | 2003-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1xSw8rSqAeytqt9wygmJsg%3D%3D) | 
-| 第22回KBS杯囲碁王戦本戦2回戦 | Lee Sedol | Lee Changho | B+3.5 | 2003-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7hBbB9GtlWtMO76rKWeuRw%3D%3D) | 
-| 第3回KAT杯韓国囲碁最強戦 | Cho Daehyeon | Lee Changho | W+12.5 | 2003-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nTbfSehdkBvI3RpOTQ9i1Q%3D%3D) | 
-| 第7回LG杯世界棋王戦決勝五番勝負第4局 | Lee Changho | Lee Sedol | W+7.5 | 2003-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3MU9Y5KWhGNIXzZsjSSebA%3D%3D) | 
-| 第7回LG杯世界棋王戦決勝五番勝負第3局 | Lee Sedol | Lee Changho | B+R | 2003-03-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8M%2FSfIJ%2FPl7pNMaEDdMehA%3D%3D) | 
-| 第2期KT杯マスターズプロ棋戦準決勝 | Lee Sedol | Lee Changho | B+1.5 | 2003-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H6BF3Vwugsijuh4pmunxiw%3D%3D) | 
-| 第4回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Lee Changho | Hane Naoki | B+R | 2003-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U4O5G2d8%2Fl8iRQq1uwN42g%3D%3D) | 
-| 第4回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Hane Naoki | Lee Changho | W+R | 2003-03-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I%2FNZ5p4Eyb9%2Fbs9JdJzj%2BQ%3D%3D) | 
-| 第37期覇王戦本戦第19局 | Lee Changho | Choi Cheolhan | B+0.5 | 2003-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tyqy%2Fd78xJYXB3teLTDqkQ%3D%3D) | 
-| 第14期棋聖戦（韓国）挑戦手合五番勝負第4局 | Cho Hunhyun | Lee Changho | B+R | 2003-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AbbpUUdt7Cq2tkBdQDOHLw%3D%3D) | 
-| 第2期KT杯マスターズプロ棋戦3回戦 | Lee Changho | Cho Hanseung | B+3.5 | 2003-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UDw5ujva43qMMIc7ESk%2Bcg%3D%3D) | 
-| 第7回LG杯世界棋王戦決勝五番勝負第2局 | Lee Changho | Lee Sedol | B+R | 2003-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Prsa1EiBsxVKZWmw3W8rIA%3D%3D) | 
-| 第7回LG杯世界棋王戦決勝五番勝負第1局 | Lee Sedol | Lee Changho | B+R | 2003-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Qp1JplEAMrzJbhxXNd%2BQA%3D%3D) | 
-| 第14期棋聖戦（韓国）挑戦手合五番勝負第3局 | Lee Changho | Cho Hunhyun | B+R | 2003-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=veUvSe60IJ%2BHjbQK%2B6xEyA%3D%3D) | 
-| 第14期棋聖戦（韓国）挑戦手合五番勝負第2局 | Cho Hunhyun | Lee Changho | B+R | 2003-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nxOwkqfcB%2BIoruvBWfdYrA%3D%3D) | 
-| 第7回LG杯世界棋王戦準決勝 | Lee Changho | Weon Seongjin | B+R | 2003-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TD3b%2Bj0QLZiIt78hSnpwdQ%3D%3D) | 
-| 第46期国手戦（韓国）挑戦手合五番勝負第3局 | Cho Hanseung | Lee Changho | W+R | 2003-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JPbP0uLw3C3goDOF8pm%2BFg%3D%3D) | 
-| 第14期棋聖戦（韓国）挑戦手合五番勝負第1局 | Lee Changho | Cho Hunhyun | B+7.5 | 2003-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=35jYPsyVZ9g9SDTXOe9dZQ%3D%3D) | 
-| 第4回農心辛ラーメン杯世界囲碁最強戦第14戦 | Luo Xihe | Lee Changho | W+R | 2003-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JE%2BRWNpVnqyIhwT8QCb9KA%3D%3D) | 
-| 第4回農心辛ラーメン杯世界囲碁最強戦第13戦 | Lee Changho | Hu Yaoyu | B+5.5 | 2003-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MLb1LNC2iGQlo3khlESqrQ%3D%3D) | 
-| 第46期国手戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Cho Hanseung | B+R | 2003-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6fiT6RZ8ee3gA824CKxm1Q%3D%3D) | 
-| 第3回KAT杯韓国囲碁最強戦 | Seo Nungwuk | Lee Changho | W+7.5 | 2003-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T0ST9OXrDoXy5LMcbvLCJg%3D%3D) | 
-| 第46期国手戦（韓国）挑戦手合五番勝負第1局 | Cho Hanseung | Lee Changho | W+R | 2003-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ASUaEkN5TbmE7ec0negBTA%3D%3D) | 
-| 第2期KT杯マスターズプロ棋戦3回戦 | Choi Myeonghun | Lee Changho | W+0.5 | 2003-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ojYBHASCisq5xgKQGOftZw%3D%3D) | 
-| 第4回春蘭杯世界囲碁選手権準決勝 | Chang Hao | Lee Changho | W+R | 2002-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qcQeeihr1zOAK9H9KyKf7g%3D%3D) | 
-| 第4回春蘭杯世界囲碁選手権3回戦 | Lee Changho | Zhou Heyang | B+R | 2002-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OL0yrcWvXpwB%2BTPh%2FTg5Mg%3D%3D) | 
-| 第7回LG杯世界棋王戦3回戦 | Yoo Changhyuk | Lee Changho | W+2.5 | 2002-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=howPO%2Bv%2Bw7KqzTgRRF3JEA%3D%3D) | 
-| 第21回KBS杯囲碁王戦決勝三番勝負第3局 | missing | Lee Changho | W+R | 2002-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CuTx%2BaBEdHBfMmlWCYCbzA%3D%3D) | 
-| 第21回KBS杯囲碁王戦決勝三番勝負第2局 | Lee Changho | missing | B+R | 2002-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S9qD9vcmUIhlUNB%2FlHXMVg%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第14節 | Lee Changho | Gu Li | W+4.5 | 2002-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K0tUBRC08xJlMX32euFrnA%3D%3D) | 
-| 第2回KAT杯韓国囲碁最強戦 | Lee Changho | Park Yeonghun | B+R | 2002-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zG%2Bi9lBgeFGG1Da1Cugw2A%3D%3D) | 
-| 第21回KBS杯囲碁王戦決勝三番勝負第1局 | missing | Lee Changho | B+R | 2002-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B8P6aiaTRDQGIV7EbbKMCg%3D%3D) | 
-| 第33期名人戦（韓国）挑戦手合五番勝負第4局 | An Joyeong | Lee Changho | W+R | 2002-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OKWANyQbdhRPxCTvEzF%2BrA%3D%3D) | 
-| 第2期KT杯マスターズプロ棋戦2回戦 | Choi Kyubyeong | Lee Changho | W+R | 2002-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iGYdrLvlfeudA4k2Mff4Xw%3D%3D) | 
-| 第21回KBS杯囲碁王戦本戦5回戦 | Jiang Zhujiu | Lee Changho | W+R | 2002-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b33BKEDyeZAVpQLoc6urgg%3D%3D) | 
-| 第33期名人戦（韓国）挑戦手合五番勝負第3局 | Lee Changho | An Joyeong | W+0.5 | 2002-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oWYWRWxujuIwerOY4zfYQw%3D%3D) | 
-| 第33期名人戦（韓国）挑戦手合五番勝負第2局 | An Joyeong | Lee Changho | W+R | 2002-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FlZJsmw8LNhr23rjoSkxkw%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第13節 | Chang Hao | Lee Changho | W+R | 2002-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jPqBLsEHBWk5dEPqgSQ%2BMA%3D%3D) | 
-| 第33期名人戦（韓国）挑戦手合五番勝負第1局 | Lee Changho | An Joyeong | B+R | 2002-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bbd4IX7VSO%2BN1nhWoxgJSA%3D%3D) | 
-| 第7期三星杯2回戦 | Lee Changho | Hu Yaoyu | W+R | 2002-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tQl8QJXcG7T%2F4LengjPtmQ%3D%3D) | 
-| 第7期三星杯1回戦 | Lee Changho | Qiu Jun | B+R | 2002-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jn%2FtQvISf7rsdCSgwMnPzw%3D%3D) | 
-| 第2回KAT杯韓国囲碁最強戦 | Lee Changho | Yang Jaeho | B+R | 2002-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nM%2F9U45Xg4%2FNBos9Y5TOSw%3D%3D) | 
-| 第21回KBS杯囲碁王戦本戦4回戦 | Lee Changho | Seo Nungwuk | B+R | 2002-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A22pdp51NQZsC0n9P7Fd8w%3D%3D) | 
-| 第21回KBS杯囲碁王戦本戦3回戦 | Lee Changho | missing | B+6.5 | 2002-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9RK8cB6DwNd2fmin3fZNLw%3D%3D) | 
-| 第7期LG精油杯プロ棋戦1回戦 | Lee Changho | Song Taekon | W+R | 2002-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XndHetuopKHl0EqE19JQaQ%3D%3D) | 
-| 第36期覇王戦挑戦手合五番勝負第3局 | Lee Changho | An Joyeong | B+R | 2002-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VCKSvTQHx5nEEteMnYmVWQ%3D%3D) | 
-| 第4回春蘭杯世界囲碁選手権2回戦 | O Rissei | Lee Changho | W+R | 2002-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t8BuTr8EafmK9vvZjT84XQ%3D%3D) | 
-| 第4回春蘭杯世界囲碁選手権1回戦 | Rin Kaiho | Lee Changho | W+8.5 | 2002-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w%2Bszj5j0Ju8RTwjxr%2Fup8A%3D%3D) | 
-| 第36期覇王戦挑戦手合五番勝負第2局 | An Joyeong | Lee Changho | W+0.5 | 2002-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s6ojRtbVK8X4u5hPEXOsjg%3D%3D) | 
-| 第7回LG杯世界棋王戦2回戦 | Lee Changho | Jiang Zhujiu | B+1.5 | 2002-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W7blNTSl6%2FgIkMZA71uJ0w%3D%3D) | 
-| 第45期国手戦（韓国）挑戦手合五番勝負第4局 | Lee Changho | Cho Hunhyun | B+R | 2002-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uH6j%2FzLAzv2MaBiWbUZ7Sw%3D%3D) | 
-| 第36期覇王戦挑戦手合五番勝負第1局 | Lee Changho | An Joyeong | B+0.5 | 2002-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KLYE3YSmCcMEEGlUVPUQBw%3D%3D) | 
-| 第45期国手戦（韓国）挑戦手合五番勝負第3局 | Cho Hunhyun | Lee Changho | W+R | 2002-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FHZh5ziCQB%2BpxeyiKh8WKA%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第2節 | Lee Changho | Hu Yaoyu | W+R | 2002-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ec1xmkTP7vAnNYW%2FY8FEGw%3D%3D) | 
-| 第45期国手戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Cho Hunhyun | B+2.5 | 2002-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i8EEc09O9EGADtFwQGIwXQ%3D%3D) | 
-| 第1期KTF杯戦 | Im Seongkeun | Lee Changho | B+R | 2002-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=esiTuwGHau%2BKL2saDZdyGQ%3D%3D) | 
-| 第13期棋聖戦（韓国）挑戦手合五番勝負第5局 | Lee Changho | Mok Jinseok | B+2.5 | 2002-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OCOMFa5hZCUteJ9uipztjg%3D%3D) | 
-| 第45期国手戦（韓国）挑戦手合五番勝負第1局 | Cho Hunhyun | Lee Changho | B+R | 2002-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kh6NpoCq38LuJB%2FcO%2FAUqw%3D%3D) | 
-| 第36期覇王戦本戦第19局 | Lee Changho | An Joyeong | B+R | 2002-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N501ywUgsnFpYMITQpnstg%3D%3D) | 
-| 第13期棋聖戦（韓国）挑戦手合五番勝負第4局 | Lee Changho | Mok Jinseok | B+R | 2002-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dlmYiopJ9fX6wMjWpQt6xA%3D%3D) | 
-| 第13期棋聖戦（韓国）挑戦手合五番勝負第3局 | Mok Jinseok | Lee Changho | B+R | 2002-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GA8fcLVF3E%2BJKj8k%2F3N3mQ%3D%3D) | 
-| 第1期KTF杯戦 | Lee Changho | Yoo Changhyuk | W+R | 2002-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u51m5tK31WEc3M1J41c9sA%3D%3D) | 
-| 第21回KBS杯囲碁王戦本戦2回戦 | Lee Changho | missing | B+0.5 | 2002-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ou%2FG4g9P6K9KF4HXhID01w%3D%3D) | 
-| 第3回農心辛ラーメン杯世界囲碁最強戦第14戦 | Zhou Heyang | Lee Changho | W+R | 2002-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6fxYPVU4vKgKD1N0RmU%2FAQ%3D%3D) | 
-| 第3回農心辛ラーメン杯世界囲碁最強戦第13戦 | Chang Hao | Lee Changho | W+R | 2002-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ty5LJlqYDEosRuRfqD4syw%3D%3D) | 
-| 第13期棋聖戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Mok Jinseok | B+R | 2002-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gYRA%2FNuBodeXsFmMRwRyuQ%3D%3D) | 
-| 第45期国手戦（韓国）挑戦者決定戦第2局 | Cho Hanseung | Lee Changho | W+2.5 | 2002-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KNMQl%2Fj23bN%2FmbMsvBx%2BAg%3D%3D) | 
-| 第6回LG杯世界棋王戦準決勝 | Lee Changho | Cho Hunhyun | W+R | 2002-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rwWYFe9b8kqmGcPK2QMYug%3D%3D) | 
-| 第45期国手戦（韓国）挑戦者決定戦第1局 | Lee Changho | Cho Hanseung | B+R | 2002-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i9WQUXPDq4GlCT6IgoCrGg%3D%3D) | 
-| 第1期KTF杯戦 | Lee Changho | Chen Shiyuan | B+R | 2002-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K%2FUFgDVMK2ewFyfqRosgoA%3D%3D) | 
-| 第13期棋聖戦（韓国）挑戦手合五番勝負第1局 | Mok Jinseok | Lee Changho | B+R | 2002-01-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rP13QZRQe1c5CNAfMzRgeA%3D%3D) | 
-| 第1期KTF杯戦 | missing | Lee Changho | W+1.5 | 2001-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LlxqDLANOuK17DpE09a16A%3D%3D) | 
-| 第45期国手戦（韓国）勝者組決勝 | Cho Hanseung | Lee Changho | W+R | 2001-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZrV2u%2BqkZQkNS1JS%2F6OwWQ%3D%3D) | 
-| 第32期名人戦（韓国）挑戦手合五番勝負第5局 | Lee Changho | Yoo Changhyuk | B+3.5 | 2001-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xe6ngPrm4quj6eiTC4E28A%3D%3D) | 
-| 第20回KBS杯囲碁王戦決勝三番勝負第2局 | Lee Changho | Lee Sedol | B+R | 2001-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nUo7ZN%2BGC%2Fy29xy8Ll1wqw%3D%3D) | 
-| 第32期名人戦（韓国）挑戦手合五番勝負第4局 | Lee Changho | Yoo Changhyuk | B+11.5 | 2001-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AjalHEznSSP5wtRzdulooQ%3D%3D) | 
-| 第6期三星杯準決勝三番勝負第3局 | Lee Changho | Chang Hao | W+R | 2001-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dAnl4aLq9CzS4IvZXxUufQ%3D%3D) | 
-| 第6期三星杯準決勝三番勝負第2局 | Chang Hao | Lee Changho | W+R | 2001-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mRafA1IvUI3zpnOdnr5XRw%3D%3D) | 
-| 第6期三星杯準決勝三番勝負第1局 | Lee Changho | Chang Hao | W+0.5 | 2001-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4Q%2Bwv70ShQDF0FPvRSCe3g%3D%3D) | 
-| 第6期LG精油杯プロ棋戦決勝五番勝負第3局 | Choi Myeonghun | Lee Changho | W+R | 2001-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BRJT2lDt7eFee%2F5FHkPneg%3D%3D) | 
-| 第6回LG杯世界棋王戦3回戦 | Luo Xihe | Lee Changho | W+R | 2001-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NPfPUQzvG%2Bq8U3c6lSYBiA%3D%3D) | 
-| 第45期国手戦（韓国）本戦2回戦 | Lee Changho | Yoo Changhyuk | B+R | 2001-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hx%2BK5KEI%2FI%2Fm5gkrSmvH2Q%3D%3D) | 
-| 第20回KBS杯囲碁王戦決勝三番勝負第1局 | Lee Sedol | Lee Changho | W+R | 2001-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ytvgfV1HVWHV4Jh4wNbV8A%3D%3D) | 
-| 第20回KBS杯囲碁王戦敗者復活戦決勝 | Lee Changho | Mok Jinseok | B+R | 2001-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rSZ4VnpRd4O8I4YVadsB5g%3D%3D) | 
-| 第6期三星杯3回戦 | Lee Sedol | Lee Changho | W+R | 2001-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uD9RUkFGtbkq1uAbmODSyg%3D%3D) | 
-| 第32期名人戦（韓国）挑戦手合五番勝負第3局 | Yoo Changhyuk | Lee Changho | W+R | 2001-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6fjphAY7UA54OxEL8SHqbA%3D%3D) | 
-| 第6期LG精油杯プロ棋戦決勝五番勝負第2局 | Lee Changho | Choi Myeonghun | B+R | 2001-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HN32cIpwaxREfop4hpVgLQ%3D%3D) | 
-| 第20回KBS杯囲碁王戦本戦5回戦 | Lee Sedol | Lee Changho | B+R | 2001-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4TCK4Sj5aqYFpsR1enIqEg%3D%3D) | 
-| 第32期名人戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Yoo Changhyuk | W+R | 2001-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zCDS4HXXhBiICoKemvi0bA%3D%3D) | 
-| 第32期名人戦（韓国）挑戦手合五番勝負第1局 | Yoo Changhyuk | Lee Changho | B+R | 2001-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UZx3xclRFfVIi%2F7rR7ZHAg%3D%3D) | 
-| 第45期国手戦（韓国）本戦1回戦 | Park Cheongsang | Lee Changho | W+7.5 | 2001-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jCmczmCFug7FSp%2Fv%2FI2vrw%3D%3D) | 
-| 第6期LG精油杯プロ棋戦決勝五番勝負第1局 | Choi Myeonghun | Lee Changho | W+R | 2001-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w6XYrux7GY39t4W05Opw9A%3D%3D) | 
-| 第6期LG精油杯プロ棋戦準決勝 | Lee Changho | Seo Nungwuk | B+8.5 | 2001-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WsQl4o0ICULvWh2ucOih%2BA%3D%3D) | 
-| 第6期三星杯2回戦 | Wang Lei (b) | Lee Changho | W+R | 2001-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t3VfQvtcrQiJTtBGSyM%2BXQ%3D%3D) | 
-| 第6期三星杯1回戦 | Lee Changho | Hikosaka Naoto | B+R | 2001-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0mVp%2Fos3jh3wD9AP6du44w%3D%3D) | 
-| 第1期KT杯マスターズプロ棋戦2回戦 | Seo Nungwuk | Lee Changho | B+0.5 | 2001-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qzx4Ni1jFjjJpazKv%2FKk2A%3D%3D) | 
-| 第20回KBS杯囲碁王戦本戦4回戦 | Lee Changho | Seo Nungwuk | B+1.5 | 2001-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QnKrs4Y81wLALQkDDUBqKQ%3D%3D) | 
-| 第6期LG精油杯プロ棋戦2回戦 | Kim Soojang | Lee Changho | W+R | 2001-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=suTYHAiFa5Jszov%2Ffehjew%3D%3D) | 
-| 第6回LG杯世界棋王戦2回戦 | Michael Redmond | Lee Changho | W+R | 2001-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qJRI2FtmCS7TbJQDogZCbg%3D%3D) | 
-| 第20回KBS杯囲碁王戦本戦3回戦 | Lee Changho | Paek Daehyun | B+4.5 | 2001-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MsjuJFEw1La1Gd11eWMqnA%3D%3D) | 
-| 第5回LG杯世界棋王戦決勝五番勝負第5局 | Lee Sedol | Lee Changho | W+R | 2001-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XNPlszWpara1sQGMgWLNRw%3D%3D) | 
-| 第5回LG杯世界棋王戦決勝五番勝負第4局 | Lee Sedol | Lee Changho | W+R | 2001-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n8oyZYZLeyO%2BAdnMzgX0kg%3D%3D) | 
-| 第5回LG杯世界棋王戦決勝五番勝負第3局 | Lee Changho | Lee Sedol | B+7.5 | 2001-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7XPJu1PBQZ1vEyYuvUCCrg%3D%3D) | 
-| 第20回KBS杯囲碁王戦本戦2回戦 | Lee Changho | missing | B+R | 2001-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wK7frJF18BGP%2FDHR8H1Bmg%3D%3D) | 
-| 第6期LG精油杯プロ棋戦1回戦 | Lee Changho | Yang Keon | B+R | 2001-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f0hyqnYHhml1h0o747kZBg%3D%3D) | 
-| 第2回農心辛ラーメン杯世界囲碁最強戦第14戦 | Lee Changho | Kato Masao | B+R | 2001-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ecONxfPURJcfDsrMc69Odw%3D%3D) | 
-| 第35期覇王戦挑戦手合五番勝負第4局 | Cho Hunhyun | Lee Changho | W+R | 2001-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GCFEB7sh7HNESwtvIEBx1Q%3D%3D) | 
-| 第35期覇王戦挑戦手合五番勝負第3局 | Lee Changho | Cho Hunhyun | W+R | 2001-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mHMZqz%2FlLM0cEW72M%2BJNfw%3D%3D) | 
-| 第5回LG杯世界棋王戦決勝五番勝負第2局 | Lee Sedol | Lee Changho | B+R | 2001-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=997Ja5wcjQUfw5oP%2Fzwz1A%3D%3D) | 
-| 第5回LG杯世界棋王戦決勝五番勝負第1局 | Lee Changho | Lee Sedol | W+R | 2001-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gSMo5%2BFbKVHX1p8hOBRFlg%3D%3D) | 
-| 第35期覇王戦挑戦手合五番勝負第2局 | Cho Hunhyun | Lee Changho | W+R | 2001-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ns15veRbxe9ovyj7m0na3g%3D%3D) | 
-| 第12期棋聖戦（韓国）挑戦手合五番勝負第4局 | Yoo Changhyuk | Lee Changho | W+R | 2001-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8ASSJj48%2FMD3UyM%2BDko1pA%3D%3D) | 
-| 第4回応氏杯世界選手権決勝五番勝負第4局 | Lee Changho | Chang Hao | B+3 | 2001-02-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HsQVA8TpFtk4iO5k0PY0zA%3D%3D) | 
-| 第4回応氏杯世界選手権決勝五番勝負第3局 | Chang Hao | Lee Changho | B+R | 2001-02-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p6WIduovs%2Fq3GRJG3oc5Ig%3D%3D) | 
-| 第5回LG杯世界棋王戦準決勝 | O Rissei | Lee Changho | W+2.5 | 2001-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8lftdS7l6zjETF5wIXlA1A%3D%3D) | 
-| 第12期棋聖戦（韓国）挑戦手合五番勝負第3局 | Lee Changho | Yoo Changhyuk | B+2.5 | 2001-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fPoyLXWkrnpnWl63Gck05g%3D%3D) | 
-| 第44期国手戦（韓国）挑戦者決定戦第3局 | Cho Hunhyun | Lee Changho | B+R | 2001-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xc%2FWqiYb1AM5aAGNnfiHvw%3D%3D) | 
-| 第44期国手戦（韓国）挑戦者決定戦第2局 | Cho Hunhyun | Lee Changho | W+3.5 | 2001-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3i44SXL86l%2BLM4cZ%2B6bENQ%3D%3D) | 
-| 第35期覇王戦挑戦手合五番勝負第1局 | Lee Changho | Cho Hunhyun | B+7.5 | 2001-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lQ2KlUr7NFJt%2F3rssf6jaw%3D%3D) | 
-| 第35期覇王戦本戦第19局 | Cho Hunhyun | Lee Changho | B+10.5 | 2001-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gn0GeFVhtaA5EBKciAqX7g%3D%3D) | 
-| 第44期国手戦（韓国）挑戦者決定戦第1局 | Lee Changho | Cho Hunhyun | W+R | 2001-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g2chpF9Zlnzy96PsbRzagg%3D%3D) | 
-| 第12期棋聖戦（韓国）挑戦手合五番勝負第1局 | Lee Changho | Yoo Changhyuk | B+1.5 | 2001-01-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tw%2BEGJsHiaZbe%2BU3NLVy4g%3D%3D) | 
-| 第44期国手戦（韓国）勝者組決勝 | Lee Changho | Paek Daehyun | B+R | 2000-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JUD2%2FhdfkuxHlYhIVAe6Sw%3D%3D) | 
-| 第19回KBS杯囲碁王戦決勝三番勝負第3局 | Mok Jinseok | Lee Changho | B+R | 2000-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f106E4W4SFTQCaoQgcTo%2BA%3D%3D) | 
-| 第19回KBS杯囲碁王戦決勝三番勝負第2局 | Lee Changho | Mok Jinseok | B+7.5 | 2000-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ue6utrP4wEO45odc89eBng%3D%3D) | 
-| 第35期覇王戦本戦第18局 | Lee Changho | Han Chongjin | B+R | 2000-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ok8Kp5TVqX5OovttbJ7gYA%3D%3D) | 
-| 第35期覇王戦本戦第17局 | missing | Lee Changho | W+R | 2000-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GwOcgjhsttWxxQWqcqR3Ng%3D%3D) | 
-| 第19回KBS杯囲碁王戦決勝三番勝負第1局 | Mok Jinseok | Lee Changho | B+R | 2000-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u%2BXCaxZ2%2BaM5T00fIhWNzQ%3D%3D) | 
-| 第35期覇王戦本戦第16局 | Lee Changho | Ha Chanseok | B+R | 2000-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2eCrhYzx3IOBzpLdiXVwqg%3D%3D) | 
-| 第35期覇王戦本戦第15局 | Lee Changho | missing | B+R | 2000-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LIhpF2R6TVraRzzcMQ8lOg%3D%3D) | 
-| 第5回LG杯世界棋王戦3回戦 | Lee Changho | Ma Xiaochun | B+R | 2000-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xXhEfvXUrcgziq0%2BC8wDpA%3D%3D) | 
-| 第35期覇王戦本戦第14局 | Ryu Chaehyeong | Lee Changho | W+R | 2000-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1XOXnBGiWqmF1EQB4fRoPQ%3D%3D) | 
-| 第4回応氏杯世界選手権決勝五番勝負第2局 | Lee Changho | Chang Hao | B+1 | 2000-11-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fuFT6MS%2FSq0A88P83s15rQ%3D%3D) | 
-| 第4回応氏杯世界選手権決勝五番勝負第1局 | Chang Hao | Lee Changho | W+7 | 2000-11-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y2maV%2FDCchByqpwyPWUttQ%3D%3D) | 
-| 第35期覇王戦本戦第13局 | Lee Changho | Kim Chanwu | B+R | 2000-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B1AbjMbA95NgiFMRyplZvg%3D%3D) | 
-| 第31期名人戦（韓国）挑戦手合五番勝負第3局 | Cho Hunhyun | Lee Changho | W+1.5 | 2000-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XGInTP8QMwMkskhNK3opZA%3D%3D) | 
-| 第35期覇王戦本戦第12局 | Lee Changho | An Joyeong | B+R | 2000-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pmStPiVfdlPm%2BkenHzyopQ%3D%3D) | 
-| 第44期国手戦（韓国）本戦2回戦 | Choi Cheolhan | Lee Changho | W+R | 2000-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UErssqNPdGEN1CrEsV5u5g%3D%3D) | 
-| 第31期名人戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Cho Hunhyun | B+R | 2000-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sMyW4WjgOxHN0TGhBs%2Br8A%3D%3D) | 
-| 第35期覇王戦本戦第10局 | Lee Changho | Lee Sedol | B+9.5 | 2000-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SyAYZQtUvDZ1pKzuLSWbIA%3D%3D) | 
-| 第35期覇王戦本戦第9局 | Lee Changho | Cho Hanseung | B+R | 2000-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7%2BkvJ3JsyNPBSt%2F9zYpXSQ%3D%3D) | 
-| 第31期名人戦（韓国）挑戦手合五番勝負第1局 | Cho Hunhyun | Lee Changho | W+R | 2000-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TapD3zSEs1gydq8uThatQg%3D%3D) | 
-| 第8期倍達王戦準決勝 | Lee Changho | Lee Sedol | W+5.5 | 2000-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wx3BLtynNw00LkIzZ9buVQ%3D%3D) | 
-| 第35期覇王戦本戦第8局 | Lee Changho | missing | B+R | 2000-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qri8FdPo75tnkhO8c6gDvA%3D%3D) | 
-| 第4回中韓天元対抗戦第2局 | Chang Hao | Lee Changho | W+R | 2000-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Kt2Pff81WMwLJUcDlcg4g%3D%3D) | 
-| 第4回中韓天元対抗戦第1局 | Lee Changho | Chang Hao | B+7.5 | 2000-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MUN%2F583d15xSv4epSYIKfQ%3D%3D) | 
-| 第5期LG精油杯プロ棋戦準決勝 | Lee Changho | Rui Naiwei | W+R | 2000-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5bCxzB9h5Mp%2BufIDp62UCw%3D%3D) | 
-| 第19回KBS杯囲碁王戦本戦5回戦 | missing | Lee Changho | W+2.5 | 2000-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wLn5fGeyOsz7j56fuLPeUg%3D%3D) | 
-| 第35期覇王戦本戦第7局 | Lee Changho | Seo Nungwuk | B+3.5 | 2000-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gDxWFc0RG4IT1jNVfXNBdQ%3D%3D) | 
-| 第5期三星杯2回戦 | Lee Changho | Zhou Heyang | W+R | 2000-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FmYZAE3bJ18TwSOd2Ms1rg%3D%3D) | 
-| 第5期三星杯1回戦 | Lee Changho | Nakano Hironari | B+R | 2000-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=684KFlUmfRIZVt58nAkNUg%3D%3D) | 
-| 第2回農心杯韓国選抜戦 | Lee Changho | missing | B+R | 2000-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZUrRkhL%2BiZPtLtpHm4OcmQ%3D%3D) | 
-| 第4回応氏杯世界選手権準決勝三番勝負第2局 | Lee Changho | Yu Bin | B+R | 2000-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8%2FtTLrYgZ4R8V9kz5WJ9rw%3D%3D) | 
-| 第4回応氏杯世界選手権準決勝三番勝負第1局 | Yu Bin | Lee Changho | W+5 | 2000-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3jKBHNoJDlV5Do9SaUnwqQ%3D%3D) | 
-| 第19回KBS杯囲碁王戦本戦4回戦 | Lee Changho | missing | B+R | 2000-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aX9C1PcKRXGtndILN%2FuHHA%3D%3D) | 
-| 第8期倍達王戦2回戦 | Lee Changho | Mok Jinseok | B+R | 2000-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cVUQzfIZbmwr%2FI5bqZTyZQ%3D%3D) | 
-| 第35期覇王戦本戦第6局 | Lee Changho | Lee Huiseong | B+1.5 | 2000-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LXDGds%2BjnUYPkI2ppaisIA%3D%3D) | 
-| 第35期覇王戦本戦第5局 | Hong Taesun | Lee Changho | W+R | 2000-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AtYHsrUMKP4sW4GI0V9zfw%3D%3D) | 
-| 第5期LG精油杯プロ棋戦2回戦 | Kim Seungjun | Lee Changho | W+4.5 | 2000-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k4rGviRFiW1CCB2Sdhh75g%3D%3D) | 
-| 第35期覇王戦本戦第4局 | Seo Bongsoo | Lee Changho | W+R | 2000-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=30j4BQIhb9%2BUZ1ymlL786g%3D%3D) | 
-| 第44期国手戦（韓国）本戦1回戦 | Kim Soojang | Lee Changho | W+R | 2000-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w9QRhM%2FDwYaNYkL407IY%2FQ%3D%3D) | 
-| 第35期覇王戦本戦第3局 | Lee Changho | Yun Kihyeon | B+R | 2000-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LzJY8Z1lWPnOWR5sn%2F1rlA%3D%3D) | 
-| 第35期覇王戦本戦第2局 | Lee Changho | Yang Jaeho | B+R | 2000-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ex0POI%2FOqHeE7aCDkPsa6Q%3D%3D) | 
-| 第5回LG杯世界棋王戦2回戦 | Hikosaka Naoto | Lee Changho | W+R | 2000-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aVdMZS7UetoKlbvy7L%2FUCg%3D%3D) | 
-| 第5期バッカス杯天元戦2回戦 | Lee Changho | Ryu Chaehyeong | W+4.5 | 2000-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yhyzx%2FnNGytMqnJq66rq4A%3D%3D) | 
-| 第8期倍達王戦1回戦 | Lee Changho | missing | B+R | 2000-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vhxe6qyUEooXp%2FPnhO9DVQ%3D%3D) | 
-| 第35期覇王戦本戦第1局 | missing | Lee Changho | W+3.5 | 2000-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5OB9EjzgImvPI2pCKpMTLw%3D%3D) | 
-| 第5期バッカス杯天元戦1回戦 | Lee Changho | An Joyeong | B+R | 2000-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ji4r49Kiof1UlUWlnheSfg%3D%3D) | 
-| 第4回応氏杯世界選手権3回戦 | Lee Changho | Yoda Norimoto | B+3 | 2000-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=teq9kS7mj3jngOamvQibaw%3D%3D) | 
-| 第4回応氏杯世界選手権2回戦 | O Rissei | Lee Changho | W+R | 2000-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cVYvXRjn%2F3Huv2Rp8FaCtQ%3D%3D) | 
-| 第5期LG精油杯プロ棋戦1回戦 | Kim Ilhwan | Lee Changho | W+R | 2000-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r3l863Ju2hZ546v2Ta5Big%3D%3D) | 
-| 第1回農心辛ラーメン杯世界囲碁最強戦第14戦 | Ma Xiaochun | Lee Changho | W+R | 2000-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sTfDWho8NiK2J%2BDwB8%2BycA%3D%3D) | 
-| 第1回農心辛ラーメン杯世界囲碁最強戦第13戦 | Cho Sonjin | Lee Changho | W+R | 2000-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dmtZk%2B4XsX6KDUUpj1RX%2FA%3D%3D) | 
-| 第19回KBS杯囲碁王戦本戦2回戦 | Choi Cheolhan | Lee Changho | W+R | 2000-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FIRNGIRNz8TvqLC2mMtcGQ%3D%3D) | 
-| 第4回LG杯世界棋王戦準決勝 | Yoo Changhyuk | Lee Changho | B+5.5 | 2000-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lzWBIyIQL3MlJ%2Bs%2BvJQPLA%3D%3D) | 
-| 第4期三星杯決勝五番勝負第3局 | Cho Sonjin | Lee Changho | W+4.5 | 1999-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yhqgJUb300GMBj2d9Ke16g%3D%3D) | 
-| 第4期三星杯決勝五番勝負第2局 | Lee Changho | Cho Sonjin | B+R | 1999-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F92JEm8TgbnE6JhTP7YqAg%3D%3D) | 
-| 第4期三星杯決勝五番勝負第1局 | Cho Sonjin | Lee Changho | W+R | 1999-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LB9nSW3W97UUTMyqkjNtvg%3D%3D) | 
-| 第4回LG杯世界棋王戦3回戦 | Ma Xiaochun | Lee Changho | W+0.5 | 1999-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=klC4wLO1U9qLYtvUK%2FFqjw%3D%3D) | 
-| 第4期三星杯準決勝 | Lee Changho | Yamada Kimio | B+R | 1999-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HnihaEiqItjebZGY%2FL6KtA%3D%3D) | 
-| 第4期三星杯3回戦 | Chang Hao | Lee Changho | W+R | 1999-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VRSgNRi9SZ%2BcF8wqGU6g5g%3D%3D) | 
-| 第4期三星杯2回戦 | O Rissei | Lee Changho | W+2.5 | 1999-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zq2iqI0qmVF4yXou%2B%2Fxgcg%3D%3D) | 
-| 第4期三星杯1回戦 | Lee Changho | Yu Bin | B+7.5 | 1999-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6Bo3sDcaI4Glql1MfiP0jg%3D%3D) | 
-| 第4回LG杯世界棋王戦2回戦 | Kato Masao | Lee Changho | W+R | 1999-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uz1dBrfr4gnuumCB0pfTaA%3D%3D) | 
-| 第3回LG杯世界棋王戦決勝五番勝負第3局 | Lee Changho | Ma Xiaochun | B+R | 1999-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v8AmtT7FsIZI4lvl4l0wbg%3D%3D) | 
-| 第3回LG杯世界棋王戦決勝五番勝負第2局 | Ma Xiaochun | Lee Changho | W+3.5 | 1999-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oQVIskgPyDwCyXSYICSo3w%3D%3D) | 
-| 第3回LG杯世界棋王戦決勝五番勝負第1局 | Lee Changho | Ma Xiaochun | B+R | 1999-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9M2jv95Kpdma5dqHtWwisQ%3D%3D) | 
-| 第3回LG杯世界棋王戦準決勝 | Lee Changho | Shao Weigang | B+2.5 | 1999-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Az5zkRffT%2FOrWx5XwIWozQ%3D%3D) | 
-| 第3回LG杯世界棋王戦3回戦 | Lee Changho | Zhou Junxun | B+R | 1998-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7OGuc2jqvz4ImRmGTKMA2Q%3D%3D) | 
-| 第3回LG杯世界棋王戦2回戦 | Lee Changho | Chang Hao | B+R | 1998-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uEqq5zxvCMiBgr4zQNIVFw%3D%3D) | 
-| 第3回応氏杯世界選手権3回戦 | Lee Changho | Yoo Changhyuk | W+R | 1996-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BkGgth4anofb4MbRPluBXw%3D%3D) | 
-| 第3回応氏杯世界選手権2回戦 | Rui Naiwei | Lee Changho | W+7 | 1996-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BBXFTWBhBfhfiuv9pHZOBQ%3D%3D) | 
-| 第3回応氏杯世界選手権1回戦 | Lee Changho | Yu Bin | B+7 | 1996-04-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5AfimZsv8NI1ifIVSgSHbw%3D%3D) | 
-| 第2回応氏杯世界選手権2回戦 | Rui Naiwei | Lee Changho | B+R | 1992-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=katA8ygHWOcw4vI4yftpwQ%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-13 | 第23回農心杯韓国予選 | Lee Changho | Song Gyusang | Lose | W+R | 6.5 | 3169 | -24 | 
+| 2021-06-14 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changho | Seol Hyunjun | Lose | W+R | 6.5 | 3193 | -17 | 
+| 2021-05-24 | 第2期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Lee Changho | Lose | B+R | 6.5 | 3210 | 17 | 
+| 2021-05-18 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changho | Byun Sangil | Lose | W+2.5 | 6.5 | 3193 | -32 | 
+| 2021-05-05 | 第26回LG杯韓国予選 | Heo Yongho | Lee Changho | Lose | B+R | 6.5 | 3225 | 1 | 
+| 2021-05-02 | 第26回LG杯韓国予選 |  | Lee Changho | Win | W+R | 6.5 | 3224 | -4 | 
+| 2021-04-26 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changho | Kang Seungmin | Lose | W+R | 6.5 | 3228 | -24 | 
+| 2021-04-23 | 第44期名人戦（韓国）敗者復活戦1回戦 | Hyun Yoobin | Lee Changho | Lose | B+R | 6.5 | 3252 | -42 | 
+| 2021-04-07 | 第2期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Lee Changho | Win | W+R | 6.5 | 3294 | -54 | 
+| 2021-03-12 | 第44期名人戦（韓国）1回戦 | Lee Changho | Choi Cheolhan | Lose | W+R | 6.5 | 3348 | 6 | 
+| 2021-03-01 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Lee Changho | Lose | B+R | 6.5 | 3342 | -140 | 
+| 2021-02-13 | 2020-2021韓国囲碁リーグ | Lee Changho | Choi Kyeongho | Lose | W+R | 6.5 | 3482 | -26 | 
+| 2021-02-11 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changho | Lee Changseok | Win | B+R | 6.5 | 3508 | 38 | 
+| 2021-02-09 | 第44期名人戦（韓国）特別対局第2局 | Lee Changho | Seo Bongsoo | Win | B+R | 6.5 | 3470 | 8 | 
+| 2021-02-08 | 第44期名人戦（韓国）特別対局第1局 | Lee Changho | Cho Hunhyun | Win | B+R | 6.5 | 3462 | 31 | 
+| 2021-02-05 | 2020-2021韓国囲碁リーグ | Park Hamin | Lee Changho | Win | W+R | 6.5 | 3431 | 76 | 
+| 2021-01-27 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Lee Changho | Lose | B+1.5 | 6.5 | 3355 | -1 | 
+| 2021-01-24 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第2ラウンド | Chang Hao | Lee Changho | Lose | B+R | 6.5 | 3356 | -4 | 
+| 2021-01-22 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第2ラウンド  | Yoda Norimoto | Lee Changho | Lose | B+1.5 | 6.5 | 3360 | -67 | 
+| 2021-01-17 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第1ラウンド  | Lee Changho | Kobayashi Koichi | Win | B+8.5 | 6.5 | 3427 | 26 | 
+| 2021-01-16 | 2020-2021韓国囲碁リーグ | Lee Changho | Park Sangjin | Lose | W+5.5 | 6.5 | 3401 | 14 | 
+| 2021-01-15 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第1ラウンド | Lee Changho | Nie Weiping | Win | B+15.5 | 6.5 | 3387 | 13 | 
+| 2021-01-12 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Byun Sangil | Lee Changho | Lose | B+R | 6.5 | 3374 | -12 | 
+| 2021-01-07 | 2020-2021韓国囲碁リーグ | Lee Changho | Kang Yootaek | Lose | W+R | 6.5 | 3386 | -2 | 
+| 2020-12-31 | 2020-2021韓国囲碁リーグ | Lee Changho | Park Yeonghun | Lose | W+R | 6.5 | 3388 | -3 | 
+| 2020-12-25 | 2020-2021韓国囲碁リーグ | Lee Changho | Park Geunho | Lose | W+0.5 | 6.5 | 3391 | -30 | 
+| 2020-12-23 | 2020中日韓聶衛平杯囲碁マスターズ3回戦 | Chang Hao | Lee Changho | Lose | B+¾ | 7.5 | 3421 | -20 | 
+| 2020-12-22 | 2020中日韓聶衛平杯囲碁マスターズ2回戦  | Yamashita Keigo | Lee Changho | Win | W+R | 7.5 | 3441 | 41 | 
+| 2020-12-19 | 2020-2021韓国囲碁リーグ | Heo Yongho | Lee Changho | Lose | B+R | 6.5 | 3400 | -55 | 
+| 2020-12-12 | 2020-2021韓国囲碁リーグ | Cho Hanseung | Lee Changho | Win | W+R | 6.5 | 3455 | 82 | 
+| 2020-12-07 | 第26期GSカルテックス杯プロ棋戦予選 | Lee Changseok | Lee Changho | Lose | B+R | 6.5 | 3373 | -13 | 
+| 2020-12-06 | 2020-2021韓国囲碁リーグ | Lee Changho | Choi Jeong | Win | B+R | 6.5 | 3386 | 31 | 
+| 2020-11-27 | 2020-2021韓国囲碁リーグ | Lee Changho | Kim Jiseok | Lose | W+5.5 | 6.5 | 3355 | 93 | 
+| 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦 | Li Xuanhao | Lee Changho | Lose | B+6.5 | 6.5 | 3262 | -50 | 
+| 2020-10-06 | 第14回GGオークション杯女流対シニア連勝対抗戦第20局 | Lee Changho | Lee Minjin | Lose | W+0.5 | 6.5 | 3312 | 6 | 
+| 2020-09-25 | 第22回農心杯韓国選抜戦 | Seol Hyunjun | Lee Changho | Lose | B+1.5 | 6.5 | 3306 | 6 | 
+| 2020-09-23 | 第22回農心杯韓国選抜戦 | Lee Changho | Kim Myounghoon | Win | B+0.5 | 6.5 | 3300 | 78 | 
+| 2020-09-03 | 第25回三星火災杯韓国シニア枠予選 | Lee Changho | Choi Kyubyeong | Win | B+1.5 | 6.5 | 3222 | -2 | 
+| 2020-09-02 | 第25回三星火災杯韓国シニア枠予選 | Seo Bongsoo | Lee Changho | Win | W+R | 6.5 | 3224 | 2 | 
+| 2020-09-01 | 第25回三星火災杯韓国シニア枠予選 | Lee Changho |  | Win | B+R | 6.5 | 3222 | 144 | 
+| 2020-04-27 | 第25回LG杯韓国予選 | Na Hyun | Lee Changho | Lose | B+R | 6.5 | 3078 | -1 | 
+| 2020-04-22 | 第25回LG杯韓国予選 | Seo Joonghui | Lee Changho | Win | W+R | 6.5 | 3079 | -1 | 
+| 2020-04-20 | 第25回LG杯韓国予選 | Lee Changho |  | Win | B+R | 6.5 | 3080 | 30 | 
+| 2020-04-13 | 第25回LG杯韓国予選 | Lee Changho | Kim Jimyeong | Win | B+R | 6.5 | 3050 | -172 | 
+| 2020-02-04 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Lee Changho | Cho Hanseung | Lose | W+R | 6.5 | 3222 | -48 | 
+| 2020-01-17 | 2019-2020韓国囲碁リーグ第16節第2試合第2局 | Kim Jiseok | Lee Changho | Lose | B+2.5 | 6.5 | 3270 | -6 | 
+| 2020-01-15 | 第3期韓国竜星戦32強戦 | Lee Changho | Park Junghwan | Lose | W+R | 6.5 | 3276 | 2 | 
+| 2020-01-07 | 第3期韓国竜星戦予選決勝 | Lee Changho |  | Win | B+5.5 | 6.5 | 3274 | -4 | 
+| 2019-12-29 | 2019-2020韓国囲碁リーグ第13節第4試合第2局 | Kim Sedong | Lee Changho | Lose | B+R | 6.5 | 3278 | -26 | 
+| 2019-12-26 | 永子杯国際囲碁大師戦決勝 | Lee Changho | Takao Shinji | Win | B+R | 7.5 | 3304 | 315 | 
+| 2019-12-25 | 永子杯国際囲碁大師戦準決勝 | Ma Xiaochun | Lee Changho | Win | W+R | 7.5 | 2989 | -3 | 
+| 2019-12-12 | 2019-2020韓国囲碁リーグ第11節第1試合第2局 | Lee Changho | Lee Jihyun | Lose | W+R | 6.5 | 2992 | -11 | 
+| 2019-12-11 | 第25期GSカルテックス杯プロ棋戦予選 | Lee Changho | Choi Cheolhan | Lose | W+R | 6.5 | 3003 | -16 | 
+| 2019-12-07 | 2019-2020韓国囲碁リーグ第10節第3試合第2局 | Lee Changho | Han Sanghoon | Win | B+R | 6.5 | 3019 | 26 | 
+| 2019-11-29 | 2019-2020韓国囲碁リーグ第9節第2試合第1局 | Park Junghwan | Lee Changho | Lose | B+R | 6.5 | 2993 | -12 | 
+| 2019-11-22 | 2019-2020韓国囲碁リーグ第8節第2試合第1局 | Wen Rubin | Lee Changho | Lose | B+R | 6.5 | 3005 | -6 | 
+| 2019-11-16 | 2019-2020韓国囲碁リーグ第7節第3試合第1局 | Lee Changho |  | Lose | W+R | 6.5 | 3011 | -55 | 
+| 2019-11-03 | 2019-2020韓国囲碁リーグ第5節第4試合第1局 |  | Lee Changho | Win | W+R | 6.5 | 3066 | 38 | 
+| 2019-10-24 | 2019扁康杯中韓囲棋国手友誼戦第2戦 | Lee Changho | Chang Hao | Win | B+R | 7.5 | 3028 | 10 | 
+| 2019-10-23 | 2019扁康杯中韓囲棋国手友誼戦第1戦 | Lee Changho | Gu Li | Lose | W+R | 7.5 | 3018 | -19 | 
+| 2019-10-18 | 2019-2020韓国囲碁リーグ第3節第2試合第2局 | Park Hamin | Lee Changho | Win | W+1.5 | 6.5 | 3037 | 90 | 
+| 2019-10-06 | 2019-2020韓国囲碁リーグ第2節第4試合第2局 | Lee Changho | Park Sangjin | Lose | W+0.5 | 6.5 | 2947 | -111 | 
+| 2019-09-27 | 2019-2020韓国囲碁リーグ第1節第2試合第1局 | Cho Hanseung | Lee Changho | Lose | B+R | 6.5 | 3058 | 37 | 
+| 2019-08-03 | 第6回国手山脈国際囲碁大会世界プロ最強戦16強戦 | Lee Changho | Chen Yaoye | Lose | W+R | 6.5 | 3021 | -1 | 
+| 2019-07-19 | 第21回農心杯韓国選抜戦 | Lee Changho | Weon Seongjin | Lose | W+14.5 | 6.5 | 3022 | 9 | 
+| 2019-07-18 | 第21回農心杯韓国選抜戦 | Lee Hyeonjun | Lee Changho | Win | W+1.5 | 6.5 | 3013 | -7 | 
+| 2019-07-16 | 第21回農心杯韓国選抜戦 | Shen Zaiyi | Lee Changho | Win | W+R | 6.5 | 3020 | 17 | 
+| 2019-07-15 | 第21回農心杯韓国選抜戦 | Kim Jiseok | Lee Changho | Win | W+R | 6.5 | 3003 | 33 | 
+| 2019-07-12 | 第21回農心杯韓国選抜戦 | Lee Changho |  | Win | B+R | 6.5 | 2970 | 2 | 
+| 2019-07-02 | 第24回三星火災杯統合予選2回戦 | Lee Changho | Peng Liyao | Lose | W+R | 6.5 | 2968 | -11 | 
+| 2019-04-08 | 2019年囲碁テレビ杯早碁戦予選1回戦 | Lee Changho | Park Jinyoung | Win | B+2.5 | 6.5 | 2979 | 10 | 
+| 2019-04-05 | 第24回LG杯統合予選4回戦 | Lee Changho | Zhao Chenyu | Lose | W+1.5 | 6.5 | 2969 | -10 | 
+| 2019-04-04 | 第24回LG杯統合予選3回戦 | Lee Yungsoo | Lee Changho | Win | W+R | 6.5 | 2979 | 3 | 
+| 2019-04-02 | 第24回LG杯統合予選2回戦 | Lee Changho | Seki Kotaro | Win | B+R | 6.5 | 2976 | 31 | 
+| 2019-03-19 | 第20回マキシムコーヒー杯入神最強戦3回戦 | Lee Changho | Lee Donghoon | Lose | W+R | 6.5 | 2945 | 28 | 
+| 2019-03-05 | 第20回マキシムコーヒー杯入神最強戦2回戦 | Lee Changho | Mok Jinseok | Win | B+R | 6.5 | 2917 | -8 | 
+| 2019-01-29 | 第20回マキシムコーヒー杯入神最強戦1回戦 | Cho Hyeyeon | Lee Changho | Win | W+R | 6.5 | 2925 | -117 | 
+| 2018-11-17 | 2018年韓国囲碁リーグ優勝決定戦第2戦 | Lee Changho | Na Hyun | Lose | W+R | 6.5 | 3042 | -12 | 
+| 2018-11-16 | 2018年韓国囲碁リーグ優勝決定戦第1戦 | Byun Sangil | Lee Changho | Lose | B+R | 6.5 | 3054 | 1 | 
+| 2018-11-10 | 2018年韓国囲碁リーグプレーオフ第2戦 | Lee Changho | Park Hamin | Lose | W+2.5 | 6.5 | 3053 | -9 | 
+| 2018-11-09 | 2018年韓国囲碁リーグプレーオフ第1戦 | Park Hamin | Lee Changho | Win | W+R | 6.5 | 3062 | 12 | 
+| 2018-10-10 | 2018樟樹・中国葯都杯中日韓囲碁大師戦第2局 | Yoda Norimoto | Lee Changho | Lose | B+¾ | 7.5 | 3050 | -27 | 
+| 2018-10-06 | 2018年韓国囲碁リーグ第14節 | Lee Changho | Lee Jihyun | Win | B+R | 6.5 | 3077 | -3 | 
+| 2018-09-30 | 2018年韓国囲碁リーグ第13節 | Lee Changho | Park Geunho | Win | B+R | 6.5 | 3080 | -23 | 
+| 2018-09-21 | 第1回天府杯世界囲碁選手権A組1回戦 | Xie Erhao | Lee Changho | Lose | B+R | 7.5 | 3103 | -58 | 
+| 2018-09-04 | 第12回GGオークション杯女流対シニア連勝対抗戦第17局 | Lee Changho | Oh Yujin | Lose | W+R | 6.5 | 3161 | 15 | 
+| 2018-08-30 | 2018年韓国囲碁リーグ第10節 | Lee Changho | Lee Yeongkyu | Lose | W+R | 6.5 | 3146 | 6 | 
+| 2018-08-17 | 2018年韓国囲碁リーグ第8節 | Song Jihoon | Lee Changho | Lose | B+R | 6.5 | 3140 | -20 | 
+| 2018-08-10 | 2018年韓国囲碁リーグ第7節 | Lee Jihyun | Lee Changho | Lose | B+2.5 | 6.5 | 3160 | -28 | 
+| 2018-08-02 | 2018年韓国囲碁リーグ第6節 | Kang Dongyun | Lee Changho | Win | W+R | 6.5 | 3188 | -14 | 
+| 2018-07-21 | 弈決崆峒世界道教名山戦8強戦 | Chen Yaoye | Lee Changho | Lose | B+R | 7.5 | 3202 | -19 | 
+| 2018-07-16 | 第20回農心杯韓国選抜戦 | Lee Changho | Byun Sangil | Lose | W+R | 6.5 | 3221 | 22 | 
+| 2018-07-13 | 2018年韓国囲碁リーグ第4節 | Lee Changho | Kim Sedong | Lose | W+9.5 | 6.5 | 3199 | -14 | 
+| 2018-07-11 | 第20回農心杯韓国選抜戦 | Seol Hyunjun | Lee Changho | Win | W+R | 6.5 | 3213 | 14 | 
+| 2018-07-01 | 2018年韓国囲碁リーグ第3節 | Lee Changho | Lee Yeongkyu | Lose | W+R | 6.5 | 3199 | -27 | 
+| 2018-06-21 | 2018年韓国囲碁リーグ第2節 | Na Hyun | Lee Changho | Lose | B+R | 6.5 | 3226 | -1 | 
+| 2018-06-16 | 2018年韓国囲碁リーグ第1節 | Weon Seongjin | Lee Changho | Win | W+2.5 | 6.5 | 3227 | 23 | 
+| 2018-04-02 | 第23回LG杯予選1回戦 | Fan Yin | Lee Changho | Lose | B+R | 6.5 | 3204 | -67 | 
+| 2018-03-16 | 第1回韓国竜星戦32強ダブルエリミネーションA3 | Ryu Minhyung | Lee Changho | Lose | B+1.5 | 6.5 | 3271 | -65 | 
+| 2018-03-14 | 第1回韓国竜星戦32強ダブルエリミネーションA1 | Kim Jiseok | Lee Changho | Lose | B+R | 6.5 | 3336 | -1 | 
+| 2018-01-23 | 第19回マキシムコーヒー杯入神最強戦1回戦 | Lee Changho | Lee Sedol | Lose | W+R | 6.5 | 3337 | -11 | 
+| 2018-01-20 | 金立杯2018中韓リーグ優勝チーム対抗戦第2戦 | Tuo Jiaxi | Lee Changho | Win | W+R | 7.5 | 3348 | 30 | 
+| 2018-01-18 | 金立杯2018中韓リーグ優勝チーム対抗戦第1戦 | Han Yizhou | Lee Changho | Win | W+R | 7.5 | 3318 | 65 | 
+| 2017-12-03 | 2017年韓国囲碁リーグ優勝決定戦第3戦 | Lee Changho | Yun Chanhee | Win | B+R | 6.5 | 3253 | 8 | 
+| 2017-12-02 | 2017年韓国囲碁リーグ優勝決定戦第2戦 | Yun Chanhee | Lee Changho | Win | W+R | 6.5 | 3245 | 18 | 
+| 2017-12-01 | 2017年韓国囲碁リーグ優勝決定戦第1戦 | Byun Sangil | Lee Changho | Lose | B+1.5 | 6.5 | 3227 | -9 | 
+| 2017-10-22 | 2017年韓国囲碁リーグ | Hong Seongji | Lee Changho | Lose | B+R | 6.5 | 3236 | 54 | 
+| 2017-10-05 | 2017年韓国囲碁リーグ | Kang Yootaek | Lee Changho | Win | W+0.5 | 6.5 | 3182 | 45 | 
+| 2017-09-29 | 2017年韓国囲碁リーグ | Lee Changho | Seol Hyunjun | Lose | W+R | 6.5 | 3137 | -13 | 
+| 2017-09-26 | 第11回GGオークション杯特別対局 | Lee Changho | Choi Jeong | Win | B+R | 6.5 | 3150 | 11 | 
+| 2017-09-23 | 2017年韓国囲碁リーグ | Yun Junsang | Lee Changho | Lose | B+R | 6.5 | 3139 | 23 | 
+| 2017-09-17 | 2017年韓国囲碁リーグ | Lee Wonyoung | Lee Changho | Win | W+R | 6.5 | 3116 | 30 | 
+| 2017-09-04 | 第11回GGオークション杯女流対シニア連勝対抗戦第17戦 | Lee Changho | Cho Hyeyeon | Lose | W+0.5 | 6.5 | 3086 | -19 | 
+| 2017-09-02 | 2017年韓国囲碁リーグ | Lee Changho | Cho Hanseung | Lose | W+R | 6.5 | 3105 | 13 | 
+| 2017-08-26 | 2017年韓国囲碁リーグ | Lee Changseok | Lee Changho | Lose | B+1.5 | 6.5 | 3092 | -7 | 
+| 2017-08-17 | 2017年韓国囲碁リーグ | Lee Changho | Kim Junghyun | Win | B+R | 6.5 | 3099 | 20 | 
+| 2017-08-10 | 2017年韓国囲碁リーグ | Lee Changho | Lee Yeongkyu | Win | B+R | 6.5 | 3079 | -9 | 
+| 2017-07-23 | 2017年韓国囲碁リーグ | Song Jihoon | Lee Changho | Win | W+R | 6.5 | 3088 | 20 | 
+| 2017-07-15 | 2017年韓国囲碁リーグ | Lee Changho | Weon Seongjin | Lose | W+2.5 | 6.5 | 3068 | -8 | 
+| 2017-07-11 | 第19回農心杯韓国選抜戦 | Lee Changho | Shin Jinseo | Lose | W+R | 6.5 | 3076 | -5 | 
+| 2017-07-07 | 第19回農心杯韓国選抜戦 | Heo Yongho | Lee Changho | Win | W+R | 6.5 | 3081 | 10 | 
+| 2017-06-30 | 第22回三星火災杯統合予選2回戦 | Lee Changho | Shin Minjun | Lose | W+R | 6.5 | 3071 | -46 | 
+| 2017-06-08 | 2017年韓国囲碁リーグ | Lee Changho | Lee Wonyoung | Win | B+R | 6.5 | 3117 | 20 | 
+| 2017-06-02 | 2017年韓国囲碁リーグ | Lee Sedol | Lee Changho | Lose | B+R | 6.5 | 3097 | -34 | 
+| 2017-05-19 | 2017年韓国囲碁リーグ | Lee Changho | Heo Yongho | Lose | W+R | 6.5 | 3131 | -8 | 
+| 2017-05-17 | 元大証券杯韓国特別対局 | Lee Changho | Lee Sedol | Win | B+7.5 | 6.5 | 3139 | 42 | 
+| 2017-04-06 | 第22期LG杯世界予選3回戦 |  | Lee Changho | Lose | B+R | 6.5 | 3097 | -49 | 
+| 2017-03-27 | 第18回マキシムコーヒー杯入神最強戦3回戦 | Lee Changho | Park Junghwan | Lose | W+R | 6.5 | 3146 | 143 | 
+| 2017-03-07 | 第18回マキシムコーヒー杯入神最強戦2回戦 | Lee Changho | Lee Sedol | Win | B+R | 6.5 | 3003 | 64 | 
+| 2017-01-16 | 第18回マキシムコーヒー杯入神最強戦1回戦 | Lee Changho | Choi Kyubyeong | Win | B+R | 6.5 | 2939 | 11 | 
+| 2016-11-21 | 2016年韓国囲碁リーグ | Park Junghwan | Lee Changho | Lose | B+R | 6.5 | 2928 | -4 | 
+| 2016-11-19 | 2016年韓国囲碁リーグ | Lee Changho | Kang Yootaek | Lose | W+R | 6.5 | 2932 | -56 | 
+| 2016-10-13 | 2016年韓国囲碁リーグ | Lee Taehyun | Lee Changho | Lose | B+R | 6.5 | 2988 | -14 | 
+| 2016-10-07 | 2016年韓国囲碁リーグ | Lee Changho | Song Jihoon | Lose | W+0.5 | 6.5 | 3002 | -34 | 
+| 2016-10-01 | 2016年韓国囲碁リーグ | Lee Changho | Shin Minjun | Lose | W+5.5 | 6.5 | 3036 | 28 | 
+| 2016-09-26 | 10期韓国GG拍売杯紳士淑女特別対局1 | Lee Changho | Choi Jeong | Win | B+R | 6.5 | 3008 | 19 | 
+| 2016-09-25 | 2016年韓国囲碁リーグ第14節 | Lee Changho | Choi Jeong | Win | B+R | 6.5 | 2989 | -90 | 
+| 2016-09-21 | 塩城東方集団杯中韓囲棋団体名人選手権戦3回戦 | Lee Changho | Chang Hao | Lose | W+R | 7.5 | 3079 | -18 | 
+| 2016-09-20 | 塩城東方集団杯中韓囲棋団体名人選手権戦2回戦 | Ma Xiaochun | Lee Changho | Win | W+R | 7.5 | 3097 | 0 | 
+| 2016-09-19 | 塩城東方集団杯中韓囲棋団体名人選手権戦1回戦 | Lee Changho | Nie Weiping | Win | B+R | 7.5 | 3097 | -44 | 
+| 2016-09-15 | 2016年韓国囲碁リーグ第13節 | Lee Changho | Han Taehee | Win | B+0.5 | 6.5 | 3141 | -22 | 
+| 2016-09-02 | 2016年韓国囲碁リーグ第12節 | Lee Changho | Kim Junghyun | Lose | W+R | 6.5 | 3163 | -38 | 
+| 2016-08-27 | 2016年韓国囲碁リーグ第11節 | Lee Changho | Choi Cheolhan | Lose | W+R | 6.5 | 3201 | -28 | 
+| 2016-08-21 | 2016年韓国囲碁リーグ第10節 | Kang Yootaek | Lee Changho | Lose | B+R | 6.5 | 3229 | -53 | 
+| 2016-07-31 | 2016年韓国囲碁リーグ第8節 | Lee Changho | Min Sangyoun | Win | B+R | 6.5 | 3282 | -73 | 
+| 2016-07-23 | 2016年韓国囲碁リーグ第7節 | Heo Yongho | Lee Changho | Win | W+R | 6.5 | 3355 | 40 | 
+| 2016-07-22 | 第18回農心杯韓国選抜戦 | Lee Changho | Kang Jiseong | Lose | W+R | 6.5 | 3315 | 88 | 
+| 2016-07-11 | 第18回農心杯韓国選抜戦 | Lee Changho | Choi Jaeyoung | Win | B+R | 6.5 | 3227 | 15 | 
+| 2016-07-08 | 2016年韓国囲碁リーグ第6節 | Lee Sedol | Lee Changho | Lose | B+R | 6.5 | 3212 | 74 | 
+| 2016-06-23 | 2016年韓国囲碁リーグ第5節 | Lee Changho | Lee Changseok | Win | B+R | 6.5 | 3138 | 15 | 
+| 2016-06-19 | 2016年韓国囲碁リーグ第4節 | Hong Minpyo | Lee Changho | Win | W+1.5 | 6.5 | 3123 | -24 | 
+| 2016-06-11 | 2016年韓国囲碁リーグ第3節 | Kim Junghyun | Lee Changho | Win | W+R | 6.5 | 3147 | 61 | 
+| 2016-06-03 | 2016年韓国囲碁リーグ第2節 | Ryu Suhang | Lee Changho | Win | W+R | 6.5 | 3086 | 21 | 
+| 2016-05-30 | 第35回KBS杯囲碁王戦2回戦 | Lee Changho | Mok Jinseok | Lose | W+R | 6.5 | 3065 | 13 | 
+| 2016-05-19 | 2016年韓国囲碁リーグ第1節 | Park Minkyu | Lee Changho | Lose | B+R | 6.5 | 3052 | 1 | 
+| 2016-02-17 | 第17回マキシムコーヒー杯入神最強戦2回戦 | Lee Changho | Kang Dongyun | Lose | W+R | 6.5 | 3051 | -72 | 
+| 2016-01-05 | 第17回マキシムコーヒー杯入神最強戦1回戦 | Lee Changho | Park Cheongsang | Win | B+R | 6.5 | 3123 | 47 | 
+| 2015-10-06 | 第20回三星火災杯世界囲碁マスターズ2回戦 | Tang Weixing | Lee Changho | Lose | B+1.5 | 6.5 | 3076 | -14 | 
+| 2015-10-04 | 2015年韓国囲碁リーグ | Kim Daeyoung | Lee Changho | Win | W+R | 6.5 | 3090 | 29 | 
+| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Shin Minjun | Lee Changho | Lose | B+R | 6.5 | 3061 | -12 | 
+| 2015-09-17 | 2015年韓国囲碁リーグ | Lee Changho | Lee Sedol | Win | B+R | 6.5 | 3073 | 46 | 
+| 2015-09-14 | 第59期国手戦（韓国）2回戦 | Han Sanghoon | Lee Changho | Lose | B+R | 6.5 | 3027 | -64 | 
+| 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦D2 | Kim Dongho | Lee Changho | Win | W+R | 6.5 | 3091 | 15 | 
+| 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦D1 | Lee Changho | Lin Junyan | Win | B+R | 6.5 | 3076 | 26 | 
+| 2015-09-04 | 2015年韓国囲碁リーグ | Park Jinsol | Lee Changho | Win | W+R | 6.5 | 3050 | -9 | 
+| 2015-08-29 | 2015年韓国囲碁リーグ | Lee Changho | Park Geunho | Win | B+R | 6.5 | 3059 | -14 | 
+| 2015-08-23 | 2015年韓国囲碁リーグ | Lee Changho | Paek Hongseok | Win | B+R | 6.5 | 3073 | 39 | 
+| 2015-08-13 | 2015年韓国囲碁リーグ | Lee Jihyun | Lee Changho | Win | W+R | 6.5 | 3034 | -18 | 
+| 2015-07-24 | 2015年韓国囲碁リーグ | Lee Donghoon | Lee Changho | Lose | B+R | 6.5 | 3052 | -31 | 
+| 2015-07-19 | 2015年韓国囲碁リーグ | Lee Changho |  | Lose | W+R | 6.5 | 3083 | -24 | 
+| 2015-07-14 | 第17回農心杯韓国選抜戦 | Lee Changho | Song Taekon | Lose | W+R | 6.5 | 3107 | -42 | 
+| 2015-07-02 | 2015年韓国囲碁リーグ | Lee Taehyun | Lee Changho | Lose | B+R | 6.5 | 3149 | -120 | 
+| 2015-06-21 | 2015年韓国囲碁リーグ | Lee Changho | Kim Juho | Lose | W+2.5 | 6.5 | 3269 | -52 | 
+| 2015-06-15 | 第59期国手戦（韓国）1回戦 | Park Yeonghun | Lee Changho | Win | W+R | 6.5 | 3321 | 18 | 
+| 2015-06-13 | 2015年韓国囲碁リーグ | Park Jinsol | Lee Changho | Win | W+R | 6.5 | 3303 | 14 | 
+| 2015-06-08 | 第20回LG杯朝鮮日報棋王戦1回戦 | Lin Junyan | Lee Changho | Lose | B+R | 6.5 | 3289 | -47 | 
+| 2015-05-29 | 2015年韓国囲碁リーグ | Lee Changho | An Joyeong | Win | B+R | 6.5 | 3336 | -58 | 
+| 2015-05-14 | 2015年韓国囲碁リーグ | Lee Changho | Paek Hongseok | Lose | W+1.5 | 6.5 | 3394 | 7 | 
+| 2015-05-10 | 2015年韓国囲碁リーグ | Kang Seungmin | Lee Changho | Win | W+R | 6.5 | 3387 | 47 | 
+| 2015-05-02 | 2015年韓国囲碁リーグ | Park Junghwan | Lee Changho | Lose | B+R | 6.5 | 3340 | 101 | 
+| 2015-04-24 | 2015年韓国囲碁リーグ | Kim Jiseok | Lee Changho | Lose | B+R | 6.5 | 3239 | -17 | 
+| 2015-03-20 | 第59期国手戦（韓国）予選 | Lee Changho | Na Hyun | Win | B+R | 6.5 | 3256 | -75 | 
+| 2015-01-27 | 第16回マキシムコーヒー杯入神最強戦2回戦 | Lee Sedol | Lee Changho | Lose | B+R | 6.5 | 3331 | -5 | 
+| 2014-12-24 | 第16回マキシムコーヒー杯入神最強戦1回戦 | Cho Hyeyeon | Lee Changho | Win | W+R | 7.5 | 3336 | 164 | 
+| 2014-10-23 | 2014年韓国囲碁リーグ | Lee Changho | Min Sangyoun | Lose | W+R | 6.5 | 3172 | -49 | 
+| 2014-10-11 | 2014年韓国囲碁リーグ | Lee Changho | Kim Myounghoon | Lose | W+R | 6.5 | 3221 | -65 | 
+| 2014-09-19 | 2014年韓国囲碁リーグ | Lee Changho | Ryu Suhang | Win | B+R | 6.5 | 3286 | 7 | 
+| 2014-09-17 | 第10期物価情報杯プロ棋戦決勝トーナメント準決勝 | Na Hyun | Lee Changho | Lose | B+R | 6.5 | 3279 | 42 | 
+| 2014-09-10 | 第10期物価情報杯プロ棋戦決勝トーナメント1回戦 | Lee Changho | Park Junghwan | Win | B+R | 6.5 | 3237 | 29 | 
+| 2014-09-07 | 2014年韓国囲碁リーグ | Kim Seongjae | Lee Changho | Lose | B+R | 6.5 | 3208 | -12 | 
+| 2014-08-28 | 第19回三星火災杯世界囲碁マスターズ1回戦C3 | Lee Changho | Park Junghwan | Lose | W+R | 6.5 | 3220 | 5 | 
+| 2014-08-27 | 第19回三星火災杯世界囲碁マスターズ1回戦C2 | Shi Yue | Lee Changho | Lose | B+R | 6.5 | 3215 | -12 | 
+| 2014-08-26 | 第19回三星火災杯世界囲碁マスターズ1回戦C1 | Lee Changho | Meng Tailing | Win | B+T | 6.5 | 3227 | 24 | 
+| 2014-08-22 | 2014年韓国囲碁リーグ | Kim Juho | Lee Changho | Lose | B+R | 6.5 | 3203 | -28 | 
+| 2014-08-13 | 第10期物価情報杯プロ棋戦リーグB | Lee Changho | An Sungjoon | Win | B+R | 6.5 | 3231 | 28 | 
+| 2014-08-10 | 2014年韓国囲碁リーグ | Kim Jinhyu | Lee Changho | Win | W+2.5 | 6.5 | 3203 | -19 | 
+| 2014-07-30 | 2014年レッツランパーク杯オープントーナメント1回戦 | Lee Changho | Cho Insun | Lose | W+0.5 | 6.5 | 3222 | -9 | 
+| 2014-07-17 | 2014年韓国囲碁リーグ | Kim Sedong | Lee Changho | Lose | B+R | 6.5 | 3231 | -13 | 
+| 2014-07-16 | 第16回農心杯韓国選抜戦 | Lee Changho | Park Cheongsang | Win | B+R | 6.5 | 3244 | 8 | 
+| 2014-07-14 | 第16回農心杯韓国選抜戦 | Shin Minjun | Lee Changho | Win | W+R | 6.5 | 3236 | 45 | 
+| 2014-06-28 | 2014年韓国囲碁リーグ | Lee Changho | Kim Dongho | Win | B+R | 6.5 | 3191 | 9 | 
+| 2014-06-13 | 2014年韓国囲碁リーグ | Lee Changho | Na Hyun | Win | B+R | 6.5 | 3182 | 38 | 
+| 2014-06-08 | 2014年韓国囲碁リーグ | Jin Siyoung | Lee Changho | Lose | B+R | 6.5 | 3144 | -20 | 
+| 2014-05-28 | 第10期物価情報杯プロ棋戦リーグB | Choi Cheolhan | Lee Changho | Win | W+R | 6.5 | 3164 | 81 | 
+| 2014-05-22 | 2014年韓国囲碁リーグ | Lee Changho | An Joyeong | Win | B+R | 6.5 | 3083 | 11 | 
+| 2014-05-03 | 2014年韓国囲碁リーグ | Kim Juho | Lee Changho | Lose | B+1.5 | 6.5 | 3072 | -11 | 
+| 2014-04-29 | 2014年中国囲碁乙級リーグ | Lee Changho |  | Win | B+R | 7.5 | 3083 | -75 | 
+| 2014-04-26 | 2014年中国囲碁乙級リーグ | Park Yeonghun | Lee Changho | Lose | B+R | 7.5 | 3158 | -16 | 
+| 2014-04-25 | 2014年中国囲碁乙級リーグ | Lee Changho | Zhu Yuanhao | Lose | W+0.5 | 7.5 | 3174 | -70 | 
+| 2014-04-22 | 2014年中国囲碁乙級リーグ | Lee Changho | Liu Xing | Lose | W+R | 7.5 | 3244 | -11 | 
+| 2014-04-21 | 2014年中国囲碁乙級リーグ | Wang Lei (s) | Lee Changho | Win | W+R | 7.5 | 3255 | -9 | 
+| 2014-04-10 | 2014年韓国囲碁リーグ | Lee Changho | Lee Jihyun | Lose | W+1.5 | 6.5 | 3264 | 36 | 
+| 2014-03-12 | 第58期国手戦（韓国）予選 | Kim Jinhyu | Lee Changho | Lose | B+R | 6.5 | 3228 | -22 | 
+| 2014-03-03 | 第4期招商地産杯韓国選抜戦 | Byun Sangil | Lee Changho | Lose | B+R | 6.5 | 3250 | -6 | 
+| 2014-02-18 | 第15回マキシムコーヒー杯入神最強戦2回戦 | Yun Junsang | Lee Changho | Lose | B+1.5 | 6.5 | 3256 | -41 | 
+| 2013-12-02 | 第32回KBS杯囲碁王戦敗者復活戦2回戦 | Lee Changho | Kang Jiseong | Lose | W+R | 6.5 | 3297 | -11 | 
+| 2013-11-18 | 第32回KBS杯囲碁王戦本戦3回戦 | Lee Changho | Park Yeonghun | Lose | W+4.5 | 6.5 | 3308 | -21 | 
+| 2013-11-17 | 2013年韓国囲碁リーグ |  | Lee Changho | Win | W+1.5 | 6.5 | 3329 | 30 | 
+| 2013-11-13 | 第4期Olleh杯オープン選手権準決勝 | Kim Jiseok | Lee Changho | Lose | B+R | 6.5 | 3299 | -20 | 
+| 2013-11-03 | 2013年韓国囲碁リーグ | Kim Seongjae | Lee Changho | Win | W+R | 6.5 | 3319 | 4 | 
+| 2013-11-01 | 第4期Olleh杯オープン選手権準々決勝 | Kang Dongyun | Lee Changho | Win | W+R | 6.5 | 3315 | -1 | 
+| 2013-10-17 | 2013年韓国囲碁リーグ | Lee Changho | Lee Donghoon | Win | B+R | 6.5 | 3316 | -10 | 
+| 2013-10-04 | 第4期Olleh杯オープン選手権4回戦 | Yun Junsang | Lee Changho | Win | W+R | 6.5 | 3326 | -7 | 
+| 2013-09-28 | 2013年韓国囲碁リーグ | Lee Changho | Kim Junghyun | Lose | W+R | 6.5 | 3333 | -32 | 
+| 2013-09-26 | 第57期国手戦（韓国）1回戦 | Choi Cheolhan | Lee Changho | Lose | B+R | 6.5 | 3365 | -102 | 
+| 2013-09-15 | 2013年韓国囲碁リーグ | Kang Dongyun | Lee Changho | Lose | B+0.5 | 6.5 | 3467 | -5 | 
+| 2013-09-06 | 第4期Olleh杯オープン選手権3回戦 | Lee Changho | Lee Taehyun | Win | B+R | 6.5 | 3472 | 23 | 
+| 2013-08-23 | 2013年韓国囲碁リーグ | Byun Sangil | Lee Changho | Lose | B+R | 6.5 | 3449 | -39 | 
+| 2013-08-16 | 2013年韓国囲碁リーグ | Cho Hanseung | Lee Changho | Win | W+R | 6.5 | 3488 | -3 | 
+| 2013-08-13 | 第41期名人戦（韓国）1回戦 | Paek Hongseok | Lee Changho | Lose | B+R | 6.5 | 3491 | 60 | 
+| 2013-07-25 | 2013年韓国囲碁リーグ | Hong Seongji | Lee Changho | Lose | B+R | 6.5 | 3431 | -24 | 
+| 2013-07-24 | 第9期物価情報杯プロ棋戦決勝トーナメント1回戦 | Lee Changho | An Sungjoon | Lose | W+R | 6.5 | 3455 | 76 | 
+| 2013-07-15 | 第15回農心杯韓国選抜戦 | Lee Changho | Kim Hyeongwoo | Win | B+1.5 | 6.5 | 3379 | 40 | 
+| 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 | Lee Changho | Lei Zhenkun | Lose | W+R | 7.5 | 3339 | 7 | 
+| 2013-07-05 | 第4期Olleh杯オープン選手権2回戦 | Shin Jinseo | Lee Changho | Win | W+1.5 | 6.5 | 3332 | 32 | 
+| 2013-07-03 | 第9期物価情報杯プロ棋戦リーグB | Lee Changho | Lee Jihyun | Win | B+R | 6.5 | 3300 | -25 | 
+| 2013-06-28 | 第25回テレビアジア選手権1回戦 | Lee Changho | Iyama Yuta | Lose | W+R | 6.5 | 3325 | 41 | 
+| 2013-06-23 | 2013年中国囲碁乙級リーグ | Lee Changho | Gu Lingyi | Lose | W+0.5 | 7.5 | 3284 | -11 | 
+| 2013-06-22 | 2013年中国囲碁乙級リーグ | Lee Changho | Tan Xiao | Win | B+R | 7.5 | 3295 | -23 | 
+| 2013-06-20 | 2013年中国囲碁乙級リーグ | Wang Tao | Lee Changho | Win | W+R | 7.5 | 3318 | 3 | 
+| 2013-06-19 | 2013年中国囲碁乙級リーグ | Zhu Yuanhao | Lee Changho | Lose | B+1.5 | 7.5 | 3315 | 7 | 
+| 2013-06-17 | 2013年中国囲碁乙級リーグ | Lee Changho |  | Lose | W+R | 7.5 | 3308 | -3 | 
+| 2013-06-16 | 2013年中国囲碁乙級リーグ | Lee Changho | Tao Xin | Lose | W+R | 7.5 | 3311 | 3 | 
+| 2013-06-15 | 2013年中国囲碁乙級リーグ | Luo Xihe | Lee Changho | Win | W+R | 7.5 | 3308 | 22 | 
+| 2013-06-13 | 2013年韓国囲碁リーグ | Lee Sedol | Lee Changho | Win | W+R | 6.5 | 3286 | 8 | 
+| 2013-06-10 | 第18回LG杯朝鮮日報棋王戦1回戦 | Tuo Jiaxi | Lee Changho | Lose | B+R | 6.5 | 3278 | -30 | 
+| 2013-06-07 | 第9期物価情報杯プロ棋戦リーグB | Mok Jinseok | Lee Changho | Win | W+R | 6.5 | 3308 | -23 | 
+| 2013-06-03 | 第32回KBS杯囲碁王戦本戦2回戦 | Lee Changho | Lee Huiseong | Win | B+1.5 | 6.5 | 3331 | 79 | 
+| 2013-05-17 | 2013年韓国囲碁リーグ | Na Hyun | Lee Changho | Lose | B+1.5 | 6.5 | 3252 | -13 | 
+| 2013-05-13 | 第9期物価情報杯プロ棋戦リーグB | Lee Changho | Lee Jihyun | Lose | W+R | 6.5 | 3265 | -11 | 
+| 2013-05-04 | 2013年韓国囲碁リーグ | Byun Sangil | Lee Changho | Win | W+R | 6.5 | 3276 | -20 | 
+| 2013-04-25 | 第9期物価情報杯プロ棋戦予選 | Lee Taehyun | Lee Changho | Win | W+R | 6.5 | 3296 | 4 | 
+| 2013-04-23 | 第18回LG杯予選 | Lee Changho | Wang Haoyang | Win | B+R | 6.5 | 3292 | 45 | 
+| 2013-04-14 | 2013年韓国囲碁リーグ | Cho Hanseung | Lee Changho | Win | W+R | 6.5 | 3247 | 39 | 
+| 2013-02-04 | 第31回KBS杯囲碁王戦決勝三番勝負第2局 | Lee Changho | Park Junghwan | Lose | W+R | 6.5 | 3208 | -4 | 
+| 2013-02-01 | 第31回KBS杯囲碁王戦決勝三番勝負第1局 | Park Junghwan | Lee Changho | Win | W+R | 6.5 | 3212 | 14 | 
+| 2013-01-31 | 第14回マキシムコーヒー杯入神最強戦3回戦 | Choi Cheolhan | Lee Changho | Lose | B+R | 6.5 | 3198 | -25 | 
+| 2013-01-25 | 第3期招商地産杯韓国選抜戦 | Lee Changho | Kim Seongjae | Lose | W+0.5 | 6.5 | 3223 | 9 | 
+| 2013-01-21 | 第8期圓益杯十段戦2回戦 | Lee Changho | Park Yeonghun | Lose | W+R | 6.5 | 3214 | -19 | 
+| 2013-01-07 | 第31回KBS杯囲碁王戦本戦5回戦 | Lee Changho | Park Junghwan | Win | B+R | 6.5 | 3233 | 37 | 
+| 2012-12-24 | 第31回KBS杯囲碁王戦本戦4回戦 | Lee Changho | Lee Sedol | Win | B+R | 6.5 | 3196 | 48 | 
+| 2012-11-30 | 第14回マキシムコーヒー杯入神最強戦2回戦 | Lee Huiseong | Lee Changho | Win | W+3.5 | 6.5 | 3148 | -226 | 
+| 2012-11-05 | 第8期圓益杯十段戦1回戦 | Lee Changho | Lee Chungyu | Win | B+R | 6.5 | 3374 | 15 | 
+| 2012-09-28 | 2012年韓国囲碁リーグ | Lee Changho | Lee Wonyoung | Win | B+1.5 | 6.5 | 3359 | 10 | 
+| 2012-09-25 | 第7回応氏杯世界選手権準決勝三番勝負第2局 | Lee Changho | Park Junghwan | Lose | W+R | 7.5 | 3349 | -7 | 
+| 2012-09-23 | 第7回応氏杯世界選手権準決勝三番勝負第1局 | Park Junghwan | Lee Changho | Lose | B+R | 7.5 | 3356 | -38 | 
+| 2012-09-17 | 第31回KBS杯囲碁王戦本戦3回戦 | Lee Changho | Mok Jinseok | Win | B+R | 6.5 | 3394 | 6 | 
+| 2012-09-11 | 第40期名人戦（韓国）1回戦 | Lee Changho | Park Junghwan | Lose | W+R | 6.5 | 3388 | 10 | 
+| 2012-09-02 | 2012年韓国囲碁リーグ | Lee Changho |  | Win | B+2.5 | 6.5 | 3378 | 0 | 
+| 2012-08-25 | 2012年韓国囲碁リーグ | Lee Changho | Hong Kipyo | Win | B+R | 6.5 | 3378 | -7 | 
+| 2012-07-30 | 第31回KBS杯囲碁王戦本戦2回戦 | Lee Changho | Kim Seungjun | Win | B+R | 6.5 | 3385 | 10 | 
+| 2012-07-21 | 2012年韓国囲碁リーグ | Paek Hongseok | Lee Changho | Lose | B+R | 6.5 | 3375 | -4 | 
+| 2012-07-20 | 第14回農心杯韓国選抜戦 | Lee Changho | Lee Donghoon | Lose | W+0.5 | 6.5 | 3379 | 13 | 
+| 2012-07-13 | 第14回農心杯韓国選抜戦 | Lee Changho | Park Jinsol | Win | B+R | 6.5 | 3366 | -32 | 
+| 2012-07-09 | 第14回農心杯韓国選抜戦 | Hong Kipyo | Lee Changho | Win | W+R | 6.5 | 3398 | 11 | 
+| 2012-07-05 | 2012年韓国囲碁リーグ | An Sungjoon | Lee Changho | Lose | B+R | 6.5 | 3387 | 62 | 
+| 2012-06-24 | 2012年韓国囲碁リーグ | Choi Cheolhan | Lee Changho | Lose | B+R | 6.5 | 3325 | -35 | 
+| 2012-06-20 | 第17回LG杯世界棋王戦2回戦 | Li Kang | Lee Changho | Lose | B+R | 6.5 | 3360 | -10 | 
+| 2012-06-18 | 第17回LG杯世界棋王戦1回戦 | Liu Xing | Lee Changho | Win | W+R | 6.5 | 3370 | -79 | 
+| 2012-06-09 | 2012年韓国囲碁リーグ | Han Wonggyu | Lee Changho | Win | W+R | 6.5 | 3449 | 24 | 
+| 2012-06-01 | 2012年韓国囲碁リーグ | Hong Kipyo | Lee Changho | Lose | B+R | 6.5 | 3425 | 24 | 
+| 2012-05-27 | 第7回応氏杯世界選手権3回戦 | Cho U | Lee Changho | Win | W+R | 7.5 | 3401 | 13 | 
+| 2012-05-25 | 第7回応氏杯世界選手権2回戦 | Lee Changho | Kong Jie | Win | B+1 | 7.5 | 3388 | -37 | 
+| 2012-05-13 | 2012年韓国囲碁リーグ | Lee Changho | Hong Seongji | Lose | W+R | 6.5 | 3425 | -107 | 
+| 2012-05-05 | 2012年韓国囲碁リーグ | Lee Changho | Lee Wondo | Win | B+R | 6.5 | 3532 | -64 | 
+| 2012-04-27 | 2012年韓国囲碁リーグ | Lee Sedol | Lee Changho | Lose | B+R | 6.5 | 3596 | -30 | 
+| 2012-04-19 | 2012年韓国囲碁リーグ | Park Cheongsang | Lee Changho | Lose | B+R | 6.5 | 3626 | 16 | 
+| 2012-04-02 | 第31回KBS杯囲碁王戦本戦1回戦 | Kang Seungmin | Lee Changho | Win | W+R | 6.5 | 3610 | 4 | 
+| 2012-03-17 | 第4回BCカード杯世界選手権2回戦 | Mi Yuting | Lee Changho | Lose | B+R | 6.5 | 3606 | -81 | 
+| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Ding Wei | Lee Changho | Win | W+R | 6.5 | 3687 | -1 | 
+| 2012-02-29 | 第4回BCカード杯世界選手権統合予選決勝 | Lee Juhyung | Lee Changho | Win | W+R | 6.5 | 3688 | -10 | 
+| 2012-02-24 | 第13回農心辛ラーメン杯世界囲碁最強戦第14戦 | Xie He | Lee Changho | Lose | B+3.5 | 6.5 | 3698 | -19 | 
+| 2012-02-15 | 第16回LG杯世界棋王戦決勝三番勝負第2局 | Lee Changho | Jiang Weijie | Lose | W+R | 6.5 | 3717 | 1 | 
+| 2012-02-13 | 第16回LG杯世界棋王戦決勝三番勝負第1局 | Jiang Weijie | Lee Changho | Lose | B+R | 6.5 | 3716 | 63 | 
+| 2012-02-10 | 第9回春蘭杯韓国予選 | Kang Dongyun | Lee Changho | Lose | B+R | 6.5 | 3653 | -12 | 
+| 2012-02-08 | 第9回春蘭杯韓国予選 | Park Yeonghun | Lee Changho | Win | W+R | 6.5 | 3665 | 37 | 
+| 2012-01-03 | 第13回マキシムコーヒー杯入神最強戦2回戦 | Lee Sedol | Lee Changho | Lose | B+R | 6.5 | 3628 | -17 | 
+| 2011-12-22 | 第2期Olleh杯オープン選手権決勝五番勝負第4局 | Lee Sedol | Lee Changho | Lose | B+0.5 | 6.5 | 3645 | -36 | 
+| 2011-12-19 | 第2期Olleh杯オープン選手権決勝五番勝負第3局 | Lee Changho | Lee Sedol | Lose | W+R | 6.5 | 3681 | 401 | 
+| 2011-12-07 | 第2期Olleh杯オープン選手権決勝五番勝負第2局 | Lee Sedol | Lee Changho | Lose | B+R | 6.5 | 3280 | -10 | 
+| 2011-12-06 | 第2期Olleh杯オープン選手権決勝五番勝負第1局 | Lee Changho | Lee Sedol | Win | B+2.5 | 6.5 | 3290 | 48 | 
+| 2011-11-23 | 第16回LG杯世界棋王戦準決勝 | Lee Changho | Xie He | Win | B+R | 6.5 | 3242 | 15 | 
+| 2011-11-21 | 第16回LG杯世界棋王戦3回戦 | Chen Shiyuan | Lee Changho | Win | W+R | 6.5 | 3227 | 9 | 
+| 2011-11-18 | 2011年韓国囲碁リーグ | Lee Changho | Jin Siyoung | Lose | W+R | 6.5 | 3218 | -7 | 
+| 2011-11-11 | 第2期Olleh杯オープン選手権準決勝 | Park Junghwan | Lee Changho | Win | W+R | 6.5 | 3225 | 2 | 
+| 2011-11-08 | 第39期名人戦（韓国）準決勝第2局 | Paek Hongseok | Lee Changho | Lose | B+R | 6.5 | 3223 | -32 | 
+| 2011-11-01 | 第39期名人戦（韓国）準決勝第1局 | Lee Changho | Paek Hongseok | Lose | W+R | 6.5 | 3255 | -2 | 
+| 2011-10-30 | 2011年韓国囲碁リーグ | Lee Changho | Kim Dongho | Win | B+R | 6.5 | 3257 | -5 | 
+| 2011-10-27 | 第7期圓益杯十段戦1回戦 | Lee Changho | Han Chongjin | Lose | W+R | 6.5 | 3262 | 22 | 
+| 2011-10-21 | 2011年韓国囲碁リーグ | Park Junghwan | Lee Changho | Win | W+0.5 | 6.5 | 3240 | 17 | 
+| 2011-10-18 | 第39期名人戦（韓国）2回戦 | Cho Insun | Lee Changho | Win | W+R | 6.5 | 3223 | 7 | 
+| 2011-10-04 | 第16回三星火災杯世界囲碁マスターズ1回戦 | Gu Li | Lee Changho | Lose | B+0.5 | 6.5 | 3216 | -44 | 
+| 2011-09-30 | 2011年韓国囲碁リーグ | Lee Changho | Kang Yootaek | Win | B+R | 6.5 | 3260 | 9 | 
+| 2011-09-27 | 第39期名人戦（韓国）1回戦 | Yun Chanhee | Lee Changho | Win | W+R | 6.5 | 3251 | -10 | 
+| 2011-09-21 | 2011年韓国囲碁リーグ | An Sungjoon | Lee Changho | Lose | B+R | 6.5 | 3261 | -5 | 
+| 2011-09-18 | 2011年韓国囲碁リーグ | Lee Changho | On Sojin | Win | B+0.5 | 6.5 | 3266 | 69 | 
+| 2011-09-04 | 2011年韓国囲碁リーグ | Lee Changho | Heo Yongho | Win | B+R | 6.5 | 3197 | 0 | 
+| 2011-08-26 | 第16回三星火災杯世界囲碁マスターズ1回戦C3 | Sun Li | Lee Changho | Win | W+R | 6.5 | 3197 | 7 | 
+| 2011-08-25 | 第16回三星火災杯世界囲碁マスターズ1回戦C2 | Lee Changho | Tan Xiao | Lose | W+R | 6.5 | 3190 | -9 | 
+| 2011-08-24 | 第16回三星火災杯世界囲碁マスターズ1回戦C1 | Lee Changho | Jiang Zhujiu | Win | B+R | 6.5 | 3199 | -26 | 
+| 2011-08-13 | 2011年韓国囲碁リーグ | Lee Changho | Ryu Chaehyeong | Win | B+R | 6.5 | 3225 | -7 | 
+| 2011-08-04 | 第16回三星火災杯統合予選準決勝 |  | Lee Changho | Win | W+R | 6.5 | 3232 | 13 | 
+| 2011-08-03 | 第16回三星火災杯統合予選2回戦 | Peng Quan | Lee Changho | Win | W+R | 6.5 | 3219 | -2 | 
+| 2011-07-26 | 第55期国手戦（韓国）2回戦 | Lee Changho | Park Junghwan | Lose | W+R | 6.5 | 3221 | -20 | 
+| 2011-07-21 | 2011年韓国囲碁リーグ | Lee Changho | Lee Sedol | Lose | W+R | 6.5 | 3241 | -4 | 
+| 2011-07-18 | 第13回農心杯韓国選抜戦 | Lee Yeongkyu | Lee Changho | Lose | B+R | 6.5 | 3245 | 0 | 
+| 2011-07-16 | 2011年韓国囲碁リーグ | Kim Kiyoung | Lee Changho | Win | W+1.5 | 6.5 | 3245 | 6 | 
+| 2011-07-11 | 第13回農心杯韓国選抜戦 | Park Jiyeon | Lee Changho | Win | W+R | 6.5 | 3239 | -26 | 
+| 2011-06-30 | 第55期国手戦（韓国）1回戦 | Lee Changho | Hong Seongji | Win | B+R | 6.5 | 3265 | -87 | 
+| 2011-06-27 | 第7期物価情報杯プロ棋戦リーグD | Lee Changho | An Joyeong | Lose | W+2.5 | 6.5 | 3352 | -48 | 
+| 2011-06-25 | 2011年韓国囲碁リーグ | Lee Changho | Kang Yootaek | Lose | W+R | 6.5 | 3400 | -40 | 
+| 2011-06-17 | 2011年韓国囲碁リーグ | Ahn Kukhyun | Lee Changho | Win | W+R | 6.5 | 3440 | -6 | 
+| 2011-06-15 | 第16回LG杯世界棋王戦2回戦 | Iyama Yuta | Lee Changho | Win | W+R | 6.5 | 3446 | 0 | 
+| 2011-06-13 | 第16回LG杯世界棋王戦1回戦 | Gu Li | Lee Changho | Win | W+R | 6.5 | 3446 | -27 | 
+| 2011-06-03 | 2011年韓国囲碁リーグ | Lee Changho | Paek Hongseok | Win | B+R | 6.5 | 3473 | 54 | 
+| 2011-05-21 | 2011年韓国囲碁リーグ | Lee Changho | Park Yeonghun | Win | B+R | 6.5 | 3419 | 25 | 
+| 2011-05-14 | 2011年中国囲碁乙級リーグ |  | Lee Changho | Win | W+R | 7.5 | 3394 | 41 | 
+| 2011-05-13 | 2011年中国囲碁乙級リーグ | Lee Changho |  | Win | B+1.5 | 7.5 | 3353 | -35 | 
+| 2011-05-11 | 2011年中国囲碁乙級リーグ | Paek Hongseok | Lee Changho | Win | W+R | 7.5 | 3388 | 9 | 
+| 2011-05-10 | 2011年中国囲碁乙級リーグ | Lee Changho | Heo Yongho | Win | B+R | 7.5 | 3379 | 15 | 
+| 2011-05-08 | 2011年中国囲碁乙級リーグ |  | Lee Changho | Lose | B+R | 7.5 | 3364 | 8 | 
+| 2011-05-07 | 2011年中国囲碁乙級リーグ | Lee Wonyoung | Lee Changho | Win | W+R | 7.5 | 3356 | 6 | 
+| 2011-05-06 | 2011年中国囲碁乙級リーグ | Lee Changho | Kang Dongyun | Win | B+R | 7.5 | 3350 | -28 | 
+| 2011-05-03 | 第16回LG杯予選 | Lee Changho | Hong Seongji | Win | B+R | 6.5 | 3378 | 7 | 
+| 2011-05-02 | 第16回LG杯予選 | Li He | Lee Changho | Win | W+R | 6.5 | 3371 | 4 | 
+| 2011-05-01 | 第16回LG杯予選 | Shi Yue | Lee Changho | Win | W+R | 6.5 | 3367 | 6 | 
+| 2011-04-29 | 第16回LG杯予選 | Lee Changho | Oya Koichi | Win | B+R | 6.5 | 3361 | 15 | 
+| 2011-04-14 | 第7期物価情報杯プロ棋戦リーグD | An Joyeong | Lee Changho | Win | W+R | 6.5 | 3346 | 8 | 
+| 2011-04-07 | 第12回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Park Yeonghun | Lee Changho | Lose | B+0.5 | 6.5 | 3338 | -45 | 
+| 2011-03-21 | 第12回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Lee Changho | Park Yeonghun | Lose | W+R | 6.5 | 3383 | 14 | 
+| 2011-02-22 | 第12回マキシムコーヒー杯入神最強戦準決勝 | Lee Changho | Mok Jinseok | Win | B+R | 6.5 | 3369 | 8 | 
+| 2011-02-20 | 第3回BCカード杯世界選手権2回戦 | Kim Juho | Lee Changho | Lose | B+R | 6.5 | 3361 | 41 | 
+| 2011-02-14 | 第54期国手戦（韓国）挑戦手合五番勝負第4局 | Lee Changho | Choi Cheolhan | Lose | W+R | 6.5 | 3320 | -11 | 
+| 2011-02-09 | 第24回世界囲碁選手権富士通杯韓国予選 | Lee Changho | Weon Seongjin | Lose | W+R | 6.5 | 3331 | -21 | 
+| 2011-02-01 | 第12回マキシムコーヒー杯入神最強戦3回戦 | Cho Hunhyun | Lee Changho | Win | W+R | 6.5 | 3352 | 0 | 
+| 2011-01-29 | 第3回BCカード杯世界選手権1回戦 | Peng Quan | Lee Changho | Win | W+R | 6.5 | 3352 | -8 | 
+| 2011-01-25 | 第54期国手戦（韓国）挑戦手合五番勝負第3局 | Choi Cheolhan | Lee Changho | Lose | B+R | 6.5 | 3360 | 99 | 
+| 2011-01-14 | 第54期国手戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Choi Cheolhan | Lose | W+R | 6.5 | 3261 | -22 | 
+| 2011-01-12 | 第54期国手戦（韓国）挑戦手合五番勝負第1局 | Choi Cheolhan | Lee Changho | Win | W+R | 6.5 | 3283 | 16 | 
+| 2011-01-10 | 第6期圓益杯十段戦3回戦 | Lee Changho | Lee Yeongkyu | Lose | W+R | 6.5 | 3267 | 5 | 
+| 2011-01-07 | 第12回マキシムコーヒー杯入神最強戦2回戦 | Choi Kyubyeong | Lee Changho | Win | W+R | 6.5 | 3262 | 64 | 
+| 2010-12-20 | 第29回KBS杯囲碁王戦敗者復活戦3回戦 | Lee Changho | Lee Sedol | Lose | W+R | 6.5 | 3198 | -21 | 
+| 2010-11-26 | 2010年アジア競技大会囲碁男子団体戦 | Lee Changho | Gu Li | Win | B+R | 7.5 | 3219 | -6 | 
+| 2010-11-25 | 2010年アジア競技大会囲碁男子団体戦 | Lee Changho | Yamashita Keigo | Lose | W+R | 7.5 | 3225 | -63 | 
+| 2010-11-23 | 2010年アジア競技大会囲碁男子団体戦 | Chang Hao | Lee Changho | Win | W+T | 7.5 | 3288 | 50 | 
+| 2010-11-15 | 第29回KBS杯囲碁王戦敗者復活戦2回戦 | Kang Dongyun | Lee Changho | Win | W+R | 6.5 | 3238 | -27 | 
+| 2010-11-08 | 第15回LG杯世界棋王戦3回戦 | Wang Yao | Lee Changho | Lose | B+R | 6.5 | 3265 | 7 | 
+| 2010-10-25 | 第29回KBS杯囲碁王戦本戦3回戦 | Park Junghwan | Lee Changho | Lose | B+R | 6.5 | 3258 | -14 | 
+| 2010-10-22 | 2010年韓国囲碁リーグ | Lee Changho | Kang Dongyun | Lose | W+0.5 | 6.5 | 3272 | -15 | 
+| 2010-10-13 | 第15回三星火災杯世界囲碁マスターズ2回戦 | Lee Changho | Kong Jie | Lose | W+R | 6.5 | 3287 | -10 | 
+| 2010-10-07 | 2010年韓国囲碁リーグ | Lee Changho | Park Seunghyeon | Win | B+1.5 | 6.5 | 3297 | 3 | 
+| 2010-10-05 | 第38期名人戦（韓国）準決勝第3局 | Park Yeonghun | Lee Changho | Lose | B+R | 6.5 | 3294 | 102 | 
+| 2010-09-30 | 第38期名人戦（韓国）準決勝第2局 | Park Yeonghun | Lee Changho | Win | W+R | 6.5 | 3192 | 29 | 
+| 2010-09-28 | 第38期名人戦（韓国）準決勝第1局 | Lee Changho | Park Yeonghun | Lose | W+R | 6.5 | 3163 | -10 | 
+| 2010-09-23 | 2010年韓国囲碁リーグ | Lee Changho | Mok Jinseok | Lose | W+R | 6.5 | 3173 | -34 | 
+| 2010-09-15 | 第6期物価情報杯プロ棋戦決勝三番勝負第2局 | Lee Sedol | Lee Changho | Lose | B+R | 6.5 | 3207 | 55 | 
+| 2010-09-10 | 第15回三星火災杯世界囲碁マスターズ1回戦C3 | Tan Xiao | Lee Changho | Win | W+R | 6.5 | 3152 | -1 | 
+| 2010-09-09 | 第15回三星火災杯世界囲碁マスターズ1回戦C2 | Chang Hao | Lee Changho | Win | W+R | 6.5 | 3153 | 8 | 
+| 2010-09-08 | 第15回三星火災杯世界囲碁マスターズ1回戦C1 | Tan Xiao | Lee Changho | Lose | B+R | 6.5 | 3145 | -2 | 
+| 2010-09-05 | 第38期名人戦（韓国）リーグプレーオフ | Ahn Kukhyun | Lee Changho | Win | W+1.5 | 6.5 | 3147 | -15 | 
+| 2010-09-01 | 第6期物価情報杯プロ棋戦決勝三番勝負第1局 | Lee Changho | Lee Sedol | Lose | W+R | 6.5 | 3162 | 17 | 
+| 2010-08-26 | 2010年韓国囲碁リーグ | Lee Changho | Han Sanghoon | Win | B+5.5 | 6.5 | 3145 | -1 | 
+| 2010-08-24 | 2010年韓国囲碁リーグ | Lee Changho | Park Yeonghun | Win | B+R | 6.5 | 3146 | -8 | 
+| 2010-08-19 | 第38期名人戦（韓国）リーグA | Lee Changho | Lee Sedol | Win | B+R | 6.5 | 3154 | -11 | 
+| 2010-08-01 | 第6期物価情報杯プロ棋戦決勝トーナメント準決勝 | Lee Changho | Choi Cheolhan | Win | B+2.5 | 6.5 | 3165 | 0 | 
+| 2010-07-31 | 2010年韓国囲碁リーグ | Lee Changho | Choi Cheolhan | Win | B+1.5 | 6.5 | 3165 | 17 | 
+| 2010-07-27 | 第1回世界囲碁名人争覇戦決勝 | Gu Li | Lee Changho | Lose | B+1.5 | 7.5 | 3148 | -1 | 
+| 2010-07-24 | 第1回世界囲碁名人争覇戦 | Lee Changho | Gu Li | Win | B+R | 7.5 | 3149 | 6 | 
+| 2010-07-18 | 第6期物価情報杯プロ棋戦決勝トーナメント1回戦 | Lee Changho | Kang Dongyun | Win | B+R | 6.5 | 3143 | 5 | 
+| 2010-07-17 | 2010年韓国囲碁リーグ | Heo Yongho | Lee Changho | Lose | B+R | 6.5 | 3138 | -14 | 
+| 2010-07-12 | 第29回KBS杯囲碁王戦本戦2回戦 | Lee Changho | Kim Juho | Win | B+R | 6.5 | 3152 | -21 | 
+| 2010-07-06 | 第38期名人戦（韓国）リーグA | Kim Seongjae | Lee Changho | Win | W+R | 6.5 | 3173 | 8 | 
+| 2010-07-04 | 2010年韓国囲碁リーグ | Lee Changho | Kang Dongyun | Lose | W+R | 6.5 | 3165 | -26 | 
+| 2010-06-29 | 第38期名人戦（韓国）リーグA | Lee Changho | Paek Hongseok | Win | B+R | 6.5 | 3191 | 9 | 
+| 2010-06-19 | 2010年韓国囲碁リーグ | Lee Changho | Kang Yootaek | Lose | W+R | 6.5 | 3182 | 69 | 
+| 2010-06-15 | 第38期名人戦（韓国）リーグA | Kang Dongyun | Lee Changho | Lose | B+R | 6.5 | 3113 | -13 | 
+| 2010-06-11 | 第15期GSカルテックス杯プロ棋戦2回戦 | Lee Changho | Kim Junghyun | Lose | W+R | 6.5 | 3126 | -38 | 
+| 2010-06-09 | 第15回LG杯世界棋王戦2回戦 | Tuo Jiaxi | Lee Changho | Win | W+R | 6.5 | 3164 | 7 | 
+| 2010-06-07 | 第15回LG杯世界棋王戦1回戦 | Wang Xi | Lee Changho | Win | W+R | 6.5 | 3157 | 6 | 
+| 2010-06-05 | 2010年韓国囲碁リーグ | An Joyeong | Lee Changho | Win | W+R | 6.5 | 3151 | 32 | 
+| 2010-06-02 | 第22回テレビアジア選手権準決勝 | Kong Jie | Lee Changho | Lose | B+R | 6.5 | 3119 | -18 | 
+| 2010-06-01 | 第22回テレビアジア選手権1回戦 | Iyama Yuta | Lee Changho | Win | W+5.5 | 6.5 | 3137 | 3 | 
+| 2010-05-26 | 第6期物価情報杯プロ棋戦リーグA | Lee Changho | Yoo Changhyuk | Win | B+R | 6.5 | 3134 | -4 | 
+| 2010-05-23 | 2010年韓国囲碁リーグ | Lee Changho | Hong Seongji | Win | B+R | 6.5 | 3138 | 11 | 
+| 2010-05-18 | 第38期名人戦（韓国）リーグA | Ahn Kukhyun | Lee Changho | Lose | B+R | 6.5 | 3127 | 8 | 
+| 2010-05-15 | 2010年中国囲碁乙級リーグ |  | Lee Changho | Win | W+R | 7.5 | 3119 | 20 | 
+| 2010-05-14 | 2010年中国囲碁乙級リーグ | Lee Changho |  | Win | B+5.5 | 7.5 | 3099 | 31 | 
+| 2010-05-12 | 2010年中国囲碁乙級リーグ | Lee Changho | Weon Seongjin | Lose | W+R | 7.5 | 3068 | -5 | 
+| 2010-05-11 | 2010年中国囲碁乙級リーグ | Lee Changho | Dong Yan | Win | B+R | 7.5 | 3073 | 10 | 
+| 2010-05-09 | 2010年中国囲碁乙級リーグ |  | Lee Changho | Win | W+R | 7.5 | 3063 | -1 | 
+| 2010-05-08 | 2010年中国囲碁乙級リーグ |  | Lee Changho | Lose | B+R | 7.5 | 3064 | -33 | 
+| 2010-04-29 | 第6期物価情報杯プロ棋戦リーグA | Lee Changho |  | Win | B+R | 6.5 | 3097 | -15 | 
+| 2010-04-12 | 第23回世界囲碁選手権富士通杯2回戦 | Lee Changho | Qiu Jun | Lose | W+R | 6.5 | 3112 | 10 | 
+| 2010-04-01 | 第6期物価情報杯プロ棋戦リーグA | Lee Changho | Park Yeonghun | Lose | W+R | 6.5 | 3102 | 1 | 
+| 2010-03-29 | 第8回春蘭杯世界囲碁選手権2回戦 | Gu Lingyi | Lee Changho | Lose | B+R | 7.5 | 3101 | -26 | 
+| 2010-03-23 | 第53期国手戦（韓国）挑戦手合五番勝負第4局 | Lee Changho | Hong Kipyo | Win | B+R | 6.5 | 3127 | 1 | 
+| 2010-03-19 | 第53期国手戦（韓国）挑戦手合五番勝負第3局 | Hong Kipyo | Lee Changho | Win | W+R | 6.5 | 3126 | -37 | 
+| 2010-03-17 | 第53期国手戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Hong Kipyo | Lose | W+R | 6.5 | 3163 | -11 | 
+| 2010-03-12 | 第11回農心辛ラーメン杯世界囲碁最強戦第14戦 | Lee Changho | Chang Hao | Win | B+R | 6.5 | 3174 | 4 | 
+| 2010-03-11 | 第11回農心辛ラーメン杯世界囲碁最強戦第13戦 | Lee Changho | Gu Li | Win | B+R | 6.5 | 3170 | 2 | 
+| 2010-03-10 | 第11回農心辛ラーメン杯世界囲碁最強戦第12戦 | Lee Changho | Liu Xing | Win | B+R | 6.5 | 3168 | 12 | 
+| 2010-03-06 | 第53期国手戦（韓国）挑戦手合五番勝負第1局 | Hong Kipyo | Lee Changho | Win | W+R | 6.5 | 3156 | 1 | 
+| 2010-03-04 | 第28回KBS杯囲碁王戦決勝三番勝負第2局 | Kang Dongyun | Lee Changho | Win | W+R | 6.5 | 3155 | 3 | 
+| 2010-03-01 | 第11回マキシムコーヒー杯入神最強戦3回戦 | Kang Dongyun | Lee Changho | Lose | B+R | 6.5 | 3152 | 50 | 
+| 2010-02-24 | 第14回LG杯世界棋王戦決勝三番勝負第2局 | Kong Jie | Lee Changho | Lose | B+1.5 | 6.5 | 3102 | -2 | 
+| 2010-02-22 | 第14回LG杯世界棋王戦決勝三番勝負第1局 | Lee Changho | Kong Jie | Lose | W+2.5 | 6.5 | 3104 | 3 | 
+| 2010-02-10 | 第53期国手戦（韓国）準決勝 | Ju Hyeongwuk | Lee Changho | Win | W+R | 6.5 | 3101 | 9 | 
+| 2010-02-01 | 第28回KBS杯囲碁王戦決勝三番勝負第1局 | Lee Changho | Kang Dongyun | Win | B+R | 6.5 | 3092 | -80 | 
+| 2010-01-20 | 第53期国手戦（韓国）2回戦 | Lee Changho | Mok Jinseok | Win | B+R | 6.5 | 3172 | -7 | 
+| 2010-01-18 | 第28回KBS杯囲碁王戦敗者復活戦決勝 | Lee Changho | Choi Cheolhan | Win | B+R | 6.5 | 3179 | 0 | 
+| 2010-01-18 | 第28回KBS杯囲碁王戦敗者復活戦準決勝 | Lee Changho | Yun Chanhee | Win | B+R | 6.5 | 3179 | 10 | 
+| 2010-01-16 | 第2回BCカード杯世界選手権1回戦 | Lee Changho |  | Lose | W+R | 6.5 | 3169 | -31 | 
+| 2010-01-10 | 第5期圓益杯十段戦決勝三番勝負第3局 | Lee Changho | Park Junghwan | Lose | W+0.5 | 6.5 | 3200 | -1 | 
+| 2010-01-09 | 第5期圓益杯十段戦決勝三番勝負第2局 | Lee Changho | Park Junghwan | Lose | W+R | 6.5 | 3201 | 32 | 
+| 2010-01-07 | 第5期圓益杯十段戦決勝三番勝負第1局 | Park Junghwan | Lee Changho | Win | W+R | 6.5 | 3169 | -6 | 
+| 2010-01-04 | 第28回KBS杯囲碁王戦敗者復活戦4回戦 | Lee Jungwoo | Lee Changho | Win | W+R | 6.5 | 3175 | -10 | 
+| 2009-12-20 | 第5期圓益杯十段戦準決勝 | Kang Yootaek | Lee Changho | Win | W+2.5 | 6.5 | 3185 | 1 | 
+| 2009-12-14 | 第28回KBS杯囲碁王戦敗者復活戦3回戦 | Lee Changho | Weon Seongjin | Win | B+R | 6.5 | 3184 | 0 | 
+| 2009-12-10 | 第37期名人戦（韓国）決勝五番勝負第4局 | Lee Changho | Weon Seongjin | Win | B+0.5 | 6.5 | 3184 | -2 | 
+| 2009-12-08 | 第37期名人戦（韓国）決勝五番勝負第3局 | Weon Seongjin | Lee Changho | Win | W+3.5 | 6.5 | 3186 | 0 | 
+| 2009-12-03 | 第37期名人戦（韓国）決勝五番勝負第2局 | Lee Changho | Weon Seongjin | Lose | W+1.5 | 6.5 | 3186 | 4 | 
+| 2009-12-02 | 第5期圓益杯十段戦4回戦 | Lee Changho | Cho Hunhyun | Win | B+R | 6.5 | 3182 | 16 | 
+| 2009-12-01 | 第37期名人戦（韓国）決勝五番勝負第1局 | Weon Seongjin | Lee Changho | Win | W+R | 6.5 | 3166 | 18 | 
+| 2009-11-30 | 第28回KBS杯囲碁王戦敗者復活戦2回戦 | Lee Changho | Cho Hunhyun | Win | B+R | 6.5 | 3148 | -212 | 
+| 2009-11-18 | 第37期名人戦（韓国）準決勝第2局 | Kim Seongjae | Lee Changho | Win | W+3.5 | 6.5 | 3360 | 28 | 
+| 2009-11-16 | 第37期名人戦（韓国）準決勝第1局 | Lee Changho | Kim Seongjae | Win | B+1.5 | 6.5 | 3332 | 33 | 
+| 2009-11-13 | 第53期国手戦（韓国）1回戦 | Park Cheongsang | Lee Changho | Win | W+R | 6.5 | 3299 | 14 | 
+| 2009-11-11 | 第14回LG杯世界棋王戦準決勝 | Piao Wenyao | Lee Changho | Win | W+R | 6.5 | 3285 | -3 | 
+| 2009-11-09 | 第14回LG杯世界棋王戦3回戦 | Qiu Jun | Lee Changho | Win | W+R | 6.5 | 3288 | 6 | 
+| 2009-11-07 | 2009年韓国囲碁リーグ | Lee Changho | Yun Junsang | Lose | W+R | 6.5 | 3282 | -10 | 
+| 2009-11-05 | 第14回三星火災杯世界囲碁マスターズ準決勝三番勝負第3局 | Lee Changho | Qiu Jun | Lose | W+R | 6.5 | 3292 | -5 | 
+| 2009-11-04 | 第14回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Lee Changho | Qiu Jun | Win | B+R | 6.5 | 3297 | -2 | 
+| 2009-11-02 | 第14回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Qiu Jun | Lee Changho | Lose | B+R | 6.5 | 3299 | -14 | 
+| 2009-10-29 | 2009年韓国囲碁リーグ | Lee Changho | Kim Hyeongwoo | Win | B+R | 6.5 | 3313 | -4 | 
+| 2009-10-28 | 第5期圓益杯十段戦3回戦 | Lee Changho | Cho Hyeyeon | Win | B+8.5 | 6.5 | 3317 | 31 | 
+| 2009-10-25 | 第37期名人戦（韓国）リーグB | Lee Changho | Weon Seongjin | Win | B+5.5 | 6.5 | 3286 | 7 | 
+| 2009-10-19 | 第28回KBS杯囲碁王戦本戦3回戦 | Kang Dongyun | Lee Changho | Lose | B+3.5 | 6.5 | 3279 | -3 | 
+| 2009-10-17 | 2009年韓国囲碁リーグ | Yun Junsang | Lee Changho | Lose | B+R | 6.5 | 3282 | -8 | 
+| 2009-10-14 | 第14回三星火災杯世界囲碁マスターズ3回戦 | Lee Changho | Zhou Ruiyang | Win | B+0.5 | 6.5 | 3290 | 11 | 
+| 2009-10-13 | 第14回三星火災杯世界囲碁マスターズ2回戦 | Lee Changho | Ding Wei | Win | B+R | 6.5 | 3279 | 0 | 
+| 2009-10-09 | 2009年韓国囲碁リーグ | Lee Changho | Kang Dongyun | Lose | W+R | 6.5 | 3279 | -8 | 
+| 2009-10-06 | 第37期名人戦（韓国）リーグB | Han Sanghoon | Lee Changho | Win | W+11.5 | 6.5 | 3287 | 16 | 
+| 2009-09-24 | 第37期名人戦（韓国）リーグB | Lee Changho |  | Lose | W+0.5 | 6.5 | 3271 | -15 | 
+| 2009-09-16 | 2009年韓国囲碁リーグ | Choi Cheolhan | Lee Changho | Lose | B+R | 6.5 | 3286 | -14 | 
+| 2009-09-11 | 第14回三星火災杯世界囲碁マスターズ1回戦D2 | Lee Changho | Kong Jie | Win | B+R | 6.5 | 3300 | 9 | 
+| 2009-09-10 | 第14回三星火災杯世界囲碁マスターズ1回戦D1 | Lee Changho | Hong Kipyo | Win | B+R | 6.5 | 3291 | 20 | 
+| 2009-08-30 | 2009年韓国囲碁リーグ | Lee Changho | Kim Seongjae | Lose | W+R | 6.5 | 3271 | -6 | 
+| 2009-08-25 | 第37期名人戦（韓国）リーグB |  | Lee Changho | Win | W+R | 6.5 | 3277 | 8 | 
+| 2009-08-21 | 2009年韓国囲碁リーグ | Lee Changho |  | Win | B+R | 6.5 | 3269 | 2 | 
+| 2009-08-19 | 第5期物価情報杯プロ棋戦決勝三番勝負第2局 | Kim Jiseok | Lee Changho | Lose | B+1.5 | 6.5 | 3267 | 12 | 
+| 2009-08-12 | 第5期物価情報杯プロ棋戦決勝三番勝負第1局 | Lee Changho | Kim Jiseok | Lose | W+R | 6.5 | 3255 | 10 | 
+| 2009-08-04 | 第11回農心杯韓国選抜戦 | Lee Changho | Kim Seungjun | Lose | W+1.5 | 6.5 | 3245 | -28 | 
+| 2009-08-01 | 2009年韓国囲碁リーグ | Kim Jiseok | Lee Changho | Win | W+R | 6.5 | 3273 | -36 | 
+| 2009-07-25 | 2009年韓国囲碁リーグ | Lee Changho | Han Wonggyu | Win | B+7.5 | 6.5 | 3309 | 19 | 
+| 2009-07-23 | 第37期名人戦（韓国）リーグB | Lee Changho | Choi Myeonghun | Win | B+R | 6.5 | 3290 | 0 | 
+| 2009-07-16 | 2009年韓国囲碁リーグ | Kang Dongyun | Lee Changho | Lose | B+R | 6.5 | 3290 | -31 | 
+| 2009-07-15 | 第5期物価情報杯プロ棋戦決勝トーナメント準決勝 | Lee Changho | Park Yeonghun | Win | B+0.5 | 6.5 | 3321 | 37 | 
+| 2009-07-06 | 第22回世界囲碁選手権富士通杯決勝 | Lee Changho | Kang Dongyun | Lose | W+2.5 | 6.5 | 3284 | -11 | 
+| 2009-07-04 | 第22回世界囲碁選手権富士通杯準決勝 | Lee Changho | Chang Hao | Win | B+4.5 | 6.5 | 3295 | 10 | 
+| 2009-07-01 | 第5期物価情報杯プロ棋戦決勝トーナメント1回戦 | Lee Changho | Lee Jaeung | Win | B+R | 6.5 | 3285 | -4 | 
+| 2009-06-29 | 第28回KBS杯囲碁王戦本戦2回戦 | Lee Changho | Lee Huiseong | Win | B+1.5 | 6.5 | 3289 | 37 | 
+| 2009-06-24 | 第7回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Lee Changho | Chang Hao | Lose | W+R | 7.5 | 3252 | -23 | 
+| 2009-06-22 | 第7回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Chang Hao | Lee Changho | Lose | B+R | 7.5 | 3275 | 27 | 
+| 2009-06-19 | 2009年韓国囲碁リーグ | Choi Cheolhan | Lee Changho | Win | W+2.5 | 6.5 | 3248 | 34 | 
+| 2009-06-17 | 第5期物価情報杯プロ棋戦リーグB | Paek Hongseok | Lee Changho | Lose | B+R | 6.5 | 3214 | 11 | 
+| 2009-06-11 | 第21回テレビアジア選手権準決勝 | Kong Jie | Lee Changho | Lose | B+2.5 | 6.5 | 3203 | -4 | 
+| 2009-06-10 | 第21回テレビアジア選手権1回戦 | Yuki Satoshi | Lee Changho | Win | W+R | 6.5 | 3207 | 11 | 
+| 2009-06-06 | 第22回世界囲碁選手権富士通杯3回戦 | Yamashita Keigo | Lee Changho | Win | W+4.5 | 6.5 | 3196 | 6 | 
+| 2009-06-02 | 第5期物価情報杯プロ棋戦リーグB | Lee Changho |  | Win | B+R | 6.5 | 3190 | -22 | 
+| 2009-05-31 | 2009年韓国囲碁リーグ | Lee Changho | Park Seunghwa | Win | B+R | 6.5 | 3212 | -95 | 
+| 2009-05-20 | 第14回LG杯世界棋王戦2回戦 | Iyama Yuta | Lee Changho | Win | W+R | 6.5 | 3307 | -1 | 
+| 2009-05-18 | 第14回LG杯世界棋王戦1回戦 | Tuo Jiaxi | Lee Changho | Win | W+R | 6.5 | 3308 | 8 | 
+| 2009-05-01 | 第5期物価情報杯プロ棋戦リーグB | Kim Hyeongwoo | Lee Changho | Win | W+R | 6.5 | 3300 | 46 | 
+| 2009-04-23 | 第6回応氏杯世界選手権決勝五番勝負第4局 | Lee Changho | Choi Cheolhan | Lose | W+R | 7.5 | 3254 | 0 | 
+| 2009-04-13 | 第22回世界囲碁選手権富士通杯2回戦 | Lee Changho | Takao Shinji | Win | B+R | 6.5 | 3254 | 18 | 
+| 2009-03-26 | 第1回BCカード杯世界選手権3回戦 | Piao Wenyao | Lee Changho | Lose | B+R | 6.5 | 3236 | -6 | 
+| 2009-03-22 | 第1回BCカード杯世界選手権2回戦 | Lee Changho | Zhu Yuanhao | Win | B+R | 6.5 | 3242 | 10 | 
+| 2009-03-16 | 第27回KBS杯囲碁王戦決勝三番勝負第3局 | Lee Sedol | Lee Changho | Win | W+2.5 | 6.5 | 3232 | 0 | 
+| 2009-03-16 | 第27回KBS杯囲碁王戦決勝三番勝負第2局 | Lee Changho | Lee Sedol | Lose | W+R | 6.5 | 3232 | -28 | 
+| 2009-03-07 | 第6回応氏杯世界選手権決勝五番勝負第3局 | Choi Cheolhan | Lee Changho | Lose | B+R | 7.5 | 3260 | 8 | 
+| 2009-03-05 | 第6回応氏杯世界選手権決勝五番勝負第2局 | Lee Changho | Choi Cheolhan | Lose | W+7 | 7.5 | 3252 | 13 | 
+| 2009-03-03 | 第6回応氏杯世界選手権決勝五番勝負第1局 | Choi Cheolhan | Lee Changho | Win | W+3 | 7.5 | 3239 | -96 | 
+| 2009-02-28 | 第1回BCカード杯世界選手権1回戦 | Lee Changho | Kim Junghyun | Win | B+R | 6.5 | 3335 | 76 | 
+| 2009-02-02 | 第27回KBS杯囲碁王戦決勝三番勝負第1局 | Lee Sedol | Lee Changho | Win | W+R | 6.5 | 3259 | 0 | 
+| 2009-02-02 | 第27回KBS杯囲碁王戦敗者復活戦決勝 | Lee Changho | Kang Dongyun | Win | B+R | 6.5 | 3259 | -39 | 
+| 2009-01-14 | 第10回マキシムコーヒー杯入神最強戦準決勝 | Lee Changho | Choi Cheolhan | Lose | W+R | 6.5 | 3298 | -21 | 
+| 2009-01-10 | 第4期圓益杯十段戦準決勝 | Park Junghwan | Lee Changho | Lose | B+R | 6.5 | 3319 | -55 | 
+| 2009-01-05 | 第27回KBS杯囲碁王戦敗者復活戦準決勝 | Bae Junhee | Lee Changho | Win | W+6.5 | 6.5 | 3374 | 42 | 
+| 2008-12-23 | 第4期圓益杯十段戦4回戦 | Lee Sedol | Lee Changho | Win | W+R | 6.5 | 3332 | 39 | 
+| 2008-12-21 | 第27回KBS杯囲碁王戦敗者復活戦4回戦 | Lee Changho | Mok Jinseok | Win | B+R | 6.5 | 3293 | 103 | 
+| 2008-12-11 | 第7回春蘭杯世界囲碁選手権準決勝 | Lee Changho | Kong Jie | Win | B+R | 7.5 | 3190 | 10 | 
+| 2008-12-09 | 第7回春蘭杯世界囲碁選手権3回戦 | Lee Changho | Gu Li | Win | B+R | 7.5 | 3180 | 1 | 
+| 2008-12-05 | 第10回マキシムコーヒー杯入神最強戦3回戦 | Lee Changho | Seo Nungwuk | Win | B+4.5 | 6.5 | 3179 | -13 | 
+| 2008-12-03 | 第27回KBS杯囲碁王戦本戦4回戦 | Kang Dongyun | Lee Changho | Lose | B+2.5 | 6.5 | 3192 | 240 | 
+| 2008-11-19 | 第13回三星火災杯世界オープン囲碁選手権3回戦 | Lee Sedol | Lee Changho | Lose | B+R | 6.5 | 2952 | -55 | 
+| 2008-11-14 | 第36期名人戦（韓国）リーグプレーオフ | Lee Changho | Weon Seongjin | Lose | W+R | 6.5 | 3007 | -5 | 
+| 2008-11-11 | 第36期名人戦（韓国）リーグ | Lee Sedol | Lee Changho | Win | W+R | 6.5 | 3012 | 8 | 
+| 2008-11-05 | 第13回LG杯世界棋王戦準決勝 | Lee Changho | Gu Li | Lose | W+1.5 | 6.5 | 3004 | -1 | 
+| 2008-11-03 | 第13回LG杯世界棋王戦3回戦 | Lee Changho | Yamashita Keigo | Win | B+4.5 | 6.5 | 3005 | -1 | 
+| 2008-10-31 | 第36期名人戦（韓国）リーグ | Weon Seongjin | Lee Changho | Win | W+R | 6.5 | 3006 | 14 | 
+| 2008-10-29 | 第10回マキシムコーヒー杯入神最強戦2回戦 | Lee Changho | Cho Hanseung | Win | B+R | 6.5 | 2992 | -588 | 
+| 2008-10-17 | 2008年韓国囲碁リーグ | Choi Myeonghun | Lee Changho | Lose | B+R | 6.5 | 3580 | -6 | 
+| 2008-10-14 | 第36期名人戦（韓国）リーグ | Mok Jinseok | Lee Changho | Lose | B+R | 6.5 | 3586 | 12 | 
+| 2008-10-10 | 2008年韓国囲碁リーグ | Weon Seongjin | Lee Changho | Lose | B+R | 6.5 | 3574 | 32 | 
+| 2008-09-25 | 第6回応氏杯世界選手権準決勝三番勝負第2局 | Lee Changho | Lee Sedol | Win | B+R | 7.5 | 3542 | 8 | 
+| 2008-09-23 | 第6回応氏杯世界選手権準決勝三番勝負第1局 | Lee Sedol | Lee Changho | Win | W+R | 7.5 | 3534 | 18 | 
+| 2008-09-20 | 2008年韓国囲碁リーグ | Lee Changho | Lee Jungwoo | Lose | W+R | 6.5 | 3516 | -37 | 
+| 2008-09-13 | 2008年韓国囲碁リーグ |  | Lee Changho | Win | W+R | 6.5 | 3553 | 18 | 
+| 2008-09-09 | 第36期名人戦（韓国）リーグ | Lee Changho | Cho Hunhyun | Win | B+4.5 | 6.5 | 3535 | -13 | 
+| 2008-09-05 | 第13回三星火災杯世界オープン囲碁選手権2回戦 | Lee Changho | Cho Hanseung | Win | B+1.5 | 6.5 | 3548 | 10 | 
+| 2008-09-03 | 第13回三星火災杯世界オープン囲碁選手権1回戦 | Zheng Yan | Lee Changho | Win | W+R | 6.5 | 3538 | -20 | 
+| 2008-08-25 | 第4期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Lee Changho | Piao Wenyao | Lose | W+R | 6.5 | 3558 | -22 | 
+| 2008-08-23 | 第4期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Lee Changho | Fernand Aguilar | Win | B+R | 6.5 | 3580 | 26 | 
+| 2008-08-18 | 第27回KBS杯囲碁王戦本戦3回戦 | Lee Changho | Paek Hongseok | Win | B+R | 6.5 | 3554 | 326 | 
+| 2008-08-10 | 2008年韓国囲碁リーグ | Lee Changho | Lee Hyunho | Win | B+R | 6.5 | 3228 | -9 | 
+| 2008-08-05 | 第5期電子ランド杯王中王戦決勝三番勝負第2局 | Lee Changho | Mok Jinseok | Win | B+R | 6.5 | 3237 | -4 | 
+| 2008-08-04 | 第5期電子ランド杯王中王戦決勝三番勝負第1局 | Mok Jinseok | Lee Changho | Win | W+R | 6.5 | 3241 | 3 | 
+| 2008-08-01 | 2008年韓国囲碁リーグ | Lee Changho | Kim Kiyoung | Win | B+7.5 | 6.5 | 3238 | 17 | 
+| 2008-07-29 | 第5期電子ランド杯王中王戦準決勝 | Kang Dongyun | Lee Changho | Win | W+R | 6.5 | 3221 | 10 | 
+| 2008-07-25 | 第10回農心杯韓国選抜戦 | Lee Changho | Kang Dongyun | Lose | W+R | 6.5 | 3211 | 2 | 
+| 2008-07-22 | 第36期名人戦（韓国）リーグ | Lee Changho | Park Cheongsang | Win | B+2.5 | 6.5 | 3209 | -3 | 
+| 2008-07-18 | 第10回農心杯韓国選抜戦 | Lee Changho |  | Win | B+6.5 | 6.5 | 3212 | 2 | 
+| 2008-07-15 | 第5期電子ランド杯王中王戦3回戦 | Kim Ilhwan | Lee Changho | Win | W+R | 6.5 | 3210 | 6 | 
+| 2008-07-13 | 2008年韓国囲碁リーグ | Kim Hyeongwoo | Lee Changho | Lose | B+5.5 | 6.5 | 3204 | -3 | 
+| 2008-07-07 | 第21回世界囲碁選手権富士通杯決勝 | Gu Li | Lee Changho | Lose | B+R | 6.5 | 3207 | -9 | 
+| 2008-07-05 | 第21回世界囲碁選手権富士通杯準決勝 | Liu Xing | Lee Changho | Win | W+R | 6.5 | 3216 | 13 | 
+| 2008-07-02 | 第4期物価情報杯プロ棋戦決勝トーナメント1回戦 | Lee Changho | Hong Seongji | Lose | W+R | 6.5 | 3203 | 8 | 
+| 2008-06-24 | 第36期名人戦（韓国）リーグ | Kang Dongyun | Lee Changho | Lose | B+R | 6.5 | 3195 | -1 | 
+| 2008-06-21 | 第5期電子ランド杯王中王戦2回戦 | Kim Seongjae | Lee Changho | Win | W+R | 6.5 | 3196 | -9 | 
+| 2008-06-18 | 第4期物価情報杯プロ棋戦リーグB | Lee Changho | Paek Hongseok | Win | B+R | 6.5 | 3205 | 1 | 
+| 2008-06-12 | 2008年韓国囲碁リーグ | Lee Changho | Yoo Changhyuk | Win | B+R | 6.5 | 3204 | -3 | 
+| 2008-06-07 | 第21回世界囲碁選手権富士通杯3回戦 | Lee Changho | Yoda Norimoto | Win | B+3.5 | 6.5 | 3207 | -19 | 
+| 2008-06-03 | 第20回テレビアジア選手権準決勝 | Cho Hanseung | Lee Changho | Lose | B+R | 7.5 | 3226 | 30 | 
+| 2008-06-01 | 第20回テレビアジア選手権1回戦 | Lee Changho | Cho Chikun | Win | B+1.5 | 7.5 | 3196 | 9 | 
+| 2008-05-28 | 第13回LG杯世界棋王戦2回戦 | Lee Changho | Cho Chikun | Win | B+R | 6.5 | 3187 | -11 | 
+| 2008-05-26 | 第13回LG杯世界棋王戦1回戦 | Xie He | Lee Changho | Win | W+R | 6.5 | 3198 | -3 | 
+| 2008-05-24 | 2008年韓国囲碁リーグ | Lee Changho | Mok Jinseok | Win | B+1.5 | 6.5 | 3201 | 26 | 
+| 2008-05-19 | 第27回KBS杯囲碁王戦本戦2回戦 | On Sojin | Lee Changho | Win | W+9.5 | 6.5 | 3175 | -2 | 
+| 2008-05-18 | 2008年韓国囲碁リーグ | Lee Changho | Choi Cheolhan | Lose | W+R | 6.5 | 3177 | -6 | 
+| 2008-05-15 | 第4期物価情報杯プロ棋戦リーグB | Yoo Changhyuk | Lee Changho | Win | W+9.5 | 6.5 | 3183 | 16 | 
+| 2008-05-13 | 第36期名人戦（韓国）リーグ | Lee Changho | Choi Myeonghun | Win | B+R | 6.5 | 3167 | 5 | 
+| 2008-05-07 | 第5期電子ランド杯王中王戦1回戦 | Cho Hunhyun | Lee Changho | Win | W+R | 6.5 | 3162 | 2 | 
+| 2008-05-04 | 第6回応氏杯世界選手権3回戦 | Lee Changho | Cho Chikun | Win | B+3 | 7.5 | 3160 | 5 | 
+| 2008-05-02 | 第6回応氏杯世界選手権2回戦 | Xie He | Lee Changho | Win | W+R | 7.5 | 3155 | 26 | 
+| 2008-04-27 | 2008年韓国囲碁リーグ | Hong Seongji | Lee Changho | Lose | B+3.5 | 6.5 | 3129 | 190 | 
+| 2008-04-22 | 第36期名人戦（韓国）リーグ | Cho Hanseung | Lee Changho | Lose | B+1.5 | 6.5 | 2939 | -5 | 
+| 2008-04-20 | 第4期物価情報杯プロ棋戦リーグB | Lee Changho |  | Win | B+R | 6.5 | 2944 | 13 | 
+| 2008-04-14 | 第21回世界囲碁選手権富士通杯2回戦 | Lee Changho | Kong Jie | Win | B+R | 6.5 | 2931 | 1 | 
+| 2008-04-10 | 2008年韓国囲碁リーグ | Kang Dongyun | Lee Changho | Lose | B+R | 6.5 | 2930 | 30 | 
+| 2008-03-17 | 第7回春蘭杯世界囲碁選手権2回戦 | Lee Changho | Chen Yaoye | Win | B+3.5 | 7.5 | 2900 | 35 | 
+| 2008-02-20 | 第9回農心辛ラーメン杯世界囲碁最強戦第12戦 | Lee Changho | Chang Hao | Lose | W+0.5 | 6.5 | 2865 | -21 | 
+| 2008-02-12 | 第36期名人戦（韓国）リーグ | Choi Wongyong | Lee Changho | Win | W+1.5 | 6.5 | 2886 | -29 | 
+| 2008-02-02 | 第3期圓益杯十段戦決勝三番勝負第2局 | Lee Changho | Mok Jinseok | Win | B+R | 6.5 | 2915 | 33 | 
+| 2008-01-28 | 第36期名人戦（韓国）予選 | Lee Changho | Yun Junsang | Win | B+R | 6.5 | 2882 | 3 | 
+| 2008-01-26 | 第3期圓益杯十段戦決勝三番勝負第1局 | Mok Jinseok | Lee Changho | Win | W+R | 6.5 | 2879 | 42 | 
+| 2008-01-19 | 第3期圓益杯十段戦準決勝 | Lee Changho | Lee Yeongkyu | Win | B+R | 6.5 | 2837 | 26 | 
+| 2008-01-10 | 第5期電子ランド杯王中王戦予選 | An Joyeong | Lee Changho | Win | W+R | 6.5 | 2811 | 7 | 
+| 2008-01-09 | 第5期電子ランド杯王中王戦予選 | Cho Hanseung | Lee Changho | Win | W+R | 6.5 | 2804 | -3 | 
+| 2008-01-07 | 第5期電子ランド杯王中王戦予選 | Lee Changho | Mok Jinseok | Win | B+0.5 | 6.5 | 2807 | 14 | 
+| 2007-12-06 | 第3期圓益杯十段戦4回戦 | Lee Changho | Ko Keuntae | Win | B+R | 6.5 | 2793 | -20 | 
+| 2007-12-03 | 第26回KBS杯囲碁王戦決勝三番勝負第3局 | Lee Changho | Cho Hanseung | Win | B+2.5 | 6.5 | 2813 | 0 | 
+| 2007-12-03 | 第26回KBS杯囲碁王戦決勝三番勝負第2局 | Cho Hanseung | Lee Changho | Win | W+R | 6.5 | 2813 | 3 | 
+| 2007-11-12 | 第26回KBS杯囲碁王戦決勝三番勝負第1局 | Lee Changho | Cho Hanseung | Lose | W+3.5 | 6.5 | 2810 | 0 | 
+| 2007-11-12 | 第26回KBS杯囲碁王戦敗者復活戦決勝 | Lee Changho | Choi Cheolhan | Win | B+1.5 | 6.5 | 2810 | 6 | 
+| 2007-11-11 | 2007年韓国囲碁リーグ | Lee Changho | Park Yeonghun | Win | B+R | 6.5 | 2804 | 13 | 
+| 2007-11-01 | 第3期圓益杯十段戦3回戦 | Song Taekon | Lee Changho | Win | W+R | 6.5 | 2791 | -4 | 
+| 2007-10-22 | 第26回KBS杯囲碁王戦本戦5回戦 | Cho Hanseung | Lee Changho | Lose | B+R | 6.5 | 2795 | -6 | 
+| 2007-10-21 | 2007年韓国囲碁リーグ | Mok Jinseok | Lee Changho | Win | W+5.5 | 6.5 | 2801 | -6 | 
+| 2007-10-10 | 第12期GSカルテックス杯プロ棋戦リーグ | Choi Cheolhan | Lee Changho | Win | W+R | 6.5 | 2807 | 9 | 
+| 2007-10-08 | 第3期圓益杯十段戦2回戦 | Lee Changho |  | Win | B+R | 6.5 | 2798 | -11 | 
+| 2007-10-05 | 第12期GSカルテックス杯プロ棋戦リーグ | Cho Hanseung | Lee Changho | Lose | B+R | 6.5 | 2809 | -8 | 
+| 2007-09-29 | 2007年韓国囲碁リーグ | Lee Changho | Choi Cheolhan | Win | B+4.5 | 6.5 | 2817 | 30 | 
+| 2007-09-22 | 2007年韓国囲碁リーグ | Lee Changho | Kang Dongyun | Lose | W+R | 6.5 | 2787 | -1318 | 
+| 2007-09-20 | 第3期圓益杯十段戦1回戦 | Lee Changho | Kang Dongyun | Win | B+R | 6.5 | 4105 | -17 | 
+| 2007-09-12 | 第12期GSカルテックス杯プロ棋戦リーグ | Lee Changho | Hong Seongji | Lose | W+0.5 | 6.5 | 4122 | -7 | 
+| 2007-09-10 | 第35期名人戦（韓国）リーグ | Lee Changho | Lee Yeongkyu | Win | B+R | 6.5 | 4129 | 1284 | 
+| 2007-09-06 | 第12回三星火災杯世界オープン囲碁選手権2回戦 | Lee Changho | Han Sanghoon | Lose | W+2.5 | 6.5 | 2845 | -34 | 
+| 2007-09-04 | 第12回三星火災杯世界オープン囲碁選手権1回戦 | Ko Iso | Lee Changho | Win | W+R | 6.5 | 2879 | 19 | 
+| 2007-08-30 | 第12期GSカルテックス杯プロ棋戦リーグ | Mok Jinseok | Lee Changho | Win | W+R | 6.5 | 2860 | 19 | 
+| 2007-08-28 | 第35期名人戦（韓国）リーグ | Lee Changho | Kim Jiseok | Win | B+R | 6.5 | 2841 | -20 | 
+| 2007-08-26 | 2007年韓国囲碁リーグ | Heo Yongho | Lee Changho | Win | W+R | 6.5 | 2861 | -15 | 
+| 2007-08-23 | 第35期名人戦（韓国）リーグ | Kim Seungjun | Lee Changho | Win | W+8.5 | 6.5 | 2876 | -5 | 
+| 2007-08-21 | 第12期GSカルテックス杯プロ棋戦リーグ | On Sojin | Lee Changho | Lose | B+R | 6.5 | 2881 | -16 | 
+| 2007-08-17 | 第3回中環杯世界囲碁選手権決勝 | Park Cheongsang | Lee Changho | Win | W+R | 6.5 | 2897 | 4 | 
+| 2007-08-15 | 第3回中環杯世界囲碁選手権準決勝 | Cho Hanseung | Lee Changho | Win | W+R | 6.5 | 2893 | -255 | 
+| 2007-08-13 | 第3回中環杯世界囲碁選手権2回戦 | Lee Changho | Takao Shinji | Win | B+R | 6.5 | 3148 | 9 | 
+| 2007-08-12 | 第3回中環杯世界囲碁選手権1回戦 | Lee Changho | Cho U | Win | B+R | 6.5 | 3139 | -51 | 
+| 2007-08-06 | 第26回KBS杯囲碁王戦本戦4回戦 | Lee Sedol | Lee Changho | Win | W+R | 6.5 | 3190 | -38 | 
+| 2007-08-02 | 2007年韓国囲碁リーグ | Lee Changho | Jin Donggyu | Lose | W+R | 6.5 | 3228 | 4 | 
+| 2007-07-31 | 第35期名人戦（韓国）リーグ | Lee Changho | Lee Sedol | Lose | W+R | 6.5 | 3224 | -49 | 
+| 2007-07-24 | 第51期国手戦（韓国）1回戦 | Lee Changho |  | Lose | W+1.5 | 6.5 | 3273 | -81 | 
+| 2007-07-21 | 2007年韓国囲碁リーグ | Cho Hanseung | Lee Changho | Win | W+R | 6.5 | 3354 | 40 | 
+| 2007-07-18 | 第41期王位戦挑戦手合五番勝負第5局 | Yun Junsang | Lee Changho | Win | W+R | 6.5 | 3314 | 88 | 
+| 2007-07-16 | 第4期電子ランド杯王中王戦決勝三番勝負第3局 | Kang Dongyun | Lee Changho | Lose | B+R | 6.5 | 3226 | 3 | 
+| 2007-07-13 | 第9回農心杯韓国選抜戦 | Lee Changho | Weon Seongjin | Lose | W+R | 6.5 | 3223 | 81 | 
+| 2007-07-11 | 2007年韓国囲碁リーグ | Kang Dongyun | Lee Changho | Lose | B+4.5 | 6.5 | 3142 | -90 | 
+| 2007-07-09 | 第20回世界囲碁選手権富士通杯決勝 | Lee Changho | Park Yeonghun | Lose | W+1.5 | 6.5 | 3232 | -7 | 
+| 2007-07-07 | 第20回世界囲碁選手権富士通杯準決勝 | Lee Changho | Cho U | Win | B+R | 6.5 | 3239 | -32 | 
+| 2007-07-03 | 第4期電子ランド杯王中王戦決勝三番勝負第2局 | Lee Changho | Kang Dongyun | Win | B+R | 6.5 | 3271 | -2 | 
+| 2007-07-02 | 第4期電子ランド杯王中王戦決勝三番勝負第1局 | Kang Dongyun | Lee Changho | Lose | B+1.5 | 6.5 | 3273 | -12 | 
+| 2007-06-29 | 第3期物価情報杯プロ棋戦リーグB | Lee Changho | Cho Hunhyun | Lose | W+R | 6.5 | 3285 | -30 | 
+| 2007-06-27 | 第41期王位戦挑戦手合五番勝負第4局 | Yun Junsang | Lee Changho | Win | W+1.5 | 6.5 | 3315 | 0 | 
+| 2007-06-25 | 第4期電子ランド杯王中王戦準決勝 | Lee Changho | Kim Ilhwan | Win | B+R | 6.5 | 3315 | -1 | 
+| 2007-06-21 | 2007年韓国囲碁リーグ | Lee Changho | Park Junghwan | Win | B+R | 6.5 | 3316 | -16 | 
+| 2007-06-20 | 第41期王位戦挑戦手合五番勝負第3局 | Lee Changho | Yun Junsang | Lose | W+3.5 | 6.5 | 3332 | -8 | 
+| 2007-06-18 | 第4期電子ランド杯王中王戦3回戦 | Lee Changho | Choi Cheolhan | Win | B+R | 6.5 | 3340 | 27 | 
+| 2007-06-14 | 第41期王位戦挑戦手合五番勝負第2局 | Yun Junsang | Lee Changho | Win | W+0.5 | 6.5 | 3313 | 53 | 
+| 2007-06-07 | 2007年韓国囲碁リーグ | Lee Changho | An Joyeong | Win | B+R | 6.5 | 3260 | 12 | 
+| 2007-06-04 | 第12回LG杯世界棋王戦1回戦 | Lee Changho | Hu Yaoyu | Lose | W+0.5 | 6.5 | 3248 | -14 | 
+| 2007-06-02 | 第20回世界囲碁選手権富士通杯3回戦 | Lee Changho | Hu Yaoyu | Win | B+2.5 | 6.5 | 3262 | 23 | 
+| 2007-05-30 | 2007年韓国囲碁リーグ | Lee Changho | Rui Naiwei | Win | B+R | 6.5 | 3239 | 0 | 
+| 2007-05-29 | 第35期名人戦（韓国）リーグ | Bae Junhee | Lee Changho | Win | W+5.5 | 6.5 | 3239 | 0 | 
+| 2007-05-25 | 第41期王位戦挑戦手合五番勝負第1局 | Lee Changho | Yun Junsang | Lose | W+R | 6.5 | 3239 | 15 | 
+| 2007-05-21 | 第26回KBS杯囲碁王戦本戦3回戦 | Lee Changho | Park Cheongsang | Win | B+R | 6.5 | 3224 | -7 | 
+| 2007-05-17 | 第4期電子ランド杯王中王戦2回戦 | Lee Changho | Lee Yeongkyu | Win | B+2.5 | 6.5 | 3231 | -20 | 
+| 2007-05-15 | 第35期名人戦（韓国）リーグ | Lee Changho | Park Cheongsang | Lose | W+0.5 | 6.5 | 3251 | 3 | 
+| 2007-05-13 | 第3期物価情報杯プロ棋戦リーグB | Lee Changho | Jin Donggyu | Win | B+R | 6.5 | 3248 | -6 | 
+| 2007-05-10 | 2007年韓国囲碁リーグ | Lee Changho | Lee Yeongkyu | Lose | W+R | 6.5 | 3254 | -15 | 
+| 2007-05-07 | 第12期GSカルテックス杯プロ棋戦リーグ | Choi Myeonghun | Lee Changho | Win | W+11.5 | 6.5 | 3269 | -11 | 
+| 2007-05-02 | 第12期GSカルテックス杯プロ棋戦リーグ | Park Yeonghun | Lee Changho | Lose | B+R | 6.5 | 3280 | -6 | 
+| 2007-04-26 | 2007年韓国囲碁リーグ | Bae Junhee | Lee Changho | Win | W+R | 6.5 | 3286 | 11 | 
+| 2007-04-24 | 第35期名人戦（韓国）リーグ | Cho Hanseung | Lee Changho | Lose | B+R | 6.5 | 3275 | 10 | 
+| 2007-04-19 | 第3期物価情報杯プロ棋戦リーグB | Hong Seongji | Lee Changho | Lose | B+4.5 | 6.5 | 3265 | -11 | 
+| 2007-04-16 | 第20回世界囲碁選手権富士通杯2回戦 | Lee Changho | Chang Hao | Win | B+R | 6.5 | 3276 | 5 | 
+| 2007-04-06 | 第4期電子ランド杯王中王戦1回戦 | Lee Changho | Yang Jaeho | Win | B+R | 6.5 | 3271 | -19 | 
+| 2007-03-27 | 第35期名人戦（韓国）リーグ | Lee Changho | Mok Jinseok | Lose | W+2.5 | 6.5 | 3290 | -36 | 
+| 2007-03-16 | 第50期国手戦（韓国）挑戦手合五番勝負第4局 | Lee Changho | Yun Junsang | Lose | W+R | 6.5 | 3326 | -79 | 
+| 2007-03-12 | 第50期国手戦（韓国）挑戦手合五番勝負第3局 | Yun Junsang | Lee Changho | Win | W+R | 6.5 | 3405 | 400 | 
+| 2007-02-27 | 第35期名人戦（韓国）リーグ | Lee Changho | Kim Kiyoung | Win | B+4.5 | 6.5 | 3005 | 37 | 
+| 2007-02-09 | 第8回農心辛ラーメン杯世界囲碁最強戦第14戦 | Lee Changho | Gu Li | Win | B+1.5 | 6.5 | 2968 | -19 | 
+| 2007-02-08 | 第8回農心辛ラーメン杯世界囲碁最強戦第13戦 | Kong Jie | Lee Changho | Win | W+R | 6.5 | 2987 | 31 | 
+| 2007-01-31 | 第50期国手戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Yun Junsang | Lose | W+0.5 | 6.5 | 2956 | -18 | 
+| 2007-01-24 | 第11回三星火災杯世界オープン囲碁選手権決勝三番勝負第2局 | Chang Hao | Lee Changho | Lose | B+3.5 | 6.5 | 2974 | -6 | 
+| 2007-01-22 | 第11回三星火災杯世界オープン囲碁選手権決勝三番勝負第1局 | Lee Changho | Chang Hao | Lose | W+R | 6.5 | 2980 | 73 | 
+| 2007-01-10 | 第50期国手戦（韓国）挑戦手合五番勝負第1局 | Yun Junsang | Lee Changho | Lose | B+R | 6.5 | 2907 | -4 | 
+| 2006-12-20 | 第2期圓益杯十段戦4回戦 | Lee Changho | An Joyeong | Lose | W+R | 6.5 | 2911 | -36 | 
+| 2006-12-07 | 第11回三星火災杯世界オープン囲碁選手権準決勝三番勝負第2局 | Lee Changho | Paek Hongseok | Win | B+R | 6.5 | 2947 | 2 | 
+| 2006-12-05 | 第11回三星火災杯世界オープン囲碁選手権準決勝三番勝負第1局 | Paek Hongseok | Lee Changho | Win | W+R | 6.5 | 2945 | 22 | 
+| 2006-11-19 | 2006年韓国囲碁リーグ | Lee Changho | Kim Seonryong | Win | B+R | 6.5 | 2923 | 28 | 
+| 2006-11-09 | 第11回三星火災杯世界オープン囲碁選手権3回戦 | Lee Changho | Piao Wenyao | Win | B+R | 6.5 | 2895 | -21 | 
+| 2006-11-05 | 2006年韓国囲碁リーグ | Lee Changho | Lee Huiseong | Win | B+0.5 | 6.5 | 2916 | 2 | 
+| 2006-10-31 | 第11回LG杯世界棋王戦3回戦 | Lee Changho | Hu Yaoyu | Lose | W+R | 6.5 | 2914 | -73 | 
+| 2006-10-19 | 2006年韓国囲碁リーグ |  | Lee Changho | Lose | B+R | 6.5 | 2987 | -30 | 
+| 2006-10-16 | 第25回KBS杯囲碁王戦敗者復活戦決勝 | Lee Changho | Lee Sedol | Lose | W+R | 6.5 | 3017 | -10 | 
+| 2006-10-12 | 第11期GSカルテックス杯プロ棋戦リーグ | Lee Sedol | Lee Changho | Lose | B+R | 6.5 | 3027 | 7 | 
+| 2006-10-10 | 第11期GSカルテックス杯プロ棋戦リーグ | On Sojin | Lee Changho | Lose | B+0.5 | 6.5 | 3020 | -12 | 
+| 2006-10-08 | 2006年韓国囲碁リーグ | Choi Wongyong | Lee Changho | Win | W+R | 6.5 | 3032 | 10 | 
+| 2006-09-28 | 第6回春蘭杯世界囲碁選手権3回戦 | Gu Li | Lee Changho | Lose | B+R | 7.5 | 3022 | -14 | 
+| 2006-09-25 | 第11期GSカルテックス杯プロ棋戦リーグ | Lee Changho |  | Lose | W+7.5 | 6.5 | 3036 | -14 | 
+| 2006-09-22 | 2006年韓国囲碁リーグ | Cho Hunhyun | Lee Changho | Win | W+R | 6.5 | 3050 | -2 | 
+| 2006-09-20 | 第11期GSカルテックス杯プロ棋戦リーグ | Kim Seungjun | Lee Changho | Win | W+7.5 | 6.5 | 3052 | 18 | 
+| 2006-09-18 | 第25回KBS杯囲碁王戦本戦5回戦 | Choi Cheolhan | Lee Changho | Lose | B+R | 6.5 | 3034 | -40 | 
+| 2006-09-08 | 第11回三星火災杯世界オープン囲碁選手権2回戦 | Lee Changho | Zhou Heyang | Win | B+R | 6.5 | 3074 | 5 | 
+| 2006-09-06 | 第11回三星火災杯世界オープン囲碁選手権1回戦 | Lee Changho | Hu Yaoyu | Win | B+R | 6.5 | 3069 | 16 | 
+| 2006-09-03 | 2006年韓国囲碁リーグ | Kim Seungjun | Lee Changho | Win | W+4.5 | 6.5 | 3053 | 0 | 
+| 2006-09-01 | 第3期トヨタ＆デンソー杯囲碁世界王座戦準決勝 | Lee Sedol | Lee Changho | Lose | B+R | 6.5 | 3053 | -1 | 
+| 2006-08-30 | 第3期トヨタ＆デンソー杯囲碁世界王座戦3回戦 | Peng Quan | Lee Changho | Win | W+2.5 | 6.5 | 3054 | 2 | 
+| 2006-08-28 | 第3期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Lee Changho | Gu Li | Win | B+R | 6.5 | 3052 | 0 | 
+| 2006-08-26 | 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Alexander Dinerchtein | Lee Changho | Win | W+R | 6.5 | 3052 | -17 | 
+| 2006-08-21 | 第25回KBS杯囲碁王戦本戦4回戦 | Lee Sedol | Lee Changho | Win | W+R | 6.5 | 3069 | 10 | 
+| 2006-08-11 | 第18回テレビアジア選手権決勝 | Lee Changho | Wang Xi | Lose | W+R | 6.5 | 3059 | -6 | 
+| 2006-08-10 | 第18回テレビアジア選手権準決勝 | Hane Naoki | Lee Changho | Win | W+2.5 | 6.5 | 3065 | -41 | 
+| 2006-08-08 | 第18回テレビアジア選手権1回戦 | Lee Changho | Imamura Toshiya | Win | B+6.5 | 6.5 | 3106 | 3 | 
+| 2006-08-04 | 2006年韓国囲碁リーグ | Kim Jiseok | Lee Changho | Win | W+R | 6.5 | 3103 | 31 | 
+| 2006-07-24 | 第8回農心杯韓国選抜戦 | Lee Hyeonwuk | Lee Changho | Win | W+R | 6.5 | 3072 | 1 | 
+| 2006-07-23 | 2006年韓国囲碁リーグ | Lee Changho | Choi Wongyong | Win | B+R | 6.5 | 3071 | 4 | 
+| 2006-07-21 | 第8回農心杯韓国選抜戦 | Lee Changho | Kim Seungjun | Win | B+1.5 | 6.5 | 3067 | -29 | 
+| 2006-07-19 | 第40期王位戦挑戦手合五番勝負第3局 | Lee Yeongkyu | Lee Changho | Win | W+R | 6.5 | 3096 | -20 | 
+| 2006-07-14 | 第2期物価情報杯プロ棋戦決勝トーナメント準決勝 | Lee Changho | Choi Wongyong | Lose | W+R | 6.5 | 3116 | -68 | 
+| 2006-07-12 | 第40期王位戦挑戦手合五番勝負第2局 | Lee Changho | Lee Yeongkyu | Win | B+R | 6.5 | 3184 | -3 | 
+| 2006-07-07 | 2006年韓国囲碁リーグ | Lee Changho | Cho Hunhyun | Win | B+1.5 | 6.5 | 3187 | 19 | 
+| 2006-07-05 | 第2期物価情報杯プロ棋戦決勝トーナメント1回戦 | Choi Cheolhan | Lee Changho | Win | W+1.5 | 6.5 | 3168 | 11 | 
+| 2006-07-03 | 第11期GSカルテックス杯プロ棋戦リーグ | Lee Changho | Park Yeonghun | Win | B+R | 6.5 | 3157 | 0 | 
+| 2006-06-30 | 2006年韓国囲碁リーグ | Lee Jungwoo | Lee Changho | Win | W+8.5 | 6.5 | 3157 | 6 | 
+| 2006-06-27 | 第3期電子ランド杯王中王戦決勝三番勝負第2局 | Lee Changho | Park Cheongsang | Win | B+R | 6.5 | 3151 | 3 | 
+| 2006-06-26 | 第3期電子ランド杯王中王戦決勝三番勝負第1局 | Park Cheongsang | Lee Changho | Win | W+0.5 | 6.5 | 3148 | -195 | 
+| 2006-06-23 | 第40期王位戦挑戦手合五番勝負第1局 | Lee Yeongkyu | Lee Changho | Win | W+1.5 | 6.5 | 3343 | 13 | 
+| 2006-06-20 | 第3期電子ランド杯王中王戦準決勝 | Cho Hunhyun | Lee Changho | Win | W+9.5 | 6.5 | 3330 | 3 | 
+| 2006-06-17 | 2006年韓国囲碁リーグ | Lee Changho | Weon Seongjin | Lose | W+1.5 | 6.5 | 3327 | 17 | 
+| 2006-06-07 | 第2期物価情報杯プロ棋戦リーグC | Lee Changho | Choi Wongyong | Lose | W+R | 6.5 | 3310 | -23 | 
+| 2006-06-06 | 第3期電子ランド杯王中王戦3回戦 | Lee Changho | Cho Hyeyeon | Win | B+R | 6.5 | 3333 | -1 | 
+| 2006-06-03 | 第19回世界囲碁選手権富士通杯3回戦 | Lee Changho | Lee Sedol | Lose | W+4.5 | 6.5 | 3334 | -7 | 
+| 2006-05-29 | 第25回KBS杯囲碁王戦本戦3回戦 | Weon Seongjin | Lee Changho | Win | W+3.5 | 6.5 | 3341 | 19 | 
+| 2006-05-24 | 第11期GSカルテックス杯プロ棋戦リーグ | Park Cheongsang | Lee Changho | Win | W+2.5 | 6.5 | 3322 | 89 | 
+| 2006-05-19 | 2006年韓国囲碁リーグ | Lee Changho | Kim Jiseok | Win | B+0.5 | 6.5 | 3233 | 14 | 
+| 2006-05-17 | 第11回LG杯世界棋王戦2回戦 | Lee Changho | Kono Rin | Win | B+1.5 | 6.5 | 3219 | -7 | 
+| 2006-05-15 | 第11回LG杯世界棋王戦1回戦 | Huang Yizhong | Lee Changho | Win | W+3.5 | 6.5 | 3226 | -6 | 
+| 2006-05-09 | 第2期物価情報杯プロ棋戦リーグC | Lee Changho | Han Chongjin | Win | B+R | 6.5 | 3232 | 1 | 
+| 2006-05-08 | 第3期電子ランド杯王中王戦2回戦 | Oh Kyuchul | Lee Changho | Win | W+11.5 | 6.5 | 3231 | -13 | 
+| 2006-05-05 | 2006年韓国囲碁リーグ | Rui Naiwei | Lee Changho | Win | W+R | 6.5 | 3244 | 10 | 
+| 2006-05-03 | 第5回CSK杯囲碁アジア対抗戦第3戦 | Lee Changho | Chang Hao | Win | B+R | 6.5 | 3234 | 9 | 
+| 2006-05-02 | 第5回CSK杯囲碁アジア対抗戦第2戦 | Lee Changho | Han Zenki | Win | B+R | 6.5 | 3225 | -10 | 
+| 2006-05-01 | 第5回CSK杯囲碁アジア対抗戦第1戦 | Lee Changho | Yoda Norimoto | Lose | W+2.5 | 6.5 | 3235 | -19 | 
+| 2006-04-28 | 第11期GSカルテックス杯プロ棋戦リーグ | Lee Changho | Cho Hanseung | Lose | W+1.5 | 6.5 | 3254 | -7 | 
+| 2006-04-23 | 2006年韓国囲碁リーグ | Heo Yongho | Lee Changho | Win | W+R | 6.5 | 3261 | -11 | 
+| 2006-04-10 | 第19回世界囲碁選手権富士通杯2回戦 | Yamashita Keigo | Lee Changho | Win | W+2.5 | 6.5 | 3272 | 7 | 
+| 2006-04-03 | 第3期電子ランド杯王中王戦1回戦 | Lee Changho |  | Win | B+R | 6.5 | 3265 | -1 | 
+| 2006-03-31 | 第2期物価情報杯プロ棋戦リーグC | Lee Changho | Rui Naiwei | Win | B+R | 6.5 | 3266 | -4 | 
+| 2006-03-27 | 第25回KBS杯囲碁王戦本戦2回戦 | Lee Changho | Choi Wongyong | Win | B+R | 6.5 | 3270 | 4 | 
+| 2006-03-24 | 第1回江原ランド杯韓中囲碁対抗戦第10戦 | Lee Changho | Chang Hao | Lose | W+3.5 | 6.5 | 3266 | -11 | 
+| 2006-03-13 | 第6回春蘭杯世界囲碁選手権2回戦 | Lee Changho | Chen Yaoye | Win | B+R | 7.5 | 3277 | -1 | 
+| 2006-03-02 | 第49期国手戦（韓国）挑戦手合五番勝負第5局 | Lee Changho | Choi Cheolhan | Win | B+R | 6.5 | 3278 | -5 | 
+| 2006-02-24 | 第7回農心辛ラーメン杯世界囲碁最強戦第14戦 | Yoda Norimoto | Lee Changho | Lose | B+R | 6.5 | 3283 | -24 | 
+| 2006-02-15 | 第49期国手戦（韓国）挑戦手合五番勝負第4局 | Choi Cheolhan | Lee Changho | Lose | B+R | 6.5 | 3307 | -4 | 
+| 2006-02-11 | 第49期国手戦（韓国）挑戦手合五番勝負第3局 | Lee Changho | Choi Cheolhan | Win | B+R | 6.5 | 3311 | 11 | 
+| 2006-02-02 | 第49期国手戦（韓国）挑戦手合五番勝負第2局 | Choi Cheolhan | Lee Changho | Lose | B+R | 6.5 | 3300 | -10 | 
+| 2006-01-25 | 第49期国手戦（韓国）挑戦手合五番勝負第1局 | Lee Changho | Choi Cheolhan | Win | B+R | 6.5 | 3310 | 9 | 
+| 2006-01-22 | 第1期圓益杯十段戦決勝三番勝負第3局 | Park Yeonghun | Lee Changho | Win | W+R | 6.5 | 3301 | -172 | 
+| 2006-01-15 | 第1期圓益杯十段戦決勝三番勝負第2局 | Lee Changho | Park Yeonghun | Lose | W+R | 6.5 | 3473 | -5 | 
+| 2006-01-13 | 第10回三星火災杯世界オープン囲碁選手権決勝三番勝負第3局 | Luo Xihe | Lee Changho | Lose | B+5.5 | 6.5 | 3478 | 208 | 
+| 2006-01-12 | 第10回三星火災杯世界オープン囲碁選手権決勝三番勝負第2局 | Lee Changho | Luo Xihe | Win | B+3.5 | 6.5 | 3270 | 5 | 
+| 2006-01-10 | 第10回三星火災杯世界オープン囲碁選手権決勝三番勝負第1局 | Luo Xihe | Lee Changho | Lose | B+R | 6.5 | 3265 | -1 | 
+| 2006-01-08 | 第1期圓益杯十段戦決勝三番勝負第1局 | Park Yeonghun | Lee Changho | Win | W+1.5 | 6.5 | 3266 | -6 | 
+| 2006-01-03 | 第49期国手戦（韓国）挑戦者決定戦第2局 | Lee Sedol | Lee Changho | Win | W+R | 6.5 | 3272 | 15 | 
+| 2005-12-26 | 第49期国手戦（韓国）挑戦者決定戦第1局 | Lee Changho | Lee Sedol | Win | B+R | 6.5 | 3257 | -214 | 
+| 2005-12-16 | 第10回三星火災杯世界オープン囲碁選手権準決勝三番勝負第3局 | Lee Changho | Hu Yaoyu | Win | B+R | 6.5 | 3471 | 0 | 
+| 2005-12-15 | 第10回三星火災杯世界オープン囲碁選手権準決勝三番勝負第2局 | Lee Changho | Hu Yaoyu | Lose | W+1.5 | 6.5 | 3471 | -9 | 
+| 2005-12-13 | 第10回三星火災杯世界オープン囲碁選手権準決勝三番勝負第1局 | Hu Yaoyu | Lee Changho | Win | W+R | 6.5 | 3480 | -41 | 
+| 2005-12-04 | 2005年韓国囲碁リーグプレーオフ | Lee Changho | Choi Cheolhan | Lose | W+R | 6.5 | 3521 | -7 | 
+| 2005-12-01 | 第10期GSカルテックス杯プロ棋戦決勝五番勝負第5局 | Choi Cheolhan | Lee Changho | Lose | B+R | 6.5 | 3528 | 13 | 
+| 2005-11-21 | 第10期GSカルテックス杯プロ棋戦決勝五番勝負第4局 | Choi Cheolhan | Lee Changho | Lose | B+R | 6.5 | 3515 | 56 | 
+| 2005-11-15 | 第10回三星火災杯世界オープン囲碁選手権3回戦 | Lee Changho | Yoo Changhyuk | Win | B+5.5 | 6.5 | 3459 | 8 | 
+| 2005-11-12 | 第1期圓益杯十段戦準決勝 | Lee Changho | Choi Cheolhan | Win | B+R | 6.5 | 3451 | 278 | 
+| 2005-11-07 | 第49期国手戦（韓国）勝者組決勝 | Lee Changho |  | Win | B+8.5 | 6.5 | 3173 | 13 | 
+| 2005-11-03 | 第1期圓益杯十段戦3回戦 | Lee Changho | Hong Seongji | Win | B+12.5 | 6.5 | 3160 | -3 | 
+| 2005-10-30 | 2005年韓国囲碁リーグ | Yoo Changhyuk | Lee Changho | Win | W+1.5 | 6.5 | 3163 | -234 | 
+| 2005-10-27 | 第1期圓益杯十段戦2回戦 | Kang Dongyun | Lee Changho | Win | W+R | 6.5 | 3397 | 51 | 
+| 2005-10-13 | 第24回KBS杯囲碁王戦決勝三番勝負第2局 | Yoo Changhyuk | Lee Changho | Win | W+R | 6.5 | 3346 | 3 | 
+| 2005-10-11 | 第1期物価情報杯プロ棋戦決勝三番勝負第2局 | Park Yeonghun | Lee Changho | Lose | B+4.5 | 6.5 | 3343 | 1 | 
+| 2005-10-09 | 2005年韓国囲碁リーグ | Mok Jinseok | Lee Changho | Win | W+R | 6.5 | 3342 | 9 | 
+| 2005-10-06 | 第10期GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Lee Changho | Choi Cheolhan | Lose | W+R | 6.5 | 3333 | 0 | 
+| 2005-10-04 | 第1期物価情報杯プロ棋戦決勝三番勝負第1局 | Lee Changho | Park Yeonghun | Lose | W+2.5 | 6.5 | 3333 | -8 | 
+| 2005-09-30 | 第10回三星火災杯世界オープン囲碁選手権2回戦 | Lee Changho | Gu Li | Win | B+0.5 | 6.5 | 3341 | 4 | 
+| 2005-09-28 | 第10回三星火災杯世界オープン囲碁選手権1回戦 | Lee Huiseong | Lee Changho | Win | W+R | 6.5 | 3337 | 25 | 
+| 2005-09-23 | 第24回KBS杯囲碁王戦決勝三番勝負第1局 | Lee Changho | Yoo Changhyuk | Win | B+7.5 | 6.5 | 3312 | 11 | 
+| 2005-09-21 | 第10期GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Choi Cheolhan | Lee Changho | Win | W+R | 6.5 | 3301 | 12 | 
+| 2005-09-15 | 第49期国手戦（韓国）本戦2回戦 | Cho Hunhyun | Lee Changho | Win | W+R | 6.5 | 3289 | -3 | 
+| 2005-09-08 | 第10期GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Lee Changho | Choi Cheolhan | Win | B+R | 6.5 | 3292 | 9 | 
+| 2005-09-04 | 2005年韓国囲碁リーグ | Choi Cheolhan | Lee Changho | Lose | B+5.5 | 6.5 | 3283 | -15 | 
+| 2005-09-01 | 第1期圓益杯十段戦1回戦 | Lee Changho |  | Win | B+2.5 | 6.5 | 3298 | 17 | 
+| 2005-08-23 | 第10期GSカルテックス杯プロ棋戦準決勝 | Cho Hanseung | Lee Changho | Win | W+R | 6.5 | 3281 | -33 | 
+| 2005-08-14 | 第2回中環杯世界囲碁選手権1回戦 | Lee Changho | O Meien | Lose | W+0.5 | 6.5 | 3314 | -4 | 
+| 2005-08-09 | 第1期物価情報杯プロ棋戦決勝トーナメント準決勝 | Cho Hanseung | Lee Changho | Win | W+3.5 | 6.5 | 3318 | 3 | 
+| 2005-08-07 | 2005年韓国囲碁リーグ | Park Yeonghun | Lee Changho | Lose | B+2.5 | 6.5 | 3315 | -1 | 
+| 2005-08-04 | 第1期物価情報杯プロ棋戦リーグA | Lee Changho |  | Win | B+R | 6.5 | 3316 | -37 | 
+| 2005-08-01 | 第10期GSカルテックス杯プロ棋戦2回戦 | Lee Changho |  | Win | B+R | 6.5 | 3353 | -4 | 
+| 2005-07-29 | 第24回KBS杯囲碁王戦本戦5回戦 | Yoo Changhyuk | Lee Changho | Win | W+1.5 | 6.5 | 3357 | -1 | 
+| 2005-07-27 | 第1期物価情報杯プロ棋戦リーグA |  | Lee Changho | Win | W+R | 6.5 | 3358 | 12 | 
+| 2005-07-20 | 第24回KBS杯囲碁王戦本戦4回戦 | Lee Yeongkyu | Lee Changho | Win | W+6.5 | 6.5 | 3346 | -4 | 
+| 2005-07-17 | 2005年韓国囲碁リーグ | Cho Hunhyun | Lee Changho | Win | W+R | 6.5 | 3350 | 32 | 
+| 2005-07-15 | 第39期王位戦挑戦手合五番勝負第4局 | Lee Changho |  | Win | B+2.5 | 6.5 | 3318 | 0 | 
+| 2005-07-11 | 第2期電子ランド杯王中王戦決勝三番勝負第2局 | Choi Cheolhan | Lee Changho | Win | W+R | 6.5 | 3318 | 1 | 
+| 2005-07-08 | 第39期王位戦挑戦手合五番勝負第3局 |  | Lee Changho | Win | W+2.5 | 6.5 | 3317 | 39 | 
+| 2005-07-06 | 第2期電子ランド杯王中王戦決勝三番勝負第1局 | Lee Changho | Choi Cheolhan | Win | B+0.5 | 6.5 | 3278 | 0 | 
+| 2005-07-01 | 第49期国手戦（韓国）本戦1回戦 | On Sojin | Lee Changho | Win | W+3.5 | 6.5 | 3278 | 243 | 
+| 2005-06-28 | 第2期電子ランド杯王中王戦準決勝 | Kim Juho | Lee Changho | Win | W+R | 6.5 | 3035 | -7 | 
+| 2005-06-26 | 2005年韓国囲碁リーグ | Lee Changho | Song Taekon | Lose | W+R | 6.5 | 3042 | 53 | 
+| 2005-06-20 | 第39期王位戦挑戦手合五番勝負第2局 | Lee Changho |  | Win | B+R | 6.5 | 2989 | 0 | 
+| 2005-06-15 | 第17回テレビアジア選手権1回戦 | Lee Changho | Cho U | Lose | W+2.5 | 7.5 | 2989 | -30 | 
+| 2005-06-10 | 第39期王位戦挑戦手合五番勝負第1局 |  | Lee Changho | Lose | B+R | 6.5 | 3019 | -11 | 
+| 2005-06-07 | 第2期電子ランド杯王中王戦3回戦 | Lee Changho | An Joyeong | Win | B+R | 6.5 | 3030 | 29 | 
+| 2005-06-02 | 第1期物価情報杯プロ棋戦リーグA | Oh Kyuchul | Lee Changho | Win | W+10.5 | 6.5 | 3001 | -51 | 
+| 2005-05-22 | 2005年韓国囲碁リーグ | Lee Sedol | Lee Changho | Win | W+R | 6.5 | 3052 | 14 | 
+| 2005-05-18 | 第10回LG杯世界棋王戦2回戦 | Chen Yaoye | Lee Changho | Lose | B+R | 6.5 | 3038 | -6 | 
+| 2005-05-16 | 第10回LG杯世界棋王戦1回戦 | Wang Xi | Lee Changho | Win | W+R | 6.5 | 3044 | -50 | 
+| 2005-05-10 | 第2期電子ランド杯王中王戦2回戦 | Lee Changho | Kim Seungjun | Win | B+R | 6.5 | 3094 | 3 | 
+| 2005-05-03 | 第4回CSK杯囲碁アジア対抗戦第3戦 | Lee Changho | Zhou Heyang | Lose | W+R | 6.5 | 3091 | -9 | 
+| 2005-05-02 | 第4回CSK杯囲碁アジア対抗戦第2戦 | Lee Changho | Yamashita Keigo | Win | B+7.5 | 6.5 | 3100 | 5 | 
+| 2005-05-01 | 第4回CSK杯囲碁アジア対抗戦第1戦 | Lee Changho | Rin Kaiho | Win | B+2.5 | 6.5 | 3095 | 64 | 
+| 2005-04-27 | 第24回KBS杯囲碁王戦本戦3回戦 | Lee Changho | Mok Jinseok | Win | B+R | 6.5 | 3031 | -79 | 
+| 2005-04-11 | 第18回世界囲碁選手権富士通杯2回戦 | Lee Changho | Gu Li | Lose | W+R | 6.5 | 3110 | -23 | 
+| 2005-03-28 | 第2期電子ランド杯王中王戦1回戦 | Lee Changho | Lee Yeongkyu | Win | B+R | 6.5 | 3133 | 0 | 
+| 2005-03-18 | 第5回春蘭杯世界囲碁選手権決勝三番勝負第3局 | Lee Changho | Zhou Heyang | Win | B+R | 7.5 | 3133 | -4 | 
+| 2005-03-16 | 第5回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Zhou Heyang | Lee Changho | Win | W+R | 7.5 | 3137 | 5 | 
+| 2005-03-14 | 第5回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Lee Changho | Zhou Heyang | Lose | W+0.5 | 7.5 | 3132 | -4 | 
+| 2005-03-07 | 第10期GSカルテックス杯プロ棋戦1回戦 | Lee Huiseong | Lee Changho | Win | W+R | 6.5 | 3136 | -239 | 
+| 2005-02-26 | 第6回農心辛ラーメン杯世界囲碁最強戦第14戦 | Lee Changho | Wang Xi | Win | B+R | 6.5 | 3375 | -1 | 
+| 2005-02-25 | 第6回農心辛ラーメン杯世界囲碁最強戦第13戦 | O Meien | Lee Changho | Win | W+R | 6.5 | 3376 | 1 | 
+| 2005-02-24 | 第6回農心辛ラーメン杯世界囲碁最強戦第12戦 | Wang Lei (b) | Lee Changho | Win | W+R | 6.5 | 3375 | 5 | 
+| 2005-02-23 | 第6回農心辛ラーメン杯世界囲碁最強戦第11戦 | Lee Changho | Cho U | Win | B+R | 6.5 | 3370 | -89 | 
+| 2005-02-19 | 第48期国手戦（韓国）挑戦手合五番勝負第3局 | Choi Cheolhan | Lee Changho | Lose | B+R | 6.5 | 3459 | -23 | 
+| 2005-02-11 | 第48期国手戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Choi Cheolhan | Lose | W+R | 6.5 | 3482 | 37 | 
+| 2005-01-24 | 第9回LG杯世界棋王戦準決勝 | Yu Bin | Lee Changho | Lose | B+R | 6.5 | 3445 | 17 | 
+| 2005-01-19 | 第24回KBS杯囲碁王戦本戦2回戦 |  | Lee Changho | Win | W+R | 6.5 | 3428 | 24 | 
+| 2005-01-13 | 第1回中環杯世界囲碁選手権準決勝 | O Rissei | Lee Changho | Lose | B+0.5 | 6.5 | 3404 | -20 | 
+| 2005-01-10 | 第48期国手戦（韓国）挑戦手合五番勝負第1局 | Choi Cheolhan | Lee Changho | Lose | B+R | 6.5 | 3424 | 79 | 
+| 2004-12-20 | 第48期国手戦（韓国）挑戦者決定戦第3局 | Lee Changho | Yoo Changhyuk | Win | B+R | 6.5 | 3345 | 3 | 
+| 2004-12-12 | 2004年韓国囲碁リーグ | Lee Changho | Cho Hunhyun | Lose | W+R | 6.5 | 3342 | -13 | 
+| 2004-12-10 | 第48期国手戦（韓国）挑戦者決定戦第2局 | Lee Changho | Yoo Changhyuk | Lose | W+1.5 | 6.5 | 3355 | 37 | 
+| 2004-12-06 | 第48期国手戦（韓国）挑戦者決定戦第1局 | Yoo Changhyuk | Lee Changho | Win | W+6.5 | 6.5 | 3318 | 56 | 
+| 2004-11-29 | 第6回農心辛ラーメン杯世界囲碁最強戦第10戦 | Luo Xihe | Lee Changho | Win | W+R | 6.5 | 3262 | 59 | 
+| 2004-11-11 | 第48期国手戦（韓国）勝者組決勝 | Yun Junsang | Lee Changho | Win | W+2.5 | 6.5 | 3203 | 3 | 
+| 2004-11-09 | 第23回KBS杯囲碁王戦決勝三番勝負第2局 | Lee Changho | Cho Hanseung | Win | B+R | 6.5 | 3200 | 5 | 
+| 2004-11-06 | 第9期LG精油杯プロ棋戦決勝五番勝負第3局 | Lee Changho | Park Yeonghun | Win | B+2.5 | 6.5 | 3195 | 154 | 
+| 2004-11-01 | 第9期LG精油杯プロ棋戦決勝五番勝負第2局 | Park Yeonghun | Lee Changho | Win | W+0.5 | 6.5 | 3041 | 4 | 
+| 2004-10-29 | 第16期棋聖戦（韓国）1回戦 | Rui Naiwei | Lee Changho | Lose | B+R | 6.5 | 3037 | -252 | 
+| 2004-10-26 | 第9回LG杯世界棋王戦3回戦 | Lee Changho | Lee Sedol | Win | B+R | 6.5 | 3289 | 6 | 
+| 2004-10-24 | 2004年韓国囲碁リーグ | Lee Changho | Yoo Changhyuk | Lose | W+R | 6.5 | 3283 | -185 | 
+| 2004-10-22 | 第23回KBS杯囲碁王戦決勝三番勝負第1局 | Cho Hanseung | Lee Changho | Win | W+R | 6.5 | 3468 | 20 | 
+| 2004-10-19 | 第9期LG精油杯プロ棋戦決勝五番勝負第1局 | Lee Changho | Park Yeonghun | Win | B+R | 6.5 | 3448 | 127 | 
+| 2004-10-03 | 2004年韓国囲碁リーグ | Lee Changho | Mok Jinseok | Win | B+R | 6.5 | 3321 | -154 | 
+| 2004-09-22 | 第48期国手戦（韓国）本戦2回戦 | Weon Seongjin | Lee Changho | Win | W+8.5 | 6.5 | 3475 | -113 | 
+| 2004-09-18 | 第1回中環杯世界囲碁選手権2回戦 | Cho U | Lee Changho | Win | W+4.5 | 6.5 | 3588 | 15 | 
+| 2004-09-16 | 第1回中環杯世界囲碁選手権1回戦 | Rin Kaiho | Lee Changho | Win | W+R | 6.5 | 3573 | 103 | 
+| 2004-09-08 | 第9期LG精油杯プロ棋戦準決勝 | Yun Junsang | Lee Changho | Win | W+R | 6.5 | 3470 | 174 | 
+| 2004-09-05 | 2004年韓国囲碁リーグ | Lee Changho | Park Yeonghun | Win | B+R | 6.5 | 3296 | 15 | 
+| 2004-09-01 | 第9回三星火災杯世界オープン囲碁選手権1回戦 | Hu Yaoyu | Lee Changho | Lose | B+R | 6.5 | 3281 | -25 | 
+| 2004-08-30 | 第9期LG精油杯プロ棋戦2回戦 | Lee Changho | Heo Yongho | Win | B+7.5 | 6.5 | 3306 | -5 | 
+| 2004-08-25 | 第2期トヨタ＆デンソー杯囲碁世界王座戦3回戦 | Lee Changho | Kong Jie | Lose | W+0.5 | 6.5 | 3311 | -9 | 
+| 2004-08-23 | 第2期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Lee Changho | Gu Li | Win | B+R | 6.5 | 3320 | 9 | 
+| 2004-08-21 | 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Lee Changho |  | Win | B+2.5 | 6.5 | 3311 | 12 | 
+| 2004-08-17 | 第38期王位戦挑戦手合五番勝負第5局 | Lee Sedol | Lee Changho | Win | W+R | 6.5 | 3299 | 7 | 
+| 2004-08-15 | 2004年韓国囲碁リーグ | Song Taekon | Lee Changho | Win | W+R | 6.5 | 3292 | -15 | 
+| 2004-08-04 | 第38期王位戦挑戦手合五番勝負第4局 | Lee Sedol | Lee Changho | Win | W+R | 6.5 | 3307 | 56 | 
+| 2004-07-30 | 第23回KBS杯囲碁王戦敗者復活戦決勝 | Lee Changho | Lee Sedol | Win | B+R | 6.5 | 3251 | 3 | 
+| 2004-07-26 | 第38期王位戦挑戦手合五番勝負第3局 | Lee Changho | Lee Sedol | Lose | W+R | 6.5 | 3248 | -2 | 
+| 2004-07-20 | 第38期王位戦挑戦手合五番勝負第2局 | Lee Sedol | Lee Changho | Win | W+R | 6.5 | 3250 | -7 | 
+| 2004-07-16 | 第38期王位戦挑戦手合五番勝負第1局 | Lee Changho | Lee Sedol | Lose | W+3.5 | 6.5 | 3257 | -15 | 
+| 2004-07-07 | 第23回KBS杯囲碁王戦本戦5回戦 | Cho Hanseung | Lee Changho | Lose | B+1.5 | 6.5 | 3272 | -83 | 
+| 2004-07-05 | 第48期国手戦（韓国）本戦1回戦 | Lee Changho | Yang Keon | Win | B+R | 6.5 | 3355 | 21 | 
+| 2004-06-27 | 2004年韓国囲碁リーグ | Lee Changho | Lee Sedol | Win | B+6.5 | 6.5 | 3334 | 23 | 
+| 2004-06-18 | 第23回KBS杯囲碁王戦本戦4回戦 | Choi Cheolhan | Lee Changho | Win | W+R | 6.5 | 3311 | -14 | 
+| 2004-06-10 | 第5回春蘭杯世界囲碁選手権準決勝 | Lee Changho | Hu Yaoyu | Win | B+1.5 | 7.5 | 3325 | -4 | 
+| 2004-06-08 | 第5回春蘭杯世界囲碁選手権3回戦 | Lee Changho | Chang Hao | Win | B+R | 7.5 | 3329 | -4 | 
+| 2004-06-05 | 第17回世界囲碁選手権富士通杯3回戦 | Lee Changho | Yoda Norimoto | Lose | W+3.5 | 6.5 | 3333 | 64 | 
+| 2004-05-25 | 第9期LG精油杯プロ棋戦1回戦 | Kim Seonryong | Lee Changho | Win | W+R | 6.5 | 3269 | -50 | 
+| 2004-05-20 | 第9回LG杯世界棋王戦2回戦 | Lee Changho | O Rissei | Win | B+R | 6.5 | 3319 | -9 | 
+| 2004-05-16 | 2004年韓国囲碁リーグ | Choi Cheolhan | Lee Changho | Win | W+7.5 | 6.5 | 3328 | 69 | 
+| 2004-04-28 | 第23回KBS杯囲碁王戦本戦3回戦 | Lee Changho | Rui Naiwei | Win | B+R | 6.5 | 3259 | -55 | 
+| 2004-04-24 | 第5回応氏杯世界選手権3回戦 | Choi Cheolhan | Lee Changho | Lose | B+5 | 7.5 | 3314 | -7 | 
+| 2004-04-22 | 第5回応氏杯世界選手権2回戦 | Yamashita Keigo | Lee Changho | Win | W+3 | 7.5 | 3321 | 19 | 
+| 2004-04-16 | 第15期棋聖戦（韓国）挑戦手合五番勝負第4局 | Choi Cheolhan | Lee Changho | Lose | B+2.5 | 6.5 | 3302 | -17 | 
+| 2004-04-12 | 第17回世界囲碁選手権富士通杯2回戦 | Wang Lei (b) | Lee Changho | Win | W+3.5 | 6.5 | 3319 | -17 | 
+| 2004-04-06 | 第15期棋聖戦（韓国）挑戦手合五番勝負第3局 | Lee Changho | Choi Cheolhan | Lose | W+R | 6.5 | 3336 | 47 | 
+| 2004-04-01 | 第8回LG杯世界棋王戦決勝五番勝負第4局 | Lee Changho | Mok Jinseok | Win | B+R | 6.5 | 3289 | 2 | 
+| 2004-03-30 | 第8回LG杯世界棋王戦決勝五番勝負第3局 | Mok Jinseok | Lee Changho | Win | W+R | 6.5 | 3287 | 25 | 
+| 2004-03-23 | 第3回CSK杯囲碁アジア対抗戦第3戦 | Lee Changho | Wang Lei (b) | Win | B+R | 6.5 | 3262 | -36 | 
+| 2004-03-22 | 第3回CSK杯囲碁アジア対抗戦第2戦 | Lee Changho | Yuki Satoshi | Win | B+R | 6.5 | 3298 | 17 | 
+| 2004-03-21 | 第3回CSK杯囲碁アジア対抗戦第1戦 | Cho U | Lee Changho | Win | W+R | 6.5 | 3281 | 0 | 
+| 2004-03-11 | 第8回LG杯世界棋王戦決勝五番勝負第2局 | Lee Changho | Mok Jinseok | Win | B+R | 6.5 | 3281 | 7 | 
+| 2004-03-09 | 第8回LG杯世界棋王戦決勝五番勝負第1局 | Mok Jinseok | Lee Changho | Lose | B+3.5 | 6.5 | 3274 | -9 | 
+| 2004-03-05 | 第15期棋聖戦（韓国）挑戦手合五番勝負第2局 | Choi Cheolhan | Lee Changho | Lose | B+R | 6.5 | 3283 | -3 | 
+| 2004-03-02 | 第47期国手戦（韓国）挑戦手合五番勝負第5局 | Choi Cheolhan | Lee Changho | Lose | B+R | 6.5 | 3286 | -17 | 
+| 2004-02-27 | 第15期棋聖戦（韓国）挑戦手合五番勝負第1局 | Lee Changho | Choi Cheolhan | Win | B+R | 6.5 | 3303 | 62 | 
+| 2004-02-23 | 第47期国手戦（韓国）挑戦手合五番勝負第4局 | Choi Cheolhan | Lee Changho | Lose | B+R | 6.5 | 3241 | 134 | 
+| 2004-02-18 | 第47期国手戦（韓国）挑戦手合五番勝負第3局 | Lee Changho | Choi Cheolhan | Win | B+9.5 | 6.5 | 3107 | -8 | 
+| 2004-02-14 | 第5回農心辛ラーメン杯世界囲碁最強戦第14戦 | Lee Changho | Rin Kaiho | Win | B+R | 6.5 | 3115 | 3 | 
+| 2004-02-13 | 第5回農心辛ラーメン杯世界囲碁最強戦第13戦 | Kato Masao | Lee Changho | Win | W+R | 6.5 | 3112 | -10 | 
+| 2004-02-07 | 第47期国手戦（韓国）挑戦手合五番勝負第2局 | Choi Cheolhan | Lee Changho | Lose | B+R | 6.5 | 3122 | -11 | 
+| 2004-02-03 | 第8回LG杯世界棋王戦準決勝 | Weon Seongjin | Lee Changho | Win | W+R | 6.5 | 3133 | -19 | 
+| 2004-01-14 | 第47期国手戦（韓国）挑戦手合五番勝負第1局 | Lee Changho | Choi Cheolhan | Win | B+1.5 | 6.5 | 3152 | -27 | 
+| 2003-12-31 | 第5回春蘭杯世界囲碁選手権2回戦 | Yu Bin | Lee Changho | Win | W+6.5 | 7.5 | 3179 | 29 | 
+| 2003-12-15 | 第34期名人戦（韓国）挑戦手合五番勝負第5局 | Cho Hunhyun | Lee Changho | Win | W+0.5 | 6.5 | 3150 | 8 | 
+| 2003-12-12 | 第34期名人戦（韓国）挑戦手合五番勝負第4局 | Lee Changho | Cho Hunhyun | Lose | W+R | 6.5 | 3142 | 4 | 
+| 2003-12-05 | 第34期名人戦（韓国）挑戦手合五番勝負第3局 | Cho Hunhyun | Lee Changho | Win | W+R | 6.5 | 3138 | 15 | 
+| 2003-11-22 | 第1回韓国ドリームリーグ | Lee Changho | Seo Bongsoo | Win | B+R | 6.5 | 3123 | -30 | 
+| 2003-11-20 | 第8期LG精油杯プロ棋戦決勝五番勝負第3局 | Cho Hanseung | Lee Changho | Win | W+R | 6.5 | 3153 | 8 | 
+| 2003-11-13 | 第34期名人戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Cho Hunhyun | Win | B+R | 6.5 | 3145 | -18 | 
+| 2003-11-10 | 第8期LG精油杯プロ棋戦決勝五番勝負第2局 | Lee Changho | Cho Hanseung | Win | B+R | 6.5 | 3163 | -9 | 
+| 2003-11-01 | 第1回韓国ドリームリーグ | Lee Changho | Park Yeonghun | Win | B+R | 6.5 | 3172 | 2 | 
+| 2003-10-28 | 第8回LG杯世界棋王戦3回戦 | Lee Changho | Kim Juho | Win | B+R | 6.5 | 3170 | -2942 | 
+| 2003-10-18 | 第1回韓国ドリームリーグ | Lee Changho | Yoo Changhyuk | Win | B+1.5 | 6.5 | 6112 | 173 | 
+| 2003-10-15 | 第8期三星杯3回戦 | Xie He | Lee Changho | Lose | B+0.5 | 6.5 | 5939 | -105 | 
+| 2003-10-10 | 第34期名人戦（韓国）挑戦手合五番勝負第1局 | Cho Hunhyun | Lee Changho | Lose | B+R | 6.5 | 6044 | 173 | 
+| 2003-10-07 | 第8期LG精油杯プロ棋戦決勝五番勝負第1局 | Cho Hanseung | Lee Changho | Win | W+R | 6.5 | 5871 | -2 | 
+| 2003-09-29 | 第8期LG精油杯プロ棋戦準決勝 | An Joyeong | Lee Changho | Win | W+R | 6.5 | 5873 | 4 | 
+| 2003-09-27 | 第1回韓国ドリームリーグ | Cho Hunhyun | Lee Changho | Win | W+0.5 | 6.5 | 5869 | 2909 | 
+| 2003-09-05 | 第15回テレビアジア選手権 | Lee Changho | Mimura Tomoyasu | Lose | W+R | 6.5 | 2960 | 32 | 
+| 2003-08-29 | 第8期三星杯2回戦 | Wang Yuhui | Lee Changho | Win | W+R | 6.5 | 2928 | 2 | 
+| 2003-08-27 | 第8期三星杯1回戦 | Lee Changho | Peng Quan | Win | B+1.5 | 6.5 | 2926 | 29 | 
+| 2003-08-22 | 第1回韓国ドリームリーグ | Song Taekon | Lee Changho | Win | W+R | 6.5 | 2897 | 73 | 
+| 2003-08-06 | 第37期王位戦挑戦手合五番勝負第4局 | Lee Changho | Cho Hunhyun | Win | B+R | 6.5 | 2824 | 19 | 
+| 2003-07-28 | 第37期王位戦挑戦手合五番勝負第3局 | Cho Hunhyun | Lee Changho | Lose | B+R | 6.5 | 2805 | -8 | 
+| 2003-07-25 | 第8期LG精油杯プロ棋戦2回戦 |  | Lee Changho | Win | W+R | 6.5 | 2813 | 29 | 
+| 2003-07-19 | 第37期王位戦挑戦手合五番勝負第2局 | Lee Changho | Cho Hunhyun | Win | B+1.5 | 6.5 | 2784 | 7 | 
+| 2003-07-11 | 第37期王位戦挑戦手合五番勝負第1局 | Cho Hunhyun | Lee Changho | Win | W+4.5 | 6.5 | 2777 | 5 | 
+| 2003-07-07 | 第16回世界囲碁選手権富士通杯三位決定戦 | Yoda Norimoto | Lee Changho | Win | W+R | 6.5 | 2772 | 8 | 
+| 2003-07-05 | 第16回世界囲碁選手権富士通杯準決勝 | Song Taekon | Lee Changho | Lose | B+R | 6.5 | 2764 | -16 | 
+| 2003-06-25 | 第22回KBS杯囲碁王戦敗者復活戦3回戦 | Cho Hanseung | Lee Changho | Lose | B+3.5 | 6.5 | 2780 | 2 | 
+| 2003-06-19 | 第8回LG杯世界棋王戦2回戦 | Cho Chikun | Lee Changho | Win | W+R | 6.5 | 2778 | 1 | 
+| 2003-06-13 | 第37期覇王戦挑戦手合五番勝負第3局 | Yoo Changhyuk | Lee Changho | Lose | B+0.5 | 6.5 | 2777 | -11 | 
+| 2003-06-11 | 第22回KBS杯囲碁王戦敗者復活戦2回戦 | Lee Changho | Jiang Zhujiu | Win | B+R | 6.5 | 2788 | 5 | 
+| 2003-06-07 | 第16回世界囲碁選手権富士通杯3回戦 | Lee Changho | O Rissei | Win | B+4.5 | 6.5 | 2783 | 3 | 
+| 2003-06-02 | 第37期覇王戦挑戦手合五番勝負第2局 | Lee Changho | Yoo Changhyuk | Lose | W+R | 6.5 | 2780 | -11 | 
+| 2003-05-28 | 第3回KAT杯韓国囲碁最強戦 | Park Yeonghun | Lee Changho | Lose | B+R | 6.5 | 2791 | -1 | 
+| 2003-05-26 | 第37期覇王戦挑戦手合五番勝負第1局 | Yoo Changhyuk | Lee Changho | Lose | B+R | 6.5 | 2792 | -13 | 
+| 2003-05-20 | 第8期LG精油杯プロ棋戦1回戦 | Lee Changho | Park Yeonghun | Win | B+1.5 | 6.5 | 2805 | -20 | 
+| 2003-05-07 | 第22回KBS杯囲碁王戦敗者復活戦1回戦 | Lee Changho | An Younggil | Win | B+R | 6.5 | 2825 | -3 | 
+| 2003-04-29 | 第2回CSK杯囲碁アジア対抗戦第3戦 | Cho U | Lee Changho | Lose | B+R | 6.5 | 2828 | -36 | 
+| 2003-04-28 | 第2回CSK杯囲碁アジア対抗戦第2戦 | Lee Changho | Hane Naoki | Lose | W+R | 6.5 | 2864 | -13 | 
+| 2003-04-27 | 第2回CSK杯囲碁アジア対抗戦第1戦 | Lee Changho | Ding Wei | Win | B+R | 6.5 | 2877 | 4 | 
+| 2003-04-23 | 第3回KAT杯韓国囲碁最強戦 | Cho Hunhyun | Lee Changho | Win | W+R | 6.5 | 2873 | -2 | 
+| 2003-04-21 | 第37期覇王戦 | Lee Changho |  | Win | B+6.5 | 6.5 | 2875 | -14 | 
+| 2003-04-17 | 第14期棋聖戦（韓国）挑戦手合五番勝負第5局 | Lee Changho | Cho Hunhyun | Win | B+8.5 | 6.5 | 2889 | 10 | 
+| 2003-04-14 | 第16回世界囲碁選手権富士通杯2回戦 |  | Lee Changho | Win | W+R | 6.5 | 2879 | 25 | 
+| 2003-04-09 | 第22回KBS杯囲碁王戦本戦2回戦 | Lee Sedol | Lee Changho | Lose | B+3.5 | 6.5 | 2854 | -10 | 
+| 2003-04-01 | 第3回KAT杯韓国囲碁最強戦 | Cho Daehyeon | Lee Changho | Win | W+12.5 | 6.5 | 2864 | 7 | 
+| 2003-03-27 | 第7回LG杯世界棋王戦決勝五番勝負第4局 | Lee Changho | Lee Sedol | Lose | W+7.5 | 6.5 | 2857 | -19 | 
+| 2003-03-25 | 第7回LG杯世界棋王戦決勝五番勝負第3局 | Lee Sedol | Lee Changho | Lose | B+R | 6.5 | 2876 | -12 | 
+| 2003-03-22 | 第2期KT杯マスターズプロ棋戦準決勝 | Lee Sedol | Lee Changho | Lose | B+1.5 | 6.5 | 2888 | -22 | 
+| 2003-03-18 | 第4回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Lee Changho | Hane Naoki | Win | B+R | 7.5 | 2910 | 13 | 
+| 2003-03-16 | 第4回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Hane Naoki | Lee Changho | Win | W+R | 7.5 | 2897 | -7 | 
+| 2003-03-14 | 第37期覇王戦本戦第19局 | Lee Changho | Choi Cheolhan | Win | B+0.5 | 6.5 | 2904 | -6 | 
+| 2003-03-06 | 第14期棋聖戦（韓国）挑戦手合五番勝負第4局 | Cho Hunhyun | Lee Changho | Lose | B+R | 6.5 | 2910 | -7 | 
+| 2003-03-01 | 第2期KT杯マスターズプロ棋戦3回戦 | Lee Changho | Cho Hanseung | Win | B+3.5 | 6.5 | 2917 | 16 | 
+| 2003-02-27 | 第7回LG杯世界棋王戦決勝五番勝負第2局 | Lee Changho | Lee Sedol | Win | B+R | 6.5 | 2901 | 15 | 
+| 2003-02-25 | 第7回LG杯世界棋王戦決勝五番勝負第1局 | Lee Sedol | Lee Changho | Lose | B+R | 6.5 | 2886 | 12 | 
+| 2003-02-20 | 第14期棋聖戦（韓国）挑戦手合五番勝負第3局 | Lee Changho | Cho Hunhyun | Win | B+R | 6.5 | 2874 | 28 | 
+| 2003-02-14 | 第14期棋聖戦（韓国）挑戦手合五番勝負第2局 | Cho Hunhyun | Lee Changho | Lose | B+R | 6.5 | 2846 | -19 | 
+| 2003-02-11 | 第7回LG杯世界棋王戦準決勝 | Lee Changho | Weon Seongjin | Win | B+R | 6.5 | 2865 | 0 | 
+| 2003-02-06 | 第46期国手戦（韓国）挑戦手合五番勝負第3局 | Cho Hanseung | Lee Changho | Win | W+R | 6.5 | 2865 | 38 | 
+| 2003-02-04 | 第14期棋聖戦（韓国）挑戦手合五番勝負第1局 | Lee Changho | Cho Hunhyun | Win | B+7.5 | 6.5 | 2827 | 43 | 
+| 2003-01-23 | 第4回農心辛ラーメン杯世界囲碁最強戦第14戦 | Luo Xihe | Lee Changho | Win | W+R | 6.5 | 2784 | 5 | 
+| 2003-01-22 | 第4回農心辛ラーメン杯世界囲碁最強戦第13戦 | Lee Changho | Hu Yaoyu | Win | B+5.5 | 6.5 | 2779 | 17 | 
+| 2003-01-16 | 第46期国手戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Cho Hanseung | Win | B+R | 6.5 | 2762 | 8 | 
+| 2003-01-14 | 第3回KAT杯韓国囲碁最強戦 | Seo Nungwuk | Lee Changho | Win | W+7.5 | 6.5 | 2754 | 14 | 
+| 2003-01-08 | 第46期国手戦（韓国）挑戦手合五番勝負第1局 | Cho Hanseung | Lee Changho | Win | W+R | 6.5 | 2740 | 5 | 
+| 2003-01-06 | 第2期KT杯マスターズプロ棋戦3回戦 | Choi Myeonghun | Lee Changho | Win | W+0.5 | 6.5 | 2735 | 19 | 
+| 2002-12-28 | 第4回春蘭杯世界囲碁選手権準決勝 | Chang Hao | Lee Changho | Win | W+R | 7.5 | 2716 | 8 | 
+| 2002-12-26 | 第4回春蘭杯世界囲碁選手権3回戦 | Lee Changho | Zhou Heyang | Win | B+R | 7.5 | 2708 | 24 | 
+| 2002-10-31 | 第7回LG杯世界棋王戦3回戦 | Yoo Changhyuk | Lee Changho | Win | W+2.5 | 6.5 | 2684 | 19 | 
+| 2002-10-21 | 第21回KBS杯囲碁王戦決勝三番勝負第3局 |  | Lee Changho | Win | W+R | 6.5 | 2665 | 0 | 
+| 2002-10-21 | 第21回KBS杯囲碁王戦決勝三番勝負第2局 | Lee Changho |  | Win | B+R | 6.5 | 2665 | -6 | 
+| 2002-10-10 | 第4回中国囲碁甲級リーグ第14節 | Lee Changho | Gu Li | Lose | W+4.5 | 7.5 | 2671 | -28 | 
+| 2002-10-08 | 第2回KAT杯韓国囲碁最強戦 | Lee Changho | Park Yeonghun | Win | B+R | 6.5 | 2699 | -10 | 
+| 2002-10-04 | 第21回KBS杯囲碁王戦決勝三番勝負第1局 |  | Lee Changho | Lose | B+R | 6.5 | 2709 | -24 | 
+| 2002-10-02 | 第33期名人戦（韓国）挑戦手合五番勝負第4局 | An Joyeong | Lee Changho | Win | W+R | 6.5 | 2733 | 6 | 
+| 2002-09-30 | 第2期KT杯マスターズプロ棋戦2回戦 | Choi Kyubyeong | Lee Changho | Win | W+R | 6.5 | 2727 | -3 | 
+| 2002-09-27 | 第21回KBS杯囲碁王戦本戦5回戦 | Jiang Zhujiu | Lee Changho | Win | W+R | 6.5 | 2730 | 49 | 
+| 2002-09-24 | 第33期名人戦（韓国）挑戦手合五番勝負第3局 | Lee Changho | An Joyeong | Lose | W+0.5 | 6.5 | 2681 | -32 | 
+| 2002-09-17 | 第33期名人戦（韓国）挑戦手合五番勝負第2局 | An Joyeong | Lee Changho | Win | W+R | 6.5 | 2713 | 42 | 
+| 2002-09-12 | 第4回中国囲碁甲級リーグ第13節 | Chang Hao | Lee Changho | Win | W+R | 7.5 | 2671 | 5 | 
+| 2002-09-09 | 第33期名人戦（韓国）挑戦手合五番勝負第1局 | Lee Changho | An Joyeong | Win | B+R | 6.5 | 2666 | -44 | 
+| 2002-08-30 | 第7期三星杯2回戦 | Lee Changho | Hu Yaoyu | Lose | W+R | 6.5 | 2710 | 9 | 
+| 2002-08-28 | 第7期三星杯1回戦 | Lee Changho | Qiu Jun | Win | B+R | 6.5 | 2701 | 83 | 
+| 2002-08-09 | 第2回KAT杯韓国囲碁最強戦 | Lee Changho | Yang Jaeho | Win | B+R | 6.5 | 2618 | 131 | 
+| 2002-08-07 | 第21回KBS杯囲碁王戦本戦4回戦 | Lee Changho | Seo Nungwuk | Win | B+R | 6.5 | 2487 | -14 | 
+| 2002-06-05 | 第21回KBS杯囲碁王戦本戦3回戦 | Lee Changho |  | Win | B+6.5 | 6.5 | 2501 | 4 | 
+| 2002-05-27 | 第7期LG精油杯プロ棋戦1回戦 | Lee Changho | Song Taekon | Lose | W+R | 6.5 | 2497 | -13 | 
+| 2002-05-24 | 第36期覇王戦挑戦手合五番勝負第3局 | Lee Changho | An Joyeong | Win | B+R | 6.5 | 2510 | 15 | 
+| 2002-05-20 | 第4回春蘭杯世界囲碁選手権2回戦 | O Rissei | Lee Changho | Win | W+R | 7.5 | 2495 | -17 | 
+| 2002-05-18 | 第4回春蘭杯世界囲碁選手権1回戦 | Rin Kaiho | Lee Changho | Win | W+8.5 | 7.5 | 2512 | -24 | 
+| 2002-05-13 | 第36期覇王戦挑戦手合五番勝負第2局 | An Joyeong | Lee Changho | Win | W+0.5 | 6.5 | 2536 | 212 | 
+| 2002-05-02 | 第7回LG杯世界棋王戦2回戦 | Lee Changho | Jiang Zhujiu | Win | B+1.5 | 6.5 | 2324 | 24 | 
+| 2002-04-29 | 第45期国手戦（韓国）挑戦手合五番勝負第4局 | Lee Changho | Cho Hunhyun | Win | B+R | 6.5 | 2300 | -92 | 
+| 2002-04-22 | 第36期覇王戦挑戦手合五番勝負第1局 | Lee Changho | An Joyeong | Win | B+0.5 | 6.5 | 2392 | 8 | 
+| 2002-04-18 | 第45期国手戦（韓国）挑戦手合五番勝負第3局 | Cho Hunhyun | Lee Changho | Win | W+R | 6.5 | 2384 | -30 | 
+| 2002-04-08 | 第4回中国囲碁甲級リーグ第2節 | Lee Changho | Hu Yaoyu | Lose | W+R | 7.5 | 2414 | -29 | 
+| 2002-04-04 | 第45期国手戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Cho Hunhyun | Win | B+2.5 | 6.5 | 2443 | -53 | 
+| 2002-04-02 | 第1期KTF杯戦 | Im Seongkeun | Lee Changho | Lose | B+R | 6.5 | 2496 | -5 | 
+| 2002-03-28 | 第13期棋聖戦（韓国）挑戦手合五番勝負第5局 | Lee Changho | Mok Jinseok | Win | B+2.5 | 6.5 | 2501 | -632 | 
+| 2002-03-11 | 第45期国手戦（韓国）挑戦手合五番勝負第1局 | Cho Hunhyun | Lee Changho | Lose | B+R | 6.5 | 3133 | -29 | 
+| 2002-03-07 | 第36期覇王戦本戦第19局 | Lee Changho | An Joyeong | Win | B+R | 6.5 | 3162 | 33 | 
+| 2002-03-04 | 第13期棋聖戦（韓国）挑戦手合五番勝負第4局 | Lee Changho | Mok Jinseok | Win | B+R | 6.5 | 3129 | 51 | 
+| 2002-02-23 | 第13期棋聖戦（韓国）挑戦手合五番勝負第3局 | Mok Jinseok | Lee Changho | Lose | B+R | 6.5 | 3078 | -82 | 
+| 2002-02-19 | 第1期KTF杯戦 | Lee Changho | Yoo Changhyuk | Lose | W+R | 6.5 | 3160 | -18 | 
+| 2002-02-08 | 第21回KBS杯囲碁王戦本戦2回戦 | Lee Changho |  | Win | B+0.5 | 6.5 | 3178 | -46 | 
+| 2002-02-01 | 第3回農心辛ラーメン杯世界囲碁最強戦第14戦 | Zhou Heyang | Lee Changho | Win | W+R | 6.5 | 3224 | -14 | 
+| 2002-01-31 | 第3回農心辛ラーメン杯世界囲碁最強戦第13戦 | Chang Hao | Lee Changho | Win | W+R | 6.5 | 3238 | 9 | 
+| 2002-01-25 | 第13期棋聖戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Mok Jinseok | Win | B+R | 6.5 | 3229 | -42 | 
+| 2002-01-21 | 第45期国手戦（韓国）挑戦者決定戦第2局 | Cho Hanseung | Lee Changho | Win | W+2.5 | 6.5 | 3271 | -5 | 
+| 2002-01-18 | 第6回LG杯世界棋王戦準決勝 | Lee Changho | Cho Hunhyun | Lose | W+R | 6.5 | 3276 | -66 | 
+| 2002-01-14 | 第45期国手戦（韓国）挑戦者決定戦第1局 | Lee Changho | Cho Hanseung | Win | B+R | 6.5 | 3342 | 15 | 
+| 2002-01-10 | 第1期KTF杯戦 | Lee Changho | Chen Shiyuan | Win | B+R | 6.5 | 3327 | 26 | 
+| 2002-01-04 | 第13期棋聖戦（韓国）挑戦手合五番勝負第1局 | Mok Jinseok | Lee Changho | Lose | B+R | 6.5 | 3301 | -9 | 
+| 2001-12-19 | 第1期KTF杯戦 |  | Lee Changho | Win | W+1.5 | 6.5 | 3310 | -15 | 
+| 2001-12-13 | 第45期国手戦（韓国）勝者組決勝 | Cho Hanseung | Lee Changho | Win | W+R | 6.5 | 3325 | 29 | 
+| 2001-12-04 | 第32期名人戦（韓国）挑戦手合五番勝負第5局 | Lee Changho | Yoo Changhyuk | Win | B+3.5 | 6.5 | 3296 | 2 | 
+| 2001-11-23 | 第20回KBS杯囲碁王戦決勝三番勝負第2局 | Lee Changho | Lee Sedol | Win | B+R | 6.5 | 3294 | -3 | 
+| 2001-11-16 | 第32期名人戦（韓国）挑戦手合五番勝負第4局 | Lee Changho | Yoo Changhyuk | Win | B+11.5 | 6.5 | 3297 | -2 | 
+| 2001-11-09 | 第6期三星杯準決勝三番勝負第3局 | Lee Changho | Chang Hao | Lose | W+R | 6.5 | 3299 | 53 | 
+| 2001-11-07 | 第6期三星杯準決勝三番勝負第2局 | Chang Hao | Lee Changho | Win | W+R | 6.5 | 3246 | 4 | 
+| 2001-11-06 | 第6期三星杯準決勝三番勝負第1局 | Lee Changho | Chang Hao | Lose | W+0.5 | 6.5 | 3242 | -7 | 
+| 2001-10-30 | 第6期LG精油杯プロ棋戦決勝五番勝負第3局 | Choi Myeonghun | Lee Changho | Win | W+R | 6.5 | 3249 | -5 | 
+| 2001-10-26 | 第6回LG杯世界棋王戦3回戦 | Luo Xihe | Lee Changho | Win | W+R | 6.5 | 3254 | -14 | 
+| 2001-10-22 | 第45期国手戦（韓国）本戦2回戦 | Lee Changho | Yoo Changhyuk | Win | B+R | 6.5 | 3268 | 7 | 
+| 2001-10-19 | 第20回KBS杯囲碁王戦決勝三番勝負第1局 | Lee Sedol | Lee Changho | Win | W+R | 6.5 | 3261 | 0 | 
+| 2001-10-19 | 第20回KBS杯囲碁王戦敗者復活戦決勝 | Lee Changho | Mok Jinseok | Win | B+R | 6.5 | 3261 | 23 | 
+| 2001-10-10 | 第6期三星杯3回戦 | Lee Sedol | Lee Changho | Win | W+R | 6.5 | 3238 | 11 | 
+| 2001-10-05 | 第32期名人戦（韓国）挑戦手合五番勝負第3局 | Yoo Changhyuk | Lee Changho | Win | W+R | 6.5 | 3227 | 9 | 
+| 2001-09-28 | 第6期LG精油杯プロ棋戦決勝五番勝負第2局 | Lee Changho | Choi Myeonghun | Win | B+R | 6.5 | 3218 | 10 | 
+| 2001-09-26 | 第20回KBS杯囲碁王戦本戦5回戦 | Lee Sedol | Lee Changho | Lose | B+R | 6.5 | 3208 | -2 | 
+| 2001-09-22 | 第32期名人戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Yoo Changhyuk | Lose | W+R | 6.5 | 3210 | -5986 | 
+| 2001-09-13 | 第32期名人戦（韓国）挑戦手合五番勝負第1局 | Yoo Changhyuk | Lee Changho | Lose | B+R | 6.5 | 9196 | -9 | 
+| 2001-09-11 | 第45期国手戦（韓国）本戦1回戦 | Park Cheongsang | Lee Changho | Win | W+7.5 | 6.5 | 9205 | 5 | 
+| 2001-09-08 | 第6期LG精油杯プロ棋戦決勝五番勝負第1局 | Choi Myeonghun | Lee Changho | Win | W+R | 6.5 | 9200 | 99 | 
+| 2001-09-03 | 第6期LG精油杯プロ棋戦準決勝 | Lee Changho | Seo Nungwuk | Win | B+8.5 | 6.5 | 9101 | 86 | 
+| 2001-08-31 | 第6期三星杯2回戦 | Wang Lei (b) | Lee Changho | Win | W+R | 6.5 | 9015 | -45 | 
+| 2001-08-29 | 第6期三星杯1回戦 | Lee Changho | Hikosaka Naoto | Win | B+R | 6.5 | 9060 | 6015 | 
+| 2001-08-22 | 第1期KT杯マスターズプロ棋戦2回戦 | Seo Nungwuk | Lee Changho | Lose | B+0.5 | 6.5 | 3045 | 126 | 
+| 2001-08-01 | 第20回KBS杯囲碁王戦本戦4回戦 | Lee Changho | Seo Nungwuk | Win | B+1.5 | 6.5 | 2919 | -129 | 
+| 2001-07-02 | 第6期LG精油杯プロ棋戦2回戦 | Kim Soojang | Lee Changho | Win | W+R | 6.5 | 3048 | 57 | 
+| 2001-06-14 | 第6回LG杯世界棋王戦2回戦 | Michael Redmond | Lee Changho | Win | W+R | 6.5 | 2991 | 150 | 
+| 2001-05-30 | 第20回KBS杯囲碁王戦本戦3回戦 | Lee Changho | Paek Daehyun | Win | B+4.5 | 6.5 | 2841 | -22 | 
+| 2001-05-19 | 第5回LG杯世界棋王戦決勝五番勝負第5局 | Lee Sedol | Lee Changho | Win | W+R | 6.5 | 2863 | 13 | 
+| 2001-05-17 | 第5回LG杯世界棋王戦決勝五番勝負第4局 | Lee Sedol | Lee Changho | Win | W+R | 6.5 | 2850 | 4 | 
+| 2001-05-15 | 第5回LG杯世界棋王戦決勝五番勝負第3局 | Lee Changho | Lee Sedol | Win | B+7.5 | 6.5 | 2846 | -123 | 
+| 2001-04-04 | 第20回KBS杯囲碁王戦本戦2回戦 | Lee Changho |  | Win | B+R | 6.5 | 2969 | -84 | 
+| 2001-03-23 | 第6期LG精油杯プロ棋戦1回戦 | Lee Changho | Yang Keon | Win | B+R | 6.5 | 3053 | 0 | 
+| 2001-03-19 | 第2回農心辛ラーメン杯世界囲碁最強戦第14戦 | Lee Changho | Kato Masao | Win | B+R | 6.5 | 3053 | 3 | 
+| 2001-03-09 | 第35期覇王戦挑戦手合五番勝負第4局 | Cho Hunhyun | Lee Changho | Win | W+R | 6.5 | 3050 | -8 | 
+| 2001-03-02 | 第35期覇王戦挑戦手合五番勝負第3局 | Lee Changho | Cho Hunhyun | Lose | W+R | 6.5 | 3058 | -10 | 
+| 2001-02-27 | 第5回LG杯世界棋王戦決勝五番勝負第2局 | Lee Sedol | Lee Changho | Lose | B+R | 6.5 | 3068 | -4 | 
+| 2001-02-26 | 第5回LG杯世界棋王戦決勝五番勝負第1局 | Lee Changho | Lee Sedol | Lose | W+R | 6.5 | 3072 | -9 | 
+| 2001-02-23 | 第35期覇王戦挑戦手合五番勝負第2局 | Cho Hunhyun | Lee Changho | Win | W+R | 6.5 | 3081 | 3 | 
+| 2001-02-21 | 第12期棋聖戦（韓国）挑戦手合五番勝負第4局 | Yoo Changhyuk | Lee Changho | Win | W+R | 6.5 | 3078 | 8 | 
+| 2001-02-16 | 第4回応氏杯世界選手権決勝五番勝負第4局 | Lee Changho | Chang Hao | Win | B+3 | 7.5 | 3070 | -67 | 
+| 2001-02-14 | 第4回応氏杯世界選手権決勝五番勝負第3局 | Chang Hao | Lee Changho | Lose | B+R | 7.5 | 3137 | -8 | 
+| 2001-02-08 | 第5回LG杯世界棋王戦準決勝 | O Rissei | Lee Changho | Win | W+2.5 | 6.5 | 3145 | -88 | 
+| 2001-02-05 | 第12期棋聖戦（韓国）挑戦手合五番勝負第3局 | Lee Changho | Yoo Changhyuk | Win | B+2.5 | 6.5 | 3233 | 5 | 
+| 2001-02-02 | 第44期国手戦（韓国）挑戦者決定戦第3局 | Cho Hunhyun | Lee Changho | Lose | B+R | 6.5 | 3228 | -12 | 
+| 2001-01-19 | 第44期国手戦（韓国）挑戦者決定戦第2局 | Cho Hunhyun | Lee Changho | Win | W+3.5 | 6.5 | 3240 | 2 | 
+| 2001-01-16 | 第35期覇王戦挑戦手合五番勝負第1局 | Lee Changho | Cho Hunhyun | Win | B+7.5 | 6.5 | 3238 | 5 | 
+| 2001-01-12 | 第35期覇王戦本戦第19局 | Cho Hunhyun | Lee Changho | Lose | B+10.5 | 6.5 | 3233 | -7 | 
+| 2001-01-09 | 第44期国手戦（韓国）挑戦者決定戦第1局 | Lee Changho | Cho Hunhyun | Lose | W+R | 6.5 | 3240 | -30 | 
+| 2001-01-05 | 第12期棋聖戦（韓国）挑戦手合五番勝負第1局 | Lee Changho | Yoo Changhyuk | Win | B+1.5 | 6.5 | 3270 | 3270 | 
+| 2000-12-22 | 第44期国手戦（韓国）勝者組決勝 | Lee Changho | Paek Daehyun | Win | B+R | 6.5 | missing | 0 | 
+| 2000-12-20 | 第19回KBS杯囲碁王戦決勝三番勝負第3局 | Mok Jinseok | Lee Changho | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-12-20 | 第19回KBS杯囲碁王戦決勝三番勝負第2局 | Lee Changho | Mok Jinseok | Win | B+7.5 | 6.5 | missing | 0 | 
+| 2000-12-18 | 第35期覇王戦本戦第18局 | Lee Changho | Han Chongjin | Win | B+R | 6.5 | missing | 0 | 
+| 2000-12-11 | 第35期覇王戦本戦第17局 |  | Lee Changho | Win | W+R | 6.5 | missing | 0 | 
+| 2000-12-01 | 第19回KBS杯囲碁王戦決勝三番勝負第1局 | Mok Jinseok | Lee Changho | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-11-30 | 第35期覇王戦本戦第16局 | Lee Changho | Ha Chanseok | Win | B+R | 6.5 | missing | 0 | 
+| 2000-11-28 | 第35期覇王戦本戦第15局 | Lee Changho |  | Win | B+R | 6.5 | missing | 0 | 
+| 2000-11-14 | 第5回LG杯世界棋王戦3回戦 | Lee Changho | Ma Xiaochun | Win | B+R | 6.5 | missing | 0 | 
+| 2000-11-09 | 第35期覇王戦本戦第14局 | Ryu Chaehyeong | Lee Changho | Win | W+R | 6.5 | missing | 0 | 
+| 2000-11-03 | 第4回応氏杯世界選手権決勝五番勝負第2局 | Lee Changho | Chang Hao | Win | B+1 | 7.5 | missing | 0 | 
+| 2000-11-01 | 第4回応氏杯世界選手権決勝五番勝負第1局 | Chang Hao | Lee Changho | Win | W+7 | 7.5 | missing | 0 | 
+| 2000-10-27 | 第35期覇王戦本戦第13局 | Lee Changho | Kim Chanwu | Win | B+R | 6.5 | missing | 0 | 
+| 2000-10-23 | 第31期名人戦（韓国）挑戦手合五番勝負第3局 | Cho Hunhyun | Lee Changho | Win | W+1.5 | 6.5 | missing | 0 | 
+| 2000-10-16 | 第35期覇王戦本戦第12局 | Lee Changho | An Joyeong | Win | B+R | 6.5 | missing | 0 | 
+| 2000-10-13 | 第44期国手戦（韓国）本戦2回戦 | Choi Cheolhan | Lee Changho | Win | W+R | 6.5 | missing | 0 | 
+| 2000-10-10 | 第31期名人戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Cho Hunhyun | Win | B+R | 6.5 | missing | 0 | 
+| 2000-10-04 | 第35期覇王戦本戦第10局 | Lee Changho | Lee Sedol | Win | B+9.5 | 6.5 | missing | 0 | 
+| 2000-10-02 | 第35期覇王戦本戦第9局 | Lee Changho | Cho Hanseung | Win | B+R | 6.5 | missing | 0 | 
+| 2000-09-27 | 第31期名人戦（韓国）挑戦手合五番勝負第1局 | Cho Hunhyun | Lee Changho | Win | W+R | 6.5 | missing | 0 | 
+| 2000-09-25 | 第8期倍達王戦準決勝 | Lee Changho | Lee Sedol | Lose | W+5.5 | 6.5 | missing | 0 | 
+| 2000-09-22 | 第35期覇王戦本戦第8局 | Lee Changho |  | Win | B+R | 6.5 | missing | 0 | 
+| 2000-09-18 | 第4回中韓天元対抗戦第2局 | Chang Hao | Lee Changho | Win | W+R | 6.5 | missing | 0 | 
+| 2000-09-16 | 第4回中韓天元対抗戦第1局 | Lee Changho | Chang Hao | Win | B+7.5 | 6.5 | missing | 0 | 
+| 2000-09-08 | 第5期LG精油杯プロ棋戦準決勝 | Lee Changho | Rui Naiwei | Lose | W+R | 6.5 | missing | 0 | 
+| 2000-09-06 | 第19回KBS杯囲碁王戦本戦5回戦 |  | Lee Changho | Win | W+2.5 | 6.5 | missing | 0 | 
+| 2000-09-04 | 第35期覇王戦本戦第7局 | Lee Changho | Seo Nungwuk | Win | B+3.5 | 6.5 | missing | 0 | 
+| 2000-09-01 | 第5期三星杯2回戦 | Lee Changho | Zhou Heyang | Lose | W+R | 6.5 | missing | 0 | 
+| 2000-08-30 | 第5期三星杯1回戦 | Lee Changho | Nakano Hironari | Win | B+R | 6.5 | missing | 0 | 
+| 2000-08-28 | 第2回農心杯韓国選抜戦 | Lee Changho |  | Win | B+R | 6.5 | missing | 0 | 
+| 2000-08-24 | 第4回応氏杯世界選手権準決勝三番勝負第2局 | Lee Changho | Yu Bin | Win | B+R | 7.5 | missing | 0 | 
+| 2000-08-22 | 第4回応氏杯世界選手権準決勝三番勝負第1局 | Yu Bin | Lee Changho | Win | W+5 | 7.5 | missing | 0 | 
+| 2000-08-16 | 第19回KBS杯囲碁王戦本戦4回戦 | Lee Changho |  | Win | B+R | 6.5 | missing | 0 | 
+| 2000-08-12 | 第8期倍達王戦2回戦 | Lee Changho | Mok Jinseok | Win | B+R | 6.5 | missing | 0 | 
+| 2000-08-02 | 第35期覇王戦本戦第6局 | Lee Changho | Lee Huiseong | Win | B+1.5 | 6.5 | missing | 0 | 
+| 2000-07-26 | 第35期覇王戦本戦第5局 | Hong Taesun | Lee Changho | Win | W+R | 6.5 | missing | 0 | 
+| 2000-07-21 | 第5期LG精油杯プロ棋戦2回戦 | Kim Seungjun | Lee Changho | Win | W+4.5 | 6.5 | missing | 0 | 
+| 2000-07-14 | 第35期覇王戦本戦第4局 | Seo Bongsoo | Lee Changho | Win | W+R | 6.5 | missing | 0 | 
+| 2000-07-11 | 第44期国手戦（韓国）本戦1回戦 | Kim Soojang | Lee Changho | Win | W+R | 6.5 | missing | 0 | 
+| 2000-06-30 | 第35期覇王戦本戦第3局 | Lee Changho | Yun Kihyeon | Win | B+R | 6.5 | missing | 0 | 
+| 2000-06-28 | 第35期覇王戦本戦第2局 | Lee Changho | Yang Jaeho | Win | B+R | 6.5 | missing | 0 | 
+| 2000-06-15 | 第5回LG杯世界棋王戦2回戦 | Hikosaka Naoto | Lee Changho | Win | W+R | 6.5 | missing | 0 | 
+| 2000-06-08 | 第5期バッカス杯天元戦2回戦 | Lee Changho | Ryu Chaehyeong | Lose | W+4.5 | 6.5 | missing | 0 | 
+| 2000-06-02 | 第8期倍達王戦1回戦 | Lee Changho |  | Win | B+R | 6.5 | missing | 0 | 
+| 2000-05-22 | 第35期覇王戦本戦第1局 |  | Lee Changho | Win | W+3.5 | 6.5 | missing | 0 | 
+| 2000-05-19 | 第5期バッカス杯天元戦1回戦 | Lee Changho | An Joyeong | Win | B+R | 6.5 | missing | 0 | 
+| 2000-05-04 | 第4回応氏杯世界選手権3回戦 | Lee Changho | Yoda Norimoto | Win | B+3 | 7.5 | missing | 0 | 
+| 2000-05-02 | 第4回応氏杯世界選手権2回戦 | O Rissei | Lee Changho | Win | W+R | 7.5 | missing | 0 | 
+| 2000-04-03 | 第5期LG精油杯プロ棋戦1回戦 | Kim Ilhwan | Lee Changho | Win | W+R | 6.5 | missing | 0 | 
+| 2000-03-28 | 第1回農心辛ラーメン杯世界囲碁最強戦第14戦 | Ma Xiaochun | Lee Changho | Win | W+R | 6.5 | missing | 0 | 
+| 2000-03-27 | 第1回農心辛ラーメン杯世界囲碁最強戦第13戦 | Cho Sonjin | Lee Changho | Win | W+R | 6.5 | missing | 0 | 
+| 2000-02-22 | 第19回KBS杯囲碁王戦本戦2回戦 | Choi Cheolhan | Lee Changho | Win | W+R | 6.5 | missing | 0 | 
+| 2000-02-10 | 第4回LG杯世界棋王戦準決勝 | Yoo Changhyuk | Lee Changho | Lose | B+5.5 | 6.5 | missing | 0 | 
+| 1999-12-07 | 第4期三星杯決勝五番勝負第3局 | Cho Sonjin | Lee Changho | Win | W+4.5 | 6.5 | missing | 0 | 
+| 1999-12-06 | 第4期三星杯決勝五番勝負第2局 | Lee Changho | Cho Sonjin | Win | B+R | 6.5 | missing | 0 | 
+| 1999-11-23 | 第4期三星杯決勝五番勝負第1局 | Cho Sonjin | Lee Changho | Win | W+R | 6.5 | missing | 0 | 
+| 1999-11-15 | 第4回LG杯世界棋王戦3回戦 | Ma Xiaochun | Lee Changho | Win | W+0.5 | 6.5 | missing | 0 | 
+| 1999-10-28 | 第4期三星杯準決勝 | Lee Changho | Yamada Kimio | Win | B+R | 6.5 | missing | 0 | 
+| 1999-10-06 | 第4期三星杯3回戦 | Chang Hao | Lee Changho | Win | W+R | 6.5 | missing | 0 | 
+| 1999-09-09 | 第4期三星杯2回戦 | O Rissei | Lee Changho | Win | W+2.5 | 6.5 | missing | 0 | 
+| 1999-09-07 | 第4期三星杯1回戦 | Lee Changho | Yu Bin | Win | B+7.5 | 6.5 | missing | 0 | 
+| 1999-06-17 | 第4回LG杯世界棋王戦2回戦 | Kato Masao | Lee Changho | Win | W+R | 6.5 | missing | 0 | 
+| 1999-05-10 | 第3回LG杯世界棋王戦決勝五番勝負第3局 | Lee Changho | Ma Xiaochun | Win | B+R | 6.5 | missing | 0 | 
+| 1999-03-04 | 第3回LG杯世界棋王戦決勝五番勝負第2局 | Ma Xiaochun | Lee Changho | Win | W+3.5 | 6.5 | missing | 0 | 
+| 1999-03-02 | 第3回LG杯世界棋王戦決勝五番勝負第1局 | Lee Changho | Ma Xiaochun | Win | B+R | 6.5 | missing | 0 | 
+| 1999-01-13 | 第3回LG杯世界棋王戦準決勝 | Lee Changho | Shao Weigang | Win | B+2.5 | 6.5 | missing | 0 | 
+| 1998-10-26 | 第3回LG杯世界棋王戦3回戦 | Lee Changho | Zhou Junxun | Win | B+R | 6.5 | missing | 0 | 
+| 1998-06-18 | 第3回LG杯世界棋王戦2回戦 | Lee Changho | Chang Hao | Win | B+R | 6.5 | missing | 0 | 
+| 1996-04-28 | 第3回応氏杯世界選手権3回戦 | Lee Changho | Yoo Changhyuk | Lose | W+R | 7.5 | missing | 0 | 
+| 1996-04-26 | 第3回応氏杯世界選手権2回戦 | Rui Naiwei | Lee Changho | Win | W+7 | 7.5 | missing | 0 | 
+| 1996-04-24 | 第3回応氏杯世界選手権1回戦 | Lee Changho | Yu Bin | Win | B+7 | 7.5 | missing | 0 | 
+| 1992-07-15 | 第2回応氏杯世界選手権2回戦 | Rui Naiwei | Lee Changho | Lose | B+R | 7.5 | missing | missing |
 
 
 

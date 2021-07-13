@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-13 | 2021陜川歴代英才vs女子頂上連勝対抗戦第6局 | Kim Cheayoung | Moon Minjong | Win | W+R | 6.5 | 3255 | 2 | 
 | 2021-07-12 | 2021陜川歴代英才vs女子頂上連勝対抗戦第5局 | Kim Hyeoimin | Moon Minjong | Win | W+4.5 | 6.5 | 3253 | 29 | 
 | 2021-07-06 | 2021陜川歴代英才vs女子頂上連勝対抗戦第4局 | Moon Minjong | Oh Jeonga | Win | B+R | 6.5 | 3224 | 4 | 
 | 2021-07-05 | 2021陜川歴代英才vs女子頂上連勝対抗戦第3局 | Moon Minjong |  | Win | B+0.5 | 6.5 | 3220 | -6 | 

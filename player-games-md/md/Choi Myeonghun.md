@@ -5,198 +5,199 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第13回GGオークション杯女流対シニア連勝対抗戦第20局 | Choi Jeong | Choi Myeonghun | W+R | 2020-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6%2BaMfVDLVdf8id4arTKfYg%3D%3D) | 
-| 第25期GSカルテックス杯プロ棋戦予選決勝 | Baek Hyeonwoo | Choi Myeonghun | B+7.5 | 2019-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dNrSmCI%2FvGFC5FSGBmCjgg%3D%3D) | 
-| 第12回GGオークション杯女流対シニア連勝対抗戦第16局 | Oh Yujin | Choi Myeonghun | B+2.5 | 2018-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eCZHoDvvzRUxL9FEvrDkMg%3D%3D) | 
-| 第19回農心杯韓国選抜戦 | Han Seungjoo | Choi Myeonghun | B+R | 2017-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nIPqOyFOF%2B6zrihD01eCGw%3D%3D) | 
-| 第19回農心杯韓国選抜戦 | Lee Donghoon | Choi Myeonghun | W+R | 2017-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NdtzQ%2BQ%2Bwz3bpnwZFBxGYQ%3D%3D) | 
-| 第35回KBS杯囲碁王戦1回戦 | Choi Myeonghun | Choi Jaeyoung | W+17.5 | 2016-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ADGvQ4RRQfSTily%2BUXqkLA%3D%3D) | 
-| 第21回LG杯予選 | Choi Myeonghun | Zhou Ruiyang | W+5.5 | 2016-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3a3UNaYCRx2da0%2BFi%2FJbQg%3D%3D) | 
-| 2015年レッツランパーク杯オープントーナメント1回戦 | Yun Chanhee | Choi Myeonghun | B+3.5 | 2015-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X31pB8%2FrOF%2Femh7rnOjPDA%3D%3D) | 
-| 第34回KBS杯囲碁王戦1回戦 | Kim Sedong | Choi Myeonghun | B+1.5 | 2015-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cHXMRyXtSatAuyJNtGF9wQ%3D%3D) | 
-| 第19回LG杯予選 | Mi Yuting | Choi Myeonghun | B+9.5 | 2014-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jsg7Wa9cZgMjQvU0IvTqpQ%3D%3D) | 
-| 第32回KBS杯囲碁王戦敗者復活戦1回戦 | Lee Huiseong | Choi Myeonghun | B+R | 2013-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LplXEzLMKK9mj0d33PUBeQ%3D%3D) | 
-| 第15回農心杯韓国選抜戦 | Han Sanghoon | Choi Myeonghun | B+2.5 | 2013-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RuX%2FraRjTcnLIwOzS5AJsA%3D%3D) | 
-| 第32回KBS杯囲碁王戦本戦2回戦 | Choi Myeonghun | Weon Seongjin | W+2.5 | 2013-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ROLZkTt6R5W05Ar8Mk0JEg%3D%3D) | 
-| 第32回KBS杯囲碁王戦本戦1回戦 | Choi Myeonghun | An Sungjoon | B+R | 2013-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SVi4O3xn3aeOPNx3qsqCxw%3D%3D) | 
-| 第8期圓益杯十段戦2回戦 | Choi Myeonghun | Lee Yeongkyu | W+R | 2012-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pCJxHkU2vwOcGSbgqtQPvA%3D%3D) | 
-| 第8期圓益杯十段戦1回戦 | Choi Myeonghun | Kim Kiwon | B+R | 2012-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OLpEwkqCIro8uDyrzUyfLA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Choi Myeonghun | An Sungjoon | W+1.5 | 2012-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c97KfS9uLcCla5qtSSSIbQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Choi Myeonghun | Kim Dongho | W+9.5 | 2012-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h6TzfKvpOe5kFl2Al4diyQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Donghoon | Choi Myeonghun | B+R | 2012-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i3787N%2BeqrTAX4NkE2yC2Q%3D%3D) | 
-| 2012年韓国囲碁リーグ | On Sojin | Choi Myeonghun | B+0.5 | 2012-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fZRd%2B0x2cTSeoXCDS3MjGg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Heo Yongho | Choi Myeonghun | B+13.5 | 2012-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W2AIs5LzOlWzJJjGzBFOpg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Choi Myeonghun | Park Cheongsang | B+0.5 | 2012-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ck55t%2FudJ7kglSMjh56V2Q%3D%3D) | 
-| 2012年韓国囲碁リーグ | Kim Dongho | Choi Myeonghun | B+R | 2012-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AqHQVZy33MKTlJmMILdSWg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Choi Myeonghun | Lee Donghoon | W+R | 2012-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IARtPJ%2BMsiPmTKKYUP8NYQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Kang Dongyun | Choi Myeonghun | B+7.5 | 2012-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F2tVnhRHBQLbJWPr1OfQ8g%3D%3D) | 
-| 2012年韓国囲碁リーグ | Choi Myeonghun | Lee Chungyu | B+R | 2012-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wxnmf9UiFYXZlUOC1wXQdg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Choi Myeonghun | Han Sanghoon | W+R | 2012-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MLakgOAiZrGD1wZP%2F1qgWw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Choi Myeonghun | Yoo Jaeho | B+R | 2012-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9AAmh34zbvZ7EFc0sPnABQ%3D%3D) | 
-| 第7期圓益杯十段戦1回戦 | Choi Myeonghun | Kim Sedong | W+1.5 | 2011-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=87ygX%2BhcTwXqgAYYlA28Ig%3D%3D) | 
-| 第13回マキシムコーヒー杯入神最強戦1回戦 | Choi Myeonghun | Lee Sedol | W+R | 2011-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SXRUOz6x3f3nXvIqJPpbmQ%3D%3D) | 
-| 第16回三星火災杯統合予選決勝 | Tan Xiao | Choi Myeonghun | B+R | 2011-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ONQH4vf%2FFGDBRvnglDBiVg%3D%3D) | 
-| 第16期GSカルテックス杯プロ棋戦1回戦 | Kang Changbae | Choi Myeonghun | B+4.5 | 2011-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nc8z269VKIP2C6mYUesPiA%3D%3D) | 
-| 第3回BCカード杯世界選手権1回戦 | Sun Li | Choi Myeonghun | B+R | 2011-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e6FGHPxXFTTQtZ%2FIibfN2Q%3D%3D) | 
-| 第15回LG杯予選 | Choi Myeonghun | Qiu Jun | W+R | 2010-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7ySulO3iOm8RBXmB5mrhkA%3D%3D) | 
-| 第2回BCカード杯世界選手権1回戦 | Choi Myeonghun | Ding Wei | W+4.5 | 2010-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KNBl58inE%2FvzR1YNyxr4tg%3D%3D) | 
-| 2009年韓国囲碁リーグ | Park Seunghwa | Choi Myeonghun | B+R | 2009-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s10Yxu0VwW9MtwgZ4f1SyQ%3D%3D) | 
-| 第5期圓益杯十段戦2回戦 | Kang Yootaek | Choi Myeonghun | B+1.5 | 2009-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TM6%2Bumekxw1DBlofT%2B9SOg%3D%3D) | 
-| 第37期名人戦（韓国）リーグB | Choi Myeonghun | missing | B+R | 2009-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qpPZY8kpJ84f2BcI734H6A%3D%3D) | 
-| 第37期名人戦（韓国）リーグB | missing | Choi Myeonghun | B+1.5 | 2009-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u2yu9FccirDB1Wo13RBZfw%3D%3D) | 
-| 2009年韓国囲碁リーグ | Choi Myeonghun | Han Sanghoon | W+6.5 | 2009-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U5rw8bN7KGzDlhBZt5PKRQ%3D%3D) | 
-| 第37期名人戦（韓国）リーグB | Weon Seongjin | Choi Myeonghun | B+R | 2009-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NNHHOpvdNhnf5kH6hHSFPg%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Jungwoo | Choi Myeonghun | B+3.5 | 2009-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F%2BrlWOrArvv%2FbjPyW%2FKDxA%3D%3D) | 
-| 第5期圓益杯十段戦1回戦 | Choi Myeonghun | On Sojin | B+R | 2009-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PzMxagk6EdAoulb6Itsriw%3D%3D) | 
-| 2009年韓国囲碁リーグ | Choi Myeonghun | Yun Junsang | B+1.5 | 2009-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gEXCcKjObN%2BdSW7jOCygcw%3D%3D) | 
-| 第37期名人戦（韓国）リーグB | Choi Myeonghun | Han Sanghoon | B+R | 2009-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ig3rtBW1Uapv63CEy3bFzQ%3D%3D) | 
-| 2009年韓国囲碁リーグ | Choi Myeonghun | Park Siyeol | W+0.5 | 2009-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IglUlnYxauN%2FXZJAhSoNMQ%3D%3D) | 
-| 2009年韓国囲碁リーグ | Choi Myeonghun | Park Seunghwa | W+R | 2009-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XZSnusKl%2FsZOSx4heJUciw%3D%3D) | 
-| 第37期名人戦（韓国）リーグB | Lee Changho | Choi Myeonghun | B+R | 2009-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rYFBc7BjEmUTEvcLFndSHg%3D%3D) | 
-| 2009年韓国囲碁リーグ | Choi Myeonghun | Han Sanghoon | W+R | 2009-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uL6w3ZfJIMXbcnwea02M7Q%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Wondo | Choi Myeonghun | W+1.5 | 2009-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jqYkE%2FNzFaLqWoD53oXjmA%3D%3D) | 
-| 第37期名人戦（韓国）予選 | Lee Taehyun | Choi Myeonghun | W+R | 2009-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8GLXdPxq9WMJHGl92s%2B9XQ%3D%3D) | 
-| 2009年韓国囲碁リーグ | Choi Myeonghun | Han Wonggyu | B+11.5 | 2009-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z9YqMsaQPhIpm4RtLAxQjw%3D%3D) | 
-| 2009年韓国囲碁リーグ | Kang Yootaek | Choi Myeonghun | B+1.5 | 2009-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FhN%2B19SrxMKJIC2eDMuZZQ%3D%3D) | 
-| 2009年韓国囲碁リーグ | Choi Myeonghun | Ko Keuntae | B+R | 2009-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OS1nlPJpZx6P%2FVtXqalBJg%3D%3D) | 
-| 第28回KBS杯囲碁王戦本戦1回戦 | Lee Jungwoo | Choi Myeonghun | B+0.5 | 2009-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Uh5RJmaNWmfp0yCtqmV8XQ%3D%3D) | 
-| 第1回BCカード杯世界選手権1回戦 | Choi Myeonghun | Piao Wenyao | W+R | 2009-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TO9ISUEaBo5cb0ItOnCPbg%3D%3D) | 
-| 2008年韓国囲碁リーグ | Kim Seonryong | Choi Myeonghun | B+5.5 | 2008-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tGEABrCieubTVwMSYAJp2w%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Kang Dongyun | Choi Myeonghun | B+4.5 | 2008-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4809MDBIfE1E%2B%2BegPUzMrQ%3D%3D) | 
-| 2008年韓国囲碁リーグ | Choi Myeonghun | Lee Changho | B+R | 2008-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m7QP%2Fkyuxnmg2SyytD612Q%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Choi Myeonghun | Cho Hunhyun | W+R | 2008-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7LzqtOss6JXuVQd6u2t%2BDQ%3D%3D) | 
-| 2008年韓国囲碁リーグ | Choi Myeonghun | Kim Soojang | B+0.5 | 2008-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7V0Vl0qfuAXbVjLwP5vlNQ%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Choi Myeonghun | Lee Sedol | B+0.5 | 2008-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gz%2B26TxRhOySQp2xX2vlPw%3D%3D) | 
-| 2008年韓国囲碁リーグ | missing | Choi Myeonghun | W+1.5 | 2008-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=joUe7U6ik99kNSdaodyWMw%3D%3D) | 
-| 第4期圓益杯十段戦2回戦 | Park Cheongsang | Choi Myeonghun | B+R | 2008-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tbgkvBNwbXm78dWQ6TTA%2Fw%3D%3D) | 
-| 2008年韓国囲碁リーグ | Choi Myeonghun | Bae Junhee | B+1.5 | 2008-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FT%2F7hKi89ZFdnlpoNT5PHg%3D%3D) | 
-| 第4期圓益杯十段戦1回戦 | Choi Myeonghun | Lee Jaeung | B+R | 2008-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZPYxpmGAVUn4DM9TIfIScA%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Weon Seongjin | Choi Myeonghun | B+R | 2008-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CHchp4V6%2FzVKpo1mhOt8cw%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Mok Jinseok | Choi Myeonghun | B+6.5 | 2008-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1dC%2BwttMsWVkCyq4KGO5kw%3D%3D) | 
-| 2008年韓国囲碁リーグ | Park Yeonghun | Choi Myeonghun | B+R | 2008-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sWnn5Q8dBcQUhJ0wRmFn4A%3D%3D) | 
-| 2008年韓国囲碁リーグ | Choi Myeonghun | Kim Jiseok | B+R | 2008-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6kmkldN7uZY6PFtBKsE0hg%3D%3D) | 
-| 2008年韓国囲碁リーグ | Lee Yeongkyu | Choi Myeonghun | W+R | 2008-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rb1HWj%2BcmcOG7nIvv8%2FsNA%3D%3D) | 
-| 2008年韓国囲碁リーグ | Choi Myeonghun | Han Sanghoon | W+R | 2008-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OD%2FWnZjQKm7ri0jt%2F5q%2FJw%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Lee Changho | Choi Myeonghun | B+R | 2008-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vm%2FxCnPlMxX6B1VoPJQePA%3D%3D) | 
-| 2008年韓国囲碁リーグ | Choi Myeonghun | Ko Keuntae | W+R | 2008-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VY79PoShODBNCmGljFFOjA%3D%3D) | 
-| 2008年韓国囲碁リーグ | Kang Yootaek | Choi Myeonghun | W+R | 2008-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=flY7GVsFQ%2BB1HkAt0bpd%2Bw%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Choi Myeonghun | Cho Hanseung | W+6.5 | 2008-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T0ohjLSID903MH8buGOU%2Fw%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Choi Wongyong | Choi Myeonghun | B+R | 2008-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QdfFD6%2BV5Rv3qezmpqnIvg%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Park Cheongsang | Choi Myeonghun | W+R | 2008-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0WmI9oWzKBFd3POChAZQ4A%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦リーグ | On Sojin | Choi Myeonghun | W+0.5 | 2007-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yd94Z7KAEXtUXeI4zjPqBw%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦リーグ | Choi Myeonghun | Choi Cheolhan | W+R | 2007-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FQWEPUDQRCabpIeet7icJg%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦リーグ | Park Yeonghun | Choi Myeonghun | B+5.5 | 2007-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WaJEMYBafumrWFaw8ECVjA%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦リーグ | Hong Seongji | Choi Myeonghun | B+0.5 | 2007-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JEsHCsTfdV%2FrMvpvLPiivg%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦リーグ | Choi Myeonghun | Lee Changho | W+11.5 | 2007-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A2QBHy75XrxxyoeEJxf4Yw%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦リーグ | Choi Myeonghun | Mok Jinseok | W+R | 2007-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2rmkaL6LeKjq5NzsGv%2Bw4A%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦リーグ | Choi Myeonghun | Cho Hanseung | W+R | 2007-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wlU9Sk0ywY7ZJlqbcZm9qQ%3D%3D) | 
-| 第8回マキシムコーヒー杯入神最強戦1回戦 | Choi Myeonghun | Kim Seonryong | B+R | 2006-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jVy0X5dbsBOu%2B3wMYXRyPA%3D%3D) | 
-| 第8回農心杯韓国選抜戦 | Choi Myeonghun | Choi Cheolhan | W+R | 2006-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Htlt6mTL5EqjtgE6yZRYBQ%3D%3D) | 
-| 第8回農心杯韓国選抜戦 | Mok Jinseok | Choi Myeonghun | W+R | 2006-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ekb5AMhQXRMtrZI%2F5XiRA%3D%3D) | 
-| 第11回LG杯世界棋王戦1回戦 | Choi Myeonghun | Yu Bin | W+9.5 | 2006-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iBmCNDO4u1faB1WmsxLUEQ%3D%3D) | 
-| 第11期バッカス杯天元戦1回戦 | Choi Myeonghun | Mok Jinseok | W+4.5 | 2006-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pEc1O3rqFfIq8rFZqcbKlQ%3D%3D) | 
-| 第11回LG杯予選 | Lee Jaeung | Choi Myeonghun | W+1.5 | 2006-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ON%2BIev5AHeoaCoBHbDATaA%3D%3D) | 
-| 第7回マキシムコーヒー杯入神最強戦1回戦 | An Joyeong | Choi Myeonghun | B+R | 2005-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OPBWT2t9qAuDGQ8fvrAk0Q%3D%3D) | 
-| 第10回LG杯世界棋王戦1回戦 | Choi Myeonghun | Luo Xihe | W+R | 2005-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6osJ1OOTLQH1nYsIYAVffw%3D%3D) | 
-| 第6回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Choi Myeonghun | B+R | 2004-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jKWGla53DHlXIR9DSbydLQ%3D%3D) | 
-| 第9期LG精油杯プロ棋戦2回戦 | Yun Junsang | Choi Myeonghun | B+1.5 | 2004-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7CUejjhk5iI3fHGSlOMieg%3D%3D) | 
-| 第1期電子ランド杯王中王戦2回戦 | Choi Myeonghun | Choi Kyubyeong | W+1.5 | 2004-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kXMyR7CmxUuM5MMi1Iw5tA%3D%3D) | 
-| 第1期電子ランド杯王中王戦1回戦 | Choi Myeonghun | Cho Hanseung | B+R | 2004-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MonXKgqJBrC%2FQCqy%2BKVFYA%3D%3D) | 
-| 第9期LG精油杯プロ棋戦1回戦 | Choi Myeonghun | Yoo Changhyuk | B+R | 2004-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NSgQHRLvWR3FiY6mzQjnTw%3D%3D) | 
-| 第9期バッカス杯天元戦1回戦 | Choi Cheolhan | Choi Myeonghun | B+R | 2004-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BtWQtND%2BlLxHxUh9JzjxGg%3D%3D) | 
-| 第48期国手戦（韓国）予選 | Yoo Changhyuk | Choi Myeonghun | B+0.5 | 2004-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mHo6MLoSeoAnz1G5v%2F4eyg%3D%3D) | 
-| 第1回韓国ドリームリーグ | Choi Myeonghun | Choi Cheolhan | W+4.5 | 2003-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bdlhOU5ufAIjjZ5Zx59jXQ%3D%3D) | 
-| 第1回韓国ドリームリーグ | Choi Myeonghun | Choi Kyubyeong | W+R | 2003-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ssor75lfRlfw5NdT31NreA%3D%3D) | 
-| 第1回韓国ドリームリーグ | Choi Myeonghun | Mok Jinseok | W+3.5 | 2003-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=inVoGdUdYpfQYMRBTRCRXw%3D%3D) | 
-| 第15期棋聖戦（韓国）1回戦 | Ryu Chaehyeong | Choi Myeonghun | B+R | 2003-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=96zN3TSjhz%2FkuC1ABeMIeQ%3D%3D) | 
-| 第1回韓国ドリームリーグ | Choi Myeonghun | missing | B+R | 2003-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D2kIVqo8gg21e61IOl%2BnhA%3D%3D) | 
-| 第8期LG精油杯プロ棋戦2回戦 | Choi Myeonghun | An Joyeong | W+6.5 | 2003-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RjEgGnW2M75ShebEQ2jlCg%3D%3D) | 
-| 第5回農心杯韓国選抜戦 | Choi Myeonghun | Heo Yongho | W+8.5 | 2003-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sXzwS5yvm6q%2BeVHhjGpfHg%3D%3D) | 
-| 第1回韓国ドリームリーグ | Choi Myeonghun | Kim Myeongwan | W+3.5 | 2003-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2DINlPN0AKdqDTWGh8Eqvw%3D%3D) | 
-| 第8期LG精油杯プロ棋戦1回戦 | Paek Seongho | Choi Myeonghun | W+R | 2003-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bpi0%2Bp4ssPe9Lfo7x3tEBA%3D%3D) | 
-| 第16回世界囲碁選手権富士通杯1回戦 | Choi Myeonghun | Hane Naoki | W+R | 2003-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R%2FbZ9Um1h47lkPyXZO0StA%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | Choi Myeonghun | Li Kang | W+4.5 | 2003-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MnJ89aWXIk5RsQGMhJ0wIg%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | Wang Haoyang | Choi Myeonghun | W+R | 2003-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bo%2B%2BzM2RzAigEMeWxakx8A%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | Choi Myeonghun | Piao Wenyao | W+R | 2003-04-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BN4QhjIUQheHraYTsRa1TQ%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | Liu Jing | Choi Myeonghun | B+R | 2003-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FVYM%2FxxXInuHYR9%2Fo1CsNg%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | Choi Myeonghun | missing | B+R | 2003-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=avYn9M9%2BLKuM%2FiYL4D2DAQ%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | missing | Choi Myeonghun | W+2.5 | 2003-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6vAX6L0OZvrRQtRUi2iA7w%3D%3D) | 
-| 第3回KAT杯韓国囲碁最強戦 | Cho Hunhyun | Choi Myeonghun | W+0.5 | 2003-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8V6HFG5xpNRvTuU%2BEvfzcw%3D%3D) | 
-| 第37期覇王戦本戦第14局 | Lee Sedol | Choi Myeonghun | B+R | 2003-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DoMurrOISuPKNuPuXfXOWg%3D%3D) | 
-| 第2期KT杯マスターズプロ棋戦3回戦 | Choi Myeonghun | Lee Changho | W+0.5 | 2003-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ojYBHASCisq5xgKQGOftZw%3D%3D) | 
-| 第2期KT杯マスターズプロ棋戦2回戦 | Paek Hongseok | Choi Myeonghun | W+R | 2002-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jL9o%2B5ysHm7hcrFOLUG9Eg%3D%3D) | 
-| 第7期LG精油杯プロ棋戦決勝五番勝負第4局 | Choi Myeonghun | Lee Sedol | W+R | 2002-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C%2BnPYdWvlh7P%2FniGUwJ8IA%3D%3D) | 
-| 第7期LG精油杯プロ棋戦決勝五番勝負第3局 | Lee Sedol | Choi Myeonghun | B+R | 2002-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lwxG40nOyaxtPadA7y6Z1A%3D%3D) | 
-| 第7期LG精油杯プロ棋戦決勝五番勝負第2局 | Choi Myeonghun | Lee Sedol | B+R | 2002-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bn%2Fe0kx%2Bjip3xMPPSlzF8g%3D%3D) | 
-| 第7期三星杯3回戦 | Choi Myeonghun | Wang Lei (b) | W+2.5 | 2002-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BYqxXAjNWZeQmpVqhqltCg%3D%3D) | 
-| 第7期LG精油杯プロ棋戦決勝五番勝負第1局 | Lee Sedol | Choi Myeonghun | B+R | 2002-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ij3Au0LArPC5aM7vlwkQYA%3D%3D) | 
-| 第14期棋聖戦（韓国）1回戦 | Song Taekon | Choi Myeonghun | B+R | 2002-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tVLitGJuZ4QooVNXCUjygw%3D%3D) | 
-| 第7期LG精油杯プロ棋戦準決勝 | Choi Myeonghun | Park Yeonghun | B+1.5 | 2002-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FyO84lb7pYwAdiUodAXQXg%3D%3D) | 
-| 第7期三星杯2回戦 | Choi Myeonghun | Zhang Wendong | B+R | 2002-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qcFrKJ%2Bxj9l3Ds1nKeYP6w%3D%3D) | 
-| 第7期三星杯1回戦 | Choi Myeonghun | Kong Jie | B+2.5 | 2002-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4ZR03IUl6N%2FC5uALDIC8Yg%3D%3D) | 
-| 第2回KAT杯韓国囲碁最強戦 | Cho Hunhyun | Choi Myeonghun | B+7.5 | 2002-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aNHYFcLj7Y14IOfeiPPr4g%3D%3D) | 
-| 第33期名人戦（韓国）リーグ | missing | Choi Myeonghun | W+R | 2002-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tqgWfCP6KGba9pISAj5JvA%3D%3D) | 
-| 第7期LG精油杯プロ棋戦2回戦 | An Younggil | Choi Myeonghun | W+R | 2002-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MfGDtOAO99Y3cJTi3YOocg%3D%3D) | 
-| 第33期名人戦（韓国）リーグ | Choi Myeonghun | Cho Hunhyun | W+R | 2002-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZmJ%2BP8gmBDgDd8vZ3TupRw%3D%3D) | 
-| 第33期名人戦（韓国）リーグ | Mok Jinseok | Choi Myeonghun | W+R | 2002-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GwOvqMuFDMFC6O9Kjq2miw%3D%3D) | 
-| 第4回春蘭杯世界囲碁選手権1回戦 | Choi Myeonghun | Ding Wei | W+R | 2002-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UVIa2o42lSGH2qGjUZSd1w%3D%3D) | 
-| 第33期名人戦（韓国）リーグ | An Joyeong | Choi Myeonghun | B+4.5 | 2002-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BjixtVdHR05UT%2B%2F70%2BMN%2FA%3D%3D) | 
-| 第1回KAT杯韓国囲碁最強戦 | Choi Myeonghun | Cho Hunhyun | W+4.5 | 2002-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lEWVHhHsy5OOs3o3F%2Fim6A%3D%3D) | 
-| 第7期LG精油杯プロ棋戦1回戦 | Rui Naiwei | Choi Myeonghun | W+R | 2002-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IZnXfkCwduSI5j266uL4%2FQ%3D%3D) | 
-| 第33期名人戦（韓国）リーグ | Choi Myeonghun | Lee Sedol | W+0.5 | 2002-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mH13Hlxy96SN5Qn%2FdcOiAw%3D%3D) | 
-| 第33期名人戦（韓国）リーグ | Yoo Changhyuk | Choi Myeonghun | W+0.5 | 2002-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kZrcs9YZpZXxGY3J784K3w%3D%3D) | 
-| 第21回KBS杯囲碁王戦本戦1回戦 | missing | Choi Myeonghun | B+R | 2002-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XGKke26M3fLebK0Ryj1dkg%3D%3D) | 
-| 第33期名人戦（韓国）リーグ | Choi Myeonghun | missing | W+R | 2002-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kAlAPxoqt2PwXCb7uTOW6Q%3D%3D) | 
-| 第1期KT杯マスターズプロ棋戦3回戦 | Han Chongjin | Choi Myeonghun | B+2.5 | 2001-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lnbk1K%2FZt9IZz%2FW8mq0vFA%3D%3D) | 
-| 第6期LG精油杯プロ棋戦決勝五番勝負第3局 | Choi Myeonghun | Lee Changho | W+R | 2001-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BRJT2lDt7eFee%2F5FHkPneg%3D%3D) | 
-| 第1期KT杯マスターズプロ棋戦2回戦 | Choi Myeonghun | Yun Kihyeon | B+R | 2001-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HMl3SJDAn7HxAsaR9k2GCA%3D%3D) | 
-| 第6期LG精油杯プロ棋戦決勝五番勝負第2局 | Lee Changho | Choi Myeonghun | B+R | 2001-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HN32cIpwaxREfop4hpVgLQ%3D%3D) | 
-| 第6期LG精油杯プロ棋戦決勝五番勝負第1局 | Choi Myeonghun | Lee Changho | W+R | 2001-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w6XYrux7GY39t4W05Opw9A%3D%3D) | 
-| 第6期LG精油杯プロ棋戦準決勝 | Lee Sedol | Choi Myeonghun | W+R | 2001-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gUytayBlQkkK%2F1YtM6urAQ%3D%3D) | 
-| 第32期名人戦（韓国）リーグ | Choi Myeonghun | Yoo Changhyuk | W+R | 2001-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d57upYEVqbLRS7Wj9eb3BA%3D%3D) | 
-| 第32期名人戦（韓国）リーグ | Yang Jaeho | Choi Myeonghun | W+R | 2001-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BP0HLAeAOUtQ5r%2Fd1eDaQQ%3D%3D) | 
-| 第6期LG精油杯プロ棋戦2回戦 | Choi Myeonghun | Lee Yungsoo | B+R | 2001-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ulSVtsryOleY1X21h83buQ%3D%3D) | 
-| 第32期名人戦（韓国）リーグ | Cho Hunhyun | Choi Myeonghun | B+R | 2001-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vAHpeA96ilT9x1Fl1fN38A%3D%3D) | 
-| 第6回LG杯世界棋王戦1回戦 | O Meien | Choi Myeonghun | B+R | 2001-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9fcXRaErFNGYrnRRsmPnfQ%3D%3D) | 
-| 第6期LG精油杯プロ棋戦1回戦 | Choi Myeonghun | An Younggil | B+R | 2001-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wIf7qB%2F5lyGY3AoDVHgbhA%3D%3D) | 
-| 第6期バッカス杯天元戦1回戦 | Weon Seongjin | Choi Myeonghun | B+R | 2001-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0HSUl%2FQh1Xjsicw7eso97A%3D%3D) | 
-| 第32期名人戦（韓国）リーグ | Mok Jinseok | Choi Myeonghun | B+R | 2001-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pImPn0KEZof%2FJG%2Fc0HlWQA%3D%3D) | 
-| 第20回KBS杯囲碁王戦敗者復活戦1回戦 | Cho Hanseung | Choi Myeonghun | B+R | 2001-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=65gIQRWhZlwIl0dHFCTipg%3D%3D) | 
-| 第32期名人戦（韓国）リーグ | Choi Myeonghun | Im Seongkeun | B+3.5 | 2001-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=StV2n4%2FRFqEUsNWMkUE0OA%3D%3D) | 
-| 第11期BCカード杯新人王戦 | missing | Choi Myeonghun | B+R | 2001-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sv5cNo6STFqKltwIzii43Q%3D%3D) | 
-| 第2回農心辛ラーメン杯世界囲碁最強戦第9戦 | Chang Hao | Choi Myeonghun | B+2.5 | 2001-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=atV4D%2F2f1yu4RNSh22dE%2Fw%3D%3D) | 
-| 第20回KBS杯囲碁王戦本戦2回戦 | Lee Sedol | Choi Myeonghun | B+R | 2001-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=382xsPjFVrmROlrIBBnCzw%3D%3D) | 
-| 第32期名人戦（韓国）リーグ | missing | Choi Myeonghun | W+R | 2001-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E4t1aahWFHNPLbfWtWUSbg%3D%3D) | 
-| 第32期名人戦（韓国）リーグ | Choi Myeonghun | missing | B+R | 2001-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tHuzb%2F1YgnjnyQIlWHkYdQ%3D%3D) | 
-| 第20回KBS杯囲碁王戦本戦1回戦 | Yang Jaeho | Choi Myeonghun | W+R | 2001-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A7rbJNPRRuCnsIe9yJl8Bw%3D%3D) | 
-| 第11期BCカード杯新人王戦 | Choi Myeonghun | missing | W+R | 2000-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BUDH4mxX5EO6yO76xZs66Q%3D%3D) | 
-| 第5期LG精油杯プロ棋戦決勝五番勝負第4局 | Rui Naiwei | Choi Myeonghun | W+R | 2000-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wUyMcGjk0P8LEvqyQpFAjg%3D%3D) | 
-| 第11期BCカード杯新人王戦 | missing | Choi Myeonghun | W+R | 2000-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LFDPIrVJOgER69r4qoMQ4A%3D%3D) | 
-| 第11期BCカード杯新人王戦 | Choi Myeonghun | Cho Hanseung | B+R | 2000-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GMng8XyWmC8pY7SZ5D1IcQ%3D%3D) | 
-| 第5期LG精油杯プロ棋戦決勝五番勝負第3局 | Choi Myeonghun | Rui Naiwei | B+R | 2000-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UKjpGYwa%2BxnzrJlok9YS0w%3D%3D) | 
-| 第5期LG精油杯プロ棋戦決勝五番勝負第2局 | Rui Naiwei | Choi Myeonghun | B+R | 2000-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WuadB5N6WedccWnco3KEsQ%3D%3D) | 
-| 第5期LG精油杯プロ棋戦決勝五番勝負第1局 | Choi Myeonghun | Rui Naiwei | B+R | 2000-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NXbpqYJK%2BrtpFRmtcx3fug%3D%3D) | 
-| 第31期名人戦（韓国）挑戦者決定戦 | Cho Hunhyun | Choi Myeonghun | B+R | 2000-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bb7RDITkw8BNUbtGvuj9kQ%3D%3D) | 
-| 第31期名人戦（韓国）プレーオフ | Yoo Changhyuk | Choi Myeonghun | W+7.5 | 2000-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IqEzi4iAEsNKGidpBnxRNA%3D%3D) | 
-| 第5期LG精油杯プロ棋戦準決勝 | Lee Sedol | Choi Myeonghun | W+1.5 | 2000-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fpHUW17F6jACeVtTR6Vsug%3D%3D) | 
-| 第5期三星杯2回戦 | Choi Myeonghun | Kang Jiseong | W+0.5 | 2000-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MPftcT4kpBDSujTpYU4nzA%3D%3D) | 
-| 第5期三星杯1回戦 | Choi Myeonghun | Cho Chikun | B+1.5 | 2000-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3XgfbmJFTr6682gVEt7U3g%3D%3D) | 
-| 第12期棋聖戦（韓国）1回戦 | Choi Myeonghun | Kim Seungjun | W+R | 2000-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ak%2Fp4t%2BFi1GIpKvZHbgcNA%3D%3D) | 
-| 第31期名人戦（韓国）リーグ | Im Changsik | Choi Myeonghun | W+3.5 | 2000-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oi8GTYxYDyEILtlREt2%2FMg%3D%3D) | 
-| 第5期LG精油杯プロ棋戦2回戦 | Choi Myeonghun | Yoo Changhyuk | B+R | 2000-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cJytSU4ek%2BtnzEak3EVjZA%3D%3D) | 
-| 第31期名人戦（韓国）リーグ | Yoo Changhyuk | Choi Myeonghun | W+R | 2000-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hw7b2XIukW4njYbG8Ns2GQ%3D%3D) | 
-| 第8期倍達王戦1回戦 | Choi Myeonghun | Cho Hunhyun | W+7.5 | 2000-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TAin0k3851%2Bpw3atI2i1XQ%3D%3D) | 
-| 第31期名人戦（韓国）リーグ | Cho Hunhyun | Choi Myeonghun | W+R | 2000-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BMn%2FvHiPiZbfjwQpIYlMzg%3D%3D) | 
-| 第31期名人戦（韓国）リーグ | Choi Myeonghun | Yang Jaeho | B+1.5 | 2000-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iFQmPeJWSlDQt9UuMDpeVA%3D%3D) | 
-| 第5期LG精油杯プロ棋戦1回戦 | Kim Chuljung | Choi Myeonghun | W+6.5 | 2000-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z%2FhdRvbJCjgmnQ186eQcJg%3D%3D) | 
-| 第4回応氏杯世界選手権2回戦 | Choi Myeonghun | Rin Kaiho | W+R | 2000-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PrvPyFosMZAaDkKgcZparA%3D%3D) | 
-| 第4回応氏杯世界選手権1回戦 | Cao Dayuan | Choi Myeonghun | W+R | 2000-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ix96Rb1uob%2FTdwFE1bt0Dw%3D%3D) | 
-| 第31期名人戦（韓国）リーグ | Choi Myeonghun | Kim Seungjun | W+R | 2000-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yoCF1x2bWIS1FJmQpdXA4A%3D%3D) | 
-| 第31期名人戦（韓国）リーグ | Mok Jinseok | Choi Myeonghun | B+5.5 | 2000-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rhcxBxtttFhDQL%2BX%2F4gIkQ%3D%3D) | 
-| 第4期三星杯1回戦 | Kataoka Satoshi | Choi Myeonghun | B+4.5 | 1999-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sEI6x5vvCrHIkVynCYxxEQ%3D%3D) | 
-| 第3回LG杯世界棋王戦2回戦 | Kudo Norio | Choi Myeonghun | B+R | 1998-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Et%2BG8myQnfVGBRTJ8xAsSA%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-13 | 第23回農心杯韓国予選 |  | Choi Myeonghun | Win | W+R | 6.5 | missing | -3089 | 
+| 2020-02-18 | 第13回GGオークション杯女流対シニア連勝対抗戦第20局 | Choi Jeong | Choi Myeonghun | Win | W+R | 6.5 | 3089 | 3089 | 
+| 2019-12-13 | 第25期GSカルテックス杯プロ棋戦予選決勝 | Baek Hyeonwoo | Choi Myeonghun | Lose | B+7.5 | 6.5 | missing | 0 | 
+| 2018-09-03 | 第12回GGオークション杯女流対シニア連勝対抗戦第16局 | Oh Yujin | Choi Myeonghun | Lose | B+2.5 | 6.5 | missing | -3300 | 
+| 2017-07-14 | 第19回農心杯韓国選抜戦 | Han Seungjoo | Choi Myeonghun | Lose | B+R | 6.5 | 3300 | 3300 | 
+| 2017-07-13 | 第19回農心杯韓国選抜戦 | Lee Donghoon | Choi Myeonghun | Win | W+R | 6.5 | missing | 0 | 
+| 2016-04-06 | 第35回KBS杯囲碁王戦1回戦 | Choi Myeonghun | Choi Jaeyoung | Lose | W+17.5 | 6.5 | missing | 0 | 
+| 2016-04-04 | 第21回LG杯予選 | Choi Myeonghun | Zhou Ruiyang | Lose | W+5.5 | 6.5 | missing | 0 | 
+| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Yun Chanhee | Choi Myeonghun | Lose | B+3.5 | 6.5 | missing | 0 | 
+| 2015-05-19 | 第34回KBS杯囲碁王戦1回戦 | Kim Sedong | Choi Myeonghun | Lose | B+1.5 | 6.5 | missing | 0 | 
+| 2014-04-19 | 第19回LG杯予選 | Mi Yuting | Choi Myeonghun | Lose | B+9.5 | 6.5 | missing | -3091 | 
+| 2013-08-12 | 第32回KBS杯囲碁王戦敗者復活戦1回戦 | Lee Huiseong | Choi Myeonghun | Lose | B+R | 6.5 | 3091 | 194 | 
+| 2013-07-16 | 第15回農心杯韓国選抜戦 | Han Sanghoon | Choi Myeonghun | Lose | B+2.5 | 6.5 | 2897 | -137 | 
+| 2013-06-03 | 第32回KBS杯囲碁王戦本戦2回戦 | Choi Myeonghun | Weon Seongjin | Lose | W+2.5 | 6.5 | 3034 | 24 | 
+| 2013-04-08 | 第32回KBS杯囲碁王戦本戦1回戦 | Choi Myeonghun | An Sungjoon | Win | B+R | 6.5 | 3010 | 128 | 
+| 2012-12-17 | 第8期圓益杯十段戦2回戦 | Choi Myeonghun | Lee Yeongkyu | Lose | W+R | 6.5 | 2882 | -336 | 
+| 2012-11-27 | 第8期圓益杯十段戦1回戦 | Choi Myeonghun | Kim Kiwon | Win | B+R | 6.5 | 3218 | 216 | 
+| 2012-09-28 | 2012年韓国囲碁リーグ | Choi Myeonghun | An Sungjoon | Lose | W+1.5 | 6.5 | 3002 | -52 | 
+| 2012-09-20 | 2012年韓国囲碁リーグ | Choi Myeonghun | Kim Dongho | Lose | W+9.5 | 6.5 | 3054 | 59 | 
+| 2012-08-17 | 2012年韓国囲碁リーグ | Lee Donghoon | Choi Myeonghun | Lose | B+R | 6.5 | 2995 | -12 | 
+| 2012-08-09 | 2012年韓国囲碁リーグ | On Sojin | Choi Myeonghun | Lose | B+0.5 | 6.5 | 3007 | -98 | 
+| 2012-07-29 | 2012年韓国囲碁リーグ | Heo Yongho | Choi Myeonghun | Lose | B+13.5 | 6.5 | 3105 | 0 | 
+| 2012-07-13 | 2012年韓国囲碁リーグ | Choi Myeonghun | Park Cheongsang | Win | B+0.5 | 6.5 | 3105 | 231 | 
+| 2012-06-24 | 2012年韓国囲碁リーグ | Kim Dongho | Choi Myeonghun | Lose | B+R | 6.5 | 2874 | 50 | 
+| 2012-05-24 | 2012年韓国囲碁リーグ | Choi Myeonghun | Lee Donghoon | Lose | W+R | 6.5 | 2824 | 2824 | 
+| 2012-05-13 | 2012年韓国囲碁リーグ | Kang Dongyun | Choi Myeonghun | Lose | B+7.5 | 6.5 | missing | 0 | 
+| 2012-05-05 | 2012年韓国囲碁リーグ | Choi Myeonghun | Lee Chungyu | Win | B+R | 6.5 | missing | 0 | 
+| 2012-04-27 | 2012年韓国囲碁リーグ | Choi Myeonghun | Han Sanghoon | Lose | W+R | 6.5 | missing | 0 | 
+| 2012-04-19 | 2012年韓国囲碁リーグ | Choi Myeonghun | Yoo Jaeho | Win | B+R | 6.5 | missing | 0 | 
+| 2011-10-27 | 第7期圓益杯十段戦1回戦 | Choi Myeonghun | Kim Sedong | Lose | W+1.5 | 6.5 | missing | 0 | 
+| 2011-10-24 | 第13回マキシムコーヒー杯入神最強戦1回戦 | Choi Myeonghun | Lee Sedol | Lose | W+R | 6.5 | missing | 0 | 
+| 2011-08-05 | 第16回三星火災杯統合予選決勝 | Tan Xiao | Choi Myeonghun | Lose | B+R | 6.5 | missing | 0 | 
+| 2011-01-31 | 第16期GSカルテックス杯プロ棋戦1回戦 | Kang Changbae | Choi Myeonghun | Lose | B+4.5 | 6.5 | missing | 0 | 
+| 2011-01-29 | 第3回BCカード杯世界選手権1回戦 | Sun Li | Choi Myeonghun | Lose | B+R | 6.5 | missing | -2771 | 
+| 2010-04-20 | 第15回LG杯予選 | Choi Myeonghun | Qiu Jun | Lose | W+R | 6.5 | 2771 | -82 | 
+| 2010-01-16 | 第2回BCカード杯世界選手権1回戦 | Choi Myeonghun | Ding Wei | Lose | W+4.5 | 6.5 | 2853 | -93 | 
+| 2009-10-22 | 2009年韓国囲碁リーグ | Park Seunghwa | Choi Myeonghun | Lose | B+R | 6.5 | 2946 | -22 | 
+| 2009-10-21 | 第5期圓益杯十段戦2回戦 | Kang Yootaek | Choi Myeonghun | Lose | B+1.5 | 6.5 | 2968 | -11 | 
+| 2009-10-20 | 第37期名人戦（韓国）リーグB | Choi Myeonghun |  | Win | B+R | 6.5 | 2979 | -38 | 
+| 2009-10-13 | 第37期名人戦（韓国）リーグB |  | Choi Myeonghun | Lose | B+1.5 | 6.5 | 3017 | -21 | 
+| 2009-10-11 | 2009年韓国囲碁リーグ | Choi Myeonghun | Han Sanghoon | Lose | W+6.5 | 6.5 | 3038 | -30 | 
+| 2009-09-29 | 第37期名人戦（韓国）リーグB | Weon Seongjin | Choi Myeonghun | Lose | B+R | 6.5 | 3068 | 0 | 
+| 2009-09-27 | 2009年韓国囲碁リーグ | Lee Jungwoo | Choi Myeonghun | Lose | B+3.5 | 6.5 | 3068 | -35 | 
+| 2009-09-23 | 第5期圓益杯十段戦1回戦 | Choi Myeonghun | On Sojin | Win | B+R | 6.5 | 3103 | 14 | 
+| 2009-09-18 | 2009年韓国囲碁リーグ | Choi Myeonghun | Yun Junsang | Win | B+1.5 | 6.5 | 3089 | 9 | 
+| 2009-09-01 | 第37期名人戦（韓国）リーグB | Choi Myeonghun | Han Sanghoon | Win | B+R | 6.5 | 3080 | 18 | 
+| 2009-08-21 | 2009年韓国囲碁リーグ | Choi Myeonghun | Park Siyeol | Lose | W+0.5 | 6.5 | 3062 | -3 | 
+| 2009-08-16 | 2009年韓国囲碁リーグ | Choi Myeonghun | Park Seunghwa | Lose | W+R | 6.5 | 3065 | -47 | 
+| 2009-07-23 | 第37期名人戦（韓国）リーグB | Lee Changho | Choi Myeonghun | Lose | B+R | 6.5 | 3112 | -33 | 
+| 2009-07-19 | 2009年韓国囲碁リーグ | Choi Myeonghun | Han Sanghoon | Lose | W+R | 6.5 | 3145 | -36 | 
+| 2009-07-05 | 2009年韓国囲碁リーグ | Lee Wondo | Choi Myeonghun | Win | W+1.5 | 6.5 | 3181 | 14 | 
+| 2009-07-01 | 第37期名人戦（韓国）予選 | Lee Taehyun | Choi Myeonghun | Win | W+R | 6.5 | 3167 | 27 | 
+| 2009-06-26 | 2009年韓国囲碁リーグ | Choi Myeonghun | Han Wonggyu | Win | B+11.5 | 6.5 | 3140 | 107 | 
+| 2009-06-04 | 2009年韓国囲碁リーグ | Kang Yootaek | Choi Myeonghun | Lose | B+1.5 | 6.5 | 3033 | -107 | 
+| 2009-05-22 | 2009年韓国囲碁リーグ | Choi Myeonghun | Ko Keuntae | Win | B+R | 6.5 | 3140 | 127 | 
+| 2009-04-14 | 第28回KBS杯囲碁王戦本戦1回戦 | Lee Jungwoo | Choi Myeonghun | Lose | B+0.5 | 6.5 | 3013 | -82 | 
+| 2009-02-28 | 第1回BCカード杯世界選手権1回戦 | Choi Myeonghun | Piao Wenyao | Lose | W+R | 6.5 | 3095 | 319 | 
+| 2008-11-01 | 2008年韓国囲碁リーグ | Kim Seonryong | Choi Myeonghun | Lose | B+5.5 | 6.5 | 2776 | -17 | 
+| 2008-10-30 | 第36期名人戦（韓国）リーグ | Kang Dongyun | Choi Myeonghun | Lose | B+4.5 | 6.5 | 2793 | -604 | 
+| 2008-10-17 | 2008年韓国囲碁リーグ | Choi Myeonghun | Lee Changho | Win | B+R | 6.5 | 3397 | 35 | 
+| 2008-10-15 | 第36期名人戦（韓国）リーグ | Choi Myeonghun | Cho Hunhyun | Lose | W+R | 6.5 | 3362 | 66 | 
+| 2008-10-02 | 2008年韓国囲碁リーグ | Choi Myeonghun | Kim Soojang | Win | B+0.5 | 6.5 | 3296 | -18 | 
+| 2008-09-30 | 第36期名人戦（韓国）リーグ | Choi Myeonghun | Lee Sedol | Win | B+0.5 | 6.5 | 3314 | 36 | 
+| 2008-09-28 | 2008年韓国囲碁リーグ |  | Choi Myeonghun | Win | W+1.5 | 6.5 | 3278 | 12 | 
+| 2008-09-17 | 第4期圓益杯十段戦2回戦 | Park Cheongsang | Choi Myeonghun | Lose | B+R | 6.5 | 3266 | -57 | 
+| 2008-09-12 | 2008年韓国囲碁リーグ | Choi Myeonghun | Bae Junhee | Win | B+1.5 | 6.5 | 3323 | 38 | 
+| 2008-09-10 | 第4期圓益杯十段戦1回戦 | Choi Myeonghun | Lee Jaeung | Win | B+R | 6.5 | 3285 | -14 | 
+| 2008-08-26 | 第36期名人戦（韓国）リーグ | Weon Seongjin | Choi Myeonghun | Lose | B+R | 6.5 | 3299 | 17 | 
+| 2008-08-19 | 第36期名人戦（韓国）リーグ | Mok Jinseok | Choi Myeonghun | Lose | B+6.5 | 6.5 | 3282 | 307 | 
+| 2008-08-07 | 2008年韓国囲碁リーグ | Park Yeonghun | Choi Myeonghun | Lose | B+R | 6.5 | 2975 | -16 | 
+| 2008-07-27 | 2008年韓国囲碁リーグ | Choi Myeonghun | Kim Jiseok | Win | B+R | 6.5 | 2991 | 30 | 
+| 2008-07-06 | 2008年韓国囲碁リーグ | Lee Yeongkyu | Choi Myeonghun | Win | W+R | 6.5 | 2961 | 145 | 
+| 2008-05-15 | 2008年韓国囲碁リーグ | Choi Myeonghun | Han Sanghoon | Lose | W+R | 6.5 | 2816 | -18 | 
+| 2008-05-13 | 第36期名人戦（韓国）リーグ | Lee Changho | Choi Myeonghun | Lose | B+R | 6.5 | 2834 | 38 | 
+| 2008-05-02 | 2008年韓国囲碁リーグ | Choi Myeonghun | Ko Keuntae | Lose | W+R | 6.5 | 2796 | 225 | 
+| 2008-04-13 | 2008年韓国囲碁リーグ | Kang Yootaek | Choi Myeonghun | Win | W+R | 6.5 | 2571 | -11 | 
+| 2008-04-04 | 第36期名人戦（韓国）リーグ | Choi Myeonghun | Cho Hanseung | Lose | W+6.5 | 6.5 | 2582 | 1 | 
+| 2008-03-18 | 第36期名人戦（韓国）リーグ | Choi Wongyong | Choi Myeonghun | Lose | B+R | 6.5 | 2581 | 29 | 
+| 2008-02-26 | 第36期名人戦（韓国）リーグ | Park Cheongsang | Choi Myeonghun | Win | W+R | 6.5 | 2552 | -1300 | 
+| 2007-09-18 | 第12期GSカルテックス杯プロ棋戦リーグ | On Sojin | Choi Myeonghun | Win | W+0.5 | 6.5 | 3852 | 1354 | 
+| 2007-08-21 | 第12期GSカルテックス杯プロ棋戦リーグ | Choi Myeonghun | Choi Cheolhan | Lose | W+R | 6.5 | 2498 | -488 | 
+| 2007-06-25 | 第12期GSカルテックス杯プロ棋戦リーグ | Park Yeonghun | Choi Myeonghun | Lose | B+5.5 | 6.5 | 2986 | -52 | 
+| 2007-06-12 | 第12期GSカルテックス杯プロ棋戦リーグ | Hong Seongji | Choi Myeonghun | Lose | B+0.5 | 6.5 | 3038 | 29 | 
+| 2007-05-07 | 第12期GSカルテックス杯プロ棋戦リーグ | Choi Myeonghun | Lee Changho | Lose | W+11.5 | 6.5 | 3009 | -27 | 
+| 2007-04-18 | 第12期GSカルテックス杯プロ棋戦リーグ | Choi Myeonghun | Mok Jinseok | Lose | W+R | 6.5 | 3036 | 254 | 
+| 2007-03-02 | 第12期GSカルテックス杯プロ棋戦リーグ | Choi Myeonghun | Cho Hanseung | Lose | W+R | 6.5 | 2782 | 54 | 
+| 2006-09-19 | 第8回マキシムコーヒー杯入神最強戦1回戦 | Choi Myeonghun | Kim Seonryong | Win | B+R | 6.5 | 2728 | -36 | 
+| 2006-07-24 | 第8回農心杯韓国選抜戦 | Choi Myeonghun | Choi Cheolhan | Lose | W+R | 6.5 | 2764 | -41 | 
+| 2006-07-21 | 第8回農心杯韓国選抜戦 | Mok Jinseok | Choi Myeonghun | Win | W+R | 6.5 | 2805 | -3 | 
+| 2006-05-15 | 第11回LG杯世界棋王戦1回戦 | Choi Myeonghun | Yu Bin | Lose | W+9.5 | 6.5 | 2808 | -95 | 
+| 2006-05-02 | 第11期バッカス杯天元戦1回戦 | Choi Myeonghun | Mok Jinseok | Lose | W+4.5 | 6.5 | 2903 | -92 | 
+| 2006-04-28 | 第11回LG杯予選 | Lee Jaeung | Choi Myeonghun | Win | W+1.5 | 6.5 | 2995 | 2995 | 
+| 2005-11-03 | 第7回マキシムコーヒー杯入神最強戦1回戦 | An Joyeong | Choi Myeonghun | Lose | B+R | 6.5 | missing | -2602 | 
+| 2005-05-16 | 第10回LG杯世界棋王戦1回戦 | Choi Myeonghun | Luo Xihe | Lose | W+R | 6.5 | 2602 | -210 | 
+| 2004-10-08 | 第6回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Choi Myeonghun | Lose | B+R | 6.5 | 2812 | -54 | 
+| 2004-08-18 | 第9期LG精油杯プロ棋戦2回戦 | Yun Junsang | Choi Myeonghun | Lose | B+1.5 | 6.5 | 2866 | 46 | 
+| 2004-08-10 | 第1期電子ランド杯王中王戦2回戦 | Choi Myeonghun | Choi Kyubyeong | Lose | W+1.5 | 6.5 | 2820 | 75 | 
+| 2004-07-06 | 第1期電子ランド杯王中王戦1回戦 | Choi Myeonghun | Cho Hanseung | Win | B+R | 6.5 | 2745 | 26 | 
+| 2004-06-24 | 第9期LG精油杯プロ棋戦1回戦 | Choi Myeonghun | Yoo Changhyuk | Win | B+R | 6.5 | 2719 | 156 | 
+| 2004-06-16 | 第9期バッカス杯天元戦1回戦 | Choi Cheolhan | Choi Myeonghun | Lose | B+R | 6.5 | 2563 | -15 | 
+| 2004-05-31 | 第48期国手戦（韓国）予選 | Yoo Changhyuk | Choi Myeonghun | Lose | B+0.5 | 6.5 | 2578 | 7 | 
+| 2003-12-06 | 第1回韓国ドリームリーグ | Choi Myeonghun | Choi Cheolhan | Lose | W+4.5 | 6.5 | 2571 | -81 | 
+| 2003-11-01 | 第1回韓国ドリームリーグ | Choi Myeonghun | Choi Kyubyeong | Lose | W+R | 6.5 | 2652 | -2984 | 
+| 2003-10-11 | 第1回韓国ドリームリーグ | Choi Myeonghun | Mok Jinseok | Lose | W+3.5 | 6.5 | 5636 | 3047 | 
+| 2003-09-24 | 第15期棋聖戦（韓国）1回戦 | Ryu Chaehyeong | Choi Myeonghun | Lose | B+R | 6.5 | 2589 | 0 | 
+| 2003-09-20 | 第1回韓国ドリームリーグ | Choi Myeonghun |  | Win | B+R | 6.5 | 2589 | 27 | 
+| 2003-09-02 | 第8期LG精油杯プロ棋戦2回戦 | Choi Myeonghun | An Joyeong | Lose | W+6.5 | 6.5 | 2562 | -74 | 
+| 2003-08-18 | 第5回農心杯韓国選抜戦 | Choi Myeonghun | Heo Yongho | Lose | W+8.5 | 6.5 | 2636 | -30 | 
+| 2003-08-16 | 第1回韓国ドリームリーグ | Choi Myeonghun | Kim Myeongwan | Lose | W+3.5 | 6.5 | 2666 | 101 | 
+| 2003-04-21 | 第8期LG精油杯プロ棋戦1回戦 | Paek Seongho | Choi Myeonghun | Win | W+R | 6.5 | 2565 | -8 | 
+| 2003-04-12 | 第16回世界囲碁選手権富士通杯1回戦 | Choi Myeonghun | Hane Naoki | Lose | W+R | 6.5 | 2573 | 11 | 
+| 2003-04-09 | 2003年中国囲碁乙級リーグ | Choi Myeonghun | Li Kang | Lose | W+4.5 | 7.5 | 2562 | -11 | 
+| 2003-04-08 | 2003年中国囲碁乙級リーグ | Wang Haoyang | Choi Myeonghun | Win | W+R | 7.5 | 2573 | -39 | 
+| 2003-04-06 | 2003年中国囲碁乙級リーグ | Choi Myeonghun | Piao Wenyao | Lose | W+R | 7.5 | 2612 | -23 | 
+| 2003-04-05 | 2003年中国囲碁乙級リーグ | Liu Jing | Choi Myeonghun | Lose | B+R | 7.5 | 2635 | -10 | 
+| 2003-04-03 | 2003年中国囲碁乙級リーグ | Choi Myeonghun |  | Win | B+R | 7.5 | 2645 | 8 | 
+| 2003-04-02 | 2003年中国囲碁乙級リーグ |  | Choi Myeonghun | Win | W+2.5 | 7.5 | 2637 | 12 | 
+| 2003-02-12 | 第3回KAT杯韓国囲碁最強戦 | Cho Hunhyun | Choi Myeonghun | Win | W+0.5 | 6.5 | 2625 | 76 | 
+| 2003-01-29 | 第37期覇王戦本戦第14局 | Lee Sedol | Choi Myeonghun | Lose | B+R | 6.5 | 2549 | 75 | 
+| 2003-01-06 | 第2期KT杯マスターズプロ棋戦3回戦 | Choi Myeonghun | Lee Changho | Lose | W+0.5 | 6.5 | 2474 | 52 | 
+| 2002-11-25 | 第2期KT杯マスターズプロ棋戦2回戦 | Paek Hongseok | Choi Myeonghun | Win | W+R | 6.5 | 2422 | 15 | 
+| 2002-11-20 | 第7期LG精油杯プロ棋戦決勝五番勝負第4局 | Choi Myeonghun | Lee Sedol | Lose | W+R | 6.5 | 2407 | -38 | 
+| 2002-11-04 | 第7期LG精油杯プロ棋戦決勝五番勝負第3局 | Lee Sedol | Choi Myeonghun | Lose | B+R | 6.5 | 2445 | 22 | 
+| 2002-10-23 | 第7期LG精油杯プロ棋戦決勝五番勝負第2局 | Choi Myeonghun | Lee Sedol | Win | B+R | 6.5 | 2423 | 38 | 
+| 2002-10-16 | 第7期三星杯3回戦 | Choi Myeonghun | Wang Lei (b) | Lose | W+2.5 | 6.5 | 2385 | -56 | 
+| 2002-10-04 | 第7期LG精油杯プロ棋戦決勝五番勝負第1局 | Lee Sedol | Choi Myeonghun | Lose | B+R | 6.5 | 2441 | 26 | 
+| 2002-09-24 | 第14期棋聖戦（韓国）1回戦 | Song Taekon | Choi Myeonghun | Lose | B+R | 6.5 | 2415 | -44 | 
+| 2002-09-18 | 第7期LG精油杯プロ棋戦準決勝 | Choi Myeonghun | Park Yeonghun | Win | B+1.5 | 6.5 | 2459 | 0 | 
+| 2002-08-30 | 第7期三星杯2回戦 | Choi Myeonghun | Zhang Wendong | Win | B+R | 6.5 | 2459 | 32 | 
+| 2002-08-28 | 第7期三星杯1回戦 | Choi Myeonghun | Kong Jie | Win | B+2.5 | 6.5 | 2427 | 32 | 
+| 2002-08-22 | 第2回KAT杯韓国囲碁最強戦 | Cho Hunhyun | Choi Myeonghun | Lose | B+7.5 | 6.5 | 2395 | 65 | 
+| 2002-08-13 | 第33期名人戦（韓国）リーグ |  | Choi Myeonghun | Win | W+R | 6.5 | 2330 | 154 | 
+| 2002-08-01 | 第7期LG精油杯プロ棋戦2回戦 | An Younggil | Choi Myeonghun | Win | W+R | 6.5 | 2176 | 18 | 
+| 2002-06-24 | 第33期名人戦（韓国）リーグ | Choi Myeonghun | Cho Hunhyun | Lose | W+R | 6.5 | 2158 | 49 | 
+| 2002-06-11 | 第33期名人戦（韓国）リーグ | Mok Jinseok | Choi Myeonghun | Win | W+R | 6.5 | 2109 | 30 | 
+| 2002-05-18 | 第4回春蘭杯世界囲碁選手権1回戦 | Choi Myeonghun | Ding Wei | Lose | W+R | 7.5 | 2079 | 83 | 
+| 2002-05-10 | 第33期名人戦（韓国）リーグ | An Joyeong | Choi Myeonghun | Lose | B+4.5 | 6.5 | 1996 | 124 | 
+| 2002-04-27 | 第1回KAT杯韓国囲碁最強戦 | Choi Myeonghun | Cho Hunhyun | Lose | W+4.5 | 6.5 | 1872 | -145 | 
+| 2002-04-04 | 第7期LG精油杯プロ棋戦1回戦 | Rui Naiwei | Choi Myeonghun | Win | W+R | 6.5 | 2017 | -29 | 
+| 2002-03-28 | 第33期名人戦（韓国）リーグ | Choi Myeonghun | Lee Sedol | Lose | W+0.5 | 6.5 | 2046 | -574 | 
+| 2002-03-04 | 第33期名人戦（韓国）リーグ | Yoo Changhyuk | Choi Myeonghun | Win | W+0.5 | 6.5 | 2620 | -98 | 
+| 2002-01-25 | 第21回KBS杯囲碁王戦本戦1回戦 |  | Choi Myeonghun | Lose | B+R | 6.5 | 2718 | -135 | 
+| 2002-01-14 | 第33期名人戦（韓国）リーグ | Choi Myeonghun |  | Lose | W+R | 6.5 | 2853 | 37 | 
+| 2001-12-04 | 第1期KT杯マスターズプロ棋戦3回戦 | Han Chongjin | Choi Myeonghun | Lose | B+2.5 | 6.5 | 2816 | -13 | 
+| 2001-10-30 | 第6期LG精油杯プロ棋戦決勝五番勝負第3局 | Choi Myeonghun | Lee Changho | Lose | W+R | 6.5 | 2829 | 52 | 
+| 2001-10-09 | 第1期KT杯マスターズプロ棋戦2回戦 | Choi Myeonghun | Yun Kihyeon | Win | B+R | 6.5 | 2777 | -8 | 
+| 2001-09-28 | 第6期LG精油杯プロ棋戦決勝五番勝負第2局 | Lee Changho | Choi Myeonghun | Lose | B+R | 6.5 | 2785 | -5991 | 
+| 2001-09-08 | 第6期LG精油杯プロ棋戦決勝五番勝負第1局 | Choi Myeonghun | Lee Changho | Lose | W+R | 6.5 | 8776 | 60 | 
+| 2001-09-03 | 第6期LG精油杯プロ棋戦準決勝 | Lee Sedol | Choi Myeonghun | Win | W+R | 6.5 | 8716 | 6006 | 
+| 2001-08-10 | 第32期名人戦（韓国）リーグ | Choi Myeonghun | Yoo Changhyuk | Lose | W+R | 6.5 | 2710 | 0 | 
+| 2001-08-10 | 第32期名人戦（韓国）リーグ | Yang Jaeho | Choi Myeonghun | Win | W+R | 6.5 | 2710 | 226 | 
+| 2001-08-08 | 第6期LG精油杯プロ棋戦2回戦 | Choi Myeonghun | Lee Yungsoo | Win | B+R | 6.5 | 2484 | -223 | 
+| 2001-07-23 | 第32期名人戦（韓国）リーグ | Cho Hunhyun | Choi Myeonghun | Lose | B+R | 6.5 | 2707 | 148 | 
+| 2001-06-12 | 第6回LG杯世界棋王戦1回戦 | O Meien | Choi Myeonghun | Lose | B+R | 6.5 | 2559 | -20 | 
+| 2001-06-07 | 第6期LG精油杯プロ棋戦1回戦 | Choi Myeonghun | An Younggil | Win | B+R | 6.5 | 2579 | -14 | 
+| 2001-05-28 | 第6期バッカス杯天元戦1回戦 | Weon Seongjin | Choi Myeonghun | Lose | B+R | 6.5 | 2593 | -61 | 
+| 2001-05-14 | 第32期名人戦（韓国）リーグ | Mok Jinseok | Choi Myeonghun | Lose | B+R | 6.5 | 2654 | -87 | 
+| 2001-04-20 | 第20回KBS杯囲碁王戦敗者復活戦1回戦 | Cho Hanseung | Choi Myeonghun | Lose | B+R | 6.5 | 2741 | -21 | 
+| 2001-04-09 | 第32期名人戦（韓国）リーグ | Choi Myeonghun | Im Seongkeun | Win | B+3.5 | 6.5 | 2762 | -87 | 
+| 2001-03-23 | 第11期BCカード杯新人王戦 |  | Choi Myeonghun | Lose | B+R | 6.5 | 2849 | -9 | 
+| 2001-03-14 | 第2回農心辛ラーメン杯世界囲碁最強戦第9戦 | Chang Hao | Choi Myeonghun | Lose | B+2.5 | 6.5 | 2858 | -6 | 
+| 2001-02-21 | 第20回KBS杯囲碁王戦本戦2回戦 | Lee Sedol | Choi Myeonghun | Lose | B+R | 6.5 | 2864 | -20 | 
+| 2001-02-16 | 第32期名人戦（韓国）リーグ |  | Choi Myeonghun | Win | W+R | 6.5 | 2884 | -168 | 
+| 2001-01-15 | 第32期名人戦（韓国）リーグ | Choi Myeonghun |  | Win | B+R | 6.5 | 3052 | 27 | 
+| 2001-01-10 | 第20回KBS杯囲碁王戦本戦1回戦 | Yang Jaeho | Choi Myeonghun | Win | W+R | 6.5 | 3025 | 3025 | 
+| 2000-12-07 | 第11期BCカード杯新人王戦 | Choi Myeonghun |  | Lose | W+R | 6.5 | missing | 0 | 
+| 2000-12-02 | 第5期LG精油杯プロ棋戦決勝五番勝負第4局 | Rui Naiwei | Choi Myeonghun | Win | W+R | 6.5 | missing | 0 | 
+| 2000-11-23 | 第11期BCカード杯新人王戦 |  | Choi Myeonghun | Win | W+R | 6.5 | missing | 0 | 
+| 2000-11-17 | 第11期BCカード杯新人王戦 | Choi Myeonghun | Cho Hanseung | Win | B+R | 6.5 | missing | 0 | 
+| 2000-11-08 | 第5期LG精油杯プロ棋戦決勝五番勝負第3局 | Choi Myeonghun | Rui Naiwei | Win | B+R | 6.5 | missing | 0 | 
+| 2000-10-25 | 第5期LG精油杯プロ棋戦決勝五番勝負第2局 | Rui Naiwei | Choi Myeonghun | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-10-13 | 第5期LG精油杯プロ棋戦決勝五番勝負第1局 | Choi Myeonghun | Rui Naiwei | Win | B+R | 6.5 | missing | 0 | 
+| 2000-09-18 | 第31期名人戦（韓国）挑戦者決定戦 | Cho Hunhyun | Choi Myeonghun | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-09-15 | 第31期名人戦（韓国）プレーオフ | Yoo Changhyuk | Choi Myeonghun | Win | W+7.5 | 6.5 | missing | 0 | 
+| 2000-09-12 | 第5期LG精油杯プロ棋戦準決勝 | Lee Sedol | Choi Myeonghun | Win | W+1.5 | 6.5 | missing | 0 | 
+| 2000-09-01 | 第5期三星杯2回戦 | Choi Myeonghun | Kang Jiseong | Lose | W+0.5 | 6.5 | missing | 0 | 
+| 2000-08-30 | 第5期三星杯1回戦 | Choi Myeonghun | Cho Chikun | Win | B+1.5 | 6.5 | missing | 0 | 
+| 2000-08-17 | 第12期棋聖戦（韓国）1回戦 | Choi Myeonghun | Kim Seungjun | Lose | W+R | 6.5 | missing | 0 | 
+| 2000-08-10 | 第31期名人戦（韓国）リーグ | Im Changsik | Choi Myeonghun | Win | W+3.5 | 6.5 | missing | 0 | 
+| 2000-08-04 | 第5期LG精油杯プロ棋戦2回戦 | Choi Myeonghun | Yoo Changhyuk | Win | B+R | 6.5 | missing | 0 | 
+| 2000-07-27 | 第31期名人戦（韓国）リーグ | Yoo Changhyuk | Choi Myeonghun | Win | W+R | 6.5 | missing | 0 | 
+| 2000-07-21 | 第8期倍達王戦1回戦 | Choi Myeonghun | Cho Hunhyun | Lose | W+7.5 | 6.5 | missing | 0 | 
+| 2000-07-18 | 第31期名人戦（韓国）リーグ | Cho Hunhyun | Choi Myeonghun | Win | W+R | 6.5 | missing | 0 | 
+| 2000-06-14 | 第31期名人戦（韓国）リーグ | Choi Myeonghun | Yang Jaeho | Win | B+1.5 | 6.5 | missing | 0 | 
+| 2000-05-10 | 第5期LG精油杯プロ棋戦1回戦 | Kim Chuljung | Choi Myeonghun | Win | W+6.5 | 6.5 | missing | 0 | 
+| 2000-05-02 | 第4回応氏杯世界選手権2回戦 | Choi Myeonghun | Rin Kaiho | Lose | W+R | 7.5 | missing | 0 | 
+| 2000-04-30 | 第4回応氏杯世界選手権1回戦 | Cao Dayuan | Choi Myeonghun | Win | W+R | 7.5 | missing | 0 | 
+| 2000-02-28 | 第31期名人戦（韓国）リーグ | Choi Myeonghun | Kim Seungjun | Lose | W+R | 6.5 | missing | 0 | 
+| 2000-01-06 | 第31期名人戦（韓国）リーグ | Mok Jinseok | Choi Myeonghun | Lose | B+5.5 | 6.5 | missing | 0 | 
+| 1999-09-07 | 第4期三星杯1回戦 | Kataoka Satoshi | Choi Myeonghun | Lose | B+4.5 | 6.5 | missing | 0 | 
+| 1998-06-18 | 第3回LG杯世界棋王戦2回戦 | Kudo Norio | Choi Myeonghun | Lose | B+R | 6.5 | missing | missing |
 
 
 

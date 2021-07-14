@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-14 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Kim Eunseon | Kim Yoonyoung | Win | B+R | 6.5 | 2861 | 45 | 
 | 2021-07-10 | 第7回韓国女子囲碁リーグ | Kim Eunseon | Oh Yujin | Lose | W+R | 6.5 | 2816 | -37 | 
 | 2021-07-01 | 第7回韓国女子囲碁リーグ |  | Kim Eunseon | Win | W+R | 6.5 | 2853 | 47 | 
 | 2021-06-24 | 第7回韓国女子囲碁リーグ |  | Kim Eunseon | Win | W+R | 6.5 | 2806 | 92 | 

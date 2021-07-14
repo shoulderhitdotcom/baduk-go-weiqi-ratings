@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-14 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Kim Eunseon | Kim Yoonyoung | Lose | B+R | 6.5 | 2924 | 2924 | 
 | 2021-06-30 | 第1回IBK企業銀行杯女子囲碁マスターズ1回戦 | Kim Yoonyoung | Kim Cheayoung | Win | B+R | 6.5 | missing | -2454 | 
 | 2019-03-19 | 第8回天台山杯世界女子囲碁団体戦韓国選抜戦 | Kim Cheayoung | Kim Yoonyoung | Lose | B+R | 7.5 | 2454 | -70 | 
 | 2019-03-18 | 第8回天台山杯世界女子囲碁団体戦韓国選抜戦 | Kim Dayoung | Kim Yoonyoung | Win | W+R | 7.5 | 2524 | 2524 | 

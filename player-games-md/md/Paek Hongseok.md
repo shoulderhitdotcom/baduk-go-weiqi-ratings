@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-14 | 第23回農心杯韓国予選 | Kim Ilhwan | Paek Hongseok | Win | W+R | 6.5 | 3259 | -11 | 
 | 2021-06-13 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Sangjin | Paek Hongseok | Lose | B+R | 6.5 | 3270 | -39 | 
 | 2021-05-21 | 第26回GSカルテックス杯プロ棋戦2回戦 | Byun Sangil | Paek Hongseok | Lose | B+R | 6.5 | 3309 | -14 | 
 | 2021-04-30 | 第26回GSカルテックス杯プロ棋戦1回戦 | Jen Youngkyu | Paek Hongseok | Win | W+R | 6.5 | 3323 | -153 | 

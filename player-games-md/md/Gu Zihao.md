@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-14 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Yang Dingxin | Gu Zihao | Win | W+R | 7.5 | 3681 | 7 | 
 | 2021-07-12 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Gu Zihao | Yang Dingxin | Lose | W+R | 7.5 | 3674 | -10 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Gu Zihao | Xie Erhao | Win | B+R | 7.5 | 3684 | 2 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Shin Minjun | Gu Zihao | Win | W+R | 7.5 | 3682 | 28 | 

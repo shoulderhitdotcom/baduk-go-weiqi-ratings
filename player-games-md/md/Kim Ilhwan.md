@@ -5,150 +5,172 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第6回未来の星新鋭最強戦2回戦 | missing | Kim Ilhwan | B+R | 2021-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aUae8JZX%2Bb8sNiMzrx%2BDAA%3D%3D) | 
-| 第8回大舟杯プロシニア最強者戦予選 | Kim Ilhwan | Kim Sinyoung | W+5.5 | 2021-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b6314tCxsIG9JpMNtMMxkw%3D%3D) | 
-| 2020NHシニア囲碁リーグ準プレーオフ第1戦第2局 | Kim Soojang | Kim Ilhwan | B+6.5 | 2020-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WmudGYyDXsA0Sjztqfy49Q%3D%3D) | 
-| 2020NHシニア囲碁リーグ第14節第1試合第2局 | Seo Bongsoo | Kim Ilhwan | B+11.5 | 2020-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6K9HKYzTYzJRkXKMAGramA%3D%3D) | 
-| 2020NHシニア囲碁リーグ第13節第2試合第1局 | Kim Ilhwan | Jimmy Cha | B+8.5 | 2020-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mpYq8nSYqTi5CR2tcoOmoQ%3D%3D) | 
-| 2020NHシニア囲碁リーグ第12節第3試合第2局 | Jeong Daesang | Kim Ilhwan | B+10.5 | 2020-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ngCOsOs0vW95ACyAoTCmYQ%3D%3D) | 
-| 2020NHシニア囲碁リーグ第11節第4試合第2局 | Kim Ilhwan | Kim Dongmyeon | W+1.5 | 2020-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cw%2FwED9%2BtxRKSOwLsfy%2FUA%3D%3D) | 
-| 2020NHシニア囲碁リーグ第10節第1試合第1局 | Seo Nungwuk | Kim Ilhwan | W+6.5 | 2020-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TwQe%2BW4xb0AvUZlzdHQN3w%3D%3D) | 
-| 2020NHシニア囲碁リーグ第9節第2試合第2局 | Kim Ilhwan | Paek Seongho | B+9.5 | 2020-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MDJdOttAiLvPTg2bliQS2A%3D%3D) | 
-| 2020NHシニア囲碁リーグ第8節第4試合第1局 | Kim Kihun | Kim Ilhwan | B+1.5 | 2020-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Wb37uw37AJTBjYKODVMlQ%3D%3D) | 
-| 2020NHシニア囲碁リーグ第7節第4試合第1局 | Seo Bongsoo | Kim Ilhwan | B+14.5 | 2020-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=chvQWnob0uhdfLbGnEdiDA%3D%3D) | 
-| 2020NHシニア囲碁リーグ第6節第3試合第1局 | Kim Ilhwan | Jimmy Cha | B+R | 2020-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ia1irMm30XJbQA0sGcSOhw%3D%3D) | 
-| 2020NHシニア囲碁リーグ第5節第2試合第1局 | Yoo Changhyuk | Kim Ilhwan | B+10.5 | 2020-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uYRGZG4gOfM%2BNnklvTNV%2Bw%3D%3D) | 
-| 2020NHシニア囲碁リーグ第4節第1試合第1局 | Kim Chongsu | Kim Ilhwan | W+18.5 | 2020-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fNH8Npema1Q5p76U%2BoV2ow%3D%3D) | 
-| 2020NHシニア囲碁リーグ第3節第4試合第1局 | Seo Nungwuk | Kim Ilhwan | W+16.5 | 2020-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8fXABo67Rh%2BHLmeYNfGktA%3D%3D) | 
-| 2020NHシニア囲碁リーグ第2節第3試合第1局 | Kim Ilhwan | Choi Kyubyeong | B+3.5 | 2020-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a9CojLeK%2BP4VMk5oF7bZnw%3D%3D) | 
-| 2020NHシニア囲碁リーグ第1節第1試合第1局 | Kim Ilhwan | Kim Soojang | B+7.5 | 2020-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kLAFQ8mq3ooniGy0h0zRzw%3D%3D) | 
-| 第8回河燦錫国手杯英才最強戦決勝三番勝負第3局 | Hyun Yoobin | Kim Ilhwan | B+R | 2020-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EukJbQJ4VlrbyB0TaV0oNQ%3D%3D) | 
-| 第8回河燦錫国手杯英才最強戦決勝三番勝負第2局 | Kim Ilhwan | Hyun Yoobin | B+R | 2020-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1AgPpt3p8VsPYk%2FxB0S3bA%3D%3D) | 
-| 第8回河燦錫国手杯英才最強戦決勝三番勝負第1局 | Hyun Yoobin | Kim Ilhwan | B+R | 2020-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZHI%2FcGX3YXMNthzBoNQ2SQ%3D%3D) | 
-| 第8回河燦錫国手杯英才最強戦準決勝 | missing | Kim Ilhwan | W+R | 2020-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nACNPfETy9306GlGqnRHbQ%3D%3D) | 
-| 第25回LG杯韓国予選 | Kim Ilhwan | Shin Yoonho | W+R | 2020-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xxm09hGsphDWDJ5coQN%2Bog%3D%3D) | 
-| 第25回LG杯韓国予選 | Kim Ilhwan | missing | B+R | 2020-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sNje1qOK0vBLD1PLs%2Fmb9A%3D%3D) | 
-| 第8回河燦錫国手杯英才最強戦8強戦 | Kim Ilhwan | Moon Minjong | B+R | 2020-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q9p7ICku38k10ObOZUokGw%3D%3D) | 
-| 第8回河燦錫国手杯英才最強戦16強戦 | Kim Ilhwan | Han Woojin | B+R | 2020-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kGYzXRuyzXS4e0to4FUfkA%3D%3D) | 
-| 第7回大舟杯プロシニア最強者戦8強戦 | Cho Hyeyeon | Kim Ilhwan | B+R | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rkblSemc1saiZ3lft9Z5Aw%3D%3D) | 
-| 第8回河燦錫国手杯英才最強戦1回戦 | Kim Ilhwan | missing | B+R | 2020-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EZThW6fREW9OzzlCktBrNw%3D%3D) | 
-| 第7回大舟杯プロシニア最強者戦16強戦 | Kim Ilhwan | missing | B+R | 2020-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aUBmtxmH9FyULTTVoEwJSA%3D%3D) | 
-| 2019NHシニア囲碁リーグ準プレーオフ第1戦第2局 | Cho Daehyeon | Kim Ilhwan | B+10.5 | 2019-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2BYQHIiVylrn5Ce6AwgWMg%3D%3D) | 
-| 2019NHシニア囲碁リーグ第14節第1試合第1局 | Kim Ilhwan | Oh Kyuchul | B+2.5 | 2019-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A%2BTOTpooKXio94eQbS6AOA%3D%3D) | 
-| 2019NHシニア囲碁リーグ第13節第2試合第1局 | Kim Ilhwan | Seo Nungwuk | W+R | 2019-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fly82OECKkhBLUjdtYMtrw%3D%3D) | 
-| 2019NHシニア囲碁リーグ第12節第3試合第1局 | Kim Ilhwan | Kang Hun | B+6.5 | 2019-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=udytsfD3h50X7sTjacGV8A%3D%3D) | 
-| 2019NHシニア囲碁リーグ第11節第4試合第2局 | Kim Ilhwan | Paek Seongho | W+7.5 | 2019-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6obmAm2PoORnllhKz9mBwQ%3D%3D) | 
-| 2019NHシニア囲碁リーグ第10節第1試合第2局 | Kim Ilhwan | Kim Kihun | W+8.5 | 2019-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T4h149jO7XzadURD63CMqg%3D%3D) | 
-| 2019NHシニア囲碁リーグ第9節第2試合第1局 | Kim JongJoon | Kim Ilhwan | W+10.5 | 2019-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zCdNL9lAA%2BBlnyU%2Fh42wqQ%3D%3D) | 
-| 2019NHシニア囲碁リーグ第8節第4試合第1局 | An Kwanwuk | Kim Ilhwan | W+R | 2019-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=25X9c6CoqUWEqFi%2BtMfdvw%3D%3D) | 
-| 2019NHシニア囲碁リーグ第7節第4試合第1局 | Kim Dongmyeon | Kim Ilhwan | W+6.5 | 2019-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BmwjD%2FYEzck1fP1bqI5psw%3D%3D) | 
-| 2019NHシニア囲碁リーグ第6節第3試合第1局 | Kim Ilhwan | Seo Nungwuk | B+8.5 | 2019-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v%2FMbvRPgRdqmcrAQtr4HIg%3D%3D) | 
-| 2019NHシニア囲碁リーグ第5節第2試合第2局 | Kim Ilhwan | Chang Suyeong | B+T | 2019-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SVEhSVhKfhZtYYjbRE5msw%3D%3D) | 
-| 2019NHシニア囲碁リーグ第4節第1試合第1局 | Kim Ilhwan | Moon Myunggun | B+R | 2019-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6YhMHNQFLqpQLF068c7lnQ%3D%3D) | 
-| 2019NHシニア囲碁リーグ第3節第4試合第1局 | Kim Soojang | Kim Ilhwan | B+0.5 | 2019-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rwMGrgWmvbgNKGlopAGnVA%3D%3D) | 
-| 2019NHシニア囲碁リーグ第2節第3試合第2局 | Cho Daehyeon | Kim Ilhwan | B+2.5 | 2019-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TyfwCaajW5zukOh%2FhC1Kwg%3D%3D) | 
-| 2019NHシニア囲碁リーグ第1節第1試合第3局 | Kim Ilhwan | Park Seungmun | B+12.5 | 2019-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FRmVYim%2FStlexfJj%2B%2Bq9%2FA%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会韓国国内予選 | Jimmy Cha | Kim Ilhwan | B+8.5 | 2019-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vKrSOBnd6WXFOeBKC9bFtA%3D%3D) | 
-| 第6回大舟杯プロシニア最強者戦16強戦 | Kim Ilhwan | Kang Hun | W+5.5 | 2019-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zg%2B1K0W4LUbK7BteVOzlIA%3D%3D) | 
-| 第7回河燦錫国手杯英才囲碁大会24強戦 | Kim Ilhwan | missing | W+R | 2019-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OD7SRv9kovPyE2G6gITZWw%3D%3D) | 
-| 第3回韓国シニア囲碁リーグプレーオフ富川-尚州 | Kim Kihun | Kim Ilhwan | W+R | 2018-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fewQK15A4VDYzDxjhZ35SQ%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第14節霊岩-富川 | Kim Chongsu | Kim Ilhwan | W+0.5 | 2018-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZBsPOiDkm%2BmDrnRJu4Nd%2BA%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第13節富川-三陟 | Kim Ilhwan | missing | B+5.5 | 2018-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PV%2FSmFpgMAWbDzVCNBOeKg%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第11節富川-釜山 | Kang Hun | Kim Ilhwan | W+R | 2018-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v4fIiJE%2F%2BmlL5k8JCzFMbg%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第10節富川-尚州 | Kim Ilhwan | Kim Kihun | W+3.5 | 2018-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0IOVA%2FnFMwQ8Kf8H8TxMYQ%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第9節陰城-富川 | Kim Ilhwan | Kim Dongyeop | B+3.5 | 2018-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V5a3i604swVhkQC95PQkVQ%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第8節富川-烏鹭 | Seo Nungwuk | Kim Ilhwan | B+10.5 | 2018-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AVCLCyvRkS2E2VlD7l3S9w%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第7節霊岩-富川 | Oh Kyuchul | Kim Ilhwan | W+1.5 | 2018-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p6if2JPQZWu1COiDYDX8jw%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第6節富川-三陟 | Park Seungmun | Kim Ilhwan | W+R | 2018-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wJ9Y6YKjCqTQxlwBQSjNdQ%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第4節富川-釜山 | Chang Suyeong | Kim Ilhwan | W+R | 2018-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZMeeae3yvmYBUH863h%2FO9A%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第3節富川-尚州 | Kim Ilhwan | Seo Bongsoo | W+R | 2018-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OE2bJC2y1gvrmArvBz71QA%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第2節陰城-富川 | Kim Ilhwan | Jimmy Cha | W+1.5 | 2018-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IXjXdNqo%2BAepEcLWf5rTzg%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第1節富川-サイバーORO | Park Yeongchan | Kim Ilhwan | W+R | 2018-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rEidgdkE895CUVqrHQnEEw%3D%3D) | 
-| 第5回大舟杯プロシニア最強者戦2回戦 | Cho Hyeyeon | Kim Ilhwan | B+R | 2018-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bTsIOrUKc427MHZAd0KqUA%3D%3D) | 
-| 第2回世界シニア囲碁大会選抜戦 | Yang Jaeho | Kim Ilhwan | B+0.5 | 2018-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N1ObyHOYU5F4Ab5CHMunpQ%3D%3D) | 
-| 第5回大舟杯プロシニア最強者戦1回戦 | Choi Kyubyeong | Kim Ilhwan | W+5.5 | 2018-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bMYYTjQlZ1OOyADZJexFHw%3D%3D) | 
-| 第6回陜川郡招待河燦錫国手杯英才囲碁大会16強戦 | Park Sangjin | Kim Ilhwan | B+R | 2018-01-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CukJI2aezrellaGIuN3Usw%3D%3D) | 
-| 第2回韓国元老連戦14回戦富川-烏鹭 | missing | Kim Ilhwan | B+R | 2017-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QCGY8xlrv2bgh4KtKI52kw%3D%3D) | 
-| 2回韓国元老連戦13回戦富川-尚州 | Kim Ilhwan | Paek Seongho | B+R | 2017-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H22Aawe3%2BXQ%2FyBnyEEqYvA%3D%3D) | 
-| 2回韓国元老連戦12回戦霊岩-富川 | Kim Ilhwan | Kim Chongsu | B+20.5 | 2017-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zcn0ON5EUdsn%2F2kXgDi8ZA%3D%3D) | 
-| 2回韓国元老連戦10回戦三陟-富川 | missing | Kim Ilhwan | W+R | 2017-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pQn4J31qVx0sdukZsseZSQ%3D%3D) | 
-| 2回韓国元老連戦9回戦富川-釜山 | Kang Hun | Kim Ilhwan | B+R | 2017-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jkkt83q1heynxUBjTm1UAQ%3D%3D) | 
-| 2回韓国元老連戦8回戦陰城-富川 | Kim Dongyeop | Kim Ilhwan | B+2.5 | 2017-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N3tJ6DSrbfeRJ4irW7lASg%3D%3D) | 
-| 2回韓国元老連戦7回戦富川-烏鹭 | Kim Ilhwan | Park Yeongchan | W+R | 2017-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kifa1Z7NVm8hbne4%2FwuX2g%3D%3D) | 
-| 2回韓国元老連戦6回戦富川-尚州 | Seo Bongsoo | Kim Ilhwan | W+R | 2017-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1EBXUSjVYSkk1gwdKhB7QA%3D%3D) | 
-| 第2回韓国シニア囲碁リーグ | Kim Chongsu | Kim Ilhwan | W+6.5 | 2017-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AogM0Iuub2QQHoCDkhBSjg%3D%3D) | 
-| 2回韓国元老連戦3回戦三陟-富川 | Cho Daehyeon | Kim Ilhwan | B+R | 2017-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h8KhIu6%2B8t4QH1ylxPGWcQ%3D%3D) | 
-| 2回韓国元老連戦2回戦富川-釜山 | Kim Ilhwan | Chang Suyeong | W+3.5 | 2017-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JE3E%2FD0NNof%2FqWXcu%2Btv%2FA%3D%3D) | 
-| 2回韓国元老連戦1回戦陰城-富川 | Hwang Weonjun | Kim Ilhwan | W+R | 2017-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Th%2FBLmc5uqqzObr3Yknqig%3D%3D) | 
-| 第18回マキシムコーヒー杯入神最強戦1回戦 | Kim Ilhwan | Lee Yeongkyu | W+R | 2017-01-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8yvpRsGWq8m%2FjpOpXho1BA%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Kim Ilhwan | Choi Kyubyeong | B+R | 2016-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=annK%2FfGTSwgMiKbRac9gmw%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Hwang Weonjun | Kim Ilhwan | W+8.5 | 2016-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FJFREGqPlOfE%2FYc9I0rzFw%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Kim Soojang | Kim Ilhwan | B+2.5 | 2016-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=85qmW%2BbmwWemXklFBKzLQA%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Seo Nungwuk | Kim Ilhwan | W+10.5 | 2016-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cODPT4LGWWTaUmAs0MWFXA%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Seo Bongsoo | Kim Ilhwan | B+R | 2016-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N0nLVyFu82UHaZdlrPMoyg%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Yoo Changhyuk | Kim Ilhwan | B+R | 2016-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QTTOTq%2Fuzk5pPFaJXRjWpA%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Choi Kyubyeong | Kim Ilhwan | B+7.5 | 2016-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fDwn8DV5An3FJwwnhIeQRw%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Kim Ilhwan | Cho Hunhyun | W+7.5 | 2016-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rGUMyqemFYjPOYH1Nj7Qdg%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Kim Ilhwan | Kim Soojang | B+R | 2016-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S34yOn9se5zrAShpUqqmjA%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Kim Ilhwan | Seo Nungwuk | B+11.5 | 2016-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dtu3ITZ16ohVec4B2kiGtw%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Kim Ilhwan | Seo Bongsoo | W+R | 2016-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qrWqsa7MuwfcREk3GMk8rg%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Yoo Changhyuk | Kim Ilhwan | B+R | 2016-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fe8nW1Utcenih3SaZgx5pQ%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック国棋戦準決勝 | Kim Ilhwan | Cho Hunhyun | W+R | 2015-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HuW23G4rwAMUtlZ58UeQQg%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック国棋戦準々決勝 | Park Seungmun | Kim Ilhwan | W+R | 2015-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KQEi89bGoPEkRRUNIBS%2Flg%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック棋王戦準決勝 | Cho Hunhyun | Kim Ilhwan | B+14.5 | 2014-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Aa22zfGrk%2BF%2BpswpiMIm1Q%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック棋王戦準々決勝 | Kim Seongrae | Kim Ilhwan | W+R | 2014-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U%2BRD6pZV4vp2RFLnGQg4%2Bg%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック王位戦準々決勝 | Kim JongJoon | Kim Ilhwan | B+4.5 | 2014-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8nFs9a9ZjGa96wJaL1Fbow%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック国手戦決勝 | Choi Kyubyeong | Kim Ilhwan | B+11.5 | 2014-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FHGjmCJhipaPokw4nTK%2B%2BA%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック国手戦準決勝 | Cho Hunhyun | Kim Ilhwan | W+2.5 | 2014-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zk8RWyC6Q6cyhqlAK6JBGg%3D%3D) | 
-| 第8回GGオークション杯女流対シニア連勝対抗戦第3戦 | Kim Ilhwan | missing | W+2.5 | 2014-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FjaXSrpovXbx%2BpZOXHRzeg%3D%3D) | 
-| 第7回GGオークション杯女流対シニア連勝対抗戦第16戦 | Kim Ilhwan | Choi Jeong | W+R | 2013-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KR9%2FvcRLlUsAH9qDNRzRLA%3D%3D) | 
-| 第3回大舟杯プロシニア最強者戦2回戦 | Kim Ilhwan | Kang Hun | W+R | 2012-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B1hmRapFWdQiX9Yd%2Be0TOw%3D%3D) | 
-| 第14回マキシムコーヒー杯入神最強戦1回戦 | Cho Hunhyun | Kim Ilhwan | B+R | 2012-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MJ3JPDiT6nE9%2FlwEHqiMRw%3D%3D) | 
-| 第3回大舟杯プロシニア最強者戦予選 | Kim Ilhwan | Park Yeongchan | B+1.5 | 2012-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LoGDbMk756UG7dRMTapAPQ%3D%3D) | 
-| 第4回BCカード杯世界選手権1回戦 | Murakawa Daisuke | Kim Ilhwan | B+R | 2012-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bei2Af6Ff%2F%2FjsAR5alJUJA%3D%3D) | 
-| 第13回マキシムコーヒー杯入神最強戦2回戦 | Kim Ilhwan | Paek Seongho | W+R | 2011-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ReciJrEyFg82litVwNjEkg%3D%3D) | 
-| 第1回大舟杯プロシニア最強者戦2回戦 | Kwon Kapyong | Kim Ilhwan | B+R | 2010-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lmee9Fe8o7MeIkf6K0zBCA%3D%3D) | 
-| 第2回BCカード杯世界選手権2回戦 | Kim Ilhwan | Park Junghwan | W+6.5 | 2010-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XB7HkGVBpu0r%2BvuQhbdI2A%3D%3D) | 
-| 第2回BCカード杯世界選手権1回戦 | Kim Ilhwan | Lee Chungyu | B+R | 2010-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0p%2BjCQRQn1vM3hIouBhZCA%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ1回戦C2 | Ding Wei | Kim Ilhwan | B+R | 2009-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TUFLubHA6HmhQQP2hRMbNg%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ1回戦C1 | Kim Ilhwan | Hong Seongji | W+R | 2009-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gfbTNEMFgVvyD94rpF7c5A%3D%3D) | 
-| 第2回GGオークション杯特別対局 | Park Shiun | Kim Ilhwan | B+R | 2008-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xnb1likwBPZoxp3fvpD%2FoQ%3D%3D) | 
-| 第5期電子ランド杯王中王戦3回戦 | Kim Ilhwan | Lee Changho | W+R | 2008-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AgiKIUKlirHzCdPc3mIMhg%3D%3D) | 
-| 第5期電子ランド杯王中王戦2回戦 | Kim Ilhwan | Park Jinyeol | B+R | 2008-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rTjFK9NuhW17BXnb9AgWmQ%3D%3D) | 
-| 第5期電子ランド杯王中王戦1回戦 | Lee Sula | Kim Ilhwan | W+19.5 | 2008-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fi7Ni%2FGHAKcTMKUz%2FkXe4w%3D%3D) | 
-| 第5期電子ランド杯王中王戦予選 | Park Jinyeol | Kim Ilhwan | B+R | 2008-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kQcpESLBn99QNMsL2MNcMg%3D%3D) | 
-| 第9回マキシムコーヒー杯入神最強戦2回戦 | missing | Kim Ilhwan | B+R | 2007-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=crXOKC%2BuPKcmwqXaslirrA%3D%3D) | 
-| 第4期電子ランド杯王中王戦準決勝 | Lee Changho | Kim Ilhwan | B+R | 2007-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vJDilezQrBnxIB1VR%2FT9rQ%3D%3D) | 
-| 第4期電子ランド杯王中王戦3回戦 | Kim Ilhwan | Lee Hyeonwuk | B+R | 2007-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j%2FVVEz%2BcGplJoQjQTQmi0w%3D%3D) | 
-| 第4期電子ランド杯王中王戦2回戦 | Kim Ilhwan | Lee Huiseong | B+R | 2007-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1KN%2B6G7vWaAxYUcB7KqWhA%3D%3D) | 
-| 第4期電子ランド杯王中王戦1回戦 | No Yeongha | Kim Ilhwan | W+1.5 | 2007-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bcXQa5uPRuUsM9YyWJgUGw%3D%3D) | 
-| 第4期電子ランド杯王中王戦予選 | Kim Ilhwan | Kim JongJoon | W+R | 2007-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tKd4fYH7G6nlkYK5gfnNdQ%3D%3D) | 
-| 第8回マキシムコーヒー杯入神最強戦0回戦 | Kim Ilhwan | Oh Kyuchul | W+R | 2006-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UXURTb%2BcRxz%2F50wuQ93wBw%3D%3D) | 
-| 第7回マキシムコーヒー杯入神最強戦2回戦 | Kim Ilhwan | Choi Cheolhan | W+R | 2006-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QZOGK7zc44omZJS3AIPYQg%3D%3D) | 
-| 第5期ジャックフィールド杯プロシニア棋戦準決勝 | Kim Ilhwan | Chang Suyeong | W+4.5 | 2005-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4cQV4Jc9p976ltU5c2A96g%3D%3D) | 
-| 第39期王位戦2回戦 | Kim Ilhwan | Lee Yeongkyu | W+2.5 | 2005-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2XYez85gmYDanC3keLTGcQ%3D%3D) | 
-| 第6回マキシムコーヒー杯入神最強戦1回戦 | missing | Kim Ilhwan | B+7.5 | 2004-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4HYrAznctry1t%2Bwceao9Pw%3D%3D) | 
-| 第4期石種杯プロシニア棋戦決勝三番勝負第3局 | Kim Ilhwan | Chang Suyeong | W+R | 2004-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n8g1XNmClN2RIUou%2BgKc%2Fw%3D%3D) | 
-| 第4期石種杯プロシニア棋戦決勝三番勝負第2局 | Kim Ilhwan | Chang Suyeong | B+7.5 | 2004-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0OB4tOaXHBe%2Bk8VwQgShBg%3D%3D) | 
-| 第4期石種杯プロシニア棋戦決勝三番勝負第1局 | Chang Suyeong | Kim Ilhwan | B+R | 2004-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zhDpYBx9fVIGi5gtKGQ0fQ%3D%3D) | 
-| 第4期石種杯プロシニア棋戦準決勝 | Kim Soojang | Kim Ilhwan | W+R | 2004-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j7fjxVJAfvE%2BQAYCQceTqA%3D%3D) | 
-| 第15期棋聖戦（韓国）1回戦 | An Joyeong | Kim Ilhwan | B+R | 2003-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dV3WqmW3AsoLSnPMoBbzYA%3D%3D) | 
-| 第3回KAT杯韓国囲碁最強戦 | Seo Bongsoo | Kim Ilhwan | B+5.5 | 2003-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ic9KoxMoueeJe977Ha59DA%3D%3D) | 
-| 第3回KAT杯韓国囲碁最強戦 | Ha Chanseok | Kim Ilhwan | W+R | 2003-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h0F7P40ZB6usln3ge%2FjhtA%3D%3D) | 
-| 第4回マキシムコーヒー杯入神最強戦 | Kim Ilhwan | Rui Naiwei | W+R | 2002-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bKfjE3OI5NUlm12eHkTGUQ%3D%3D) | 
-| 第2回KAT杯韓国囲碁最強戦 | Kim Ilhwan | Seo Nungwuk | W+R | 2002-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q5ZFjOZeNnxZT9ArVEEGFw%3D%3D) | 
-| 第1回KAT杯韓国囲碁最強戦 | Kim Ilhwan | Yoo Changhyuk | W+R | 2002-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=88DCCkNn1dzfecfpijREJA%3D%3D) | 
-| 第3回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Kim Ilhwan | Yoo Changhyuk | W+R | 2002-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FBDaUW31%2FXk10mDL0KXhxQ%3D%3D) | 
-| 第3回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Yoo Changhyuk | Kim Ilhwan | B+3.5 | 2002-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qxX0Gkpn95NoK%2F3fJSDIhw%3D%3D) | 
-| 第3回マキシムコーヒー杯入神最強戦準決勝 | Kim Ilhwan | Seo Bongsoo | B+14.5 | 2001-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9UPRg%2BoUFQ1RCM7XXXkd4Q%3D%3D) | 
-| 第3回マキシムコーヒー杯入神最強戦1回戦 | Paek Seongho | Kim Ilhwan | W+3.5 | 2001-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tGkcwjGKgEX6ZyKA6pPeFw%3D%3D) | 
-| 第3回マキシムコーヒー杯入神最強戦 | Kim Ilhwan | Yoo Changhyuk | W+R | 2001-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O0OfSlyk%2BaB9i8eqvw3jWQ%3D%3D) | 
-| 第3回マキシムコーヒー杯入神最強戦 | Jiang Zhujiu | Kim Ilhwan | W+R | 2001-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wBn4C4%2B7guieWY297X8PUw%3D%3D) | 
-| 第3回マキシムコーヒー杯入神最強戦 | Kim Ilhwan | Seo Nungwuk | B+20.5 | 2001-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2GFe83bVoAG3Uicg2mTing%3D%3D) | 
-| 第2回マキシムコーヒー杯入神最強戦第1局 | Kim Ilhwan | Jiang Zhujiu | W+0.5 | 2000-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S4lbJ%2BYdlNi9kCwOUGanBg%3D%3D) | 
-| 第5期LG精油杯プロ棋戦1回戦 | Kim Ilhwan | Lee Changho | W+R | 2000-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r3l863Ju2hZ546v2Ta5Big%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-14 | 第23回農心杯韓国予選 | Kim Ilhwan | Paek Hongseok | Lose | W+R | 6.5 | 2727 | -467 | 
+| 2021-03-12 | 第6回未来の星新鋭最強戦2回戦 |  | Kim Ilhwan | Lose | B+R | 6.5 | 3194 | 388 | 
+| 2021-03-12 | 第6回未来の星新鋭最強戦2回戦 |  | Kim Ilhwan | Lose | B+R | 6.5 | 2806 | -559 | 
+| 2021-01-19 | 第8回大舟杯プロシニア最強者戦予選 | Kim Ilhwan | Kim Sinyoung | Lose | W+5.5 | 6.5 | 3365 | 507 | 
+| 2021-01-19 | 第8回大舟杯プロシニア最強者戦予選 | Kim Ilhwan | Kim Sinyoung | Lose | W+5.5 | 6.5 | 2858 | -378 | 
+| 2020-10-29 | 2020NHシニア囲碁リーグ準プレーオフ第1戦第2局 | Kim Soojang | Kim Ilhwan | Lose | B+6.5 | 6.5 | 3236 | 577 | 
+| 2020-10-29 | 2020NHシニア囲碁リーグ準プレーオフ第1戦第2局 | Kim Soojang | Kim Ilhwan | Lose | B+6.5 | 6.5 | 2659 | -584 | 
+| 2020-10-26 | 2020NHシニア囲碁リーグ第14節第1試合第2局 | Seo Bongsoo | Kim Ilhwan | Lose | B+11.5 | 6.5 | 3243 | 575 | 
+| 2020-10-26 | 2020NHシニア囲碁リーグ第14節第1試合第2局 | Seo Bongsoo | Kim Ilhwan | Lose | B+11.5 | 6.5 | 2668 | -567 | 
+| 2020-10-20 | 2020NHシニア囲碁リーグ第13節第2試合第1局 | Kim Ilhwan | Jimmy Cha | Win | B+8.5 | 6.5 | 3235 | 586 | 
+| 2020-10-20 | 2020NHシニア囲碁リーグ第13節第2試合第1局 | Kim Ilhwan | Jimmy Cha | Win | B+8.5 | 6.5 | 2649 | -598 | 
+| 2020-10-14 | 2020NHシニア囲碁リーグ第12節第3試合第2局 | Jeong Daesang | Kim Ilhwan | Lose | B+10.5 | 6.5 | 3247 | 595 | 
+| 2020-10-14 | 2020NHシニア囲碁リーグ第12節第3試合第2局 | Jeong Daesang | Kim Ilhwan | Lose | B+10.5 | 6.5 | 2652 | -588 | 
+| 2020-10-08 | 2020NHシニア囲碁リーグ第11節第4試合第2局 | Kim Ilhwan | Kim Dongmyeon | Lose | W+1.5 | 6.5 | 3240 | 573 | 
+| 2020-10-08 | 2020NHシニア囲碁リーグ第11節第4試合第2局 | Kim Ilhwan | Kim Dongmyeon | Lose | W+1.5 | 6.5 | 2667 | -532 | 
+| 2020-09-21 | 2020NHシニア囲碁リーグ第10節第1試合第1局 | Seo Nungwuk | Kim Ilhwan | Win | W+6.5 | 6.5 | 3199 | 560 | 
+| 2020-09-21 | 2020NHシニア囲碁リーグ第10節第1試合第1局 | Seo Nungwuk | Kim Ilhwan | Win | W+6.5 | 6.5 | 2639 | -548 | 
+| 2020-09-15 | 2020NHシニア囲碁リーグ第9節第2試合第2局 | Kim Ilhwan | Paek Seongho | Win | B+9.5 | 6.5 | 3187 | 609 | 
+| 2020-09-15 | 2020NHシニア囲碁リーグ第9節第2試合第2局 | Kim Ilhwan | Paek Seongho | Win | B+9.5 | 6.5 | 2578 | -614 | 
+| 2020-09-10 | 2020NHシニア囲碁リーグ第8節第4試合第1局 | Kim Kihun | Kim Ilhwan | Lose | B+1.5 | 6.5 | 3192 | 617 | 
+| 2020-09-10 | 2020NHシニア囲碁リーグ第8節第4試合第1局 | Kim Kihun | Kim Ilhwan | Lose | B+1.5 | 6.5 | 2575 | -640 | 
+| 2020-08-27 | 2020NHシニア囲碁リーグ第7節第4試合第1局 | Seo Bongsoo | Kim Ilhwan | Lose | B+14.5 | 6.5 | 3215 | 644 | 
+| 2020-08-27 | 2020NHシニア囲碁リーグ第7節第4試合第1局 | Seo Bongsoo | Kim Ilhwan | Lose | B+14.5 | 6.5 | 2571 | -638 | 
+| 2020-08-19 | 2020NHシニア囲碁リーグ第6節第3試合第1局 | Kim Ilhwan | Jimmy Cha | Win | B+R | 6.5 | 3209 | 644 | 
+| 2020-08-19 | 2020NHシニア囲碁リーグ第6節第3試合第1局 | Kim Ilhwan | Jimmy Cha | Win | B+R | 6.5 | 2565 | -631 | 
+| 2020-08-11 | 2020NHシニア囲碁リーグ第5節第2試合第1局 | Yoo Changhyuk | Kim Ilhwan | Lose | B+10.5 | 6.5 | 3196 | 720 | 
+| 2020-08-11 | 2020NHシニア囲碁リーグ第5節第2試合第1局 | Yoo Changhyuk | Kim Ilhwan | Lose | B+10.5 | 6.5 | 2476 | -640 | 
+| 2020-08-03 | 2020NHシニア囲碁リーグ第4節第1試合第1局 | Kim Chongsu | Kim Ilhwan | Win | W+18.5 | 6.5 | 3116 | 711 | 
+| 2020-08-03 | 2020NHシニア囲碁リーグ第4節第1試合第1局 | Kim Chongsu | Kim Ilhwan | Win | W+18.5 | 6.5 | 2405 | -590 | 
+| 2020-07-30 | 2020NHシニア囲碁リーグ第3節第4試合第1局 | Seo Nungwuk | Kim Ilhwan | Win | W+16.5 | 6.5 | 2995 | 625 | 
+| 2020-07-30 | 2020NHシニア囲碁リーグ第3節第4試合第1局 | Seo Nungwuk | Kim Ilhwan | Win | W+16.5 | 6.5 | 2370 | -637 | 
+| 2020-07-22 | 2020NHシニア囲碁リーグ第2節第3試合第1局 | Kim Ilhwan | Choi Kyubyeong | Win | B+3.5 | 6.5 | 3007 | 624 | 
+| 2020-07-22 | 2020NHシニア囲碁リーグ第2節第3試合第1局 | Kim Ilhwan | Choi Kyubyeong | Win | B+3.5 | 6.5 | 2383 | -660 | 
+| 2020-07-13 | 2020NHシニア囲碁リーグ第1節第1試合第1局 | Kim Ilhwan | Kim Soojang | Win | B+7.5 | 6.5 | 3043 | 591 | 
+| 2020-07-13 | 2020NHシニア囲碁リーグ第1節第1試合第1局 | Kim Ilhwan | Kim Soojang | Win | B+7.5 | 6.5 | 2452 | -568 | 
+| 2020-05-06 | 第8回河燦錫国手杯英才最強戦決勝三番勝負第3局 | Hyun Yoobin | Kim Ilhwan | Lose | B+R | 6.5 | 3020 | 549 | 
+| 2020-05-06 | 第8回河燦錫国手杯英才最強戦決勝三番勝負第3局 | Hyun Yoobin | Kim Ilhwan | Lose | B+R | 6.5 | 2471 | -622 | 
+| 2020-05-05 | 第8回河燦錫国手杯英才最強戦決勝三番勝負第2局 | Kim Ilhwan | Hyun Yoobin | Win | B+R | 6.5 | 3093 | 627 | 
+| 2020-05-05 | 第8回河燦錫国手杯英才最強戦決勝三番勝負第2局 | Kim Ilhwan | Hyun Yoobin | Win | B+R | 6.5 | 2466 | -574 | 
+| 2020-05-04 | 第8回河燦錫国手杯英才最強戦決勝三番勝負第1局 | Hyun Yoobin | Kim Ilhwan | Lose | B+R | 6.5 | 3040 | 579 | 
+| 2020-05-04 | 第8回河燦錫国手杯英才最強戦決勝三番勝負第1局 | Hyun Yoobin | Kim Ilhwan | Lose | B+R | 6.5 | 2461 | -811 | 
+| 2020-04-23 | 第8回河燦錫国手杯英才最強戦準決勝 |  | Kim Ilhwan | Win | W+R | 6.5 | 3272 | 813 | 
+| 2020-04-23 | 第8回河燦錫国手杯英才最強戦準決勝 |  | Kim Ilhwan | Win | W+R | 6.5 | 2459 | 31 | 
+| 2020-04-20 | 第25回LG杯韓国予選 | Kim Ilhwan | Shin Yoonho | Lose | W+R | 6.5 | 2428 | 1 | 
+| 2020-04-16 | 第25回LG杯韓国予選 | Kim Ilhwan |  | Win | B+R | 6.5 | 2427 | 47 | 
+| 2020-04-08 | 第8回河燦錫国手杯英才最強戦8強戦 | Kim Ilhwan | Moon Minjong | Win | B+R | 6.5 | 2380 | 2380 | 
+| 2020-03-14 | 第8回河燦錫国手杯英才最強戦16強戦 | Kim Ilhwan | Han Woojin | Win | B+R | 6.5 | missing | -2349 | 
+| 2020-03-12 | 第7回大舟杯プロシニア最強者戦8強戦 | Cho Hyeyeon | Kim Ilhwan | Lose | B+R | 6.5 | 2349 | 8 | 
+| 2020-02-25 | 第8回河燦錫国手杯英才最強戦1回戦 | Kim Ilhwan |  | Win | B+R | 6.5 | 2341 | -99 | 
+| 2020-02-14 | 第7回大舟杯プロシニア最強者戦16強戦 | Kim Ilhwan |  | Win | B+R | 6.5 | 2440 | 154 | 
+| 2019-12-19 | 2019NHシニア囲碁リーグ準プレーオフ第1戦第2局 | Cho Daehyeon | Kim Ilhwan | Lose | B+10.5 | 6.5 | 2286 | -42 | 
+| 2019-12-18 | 2019NHシニア囲碁リーグ第14節第1試合第1局 | Kim Ilhwan | Oh Kyuchul | Win | B+2.5 | 6.5 | 2328 | 58 | 
+| 2019-12-10 | 2019NHシニア囲碁リーグ第13節第2試合第1局 | Kim Ilhwan | Seo Nungwuk | Lose | W+R | 6.5 | 2270 | -27 | 
+| 2019-12-04 | 2019NHシニア囲碁リーグ第12節第3試合第1局 | Kim Ilhwan | Kang Hun | Win | B+6.5 | 6.5 | 2297 | 25 | 
+| 2019-11-29 | 2019NHシニア囲碁リーグ第11節第4試合第2局 | Kim Ilhwan | Paek Seongho | Lose | W+7.5 | 6.5 | 2272 | -90 | 
+| 2019-11-25 | 2019NHシニア囲碁リーグ第10節第1試合第2局 | Kim Ilhwan | Kim Kihun | Lose | W+8.5 | 6.5 | 2362 | -61 | 
+| 2019-11-19 | 2019NHシニア囲碁リーグ第9節第2試合第1局 | Kim JongJoon | Kim Ilhwan | Win | W+10.5 | 6.5 | 2423 | 28 | 
+| 2019-11-14 | 2019NHシニア囲碁リーグ第8節第4試合第1局 | An Kwanwuk | Kim Ilhwan | Win | W+R | 6.5 | 2395 | 5 | 
+| 2019-11-08 | 2019NHシニア囲碁リーグ第7節第4試合第1局 | Kim Dongmyeon | Kim Ilhwan | Win | W+6.5 | 6.5 | 2390 | 10 | 
+| 2019-11-06 | 2019NHシニア囲碁リーグ第6節第3試合第1局 | Kim Ilhwan | Seo Nungwuk | Win | B+8.5 | 6.5 | 2380 | 206 | 
+| 2019-10-31 | 2019NHシニア囲碁リーグ第5節第2試合第2局 | Kim Ilhwan | Chang Suyeong | Win | B+T | 6.5 | 2174 | 130 | 
+| 2019-10-21 | 2019NHシニア囲碁リーグ第4節第1試合第1局 | Kim Ilhwan | Moon Myunggun | Win | B+R | 6.5 | 2044 | 199 | 
+| 2019-10-18 | 2019NHシニア囲碁リーグ第3節第4試合第1局 | Kim Soojang | Kim Ilhwan | Lose | B+0.5 | 6.5 | 1845 | 1845 | 
+| 2019-10-16 | 2019NHシニア囲碁リーグ第2節第3試合第2局 | Cho Daehyeon | Kim Ilhwan | Lose | B+2.5 | 6.5 | missing | 6141 | 
+| 2019-10-07 | 2019NHシニア囲碁リーグ第1節第1試合第3局 | Kim Ilhwan | Park Seungmun | Win | B+12.5 | 6.5 | -6141 | -8576 | 
+| 2019-04-25 | 2019年1004島新安国際シニア囲碁大会韓国国内予選 | Jimmy Cha | Kim Ilhwan | Lose | B+8.5 | 6.5 | 2435 | -11 | 
+| 2019-03-26 | 第6回大舟杯プロシニア最強者戦16強戦 | Kim Ilhwan | Kang Hun | Lose | W+5.5 | 6.5 | 2446 | -53 | 
+| 2019-01-15 | 第7回河燦錫国手杯英才囲碁大会24強戦 | Kim Ilhwan |  | Lose | W+R | 6.5 | 2499 | -98 | 
+| 2018-10-10 | 第3回韓国シニア囲碁リーグプレーオフ富川-尚州 | Kim Kihun | Kim Ilhwan | Win | W+R | 6.5 | 2597 | 0 | 
+| 2018-09-18 | 第3回韓国シニア囲碁リーグ第14節霊岩-富川 | Kim Chongsu | Kim Ilhwan | Win | W+0.5 | 6.5 | 2597 | 37 | 
+| 2018-09-12 | 第3回韓国シニア囲碁リーグ第13節富川-三陟 | Kim Ilhwan |  | Win | B+5.5 | 6.5 | 2560 | -13 | 
+| 2018-08-20 | 第3回韓国シニア囲碁リーグ第11節富川-釜山 | Kang Hun | Kim Ilhwan | Win | W+R | 6.5 | 2573 | 12 | 
+| 2018-08-15 | 第3回韓国シニア囲碁リーグ第10節富川-尚州 | Kim Ilhwan | Kim Kihun | Lose | W+3.5 | 6.5 | 2561 | 33 | 
+| 2018-08-07 | 第3回韓国シニア囲碁リーグ第9節陰城-富川 | Kim Ilhwan | Kim Dongyeop | Win | B+3.5 | 6.5 | 2528 | 68 | 
+| 2018-07-31 | 第3回韓国シニア囲碁リーグ第8節富川-烏鹭 | Seo Nungwuk | Kim Ilhwan | Lose | B+10.5 | 6.5 | 2460 | -20 | 
+| 2018-07-24 | 第3回韓国シニア囲碁リーグ第7節霊岩-富川 | Oh Kyuchul | Kim Ilhwan | Win | W+1.5 | 6.5 | 2480 | 102 | 
+| 2018-07-16 | 第3回韓国シニア囲碁リーグ第6節富川-三陟 | Park Seungmun | Kim Ilhwan | Win | W+R | 6.5 | 2378 | 35 | 
+| 2018-06-27 | 第3回韓国シニア囲碁リーグ第4節富川-釜山 | Chang Suyeong | Kim Ilhwan | Win | W+R | 6.5 | 2343 | 8 | 
+| 2018-06-18 | 第3回韓国シニア囲碁リーグ第3節富川-尚州 | Kim Ilhwan | Seo Bongsoo | Lose | W+R | 6.5 | 2335 | -18 | 
+| 2018-06-12 | 第3回韓国シニア囲碁リーグ第2節陰城-富川 | Kim Ilhwan | Jimmy Cha | Lose | W+1.5 | 6.5 | 2353 | -64 | 
+| 2018-06-05 | 第3回韓国シニア囲碁リーグ第1節富川-サイバーORO | Park Yeongchan | Kim Ilhwan | Win | W+R | 6.5 | 2417 | -28 | 
+| 2018-04-02 | 第5回大舟杯プロシニア最強者戦2回戦 | Cho Hyeyeon | Kim Ilhwan | Lose | B+R | 6.5 | 2445 | -135 | 
+| 2018-03-13 | 第2回世界シニア囲碁大会選抜戦 | Yang Jaeho | Kim Ilhwan | Lose | B+0.5 | 7.5 | 2580 | -29 | 
+| 2018-02-20 | 第5回大舟杯プロシニア最強者戦1回戦 | Choi Kyubyeong | Kim Ilhwan | Win | W+5.5 | 6.5 | 2609 | 2609 | 
+| 2018-01-03 | 第6回陜川郡招待河燦錫国手杯英才囲碁大会16強戦 | Park Sangjin | Kim Ilhwan | Lose | B+R | 6.5 | missing | -2486 | 
+| 2017-10-23 | 第2回韓国元老連戦14回戦富川-烏鹭 |  | Kim Ilhwan | Lose | B+R | 6.5 | 2486 | -38 | 
+| 2017-10-17 | 2回韓国元老連戦13回戦富川-尚州 | Kim Ilhwan | Paek Seongho | Win | B+R | 6.5 | 2524 | 71 | 
+| 2017-10-09 | 2回韓国元老連戦12回戦霊岩-富川 | Kim Ilhwan | Kim Chongsu | Win | B+20.5 | 6.5 | 2453 | 2 | 
+| 2017-09-25 | 2回韓国元老連戦10回戦三陟-富川 |  | Kim Ilhwan | Win | W+R | 6.5 | 2451 | 27 | 
+| 2017-09-20 | 2回韓国元老連戦9回戦富川-釜山 | Kang Hun | Kim Ilhwan | Lose | B+R | 6.5 | 2424 | 38 | 
+| 2017-09-12 | 2回韓国元老連戦8回戦陰城-富川 | Kim Dongyeop | Kim Ilhwan | Lose | B+2.5 | 6.5 | 2386 | -61 | 
+| 2017-09-06 | 2回韓国元老連戦7回戦富川-烏鹭 | Kim Ilhwan | Park Yeongchan | Lose | W+R | 6.5 | 2447 | -11 | 
+| 2017-08-29 | 2回韓国元老連戦6回戦富川-尚州 | Seo Bongsoo | Kim Ilhwan | Win | W+R | 6.5 | 2458 | 376 | 
+| 2017-08-23 | 第2回韓国シニア囲碁リーグ | Kim Chongsu | Kim Ilhwan | Win | W+6.5 | 6.5 | 2082 | 2082 | 
+| 2017-08-09 | 2回韓国元老連戦3回戦三陟-富川 | Cho Daehyeon | Kim Ilhwan | Lose | B+R | 6.5 | missing | 0 | 
+| 2017-07-31 | 2回韓国元老連戦2回戦富川-釜山 | Kim Ilhwan | Chang Suyeong | Lose | W+3.5 | 6.5 | missing | 0 | 
+| 2017-07-25 | 2回韓国元老連戦1回戦陰城-富川 | Hwang Weonjun | Kim Ilhwan | Win | W+R | 6.5 | missing | -2510 | 
+| 2017-01-03 | 第18回マキシムコーヒー杯入神最強戦1回戦 | Kim Ilhwan | Lee Yeongkyu | Lose | W+R | 6.5 | 2510 | 90 | 
+| 2016-07-04 | 第1回韓国シニア囲碁リーグ | Kim Ilhwan | Choi Kyubyeong | Win | B+R | 6.5 | 2420 | -1 | 
+| 2016-06-29 | 第1回韓国シニア囲碁リーグ | Hwang Weonjun | Kim Ilhwan | Win | W+8.5 | 6.5 | 2421 | -13 | 
+| 2016-06-22 | 第1回韓国シニア囲碁リーグ | Kim Soojang | Kim Ilhwan | Lose | B+2.5 | 6.5 | 2434 | 29 | 
+| 2016-06-15 | 第1回韓国シニア囲碁リーグ | Seo Nungwuk | Kim Ilhwan | Win | W+10.5 | 6.5 | 2405 | 105 | 
+| 2016-05-30 | 第1回韓国シニア囲碁リーグ | Seo Bongsoo | Kim Ilhwan | Lose | B+R | 6.5 | 2300 | 6 | 
+| 2016-05-16 | 第1回韓国シニア囲碁リーグ | Yoo Changhyuk | Kim Ilhwan | Lose | B+R | 6.5 | 2294 | -72 | 
+| 2016-05-11 | 第1回韓国シニア囲碁リーグ | Choi Kyubyeong | Kim Ilhwan | Lose | B+7.5 | 6.5 | 2366 | -141 | 
+| 2016-05-02 | 第1回韓国シニア囲碁リーグ | Kim Ilhwan | Cho Hunhyun | Lose | W+7.5 | 6.5 | 2507 | 26 | 
+| 2016-04-25 | 第1回韓国シニア囲碁リーグ | Kim Ilhwan | Kim Soojang | Win | B+R | 6.5 | 2481 | 201 | 
+| 2016-04-18 | 第1回韓国シニア囲碁リーグ | Kim Ilhwan | Seo Nungwuk | Win | B+11.5 | 6.5 | 2280 | 2280 | 
+| 2016-03-30 | 第1回韓国シニア囲碁リーグ | Kim Ilhwan | Seo Bongsoo | Lose | W+R | 6.5 | missing | 0 | 
+| 2016-03-23 | 第1回韓国シニア囲碁リーグ | Yoo Changhyuk | Kim Ilhwan | Lose | B+R | 6.5 | missing | -2441 | 
+| 2015-01-23 | 2014-2015年シニア囲碁クラシック国棋戦準決勝 | Kim Ilhwan | Cho Hunhyun | Lose | W+R | 6.5 | 2441 | -23 | 
+| 2015-01-22 | 2014-2015年シニア囲碁クラシック国棋戦準々決勝 | Park Seungmun | Kim Ilhwan | Win | W+R | 6.5 | 2464 | 240 | 
+| 2014-11-28 | 2014-2015年シニア囲碁クラシック棋王戦準決勝 | Cho Hunhyun | Kim Ilhwan | Lose | B+14.5 | 6.5 | 2224 | -80 | 
+| 2014-11-27 | 2014-2015年シニア囲碁クラシック棋王戦準々決勝 | Kim Seongrae | Kim Ilhwan | Win | W+R | 6.5 | 2304 | -235 | 
+| 2014-09-25 | 2014-2015年シニア囲碁クラシック王位戦準々決勝 | Kim JongJoon | Kim Ilhwan | Lose | B+4.5 | 6.5 | 2539 | -213 | 
+| 2014-07-31 | 2014-2015年シニア囲碁クラシック国手戦決勝 | Choi Kyubyeong | Kim Ilhwan | Lose | B+11.5 | 6.5 | 2752 | -20 | 
+| 2014-07-30 | 2014-2015年シニア囲碁クラシック国手戦準決勝 | Cho Hunhyun | Kim Ilhwan | Win | W+2.5 | 6.5 | 2772 | 2772 | 
+| 2014-07-14 | 第8回GGオークション杯女流対シニア連勝対抗戦第3戦 | Kim Ilhwan |  | Lose | W+2.5 | 6.5 | missing | 0 | 
+| 2013-08-27 | 第7回GGオークション杯女流対シニア連勝対抗戦第16戦 | Kim Ilhwan | Choi Jeong | Lose | W+R | 6.5 | missing | 0 | 
+| 2012-12-12 | 第3回大舟杯プロシニア最強者戦2回戦 | Kim Ilhwan | Kang Hun | Lose | W+R | 6.5 | missing | 0 | 
+| 2012-11-16 | 第14回マキシムコーヒー杯入神最強戦1回戦 | Cho Hunhyun | Kim Ilhwan | Lose | B+R | 6.5 | missing | 0 | 
+| 2012-11-12 | 第3回大舟杯プロシニア最強者戦予選 | Kim Ilhwan | Park Yeongchan | Win | B+1.5 | 7.5 | missing | 0 | 
+| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Murakawa Daisuke | Kim Ilhwan | Lose | B+R | 6.5 | missing | 0 | 
+| 2011-12-01 | 第13回マキシムコーヒー杯入神最強戦2回戦 | Kim Ilhwan | Paek Seongho | Lose | W+R | 6.5 | missing | -3126 | 
+| 2010-11-16 | 第1回大舟杯プロシニア最強者戦2回戦 | Kwon Kapyong | Kim Ilhwan | Lose | B+R | 6.5 | 3126 | 409 | 
+| 2010-01-29 | 第2回BCカード杯世界選手権2回戦 | Kim Ilhwan | Park Junghwan | Lose | W+6.5 | 6.5 | 2717 | -125 | 
+| 2010-01-16 | 第2回BCカード杯世界選手権1回戦 | Kim Ilhwan | Lee Chungyu | Win | B+R | 6.5 | 2842 | 2842 | 
+| 2009-09-11 | 第14回三星火災杯世界囲碁マスターズ1回戦C2 | Ding Wei | Kim Ilhwan | Lose | B+R | 6.5 | missing | 0 | 
+| 2009-09-10 | 第14回三星火災杯世界囲碁マスターズ1回戦C1 | Kim Ilhwan | Hong Seongji | Lose | W+R | 6.5 | missing | -2382 | 
+| 2008-07-24 | 第2回GGオークション杯特別対局 | Park Shiun | Kim Ilhwan | Lose | B+R | 6.5 | 2382 | 101 | 
+| 2008-07-15 | 第5期電子ランド杯王中王戦3回戦 | Kim Ilhwan | Lee Changho | Lose | W+R | 6.5 | 2281 | -179 | 
+| 2008-06-09 | 第5期電子ランド杯王中王戦2回戦 | Kim Ilhwan | Park Jinyeol | Win | B+R | 6.5 | 2460 | -227 | 
+| 2008-04-26 | 第5期電子ランド杯王中王戦1回戦 | Lee Sula | Kim Ilhwan | Win | W+19.5 | 6.5 | 2687 | 139 | 
+| 2008-03-14 | 第5期電子ランド杯王中王戦予選 | Park Jinyeol | Kim Ilhwan | Lose | B+R | 6.5 | 2548 | -1236 | 
+| 2007-09-13 | 第9回マキシムコーヒー杯入神最強戦2回戦 |  | Kim Ilhwan | Lose | B+R | 6.5 | 3784 | 903 | 
+| 2007-06-25 | 第4期電子ランド杯王中王戦準決勝 | Lee Changho | Kim Ilhwan | Lose | B+R | 6.5 | 2881 | -27 | 
+| 2007-06-19 | 第4期電子ランド杯王中王戦3回戦 | Kim Ilhwan | Lee Hyeonwuk | Win | B+R | 6.5 | 2908 | 52 | 
+| 2007-05-03 | 第4期電子ランド杯王中王戦2回戦 | Kim Ilhwan | Lee Huiseong | Win | B+R | 6.5 | 2856 | 2856 | 
+| 2007-04-05 | 第4期電子ランド杯王中王戦1回戦 | No Yeongha | Kim Ilhwan | Win | W+1.5 | 6.5 | missing | 0 | 
+| 2007-01-11 | 第4期電子ランド杯王中王戦予選 | Kim Ilhwan | Kim JongJoon | Lose | W+R | 6.5 | missing | 0 | 
+| 2006-08-28 | 第8回マキシムコーヒー杯入神最強戦0回戦 | Kim Ilhwan | Oh Kyuchul | Lose | W+R | 6.5 | missing | 0 | 
+| 2006-01-10 | 第7回マキシムコーヒー杯入神最強戦2回戦 | Kim Ilhwan | Choi Cheolhan | Lose | W+R | 6.5 | missing | 0 | 
+| 2005-08-09 | 第5期ジャックフィールド杯プロシニア棋戦準決勝 | Kim Ilhwan | Chang Suyeong | Lose | W+4.5 | 6.5 | missing | -2484 | 
+| 2005-04-22 | 第39期王位戦2回戦 | Kim Ilhwan | Lee Yeongkyu | Lose | W+2.5 | 6.5 | 2484 | -373 | 
+| 2004-09-09 | 第6回マキシムコーヒー杯入神最強戦1回戦 |  | Kim Ilhwan | Lose | B+7.5 | 6.5 | 2857 | 1860 | 
+| 2004-04-25 | 第4期石種杯プロシニア棋戦決勝三番勝負第3局 | Kim Ilhwan | Chang Suyeong | Lose | W+R | 6.5 | 997 | 1 | 
+| 2004-04-23 | 第4期石種杯プロシニア棋戦決勝三番勝負第2局 | Kim Ilhwan | Chang Suyeong | Win | B+7.5 | 6.5 | 996 | 996 | 
+| 2004-04-14 | 第4期石種杯プロシニア棋戦決勝三番勝負第1局 | Chang Suyeong | Kim Ilhwan | Lose | B+R | 6.5 | missing | 0 | 
+| 2004-03-10 | 第4期石種杯プロシニア棋戦準決勝 | Kim Soojang | Kim Ilhwan | Win | W+R | 6.5 | missing | 0 | 
+| 2003-09-04 | 第15期棋聖戦（韓国）1回戦 | An Joyeong | Kim Ilhwan | Lose | B+R | 6.5 | missing | 0 | 
+| 2003-02-24 | 第3回KAT杯韓国囲碁最強戦 | Seo Bongsoo | Kim Ilhwan | Lose | B+5.5 | 6.5 | missing | 0 | 
+| 2003-01-07 | 第3回KAT杯韓国囲碁最強戦 | Ha Chanseok | Kim Ilhwan | Win | W+R | 6.5 | missing | -2270 | 
+| 2002-11-19 | 第4回マキシムコーヒー杯入神最強戦 | Kim Ilhwan | Rui Naiwei | Lose | W+R | 6.5 | 2270 | -53 | 
+| 2002-08-16 | 第2回KAT杯韓国囲碁最強戦 | Kim Ilhwan | Seo Nungwuk | Lose | W+R | 6.5 | 2323 | 293 | 
+| 2002-04-27 | 第1回KAT杯韓国囲碁最強戦 | Kim Ilhwan | Yoo Changhyuk | Lose | W+R | 6.5 | 2030 | -968 | 
+| 2002-01-29 | 第3回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Kim Ilhwan | Yoo Changhyuk | Lose | W+R | 6.5 | 2998 | -138 | 
+| 2002-01-14 | 第3回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Yoo Changhyuk | Kim Ilhwan | Lose | B+3.5 | 6.5 | 3136 | -106 | 
+| 2001-12-20 | 第3回マキシムコーヒー杯入神最強戦準決勝 | Kim Ilhwan | Seo Bongsoo | Win | B+14.5 | 6.5 | 3242 | 29 | 
+| 2001-12-17 | 第3回マキシムコーヒー杯入神最強戦1回戦 | Paek Seongho | Kim Ilhwan | Win | W+3.5 | 6.5 | 3213 | 5 | 
+| 2001-12-11 | 第3回マキシムコーヒー杯入神最強戦 | Kim Ilhwan | Yoo Changhyuk | Lose | W+R | 6.5 | 3208 | 3208 | 
+| 2001-11-22 | 第3回マキシムコーヒー杯入神最強戦 | Jiang Zhujiu | Kim Ilhwan | Win | W+R | 6.5 | missing | 0 | 
+| 2001-11-20 | 第3回マキシムコーヒー杯入神最強戦 | Kim Ilhwan | Seo Nungwuk | Win | B+20.5 | 6.5 | missing | 0 | 
+| 2000-10-20 | 第2回マキシムコーヒー杯入神最強戦第1局 | Kim Ilhwan | Jiang Zhujiu | Lose | W+0.5 | 6.5 | missing | 0 | 
+| 2000-04-03 | 第5期LG精油杯プロ棋戦1回戦 | Kim Ilhwan | Lee Changho | Lose | W+R | 6.5 | missing | missing |
 
 
 

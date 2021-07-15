@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-15 | 第47期名人戦予選 | Ueno Asami | O Meien | Lose | B+5.5 | 6.5 | 2900 | -38 | 
+| 2021-07-08 | 第46期棋聖戦Cリーグ | O Meien | Otake Yu | Lose | W+R | 6.5 | 2938 | -12 | 
 | 2021-06-24 | 第46期棋聖戦Cリーグ | Xie Yimin | O Meien | Win | W+R | 6.5 | 2950 | 67 | 
 | 2021-05-27 | 第46期棋聖戦Cリーグ | O Meien | Kubo Katsuaki | Win | B+4.5 | 6.5 | 2883 | -9 | 
 | 2021-05-06 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Fujisawa Rina | O Meien | Lose | B+R | 6.5 | 2892 | -57 | 

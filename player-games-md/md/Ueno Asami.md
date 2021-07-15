@@ -7,7 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-07-08 | 第40期女流本因坊戦3回戦  | Xie Yimin | Ueno Asami | Lose | B+R | 6.5 | 3002 | -11 | 
+| 2021-07-15 | 第47期名人戦予選 | Ueno Asami | O Meien | Win | B+5.5 | 6.5 | 3014 | 12 | 
+| 2021-07-08 | 第40期女流本因坊戦3回戦  | Xie Yimin | Ueno Asami | Lose | B+R | 6.5 | 3002 | -4 | 
+| 2021-07-05 | 第6回扇興杯女流最強戦1回戦 | Ueno Asami | Taguchi Misei | Win | B+R | 6.5 | 3006 | -7 | 
 | 2021-06-28 | 第60期十段戦予選 | Lee Ishu | Ueno Asami | Win | W+R | 6.5 | 3013 | 6 | 
 | 2021-06-24 | 第47期名人戦予選 |  | Ueno Asami | Win | W+R | 6.5 | 3007 | -4 | 
 | 2021-06-19 | 第8期会津中央病院・女流立葵杯挑戦手合三番勝負第2局  | Fujisawa Rina | Ueno Asami | Lose | B+R | 6.5 | 3011 | 3 | 

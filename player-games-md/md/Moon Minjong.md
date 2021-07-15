@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-15 | 第23回農心杯韓国予選 | Moon Minjong | Han Wonggyu | Lose | W+R | 6.5 | 3256 | 1 | 
 | 2021-07-13 | 2021陜川歴代英才vs女子頂上連勝対抗戦第6局 | Kim Cheayoung | Moon Minjong | Win | W+R | 6.5 | 3255 | 2 | 
 | 2021-07-12 | 2021陜川歴代英才vs女子頂上連勝対抗戦第5局 | Kim Hyeoimin | Moon Minjong | Win | W+4.5 | 6.5 | 3253 | 29 | 
 | 2021-07-06 | 2021陜川歴代英才vs女子頂上連勝対抗戦第4局 | Moon Minjong | Oh Jeonga | Win | B+R | 6.5 | 3224 | 4 | 

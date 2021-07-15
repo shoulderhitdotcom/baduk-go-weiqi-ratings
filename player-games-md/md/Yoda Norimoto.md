@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-15 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Hsu Chiayuan | Lose | W+6.5 | 6.5 | 3160 | 0 | 
 | 2021-07-15 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Hsu Chiayuan | Lose | W+6.5 | 6.5 | 3160 | -40 | 
 | 2021-06-24 | 第60期十段戦予選 | Mochizuki Kenichi | Yoda Norimoto | Lose | B+3.5 | 6.5 | 3200 | 10 | 
 | 2021-06-10 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Mutsuura Yuta | Win | B+R | 6.5 | 3190 | 24 | 

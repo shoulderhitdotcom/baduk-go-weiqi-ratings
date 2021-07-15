@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-07-01 | 第46期名人戦リーグ  | Ichiriki Ryo | Kono Rin | Lose | B+0.5 | 6.5 | 3107 | 1 | 
+| 2021-07-15 | 第46期棋聖戦Sリーグ | Kono Rin | Takao Shinji | Lose | W+R | 6.5 | 3096 | 10 | 
+| 2021-07-15 | 第46期棋聖戦Sリーグ | Kono Rin | Takao Shinji | Lose | W+R | 6.5 | 3086 | -20 | 
 | 2021-07-01 | 第46期名人戦リーグ  | Ichiriki Ryo | Kono Rin | Lose | B+0.5 | 6.5 | 3106 | -44 | 
 | 2021-06-14 | 第46期名人戦リーグ | Kono Rin | Motoki Katsuya | Lose | W+R | 6.5 | 3150 | -4 | 
 | 2021-06-10 | 第46期棋聖戦Sリーグ | Kono Rin | Yu Zhengqi | Lose | W+R | 6.5 | 3154 | -35 | 

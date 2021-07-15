@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-07-15 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Hsu Chiayuan | Win | W+6.5 | 6.5 | 3318 | 2 | 
+| 2021-07-15 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Hsu Chiayuan | Win | W+6.5 | 6.5 | 3318 | -1 | 
+| 2021-07-15 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Hsu Chiayuan | Win | W+6.5 | 6.5 | 3319 | 3 | 
 | 2021-07-12 | 第69期王座戦2回戦 | Ida Atsushi | Hsu Chiayuan | Lose | B+R | 6.5 | 3316 | 2 | 
 | 2021-07-08 | 第46期名人戦リーグ  | Hsu Chiayuan | Hane Naoki | Lose | W+R | 6.5 | 3314 | -21 | 
 | 2021-06-17 | 第46期棋聖戦Aリーグ | Hsu Chiayuan | Hane Naoki | Lose | W+R | 6.5 | 3335 | 19 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-15 | 第23回農心杯韓国予選 | Kim Seongjae | Kim Hyeongwoo | Win | B+R | 6.5 | 3327 | 0 | 
 | 2021-07-15 | 第23回農心杯韓国予選 | Kim Seongjae | Kim Hyeongwoo | Win | B+R | 6.5 | 3327 | 3327 | 
 | 2021-05-02 | 第26回LG杯韓国予選 | Kim Seongjae | Kim Junghyun | Lose | W+R | 6.5 | missing | -2917 | 
 | 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Kim Seongjae | Cho Hanseung | Lose | W+5.5 | 6.5 | 2917 | -90 | 

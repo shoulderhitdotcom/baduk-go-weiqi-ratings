@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-16 | 第23回農心杯韓国予選 | Choi Cheolhan | Hong Seongji | Win | W+R | 6.5 | 3264 | 19 | 
 | 2021-07-10 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Han Seungjoo | Hong Seongji | Lose | B+R | 6.5 | 3245 | -57 | 
 | 2021-05-31 | 第26回LG杯朝鮮日報棋王戦1回戦 | Hong Seongji | Chen Qirui | Lose | W+1.5 | 6.5 | 3302 | -42 | 
 | 2021-05-15 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Hong Seongji | Byun Sangil | Lose | W+3.5 | 6.5 | 3344 | -59 | 

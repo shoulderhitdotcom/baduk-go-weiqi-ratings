@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-16 | 第23回農心杯韓国予選 | Choi Cheolhan | Hong Seongji | Lose | W+R | 6.5 | 3300 | -41 | 
+| 2021-07-02 | 第44期名人戦（韓国）敗者復活戦4回戦 | Choi Cheolhan | Shin Jinseo | Lose | W+R | 6.5 | 3341 | -10 | 
 | 2021-06-18 | 第44期名人戦（韓国）3回戦 | Choi Cheolhan | Byun Sangil | Lose | W+R | 6.5 | 3351 | -4 | 
 | 2021-06-16 | 第4期韓国竜星戦3回戦 | Hong Mujin | Choi Cheolhan | Lose | B+R | 6.5 | 3355 | -45 | 
 | 2021-05-28 | 第26回GSカルテックス杯プロ棋戦2回戦 | An Sungjoon | Choi Cheolhan | Lose | B+R | 6.5 | 3400 | -16 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-17 | 第44期名人戦（韓国）敗者復活戦決勝 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3627 | -27 | 
 | 2021-07-13 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第5局 | Park Junghwan | Shin Jinseo | Lose | W+R | 6.5 | 3654 | -5 | 
 | 2021-07-12 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第4局 | Shin Jinseo | Park Junghwan | Win | W+R | 6.5 | 3659 | 7 | 
 | 2021-07-10 | 第44期名人戦（韓国）勝者組決勝 | Byun Sangil | Park Junghwan | Lose | B+R | 6.5 | 3652 | -10 | 

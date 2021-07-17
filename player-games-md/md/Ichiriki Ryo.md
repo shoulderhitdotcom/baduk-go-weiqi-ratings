@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-17 | 第46期碁聖戦挑戦手合五番勝負第3局  | Iyama Yuta | Ichiriki Ryo | Win | W+R | 6.5 | 3497 | -17 | 
 | 2021-07-12 | 第46期碁聖戦挑戦手合五番勝負第2局  | Ichiriki Ryo | Iyama Yuta | Win | B+0.5 | 6.5 | 3514 | 8 | 
 | 2021-07-08 | 第69期王座戦2回戦 | Takao Shinji | Ichiriki Ryo | Win | W+R | 6.5 | 3506 | 10 | 
 | 2021-07-05 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Motoki Katsuya | Ichiriki Ryo | Lose | B+R | 6.5 | 3496 | 0 | 

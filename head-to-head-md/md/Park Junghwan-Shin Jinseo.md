@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Junghwan vs Shin Jinseo** | **Park Junghwan streak** | **Shin Jinseo streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-07-13 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第5局 | Park Junghwan | Shin Jinseo | W+R | 6.5 | 0:1 | 0 | 1 | 
+| 2021-07-17 | 第44期名人戦（韓国）敗者復活戦決勝 | Shin Jinseo | Park Junghwan | B+R | 6.5 | 0:1 | 0 | 1 | 
+| 2021-07-13 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第5局 | Park Junghwan | Shin Jinseo | W+R | 6.5 | 18:22 | 0 | 1 | 
 | 2021-07-12 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第4局 | Shin Jinseo | Park Junghwan | W+R | 6.5 | 18:21 | 1 | 0 | 
 | 2021-07-08 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第3局 | Park Junghwan | Shin Jinseo | W+R | 6.5 | 17:21 | 0 | 2 | 
 | 2021-07-06 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第2局 | Shin Jinseo | Park Junghwan | B+R | 6.5 | 17:20 | 0 | 1 | 

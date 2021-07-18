@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-18 | 第7回韓国女子囲碁リーグ | Kim Hyeoimin |  | Win | B+R | 6.5 | 2890 | -15 | 
 | 2021-07-12 | 2021陜川歴代英才vs女子頂上連勝対抗戦第5局 | Kim Hyeoimin | Moon Minjong | Lose | W+4.5 | 6.5 | 2905 | -15 | 
 | 2021-07-08 | 第7回韓国女子囲碁リーグ |  | Kim Hyeoimin | Lose | B+R | 6.5 | 2920 | -26 | 
 | 2021-07-03 | 第7回韓国女子囲碁リーグ |  | Kim Hyeoimin | Lose | B+R | 6.5 | 2946 | -8 | 

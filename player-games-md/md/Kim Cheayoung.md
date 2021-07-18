@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Kim Cheayoung | Nakamura Sumire | Lose | W+¼ | 7.5 | 2941 | -45 | 
+| 2021-07-15 | 第7回韓国女子囲碁リーグ | Kim Cheayoung |  | Lose | W+R | 6.5 | 2986 | -14 | 
 | 2021-07-13 | 2021陜川歴代英才vs女子頂上連勝対抗戦第6局 | Kim Cheayoung | Moon Minjong | Lose | W+R | 6.5 | 3000 | -11 | 
 | 2021-07-10 | 第7回韓国女子囲碁リーグ | Park Taehee | Kim Cheayoung | Win | W+R | 6.5 | 3011 | -25 | 
 | 2021-07-01 | 第7回韓国女子囲碁リーグ | Kim Cheayoung |  | Win | B+R | 6.5 | 3036 | 7 | 

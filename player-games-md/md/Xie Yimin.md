@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Lu Minquan | Xie Yimin | Lose | B+¾ | 7.5 | 2801 | -13 | 
+| 2021-07-15 | 第6回扇興杯女流最強戦1回戦 | Xie Yimin | Izawa Akino | Win | B+R | 6.5 | 2814 | -1 | 
+| 2021-07-15 | 第6回扇興杯女流最強戦1回戦 | Xie Yimin | Izawa Akino | Win | B+R | 6.5 | 2815 | 19 | 
 | 2021-07-08 | 第40期女流本因坊戦3回戦  | Xie Yimin | Ueno Asami | Win | B+R | 6.5 | 2796 | 20 | 
 | 2021-07-01 | 第60期十段戦予選 | Kim Sujun | Xie Yimin | Win | W+R | 6.5 | 2776 | 59 | 
 | 2021-06-24 | 第46期棋聖戦Cリーグ | Xie Yimin | O Meien | Lose | W+R | 6.5 | 2717 | 65 | 

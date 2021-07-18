@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Fang Ruoxi | Yin Mingming | Win | B+R | 7.5 | 2936 | -20 | 
 | 2021-06-10 | 第4回呉清源杯中国予選 | Fang Ruoxi |  | Win | B+R | 7.5 | 2956 | 14 | 
 | 2021-06-09 | 第4回呉清源杯中国予選 |  | Fang Ruoxi | Lose | B+¾ | 7.5 | 2942 | -16 | 
 | 2021-06-07 | 第4回呉清源杯中国予選 | Wang Chenxing | Fang Ruoxi | Lose | B+R | 7.5 | 2958 | -14 | 

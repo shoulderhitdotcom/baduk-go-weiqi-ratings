@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Lu Minquan | Choi Jeong | Win | W+R | 7.5 | 3239 | 14 | 
+| 2021-07-16 | 第7回韓国女子囲碁リーグ |  | Choi Jeong | Win | W+R | 6.5 | 3225 | -28 | 
 | 2021-07-11 | 第7回韓国女子囲碁リーグ | Choi Jeong |  | Win | B+R | 6.5 | 3253 | -5 | 
 | 2021-07-11 | 第7回韓国女子囲碁リーグ | Choi Jeong |  | Win | B+R | 6.5 | 3258 | 9 | 
 | 2021-07-04 | 第7回韓国女子囲碁リーグ | Park Taehee | Choi Jeong | Win | W+R | 6.5 | 3249 | -12 | 

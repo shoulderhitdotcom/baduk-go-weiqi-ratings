@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Suzuki Ayumi | Wang Chenxing | Win | W+R | 7.5 | 3042 | -13 | 
 | 2021-06-09 | 第4回呉清源杯中国予選 | Rui Naiwei | Wang Chenxing | Win | W+1¼ | 7.5 | 3055 | 10 | 
 | 2021-06-07 | 第4回呉清源杯中国予選 | Wang Chenxing | Fang Ruoxi | Win | B+R | 7.5 | 3045 | 9 | 
 | 2021-05-31 | 第4回呉清源杯中国予選 | Wang Chenxing | Lu Jia | Win | B+R | 7.5 | 3036 | 10 | 

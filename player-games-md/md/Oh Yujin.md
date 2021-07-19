@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Li He | Oh Yujin | Win | W+1¼ | 7.5 | 3044 | 6 | 
 | 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Natalya Kovaleva | Oh Yujin | Win | W+R | 7.5 | 3038 | 7 | 
 | 2021-07-17 | 第7回韓国女子囲碁リーグ | Oh Yujin |  | Lose | W+0.5 | 6.5 | 3031 | -49 | 
 | 2021-07-10 | 第7回韓国女子囲碁リーグ | Kim Eunseon | Oh Yujin | Win | W+R | 6.5 | 3080 | -7 | 

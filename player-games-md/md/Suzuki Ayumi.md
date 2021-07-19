@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Suzuki Ayumi | Wang Chenxing | Lose | W+R | 7.5 | 2869 | -13 | 
 | 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Feng Yun | Suzuki Ayumi | Win | W+R | 7.5 | 2882 | 72 | 
 | 2021-06-21 | 第6回扇興杯女流最強戦1回戦 | Suzuki Ayumi | Nishiyama Shizuka | Win | B+R | 6.5 | 2810 | 26 | 
 | 2021-06-17 | 第40期女流本因坊戦3回戦 | Suzuki Ayumi | Mukai Chiaki | Win | B+R | 6.5 | 2784 | 5 | 

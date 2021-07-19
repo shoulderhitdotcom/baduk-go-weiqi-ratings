@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 |  | Fujisawa Rina | Win | W+1¼ | 7.5 | 3048 | 0 | 
 | 2021-07-15 | 第46期棋聖戦Cリーグ | Fujisawa Rina | Ida Atsushi | Lose | W+R | 6.5 | 3048 | -4 | 
 | 2021-07-05 | 第47期名人戦予選 | Fujisawa Rina | Fukuoka Kotaro | Lose | W+R | 6.5 | 3052 | -17 | 
 | 2021-06-28 | 第6回扇興杯女流最強戦1回戦 | Fujisawa Rina |  | Win | B+R | 6.5 | 3069 | 5 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Nakamura Sumire | Zhou Hongyu | Lose | W+R | 7.5 | 2707 | 0 | 
 | 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Kim Cheayoung | Nakamura Sumire | Win | W+¼ | 7.5 | 2707 | 70 | 
 | 2021-07-08 | 第6回扇興杯女流最強戦1回戦 |  | Nakamura Sumire | Win | W+R | 6.5 | 2637 | 7 | 
 | 2021-07-05 | 第40期女流本因坊戦3回戦 | Koyama Mitsuru | Nakamura Sumire | Lose | B+3.5 | 6.5 | 2630 | -16 | 

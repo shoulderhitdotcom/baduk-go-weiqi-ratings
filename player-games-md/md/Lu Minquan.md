@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Lu Minquan | Choi Jeong | Lose | W+R | 7.5 | 3169 | -15 | 
 | 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Lu Minquan | Xie Yimin | Win | B+¾ | 7.5 | 3184 | -20 | 
 | 2021-06-04 | 第4回呉清源杯中国予選 | Lu Minquan | Rui Naiwei | Lose | W+R | 7.5 | 3204 | -18 | 
 | 2021-06-01 | 第4回呉清源杯中国予選 | Wang Shuang | Lu Minquan | Win | W+R | 7.5 | 3222 | 5 | 

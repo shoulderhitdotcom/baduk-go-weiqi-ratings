@@ -5,501 +5,502 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Zhou Hongyu | B+1¾ | 2021-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zAgDgHmVwWWoCZHtxmIwkQ%3D%3D) | 
-| 第9回中国女子囲碁甲級リーグ | missing | Yu Zhiying | W+R | 2021-05-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rF5BYn2VOvFapkjz7HXExQ%3D%3D) | 
-| 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Pan Yang | B+R | 2021-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BOYgbuLNlrougtaOBaltGQ%3D%3D) | 
-| 第9回中国女子囲碁甲級リーグ | Zhan Ying | Yu Zhiying | W+R | 2021-05-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LFjTJyLu59YVbVRZ7Yj7zg%3D%3D) | 
-| 第9回中国女子囲碁甲級リーグ | Yu Zhiying | missing | B+2¾ | 2021-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c0UaxeGqdyh0OyVzAVsAKg%3D%3D) | 
-| 第9回中国女子囲碁甲級リーグ | Yu Zhiying | missing | B+R | 2021-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=taU9cajUk%2FfO32A0ycKlcw%3D%3D) | 
-| 第17回倡棋杯中国プロ囲碁選手権戦予選 | missing | Yu Zhiying | W+1¼ | 2021-04-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uuseePQOdR%2FKcY5xoYKXKA%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Yu Zhiying | Cai Bihan | W+1¼ | 2021-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3gcWXYtpyOWcuSB4nYurjg%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Tang Yi | Yu Zhiying | W+R | 2021-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U8Dlrx8Cd9rDC3eM8waGrg%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Yu Zhiying | Pan Yang | W+1¼ | 2021-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fjv2bm9stqWCmDkSw3wfcw%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | missing | Yu Zhiying | B+R | 2021-03-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TSFCP5IYce1JA5kY%2FqeAVg%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | missing | Yu Zhiying | W+R | 2021-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fV7JqsRIyOplpwunX4ndjQ%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | missing | Yu Zhiying | W+R | 2021-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i5fS8e19bF78Wya%2BAed4jA%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Yu Zhiying | Li He | B+R | 2021-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PW6h1WheVZO25FBD4tf7IQ%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | missing | Yu Zhiying | W+¼ | 2021-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WjGQkV7DG%2Fhil3zxvRIplg%3D%3D) | 
-| 第3回SENKO CUPワールド碁女流最強戦決勝  | Yu Zhiying | Choi Jeong | B+R | 2021-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qQJZYIW7WdNWCmC2T0LX%2Bw%3D%3D) | 
-| 第3回SENKO CUPワールド碁女流最強戦準決勝  | Yu Zhiying | Mukai Chiaki | B+R | 2021-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f72x4TvjUdI%2BuSSksWP8AQ%3D%3D) | 
-| 第3回SENKO CUPワールド碁女流最強戦1回戦  | Fujisawa Rina | Yu Zhiying | W+2.5 | 2021-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mw1Xy3iqiaNfPqyv4ldfZw%3D%3D) | 
-| 第3回呉清源杯世界女子囲碁選手権決勝三番勝負第3局 | Yu Zhiying | Zhou Hongyu | W+R | 2020-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ts835IKlRnBpXNM9qmaapw%3D%3D) | 
-| 第3回呉清源杯世界女子囲碁選手権決勝三番勝負第2局 | Yu Zhiying | Zhou Hongyu | W+3¼ | 2020-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=irwUtOOVFOIMHhMaXnnZVg%3D%3D) | 
-| 第3回呉清源杯世界女子囲碁選手権決勝三番勝負第1局 | Zhou Hongyu | Yu Zhiying | W+R | 2020-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w4UtGBwBD3hiSdTrSXaXDg%3D%3D) | 
-| 第3回呉清源杯世界女子囲碁選手権準決勝 | Wang Chenxing | Yu Zhiying | W+R | 2020-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=InEuR3j4b4RbW2IatIg%2FEA%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Yu Zhiying | Lu Jia | W+R | 2020-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oOUmL5mwRm5UGAoayvvZkw%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Zheng Yan | Yu Zhiying | W+R | 2020-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SKDb4l%2FCzV0oWgwGtObjSg%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Yu Zhiying | missing | W+R | 2020-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VixSW7vh3uy845SHBBLZsA%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Wang Yubo | Yu Zhiying | W+R | 2020-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iwCs%2FW%2BRoUrJh7wbuzdbMQ%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Yu Zhiying | missing | B+R | 2020-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XsYQ0yQWMRRx730s%2BYm%2FTA%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Yu Zhiying | missing | B+R | 2020-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=79vZhG5NYRPLGJWG25zwww%3D%3D) | 
-| 第3回呉清源杯世界女子囲碁選手権3回戦 | Lu Minquan | Yu Zhiying | W+R | 2020-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ka6BfNI0npHHgyZlx5ck0Q%3D%3D) | 
-| 第3回呉清源杯世界女子囲碁選手権2回戦 | Suzuki Ayumi | Yu Zhiying | W+1¼ | 2020-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NJtu%2F8r8eWT%2BZmhLSQ6Ojw%3D%3D) | 
-| 第25回三星火災杯中国女子枠予選 | Yu Zhiying | Wang Chenxing | W+R | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=st51aW9l2WdpsdEzkmI2Xg%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ第4節 | Yu Zhiying | missing | B+R | 2020-07-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sdj%2F0NYElQMkLzwDH%2Bi1KQ%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ第3節 | Li He | Yu Zhiying | W+R | 2020-07-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YbUI%2B2szzGzEddzFe1D7IA%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ第2節 | Oh Yujin | Yu Zhiying | W+¼ | 2020-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SIR%2Fr3Xjt3NfwBhtdru3cw%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ第1節 | Yu Zhiying | missing | B+R | 2020-07-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B0dJEClT6hnloMvxx7U7NQ%3D%3D) | 
-| 第34期中国囲碁天元戦予選 | Yu Zhiying | Li Qincheng | W+R | 2020-01-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t31JnTk1gKtcNIFFkRYSUw%3D%3D) | 
-| 第5期洛陽白雲山杯中国棋聖戦予選 | Guo Yuzheng | Yu Zhiying | B+R | 2019-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kcdo725teoKxvWBy0A5okg%3D%3D) | 
-| 第11期中国竜星戦Aブロック1回戦 | Yu Zhiying | Wang Haoyang | W+¼ | 2019-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v8ljdwQNbE%2B3HM7F6w5GCw%3D%3D) | 
-| 第11期中国竜星戦予選 | Yu Zhiying | Zhou Hongyu | B+R | 2019-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gK3I7yqnHt%2FlAmrHYbfq8w%3D%3D) | 
-| 第11期中国竜星戦予選 | missing | Yu Zhiying | W+R | 2019-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IIFyED0TFjU6QQnK%2F74SJg%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第18節 | Rui Naiwei | Yu Zhiying | W+R | 2019-11-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jhXpNd5lu8hDjEQCDNxyJQ%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第17節 | Yu Zhiying | missing | B+R | 2019-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g9PH%2FnXYjYUt3jfZGyuy6g%3D%3D) | 
-| 閬中古城杯第2期中国女子囲棋名人戦16強戦 | Yu Zhiying | missing | W+1¼ | 2019-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TQpld13KNkjj1zsP0F5a0g%3D%3D) | 
-| 閬中古城杯第2期中国女子囲棋名人戦32強戦 | Yu Zhiying | missing | B+R | 2019-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ViRdRWgjolpps84XYi4njQ%3D%3D) | 
-| 第4回全国智力運動会女子団体戦第8戦 | Yu Zhiying | missing | B+1¾ | 2019-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FOfcPY4KaxUd0u8S4C6Zhg%3D%3D) | 
-| 第4回全国智力運動会女子団体戦第3戦 | Yu Zhiying | Rui Naiwei | B+R | 2019-11-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gDrUa4CefRsl0eWllWT7ew%3D%3D) | 
-| 第4回全国智力運動会女子団体戦第1戦 | Yu Zhiying | Ye Gui | B+R | 2019-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IgNHUb2nd1ns82%2FBcA0gMA%3D%3D) | 
-| 第4回全国智力運動会プロ女子個人早碁戦決勝 | missing | Yu Zhiying | B+R | 2019-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d2tamR66eBQJMLNnFO9OQA%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第16節 | missing | Yu Zhiying | W+¼ | 2019-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JJ703hCa7ZseLms%2BAKPqWw%3D%3D) | 
-| 第10回穹窿山兵聖杯世界女子囲碁選手権8強戦 | Choi Jeong | Yu Zhiying | B+¾ | 2019-10-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gWHwhFwgyPmGXkZy1UnMsg%3D%3D) | 
-| 第10回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Yu Zhiying | Oh Yujin | B+R | 2019-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A9qxvhUi9tjFfF0Ni2brBw%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第15節 | Yu Zhiying | Wang Shuang | B+1¾ | 2019-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w6hU3tQfJhUh3WLXiIei%2Bw%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第13節 | Li He | Yu Zhiying | W+R | 2019-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5mx10pFZFZtaf71w%2Fseh3g%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第14節 | Yu Zhiying | Lu Jia | B+R | 2019-10-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UWHpDwrT5Q0MsBk2jWIeOA%3D%3D) | 
-| 第6回おかげ杯国際精鋭囲碁対抗戦決勝 | Yu Zhiying | Choi Jeong | W+R | 2019-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m5ljWRIwAw%2Bs9FBIGmKVYA%3D%3D) | 
-| 第6回おかげ杯国際精鋭囲碁対抗戦第3戦 | missing | Yu Zhiying | W+R | 2019-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TVxucFBjTYsnCp4qa9kTfQ%3D%3D) | 
-| 第6回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhiying | Choi Jeong | W+2.5 | 2019-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kMNaVFzD9NZap8Fms%2F8eMA%3D%3D) | 
-| 第6回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yu Zhiying | Fujisawa Rina | B+R | 2019-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q%2BGIBxjuKghK%2BfUDot1M%2Fg%3D%3D) | 
-| 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Yu Zhiying | Ichiriki Ryo | W+R | 2019-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SrW6K3%2BsLrDNPxL3eMWbWQ%3D%3D) | 
-| 2019年全国囲棋個人戦男子組第12戦 | Yu Zhiying | missing | W+R | 2019-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FZDZA7F3z%2BIYLp54hKFrTg%3D%3D) | 
-| 2019年全国囲棋個人戦男子組第11戦 | missing | Yu Zhiying | W+R | 2019-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ufAuyOGLo5RGNOSaB%2B6s9w%3D%3D) | 
-| 2019年全国囲棋個人戦男子組第8戦 | Zheng Xu | Yu Zhiying | B+R | 2019-09-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u1PqT6555Qpvwvv2j6oO8g%3D%3D) | 
-| 2019年全国囲棋個人戦男子組第7戦 | Yu Zhiying | missing | B+R | 2019-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B9lZRhD8%2F3s9Fwl11O1ETA%3D%3D) | 
-| 2019年全国囲棋個人戦男子組第4戦 | Yu Zhiying | missing | W+R | 2019-09-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8tz8O0K0wMHOx%2BPEwBo2eQ%3D%3D) | 
-| 2019年全国囲棋個人戦男子組第3戦 | missing | Yu Zhiying | B+2¾ | 2019-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oTouT3t4zKvYG60hFrAzYA%3D%3D) | 
-| 2019年全国囲棋個人戦男子組第2戦 | Li Zerui | Yu Zhiying | W+R | 2019-09-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bVMx21s2H3PCyyGrrFw0eA%3D%3D) | 
-| 2019年全国囲棋個人戦男子組第1戦 | Yu Zhiying | missing | W+¼ | 2019-09-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DSFKsbH1aLsSYLf3z3tcyg%3D%3D) | 
-| 第15期威孚房開杯棋王戦32強戦 | Yu Zhiying | Xie Erhao | W+R | 2019-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LdYYdVIjxVJa8Xj9nJ7OHw%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第12節 | Yu Zhiying | Lu Minquan | W+R | 2019-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OxV3KW7mTVKcFw1Tz6X5yg%3D%3D) | 
-| 第17回建橋杯女子囲碁オープン戦8強戦 | Yu Zhiying | Cai Bihan | W+R | 2019-08-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aA%2Bp0cQo1UusHxOc0X9dug%3D%3D) | 
-| 第17回建橋杯女子囲碁オープン戦16強戦 | Li He | Yu Zhiying | W+2¼ | 2019-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kVv5EAkpi6p8eGXTHk5Klw%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第11節 | Zhan Ying | Yu Zhiying | W+R | 2019-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2BvRWXecPvv3R%2BmHFGh7jw%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第10節 | Yu Zhiying | Huang Ziping | B+R | 2019-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nG%2B%2B0ozAEg1ZUmFTnq1P6Q%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第9節 | Yu Zhiying | Rui Naiwei | W+R | 2019-07-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c5m2RfMLzXdVt7Y2DWfnDw%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第8節 | missing | Yu Zhiying | W+R | 2019-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fpL5rUtqqoEtBp%2BgXDFN6A%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第7節 | Yu Zhiying | missing | B+1¾ | 2019-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3FnerChUip1LyY39ERYvlA%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第6節 | Wang Shuang | Yu Zhiying | W+R | 2019-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FmEUhHTzFDKSoGj3UHc2jw%3D%3D) | 
-| 第9回中国姜堰黄竜士精鍛科技杯世界女子団体戦第14戦 | Choi Jeong | Yu Zhiying | B+2¾ | 2019-06-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EFEOqS7wzeOR1H3J5wa2Xw%3D%3D) | 
-| 第21期阿含・桐山杯中国早碁オープン戦予選1回戦 | Yu Zhiying | Li Qincheng | W+R | 2019-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=teKxf4yv6yHacDLFUCp95g%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第5節 | Lu Jia | Yu Zhiying | B+1¾ | 2019-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T6SJH%2FRZ5Uws1dyLhEEdNg%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第4節 | Yu Zhiying | missing | B+R | 2019-05-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s81db7u920QDrLnXoWllfw%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第3節 | Lu Minquan | Yu Zhiying | B+R | 2019-05-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QBHkPA4Dd67SXyw5JuHqNA%3D%3D) | 
-| 第4回夢百合杯統合予選 | missing | Yu Zhiying | W+R | 2019-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=siBk29gsltrtaqwilQ%2B7%2FQ%3D%3D) | 
-| IMSAワールドマスターズチャンピオンシップ2019女子団体戦4回戦 | Yu Zhiying | Hei Jiajia | B+R | 2019-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B%2FP3qGo71XL8HoNojHqfwQ%3D%3D) | 
-| IMSAワールドマスターズチャンピオンシップ2019女子団体戦3回戦 | Mukai Chiaki | Yu Zhiying | W+R | 2019-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4JMxURUbUuW1EDw8xDaGkg%3D%3D) | 
-| IMSAワールドマスターズチャンピオンシップ2019女子団体戦1回戦 | Choi Jeong | Yu Zhiying | B+R | 2019-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R%2B8p2iu9FUSs9i7X3CGDjg%3D%3D) | 
-| IMSAワールドマスターズチャンピオンシップ2019女子団体戦2回戦 | Yu Zhiying | Lin Xuefen | B+R | 2019-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h2KAUa7FqpovfVU8JrBe%2Fw%3D%3D) | 
-| 第8回天台山体彩杯世界女子囲碁団体戦第3戦 | Yu Zhiying | Hei Jiajia | B+R | 2019-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HgIsVo0d8MeXnc8FNbPdrA%3D%3D) | 
-| 第8回天台山体彩杯世界女子囲碁団体戦第2戦 | Fujisawa Rina | Yu Zhiying | W+R | 2019-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CkBOeX2RxqMvWEx%2B0LuxuA%3D%3D) | 
-| 第8回天台山体彩杯世界女子囲碁団体戦第1戦 | Choi Jeong | Yu Zhiying | B+R | 2019-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cr1q3rleeCyFo0ZVTAodIQ%3D%3D) | 
-| 第2回呉清源杯世界女子囲碁選手権16強戦 | Yu Zhiying | Oh Yujin | W+1¼ | 2019-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O5G%2FYYGtnP5WmSGAQT0s6g%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Yu Zhiying | Ke Jie | W+R | 2019-04-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3oALuXOrhXgdXbpaHC44Mw%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第2節江蘇-安徽 | Yu Zhiying | Zhan Ying | B+R | 2019-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tEhXTsN5cFG8%2FfXG0yw9EA%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第1節広東-江蘇 | missing | Yu Zhiying | W+R | 2019-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EH4OHNS6aREnFPiKKjdKXA%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦1回戦 | Yu Zhiying | missing | W+1¼ | 2019-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CW5ORPkyBKiDqWsn6HlSVA%3D%3D) | 
-| 第2回SENKO CUPワールド碁女流最強戦決勝 | Yu Zhiying | Choi Jeong | B+3.5 | 2019-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oheG%2B5gQsCGQgbdt5Pc6DA%3D%3D) | 
-| 第2回SENKO CUPワールド碁女流最強戦準決勝 | Yu Zhiying | Tsukuda Akiko | B+R | 2019-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u%2FDSiezm6OCX241LI2IbIg%3D%3D) | 
-| 第2回SENKO CUPワールド碁女流最強戦1回戦 | Yu Zhiying | Mannami Nao | B+R | 2019-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mMR80XKLTMFbds93g%2BtG8A%3D%3D) | 
-| 2019年韓中囲碁リーグチャンピオンズカップ第2戦 | Yu Zhiying | Yun Chanhee | W+2.5 | 2019-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fl7DFBCDh0wnhnZTE%2BRFnA%3D%3D) | 
-| 2019年韓中囲碁リーグチャンピオンズカップ第1戦 | Yu Zhiying | Byun Sangil | W+R | 2019-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cLkRfMqIvzj53g5T%2FRfcmA%3D%3D) | 
-| 第4期洛陽白雲山杯中国棋聖戦予選甲組 | Yu Zhiying | missing | W+1¼ | 2018-12-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=esM3d8EjCFmZhUm2ewGP0g%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第26節江蘇-民生 | Shi Yue | Yu Zhiying | B+1¾ | 2018-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NP%2Fm8ixzEUG4C%2BHZJnUckg%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第18節上海-江蘇 | Rui Naiwei | Yu Zhiying | W+R | 2018-11-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FIqSCMzcPnkXnrZrFIbPEQ%3D%3D) | 
-| 閬中古城杯第1期中国女子囲棋名人戦32強戦 | Yu Zhiying | Wang Shuang | W+¼ | 2018-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E1Z2vJ48Q9Ze8Uv8A%2BYIGg%3D%3D) | 
-| 第9回穹窿山兵聖杯世界女子囲碁選手権1回戦  | Choi Jeong | Yu Zhiying | B+R | 2018-10-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RcXr5liCrBvKLJDo8VY2cg%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第16節武漢-江蘇 | Lu Jia | Yu Zhiying | W+R | 2018-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=axyjBWFWmLrUdi6UwStW0w%3D%3D) | 
-| 第5回おかげ杯国際精鋭囲碁対抗戦決勝 | Choi Jeong | Yu Zhiying | B+R | 2018-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dxuTz5%2F%2FbiHcwQN%2B0I3obQ%3D%3D) | 
-| 第5回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yu Zhiying | Fujisawa Rina | B+R | 2018-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a8RMEtLHeiZzE38u91mkRg%3D%3D) | 
-| 第5回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yu Zhiying | missing | B+R | 2018-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JN9BGJEd0lp%2FXN8kw%2FjCyw%3D%3D) | 
-| 第5回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhiying | Choi Jeong | B+R | 2018-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zz721c4uG9z02e4aeyaLjQ%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第14節蕪湖-江蘇 | Zhou Hongyu | Yu Zhiying | W+R | 2018-10-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D6qsu4BGPNfedjTTUomqFw%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第15節江蘇-洛陽 | Yu Zhiying | Li He | B+1¾ | 2018-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iV8z46i82BbPVnuVMNum4g%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第13節江蘇-杭州 | Yu Zhiying | Fang Ruoxi | B+R | 2018-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qksuub0saE1PWnexaMxKyw%3D%3D) | 
-| 2018年全国囲棋個人戦男子組第13戦 | Yu Zhiying | Huang Xin | W+R | 2018-09-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FH6BrHn7%2F6Vmabl0pk9STQ%3D%3D) | 
-| 2018年全国囲棋個人戦男子組第12戦 | Yu Zhiying | Li Weiqing | W+R | 2018-09-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M1lPHB7hPdFKxbzsDKFC2Q%3D%3D) | 
-| 2018年全国囲棋個人戦男子組第11戦 | missing | Yu Zhiying | W+R | 2018-09-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FYUTjXpduQsni7rgyFj1iw%3D%3D) | 
-| 2018年全国囲棋個人戦男子組第10戦 | Yu Zhiying | Wang Zejin | W+R | 2018-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=baQ4m%2BdPsyeQfPcJWJzzDg%3D%3D) | 
-| 2018年全国囲棋個人戦男子組第9戦 | Shu Yixiao | Yu Zhiying | W+¼ | 2018-09-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QeqACWCGu0VafBANJrh6tQ%3D%3D) | 
-| 2018年全国囲棋個人戦男子組第8戦 | Yu Zhiying | Hu Yuhan | B+3¾ | 2018-09-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dv2nFjrwHu8AXEku8N5qtw%3D%3D) | 
-| 2018年全国囲棋個人戦男子組第7戦 | Chen Zijian | Yu Zhiying | B+R | 2018-09-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q6evj1K2m3z7xfmcJToa4Q%3D%3D) | 
-| 2018年全国囲棋個人戦男子組第6戦 | missing | Yu Zhiying | W+R | 2018-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jbcy3RKtWG%2B5hiOf9%2F%2FQUA%3D%3D) | 
-| 2018年全国囲棋個人戦男子組第5戦 | Yu Zhiying | missing | B+R | 2018-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rre%2B2nyVuUGMsSVuiD8tcw%3D%3D) | 
-| 2018年全国囲棋個人戦男子組第4戦 | Yu Zhiying | Cheng Jiaye | B+6¾ | 2018-09-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LzL22%2FmlM3XK0uIrVtCF%2BA%3D%3D) | 
-| 2018年全国囲棋個人戦男子組第3戦 | missing | Yu Zhiying | W+R | 2018-09-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mmvVTYxSrr3%2BNvA4BeJiJg%3D%3D) | 
-| 2018年全国囲棋個人戦男子組第2戦 | Chen Zhengxun | Yu Zhiying | B+R | 2018-09-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rgUbtBDSWRKQV32eqGt%2FdA%3D%3D) | 
-| 2018年全国囲棋個人戦男子組第1戦 | Yu Zhiying | missing | B+R | 2018-09-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7hsQxNj3iY62dGLroo0rDQ%3D%3D) | 
-| 第16回建橋杯女子囲碁オープン戦準決勝 | Yu Zhiying | Wang Chenxing | W+2¼ | 2018-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KxRkOxl2TARh7O54kd%2BKgA%3D%3D) | 
-| 第16回建橋杯女子囲碁オープン戦8強戦 | missing | Yu Zhiying | W+2¼ | 2018-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7JQ3sRJD4FFlc%2FEL3llc%2Bw%3D%3D) | 
-| 第16回建橋杯女子囲碁オープン戦16強戦 | Tang Yi | Yu Zhiying | W+R | 2018-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xQr%2BLYRYS%2FsDiI5uzReSuA%3D%3D) | 
-| 第16回建橋杯女子囲碁オープン戦32強戦 | Zhan Ying | Yu Zhiying | W+R | 2018-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u7SM%2BxHqVfbo3eYzCVyiIg%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第12節 | Yu Zhiying | Pan Yang | B+R | 2018-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JsiSTam%2FJMVeeHxuWR0%2FVA%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第11節廈門-江蘇 | Lu Minquan | Yu Zhiying | W+R | 2018-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ddfQeNcd%2FJ9LgGvN2ccKCg%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第10節江蘇-河北 | Yu Zhiying | Wang Shuang | B+R | 2018-08-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bIghh2dk0eNwDJWqLzSFow%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第9節江蘇-上海 | Yu Zhiying | Rui Naiwei | W+R | 2018-08-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ALFWXBWYNd0I9Zs92F3NIA%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第8節広東-江蘇 | Chen Yiming | Yu Zhiying | W+R | 2018-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CVi2RqHrmtRYAUX0hebX9A%3D%3D) | 
-| 第8回中国姜堰黄竜士精鍛科技杯世界女子団体戦第14戦 | Choi Jeong | Yu Zhiying | W+2¼ | 2018-06-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=45WsS19Psjg1oidBOBa1mw%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第7節江蘇-武漢 | Yu Zhiying | Oh Yujin | W+2¼ | 2018-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SmvCm8l7Q2LPy9J9A2oBpg%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第6節洛陽-江蘇 | Li He | Yu Zhiying | W+R | 2018-05-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fCOuJAObMxKWScuUU6uZfw%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第5節江蘇-蕪湖 | Yu Zhiying | Yuan Tingyu | B+R | 2018-05-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J0lwvFhy0V9tv%2BDcW%2BLvzg%3D%3D) | 
-| 第7回天台山森然楊帆杯世界女子囲碁団体選手権第3戦 | Xie Yimin | Yu Zhiying | W+R | 2018-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BsxuAFfc7X1OKqwczALd2w%3D%3D) | 
-| 第7回天台山森然楊帆杯世界女子囲碁団体選手権第2戦 | Yu Zhiying | Hei Jiajia | B+R | 2018-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o9JyUWo5qY2um97n02%2FGDA%3D%3D) | 
-| 第7回天台山森然楊帆杯世界女子囲碁団体選手権第1戦 | Yu Zhiying | Choi Jeong | B+R | 2018-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FfYWlX3b9GLKJNVUlzYCQw%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第4節杭州-江蘇 | Gao Xing | Yu Zhiying | W+R | 2018-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GkO1lTHrdAgZ4SWT8B7qpA%3D%3D) | 
-| 第1回呉清源杯世界女流囲碁選手権準決勝 | Yu Zhiying | Kim Cheayoung | W+¼ | 2018-05-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N0QWy%2BnOdSCibL1WJeGFUA%3D%3D) | 
-| 第1回呉清源杯世界女流囲碁選手権8強戦 | Oh Jeonga | Yu Zhiying | W+R | 2018-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VKB2hHdcnRh6MJ0cIj1GWQ%3D%3D) | 
-| 第1回呉清源杯世界女流囲碁選手権16強戦 | Oh Yujin | Yu Zhiying | W+R | 2018-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8r%2FHGB%2B84qSY9vHI7NXoWw%3D%3D) | 
-| 第1回呉清源杯世界女流囲碁選手権本戦1回戦 | Yin Mingming | Yu Zhiying | W+R | 2018-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bTNMiP%2BvlLHTwLp%2FSCFweg%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第3節浙江-江蘇 | Pan Yang | Yu Zhiying | W+R | 2018-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KhRTmLJV9FEksAvhaLLh0g%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦2回戦 | Shi Yue | Yu Zhiying | B+R | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=faTK2AbfCuoDqhXwt6Dg5A%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦1回戦 | Li Weiqing | Yu Zhiying | W+¼ | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4K2E1Ld870QHf4gX32%2BYhg%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第2節 | Yu Zhiying | Lu Minquan | B+R | 2018-03-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wPRyxNqWx%2BtXUixPUr0z6A%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第1節 | Cao Youyin | Yu Zhiying | W+R | 2018-03-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L0%2BydtUv7f%2FZO70X1DKcLQ%3D%3D) | 
-| 第1回SENKOCUPワールド碁女流最強戦決勝  | Hei Jiajia | Yu Zhiying | W+T | 2018-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X0XYMSEAKF9STbxPSvE6Fw%3D%3D) | 
-| 第1回SENKO CUPワールド碁女流最強戦準決勝  | Yu Zhiying | Choi Jeong | B+R | 2018-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mUvLAqlKq8bkm0nwlRhLEg%3D%3D) | 
-| 第1回SENKO CUPワールド碁女流最強戦1回戦  | Yu Zhiying | Xie Yimin | B+R | 2018-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i%2FVXDJBz4BhescAvzTM49Q%3D%3D) | 
-| 第9期中国竜星戦Aブロック第1局 | Yu Zhiying | Wang Zejin | W+R | 2018-03-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E9GHHTh06n2EVhPo0oL8yQ%3D%3D) | 
-| 第9期中国竜星戦予選 | Yu Zhiying | Li He | B+R | 2018-03-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X8IX6PGb2wQk%2BtKniYFSKQ%3D%3D) | 
-| 第32期中国囲碁天元戦予選 | Huang Yunsong | Yu Zhiying | B+R | 2018-01-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jo670ZW6dMaezTe7EfNwyw%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ戦18回戦 | Yu Zhiying | Rui Naiwei | W+R | 2017-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aoakwBLD1NXurnJ4cIbQ%2Fg%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ戦17回戦 | Lu Minquan | Yu Zhiying | B+R | 2017-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jpYtYChmDRSSGsqGH0m1YA%3D%3D) | 
-| 第2回IMSAエリートマインドゲームズ個人早碁戦決勝 | Oh Yujin | Yu Zhiying | B+R | 2017-12-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wd04T2yvhERSrKgcPi0p2g%3D%3D) | 
-| 第2回IMSAエリートマインドゲームズ個人早碁戦準決勝 | Fujisawa Rina | Yu Zhiying | W+R | 2017-12-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9obJCwmjKGrMkjOPVyELqg%3D%3D) | 
-| 第2回IMSAエリートマインドゲームズ個人早碁戦予選 | Hei Jiajia | Yu Zhiying | W+R | 2017-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bw0u8Sq6S%2B2JC7BIoW4DOg%3D%3D) | 
-| 第2回IMSAエリートマインドゲームズ個人早碁戦予選 | Yu Zhiying | missing | B+R | 2017-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dZdVGqoL%2FcczmQGr0HvIKw%3D%3D) | 
-| 第2回IMSAエリートマインドゲームズ女子団体戦第4節 | Yu Zhiying | Fujisawa Rina | W+R | 2017-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6FuGxlHS7EkzF1kqD2eb8g%3D%3D) | 
-| 第2回IMSAエリートマインドゲームズ女子団体戦第3節 | Choi Jeong | Yu Zhiying | W+R | 2017-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jhqPhGgdcwoZVc5PTrReVA%3D%3D) | 
-| 第2回IMSAエリートマインドゲームズ女子団体戦第2節 | Yu Jin | Yu Zhiying | W+R | 2017-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wCSK7a0dtJYMc95hdUagkQ%3D%3D) | 
-| 第2回IMSAエリートマインドゲームズ女子団体戦第1節 | Yu Zhiying | Hei Jiajia | B+R | 2017-12-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=02ZUFbCHwx71sQ7r3t21KQ%3D%3D) | 
-| 第3期洛陽白雲山杯中国棋聖戦予選甲組 | missing | Yu Zhiying | B+R | 2017-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G9iuWxUwDlFHCEiAm%2BAq%2Fg%3D%3D) | 
-| 第15期建橋杯女子囲棋公開戦準決勝 | Yin Qu | Yu Zhiying | B+R | 2017-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cn5CjjqUWQLUeqeuDlVjaA%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ戦16回戦 | Cao Youyin | Yu Zhiying | W+R | 2017-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zfQTwgjR0kxPR0gfaOTJ7g%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ戦15回戦 | Yu Zhiying | Gao Xing | B+R | 2017-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lPR%2BRFsVNKkESCecTJ1vmg%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ戦14回戦 | Yuan Tingyu | Yu Zhiying | W+R | 2017-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rVRvKGepfdePIG4MWNvCBg%3D%3D) | 
-| 第8回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Yu Zhiying | Choi Jeong | W+R | 2017-11-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S3F68iApawj9CWucMK6xdA%3D%3D) | 
-| 第8回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Oh Jeonga | Yu Zhiying | W+R | 2017-11-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4JfriAzeZlsXdx%2FDMXZ1zg%3D%3D) | 
-| 第8回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Yu Zhiying | Wang Yinli | B+R | 2017-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IOxLJSAbF1Tr4XzAUwC4fQ%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ戦13回戦 | Yu Zhiying | Pan Yang | W+0.5 | 2017-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U%2FuzIvMIlOWg%2BtbdEFYgtQ%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第12節 | Park Taehee | Yu Zhiying | W+R | 2017-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E1SAMjLYU2SBJ2osZkQnGg%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第11節 | Yu Zhiying | Li He | B+R | 2017-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3x5T8FS6VUmrweA6%2BLJ8Yg%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第10節 | Zheng Yan | Yu Zhiying | W+R | 2017-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rx2pPpgxi3JrIWnkljYD1A%3D%3D) | 
-| 2017年利民杯世界囲碁星鋭最強戦1回戦 | Xie Ke | Yu Zhiying | B+3.5 | 2017-10-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FyA6Gc%2B0%2ByWiKmYsE9UTdg%3D%3D) | 
-| 衢州爛柯杯1回中国女子精英決勝 | Yu Zhiying | Lu Jia | W+0.5 | 2017-09-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZUo8oD5wClR2ROxY6Gh7lA%3D%3D) | 
-| 衢州爛柯杯1回中国女子精英準決勝 | Yu Zhiying | Pan Yang | B+R | 2017-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IQBxsT4ucRxSyWbXwVy30A%3D%3D) | 
-| 衢州爛柯杯1回中国女子精英8強戦 | Yin Qu | Yu Zhiying | W+R | 2017-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t3ECwFs8L22P85QvmfI2YQ%3D%3D) | 
-| 2017年全国囲棋個人戦女子組第4戦 | Gao Xing | Yu Zhiying | B+1.5 | 2017-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GupOFs1Iw8D074y%2B6F8jqQ%3D%3D) | 
-| 2017年全国囲棋個人戦女子組第2戦 | missing | Yu Zhiying | W+R | 2017-09-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oVcJFAQky3NDudPb8d8Mvw%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第9節 | Rui Naiwei | Yu Zhiying | W+R | 2017-09-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MDJ1vMqpTJclgkQXZhpH4g%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第8節 | Yu Zhiying | Lu Minquan | B+R | 2017-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7iWu9um%2BGE8DXfYKbXND1g%3D%3D) | 
-| 第15期建橋杯中国女子公開戦8強戦 | Yu Zhiying | Song Ronghui | B+R | 2017-09-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5ALBIZFGGOz61UXxncMONw%3D%3D) | 
-| 第15期建橋杯中国女子公開戦16強戦 | Yu Zhiying | missing | B+R | 2017-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dletgp4MHJvNt8O57eq9WQ%3D%3D) | 
-| 2017明月山杯中日韓台女子囲碁争霸戦決勝 | Yu Zhiying | Choi Jeong | W+R | 2017-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IhaPYXb%2B%2B0ovVeybLgEe8Q%3D%3D) | 
-| 2017明月山杯中日韓台女子囲碁争霸戦一回戦 | Yu Zhiying | Fujisawa Rina | B+5.5 | 2017-08-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hgvmH0wf9baurCvI1UIUqQ%3D%3D) | 
-| 2017年利民杯世界囲碁星鋭最強戦第2ステージ決勝 | Yu Zhiying | Xie Erhao | W+0.5 | 2017-08-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nYO1JOtBoXG5iNnKt0BD%2BA%3D%3D) | 
-| 2017年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Yu Zhiying | missing | W+0.5 | 2017-08-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ypxd5jl%2Bkyj7w7ATSNeZPg%3D%3D) | 
-| 中国浙江平湖当湖十局杯CCTV64強 | Yu Zhiying | Jiang Weijie | W+0.5 | 2017-08-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BLXLAM5UpKBNh6DHXm3Ufw%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第7節 | Cao Youyin | Yu Zhiying | W+R | 2017-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0CfIWLpG82xsR2m3kUk5TA%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第6節 | Yu Zhiying | missing | B+R | 2017-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FQYi%2BRPcF8JvurvGFexBNA%3D%3D) | 
-| 第30期中国囲碁名人戦予選 | Yu Zhiying | Zhou Kui | W+2.5 | 2017-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cDYKAeEonjSAYdW3G3KL5w%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第5節 | Yu Zhiying | Zhou Hongyu | W+R | 2017-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lfPzv8L9qwfZageu6Wkbig%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第4節 | Wang Yubo | Yu Zhiying | W+R | 2017-07-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t33gVrVX1DHcecHafIjKqg%3D%3D) | 
-| 2017年中国全国運動会囲碁競技第4戦 | Yu Zhiying | Rui Naiwei | W+2.5 | 2017-07-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jpO0UBWOgI865mZm%2BOtaMA%3D%3D) | 
-| 2017年中国全国運動会囲碁競技第1戦 | Yu Zhiying | Lu Minquan | B+R | 2017-07-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DChrDljFtMIdm%2Bx6bAe9Hw%3D%3D) | 
-| 第22回三星火災杯統合予選4回戦 | Kim Cheayoung | Yu Zhiying | B+R | 2017-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zffzaetU9793epVzV6B5Nw%3D%3D) | 
-| 第22回三星火災杯統合予選3回戦 | Yu Zhiying | missing | B+R | 2017-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zqrpYbJH%2BRR8jDSOCW7C6w%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第3節 | Yu Zhiying | missing | B+R | 2017-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EMj9xsTChCJjVnTLQa27og%3D%3D) | 
-| 第7回中国姜堰黄竜士精鍛科技杯世界女子団体戦第13戦 | Yu Zhiying | Oh Yujin | W+R | 2017-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=38iS7Pry5AX%2FGp2MYr7cPA%3D%3D) | 
-| 第6回天台山農商銀行杯世界女子囲碁団体チャンピオンシップ第3戦 | Yu Zhiying | Choi Jeong | W+R | 2017-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nm3Cv65dT88y2%2B67H40kHA%3D%3D) | 
-| 第6回天台山農商銀行杯世界女子囲碁団体チャンピオンシップ第2戦 | Hei Jiajia | Yu Zhiying | W+0.5 | 2017-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J66e5Pg4TNfPMSPdqObyrg%3D%3D) | 
-| 第6回天台山農商銀行杯世界女子囲碁団体チャンピオンシップ第1戦 | Yu Zhiying | Fujisawa Rina | B+R | 2017-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WI%2BWoDWvPZP4ftLVw8BoNg%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第2節 | Li He | Yu Zhiying | W+R | 2017-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YIHHxmuPACkBmVywVDJsrQ%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第1節 | Yu Zhiying | Cai Bihan | B+7.5 | 2017-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6lPEOxTnmFZjqOSd7PbCvg%3D%3D) | 
-| 第19期中国阿含桐山杯本選1回戦 | Yu Zhiying | Yin Hang | W+14.5 | 2017-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C%2Bb1eMhM8xU9uc4lvpxxtw%3D%3D) | 
-| 第22期LG杯世界予選2回戦 | missing | Yu Zhiying | B+R | 2017-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PMQbu%2Bgt%2F5zkM3gEIpNhzA%3D%3D) | 
-| 世界第三期Mlily夢百合杯予選2回戦 | Park Yeonghun | Yu Zhiying | B+R | 2017-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eQt6PzJrJT8hq906ASBzbg%3D%3D) | 
-| 昌江棋子湾中国冠軍戦決勝 | Lu Minquan | Yu Zhiying | W+R | 2017-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kov%2FRmYO68hoNAW0wEiXcQ%3D%3D) | 
-| 昌江棋子湾中国冠軍戦1回戦 | Yu Zhiying | Lu Jia | B+R | 2017-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zYM5XwcVrtuQxQs0As6xGw%3D%3D) | 
-| 2017年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Yu Zhiying | Park Geunho | W+R | 2017-03-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=urJ%2F2cnY8kvFvFH5UMD22g%3D%3D) | 
-| 第14期中国倡棋杯予選決勝 | missing | Yu Zhiying | W+R | 2017-02-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JjXvg5DpTO0qP3IA3Py%2F4g%3D%3D) | 
-| 第14期中国倡棋杯予選準決勝 | missing | Yu Zhiying | W+R | 2017-02-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CWetZblrVqopORNv5aYCpA%3D%3D) | 
-| 第14期中国倡棋杯予選2回戦 | Kou Zhengyan | Yu Zhiying | W+R | 2017-02-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OxLM0amq2fuUbhiFdsyUpA%3D%3D) | 
-| 第21期LG杯朝鮮日報棋王戦特別対局 | Choi Jeong | Yu Zhiying | B+R | 2017-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PXOK5eI1P2EAsQ3dyv9InQ%3D%3D) | 
-| 第31期中国囲碁天元戦1回戦 | Fan Yin | Yu Zhiying | B+1.5 | 2017-01-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OO5nFoydbDr82pS8u9n%2BkQ%3D%3D) | 
-| 第31期中国囲碁天元戦予選 | Wang Haoyang | Yu Zhiying | W+2.5 | 2017-01-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mTjQFq5%2BTXDB2TnY0UEnjg%3D%3D) | 
-| Alphago Online Series on Tygem and Fox 05 | missing | Yu Zhiying | B+R | 2016-12-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MR%2BQsj%2BkuNqOWHp5DBu49w%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選2回戦 | Yu Zhiying | Wang Xinghao | W+R | 2016-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Q5Eo2tmeKAq9vgAjUkIXA%3D%3D) | 
-| 第8期中国竜星戦Aブロック1回戦 | Zhou Hexi | Yu Zhiying | B+1.5 | 2016-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7OWQr2AV5aJXmOqb0pmAqA%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第17節 | Gao Xing | Yu Zhiying | W+R | 2016-12-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4YtUEK8bDHQD0w3KpY113Q%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第18節 | Rui Naiwei | Yu Zhiying | W+R | 2016-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zc4cVlNHndu0YCLOzxd9Kw%3D%3D) | 
-| 中国14期建橋杯女子公開戦準決勝 | Yu Zhiying | Li He | W+R | 2016-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6re9rZhn0b%2B9CvBnju%2FKOA%3D%3D) | 
-| 第7期世界穹窿山兵聖杯準決勝 | Wang Chenxing | Yu Zhiying | B+R | 2016-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FWfKwjvs3PWvl497Yhj5vw%3D%3D) | 
-| 第7期世界穹窿山兵聖杯8強戦 | Su Shengfang | Yu Zhiying | W+R | 2016-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rYcWaL2G7HqQVsDJFMX56A%3D%3D) | 
-| 第7期世界穹窿山兵聖杯16強戦 | Yu Zhiying | Park Shiun | B+1.5 | 2016-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YFdVUWMo2w5nX1lLsh2S9Q%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第16節 | Wang Xiangyun | Yu Zhiying | W+R | 2016-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l%2ByNZ1RULPqwsgMaZLH1Eg%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第15節 | Yu Zhiying | Fan Weijing | B+3.5 | 2016-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9TkmfnaMaadOj6PaeZE63Q%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第14節 | Yu Zhiying | Hei Jiajia | B+R | 2016-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BaZ8DwLfqs%2FdpsPeUZZB1Q%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第13節 | Chen Yiming | Yu Zhiying | W+R | 2016-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xgsgjnpguhdP6bk4KvgoMg%3D%3D) | 
-| 第3回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yu Zhiying | Hei Jiajia | B+R | 2016-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eraX63BBwI4ywFIakvdJZA%3D%3D) | 
-| 第3回おかげ杯国際精鋭囲碁対抗戦決勝 | Yu Zhiying | Oh Yujin | W+R | 2016-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O2DqvFkY0AAJ1dLQ5O4Cyg%3D%3D) | 
-| 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yu Zhiying | Oh Yujin | B+R | 2016-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jkIvxvYp%2FPenwKBSyR9C8A%3D%3D) | 
-| 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhiying | Xie Yimin | B+R | 2016-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sEIqitITEVqPfBLd3LRd4Q%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Yu Zhiying | Nyu Eiko | B+3.5 | 2016-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ttU4o%2B7z3sQY55Yf%2BmFOwA%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Oh Yujin | Yu Zhiying | W+R | 2016-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NqXqtkuqGwTWMeyjkRGe4Q%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Yu Zhiying | Su Shengfang | B+R | 2016-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ivDAmUqf8kRw7FQaGRRYaw%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第12節 | Yu Zhiying | Cao Youyin | B+1.5 | 2016-09-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FyOkwZ%2FtyuHRtarvQov33Q%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第10節 | Yu Zhiying | Lu Jia | B+R | 2016-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vCOfNgCN00jv2%2BYTFHFxHA%3D%3D) | 
-| 第14期建橋杯中国女子囲棋公開戦8強戦 | Yu Zhiying | Song Ronghui | B+R | 2016-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iK4LZuYl1O5%2BVPuxQjb1KQ%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第9節 | Yu Zhiying | Tang Yi | B+R | 2016-08-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VGAGGoP6cxhd3vv6ADO%2FWA%3D%3D) | 
-| 第21回三星火災杯統合予選女子枠決勝 | Yu Zhiying | Lu Jia | W+1.5 | 2016-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qvViwoV9FSgEUUPB9s0xhw%3D%3D) | 
-| 第21回三星火災杯統合予選女子枠準決勝 | Oh Yujin | Yu Zhiying | W+R | 2016-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DCPiA76vXamsuVrKnHkgWQ%3D%3D) | 
-| 第21回三星火災杯統合予選女子枠1回戦 | Yu Zhiying | Kim Cheayoung | B+R | 2016-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aq2WxTakkiPmswYVHJ20aw%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第8節 | Gao Xing | Yu Zhiying | W+R | 2016-07-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=feXRk6mMRqDa0%2F%2FuOi%2F9kw%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第7節 | Yu Zhiying | Wang Xiangyun | B+1.5 | 2016-07-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IV%2FsSNZdd1qpOGSaUqH6bQ%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第6節 | Fan Weijing | Yu Zhiying | W+R | 2016-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nj0EQ0XGRLr3lc2Rr14BMA%3D%3D) | 
-| 第3回百霊杯世界オープン戦1回戦 | Yu Zhiying | Gu Li | W+R | 2016-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ElGU1FxHZSsMP3yXqtPMEg%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第5節 | Yu Zhiying | Hei Jiajia | B+R | 2016-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qD0ULpXPDRSeBj5CZGpObg%3D%3D) | 
-| 第6回黄竜士双登杯世界女子囲碁団体選手権第14戦 | Choi Jeong | Yu Zhiying | W+R | 2016-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dAjKN4sjeV1PIbN7MAdKlA%3D%3D) | 
-| 第6回黄竜士双登杯世界女子囲碁団体選手権第13戦 | Oh Yujin | Yu Zhiying | W+R | 2016-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fhwicf2RC7wfBAluaXQfMA%3D%3D) | 
-| 第2回韓国女子囲碁リーグ優勝決定戦第2戦 | Park Taehee | Yu Zhiying | W+R | 2016-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Ma12vvFEUBPm5DpUFeCKw%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第4節 | Cai Bihan | Yu Zhiying | W+R | 2016-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mmk%2Fz1FwzujXQNx3hsNAow%3D%3D) | 
-| 第2回韓国女子囲碁リーグ優勝決定戦第1戦 | Yu Zhiying | Lee Youngjoo | B+1.5 | 2016-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=usqd%2Fae9%2B0pTXM2jGsiOsQ%3D%3D) | 
-| 第5回天台山農商銀行杯世界女子団体戦第3戦 | Yu Zhiying | Hei Jiajia | B+R | 2016-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iRHY5RvC%2F8VB2C59gPRyUw%3D%3D) | 
-| 第5回天台山農商銀行杯世界女子団体戦第2戦 | Choi Jeong | Yu Zhiying | W+2.5 | 2016-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NbwvEirnbHX9QXVpGGlSeg%3D%3D) | 
-| 第5回天台山農商銀行杯世界女子団体戦第1戦 | Yu Zhiying | Aoki Kikuyo | B+R | 2016-05-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qLy4jRYShaU6UTniX0PSpw%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第3節 | Cao Youyin | Yu Zhiying | W+R | 2016-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CDqn68ah%2FrdE1eDQ%2Be2ngQ%3D%3D) | 
-| 第18期阿含・桐山杯中国早碁オープン戦予選 | Yu Zhiying | Li Xuanhao | W+R | 2016-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VW8DNlEGJ1q5i5f3pUJx2g%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第13節 | Yu Zhiying | Kim Cheayoung | B+R | 2016-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l0GcCTMfsEvRiCNkm8jCIA%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第12節 | Yu Zhiying | Park Shiun | B+R | 2016-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G10CrRCdnjxfwi2OvLDP9w%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第2節 | Yu Zhiying | Li He | B+1.5 | 2016-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wan%2Ba4gcwBoRnlwNFJzkzQ%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第1節 | Li Chunhua | Yu Zhiying | W+R | 2016-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iDmboQPjCEwOQmt1PYLbFw%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第10節 | Lee Sula | Yu Zhiying | W+R | 2016-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PAnaJ4UJOU%2FCbLs8KgrA4g%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第9節 | Xie Yimin | Yu Zhiying | W+R | 2016-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t0XZFTRIKcfQ%2B1VaGdZHmA%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第8節 | Yu Zhiying | Moon Dowon | B+R | 2016-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vKx3G5YJYN86hFogXoNDlQ%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第7節 | Oh Yujin | Yu Zhiying | B+4.5 | 2016-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FdoZzTXJHQvXLp%2BihkxVxA%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第6節 | Wang Chenxing | Yu Zhiying | W+3.5 | 2016-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nItFaIWd3XEzvqGqP03MLw%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦2回戦 | Yu Zhiying | Wu Guangya | W+R | 2016-03-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=24WXmH5WY%2F9mi%2B3dhyP3RA%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Jiang Weijie | Yu Zhiying | W+1 | 2016-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7w8KmNxguQq3tOMRsSuqtQ%3D%3D) | 
-| 第3回百霊杯世界オープン戦予選 | Yu Zhiying | Choi Jeong | B+1.5 | 2016-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fKA2PpoZHO%2FUD36%2FVlckYA%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第4節 | missing | Yu Zhiying | W+R | 2016-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8vH7pMd0shsdt5eZSP9tDw%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第3節 | Lee Sula | Yu Zhiying | W+R | 2016-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZVmjN7ZCaAMKfrRhlPDJaQ%3D%3D) | 
-| 第1回IMSAエリートマインドゲームズ囲碁女子個人戦決勝 | Yu Zhiying | Choi Jeong | B+R | 2016-03-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MqgXsu96RK3fYPhkHwZGHQ%3D%3D) | 
-| 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Yu Jin | B+R | 2016-02-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NIk15AzPrZcnbo6EnZtujw%3D%3D) | 
-| 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Hei Jiajia | Yu Zhiying | W+R | 2016-02-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ki6%2FB%2FfGifpfmORD63qanw%3D%3D) | 
-| 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Choi Jeong | W+R | 2016-02-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zSi25gt4GtN4hvVWEB%2BctA%3D%3D) | 
-| 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Hei Jiajia | B+R | 2016-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FJOz9ETnPkd3Po4v5QestQ%3D%3D) | 
-| 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Nyu Eiko | Yu Zhiying | W+R | 2016-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v8HWb09isFZFiNQ4DAMMdQ%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第2節 | Yu Zhiying | Park Jiyeon | B+R | 2016-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y9OhMDLNvzLgBoh0Dbs7Mw%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第1節 | Kim Miri | Yu Zhiying | W+R | 2016-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wR8NcmgRRN38lVqcehLqBw%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第18節 | missing | Yu Zhiying | W+R | 2015-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y3v9TCYskSRU7WReHRZDdw%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第17節 | Yu Zhiying | Chen Yiming | B+R | 2015-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hykXEqufVCs7ZVOEeSZZMQ%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第16節 | Yu Zhiying | Li He | W+2.5 | 2015-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2vGz9Bwa8ESDXweDlOiFGw%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第15節 | Lu Jia | Yu Zhiying | B+R | 2015-11-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9qpcHivn5zocPOYRHXaf1Q%3D%3D) | 
-| 第13回建橋杯女子囲碁オープン戦決勝三番勝負第3局 | Yu Zhiying | Wang Shuang | B+R | 2015-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yTmJjl2waFwW3BnQZjTQLw%3D%3D) | 
-| 第13回建橋杯女子囲碁オープン戦決勝三番勝負第2局 | Yu Zhiying | Wang Shuang | W+R | 2015-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o9IWGh3evE4mQVMfX2MS5w%3D%3D) | 
-| 第13回建橋杯女子囲碁オープン戦決勝三番勝負第1局 | Wang Shuang | Yu Zhiying | W+R | 2015-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6NECRPQelXiN%2F18Tz5yuOQ%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第14節 | Yu Zhiying | Yuan Tingyu | B+3.5 | 2015-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bxfay8mKseZP%2FIfftDTO3Q%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第13節 | Wang Xiangyun | Yu Zhiying | W+R | 2015-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j4IKfg8bVa7kOFzhnkc3aQ%3D%3D) | 
-| 第13回建橋杯女子囲碁オープン戦準決勝 | Yu Zhiying | Rui Naiwei | B+R | 2015-11-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7nGK9cJvfQOEYSAmfqg9Rw%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第12節 | Yu Zhiying | Gao Xing | B+R | 2015-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h%2FIzQZ9b6QFFqlArIyvIJA%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第11節 | Tang Yi | Yu Zhiying | B+R | 2015-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6l0EXjvfjjr7UEgfUz6J0Q%3D%3D) | 
-| 第13回建橋杯女子囲碁オープン戦2回戦 | Cao Youyin | Yu Zhiying | W+R | 2015-10-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QB5NkgzCT0Qf8xKaMF70DQ%3D%3D) | 
-| 第13回建橋杯女子囲碁オープン戦1回戦 | missing | Yu Zhiying | W+R | 2015-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ysdkSDkpbuMUUfU1gFjoKw%3D%3D) | 
-| 第6回穹窿山兵聖杯世界女子囲碁選手権決勝 | Park Shiun | Yu Zhiying | W+2.5 | 2015-10-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O321ORN4%2BWf%2FiOg8zd7Mvw%3D%3D) | 
-| 第6回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Yu Zhiying | Choi Jeong | B+R | 2015-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OgWOJQw0Wpb%2B1JfArelZyg%3D%3D) | 
-| 第6回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Wang Jingyi | Yu Zhiying | W+R | 2015-10-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C6RrPu9JpedYtMvsqe9JOg%3D%3D) | 
-| 第6回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Yu Zhiying | Zhang Zhengping | B+R | 2015-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MZbSorQPBWj3%2BNdu7r%2FgyA%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第10節 | Fan Weijing | Yu Zhiying | W+R | 2015-10-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2HcKbERJpJaB8ov%2FqRxaCA%3D%3D) | 
-| 第11期威孚房開杯棋王戦1回戦 | Chen Yaoye | Yu Zhiying | B+R | 2015-10-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=npjty%2BWIhVPExVm%2FBivXow%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ2回戦 | Lee Sedol | Yu Zhiying | B+R | 2015-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BBh%2Bs0BPqFsSn5A1gI9sHg%3D%3D) | 
-| 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Choi Jeong | Yu Zhiying | B+R | 2015-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZQnX7IthcDc408IzJtyCWg%3D%3D) | 
-| 第2回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhiying | Xie Yimin | B+R | 2015-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zzIOSjqlomYXWuIpViNJGA%3D%3D) | 
-| 第2回おかげ杯国際精鋭囲碁対抗戦第1戦 | Hei Jiajia | Yu Zhiying | B+R | 2015-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=waaFaeOAY8ZlSTa3SFN9Rg%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第9節 | Cao Youyin | Yu Zhiying | W+R | 2015-09-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wxnxB1QBUpmPnqh2BZqynA%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第8節 | Yu Zhiying | Cai Bihan | B+R | 2015-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z7nz2DQV%2F6UAeJwm3yBFlw%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦A3 | Yu Zhiying | Choi Cheolhan | B+0.5 | 2015-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GNXIjVOkqgsCeQ8ro8aLiw%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦A2 | Tang Weixing | Yu Zhiying | B+1.5 | 2015-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Oc8UkcZz0WKx%2F%2F4KXnauxQ%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦A1 | Mok Jinseok | Yu Zhiying | W+R | 2015-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r3kqPEYwUQ8pZYfOzwev7g%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第7節 | Yu Zhiying | Wang Yubo | B+R | 2015-09-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aaGQ%2Fbxhr7O0gRO%2FR2I4GA%3D%3D) | 
-| 2015年全国囲棋個人戦男子組第2戦 | Yu Zhiying | Guo Yuzheng | B+R | 2015-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Cvi4RaFw6xn%2FOzewmlWxA%3D%3D) | 
-| 2015年全国囲棋個人戦男子組第1戦 | Dang Yifei | Yu Zhiying | B+R | 2015-08-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ruh4XWDgGqBCKB9U5yColg%3D%3D) | 
-| 2015年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Yu Zhiying | Byun Sangil | W+R | 2015-08-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8HGq7MT%2F6c5536bVma4H%2Bw%3D%3D) | 
-| 第20回三星火災杯統合予選女子枠決勝 | Kim Sinyoung | Yu Zhiying | W+R | 2015-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8amJIaRZtzRZvM0uqTg1Hg%3D%3D) | 
-| 第7期中国竜星戦予選 | Yu Zhiying | Yang Kaiwen | W+R | 2015-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QR7zJHsdhaWgnpkuR%2F0qSg%3D%3D) | 
-| 2015年中国段位戦 | Yu Zhiying | Chen Xian | W+2.5 | 2015-07-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FPmMGdKkQ%2B9b8HPapT4gSw%3D%3D) | 
-| 2015年中国段位戦 | Yu Zhiying | Zhao Chenyu | B+1.5 | 2015-07-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JDO5Dbcbv9Mf%2BUSyGE%2FDdA%3D%3D) | 
-| 2015年中国段位戦 | Yu Zhiying | Chen Hao | W+2.5 | 2015-07-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s3dC28bkl6TjzXrPVwsRoA%3D%3D) | 
-| 2015年中国段位戦 | Yang Kaiwen | Yu Zhiying | W+0.5 | 2015-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aowe03roVIzdrG6DdJ2s1g%3D%3D) | 
-| 2015年中国段位戦 | missing | Yu Zhiying | B+R | 2015-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wIP5%2Bxda48ZzRxUbRHz5Rg%3D%3D) | 
-| 2015年中国段位戦 | Yu Zhiying | Tao Xinran | W+R | 2015-07-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DDpB%2FRy6ODza9dGNEcHgMQ%3D%3D) | 
-| 2015年中国段位戦 | Yu Zhiying | Wang Chenxing | B+R | 2015-07-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rq%2BD8GPZ2HDM3Xgx2%2FizfA%3D%3D) | 
-| 2015年中国段位戦 | missing | Yu Zhiying | W+R | 2015-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d8TIz8ST9nTG%2BErf6jFJ0Q%3D%3D) | 
-| 2015年中国段位戦 | Yu Zhiying | An Dongxu | W+R | 2015-07-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FD0jnrJFpQy0Ht9JvbnreA%3D%3D) | 
-| 2015年中国段位戦 | Guo Yuzheng | Yu Zhiying | B+R | 2015-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KoByeFuQAfHqehvhPbMHFg%3D%3D) | 
-| 2015年中国段位戦 | Yu Zhiying | Song Ronghui | B+R | 2015-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XAki%2B7zEWo00xdb4ELjC4Q%3D%3D) | 
-| 2015年中国段位戦 | Yu Zhiying | Yin Hang | W+R | 2015-07-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oBKt65puNBE67Lir1SxBVw%3D%3D) | 
-| 第2回夢百合杯世界オープン戦2回戦 | Yu Zhiying | Zhou Ruiyang | W+R | 2015-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uvbrVa5o9%2F%2BmT0z6S8eoiQ%3D%3D) | 
-| 第2回夢百合杯世界オープン戦1回戦 | Yu Zhiying | Huang Yizhong | B+7.5 | 2015-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iDAYzQ5X%2BPhVY3ngnUTsXg%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第6節 | missing | Yu Zhiying | W+R | 2015-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hpjHG7SPgHeCkfZPmBeqUw%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第5節 | Yu Zhiying | missing | B+R | 2015-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UWFDqQi4%2FuP%2F1zc8Gn2%2BrQ%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第4節 | Wang Shuang | Yu Zhiying | W+R | 2015-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aV1aepEVGUOvpQSZ2i%2FwVw%3D%3D) | 
-| 2015年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Yu Zhiying | Wang Yanhao | B+R | 2015-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sz%2BJnvSXUKWUdt8a7Re%2Frg%3D%3D) | 
-| 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Yu Zhiying | Li Xuanhao | W+R | 2015-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F27CXpBWMMk3S8imbZOepA%3D%3D) | 
-| 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | He Yuhan | Yu Zhiying | W+8.5 | 2015-06-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AXr3qnk5beDMWgla1L5GJQ%3D%3D) | 
-| 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Yu Zhiying | Park Geunho | B+R | 2015-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EAEolmNdbbp71LYhi0tHag%3D%3D) | 
-| 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Chen Qirui | Yu Zhiying | W+3.5 | 2015-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A9NqvTJI4nAfusdnN7q6Sg%3D%3D) | 
-| 宝佳適杯中韓新鋭天元戦第2戦 | Oh Yujin | Yu Zhiying | W+R | 2015-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xS8UnB5AGLh0M8Qc2TDCOA%3D%3D) | 
-| 宝佳適杯中韓新鋭天元戦第1戦 | Yu Zhiying | Shin Jinseo | W+R | 2015-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zlWwU%2Bd8TCucEp2FP%2Buk%2FA%3D%3D) | 
-| 第17期阿含・桐山杯中国早碁オープン戦予選 | Yu Zhiying | Zhong Wenjing | B+1.5 | 2015-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1OM24x7OUBdV5XBAGTc0wg%3D%3D) | 
-| 第17期阿含・桐山杯中国早碁オープン戦予選 | Yu Zhiying | missing | W+R | 2015-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yuqmjhLn0Z2A56lyedtcVQ%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第3節 | Song Ronghui | Yu Zhiying | B+R | 2015-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zmguaMKwKJSne6kMhBiMsA%3D%3D) | 
-| 第2回夢百合杯世界オープン戦予選 | Yu Zhiying | Oh Yujin | B+3.5 | 2015-05-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JCBnUoIbAlidH1naLqHSdg%3D%3D) | 
-| 第4回天台山農商銀行杯世界女子団体戦第3戦 | Yu Zhiying | Hei Jiajia | B+R | 2015-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yKCVkhFpCBk0UZEs3bFHZA%3D%3D) | 
-| 第4回天台山農商銀行杯世界女子団体戦第2戦 | Choi Jeong | Yu Zhiying | B+R | 2015-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p68M3jLm6GBySYs5PZq3Mw%3D%3D) | 
-| 第4回天台山農商銀行杯世界女子団体戦第1戦 | Fujisawa Rina | Yu Zhiying | W+R | 2015-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mmc3vN69YmY1hg%2FvXvTSKQ%3D%3D) | 
-| 第28期中国囲碁名人戦予選 | Yu Zhiying | Xie Ke | W+2.5 | 2015-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HXDM8Vs8%2FaCSvus3a4YhCA%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第2節 | Yu Zhiying | Rui Naiwei | W+0.5 | 2015-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=49hlrU17cXsxWc6ZFaSKpQ%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第1節 | Lu Minquan | Yu Zhiying | W+R | 2015-05-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aG5ibFkp3msQWp3fZa%2FEsQ%3D%3D) | 
-| 第5回黄竜士双登杯世界女子囲碁団体選手権第13戦 | Choi Jeong | Yu Zhiying | B+R | 2015-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w2YPNaLEwo7G5fhYglEvqA%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦1回戦 | Ke Jie | Yu Zhiying | B+1 | 2015-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1IgMWLG1Od4oY9XaL8WxKA%3D%3D) | 
-| 第4回天台山農商銀行杯中国選抜戦 | Wang Xiangyun | Yu Zhiying | W+2.5 | 2015-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xoxzmnYlqRrlBeZ1OgN1%2Bg%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第11節 | Yu Zhiying | Park Taehee | W+4.5 | 2015-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AjTxoaLWDIeoX04%2BmlKRzw%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第10節 | Kang Dajeong | Yu Zhiying | W+1.5 | 2015-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C3jYGBI83NFnSKqRyvLGjA%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第9節 | Kim Yoonyoung | Yu Zhiying | B+8.5 | 2015-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CBTkQYOXYGjqLaW4O3D3kg%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第8節 | missing | Yu Zhiying | B+R | 2015-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o%2BYrHuaqupWldq5o10h1AQ%3D%3D) | 
-| 第22期建橋杯中国囲碁新人王戦2回戦 | Yu Zhiying | Li Chengsen | W+4.5 | 2015-02-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Ffn0l4Slj78d%2BUka169NGQ%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第4節 | Yu Zhiying | Hei Jiajia | B+R | 2015-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OH%2FWu%2F8h8tgo5RCmcWrrKQ%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第3節 | Park Shiun | Yu Zhiying | W+8.5 | 2015-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5o79hQnXKr5BjezKboHjIA%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第2節 | Lee Minjin | Yu Zhiying | W+R | 2015-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wc9wzpu5T96WOri9gTM%2Bpw%3D%3D) | 
-| 第15期リコー杯囲碁戦1回戦 | Yu Zhiying | Fan Yunruo | W+R | 2014-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mcoxEFz2vsdhDOkCHimNcg%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦2回戦 | Yu Zhiying | Yang Dingxin | W+R | 2014-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eatGoDqj6unzeEPOqAzQ9w%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第14節 | Yu Zhiying | Cao Youyin | B+R | 2014-11-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kteqspsgic0N78eEf9JDnw%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第13節 | Wang Xiangyun | Yu Zhiying | W+2.5 | 2014-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bI%2BP6yj5NHe4yHiovTEcCg%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第12節 | Yu Zhiying | missing | B+R | 2014-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YYHkhl%2B7szR3h6owkgDY%2Bg%3D%3D) | 
-| 第12回建橋杯女子囲碁オープン戦2回戦 | Yu Zhiying | Chen Yiming | W+0.5 | 2014-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5BmIticu8TpsnP%2B%2FhVWoZA%3D%3D) | 
-| 2014年国際新鋭囲碁対抗戦第3戦 | Yu Zhiying | Su Shengfang | B+R | 2014-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AASfMHEkJD0U7MhEGzKFjg%3D%3D) | 
-| 2014年国際新鋭囲碁対抗戦第2戦 | Yu Zhiying | Choi Jeong | W+2.5 | 2014-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OysfhcQJ6n9HGfgZ8T1MUA%3D%3D) | 
-| 2014年国際新鋭囲碁対抗戦第1戦 | Fujisawa Rina | Yu Zhiying | B+R | 2014-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xohzMEPAXBa6q1LCNjRNWA%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第11節 | Yu Zhiying | Song Ronghui | B+R | 2014-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G4tdZX6G5Y%2Bnqx9LAWSOAQ%3D%3D) | 
-| 第5回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Yu Zhiying | Rui Naiwei | W+R | 2014-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KZqr%2BwOh0OurTeHHwBj5zw%3D%3D) | 
-| 第5回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Wang Chenxing | Yu Zhiying | W+R | 2014-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=52S89KSmvr6k%2B2dpi%2Bce0w%3D%3D) | 
-| 第5回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Yu Zhiying | Okuda Aya | B+R | 2014-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ADND52wcFNlSNVL76oWbUQ%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第10節 | Yu Zhiying | Tang Yi | B+R | 2014-08-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tr8iuXoNDA7YvY2sJxfSYQ%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦第2ステージ決勝 | Shin Jinseo | Yu Zhiying | B+R | 2014-08-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ed5Zoe6qNdfCuaWgrcJj5g%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 | Lee Donghoon | Yu Zhiying | W+T | 2014-08-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CfFx%2FlD5YJvwGgq%2FYCK2RA%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦第2ステージリーグ | missing | Yu Zhiying | B+R | 2014-08-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WDnNp5%2Bol3iyI4Wzo8ttXg%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Yang Kaiwen | Yu Zhiying | B+R | 2014-08-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZPGUAGMAaDn3H5cuTv5H0Q%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第9節 | Zheng Yan | Yu Zhiying | W+R | 2014-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jztT6DZtGfj7E5ot%2FwvjPQ%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第8節 | Yu Zhiying | missing | B+R | 2014-08-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PgI1CHcM6mjrsVk56yvZWg%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第7節 | Yu Zhiying | missing | B+R | 2014-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OHiqVWE1ZsKUgAvNS%2BsWgw%3D%3D) | 
-| 第19回三星火災杯統合予選女子枠1回戦 | Yu Zhiying | Choi Jeong | B+1.5 | 2014-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=feHNg4F5xDZXSI%2BkyCq25g%3D%3D) | 
-| 2014年中国段位戦 | missing | Yu Zhiying | W+R | 2014-07-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qKwi%2BhlD9x4TliedP4LI1g%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第6節 | Wang Shuang | Yu Zhiying | W+R | 2014-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hH65damLfQqhPTNHFFIGvA%3D%3D) | 
-| 第6期中国竜星戦予選 | Li Zhe | Yu Zhiying | B+R | 2014-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2hSD57DspeN8YliZ69w4LA%3D%3D) | 
-| 第6期中国竜星戦予選 | missing | Yu Zhiying | W+12.5 | 2014-06-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QVRht5GHE1C0EpkJDpsGxA%3D%3D) | 
-| 第6期中国竜星戦予選 | Yu Zhiying | missing | B+R | 2014-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YkxuDRKrWmgNVAw7W0gSXQ%3D%3D) | 
-| 第6期中国竜星戦予選 | missing | Yu Zhiying | W+2.5 | 2014-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z2immImiw0BefX8%2FvSBJSg%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第5節 | Yu Zhiying | Hei Jiajia | B+R | 2014-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VLSpaA1awHU0Ii2x05XTKA%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第4節 | missing | Yu Zhiying | W+R | 2014-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6wIxnJz46klY8UULrXYhhA%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第3節 | Tang Yi | Yu Zhiying | W+R | 2014-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zI3BHKpWqc%2FxjNh%2BXGRwiw%3D%3D) | 
-| 第11期倡棋杯中国プロ囲碁選手権戦1回戦 | Yu Zhiying | Mi Yuting | W+5 | 2014-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GsUASaQPhS9%2BSUFnVHf7LA%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第2節 | Yu Zhiying | Zheng Yan | W+0.5 | 2014-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dqzeb1UoNLOHKDToBHzIVQ%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第1節 | Yu Zhiying | missing | B+R | 2014-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HiQoAgTWC6daYDXv9u5JUQ%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Lee Hyeonjun | Yu Zhiying | B+3.5 | 2014-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XuHMFMC%2FCvaelaB5epO2jw%3D%3D) | 
-| 第3回天台山葛玄緑茶杯世界女子団体戦第3戦 | Yu Zhiying | Aoki Kikuyo | B+7.5 | 2014-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o16RiSrvqSgbCPMjC6WnDg%3D%3D) | 
-| 第3回天台山葛玄緑茶杯世界女子団体戦第2戦 | Zhang Zhengping | Yu Zhiying | W+8.5 | 2014-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BLsjPUzbla281wUOatz7Lg%3D%3D) | 
-| 第3回天台山葛玄緑茶杯世界女子団体戦第1戦 | Yu Zhiying | Choi Jeong | B+R | 2014-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z3y3RrilvTv4lc3icUdhPQ%3D%3D) | 
-| 第19回LG杯予選 | Yu Zhiying | Hong Mujin | B+R | 2014-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gUiUK2VJtlEeQMW6R3smVg%3D%3D) | 
-| 第4回黄竜士双登杯世界女子囲碁団体選手権第13戦 | Park Shiun | Yu Zhiying | B+R | 2014-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0me58szJR0HhkgGC69%2FFXw%3D%3D) | 
-| 第4回黄竜士双登杯世界女子囲碁団体選手権第12戦 | Yu Zhiying | Choi Jeong | B+1.5 | 2014-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=leqV5EX5OqbN%2BarnSbr8Tg%3D%3D) | 
-| 第4回黄竜士双登杯世界女子囲碁団体選手権第11戦 | Yu Zhiying | Xie Yimin | B+R | 2014-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wqtLkpJCE3jEhyx0eS7BuA%3D%3D) | 
-| 第4回黄竜士双登杯世界女子囲碁団体選手権第10戦 | Yu Zhiying | Kim Hyeoimin | B+1.5 | 2014-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2FcKrL8zUWhStb9OGUAFKw%3D%3D) | 
-| 第27期中国囲碁名人戦予選 | Yu Zhiying | Gao Yu | W+0.5 | 2014-03-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h%2FLZaktcFuk7zmTy77U6UA%3D%3D) | 
-| 第2回百霊杯世界オープン戦1回戦 | Yu Zhiying | Rui Naiwei | W+R | 2014-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nFMF%2F4qgA1oIDbrBbznwwA%3D%3D) | 
-| 第2回百霊杯世界オープン戦予選 | Yu Zhiying | Wang Xiangyun | B+R | 2014-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ryOUKDtIDoWD%2F8LAUi7FRw%3D%3D) | 
-| 第21期建橋杯中国囲碁新人王戦決勝三番勝負第3局 | Yu Zhiying | Li Qincheng | B+R | 2014-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6tO75jDXT3IZjX34UqyRpw%3D%3D) | 
-| 第21期建橋杯中国囲碁新人王戦決勝三番勝負第2局 | Li Qincheng | Yu Zhiying | B+5.5 | 2014-03-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mLCTcFI8zYD8HI14yixyCQ%3D%3D) | 
-| 第21期建橋杯中国囲碁新人王戦決勝三番勝負第1局 | Yu Zhiying | Li Qincheng | B+R | 2014-03-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GYWZ9qX0MgTI96eDTS3ZeA%3D%3D) | 
-| 第21期建橋杯中国囲碁新人王戦準決勝 | Li Weiqing | Yu Zhiying | W+R | 2014-02-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bAswaNf%2BrCbjyUR%2FBa5G%2Fg%3D%3D) | 
-| 第21期建橋杯中国囲碁新人王戦3回戦 | Yu Zhiying | Zhao Chenyu | B+R | 2014-02-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V7qpsmtiKJtEzJZaqs5fVQ%3D%3D) | 
-| 第21期建橋杯中国囲碁新人王戦2回戦 | missing | Yu Zhiying | W+R | 2014-02-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ou8zIn0vIQB6ryx1KHpaDA%3D%3D) | 
-| 第21期建橋杯中国囲碁新人王戦1回戦 | Ding Hao | Yu Zhiying | W+R | 2014-02-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rmiyf2CpUAEHEpiroyHuuw%3D%3D) | 
-| 第14期リコー杯囲碁戦1回戦 | Li Qincheng | Yu Zhiying | B+R | 2013-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OLP4p4g6%2F9STuQvzI5nQOQ%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Wang Chenxing | B+R | 2013-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bv3NeXoes1cO5mI%2B35kGfA%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Wang Chenxing | Yu Zhiying | W+4.5 | 2013-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JyfmLcFIVWuOYG0FrZHPpA%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Park Shiun | B+3.5 | 2013-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9D4OjyirTdQi7my3Qh2RaA%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Yoshida Mika | B+5.5 | 2013-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yj06fooSKpWtYpiPb9qSxg%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Dina Burdakova | B+R | 2013-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x6eJcV8OALVoquLx0OhKpg%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第14節 | Yu Zhiying | Lu Jia | B+3.5 | 2013-12-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SY8uVQUL3R9BjoshgRU9Fg%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第13節 | Yu Zhiying | Cao Youyin | W+R | 2013-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gh%2F9RDuEc9LFXakdMAekVg%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第12節 | Yu Zhiying | Tang Yi | B+R | 2013-12-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MofC%2BoIrGYyF3%2FHP4JiOKQ%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第11節 | Yu Zhiying | Wang Xiangyun | W+0.5 | 2013-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=57HTREps8OdxmazPOoyGLw%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第10節 | Yu Zhiying | Zhang Xuan | B+3.5 | 2013-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BIGIUVx0c7o9Q%2FQWFJQNQA%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第9節 | Yu Zhiying | Tao Ran | B+R | 2013-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rnwFr9wWvdPKFQOyk3gWYQ%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第8節 | Chen Yiming | Yu Zhiying | W+R | 2013-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9cd%2FuZgGk2P2D41G1zWL4w%3D%3D) | 
-| 第4回穹窿山兵聖杯世界女子囲碁選手権決勝 | Yu Zhiying | Wang Chenxing | W+R | 2013-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ocxyHhuYQSFORL2zF9tYxA%3D%3D) | 
-| 第4回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Tang Yi | Yu Zhiying | W+R | 2013-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g91BuM8n3rfkswEEMv29UQ%3D%3D) | 
-| 第4回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Mukai Chiaki | Yu Zhiying | W+R | 2013-09-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D5cwqZNMiC23grlJhvlSYA%3D%3D) | 
-| 第4回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Okuda Aya | Yu Zhiying | W+T | 2013-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=at6wpKTTIuiizStUlKCDsA%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第7節 | Li Chunhua | Yu Zhiying | W+R | 2013-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d%2BiiE9NHK4b8dSrSaPMVWQ%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第6節 | Yu Zhiying | missing | W+R | 2013-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ngE0rDZ5oTKaJk8FXDUKVQ%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第5節 | Tang Yi | Yu Zhiying | W+R | 2013-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PxvLL%2BFWe470xD54UoprYA%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第4節 | Yu Zhiying | Wang Xiangyun | B+R | 2013-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kV%2FbxLuvV%2FmOc1gHYfOVDg%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第3ステージ | Yu Zhiying | An Dongxu | B+1.5 | 2013-08-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YiTSjuwqb6mZtE7B6sI8Uw%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第3ステージ | Guo Yuzheng | Yu Zhiying | B+R | 2013-08-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xop9Ts8K2FbgY1gIJNIBsw%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第3ステージ | missing | Yu Zhiying | B+R | 2013-08-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VK%2Bj7dCBDXTbBx3Z5YrZjA%3D%3D) | 
-| 2013年中国段位戦 | Yu Zhiying | missing | B+R | 2013-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eSuRZLBB1x3JuhMvIm3icw%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第3節 | Yu Zhiying | missing | B+R | 2013-06-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eI6huRIsTfmKgTjKG9DjMA%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第2節 | Li Yirong | Yu Zhiying | W+R | 2013-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iGhWt%2Br1b48JpjZA45Tc1g%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第1節 | Yu Zhiying | Chen Yiming | B+R | 2013-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yvr0hOXF3IEF4tqypxjUqg%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Ding Wei | Yu Zhiying | B+R | 2013-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ospT5fV20Xqz%2FxP2%2BOIBYA%3D%3D) | 
-| 第1回夢百合杯世界オープン戦予選 | Hei Jiajia | Yu Zhiying | B+R | 2013-05-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=77lzxE2zVFdfFvP%2F8k9uqA%3D%3D) | 
-| 第2期全国女子囲碁国手戦順位戦 | Yu Zhiying | Chen Yiming | W+R | 2013-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uQrOfLE9ucrrc%2BvFKOKZmQ%3D%3D) | 
-| 第2期全国女子囲碁国手戦2回戦 | Yu Zhiying | Tang Yi | W+R | 2013-05-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BlTwMVUl9nq1CAfGvoO43g%3D%3D) | 
-| 第2期全国女子囲碁国手戦1回戦 | Yu Zhiying | Chen Yiming | B+R | 2013-05-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cWOTfzZ0wbtFq2kD%2FwMO6Q%3D%3D) | 
-| 第3回黄竜士双登杯世界女子囲碁団体選手権第11戦 | Choi Jeong | Yu Zhiying | B+T | 2013-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5jMAIQS9tpEXAwEvtJYYYg%3D%3D) | 
-| 第3回黄竜士双登杯世界女子囲碁団体選手権第10戦 | Yu Zhiying | Xie Yimin | B+R | 2013-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tcZnIpqmSxPRYuTOo3HO5w%3D%3D) | 
-| 第3回黄竜士双登杯世界女子囲碁団体選手権第9戦 | Moon Dowon | Yu Zhiying | W+R | 2013-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gtCOuQgIQUIV0N4gHQdSgw%3D%3D) | 
-| 第3回黄竜士双登杯世界女子囲碁団体選手権第8戦 | Mukai Chiaki | Yu Zhiying | W+R | 2013-04-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bbucm8HRzdJrd7k4tbp9Ag%3D%3D) | 
-| 第3回黄竜士双登杯世界女子囲碁団体選手権第7戦 | missing | Yu Zhiying | W+R | 2013-02-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wcn%2FP5zO1Wh0VKjFzI%2BdaQ%3D%3D) | 
-| 第3回黄竜士双登杯世界女子囲碁団体選手権第6戦 | Okuda Aya | Yu Zhiying | W+R | 2013-02-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CoGiq9T4vPTEAOXPYQqUlQ%3D%3D) | 
-| 第3回黄竜士双登杯世界女子囲碁団体選手権第5戦 | Yu Zhiying | Kim Cheayoung | B+R | 2013-02-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wwx7PhZUJu741FpiD9Neew%3D%3D) | 
-| 第27期中国囲碁天元戦予選 | Wang Xi | Yu Zhiying | B+R | 2013-01-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CfEcKFQQ7gl5uXYKnL%2Foyw%3D%3D) | 
-| 第13期リコー杯囲碁戦1回戦 | Yu Zhiying | Gu Lingyi | W+R | 2012-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wWsPHN0BakiiBZ42qSfJXA%3D%3D) | 
-| 第7期リコー杯新秀戦1回戦 | Li Qincheng | Yu Zhiying | B+R | 2012-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UbFPkBbpmJ9pGN7GOWfQXg%3D%3D) | 
-| 第3回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Li He | Yu Zhiying | B+R | 2012-11-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jOzxWF%2FRSBZd9%2Fodfm7a3Q%3D%3D) | 
-| 第3回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Yu Zhiying | Park Shiun | B+1.5 | 2012-10-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l9P%2Bk40yOhMCFNSVI9pUeQ%3D%3D) | 
-| 第3回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Yu Zhiying | Mukai Chiaki | B+R | 2012-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZUIaYifxy8oE9%2Fp6CXEa4A%3D%3D) | 
-| 第10回建橋杯女子囲碁オープン戦1回戦 | Rui Naiwei | Yu Zhiying | B+R | 2012-09-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bm6i%2FHi0g9L9WVAYCf2kVg%3D%3D) | 
-| 第8回百霊杯アマ女子勝抜戦第2戦 | Yu Zhiying | Xu Jiayang | W+R | 2012-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FsKStJG3M3qiyDHzQnBHvQ%3D%3D) | 
-| 第8回百霊杯アマ女子勝抜戦第1戦 | Yu Zhiying | missing | B+R | 2012-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gU6AvHAxyZ2zFynioxBP%2FQ%3D%3D) | 
-| 第9期倡棋杯中国プロ囲碁選手権戦1回戦 | Yu Zhiying | Piao Wenyao | W+R | 2012-06-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pz9zjQ9XWOKDw%2F%2FrWxOWdw%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦予選 | Xiao Wei | Yu Zhiying | W+2.5 | 2012-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FGs6HXNagLzAbJvj7lEWiQ%3D%3D) | 
-| 第1回華頂茶業杯世界女子団体選手権第3戦 | Yu Zhiying | Su Shengfang | B+R | 2012-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9HgjwSTA72BQu0VRJKOrzQ%3D%3D) | 
-| 第1回華頂茶業杯世界女子団体選手権第2戦 | Kim Hyeoimin | Yu Zhiying | B+R | 2012-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PMVaTHKp4va4SAtD0HFhRQ%3D%3D) | 
-| 第1回華頂茶業杯世界女子団体選手権第1戦 | Yu Zhiying | Mukai Chiaki | W+R | 2012-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BjGdIrpQLDI7TdIWTYTReA%3D%3D) | 
-| 第2回黄竜士双登杯世界女子囲碁団体選手権第11戦 | Xie Yimin | Yu Zhiying | W+R | 2012-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wbjp7fyA4M3d7hvGN4vxxw%3D%3D) | 
-| 第19期建橋杯中国囲碁新人王戦2回戦 | Yu Zhiying | Zhou Hexi | W+R | 2012-03-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lCNQuAZO584Q3if11BGM1A%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権予選 | Yu Zhiying | Park Yeonghun | W+R | 2012-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8c0sk615wyPbCn291alq3Q%3D%3D) | 
-| 第6期リコー杯新秀戦2回戦 | Yu Zhiying | Mi Yuting | W+R | 2012-02-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SBNlJjwZhJZ5%2FhStS%2FmB%2FA%3D%3D) | 
-| 第12期リコー杯囲碁戦1回戦 | Yu Zhiying | missing | W+R | 2011-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=35Bpa99RFzaTCPwWPc4diQ%3D%3D) | 
-| 第6期リコー杯新秀戦1回戦 | Xiao Wei | Yu Zhiying | W+4.5 | 2011-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gq2D%2F4tiNW85wTfcUH8fWA%3D%3D) | 
-| 2011年国際新鋭囲碁対抗戦第3戦 | Yu Zhiying | Choi Jeong | B+R | 2011-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FJzKTDyiRMpvw8hOhGyZDA%3D%3D) | 
-| 第2回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Park Shiun | Yu Zhiying | B+R | 2011-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bMgk1xXEuDOVJZVT2k9Wrg%3D%3D) | 
-| 第2回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Yu Zhiying | Feng Yun | B+R | 2011-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=axALTtgYg7Q1b12ymC1raQ%3D%3D) | 
-| 第7回百霊杯元老女子勝抜戦第5戦 | Yu Zhiying | Cao Dayuan | W+R | 2011-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VEkh%2Fqq4hGYyUrVBJipvug%3D%3D) | 
-| 第7回百霊杯元老女子勝抜戦第4戦 | Yu Zhiying | missing | B+1.5 | 2011-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b%2F%2FN5VB%2BXvs36wFdR8iS%2Bg%3D%3D) | 
-| 第7回百霊杯元老女子勝抜戦第3戦 | Shao Zhenzhong | Yu Zhiying | W+R | 2011-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LI9Yo1u%2BRpylMdfLIlPrtw%3D%3D) | 
-| 第7回百霊杯元老女子勝抜戦第2戦 | Song Xuelin | Yu Zhiying | W+R | 2011-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VmXUrmjIsgph6Cs8a1e%2FXQ%3D%3D) | 
-| 第7回百霊杯元老女子勝抜戦第1戦 | Yu Zhiying | Liang Weitang | B+3.5 | 2011-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ydNQNFNO78QgrZIWtV2Q9g%3D%3D) | 
-| 第8回建橋杯女子囲碁オープン戦2回戦 | Yu Zhiying | Cao Youyin | W+R | 2010-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=blBlXmW7Wiv3%2BmVQPKPBtQ%3D%3D) | 
-| 第8回建橋杯女子囲碁オープン戦1回戦 | Zheng Yan | Yu Zhiying | W+R | 2010-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TZSYQ%2BVVO%2B6D01qTvKHPeg%3D%3D) | 
-| 第8回建橋杯女子囲碁オープン戦予選 | missing | Yu Zhiying | W+R | 2010-09-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3cs5oln5u0SA3uZcrGVzeA%3D%3D) | 
-| 第8回建橋杯女子囲碁オープン戦予選 | missing | Yu Zhiying | W+R | 2010-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aDUmH%2FLn69Flz0e6u8%2FZyg%3D%3D) | 
-| 第4期建橋杯女子新人王戦1回戦 | Yu Zhiying | missing | W+R | 2010-02-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PQwdHtiIM9jfluQYEHEanw%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Ueno Asami | Yu Zhiying | Win | W+R | 7.5 | 3135 | -9 | 
+| 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Zhou Hongyu | Win | B+1¾ | 7.5 | 3144 | 34 | 
+| 2021-05-19 | 第9回中国女子囲碁甲級リーグ |  | Yu Zhiying | Win | W+R | 7.5 | 3110 | -14 | 
+| 2021-05-18 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Pan Yang | Win | B+R | 7.5 | 3124 | 11 | 
+| 2021-05-17 | 第9回中国女子囲碁甲級リーグ | Zhan Ying | Yu Zhiying | Win | W+R | 7.5 | 3113 | 10 | 
+| 2021-05-15 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying |  | Win | B+2¾ | 7.5 | 3103 | -3 | 
+| 2021-05-14 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying |  | Win | B+R | 7.5 | 3106 | 1 | 
+| 2021-04-06 | 第17回倡棋杯中国プロ囲碁選手権戦予選 |  | Yu Zhiying | Win | W+1¼ | 7.5 | 3105 | -2 | 
+| 2021-04-03 | 第8回中国女子囲碁甲級リーグ | Yu Zhiying | Cai Bihan | Lose | W+1¼ | 7.5 | 3107 | -21 | 
+| 2021-04-02 | 第8回中国女子囲碁甲級リーグ | Tang Yi | Yu Zhiying | Win | W+R | 7.5 | 3128 | 12 | 
+| 2021-04-01 | 第8回中国女子囲碁甲級リーグ | Yu Zhiying | Pan Yang | Lose | W+1¼ | 7.5 | 3116 | -27 | 
+| 2021-03-31 | 第8回中国女子囲碁甲級リーグ |  | Yu Zhiying | Lose | B+R | 7.5 | 3143 | -50 | 
+| 2021-03-29 | 第8回中国女子囲碁甲級リーグ |  | Yu Zhiying | Win | W+R | 7.5 | 3193 | -2 | 
+| 2021-03-28 | 第8回中国女子囲碁甲級リーグ |  | Yu Zhiying | Win | W+R | 7.5 | 3195 | 0 | 
+| 2021-03-27 | 第8回中国女子囲碁甲級リーグ | Yu Zhiying | Li He | Win | B+R | 7.5 | 3195 | 28 | 
+| 2021-03-26 | 第8回中国女子囲碁甲級リーグ |  | Yu Zhiying | Win | W+¼ | 7.5 | 3167 | -97 | 
+| 2021-03-24 | 第3回SENKO CUPワールド碁女流最強戦決勝  | Yu Zhiying | Choi Jeong | Win | B+R | 6.5 | 3264 | 52 | 
+| 2021-03-23 | 第3回SENKO CUPワールド碁女流最強戦準決勝  | Yu Zhiying | Mukai Chiaki | Win | B+R | 6.5 | 3212 | -5 | 
+| 2021-03-22 | 第3回SENKO CUPワールド碁女流最強戦1回戦  | Fujisawa Rina | Yu Zhiying | Win | W+2.5 | 6.5 | 3217 | -123 | 
+| 2020-12-04 | 第3回呉清源杯世界女子囲碁選手権決勝三番勝負第3局 | Yu Zhiying | Zhou Hongyu | Lose | W+R | 7.5 | 3340 | -24 | 
+| 2020-12-03 | 第3回呉清源杯世界女子囲碁選手権決勝三番勝負第2局 | Yu Zhiying | Zhou Hongyu | Lose | W+3¼ | 7.5 | 3364 | -28 | 
+| 2020-12-02 | 第3回呉清源杯世界女子囲碁選手権決勝三番勝負第1局 | Zhou Hongyu | Yu Zhiying | Win | W+R | 7.5 | 3392 | 37 | 
+| 2020-11-30 | 第3回呉清源杯世界女子囲碁選手権準決勝 | Wang Chenxing | Yu Zhiying | Win | W+R | 7.5 | 3355 | -4 | 
+| 2020-11-24 | 第8回中国女子囲碁甲級リーグ | Yu Zhiying | Lu Jia | Lose | W+R | 7.5 | 3359 | -58 | 
+| 2020-11-23 | 第8回中国女子囲碁甲級リーグ | Zheng Yan | Yu Zhiying | Win | W+R | 7.5 | 3417 | 6 | 
+| 2020-11-21 | 第8回中国女子囲碁甲級リーグ | Yu Zhiying |  | Lose | W+R | 7.5 | 3411 | -49 | 
+| 2020-11-20 | 第8回中国女子囲碁甲級リーグ | Wang Yubo | Yu Zhiying | Win | W+R | 7.5 | 3460 | 128 | 
+| 2020-11-18 | 第8回中国女子囲碁甲級リーグ | Yu Zhiying |  | Win | B+R | 7.5 | 3332 | 9 | 
+| 2020-11-17 | 第8回中国女子囲碁甲級リーグ | Yu Zhiying |  | Win | B+R | 7.5 | 3323 | -15 | 
+| 2020-09-29 | 第3回呉清源杯世界女子囲碁選手権3回戦 | Lu Minquan | Yu Zhiying | Win | W+R | 7.5 | 3338 | 17 | 
+| 2020-09-28 | 第3回呉清源杯世界女子囲碁選手権2回戦 | Suzuki Ayumi | Yu Zhiying | Win | W+1¼ | 7.5 | 3321 | 143 | 
+| 2020-09-17 | 第25回三星火災杯中国女子枠予選 | Yu Zhiying | Wang Chenxing | Lose | W+R | 6.5 | 3178 | 217 | 
+| 2020-07-31 | 第8回中国女子囲碁甲級リーグ第4節 | Yu Zhiying |  | Win | B+R | 7.5 | 2961 | -3 | 
+| 2020-07-30 | 第8回中国女子囲碁甲級リーグ第3節 | Li He | Yu Zhiying | Win | W+R | 7.5 | 2964 | 27 | 
+| 2020-07-29 | 第8回中国女子囲碁甲級リーグ第2節 | Oh Yujin | Yu Zhiying | Win | W+¼ | 7.5 | 2937 | 44 | 
+| 2020-07-28 | 第8回中国女子囲碁甲級リーグ第1節 | Yu Zhiying |  | Win | B+R | 7.5 | 2893 | -213 | 
+| 2020-01-05 | 第34期中国囲碁天元戦予選 | Yu Zhiying | Li Qincheng | Lose | W+R | 7.5 | 3106 | 302 | 
+| 2019-12-24 | 第5期洛陽白雲山杯中国棋聖戦予選 | Guo Yuzheng | Yu Zhiying | Lose | B+R | 7.5 | 2804 | 7 | 
+| 2019-12-18 | 第11期中国竜星戦Aブロック1回戦 | Yu Zhiying | Wang Haoyang | Lose | W+¼ | 7.5 | 2797 | -1 | 
+| 2019-12-16 | 第11期中国竜星戦予選 | Yu Zhiying | Zhou Hongyu | Win | B+R | 7.5 | 2798 | 0 | 
+| 2019-12-16 | 第11期中国竜星戦予選 |  | Yu Zhiying | Win | W+R | 7.5 | 2798 | 15 | 
+| 2019-11-27 | 第7回中国女子囲碁甲級リーグ第18節 | Rui Naiwei | Yu Zhiying | Win | W+R | 7.5 | 2783 | 29 | 
+| 2019-11-26 | 第7回中国女子囲碁甲級リーグ第17節 | Yu Zhiying |  | Win | B+R | 7.5 | 2754 | -19 | 
+| 2019-11-21 | 閬中古城杯第2期中国女子囲棋名人戦16強戦 | Yu Zhiying |  | Lose | W+1¼ | 7.5 | 2773 | -6 | 
+| 2019-11-20 | 閬中古城杯第2期中国女子囲棋名人戦32強戦 | Yu Zhiying |  | Win | B+R | 7.5 | 2779 | 7 | 
+| 2019-11-17 | 第4回全国智力運動会女子団体戦第8戦 | Yu Zhiying |  | Win | B+1¾ | 7.5 | 2772 | 1 | 
+| 2019-11-15 | 第4回全国智力運動会女子団体戦第3戦 | Yu Zhiying | Rui Naiwei | Win | B+R | 7.5 | 2771 | 9 | 
+| 2019-11-14 | 第4回全国智力運動会女子団体戦第1戦 | Yu Zhiying | Ye Gui | Win | B+R | 7.5 | 2762 | -3 | 
+| 2019-11-10 | 第4回全国智力運動会プロ女子個人早碁戦決勝 |  | Yu Zhiying | Lose | B+R | 7.5 | 2765 | -14 | 
+| 2019-11-05 | 第7回中国女子囲碁甲級リーグ第16節 |  | Yu Zhiying | Win | W+¼ | 7.5 | 2779 | 6 | 
+| 2019-10-31 | 第10回穹窿山兵聖杯世界女子囲碁選手権8強戦 | Choi Jeong | Yu Zhiying | Lose | B+¾ | 7.5 | 2773 | 1 | 
+| 2019-10-30 | 第10回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Yu Zhiying | Oh Yujin | Win | B+R | 7.5 | 2772 | 30 | 
+| 2019-10-25 | 第7回中国女子囲碁甲級リーグ第15節 | Yu Zhiying | Wang Shuang | Win | B+1¾ | 7.5 | 2742 | 30 | 
+| 2019-10-19 | 第7回中国女子囲碁甲級リーグ第13節 | Li He | Yu Zhiying | Win | W+R | 7.5 | 2712 | 21 | 
+| 2019-10-18 | 第7回中国女子囲碁甲級リーグ第14節 | Yu Zhiying | Lu Jia | Win | B+R | 7.5 | 2691 | 12 | 
+| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦決勝 | Yu Zhiying | Choi Jeong | Lose | W+R | 6.5 | 2679 | 0 | 
+| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦第3戦 |  | Yu Zhiying | Win | W+R | 6.5 | 2679 | -7 | 
+| 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhiying | Choi Jeong | Lose | W+2.5 | 6.5 | 2686 | 0 | 
+| 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yu Zhiying | Fujisawa Rina | Win | B+R | 6.5 | 2686 | -46 | 
+| 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Yu Zhiying | Ichiriki Ryo | Lose | W+R | 7.5 | 2732 | -38 | 
+| 2019-09-28 | 2019年全国囲棋個人戦男子組第12戦 | Yu Zhiying |  | Lose | W+R | 7.5 | 2770 | 0 | 
+| 2019-09-28 | 2019年全国囲棋個人戦男子組第11戦 |  | Yu Zhiying | Win | W+R | 7.5 | 2770 | 4 | 
+| 2019-09-25 | 2019年全国囲棋個人戦男子組第8戦 | Zheng Xu | Yu Zhiying | Lose | B+R | 7.5 | 2766 | 3 | 
+| 2019-09-23 | 2019年全国囲棋個人戦男子組第7戦 | Yu Zhiying |  | Win | B+R | 7.5 | 2763 | -52 | 
+| 2019-09-20 | 2019年全国囲棋個人戦男子組第4戦 | Yu Zhiying |  | Lose | W+R | 7.5 | 2815 | -5 | 
+| 2019-09-19 | 2019年全国囲棋個人戦男子組第3戦 |  | Yu Zhiying | Lose | B+2¾ | 7.5 | 2820 | -18 | 
+| 2019-09-18 | 2019年全国囲棋個人戦男子組第2戦 | Li Zerui | Yu Zhiying | Win | W+R | 7.5 | 2838 | 0 | 
+| 2019-09-18 | 2019年全国囲棋個人戦男子組第1戦 | Yu Zhiying |  | Lose | W+¼ | 7.5 | 2838 | 5 | 
+| 2019-09-10 | 第15期威孚房開杯棋王戦32強戦 | Yu Zhiying | Xie Erhao | Lose | W+R | 7.5 | 2833 | -1 | 
+| 2019-09-08 | 第7回中国女子囲碁甲級リーグ第12節 | Yu Zhiying | Lu Minquan | Lose | W+R | 7.5 | 2834 | -7 | 
+| 2019-08-27 | 第17回建橋杯女子囲碁オープン戦8強戦 | Yu Zhiying | Cai Bihan | Lose | W+R | 7.5 | 2841 | -14 | 
+| 2019-08-25 | 第17回建橋杯女子囲碁オープン戦16強戦 | Li He | Yu Zhiying | Win | W+2¼ | 7.5 | 2855 | -46 | 
+| 2019-08-11 | 第7回中国女子囲碁甲級リーグ第11節 | Zhan Ying | Yu Zhiying | Win | W+R | 7.5 | 2901 | -40 | 
+| 2019-08-09 | 第7回中国女子囲碁甲級リーグ第10節 | Yu Zhiying | Huang Ziping | Win | B+R | 7.5 | 2941 | 10 | 
+| 2019-07-30 | 第7回中国女子囲碁甲級リーグ第9節 | Yu Zhiying | Rui Naiwei | Lose | W+R | 7.5 | 2931 | -20 | 
+| 2019-07-29 | 第7回中国女子囲碁甲級リーグ第8節 |  | Yu Zhiying | Win | W+R | 7.5 | 2951 | 28 | 
+| 2019-07-19 | 第7回中国女子囲碁甲級リーグ第7節 | Yu Zhiying |  | Win | B+1¾ | 7.5 | 2923 | 3 | 
+| 2019-06-25 | 第7回中国女子囲碁甲級リーグ第6節 | Wang Shuang | Yu Zhiying | Win | W+R | 7.5 | 2920 | 11 | 
+| 2019-06-12 | 第9回中国姜堰黄竜士精鍛科技杯世界女子団体戦第14戦 | Choi Jeong | Yu Zhiying | Lose | B+2¾ | 7.5 | 2909 | -22 | 
+| 2019-06-06 | 第21期阿含・桐山杯中国早碁オープン戦予選1回戦 | Yu Zhiying | Li Qincheng | Lose | W+R | 7.5 | 2931 | 0 | 
+| 2019-06-02 | 第7回中国女子囲碁甲級リーグ第5節 | Lu Jia | Yu Zhiying | Lose | B+1¾ | 7.5 | 2931 | 10 | 
+| 2019-05-31 | 第7回中国女子囲碁甲級リーグ第4節 | Yu Zhiying |  | Win | B+R | 7.5 | 2921 | 31 | 
+| 2019-05-26 | 第7回中国女子囲碁甲級リーグ第3節 | Lu Minquan | Yu Zhiying | Lose | B+R | 7.5 | 2890 | -6 | 
+| 2019-05-22 | 第4回夢百合杯統合予選 |  | Yu Zhiying | Win | W+R | 7.5 | 2896 | -25 | 
+| 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦4回戦 | Yu Zhiying | Hei Jiajia | Win | B+R | 7.5 | 2921 | 0 | 
+| 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦3回戦 | Mukai Chiaki | Yu Zhiying | Win | W+R | 7.5 | 2921 | 35 | 
+| 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦1回戦 | Choi Jeong | Yu Zhiying | Lose | B+R | 7.5 | 2886 | 0 | 
+| 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦2回戦 | Yu Zhiying | Lin Xuefen | Win | B+R | 7.5 | 2886 | -31 | 
+| 2019-05-12 | 第8回天台山体彩杯世界女子囲碁団体戦第3戦 | Yu Zhiying | Hei Jiajia | Win | B+R | 7.5 | 2917 | 16 | 
+| 2019-05-11 | 第8回天台山体彩杯世界女子囲碁団体戦第2戦 | Fujisawa Rina | Yu Zhiying | Win | W+R | 7.5 | 2901 | -6 | 
+| 2019-05-10 | 第8回天台山体彩杯世界女子囲碁団体戦第1戦 | Choi Jeong | Yu Zhiying | Lose | B+R | 7.5 | 2907 | -22 | 
+| 2019-04-28 | 第2回呉清源杯世界女子囲碁選手権16強戦 | Yu Zhiying | Oh Yujin | Lose | W+1¼ | 7.5 | 2929 | -55 | 
+| 2019-04-19 | 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Yu Zhiying | Ke Jie | Lose | W+R | 7.5 | 2984 | -2 | 
+| 2019-04-11 | 第7回中国女子囲碁甲級リーグ第2節江蘇-安徽 | Yu Zhiying | Zhan Ying | Win | B+R | 7.5 | 2986 | 0 | 
+| 2019-04-10 | 第7回中国女子囲碁甲級リーグ第1節広東-江蘇 |  | Yu Zhiying | Win | W+R | 7.5 | 2986 | 15 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Yu Zhiying |  | Lose | W+1¼ | 7.5 | 2971 | -13 | 
+| 2019-02-24 | 第2回SENKO CUPワールド碁女流最強戦決勝 | Yu Zhiying | Choi Jeong | Win | B+3.5 | 6.5 | 2984 | 7 | 
+| 2019-02-23 | 第2回SENKO CUPワールド碁女流最強戦準決勝 | Yu Zhiying | Tsukuda Akiko | Win | B+R | 6.5 | 2977 | -11 | 
+| 2019-02-22 | 第2回SENKO CUPワールド碁女流最強戦1回戦 | Yu Zhiying | Mannami Nao | Win | B+R | 6.5 | 2988 | -3 | 
+| 2019-02-17 | 2019年韓中囲碁リーグチャンピオンズカップ第2戦 | Yu Zhiying | Yun Chanhee | Lose | W+2.5 | 6.5 | 2991 | -9 | 
+| 2019-02-16 | 2019年韓中囲碁リーグチャンピオンズカップ第1戦 | Yu Zhiying | Byun Sangil | Lose | W+R | 6.5 | 3000 | 0 | 
+| 2018-12-19 | 第4期洛陽白雲山杯中国棋聖戦予選甲組 | Yu Zhiying |  | Lose | W+1¼ | 7.5 | 3000 | 35 | 
+| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節江蘇-民生 | Shi Yue | Yu Zhiying | Lose | B+1¾ | 7.5 | 2965 | -12 | 
+| 2018-11-27 | 第6回中国女子囲碁甲級リーグ第18節上海-江蘇 | Rui Naiwei | Yu Zhiying | Win | W+R | 7.5 | 2977 | 1 | 
+| 2018-11-22 | 閬中古城杯第1期中国女子囲棋名人戦32強戦 | Yu Zhiying | Wang Shuang | Lose | W+¼ | 7.5 | 2976 | 12 | 
+| 2018-10-31 | 第9回穹窿山兵聖杯世界女子囲碁選手権1回戦  | Choi Jeong | Yu Zhiying | Lose | B+R | 7.5 | 2964 | -6 | 
+| 2018-10-19 | 第6回中国女子囲碁甲級リーグ第16節武漢-江蘇 | Lu Jia | Yu Zhiying | Win | W+R | 7.5 | 2970 | -13 | 
+| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦決勝 | Choi Jeong | Yu Zhiying | Lose | B+R | 6.5 | 2983 | 0 | 
+| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yu Zhiying | Fujisawa Rina | Win | B+R | 6.5 | 2983 | -3 | 
+| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yu Zhiying |  | Win | B+R | 6.5 | 2986 | 0 | 
+| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhiying | Choi Jeong | Win | B+R | 6.5 | 2986 | 11 | 
+| 2018-10-11 | 第6回中国女子囲碁甲級リーグ第14節蕪湖-江蘇 | Zhou Hongyu | Yu Zhiying | Win | W+R | 7.5 | 2975 | 5 | 
+| 2018-10-09 | 第6回中国女子囲碁甲級リーグ第15節江蘇-洛陽 | Yu Zhiying | Li He | Win | B+1¾ | 7.5 | 2970 | 10 | 
+| 2018-09-28 | 第6回中国女子囲碁甲級リーグ第13節江蘇-杭州 | Yu Zhiying | Fang Ruoxi | Win | B+R | 7.5 | 2960 | -2 | 
+| 2018-09-26 | 2018年全国囲棋個人戦男子組第13戦 | Yu Zhiying | Huang Xin | Lose | W+R | 7.5 | 2962 | -5 | 
+| 2018-09-25 | 2018年全国囲棋個人戦男子組第12戦 | Yu Zhiying | Li Weiqing | Lose | W+R | 7.5 | 2967 | 0 | 
+| 2018-09-25 | 2018年全国囲棋個人戦男子組第11戦 |  | Yu Zhiying | Win | W+R | 7.5 | 2967 | 1 | 
+| 2018-09-23 | 2018年全国囲棋個人戦男子組第10戦 | Yu Zhiying | Wang Zejin | Lose | W+R | 7.5 | 2966 | -1 | 
+| 2018-09-22 | 2018年全国囲棋個人戦男子組第9戦 | Shu Yixiao | Yu Zhiying | Win | W+¼ | 7.5 | 2967 | 0 | 
+| 2018-09-22 | 2018年全国囲棋個人戦男子組第8戦 | Yu Zhiying | Hu Yuhan | Win | B+3¾ | 7.5 | 2967 | 28 | 
+| 2018-09-20 | 2018年全国囲棋個人戦男子組第7戦 | Chen Zijian | Yu Zhiying | Lose | B+R | 7.5 | 2939 | -3 | 
+| 2018-09-19 | 2018年全国囲棋個人戦男子組第6戦 |  | Yu Zhiying | Win | W+R | 7.5 | 2942 | 0 | 
+| 2018-09-19 | 2018年全国囲棋個人戦男子組第5戦 | Yu Zhiying |  | Win | B+R | 7.5 | 2942 | 21 | 
+| 2018-09-17 | 2018年全国囲棋個人戦男子組第4戦 | Yu Zhiying | Cheng Jiaye | Win | B+6¾ | 7.5 | 2921 | 1 | 
+| 2018-09-16 | 2018年全国囲棋個人戦男子組第3戦 |  | Yu Zhiying | Win | W+R | 7.5 | 2920 | -6 | 
+| 2018-09-15 | 2018年全国囲棋個人戦男子組第2戦 | Chen Zhengxun | Yu Zhiying | Lose | B+R | 7.5 | 2926 | 0 | 
+| 2018-09-15 | 2018年全国囲棋個人戦男子組第1戦 | Yu Zhiying |  | Win | B+R | 7.5 | 2926 | -28 | 
+| 2018-09-02 | 第16回建橋杯女子囲碁オープン戦準決勝 | Yu Zhiying | Wang Chenxing | Lose | W+2¼ | 7.5 | 2954 | -14 | 
+| 2018-09-01 | 第16回建橋杯女子囲碁オープン戦8強戦 |  | Yu Zhiying | Win | W+2¼ | 7.5 | 2968 | 1 | 
+| 2018-08-30 | 第16回建橋杯女子囲碁オープン戦16強戦 | Tang Yi | Yu Zhiying | Win | W+R | 7.5 | 2967 | 1 | 
+| 2018-08-29 | 第16回建橋杯女子囲碁オープン戦32強戦 | Zhan Ying | Yu Zhiying | Win | W+R | 7.5 | 2966 | -5 | 
+| 2018-08-25 | 第6回中国女子囲碁甲級リーグ第12節 | Yu Zhiying | Pan Yang | Win | B+R | 7.5 | 2971 | 6 | 
+| 2018-08-24 | 第6回中国女子囲碁甲級リーグ第11節廈門-江蘇 | Lu Minquan | Yu Zhiying | Win | W+R | 7.5 | 2965 | 10 | 
+| 2018-08-14 | 第6回中国女子囲碁甲級リーグ第10節江蘇-河北 | Yu Zhiying | Wang Shuang | Win | B+R | 7.5 | 2955 | 29 | 
+| 2018-08-12 | 第6回中国女子囲碁甲級リーグ第9節江蘇-上海 | Yu Zhiying | Rui Naiwei | Lose | W+R | 7.5 | 2926 | 0 | 
+| 2018-07-13 | 第6回中国女子囲碁甲級リーグ第8節広東-江蘇 | Chen Yiming | Yu Zhiying | Win | W+R | 7.5 | 2926 | -7 | 
+| 2018-06-08 | 第8回中国姜堰黄竜士精鍛科技杯世界女子団体戦第14戦 | Choi Jeong | Yu Zhiying | Win | W+2¼ | 7.5 | 2933 | 7 | 
+| 2018-06-02 | 第6回中国女子囲碁甲級リーグ第7節江蘇-武漢 | Yu Zhiying | Oh Yujin | Lose | W+2¼ | 7.5 | 2926 | -12 | 
+| 2018-05-31 | 第6回中国女子囲碁甲級リーグ第6節洛陽-江蘇 | Li He | Yu Zhiying | Win | W+R | 7.5 | 2938 | -24 | 
+| 2018-05-24 | 第6回中国女子囲碁甲級リーグ第5節江蘇-蕪湖 | Yu Zhiying | Yuan Tingyu | Win | B+R | 7.5 | 2962 | -22 | 
+| 2018-05-12 | 第7回天台山森然楊帆杯世界女子囲碁団体選手権第3戦 | Xie Yimin | Yu Zhiying | Win | W+R | 7.5 | 2984 | 21 | 
+| 2018-05-11 | 第7回天台山森然楊帆杯世界女子囲碁団体選手権第2戦 | Yu Zhiying | Hei Jiajia | Win | B+R | 7.5 | 2963 | 4 | 
+| 2018-05-10 | 第7回天台山森然楊帆杯世界女子囲碁団体選手権第1戦 | Yu Zhiying | Choi Jeong | Win | B+R | 7.5 | 2959 | -20 | 
+| 2018-05-06 | 第6回中国女子囲碁甲級リーグ第4節杭州-江蘇 | Gao Xing | Yu Zhiying | Win | W+R | 7.5 | 2979 | 0 | 
+| 2018-05-01 | 第1回呉清源杯世界女流囲碁選手権準決勝 | Yu Zhiying | Kim Cheayoung | Lose | W+¼ | 7.5 | 2979 | -4 | 
+| 2018-04-30 | 第1回呉清源杯世界女流囲碁選手権8強戦 | Oh Jeonga | Yu Zhiying | Win | W+R | 7.5 | 2983 | 5 | 
+| 2018-04-28 | 第1回呉清源杯世界女流囲碁選手権16強戦 | Oh Yujin | Yu Zhiying | Win | W+R | 7.5 | 2978 | 12 | 
+| 2018-04-27 | 第1回呉清源杯世界女流囲碁選手権本戦1回戦 | Yin Mingming | Yu Zhiying | Win | W+R | 7.5 | 2966 | 7 | 
+| 2018-04-25 | 第6回中国女子囲碁甲級リーグ第3節浙江-江蘇 | Pan Yang | Yu Zhiying | Win | W+R | 7.5 | 2959 | 1 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦2回戦 | Shi Yue | Yu Zhiying | Lose | B+R | 7.5 | 2958 | 0 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Li Weiqing | Yu Zhiying | Win | W+¼ | 7.5 | 2958 | -40 | 
+| 2018-03-24 | 第6回中国女子囲碁甲級リーグ第2節 | Yu Zhiying | Lu Minquan | Win | B+R | 7.5 | 2998 | 10 | 
+| 2018-03-22 | 第6回中国女子囲碁甲級リーグ第1節 | Cao Youyin | Yu Zhiying | Win | W+R | 7.5 | 2988 | 0 | 
+| 2018-03-16 | 第1回SENKOCUPワールド碁女流最強戦決勝  | Hei Jiajia | Yu Zhiying | Win | W+T | 6.5 | 2988 | -6 | 
+| 2018-03-15 | 第1回SENKO CUPワールド碁女流最強戦準決勝  | Yu Zhiying | Choi Jeong | Win | B+R | 6.5 | 2994 | -27 | 
+| 2018-03-14 | 第1回SENKO CUPワールド碁女流最強戦1回戦  | Yu Zhiying | Xie Yimin | Win | B+R | 6.5 | 3021 | 6 | 
+| 2018-03-12 | 第9期中国竜星戦Aブロック第1局 | Yu Zhiying | Wang Zejin | Lose | W+R | 7.5 | 3015 | -14 | 
+| 2018-03-06 | 第9期中国竜星戦予選 | Yu Zhiying | Li He | Win | B+R | 7.5 | 3029 | 16 | 
+| 2018-01-22 | 第32期中国囲碁天元戦予選 | Huang Yunsong | Yu Zhiying | Lose | B+R | 7.5 | 3013 | 7 | 
+| 2017-12-18 | 第5回中国女子囲碁甲級リーグ戦18回戦 | Yu Zhiying | Rui Naiwei | Lose | W+R | 7.5 | 3006 | -4 | 
+| 2017-12-17 | 第5回中国女子囲碁甲級リーグ戦17回戦 | Lu Minquan | Yu Zhiying | Lose | B+R | 7.5 | 3010 | -8 | 
+| 2017-12-15 | 第2回IMSAエリートマインドゲームズ個人早碁戦決勝 | Oh Yujin | Yu Zhiying | Lose | B+R | 7.5 | 3018 | 0 | 
+| 2017-12-15 | 第2回IMSAエリートマインドゲームズ個人早碁戦準決勝 | Fujisawa Rina | Yu Zhiying | Win | W+R | 7.5 | 3018 | 8 | 
+| 2017-12-14 | 第2回IMSAエリートマインドゲームズ個人早碁戦予選 | Hei Jiajia | Yu Zhiying | Win | W+R | 7.5 | 3010 | 0 | 
+| 2017-12-14 | 第2回IMSAエリートマインドゲームズ個人早碁戦予選 | Yu Zhiying |  | Win | B+R | 7.5 | 3010 | 2 | 
+| 2017-12-13 | 第2回IMSAエリートマインドゲームズ女子団体戦第4節 | Yu Zhiying | Fujisawa Rina | Lose | W+R | 7.5 | 3008 | -17 | 
+| 2017-12-12 | 第2回IMSAエリートマインドゲームズ女子団体戦第3節 | Choi Jeong | Yu Zhiying | Win | W+R | 7.5 | 3025 | 12 | 
+| 2017-12-11 | 第2回IMSAエリートマインドゲームズ女子団体戦第2節 | Yu Jin | Yu Zhiying | Win | W+R | 7.5 | 3013 | 12 | 
+| 2017-12-10 | 第2回IMSAエリートマインドゲームズ女子団体戦第1節 | Yu Zhiying | Hei Jiajia | Win | B+R | 7.5 | 3001 | 4 | 
+| 2017-12-04 | 第3期洛陽白雲山杯中国棋聖戦予選甲組 |  | Yu Zhiying | Lose | B+R | 7.5 | 2997 | 3 | 
+| 2017-11-20 | 第15期建橋杯女子囲棋公開戦準決勝 | Yin Qu | Yu Zhiying | Lose | B+R | 7.5 | 2994 | -12 | 
+| 2017-11-18 | 第5回中国女子囲碁甲級リーグ戦16回戦 | Cao Youyin | Yu Zhiying | Win | W+R | 7.5 | 3006 | 23 | 
+| 2017-11-14 | 第5回中国女子囲碁甲級リーグ戦15回戦 | Yu Zhiying | Gao Xing | Win | B+R | 7.5 | 2983 | 20 | 
+| 2017-11-12 | 第5回中国女子囲碁甲級リーグ戦14回戦 | Yuan Tingyu | Yu Zhiying | Win | W+R | 7.5 | 2963 | -29 | 
+| 2017-11-08 | 第8回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Yu Zhiying | Choi Jeong | Lose | W+R | 7.5 | 2992 | -1 | 
+| 2017-11-07 | 第8回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Oh Jeonga | Yu Zhiying | Win | W+R | 7.5 | 2993 | 7 | 
+| 2017-11-06 | 第8回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Yu Zhiying | Wang Yinli | Win | B+R | 7.5 | 2986 | 7 | 
+| 2017-11-04 | 第5回中国女子囲碁甲級リーグ戦13回戦 | Yu Zhiying | Pan Yang | Lose | W+0.5 | 7.5 | 2979 | -46 | 
+| 2017-10-29 | 第5回中国女子囲碁甲級リーグ第12節 | Park Taehee | Yu Zhiying | Win | W+R | 7.5 | 3025 | -12 | 
+| 2017-10-27 | 第5回中国女子囲碁甲級リーグ第11節 | Yu Zhiying | Li He | Win | B+R | 7.5 | 3037 | 14 | 
+| 2017-10-25 | 第5回中国女子囲碁甲級リーグ第10節 | Zheng Yan | Yu Zhiying | Win | W+R | 7.5 | 3023 | 39 | 
+| 2017-10-14 | 2017年利民杯世界囲碁星鋭最強戦1回戦 | Xie Ke | Yu Zhiying | Lose | B+3.5 | 7.5 | 2984 | -16 | 
+| 2017-09-30 | 衢州爛柯杯1回中国女子精英決勝 | Yu Zhiying | Lu Jia | Lose | W+0.5 | 7.5 | 3000 | -16 | 
+| 2017-09-29 | 衢州爛柯杯1回中国女子精英準決勝 | Yu Zhiying | Pan Yang | Win | B+R | 7.5 | 3016 | -6 | 
+| 2017-09-28 | 衢州爛柯杯1回中国女子精英8強戦 | Yin Qu | Yu Zhiying | Win | W+R | 7.5 | 3022 | 17 | 
+| 2017-09-19 | 2017年全国囲棋個人戦女子組第4戦 | Gao Xing | Yu Zhiying | Lose | B+1.5 | 7.5 | 3005 | 21 | 
+| 2017-09-16 | 2017年全国囲棋個人戦女子組第2戦 |  | Yu Zhiying | Win | W+R | 7.5 | 2984 | 10 | 
+| 2017-09-13 | 第5回中国女子囲碁甲級リーグ第9節 | Rui Naiwei | Yu Zhiying | Win | W+R | 7.5 | 2974 | -2 | 
+| 2017-09-12 | 第5回中国女子囲碁甲級リーグ第8節 | Yu Zhiying | Lu Minquan | Win | B+R | 7.5 | 2976 | 20 | 
+| 2017-09-03 | 第15期建橋杯中国女子公開戦8強戦 | Yu Zhiying | Song Ronghui | Win | B+R | 7.5 | 2956 | 7 | 
+| 2017-09-02 | 第15期建橋杯中国女子公開戦16強戦 | Yu Zhiying |  | Win | B+R | 7.5 | 2949 | -1 | 
+| 2017-08-29 | 2017明月山杯中日韓台女子囲碁争霸戦決勝 | Yu Zhiying | Choi Jeong | Lose | W+R | 7.5 | 2950 | -10 | 
+| 2017-08-28 | 2017明月山杯中日韓台女子囲碁争霸戦一回戦 | Yu Zhiying | Fujisawa Rina | Win | B+5.5 | 7.5 | 2960 | 5 | 
+| 2017-08-20 | 2017年利民杯世界囲碁星鋭最強戦第2ステージ決勝 | Yu Zhiying | Xie Erhao | Lose | W+0.5 | 7.5 | 2955 | -4 | 
+| 2017-08-17 | 2017年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Yu Zhiying |  | Lose | W+0.5 | 7.5 | 2959 | 1 | 
+| 2017-08-14 | 中国浙江平湖当湖十局杯CCTV64強 | Yu Zhiying | Jiang Weijie | Lose | W+0.5 | 7.5 | 2958 | 18 | 
+| 2017-08-11 | 第5回中国女子囲碁甲級リーグ第7節 | Cao Youyin | Yu Zhiying | Win | W+R | 7.5 | 2940 | 3 | 
+| 2017-08-09 | 第5回中国女子囲碁甲級リーグ第6節 | Yu Zhiying |  | Win | B+R | 7.5 | 2937 | 28 | 
+| 2017-07-19 | 第30期中国囲碁名人戦予選 | Yu Zhiying | Zhou Kui | Lose | W+2.5 | 7.5 | 2909 | -15 | 
+| 2017-07-16 | 第5回中国女子囲碁甲級リーグ第5節 | Yu Zhiying | Zhou Hongyu | Lose | W+R | 7.5 | 2924 | -24 | 
+| 2017-07-14 | 第5回中国女子囲碁甲級リーグ第4節 | Wang Yubo | Yu Zhiying | Win | W+R | 7.5 | 2948 | -4 | 
+| 2017-07-06 | 2017年中国全国運動会囲碁競技第4戦 | Yu Zhiying | Rui Naiwei | Lose | W+2.5 | 7.5 | 2952 | -14 | 
+| 2017-07-05 | 2017年中国全国運動会囲碁競技第1戦 | Yu Zhiying | Lu Minquan | Win | B+R | 7.5 | 2966 | 4 | 
+| 2017-07-02 | 第22回三星火災杯統合予選4回戦 | Kim Cheayoung | Yu Zhiying | Lose | B+R | 6.5 | 2962 | -13 | 
+| 2017-07-01 | 第22回三星火災杯統合予選3回戦 | Yu Zhiying |  | Win | B+R | 6.5 | 2975 | -1 | 
+| 2017-06-24 | 第5回中国女子囲碁甲級リーグ第3節 | Yu Zhiying |  | Win | B+R | 7.5 | 2976 | -12 | 
+| 2017-06-06 | 第7回中国姜堰黄竜士精鍛科技杯世界女子団体戦第13戦 | Yu Zhiying | Oh Yujin | Lose | W+R | 7.5 | 2988 | -27 | 
+| 2017-05-12 | 第6回天台山農商銀行杯世界女子囲碁団体チャンピオンシップ第3戦 | Yu Zhiying | Choi Jeong | Lose | W+R | 7.5 | 3015 | -39 | 
+| 2017-05-11 | 第6回天台山農商銀行杯世界女子囲碁団体チャンピオンシップ第2戦 | Hei Jiajia | Yu Zhiying | Win | W+0.5 | 7.5 | 3054 | 26 | 
+| 2017-05-10 | 第6回天台山農商銀行杯世界女子囲碁団体チャンピオンシップ第1戦 | Yu Zhiying | Fujisawa Rina | Win | B+R | 7.5 | 3028 | 11 | 
+| 2017-05-07 | 第5回中国女子囲碁甲級リーグ第2節 | Li He | Yu Zhiying | Win | W+R | 7.5 | 3017 | 6 | 
+| 2017-05-06 | 第5回中国女子囲碁甲級リーグ第1節 | Yu Zhiying | Cai Bihan | Win | B+7.5 | 7.5 | 3011 | -17 | 
+| 2017-04-17 | 第19期中国阿含桐山杯本選1回戦 | Yu Zhiying | Yin Hang | Lose | W+14.5 | 7.5 | 3028 | 1 | 
+| 2017-04-05 | 第22期LG杯世界予選2回戦 |  | Yu Zhiying | Lose | B+R | 6.5 | 3027 | -17 | 
+| 2017-03-27 | 世界第三期Mlily夢百合杯予選2回戦 | Park Yeonghun | Yu Zhiying | Lose | B+R | 7.5 | 3044 | 182 | 
+| 2017-03-19 | 昌江棋子湾中国冠軍戦決勝 | Lu Minquan | Yu Zhiying | Win | W+R | 7.5 | 2862 | -20 | 
+| 2017-03-18 | 昌江棋子湾中国冠軍戦1回戦 | Yu Zhiying | Lu Jia | Win | B+R | 7.5 | 2882 | -46 | 
+| 2017-03-03 | 2017年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Yu Zhiying | Park Geunho | Lose | W+R | 7.5 | 2928 | 0 | 
+| 2017-02-18 | 第14期中国倡棋杯予選決勝 |  | Yu Zhiying | Win | W+R | 7.5 | 2928 | -2 | 
+| 2017-02-17 | 第14期中国倡棋杯予選準決勝 |  | Yu Zhiying | Win | W+R | 7.5 | 2930 | 10 | 
+| 2017-02-16 | 第14期中国倡棋杯予選2回戦 | Kou Zhengyan | Yu Zhiying | Win | W+R | 7.5 | 2920 | 40 | 
+| 2017-02-05 | 第21期LG杯朝鮮日報棋王戦特別対局 | Choi Jeong | Yu Zhiying | Lose | B+R | 6.5 | 2880 | -36 | 
+| 2017-01-14 | 第31期中国囲碁天元戦1回戦 | Fan Yin | Yu Zhiying | Lose | B+1.5 | 7.5 | 2916 | -22 | 
+| 2017-01-13 | 第31期中国囲碁天元戦予選 | Wang Haoyang | Yu Zhiying | Win | W+2.5 | 7.5 | 2938 | 8 | 
+| 2016-12-29 | Alphago Online Series on Tygem and Fox 05 |  | Yu Zhiying | Lose | B+R | 6.5 | 2930 | -19 | 
+| 2016-12-16 | 嫘祖杯第29期中国名人戦網選2回戦 | Yu Zhiying | Wang Xinghao | Lose | W+R | 7.5 | 2949 | 5 | 
+| 2016-12-12 | 第8期中国竜星戦Aブロック1回戦 | Zhou Hexi | Yu Zhiying | Lose | B+1.5 | 7.5 | 2944 | -27 | 
+| 2016-12-05 | 第4回中国女子囲碁甲級リーグ第17節 | Gao Xing | Yu Zhiying | Win | W+R | 7.5 | 2971 | 4 | 
+| 2016-12-04 | 第4回中国女子囲碁甲級リーグ第18節 | Rui Naiwei | Yu Zhiying | Win | W+R | 7.5 | 2967 | 32 | 
+| 2016-11-18 | 中国14期建橋杯女子公開戦準決勝 | Yu Zhiying | Li He | Lose | W+R | 7.5 | 2935 | 33 | 
+| 2016-11-14 | 第7期世界穹窿山兵聖杯準決勝 | Wang Chenxing | Yu Zhiying | Lose | B+R | 7.5 | 2902 | -22 | 
+| 2016-11-13 | 第7期世界穹窿山兵聖杯8強戦 | Su Shengfang | Yu Zhiying | Win | W+R | 7.5 | 2924 | -2 | 
+| 2016-11-12 | 第7期世界穹窿山兵聖杯16強戦 | Yu Zhiying | Park Shiun | Win | B+1.5 | 7.5 | 2926 | -55 | 
+| 2016-11-02 | 第4回中国女子囲碁甲級リーグ第16節 | Wang Xiangyun | Yu Zhiying | Win | W+R | 7.5 | 2981 | 0 | 
+| 2016-10-29 | 第4回中国女子囲碁甲級リーグ第15節 | Yu Zhiying | Fan Weijing | Win | B+3.5 | 7.5 | 2981 | -1 | 
+| 2016-10-28 | 第4回中国女子囲碁甲級リーグ第14節 | Yu Zhiying | Hei Jiajia | Win | B+R | 7.5 | 2982 | 21 | 
+| 2016-10-20 | 第4回中国女子囲碁甲級リーグ第13節 | Chen Yiming | Yu Zhiying | Win | W+R | 7.5 | 2961 | -27 | 
+| 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yu Zhiying | Hei Jiajia | Win | B+R | 6.5 | 2988 | 0 | 
+| 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦決勝 | Yu Zhiying | Oh Yujin | Lose | W+R | 6.5 | 2988 | -4 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yu Zhiying | Oh Yujin | Win | B+R | 6.5 | 2992 | 0 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhiying | Xie Yimin | Win | B+R | 6.5 | 2992 | 56 | 
+| 2016-09-25 | 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Yu Zhiying | Nyu Eiko | Win | B+3.5 | 6.5 | 2936 | -27 | 
+| 2016-09-24 | 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Oh Yujin | Yu Zhiying | Win | W+R | 6.5 | 2963 | 4 | 
+| 2016-09-23 | 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Yu Zhiying | Su Shengfang | Win | B+R | 6.5 | 2959 | -107 | 
+| 2016-09-13 | 第4回中国女子囲碁甲級リーグ第12節 | Yu Zhiying | Cao Youyin | Win | B+1.5 | 7.5 | 3066 | -41 | 
+| 2016-09-02 | 第4回中国女子囲碁甲級リーグ第10節 | Yu Zhiying | Lu Jia | Win | B+R | 7.5 | 3107 | -3 | 
+| 2016-08-31 | 第14期建橋杯中国女子囲棋公開戦8強戦 | Yu Zhiying | Song Ronghui | Win | B+R | 7.5 | 3110 | 19 | 
+| 2016-08-14 | 第4回中国女子囲碁甲級リーグ第9節 | Yu Zhiying | Tang Yi | Win | B+R | 7.5 | 3091 | -76 | 
+| 2016-07-20 | 第21回三星火災杯統合予選女子枠決勝 | Yu Zhiying | Lu Jia | Lose | W+1.5 | 6.5 | 3167 | 20 | 
+| 2016-07-19 | 第21回三星火災杯統合予選女子枠準決勝 | Oh Yujin | Yu Zhiying | Win | W+R | 6.5 | 3147 | -4 | 
+| 2016-07-15 | 第21回三星火災杯統合予選女子枠1回戦 | Yu Zhiying | Kim Cheayoung | Win | B+R | 6.5 | 3151 | 69 | 
+| 2016-07-12 | 第4回中国女子囲碁甲級リーグ第8節 | Gao Xing | Yu Zhiying | Win | W+R | 7.5 | 3082 | 63 | 
+| 2016-07-05 | 第4回中国女子囲碁甲級リーグ第7節 | Yu Zhiying | Wang Xiangyun | Win | B+1.5 | 7.5 | 3019 | 0 | 
+| 2016-07-04 | 第4回中国女子囲碁甲級リーグ第6節 | Fan Weijing | Yu Zhiying | Win | W+R | 7.5 | 3019 | -30 | 
+| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Yu Zhiying | Gu Li | Lose | W+R | 7.5 | 3049 | -17 | 
+| 2016-06-22 | 第4回中国女子囲碁甲級リーグ第5節 | Yu Zhiying | Hei Jiajia | Win | B+R | 7.5 | 3066 | 12 | 
+| 2016-06-10 | 第6回黄竜士双登杯世界女子囲碁団体選手権第14戦 | Choi Jeong | Yu Zhiying | Win | W+R | 7.5 | 3054 | 6 | 
+| 2016-06-09 | 第6回黄竜士双登杯世界女子囲碁団体選手権第13戦 | Oh Yujin | Yu Zhiying | Win | W+R | 7.5 | 3048 | 40 | 
+| 2016-06-02 | 第2回韓国女子囲碁リーグ優勝決定戦第2戦 | Park Taehee | Yu Zhiying | Win | W+R | 6.5 | 3008 | 35 | 
+| 2016-05-22 | 第4回中国女子囲碁甲級リーグ第4節 | Cai Bihan | Yu Zhiying | Win | W+R | 7.5 | 2973 | 5 | 
+| 2016-05-21 | 第2回韓国女子囲碁リーグ優勝決定戦第1戦 | Yu Zhiying | Lee Youngjoo | Win | B+1.5 | 6.5 | 2968 | 33 | 
+| 2016-05-15 | 第5回天台山農商銀行杯世界女子団体戦第3戦 | Yu Zhiying | Hei Jiajia | Win | B+R | 7.5 | 2935 | 7 | 
+| 2016-05-14 | 第5回天台山農商銀行杯世界女子団体戦第2戦 | Choi Jeong | Yu Zhiying | Win | W+2.5 | 7.5 | 2928 | 7 | 
+| 2016-05-13 | 第5回天台山農商銀行杯世界女子団体戦第1戦 | Yu Zhiying | Aoki Kikuyo | Win | B+R | 7.5 | 2921 | -57 | 
+| 2016-05-11 | 第4回中国女子囲碁甲級リーグ第3節 | Cao Youyin | Yu Zhiying | Win | W+R | 7.5 | 2978 | -17 | 
+| 2016-05-06 | 第18期阿含・桐山杯中国早碁オープン戦予選 | Yu Zhiying | Li Xuanhao | Lose | W+R | 7.5 | 2995 | -4 | 
+| 2016-05-03 | 第2回韓国女子囲碁リーグ第13節 | Yu Zhiying | Kim Cheayoung | Win | B+R | 6.5 | 2999 | 21 | 
+| 2016-05-01 | 第2回韓国女子囲碁リーグ第12節 | Yu Zhiying | Park Shiun | Win | B+R | 6.5 | 2978 | 60 | 
+| 2016-04-23 | 第4回中国女子囲碁甲級リーグ第2節 | Yu Zhiying | Li He | Win | B+1.5 | 6.5 | 2918 | 4 | 
+| 2016-04-22 | 第4回中国女子囲碁甲級リーグ第1節 | Li Chunhua | Yu Zhiying | Win | W+R | 7.5 | 2914 | -2 | 
+| 2016-04-19 | 第2回韓国女子囲碁リーグ第10節 | Lee Sula | Yu Zhiying | Win | W+R | 6.5 | 2916 | -2 | 
+| 2016-04-17 | 第2回韓国女子囲碁リーグ第9節 | Xie Yimin | Yu Zhiying | Win | W+R | 6.5 | 2918 | 19 | 
+| 2016-04-01 | 第2回韓国女子囲碁リーグ第8節 | Yu Zhiying | Moon Dowon | Win | B+R | 6.5 | 2899 | 5 | 
+| 2016-03-29 | 第2回韓国女子囲碁リーグ第7節 | Oh Yujin | Yu Zhiying | Lose | B+4.5 | 6.5 | 2894 | -12 | 
+| 2016-03-24 | 第2回韓国女子囲碁リーグ第6節 | Wang Chenxing | Yu Zhiying | Win | W+3.5 | 6.5 | 2906 | 2 | 
+| 2016-03-21 | 第13期倡棋杯中国プロ囲碁選手権戦2回戦 | Yu Zhiying | Wu Guangya | Lose | W+R | 7.5 | 2904 | 5 | 
+| 2016-03-19 | 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Jiang Weijie | Yu Zhiying | Win | W+1 | 7.5 | 2899 | 22 | 
+| 2016-03-14 | 第3回百霊杯世界オープン戦予選 | Yu Zhiying | Choi Jeong | Win | B+1.5 | 7.5 | 2877 | 29 | 
+| 2016-03-08 | 第2回韓国女子囲碁リーグ第4節 |  | Yu Zhiying | Win | W+R | 6.5 | 2848 | -14 | 
+| 2016-03-06 | 第2回韓国女子囲碁リーグ第3節 | Lee Sula | Yu Zhiying | Win | W+R | 6.5 | 2862 | -25 | 
+| 2016-03-01 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦決勝 | Yu Zhiying | Choi Jeong | Win | B+R | 7.5 | 2887 | 6 | 
+| 2016-02-29 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Yu Jin | Win | B+R | 7.5 | 2881 | 0 | 
+| 2016-02-29 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Hei Jiajia | Yu Zhiying | Win | W+R | 7.5 | 2881 | -9 | 
+| 2016-02-28 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Choi Jeong | Lose | W+R | 7.5 | 2890 | -4 | 
+| 2016-02-27 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Hei Jiajia | Win | B+R | 7.5 | 2894 | 0 | 
+| 2016-02-27 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Nyu Eiko | Yu Zhiying | Win | W+R | 7.5 | 2894 | -22 | 
+| 2016-02-23 | 第2回韓国女子囲碁リーグ第2節 | Yu Zhiying | Park Jiyeon | Win | B+R | 6.5 | 2916 | 11 | 
+| 2016-02-20 | 第2回韓国女子囲碁リーグ第1節 | Kim Miri | Yu Zhiying | Win | W+R | 6.5 | 2905 | -48 | 
+| 2015-12-03 | 第3回中国女子囲碁甲級リーグ第18節 |  | Yu Zhiying | Win | W+R | 7.5 | 2953 | 14 | 
+| 2015-12-02 | 第3回中国女子囲碁甲級リーグ第17節 | Yu Zhiying | Chen Yiming | Win | B+R | 7.5 | 2939 | -4 | 
+| 2015-11-26 | 第3回中国女子囲碁甲級リーグ第16節 | Yu Zhiying | Li He | Lose | W+2.5 | 7.5 | 2943 | 7 | 
+| 2015-11-19 | 第3回中国女子囲碁甲級リーグ第15節 | Lu Jia | Yu Zhiying | Lose | B+R | 7.5 | 2936 | -10 | 
+| 2015-11-17 | 第13回建橋杯女子囲碁オープン戦決勝三番勝負第3局 | Yu Zhiying | Wang Shuang | Win | B+R | 7.5 | 2946 | 4 | 
+| 2015-11-16 | 第13回建橋杯女子囲碁オープン戦決勝三番勝負第2局 | Yu Zhiying | Wang Shuang | Lose | W+R | 7.5 | 2942 | -8 | 
+| 2015-11-14 | 第13回建橋杯女子囲碁オープン戦決勝三番勝負第1局 | Wang Shuang | Yu Zhiying | Win | W+R | 7.5 | 2950 | 3 | 
+| 2015-11-12 | 第3回中国女子囲碁甲級リーグ第14節 | Yu Zhiying | Yuan Tingyu | Win | B+3.5 | 7.5 | 2947 | -4 | 
+| 2015-11-05 | 第3回中国女子囲碁甲級リーグ第13節 | Wang Xiangyun | Yu Zhiying | Win | W+R | 7.5 | 2951 | 1 | 
+| 2015-11-03 | 第13回建橋杯女子囲碁オープン戦準決勝 | Yu Zhiying | Rui Naiwei | Win | B+R | 7.5 | 2950 | -3 | 
+| 2015-10-29 | 第3回中国女子囲碁甲級リーグ第12節 | Yu Zhiying | Gao Xing | Win | B+R | 7.5 | 2953 | 1 | 
+| 2015-10-28 | 第3回中国女子囲碁甲級リーグ第11節 | Tang Yi | Yu Zhiying | Lose | B+R | 7.5 | 2952 | -10 | 
+| 2015-10-26 | 第13回建橋杯女子囲碁オープン戦2回戦 | Cao Youyin | Yu Zhiying | Win | W+R | 7.5 | 2962 | 5 | 
+| 2015-10-25 | 第13回建橋杯女子囲碁オープン戦1回戦 |  | Yu Zhiying | Win | W+R | 7.5 | 2957 | 6 | 
+| 2015-10-21 | 第6回穹窿山兵聖杯世界女子囲碁選手権決勝 | Park Shiun | Yu Zhiying | Win | W+2.5 | 7.5 | 2951 | 12 | 
+| 2015-10-19 | 第6回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Yu Zhiying | Choi Jeong | Win | B+R | 7.5 | 2939 | 4 | 
+| 2015-10-18 | 第6回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Wang Jingyi | Yu Zhiying | Win | W+R | 7.5 | 2935 | -1 | 
+| 2015-10-17 | 第6回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Yu Zhiying | Zhang Zhengping | Win | B+R | 7.5 | 2936 | -2 | 
+| 2015-10-15 | 第3回中国女子囲碁甲級リーグ第10節 | Fan Weijing | Yu Zhiying | Win | W+R | 7.5 | 2938 | 1 | 
+| 2015-10-12 | 第11期威孚房開杯棋王戦1回戦 | Chen Yaoye | Yu Zhiying | Lose | B+R | 7.5 | 2937 | 15 | 
+| 2015-10-06 | 第20回三星火災杯世界囲碁マスターズ2回戦 | Lee Sedol | Yu Zhiying | Lose | B+R | 6.5 | 2922 | -3 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Choi Jeong | Yu Zhiying | Lose | B+R | 6.5 | 2925 | 49 | 
+| 2015-10-02 | 第2回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhiying | Xie Yimin | Win | B+R | 6.5 | 2876 | 0 | 
+| 2015-10-02 | 第2回おかげ杯国際精鋭囲碁対抗戦第1戦 | Hei Jiajia | Yu Zhiying | Lose | B+R | 6.5 | 2876 | -32 | 
+| 2015-09-24 | 第3回中国女子囲碁甲級リーグ第9節 | Cao Youyin | Yu Zhiying | Win | W+R | 7.5 | 2908 | 9 | 
+| 2015-09-23 | 第3回中国女子囲碁甲級リーグ第8節 | Yu Zhiying | Cai Bihan | Win | B+R | 7.5 | 2899 | -25 | 
+| 2015-09-10 | 第20回三星火災杯世界囲碁マスターズ1回戦A3 | Yu Zhiying | Choi Cheolhan | Win | B+0.5 | 6.5 | 2924 | 17 | 
+| 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦A2 | Tang Weixing | Yu Zhiying | Lose | B+1.5 | 6.5 | 2907 | -3 | 
+| 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦A1 | Mok Jinseok | Yu Zhiying | Win | W+R | 6.5 | 2910 | 20 | 
+| 2015-09-03 | 第3回中国女子囲碁甲級リーグ第7節 | Yu Zhiying | Wang Yubo | Win | B+R | 7.5 | 2890 | -28 | 
+| 2015-08-22 | 2015年全国囲棋個人戦男子組第2戦 | Yu Zhiying | Guo Yuzheng | Win | B+R | 7.5 | 2918 | 10 | 
+| 2015-08-21 | 2015年全国囲棋個人戦男子組第1戦 | Dang Yifei | Yu Zhiying | Lose | B+R | 7.5 | 2908 | -11 | 
+| 2015-08-14 | 2015年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Yu Zhiying | Byun Sangil | Lose | W+R | 7.5 | 2919 | -5 | 
+| 2015-08-05 | 第20回三星火災杯統合予選女子枠決勝 | Kim Sinyoung | Yu Zhiying | Win | W+R | 6.5 | 2924 | -21 | 
+| 2015-07-29 | 第7期中国竜星戦予選 | Yu Zhiying | Yang Kaiwen | Lose | W+R | 7.5 | 2945 | 0 | 
+| 2015-07-27 | 2015年中国段位戦 | Yu Zhiying | Chen Xian | Lose | W+2.5 | 7.5 | 2945 | -2 | 
+| 2015-07-26 | 2015年中国段位戦 | Yu Zhiying | Zhao Chenyu | Win | B+1.5 | 7.5 | 2947 | 7 | 
+| 2015-07-25 | 2015年中国段位戦 | Yu Zhiying | Chen Hao | Lose | W+2.5 | 7.5 | 2940 | -7 | 
+| 2015-07-24 | 2015年中国段位戦 | Yang Kaiwen | Yu Zhiying | Win | W+0.5 | 7.5 | 2947 | 5 | 
+| 2015-07-22 | 2015年中国段位戦 |  | Yu Zhiying | Lose | B+R | 7.5 | 2942 | -4 | 
+| 2015-07-21 | 2015年中国段位戦 | Yu Zhiying | Tao Xinran | Lose | W+R | 7.5 | 2946 | -5 | 
+| 2015-07-20 | 2015年中国段位戦 | Yu Zhiying | Wang Chenxing | Win | B+R | 7.5 | 2951 | 3 | 
+| 2015-07-19 | 2015年中国段位戦 |  | Yu Zhiying | Win | W+R | 7.5 | 2948 | 16 | 
+| 2015-07-17 | 2015年中国段位戦 | Yu Zhiying | An Dongxu | Lose | W+R | 7.5 | 2932 | -1 | 
+| 2015-07-16 | 2015年中国段位戦 | Guo Yuzheng | Yu Zhiying | Lose | B+R | 7.5 | 2933 | 4 | 
+| 2015-07-15 | 2015年中国段位戦 | Yu Zhiying | Song Ronghui | Win | B+R | 7.5 | 2929 | 1 | 
+| 2015-07-14 | 2015年中国段位戦 | Yu Zhiying | Yin Hang | Lose | W+R | 7.5 | 2928 | -11 | 
+| 2015-07-09 | 第2回夢百合杯世界オープン戦2回戦 | Yu Zhiying | Zhou Ruiyang | Lose | W+R | 7.5 | 2939 | -2 | 
+| 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Yu Zhiying | Huang Yizhong | Win | B+7.5 | 7.5 | 2941 | 21 | 
+| 2015-07-04 | 第3回中国女子囲碁甲級リーグ第6節 |  | Yu Zhiying | Win | W+R | 7.5 | 2920 | 3 | 
+| 2015-07-03 | 第3回中国女子囲碁甲級リーグ第5節 | Yu Zhiying |  | Win | B+R | 7.5 | 2917 | -14 | 
+| 2015-06-25 | 第3回中国女子囲碁甲級リーグ第4節 | Wang Shuang | Yu Zhiying | Win | W+R | 7.5 | 2931 | -55 | 
+| 2015-06-23 | 2015年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Yu Zhiying | Wang Yanhao | Win | B+R | 7.5 | 2986 | 3 | 
+| 2015-06-22 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Yu Zhiying | Li Xuanhao | Lose | W+R | 7.5 | 2983 | -7 | 
+| 2015-06-21 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | He Yuhan | Yu Zhiying | Win | W+8.5 | 7.5 | 2990 | 1 | 
+| 2015-06-20 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Yu Zhiying | Park Geunho | Win | B+R | 7.5 | 2989 | 0 | 
+| 2015-06-20 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Chen Qirui | Yu Zhiying | Win | W+3.5 | 7.5 | 2989 | 6 | 
+| 2015-06-18 | 宝佳適杯中韓新鋭天元戦第2戦 | Oh Yujin | Yu Zhiying | Win | W+R | 6.5 | 2983 | -15 | 
+| 2015-06-17 | 宝佳適杯中韓新鋭天元戦第1戦 | Yu Zhiying | Shin Jinseo | Lose | W+R | 6.5 | 2998 | -21 | 
+| 2015-06-15 | 第17期阿含・桐山杯中国早碁オープン戦予選 | Yu Zhiying | Zhong Wenjing | Win | B+1.5 | 7.5 | 3019 | 0 | 
+| 2015-06-15 | 第17期阿含・桐山杯中国早碁オープン戦予選 | Yu Zhiying |  | Lose | W+R | 7.5 | 3019 | 29 | 
+| 2015-06-05 | 第3回中国女子囲碁甲級リーグ第3節 | Song Ronghui | Yu Zhiying | Lose | B+R | 7.5 | 2990 | -51 | 
+| 2015-05-26 | 第2回夢百合杯世界オープン戦予選 | Yu Zhiying | Oh Yujin | Win | B+3.5 | 7.5 | 3041 | 30 | 
+| 2015-05-10 | 第4回天台山農商銀行杯世界女子団体戦第3戦 | Yu Zhiying | Hei Jiajia | Win | B+R | 7.5 | 3011 | 15 | 
+| 2015-05-09 | 第4回天台山農商銀行杯世界女子団体戦第2戦 | Choi Jeong | Yu Zhiying | Lose | B+R | 7.5 | 2996 | -31 | 
+| 2015-05-08 | 第4回天台山農商銀行杯世界女子団体戦第1戦 | Fujisawa Rina | Yu Zhiying | Win | W+R | 7.5 | 3027 | 15 | 
+| 2015-05-03 | 第28期中国囲碁名人戦予選 | Yu Zhiying | Xie Ke | Lose | W+2.5 | 7.5 | 3012 | -3 | 
+| 2015-05-02 | 第3回中国女子囲碁甲級リーグ第2節 | Yu Zhiying | Rui Naiwei | Lose | W+0.5 | 7.5 | 3015 | -3 | 
+| 2015-05-01 | 第3回中国女子囲碁甲級リーグ第1節 | Lu Minquan | Yu Zhiying | Win | W+R | 7.5 | 3018 | 63 | 
+| 2015-04-10 | 第5回黄竜士双登杯世界女子囲碁団体選手権第13戦 | Choi Jeong | Yu Zhiying | Lose | B+R | 7.5 | 2955 | -31 | 
+| 2015-04-03 | 第12期倡棋杯中国プロ囲碁選手権戦1回戦 | Ke Jie | Yu Zhiying | Lose | B+1 | 7.5 | 2986 | 0 | 
+| 2015-04-03 | 第4回天台山農商銀行杯中国選抜戦 | Wang Xiangyun | Yu Zhiying | Win | W+2.5 | 7.5 | 2986 | -86 | 
+| 2015-03-19 | 第1回韓国女子囲碁リーグ第11節 | Yu Zhiying | Park Taehee | Lose | W+4.5 | 6.5 | 3072 | -189 | 
+| 2015-02-27 | 第1回韓国女子囲碁リーグ第10節 | Kang Dajeong | Yu Zhiying | Win | W+1.5 | 6.5 | 3261 | -10 | 
+| 2015-02-24 | 第1回韓国女子囲碁リーグ第9節 | Kim Yoonyoung | Yu Zhiying | Lose | B+8.5 | 6.5 | 3271 | 14 | 
+| 2015-02-22 | 第1回韓国女子囲碁リーグ第8節 |  | Yu Zhiying | Lose | B+R | 6.5 | 3257 | -57 | 
+| 2015-02-06 | 第22期建橋杯中国囲碁新人王戦2回戦 | Yu Zhiying | Li Chengsen | Lose | W+4.5 | 7.5 | 3314 | -12 | 
+| 2015-01-30 | 第1回韓国女子囲碁リーグ第4節 | Yu Zhiying | Hei Jiajia | Win | B+R | 6.5 | 3326 | 29 | 
+| 2015-01-27 | 第1回韓国女子囲碁リーグ第3節 | Park Shiun | Yu Zhiying | Win | W+8.5 | 6.5 | 3297 | -10 | 
+| 2015-01-24 | 第1回韓国女子囲碁リーグ第2節 | Lee Minjin | Yu Zhiying | Win | W+R | 6.5 | 3307 | 27 | 
+| 2014-12-31 | 第15期リコー杯囲碁戦1回戦 | Yu Zhiying | Fan Yunruo | Lose | W+R | 7.5 | 3280 | 6 | 
+| 2014-12-20 | 2014年利民杯世界囲碁星鋭最強戦2回戦 | Yu Zhiying | Yang Dingxin | Lose | W+R | 7.5 | 3274 | 34 | 
+| 2014-11-29 | 第2回中国女子囲碁甲級リーグ第14節 | Yu Zhiying | Cao Youyin | Win | B+R | 7.5 | 3240 | -2 | 
+| 2014-11-28 | 第2回中国女子囲碁甲級リーグ第13節 | Wang Xiangyun | Yu Zhiying | Win | W+2.5 | 7.5 | 3242 | 119 | 
+| 2014-10-29 | 第2回中国女子囲碁甲級リーグ第12節 | Yu Zhiying |  | Win | B+R | 7.5 | 3123 | -32 | 
+| 2014-10-10 | 第12回建橋杯女子囲碁オープン戦2回戦 | Yu Zhiying | Chen Yiming | Lose | W+0.5 | 7.5 | 3155 | -17 | 
+| 2014-10-03 | 2014年国際新鋭囲碁対抗戦第3戦 | Yu Zhiying | Su Shengfang | Win | B+R | 6.5 | 3172 | -22 | 
+| 2014-10-02 | 2014年国際新鋭囲碁対抗戦第2戦 | Yu Zhiying | Choi Jeong | Lose | W+2.5 | 6.5 | 3194 | -9 | 
+| 2014-10-01 | 2014年国際新鋭囲碁対抗戦第1戦 | Fujisawa Rina | Yu Zhiying | Lose | B+R | 6.5 | 3203 | -53 | 
+| 2014-09-12 | 第2回中国女子囲碁甲級リーグ第11節 | Yu Zhiying | Song Ronghui | Win | B+R | 7.5 | 3256 | 57 | 
+| 2014-09-01 | 第5回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Yu Zhiying | Rui Naiwei | Lose | W+R | 7.5 | 3199 | -9 | 
+| 2014-08-31 | 第5回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Wang Chenxing | Yu Zhiying | Win | W+R | 7.5 | 3208 | 39 | 
+| 2014-08-30 | 第5回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Yu Zhiying | Okuda Aya | Win | B+R | 7.5 | 3169 | -6 | 
+| 2014-08-20 | 第2回中国女子囲碁甲級リーグ第10節 | Yu Zhiying | Tang Yi | Win | B+R | 7.5 | 3175 | 1 | 
+| 2014-08-18 | 2014年利民杯世界囲碁星鋭最強戦第2ステージ決勝 | Shin Jinseo | Yu Zhiying | Lose | B+R | 7.5 | 3174 | 0 | 
+| 2014-08-18 | 2014年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 | Lee Donghoon | Yu Zhiying | Win | W+T | 7.5 | 3174 | -8 | 
+| 2014-08-17 | 2014年利民杯世界囲碁星鋭最強戦第2ステージリーグ |  | Yu Zhiying | Lose | B+R | 7.5 | 3182 | -13 | 
+| 2014-08-15 | 2014年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Yang Kaiwen | Yu Zhiying | Lose | B+R | 7.5 | 3195 | 2 | 
+| 2014-08-11 | 第2回中国女子囲碁甲級リーグ第9節 | Zheng Yan | Yu Zhiying | Win | W+R | 7.5 | 3193 | -1 | 
+| 2014-08-10 | 第2回中国女子囲碁甲級リーグ第8節 | Yu Zhiying |  | Win | B+R | 7.5 | 3194 | -5 | 
+| 2014-08-09 | 第2回中国女子囲碁甲級リーグ第7節 | Yu Zhiying |  | Win | B+R | 7.5 | 3199 | -35 | 
+| 2014-08-01 | 第19回三星火災杯統合予選女子枠1回戦 | Yu Zhiying | Choi Jeong | Win | B+1.5 | 6.5 | 3234 | -3 | 
+| 2014-07-23 | 2014年中国段位戦 |  | Yu Zhiying | Win | W+R | 7.5 | 3237 | -1 | 
+| 2014-07-13 | 第2回中国女子囲碁甲級リーグ第6節 | Wang Shuang | Yu Zhiying | Win | W+R | 7.5 | 3238 | 18 | 
+| 2014-07-11 | 第6期中国竜星戦予選 | Li Zhe | Yu Zhiying | Lose | B+R | 7.5 | 3220 | 23 | 
+| 2014-06-26 | 第6期中国竜星戦予選 |  | Yu Zhiying | Win | W+12.5 | 7.5 | 3197 | 3 | 
+| 2014-06-25 | 第6期中国竜星戦予選 | Yu Zhiying |  | Win | B+R | 7.5 | 3194 | -7 | 
+| 2014-06-24 | 第6期中国竜星戦予選 |  | Yu Zhiying | Win | W+2.5 | 7.5 | 3201 | 11 | 
+| 2014-06-18 | 第2回中国女子囲碁甲級リーグ第5節 | Yu Zhiying | Hei Jiajia | Win | B+R | 7.5 | 3190 | -3 | 
+| 2014-06-17 | 第2回中国女子囲碁甲級リーグ第4節 |  | Yu Zhiying | Win | W+R | 7.5 | 3193 | 28 | 
+| 2014-06-16 | 第2回中国女子囲碁甲級リーグ第3節 | Tang Yi | Yu Zhiying | Win | W+R | 7.5 | 3165 | 48 | 
+| 2014-05-28 | 第11期倡棋杯中国プロ囲碁選手権戦1回戦 | Yu Zhiying | Mi Yuting | Lose | W+5 | 7.5 | 3117 | 104 | 
+| 2014-05-12 | 第2回中国女子囲碁甲級リーグ第2節 | Yu Zhiying | Zheng Yan | Lose | W+0.5 | 7.5 | 3013 | -17 | 
+| 2014-05-11 | 第2回中国女子囲碁甲級リーグ第1節 | Yu Zhiying |  | Win | B+R | 7.5 | 3030 | 33 | 
+| 2014-04-30 | 2014年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Lee Hyeonjun | Yu Zhiying | Lose | B+3.5 | 7.5 | 2997 | -28 | 
+| 2014-04-27 | 第3回天台山葛玄緑茶杯世界女子団体戦第3戦 | Yu Zhiying | Aoki Kikuyo | Win | B+7.5 | 7.5 | 3025 | -65 | 
+| 2014-04-26 | 第3回天台山葛玄緑茶杯世界女子団体戦第2戦 | Zhang Zhengping | Yu Zhiying | Win | W+8.5 | 7.5 | 3090 | -8 | 
+| 2014-04-25 | 第3回天台山葛玄緑茶杯世界女子団体戦第1戦 | Yu Zhiying | Choi Jeong | Win | B+R | 7.5 | 3098 | -13 | 
+| 2014-04-16 | 第19回LG杯予選 | Yu Zhiying | Hong Mujin | Win | B+R | 6.5 | 3111 | 3 | 
+| 2014-04-11 | 第4回黄竜士双登杯世界女子囲碁団体選手権第13戦 | Park Shiun | Yu Zhiying | Lose | B+R | 7.5 | 3108 | -40 | 
+| 2014-04-10 | 第4回黄竜士双登杯世界女子囲碁団体選手権第12戦 | Yu Zhiying | Choi Jeong | Win | B+1.5 | 7.5 | 3148 | 17 | 
+| 2014-04-09 | 第4回黄竜士双登杯世界女子囲碁団体選手権第11戦 | Yu Zhiying | Xie Yimin | Win | B+R | 7.5 | 3131 | 20 | 
+| 2014-04-08 | 第4回黄竜士双登杯世界女子囲碁団体選手権第10戦 | Yu Zhiying | Kim Hyeoimin | Win | B+1.5 | 7.5 | 3111 | 21 | 
+| 2014-03-20 | 第27期中国囲碁名人戦予選 | Yu Zhiying | Gao Yu | Lose | W+0.5 | 7.5 | 3090 | 1 | 
+| 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Yu Zhiying | Rui Naiwei | Lose | W+R | 7.5 | 3089 | 17 | 
+| 2014-03-14 | 第2回百霊杯世界オープン戦予選 | Yu Zhiying | Wang Xiangyun | Win | B+R | 7.5 | 3072 | -31 | 
+| 2014-03-04 | 第21期建橋杯中国囲碁新人王戦決勝三番勝負第3局 | Yu Zhiying | Li Qincheng | Win | B+R | 7.5 | 3103 | 24 | 
+| 2014-03-02 | 第21期建橋杯中国囲碁新人王戦決勝三番勝負第2局 | Li Qincheng | Yu Zhiying | Lose | B+5.5 | 7.5 | 3079 | -7 | 
+| 2014-03-01 | 第21期建橋杯中国囲碁新人王戦決勝三番勝負第1局 | Yu Zhiying | Li Qincheng | Win | B+R | 7.5 | 3086 | 36 | 
+| 2014-02-13 | 第21期建橋杯中国囲碁新人王戦準決勝 | Li Weiqing | Yu Zhiying | Win | W+R | 7.5 | 3050 | 10 | 
+| 2014-02-12 | 第21期建橋杯中国囲碁新人王戦3回戦 | Yu Zhiying | Zhao Chenyu | Win | B+R | 7.5 | 3040 | 27 | 
+| 2014-02-11 | 第21期建橋杯中国囲碁新人王戦2回戦 |  | Yu Zhiying | Win | W+R | 7.5 | 3013 | 13 | 
+| 2014-02-10 | 第21期建橋杯中国囲碁新人王戦1回戦 | Ding Hao | Yu Zhiying | Win | W+R | 7.5 | 3000 | -65 | 
+| 2013-12-29 | 第14期リコー杯囲碁戦1回戦 | Li Qincheng | Yu Zhiying | Lose | B+R | 7.5 | 3065 | 61 | 
+| 2013-12-16 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Wang Chenxing | Win | B+R | 7.5 | 3004 | 9 | 
+| 2013-12-14 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Wang Chenxing | Yu Zhiying | Win | W+4.5 | 7.5 | 2995 | 7 | 
+| 2013-12-13 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Park Shiun | Win | B+3.5 | 7.5 | 2988 | 0 | 
+| 2013-12-13 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Yoshida Mika | Win | B+5.5 | 7.5 | 2988 | 3 | 
+| 2013-12-12 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Dina Burdakova | Win | B+R | 7.5 | 2985 | 27 | 
+| 2013-12-07 | 第1回中国女子囲碁甲級リーグ第14節 | Yu Zhiying | Lu Jia | Win | B+3.5 | 7.5 | 2958 | 16 | 
+| 2013-12-06 | 第1回中国女子囲碁甲級リーグ第13節 | Yu Zhiying | Cao Youyin | Lose | W+R | 7.5 | 2942 | -26 | 
+| 2013-12-05 | 第1回中国女子囲碁甲級リーグ第12節 | Yu Zhiying | Tang Yi | Win | B+R | 7.5 | 2968 | 82 | 
+| 2013-11-13 | 第1回中国女子囲碁甲級リーグ第11節 | Yu Zhiying | Wang Xiangyun | Lose | W+0.5 | 7.5 | 2886 | -19 | 
+| 2013-11-12 | 第1回中国女子囲碁甲級リーグ第10節 | Yu Zhiying | Zhang Xuan | Win | B+3.5 | 7.5 | 2905 | 29 | 
+| 2013-11-10 | 第1回中国女子囲碁甲級リーグ第9節 | Yu Zhiying | Tao Ran | Win | B+R | 7.5 | 2876 | 14 | 
+| 2013-11-09 | 第1回中国女子囲碁甲級リーグ第8節 | Chen Yiming | Yu Zhiying | Win | W+R | 7.5 | 2862 | -208 | 
+| 2013-09-12 | 第4回穹窿山兵聖杯世界女子囲碁選手権決勝 | Yu Zhiying | Wang Chenxing | Lose | W+R | 7.5 | 3070 | 5 | 
+| 2013-09-10 | 第4回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Tang Yi | Yu Zhiying | Win | W+R | 7.5 | 3065 | 12 | 
+| 2013-09-09 | 第4回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Mukai Chiaki | Yu Zhiying | Win | W+R | 7.5 | 3053 | 23 | 
+| 2013-09-08 | 第4回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Okuda Aya | Yu Zhiying | Win | W+T | 7.5 | 3030 | -13 | 
+| 2013-09-01 | 第1回中国女子囲碁甲級リーグ第7節 | Li Chunhua | Yu Zhiying | Win | W+R | 7.5 | 3043 | -11 | 
+| 2013-08-31 | 第1回中国女子囲碁甲級リーグ第6節 | Yu Zhiying |  | Lose | W+R | 7.5 | 3054 | -23 | 
+| 2013-08-30 | 第1回中国女子囲碁甲級リーグ第5節 | Tang Yi | Yu Zhiying | Win | W+R | 7.5 | 3077 | -4 | 
+| 2013-08-29 | 第1回中国女子囲碁甲級リーグ第4節 | Yu Zhiying | Wang Xiangyun | Win | B+R | 7.5 | 3081 | -23 | 
+| 2013-08-16 | 2013年宏達杯全国囲碁星鋭最強戦第3ステージ | Yu Zhiying | An Dongxu | Win | B+1.5 | 7.5 | 3104 | 0 | 
+| 2013-08-16 | 2013年宏達杯全国囲碁星鋭最強戦第3ステージ | Guo Yuzheng | Yu Zhiying | Lose | B+R | 7.5 | 3104 | 23 | 
+| 2013-08-13 | 2013年宏達杯全国囲碁星鋭最強戦第3ステージ |  | Yu Zhiying | Lose | B+R | 7.5 | 3081 | 39 | 
+| 2013-07-19 | 2013年中国段位戦 | Yu Zhiying |  | Win | B+R | 7.5 | 3042 | 150 | 
+| 2013-06-26 | 第1回中国女子囲碁甲級リーグ第3節 | Yu Zhiying |  | Win | B+R | 7.5 | 2892 | 26 | 
+| 2013-06-25 | 第1回中国女子囲碁甲級リーグ第2節 | Li Yirong | Yu Zhiying | Win | W+R | 7.5 | 2866 | 55 | 
+| 2013-06-24 | 第1回中国女子囲碁甲級リーグ第1節 | Yu Zhiying | Chen Yiming | Win | B+R | 7.5 | 2811 | 43 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Ding Wei | Yu Zhiying | Lose | B+R | 7.5 | 2768 | 73 | 
+| 2013-05-24 | 第1回夢百合杯世界オープン戦予選 | Hei Jiajia | Yu Zhiying | Lose | B+R | 7.5 | 2695 | -82 | 
+| 2013-05-14 | 第2期全国女子囲碁国手戦順位戦 | Yu Zhiying | Chen Yiming | Lose | W+R | 7.5 | 2777 | -11 | 
+| 2013-05-13 | 第2期全国女子囲碁国手戦2回戦 | Yu Zhiying | Tang Yi | Lose | W+R | 7.5 | 2788 | 0 | 
+| 2013-05-13 | 第2期全国女子囲碁国手戦1回戦 | Yu Zhiying | Chen Yiming | Win | B+R | 7.5 | 2788 | 47 | 
+| 2013-04-09 | 第3回黄竜士双登杯世界女子囲碁団体選手権第11戦 | Choi Jeong | Yu Zhiying | Lose | B+T | 7.5 | 2741 | -57 | 
+| 2013-04-08 | 第3回黄竜士双登杯世界女子囲碁団体選手権第10戦 | Yu Zhiying | Xie Yimin | Win | B+R | 7.5 | 2798 | 26 | 
+| 2013-04-07 | 第3回黄竜士双登杯世界女子囲碁団体選手権第9戦 | Moon Dowon | Yu Zhiying | Win | W+R | 7.5 | 2772 | 36 | 
+| 2013-04-06 | 第3回黄竜士双登杯世界女子囲碁団体選手権第8戦 | Mukai Chiaki | Yu Zhiying | Win | W+R | 7.5 | 2736 | -24 | 
+| 2013-02-26 | 第3回黄竜士双登杯世界女子囲碁団体選手権第7戦 |  | Yu Zhiying | Win | W+R | 7.5 | 2760 | 46 | 
+| 2013-02-25 | 第3回黄竜士双登杯世界女子囲碁団体選手権第6戦 | Okuda Aya | Yu Zhiying | Win | W+R | 7.5 | 2714 | 22 | 
+| 2013-02-24 | 第3回黄竜士双登杯世界女子囲碁団体選手権第5戦 | Yu Zhiying | Kim Cheayoung | Win | B+R | 7.5 | 2692 | 110 | 
+| 2013-01-23 | 第27期中国囲碁天元戦予選 | Wang Xi | Yu Zhiying | Lose | B+R | 7.5 | 2582 | 13 | 
+| 2012-12-28 | 第13期リコー杯囲碁戦1回戦 | Yu Zhiying | Gu Lingyi | Lose | W+R | 7.5 | 2569 | -96 | 
+| 2012-12-26 | 第7期リコー杯新秀戦1回戦 | Li Qincheng | Yu Zhiying | Lose | B+R | 7.5 | 2665 | -281 | 
+| 2012-11-01 | 第3回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Li He | Yu Zhiying | Lose | B+R | 7.5 | 2946 | -23 | 
+| 2012-10-31 | 第3回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Yu Zhiying | Park Shiun | Win | B+1.5 | 7.5 | 2969 | 48 | 
+| 2012-10-30 | 第3回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Yu Zhiying | Mukai Chiaki | Win | B+R | 7.5 | 2921 | 45 | 
+| 2012-09-09 | 第10回建橋杯女子囲碁オープン戦1回戦 | Rui Naiwei | Yu Zhiying | Lose | B+R | 7.5 | 2876 | -51 | 
+| 2012-06-18 | 第8回百霊杯アマ女子勝抜戦第2戦 | Yu Zhiying | Xu Jiayang | Lose | W+R | 7.5 | 2927 | 2927 | 
+| 2012-06-17 | 第8回百霊杯アマ女子勝抜戦第1戦 | Yu Zhiying |  | Win | B+R | 7.5 | missing | -2952 | 
+| 2012-06-01 | 第9期倡棋杯中国プロ囲碁選手権戦1回戦 | Yu Zhiying | Piao Wenyao | Lose | W+R | 7.5 | 2952 | 42 | 
+| 2012-05-28 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Xiao Wei | Yu Zhiying | Win | W+2.5 | 7.5 | 2910 | -121 | 
+| 2012-04-28 | 第1回華頂茶業杯世界女子団体選手権第3戦 | Yu Zhiying | Su Shengfang | Win | B+R | 7.5 | 3031 | 19 | 
+| 2012-04-27 | 第1回華頂茶業杯世界女子団体選手権第2戦 | Kim Hyeoimin | Yu Zhiying | Lose | B+R | 7.5 | 3012 | -66 | 
+| 2012-04-26 | 第1回華頂茶業杯世界女子団体選手権第1戦 | Yu Zhiying | Mukai Chiaki | Lose | W+R | 7.5 | 3078 | -117 | 
+| 2012-04-09 | 第2回黄竜士双登杯世界女子囲碁団体選手権第11戦 | Xie Yimin | Yu Zhiying | Win | W+R | 7.5 | 3195 | 26 | 
+| 2012-03-20 | 第19期建橋杯中国囲碁新人王戦2回戦 | Yu Zhiying | Zhou Hexi | Lose | W+R | 7.5 | 3169 | -30 | 
+| 2012-03-11 | 第1回百霊杯世界囲碁選手権予選 | Yu Zhiying | Park Yeonghun | Lose | W+R | 7.5 | 3199 | -126 | 
+| 2012-02-21 | 第6期リコー杯新秀戦2回戦 | Yu Zhiying | Mi Yuting | Lose | W+R | 7.5 | 3325 | 89 | 
+| 2011-12-29 | 第12期リコー杯囲碁戦1回戦 | Yu Zhiying |  | Lose | W+R | 7.5 | 3236 | 3236 | 
+| 2011-12-28 | 第6期リコー杯新秀戦1回戦 | Xiao Wei | Yu Zhiying | Win | W+4.5 | 7.5 | missing | -2646 | 
+| 2011-11-24 | 2011年国際新鋭囲碁対抗戦第3戦 | Yu Zhiying | Choi Jeong | Win | B+R | 6.5 | 2646 | 2646 | 
+| 2011-10-10 | 第2回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Park Shiun | Yu Zhiying | Lose | B+R | 7.5 | missing | 0 | 
+| 2011-10-09 | 第2回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Yu Zhiying | Feng Yun | Win | B+R | 7.5 | missing | -2464 | 
+| 2011-05-23 | 第7回百霊杯元老女子勝抜戦第5戦 | Yu Zhiying | Cao Dayuan | Lose | W+R | 7.5 | 2464 | -271 | 
+| 2011-04-08 | 第7回百霊杯元老女子勝抜戦第4戦 | Yu Zhiying |  | Win | B+1.5 | 6.5 | 2735 | 16 | 
+| 2011-04-07 | 第7回百霊杯元老女子勝抜戦第3戦 | Shao Zhenzhong | Yu Zhiying | Win | W+R | 7.5 | 2719 | -1 | 
+| 2011-03-15 | 第7回百霊杯元老女子勝抜戦第2戦 | Song Xuelin | Yu Zhiying | Win | W+R | 6.5 | 2720 | 45 | 
+| 2011-03-14 | 第7回百霊杯元老女子勝抜戦第1戦 | Yu Zhiying | Liang Weitang | Win | B+3.5 | 7.5 | 2675 | 371 | 
+| 2010-09-05 | 第8回建橋杯女子囲碁オープン戦2回戦 | Yu Zhiying | Cao Youyin | Lose | W+R | 7.5 | 2304 | -247 | 
+| 2010-09-04 | 第8回建橋杯女子囲碁オープン戦1回戦 | Zheng Yan | Yu Zhiying | Win | W+R | 7.5 | 2551 | 2551 | 
+| 2010-09-03 | 第8回建橋杯女子囲碁オープン戦予選 |  | Yu Zhiying | Win | W+R | 7.5 | missing | 0 | 
+| 2010-09-02 | 第8回建橋杯女子囲碁オープン戦予選 |  | Yu Zhiying | Win | W+R | 7.5 | missing | 0 | 
+| 2010-02-21 | 第4期建橋杯女子新人王戦1回戦 | Yu Zhiying |  | Lose | W+R | 7.5 | missing | missing |
 
 
 

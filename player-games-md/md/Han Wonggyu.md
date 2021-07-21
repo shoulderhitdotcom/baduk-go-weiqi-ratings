@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-21 | 第23回農心杯韓国予選 | Shin Minjun | Han Wonggyu | Lose | B+R | 6.5 | 3517 | -138 | 
 | 2021-07-15 | 第23回農心杯韓国予選 | Moon Minjong | Han Wonggyu | Win | W+R | 6.5 | 3655 | 22 | 
 | 2021-06-09 | 第4期韓国竜星戦3回戦 | Han Wonggyu | Lee Changseok | Win | B+R | 6.5 | 3633 | 193 | 
 | 2021-03-03 | 第4期韓国竜星戦2回戦 | Han Wonggyu |  | Win | B+R | 6.5 | 3440 | -125 | 

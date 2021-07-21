@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-21 | 第23回農心杯韓国予選 | Lee Donghoon | Song Jihoon | Lose | B+R | 6.5 | 3198 | -31 | 
 | 2021-07-14 | 第23回農心杯韓国予選 | Song Jihoon | Lee Hyeonwuk | Win | B+R | 6.5 | 3229 | -171 | 
 | 2021-02-25 | 第1回牛膝鳳爪韓国棋院選手権戦予選 | Song Jihoon | Hong Mujin | Lose | W+1.5 | 6.5 | 3400 | -40 | 
 | 2021-02-18 | 2020-2021韓国囲碁リーグ | Song Jihoon | Seol Hyunjun | Lose | W+R | 6.5 | 3440 | -81 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-22 | 第46期棋聖戦Aリーグ | Suzuki Shinji | Shibano Toramaru | Win | W+R | 6.5 | 3296 | -5 | 
 | 2021-07-12 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Yuki Satoshi | Shibano Toramaru | Lose | B+R | 6.5 | 3301 | -10 | 
 | 2021-07-07 | 第76期本因坊戦挑戦手合七番勝負第7局  | Shibano Toramaru | Iyama Yuta | Lose | W+R | 6.5 | 3311 | -11 | 
 | 2021-06-30 | 第76期本因坊戦挑戦手合七番勝負第6局  | Iyama Yuta | Shibano Toramaru | Lose | B+R | 6.5 | 3322 | -8 | 

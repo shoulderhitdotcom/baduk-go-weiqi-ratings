@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-22 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Shin Jinseo | Byun Sangil | Lose | W+R | 6.5 | 3783 | 3 | 
 | 2021-07-17 | 第44期名人戦（韓国）敗者復活戦決勝 | Shin Jinseo | Park Junghwan | Win | B+R | 6.5 | 3780 | -25 | 
 | 2021-07-15 | 第26回GSカルテックス杯プロ棋戦準決勝 | Kim Jiseok | Shin Jinseo | Win | W+R | 6.5 | 3805 | 6 | 
 | 2021-07-13 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第5局 | Park Junghwan | Shin Jinseo | Win | W+R | 6.5 | 3799 | 2 | 

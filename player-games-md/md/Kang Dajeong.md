@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-22 | 第7回韓国女子囲碁リーグ | Kang Dajeong |  | Win | B+R | 6.5 | 2779 | -5 | 
 | 2021-07-11 | 第7回韓国女子囲碁リーグ | Lee Minjin | Kang Dajeong | Lose | B+0.5 | 6.5 | 2784 | 16 | 
 | 2021-07-11 | 第7回韓国女子囲碁リーグ | Lee Minjin | Kang Dajeong | Lose | B+0.5 | 6.5 | 2768 | -6 | 
 | 2021-07-04 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Oh Yujin | Win | B+R | 6.5 | 2774 | 53 | 
@@ -15,12 +16,12 @@
 | 2021-06-10 | 第7回韓国女子囲碁リーグ | Kang Dajeong |  | Win | B+R | 6.5 | 2699 | -7 | 
 | 2021-05-29 | 第7回韓国女子囲碁リーグ | Kang Dajeong |  | Lose | W+R | 6.5 | 2706 | -16 | 
 | 2021-05-24 | 第4回呉清源杯韓国予選 | Kang Dajeong | Kim Hyeoimin | Lose | W+R | 7.5 | 2722 | 24 | 
-| 2021-05-20 | 第7回韓国女子囲碁リーグ | Kang Dajeong |  | Lose | W+R | 6.5 | 2698 | -89 | 
+| 2021-05-20 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Cho Seungah | Lose | W+R | 6.5 | 2698 | -89 | 
 | 2021-03-07 | 2021シニアvs女子囲碁リーグチャンピオンズカップ第3戦 | Kim Kihun | Kang Dajeong | Win | W+R | 6.5 | 2787 | 38 | 
 | 2021-03-06 | 2021シニアvs女子囲碁リーグチャンピオンズカップ第1戦 | Kim Kihun | Kang Dajeong | Lose | B+5.5 | 6.5 | 2749 | -41 | 
 | 2021-02-24 | 第8回大舟杯プロシニア最強者戦1回戦 | Kang Dajeong | Seo Bongsoo | Lose | W+R | 6.5 | 2790 | -50 | 
-| 2020-12-24 | 2020年台湾新鋭隊vs韓国国家隊交流戦第8戦 |  | Kang Dajeong | Win | W+R | 6.5 | 2840 | 0 | 
-| 2020-12-24 | 2020年台湾新鋭隊vs韓国国家隊交流戦第7戦 |  | Kang Dajeong | Win | W+R | 6.5 | 2840 | 83 | 
+| 2020-12-24 | 2020年台湾新鋭隊vs韓国国家隊交流戦第8戦 | Bai Xinhui | Kang Dajeong | Win | W+R | 6.5 | 2840 | 0 | 
+| 2020-12-24 | 2020年台湾新鋭隊vs韓国国家隊交流戦第7戦 | Lin Yuting | Kang Dajeong | Win | W+R | 6.5 | 2840 | 83 | 
 | 2020-11-09 | 第4期韓国製紙女子棋聖戦1回戦 | Kim Dayoung | Kang Dajeong | Lose | B+R | 6.5 | 2757 | 112 | 
 | 2020-09-12 | 第6回韓国女子囲碁リーグ優勝決定戦第2戦第3局 |  | Kang Dajeong | Win | W+1.5 | 6.5 | 2645 | 101 | 
 | 2020-09-02 | 第25回三星火災杯韓国女子枠予選 | Oh Yujin | Kang Dajeong | Lose | B+R | 6.5 | 2544 | 43 | 
@@ -39,7 +40,7 @@
 | 2019-12-23 | 第13回GGオークション杯女流対シニア連勝対抗戦第4局 | Kim Dongyeop | Kang Dajeong | Win | W+11.5 | 6.5 | 2615 | 7 | 
 | 2019-12-17 | 第13回GGオークション杯女流対シニア連勝対抗戦第3局 | Kang Dajeong | Kim Kihun | Win | B+1.5 | 6.5 | 2608 | 69 | 
 | 2019-08-24 | 第5回韓国女子囲碁リーグ準プレーオフ第2局 |  | Kang Dajeong | Lose | B+R | 6.5 | 2539 | -30 | 
-| 2019-08-22 | 第5回韓国女子囲碁リーグ第14節第1試合第1局 | Kang Dajeong |  | Lose | W+11.5 | 6.5 | 2569 | -29 | 
+| 2019-08-22 | 第5回韓国女子囲碁リーグ第14節第1試合第1局 | Kang Dajeong | Cho Seungah | Lose | W+11.5 | 6.5 | 2569 | -29 | 
 | 2019-08-12 | 第5回韓国女子囲碁リーグ第13節第1試合第2局 | Kang Dajeong |  | Win | B+R | 6.5 | 2598 | -43 | 
 | 2019-08-09 | 第24期女流国手戦16強戦 | Kang Dajeong |  | Lose | W+R | 6.5 | 2641 | -50 | 
 | 2019-08-06 | 第5回韓国女子囲碁リーグ第12節第2試合第2局 |  | Kang Dajeong | Lose | B+R | 6.5 | 2691 | -14 | 
@@ -80,7 +81,7 @@
 | 2017-05-04 | 3期韓国女子連戦14回戦浦項-京畿湖畔 | Kim Yoonyoung | Kang Dajeong | Win | W+R | 6.5 | 2758 | 63 | 
 | 2017-04-28 | 3期韓国女子連戦13回戦浦項-麗水 | Kang Dajeong | Kim Dayoung | Win | B+R | 6.5 | 2695 | 54 | 
 | 2017-04-25 | 3期韓国女子連戦12回戦浦項-麟蹄 | Oh Yujin | Kang Dajeong | Lose | B+R | 6.5 | 2641 | -31 | 
-| 2017-04-14 | 3期韓国女子連戦11回戦浦項-西帰浦 | Kang Dajeong |  | Lose | W+R | 6.5 | 2672 | -20 | 
+| 2017-04-14 | 3期韓国女子連戦11回戦浦項-西帰浦 | Kang Dajeong | Cho Seungah | Lose | W+R | 6.5 | 2672 | -20 | 
 | 2017-04-11 | 3期韓国女子連戦10回戦浦項-京畿SG | Park Shiun | Kang Dajeong | Lose | B+R | 6.5 | 2692 | -17 | 
 | 2017-04-02 | 3期韓国女子連戦8回戦首尓-浦項 | Kang Dajeong | Choi Jeong | Lose | W+R | 6.5 | 2709 | 197 | 
 | 2017-03-21 | 3期韓国女子連戦7回戦浦項-京畿湖畔 | Park Jiyeon | Kang Dajeong | Win | W+R | 6.5 | 2512 | 43 | 

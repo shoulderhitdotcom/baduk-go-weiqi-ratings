@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-22 | 第70期王座戦予選 | Nakamura Sumire | Endo Yoshifumi | Win | B+2.5 | 6.5 | 2702 | -5 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Nakamura Sumire | Zhou Hongyu | Lose | W+R | 7.5 | 2707 | 0 | 
 | 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Kim Cheayoung | Nakamura Sumire | Win | W+¼ | 7.5 | 2707 | 70 | 
 | 2021-07-08 | 第6回扇興杯女流最強戦1回戦 |  | Nakamura Sumire | Win | W+R | 6.5 | 2637 | 7 | 
@@ -22,7 +23,7 @@
 | 2021-04-28 | 第8期会津中央病院・女流立葵杯1回戦 | Nakamura Sumire | Konishi Kazuko | Win | B+R | 6.5 | 2697 | 2 | 
 | 2021-04-22 | 第47期名人戦予選 | Nakamura Sumire | Nobuta Shigehito | Win | B+R | 6.5 | 2695 | -22 | 
 | 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第2戦 | Nakamura Sumire | Yu Lijun | Win | B+R | 6.5 | 2717 | 0 | 
-| 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第1戦 |  | Nakamura Sumire | Win | W+R | 6.5 | 2717 | 81 | 
+| 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第1戦 | Yang Zixuan | Nakamura Sumire | Win | W+R | 6.5 | 2717 | 81 | 
 | 2021-04-14 | 第46期棋聖戦予選 | Hara Masakazu | Nakamura Sumire | Win | W+6.5 | 6.5 | 2636 | 72 | 
 | 2021-04-01 | 第40期女流本因坊戦1回戦  | Umezawa Yukari | Nakamura Sumire | Win | W+7.5 | 6.5 | 2564 | -77 | 
 | 2021-03-24 | 女流ティーンエージャー棋士トーナメント戦決勝 |  | Nakamura Sumire | Win | W+6.5 | 6.5 | 2641 | -13 | 

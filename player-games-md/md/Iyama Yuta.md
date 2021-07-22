@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-22 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦  | Fujisawa Rina | Iyama Yuta | Win | W+R | 6.5 | 3420 | 17 | 
 | 2021-07-17 | 第46期碁聖戦挑戦手合五番勝負第3局  | Iyama Yuta | Ichiriki Ryo | Lose | W+R | 6.5 | 3403 | -31 | 
 | 2021-07-12 | 第46期碁聖戦挑戦手合五番勝負第2局  | Ichiriki Ryo | Iyama Yuta | Lose | B+0.5 | 6.5 | 3434 | -17 | 
 | 2021-07-07 | 第76期本因坊戦挑戦手合七番勝負第7局  | Shibano Toramaru | Iyama Yuta | Win | W+R | 6.5 | 3451 | 14 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-22 | 第69期王座戦2回戦  | Hane Naoki | Cho U | Win | W+1.5 | 6.5 | 3130 | 71 | 
 | 2021-07-05 | 第46期棋聖戦Aリーグ | Onishi Ryuhei | Cho U | Lose | B+R | 6.5 | 3059 | -24 | 
 | 2021-07-01 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Seto Taiki | Cho U | Lose | B+2.5 | 6.5 | 3083 | -31 | 
 | 2021-06-21 | 第69期王座戦1回戦 | Cho U | Koyama Kuya | Win | B+2.5 | 6.5 | 3114 | 7 | 

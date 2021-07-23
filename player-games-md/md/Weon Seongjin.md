@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-23 | 第23回農心杯韓国予選 | Weon Seongjin | Choi Jeong | Win | B+R | 6.5 | 3619 | 11 | 
 | 2021-07-16 | 第26回GSカルテックス杯プロ棋戦準決勝 | Byun Sangil | Weon Seongjin | Lose | B+R | 6.5 | 3608 | -49 | 
 | 2021-07-11 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Minkyu | Weon Seongjin | Win | W+R | 6.5 | 3657 | -1 | 
 | 2021-07-11 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Minkyu | Weon Seongjin | Win | W+R | 6.5 | 3658 | 11 | 

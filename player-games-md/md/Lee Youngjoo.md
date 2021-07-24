@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-24 | 第7回韓国女子囲碁リーグ | Lee Youngjoo |  | Lose | W+0.5 | 6.5 | 2873 | -34 | 
 | 2021-07-18 | 第7回韓国女子囲碁リーグ | Kim Miri | Lee Youngjoo | Win | W+R | 6.5 | 2907 | 40 | 
 | 2021-07-08 | 第7回韓国女子囲碁リーグ | Lee Youngjoo |  | Win | B+7.5 | 6.5 | 2867 | -4 | 
 | 2021-07-03 | 第7回韓国女子囲碁リーグ | Lee Minjin | Lee Youngjoo | Win | W+3.5 | 6.5 | 2871 | 16 | 

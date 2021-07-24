@@ -7,11 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-24 | 第7回韓国女子囲碁リーグ |  | Kim Hyeoimin | Win | W+R | 6.5 | 2895 | 5 | 
 | 2021-07-18 | 第7回韓国女子囲碁リーグ | Kim Hyeoimin |  | Win | B+R | 6.5 | 2890 | -15 | 
 | 2021-07-12 | 2021陜川歴代英才vs女子頂上連勝対抗戦第5局 | Kim Hyeoimin | Moon Minjong | Lose | W+4.5 | 6.5 | 2905 | -15 | 
 | 2021-07-08 | 第7回韓国女子囲碁リーグ |  | Kim Hyeoimin | Lose | B+R | 6.5 | 2920 | -26 | 
-| 2021-07-03 | 第7回韓国女子囲碁リーグ |  | Kim Hyeoimin | Lose | B+R | 6.5 | 2946 | -8 | 
-| 2021-06-30 | 第1回IBK企業銀行杯女子囲碁マスターズ1回戦 | Kim Hyeoimin |  | Lose | W+R | 6.5 | 2954 | -11 | 
+| 2021-07-03 | 第7回韓国女子囲碁リーグ | Cho Seungah | Kim Hyeoimin | Lose | B+R | 6.5 | 2946 | -8 | 
+| 2021-06-30 | 第1回IBK企業銀行杯女子囲碁マスターズ1回戦 | Kim Hyeoimin | Cho Seungah | Lose | W+R | 6.5 | 2954 | -11 | 
 | 2021-06-26 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Hyeoimin | Lose | B+R | 6.5 | 2965 | -14 | 
 | 2021-06-19 | 第7回韓国女子囲碁リーグ | Oh Yujin | Kim Hyeoimin | Lose | B+0.5 | 6.5 | 2979 | -10 | 
 | 2021-06-12 | 第7回韓国女子囲碁リーグ | Kim Eunseon | Kim Hyeoimin | Win | W+R | 6.5 | 2989 | 11 | 
@@ -51,7 +52,7 @@
 | 2020-08-22 | 第6回韓国女子囲碁リーグ第14節第1試合第2局 | Kim Hyeoimin |  | Win | B+3.5 | 6.5 | 2944 | 14 | 
 | 2020-08-13 | 第6回韓国女子囲碁リーグ第13節第1試合第1局 |  | Kim Hyeoimin | Lose | B+R | 6.5 | 2930 | 82 | 
 | 2020-08-07 | 第6回韓国女子囲碁リーグ第12節第2試合第1局 | Park Jiyeon | Kim Hyeoimin | Win | W+R | 6.5 | 2848 | 0 | 
-| 2020-08-01 | 第6回韓国女子囲碁リーグ第11節第3試合第1局 |  | Kim Hyeoimin | Win | W+R | 6.5 | 2848 | 44 | 
+| 2020-08-01 | 第6回韓国女子囲碁リーグ第11節第3試合第1局 | Cho Seungah | Kim Hyeoimin | Win | W+R | 6.5 | 2848 | 44 | 
 | 2020-07-26 | 第6回韓国女子囲碁リーグ第10節第4試合第2局 |  | Kim Hyeoimin | Lose | B+R | 6.5 | 2804 | 3 | 
 | 2020-07-18 | 第6回韓国女子囲碁リーグ第9節第3試合第3局 |  | Kim Hyeoimin | Win | W+R | 6.5 | 2801 | -31 | 
 | 2020-07-11 | 第6回韓国女子囲碁リーグ第8節第3試合第2局 | Kim Hyeoimin | Lee Minjin | Win | B+6.5 | 6.5 | 2832 | -13 | 
@@ -71,7 +72,7 @@
 | 2019-12-09 | 第3期韓国製紙女子棋聖戦準決勝 | Kim Hyeoimin | Choi Jeong | Lose | W+2.5 | 6.5 | 2726 | -10 | 
 | 2019-12-02 | 第3期韓国製紙女子棋聖戦8強戦 | Kim Hyeoimin | Cho Hyeyeon | Win | B+2.5 | 6.5 | 2736 | 18 | 
 | 2019-11-04 | 第3期韓国製紙女子棋聖戦16強戦 | Kim Hyeoimin | Lee Youngjoo | Win | B+R | 6.5 | 2718 | 30 | 
-| 2019-09-30 | 第10回穹窿山兵聖杯韓国選抜戦 |  | Kim Hyeoimin | Lose | B+R | 7.5 | 2688 | -18 | 
+| 2019-09-30 | 第10回穹窿山兵聖杯韓国選抜戦 | Cho Seungah | Kim Hyeoimin | Lose | B+R | 7.5 | 2688 | -18 | 
 | 2019-09-29 | 第10回穹窿山兵聖杯韓国選抜戦 | Kim Cheayoung | Kim Hyeoimin | Win | W+R | 7.5 | 2706 | 5 | 
 | 2019-09-28 | 第10回穹窿山兵聖杯韓国選抜戦 | Kim Hyeoimin |  | Win | B+R | 7.5 | 2701 | 14 | 
 | 2019-08-22 | 第5回韓国女子囲碁リーグ第14節第4試合第1局 | Wang Chenxing | Kim Hyeoimin | Win | W+R | 6.5 | 2687 | -19 | 
@@ -93,14 +94,14 @@
 | 2019-05-03 | 2019年陜川歴代英才vs女性頂上連勝対抗戦第1局 | Kim Hyeoimin | Park Joonhoon | Lose | W+R | 6.5 | 2568 | -33 | 
 | 2019-04-28 | 第2回呉清源杯世界女子囲碁選手権16強戦 | Rui Naiwei | Kim Hyeoimin | Lose | B+R | 7.5 | 2601 | -1 | 
 | 2019-04-01 | 第6回大舟杯プロシニア最強者戦8強戦 |  | Kim Hyeoimin | Win | W+6.5 | 6.5 | 2602 | 39 | 
-| 2019-03-18 | 第8回天台山杯世界女子囲碁団体戦韓国選抜戦 | Kim Hyeoimin |  | Lose | W+R | 7.5 | 2563 | -4 | 
-| 2019-03-15 | 第9回中国姜堰黄竜士精鍛科技杯韓国選抜戦 | Kim Hyeoimin |  | Lose | W+R | 7.5 | 2567 | 19 | 
+| 2019-03-18 | 第8回天台山杯世界女子囲碁団体戦韓国選抜戦 | Kim Hyeoimin | Cho Seungah | Lose | W+R | 7.5 | 2563 | -4 | 
+| 2019-03-15 | 第9回中国姜堰黄竜士精鍛科技杯韓国選抜戦 | Kim Hyeoimin | Cho Seungah | Lose | W+R | 7.5 | 2567 | 19 | 
 | 2019-03-10 | 第2回呉清源杯世界女子囲碁選手権韓国選抜戦3回戦 | Kim Dayoung | Kim Hyeoimin | Win | W+R | 7.5 | 2548 | 21 | 
 | 2019-03-09 | 第2回呉清源杯世界女子囲碁選手権韓国選抜戦2回戦 |  | Kim Hyeoimin | Win | W+R | 7.5 | 2527 | -12 | 
 | 2019-02-26 | 第6回大舟杯プロシニア最強者戦16強戦 | Kim Hyeoimin | Kim Soojang | Win | B+3.5 | 6.5 | 2539 | -89 | 
 | 2018-11-26 | 第2期韓国製紙女子棋聖戦決勝三番勝負第2局 | Choi Jeong | Kim Hyeoimin | Lose | B+R | 6.5 | 2628 | 6 | 
 | 2018-11-19 | 第2期韓国製紙女子棋聖戦決勝三番勝負第1局 | Kim Hyeoimin | Choi Jeong | Lose | W+5.5 | 6.5 | 2622 | -17 | 
-| 2018-11-12 | 第2期韓国製紙女子棋聖戦準決勝 | Kim Hyeoimin |  | Win | B+2.5 | 6.5 | 2639 | 0 | 
+| 2018-11-12 | 第2期韓国製紙女子棋聖戦準決勝 | Kim Hyeoimin | Cho Seungah | Win | B+2.5 | 6.5 | 2639 | 0 | 
 | 2018-10-30 | 第2期韓国製紙女子棋聖戦8強 | Park Taehee | Kim Hyeoimin | Win | W+R | 6.5 | 2639 | -45 | 
 | 2018-10-09 | 第2期韓国製紙女子棋聖戦16強 | Kim Cheayoung | Kim Hyeoimin | Win | W+1.5 | 6.5 | 2684 | -23 | 
 | 2018-08-27 | 第12回GGオークション杯女流対シニア連勝対抗戦第14局 | Kim Hyeoimin |  | Lose | W+R | 6.5 | 2707 | -7 | 
@@ -108,7 +109,7 @@
 | 2018-05-18 | 第4回韓国女子囲碁リーグ第18節 | Kim Hyeoimin |  | Lose | W+R | 6.5 | 2727 | -35 | 
 | 2018-05-15 | 第4回韓国女子囲碁リーグ第17節 | Kim Hyeoimin | Park Jiyeon | Win | B+R | 6.5 | 2762 | 2 | 
 | 2018-05-12 | 第4回韓国女子囲碁リーグ第16節 | Cho Hyeyeon | Kim Hyeoimin | Lose | B+0.5 | 6.5 | 2760 | -36 | 
-| 2018-05-06 | 第4回韓国女子囲碁リーグ第15節 |  | Kim Hyeoimin | Win | W+R | 6.5 | 2796 | 19 | 
+| 2018-05-06 | 第4回韓国女子囲碁リーグ第15節 | Cho Seungah | Kim Hyeoimin | Win | W+R | 6.5 | 2796 | 19 | 
 | 2018-04-28 | 第4回韓国女子囲碁リーグ第14節 | Kim Miri | Kim Hyeoimin | Win | W+R | 6.5 | 2777 | 71 | 
 | 2018-04-24 | 第4回韓国女子囲碁リーグ第13節 | Kim Hyeoimin | Rui Naiwei | Lose | W+3.5 | 6.5 | 2706 | -19 | 
 | 2018-04-18 | 第4回韓国女子囲碁リーグ第11節 | Kim Dayoung | Kim Hyeoimin | Lose | B+3.5 | 6.5 | 2725 | -21 | 

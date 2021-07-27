@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-27 | 第15回GGオークション杯女流対シニア連勝対抗戦第2局 | Yoo Changhyuk | Kim Yoonyoung | Win | W+R | 6.5 | 2954 | -139 | 
+| 2021-07-27 | 第15回GGオークション杯女流対シニア連勝対抗戦第2局 | Yoo Changhyuk | Kim Yoonyoung | Win | W+R | 6.5 | 3093 | 3093 | 
+| 2021-07-26 | 第15回GGオークション杯女流対シニア連勝対抗戦第1局 | Kim Soojang | Kim Yoonyoung | Win | W+R | 6.5 | missing | -2924 | 
 | 2021-07-14 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Kim Eunseon | Kim Yoonyoung | Lose | B+R | 6.5 | 2924 | 2924 | 
 | 2021-06-30 | 第1回IBK企業銀行杯女子囲碁マスターズ1回戦 | Kim Yoonyoung | Kim Cheayoung | Win | B+R | 6.5 | missing | -2454 | 
 | 2019-03-19 | 第8回天台山杯世界女子囲碁団体戦韓国選抜戦 | Kim Cheayoung | Kim Yoonyoung | Lose | B+R | 7.5 | 2454 | -70 | 
@@ -20,7 +23,7 @@
 | 2017-04-21 | 第7回中国姜堰黄竜士精鍛科技杯世界女子団体戦第4戦 | Kim Yoonyoung | Lu Minquan | Lose | W+0.5 | 7.5 | 2857 | 0 | 
 | 2017-04-21 | 第7回中国姜堰黄竜士精鍛科技杯世界女子団体戦第3戦 | Nyu Eiko | Kim Yoonyoung | Win | W+R | 7.5 | 2857 | -17 | 
 | 2017-04-15 | 3期韓国女子連戦11回戦京畿湖畔-京畿SG | Rui Naiwei | Kim Yoonyoung | Win | W+R | 6.5 | 2874 | 10 | 
-| 2017-04-11 | 3期韓国女子連戦10回戦京畿湖畔-西帰浦 |  | Kim Yoonyoung | Lose | B+R | 6.5 | 2864 | -4 | 
+| 2017-04-11 | 3期韓国女子連戦10回戦京畿湖畔-西帰浦 | Cho Seungah | Kim Yoonyoung | Lose | B+R | 6.5 | 2864 | -4 | 
 | 2017-04-08 | 3期韓国女子連戦9回戦首尓-京畿湖畔 | Kim Yoonyoung | Kim Miri | Win | B+1.5 | 6.5 | 2868 | -2 | 
 | 2017-04-04 | 第22期LG杯世界予選2回戦 | Kim Yoonyoung | Wang Yuanjun | Lose | W+R | 6.5 | 2870 | -32 | 
 | 2017-04-01 | 3期韓国女子連戦8回戦京畿湖畔-麟蹄 | Kim Yoonyoung | Park Taehee | Win | B+R | 6.5 | 2902 | 240 | 

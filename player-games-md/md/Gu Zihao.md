@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Tong Mengcheng | Gu Zihao | Lose | B+R | 7.5 | 3642 | -32 | 
+| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Tong Mengcheng | Gu Zihao | Lose | B+R | 7.5 | 3642 | 1 | 
+| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Tong Mengcheng | Gu Zihao | Lose | B+R | 7.5 | 3641 | -33 | 
 | 2021-07-15 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第3局 | Gu Zihao | Yang Dingxin | Lose | W+R | 7.5 | 3674 | -7 | 
 | 2021-07-14 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Yang Dingxin | Gu Zihao | Win | W+R | 7.5 | 3681 | 7 | 
 | 2021-07-12 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Gu Zihao | Yang Dingxin | Lose | W+R | 7.5 | 3674 | -10 | 

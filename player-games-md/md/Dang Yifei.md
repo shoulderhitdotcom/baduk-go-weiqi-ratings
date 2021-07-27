@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Dang Yifei | Yi Lingtao | Win | B+R | 7.5 | 3483 | 1 | 
+| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Tuo Jiaxi | Dang Yifei | Lose | B+¾ | 7.5 | 3461 | -21 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Dang Yifei | Yi Lingtao | Win | B+R | 7.5 | 3482 | 7 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Dang Yifei | Lose | B+¾ | 7.5 | 3475 | 2 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Dang Yifei | Chen Yunong | Win | B+¾ | 7.5 | 3473 | 11 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Fan Yin | Mi Yuting | Lose | W+1¼ | 7.5 | 3344 | -28 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Fan Yin | Huang Xin | Win | B+R | 7.5 | 3372 | 7 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Fan Yin | Lose | B+1¾ | 7.5 | 3365 | -5 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Chen Hao | Fan Yin | Lose | B+R | 7.5 | 3370 | -26 | 

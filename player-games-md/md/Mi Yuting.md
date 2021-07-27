@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Mi Yuting | Lose | B+R | 7.5 | 3527 | 1 | 
+| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Fan Yin | Mi Yuting | Win | W+1¼ | 7.5 | 3488 | -38 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Mi Yuting | Lose | B+R | 7.5 | 3526 | -9 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Mi Yuting | Kang Dongyun | Win | B+¾ | 7.5 | 3535 | 15 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Mi Yuting | Lose | B+R | 7.5 | 3520 | -4 | 

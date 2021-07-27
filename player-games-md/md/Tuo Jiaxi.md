@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Mi Yuting | Win | B+R | 7.5 | 3524 | 1 | 
+| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Tuo Jiaxi | Dang Yifei | Win | B+¾ | 7.5 | 3506 | -17 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Mi Yuting | Win | B+R | 7.5 | 3523 | 7 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Xie Ke | Tuo Jiaxi | Win | W+R | 7.5 | 3516 | 22 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Park Junghwan | Lose | W+R | 7.5 | 3494 | -6 | 

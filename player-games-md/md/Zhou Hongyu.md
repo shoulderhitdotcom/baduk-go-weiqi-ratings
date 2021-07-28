@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Liao Yuanhe | Zhou Hongyu | Lose | B+R | 7.5 | 3093 | 3093 | 
+| 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Choi Jeong | Zhou Hongyu | Lose | B+R | 7.5 | missing | -3081 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Nakamura Sumire | Zhou Hongyu | Win | W+R | 7.5 | 3081 | -19 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20準々決勝 | Zhou Hongyu | Park Sangjin | Lose | W+R | 6.5 | 3100 | -2 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦  | Zhou Hongyu |  | Win | B+R | 6.5 | 3102 | 0 | 

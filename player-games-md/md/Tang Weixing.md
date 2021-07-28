@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Peng Liyao | Tang Weixing | Win | W+R | 7.5 | 3515 | 1 | 
+| 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Ding Hao | Tang Weixing | Lose | B+R | 7.5 | 3501 | -13 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Peng Liyao | Tang Weixing | Win | W+R | 7.5 | 3514 | 1 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Tang Weixing | Wang Chunhui | Win | B+R | 7.5 | 3513 | 19 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Guo Xinyi | Tang Weixing | Win | W+R | 7.5 | 3494 | 0 | 

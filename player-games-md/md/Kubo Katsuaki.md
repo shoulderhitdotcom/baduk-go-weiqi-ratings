@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-28 | 第46期棋聖戦Cリーグ | Furuya Yutaka | Kubo Katsuaki | Win | W+4.5 | 6.5 | 2761 | 2761 | 
+| 2021-07-01 | 第46期棋聖戦Cリーグ | Kubo Katsuaki | Kobayashi Satoru | Win | B+R | 6.5 | missing | 0 | 
 | 2021-06-23 | 第47期名人戦予選 |  | Kubo Katsuaki | Lose | B+R | 6.5 | missing | -2583 | 
 | 2021-05-27 | 第46期棋聖戦Cリーグ | O Meien | Kubo Katsuaki | Lose | B+4.5 | 6.5 | 2583 | -21 | 
 | 2021-03-11 | 第46期棋聖戦予選 | Kubo Katsuaki | Nakane Naoyuki | Win | B+3.5 | 6.5 | 2604 | -361 | 

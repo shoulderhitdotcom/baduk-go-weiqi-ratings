@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-28 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Choi Jeong | Kim Dayoung | Win | B+R | 6.5 | 3247 | 1 | 
 | 2021-07-23 | 第23回農心杯韓国予選 | Weon Seongjin | Choi Jeong | Lose | B+R | 6.5 | 3246 | -2 | 
 | 2021-07-22 | 第7回韓国女子囲碁リーグ |  | Choi Jeong | Win | W+R | 6.5 | 3248 | -1 | 
 | 2021-07-21 | 第23回農心杯韓国予選 |  | Choi Jeong | Win | W+R | 6.5 | 3249 | 3249 | 

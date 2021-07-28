@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-28 | 第23回農心杯中国予選 | Xie Erhao | Li Weiqing | Win | W+R | 6.5 | 3540 | -8 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Li Weiqing | Win | W+R | 7.5 | 3548 | 0 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Li Weiqing | Han Yizhou | Win | B+R | 7.5 | 3548 | 22 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Li Weiqing | Win | W+R | 7.5 | 3526 | 11 | 

@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Tu Xiaoyu | Lose | W+R | 7.5 | 3509 | 1 | 
+| 2021-07-28 | 第23回農心杯中国予選 | Xu Jiayang | Fan Tingyu | Win | W+R | 6.5 | 3502 | -6 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Tu Xiaoyu | Lose | W+R | 7.5 | 3508 | -15 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Liu Yuhang | Win | B+R | 7.5 | 3523 | 26 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Fan Tingyu | Win | W+2¼ | 7.5 | 3497 | 5 | 

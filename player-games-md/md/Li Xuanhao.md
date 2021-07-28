@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Yi Lingtao | Li Xuanhao | Lose | B+R | 7.5 | 3495 | -34 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Chen Yichun | Li Xuanhao | Lose | B+R | 7.5 | 3529 | -16 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Li Xuanhao | Win | W+R | 7.5 | 3545 | 21 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Zhao Chenyu | Li Xuanhao | Lose | B+R | 7.5 | 3524 | -15 | 

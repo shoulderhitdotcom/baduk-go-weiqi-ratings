@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Li Qincheng | Jiang Qirun | Win | B+¾ | 7.5 | 3520 | 1 | 
+| 2021-07-28 | 第23回農心杯中国予選 | Li Qincheng | Yang Dingxin | Win | B+R | 6.5 | 3519 | 0 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Li Qincheng | Jiang Qirun | Win | B+¾ | 7.5 | 3519 | 13 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Wu Guangya | Li Qincheng | Win | W+R | 7.5 | 3506 | 16 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Li Qincheng | Chen Hao | Win | B+R | 7.5 | 3490 | 2 | 

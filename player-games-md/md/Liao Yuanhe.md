@@ -7,10 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Zhou Ruiyang | Win | B+R | 7.5 | 3441 | 1 | 
+| 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Liao Yuanhe | Zhou Hongyu | Win | B+R | 7.5 | 3425 | -15 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Zhou Ruiyang | Win | B+R | 7.5 | 3440 | 1 | 
-| 2021-06-11 | 第23回中国囲碁甲級リーグ | Zhang Tao | Liao Yuanhe | Win | W+R | 7.5 | 3439 | 22 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Liao Yuanhe | Win | W+R | 7.5 | 3417 | -1 | 
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Zhang Tao | Liao Yuanhe | Win | W+R | 7.5 | 3439 | 21 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Liao Yuanhe | Win | W+R | 7.5 | 3418 | 10 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Kang Dongyun | Lose | W+R | 7.5 | 3408 | -9 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Li Xuanhao | Win | B+R | 7.5 | 3417 | 7 | 

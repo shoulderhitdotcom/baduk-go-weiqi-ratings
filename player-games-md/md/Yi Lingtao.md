@@ -7,10 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Dang Yifei | Yi Lingtao | Lose | B+R | 7.5 | 3418 | 1 | 
+| 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Yi Lingtao | Li Xuanhao | Win | B+R | 7.5 | 3417 | 0 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Dang Yifei | Yi Lingtao | Lose | B+R | 7.5 | 3417 | -8 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Byun Sangil | Yi Lingtao | Win | W+1¼ | 7.5 | 3425 | 31 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Xu Haohong | Lose | W+2¼ | 7.5 | 3394 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Xu Haohong | Lose | W+2¼ | 7.5 | 3394 | -10 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Li Chengsen | Win | B+R | 7.5 | 3404 | 2 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Rong Yi | Yi Lingtao | Win | W+R | 7.5 | 3402 | -6 | 

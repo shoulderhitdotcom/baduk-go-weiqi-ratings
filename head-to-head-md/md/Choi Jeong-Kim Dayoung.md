@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jeong vs Kim Dayoung** | **Choi Jeong streak** | **Kim Dayoung streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-10 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Dayoung | B+1.5 | 6.5 | 1:0 | 1 | 0 | 
+| 2021-07-28 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Choi Jeong | Kim Dayoung | B+R | 6.5 | 1:0 | 1 | 0 | 
+| 2021-06-10 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Dayoung | B+1.5 | 6.5 | 10:1 | 6 | 0 | 
 | 2020-12-01 | 第4期韓国製紙女子棋聖戦準決勝 | Kim Dayoung | Choi Jeong | W+R | 6.5 | 9:1 | 5 | 0 | 
 | 2020-09-25 | 第25期女流国手戦8強戦 | Kim Dayoung | Choi Jeong | W+R | 6.5 | 8:1 | 4 | 0 | 
 | 2020-06-21 | 第6回韓国女子囲碁リーグ第5節第4試合第3局 | Choi Jeong | Kim Dayoung | B+R | 6.5 | 7:1 | 3 | 0 | 

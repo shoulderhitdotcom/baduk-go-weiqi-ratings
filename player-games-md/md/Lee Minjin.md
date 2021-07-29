@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-29 | 第7回韓国女子囲碁リーグ |  | Lee Minjin | Win | W+R | 6.5 | 2878 | -35 | 
+| 2021-07-23 | 第7回韓国女子囲碁リーグ | Cho Hyeyeon | Lee Minjin | Lose | B+R | 6.5 | 2913 | 2 | 
 | 2021-07-17 | 第7回韓国女子囲碁リーグ | Lee Minjin | Park Taehee | Win | B+8.5 | 6.5 | 2911 | 15 | 
 | 2021-07-11 | 第7回韓国女子囲碁リーグ | Lee Minjin | Kang Dajeong | Win | B+0.5 | 6.5 | 2896 | -18 | 
 | 2021-07-11 | 第7回韓国女子囲碁リーグ | Lee Minjin | Kang Dajeong | Win | B+0.5 | 6.5 | 2914 | 41 | 
@@ -52,11 +54,11 @@
 | 2019-05-28 | 第5回韓国女子囲碁リーグ第3節第2試合第2局 | Lee Minjin | Oh Yujin | Lose | W+R | 6.5 | 2274 | 9 | 
 | 2019-05-15 | 第5回韓国女子囲碁リーグ第2節第3試合第1局 | Lee Minjin | Oh Jeonga | Lose | W+2.5 | 6.5 | 2265 | -51 | 
 | 2019-05-08 | 第5回韓国女子囲碁リーグ第1節第3試合第1局 | Rui Naiwei | Lee Minjin | Win | W+R | 6.5 | 2316 | -119 | 
-| 2018-10-01 | 第2期韓国製紙女子棋聖戦16強 |  | Lee Minjin | Lose | B+R | 6.5 | 2435 | -31 | 
-| 2018-07-20 | 第23期女流国手戦16強戦 |  | Lee Minjin | Lose | B+14.5 | 6.5 | 2466 | -53 | 
+| 2018-10-01 | 第2期韓国製紙女子棋聖戦16強 | Cho Seungah | Lee Minjin | Lose | B+R | 6.5 | 2435 | -31 | 
+| 2018-07-20 | 第23期女流国手戦16強戦 | Cho Seungah | Lee Minjin | Lose | B+14.5 | 6.5 | 2466 | -53 | 
 | 2018-06-02 | 第4回韓国女子囲碁リーグ優勝決定戦第2戦 |  | Lee Minjin | Lose | B+5.5 | 6.5 | 2519 | -30 | 
 | 2018-06-01 | 第4回韓国女子囲碁リーグ優勝決定戦第1戦 | Kim Sinyoung | Lee Minjin | Lose | B+8.5 | 6.5 | 2549 | -104 | 
-| 2018-05-19 | 第4回韓国女子囲碁リーグ第18節 | Lee Minjin |  | Lose | W+4.5 | 6.5 | 2653 | -29 | 
+| 2018-05-19 | 第4回韓国女子囲碁リーグ第18節 | Lee Minjin | Cho Seungah | Lose | W+4.5 | 6.5 | 2653 | -29 | 
 | 2018-05-15 | 第4回韓国女子囲碁リーグ第17節 | Wang Chenxing | Lee Minjin | Lose | B+8.5 | 6.5 | 2682 | -52 | 
 | 2018-05-08 | 第4回韓国女子囲碁リーグ第16節 | Choi Jeong | Lee Minjin | Lose | B+R | 6.5 | 2734 | 12 | 
 | 2018-04-25 | 第4回韓国女子囲碁リーグ第14節 | Lee Minjin | Kim Cheayoung | Lose | W+R | 6.5 | 2722 | 1 | 
@@ -90,7 +92,7 @@
 | 2017-03-07 | 3期韓国女子連戦4回戦麟蹄-麗水 | Lee Youngjoo | Lee Minjin | Win | W+R | 6.5 | 2422 | 59 | 
 | 2017-03-03 | 3期韓国女子連戦3回戦扶安-麗水 | Kim Hyeoimin | Lee Minjin | Lose | B+3.5 | 6.5 | 2363 | -13 | 
 | 2017-02-23 | 3期韓国女子連戦2回戦京畿SG-麗水 | Lee Minjin | Rui Naiwei | Win | B+10.5 | 6.5 | 2376 | 85 | 
-| 2017-02-19 | 3期韓国女子連戦1回戦西帰浦-麗水 | Lee Minjin |  | Lose | W+0.5 | 6.5 | 2291 | -76 | 
+| 2017-02-19 | 3期韓国女子連戦1回戦西帰浦-麗水 | Lee Minjin | Cho Seungah | Lose | W+0.5 | 6.5 | 2291 | -76 | 
 | 2016-10-12 | 韓国花様囲棋女王戦リーグ戦5回戦 | Moon Dowon | Lee Minjin | Lose | B+R | 6.5 | 2367 | -11 | 
 | 2016-10-11 | 韓国花様囲棋女王戦リーグ戦4R | Kim Hyeoimin | Lee Minjin | Lose | B+R | 6.5 | 2378 | -21 | 
 | 2016-10-10 | 韓国花様囲棋女王戦リーグ戦3R | Lee Minjin | Kim Yoonyoung | Lose | W+R | 6.5 | 2399 | -14 | 

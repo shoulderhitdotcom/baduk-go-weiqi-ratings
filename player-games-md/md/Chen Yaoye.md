@@ -7,10 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Chen Haoxin | Win | B+R | 7.5 | 3433 | 1 | 
+| 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Chen Yaoye | Fan Tingyu | Lose | W+R | 7.5 | 3420 | -12 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Chen Haoxin | Win | B+R | 7.5 | 3432 | 5 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Huang Mingyu | Win | B+¾ | 7.5 | 3427 | 23 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Li Chengsen | Chen Yaoye | Win | W+R | 7.5 | 3404 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Li Chengsen | Chen Yaoye | Win | W+R | 7.5 | 3404 | 5 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Shi Yue | Chen Yaoye | Lose | B+R | 7.5 | 3399 | -19 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Chen Yaoye | Lose | B+R | 7.5 | 3418 | -24 | 

@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-29 | 第48期天元戦予選 |  | Sada Atsushi | Win | W+R | 6.5 | 3106 | -27 | 
+| 2021-07-15 | 第46期棋聖戦Cリーグ | Yamada Kimio | Sada Atsushi | Lose | B+2.5 | 6.5 | 3133 | -1 | 
+| 2021-07-15 | 第46期棋聖戦Cリーグ | Yamada Kimio | Sada Atsushi | Lose | B+2.5 | 6.5 | 3134 | -33 | 
 | 2021-07-08 | 第65期関西棋院第一位決定戦挑戦者決定戦 | Sada Atsushi | Watanabe Kandai | Win | B+R | 6.5 | 3167 | 16 | 
 | 2021-07-01 | 第47期碁聖戦予選 | Sada Atsushi | Chujo Chihiro | Win | B+R | 6.5 | 3151 | 2 | 
 | 2021-06-17 | 第46期棋聖戦Cリーグ | Ohashi Hirofumi | Sada Atsushi | Win | W+6.5 | 6.5 | 3149 | 27 | 

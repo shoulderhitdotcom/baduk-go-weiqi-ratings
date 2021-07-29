@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-11 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tao Xinran | Lose | W+R | 7.5 | 3481 | -1 | 
+| 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Xu Jiayang | Yang Kaiwen | Win | W+R | 7.5 | 3490 | 8 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tao Xinran | Lose | W+R | 7.5 | 3482 | 6 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Yang Kaiwen | Lose | B+R | 7.5 | 3476 | -19 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Ye Changxin | Yang Kaiwen | Win | W+R | 7.5 | 3495 | -3 | 

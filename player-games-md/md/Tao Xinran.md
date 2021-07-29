@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Tao Xinran | Ding Hao | Lose | W+R | 7.5 | 3556 | 1 | 
+| 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Tao Xinran | Yang Dingxin | Lose | W+R | 7.5 | 3536 | -19 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Tao Xinran | Ding Hao | Lose | W+R | 7.5 | 3555 | -5 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tao Xinran | Win | W+R | 7.5 | 3560 | 22 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Tao Xinran | Xu Yidi | Win | B+¾ | 7.5 | 3538 | 0 | 

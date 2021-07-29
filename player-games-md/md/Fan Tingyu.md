@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Chen Yaoye | Fan Tingyu | Win | W+R | 7.5 | 3510 | 8 | 
 | 2021-07-28 | 第23回農心杯中国予選 | Xu Jiayang | Fan Tingyu | Win | W+R | 6.5 | 3502 | -6 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Tu Xiaoyu | Lose | W+R | 7.5 | 3508 | -15 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Liu Yuhang | Win | B+R | 7.5 | 3523 | 26 | 

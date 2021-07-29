@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-29 | 第70期王座戦予選 | Takashima Yugo | Nakano Yasuhiro | Win | W+2.5 | 6.5 | 2757 | -9 | 
 | 2021-06-16 | 第60期十段戦予選 |  | Nakano Yasuhiro | Lose | B+R | 6.5 | 2766 | -21 | 
 | 2021-02-17 | 第77期本因坊戦予選 | Nakano Yasuhiro | Ha Youngil | Lose | W+1.5 | 6.5 | 2787 | -329 | 
 | 2021-01-14 | 第65期関西棋院第一位決定戦本戦2回戦 | Nakano Yasuhiro | Seto Taiki | Lose | W+R | 6.5 | 3116 | 77 | 

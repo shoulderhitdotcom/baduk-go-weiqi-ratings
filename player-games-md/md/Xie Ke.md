@@ -7,10 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Iyama Yuta | Xie Ke | Lose | B+R | 7.5 | 3498 | 1 | 
+| 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Xie Erhao | Xie Ke | Lose | B+1¾ | 7.5 | 3475 | -22 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Iyama Yuta | Xie Ke | Lose | B+R | 7.5 | 3497 | -14 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Xie Ke | Tuo Jiaxi | Lose | W+R | 7.5 | 3511 | 8 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Chen Zijian | Xie Ke | Win | W+R | 7.5 | 3503 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Chen Zijian | Xie Ke | Win | W+R | 7.5 | 3503 | 6 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Xie Ke | Win | W+R | 7.5 | 3497 | 2 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Xie Ke | Zhao Chenyu | Win | B+R | 7.5 | 3495 | -1 | 

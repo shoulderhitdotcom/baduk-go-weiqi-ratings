@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-29 | 第70期王座戦予選 | Takashima Yugo | Nakano Yasuhiro | Lose | W+2.5 | 6.5 | missing | -2484 | 
 | 2021-06-10 | 第60期十段戦予選 | Watanabe Yuu | Takashima Yugo | Lose | B+3.5 | 6.5 | 2484 | -271 | 
 | 2021-01-28 | 第46期新人王戦1回戦 |  | Takashima Yugo | Lose | B+0.5 | 6.5 | 2755 | -131 | 
 | 2020-12-09 | 第77期本因坊戦予選 |  | Takashima Yugo | Lose | B+R | 6.5 | 2886 | 322 | 

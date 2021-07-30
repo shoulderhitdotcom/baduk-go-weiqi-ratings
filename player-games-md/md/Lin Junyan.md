@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-30 | 第11期友士杯十段戦挑戦手合五番勝負第1局  | Xu Haohong | Lin Junyan | Lose | B+R | 6.5 | 3273 | -6 | 
 | 2021-07-28 | 第11期友士杯十段戦挑戦者決定戦 | Lin Junyan | Wang Yuanjun | Win | B+3.5 | 6.5 | 3279 | 56 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Lin Jiehan | Lin Junyan | Win | W+R | 6.5 | 3223 | 3 | 
 | 2021-05-13 | 第11期友士杯十段戦勝部決勝 | Lin Junyan | Xiao Zhenghao | Win | B+R | 6.5 | 3220 | 20 | 

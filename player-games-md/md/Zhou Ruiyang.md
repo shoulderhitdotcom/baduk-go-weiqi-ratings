@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-30 | 第16回威孚房開杯棋王戦2回戦 | Zhou Ruiyang | Tong Mengcheng | Lose | W+R | 7.5 | 3314 | -5 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Li Weiqing | Zhou Ruiyang | Win | W+R | 7.5 | 3319 | 7 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Zhou Ruiyang | Lose | B+R | 7.5 | 3312 | -8 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Fan Yin | Win | B+1¾ | 7.5 | 3320 | 31 | 

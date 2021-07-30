@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-30 | 第16回威孚房開杯棋王戦2回戦 | Mi Yuting | Liao Yuanhe | Win | B+R | 7.5 | 3506 | 18 | 
 | 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Fan Yin | Mi Yuting | Win | W+1¼ | 7.5 | 3488 | 1 | 
 | 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Fan Yin | Mi Yuting | Win | W+1¼ | 7.5 | 3487 | -39 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Mi Yuting | Lose | B+R | 7.5 | 3526 | -9 | 

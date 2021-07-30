@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-30 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第4局 | Byun Sangil | Shin Jinseo | Lose | B+R | 6.5 | 3780 | -6 | 
 | 2021-07-29 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Shin Jinseo | Byun Sangil | Win | B+R | 6.5 | 3786 | 1 | 
 | 2021-07-23 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Byun Sangil | Shin Jinseo | Win | W+R | 6.5 | 3785 | 2 | 
 | 2021-07-22 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Shin Jinseo | Byun Sangil | Lose | W+R | 6.5 | 3783 | 3 | 

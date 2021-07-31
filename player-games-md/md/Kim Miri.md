@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-31 | 第7回韓国女子囲碁リーグ |  | Kim Miri | Win | W+R | 6.5 | 2897 | -4 | 
 | 2021-07-22 | 第7回韓国女子囲碁リーグ | Kim Miri |  | Win | B+R | 6.5 | 2901 | 10 | 
 | 2021-07-18 | 第7回韓国女子囲碁リーグ | Kim Miri | Lee Youngjoo | Lose | W+R | 6.5 | 2891 | -37 | 
 | 2021-07-09 | 第7回韓国女子囲碁リーグ | Park Jiyeon | Kim Miri | Win | W+R | 6.5 | 2928 | 47 | 

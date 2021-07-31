@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-31 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Choi Jeong | An Sungjoon | Lose | B+R | 6.5 | 3337 | -1 | 
 | 2021-07-21 | 第23回農心杯韓国予選 | An Sungjoon | Park Junghwan | Lose | W+R | 6.5 | 3338 | 3338 | 
 | 2021-07-20 | 第23回農心杯韓国予選 | Kim Myounghoon | An Sungjoon | Win | W+R | 6.5 | missing | -3343 | 
 | 2021-07-04 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | An Sungjoon | Yun Chanhee | Win | B+R | 6.5 | 3343 | 0 | 

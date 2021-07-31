@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-31 | 第7回韓国女子囲碁リーグ |  | Oh Yujin | Win | W+8.5 | 6.5 | 3042 | 3042 | 
+| 2021-07-26 | 2021陜川歴代英才vs女子頂上連勝対抗戦第7局 | Moon Minjong | Oh Yujin | Lose | B+R | 6.5 | missing | -3027 | 
 | 2021-07-25 | 第7回韓国女子囲碁リーグ |  | Oh Yujin | Win | W+R | 6.5 | 3027 | 3027 | 
 | 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Oh Yujin | Wang Chenxing | Lose | W+R | 7.5 | missing | -3044 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Li He | Oh Yujin | Win | W+1¼ | 7.5 | 3044 | 6 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-01 | 第7回韓国女子囲碁リーグ |  | Kang Dajeong | Win | W+R | 6.5 | 2809 | 30 | 
 | 2021-07-22 | 第7回韓国女子囲碁リーグ | Kang Dajeong |  | Win | B+R | 6.5 | 2779 | -5 | 
 | 2021-07-11 | 第7回韓国女子囲碁リーグ | Lee Minjin | Kang Dajeong | Lose | B+0.5 | 6.5 | 2784 | 16 | 
 | 2021-07-11 | 第7回韓国女子囲碁リーグ | Lee Minjin | Kang Dajeong | Lose | B+0.5 | 6.5 | 2768 | -6 | 

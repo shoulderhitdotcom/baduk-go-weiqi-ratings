@@ -7,16 +7,16 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-01 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Sangjin | Lee Donghoon | Lose | W+R | 6.5 | 3339 | -12 | 
+| 2021-07-12 | 第23回農心杯韓国予選 | Park Sangjin | Yun Chanhee | Win | B+R | 6.5 | 3351 | 0 | 
+| 2021-07-02 | 第4期韓国竜星戦3回戦 | Park Sangjin | Park Junghwan | Lose | W+R | 6.5 | 3351 | -15 | 
 | 2021-06-13 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Sangjin | Paek Hongseok | Win | B+R | 6.5 | 3366 | 9 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20三位決定戦 | Park Sangjin | Moon Minjong | Win | B+5.5 | 6.5 | 3357 | 0 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20準決勝 | Tu Xiaoyu | Park Sangjin | Lose | B+R | 6.5 | 3357 | 0 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20準々決勝 | Zhou Hongyu | Park Sangjin | Win | W+R | 6.5 | 3357 | 3 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第3戦 | Park Sangjin | Lai Junfu | Win | B+R | 6.5 | 3354 | 0 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Park Sangjin | Hirose Yuichi | Win | B+R | 6.5 | 3354 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Park Sangjin | Lai Junfu | Lose | W+R | 6.5 | 3354 | -269 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第3戦 | Park Sangjin | Lai Junfu | Win | B+R | 6.5 | 3623 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Park Sangjin | Hirose Yuichi | Win | B+R | 6.5 | 3623 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Park Sangjin | Lai Junfu | Lose | W+R | 6.5 | 3623 | 227 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Park Sangjin | Lai Junfu | Lose | W+R | 6.5 | 3354 | -42 | 
 | 2021-05-02 | 第26回LG杯韓国予選 | Weon Seongjin | Park Sangjin | Lose | B+R | 6.5 | 3396 | -16 | 
 | 2021-04-25 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Lee Donghoon | Park Sangjin | Lose | B+R | 6.5 | 3412 | -62 | 
 | 2021-03-30 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Hong Kipyo | Park Sangjin | Win | W+R | 6.5 | 3474 | -33 | 
@@ -96,7 +96,7 @@
 | 2019-01-16 | 第4期未来の星新鋭最強戦1次大会第5戦 | Choi Jaeyoung | Park Sangjin | Win | W+R | 6.5 | 2999 | 46 | 
 | 2019-01-10 | 第4期未来の星新鋭最強戦1次大会第4戦 | Park Sangjin |  | Win | B+4.5 | 6.5 | 2953 | -5 | 
 | 2019-01-05 | 第2回クラウン・ヘテ杯2回戦 | Park Sangjin | Shin Jinseo | Lose | W+R | 6.5 | 2958 | -24 | 
-| 2018-12-08 | 第2回クラウン・ヘテ杯1回戦 | Park Sangjin |  | Win | B+R | 6.5 | 2982 | -24 | 
+| 2018-12-08 | 第2回クラウン・ヘテ杯1回戦 | Park Sangjin | Cho Seungah | Win | B+R | 6.5 | 2982 | -24 | 
 | 2018-11-14 | 2018年台湾精鋭vs韓国交流戦第5戦 | Park Sangjin | Huang Shiyuan | Win | B+R | 6.5 | 3006 | 8 | 
 | 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第3戦 | Park Sangjin | Lai Junfu | Lose | W+R | 6.5 | 2998 | -46 | 
 | 2018-11-12 | 2018年台湾精鋭vs韓国交流戦第2戦 | Park Sangjin | Lu Yiquan | Win | B+R | 6.5 | 3044 | 0 | 

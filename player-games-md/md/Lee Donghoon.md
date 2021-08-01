@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-01 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Sangjin | Lee Donghoon | Win | W+R | 6.5 | 3479 | 22 | 
 | 2021-07-25 | 第23回農心杯韓国予選 | Lee Donghoon | Byun Sangil | Lose | W+R | 6.5 | 3457 | -7 | 
 | 2021-07-21 | 第23回農心杯韓国予選 | Lee Donghoon | Song Jihoon | Win | B+R | 6.5 | 3464 | -7 | 
 | 2021-07-03 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Lee Donghoon | Lee Changseok | Lose | W+R | 6.5 | 3471 | -15 | 

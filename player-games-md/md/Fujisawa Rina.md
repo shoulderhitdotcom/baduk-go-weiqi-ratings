@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-02 | 第6回扇興杯女流最強戦2回戦  | Fujisawa Rina | Nakajima Mieko | Win | B+R | 6.5 | 3052 | 21 | 
 | 2021-07-29 | 第60期十段戦予選 | Rin Shien | Fujisawa Rina | Win | W+10.5 | 6.5 | 3031 | -2 | 
 | 2021-07-22 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦  | Fujisawa Rina | Iyama Yuta | Lose | W+R | 6.5 | 3033 | 3033 | 
 | 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Fujisawa Rina | Yu Zhiying | Lose | W+R | 7.5 | missing | -3048 | 

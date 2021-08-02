@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Tuo Jiaxi | Xie Erhao | Win | W+R | 7.5 | 3526 | 26 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Xie Erhao | Xie Ke | Win | B+1¾ | 7.5 | 3500 | 10 | 
 | 2021-07-28 | 第23回農心杯中国予選 | Xie Erhao | Li Weiqing | Lose | W+R | 6.5 | 3490 | -20 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Gu Zihao | Xie Erhao | Lose | B+R | 7.5 | 3510 | -6 | 

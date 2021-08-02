@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-02 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第5局 | Shin Jinseo | Byun Sangil | Lose | B+R | 6.5 | 3630 | 2 | 
 | 2021-07-30 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第4局 | Byun Sangil | Shin Jinseo | Win | B+R | 6.5 | 3628 | 12 | 
 | 2021-07-29 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Shin Jinseo | Byun Sangil | Lose | B+R | 6.5 | 3616 | -2 | 
 | 2021-07-25 | 第23回農心杯韓国予選 | Lee Donghoon | Byun Sangil | Win | W+R | 6.5 | 3618 | 3 | 

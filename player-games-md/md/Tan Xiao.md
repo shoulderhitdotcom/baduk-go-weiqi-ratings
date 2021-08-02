@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Tan Xiao | Yang Kaiwen | Lose | W+R | 7.5 | 3437 | 14 | 
 | 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Lian Xiao | Tan Xiao | Win | W+R | 7.5 | 3423 | -2 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Lian Xiao | Tan Xiao | Win | W+R | 7.5 | 3425 | 15 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Tan Xiao | Win | W+R | 7.5 | 3410 | 25 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Fan Tingyu | Peng Liyao | Win | W+R | 7.5 | 3338 | 43 | 
 | 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Huang Yunsong | Peng Liyao | Win | W+R | 7.5 | 3295 | 10 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Peng Liyao | Tang Weixing | Lose | W+R | 7.5 | 3285 | -2 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Peng Liyao | Shi Yulai | Win | B+R | 7.5 | 3287 | 23 | 

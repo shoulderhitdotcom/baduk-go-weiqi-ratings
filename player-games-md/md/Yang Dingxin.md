@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Yi Lingtao | Yang Dingxin | Lose | B+R | 7.5 | 3615 | 15 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Tao Xinran | Yang Dingxin | Win | W+R | 7.5 | 3600 | 6 | 
 | 2021-07-28 | 第23回農心杯中国予選 | Li Qincheng | Yang Dingxin | Lose | B+R | 6.5 | 3594 | -25 | 
 | 2021-07-15 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第3局 | Gu Zihao | Yang Dingxin | Win | W+R | 7.5 | 3619 | 6 | 

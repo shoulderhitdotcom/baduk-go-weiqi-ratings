@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-02 | 第46期棋聖戦Cリーグ | Kobayashi Satoru |  | Lose | W+5.5 | 6.5 | 2762 | 14 | 
+| 2021-07-08 | 第47期名人戦予選 | Ito Masashi | Kobayashi Satoru | Win | W+9.5 | 6.5 | 2748 | -69 | 
+| 2021-07-01 | 第46期棋聖戦Cリーグ | Kubo Katsuaki | Kobayashi Satoru | Lose | B+R | 6.5 | 2817 | 54 | 
 | 2021-06-10 | 第46期棋聖戦Cリーグ | Xie Yimin | Kobayashi Satoru | Lose | B+2.5 | 6.5 | 2763 | -89 | 
 | 2021-06-03 | 第77期本因坊戦予選 | Kobayashi Satoru | Yu Zhengqi | Lose | W+1.5 | 6.5 | 2852 | -7 | 
 | 2021-04-22 | 第60期十段戦予選 | Ito Masashi | Kobayashi Satoru | Lose | B+R | 6.5 | 2859 | -28 | 

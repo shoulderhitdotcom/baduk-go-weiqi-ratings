@@ -5,12 +5,13 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第46期碁聖戦予選 | Antti Tormanen | missing | W+R | 2020-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BL8eoUaBxRUhwa27AxrUxw%3D%3D) | 
-| 第8回おかげ杯囲碁トーナメント戦予選 | missing | Antti Tormanen | B+R | 2017-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NBD4YslReECumKVYIZb0Cg%3D%3D) | 
-| 第56期十段戦予選 | Antti Tormanen | Ogawa Tomoko | B+R | 2016-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JzuPa7WXbgS%2Ba6VGIZO0ng%3D%3D) | 
-| 第3回ゆうちょ杯囲碁ユース選手権予選 | Sada Atsushi | Antti Tormanen | B+R | 2016-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v7PN15adOpSslEGh4ISwvA%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-02 | 第48期天元戦予選 | Nakamura Sumire | Antti Tormanen | Lose | B+6.5 | 6.5 | missing | 0 | 
+| 2020-01-23 | 第46期碁聖戦予選 | Antti Tormanen |  | Lose | W+R | 6.5 | missing | 0 | 
+| 2017-02-22 | 第8回おかげ杯囲碁トーナメント戦予選 |  | Antti Tormanen | Lose | B+R | 6.5 | missing | 0 | 
+| 2016-07-28 | 第56期十段戦予選 | Antti Tormanen | Ogawa Tomoko | Win | B+R | 6.5 | missing | 0 | 
+| 2016-07-05 | 第3回ゆうちょ杯囲碁ユース選手権予選 | Sada Atsushi | Antti Tormanen | Lose | B+R | 6.5 | missing | missing |
 
 
 

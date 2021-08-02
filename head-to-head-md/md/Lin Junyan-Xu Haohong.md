@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lin Junyan vs Xu Haohong** | **Lin Junyan streak** | **Xu Haohong streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-07-30 | 第11期友士杯十段戦挑戦手合五番勝負第1局  | Xu Haohong | Lin Junyan | B+R | 6.5 | 0:1 | 0 | 1 | 
+| 2021-08-02 | 第11期友士杯十段戦挑戦手合五番勝負第2局  | Lin Junyan | Xu Haohong | W+R | 6.5 | 0:1 | 0 | 1 | 
+| 2021-07-30 | 第11期友士杯十段戦挑戦手合五番勝負第1局  | Xu Haohong | Lin Junyan | B+R | 6.5 | 16:22 | 0 | 5 | 
 | 2021-03-22 | 第2期名人冠軍戦準決勝第2局 | Xu Haohong | Lin Junyan | B+R | 6.5 | 16:21 | 0 | 4 | 
 | 2021-03-18 | 第2期名人冠軍戦準決勝第1局 | Lin Junyan | Xu Haohong | W+R | 6.5 | 16:20 | 0 | 3 | 
 | 2021-03-12 | 第20期天元戦（台湾）リーグ | Xu Haohong | Lin Junyan | B+R | 6.5 | 16:19 | 0 | 2 | 

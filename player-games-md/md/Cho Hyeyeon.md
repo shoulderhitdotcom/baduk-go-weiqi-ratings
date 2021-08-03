@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-03 | 2021女子最高棋士決定戦（韓国）予選 | Cho Hyeyeon |  | Lose | W+R | 6.5 | 2991 | 5 | 
 | 2021-07-30 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Cho Hyeyeon | Win | W+1.5 | 6.5 | 2986 | 14 | 
 | 2021-07-23 | 第7回韓国女子囲碁リーグ | Cho Hyeyeon | Lee Minjin | Win | B+R | 6.5 | 2972 | -18 | 
 | 2021-07-21 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Cho Hyeyeon | Cho Seungah | Lose | W+3.5 | 6.5 | 2990 | 16 | 

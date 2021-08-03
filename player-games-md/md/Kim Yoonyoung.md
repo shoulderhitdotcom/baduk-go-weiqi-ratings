@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-03 | 第15回GGオークション杯女流対シニア連勝対抗戦第4局 | Seo Musang | Kim Yoonyoung | Lose | B+2.5 | 6.5 | 3073 | 1 | 
 | 2021-08-02 | 第15回GGオークション杯女流対シニア連勝対抗戦第3局 |  | Kim Yoonyoung | Win | W+9.5 | 6.5 | 3072 | 118 | 
 | 2021-07-27 | 第15回GGオークション杯女流対シニア連勝対抗戦第2局 | Yoo Changhyuk | Kim Yoonyoung | Win | W+R | 6.5 | 2954 | -139 | 
 | 2021-07-27 | 第15回GGオークション杯女流対シニア連勝対抗戦第2局 | Yoo Changhyuk | Kim Yoonyoung | Win | W+R | 6.5 | 3093 | 3093 | 

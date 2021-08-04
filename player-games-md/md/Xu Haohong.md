@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-04 | 第11期友士杯十段戦挑戦手合五番勝負第3局  | Xu Haohong | Lin Junyan | Win | B+0.5 | 6.5 | 3381 | 4 | 
 | 2021-08-02 | 第11期友士杯十段戦挑戦手合五番勝負第2局  | Lin Junyan | Xu Haohong | Win | W+R | 6.5 | 3377 | 6 | 
 | 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Liu Yaowen | Xu Haohong | Win | W+R | 6.5 | 3371 | -4 | 
 | 2021-07-30 | 第11期友士杯十段戦挑戦手合五番勝負第1局  | Xu Haohong | Lin Junyan | Win | B+R | 6.5 | 3375 | -12 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-04 | 2021韓国シニア囲碁リーグ | Kim Ilhwan | Seo Nungwuk | Lose | W+28.5 | 6.5 | 2458 | -269 | 
 | 2021-07-14 | 第23回農心杯韓国予選 | Kim Ilhwan | Paek Hongseok | Lose | W+R | 6.5 | 2727 | -467 | 
 | 2021-03-12 | 第6回未来の星新鋭最強戦2回戦 |  | Kim Ilhwan | Lose | B+R | 6.5 | 3194 | 388 | 
 | 2021-03-12 | 第6回未来の星新鋭最強戦2回戦 |  | Kim Ilhwan | Lose | B+R | 6.5 | 2806 | -559 | 

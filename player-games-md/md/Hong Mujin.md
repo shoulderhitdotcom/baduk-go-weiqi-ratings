@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-04 | 第4期韓国竜星戦準決勝 | Hong Mujin | Park Junghwan | Lose | W+3.5 | 6.5 | 3222 | 9 | 
 | 2021-07-17 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Hong Mujin | Shin Minjun | Lose | W+R | 6.5 | 3213 | -124 | 
 | 2021-06-16 | 第4期韓国竜星戦3回戦 | Hong Mujin | Choi Cheolhan | Win | B+R | 6.5 | 3337 | 3337 | 
 | 2021-05-29 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Hong Mujin | Kang Seungmin | Lose | W+R | 6.5 | missing | 0 | 

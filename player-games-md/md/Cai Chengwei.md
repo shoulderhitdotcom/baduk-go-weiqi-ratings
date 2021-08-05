@@ -5,209 +5,211 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第2期聯電杯プロ囲碁戦予選 | missing | Cai Chengwei | W+1.5 | 2021-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T4Nk%2FykrWjRFWwq5dZcahA%3D%3D) | 
-| 第11期友士杯十段戦予選 | Cai Chengwei | Xu Jingen | W+5.5 | 2021-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=06SJbdZWv2jCZrreQ4IV5Q%3D%3D) | 
-| 第11期友士杯十段戦予選 | Cai Chengwei | Chen Shiyuan | W+6.5 | 2021-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VmB1J8eJ1IQWPOpc0pwi6A%3D%3D) | 
-| 第26回LG杯台湾予選 | Cai Chengwei | missing | W+R | 2021-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tFdhZf3AlQnHtxf3jWChFQ%3D%3D) | 
-| 第17期国手戦（台湾） | Cai Chengwei | Lai Junfu | W+R | 2021-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ym5%2FzAHs7oq8%2BrQCvxSRmA%3D%3D) | 
-| 第26回LG杯台湾予選 | Cai Chengwei | Li Wei | B+R | 2021-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mdKXv04vP8Oza%2F5P0AcRiQ%3D%3D) | 
-| 第26回LG杯台湾予選 | Cai Chengwei | Huang Shiyuan | B+R | 2021-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z1PN1UfyUUjFbvKwAg831A%3D%3D) | 
-| 第11期友士杯十段戦予選 | Cai Chengwei | missing | B+R | 2021-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7S9bDyHufPNP46h6UatLXw%3D%3D) | 
-| 第11期友士杯十段戦予選 | Cai Chengwei | missing | W+R | 2021-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HBqQDXo8YK5h735OzGmfYQ%3D%3D) | 
-| 第17期国手戦（台湾） | Cai Chengwei | Zhou Yinnan | B+0.5 | 2021-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m0bDaAjkZhWVQvsShjC4ag%3D%3D) | 
-| 第2期名人冠軍戦2回戦 | Cai Chengwei | Lu Yiquan | W+0.5 | 2021-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yps6h9Aaeuqk0kjXd%2Fjdsw%3D%3D) | 
-| 第2期名人冠軍戦1回戦 | missing | Cai Chengwei | W+R | 2021-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IUF0JbKcgdNcDO%2FiKcvYbw%3D%3D) | 
-| 第2期名人冠軍戦予選 | Cai Chengwei | missing | B+1.5 | 2021-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9HTshstLT2sdO8aJOhYGQA%3D%3D) | 
-| 第2期名人冠軍戦予選 | Cai Chengwei | Ding Shaojie | B+R | 2021-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X5iJURqiBWic7gTZ%2BGDc%2FQ%3D%3D) | 
-| 第2期名人冠軍戦予選 | missing | Cai Chengwei | B+R | 2021-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ffmQKLzmBGGScpwSUf8ZSw%3D%3D) | 
-| 第20期天元戦（台湾）敗部2回戦 | Cai Chengwei | Jian Jingting | W+5.5 | 2021-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M3v7UcX7duyTqTJT%2BXSpMQ%3D%3D) | 
-| 第20期天元戦（台湾）敗部1回戦 | Zhang Zhehao | Cai Chengwei | W+2.5 | 2021-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S4QGKZYk2%2BFi80DSHM5HkA%3D%3D) | 
-| 第20期天元戦（台湾）勝部1回戦 | Lin Lixiang | Cai Chengwei | B+5.5 | 2021-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NksILLT2ObmDv%2BeMwI3Dfg%3D%3D) | 
-| 第20期天元戦（台湾）予選 | Cai Chengwei | Huang Xiangren | B+R | 2021-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gn0bgic3kqaPM5WH8R0nWQ%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦1回戦 | Liu Jianchang | Cai Chengwei | B+0.5 | 2021-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tc8DanjpAM1%2FQ506a7KngQ%3D%3D) | 
-| 第20期天元戦（台湾）予選 | missing | Cai Chengwei | W+2.5 | 2021-01-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=21Kn6dLt4gsRjEBhUukIbg%3D%3D) | 
-| 2020年関西棋院VS台湾棋院対抗戦第3戦 | missing | Cai Chengwei | W+R | 2020-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hl0cseudY41I21im0eZ6cA%3D%3D) | 
-| 第16期国手戦（台湾）挑戦者決定戦 | Cai Chengwei | Chen Qirui | W+R | 2020-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KFWjRHotMIHYV7jFN8XJ4Q%3D%3D) | 
-| 2021年台湾囲碁新鋭隊選抜戦 | missing | Cai Chengwei | W+R | 2020-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=exK5ovaJR0cND9xa20zLPw%3D%3D) | 
-| 第16期国手戦（台湾）準決勝 | Li Wei | Cai Chengwei | W+R | 2020-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UO6shz1q%2BSTYXJixpbOfAQ%3D%3D) | 
-| 第8期中環碁聖戦準々決勝 | Cai Chengwei | Xiao Zhenghao | W+R | 2020-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vosKU079g%2Fpev7Ln2Ah%2F2A%3D%3D) | 
-| 第1回UMC聯電杯早碁争覇戦2回戦 | Cai Chengwei | Lai Junfu | W+8.5 | 2020-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=beIKu8N9M4ewUDB5FjsNoA%3D%3D) | 
-| 第16期国手戦（台湾）準々決勝 | Cai Chengwei | Lin Shixun | B+R | 2020-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9SaWIaVEQUBEjF6V84QFjw%3D%3D) | 
-| 第8期中環碁聖戦4回戦 | Chen Qirui | Cai Chengwei | W+R | 2020-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7laxku20dzPJPxw8nri5eA%3D%3D) | 
-| 第16期国手戦（台湾）4回戦 | Cai Chengwei | missing | B+3.5 | 2020-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EH5wLPNIRs7lVVRPVHREMw%3D%3D) | 
-| 第1回UMC聯電杯早碁争覇戦1回戦 | Cai Chengwei | Liu Jianchang | B+R | 2020-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TSlSUIx%2FWAqNiSaYz58%2BZg%3D%3D) | 
-| 第1回UMC聯電杯早碁争覇戦予選 | Cai Chengwei | missing | B+R | 2020-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5L2hZs49TZYgIotwg5AU2Q%3D%3D) | 
-| 第16期国手戦（台湾）3回戦 | Cai Chengwei | missing | B+R | 2020-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=znERGsmsbHzwXgNEVUNopw%3D%3D) | 
-| 第16期国手戦（台湾）2回戦 | Cai Chengwei | Wang Yuanjun | B+R | 2020-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4ThCS0T6PBcClSqmgWkcUw%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Cai Chengwei | Lin Shixun | W+6.5 | 2020-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iP395yzpUIvXtAjHeiV6aw%3D%3D) | 
-| 第8期中環碁聖戦3回戦 | missing | Cai Chengwei | W+R | 2020-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nXgya5G9AqIGDUQXcnlgfA%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Cai Chengwei | Yang Bowei | W+R | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lVsQD87ZGyHFs%2BY6BSKM9w%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Cai Chengwei | Lin Shixun | B+3.5 | 2020-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a4wmaYqSamq5znNoQLxxIA%3D%3D) | 
-| 第8期中環碁聖戦2回戦 | Zhou Keping | Cai Chengwei | W+R | 2020-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d7pVpnD5KRJFDVnzXlJZCg%3D%3D) | 
-| 第8期中環碁聖戦1回戦 | Dai Jiashen | Cai Chengwei | W+R | 2020-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hFIZyYaIeJbp1ETqcDCEGw%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | missing | Cai Chengwei | W+4.5 | 2020-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ib%2FFiNjIUzVsYq6VMrI6pQ%3D%3D) | 
-| 第25回三星火災杯台湾代表選抜戦 | Jian Jingting | Cai Chengwei | B+R | 2020-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KYIFRNv%2BrY5Ft03MA%2BEIXw%3D%3D) | 
-| 第25回三星火災杯台湾代表選抜戦 | Cai Chengwei | Yu Lijun | B+R | 2020-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o6Wzz%2Fx6Zo58rUKIubvT0w%3D%3D) | 
-| 2020新人王戦（台湾）リーグA | missing | Cai Chengwei | B+R | 2020-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CzJopMmGP3lzr%2Fs91d7lFw%3D%3D) | 
-| 2020新人王戦（台湾）リーグA | Cai Chengwei | Chen Qirui | W+R | 2020-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zoYuY8v2wlifKj0EJu%2FjNA%3D%3D) | 
-| 2020新人王戦（台湾）リーグA | Cai Chengwei | missing | B+¾ | 2020-06-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FXRamFUxLdINuVM57Tzukw%3D%3D) | 
-| 2020新人王戦（台湾）リーグA | Cai Chengwei | Lu Yiquan | W+R | 2020-06-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LHH%2Bbv3XxuWKCWZYCtc08Q%3D%3D) | 
-| 2020新人王戦（台湾）リーグA | Jian Jingting | Cai Chengwei | W+R | 2020-06-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VhrymVlnYDBDWTZHMJ5WgQ%3D%3D) | 
-| 2020新人王戦（台湾）リーグA | missing | Cai Chengwei | W+R | 2020-06-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=atPWivid2hSrbOIyXIF7OA%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦予選 | Lin Shimin | Cai Chengwei | B+R | 2020-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JqbeLHQiYfGgXSSXN%2FCkCQ%3D%3D) | 
-| 第10期友士杯十段戦敗部2回戦 | Cai Chengwei | Lai Junfu | W+R | 2020-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k%2BzRxo8IcbBXg4eeBrdHqg%3D%3D) | 
-| 第10期友士杯十段戦勝部2回戦 | Cai Chengwei | Li Wei | W+R | 2020-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9m%2ByTa47ftWI9z76izeNVQ%3D%3D) | 
-| 第10期友士杯十段戦勝部1回戦 | Xu Jingen | Cai Chengwei | W+R | 2020-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HJjYM4m0YNvwWiDIzAXFmA%3D%3D) | 
-| 第5回百霊杯台湾代表選抜戦 | Cai Chengwei | Xu Haohong | W+R | 2020-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eXpIlPl4XYhxdHcDlN%2F0gQ%3D%3D) | 
-| 第10期友士杯十段戦予選敗部決勝 | Cai Chengwei | Huang Shiyuan | B+R | 2020-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WbekeKyZWyXPGzRXBPJH3A%3D%3D) | 
-| 第10期友士杯十段戦予選敗部4回戦 | Lin Shuyang | Cai Chengwei | W+3.5 | 2020-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L5yAk8slf2sxwYmloW7Hrw%3D%3D) | 
-| 第5回百霊杯台湾代表選抜戦 | Cai Chengwei | missing | B+R | 2020-03-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jZ4rUzTJwcdph0JA9KrFdg%3D%3D) | 
-| 第10期友士杯十段戦予選敗部4回戦 | Lin Ziyuan | Cai Chengwei | W+R | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=na5x3NL%2BBwN%2FCRyQ7SLMLw%3D%3D) | 
-| 第10期友士杯十段戦予選敗部3回戦 | missing | Cai Chengwei | W+R | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AYCR1XmVVcDw4dxBgonsvQ%3D%3D) | 
-| 第5回百霊杯台湾代表選抜戦 | Cai Chengwei | missing | B+R | 2020-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h5JheFpx5VyynXBw9S5%2FxA%3D%3D) | 
-| 第5回百霊杯台湾代表選抜戦 | Cai Chengwei | missing | B+R | 2020-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LH%2B%2FmgNtbWEtgJFnrzoe3Q%3D%3D) | 
-| 第10期友士杯十段戦予選勝部2回戦 | Cai Chengwei | Chen Shiyuan | W+4.5 | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zsdDP7uWdh1ErgXSS0bbPQ%3D%3D) | 
-| 第10期友士杯十段戦予選勝部1回戦 | Cai Chengwei | Ding Shaojie | B+R | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=08N8nBF52A64V0DEM%2FkGSA%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan | Cai Chengwei | B+R | 2020-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7gjMP%2Bg9Ib%2BPygyOWZiL7w%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦64強戦 | Liu Yaowen | Cai Chengwei | W+R | 2020-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MZGgFMBgAFRXNm9IiGp%2FSg%3D%3D) | 
-| 第25回LG杯台湾代表選抜戦 | Cai Chengwei | Lai Junfu | W+R | 2020-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RBnu3ylS1%2FHGJ4BgIFBGuA%3D%3D) | 
-| 第25回LG杯台湾代表選抜戦 | Li Wei | Cai Chengwei | W+R | 2020-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AOSI2MJo5gWtaDuwAa1wtg%3D%3D) | 
-| 第1期名人冠軍戦予選敗部決勝 | Cai Chengwei | missing | W+R | 2020-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qHSoSiwNmnNRmIc6yRN0nA%3D%3D) | 
-| 第1期名人冠軍戦予選敗部1回戦 | Cai Chengwei | missing | B+R | 2020-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FQ0iPYCLM1cwLIilMvQEcw%3D%3D) | 
-| 第1期名人冠軍戦予選勝部1回戦 | missing | Cai Chengwei | B+1.5 | 2020-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d1Sj03NMZHn2a1fMWUr%2FsA%3D%3D) | 
-| 第17期倡棋杯台湾代表選抜戦 | Cai Chengwei | missing | W+R | 2020-01-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RHt64oERJjRhUc1J3XvEUA%3D%3D) | 
-| 第17期倡棋杯台湾代表選抜戦 | Yu Lijun | Cai Chengwei | W+R | 2020-01-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MBRu7myyW6yjq6Kw%2B%2BdA%2Fg%3D%3D) | 
-| 第19期天元戦（台湾）予選 | missing | Cai Chengwei | B+R | 2020-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n54En2WC2g5VlEDP7vgytg%3D%3D) | 
-| 第19期天元戦（台湾）予選 | missing | Cai Chengwei | W+4.5 | 2020-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7LabxNr9IofUE508%2FQOayA%3D%3D) | 
-| 第9回応氏杯世界選手権台湾代表選抜戦 | Cai Chengwei | Xu Jingen | W+R | 2020-01-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qshDctJifRdh3Z%2BPXzc6Xg%3D%3D) | 
-| 第9回応氏杯世界選手権台湾代表選抜戦 | Cai Chengwei | missing | B+R | 2020-01-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b%2FCJirRHVleHcyCV%2BMkvRQ%3D%3D) | 
-| 第13回春蘭杯台湾予選 | Cai Chengwei | Li Wei | W+R | 2019-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AlhoDxYaCebo3xNv0TTXjQ%3D%3D) | 
-| 2019新人王戦（台湾）リーグA | missing | Cai Chengwei | W+R | 2019-11-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bnf1lT7n42rV9MV4oCgfeA%3D%3D) | 
-| 2019新人王戦（台湾）リーグA | Cai Chengwei | Lu Yiquan | W+R | 2019-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iwQdlk5AeBEDfjZfzrmSnA%3D%3D) | 
-| 2019新人王戦（台湾）リーグA | missing | Cai Chengwei | W+R | 2019-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3%2Bwu51Nh6VNIylF2ajEAvA%3D%3D) | 
-| 2019新人王戦（台湾）リーグA | Yu Lijun | Cai Chengwei | W+R | 2019-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pn6baTOXYee04V5DX2nBZg%3D%3D) | 
-| 2019新人王戦（台湾）リーグA | Cai Chengwei | missing | B+1¾ | 2019-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5WZr541iAEdKNg6laCkk8Q%3D%3D) | 
-| 2019新人王戦（台湾）リーグA | Cai Chengwei | Jian Jingting | W+1¼ | 2019-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QJ1UN31gwSXwMTOU%2FMnMaQ%3D%3D) | 
-| 2019新人王戦（台湾）リーグA | Yang Bowei | Cai Chengwei | B+R | 2019-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=seaZZH49B2syNq0PMtECfw%3D%3D) | 
-| 2019新人王戦（台湾）予選敗部決勝 | missing | Cai Chengwei | W+R | 2019-10-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Zp1dfQWBP8lWZxgzQs4rg%3D%3D) | 
-| 2019新人王戦（台湾）予選勝部1回戦 | Xu Jingen | Cai Chengwei | B+2¾ | 2019-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IrOU9aCVQbusGP8LNFVOzQ%3D%3D) | 
-| 第7期中環碁聖戦3回戦 | Chen Xi | Cai Chengwei | B+R | 2019-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Eno5j4ByanI%2BKScAs%2Fh2jw%3D%3D) | 
-| 第15期国手戦（台湾）1回戦 | Cai Chengwei | Yang Bowei | W+R | 2019-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7fhxFI%2Frv4RbZFZevMQTCg%3D%3D) | 
-| 第7期中環碁聖戦2回戦 | Cai Chengwei | Lin Xiuping | B+0.5 | 2019-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H2aRAOIRXC%2BgpVCiTSid1g%3D%3D) | 
-| 第7期中環碁聖戦1回戦 | missing | Cai Chengwei | W+R | 2019-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ax0hXE0D2z760BD%2FmUzQ8g%3D%3D) | 
-| 第12期棋王戦（台湾）資格戦敗部1回戦 | Cai Chengwei | missing | W+R | 2019-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b1ZNwBYKk%2F3el77R7n%2BiFA%3D%3D) | 
-| 第12期棋王戦（台湾）資格戦勝部1回戦 | Cai Chengwei | Chen Xi | B+R | 2019-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tBamDtanFNXkw%2B0GXN0W7Q%3D%3D) | 
-| 第9期友士杯十段戦予選敗部2回戦 | Cai Chengwei | Yu Binghuang | W+R | 2019-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PqnpqjkoqGaMNurRroppyg%3D%3D) | 
-| 第9期友士杯十段戦予選勝部準決勝 | Cai Chengwei | missing | W+3.5 | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6UItvzMNIjMD6L1luTxYsg%3D%3D) | 
-| 第9期友士杯十段戦予選勝部1回戦 | Huang Shiyuan | Cai Chengwei | W+0.5 | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wWS1mfLRin3wltINxTIJtg%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦32強戦 | Cai Chengwei | Yang Bowei | W+0.5 | 2019-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g3S9%2FuLIS8ulhbl0RvH6oQ%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦64強戦 | Cai Chengwei | Ding Shaojie | W+R | 2019-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QXfTSNFDyjD3G0l8cIzcgA%3D%3D) | 
-| 2019台湾精鋭vs日本精鋭交流戦第6戦 | Cai Chengwei | Chang Rueijie | W+R | 2019-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J9tbqVHDtQMDJoQ6eBTD0w%3D%3D) | 
-| 2019台湾精鋭vs日本精鋭交流戦第4戦 | Cai Chengwei | Koike Yoshihiro | W+5.5 | 2019-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=egRVEkAHT58GzVyX52dnFA%3D%3D) | 
-| 第18期天元戦（台湾）予選2回戦 | Hei Jiajia | Cai Chengwei | B+R | 2019-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QtoZLrNcB6XL3WM19ARBLw%3D%3D) | 
-| 2018年新人王戦（台湾）リーグA | Cai Chengwei | Xu Yuqi | W+R | 2018-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6rQC67s6Q68MJvEoSzvn4w%3D%3D) | 
-| 2018年新人王戦（台湾）リーグA | missing | Cai Chengwei | W+¼ | 2018-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KWheAowt%2Fu4tecHFm0SQOA%3D%3D) | 
-| 2018年新人王戦（台湾）リーグA | Huang Shiyuan | Cai Chengwei | W+¼ | 2018-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1O9p8%2FAoiT07FfY44CmEIg%3D%3D) | 
-| 2018年新人王戦（台湾）リーグA | Cai Chengwei | missing | W+R | 2018-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tnuPUhR1ZubakAUxcmZGoA%3D%3D) | 
-| 2018年新人王戦（台湾）リーグA | Cai Chengwei | Jian Jingting | W+R | 2018-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JUS%2FKxQxwUz%2FRU3H7Ncpyw%3D%3D) | 
-| 2018年新人王戦（台湾）リーグA | Cai Chengwei | Lai Junfu | W+T | 2018-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TSJ3FZyfNVR6oQxvkMCMqA%3D%3D) | 
-| 2018年新人王戦（台湾）リーグA | Lu Yiquan | Cai Chengwei | B+R | 2018-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j82%2B7qMwzWc7AMnVNjsS5A%3D%3D) | 
-| 第1回IWMC台湾代表男子選抜戦予選2回戦 | Lin Lixiang | Cai Chengwei | B+R | 2018-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b1U38FHDMLs%2BL7Jgqyn6YA%3D%3D) | 
-| 第1回IWMC台湾代表男子選抜戦予選1回戦 | missing | Cai Chengwei | W+R | 2018-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yc%2BEnXJROrrbe5Gw0eHx%2FA%3D%3D) | 
-| 第11期棋王戦（台湾）予選敗部準決勝 | Xu Haohong | Cai Chengwei | B+R | 2018-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uCJDYEOaw3DGuXNDQfbd0g%3D%3D) | 
-| 第11期棋王戦（台湾）予選敗部3回戦 | Lin Xiuping | Cai Chengwei | W+5.5 | 2018-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r8Ae6LbLxio6X0Knpxif5Q%3D%3D) | 
-| 第11期棋王戦（台湾）予選敗部2回戦 | Zhang Kaixin | Cai Chengwei | W+R | 2018-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v7KUv10RsDuYnUzoJzWQig%3D%3D) | 
-| 第11期棋王戦（台湾）予選敗部1回戦 | Cai Chengwei | Lai Junfu | B+0.5 | 2018-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vINoQt7%2FHNIcgISP%2FTnVNw%3D%3D) | 
-| 第14期国手戦（台湾）1回戦上半区 | Cai Chengwei | missing | W+R | 2018-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gR97JTbWtlQOndohpGkj5A%3D%3D) | 
-| 第11期棋王戦（台湾）予選勝部1回戦 | Cai Chengwei | missing | W+R | 2018-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=znX3lMoGLLo%2FWfRw5Ko%2B1Q%3D%3D) | 
-| 第6期中環碁聖戦2回戦 | Wang Yuanjun | Cai Chengwei | B+R | 2018-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FBB3G6vmxjvMa6EJZu5MLg%3D%3D) | 
-| 第6期中環碁聖戦1回戦上半区 | Cai Chengwei | Huang Xiangren | B+R | 2018-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gM7sdHfaknwf%2F75wBB34Ng%3D%3D) | 
-| 関西棋院対台湾棋院棋士対抗戦2018 | Cai Chengwei | Yu Zhengqi | W+R | 2018-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C45w3tCXsj%2F8e2ao%2FHfreg%3D%3D) | 
-| 第8期友士杯十段戦予選 | Zhang Zhehao | Cai Chengwei | B+2.5 | 2018-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AylrRvBA8EBq668iQT80hg%3D%3D) | 
-| 第十六回天元戦複戦敗部第二回戦 | Li Wei | Cai Chengwei | B+R | 2018-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QeyQvLilQDsSlN5XEuKiUw%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦32強戦 | Huang Shiyuan | Cai Chengwei | B+R | 2018-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dffmuePSEXXSiIwthK1BsQ%3D%3D) | 
-| 第十七回天元戦複戦敗部第一回戦 | Cai Chengwei | Gao Yun | B+R | 2018-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CCjzq8lyyGqBb0RwRcbOKA%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦64強戦 | Cai Chengwei | Cai Wenhe | B+R | 2018-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w0LLOWAXR2ehWFAA3CM5gg%3D%3D) | 
-| 第十七回天元戦複戦勝部第一回戦 | Cai Chengwei | Lin Zhihan | W+R | 2018-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=90FmjT0UhfHm0ovmN9DsqA%3D%3D) | 
-| 第12回春蘭杯台湾予選 | Cai Chengwei | Jian Jingting | W+R | 2018-02-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AaD6dr05Of7ZbSIzFXfXmA%3D%3D) | 
-| 第23回LG杯台湾代表選抜戦予選第三局 | Cai Chengwei | Xu Haohong | W+R | 2018-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X%2BWl1D8R73wKplYQ58750A%3D%3D) | 
-| 第23回LG杯台湾代表選抜戦予選第二局 | Cai Chengwei | Lu Yiquan | B+R | 2018-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UtrefNXlkwVJAXjOziV1AQ%3D%3D) | 
-| 第23回LG杯台湾代表選抜戦予選第一局 | missing | Cai Chengwei | W+R | 2018-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hqp6lSK30KRhC%2FuXMfoWXA%3D%3D) | 
-| 2018台湾精鋭vs日本精鋭交流戦第6戦 | Seki Kotaro | Cai Chengwei | B+R | 2018-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YA3qn8mzm8Yss9gj1jHL0w%3D%3D) | 
-| 2018台湾精鋭vs日本精鋭交流戦第4戦 | Cai Chengwei | Mutsuura Yuta | W+R | 2018-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5ITAE40H59PDrAa%2FIGBYBg%3D%3D) | 
-| 2018台湾精鋭vs日本精鋭交流戦第1戦 | Hirata Tomoya | Cai Chengwei | B+R | 2018-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DW58z7xz%2FRX3D%2Ft%2FmK04Hg%3D%3D) | 
-| 第十五回倡棋杯台湾代表選抜戦決勝第一局 | Cai Chengwei | Chen Qirui | W+R | 2018-01-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RLYS0EXwa4Pgkt7AOsaV%2Fw%3D%3D) | 
-| 第十五回倡棋杯台湾代表選抜戦予選第三局 | Cai Chengwei | Lu Yiquan | B+R | 2018-01-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v%2BaO6b1bpL3hI2gGE4h1xw%3D%3D) | 
-| 2017年関西棋院VS台湾棋院交流戦第3戦 | Cai Chengwei | Taniguchi Tooru | B+R | 2017-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yXvNVy2NUdMn2Atc1TtqFA%3D%3D) | 
-| 第3期未来の星新鋭最強戦台湾予選 | Cai Chengwei | Jian Jingting | W+1.5 | 2017-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F3fD%2FBEuI3pnxYTkwMiokw%3D%3D) | 
-| 第3期未来の星新鋭最強戦台湾予選 | Cai Chengwei | missing | B+R | 2017-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v8A%2F%2FAVaL%2BLJT%2BMPuYQLBg%3D%3D) | 
-| 第5期中環碁聖戦首輪下半区 | Lin Junyan | Cai Chengwei | B+R | 2017-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hzp3EjI8DpkCDJsLjRv9Rw%3D%3D) | 
-| 第13期国手戦（台湾）首輪上半区 | Cai Chengwei | Lin Junyan | W+1.5 | 2017-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=44ymx4V16jLGUmvyiLnmKQ%3D%3D) | 
-| 第四回福蔭杯代表選抜戦決勝敗部第二局 | Lin Shuyang | Cai Chengwei | B+R | 2017-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=skdqowUUggJUa9TDeJ1K1Q%3D%3D) | 
-| 第四回福蔭杯代表選抜戦決勝勝部第一局 | Xiao Zhenghao | Cai Chengwei | W+0.5 | 2017-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a667FXtXel3Up2HA9T9kdA%3D%3D) | 
-| 第4回おかげ杯国際精鋭囲碁対抗戦台湾選抜戦 | Cai Chengwei | Xu Haohong | W+R | 2017-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lPOzam9W3bKBQPlXWBJD0A%3D%3D) | 
-| 第四回福蔭杯国際精鋭囲棋対抗戦代表選抜戦初戦第二局 | Cai Chengwei | Lu Yiquan | B+R | 2017-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MUjhsgVDvlXfjhVRpsWjCA%3D%3D) | 
-| 第四回福蔭杯国際精鋭囲棋対抗戦代表選抜戦初戦第一局 | Lai Junfu | Cai Chengwei | W+4.5 | 2017-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B3DNxU8VjSwGO1U7MDhnIg%3D%3D) | 
-| 2017年中国囲碁丙級リーグ | Wang Chen | Cai Chengwei | B+R | 2017-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sk5CuVxI3EMq%2BaceODfkfQ%3D%3D) | 
-| 2017年中国囲碁丙級リーグ | Cai Chengwei | missing | B+R | 2017-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pLHTcNKDMY90i%2BLFLIPeRA%3D%3D) | 
-| 2017年中国囲碁丙級リーグ | Cai Chengwei | missing | W+R | 2017-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dNIz93v8XwPoY4apKbuXhw%3D%3D) | 
-| 2017年中国囲碁丙級リーグ | Sun Tengyu | Cai Chengwei | B+R | 2017-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H9V7WoprbaIKkFB6cps9jA%3D%3D) | 
-| 2017年中国囲碁丙級リーグ | Cai Chengwei | missing | B+R | 2017-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F7b5QqyjxxE3Vgie69SnhQ%3D%3D) | 
-| 2017年中国囲碁丙級リーグ | Yu Qingquan | Cai Chengwei | W+R | 2017-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=40hHXcH3Xw2oCyzQbhi%2Fkw%3D%3D) | 
-| 2017年中国囲碁丙級リーグ | Cai Chengwei | missing | W+R | 2017-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uab3lMHxLS5E5Q1oQQGWNA%3D%3D) | 
-| 2017年中国囲碁丙級リーグ | Yu Qingquan | Cai Chengwei | W+R | 2017-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=By03l07BMAsMyDwngSkdPw%3D%3D) | 
-| 2017年中国囲碁丙級リーグ | Cai Chengwei | missing | B+R | 2017-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NOjOIt7CGzEsenb81nUu%2Bg%3D%3D) | 
-| 2017年中国囲碁丙級リーグ | missing | Cai Chengwei | B+R | 2017-06-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cpxVd5DYFw65OUM5L9VaBA%3D%3D) | 
-| 2017年中国囲碁丙級リーグ | Cai Chengwei | missing | W+R | 2017-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FI3sk14ej%2BWsbSu9UByEEg%3D%3D) | 
-| 2017年中国囲碁丙級リーグ | Cai Chengwei | missing | B+R | 2017-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bNfqBrtAIiVul1t7VSRKBA%3D%3D) | 
-| 2017年中国囲碁丙級リーグ | Wang Chen | Cai Chengwei | B+R | 2017-06-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jL2lwfMA1svdC7trnx7t0w%3D%3D) | 
-| 第7期友士杯十段戦敗者復活戦1回戦 | Cai Chengwei | Li Wei | W+R | 2017-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ph1lEr3NyS%2F9ocIWvIRdGQ%3D%3D) | 
-| 第7期友士杯十段戦1回戦 | Hei Jiajia | Cai Chengwei | B+6.5 | 2017-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HLVl%2FeI%2F3phKRifa5hoH3w%3D%3D) | 
-| 2017年利民杯台湾選抜戦 | Cai Chengwei | Lai Junfu | W+R | 2017-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hglozL%2BM3ZpYrHHx%2FXqG4Q%3D%3D) | 
-| 第十六期天元戦リーグ戦第七局 | Lai Junfu | Cai Chengwei | B+R | 2017-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UsUMQqkS0Y9vC4ChYSQtpQ%3D%3D) | 
-| 第十六期天元戦リーグ戦第六局 | Cai Chengwei | Xu Yuqi | B+4.5 | 2017-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UUVaO8ZP3xONjZcNb1g0hg%3D%3D) | 
-| 第十六期天元戦リーグ戦第五局 | Cai Chengwei | Lin Shixun | W+F | 2017-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KFUoJFJZjW9YEfY99wFYfg%3D%3D) | 
-| 第十六期天元戦リーグ戦第四局 補戦 | Xiao Zhenghao | Cai Chengwei | B+R | 2017-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8dx4dFAMeCyAl%2FuS1TIylw%3D%3D) | 
-| 第十六期天元戦リーグ戦第三局 | Cai Chengwei | Lin Junyan | B+R | 2017-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AE9NZDJlTe%2FveJm6lWG6tg%3D%3D) | 
-| 第十六期天元戦リーグ戦第二局 | Lin Lixiang | Cai Chengwei | B+R | 2017-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pl6u1%2BYxppDAhczrc5eOKA%3D%3D) | 
-| 第十六期天元挑戦手合リーグ戦第一局補戦 | Chen Shiyuan | Cai Chengwei | B+R | 2017-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c60jhHhjY5fULMLRMFt1Rg%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦16強戦 | Cai Chengwei | Lin Junyan | W+R | 2017-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Ht1Dsh0JvtZcfLrEdrlzA%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦32強戦 | Zhang Zhengping | Cai Chengwei | W+5.5 | 2017-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TgE5uXUGIVgdM64BRxzg%2BQ%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦64強戦 | missing | Cai Chengwei | W+R | 2017-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZASOLWrNt9DSXuJjZgnMYQ%3D%3D) | 
-| 第十四期倡棋盃台湾代表選抜戦初戦第三局 | Cai Chengwei | Xu Yuqi | B+3點 | 2017-03-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=43%2BQHp0yRM%2FDDZbNSdsD7g%3D%3D) | 
-| 第十四期倡棋盃台湾代表選抜戦決勝第二局 | Cai Chengwei | Lai Junfu | W+3點 | 2017-03-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T%2BHhNQ9HYRIWKpA5GvCjWg%3D%3D) | 
-| 第三期MLILIY夢百合杯台湾代表選抜戦 初戦 | Lai Junfu | Cai Chengwei | B+R | 2017-02-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N6d7JXA%2BOtEBHPTfJq84yQ%3D%3D) | 
-| 2017年日台精鋭交流戦第6戦 | Cai Chengwei | Kaneko Maki | B+R | 2017-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hkVnx2pduxskOae10XcsfA%3D%3D) | 
-| 台湾精鋭日本精鋭交流戦5回戦 | Hirose Yuichi | Cai Chengwei | B+R | 2017-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xh1gb0U3%2BTXhHDBn%2Fg8qPQ%3D%3D) | 
-| 台湾精鋭日本精鋭交流戦4回戦 | Cai Chengwei | Kuwabara Shun | W+R | 2017-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t8KsPX8uvtcicdnkENQvtQ%3D%3D) | 
-| 台湾精鋭日本精鋭交流戦2回戦 | Cai Chengwei | Chang Rueijie | W+R | 2017-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UP7Hep4owAzd71ph6VqI5w%3D%3D) | 
-| 第2期未来の星新鋭最強戦台湾予選 | Lai Junfu | Cai Chengwei | B+R | 2016-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F%2F89KsT2nHXlSF3hxlXs7w%3D%3D) | 
-| 第9期棋王戦（台湾）リーグ | Cai Chengwei | Lin Lixiang | W+R | 2016-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jfAR9H92fK5fFzPMQ0O0XQ%3D%3D) | 
-| 第9期棋王戦（台湾）リーグ | Cai Chengwei | Lai Junfu | W+R | 2016-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0grv4naJf0odd1U5VUVZXw%3D%3D) | 
-| 第9期棋王戦（台湾）リーグ | Cai Chengwei | Chen Shiyuan | W+2.5 | 2016-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=94i7bewxNIBXj0VYFu3vIA%3D%3D) | 
-| 第9期棋王戦（台湾）リーグ | Cai Chengwei | Lin Junyan | W+R | 2016-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LIueFHeGETv3X%2F1a6sm1Qg%3D%3D) | 
-| 第9期棋王戦（台湾）リーグ | Cai Chengwei | Lin Shuyang | B+R | 2016-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lHqKwE7mUJIX%2BnuWroeosQ%3D%3D) | 
-| 第9期棋王戦（台湾）リーグ | Cai Chengwei | Chen Qirui | B+R | 2016-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KFp7g27dWjQC0ucQYAyOsw%3D%3D) | 
-| 第9期棋王戦（台湾）リーグ | Wang Yuanjun | Cai Chengwei | B+R | 2016-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PO%2Fr%2FxZbQ%2FKP2zTyvTR1Cw%3D%3D) | 
-| 第6期友士杯十段戦予選 | Cai Chengwei | Chen Xi | W+R | 2016-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mu9VBOz261%2F3g9P9RX9W2g%3D%3D) | 
-| 第6期友士杯十段戦予選 | Cai Chengwei | Lin Tingyi | B+R | 2016-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aUjfwrOuBGGH3RWeuvq6xg%3D%3D) | 
-| 第6期友士杯十段戦予選 | Cai Chengwei | Ding Shaojie | B+R | 2016-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RmDeEsj1AdEQAkrtay8sog%3D%3D) | 
-| 第6期友士杯十段戦予選 | missing | Cai Chengwei | W+6.5 | 2016-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h9HglImKyfe7V6EVA5WaeA%3D%3D) | 
-| 第6期友士杯十段戦予選 | Cai Chengwei | missing | W+R | 2016-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HmXjg7pu3grdHWdejTU6RA%3D%3D) | 
-| 第6期友士杯十段戦予選 | Cai Chengwei | Xiao Ailin | B+R | 2016-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X0pLFx5XoKXDSdd9XOmCXQ%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦8強戦 | Cai Chengwei | Lin Junyan | W+R | 2016-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dObBN8Zk3dbMGsZtoMhjFw%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦16強戦 | Cai Chengwei | Xu Haohong | B+R | 2016-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pgHGUuZ17I160FVt0Z97bw%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦32強戦 | Cai Chengwei | Lai Junfu | B+R | 2016-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cgn3I4bAfw4U4nK5E0ygqw%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦64強戦 | missing | Cai Chengwei | W+5.5 | 2016-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qh84I7yrzVUTBo4WuY4QOA%3D%3D) | 
-| 2016年日台精鋭交流戦第2戦 | Murakawa Daisuke | Cai Chengwei | W+0.5 | 2016-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BzKuPRbSScT1Y3Oq1kbRxg%3D%3D) | 
-| 第8回応氏杯世界選手権台湾選抜戦 | Cai Chengwei | Lin Lixiang | W+R | 2015-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s%2BzOxksCyxgk1SQJ3jnIFQ%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦64強戦 | Lin Yuxiang | Cai Chengwei | B+0.5 | 2015-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=REpTEgT5wsEvVOoK0QZrBQ%3D%3D) | 
-| 2015年日台精鋭交流戦第6戦 | Cai Chengwei | Sotoyanagi Sebun | B+7.5 | 2015-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=79C46T9U9OJm4hmL9czy2A%3D%3D) | 
-| 2015年日台精鋭交流戦第5戦 | Cai Chengwei | Numadate Sakiya | B+R | 2015-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SBJUX3Ij7EeLmjoHOzZ5eg%3D%3D) | 
-| 第6回海峰杯プロ囲碁戦64強戦 | Xiao Zhenghao | Cai Chengwei | B+R | 2014-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FozWfDn9VkaP1LFGRxFrxQ%3D%3D) | 
-| 第6回海峰杯プロ囲碁戦64強決定戦 | Zhao Peizhe | Cai Chengwei | W+R | 2014-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xGM74NcGGEsgJZsswUl5Fg%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Chen Xi | Cai Chengwei | Lose | B+R | 6.5 | 2891 | -1 | 
+| 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 |  | Cai Chengwei | Win | W+R | 6.5 | 2892 | 12 | 
+| 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 |  | Cai Chengwei | Win | W+1.5 | 6.5 | 2880 | 8 | 
+| 2021-04-19 | 第11期友士杯十段戦予選 | Cai Chengwei | Xu Jingen | Lose | W+5.5 | 6.5 | 2872 | -21 | 
+| 2021-04-12 | 第11期友士杯十段戦予選 | Cai Chengwei | Chen Shiyuan | Lose | W+6.5 | 6.5 | 2893 | -42 | 
+| 2021-04-07 | 第26回LG杯台湾予選 | Cai Chengwei | Bai Xinhui | Lose | W+R | 6.5 | 2935 | -16 | 
+| 2021-04-02 | 第17期国手戦（台湾） | Cai Chengwei | Lai Junfu | Lose | W+R | 6.5 | 2951 | -10 | 
+| 2021-03-31 | 第26回LG杯台湾予選 | Cai Chengwei | Li Wei | Win | B+R | 6.5 | 2961 | 0 | 
+| 2021-03-31 | 第26回LG杯台湾予選 | Cai Chengwei | Huang Shiyuan | Win | B+R | 6.5 | 2961 | 13 | 
+| 2021-03-29 | 第11期友士杯十段戦予選 | Cai Chengwei | Liu Yifang | Win | B+R | 6.5 | 2948 | 0 | 
+| 2021-03-29 | 第11期友士杯十段戦予選 | Cai Chengwei |  | Lose | W+R | 6.5 | 2948 | -7 | 
+| 2021-03-26 | 第17期国手戦（台湾） | Cai Chengwei | Zhou Yinnan | Win | B+0.5 | 6.5 | 2955 | -98 | 
+| 2021-03-11 | 第2期名人冠軍戦2回戦 | Cai Chengwei | Lu Yiquan | Lose | W+0.5 | 6.5 | 3053 | -5 | 
+| 2021-03-08 | 第2期名人冠軍戦1回戦 |  | Cai Chengwei | Win | W+R | 6.5 | 3058 | -7 | 
+| 2021-03-04 | 第2期名人冠軍戦予選 | Cai Chengwei |  | Win | B+1.5 | 6.5 | 3065 | 8 | 
+| 2021-02-25 | 第2期名人冠軍戦予選 | Cai Chengwei | Ding Shaojie | Win | B+R | 6.5 | 3057 | -6 | 
+| 2021-02-22 | 第2期名人冠軍戦予選 |  | Cai Chengwei | Lose | B+R | 6.5 | 3063 | -80 | 
+| 2021-01-26 | 第20期天元戦（台湾）敗部2回戦 | Cai Chengwei | Jian Jingting | Lose | W+5.5 | 6.5 | 3143 | -1 | 
+| 2021-01-22 | 第20期天元戦（台湾）敗部1回戦 | Zhang Zhehao | Cai Chengwei | Win | W+2.5 | 6.5 | 3144 | 37 | 
+| 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Lin Lixiang | Cai Chengwei | Lose | B+5.5 | 6.5 | 3107 | 43 | 
+| 2021-01-12 | 第20期天元戦（台湾）予選 | Cai Chengwei | Huang Xiangren | Win | B+R | 6.5 | 3064 | -2 | 
+| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Liu Jianchang | Cai Chengwei | Lose | B+0.5 | 6.5 | 3066 | -23 | 
+| 2021-01-05 | 第20期天元戦（台湾）予選 |  | Cai Chengwei | Win | W+2.5 | 6.5 | 3089 | 13 | 
+| 2020-12-14 | 2020年関西棋院VS台湾棋院対抗戦第3戦 |  | Cai Chengwei | Win | W+R | 6.5 | 3076 | -8 | 
+| 2020-11-24 | 第16期国手戦（台湾）挑戦者決定戦 | Cai Chengwei | Chen Qirui | Lose | W+R | 6.5 | 3084 | 1 | 
+| 2020-11-17 | 2021年台湾囲碁新鋭隊選抜戦 |  | Cai Chengwei | Win | W+R | 6.5 | 3083 | 9 | 
+| 2020-11-10 | 第16期国手戦（台湾）準決勝 | Li Wei | Cai Chengwei | Win | W+R | 6.5 | 3074 | 7 | 
+| 2020-10-25 | 第8期中環碁聖戦準々決勝 | Cai Chengwei | Xiao Zhenghao | Lose | W+R | 6.5 | 3067 | -1 | 
+| 2020-10-21 | 第1回UMC聯電杯早碁争覇戦2回戦 | Cai Chengwei | Lai Junfu | Lose | W+8.5 | 6.5 | 3068 | -7 | 
+| 2020-10-20 | 第16期国手戦（台湾）準々決勝 | Cai Chengwei | Lin Shixun | Win | B+R | 6.5 | 3075 | 8 | 
+| 2020-10-18 | 第8期中環碁聖戦4回戦 | Chen Qirui | Cai Chengwei | Win | W+R | 6.5 | 3067 | 13 | 
+| 2020-10-16 | 第16期国手戦（台湾）4回戦 | Cai Chengwei |  | Win | B+3.5 | 6.5 | 3054 | 4 | 
+| 2020-10-14 | 第1回UMC聯電杯早碁争覇戦1回戦 | Cai Chengwei | Liu Jianchang | Win | B+R | 6.5 | 3050 | 7 | 
+| 2020-10-07 | 第1回UMC聯電杯早碁争覇戦予選 | Cai Chengwei |  | Win | B+R | 6.5 | 3043 | 5 | 
+| 2020-10-06 | 第16期国手戦（台湾）3回戦 | Cai Chengwei |  | Win | B+R | 6.5 | 3038 | 71 | 
+| 2020-09-22 | 第16期国手戦（台湾）2回戦 | Cai Chengwei | Wang Yuanjun | Win | B+R | 6.5 | 2967 | 25 | 
+| 2020-09-21 | 第13期棋王戦（台湾）予選 | Cai Chengwei | Lin Shixun | Lose | W+6.5 | 6.5 | 2942 | -10 | 
+| 2020-09-20 | 第8期中環碁聖戦3回戦 | Liu Yifang | Cai Chengwei | Win | W+R | 6.5 | 2952 | -3 | 
+| 2020-09-17 | 第13期棋王戦（台湾）予選 | Cai Chengwei | Yang Bowei | Lose | W+R | 6.5 | 2955 | 32 | 
+| 2020-09-14 | 第13期棋王戦（台湾）予選 | Cai Chengwei | Lin Shixun | Win | B+3.5 | 6.5 | 2923 | 10 | 
+| 2020-09-13 | 第8期中環碁聖戦2回戦 | Zhou Keping | Cai Chengwei | Win | W+R | 6.5 | 2913 | 14 | 
+| 2020-09-06 | 第8期中環碁聖戦1回戦 | Dai Jiashen | Cai Chengwei | Win | W+R | 6.5 | 2899 | 12 | 
+| 2020-09-03 | 第13期棋王戦（台湾）予選 |  | Cai Chengwei | Win | W+4.5 | 6.5 | 2887 | -26 | 
+| 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 | Jian Jingting | Cai Chengwei | Lose | B+R | 6.5 | 2913 | 0 | 
+| 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 | Cai Chengwei | Yu Lijun | Win | B+R | 6.5 | 2913 | 171 | 
+| 2020-06-11 | 2020新人王戦（台湾）リーグA |  | Cai Chengwei | Lose | B+R | 7.5 | 2742 | 0 | 
+| 2020-06-11 | 2020新人王戦（台湾）リーグA | Cai Chengwei | Chen Qirui | Lose | W+R | 7.5 | 2742 | -18 | 
+| 2020-06-08 | 2020新人王戦（台湾）リーグA | Cai Chengwei |  | Win | B+¾ | 7.5 | 2760 | 0 | 
+| 2020-06-08 | 2020新人王戦（台湾）リーグA | Cai Chengwei | Lu Yiquan | Lose | W+R | 7.5 | 2760 | -5 | 
+| 2020-06-04 | 2020新人王戦（台湾）リーグA | Jian Jingting | Cai Chengwei | Win | W+R | 7.5 | 2765 | 0 | 
+| 2020-06-04 | 2020新人王戦（台湾）リーグA |  | Cai Chengwei | Win | W+R | 7.5 | 2765 | 27 | 
+| 2020-05-15 | 第1期聯電杯プロ囲碁戦予選 | Lin Shimin | Cai Chengwei | Lose | B+R | 6.5 | 2738 | 74 | 
+| 2020-04-16 | 第10期友士杯十段戦敗部2回戦 | Cai Chengwei | Lai Junfu | Lose | W+R | 6.5 | 2664 | 3 | 
+| 2020-04-13 | 第10期友士杯十段戦勝部2回戦 | Cai Chengwei | Li Wei | Lose | W+R | 6.5 | 2661 | 22 | 
+| 2020-04-09 | 第10期友士杯十段戦勝部1回戦 | Xu Jingen | Cai Chengwei | Win | W+R | 6.5 | 2639 | 48 | 
+| 2020-03-27 | 第5回百霊杯台湾代表選抜戦 | Cai Chengwei | Xu Haohong | Lose | W+R | 7.5 | 2591 | 1 | 
+| 2020-03-23 | 第10期友士杯十段戦予選敗部決勝 | Cai Chengwei | Huang Shiyuan | Win | B+R | 6.5 | 2590 | 0 | 
+| 2020-03-23 | 第10期友士杯十段戦予選敗部4回戦 | Lin Shuyang | Cai Chengwei | Win | W+3.5 | 6.5 | 2590 | 35 | 
+| 2020-03-20 | 第5回百霊杯台湾代表選抜戦 | Cai Chengwei | Liu Chuanting | Win | B+R | 7.5 | 2555 | 6 | 
+| 2020-03-19 | 第10期友士杯十段戦予選敗部4回戦 | Lin Ziyuan | Cai Chengwei | Win | W+R | 6.5 | 2549 | 0 | 
+| 2020-03-19 | 第10期友士杯十段戦予選敗部3回戦 |  | Cai Chengwei | Win | W+R | 6.5 | 2549 | 8 | 
+| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Cai Chengwei | Liu Yifang | Win | B+R | 7.5 | 2541 | 0 | 
+| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Cai Chengwei | Bai Xinhui | Win | B+R | 7.5 | 2541 | -6 | 
+| 2020-03-12 | 第10期友士杯十段戦予選勝部2回戦 | Cai Chengwei | Chen Shiyuan | Lose | W+4.5 | 6.5 | 2547 | 0 | 
+| 2020-03-12 | 第10期友士杯十段戦予選勝部1回戦 | Cai Chengwei | Ding Shaojie | Win | B+R | 6.5 | 2547 | 16 | 
+| 2020-02-24 | 第12回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan | Cai Chengwei | Lose | B+R | 6.5 | 2531 | 19 | 
+| 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Liu Yaowen | Cai Chengwei | Win | W+R | 6.5 | 2512 | 7 | 
+| 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Cai Chengwei | Lai Junfu | Lose | W+R | 6.5 | 2505 | 0 | 
+| 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Li Wei | Cai Chengwei | Win | W+R | 6.5 | 2505 | -110 | 
+| 2020-02-17 | 第1期名人冠軍戦予選敗部決勝 | Cai Chengwei |  | Lose | W+R | 6.5 | 2615 | -18 | 
+| 2020-02-13 | 第1期名人冠軍戦予選敗部1回戦 | Cai Chengwei |  | Win | B+R | 6.5 | 2633 | -94 | 
+| 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 |  | Cai Chengwei | Lose | B+1.5 | 6.5 | 2727 | -33 | 
+| 2020-01-22 | 第17期倡棋杯台湾代表選抜戦 | Cai Chengwei |  | Lose | W+R | 7.5 | 2760 | 0 | 
+| 2020-01-22 | 第17期倡棋杯台湾代表選抜戦 | Yu Lijun | Cai Chengwei | Win | W+R | 7.5 | 2760 | -20 | 
+| 2020-01-17 | 第19期天元戦（台湾）予選 |  | Cai Chengwei | Lose | B+R | 6.5 | 2780 | 5 | 
+| 2020-01-10 | 第19期天元戦（台湾）予選 |  | Cai Chengwei | Win | W+4.5 | 6.5 | 2775 | 1 | 
+| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Cai Chengwei | Xu Jingen | Lose | W+R | 7.5 | 2774 | 0 | 
+| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Cai Chengwei |  | Win | B+R | 7.5 | 2774 | 307 | 
+| 2019-12-20 | 第13回春蘭杯台湾予選 | Cai Chengwei | Li Wei | Lose | W+R | 7.5 | 2467 | -15 | 
+| 2019-11-08 | 2019新人王戦（台湾）リーグA |  | Cai Chengwei | Win | W+R | 7.5 | 2482 | 28 | 
+| 2019-11-06 | 2019新人王戦（台湾）リーグA | Cai Chengwei | Lu Yiquan | Lose | W+R | 7.5 | 2454 | 0 | 
+| 2019-11-06 | 2019新人王戦（台湾）リーグA |  | Cai Chengwei | Win | W+R | 7.5 | 2454 | 10 | 
+| 2019-10-25 | 2019新人王戦（台湾）リーグA | Yu Lijun | Cai Chengwei | Win | W+R | 7.5 | 2444 | 0 | 
+| 2019-10-25 | 2019新人王戦（台湾）リーグA | Cai Chengwei |  | Win | B+1¾ | 7.5 | 2444 | 42 | 
+| 2019-10-23 | 2019新人王戦（台湾）リーグA | Cai Chengwei | Jian Jingting | Lose | W+1¼ | 7.5 | 2402 | 0 | 
+| 2019-10-23 | 2019新人王戦（台湾）リーグA | Yang Bowei | Cai Chengwei | Lose | B+R | 7.5 | 2402 | 4 | 
+| 2019-10-18 | 2019新人王戦（台湾）予選敗部決勝 |  | Cai Chengwei | Win | W+R | 7.5 | 2398 | 34 | 
+| 2019-10-09 | 2019新人王戦（台湾）予選勝部1回戦 | Xu Jingen | Cai Chengwei | Lose | B+2¾ | 7.5 | 2364 | -60 | 
+| 2019-09-27 | 第7期中環碁聖戦3回戦 | Chen Xi | Cai Chengwei | Lose | B+R | 6.5 | 2424 | 7 | 
+| 2019-09-17 | 第15期国手戦（台湾）1回戦 | Cai Chengwei | Yang Bowei | Lose | W+R | 6.5 | 2417 | 8 | 
+| 2019-09-15 | 第7期中環碁聖戦2回戦 | Cai Chengwei | Lin Xiuping | Win | B+0.5 | 6.5 | 2409 | 32 | 
+| 2019-09-08 | 第7期中環碁聖戦1回戦 | Yang Zixuan | Cai Chengwei | Win | W+R | 6.5 | 2377 | 38 | 
+| 2019-09-05 | 第12期棋王戦（台湾）資格戦敗部1回戦 | Cai Chengwei |  | Lose | W+R | 6.5 | 2339 | -11 | 
+| 2019-09-02 | 第12期棋王戦（台湾）資格戦勝部1回戦 | Cai Chengwei | Chen Xi | Win | B+R | 6.5 | 2350 | -71 | 
+| 2019-04-10 | 第9期友士杯十段戦予選敗部2回戦 | Cai Chengwei | Yu Binghuang | Lose | W+R | 6.5 | 2421 | 10 | 
+| 2019-04-08 | 第9期友士杯十段戦予選勝部準決勝 | Cai Chengwei |  | Lose | W+3.5 | 6.5 | 2411 | 0 | 
+| 2019-04-08 | 第9期友士杯十段戦予選勝部1回戦 | Huang Shiyuan | Cai Chengwei | Win | W+0.5 | 6.5 | 2411 | 51 | 
+| 2019-03-07 | 第11回海峰杯プロ囲碁戦32強戦 | Cai Chengwei | Yang Bowei | Lose | W+0.5 | 6.5 | 2360 | -24 | 
+| 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 | Cai Chengwei | Ding Shaojie | Lose | W+R | 6.5 | 2384 | -88 | 
+| 2019-01-21 | 2019台湾精鋭vs日本精鋭交流戦第6戦 | Cai Chengwei | Chang Rueijie | Lose | W+R | 6.5 | 2472 | -3 | 
+| 2019-01-19 | 2019台湾精鋭vs日本精鋭交流戦第4戦 | Cai Chengwei | Koike Yoshihiro | Lose | W+5.5 | 6.5 | 2475 | 2 | 
+| 2019-01-15 | 第18期天元戦（台湾）予選2回戦 | Hei Jiajia | Cai Chengwei | Lose | B+R | 6.5 | 2473 | -108 | 
+| 2018-11-30 | 2018年新人王戦（台湾）リーグA | Cai Chengwei | Xu Yuqi | Lose | W+R | 7.5 | 2581 | -8 | 
+| 2018-11-28 | 2018年新人王戦（台湾）リーグA |  | Cai Chengwei | Win | W+¼ | 7.5 | 2589 | 0 | 
+| 2018-11-28 | 2018年新人王戦（台湾）リーグA | Huang Shiyuan | Cai Chengwei | Win | W+¼ | 7.5 | 2589 | 19 | 
+| 2018-11-23 | 2018年新人王戦（台湾）リーグA | Cai Chengwei |  | Lose | W+R | 7.5 | 2570 | 0 | 
+| 2018-11-23 | 2018年新人王戦（台湾）リーグA | Cai Chengwei | Jian Jingting | Lose | W+R | 7.5 | 2570 | -32 | 
+| 2018-11-22 | 2018年新人王戦（台湾）リーグA | Cai Chengwei | Lai Junfu | Lose | W+T | 7.5 | 2602 | 0 | 
+| 2018-11-22 | 2018年新人王戦（台湾）リーグA | Lu Yiquan | Cai Chengwei | Lose | B+R | 7.5 | 2602 | -17 | 
+| 2018-10-24 | 第1回IWMC台湾代表男子選抜戦予選2回戦 | Lin Lixiang | Cai Chengwei | Lose | B+R | 7.5 | 2619 | 0 | 
+| 2018-10-24 | 第1回IWMC台湾代表男子選抜戦予選1回戦 |  | Cai Chengwei | Win | W+R | 7.5 | 2619 | 9 | 
+| 2018-10-04 | 第11期棋王戦（台湾）予選敗部準決勝 | Xu Haohong | Cai Chengwei | Lose | B+R | 6.5 | 2610 | -7 | 
+| 2018-10-01 | 第11期棋王戦（台湾）予選敗部3回戦 | Lin Xiuping | Cai Chengwei | Win | W+5.5 | 6.5 | 2617 | 14 | 
+| 2018-09-27 | 第11期棋王戦（台湾）予選敗部2回戦 | Zhang Kaixin | Cai Chengwei | Win | W+R | 6.5 | 2603 | -12 | 
+| 2018-09-20 | 第11期棋王戦（台湾）予選敗部1回戦 | Cai Chengwei | Lai Junfu | Win | B+0.5 | 6.5 | 2615 | 29 | 
+| 2018-09-18 | 第14期国手戦（台湾）1回戦上半区 | Cai Chengwei |  | Lose | W+R | 6.5 | 2586 | -43 | 
+| 2018-09-17 | 第11期棋王戦（台湾）予選勝部1回戦 | Cai Chengwei |  | Lose | W+R | 6.5 | 2629 | -23 | 
+| 2018-09-16 | 第6期中環碁聖戦2回戦 | Wang Yuanjun | Cai Chengwei | Lose | B+R | 6.5 | 2652 | -16 | 
+| 2018-09-02 | 第6期中環碁聖戦1回戦上半区 | Cai Chengwei | Huang Xiangren | Win | B+R | 6.5 | 2668 | -54 | 
+| 2018-08-20 | 関西棋院対台湾棋院棋士対抗戦2018 | Cai Chengwei | Yu Zhengqi | Lose | W+R | 6.5 | 2722 | 166 | 
+| 2018-05-07 | 第8期友士杯十段戦予選 | Zhang Zhehao | Cai Chengwei | Lose | B+2.5 | 6.5 | 2556 | -155 | 
+| 2018-03-13 | 第十六回天元戦複戦敗部第二回戦 | Li Wei | Cai Chengwei | Lose | B+R | 6.5 | 2711 | 21 | 
+| 2018-03-09 | 第10回海峰杯プロ囲碁戦32強戦 | Huang Shiyuan | Cai Chengwei | Lose | B+R | 6.5 | 2690 | -44 | 
+| 2018-03-06 | 第十七回天元戦複戦敗部第一回戦 | Cai Chengwei | Gao Yun | Win | B+R | 6.5 | 2734 | 17 | 
+| 2018-03-01 | 第10回海峰杯プロ囲碁戦64強戦 | Cai Chengwei | Cai Wenhe | Win | B+R | 6.5 | 2717 | 7 | 
+| 2018-02-27 | 第十七回天元戦複戦勝部第一回戦 | Cai Chengwei | Lin Zhihan | Lose | W+R | 6.5 | 2710 | 32 | 
+| 2018-02-06 | 第12回春蘭杯台湾予選 | Cai Chengwei | Jian Jingting | Lose | W+R | 7.5 | 2678 | 21 | 
+| 2018-01-26 | 第23回LG杯台湾代表選抜戦予選第三局 | Cai Chengwei | Xu Haohong | Lose | W+R | 6.5 | 2657 | -4 | 
+| 2018-01-25 | 第23回LG杯台湾代表選抜戦予選第二局 | Cai Chengwei | Lu Yiquan | Win | B+R | 6.5 | 2661 | 0 | 
+| 2018-01-25 | 第23回LG杯台湾代表選抜戦予選第一局 |  | Cai Chengwei | Win | W+R | 6.5 | 2661 | 7 | 
+| 2018-01-23 | 2018台湾精鋭vs日本精鋭交流戦第6戦 | Seki Kotaro | Cai Chengwei | Lose | B+R | 6.5 | 2654 | -8 | 
+| 2018-01-22 | 2018台湾精鋭vs日本精鋭交流戦第4戦 | Cai Chengwei | Mutsuura Yuta | Lose | W+R | 6.5 | 2662 | -9 | 
+| 2018-01-20 | 2018台湾精鋭vs日本精鋭交流戦第1戦 | Hirata Tomoya | Cai Chengwei | Lose | B+R | 6.5 | 2671 | 14 | 
+| 2018-01-12 | 第十五回倡棋杯台湾代表選抜戦決勝第一局 | Cai Chengwei | Chen Qirui | Lose | W+R | 7.5 | 2657 | -9 | 
+| 2018-01-10 | 第十五回倡棋杯台湾代表選抜戦予選第三局 | Cai Chengwei | Lu Yiquan | Win | B+R | 7.5 | 2666 | 22 | 
+| 2017-12-14 | 2017年関西棋院VS台湾棋院交流戦第3戦 | Cai Chengwei | Taniguchi Tooru | Win | B+R | 6.5 | 2644 | 75 | 
+| 2017-11-24 | 第3期未来の星新鋭最強戦台湾予選 | Cai Chengwei | Jian Jingting | Lose | W+1.5 | 6.5 | 2569 | -7 | 
+| 2017-11-23 | 第3期未来の星新鋭最強戦台湾予選 | Cai Chengwei |  | Win | B+R | 6.5 | 2576 | -14 | 
+| 2017-09-10 | 第5期中環碁聖戦首輪下半区 | Lin Junyan | Cai Chengwei | Lose | B+R | 6.5 | 2590 | -5 | 
+| 2017-09-05 | 第13期国手戦（台湾）首輪上半区 | Cai Chengwei | Lin Junyan | Lose | W+1.5 | 6.5 | 2595 | -3 | 
+| 2017-08-31 | 第四回福蔭杯代表選抜戦決勝敗部第二局 | Lin Shuyang | Cai Chengwei | Lose | B+R | 6.5 | 2598 | 0 | 
+| 2017-08-29 | 第四回福蔭杯代表選抜戦決勝勝部第一局 | Xiao Zhenghao | Cai Chengwei | Win | W+0.5 | 6.5 | 2598 | 0 | 
+| 2017-08-29 | 第4回おかげ杯国際精鋭囲碁対抗戦台湾選抜戦 | Cai Chengwei | Xu Haohong | Lose | W+R | 6.5 | 2598 | 26 | 
+| 2017-08-25 | 第四回福蔭杯国際精鋭囲棋対抗戦代表選抜戦初戦第二局 | Cai Chengwei | Lu Yiquan | Win | B+R | 6.5 | 2572 | 0 | 
+| 2017-08-25 | 第四回福蔭杯国際精鋭囲棋対抗戦代表選抜戦初戦第一局 | Lai Junfu | Cai Chengwei | Win | W+4.5 | 6.5 | 2572 | 78 | 
+| 2017-06-16 | 2017年中国囲碁丙級リーグ | Wang Chen | Cai Chengwei | Lose | B+R | 7.5 | 2494 | 0 | 
+| 2017-06-16 | 2017年中国囲碁丙級リーグ | Cai Chengwei |  | Win | B+R | 7.5 | 2494 | 0 | 
+| 2017-06-16 | 2017年中国囲碁丙級リーグ | Cai Chengwei |  | Lose | W+R | 7.5 | 2494 | 0 | 
+| 2017-06-16 | 2017年中国囲碁丙級リーグ | Sun Tengyu | Cai Chengwei | Lose | B+R | 7.5 | 2494 | 0 | 
+| 2017-06-16 | 2017年中国囲碁丙級リーグ | Cai Chengwei |  | Win | B+R | 7.5 | 2494 | 0 | 
+| 2017-06-16 | 2017年中国囲碁丙級リーグ | Yu Qingquan | Cai Chengwei | Win | W+R | 7.5 | 2494 | 0 | 
+| 2017-06-16 | 2017年中国囲碁丙級リーグ | Cai Chengwei |  | Lose | W+R | 7.5 | 2494 | -28 | 
+| 2017-06-15 | 2017年中国囲碁丙級リーグ | Yu Qingquan | Cai Chengwei | Win | W+R | 7.5 | 2522 | -1 | 
+| 2017-06-13 | 2017年中国囲碁丙級リーグ | Cai Chengwei |  | Win | B+R | 7.5 | 2523 | -2 | 
+| 2017-06-12 | 2017年中国囲碁丙級リーグ |  | Cai Chengwei | Lose | B+R | 7.5 | 2525 | 0 | 
+| 2017-06-11 | 2017年中国囲碁丙級リーグ | Cai Chengwei |  | Lose | W+R | 7.5 | 2525 | -27 | 
+| 2017-06-09 | 2017年中国囲碁丙級リーグ | Cai Chengwei |  | Win | B+R | 7.5 | 2552 | -7 | 
+| 2017-06-08 | 2017年中国囲碁丙級リーグ | Wang Chen | Cai Chengwei | Lose | B+R | 7.5 | 2559 | 11 | 
+| 2017-06-02 | 第7期友士杯十段戦敗者復活戦1回戦 | Cai Chengwei | Li Wei | Lose | W+R | 6.5 | 2548 | -16 | 
+| 2017-05-31 | 第7期友士杯十段戦1回戦 | Hei Jiajia | Cai Chengwei | Lose | B+6.5 | 6.5 | 2564 | -44 | 
+| 2017-05-23 | 2017年利民杯台湾選抜戦 | Cai Chengwei | Lai Junfu | Lose | W+R | 7.5 | 2608 | 35 | 
+| 2017-05-05 | 第十六期天元戦リーグ戦第七局 | Lai Junfu | Cai Chengwei | Lose | B+R | 6.5 | 2573 | -5 | 
+| 2017-05-02 | 第十六期天元戦リーグ戦第六局 | Cai Chengwei | Xu Yuqi | Win | B+4.5 | 6.5 | 2578 | 9 | 
+| 2017-04-28 | 第十六期天元戦リーグ戦第五局 | Cai Chengwei | Lin Shixun | Lose | W+F | 6.5 | 2569 | 5 | 
+| 2017-04-24 | 第十六期天元戦リーグ戦第四局 補戦 | Xiao Zhenghao | Cai Chengwei | Lose | B+R | 6.5 | 2564 | -9 | 
+| 2017-04-21 | 第十六期天元戦リーグ戦第三局 | Cai Chengwei | Lin Junyan | Win | B+R | 6.5 | 2573 | 65 | 
+| 2017-04-18 | 第十六期天元戦リーグ戦第二局 | Lin Lixiang | Cai Chengwei | Lose | B+R | 6.5 | 2508 | -14 | 
+| 2017-04-11 | 第十六期天元挑戦手合リーグ戦第一局補戦 | Chen Shiyuan | Cai Chengwei | Lose | B+R | 6.5 | 2522 | 77 | 
+| 2017-03-16 | 第9回海峰杯プロ囲碁戦16強戦 | Cai Chengwei | Lin Junyan | Lose | W+R | 6.5 | 2445 | -20 | 
+| 2017-03-13 | 第9回海峰杯プロ囲碁戦32強戦 | Zhang Zhengping | Cai Chengwei | Win | W+5.5 | 6.5 | 2465 | -10 | 
+| 2017-03-09 | 第9回海峰杯プロ囲碁戦64強戦 |  | Cai Chengwei | Win | W+R | 6.5 | 2475 | 2 | 
+| 2017-03-02 | 第十四期倡棋盃台湾代表選抜戦初戦第三局 | Cai Chengwei | Xu Yuqi | Win | B+3點 | 7.5 | 2473 | 0 | 
+| 2017-03-02 | 第十四期倡棋盃台湾代表選抜戦決勝第二局 | Cai Chengwei | Lai Junfu | Lose | W+3點 | 7.5 | 2473 | 59 | 
+| 2017-02-02 | 第三期MLILIY夢百合杯台湾代表選抜戦 初戦 | Lai Junfu | Cai Chengwei | Lose | B+R | 7.5 | 2414 | -113 | 
+| 2017-01-21 | 2017年日台精鋭交流戦第6戦 | Cai Chengwei | Kaneko Maki | Win | B+R | 6.5 | 2527 | 0 | 
+| 2017-01-21 | 台湾精鋭日本精鋭交流戦5回戦 | Hirose Yuichi | Cai Chengwei | Lose | B+R | 6.5 | 2527 | -29 | 
+| 2017-01-20 | 台湾精鋭日本精鋭交流戦4回戦 | Cai Chengwei | Kuwabara Shun | Lose | W+R | 6.5 | 2556 | -41 | 
+| 2017-01-19 | 台湾精鋭日本精鋭交流戦2回戦 | Cai Chengwei | Chang Rueijie | Lose | W+R | 6.5 | 2597 | -51 | 
+| 2016-11-26 | 第2期未来の星新鋭最強戦台湾予選 | Lai Junfu | Cai Chengwei | Lose | B+R | 6.5 | 2648 | -18 | 
+| 2016-11-21 | 第9期棋王戦（台湾）リーグ | Cai Chengwei | Lin Lixiang | Lose | W+R | 6.5 | 2666 | -7 | 
+| 2016-11-17 | 第9期棋王戦（台湾）リーグ | Cai Chengwei | Lai Junfu | Lose | W+R | 6.5 | 2673 | -39 | 
+| 2016-11-14 | 第9期棋王戦（台湾）リーグ | Cai Chengwei | Chen Shiyuan | Lose | W+2.5 | 6.5 | 2712 | -59 | 
+| 2016-11-10 | 第9期棋王戦（台湾）リーグ | Cai Chengwei | Lin Junyan | Lose | W+R | 6.5 | 2771 | -60 | 
+| 2016-11-03 | 第9期棋王戦（台湾）リーグ | Cai Chengwei | Lin Shuyang | Win | B+R | 6.5 | 2831 | 65 | 
+| 2016-10-27 | 第9期棋王戦（台湾）リーグ | Cai Chengwei | Chen Qirui | Win | B+R | 6.5 | 2766 | 48 | 
+| 2016-10-24 | 第9期棋王戦（台湾）リーグ | Wang Yuanjun | Cai Chengwei | Lose | B+R | 6.5 | 2718 | -65 | 
+| 2016-06-01 | 第6期友士杯十段戦予選 | Cai Chengwei | Chen Xi | Lose | W+R | 6.5 | 2783 | -43 | 
+| 2016-05-30 | 第6期友士杯十段戦予選 | Cai Chengwei | Lin Tingyi | Win | B+R | 6.5 | 2826 | 38 | 
+| 2016-05-20 | 第6期友士杯十段戦予選 | Cai Chengwei | Ding Shaojie | Win | B+R | 6.5 | 2788 | 0 | 
+| 2016-05-20 | 第6期友士杯十段戦予選 |  | Cai Chengwei | Win | W+6.5 | 6.5 | 2788 | 88 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Cai Chengwei |  | Lose | W+R | 6.5 | 2700 | 0 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Cai Chengwei | Xiao Ailin | Win | B+R | 6.5 | 2700 | -52 | 
+| 2016-04-14 | 第8回海峰杯プロ囲碁戦8強戦 | Cai Chengwei | Lin Junyan | Lose | W+R | 6.5 | 2752 | -94 | 
+| 2016-04-11 | 第8回海峰杯プロ囲碁戦16強戦 | Cai Chengwei | Xu Haohong | Win | B+R | 6.5 | 2846 | 108 | 
+| 2016-03-21 | 第8回海峰杯プロ囲碁戦32強戦 | Cai Chengwei | Lai Junfu | Win | B+R | 6.5 | 2738 | 67 | 
+| 2016-03-07 | 第8回海峰杯プロ囲碁戦64強戦 |  | Cai Chengwei | Win | W+5.5 | 6.5 | 2671 | -74 | 
+| 2016-01-28 | 2016年日台精鋭交流戦第2戦 | Murakawa Daisuke | Cai Chengwei | Win | W+0.5 | 6.5 | 2745 | 113 | 
+| 2015-12-31 | 第8回応氏杯世界選手権台湾選抜戦 | Cai Chengwei | Lin Lixiang | Lose | W+R | 7.5 | 2632 | 2632 | 
+| 2015-03-05 | 第7回海峰杯プロ囲碁戦64強戦 | Lin Yuxiang | Cai Chengwei | Lose | B+0.5 | 6.5 | missing | -3076 | 
+| 2015-02-13 | 2015年日台精鋭交流戦第6戦 | Cai Chengwei | Sotoyanagi Sebun | Win | B+7.5 | 6.5 | 3076 | 0 | 
+| 2015-02-13 | 2015年日台精鋭交流戦第5戦 | Cai Chengwei | Numadate Sakiya | Win | B+R | 6.5 | 3076 | 3076 | 
+| 2014-03-03 | 第6回海峰杯プロ囲碁戦64強戦 | Xiao Zhenghao | Cai Chengwei | Lose | B+R | 6.5 | missing | 0 | 
+| 2014-02-13 | 第6回海峰杯プロ囲碁戦64強決定戦 | Zhao Peizhe | Cai Chengwei | Win | W+R | 6.5 | missing | missing |
 
 
 

@@ -5,686 +5,687 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第60期十段戦予選 | Hashimoto Yujiro | Cho Chikun | B+R | 2021-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6TmPKZ%2FxPyn6xgnq9qciNQ%3D%3D) | 
-| 第46期棋聖戦予選 | Hirata Tomoya | Cho Chikun | B+R | 2021-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qudwYltN%2B9H9vF6PlmTgog%3D%3D) | 
-| 第69期王座戦予選 | Mochizuki Kenichi | Cho Chikun | B+R | 2021-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xdJqtMNIWf5kzbhinqpj0A%3D%3D) | 
-| 第46期棋聖戦予選 | Cho Chikun | missing | B+R | 2021-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tCI%2BMDW32KL%2BSDP%2FwMsktw%3D%3D) | 
-| 第69期王座戦予選 | Seki Kotaro | Cho Chikun | W+3.5 | 2021-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HI65JDuoJ8o%2BxxIx0RRBVw%3D%3D) | 
-| 第47期天元戦予選 | Cho Chikun | Kataoka Satoshi | B+R | 2020-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Iov3mEYf97bBIUB%2B27pQgw%3D%3D) | 
-| 第47期天元戦予選 | Sun Zhe | Cho Chikun | W+R | 2020-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xoz5lgs%2BrIuTuetkIFXnIw%3D%3D) | 
-| 第46期碁聖戦予選 | Cho Chikun | Yoda Norimoto | W+R | 2020-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h9R7DgfeaqR19IaWvbaZaQ%3D%3D) | 
-| 第46期碁聖戦予選 | Anzai Nobuaki | Cho Chikun | W+R | 2020-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sOWy7EhtXGTWuXvuOyXKdg%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Cho Riyu | Cho Chikun | B+R | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fZii7cB%2Fv0C%2Fx38QJx7%2FJw%3D%3D) | 
-| 第47期天元戦予選 | missing | Cho Chikun | W+R | 2020-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VPXzF5ftiJAkV%2BnPlDaQ7w%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Cho Chikun | O Meien | W+R | 2020-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9uTHzyBFU0xLmYxEIlps5g%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Cho Chikun | Hong Seokui | W+R | 2020-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fvx3D%2BWpeG71Wuas2MYo%2Fg%3D%3D) | 
-| 第46期名人戦予選 | Mimura Tomoyasu | Cho Chikun | B+2.5 | 2020-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4OmraanSysfXD06Ia81x%2BQ%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Goto Shungo | Cho Chikun | W+R | 2020-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y%2BHSHpn%2FKdA7Im9qMQhcBg%3D%3D) | 
-| 第46期名人戦予選 | Cho Chikun | Han Zenki | B+5.5 | 2020-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Z69HTerUAH%2Fa3k5rll37w%3D%3D) | 
-| 第46期名人戦予選 | O Rissei | Cho Chikun | W+2.5 | 2020-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5IqBM1K47PPKJ3RV0Ly3aw%3D%3D) | 
-| 第45期棋聖戦Cリーグ | Kiyonari Tetsuya | Cho Chikun | W+R | 2020-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ffqpeOdhJNHiHO37EVY1Sg%3D%3D) | 
-| 第46期碁聖戦予選 | Cho Chikun | Kamimura Haruo | B+R | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WNg5fpAeKbYv4ZyCqU%2BdmA%3D%3D) | 
-| 第76期本因坊戦予選 | Cho Chikun | O Meien | W+R | 2020-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QVT9hHN11lxqB8%2BIiKyBrg%3D%3D) | 
-| 2020シニアvs女子囲碁リーグチャンピオンズカップ第2戦第1局 | Oh Yujin | Cho Chikun | W+R | 2020-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=63Ib2a0XE%2Bvgt%2FJnRiTuCQ%3D%3D) | 
-| 2020シニアvs女子囲碁リーグチャンピオンズカップ第1戦第1局 | Cho Chikun | Oh Yujin | W+R | 2020-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dbs30NivdghWNYWzPrj7Ow%3D%3D) | 
-| 第68期王座戦予選 | Cho Chikun | Hirata Tomoya | W+R | 2020-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yo0iTKxc9oesxDzTIRkD7Q%3D%3D) | 
-| 2019NHシニア囲碁リーグチャンピオン決定戦第2戦第1局 | Kim JongJoon | Cho Chikun | W+R | 2019-12-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t1e6wm50k1NKTJhh8Elj5A%3D%3D) | 
-| 2019NHシニア囲碁リーグチャンピオン決定戦第1戦第1局 | Cho Chikun | Seo Bongsoo | B+R | 2019-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WjhIkIjQsGNVHWMGTkjJVA%3D%3D) | 
-| 2019NHシニア囲碁リーグ第14節第4試合第3局 | Cho Chikun | Cho Daehyeon | B+T | 2019-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wy46wFVtE1wHVhT5u%2B%2FzcQ%3D%3D) | 
-| 2019NHシニア囲碁リーグ第13節第4試合第2局 | Cho Chikun | Park Yeongchan | B+R | 2019-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wxX5ql3auyy1UojAopGoqQ%3D%3D) | 
-| 2019NHシニア囲碁リーグ第12節第3試合第2局 | Cho Chikun | Jeong Daesang | B+R | 2019-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SSfZ4n%2FQ7ajghozWB6PTQQ%3D%3D) | 
-| 2019NHシニア囲碁リーグ第11節第2試合第3局 | Cho Chikun | Kim Dongyeop | B+6.5 | 2019-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RBn4G%2FJXxuV%2F0XkHSWLL7A%3D%3D) | 
-| 2019NHシニア囲碁リーグ第10節第2試合第1局 | Cho Chikun | Park Seungmun | B+12.5 | 2019-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pipVTu1zrZl2LTX4hCtW5w%3D%3D) | 
-| 第59期十段戦予選 | Han Zenki | Cho Chikun | B+R | 2019-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JtvqrhFWWCLQfbhTodlOlA%3D%3D) | 
-| 2019NHシニア囲碁リーグ第9節第1試合第2局 | Cho Chikun | Moon Myunggun | B+R | 2019-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2BO6faCgCPPL45qBC5l5kA%3D%3D) | 
-| 2019NHシニア囲碁リーグ第8節第3試合第2局 | Kim Dongmyeon | Cho Chikun | W+R | 2019-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HfFcREWhrnyKbhX4tVhJrg%3D%3D) | 
-| 2019NHシニア囲碁リーグ第7節第1試合第1局 | Seo Bongsoo | Cho Chikun | W+R | 2019-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mgTwu0CTpNuQkkLmmYll5g%3D%3D) | 
-| 2019NHシニア囲碁リーグ第5節第2試合第1局 | Cho Chikun | Jeong Daesang | B+R | 2019-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bg2V%2BfLEjn%2F%2BndRCGpyPOA%3D%3D) | 
-| 2019NHシニア囲碁リーグ第4節第3試合第3局 | Cho Chikun | Kim Dongyeop | B+4.5 | 2019-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OGJX%2BhgDnNz47JV8EO%2FqkA%3D%3D) | 
-| 第68期王座戦予選 | Yo Kaei | Cho Chikun | W+8.5 | 2019-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fjx4SANB3CneTYN9j0ZUnw%3D%3D) | 
-| 第59期十段戦予選 | Mitsunaga Junzo | Cho Chikun | W+0.5 | 2019-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dgYpD5xRdtDdKcsjRUXu8A%3D%3D) | 
-| 2019NHシニア囲碁リーグ第1節第2試合第3局 | Cho Chikun | Kim Dongmyeon | B+R | 2019-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YAp9EqifX2OVE%2FwjjA7YcQ%3D%3D) | 
-| 第59期十段戦予選 | Takekiyo Isamu | Cho Chikun | W+7.5 | 2019-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=06acOrvV6G9%2BwvCATrkJvA%3D%3D) | 
-| 第46期天元戦予選 | Cho Chikun | Ueno Asami | W+R | 2019-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Qx1rjtAjzeuL9wbHHRVdw%3D%3D) | 
-| 第59期十段戦予選 | Cho Chikun | Chinen Kaori | B+R | 2019-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L7nHQrGIOr%2BeZKpHjPowMg%3D%3D) | 
-| 第45期碁聖戦予選 | Koike Yoshihiro | Cho Chikun | B+R | 2019-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WpVFj3sbvoy7DQ1NXFadcQ%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Motoki Katsuya | Cho Chikun | B+R | 2019-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NxThh9%2BTmZHOhD50k4J7Vw%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Cho Chikun | Adachi Toshimasa | W+R | 2019-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KAnFCKqknNk8wYSPEFuyPw%3D%3D) | 
-| 第9回フマキラー囲碁マスターズカップ決勝  | Cho Chikun | Komatsu Hideki | B+R | 2019-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KCvXp39sh6TX8RlES3o%2BPA%3D%3D) | 
-| 第45期名人戦予選 | Cho Chikun | Hirata Tomoya | W+0.5 | 2019-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hHvQ1Wz8We4wqzc8qVPxtw%3D%3D) | 
-| 第9回フマキラー囲碁マスターズカップ準決勝  | Kobayashi Koichi | Cho Chikun | W+R | 2019-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LQyi0GvRLF8PU8Ukjkhtsg%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Han Zenki | Cho Chikun | B+1.5 | 2019-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cn68VMRGtOOKMDj7C%2FCzlg%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Takemiya Masaki | Cho Chikun | B+R | 2019-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mZSLkzvtMC4t55HhMxJBmQ%3D%3D) | 
-| 第9回フマキラー囲碁マスターズカップ2回戦 | Yamashiro Hiroshi | Cho Chikun | W+R | 2019-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w0Ca3JZguNh3kvnn6GUzxQ%3D%3D) | 
-| 第75期本因坊戦予選 | Cho Chikun | Shuto Shun | W+R | 2019-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HLjHaVX5NKuGOsdGe7f0Mg%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Cho Chikun | Ko Iso | B+R | 2019-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0KuPcvVQIYn%2F0TP4dnUWmw%3D%3D) | 
-| 第9回フマキラー囲碁マスターズカップ1回戦 | Cho Chikun | Kudo Norio | B+R | 2019-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pSKMOC8EC6%2FrA9VO7IL9qg%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Cho Chikun | O Meien | W+R | 2019-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NeVRHModZvV3pwRrUmOgGQ%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Yamada Kimio | Cho Chikun | B+R | 2019-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vWQokp39ENWa6j2HpIGBiA%3D%3D) | 
-| 第75期本因坊戦予選 | Kurotaki Masaki | Cho Chikun | W+R | 2019-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o9Ta57b94BFs7EExzzj2dg%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Cho Chikun | Terayama Rei | B+3.5 | 2019-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zkE3MO0SUndHO0NHZFqYfw%3D%3D) | 
-| 2018年シニアvs女子囲碁リーグチャンピオンズカップ第2戦 | Choi Jeong | Cho Chikun | B+1.5 | 2019-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d1J0HF4crnLWuqGEuPsZbA%3D%3D) | 
-| 2018年シニアvs女子囲碁リーグチャンピオンズカップ第1戦 | Choi Jeong | Cho Chikun | B+13.5 | 2019-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NufVBk6BMZlT7nXnWiuyVA%3D%3D) | 
-| 第20回マキシムコーヒー杯入神最強戦1回戦 | Cho Chikun | Lee Yeongkyu | W+2.5 | 2019-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rsKBnKC9ZgJGnvY%2FKEcdXA%3D%3D) | 
-| 第75期本因坊戦予選 | Kanda Ei | Cho Chikun | W+R | 2018-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d2sVZ2ffYpLKc%2FfZHYwIhg%3D%3D) | 
-| 第67期王座戦予選 | Cho Chikun | Akiyama Jiro | W+R | 2018-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0MArQwzCGn%2BeBAW%2B6HsLoA%3D%3D) | 
-| 第44期碁聖戦本戦1回戦 | Cho Chikun | Ko Iso | W+11.5 | 2018-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UE8MtLm1LH9GjqHQncOBDw%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ決勝第2戦釜山-尚州 | Paek Seongho | Cho Chikun | W+5.5 | 2018-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t5DlavFd9l1OI1EYH7wCnA%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ決勝第1戦釜山-尚州 | Cho Chikun | Kim Kihun | B+2.5 | 2018-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BX%2BwyfJwDZDxqu0ZFnCWUQ%3D%3D) | 
-| 第58期十段戦予選 | Cho Chikun | Fujita Akihiko | W+0.5 | 2018-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rTNSt5zMWBZANS1sBYOWTA%3D%3D) | 
-| 第45期天元戦予選 | Cho Chikun | Nishimura Keiji | B+R | 2018-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rvd8QcreIBw4O2YEXyCtgg%3D%3D) | 
-| 第58期十段戦予選 | Cho Chikun | Seki Tatsuya | B+R | 2018-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BpEmfi4%2BxbgVKvaslME4Mw%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第14節釜山-尚州 | Lee Kisup | Cho Chikun | W+R | 2018-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oynG3zVKZHUzESJT%2BRAmAw%3D%3D) | 
-| 第44期碁聖戦予選 | Kazama Jun | Cho Chikun | W+R | 2018-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EqIVZexDpC4fMM8Ds7DjEA%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第13節烏鹭-釜山 | Jeong Daesang | Cho Chikun | W+R | 2018-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5oxYoDmbXZ90aGDsXsOZOg%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Murakawa Daisuke | Cho Chikun | B+R | 2018-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KZn52%2BU%2BgBNVqNII0M7a3g%3D%3D) | 
-| 第58期十段戦予選 | Cho Chikun | Hagiya Kazuhiro | B+R | 2018-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gMESYrO5Tb0QbsuOt5bFkw%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第12節陰城-釜山 | Jimmy Cha | Cho Chikun | W+R | 2018-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V3eeFEDaw5QyPOdycCKNUA%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Cho Chikun | Kobayashi Satoru | B+R | 2018-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c90UQmKu%2BC3Avg3aPRi1YQ%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第10節霊岩-釜山 | Oh Kyuchul | Cho Chikun | W+R | 2018-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VnuB3QB0qduyB70cBPtq6A%3D%3D) | 
-| 第44期名人戦予選 | Kanazawa Hideo | Cho Chikun | B+R | 2018-08-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k7uaZptdHQB1Ag4sZ162%2FQ%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第8節三陟-釜山 | Cho Chikun | Park Seungmun | B+6.5 | 2018-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bgm0EUSwHaJclSE%2FoMCoJQ%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Ko Iso | Cho Chikun | W+R | 2018-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qyd0xd5%2BLbmd4tIJZswukw%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第7節釜山-尚州 | Paek Seongho | Cho Chikun | B+2.5 | 2018-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PXaziKbpnFcne3aLdKn%2B%2Fw%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第6節烏鹭-釜山 | Seo Nungwuk | Cho Chikun | W+R | 2018-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F2X4iJFOU8evGfDjoDVbiQ%3D%3D) | 
-| 第44期名人戦予選 | Mimura Tomoyasu | Cho Chikun | W+R | 2018-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lafA0yHFOY1iZOpB4m0oqw%3D%3D) | 
-| 第8回フマキラー囲碁マスターズカップ準決勝  | Cho Chikun | Kataoka Satoshi | W+R | 2018-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XMFDbHAgUEUt8TrIAeJc2g%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第4節富川-釜山 | Cho Chikun | An Kwanwuk | B+4.5 | 2018-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lF5XSrT9Q22oGyvDtUgKTg%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第3節霊岩-釜山 | Oh Kyuchul | Cho Chikun | W+R | 2018-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jk7MTCXVxUzQm%2FwiZ5GC3A%3D%3D) | 
-| 第8回フマキラー囲碁マスターズカップ2回戦  | Cho Chikun | O Meien | B+2.5 | 2018-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Msjutf%2BqPe1KgxucrbteA%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第1節三陟-釜山 | Cho Daehyeon | Cho Chikun | W+R | 2018-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=moNUW6jPaTgLZ9HVABGA1A%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Cho Chikun | Shida Tatsuya | B+R | 2018-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fasSE71bYGFi8G9NImye0g%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Cho Chikun | So Yokoku | W+R | 2018-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jp7obkrZwWQAkRCX8uTAXA%3D%3D) | 
-| 第8回フマキラー囲碁マスターズカップ1回戦  | Kudo Norio | Cho Chikun | W+R | 2018-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q66ZcwlUaarY5EYYv61BkQ%3D%3D) | 
-| 第74期本因坊戦予選 | Sakai Takeshi | Cho Chikun | B+R | 2018-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rspxxtOgplAVKKajBSFQxw%3D%3D) | 
-| 第5回大舟杯プロシニア最強者戦決勝 | Cho Hyeyeon | Cho Chikun | W+R | 2018-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QJD0qiUzTvalJG%2BKxH0h5Q%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Cho Chikun | Yu Zhengqi | W+R | 2018-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ng79f2gVrKb4qJpz3qoHzQ%3D%3D) | 
-| 第5回大舟杯プロシニア最強者戦準決勝 | Seo Nungwuk | Cho Chikun | W+5.5 | 2018-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qtty9rwBsJ54zdSynabALA%3D%3D) | 
-| 囲碁電王戦FINAL第3局 | DeepZenGo | Cho Chikun | B+R | 2018-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xlpngxXKhhvTVPGvwVbzwQ%3D%3D) | 
-| 第5回大舟杯プロシニア最強者戦2回戦 | Lee Minjin | Cho Chikun | W+15.5 | 2018-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0wCbvlQRAkuhLC58Qrn1PA%3D%3D) | 
-| 第5回大舟杯プロシニア最強者戦1回戦 | Kim Hyeoimin | Cho Chikun | W+R | 2018-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cTMJJ82mLByD5VHzIDFDug%3D%3D) | 
-| 第44期天元戦1回戦 | Cho Chikun | Sato Yuta | W+R | 2018-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R8kbVioeOoob4yFgAQu8zA%3D%3D) | 
-| 2017年シニアvs女流チャンピオンズカップ第2戦 | Cho Hyeyeon | Cho Chikun | B+0.5 | 2018-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZTRxDdQYPm52rb6ZlY6%2B6w%3D%3D) | 
-| 2017年シニアvs女流チャンピオンズカップ第1戦 | Kim Cheayoung | Cho Chikun | B+3.5 | 2018-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JTwMkLN4nEu7Rm%2BIXzeeLg%3D%3D) | 
-| 第66期王座戦予選 | Cho Sonjin | Cho Chikun | B+R | 2017-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S%2BMWZR6pCc7QhcalX%2FrRMw%3D%3D) | 
-| 第57期十段戦予選 | Cho Chikun | Shiraishi Yuichi | W+R | 2017-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wInf%2B1r5I%2FTW58552XCJLA%3D%3D) | 
-| 第2回韓国シニア囲碁リーグチャンピオンシップ釜山-尚州第2戦 | Paek Seongho | Cho Chikun | W+R | 2017-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7a4ycE46kuu5YddiObQ%2BZg%3D%3D) | 
-| 第43期碁聖戦本戦1回戦 | Cho Chikun | Ryu Shikun | W+R | 2017-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sLFXk1eXM6h5HU9LiuJYIA%3D%3D) | 
-| 第2回韓国元老連戦14回戦尚州-釜山 | Kim Kihun | Cho Chikun | B+T | 2017-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3D9SSr5Cf%2FOKApAmgkfH0w%3D%3D) | 
-| 2回韓国元老連戦13回戦三陟-釜山 | Cho Chikun | missing | B+R | 2017-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j14%2F5h2sSfhS%2BDsazUrG%2Bg%3D%3D) | 
-| 第43期名人戦最終予選 | Cho Chikun | Shibano Toramaru | W+6.5 | 2017-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FEqBrd4o7OXFhCMDujO0EA%3D%3D) | 
-| 2回韓国元老連戦11回戦霊岩-釜山 | Oh Kyuchul | Cho Chikun | W+5.5 | 2017-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q%2BQ%2BjQjqvZpj6K%2FfJb4tMQ%3D%3D) | 
-| 2回韓国元老連戦10回戦陰城-釜山 | Cho Chikun | Hwang Weonjun | B+R | 2017-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8RowZUoF66Zi2rd30xOSFQ%3D%3D) | 
-| 第43期名人戦　最終予選1回戦 | Yukawa Mitsuhisa | Cho Chikun | W+R | 2017-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8EUHAb6UtAlEp6IV5jsu0Q%3D%3D) | 
-| 第43期名人戦　予選A決勝 | Numadate Sakiya | Cho Chikun | W+R | 2017-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FYZZHxHfgI9VlwUbphEl7Q%3D%3D) | 
-| 第42期棋聖戦　Aリーグ7回戦 | Yamashiro Hiroshi | Cho Chikun | W+R | 2017-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p1NWWvAZaW6XnWOsSlQK9w%3D%3D) | 
-| 2回韓国元老連戦5回戦烏鹭-浦項 | Jeong Daesang | Cho Chikun | W+R | 2017-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QQmovwEiXgBllatj7YDa3Q%3D%3D) | 
-| 第43期名人戦　予選A | Rin Shien | Cho Chikun | W+R | 2017-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GUqyxxgPiiXBu0lUO50LQw%3D%3D) | 
-| 第66期王座戦　予選B決勝 | Sakai Maki | Cho Chikun | W+3.5 | 2017-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o76VKw0NGrt%2BhGBjIXut%2BA%3D%3D) | 
-| 2回韓国元老連戦3回戦陰城-釜山 | Cho Chikun | Kim Dongyeop | B+4.5 | 2017-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A0BwmlawoQ4cdP1jjBUp6A%3D%3D) | 
-| 2回韓国元老連戦2回戦富川-釜山 | Cho Chikun | An Kwanwuk | B+R | 2017-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6Zvf1FIFY7eK%2BLkZRYfmoQ%3D%3D) | 
-| 第43期天元戦準決勝 | Ichiriki Ryo | Cho Chikun | B+R | 2017-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F8hGnh21Ahkpl3YNP6nDjQ%3D%3D) | 
-| 第7回フマキラー囲碁マスターズカップ　決勝 | Kobayashi Satoru | Cho Chikun | B+0.5 | 2017-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PagkVa8jEJYzruPho%2Bn8AQ%3D%3D) | 
-| 第42期棋聖戦　Aリーグ6回戦 | Cho Chikun | Hsu Chiayuan | W+R | 2017-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nHVPC16ma2E8xZOlaXhemg%3D%3D) | 
-| 第24期阿含・桐山杯　本戦1回戦 | Cho Chikun | Horimoto Mitsunari | B+R | 2017-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dcTeS7VM3lwhDqp2uNM28Q%3D%3D) | 
-| 第7回フマキラー囲碁マスターズカップ　準決勝 | Cho Chikun | O Rissei | B+R | 2017-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FBzBccWOMD1yKDgz%2F4LqBg%3D%3D) | 
-| 第42期棋聖戦　Aリーグ5回戦 | Cho Chikun | Ryu Shikun | B+R | 2017-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FFLJWIGuc6Qede4Jjs4KVw%3D%3D) | 
-| 第42期棋聖戦　Aリーグ4回戦 | Cho Chikun | Yuki Satoshi | B+R | 2017-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AY9aAkuz8Myu52IwO5PTrg%3D%3D) | 
-| 第43期天元戦　準々決勝第1局 | Cho Chikun | Takei Takashi | B+R | 2017-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uRSkUBRHQZSHZHosvH3AVw%3D%3D) | 
-| 第42期棋聖戦　Aリーグ3回戦 | Takao Shinji | Cho Chikun | B+R | 2017-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9QYYWRaymziIfUsqrDi3FA%3D%3D) | 
-| 第24期阿含・桐山杯　最終予選決勝 | Cho Chikun | Hoshino Masaki | B+10.5 | 2017-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fLx%2FmdCCWYPedsMPIoUzrQ%3D%3D) | 
-| 第7回囲碁マスターズカップ　本戦2回戦 | Kataoka Satoshi | Cho Chikun | W+R | 2017-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UPQ3VEPQ8jCzLsLrDjV2QQ%3D%3D) | 
-| 第42期棋聖戦　Aリーグ2回戦 | Hane Naoki | Cho Chikun | W+R | 2017-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OJt8dGK691HV5HXXvO8upg%3D%3D) | 
-| 第73期本因坊戦　予選A決勝 | Cho Chikun | So Yokoku | W+R | 2017-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CH3fskJGirBfn4%2FDeSvblg%3D%3D) | 
-| 第43期天元戦　本戦2回戦第3局 | Kim Sujun | Cho Chikun | W+1.5 | 2017-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TjLGkn2KKh%2B40qLn6VKfpA%3D%3D) | 
-| 第7回マスターズカップ　本戦1回戦 | Hane Yasumasa | Cho Chikun | W+R | 2017-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ngbjOPiq4GOfUGTK3Vf3zQ%3D%3D) | 
-| 第42期棋聖戦　Aリーグ1回戦 | Cho Chikun | Yoda Norimoto | B+R | 2017-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sqWI8QzEB6XGFUyXBpKCNA%3D%3D) | 
-| 第73期本因坊戦　予選A | Onishi Ryuhei | Cho Chikun | W+R | 2017-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5C7UADSy1RFTimbL7MMXIg%3D%3D) | 
-| 第4回グランドチャンピオン戦　2回戦 | Xie Yimin | Cho Chikun | B+R | 2017-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AOsMoxcAFoJlh%2FZvOzJZxA%3D%3D) | 
-| 第43期天元戦　本戦1回戦第14局 | Cho Chikun | Sonoda Yuichi | B+0.5 | 2017-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J2lbCfs3p3blLHz0ffNFnw%3D%3D) | 
-| 第73期本因坊戦　予選B決勝 | Cho Chikun | Xie Yimin | B+6.5 | 2017-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gn0U%2FYFmyA%2FEcOBNR4oCKA%3D%3D) | 
-| 第56期十段戦　予選A | Cho Chikun | Kanazawa Hideo | W+5.5 | 2017-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bQ%2BoEIhQxD%2BBKTRULLWaAg%3D%3D) | 
-| 第2回囲碁電王戦第3局 | Cho Chikun | DeepZenGo | B+R | 2016-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r7mjlW8GIjp5z0EKPJ4o6A%3D%3D) | 
-| 第2回囲碁電王戦第2局 | DeepZenGo | Cho Chikun | B+R | 2016-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1pVR88x5YdnRjbZk3%2FCMGg%3D%3D) | 
-| 第2回囲碁電王戦第1局 | Cho Chikun | DeepZenGo | B+R | 2016-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0T3E5P1yN50VSYKe4EC%2BPg%3D%3D) | 
-| 第43期天元戦　予選A第1局 | Cho Chikun | Hirata Tomoya | B+2.5 | 2016-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DHpk89nvblwVBuU6XtoObA%3D%3D) | 
-| 第65期王座戦　予選A特選譜第4局 | Cho Chikun | Yamashiro Hiroshi | W+R | 2016-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FDnsqdFrCdi1gTu%2FiE1TUg%3D%3D) | 
-| 第55期十段戦　最終予選決勝 | Ichiriki Ryo | Cho Chikun | B+R | 2016-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZC6Mq9jg%2BVm%2B4TmxrfYO2Q%3D%3D) | 
-| 第43期天元戦予選 | Cho Chikun | Hashimoto Yujiro | B+R | 2016-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8FJeM%2BFxBCEF7IkYcIcn%2FA%3D%3D) | 
-| 第23期日本阿含桐山杯決勝 | Cho Chikun | Kono Rin | W+0.5 | 2016-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f%2B0A4dfnOPRgGbFkfV3OSA%3D%3D) | 
-| 第42期名人戦最終予選 | Cho Chikun | Adachi Toshimasa | W+R | 2016-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MN7YhRi%2BebuOO77JqK5dJg%3D%3D) | 
-| 第55期十段戦最終予選 | Cho Chikun | Yamamori Tadanao | B+R | 2016-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tdz6%2Fp66V7NUbdES%2BruCNQ%3D%3D) | 
-| 第41期棋聖戦Bリーグ決勝 | Cho Chikun | Yuki Satoshi | W+R | 2016-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bJi0m1Eit3l8OGzc4Vn9jA%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦B2 | Cho Chikun | Yu Bin | W+R | 2016-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ocHk78OyqPZywR5zMC7JIQ%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦B1 | Cho Chikun | Shin Jinseo | W+R | 2016-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gaagy7%2BimXMPgzNloHcOaA%3D%3D) | 
-| 第23期阿含・桐山杯全日本早碁オープン戦準決勝 | Murakawa Daisuke | Cho Chikun | W+R | 2016-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4NExC4U9H52us1SDMD77gg%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Hsu Chiayuan | Cho Chikun | W+R | 2016-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jJqiFQEhSfCVl%2BPL6Ad3yA%3D%3D) | 
-| 第23期阿含・桐山杯全日本早碁オープン戦2回戦 | Suzuki Shinji | Cho Chikun | W+R | 2016-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NjYHDk8i4T9c09vi0Hajog%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Cho Chikun | O Meien | W+R | 2016-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ED89SJFRuVXN%2BX91BnDfRA%3D%3D) | 
-| 第42期名人戦予選 | Cho Chikun | Hoshino Masaki | B+R | 2016-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YRgWb7CLeUqsMAU%2FqpBReg%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Cho Chikun | Ida Atsushi | B+R | 2016-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SFHbDOFoCLrszyYwpLJG4Q%3D%3D) | 
-| 第42期碁聖戦予選 | Yamada Shinji | Cho Chikun | W+R | 2016-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1jFdO3aNxotUaUc0e7iuqw%3D%3D) | 
-| 第23期阿含・桐山杯全日本早碁オープン戦1回戦 | Otake Hideo | Cho Chikun | W+R | 2016-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yKeXD0Ts5G1iEztlO2vMPA%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Mizokami Tomochika | Cho Chikun | W+R | 2016-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ylvRBISqZV8HVPWbYY6wBQ%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Cho Chikun | Kim Sujun | B+R | 2016-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CmxSDiSwHg7mr8woyZRS%2FA%3D%3D) | 
-| 第42期碁聖戦予選 | Nakamura Hidehito | Cho Chikun | W+R | 2016-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k%2B9kikgXDBmHUjRwzJj39g%3D%3D) | 
-| 第23期阿含・桐山杯全日本早碁オープン戦予選 | Motoki Katsuya | Cho Chikun | W+0.5 | 2016-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kim%2FjmsJ%2BfR3JiCH9IChDg%3D%3D) | 
-| 第64期王座戦予選 | Kono Rin | Cho Chikun | B+5.5 | 2016-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9b5Hq95ZibEBgp7Q4hHMaw%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Tsuruyama Atsushi | Cho Chikun | W+R | 2016-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MQCFtJmZqjovIJlL7LUTIQ%3D%3D) | 
-| 第65回NHK杯テレビ囲碁トーナメント戦1回戦第3局 | So Yokoku | Cho Chikun | B+4.5 | 2016-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3N09j5hWCZhbE11tZlOWxw%3D%3D) | 
-| 第25期竜星戦Bブロック第11局 | Cho Chikun | Ichiriki Ryo | W+5.5 | 2016-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1MAEfHMVdkR%2BF5zrVorwaw%3D%3D) | 
-| 第41期棋聖戦Bリーグ | O Rissei | Cho Chikun | W+R | 2016-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k8t9Tb%2BJmBWTlmHgkhO9Ng%3D%3D) | 
-| 第6回フマキラー囲碁マスターズカップ1回戦 | Cho Chikun | Ishida Yoshio | W+R | 2016-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KdQhNVi%2BVz0YeMl0CC2jlA%3D%3D) | 
-| 第64期王座戦予選 | Goto Shungo | Cho Chikun | W+2.5 | 2016-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rpSB0Pxegtf9HZ7NtwP3lQ%3D%3D) | 
-| 第72期本因坊戦予選 | Cho Chikun | Cho Riyu | W+R | 2016-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ooz3m1wEzFPFU%2Bah8t7QCw%3D%3D) | 
-| 第42期天元戦予選 | Yao Zhiteng | Cho Chikun | B+R | 2015-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FcQoeFrDHCtwhL6qIoEqLg%3D%3D) | 
-| 第64期王座戦予選 | Morita Michihiro | Cho Chikun | W+R | 2015-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FRlaJ8Q1ivne3lmaS%2FO12w%3D%3D) | 
-| 第42期天元戦予選 | Cho Chikun | Onishi Kenya | B+R | 2015-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xT6jjo6vVjd%2BNBIPqiBE7Q%3D%3D) | 
-| 第64期王座戦予選 | Ishikura Noboru | Cho Chikun | W+4.5 | 2015-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AooaXejau7vT9kZQpm9j3w%3D%3D) | 
-| 第42期天元戦予選 | Cho Chikun | Kibe Natsuki | B+R | 2015-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LC1zfy%2BGMFDKico1GE66ew%3D%3D) | 
-| 第41期名人戦予選 | Hane Naoki | Cho Chikun | B+3.5 | 2015-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T1YVdwoDOvJItP%2B%2BsOp42A%3D%3D) | 
-| 第54期十段戦2回戦 | Iyama Yuta | Cho Chikun | B+R | 2015-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Km6aKMCs2ocw4Ow6B4xZtw%3D%3D) | 
-| 第41期名人戦予選 | Takeuchi Kousuke | Cho Chikun | W+R | 2015-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WYlZuNirilDBuLvTAH%2BLwA%3D%3D) | 
-| 第54期十段戦予選 | Kurahashi Masayuki | Cho Chikun | W+R | 2015-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FkBqWfkcbSEzKRz96SwvBA%3D%3D) | 
-| 第40期棋聖戦Aリーグ | Kono Rin | Cho Chikun | B+8.5 | 2015-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jAguZOzsnOT2xL8G4jGXSg%3D%3D) | 
-| 第41期名人戦予選 | Obuchi Kotaro | Cho Chikun | W+R | 2015-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zDHMD3P9cFvNgYJvgf%2B1%2BA%3D%3D) | 
-| 第40期棋聖戦Aリーグ | Cho Chikun | Ichiriki Ryo | B+2.5 | 2015-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=out7y5%2FvjVsRCw6xcUXrLw%3D%3D) | 
-| 第40期棋聖戦Aリーグ | Mizokami Tomochika | Cho Chikun | W+R | 2015-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=189hIpNIjr6pijYY59PWQA%3D%3D) | 
-| 第54期十段戦予選 | Cho Chikun | Koyama Mitsuru | B+R | 2015-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0D7DP5YHlKV4mMqYOBovqg%3D%3D) | 
-| 第40期棋聖戦Aリーグ | Cho Chikun | Cho U | W+1.5 | 2015-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WyLbJ%2FOkyKgZ%2B6Hh9dTtyg%3D%3D) | 
-| 第5回フマキラー囲碁マスターズカップ決勝 | Takemiya Masaki | Cho Chikun | W+5.5 | 2015-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ueGA9HkTm9t3TWp%2BUPZkhA%3D%3D) | 
-| 第71期本因坊戦予選 | Rin Kanketsu | Cho Chikun | B+R | 2015-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dn18dlxlQbpsaIlcoSybsA%3D%3D) | 
-| 第5回フマキラー囲碁マスターズカップ準決勝 | Kobayashi Satoru | Cho Chikun | W+R | 2015-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qnX%2BfQA2Ba1SnyWRuXd68w%3D%3D) | 
-| 第22期阿含・桐山杯全日本早碁オープン戦予選 | Cho Chikun | Shuto Shun | W+R | 2015-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oIpsv7sIDplkd8HV3aCXQw%3D%3D) | 
-| 第40期棋聖戦Aリーグ | Hane Naoki | Cho Chikun | B+R | 2015-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WIT3vvlzjIqmAx4lFBei6g%3D%3D) | 
-| 第71期本因坊戦予選 | Cho Chikun | Komatsu Hideki | B+R | 2015-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=azpHuduaElkyw%2BvWqNbhdw%3D%3D) | 
-| 第5回フマキラー囲碁マスターズカップ2回戦 | Cho Chikun | Hikosaka Naoto | B+R | 2015-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8tWxI28Qh1V0Xh4UQJ%2FHbg%3D%3D) | 
-| 第40期棋聖戦Aリーグ | Cho Riyu | Cho Chikun | B+R | 2015-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iyGS4H4FWrwIOarQjhGq2g%3D%3D) | 
-| 第5回フマキラー囲碁マスターズカップ1回戦 | Hane Yasumasa | Cho Chikun | W+R | 2015-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Eq8oEpqazHxOjLMR1Ff3AQ%3D%3D) | 
-| 第40期棋聖戦Aリーグ | Cho Chikun | Yuki Satoshi | B+R | 2015-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RcIskbLroEA1uFpRIEtRSA%3D%3D) | 
-| 第63期王座戦予選 | Cho Chikun | Mizokami Tomochika | W+1.5 | 2015-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BXxv6koxnBF982UO4oIYsA%3D%3D) | 
-| 第40期碁聖戦本戦2回戦 | Kono Rin | Cho Chikun | B+R | 2015-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qk9Lz3Pm2X6jwbPQHXbJQQ%3D%3D) | 
-| 第54期十段戦予選 | Cho Chikun | Lee Ishu | B+R | 2015-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NZj1ywRcYj1pAXd8NOrYUw%3D%3D) | 
-| 第63期王座戦予選 | Rin Shien | Cho Chikun | W+6.5 | 2015-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R9zhLiPxtXdF%2FDV%2FPBzktQ%3D%3D) | 
-| 第63期王座戦予選 | Sato Masaharu | Cho Chikun | W+R | 2015-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jZBI1Nl4VQO75C%2B38ZXpfg%3D%3D) | 
-| 第40期碁聖戦本戦1回戦 | Cho Chikun | Sada Atsushi | B+R | 2014-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RRlJ7eH4hOor4Uz%2BRwf20Q%3D%3D) | 
-| 第40期碁聖戦予選 | Cho Chikun | Konagai Masaru | B+R | 2014-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dLlZU4chr5h8XnKVUOVluQ%3D%3D) | 
-| 第39期棋聖戦Bリーグ | Murakawa Daisuke | Cho Chikun | B+3.5 | 2014-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FYMf36rar1x9b%2Fd4yZ6Pew%3D%3D) | 
-| 第53期十段戦予選 | Cho Chikun | Murakawa Daisuke | W+R | 2014-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rL73aurF1OWYF9%2BIzpCaNA%3D%3D) | 
-| 第40期名人戦予選 | Cho Chikun | Kanazawa Makoto | W+R | 2014-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b9cNxeQD6gTOJJ5Z82sq8w%3D%3D) | 
-| 第41期天元戦予選 | Cho Chikun | Hsu Chiayuan | W+R | 2014-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AYzVJC3emNfUUqF%2BeRhgJA%3D%3D) | 
-| 第40期名人戦予選 | Cho Chikun | Hirata Tomoya | B+R | 2014-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Iec5n%2FGblCwR5znSpu%2F0tA%3D%3D) | 
-| 第39期棋聖戦Bリーグ | Cho Chikun | Yoda Norimoto | W+4.5 | 2014-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UsMOixFx2ShtVhADSLcLtA%3D%3D) | 
-| 第40期名人戦予選 | Cho Chikun | Aoki Kikuyo | B+5.5 | 2014-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JV6V1TY6sCwT1QEam%2FF8FA%3D%3D) | 
-| 第4回フマキラー囲碁マスターズカップ決勝 | Cho Chikun | Kobayashi Satoru | B+6.5 | 2014-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mOhSxG3bs0lPTeidrWaDig%3D%3D) | 
-| 第39期棋聖戦Bリーグ | Cho Riyu | Cho Chikun | B+R | 2014-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=43KuSURT0pm3uhu55HiJRA%3D%3D) | 
-| 第39期棋聖戦Bリーグ | Kobayashi Satoru | Cho Chikun | B+R | 2014-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P5Nd2JVbzPJtFCEc2hhW0w%3D%3D) | 
-| 第4回フマキラー囲碁マスターズカップ準決勝 | Cho Chikun | Ishii Kunio | B+R | 2014-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qyiC6vq6ovEN%2F%2B4wgrO9Xg%3D%3D) | 
-| 第40期天元戦本戦2回戦 | Cho Chikun | Takao Shinji | W+R | 2014-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y%2BOumyjTjGTEn9R9xrcOew%3D%3D) | 
-| 第39期棋聖戦Bリーグ | Cho Chikun | Yuki Satoshi | B+R | 2014-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KU25q0sRcSN%2Bf53ILr34EQ%3D%3D) | 
-| 第21期阿含・桐山杯全日本早碁オープン戦予選 | Yu Zhengqi | Cho Chikun | B+3.5 | 2014-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vTbr0rlRA9wSFuRC%2FEdJ6w%3D%3D) | 
-| 第4回フマキラー囲碁マスターズカップ2回戦 | Ishida Yoshio | Cho Chikun | W+1.5 | 2014-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B6YQD%2BeiB2ffy5G32%2BLmuA%3D%3D) | 
-| 第70期本因坊戦予選 | Hirata Tomoya | Cho Chikun | B+0.5 | 2014-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J9lvbc%2FhBO2GOftFnEd7tw%3D%3D) | 
-| 第70期本因坊戦予選 | Kanazawa Makoto | Cho Chikun | W+R | 2014-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d5%2F6q5SnKRwiDaWlDwBlSg%3D%3D) | 
-| 第4回フマキラー囲碁マスターズカップ1回戦 | Kataoka Satoshi | Cho Chikun | W+1.5 | 2014-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wsMf7fNIThnOaJHZ1gP9dw%3D%3D) | 
-| 第40期天元戦本戦1回戦 | Cho Chikun | Murakawa Daisuke | B+R | 2014-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nVrxEPJdMNTlaFh%2BXfbkPA%3D%3D) | 
-| 第62期王座戦予選 | Rin Kanketsu | Cho Chikun | B+R | 2014-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=robY6EdoZu0TqSUiAcsS0A%3D%3D) | 
-| 第40期天元戦予選 | Rin Kanketsu | Cho Chikun | W+R | 2014-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LhOAYh88HkVKgQYaOkaU7w%3D%3D) | 
-| 第62期王座戦予選 | Cho Chikun | Ryu Shikun | B+R | 2013-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=69%2BAqsbXWShkO6KMil4bHg%3D%3D) | 
-| 第40期天元戦予選 | Cho Chikun | Kubo Hideo | B+R | 2013-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ix%2FzI2dUq29uElqpbp5ZYw%3D%3D) | 
-| 第52期十段戦2回戦 | Takao Shinji | Cho Chikun | B+R | 2013-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0pTwULNgGU2PMivWt9FSTw%3D%3D) | 
-| 第39期碁聖戦予選 | Horimoto Mitsunari | Cho Chikun | B+R | 2013-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dFKcpQ9PzBWlOdVgzlrGDg%3D%3D) | 
-| 第38期棋聖戦Bリーグ | Murakawa Daisuke | Cho Chikun | W+R | 2013-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8%2FcNgkvz7dm3xJP%2BJ1e2Yw%3D%3D) | 
-| 第39期碁聖戦予選 | Arimura Hiroshi | Cho Chikun | W+R | 2013-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CQ%2FtvQ%2BbgsHHroJVJkG76g%3D%3D) | 
-| 第38期棋聖戦Bリーグ | Cho Chikun | Hane Naoki | W+R | 2013-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Epbr6MrygqIATMV7ajL8nA%3D%3D) | 
-| 第39期名人戦予選 | Cho Chikun | Ryu Shikun | W+R | 2013-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7yqDQGFQTesL96mGFBMoQQ%3D%3D) | 
-| 第52期十段戦予選 | Adachi Toshimasa | Cho Chikun | W+1.5 | 2013-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wo9e3XYVLae%2B6UvtsZD2EA%3D%3D) | 
-| 第69期本因坊戦予選 | Cho Chikun | Imamura Toshiya | W+R | 2013-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iMbFR6yDkF%2FsjEtnRH40uA%3D%3D) | 
-| 第38期棋聖戦Bリーグ | Cho Chikun | Mizokami Tomochika | W+R | 2013-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RlS72DobUgUfpeFkRteeqw%3D%3D) | 
-| 第39期名人戦予選 | So Yokoku | Cho Chikun | W+7.5 | 2013-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jJ3PEu9ZRmAdU2dTxHojQw%3D%3D) | 
-| 第52期十段戦予選 | Cho Chikun | Akiyama Jiro | B+R | 2013-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wdh9HCIEKLef4E63zthdPg%3D%3D) | 
-| 第38期棋聖戦Bリーグ | Takao Shinji | Cho Chikun | W+0.5 | 2013-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HXJ6VusGpeKiAXqSvdAt4A%3D%3D) | 
-| 第69期本因坊戦予選 | Cho Chikun | Muramatsu Hiroki | B+R | 2013-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kr46YV2ktxbfwgDb%2Bc95Zg%3D%3D) | 
-| 第39期名人戦予選 | Cho Chikun | Tajiri Yuto | B+1.5 | 2013-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kz8A4PdfmzoHjlR05WSEIw%3D%3D) | 
-| 第20期阿含・桐山杯全日本早碁オープン戦予選 | Cho Chikun | Ichiriki Ryo | W+R | 2013-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SMOKEoYT%2BvLlnjWVm6JD4A%3D%3D) | 
-| 第38期棋聖戦Bリーグ | Kono Rin | Cho Chikun | W+R | 2013-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0ppPiU27JY9WpBCdZ8oNXw%3D%3D) | 
-| 第3回エステー＆フマキラー囲碁マスターズカップ2回戦 | Cho Chikun | O Meien | W+10.5 | 2013-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mwlZ7bnR9HzuE%2BdLrZPlUQ%3D%3D) | 
-| 第61期王座戦予選 | Seto Taiki | Cho Chikun | B+8.5 | 2013-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HO%2FMn2QFVqi%2F03ENothL1A%3D%3D) | 
-| 第69期本因坊戦予選 | Cho Chikun | Ohba Junya | B+R | 2013-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gTj02P78n23s%2FDzNJ%2BQ6Mg%3D%3D) | 
-| 第3回エステー＆フマキラー囲碁マスターズカップ1回戦 | Rin Kaiho | Cho Chikun | W+4.5 | 2013-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pTSEOEVoWVLLPfmj%2BoKeGw%3D%3D) | 
-| 第69期本因坊戦予選 | Yamada Shinji | Cho Chikun | W+R | 2013-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q5JkfN4ugN0PUJxw7NiyUA%3D%3D) | 
-| 第38期碁聖戦本戦2回戦 | Cho Chikun | So Yokoku | W+0.5 | 2013-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CZyeL%2F%2FnKiSu1SUmwZng0g%3D%3D) | 
-| 第38期棋聖戦予選 | Cho Chikun | Muramatsu Hiroki | B+R | 2013-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rUTxroQyJ9ZPcQhLUD0yGg%3D%3D) | 
-| 第38期棋聖戦予選 | Cho Chikun | Lee Ishu | B+R | 2013-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m8DjMtQC9PgWFgucz1ixRg%3D%3D) | 
-| 第38期棋聖戦予選 | Adachi Toshimasa | Cho Chikun | W+R | 2012-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OreIkkwWSlWJLAfeGNa1pg%3D%3D) | 
-| 第39期天元戦予選 | Yoda Norimoto | Cho Chikun | B+R | 2012-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XoEDR5OT2E9ev8kBN96vVQ%3D%3D) | 
-| 第38期棋聖戦予選 | Cho Chikun | Tajiri Yuto | B+R | 2012-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x6pDUlhrLepnn4C%2Bbnwmqw%3D%3D) | 
-| 第38期碁聖戦本戦1回戦 | Cho Chikun | Ishii Kunio | B+R | 2012-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zn%2Fi4aU1D%2BZRKdh0SlXj1w%3D%3D) | 
-| 第39期天元戦予選 | Tamai Shin | Cho Chikun | W+R | 2012-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WGd7bcFbgCfO3oC%2FiE%2BDQQ%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン1回戦 | Cho Riyu | Cho Chikun | B+R | 2012-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JrT2P%2FoHH3gqMJcltfu2Vg%3D%3D) | 
-| 第38期碁聖戦予選 | Nakamura Shinya | Cho Chikun | W+R | 2012-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SRH%2BgZ6d6CTcRTufmt%2FYjA%3D%3D) | 
-| 第38期碁聖戦予選 | Komatsu Hideki | Cho Chikun | W+3.5 | 2012-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9VawThsA6IcuiG1yxoxh%2Bg%3D%3D) | 
-| 第51期十段戦2回戦 | Cho Chikun | Yuki Satoshi | W+9.5 | 2012-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aK%2BWjGXPQoURXUo%2FxHSstg%3D%3D) | 
-| 第38期名人戦予選 | Cho Chikun | Murakawa Daisuke | W+4.5 | 2012-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QQfS1eEedvr83axj7oBr2A%3D%3D) | 
-| 第2回エステー＆フマキラー囲碁マスターズカップ決勝 | Cho Chikun | O Meien | W+3.5 | 2012-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BZViHMQPzU6GHZNKh%2Fs7JQ%3D%3D) | 
-| 第38期名人戦予選 | Michael Redmond | Cho Chikun | W+R | 2012-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1MlME3Fw8e%2F04qPFSTrxbQ%3D%3D) | 
-| 第51期十段戦予選 | Cho Chikun | Uchida Shuhei | B+R | 2012-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=izIdkSHzZKMoFaG0%2BiRTJw%3D%3D) | 
-| 第19期阿含・桐山杯全日本早碁オープン戦1回戦 | Ida Atsushi | Cho Chikun | B+1.5 | 2012-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DHBC3aA7S3bMuiINfwovPA%3D%3D) | 
-| 第38期名人戦予選 | Cho Chikun | Hoshino Masaki | B+12.5 | 2012-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4nM9%2F3bMoLf50B6fjs4RMg%3D%3D) | 
-| 第2回エステー＆フマキラー囲碁マスターズカップ準決勝 | Cho Chikun | Kudo Norio | B+4.5 | 2012-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x4U4Fga1Ui5t7NjzJltDZQ%3D%3D) | 
-| 第19期阿含・桐山杯全日本早碁オープン戦予選 | Sakaguchi Ryuzo | Cho Chikun | W+R | 2012-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BuIgy9r5uZ3x4noSGlQq%2FQ%3D%3D) | 
-| 2012年中国囲碁乙級リーグ | Cho Chikun | missing | W+T | 2012-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vvKcjAHSAdlWgPejOOZyZw%3D%3D) | 
-| 2012年中国囲碁乙級リーグ | Cho Chikun | missing | W+R | 2012-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u03Dbv816PaF7VQKdilcRw%3D%3D) | 
-| 2012年中国囲碁乙級リーグ | missing | Cho Chikun | B+R | 2012-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x%2FepUWtLHeeWIFvwAQGVlQ%3D%3D) | 
-| 2012年中国囲碁乙級リーグ | Cao Xiaoyang | Cho Chikun | B+R | 2012-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=es54EZE%2BBAbcZ2ptWNpLOg%3D%3D) | 
-| 2012年中国囲碁乙級リーグ | Cho Chikun | missing | B+1.5 | 2012-06-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bjH4JshtbkyojaBEEyRF%2FQ%3D%3D) | 
-| 2012年中国囲碁乙級リーグ | Cho Chikun | Paek Hongseok | W+R | 2012-06-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ANHWSyYxdFBmUz8mLEIbEg%3D%3D) | 
-| 2012年中国囲碁乙級リーグ | Wang Yao | Cho Chikun | B+R | 2012-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CQN%2BAl3jixayTkQieebuvA%3D%3D) | 
-| 第7回応氏杯世界選手権3回戦 | Cho Chikun | Park Junghwan | W+R | 2012-05-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BadnuhIlf3I2sKGMO1UWrg%3D%3D) | 
-| 第7回応氏杯世界選手権2回戦 | Liu Xing | Cho Chikun | W+R | 2012-05-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4SI2VJ%2BTYhRSW7M5tqKh4Q%3D%3D) | 
-| 第60期王座戦1回戦 | Cho Chikun | Yuki Satoshi | W+R | 2012-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jw1pBpQfQCOEr89kiKYgag%3D%3D) | 
-| 第2回エステー＆フマキラー囲碁マスターズカップ2回戦 | Cho Chikun | Rin Kaiho | B+19.5 | 2012-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sN8N9ZYpTIkMkP1Ja23oEA%3D%3D) | 
-| 第68期本因坊戦予選 | Cho Chikun | Kato Atsushi | W+1.5 | 2012-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7prdwp6Lj00qtwz9fdMF3Q%3D%3D) | 
-| 第2回エステー＆フマキラー囲碁マスターズカップ1回戦 | Yamashiro Hiroshi | Cho Chikun | W+0.5 | 2012-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=205S%2FqzrohAdM%2F8Zw%2Ft7dw%3D%3D) | 
-| 第9回春蘭杯世界囲碁選手権2回戦 | Chen Yaoye | Cho Chikun | B+5.5 | 2012-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EZdtw2Comt6omrIIKOpU3w%3D%3D) | 
-| 第7回大和証券杯ネット囲碁オープン決勝 | Iyama Yuta | Cho Chikun | B+R | 2012-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XabCNk1tUGLF3pKOPPwABw%3D%3D) | 
-| 第31期NECカップ囲碁トーナメント戦決勝 | Takao Shinji | Cho Chikun | B+R | 2012-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u%2BRtJnrUEIXyaCgCwl7n7Q%3D%3D) | 
-| 第68期本因坊戦予選 | Cho Chikun | Ando Kazushige | B+R | 2012-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B3RFHLaxWDE1F0kPDKfDjA%3D%3D) | 
-| 第60期王座戦予選 | Anzai Nobuaki | Cho Chikun | W+R | 2012-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=akHNLxbr4W6RqO7p6wBXrQ%3D%3D) | 
-| 第7回大和証券杯ネット囲碁オープン準決勝 | Cho U | Cho Chikun | W+4.5 | 2012-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FzVaZlkL1tlDtcghly%2Feeg%3D%3D) | 
-| 第7回大和証券杯ネット囲碁オープン3回戦 | Takao Shinji | Cho Chikun | W+7.5 | 2012-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l2GmBSOxTNr%2B8kkhM%2BmJ8g%3D%3D) | 
-| 第31期NECカップ囲碁トーナメント戦準決勝 | Iyama Yuta | Cho Chikun | W+3.5 | 2012-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rog4Z14tbzcyPYK57TOAMQ%3D%3D) | 
-| 第60期王座戦予選 | Cho Chikun | Imamura Yoshiaki | B+4.5 | 2012-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XydRuuJ00I9dV%2BIdlhZEkQ%3D%3D) | 
-| 第7回大和証券杯ネット囲碁オープン2回戦 | Cho Chikun | Yoda Norimoto | B+3.5 | 2011-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NJIrNtDbJnuHUPybQk4jTg%3D%3D) | 
-| 第38期天元戦本戦1回戦 | Cho Chikun | Anzai Nobuaki | W+R | 2011-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0p7ozIOqvdLpnktLulotoA%3D%3D) | 
-| 第37期棋聖戦予選 | Cho Chikun | Tsuruyama Atsushi | W+1.5 | 2011-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VQBCvVPymNOckceSDRUi1g%3D%3D) | 
-| 第37期棋聖戦予選 | Kubo Hideo | Cho Chikun | W+R | 2011-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aXENa2hM27EY5Ph5rBBYJQ%3D%3D) | 
-| 第37期碁聖戦本戦1回戦 | Cho Chikun | Iyama Yuta | W+4.5 | 2011-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nmzRVxgwvD5wytneBjtKBA%3D%3D) | 
-| 第37期名人戦予選 | Uchida Shuhei | Cho Chikun | B+R | 2011-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IIecSq6qXrfaEfBtqma%2FHQ%3D%3D) | 
-| 第7回大和証券杯ネット囲碁オープン1回戦 | Mizokami Tomochika | Cho Chikun | W+R | 2011-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NO8aVPVXm787L6kr6Sjo1Q%3D%3D) | 
-| 第50期十段戦2回戦 | Cho Chikun | Akiyama Jiro | W+R | 2011-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1qP0M74vVUpvX7u%2B2EoqEA%3D%3D) | 
-| 第38期天元戦予選 | Uchida Shuhei | Cho Chikun | W+R | 2011-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vrO5Jp8k%2FpQa%2F%2B4fG5f1Gg%3D%3D) | 
-| 第31期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Cho Chikun | W+R | 2011-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4dDbYwyomQmd9vVMhW198Q%3D%3D) | 
-| 第37期名人戦予選 | Yamashiro Hiroshi | Cho Chikun | W+R | 2011-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jJsmehbIacuKSeR5ERWVkQ%3D%3D) | 
-| 第37期名人戦予選 | Furuya Yutaka | Cho Chikun | W+4.5 | 2011-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VNKt3po0q1OfVH4WFR3Tbg%3D%3D) | 
-| 第38期天元戦予選 | Cho Chikun | Kanda Ei | B+R | 2011-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rW%2Fy%2BjcNd7dVjPLJ7TwgFg%3D%3D) | 
-| 第24回世界囲碁選手権富士通杯2回戦 | Cho Chikun | Qiu Jun | W+R | 2011-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eaEpYOQZrxH0HfrQuF5vWg%3D%3D) | 
-| 第24回世界囲碁選手権富士通杯1回戦 | Yamashita Keigo | Cho Chikun | W+8.5 | 2011-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dDdXHnLRppY5LX5icIvdnw%3D%3D) | 
-| 第36期名人戦リーグ | Cho U | Cho Chikun | B+4.5 | 2011-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NOqvdX8tPGtQ62pOeHDicA%3D%3D) | 
-| 第1回エステー＆フマキラー囲碁マスターズカップ決勝 | Kobayashi Koichi | Cho Chikun | W+1.5 | 2011-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NAaBwgzGgEr3k31tSadT5w%3D%3D) | 
-| 第31期NECカップ囲碁トーナメント戦1回戦 | Sakai Hideyuki | Cho Chikun | W+R | 2011-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yJwZSeywe3ne%2BRMstieIcQ%3D%3D) | 
-| 第36期名人戦リーグ | Rin Kanketsu | Cho Chikun | B+R | 2011-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XjUyALUegPdnDeja0JS7Cg%3D%3D) | 
-| 第1回エステー＆フマキラー囲碁マスターズカップ準決勝 | Kobayashi Satoru | Cho Chikun | W+R | 2011-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B79duYgdIKG2WwkfuoFEhg%3D%3D) | 
-| 第36期名人戦リーグ | Cho Chikun | Hane Naoki | W+R | 2011-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qfucfyObZu5u3rfKt%2B%2FQAQ%3D%3D) | 
-| 第59期王座戦2回戦 | Cho Chikun | Hane Naoki | W+R | 2011-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vxBneRLmIeHgJQSqRytCRQ%3D%3D) | 
-| 第59期王座戦1回戦 | Yoda Norimoto | Cho Chikun | W+R | 2011-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FONXtimlui6SFZf%2F%2BE%2BGKg%3D%3D) | 
-| 第36期名人戦リーグ | Yamashita Keigo | Cho Chikun | B+R | 2011-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t4XinJhkNBxTCfwRJr1xwg%3D%3D) | 
-| 第18期阿含・桐山杯全日本早碁オープン戦予選 | Kim Sonjin | Cho Chikun | B+R | 2011-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Ns5h%2FgT4dG5oVIYmZjeXQ%3D%3D) | 
-| 第36期碁聖戦本戦準決勝 | Hane Naoki | Cho Chikun | B+R | 2011-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pS4K5CJaeteEnhujUlKI6Q%3D%3D) | 
-| 第1回エステー＆フマキラー囲碁マスターズカップ2回戦 | Cho Chikun | Takemiya Masaki | B+6.5 | 2011-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QGNW%2F1AwtbHf6zR0U263ow%3D%3D) | 
-| 第36期碁聖戦本戦3回戦 | Cho Chikun | Cho U | B+0.5 | 2011-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dvH3hAXn7r9t34hkMqVwCA%3D%3D) | 
-| 第36期名人戦リーグ | Sakai Hideyuki | Cho Chikun | W+R | 2011-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8pBlO8UStLA7mZSBoZpQwQ%3D%3D) | 
-| 第36期名人戦リーグ | Cho Chikun | Mizokami Tomochika | W+R | 2011-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tJVpbFH65%2FU1YSp620zLng%3D%3D) | 
-| 第67期本因坊戦予選 | Cho Chikun | Kato Atsushi | W+R | 2011-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lbmwB59pXHlhravEn4jUAw%3D%3D) | 
-| 第59期王座戦予選 | Cho Chikun | Sakai Takeshi | B+R | 2011-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZAWByJfc8uLc10dx80qGpA%3D%3D) | 
-| 第67期本因坊戦予選 | Cho Chikun | Seki Tatsuya | B+0.5 | 2011-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IFZRsJYROjQdbookcCKvNQ%3D%3D) | 
-| 第59期王座戦予選 | Nakamura Shinya | Cho Chikun | W+R | 2011-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iLTM6LsfMIM4WPSwt%2BoHIQ%3D%3D) | 
-| 第3回BCカード杯世界選手権1回戦 | Cho Chikun | missing | W+R | 2011-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5WKVQFIrS5bDzK7RIzEoBQ%3D%3D) | 
-| 第36期名人戦リーグ | Cho Chikun | Yuki Satoshi | W+R | 2011-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f5lPgUtzWv77zcngI1%2BVaA%3D%3D) | 
-| 第36期碁聖戦本戦2回戦 | Han Zenki | Cho Chikun | W+R | 2011-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O3JbQBHmsu%2BQRswT%2Fd26Xg%3D%3D) | 
-| 第59期王座戦予選 | Cho Chikun | Rin Kanketsu | B+R | 2010-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bTWirUMnKLS%2BgxlcPZxZiA%3D%3D) | 
-| 第8回春蘭杯世界囲碁選手権3回戦 | Cho Chikun | Xie He | W+R | 2010-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b%2FIs0bHauRybmV7wxg94Sg%3D%3D) | 
-| 第36期名人戦リーグ | Cho Chikun | Takao Shinji | W+0.5 | 2010-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1M1NdaOTYZrQ4BYWeUgJUA%3D%3D) | 
-| 第36期碁聖戦本戦1回戦 | Imamura Toshiya | Cho Chikun | W+R | 2010-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u8A8jZWIA32a%2F6K8gXYycA%3D%3D) | 
-| 第4期幽玄杯精鋭リーグ戦 | Cho Chikun | Fujita Akihiko | W+R | 2010-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jqurzomYYql7NKE5uYEXbw%3D%3D) | 
-| 第36期棋聖戦予選 | Cho Chikun | Mitani Tetsuya | W+R | 2010-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rr9oUOnuXxeZ3nnarXUjFw%3D%3D) | 
-| 第37期天元戦予選 | Cho Chikun | Rin Kanketsu | W+2.5 | 2010-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LiIYA%2FBeavjVLYilWwme2g%3D%3D) | 
-| 第59期王座戦予選 | Cho Chikun | Nakaonoda Tomomi | B+R | 2010-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3mypz88ks3OSCcwR3VaBrA%3D%3D) | 
-| 第49期十段戦敗者復活戦4回戦 | Cho Chikun | Ko Iso | W+R | 2010-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9zJcVAJI8iUO0I5G6VOG9g%3D%3D) | 
-| 第37期天元戦予選 | Otake Hideo | Cho Chikun | W+R | 2010-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sJS0wD6HoJN9uWCWkGmNSg%3D%3D) | 
-| 第36期棋聖戦予選 | Cho Chikun | Muramatsu Ryuichi | B+R | 2010-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W3NZ4etgmfyonARvXNFgoA%3D%3D) | 
-| 第49期十段戦敗者復活戦3回戦 | Hane Naoki | Cho Chikun | W+2.5 | 2010-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LxTRqo14RqE1SLxvgzzNXA%3D%3D) | 
-| 第36期碁聖戦予選 | Cho Chikun | Kobayashi Koichi | B+3.5 | 2010-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GeIDTZ3t39wZ9SDwk66BDg%3D%3D) | 
-| 第17期阿含・桐山杯全日本早碁オープン戦決勝 | Yamashita Keigo | Cho Chikun | B+R | 2010-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q%2BWHxKmEG2sPsKqyNlBJJg%3D%3D) | 
-| 第36期碁聖戦予選 | Iguchi Hideichiro | Cho Chikun | W+R | 2010-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FQe2gCz3r1McgLavwIUYsQ%3D%3D) | 
-| 第49期十段戦敗者復活戦2回戦 | Cho Chikun | Lee Ishu | B+R | 2010-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WYWE9ExyysdcPrOjsjTpBA%3D%3D) | 
-| 第17期阿含・桐山杯全日本早碁オープン戦準決勝 | Rin Shien | Cho Chikun | W+1.5 | 2010-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w1VWp0KE%2F7xDUbxb79QUcQ%3D%3D) | 
-| 第36期碁聖戦予選 | Kato Atsushi | Cho Chikun | W+1.5 | 2010-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TafRKbut7JQhrLUY0HXIzg%3D%3D) | 
-| 第49期十段戦本戦2回戦 | Cho Chikun | Anzai Nobuaki | W+R | 2010-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dkIL1jhWvQcMMepWIZfMgg%3D%3D) | 
-| 第35期名人戦リーグ | Yamada Kimio | Cho Chikun | B+0.5 | 2010-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UjQXShiHe30PHBuZG2z08A%3D%3D) | 
-| 第17期阿含・桐山杯全日本早碁オープン戦2回戦 | Cho Chikun | Imamura Toshiya | B+R | 2010-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zVAeeAHQQxqq2l8EcpLkBQ%3D%3D) | 
-| 第6回大和証券杯ネット囲碁オープン1回戦 | Shuto Shun | Cho Chikun | B+2.5 | 2010-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JOxU%2BkliheoCpMiFIKYv6w%3D%3D) | 
-| 第30期NECカップ囲碁トーナメント戦1回戦 | So Yokoku | Cho Chikun | B+0.5 | 2010-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sjGXVksByHLhWvq7dwnzOg%3D%3D) | 
-| 第17期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Chikun | Hane Naoki | B+R | 2010-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SzlcG2Hdqt1%2FAFdFZ8iaqg%3D%3D) | 
-| 第35期名人戦リーグ | Cho Chikun | Cho U | W+R | 2010-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gLKARrBcbfn%2Fg0tZx4%2BWvg%3D%3D) | 
-| 第66期本因坊戦予選 | Suzuki Shinji | Cho Chikun | B+1.5 | 2010-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YRCtg6Ma3RHA%2BQdqeXRDbA%3D%3D) | 
-| 第49期十段戦本戦1回戦 | Akiyama Jiro | Cho Chikun | W+8.5 | 2010-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B3HF1bGVDt78PRyPCd%2BqZQ%3D%3D) | 
-| 第36期碁聖戦予選 | Cho Chikun | Kanno Masashi | B+R | 2010-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wkLoi5tg1A63qni4x7YraQ%3D%3D) | 
-| 第35期名人戦リーグ | Cho Chikun | Takao Shinji | W+7.5 | 2010-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cs5Rbr5iufu2nMOUp3%2BvEQ%3D%3D) | 
-| 第17期阿含・桐山杯全日本早碁オープン戦予選 | Enda Hideki | Cho Chikun | W+R | 2010-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1rxV6oF4giJ55VrPldW%2BLw%3D%3D) | 
-| 第66期本因坊戦予選 | Cho Chikun | Takemiya Masaki | B+2.5 | 2010-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QLY03nB40DfVpJ1%2FwZIpGg%3D%3D) | 
-| 第35期名人戦リーグ | Cho Chikun | Yuki Satoshi | W+R | 2010-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qpvo1QLA%2B9iyo6PglFpoBA%3D%3D) | 
-| 第36期天元戦本戦2回戦 | Cho Chikun | Ryu Shikun | W+R | 2010-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p2te9O7VeaXAD0sE9sZqNg%3D%3D) | 
-| 第35期名人戦リーグ | Cho Chikun | Ogata Masaki | B+11.5 | 2010-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AqMrWCUs6YCtk29TmFL9XA%3D%3D) | 
-| 第8回春蘭杯世界囲碁選手権2回戦 | Cho Chikun | Qiu Jun | B+R | 2010-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=whN9l2QQ%2FS1jeKd0nPVNjw%3D%3D) | 
-| 第8回春蘭杯世界囲碁選手権1回戦 | Kang Dongyun | Cho Chikun | W+R | 2010-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dMidf3sqmyN95aC6I9bM8Q%3D%3D) | 
-| 第66期本因坊戦予選 | Yamada Shinji | Cho Chikun | W+2.5 | 2010-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r4yENv9FYfxBozu86fE%2BYw%3D%3D) | 
-| 第58期王座戦予選 | Cho Chikun | Kiyonari Tetsuya | W+R | 2010-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JwLAgwk9WUhUC7e%2BDJc66w%3D%3D) | 
-| 第36期天元戦本戦1回戦 | So Yokoku | Cho Chikun | W+10.5 | 2010-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X4otPcQEcV5%2FWpRFi0ihyA%3D%3D) | 
-| 第66期本因坊戦予選 | Cho Chikun | Matsubara Taisei | B+R | 2010-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W0Dv%2FDFLI5%2BqekIwjlz%2BJw%3D%3D) | 
-| 第58期王座戦予選 | Cho Chikun | So Yokoku | B+R | 2010-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qsGfyuOsv%2BjG3Nk9BRD%2BPA%3D%3D) | 
-| 第35期名人戦リーグ | O Meien | Cho Chikun | W+R | 2010-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BGgkFuZfRxfcufso4IGx7g%3D%3D) | 
-| 第23回世界囲碁選手権富士通杯国内予選決勝 | Cho Chikun | Sakai Hideyuki | W+0.5 | 2010-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HSPcYSy%2BaGSm3qsMW8PpTw%3D%3D) | 
-| 第35期名人戦リーグ | Sakai Hideyuki | Cho Chikun | B+R | 2010-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vZSl8XknP3kedoTozqSqpw%3D%3D) | 
-| 第35期棋聖戦予選 | Yamashiro Hiroshi | Cho Chikun | B+R | 2010-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dzk8wAALzJBHPfDxDrrZWA%3D%3D) | 
-| 第35期名人戦リーグ | Mizokami Tomochika | Cho Chikun | W+R | 2009-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KUZH4O66it5My%2F5Y2Fn7IQ%3D%3D) | 
-| 第23回世界囲碁選手権富士通杯国内予選 | Murakawa Daisuke | Cho Chikun | W+R | 2009-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BDCCzQLCzuRMJHVewYhiIg%3D%3D) | 
-| 第3期幽玄杯精鋭リーグ戦 | Fujita Akihiko | Cho Chikun | W+R | 2009-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dSVjfZfLKY%2FziBHx0b5HgQ%3D%3D) | 
-| 第36期天元戦予選 | Cho Chikun | Ishida Yoshio | B+2.5 | 2009-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5aJlSFJoRM4pTQEHA%2BD%2BYg%3D%3D) | 
-| 第23回世界囲碁選手権富士通杯国内予選 | Cho Chikun | Otake Hideo | B+R | 2009-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=92nG2RNlEjMS%2Fuqe3DyoeQ%3D%3D) | 
-| 第36期天元戦予選 | Kono Takashi | Cho Chikun | W+R | 2009-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8QuEeB4UOBWet%2FoPviYV2Q%3D%3D) | 
-| 第34期棋聖戦Bリーグ | Cho Chikun | Kono Rin | W+0.5 | 2009-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eS1vY5wuo07SKKnRhHDz6A%3D%3D) | 
-| 第48期十段戦敗者復活戦3回戦 | Cho Chikun | Yamashita Keigo | W+R | 2009-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CbQz76lFpPEiCc%2FodDqftw%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン3回戦 | Cho Chikun | Iyama Yuta | W+T | 2009-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PItVTwCWBDm1AR%2BeJY7sVg%3D%3D) | 
-| 第34期棋聖戦Bリーグ | Cho Chikun | Akiyama Jiro | W+R | 2009-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NF%2ByGgYZ3VneM0Pax%2BbiQA%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン2回戦 | Cho Chikun | Tsuruyama Atsushi | B+R | 2009-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gAkDEGhxvHb1g%2Fk7rGmWUw%3D%3D) | 
-| 第35期碁聖戦予選 | Cho Chikun | Sonoda Yasutaka | W+0.5 | 2009-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bPlx7MxL8%2FNVewOV4j0Efw%3D%3D) | 
-| 第34期棋聖戦Bリーグ | Miyazawa Goro | Cho Chikun | W+R | 2009-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HShTVTFMUaZLXuYaEKoXaA%3D%3D) | 
-| 第34期名人戦リーグ | Cho Chikun | Kobayashi Satoru | B+R | 2009-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RT1O6T6fXSdw8Hv%2Fx322kg%3D%3D) | 
-| 第48期十段戦敗者復活戦2回戦 | Tsuruyama Atsushi | Cho Chikun | W+R | 2009-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rewN7NRhDI16uf2uwPxsAw%3D%3D) | 
-| 第65期本因坊戦予選 | Oya Koichi | Cho Chikun | B+R | 2009-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eek%2FgJWUEOrPobH6toNAmA%3D%3D) | 
-| 第34期名人戦リーグ | O Meien | Cho Chikun | W+R | 2009-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TdwLME575dzgv%2FiENqMfzg%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン1回戦 | Cho Chikun | Ryu Shikun | B+R | 2009-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E4oX0asZ9fVIqf314ShS7w%3D%3D) | 
-| 第34期棋聖戦Bリーグ | Cho U | Cho Chikun | B+R | 2009-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bJyjZCkeZQcWylvAFpP1EQ%3D%3D) | 
-| 第48期十段戦敗者復活戦1回戦 | Nakamura Shinya | Cho Chikun | W+R | 2009-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7ZqEv6cIBfAxQP56X0coFA%3D%3D) | 
-| 第65期本因坊戦予選 | Cho Chikun | Komatsu Hideki | B+4.5 | 2009-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vUU5066vv2mopcFqsURbMw%3D%3D) | 
-| 第29期NECカップ囲碁トーナメント戦1回戦 | Cho Chikun | Kobayashi Satoru | W+3.5 | 2009-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bgh5LkfuOp8erA6JW0yVVg%3D%3D) | 
-| 第34期棋聖戦Bリーグ | Cho Chikun | Iyama Yuta | B+R | 2009-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=14kBLWkHxpRbESDV05KEBw%3D%3D) | 
-| 第34期名人戦リーグ | Cho Chikun | Takao Shinji | W+1.5 | 2009-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wdRKmRNgBdMdz4QcYq2l5A%3D%3D) | 
-| 第48期十段戦本戦1回戦 | Cho Chikun | So Yokoku | W+R | 2009-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pSkbVrs8yDzpSQq8hxaCDw%3D%3D) | 
-| 第14回LG杯世界棋王戦1回戦 | Cho Chikun | Kang Yootaek | W+R | 2009-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QhwZRB9H4tZFgnfLUlad4Q%3D%3D) | 
-| 第57期王座戦1回戦 | Yamada Kimio | Cho Chikun | B+0.5 | 2009-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BJaWOrCuztGYuT5G%2B%2FL6lw%3D%3D) | 
-| 第34期名人戦リーグ | Yamada Kimio | Cho Chikun | B+0.5 | 2009-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6%2BzF0eG%2FFK4sXKHd22oKqA%3D%3D) | 
-| 第34期名人戦リーグ | Cho Chikun | Iyama Yuta | W+R | 2009-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TtFpoV42Zfj8eCBi2sGPKw%3D%3D) | 
-| 第65期本因坊戦予選 | Ishida Akira | Cho Chikun | W+R | 2009-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MkeWjhiwYBI6iAYlOPhT2Q%3D%3D) | 
-| 第1回BCカード杯世界選手権1回戦 | Paek Hongseok | Cho Chikun | B+5.5 | 2009-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8NckqMxEsBt15nN32oWkyw%3D%3D) | 
-| 第34期名人戦リーグ | Sakai Hideyuki | Cho Chikun | B+0.5 | 2009-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eKYB%2BMFiUU37ChOCL3uHXw%3D%3D) | 
-| 第35期天元戦本戦1回戦 | O Meien | Cho Chikun | B+R | 2009-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NmJYHBWkE6hVWVKe5p%2FDdg%3D%3D) | 
-| 第28期NECカップ囲碁トーナメント戦準決勝 | Hane Naoki | Cho Chikun | B+9.5 | 2009-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nvBLlBVBZSun%2BfCns8uiWg%3D%3D) | 
-| 第65期本因坊戦予選 | Cho Chikun | Suzuki Ayumi | B+R | 2009-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gkeEi9VzuAldCYGJD%2Fl3Cw%3D%3D) | 
-| 第34期碁聖戦本戦2回戦 | Cho Chikun | Iyama Yuta | W+R | 2009-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tlzzBlb79cVglN815tG0PA%3D%3D) | 
-| 第34期名人戦リーグ | Cho Riyu | Cho Chikun | W+R | 2009-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hCY%2BTuB1LfxQa9MAKdnwLw%3D%3D) | 
-| 第34期名人戦リーグ | Cho Chikun | Ogata Masaki | W+R | 2008-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zRyLvo8IOS3rNJiowynyCg%3D%3D) | 
-| 第47期十段戦敗者復活戦4回戦 | Ko Iso | Cho Chikun | B+2.5 | 2008-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ppk2KoUt%2F4DwIv4P2QmeMQ%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯国内予選 | Cho Chikun | Cho Sonjin | W+3.5 | 2008-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WP3rzY9ARqASkTDPDO8F0w%3D%3D) | 
-| 第34期碁聖戦本戦1回戦 | Sakai Maki | Cho Chikun | W+R | 2008-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=61CmcxgS0Wgd%2FTmdptJg2w%3D%3D) | 
-| 第47期十段戦本戦勝者組決勝 | Cho Chikun | Cho U | W+5.5 | 2008-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iVYG9Dd0Tg75wO2mpf4OHQ%3D%3D) | 
-| 第4回大和証券杯ネット囲碁オープン3回戦 | Cho U | Cho Chikun | B+2.5 | 2008-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tcbD1NmgHO%2BEzAZFJYYnXg%3D%3D) | 
-| 第33期棋聖戦Aリーグ | Kataoka Satoshi | Cho Chikun | W+0.5 | 2008-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9KqwGhsRZc0aB%2BDsW5g2cQ%3D%3D) | 
-| 第28期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Cho Chikun | W+R | 2008-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cdcmkkugjx4zNht%2F%2FWP4fA%3D%3D) | 
-| 第4回大和証券杯ネット囲碁オープン2回戦 | Xie Yimin | Cho Chikun | W+15.5 | 2008-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WWwj7X9HSs5HyH%2B7eGKU9Q%3D%3D) | 
-| 第33期棋聖戦Aリーグ | Iyama Yuta | Cho Chikun | B+R | 2008-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OKZAKKNb4d9skqLKEfCqZA%3D%3D) | 
-| 第33期棋聖戦Aリーグ | Cho Chikun | Yuki Satoshi | W+0.5 | 2008-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yzXA2v%2FjBlbRa%2BZkwipI8g%3D%3D) | 
-| 第47期十段戦本戦3回戦 | So Yokoku | Cho Chikun | W+1.5 | 2008-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N68JES05HOxi4AbVJHqQ1Q%3D%3D) | 
-| 第15期阿含・桐山杯全日本早碁オープン戦2回戦 | Cho Chikun | Cho U | W+R | 2008-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gS6J66%2F6umTxs9qJemcNkg%3D%3D) | 
-| 第33期名人戦リーグ | Sakai Hideyuki | Cho Chikun | W+R | 2008-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XPi9zgsoGMgLqNCdY2GEAw%3D%3D) | 
-| 第33期棋聖戦Aリーグ | Cho Chikun | Takao Shinji | W+R | 2008-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YUkyI8DwAHx1ZC0VvxPw8g%3D%3D) | 
-| 第34期天元戦本戦準決勝 | Cho U | Cho Chikun | B+1.5 | 2008-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4fGoIojz4oNlN7VLDtGTag%3D%3D) | 
-| 第28期NECカップ囲碁トーナメント戦1回戦 | Cho Chikun | Kobayashi Satoru | B+R | 2008-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zpADIQWYxOsoCdFMs4jHwg%3D%3D) | 
-| 第47期十段戦本戦2回戦 | Iyama Yuta | Cho Chikun | W+R | 2008-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e%2B1BQzQM3%2BZBVkiC5yO0sQ%3D%3D) | 
-| 第4回大和証券杯ネット囲碁オープン1回戦 | Cho Chikun | Mimura Tomoyasu | B+R | 2008-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h3gyOShe56QoQ8MYYZ9O1A%3D%3D) | 
-| 第33期名人戦リーグ | Cho Chikun | Yamada Kimio | B+2.5 | 2008-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rI%2Fpkj8bNtHLB3jl%2Bs4QAQ%3D%3D) | 
-| 第15期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Chikun | Kono Rin | B+R | 2008-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G9YnJFmktCoqJnhMjmniDg%3D%3D) | 
-| 第34期天元戦本戦3回戦 | Komatsu Hideki | Cho Chikun | W+R | 2008-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oe2LQxdaeitPJggSj7pllw%3D%3D) | 
-| 第64期本因坊戦予選 | Cho Chikun | Cho U | W+R | 2008-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L31QQ2tqVI68qEbZYLQLEg%3D%3D) | 
-| 第33期棋聖戦Aリーグ | Cho Chikun | O Rissei | B+R | 2008-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QgzuMkBsbJnW67fMCOOgkQ%3D%3D) | 
-| 第47期十段戦本戦1回戦 | Yamashiro Hiroshi | Cho Chikun | W+R | 2008-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HNig%2BL4S7mbg209iVihFlA%3D%3D) | 
-| 第33期名人戦リーグ | Cho Chikun | Iyama Yuta | W+R | 2008-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XhbqudcE%2FTQUK1ar9KKYLA%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Kono Rin | Cho Chikun | B+R | 2008-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qezt8sm29hQkDOi9HD5MwA%3D%3D) | 
-| 第20回テレビアジア選手権1回戦 | Lee Changho | Cho Chikun | B+1.5 | 2008-06-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x8ZQoQF4xPl3spsYebmD5Q%3D%3D) | 
-| 第13回LG杯世界棋王戦2回戦 | Lee Changho | Cho Chikun | B+R | 2008-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=69eyASf4XkOA4m8QSY2YKw%3D%3D) | 
-| 第13回LG杯世界棋王戦1回戦 | Cho Chikun | Kang Dongyun | B+R | 2008-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V7Wd%2BiIhTcGCcYbBRS85NQ%3D%3D) | 
-| 第33期名人戦リーグ | Yoda Norimoto | Cho Chikun | W+1.5 | 2008-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cv3qszf8AS8xwkLxV2nIPA%3D%3D) | 
-| 第34期天元戦本戦2回戦 | Morita Michihiro | Cho Chikun | W+R | 2008-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EwBWqQ8IyoUtfoF%2Fh0e6mA%3D%3D) | 
-| 第64期本因坊戦予選 | Cho Chikun | Han Zenki | B+2.5 | 2008-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UKGH6jtVozkv2YvfZy47KA%3D%3D) | 
-| 第6回応氏杯世界選手権3回戦 | Lee Changho | Cho Chikun | B+3 | 2008-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LW8jZqFxr1ySea11xewhOw%3D%3D) | 
-| 第6回応氏杯世界選手権2回戦 | Chang Hao | Cho Chikun | W+3 | 2008-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u%2BiQjZFLlcg0qx5gHS8bCg%3D%3D) | 
-| 第6回応氏杯世界選手権1回戦 | Cho U | Cho Chikun | W+1 | 2008-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IxAykW6OekGFNdAwJZ4Z5g%3D%3D) | 
-| 第56期王座戦1回戦 | Cho Chikun | Yuki Satoshi | W+R | 2008-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y%2Fcd3FA30C46ZkpNIOFsWw%3D%3D) | 
-| 第33期名人戦リーグ | Cho Chikun | Kobayashi Satoru | W+1.5 | 2008-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6alqxHncZmg%2B94h3IpYUIw%3D%3D) | 
-| 第46期十段戦挑戦手合五番勝負第3局 | Takao Shinji | Cho Chikun | B+R | 2008-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YQGegay5dvmwZxxupTtRxA%3D%3D) | 
-| 第46期十段戦挑戦手合五番勝負第2局 | Cho Chikun | Takao Shinji | W+R | 2008-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CCQAzeeACY7%2FHtaeZSuanQ%3D%3D) | 
-| 第32期棋聖戦挑戦手合七番勝負第7局 | Cho Chikun | Yamashita Keigo | W+R | 2008-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YTDHbEYRe6aqBU%2Fe4FPL%2Fw%3D%3D) | 
-| 第32期棋聖戦挑戦手合七番勝負第6局 | Yamashita Keigo | Cho Chikun | W+4.5 | 2008-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uTMp50vWVofVgl7Dts9yxA%3D%3D) | 
-| 第46期十段戦挑戦手合五番勝負第1局 | Takao Shinji | Cho Chikun | B+R | 2008-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=32kfzON3EJBHuOc07n2uog%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Cho Chikun | Yo Kagen | B+0.5 | 2008-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sUTAPzDx%2B91BWDwKK4wngg%3D%3D) | 
-| 第32期棋聖戦挑戦手合七番勝負第5局 | Cho Chikun | Yamashita Keigo | B+3.5 | 2008-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P6lAYq%2FXYt7uCL7zw6HyeQ%3D%3D) | 
-| 第32期棋聖戦挑戦手合七番勝負第4局 | Yamashita Keigo | Cho Chikun | B+R | 2008-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DE%2BMzw9J39jOBh%2FdsIJKRw%3D%3D) | 
-| 第33期碁聖戦本戦3回戦 | Yamashita Keigo | Cho Chikun | B+R | 2008-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8nL%2BEfRESDOOQKkomiFCFg%3D%3D) | 
-| 第33期名人戦リーグ | Cho Chikun | Ko Iso | B+R | 2008-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QMpOY3mLRfofJvHhctsCqw%3D%3D) | 
-| 第32期棋聖戦挑戦手合七番勝負第3局 | Cho Chikun | Yamashita Keigo | W+R | 2008-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sb4pxM9PGj1Q3YLFY3%2BSnQ%3D%3D) | 
-| 第32期棋聖戦挑戦手合七番勝負第2局 | Yamashita Keigo | Cho Chikun | W+R | 2008-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cG0HkrbEXSpuP7tbX%2F5oAg%3D%3D) | 
-| 第33期名人戦リーグ | Chin Kaei | Cho Chikun | W+R | 2008-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BCstH1dwkf20ZxaobVkfeQ%3D%3D) | 
-| 第32期棋聖戦挑戦手合七番勝負第1局 | Cho Chikun | Yamashita Keigo | W+R | 2008-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mqkPO8Dim%2F8TAY23cQ2clg%3D%3D) | 
-| 第33期名人戦リーグ | Takao Shinji | Cho Chikun | B+R | 2007-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PN4pbNTbkfzJf1l4SnLcuQ%3D%3D) | 
-| 第33期碁聖戦本戦2回戦 | Ko Iso | Cho Chikun | W+2.5 | 2007-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C2Oye0zItkTZrM%2BqzlvJQA%3D%3D) | 
-| 第34期天元戦本戦1回戦 | Nakano Hironari | Cho Chikun | W+1.5 | 2007-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K7U7oIX7y2cr%2BqZ1ieuIlw%3D%3D) | 
-| 第32期棋聖戦挑戦者決定戦 | Cho U | Cho Chikun | W+4.5 | 2007-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OTKiylb8In7%2FKv7QPpUaIQ%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン3回戦 | Takao Shinji | Cho Chikun | B+8.5 | 2007-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GXc%2FMUitn5t0fRi%2Fi8juCw%3D%3D) | 
-| 第33期碁聖戦本戦1回戦 | Cho Chikun | Nakaonoda Tomomi | B+R | 2007-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1KM%2FzFFAbV7fmmT0M3fYxg%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯国内予選 | Cho Chikun | Kiyonari Tetsuya | W+R | 2007-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j%2BLeTyafG0eIOqmgfL2nxA%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン2回戦 | Cho Chikun | Mizokami Tomochika | B+R | 2007-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2Bw8Dr%2ByViwLbzFnvjuEMA%3D%3D) | 
-| 第33期名人戦予選 | Cho Chikun | Sonoda Yuichi | B+4.5 | 2007-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m28lHZQ3%2BYhd1M6Uot3Jvg%3D%3D) | 
-| 第14期阿含・桐山杯全日本早碁オープン戦決勝 | Cho Chikun | Cho U | W+6.5 | 2007-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bkExiLOmeNJHyTp17UnNtw%3D%3D) | 
-| 第32期棋聖戦Bリーグ | Hane Naoki | Cho Chikun | W+5.5 | 2007-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Lvpv6CrCn2qZB8s3256vg%3D%3D) | 
-| 第33期名人戦予選 | Cho Sonjin | Cho Chikun | W+R | 2007-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M7cYqtnatjJoRK2TpZnnig%3D%3D) | 
-| 第27期NECカップ囲碁トーナメント戦2回戦 | Cho Chikun | Kono Rin | W+1.5 | 2007-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ttTXx4kN4o79v4iAYqQd4Q%3D%3D) | 
-| 第32期棋聖戦Bリーグ | Komatsu Hideki | Cho Chikun | W+9.5 | 2007-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8iKYiBsdUJY6t%2BAe%2FJosZw%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン1回戦 | Nakano Hironari | Cho Chikun | W+R | 2007-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8nS3VXsNoKwR4E7WQmBu7w%3D%3D) | 
-| 第14期阿含・桐山杯全日本早碁オープン戦準決勝 | Cho Chikun | Ogata Masaki | B+R | 2007-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gv2LrCvWG9WT8pdlED%2FgVw%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権1回戦 | Kim Kiyoung | Cho Chikun | B+R | 2007-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GOvdoPOgNKP5xRbkZOVQ%2Bg%3D%3D) | 
-| 第33期名人戦予選 | O Meien | Cho Chikun | W+R | 2007-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kjwFg7wC048lR6qC8Txk2g%3D%3D) | 
-| 第63期本因坊戦予選 | Yamashita Keigo | Cho Chikun | B+R | 2007-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wgk70VSMV5ht0zHra%2B2Nzg%3D%3D) | 
-| 第3回中環杯世界囲碁選手権1回戦 | Cho Chikun | Park Cheongsang | W+R | 2007-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rXk3K3PDEVXW4amIhVBr5A%3D%3D) | 
-| 第33期名人戦予選 | Sato Masaharu | Cho Chikun | W+R | 2007-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6e26N%2BCzFdqFJxaJZVPVIg%3D%3D) | 
-| 第32期棋聖戦Bリーグ | Cho Chikun | Imamura Toshiya | W+R | 2007-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jW4hmRX9fscX3HDLTgMHCA%3D%3D) | 
-| 第14期阿含・桐山杯全日本早碁オープン戦2回戦 | Sakai Hideyuki | Cho Chikun | W+5.5 | 2007-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q6ugClPkc0pfOFQGLAVm8A%3D%3D) | 
-| 第63期本因坊戦予選 | Cho Chikun | Ryu Shikun | B+8.5 | 2007-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z5hkAsY5O41jxsYSy6AEjg%3D%3D) | 
-| 第32期棋聖戦Bリーグ | Cho Chikun | Kato Atsushi | B+R | 2007-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8guG%2FXz2eDWPASTWoDJ1aQ%3D%3D) | 
-| 第14期阿含・桐山杯全日本早碁オープン戦1回戦 | Honda Kunihisa | Cho Chikun | W+R | 2007-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CB%2BJNs2W6Wo4WoXmF3RWyg%3D%3D) | 
-| 第33期天元戦本戦3回戦 | Cho Chikun | Kim Sujun | W+R | 2007-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Co7xUpMtB2yR9k%2FySsVz1Q%3D%3D) | 
-| 第27期NECカップ囲碁トーナメント戦1回戦 | Cho Chikun | Mimura Tomoyasu | B+R | 2007-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pSIcp5NnhZkCGaEJkdUPIg%3D%3D) | 
-| 第32期棋聖戦Bリーグ | Iyama Yuta | Cho Chikun | W+6.5 | 2007-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F9FEzT2MMC5m51qLkuLFXg%3D%3D) | 
-| 第19回テレビアジア選手権1回戦 | Chen Yaoye | Cho Chikun | B+R | 2007-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C5uvEnDGyeOYLEUC%2BqTeAw%3D%3D) | 
-| 第12回LG杯世界棋王戦2回戦 | Liu Jing | Cho Chikun | B+0.5 | 2007-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=viAAJgH1fN4jUogo%2FEjJOg%3D%3D) | 
-| 第12回LG杯世界棋王戦1回戦 | Cho Chikun | Park Yeonghun | B+R | 2007-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s7nq1VtgvViSTol%2F4ChsVg%3D%3D) | 
-| 第63期本因坊戦予選 | Kanda Ei | Cho Chikun | W+R | 2007-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nUQVB45sPiXYTuIwIsev8A%3D%3D) | 
-| 第55期王座戦1回戦 | Cho Chikun | So Yokoku | W+R | 2007-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rI7BiLnjWOD8kG303kN0uw%3D%3D) | 
-| 第63期本因坊戦予選 | Chin Kaei | Cho Chikun | W+R | 2007-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mzs0zHnDAoJLOSsdFmuJgg%3D%3D) | 
-| 第45期十段戦挑戦手合五番勝負第5局 | Cho Chikun | Yamashita Keigo | B+3.5 | 2007-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f8aR5rJW0Np6aPlMJDQWAA%3D%3D) | 
-| 第45期十段戦挑戦手合五番勝負第4局 | Cho Chikun | Yamashita Keigo | W+R | 2007-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Os1NK9ardyLV1XMKzrt4og%3D%3D) | 
-| 第33期天元戦本戦2回戦 | So Yokoku | Cho Chikun | W+1.5 | 2007-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=onYLI2ovm5JHnpTrMwPHHg%3D%3D) | 
-| 第45期十段戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho Chikun | B+R | 2007-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PGyE6kawyLO1KAYMqtZwsQ%3D%3D) | 
-| 第45期十段戦挑戦手合五番勝負第2局 | Cho Chikun | Yamashita Keigo | B+2.5 | 2007-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wa5WROjmSP5KPoqPsnMOZw%3D%3D) | 
-| 第32期棋聖戦予選 | Cho Chikun | Imamura Yoshiaki | B+9.5 | 2007-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WhZaoz7rXmKXV2YZ33fQwQ%3D%3D) | 
-| 第45期十段戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho Chikun | W+R | 2007-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QI%2Bgs1yDzIDgzHM0oI5aPA%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープン決勝トーナメント1回戦 | Cho Chikun | Yoda Norimoto | W+R | 2007-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ySESZtbQoMcygtrloi%2BLeg%3D%3D) | 
-| 第32期棋聖戦予選 | Cho Chikun | Kono Mitsuki | B+R | 2007-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8JUcZBZATsLVb%2BYkkcWs%2FA%3D%3D) | 
-| 第32期碁聖戦本戦3回戦 | Kono Rin | Cho Chikun | B+R | 2007-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MCN2Niq56ymX%2FZS8cd%2Bo5g%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯国内予選決勝 | Cho Chikun | Yuki Satoshi | W+R | 2007-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hg%2FPnp%2B2wHdLAFXrtt6ySA%3D%3D) | 
-| 第32期棋聖戦予選 | Ishii Kunio | Cho Chikun | W+R | 2007-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KMKbX04mfe%2BCp1U2kmK4gA%3D%3D) | 
-| 第32期碁聖戦本戦2回戦 | Yamashiro Hiroshi | Cho Chikun | W+R | 2007-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7SyLVF%2B9N%2BUO5wpxUX9u6w%3D%3D) | 
-| 第33期天元戦本戦1回戦 | Cho Chikun | Imamura Toshiya | B+R | 2007-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xY4vNERfGkZsn5iimWT%2BTQ%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯国内予選 | Han Zenki | Cho Chikun | W+R | 2006-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m0dMUWg2h2FFFa0OUj04wg%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯国内予選 | Cho Chikun | Kono Rin | B+R | 2006-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Knq8rgNj9Nn4MLr7XKzHyg%3D%3D) | 
-| 第32期碁聖戦本戦1回戦 | Cho Chikun | Kiyonari Tetsuya | B+R | 2006-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Oys62olxg0idq8heNDK0ew%3D%3D) | 
-| 第1回大和証券杯ネット囲碁オープン決勝トーナメント準決勝 | Cho U | Cho Chikun | B+1.5 | 2006-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=obFdMFLMySX1FfxcP%2FloMw%3D%3D) | 
-| 第26期NECカップ囲碁トーナメント戦2回戦 | Cho Chikun | Takao Shinji | W+R | 2006-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FhNwfRPp31Tit9%2Fdh7%2BEUA%3D%3D) | 
-| 第1回大和証券杯ネット囲碁オープン決勝トーナメント1回戦 | Kim Sujun | Cho Chikun | W+R | 2006-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FAsFCTCOAC5JlDOOI8eSpg%3D%3D) | 
-| 第31期棋聖戦Bリーグ | O Rissei | Cho Chikun | B+R | 2006-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kam6hhl5ZS8NfyDzYy8QCw%3D%3D) | 
-| 第31期棋聖戦Bリーグ | Cho Chikun | Imamura Toshiya | W+R | 2006-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xSAtRHCgCGu6sSs5hy9Q0w%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権1回戦 | Ko Keuntae | Cho Chikun | B+R | 2006-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5%2B3csIaphv6a1um%2FY092Xw%3D%3D) | 
-| 第32期名人戦予選 | Cho Chikun | Kiyonari Tetsuya | W+0.5 | 2006-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TfHQPS5Qe0Cajfgtl9BA6A%3D%3D) | 
-| 第62期本因坊戦予選 | Cho Chikun | Kobayashi Satoru | W+R | 2006-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y80j1jH7n3o1BGxlvG53Rg%3D%3D) | 
-| 第31期棋聖戦Bリーグ | Cho Chikun | Kato Atsushi | B+8.5 | 2006-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VBdeakiIYOgNpoB1jERuKw%3D%3D) | 
-| 第62期本因坊戦予選 | Cho Chikun | Nakamura Shinya | B+R | 2006-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zjsh%2FCQqHAUKEcQmk3k0uQ%3D%3D) | 
-| 第31期棋聖戦Bリーグ | Kobayashi Satoru | Cho Chikun | B+R | 2006-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ww71WN%2FjgR7CL86w1saJuA%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Yuki Satoshi | Cho Chikun | B+2.5 | 2006-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZbTFJ6BDdXQ1I0f2aM1ukw%3D%3D) | 
-| 第31期棋聖戦Bリーグ | Cho Chikun | Yuki Satoshi | W+R | 2006-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gKTYsiTLUG0oJAXnooB4PQ%3D%3D) | 
-| 第62期本因坊戦予選 | Han Zenki | Cho Chikun | W+R | 2006-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HpckuPAnmHDohjvJ0topwQ%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Oya Koichi | Cho Chikun | W+4.5 | 2006-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o%2BM%2BM3Ru7aCPdjHuONgQSQ%3D%3D) | 
-| 第26期NECカップ囲碁トーナメント戦1回戦 | Mimura Tomoyasu | Cho Chikun | W+R | 2006-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5oCfU6g0Og%2B7FJU7mHzMdg%3D%3D) | 
-| 第11回LG杯世界棋王戦1回戦 | Cho Chikun | Cho Hanseung | W+6.5 | 2006-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gtR8cqp4b010vrPsK%2FPv9Q%3D%3D) | 
-| 第31期碁聖戦本戦準決勝 | Cho Chikun | Yamashita Keigo | W+R | 2006-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GngSoiYC%2BEafN3qflBAN2g%3D%3D) | 
-| 第62期本因坊戦予選 | Cho Chikun | Anzai Nobuaki | B+3.5 | 2006-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=94hLB1RaztoOJPdHRF3uDg%3D%3D) | 
-| 第31期棋聖戦予選 | Cho Chikun | Morita Michihiro | B+R | 2006-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zC9yrbeGsO9Tl5IvvlSlsg%3D%3D) | 
-| 第44期十段戦挑戦手合五番勝負第4局 | Cho Chikun | Yamashita Keigo | B+2.5 | 2006-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R%2FSygh3ZAWJD6%2FfSBNKjHQ%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯2回戦 | Lee Sedol | Cho Chikun | B+R | 2006-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hv0cAQ7YivQyFdI7l8udRw%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯1回戦 | Alexander Dinerchtein | Cho Chikun | W+14.5 | 2006-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j%2FP16HiD2j4K6QoWPFNZgg%3D%3D) | 
-| 第44期十段戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho Chikun | B+8.5 | 2006-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=te2rM3gMKW1foqt5xOiTXw%3D%3D) | 
-| 第44期十段戦挑戦手合五番勝負第2局 | Cho Chikun | Yamashita Keigo | B+R | 2006-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=00DGHRJVdK0dSln7E%2FdImA%3D%3D) | 
-| 第31期棋聖戦予選 | Cho Chikun | Hoshino Masaki | B+R | 2006-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WM30W78IEs%2FHAFga7jdN9Q%3D%3D) | 
-| 第6回春蘭杯世界囲碁選手権2回戦 | Zhou Heyang | Cho Chikun | B+R | 2006-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O%2FvXPjIpOTFaQOSi6%2BMapg%3D%3D) | 
-| 第6回春蘭杯世界囲碁選手権1回戦 | Yu Bin | Cho Chikun | W+2.5 | 2006-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BUw1BNetLjQ3zOPDFsODAA%3D%3D) | 
-| 第44期十段戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho Chikun | W+R | 2006-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oUUzfEHs2vAPIfOBcAU0DA%3D%3D) | 
-| 第31期碁聖戦本戦3回戦 | Cho Chikun | Kiyonari Tetsuya | B+R | 2006-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F0X0Pev6nx5Nj47l69zgiA%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯国内予選決勝 | Kataoka Satoshi | Cho Chikun | W+R | 2006-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=65%2B6w8xgRi0zjweEnGzmlQ%3D%3D) | 
-| 第31期棋聖戦予選 | O Meien | Cho Chikun | W+R | 2006-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w1%2BlHisfxndQZSh2D63BNA%3D%3D) | 
-| 第32期天元戦本戦2回戦 | Hane Naoki | Cho Chikun | B+5.5 | 2006-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KZ%2BoNCvR6YSU4F7b31kDGw%3D%3D) | 
-| 第31期碁聖戦本戦2回戦 | O Meien | Cho Chikun | W+7.5 | 2006-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=clmlnWhYbi00ua3ukr2zrg%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯国内予選 | Cho Chikun | Yoda Norimoto | B+R | 2006-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N1jSuQ7oLm39Bk4GzKlmjQ%3D%3D) | 
-| 第32期天元戦本戦1回戦 | Aragaki Shun | Cho Chikun | W+R | 2005-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NUfcMlM03YabKw5lZLvG5Q%3D%3D) | 
-| 第54期王座戦予選 | Kobayashi Satoru | Cho Chikun | B+8.5 | 2005-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=da7oQSyXbjiptZ0PYgE7MA%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯国内予選 | Kudo Norio | Cho Chikun | W+4.5 | 2005-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r%2B03HQLVnBi1rJdpmPeqxg%3D%3D) | 
-| 第31期碁聖戦本戦1回戦 | Cho Chikun | Kono Rin | B+R | 2005-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V85OvXfcPMGxG1ozyTiZdg%3D%3D) | 
-| 第32期天元戦予選 | Oya Koichi | Cho Chikun | W+R | 2005-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6vvPFk7lciu%2Fu1LwCh%2Bo9A%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権1回戦 | Cho Chikun | Yoo Jaeho | W+1.5 | 2005-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=opBB57cGDt1o%2FPbXnFo6IQ%3D%3D) | 
-| 第12期阿含・桐山杯全日本早碁オープン戦準決勝 | Cho Chikun | Iyama Yuta | W+R | 2005-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S5hVBN2oU83Vn28q7SeYaQ%3D%3D) | 
-| 第2回中環杯世界囲碁選手権1回戦 | Cho Chikun | Choi Cheolhan | W+R | 2005-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QsmrUL952JW7PuuWbp1mAg%3D%3D) | 
-| 第12期阿含・桐山杯全日本早碁オープン戦2回戦 | Cho Chikun | Kiyonari Tetsuya | B+R | 2005-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bV5sXor51L0cFKJoQvzczQ%3D%3D) | 
-| 第12期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Sonjin | Cho Chikun | W+R | 2005-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mxdr4WayDY0m6TQb5Cs0eg%3D%3D) | 
-| 第25期NECカップ囲碁トーナメント戦1回戦 | Yamada Kimio | Cho Chikun | B+18.5 | 2005-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BawaFLA1Lc4hWEiF9v5qwA%3D%3D) | 
-| 第53期王座戦1回戦 | Cho Chikun | Kataoka Satoshi | W+4.5 | 2005-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AJwCU0aWApGnrxkscsHGxg%3D%3D) | 
-| 第30期碁聖戦本戦準決勝 | Cho Chikun | Yuki Satoshi | W+R | 2005-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G86AkZwC%2FPTz5CyZeP9rqw%3D%3D) | 
-| 第43期十段戦挑戦手合五番勝負第5局 | Cho Chikun | O Rissei | B+5.5 | 2005-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pTxsWM6e%2FwfZlRcXDWcVnQ%3D%3D) | 
-| 第43期十段戦挑戦手合五番勝負第4局 | O Rissei | Cho Chikun | W+R | 2005-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h%2B8%2BqJBjUhHAn5Z20Uwuow%3D%3D) | 
-| 第43期十段戦挑戦手合五番勝負第3局 | Cho Chikun | O Rissei | W+19.5 | 2005-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kCA01X3D1YRQFs43cBCi%2FQ%3D%3D) | 
-| 第31期天元戦本戦2回戦 | Cho Chikun | Yamashiro Hiroshi | W+R | 2005-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P1y%2BhFVPcMW%2BhB703oyT%2Fw%3D%3D) | 
-| 第43期十段戦挑戦手合五番勝負第2局 | O Rissei | Cho Chikun | B+5.5 | 2005-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T%2FZNFvT5z37zgEsNWOx3DA%3D%3D) | 
-| 第43期十段戦挑戦手合五番勝負第1局 | Cho Chikun | O Rissei | B+0.5 | 2005-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xc3aB2FKJCowMq4QVu1MTQ%3D%3D) | 
-| 第30期碁聖戦本戦3回戦 | Yamada Kimio | Cho Chikun | W+R | 2005-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WN%2BSZK%2FPDTjxOsuOn5UN2g%3D%3D) | 
-| 第53期王座戦予選 | Ogaki Yusaku | Cho Chikun | W+R | 2005-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U412m7TVgsZE487gPa3B9w%3D%3D) | 
-| 第30期棋聖戦予選 | Cho Chikun | Hane Yasumasa | B+R | 2005-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ifBADLbY07bZDb7xk1xQXw%3D%3D) | 
-| 第43期十段戦挑戦者決定戦 | Takao Shinji | Cho Chikun | W+1.5 | 2005-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s4dRBnY0ltRWkdEgl3o%2BIw%3D%3D) | 
-| 第30期碁聖戦本戦2回戦 | Cho Chikun | Yamashita Keigo | B+R | 2005-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eubfAkgZTHQ4chVst3sscg%3D%3D) | 
-| 第31期天元戦本戦1回戦 | Cho Chikun | Yukawa Mitsuhisa | B+R | 2004-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ee6SYPV0pP2PAj8V037cOQ%3D%3D) | 
-| 第6回農心辛ラーメン杯世界囲碁最強戦第9戦 | Cho Chikun | Luo Xihe | W+R | 2004-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7WyNYpM%2B65vrosbeNObaCA%3D%3D) | 
-| 第6回農心辛ラーメン杯世界囲碁最強戦第8戦 | Choi Cheolhan | Cho Chikun | W+R | 2004-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=36h8wJ1qO%2BUOrVzQjBTA0A%3D%3D) | 
-| 第43期十段戦本戦勝者組決勝 | Mimura Tomoyasu | Cho Chikun | W+R | 2004-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lfiNGx7f6J37dFZriMRyfQ%3D%3D) | 
-| 第43期十段戦本戦3回戦 | Hikosaka Naoto | Cho Chikun | W+2.5 | 2004-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cbAEnMi8uFXpTYqnsKmqFA%3D%3D) | 
-| 第29期棋聖戦Bリーグ | Cho Chikun | Kobayashi Satoru | B+R | 2004-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ekgi6GtGsWj7S9htei9iXw%3D%3D) | 
-| 第30期碁聖戦予選 | Cho Chikun | Cho Sonjin | B+0.5 | 2004-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3qPWczfhX5cgGVUCwywp7Q%3D%3D) | 
-| 第1回中環杯世界囲碁選手権1回戦 | O Rissei | Cho Chikun | B+1.5 | 2004-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B%2BXtXQJB8FnrKX1iGzPiVg%3D%3D) | 
-| 第29期棋聖戦Bリーグ | Yuki Satoshi | Cho Chikun | B+R | 2004-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=refVSkeOs%2B8yoJ4IeiqEAg%3D%3D) | 
-| 第9回三星火災杯世界オープン囲碁選手権2回戦 | Wang Xi | Cho Chikun | B+R | 2004-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=um8GCENbz1kVvi6mRemNkw%3D%3D) | 
-| 第9回三星火災杯世界オープン囲碁選手権1回戦 | Cho Chikun | Yoo Changhyuk | B+1.5 | 2004-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AFGws6imtlNg3tPXgMkdLQ%3D%3D) | 
-| 第29期棋聖戦Bリーグ | O Rissei | Cho Chikun | B+R | 2004-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9%2FZp%2FgBlMpb0kcj7rnByxQ%3D%3D) | 
-| 第43期十段戦本戦2回戦 | Yamada Kimio | Cho Chikun | W+0.5 | 2004-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5PrNeMzXLzxxfFQLJQLHnA%3D%3D) | 
-| 第30期天元戦本戦準決勝 | Cho Chikun | Kim Sujun | W+R | 2004-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lordMOgzdUMcOMBkcy8RsA%3D%3D) | 
-| 第2期JALスーパー早碁決勝 | Mimura Tomoyasu | Cho Chikun | W+R | 2004-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ajtU7i1yw%2Bri7F1HTD7%2B%2BQ%3D%3D) | 
-| 第2期JALスーパー早碁準決勝 | Cho Chikun | Kato Masao | B+2.5 | 2004-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HKAJ7oqZve4P%2BXfTbkht7Q%3D%3D) | 
-| 第29期名人戦リーグ | Cho U | Cho Chikun | B+R | 2004-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BDN8xXP2zjXnQA1E3Z%2FUcA%3D%3D) | 
-| 第29期名人戦リーグ | Cho Chikun | O Rissei | B+R | 2004-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ux%2Bhm6o1IYNgLFzx0xutYA%3D%3D) | 
-| 第29期棋聖戦Bリーグ | Cho Chikun | Cho U | W+R | 2004-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BEJRQ%2Fej%2FjAjnfdePrtfhg%3D%3D) | 
-| 第30期天元戦本戦3回戦 | Cho Chikun | So Yokoku | B+7.5 | 2004-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xh62Dxqb1hbEWKtTXTaj5A%3D%3D) | 
-| 第24期NECカップ囲碁トーナメント戦1回戦 | Mimura Tomoyasu | Cho Chikun | B+1.5 | 2004-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xdn41orIR0ph2zdn0lWp6w%3D%3D) | 
-| 第29期棋聖戦Bリーグ | Imamura Yoshiaki | Cho Chikun | W+R | 2004-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ia%2FD080YJyDq0ynpGl1Ikw%3D%3D) | 
-| 第2期JALスーパー早碁2回戦 | Cho Chikun | Yuki Satoshi | B+R | 2004-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z%2FO%2FPAMt7tn3f0ZMBCmuDA%3D%3D) | 
-| 第29期名人戦リーグ | Cho Chikun | Kobayashi Satoru | W+R | 2004-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SnTSF98sQjVK5v0ey33z%2Bw%3D%3D) | 
-| 第43期十段戦本戦1回戦 | Cho Chikun | Hashimoto Yujiro | B+R | 2004-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZXppFLGlKWDYmkZM0FBirA%3D%3D) | 
-| 第16回テレビアジア選手権 | Cho Chikun | Yu Bin | W+R | 2004-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QOD%2BjrPEKLLYBP%2F3vIk8uA%3D%3D) | 
-| 第16回テレビアジア選手権 | Gu Li | Cho Chikun | W+2.5 | 2004-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B3tVJj81zOq3fC9ZqU6X9w%3D%3D) | 
-| 第29期名人戦リーグ | O Meien | Cho Chikun | B+R | 2004-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zv8XWWP4PyKbM0AQ7zn7kg%3D%3D) | 
-| 第29期名人戦リーグ | Cho Chikun | Rin Kaiho | W+R | 2004-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ARFR%2FX7b%2FHZlBJGrsQPaDg%3D%3D) | 
-| 第2期JALスーパー早碁1回戦 | Yokota Shigeaki | Cho Chikun | W+R | 2004-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mqHW73NYYc5LOXNnexv53w%3D%3D) | 
-| 第30期天元戦本戦2回戦 | Cho Chikun | Cho Sonjin | B+3.5 | 2004-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1qCZS75fpojV4fT5vrWoWw%3D%3D) | 
-| 第29期名人戦リーグ | Cho Chikun | Yamada Kimio | W+0.5 | 2004-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y92rTEWDeJeFXLvQsmIHww%3D%3D) | 
-| 第23期NECカップ囲碁トーナメント戦準決勝 | Mimura Tomoyasu | Cho Chikun | B+R | 2004-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=61rztRQm%2FLCnUueOqLzaSw%3D%3D) | 
-| 第30期天元戦本戦1回戦 | Yukawa Mitsuhisa | Cho Chikun | W+0.5 | 2004-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4kNpT6bhWHTPVRtqAiAepQ%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権2回戦 | Cho Chikun | Hu Yaoyu | W+R | 2003-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YmoCPf6panj1h%2BN2HGCDlw%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権1回戦 | Kong Jie | Cho Chikun | W+R | 2003-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tlyIs5IKeyTYErE5847CXA%3D%3D) | 
-| 第8期三星杯決勝三番勝負第3局 | Park Yeonghun | Cho Chikun | W+R | 2003-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FnIHXahSVwmp9ZyTDA9DwQ%3D%3D) | 
-| 第8期三星杯決勝三番勝負第2局 | Park Yeonghun | Cho Chikun | W+R | 2003-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FRa624%2BC3pBdmgXm6wgq2g%3D%3D) | 
-| 第8期三星杯決勝三番勝負第1局 | Cho Chikun | Park Yeonghun | W+4.5 | 2003-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KkNyVV9RDkxAJ3VWeR3%2Faw%3D%3D) | 
-| 第29期名人戦リーグ | Imamura Toshiya | Cho Chikun | B+R | 2003-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hvdIMinHcznG8E9jJUToNQ%3D%3D) | 
-| 第23期NECカップ囲碁トーナメント戦2回戦 | O Meien | Cho Chikun | W+1.5 | 2003-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0DjCiOxoPGaYcLVMlaRFTQ%3D%3D) | 
-| 第28期棋聖戦挑戦者決定戦 | Hane Naoki | Cho Chikun | B+2.5 | 2003-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6uTJ3ENGTV74ssRscv%2FJEg%3D%3D) | 
-| 第8期三星杯準決勝三番勝負第2局 | Cho Chikun | Hu Yaoyu | B+0.5 | 2003-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gSQfXvqwJfsaESuai3PPnw%3D%3D) | 
-| 第8期三星杯準決勝三番勝負第1局 | Hu Yaoyu | Cho Chikun | W+R | 2003-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nx8RpZrTOkg%2BUaRI2maXqQ%3D%3D) | 
-| 第42期十段戦敗者復活戦3回戦 | Cho Chikun | Hashimoto Yujiro | W+R | 2003-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l7YfGiC9hf8vpe%2BiNZUxsg%3D%3D) | 
-| 第8期三星杯3回戦 | Cho Chikun | Cho Hunhyun | B+R | 2003-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FqZ0E2gj6y9RPxgh%2F0U6jQ%3D%3D) | 
-| 第28期棋聖戦Bリーグ | Cho Chikun | Ryu Shikun | B+3.5 | 2003-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rjCFJD4z5DFvIJ2%2FWIV8Qw%3D%3D) | 
-| 第29期碁聖戦予選 | Cho U | Cho Chikun | B+R | 2003-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pYw%2F9rULqtVg0ov8daUGJg%3D%3D) | 
-| 第42期十段戦本戦3回戦 | Cho U | Cho Chikun | B+0.5 | 2003-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5t%2Fg34k6VRqH33Dfw2bD0Q%3D%3D) | 
-| 第10期阿含・桐山杯全日本早碁オープン戦準決勝 | Cho Chikun | Kato Masao | W+1.5 | 2003-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YlzXmgTXb6%2Fyi%2B9IxuY1XA%3D%3D) | 
-| 第28期棋聖戦Bリーグ | Cho U | Cho Chikun | B+R | 2003-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uR4J6B%2BJW9uW%2BRY3qp2DWw%3D%3D) | 
-| 第8期三星杯2回戦 | Weon Seongjin | Cho Chikun | W+R | 2003-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aDh1BKO7h0CU2uqnk7QEcw%3D%3D) | 
-| 第8期三星杯1回戦 | Cho Chikun | Kim Juho | B+R | 2003-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5bi3OyUtT5KOsZP11HEuRw%3D%3D) | 
-| 第28期棋聖戦Bリーグ | Cho Chikun | Awaji Shuzo | B+R | 2003-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1gbh0kSYAOsBUuF%2Fqi%2BREg%3D%3D) | 
-| 第42期十段戦本戦2回戦 | Cho Chikun | O Meien | B+3.5 | 2003-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HSRJKylTnvheIre%2FCDBcgQ%3D%3D) | 
-| 第28期名人戦リーグ | Mizokami Tomochika | Cho Chikun | W+6.5 | 2003-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oKyNeSY1R2FU0CwWBB%2F6jg%3D%3D) | 
-| 第1期JALスーパー早碁2回戦 | Hane Naoki | Cho Chikun | B+R | 2003-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AzNPryDPRyq3zidgor0hTw%3D%3D) | 
-| 第10期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Chikun | Kobayashi Koichi | B+5.5 | 2003-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uV8dVY3Bw16ni26ZH4w2zQ%3D%3D) | 
-| 第59期本因坊戦予選 | Nakaonoda Tomomi | Cho Chikun | W+5.5 | 2003-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZBPjay3zpUX3xzlEH8N3eg%3D%3D) | 
-| 第28期棋聖戦Bリーグ | Cho Chikun | Yoda Norimoto | B+6.5 | 2003-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hw8PKPEBMXGPwuHrGas%2BmA%3D%3D) | 
-| 第28期名人戦リーグ | Cho Chikun | Rin Kaiho | W+R | 2003-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tZn%2BnlKFYC1y%2FmZq6SNnFA%3D%3D) | 
-| 第51期王座戦2回戦 | Yamashiro Hiroshi | Cho Chikun | B+2.5 | 2003-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6bo9AgcXZyEmHwI8pfeZTw%3D%3D) | 
-| 第23期NECカップ囲碁トーナメント戦1回戦 | Rin Kaiho | Cho Chikun | W+1.5 | 2003-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2dnSQc8G13mWogB0Cev%2Fag%3D%3D) | 
-| 第8回LG杯世界棋王戦2回戦 | Cho Chikun | Lee Changho | W+R | 2003-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eKrGk0JvDza8D7zwwr1fxQ%3D%3D) | 
-| 第8回LG杯世界棋王戦1回戦 | An Joyeong | Cho Chikun | W+R | 2003-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0PTSCQStNHzsovmvCgq0og%3D%3D) | 
-| 第28期名人戦リーグ | O Rissei | Cho Chikun | B+6.5 | 2003-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vgQ0gTMTpuPFH8mL%2FD%2BvXQ%3D%3D) | 
-| 第28期棋聖戦Bリーグ | O Meien | Cho Chikun | W+R | 2003-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ehgiSuxqhnRWc8hypstWRA%3D%3D) | 
-| 第42期十段戦1回戦 | Yamada Kimio | Cho Chikun | W+R | 2003-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T0kClThwe4isU56j1guSxg%3D%3D) | 
-| 第29期天元戦本戦3回戦 | Cho Chikun | Kobayashi Satoru | W+8.5 | 2003-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2RJrZihY5A7CqiQIwiMcQg%3D%3D) | 
-| 第28期名人戦リーグ | Ryu Shikun | Cho Chikun | W+7.5 | 2003-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=782lJQ5DeqyhptMKDkUjoQ%3D%3D) | 
-| 第51期王座戦1回戦 | Cho Chikun | Kudo Norio | B+3.5 | 2003-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jym9I8gPT1uoIisRFO6Y1Q%3D%3D) | 
-| 第28期名人戦リーグ | Cho Chikun | Yamashita Keigo | W+R | 2003-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ztn65fWAobNki%2BtghFxY%2Fg%3D%3D) | 
-| 第16回世界囲碁選手権富士通杯1回戦 | Gu Li | Cho Chikun | B+R | 2003-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NVRSswhwYcrq%2FfD2S3HFoA%3D%3D) | 
-| 第28期碁聖戦本戦3回戦 | Michael Redmond | Cho Chikun | B+3.5 | 2003-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7mu%2FTRmaTZ4izJT3wJfD9w%3D%3D) | 
-| 第29期天元戦本戦2回戦 | Imamura Toshiya | Cho Chikun | W+6.5 | 2003-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FEN5QUtPtu0D5ud7CHPS2Q%3D%3D) | 
-| 第28期名人戦リーグ | Cho Chikun | Cho U | W+R | 2003-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=18aVg0vwAiXaGQ6lpI75kg%3D%3D) | 
-| 第28期碁聖戦本戦2回戦 | Otake Hideo | Cho Chikun | W+1.5 | 2003-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pjXg7r4jIYyyRepqhaLC9w%3D%3D) | 
-| 第29期天元戦本戦1回戦 | Hashimoto Shoji | Cho Chikun | W+6.5 | 2003-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nycykd1AJyLoRaZa4GikvA%3D%3D) | 
-| 第28期碁聖戦本戦1回戦 | Rin Kaiho | Cho Chikun | W+10.5 | 2003-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eqccN4phuOdqKHyKvgc6KA%3D%3D) | 
-| 第4回春蘭杯世界囲碁選手権2回戦 | Cho Chikun | Zhou Heyang | W+R | 2002-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kDb5zusmxZKJmd8FwNeS%2FA%3D%3D) | 
-| 第4回春蘭杯世界囲碁選手権1回戦 | Park Yeonghun | Cho Chikun | W+2.5 | 2002-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QUv1xHb6QkYxTfSkIknmug%3D%3D) | 
-| 第7回LG杯世界棋王戦2回戦 | Cho Chikun | Cho Hunhyun | W+R | 2002-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uz8%2FG9wfvdHx8rhbwFQGWw%3D%3D) | 
-| 第7回LG杯世界棋王戦1回戦 | missing | Cho Chikun | W+5.5 | 2002-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Ie%2BXI8WTSksYu8j74eRLQ%3D%3D) | 
-| 第6期三星杯1回戦 | Cho Chikun | Rui Naiwei | W+R | 2001-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vTyHUW3U5m%2FiB0XQ%2B%2Bx9YQ%3D%3D) | 
-| 第6回LG杯世界棋王戦2回戦 | Cho Hunhyun | Cho Chikun | B+R | 2001-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZhFGECOyMy%2BPI5oRc%2FSUVg%3D%3D) | 
-| 第6回LG杯世界棋王戦1回戦 | Cho Chikun | Chang Hao | B+R | 2001-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ccxBvYLUmRMV3DjMwir1kw%3D%3D) | 
-| 第5期三星杯1回戦 | Choi Myeonghun | Cho Chikun | B+1.5 | 2000-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3XgfbmJFTr6682gVEt7U3g%3D%3D) | 
-| 第5回LG杯世界棋王戦2回戦 | Cho Hunhyun | Cho Chikun | B+R | 2000-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UzMzkJsEMFPr3Vukb7qN%2Fg%3D%3D) | 
-| 第5回LG杯世界棋王戦1回戦 | Cho Chikun | Kim Seonryong | B+8.5 | 2000-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jdi7ibcf9O37vIDQI%2B12pQ%3D%3D) | 
-| 第4回応氏杯世界選手権2回戦 | Yu Bin | Cho Chikun | B+R | 2000-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nJJedbv%2F4jOC0Z%2FjxkTCLg%3D%3D) | 
-| 第4期三星杯1回戦 | Cho Chikun | Liu Xiaoguang | W+R | 1999-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k%2FP%2FCxOrh4mpYI9qK86xYw%3D%3D) | 
-| 第4回LG杯世界棋王戦2回戦 | Cho Chikun | Chang Hao | W+1.5 | 1999-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fKMjyK45wOlAJkkjGnPUIQ%3D%3D) | 
-| 第3回LG杯世界棋王戦3回戦 | Cho Chikun | Ma Xiaochun | W+5.5 | 1998-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3JyYp8ktmG1y049Dbczrtw%3D%3D) | 
-| 第3回LG杯世界棋王戦2回戦 | Rui Naiwei | Cho Chikun | W+R | 1998-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XWB98RBEHAo6l7qbAEsleg%3D%3D) | 
-| 第3回応氏杯世界選手権準決勝三番勝負第3局 | Yoda Norimoto | Cho Chikun | B+R | 1996-08-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CbVI06%2FelwMa8K0a8nRxMQ%3D%3D) | 
-| 第3回応氏杯世界選手権準決勝三番勝負第2局 | Cho Chikun | Yoda Norimoto | W+R | 1996-08-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=70fYt175M3ePGdN5c1ORkg%3D%3D) | 
-| 第3回応氏杯世界選手権準決勝三番勝負第1局 | Yoda Norimoto | Cho Chikun | W+3 | 1996-08-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QzkUa8RN8Brm0d46pgZxaQ%3D%3D) | 
-| 第3回応氏杯世界選手権3回戦 | Ma Xiaochun | Cho Chikun | W+R | 1996-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=81kUJPxJ1qHLzysII0AlwA%3D%3D) | 
-| 第3回応氏杯世界選手権2回戦 | Cho Chikun | Jiang Zhujiu | B+R | 1996-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dj5PTK2%2Bk0NkNEAegat4vQ%3D%3D) | 
-| 第2回応氏杯世界選手権準決勝三番勝負第3局 | Cho Chikun | Seo Bongsoo | W+5 | 1992-11-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DCgSrjVNJIvlT1U9g%2B3vJw%3D%3D) | 
-| 第2回応氏杯世界選手権準決勝三番勝負第2局 | Seo Bongsoo | Cho Chikun | B+1 | 1992-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3jDHeoomcLmiQTPsi2UmFw%3D%3D) | 
-| 第2回応氏杯世界選手権準決勝三番勝負第1局 | Cho Chikun | Seo Bongsoo | B+1 | 1992-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CwS%2FpXVx2fsNMd1c%2FMWcFA%3D%3D) | 
-| 第2回応氏杯世界選手権3回戦 | Cho Chikun | Awaji Shuzo | B+5 | 1992-07-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lq4ot%2F1OGyH5Nn9DcHN2Zw%3D%3D) | 
-| 第2回応氏杯世界選手権2回戦 | Yoo Changhyuk | Cho Chikun | W+7 | 1992-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G9Dyg%2F1hWEtEbu9JZxB2lA%3D%3D) | 
-| 第1回応氏杯世界選手権2回戦 | Nie Weiping | Cho Chikun | B+R | 1988-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TgVZp68TJcdHBNPmlXn07g%3D%3D) | 
-| 第1回応氏杯世界選手権1回戦 | Wu Songsheng | Cho Chikun | W+1 | 1988-08-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L4wpPcBQaP8LCG3nFTPFaQ%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-05 | 第47期名人戦予選  | Cho Chikun | Takanashi Seiken | Win | B+R | 6.5 | 2988 | -5 | 
+| 2021-03-29 | 第60期十段戦予選 | Hashimoto Yujiro | Cho Chikun | Lose | B+R | 6.5 | 2993 | -90 | 
+| 2021-02-25 | 第46期棋聖戦予選 | Hirata Tomoya | Cho Chikun | Lose | B+R | 6.5 | 3083 | -162 | 
+| 2021-02-01 | 第69期王座戦予選 | Mochizuki Kenichi | Cho Chikun | Lose | B+R | 6.5 | 3245 | -3 | 
+| 2021-01-25 | 第46期棋聖戦予選 | Cho Chikun |  | Win | B+R | 6.5 | 3248 | -29 | 
+| 2021-01-07 | 第69期王座戦予選 | Seki Kotaro | Cho Chikun | Win | W+3.5 | 6.5 | 3277 | -10 | 
+| 2020-12-03 | 第47期天元戦予選 | Cho Chikun | Kataoka Satoshi | Win | B+R | 6.5 | 3287 | 64 | 
+| 2020-11-12 | 第47期天元戦予選 | Sun Zhe | Cho Chikun | Win | W+R | 6.5 | 3223 | 54 | 
+| 2020-11-05 | 第46期碁聖戦予選 | Cho Chikun | Yoda Norimoto | Lose | W+R | 6.5 | 3169 | -10 | 
+| 2020-10-19 | 第46期碁聖戦予選 | Anzai Nobuaki | Cho Chikun | Win | W+R | 6.5 | 3179 | 86 | 
+| 2020-09-17 | 第45期棋聖戦Cリーグ | Cho Riyu | Cho Chikun | Lose | B+R | 6.5 | 3093 | 80 | 
+| 2020-09-03 | 第47期天元戦予選 |  | Cho Chikun | Win | W+R | 6.5 | 3013 | 61 | 
+| 2020-08-20 | 第45期棋聖戦Cリーグ | Cho Chikun | O Meien | Lose | W+R | 6.5 | 2952 | 149 | 
+| 2020-08-06 | 第45期棋聖戦Cリーグ | Cho Chikun | Hong Seokui | Lose | W+R | 6.5 | 2803 | -12 | 
+| 2020-07-23 | 第46期名人戦予選 | Mimura Tomoyasu | Cho Chikun | Lose | B+2.5 | 6.5 | 2815 | -47 | 
+| 2020-07-09 | 第45期棋聖戦Cリーグ | Goto Shungo | Cho Chikun | Win | W+R | 6.5 | 2862 | -34 | 
+| 2020-07-02 | 第46期名人戦予選 | Cho Chikun | Han Zenki | Win | B+5.5 | 6.5 | 2896 | 188 | 
+| 2020-04-02 | 第46期名人戦予選 | O Rissei | Cho Chikun | Win | W+2.5 | 6.5 | 2708 | 35 | 
+| 2020-03-26 | 第45期棋聖戦Cリーグ | Kiyonari Tetsuya | Cho Chikun | Win | W+R | 6.5 | 2673 | -21 | 
+| 2020-03-12 | 第46期碁聖戦予選 | Cho Chikun | Kamimura Haruo | Win | B+R | 6.5 | 2694 | -5 | 
+| 2020-03-05 | 第76期本因坊戦予選 | Cho Chikun | O Meien | Lose | W+R | 6.5 | 2699 | 6 | 
+| 2020-02-23 | 2020シニアvs女子囲碁リーグチャンピオンズカップ第2戦第1局 | Oh Yujin | Cho Chikun | Win | W+R | 6.5 | 2693 | 31 | 
+| 2020-02-22 | 2020シニアvs女子囲碁リーグチャンピオンズカップ第1戦第1局 | Cho Chikun | Oh Yujin | Lose | W+R | 6.5 | 2662 | -228 | 
+| 2020-01-09 | 第68期王座戦予選 | Cho Chikun | Hirata Tomoya | Lose | W+R | 6.5 | 2890 | -11 | 
+| 2019-12-27 | 2019NHシニア囲碁リーグチャンピオン決定戦第2戦第1局 | Kim JongJoon | Cho Chikun | Win | W+R | 6.5 | 2901 | -1 | 
+| 2019-12-26 | 2019NHシニア囲碁リーグチャンピオン決定戦第1戦第1局 | Cho Chikun | Seo Bongsoo | Win | B+R | 6.5 | 2902 | 331 | 
+| 2019-12-18 | 2019NHシニア囲碁リーグ第14節第4試合第3局 | Cho Chikun | Cho Daehyeon | Win | B+T | 6.5 | 2571 | 22 | 
+| 2019-12-12 | 2019NHシニア囲碁リーグ第13節第4試合第2局 | Cho Chikun | Park Yeongchan | Win | B+R | 6.5 | 2549 | -34 | 
+| 2019-12-04 | 2019NHシニア囲碁リーグ第12節第3試合第2局 | Cho Chikun | Jeong Daesang | Win | B+R | 6.5 | 2583 | -1 | 
+| 2019-11-29 | 2019NHシニア囲碁リーグ第11節第2試合第3局 | Cho Chikun | Kim Dongyeop | Win | B+6.5 | 6.5 | 2584 | 21 | 
+| 2019-11-26 | 2019NHシニア囲碁リーグ第10節第2試合第1局 | Cho Chikun | Park Seungmun | Win | B+12.5 | 6.5 | 2563 | -1 | 
+| 2019-11-21 | 第59期十段戦予選 | Han Zenki | Cho Chikun | Lose | B+R | 6.5 | 2564 | -7 | 
+| 2019-11-18 | 2019NHシニア囲碁リーグ第9節第1試合第2局 | Cho Chikun | Moon Myunggun | Win | B+R | 6.5 | 2571 | 17 | 
+| 2019-11-13 | 2019NHシニア囲碁リーグ第8節第3試合第2局 | Kim Dongmyeon | Cho Chikun | Win | W+R | 6.5 | 2554 | -6 | 
+| 2019-11-08 | 2019NHシニア囲碁リーグ第7節第1試合第1局 | Seo Bongsoo | Cho Chikun | Win | W+R | 6.5 | 2560 | 82 | 
+| 2019-10-31 | 2019NHシニア囲碁リーグ第5節第2試合第1局 | Cho Chikun | Jeong Daesang | Win | B+R | 6.5 | 2478 | 12 | 
+| 2019-10-23 | 2019NHシニア囲碁リーグ第4節第3試合第3局 | Cho Chikun | Kim Dongyeop | Win | B+4.5 | 6.5 | 2466 | 19 | 
+| 2019-10-17 | 第68期王座戦予選 | Yo Kaei | Cho Chikun | Win | W+8.5 | 6.5 | 2447 | 14 | 
+| 2019-10-10 | 第59期十段戦予選 | Mitsunaga Junzo | Cho Chikun | Win | W+0.5 | 6.5 | 2433 | 37 | 
+| 2019-10-08 | 2019NHシニア囲碁リーグ第1節第2試合第3局 | Cho Chikun | Kim Dongmyeon | Win | B+R | 6.5 | 2396 | 9 | 
+| 2019-09-26 | 第59期十段戦予選 | Takekiyo Isamu | Cho Chikun | Win | W+7.5 | 6.5 | 2387 | -25 | 
+| 2019-09-12 | 第46期天元戦予選 | Cho Chikun | Ueno Asami | Lose | W+R | 6.5 | 2412 | -39 | 
+| 2019-09-05 | 第59期十段戦予選 | Cho Chikun | Chinen Kaori | Win | B+R | 6.5 | 2451 | -23 | 
+| 2019-08-22 | 第45期碁聖戦予選 | Koike Yoshihiro | Cho Chikun | Lose | B+R | 6.5 | 2474 | -143 | 
+| 2019-08-08 | 第44期棋聖戦Bリーグ | Motoki Katsuya | Cho Chikun | Lose | B+R | 6.5 | 2617 | -6 | 
+| 2019-07-25 | 第44期棋聖戦Bリーグ | Cho Chikun | Adachi Toshimasa | Lose | W+R | 6.5 | 2623 | 8 | 
+| 2019-07-20 | 第9回フマキラー囲碁マスターズカップ決勝  | Cho Chikun | Komatsu Hideki | Win | B+R | 6.5 | 2615 | -18 | 
+| 2019-07-11 | 第45期名人戦予選 | Cho Chikun | Hirata Tomoya | Lose | W+0.5 | 6.5 | 2633 | 38 | 
+| 2019-06-29 | 第9回フマキラー囲碁マスターズカップ準決勝  | Kobayashi Koichi | Cho Chikun | Win | W+R | 6.5 | 2595 | 25 | 
+| 2019-06-27 | 第44期棋聖戦Bリーグ | Han Zenki | Cho Chikun | Lose | B+1.5 | 6.5 | 2570 | -60 | 
+| 2019-06-08 | 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Takemiya Masaki | Cho Chikun | Lose | B+R | 6.5 | 2630 | -42 | 
+| 2019-06-06 | 第9回フマキラー囲碁マスターズカップ2回戦 | Yamashiro Hiroshi | Cho Chikun | Win | W+R | 6.5 | 2672 | 21 | 
+| 2019-05-16 | 第75期本因坊戦予選 | Cho Chikun | Shuto Shun | Lose | W+R | 6.5 | 2651 | -27 | 
+| 2019-05-09 | 第44期棋聖戦Bリーグ | Cho Chikun | Ko Iso | Win | B+R | 6.5 | 2678 | 4 | 
+| 2019-05-02 | 第9回フマキラー囲碁マスターズカップ1回戦 | Cho Chikun | Kudo Norio | Win | B+R | 6.5 | 2674 | -36 | 
+| 2019-04-18 | 第44期棋聖戦Bリーグ | Cho Chikun | O Meien | Lose | W+R | 6.5 | 2710 | -17 | 
+| 2019-03-28 | 第44期棋聖戦Bリーグ | Yamada Kimio | Cho Chikun | Lose | B+R | 6.5 | 2727 | 7 | 
+| 2019-03-07 | 第75期本因坊戦予選 | Kurotaki Masaki | Cho Chikun | Win | W+R | 6.5 | 2720 | 9 | 
+| 2019-02-28 | 第44期棋聖戦Bリーグ | Cho Chikun | Terayama Rei | Win | B+3.5 | 6.5 | 2711 | -47 | 
+| 2019-02-13 | 2018年シニアvs女子囲碁リーグチャンピオンズカップ第2戦 | Choi Jeong | Cho Chikun | Lose | B+1.5 | 6.5 | 2758 | -16 | 
+| 2019-02-12 | 2018年シニアvs女子囲碁リーグチャンピオンズカップ第1戦 | Choi Jeong | Cho Chikun | Lose | B+13.5 | 6.5 | 2774 | -30 | 
+| 2019-01-21 | 第20回マキシムコーヒー杯入神最強戦1回戦 | Cho Chikun | Lee Yeongkyu | Lose | W+2.5 | 6.5 | 2804 | 28 | 
+| 2018-12-06 | 第75期本因坊戦予選 | Kanda Ei | Cho Chikun | Win | W+R | 6.5 | 2776 | -3 | 
+| 2018-11-08 | 第67期王座戦予選 | Cho Chikun | Akiyama Jiro | Lose | W+R | 6.5 | 2779 | -4 | 
+| 2018-11-01 | 第44期碁聖戦本戦1回戦 | Cho Chikun | Ko Iso | Lose | W+11.5 | 6.5 | 2783 | 37 | 
+| 2018-10-23 | 第3回韓国シニア囲碁リーグ決勝第2戦釜山-尚州 | Paek Seongho | Cho Chikun | Win | W+5.5 | 6.5 | 2746 | 6 | 
+| 2018-10-22 | 第3回韓国シニア囲碁リーグ決勝第1戦釜山-尚州 | Cho Chikun | Kim Kihun | Win | B+2.5 | 6.5 | 2740 | -26 | 
+| 2018-10-18 | 第58期十段戦予選 | Cho Chikun | Fujita Akihiko | Lose | W+0.5 | 6.5 | 2766 | 0 | 
+| 2018-10-04 | 第45期天元戦予選 | Cho Chikun | Nishimura Keiji | Win | B+R | 6.5 | 2766 | 7 | 
+| 2018-09-27 | 第58期十段戦予選 | Cho Chikun | Seki Tatsuya | Win | B+R | 6.5 | 2759 | -30 | 
+| 2018-09-19 | 第3回韓国シニア囲碁リーグ第14節釜山-尚州 | Lee Kisup | Cho Chikun | Win | W+R | 6.5 | 2789 | -1 | 
+| 2018-09-13 | 第44期碁聖戦予選 | Kazama Jun | Cho Chikun | Win | W+R | 6.5 | 2790 | -9 | 
+| 2018-09-11 | 第3回韓国シニア囲碁リーグ第13節烏鹭-釜山 | Jeong Daesang | Cho Chikun | Win | W+R | 6.5 | 2799 | 17 | 
+| 2018-09-06 | 第43期棋聖戦Aリーグ | Murakawa Daisuke | Cho Chikun | Lose | B+R | 6.5 | 2782 | -24 | 
+| 2018-08-30 | 第58期十段戦予選 | Cho Chikun | Hagiya Kazuhiro | Win | B+R | 6.5 | 2806 | -1 | 
+| 2018-08-28 | 第3回韓国シニア囲碁リーグ第12節陰城-釜山 | Jimmy Cha | Cho Chikun | Win | W+R | 6.5 | 2807 | -11 | 
+| 2018-08-23 | 第43期棋聖戦Aリーグ | Cho Chikun | Kobayashi Satoru | Win | B+R | 7.5 | 2818 | 0 | 
+| 2018-08-14 | 第3回韓国シニア囲碁リーグ第10節霊岩-釜山 | Oh Kyuchul | Cho Chikun | Win | W+R | 6.5 | 2818 | 30 | 
+| 2018-08-02 | 第44期名人戦予選 | Kanazawa Hideo | Cho Chikun | Lose | B+R | 7.5 | 2788 | 0 | 
+| 2018-07-30 | 第3回韓国シニア囲碁リーグ第8節三陟-釜山 | Cho Chikun | Park Seungmun | Win | B+6.5 | 6.5 | 2788 | -1 | 
+| 2018-07-26 | 第43期棋聖戦Aリーグ | Ko Iso | Cho Chikun | Win | W+R | 6.5 | 2789 | 44 | 
+| 2018-07-23 | 第3回韓国シニア囲碁リーグ第7節釜山-尚州 | Paek Seongho | Cho Chikun | Lose | B+2.5 | 6.5 | 2745 | -13 | 
+| 2018-07-17 | 第3回韓国シニア囲碁リーグ第6節烏鹭-釜山 | Seo Nungwuk | Cho Chikun | Win | W+R | 6.5 | 2758 | 14 | 
+| 2018-07-12 | 第44期名人戦予選 | Mimura Tomoyasu | Cho Chikun | Win | W+R | 6.5 | 2744 | 12 | 
+| 2018-07-07 | 第8回フマキラー囲碁マスターズカップ準決勝  | Cho Chikun | Kataoka Satoshi | Lose | W+R | 6.5 | 2732 | -42 | 
+| 2018-06-27 | 第3回韓国シニア囲碁リーグ第4節富川-釜山 | Cho Chikun | An Kwanwuk | Win | B+4.5 | 6.5 | 2774 | -15 | 
+| 2018-06-19 | 第3回韓国シニア囲碁リーグ第3節霊岩-釜山 | Oh Kyuchul | Cho Chikun | Win | W+R | 6.5 | 2789 | -4 | 
+| 2018-06-07 | 第8回フマキラー囲碁マスターズカップ2回戦  | Cho Chikun | O Meien | Win | B+2.5 | 6.5 | 2793 | 19 | 
+| 2018-06-06 | 第3回韓国シニア囲碁リーグ第1節三陟-釜山 | Cho Daehyeon | Cho Chikun | Win | W+R | 6.5 | 2774 | -8 | 
+| 2018-05-31 | 第43期棋聖戦Aリーグ | Cho Chikun | Shida Tatsuya | Win | B+R | 6.5 | 2782 | 0 | 
+| 2018-05-10 | 第43期棋聖戦Aリーグ | Cho Chikun | So Yokoku | Lose | W+R | 6.5 | 2782 | -48 | 
+| 2018-05-03 | 第8回フマキラー囲碁マスターズカップ1回戦  | Kudo Norio | Cho Chikun | Win | W+R | 6.5 | 2830 | -1 | 
+| 2018-04-26 | 第74期本因坊戦予選 | Sakai Takeshi | Cho Chikun | Lose | B+R | 6.5 | 2831 | -2 | 
+| 2018-04-23 | 第5回大舟杯プロシニア最強者戦決勝 | Cho Hyeyeon | Cho Chikun | Win | W+R | 6.5 | 2833 | -5 | 
+| 2018-04-19 | 第43期棋聖戦Aリーグ | Cho Chikun | Yu Zhengqi | Lose | W+R | 6.5 | 2838 | -14 | 
+| 2018-04-09 | 第5回大舟杯プロシニア最強者戦準決勝 | Seo Nungwuk | Cho Chikun | Win | W+5.5 | 6.5 | 2852 | 2 | 
+| 2018-04-07 | 囲碁電王戦FINAL第3局 | DeepZenGo | Cho Chikun | Lose | B+R | 6.5 | 2850 | -11 | 
+| 2018-03-27 | 第5回大舟杯プロシニア最強者戦2回戦 | Lee Minjin | Cho Chikun | Win | W+15.5 | 6.5 | 2861 | -106 | 
+| 2018-02-19 | 第5回大舟杯プロシニア最強者戦1回戦 | Kim Hyeoimin | Cho Chikun | Win | W+R | 6.5 | 2967 | 29 | 
+| 2018-01-18 | 第44期天元戦1回戦 | Cho Chikun | Sato Yuta | Lose | W+R | 6.5 | 2938 | -17 | 
+| 2018-01-12 | 2017年シニアvs女流チャンピオンズカップ第2戦 | Cho Hyeyeon | Cho Chikun | Lose | B+0.5 | 6.5 | 2955 | -7 | 
+| 2018-01-11 | 2017年シニアvs女流チャンピオンズカップ第1戦 | Kim Cheayoung | Cho Chikun | Lose | B+3.5 | 6.5 | 2962 | -16 | 
+| 2017-12-21 | 第66期王座戦予選 | Cho Sonjin | Cho Chikun | Lose | B+R | 6.5 | 2978 | -2 | 
+| 2017-12-14 | 第57期十段戦予選 | Cho Chikun | Shiraishi Yuichi | Lose | W+R | 6.5 | 2980 | -20 | 
+| 2017-11-14 | 第2回韓国シニア囲碁リーグチャンピオンシップ釜山-尚州第2戦 | Paek Seongho | Cho Chikun | Win | W+R | 6.5 | 3000 | -46 | 
+| 2017-11-02 | 第43期碁聖戦本戦1回戦 | Cho Chikun | Ryu Shikun | Lose | W+R | 6.5 | 3046 | -49 | 
+| 2017-10-25 | 第2回韓国元老連戦14回戦尚州-釜山 | Kim Kihun | Cho Chikun | Lose | B+T | 6.5 | 3095 | 3 | 
+| 2017-10-16 | 2回韓国元老連戦13回戦三陟-釜山 | Cho Chikun |  | Win | B+R | 6.5 | 3092 | 73 | 
+| 2017-10-12 | 第43期名人戦最終予選 | Cho Chikun | Shibano Toramaru | Lose | W+6.5 | 6.5 | 3019 | -12 | 
+| 2017-09-28 | 2回韓国元老連戦11回戦霊岩-釜山 | Oh Kyuchul | Cho Chikun | Win | W+5.5 | 6.5 | 3031 | -2 | 
+| 2017-09-27 | 2回韓国元老連戦10回戦陰城-釜山 | Cho Chikun | Hwang Weonjun | Win | B+R | 6.5 | 3033 | -20 | 
+| 2017-09-21 | 第43期名人戦　最終予選1回戦 | Yukawa Mitsuhisa | Cho Chikun | Win | W+R | 6.5 | 3053 | 75 | 
+| 2017-08-31 | 第43期名人戦　予選A決勝 | Numadate Sakiya | Cho Chikun | Win | W+R | 6.5 | 2978 | -12 | 
+| 2017-08-24 | 第42期棋聖戦　Aリーグ7回戦 | Yamashiro Hiroshi | Cho Chikun | Win | W+R | 6.5 | 2990 | 2 | 
+| 2017-08-21 | 2回韓国元老連戦5回戦烏鹭-浦項 | Jeong Daesang | Cho Chikun | Win | W+R | 6.5 | 2988 | -4 | 
+| 2017-08-17 | 第43期名人戦　予選A | Rin Shien | Cho Chikun | Win | W+R | 6.5 | 2992 | 25 | 
+| 2017-08-10 | 第66期王座戦　予選B決勝 | Sakai Maki | Cho Chikun | Win | W+3.5 | 6.5 | 2967 | 1 | 
+| 2017-08-07 | 2回韓国元老連戦3回戦陰城-釜山 | Cho Chikun | Kim Dongyeop | Win | B+4.5 | 6.5 | 2966 | -22 | 
+| 2017-07-31 | 2回韓国元老連戦2回戦富川-釜山 | Cho Chikun | An Kwanwuk | Win | B+R | 6.5 | 2988 | 19 | 
+| 2017-07-27 | 第43期天元戦準決勝 | Ichiriki Ryo | Cho Chikun | Lose | B+R | 6.5 | 2969 | -17 | 
+| 2017-07-22 | 第7回フマキラー囲碁マスターズカップ　決勝 | Kobayashi Satoru | Cho Chikun | Lose | B+0.5 | 6.5 | 2986 | -5 | 
+| 2017-07-13 | 第42期棋聖戦　Aリーグ6回戦 | Cho Chikun | Hsu Chiayuan | Lose | W+R | 6.5 | 2991 | -25 | 
+| 2017-07-06 | 第24期阿含・桐山杯　本戦1回戦 | Cho Chikun | Horimoto Mitsunari | Win | B+R | 6.5 | 3016 | -1 | 
+| 2017-07-01 | 第7回フマキラー囲碁マスターズカップ　準決勝 | Cho Chikun | O Rissei | Win | B+R | 6.5 | 3017 | -8 | 
+| 2017-06-22 | 第42期棋聖戦　Aリーグ5回戦 | Cho Chikun | Ryu Shikun | Win | B+R | 6.5 | 3025 | -26 | 
+| 2017-05-25 | 第42期棋聖戦　Aリーグ4回戦 | Cho Chikun | Yuki Satoshi | Win | B+R | 6.5 | 3051 | 20 | 
+| 2017-05-18 | 第43期天元戦　準々決勝第1局 | Cho Chikun | Takei Takashi | Win | B+R | 6.5 | 3031 | -42 | 
+| 2017-05-11 | 第42期棋聖戦　Aリーグ3回戦 | Takao Shinji | Cho Chikun | Lose | B+R | 6.5 | 3073 | 23 | 
+| 2017-05-04 | 第24期阿含・桐山杯　最終予選決勝 | Cho Chikun | Hoshino Masaki | Win | B+10.5 | 6.5 | 3050 | -6 | 
+| 2017-04-27 | 第7回囲碁マスターズカップ　本戦2回戦 | Kataoka Satoshi | Cho Chikun | Win | W+R | 6.5 | 3056 | 12 | 
+| 2017-04-20 | 第42期棋聖戦　Aリーグ2回戦 | Hane Naoki | Cho Chikun | Win | W+R | 6.5 | 3044 | 7 | 
+| 2017-03-30 | 第73期本因坊戦　予選A決勝 | Cho Chikun | So Yokoku | Lose | W+R | 6.5 | 3037 | 185 | 
+| 2017-03-16 | 第43期天元戦　本戦2回戦第3局 | Kim Sujun | Cho Chikun | Win | W+1.5 | 6.5 | 2852 | 27 | 
+| 2017-03-09 | 第7回マスターズカップ　本戦1回戦 | Hane Yasumasa | Cho Chikun | Win | W+R | 6.5 | 2825 | 2 | 
+| 2017-03-02 | 第42期棋聖戦　Aリーグ1回戦 | Cho Chikun | Yoda Norimoto | Win | B+R | 6.5 | 2823 | 14 | 
+| 2017-02-23 | 第73期本因坊戦　予選A | Onishi Ryuhei | Cho Chikun | Win | W+R | 6.5 | 2809 | 63 | 
+| 2017-02-16 | 第4回グランドチャンピオン戦　2回戦 | Xie Yimin | Cho Chikun | Lose | B+R | 6.5 | 2746 | -14 | 
+| 2017-02-09 | 第43期天元戦　本戦1回戦第14局 | Cho Chikun | Sonoda Yuichi | Win | B+0.5 | 6.5 | 2760 | 35 | 
+| 2017-01-26 | 第73期本因坊戦　予選B決勝 | Cho Chikun | Xie Yimin | Win | B+6.5 | 6.5 | 2725 | 15 | 
+| 2017-01-19 | 第56期十段戦　予選A | Cho Chikun | Kanazawa Hideo | Lose | W+5.5 | 6.5 | 2710 | -29 | 
+| 2016-11-23 | 第2回囲碁電王戦第3局 | Cho Chikun | DeepZenGo | Win | B+R | 6.5 | 2739 | 1 | 
+| 2016-11-20 | 第2回囲碁電王戦第2局 | DeepZenGo | Cho Chikun | Lose | B+R | 6.5 | 2738 | 2 | 
+| 2016-11-19 | 第2回囲碁電王戦第1局 | Cho Chikun | DeepZenGo | Win | B+R | 6.5 | 2736 | 3 | 
+| 2016-10-27 | 第43期天元戦　予選A第1局 | Cho Chikun | Hirata Tomoya | Win | B+2.5 | 6.5 | 2733 | 17 | 
+| 2016-10-20 | 第65期王座戦　予選A特選譜第4局 | Cho Chikun | Yamashiro Hiroshi | Lose | W+R | 6.5 | 2716 | -53 | 
+| 2016-10-17 | 第55期十段戦　最終予選決勝 | Ichiriki Ryo | Cho Chikun | Lose | B+R | 6.5 | 2769 | 18 | 
+| 2016-10-13 | 第43期天元戦予選 | Cho Chikun | Hashimoto Yujiro | Win | B+R | 6.5 | 2751 | 10 | 
+| 2016-10-08 | 第23期日本阿含桐山杯決勝 | Cho Chikun | Kono Rin | Lose | W+0.5 | 6.5 | 2741 | -8 | 
+| 2016-09-29 | 第42期名人戦最終予選 | Cho Chikun | Adachi Toshimasa | Lose | W+R | 6.5 | 2749 | -50 | 
+| 2016-09-22 | 第55期十段戦最終予選 | Cho Chikun | Yamamori Tadanao | Win | B+R | 6.5 | 2799 | -19 | 
+| 2016-09-19 | 第41期棋聖戦Bリーグ決勝 | Cho Chikun | Yuki Satoshi | Lose | W+R | 6.5 | 2818 | -20 | 
+| 2016-09-07 | 第21回三星火災杯世界囲碁マスターズ1回戦B2 | Cho Chikun | Yu Bin | Lose | W+R | 6.5 | 2838 | -7 | 
+| 2016-09-06 | 第21回三星火災杯世界囲碁マスターズ1回戦B1 | Cho Chikun | Shin Jinseo | Lose | W+R | 6.5 | 2845 | -25 | 
+| 2016-08-25 | 第23期阿含・桐山杯全日本早碁オープン戦準決勝 | Murakawa Daisuke | Cho Chikun | Win | W+R | 6.5 | 2870 | 22 | 
+| 2016-08-18 | 第41期棋聖戦Bリーグ | Hsu Chiayuan | Cho Chikun | Win | W+R | 6.5 | 2848 | 58 | 
+| 2016-08-04 | 第23期阿含・桐山杯全日本早碁オープン戦2回戦 | Suzuki Shinji | Cho Chikun | Win | W+R | 6.5 | 2790 | -48 | 
+| 2016-07-28 | 第41期棋聖戦Bリーグ | Cho Chikun | O Meien | Lose | W+R | 6.5 | 2838 | 3 | 
+| 2016-07-14 | 第42期名人戦予選 | Cho Chikun | Hoshino Masaki | Win | B+R | 6.5 | 2835 | 112 | 
+| 2016-07-07 | 第41期棋聖戦Bリーグ | Cho Chikun | Ida Atsushi | Win | B+R | 6.5 | 2723 | 50 | 
+| 2016-06-30 | 第42期碁聖戦予選 | Yamada Shinji | Cho Chikun | Win | W+R | 6.5 | 2673 | -11 | 
+| 2016-06-23 | 第23期阿含・桐山杯全日本早碁オープン戦1回戦 | Otake Hideo | Cho Chikun | Win | W+R | 6.5 | 2684 | -16 | 
+| 2016-06-16 | 第41期棋聖戦Bリーグ | Mizokami Tomochika | Cho Chikun | Win | W+R | 6.5 | 2700 | 40 | 
+| 2016-05-26 | 第41期棋聖戦Bリーグ | Cho Chikun | Kim Sujun | Win | B+R | 6.5 | 2660 | 49 | 
+| 2016-05-19 | 第42期碁聖戦予選 | Nakamura Hidehito | Cho Chikun | Win | W+R | 6.5 | 2611 | -16 | 
+| 2016-05-12 | 第23期阿含・桐山杯全日本早碁オープン戦予選 | Motoki Katsuya | Cho Chikun | Win | W+0.5 | 6.5 | 2627 | 37 | 
+| 2016-05-05 | 第64期王座戦予選 | Kono Rin | Cho Chikun | Lose | B+5.5 | 6.5 | 2590 | 13 | 
+| 2016-04-21 | 第41期棋聖戦Bリーグ | Tsuruyama Atsushi | Cho Chikun | Win | W+R | 6.5 | 2577 | 19 | 
+| 2016-04-16 | 第65回NHK杯テレビ囲碁トーナメント戦1回戦第3局 | So Yokoku | Cho Chikun | Lose | B+4.5 | 6.5 | 2558 | 10 | 
+| 2016-04-07 | 第25期竜星戦Bブロック第11局 | Cho Chikun | Ichiriki Ryo | Lose | W+5.5 | 6.5 | 2548 | -38 | 
+| 2016-03-31 | 第41期棋聖戦Bリーグ | O Rissei | Cho Chikun | Win | W+R | 6.5 | 2586 | 54 | 
+| 2016-03-10 | 第6回フマキラー囲碁マスターズカップ1回戦 | Cho Chikun | Ishida Yoshio | Lose | W+R | 6.5 | 2532 | -35 | 
+| 2016-03-03 | 第64期王座戦予選 | Goto Shungo | Cho Chikun | Win | W+2.5 | 6.5 | 2567 | -41 | 
+| 2016-02-18 | 第72期本因坊戦予選 | Cho Chikun | Cho Riyu | Lose | W+R | 6.5 | 2608 | -139 | 
+| 2015-11-19 | 第42期天元戦予選 | Yao Zhiteng | Cho Chikun | Lose | B+R | 6.5 | 2747 | -40 | 
+| 2015-11-12 | 第64期王座戦予選 | Morita Michihiro | Cho Chikun | Win | W+R | 6.5 | 2787 | -3 | 
+| 2015-11-05 | 第42期天元戦予選 | Cho Chikun | Onishi Kenya | Win | B+R | 6.5 | 2790 | 10 | 
+| 2015-10-29 | 第64期王座戦予選 | Ishikura Noboru | Cho Chikun | Win | W+4.5 | 6.5 | 2780 | -8 | 
+| 2015-10-22 | 第42期天元戦予選 | Cho Chikun | Kibe Natsuki | Win | B+R | 6.5 | 2788 | 12 | 
+| 2015-10-15 | 第41期名人戦予選 | Hane Naoki | Cho Chikun | Lose | B+3.5 | 6.5 | 2776 | 6 | 
+| 2015-10-01 | 第54期十段戦2回戦 | Iyama Yuta | Cho Chikun | Lose | B+R | 6.5 | 2770 | 12 | 
+| 2015-09-24 | 第41期名人戦予選 | Takeuchi Kousuke | Cho Chikun | Win | W+R | 6.5 | 2758 | 33 | 
+| 2015-09-17 | 第54期十段戦予選 | Kurahashi Masayuki | Cho Chikun | Win | W+R | 6.5 | 2725 | -1 | 
+| 2015-09-10 | 第40期棋聖戦Aリーグ | Kono Rin | Cho Chikun | Lose | B+8.5 | 6.5 | 2726 | -63 | 
+| 2015-08-27 | 第41期名人戦予選 | Obuchi Kotaro | Cho Chikun | Win | W+R | 6.5 | 2789 | -33 | 
+| 2015-08-20 | 第40期棋聖戦Aリーグ | Cho Chikun | Ichiriki Ryo | Win | B+2.5 | 6.5 | 2822 | 16 | 
+| 2015-07-30 | 第40期棋聖戦Aリーグ | Mizokami Tomochika | Cho Chikun | Win | W+R | 6.5 | 2806 | 11 | 
+| 2015-07-23 | 第54期十段戦予選 | Cho Chikun | Koyama Mitsuru | Win | B+R | 6.5 | 2795 | -18 | 
+| 2015-07-16 | 第40期棋聖戦Aリーグ | Cho Chikun | Cho U | Lose | W+1.5 | 6.5 | 2813 | -21 | 
+| 2015-07-11 | 第5回フマキラー囲碁マスターズカップ決勝 | Takemiya Masaki | Cho Chikun | Win | W+5.5 | 6.5 | 2834 | 4 | 
+| 2015-07-09 | 第71期本因坊戦予選 | Rin Kanketsu | Cho Chikun | Lose | B+R | 6.5 | 2830 | -28 | 
+| 2015-06-27 | 第5回フマキラー囲碁マスターズカップ準決勝 | Kobayashi Satoru | Cho Chikun | Win | W+R | 6.5 | 2858 | -46 | 
+| 2015-06-11 | 第22期阿含・桐山杯全日本早碁オープン戦予選 | Cho Chikun | Shuto Shun | Lose | W+R | 6.5 | 2904 | 41 | 
+| 2015-06-04 | 第40期棋聖戦Aリーグ | Hane Naoki | Cho Chikun | Lose | B+R | 6.5 | 2863 | -46 | 
+| 2015-05-21 | 第71期本因坊戦予選 | Cho Chikun | Komatsu Hideki | Win | B+R | 6.5 | 2909 | -14 | 
+| 2015-05-14 | 第5回フマキラー囲碁マスターズカップ2回戦 | Cho Chikun | Hikosaka Naoto | Win | B+R | 6.5 | 2923 | -87 | 
+| 2015-05-07 | 第40期棋聖戦Aリーグ | Cho Riyu | Cho Chikun | Lose | B+R | 6.5 | 3010 | -36 | 
+| 2015-04-30 | 第5回フマキラー囲碁マスターズカップ1回戦 | Hane Yasumasa | Cho Chikun | Win | W+R | 6.5 | 3046 | 88 | 
+| 2015-04-23 | 第40期棋聖戦Aリーグ | Cho Chikun | Yuki Satoshi | Win | B+R | 6.5 | 2958 | -164 | 
+| 2015-03-12 | 第63期王座戦予選 | Cho Chikun | Mizokami Tomochika | Lose | W+1.5 | 6.5 | 3122 | -136 | 
+| 2015-03-05 | 第40期碁聖戦本戦2回戦 | Kono Rin | Cho Chikun | Lose | B+R | 6.5 | 3258 | 2 | 
+| 2015-02-26 | 第54期十段戦予選 | Cho Chikun | Lee Ishu | Win | B+R | 6.5 | 3256 | 5 | 
+| 2015-02-05 | 第63期王座戦予選 | Rin Shien | Cho Chikun | Win | W+6.5 | 6.5 | 3251 | 37 | 
+| 2015-01-15 | 第63期王座戦予選 | Sato Masaharu | Cho Chikun | Win | W+R | 6.5 | 3214 | -12 | 
+| 2014-12-18 | 第40期碁聖戦本戦1回戦 | Cho Chikun | Sada Atsushi | Win | B+R | 6.5 | 3226 | 169 | 
+| 2014-10-09 | 第40期碁聖戦予選 | Cho Chikun | Konagai Masaru | Win | B+R | 6.5 | 3057 | -38 | 
+| 2014-10-02 | 第39期棋聖戦Bリーグ | Murakawa Daisuke | Cho Chikun | Lose | B+3.5 | 6.5 | 3095 | 2 | 
+| 2014-09-25 | 第53期十段戦予選 | Cho Chikun | Murakawa Daisuke | Lose | W+R | 6.5 | 3093 | -10 | 
+| 2014-09-18 | 第40期名人戦予選 | Cho Chikun | Kanazawa Makoto | Lose | W+R | 6.5 | 3103 | 14 | 
+| 2014-09-11 | 第41期天元戦予選 | Cho Chikun | Hsu Chiayuan | Lose | W+R | 6.5 | 3089 | 41 | 
+| 2014-08-21 | 第40期名人戦予選 | Cho Chikun | Hirata Tomoya | Win | B+R | 6.5 | 3048 | 14 | 
+| 2014-08-07 | 第39期棋聖戦Bリーグ | Cho Chikun | Yoda Norimoto | Lose | W+4.5 | 6.5 | 3034 | -10 | 
+| 2014-07-17 | 第40期名人戦予選 | Cho Chikun | Aoki Kikuyo | Win | B+5.5 | 6.5 | 3044 | 35 | 
+| 2014-07-12 | 第4回フマキラー囲碁マスターズカップ決勝 | Cho Chikun | Kobayashi Satoru | Win | B+6.5 | 6.5 | 3009 | -10 | 
+| 2014-07-03 | 第39期棋聖戦Bリーグ | Cho Riyu | Cho Chikun | Lose | B+R | 6.5 | 3019 | -42 | 
+| 2014-06-26 | 第39期棋聖戦Bリーグ | Kobayashi Satoru | Cho Chikun | Lose | B+R | 6.5 | 3061 | -35 | 
+| 2014-06-21 | 第4回フマキラー囲碁マスターズカップ準決勝 | Cho Chikun | Ishii Kunio | Win | B+R | 6.5 | 3096 | -6 | 
+| 2014-06-12 | 第40期天元戦本戦2回戦 | Cho Chikun | Takao Shinji | Lose | W+R | 6.5 | 3102 | 27 | 
+| 2014-05-22 | 第39期棋聖戦Bリーグ | Cho Chikun | Yuki Satoshi | Win | B+R | 6.5 | 3075 | 47 | 
+| 2014-05-15 | 第21期阿含・桐山杯全日本早碁オープン戦予選 | Yu Zhengqi | Cho Chikun | Lose | B+3.5 | 6.5 | 3028 | 35 | 
+| 2014-05-08 | 第4回フマキラー囲碁マスターズカップ2回戦 | Ishida Yoshio | Cho Chikun | Win | W+1.5 | 6.5 | 2993 | -132 | 
+| 2014-04-24 | 第70期本因坊戦予選 | Hirata Tomoya | Cho Chikun | Lose | B+0.5 | 6.5 | 3125 | 14 | 
+| 2014-03-27 | 第70期本因坊戦予選 | Kanazawa Makoto | Cho Chikun | Win | W+R | 6.5 | 3111 | 18 | 
+| 2014-03-20 | 第4回フマキラー囲碁マスターズカップ1回戦 | Kataoka Satoshi | Cho Chikun | Win | W+1.5 | 6.5 | 3093 | 56 | 
+| 2014-02-13 | 第40期天元戦本戦1回戦 | Cho Chikun | Murakawa Daisuke | Win | B+R | 6.5 | 3037 | 6 | 
+| 2014-01-16 | 第62期王座戦予選 | Rin Kanketsu | Cho Chikun | Lose | B+R | 6.5 | 3031 | -123 | 
+| 2014-01-09 | 第40期天元戦予選 | Rin Kanketsu | Cho Chikun | Win | W+R | 6.5 | 3154 | 68 | 
+| 2013-12-19 | 第62期王座戦予選 | Cho Chikun | Ryu Shikun | Win | B+R | 6.5 | 3086 | 39 | 
+| 2013-11-14 | 第40期天元戦予選 | Cho Chikun | Kubo Hideo | Win | B+R | 6.5 | 3047 | 14 | 
+| 2013-10-31 | 第52期十段戦2回戦 | Takao Shinji | Cho Chikun | Lose | B+R | 6.5 | 3033 | 22 | 
+| 2013-10-10 | 第39期碁聖戦予選 | Horimoto Mitsunari | Cho Chikun | Lose | B+R | 6.5 | 3011 | -90 | 
+| 2013-10-03 | 第38期棋聖戦Bリーグ | Murakawa Daisuke | Cho Chikun | Win | W+R | 6.5 | 3101 | -96 | 
+| 2013-09-12 | 第39期碁聖戦予選 | Arimura Hiroshi | Cho Chikun | Win | W+R | 6.5 | 3197 | 44 | 
+| 2013-09-05 | 第38期棋聖戦Bリーグ | Cho Chikun | Hane Naoki | Lose | W+R | 6.5 | 3153 | -23 | 
+| 2013-08-29 | 第39期名人戦予選 | Cho Chikun | Ryu Shikun | Lose | W+R | 6.5 | 3176 | -23 | 
+| 2013-08-08 | 第52期十段戦予選 | Adachi Toshimasa | Cho Chikun | Win | W+1.5 | 6.5 | 3199 | 48 | 
+| 2013-08-01 | 第69期本因坊戦予選 | Cho Chikun | Imamura Toshiya | Lose | W+R | 6.5 | 3151 | 11 | 
+| 2013-07-25 | 第38期棋聖戦Bリーグ | Cho Chikun | Mizokami Tomochika | Lose | W+R | 6.5 | 3140 | 66 | 
+| 2013-07-11 | 第39期名人戦予選 | So Yokoku | Cho Chikun | Win | W+7.5 | 6.5 | 3074 | 74 | 
+| 2013-07-04 | 第52期十段戦予選 | Cho Chikun | Akiyama Jiro | Win | B+R | 6.5 | 3000 | 38 | 
+| 2013-06-28 | 第38期棋聖戦Bリーグ | Takao Shinji | Cho Chikun | Win | W+0.5 | 6.5 | 2962 | 91 | 
+| 2013-06-20 | 第69期本因坊戦予選 | Cho Chikun | Muramatsu Hiroki | Win | B+R | 6.5 | 2871 | 72 | 
+| 2013-06-13 | 第39期名人戦予選 | Cho Chikun | Tajiri Yuto | Win | B+1.5 | 6.5 | 2799 | 14 | 
+| 2013-06-06 | 第20期阿含・桐山杯全日本早碁オープン戦予選 | Cho Chikun | Ichiriki Ryo | Lose | W+R | 6.5 | 2785 | 46 | 
+| 2013-05-30 | 第38期棋聖戦Bリーグ | Kono Rin | Cho Chikun | Win | W+R | 6.5 | 2739 | -20 | 
+| 2013-05-16 | 第3回エステー＆フマキラー囲碁マスターズカップ2回戦 | Cho Chikun | O Meien | Lose | W+10.5 | 6.5 | 2759 | -7 | 
+| 2013-05-09 | 第61期王座戦予選 | Seto Taiki | Cho Chikun | Lose | B+8.5 | 6.5 | 2766 | -37 | 
+| 2013-04-11 | 第69期本因坊戦予選 | Cho Chikun | Ohba Junya | Win | B+R | 6.5 | 2803 | -36 | 
+| 2013-03-21 | 第3回エステー＆フマキラー囲碁マスターズカップ1回戦 | Rin Kaiho | Cho Chikun | Win | W+4.5 | 6.5 | 2839 | 30 | 
+| 2013-03-07 | 第69期本因坊戦予選 | Yamada Shinji | Cho Chikun | Win | W+R | 6.5 | 2809 | 2 | 
+| 2013-02-21 | 第38期碁聖戦本戦2回戦 | Cho Chikun | So Yokoku | Lose | W+0.5 | 6.5 | 2807 | -51 | 
+| 2013-02-14 | 第38期棋聖戦予選 | Cho Chikun | Muramatsu Hiroki | Win | B+R | 6.5 | 2858 | -67 | 
+| 2013-01-24 | 第38期棋聖戦予選 | Cho Chikun | Lee Ishu | Win | B+R | 6.5 | 2925 | 24 | 
+| 2012-12-13 | 第38期棋聖戦予選 | Adachi Toshimasa | Cho Chikun | Win | W+R | 6.5 | 2901 | -345 | 
+| 2012-11-29 | 第39期天元戦予選 | Yoda Norimoto | Cho Chikun | Lose | B+R | 6.5 | 3246 | 119 | 
+| 2012-11-22 | 第38期棋聖戦予選 | Cho Chikun | Tajiri Yuto | Win | B+R | 6.5 | 3127 | -14 | 
+| 2012-11-15 | 第38期碁聖戦本戦1回戦 | Cho Chikun | Ishii Kunio | Win | B+R | 6.5 | 3141 | 6 | 
+| 2012-11-01 | 第39期天元戦予選 | Tamai Shin | Cho Chikun | Win | W+R | 6.5 | 3135 | 7 | 
+| 2012-10-27 | 第8回大和証券杯ネット囲碁オープン1回戦 | Cho Riyu | Cho Chikun | Lose | B+R | 6.5 | 3128 | 7 | 
+| 2012-10-18 | 第38期碁聖戦予選 | Nakamura Shinya | Cho Chikun | Win | W+R | 6.5 | 3121 | 7 | 
+| 2012-09-27 | 第38期碁聖戦予選 | Komatsu Hideki | Cho Chikun | Win | W+3.5 | 6.5 | 3114 | -17 | 
+| 2012-09-20 | 第51期十段戦2回戦 | Cho Chikun | Yuki Satoshi | Lose | W+9.5 | 6.5 | 3131 | 11 | 
+| 2012-08-23 | 第38期名人戦予選 | Cho Chikun | Murakawa Daisuke | Lose | W+4.5 | 6.5 | 3120 | -104 | 
+| 2012-07-28 | 第2回エステー＆フマキラー囲碁マスターズカップ決勝 | Cho Chikun | O Meien | Lose | W+3.5 | 6.5 | 3224 | -18 | 
+| 2012-07-26 | 第38期名人戦予選 | Michael Redmond | Cho Chikun | Win | W+R | 6.5 | 3242 | 27 | 
+| 2012-07-19 | 第51期十段戦予選 | Cho Chikun | Uchida Shuhei | Win | B+R | 6.5 | 3215 | -8 | 
+| 2012-07-12 | 第19期阿含・桐山杯全日本早碁オープン戦1回戦 | Ida Atsushi | Cho Chikun | Lose | B+1.5 | 6.5 | 3223 | -17 | 
+| 2012-07-05 | 第38期名人戦予選 | Cho Chikun | Hoshino Masaki | Win | B+12.5 | 6.5 | 3240 | 27 | 
+| 2012-06-30 | 第2回エステー＆フマキラー囲碁マスターズカップ準決勝 | Cho Chikun | Kudo Norio | Win | B+4.5 | 6.5 | 3213 | 30 | 
+| 2012-06-21 | 第19期阿含・桐山杯全日本早碁オープン戦予選 | Sakaguchi Ryuzo | Cho Chikun | Win | W+R | 6.5 | 3183 | -29 | 
+| 2012-06-14 | 2012年中国囲碁乙級リーグ | Cho Chikun |  | Lose | W+T | 7.5 | 3212 | -82 | 
+| 2012-06-13 | 2012年中国囲碁乙級リーグ | Cho Chikun |  | Lose | W+R | 7.5 | 3294 | 2 | 
+| 2012-06-11 | 2012年中国囲碁乙級リーグ |  | Cho Chikun | Lose | B+R | 7.5 | 3292 | -2 | 
+| 2012-06-10 | 2012年中国囲碁乙級リーグ | Cao Xiaoyang | Cho Chikun | Lose | B+R | 7.5 | 3294 | -14 | 
+| 2012-06-08 | 2012年中国囲碁乙級リーグ | Cho Chikun |  | Win | B+1.5 | 7.5 | 3308 | 17 | 
+| 2012-06-07 | 2012年中国囲碁乙級リーグ | Cho Chikun | Paek Hongseok | Lose | W+R | 7.5 | 3291 | 13 | 
+| 2012-06-06 | 2012年中国囲碁乙級リーグ | Wang Yao | Cho Chikun | Lose | B+R | 7.5 | 3278 | 26 | 
+| 2012-05-27 | 第7回応氏杯世界選手権3回戦 | Cho Chikun | Park Junghwan | Lose | W+R | 7.5 | 3252 | -3 | 
+| 2012-05-25 | 第7回応氏杯世界選手権2回戦 | Liu Xing | Cho Chikun | Win | W+R | 7.5 | 3255 | -31 | 
+| 2012-05-10 | 第60期王座戦1回戦 | Cho Chikun | Yuki Satoshi | Lose | W+R | 6.5 | 3286 | -77 | 
+| 2012-05-03 | 第2回エステー＆フマキラー囲碁マスターズカップ2回戦 | Cho Chikun | Rin Kaiho | Win | B+19.5 | 6.5 | 3363 | -15 | 
+| 2012-04-19 | 第68期本因坊戦予選 | Cho Chikun | Kato Atsushi | Lose | W+1.5 | 6.5 | 3378 | 2 | 
+| 2012-04-05 | 第2回エステー＆フマキラー囲碁マスターズカップ1回戦 | Yamashiro Hiroshi | Cho Chikun | Win | W+0.5 | 6.5 | 3376 | 4 | 
+| 2012-03-30 | 第9回春蘭杯世界囲碁選手権2回戦 | Chen Yaoye | Cho Chikun | Lose | B+5.5 | 7.5 | 3372 | -27 | 
+| 2012-03-24 | 第7回大和証券杯ネット囲碁オープン決勝 | Iyama Yuta | Cho Chikun | Lose | B+R | 6.5 | 3399 | -3 | 
+| 2012-03-17 | 第31期NECカップ囲碁トーナメント戦決勝 | Takao Shinji | Cho Chikun | Lose | B+R | 6.5 | 3402 | 27 | 
+| 2012-03-08 | 第68期本因坊戦予選 | Cho Chikun | Ando Kazushige | Win | B+R | 6.5 | 3375 | -135 | 
+| 2012-02-23 | 第60期王座戦予選 | Anzai Nobuaki | Cho Chikun | Win | W+R | 6.5 | 3510 | -5 | 
+| 2012-02-18 | 第7回大和証券杯ネット囲碁オープン準決勝 | Cho U | Cho Chikun | Win | W+4.5 | 6.5 | 3515 | 113 | 
+| 2012-02-11 | 第7回大和証券杯ネット囲碁オープン3回戦 | Takao Shinji | Cho Chikun | Win | W+7.5 | 6.5 | 3402 | 0 | 
+| 2012-02-04 | 第31期NECカップ囲碁トーナメント戦準決勝 | Iyama Yuta | Cho Chikun | Win | W+3.5 | 6.5 | 3402 | 107 | 
+| 2012-01-19 | 第60期王座戦予選 | Cho Chikun | Imamura Yoshiaki | Win | B+4.5 | 6.5 | 3295 | 23 | 
+| 2011-12-24 | 第7回大和証券杯ネット囲碁オープン2回戦 | Cho Chikun | Yoda Norimoto | Win | B+3.5 | 6.5 | 3272 | -9 | 
+| 2011-12-22 | 第38期天元戦本戦1回戦 | Cho Chikun | Anzai Nobuaki | Lose | W+R | 6.5 | 3281 | -45 | 
+| 2011-12-15 | 第37期棋聖戦予選 | Cho Chikun | Tsuruyama Atsushi | Lose | W+1.5 | 6.5 | 3326 | 401 | 
+| 2011-12-05 | 第37期棋聖戦予選 | Kubo Hideo | Cho Chikun | Win | W+R | 6.5 | 2925 | -25 | 
+| 2011-12-01 | 第37期碁聖戦本戦1回戦 | Cho Chikun | Iyama Yuta | Lose | W+4.5 | 6.5 | 2950 | 13 | 
+| 2011-10-27 | 第37期名人戦予選 | Uchida Shuhei | Cho Chikun | Lose | B+R | 6.5 | 2937 | -9 | 
+| 2011-10-15 | 第7回大和証券杯ネット囲碁オープン1回戦 | Mizokami Tomochika | Cho Chikun | Win | W+R | 6.5 | 2946 | -30 | 
+| 2011-10-13 | 第50期十段戦2回戦 | Cho Chikun | Akiyama Jiro | Lose | W+R | 6.5 | 2976 | -30 | 
+| 2011-10-06 | 第38期天元戦予選 | Uchida Shuhei | Cho Chikun | Win | W+R | 6.5 | 3006 | -5 | 
+| 2011-09-26 | 第31期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Cho Chikun | Win | W+R | 6.5 | 3011 | -6 | 
+| 2011-09-22 | 第37期名人戦予選 | Yamashiro Hiroshi | Cho Chikun | Win | W+R | 6.5 | 3017 | 100 | 
+| 2011-09-01 | 第37期名人戦予選 | Furuya Yutaka | Cho Chikun | Win | W+4.5 | 6.5 | 2917 | 0 | 
+| 2011-08-25 | 第38期天元戦予選 | Cho Chikun | Kanda Ei | Win | B+R | 6.5 | 2917 | -21 | 
+| 2011-08-11 | 第24回世界囲碁選手権富士通杯2回戦 | Cho Chikun | Qiu Jun | Lose | W+R | 6.5 | 2938 | 12 | 
+| 2011-08-10 | 第24回世界囲碁選手権富士通杯1回戦 | Yamashita Keigo | Cho Chikun | Win | W+8.5 | 6.5 | 2926 | 4 | 
+| 2011-08-04 | 第36期名人戦リーグ | Cho U | Cho Chikun | Lose | B+4.5 | 6.5 | 2922 | 23 | 
+| 2011-07-23 | 第1回エステー＆フマキラー囲碁マスターズカップ決勝 | Kobayashi Koichi | Cho Chikun | Win | W+1.5 | 6.5 | 2899 | -3 | 
+| 2011-07-14 | 第31期NECカップ囲碁トーナメント戦1回戦 | Sakai Hideyuki | Cho Chikun | Win | W+R | 6.5 | 2902 | -2 | 
+| 2011-07-07 | 第36期名人戦リーグ | Rin Kanketsu | Cho Chikun | Lose | B+R | 6.5 | 2904 | -134 | 
+| 2011-06-25 | 第1回エステー＆フマキラー囲碁マスターズカップ準決勝 | Kobayashi Satoru | Cho Chikun | Win | W+R | 6.5 | 3038 | -52 | 
+| 2011-06-09 | 第36期名人戦リーグ | Cho Chikun | Hane Naoki | Lose | W+R | 6.5 | 3090 | 32 | 
+| 2011-05-30 | 第59期王座戦2回戦 | Cho Chikun | Hane Naoki | Lose | W+R | 6.5 | 3058 | -16 | 
+| 2011-05-19 | 第59期王座戦1回戦 | Yoda Norimoto | Cho Chikun | Win | W+R | 6.5 | 3074 | 54 | 
+| 2011-05-05 | 第36期名人戦リーグ | Yamashita Keigo | Cho Chikun | Lose | B+R | 6.5 | 3020 | -45 | 
+| 2011-04-28 | 第18期阿含・桐山杯全日本早碁オープン戦予選 | Kim Sonjin | Cho Chikun | Lose | B+R | 6.5 | 3065 | 32 | 
+| 2011-04-14 | 第36期碁聖戦本戦準決勝 | Hane Naoki | Cho Chikun | Lose | B+R | 6.5 | 3033 | -24 | 
+| 2011-03-31 | 第1回エステー＆フマキラー囲碁マスターズカップ2回戦 | Cho Chikun | Takemiya Masaki | Win | B+6.5 | 6.5 | 3057 | -26 | 
+| 2011-03-28 | 第36期碁聖戦本戦3回戦 | Cho Chikun | Cho U | Win | B+0.5 | 6.5 | 3083 | -12 | 
+| 2011-03-24 | 第36期名人戦リーグ | Sakai Hideyuki | Cho Chikun | Win | W+R | 6.5 | 3095 | -15 | 
+| 2011-03-10 | 第36期名人戦リーグ | Cho Chikun | Mizokami Tomochika | Lose | W+R | 6.5 | 3110 | -7 | 
+| 2011-03-03 | 第67期本因坊戦予選 | Cho Chikun | Kato Atsushi | Lose | W+R | 6.5 | 3117 | -9 | 
+| 2011-02-24 | 第59期王座戦予選 | Cho Chikun | Sakai Takeshi | Win | B+R | 6.5 | 3126 | 43 | 
+| 2011-02-10 | 第67期本因坊戦予選 | Cho Chikun | Seki Tatsuya | Win | B+0.5 | 6.5 | 3083 | -19 | 
+| 2011-02-03 | 第59期王座戦予選 | Nakamura Shinya | Cho Chikun | Win | W+R | 6.5 | 3102 | 3 | 
+| 2011-01-29 | 第3回BCカード杯世界選手権1回戦 | Cho Chikun |  | Lose | W+R | 6.5 | 3099 | 107 | 
+| 2011-01-13 | 第36期名人戦リーグ | Cho Chikun | Yuki Satoshi | Lose | W+R | 6.5 | 2992 | -28 | 
+| 2011-01-06 | 第36期碁聖戦本戦2回戦 | Han Zenki | Cho Chikun | Win | W+R | 6.5 | 3020 | 74 | 
+| 2010-12-23 | 第59期王座戦予選 | Cho Chikun | Rin Kanketsu | Win | B+R | 6.5 | 2946 | 33 | 
+| 2010-12-14 | 第8回春蘭杯世界囲碁選手権3回戦 | Cho Chikun | Xie He | Lose | W+R | 7.5 | 2913 | -12 | 
+| 2010-12-09 | 第36期名人戦リーグ | Cho Chikun | Takao Shinji | Lose | W+0.5 | 6.5 | 2925 | 17 | 
+| 2010-12-02 | 第36期碁聖戦本戦1回戦 | Imamura Toshiya | Cho Chikun | Win | W+R | 6.5 | 2908 | 3 | 
+| 2010-11-29 | 第4期幽玄杯精鋭リーグ戦 | Cho Chikun | Fujita Akihiko | Lose | W+R | 6.5 | 2905 | -20 | 
+| 2010-11-25 | 第36期棋聖戦予選 | Cho Chikun | Mitani Tetsuya | Lose | W+R | 6.5 | 2925 | 8 | 
+| 2010-11-18 | 第37期天元戦予選 | Cho Chikun | Rin Kanketsu | Lose | W+2.5 | 6.5 | 2917 | -7 | 
+| 2010-11-11 | 第59期王座戦予選 | Cho Chikun | Nakaonoda Tomomi | Win | B+R | 6.5 | 2924 | -20 | 
+| 2010-11-04 | 第49期十段戦敗者復活戦4回戦 | Cho Chikun | Ko Iso | Lose | W+R | 6.5 | 2944 | -19 | 
+| 2010-10-28 | 第37期天元戦予選 | Otake Hideo | Cho Chikun | Win | W+R | 6.5 | 2963 | 0 | 
+| 2010-10-21 | 第36期棋聖戦予選 | Cho Chikun | Muramatsu Ryuichi | Win | B+R | 6.5 | 2963 | 1 | 
+| 2010-10-14 | 第49期十段戦敗者復活戦3回戦 | Hane Naoki | Cho Chikun | Win | W+2.5 | 6.5 | 2962 | 13 | 
+| 2010-10-07 | 第36期碁聖戦予選 | Cho Chikun | Kobayashi Koichi | Win | B+3.5 | 6.5 | 2949 | 96 | 
+| 2010-10-02 | 第17期阿含・桐山杯全日本早碁オープン戦決勝 | Yamashita Keigo | Cho Chikun | Lose | B+R | 6.5 | 2853 | 75 | 
+| 2010-09-09 | 第36期碁聖戦予選 | Iguchi Hideichiro | Cho Chikun | Win | W+R | 6.5 | 2778 | -25 | 
+| 2010-09-02 | 第49期十段戦敗者復活戦2回戦 | Cho Chikun | Lee Ishu | Win | B+R | 6.5 | 2803 | 19 | 
+| 2010-08-26 | 第17期阿含・桐山杯全日本早碁オープン戦準決勝 | Rin Shien | Cho Chikun | Win | W+1.5 | 6.5 | 2784 | 10 | 
+| 2010-08-19 | 第36期碁聖戦予選 | Kato Atsushi | Cho Chikun | Win | W+1.5 | 6.5 | 2774 | -11 | 
+| 2010-08-12 | 第49期十段戦本戦2回戦 | Cho Chikun | Anzai Nobuaki | Lose | W+R | 6.5 | 2785 | -7 | 
+| 2010-08-05 | 第35期名人戦リーグ | Yamada Kimio | Cho Chikun | Lose | B+0.5 | 6.5 | 2792 | -39 | 
+| 2010-07-29 | 第17期阿含・桐山杯全日本早碁オープン戦2回戦 | Cho Chikun | Imamura Toshiya | Win | B+R | 6.5 | 2831 | 17 | 
+| 2010-07-24 | 第6回大和証券杯ネット囲碁オープン1回戦 | Shuto Shun | Cho Chikun | Lose | B+2.5 | 6.5 | 2814 | -22 | 
+| 2010-07-12 | 第30期NECカップ囲碁トーナメント戦1回戦 | So Yokoku | Cho Chikun | Lose | B+0.5 | 6.5 | 2836 | -38 | 
+| 2010-07-08 | 第17期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Chikun | Hane Naoki | Win | B+R | 6.5 | 2874 | 11 | 
+| 2010-07-01 | 第35期名人戦リーグ | Cho Chikun | Cho U | Lose | W+R | 6.5 | 2863 | -17 | 
+| 2010-06-24 | 第66期本因坊戦予選 | Suzuki Shinji | Cho Chikun | Lose | B+1.5 | 6.5 | 2880 | 61 | 
+| 2010-06-17 | 第49期十段戦本戦1回戦 | Akiyama Jiro | Cho Chikun | Win | W+8.5 | 6.5 | 2819 | 21 | 
+| 2010-06-10 | 第36期碁聖戦予選 | Cho Chikun | Kanno Masashi | Win | B+R | 6.5 | 2798 | 9 | 
+| 2010-06-03 | 第35期名人戦リーグ | Cho Chikun | Takao Shinji | Lose | W+7.5 | 6.5 | 2789 | 31 | 
+| 2010-05-20 | 第17期阿含・桐山杯全日本早碁オープン戦予選 | Enda Hideki | Cho Chikun | Win | W+R | 6.5 | 2758 | 67 | 
+| 2010-05-13 | 第66期本因坊戦予選 | Cho Chikun | Takemiya Masaki | Win | B+2.5 | 6.5 | 2691 | 18 | 
+| 2010-05-06 | 第35期名人戦リーグ | Cho Chikun | Yuki Satoshi | Lose | W+R | 6.5 | 2673 | -33 | 
+| 2010-04-29 | 第36期天元戦本戦2回戦 | Cho Chikun | Ryu Shikun | Lose | W+R | 6.5 | 2706 | -42 | 
+| 2010-04-08 | 第35期名人戦リーグ | Cho Chikun | Ogata Masaki | Win | B+11.5 | 6.5 | 2748 | 9 | 
+| 2010-03-29 | 第8回春蘭杯世界囲碁選手権2回戦 | Cho Chikun | Qiu Jun | Win | B+R | 7.5 | 2739 | 21 | 
+| 2010-03-27 | 第8回春蘭杯世界囲碁選手権1回戦 | Kang Dongyun | Cho Chikun | Win | W+R | 7.5 | 2718 | 6 | 
+| 2010-03-18 | 第66期本因坊戦予選 | Yamada Shinji | Cho Chikun | Win | W+2.5 | 6.5 | 2712 | -9 | 
+| 2010-03-11 | 第58期王座戦予選 | Cho Chikun | Kiyonari Tetsuya | Lose | W+R | 6.5 | 2721 | -18 | 
+| 2010-02-25 | 第36期天元戦本戦1回戦 | So Yokoku | Cho Chikun | Win | W+10.5 | 6.5 | 2739 | 56 | 
+| 2010-02-18 | 第66期本因坊戦予選 | Cho Chikun | Matsubara Taisei | Win | B+R | 6.5 | 2683 | 9 | 
+| 2010-02-11 | 第58期王座戦予選 | Cho Chikun | So Yokoku | Win | B+R | 6.5 | 2674 | 19 | 
+| 2010-02-04 | 第35期名人戦リーグ | O Meien | Cho Chikun | Win | W+R | 6.5 | 2655 | -2 | 
+| 2010-01-28 | 第23回世界囲碁選手権富士通杯国内予選決勝 | Cho Chikun | Sakai Hideyuki | Lose | W+0.5 | 6.5 | 2657 | -46 | 
+| 2010-01-21 | 第35期名人戦リーグ | Sakai Hideyuki | Cho Chikun | Lose | B+R | 6.5 | 2703 | -16 | 
+| 2010-01-14 | 第35期棋聖戦予選 | Yamashiro Hiroshi | Cho Chikun | Lose | B+R | 6.5 | 2719 | -13 | 
+| 2009-12-10 | 第35期名人戦リーグ | Mizokami Tomochika | Cho Chikun | Win | W+R | 6.5 | 2732 | 35 | 
+| 2009-12-03 | 第23回世界囲碁選手権富士通杯国内予選 | Murakawa Daisuke | Cho Chikun | Win | W+R | 6.5 | 2697 | 19 | 
+| 2009-11-30 | 第3期幽玄杯精鋭リーグ戦 | Fujita Akihiko | Cho Chikun | Win | W+R | 6.5 | 2678 | -219 | 
+| 2009-11-05 | 第36期天元戦予選 | Cho Chikun | Ishida Yoshio | Win | B+2.5 | 6.5 | 2897 | 9 | 
+| 2009-10-29 | 第23回世界囲碁選手権富士通杯国内予選 | Cho Chikun | Otake Hideo | Win | B+R | 6.5 | 2888 | 45 | 
+| 2009-10-08 | 第36期天元戦予選 | Kono Takashi | Cho Chikun | Win | W+R | 6.5 | 2843 | 7 | 
+| 2009-10-01 | 第34期棋聖戦Bリーグ | Cho Chikun | Kono Rin | Lose | W+0.5 | 6.5 | 2836 | -21 | 
+| 2009-09-24 | 第48期十段戦敗者復活戦3回戦 | Cho Chikun | Yamashita Keigo | Lose | W+R | 6.5 | 2857 | -63 | 
+| 2009-09-12 | 第5回大和証券杯ネット囲碁オープン3回戦 | Cho Chikun | Iyama Yuta | Lose | W+T | 6.5 | 2920 | -11 | 
+| 2009-09-10 | 第34期棋聖戦Bリーグ | Cho Chikun | Akiyama Jiro | Lose | W+R | 6.5 | 2931 | 19 | 
+| 2009-08-29 | 第5回大和証券杯ネット囲碁オープン2回戦 | Cho Chikun | Tsuruyama Atsushi | Win | B+R | 6.5 | 2912 | 44 | 
+| 2009-08-20 | 第35期碁聖戦予選 | Cho Chikun | Sonoda Yasutaka | Lose | W+0.5 | 6.5 | 2868 | 5 | 
+| 2009-08-13 | 第34期棋聖戦Bリーグ | Miyazawa Goro | Cho Chikun | Win | W+R | 6.5 | 2863 | -3 | 
+| 2009-08-06 | 第34期名人戦リーグ | Cho Chikun | Kobayashi Satoru | Win | B+R | 6.5 | 2866 | 19 | 
+| 2009-07-30 | 第48期十段戦敗者復活戦2回戦 | Tsuruyama Atsushi | Cho Chikun | Win | W+R | 6.5 | 2847 | 21 | 
+| 2009-07-23 | 第65期本因坊戦予選 | Oya Koichi | Cho Chikun | Lose | B+R | 6.5 | 2826 | -74 | 
+| 2009-07-09 | 第34期名人戦リーグ | O Meien | Cho Chikun | Win | W+R | 6.5 | 2900 | 15 | 
+| 2009-07-04 | 第5回大和証券杯ネット囲碁オープン1回戦 | Cho Chikun | Ryu Shikun | Win | B+R | 6.5 | 2885 | -10 | 
+| 2009-07-02 | 第34期棋聖戦Bリーグ | Cho U | Cho Chikun | Lose | B+R | 6.5 | 2895 | 18 | 
+| 2009-06-25 | 第48期十段戦敗者復活戦1回戦 | Nakamura Shinya | Cho Chikun | Win | W+R | 6.5 | 2877 | 31 | 
+| 2009-06-18 | 第65期本因坊戦予選 | Cho Chikun | Komatsu Hideki | Win | B+4.5 | 6.5 | 2846 | -11 | 
+| 2009-06-15 | 第29期NECカップ囲碁トーナメント戦1回戦 | Cho Chikun | Kobayashi Satoru | Lose | W+3.5 | 6.5 | 2857 | 20 | 
+| 2009-06-11 | 第34期棋聖戦Bリーグ | Cho Chikun | Iyama Yuta | Win | B+R | 6.5 | 2837 | 33 | 
+| 2009-06-04 | 第34期名人戦リーグ | Cho Chikun | Takao Shinji | Lose | W+1.5 | 6.5 | 2804 | -77 | 
+| 2009-05-28 | 第48期十段戦本戦1回戦 | Cho Chikun | So Yokoku | Lose | W+R | 6.5 | 2881 | -89 | 
+| 2009-05-18 | 第14回LG杯世界棋王戦1回戦 | Cho Chikun | Kang Yootaek | Lose | W+R | 6.5 | 2970 | -4 | 
+| 2009-05-14 | 第57期王座戦1回戦 | Yamada Kimio | Cho Chikun | Lose | B+0.5 | 6.5 | 2974 | 8 | 
+| 2009-05-07 | 第34期名人戦リーグ | Yamada Kimio | Cho Chikun | Lose | B+0.5 | 6.5 | 2966 | 50 | 
+| 2009-04-02 | 第34期名人戦リーグ | Cho Chikun | Iyama Yuta | Lose | W+R | 6.5 | 2916 | 9 | 
+| 2009-03-05 | 第65期本因坊戦予選 | Ishida Akira | Cho Chikun | Win | W+R | 6.5 | 2907 | -42 | 
+| 2009-03-01 | 第1回BCカード杯世界選手権1回戦 | Paek Hongseok | Cho Chikun | Lose | B+5.5 | 6.5 | 2949 | 37 | 
+| 2009-02-19 | 第34期名人戦リーグ | Sakai Hideyuki | Cho Chikun | Lose | B+0.5 | 6.5 | 2912 | -3 | 
+| 2009-02-12 | 第35期天元戦本戦1回戦 | O Meien | Cho Chikun | Lose | B+R | 6.5 | 2915 | -25 | 
+| 2009-02-07 | 第28期NECカップ囲碁トーナメント戦準決勝 | Hane Naoki | Cho Chikun | Lose | B+9.5 | 6.5 | 2940 | -15 | 
+| 2009-01-29 | 第65期本因坊戦予選 | Cho Chikun | Suzuki Ayumi | Win | B+R | 6.5 | 2955 | 9 | 
+| 2009-01-22 | 第34期碁聖戦本戦2回戦 | Cho Chikun | Iyama Yuta | Lose | W+R | 6.5 | 2946 | -13 | 
+| 2009-01-15 | 第34期名人戦リーグ | Cho Riyu | Cho Chikun | Win | W+R | 6.5 | 2959 | 70 | 
+| 2008-12-04 | 第34期名人戦リーグ | Cho Chikun | Ogata Masaki | Lose | W+R | 6.5 | 2889 | 232 | 
+| 2008-11-27 | 第47期十段戦敗者復活戦4回戦 | Ko Iso | Cho Chikun | Lose | B+2.5 | 6.5 | 2657 | -26 | 
+| 2008-11-06 | 第22回世界囲碁選手権富士通杯国内予選 | Cho Chikun | Cho Sonjin | Lose | W+3.5 | 6.5 | 2683 | -8 | 
+| 2008-10-30 | 第34期碁聖戦本戦1回戦 | Sakai Maki | Cho Chikun | Win | W+R | 6.5 | 2691 | -580 | 
+| 2008-10-23 | 第47期十段戦本戦勝者組決勝 | Cho Chikun | Cho U | Lose | W+5.5 | 6.5 | 3271 | 63 | 
+| 2008-10-04 | 第4回大和証券杯ネット囲碁オープン3回戦 | Cho U | Cho Chikun | Lose | B+2.5 | 6.5 | 3208 | -12 | 
+| 2008-10-02 | 第33期棋聖戦Aリーグ | Kataoka Satoshi | Cho Chikun | Win | W+0.5 | 6.5 | 3220 | -3 | 
+| 2008-09-20 | 第28期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Cho Chikun | Win | W+R | 6.5 | 3223 | -19 | 
+| 2008-09-13 | 第4回大和証券杯ネット囲碁オープン2回戦 | Xie Yimin | Cho Chikun | Win | W+15.5 | 6.5 | 3242 | 15 | 
+| 2008-09-11 | 第33期棋聖戦Aリーグ | Iyama Yuta | Cho Chikun | Lose | B+R | 6.5 | 3227 | -10 | 
+| 2008-08-21 | 第33期棋聖戦Aリーグ | Cho Chikun | Yuki Satoshi | Lose | W+0.5 | 6.5 | 3237 | 6 | 
+| 2008-08-14 | 第47期十段戦本戦3回戦 | So Yokoku | Cho Chikun | Win | W+1.5 | 6.5 | 3231 | 328 | 
+| 2008-08-11 | 第15期阿含・桐山杯全日本早碁オープン戦2回戦 | Cho Chikun | Cho U | Lose | W+R | 6.5 | 2903 | -5 | 
+| 2008-08-07 | 第33期名人戦リーグ | Sakai Hideyuki | Cho Chikun | Win | W+R | 6.5 | 2908 | 19 | 
+| 2008-07-31 | 第33期棋聖戦Aリーグ | Cho Chikun | Takao Shinji | Lose | W+R | 6.5 | 2889 | -20 | 
+| 2008-07-24 | 第34期天元戦本戦準決勝 | Cho U | Cho Chikun | Lose | B+1.5 | 6.5 | 2909 | -7 | 
+| 2008-07-19 | 第28期NECカップ囲碁トーナメント戦1回戦 | Cho Chikun | Kobayashi Satoru | Win | B+R | 6.5 | 2916 | 2 | 
+| 2008-07-17 | 第47期十段戦本戦2回戦 | Iyama Yuta | Cho Chikun | Win | W+R | 6.5 | 2914 | 12 | 
+| 2008-07-12 | 第4回大和証券杯ネット囲碁オープン1回戦 | Cho Chikun | Mimura Tomoyasu | Win | B+R | 6.5 | 2902 | -11 | 
+| 2008-07-10 | 第33期名人戦リーグ | Cho Chikun | Yamada Kimio | Win | B+2.5 | 6.5 | 2913 | 2 | 
+| 2008-07-03 | 第15期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Chikun | Kono Rin | Win | B+R | 6.5 | 2911 | 31 | 
+| 2008-06-26 | 第34期天元戦本戦3回戦 | Komatsu Hideki | Cho Chikun | Win | W+R | 6.5 | 2880 | 5 | 
+| 2008-06-23 | 第64期本因坊戦予選 | Cho Chikun | Cho U | Lose | W+R | 6.5 | 2875 | -33 | 
+| 2008-06-19 | 第33期棋聖戦Aリーグ | Cho Chikun | O Rissei | Win | B+R | 6.5 | 2908 | 4 | 
+| 2008-06-16 | 第47期十段戦本戦1回戦 | Yamashiro Hiroshi | Cho Chikun | Win | W+R | 6.5 | 2904 | 0 | 
+| 2008-06-12 | 第33期名人戦リーグ | Cho Chikun | Iyama Yuta | Lose | W+R | 6.5 | 2904 | -8 | 
+| 2008-06-09 | 第4期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Kono Rin | Cho Chikun | Lose | B+R | 6.5 | 2912 | -15 | 
+| 2008-06-01 | 第20回テレビアジア選手権1回戦 | Lee Changho | Cho Chikun | Lose | B+1.5 | 7.5 | 2927 | -7 | 
+| 2008-05-28 | 第13回LG杯世界棋王戦2回戦 | Lee Changho | Cho Chikun | Lose | B+R | 6.5 | 2934 | -2 | 
+| 2008-05-26 | 第13回LG杯世界棋王戦1回戦 | Cho Chikun | Kang Dongyun | Win | B+R | 6.5 | 2936 | 36 | 
+| 2008-05-22 | 第33期名人戦リーグ | Yoda Norimoto | Cho Chikun | Win | W+1.5 | 6.5 | 2900 | 9 | 
+| 2008-05-15 | 第34期天元戦本戦2回戦 | Morita Michihiro | Cho Chikun | Win | W+R | 6.5 | 2891 | 16 | 
+| 2008-05-08 | 第64期本因坊戦予選 | Cho Chikun | Han Zenki | Win | B+2.5 | 6.5 | 2875 | 4 | 
+| 2008-05-04 | 第6回応氏杯世界選手権3回戦 | Lee Changho | Cho Chikun | Lose | B+3 | 7.5 | 2871 | -4 | 
+| 2008-05-02 | 第6回応氏杯世界選手権2回戦 | Chang Hao | Cho Chikun | Win | W+3 | 7.5 | 2875 | 20 | 
+| 2008-04-30 | 第6回応氏杯世界選手権1回戦 | Cho U | Cho Chikun | Win | W+1 | 7.5 | 2855 | 18 | 
+| 2008-04-24 | 第56期王座戦1回戦 | Cho Chikun | Yuki Satoshi | Lose | W+R | 6.5 | 2837 | 181 | 
+| 2008-04-10 | 第33期名人戦リーグ | Cho Chikun | Kobayashi Satoru | Lose | W+1.5 | 6.5 | 2656 | 4 | 
+| 2008-04-03 | 第46期十段戦挑戦手合五番勝負第3局 | Takao Shinji | Cho Chikun | Lose | B+R | 6.5 | 2652 | 4 | 
+| 2008-03-27 | 第46期十段戦挑戦手合五番勝負第2局 | Cho Chikun | Takao Shinji | Lose | W+R | 6.5 | 2648 | 5 | 
+| 2008-03-20 | 第32期棋聖戦挑戦手合七番勝負第7局 | Cho Chikun | Yamashita Keigo | Lose | W+R | 6.5 | 2643 | -8 | 
+| 2008-03-14 | 第32期棋聖戦挑戦手合七番勝負第6局 | Yamashita Keigo | Cho Chikun | Win | W+4.5 | 6.5 | 2651 | 11 | 
+| 2008-03-06 | 第46期十段戦挑戦手合五番勝負第1局 | Takao Shinji | Cho Chikun | Lose | B+R | 6.5 | 2640 | -13 | 
+| 2008-03-03 | 第4期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Cho Chikun | Yo Kagen | Win | B+0.5 | 6.5 | 2653 | -2 | 
+| 2008-02-28 | 第32期棋聖戦挑戦手合七番勝負第5局 | Cho Chikun | Yamashita Keigo | Win | B+3.5 | 6.5 | 2655 | 14 | 
+| 2008-02-22 | 第32期棋聖戦挑戦手合七番勝負第4局 | Yamashita Keigo | Cho Chikun | Lose | B+R | 6.5 | 2641 | -1 | 
+| 2008-02-18 | 第33期碁聖戦本戦3回戦 | Yamashita Keigo | Cho Chikun | Lose | B+R | 6.5 | 2642 | -20 | 
+| 2008-02-14 | 第33期名人戦リーグ | Cho Chikun | Ko Iso | Win | B+R | 6.5 | 2662 | 7 | 
+| 2008-02-08 | 第32期棋聖戦挑戦手合七番勝負第3局 | Cho Chikun | Yamashita Keigo | Lose | W+R | 6.5 | 2655 | -19 | 
+| 2008-01-31 | 第32期棋聖戦挑戦手合七番勝負第2局 | Yamashita Keigo | Cho Chikun | Win | W+R | 6.5 | 2674 | 38 | 
+| 2008-01-24 | 第33期名人戦リーグ | Chin Kaei | Cho Chikun | Win | W+R | 6.5 | 2636 | 17 | 
+| 2008-01-13 | 第32期棋聖戦挑戦手合七番勝負第1局 | Cho Chikun | Yamashita Keigo | Lose | W+R | 6.5 | 2619 | -2 | 
+| 2007-12-13 | 第33期名人戦リーグ | Takao Shinji | Cho Chikun | Lose | B+R | 6.5 | 2621 | -10 | 
+| 2007-12-06 | 第33期碁聖戦本戦2回戦 | Ko Iso | Cho Chikun | Win | W+2.5 | 6.5 | 2631 | -13 | 
+| 2007-11-29 | 第34期天元戦本戦1回戦 | Nakano Hironari | Cho Chikun | Win | W+1.5 | 6.5 | 2644 | -16 | 
+| 2007-11-19 | 第32期棋聖戦挑戦者決定戦 | Cho U | Cho Chikun | Win | W+4.5 | 6.5 | 2660 | 13 | 
+| 2007-11-15 | 第3回大和証券杯ネット囲碁オープン3回戦 | Takao Shinji | Cho Chikun | Lose | B+8.5 | 6.5 | 2647 | -19 | 
+| 2007-11-08 | 第33期碁聖戦本戦1回戦 | Cho Chikun | Nakaonoda Tomomi | Win | B+R | 6.5 | 2666 | 13 | 
+| 2007-11-01 | 第21回世界囲碁選手権富士通杯国内予選 | Cho Chikun | Kiyonari Tetsuya | Lose | W+R | 6.5 | 2653 | -7 | 
+| 2007-10-28 | 第3回大和証券杯ネット囲碁オープン2回戦 | Cho Chikun | Mizokami Tomochika | Win | B+R | 6.5 | 2660 | -8 | 
+| 2007-10-25 | 第33期名人戦予選 | Cho Chikun | Sonoda Yuichi | Win | B+4.5 | 6.5 | 2668 | 3 | 
+| 2007-10-20 | 第14期阿含・桐山杯全日本早碁オープン戦決勝 | Cho Chikun | Cho U | Lose | W+6.5 | 6.5 | 2665 | -16 | 
+| 2007-10-04 | 第32期棋聖戦Bリーグ | Hane Naoki | Cho Chikun | Win | W+5.5 | 6.5 | 2681 | 0 | 
+| 2007-09-27 | 第33期名人戦予選 | Cho Sonjin | Cho Chikun | Win | W+R | 6.5 | 2681 | 20 | 
+| 2007-09-22 | 第27期NECカップ囲碁トーナメント戦2回戦 | Cho Chikun | Kono Rin | Lose | W+1.5 | 6.5 | 2661 | -1310 | 
+| 2007-09-20 | 第32期棋聖戦Bリーグ | Komatsu Hideki | Cho Chikun | Win | W+9.5 | 6.5 | 3971 | 29 | 
+| 2007-09-16 | 第3回大和証券杯ネット囲碁オープン1回戦 | Nakano Hironari | Cho Chikun | Win | W+R | 6.5 | 3942 | -39 | 
+| 2007-09-13 | 第14期阿含・桐山杯全日本早碁オープン戦準決勝 | Cho Chikun | Ogata Masaki | Win | B+R | 6.5 | 3981 | 1269 | 
+| 2007-09-04 | 第12回三星火災杯世界オープン囲碁選手権1回戦 | Kim Kiyoung | Cho Chikun | Lose | B+R | 6.5 | 2712 | -11 | 
+| 2007-08-30 | 第33期名人戦予選 | O Meien | Cho Chikun | Win | W+R | 6.5 | 2723 | 2 | 
+| 2007-08-23 | 第63期本因坊戦予選 | Yamashita Keigo | Cho Chikun | Lose | B+R | 6.5 | 2721 | -269 | 
+| 2007-08-12 | 第3回中環杯世界囲碁選手権1回戦 | Cho Chikun | Park Cheongsang | Lose | W+R | 6.5 | 2990 | 5 | 
+| 2007-08-09 | 第33期名人戦予選 | Sato Masaharu | Cho Chikun | Win | W+R | 6.5 | 2985 | -112 | 
+| 2007-08-02 | 第32期棋聖戦Bリーグ | Cho Chikun | Imamura Toshiya | Lose | W+R | 6.5 | 3097 | -73 | 
+| 2007-07-26 | 第14期阿含・桐山杯全日本早碁オープン戦2回戦 | Sakai Hideyuki | Cho Chikun | Win | W+5.5 | 6.5 | 3170 | -2 | 
+| 2007-07-19 | 第63期本因坊戦予選 | Cho Chikun | Ryu Shikun | Win | B+8.5 | 6.5 | 3172 | 165 | 
+| 2007-07-12 | 第32期棋聖戦Bリーグ | Cho Chikun | Kato Atsushi | Win | B+R | 6.5 | 3007 | -58 | 
+| 2007-07-05 | 第14期阿含・桐山杯全日本早碁オープン戦1回戦 | Honda Kunihisa | Cho Chikun | Win | W+R | 6.5 | 3065 | -18 | 
+| 2007-06-28 | 第33期天元戦本戦3回戦 | Cho Chikun | Kim Sujun | Lose | W+R | 6.5 | 3083 | -29 | 
+| 2007-06-23 | 第27期NECカップ囲碁トーナメント戦1回戦 | Cho Chikun | Mimura Tomoyasu | Win | B+R | 6.5 | 3112 | 27 | 
+| 2007-06-21 | 第32期棋聖戦Bリーグ | Iyama Yuta | Cho Chikun | Win | W+6.5 | 6.5 | 3085 | 26 | 
+| 2007-06-12 | 第19回テレビアジア選手権1回戦 | Chen Yaoye | Cho Chikun | Lose | B+R | 6.5 | 3059 | 46 | 
+| 2007-06-06 | 第12回LG杯世界棋王戦2回戦 | Liu Jing | Cho Chikun | Lose | B+0.5 | 6.5 | 3013 | -24 | 
+| 2007-06-04 | 第12回LG杯世界棋王戦1回戦 | Cho Chikun | Park Yeonghun | Win | B+R | 6.5 | 3037 | 33 | 
+| 2007-05-31 | 第63期本因坊戦予選 | Kanda Ei | Cho Chikun | Win | W+R | 6.5 | 3004 | 27 | 
+| 2007-05-10 | 第55期王座戦1回戦 | Cho Chikun | So Yokoku | Lose | W+R | 6.5 | 2977 | -21 | 
+| 2007-05-03 | 第63期本因坊戦予選 | Chin Kaei | Cho Chikun | Win | W+R | 6.5 | 2998 | -14 | 
+| 2007-04-25 | 第45期十段戦挑戦手合五番勝負第5局 | Cho Chikun | Yamashita Keigo | Win | B+3.5 | 6.5 | 3012 | 20 | 
+| 2007-04-19 | 第45期十段戦挑戦手合五番勝負第4局 | Cho Chikun | Yamashita Keigo | Lose | W+R | 6.5 | 2992 | -35 | 
+| 2007-04-12 | 第33期天元戦本戦2回戦 | So Yokoku | Cho Chikun | Win | W+1.5 | 6.5 | 3027 | 22 | 
+| 2007-04-05 | 第45期十段戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho Chikun | Lose | B+R | 6.5 | 3005 | -16 | 
+| 2007-03-29 | 第45期十段戦挑戦手合五番勝負第2局 | Cho Chikun | Yamashita Keigo | Win | B+2.5 | 6.5 | 3021 | -28 | 
+| 2007-03-22 | 第32期棋聖戦予選 | Cho Chikun | Imamura Yoshiaki | Win | B+9.5 | 6.5 | 3049 | 323 | 
+| 2007-03-08 | 第45期十段戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho Chikun | Win | W+R | 6.5 | 2726 | 0 | 
+| 2007-02-24 | 第2回大和証券杯ネット囲碁オープン決勝トーナメント1回戦 | Cho Chikun | Yoda Norimoto | Lose | W+R | 6.5 | 2726 | -13 | 
+| 2007-02-22 | 第32期棋聖戦予選 | Cho Chikun | Kono Mitsuki | Win | B+R | 6.5 | 2739 | 39 | 
+| 2007-02-15 | 第32期碁聖戦本戦3回戦 | Kono Rin | Cho Chikun | Lose | B+R | 6.5 | 2700 | -44 | 
+| 2007-02-08 | 第20回世界囲碁選手権富士通杯国内予選決勝 | Cho Chikun | Yuki Satoshi | Lose | W+R | 6.5 | 2744 | -8 | 
+| 2007-01-25 | 第32期棋聖戦予選 | Ishii Kunio | Cho Chikun | Win | W+R | 6.5 | 2752 | 20 | 
+| 2007-01-18 | 第32期碁聖戦本戦2回戦 | Yamashiro Hiroshi | Cho Chikun | Win | W+R | 6.5 | 2732 | 19 | 
+| 2007-01-11 | 第33期天元戦本戦1回戦 | Cho Chikun | Imamura Toshiya | Win | B+R | 6.5 | 2713 | 10 | 
+| 2006-11-30 | 第20回世界囲碁選手権富士通杯国内予選 | Han Zenki | Cho Chikun | Win | W+R | 6.5 | 2703 | 0 | 
+| 2006-11-09 | 第20回世界囲碁選手権富士通杯国内予選 | Cho Chikun | Kono Rin | Win | B+R | 6.5 | 2703 | 3 | 
+| 2006-10-26 | 第32期碁聖戦本戦1回戦 | Cho Chikun | Kiyonari Tetsuya | Win | B+R | 6.5 | 2700 | -77 | 
+| 2006-10-15 | 第1回大和証券杯ネット囲碁オープン決勝トーナメント準決勝 | Cho U | Cho Chikun | Lose | B+1.5 | 6.5 | 2777 | -5 | 
+| 2006-10-14 | 第26期NECカップ囲碁トーナメント戦2回戦 | Cho Chikun | Takao Shinji | Lose | W+R | 6.5 | 2782 | -12 | 
+| 2006-10-07 | 第1回大和証券杯ネット囲碁オープン決勝トーナメント1回戦 | Kim Sujun | Cho Chikun | Win | W+R | 6.5 | 2794 | 11 | 
+| 2006-10-05 | 第31期棋聖戦Bリーグ | O Rissei | Cho Chikun | Lose | B+R | 6.5 | 2783 | 8 | 
+| 2006-09-21 | 第31期棋聖戦Bリーグ | Cho Chikun | Imamura Toshiya | Lose | W+R | 6.5 | 2775 | -19 | 
+| 2006-09-06 | 第11回三星火災杯世界オープン囲碁選手権1回戦 | Ko Keuntae | Cho Chikun | Lose | B+R | 6.5 | 2794 | -9 | 
+| 2006-08-24 | 第32期名人戦予選 | Cho Chikun | Kiyonari Tetsuya | Lose | W+0.5 | 6.5 | 2803 | -40 | 
+| 2006-08-17 | 第62期本因坊戦予選 | Cho Chikun | Kobayashi Satoru | Lose | W+R | 6.5 | 2843 | -50 | 
+| 2006-08-03 | 第31期棋聖戦Bリーグ | Cho Chikun | Kato Atsushi | Win | B+8.5 | 6.5 | 2893 | 30 | 
+| 2006-07-27 | 第62期本因坊戦予選 | Cho Chikun | Nakamura Shinya | Win | B+R | 6.5 | 2863 | -23 | 
+| 2006-07-20 | 第31期棋聖戦Bリーグ | Kobayashi Satoru | Cho Chikun | Lose | B+R | 6.5 | 2886 | -85 | 
+| 2006-07-06 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Yuki Satoshi | Cho Chikun | Lose | B+2.5 | 6.5 | 2971 | -206 | 
+| 2006-06-22 | 第31期棋聖戦Bリーグ | Cho Chikun | Yuki Satoshi | Lose | W+R | 6.5 | 3177 | 5 | 
+| 2006-06-01 | 第62期本因坊戦予選 | Han Zenki | Cho Chikun | Win | W+R | 6.5 | 3172 | 28 | 
+| 2006-05-25 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Oya Koichi | Cho Chikun | Win | W+4.5 | 6.5 | 3144 | 96 | 
+| 2006-05-20 | 第26期NECカップ囲碁トーナメント戦1回戦 | Mimura Tomoyasu | Cho Chikun | Win | W+R | 6.5 | 3048 | 22 | 
+| 2006-05-15 | 第11回LG杯世界棋王戦1回戦 | Cho Chikun | Cho Hanseung | Lose | W+6.5 | 6.5 | 3026 | 6 | 
+| 2006-05-11 | 第31期碁聖戦本戦準決勝 | Cho Chikun | Yamashita Keigo | Lose | W+R | 6.5 | 3020 | -23 | 
+| 2006-05-04 | 第62期本因坊戦予選 | Cho Chikun | Anzai Nobuaki | Win | B+3.5 | 6.5 | 3043 | -23 | 
+| 2006-04-20 | 第31期棋聖戦予選 | Cho Chikun | Morita Michihiro | Win | B+R | 6.5 | 3066 | -17 | 
+| 2006-04-13 | 第44期十段戦挑戦手合五番勝負第4局 | Cho Chikun | Yamashita Keigo | Win | B+2.5 | 6.5 | 3083 | 22 | 
+| 2006-04-10 | 第19回世界囲碁選手権富士通杯2回戦 | Lee Sedol | Cho Chikun | Lose | B+R | 6.5 | 3061 | -18 | 
+| 2006-04-08 | 第19回世界囲碁選手権富士通杯1回戦 | Alexander Dinerchtein | Cho Chikun | Win | W+14.5 | 6.5 | 3079 | 24 | 
+| 2006-04-05 | 第44期十段戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho Chikun | Lose | B+8.5 | 6.5 | 3055 | 3 | 
+| 2006-03-27 | 第44期十段戦挑戦手合五番勝負第2局 | Cho Chikun | Yamashita Keigo | Win | B+R | 6.5 | 3052 | 22 | 
+| 2006-03-23 | 第31期棋聖戦予選 | Cho Chikun | Hoshino Masaki | Win | B+R | 6.5 | 3030 | 40 | 
+| 2006-03-13 | 第6回春蘭杯世界囲碁選手権2回戦 | Zhou Heyang | Cho Chikun | Lose | B+R | 7.5 | 2990 | -30 | 
+| 2006-03-11 | 第6回春蘭杯世界囲碁選手権1回戦 | Yu Bin | Cho Chikun | Win | W+2.5 | 7.5 | 3020 | 21 | 
+| 2006-03-08 | 第44期十段戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho Chikun | Win | W+R | 6.5 | 2999 | 21 | 
+| 2006-03-02 | 第31期碁聖戦本戦3回戦 | Cho Chikun | Kiyonari Tetsuya | Win | B+R | 6.5 | 2978 | -16 | 
+| 2006-02-09 | 第19回世界囲碁選手権富士通杯国内予選決勝 | Kataoka Satoshi | Cho Chikun | Win | W+R | 6.5 | 2994 | -11 | 
+| 2006-02-02 | 第31期棋聖戦予選 | O Meien | Cho Chikun | Win | W+R | 6.5 | 3005 | -11 | 
+| 2006-01-26 | 第32期天元戦本戦2回戦 | Hane Naoki | Cho Chikun | Lose | B+5.5 | 6.5 | 3016 | -23 | 
+| 2006-01-19 | 第31期碁聖戦本戦2回戦 | O Meien | Cho Chikun | Win | W+7.5 | 6.5 | 3039 | 25 | 
+| 2006-01-12 | 第19回世界囲碁選手権富士通杯国内予選 | Cho Chikun | Yoda Norimoto | Win | B+R | 6.5 | 3014 | -206 | 
+| 2005-12-08 | 第32期天元戦本戦1回戦 | Aragaki Shun | Cho Chikun | Win | W+R | 6.5 | 3220 | -57 | 
+| 2005-12-01 | 第54期王座戦予選 | Kobayashi Satoru | Cho Chikun | Lose | B+8.5 | 6.5 | 3277 | -31 | 
+| 2005-11-17 | 第19回世界囲碁選手権富士通杯国内予選 | Kudo Norio | Cho Chikun | Win | W+4.5 | 6.5 | 3308 | 137 | 
+| 2005-11-10 | 第31期碁聖戦本戦1回戦 | Cho Chikun | Kono Rin | Win | B+R | 6.5 | 3171 | 87 | 
+| 2005-10-20 | 第32期天元戦予選 | Oya Koichi | Cho Chikun | Win | W+R | 6.5 | 3084 | -75 | 
+| 2005-09-28 | 第10回三星火災杯世界オープン囲碁選手権1回戦 | Cho Chikun | Yoo Jaeho | Lose | W+1.5 | 6.5 | 3159 | 60 | 
+| 2005-09-08 | 第12期阿含・桐山杯全日本早碁オープン戦準決勝 | Cho Chikun | Iyama Yuta | Lose | W+R | 6.5 | 3099 | -1 | 
+| 2005-08-14 | 第2回中環杯世界囲碁選手権1回戦 | Cho Chikun | Choi Cheolhan | Lose | W+R | 6.5 | 3100 | -2 | 
+| 2005-08-11 | 第12期阿含・桐山杯全日本早碁オープン戦2回戦 | Cho Chikun | Kiyonari Tetsuya | Win | B+R | 6.5 | 3102 | 15 | 
+| 2005-07-21 | 第12期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Sonjin | Cho Chikun | Win | W+R | 6.5 | 3087 | 338 | 
+| 2005-06-17 | 第25期NECカップ囲碁トーナメント戦1回戦 | Yamada Kimio | Cho Chikun | Lose | B+18.5 | 6.5 | 2749 | -60 | 
+| 2005-05-19 | 第53期王座戦1回戦 | Cho Chikun | Kataoka Satoshi | Lose | W+4.5 | 6.5 | 2809 | -28 | 
+| 2005-05-12 | 第30期碁聖戦本戦準決勝 | Cho Chikun | Yuki Satoshi | Lose | W+R | 6.5 | 2837 | 46 | 
+| 2005-04-27 | 第43期十段戦挑戦手合五番勝負第5局 | Cho Chikun | O Rissei | Win | B+5.5 | 6.5 | 2791 | -8 | 
+| 2005-04-14 | 第43期十段戦挑戦手合五番勝負第4局 | O Rissei | Cho Chikun | Win | W+R | 6.5 | 2799 | -60 | 
+| 2005-04-07 | 第43期十段戦挑戦手合五番勝負第3局 | Cho Chikun | O Rissei | Lose | W+19.5 | 6.5 | 2859 | -4 | 
+| 2005-03-31 | 第31期天元戦本戦2回戦 | Cho Chikun | Yamashiro Hiroshi | Lose | W+R | 6.5 | 2863 | -19 | 
+| 2005-03-17 | 第43期十段戦挑戦手合五番勝負第2局 | O Rissei | Cho Chikun | Lose | B+5.5 | 6.5 | 2882 | 10 | 
+| 2005-03-03 | 第43期十段戦挑戦手合五番勝負第1局 | Cho Chikun | O Rissei | Win | B+0.5 | 6.5 | 2872 | -283 | 
+| 2005-02-24 | 第30期碁聖戦本戦3回戦 | Yamada Kimio | Cho Chikun | Win | W+R | 6.5 | 3155 | -95 | 
+| 2005-02-17 | 第53期王座戦予選 | Ogaki Yusaku | Cho Chikun | Win | W+R | 6.5 | 3250 | -17 | 
+| 2005-02-10 | 第30期棋聖戦予選 | Cho Chikun | Hane Yasumasa | Win | B+R | 6.5 | 3267 | 34 | 
+| 2005-02-03 | 第43期十段戦挑戦者決定戦 | Takao Shinji | Cho Chikun | Win | W+1.5 | 6.5 | 3233 | 29 | 
+| 2005-01-27 | 第30期碁聖戦本戦2回戦 | Cho Chikun | Yamashita Keigo | Win | B+R | 6.5 | 3204 | 132 | 
+| 2004-12-09 | 第31期天元戦本戦1回戦 | Cho Chikun | Yukawa Mitsuhisa | Win | B+R | 6.5 | 3072 | 98 | 
+| 2004-11-28 | 第6回農心辛ラーメン杯世界囲碁最強戦第9戦 | Cho Chikun | Luo Xihe | Lose | W+R | 6.5 | 2974 | -3 | 
+| 2004-11-27 | 第6回農心辛ラーメン杯世界囲碁最強戦第8戦 | Choi Cheolhan | Cho Chikun | Win | W+R | 6.5 | 2977 | 61 | 
+| 2004-11-18 | 第43期十段戦本戦勝者組決勝 | Mimura Tomoyasu | Cho Chikun | Win | W+R | 6.5 | 2916 | -149 | 
+| 2004-10-14 | 第43期十段戦本戦3回戦 | Hikosaka Naoto | Cho Chikun | Win | W+2.5 | 6.5 | 3065 | -22 | 
+| 2004-10-07 | 第29期棋聖戦Bリーグ | Cho Chikun | Kobayashi Satoru | Win | B+R | 6.5 | 3087 | 61 | 
+| 2004-09-30 | 第30期碁聖戦予選 | Cho Chikun | Cho Sonjin | Win | B+0.5 | 6.5 | 3026 | -248 | 
+| 2004-09-16 | 第1回中環杯世界囲碁選手権1回戦 | O Rissei | Cho Chikun | Lose | B+1.5 | 6.5 | 3274 | 100 | 
+| 2004-09-09 | 第29期棋聖戦Bリーグ | Yuki Satoshi | Cho Chikun | Lose | B+R | 6.5 | 3174 | 170 | 
+| 2004-09-03 | 第9回三星火災杯世界オープン囲碁選手権2回戦 | Wang Xi | Cho Chikun | Lose | B+R | 6.5 | 3004 | -6 | 
+| 2004-09-01 | 第9回三星火災杯世界オープン囲碁選手権1回戦 | Cho Chikun | Yoo Changhyuk | Win | B+1.5 | 6.5 | 3010 | -11 | 
+| 2004-08-26 | 第29期棋聖戦Bリーグ | O Rissei | Cho Chikun | Lose | B+R | 6.5 | 3021 | -28 | 
+| 2004-08-23 | 第43期十段戦本戦2回戦 | Yamada Kimio | Cho Chikun | Win | W+0.5 | 6.5 | 3049 | 23 | 
+| 2004-08-19 | 第30期天元戦本戦準決勝 | Cho Chikun | Kim Sujun | Lose | W+R | 6.5 | 3026 | -6 | 
+| 2004-08-14 | 第2期JALスーパー早碁決勝 | Mimura Tomoyasu | Cho Chikun | Win | W+R | 6.5 | 3032 | 16 | 
+| 2004-08-07 | 第2期JALスーパー早碁準決勝 | Cho Chikun | Kato Masao | Win | B+2.5 | 6.5 | 3016 | -24 | 
+| 2004-08-05 | 第29期名人戦リーグ | Cho U | Cho Chikun | Lose | B+R | 6.5 | 3040 | -7 | 
+| 2004-07-08 | 第29期名人戦リーグ | Cho Chikun | O Rissei | Win | B+R | 6.5 | 3047 | -30 | 
+| 2004-07-01 | 第29期棋聖戦Bリーグ | Cho Chikun | Cho U | Lose | W+R | 6.5 | 3077 | 10 | 
+| 2004-06-24 | 第30期天元戦本戦3回戦 | Cho Chikun | So Yokoku | Win | B+7.5 | 6.5 | 3067 | 7 | 
+| 2004-06-21 | 第24期NECカップ囲碁トーナメント戦1回戦 | Mimura Tomoyasu | Cho Chikun | Lose | B+1.5 | 6.5 | 3060 | 6 | 
+| 2004-06-17 | 第29期棋聖戦Bリーグ | Imamura Yoshiaki | Cho Chikun | Win | W+R | 6.5 | 3054 | -29 | 
+| 2004-06-12 | 第2期JALスーパー早碁2回戦 | Cho Chikun | Yuki Satoshi | Win | B+R | 6.5 | 3083 | 28 | 
+| 2004-06-03 | 第29期名人戦リーグ | Cho Chikun | Kobayashi Satoru | Lose | W+R | 6.5 | 3055 | -27 | 
+| 2004-05-20 | 第43期十段戦本戦1回戦 | Cho Chikun | Hashimoto Yujiro | Win | B+R | 6.5 | 3082 | 6 | 
+| 2004-05-13 | 第16回テレビアジア選手権 | Cho Chikun | Yu Bin | Lose | W+R | 6.5 | 3076 | 12 | 
+| 2004-05-11 | 第16回テレビアジア選手権 | Gu Li | Cho Chikun | Win | W+2.5 | 6.5 | 3064 | 35 | 
+| 2004-05-06 | 第29期名人戦リーグ | O Meien | Cho Chikun | Lose | B+R | 6.5 | 3029 | -91 | 
+| 2004-04-08 | 第29期名人戦リーグ | Cho Chikun | Rin Kaiho | Lose | W+R | 6.5 | 3120 | -18 | 
+| 2004-04-03 | 第2期JALスーパー早碁1回戦 | Yokota Shigeaki | Cho Chikun | Win | W+R | 6.5 | 3138 | 5 | 
+| 2004-03-04 | 第30期天元戦本戦2回戦 | Cho Chikun | Cho Sonjin | Win | B+3.5 | 6.5 | 3133 | 156 | 
+| 2004-02-05 | 第29期名人戦リーグ | Cho Chikun | Yamada Kimio | Lose | W+0.5 | 6.5 | 2977 | -7 | 
+| 2004-01-31 | 第23期NECカップ囲碁トーナメント戦準決勝 | Mimura Tomoyasu | Cho Chikun | Lose | B+R | 6.5 | 2984 | -10 | 
+| 2004-01-22 | 第30期天元戦本戦1回戦 | Yukawa Mitsuhisa | Cho Chikun | Win | W+0.5 | 6.5 | 2994 | -41 | 
+| 2003-12-31 | 第5回春蘭杯世界囲碁選手権2回戦 | Cho Chikun | Hu Yaoyu | Lose | W+R | 7.5 | 3035 | -5 | 
+| 2003-12-29 | 第5回春蘭杯世界囲碁選手権1回戦 | Kong Jie | Cho Chikun | Win | W+R | 7.5 | 3040 | 43 | 
+| 2003-12-11 | 第8期三星杯決勝三番勝負第3局 | Park Yeonghun | Cho Chikun | Win | W+R | 6.5 | 2997 | 9 | 
+| 2003-12-09 | 第8期三星杯決勝三番勝負第2局 | Park Yeonghun | Cho Chikun | Win | W+R | 6.5 | 2988 | 21 | 
+| 2003-12-08 | 第8期三星杯決勝三番勝負第1局 | Cho Chikun | Park Yeonghun | Lose | W+4.5 | 6.5 | 2967 | -4 | 
+| 2003-12-04 | 第29期名人戦リーグ | Imamura Toshiya | Cho Chikun | Lose | B+R | 6.5 | 2971 | 7 | 
+| 2003-11-22 | 第23期NECカップ囲碁トーナメント戦2回戦 | O Meien | Cho Chikun | Win | W+1.5 | 6.5 | 2964 | -22 | 
+| 2003-11-13 | 第28期棋聖戦挑戦者決定戦 | Hane Naoki | Cho Chikun | Lose | B+2.5 | 6.5 | 2986 | -55 | 
+| 2003-11-05 | 第8期三星杯準決勝三番勝負第2局 | Cho Chikun | Hu Yaoyu | Win | B+0.5 | 6.5 | 3041 | 20 | 
+| 2003-11-04 | 第8期三星杯準決勝三番勝負第1局 | Hu Yaoyu | Cho Chikun | Win | W+R | 6.5 | 3021 | 13 | 
+| 2003-10-23 | 第42期十段戦敗者復活戦3回戦 | Cho Chikun | Hashimoto Yujiro | Lose | W+R | 6.5 | 3008 | -2754 | 
+| 2003-10-15 | 第8期三星杯3回戦 | Cho Chikun | Cho Hunhyun | Win | B+R | 6.5 | 5762 | -78 | 
+| 2003-10-09 | 第28期棋聖戦Bリーグ | Cho Chikun | Ryu Shikun | Win | B+3.5 | 6.5 | 5840 | 171 | 
+| 2003-10-02 | 第29期碁聖戦予選 | Cho U | Cho Chikun | Lose | B+R | 6.5 | 5669 | 2873 | 
+| 2003-09-25 | 第42期十段戦本戦3回戦 | Cho U | Cho Chikun | Lose | B+0.5 | 6.5 | 2796 | 9 | 
+| 2003-09-08 | 第10期阿含・桐山杯全日本早碁オープン戦準決勝 | Cho Chikun | Kato Masao | Lose | W+1.5 | 6.5 | 2787 | -6 | 
+| 2003-09-04 | 第28期棋聖戦Bリーグ | Cho U | Cho Chikun | Lose | B+R | 6.5 | 2793 | 10 | 
+| 2003-08-29 | 第8期三星杯2回戦 | Weon Seongjin | Cho Chikun | Win | W+R | 6.5 | 2783 | 40 | 
+| 2003-08-27 | 第8期三星杯1回戦 | Cho Chikun | Kim Juho | Win | B+R | 6.5 | 2743 | 50 | 
+| 2003-08-21 | 第28期棋聖戦Bリーグ | Cho Chikun | Awaji Shuzo | Win | B+R | 6.5 | 2693 | -13 | 
+| 2003-08-14 | 第42期十段戦本戦2回戦 | Cho Chikun | O Meien | Win | B+3.5 | 6.5 | 2706 | 56 | 
+| 2003-08-07 | 第28期名人戦リーグ | Mizokami Tomochika | Cho Chikun | Win | W+6.5 | 6.5 | 2650 | 31 | 
+| 2003-07-27 | 第1期JALスーパー早碁2回戦 | Hane Naoki | Cho Chikun | Lose | B+R | 6.5 | 2619 | -21 | 
+| 2003-07-24 | 第10期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Chikun | Kobayashi Koichi | Win | B+5.5 | 6.5 | 2640 | 67 | 
+| 2003-07-17 | 第59期本因坊戦予選 | Nakaonoda Tomomi | Cho Chikun | Win | W+5.5 | 6.5 | 2573 | 3 | 
+| 2003-07-10 | 第28期棋聖戦Bリーグ | Cho Chikun | Yoda Norimoto | Win | B+6.5 | 6.5 | 2570 | 55 | 
+| 2003-07-03 | 第28期名人戦リーグ | Cho Chikun | Rin Kaiho | Lose | W+R | 6.5 | 2515 | -52 | 
+| 2003-06-26 | 第51期王座戦2回戦 | Yamashiro Hiroshi | Cho Chikun | Lose | B+2.5 | 6.5 | 2567 | -4 | 
+| 2003-06-23 | 第23期NECカップ囲碁トーナメント戦1回戦 | Rin Kaiho | Cho Chikun | Win | W+1.5 | 6.5 | 2571 | 19 | 
+| 2003-06-19 | 第8回LG杯世界棋王戦2回戦 | Cho Chikun | Lee Changho | Lose | W+R | 6.5 | 2552 | -48 | 
+| 2003-06-17 | 第8回LG杯世界棋王戦1回戦 | An Joyeong | Cho Chikun | Win | W+R | 6.5 | 2600 | 31 | 
+| 2003-06-12 | 第28期名人戦リーグ | O Rissei | Cho Chikun | Lose | B+6.5 | 6.5 | 2569 | -68 | 
+| 2003-06-05 | 第28期棋聖戦Bリーグ | O Meien | Cho Chikun | Win | W+R | 6.5 | 2637 | 19 | 
+| 2003-05-29 | 第42期十段戦1回戦 | Yamada Kimio | Cho Chikun | Win | W+R | 6.5 | 2618 | 34 | 
+| 2003-05-22 | 第29期天元戦本戦3回戦 | Cho Chikun | Kobayashi Satoru | Lose | W+8.5 | 6.5 | 2584 | 28 | 
+| 2003-05-01 | 第28期名人戦リーグ | Ryu Shikun | Cho Chikun | Win | W+7.5 | 6.5 | 2556 | 13 | 
+| 2003-04-24 | 第51期王座戦1回戦 | Cho Chikun | Kudo Norio | Win | B+3.5 | 6.5 | 2543 | 6 | 
+| 2003-04-17 | 第28期名人戦リーグ | Cho Chikun | Yamashita Keigo | Lose | W+R | 6.5 | 2537 | 6 | 
+| 2003-04-12 | 第16回世界囲碁選手権富士通杯1回戦 | Gu Li | Cho Chikun | Lose | B+R | 6.5 | 2531 | 0 | 
+| 2003-04-10 | 第28期碁聖戦本戦3回戦 | Michael Redmond | Cho Chikun | Lose | B+3.5 | 6.5 | 2531 | -90 | 
+| 2003-03-27 | 第29期天元戦本戦2回戦 | Imamura Toshiya | Cho Chikun | Win | W+6.5 | 6.5 | 2621 | 63 | 
+| 2003-03-20 | 第28期名人戦リーグ | Cho Chikun | Cho U | Lose | W+R | 6.5 | 2558 | -154 | 
+| 2003-03-13 | 第28期碁聖戦本戦2回戦 | Otake Hideo | Cho Chikun | Win | W+1.5 | 6.5 | 2712 | 84 | 
+| 2003-02-27 | 第29期天元戦本戦1回戦 | Hashimoto Shoji | Cho Chikun | Win | W+6.5 | 6.5 | 2628 | 0 | 
+| 2003-02-20 | 第28期碁聖戦本戦1回戦 | Rin Kaiho | Cho Chikun | Win | W+10.5 | 6.5 | 2628 | 415 | 
+| 2002-05-20 | 第4回春蘭杯世界囲碁選手権2回戦 | Cho Chikun | Zhou Heyang | Lose | W+R | 7.5 | 2213 | -72 | 
+| 2002-05-18 | 第4回春蘭杯世界囲碁選手権1回戦 | Park Yeonghun | Cho Chikun | Win | W+2.5 | 7.5 | 2285 | 316 | 
+| 2002-05-02 | 第7回LG杯世界棋王戦2回戦 | Cho Chikun | Cho Hunhyun | Lose | W+R | 6.5 | 1969 | -34 | 
+| 2002-04-30 | 第7回LG杯世界棋王戦1回戦 |  | Cho Chikun | Win | W+5.5 | 6.5 | 2003 | -6423 | 
+| 2001-08-29 | 第6期三星杯1回戦 | Cho Chikun | Rui Naiwei | Lose | W+R | 6.5 | 8426 | 5936 | 
+| 2001-06-14 | 第6回LG杯世界棋王戦2回戦 | Cho Hunhyun | Cho Chikun | Lose | B+R | 6.5 | 2490 | 107 | 
+| 2001-06-12 | 第6回LG杯世界棋王戦1回戦 | Cho Chikun | Chang Hao | Win | B+R | 6.5 | 2383 | 2383 | 
+| 2000-08-30 | 第5期三星杯1回戦 | Choi Myeonghun | Cho Chikun | Lose | B+1.5 | 6.5 | missing | 0 | 
+| 2000-06-15 | 第5回LG杯世界棋王戦2回戦 | Cho Hunhyun | Cho Chikun | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-06-13 | 第5回LG杯世界棋王戦1回戦 | Cho Chikun | Kim Seonryong | Win | B+8.5 | 6.5 | missing | 0 | 
+| 2000-05-02 | 第4回応氏杯世界選手権2回戦 | Yu Bin | Cho Chikun | Lose | B+R | 7.5 | missing | 0 | 
+| 1999-09-07 | 第4期三星杯1回戦 | Cho Chikun | Liu Xiaoguang | Lose | W+R | 6.5 | missing | 0 | 
+| 1999-06-17 | 第4回LG杯世界棋王戦2回戦 | Cho Chikun | Chang Hao | Lose | W+1.5 | 6.5 | missing | 0 | 
+| 1998-10-26 | 第3回LG杯世界棋王戦3回戦 | Cho Chikun | Ma Xiaochun | Lose | W+5.5 | 6.5 | missing | 0 | 
+| 1998-06-18 | 第3回LG杯世界棋王戦2回戦 | Rui Naiwei | Cho Chikun | Win | W+R | 6.5 | missing | 0 | 
+| 1996-08-14 | 第3回応氏杯世界選手権準決勝三番勝負第3局 | Yoda Norimoto | Cho Chikun | Lose | B+R | 7.5 | missing | 0 | 
+| 1996-08-12 | 第3回応氏杯世界選手権準決勝三番勝負第2局 | Cho Chikun | Yoda Norimoto | Lose | W+R | 7.5 | missing | 0 | 
+| 1996-08-10 | 第3回応氏杯世界選手権準決勝三番勝負第1局 | Yoda Norimoto | Cho Chikun | Win | W+3 | 7.5 | missing | 0 | 
+| 1996-04-28 | 第3回応氏杯世界選手権3回戦 | Ma Xiaochun | Cho Chikun | Win | W+R | 7.5 | missing | 0 | 
+| 1996-04-26 | 第3回応氏杯世界選手権2回戦 | Cho Chikun | Jiang Zhujiu | Win | B+R | 7.5 | missing | 0 | 
+| 1992-11-27 | 第2回応氏杯世界選手権準決勝三番勝負第3局 | Cho Chikun | Seo Bongsoo | Lose | W+5 | 7.5 | missing | 0 | 
+| 1992-11-25 | 第2回応氏杯世界選手権準決勝三番勝負第2局 | Seo Bongsoo | Cho Chikun | Lose | B+1 | 7.5 | missing | 0 | 
+| 1992-11-23 | 第2回応氏杯世界選手権準決勝三番勝負第1局 | Cho Chikun | Seo Bongsoo | Win | B+1 | 7.5 | missing | 0 | 
+| 1992-07-17 | 第2回応氏杯世界選手権3回戦 | Cho Chikun | Awaji Shuzo | Win | B+5 | 7.5 | missing | 0 | 
+| 1992-07-15 | 第2回応氏杯世界選手権2回戦 | Yoo Changhyuk | Cho Chikun | Win | W+7 | 7.5 | missing | 0 | 
+| 1988-08-23 | 第1回応氏杯世界選手権2回戦 | Nie Weiping | Cho Chikun | Lose | B+R | 7.5 | missing | 0 | 
+| 1988-08-21 | 第1回応氏杯世界選手権1回戦 | Wu Songsheng | Cho Chikun | Win | W+1 | 7.5 | missing | missing |
 
 
 

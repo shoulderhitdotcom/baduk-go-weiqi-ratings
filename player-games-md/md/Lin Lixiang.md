@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 |  | Lin Lixiang | Lose | B+R | 6.5 | 3028 | -14 | 
+| 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 |  | Lin Lixiang | Win | W+R | 6.5 | 3042 | -21 | 
 | 2021-06-15 | 第17期国手戦（台湾）挑戦手合五番勝負第3局 | Lin Lixiang | Xu Haohong | Lose | W+0.5 | 6.5 | 3063 | 25 | 
 | 2021-06-08 | 第17期国手戦（台湾）挑戦手合五番勝負第2局 | Xu Haohong | Lin Lixiang | Lose | B+R | 6.5 | 3038 | 41 | 
 | 2021-05-18 | 第17期国手戦（台湾）挑戦手合五番勝負第1局 | Lin Lixiang | Xu Haohong | Lose | W+R | 6.5 | 2997 | -19 | 
@@ -21,7 +23,7 @@
 | 2021-04-11 | 第26回LG杯台湾予選 | Lin Junyan | Lin Lixiang | Lose | B+R | 6.5 | 3051 | -13 | 
 | 2021-04-09 | 第17期国手戦（台湾）16強戦 | Lin Lixiang |  | Win | B+R | 6.5 | 3064 | -22 | 
 | 2021-04-07 | 第26回LG杯台湾予選 | Lin Lixiang |  | Win | B+8.5 | 6.5 | 3086 | 4 | 
-| 2021-03-31 | 第26回LG杯台湾予選 | Lin Lixiang |  | Win | B+R | 6.5 | 3082 | 0 | 
+| 2021-03-31 | 第26回LG杯台湾予選 | Lin Lixiang | Liu Chuanting | Win | B+R | 6.5 | 3082 | 0 | 
 | 2021-03-31 | 第26回LG杯台湾予選 | Lin Lixiang | Yu Lijun | Win | B+R | 6.5 | 3082 | -10 | 
 | 2021-03-30 | 第17期国手戦（台湾） | Lin Yuxiang | Lin Lixiang | Win | W+R | 6.5 | 3092 | 12 | 
 | 2021-03-26 | 第17期国手戦（台湾） | Lin Lixiang |  | Win | B+5.5 | 6.5 | 3080 | -115 | 
@@ -113,7 +115,7 @@
 | 2020-01-15 | 第9回応氏杯世界選手権台湾代表選抜戦 | Xu Jingen | Lin Lixiang | Win | W+R | 7.5 | 3212 | 7 | 
 | 2020-01-14 | 第19期天元戦（台湾）予選 | Lin Lixiang | Lin Xiuping | Win | B+R | 6.5 | 3205 | 6 | 
 | 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Lin Lixiang |  | Win | B+R | 7.5 | 3199 | 0 | 
-| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 |  | Lin Lixiang | Win | W+R | 7.5 | 3199 | 305 | 
+| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Liu Yifang | Lin Lixiang | Win | W+R | 7.5 | 3199 | 305 | 
 | 2019-12-20 | 第13回春蘭杯台湾予選 | Lin Lixiang | Li Wei | Lose | W+R | 7.5 | 2894 | -27 | 
 | 2019-12-02 | 第12期棋王戦（台湾）リーグ | Lin Lixiang | Chen Shiyuan | Win | B+R | 6.5 | 2921 | 13 | 
 | 2019-11-28 | 第12期棋王戦（台湾）リーグ | Lin Lixiang | Xu Haohong | Lose | W+R | 6.5 | 2908 | -11 | 

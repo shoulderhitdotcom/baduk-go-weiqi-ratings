@@ -5,156 +5,158 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第2期聯電杯プロ囲碁戦予選 | missing | Xu Yuqi | W+R | 2021-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BNsXkonUSgQN7eRK4OtU5Q%3D%3D) | 
-| 第11期友士杯十段戦予選 | Wang Yuanjun | Xu Yuqi | B+R | 2021-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LLa%2B6Mdh1EovO%2F727MvqrA%3D%3D) | 
-| 第17期国手戦（台湾）16強戦 | Xu Yuqi | Lin Junyan | W+R | 2021-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y3eNosCDbPT7UkfZFpQj5g%3D%3D) | 
-| 第17期国手戦（台湾） | Xu Yuqi | Huang Xiangren | B+R | 2021-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qxETWh9VAqa5kkyLSSwYSA%3D%3D) | 
-| 第26回LG杯台湾予選 | Chen Shiyuan | Xu Yuqi | B+R | 2021-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aFv35NZBFtn%2FcG1xr4YsjA%3D%3D) | 
-| 第11期友士杯十段戦予選 | missing | Xu Yuqi | W+R | 2021-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QMHOZBnOeQyaSkAgOR0tIg%3D%3D) | 
-| 第11期友士杯十段戦予選 | missing | Xu Yuqi | W+R | 2021-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S67144hE4xsnc3M5ubEj%2FA%3D%3D) | 
-| 第17期国手戦（台湾） | Zhao Peizhe | Xu Yuqi | W+R | 2021-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NlBAV4lXha6lezcy3CYH6Q%3D%3D) | 
-| 第17期国手戦（台湾） | missing | Xu Yuqi | W+R | 2021-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kVC9YKqx%2BgEYMVe0RHIAbQ%3D%3D) | 
-| 第2期名人冠軍戦1回戦 | Lu Yiquan | Xu Yuqi | B+R | 2021-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a5a2oweA7V1yexFQw58N9g%3D%3D) | 
-| 第2期名人冠軍戦予選 | missing | Xu Yuqi | W+R | 2021-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WPZhMSpLke87Y0xA7%2BNkxw%3D%3D) | 
-| 第2期名人冠軍戦予選 | Lin Lixiang | Xu Yuqi | B+2.5 | 2021-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gcHGyIOSdwHrw0XwVpBRcg%3D%3D) | 
-| 第2期名人冠軍戦予選 | missing | Xu Yuqi | W+R | 2021-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NnrJuldYVW%2F8COm6FLTwOQ%3D%3D) | 
-| 第20期天元戦（台湾）敗部2回戦 | Lin Shixun | Xu Yuqi | B+R | 2021-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s2eWorO4gw8vkRu3l5MXLQ%3D%3D) | 
-| 第20期天元戦（台湾）敗部1回戦 | Xu Yuqi | Yang Bowei | B+3.5 | 2021-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1JPt9pkc8ELR%2BO4dGAQ%2FQA%3D%3D) | 
-| 第20期天元戦（台湾）勝部1回戦 | Xu Yuqi | Jian Jingting | W+R | 2021-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wmgrR1tT3HeEKpmB%2FyhutA%3D%3D) | 
-| 第20期天元戦（台湾）予選 | Xu Yuqi | Chen Feng | B+R | 2021-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wYitAG41B4jdA5tkTBcVvw%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦1回戦 | Xu Yuqi | Liu Yaowen | W+R | 2021-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OZr9I8J6sJI%2BHZV05US2dw%3D%3D) | 
-| 第20期天元戦（台湾）予選 | Xu Yuqi | missing | B+R | 2021-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1kyzLaDib7C0HVR0NbQfjw%3D%3D) | 
-| 第1回UMC聯電杯早碁争覇戦3回戦  | Wang Yuanjun | Xu Yuqi | B+R | 2020-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2Maj4IGys%2F3U48YyzCQqmg%3D%3D) | 
-| 第1回UMC聯電杯早碁争覇戦2回戦 | missing | Xu Yuqi | W+R | 2020-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3C2PX3%2Fh%2Bn87hWgGlUefvg%3D%3D) | 
-| 第8期中環碁聖戦4回戦 | Wang Yuanjun | Xu Yuqi | B+R | 2020-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iGA7fYs3l5j1AaD8AKCQKQ%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Xu Yuqi | Lu Yiquan | W+2.5 | 2020-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S%2F%2BXyw1hDmdfZQFBX7cKeA%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Chen Qirui | Xu Yuqi | B+R | 2020-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iQQc0aBRzZU4v%2FSwfyftCw%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | missing | Xu Yuqi | W+R | 2020-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rKgpmureFF82kx0nwfRdLg%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Xu Yuqi | missing | B+R | 2020-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vscSVnJLLG0PPopfR5m%2BPA%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Xu Yuqi | Lin Jiehan | B+R | 2020-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2%2F1qtNkjTHUjhwCl9CMOMg%3D%3D) | 
-| 第16期国手戦（台湾）2回戦 | Xu Yuqi | Lin Shimin | W+R | 2020-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xiP0vJrPpYNCzI6Blh2mag%3D%3D) | 
-| 第8期中環碁聖戦3回戦 | Xu Jingen | Xu Yuqi | W+R | 2020-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FPKXqbGkQiuWxZDbiRI56Q%3D%3D) | 
-| 第16期国手戦（台湾）1回戦 | missing | Xu Yuqi | W+R | 2020-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V6Nrs6H%2BZyp%2FK3diHg7Dwg%3D%3D) | 
-| 第8期中環碁聖戦2回戦 | missing | Xu Yuqi | W+R | 2020-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3KkgzDDPIKmWcggL0qbqsA%3D%3D) | 
-| 第8期中環碁聖戦1回戦 | Dang Xiyun | Xu Yuqi | W+R | 2020-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bskELIMK8tFhw86JIrm9FQ%3D%3D) | 
-| 第1期名人冠軍戦2回戦 | Xu Haohong | Xu Yuqi | B+R | 2020-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q9H4qBtXGpocBy60SaFxFg%3D%3D) | 
-| 第1期名人冠軍戦1回戦 | Lu Yiquan | Xu Yuqi | W+R | 2020-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SZqB%2F18fRWgRMLdTp92u4A%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦予選 | missing | Xu Yuqi | B+R | 2020-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WB%2BoTkRTQhY9nPitMp8GyA%3D%3D) | 
-| 第5回百霊杯台湾代表選抜戦 | Xu Yuqi | Lin Junyan | W+1¼ | 2020-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gv9qrVB0OFBDz5vvdZ62DQ%3D%3D) | 
-| 第5回百霊杯台湾代表選抜戦 | missing | Xu Yuqi | W+R | 2020-03-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JD39P0zPCv%2F0R1htDZY7KA%3D%3D) | 
-| 第10期友士杯十段戦予選敗部4回戦 | missing | Xu Yuqi | B+1.5 | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZtbCfGaDvZrRK5Aaf%2Fxpjg%3D%3D) | 
-| 第10期友士杯十段戦予選敗部3回戦 | Zhou Keping | Xu Yuqi | W+R | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f%2BB4gRz%2B%2Bpc%2FfTb2XryeMw%3D%3D) | 
-| 第5回百霊杯台湾代表選抜戦 | Xu Yuqi | Li Wei | B+R | 2020-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jcEQ4jnjY%2F3DFsFKbvZw7Q%3D%3D) | 
-| 第5回百霊杯台湾代表選抜戦 | Xu Yuqi | missing | B+R | 2020-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5ruIvi%2Bj3L1F8glXXiNHTA%3D%3D) | 
-| 第10期友士杯十段戦予選敗部1回戦 | Xu Yuqi | Chen Yida | B+R | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4mYIEABScjgUrocg8sfRkg%3D%3D) | 
-| 第10期友士杯十段戦予選勝部1回戦 | Chen Feng | Xu Yuqi | B+R | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ddOeEt37y2r1Nqg9xsT3yA%3D%3D) | 
-| 第19期天元戦（台湾）敗部2回戦 | Xu Yuqi | Yang Bowei | W+R | 2020-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NV1eat22kPbZL7Pjw4xZMQ%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦64強戦 | missing | Xu Yuqi | B+R | 2020-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Y3SxNh%2FBF6Zu%2FhWAe8pZg%3D%3D) | 
-| 第19期天元戦（台湾）敗部1回戦 | missing | Xu Yuqi | W+R | 2020-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WfLALKClIqct%2B%2BjDSgeY3g%3D%3D) | 
-| 第1期名人冠軍戦予選勝部決勝 | missing | Xu Yuqi | W+R | 2020-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uPgV3dWHSDxZha74l1P9SA%3D%3D) | 
-| 第19期天元戦（台湾）勝部1回戦 | Xu Yuqi | Chen Shiyuan | W+R | 2020-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EtH1qByQ3YKa6C%2BAQpDXUw%3D%3D) | 
-| 第19期天元戦（台湾）予選 | Xu Yuqi | missing | B+R | 2020-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2h3cnSdfEzR3sPJx9oEgFw%3D%3D) | 
-| 第1期名人冠軍戦予選勝部1回戦 | Zhou Pingqiang | Xu Yuqi | W+0.5 | 2020-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jQwySSeD2AqWJFBbQCC2%2Bg%3D%3D) | 
-| 第19期天元戦（台湾）予選 | Xu Yuqi | Dong Yutang | B+R | 2020-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jm7NIYFt%2BJjjF4fS4Bt0xg%3D%3D) | 
-| 第9回応氏杯世界選手権台湾代表選抜戦 | Xu Yuqi | missing | W+1 | 2020-01-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mp18UtjC89CsH9xVePpvjQ%3D%3D) | 
-| 第13回春蘭杯台湾予選 | missing | Xu Yuqi | W+R | 2019-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=My2YlYy3VWG%2Fghe7YKeDNQ%3D%3D) | 
-| 第13回春蘭杯台湾予選 | Jian Jingting | Xu Yuqi | B+R | 2019-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Ky0OrKF0m6o38sMi82wuw%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Xu Yuqi | Li Wei | W+R | 2019-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YYjbiL0RMsTI1QMO63QuPw%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Xu Yuqi | Chen Shiyuan | B+R | 2019-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8V%2B2goEWrQnjKBmsZhGwig%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Xu Yuqi | Lin Lixiang | W+2.5 | 2019-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tyj79IHyIDDvWMUfGzzt9g%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Xu Yuqi | Xu Haohong | W+R | 2019-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1rB5vutIH%2BM41v9WWxl%2FIw%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Chen Qirui | Xu Yuqi | B+R | 2019-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=La1rxcM%2Fzco2VZi9rwm3HQ%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Xu Yuqi | Wang Yuanjun | W+6.5 | 2019-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sdJYGxg4kHDljkvdRyjlig%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Jian Jingting | Xu Yuqi | B+R | 2019-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mOGOO1iXWu8kjYagoAy2Gg%3D%3D) | 
-| 第12期棋王戦（台湾）予選勝部決勝 | Xu Yuqi | Chen Xi | B+R | 2019-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mtKLQayVjmmfoUrj20yglQ%3D%3D) | 
-| 第12期棋王戦（台湾）予選勝部2回戦 | Lin Shuyang | Xu Yuqi | W+3.5 | 2019-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i3hZioKSluuP%2BMRu5DaOYA%3D%3D) | 
-| 第12期棋王戦（台湾）予選勝部1回戦 | missing | Xu Yuqi | W+R | 2019-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z6BCWmM5eYLgkCLLJAefcQ%3D%3D) | 
-| 第12期棋王戦（台湾）資格戦敗部1回戦 | missing | Xu Yuqi | W+1.5 | 2019-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q8E0ItXcsysAXwmfRoZV2w%3D%3D) | 
-| 第15期国手戦（台湾）1回戦 | Xu Yuqi | Chen Shiyuan | W+R | 2019-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t8UBrSc7AFZsFfgXahxG2A%3D%3D) | 
-| 第12期棋王戦（台湾）資格戦勝部1回戦 | missing | Xu Yuqi | B+R | 2019-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MXOYQgEG9qQ9K55RvkLM2Q%3D%3D) | 
-| 第7期中環碁聖戦1回戦 | Yang Bowei | Xu Yuqi | B+R | 2019-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8fpfON4wdq3c7MDs75ipzg%3D%3D) | 
-| 第9期友士杯十段戦予選敗部2回戦 | missing | Xu Yuqi | B+R | 2019-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dVUobrD8MKGQCgN2a%2BptAA%3D%3D) | 
-| 第9期友士杯十段戦予選勝部準決勝 | Zhou Yinnan | Xu Yuqi | B+R | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x88IXVhH0I9NB5ljfth2iA%3D%3D) | 
-| 第18期天元戦（台湾）敗部3回戦 | Xu Yuqi | Li Wei | W+2.5 | 2019-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3GsKEG%2F9IzLBoyr9H60e5w%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦64強戦 | Xu Yuqi | missing | W+R | 2019-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kjri8nyOE%2FpbTGgfVpP9lg%3D%3D) | 
-| 第18期天元戦（台湾）敗部2回戦 | Lin Shuyang | Xu Yuqi | W+R | 2019-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8OA5xpaL4bVptQe6bGToWQ%3D%3D) | 
-| 第18期天元戦（台湾）敗部1回戦 | Xu Yuqi | Zhang Zhehao | B+5.5 | 2019-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XY%2BwS8Ih6Hc%2BBhDV%2BtWMqQ%3D%3D) | 
-| 第18期天元戦（台湾）勝部1回戦 | Lai Junfu | Xu Yuqi | B+R | 2019-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qB12k5vdDKUX7n3QpVtehA%3D%3D) | 
-| 2018年新人王戦（台湾）リーグA | Cai Chengwei | Xu Yuqi | W+R | 2018-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6rQC67s6Q68MJvEoSzvn4w%3D%3D) | 
-| 2018年新人王戦（台湾）リーグA | missing | Xu Yuqi | W+R | 2018-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fv5zfOLyBgiDHHiatogdQQ%3D%3D) | 
-| 2018年新人王戦（台湾）リーグA | Jian Jingting | Xu Yuqi | W+R | 2018-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t0Rx91D93BRWjU0pAyf69Q%3D%3D) | 
-| 2018年新人王戦（台湾）リーグA | Xu Yuqi | Lai Junfu | W+2¼ | 2018-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7hULZYThjJ2%2BoowK0PWhDg%3D%3D) | 
-| 2018年新人王戦（台湾）リーグA | Xu Yuqi | Lu Yiquan | B+R | 2018-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dXOV3n6XMJz6yZJ40ax0RA%3D%3D) | 
-| 2018年新人王戦（台湾）リーグA | Huang Shiyuan | Xu Yuqi | W+R | 2018-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=emBUVK%2FJ8DJhPQ3gLQhtMQ%3D%3D) | 
-| 2018年新人王戦（台湾）リーグA | Xu Yuqi | missing | W+¼ | 2018-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QQxTLBrezBu05at8tFZ%2BgQ%3D%3D) | 
-| 第1回IWMC台湾代表男子選抜戦予選2回戦 | Xiao Zhenghao | Xu Yuqi | B+1¾ | 2018-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E2wF%2FiiOS6ICjHyHnk%2F6Bw%3D%3D) | 
-| 第1回IWMC台湾代表男子選抜戦予選1回戦 | Jian Jingting | Xu Yuqi | W+¼ | 2018-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oclDyoOaCzCxluBHy8D6MQ%3D%3D) | 
-| 第14期国手戦（台湾）16強戦 | Lin Junyan | Xu Yuqi | B+R | 2018-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zecHVrtHCEQoaMIv7ZGSGQ%3D%3D) | 
-| 第14期国手戦（台湾）2回戦 | Xu Yuqi | Zhou Pingqiang | B+R | 2018-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sw2f97ZYfEY765yDb3io4g%3D%3D) | 
-| 第11期棋王戦（台湾）予選敗部3回戦 | Xiao Zhenghao | Xu Yuqi | B+R | 2018-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wENAsCyL3WGtDp2d1lWBww%3D%3D) | 
-| 第11期棋王戦（台湾）予選勝部準決勝 | Chen Qirui | Xu Yuqi | B+R | 2018-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AmWENxy35uRMcBtamoLUjw%3D%3D) | 
-| 第11期棋王戦（台湾）予選勝部2回戦 | Zhang Zhehao | Xu Yuqi | W+R | 2018-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DRaOrZKRL8TB5Ctc6Byc2Q%3D%3D) | 
-| 第14期国手戦（台湾）1回戦上半区 | missing | Xu Yuqi | w+r | 2018-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o%2BB29rgREpKQvhRkmSmm2w%3D%3D) | 
-| 第11期棋王戦（台湾）予選勝部1回戦 | Wei Haoting | Xu Yuqi | W+4.5 | 2018-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Br53yQ%2F49YmXNDz3NY24Ng%3D%3D) | 
-| 第6期中環碁聖戦2回戦 | Lin Yuxiang | Xu Yuqi | B+9.5 | 2018-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BBFH2sjrUlIDkb1LxbOiFQ%3D%3D) | 
-| 第6期中環碁聖戦1回戦上半区 | Zhou Pingqiang | Xu Yuqi | w+4.5 | 2018-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mMBosG76pCHK1M4Hm3d7IQ%3D%3D) | 
-| 第8期友士杯十段戦敗者復活戦1回戦 | Chen Xi | Xu Yuqi | B+R | 2018-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cUi1mE9cFLGZ4lVHI7aoEw%3D%3D) | 
-| 第8期友士杯十段戦1回戦 | Xu Yuqi | Xiao Zhenghao | W+2.5 | 2018-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U3MkG9YNfm2mA12w92Ap%2Fw%3D%3D) | 
-| 第8期友士杯十段戦予選 | Xu Yuqi | Zhou Yinnan | B+R | 2018-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6B47kA%2FN89hr%2FVy41grvwg%3D%3D) | 
-| 第8期友士杯十段戦予選 | Lin Shimin | Xu Yuqi | W+R | 2018-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QrEbh5No%2B60F%2FoVxJ1cMPg%3D%3D) | 
-| 第8期友士杯十段戦予選 | Gao Yun | Xu Yuqi | B+0.5 | 2018-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nVR3cFfsbrK6z%2Fe%2F5jPM8A%3D%3D) | 
-| 第十七回天元戦リーグ第七節 | Xu Yuqi | Jian Jingting | W+R | 2018-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9or8oDKv1ML3cltY4YGD0Q%3D%3D) | 
-| 第十七回天元戦リーグ第六節 | Xu Yuqi | Lin Zhihan | B+R | 2018-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0GptBibD99zS%2BavlNbRdwg%3D%3D) | 
-| 第十七回天元戦リーグ第五節 | Xu Yuqi | Yang Bowei | W+R | 2018-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VA7WTDp7shRIvjZ96VKiHQ%3D%3D) | 
-| 第十七回天元戦リーグ第三節 | Lin Lixiang | Xu Yuqi | w+1.5 | 2018-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UTGG4V1Xb%2F9%2B3ibxZjrckA%3D%3D) | 
-| 第十七回天元戦リーグ第二節 | Xiao Zhenghao | Xu Yuqi | w+r | 2018-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pvezKYcbmB8TX98D9gnoxA%3D%3D) | 
-| 第十七回天元戦リーグ第一節 | Xu Yuqi | Lin Junyan | W+R | 2018-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i0bKIK26WFOGxtP4qTunFA%3D%3D) | 
-| 第十七回天元戦複戦勝部第三回戦 補戦 | Chen Shiyuan | Xu Yuqi | W+R | 2018-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yy3w4KHBjuwTyHtFiqFYPQ%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦32強戦 | Xu Yuqi | Chen Xi | W+0.5 | 2018-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=djgbxd05FDEjwV9eiqGBdQ%3D%3D) | 
-| 第十七回天元戦複戦勝部第二回戦 | Lin Shuyang | Xu Yuqi | W+R | 2018-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lLd4MC4UKh2iTg1jSSx8Hw%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦64強戦 | Dang Xiyun | Xu Yuqi | W+R | 2018-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MPc9KKnxqDH%2B3dEWNQDupA%3D%3D) | 
-| 第十七回天元戦複戦勝部第一回戦 | Xu Yuqi | Lin Ziyuan | B+R | 2018-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T%2B60muDAECeDPnh2zB%2Fjqw%3D%3D) | 
-| 第12回春蘭杯台湾予選 | Li Wei | Xu Yuqi | B+R | 2018-02-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bik1Yt0wVBpi7zhftshpWg%3D%3D) | 
-| 第12回春蘭杯台湾予選 | Xu Yuqi | Dong Yutang | B+R | 2018-02-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nHGhbg2jSGx7rPYCIXvQdg%3D%3D) | 
-| 第23回LG杯台湾代表選抜戦予選第三局 | Xu Yuqi | Lin Lixiang | W+1.5 | 2018-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E9oa3IvMe8Sq%2Ffwt1UTCZQ%3D%3D) | 
-| 第23回LG杯台湾代表選抜戦予選第二局 | Lin Tingyi | Xu Yuqi | W+2.5 | 2018-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wlyqzv2W1U5qvPCSbYpwPA%3D%3D) | 
-| 第23回LG杯台湾代表選抜戦予選第一局 | missing | Xu Yuqi | w+r | 2018-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cQ3a1ItBQS6Onn5sABnEPA%3D%3D) | 
-| 2017年関西棋院VS台湾棋院交流戦第1戦 | Watanabe Yuu | Xu Yuqi | W+F | 2017-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yzaKFBbfRbqUZ3OpJEmbMQ%3D%3D) | 
-| 第3期未来の星新鋭最強戦台湾予選 | Jian Jingting | Xu Yuqi | B+R | 2017-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m4d7s%2FAG5qYS%2BYOgGylbrw%3D%3D) | 
-| 第13期国手戦（台湾）首輪下半区 | missing | Xu Yuqi | B+R | 2017-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BipbIaymt%2F6prelKumlEUQ%3D%3D) | 
-| 第十六期天元戦リーグ戦第七局 | Xu Yuqi | Chen Shiyuan | B+4.5 | 2017-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Il36IRzh1twMo5b3QxiWPg%3D%3D) | 
-| 第十六期天元戦リーグ戦第六局 | Cai Chengwei | Xu Yuqi | B+4.5 | 2017-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UUVaO8ZP3xONjZcNb1g0hg%3D%3D) | 
-| 第十六期天元戦リーグ戦第五局 | Lai Junfu | Xu Yuqi | W+R | 2017-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PtIUIWs%2BhxaCMgejblXyxw%3D%3D) | 
-| 第十六期天元戦リーグ戦第四局 | Xu Yuqi | Lin Shixun | W+1.5 | 2017-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RBpGU34bB8jCg9kfuvf1qA%3D%3D) | 
-| 第十六期天元戦リーグ戦第三局 | Xu Yuqi | Xiao Zhenghao | W+R | 2017-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B3P207K1IxlpyXFNEXs0qw%3D%3D) | 
-| 第十六期天元戦リーグ戦第二局 | Xu Yuqi | Lin Junyan | W+R | 2017-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FWQBdHgVB%2BpOXQvpKIIVzA%3D%3D) | 
-| 第十六期天元戦リーグ戦第一局 | Xu Yuqi | Lin Lixiang | W+1.5 | 2017-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YMakGxFoDXlNCwrt4xj0NQ%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦32強戦 | Xu Yuqi | Lin Shixun | W+0.5 | 2017-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UWR1axtyxyfRaH20%2Bv8xew%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦64強戦 | Xu Yuqi | Dang Xiyun | B+R | 2017-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7mqEtwmdnr1mfPuDNXenBw%3D%3D) | 
-| 第十四期倡棋盃台湾代表選抜戦初戦第三局 | Cai Chengwei | Xu Yuqi | B+3點 | 2017-03-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=43%2BQHp0yRM%2FDDZbNSdsD7g%3D%3D) | 
-| 第十六期天元戦複戦勝部第三回戦 | Xu Yuqi | Yang Bowei | B+R | 2017-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=su%2B%2Fvv%2Bk0WeMXhh8da2tAA%3D%3D) | 
-| 第十四期倡棋盃台湾代表選抜戦初戦第二局 | Lin Shimin | Xu Yuqi | W+3點 | 2017-02-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CogMC3CyLhAe2HRhSNrMNw%3D%3D) | 
-| 第十四期倡棋盃台湾代表選抜戦初戦第一局 | Xu Yuqi | Huang Shiyuan | B+1點 | 2017-02-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dSLwo69k7F2%2FODShP3QFIg%3D%3D) | 
-| 第十六期天元戦複戦勝部第二回戦 | Lin Xiuping | Xu Yuqi | W+5.5 | 2017-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A6lbTX1MtYRAUtH%2FL3Q%2BzQ%3D%3D) | 
-| 第22期LG盃台湾代表選抜戦初戦第二局 | Xu Yuqi | Lu Yiquan | b+0.5 | 2017-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eFok0HK%2BrjlNdUT7%2FtoSpA%3D%3D) | 
-| 第22期LG盃台湾代表選抜戦初戦第一局 | missing | Xu Yuqi | w+r | 2017-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tSeXtqH51ffEz093s36u8g%3D%3D) | 
-| 第十六期天元戦初戦第三回戦 | Xu Yuqi | Zhou Junxun | B+R | 2017-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f0QPemcjiwvG0dDiXMojvQ%3D%3D) | 
-| 第十六期天元戦初戦第一回戦 | Xu Yuqi | Huang Shiyuan | b+r | 2017-01-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MYAcKTEHe8QpzGIQjcag%2Bw%3D%3D) | 
-| 第2期未来の星新鋭最強戦台湾予選 | Jian Jingting | Xu Yuqi | B+2.5 | 2016-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rOAypFaT66Bq7qBe5csB8A%3D%3D) | 
-| 第2期未来の星新鋭最強戦台湾予選 | Xu Yuqi | Lu Yiquan | b+r | 2016-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BooVDcCPzsJ%2FOkIMVlIstA%3D%3D) | 
-| 第6期友士杯十段戦予選 | Chen Feng | Xu Yuqi | B+R | 2016-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A629sDHF1WfBtOoWoUkISw%3D%3D) | 
-| 第6期友士杯十段戦予選 | Huang Shiyuan | Xu Yuqi | W+R | 2016-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VkQwfmQ6ALE2mSKOKpOGDg%3D%3D) | 
-| 第6期友士杯十段戦予選 | missing | Xu Yuqi | W+R | 2016-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jKs8o1S3ldTMwoFTOhzkDw%3D%3D) | 
-| 第6期友士杯十段戦予選 | Xu Yuqi | Liu Yaowen | B+0.5 | 2016-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T2qA%2FSeWZXecB4gkcrs%2BzQ%3D%3D) | 
-| 第6期友士杯十段戦予選 | Huang Daolong | Xu Yuqi | W+2.5 | 2016-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CFKDVkz%2BAHW4J4TsGEPYrw%3D%3D) | 
-| 第6期友士杯十段戦予選 | Chen Feng | Xu Yuqi | B+0.5 | 2016-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zdXjSzehCXTify4tj%2BaEWg%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦32強戦 | Wang Yuanjun | Xu Yuqi | B+3.5 | 2016-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hIxPaH5nE300SpuylExklg%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦64強戦 | Yu Lijun | Xu Yuqi | W+R | 2016-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Id7dcRO2GsxHYOC4gbNB3w%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦64強戦 | Xu Yuqi | Xu Haohong | W+R | 2015-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PTTaTBNYTjRiRwjXPWgknw%3D%3D) | 
-| 第6回海峰杯プロ囲碁戦64強戦 | Xu Yuqi | Chen Shiyuan | W+0.5 | 2014-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fgHaYmclk61A%2BrVrA%2Brtrw%3D%3D) | 
-| 2014年日台精鋭交流戦第5戦 | Chang Rueijie | Xu Yuqi | B+4.5 | 2014-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VRKXiWg3zga2ZCXDdxBc0A%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 |  | Xu Yuqi | Win | W+R | 6.5 | 2855 | 2 | 
+| 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Lin Yuxiang | Xu Yuqi | Win | W+R | 6.5 | 2853 | -7 | 
+| 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 |  | Xu Yuqi | Win | W+R | 6.5 | 2860 | -20 | 
+| 2021-04-12 | 第11期友士杯十段戦予選 | Wang Yuanjun | Xu Yuqi | Lose | B+R | 6.5 | 2880 | -6 | 
+| 2021-04-09 | 第17期国手戦（台湾）16強戦 | Xu Yuqi | Lin Junyan | Lose | W+R | 6.5 | 2886 | -3 | 
+| 2021-04-02 | 第17期国手戦（台湾） | Xu Yuqi | Huang Xiangren | Win | B+R | 6.5 | 2889 | 0 | 
+| 2021-03-31 | 第26回LG杯台湾予選 | Chen Shiyuan | Xu Yuqi | Lose | B+R | 6.5 | 2889 | -14 | 
+| 2021-03-29 | 第11期友士杯十段戦予選 |  | Xu Yuqi | Win | W+R | 6.5 | 2903 | 0 | 
+| 2021-03-29 | 第11期友士杯十段戦予選 |  | Xu Yuqi | Win | W+R | 6.5 | 2903 | 44 | 
+| 2021-03-26 | 第17期国手戦（台湾） | Zhao Peizhe | Xu Yuqi | Win | W+R | 6.5 | 2859 | -130 | 
+| 2021-03-19 | 第17期国手戦（台湾） |  | Xu Yuqi | Win | W+R | 6.5 | 2989 | 39 | 
+| 2021-03-08 | 第2期名人冠軍戦1回戦 | Lu Yiquan | Xu Yuqi | Lose | B+R | 6.5 | 2950 | -26 | 
+| 2021-03-04 | 第2期名人冠軍戦予選 |  | Xu Yuqi | Win | W+R | 6.5 | 2976 | 5 | 
+| 2021-02-25 | 第2期名人冠軍戦予選 | Lin Lixiang | Xu Yuqi | Lose | B+2.5 | 6.5 | 2971 | -5 | 
+| 2021-02-22 | 第2期名人冠軍戦予選 |  | Xu Yuqi | Win | W+R | 6.5 | 2976 | -78 | 
+| 2021-01-24 | 第20期天元戦（台湾）敗部2回戦 | Lin Shixun | Xu Yuqi | Lose | B+R | 6.5 | 3054 | -12 | 
+| 2021-01-22 | 第20期天元戦（台湾）敗部1回戦 | Xu Yuqi | Yang Bowei | Win | B+3.5 | 6.5 | 3066 | 48 | 
+| 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Xu Yuqi | Jian Jingting | Lose | W+R | 6.5 | 3018 | 18 | 
+| 2021-01-12 | 第20期天元戦（台湾）予選 | Xu Yuqi | Chen Feng | Win | B+R | 6.5 | 3000 | 8 | 
+| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Xu Yuqi | Liu Yaowen | Lose | W+R | 6.5 | 2992 | -34 | 
+| 2021-01-08 | 第20期天元戦（台湾）予選 | Xu Yuqi |  | Win | B+R | 6.5 | 3026 | 68 | 
+| 2020-10-28 | 第1回UMC聯電杯早碁争覇戦3回戦  | Wang Yuanjun | Xu Yuqi | Lose | B+R | 6.5 | 2958 | -7 | 
+| 2020-10-21 | 第1回UMC聯電杯早碁争覇戦2回戦 |  | Xu Yuqi | Win | W+R | 6.5 | 2965 | 3 | 
+| 2020-10-18 | 第8期中環碁聖戦4回戦 | Wang Yuanjun | Xu Yuqi | Lose | B+R | 6.5 | 2962 | 4 | 
+| 2020-10-12 | 第13期棋王戦（台湾）予選 | Xu Yuqi | Lu Yiquan | Lose | W+2.5 | 6.5 | 2958 | -8 | 
+| 2020-10-08 | 第13期棋王戦（台湾）予選 | Chen Qirui | Xu Yuqi | Lose | B+R | 6.5 | 2966 | -1 | 
+| 2020-10-05 | 第13期棋王戦（台湾）予選 |  | Xu Yuqi | Win | W+R | 6.5 | 2967 | -8 | 
+| 2020-09-28 | 第13期棋王戦（台湾）予選 | Xu Yuqi |  | Win | B+R | 6.5 | 2975 | 52 | 
+| 2020-09-24 | 第13期棋王戦（台湾）予選 | Xu Yuqi | Lin Jiehan | Win | B+R | 6.5 | 2923 | 22 | 
+| 2020-09-22 | 第16期国手戦（台湾）2回戦 | Xu Yuqi | Lin Shimin | Lose | W+R | 6.5 | 2901 | -50 | 
+| 2020-09-20 | 第8期中環碁聖戦3回戦 | Xu Jingen | Xu Yuqi | Win | W+R | 6.5 | 2951 | 51 | 
+| 2020-09-15 | 第16期国手戦（台湾）1回戦 |  | Xu Yuqi | Win | W+R | 6.5 | 2900 | -5 | 
+| 2020-09-10 | 第8期中環碁聖戦2回戦 | Bai Xinhui | Xu Yuqi | Win | W+R | 6.5 | 2905 | 27 | 
+| 2020-09-06 | 第8期中環碁聖戦1回戦 | Dang Xiyun | Xu Yuqi | Win | W+R | 6.5 | 2878 | 163 | 
+| 2020-07-20 | 第1期名人冠軍戦2回戦 | Xu Haohong | Xu Yuqi | Lose | B+R | 6.5 | 2715 | -28 | 
+| 2020-07-16 | 第1期名人冠軍戦1回戦 | Lu Yiquan | Xu Yuqi | Win | W+R | 6.5 | 2743 | 63 | 
+| 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 |  | Xu Yuqi | Lose | B+R | 6.5 | 2680 | 168 | 
+| 2020-03-27 | 第5回百霊杯台湾代表選抜戦 | Xu Yuqi | Lin Junyan | Lose | W+1¼ | 7.5 | 2512 | 11 | 
+| 2020-03-20 | 第5回百霊杯台湾代表選抜戦 |  | Xu Yuqi | Win | W+R | 7.5 | 2501 | 17 | 
+| 2020-03-19 | 第10期友士杯十段戦予選敗部4回戦 |  | Xu Yuqi | Lose | B+1.5 | 6.5 | 2484 | 0 | 
+| 2020-03-19 | 第10期友士杯十段戦予選敗部3回戦 | Zhou Keping | Xu Yuqi | Win | W+R | 6.5 | 2484 | -32 | 
+| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Xu Yuqi | Li Wei | Win | B+R | 7.5 | 2516 | 0 | 
+| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Xu Yuqi |  | Win | B+R | 7.5 | 2516 | 43 | 
+| 2020-03-12 | 第10期友士杯十段戦予選敗部1回戦 | Xu Yuqi | Chen Yida | Win | B+R | 6.5 | 2473 | 0 | 
+| 2020-03-12 | 第10期友士杯十段戦予選勝部1回戦 | Chen Feng | Xu Yuqi | Lose | B+R | 6.5 | 2473 | -28 | 
+| 2020-02-25 | 第19期天元戦（台湾）敗部2回戦 | Xu Yuqi | Yang Bowei | Lose | W+R | 6.5 | 2501 | 14 | 
+| 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 |  | Xu Yuqi | Lose | B+R | 6.5 | 2487 | -47 | 
+| 2020-02-18 | 第19期天元戦（台湾）敗部1回戦 |  | Xu Yuqi | Win | W+R | 6.5 | 2534 | -129 | 
+| 2020-02-13 | 第1期名人冠軍戦予選勝部決勝 |  | Xu Yuqi | Win | W+R | 6.5 | 2663 | -85 | 
+| 2020-02-11 | 第19期天元戦（台湾）勝部1回戦 | Xu Yuqi | Chen Shiyuan | Lose | W+R | 6.5 | 2748 | -10 | 
+| 2020-02-10 | 第19期天元戦（台湾）予選 | Xu Yuqi |  | Win | B+R | 6.5 | 2758 | 16 | 
+| 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Zhou Pingqiang | Xu Yuqi | Win | W+0.5 | 6.5 | 2742 | -26 | 
+| 2020-01-14 | 第19期天元戦（台湾）予選 | Xu Yuqi | Dong Yutang | Win | B+R | 6.5 | 2768 | 0 | 
+| 2020-01-02 | 第9回応氏杯世界選手権台湾代表選抜戦 | Xu Yuqi | Liu Yifang | Lose | W+1 | 7.5 | 2768 | 243 | 
+| 2019-12-20 | 第13回春蘭杯台湾予選 | Bai Xinhui | Xu Yuqi | Win | W+R | 7.5 | 2525 | 0 | 
+| 2019-12-20 | 第13回春蘭杯台湾予選 | Jian Jingting | Xu Yuqi | Lose | B+R | 7.5 | 2525 | -19 | 
+| 2019-12-02 | 第12期棋王戦（台湾）リーグ | Xu Yuqi | Li Wei | Lose | W+R | 6.5 | 2544 | -31 | 
+| 2019-11-28 | 第12期棋王戦（台湾）リーグ | Xu Yuqi | Chen Shiyuan | Win | B+R | 6.5 | 2575 | -8 | 
+| 2019-11-25 | 第12期棋王戦（台湾）リーグ | Xu Yuqi | Lin Lixiang | Lose | W+2.5 | 6.5 | 2583 | -29 | 
+| 2019-11-21 | 第12期棋王戦（台湾）リーグ | Xu Yuqi | Xu Haohong | Lose | W+R | 6.5 | 2612 | -17 | 
+| 2019-11-18 | 第12期棋王戦（台湾）リーグ | Chen Qirui | Xu Yuqi | Lose | B+R | 6.5 | 2629 | -2 | 
+| 2019-11-14 | 第12期棋王戦（台湾）リーグ | Xu Yuqi | Wang Yuanjun | Lose | W+6.5 | 6.5 | 2631 | 17 | 
+| 2019-10-17 | 第12期棋王戦（台湾）リーグ | Jian Jingting | Xu Yuqi | Lose | B+R | 6.5 | 2614 | -4 | 
+| 2019-10-03 | 第12期棋王戦（台湾）予選勝部決勝 | Xu Yuqi | Chen Xi | Win | B+R | 6.5 | 2618 | 31 | 
+| 2019-09-23 | 第12期棋王戦（台湾）予選勝部2回戦 | Lin Shuyang | Xu Yuqi | Win | W+3.5 | 6.5 | 2587 | 42 | 
+| 2019-09-19 | 第12期棋王戦（台湾）予選勝部1回戦 |  | Xu Yuqi | Win | W+R | 6.5 | 2545 | 44 | 
+| 2019-09-05 | 第12期棋王戦（台湾）資格戦敗部1回戦 |  | Xu Yuqi | Win | W+1.5 | 6.5 | 2501 | 26 | 
+| 2019-09-03 | 第15期国手戦（台湾）1回戦 | Xu Yuqi | Chen Shiyuan | Lose | W+R | 6.5 | 2475 | -7 | 
+| 2019-09-02 | 第12期棋王戦（台湾）資格戦勝部1回戦 |  | Xu Yuqi | Lose | B+R | 6.5 | 2482 | -48 | 
+| 2019-09-01 | 第7期中環碁聖戦1回戦 | Yang Bowei | Xu Yuqi | Lose | B+R | 6.5 | 2530 | -166 | 
+| 2019-04-10 | 第9期友士杯十段戦予選敗部2回戦 |  | Xu Yuqi | Lose | B+R | 6.5 | 2696 | -17 | 
+| 2019-04-08 | 第9期友士杯十段戦予選勝部準決勝 | Zhou Yinnan | Xu Yuqi | Lose | B+R | 6.5 | 2713 | -25 | 
+| 2019-03-05 | 第18期天元戦（台湾）敗部3回戦 | Xu Yuqi | Li Wei | Lose | W+2.5 | 6.5 | 2738 | -24 | 
+| 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 | Xu Yuqi |  | Lose | W+R | 6.5 | 2762 | 6 | 
+| 2019-02-26 | 第18期天元戦（台湾）敗部2回戦 | Lin Shuyang | Xu Yuqi | Win | W+R | 6.5 | 2756 | -17 | 
+| 2019-02-19 | 第18期天元戦（台湾）敗部1回戦 | Xu Yuqi | Zhang Zhehao | Win | B+5.5 | 6.5 | 2773 | 9 | 
+| 2019-02-12 | 第18期天元戦（台湾）勝部1回戦 | Lai Junfu | Xu Yuqi | Lose | B+R | 6.5 | 2764 | -10 | 
+| 2018-11-30 | 2018年新人王戦（台湾）リーグA | Cai Chengwei | Xu Yuqi | Win | W+R | 7.5 | 2774 | 5 | 
+| 2018-11-28 | 2018年新人王戦（台湾）リーグA |  | Xu Yuqi | Win | W+R | 7.5 | 2769 | 0 | 
+| 2018-11-28 | 2018年新人王戦（台湾）リーグA | Jian Jingting | Xu Yuqi | Win | W+R | 7.5 | 2769 | 39 | 
+| 2018-11-23 | 2018年新人王戦（台湾）リーグA | Xu Yuqi | Lai Junfu | Lose | W+2¼ | 7.5 | 2730 | 0 | 
+| 2018-11-23 | 2018年新人王戦（台湾）リーグA | Xu Yuqi | Lu Yiquan | Win | B+R | 7.5 | 2730 | 0 | 
+| 2018-11-22 | 2018年新人王戦（台湾）リーグA | Huang Shiyuan | Xu Yuqi | Win | W+R | 7.5 | 2730 | 0 | 
+| 2018-11-22 | 2018年新人王戦（台湾）リーグA | Xu Yuqi |  | Lose | W+¼ | 7.5 | 2730 | -5 | 
+| 2018-10-24 | 第1回IWMC台湾代表男子選抜戦予選2回戦 | Xiao Zhenghao | Xu Yuqi | Lose | B+1¾ | 7.5 | 2735 | 0 | 
+| 2018-10-24 | 第1回IWMC台湾代表男子選抜戦予選1回戦 | Jian Jingting | Xu Yuqi | Win | W+¼ | 7.5 | 2735 | 18 | 
+| 2018-10-09 | 第14期国手戦（台湾）16強戦 | Lin Junyan | Xu Yuqi | Lose | B+R | 6.5 | 2717 | -10 | 
+| 2018-10-02 | 第14期国手戦（台湾）2回戦 | Xu Yuqi | Zhou Pingqiang | Win | B+R | 6.5 | 2727 | -10 | 
+| 2018-10-01 | 第11期棋王戦（台湾）予選敗部3回戦 | Xiao Zhenghao | Xu Yuqi | Lose | B+R | 6.5 | 2737 | -16 | 
+| 2018-09-27 | 第11期棋王戦（台湾）予選勝部準決勝 | Chen Qirui | Xu Yuqi | Lose | B+R | 6.5 | 2753 | -27 | 
+| 2018-09-20 | 第11期棋王戦（台湾）予選勝部2回戦 | Zhang Zhehao | Xu Yuqi | Win | W+R | 6.5 | 2780 | -2 | 
+| 2018-09-18 | 第14期国手戦（台湾）1回戦上半区 |  | Xu Yuqi | Lose | w+r | 6.5 | 2782 | 2 | 
+| 2018-09-17 | 第11期棋王戦（台湾）予選勝部1回戦 | Wei Haoting | Xu Yuqi | Win | W+4.5 | 6.5 | 2780 | 7 | 
+| 2018-09-16 | 第6期中環碁聖戦2回戦 | Lin Yuxiang | Xu Yuqi | Lose | B+9.5 | 6.5 | 2773 | -27 | 
+| 2018-09-02 | 第6期中環碁聖戦1回戦上半区 | Zhou Pingqiang | Xu Yuqi | Lose | w+4.5 | 6.5 | 2800 | 100 | 
+| 2018-05-24 | 第8期友士杯十段戦敗者復活戦1回戦 | Chen Xi | Xu Yuqi | Lose | B+R | 6.5 | 2700 | -45 | 
+| 2018-05-21 | 第8期友士杯十段戦1回戦 | Xu Yuqi | Xiao Zhenghao | Lose | W+2.5 | 6.5 | 2745 | -4 | 
+| 2018-05-14 | 第8期友士杯十段戦予選 | Xu Yuqi | Zhou Yinnan | Win | B+R | 6.5 | 2749 | 0 | 
+| 2018-05-14 | 第8期友士杯十段戦予選 | Lin Shimin | Xu Yuqi | Win | W+R | 6.5 | 2749 | 34 | 
+| 2018-05-07 | 第8期友士杯十段戦予選 | Gao Yun | Xu Yuqi | Lose | B+0.5 | 6.5 | 2715 | -73 | 
+| 2018-05-04 | 第十七回天元戦リーグ第七節 | Xu Yuqi | Jian Jingting | Lose | W+R | 6.5 | 2788 | 36 | 
+| 2018-05-01 | 第十七回天元戦リーグ第六節 | Xu Yuqi | Lin Zhihan | Win | B+R | 6.5 | 2752 | 21 | 
+| 2018-04-27 | 第十七回天元戦リーグ第五節 | Xu Yuqi | Yang Bowei | Lose | W+R | 6.5 | 2731 | 0 | 
+| 2018-04-20 | 第十七回天元戦リーグ第三節 | Lin Lixiang | Xu Yuqi | Lose | w+1.5 | 6.5 | 2731 | 33 | 
+| 2018-04-17 | 第十七回天元戦リーグ第二節 | Xiao Zhenghao | Xu Yuqi | Lose | w+r | 6.5 | 2698 | 66 | 
+| 2018-04-13 | 第十七回天元戦リーグ第一節 | Xu Yuqi | Lin Junyan | Lose | W+R | 6.5 | 2632 | -113 | 
+| 2018-03-12 | 第十七回天元戦複戦勝部第三回戦 補戦 | Chen Shiyuan | Xu Yuqi | Win | W+R | 6.5 | 2745 | 63 | 
+| 2018-03-08 | 第10回海峰杯プロ囲碁戦32強戦 | Xu Yuqi | Chen Xi | Lose | W+0.5 | 6.5 | 2682 | -58 | 
+| 2018-03-06 | 第十七回天元戦複戦勝部第二回戦 | Lin Shuyang | Xu Yuqi | Win | W+R | 6.5 | 2740 | 88 | 
+| 2018-03-01 | 第10回海峰杯プロ囲碁戦64強戦 | Dang Xiyun | Xu Yuqi | Win | W+R | 6.5 | 2652 | -3 | 
+| 2018-02-27 | 第十七回天元戦複戦勝部第一回戦 | Xu Yuqi | Lin Ziyuan | Win | B+R | 6.5 | 2655 | -18 | 
+| 2018-02-06 | 第12回春蘭杯台湾予選 | Li Wei | Xu Yuqi | Lose | B+R | 7.5 | 2673 | 0 | 
+| 2018-02-06 | 第12回春蘭杯台湾予選 | Xu Yuqi | Dong Yutang | Win | B+R | 7.5 | 2673 | -8 | 
+| 2018-01-26 | 第23回LG杯台湾代表選抜戦予選第三局 | Xu Yuqi | Lin Lixiang | Lose | W+1.5 | 6.5 | 2681 | -13 | 
+| 2018-01-25 | 第23回LG杯台湾代表選抜戦予選第二局 | Lin Tingyi | Xu Yuqi | Win | W+2.5 | 6.5 | 2694 | 0 | 
+| 2018-01-25 | 第23回LG杯台湾代表選抜戦予選第一局 |  | Xu Yuqi | Lose | w+r | 6.5 | 2694 | 48 | 
+| 2017-12-12 | 2017年関西棋院VS台湾棋院交流戦第1戦 | Watanabe Yuu | Xu Yuqi | Win | W+F | 6.5 | 2646 | 69 | 
+| 2017-11-23 | 第3期未来の星新鋭最強戦台湾予選 | Jian Jingting | Xu Yuqi | Lose | B+R | 6.5 | 2577 | -20 | 
+| 2017-09-12 | 第13期国手戦（台湾）首輪下半区 |  | Xu Yuqi | Lose | B+R | 6.5 | 2597 | 29 | 
+| 2017-05-05 | 第十六期天元戦リーグ戦第七局 | Xu Yuqi | Chen Shiyuan | Win | B+4.5 | 6.5 | 2568 | 40 | 
+| 2017-05-02 | 第十六期天元戦リーグ戦第六局 | Cai Chengwei | Xu Yuqi | Lose | B+4.5 | 6.5 | 2528 | -30 | 
+| 2017-04-28 | 第十六期天元戦リーグ戦第五局 | Lai Junfu | Xu Yuqi | Win | W+R | 6.5 | 2558 | 51 | 
+| 2017-04-25 | 第十六期天元戦リーグ戦第四局 | Xu Yuqi | Lin Shixun | Lose | W+1.5 | 6.5 | 2507 | -2 | 
+| 2017-04-21 | 第十六期天元戦リーグ戦第三局 | Xu Yuqi | Xiao Zhenghao | Lose | W+R | 6.5 | 2509 | 21 | 
+| 2017-04-18 | 第十六期天元戦リーグ戦第二局 | Xu Yuqi | Lin Junyan | Lose | W+R | 6.5 | 2488 | -21 | 
+| 2017-04-14 | 第十六期天元戦リーグ戦第一局 | Xu Yuqi | Lin Lixiang | Lose | W+1.5 | 6.5 | 2509 | 126 | 
+| 2017-03-13 | 第9回海峰杯プロ囲碁戦32強戦 | Xu Yuqi | Lin Shixun | Lose | W+0.5 | 6.5 | 2383 | -22 | 
+| 2017-03-09 | 第9回海峰杯プロ囲碁戦64強戦 | Xu Yuqi | Dang Xiyun | Win | B+R | 6.5 | 2405 | -19 | 
+| 2017-03-02 | 第十四期倡棋盃台湾代表選抜戦初戦第三局 | Cai Chengwei | Xu Yuqi | Lose | B+3點 | 7.5 | 2424 | -30 | 
+| 2017-02-21 | 第十六期天元戦複戦勝部第三回戦 | Xu Yuqi | Yang Bowei | Win | B+R | 6.5 | 2454 | 54 | 
+| 2017-02-19 | 第十四期倡棋盃台湾代表選抜戦初戦第二局 | Lin Shimin | Xu Yuqi | Win | W+3點 | 7.5 | 2400 | 0 | 
+| 2017-02-19 | 第十四期倡棋盃台湾代表選抜戦初戦第一局 | Xu Yuqi | Huang Shiyuan | Win | B+1點 | 7.5 | 2400 | 28 | 
+| 2017-02-14 | 第十六期天元戦複戦勝部第二回戦 | Lin Xiuping | Xu Yuqi | Win | W+5.5 | 6.5 | 2372 | 69 | 
+| 2017-02-10 | 第22期LG盃台湾代表選抜戦初戦第二局 | Xu Yuqi | Lu Yiquan | Lose | b+0.5 | 6.5 | 2303 | 0 | 
+| 2017-02-10 | 第22期LG盃台湾代表選抜戦初戦第一局 |  | Xu Yuqi | Lose | w+r | 6.5 | 2303 | -42 | 
+| 2017-01-17 | 第十六期天元戦初戦第三回戦 | Xu Yuqi | Zhou Junxun | Win | B+R | 6.5 | 2345 | 95 | 
+| 2017-01-03 | 第十六期天元戦初戦第一回戦 | Xu Yuqi | Huang Shiyuan | Lose | b+r | 6.5 | 2250 | -24 | 
+| 2016-11-26 | 第2期未来の星新鋭最強戦台湾予選 | Jian Jingting | Xu Yuqi | Lose | B+2.5 | 6.5 | 2274 | 0 | 
+| 2016-11-26 | 第2期未来の星新鋭最強戦台湾予選 | Xu Yuqi | Lu Yiquan | Lose | b+r | 6.5 | 2274 | -260 | 
+| 2016-06-01 | 第6期友士杯十段戦予選 | Chen Feng | Xu Yuqi | Lose | B+R | 6.5 | 2534 | -73 | 
+| 2016-05-30 | 第6期友士杯十段戦予選 | Huang Shiyuan | Xu Yuqi | Win | W+R | 6.5 | 2607 | 236 | 
+| 2016-05-20 | 第6期友士杯十段戦予選 |  | Xu Yuqi | Win | W+R | 6.5 | 2371 | 0 | 
+| 2016-05-20 | 第6期友士杯十段戦予選 | Xu Yuqi | Liu Yaowen | Win | B+0.5 | 6.5 | 2371 | 26 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Huang Daolong | Xu Yuqi | Win | W+2.5 | 6.5 | 2345 | 0 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Chen Feng | Xu Yuqi | Lose | B+0.5 | 6.5 | 2345 | 2888 | 
+| 2016-03-21 | 第8回海峰杯プロ囲碁戦32強戦 | Wang Yuanjun | Xu Yuqi | Lose | B+3.5 | 6.5 | -543 | -543 | 
+| 2016-03-07 | 第8回海峰杯プロ囲碁戦64強戦 | Yu Lijun | Xu Yuqi | Win | W+R | 6.5 | missing | 0 | 
+| 2015-03-05 | 第7回海峰杯プロ囲碁戦64強戦 | Xu Yuqi | Xu Haohong | Lose | W+R | 6.5 | missing | 0 | 
+| 2014-03-03 | 第6回海峰杯プロ囲碁戦64強戦 | Xu Yuqi | Chen Shiyuan | Lose | W+0.5 | 6.5 | missing | 0 | 
+| 2014-01-17 | 2014年日台精鋭交流戦第5戦 | Chang Rueijie | Xu Yuqi | Lose | B+4.5 | 6.5 | missing | missing |
 
 
 

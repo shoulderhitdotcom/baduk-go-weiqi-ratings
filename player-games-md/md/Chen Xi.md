@@ -5,144 +5,146 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第2期聯電杯プロ囲碁戦予選 | missing | Chen Xi | W+R | 2021-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iOBIck%2FtbRCWejvyVXQYEw%3D%3D) | 
-| 第11期友士杯十段戦敗部1回戦 | Chen Qirui | Chen Xi | B+R | 2021-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gf92yuAxI6T12xirIGXHjw%3D%3D) | 
-| 第11期友士杯十段戦勝部1回戦 | Chen Xi | Chen Shiyuan | W+4.5 | 2021-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hwIKAPbmbiS3iniGhkdaLQ%3D%3D) | 
-| 第11期友士杯十段戦予選 | missing | Chen Xi | W+0.5 | 2021-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Ako4HpJgTczzL5qS66YDw%3D%3D) | 
-| 第11期友士杯十段戦予選 | Chen Xi | Lin Shuyang | B+R | 2021-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QnIqR0UatWEKzZlxrzd1EA%3D%3D) | 
-| 第11期友士杯十段戦予選 | Chen Xi | Jian Jingting | W+R | 2021-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5WcvMbCV5O%2F8POL5RLSiCw%3D%3D) | 
-| 第11期友士杯十段戦予選 | Ding Shaojie | Chen Xi | W+R | 2021-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ex%2BfYkpwBHYiOJcboUtgQg%3D%3D) | 
-| 第11期友士杯十段戦予選 | missing | Chen Xi | W+R | 2021-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WosIyiNNeRwmIhXtyex9dQ%3D%3D) | 
-| 第17期国手戦（台湾） | Chen Xi | missing | W+R | 2021-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qZC84tZxbBYDM0FQAwqq2w%3D%3D) | 
-| 第2期名人冠軍戦3回戦 | Xu Jingen | Chen Xi | B+R | 2021-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2octF3RhtSTPvwPSxmMoBQ%3D%3D) | 
-| 第2期名人冠軍戦2回戦 | Liu Yaowen | Chen Xi | W+R | 2021-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6F3n9%2BMH3zuMUpnAQ%2F0g6w%3D%3D) | 
-| 第2期名人冠軍戦1回戦 | Chen Xi | missing | B+R | 2021-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fajQ7Mq6Of1%2B%2FbDeG8JFsA%3D%3D) | 
-| 第2期名人冠軍戦予選 | Chen Xi | missing | B+R | 2021-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ElILdje9b0Cc%2BRma0z5YwA%3D%3D) | 
-| 第2期名人冠軍戦予選 | Chen Xi | Zhou Pingqiang | B+R | 2021-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6BhfHqZb%2BtljmfxdOFrpNA%3D%3D) | 
-| 第20期天元戦（台湾）敗部4回戦 | Jian Jingting | Chen Xi | B+R | 2021-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QNLAegImXrHXdr%2FwN%2FbvEw%3D%3D) | 
-| 第20期天元戦（台湾）勝部3回戦 | Xiao Zhenghao | Chen Xi | B+R | 2021-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6sUVnNYXYwKkKhx13BjD%2BA%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦4回戦 | Chen Xi | Jian Jingting | W+R | 2021-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zsXgukUcDwmiIhx4Mpgbkw%3D%3D) | 
-| 第20期天元戦（台湾）勝部2回戦 | Chen Shiyuan | Chen Xi | W+R | 2021-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1ie7J0Cyn88y0Gv10wprXQ%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦3回戦 | Chen Xi | Lin Junyan | B+R | 2021-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GNE%2BzbzEI65hzmdgA1OSgg%3D%3D) | 
-| 第20期天元戦（台湾）勝部1回戦 | Chen Xi | missing | B+R | 2021-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VWbk53sqEKZYYpqAGSDFgg%3D%3D) | 
-| 第20期天元戦（台湾）予選 | missing | Chen Xi | W+R | 2021-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XrJAA6hqGKRbl%2BTTbmUECg%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦2回戦 | Chen Xi | Lin Shuyang | B+R | 2021-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yi%2BLItDQpN4CFNlFZG3l%2Bw%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦1回戦 | Chen Xi | missing | B+R | 2021-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5qzTN0QjSYZBNDBxOQ9l9A%3D%3D) | 
-| 第20期天元戦（台湾）予選 | Chen Xi | missing | B+R | 2021-01-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a2aaJGw27zKEwyT6yt3auw%3D%3D) | 
-| 第8期中環碁聖戦準々決勝 | Jian Jingting | Chen Xi | B+R | 2020-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HvV0jZWgbr%2B78Qrr1U5bmg%3D%3D) | 
-| 第8期中環碁聖戦4回戦 | Chen Xi | Lin Lixiang | B+R | 2020-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gs3vjOtN6nIUpQPEyo7Alg%3D%3D) | 
-| 第1回UMC聯電杯早碁争覇戦1回戦 | Chen Xi | Liu Yaowen | W+0.5 | 2020-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GboyYSXzMNSNAZvHkwMcwg%3D%3D) | 
-| 第16期国手戦（台湾）3回戦 | Chen Xi | missing | W+R | 2020-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qUwjhsZyrrZAOqFosTQl5A%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Yang Bowei | Chen Xi | B+R | 2020-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wvtPmVEp3oGC3Wd9duIxYw%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Chen Xi | Xu Jingen | W+R | 2020-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hFA8pQDjJZQuZgWqRXVk4A%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Lu Yiquan | Chen Xi | W+R | 2020-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=db1CAgyZQ6U3PZbk0GFXAQ%3D%3D) | 
-| 第16期国手戦（台湾）2回戦 | Xiao Ailin | Chen Xi | W+R | 2020-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zs8wj5sAAaHg4hKjRY7gGg%3D%3D) | 
-| 第8期中環碁聖戦3回戦 | missing | Chen Xi | W+R | 2020-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W3%2BZUzMtAft5cztqbe0tuw%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Lu Yiquan | Chen Xi | W+R | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GtNajYWSOAsrX0Xf51SX5g%3D%3D) | 
-| 第16期国手戦（台湾）1回戦 | Chen Xi | missing | B+R | 2020-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vRKypNa%2B2qDm37FzBD0ilw%3D%3D) | 
-| 第8期中環碁聖戦1回戦 | missing | Chen Xi | W+R | 2020-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IzZv8NYHyXAcv6d5a6WDNg%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Chen Xi | Chen Yida | B+4.5 | 2020-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xcki5bytQ45EHi1tcOeXnQ%3D%3D) | 
-| 第25回三星火災杯台湾代表選抜戦 | missing | Chen Xi | B+5.5 | 2020-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cds%2BIbqFdBGjT2NCKvvogQ%3D%3D) | 
-| 第25回三星火災杯台湾代表選抜戦 | Chen Xi | missing | B+R | 2020-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UZeXKQwB7oAphb3vLFHI7A%3D%3D) | 
-| 第1期名人冠軍戦3回戦 | Xu Haohong | Chen Xi | B+R | 2020-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GgwOj5uOjp2aZOVMUbwFww%3D%3D) | 
-| 第1期名人冠軍戦2回戦 | Xu Jingen | Chen Xi | W+R | 2020-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YPhHhUAHg0%2FFgstcfmUNsQ%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦予選 | Chen Xi | Chen Qirui | W+R | 2020-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MKXltW%2FVrLj3MDrTL4xpCA%3D%3D) | 
-| 第10期友士杯十段戦予選敗部3回戦 | Chen Xi | Lin Ziyuan | W+R | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DnDP%2BkBYwIPmnFYYPXN9RQ%3D%3D) | 
-| 第5回百霊杯台湾代表選抜戦 | Chen Xi | Lin Lixiang | W+R | 2020-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z1jk7obylnCTWupN0DOfqw%3D%3D) | 
-| 第5回百霊杯台湾代表選抜戦 | Xu Jingen | Chen Xi | W+R | 2020-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NgCHmcvUUp9KGMbTsyoesg%3D%3D) | 
-| 第10期友士杯十段戦予選勝部2回戦 | missing | Chen Xi | B+R | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wf8fYXtic2MmPWAO6kHbyQ%3D%3D) | 
-| 第10期友士杯十段戦予選勝部1回戦 | Chen Xi | missing | B+1.5 | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m5JTkkBpmIgO8D2E6BsQ7Q%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦16強戦 | Chen Xi | Lin Lixiang | W+R | 2020-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XKRclzchFwe4R3CS9%2F8Ohg%3D%3D) | 
-| 第19期天元戦（台湾）敗部2回戦 | Chen Xi | Li Wei | W+R | 2020-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tLbq6ZVF%2BCo5HuYejLREnw%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦32強戦 | Chen Xi | Yang Bowei | B+5.5 | 2020-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y8l1t%2BgOJPh6h2WGsDl21g%3D%3D) | 
-| 第25回LG杯台湾代表選抜戦 | Chen Xi | Xu Jingen | W+R | 2020-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y3g%2F5Na3iXqgUWV2vi9Fow%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦64強戦 | Chen Xi | Su Shengfang | B+R | 2020-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y%2F4op1Q8l1jGONU0y%2By9Hw%3D%3D) | 
-| 第25回LG杯台湾代表選抜戦 | Chen Xi | missing | B+R | 2020-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W59Fqfr%2FNMvKSTZUTsrI%2BQ%3D%3D) | 
-| 第25回LG杯台湾代表選抜戦 | Chen Xi | missing | B+R | 2020-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e3Wc6la3n1Em8noTGuUQvA%3D%3D) | 
-| 第19期天元戦（台湾）敗部1回戦 | Lin Lixiang | Chen Xi | W+R | 2020-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N65DkQT%2FntS8eAi3EkMK4g%3D%3D) | 
-| 第1期名人冠軍戦予選敗部決勝 | missing | Chen Xi | W+R | 2020-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xRvdOEvHKk6A%2FqZXMPmGpg%3D%3D) | 
-| 第1期名人冠軍戦予選敗部1回戦 | Chen Xi | missing | B+R | 2020-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bvsrh68xhZ3izXbpnqMLzg%3D%3D) | 
-| 第19期天元戦（台湾）勝部1回戦 | Chen Xi | Lin Yuxiang | W+R | 2020-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T6O0Q%2FuIO8YXWXVaTSQqfw%3D%3D) | 
-| 第1期名人冠軍戦予選勝部1回戦 | missing | Chen Xi | B+R | 2020-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AzHFYiz5RJpMmFgmyE4SjQ%3D%3D) | 
-| 第19期天元戦（台湾）予選 | Huang Shiyuan | Chen Xi | W+2.5 | 2020-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2p0t16OjeopKHCw%2Bn0nl9Q%3D%3D) | 
-| 第19期天元戦（台湾）予選 | missing | Chen Xi | W+R | 2020-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lJ90TzphozOPD%2F4UuIzdeg%3D%3D) | 
-| 第19期天元戦（台湾）予選 | Liu Yaowen | Chen Xi | W+R | 2020-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y5zpTS%2F%2BJqxO0f4kwGl%2FVw%3D%3D) | 
-| 第9回応氏杯世界選手権台湾代表選抜戦 | Lin Shixun | Chen Xi | B+R | 2020-01-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Z4CUyZ0aYBrKJrJ7gUwNw%3D%3D) | 
-| 第13回春蘭杯台湾予選 | Chen Xi | Lin Junyan | W+R | 2019-12-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NzgkCWGKyMdDkRWE2esCKQ%3D%3D) | 
-| 第13回春蘭杯台湾予選 | missing | Chen Xi | W+R | 2019-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9JygaGN3dcVo6A2Dw5G8JA%3D%3D) | 
-| 第13回春蘭杯台湾予選 | missing | Chen Xi | W+R | 2019-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wrIvjJHGJW%2FmHs2zubaSZA%3D%3D) | 
-| 2019年関西棋院VS台湾棋院交流戦第1戦 | Chen Xi | Shintani Yousuke | B+R | 2019-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZOMJwsnxflldC%2BaBr8RXAg%3D%3D) | 
-| 第12期棋王戦（台湾）予選敗部準決勝 | Liu Yaowen | Chen Xi | B+R | 2019-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eVgcFVyVkCCMp%2B%2B2K3UC0A%3D%3D) | 
-| 第12期棋王戦（台湾）予選勝部決勝 | Xu Yuqi | Chen Xi | B+R | 2019-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mtKLQayVjmmfoUrj20yglQ%3D%3D) | 
-| 第7期中環碁聖戦3回戦 | Chen Xi | Cai Chengwei | B+R | 2019-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Eno5j4ByanI%2BKScAs%2Fh2jw%3D%3D) | 
-| 第12期棋王戦（台湾）予選勝部準決勝 | Chen Xi | Lai Junfu | B+R | 2019-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7mA3%2BZQwvWovv3kQTgvurQ%3D%3D) | 
-| 第15期国手戦（台湾）2回戦 | Lin Jiehan | Chen Xi | B+R | 2019-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UVzGs3CEKuNqUlCHrI%2FosA%3D%3D) | 
-| 第12期棋王戦（台湾）予選勝部2回戦 | Chen Xi | Xu Jingen | B+R | 2019-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LWuXWIhUIu4wZPNilj90KQ%3D%3D) | 
-| 第12期棋王戦（台湾）予選勝部1回戦 | missing | Chen Xi | W+R | 2019-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vb9uPxLZO1TtGZomJYHj8g%3D%3D) | 
-| 第7期中環碁聖戦2回戦 | Yu Lijun | Chen Xi | W+R | 2019-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=diauoxVyxWWRriJyhyFyAw%3D%3D) | 
-| 第7期中環碁聖戦1回戦 | Chen Xi | Lin Junyan | B+R | 2019-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qnfKv1l3Dd5v9%2FZpOCYtog%3D%3D) | 
-| 第12期棋王戦（台湾）資格戦勝部決勝 | Zhang Kaixin | Chen Xi | W+R | 2019-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4%2BOALVYHzNF5WgptPAoBow%3D%3D) | 
-| 第15期国手戦（台湾）1回戦 | Dai Jiashen | Chen Xi | W+R | 2019-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DZDpj%2FXJ2u3PkFWrSVET2A%3D%3D) | 
-| 第12期棋王戦（台湾）資格戦勝部1回戦 | Cai Chengwei | Chen Xi | B+R | 2019-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tBamDtanFNXkw%2B0GXN0W7Q%3D%3D) | 
-| 第9期友士杯十段戦予選 | Chen Xi | missing | W+3.5 | 2019-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MPdEfUaAf1Na0pbbNTRCng%3D%3D) | 
-| 第9期友士杯十段戦予選敗部準決勝 | Chen Xi | Lu Yiquan | B+R | 2019-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I1d5xRSKKC%2B%2FG25FClqNiA%3D%3D) | 
-| 第9期友士杯十段戦予選勝部決勝 | Chen Qirui | Chen Xi | B+R | 2019-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IJ1Mre7hPqq3yE4Q1ay1FA%3D%3D) | 
-| 第9期友士杯十段戦予選勝部準決勝 | Lu Yiquan | Chen Xi | W+2.5 | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rruToVy%2BcLsQwilD6Ds%2Buw%3D%3D) | 
-| 第9期友士杯十段戦予選勝部1回戦 | Ding Shaojie | Chen Xi | W+R | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TpzlHFkMcXrvlmIybds4Lw%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦32強戦 | Chen Xi | Lin Lixiang | W+R | 2019-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oGLf4cX2hKSbYuCAOD%2FfLw%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦64強戦 | missing | Chen Xi | W+R | 2019-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vkrcWeRIoxq3gnbY%2Fsn%2BNg%3D%3D) | 
-| 第18期天元戦（台湾）予選3回戦 | Lai Junfu | Chen Xi | B+R | 2019-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ihswTzWCO6RGNhHiUUgK6Q%3D%3D) | 
-| 第18期天元戦（台湾）予選1回戦 | Chen Xi | missing | B+R | 2019-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NfPlC%2Fno4vUiA4UJJ25PaA%3D%3D) | 
-| 第8期友士杯十段戦敗者復活戦2回戦 | Chen Xi | Xu Haohong | W+R | 2018-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XuUN71BH%2FC0Sv6a2R0lZbQ%3D%3D) | 
-| 第8期友士杯十段戦敗者復活戦1回戦 | Chen Xi | Xu Yuqi | B+R | 2018-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cUi1mE9cFLGZ4lVHI7aoEw%3D%3D) | 
-| 第8期友士杯十段戦1回戦 | Chen Xi | Li Wei | W+R | 2018-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BnL%2BL5vnKLfLsjTyXDJ5mQ%3D%3D) | 
-| 第8期友士杯十段戦予選 | Chen Xi | Zhang Zhehao | B+R | 2018-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0spHP4FJxR%2Bye4yQHd3JGQ%3D%3D) | 
-| 第8期友士杯十段戦予選 | Zhou Keping | Chen Xi | W+2.5 | 2018-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xxCGdZgsEiPnJx6teXcrrg%3D%3D) | 
-| 第8期友士杯十段戦予選 | Lai Junfu | Chen Xi | B+R | 2018-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4ZSSfdp9t5j0MtStNvsj5w%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦16強戦 | Chen Shiyuan | Chen Xi | B+R | 2018-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zp0VCFoaBXJQ21SRGyE%2FwA%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦32強戦 | Xu Yuqi | Chen Xi | W+0.5 | 2018-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=djgbxd05FDEjwV9eiqGBdQ%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦64強戦 | Xiao Ailin | Chen Xi | W+R | 2018-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qjGQmq7EbGwzFzqnz%2BqkSQ%3D%3D) | 
-| 第13期国手戦（台湾）16強戦 | Chen Xi | Lin Junyan | W+R | 2017-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=guwNAJaA8P7aeFwJd75Ujw%3D%3D) | 
-| 第13期国手戦（台湾）第二回戦 | Chen Feng | Chen Xi | W+R | 2017-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VV%2FqnYMSPH2FLBsIwhXbJA%3D%3D) | 
-| 第5期中環碁聖戦第二回戦 | Chen Xi | Liu Yaowen | B+3.5 | 2017-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GmyBq2tyBbZixJAQ2k0pjA%3D%3D) | 
-| 第5期中環碁聖戦首輪下半区 | Chen Xi | Dai Jiashen | B+R | 2017-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uMcMj2DcOxZT2%2FIuLWs%2B0w%3D%3D) | 
-| 第13期国手戦（台湾）首輪上半区 | missing | Chen Xi | W+7.5 | 2017-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BGHqLphXCziRk%2BZe3bSR3A%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦16強戦 | Wang Yuanjun | Chen Xi | B+R | 2017-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OCD9Mu9xjp8jxMcIA8lHOg%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦32強戦 | Lin Xiuping | Chen Xi | W+5.5 | 2017-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ARhgbWTVST3ZNVQ2xaq%2BkA%3D%3D) | 
-| 第十六期天元戦複戦敗部第三回戦 | Lai Junfu | Chen Xi | B+0.5 | 2017-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ICQQmp9YDZ4VYRHUnyzapg%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦64強戦 | Xiao Ailin | Chen Xi | W+R | 2017-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zHM3DuDSrVesttVOnqhQBw%3D%3D) | 
-| 第十六期天元戦複戦敗部第二回戦補戦 | Lin Xiuping | Chen Xi | W+R | 2017-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nQHM3k3XpHoFHbK99xFRxA%3D%3D) | 
-| 第十六期天元戦複戦敗部第一回戦 | Chen Xi | Chen  Qingyu | B+R | 2017-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ce8VjepPmw1p4NPJzCaNIQ%3D%3D) | 
-| 第十六期天元戦複戦第一回戦 | Chen Xi | Yang Bowei | W+R | 2017-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fr%2BpYXowu8i7QkPxRhzGvw%3D%3D) | 
-| 第十六期天元戦初戦第三回戦 | Chen Xi | Lin Yuxiang | B+5.5 | 2017-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wAgDFRtsNCMJFfMxbDLcNQ%3D%3D) | 
-| 第十六期天元戦初戦第二回戦 | Chen Xi | missing | B+R | 2017-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o7%2FbQZjox7%2FWEDAwv%2F51Hg%3D%3D) | 
-| 第6期友士杯十段戦敗者復活戦2回戦 | Xu Haohong | Chen Xi | B+R | 2016-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xBoYUMCR5Bp%2FAmss0VqTUw%3D%3D) | 
-| 第6期友士杯十段戦2回戦 | Chen Qirui | Chen Xi | B+R | 2016-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oxVbR5JgN2w6anC4hMVMBA%3D%3D) | 
-| 第6期友士杯十段戦1回戦 | Chen Xi | Zhang Kaixin | B+R | 2016-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RF52WBYymkCfNxLS4Ufhlw%3D%3D) | 
-| 第6期友士杯十段戦予選 | Cai Chengwei | Chen Xi | W+R | 2016-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mu9VBOz261%2F3g9P9RX9W2g%3D%3D) | 
-| 第6期友士杯十段戦予選 | Chen Xi | missing | B+7.5 | 2016-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9ajFXTmxHeQc67iQXUaT%2Bw%3D%3D) | 
-| 第6期友士杯十段戦予選 | Chen Qirui | Chen Xi | B+R | 2016-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Em8PLWRBnEJDK9C6sECY%2FQ%3D%3D) | 
-| 第6期友士杯十段戦予選 | Zhou Keping | Chen Xi | W+R | 2016-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1pYRK8QBDTAbpF0VYbuCjQ%3D%3D) | 
-| 第6期友士杯十段戦予選 | Chen Xi | Zhou Yinnan | B+R | 2016-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wwz0ELiY9S0r4lJXzWXdLw%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan | Chen Xi | B+R | 2016-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xSD5G%2FyFHeHJc0yKW1GFUw%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦64強戦 | Xia Daming | Chen Xi | W+R | 2016-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LoWXdtfkqTwfbP%2B3ewh1zg%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦32強戦 | Chen Xi | Lin Junyan | W+R | 2015-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7RBdEXgjgtfGm8TXzcAHKA%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦64強戦 | Chen Xi | Huang Xiangren | B+R | 2015-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SAStDkO%2Fp%2B5u5s9j01Hmqw%3D%3D) | 
-| 第6回海峰杯プロ囲碁戦16強戦 | Xiao Zhenghao | Chen Xi | B+R | 2014-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LBG50nM63hy2tGizYFHhcQ%3D%3D) | 
-| 第6回海峰杯プロ囲碁戦32強戦 | Liu Jianchang | Chen Xi | W+R | 2014-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NkZH7k%2Fva0oja72b55L0EA%3D%3D) | 
-| 第6回海峰杯プロ囲碁戦64強戦 | Lin Yuxiang | Chen Xi | W+R | 2014-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DJ1GL7xzKHu%2FBj6ev5dgMQ%3D%3D) | 
-| 第4回海峰杯プロ囲碁戦64強戦 | Zhou Pingqiang | Chen Xi | B+R | 2012-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AoSQB3sdn5B16A90L4NBng%3D%3D) | 
-| 第5期棋王戦（台湾）予選 | Chen Xi | missing | B+R | 2012-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=23H6gaov6rO3XXPSEMy3Gw%3D%3D) | 
-| 第3回海峰杯プロ囲碁戦32強戦 | Chen Xi | Lin Zhihan | W+R | 2011-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C1F3mBQAGZGGBCYvsJGYNQ%3D%3D) | 
-| 第3回海峰杯プロ囲碁戦64強戦 | Dang Xiyun | Chen Xi | W+R | 2011-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f%2FLER7MUMeMscwtRchasQw%3D%3D) | 
-| 第2回海峰杯プロ囲碁戦32強戦 | Chen Xi | missing | W+R | 2010-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UNmR5RE0Iu0XSovqmyBAIg%3D%3D) | 
-| 第2回海峰杯プロ囲碁戦64強戦 | Chen Xi | missing | B+R | 2010-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iXXTygoDYvb%2Bop4pagg24g%3D%3D) | 
-| 第3期棋王戦（台湾）予選 | Chen Xi | Huang Xiangren | W+R | 2009-12-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s9aOZdFNwrqJjILvkXtoNg%3D%3D) | 
-| 第3期棋王戦（台湾）予選 | Zhang Zhengping | Chen Xi | B+0.5 | 2009-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZeyyFak%2BQhIyrd8kufBd7w%3D%3D) | 
-| 第1回海峰杯プロ囲碁戦64強戦 | Zhang Zhengping | Chen Xi | B+R | 2009-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h8FtGDBTRl3nXvSQ9WmulA%3D%3D) | 
-| 第14期中環杯囲碁オープン戦2回戦 | Chen Xi | Zhang Kaixin | W+R | 2007-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sPiuJ%2Bd3IPytsK%2FVS8pM8g%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Chen Xi | Cai Chengwei | Win | B+R | 6.5 | 2928 | 18 | 
+| 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Lin Shengyi | Chen Xi | Win | W+R | 6.5 | 2910 | -13 | 
+| 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 |  | Chen Xi | Win | W+R | 6.5 | 2923 | 8 | 
+| 2021-05-03 | 第11期友士杯十段戦敗部1回戦 | Chen Qirui | Chen Xi | Lose | B+R | 6.5 | 2915 | -10 | 
+| 2021-04-26 | 第11期友士杯十段戦勝部1回戦 | Chen Xi | Chen Shiyuan | Lose | W+4.5 | 6.5 | 2925 | -10 | 
+| 2021-04-19 | 第11期友士杯十段戦予選 |  | Chen Xi | Win | W+0.5 | 6.5 | 2935 | 0 | 
+| 2021-04-19 | 第11期友士杯十段戦予選 | Chen Xi | Lin Shuyang | Win | B+R | 6.5 | 2935 | -4 | 
+| 2021-04-12 | 第11期友士杯十段戦予選 | Chen Xi | Jian Jingting | Lose | W+R | 6.5 | 2939 | -21 | 
+| 2021-04-01 | 第11期友士杯十段戦予選 | Ding Shaojie | Chen Xi | Win | W+R | 6.5 | 2960 | 0 | 
+| 2021-04-01 | 第11期友士杯十段戦予選 | Liu Chuanting | Chen Xi | Win | W+R | 6.5 | 2960 | -93 | 
+| 2021-03-19 | 第17期国手戦（台湾） | Chen Xi | Liu Chuanting | Lose | W+R | 6.5 | 3053 | -25 | 
+| 2021-03-15 | 第2期名人冠軍戦3回戦 | Xu Jingen | Chen Xi | Lose | B+R | 6.5 | 3078 | 27 | 
+| 2021-03-11 | 第2期名人冠軍戦2回戦 | Liu Yaowen | Chen Xi | Win | W+R | 6.5 | 3051 | 8 | 
+| 2021-03-08 | 第2期名人冠軍戦1回戦 | Chen Xi |  | Win | B+R | 6.5 | 3043 | 10 | 
+| 2021-02-25 | 第2期名人冠軍戦予選 | Chen Xi |  | Win | B+R | 6.5 | 3033 | -16 | 
+| 2021-02-22 | 第2期名人冠軍戦予選 | Chen Xi | Zhou Pingqiang | Win | B+R | 6.5 | 3049 | -46 | 
+| 2021-02-02 | 第20期天元戦（台湾）敗部4回戦 | Jian Jingting | Chen Xi | Lose | B+R | 6.5 | 3095 | -7 | 
+| 2021-01-26 | 第20期天元戦（台湾）勝部3回戦 | Xiao Zhenghao | Chen Xi | Lose | B+R | 6.5 | 3102 | -8 | 
+| 2021-01-25 | 第13回海峰杯プロ囲碁戦4回戦 | Chen Xi | Jian Jingting | Lose | W+R | 6.5 | 3110 | -2 | 
+| 2021-01-22 | 第20期天元戦（台湾）勝部2回戦 | Chen Shiyuan | Chen Xi | Win | W+R | 6.5 | 3112 | 20 | 
+| 2021-01-21 | 第13回海峰杯プロ囲碁戦3回戦 | Chen Xi | Lin Junyan | Win | B+R | 6.5 | 3092 | 46 | 
+| 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Chen Xi |  | Win | B+R | 6.5 | 3046 | 20 | 
+| 2021-01-15 | 第20期天元戦（台湾）予選 |  | Chen Xi | Win | W+R | 6.5 | 3026 | 10 | 
+| 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Chen Xi | Lin Shuyang | Win | B+R | 6.5 | 3016 | 12 | 
+| 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Chen Xi |  | Win | B+R | 6.5 | 3004 | -9 | 
+| 2021-01-05 | 第20期天元戦（台湾）予選 | Chen Xi |  | Win | B+R | 6.5 | 3013 | 3 | 
+| 2020-10-25 | 第8期中環碁聖戦準々決勝 | Jian Jingting | Chen Xi | Lose | B+R | 6.5 | 3010 | -18 | 
+| 2020-10-18 | 第8期中環碁聖戦4回戦 | Chen Xi | Lin Lixiang | Win | B+R | 6.5 | 3028 | 28 | 
+| 2020-10-14 | 第1回UMC聯電杯早碁争覇戦1回戦 | Chen Xi | Liu Yaowen | Lose | W+0.5 | 6.5 | 3000 | -29 | 
+| 2020-10-06 | 第16期国手戦（台湾）3回戦 | Chen Xi |  | Lose | W+R | 6.5 | 3029 | 7 | 
+| 2020-10-05 | 第13期棋王戦（台湾）予選 | Yang Bowei | Chen Xi | Lose | B+R | 6.5 | 3022 | 0 | 
+| 2020-09-28 | 第13期棋王戦（台湾）予選 | Chen Xi | Xu Jingen | Lose | W+R | 6.5 | 3022 | -3 | 
+| 2020-09-24 | 第13期棋王戦（台湾）予選 | Lu Yiquan | Chen Xi | Win | W+R | 6.5 | 3025 | 48 | 
+| 2020-09-22 | 第16期国手戦（台湾）2回戦 | Xiao Ailin | Chen Xi | Win | W+R | 6.5 | 2977 | -18 | 
+| 2020-09-20 | 第8期中環碁聖戦3回戦 |  | Chen Xi | Win | W+R | 6.5 | 2995 | -5 | 
+| 2020-09-17 | 第13期棋王戦（台湾）予選 | Lu Yiquan | Chen Xi | Win | W+R | 6.5 | 3000 | 57 | 
+| 2020-09-15 | 第16期国手戦（台湾）1回戦 | Chen Xi | Liu Chuanting | Win | B+R | 6.5 | 2943 | -23 | 
+| 2020-09-06 | 第8期中環碁聖戦1回戦 |  | Chen Xi | Win | W+R | 6.5 | 2966 | 6 | 
+| 2020-09-03 | 第13期棋王戦（台湾）予選 | Chen Xi | Chen Yida | Win | B+4.5 | 6.5 | 2960 | 2 | 
+| 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 |  | Chen Xi | Lose | B+5.5 | 6.5 | 2958 | 0 | 
+| 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 | Chen Xi |  | Win | B+R | 6.5 | 2958 | 139 | 
+| 2020-07-23 | 第1期名人冠軍戦3回戦 | Xu Haohong | Chen Xi | Lose | B+R | 6.5 | 2819 | 1 | 
+| 2020-07-20 | 第1期名人冠軍戦2回戦 | Xu Jingen | Chen Xi | Win | W+R | 6.5 | 2818 | 16 | 
+| 2020-05-15 | 第1期聯電杯プロ囲碁戦予選 | Chen Xi | Chen Qirui | Lose | W+R | 6.5 | 2802 | 140 | 
+| 2020-03-19 | 第10期友士杯十段戦予選敗部3回戦 | Chen Xi | Lin Ziyuan | Lose | W+R | 6.5 | 2662 | -30 | 
+| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Chen Xi | Lin Lixiang | Lose | W+R | 7.5 | 2692 | 0 | 
+| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Xu Jingen | Chen Xi | Win | W+R | 7.5 | 2692 | 7 | 
+| 2020-03-12 | 第10期友士杯十段戦予選勝部2回戦 |  | Chen Xi | Lose | B+R | 6.5 | 2685 | 0 | 
+| 2020-03-12 | 第10期友士杯十段戦予選勝部1回戦 | Chen Xi |  | Win | B+1.5 | 6.5 | 2685 | -28 | 
+| 2020-03-02 | 第12回海峰杯プロ囲碁戦16強戦 | Chen Xi | Lin Lixiang | Lose | W+R | 6.5 | 2713 | -6 | 
+| 2020-02-25 | 第19期天元戦（台湾）敗部2回戦 | Chen Xi | Li Wei | Lose | W+R | 6.5 | 2719 | -10 | 
+| 2020-02-24 | 第12回海峰杯プロ囲碁戦32強戦 | Chen Xi | Yang Bowei | Win | B+5.5 | 6.5 | 2729 | 41 | 
+| 2020-02-21 | 第25回LG杯台湾代表選抜戦 | Chen Xi | Xu Jingen | Lose | W+R | 6.5 | 2688 | -18 | 
+| 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Chen Xi | Su Shengfang | Win | B+R | 6.5 | 2706 | -10 | 
+| 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Chen Xi |  | Win | B+R | 6.5 | 2716 | 0 | 
+| 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Chen Xi |  | Win | B+R | 6.5 | 2716 | 14 | 
+| 2020-02-18 | 第19期天元戦（台湾）敗部1回戦 | Lin Lixiang | Chen Xi | Win | W+R | 6.5 | 2702 | -112 | 
+| 2020-02-17 | 第1期名人冠軍戦予選敗部決勝 |  | Chen Xi | Win | W+R | 6.5 | 2814 | -3 | 
+| 2020-02-13 | 第1期名人冠軍戦予選敗部1回戦 | Chen Xi |  | Win | B+R | 6.5 | 2817 | -93 | 
+| 2020-02-11 | 第19期天元戦（台湾）勝部1回戦 | Chen Xi | Lin Yuxiang | Lose | W+R | 6.5 | 2910 | -28 | 
+| 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 |  | Chen Xi | Lose | B+R | 6.5 | 2938 | -35 | 
+| 2020-02-04 | 第19期天元戦（台湾）予選 | Huang Shiyuan | Chen Xi | Win | W+2.5 | 6.5 | 2973 | 2 | 
+| 2020-01-14 | 第19期天元戦（台湾）予選 |  | Chen Xi | Win | W+R | 6.5 | 2971 | 18 | 
+| 2020-01-07 | 第19期天元戦（台湾）予選 | Liu Yaowen | Chen Xi | Win | W+R | 6.5 | 2953 | 8 | 
+| 2020-01-02 | 第9回応氏杯世界選手権台湾代表選抜戦 | Lin Shixun | Chen Xi | Lose | B+R | 7.5 | 2945 | 280 | 
+| 2019-12-25 | 第13回春蘭杯台湾予選 | Chen Xi | Lin Junyan | Lose | W+R | 7.5 | 2665 | -8 | 
+| 2019-12-24 | 第13回春蘭杯台湾予選 |  | Chen Xi | Win | W+R | 7.5 | 2673 | 16 | 
+| 2019-12-20 | 第13回春蘭杯台湾予選 |  | Chen Xi | Win | W+R | 7.5 | 2657 | 11 | 
+| 2019-11-19 | 2019年関西棋院VS台湾棋院交流戦第1戦 | Chen Xi | Shintani Yousuke | Win | B+R | 6.5 | 2646 | 40 | 
+| 2019-10-07 | 第12期棋王戦（台湾）予選敗部準決勝 | Liu Yaowen | Chen Xi | Lose | B+R | 6.5 | 2606 | -35 | 
+| 2019-10-03 | 第12期棋王戦（台湾）予選勝部決勝 | Xu Yuqi | Chen Xi | Lose | B+R | 6.5 | 2641 | -40 | 
+| 2019-09-27 | 第7期中環碁聖戦3回戦 | Chen Xi | Cai Chengwei | Win | B+R | 6.5 | 2681 | 10 | 
+| 2019-09-26 | 第12期棋王戦（台湾）予選勝部準決勝 | Chen Xi | Lai Junfu | Win | B+R | 6.5 | 2671 | 46 | 
+| 2019-09-24 | 第15期国手戦（台湾）2回戦 | Lin Jiehan | Chen Xi | Lose | B+R | 6.5 | 2625 | -42 | 
+| 2019-09-23 | 第12期棋王戦（台湾）予選勝部2回戦 | Chen Xi | Xu Jingen | Win | B+R | 6.5 | 2667 | 55 | 
+| 2019-09-19 | 第12期棋王戦（台湾）予選勝部1回戦 |  | Chen Xi | Win | W+R | 6.5 | 2612 | 56 | 
+| 2019-09-16 | 第7期中環碁聖戦2回戦 | Yu Lijun | Chen Xi | Win | W+R | 6.5 | 2556 | 11 | 
+| 2019-09-08 | 第7期中環碁聖戦1回戦 | Chen Xi | Lin Junyan | Win | B+R | 6.5 | 2545 | 113 | 
+| 2019-09-05 | 第12期棋王戦（台湾）資格戦勝部決勝 | Zhang Kaixin | Chen Xi | Win | W+R | 6.5 | 2432 | 29 | 
+| 2019-09-03 | 第15期国手戦（台湾）1回戦 | Dai Jiashen | Chen Xi | Win | W+R | 6.5 | 2403 | -2 | 
+| 2019-09-02 | 第12期棋王戦（台湾）資格戦勝部1回戦 | Cai Chengwei | Chen Xi | Lose | B+R | 6.5 | 2405 | -273 | 
+| 2019-04-11 | 第9期友士杯十段戦予選 | Chen Xi |  | Lose | W+3.5 | 6.5 | 2678 | 0 | 
+| 2019-04-11 | 第9期友士杯十段戦予選敗部準決勝 | Chen Xi | Lu Yiquan | Win | B+R | 6.5 | 2678 | -33 | 
+| 2019-04-10 | 第9期友士杯十段戦予選勝部決勝 | Chen Qirui | Chen Xi | Lose | B+R | 6.5 | 2711 | -12 | 
+| 2019-04-08 | 第9期友士杯十段戦予選勝部準決勝 | Lu Yiquan | Chen Xi | Win | W+2.5 | 6.5 | 2723 | 0 | 
+| 2019-04-08 | 第9期友士杯十段戦予選勝部1回戦 | Ding Shaojie | Chen Xi | Win | W+R | 6.5 | 2723 | 50 | 
+| 2019-03-07 | 第11回海峰杯プロ囲碁戦32強戦 | Chen Xi | Lin Lixiang | Lose | W+R | 6.5 | 2673 | -56 | 
+| 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 |  | Chen Xi | Win | W+R | 6.5 | 2729 | -27 | 
+| 2019-01-22 | 第18期天元戦（台湾）予選3回戦 | Lai Junfu | Chen Xi | Lose | B+R | 6.5 | 2756 | 18 | 
+| 2019-01-08 | 第18期天元戦（台湾）予選1回戦 | Chen Xi |  | Win | B+R | 6.5 | 2738 | 41 | 
+| 2018-05-28 | 第8期友士杯十段戦敗者復活戦2回戦 | Chen Xi | Xu Haohong | Lose | W+R | 6.5 | 2697 | -36 | 
+| 2018-05-24 | 第8期友士杯十段戦敗者復活戦1回戦 | Chen Xi | Xu Yuqi | Win | B+R | 6.5 | 2733 | 27 | 
+| 2018-05-21 | 第8期友士杯十段戦1回戦 | Chen Xi | Li Wei | Lose | W+R | 6.5 | 2706 | -47 | 
+| 2018-05-14 | 第8期友士杯十段戦予選 | Chen Xi | Zhang Zhehao | Win | B+R | 6.5 | 2753 | 0 | 
+| 2018-05-14 | 第8期友士杯十段戦予選 | Zhou Keping | Chen Xi | Win | W+2.5 | 6.5 | 2753 | 50 | 
+| 2018-05-07 | 第8期友士杯十段戦予選 | Lai Junfu | Chen Xi | Lose | B+R | 6.5 | 2703 | -160 | 
+| 2018-03-19 | 第10回海峰杯プロ囲碁戦16強戦 | Chen Shiyuan | Chen Xi | Lose | B+R | 6.5 | 2863 | 39 | 
+| 2018-03-08 | 第10回海峰杯プロ囲碁戦32強戦 | Xu Yuqi | Chen Xi | Win | W+0.5 | 6.5 | 2824 | 54 | 
+| 2018-03-01 | 第10回海峰杯プロ囲碁戦64強戦 | Xiao Ailin | Chen Xi | Win | W+R | 6.5 | 2770 | 48 | 
+| 2017-09-26 | 第13期国手戦（台湾）16強戦 | Chen Xi | Lin Junyan | Lose | W+R | 6.5 | 2722 | -82 | 
+| 2017-09-19 | 第13期国手戦（台湾）第二回戦 | Chen Feng | Chen Xi | Win | W+R | 6.5 | 2804 | 24 | 
+| 2017-09-17 | 第5期中環碁聖戦第二回戦 | Chen Xi | Liu Yaowen | Win | B+3.5 | 6.5 | 2780 | 13 | 
+| 2017-09-10 | 第5期中環碁聖戦首輪下半区 | Chen Xi | Dai Jiashen | Win | B+R | 6.5 | 2767 | 1 | 
+| 2017-09-05 | 第13期国手戦（台湾）首輪上半区 |  | Chen Xi | Win | W+7.5 | 6.5 | 2766 | 262 | 
+| 2017-03-16 | 第9回海峰杯プロ囲碁戦16強戦 | Wang Yuanjun | Chen Xi | Lose | B+R | 6.5 | 2504 | -22 | 
+| 2017-03-13 | 第9回海峰杯プロ囲碁戦32強戦 | Lin Xiuping | Chen Xi | Win | W+5.5 | 6.5 | 2526 | 16 | 
+| 2017-03-10 | 第十六期天元戦複戦敗部第三回戦 | Lai Junfu | Chen Xi | Lose | B+0.5 | 6.5 | 2510 | -33 | 
+| 2017-03-09 | 第9回海峰杯プロ囲碁戦64強戦 | Xiao Ailin | Chen Xi | Win | W+R | 6.5 | 2543 | 16 | 
+| 2017-02-21 | 第十六期天元戦複戦敗部第二回戦補戦 | Lin Xiuping | Chen Xi | Win | W+R | 6.5 | 2527 | 16 | 
+| 2017-02-14 | 第十六期天元戦複戦敗部第一回戦 | Chen Xi | Chen  Qingyu | Win | B+R | 6.5 | 2511 | 47 | 
+| 2017-02-05 | 第十六期天元戦複戦第一回戦 | Chen Xi | Yang Bowei | Lose | W+R | 6.5 | 2464 | -197 | 
+| 2017-01-17 | 第十六期天元戦初戦第三回戦 | Chen Xi | Lin Yuxiang | Win | B+5.5 | 6.5 | 2661 | 0 | 
+| 2017-01-17 | 第十六期天元戦初戦第二回戦 | Chen Xi |  | Win | B+R | 6.5 | 2661 | -40 | 
+| 2016-06-08 | 第6期友士杯十段戦敗者復活戦2回戦 | Xu Haohong | Chen Xi | Lose | B+R | 6.5 | 2701 | -35 | 
+| 2016-06-06 | 第6期友士杯十段戦2回戦 | Chen Qirui | Chen Xi | Lose | B+R | 6.5 | 2736 | -88 | 
+| 2016-06-03 | 第6期友士杯十段戦1回戦 | Chen Xi | Zhang Kaixin | Win | B+R | 6.5 | 2824 | 17 | 
+| 2016-06-01 | 第6期友士杯十段戦予選 | Cai Chengwei | Chen Xi | Win | W+R | 6.5 | 2807 | 121 | 
+| 2016-05-30 | 第6期友士杯十段戦予選 | Chen Xi |  | Win | B+7.5 | 6.5 | 2686 | 129 | 
+| 2016-05-20 | 第6期友士杯十段戦予選 | Chen Qirui | Chen Xi | Lose | B+R | 6.5 | 2557 | -130 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Zhou Keping | Chen Xi | Win | W+R | 6.5 | 2687 | 0 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Chen Xi | Zhou Yinnan | Win | B+R | 6.5 | 2687 | 2687 | 
+| 2016-03-21 | 第8回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan | Chen Xi | Lose | B+R | 6.5 | missing | 0 | 
+| 2016-03-07 | 第8回海峰杯プロ囲碁戦64強戦 | Xia Daming | Chen Xi | Win | W+R | 6.5 | missing | -3045 | 
+| 2015-03-09 | 第7回海峰杯プロ囲碁戦32強戦 | Chen Xi | Lin Junyan | Lose | W+R | 6.5 | 3045 | -230 | 
+| 2015-03-05 | 第7回海峰杯プロ囲碁戦64強戦 | Chen Xi | Huang Xiangren | Win | B+R | 6.5 | 3275 | 3275 | 
+| 2014-03-10 | 第6回海峰杯プロ囲碁戦16強戦 | Xiao Zhenghao | Chen Xi | Lose | B+R | 6.5 | missing | 0 | 
+| 2014-03-06 | 第6回海峰杯プロ囲碁戦32強戦 | Liu Jianchang | Chen Xi | Win | W+R | 6.5 | missing | 0 | 
+| 2014-03-03 | 第6回海峰杯プロ囲碁戦64強戦 | Lin Yuxiang | Chen Xi | Win | W+R | 6.5 | missing | -2620 | 
+| 2012-10-18 | 第4回海峰杯プロ囲碁戦64強戦 | Zhou Pingqiang | Chen Xi | Lose | B+R | 6.5 | 2620 | 2620 | 
+| 2012-02-23 | 第5期棋王戦（台湾）予選 | Chen Xi |  | Win | B+R | 6.5 | missing | 0 | 
+| 2011-10-06 | 第3回海峰杯プロ囲碁戦32強戦 | Chen Xi | Lin Zhihan | Lose | W+R | 6.5 | missing | 0 | 
+| 2011-09-29 | 第3回海峰杯プロ囲碁戦64強戦 | Dang Xiyun | Chen Xi | Win | W+R | 6.5 | missing | 0 | 
+| 2010-09-16 | 第2回海峰杯プロ囲碁戦32強戦 | Chen Xi |  | Lose | W+R | 6.5 | missing | 0 | 
+| 2010-09-02 | 第2回海峰杯プロ囲碁戦64強戦 | Chen Xi |  | Win | B+R | 6.5 | missing | 0 | 
+| 2009-12-31 | 第3期棋王戦（台湾）予選 | Chen Xi | Huang Xiangren | Lose | W+R | 6.5 | missing | 0 | 
+| 2009-12-24 | 第3期棋王戦（台湾）予選 | Zhang Zhengping | Chen Xi | Lose | B+0.5 | 6.5 | missing | 0 | 
+| 2009-08-20 | 第1回海峰杯プロ囲碁戦64強戦 | Zhang Zhengping | Chen Xi | Lose | B+R | 6.5 | missing | 0 | 
+| 2007-05-10 | 第14期中環杯囲碁オープン戦2回戦 | Chen Xi | Zhang Kaixin | Lose | W+R | 6.5 | missing | missing |
 
 
 

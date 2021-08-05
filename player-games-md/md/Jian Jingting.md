@@ -5,284 +5,286 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第2期聯電杯プロ囲碁戦予選 | missing | Jian Jingting | W+R | 2021-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F7PRnITiadOd9mcnbI0A9A%3D%3D) | 
-| 第11期友士杯十段戦敗部2回戦 | Jian Jingting | Chen Qirui | W+R | 2021-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NB0d5CzzRdif4XRy23nHdQ%3D%3D) | 
-| 第20期天元戦（台湾）挑戦手合七番勝負第6局 | Jian Jingting | Wang Yuanjun | W+R | 2021-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rGuDOYtstCwCrZKBpyWy2w%3D%3D) | 
-| 第11期友士杯十段戦敗部1回戦 | Jian Jingting | Lai Junfu | B+R | 2021-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h7oh9QyytmEuhk9vPwBWBA%3D%3D) | 
-| 第20期天元戦（台湾）挑戦手合七番勝負第5局 | Wang Yuanjun | Jian Jingting | B+R | 2021-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IYO4HdORRykiVqwum6CdrA%3D%3D) | 
-| 第11期友士杯十段戦勝部1回戦 | Li Wei | Jian Jingting | B+0.5 | 2021-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lyF1VGu6T5iGTxxOir8WPg%3D%3D) | 
-| 第20期天元戦（台湾）挑戦手合七番勝負第4局 | Jian Jingting | Wang Yuanjun | B+0.5 | 2021-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YlXPJChRCMDDM%2B8DvzwNxA%3D%3D) | 
-| 第20期天元戦（台湾）挑戦手合七番勝負第3局 | Wang Yuanjun | Jian Jingting | B+R | 2021-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q9%2FmVf9W4GTe3Vkyc71XFw%3D%3D) | 
-| 第11期友士杯十段戦予選 | Chen Xi | Jian Jingting | W+R | 2021-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5WcvMbCV5O%2F8POL5RLSiCw%3D%3D) | 
-| 第20期天元戦（台湾）挑戦手合七番勝負第2局 | Jian Jingting | Wang Yuanjun | W+R | 2021-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w9p5aEJe0YbyimNcWI5tuQ%3D%3D) | 
-| 第11期友士杯十段戦予選 | missing | Jian Jingting | W+11.5 | 2021-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RELSj396%2FFjzC9OXZWTcmA%3D%3D) | 
-| 第11期友士杯十段戦予選 | Jian Jingting | Dang Xiyun | B+R | 2021-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AJARtKF6oLH4iANdYK8OJw%3D%3D) | 
-| 第26回LG杯台湾予選 | missing | Jian Jingting | B+R | 2021-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nCj9ZStGQPieqee4ksyWxw%3D%3D) | 
-| 第26回LG杯台湾予選 | Jian Jingting | Lu Yiquan | B+R | 2021-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BWBPlEksGbDPhSk4HApphg%3D%3D) | 
-| 第20期天元戦（台湾）挑戦手合七番勝負第1局 | Wang Yuanjun | Jian Jingting | W+R | 2021-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QRQ%2F29LcJZr0TJJV6JdceQ%3D%3D) | 
-| 第17期国手戦（台湾） | Chen Shiyuan | Jian Jingting | B+R | 2021-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BsuWcfVPY6TgpHibRWGc2g%3D%3D) | 
-| 第20期天元戦（台湾）リーグ | Xiao Zhenghao | Jian Jingting | W+R | 2021-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gahdA5%2BIvw6nFSP5Rgk65g%3D%3D) | 
-| 第2期名人冠軍戦2回戦 | Jian Jingting | Chen Shiyuan | W+R | 2021-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MgU87sNbtshaRVLz378pJA%3D%3D) | 
-| 第20期天元戦（台湾）リーグ | Xu Haohong | Jian Jingting | W+R | 2021-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yDEmYbsI19%2B6SFoqg5jdzQ%3D%3D) | 
-| 第2期名人冠軍戦1回戦 | Jian Jingting | Chen Qirui | B+R | 2021-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FAydZFNBze7167ngziyZng%3D%3D) | 
-| 第20期天元戦（台湾）リーグ | Jian Jingting | Lu Yiquan | B+R | 2021-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oUj%2FL4mdSIR1G0jUevs5ug%3D%3D) | 
-| 第2期名人冠軍戦予選 | Jian Jingting | missing | B+R | 2021-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JpMMHK1j2K%2BwfW1eD4ZHXQ%3D%3D) | 
-| 第20期天元戦（台湾）リーグ | Jian Jingting | Chen Qirui | W+R | 2021-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sW%2BcAGvg%2F%2Bs45%2FXPbLe1aQ%3D%3D) | 
-| 第20期天元戦（台湾）リーグ | Jian Jingting | Lin Lixiang | B+2.5 | 2021-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MKlHQ6QPkdLi5quk%2Fgq50w%3D%3D) | 
-| 第2期名人冠軍戦予選 | Jian Jingting | missing | B+7.5 | 2021-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MUOkkks4rjUoogQNXcgj6w%3D%3D) | 
-| 第20期天元戦（台湾）リーグ | Jian Jingting | Lai Junfu | B+R | 2021-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9WiiW2vgWd4riMG3Ln%2FYSA%3D%3D) | 
-| 第2期名人冠軍戦予選 | Zhou Yinnan | Jian Jingting | B+R | 2021-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mfUN%2BJAOUToRzXZsexQ52Q%3D%3D) | 
-| 第20期天元戦（台湾）リーグ | Lin Junyan | Jian Jingting | W+R | 2021-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eQkvM7ujNxmkW2i11qpKAg%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦決勝三番勝負第2局  | Xu Haohong | Jian Jingting | B+R | 2021-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=77xvaPE6Zu3rKSzGV%2FY8Ag%3D%3D) | 
-| 第20期天元戦（台湾）敗部4回戦 | Jian Jingting | Chen Xi | B+R | 2021-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QNLAegImXrHXdr%2FwN%2FbvEw%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦決勝三番勝負第1局  | Jian Jingting | Xu Haohong | W+R | 2021-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IyglqYwlMCch0bQqRTZ5WQ%3D%3D) | 
-| 第20期天元戦（台湾）敗部3回戦 | Lin Shixun | Jian Jingting | W+R | 2021-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UB0ewhZ0SjeD5S7zpmHayA%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦準決勝 | Jian Jingting | Yang Bowei | B+R | 2021-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7hHGTWubzii7mdj74t1FVg%3D%3D) | 
-| 第20期天元戦（台湾）敗部2回戦 | Cai Chengwei | Jian Jingting | W+5.5 | 2021-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M3v7UcX7duyTqTJT%2BXSpMQ%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦4回戦 | Chen Xi | Jian Jingting | W+R | 2021-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zsXgukUcDwmiIhx4Mpgbkw%3D%3D) | 
-| 第20期天元戦（台湾）勝部2回戦 | Lu Yiquan | Jian Jingting | B+R | 2021-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wi8k7EZoKup%2BrTxT4LMzYg%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦3回戦 | Jian Jingting | Li Wei | B+R | 2021-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HgBp5xOyNU%2Bn5EEz0HJzQA%3D%3D) | 
-| 第20期天元戦（台湾）勝部1回戦 | Xu Yuqi | Jian Jingting | W+R | 2021-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wmgrR1tT3HeEKpmB%2FyhutA%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦2回戦 | missing | Jian Jingting | W+R | 2021-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xMfnFVLmA3XPZtykXzzHOg%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦1回戦 | Zhou Keping | Jian Jingting | W+R | 2021-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3xb%2FP6LTG97p6nfKC%2BBtaA%3D%3D) | 
-| 第8期中環碁聖戦準決勝 | Lin Junyan | Jian Jingting | B+R | 2020-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4%2BrnHt5P%2Bilc%2Bj5KDdrzJg%3D%3D) | 
-| 第13期棋王戦（台湾）リーグ | Xiao Zhenghao | Jian Jingting | W+R | 2020-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=utm6YUcj98Ux9uMLABcKNQ%3D%3D) | 
-| 第13期棋王戦（台湾）リーグ  | Jian Jingting | Xu Haohong | W+R | 2020-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kCD2DKk6aJe4%2BwLgTZD%2B7w%3D%3D) | 
-| 第13期棋王戦（台湾）リーグ  | Jian Jingting | Lin Junyan | W+R | 2020-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vu9dGOQVnaoY9C67L2aNAA%3D%3D) | 
-| 第13期棋王戦（台湾）リーグ  | Jian Jingting | Xu Jingen | B+R | 2020-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZpXj%2FRBCWrtc1uHslo9sJg%3D%3D) | 
-| 第1回UMC聯電杯早碁争覇戦3回戦 | Jian Jingting | Xiao Zhenghao | W+2.5 | 2020-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XvzExhpek513mPiB2TC%2FSQ%3D%3D) | 
-| 第13期棋王戦（台湾）リーグ | Jian Jingting | Chen Qirui | B+R | 2020-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ftCk4WyECzC1vVoT6d%2FUKA%3D%3D) | 
-| 第8期中環碁聖戦準々決勝 | Jian Jingting | Chen Xi | B+R | 2020-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HvV0jZWgbr%2B78Qrr1U5bmg%3D%3D) | 
-| 第13期棋王戦（台湾）リーグ | Jian Jingting | Lin Lixiang | B+R | 2020-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4AHSCmhTciV2Qd5ywOaxgQ%3D%3D) | 
-| 第1回UMC聯電杯早碁争覇戦2回戦 | Jian Jingting | Lin Jiehan | B+R | 2020-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y9NktWsRtDZQ2dj3%2FRlXAw%3D%3D) | 
-| 第13期棋王戦（台湾）リーグ | Li Wei | Jian Jingting | W+R | 2020-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QsbvBCCOtlv%2Fc%2FSjfZm5lA%3D%3D) | 
-| 第8期中環碁聖戦4回戦 | Jian Jingting | Zhang Zhehao | B+R | 2020-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oeYuctiOspncKxT9269gBg%3D%3D) | 
-| 第16期国手戦（台湾）2回戦 | Jian Jingting | Yang Bowei | W+R | 2020-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xl49bSqtZpv8NK3ueSuzkA%3D%3D) | 
-| 第8期中環碁聖戦3回戦 | Jian Jingting | Lin Shuyang | B+4.5 | 2020-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s%2BEb83ZXPWWNv1OU9pjTjA%3D%3D) | 
-| 第8期中環碁聖戦2回戦 | Jian Jingting | missing | B+R | 2020-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gK%2BMpIe6ChUe7K1eLPxDRg%3D%3D) | 
-| 第25回三星火災杯台湾代表選抜戦 | Jian Jingting | Xu Jingen | W+0.5 | 2020-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EbqVgd98ipoR1VB6QYwzjg%3D%3D) | 
-| 第25回三星火災杯台湾代表選抜戦 | Jian Jingting | Cai Chengwei | B+R | 2020-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KYIFRNv%2BrY5Ft03MA%2BEIXw%3D%3D) | 
-| 第1期名人冠軍戦1回戦 | Jian Jingting | Lin Lixiang | W+R | 2020-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5aEdgMrZk9kJk3gKeo61JA%3D%3D) | 
-| 2020新人王戦（台湾）リーグA | Lu Yiquan | Jian Jingting | W+R | 2020-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gaID6IxITpmBeTvA5fgWIg%3D%3D) | 
-| 2020新人王戦（台湾）リーグA | Jian Jingting | Chen Qirui | W+R | 2020-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CaAjaU24EC2gpxzY718Buw%3D%3D) | 
-| 2020新人王戦（台湾）リーグA | missing | Jian Jingting | W+R | 2020-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qd3GP9TJgrterdPy5ihBVQ%3D%3D) | 
-| 2020新人王戦（台湾）リーグA | Xu Jingen | Jian Jingting | W+R | 2020-06-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A99zEQS94J87%2BtI1UMYQhA%3D%3D) | 
-| 2020新人王戦（台湾）リーグA | missing | Jian Jingting | W+R | 2020-06-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4Q9xglmIU%2FsRoEZ%2BNP59Uw%3D%3D) | 
-| 2020新人王戦（台湾）リーグA | Jian Jingting | Cai Chengwei | W+R | 2020-06-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VhrymVlnYDBDWTZHMJ5WgQ%3D%3D) | 
-| 2020新人王戦（台湾）リーグA | missing | Jian Jingting | W+R | 2020-06-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F%2FipSCsZk2S44RldC4YZ9Q%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦予選 | Lu Yiquan | Jian Jingting | B+R | 2020-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IO3XIT6zqbvo67tm5qkIbA%3D%3D) | 
-| 第19期天元戦（台湾）リーグ | Jian Jingting | Lin Shixun | W+R | 2020-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PprBJvv6PQFb5fWGPCfx%2Fw%3D%3D) | 
-| 第19期天元戦（台湾）リーグ | Jian Jingting | Lai Junfu | W+4.5 | 2020-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r2%2FzWBW047lOKsUdYk6vFg%3D%3D) | 
-| 第10期友士杯十段戦敗部3回戦 | Jian Jingting | Lai Junfu | W+R | 2020-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IHsZjEPiFHZPqH5wyS8yPw%3D%3D) | 
-| 日台交流戦第2戦 | Ida Atsushi | Jian Jingting | W+R | 2020-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pNQf%2BskndYLiVikzr5JsfA%3D%3D) | 
-| 日台交流戦第1戦 | Motoki Katsuya | Jian Jingting | W+R | 2020-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XS%2BIhnkLIjMetfc7J5PfAw%3D%3D) | 
-| 第10期友士杯十段戦敗部2回戦 | Lin Shixun | Jian Jingting | W+1.5 | 2020-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GUQD2h9NurJYSubzTerHdQ%3D%3D) | 
-| 第19期天元戦（台湾）リーグ | Chen Shiyuan | Jian Jingting | B+R | 2020-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BLV%2BA6HeI04Ci0s6QJ3ozQ%3D%3D) | 
-| 第10期友士杯十段戦勝部2回戦 | Lin Junyan | Jian Jingting | B+R | 2020-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h%2B5pVZ%2Fo24WMRfGFvSDYBA%3D%3D) | 
-| 第10期友士杯十段戦勝部1回戦 | Xiao Zhenghao | Jian Jingting | W+0.5 | 2020-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NYU9%2FgDimirB%2FEvoj9WhZw%3D%3D) | 
-| 第19期天元戦（台湾）リーグ | Chen Qirui | Jian Jingting | B+2.5 | 2020-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fkk0FVeNZ6QHOUjj0ZEcyQ%3D%3D) | 
-| 第19期天元戦（台湾）リーグ | Wang Yuanjun | Jian Jingting | W+R | 2020-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RaCnzM5QkYlz1bldMICqAg%3D%3D) | 
-| 第19期天元戦（台湾）リーグ | Xiao Zhenghao | Jian Jingting | W+R | 2020-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gylmGpQmXu3f7BVaGP4m1A%3D%3D) | 
-| 第10期友士杯十段戦予選勝部決勝 | missing | Jian Jingting | W+R | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QdzOFg1Gh5blD9dcBVg37Q%3D%3D) | 
-| 第19期天元戦（台湾）リーグ | Jian Jingting | Xu Haohong | B+R | 2020-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BAcIv7dAk20WxCC438lTsw%3D%3D) | 
-| 第10期友士杯十段戦予選勝部2回戦 | missing | Jian Jingting | W+R | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PBo1Xr24Epz9Git3JHBNzQ%3D%3D) | 
-| 第10期友士杯十段戦予選勝部1回戦 | Jian Jingting | missing | B+R | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sI2W%2B1ttAfUykq6KrODTJA%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦8強戦 | Lai Junfu | Jian Jingting | B+0.5 | 2020-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qRtB%2FNp2kesftM%2B2JF8seg%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦16強戦 | missing | Jian Jingting | W+R | 2020-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A6gPVtOzQhs8Pe3FtQi7Yg%3D%3D) | 
-| 第25回LG杯台湾代表選抜戦 | Jian Jingting | Xu Haohong | W+R | 2020-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8KJRCAjkuSM%2FsN3brPXIDw%3D%3D) | 
-| 第19期天元戦（台湾）勝部3回戦 | Jian Jingting | Chen Qirui | B+R | 2020-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UH9umdKR%2BaZnWAk5WnVSeQ%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦32強戦 | Zhang Kaixin | Jian Jingting | W+R | 2020-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VwCH9Fo6t29sWUYpYeCMCQ%3D%3D) | 
-| 第25回LG杯台湾代表選抜戦 | Lin Junyan | Jian Jingting | W+0.5 | 2020-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YoJAC9vfLhnICvGPcomigg%3D%3D) | 
-| 第25回LG杯台湾代表選抜戦 | Jian Jingting | Lin Jiehan | B+R | 2020-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y81gOFS2fOXVOl4jfwB9Cg%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦64強戦 | missing | Jian Jingting | W+R | 2020-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kQe41mFqBCGiEL40ID9Otg%3D%3D) | 
-| 第25回LG杯台湾代表選抜戦 | Jian Jingting | missing | B+R | 2020-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GIBypzbhSnuh0v2RfeQK7w%3D%3D) | 
-| 第19期天元戦（台湾）勝部2回戦 | Li Wei | Jian Jingting | W+R | 2020-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ADfOgmtg5YWf03uwYFvRog%3D%3D) | 
-| 第1期名人冠軍戦予選勝部決勝 | Jian Jingting | missing | B+R | 2020-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kD7F50S5RPX5Dl0Ruzzwug%3D%3D) | 
-| 第19期天元戦（台湾）勝部1回戦 | Lu Yiquan | Jian Jingting | W+R | 2020-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qfgk9DjVKeuYKxA5hhHnwg%3D%3D) | 
-| 第1期名人冠軍戦予選勝部1回戦 | Jian Jingting | Li Wei | B+R | 2020-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nIRzarOvLCNdhLhMrDaILg%3D%3D) | 
-| 2020台湾精鋭vs日本精鋭交流戦第5戦 | Jian Jingting | Murakawa Daisuke | W+1.5 | 2020-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V%2BFRo5Smc013XJEt%2B2HRKA%3D%3D) | 
-| 2020台湾精鋭vs日本精鋭交流戦第3戦 | Jian Jingting | Fujisawa Rina | W+1.5 | 2020-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T70yne0jLF9DUaaVGWK48g%3D%3D) | 
-| 2020台湾精鋭vs日本精鋭交流戦第1戦 | Chang Rueijie | Jian Jingting | W+R | 2020-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sjc5qiKjG80PPsYyoHL9tw%3D%3D) | 
-| 第9回応氏杯世界選手権台湾代表選抜戦 | Jian Jingting | Li Wei | W+1 | 2020-01-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vf2e88hGh4tzOnlC1GUWXQ%3D%3D) | 
-| 第13回春蘭杯台湾予選 | missing | Jian Jingting | B+R | 2019-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bIwqmNhvpLNqoYL6%2FIX66A%3D%3D) | 
-| 第13回春蘭杯台湾予選 | Jian Jingting | Xu Yuqi | B+R | 2019-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Ky0OrKF0m6o38sMi82wuw%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Chen Qirui | Jian Jingting | B+R | 2019-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y1Xh3bZqoHuGBxs%2BbE6hgg%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ  | Wang Yuanjun | Jian Jingting | B+R | 2019-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JZDiV2WvWv51R7WPBpU3gA%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Xu Haohong | Jian Jingting | W+R | 2019-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rSG7%2FLZC0JU1bw5XN5ZMQg%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ  | Li Wei | Jian Jingting | W+1.5 | 2019-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SJlbdW8gdgi0BOWMmFPllg%3D%3D) | 
-| 2019年関西棋院VS台湾棋院交流戦第1戦 | Takashima Yugo | Jian Jingting | W+R | 2019-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qx%2BVUxXNGyf271TwmHfLwQ%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Chen Shiyuan | Jian Jingting | W+0.5 | 2019-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TCevXDGqtDYIRrmffJ3V6A%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Jian Jingting | Lin Lixiang | W+R | 2019-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yRC%2BeVKub0WQHIn9FhJ9VQ%3D%3D) | 
-| 2019台湾精鋭vs韓国ナショナルチーム交流戦第6戦 | Song Jihoon | Jian Jingting | B+R | 2019-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QYj5Dx97yrmJXstJQSgJTw%3D%3D) | 
-| 2019台湾精鋭vs韓国ナショナルチーム交流戦第5戦 | Weon Seongjin | Jian Jingting | B+R | 2019-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EaFyeoyKE3WA13vPNuzl3Q%3D%3D) | 
-| 2019台湾精鋭vs韓国ナショナルチーム交流戦第1戦 | Jian Jingting | Park Geunho | W+R | 2019-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ea00DIla0m2w5QHpaj2sew%3D%3D) | 
-| 2019新人王戦（台湾）リーグA | missing | Jian Jingting | W+R | 2019-11-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dUZS1oGnBa5VjS7Rakvkvw%3D%3D) | 
-| 2019新人王戦（台湾）リーグA | Jian Jingting | missing | B+R | 2019-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6ko5j%2FWiJuoVKKW9Q4n4fw%3D%3D) | 
-| 2019新人王戦（台湾）リーグA | Yang Bowei | Jian Jingting | W+R | 2019-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5F%2FdeyNVd2Ug1p0htecpYw%3D%3D) | 
-| 第7期中環碁聖戦決勝三番勝負第2局 | Xu Haohong | Jian Jingting | B+R | 2019-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gZify6R2utdIn5cwzLYlXQ%3D%3D) | 
-| 第7期中環碁聖戦決勝三番勝負第1局 | Jian Jingting | Xu Haohong | W+R | 2019-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KFn0G5I8KRKNsflq4pYYOQ%3D%3D) | 
-| 2019新人王戦（台湾）リーグA | Yu Lijun | Jian Jingting | W+R | 2019-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s2UX1LEjHDMb3HOURIvI6g%3D%3D) | 
-| 2019新人王戦（台湾）リーグA | Jian Jingting | Lu Yiquan | W+R | 2019-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fOPG4sO2WQNtBo1%2BAmAGxw%3D%3D) | 
-| 2019新人王戦（台湾）リーグA | Cai Chengwei | Jian Jingting | W+1¼ | 2019-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QJ1UN31gwSXwMTOU%2FMnMaQ%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Jian Jingting | Xu Yuqi | B+R | 2019-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mOGOO1iXWu8kjYagoAy2Gg%3D%3D) | 
-| 第7期中環碁聖戦準決勝 | Lin Shixun | Jian Jingting | W+R | 2019-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rH3aKgCGglDr0wPLtrI0zg%3D%3D) | 
-| 第15期国手戦（台湾）4回戦 | Jian Jingting | Chen Shiyuan | W+R | 2019-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pd%2Ff7uBFxuGXV%2F8cBpywJw%3D%3D) | 
-| 第15期国手戦（台湾）3回戦 | Jian Jingting | missing | B+R | 2019-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6XCWbdBDuibg3nm21z4%2BPg%3D%3D) | 
-| 第7期中環碁聖戦4回戦 | Yang Bowei | Jian Jingting | W+R | 2019-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PaH21%2FsI%2B1tSEH%2B%2FFmEFUg%3D%3D) | 
-| 第15期国手戦（台湾）2回戦 | Zhou Keping | Jian Jingting | W+R | 2019-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qZOGsZaebDaIulRYCOBoUg%3D%3D) | 
-| 第7期中環碁聖戦3回戦 | Jian Jingting | Zhang Zhehao | B+R | 2019-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=68CQeC7QJ1s%2Bn1X9jZyYBQ%3D%3D) | 
-| 第15期国手戦（台湾）1回戦 | Lin Shuyang | Jian Jingting | W+R | 2019-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=minDhsquvuWqu2ualfodBw%3D%3D) | 
-| 第7期中環碁聖戦2回戦 | missing | Jian Jingting | W+R | 2019-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3rjfqN0PDchKDpMLPOtlKQ%3D%3D) | 
-| 第7期中環碁聖戦1回戦 | Jian Jingting | Lin Ziyuan | B+R | 2019-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mh6YU4n2M8Mh1INcExyK2g%3D%3D) | 
-| 第9期友士杯十段戦敗部3回戦 | Lin Shixun | Jian Jingting | B+R | 2019-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u1x0Ug1UW9Oq%2Bm13tcQo4A%3D%3D) | 
-| 第9期友士杯十段戦敗部2回戦 | Chen Shiyuan | Jian Jingting | W+0.5 | 2019-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gYKDeDbMVYZmDhsMhaWoKQ%3D%3D) | 
-| 第9期友士杯十段戦勝部2回戦 | Chen Qirui | Jian Jingting | B+R | 2019-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CwvOoGNfYMk4fG1pb1yZsA%3D%3D) | 
-| 第9期友士杯十段戦勝部1回戦 | Jian Jingting | Yu Lijun | B+R | 2019-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SErq8C%2BAFnWEia4BJjOuTg%3D%3D) | 
-| 第18期天元戦（台湾）リーグ | Xiao Zhenghao | Jian Jingting | B+R | 2019-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4gWykoqkmYYapOSfEhIaLw%3D%3D) | 
-| 第18期天元戦（台湾）リーグ | Jian Jingting | Chen Shiyuan | B+R | 2019-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FOnQylDBvHagmwqxO3P%2FDw%3D%3D) | 
-| 第9期友士杯十段戦予選勝部決勝 | Jian Jingting | Ye Hongyuan | B+R | 2019-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WqC%2FGQ8vKAGq1l4h2RulWQ%3D%3D) | 
-| 第18期天元戦（台湾）リーグ | Jian Jingting | Xu Haohong | W+R | 2019-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mf2KSRctEHgj2dxWMAflTA%3D%3D) | 
-| 第9期友士杯十段戦予選勝部準決勝 | Jian Jingting | Chen Feng | B+R | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6Nl7jj5S0B%2BW8ElJ0lz0eg%3D%3D) | 
-| 第18期天元戦（台湾）リーグ | Jian Jingting | Chen Qirui | W+R | 2019-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kiQiH9%2FT09v9JjX9yV2yBQ%3D%3D) | 
-| 第18期天元戦（台湾）リーグ | Jian Jingting | Yang Bowei | B+R | 2019-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rSChtuSOwZB6IuJ5pr7XfQ%3D%3D) | 
-| 第18期天元戦（台湾）リーグ | Lin Junyan | Jian Jingting | B+R | 2019-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zyRbW1NkUF1M53xcmBUFPw%3D%3D) | 
-| 第18期天元戦（台湾）リーグ | Jian Jingting | Lin Shixun | B+R | 2019-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V%2B7g%2Focfoc5wRt2CDwXeCw%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦8強戦 | Jian Jingting | Lin Zhihan | W+R | 2019-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pERDwladt5R59aC9ZclefQ%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦16強戦 | Jian Jingting | Lai Junfu | B+R | 2019-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4rqB1Dzcv8qCJCDTKkbmWQ%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦32強戦 | Jian Jingting | Lin Xiuping | B+R | 2019-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2sE4hdP14Uptsw8IR74OCQ%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦64強戦 | missing | Jian Jingting | W+R | 2019-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bh3WVe%2BYZlHto%2BLrbIM7pA%3D%3D) | 
-| 第6回グロービス杯台湾予選 | Chen Qirui | Jian Jingting | B+R | 2019-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nkb4qiV7VWpHv7oY5rv%2BSA%3D%3D) | 
-| 第6回グロービス杯台湾予選 | Huang Shiyuan | Jian Jingting | W+R | 2019-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ezYGGgYPQaHjjsxgsXMCHw%3D%3D) | 
-| 第18期天元戦（台湾）勝部3回戦 | Lai Junfu | Jian Jingting | W+R | 2019-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HvGnHjAyrgF3tNybM2f%2FZg%3D%3D) | 
-| 第18期天元戦（台湾）勝部2回戦 | Lin Shuyang | Jian Jingting | W+R | 2019-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1TWzlwgFxgdXV4sjThmK5Q%3D%3D) | 
-| 第18期天元戦（台湾）勝部1回戦 | Jian Jingting | missing | B+R | 2019-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=90ptbHm1gB1QiItgP4fqqw%3D%3D) | 
-| 2019台湾精鋭vs日本精鋭交流戦第5戦 | Jian Jingting | Koike Yoshihiro | B+R | 2019-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d9e8zjIwFsGln52qsKIlsw%3D%3D) | 
-| 2019台湾精鋭vs日本精鋭交流戦第3戦 | Hsu Chiayuan | Jian Jingting | B+R | 2019-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8CHR1rLGN9Q7snGxOKhyoQ%3D%3D) | 
-| 2019台湾精鋭vs日本精鋭交流戦第2戦 | Hirose Yuichi | Jian Jingting | B+5.5 | 2019-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bivrGHljVPgb82UxMxRCFg%3D%3D) | 
-| 三英戦呂布新鋭邀請戦第2戦  | Jian Jingting | Hsu Chiayuan | W+R | 2018-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ij3%2F2QjkT%2BRredj7In6riw%3D%3D) | 
-| 2018年新人王戦（台湾）リーグA | Jian Jingting | Lai Junfu | W+1¼ | 2018-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2CeOnB7nVAIuqUpPWOfCSg%3D%3D) | 
-| 2018年新人王戦（台湾）リーグA | Lu Yiquan | Jian Jingting | W+R | 2018-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ahdqW5nJHPIM3SHNUrrWXQ%3D%3D) | 
-| 2018年新人王戦（台湾）リーグA | Jian Jingting | Xu Yuqi | W+R | 2018-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t0Rx91D93BRWjU0pAyf69Q%3D%3D) | 
-| 2018年新人王戦（台湾）リーグA | missing | Jian Jingting | W+R | 2018-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G9OaKgVq1V8VQYp%2FoYJ7jw%3D%3D) | 
-| 2018年新人王戦（台湾）リーグA | Cai Chengwei | Jian Jingting | W+R | 2018-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JUS%2FKxQxwUz%2FRU3H7Ncpyw%3D%3D) | 
-| 2018年新人王戦（台湾）リーグA | Jian Jingting | missing | B+R | 2018-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KK5avKFKy3ugCy9sSdduCQ%3D%3D) | 
-| 2018年新人王戦（台湾）リーグA | Huang Shiyuan | Jian Jingting | W+R | 2018-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g%2BDtHIDpO6V6pcQU7Cq6eQ%3D%3D) | 
-| 2018年台湾精鋭vs韓国交流戦第6戦 | Lee Jihyun | Jian Jingting | B+R | 2018-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YOyuyv79J%2FYwqMXFwXkmsg%3D%3D) | 
-| 2018年台湾精鋭vs韓国交流戦第5戦 | Park Hyunsoo | Jian Jingting | W+3.5 | 2018-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1hhD4iIY9%2B7L0MyRNlRYvg%3D%3D) | 
-| 2018年台湾精鋭vs韓国交流戦第4戦 | Song Jihoon | Jian Jingting | B+R | 2018-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gxd2ltT0Z7jIKMDSp8SHyA%3D%3D) | 
-| 第11期棋王戦（台湾）リーグ第7節  | Jian Jingting | Xu Haohong | W+R | 2018-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7BkvkA2V4Tl56OHre2T%2Fjg%3D%3D) | 
-| 第11期棋王戦（台湾）リーグ第6節 | Jian Jingting | Lin Lixiang | W+4.5 | 2018-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UaHzhq0zLiiX7Ev%2FZajOvA%3D%3D) | 
-| 第11期棋王戦（台湾）リーグ第5節  | Wang Yuanjun | Jian Jingting | W+R | 2018-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J77INBFtLplOBneCoSnUtQ%3D%3D) | 
-| 第11期棋王戦（台湾）リーグ第4節 | Jian Jingting | Chen Qirui | W+R | 2018-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wfYQEyObXcoYqSg%2Fd%2FwNCA%3D%3D) | 
-| 第11期棋王戦（台湾）リーグ第3節 | Jian Jingting | Chen Shiyuan | B+R | 2018-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yyduntoOqBtXe2UJdTCYQg%3D%3D) | 
-| 第1回IWMC台湾代表男子選抜戦予選1回戦 | Jian Jingting | Xu Yuqi | W+¼ | 2018-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oclDyoOaCzCxluBHy8D6MQ%3D%3D) | 
-| 第14期国手戦（台湾）8強戦 | Jian Jingting | Chen Qirui | W+R | 2018-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m3ypfdpWYUGxA4aaV%2BUGCA%3D%3D) | 
-| 第11期棋王戦（台湾）リーグ第2節 | Lin Shixun | Jian Jingting | W+R | 2018-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rFgs1ek5s9GJy5ufyMk%2BXw%3D%3D) | 
-| 第11期棋王戦（台湾）リーグ第1節 | Xiao Zhenghao | Jian Jingting | W+R | 2018-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xkh1geZd9UDjgsCiOwOfgQ%3D%3D) | 
-| 第14期国手戦（台湾）16強戦 | Jian Jingting | Lin Shuyang | B+R | 2018-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hXKEcygUVFpomf%2FM37ebvw%3D%3D) | 
-| 第14期国手戦（台湾）2回戦 | Jian Jingting | Yang Mengyun | B+R | 2018-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UaUw0yGlq4Y6mCLObyT41w%3D%3D) | 
-| 第14期国手戦（台湾）1回戦下半区 | Li Wei | Jian Jingting | W+1.5 | 2018-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jZ2OMngbZK94OTFySSwC6g%3D%3D) | 
-| 第6期中環碁聖戦2回戦 | Jian Jingting | Lu Yiquan | W+R | 2018-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1ikcz6%2F5LbHbr2Yn5Ai%2FtQ%3D%3D) | 
-| 第6期中環碁聖戦1回戦上半区 | Jian Jingting | Yu Binghuang | B+R | 2018-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6lP%2BX0cU0Ak4f%2F%2BWBj8g%2FQ%3D%3D) | 
-| 2018年中国囲棋丙級リーグ | Jian Jingting | Lin Shixun | B+R | 2018-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=203KvjJc8binoAkvKtmCPQ%3D%3D) | 
-| 第8期友士杯十段戦敗者復活戦3回戦 | Lin Lixiang | Jian Jingting | B+R | 2018-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rZCPvcvnN2KruflcddDynw%3D%3D) | 
-| 第8期友士杯十段戦敗者復活戦2回戦 | Jian Jingting | Lu Yiquan | B+R | 2018-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KPCBnig3ursdN3s2Caz%2FUQ%3D%3D) | 
-| 第8期友士杯十段戦2回戦 | Lin Shixun | Jian Jingting | B+1.5 | 2018-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yNT4IAt60PvRgBTXK6UmwA%3D%3D) | 
-| 第8期友士杯十段戦1回戦 | missing | Jian Jingting | W+R | 2018-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j7Kl9gnQPwewiaQ1bm5uVA%3D%3D) | 
-| 第8期友士杯十段戦予選 | Zhou Yinnan | Jian Jingting | W+R | 2018-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6VuT8XeTuS2rE%2BWLWXEZFw%3D%3D) | 
-| 第十七回天元戦リーグ第七節 | Xu Yuqi | Jian Jingting | W+R | 2018-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9or8oDKv1ML3cltY4YGD0Q%3D%3D) | 
-| 第十七回天元戦リーグ第六節 | Lin Lixiang | Jian Jingting | W+2.5 | 2018-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gh8cq213lVqS%2BwSQZBrU6A%3D%3D) | 
-| 第十七回天元戦リーグ第五節 | Lin Zhihan | Jian Jingting | W+R | 2018-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iisyI4aITLfdWU4iUSVXQA%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦決勝三番勝負第二局  | Xu Haohong | Jian Jingting | B+R | 2018-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iyP%2BeclGr4DIjQk20Z7Bfg%3D%3D) | 
-| 第十七回天元戦リーグ第四節 | Xiao Zhenghao | Jian Jingting | b+r | 2018-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=takWURDlZxM5Q5Ka2gs%2B3w%3D%3D) | 
-| 第十七回天元戦リーグ第三節 | Yang Bowei | Jian Jingting | B+R | 2018-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tu46t%2FqBF3PtxgH9NCJ8%2Bw%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦決勝三番勝負第一局  | Jian Jingting | Xu Haohong | W+R | 2018-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7NZ1vxasToLXYhE%2FH76oIA%3D%3D) | 
-| 第十七回天元戦リーグ第一節 | Jian Jingting | Lin Shixun | W+0.5 | 2018-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E650PjA2et%2BSiq0QL3l%2B0g%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦準決勝 | Jian Jingting | Lai Junfu | B+R | 2018-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wygxnhb6KJwB4ieHIKuWbw%3D%3D) | 
-| 第十七回天元戦リーグ第二局補戦 | Lin Junyan | Jian Jingting | B+R | 2018-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZvVJO4YmhcMeyP6525f2Tg%3D%3D) | 
-| 第十六回天元戦複戦敗部第四回戦 | Chen Shiyuan | Jian Jingting | W+R | 2018-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I4Q4YftJ35dkUyZzgyRLew%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦8強戦 | Wang Yuanjun | Jian Jingting | W+R | 2018-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s%2F%2FsU6tMzz3HertwyBKIRA%3D%3D) | 
-| 第十六回天元戦複戦敗部第三回戦 | Jian Jingting | Li Wei | B+R | 2018-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vwly7FKZSYbbv9CI7M7IIg%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦16強戦 | Jian Jingting | Hei Jiajia | B+R | 2018-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=07r9oT%2FWKFK4MrCHaCIeqA%3D%3D) | 
-| 第十六回天元戦複戦敗部第二回戦 | missing | Jian Jingting | W+R | 2018-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=In28XGQfCxVrogrribrD7A%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦32強戦 | Ye Hongyuan | Jian Jingting | W+5.5 | 2018-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FPiPutxXo7r62LXQrq%2Bmfw%3D%3D) | 
-| 第十七回天元戦複戦勝部第二回戦 | Jian Jingting | Lin Zhihan | W+R | 2018-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BzlIT2KfsyRNzt3dRr7GMw%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦64強戦 | missing | Jian Jingting | W+R | 2018-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u1wWgRChcqnVv2f19dwdEw%3D%3D) | 
-| 第十七回天元戦複戦勝部第一回戦 | Jian Jingting | Gao Yun | B+R | 2018-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fTSo0rnlVirbCtfPmmqF7A%3D%3D) | 
-| 第6回河燦錫国手杯韓中日台英才戦台湾代表選抜戦第二局 | Lai Junfu | Jian Jingting | B+R | 2018-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SK%2Fbesaf4p64Bo6B6oncCA%3D%3D) | 
-| 第12回春蘭杯台湾予選 | Cai Chengwei | Jian Jingting | W+R | 2018-02-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AaD6dr05Of7ZbSIzFXfXmA%3D%3D) | 
-| 第12回春蘭杯台湾予選 | Jian Jingting | Lin Lixiang | W+R | 2018-02-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Uuwk8uNgBbw0m6bNDCOW%2Bg%3D%3D) | 
-| 第23回LG杯台湾予選 | Jian Jingting | Ding Shaojie | B+R | 2018-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bDGp65XZbJUumWgG%2BoAOxQ%3D%3D) | 
-| 第23回LG杯台湾代表選抜戦予選第二局 | Jian Jingting | Xiao Zhenghao | W+R | 2018-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OPIpzfX72Z3MI%2BI8YuXRnQ%3D%3D) | 
-| 第十七回天元戦予選第三回戦 補戦 | Jian Jingting | Ding Shaojie | B+R | 2018-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L%2B6ask%2BAN9cAHJ5%2F4Df05Q%3D%3D) | 
-| 2018台湾精鋭vs日本精鋭交流戦第4戦  | Jian Jingting | Fujisawa Rina | B+R | 2018-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C4eLPvHwlBqF8gcYI8F7Pg%3D%3D) | 
-| 2018台湾精鋭vs日本精鋭交流戦第3戦 | Jian Jingting | Mutsuura Yuta | W+R | 2018-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FfKkkVmy%2BTfcSfPChXi1dg%3D%3D) | 
-| 第3期未来の星新鋭最強戦16強戦 | Jian Jingting | missing | W+R | 2018-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZLdacTjKAmLJO5F2usL6ZQ%3D%3D) | 
-| 第十五回倡棋杯台湾代表選抜戦予選第三局 | missing | Jian Jingting | W+R | 2018-01-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ff5jwOBSXpRUgipQZTSokg%3D%3D) | 
-| 第十七回天元戦予選第二回戦 | Jian Jingting | Lin Tingyi | B+8.5 | 2018-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i0wRBigiEloofD9owJpxzQ%3D%3D) | 
-| 第3期未来の星新鋭最強戦台湾予選 | Jian Jingting | Lai Junfu | B+R | 2017-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y8PmC6UcMM%2B7FXsLuY0mHQ%3D%3D) | 
-| 第3期未来の星新鋭最強戦台湾予選 | Cai Chengwei | Jian Jingting | W+1.5 | 2017-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F3fD%2FBEuI3pnxYTkwMiokw%3D%3D) | 
-| 第3期未来の星新鋭最強戦台湾予選 | Jian Jingting | Xu Yuqi | B+R | 2017-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m4d7s%2FAG5qYS%2BYOgGylbrw%3D%3D) | 
-| 第10期棋王戦（台湾）プレーオフ | Chen Shiyuan | Jian Jingting | W+R | 2017-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mXfsgG2%2B6f3gwOgPUDULEA%3D%3D) | 
-| 第10期棋王戦（台湾）プレーオフ | Lin Shixun | Jian Jingting | B+R | 2017-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YbEQ%2BabijamQ6nYeRKoL7A%3D%3D) | 
-| 第10期棋王戦（台湾）リーグ | Chen Shiyuan | Jian Jingting | W+0.5 | 2017-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FxzEQX%2BkrmCSO0iJYqWbpQ%3D%3D) | 
-| 第10期棋王戦（台湾）リーグ | Jian Jingting | Chen Qirui | B+R | 2017-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qRwTdkXMylIveLd9X3hQyg%3D%3D) | 
-| 第10期棋王戦（台湾）リーグ | Jian Jingting | Lin Lixiang | B+R | 2017-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FNv6an7%2BE7naQ2P7TO3j5w%3D%3D) | 
-| 第10期棋王戦（台湾）リーグ | Zhou Junxun | Jian Jingting | W+R | 2017-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=17nHMpZAuGPxqha7DYLQug%3D%3D) | 
-| 第10期棋王戦（台湾）リーグ | Lin Shixun | Jian Jingting | B+1.5 | 2017-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lYskuFyogua54IGZu29psQ%3D%3D) | 
-| 第10期棋王戦（台湾）リーグ | Jian Jingting | Lin Junyan | W+R | 2017-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0I0yhAZ%2F0iSRLOAWOAgi7A%3D%3D) | 
-| 第5期中環碁聖戦準決勝 | Xu Haohong | Jian Jingting | B+0.5 | 2017-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R0S9wu2kBsZ5h3Jp6DYMTw%3D%3D) | 
-| 第10期棋王戦（台湾）リーグ | Lin Shuyang | Jian Jingting | B+R | 2017-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WahgQMac258ywdGl0P2PXA%3D%3D) | 
-| 第5期中環碁聖戦8強戦 | Jian Jingting | Chen Shiyuan | B+R | 2017-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wCZnqcD7wjFxbbPuNtsDsQ%3D%3D) | 
-| 第13期国手戦（台湾）8強戦 | Wang Yuanjun | Jian Jingting | B+R | 2017-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FbuKttJyensL1YXR2rYD1g%3D%3D) | 
-| 第13期国手戦（台湾）16強戦 | Yu Lijun | Jian Jingting | W+R | 2017-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YXQ85aHYe%2B7tmgMfIdVHqA%3D%3D) | 
-| 第5期中環碁聖戦16強戦 | Zhang Zhehao | Jian Jingting | W+3.5 | 2017-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xufHsru3aDTRLxQn%2Fi4F4A%3D%3D) | 
-| 第13期国手戦（台湾）第二回戦 | Lin Lixiang | Jian Jingting | W+R | 2017-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WCHzTjqtkiXtH8X8Q06wFQ%3D%3D) | 
-| 第5期中環碁聖戦第二回戦 | Jian Jingting | Zhou Junxun | B+4.5(B+4.5) | 2017-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BtxS%2FSo47Yri18eEfOqCfA%3D%3D) | 
-| 第13期国手戦（台湾）首輪上半区 | Dang Xiyun | Jian Jingting | W+R(W+R) | 2017-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BWiaHVAoT36v3VbBpBh8yg%3D%3D) | 
-| 第5期中環碁聖戦首輪上半区 | Jian Jingting | Zhou Keping | B+R | 2017-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qr7qwDoJhdTHOzATjRoPLg%3D%3D) | 
-| 第四回福蔭杯代表選抜戦決勝敗部第一局 | Jian Jingting | Xiao Zhenghao | W+R | 2017-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X%2Fq2I5kW1ejw%2BUhnWH13wA%3D%3D) | 
-| 第四回福蔭杯代表選抜戦決勝勝部第一局 | Jian Jingting | Xu Haohong | W+R | 2017-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l7DdVzYkl6jpYW6sTsgMHw%3D%3D) | 
-| 第四回福蔭杯国際精鋭囲棋対抗戦代表選抜戦初戦第二局 | Jian Jingting | missing | B+5.5 | 2017-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w2YlzMIokXrdYutShYujrQ%3D%3D) | 
-| 第7期友士杯十段戦敗者復活戦2回戦 | Lin Shixun | Jian Jingting | B+R | 2017-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7sjTFga08tw7egHbRLgR2A%3D%3D) | 
-| 第7期友士杯十段戦2回戦 | Jian Jingting | Chen Qirui | W+R | 2017-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c74ksGYAQzMBUtu92XFbVQ%3D%3D) | 
-| 第7期友士杯十段戦1回戦 | Zhang Zhehao | Jian Jingting | W+R | 2017-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YoDiFbSqYuaoUluIQ%2FLYaA%3D%3D) | 
-| 2017年利民杯台湾選抜戦 | missing | Jian Jingting | B+R | 2017-05-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1OK9hva0zLuwuZxahmQiiQ%3D%3D) | 
-| 第4回グロービス杯世界囲碁U-20グループリーグD | Shibano Toramaru | Jian Jingting | B+R | 2017-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lPsu7zbWVNB9dY%2BoqdDj8w%3D%3D) | 
-| 第4回グロービス杯世界囲碁U-20グループリーグD | Jian Jingting | Hsu Chiayuan | B+R | 2017-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lnH0D3j8qwfJAQngSqRJRA%3D%3D) | 
-| 第4回グロービス杯世界囲碁U-20グループリーグD | Jian Jingting | Shibano Toramaru | W+R | 2017-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p3y%2BK9m86m0jm4%2F1XHZrRw%3D%3D) | 
-| 台湾精鋭日本精鋭交流戦5回戦 | Jian Jingting | Onishi Kenya | W+R | 2017-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2Ut9trhvAhdmkIHkjcqU4g%3D%3D) | 
-| 台湾精鋭日本精鋭交流戦6回戦 | Jian Jingting | Terayama Rei | W+R | 2017-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LqevcogupdR%2FrKluHlzGfA%3D%3D) | 
-| 台湾精鋭日本精鋭交流戦4回戦 | Suzuki Shinji | Jian Jingting | B+R | 2017-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y2H%2B1S%2FlZaibhjK8fkwxFg%3D%3D) | 
-| 台湾精鋭日本精鋭交流戦1回戦 | Chang Rueijie | Jian Jingting | B+R | 2017-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1r%2BJAp8c1%2BXWawxUrnBanw%3D%3D) | 
-| 第三期MLILIY夢百合杯台湾代表選抜戦 初戦第二局 | Li Wei | Jian Jingting | B+R | 2017-01-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sTN5sQqfPDvQhQzUywpKNg%3D%3D) | 
-| 第4回グロービス杯台湾予選 | Jian Jingting | Lin Junyan | B+2.5 | 2017-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vm416lTwCCIyNvlNi7wfbg%3D%3D) | 
-| 第2期未来の星新鋭最強戦 | missing | Jian Jingting | B+R | 2017-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rMPQapZ1UCZDnfekYU5Nyg%3D%3D) | 
-| 第2期未来の星新鋭最強戦 | Jian Jingting | Kim Myounghoon | W+R | 2017-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cKZED3xIKWgq6jEsTwtT%2BA%3D%3D) | 
-| 第2期未来の星新鋭最強戦 | missing | Jian Jingting | W+3.5 | 2017-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F%2FSpOfvamPqBjgHanTR8hw%3D%3D) | 
-| 第2期未来の星新鋭最強戦台湾予選 | Jian Jingting | Chen Qirui | B+R | 2016-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gZKXsm8tEC8aZHCssgjfOw%3D%3D) | 
-| 第2期未来の星新鋭最強戦台湾予選 | Jian Jingting | Xu Yuqi | B+2.5 | 2016-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rOAypFaT66Bq7qBe5csB8A%3D%3D) | 
-| 第6期友士杯十段戦予選 | Jian Jingting | Yang Bowei | W+R | 2016-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZRqAnjz%2FNcMNQqdFHyu05Q%3D%3D) | 
-| 第6期友士杯十段戦予選 | Lin Shimin | Jian Jingting | W+0.5 | 2016-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zP%2FC%2FBfB12LUXZvbfkfjKw%3D%3D) | 
-| 第6期友士杯十段戦予選 | Zhao Peizhe | Jian Jingting | W+R | 2016-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lW%2BoA%2FHhRuN5Qz8mCgqUQA%3D%3D) | 
-| 第6期友士杯十段戦予選 | Jian Jingting | Li Wei | W+R | 2016-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0EHUqdQf1wZMSnJ0Hkv2Sg%3D%3D) | 
-| 第6期友士杯十段戦予選 | Jian Jingting | missing | B+R | 2016-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mRl85hgKisg7apNoJcQh%2Bw%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦決勝三番勝負第3局 | Jian Jingting | Xiao Zhenghao | W+4.5 | 2016-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CKYE9dXMKSQF7rr3MejV%2Fg%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦決勝三番勝負第2局 | Jian Jingting | Xiao Zhenghao | B+R | 2016-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FXA4EL2dfYukGoMbbsNDtQ%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦決勝三番勝負第1局 | Xiao Zhenghao | Jian Jingting | B+0.5 | 2016-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nFL3chr4FROpmyQmutY0pw%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦準決勝 | Jian Jingting | Lin Junyan | B+R | 2016-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GwYKImvSl6Cc3i5zUsehRw%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦8強戦 | Wang Yuanjun | Jian Jingting | W+R | 2016-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kpZC98C3ZoCmMRFRdagk0A%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦16強戦 | Jian Jingting | Chen Qirui | B+R | 2016-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k%2Fsmwoytuo6rxqVnZIV0pA%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦32強戦 | Jian Jingting | Yang Bowei | B+R | 2016-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dx5q7Zng9X9lkW%2B7FErfkQ%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦64強戦 | missing | Jian Jingting | W+R | 2016-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q1Es9M74epLZxIiXLDSYNQ%3D%3D) | 
-| 2016年日台精鋭交流戦第4戦 | Ichiriki Ryo | Jian Jingting | B+R | 2016-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fAkyeqFdR8RKXV%2Fq2Nirtg%3D%3D) | 
-| 第14期天元戦（台湾）予選 | Lin Junyan | Jian Jingting | B+R | 2015-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w%2Fycskc%2Bch0ZpIvNLew0QQ%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦64強決定戦 | Jian Jingting | missing | W+R | 2015-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AZ%2Fv0VOWgDSQfNVpcBCMPg%3D%3D) | 
-| 第14期天元戦（台湾）予選 | Lin Shuyang | Jian Jingting | B+4.5 | 2015-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oS%2BKXyheAkBUValU8eZ7tQ%3D%3D) | 
-| 2015年日台精鋭交流戦第4戦 | Sotoyanagi Sebun | Jian Jingting | B+R | 2015-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aMV4%2FZPPpQlXIYCOsE%2B%2FZA%3D%3D) | 
-| 2015年日台精鋭交流戦第3戦 | Cho Riyu | Jian Jingting | W+R | 2015-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zpcjFiQC9YRzSKr0RJ0pqg%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Li Wei | Jian Jingting | Win | W+R | 6.5 | 3135 | 6 | 
+| 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Jian Jingting | Zhang Zhehao | Win | B+R | 6.5 | 3129 | 28 | 
+| 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Lin Yuting | Jian Jingting | Win | W+R | 6.5 | 3101 | 12 | 
+| 2021-05-10 | 第11期友士杯十段戦敗部2回戦 | Jian Jingting | Chen Qirui | Lose | W+R | 6.5 | 3089 | -10 | 
+| 2021-05-04 | 第20期天元戦（台湾）挑戦手合七番勝負第6局 | Jian Jingting | Wang Yuanjun | Lose | W+R | 6.5 | 3099 | -5 | 
+| 2021-05-03 | 第11期友士杯十段戦敗部1回戦 | Jian Jingting | Lai Junfu | Win | B+R | 6.5 | 3104 | 13 | 
+| 2021-04-27 | 第20期天元戦（台湾）挑戦手合七番勝負第5局 | Wang Yuanjun | Jian Jingting | Lose | B+R | 6.5 | 3091 | -5 | 
+| 2021-04-26 | 第11期友士杯十段戦勝部1回戦 | Li Wei | Jian Jingting | Lose | B+0.5 | 6.5 | 3096 | -4 | 
+| 2021-04-20 | 第20期天元戦（台湾）挑戦手合七番勝負第4局 | Jian Jingting | Wang Yuanjun | Win | B+0.5 | 6.5 | 3100 | 5 | 
+| 2021-04-13 | 第20期天元戦（台湾）挑戦手合七番勝負第3局 | Wang Yuanjun | Jian Jingting | Lose | B+R | 6.5 | 3095 | -19 | 
+| 2021-04-12 | 第11期友士杯十段戦予選 | Chen Xi | Jian Jingting | Win | W+R | 6.5 | 3114 | -22 | 
+| 2021-04-06 | 第20期天元戦（台湾）挑戦手合七番勝負第2局 | Jian Jingting | Wang Yuanjun | Lose | W+R | 6.5 | 3136 | 1 | 
+| 2021-04-01 | 第11期友士杯十段戦予選 |  | Jian Jingting | Win | W+11.5 | 6.5 | 3135 | 0 | 
+| 2021-04-01 | 第11期友士杯十段戦予選 | Jian Jingting | Dang Xiyun | Win | B+R | 6.5 | 3135 | 1 | 
+| 2021-03-31 | 第26回LG杯台湾予選 | Bai Xinhui | Jian Jingting | Lose | B+R | 6.5 | 3134 | 0 | 
+| 2021-03-31 | 第26回LG杯台湾予選 | Jian Jingting | Lu Yiquan | Win | B+R | 6.5 | 3134 | -27 | 
+| 2021-03-30 | 第20期天元戦（台湾）挑戦手合七番勝負第1局 | Wang Yuanjun | Jian Jingting | Win | W+R | 6.5 | 3161 | 28 | 
+| 2021-03-26 | 第17期国手戦（台湾） | Chen Shiyuan | Jian Jingting | Lose | B+R | 6.5 | 3133 | -135 | 
+| 2021-03-12 | 第20期天元戦（台湾）リーグ | Xiao Zhenghao | Jian Jingting | Win | W+R | 6.5 | 3268 | 23 | 
+| 2021-03-11 | 第2期名人冠軍戦2回戦 | Jian Jingting | Chen Shiyuan | Lose | W+R | 6.5 | 3245 | -5 | 
+| 2021-03-09 | 第20期天元戦（台湾）リーグ | Xu Haohong | Jian Jingting | Win | W+R | 6.5 | 3250 | 11 | 
+| 2021-03-08 | 第2期名人冠軍戦1回戦 | Jian Jingting | Chen Qirui | Win | B+R | 6.5 | 3239 | -10 | 
+| 2021-03-05 | 第20期天元戦（台湾）リーグ | Jian Jingting | Lu Yiquan | Win | B+R | 6.5 | 3249 | 10 | 
+| 2021-03-04 | 第2期名人冠軍戦予選 | Jian Jingting |  | Win | B+R | 6.5 | 3239 | 5 | 
+| 2021-03-02 | 第20期天元戦（台湾）リーグ | Jian Jingting | Chen Qirui | Lose | W+R | 6.5 | 3234 | -2 | 
+| 2021-02-26 | 第20期天元戦（台湾）リーグ | Jian Jingting | Lin Lixiang | Win | B+2.5 | 6.5 | 3236 | 7 | 
+| 2021-02-25 | 第2期名人冠軍戦予選 | Jian Jingting |  | Win | B+7.5 | 6.5 | 3229 | -19 | 
+| 2021-02-23 | 第20期天元戦（台湾）リーグ | Jian Jingting | Lai Junfu | Win | B+R | 6.5 | 3248 | 8 | 
+| 2021-02-22 | 第2期名人冠軍戦予選 | Zhou Yinnan | Jian Jingting | Lose | B+R | 6.5 | 3240 | -49 | 
+| 2021-02-19 | 第20期天元戦（台湾）リーグ | Lin Junyan | Jian Jingting | Win | W+R | 6.5 | 3289 | -76 | 
+| 2021-02-04 | 第13回海峰杯プロ囲碁戦決勝三番勝負第2局  | Xu Haohong | Jian Jingting | Lose | B+R | 6.5 | 3365 | -2 | 
+| 2021-02-02 | 第20期天元戦（台湾）敗部4回戦 | Jian Jingting | Chen Xi | Win | B+R | 6.5 | 3367 | 1 | 
+| 2021-02-01 | 第13回海峰杯プロ囲碁戦決勝三番勝負第1局  | Jian Jingting | Xu Haohong | Lose | W+R | 6.5 | 3366 | -4 | 
+| 2021-01-29 | 第20期天元戦（台湾）敗部3回戦 | Lin Shixun | Jian Jingting | Win | W+R | 6.5 | 3370 | 1 | 
+| 2021-01-28 | 第13回海峰杯プロ囲碁戦準決勝 | Jian Jingting | Yang Bowei | Win | B+R | 6.5 | 3369 | 7 | 
+| 2021-01-26 | 第20期天元戦（台湾）敗部2回戦 | Cai Chengwei | Jian Jingting | Win | W+5.5 | 6.5 | 3362 | 5 | 
+| 2021-01-25 | 第13回海峰杯プロ囲碁戦4回戦 | Chen Xi | Jian Jingting | Win | W+R | 6.5 | 3357 | 6 | 
+| 2021-01-22 | 第20期天元戦（台湾）勝部2回戦 | Lu Yiquan | Jian Jingting | Lose | B+R | 6.5 | 3351 | -15 | 
+| 2021-01-21 | 第13回海峰杯プロ囲碁戦3回戦 | Jian Jingting | Li Wei | Win | B+R | 6.5 | 3366 | 32 | 
+| 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Xu Yuqi | Jian Jingting | Win | W+R | 6.5 | 3334 | 39 | 
+| 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 |  | Jian Jingting | Win | W+R | 6.5 | 3295 | 2 | 
+| 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Zhou Keping | Jian Jingting | Win | W+R | 6.5 | 3293 | 18 | 
+| 2020-11-22 | 第8期中環碁聖戦準決勝 | Lin Junyan | Jian Jingting | Lose | B+R | 6.5 | 3275 | 15 | 
+| 2020-11-09 | 第13期棋王戦（台湾）リーグ | Xiao Zhenghao | Jian Jingting | Win | W+R | 6.5 | 3260 | 8 | 
+| 2020-11-05 | 第13期棋王戦（台湾）リーグ  | Jian Jingting | Xu Haohong | Lose | W+R | 6.5 | 3252 | -5 | 
+| 2020-11-02 | 第13期棋王戦（台湾）リーグ  | Jian Jingting | Lin Junyan | Lose | W+R | 6.5 | 3257 | -10 | 
+| 2020-10-29 | 第13期棋王戦（台湾）リーグ  | Jian Jingting | Xu Jingen | Win | B+R | 6.5 | 3267 | -4 | 
+| 2020-10-28 | 第1回UMC聯電杯早碁争覇戦3回戦 | Jian Jingting | Xiao Zhenghao | Lose | W+2.5 | 6.5 | 3271 | -8 | 
+| 2020-10-26 | 第13期棋王戦（台湾）リーグ | Jian Jingting | Chen Qirui | Win | B+R | 6.5 | 3279 | 10 | 
+| 2020-10-25 | 第8期中環碁聖戦準々決勝 | Jian Jingting | Chen Xi | Win | B+R | 6.5 | 3269 | 18 | 
+| 2020-10-22 | 第13期棋王戦（台湾）リーグ | Jian Jingting | Lin Lixiang | Win | B+R | 6.5 | 3251 | 1 | 
+| 2020-10-21 | 第1回UMC聯電杯早碁争覇戦2回戦 | Jian Jingting | Lin Jiehan | Win | B+R | 6.5 | 3250 | -4 | 
+| 2020-10-19 | 第13期棋王戦（台湾）リーグ | Li Wei | Jian Jingting | Win | W+R | 6.5 | 3254 | 6 | 
+| 2020-10-18 | 第8期中環碁聖戦4回戦 | Jian Jingting | Zhang Zhehao | Win | B+R | 6.5 | 3248 | 50 | 
+| 2020-09-22 | 第16期国手戦（台湾）2回戦 | Jian Jingting | Yang Bowei | Lose | W+R | 6.5 | 3198 | -12 | 
+| 2020-09-20 | 第8期中環碁聖戦3回戦 | Jian Jingting | Lin Shuyang | Win | B+4.5 | 6.5 | 3210 | 18 | 
+| 2020-09-13 | 第8期中環碁聖戦2回戦 | Jian Jingting |  | Win | B+R | 6.5 | 3192 | 15 | 
+| 2020-08-30 | 第25回三星火災杯台湾代表選抜戦 | Jian Jingting | Xu Jingen | Lose | W+0.5 | 6.5 | 3177 | -11 | 
+| 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 | Jian Jingting | Cai Chengwei | Win | B+R | 6.5 | 3188 | 125 | 
+| 2020-07-16 | 第1期名人冠軍戦1回戦 | Jian Jingting | Lin Lixiang | Lose | W+R | 6.5 | 3063 | 31 | 
+| 2020-06-15 | 2020新人王戦（台湾）リーグA | Lu Yiquan | Jian Jingting | Win | W+R | 7.5 | 3032 | 8 | 
+| 2020-06-11 | 2020新人王戦（台湾）リーグA | Jian Jingting | Chen Qirui | Lose | W+R | 7.5 | 3024 | 0 | 
+| 2020-06-11 | 2020新人王戦（台湾）リーグA |  | Jian Jingting | Win | W+R | 7.5 | 3024 | -8 | 
+| 2020-06-08 | 2020新人王戦（台湾）リーグA | Xu Jingen | Jian Jingting | Win | W+R | 7.5 | 3032 | 0 | 
+| 2020-06-08 | 2020新人王戦（台湾）リーグA |  | Jian Jingting | Win | W+R | 7.5 | 3032 | 2 | 
+| 2020-06-04 | 2020新人王戦（台湾）リーグA | Jian Jingting | Cai Chengwei | Lose | W+R | 7.5 | 3030 | 0 | 
+| 2020-06-04 | 2020新人王戦（台湾）リーグA |  | Jian Jingting | Win | W+R | 7.5 | 3030 | -7 | 
+| 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Lu Yiquan | Jian Jingting | Lose | B+R | 6.5 | 3037 | 53 | 
+| 2020-04-28 | 第19期天元戦（台湾）リーグ | Jian Jingting | Lin Shixun | Lose | W+R | 6.5 | 2984 | 2 | 
+| 2020-04-21 | 第19期天元戦（台湾）リーグ | Jian Jingting | Lai Junfu | Lose | W+4.5 | 6.5 | 2982 | -8 | 
+| 2020-04-20 | 第10期友士杯十段戦敗部3回戦 | Jian Jingting | Lai Junfu | Lose | W+R | 6.5 | 2990 | -8 | 
+| 2020-04-17 | 日台交流戦第2戦 | Ida Atsushi | Jian Jingting | Win | W+R | 6.5 | 2998 | 0 | 
+| 2020-04-17 | 日台交流戦第1戦 | Motoki Katsuya | Jian Jingting | Win | W+R | 6.5 | 2998 | 28 | 
+| 2020-04-16 | 第10期友士杯十段戦敗部2回戦 | Lin Shixun | Jian Jingting | Win | W+1.5 | 6.5 | 2970 | 23 | 
+| 2020-04-14 | 第19期天元戦（台湾）リーグ | Chen Shiyuan | Jian Jingting | Lose | B+R | 6.5 | 2947 | -9 | 
+| 2020-04-13 | 第10期友士杯十段戦勝部2回戦 | Lin Junyan | Jian Jingting | Lose | B+R | 6.5 | 2956 | 18 | 
+| 2020-04-09 | 第10期友士杯十段戦勝部1回戦 | Xiao Zhenghao | Jian Jingting | Win | W+0.5 | 6.5 | 2938 | 27 | 
+| 2020-04-07 | 第19期天元戦（台湾）リーグ | Chen Qirui | Jian Jingting | Lose | B+2.5 | 6.5 | 2911 | -1 | 
+| 2020-03-31 | 第19期天元戦（台湾）リーグ | Wang Yuanjun | Jian Jingting | Win | W+R | 6.5 | 2912 | 16 | 
+| 2020-03-24 | 第19期天元戦（台湾）リーグ | Xiao Zhenghao | Jian Jingting | Win | W+R | 6.5 | 2896 | 23 | 
+| 2020-03-19 | 第10期友士杯十段戦予選勝部決勝 |  | Jian Jingting | Win | W+R | 6.5 | 2873 | -16 | 
+| 2020-03-17 | 第19期天元戦（台湾）リーグ | Jian Jingting | Xu Haohong | Win | B+R | 6.5 | 2889 | 20 | 
+| 2020-03-12 | 第10期友士杯十段戦予選勝部2回戦 |  | Jian Jingting | Win | W+R | 6.5 | 2869 | 0 | 
+| 2020-03-12 | 第10期友士杯十段戦予選勝部1回戦 | Jian Jingting |  | Win | B+R | 6.5 | 2869 | -17 | 
+| 2020-03-05 | 第12回海峰杯プロ囲碁戦8強戦 | Lai Junfu | Jian Jingting | Lose | B+0.5 | 6.5 | 2886 | -7 | 
+| 2020-03-02 | 第12回海峰杯プロ囲碁戦16強戦 |  | Jian Jingting | Win | W+R | 6.5 | 2893 | 6 | 
+| 2020-02-26 | 第25回LG杯台湾代表選抜戦 | Jian Jingting | Xu Haohong | Lose | W+R | 6.5 | 2887 | -12 | 
+| 2020-02-25 | 第19期天元戦（台湾）勝部3回戦 | Jian Jingting | Chen Qirui | Win | B+R | 6.5 | 2899 | 10 | 
+| 2020-02-24 | 第12回海峰杯プロ囲碁戦32強戦 | Zhang Kaixin | Jian Jingting | Win | W+R | 6.5 | 2889 | 5 | 
+| 2020-02-23 | 第25回LG杯台湾代表選抜戦 | Lin Junyan | Jian Jingting | Win | W+0.5 | 6.5 | 2884 | 36 | 
+| 2020-02-21 | 第25回LG杯台湾代表選抜戦 | Jian Jingting | Lin Jiehan | Win | B+R | 6.5 | 2848 | 3 | 
+| 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Liu Yifang | Jian Jingting | Win | W+R | 6.5 | 2845 | -6 | 
+| 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Jian Jingting | Bai Xinhui | Win | B+R | 6.5 | 2851 | -2 | 
+| 2020-02-18 | 第19期天元戦（台湾）勝部2回戦 | Li Wei | Jian Jingting | Win | W+R | 6.5 | 2853 | -143 | 
+| 2020-02-13 | 第1期名人冠軍戦予選勝部決勝 | Jian Jingting |  | Win | B+R | 6.5 | 2996 | -101 | 
+| 2020-02-11 | 第19期天元戦（台湾）勝部1回戦 | Lu Yiquan | Jian Jingting | Win | W+R | 6.5 | 3097 | 11 | 
+| 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Jian Jingting | Li Wei | Win | B+R | 6.5 | 3086 | -13 | 
+| 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第5戦 | Jian Jingting | Murakawa Daisuke | Lose | W+1.5 | 6.5 | 3099 | -38 | 
+| 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第3戦 | Jian Jingting | Fujisawa Rina | Lose | W+1.5 | 6.5 | 3137 | -32 | 
+| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第1戦 | Chang Rueijie | Jian Jingting | Win | W+R | 6.5 | 3169 | 33 | 
+| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Jian Jingting | Li Wei | Lose | W+1 | 7.5 | 3136 | 285 | 
+| 2019-12-24 | 第13回春蘭杯台湾予選 |  | Jian Jingting | Lose | B+R | 7.5 | 2851 | -17 | 
+| 2019-12-20 | 第13回春蘭杯台湾予選 | Jian Jingting | Xu Yuqi | Win | B+R | 7.5 | 2868 | -11 | 
+| 2019-12-02 | 第12期棋王戦（台湾）リーグ | Chen Qirui | Jian Jingting | Lose | B+R | 6.5 | 2879 | 2 | 
+| 2019-11-28 | 第12期棋王戦（台湾）リーグ  | Wang Yuanjun | Jian Jingting | Lose | B+R | 6.5 | 2877 | 2 | 
+| 2019-11-25 | 第12期棋王戦（台湾）リーグ | Xu Haohong | Jian Jingting | Win | W+R | 6.5 | 2875 | 2 | 
+| 2019-11-21 | 第12期棋王戦（台湾）リーグ  | Li Wei | Jian Jingting | Win | W+1.5 | 6.5 | 2873 | 4 | 
+| 2019-11-19 | 2019年関西棋院VS台湾棋院交流戦第1戦 | Takashima Yugo | Jian Jingting | Win | W+R | 6.5 | 2869 | -5 | 
+| 2019-11-18 | 第12期棋王戦（台湾）リーグ | Chen Shiyuan | Jian Jingting | Win | W+0.5 | 6.5 | 2874 | 8 | 
+| 2019-11-14 | 第12期棋王戦（台湾）リーグ | Jian Jingting | Lin Lixiang | Lose | W+R | 6.5 | 2866 | -12 | 
+| 2019-11-13 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第6戦 | Song Jihoon | Jian Jingting | Lose | B+R | 6.5 | 2878 | 0 | 
+| 2019-11-13 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第5戦 | Weon Seongjin | Jian Jingting | Lose | B+R | 6.5 | 2878 | -5 | 
+| 2019-11-11 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第1戦 | Jian Jingting | Park Geunho | Lose | W+R | 6.5 | 2883 | -9 | 
+| 2019-11-08 | 2019新人王戦（台湾）リーグA |  | Jian Jingting | Win | W+R | 7.5 | 2892 | 10 | 
+| 2019-11-06 | 2019新人王戦（台湾）リーグA | Jian Jingting |  | Win | B+R | 7.5 | 2882 | 0 | 
+| 2019-11-06 | 2019新人王戦（台湾）リーグA | Yang Bowei | Jian Jingting | Win | W+R | 7.5 | 2882 | 22 | 
+| 2019-11-03 | 第7期中環碁聖戦決勝三番勝負第2局 | Xu Haohong | Jian Jingting | Lose | B+R | 6.5 | 2860 | -2 | 
+| 2019-10-27 | 第7期中環碁聖戦決勝三番勝負第1局 | Jian Jingting | Xu Haohong | Lose | W+R | 6.5 | 2862 | -2 | 
+| 2019-10-25 | 2019新人王戦（台湾）リーグA | Yu Lijun | Jian Jingting | Win | W+R | 7.5 | 2864 | 0 | 
+| 2019-10-25 | 2019新人王戦（台湾）リーグA | Jian Jingting | Lu Yiquan | Lose | W+R | 7.5 | 2864 | -2 | 
+| 2019-10-23 | 2019新人王戦（台湾）リーグA | Cai Chengwei | Jian Jingting | Win | W+1¼ | 7.5 | 2866 | 2 | 
+| 2019-10-17 | 第12期棋王戦（台湾）リーグ | Jian Jingting | Xu Yuqi | Win | B+R | 6.5 | 2864 | 10 | 
+| 2019-10-09 | 第7期中環碁聖戦準決勝 | Lin Shixun | Jian Jingting | Win | W+R | 6.5 | 2854 | -2 | 
+| 2019-10-08 | 第15期国手戦（台湾）4回戦 | Jian Jingting | Chen Shiyuan | Lose | W+R | 6.5 | 2856 | -11 | 
+| 2019-10-04 | 第15期国手戦（台湾）3回戦 | Jian Jingting |  | Win | B+R | 6.5 | 2867 | 20 | 
+| 2019-09-29 | 第7期中環碁聖戦4回戦 | Yang Bowei | Jian Jingting | Win | W+R | 6.5 | 2847 | 1 | 
+| 2019-09-27 | 第15期国手戦（台湾）2回戦 | Zhou Keping | Jian Jingting | Win | W+R | 6.5 | 2846 | -13 | 
+| 2019-09-22 | 第7期中環碁聖戦3回戦 | Jian Jingting | Zhang Zhehao | Win | B+R | 6.5 | 2859 | 41 | 
+| 2019-09-17 | 第15期国手戦（台湾）1回戦 | Lin Shuyang | Jian Jingting | Win | W+R | 6.5 | 2818 | 24 | 
+| 2019-09-15 | 第7期中環碁聖戦2回戦 |  | Jian Jingting | Win | W+R | 6.5 | 2794 | 10 | 
+| 2019-09-01 | 第7期中環碁聖戦1回戦 | Jian Jingting | Lin Ziyuan | Win | B+R | 6.5 | 2784 | -34 | 
+| 2019-05-27 | 第9期友士杯十段戦敗部3回戦 | Lin Shixun | Jian Jingting | Lose | B+R | 6.5 | 2818 | -52 | 
+| 2019-05-09 | 第9期友士杯十段戦敗部2回戦 | Chen Shiyuan | Jian Jingting | Win | W+0.5 | 6.5 | 2870 | -1 | 
+| 2019-05-06 | 第9期友士杯十段戦勝部2回戦 | Chen Qirui | Jian Jingting | Lose | B+R | 6.5 | 2871 | -12 | 
+| 2019-05-02 | 第9期友士杯十段戦勝部1回戦 | Jian Jingting | Yu Lijun | Win | B+R | 6.5 | 2883 | -44 | 
+| 2019-04-16 | 第18期天元戦（台湾）リーグ | Xiao Zhenghao | Jian Jingting | Lose | B+R | 6.5 | 2927 | 2 | 
+| 2019-04-12 | 第18期天元戦（台湾）リーグ | Jian Jingting | Chen Shiyuan | Win | B+R | 6.5 | 2925 | -1 | 
+| 2019-04-10 | 第9期友士杯十段戦予選勝部決勝 | Jian Jingting | Ye Hongyuan | Win | B+R | 6.5 | 2926 | 12 | 
+| 2019-04-09 | 第18期天元戦（台湾）リーグ | Jian Jingting | Xu Haohong | Lose | W+R | 6.5 | 2914 | -1 | 
+| 2019-04-08 | 第9期友士杯十段戦予選勝部準決勝 | Jian Jingting | Chen Feng | Win | B+R | 6.5 | 2915 | 8 | 
+| 2019-03-29 | 第18期天元戦（台湾）リーグ | Jian Jingting | Chen Qirui | Lose | W+R | 6.5 | 2907 | 1 | 
+| 2019-03-26 | 第18期天元戦（台湾）リーグ | Jian Jingting | Yang Bowei | Win | B+R | 6.5 | 2906 | 2 | 
+| 2019-03-22 | 第18期天元戦（台湾）リーグ | Lin Junyan | Jian Jingting | Lose | B+R | 6.5 | 2904 | -20 | 
+| 2019-03-19 | 第18期天元戦（台湾）リーグ | Jian Jingting | Lin Shixun | Win | B+R | 6.5 | 2924 | 12 | 
+| 2019-03-14 | 第11回海峰杯プロ囲碁戦8強戦 | Jian Jingting | Lin Zhihan | Lose | W+R | 6.5 | 2912 | -5 | 
+| 2019-03-11 | 第11回海峰杯プロ囲碁戦16強戦 | Jian Jingting | Lai Junfu | Win | B+R | 6.5 | 2917 | 19 | 
+| 2019-03-07 | 第11回海峰杯プロ囲碁戦32強戦 | Jian Jingting | Lin Xiuping | Win | B+R | 6.5 | 2898 | -9 | 
+| 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 |  | Jian Jingting | Win | W+R | 6.5 | 2907 | 11 | 
+| 2019-02-27 | 第6回グロービス杯台湾予選 | Chen Qirui | Jian Jingting | Lose | B+R | 6.5 | 2896 | 0 | 
+| 2019-02-27 | 第6回グロービス杯台湾予選 | Huang Shiyuan | Jian Jingting | Win | W+R | 6.5 | 2896 | -11 | 
+| 2019-02-26 | 第18期天元戦（台湾）勝部3回戦 | Lai Junfu | Jian Jingting | Win | W+R | 6.5 | 2907 | -22 | 
+| 2019-02-19 | 第18期天元戦（台湾）勝部2回戦 | Lin Shuyang | Jian Jingting | Win | W+R | 6.5 | 2929 | 4 | 
+| 2019-02-12 | 第18期天元戦（台湾）勝部1回戦 | Jian Jingting |  | Win | B+R | 6.5 | 2925 | 44 | 
+| 2019-01-21 | 2019台湾精鋭vs日本精鋭交流戦第5戦 | Jian Jingting | Koike Yoshihiro | Win | B+R | 6.5 | 2881 | 6 | 
+| 2019-01-19 | 2019台湾精鋭vs日本精鋭交流戦第3戦 | Hsu Chiayuan | Jian Jingting | Lose | B+R | 6.5 | 2875 | -4 | 
+| 2019-01-18 | 2019台湾精鋭vs日本精鋭交流戦第2戦 | Hirose Yuichi | Jian Jingting | Lose | B+5.5 | 6.5 | 2879 | 12 | 
+| 2018-12-19 | 三英戦呂布新鋭邀請戦第2戦  | Jian Jingting | Hsu Chiayuan | Lose | W+R | 6.5 | 2867 | -51 | 
+| 2018-11-30 | 2018年新人王戦（台湾）リーグA | Jian Jingting | Lai Junfu | Lose | W+1¼ | 7.5 | 2918 | -10 | 
+| 2018-11-28 | 2018年新人王戦（台湾）リーグA | Lu Yiquan | Jian Jingting | Win | W+R | 7.5 | 2928 | 0 | 
+| 2018-11-28 | 2018年新人王戦（台湾）リーグA | Jian Jingting | Xu Yuqi | Lose | W+R | 7.5 | 2928 | -13 | 
+| 2018-11-23 | 2018年新人王戦（台湾）リーグA |  | Jian Jingting | Win | W+R | 7.5 | 2941 | 0 | 
+| 2018-11-23 | 2018年新人王戦（台湾）リーグA | Cai Chengwei | Jian Jingting | Win | W+R | 7.5 | 2941 | -8 | 
+| 2018-11-22 | 2018年新人王戦（台湾）リーグA | Jian Jingting |  | Win | B+R | 7.5 | 2949 | 0 | 
+| 2018-11-22 | 2018年新人王戦（台湾）リーグA | Huang Shiyuan | Jian Jingting | Win | W+R | 7.5 | 2949 | -13 | 
+| 2018-11-14 | 2018年台湾精鋭vs韓国交流戦第6戦 | Lee Jihyun | Jian Jingting | Lose | B+R | 6.5 | 2962 | 0 | 
+| 2018-11-14 | 2018年台湾精鋭vs韓国交流戦第5戦 | Park Hyunsoo | Jian Jingting | Win | W+3.5 | 6.5 | 2962 | 4 | 
+| 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第4戦 | Song Jihoon | Jian Jingting | Lose | B+R | 6.5 | 2958 | 7 | 
+| 2018-11-08 | 第11期棋王戦（台湾）リーグ第7節  | Jian Jingting | Xu Haohong | Lose | W+R | 6.5 | 2951 | -26 | 
+| 2018-11-05 | 第11期棋王戦（台湾）リーグ第6節 | Jian Jingting | Lin Lixiang | Lose | W+4.5 | 6.5 | 2977 | -14 | 
+| 2018-11-01 | 第11期棋王戦（台湾）リーグ第5節  | Wang Yuanjun | Jian Jingting | Win | W+R | 6.5 | 2991 | 11 | 
+| 2018-10-29 | 第11期棋王戦（台湾）リーグ第4節 | Jian Jingting | Chen Qirui | Lose | W+R | 6.5 | 2980 | 10 | 
+| 2018-10-25 | 第11期棋王戦（台湾）リーグ第3節 | Jian Jingting | Chen Shiyuan | Win | B+R | 6.5 | 2970 | 14 | 
+| 2018-10-24 | 第1回IWMC台湾代表男子選抜戦予選1回戦 | Jian Jingting | Xu Yuqi | Lose | W+¼ | 7.5 | 2956 | -10 | 
+| 2018-10-23 | 第14期国手戦（台湾）8強戦 | Jian Jingting | Chen Qirui | Lose | W+R | 6.5 | 2966 | 6 | 
+| 2018-10-22 | 第11期棋王戦（台湾）リーグ第2節 | Lin Shixun | Jian Jingting | Win | W+R | 6.5 | 2960 | 9 | 
+| 2018-10-18 | 第11期棋王戦（台湾）リーグ第1節 | Xiao Zhenghao | Jian Jingting | Win | W+R | 6.5 | 2951 | 14 | 
+| 2018-10-09 | 第14期国手戦（台湾）16強戦 | Jian Jingting | Lin Shuyang | Win | B+R | 6.5 | 2937 | 3 | 
+| 2018-10-02 | 第14期国手戦（台湾）2回戦 | Jian Jingting | Yang Mengyun | Win | B+R | 6.5 | 2934 | -24 | 
+| 2018-09-25 | 第14期国手戦（台湾）1回戦下半区 | Li Wei | Jian Jingting | Win | W+1.5 | 6.5 | 2958 | -16 | 
+| 2018-09-16 | 第6期中環碁聖戦2回戦 | Jian Jingting | Lu Yiquan | Lose | W+R | 6.5 | 2974 | -48 | 
+| 2018-09-02 | 第6期中環碁聖戦1回戦上半区 | Jian Jingting | Yu Binghuang | Win | B+R | 6.5 | 3022 | 105 | 
+| 2018-06-16 | 2018年中国囲棋丙級リーグ | Jian Jingting | Lin Shixun | Win | B+R | 7.5 | 2917 | 57 | 
+| 2018-05-31 | 第8期友士杯十段戦敗者復活戦3回戦 | Lin Lixiang | Jian Jingting | Lose | B+R | 6.5 | 2860 | -19 | 
+| 2018-05-28 | 第8期友士杯十段戦敗者復活戦2回戦 | Jian Jingting | Lu Yiquan | Win | B+R | 6.5 | 2879 | 9 | 
+| 2018-05-24 | 第8期友士杯十段戦2回戦 | Lin Shixun | Jian Jingting | Lose | B+1.5 | 6.5 | 2870 | -27 | 
+| 2018-05-21 | 第8期友士杯十段戦1回戦 |  | Jian Jingting | Win | W+R | 6.5 | 2897 | 28 | 
+| 2018-05-07 | 第8期友士杯十段戦予選 | Zhou Yinnan | Jian Jingting | Win | W+R | 6.5 | 2869 | 2 | 
+| 2018-05-04 | 第十七回天元戦リーグ第七節 | Xu Yuqi | Jian Jingting | Win | W+R | 6.5 | 2867 | 15 | 
+| 2018-05-01 | 第十七回天元戦リーグ第六節 | Lin Lixiang | Jian Jingting | Win | W+2.5 | 6.5 | 2852 | 12 | 
+| 2018-04-27 | 第十七回天元戦リーグ第五節 | Lin Zhihan | Jian Jingting | Win | W+R | 6.5 | 2840 | 8 | 
+| 2018-04-26 | 第10回海峰杯プロ囲碁戦決勝三番勝負第二局  | Xu Haohong | Jian Jingting | Lose | B+R | 6.5 | 2832 | -7 | 
+| 2018-04-24 | 第十七回天元戦リーグ第四節 | Xiao Zhenghao | Jian Jingting | Lose | b+r | 6.5 | 2839 | -1 | 
+| 2018-04-20 | 第十七回天元戦リーグ第三節 | Yang Bowei | Jian Jingting | Lose | B+R | 6.5 | 2840 | -10 | 
+| 2018-04-16 | 第10回海峰杯プロ囲碁戦決勝三番勝負第一局  | Jian Jingting | Xu Haohong | Lose | W+R | 6.5 | 2850 | -6 | 
+| 2018-04-13 | 第十七回天元戦リーグ第一節 | Jian Jingting | Lin Shixun | Lose | W+0.5 | 6.5 | 2856 | -16 | 
+| 2018-04-12 | 第10回海峰杯プロ囲碁戦準決勝 | Jian Jingting | Lai Junfu | Win | B+R | 6.5 | 2872 | 7 | 
+| 2018-04-10 | 第十七回天元戦リーグ第二局補戦 | Lin Junyan | Jian Jingting | Lose | B+R | 6.5 | 2865 | -54 | 
+| 2018-03-27 | 第十六回天元戦複戦敗部第四回戦 | Chen Shiyuan | Jian Jingting | Win | W+R | 6.5 | 2919 | -18 | 
+| 2018-03-22 | 第10回海峰杯プロ囲碁戦8強戦 | Wang Yuanjun | Jian Jingting | Win | W+R | 6.5 | 2937 | 17 | 
+| 2018-03-20 | 第十六回天元戦複戦敗部第三回戦 | Jian Jingting | Li Wei | Win | B+R | 6.5 | 2920 | 12 | 
+| 2018-03-19 | 第10回海峰杯プロ囲碁戦16強戦 | Jian Jingting | Hei Jiajia | Win | B+R | 6.5 | 2908 | -56 | 
+| 2018-03-13 | 第十六回天元戦複戦敗部第二回戦 |  | Jian Jingting | Win | W+R | 6.5 | 2964 | 39 | 
+| 2018-03-08 | 第10回海峰杯プロ囲碁戦32強戦 | Ye Hongyuan | Jian Jingting | Win | W+5.5 | 6.5 | 2925 | -35 | 
+| 2018-03-06 | 第十七回天元戦複戦勝部第二回戦 | Jian Jingting | Lin Zhihan | Lose | W+R | 6.5 | 2960 | -11 | 
+| 2018-03-01 | 第10回海峰杯プロ囲碁戦64強戦 |  | Jian Jingting | Win | W+R | 6.5 | 2971 | -1 | 
+| 2018-02-27 | 第十七回天元戦複戦勝部第一回戦 | Jian Jingting | Gao Yun | Win | B+R | 6.5 | 2972 | 44 | 
+| 2018-02-12 | 第6回河燦錫国手杯韓中日台英才戦台湾代表選抜戦第二局 | Lai Junfu | Jian Jingting | Lose | B+R | 6.5 | 2928 | -16 | 
+| 2018-02-06 | 第12回春蘭杯台湾予選 | Cai Chengwei | Jian Jingting | Win | W+R | 7.5 | 2944 | 0 | 
+| 2018-02-06 | 第12回春蘭杯台湾予選 | Jian Jingting | Lin Lixiang | Lose | W+R | 7.5 | 2944 | 3 | 
+| 2018-01-25 | 第23回LG杯台湾予選 | Jian Jingting | Ding Shaojie | Win | B+R | 6.5 | 2941 | 0 | 
+| 2018-01-25 | 第23回LG杯台湾代表選抜戦予選第二局 | Jian Jingting | Xiao Zhenghao | Lose | W+R | 6.5 | 2941 | -11 | 
+| 2018-01-23 | 第十七回天元戦予選第三回戦 補戦 | Jian Jingting | Ding Shaojie | Win | B+R | 6.5 | 2952 | 7 | 
+| 2018-01-22 | 2018台湾精鋭vs日本精鋭交流戦第4戦  | Jian Jingting | Fujisawa Rina | Win | B+R | 6.5 | 2945 | 0 | 
+| 2018-01-22 | 2018台湾精鋭vs日本精鋭交流戦第3戦 | Jian Jingting | Mutsuura Yuta | Lose | W+R | 6.5 | 2945 | 66 | 
+| 2018-01-16 | 第3期未来の星新鋭最強戦16強戦 | Jian Jingting |  | Lose | W+R | 6.5 | 2879 | -19 | 
+| 2018-01-10 | 第十五回倡棋杯台湾代表選抜戦予選第三局 |  | Jian Jingting | Win | W+R | 7.5 | 2898 | 9 | 
+| 2018-01-09 | 第十七回天元戦予選第二回戦 | Jian Jingting | Lin Tingyi | Win | B+8.5 | 6.5 | 2889 | 30 | 
+| 2017-11-27 | 第3期未来の星新鋭最強戦台湾予選 | Jian Jingting | Lai Junfu | Win | B+R | 6.5 | 2859 | 4 | 
+| 2017-11-24 | 第3期未来の星新鋭最強戦台湾予選 | Cai Chengwei | Jian Jingting | Win | W+1.5 | 6.5 | 2855 | 5 | 
+| 2017-11-23 | 第3期未来の星新鋭最強戦台湾予選 | Jian Jingting | Xu Yuqi | Win | B+R | 6.5 | 2850 | 29 | 
+| 2017-11-16 | 第10期棋王戦（台湾）プレーオフ | Chen Shiyuan | Jian Jingting | Win | W+R | 6.5 | 2821 | 9 | 
+| 2017-11-13 | 第10期棋王戦（台湾）プレーオフ | Lin Shixun | Jian Jingting | Lose | B+R | 6.5 | 2812 | -26 | 
+| 2017-11-09 | 第10期棋王戦（台湾）リーグ | Chen Shiyuan | Jian Jingting | Win | W+0.5 | 6.5 | 2838 | 15 | 
+| 2017-11-06 | 第10期棋王戦（台湾）リーグ | Jian Jingting | Chen Qirui | Win | B+R | 6.5 | 2823 | 7 | 
+| 2017-11-02 | 第10期棋王戦（台湾）リーグ | Jian Jingting | Lin Lixiang | Win | B+R | 6.5 | 2816 | 18 | 
+| 2017-10-30 | 第10期棋王戦（台湾）リーグ | Zhou Junxun | Jian Jingting | Win | W+R | 6.5 | 2798 | -2 | 
+| 2017-10-26 | 第10期棋王戦（台湾）リーグ | Lin Shixun | Jian Jingting | Lose | B+1.5 | 6.5 | 2800 | -13 | 
+| 2017-10-23 | 第10期棋王戦（台湾）リーグ | Jian Jingting | Lin Junyan | Lose | W+R | 6.5 | 2813 | -8 | 
+| 2017-10-22 | 第5期中環碁聖戦準決勝 | Xu Haohong | Jian Jingting | Lose | B+0.5 | 6.5 | 2821 | -8 | 
+| 2017-10-19 | 第10期棋王戦（台湾）リーグ | Lin Shuyang | Jian Jingting | Lose | B+R | 6.5 | 2829 | -20 | 
+| 2017-10-15 | 第5期中環碁聖戦8強戦 | Jian Jingting | Chen Shiyuan | Win | B+R | 6.5 | 2849 | 70 | 
+| 2017-10-03 | 第13期国手戦（台湾）8強戦 | Wang Yuanjun | Jian Jingting | Lose | B+R | 6.5 | 2779 | -16 | 
+| 2017-09-26 | 第13期国手戦（台湾）16強戦 | Yu Lijun | Jian Jingting | Win | W+R | 6.5 | 2795 | -5 | 
+| 2017-09-24 | 第5期中環碁聖戦16強戦 | Zhang Zhehao | Jian Jingting | Win | W+3.5 | 6.5 | 2800 | 4 | 
+| 2017-09-19 | 第13期国手戦（台湾）第二回戦 | Lin Lixiang | Jian Jingting | Win | W+R | 6.5 | 2796 | 53 | 
+| 2017-09-17 | 第5期中環碁聖戦第二回戦 | Jian Jingting | Zhou Junxun | Win | B+4.5(B+4.5) | 6.5 | 2743 | 44 | 
+| 2017-09-05 | 第13期国手戦（台湾）首輪上半区 | Dang Xiyun | Jian Jingting | Win | W+R(W+R) | 6.5 | 2699 | 6 | 
+| 2017-09-03 | 第5期中環碁聖戦首輪上半区 | Jian Jingting | Zhou Keping | Win | B+R | 6.5 | 2693 | -5 | 
+| 2017-08-31 | 第四回福蔭杯代表選抜戦決勝敗部第一局 | Jian Jingting | Xiao Zhenghao | Lose | W+R | 6.5 | 2698 | -8 | 
+| 2017-08-29 | 第四回福蔭杯代表選抜戦決勝勝部第一局 | Jian Jingting | Xu Haohong | Lose | W+R | 6.5 | 2706 | -13 | 
+| 2017-08-25 | 第四回福蔭杯国際精鋭囲棋対抗戦代表選抜戦初戦第二局 | Jian Jingting |  | Win | B+5.5 | 6.5 | 2719 | 37 | 
+| 2017-06-05 | 第7期友士杯十段戦敗者復活戦2回戦 | Lin Shixun | Jian Jingting | Lose | B+R | 6.5 | 2682 | 9 | 
+| 2017-06-02 | 第7期友士杯十段戦2回戦 | Jian Jingting | Chen Qirui | Lose | W+R | 6.5 | 2673 | -39 | 
+| 2017-05-31 | 第7期友士杯十段戦1回戦 | Zhang Zhehao | Jian Jingting | Win | W+R | 6.5 | 2712 | 5 | 
+| 2017-05-26 | 2017年利民杯台湾選抜戦 |  | Jian Jingting | Lose | B+R | 7.5 | 2707 | -70 | 
+| 2017-04-22 | 第4回グロービス杯世界囲碁U-20グループリーグD | Shibano Toramaru | Jian Jingting | Lose | B+R | 6.5 | 2777 | -6 | 
+| 2017-04-21 | 第4回グロービス杯世界囲碁U-20グループリーグD | Jian Jingting | Hsu Chiayuan | Win | B+R | 6.5 | 2783 | 0 | 
+| 2017-04-21 | 第4回グロービス杯世界囲碁U-20グループリーグD | Jian Jingting | Shibano Toramaru | Lose | W+R | 6.5 | 2783 | 114 | 
+| 2017-01-21 | 台湾精鋭日本精鋭交流戦5回戦 | Jian Jingting | Onishi Kenya | Lose | W+R | 6.5 | 2669 | 0 | 
+| 2017-01-21 | 台湾精鋭日本精鋭交流戦6回戦 | Jian Jingting | Terayama Rei | Lose | W+R | 6.5 | 2669 | -56 | 
+| 2017-01-20 | 台湾精鋭日本精鋭交流戦4回戦 | Suzuki Shinji | Jian Jingting | Lose | B+R | 6.5 | 2725 | -33 | 
+| 2017-01-19 | 台湾精鋭日本精鋭交流戦1回戦 | Chang Rueijie | Jian Jingting | Lose | B+R | 6.5 | 2758 | -72 | 
+| 2017-01-18 | 第三期MLILIY夢百合杯台湾代表選抜戦 初戦第二局 | Li Wei | Jian Jingting | Lose | B+R | 7.5 | 2830 | -28 | 
+| 2017-01-16 | 第4回グロービス杯台湾予選 | Jian Jingting | Lin Junyan | Win | B+2.5 | 6.5 | 2858 | 14 | 
+| 2017-01-09 | 第2期未来の星新鋭最強戦 |  | Jian Jingting | Lose | B+R | 6.5 | 2844 | -1 | 
+| 2017-01-08 | 第2期未来の星新鋭最強戦 | Jian Jingting | Kim Myounghoon | Lose | W+R | 6.5 | 2845 | -18 | 
+| 2017-01-07 | 第2期未来の星新鋭最強戦 |  | Jian Jingting | Win | W+3.5 | 6.5 | 2863 | -22 | 
+| 2016-11-27 | 第2期未来の星新鋭最強戦台湾予選 | Jian Jingting | Chen Qirui | Win | B+R | 6.5 | 2885 | 15 | 
+| 2016-11-26 | 第2期未来の星新鋭最強戦台湾予選 | Jian Jingting | Xu Yuqi | Win | B+2.5 | 6.5 | 2870 | -11 | 
+| 2016-05-30 | 第6期友士杯十段戦予選 | Jian Jingting | Yang Bowei | Lose | W+R | 6.5 | 2881 | -39 | 
+| 2016-05-20 | 第6期友士杯十段戦予選 | Lin Shimin | Jian Jingting | Win | W+0.5 | 6.5 | 2920 | 0 | 
+| 2016-05-20 | 第6期友士杯十段戦予選 | Zhao Peizhe | Jian Jingting | Win | W+R | 6.5 | 2920 | 70 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Jian Jingting | Li Wei | Lose | W+R | 6.5 | 2850 | 0 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Jian Jingting |  | Win | B+R | 6.5 | 2850 | -47 | 
+| 2016-05-16 | 第8回海峰杯プロ囲碁戦決勝三番勝負第3局 | Jian Jingting | Xiao Zhenghao | Lose | W+4.5 | 6.5 | 2897 | -117 | 
+| 2016-05-12 | 第8回海峰杯プロ囲碁戦決勝三番勝負第2局 | Jian Jingting | Xiao Zhenghao | Win | B+R | 6.5 | 3014 | 47 | 
+| 2016-05-09 | 第8回海峰杯プロ囲碁戦決勝三番勝負第1局 | Xiao Zhenghao | Jian Jingting | Lose | B+0.5 | 6.5 | 2967 | -100 | 
+| 2016-05-05 | 第8回海峰杯プロ囲碁戦準決勝 | Jian Jingting | Lin Junyan | Win | B+R | 6.5 | 3067 | 149 | 
+| 2016-04-14 | 第8回海峰杯プロ囲碁戦8強戦 | Wang Yuanjun | Jian Jingting | Win | W+R | 6.5 | 2918 | 105 | 
+| 2016-04-11 | 第8回海峰杯プロ囲碁戦16強戦 | Jian Jingting | Chen Qirui | Win | B+R | 6.5 | 2813 | 69 | 
+| 2016-03-21 | 第8回海峰杯プロ囲碁戦32強戦 | Jian Jingting | Yang Bowei | Win | B+R | 6.5 | 2744 | 2744 | 
+| 2016-03-07 | 第8回海峰杯プロ囲碁戦64強戦 |  | Jian Jingting | Win | W+R | 6.5 | missing | -2362 | 
+| 2016-01-29 | 2016年日台精鋭交流戦第4戦 | Ichiriki Ryo | Jian Jingting | Lose | B+R | 6.5 | 2362 | -491 | 
+| 2015-03-03 | 第14期天元戦（台湾）予選 | Lin Junyan | Jian Jingting | Lose | B+R | 6.5 | 2853 | 8 | 
+| 2015-03-02 | 第7回海峰杯プロ囲碁戦64強決定戦 | Jian Jingting |  | Lose | W+R | 6.5 | 2845 | -29 | 
+| 2015-02-24 | 第14期天元戦（台湾）予選 | Lin Shuyang | Jian Jingting | Lose | B+4.5 | 6.5 | 2874 | -66 | 
+| 2015-02-12 | 2015年日台精鋭交流戦第4戦 | Sotoyanagi Sebun | Jian Jingting | Lose | B+R | 6.5 | 2940 | 0 | 
+| 2015-02-12 | 2015年日台精鋭交流戦第3戦 | Cho Riyu | Jian Jingting | Win | W+R | 6.5 | 2940 | missing |
 
 
 

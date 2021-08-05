@@ -5,353 +5,354 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第8回大舟杯プロシニア最強者戦決勝 | Seo Bongsoo | Yoo Changhyuk | B+2.5 | 2021-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NGIBm0KIN9PLZK6Q5w016A%3D%3D) | 
-| 第8回大舟杯プロシニア最強者戦準決勝 | Seo Bongsoo | missing | B+R | 2021-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wmW%2BZLtb3X8fAOGU0gQt%2Fw%3D%3D) | 
-| 第8回大舟杯プロシニア最強者戦2回戦 | Seo Bongsoo | Kwon Kapyong | B+R | 2021-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xMVj0Vn%2Fi7dL7%2FVz%2F4BHhQ%3D%3D) | 
-| 第8回大舟杯プロシニア最強者戦1回戦 | Kang Dajeong | Seo Bongsoo | W+R | 2021-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KDOBbq9hNOLgPE64cCG7CA%3D%3D) | 
-| 第44期名人戦（韓国）特別対局第2局 | Lee Changho | Seo Bongsoo | B+R | 2021-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JQQGvF6Ztn%2FHPtfl1XDBNA%3D%3D) | 
-| 第22回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Weon Seongjin | W+R | 2021-01-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VvEceUybryJxe4Z2wqA8CQ%3D%3D) | 
-| 2020NHシニア囲碁リーグ第14節第1試合第2局 | Seo Bongsoo | Kim Ilhwan | B+11.5 | 2020-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6K9HKYzTYzJRkXKMAGramA%3D%3D) | 
-| 2020NHシニア囲碁リーグ第13節第1試合第1局 | missing | Seo Bongsoo | W+1.5 | 2020-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lip9o%2FGWd7vF1fFJRV%2B2%2BA%3D%3D) | 
-| 2020NHシニア囲碁リーグ第12節第2試合第2局 | Chang Suyeong | Seo Bongsoo | W+7.5 | 2020-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iAhdcwPFWakHYib42repgg%3D%3D) | 
-| 2020NHシニア囲碁リーグ第11節第3試合第1局 | Seo Bongsoo | Kim JongJoon | B+R | 2020-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vo5NP%2BnRrBCpKU825TcujQ%3D%3D) | 
-| 2020NHシニア囲碁リーグ第10節第4試合第1局 | Seo Bongsoo | Kim Chongsu | B+10.5 | 2020-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g3uS3oq8mbvFuCjF5gJeNw%3D%3D) | 
-| 2020NHシニア囲碁リーグ第9節第3試合第2局 | Seo Bongsoo | Kim Kihun | B+R | 2020-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6DRcQOqAvH1HFthiFLm4Og%3D%3D) | 
-| 2020NHシニア囲碁リーグ第8節第3試合第2局 | Yoo Changhyuk | Seo Bongsoo | W+2.5 | 2020-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V1pPQp6KYpGxq9u0d1LrRg%3D%3D) | 
-| 第25回三星火災杯韓国シニア枠予選 | Seo Bongsoo | Lee Changho | W+R | 2020-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GKKRwaDKrX8cw64a4vxPwQ%3D%3D) | 
-| 2020NHシニア囲碁リーグ第7節第4試合第1局 | Seo Bongsoo | Kim Ilhwan | B+14.5 | 2020-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=chvQWnob0uhdfLbGnEdiDA%3D%3D) | 
-| 2020NHシニア囲碁リーグ第6節第4試合第1局 | Seo Bongsoo | Choi Kyubyeong | B+8.5 | 2020-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hIMjy%2BZtePQBRPWdBBo52g%3D%3D) | 
-| 2020NHシニア囲碁リーグ第5節第3試合第1局 | Seo Bongsoo | Jimmy Cha | B+5.5 | 2020-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vm%2F31%2Bo5VtY8QWzAU3ha5Q%3D%3D) | 
-| 2020NHシニア囲碁リーグ第4節第2試合第1局 | Seo Bongsoo | Seo Nungwuk | W+R | 2020-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hWOCYYK7gHMx6huz60RKBQ%3D%3D) | 
-| 2020NHシニア囲碁リーグ第3節第1試合第1局 | Seo Bongsoo | Kim Chongsu | B+R | 2020-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ymcy%2BJEo6JK663y%2BJrJmlA%3D%3D) | 
-| 仲邑菫初段のオロチャレンジ第3回第3局 | Seo Bongsoo | Nakamura Sumire | B+R | 2020-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pm8NzbL8bH%2FjRSnn8k35FA%3D%3D) | 
-| 仲邑菫初段のオロチャレンジ第3回第2局 | Nakamura Sumire | Seo Bongsoo | W+R | 2020-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2F5iYTp%2BjtUsWQf6hLWsTQ%3D%3D) | 
-| 仲邑菫初段のオロチャレンジ第3回第1局 | Seo Bongsoo | Nakamura Sumire | B+R | 2020-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fxavkzOyoTLFtXV0Nj64cw%3D%3D) | 
-| 2020NHシニア囲碁リーグ第2節第2試合第1局 | Kim Soojang | Seo Bongsoo | B+R | 2020-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kYbFrrjLIhMdBhUINomibA%3D%3D) | 
-| 2020NHシニア囲碁リーグ第1節第2試合第1局 | Seo Bongsoo | Yoo Changhyuk | W+R | 2020-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i4UxyVsvIEylFasInC3dyw%3D%3D) | 
-| 第3期韓国竜星戦32強戦 | Seo Bongsoo | missing | W+R | 2020-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qGt3DbN8uMFIz1pYuDo5Yg%3D%3D) | 
-| 第13回GGオークション杯女流対シニア連勝対抗戦第11局 | Lee Youngjoo | Seo Bongsoo | B+1.5 | 2020-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rqSF54NeJeLhBiaRUj7YGQ%3D%3D) | 
-| 第21回マキシムコーヒー杯入神最強戦1回戦 | Kim Jiseok | Seo Bongsoo | B+R | 2020-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZSpOevCvch6Y1OpJW9jxuw%3D%3D) | 
-| 2019NHシニア囲碁リーグチャンピオン決定戦第2戦第2局 | Kang Hun | Seo Bongsoo | W+3.5 | 2019-12-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OU8GZmzWZbZcjVtapUAHKw%3D%3D) | 
-| 2019NHシニア囲碁リーグチャンピオン決定戦第1戦第1局 | Cho Chikun | Seo Bongsoo | B+R | 2019-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WjhIkIjQsGNVHWMGTkjJVA%3D%3D) | 
-| 2019NHシニア囲碁リーグプレーオフ第3戦第2局 | Park Yeongchan | Seo Bongsoo | W+11.5 | 2019-12-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pPV2TrXMChwzT7uy2lDxTg%3D%3D) | 
-| 2019NHシニア囲碁リーグプレーオフ第2戦第1局 | Seo Bongsoo | Kim Kihun | B+R | 2019-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RrjewgNWwguGqnKCDwdxEA%3D%3D) | 
-| 2019NHシニア囲碁リーグプレーオフ第1戦第1局 | Kim Soojang | Seo Bongsoo | B+1.5 | 2019-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OdmuIlcFYGMEe%2BhX148d7A%3D%3D) | 
-| 2019NHシニア囲碁リーグ準プレーオフ第1戦第1局 | Rui Naiwei | Seo Bongsoo | B+R | 2019-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wLn8cs0nz%2B6g0KZAP%2BJChA%3D%3D) | 
-| 2019NHシニア囲碁リーグ第14節第4試合第1局 | Chang Suyeong | Seo Bongsoo | W+R | 2019-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QLKaFoymW6pbJW3cqkrJFw%3D%3D) | 
-| 2019NHシニア囲碁リーグ第13節第1試合第3局 | Kim Dongmyeon | Seo Bongsoo | W+R | 2019-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B%2FSoPWWPcjf3U09J2m9EiQ%3D%3D) | 
-| 2019NHシニア囲碁リーグ第12節第1試合第2局 | Seo Bongsoo | Moon Myunggun | B+R | 2019-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=25P6byK6wRFIUcXVMZrbcw%3D%3D) | 
-| 2019NHシニア囲碁リーグ第11節第1試合第2局 | Seo Bongsoo | An Kwanwuk | B+10.5 | 2019-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9OrA%2FdIwPCFtc%2FwJVqWXTA%3D%3D) | 
-| 2019NHシニア囲碁リーグ第10節第3試合第1局 | Seo Bongsoo | Hwang Weonjun | B+R | 2019-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OzLqk6cqRHqw7EIcdROnaA%3D%3D) | 
-| 2019NHシニア囲碁リーグ第9節第2試合第2局 | Jeong Daesang | Seo Bongsoo | W+R | 2019-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aw6qX1hdfFhkpWpTwGXT6g%3D%3D) | 
-| 2019NHシニア囲碁リーグ第8節第2試合第3局 | Kim Kihun | Seo Bongsoo | W+0.5 | 2019-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FREQ15jYJ8bOLAEUQEfGgg%3D%3D) | 
-| 2019NHシニア囲碁リーグ第7節第1試合第1局 | Seo Bongsoo | Cho Chikun | W+R | 2019-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mgTwu0CTpNuQkkLmmYll5g%3D%3D) | 
-| 2019NHシニア囲碁リーグ第6節第4試合第1局 | Seo Bongsoo | Jimmy Cha | B+R | 2019-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c8uguVsY2VQWyoahaAbDww%3D%3D) | 
-| 2019NHシニア囲碁リーグ第5節第4試合第3局 | Kim Chongsu | Seo Bongsoo | W+2.5 | 2019-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uXPqVBlTzZcGli%2B57BfMRg%3D%3D) | 
-| 2019扁康杯中韓囲棋国手友誼戦第2戦 | Seo Bongsoo | Nie Weiping | B+R | 2019-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MtfyBfNPUkPqB%2FJubu%2BRWg%3D%3D) | 
-| 2019扁康杯中韓囲棋国手友誼戦第1戦 | Chang Hao | Seo Bongsoo | B+2¾ | 2019-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WoI%2ByB8AMijty%2FolhfdHAg%3D%3D) | 
-| 2019NHシニア囲碁リーグ第3節第2試合第2局 | Seo Bongsoo | Hwang Weonjun | B+R | 2019-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JiMX7tLQmDrZ31CH1yJP3w%3D%3D) | 
-| 2019NHシニア囲碁リーグ第2節第3試合第3局 | Jeong Daesang | Seo Bongsoo | W+8.5 | 2019-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wsBmPaDUWYzAqhqUd%2Fps5w%3D%3D) | 
-| 2019NHシニア囲碁リーグ第1節第3試合第3局 | Seo Bongsoo | Kim Kihun | W+R | 2019-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZiNhcMKUxu05zcmwf1vWrg%3D%3D) | 
-| 2019江南囲碁フェスティバルレジェンドマッチ | Yoo Changhyuk | Seo Bongsoo | B+R | 2019-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sOHTAxgQRZAA%2FaDz62I7zQ%3D%3D) | 
-| 第24回三星火災杯世界囲碁マスターズ2回戦 | Gu Zihao | Seo Bongsoo | B+R | 2019-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ktXzN%2FjMdHfNYcwd6Dcc2A%3D%3D) | 
-| 第24回三星火災杯世界囲碁マスターズ1回戦 | Seo Bongsoo | Guo Xinyi | B+3.5 | 2019-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TuEHrEhkUsGFvjbJkbBUpA%3D%3D) | 
-| 第24回三星火災杯統合予選決勝 | Seo Bongsoo | Yoo Changhyuk | B+5.5 | 2019-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mjto0UYCnkjex58CRyHaQw%3D%3D) | 
-| 第24回三星火災杯統合予選準決勝 | Seo Bongsoo | Yu Bin | B+R | 2019-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2nCVRMzVYorDtQZ1czI8gQ%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | O Rissei | Seo Bongsoo | W+R | 2019-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6xD6E3CI7wCn9TJFlWS9eQ%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会個人戦準決勝 | Seo Bongsoo | O Rissei | W+R | 2019-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q4ENT3W5BrgvxpuNwyb58A%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | Kobayashi Koichi | Seo Bongsoo | B+0.5 | 2019-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FuCe1fRuCX5VFdgGTzuPaQ%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | O Meien | Seo Bongsoo | W+R | 2019-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nAJCEb5wEYBzeHqTmrx8qw%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | Rui Naiwei | Seo Bongsoo | B+T | 2019-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e4DHa35Qusw6A2Im30VETA%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Seo Bongsoo | Liu Xiaoguang | B+1.5 | 2019-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9YSsz5vxP%2Bj9T9yziX0eHg%3D%3D) | 
-| 第6回大舟杯プロシニア最強者戦準決勝 | Seo Bongsoo | Cho Hyeyeon | W+1.5 | 2019-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RNo%2BVp1QX0Br75%2BE7YkJYA%3D%3D) | 
-| 第6回大舟杯プロシニア最強者戦準決勝 | Seo Bongsoo | Cho Hyeyeon | W+1.5 | 2019-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0rNdGVz2Od8e2lq%2B8XhxNw%3D%3D) | 
-| 第3回中日韓囲碁元老戦準決勝 | Yu Bin | Seo Bongsoo | B+1¾ | 2019-04-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dk6BH6ZIp%2BE8UGp2vsoN7Q%3D%3D) | 
-| 第3回中日韓囲碁元老戦1回戦 | Seo Bongsoo | Cao Dayuan | B+R | 2019-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A9MEPLw4e%2BwQBHRKPnwKCQ%3D%3D) | 
-| 第6回大舟杯プロシニア最強者戦8強戦 | Jeong Daesang | Seo Bongsoo | W+R | 2019-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XLts7rAHSA5tHhlrRe2i3Q%3D%3D) | 
-| 2019年中日韓囲棋大師招待戦8強戦 | Ma Xiaochun | Seo Bongsoo | B+2¾ | 2019-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YY6fI%2F2vwbcuQVyJPWGmLg%3D%3D) | 
-| 第6回大舟杯プロシニア最強者戦16強戦 | Kim Seongrae | Seo Bongsoo | W+R | 2019-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zon44V2Q7anv74As6v1XLQ%3D%3D) | 
-| 第20回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Yoo Changhyuk | W+R | 2019-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SrZmPtBlWGDMbEkvdknJBA%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ決勝第1戦釜山-尚州 | Seo Bongsoo | Kang Hun | B+6.5 | 2018-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F%2FzZFp%2FJYyN20WoBDOAIuA%3D%3D) | 
-| 第3回韓国シニア囲碁リーグプレーオフ富川-尚州 | An Kwanwuk | Seo Bongsoo | W+5.5 | 2018-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lKWioDLEBSgMEKyZ4KhkMw%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第14節釜山-尚州 | Kang Hun | Seo Bongsoo | B+R | 2018-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vnz0PNmaIQEIO4AF2jjSjw%3D%3D) | 
-| 第12回GGオークション杯女流対シニア連勝対抗戦第20局 | Seo Bongsoo | Kim Cheayoung | W+R | 2018-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YF5BLQ20O9qpA5Ibk9iF2g%3D%3D) | 
-| 第12回GGオークション杯女流対シニア連勝対抗戦第19局 | Cho Hyeyeon | Seo Bongsoo | W+R | 2018-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lhkbGNRSfp68VgxJzcE1rg%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第13節陰城-尚州 | Kim Soojang | Seo Bongsoo | B+1.5 | 2018-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Na%2BQOyi0i8T6Ync442fV1g%3D%3D) | 
-| 第23回三星火災杯世界囲碁マスターズ1回戦C2 | Chen Zijian | Seo Bongsoo | B+R | 2018-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6II0q2D99211wVdhuuTSEw%3D%3D) | 
-| 第23回三星火災杯世界囲碁マスターズ1回戦C1 | Tong Mengcheng | Seo Bongsoo | B+R | 2018-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vUYda%2BhFxTh1K47bGpw7zA%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第12節三陟-尚州 | Seo Bongsoo | Cho Daehyeon | B+4.5 | 2018-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KUi%2BWomm3OemQC3hBLsoPw%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第11節霊岩-尚州 | Oh Kyuchul | Seo Bongsoo | W+R | 2018-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5%2Fq3Sy32UG7MGgYWdsUc5g%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第10節富川-尚州 | An Kwanwuk | Seo Bongsoo | B+2.5 | 2018-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SUK1nKuKzbhPt2hlly%2BiVg%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ | Seo Bongsoo | missing | B+R | 2018-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IqNWu22mEWAnxFojjdytzw%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第7節釜山-尚州 | Seo Bongsoo | Chang Suyeong | B+R | 2018-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LmDm0GRII%2BFNXRHuy6yQ5w%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第6節陰城-尚州 | Seo Bongsoo | Kim Dongyeop | B+6.5 | 2018-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iE9cDZUNEsQjBsDWIaZMeQ%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第5節三陟-尚州 | Park Seungmun | Seo Bongsoo | W+R | 2018-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cwE9QNZ20oG7IjIPAE7mGA%3D%3D) | 
-| 2018年紹興国際囲棋大師戦8強戦 | Seo Bongsoo | Cao Dayuan | W+T | 2018-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OnANe8Kuhd5%2FQ8WUXvvRww%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第4節霊岩-尚州 | Seo Bongsoo | Kim Dongmyeon | B+R | 2018-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8oAR6xkqEvUKopHKq5x%2FGw%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ第3節富川-尚州 | Kim Ilhwan | Seo Bongsoo | W+R | 2018-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OE2bJC2y1gvrmArvBz71QA%3D%3D) | 
-| 第3回韓国シニア囲碁リーグ | Seo Bongsoo | Jeong Daesang | B+R | 2018-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZwfWJ3o58b%2Bxbx52qQuvgg%3D%3D) | 
-| 第5回大舟杯プロシニア最強者戦準決勝 | Seo Bongsoo | Cho Hyeyeon | W+R | 2018-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l3C6w0ILpuRAKZWmL%2FsPGw%3D%3D) | 
-| 第5回大舟杯プロシニア最強者戦2回戦 | Kim Eunseon | Seo Bongsoo | W+0.5 | 2018-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BrwZr4%2F35%2B0W%2F4%2Fxyv4i8A%3D%3D) | 
-| 第2回中日韓囲碁元老戦準決勝 | Seo Bongsoo | Nie Weiping | W+1¼ | 2018-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9oW5PeOJiXrFQojHLK5e1Q%3D%3D) | 
-| 第2回中日韓囲碁元老戦1回戦 | Kobayashi Satoru | Seo Bongsoo | W+¼ | 2018-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A3BDob94%2Bho2G4Yh1wSMyA%3D%3D) | 
-| 第5回大舟杯プロシニア最強者戦1回戦 | Seo Bongsoo | Kim Dongmyeon | B+R | 2018-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lKwLUH1pJpEG7QZRduQrjg%3D%3D) | 
-| 第5回大舟杯プロシニア最強者戦1回戦 | Seo Bongsoo | Kim Dongmyeon | B+R | 2018-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WfE4F0uG0w1CrUwYXMYXAw%3D%3D) | 
-| 第19回マキシムコーヒー杯入神最強戦2回戦 | Park Cheongsang | Seo Bongsoo | B+R | 2018-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J8wUYzRV6BPD5xCKMLBXoA%3D%3D) | 
-| 第19回マキシムコーヒー杯入神最強戦2回戦 | Park Cheongsang | Seo Bongsoo | B+R | 2018-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F%2FIOQ2XvPfFxPo%2Fcat3yWQ%3D%3D) | 
-| 第19回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Yun Junsang | B+1.5 | 2018-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YKt%2FJmvenf94k%2FNKfZ4F8A%3D%3D) | 
-| 第2回韓国シニア囲碁リーグチャンピオンシップ釜山-尚州第2戦 | Seo Bongsoo | Chang Suyeong | B+R | 2017-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BNb6HmGUp%2BPXcrTP8bDg8g%3D%3D) | 
-| 第2回韓国シニア囲碁リーグプレーオフ尚州-ソウル | Jeong Daesang | Seo Bongsoo | W+R | 2017-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Hff8ywdPnYlX2BX63OiDg%3D%3D) | 
-| 第2回韓国元老連戦14回戦尚州-釜山 | Seo Bongsoo | Kang Hun | B+R | 2017-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LC7tDp5okH1usyXYf0zjhA%3D%3D) | 
-| 第2回韓国シニア囲碁リーグ | Seo Bongsoo | Kim JongJoon | W+4.5 | 2017-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AqYI9t1ufBd3JclWXXcJzA%3D%3D) | 
-| 2回韓国元老連戦12回戦三陟-尚州 | missing | Seo Bongsoo | W+R | 2017-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JtZ8Y1ScMM1wBjFXYS9c%2FQ%3D%3D) | 
-| 2回韓国元老連戦11回戦陰城-尚州 | Seo Bongsoo | Kim Soojang | W+3.5 | 2017-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=btV2nVQFHS%2FzB1mc5KYD3w%3D%3D) | 
-| 2回韓国元老連戦10回戦陰城-釜山 | Seo Bongsoo | Kim Chongsu | B+10.5 | 2017-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PQyZLL3R90muBRyE3kIwSg%3D%3D) | 
-| 2回韓国元老連戦8回戦烏鹭-尚州 | Seo Nungwuk | Seo Bongsoo | W+1.5 | 2017-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3ngN3X0dnQsEdone4gb%2BSA%3D%3D) | 
-| 第22回三星火災杯世界囲碁マスターズ1回戦C2 | Park Jinsol | Seo Bongsoo | B+R | 2017-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OaPmULObI2EcepujtqRjnQ%3D%3D) | 
-| 第22回三星火災杯世界囲碁マスターズ1回戦C1 | Tang Weixing | Seo Bongsoo | B+R | 2017-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RYID2Gy0dNQN%2Flu2UeicOA%3D%3D) | 
-| 2回韓国元老連戦7回戦尚州-浦項 | Seo Bongsoo | Chang Suyeong | B+3.5 | 2017-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hiKMjI98%2FyB82%2BU9YX5msQ%3D%3D) | 
-| 第11回GGオークション杯女流対シニア連勝対抗戦第16戦 | Cho Hyeyeon | Seo Bongsoo | B+R | 2017-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OyGu7Uj4pPFIHCivq9kz9Q%3D%3D) | 
-| 2回韓国元老連戦6回戦富川-尚州 | Seo Bongsoo | Kim Ilhwan | W+R | 2017-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1EBXUSjVYSkk1gwdKhB7QA%3D%3D) | 
-| 第11回GGオークション杯女流対シニア連勝対抗戦第15戦 | Moon Dowon | Seo Bongsoo | W+2.5 | 2017-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CUAvEMDR6NhFcfKQBzM8aw%3D%3D) | 
-| 第2回韓国シニア囲碁リーグ | missing | Seo Bongsoo | W+14.5 | 2017-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2mniE7qA6aiDcwHHmeE72w%3D%3D) | 
-| 第2回韓国シニア囲碁リーグ | Seo Bongsoo | Kim Soojang | B+R | 2017-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sjcRQMkOTLe4WLpOB%2BdaUQ%3D%3D) | 
-| 2回韓国元老連戦1回戦烏鹭-尚州 | Jeong Daesang | Seo Bongsoo | W+R | 2017-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dbgemM6w7g1AWn%2BumoYwmA%3D%3D) | 
-| 第19回農心杯韓国選抜戦 | An Jungki | Seo Bongsoo | B+R | 2017-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7qoL2PIT8J6%2FyBk99w1wMA%3D%3D) | 
-| 第1回中日韓囲碁元老戦1回戦 | Nie Weiping | Seo Bongsoo | B+R | 2017-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KTMvt6b0nvZW45LJbYyl7w%3D%3D) | 
-| 第18回マキシムコーヒー杯入神最強戦1回戦 | Park Shiun | Seo Bongsoo | B+R | 2017-01-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I%2BXOYct9T7%2BFjCNeLw5%2F3Q%3D%3D) | 
-| 塩城東方集団杯中韓囲棋団体名人選手権戦3回戦 | Ma Xiaochun | Seo Bongsoo | B+R | 2016-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6tqqqF8wm3GiGSFxQUmJuw%3D%3D) | 
-| 塩城東方集団杯中韓囲棋団体名人選手権戦2回戦 | Nie Weiping | Seo Bongsoo | W+4.5 | 2016-09-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FB8KZRaurYzkgeGUJUcMiA%3D%3D) | 
-| 塩城東方集団杯中韓囲棋団体名人選手権戦1回戦 | Seo Bongsoo | Chang Hao | W+0.5 | 2016-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7aVcl2HadY0QtBBaHQzq8A%3D%3D) | 
-| 第10回GGオークション杯女流対シニア連勝対抗戦第10戦 | Oh Yujin | Seo Bongsoo | B+R | 2016-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bL8nHCkJYgMiH5i9luMeZQ%3D%3D) | 
-| 第10回GGオークション杯女流対シニア連勝対抗戦第9戦 | Seo Bongsoo | Kim Yoonyoung | B+R | 2016-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YP3lz4PrnyePFtXHy0qeBg%3D%3D) | 
-| 第10回GGオークション杯女流対シニア連勝対抗戦第8戦 | Kim Nahyun | Seo Bongsoo | W+R | 2016-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f%2BlNH3YVkqbemgfPSfpZ6Q%3D%3D) | 
-| 第10回GGオークション杯女流対シニア連勝対抗戦第7戦 | Park Shiun | Seo Bongsoo | W+10.5 | 2016-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JDkaioizoV4eyMMal7rqYw%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ優勝決定戦第2戦 | Kim Soojang | Seo Bongsoo | B+R | 2016-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T4zMmGshFnGhAxrMtw6iUg%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ優勝決定戦第1戦 | Seo Bongsoo | Kim Soojang | W+R | 2016-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zmYKRA9Db%2FyGjSAxmC9ELg%3D%3D) | 
-| 第10回GGオークション杯女流対シニア連勝対抗戦第6戦 | Kim Hyeoimin | Seo Bongsoo | W+2.5 | 2016-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=utiWYe7BWz%2BXBpkGRidO4w%3D%3D) | 
-| 第10回GGオークション杯女流対シニア連勝対抗戦第5戦 | missing | Seo Bongsoo | W+R | 2016-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lbsXiRZeW4MpROocPcE2%2Fg%3D%3D) | 
-| 第10回GGオークション杯女流対シニア連勝対抗戦第4戦 | Oh Jeonga | Seo Bongsoo | W+R | 2016-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B9%2B3ITm70l2d0P53n56mXA%3D%3D) | 
-| 第10回GGオークション杯女流対シニア連勝対抗戦第3戦 | Seo Bongsoo | Kim Eunseon | B+R | 2016-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mGd48wCqc7HqoBllPGZXhQ%3D%3D) | 
-| 第10回GGオークション杯女流対シニア連勝対抗戦第2戦 | Park Taehee | Seo Bongsoo | W+R | 2016-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hIQcsN%2FhEdfygwlNqvXMbQ%3D%3D) | 
-| 第10回GGオークション杯女流対シニア連勝対抗戦第1戦 | Seo Bongsoo | missing | B+R | 2016-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HuQwH4RHurQuaiS7gaJ1BA%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Seo Bongsoo | Hwang Weonjun | B+R | 2016-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jI9KxTr39FlMBNdDOFlkGg%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Seo Bongsoo | Choi Kyubyeong | B+R | 2016-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pxZbjWgIvPSJuJczUOqw9w%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Seo Bongsoo | Kim Soojang | B+R | 2016-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LiPxIHEAqMcMfCOafUAbGg%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Yoo Changhyuk | Seo Bongsoo | W+0.5 | 2016-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xG0MtIaswEv4SgB4MLZ7lg%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Seo Bongsoo | Kim Ilhwan | B+R | 2016-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N0nLVyFu82UHaZdlrPMoyg%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Seo Nungwuk | Seo Bongsoo | W+R | 2016-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LOPZEcYb%2BcM9jUFIFc8Pdg%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Seo Bongsoo | Cho Hunhyun | B+R | 2016-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R%2F1GN9Zd6ziTFQvPbdt4nw%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Seo Bongsoo | Choi Kyubyeong | B+R | 2016-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ff%2BzF%2Fc7lOC8rRKvK2naEg%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Kim Soojang | Seo Bongsoo | B+R | 2016-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bS97OAKgV76slQAbeDKUYQ%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Seo Bongsoo | Yoo Changhyuk | W+R | 2016-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4S%2BXPV2MzD%2B3F%2BT7Lu%2BNNA%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Kim Ilhwan | Seo Bongsoo | W+R | 2016-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qrWqsa7MuwfcREk3GMk8rg%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Seo Nungwuk | Seo Bongsoo | B+R | 2016-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GNsYby4F3RhlpCxM29x0BA%3D%3D) | 
-| 第17回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Yun Junsang | W+R | 2016-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vpIyvyxwrRSly31wrN2%2BDg%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦G3 | Zhou Hexi | Seo Bongsoo | B+5.5 | 2015-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5DIbgVzKbdTs3rO%2F38bLPA%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦G2 | Seo Bongsoo | Kim Jiseok | W+R | 2015-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pHWX9VevgP55ZtmTCUl9VA%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦G1 | Seo Bongsoo | Shida Tatsuya | B+R | 2015-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WzRZFFgA0ep35G3nL%2FzLGA%3D%3D) | 
-| 第9回GGオークション杯女流対シニア連勝対抗戦第8戦 | missing | Seo Bongsoo | B+R | 2015-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WfTCyWwhUlnxCEFJ7rhhpw%3D%3D) | 
-| 第9回GGオークション杯女流対シニア連勝対抗戦第7戦 | Lee Sula | Seo Bongsoo | W+7.5 | 2015-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PpJzgkD8AhUA8xY9C3Yjpg%3D%3D) | 
-| 第17回農心杯韓国選抜戦 | Shin Jinseo | Seo Bongsoo | B+R | 2015-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NyCiwzhWbDUJzsWo3rXxDg%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック国棋戦決勝 | Cho Hunhyun | Seo Bongsoo | B+R | 2015-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UaLW%2BQeLDngtRWCRd2wdqg%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック国棋戦準決勝 | Park Yeongchan | Seo Bongsoo | W+R | 2015-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=npxkV09LEj7uXBpxrzi0Ug%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック国棋戦準々決勝 | Seo Bongsoo | Oh Kyuchul | B+R | 2015-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cKPk9HBRAXbCDox4K%2BXTmA%3D%3D) | 
-| 第16回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Han Chongjin | W+R | 2015-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1x1jWOpaYOW%2FWMhjE0VTxw%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック棋王戦決勝 | Cho Hunhyun | Seo Bongsoo | B+2.5 | 2014-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9C7Rx78nqUBMEfp%2F3fEAjg%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック棋王戦準決勝 | Seo Bongsoo | Choi Kyubyeong | B+10.5 | 2014-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NkqfxlpG0IHJ80fCJQyeug%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック棋王戦準々決勝 | Seo Bongsoo | Kim Soojang | B+3.5 | 2014-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O9QIsWCuIhXkLGtrpoCP5w%3D%3D) | 
-| 21世紀朝鮮通信使日本韓国対局鞆2014 | Seo Bongsoo | Yamashiro Hiroshi | W+R | 2014-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FcGbbezaLQOraMvSEw4Vlw%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック王位戦決勝 | No Yeongha | Seo Bongsoo | W+R | 2014-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cp%2Bjsk3LJ8q78ACFsooUjA%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック王位戦準決勝 | Seo Bongsoo | Cho Daehyeon | B+R | 2014-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ctlJ9B8I3KU7XfWMxyC7%2BQ%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック王位戦準々決勝 | missing | Seo Bongsoo | W+R | 2014-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8uuFfwH4IKlz1kTUxHL16w%3D%3D) | 
-| 第8回GGオークション杯女流対シニア連勝対抗戦第15戦 | Oh Jeonga | Seo Bongsoo | B+R | 2014-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fH9greovMUypXFdIsRIQbg%3D%3D) | 
-| 2014年レッツランパーク杯オープントーナメント1回戦 | Kim Jinhyu | Seo Bongsoo | B+2.5 | 2014-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ll7DboHjnSyory3pjgESaA%3D%3D) | 
-| 第8回GGオークション杯女流対シニア連勝対抗戦第14戦 | Kim Nahyun | Seo Bongsoo | W+R | 2014-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H806KjhprMwnjJqYW72rqg%3D%3D) | 
-| 第10期物価情報杯プロ棋戦リーグC | Park Junghwan | Seo Bongsoo | B+R | 2014-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZaK95VI%2BXhiP9aQwvVxRIg%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック国手戦準決勝 | Choi Kyubyeong | Seo Bongsoo | B+4.5 | 2014-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DKHFRgQIB7irSfyls8egFA%3D%3D) | 
-| 第10期物価情報杯プロ棋戦リーグC | Seo Bongsoo | Kim Seongjae | W+R | 2014-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RTjZLY%2BjpEXXbocgMxG7Ag%3D%3D) | 
-| 第10期物価情報杯プロ棋戦リーグC | Seo Bongsoo | Kim Sonjin | B+0.5 | 2014-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LRE2zNnlC0X1QNx7Wi%2FAaw%3D%3D) | 
-| 第15回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Seo Bongsoo | B+R | 2014-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VPSC%2B3LXzqiOhsVWIr9BlQ%3D%3D) | 
-| 第15回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Park Shiun | B+R | 2013-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gKfXrDZXqRGwVZgHYPx%2Bow%3D%3D) | 
-| 第4回大舟杯プロシニア最強者戦準決勝 | Choi Kyubyeong | Seo Bongsoo | B+R | 2013-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f7u0Xm0POtHh1wIAgNB8EA%3D%3D) | 
-| 第4回大舟杯プロシニア最強者戦2回戦 | Seo Bongsoo | Lee Yongshin | B+R | 2013-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AfJFIdxNiPm8y2kJtuaEbQ%3D%3D) | 
-| 第4回大舟杯プロシニア最強者戦1回戦 | An Kwanwuk | Seo Bongsoo | W+R | 2013-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xFX53Oo9a6KNWZAzIpDIAQ%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ1回戦A3 | Seo Bongsoo | Wu Guangya | W+5.5 | 2013-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rR7jBxwdTbSfFv0s78fUlg%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ1回戦A1 | Seo Bongsoo | Wu Guangya | W+7.5 | 2013-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CcO0Q7fdpLrnYImU%2BrlflQ%3D%3D) | 
-| 第7回GGオークション杯女流対シニア連勝対抗戦第13戦 | Choi Jeong | Seo Bongsoo | B+R | 2013-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kyr9U66ZSJ3TCaiVOHSjuw%3D%3D) | 
-| 第7回GGオークション杯女流対シニア連勝対抗戦第12戦 | Seo Bongsoo | Yun Jihee | B+R | 2013-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8FcCySUWOl781nCF7j7bAg%3D%3D) | 
-| 第7回GGオークション杯女流対シニア連勝対抗戦第11戦 | Kim Hyeoimin | Seo Bongsoo | W+R | 2013-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8EvWcIxhvH0FqOFSXqB0ug%3D%3D) | 
-| 第18回三星火災杯統合予選シニア枠決勝 | Yoo Changhyuk | Seo Bongsoo | W+R | 2013-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ntGLt5AjzlbvXlltEGgY%2FQ%3D%3D) | 
-| 第7回GGオークション杯女流対シニア連勝対抗戦第10戦 | Kim Nahyun | Seo Bongsoo | W+R | 2013-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v2Ld0dVdSl1SvnLwdEwn5g%3D%3D) | 
-| 第7回GGオークション杯女流対シニア連勝対抗戦第9戦 | Kim Sinyoung | Seo Bongsoo | W+3.5 | 2013-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YtCRZngicz8qp3oylTRdVw%3D%3D) | 
-| 第7回GGオークション杯女流対シニア連勝対抗戦第8戦 | Seo Bongsoo | Cho Hyeyeon | B+6.5 | 2013-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lYSUbSCfAUHGFQo9I%2BgMXg%3D%3D) | 
-| 第4期Olleh杯オープン選手権1回戦 | Choi Jeong | Seo Bongsoo | W+0.5 | 2013-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PNc27%2Fgr9lH1LN%2FrleGVZQ%3D%3D) | 
-| 第18期バッカス杯天元戦予選 | Seo Bongsoo | Lee Donghoon | W+R | 2013-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xvqS99k9zLtSzI%2BgKNxGbw%3D%3D) | 
-| 第3回大舟杯プロシニア最強者戦決勝 | Seo Nungwuk | Seo Bongsoo | B+R | 2013-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8adkF42OiuuzYlW34tqASg%3D%3D) | 
-| 第3回大舟杯プロシニア最強者戦準決勝 | Kang Hun | Seo Bongsoo | W+4.5 | 2012-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6OabZ9OUzTzfMUJKatp5WQ%3D%3D) | 
-| 第3回大舟杯プロシニア最強者戦2回戦 | Jeong Suhyeon | Seo Bongsoo | W+9.5 | 2012-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gLyZs7ZRobBCSHZGWdM1Dg%3D%3D) | 
-| 第8期圓益杯十段戦1回戦 | Seo Bongsoo | Han Chongjin | W+4.5 | 2012-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MtcKv1aKN1aNocxIFXeZKQ%3D%3D) | 
-| 第3回大舟杯プロシニア最強者戦1回戦 | Seo Bongsoo | missing | B+R | 2012-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7jHPvV6V0O5YkHebr0edTg%3D%3D) | 
-| 第3回大舟杯プロシニア最強者戦予選 | missing | Seo Bongsoo | W+11.5 | 2012-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3R6sI1V8V2TXry1hpcNRig%3D%3D) | 
-| 第6回GGオークション杯女流対シニア連勝対抗戦第17戦 | Seo Bongsoo | Kim Yoonyoung | W+2.5 | 2012-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IpDM3deT5F837AX%2B9A1QZw%3D%3D) | 
-| 第2回大舟杯プロシニア最強者戦準決勝 | Seo Bongsoo | Seo Nungwuk | W+R | 2011-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WWOkYChEWoSBjyFJ%2B%2B5rfg%3D%3D) | 
-| 第2回大舟杯プロシニア最強者戦2回戦 | Seo Bongsoo | Kim Dongyeop | B+8.5 | 2011-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P7fKDGeNUsbMxs9zsLfa7Q%3D%3D) | 
-| 第13回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Cho Hunhyun | W+4.5 | 2011-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oIPwxckq%2FsklJ6tFHBlnJw%3D%3D) | 
-| 第5回GGオークション杯女流対シニア連勝対抗戦第7戦 | Choi Jeong | Seo Bongsoo | B+R | 2011-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YsV%2FhSJf9EOMGm2xriMd6w%3D%3D) | 
-| 第16回LG杯予選 | Seo Bongsoo | Zhou Heyang | W+R | 2011-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XHZPFJNAZ0%2B1%2FYqhQNYEow%3D%3D) | 
-| 第1回大舟杯プロシニア最強者戦決勝三番勝負第2局 | Cho Hunhyun | Seo Bongsoo | B+2.5 | 2010-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i1s5UoAjqSVrJTq4PvD20A%3D%3D) | 
-| 第1回大舟杯プロシニア最強者戦決勝三番勝負第1局 | Seo Bongsoo | Cho Hunhyun | W+14.5 | 2010-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uWByd0WzHGMke1hGezEseQ%3D%3D) | 
-| 第12回マキシムコーヒー杯入神最強戦2回戦 | Seo Bongsoo | Kim Dongyeop | W+1.5 | 2010-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nQppz7RhWxHCDOTqLgpMqg%3D%3D) | 
-| 第1回大舟杯プロシニア最強者戦準決勝 | Seo Bongsoo | Kang Hun | B+R | 2010-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N173FmH6KGvC4Oj33MPKMA%3D%3D) | 
-| 第1回大舟杯プロシニア最強者戦2回戦 | Seo Bongsoo | Chang Suyeong | B+R | 2010-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mK%2BTFsS5hHyOem5jVNf6hA%3D%3D) | 
-| 第4回GGオークション杯女流対シニア連勝対抗戦第12戦 | Lee Sula | Seo Bongsoo | B+R | 2010-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TBBrTkoo2QTtWRmkHMCyfg%3D%3D) | 
-| 第4回GGオークション杯女流対シニア連勝対抗戦第11戦 | Seo Bongsoo | Moon Dowon | B+6.5 | 2010-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MWQt6yazdhHMKXYePg2R%2Fg%3D%3D) | 
-| 第4回GGオークション杯女流対シニア連勝対抗戦第10戦 | Seo Bongsoo | Kim Soojin | B+2.5 | 2010-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=evNzYMJ2ANV2XLbQs1ZyiQ%3D%3D) | 
-| 第11回マキシムコーヒー杯入神最強戦3回戦 | Seo Bongsoo | Cho Hunhyun | W+0.5 | 2010-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HDWyaW%2FnHGNaTcTfk4XE9g%3D%3D) | 
-| 第2回BCカード杯世界選手権統合予選決勝 | missing | Seo Bongsoo | B+1.5 | 2010-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hZRUFtFTvHIC6nwMxB7UHA%3D%3D) | 
-| 第11回マキシムコーヒー杯入神最強戦2回戦 | Paek Seongho | Seo Bongsoo | W+R | 2009-12-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C7tlDoXn0LTNL7vjFAnS%2FQ%3D%3D) | 
-| 第5期圓益杯十段戦1回戦 | Heo Yongho | Seo Bongsoo | B+R | 2009-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SaB%2F2%2Fz94B2OGKb%2BiVlvRA%3D%3D) | 
-| 第1回SKY囲碁杯第15戦 | Seo Bongsoo | Cho Hunhyun | B+R | 2009-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gA9NXVQ%2F6QZDwiV%2BZlxnsQ%3D%3D) | 
-| 第11回農心杯韓国選抜戦 | Seo Bongsoo | Hong Minpyo | W+7.5 | 2009-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TEqGNn7e2b%2Fnwci4l7rWjQ%3D%3D) | 
-| 第11回農心杯韓国選抜戦 | Ko Keuntae | Seo Bongsoo | W+R | 2009-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tOk7fotaPpw0Q9T8zD4tSw%3D%3D) | 
-| 第10回マキシムコーヒー杯入神最強戦2回戦 | Seo Bongsoo | Seo Nungwuk | W+R | 2008-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aJvp5rQvmqWo2G3zLgyI7A%3D%3D) | 
-| 第4期圓益杯十段戦1回戦 | Seo Bongsoo | missing | W+4.5 | 2008-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IvJ%2FxhWz0FRuucp8ruusrQ%3D%3D) | 
-| 第2回GGオークション杯女流対シニア連勝対抗戦第20戦 | Park Shiun | Seo Bongsoo | B+6.5 | 2008-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8zM%2F0OotymWf5%2ByVUzKPKw%3D%3D) | 
-| 第5期電子ランド杯王中王戦1回戦 | Seo Bongsoo | Yun Hyuk | W+R | 2008-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GTe1Rs9Pm%2FeLodsf9ag62g%3D%3D) | 
-| 第5期電子ランド杯王中王戦予選 | Seo Bongsoo | Park Jinyeol | B+R | 2008-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=REwltgzjjSRzCZQNZjkJ6g%3D%3D) | 
-| 第5期電子ランド杯王中王戦予選 | Seo Bongsoo | Kim JongJoon | B+11.5 | 2008-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=euSd9HuWlKhZOIicipOlYg%3D%3D) | 
-| 第9回マキシムコーヒー杯入神最強戦準決勝 | Seo Bongsoo | Park Yeonghun | W+R | 2007-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9M%2Bh08EqT6oPBXP3bhJ1mg%3D%3D) | 
-| 第9回マキシムコーヒー杯入神最強戦4回戦 | Seo Bongsoo | Choi Cheolhan | B+1.5 | 2007-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eRJbsFk8gur16mSRwWUIYQ%3D%3D) | 
-| 第9回マキシムコーヒー杯入神最強戦3回戦 | Seo Bongsoo | Yang Sangkuk | B+4.5 | 2007-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JwX%2BWvSGOSiQEcv9%2BS5EkA%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権1回戦 | Kang Dongyun | Seo Bongsoo | B+R | 2007-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0A8EyiCHjJvwH9w4jXJfvQ%3D%3D) | 
-| 第4期電子ランド杯王中王戦1回戦 | Paek Hongseok | Seo Bongsoo | B+8.5 | 2007-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R56DUmPCNG%2BBWc0ihxiEyg%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権準決勝三番勝負第2局 | Seo Bongsoo | Chang Hao | W+R | 2006-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yxFUZwWarOYHZ2gSKUma6w%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権準決勝三番勝負第1局 | Chang Hao | Seo Bongsoo | B+R | 2006-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E1GzlJ%2B9YdVu3VJomqBjUg%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権3回戦 | Seo Bongsoo | Wang Yao | B+R | 2006-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BpWw9cpJ2bXu7ZoQEfVMqQ%3D%3D) | 
-| 第2期圓益杯十段戦2回戦 | Lee Yeongkyu | Seo Bongsoo | B+3.5 | 2006-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=duiEG1IJ0MscOT5Mz%2BjMdg%3D%3D) | 
-| 第8回マキシムコーヒー杯入神最強戦1回戦 | Park Cheongsang | Seo Bongsoo | B+2.5 | 2006-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=umiPf45IgRGAeDQ6a%2BWXHg%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権2回戦 | Chen Yaoye | Seo Bongsoo | W+T | 2006-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IjCUMunXwlsm6ZomHEDnKw%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権1回戦 | missing | Seo Bongsoo | W+R | 2006-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pMQcopQ83IVVpG9J2o9wyw%3D%3D) | 
-| 第2期圓益杯十段戦1回戦 | missing | Seo Bongsoo | W+7.5 | 2006-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EjR04xoAyjXHKRshBBCYog%3D%3D) | 
-| 第8回マキシムコーヒー杯入神最強戦0回戦 | missing | Seo Bongsoo | W+R | 2006-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KX9Ye%2Bm8mqvdTVDZBaKfmA%3D%3D) | 
-| 第3期電子ランド杯王中王戦1回戦 | Seo Bongsoo | Yang Keon | W+3.5 | 2006-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f6etC7LAlatnFH%2BSq%2F4Q4w%3D%3D) | 
-| 第3期電子ランド杯王中王戦予選 | Seo Bongsoo | Oh Kyuchul | B+R | 2006-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lk8bjm%2BS%2F7L4QxcTbPsLpw%3D%3D) | 
-| 第7回マキシムコーヒー杯入神最強戦3回戦 | Lee Sedol | Seo Bongsoo | B+R | 2006-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AdPMdt%2F9jBoM1EWtiAGuyg%3D%3D) | 
-| 第3期電子ランド杯王中王戦予選 | Cho Hunhyun | Seo Bongsoo | W+1.5 | 2006-01-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B263qAQmuDYU11hJf63sZg%3D%3D) | 
-| 2005年韓国囲碁リーグプレーオフ | Seo Bongsoo | Rui Naiwei | B+R | 2005-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8%2BB%2Bln23DAGCSIItwJ7Sjg%3D%3D) | 
-| 第1回江原ランド杯韓中囲碁対抗戦韓国選抜戦 | Hong Seongji | Seo Bongsoo | B+R | 2005-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=px3IO2SKhQiGC1r4PJeZNQ%3D%3D) | 
-| 2005年韓国囲碁リーグ | missing | Seo Bongsoo | W+R | 2005-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3W2TvPA1ynnmvCDd6jFdkA%3D%3D) | 
-| 2005年韓国囲碁リーグ | Lee Yeongkyu | Seo Bongsoo | B+R | 2005-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LAlfv4Ga%2FGU%2Fz0%2F3oPH9Xw%3D%3D) | 
-| 第7回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Ha Chanseok | B+R | 2005-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MfKB4vZoPvBZnc3aMW0aKg%3D%3D) | 
-| 2005年韓国囲碁リーグ | Rui Naiwei | Seo Bongsoo | B+R | 2005-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z2w8v1oWwSy1i1DYt76qow%3D%3D) | 
-| 第1期圓益杯十段戦1回戦 | Lee Sedol | Seo Bongsoo | B+R | 2005-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7gDseDtUDcwpkfv50RnhTA%3D%3D) | 
-| 第5期ジャックフィールド杯プロシニア棋戦準決勝 | Kim Dongyeop | Seo Bongsoo | B+1.5 | 2005-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VcVA%2FzeBaMmub7I4bvqv3g%3D%3D) | 
-| 2005年韓国囲碁リーグ | Lee Huiseong | Seo Bongsoo | W+R | 2005-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tUJYzatnvWQBwoJcnnI%2FgQ%3D%3D) | 
-| 2005年韓国囲碁リーグ | Paek Hongseok | Seo Bongsoo | B+R | 2005-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hO4k8T%2F8re2UMhGvIdKeeA%3D%3D) | 
-| 第5期ジャックフィールド杯プロシニア棋戦3回戦 | Seo Bongsoo | Kim Dongmyeon | B+15.5 | 2005-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MBgJYQQc9%2Bt8%2FeorH0CNAw%3D%3D) | 
-| 第7回農心杯韓国選抜戦 | Cho Hunhyun | Seo Bongsoo | B+6.5 | 2005-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ogc9PSn4ulpgbfVbqeQGiQ%3D%3D) | 
-| 2005年韓国囲碁リーグ | Seo Bongsoo | Heo Yongho | W+3.5 | 2005-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Oe%2FYSU8f2diCPsx9Ds1GvA%3D%3D) | 
-| 第5期ジャックフィールド杯プロシニア棋戦2回戦 | Jeong Suhyeon | Seo Bongsoo | W+R | 2005-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J3uhHd3ddI2z8K92mSlxfw%3D%3D) | 
-| 2005年韓国囲碁リーグ | Park Seunghyeon | Seo Bongsoo | W+R | 2005-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LLysleNvxNuPoq3uEBygTg%3D%3D) | 
-| 第5期ジャックフィールド杯プロシニア棋戦1回戦 | Seo Bongsoo | Lee Bonggeun | B+R | 2005-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w4HTFhfXvEo%2FM57w8nV6iA%3D%3D) | 
-| 第6回マキシムコーヒー杯入神最強戦準決勝 | Yang Jaeho | Seo Bongsoo | B+3.5 | 2005-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YLv0IykX5ykGZa5Dy%2FpejQ%3D%3D) | 
-| 2004年韓国囲碁リーグ | Seo Bongsoo | Kim Hwansoo | W+R | 2004-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LPKnymgbANPfw36XgHD8fw%3D%3D) | 
-| 第6回マキシムコーヒー杯入神最強戦3回戦 | Seo Bongsoo | missing | B+R | 2004-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VuwtT5Q9s0qOOt82fONHOQ%3D%3D) | 
-| 2004年韓国囲碁リーグ | Lee Hongyeol | Seo Bongsoo | W+12.5 | 2004-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7mP8UL3z6yDYWMzSD6Q4mQ%3D%3D) | 
-| 第6回マキシムコーヒー杯入神最強戦2回戦 | Seo Bongsoo | Cho Daehyeon | B+R | 2004-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Rc%2BPw2OT%2FZmLdqOI3xZrQ%3D%3D) | 
-| 2004年韓国囲碁リーグ | Seo Bongsoo | Yu Keimin | W+10.5 | 2004-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3%2F5wvtMPbkSQikkq6yIttw%3D%3D) | 
-| 第6回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Choi Myeonghun | B+R | 2004-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jKWGla53DHlXIR9DSbydLQ%3D%3D) | 
-| 2004年韓国囲碁リーグ | Seo Bongsoo | Hong Minpyo | B+6.5 | 2004-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4j7WIVLOM2pqu7Les8ayKg%3D%3D) | 
-| 2004年韓国囲碁リーグ | Seo Bongsoo | Jiang Zhujiu | W+R | 2004-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YlXdYdTD16Pd1coPRbRcvQ%3D%3D) | 
-| 2004年韓国囲碁リーグ | Kim Hwansoo | Seo Bongsoo | W+6.5 | 2004-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fkhvXAO%2BWz4G4t7YMGOC8w%3D%3D) | 
-| 2004年韓国囲碁リーグ | Yang Jaeho | Seo Bongsoo | W+R | 2004-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4dWMzSMMx3xgGRWXMzOB%2Fw%3D%3D) | 
-| 2004年韓国囲碁リーグ | Paek Hongseok | Seo Bongsoo | B+R | 2004-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2gcqO01qDGzfmb%2FW5i197w%3D%3D) | 
-| 第1回韓国ドリームリーグ | Lee Changho | Seo Bongsoo | B+R | 2003-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=adwdv0aCaAqgPiHzZ%2BrC%2Bw%3D%3D) | 
-| 第1回韓国ドリームリーグ | Song Taekon | Seo Bongsoo | B+R | 2003-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=35%2F26S1XWpMWVUHiyhAevg%3D%3D) | 
-| 第1回韓国ドリームリーグ | Cho Hunhyun | Seo Bongsoo | B+R | 2003-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5cwjUmQrfMOt7576N9DqYQ%3D%3D) | 
-| 第15期棋聖戦（韓国）1回戦 | Kim Seungjun | Seo Bongsoo | B+13.5 | 2003-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=18TvvxIIHIJKbzqCCEt3UQ%3D%3D) | 
-| 第1回韓国ドリームリーグ | Seo Bongsoo | Park Yeonghun | W+R | 2003-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X9C0J4jj0qpEsnJgbGTRig%3D%3D) | 
-| 第1回韓国ドリームリーグ | Seo Bongsoo | Yoo Changhyuk | W+4.5 | 2003-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6sTqpZevcTHg6dOghsSc0w%3D%3D) | 
-| 第37期王位戦リーグ | Seo Bongsoo | Cho Hanseung | B+R | 2003-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=seF6HMgBvZUrW7rENrwdZA%3D%3D) | 
-| 第37期王位戦リーグ | Cho Hunhyun | Seo Bongsoo | B+0.5 | 2003-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wvniofUWtEZ96CyuRhVW%2Fw%3D%3D) | 
-| 第3期石種杯プロシニア棋戦決勝三番勝負第3局 | Seo Bongsoo | Kang Hun | B+R | 2003-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MRHUbZlr5y9VGlTJq8oqDA%3D%3D) | 
-| 第3期石種杯プロシニア棋戦決勝三番勝負第2局 | Seo Bongsoo | Kang Hun | B+R | 2003-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MDDI8kc0kImswHn85jntNg%3D%3D) | 
-| 第37期王位戦リーグ | Seo Bongsoo | Park Cheongsang | W+R | 2003-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IaC%2FSk2mjGLXHHtC8TeoYA%3D%3D) | 
-| 第37期王位戦リーグ | Seo Bongsoo | Lee Sedol | W+R | 2003-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qNbi2rG%2Bb9tuHhCmM3KhHw%3D%3D) | 
-| 第3期石種杯プロシニア棋戦決勝三番勝負第1局 | Kang Hun | Seo Bongsoo | B+R | 2003-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wve5quSYHOUIraRJQRmAUg%3D%3D) | 
-| 第37期王位戦リーグ | Seo Bongsoo | Ryu Chaehyeong | B+R | 2003-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rwehHrhJi%2FrfEbq6BgaJyg%3D%3D) | 
-| 第3回KAT杯韓国囲碁最強戦 | Park Yeonghun | Seo Bongsoo | B+R | 2003-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MrahFROgLRKU27JvMi5oLA%3D%3D) | 
-| 第37期王位戦リーグ | Kim Juho | Seo Bongsoo | B+R | 2003-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=51dIo5RpkO83QDFkQDXJfw%3D%3D) | 
-| 第8回LG杯韓国予選 | Hong Jansik | Seo Bongsoo | B+R | 2003-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rQVJOX%2FIIyi44zJhOuh46g%3D%3D) | 
-| 第37期王位戦リーグ | An Joyeong | Seo Bongsoo | B+R | 2003-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uXSU7L6PFmYWq6CeRNT%2BKA%3D%3D) | 
-| 第3回KAT杯韓国囲碁最強戦 | Seo Bongsoo | Kim Ilhwan | B+5.5 | 2003-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ic9KoxMoueeJe977Ha59DA%3D%3D) | 
-| 第2期KT杯マスターズプロ棋戦3回戦 | Lee Sedol | Seo Bongsoo | B+R | 2002-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5lVdKtTmRRGNKpbuzo0UMA%3D%3D) | 
-| 第2回KAT杯韓国囲碁最強戦 | Yoo Changhyuk | Seo Bongsoo | B+3.5 | 2002-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mEGZvQ9pDhaDN3bPThM6lw%3D%3D) | 
-| 第4回マキシムコーヒー杯入神最強戦 | Jiang Zhujiu | Seo Bongsoo | B+R | 2002-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SWuWOiAzngeM2m%2FR37Edqw%3D%3D) | 
-| 第46期国手戦（韓国）敗者復活戦2回戦 | Rui Naiwei | Seo Bongsoo | B+R | 2002-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CBcbGvET4btiNunxu1M%2BNA%3D%3D) | 
-| 第2期KT杯マスターズプロ棋戦2回戦 | Seo Bongsoo | missing | B+R | 2002-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6dVFNwp3I63t55mvwPG6yg%3D%3D) | 
-| 第46期国手戦（韓国）敗者復活戦1回戦 | Lee Jaeung | Seo Bongsoo | W+R | 2002-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tcgi4NXGsHl8lZwJfn3K0g%3D%3D) | 
-| 第2回KAT杯韓国囲碁最強戦 | Chang Suyeong | Seo Bongsoo | W+R | 2002-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2Fh%2Fvwdb3yExvf5waco7Sw%3D%3D) | 
-| 第7期三星杯1回戦 | Hane Naoki | Seo Bongsoo | B+R | 2002-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CmtIBxFM3IMhVV9Ei%2Ft4kA%3D%3D) | 
-| 第7期三星杯予選決勝 | Mochizuki Kenichi | Seo Bongsoo | W+R | 2002-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6BB4vFdvsv%2BRV%2Baqno8Olw%3D%3D) | 
-| 第1回KAT杯韓国囲碁最強戦 | Seo Bongsoo | Yoo Changhyuk | B+4.5 | 2002-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y2Z75nF%2BR%2B%2B6iSTU2jo6OQ%3D%3D) | 
-| 第2期石種杯プロシニア棋戦決勝三番勝負第2局 | Seo Bongsoo | Im Changsik | B+R | 2002-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L9pwdIg1r3qs8p%2BYSfvYJg%3D%3D) | 
-| 第2期石種杯プロシニア棋戦決勝三番勝負第1局 | Im Changsik | Seo Bongsoo | W+R | 2002-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gcwmSxXsKWun0RTgDhmy8A%3D%3D) | 
-| 第46期国手戦（韓国）予選 | Kim Dongyeop | Seo Bongsoo | W+R | 2002-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4hg6M1n%2FqgNNaUz6FjmNqw%3D%3D) | 
-| 第7期バッカス杯天元戦1回戦 | Seo Bongsoo | Kim Seungjun | W+R | 2002-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ahG8mB097Jx%2BIqhYbTc5mA%3D%3D) | 
-| 第1期KTF杯戦 | Lee Huiseong | Seo Bongsoo | B+R | 2002-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=82hM7eDjvQcLpUUrYOi1IQ%3D%3D) | 
-| 第1期KTF杯戦 | Seo Bongsoo | Choi Cheolhan | W+5.5 | 2002-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BfDYD1sWyH%2BkeI0tUvZDbw%3D%3D) | 
-| 第1期KT杯マスターズプロ棋戦準決勝 | Cho Hunhyun | Seo Bongsoo | B+R | 2002-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=grkhPxjKdiN%2BnnhRrg8bug%3D%3D) | 
-| 第1期KT杯マスターズプロ棋戦4回戦 | Seo Bongsoo | Han Chongjin | B+3.5 | 2002-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ECAXEjFLAWO8pTowROIfsw%3D%3D) | 
-| 第1期KTF杯戦 | Park Yeonghun | Seo Bongsoo | B+R | 2002-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P6Cpk6VRHuX11oK3xwUHJw%3D%3D) | 
-| 第3回マキシムコーヒー杯入神最強戦準決勝 | Kim Ilhwan | Seo Bongsoo | B+14.5 | 2001-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9UPRg%2BoUFQ1RCM7XXXkd4Q%3D%3D) | 
-| 第36期覇王戦本戦第11局 | Yoo Changhyuk | Seo Bongsoo | B+6.5 | 2001-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ldqj3%2FKN6ZRp9jDe231qiA%3D%3D) | 
-| 第1期KT杯マスターズプロ棋戦3回戦 | Seo Bongsoo | missing | B+3.5 | 2001-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BMPQBOmd25JZJFWgcGo7zg%3D%3D) | 
-| 第1期KTF杯戦 | Seo Bongsoo | Kim Seungjun | W+R | 2001-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yUYpfLRNVuNwpfjee3yHbA%3D%3D) | 
-| 第3回マキシムコーヒー杯入神最強戦 | Chang Suyeong | Seo Bongsoo | B+R | 2001-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UweRfIKAO9zVeDZcFudDdg%3D%3D) | 
-| 第3回マキシムコーヒー杯入神最強戦 | Rui Naiwei | Seo Bongsoo | W+8.5 | 2001-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1VDXk1CeLQNG8Olo5CTzMQ%3D%3D) | 
-| 第3回マキシムコーヒー杯入神最強戦 | Kang Hun | Seo Bongsoo | W+4.5 | 2001-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0LJMwpUt8XiA3x685C0hsA%3D%3D) | 
-| 第3回マキシムコーヒー杯入神最強戦 | Choi Kyubyeong | Seo Bongsoo | W+R | 2001-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9AJ2mKiSWSYOinxrsiUSJg%3D%3D) | 
-| 第6期三星杯1回戦 | Han Zenki | Seo Bongsoo | B+R | 2001-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Jc771Tkqv8%2F3Ofs6J1S1w%3D%3D) | 
-| 第6期バッカス杯天元戦準決勝 | Park Yeonghun | Seo Bongsoo | B+R | 2001-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=62PoTzCFwn9CWCBfYHeTlA%3D%3D) | 
-| 第1期KT杯マスターズプロ棋戦2回戦 | Seo Bongsoo | missing | B+0.5 | 2001-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kQaQC8%2Bfc6JuQ8JjsuxLSw%3D%3D) | 
-| 第6期バッカス杯天元戦2回戦 | Seo Bongsoo | Rui Naiwei | B+R | 2001-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qlPL4OdLwynryLKHwfj8Hw%3D%3D) | 
-| 第6回LG杯世界棋王戦2回戦 | Seo Bongsoo | Yamashita Keigo | W+R | 2001-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LOfgDh6WzwdVRq%2B9smO6OQ%3D%3D) | 
-| 第6期バッカス杯天元戦1回戦 | Seo Bongsoo | Choi Munyong | B+R | 2001-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A4D0Blq7okqFGIGSd8H%2F3g%3D%3D) | 
-| 第6期LG精油杯プロ棋戦1回戦 | Seo Nungwuk | Seo Bongsoo | B+8.5 | 2001-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AifQ0TgRxg4uSbFBujA1pw%3D%3D) | 
-| 第20回KBS杯囲碁王戦本戦1回戦 | Seo Bongsoo | Paek Daehyun | W+0.5 | 2001-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sh8WfKoun1yPwCMrAIhjGA%3D%3D) | 
-| 第5回LG杯世界棋王戦3回戦 | Seo Bongsoo | Zhou Heyang | W+R | 2000-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fHEScABk88lqNRlgo8JMCA%3D%3D) | 
-| 第2回マキシムコーヒー杯入神最強戦第3局 | Seo Bongsoo | Jiang Zhujiu | W+R | 2000-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i%2FJTkRMglW397Fk8x8W2DA%3D%3D) | 
-| 第5期三星杯準決勝 | Seo Bongsoo | Yamada Kimio | W+1.5 | 2000-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zTDgZagQ6hCqvGQnVRL4kA%3D%3D) | 
-| 第5期三星杯3回戦 | Seo Bongsoo | Cho Hunhyun | B+5.5 | 2000-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IUBVA7BdcPu8Ta5gR9Alhg%3D%3D) | 
-| 第5期バッカス杯天元戦準決勝 | Lee Sedol | Seo Bongsoo | B+R | 2000-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=enJhnFLgUhR6FjvDF43kdQ%3D%3D) | 
-| 第5期三星杯2回戦 | Seo Bongsoo | Chang Hao | B+R | 2000-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FpCZ2UvVen%2BWlOeq3UxVNA%3D%3D) | 
-| 第5期三星杯1回戦 | Seo Bongsoo | Wang Runan | B+8.5 | 2000-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PQkAYZKt5o28lrArUAGcZw%3D%3D) | 
-| 第35期覇王戦本戦第4局 | Seo Bongsoo | Lee Changho | W+R | 2000-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=30j4BQIhb9%2BUZ1ymlL786g%3D%3D) | 
-| 第5期LG精油杯プロ棋戦1回戦 | Seo Bongsoo | Mok Jinseok | W+R | 2000-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XnZ9gWn1i0jic3DVpXc3Kg%3D%3D) | 
-| 第8期倍達王戦1回戦 | Seo Bongsoo | Park Yeonghun | W+8.5 | 2000-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mtlZxdLbW%2B47H%2FnyXj0iog%3D%3D) | 
-| 第5回LG杯世界棋王戦2回戦 | Seo Bongsoo | Yu Bin | B+8.5 | 2000-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EhedvehvPAQGSRkKei1Gnw%3D%3D) | 
-| 第5回LG杯世界棋王戦1回戦 | Seo Bongsoo | Michael Redmond | B+R | 2000-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Xq8C0DyU0xc4llZLyMGrg%3D%3D) | 
-| 第5期バッカス杯天元戦1回戦 | Seo Bongsoo | Weon Seongjin | B+R | 2000-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=opKclEiXkFui2C8vO4OKbw%3D%3D) | 
-| 第4回応氏杯世界選手権1回戦 | Yu Bin | Seo Bongsoo | B+R | 2000-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wGjyPSwQ6Ae3Q5OSlsA11A%3D%3D) | 
-| 第1期石種杯プロシニア棋戦決勝三番勝負第3局 | Seo Bongsoo | Hong Taesun | B+R | 2000-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZIIgDcBhuPTF9KBWIZ1itw%3D%3D) | 
-| 第1期石種杯プロシニア棋戦決勝三番勝負第2局 | Hong Taesun | Seo Bongsoo | W+R | 2000-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=psjVEyyy0UpigJdtGD9T%2BA%3D%3D) | 
-| 第1期石種杯プロシニア棋戦決勝三番勝負第1局 | Seo Bongsoo | Hong Taesun | W+R | 2000-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3IH5N99hJ4wI56A3tu8%2Bdg%3D%3D) | 
-| 第3回応氏杯世界選手権2回戦 | Seo Bongsoo | Yoda Norimoto | W+R | 1996-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bqucSjVH%2BWzEt1Hn3uB1pQ%3D%3D) | 
-| 第2回応氏杯世界選手権決勝五番勝負第5局 | Seo Bongsoo | Otake Hideo | B+R | 1993-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W34sdWACe%2BcGsTrl5ViaPg%3D%3D) | 
-| 第2回応氏杯世界選手権決勝五番勝負第4局 | Otake Hideo | Seo Bongsoo | B+9 | 1993-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eXeU16l%2BajGLCRtfRweJ%2BA%3D%3D) | 
-| 第2回応氏杯世界選手権決勝五番勝負第3局 | Seo Bongsoo | Otake Hideo | B+R | 1993-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tvc8fLZ3iuuNQqJM%2FQXmBw%3D%3D) | 
-| 第2回応氏杯世界選手権決勝五番勝負第2局 | Otake Hideo | Seo Bongsoo | W+5 | 1993-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N%2BYwA3Dwc8lB6Y79zRF2EA%3D%3D) | 
-| 第2回応氏杯世界選手権決勝五番勝負第1局 | Seo Bongsoo | Otake Hideo | W+7 | 1993-03-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YcSGjuNLjrdb%2B0bCbyhTtQ%3D%3D) | 
-| 第2回応氏杯世界選手権準決勝三番勝負第3局 | Cho Chikun | Seo Bongsoo | W+5 | 1992-11-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DCgSrjVNJIvlT1U9g%2B3vJw%3D%3D) | 
-| 第2回応氏杯世界選手権準決勝三番勝負第2局 | Seo Bongsoo | Cho Chikun | B+1 | 1992-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3jDHeoomcLmiQTPsi2UmFw%3D%3D) | 
-| 第2回応氏杯世界選手権準決勝三番勝負第1局 | Cho Chikun | Seo Bongsoo | B+1 | 1992-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CwS%2FpXVx2fsNMd1c%2FMWcFA%3D%3D) | 
-| 第2回応氏杯世界選手権3回戦 | Takemiya Masaki | Seo Bongsoo | W+9 | 1992-07-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SXKYSjx2K6YY33UoKw2aqw%3D%3D) | 
-| 第2回応氏杯世界選手権2回戦 | Seo Bongsoo | Fujisawa Hideyuki | B+7 | 1992-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6fM%2BAv%2Bzy75zbIm9t5kilQ%3D%3D) | 
-| 第2回応氏杯世界選手権1回戦 | Tei Meiko | Seo Bongsoo | W+R | 1992-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yNtVnPxhIxicgKLCSXZk5w%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-05 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Kim Kihun | Win | B+R | 6.5 | 3182 | 66 | 
+| 2021-04-14 | 第8回大舟杯プロシニア最強者戦決勝 | Seo Bongsoo | Yoo Changhyuk | Win | B+2.5 | 6.5 | 3116 | 62 | 
+| 2021-04-08 | 第8回大舟杯プロシニア最強者戦準決勝 | Seo Bongsoo |  | Win | B+R | 6.5 | 3054 | -15 | 
+| 2021-03-17 | 第8回大舟杯プロシニア最強者戦2回戦 | Seo Bongsoo | Kwon Kapyong | Win | B+R | 6.5 | 3069 | 45 | 
+| 2021-02-24 | 第8回大舟杯プロシニア最強者戦1回戦 | Kang Dajeong | Seo Bongsoo | Win | W+R | 6.5 | 3024 | -87 | 
+| 2021-02-09 | 第44期名人戦（韓国）特別対局第2局 | Lee Changho | Seo Bongsoo | Lose | B+R | 6.5 | 3111 | 84 | 
+| 2021-01-04 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Weon Seongjin | Lose | W+R | 6.5 | 3027 | 132 | 
+| 2020-10-26 | 2020NHシニア囲碁リーグ第14節第1試合第2局 | Seo Bongsoo | Kim Ilhwan | Win | B+11.5 | 6.5 | 2895 | 8 | 
+| 2020-10-19 | 2020NHシニア囲碁リーグ第13節第1試合第1局 |  | Seo Bongsoo | Win | W+1.5 | 6.5 | 2887 | -8 | 
+| 2020-10-13 | 2020NHシニア囲碁リーグ第12節第2試合第2局 | Chang Suyeong | Seo Bongsoo | Win | W+7.5 | 6.5 | 2895 | 34 | 
+| 2020-10-07 | 2020NHシニア囲碁リーグ第11節第3試合第1局 | Seo Bongsoo | Kim JongJoon | Win | B+R | 6.5 | 2861 | 80 | 
+| 2020-09-24 | 2020NHシニア囲碁リーグ第10節第4試合第1局 | Seo Bongsoo | Kim Chongsu | Win | B+10.5 | 6.5 | 2781 | 6 | 
+| 2020-09-16 | 2020NHシニア囲碁リーグ第9節第3試合第2局 | Seo Bongsoo | Kim Kihun | Win | B+R | 6.5 | 2775 | 59 | 
+| 2020-09-10 | 2020NHシニア囲碁リーグ第8節第3試合第2局 | Yoo Changhyuk | Seo Bongsoo | Win | W+2.5 | 6.5 | 2716 | 64 | 
+| 2020-09-02 | 第25回三星火災杯韓国シニア枠予選 | Seo Bongsoo | Lee Changho | Lose | W+R | 6.5 | 2652 | -42 | 
+| 2020-08-27 | 2020NHシニア囲碁リーグ第7節第4試合第1局 | Seo Bongsoo | Kim Ilhwan | Win | B+14.5 | 6.5 | 2694 | 42 | 
+| 2020-08-20 | 2020NHシニア囲碁リーグ第6節第4試合第1局 | Seo Bongsoo | Choi Kyubyeong | Win | B+8.5 | 6.5 | 2652 | 48 | 
+| 2020-08-12 | 2020NHシニア囲碁リーグ第5節第3試合第1局 | Seo Bongsoo | Jimmy Cha | Win | B+5.5 | 6.5 | 2604 | 111 | 
+| 2020-08-04 | 2020NHシニア囲碁リーグ第4節第2試合第1局 | Seo Bongsoo | Seo Nungwuk | Lose | W+R | 6.5 | 2493 | -37 | 
+| 2020-07-27 | 2020NHシニア囲碁リーグ第3節第1試合第1局 | Seo Bongsoo | Kim Chongsu | Win | B+R | 6.5 | 2530 | 12 | 
+| 2020-07-25 | 仲邑菫初段のオロチャレンジ第3回第3局 | Seo Bongsoo | Nakamura Sumire | Win | B+R | 6.5 | 2518 | 0 | 
+| 2020-07-25 | 仲邑菫初段のオロチャレンジ第3回第2局 | Nakamura Sumire | Seo Bongsoo | Win | W+R | 6.5 | 2518 | 8 | 
+| 2020-07-24 | 仲邑菫初段のオロチャレンジ第3回第1局 | Seo Bongsoo | Nakamura Sumire | Win | B+R | 6.5 | 2510 | 18 | 
+| 2020-07-21 | 2020NHシニア囲碁リーグ第2節第2試合第1局 | Kim Soojang | Seo Bongsoo | Lose | B+R | 6.5 | 2492 | -111 | 
+| 2020-07-14 | 2020NHシニア囲碁リーグ第1節第2試合第1局 | Seo Bongsoo | Yoo Changhyuk | Lose | W+R | 6.5 | 2603 | -263 | 
+| 2020-01-17 | 第3期韓国竜星戦32強戦 | Seo Bongsoo |  | Lose | W+R | 6.5 | 2866 | 4 | 
+| 2020-01-14 | 第13回GGオークション杯女流対シニア連勝対抗戦第11局 | Lee Youngjoo | Seo Bongsoo | Lose | B+1.5 | 6.5 | 2862 | -16 | 
+| 2020-01-13 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Kim Jiseok | Seo Bongsoo | Lose | B+R | 6.5 | 2878 | -11 | 
+| 2019-12-27 | 2019NHシニア囲碁リーグチャンピオン決定戦第2戦第2局 | Kang Hun | Seo Bongsoo | Win | W+3.5 | 6.5 | 2889 | 2 | 
+| 2019-12-26 | 2019NHシニア囲碁リーグチャンピオン決定戦第1戦第1局 | Cho Chikun | Seo Bongsoo | Lose | B+R | 6.5 | 2887 | 283 | 
+| 2019-12-25 | 2019NHシニア囲碁リーグプレーオフ第3戦第2局 | Park Yeongchan | Seo Bongsoo | Win | W+11.5 | 6.5 | 2604 | -5 | 
+| 2019-12-24 | 2019NHシニア囲碁リーグプレーオフ第2戦第1局 | Seo Bongsoo | Kim Kihun | Win | B+R | 6.5 | 2609 | 9 | 
+| 2019-12-23 | 2019NHシニア囲碁リーグプレーオフ第1戦第1局 | Kim Soojang | Seo Bongsoo | Lose | B+1.5 | 6.5 | 2600 | -12 | 
+| 2019-12-19 | 2019NHシニア囲碁リーグ準プレーオフ第1戦第1局 | Rui Naiwei | Seo Bongsoo | Lose | B+R | 6.5 | 2612 | -20 | 
+| 2019-12-18 | 2019NHシニア囲碁リーグ第14節第4試合第1局 | Chang Suyeong | Seo Bongsoo | Win | W+R | 6.5 | 2632 | 23 | 
+| 2019-12-09 | 2019NHシニア囲碁リーグ第13節第1試合第3局 | Kim Dongmyeon | Seo Bongsoo | Win | W+R | 6.5 | 2609 | -16 | 
+| 2019-12-02 | 2019NHシニア囲碁リーグ第12節第1試合第2局 | Seo Bongsoo | Moon Myunggun | Win | B+R | 6.5 | 2625 | -4 | 
+| 2019-11-29 | 2019NHシニア囲碁リーグ第11節第1試合第2局 | Seo Bongsoo | An Kwanwuk | Win | B+10.5 | 6.5 | 2629 | -2 | 
+| 2019-11-27 | 2019NHシニア囲碁リーグ第10節第3試合第1局 | Seo Bongsoo | Hwang Weonjun | Win | B+R | 6.5 | 2631 | -10 | 
+| 2019-11-19 | 2019NHシニア囲碁リーグ第9節第2試合第2局 | Jeong Daesang | Seo Bongsoo | Win | W+R | 6.5 | 2641 | 20 | 
+| 2019-11-12 | 2019NHシニア囲碁リーグ第8節第2試合第3局 | Kim Kihun | Seo Bongsoo | Win | W+0.5 | 6.5 | 2621 | -1 | 
+| 2019-11-08 | 2019NHシニア囲碁リーグ第7節第1試合第1局 | Seo Bongsoo | Cho Chikun | Lose | W+R | 6.5 | 2622 | -33 | 
+| 2019-11-07 | 2019NHシニア囲碁リーグ第6節第4試合第1局 | Seo Bongsoo | Jimmy Cha | Win | B+R | 6.5 | 2655 | 2 | 
+| 2019-10-31 | 2019NHシニア囲碁リーグ第5節第4試合第3局 | Kim Chongsu | Seo Bongsoo | Win | W+2.5 | 6.5 | 2653 | 18 | 
+| 2019-10-24 | 2019扁康杯中韓囲棋国手友誼戦第2戦 | Seo Bongsoo | Nie Weiping | Win | B+R | 7.5 | 2635 | 23 | 
+| 2019-10-23 | 2019扁康杯中韓囲棋国手友誼戦第1戦 | Chang Hao | Seo Bongsoo | Lose | B+2¾ | 7.5 | 2612 | -4 | 
+| 2019-10-18 | 2019NHシニア囲碁リーグ第3節第2試合第2局 | Seo Bongsoo | Hwang Weonjun | Win | B+R | 6.5 | 2616 | -6 | 
+| 2019-10-16 | 2019NHシニア囲碁リーグ第2節第3試合第3局 | Jeong Daesang | Seo Bongsoo | Win | W+8.5 | 6.5 | 2622 | 6 | 
+| 2019-10-09 | 2019NHシニア囲碁リーグ第1節第3試合第3局 | Seo Bongsoo | Kim Kihun | Lose | W+R | 6.5 | 2616 | -61 | 
+| 2019-10-06 | 2019江南囲碁フェスティバルレジェンドマッチ | Yoo Changhyuk | Seo Bongsoo | Lose | B+R | 6.5 | 2677 | 40 | 
+| 2019-08-31 | 第24回三星火災杯世界囲碁マスターズ2回戦 | Gu Zihao | Seo Bongsoo | Lose | B+R | 6.5 | 2637 | -1 | 
+| 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Seo Bongsoo | Guo Xinyi | Win | B+3.5 | 6.5 | 2638 | 27 | 
+| 2019-07-05 | 第24回三星火災杯統合予選決勝 | Seo Bongsoo | Yoo Changhyuk | Win | B+5.5 | 6.5 | 2611 | 42 | 
+| 2019-07-04 | 第24回三星火災杯統合予選準決勝 | Seo Bongsoo | Yu Bin | Win | B+R | 6.5 | 2569 | 22 | 
+| 2019-06-12 | 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | O Rissei | Seo Bongsoo | Win | W+R | 6.5 | 2547 | 53 | 
+| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会個人戦準決勝 | Seo Bongsoo | O Rissei | Lose | W+R | 6.5 | 2494 | 0 | 
+| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | Kobayashi Koichi | Seo Bongsoo | Lose | B+0.5 | 6.5 | 2494 | -33 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | O Meien | Seo Bongsoo | Win | W+R | 6.5 | 2527 | 0 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | Rui Naiwei | Seo Bongsoo | Lose | B+T | 6.5 | 2527 | 19 | 
+| 2019-06-08 | 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Seo Bongsoo | Liu Xiaoguang | Win | B+1.5 | 6.5 | 2508 | 60 | 
+| 2019-05-13 | 第6回大舟杯プロシニア最強者戦準決勝 | Seo Bongsoo | Cho Hyeyeon | Lose | W+1.5 | 6.5 | 2448 | 0 | 
+| 2019-05-13 | 第6回大舟杯プロシニア最強者戦準決勝 | Seo Bongsoo | Cho Hyeyeon | Lose | W+1.5 | 6.5 | 2448 | -91 | 
+| 2019-04-16 | 第3回中日韓囲碁元老戦準決勝 | Yu Bin | Seo Bongsoo | Lose | B+1¾ | 7.5 | 2539 | -21 | 
+| 2019-04-15 | 第3回中日韓囲碁元老戦1回戦 | Seo Bongsoo | Cao Dayuan | Win | B+R | 7.5 | 2560 | 27 | 
+| 2019-04-09 | 第6回大舟杯プロシニア最強者戦8強戦 | Jeong Daesang | Seo Bongsoo | Win | W+R | 6.5 | 2533 | -35 | 
+| 2019-03-23 | 2019年中日韓囲棋大師招待戦8強戦 | Ma Xiaochun | Seo Bongsoo | Lose | B+2¾ | 7.5 | 2568 | -16 | 
+| 2019-03-04 | 第6回大舟杯プロシニア最強者戦16強戦 | Kim Seongrae | Seo Bongsoo | Win | W+R | 6.5 | 2584 | -48 | 
+| 2019-01-21 | 第20回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Yoo Changhyuk | Lose | W+R | 6.5 | 2632 | -144 | 
+| 2018-10-22 | 第3回韓国シニア囲碁リーグ決勝第1戦釜山-尚州 | Seo Bongsoo | Kang Hun | Win | B+6.5 | 6.5 | 2776 | 35 | 
+| 2018-10-10 | 第3回韓国シニア囲碁リーグプレーオフ富川-尚州 | An Kwanwuk | Seo Bongsoo | Win | W+5.5 | 6.5 | 2741 | 30 | 
+| 2018-09-19 | 第3回韓国シニア囲碁リーグ第14節釜山-尚州 | Kang Hun | Seo Bongsoo | Lose | B+R | 6.5 | 2711 | -37 | 
+| 2018-09-17 | 第12回GGオークション杯女流対シニア連勝対抗戦第20局 | Seo Bongsoo | Kim Cheayoung | Lose | W+R | 6.5 | 2748 | -28 | 
+| 2018-09-11 | 第12回GGオークション杯女流対シニア連勝対抗戦第19局 | Cho Hyeyeon | Seo Bongsoo | Win | W+R | 6.5 | 2776 | 11 | 
+| 2018-09-10 | 第3回韓国シニア囲碁リーグ第13節陰城-尚州 | Kim Soojang | Seo Bongsoo | Lose | B+1.5 | 6.5 | 2765 | -27 | 
+| 2018-09-05 | 第23回三星火災杯世界囲碁マスターズ1回戦C2 | Chen Zijian | Seo Bongsoo | Lose | B+R | 6.5 | 2792 | -9 | 
+| 2018-09-04 | 第23回三星火災杯世界囲碁マスターズ1回戦C1 | Tong Mengcheng | Seo Bongsoo | Lose | B+R | 6.5 | 2801 | -15 | 
+| 2018-08-29 | 第3回韓国シニア囲碁リーグ第12節三陟-尚州 | Seo Bongsoo | Cho Daehyeon | Win | B+4.5 | 6.5 | 2816 | 66 | 
+| 2018-08-21 | 第3回韓国シニア囲碁リーグ第11節霊岩-尚州 | Oh Kyuchul | Seo Bongsoo | Win | W+R | 6.5 | 2750 | -21 | 
+| 2018-08-15 | 第3回韓国シニア囲碁リーグ第10節富川-尚州 | An Kwanwuk | Seo Bongsoo | Lose | B+2.5 | 6.5 | 2771 | -5 | 
+| 2018-08-08 | 第3回韓国シニア囲碁リーグ | Seo Bongsoo |  | Win | B+R | 6.5 | 2776 | 31 | 
+| 2018-07-23 | 第3回韓国シニア囲碁リーグ第7節釜山-尚州 | Seo Bongsoo | Chang Suyeong | Win | B+R | 6.5 | 2745 | 47 | 
+| 2018-07-18 | 第3回韓国シニア囲碁リーグ第6節陰城-尚州 | Seo Bongsoo | Kim Dongyeop | Win | B+6.5 | 6.5 | 2698 | 23 | 
+| 2018-07-09 | 第3回韓国シニア囲碁リーグ第5節三陟-尚州 | Park Seungmun | Seo Bongsoo | Win | W+R | 6.5 | 2675 | -14 | 
+| 2018-07-01 | 2018年紹興国際囲棋大師戦8強戦 | Seo Bongsoo | Cao Dayuan | Lose | W+T | 7.5 | 2689 | -5 | 
+| 2018-06-26 | 第3回韓国シニア囲碁リーグ第4節霊岩-尚州 | Seo Bongsoo | Kim Dongmyeon | Win | B+R | 6.5 | 2694 | -14 | 
+| 2018-06-18 | 第3回韓国シニア囲碁リーグ第3節富川-尚州 | Kim Ilhwan | Seo Bongsoo | Win | W+R | 6.5 | 2708 | 4 | 
+| 2018-06-11 | 第3回韓国シニア囲碁リーグ | Seo Bongsoo | Jeong Daesang | Win | B+R | 6.5 | 2704 | -62 | 
+| 2018-04-10 | 第5回大舟杯プロシニア最強者戦準決勝 | Seo Bongsoo | Cho Hyeyeon | Lose | W+R | 6.5 | 2766 | -24 | 
+| 2018-04-03 | 第5回大舟杯プロシニア最強者戦2回戦 | Kim Eunseon | Seo Bongsoo | Win | W+0.5 | 6.5 | 2790 | -12 | 
+| 2018-03-28 | 第2回中日韓囲碁元老戦準決勝 | Seo Bongsoo | Nie Weiping | Lose | W+1¼ | 7.5 | 2802 | -7 | 
+| 2018-03-27 | 第2回中日韓囲碁元老戦1回戦 | Kobayashi Satoru | Seo Bongsoo | Win | W+¼ | 7.5 | 2809 | -7 | 
+| 2018-03-13 | 第5回大舟杯プロシニア最強者戦1回戦 | Seo Bongsoo | Kim Dongmyeon | Win | B+R | 6.5 | 2816 | 16 | 
+| 2018-03-12 | 第5回大舟杯プロシニア最強者戦1回戦 | Seo Bongsoo | Kim Dongmyeon | Win | B+R | 6.5 | 2800 | -16 | 
+| 2018-02-27 | 第19回マキシムコーヒー杯入神最強戦2回戦 | Park Cheongsang | Seo Bongsoo | Lose | B+R | 6.5 | 2816 | -3 | 
+| 2018-02-26 | 第19回マキシムコーヒー杯入神最強戦2回戦 | Park Cheongsang | Seo Bongsoo | Lose | B+R | 6.5 | 2819 | -9 | 
+| 2018-01-15 | 第19回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Yun Junsang | Win | B+1.5 | 6.5 | 2828 | 177 | 
+| 2017-11-14 | 第2回韓国シニア囲碁リーグチャンピオンシップ釜山-尚州第2戦 | Seo Bongsoo | Chang Suyeong | Win | B+R | 6.5 | 2651 | 2 | 
+| 2017-11-09 | 第2回韓国シニア囲碁リーグプレーオフ尚州-ソウル | Jeong Daesang | Seo Bongsoo | Win | W+R | 6.5 | 2649 | -23 | 
+| 2017-10-25 | 第2回韓国元老連戦14回戦尚州-釜山 | Seo Bongsoo | Kang Hun | Win | B+R | 6.5 | 2672 | 79 | 
+| 2017-10-17 | 第2回韓国シニア囲碁リーグ | Seo Bongsoo | Kim JongJoon | Lose | W+4.5 | 6.5 | 2593 | -21 | 
+| 2017-10-10 | 2回韓国元老連戦12回戦三陟-尚州 |  | Seo Bongsoo | Win | W+R | 6.5 | 2614 | -41 | 
+| 2017-09-28 | 2回韓国元老連戦11回戦陰城-尚州 | Seo Bongsoo | Kim Soojang | Lose | W+3.5 | 6.5 | 2655 | -41 | 
+| 2017-09-26 | 2回韓国元老連戦10回戦陰城-釜山 | Seo Bongsoo | Kim Chongsu | Win | B+10.5 | 6.5 | 2696 | 68 | 
+| 2017-09-11 | 2回韓国元老連戦8回戦烏鹭-尚州 | Seo Nungwuk | Seo Bongsoo | Win | W+1.5 | 6.5 | 2628 | 54 | 
+| 2017-09-06 | 第22回三星火災杯世界囲碁マスターズ1回戦C2 | Park Jinsol | Seo Bongsoo | Lose | B+R | 6.5 | 2574 | 3 | 
+| 2017-09-05 | 第22回三星火災杯世界囲碁マスターズ1回戦C1 | Tang Weixing | Seo Bongsoo | Lose | B+R | 6.5 | 2571 | 12 | 
+| 2017-09-04 | 2回韓国元老連戦7回戦尚州-浦項 | Seo Bongsoo | Chang Suyeong | Win | B+3.5 | 6.5 | 2559 | 104 | 
+| 2017-08-29 | 第11回GGオークション杯女流対シニア連勝対抗戦第16戦 | Cho Hyeyeon | Seo Bongsoo | Lose | B+R | 6.5 | 2455 | 0 | 
+| 2017-08-29 | 2回韓国元老連戦6回戦富川-尚州 | Seo Bongsoo | Kim Ilhwan | Lose | W+R | 6.5 | 2455 | -97 | 
+| 2017-08-28 | 第11回GGオークション杯女流対シニア連勝対抗戦第15戦 | Moon Dowon | Seo Bongsoo | Win | W+2.5 | 6.5 | 2552 | 289 | 
+| 2017-08-22 | 第2回韓国シニア囲碁リーグ |  | Seo Bongsoo | Win | W+14.5 | 6.5 | 2263 | -78 | 
+| 2017-08-17 | 第2回韓国シニア囲碁リーグ | Seo Bongsoo | Kim Soojang | Win | B+R | 6.5 | 2341 | -231 | 
+| 2017-07-26 | 2回韓国元老連戦1回戦烏鹭-尚州 | Jeong Daesang | Seo Bongsoo | Win | W+R | 6.5 | 2572 | -244 | 
+| 2017-07-07 | 第19回農心杯韓国選抜戦 | An Jungki | Seo Bongsoo | Lose | B+R | 6.5 | 2816 | -102 | 
+| 2017-04-25 | 第1回中日韓囲碁元老戦1回戦 | Nie Weiping | Seo Bongsoo | Lose | B+R | 7.5 | 2918 | 246 | 
+| 2017-01-02 | 第18回マキシムコーヒー杯入神最強戦1回戦 | Park Shiun | Seo Bongsoo | Lose | B+R | 6.5 | 2672 | -169 | 
+| 2016-09-21 | 塩城東方集団杯中韓囲棋団体名人選手権戦3回戦 | Ma Xiaochun | Seo Bongsoo | Lose | B+R | 7.5 | 2841 | 4 | 
+| 2016-09-20 | 塩城東方集団杯中韓囲棋団体名人選手権戦2回戦 | Nie Weiping | Seo Bongsoo | Win | W+4.5 | 7.5 | 2837 | -24 | 
+| 2016-09-19 | 塩城東方集団杯中韓囲棋団体名人選手権戦1回戦 | Seo Bongsoo | Chang Hao | Lose | W+0.5 | 7.5 | 2861 | -11 | 
+| 2016-08-09 | 第10回GGオークション杯女流対シニア連勝対抗戦第10戦 | Oh Yujin | Seo Bongsoo | Lose | B+R | 6.5 | 2872 | -14 | 
+| 2016-08-08 | 第10回GGオークション杯女流対シニア連勝対抗戦第9戦 | Seo Bongsoo | Kim Yoonyoung | Win | B+R | 6.5 | 2886 | 11 | 
+| 2016-08-02 | 第10回GGオークション杯女流対シニア連勝対抗戦第8戦 | Kim Nahyun | Seo Bongsoo | Win | W+R | 6.5 | 2875 | 2 | 
+| 2016-08-01 | 第10回GGオークション杯女流対シニア連勝対抗戦第7戦 | Park Shiun | Seo Bongsoo | Win | W+10.5 | 6.5 | 2873 | -66 | 
+| 2016-07-27 | 第1回韓国シニア囲碁リーグ優勝決定戦第2戦 | Kim Soojang | Seo Bongsoo | Lose | B+R | 6.5 | 2939 | -25 | 
+| 2016-07-26 | 第1回韓国シニア囲碁リーグ優勝決定戦第1戦 | Seo Bongsoo | Kim Soojang | Lose | W+R | 6.5 | 2964 | 0 | 
+| 2016-07-26 | 第10回GGオークション杯女流対シニア連勝対抗戦第6戦 | Kim Hyeoimin | Seo Bongsoo | Win | W+2.5 | 6.5 | 2964 | 15 | 
+| 2016-07-25 | 第10回GGオークション杯女流対シニア連勝対抗戦第5戦 |  | Seo Bongsoo | Win | W+R | 6.5 | 2949 | 33 | 
+| 2016-07-19 | 第10回GGオークション杯女流対シニア連勝対抗戦第4戦 | Oh Jeonga | Seo Bongsoo | Win | W+R | 6.5 | 2916 | 13 | 
+| 2016-07-18 | 第10回GGオークション杯女流対シニア連勝対抗戦第3戦 | Seo Bongsoo | Kim Eunseon | Win | B+R | 6.5 | 2903 | 68 | 
+| 2016-07-12 | 第10回GGオークション杯女流対シニア連勝対抗戦第2戦 | Park Taehee | Seo Bongsoo | Win | W+R | 6.5 | 2835 | 44 | 
+| 2016-07-11 | 第10回GGオークション杯女流対シニア連勝対抗戦第1戦 | Seo Bongsoo |  | Win | B+R | 6.5 | 2791 | 81 | 
+| 2016-07-05 | 第1回韓国シニア囲碁リーグ | Seo Bongsoo | Hwang Weonjun | Win | B+R | 6.5 | 2710 | -12 | 
+| 2016-06-20 | 第1回韓国シニア囲碁リーグ | Seo Bongsoo | Choi Kyubyeong | Win | B+R | 6.5 | 2722 | 20 | 
+| 2016-06-14 | 第1回韓国シニア囲碁リーグ | Seo Bongsoo | Kim Soojang | Win | B+R | 6.5 | 2702 | 29 | 
+| 2016-06-07 | 第1回韓国シニア囲碁リーグ | Yoo Changhyuk | Seo Bongsoo | Win | W+0.5 | 6.5 | 2673 | 89 | 
+| 2016-05-30 | 第1回韓国シニア囲碁リーグ | Seo Bongsoo | Kim Ilhwan | Win | B+R | 6.5 | 2584 | 68 | 
+| 2016-05-18 | 第1回韓国シニア囲碁リーグ | Seo Nungwuk | Seo Bongsoo | Win | W+R | 6.5 | 2516 | -57 | 
+| 2016-05-10 | 第1回韓国シニア囲碁リーグ | Seo Bongsoo | Cho Hunhyun | Win | B+R | 6.5 | 2573 | 91 | 
+| 2016-04-27 | 第1回韓国シニア囲碁リーグ | Seo Bongsoo | Choi Kyubyeong | Win | B+R | 6.5 | 2482 | 31 | 
+| 2016-04-19 | 第1回韓国シニア囲碁リーグ | Kim Soojang | Seo Bongsoo | Lose | B+R | 6.5 | 2451 | 49 | 
+| 2016-04-12 | 第1回韓国シニア囲碁リーグ | Seo Bongsoo | Yoo Changhyuk | Lose | W+R | 6.5 | 2402 | 18 | 
+| 2016-03-30 | 第1回韓国シニア囲碁リーグ | Kim Ilhwan | Seo Bongsoo | Win | W+R | 6.5 | 2384 | -43 | 
+| 2016-03-21 | 第1回韓国シニア囲碁リーグ | Seo Nungwuk | Seo Bongsoo | Lose | B+R | 6.5 | 2427 | -294 | 
+| 2016-01-20 | 第17回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Yun Junsang | Lose | W+R | 6.5 | 2721 | 114 | 
+| 2015-09-10 | 第20回三星火災杯世界囲碁マスターズ1回戦G3 | Zhou Hexi | Seo Bongsoo | Lose | B+5.5 | 6.5 | 2607 | -18 | 
+| 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦G2 | Seo Bongsoo | Kim Jiseok | Lose | W+R | 6.5 | 2625 | -2 | 
+| 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦G1 | Seo Bongsoo | Shida Tatsuya | Win | B+R | 6.5 | 2627 | 120 | 
+| 2015-08-18 | 第9回GGオークション杯女流対シニア連勝対抗戦第8戦 |  | Seo Bongsoo | Lose | B+R | 6.5 | 2507 | -26 | 
+| 2015-08-17 | 第9回GGオークション杯女流対シニア連勝対抗戦第7戦 | Lee Sula | Seo Bongsoo | Win | W+7.5 | 6.5 | 2533 | 53 | 
+| 2015-07-16 | 第17回農心杯韓国選抜戦 | Shin Jinseo | Seo Bongsoo | Lose | B+R | 6.5 | 2480 | -414 | 
+| 2015-01-26 | 2014-2015年シニア囲碁クラシック国棋戦決勝 | Cho Hunhyun | Seo Bongsoo | Lose | B+R | 6.5 | 2894 | -33 | 
+| 2015-01-23 | 2014-2015年シニア囲碁クラシック国棋戦準決勝 | Park Yeongchan | Seo Bongsoo | Win | W+R | 6.5 | 2927 | 17 | 
+| 2015-01-22 | 2014-2015年シニア囲碁クラシック国棋戦準々決勝 | Seo Bongsoo | Oh Kyuchul | Win | B+R | 6.5 | 2910 | 44 | 
+| 2015-01-07 | 第16回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Han Chongjin | Lose | W+R | 6.5 | 2866 | 49 | 
+| 2014-12-01 | 2014-2015年シニア囲碁クラシック棋王戦決勝 | Cho Hunhyun | Seo Bongsoo | Lose | B+2.5 | 6.5 | 2817 | -66 | 
+| 2014-11-28 | 2014-2015年シニア囲碁クラシック棋王戦準決勝 | Seo Bongsoo | Choi Kyubyeong | Win | B+10.5 | 6.5 | 2883 | 9 | 
+| 2014-11-27 | 2014-2015年シニア囲碁クラシック棋王戦準々決勝 | Seo Bongsoo | Kim Soojang | Win | B+3.5 | 6.5 | 2874 | -35 | 
+| 2014-10-05 | 21世紀朝鮮通信使日本韓国対局鞆2014 | Seo Bongsoo | Yamashiro Hiroshi | Lose | W+R | 6.5 | 2909 | -41 | 
+| 2014-09-29 | 2014-2015年シニア囲碁クラシック王位戦決勝 | No Yeongha | Seo Bongsoo | Win | W+R | 6.5 | 2950 | 13 | 
+| 2014-09-26 | 2014-2015年シニア囲碁クラシック王位戦準決勝 | Seo Bongsoo | Cho Daehyeon | Win | B+R | 6.5 | 2937 | 5 | 
+| 2014-09-25 | 2014-2015年シニア囲碁クラシック王位戦準々決勝 |  | Seo Bongsoo | Win | W+R | 6.5 | 2932 | 16 | 
+| 2014-08-25 | 第8回GGオークション杯女流対シニア連勝対抗戦第15戦 | Oh Jeonga | Seo Bongsoo | Lose | B+R | 6.5 | 2916 | -69 | 
+| 2014-08-21 | 2014年レッツランパーク杯オープントーナメント1回戦 | Kim Jinhyu | Seo Bongsoo | Lose | B+2.5 | 6.5 | 2985 | -12 | 
+| 2014-08-19 | 第8回GGオークション杯女流対シニア連勝対抗戦第14戦 | Kim Nahyun | Seo Bongsoo | Win | W+R | 6.5 | 2997 | 96 | 
+| 2014-08-13 | 第10期物価情報杯プロ棋戦リーグC | Park Junghwan | Seo Bongsoo | Lose | B+R | 6.5 | 2901 | -194 | 
+| 2014-07-30 | 2014-2015年シニア囲碁クラシック国手戦準決勝 | Choi Kyubyeong | Seo Bongsoo | Lose | B+4.5 | 6.5 | 3095 | -24 | 
+| 2014-06-11 | 第10期物価情報杯プロ棋戦リーグC | Seo Bongsoo | Kim Seongjae | Lose | W+R | 6.5 | 3119 | -28 | 
+| 2014-06-04 | 第10期物価情報杯プロ棋戦リーグC | Seo Bongsoo | Kim Sonjin | Win | B+0.5 | 6.5 | 3147 | 24 | 
+| 2014-01-24 | 第15回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Seo Bongsoo | Lose | B+R | 6.5 | 3123 | -30 | 
+| 2013-12-24 | 第15回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Park Shiun | Win | B+R | 6.5 | 3153 | 57 | 
+| 2013-12-11 | 第4回大舟杯プロシニア最強者戦準決勝 | Choi Kyubyeong | Seo Bongsoo | Lose | B+R | 6.5 | 3096 | -42 | 
+| 2013-12-05 | 第4回大舟杯プロシニア最強者戦2回戦 | Seo Bongsoo | Lee Yongshin | Win | B+R | 6.5 | 3138 | 99 | 
+| 2013-11-18 | 第4回大舟杯プロシニア最強者戦1回戦 | An Kwanwuk | Seo Bongsoo | Win | W+R | 6.5 | 3039 | -71 | 
+| 2013-09-05 | 第18回三星火災杯世界囲碁マスターズ1回戦A3 | Seo Bongsoo | Wu Guangya | Lose | W+5.5 | 6.5 | 3110 | -24 | 
+| 2013-09-03 | 第18回三星火災杯世界囲碁マスターズ1回戦A1 | Seo Bongsoo | Wu Guangya | Lose | W+7.5 | 6.5 | 3134 | -8 | 
+| 2013-08-19 | 第7回GGオークション杯女流対シニア連勝対抗戦第13戦 | Choi Jeong | Seo Bongsoo | Lose | B+R | 6.5 | 3142 | -83 | 
+| 2013-08-13 | 第7回GGオークション杯女流対シニア連勝対抗戦第12戦 | Seo Bongsoo | Yun Jihee | Win | B+R | 6.5 | 3225 | -5 | 
+| 2013-08-12 | 第7回GGオークション杯女流対シニア連勝対抗戦第11戦 | Kim Hyeoimin | Seo Bongsoo | Win | W+R | 6.5 | 3230 | 29 | 
+| 2013-08-07 | 第18回三星火災杯統合予選シニア枠決勝 | Yoo Changhyuk | Seo Bongsoo | Win | W+R | 6.5 | 3201 | 74 | 
+| 2013-08-06 | 第7回GGオークション杯女流対シニア連勝対抗戦第10戦 | Kim Nahyun | Seo Bongsoo | Win | W+R | 6.5 | 3127 | 10 | 
+| 2013-08-05 | 第7回GGオークション杯女流対シニア連勝対抗戦第9戦 | Kim Sinyoung | Seo Bongsoo | Win | W+3.5 | 6.5 | 3117 | 123 | 
+| 2013-07-30 | 第7回GGオークション杯女流対シニア連勝対抗戦第8戦 | Seo Bongsoo | Cho Hyeyeon | Win | B+6.5 | 6.5 | 2994 | 199 | 
+| 2013-06-24 | 第4期Olleh杯オープン選手権1回戦 | Choi Jeong | Seo Bongsoo | Win | W+0.5 | 6.5 | 2795 | 225 | 
+| 2013-05-08 | 第18期バッカス杯天元戦予選 | Seo Bongsoo | Lee Donghoon | Lose | W+R | 6.5 | 2570 | 2570 | 
+| 2013-01-09 | 第3回大舟杯プロシニア最強者戦決勝 | Seo Nungwuk | Seo Bongsoo | Lose | B+R | 6.5 | missing | 0 | 
+| 2012-12-26 | 第3回大舟杯プロシニア最強者戦準決勝 | Kang Hun | Seo Bongsoo | Win | W+4.5 | 6.5 | missing | 0 | 
+| 2012-12-12 | 第3回大舟杯プロシニア最強者戦2回戦 | Jeong Suhyeon | Seo Bongsoo | Win | W+9.5 | 6.5 | missing | 0 | 
+| 2012-12-04 | 第8期圓益杯十段戦1回戦 | Seo Bongsoo | Han Chongjin | Lose | W+4.5 | 6.5 | missing | 0 | 
+| 2012-11-16 | 第3回大舟杯プロシニア最強者戦1回戦 | Seo Bongsoo |  | Win | B+R | 6.5 | missing | 0 | 
+| 2012-11-12 | 第3回大舟杯プロシニア最強者戦予選 |  | Seo Bongsoo | Win | W+11.5 | 6.5 | missing | 0 | 
+| 2012-08-27 | 第6回GGオークション杯女流対シニア連勝対抗戦第17戦 | Seo Bongsoo | Kim Yoonyoung | Lose | W+2.5 | 6.5 | missing | 0 | 
+| 2011-12-16 | 第2回大舟杯プロシニア最強者戦準決勝 | Seo Bongsoo | Seo Nungwuk | Lose | W+R | 6.5 | missing | -480 | 
+| 2011-11-22 | 第2回大舟杯プロシニア最強者戦2回戦 | Seo Bongsoo | Kim Dongyeop | Win | B+8.5 | 6.5 | 480 | 480 | 
+| 2011-11-14 | 第13回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Cho Hunhyun | Lose | W+4.5 | 6.5 | missing | -2492 | 
+| 2011-07-11 | 第5回GGオークション杯女流対シニア連勝対抗戦第7戦 | Choi Jeong | Seo Bongsoo | Lose | B+R | 6.5 | 2492 | -281 | 
+| 2011-05-03 | 第16回LG杯予選 | Seo Bongsoo | Zhou Heyang | Lose | W+R | 6.5 | 2773 | 280 | 
+| 2010-12-24 | 第1回大舟杯プロシニア最強者戦決勝三番勝負第2局 | Cho Hunhyun | Seo Bongsoo | Lose | B+2.5 | 6.5 | 2493 | 8 | 
+| 2010-12-22 | 第1回大舟杯プロシニア最強者戦決勝三番勝負第1局 | Seo Bongsoo | Cho Hunhyun | Lose | W+14.5 | 6.5 | 2485 | -1 | 
+| 2010-12-14 | 第12回マキシムコーヒー杯入神最強戦2回戦 | Seo Bongsoo | Kim Dongyeop | Lose | W+1.5 | 6.5 | 2486 | -161 | 
+| 2010-12-02 | 第1回大舟杯プロシニア最強者戦準決勝 | Seo Bongsoo | Kang Hun | Win | B+R | 6.5 | 2647 | -1 | 
+| 2010-11-12 | 第1回大舟杯プロシニア最強者戦2回戦 | Seo Bongsoo | Chang Suyeong | Win | B+R | 6.5 | 2648 | 353 | 
+| 2010-08-28 | 第4回GGオークション杯女流対シニア連勝対抗戦第12戦 | Lee Sula | Seo Bongsoo | Lose | B+R | 6.5 | 2295 | -456 | 
+| 2010-08-27 | 第4回GGオークション杯女流対シニア連勝対抗戦第11戦 | Seo Bongsoo | Moon Dowon | Win | B+6.5 | 6.5 | 2751 | -3 | 
+| 2010-08-21 | 第4回GGオークション杯女流対シニア連勝対抗戦第10戦 | Seo Bongsoo | Kim Soojin | Win | B+2.5 | 6.5 | 2754 | -19 | 
+| 2010-02-22 | 第11回マキシムコーヒー杯入神最強戦3回戦 | Seo Bongsoo | Cho Hunhyun | Lose | W+0.5 | 6.5 | 2773 | -152 | 
+| 2010-01-13 | 第2回BCカード杯世界選手権統合予選決勝 |  | Seo Bongsoo | Lose | B+1.5 | 6.5 | 2925 | -50 | 
+| 2009-12-28 | 第11回マキシムコーヒー杯入神最強戦2回戦 | Paek Seongho | Seo Bongsoo | Win | W+R | 6.5 | 2975 | -42 | 
+| 2009-09-02 | 第5期圓益杯十段戦1回戦 | Heo Yongho | Seo Bongsoo | Lose | B+R | 6.5 | 3017 | -70 | 
+| 2009-08-28 | 第1回SKY囲碁杯第15戦 | Seo Bongsoo | Cho Hunhyun | Win | B+R | 6.5 | 3087 | 142 | 
+| 2009-08-19 | 第11回農心杯韓国選抜戦 | Seo Bongsoo | Hong Minpyo | Lose | W+7.5 | 6.5 | 2945 | 54 | 
+| 2009-07-22 | 第11回農心杯韓国選抜戦 | Ko Keuntae | Seo Bongsoo | Win | W+R | 6.5 | 2891 | 897 | 
+| 2008-11-07 | 第10回マキシムコーヒー杯入神最強戦2回戦 | Seo Bongsoo | Seo Nungwuk | Lose | W+R | 6.5 | 1994 | -1018 | 
+| 2008-08-13 | 第4期圓益杯十段戦1回戦 | Seo Bongsoo |  | Lose | W+4.5 | 6.5 | 3012 | 322 | 
+| 2008-07-03 | 第2回GGオークション杯女流対シニア連勝対抗戦第20戦 | Park Shiun | Seo Bongsoo | Lose | B+6.5 | 6.5 | 2690 | -59 | 
+| 2008-05-26 | 第5期電子ランド杯王中王戦1回戦 | Seo Bongsoo | Yun Hyuk | Lose | W+R | 6.5 | 2749 | 24 | 
+| 2008-03-15 | 第5期電子ランド杯王中王戦予選 | Seo Bongsoo | Park Jinyeol | Win | B+R | 6.5 | 2725 | 58 | 
+| 2008-03-14 | 第5期電子ランド杯王中王戦予選 | Seo Bongsoo | Kim JongJoon | Win | B+11.5 | 6.5 | 2667 | 78 | 
+| 2007-12-14 | 第9回マキシムコーヒー杯入神最強戦準決勝 | Seo Bongsoo | Park Yeonghun | Lose | W+R | 6.5 | 2589 | -14 | 
+| 2007-11-05 | 第9回マキシムコーヒー杯入神最強戦4回戦 | Seo Bongsoo | Choi Cheolhan | Win | B+1.5 | 6.5 | 2603 | 140 | 
+| 2007-10-09 | 第9回マキシムコーヒー杯入神最強戦3回戦 | Seo Bongsoo | Yang Sangkuk | Win | B+4.5 | 6.5 | 2463 | -281 | 
+| 2007-09-04 | 第12回三星火災杯世界オープン囲碁選手権1回戦 | Kang Dongyun | Seo Bongsoo | Lose | B+R | 6.5 | 2744 | -364 | 
+| 2007-03-19 | 第4期電子ランド杯王中王戦1回戦 | Paek Hongseok | Seo Bongsoo | Lose | B+8.5 | 6.5 | 3108 | 357 | 
+| 2006-12-07 | 第11回三星火災杯世界オープン囲碁選手権準決勝三番勝負第2局 | Seo Bongsoo | Chang Hao | Lose | W+R | 6.5 | 2751 | -28 | 
+| 2006-12-05 | 第11回三星火災杯世界オープン囲碁選手権準決勝三番勝負第1局 | Chang Hao | Seo Bongsoo | Lose | B+R | 6.5 | 2779 | 39 | 
+| 2006-11-09 | 第11回三星火災杯世界オープン囲碁選手権3回戦 | Seo Bongsoo | Wang Yao | Win | B+R | 6.5 | 2740 | 19 | 
+| 2006-11-06 | 第2期圓益杯十段戦2回戦 | Lee Yeongkyu | Seo Bongsoo | Lose | B+3.5 | 6.5 | 2721 | -139 | 
+| 2006-10-13 | 第8回マキシムコーヒー杯入神最強戦1回戦 | Park Cheongsang | Seo Bongsoo | Lose | B+2.5 | 6.5 | 2860 | -26 | 
+| 2006-09-08 | 第11回三星火災杯世界オープン囲碁選手権2回戦 | Chen Yaoye | Seo Bongsoo | Win | W+T | 6.5 | 2886 | 73 | 
+| 2006-09-06 | 第11回三星火災杯世界オープン囲碁選手権1回戦 |  | Seo Bongsoo | Win | W+R | 6.5 | 2813 | 131 | 
+| 2006-08-29 | 第2期圓益杯十段戦1回戦 |  | Seo Bongsoo | Win | W+7.5 | 6.5 | 2682 | -7 | 
+| 2006-08-21 | 第8回マキシムコーヒー杯入神最強戦0回戦 |  | Seo Bongsoo | Win | W+R | 6.5 | 2689 | -202 | 
+| 2006-03-23 | 第3期電子ランド杯王中王戦1回戦 | Seo Bongsoo | Yang Keon | Lose | W+3.5 | 6.5 | 2891 | -31 | 
+| 2006-02-15 | 第3期電子ランド杯王中王戦予選 | Seo Bongsoo | Oh Kyuchul | Win | B+R | 6.5 | 2922 | 38 | 
+| 2006-01-25 | 第7回マキシムコーヒー杯入神最強戦3回戦 | Lee Sedol | Seo Bongsoo | Lose | B+R | 6.5 | 2884 | 21 | 
+| 2006-01-04 | 第3期電子ランド杯王中王戦予選 | Cho Hunhyun | Seo Bongsoo | Win | W+1.5 | 6.5 | 2863 | -221 | 
+| 2005-12-02 | 2005年韓国囲碁リーグプレーオフ | Seo Bongsoo | Rui Naiwei | Win | B+R | 6.5 | 3084 | 122 | 
+| 2005-11-15 | 第1回江原ランド杯韓中囲碁対抗戦韓国選抜戦 | Hong Seongji | Seo Bongsoo | Lose | B+R | 6.5 | 2962 | 20 | 
+| 2005-10-28 | 2005年韓国囲碁リーグ |  | Seo Bongsoo | Win | W+R | 6.5 | 2942 | 92 | 
+| 2005-10-07 | 2005年韓国囲碁リーグ | Lee Yeongkyu | Seo Bongsoo | Lose | B+R | 6.5 | 2850 | 2850 | 
+| 2005-10-05 | 第7回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Ha Chanseok | Win | B+R | 6.5 | missing | -2825 | 
+| 2005-09-02 | 2005年韓国囲碁リーグ | Rui Naiwei | Seo Bongsoo | Lose | B+R | 6.5 | 2825 | 1 | 
+| 2005-08-10 | 第1期圓益杯十段戦1回戦 | Lee Sedol | Seo Bongsoo | Lose | B+R | 6.5 | 2824 | -8 | 
+| 2005-08-09 | 第5期ジャックフィールド杯プロシニア棋戦準決勝 | Kim Dongyeop | Seo Bongsoo | Lose | B+1.5 | 6.5 | 2832 | 11 | 
+| 2005-08-05 | 2005年韓国囲碁リーグ | Lee Huiseong | Seo Bongsoo | Win | W+R | 6.5 | 2821 | 8 | 
+| 2005-07-15 | 2005年韓国囲碁リーグ | Paek Hongseok | Seo Bongsoo | Lose | B+R | 6.5 | 2813 | -11 | 
+| 2005-07-01 | 第5期ジャックフィールド杯プロシニア棋戦3回戦 | Seo Bongsoo | Kim Dongmyeon | Win | B+15.5 | 6.5 | 2824 | 297 | 
+| 2005-06-24 | 第7回農心杯韓国選抜戦 | Cho Hunhyun | Seo Bongsoo | Lose | B+6.5 | 6.5 | 2527 | 0 | 
+| 2005-06-24 | 2005年韓国囲碁リーグ | Seo Bongsoo | Heo Yongho | Lose | W+3.5 | 6.5 | 2527 | -171 | 
+| 2005-05-21 | 第5期ジャックフィールド杯プロシニア棋戦2回戦 | Jeong Suhyeon | Seo Bongsoo | Win | W+R | 6.5 | 2698 | 26 | 
+| 2005-05-20 | 2005年韓国囲碁リーグ | Park Seunghyeon | Seo Bongsoo | Win | W+R | 6.5 | 2672 | -538 | 
+| 2005-02-14 | 第5期ジャックフィールド杯プロシニア棋戦1回戦 | Seo Bongsoo | Lee Bonggeun | Win | B+R | 6.5 | 3210 | 160 | 
+| 2005-01-11 | 第6回マキシムコーヒー杯入神最強戦準決勝 | Yang Jaeho | Seo Bongsoo | Lose | B+3.5 | 6.5 | 3050 | 20 | 
+| 2004-12-23 | 2004年韓国囲碁リーグ | Seo Bongsoo | Kim Hwansoo | Lose | W+R | 6.5 | 3030 | 24 | 
+| 2004-12-13 | 第6回マキシムコーヒー杯入神最強戦3回戦 | Seo Bongsoo |  | Win | B+R | 6.5 | 3006 | 161 | 
+| 2004-12-02 | 2004年韓国囲碁リーグ | Lee Hongyeol | Seo Bongsoo | Win | W+12.5 | 6.5 | 2845 | 71 | 
+| 2004-11-22 | 第6回マキシムコーヒー杯入神最強戦2回戦 | Seo Bongsoo | Cho Daehyeon | Win | B+R | 6.5 | 2774 | -143 | 
+| 2004-10-21 | 2004年韓国囲碁リーグ | Seo Bongsoo | Yu Keimin | Lose | W+10.5 | 6.5 | 2917 | 97 | 
+| 2004-10-08 | 第6回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Choi Myeonghun | Win | B+R | 6.5 | 2820 | -129 | 
+| 2004-09-23 | 2004年韓国囲碁リーグ | Seo Bongsoo | Hong Minpyo | Win | B+6.5 | 6.5 | 2949 | 258 | 
+| 2004-09-09 | 2004年韓国囲碁リーグ | Seo Bongsoo | Jiang Zhujiu | Lose | W+R | 6.5 | 2691 | 207 | 
+| 2004-07-22 | 2004年韓国囲碁リーグ | Kim Hwansoo | Seo Bongsoo | Win | W+6.5 | 6.5 | 2484 | -354 | 
+| 2004-06-10 | 2004年韓国囲碁リーグ | Yang Jaeho | Seo Bongsoo | Win | W+R | 6.5 | 2838 | 144 | 
+| 2004-05-27 | 2004年韓国囲碁リーグ | Paek Hongseok | Seo Bongsoo | Lose | B+R | 6.5 | 2694 | 117 | 
+| 2003-11-22 | 第1回韓国ドリームリーグ | Lee Changho | Seo Bongsoo | Lose | B+R | 6.5 | 2577 | -41 | 
+| 2003-11-15 | 第1回韓国ドリームリーグ | Song Taekon | Seo Bongsoo | Lose | B+R | 6.5 | 2618 | -18 | 
+| 2003-10-25 | 第1回韓国ドリームリーグ | Cho Hunhyun | Seo Bongsoo | Lose | B+R | 6.5 | 2636 | -2782 | 
+| 2003-10-14 | 第15期棋聖戦（韓国）1回戦 | Kim Seungjun | Seo Bongsoo | Lose | B+13.5 | 6.5 | 5418 | 2994 | 
+| 2003-09-20 | 第1回韓国ドリームリーグ | Seo Bongsoo | Park Yeonghun | Lose | W+R | 6.5 | 2424 | 8 | 
+| 2003-08-09 | 第1回韓国ドリームリーグ | Seo Bongsoo | Yoo Changhyuk | Lose | W+4.5 | 6.5 | 2416 | 116 | 
+| 2003-06-27 | 第37期王位戦リーグ | Seo Bongsoo | Cho Hanseung | Win | B+R | 6.5 | 2300 | 6 | 
+| 2003-05-26 | 第37期王位戦リーグ | Cho Hunhyun | Seo Bongsoo | Lose | B+0.5 | 6.5 | 2294 | 10 | 
+| 2003-05-19 | 第3期石種杯プロシニア棋戦決勝三番勝負第3局 | Seo Bongsoo | Kang Hun | Win | B+R | 6.5 | 2284 | -37 | 
+| 2003-05-12 | 第3期石種杯プロシニア棋戦決勝三番勝負第2局 | Seo Bongsoo | Kang Hun | Win | B+R | 6.5 | 2321 | -22 | 
+| 2003-05-09 | 第37期王位戦リーグ | Seo Bongsoo | Park Cheongsang | Lose | W+R | 6.5 | 2343 | -29 | 
+| 2003-05-06 | 第37期王位戦リーグ | Seo Bongsoo | Lee Sedol | Lose | W+R | 6.5 | 2372 | 7 | 
+| 2003-05-03 | 第3期石種杯プロシニア棋戦決勝三番勝負第1局 | Kang Hun | Seo Bongsoo | Lose | B+R | 6.5 | 2365 | -55 | 
+| 2003-04-22 | 第37期王位戦リーグ | Seo Bongsoo | Ryu Chaehyeong | Win | B+R | 6.5 | 2420 | 92 | 
+| 2003-04-08 | 第3回KAT杯韓国囲碁最強戦 | Park Yeonghun | Seo Bongsoo | Lose | B+R | 6.5 | 2328 | -63 | 
+| 2003-04-04 | 第37期王位戦リーグ | Kim Juho | Seo Bongsoo | Lose | B+R | 6.5 | 2391 | 62 | 
+| 2003-03-27 | 第8回LG杯韓国予選 | Hong Jansik | Seo Bongsoo | Lose | B+R | 6.5 | 2329 | -46 | 
+| 2003-03-24 | 第37期王位戦リーグ | An Joyeong | Seo Bongsoo | Lose | B+R | 6.5 | 2375 | -2 | 
+| 2003-02-24 | 第3回KAT杯韓国囲碁最強戦 | Seo Bongsoo | Kim Ilhwan | Win | B+5.5 | 6.5 | 2377 | 153 | 
+| 2002-12-23 | 第2期KT杯マスターズプロ棋戦3回戦 | Lee Sedol | Seo Bongsoo | Lose | B+R | 6.5 | 2224 | -20 | 
+| 2002-11-26 | 第2回KAT杯韓国囲碁最強戦 | Yoo Changhyuk | Seo Bongsoo | Lose | B+3.5 | 6.5 | 2244 | -9 | 
+| 2002-11-13 | 第4回マキシムコーヒー杯入神最強戦 | Jiang Zhujiu | Seo Bongsoo | Lose | B+R | 6.5 | 2253 | 8 | 
+| 2002-10-07 | 第46期国手戦（韓国）敗者復活戦2回戦 | Rui Naiwei | Seo Bongsoo | Lose | B+R | 6.5 | 2245 | -114 | 
+| 2002-09-16 | 第2期KT杯マスターズプロ棋戦2回戦 | Seo Bongsoo |  | Win | B+R | 6.5 | 2359 | 46 | 
+| 2002-09-13 | 第46期国手戦（韓国）敗者復活戦1回戦 | Lee Jaeung | Seo Bongsoo | Win | W+R | 6.5 | 2313 | 11 | 
+| 2002-09-10 | 第2回KAT杯韓国囲碁最強戦 | Chang Suyeong | Seo Bongsoo | Win | W+R | 6.5 | 2302 | 5 | 
+| 2002-08-28 | 第7期三星杯1回戦 | Hane Naoki | Seo Bongsoo | Lose | B+R | 6.5 | 2297 | 144 | 
+| 2002-07-29 | 第7期三星杯予選決勝 | Mochizuki Kenichi | Seo Bongsoo | Win | W+R | 6.5 | 2153 | 71 | 
+| 2002-06-11 | 第1回KAT杯韓国囲碁最強戦 | Seo Bongsoo | Yoo Changhyuk | Win | B+4.5 | 6.5 | 2082 | 2082 | 
+| 2002-06-03 | 第2期石種杯プロシニア棋戦決勝三番勝負第2局 | Seo Bongsoo | Im Changsik | Win | B+R | 6.5 | missing | -2015 | 
+| 2002-05-28 | 第2期石種杯プロシニア棋戦決勝三番勝負第1局 | Im Changsik | Seo Bongsoo | Win | W+R | 6.5 | 2015 | -8 | 
+| 2002-05-13 | 第46期国手戦（韓国）予選 | Kim Dongyeop | Seo Bongsoo | Win | W+R | 6.5 | 2023 | 240 | 
+| 2002-05-06 | 第7期バッカス杯天元戦1回戦 | Seo Bongsoo | Kim Seungjun | Lose | W+R | 6.5 | 1783 | -191 | 
+| 2002-03-19 | 第1期KTF杯戦 | Lee Huiseong | Seo Bongsoo | Lose | B+R | 6.5 | 1974 | -614 | 
+| 2002-02-22 | 第1期KTF杯戦 | Seo Bongsoo | Choi Cheolhan | Lose | W+5.5 | 6.5 | 2588 | -24 | 
+| 2002-02-05 | 第1期KT杯マスターズプロ棋戦準決勝 | Cho Hunhyun | Seo Bongsoo | Lose | B+R | 6.5 | 2612 | -43 | 
+| 2002-01-22 | 第1期KT杯マスターズプロ棋戦4回戦 | Seo Bongsoo | Han Chongjin | Win | B+3.5 | 6.5 | 2655 | -43 | 
+| 2002-01-15 | 第1期KTF杯戦 | Park Yeonghun | Seo Bongsoo | Lose | B+R | 6.5 | 2698 | -43 | 
+| 2001-12-20 | 第3回マキシムコーヒー杯入神最強戦準決勝 | Kim Ilhwan | Seo Bongsoo | Lose | B+14.5 | 6.5 | 2741 | -6 | 
+| 2001-12-14 | 第36期覇王戦本戦第11局 | Yoo Changhyuk | Seo Bongsoo | Lose | B+6.5 | 6.5 | 2747 | 30 | 
+| 2001-11-27 | 第1期KT杯マスターズプロ棋戦3回戦 | Seo Bongsoo |  | Win | B+3.5 | 6.5 | 2717 | 31 | 
+| 2001-11-22 | 第1期KTF杯戦 | Seo Bongsoo | Kim Seungjun | Lose | W+R | 6.5 | 2686 | 4 | 
+| 2001-10-15 | 第3回マキシムコーヒー杯入神最強戦 | Chang Suyeong | Seo Bongsoo | Lose | B+R | 6.5 | 2682 | -7 | 
+| 2001-10-06 | 第3回マキシムコーヒー杯入神最強戦 | Rui Naiwei | Seo Bongsoo | Win | W+8.5 | 6.5 | 2689 | 19 | 
+| 2001-10-04 | 第3回マキシムコーヒー杯入神最強戦 | Kang Hun | Seo Bongsoo | Win | W+4.5 | 6.5 | 2670 | -53 | 
+| 2001-09-21 | 第3回マキシムコーヒー杯入神最強戦 | Choi Kyubyeong | Seo Bongsoo | Win | W+R | 6.5 | 2723 | -5969 | 
+| 2001-08-29 | 第6期三星杯1回戦 | Han Zenki | Seo Bongsoo | Lose | B+R | 6.5 | 8692 | 26 | 
+| 2001-08-24 | 第6期バッカス杯天元戦準決勝 | Park Yeonghun | Seo Bongsoo | Lose | B+R | 6.5 | 8666 | 6163 | 
+| 2001-08-02 | 第1期KT杯マスターズプロ棋戦2回戦 | Seo Bongsoo |  | Win | B+0.5 | 6.5 | 2503 | -107 | 
+| 2001-07-09 | 第6期バッカス杯天元戦2回戦 | Seo Bongsoo | Rui Naiwei | Win | B+R | 6.5 | 2610 | 155 | 
+| 2001-06-14 | 第6回LG杯世界棋王戦2回戦 | Seo Bongsoo | Yamashita Keigo | Lose | W+R | 6.5 | 2455 | 65 | 
+| 2001-05-25 | 第6期バッカス杯天元戦1回戦 | Seo Bongsoo | Choi Munyong | Win | B+R | 6.5 | 2390 | -97 | 
+| 2001-05-04 | 第6期LG精油杯プロ棋戦1回戦 | Seo Nungwuk | Seo Bongsoo | Lose | B+8.5 | 6.5 | 2487 | -217 | 
+| 2001-02-21 | 第20回KBS杯囲碁王戦本戦1回戦 | Seo Bongsoo | Paek Daehyun | Lose | W+0.5 | 6.5 | 2704 | 2704 | 
+| 2000-11-14 | 第5回LG杯世界棋王戦3回戦 | Seo Bongsoo | Zhou Heyang | Lose | W+R | 6.5 | missing | 0 | 
+| 2000-11-07 | 第2回マキシムコーヒー杯入神最強戦第3局 | Seo Bongsoo | Jiang Zhujiu | Lose | W+R | 6.5 | missing | 0 | 
+| 2000-10-26 | 第5期三星杯準決勝 | Seo Bongsoo | Yamada Kimio | Lose | W+1.5 | 6.5 | missing | 0 | 
+| 2000-10-04 | 第5期三星杯3回戦 | Seo Bongsoo | Cho Hunhyun | Win | B+5.5 | 6.5 | missing | 0 | 
+| 2000-09-04 | 第5期バッカス杯天元戦準決勝 | Lee Sedol | Seo Bongsoo | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-09-01 | 第5期三星杯2回戦 | Seo Bongsoo | Chang Hao | Win | B+R | 6.5 | missing | 0 | 
+| 2000-08-30 | 第5期三星杯1回戦 | Seo Bongsoo | Wang Runan | Win | B+8.5 | 6.5 | missing | 0 | 
+| 2000-07-14 | 第35期覇王戦本戦第4局 | Seo Bongsoo | Lee Changho | Lose | W+R | 6.5 | missing | 0 | 
+| 2000-07-11 | 第5期LG精油杯プロ棋戦1回戦 | Seo Bongsoo | Mok Jinseok | Lose | W+R | 6.5 | missing | 0 | 
+| 2000-06-30 | 第8期倍達王戦1回戦 | Seo Bongsoo | Park Yeonghun | Lose | W+8.5 | 6.5 | missing | 0 | 
+| 2000-06-15 | 第5回LG杯世界棋王戦2回戦 | Seo Bongsoo | Yu Bin | Win | B+8.5 | 6.5 | missing | 0 | 
+| 2000-06-13 | 第5回LG杯世界棋王戦1回戦 | Seo Bongsoo | Michael Redmond | Win | B+R | 6.5 | missing | 0 | 
+| 2000-05-08 | 第5期バッカス杯天元戦1回戦 | Seo Bongsoo | Weon Seongjin | Win | B+R | 6.5 | missing | 0 | 
+| 2000-04-30 | 第4回応氏杯世界選手権1回戦 | Yu Bin | Seo Bongsoo | Lose | B+R | 7.5 | missing | 0 | 
+| 2000-03-27 | 第1期石種杯プロシニア棋戦決勝三番勝負第3局 | Seo Bongsoo | Hong Taesun | Win | B+R | 6.5 | missing | 0 | 
+| 2000-03-27 | 第1期石種杯プロシニア棋戦決勝三番勝負第2局 | Hong Taesun | Seo Bongsoo | Win | W+R | 6.5 | missing | 0 | 
+| 2000-03-21 | 第1期石種杯プロシニア棋戦決勝三番勝負第1局 | Seo Bongsoo | Hong Taesun | Lose | W+R | 6.5 | missing | 0 | 
+| 1996-04-26 | 第3回応氏杯世界選手権2回戦 | Seo Bongsoo | Yoda Norimoto | Lose | W+R | 7.5 | missing | 0 | 
+| 1993-05-20 | 第2回応氏杯世界選手権決勝五番勝負第5局 | Seo Bongsoo | Otake Hideo | Win | B+R | 7.5 | missing | 0 | 
+| 1993-05-18 | 第2回応氏杯世界選手権決勝五番勝負第4局 | Otake Hideo | Seo Bongsoo | Lose | B+9 | 7.5 | missing | 0 | 
+| 1993-05-16 | 第2回応氏杯世界選手権決勝五番勝負第3局 | Seo Bongsoo | Otake Hideo | Win | B+R | 7.5 | missing | 0 | 
+| 1993-03-11 | 第2回応氏杯世界選手権決勝五番勝負第2局 | Otake Hideo | Seo Bongsoo | Win | W+5 | 7.5 | missing | 0 | 
+| 1993-03-09 | 第2回応氏杯世界選手権決勝五番勝負第1局 | Seo Bongsoo | Otake Hideo | Lose | W+7 | 7.5 | missing | 0 | 
+| 1992-11-27 | 第2回応氏杯世界選手権準決勝三番勝負第3局 | Cho Chikun | Seo Bongsoo | Win | W+5 | 7.5 | missing | 0 | 
+| 1992-11-25 | 第2回応氏杯世界選手権準決勝三番勝負第2局 | Seo Bongsoo | Cho Chikun | Win | B+1 | 7.5 | missing | 0 | 
+| 1992-11-23 | 第2回応氏杯世界選手権準決勝三番勝負第1局 | Cho Chikun | Seo Bongsoo | Lose | B+1 | 7.5 | missing | 0 | 
+| 1992-07-17 | 第2回応氏杯世界選手権3回戦 | Takemiya Masaki | Seo Bongsoo | Win | W+9 | 7.5 | missing | 0 | 
+| 1992-07-15 | 第2回応氏杯世界選手権2回戦 | Seo Bongsoo | Fujisawa Hideyuki | Win | B+7 | 7.5 | missing | 0 | 
+| 1992-07-13 | 第2回応氏杯世界選手権1回戦 | Tei Meiko | Seo Bongsoo | Win | W+R | 7.5 | missing | missing |
 
 
 

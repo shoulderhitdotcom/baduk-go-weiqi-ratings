@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-05 | 第47期名人戦予選  | Yoda Norimoto | Koyama Kuya | Lose | B+R | 6.5 | 3042 | -13 | 
+| 2021-07-29 | 第77期本因坊戦予選 | Koyama Kuya | Hikosaka Naoto | Win | B+2.5 | 6.5 | 3055 | -64 | 
+| 2021-07-22 | 第46期新人王戦準決勝 | Koyama Kuya | Sotoyanagi Sebun | Lose | W+0.5 | 6.5 | 3119 | 137 | 
 | 2021-06-21 | 第69期王座戦1回戦 | Cho U | Koyama Kuya | Lose | B+2.5 | 6.5 | 2982 | 20 | 
 | 2021-05-13 | 第46期新人王戦3回戦 | Fujisawa Rina | Koyama Kuya | Win | W+R | 6.5 | 2962 | 125 | 
 | 2021-04-23 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Hsu Chiayuan | Koyama Kuya | Lose | B+R | 6.5 | 2837 | -17 | 

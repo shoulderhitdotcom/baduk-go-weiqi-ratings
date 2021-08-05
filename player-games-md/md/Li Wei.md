@@ -5,253 +5,254 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第11期友士杯十段戦敗部3回戦 | Li Wei | Wang Yuanjun | W+R | 2021-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jS%2Fa14NnYLLkERa3jr3n3Q%3D%3D) | 
-| 第11期友士杯十段戦勝部準決勝 | Li Wei | Lin Junyan | W+R | 2021-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P07MR%2BFRlgRN33bt09s5cQ%3D%3D) | 
-| 第11期友士杯十段戦勝部2回戦 | Li Wei | Yang Bowei | B+R | 2021-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NlFzLwteeglZFr7LZ0UpMg%3D%3D) | 
-| 第11期友士杯十段戦勝部1回戦 | Li Wei | Jian Jingting | B+0.5 | 2021-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lyF1VGu6T5iGTxxOir8WPg%3D%3D) | 
-| 第17期国手戦（台湾）16強戦 | Li Wei | Lin Shuyang | W+2.5 | 2021-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oexaEbWsFE%2FboNKjw3SYnQ%3D%3D) | 
-| 第17期国手戦（台湾） | Zhang Zhehao | Li Wei | W+R | 2021-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZmKFrFSk1ArmVKYyVQg4EQ%3D%3D) | 
-| 第26回LG杯台湾予選 | Cai Chengwei | Li Wei | B+R | 2021-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mdKXv04vP8Oza%2F5P0AcRiQ%3D%3D) | 
-| 第26回LG杯台湾予選 | missing | Li Wei | W+R | 2021-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4bQGV%2BfT7f4Y5e%2BKLrUmGg%3D%3D) | 
-| 第17期国手戦（台湾） | Li Wei | missing | B+R | 2021-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ArwgTfretLaEI3aner4rgg%3D%3D) | 
-| 第2期名人冠軍戦2回戦 | Li Wei | Lin Shixun | W+R | 2021-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cql6j6c65oGGB08wm8BxkA%3D%3D) | 
-| 第2期名人冠軍戦1回戦 | Li Wei | Lin Lixiang | B+R | 2021-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iJwZ9mzZ5SX7U%2BGasn7B1A%3D%3D) | 
-| 第2期名人冠軍戦予選 | Zhang Zhehao | Li Wei | W+0.5 | 2021-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ayYHxlh2EZr7wNdJdzT7Tg%3D%3D) | 
-| 第2期名人冠軍戦予選 | Li Wei | missing | W+R | 2021-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fYCWtwaAlE%2Bo%2BWHUrb%2FzEw%3D%3D) | 
-| 第2期名人冠軍戦予選 | Li Wei | missing | B+R | 2021-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WZCdX1yf4s%2B5Uee42q%2F0Rg%3D%3D) | 
-| 第20期天元戦（台湾）敗部3回戦 | Li Wei | Chen Shiyuan | W+R | 2021-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0tNqzVNAUB3%2B4MvDtja%2BGw%3D%3D) | 
-| 第20期天元戦（台湾）敗部2回戦 | Li Wei | missing | B+R | 2021-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wJs2AB3NKwJZyYh11iU5AQ%3D%3D) | 
-| 第20期天元戦（台湾）勝部2回戦 | Xiao Zhenghao | Li Wei | B+R | 2021-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5m1JsbS%2FGeQuINisGCmXiQ%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦3回戦 | Jian Jingting | Li Wei | B+R | 2021-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HgBp5xOyNU%2Bn5EEz0HJzQA%3D%3D) | 
-| 第20期天元戦（台湾）勝部1回戦 | Li Wei | Huang Shiyuan | B+R | 2021-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v4sEYYqq94pEvpL6HXLOpg%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦2回戦 | Yu Lijun | Li Wei | W+R | 2021-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lpCbO3sTFf4zMj9S01vwBw%3D%3D) | 
-| 第20期天元戦（台湾）予選 | Zhou Pingqiang | Li Wei | W+1.5 | 2021-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=00jZ2iT1j2x0t5zNBv6ysw%3D%3D) | 
-| 第20期天元戦（台湾）予選 | Su Shengfang | Li Wei | W+R | 2021-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IhqzD%2Be%2BT3F7ihjun%2B7vhw%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦1回戦 | missing | Li Wei | W+2.5 | 2021-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u5ZJyx04ADvAeBfh84fVFw%3D%3D) | 
-| 2020年台湾新鋭隊vs韓国国家隊交流戦第2戦 | Li Wei | missing | W+R | 2020-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zVzjX2mVu9CpGqcLY71NNA%3D%3D) | 
-| 2020年台湾新鋭隊vs韓国国家隊交流戦第1戦 | Li Wei | missing | B+R | 2020-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DMGV74RwwIF9Qbjf3iFlKA%3D%3D) | 
-| 2020年関西棋院VS台湾棋院対抗戦第1戦 | Li Wei | Nishi Takenobu | B+R | 2020-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mNUh2NHJf6WXHgjYvF24og%3D%3D) | 
-| 第1回UMC聯電杯早碁争覇戦準決勝  | Wang Yuanjun | Li Wei | B+R | 2020-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=diUhKbeg7t4vIf%2B8lAsJ5g%3D%3D) | 
-| 第16期国手戦（台湾）準決勝 | Li Wei | Cai Chengwei | W+R | 2020-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UO6shz1q%2BSTYXJixpbOfAQ%3D%3D) | 
-| 第13期棋王戦（台湾）リーグ | Xu Jingen | Li Wei | W+R | 2020-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wBBLEdv77IsRicdnZycIEA%3D%3D) | 
-| 第1回UMC聯電杯早碁争覇戦4回戦 | Li Wei | Yang Bowei | B+R | 2020-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4iIMKTsOi47mANdiuSqeeg%3D%3D) | 
-| 第13期棋王戦（台湾）リーグ | Li Wei | Chen Qirui | W+R | 2020-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TlVxD04zSsOBNPM%2BLGYGKA%3D%3D) | 
-| 第13期棋王戦（台湾）リーグ | Li Wei | Lin Lixiang | W+R | 2020-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=20bNB%2BMGpGTeLWLai92eNQ%3D%3D) | 
-| 第13期棋王戦（台湾）リーグ | Lin Junyan | Li Wei | B+R | 2020-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BwPEKCf%2FdQykBDJ0VyLZ0w%3D%3D) | 
-| 第1回UMC聯電杯早碁争覇戦3回戦 | Li Wei | missing | B+R | 2020-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l%2FJs2yKX8q4GiyZLphcc%2Fw%3D%3D) | 
-| 第13期棋王戦（台湾）リーグ | Li Wei | Xiao Zhenghao | B+R | 2020-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z4Ujp5zVXtlJS4ngSA0WTA%3D%3D) | 
-| 第13期棋王戦（台湾）リーグ | Xu Haohong | Li Wei | B+R | 2020-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DVsDNGxSRtkjsHKacnZ8rA%3D%3D) | 
-| 第1回UMC聯電杯早碁争覇戦2回戦 | Lin Zhihan | Li Wei | B+4.5 | 2020-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c2tu0AiIx%2BZTFreSzgyN4A%3D%3D) | 
-| 第16期国手戦（台湾）準々決勝 | Li Wei | Lin Lixiang | B+R | 2020-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X82Q67gWCOvdMG%2FAj9VSww%3D%3D) | 
-| 第13期棋王戦（台湾）リーグ | Li Wei | Jian Jingting | W+R | 2020-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QsbvBCCOtlv%2Fc%2FSjfZm5lA%3D%3D) | 
-| 第8期中環碁聖戦4回戦 | Lin Junyan | Li Wei | B+R | 2020-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HHsM0U%2FB8fDizVdw9K%2Btxg%3D%3D) | 
-| 第16期国手戦（台湾）4回戦 | Li Wei | Yang Bowei | B+0.5 | 2020-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DQuhrq1Y%2FbG2KkZWAikb7w%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Lai Junfu | Li Wei | W+R | 2020-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sNVtp90Et6I9EFuzGEE%2FfQ%3D%3D) | 
-| 第16期国手戦（台湾）3回戦 | Yu Lijun | Li Wei | W+R | 2020-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GzxLyh4k9st5A9K631vTPQ%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Xu Jingen | Li Wei | W+3.5 | 2020-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qgab06bhtP3VPxPqlKqjHA%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Li Wei | Yang Bowei | B+R | 2020-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NZhi8dnH57om2ujIZBFOVA%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Li Wei | Lin Xinwei | B+R | 2020-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GtBO51%2BRI4Lqy6O4a87bBg%3D%3D) | 
-| 第8期中環碁聖戦3回戦 | Li Wei | Lu Yiquan | B+R | 2020-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dtNRGdJ%2FCaa7bdZkwmlvDw%3D%3D) | 
-| 第16期国手戦（台湾）1回戦 | missing | Li Wei | W+R | 2020-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OyoXnHtJ74muyiNBIEOfKw%3D%3D) | 
-| 第9回応氏杯世界選手権1回戦 | An Sungjoon | Li Wei | B+R | 2020-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RD%2BQBXh%2F6fNtoDV%2Br0e8JQ%3D%3D) | 
-| 第8期中環碁聖戦1回戦 | Yang Mengyun | Li Wei | W+R | 2020-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wo6nD6qsej1%2FOzjLqTAaYg%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦リーグ | Li Wei | missing | W+R | 2020-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F6tqxVWWWt%2BGQZ5RjHR9aA%3D%3D) | 
-| 第25回三星火災杯台湾代表選抜戦 | Li Wei | Xu Haohong | W+R | 2020-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p%2Bm9L%2Fj3Kl1K6hWvpV6ZRQ%3D%3D) | 
-| 第25回三星火災杯台湾代表選抜戦 | Li Wei | Chen Qirui | B+R | 2020-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WUpkujZ815TEY3ROju3zQA%3D%3D) | 
-| 第25回三星火災杯台湾代表選抜戦 | missing | Li Wei | W+R | 2020-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e7fzxAFBQXfZarPPmGxnXg%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Li Wei | B+R | 2020-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kIwCFXSnQAn55bSWUNfz5Q%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Li Wei | B+R | 2020-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GvLpuZQF18vreygIEqpTGg%3D%3D) | 
-| 第1期名人冠軍戦3回戦 | Lin Junyan | Li Wei | B+R | 2020-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UzQPFfzVHQxs60%2Bb1y92Zw%3D%3D) | 
-| 第1期名人冠軍戦2回戦 | Lin Shuyang | Li Wei | W+R | 2020-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5jSSJXI3GM%2Fyd0Z%2FocS2zg%3D%3D) | 
-| 第1期名人冠軍戦1回戦 | Li Wei | Zhou Yinnan | B+R | 2020-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ODeEbvJND4bk%2FCQj7O06aA%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦リーグ | Li Wei | Chen Shiyuan | W+R | 2020-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RUA7FzFRH6Wh4VRbp72%2FJg%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦リーグ | Li Wei | Lai Junfu | W+R | 2020-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G3LhFtuqNRer00n%2B7E6dOw%3D%3D) | 
-| 2020新人王戦（台湾）決勝三番勝負第3局  | Chen Qirui | Li Wei | W+R | 2020-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jcyf%2Fk65hkDkaJD5PUNsiQ%3D%3D) | 
-| 2020新人王戦（台湾）決勝三番勝負第2局  | Li Wei | Chen Qirui | B+R | 2020-06-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BOx4Luumgd6YliMv1qCUfA%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦リーグ | Chen Qirui | Li Wei | B+0.5 | 2020-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4jTkET2R%2FEU56VN0p4vGbQ%3D%3D) | 
-| 2020新人王戦（台湾）決勝三番勝負第1局  | Chen Qirui | Li Wei | B+R | 2020-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dEMC2cE3V16X%2FVHfnPPuKQ%3D%3D) | 
-| 2020新人王戦（台湾）リーグB | Yu Lijun | Li Wei | W+R | 2020-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1ShsKFq%2FVPF%2B69IobLEqFA%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦予選勝部2回戦 | Li Wei | missing | B+R | 2020-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dDZx9K0XLV59KBnAcosNcA%3D%3D) | 
-| 2020新人王戦（台湾）リーグB | Huang Shiyuan | Li Wei | W+R | 2020-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P%2FXujBTKOML5V%2B%2FAp1cd7Q%3D%3D) | 
-| 2020新人王戦（台湾）リーグB | Li Wei | missing | W+R | 2020-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2zEdXzRp4cuV2A5LaUU13A%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦予選勝部1回戦 | Li Wei | Lin Lixiang | B+R | 2020-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=29cAX5zFpTvzltZVwtyIZA%3D%3D) | 
-| 2020新人王戦（台湾）リーグB | Li Wei | Lin Shimin | B+R | 2020-06-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MladxkyjA8CMh4dyb0j7bQ%3D%3D) | 
-| 2020新人王戦（台湾）リーグB | Li Wei | missing | B+R | 2020-06-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3YrqgEoa7ZvhFjdUnc6dSg%3D%3D) | 
-| 2020新人王戦（台湾）リーグB | Li Wei | Lin Shixun | B+R | 2020-06-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U0pREJ4ryLgQ0oRv4D0OAQ%3D%3D) | 
-| 2020新人王戦（台湾）リーグB | Lai Junfu | Li Wei | W+R | 2020-06-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tCromIozuaaY8FMaQqMW5Q%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦予選 | Chen Feng | Li Wei | W+R | 2020-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O1Khe%2Bn26%2FKockTk6xf7VA%3D%3D) | 
-| 2020新人王戦（台湾）予選勝部準決勝 | Li Wei | missing | B+R | 2020-05-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VWhT7RhNglXZCW46uNoTVg%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦予選 | Li Wei | missing | B+R | 2020-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hdZZmHH090PnYquSi41%2BXg%3D%3D) | 
-| 第10期友士杯十段戦敗部決勝  | Lin Junyan | Li Wei | B+R | 2020-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RvDjgOeIOC70x0u8xZ9ppA%3D%3D) | 
-| 第10期友士杯十段戦敗部準決勝  | Lai Junfu | Li Wei | W+R | 2020-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T5%2BMzHrSQbLQ64If%2B7lvPA%3D%3D) | 
-| 第10期友士杯十段戦敗部3回戦  | Li Wei | Wang Yuanjun | B+R | 2020-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eCIFeId9EkaymqCKQFLESQ%3D%3D) | 
-| 日台交流戦第2戦 | Yu Zhengqi | Li Wei | B+R | 2020-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BHR%2BN49uK6cdpARIfwqinw%3D%3D) | 
-| 日台交流戦第1戦 | Onishi Ryuhei | Li Wei | W+0.5 | 2020-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4YT8GJSsCw5ODDWvuixepA%3D%3D) | 
-| 第10期友士杯十段戦勝部準決勝 | Li Wei | Lin Lixiang | W+R | 2020-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rydZ7NrWZWKqHwTOqoBNgA%3D%3D) | 
-| 第10期友士杯十段戦勝部2回戦 | Cai Chengwei | Li Wei | W+R | 2020-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9m%2ByTa47ftWI9z76izeNVQ%3D%3D) | 
-| 第10期友士杯十段戦勝部1回戦  | Hei Jiajia | Li Wei | W+R | 2020-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=99wtFegoTU9HCuBkvi5rFQ%3D%3D) | 
-| 第10期友士杯十段戦予選敗部決勝 | Zhou Pingqiang | Li Wei | W+8.5 | 2020-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tNmmhA6piyrFiOhWdDcsIg%3D%3D) | 
-| 第10期友士杯十段戦予選敗部4回戦 | Li Wei | missing | B+R | 2020-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ccpcHtCH3%2Bn8Rk0wQeeO%2Bw%3D%3D) | 
-| 第10期友士杯十段戦予選勝部決勝 | Li Wei | Xu Jingen | W+R | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9OojQGxPGyF%2B0lXujt%2BRog%3D%3D) | 
-| 第5回百霊杯台湾代表選抜戦 | Xu Yuqi | Li Wei | B+R | 2020-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jcEQ4jnjY%2F3DFsFKbvZw7Q%3D%3D) | 
-| 第10期友士杯十段戦予選勝部1回戦 | Li Wei | Huang Xiangren | B+T | 2020-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fS%2FbgxJ1Bg2STZSlAwFZ7A%3D%3D) | 
-| 第10期友士杯十段戦予選勝部2回戦 | Li Wei | missing | B+R | 2020-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oQto%2FZSA5RHS7O%2BMQJsImw%3D%3D) | 
-| 第19期天元戦（台湾）敗部4回戦 | Chen Shiyuan | Li Wei | B+2.5 | 2020-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wt%2FxbFtB7R9cxAiu7NpF%2Bg%3D%3D) | 
-| 第19期天元戦（台湾）敗部3回戦 | Lu Yiquan | Li Wei | W+R | 2020-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gYL%2BipwWXy3MkDrGcQ13Tw%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦16強戦 | Li Wei | Lai Junfu | W+R | 2020-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tB1mbIACPasQCU%2BQa%2BtbhQ%3D%3D) | 
-| 第19期天元戦（台湾）敗部2回戦 | Chen Xi | Li Wei | W+R | 2020-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tLbq6ZVF%2BCo5HuYejLREnw%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦32強戦 | Li Wei | missing | B+R | 2020-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nBNtqSdJWY2V2MCCK7LnVg%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦64強戦 | Li Wei | missing | B+2.5 | 2020-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rxQEGYOGgUJJBM5TxOrIiA%3D%3D) | 
-| 第25回LG杯台湾代表選抜戦 | Li Wei | Cai Chengwei | W+R | 2020-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AOSI2MJo5gWtaDuwAa1wtg%3D%3D) | 
-| 第19期天元戦（台湾）勝部2回戦 | Li Wei | Jian Jingting | W+R | 2020-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ADfOgmtg5YWf03uwYFvRog%3D%3D) | 
-| 第1期名人冠軍戦予選敗部決勝 | missing | Li Wei | W+R | 2020-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KR3%2FGr%2Fr3U18Rty4vdrjGg%3D%3D) | 
-| 第1期名人冠軍戦予選敗部1回戦 | Li Wei | missing | B+R | 2020-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UecE7RmTIkyPqMCCDAxgOA%3D%3D) | 
-| 第19期天元戦（台湾）勝部1回戦 | Li Wei | missing | B+R | 2020-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6tp3YmMZragLEscGTTmgMA%3D%3D) | 
-| 第1期名人冠軍戦予選勝部1回戦 | Jian Jingting | Li Wei | B+R | 2020-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nIRzarOvLCNdhLhMrDaILg%3D%3D) | 
-| 第19期天元戦（台湾）予選 | missing | Li Wei | W+3.5 | 2020-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k%2BO3xouup3DnlRVuRTs4tA%3D%3D) | 
-| 第17期倡棋杯台湾代表選抜戦 | Li Wei | Huang Shiyuan | W+R | 2020-01-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pSwK4UFMJFjmvC8EsYA9pg%3D%3D) | 
-| 2020台湾精鋭vs日本精鋭交流戦第4戦 | Hsu Chiayuan | Li Wei | B+R | 2020-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CKIHCVNVc%2BiUjrCdbKrM7w%3D%3D) | 
-| 2020台湾精鋭vs日本精鋭交流戦第3戦 | Adachi Toshimasa | Li Wei | B+R | 2020-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P%2BKvLCYEcDXAEnQZJUQdoA%3D%3D) | 
-| 2020台湾精鋭vs日本精鋭交流戦第1戦 | Seki Kotaro | Li Wei | W+5.5 | 2020-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EuAKu95DIgN2tphgHIGLQQ%3D%3D) | 
-| 第9回応氏杯世界選手権台湾代表選抜戦 | Chen Qirui | Li Wei | W+R | 2020-01-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qZQRYFzPd9xGnO3bFlzsVw%3D%3D) | 
-| 第9回応氏杯世界選手権台湾代表選抜戦 | Li Wei | Lai Junfu | B+R | 2020-01-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wJBTw%2Byz2sSRgsLeBz4pLA%3D%3D) | 
-| 第19期天元戦（台湾）予選 | Lin Shengyi | Li Wei | W+4.5 | 2020-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sWxV%2B8ymdTaohOjgn5pUow%3D%3D) | 
-| 第9回応氏杯世界選手権台湾代表選抜戦 | Zhou Yinnan | Li Wei | W+R | 2020-01-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FZ1bdEh1jO4Zzw8mOQQmew%3D%3D) | 
-| 第9回応氏杯世界選手権台湾代表選抜戦 | Jian Jingting | Li Wei | W+1 | 2020-01-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vf2e88hGh4tzOnlC1GUWXQ%3D%3D) | 
-| 第9回応氏杯世界選手権台湾代表選抜戦 | missing | Li Wei | W+R | 2020-01-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8zSH1OtidjXxm0878OwtiQ%3D%3D) | 
-| 第13回春蘭杯台湾予選 | Lin Shixun | Li Wei | B+R | 2019-12-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eKLx1rahJhO%2F5dmmIIcC4w%3D%3D) | 
-| 第13回春蘭杯台湾予選 | Lin Lixiang | Li Wei | W+R | 2019-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=94AZV067b1GdARgrXVDp5Q%3D%3D) | 
-| 第13回春蘭杯台湾予選 | Cai Chengwei | Li Wei | W+R | 2019-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AlhoDxYaCebo3xNv0TTXjQ%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Xu Yuqi | Li Wei | W+R | 2019-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YYjbiL0RMsTI1QMO63QuPw%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Li Wei | Chen Qirui | W+R | 2019-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cByU90rKf61kpdY%2FOG6jBA%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Wang Yuanjun | Li Wei | B+R | 2019-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ix2CWx%2BasuAApKOd8fQM7w%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ  | Li Wei | Jian Jingting | W+1.5 | 2019-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SJlbdW8gdgi0BOWMmFPllg%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Li Wei | Xu Haohong | W+R | 2019-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BkaZCbPK71LtiwIMpR8Jmg%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Chen Shiyuan | Li Wei | B+R | 2019-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LdLTnQ%2BPUbH7gB7Yy4IFuw%3D%3D) | 
-| 2019台湾精鋭vs韓国ナショナルチーム交流戦第5戦 | Li Wei | missing | B+R | 2019-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SP0gJW6Q9mAQol8Bx6ajnw%3D%3D) | 
-| 2019台湾精鋭vs韓国ナショナルチーム交流戦第4戦 | missing | Li Wei | B+R | 2019-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yapkXKrz2cd15qrt93Td%2FQ%3D%3D) | 
-| 2019台湾精鋭vs韓国ナショナルチーム交流戦第3戦 | Song Jihoon | Li Wei | B+R | 2019-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fh6S7LW1e44s%2FSNd2JG3UQ%3D%3D) | 
-| 第15期国手戦（台湾）準決勝 | Lin Junyan | Li Wei | B+R | 2019-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SaPCzBHhYsMjsI1mJ4YdfQ%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Li Wei | Lin Lixiang | W+R | 2019-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ejhb2XPnAZPAGeFyc3%2FcFQ%3D%3D) | 
-| 第15期国手戦（台湾）4回戦 | Li Wei | Lu Yiquan | B+R | 2019-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LoVSlDq9Mq83xBwZ6EJjUg%3D%3D) | 
-| 第12期棋王戦（台湾）予選勝部決勝 | Li Wei | Chen Qirui | B+R | 2019-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L%2FR6fYyZuJTK%2BJmknx4Erg%3D%3D) | 
-| 第15期国手戦（台湾）3回戦 | Li Wei | Yang Bowei | B+R | 2019-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0RvhBZk6Kgf%2BGMRjXq2FEQ%3D%3D) | 
-| 第15期国手戦（台湾）2回戦 | missing | Li Wei | W+R | 2019-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A2b5E8tBJ%2BcSrSLSA0havg%3D%3D) | 
-| 第12期棋王戦（台湾）予選勝部準決勝 | Li Wei | Chen Shiyuan | B+R | 2019-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UO2PGaS%2B0jcggWEb%2Beo6OA%3D%3D) | 
-| 第12期棋王戦（台湾）予選勝部2回戦 | missing | Li Wei | W+R | 2019-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KRRWMDATaVTVHNAbhH%2BCCA%3D%3D) | 
-| 第12期棋王戦（台湾）予選勝部1回戦 | Lin Yuxiang | Li Wei | W+0.5 | 2019-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rz%2Bzp1KhrHGdsZgjcBVF4A%3D%3D) | 
-| 第15期国手戦（台湾）1回戦 | Li Wei | missing | B+R | 2019-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J9RjagAtKlRbgHTQAQwaGw%3D%3D) | 
-| 第12期棋王戦（台湾）資格戦勝部決勝 | missing | Li Wei | W+6.5 | 2019-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cg6f5QjzyKlzobxZjNe2qA%3D%3D) | 
-| 第12期棋王戦（台湾）資格戦勝部1回戦 | Zhang Zhehao | Li Wei | W+R | 2019-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2Fw0z5OenBP%2BAh9ebewbyA%3D%3D) | 
-| 第7期中環碁聖戦1回戦 | Zhou Keping | Li Wei | B+0.5 | 2019-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PgaIaVly9RU7VN7vCiwQMA%3D%3D) | 
-| 第9期友士杯十段戦予選敗部決勝 | Li Wei | Xu Jingen | W+1.5 | 2019-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3hOgQcpBGXzOEt8ZKq5Oqg%3D%3D) | 
-| 第9期友士杯十段戦予選敗部準決勝 | Lin Xiuping | Li Wei | W+R | 2019-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Rf28asdBlBEDgaWHMoJrg%3D%3D) | 
-| 第9期友士杯十段戦予選勝部決勝 | Li Wei | Chen Shiyuan | W+R | 2019-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WOxB57YYDnmB2OBFMedxQA%3D%3D) | 
-| 第9期友士杯十段戦予選勝部準決勝 | Li Wei | Cai Wenhe | B+R | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K%2B4oNZLkTLcBcR%2BRUODslA%3D%3D) | 
-| 第9期友士杯十段戦予選勝部1回戦 | Lin Yuxiang | Li Wei | W+R | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mbbb%2F%2BGPfKfIYQkB8IN75Q%3D%3D) | 
-| 第18期天元戦（台湾）敗部4回戦 | Xu Haohong | Li Wei | B+R | 2019-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pYZ3932eagbGTVWm4BtqmA%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦32強戦 | Huang Shiyuan | Li Wei | B+R | 2019-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u%2BSQNvOP5F6AozHmybiHPA%3D%3D) | 
-| 第18期天元戦（台湾）敗部3回戦 | Xu Yuqi | Li Wei | W+2.5 | 2019-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3GsKEG%2F9IzLBoyr9H60e5w%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦64強戦 | Li Wei | Ye Hongyuan | B+R | 2019-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4NRO1md%2B8dK3jgyUeElyJw%3D%3D) | 
-| 第18期天元戦（台湾）敗部2回戦 | missing | Li Wei | W+R | 2019-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tPeNMe4MAIbtyuCQVyp9Nw%3D%3D) | 
-| 第18期天元戦（台湾）勝部2回戦 | Lai Junfu | Li Wei | B+R | 2019-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jj6T3HxK%2BN%2BN4MBaezQLvA%3D%3D) | 
-| 第18期天元戦（台湾）勝部1回戦 | Zhang Zhehao | Li Wei | W+R | 2019-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jKBV4Uy1gBbzfXnWiuxvsQ%3D%3D) | 
-| 第18期天元戦（台湾）予選3回戦 | Hei Jiajia | Li Wei | W+R | 2019-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=903F4%2BehrbKf4K73ePe8tQ%3D%3D) | 
-| 2019台湾精鋭vs日本精鋭交流戦第4戦 | Li Wei | Yao Zhiteng | W+R | 2019-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BJd%2FnOEVEYVWmZsn%2FXPfJA%3D%3D) | 
-| 2019台湾精鋭vs日本精鋭交流戦第1戦 | Li Wei | Onishi Kenya | B+R | 2019-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ATt7NWa%2F8aj2OmaDanQX1w%3D%3D) | 
-| 第18期天元戦（台湾）予選2回戦 | Li Wei | Lin Tingyi | B+R | 2019-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6GL0qXTEc5NSPcu18dt6%2Fw%3D%3D) | 
-| 2018年新人王戦（台湾）リーグB | missing | Li Wei | W+R | 2018-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=POz8R77ACqNpwdev5Joc6A%3D%3D) | 
-| 2018年新人王戦（台湾）リーグB | Li Wei | Yang Bowei | W+R | 2018-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ws46VKJq4lOldMMOwlaDbw%3D%3D) | 
-| 2018年新人王戦（台湾）リーグB | Li Wei | Chen Qirui | W+R | 2018-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gp7FZodXbPNuZEw4iXbMPg%3D%3D) | 
-| 2018年新人王戦（台湾）リーグB | missing | Li Wei | W+R | 2018-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P1VoFbepTbmHXjrxbbYWMA%3D%3D) | 
-| 2018年新人王戦（台湾）リーグB | Li Wei | missing | B+R | 2018-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rPOCTYAeKKTu9Eyjhv3ylw%3D%3D) | 
-| 2018年新人王戦（台湾）リーグB | Li Wei | Yu Lijun | B+R | 2018-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gkb7hGOngNXoZdUKeh%2FFrg%3D%3D) | 
-| 2018年新人王戦（台湾）リーグB | Li Wei | Lin Shimin | B+R | 2018-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=spjvdTiO32CiSmm5QPr2pA%3D%3D) | 
-| 2018年台湾精鋭vs韓国交流戦第4戦 | Li Wei | missing | W+R | 2018-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FbGiURV4SmrWXfUu5rV4zg%3D%3D) | 
-| 2018年台湾精鋭vs韓国交流戦第3戦 | Li Wei | Song Jihoon | W+R | 2018-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dw1gxrEDR7EKBol6kkX3ww%3D%3D) | 
-| 第1回IWMC台湾代表男子選抜戦予選2回戦 | Xu Haohong | Li Wei | B+R | 2018-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R1cZa0w7GJVwrv%2BZ6dziBw%3D%3D) | 
-| 第1回IWMC台湾代表男子選抜戦予選1回戦 | missing | Li Wei | W+R | 2018-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6iFiWzbO%2FnUVIvqL3ErjMA%3D%3D) | 
-| 第6期中環碁聖戦3回戦 | Lin Shixun | Li Wei | B+R | 2018-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b8fQZLPwSnz7cHvPSNGVtA%3D%3D) | 
-| 第14期国手戦（台湾）1回戦下半区 | Li Wei | Jian Jingting | W+1.5 | 2018-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jZ2OMngbZK94OTFySSwC6g%3D%3D) | 
-| 第6期中環碁聖戦2回戦 | missing | Li Wei | W+R | 2018-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qFBKPh3J7aWoyBIJpfewqg%3D%3D) | 
-| 第6期中環碁聖戦1回戦下半区 | Gao Yun | Li Wei | W+R | 2018-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v4HHojkioTap%2FcsgvS3L9g%3D%3D) | 
-| 第8期友士杯十段戦敗者復活戦2回戦 | Lin Lixiang | Li Wei | B+R | 2018-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DzI2LLoibNlCA%2BxcN8%2FCSw%3D%3D) | 
-| 第8期友士杯十段戦2回戦 | Li Wei | Xiao Zhenghao | W+R | 2018-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D0ewooDnSRFFjmgHGVS27A%3D%3D) | 
-| 第8期友士杯十段戦1回戦 | Chen Xi | Li Wei | W+R | 2018-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BnL%2BL5vnKLfLsjTyXDJ5mQ%3D%3D) | 
-| 第8期友士杯十段戦予選 | Li Wei | Lin Shuyang | B+R | 2018-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ROlLihJ4HsczPbtUdE44g%3D%3D) | 
-| 第十六回天元戦複戦敗部第三回戦 | Jian Jingting | Li Wei | B+R | 2018-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vwly7FKZSYbbv9CI7M7IIg%3D%3D) | 
-| 第十六回天元戦複戦敗部第二回戦 | Li Wei | Cai Chengwei | B+R | 2018-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QeyQvLilQDsSlN5XEuKiUw%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦32強戦 | Lin Xiuping | Li Wei | B+R | 2018-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7FdgpXzhIE6qNBzcwiLoVw%3D%3D) | 
-| 第十七回天元戦複戦勝部第二回戦 | Lai Junfu | Li Wei | B+R | 2018-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W9uPZWNkCQoRarB2%2BN4Q1Q%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦64強戦 | Xia Daming | Li Wei | W+R | 2018-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BU%2FP54kYBGRJzOlXTlivOw%3D%3D) | 
-| 第十七回天元戦複戦勝部第一回戦 | Li Wei | missing | B+R | 2018-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H1zUfsGgWXGw%2BQQQHnTB3Q%3D%3D) | 
-| 第12回春蘭杯台湾予選 | Li Wei | Xiao Zhenghao | W+R | 2018-02-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gH0amppxinASA2Gwp0UINA%3D%3D) | 
-| 第12回春蘭杯台湾予選 | Li Wei | Lu Yiquan | B+R | 2018-02-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HdsrTgSXfGlk74Yk1Zm2Ow%3D%3D) | 
-| 第12回春蘭杯台湾予選 | Li Wei | Xu Yuqi | B+R | 2018-02-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bik1Yt0wVBpi7zhftshpWg%3D%3D) | 
-| 第23回LG杯台湾代表選抜戦予選第一局 | missing | Li Wei | B+R | 2018-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8fm%2BDCFht8tPO6XTo8apgA%3D%3D) | 
-| 2018台湾精鋭vs日本精鋭交流戦第5戦 | Li Wei | Yokotsuka Riki | W+R | 2018-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ME7RO1zxPuK5ruXOhf6mHA%3D%3D) | 
-| 2018台湾精鋭vs日本精鋭交流戦第3戦 | Hsu Chiayuan | Li Wei | B+R | 2018-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=thpzR8qczuytxfFhjWuVAQ%3D%3D) | 
-| 2018年日台精鋭交流戦第1戦 | Mutsuura Yuta | Li Wei | B+0.5 | 2018-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M6CmmaEPEnqPtyjK%2BZ%2B6pQ%3D%3D) | 
-| 第十七回天元戦予選第三回戦 | Li Wei | Liao Guanhong | B+R | 2018-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5xTrK7m174gHIz0yWAqS7g%3D%3D) | 
-| 第十七回天元戦予選第二回戦 | Dai Jiashen | Li Wei | W+R | 2018-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=986MdetsiBfQ5BdXfOhIsg%3D%3D) | 
-| 第13期国手戦（台湾）8強戦 | Chen Qirui | Li Wei | B+R | 2017-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y%2F4xeWZBIyPUK8t1IMdJeQ%3D%3D) | 
-| 第13期国手戦（台湾）16強戦 | Li Wei | Lin Xiuping | B+R | 2017-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=60SYxZlC8O2ZFXZJ%2FBn5Bw%3D%3D) | 
-| 第13期国手戦（台湾）第二回戦 | Li Wei | Xu Haohong | B+R | 2017-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DvNwG%2F0I6C3TQfA0rkmRLg%3D%3D) | 
-| 第5期中環碁聖戦第二回戦 | Li Wei | Xiao Zhenghao | W+R | 2017-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RW%2FqAjamNIE9bCsyF7NGMQ%3D%3D) | 
-| 第13期国手戦（台湾）首輪下半区 | Li Wei | Zhou Keping | B+R | 2017-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FWuKGZ60%2FZAlO4rDDRKQFw%3D%3D) | 
-| 第5期中環碁聖戦首輪下半区 | missing | Li Wei | W+R | 2017-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qlg%2BKw262hxELrgu0gCCwQ%3D%3D) | 
-| 第7期友士杯十段戦敗者復活戦3回戦 | Li Wei | Lin Junyan | W+R | 2017-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UbZKluKjA0fpOdIQfhrHLg%3D%3D) | 
-| 2017年中国囲碁丙級リーグ | Li Wei | missing | W+R | 2017-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8tlhsqRitIwd7yscAF1FVg%3D%3D) | 
-| 2017年中国囲碁丙級リーグ | Li Wei | missing | B+R | 2017-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fbFhak1IRYR2HfpIRqzpHg%3D%3D) | 
-| 2017年中国囲碁丙級リーグ | Pavol Lisy | Li Wei | W+R | 2017-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iY5mG3vlyqlbKNQwMKKS4w%3D%3D) | 
-| 2017年中国囲碁丙級リーグ | Li Wei | missing | W+R | 2017-06-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wQ5gYNxOhjKiT9aDz41r3A%3D%3D) | 
-| 2017年中国囲碁丙級リーグ | missing | Li Wei | W+R | 2017-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vz%2F9E0yjjM0gPB%2FSN7nngw%3D%3D) | 
-| 2017年中国囲碁丙級リーグ | Li Wei | missing | W+R | 2017-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lwctkAo%2FgyhfXMJxT2v5og%3D%3D) | 
-| 2017年中国囲碁丙級リーグ | Jiang Jidou | Li Wei | B+R | 2017-06-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kJtHreQzVDRMJ1WEfiBhyw%3D%3D) | 
-| 第7期友士杯十段戦敗者復活戦2回戦 | Chen Shiyuan | Li Wei | W+R | 2017-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hujDy1cKNUARDbyXAmIFJw%3D%3D) | 
-| 第7期友士杯十段戦敗者復活戦1回戦 | Cai Chengwei | Li Wei | W+R | 2017-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ph1lEr3NyS%2F9ocIWvIRdGQ%3D%3D) | 
-| 2017年利民杯台湾選抜戦 | Li Wei | Lin Junyan | W+R | 2017-06-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rpMieoEiAUicsJJsnbZbHw%3D%3D) | 
-| 第7期友士杯十段戦1回戦 | Li Wei | Lin Xiuping | W+R | 2017-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FP75oMP32NNKw0uj%2BMuYVQ%3D%3D) | 
-| 2017年利民杯台湾選抜戦 | Lin Shixun | Li Wei | W+R | 2017-05-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IwXlEdnozFkjuTInHAShoQ%3D%3D) | 
-| 2017年利民杯台湾選抜戦 | Li Wei | Xu Haohong | B+R | 2017-05-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dwaosFxMLz2uvQrF%2F9wwgQ%3D%3D) | 
-| 2017年利民杯台湾選抜戦 | Li Wei | missing | B+R | 2017-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=luVMEY9yfBp7n9jJ6kdpxg%3D%3D) | 
-| 第22期LG杯世界予選2回戦 | Li Wei | Komatsu Hideki | B+R | 2017-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UwEQM9QjC%2BvdwHjvNSK%2FvA%3D%3D) | 
-| 第三期MLILIY夢百合杯台湾代表選抜戦 初戦 | Lin Xiuping | Li Wei | B+9.5 | 2017-02-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uF9TKiXYLk3ivjpkSoqSqw%3D%3D) | 
-| 台湾精鋭日本精鋭交流戦5回戦 | Shibano Toramaru | Li Wei | B+R | 2017-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xSvAova8thSxU8th74Q0jA%3D%3D) | 
-| 台湾精鋭日本精鋭交流戦6回戦 | Li Wei | Onishi Kenya | W+R | 2017-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F9cElMnFlOnpE4V%2FS5%2F3Eg%3D%3D) | 
-| 台湾精鋭日本精鋭交流戦3回戦 | Chang Rueijie | Li Wei | B+R | 2017-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ekqb7uSTY7rlcbE98lJHIg%3D%3D) | 
-| 台湾精鋭日本精鋭交流戦4回戦 | Terayama Rei | Li Wei | W+R | 2017-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f5tKKniTRiY%2FCfXKOmiNKQ%3D%3D) | 
-| 第三期MLILIY夢百合杯台湾代表選抜戦 初戦第二局 | Li Wei | Jian Jingting | B+R | 2017-01-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sTN5sQqfPDvQhQzUywpKNg%3D%3D) | 
-| 第三期MLILIY夢百合杯台湾代表選抜戦 初戦第一局 | Yu Binghuang | Li Wei | W+2又1/4子 | 2017-01-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HtQMwoOGFftc9sQ5ZpH5%2BA%3D%3D) | 
-| 第2期未来の星新鋭最強戦台湾予選 | Li Wei | Lai Junfu | W+R | 2016-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m1olBUE%2BiPmyhu%2F7s1Q3fA%3D%3D) | 
-| 第2期未来の星新鋭最強戦台湾予選 | Huang Shiyuan | Li Wei | W+R | 2016-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P0IYGEN8nV3pg5VO3vmAlA%3D%3D) | 
-| 第12期国手戦（台湾）複戦第三局 | Zhou Yinnan | Li Wei | B+R | 2016-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ed9S4suW2rvLTxAKo81rzQ%3D%3D) | 
-| 第6期友士杯十段戦敗者復活戦3回戦 | Lin Shuyang | Li Wei | B+R | 2016-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z4VkOfDnvZWSmItHo%2FhamQ%3D%3D) | 
-| 第6期友士杯十段戦敗者復活戦2回戦 | Li Wei | Chen Feng | B+R | 2016-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p3k669XkeRuotGqAF3IssA%3D%3D) | 
-| 第6期友士杯十段戦敗者復活戦1回戦 | Li Wei | Yang Bowei | B+R | 2016-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1tlGaJo7Z45mApZKCXCKsg%3D%3D) | 
-| 第6期友士杯十段戦1回戦 | Li Wei | Xu Haohong | W+0.5 | 2016-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LjLVIh4esc6uJnFi%2FWSrwg%3D%3D) | 
-| 第6期友士杯十段戦予選 | Li Wei | Yang Bowei | B+R | 2016-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3NknUhVhG0mOLuDQ4zlEQg%3D%3D) | 
-| 第6期友士杯十段戦予選 | Jian Jingting | Li Wei | W+R | 2016-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0EHUqdQf1wZMSnJ0Hkv2Sg%3D%3D) | 
-| 第6期友士杯十段戦予選 | Li Wei | Su Shengfang | B+R | 2016-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=889LRHkHP0Ut5GsIsru6Cg%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦32強戦 | Huang Daolong | Li Wei | B+R | 2016-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XeYcQ4focym7PpO0pKbi6w%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦64強戦 | Li Wei | Cai Wenhe | B+R | 2016-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LGwTxQQ7TPGaC25Bomr7Eg%3D%3D) | 
-| 2016年日台精鋭交流戦第6戦 | Murakawa Daisuke | Li Wei | W+R | 2016-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9lkkTLo%2Fvpe6UMtqnnSkdQ%3D%3D) | 
-| 2016年日台精鋭交流戦第2戦 | Koyama Kuya | Li Wei | W+R | 2016-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AqAqMGiQ4tYRC8RQP953QA%3D%3D) | 
-| 第5期友士杯十段戦敗者復活戦3回戦 | Li Wei | Lin Xiuping | W+R | 2015-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZphrH2qpTnIvdWrua2tDLA%3D%3D) | 
-| 第5期友士杯十段戦勝者組準決勝 | Li Wei | Chen Shiyuan | W+R | 2015-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5iRlyTYf1Lq%2Bhos0Iqzunw%3D%3D) | 
-| 第5期友士杯十段戦2回戦 | Li Wei | Lin Shuyang | B+4.5 | 2015-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BCSgBsqNSVLlIEzWbkQU8w%3D%3D) | 
-| 第5期友士杯十段戦1回戦 | Li Wei | Zhou Pingqiang | B+R | 2015-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qMLgS5cYrYzUZcZOgIYaog%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦32強戦 | Li Wei | Wang Yuanjun | W+R | 2015-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zY%2F5w1DwynB9P11dtmuV8g%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦64強戦 | missing | Li Wei | W+R | 2015-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QRL5rft3PxhmapPx9wKOgw%3D%3D) | 
-| 2015年日台精鋭交流戦第4戦 | Terayama Rei | Li Wei | B+R | 2015-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OeQAPkkwaGE4F%2F0XWl0Uyg%3D%3D) | 
-| 2015年日台精鋭交流戦第3戦 | Li Wei | Hirata Tomoya | B+3.5 | 2015-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FiLWAEAerYfCscFOQ3pPWg%3D%3D) | 
-| 2015年日台精鋭交流戦第1戦 | Li Wei | Cho Riyu | B+R | 2015-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y7EK2HITbbRO7pcASzBdiw%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦台湾予選 | Li Wei | Xiao Zhenghao | W+R | 2015-02-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qk0U884uNiY28qZLT3sKvg%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦台湾予選 | Lin Lixiang | Li Wei | W+R | 2015-02-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4jCuHaaBDaIUcPTrcCS5zQ%3D%3D) | 
-| 第6回海峰杯プロ囲碁戦64強戦 | Gao Yun | Li Wei | B+R | 2014-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uFmuipuzFn5uWikP5eY73g%3D%3D) | 
-| 第5回海峰杯プロ囲碁戦64強戦 | Li Wei | Wang Yuanjun | W+R | 2013-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sc84o50DOXZpDebsAJeoAw%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Li Wei | Jian Jingting | Lose | W+R | 6.5 | 2983 | -31 | 
+| 2021-05-13 | 第11期友士杯十段戦敗部3回戦 | Li Wei | Wang Yuanjun | Lose | W+R | 6.5 | 3014 | 2 | 
+| 2021-05-10 | 第11期友士杯十段戦勝部準決勝 | Li Wei | Lin Junyan | Lose | W+R | 6.5 | 3012 | -8 | 
+| 2021-05-03 | 第11期友士杯十段戦勝部2回戦 | Li Wei | Yang Bowei | Win | B+R | 6.5 | 3020 | 7 | 
+| 2021-04-26 | 第11期友士杯十段戦勝部1回戦 | Li Wei | Jian Jingting | Win | B+0.5 | 6.5 | 3013 | -39 | 
+| 2021-04-09 | 第17期国手戦（台湾）16強戦 | Li Wei | Lin Shuyang | Lose | W+2.5 | 6.5 | 3052 | -22 | 
+| 2021-04-02 | 第17期国手戦（台湾） | Zhang Zhehao | Li Wei | Win | W+R | 6.5 | 3074 | -3 | 
+| 2021-03-31 | 第26回LG杯台湾予選 | Cai Chengwei | Li Wei | Lose | B+R | 6.5 | 3077 | 0 | 
+| 2021-03-31 | 第26回LG杯台湾予選 |  | Li Wei | Win | W+R | 6.5 | 3077 | 0 | 
+| 2021-03-26 | 第17期国手戦（台湾） | Li Wei |  | Win | B+R | 6.5 | 3077 | -71 | 
+| 2021-03-11 | 第2期名人冠軍戦2回戦 | Li Wei | Lin Shixun | Lose | W+R | 6.5 | 3148 | 1 | 
+| 2021-03-08 | 第2期名人冠軍戦1回戦 | Li Wei | Lin Lixiang | Win | B+R | 6.5 | 3147 | -12 | 
+| 2021-03-04 | 第2期名人冠軍戦予選 | Zhang Zhehao | Li Wei | Win | W+0.5 | 6.5 | 3159 | 12 | 
+| 2021-02-25 | 第2期名人冠軍戦予選 | Li Wei |  | Lose | W+R | 6.5 | 3147 | -32 | 
+| 2021-02-22 | 第2期名人冠軍戦予選 | Li Wei |  | Win | B+R | 6.5 | 3179 | -82 | 
+| 2021-01-29 | 第20期天元戦（台湾）敗部3回戦 | Li Wei | Chen Shiyuan | Lose | W+R | 6.5 | 3261 | -8 | 
+| 2021-01-26 | 第20期天元戦（台湾）敗部2回戦 | Li Wei |  | Win | B+R | 6.5 | 3269 | 5 | 
+| 2021-01-22 | 第20期天元戦（台湾）勝部2回戦 | Xiao Zhenghao | Li Wei | Lose | B+R | 6.5 | 3264 | -10 | 
+| 2021-01-21 | 第13回海峰杯プロ囲碁戦3回戦 | Jian Jingting | Li Wei | Lose | B+R | 6.5 | 3274 | 23 | 
+| 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Li Wei | Huang Shiyuan | Win | B+R | 6.5 | 3251 | 26 | 
+| 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Yu Lijun | Li Wei | Win | W+R | 6.5 | 3225 | -4 | 
+| 2021-01-12 | 第20期天元戦（台湾）予選 | Zhou Pingqiang | Li Wei | Win | W+1.5 | 6.5 | 3229 | -7 | 
+| 2021-01-08 | 第20期天元戦（台湾）予選 | Su Shengfang | Li Wei | Win | W+R | 6.5 | 3236 | 4 | 
+| 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 |  | Li Wei | Win | W+2.5 | 6.5 | 3232 | -12 | 
+| 2020-12-15 | 2020年台湾新鋭隊vs韓国国家隊交流戦第2戦 | Li Wei |  | Lose | W+R | 6.5 | 3244 | 0 | 
+| 2020-12-15 | 2020年台湾新鋭隊vs韓国国家隊交流戦第1戦 | Li Wei |  | Win | B+R | 6.5 | 3244 | -11 | 
+| 2020-12-07 | 2020年関西棋院VS台湾棋院対抗戦第1戦 | Li Wei | Nishi Takenobu | Win | B+R | 6.5 | 3255 | 15 | 
+| 2020-11-21 | 第1回UMC聯電杯早碁争覇戦準決勝  | Wang Yuanjun | Li Wei | Lose | B+R | 6.5 | 3240 | 23 | 
+| 2020-11-10 | 第16期国手戦（台湾）準決勝 | Li Wei | Cai Chengwei | Lose | W+R | 6.5 | 3217 | -2 | 
+| 2020-11-09 | 第13期棋王戦（台湾）リーグ | Xu Jingen | Li Wei | Win | W+R | 6.5 | 3219 | 8 | 
+| 2020-11-07 | 第1回UMC聯電杯早碁争覇戦4回戦 | Li Wei | Yang Bowei | Win | B+R | 6.5 | 3211 | 5 | 
+| 2020-11-05 | 第13期棋王戦（台湾）リーグ | Li Wei | Chen Qirui | Lose | W+R | 6.5 | 3206 | 1 | 
+| 2020-11-02 | 第13期棋王戦（台湾）リーグ | Li Wei | Lin Lixiang | Lose | W+R | 6.5 | 3205 | -11 | 
+| 2020-10-29 | 第13期棋王戦（台湾）リーグ | Lin Junyan | Li Wei | Lose | B+R | 6.5 | 3216 | -12 | 
+| 2020-10-28 | 第1回UMC聯電杯早碁争覇戦3回戦 | Li Wei |  | Win | B+R | 6.5 | 3228 | 1 | 
+| 2020-10-26 | 第13期棋王戦（台湾）リーグ | Li Wei | Xiao Zhenghao | Win | B+R | 6.5 | 3227 | 13 | 
+| 2020-10-22 | 第13期棋王戦（台湾）リーグ | Xu Haohong | Li Wei | Lose | B+R | 6.5 | 3214 | -4 | 
+| 2020-10-21 | 第1回UMC聯電杯早碁争覇戦2回戦 | Lin Zhihan | Li Wei | Lose | B+4.5 | 6.5 | 3218 | -2 | 
+| 2020-10-20 | 第16期国手戦（台湾）準々決勝 | Li Wei | Lin Lixiang | Win | B+R | 6.5 | 3220 | 3 | 
+| 2020-10-19 | 第13期棋王戦（台湾）リーグ | Li Wei | Jian Jingting | Lose | W+R | 6.5 | 3217 | -2 | 
+| 2020-10-18 | 第8期中環碁聖戦4回戦 | Lin Junyan | Li Wei | Lose | B+R | 6.5 | 3219 | -6 | 
+| 2020-10-13 | 第16期国手戦（台湾）4回戦 | Li Wei | Yang Bowei | Win | B+0.5 | 6.5 | 3225 | 12 | 
+| 2020-10-08 | 第13期棋王戦（台湾）予選 | Lai Junfu | Li Wei | Win | W+R | 6.5 | 3213 | -1 | 
+| 2020-10-06 | 第16期国手戦（台湾）3回戦 | Yu Lijun | Li Wei | Win | W+R | 6.5 | 3214 | -1 | 
+| 2020-10-05 | 第13期棋王戦（台湾）予選 | Xu Jingen | Li Wei | Win | W+3.5 | 6.5 | 3215 | -9 | 
+| 2020-09-28 | 第13期棋王戦（台湾）予選 | Li Wei | Yang Bowei | Win | B+R | 6.5 | 3224 | 49 | 
+| 2020-09-24 | 第13期棋王戦（台湾）予選 | Li Wei | Lin Xinwei | Win | B+R | 6.5 | 3175 | 5 | 
+| 2020-09-20 | 第8期中環碁聖戦3回戦 | Li Wei | Lu Yiquan | Win | B+R | 6.5 | 3170 | 35 | 
+| 2020-09-15 | 第16期国手戦（台湾）1回戦 |  | Li Wei | Win | W+R | 6.5 | 3135 | -16 | 
+| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | An Sungjoon | Li Wei | Lose | B+R | 7.5 | 3151 | 23 | 
+| 2020-09-06 | 第8期中環碁聖戦1回戦 | Yang Mengyun | Li Wei | Win | W+R | 6.5 | 3128 | 6 | 
+| 2020-09-04 | 第1期聯電杯プロ囲碁戦リーグ | Li Wei |  | Lose | W+R | 6.5 | 3122 | -4 | 
+| 2020-08-31 | 第25回三星火災杯台湾代表選抜戦 | Li Wei | Xu Haohong | Lose | W+R | 6.5 | 3126 | -10 | 
+| 2020-08-30 | 第25回三星火災杯台湾代表選抜戦 | Li Wei | Chen Qirui | Win | B+R | 6.5 | 3136 | 5 | 
+| 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 |  | Li Wei | Win | W+R | 6.5 | 3131 | -2 | 
+| 2020-08-25 | 第1期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Li Wei | Lose | B+R | 6.5 | 3133 | -4 | 
+| 2020-08-21 | 第1期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Li Wei | Lose | B+R | 6.5 | 3137 | 143 | 
+| 2020-07-23 | 第1期名人冠軍戦3回戦 | Lin Junyan | Li Wei | Lose | B+R | 6.5 | 2994 | 0 | 
+| 2020-07-20 | 第1期名人冠軍戦2回戦 | Lin Shuyang | Li Wei | Win | W+R | 6.5 | 2994 | -24 | 
+| 2020-07-16 | 第1期名人冠軍戦1回戦 | Li Wei | Zhou Yinnan | Win | B+R | 6.5 | 3018 | 19 | 
+| 2020-07-07 | 第1期聯電杯プロ囲碁戦リーグ | Li Wei | Chen Shiyuan | Lose | W+R | 6.5 | 2999 | -11 | 
+| 2020-07-03 | 第1期聯電杯プロ囲碁戦リーグ | Li Wei | Lai Junfu | Lose | W+R | 6.5 | 3010 | -8 | 
+| 2020-07-02 | 2020新人王戦（台湾）決勝三番勝負第3局  | Chen Qirui | Li Wei | Win | W+R | 7.5 | 3018 | 5 | 
+| 2020-06-29 | 2020新人王戦（台湾）決勝三番勝負第2局  | Li Wei | Chen Qirui | Win | B+R | 7.5 | 3013 | 30 | 
+| 2020-06-23 | 第1期聯電杯プロ囲碁戦リーグ | Chen Qirui | Li Wei | Lose | B+0.5 | 6.5 | 2983 | -7 | 
+| 2020-06-22 | 2020新人王戦（台湾）決勝三番勝負第1局  | Chen Qirui | Li Wei | Lose | B+R | 7.5 | 2990 | 7 | 
+| 2020-06-15 | 2020新人王戦（台湾）リーグB | Yu Lijun | Li Wei | Win | W+R | 7.5 | 2983 | 3 | 
+| 2020-06-12 | 第1期聯電杯プロ囲碁戦予選勝部2回戦 | Li Wei |  | Win | B+R | 6.5 | 2980 | 2 | 
+| 2020-06-11 | 2020新人王戦（台湾）リーグB | Huang Shiyuan | Li Wei | Win | W+R | 7.5 | 2978 | 0 | 
+| 2020-06-11 | 2020新人王戦（台湾）リーグB | Li Wei | Yang Zixuan | Lose | W+R | 7.5 | 2978 | -13 | 
+| 2020-06-09 | 第1期聯電杯プロ囲碁戦予選勝部1回戦 | Li Wei | Lin Lixiang | Win | B+R | 6.5 | 2991 | 10 | 
+| 2020-06-08 | 2020新人王戦（台湾）リーグB | Li Wei | Lin Shimin | Win | B+R | 7.5 | 2981 | 0 | 
+| 2020-06-08 | 2020新人王戦（台湾）リーグB | Li Wei |  | Win | B+R | 7.5 | 2981 | -1 | 
+| 2020-06-04 | 2020新人王戦（台湾）リーグB | Li Wei | Lin Shixun | Win | B+R | 7.5 | 2982 | 0 | 
+| 2020-06-04 | 2020新人王戦（台湾）リーグB | Lai Junfu | Li Wei | Win | W+R | 7.5 | 2982 | 17 | 
+| 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Chen Feng | Li Wei | Win | W+R | 6.5 | 2965 | 0 | 
+| 2020-05-25 | 2020新人王戦（台湾）予選勝部準決勝 | Li Wei |  | Win | B+R | 7.5 | 2965 | 0 | 
+| 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Li Wei |  | Win | B+R | 6.5 | 2965 | 65 | 
+| 2020-04-27 | 第10期友士杯十段戦敗部決勝  | Lin Junyan | Li Wei | Lose | B+R | 6.5 | 2900 | 4 | 
+| 2020-04-23 | 第10期友士杯十段戦敗部準決勝  | Lai Junfu | Li Wei | Win | W+R | 6.5 | 2896 | 11 | 
+| 2020-04-22 | 第10期友士杯十段戦敗部3回戦  | Li Wei | Wang Yuanjun | Win | B+R | 6.5 | 2885 | 17 | 
+| 2020-04-17 | 日台交流戦第2戦 | Yu Zhengqi | Li Wei | Lose | B+R | 6.5 | 2868 | 0 | 
+| 2020-04-17 | 日台交流戦第1戦 | Onishi Ryuhei | Li Wei | Win | W+0.5 | 6.5 | 2868 | 16 | 
+| 2020-04-16 | 第10期友士杯十段戦勝部準決勝 | Li Wei | Lin Lixiang | Lose | W+R | 6.5 | 2852 | 6 | 
+| 2020-04-13 | 第10期友士杯十段戦勝部2回戦 | Cai Chengwei | Li Wei | Win | W+R | 6.5 | 2846 | 43 | 
+| 2020-04-09 | 第10期友士杯十段戦勝部1回戦  | Hei Jiajia | Li Wei | Win | W+R | 6.5 | 2803 | 37 | 
+| 2020-03-23 | 第10期友士杯十段戦予選敗部決勝 | Zhou Pingqiang | Li Wei | Win | W+8.5 | 6.5 | 2766 | 0 | 
+| 2020-03-23 | 第10期友士杯十段戦予選敗部4回戦 | Li Wei | Yang Zixuan | Win | B+R | 6.5 | 2766 | 10 | 
+| 2020-03-19 | 第10期友士杯十段戦予選勝部決勝 | Li Wei | Xu Jingen | Lose | W+R | 6.5 | 2756 | -18 | 
+| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Xu Yuqi | Li Wei | Lose | B+R | 7.5 | 2774 | -14 | 
+| 2020-03-16 | 第10期友士杯十段戦予選勝部1回戦 | Li Wei | Huang Xiangren | Win | B+T | 6.5 | 2788 | 0 | 
+| 2020-03-16 | 第10期友士杯十段戦予選勝部2回戦 | Li Wei | Liu Chuanting | Win | B+R | 6.5 | 2788 | 2 | 
+| 2020-03-10 | 第19期天元戦（台湾）敗部4回戦 | Chen Shiyuan | Li Wei | Lose | B+2.5 | 6.5 | 2786 | -1 | 
+| 2020-03-03 | 第19期天元戦（台湾）敗部3回戦 | Lu Yiquan | Li Wei | Win | W+R | 6.5 | 2787 | 12 | 
+| 2020-03-02 | 第12回海峰杯プロ囲碁戦16強戦 | Li Wei | Lai Junfu | Lose | W+R | 6.5 | 2775 | -18 | 
+| 2020-02-25 | 第19期天元戦（台湾）敗部2回戦 | Chen Xi | Li Wei | Win | W+R | 6.5 | 2793 | 8 | 
+| 2020-02-24 | 第12回海峰杯プロ囲碁戦32強戦 | Li Wei |  | Win | B+R | 6.5 | 2785 | 31 | 
+| 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Li Wei |  | Win | B+2.5 | 6.5 | 2754 | -5 | 
+| 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Li Wei | Cai Chengwei | Lose | W+R | 6.5 | 2759 | -5 | 
+| 2020-02-18 | 第19期天元戦（台湾）勝部2回戦 | Li Wei | Jian Jingting | Lose | W+R | 6.5 | 2764 | -147 | 
+| 2020-02-17 | 第1期名人冠軍戦予選敗部決勝 |  | Li Wei | Win | W+R | 6.5 | 2911 | -5 | 
+| 2020-02-13 | 第1期名人冠軍戦予選敗部1回戦 | Li Wei |  | Win | B+R | 6.5 | 2916 | -98 | 
+| 2020-02-11 | 第19期天元戦（台湾）勝部1回戦 | Li Wei |  | Win | B+R | 6.5 | 3014 | 4 | 
+| 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Jian Jingting | Li Wei | Lose | B+R | 6.5 | 3010 | -10 | 
+| 2020-02-04 | 第19期天元戦（台湾）予選 |  | Li Wei | Win | W+3.5 | 6.5 | 3020 | -18 | 
+| 2020-01-22 | 第17期倡棋杯台湾代表選抜戦 | Li Wei | Huang Shiyuan | Lose | W+R | 7.5 | 3038 | -38 | 
+| 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第4戦 | Hsu Chiayuan | Li Wei | Lose | B+R | 6.5 | 3076 | 0 | 
+| 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第3戦 | Adachi Toshimasa | Li Wei | Lose | B+R | 6.5 | 3076 | -20 | 
+| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第1戦 | Seki Kotaro | Li Wei | Win | W+5.5 | 6.5 | 3096 | 7 | 
+| 2020-01-17 | 第9回応氏杯世界選手権台湾代表選抜戦 | Chen Qirui | Li Wei | Win | W+R | 7.5 | 3089 | 15 | 
+| 2020-01-15 | 第9回応氏杯世界選手権台湾代表選抜戦 | Li Wei | Lai Junfu | Win | B+R | 7.5 | 3074 | 18 | 
+| 2020-01-14 | 第19期天元戦（台湾）予選 | Lin Shengyi | Li Wei | Win | W+4.5 | 6.5 | 3056 | 4 | 
+| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Zhou Yinnan | Li Wei | Win | W+R | 7.5 | 3052 | 0 | 
+| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Jian Jingting | Li Wei | Win | W+1 | 7.5 | 3052 | 23 | 
+| 2020-01-02 | 第9回応氏杯世界選手権台湾代表選抜戦 | Yang Zixuan | Li Wei | Win | W+R | 7.5 | 3029 | 297 | 
+| 2019-12-23 | 第13回春蘭杯台湾予選 | Lin Shixun | Li Wei | Lose | B+R | 7.5 | 2732 | -8 | 
+| 2019-12-20 | 第13回春蘭杯台湾予選 | Lin Lixiang | Li Wei | Win | W+R | 7.5 | 2740 | 0 | 
+| 2019-12-20 | 第13回春蘭杯台湾予選 | Cai Chengwei | Li Wei | Win | W+R | 7.5 | 2740 | 10 | 
+| 2019-12-02 | 第12期棋王戦（台湾）リーグ | Xu Yuqi | Li Wei | Win | W+R | 6.5 | 2730 | 4 | 
+| 2019-11-28 | 第12期棋王戦（台湾）リーグ | Li Wei | Chen Qirui | Lose | W+R | 6.5 | 2726 | 10 | 
+| 2019-11-25 | 第12期棋王戦（台湾）リーグ | Wang Yuanjun | Li Wei | Lose | B+R | 6.5 | 2716 | -21 | 
+| 2019-11-21 | 第12期棋王戦（台湾）リーグ  | Li Wei | Jian Jingting | Lose | W+1.5 | 6.5 | 2737 | -19 | 
+| 2019-11-18 | 第12期棋王戦（台湾）リーグ | Li Wei | Xu Haohong | Lose | W+R | 6.5 | 2756 | -2 | 
+| 2019-11-14 | 第12期棋王戦（台湾）リーグ | Chen Shiyuan | Li Wei | Lose | B+R | 6.5 | 2758 | -12 | 
+| 2019-11-13 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第5戦 | Li Wei |  | Win | B+R | 6.5 | 2770 | 36 | 
+| 2019-11-12 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第4戦 | Cho Seungah | Li Wei | Lose | B+R | 6.5 | 2734 | 0 | 
+| 2019-11-12 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第3戦 | Song Jihoon | Li Wei | Lose | B+R | 6.5 | 2734 | -6 | 
+| 2019-10-20 | 第15期国手戦（台湾）準決勝 | Lin Junyan | Li Wei | Lose | B+R | 6.5 | 2740 | 8 | 
+| 2019-10-17 | 第12期棋王戦（台湾）リーグ | Li Wei | Lin Lixiang | Lose | W+R | 6.5 | 2732 | -7 | 
+| 2019-10-08 | 第15期国手戦（台湾）4回戦 | Li Wei | Lu Yiquan | Win | B+R | 6.5 | 2739 | 14 | 
+| 2019-10-03 | 第12期棋王戦（台湾）予選勝部決勝 | Li Wei | Chen Qirui | Win | B+R | 6.5 | 2725 | 17 | 
+| 2019-10-01 | 第15期国手戦（台湾）3回戦 | Li Wei | Yang Bowei | Win | B+R | 6.5 | 2708 | 26 | 
+| 2019-09-28 | 第15期国手戦（台湾）2回戦 |  | Li Wei | Win | W+R | 6.5 | 2682 | 19 | 
+| 2019-09-26 | 第12期棋王戦（台湾）予選勝部準決勝 | Li Wei | Chen Shiyuan | Win | B+R | 6.5 | 2663 | 27 | 
+| 2019-09-23 | 第12期棋王戦（台湾）予選勝部2回戦 | Yang Zixuan | Li Wei | Win | W+R | 6.5 | 2636 | 39 | 
+| 2019-09-19 | 第12期棋王戦（台湾）予選勝部1回戦 | Lin Yuxiang | Li Wei | Win | W+0.5 | 6.5 | 2597 | 12 | 
+| 2019-09-17 | 第15期国手戦（台湾）1回戦 | Li Wei | Bai Xinhui | Win | B+R | 6.5 | 2585 | 4 | 
+| 2019-09-05 | 第12期棋王戦（台湾）資格戦勝部決勝 |  | Li Wei | Win | W+6.5 | 6.5 | 2581 | 2 | 
+| 2019-09-02 | 第12期棋王戦（台湾）資格戦勝部1回戦 | Zhang Zhehao | Li Wei | Win | W+R | 6.5 | 2579 | 2 | 
+| 2019-09-01 | 第7期中環碁聖戦1回戦 | Zhou Keping | Li Wei | Lose | B+0.5 | 6.5 | 2577 | -158 | 
+| 2019-04-11 | 第9期友士杯十段戦予選敗部決勝 | Li Wei | Xu Jingen | Lose | W+1.5 | 6.5 | 2735 | 0 | 
+| 2019-04-11 | 第9期友士杯十段戦予選敗部準決勝 | Lin Xiuping | Li Wei | Win | W+R | 6.5 | 2735 | -24 | 
+| 2019-04-10 | 第9期友士杯十段戦予選勝部決勝 | Li Wei | Chen Shiyuan | Lose | W+R | 6.5 | 2759 | -6 | 
+| 2019-04-08 | 第9期友士杯十段戦予選勝部準決勝 | Li Wei | Cai Wenhe | Win | B+R | 6.5 | 2765 | 0 | 
+| 2019-04-08 | 第9期友士杯十段戦予選勝部1回戦 | Lin Yuxiang | Li Wei | Win | W+R | 6.5 | 2765 | 50 | 
+| 2019-03-12 | 第18期天元戦（台湾）敗部4回戦 | Xu Haohong | Li Wei | Lose | B+R | 6.5 | 2715 | 24 | 
+| 2019-03-07 | 第11回海峰杯プロ囲碁戦32強戦 | Huang Shiyuan | Li Wei | Lose | B+R | 6.5 | 2691 | -18 | 
+| 2019-03-05 | 第18期天元戦（台湾）敗部3回戦 | Xu Yuqi | Li Wei | Win | W+2.5 | 6.5 | 2709 | 13 | 
+| 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 | Li Wei | Ye Hongyuan | Win | B+R | 6.5 | 2696 | -3 | 
+| 2019-02-26 | 第18期天元戦（台湾）敗部2回戦 |  | Li Wei | Win | W+R | 6.5 | 2699 | -27 | 
+| 2019-02-19 | 第18期天元戦（台湾）勝部2回戦 | Lai Junfu | Li Wei | Lose | B+R | 6.5 | 2726 | -13 | 
+| 2019-02-12 | 第18期天元戦（台湾）勝部1回戦 | Zhang Zhehao | Li Wei | Win | W+R | 6.5 | 2739 | 20 | 
+| 2019-01-22 | 第18期天元戦（台湾）予選3回戦 | Hei Jiajia | Li Wei | Win | W+R | 6.5 | 2719 | 51 | 
+| 2019-01-19 | 2019台湾精鋭vs日本精鋭交流戦第4戦 | Li Wei | Yao Zhiteng | Lose | W+R | 6.5 | 2668 | -10 | 
+| 2019-01-18 | 2019台湾精鋭vs日本精鋭交流戦第1戦 | Li Wei | Onishi Kenya | Win | B+R | 6.5 | 2678 | 29 | 
+| 2019-01-15 | 第18期天元戦（台湾）予選2回戦 | Li Wei | Lin Tingyi | Win | B+R | 6.5 | 2649 | -61 | 
+| 2018-11-30 | 2018年新人王戦（台湾）リーグB |  | Li Wei | Win | W+R | 7.5 | 2710 | 9 | 
+| 2018-11-28 | 2018年新人王戦（台湾）リーグB | Li Wei | Yang Bowei | Lose | W+R | 7.5 | 2701 | 0 | 
+| 2018-11-28 | 2018年新人王戦（台湾）リーグB | Li Wei | Chen Qirui | Lose | W+R | 7.5 | 2701 | 2 | 
+| 2018-11-23 | 2018年新人王戦（台湾）リーグB | Yang Zixuan | Li Wei | Win | W+R | 7.5 | 2699 | 0 | 
+| 2018-11-23 | 2018年新人王戦（台湾）リーグB | Li Wei |  | Win | B+R | 7.5 | 2699 | 9 | 
+| 2018-11-22 | 2018年新人王戦（台湾）リーグB | Li Wei | Yu Lijun | Win | B+R | 7.5 | 2690 | 0 | 
+| 2018-11-22 | 2018年新人王戦（台湾）リーグB | Li Wei | Lin Shimin | Win | B+R | 7.5 | 2690 | 4 | 
+| 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第4戦 | Li Wei |  | Lose | W+R | 6.5 | 2686 | 0 | 
+| 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第3戦 | Li Wei | Song Jihoon | Lose | W+R | 6.5 | 2686 | 9 | 
+| 2018-10-24 | 第1回IWMC台湾代表男子選抜戦予選2回戦 | Xu Haohong | Li Wei | Lose | B+R | 7.5 | 2677 | 0 | 
+| 2018-10-24 | 第1回IWMC台湾代表男子選抜戦予選1回戦 |  | Li Wei | Win | W+R | 7.5 | 2677 | 4 | 
+| 2018-09-30 | 第6期中環碁聖戦3回戦 | Lin Shixun | Li Wei | Lose | B+R | 6.5 | 2673 | -24 | 
+| 2018-09-25 | 第14期国手戦（台湾）1回戦下半区 | Li Wei | Jian Jingting | Lose | W+1.5 | 6.5 | 2697 | -50 | 
+| 2018-09-16 | 第6期中環碁聖戦2回戦 | Bai Xinhui | Li Wei | Win | W+R | 6.5 | 2747 | -15 | 
+| 2018-09-09 | 第6期中環碁聖戦1回戦下半区 | Gao Yun | Li Wei | Win | W+R | 6.5 | 2762 | 145 | 
+| 2018-05-28 | 第8期友士杯十段戦敗者復活戦2回戦 | Lin Lixiang | Li Wei | Lose | B+R | 6.5 | 2617 | -97 | 
+| 2018-05-24 | 第8期友士杯十段戦2回戦 | Li Wei | Xiao Zhenghao | Lose | W+R | 6.5 | 2714 | -34 | 
+| 2018-05-21 | 第8期友士杯十段戦1回戦 | Chen Xi | Li Wei | Win | W+R | 6.5 | 2748 | 35 | 
+| 2018-05-07 | 第8期友士杯十段戦予選 | Li Wei | Lin Shuyang | Win | B+R | 6.5 | 2713 | -72 | 
+| 2018-03-20 | 第十六回天元戦複戦敗部第三回戦 | Jian Jingting | Li Wei | Lose | B+R | 6.5 | 2785 | -70 | 
+| 2018-03-13 | 第十六回天元戦複戦敗部第二回戦 | Li Wei | Cai Chengwei | Win | B+R | 6.5 | 2855 | 52 | 
+| 2018-03-08 | 第10回海峰杯プロ囲碁戦32強戦 | Lin Xiuping | Li Wei | Lose | B+R | 6.5 | 2803 | -68 | 
+| 2018-03-06 | 第十七回天元戦複戦勝部第二回戦 | Lai Junfu | Li Wei | Lose | B+R | 6.5 | 2871 | -16 | 
+| 2018-03-01 | 第10回海峰杯プロ囲碁戦64強戦 | Xia Daming | Li Wei | Win | W+R | 6.5 | 2887 | 8 | 
+| 2018-02-27 | 第十七回天元戦複戦勝部第一回戦 | Li Wei |  | Win | B+R | 6.5 | 2879 | 35 | 
+| 2018-02-07 | 第12回春蘭杯台湾予選 | Li Wei | Xiao Zhenghao | Lose | W+R | 7.5 | 2844 | -8 | 
+| 2018-02-06 | 第12回春蘭杯台湾予選 | Li Wei | Lu Yiquan | Win | B+R | 7.5 | 2852 | 0 | 
+| 2018-02-06 | 第12回春蘭杯台湾予選 | Li Wei | Xu Yuqi | Win | B+R | 7.5 | 2852 | 98 | 
+| 2018-01-25 | 第23回LG杯台湾代表選抜戦予選第一局 |  | Li Wei | Lose | B+R | 6.5 | 2754 | -50 | 
+| 2018-01-23 | 2018台湾精鋭vs日本精鋭交流戦第5戦 | Li Wei | Yokotsuka Riki | Lose | W+R | 6.5 | 2804 | -50 | 
+| 2018-01-22 | 2018台湾精鋭vs日本精鋭交流戦第3戦 | Hsu Chiayuan | Li Wei | Lose | B+R | 6.5 | 2854 | 15 | 
+| 2018-01-20 | 2018年日台精鋭交流戦第1戦 | Mutsuura Yuta | Li Wei | Lose | B+0.5 | 6.5 | 2839 | -62 | 
+| 2018-01-16 | 第十七回天元戦予選第三回戦 | Li Wei | Liao Guanhong | Win | B+R | 6.5 | 2901 | 9 | 
+| 2018-01-09 | 第十七回天元戦予選第二回戦 | Dai Jiashen | Li Wei | Win | W+R | 6.5 | 2892 | 160 | 
+| 2017-10-03 | 第13期国手戦（台湾）8強戦 | Chen Qirui | Li Wei | Lose | B+R | 6.5 | 2732 | -22 | 
+| 2017-09-26 | 第13期国手戦（台湾）16強戦 | Li Wei | Lin Xiuping | Win | B+R | 6.5 | 2754 | -5 | 
+| 2017-09-19 | 第13期国手戦（台湾）第二回戦 | Li Wei | Xu Haohong | Win | B+R | 6.5 | 2759 | 52 | 
+| 2017-09-17 | 第5期中環碁聖戦第二回戦 | Li Wei | Xiao Zhenghao | Lose | W+R | 6.5 | 2707 | -4 | 
+| 2017-09-12 | 第13期国手戦（台湾）首輪下半区 | Li Wei | Zhou Keping | Win | B+R | 6.5 | 2711 | 5 | 
+| 2017-09-10 | 第5期中環碁聖戦首輪下半区 |  | Li Wei | Win | W+R | 6.5 | 2706 | 50 | 
+| 2017-06-19 | 第7期友士杯十段戦敗者復活戦3回戦 | Li Wei | Lin Junyan | Lose | W+R | 6.5 | 2656 | -10 | 
+| 2017-06-16 | 2017年中国囲碁丙級リーグ | Li Wei |  | Lose | W+R | 7.5 | 2666 | -24 | 
+| 2017-06-15 | 2017年中国囲碁丙級リーグ | Li Wei |  | Win | B+R | 7.5 | 2690 | 0 | 
+| 2017-06-13 | 2017年中国囲碁丙級リーグ | Pavol Lisy | Li Wei | Win | W+R | 7.5 | 2690 | 15 | 
+| 2017-06-12 | 2017年中国囲碁丙級リーグ | Li Wei |  | Lose | W+R | 7.5 | 2675 | -7 | 
+| 2017-06-11 | 2017年中国囲碁丙級リーグ |  | Li Wei | Win | W+R | 7.5 | 2682 | -4 | 
+| 2017-06-09 | 2017年中国囲碁丙級リーグ | Li Wei |  | Lose | W+R | 7.5 | 2686 | -12 | 
+| 2017-06-08 | 2017年中国囲碁丙級リーグ | Jiang Jidou | Li Wei | Lose | B+R | 7.5 | 2698 | -34 | 
+| 2017-06-05 | 第7期友士杯十段戦敗者復活戦2回戦 | Chen Shiyuan | Li Wei | Win | W+R | 6.5 | 2732 | 47 | 
+| 2017-06-02 | 第7期友士杯十段戦敗者復活戦1回戦 | Cai Chengwei | Li Wei | Win | W+R | 6.5 | 2685 | -2 | 
+| 2017-06-01 | 2017年利民杯台湾選抜戦 | Li Wei | Lin Junyan | Lose | W+R | 7.5 | 2687 | -26 | 
+| 2017-05-31 | 第7期友士杯十段戦1回戦 | Li Wei | Lin Xiuping | Lose | W+R | 6.5 | 2713 | -56 | 
+| 2017-05-26 | 2017年利民杯台湾選抜戦 | Lin Shixun | Li Wei | Win | W+R | 7.5 | 2769 | 0 | 
+| 2017-05-26 | 2017年利民杯台湾選抜戦 | Li Wei | Xu Haohong | Win | B+R | 7.5 | 2769 | 93 | 
+| 2017-05-23 | 2017年利民杯台湾選抜戦 | Li Wei | Yang Zixuan | Win | B+R | 7.5 | 2676 | -68 | 
+| 2017-04-05 | 第22期LG杯世界予選2回戦 | Li Wei | Komatsu Hideki | Win | B+R | 6.5 | 2744 | 231 | 
+| 2017-02-03 | 第三期MLILIY夢百合杯台湾代表選抜戦 初戦 | Lin Xiuping | Li Wei | Lose | B+9.5 | 7.5 | 2513 | -141 | 
+| 2017-01-21 | 台湾精鋭日本精鋭交流戦5回戦 | Shibano Toramaru | Li Wei | Lose | B+R | 6.5 | 2654 | 0 | 
+| 2017-01-21 | 台湾精鋭日本精鋭交流戦6回戦 | Li Wei | Onishi Kenya | Lose | W+R | 6.5 | 2654 | -42 | 
+| 2017-01-20 | 台湾精鋭日本精鋭交流戦3回戦 | Chang Rueijie | Li Wei | Lose | B+R | 6.5 | 2696 | 0 | 
+| 2017-01-20 | 台湾精鋭日本精鋭交流戦4回戦 | Terayama Rei | Li Wei | Win | W+R | 6.5 | 2696 | -62 | 
+| 2017-01-18 | 第三期MLILIY夢百合杯台湾代表選抜戦 初戦第二局 | Li Wei | Jian Jingting | Win | B+R | 7.5 | 2758 | 0 | 
+| 2017-01-18 | 第三期MLILIY夢百合杯台湾代表選抜戦 初戦第一局 | Yu Binghuang | Li Wei | Win | W+2又1/4子 | 7.5 | 2758 | 38 | 
+| 2016-11-27 | 第2期未来の星新鋭最強戦台湾予選 | Li Wei | Lai Junfu | Lose | W+R | 6.5 | 2720 | -53 | 
+| 2016-11-26 | 第2期未来の星新鋭最強戦台湾予選 | Huang Shiyuan | Li Wei | Win | W+R | 6.5 | 2773 | -25 | 
+| 2016-10-11 | 第12期国手戦（台湾）複戦第三局 | Zhou Yinnan | Li Wei | Lose | B+R | 6.5 | 2798 | -36 | 
+| 2016-06-13 | 第6期友士杯十段戦敗者復活戦3回戦 | Lin Shuyang | Li Wei | Lose | B+R | 6.5 | 2834 | -43 | 
+| 2016-06-08 | 第6期友士杯十段戦敗者復活戦2回戦 | Li Wei | Chen Feng | Win | B+R | 6.5 | 2877 | 9 | 
+| 2016-06-06 | 第6期友士杯十段戦敗者復活戦1回戦 | Li Wei | Yang Bowei | Win | B+R | 6.5 | 2868 | 38 | 
+| 2016-06-03 | 第6期友士杯十段戦1回戦 | Li Wei | Xu Haohong | Lose | W+0.5 | 6.5 | 2830 | -17 | 
+| 2016-05-20 | 第6期友士杯十段戦予選 | Li Wei | Yang Bowei | Win | B+R | 6.5 | 2847 | 110 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Jian Jingting | Li Wei | Win | W+R | 6.5 | 2737 | 0 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Li Wei | Su Shengfang | Win | B+R | 6.5 | 2737 | -11 | 
+| 2016-03-21 | 第8回海峰杯プロ囲碁戦32強戦 | Huang Daolong | Li Wei | Lose | B+R | 6.5 | 2748 | 43 | 
+| 2016-03-07 | 第8回海峰杯プロ囲碁戦64強戦 | Li Wei | Cai Wenhe | Win | B+R | 6.5 | 2705 | -69 | 
+| 2016-01-30 | 2016年日台精鋭交流戦第6戦 | Murakawa Daisuke | Li Wei | Win | W+R | 6.5 | 2774 | 20 | 
+| 2016-01-28 | 2016年日台精鋭交流戦第2戦 | Koyama Kuya | Li Wei | Win | W+R | 6.5 | 2754 | -54 | 
+| 2015-06-25 | 第5期友士杯十段戦敗者復活戦3回戦 | Li Wei | Lin Xiuping | Lose | W+R | 6.5 | 2808 | -128 | 
+| 2015-06-18 | 第5期友士杯十段戦勝者組準決勝 | Li Wei | Chen Shiyuan | Lose | W+R | 6.5 | 2936 | -50 | 
+| 2015-06-15 | 第5期友士杯十段戦2回戦 | Li Wei | Lin Shuyang | Win | B+4.5 | 6.5 | 2986 | 57 | 
+| 2015-06-11 | 第5期友士杯十段戦1回戦 | Li Wei | Zhou Pingqiang | Win | B+R | 6.5 | 2929 | -241 | 
+| 2015-03-09 | 第7回海峰杯プロ囲碁戦32強戦 | Li Wei | Wang Yuanjun | Lose | W+R | 6.5 | 3170 | -85 | 
+| 2015-03-05 | 第7回海峰杯プロ囲碁戦64強戦 |  | Li Wei | Win | W+R | 6.5 | 3255 | 116 | 
+| 2015-02-12 | 2015年日台精鋭交流戦第4戦 | Terayama Rei | Li Wei | Lose | B+R | 6.5 | 3139 | 0 | 
+| 2015-02-12 | 2015年日台精鋭交流戦第3戦 | Li Wei | Hirata Tomoya | Win | B+3.5 | 6.5 | 3139 | -39 | 
+| 2015-02-11 | 2015年日台精鋭交流戦第1戦 | Li Wei | Cho Riyu | Win | B+R | 6.5 | 3178 | 237 | 
+| 2015-02-07 | 第12期倡棋杯中国プロ囲碁選手権戦台湾予選 | Li Wei | Xiao Zhenghao | Lose | W+R | 7.5 | 2941 | -63 | 
+| 2015-02-06 | 第12期倡棋杯中国プロ囲碁選手権戦台湾予選 | Lin Lixiang | Li Wei | Win | W+R | 7.5 | 3004 | 3004 | 
+| 2014-03-03 | 第6回海峰杯プロ囲碁戦64強戦 | Gao Yun | Li Wei | Lose | B+R | 6.5 | missing | 0 | 
+| 2013-03-07 | 第5回海峰杯プロ囲碁戦64強戦 | Li Wei | Wang Yuanjun | Lose | W+R | 6.5 | missing | missing |
 
 
 

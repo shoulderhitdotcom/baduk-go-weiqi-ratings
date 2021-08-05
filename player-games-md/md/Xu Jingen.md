@@ -5,169 +5,171 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第2期聯電杯プロ囲碁戦予選 | Xu Jingen | Dai Jiashen | B+R | 2021-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YKI8f5837VtniCezrQP0sg%3D%3D) | 
-| 第11期友士杯十段戦敗部1回戦 | missing | Xu Jingen | B+0.5 | 2021-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9kVF75wWmHXUpmTpGzVbYA%3D%3D) | 
-| 第11期友士杯十段戦勝部1回戦 | Yu Lijun | Xu Jingen | B+R | 2021-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N8Mjm6KXJe83WE%2BUT2Ov8Q%3D%3D) | 
-| 第11期友士杯十段戦予選 | Xu Jingen | Huang Shiyuan | B+0.5 | 2021-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O2evBJhkcDCjdrJPojOvNQ%3D%3D) | 
-| 第11期友士杯十段戦予選 | Cai Chengwei | Xu Jingen | W+5.5 | 2021-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=06SJbdZWv2jCZrreQ4IV5Q%3D%3D) | 
-| 2021年日本ナショナルチームvs台湾精鋭隊交流戦第2戦 | missing | Xu Jingen | W+T | 2021-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YlUb63ILU746pyf3w9ibiA%3D%3D) | 
-| 2021年日本ナショナルチームvs台湾精鋭隊交流戦第1戦 | Xu Jingen | missing | B+0.5 | 2021-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=boO3pS7oMDyupqw6FTm91A%3D%3D) | 
-| 第8回グロービス杯台湾予選 | missing | Xu Jingen | B+R | 2021-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SFGjRLzH8f725wmNERvOEA%3D%3D) | 
-| 第11期友士杯十段戦予選 | Zhou Yinnan | Xu Jingen | W+R | 2021-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nj%2B13%2BkAWhftkzZGRFtkGA%3D%3D) | 
-| 第11期友士杯十段戦予選 | Xu Jingen | missing | B+R | 2021-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WqKJKz%2FYYN5%2BL7kxcAlRgA%3D%3D) | 
-| 第26回LG杯台湾予選 | Lai Junfu | Xu Jingen | B+R | 2021-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NO0EZZFN5aLttf%2FUxIEpDQ%3D%3D) | 
-| 第26回LG杯台湾予選 | Lin Shixun | Xu Jingen | W+R | 2021-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nysMtRZ9Xsm4pswEYRuQHg%3D%3D) | 
-| 第17期国手戦（台湾） | Wang Yuanjun | Xu Jingen | B+R | 2021-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E9JgiDuAnJZWpfqXMmysLg%3D%3D) | 
-| 第26回LG杯台湾予選 | Chen Shiyuan | Xu Jingen | W+R | 2021-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pac4q0cJIzAiZ8f2nUcUng%3D%3D) | 
-| 第26回LG杯台湾予選 | Lin Jiehan | Xu Jingen | W+R | 2021-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A9m7p2HYartB9IsG9np%2FEw%3D%3D) | 
-| 第11期友士杯十段戦予選 | Xu Jingen | missing | W+1.5 | 2021-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q5GOyPC0q%2FJigzzdnSH2tA%3D%3D) | 
-| 第11期友士杯十段戦予選 | missing | Xu Jingen | W+R | 2021-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T%2By%2BHQD%2Bn2%2B9Q9ZsjEe2gQ%3D%3D) | 
-| 第2期名人冠軍戦準決勝第2局 | Xu Jingen | Wang Yuanjun | W+R | 2021-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gqhi3eq2XQZAW6Fk4pINug%3D%3D) | 
-| 第17期国手戦（台湾） | Xu Jingen | missing | B+R | 2021-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KelQDPc6lanAujmm32fNbg%3D%3D) | 
-| 第2期名人冠軍戦準決勝第1局 | Wang Yuanjun | Xu Jingen | B+R | 2021-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w1dAuYyoKjGEN9tWKWhjFA%3D%3D) | 
-| 第2期名人冠軍戦3回戦 | Xu Jingen | Chen Xi | B+R | 2021-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2octF3RhtSTPvwPSxmMoBQ%3D%3D) | 
-| 第2期名人冠軍戦2回戦 | Lin Shuyang | Xu Jingen | W+R | 2021-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TshsZ5Tqhjx9hKW%2BL8m2Vw%3D%3D) | 
-| 第2期名人冠軍戦1回戦 | Lai Junfu | Xu Jingen | W+2.5 | 2021-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z8VIWpagoRVDHwbkCN7j6g%3D%3D) | 
-| 第2期名人冠軍戦予選 | missing | Xu Jingen | W+5.5 | 2021-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IW5PuXcRjHFDPZ5CkrrUcQ%3D%3D) | 
-| 第2期名人冠軍戦予選 | Lin Xinwei | Xu Jingen | B+R | 2021-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dghRU1lfH%2BK%2B0%2Bhy7HPdVw%3D%3D) | 
-| 第2期名人冠軍戦予選 | missing | Xu Jingen | W+R | 2021-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pvRRd6IZexrZ%2FJvfdjqvEw%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦3回戦 | Wang Yuanjun | Xu Jingen | B+R | 2021-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ozv1Uc1iqXynjnjCSAGnvQ%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦2回戦 | Xu Jingen | missing | B+R | 2021-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P5oNMa0WsZGgMT3ts86PlA%3D%3D) | 
-| 第20期天元戦（台湾）予選 | Zhang Zhehao | Xu Jingen | B+2.5 | 2021-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8gBhM3aWgCsIC%2F9mu%2FLWmA%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦1回戦 | missing | Xu Jingen | W+R | 2021-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PGWbGiY5SEqx8OrwuGAveQ%3D%3D) | 
-| 第20期天元戦（台湾）予選 | missing | Xu Jingen | W+R | 2021-01-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WSc%2Fn%2FW%2BWDE00ko2LI7WPA%3D%3D) | 
-| 2020年台湾新鋭隊vs韓国国家隊交流戦第6戦 | missing | Xu Jingen | B+R | 2020-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g5smbdFH2QmtICAhrFAE6w%3D%3D) | 
-| 2020年台湾新鋭隊vs韓国国家隊交流戦第5戦 | missing | Xu Jingen | W+R | 2020-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o83uCYZoY%2BhdxdANSSpbPg%3D%3D) | 
-| 2020年台湾新鋭隊vs韓国国家隊交流戦第2戦 | missing | Xu Jingen | W+R | 2020-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vXR6mPPG6YjOGKi6MrSSUg%3D%3D) | 
-| 2020年台湾新鋭隊vs韓国国家隊交流戦第1戦 | Xu Jingen | missing | B+R | 2020-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JNFsSbAHYPb6yH7OgOU22A%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | Xu Jingen | Liu Yuhang | W+R | 2020-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HkTz%2FaMGYb0IUtaVcUAj5A%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | missing | Xu Jingen | B+R | 2020-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=razA9%2Bp2o0%2B7VoFSCGUibw%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | missing | Xu Jingen | B+R | 2020-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o44gT2Dje1mIW6VFT%2FtdYg%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | Xu Jingen | An Dongxu | W+R | 2020-11-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RcRbTHmaHp6MRTxEheGz4A%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | Xu Jingen | Lin Lixiang | B+R | 2020-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JisUiXiz%2BwvKLbWvH0d5ZA%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | Kou Zhengyan | Xu Jingen | W+R | 2020-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LkUkcl2%2BX%2BRqH1CeRkchTg%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | Xu Jingen | Guo Yuzheng | W+1¼ | 2020-11-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e9o5m5ho2cZHP9MEyZqlSw%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | Seol Hyunjun | Xu Jingen | W+R | 2020-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bBpHVKqmXs%2FBndZ%2B%2BFaQQA%3D%3D) | 
-| 第13期棋王戦（台湾）リーグ | Xu Jingen | Li Wei | W+R | 2020-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wBBLEdv77IsRicdnZycIEA%3D%3D) | 
-| 第13期棋王戦（台湾）リーグ | Xu Jingen | Xiao Zhenghao | B+R | 2020-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BB15DLocvT3IqdpXfia1Vg%3D%3D) | 
-| 第13期棋王戦（台湾）リーグ | Xu Haohong | Xu Jingen | B+0.5 | 2020-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0r%2FGZphjoUF5vSA2%2FyG1SA%3D%3D) | 
-| 第13期棋王戦（台湾）リーグ  | Jian Jingting | Xu Jingen | B+R | 2020-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZpXj%2FRBCWrtc1uHslo9sJg%3D%3D) | 
-| 第13期棋王戦（台湾）リーグ | Xu Jingen | Lin Junyan | W+R | 2020-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vawU8iJ47BKaKLM9xmA5hQ%3D%3D) | 
-| 第13期棋王戦（台湾）リーグ | Xu Jingen | Chen Qirui | W+1.5 | 2020-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s8QKhQ11hOotxJq26d5kSQ%3D%3D) | 
-| 第1回UMC聯電杯早碁争覇戦2回戦 | Xu Jingen | Chen Qirui | W+R | 2020-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mzUIc2f3uUoLuubkFk5deg%3D%3D) | 
-| 第13期棋王戦（台湾）リーグ | Lin Lixiang | Xu Jingen | B+R | 2020-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3fJb8L%2B8yIdtxEM245MCKw%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Xu Jingen | Lu Yiquan | B+R | 2020-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MknmX5u9eMLXsCuT8RIhtQ%3D%3D) | 
-| 第1回UMC聯電杯早碁争覇戦1回戦 | Xu Jingen | Chen Yida | B+R | 2020-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J1%2FcFR7Wki4GdWxLE6w8mw%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Xu Jingen | missing | B+3.5 | 2020-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2g%2Fpo5lBabY9iK8b2eTZRA%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | missing | Xu Jingen | W+R | 2020-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=csyP8TvChmLlJ70uSPOXzA%3D%3D) | 
-| 第16期国手戦（台湾）3回戦 | Xu Jingen | Chen Qirui | W+R | 2020-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qOBUMJ6QLWpY5%2BXw%2BGOqYA%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Xu Jingen | Li Wei | W+3.5 | 2020-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qgab06bhtP3VPxPqlKqjHA%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Chen Xi | Xu Jingen | W+R | 2020-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hFA8pQDjJZQuZgWqRXVk4A%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Xu Jingen | Ye Hongyuan | B+R | 2020-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PFAR43AShIX33Jd%2FZpcLww%3D%3D) | 
-| 第8期中環碁聖戦3回戦 | Xu Jingen | Xu Yuqi | W+R | 2020-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FPKXqbGkQiuWxZDbiRI56Q%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Xu Jingen | missing | B+R | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sjh6xKxn916X3vNWJzDkXw%3D%3D) | 
-| 第16期国手戦（台湾）1回戦 | Xu Jingen | Su Shengfang | B+R | 2020-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aQvdbRfSXg77K1MLynL7Ag%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Xu Jingen | missing | B+R | 2020-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GMO6leKOQhU%2FvFtcgzePdg%3D%3D) | 
-| 第8期中環碁聖戦2回戦 | Xu Jingen | Lin Shengyi | B+5.5 | 2020-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QRopPmMJREPEeT9eMyOGYw%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Xu Jingen | Lin Shuyang | W+R | 2020-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K5Lswzc2Db0efZc85TPUtA%3D%3D) | 
-| 第25回三星火災杯台湾代表選抜戦 | Wang Yuanjun | Xu Jingen | B+R | 2020-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A0eAGgMZuYrG3g0OdhyUeg%3D%3D) | 
-| 第25回三星火災杯台湾代表選抜戦 | Jian Jingting | Xu Jingen | W+0.5 | 2020-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EbqVgd98ipoR1VB6QYwzjg%3D%3D) | 
-| 第25回三星火災杯台湾代表選抜戦 | Xu Jingen | Huang Shiyuan | B+R | 2020-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xWVMbrHB8yfsmO2FZwVaqw%3D%3D) | 
-| 第1期名人冠軍戦2回戦 | Xu Jingen | Chen Xi | W+R | 2020-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YPhHhUAHg0%2FFgstcfmUNsQ%3D%3D) | 
-| 第1期名人冠軍戦1回戦 | missing | Xu Jingen | W+R | 2020-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nZSVnWL3QocO%2BEO4Rvsd7A%3D%3D) | 
-| 2020新人王戦（台湾）リーグA | Xu Jingen | missing | B+R | 2020-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wqe%2FXv0L4d0Y865e2vb9Dg%3D%3D) | 
-| 2020新人王戦（台湾）リーグA | Lu Yiquan | Xu Jingen | B+R | 2020-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qm89%2B0wD3G9H3YYyP48Y9A%3D%3D) | 
-| 2020新人王戦（台湾）リーグA | Xu Jingen | Jian Jingting | W+R | 2020-06-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A99zEQS94J87%2BtI1UMYQhA%3D%3D) | 
-| 2020新人王戦（台湾）リーグA | Xu Jingen | missing | B+R | 2020-06-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r1vvdtapd3K5%2FblUZhVvOQ%3D%3D) | 
-| 2020新人王戦（台湾）リーグA | Xu Jingen | Chen Qirui | W+R | 2020-06-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4Sl4jH51JkRmA%2B4WTpPmmw%3D%3D) | 
-| 2020新人王戦（台湾）リーグA | missing | Xu Jingen | W+R | 2020-06-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4CRw0Mp1WYaEWkHxgvwoAQ%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦予選 | Xu Jingen | Lin Shuyang | W+R | 2020-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9UjWTiTZIbbWyUSRABBhrg%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦予選 | missing | Xu Jingen | W+R | 2020-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KVWNWOywAQdD411bEdWwbw%3D%3D) | 
-| 日台交流戦第2戦 | Xu Jingen | Onishi Ryuhei | W+0.5 | 2020-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kv7GzQe%2FgTVazfAg9ewlCA%3D%3D) | 
-| 日台交流戦第1戦 | Xu Jingen | Yu Zhengqi | W+R | 2020-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9%2B9CmyJZva%2BiURS9iUzIjw%3D%3D) | 
-| 第10期友士杯十段戦敗部2回戦 | Xu Jingen | Chen Shiyuan | W+R | 2020-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BFyU4zRnji8ZzgMlhZlmpg%3D%3D) | 
-| 第10期友士杯十段戦敗部1回戦  | Xu Jingen | Hei Jiajia | B+R | 2020-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JYB%2By6mbUjOXNloiw29fyA%3D%3D) | 
-| 第10期友士杯十段戦勝部1回戦 | Xu Jingen | Cai Chengwei | W+R | 2020-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HJjYM4m0YNvwWiDIzAXFmA%3D%3D) | 
-| 第10期友士杯十段戦予選勝部決勝 | Li Wei | Xu Jingen | W+R | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9OojQGxPGyF%2B0lXujt%2BRog%3D%3D) | 
-| 第5回百霊杯台湾代表選抜戦 | Xu Jingen | Chen Xi | W+R | 2020-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NgCHmcvUUp9KGMbTsyoesg%3D%3D) | 
-| 第10期友士杯十段戦予選勝部2回戦 | missing | Xu Jingen | W+R | 2020-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=11azbGX%2BmEZcVCNij172tg%3D%3D) | 
-| 第10期友士杯十段戦予選勝部1回戦 | Yu Lijun | Xu Jingen | W+R | 2020-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XY1ovkVHXsprLl08HfArLQ%3D%3D) | 
-| 第7回グロービス杯台湾予選 | Lai Junfu | Xu Jingen | B+R | 2020-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dj7cOez7Bwz2TyaF1zjN9Q%3D%3D) | 
-| 第7回グロービス杯台湾予選 | missing | Xu Jingen | W+R | 2020-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BxGAFeo1zSyFqficV4oqkA%3D%3D) | 
-| 第7回グロービス杯台湾予選 | Xu Jingen | missing | B+R | 2020-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4qQKS0c4LLycvoFajk1KiQ%3D%3D) | 
-| 第25回LG杯台湾代表選抜戦 | Lin Lixiang | Xu Jingen | B+R | 2020-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rIBACbshoiAiZoHjmaRFNw%3D%3D) | 
-| 第25回LG杯台湾代表選抜戦 | Chen Xi | Xu Jingen | W+R | 2020-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y3g%2F5Na3iXqgUWV2vi9Fow%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦64強戦 | missing | Xu Jingen | B+R | 2020-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PHVZquQjbtGk7C5monvRhg%3D%3D) | 
-| 第25回LG杯台湾代表選抜戦 | Lin Shuyang | Xu Jingen | W+R | 2020-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G2Ydt8FdK8Rr6yKluVb05Q%3D%3D) | 
-| 第25回LG杯台湾代表選抜戦 | missing | Xu Jingen | W+R | 2020-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vUqr12G0%2FOMw0wkRrMDZ3A%3D%3D) | 
-| 第1期名人冠軍戦予選勝部決勝 | Lin Shuyang | Xu Jingen | W+0.5 | 2020-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QB%2FtPSlO70yRupuiLqTh8Q%3D%3D) | 
-| 第1期名人冠軍戦予選勝部1回戦 | Xu Jingen | missing | B+R | 2020-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5BNtYN%2BTwqtlF5m4jJLsSg%3D%3D) | 
-| 第19期天元戦（台湾）予選 | Xu Jingen | Lu Yiquan | W+1.5 | 2020-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y9f5wnidCqCKstBK7l3DdQ%3D%3D) | 
-| 第17期倡棋杯台湾代表選抜戦 | missing | Xu Jingen | B+R | 2020-01-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S913M2FvYdMBQJmTTVWH6w%3D%3D) | 
-| 第17期倡棋杯台湾代表選抜戦 | Lu Yiquan | Xu Jingen | W+3 | 2020-01-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7%2Fd%2ByqQUt4US1IkW%2BEAy4g%3D%3D) | 
-| 2020台湾精鋭vs日本精鋭交流戦第6戦 | Xu Jingen | Hsu Chiayuan | W+R | 2020-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Up2i5HBOG%2FU9Ui5ECXBLtA%3D%3D) | 
-| 2020台湾精鋭vs日本精鋭交流戦第5戦 | Seki Kotaro | Xu Jingen | B+1.5 | 2020-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WtRot0NA06DQ6wYomIAdXA%3D%3D) | 
-| 2020台湾精鋭vs日本精鋭交流戦第2戦 | Fujisawa Rina | Xu Jingen | W+R | 2020-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F8ui7dYQl2ksWhpI9fBwoQ%3D%3D) | 
-| 第9回応氏杯世界選手権台湾代表選抜戦 | Xu Jingen | Lin Lixiang | W+R | 2020-01-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mFsQsX8Cmsb%2FAug%2FRwSDhw%3D%3D) | 
-| 第19期天元戦（台湾）予選 | Xu Jingen | missing | B+3.5 | 2020-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z%2BaYNMHLCYmdkv8Edd4TFw%3D%3D) | 
-| 第19期天元戦（台湾）予選 | Xu Jingen | missing | B+R | 2020-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eTveKf90XWz4c8Vrjuc2vA%3D%3D) | 
-| 第13回春蘭杯台湾予選 | Xu Haohong | Xu Jingen | B+R | 2020-01-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nM85nTQg4W5jS5pBL8U%2BxQ%3D%3D) | 
-| 第9回応氏杯世界選手権台湾代表選抜戦 | Cai Chengwei | Xu Jingen | W+R | 2020-01-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qshDctJifRdh3Z%2BPXzc6Xg%3D%3D) | 
-| 第9回応氏杯世界選手権台湾代表選抜戦 | Chen Feng | Xu Jingen | W+9 | 2020-01-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KEc0ol9rZSKHsWHk9FwcsQ%3D%3D) | 
-| 第9回応氏杯世界選手権台湾代表選抜戦 | missing | Xu Jingen | W+R | 2020-01-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nNGIxx83rJ7JgJp8qkXa%2Fw%3D%3D) | 
-| 第13回春蘭杯台湾予選 | Xu Jingen | missing | B+R | 2019-12-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wXRXDIgHr7PiV3Df064yhw%3D%3D) | 
-| 第13回春蘭杯台湾予選 | Lai Junfu | Xu Jingen | W+2.5 | 2019-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HOkUtf3vNJZLs0FNI90Hmw%3D%3D) | 
-| 2019台湾精鋭vs韓国ナショナルチーム交流戦第6戦 | Xu Jingen | Park Junghwan | W+R | 2019-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1tWn8Q7Rywx8duQb9YVwpQ%3D%3D) | 
-| 2019台湾精鋭vs韓国ナショナルチーム交流戦第4戦 | Xu Jingen | Weon Seongjin | B+R | 2019-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I6kxYW%2F4BUAG6xNd9bxzHA%3D%3D) | 
-| 2019台湾精鋭vs韓国ナショナルチーム交流戦第1戦 | missing | Xu Jingen | B+R | 2019-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NDBKU4YAPkHDCCZcYgJ23w%3D%3D) | 
-| 2019新人王戦（台湾）リーグB | missing | Xu Jingen | W+R | 2019-11-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o5JgY5%2Fjne18TIc19WC0xg%3D%3D) | 
-| 2019新人王戦（台湾）リーグB | Huang Shiyuan | Xu Jingen | W+R | 2019-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5RTWOPFTfsbl3BnwgGQ4IQ%3D%3D) | 
-| 2019新人王戦（台湾）リーグB | Xu Jingen | Lin Shixun | W+R | 2019-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7QBxyUVFOOX2oH2wYHmz3A%3D%3D) | 
-| 2019新人王戦（台湾）リーグB | Xu Jingen | Lin Shimin | B+R | 2019-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HmCTVwIla%2Bt%2FRxRqj%2BfPcA%3D%3D) | 
-| 2019新人王戦（台湾）リーグB | Xu Jingen | missing | B+R | 2019-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AuwW4YRNhPxve0fvBi3j4A%3D%3D) | 
-| 2019新人王戦（台湾）リーグB | Lai Junfu | Xu Jingen | B+T | 2019-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OAvktziSceqBsEiGJ0p%2BxA%3D%3D) | 
-| 2019新人王戦（台湾）リーグB | Chen Qirui | Xu Jingen | B+R | 2019-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pJo9%2Baxy6hldHPvaIApvPA%3D%3D) | 
-| 2019新人王戦（台湾）予選勝部決勝 | Xu Jingen | Lin Shimin | B+2¾ | 2019-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bk4LlKL%2Bf3wA3JSV6ybKqg%3D%3D) | 
-| 2019新人王戦（台湾）予選勝部1回戦 | Xu Jingen | Cai Chengwei | B+2¾ | 2019-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IrOU9aCVQbusGP8LNFVOzQ%3D%3D) | 
-| 第12期棋王戦（台湾）予選敗部2回戦 | Lu Yiquan | Xu Jingen | B+R | 2019-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x39ni3a5wVhS0y7cLlkTMA%3D%3D) | 
-| 第12期棋王戦（台湾）予選勝部2回戦 | Chen Xi | Xu Jingen | B+R | 2019-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LWuXWIhUIu4wZPNilj90KQ%3D%3D) | 
-| 第7期中環碁聖戦3回戦 | Yang Bowei | Xu Jingen | B+R | 2019-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HcBSI4KXJ7XoH2x9yN6rdA%3D%3D) | 
-| 第12期棋王戦（台湾）予選勝部1回戦 | Xu Jingen | Chen Yida | B+1.5 | 2019-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5cmaeJvMXo%2BHcU4B%2FW0oCA%3D%3D) | 
-| 第7期中環碁聖戦2回戦 | Su Shengfang | Xu Jingen | W+R | 2019-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qp1e11jdLKaV1%2F6vX24aRQ%3D%3D) | 
-| 第7期中環碁聖戦1回戦 | Xu Jingen | missing | B+5.5 | 2019-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OntO9tkOUlRUs9KBz6mryQ%3D%3D) | 
-| 第12期棋王戦（台湾）資格戦勝部決勝 | Yang Bowei | Xu Jingen | B+R | 2019-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lqf7Gi9tLczDaFfv5GBqWA%3D%3D) | 
-| 第15期国手戦（台湾）1回戦 | Lin Jiehan | Xu Jingen | B+R | 2019-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UWBiSppN0Oxy%2Ft5q2E6wuQ%3D%3D) | 
-| 第12期棋王戦（台湾）資格戦勝部1回戦 | Yang Mengyun | Xu Jingen | W+8.5 | 2019-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B9jxMIWDuygf2O%2FH%2FF3PHQ%3D%3D) | 
-| 2019年中国囲碁丙級リーグ | Xu Jingen | missing | W+R | 2019-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4X7im8dFoVaeGFxwK5IV3g%3D%3D) | 
-| 2019年中国囲碁丙級リーグ | missing | Xu Jingen | W+R | 2019-06-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kLJXJnrj6Kd3FcGOUVcpug%3D%3D) | 
-| 2019年中国囲碁丙級リーグ | Xu Jingen | Cui Chao | W+R | 2019-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nM0HCjOeYOlu9kSv5HQg5A%3D%3D) | 
-| 2019年中国囲碁丙級リーグ | Xu Jingen | missing | W+R | 2019-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UgyQUe0ZnACggSLqU3C3dA%3D%3D) | 
-| 2019年中国囲碁丙級リーグ | Mateusz Surma | Xu Jingen | W+R | 2019-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wJmP1pC59OjXDy8EH0hmzA%3D%3D) | 
-| 2019年中国囲碁丙級リーグ | Xu Jingen | missing | B+R | 2019-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BQGyEoU8aAwyga94gDOKbg%3D%3D) | 
-| 2019年中国囲碁丙級リーグ | missing | Xu Jingen | W+1.5 | 2019-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YBxp%2Bl5teDqwRRoFzmdMIA%3D%3D) | 
-| 第9期友士杯十段戦敗部1回戦 | missing | Xu Jingen | B+R | 2019-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XZzNEh8kG4uLwjNTB0Pusw%3D%3D) | 
-| 第9期友士杯十段戦勝部1回戦 | Xiao Zhenghao | Xu Jingen | B+R | 2019-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Pp252u3BrP59GfeHMDafQ%3D%3D) | 
-| 第9期友士杯十段戦予選敗部決勝 | Li Wei | Xu Jingen | W+1.5 | 2019-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3hOgQcpBGXzOEt8ZKq5Oqg%3D%3D) | 
-| 第9期友士杯十段戦予選敗部準決勝 | Zhou Yinnan | Xu Jingen | W+R | 2019-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g1WGOZ56Rwt3tc0IEnwAgA%3D%3D) | 
-| 第9期友士杯十段戦予選敗部3回戦 | Gao Yun | Xu Jingen | W+8.5 | 2019-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=63zsX3bHKrjZebnTG0yIzQ%3D%3D) | 
-| 第9期友士杯十段戦予選敗部1回戦 | Xu Jingen | Yang Mengyun | B+R | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JvBAuIN9iLQ0PUln%2FxDsrg%3D%3D) | 
-| 第9期友士杯十段戦予選勝部1回戦 | Xu Jingen | Zhou Yinnan | W+R | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HfYqH7Uf9bwm%2FK7IYYDJCA%3D%3D) | 
-| 第24回LG杯統合予選4回戦 | Lee Juhyung | Xu Jingen | W+R | 2019-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GU9dOgnhDtI89mSfUVXqwg%3D%3D) | 
-| 第7回河燦錫国手杯韓中日台英才戦台湾代表選抜戦 | Xu Jingen | Lu Yiquan | W+R | 2019-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SJbyd%2BzqtL2rZnpCUY%2BgmA%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦64強戦 | Lin Shixun | Xu Jingen | B+R | 2019-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B5AbgZ99HTSddLgoB4UuiA%3D%3D) | 
-| 2019年囲棋道場vs立命館大学囲碁部交流戦 | missing | Xu Jingen | W+R | 2019-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FKPLedZ3Hq4O22Y4ui9t5g%3D%3D) | 
-| 第6回グロービス杯台湾予選 | missing | Xu Jingen | W+R | 2019-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2h8tcl7WruvJF50m3nbRJw%3D%3D) | 
-| 第6回グロービス杯台湾予選 | Huang Shiyuan | Xu Jingen | B+1.5 | 2019-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4buaAupmvAAuv7MfIzQzbg%3D%3D) | 
-| 2019台湾精鋭vs日本精鋭交流戦第5戦 | Xu Jingen | missing | B+R | 2019-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=91GZgPz7HkNr50os%2FWgKiA%3D%3D) | 
-| 2019台湾精鋭vs日本精鋭交流戦第3戦 | missing | Xu Jingen | B+R | 2019-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1MP6EZi86uTPUF8u8C4l2g%3D%3D) | 
-| 2019台湾精鋭vs日本精鋭交流戦第1戦 | missing | Xu Jingen | B+R | 2019-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u7NbfveXDrsWMMHWx19clQ%3D%3D) | 
-| 第18期天元戦（台湾）予選1回戦 | Xu Jingen | missing | W+R | 2019-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xs4rRDUr5MH2L%2BFRyli%2FSw%3D%3D) | 
-| 2018年台湾精鋭vs韓国交流戦第6戦 | Xu Jingen | missing | B+R | 2018-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EAP33%2BX6HbbOcF02XIO8aw%3D%3D) | 
-| 2018年台湾精鋭vs韓国交流戦第2戦 | Xu Jingen | missing | W+R | 2018-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lbPEt%2F3bpN1oPlnjBodqow%3D%3D) | 
-| 2018年台湾精鋭vs韓国交流戦第1戦 | Xu Jingen | missing | B+R | 2018-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2jnrFjteyyACdMgS0gUPWQ%3D%3D) | 
-| 囲棋道場vs立命館大学囲碁部交流戦 | Xu Jingen | missing | W+R | 2018-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Btmak8CYFsHnix8MJKpCgw%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Xu Jingen | Xu Haohong | Lose | W+R | 6.5 | 2954 | 0 | 
+| 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Xu Jingen | Zhou Yinnan | Win | B+R | 6.5 | 2954 | 10 | 
+| 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Xu Jingen | Dai Jiashen | Win | B+R | 6.5 | 2944 | 4 | 
+| 2021-05-03 | 第11期友士杯十段戦敗部1回戦 |  | Xu Jingen | Lose | B+0.5 | 6.5 | 2940 | -16 | 
+| 2021-04-26 | 第11期友士杯十段戦勝部1回戦 | Yu Lijun | Xu Jingen | Lose | B+R | 6.5 | 2956 | -11 | 
+| 2021-04-19 | 第11期友士杯十段戦予選 | Xu Jingen | Huang Shiyuan | Win | B+0.5 | 6.5 | 2967 | 0 | 
+| 2021-04-19 | 第11期友士杯十段戦予選 | Cai Chengwei | Xu Jingen | Win | W+5.5 | 6.5 | 2967 | 23 | 
+| 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第2戦 |  | Xu Jingen | Win | W+T | 6.5 | 2944 | 0 | 
+| 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第1戦 | Xu Jingen |  | Win | B+0.5 | 6.5 | 2944 | 6 | 
+| 2021-04-15 | 第8回グロービス杯台湾予選 | Yang Zixuan | Xu Jingen | Lose | B+R | 6.5 | 2938 | -39 | 
+| 2021-04-12 | 第11期友士杯十段戦予選 | Zhou Yinnan | Xu Jingen | Win | W+R | 6.5 | 2977 | 0 | 
+| 2021-04-12 | 第11期友士杯十段戦予選 | Xu Jingen | Liu Yifang | Win | B+R | 6.5 | 2977 | 7 | 
+| 2021-04-11 | 第26回LG杯台湾予選 | Lai Junfu | Xu Jingen | Lose | B+R | 6.5 | 2970 | -15 | 
+| 2021-04-07 | 第26回LG杯台湾予選 | Lin Shixun | Xu Jingen | Win | W+R | 6.5 | 2985 | 8 | 
+| 2021-04-01 | 第17期国手戦（台湾） | Wang Yuanjun | Xu Jingen | Lose | B+R | 6.5 | 2977 | -3 | 
+| 2021-03-31 | 第26回LG杯台湾予選 | Chen Shiyuan | Xu Jingen | Win | W+R | 6.5 | 2980 | 0 | 
+| 2021-03-31 | 第26回LG杯台湾予選 | Lin Jiehan | Xu Jingen | Win | W+R | 6.5 | 2980 | 5 | 
+| 2021-03-29 | 第11期友士杯十段戦予選 | Xu Jingen |  | Lose | W+1.5 | 6.5 | 2975 | 0 | 
+| 2021-03-29 | 第11期友士杯十段戦予選 |  | Xu Jingen | Win | W+R | 6.5 | 2975 | -103 | 
+| 2021-03-22 | 第2期名人冠軍戦準決勝第2局 | Xu Jingen | Wang Yuanjun | Lose | W+R | 6.5 | 3078 | -3 | 
+| 2021-03-19 | 第17期国手戦（台湾） | Xu Jingen |  | Win | B+R | 6.5 | 3081 | -8 | 
+| 2021-03-18 | 第2期名人冠軍戦準決勝第1局 | Wang Yuanjun | Xu Jingen | Lose | B+R | 6.5 | 3089 | -1 | 
+| 2021-03-15 | 第2期名人冠軍戦3回戦 | Xu Jingen | Chen Xi | Win | B+R | 6.5 | 3090 | 26 | 
+| 2021-03-11 | 第2期名人冠軍戦2回戦 | Lin Shuyang | Xu Jingen | Win | W+R | 6.5 | 3064 | 11 | 
+| 2021-03-08 | 第2期名人冠軍戦1回戦 | Lai Junfu | Xu Jingen | Win | W+2.5 | 6.5 | 3053 | -5 | 
+| 2021-03-04 | 第2期名人冠軍戦予選 |  | Xu Jingen | Win | W+5.5 | 6.5 | 3058 | 11 | 
+| 2021-02-25 | 第2期名人冠軍戦予選 | Lin Xinwei | Xu Jingen | Lose | B+R | 6.5 | 3047 | -25 | 
+| 2021-02-22 | 第2期名人冠軍戦予選 |  | Xu Jingen | Win | W+R | 6.5 | 3072 | -82 | 
+| 2021-01-21 | 第13回海峰杯プロ囲碁戦3回戦 | Wang Yuanjun | Xu Jingen | Lose | B+R | 6.5 | 3154 | 41 | 
+| 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Xu Jingen |  | Win | B+R | 6.5 | 3113 | 10 | 
+| 2021-01-12 | 第20期天元戦（台湾）予選 | Zhang Zhehao | Xu Jingen | Lose | B+2.5 | 6.5 | 3103 | -14 | 
+| 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 |  | Xu Jingen | Win | W+R | 6.5 | 3117 | -5 | 
+| 2021-01-05 | 第20期天元戦（台湾）予選 |  | Xu Jingen | Win | W+R | 6.5 | 3122 | 6 | 
+| 2020-12-22 | 2020年台湾新鋭隊vs韓国国家隊交流戦第6戦 |  | Xu Jingen | Lose | B+R | 6.5 | 3116 | 0 | 
+| 2020-12-22 | 2020年台湾新鋭隊vs韓国国家隊交流戦第5戦 |  | Xu Jingen | Win | W+R | 6.5 | 3116 | -25 | 
+| 2020-12-15 | 2020年台湾新鋭隊vs韓国国家隊交流戦第2戦 |  | Xu Jingen | Win | W+R | 6.5 | 3141 | 0 | 
+| 2020-12-15 | 2020年台湾新鋭隊vs韓国国家隊交流戦第1戦 | Xu Jingen |  | Win | B+R | 6.5 | 3141 | 11 | 
+| 2020-11-22 | 2020年中国囲碁乙級リーグ | Xu Jingen | Liu Yuhang | Lose | W+R | 7.5 | 3130 | 0 | 
+| 2020-11-21 | 2020年中国囲碁乙級リーグ |  | Xu Jingen | Lose | B+R | 7.5 | 3130 | 0 | 
+| 2020-11-20 | 2020年中国囲碁乙級リーグ |  | Xu Jingen | Lose | B+R | 7.5 | 3130 | -5 | 
+| 2020-11-19 | 2020年中国囲碁乙級リーグ | Xu Jingen | An Dongxu | Lose | W+R | 7.5 | 3135 | 5 | 
+| 2020-11-17 | 2020年中国囲碁乙級リーグ | Xu Jingen | Lin Lixiang | Win | B+R | 7.5 | 3130 | 16 | 
+| 2020-11-16 | 2020年中国囲碁乙級リーグ | Kou Zhengyan | Xu Jingen | Win | W+R | 7.5 | 3114 | 2 | 
+| 2020-11-15 | 2020年中国囲碁乙級リーグ | Xu Jingen | Guo Yuzheng | Lose | W+1¼ | 7.5 | 3112 | -11 | 
+| 2020-11-14 | 2020年中国囲碁乙級リーグ | Seol Hyunjun | Xu Jingen | Win | W+R | 7.5 | 3123 | 21 | 
+| 2020-11-09 | 第13期棋王戦（台湾）リーグ | Xu Jingen | Li Wei | Lose | W+R | 6.5 | 3102 | -5 | 
+| 2020-11-05 | 第13期棋王戦（台湾）リーグ | Xu Jingen | Xiao Zhenghao | Win | B+R | 6.5 | 3107 | 16 | 
+| 2020-11-02 | 第13期棋王戦（台湾）リーグ | Xu Haohong | Xu Jingen | Lose | B+0.5 | 6.5 | 3091 | -7 | 
+| 2020-10-29 | 第13期棋王戦（台湾）リーグ  | Jian Jingting | Xu Jingen | Lose | B+R | 6.5 | 3098 | -13 | 
+| 2020-10-26 | 第13期棋王戦（台湾）リーグ | Xu Jingen | Lin Junyan | Lose | W+R | 6.5 | 3111 | -5 | 
+| 2020-10-22 | 第13期棋王戦（台湾）リーグ | Xu Jingen | Chen Qirui | Lose | W+1.5 | 6.5 | 3116 | 2 | 
+| 2020-10-21 | 第1回UMC聯電杯早碁争覇戦2回戦 | Xu Jingen | Chen Qirui | Lose | W+R | 6.5 | 3114 | -9 | 
+| 2020-10-19 | 第13期棋王戦（台湾）リーグ | Lin Lixiang | Xu Jingen | Lose | B+R | 6.5 | 3123 | 1 | 
+| 2020-10-15 | 第13期棋王戦（台湾）予選 | Xu Jingen | Lu Yiquan | Win | B+R | 6.5 | 3122 | 8 | 
+| 2020-10-14 | 第1回UMC聯電杯早碁争覇戦1回戦 | Xu Jingen | Chen Yida | Win | B+R | 6.5 | 3114 | -7 | 
+| 2020-10-12 | 第13期棋王戦（台湾）予選 | Xu Jingen |  | Win | B+3.5 | 6.5 | 3121 | 7 | 
+| 2020-10-08 | 第13期棋王戦（台湾）予選 |  | Xu Jingen | Win | W+R | 6.5 | 3114 | -9 | 
+| 2020-10-06 | 第16期国手戦（台湾）3回戦 | Xu Jingen | Chen Qirui | Lose | W+R | 6.5 | 3123 | -4 | 
+| 2020-10-05 | 第13期棋王戦（台湾）予選 | Xu Jingen | Li Wei | Lose | W+3.5 | 6.5 | 3127 | -11 | 
+| 2020-09-28 | 第13期棋王戦（台湾）予選 | Chen Xi | Xu Jingen | Win | W+R | 6.5 | 3138 | 63 | 
+| 2020-09-24 | 第13期棋王戦（台湾）予選 | Xu Jingen | Ye Hongyuan | Win | B+R | 6.5 | 3075 | 28 | 
+| 2020-09-20 | 第8期中環碁聖戦3回戦 | Xu Jingen | Xu Yuqi | Lose | W+R | 6.5 | 3047 | -14 | 
+| 2020-09-17 | 第13期棋王戦（台湾）予選 | Xu Jingen |  | Win | B+R | 6.5 | 3061 | 43 | 
+| 2020-09-15 | 第16期国手戦（台湾）1回戦 | Xu Jingen | Su Shengfang | Win | B+R | 6.5 | 3018 | -10 | 
+| 2020-09-14 | 第13期棋王戦（台湾）予選 | Xu Jingen |  | Win | B+R | 6.5 | 3028 | -4 | 
+| 2020-09-13 | 第8期中環碁聖戦2回戦 | Xu Jingen | Lin Shengyi | Win | B+5.5 | 6.5 | 3032 | 32 | 
+| 2020-09-03 | 第13期棋王戦（台湾）予選 | Xu Jingen | Lin Shuyang | Lose | W+R | 6.5 | 3000 | 12 | 
+| 2020-08-31 | 第25回三星火災杯台湾代表選抜戦 | Wang Yuanjun | Xu Jingen | Lose | B+R | 6.5 | 2988 | -23 | 
+| 2020-08-30 | 第25回三星火災杯台湾代表選抜戦 | Jian Jingting | Xu Jingen | Win | W+0.5 | 6.5 | 3011 | 12 | 
+| 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 | Xu Jingen | Huang Shiyuan | Win | B+R | 6.5 | 2999 | 154 | 
+| 2020-07-20 | 第1期名人冠軍戦2回戦 | Xu Jingen | Chen Xi | Lose | W+R | 6.5 | 2845 | -36 | 
+| 2020-07-16 | 第1期名人冠軍戦1回戦 | Yang Zixuan | Xu Jingen | Win | W+R | 6.5 | 2881 | 52 | 
+| 2020-06-11 | 2020新人王戦（台湾）リーグA | Xu Jingen |  | Win | B+R | 7.5 | 2829 | 0 | 
+| 2020-06-11 | 2020新人王戦（台湾）リーグA | Lu Yiquan | Xu Jingen | Lose | B+R | 7.5 | 2829 | -5 | 
+| 2020-06-08 | 2020新人王戦（台湾）リーグA | Xu Jingen | Jian Jingting | Lose | W+R | 7.5 | 2834 | 0 | 
+| 2020-06-08 | 2020新人王戦（台湾）リーグA | Xu Jingen |  | Win | B+R | 7.5 | 2834 | -2 | 
+| 2020-06-04 | 2020新人王戦（台湾）リーグA | Xu Jingen | Chen Qirui | Lose | W+R | 7.5 | 2836 | 0 | 
+| 2020-06-04 | 2020新人王戦（台湾）リーグA |  | Xu Jingen | Win | W+R | 7.5 | 2836 | 4 | 
+| 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Xu Jingen | Lin Shuyang | Lose | W+R | 6.5 | 2832 | -12 | 
+| 2020-05-15 | 第1期聯電杯プロ囲碁戦予選 |  | Xu Jingen | Win | W+R | 6.5 | 2844 | 101 | 
+| 2020-04-17 | 日台交流戦第2戦 | Xu Jingen | Onishi Ryuhei | Lose | W+0.5 | 6.5 | 2743 | 0 | 
+| 2020-04-17 | 日台交流戦第1戦 | Xu Jingen | Yu Zhengqi | Lose | W+R | 6.5 | 2743 | 1 | 
+| 2020-04-16 | 第10期友士杯十段戦敗部2回戦 | Xu Jingen | Chen Shiyuan | Lose | W+R | 6.5 | 2742 | -2 | 
+| 2020-04-13 | 第10期友士杯十段戦敗部1回戦  | Xu Jingen | Hei Jiajia | Win | B+R | 6.5 | 2744 | 18 | 
+| 2020-04-09 | 第10期友士杯十段戦勝部1回戦 | Xu Jingen | Cai Chengwei | Lose | W+R | 6.5 | 2726 | 28 | 
+| 2020-03-19 | 第10期友士杯十段戦予選勝部決勝 | Li Wei | Xu Jingen | Win | W+R | 6.5 | 2698 | 3 | 
+| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Xu Jingen | Chen Xi | Lose | W+R | 7.5 | 2695 | -7 | 
+| 2020-03-16 | 第10期友士杯十段戦予選勝部2回戦 |  | Xu Jingen | Win | W+R | 6.5 | 2702 | 0 | 
+| 2020-03-16 | 第10期友士杯十段戦予選勝部1回戦 | Yu Lijun | Xu Jingen | Win | W+R | 6.5 | 2702 | -6 | 
+| 2020-03-06 | 第7回グロービス杯台湾予選 | Lai Junfu | Xu Jingen | Lose | B+R | 6.5 | 2708 | 0 | 
+| 2020-03-06 | 第7回グロービス杯台湾予選 |  | Xu Jingen | Win | W+R | 6.5 | 2708 | 12 | 
+| 2020-03-01 | 第7回グロービス杯台湾予選 | Xu Jingen |  | Win | B+R | 6.5 | 2696 | 11 | 
+| 2020-02-23 | 第25回LG杯台湾代表選抜戦 | Lin Lixiang | Xu Jingen | Lose | B+R | 6.5 | 2685 | 20 | 
+| 2020-02-21 | 第25回LG杯台湾代表選抜戦 | Chen Xi | Xu Jingen | Win | W+R | 6.5 | 2665 | 11 | 
+| 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 |  | Xu Jingen | Lose | B+R | 6.5 | 2654 | -27 | 
+| 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Lin Shuyang | Xu Jingen | Win | W+R | 6.5 | 2681 | 0 | 
+| 2020-02-19 | 第25回LG杯台湾代表選抜戦 |  | Xu Jingen | Win | W+R | 6.5 | 2681 | -132 | 
+| 2020-02-13 | 第1期名人冠軍戦予選勝部決勝 | Lin Shuyang | Xu Jingen | Win | W+0.5 | 6.5 | 2813 | -95 | 
+| 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Xu Jingen |  | Win | B+R | 6.5 | 2908 | 7 | 
+| 2020-02-04 | 第19期天元戦（台湾）予選 | Xu Jingen | Lu Yiquan | Lose | W+1.5 | 6.5 | 2901 | -31 | 
+| 2020-01-22 | 第17期倡棋杯台湾代表選抜戦 |  | Xu Jingen | Lose | B+R | 7.5 | 2932 | 0 | 
+| 2020-01-22 | 第17期倡棋杯台湾代表選抜戦 | Lu Yiquan | Xu Jingen | Win | W+3 | 7.5 | 2932 | -2 | 
+| 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第6戦 | Xu Jingen | Hsu Chiayuan | Lose | W+R | 6.5 | 2934 | 0 | 
+| 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第5戦 | Seki Kotaro | Xu Jingen | Lose | B+1.5 | 6.5 | 2934 | -23 | 
+| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第2戦 | Fujisawa Rina | Xu Jingen | Win | W+R | 6.5 | 2957 | 44 | 
+| 2020-01-15 | 第9回応氏杯世界選手権台湾代表選抜戦 | Xu Jingen | Lin Lixiang | Lose | W+R | 7.5 | 2913 | 2 | 
+| 2020-01-14 | 第19期天元戦（台湾）予選 | Xu Jingen |  | Win | B+3.5 | 6.5 | 2911 | 11 | 
+| 2020-01-13 | 第19期天元戦（台湾）予選 | Xu Jingen |  | Win | B+R | 6.5 | 2900 | 5 | 
+| 2020-01-11 | 第13回春蘭杯台湾予選 | Xu Haohong | Xu Jingen | Lose | B+R | 7.5 | 2895 | 23 | 
+| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Cai Chengwei | Xu Jingen | Win | W+R | 7.5 | 2872 | 0 | 
+| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Chen Feng | Xu Jingen | Win | W+9 | 7.5 | 2872 | 15 | 
+| 2020-01-02 | 第9回応氏杯世界選手権台湾代表選抜戦 |  | Xu Jingen | Win | W+R | 7.5 | 2857 | 296 | 
+| 2019-12-25 | 第13回春蘭杯台湾予選 | Xu Jingen |  | Win | B+R | 7.5 | 2561 | 16 | 
+| 2019-12-20 | 第13回春蘭杯台湾予選 | Lai Junfu | Xu Jingen | Win | W+2.5 | 7.5 | 2545 | -21 | 
+| 2019-11-13 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第6戦 | Xu Jingen | Park Junghwan | Lose | W+R | 6.5 | 2566 | 1 | 
+| 2019-11-12 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第4戦 | Xu Jingen | Weon Seongjin | Win | B+R | 6.5 | 2565 | 20 | 
+| 2019-11-11 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第1戦 |  | Xu Jingen | Lose | B+R | 6.5 | 2545 | -8 | 
+| 2019-11-08 | 2019新人王戦（台湾）リーグB | Yang Zixuan | Xu Jingen | Win | W+R | 7.5 | 2553 | 21 | 
+| 2019-11-06 | 2019新人王戦（台湾）リーグB | Huang Shiyuan | Xu Jingen | Win | W+R | 7.5 | 2532 | 0 | 
+| 2019-11-06 | 2019新人王戦（台湾）リーグB | Xu Jingen | Lin Shixun | Lose | W+R | 7.5 | 2532 | 18 | 
+| 2019-10-25 | 2019新人王戦（台湾）リーグB | Xu Jingen | Lin Shimin | Win | B+R | 7.5 | 2514 | 0 | 
+| 2019-10-25 | 2019新人王戦（台湾）リーグB | Xu Jingen |  | Win | B+R | 7.5 | 2514 | 40 | 
+| 2019-10-23 | 2019新人王戦（台湾）リーグB | Lai Junfu | Xu Jingen | Lose | B+T | 7.5 | 2474 | 0 | 
+| 2019-10-23 | 2019新人王戦（台湾）リーグB | Chen Qirui | Xu Jingen | Lose | B+R | 7.5 | 2474 | 18 | 
+| 2019-10-09 | 2019新人王戦（台湾）予選勝部決勝 | Xu Jingen | Lin Shimin | Win | B+2¾ | 7.5 | 2456 | 0 | 
+| 2019-10-09 | 2019新人王戦（台湾）予選勝部1回戦 | Xu Jingen | Cai Chengwei | Win | B+2¾ | 7.5 | 2456 | 26 | 
+| 2019-09-26 | 第12期棋王戦（台湾）予選敗部2回戦 | Lu Yiquan | Xu Jingen | Lose | B+R | 6.5 | 2430 | -6 | 
+| 2019-09-23 | 第12期棋王戦（台湾）予選勝部2回戦 | Chen Xi | Xu Jingen | Lose | B+R | 6.5 | 2436 | 5 | 
+| 2019-09-22 | 第7期中環碁聖戦3回戦 | Yang Bowei | Xu Jingen | Lose | B+R | 6.5 | 2431 | 21 | 
+| 2019-09-19 | 第12期棋王戦（台湾）予選勝部1回戦 | Xu Jingen | Chen Yida | Win | B+1.5 | 6.5 | 2410 | -12 | 
+| 2019-09-15 | 第7期中環碁聖戦2回戦 | Su Shengfang | Xu Jingen | Win | W+R | 6.5 | 2422 | 16 | 
+| 2019-09-08 | 第7期中環碁聖戦1回戦 | Xu Jingen |  | Win | B+5.5 | 6.5 | 2406 | 36 | 
+| 2019-09-05 | 第12期棋王戦（台湾）資格戦勝部決勝 | Yang Bowei | Xu Jingen | Lose | B+R | 6.5 | 2370 | -1 | 
+| 2019-09-03 | 第15期国手戦（台湾）1回戦 | Lin Jiehan | Xu Jingen | Lose | B+R | 6.5 | 2371 | -13 | 
+| 2019-09-02 | 第12期棋王戦（台湾）資格戦勝部1回戦 | Yang Mengyun | Xu Jingen | Win | W+8.5 | 6.5 | 2384 | -81 | 
+| 2019-06-22 | 2019年中国囲碁丙級リーグ | Xu Jingen |  | Lose | W+R | 7.5 | 2465 | -11 | 
+| 2019-06-21 | 2019年中国囲碁丙級リーグ |  | Xu Jingen | Win | W+R | 7.5 | 2476 | 1 | 
+| 2019-06-19 | 2019年中国囲碁丙級リーグ | Xu Jingen | Cui Chao | Lose | W+R | 7.5 | 2475 | -3 | 
+| 2019-06-18 | 2019年中国囲碁丙級リーグ | Xu Jingen |  | Lose | W+R | 7.5 | 2478 | -2 | 
+| 2019-06-16 | 2019年中国囲碁丙級リーグ | Mateusz Surma | Xu Jingen | Win | W+R | 7.5 | 2480 | -5 | 
+| 2019-06-15 | 2019年中国囲碁丙級リーグ | Xu Jingen |  | Win | B+R | 7.5 | 2485 | -3 | 
+| 2019-06-14 | 2019年中国囲碁丙級リーグ |  | Xu Jingen | Win | W+1.5 | 7.5 | 2488 | 24 | 
+| 2019-05-06 | 第9期友士杯十段戦敗部1回戦 |  | Xu Jingen | Lose | B+R | 6.5 | 2464 | -24 | 
+| 2019-05-02 | 第9期友士杯十段戦勝部1回戦 | Xiao Zhenghao | Xu Jingen | Lose | B+R | 6.5 | 2488 | -54 | 
+| 2019-04-11 | 第9期友士杯十段戦予選敗部決勝 | Li Wei | Xu Jingen | Win | W+1.5 | 6.5 | 2542 | 0 | 
+| 2019-04-11 | 第9期友士杯十段戦予選敗部準決勝 | Zhou Yinnan | Xu Jingen | Win | W+R | 6.5 | 2542 | 89 | 
+| 2019-04-10 | 第9期友士杯十段戦予選敗部3回戦 | Gao Yun | Xu Jingen | Win | W+8.5 | 6.5 | 2453 | 35 | 
+| 2019-04-08 | 第9期友士杯十段戦予選敗部1回戦 | Xu Jingen | Yang Mengyun | Win | B+R | 6.5 | 2418 | 0 | 
+| 2019-04-08 | 第9期友士杯十段戦予選勝部1回戦 | Xu Jingen | Zhou Yinnan | Lose | W+R | 6.5 | 2418 | -2 | 
+| 2019-04-05 | 第24回LG杯統合予選4回戦 | Lee Juhyung | Xu Jingen | Win | W+R | 6.5 | 2420 | 38 | 
+| 2019-03-05 | 第7回河燦錫国手杯韓中日台英才戦台湾代表選抜戦 | Xu Jingen | Lu Yiquan | Lose | W+R | 6.5 | 2382 | -23 | 
+| 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 | Lin Shixun | Xu Jingen | Lose | B+R | 6.5 | 2405 | -33 | 
+| 2019-02-26 | 2019年囲棋道場vs立命館大学囲碁部交流戦 |  | Xu Jingen | Win | W+R | 6.5 | 2438 | 68 | 
+| 2019-02-25 | 第6回グロービス杯台湾予選 |  | Xu Jingen | Win | W+R | 6.5 | 2370 | 0 | 
+| 2019-02-25 | 第6回グロービス杯台湾予選 | Huang Shiyuan | Xu Jingen | Lose | B+1.5 | 6.5 | 2370 | -13 | 
+| 2019-01-21 | 2019台湾精鋭vs日本精鋭交流戦第5戦 | Xu Jingen |  | Win | B+R | 6.5 | 2383 | 39 | 
+| 2019-01-19 | 2019台湾精鋭vs日本精鋭交流戦第3戦 |  | Xu Jingen | Lose | B+R | 6.5 | 2344 | -13 | 
+| 2019-01-18 | 2019台湾精鋭vs日本精鋭交流戦第1戦 |  | Xu Jingen | Lose | B+R | 6.5 | 2357 | -55 | 
+| 2019-01-08 | 第18期天元戦（台湾）予選1回戦 | Xu Jingen |  | Lose | W+R | 6.5 | 2412 | -131 | 
+| 2018-11-14 | 2018年台湾精鋭vs韓国交流戦第6戦 | Xu Jingen |  | Win | B+R | 6.5 | 2543 | 177 | 
+| 2018-11-12 | 2018年台湾精鋭vs韓国交流戦第2戦 | Xu Jingen |  | Lose | W+R | 6.5 | 2366 | 0 | 
+| 2018-11-12 | 2018年台湾精鋭vs韓国交流戦第1戦 | Xu Jingen |  | Win | B+R | 6.5 | 2366 | 2366 | 
+| 2018-03-07 | 囲棋道場vs立命館大学囲碁部交流戦 | Xu Jingen |  | Lose | W+R | 6.5 | missing | missing |
 
 
 

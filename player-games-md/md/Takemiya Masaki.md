@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-07-01 | 第70期王座戦予選 |  | Takemiya Masaki | Win | W+0.5 | 6.5 | 2399 | -33 | 
+| 2021-08-05 | 第70期王座戦予選 |  | Takemiya Masaki | Win | W+2.5 | 6.5 | 2650 | 218 | 
 | 2021-07-01 | 第70期王座戦予選 |  | Takemiya Masaki | Win | W+0.5 | 6.5 | 2432 | 24 | 
 | 2021-06-24 | 第47期名人戦予選 | Takemiya Masaki | Sakai Takeshi | Win | B+17.5 | 6.5 | 2408 | 99 | 
 | 2021-05-27 | 第70期王座戦予選 | Takemiya Masaki | Kibe Natsuki | Win | B+R | 6.5 | 2309 | 20 | 

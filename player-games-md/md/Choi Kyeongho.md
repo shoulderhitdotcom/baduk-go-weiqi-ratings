@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-05 | 第2期利鵬杯新鋭最高位戦8強戦 | Kim Sangcheon | Choi Kyeongho | Lose | B+R | 6.5 | 2917 | -38 | 
 | 2021-07-09 | 第2期利鵬杯新鋭最高位戦 | Choi Kyeongho |  | Win | B+R | 6.5 | 2955 | -97 | 
 | 2021-05-23 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Choi Kyeongho | Han Seungjoo | Lose | W+R | 6.5 | 3052 | -59 | 
 | 2021-04-28 | 第26回LG杯韓国予選 | Choi Jeong | Choi Kyeongho | Lose | B+R | 6.5 | 3111 | -57 | 
@@ -25,7 +26,7 @@
 | 2020-11-26 | 2020-2021韓国囲碁リーグ | Choi Kyeongho | Kang Seungmin | Win | B+R | 6.5 | 3498 | 174 | 
 | 2020-11-04 | 第2回大統領杯全国囲碁大会予選 |  | Choi Kyeongho | Win | W+6.5 | 6.5 | 3324 | 87 | 
 | 2020-09-02 | 第25回三星火災杯韓国一般枠予選 | Choi Kyeongho | Han Seungjoo | Lose | W+R | 6.5 | 3237 | 167 | 
-| 2020-06-14 | 第5期未来の星新鋭最強戦決勝 | Choi Kyeongho |  | Lose | W+R | 6.5 | 3070 | -17 | 
+| 2020-06-14 | 第5期未来の星新鋭最強戦決勝 | Choi Kyeongho | Kim Changhoon | Lose | W+R | 6.5 | 3070 | -17 | 
 | 2020-06-09 | 第5期未来の星新鋭最強戦準決勝 | Choi Kyeongho |  | Win | B+R | 6.5 | 3087 | 34 | 
 | 2020-05-27 | 第5期未来の星新鋭最強戦8強戦 | Choi Kyeongho |  | Win | B+R | 6.5 | 3053 | 4 | 
 | 2020-05-20 | 第5期未来の星新鋭最強戦16強戦 |  | Choi Kyeongho | Win | W+R | 6.5 | 3049 | 55 | 

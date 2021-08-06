@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-06 | 第46期名人戦リーグ  | Yamashita Keigo | Ichiriki Ryo | Win | W+R | 6.5 | 3530 | 3530 | 
+| 2021-07-26 | 第46期棋聖戦Sリーグ  | Yu Zhengqi | Ichiriki Ryo | Win | W+R | 6.5 | missing | -3497 | 
 | 2021-07-17 | 第46期碁聖戦挑戦手合五番勝負第3局  | Iyama Yuta | Ichiriki Ryo | Win | W+R | 6.5 | 3497 | -17 | 
 | 2021-07-12 | 第46期碁聖戦挑戦手合五番勝負第2局  | Ichiriki Ryo | Iyama Yuta | Win | B+0.5 | 6.5 | 3514 | 8 | 
 | 2021-07-08 | 第69期王座戦2回戦 | Takao Shinji | Ichiriki Ryo | Win | W+R | 6.5 | 3506 | 10 | 

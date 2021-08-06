@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-06 | 第46期名人戦リーグ  | Kono Rin | Hsu Chiayuan | Lose | W+0.5 | 6.5 | 3089 | -7 | 
 | 2021-07-15 | 第46期棋聖戦Sリーグ | Kono Rin | Takao Shinji | Lose | W+R | 6.5 | 3096 | 10 | 
 | 2021-07-15 | 第46期棋聖戦Sリーグ | Kono Rin | Takao Shinji | Lose | W+R | 6.5 | 3086 | -20 | 
 | 2021-07-01 | 第46期名人戦リーグ  | Ichiriki Ryo | Kono Rin | Lose | B+0.5 | 6.5 | 3106 | -44 | 

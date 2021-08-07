@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-07 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Donghoon | Shin Minjun | Lose | B+R | 6.5 | 3505 | 21 | 
 | 2021-07-25 | 第23回農心杯韓国予選 | Weon Seongjin | Shin Minjun | Win | W+R | 6.5 | 3484 | 6 | 
 | 2021-07-21 | 第23回農心杯韓国予選 | Shin Minjun | Han Wonggyu | Win | B+R | 6.5 | 3478 | 17 | 
 | 2021-07-17 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Hong Mujin | Shin Minjun | Win | W+R | 6.5 | 3461 | -26 | 

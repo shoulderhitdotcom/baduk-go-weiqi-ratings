@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Byun Sangil vs Shin Jinseo** | **Byun Sangil streak** | **Shin Jinseo streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-08-06 | 第44期名人戦（韓国）決勝三番勝負第2局 | Byun Sangil | Shin Jinseo | W+R | 6.5 | 0:1 | 0 | 1 | 
+| 2021-08-07 | 第44期名人戦（韓国）決勝三番勝負第3局 | Shin Jinseo | Byun Sangil | B+R | 6.5 | 0:1 | 0 | 1 | 
+| 2021-08-06 | 第44期名人戦（韓国）決勝三番勝負第2局 | Byun Sangil | Shin Jinseo | W+R | 6.5 | 6:17 | 0 | 1 | 
 | 2021-08-05 | 第44期名人戦（韓国）決勝三番勝負第1局 | Shin Jinseo | Byun Sangil | W+R | 6.5 | 6:16 | 1 | 0 | 
 | 2021-08-02 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第5局 | Shin Jinseo | Byun Sangil | B+R | 6.5 | 5:16 | 0 | 1 | 
 | 2021-07-30 | 第26回GSカルテックス杯プロ棋戦決勝五番勝負第4局 | Byun Sangil | Shin Jinseo | B+R | 6.5 | 5:15 | 1 | 0 | 

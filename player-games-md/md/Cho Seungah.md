@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-08 | 第7回韓国女子囲碁リーグ | Cho Seungah |  | Win | B+R | 6.5 | 3114 | 9 | 
 | 2021-07-29 | 第7回韓国女子囲碁リーグ |  | Cho Seungah | Win | W+R | 6.5 | 3105 | 29 | 
 | 2021-07-23 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Cho Seungah | Win | W+R | 6.5 | 3076 | 3076 | 
 | 2021-07-21 | 第1回IBK企業銀行杯女子囲碁マスターズ2回戦 | Cho Hyeyeon | Cho Seungah | Win | W+3.5 | 6.5 | missing | 0 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-09 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Yuki Satoshi | Motoki Katsuya | Lose | W+R | 6.5 | 3074 | 12 | 
+| 2021-08-05 | 第46期棋聖戦Cリーグ | Otake Yu | Yuki Satoshi | Win | W+0.5 | 6.5 | 3062 | 6 | 
 | 2021-08-02 | 第69期王座戦2回戦 | Yuki Satoshi | Iyama Yuta | Lose | W+R | 6.5 | 3056 | 1 | 
 | 2021-07-21 | 第47期名人戦予選 | Yuki Satoshi | Kunisawa Hiroto | Win | B+1.5 | 6.5 | 3055 | 21 | 
 | 2021-07-12 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Yuki Satoshi | Shibano Toramaru | Win | B+R | 6.5 | 3034 | 85 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-09 | 第46期新人王戦準決勝 | Nishi Takenobu | Ueno Asami | Lose | W+4.5 | 6.5 | 2831 | -17 | 
 | 2021-08-04 | 第47期碁聖戦予選 | Nishi Takenobu | Nishiyama Shizuka | Win | B+R | 6.5 | 2848 | -5 | 
 | 2021-05-13 | 第60期十段戦予選 | Yuki Satoshi | Nishi Takenobu | Lose | B+2.5 | 6.5 | 2853 | -49 | 
 | 2021-04-26 | 第46期新人王戦3回戦 |  | Nishi Takenobu | Win | W+R | 6.5 | 2902 | 36 | 

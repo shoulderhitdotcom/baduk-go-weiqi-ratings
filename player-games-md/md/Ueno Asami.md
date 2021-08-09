@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-09 | 第46期新人王戦準決勝 | Nishi Takenobu | Ueno Asami | Win | W+4.5 | 6.5 | 3037 | 33 | 
+| 2021-07-29 | 第6回扇興杯女流最強戦2回戦 | Ueno Asami | Yashiro Kumiko | Win | B+R | 6.5 | 3004 | 0 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Ueno Asami | Yu Zhiying | Lose | W+R | 7.5 | 3004 | -6 | 
 | 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 |  | Ueno Asami | Win | W+¼ | 7.5 | 3010 | -4 | 
 | 2021-07-15 | 第47期名人戦予選 | Ueno Asami | O Meien | Win | B+5.5 | 6.5 | 3014 | 12 | 
@@ -90,7 +92,7 @@
 | 2019-10-30 | 第10回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Ueno Asami | Zhou Hongyu | Lose | W+R | 7.5 | 2628 | 3 | 
 | 2019-10-27 | 第38期女流本因坊戦挑戦手合五番勝負第2局  | Fujisawa Rina | Ueno Asami | Win | W+R | 6.5 | 2625 | 24 | 
 | 2019-10-24 | 第76期本因坊戦予選 | Yamamoto Masato | Ueno Asami | Win | W+R | 6.5 | 2601 | 8 | 
-| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Ueno Asami |  | Win | B+R | 6.5 | 2593 | 0 | 
+| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Ueno Asami | Yang Zixuan | Win | B+R | 6.5 | 2593 | 0 | 
 | 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦第3戦 | Ueno Asami | Oh Yujin | Lose | W+R | 6.5 | 2593 | 16 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Lijun | Ueno Asami | Win | W+R | 6.5 | 2577 | 0 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第1戦 | Ueno Asami | Zhou Hongyu | Lose | W+R | 6.5 | 2577 | 10 | 
@@ -115,7 +117,7 @@
 | 2019-05-14 | 第10回おかげ杯囲碁トーナメント戦1回戦 | Yu Zhengqi | Ueno Asami | Win | W+R | 6.5 | 2550 | 20 | 
 | 2019-05-12 | 第8回天台山体彩杯世界女子囲碁団体戦第3戦 | Ueno Asami | Kim Cheayoung | Lose | W+R | 7.5 | 2530 | -31 | 
 | 2019-05-11 | 第8回天台山体彩杯世界女子囲碁団体戦第2戦 | Lu Minquan | Ueno Asami | Lose | B+R | 7.5 | 2561 | -6 | 
-| 2019-05-10 | 第8回天台山体彩杯世界女子囲碁団体戦第1戦 | Ueno Asami |  | Lose | W+R | 7.5 | 2567 | -20 | 
+| 2019-05-10 | 第8回天台山体彩杯世界女子囲碁団体戦第1戦 | Ueno Asami | Yang Zixuan | Lose | W+R | 7.5 | 2567 | -20 | 
 | 2019-05-06 | 関西合宿　日本棋院vs関西棋院 | Kan Minu | Ueno Asami | Win | W+R | 6.5 | 2587 | 10 | 
 | 2019-04-29 | 第2回呉清源杯世界女流囲碁選手権8強戦 | Ueno Asami | Rui Naiwei | Lose | W+R | 7.5 | 2577 | -11 | 
 | 2019-04-28 | 第2回呉清源杯世界女子囲碁選手権16強戦 | Lu Minquan | Ueno Asami | Win | W+R | 7.5 | 2588 | -60 | 
@@ -182,11 +184,11 @@
 | 2017-01-20 | 台湾精鋭日本精鋭交流戦4回戦 | Huang Shiyuan | Ueno Asami | Lose | B+4.5 | 6.5 | 2287 | 0 | 
 | 2017-01-20 | 台湾精鋭日本精鋭交流戦3回戦 | Ueno Asami |  | Win | B+0.5 | 6.5 | 2287 | 151 | 
 | 2017-01-19 | 台湾精鋭日本精鋭交流戦1回戦 | Ueno Asami |  | Win | B+R | 6.5 | 2136 | 0 | 
-| 2017-01-19 | 台湾精鋭日本精鋭交流戦2回戦 | Ueno Asami |  | Win | B+R | 6.5 | 2136 | 215 | 
+| 2017-01-19 | 台湾精鋭日本精鋭交流戦2回戦 | Ueno Asami | Yang Zixuan | Win | B+R | 6.5 | 2136 | 215 | 
 | 2017-01-12 | 第36期女流本因坊戦予選1回戦 | Inori Yoko | Ueno Asami | Win | W+3.5 | 6.5 | 1921 | -199 | 
 | 2016-10-06 | 第20期ドコモ杯女流棋聖戦1回戦 | Wang Jingyi | Ueno Asami | Lose | B+R | 6.5 | 2120 | -188 | 
 | 2016-09-25 | 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Ueno Asami | Song Ronghui | Win | B+R | 6.5 | 2308 | 2308 | 
-| 2016-09-24 | 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Ueno Asami |  | Lose | W+R | 6.5 | missing | 0 | 
+| 2016-09-24 | 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Ueno Asami | Yang Zixuan | Lose | W+R | 6.5 | missing | 0 | 
 | 2016-09-23 | 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Kim Cheayoung | Ueno Asami | Lose | B+R | 6.5 | missing | 0 | 
 | 2016-08-09 | 第3回ゆうちょ杯囲碁ユース選手権1回戦 | Ueno Asami | Yu Zhengqi | Lose | W+0.5 | 6.5 | missing | 0 | 
 | 2016-01-08 | 第2回イベロジャパン杯1回戦 | Ueno Asami | Chang Rueijie | Lose | W+R | 6.5 | missing | missing |

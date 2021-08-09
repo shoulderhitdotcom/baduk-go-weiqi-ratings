@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-09 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Yamashita Keigo | Murakawa Daisuke | Win | W+R | 6.5 | 3239 | 55 | 
+| 2021-07-15 | 第48期天元戦予選 | Murakawa Daisuke | Hoshikawa Koyo | Win | B+R | 6.5 | 3184 | -1 | 
+| 2021-07-15 | 第48期天元戦予選 | Murakawa Daisuke | Hoshikawa Koyo | Win | B+R | 6.5 | 3185 | -5 | 
 | 2021-06-30 | 第47期名人戦予選 | Murakawa Daisuke | Yokota Shigeaki | Win | B+1.5 | 6.5 | 3190 | 23 | 
 | 2021-06-24 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Murakawa Daisuke | Rin Kanketsu | Win | B+R | 6.5 | 3167 | 4 | 
 | 2021-06-17 | 第46期棋聖戦Sリーグ  | Murakawa Daisuke | Ichiriki Ryo | Lose | W+R | 6.5 | 3163 | 25 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-09 | 第47期名人戦予選 | Kobayashi Satoru | Mizokami Tomochika | Win | W+R | 6.5 | 3178 | -13 | 
 | 2021-07-08 | 第46期棋聖戦Cリーグ | Ishida Yoshio | Mizokami Tomochika | Win | W+12.5 | 6.5 | 3191 | 5 | 
 | 2021-05-27 | 第46期棋聖戦Cリーグ | Nakamura Sumire | Mizokami Tomochika | Win | W+R | 6.5 | 3186 | -10 | 
 | 2021-04-19 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Mizokami Tomochika | Yamashita Keigo | Lose | W+R | 6.5 | 3196 | -81 | 

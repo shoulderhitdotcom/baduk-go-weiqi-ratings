@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-10 | 第2期聯電杯プロ囲碁戦敗部2回戦 | Li Wei | Xu Yuqi | Win | B+R | 6.5 | 3042 | 56 | 
+| 2021-08-08 | 第2期聯電杯プロ囲碁戦敗部1回戦 | Cai Chengwei | Li Wei | Win | W+R | 6.5 | 2986 | 3 | 
 | 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Li Wei | Jian Jingting | Lose | W+R | 6.5 | 2983 | -31 | 
 | 2021-05-13 | 第11期友士杯十段戦敗部3回戦 | Li Wei | Wang Yuanjun | Lose | W+R | 6.5 | 3014 | 2 | 
 | 2021-05-10 | 第11期友士杯十段戦勝部準決勝 | Li Wei | Lin Junyan | Lose | W+R | 6.5 | 3012 | -8 | 

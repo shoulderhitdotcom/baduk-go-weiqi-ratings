@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-10 | 第2期聯電杯プロ囲碁戦敗部2回戦 | Lin Shixun | Xu Jingen | Lose | W+R | 6.5 | 2923 | 26 | 
+| 2021-08-08 | 第2期聯電杯プロ囲碁戦勝部2回戦 | Lu Yiquan | Lin Shixun | Lose | B+0.5 | 6.5 | 2897 | 2 | 
 | 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Yu Lijun | Lin Shixun | Win | W+5.5 | 6.5 | 2895 | 6 | 
 | 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Zhou Pingqiang | Lin Shixun | Win | W+R | 6.5 | 2889 | 38 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Lin Shixun |  | Win | B+R | 6.5 | 2851 | -9 | 

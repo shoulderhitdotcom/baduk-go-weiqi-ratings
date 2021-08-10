@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-10 | 第2期聯電杯プロ囲碁戦敗部2回戦 |  | Lin Junyan | Win | W+R | 6.5 | 3302 | 48 | 
+| 2021-08-08 | 第2期聯電杯プロ囲碁戦敗部1回戦 | Yu Lijun | Lin Junyan | Win | W+R | 6.5 | 3254 | 3 | 
 | 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Lin Junyan | Lu Yiquan | Lose | W+R | 6.5 | 3251 | -16 | 
 | 2021-08-04 | 第11期友士杯十段戦挑戦手合五番勝負第3局  | Xu Haohong | Lin Junyan | Lose | B+0.5 | 6.5 | 3267 | -4 | 
 | 2021-08-02 | 第11期友士杯十段戦挑戦手合五番勝負第2局  | Lin Junyan | Xu Haohong | Lose | W+R | 6.5 | 3271 | -3 | 

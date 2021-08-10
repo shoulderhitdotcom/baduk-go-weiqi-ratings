@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-10 | 第26期女流国手戦1回戦 |  | Oh Yujin | Win | W+R | 6.5 | 3077 | 39 | 
 | 2021-08-06 | 第7回韓国女子囲碁リーグ | Oh Yujin | Kim Hyeoimin | Win | B+R | 6.5 | 3038 | -4 | 
 | 2021-07-31 | 第7回韓国女子囲碁リーグ |  | Oh Yujin | Win | W+8.5 | 6.5 | 3042 | 3042 | 
 | 2021-07-26 | 2021陜川歴代英才vs女子頂上連勝対抗戦第7局 | Moon Minjong | Oh Yujin | Lose | B+R | 6.5 | missing | -3027 | 

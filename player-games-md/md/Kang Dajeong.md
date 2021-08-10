@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-10 | 第15回GGオークション杯女流対シニア連勝対抗戦第6局 | Kang Dajeong | Seo Musang | Lose | W+R | 6.5 | 2819 | 50 | 
 | 2021-08-07 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Cho Hyeyeon | Lose | W+R | 6.5 | 2769 | 1 | 
 | 2021-08-07 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Cho Hyeyeon | Lose | W+R | 6.5 | 2768 | -43 | 
 | 2021-08-06 | 2021女子最高棋士決定戦（韓国）予選 |  | Kang Dajeong | Lose | B+R | 6.5 | 2811 | 2 | 

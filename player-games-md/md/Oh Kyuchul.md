@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-10 | 2021韓国シニア囲碁リーグ | Oh Kyuchul | Kang Hun | Win | B+R | 6.5 | 2571 | 35 | 
 | 2021-08-03 | 2021韓国シニア囲碁リーグ | Paek Seongho | Oh Kyuchul | Lose | B+4.5 | 6.5 | 2536 | 87 | 
 | 2020-10-26 | 2020NHシニア囲碁リーグ第14節第2試合第3局 | Kim Kihun | Oh Kyuchul | Lose | B+R | 6.5 | 2449 | -20 | 
 | 2020-10-20 | 2020NHシニア囲碁リーグ第13節第2試合第2局 | Oh Kyuchul | Park Seungmun | Win | B+25.5 | 6.5 | 2469 | -15 | 

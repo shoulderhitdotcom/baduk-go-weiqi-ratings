@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-10 | 第26期女流国手戦1回戦 |  | Cho Seungah | Win | W+R | 6.5 | 3158 | 44 | 
 | 2021-08-08 | 第7回韓国女子囲碁リーグ | Cho Seungah |  | Win | B+R | 6.5 | 3114 | 9 | 
 | 2021-07-29 | 第7回韓国女子囲碁リーグ |  | Cho Seungah | Win | W+R | 6.5 | 3105 | 29 | 
 | 2021-07-23 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Cho Seungah | Win | W+R | 6.5 | 3076 | 3076 | 

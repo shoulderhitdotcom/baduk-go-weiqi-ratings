@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-10 | 第2期聯電杯プロ囲碁戦勝部3回戦 | Lu Yiquan | Xu Haohong | Lose | W+R | 6.5 | 3047 | 49 | 
+| 2021-08-08 | 第2期聯電杯プロ囲碁戦勝部2回戦 | Lu Yiquan | Lin Shixun | Win | B+0.5 | 6.5 | 2998 | 3 | 
 | 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Lin Junyan | Lu Yiquan | Win | W+R | 6.5 | 2995 | 1 | 
 | 2021-05-13 | 第11期友士杯十段戦敗部3回戦 | Lu Yiquan | Chen Qirui | Lose | W+R | 6.5 | 2994 | 2 | 
 | 2021-05-10 | 第11期友士杯十段戦敗部2回戦 |  | Lu Yiquan | Win | W+0.5 | 6.5 | 2992 | -2 | 

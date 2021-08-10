@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-10 | 第2期聯電杯プロ囲碁戦敗部2回戦 | Lin Shixun | Xu Jingen | Win | W+R | 6.5 | 3014 | 57 | 
+| 2021-08-08 | 第2期聯電杯プロ囲碁戦敗部1回戦 | Lin Shuyang | Xu Jingen | Win | W+0.5 | 6.5 | 2957 | 3 | 
 | 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Xu Jingen | Xu Haohong | Lose | W+R | 6.5 | 2954 | 0 | 
 | 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Xu Jingen | Zhou Yinnan | Win | B+R | 6.5 | 2954 | 10 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Xu Jingen | Dai Jiashen | Win | B+R | 6.5 | 2944 | 4 | 

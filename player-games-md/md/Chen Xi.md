@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-10 | 第2期聯電杯プロ囲碁戦敗部2回戦 | Chen Xi | Lin Lixiang | Lose | W+R | 6.5 | 2960 | 29 | 
+| 2021-08-08 | 第2期聯電杯プロ囲碁戦勝部2回戦 | Jian Jingting | Chen Xi | Lose | B+R | 6.5 | 2931 | 3 | 
 | 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Chen Xi | Cai Chengwei | Win | B+R | 6.5 | 2928 | 18 | 
 | 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Lin Shengyi | Chen Xi | Win | W+R | 6.5 | 2910 | -13 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 |  | Chen Xi | Win | W+R | 6.5 | 2923 | 8 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-10 | 第26期女流国手戦1回戦 |  | Kim Cheayoung | Win | W+R | 6.5 | 2958 | 42 | 
 | 2021-08-07 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Cheayoung | Lose | B+R | 6.5 | 2916 | -18 | 
 | 2021-07-30 | 第7回韓国女子囲碁リーグ | Kim Hyeoimin | Kim Cheayoung | Lose | B+R | 6.5 | 2934 | -6 | 
 | 2021-07-23 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Cho Seungah | Lose | W+R | 6.5 | 2940 | -1 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-11 | 第26期女流国手戦1回戦 | Lee Youngjoo |  | Lose | W+R | 6.5 | 2812 | -25 | 
 | 2021-08-06 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Park Taehee | Win | B+R | 6.5 | 2837 | -10 | 
 | 2021-07-30 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Cho Hyeyeon | Lose | W+1.5 | 6.5 | 2847 | -26 | 
 | 2021-07-24 | 第7回韓国女子囲碁リーグ | Lee Youngjoo |  | Lose | W+0.5 | 6.5 | 2873 | -34 | 

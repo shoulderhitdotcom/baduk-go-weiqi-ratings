@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-13 | 第26回三星火災杯中国予選 | Li Xuanhao | Tao Xinran | Lose | B+R | 6.5 | 3547 | 11 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Tao Xinran | Yang Dingxin | Lose | W+R | 7.5 | 3536 | -19 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Tao Xinran | Ding Hao | Lose | W+R | 7.5 | 3555 | -5 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tao Xinran | Win | W+R | 7.5 | 3560 | 22 | 

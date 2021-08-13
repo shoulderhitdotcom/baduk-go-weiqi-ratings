@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-13 | 第26回三星火災杯中国予選 | Fan Tingyu | Tan Xiao | Win | B+R | 6.5 | 3521 | 6 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Fan Tingyu | Peng Liyao | Lose | W+R | 7.5 | 3515 | 5 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Chen Yaoye | Fan Tingyu | Win | W+R | 7.5 | 3510 | 8 | 
 | 2021-07-28 | 第23回農心杯中国予選 | Xu Jiayang | Fan Tingyu | Win | W+R | 6.5 | 3502 | -6 | 

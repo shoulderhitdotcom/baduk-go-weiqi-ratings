@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-13 | 第26回三星火災杯中国予選 | Lian Xiao | Wu Guangya | Win | B+R | 6.5 | 3517 | 5 | 
 | 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Lian Xiao | Tan Xiao | Lose | W+R | 7.5 | 3512 | -21 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Lian Xiao | Tan Xiao | Lose | W+R | 7.5 | 3533 | -10 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Lian Xiao | Lose | B+R | 7.5 | 3543 | -1 | 

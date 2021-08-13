@@ -7,13 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-13 | 第26回三星火災杯中国予選 | Huang Yunsong | Tu Xiaoyu | Lose | B+R | 6.5 | 3427 | -13 | 
 | 2021-06-16 | 第25期馬橋杯中国囲碁新人王戦決勝三番勝負第3局 | Tu Xiaoyu | Wang Xinghao | Win | B+R | 7.5 | 3440 | 19 | 
 | 2021-06-15 | 第25期馬橋杯中国囲碁新人王戦決勝三番勝負第2局 | Wang Xinghao | Tu Xiaoyu | Win | W+R | 7.5 | 3421 | -1 | 
-| 2021-06-14 | 第25期馬橋杯中国囲碁新人王戦決勝三番勝負第1局 | Tu Xiaoyu | Wang Xinghao | Lose | W+R | 7.5 | 3422 | -7 | 
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Tu Xiaoyu | Win | W+R | 7.5 | 3429 | 1 | 
+| 2021-06-14 | 第25期馬橋杯中国囲碁新人王戦決勝三番勝負第1局 | Tu Xiaoyu | Wang Xinghao | Lose | W+R | 7.5 | 3422 | -6 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Tu Xiaoyu | Win | W+R | 7.5 | 3428 | 20 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Tan Xiao | Lose | W+R | 7.5 | 3408 | 5 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Ding Shixiong | Lose | W+R | 7.5 | 3403 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Ding Shixiong | Lose | W+R | 7.5 | 3403 | -23 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Chen Hao | Tu Xiaoyu | Win | W+R | 7.5 | 3426 | 8 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Meng Tailing | Win | B+R | 7.5 | 3418 | 16 | 
@@ -22,13 +21,10 @@
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20準々決勝 | Otake Yu | Tu Xiaoyu | Win | W+1.5 | 6.5 | 3402 | 7 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Lai Junfu | Tu Xiaoyu | Win | W+1.5 | 6.5 | 3395 | 0 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  | Hirose Yuichi | Tu Xiaoyu | Win | W+R | 6.5 | 3395 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Hirose Yuichi | Tu Xiaoyu | Win | W+R | 6.5 | 3395 | -358 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Lai Junfu | Tu Xiaoyu | Win | W+1.5 | 6.5 | 3753 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  | Hirose Yuichi | Tu Xiaoyu | Win | W+R | 6.5 | 3753 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Hirose Yuichi | Tu Xiaoyu | Win | W+R | 6.5 | 3753 | 364 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Hirose Yuichi | Tu Xiaoyu | Win | W+R | 6.5 | 3395 | 6 | 
 | 2021-05-28 | 第25期馬橋杯中国囲碁新人王戦準決勝 | Chen Haoxin | Tu Xiaoyu | Win | W+¼ | 7.5 | 3389 | 2 | 
-| 2021-05-27 | 第25期馬橋杯中国囲碁新人王戦3回戦 | Tu Xiaoyu | Jin Yucheng | Win | B+R | 7.5 | 3387 | 3387 | 
-| 2021-05-25 | 第25期馬橋杯中国囲碁新人王戦2回戦 |  | Tu Xiaoyu | Win | W+R | 7.5 | missing | -3371 | 
+| 2021-05-27 | 第25期馬橋杯中国囲碁新人王戦3回戦 | Tu Xiaoyu | Jin Yucheng | Win | B+R | 7.5 | 3387 | 6 | 
+| 2021-05-25 | 第25期馬橋杯中国囲碁新人王戦2回戦 |  | Tu Xiaoyu | Win | W+R | 7.5 | 3381 | 10 | 
 | 2021-05-24 | 第25期馬橋杯中国囲碁新人王戦1回戦 |  | Tu Xiaoyu | Win | W+R | 7.5 | 3371 | -43 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Huang Yunsong | Lose | W+R | 7.5 | 3414 | -24 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Tu Xiaoyu | Lose | B+R | 7.5 | 3438 | -3 | 

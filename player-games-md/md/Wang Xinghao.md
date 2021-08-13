@@ -7,13 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-13 | 第26回三星火災杯中国予選 | Wang Xinghao | Tong Mengcheng | Win | B+R | 6.5 | 3414 | 22 | 
 | 2021-06-16 | 第25期馬橋杯中国囲碁新人王戦決勝三番勝負第3局 | Tu Xiaoyu | Wang Xinghao | Lose | B+R | 7.5 | 3392 | -17 | 
 | 2021-06-15 | 第25期馬橋杯中国囲碁新人王戦決勝三番勝負第2局 | Wang Xinghao | Tu Xiaoyu | Lose | W+R | 7.5 | 3409 | 0 | 
-| 2021-06-14 | 第25期馬橋杯中国囲碁新人王戦決勝三番勝負第1局 | Tu Xiaoyu | Wang Xinghao | Win | W+R | 7.5 | 3409 | 9 | 
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Zhou Hexi | Win | B+¾ | 7.5 | 3400 | 1 | 
+| 2021-06-14 | 第25期馬橋杯中国囲碁新人王戦決勝三番勝負第1局 | Tu Xiaoyu | Wang Xinghao | Win | W+R | 7.5 | 3409 | 10 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Zhou Hexi | Win | B+¾ | 7.5 | 3399 | 10 | 
-| 2021-06-11 | 第23回中国囲碁甲級リーグ | Zheng Xu | Wang Xinghao | Win | W+R | 7.5 | 3389 | 14 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Zhou Ruiyang | Lose | W+R | 7.5 | 3375 | -1 | 
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Zheng Xu | Wang Xinghao | Win | W+R | 7.5 | 3389 | 13 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Zhou Ruiyang | Lose | W+R | 7.5 | 3376 | -18 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Tan Xiao | Wang Xinghao | Win | W+1¼ | 7.5 | 3394 | 9 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Wu Guangya | Win | B+R | 7.5 | 3385 | 11 | 
@@ -21,12 +20,10 @@
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20準決勝 | Wang Xinghao | Moon Minjong | Win | B+R | 6.5 | 3374 | 0 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20準々決勝 | Wang Xinghao |  | Win | B+R | 6.5 | 3374 | 27 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Gon Jiwoo | Wang Xinghao | Win | W+R | 6.5 | 3347 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 |  | Wang Xinghao | Win | W+R | 6.5 | 3347 | -307 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Gon Jiwoo | Wang Xinghao | Win | W+R | 6.5 | 3654 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 |  | Wang Xinghao | Win | W+R | 6.5 | 3654 | 315 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 |  | Wang Xinghao | Win | W+R | 6.5 | 3347 | 8 | 
 | 2021-05-28 | 第25期馬橋杯中国囲碁新人王戦準決勝 | Wang Xinghao | Wang Chunhui | Win | B+R | 7.5 | 3339 | 10 | 
-| 2021-05-27 | 第25期馬橋杯中国囲碁新人王戦3回戦 |  | Wang Xinghao | Win | W+R | 7.5 | 3329 | 3329 | 
-| 2021-05-25 | 第25期馬橋杯中国囲碁新人王戦2回戦 | Wang Xinghao | Zheng Zaixiang | Win | B+R | 7.5 | missing | -3306 | 
+| 2021-05-27 | 第25期馬橋杯中国囲碁新人王戦3回戦 |  | Wang Xinghao | Win | W+R | 7.5 | 3329 | 6 | 
+| 2021-05-25 | 第25期馬橋杯中国囲碁新人王戦2回戦 | Wang Xinghao | Zheng Zaixiang | Win | B+R | 7.5 | 3323 | 17 | 
 | 2021-05-24 | 第25期馬橋杯中国囲碁新人王戦1回戦 |  | Wang Xinghao | Win | W+R | 7.5 | 3306 | -1 | 
 | 2021-05-21 | 2021博思軟件杯中国囲碁新秀争覇戦準決勝 |  | Wang Xinghao | Lose | B+R | 7.5 | 3307 | -31 | 
 | 2021-05-20 | 2021博思軟件杯中国囲碁新秀争覇戦3回戦 | Wang Xinghao |  | Win | B+R | 7.5 | 3338 | 10 | 

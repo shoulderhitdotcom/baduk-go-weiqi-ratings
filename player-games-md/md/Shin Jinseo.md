@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-14 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Han Seungjoo | Shin Jinseo | Win | W+R | 6.5 | 3791 | -3 | 
 | 2021-08-07 | 第44期名人戦（韓国）決勝三番勝負第3局 | Shin Jinseo | Byun Sangil | Win | B+R | 6.5 | 3794 | -1 | 
 | 2021-08-06 | 第44期名人戦（韓国）決勝三番勝負第2局 | Byun Sangil | Shin Jinseo | Win | W+R | 6.5 | 3795 | 6 | 
 | 2021-08-05 | 第44期名人戦（韓国）決勝三番勝負第1局 | Shin Jinseo | Byun Sangil | Lose | W+R | 6.5 | 3789 | -5 | 

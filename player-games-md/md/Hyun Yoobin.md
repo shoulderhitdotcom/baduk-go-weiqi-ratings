@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-08-13 | 第2期利鵬杯新鋭最高位戦8強戦 |  | Hyun Yoobin | Win | W+R | 6.5 | 2989 | -3 | 
+| 2021-08-13 | 第2期利鵬杯新鋭最高位戦8強戦 |  | Hyun Yoobin | Win | W+R | 6.5 | 2989 | -1 | 
+| 2021-08-13 | 第2期利鵬杯新鋭最高位戦8強戦 |  | Hyun Yoobin | Win | W+R | 6.5 | 2990 | -2 | 
 | 2021-06-29 | 2021陜川歴代英才vs女子頂上連勝対抗戦第2局 | Hyun Yoobin | Cho Seungah | Lose | W+R | 6.5 | 2992 | -31 | 
 | 2021-06-05 | 第44期名人戦（韓国）敗者復活戦3回戦 | Hyun Yoobin | Lee Changseok | Lose | W+R | 6.5 | 3023 | -13 | 
 | 2021-05-28 | 第44期名人戦（韓国）敗者復活戦2回戦 | Choi Jeong | Hyun Yoobin | Win | W+1.5 | 6.5 | 3036 | 26 | 

@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-08-13 | 第26回三星火災杯中国予選 | Chen Zijian | Xu Jiayang | Lose | W+R | 6.5 | 3355 | 3 | 
+| 2021-08-13 | 第26回三星火災杯中国予選 | Chen Zijian | Xu Jiayang | Lose | W+R | 6.5 | 3355 | -1 | 
+| 2021-08-13 | 第26回三星火災杯中国予選 | Chen Zijian | Xu Jiayang | Lose | W+R | 6.5 | 3356 | 4 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Meng Tailing | Chen Zijian | Lose | B+R | 7.5 | 3352 | -18 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Chen Xian | Chen Zijian | Lose | B+R | 7.5 | 3370 | 1 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Chen Zijian | Xie Ke | Lose | W+R | 7.5 | 3369 | -11 | 

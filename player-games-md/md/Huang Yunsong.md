@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-08-13 | 第26回三星火災杯中国予選 | Huang Yunsong | Tu Xiaoyu | Win | B+R | 6.5 | 3447 | 35 | 
+| 2021-08-13 | 第26回三星火災杯中国予選 | Huang Yunsong | Tu Xiaoyu | Win | B+R | 6.5 | 3447 | -1 | 
+| 2021-08-13 | 第26回三星火災杯中国予選 | Huang Yunsong | Tu Xiaoyu | Win | B+R | 6.5 | 3448 | 36 | 
 | 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Huang Yunsong | Peng Liyao | Lose | W+R | 7.5 | 3412 | -30 | 
 | 2021-07-14 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Huang Yunsong | Ding Hao | Lose | W+R | 7.5 | 3442 | -4 | 
 | 2021-07-12 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Ding Hao | Huang Yunsong | Lose | B+R | 7.5 | 3446 | -5 | 

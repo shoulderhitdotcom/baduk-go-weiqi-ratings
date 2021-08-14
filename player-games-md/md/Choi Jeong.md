@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-13 | 第7回韓国女子囲碁リーグ | Choi Jeong |  | Win | B+R | 6.5 | 3297 | 1 | 
+| 2021-08-13 | 第7回韓国女子囲碁リーグ | Choi Jeong |  | Win | B+R | 6.5 | 3296 | -41 | 
+| 2021-08-11 | 第1回IBK企業銀行杯女子囲碁マスターズ準決勝 | Cho Seungah | Choi Jeong | Win | W+R | 6.5 | 3337 | 51 | 
 | 2021-08-09 | 第26期女流国手戦1回戦 | Choi Jeong |  | Win | B+R | 6.5 | 3286 | 4 | 
 | 2021-08-07 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Cheayoung | Win | B+R | 6.5 | 3282 | 5 | 
 | 2021-08-01 | 第7回韓国女子囲碁リーグ | Choi Jeong |  | Win | B+R | 6.5 | 3277 | -6 | 

@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Murakawa Daisuke vs Yamashita Keigo** | **Murakawa Daisuke streak** | **Yamashita Keigo streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-08-09 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Yamashita Keigo | Murakawa Daisuke | W+R | 6.5 | 1:0 | 1 | 0 | 
+| 2021-08-16 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Murakawa Daisuke | W+R | 6.5 | 1:0 | 1 | 0 | 
+| 2021-08-09 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Yamashita Keigo | Murakawa Daisuke | W+R | 6.5 | 10:16 | 2 | 0 | 
 | 2020-12-03 | 第59期十段戦3回戦 | Murakawa Daisuke | Yamashita Keigo | B+1.5 | 6.5 | 9:16 | 1 | 0 | 
 | 2020-08-31 | 第27期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Murakawa Daisuke | B+R | 6.5 | 8:16 | 0 | 6 | 
 | 2020-06-30 | 第45期名人戦リーグ | Murakawa Daisuke | Yamashita Keigo | W+R | 6.5 | 8:15 | 0 | 5 | 

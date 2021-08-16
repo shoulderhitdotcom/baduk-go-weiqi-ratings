@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-16 | 第26回三星火災杯中国予選 | Tan Xiao | Peng Liyao | Lose | W+R | 6.5 | 3423 | -9 | 
 | 2021-08-13 | 第26回三星火災杯中国予選 | Fan Tingyu | Tan Xiao | Lose | B+R | 6.5 | 3432 | -1 | 
 | 2021-08-13 | 第26回三星火災杯中国予選 | Fan Tingyu | Tan Xiao | Lose | B+R | 6.5 | 3433 | -4 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Tan Xiao | Yang Kaiwen | Lose | W+R | 7.5 | 3437 | 14 | 

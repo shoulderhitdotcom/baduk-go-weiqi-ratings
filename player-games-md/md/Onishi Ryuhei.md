@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-16 | 第46期棋聖戦Aリーグ  | Onishi Ryuhei | Shibano Toramaru | Lose | W+R | 6.5 | 3176 | 14 | 
 | 2021-07-05 | 第46期棋聖戦Aリーグ | Onishi Ryuhei | Cho U | Win | B+R | 6.5 | 3162 | 18 | 
 | 2021-06-14 | 第77期本因坊戦予選 | Cho U | Onishi Ryuhei | Win | W+2.5 | 6.5 | 3144 | 66 | 
 | 2021-05-10 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Onishi Ryuhei | Lose | B+R | 6.5 | 3078 | 11 | 

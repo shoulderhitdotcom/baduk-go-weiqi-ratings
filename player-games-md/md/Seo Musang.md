@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-16 | 第15回GGオークション杯女流対シニア連勝対抗戦第7局 | Cho Hyeyeon | Seo Musang | Lose | B+2.5 | 6.5 | 3058 | 3058 | 
 | 2021-08-10 | 第15回GGオークション杯女流対シニア連勝対抗戦第6局 | Kang Dajeong | Seo Musang | Win | W+R | 6.5 | missing | 0 | 
 | 2021-08-09 | 第15回GGオークション杯女流対シニア連勝対抗戦第5局 |  | Seo Musang | Win | W+R | 6.5 | missing | 0 | 
 | 2021-08-03 | 第15回GGオークション杯女流対シニア連勝対抗戦第4局 | Seo Musang | Kim Yoonyoung | Win | B+2.5 | 6.5 | missing | 0 | 

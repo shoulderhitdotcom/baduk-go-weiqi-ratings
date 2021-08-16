@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-16 | 2021韓国シニア囲碁リーグ | Cho Daehyeon |  | Win | B+16.5 | 6.5 | 2199 | 2199 | 
+| 2021-08-12 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Kim JongJoon | Lose | W+R | 6.5 | missing | -2257 | 
 | 2021-08-05 | 2021韓国シニア囲碁リーグ | Kim Chuljung | Cho Daehyeon | Lose | B+3.5 | 6.5 | 2257 | -135 | 
 | 2020-10-26 | 2020NHシニア囲碁リーグ第14節第1試合第3局 | Park Seungmun | Cho Daehyeon | Lose | B+T | 6.5 | 2392 | -16 | 
 | 2020-10-19 | 2020NHシニア囲碁リーグ第13節第1試合第3局 | Choi Kyubyeong | Cho Daehyeon | Lose | B+6.5 | 6.5 | 2408 | -29 | 

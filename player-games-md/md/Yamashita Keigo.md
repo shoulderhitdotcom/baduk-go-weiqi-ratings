@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-16 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Murakawa Daisuke | Lose | W+R | 6.5 | 3193 | -32 | 
 | 2021-08-09 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Yamashita Keigo | Murakawa Daisuke | Lose | W+R | 6.5 | 3225 | -9 | 
 | 2021-08-06 | 第46期名人戦リーグ  | Yamashita Keigo | Ichiriki Ryo | Lose | W+R | 6.5 | 3234 | -15 | 
 | 2021-07-29 | 第77期本因坊戦予選 | Yamashita Keigo | Ko Iso | Lose | W+R | 6.5 | 3249 | 3 | 

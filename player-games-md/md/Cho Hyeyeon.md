@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-16 | 第15回GGオークション杯女流対シニア連勝対抗戦第7局 | Cho Hyeyeon | Seo Musang | Win | B+2.5 | 6.5 | 2999 | -27 | 
 | 2021-08-11 | 第26期女流国手戦1回戦 | Cho Hyeyeon |  | Win | B+7.5 | 6.5 | 3026 | 40 | 
 | 2021-08-07 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Cho Hyeyeon | Win | W+R | 6.5 | 2986 | 0 | 
 | 2021-08-07 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Cho Hyeyeon | Win | W+R | 6.5 | 2986 | -5 | 

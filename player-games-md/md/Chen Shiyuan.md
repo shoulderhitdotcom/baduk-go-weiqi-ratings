@@ -5,617 +5,619 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第11期友士杯十段戦敗部3回戦 | Lin Lixiang | Chen Shiyuan | W+R | 2021-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zDrMvWjfG8Z2K4di8KVfxg%3D%3D) | 
-| 第11期友士杯十段戦敗部2回戦 | Chen Shiyuan | Yang Bowei | B+R | 2021-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mqS%2BBGL4a1mCjPOhPYmsdg%3D%3D) | 
-| 第11期友士杯十段戦勝部2回戦 | Chen Shiyuan | Lin Junyan | W+R | 2021-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P9aVaZLxTyQNIIePDiwAyg%3D%3D) | 
-| 第11期友士杯十段戦勝部1回戦 | Chen Xi | Chen Shiyuan | W+4.5 | 2021-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hwIKAPbmbiS3iniGhkdaLQ%3D%3D) | 
-| 第11期友士杯十段戦予選 | Cai Chengwei | Chen Shiyuan | W+6.5 | 2021-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VmB1J8eJ1IQWPOpc0pwi6A%3D%3D) | 
-| 第17期国手戦（台湾） | missing | Chen Shiyuan | B+0.5 | 2021-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OcJm%2FeDTiU0amLDHbdrV1Q%3D%3D) | 
-| 第26回LG杯台湾予選 | Chen Shiyuan | Xu Jingen | W+R | 2021-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pac4q0cJIzAiZ8f2nUcUng%3D%3D) | 
-| 第26回LG杯台湾予選 | Chen Shiyuan | Xu Yuqi | B+R | 2021-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aFv35NZBFtn%2FcG1xr4YsjA%3D%3D) | 
-| 第11期友士杯十段戦予選 | Chen Shiyuan | Gao Yun | B+3.5 | 2021-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZrS79nT%2FKXMmfAnEURFAvg%3D%3D) | 
-| 第11期友士杯十段戦予選 | Chen Shiyuan | Zhang Zhehao | B+7.5 | 2021-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o55ZMEX56ymuaqJSIAyapQ%3D%3D) | 
-| 第17期国手戦（台湾） | Chen Shiyuan | Jian Jingting | B+R | 2021-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BsuWcfVPY6TgpHibRWGc2g%3D%3D) | 
-| 第2期名人冠軍戦3回戦 | Lin Junyan | Chen Shiyuan | B+R | 2021-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=werZvuigI4ZDDTBojo9Tog%3D%3D) | 
-| 第2期名人冠軍戦2回戦 | Jian Jingting | Chen Shiyuan | W+R | 2021-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MgU87sNbtshaRVLz378pJA%3D%3D) | 
-| 第2期名人冠軍戦1回戦 | Chen Shiyuan | Lin Xinwei | B+R | 2021-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z9y5gegfD6x8hUZi6Vmj%2FQ%3D%3D) | 
-| 第2期名人冠軍戦予選 | Chen Shiyuan | missing | B+R | 2021-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QyYoo2QukDVqf%2Ff0bVg3%2Fw%3D%3D) | 
-| 第2期名人冠軍戦予選 | Chen Shiyuan | missing | B+R | 2021-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=06R05mSThTDkdLSu9I7bUw%3D%3D) | 
-| 第20期天元戦（台湾）敗部4回戦 | Chen Shiyuan | Lin Lixiang | W+R | 2021-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J3c%2B%2F3eunoAy0gr9Z1rbCw%3D%3D) | 
-| 第20期天元戦（台湾）敗部3回戦 | Li Wei | Chen Shiyuan | W+R | 2021-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0tNqzVNAUB3%2B4MvDtja%2BGw%3D%3D) | 
-| 第20期天元戦（台湾）敗部2回戦 | Chen Shiyuan | Huang Shiyuan | B+R | 2021-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fN1mVpk7CO3Zv9l5qecL8w%3D%3D) | 
-| 第20期天元戦（台湾）勝部2回戦 | Chen Shiyuan | Chen Xi | W+R | 2021-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1ie7J0Cyn88y0Gv10wprXQ%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦3回戦 | Xiao Zhenghao | Chen Shiyuan | B+R | 2021-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DlMpeJdR7sJm1lUKL8nNvA%3D%3D) | 
-| 第20期天元戦（台湾）勝部1回戦 | Lin Shimin | Chen Shiyuan | W+R | 2021-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z%2FP4fQ9DgRZLt6d5kku5Dg%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦2回戦 | missing | Chen Shiyuan | W+R | 2021-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q%2B33C1ZCDwTKXmJc76fgvQ%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦1回戦 | Chen Shiyuan | Dang Xiyun | B+R | 2021-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LDf6GMYvcVJjM1sigx6kAw%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | Chen Shiyuan | missing | W+¼ | 2020-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vhsjNAkyiMVVpz1c3Drshg%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | missing | Chen Shiyuan | W+¼ | 2020-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RWk0AVeZEIXlIsC7yLM8YA%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | missing | Chen Shiyuan | B+¾ | 2020-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2DalnPNS0mE56T09a7v0tw%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | Wang Lei (s) | Chen Shiyuan | B+R | 2020-11-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lgoxPIyFbcUcIxO7KcD5Vw%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | Chen Shiyuan | missing | W+R | 2020-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eFMBDwW386slfQhETmYgMw%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | Chen Shiyuan | Kim Myounghoon | W+¼ | 2020-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RlY0VtC49idboS2OdiqcHw%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | Chen Shiyuan | Iyama Yuta | W+R | 2020-11-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VfgGf%2F4azQiX0KmtenEoZQ%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | missing | Chen Shiyuan | B+R | 2020-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O3CQ0qEG5sfjJyhWRp7ePg%3D%3D) | 
-| 第1回UMC聯電杯早碁争覇戦2回戦 | missing | Chen Shiyuan | B+0.5 | 2020-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sGS1msaIwIH6GEk02kKHKg%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Yang Bowei | Chen Shiyuan | B+R | 2020-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y1v1XI%2BBAKlnaOwYefFhPg%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Chen Shiyuan | Zhang Zhehao | B+R | 2020-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2KFEHc8X%2BGG36lD50A%2FbPw%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Lai Junfu | Chen Shiyuan | B+R | 2020-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x6modp8pbAdTwRTRn%2FLhEA%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Lin Shixun | Chen Shiyuan | W+R | 2020-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qpUqd8S%2FNef022SFwnJ1hg%3D%3D) | 
-| 第16期国手戦（台湾）2回戦 | Chen Shiyuan | missing | W+0.5 | 2020-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QoH7Y%2BsnRtQIXzpdDTbfpA%3D%3D) | 
-| 第8期中環碁聖戦2回戦 | Chen Shiyuan | Xiao Zhenghao | W+R | 2020-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4MDAj8zrZSRAIFVsMs0V9g%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦リーグ | Lai Junfu | Chen Shiyuan | B+R | 2020-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FvrlBh9ICzhjQ5zNj0%2FBzw%3D%3D) | 
-| 第1期名人冠軍戦準決勝三番勝負第2局  | Chen Shiyuan | Xu Haohong | W+1.5 | 2020-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MSzIWXEe9OOTG%2BvVYQn82w%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦リーグ | Chen Qirui | Chen Shiyuan | W+R | 2020-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=emyWaVdBlz1hWmP6Kiys2w%3D%3D) | 
-| 第1期名人冠軍戦準決勝三番勝負第1局  | Xu Haohong | Chen Shiyuan | B+R | 2020-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DnKgbYFb56EI2Bt8FOzGYw%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Lu Yiquan | W+1.5 | 2020-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HAtzMgk2WxuUlgEp34MX8Q%3D%3D) | 
-| 第1期名人冠軍戦3回戦 | Chen Shiyuan | Lin Lixiang | B+R | 2020-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nzsHStZ0LhgVYhRxYeGofw%3D%3D) | 
-| 第1期名人冠軍戦2回戦 | Chen Shiyuan | Zhou Junxun | B+1.5 | 2020-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3NChcjDhIxegpTRJ3QnPvg%3D%3D) | 
-| 第1期名人冠軍戦1回戦 | Chen Qirui | Chen Shiyuan | W+R | 2020-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d38s1qfmdP0CtyZTbaGPkQ%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦リーグ | Li Wei | Chen Shiyuan | W+R | 2020-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RUA7FzFRH6Wh4VRbp72%2FJg%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Wang Yuanjun | W+4.5 | 2020-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JDtDNugz56ThVOd2vEaVRw%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Chen Shiyuan | W+5.5 | 2020-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BQC81iMNumnY3aXL9RQBCw%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | missing | B+R | 2020-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fVaTz2zt6EYjw5pmhxFQoQ%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦予選敗部2回戦 | Chen Shiyuan | missing | B+R | 2020-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yXDLLL%2Fe1nNHJXq0cvLYEQ%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦予選敗部1回戦 | Chen Shiyuan | missing | B+R | 2020-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7tKZZQSqifgEHtvTgfBDqQ%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦予選勝部1回戦 | Chen Shiyuan | Chen Qirui | W+1.5 | 2020-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IfY66EyibNJOXzydRW6EmA%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦予選 | missing | Chen Shiyuan | W+R | 2020-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O2s%2FadOdFDKaGEcyaq1mBg%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦予選 | missing | Chen Shiyuan | W+R | 2020-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ohIg5Bu7IlKYbgaxUkz7A%3D%3D) | 
-| 第19期天元戦（台湾）リーグ | Lai Junfu | Chen Shiyuan | W+R | 2020-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=doh2Z%2B1KyGEAP7MoxPsWaA%3D%3D) | 
-| 第19期天元戦（台湾）リーグ | Chen Shiyuan | Xiao Zhenghao | B+2.5 | 2020-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y%2FxaFQpI8RgrJR2SenVKMQ%3D%3D) | 
-| 第10期友士杯十段戦敗部3回戦 | Chen Qirui | Chen Shiyuan | B+R | 2020-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GE2DiCXTAicv6zf0wDHcvQ%3D%3D) | 
-| 第10期友士杯十段戦敗部2回戦 | Xu Jingen | Chen Shiyuan | W+R | 2020-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BFyU4zRnji8ZzgMlhZlmpg%3D%3D) | 
-| 第19期天元戦（台湾）リーグ | Chen Shiyuan | Jian Jingting | B+R | 2020-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BLV%2BA6HeI04Ci0s6QJ3ozQ%3D%3D) | 
-| 第10期友士杯十段戦敗部1回戦 | missing | Chen Shiyuan | W+R | 2020-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yckRUgZXqw4Ooan6se6Daw%3D%3D) | 
-| 第10期友士杯十段戦勝部1回戦 | Lin Lixiang | Chen Shiyuan | B+5.5 | 2020-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R3X6%2BA2l8B8jHl82CMMkVQ%3D%3D) | 
-| 第19期天元戦（台湾）リーグ | Chen Shiyuan | Xu Haohong | W+R | 2020-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nm0RypOnNIaA%2FsZh9US25Q%3D%3D) | 
-| 第19期天元戦（台湾）リーグ | Chen Shiyuan | Chen Qirui | W+R | 2020-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SGI1qhDMtIA3%2FWKYPrM2VA%3D%3D) | 
-| 第19期天元戦（台湾）リーグ | Lin Shixun | Chen Shiyuan | B+R | 2020-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qwv9%2F9gZVwLTnq7FsyI1Hw%3D%3D) | 
-| 第10期友士杯十段戦予選勝部決勝 | Lin Shuyang | Chen Shiyuan | W+3.5 | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iKP5%2FFQJQFdiDaoziDgj0A%3D%3D) | 
-| 第19期天元戦（台湾）リーグ | Chen Shiyuan | Wang Yuanjun | W+R | 2020-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=izPUQWKNSMJXFQEU%2FXm3kw%3D%3D) | 
-| 第10期友士杯十段戦予選勝部2回戦 | Cai Chengwei | Chen Shiyuan | W+4.5 | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zsdDP7uWdh1ErgXSS0bbPQ%3D%3D) | 
-| 第10期友士杯十段戦予選勝部1回戦 | Huang Shiyuan | Chen Shiyuan | W+R | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UoO5Hvgl4zC%2BxLUMC%2BmTwA%3D%3D) | 
-| 第19期天元戦（台湾）敗部4回戦 | Chen Shiyuan | Li Wei | B+2.5 | 2020-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wt%2FxbFtB7R9cxAiu7NpF%2Bg%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦16強戦 | Lin Shixun | Chen Shiyuan | B+R | 2020-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qzRvJEHcqCp5SdurLRTHjQ%3D%3D) | 
-| 第19期天元戦（台湾）勝部3回戦 | Chen Shiyuan | Lai Junfu | W+R | 2020-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2akmaJtDlHyunbbr7%2FktHw%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan | Cai Chengwei | B+R | 2020-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7gjMP%2Bg9Ib%2BPygyOWZiL7w%3D%3D) | 
-| 第25回LG杯台湾代表選抜戦 | Chen Shiyuan | Lin Shixun | W+2.5 | 2020-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BjFG5N1pjaNZZdRozQX5jw%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦64強戦 | Cai Wenhe | Chen Shiyuan | W+R | 2020-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MH8dsba1YE%2FvmIourplz3Q%3D%3D) | 
-| 第25回LG杯台湾代表選抜戦 | Ding Shaojie | Chen Shiyuan | W+R | 2020-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R2Xa2kXkw%2BM3JL5SRhJvyw%3D%3D) | 
-| 第19期天元戦（台湾）勝部2回戦 | Chen Shiyuan | Lin Shuyang | B+R | 2020-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n7iKzEoR4tGgCXv9bmg3Rg%3D%3D) | 
-| 第1期名人冠軍戦予選勝部決勝 | missing | Chen Shiyuan | W+0.5 | 2020-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NsH6f9x1ez%2BuomR7ix1asw%3D%3D) | 
-| 第19期天元戦（台湾）勝部1回戦 | Xu Yuqi | Chen Shiyuan | W+R | 2020-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EtH1qByQ3YKa6C%2BAQpDXUw%3D%3D) | 
-| 第1期名人冠軍戦予選勝部1回戦 | Chen Shiyuan | missing | B+R | 2020-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ieL5ox1Hgs4BlfDXZCr68g%3D%3D) | 
-| 2020年日台精鋭交流戦第6戦 | Chen Shiyuan | Seki Kotaro | W+R | 2020-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ww6D6bEO0I16DfwxrNjeZQ%3D%3D) | 
-| 2020年日台精鋭交流戦第5戦 | Adachi Toshimasa | Chen Shiyuan | W+3.5 | 2020-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uiAdMAfZE5ahujrgn24tRQ%3D%3D) | 
-| 第9回応氏杯世界選手権台湾代表選抜戦 | Chen Qirui | Chen Shiyuan | B+R | 2020-01-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PaTvQjoeaZo%2BGUgtRVR4dA%3D%3D) | 
-| 第9回応氏杯世界選手権台湾代表選抜戦 | Chen Shiyuan | missing | B+R | 2020-01-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fhObxEmmMrTrkEnfI77oIg%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Lin Lixiang | Chen Shiyuan | B+R | 2019-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EbyzS4nV7GIMF%2BAi%2BBFBog%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Xu Yuqi | Chen Shiyuan | B+R | 2019-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8V%2B2goEWrQnjKBmsZhGwig%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Chen Shiyuan | Chen Qirui | B+R | 2019-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oORXK2MgiWEpwK%2BozxYOzA%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Chen Shiyuan | Wang Yuanjun | W+R | 2019-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sDXpvx3xXhkC4zNluwngYg%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Chen Shiyuan | Jian Jingting | W+0.5 | 2019-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TCevXDGqtDYIRrmffJ3V6A%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ | Chen Shiyuan | Li Wei | B+R | 2019-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LdLTnQ%2BPUbH7gB7Yy4IFuw%3D%3D) | 
-| 2019台湾精鋭vs韓国ナショナルチーム交流戦第2戦 | Chen Shiyuan | Song Jihoon | W+R | 2019-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lP5jbFUwjgm2KSyQqX%2B96g%3D%3D) | 
-| 2019台湾精鋭vs韓国ナショナルチーム交流戦第1戦 | Chen Shiyuan | Weon Seongjin | W+R | 2019-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=24I7zbCaMMHEV1UcZkhuDg%3D%3D) | 
-| 第15期国手戦（台湾）準決勝 | Chen Shiyuan | Xu Haohong | W+R | 2019-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c6XcoYQKkHVdg5q3PSIPZw%3D%3D) | 
-| 第12期棋王戦（台湾）リーグ  | Xu Haohong | Chen Shiyuan | B+R | 2019-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=co0h9F%2FGZIHuQnk3KiojuA%3D%3D) | 
-| 第12期棋王戦（台湾）予選敗部決勝 | Chen Shiyuan | Liu Yaowen | B+R | 2019-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L8k1dgBwvRX2m2CEWTu3zQ%3D%3D) | 
-| 第15期国手戦（台湾）4回戦 | Jian Jingting | Chen Shiyuan | W+R | 2019-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pd%2Ff7uBFxuGXV%2F8cBpywJw%3D%3D) | 
-| 第12期棋王戦（台湾）予選敗部準決勝 | Chen Shiyuan | Lin Shuyang | B+4.5 | 2019-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UymaA9cv2NhBr3%2BKU6T2wA%3D%3D) | 
-| 第12期棋王戦（台湾）予選敗部3回戦 | Chen Shiyuan | Huang Shiyuan | B+R | 2019-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8flBt%2FxXfIohonx5p2I5lQ%3D%3D) | 
-| 第15期国手戦（台湾）3回戦 | Chen Shiyuan | Lin Jiehan | B+R | 2019-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8GDQJNHiM%2BeL1LuCPay%2FQA%3D%3D) | 
-| 第12期棋王戦（台湾）予選勝部準決勝 | Li Wei | Chen Shiyuan | B+R | 2019-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UO2PGaS%2B0jcggWEb%2Beo6OA%3D%3D) | 
-| 第15期国手戦（台湾）2回戦 | Chen Shiyuan | missing | B+1.5 | 2019-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZFFe1fwDB6TX%2B1fG85xPzQ%3D%3D) | 
-| 第12期棋王戦（台湾）予選勝部2回戦 | Chen Shiyuan | missing | B+R | 2019-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QGMj8NaNyqMC5bWkKc4cpg%3D%3D) | 
-| 第7期中環碁聖戦3回戦 | Chen Shiyuan | Lai Junfu | W+R | 2019-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5wbUZdomNiQz0qXOzWiDLQ%3D%3D) | 
-| 第12期棋王戦（台湾）予選勝部1回戦 | missing | Chen Shiyuan | W+R | 2019-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mhcD5vSm%2F5%2FFMVnmPhqhqg%3D%3D) | 
-| 第7期中環碁聖戦2回戦 | Chen Shiyuan | Lin Yuxiang | B+2.5 | 2019-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gskLwviJKR8aybqRbJ9e8Q%3D%3D) | 
-| 第7期中環碁聖戦1回戦 | Huang Xiangren | Chen Shiyuan | W+R | 2019-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=scoe1rLAK06iVy9fj04gMw%3D%3D) | 
-| 第15期国手戦（台湾）1回戦 | Xu Yuqi | Chen Shiyuan | W+R | 2019-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t8UBrSc7AFZsFfgXahxG2A%3D%3D) | 
-| 2019年中国囲碁乙級リーグ | Chen Shiyuan | Wang Yanhao | B+R | 2019-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hBww6MSkVEyxHbkRTDuQHQ%3D%3D) | 
-| 2019年中国囲碁乙級リーグ | Tong Yulin | Chen Shiyuan | W+R | 2019-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lNMTunMmWFdA97wqHOizdA%3D%3D) | 
-| 2019年中国囲碁乙級リーグ | Chen Shiyuan | Park Sangjin | W+0.5 | 2019-06-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uCZViB86jklaN3u%2BpmlOiw%3D%3D) | 
-| 2019年中国囲碁乙級リーグ | Kim Sonjin | Chen Shiyuan | B+R | 2019-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XdrCdDmFB7a9fMaTRgbQBg%3D%3D) | 
-| 2019年中国囲碁乙級リーグ | Chen Shiyuan | Weon Seongjin | W+R | 2019-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UtHN5pv6iiSnCxc%2BODAwjg%3D%3D) | 
-| 2019年中国囲碁乙級リーグ | missing | Chen Shiyuan | B+R | 2019-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xI0kIHkn8acvIIr5QVyzuw%3D%3D) | 
-| 2019年中国囲碁乙級リーグ | Chen Shiyuan | Hsu Chiayuan | W+R | 2019-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jOpw7UqOuAvUlg%2FDABOl4w%3D%3D) | 
-| 2019年中国囲碁乙級リーグ | An Dongxu | Chen Shiyuan | W+R | 2019-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fj4%2F3Esyr3s48Q44chXWwg%3D%3D) | 
-| 第9期友士杯十段戦敗部2回戦 | Chen Shiyuan | Jian Jingting | W+0.5 | 2019-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gYKDeDbMVYZmDhsMhaWoKQ%3D%3D) | 
-| 第9期友士杯十段戦勝部2回戦 | Lai Junfu | Chen Shiyuan | B+R | 2019-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EBM8%2Bp6Cc7fXnrWkasBIgg%3D%3D) | 
-| 第9期友士杯十段戦勝部1回戦 | Yang Bowei | Chen Shiyuan | W+R | 2019-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZiH5kAdsWN0yeAw3ut3qGg%3D%3D) | 
-| 第18期天元戦（台湾）リーグ | Xu Haohong | Chen Shiyuan | B+1.5 | 2019-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2DpR3wtsP9iwCezMYQi57g%3D%3D) | 
-| 第18期天元戦（台湾）リーグ | Jian Jingting | Chen Shiyuan | B+R | 2019-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FOnQylDBvHagmwqxO3P%2FDw%3D%3D) | 
-| 第9期友士杯十段戦予選勝部決勝 | Li Wei | Chen Shiyuan | W+R | 2019-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WOxB57YYDnmB2OBFMedxQA%3D%3D) | 
-| 第18期天元戦（台湾）リーグ | Chen Shiyuan | Chen Qirui | W+R | 2019-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FEWm30dvkAp4XdirWZeCTQ%3D%3D) | 
-| 第9期友士杯十段戦予選勝部準決勝 | missing | Chen Shiyuan | W+4.5 | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zwdTIuxIqkCAatyBqbbFDw%3D%3D) | 
-| 第18期天元戦（台湾）リーグ | Chen Shiyuan | Yang Bowei | B+0.5 | 2019-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bt2ISc7%2B7P1BRaJbm7N%2Btg%3D%3D) | 
-| 第18期天元戦（台湾）リーグ | Lin Junyan | Chen Shiyuan | B+4.5 | 2019-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jPtPVx2T3an9vGAdS4Oi5w%3D%3D) | 
-| 第18期天元戦（台湾）リーグ | Chen Shiyuan | Lin Shixun | W+2.5 | 2019-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZasTGRhVnbCPr25RfcM3EA%3D%3D) | 
-| 第18期天元戦（台湾）リーグ | Chen Shiyuan | Xiao Zhenghao | W+1.5 | 2019-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Uyt%2B%2B9gmAAtUIMec9k8KZg%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦16強戦 | Chen Shiyuan | Xiao Zhenghao | W+R | 2019-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7nPvIB9aHGu%2FtygN2qIHvA%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan | Zhang Zhehao | B+R | 2019-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qDI91tz1HHSrgI%2FcClUeEw%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦64強戦 | missing | Chen Shiyuan | W+3.5 | 2019-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eUx6ukAJKeEFaLsz8nuEHw%3D%3D) | 
-| 第18期天元戦（台湾）勝部3回戦 | Chen Shiyuan | Xu Haohong | B+R | 2019-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oeHTZXvTeT9kE8TO9kMkfQ%3D%3D) | 
-| 第18期天元戦（台湾）勝部2回戦 | Lin Lixiang | Chen Shiyuan | W+R | 2019-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bg5EszW4MRD1qyr6GKdsZg%3D%3D) | 
-| 第18期天元戦（台湾）勝部1回戦 | Chen Shiyuan | Huang Shiyuan | B+R | 2019-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IPIEKMeFLcb2p1tayh2IpA%3D%3D) | 
-| 第18期天元戦（台湾）予選3回戦 | missing | Chen Shiyuan | W+R | 2019-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DuhC6TE1butP0FMn3h8WyQ%3D%3D) | 
-| 2019台湾精鋭vs日本精鋭交流戦第6戦 | Chen Shiyuan | Yao Zhiteng | B+3.5 | 2019-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=23A9iA%2BuTF2uDBrFQzpi4g%3D%3D) | 
-| 2019台湾精鋭vs日本精鋭交流戦第5戦 | Hirose Yuichi | Chen Shiyuan | B+R | 2019-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uL7pKG6nf1LujjwfJYRBZQ%3D%3D) | 
-| 第18期天元戦（台湾）予選2回戦 | Lin Xiuping | Chen Shiyuan | W+R | 2019-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kZu9I0qfynCKj0ZVjIf4Ow%3D%3D) | 
-| 第14期国手戦（台湾）挑戦手合五番勝負第3局 | Chen Shiyuan | Wang Yuanjun | W+9.5 | 2018-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n8gEnPhrnoHbLa76G5HCrQ%3D%3D) | 
-| 第14期国手戦（台湾）挑戦手合五番勝負第2局 | Wang Yuanjun | Chen Shiyuan | B+R | 2018-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SLNS42yoOGBe8xHZ0YL%2BuQ%3D%3D) | 
-| 第14期国手戦（台湾）挑戦手合五番勝負第1局 | Chen Shiyuan | Wang Yuanjun | W+1.5 | 2018-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i9WudTk%2FJjOBF6nzHG%2BiFg%3D%3D) | 
-| 2018年台湾精鋭vs韓国交流戦第4戦 | Lee Jihyun | Chen Shiyuan | B+R | 2018-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EMEwYUtUotLqOgmlY286bw%3D%3D) | 
-| 2018年台湾精鋭vs韓国交流戦第3戦 | Park Hyunsoo | Chen Shiyuan | W+R | 2018-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nvxGIawK%2B%2FP93gy%2BQNb0cw%3D%3D) | 
-| 第11期棋王戦（台湾）リーグ第7節 | Lin Shixun | Chen Shiyuan | W+R | 2018-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FE8Y%2BWIvc2qzbse97uQfXA%3D%3D) | 
-| 第1回IWMC台湾代表男子選抜戦1回戦 | Chen Shiyuan | Lin Lixiang | W+R | 2018-11-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jpeklH9A1OaLN21NnUv1ZA%3D%3D) | 
-| 第11期棋王戦（台湾）リーグ第6節 | Chen Shiyuan | Xiao Zhenghao | W+R | 2018-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6aUh%2BqgB9ClyWM2NKuAHRQ%3D%3D) | 
-| 第11期棋王戦（台湾）リーグ第5節 | Chen Shiyuan | Xu Haohong | W+2.5 | 2018-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YRpksKsXnyBd5RdJptUYbA%3D%3D) | 
-| 第11期棋王戦（台湾）リーグ第4節  | Chen Shiyuan | Lin Lixiang | W+3.5 | 2018-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PSEO09Td2hk1HZ7GT%2FQLRA%3D%3D) | 
-| 第11期棋王戦（台湾）リーグ第3節 | Jian Jingting | Chen Shiyuan | B+R | 2018-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yyduntoOqBtXe2UJdTCYQg%3D%3D) | 
-| 第11期棋王戦（台湾）リーグ第2節  | Chen Qirui | Chen Shiyuan | W+R | 2018-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ziMEg7uiTSnm7%2FEE%2BSBdNQ%3D%3D) | 
-| 第11期棋王戦（台湾）リーグ第1節 | Wang Yuanjun | Chen Shiyuan | B+0.5 | 2018-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ie%2BSZNuafsQ9Vo8kWyApFg%3D%3D) | 
-| 第6期中環碁聖戦4回戦 | Chen Shiyuan | Wang Yuanjun | W+R | 2018-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IyoUzfVIbhpuGFZH1p%2FoVg%3D%3D) | 
-| 第11期棋王戦（台湾）予選勝部決勝 | Chen Shiyuan | Lin Shuyang | B+R | 2018-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ie95baEy%2BPBD11G3%2F3%2BkQQ%3D%3D) | 
-| 第6期中環碁聖戦3回戦 | Lin Jiehan | Chen Shiyuan | W+0.5 | 2018-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XkReuc1QemxhRyWDwjQc0g%3D%3D) | 
-| 第11期棋王戦（台湾）予選勝部準決勝 | Chen Shiyuan | Yang Bowei | B+R | 2018-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ia5GjrV5OYCTLXHG3HPGgg%3D%3D) | 
-| 第11期棋王戦（台湾）予選勝部2回戦 | Chen Shiyuan | Zhou Keping | B+R | 2018-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bJwJnmumTDNfh9D8Onr9Xg%3D%3D) | 
-| 第11期棋王戦（台湾）予選勝部1回戦 | Chen Shiyuan | missing | B+R | 2018-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cMCcIMbEJVWLcH0JZUisQQ%3D%3D) | 
-| 第6期中環碁聖戦2回戦 | Chen Yida | Chen Shiyuan | W+4.5 | 2018-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FEURnoBNgRope%2FPjnayDdg%3D%3D) | 
-| 第6期中環碁聖戦1回戦上半区 | Chen Shiyuan | Ding Shaojie | B+R | 2018-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7ompaAzEu%2BUdopfnya2hKQ%3D%3D) | 
-| 2018年中国囲棋丙級リーグ | Chen Shiyuan | missing | B+R | 2018-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J7apcdjdTbvkAsTc4pk9Kg%3D%3D) | 
-| 2018年中国囲棋丙級リーグ | Cheng Honghao | Chen Shiyuan | B+R | 2018-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8pxmBJHFMAnG7RrWS0jJNQ%3D%3D) | 
-| 2018年中国囲棋丙級リーグ | Lin Junyan | Chen Shiyuan | B+R | 2018-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J9FVns8YpzWwPeDd13IDDQ%3D%3D) | 
-| 2018年中国囲棋丙級リーグ | Song Jihoon | Chen Shiyuan | W+R | 2018-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wfk8drMt72fhFp4pgBUhLg%3D%3D) | 
-| 2018年中国囲棋丙級リーグ | Chen Shiyuan | missing | B+¾ | 2018-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lk7TBAmqv%2BiNabgenhJ6fA%3D%3D) | 
-| 2018年中国囲棋丙級リーグ | Chen Shiyuan | missing | B+R | 2018-06-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=68nAmATqABF6irHOj26sww%3D%3D) | 
-| 2018年中国囲棋丙級リーグ | missing | Chen Shiyuan | B+R | 2018-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qUdhBasRPF%2F%2F4c%2B%2FmjxFdQ%3D%3D) | 
-| 第十六回天元戦複戦敗部第四回戦 | Chen Shiyuan | Jian Jingting | W+R | 2018-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I4Q4YftJ35dkUyZzgyRLew%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦8強戦 | Xu Haohong | Chen Shiyuan | B+7.5 | 2018-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tx3TOGr9wTkLN7PGrtBRAw%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦16強戦 | Chen Shiyuan | Chen Xi | B+R | 2018-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zp0VCFoaBXJQ21SRGyE%2FwA%3D%3D) | 
-| 第十七回天元戦複戦勝部第三回戦 補戦 | Chen Shiyuan | Xu Yuqi | W+R | 2018-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yy3w4KHBjuwTyHtFiqFYPQ%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦32強戦 | Chen Yida | Chen Shiyuan | W+2.5 | 2018-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X5o029SUB8o5lzaoeA1rNQ%3D%3D) | 
-| 第十七回天元戦複戦勝部第二回戦 | Chen Shiyuan | missing | B+R | 2018-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RSwLM%2FNntnZ6cQGjXlo39w%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦64強戦 | Chen Shiyuan | missing | B+R | 2018-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=scIOxI9%2FpOxCM3MwmZ%2B83g%3D%3D) | 
-| 第十七回天元戦複戦勝部第一回戦 | Yang Bowei | Chen Shiyuan | W+R | 2018-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aRFAIv2P0N6zk977c9odaA%3D%3D) | 
-| 第12回春蘭杯台湾予選 | Chen Shiyuan | Chen Qirui | W+1 | 2018-02-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YOPZaHL51aNuNOhIw6lJZg%3D%3D) | 
-| 2018台湾精鋭vs日本精鋭交流戦第6戦 | Motoki Katsuya | Chen Shiyuan | W+R | 2018-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7wmuYSOAoNpxtK4NW88A9Q%3D%3D) | 
-| 2018台湾精鋭vs日本精鋭交流戦第5戦 | Chen Shiyuan | Cho Riyu | W+R | 2018-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8onIpWZMjUmgyT53cb2a3Q%3D%3D) | 
-| 第2回IMSAエリートマインドゲームズ囲碁男子個人戦 | Shibano Toramaru | Chen Shiyuan | B+R | 2017-12-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G%2BZIDriLlM88LPNLiXZSVw%3D%3D) | 
-| 第2回IMSAエリートマインドゲームズ個人早碁戦準決勝 | Ke Jie | Chen Shiyuan | B+R | 2017-12-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0tU%2FZevJbecDj3WnVD8zvQ%3D%3D) | 
-| 第2回IMSAエリートマインドゲームズ個人早碁戦予選 | Chen Shiyuan | Park Junghwan | W+R | 2017-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=99icCnzH0L9Z8Ip6tpHJeg%3D%3D) | 
-| 第2回IMSAエリートマインドゲームズ個人早碁戦予選 | missing | Chen Shiyuan | W+R | 2017-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j1wEjPnSkUlCFSg3r5%2BcZA%3D%3D) | 
-| 第2回IMSAエリートマインドゲームズ囲碁男子団体戦 | Chen Shiyuan | Shin Jinseo | W+R | 2017-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=luzteCPOJAR1PsteYIQ6YA%3D%3D) | 
-| 第2回IMSAエリートマインドゲームズ囲碁男子団体戦 | Tang Weixing | Chen Shiyuan | W+R | 2017-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V%2FcAilU6DKOm4R%2B81JqqhA%3D%3D) | 
-| 第13期国手戦（台湾）挑戦手合五番勝負第5局 | Chen Shiyuan | Lin Junyan | B+3.5 | 2017-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AyLjIpkt%2F5JKS34cU7jnfw%3D%3D) | 
-| 第13期国手戦（台湾）挑戦手合五番勝負第4局 | Lin Junyan | Chen Shiyuan | W+2.5 | 2017-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CfsBviYsAL6MEF5vSfY82g%3D%3D) | 
-| 第10期棋王戦（台湾）プレーオフ | Chen Shiyuan | Jian Jingting | W+R | 2017-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mXfsgG2%2B6f3gwOgPUDULEA%3D%3D) | 
-| 第13期国手戦（台湾）挑戦手合五番勝負第3局 | Chen Shiyuan | Lin Junyan | W+R | 2017-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JmCtlCjJlqXNHD5Bo1n9Yg%3D%3D) | 
-| 第10期棋王戦（台湾）リーグ | Chen Shiyuan | Jian Jingting | W+0.5 | 2017-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FxzEQX%2BkrmCSO0iJYqWbpQ%3D%3D) | 
-| 第13期国手戦（台湾）挑戦手合五番勝負第2局 | Lin Junyan | Chen Shiyuan | B+0.5 | 2017-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qhL%2FIxf4ZutWBWQQZDO8Fg%3D%3D) | 
-| 第10期棋王戦（台湾）リーグ | Chen Shiyuan | Lin Shixun | W+2.5 | 2017-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hy%2F40MnFh4qAEUkJ%2BokmkQ%3D%3D) | 
-| 第10期棋王戦（台湾）リーグ | Chen Shiyuan | Lin Junyan | B+0.5 | 2017-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pls3Y63tBiMBPaMpZMB9dg%3D%3D) | 
-| 第13期国手戦（台湾）挑戦手合五番勝負第1局 | Chen Shiyuan | Lin Junyan | B+R | 2017-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nXibKhCdL0FtC2GPzkvA%2BA%3D%3D) | 
-| 第10期棋王戦（台湾）リーグ | Chen Shiyuan | Lin Shuyang | B+R | 2017-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EyGYudRzIg%2BlU76w1aRe2Q%3D%3D) | 
-| 第10期棋王戦（台湾）リーグ | Chen Shiyuan | Zhou Junxun | B+5.5 | 2017-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g2WBxFQWvtPDXZrtGPy%2Bbg%3D%3D) | 
-| 第10期棋王戦（台湾）リーグ | Chen Shiyuan | Chen Qirui | B+R | 2017-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FzRNZ7Y8U60BivPIu0JgzQ%3D%3D) | 
-| 第10期棋王戦（台湾）リーグ | Lin Lixiang | Chen Shiyuan | B+R | 2017-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WVC%2FQonbuq9T8J38cQOYdQ%3D%3D) | 
-| 第5期中環碁聖戦8強戦 | Jian Jingting | Chen Shiyuan | B+R | 2017-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wCZnqcD7wjFxbbPuNtsDsQ%3D%3D) | 
-| 第5期中環碁聖戦16強戦 | missing | Chen Shiyuan | W+R | 2017-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C%2FZgULX%2FX%2Bxt7BBohff6Xg%3D%3D) | 
-| 第5期中環碁聖戦第二回戦 | Chen Shiyuan | Liu Jianchang | B+R | 2017-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QIJGfdXqriIEptr7R3z07Q%3D%3D) | 
-| 第7期友士杯十段戦敗者復活戦2回戦 | Chen Shiyuan | Li Wei | W+R | 2017-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hujDy1cKNUARDbyXAmIFJw%3D%3D) | 
-| 第7期友士杯十段戦敗者復活戦1回戦 | Lin Lixiang | Chen Shiyuan | W+R | 2017-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gUTmZ%2BJJq%2FcqddOVhy4XLw%3D%3D) | 
-| 第7期友士杯十段戦1回戦 | Zhou Junxun | Chen Shiyuan | B+R | 2017-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IxX9%2BICh7IYNWIsb4AcPgQ%3D%3D) | 
-| 第十六期天元戦リーグ戦第七局 | Xu Yuqi | Chen Shiyuan | B+4.5 | 2017-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Il36IRzh1twMo5b3QxiWPg%3D%3D) | 
-| 第十六期天元戦リーグ戦第六局 | Lin Shixun | Chen Shiyuan | B+0.5 | 2017-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X7kSVgzQnklBExZTpF2b6Q%3D%3D) | 
-| 第16期天元戦（台湾）リーグ | Chen Shiyuan | Xiao Zhenghao | B+0.5 | 2017-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cW3osLKxjV%2FeI26%2FsG4CKQ%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦決勝三番勝負第2局 | Chen Shiyuan | Wang Yuanjun | B+R | 2017-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=huL%2BlFu9qBZKfsNxjU%2F4cQ%3D%3D) | 
-| 第十六期天元戦リーグ戦第四局 | Lin Junyan | Chen Shiyuan | B+R | 2017-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5QVXlSkXe2hwLPNuoAghTQ%3D%3D) | 
-| 第十六期天元戦リーグ戦第三局 | Chen Shiyuan | Lin Lixiang | W+3.5 | 2017-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=op2OOCmzTmbDJ0aj0CHSrQ%3D%3D) | 
-| 第十六期天元戦リーグ戦第二局 | Chen Shiyuan | Lai Junfu | B+R | 2017-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aB0FYyd0wmMYXOhKl1sxsw%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦決勝三番勝負第1局 | Wang Yuanjun | Chen Shiyuan | W+R | 2017-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rd3%2F3f47sYuUygECmtUPBA%3D%3D) | 
-| 第十六期天元挑戦手合リーグ戦第一局補戦 | Chen Shiyuan | Cai Chengwei | B+R | 2017-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c60jhHhjY5fULMLRMFt1Rg%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦準決勝 | Chen Shiyuan | Xiao Zhenghao | B+2.5 | 2017-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RLTplmEFbDgH9olRkCUzaA%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦8強戦 | Chen Shiyuan | Chen Qirui | B+R | 2017-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MfvKBxJ2WAP9CyyZYP%2BjSw%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦16強戦 | Chen Shiyuan | Zhou Pingqiang | B+R | 2017-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zu9Gi2QdS%2BmuS7fGZbZCRg%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan | Lin Yuxiang | B+10.5 | 2017-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mBupP4csfjPg5NWDiXoXTQ%3D%3D) | 
-| 第22期LG盃台湾代表選抜戦決勝第一局 | Chen Shiyuan | Chen Qirui | W+4.5 | 2017-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GDb3zwrwTSLPlmk8TwD7jg%3D%3D) | 
-| 台湾精鋭日本精鋭交流戦1回戦 | Shibano Toramaru | Chen Shiyuan | B+2.5 | 2017-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HaRXGv87zzOyfYuwWnJFVw%3D%3D) | 
-| 台湾精鋭日本精鋭交流戦2回戦 | Chen Shiyuan | Suzuki Shinji | W+R | 2017-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2nkEBsZ0ZZlL4Iv3i6OwSw%3D%3D) | 
-| 第12期国手戦（台湾）挑戦手合3局 | Xiao Zhenghao | Chen Shiyuan | W+R | 2016-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XE0gmEaHB9ns%2FYQJfXHkYA%3D%3D) | 
-| 第12期国手戦（台湾）挑戦手合2局 | Chen Shiyuan | Xiao Zhenghao | B+0.5 | 2016-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sSLw0nkDlQnTQ2j5Nw1V4A%3D%3D) | 
-| 第12期国手戦（台湾）挑戦手合1局 | Xiao Zhenghao | Chen Shiyuan | W+3.5 | 2016-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fEzaqkIVgcGkjXaFYW6OFA%3D%3D) | 
-| 第9期棋王戦（台湾）リーグ | Chen Shiyuan | Lin Shuyang | W+2.5 | 2016-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nSdswhi%2Bb%2Bvh5et6sZqvpA%3D%3D) | 
-| 第9期棋王戦（台湾）リーグ | Chen Shiyuan | Chen Qirui | W+0.5 | 2016-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G37Ex3chcIErkRzwxYCJHg%3D%3D) | 
-| 第9期棋王戦（台湾）リーグ | Cai Chengwei | Chen Shiyuan | W+2.5 | 2016-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=94i7bewxNIBXj0VYFu3vIA%3D%3D) | 
-| 第9期棋王戦（台湾）リーグ | Lin Lixiang | Chen Shiyuan | B+2.5 | 2016-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Up7G8jWiLSStVSOIWrphHg%3D%3D) | 
-| 第9期棋王戦（台湾）リーグ | Lai Junfu | Chen Shiyuan | W+R | 2016-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u%2BvZje1O3wKmgC4ELDnN2Q%3D%3D) | 
-| 第9期棋王戦（台湾）リーグ | Wang Yuanjun | Chen Shiyuan | B+R | 2016-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WgZTaQ15by2uLoemQW8UZw%3D%3D) | 
-| 第9期棋王戦（台湾）リーグ | Chen Shiyuan | Lin Junyan | W+0.5 | 2016-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ylmqWuCg2u0XLmadZCxA5g%3D%3D) | 
-| 第3回百霊杯世界オープン戦1回戦 | Xu Jiayang | Chen Shiyuan | B+R | 2016-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=McMnEb2IlzUvF6F1YVyJSw%3D%3D) | 
-| 2016年中国囲碁丙級リーグ | Chen Shiyuan | missing | W+R | 2016-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R0vTpjVp7mOgIhdEgYk%2Bmg%3D%3D) | 
-| 2016年中国囲碁丙級リーグ | Xiao Zhenghao | Chen Shiyuan | B+1.5 | 2016-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4lTg9hUmpP%2BOdIzm%2B8iPHA%3D%3D) | 
-| 第6期友士杯十段戦敗者復活戦3回戦 | Chen Shiyuan | Xu Haohong | W+0.5 | 2016-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KyhwKOQe41L6jfadmHEdCQ%3D%3D) | 
-| 第6期友士杯十段戦敗者復活戦2回戦 | Lai Junfu | Chen Shiyuan | W+R | 2016-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1ACmUwwLrhiUGcAHA3wnNg%3D%3D) | 
-| 第6期友士杯十段戦2回戦 | Chen Shiyuan | Wang Yuanjun | W+R | 2016-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HsZQzCXHOQfRYwmdJTyQuw%3D%3D) | 
-| 第6期友士杯十段戦1回戦 | Lin Shixun | Chen Shiyuan | W+R | 2016-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y9fVevfhE%2Bt8Oex9xX4kEw%3D%3D) | 
-| 第15期天元戦（台湾）リーグ | Chen Shiyuan | Lin Shuyang | B+R | 2016-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KbsPT5lWjypgYTwCIS9VCA%3D%3D) | 
-| 第15期天元戦（台湾）リーグ | Chen Shiyuan | Xiao Zhenghao | B+R | 2016-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zgPMKryLHO60S0jFPw8Pcg%3D%3D) | 
-| 第15期天元戦（台湾）リーグ | Lin Lixiang | Chen Shiyuan | B+1.5 | 2016-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SEQGlwrIA1u4Ei%2FHL8dKQQ%3D%3D) | 
-| 第15期天元戦（台湾）リーグ | Lin Zhihan | Chen Shiyuan | B+R | 2016-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l1tUVo%2FglfYztgju0%2FFHwg%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦台湾予選 | Chen Shiyuan | Wang Yuanjun | W+R | 2016-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A8rv0w9W9dpkIPDI%2BUacsw%3D%3D) | 
-| 第15期天元戦（台湾）リーグ | Yang Bowei | Chen Shiyuan | W+R | 2016-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GzLuAsY2jt7PRo%2B%2FbIg7nA%3D%3D) | 
-| 第15期天元戦（台湾）リーグ | Chen Shiyuan | Chen Qirui | B+R | 2016-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8zdmPY9EL9D%2FL2Di%2FF1rJw%3D%3D) | 
-| 第15期天元戦（台湾）リーグ | Lin Junyan | Chen Shiyuan | B+R | 2016-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OeVvCuLiMmAMnH%2BG%2BcdiWw%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦8強戦 | Lin Shuyang | Chen Shiyuan | B+R | 2016-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XlrMMxhyqK%2B1pdJ0qZ54ow%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦16強戦 | Chen Shiyuan | missing | B+5.5 | 2016-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yduWOneBiWHVivTCNZ3WZQ%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan | Chen Xi | B+R | 2016-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xSD5G%2FyFHeHJc0yKW1GFUw%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦64強戦 | Chen Shiyuan | missing | B+R | 2016-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1TFN3Wj%2BOyGZjPiIdDwIxw%3D%3D) | 
-| 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Chen Shiyuan | Tang Weixing | W+4.5 | 2016-03-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UKe%2FcCXRCr%2FC0JcxfRfAdQ%3D%3D) | 
-| 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Lee Donghoon | Chen Shiyuan | W+R | 2016-02-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F%2FMh6AvQNR65YFFekEOlzQ%3D%3D) | 
-| 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Chen Shiyuan | Fan Hui | B+19.5 | 2016-02-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9s%2FIACowHHMKlxffH9%2BzyA%3D%3D) | 
-| 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Jiang Mingjiu | Chen Shiyuan | W+R | 2016-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YXJbh1hPO97B4lt9Bp6DIA%3D%3D) | 
-| 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Hirata Tomoya | Chen Shiyuan | W+4.5 | 2016-02-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Zixoi1qUq3zrTLBl4VQRg%3D%3D) | 
-| 2016年日台精鋭交流戦第4戦 | Yu Zhengqi | Chen Shiyuan | W+R | 2016-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VisbMQNo1WIhAylkx9NBpw%3D%3D) | 
-| 2016年日台精鋭交流戦第2戦 | Chen Shiyuan | Ichiriki Ryo | W+R | 2016-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wUYWoCh6wbOF%2B%2FKJw054HA%3D%3D) | 
-| 2016年日台精鋭交流戦第1戦 | Chen Shiyuan | Murakawa Daisuke | B+R | 2016-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s23zk1DRiPqOF9IkcudVAw%3D%3D) | 
-| 第3回百霊杯世界オープン戦台湾予選 | Xiao Zhenghao | Chen Shiyuan | W+R | 2016-01-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1HP71BcwU%2FuAX7zE33D%2Fqg%3D%3D) | 
-| 第8回応氏杯世界選手権台湾選抜戦 | Wang Yuanjun | Chen Shiyuan | B+1 | 2015-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yOvjgZ74%2BeQ1SVeysiqofw%3D%3D) | 
-| 第11期国手戦（台湾）挑戦手合五番勝負第5局 | Chen Shiyuan | Xiao Zhenghao | B+2.5 | 2015-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xDsATMAT4GHkJxdEBk3bRQ%3D%3D) | 
-| 第11期国手戦（台湾）挑戦手合五番勝負第4局 | Xiao Zhenghao | Chen Shiyuan | B+0.5 | 2015-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2sCSkoVg9tiyKAgeciOZjA%3D%3D) | 
-| 第11期国手戦（台湾）挑戦手合五番勝負第3局 | Chen Shiyuan | Xiao Zhenghao | W+2.5 | 2015-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oTY7Wx24bvguJobJL%2B4qjA%3D%3D) | 
-| 第11期国手戦（台湾）挑戦手合五番勝負第2局 | Xiao Zhenghao | Chen Shiyuan | W+0.5 | 2015-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eusrbWL4paZD2bEPFYbN9A%3D%3D) | 
-| 第11期国手戦（台湾）挑戦手合五番勝負第1局 | Chen Shiyuan | Xiao Zhenghao | B+1.5 | 2015-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7L9PXnTyPHg9qOitU%2F8WYg%3D%3D) | 
-| 第3期中環碁聖戦決勝三番勝負第2局 | Wang Yuanjun | Chen Shiyuan | W+R | 2015-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hz5QNz1nuuowEAq34t8aBA%3D%3D) | 
-| 第3期中環碁聖戦決勝三番勝負第1局 | Chen Shiyuan | Wang Yuanjun | B+R | 2015-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HdMujGsRt4QkQObi3cVesA%3D%3D) | 
-| 第3期中環碁聖戦準決勝 | Chen Shiyuan | Lin Shixun | B+R | 2015-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xjhSNX6abb5G%2FKBw0FgXiA%3D%3D) | 
-| 第2回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Chen Shiyuan | Fan Yunruo | W+R | 2015-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jbpzct8X2W1CmlCd1eUKRA%3D%3D) | 
-| 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Chen Shiyuan | Ichiriki Ryo | W+R | 2015-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dSi%2B1%2Bz2%2BenNNG7c9hOwHA%3D%3D) | 
-| 第2回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yang Dingxin | Chen Shiyuan | W+R | 2015-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3eEUHnr0DQjS1kyDg8835g%3D%3D) | 
-| 第3期中環碁聖戦4回戦 | Hei Jiajia | Chen Shiyuan | W+R | 2015-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qLHmYODu46vqNg1GoyfvSw%3D%3D) | 
-| 第5期友士杯十段戦挑戦者決定戦 | Xiao Zhenghao | Chen Shiyuan | B+R | 2015-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2R7WZ26OOeDt88oOj2o8vA%3D%3D) | 
-| 第5期友士杯十段戦勝者組決勝 | Xiao Zhenghao | Chen Shiyuan | W+R | 2015-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KSQFt9t6BR2OEzZ3NYsxEw%3D%3D) | 
-| 第5期友士杯十段戦勝者組準決勝 | Li Wei | Chen Shiyuan | W+R | 2015-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5iRlyTYf1Lq%2Bhos0Iqzunw%3D%3D) | 
-| 第5期友士杯十段戦2回戦 | Yang Bowei | Chen Shiyuan | W+1.5 | 2015-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FxL%2FenPdHRq0g2RQ%2FlVkjw%3D%3D) | 
-| 第5期友士杯十段戦1回戦 | Chen Shiyuan | Zhou Junxun | B+R | 2015-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XCJmmfFqvjzKFMEK1952DQ%3D%3D) | 
-| 第14期天元戦（台湾）リーグ | Chen Shiyuan | Lin Shuyang | W+R | 2015-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W9uzh0JIPbtS9v2Wq1Vujw%3D%3D) | 
-| 第14期天元戦（台湾）リーグ | Chen Shiyuan | Chen Qirui | W+R | 2015-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1S9ComM92HMUllBggieovQ%3D%3D) | 
-| 2015年中国囲碁乙級リーグ | Chen Shiyuan | Zhang Qiang | W+0.5 | 2015-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tmu1pWcpsp2%2F4PkuA%2Fh%2BNw%3D%3D) | 
-| 2015年中国囲碁乙級リーグ | Lee Jihyun | Chen Shiyuan | B+R | 2015-05-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tB%2FfXEO6jKqgSOv6BaySKA%3D%3D) | 
-| 2015年中国囲碁乙級リーグ | Chen Shiyuan | Wang Haoyang | W+R | 2015-05-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z6pqjHrvrnTtZaGW8yNlrA%3D%3D) | 
-| 2015年中国囲碁乙級リーグ | Peng Quan | Chen Shiyuan | W+R | 2015-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YORkoYv96k4UTnZYXEYqFw%3D%3D) | 
-| 2015年中国囲碁乙級リーグ | Chen Shiyuan | missing | W+R | 2015-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zQanl3eRIZGONGD%2F1T5pxg%3D%3D) | 
-| 2015年中国囲碁乙級リーグ | Dang Yifei | Chen Shiyuan | W+R | 2015-05-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oXH%2BryKhG5PxSgTSOfYz%2FQ%3D%3D) | 
-| 2015年中国囲碁乙級リーグ | Chen Shiyuan | missing | B+R | 2015-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FLn9smyec6TQfl1vJ4cwew%3D%3D) | 
-| 第14期天元戦（台湾）リーグ | Lin Lixiang | Chen Shiyuan | W+1.5 | 2015-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T48GOVJZh0TpYLdxsDFZpA%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦決勝三番勝負第2局 | Wang Yuanjun | Chen Shiyuan | W+0.5 | 2015-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M%2BBegvRkEd2EHpzYMcxF5w%3D%3D) | 
-| 第14期天元戦（台湾）リーグ | Chen Shiyuan | Wang Yuanjun | B+R | 2015-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oWZemgK0LpbSkKVeTF1sUQ%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦決勝三番勝負第1局 | Chen Shiyuan | Wang Yuanjun | B+R | 2015-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=anJWfDqlewcYzCCMfN4h5g%3D%3D) | 
-| 第14期天元戦（台湾）リーグ | Zhou Junxun | Chen Shiyuan | W+1.5 | 2015-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mLSTiyxckh6dttcMNNaOqg%3D%3D) | 
-| 第14期天元戦（台湾）リーグ | Chen Shiyuan | missing | B+R | 2015-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V1D7XUvuwlM%2Fka0OLn1C8g%3D%3D) | 
-| 第14期天元戦（台湾）リーグ | Yang Bowei | Chen Shiyuan | B+1.5 | 2015-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X3PcLr9jwe5epcNY2YJYQw%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦準決勝 | Xiao Zhenghao | Chen Shiyuan | W+R | 2015-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YmOvxswlILu6y%2F7W7EpB4A%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦8強戦 | Chen Shiyuan | Lin Junyan | B+3.5 | 2015-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7I08dO6Xo2pMG3iXM3176A%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦16強戦 | Chen Shiyuan | Chen Feng | B+R | 2015-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cAkywBvFDuQ0xNRdD10KRg%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦32強戦 | Lin Yuxiang | Chen Shiyuan | W+R | 2015-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BNACtIGnONXthjJTaa9TlQ%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦64強戦 | missing | Chen Shiyuan | W+R | 2015-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7GLYphA4uQ8tsHctPPQEQw%3D%3D) | 
-| 2015年日台精鋭交流戦第6戦 | Chen Shiyuan | Adachi Toshimasa | B+1.5 | 2015-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hy9drowFYFl%2BxPU4sU3Ndw%3D%3D) | 
-| 2015年日台精鋭交流戦第5戦 | Terayama Rei | Chen Shiyuan | W+R | 2015-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PDSULwWer6fZ%2B9KAMnArdg%3D%3D) | 
-| 2015年日台精鋭交流戦第2戦 | Motoki Katsuya | Chen Shiyuan | W+R | 2015-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u3itZ0kPKkRj%2BIILozIZcg%3D%3D) | 
-| 2015年日台精鋭交流戦第1戦 | Chen Shiyuan | Fujita Akihiko | B+1.5 | 2015-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QceuUjpnX40bROZ8fKVr0w%3D%3D) | 
-| 第20回LG杯台湾予選 | Lin Junyan | Chen Shiyuan | B+3.5 | 2015-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dmDgcl2awh6d%2BIHGahzgtw%3D%3D) | 
-| 第20回LG杯台湾予選 | Chen Shiyuan | Wang Yuanjun | B+4.5 | 2015-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O1M0hUStgMAS8Y2m6kVBSg%3D%3D) | 
-| 第20回LG杯台湾予選 | Chen Shiyuan | Chen Qirui | B+0.5 | 2015-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uveD37JSU55bM1n748Qm1g%3D%3D) | 
-| 第2回夢百合杯世界オープン戦台湾予選 | Chen Shiyuan | Xiao Zhenghao | W+R | 2015-01-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9t9hK1jRbnnDZREPVhauVA%3D%3D) | 
-| 第10期国手戦（台湾）リーグ | Zhou Junxun | Chen Shiyuan | Void | 2014-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Uc69n6KQftLQdeTT7O0bw%3D%3D) | 
-| 第7期棋王戦（台湾）リーグ | Chen Shiyuan | Lin Lixiang | W+R | 2014-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0xjSReNzN5WxiIJ0546oow%3D%3D) | 
-| 第7期棋王戦（台湾）リーグ | Chen Shiyuan | Xiao Zhenghao | B+R | 2014-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TlLWpefutgFrMmiIKkGReg%3D%3D) | 
-| 第7期棋王戦（台湾）リーグ | Chen Shiyuan | Lin Zhihan | W+R | 2014-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u1VippLLJ85Y7eScGbSrsw%3D%3D) | 
-| 第7期棋王戦（台湾）リーグ | Chen Shiyuan | Chen Qirui | B+4.5 | 2014-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OAQo%2BAItfHzg%2FXPSb%2BUTmw%3D%3D) | 
-| 第7期棋王戦（台湾）リーグ | Chen Shiyuan | missing | B+R | 2014-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zb%2BpczsPKzHcX4CVVhl%2BKw%3D%3D) | 
-| 第7期棋王戦（台湾）リーグ | Lin Junyan | Chen Shiyuan | B+R | 2014-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EKm2YtP0f4xSVGBHhzSgEQ%3D%3D) | 
-| 第7期棋王戦（台湾）リーグ | Chen Shiyuan | Zhou Junxun | W+R | 2014-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yewqF%2FLDekqG8tsPss94Qw%3D%3D) | 
-| 第2期中環碁聖戦決勝三番勝負第3局 | Lin Lixiang | Chen Shiyuan | W+R | 2014-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gfMsAR4nERLXqOlSAYDbXQ%3D%3D) | 
-| 第2期中環碁聖戦決勝三番勝負第2局 | Lin Lixiang | Chen Shiyuan | W+R | 2014-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yol6Ax2MdXrlfW%2BFUDYcYg%3D%3D) | 
-| 第2期中環碁聖戦決勝三番勝負第1局 | Chen Shiyuan | Lin Lixiang | W+2.5 | 2014-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BfVUQoxUCFlH1cCtvIDdqg%3D%3D) | 
-| 第2期中環碁聖戦準決勝 | Chen Shiyuan | Wang Yuanjun | B+8.5 | 2014-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YLYz7Rc7N0LiiYhGecEtOA%3D%3D) | 
-| 第6回海峰杯プロ囲碁戦決勝三番勝負第3局 | Chen Shiyuan | Yang Bowei | W+R | 2014-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5P4D7chOgb6ocJP0Dpcd9A%3D%3D) | 
-| 第6回海峰杯プロ囲碁戦決勝三番勝負第2局 | Chen Shiyuan | Yang Bowei | B+R | 2014-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8E3motO60LSaGK%2FI7j0QJw%3D%3D) | 
-| 第6回海峰杯プロ囲碁戦決勝三番勝負第1局 | Yang Bowei | Chen Shiyuan | B+R | 2014-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rkqBiMzCVPLbBXxdQ82z2Q%3D%3D) | 
-| 第13期天元戦（台湾）リーグ | Chen Shiyuan | Yang Bowei | B+2.5 | 2014-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kjCnTZ8x%2BQpVOmEQaecK%2FA%3D%3D) | 
-| 2014年中国囲碁丙級リーグ | missing | Chen Shiyuan | W+R | 2014-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DwIiwKnpDmUmf%2BK4jo%2F3jg%3D%3D) | 
-| 第6回海峰杯プロ囲碁戦準決勝 | Chen Shiyuan | Xiao Zhenghao | B+3.5 | 2014-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=om%2F89%2B8sGxolPuQC0y8KYg%3D%3D) | 
-| 第6回海峰杯プロ囲碁戦8強戦 | Lin Lixiang | Chen Shiyuan | W+R | 2014-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gHuCW3UYa70vKEIfBZ9r4A%3D%3D) | 
-| 第2回百霊杯世界オープン戦1回戦 | Xie Ke | Chen Shiyuan | B+R | 2014-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z06Ej%2FAO8A4PRANov%2Bx4dw%3D%3D) | 
-| 第6回海峰杯プロ囲碁戦16強戦 | Chen Shiyuan | missing | B+5.5 | 2014-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YcUAaDIVNuHqteXBAzdx9Q%3D%3D) | 
-| 第6回海峰杯プロ囲碁戦32強戦 | Lin Shengxian | Chen Shiyuan | W+6.5 | 2014-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XO4%2FPqF%2BH73TenBKtj%2B03w%3D%3D) | 
-| 第6回海峰杯プロ囲碁戦64強戦 | Xu Yuqi | Chen Shiyuan | W+0.5 | 2014-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fgHaYmclk61A%2BrVrA%2Brtrw%3D%3D) | 
-| 第19回LG杯台湾予選 | Chen Shiyuan | Lin Zhihan | W+R | 2014-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B6O%2FZJG%2BOm357YigE5sSMA%3D%3D) | 
-| 第19回LG杯台湾予選 | Xiao Zhenghao | Chen Shiyuan | W+R | 2014-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U7hpi58ejhemhm4%2BpxMP7g%3D%3D) | 
-| 第10回春蘭杯台湾予選 | Wang Yuanjun | Chen Shiyuan | B+2.5 | 2014-02-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RSFQgC6XBjVeGxwEL62Few%3D%3D) | 
-| 第10回春蘭杯台湾予選 | Chen Shiyuan | Xiao Zhenghao | B+1.5 | 2014-02-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FESRUjOZoZkBgBOPiC15nw%3D%3D) | 
-| 2014年日台精鋭交流戦第4戦 | Chen Shiyuan | O Rissei | B+R | 2014-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QFmEFdcyuzxq3KlKwK6%2FCQ%3D%3D) | 
-| 2014年日台精鋭交流戦第3戦 | Chen Shiyuan | O Meien | B+T | 2014-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T7ytHJT0lNGQveSwHtEdLA%3D%3D) | 
-| 2014年日台精鋭交流戦第2戦 | Rin Shien | Chen Shiyuan | W+4.5 | 2014-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k1i1A1eBGN9pAz7mJ%2FxpYw%3D%3D) | 
-| 2014年日台精鋭交流戦第1戦 | Chen Shiyuan | Hsu Chiayuan | B+0.5 | 2014-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K2trYX9La8LqBXYo2Qbu5w%3D%3D) | 
-| 第6期棋王戦（台湾）挑戦手合七番勝負第5局 | Chen Shiyuan | Wang Yuanjun | W+R | 2013-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=23kJMGp3IQ83X8mGmkDbtQ%3D%3D) | 
-| 第6期棋王戦（台湾）挑戦手合七番勝負第4局 | Wang Yuanjun | Chen Shiyuan | B+R | 2013-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ew74VKyrgOUzAQghzXINfw%3D%3D) | 
-| 第6期棋王戦（台湾）挑戦手合七番勝負第3局 | Chen Shiyuan | Wang Yuanjun | W+3.5 | 2013-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UE5gmvr4AHNIHFQLZ2Ji6w%3D%3D) | 
-| 第6期棋王戦（台湾）挑戦手合七番勝負第2局 | Wang Yuanjun | Chen Shiyuan | B+0.5 | 2013-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TnZce78lgBI621gho4GJFg%3D%3D) | 
-| 第6期棋王戦（台湾）挑戦手合七番勝負第1局 | Chen Shiyuan | Wang Yuanjun | B+R | 2013-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6lncdytKs%2BpghNkt0755yQ%3D%3D) | 
-| 第9期国手戦（台湾）挑戦手合五番勝負第4局 | Xiao Zhenghao | Chen Shiyuan | B+R | 2013-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f0vZN%2FdfPehKmBUQ6wnjQw%3D%3D) | 
-| 第9期国手戦（台湾）挑戦手合五番勝負第3局 | Chen Shiyuan | Xiao Zhenghao | W+R | 2013-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zS23IrwbDysEwXFjg7z8xg%3D%3D) | 
-| 第9期国手戦（台湾）挑戦手合五番勝負第2局 | Xiao Zhenghao | Chen Shiyuan | B+0.5 | 2013-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2m%2FNl0DY0qukbMzcDULv2g%3D%3D) | 
-| 第9期国手戦（台湾）挑戦手合五番勝負第1局 | Chen Shiyuan | Xiao Zhenghao | B+0.5 | 2013-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VFMxx7LDe4TZw7pxylqbTA%3D%3D) | 
-| 第12期天元戦（台湾）挑戦手合五番勝負第4局 | Xiao Zhenghao | Chen Shiyuan | B+R | 2013-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2vvHCtP%2FywEeoHVRzehXBQ%3D%3D) | 
-| 第12期天元戦（台湾）挑戦手合五番勝負第3局 | Chen Shiyuan | Xiao Zhenghao | W+1.5 | 2013-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HbvN2OIIvCTMscyhGTI19A%3D%3D) | 
-| 第12期天元戦（台湾）挑戦手合五番勝負第2局 | Xiao Zhenghao | Chen Shiyuan | W+R | 2013-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ily0rQv3VrawQM7boStSpg%3D%3D) | 
-| 2013年中国囲碁乙級リーグ | Chen Shiyuan | Lee Wonyoung | W+R | 2013-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BXf6UR6XMh8Q%2Fhca4UycxQ%3D%3D) | 
-| 第12期天元戦（台湾）挑戦手合五番勝負第1局 | Chen Shiyuan | Xiao Zhenghao | W+R | 2013-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o4yEQwhTtmMhKtCq8IcSFQ%3D%3D) | 
-| 第1回夢百合杯世界オープン戦台湾予選 | Chen Shiyuan | Zhou Junxun | W+6.5 | 2013-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DaTvAh3fv33bBW5sA%2BZDmw%3D%3D) | 
-| 第5回海峰杯プロ囲碁戦準決勝 | Chen Shiyuan | Wang Yuanjun | W+4.5 | 2013-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mVJmOmXqVZno9VHx%2Bx1SSQ%3D%3D) | 
-| 第5回海峰杯プロ囲碁戦8強戦 | Chen Shiyuan | Lin Lixiang | B+R | 2013-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=srb%2BOHmJmNT3wbXW%2B8j1Mw%3D%3D) | 
-| 第5回海峰杯プロ囲碁戦16強戦 | Liu Yaowen | Chen Shiyuan | W+R | 2013-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DxMjiL0744NEo%2BxyjvhyYA%3D%3D) | 
-| 第5回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan | missing | B+R | 2013-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=svuc%2F1y%2BeVfM%2FQKh%2FLyfvA%3D%3D) | 
-| 第18回LG杯台湾予選 | Wang Yuanjun | Chen Shiyuan | B+R | 2013-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kd0%2Bc0maNac%2FewMuu5%2BOhg%3D%3D) | 
-| 第4回海峰杯プロ囲碁戦決勝三番勝負第2局 | Chen Shiyuan | Wang Yuanjun | B+R | 2012-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o1THwsmOWWAhQa4hRWQRbg%3D%3D) | 
-| 第4回海峰杯プロ囲碁戦決勝三番勝負第1局 | Wang Yuanjun | Chen Shiyuan | W+5.5 | 2012-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FSkNHZDvMWT400q0uWIuzg%3D%3D) | 
-| 第2期友士杯十段戦挑戦手合三番勝負第2局 | Chen Shiyuan | Zhou Junxun | W+R | 2012-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HWjJ7etu86vyDDlcnVARGQ%3D%3D) | 
-| 第4回海峰杯プロ囲碁戦準決勝 | Chen Shiyuan | Zhang Zhehao | B+R | 2012-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VKZA6%2Fik3r5shtYdxQKXbQ%3D%3D) | 
-| 第2期友士杯十段戦挑戦手合三番勝負第1局 | Zhou Junxun | Chen Shiyuan | B+R | 2012-11-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7AG%2FH8elD%2FuV%2BBh7A5ZWBQ%3D%3D) | 
-| 第4回海峰杯プロ囲碁戦8強戦 | Chen Shiyuan | Lin Xiuping | B+R | 2012-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zt6AuT2VRJBxF7KpuUTgdQ%3D%3D) | 
-| 第4回海峰杯プロ囲碁戦16強戦 | Chen Shiyuan | Yang Mengyun | B+4.5 | 2012-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cMc6JVP9b%2F8EjYYCGiei1A%3D%3D) | 
-| 第4回海峰杯プロ囲碁戦32強戦 | missing | Chen Shiyuan | W+R | 2012-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PGd8XTWN5biNy4k8gDcXGw%3D%3D) | 
-| 第2期友士杯十段戦挑戦者決定戦 | Chen Shiyuan | Xiao Zhenghao | B+R | 2012-10-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3CJ40XT54aXrO45eXFUnRA%3D%3D) | 
-| 第5期棋王戦（台湾）挑戦手合七番勝負第6局 | Chen Shiyuan | Xiao Zhenghao | B+R | 2012-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xNodluzoXH2VnvfnKn0yGQ%3D%3D) | 
-| 第2期友士杯十段戦勝者組決勝 | Chen Shiyuan | Lin Zhihan | B+1.5 | 2012-10-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7LMMUZ8SN2v8XurEk1tJBw%3D%3D) | 
-| 第5期棋王戦（台湾）挑戦手合七番勝負第5局 | Xiao Zhenghao | Chen Shiyuan | B+R | 2012-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=82QhYIWGGx4ZiTuakL6H3w%3D%3D) | 
-| 第5期棋王戦（台湾）挑戦手合七番勝負第4局 | Chen Shiyuan | Xiao Zhenghao | B+R | 2012-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F2aNYYSX2FBdJRqvMod98Q%3D%3D) | 
-| 第8期国手戦（台湾）挑戦手合五番勝負第4局 | Chen Shiyuan | Lin Zhihan | B+R | 2012-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hSx3sqFCMP18%2BwIg6DpX%2Fg%3D%3D) | 
-| 2012ジャステック杯国際新鋭囲碁対抗戦第3戦 | Anzai Nobuaki | Chen Shiyuan | W+R | 2012-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gvWqwC6%2BUJUxdKUGnmIKEw%3D%3D) | 
-| 2012ジャステック杯国際新鋭囲碁対抗戦第2戦 | Lian Xiao | Chen Shiyuan | B+R | 2012-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V5iloGuJbLv%2FsquZ7Q0bUQ%3D%3D) | 
-| 2012ジャステック杯国際新鋭囲碁対抗戦第1戦 | Chen Shiyuan | Lee Yeongkyu | W+R | 2012-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ea2KIXcDDLC6%2BXvALo4A1Q%3D%3D) | 
-| 第5期棋王戦（台湾）挑戦手合七番勝負第3局 | Xiao Zhenghao | Chen Shiyuan | B+R | 2012-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u7FsGahSO%2By9aDX9B6KMlA%3D%3D) | 
-| 第8期国手戦（台湾）挑戦手合五番勝負第3局 | Lin Zhihan | Chen Shiyuan | W+R | 2012-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PkHbEQZ2bKY87aEFP0akNg%3D%3D) | 
-| 第5期棋王戦（台湾）挑戦手合七番勝負第2局 | Chen Shiyuan | Xiao Zhenghao | B+3.5 | 2012-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9sS3bLGfHsp1KfDsBCEcow%3D%3D) | 
-| 第8期国手戦（台湾）挑戦手合五番勝負第2局 | Chen Shiyuan | Lin Zhihan | W+0.5 | 2012-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JNWFc7X1di9E5bq%2Bk09QMw%3D%3D) | 
-| 第5期棋王戦（台湾）挑戦手合七番勝負第1局 | Xiao Zhenghao | Chen Shiyuan | W+2.5 | 2012-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x0vnFnIJ8HhXrf%2F5mL3iDQ%3D%3D) | 
-| 第8期国手戦（台湾）挑戦手合五番勝負第1局 | Lin Zhihan | Chen Shiyuan | W+R | 2012-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ja7EXSZU4t4k2I3nMPYwIQ%3D%3D) | 
-| 第8期国手戦（台湾）挑戦者決定プレーオフ | Wang Yuanjun | Chen Shiyuan | W+0.5 | 2012-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H63FdSnt6tLUQP0ETFT14g%3D%3D) | 
-| 第8期国手戦（台湾）リーグ | Chen Shiyuan | Lin Shuyang | B+R | 2012-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u3fJsaX3ynUNM8MplNDH5g%3D%3D) | 
-| 第8期国手戦（台湾）リーグ | Hei Jiajia | Chen Shiyuan | W+3.5 | 2012-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hGjoix%2BOYU2sIg06iEC0Yw%3D%3D) | 
-| 第8期国手戦（台湾）リーグ | Chen Shiyuan | Yang Bowei | B+R | 2012-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WQhunlkBYB4PyDC%2Ftiyezw%3D%3D) | 
-| 第8期国手戦（台湾）リーグ | Zhou Junxun | Chen Shiyuan | W+R | 2012-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BPFiWNafuS6AiAZUU4ikQQ%3D%3D) | 
-| 第11期天元戦（台湾）挑戦手合五番勝負第3局 | Xiao Zhenghao | Chen Shiyuan | W+R | 2012-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TTKsFxrAGB2yRqwm20pP%2BA%3D%3D) | 
-| 第11期天元戦（台湾）挑戦手合五番勝負第2局 | Chen Shiyuan | Xiao Zhenghao | B+R | 2012-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K5dtXAwCAqcWnI6pV%2BJt8Q%3D%3D) | 
-| 第11期天元戦（台湾）挑戦手合五番勝負第1局 | Xiao Zhenghao | Chen Shiyuan | W+0.5 | 2012-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GJ7ZUEmp%2BqUhyC%2F5ayamwg%3D%3D) | 
-| 第9回春蘭杯世界囲碁選手権2回戦 | Chen Shiyuan | Jiang Weijie | W+R | 2012-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GSveW71sWhRQcv0lR0SM%2Fw%3D%3D) | 
-| 第9回春蘭杯世界囲碁選手権1回戦 | Alexander Dinerchtein | Chen Shiyuan | W+R | 2012-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I9tvUZ1joOOa7u9Gevkicw%3D%3D) | 
-| 第4回BCカード杯世界選手権1回戦 | Chen Yaoye | Chen Shiyuan | B+R | 2012-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3F9QkNijbUyOGzEc7VU1Bw%3D%3D) | 
-| 第7回応氏杯世界選手権台湾選抜戦 | Lin Lixiang | Chen Shiyuan | B+5 | 2012-02-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8MEG%2FdBSwi3QgSHT1vWfMQ%3D%3D) | 
-| 第4回BCカード杯世界選手権台湾予選決勝 | Lin Lixiang | Chen Shiyuan | W+1.5 | 2012-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lT6RK8qJIN4SoTwrH9DLxw%3D%3D) | 
-| 第1回スポーツアコードワールドマインドゲームズ囲碁団体戦 | Chen Shiyuan | Kong Jie | W+R | 2011-12-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JMGrc0M2q6ImX%2FjkGjiSHA%3D%3D) | 
-| 第1回スポーツアコードワールドマインドゲームズ囲碁団体戦 | Chen Shiyuan | Lee Sedol | B+R | 2011-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xyjxHrzocSwPOMqRYpK4%2Bw%3D%3D) | 
-| 第16回LG杯世界棋王戦3回戦 | Chen Shiyuan | Lee Changho | W+R | 2011-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xp4xtfVvJFZvpBpRLdYPiQ%3D%3D) | 
-| 第3回海峰杯プロ囲碁戦準決勝 | Chen Shiyuan | Zhou Junxun | W+R | 2011-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aPE9lWBTDiQhTT%2BCsS1oxA%3D%3D) | 
-| 第3回海峰杯プロ囲碁戦8強戦 | Chen Shiyuan | Lin Lixiang | B+R | 2011-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NN8w2POoVgdhxM2AGs6mkg%3D%3D) | 
-| 第3回海峰杯プロ囲碁戦16強戦 | missing | Chen Shiyuan | W+2.5 | 2011-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8KLv1qIebaHYRkD0i8jhrw%3D%3D) | 
-| 第4期棋王戦（台湾）挑戦手合七番勝負第7局 | Chen Shiyuan | Zhou Junxun | B+R | 2011-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z7uNyYBBS7dtIh%2FAP9NwMA%3D%3D) | 
-| 第4期棋王戦（台湾）挑戦手合七番勝負第6局 | Zhou Junxun | Chen Shiyuan | B+R | 2011-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KYmrSQKRTS089ojZ44yx7g%3D%3D) | 
-| 第4期棋王戦（台湾）挑戦手合七番勝負第5局 | Chen Shiyuan | Zhou Junxun | B+3.5 | 2011-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b6iVC9GWqyoe%2BqUvwiD61A%3D%3D) | 
-| 第4期棋王戦（台湾）挑戦手合七番勝負第4局 | Zhou Junxun | Chen Shiyuan | W+R | 2011-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OsvltomjSARwm9hHQcuhpg%3D%3D) | 
-| 第24回世界囲碁選手権富士通杯2回戦 | Park Junghwan | Chen Shiyuan | B+R | 2011-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gL45DbHGutLP8EhJzdY6lQ%3D%3D) | 
-| 第24回世界囲碁選手権富士通杯1回戦 | Cho U | Chen Shiyuan | W+R | 2011-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KLWSsoxJN0%2BMbjEqneplbw%3D%3D) | 
-| 第4期棋王戦（台湾）挑戦手合七番勝負第3局 | Chen Shiyuan | Zhou Junxun | B+6.5 | 2011-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0R2UbJJ8LdPF9gGRmayu7A%3D%3D) | 
-| 第4期棋王戦（台湾）挑戦手合七番勝負第2局 | Zhou Junxun | Chen Shiyuan | B+R | 2011-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JbNU1w6LNwpzdNs1vINWiQ%3D%3D) | 
-| 第7期国手戦（台湾）リーグ | Xiao Zhenghao | Chen Shiyuan | W+2.5 | 2011-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5c%2BlEgz9fT4Yf3i1%2Bx%2BqfA%3D%3D) | 
-| 第4期棋王戦（台湾）挑戦手合七番勝負第1局 | Chen Shiyuan | Zhou Junxun | W+R | 2011-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4mAUrx8jE0ezqFilOv01VA%3D%3D) | 
-| 第7期国手戦（台湾）リーグ | Yang Mengyun | Chen Shiyuan | W+R | 2011-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6q9HqhVVt%2BkzHnR7C38aKA%3D%3D) | 
-| 第7期国手戦（台湾）リーグ | Hei Jiajia | Chen Shiyuan | B+2.5 | 2011-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EUaXqOD9FSE93eqJnvApIw%3D%3D) | 
-| 第16回LG杯世界棋王戦2回戦 | Park Seunghwa | Chen Shiyuan | W+1.5 | 2011-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xTw7ojqMEWQSwAQNHmAzww%3D%3D) | 
-| 第16回LG杯世界棋王戦1回戦 | Han Wonggyu | Chen Shiyuan | W+0.5 | 2011-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vw2iOh8k1Qk1IW5bzsarRw%3D%3D) | 
-| 第10期天元戦（台湾）挑戦手合五番勝負第4局 | Xiao Zhenghao | Chen Shiyuan | W+R | 2011-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iu2BBo4eO8lztPZuQA89iQ%3D%3D) | 
-| 第10期天元戦（台湾）挑戦手合五番勝負第3局 | Chen Shiyuan | Xiao Zhenghao | B+5.5 | 2011-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E1%2BZjx0JdY7QNOI68EJfDQ%3D%3D) | 
-| 第10期天元戦（台湾）挑戦手合五番勝負第2局 | Xiao Zhenghao | Chen Shiyuan | W+R | 2011-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uwqOOYzIvHQrP%2BqazF71dQ%3D%3D) | 
-| 第10期天元戦（台湾）挑戦手合五番勝負第1局 | Chen Shiyuan | Xiao Zhenghao | W+R | 2011-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pKVUSsfSotYxy78BRChRMw%3D%3D) | 
-| 第10期天元戦（台湾）リーグ | Lin Zhihan | Chen Shiyuan | W+6.5 | 2011-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IyAodzJNYJaLOsJdfLnreQ%3D%3D) | 
-| 第3回BCカード杯世界選手権2回戦 | Chen Shiyuan | Park Seunghwa | W+R | 2011-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=01q8fkYHgCPJFYGlAoZpVA%3D%3D) | 
-| 第3回BCカード杯世界選手権1回戦 | Yun Junsang | Chen Shiyuan | W+1.5 | 2011-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2eNTo1GhuMw4wCq%2BqqJabA%3D%3D) | 
-| 第24回世界囲碁選手権富士通杯台湾予選決勝 | Chen Shiyuan | Lin Lixiang | B+R | 2011-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qGuwOsdZsjQAtrGa5tC0NA%3D%3D) | 
-| 第24回世界囲碁選手権富士通杯台湾予選 | Chen Shiyuan | Xiao Zhenghao | B+R | 2011-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1W07fw0RknY4PJzB9paXcw%3D%3D) | 
-| 第6期王座戦（台湾）挑戦手合五番勝負第4局 | Chen Shiyuan | Xiao Zhenghao | B+R | 2010-12-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pFHKZFIupq%2Bz4u5c0xIzgg%3D%3D) | 
-| 第6期王座戦（台湾）挑戦手合五番勝負第3局 | Xiao Zhenghao | Chen Shiyuan | B+R | 2010-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=40qvLnwpHs5qLv3i0jHaow%3D%3D) | 
-| 第3回BCカード杯世界選手権台湾予選決勝 | Lin Zhihan | Chen Shiyuan | W+R | 2010-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eE2%2F2VXSrpiySz%2Bv5OSVSw%3D%3D) | 
-| 第6期王座戦（台湾）挑戦手合五番勝負第2局 | Chen Shiyuan | Xiao Zhenghao | B+R | 2010-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3A9yo%2BTtiuXvnzHfV%2BYHHw%3D%3D) | 
-| 第6期王座戦（台湾）挑戦手合五番勝負第1局 | Xiao Zhenghao | Chen Shiyuan | W+R | 2010-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wDS%2Fd2BE8JatRUHMnHvv4w%3D%3D) | 
-| 第3回BCカード杯世界選手権台湾予選 | Xiao Zhenghao | Chen Shiyuan | W+0.5 | 2010-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AP384UsiGrwpWyEL3Yxleg%3D%3D) | 
-| 2010年アジア競技大会囲碁男子団体戦 | Iyama Yuta | Chen Shiyuan | B+R | 2010-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Iu0O%2BGFbaREBOvilaNDlA%3D%3D) | 
-| 2010年アジア競技大会囲碁男子団体戦 | Chen Shiyuan | Lee Sedol | W+R | 2010-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U%2FYyQiNjnnvnDbKDAJEozQ%3D%3D) | 
-| 2010年アジア競技大会囲碁男子団体戦 | Chen Shiyuan | Liu Xing | W+R | 2010-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T3Btb1NanRCnIwuci8aukQ%3D%3D) | 
-| 2010年国際新鋭囲碁対抗戦第3戦 | Anzai Nobuaki | Chen Shiyuan | W+0.5 | 2010-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MaoB87JeIEP1Vhd3yJcWrQ%3D%3D) | 
-| 2010年国際新鋭囲碁対抗戦第2戦 | Chen Yaoye | Chen Shiyuan | B+1.5 | 2010-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xbrLCHJXEX78E0mCP2maPg%3D%3D) | 
-| 2010年国際新鋭囲碁対抗戦第1戦 | Chen Shiyuan | Park Junghwan | W+6.5 | 2010-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yWpG3MdDZFNMC90KiBVyCA%3D%3D) | 
-| 第2回海峰杯プロ囲碁戦16強戦 | Zhou Keping | Chen Shiyuan | B+R | 2010-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6HNLHdp%2FXsN9UGKNc8GIwA%3D%3D) | 
-| 第2回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan | missing | B+R | 2010-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yiBM9WIiD3U8sIOgz%2B8uUQ%3D%3D) | 
-| 第15回三星火災杯統合予選準決勝 | Chen Shiyuan | Lee Hyungjin | W+3.5 | 2010-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NYY7k5UBjRQVmIdmnzmcvA%3D%3D) | 
-| 第3期棋王戦（台湾）挑戦手合七番勝負第4局 | Chen Shiyuan | Lin Zhihan | B+R | 2010-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IFTI5Ehm%2F1t1VUsD4XstaA%3D%3D) | 
-| 第3期棋王戦（台湾）挑戦手合七番勝負第3局 | Lin Zhihan | Chen Shiyuan | W+1.5 | 2010-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bNTq2WOaZ931en%2FrIY735Q%3D%3D) | 
-| 第3期棋王戦（台湾）挑戦手合七番勝負第2局 | Chen Shiyuan | Lin Zhihan | B+R | 2010-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NMaX%2FIVXyi7toZJFa90xjw%3D%3D) | 
-| 第3期棋王戦（台湾）挑戦手合七番勝負第1局 | Lin Zhihan | Chen Shiyuan | W+0.5 | 2010-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qQFMEXa5Y5lDmsjrWOfDdA%3D%3D) | 
-| 第9期天元戦（台湾）挑戦者決定プレーオフ | Xiao Zhenghao | Chen Shiyuan | B+0.5 | 2010-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JRCrERqh9CHUY4nhZ6mlJg%3D%3D) | 
-| 第23回世界囲碁選手権富士通杯1回戦 | Chen Shiyuan | Anzai Nobuaki | W+2.5 | 2010-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cuWcndER3%2FSoqfhIPXUFqw%3D%3D) | 
-| 第23回世界囲碁選手権富士通杯台湾予選決勝 | Zhou Junxun | Chen Shiyuan | W+R | 2010-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=25Gs4CMt6zt8uZ%2FdYmLTqA%3D%3D) | 
-| 第2回BCカード杯世界選手権1回戦 | Heo Yongho | Chen Shiyuan | B+R | 2010-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ULugYr3e5asVnlyElu%2FKrQ%3D%3D) | 
-| 第2回BCカード杯世界選手権台湾予選決勝 | Lin Zhihan | Chen Shiyuan | W+R | 2009-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qlmA2M6rmp%2B51RggLtpFTA%3D%3D) | 
-| 第2回BCカード杯世界選手権台湾予選 | Chen Shiyuan | Lin Lixiang | B+R | 2009-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tvci2iqZosbAwM9z8wL6qA%3D%3D) | 
-| 2009年国際新鋭囲碁対抗戦第3戦 | Chen Shiyuan | Iyama Yuta | B+R | 2009-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UU9IqAAPN9%2BniZUQjf1gow%3D%3D) | 
-| 2009年国際新鋭囲碁対抗戦第2戦 | Chen Yaoye | Chen Shiyuan | B+R | 2009-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o07RPBgGCvsA3ZsX42qu2Q%3D%3D) | 
-| 2009年国際新鋭囲碁対抗戦第1戦 | Kim Jiseok | Chen Shiyuan | B+3.5 | 2009-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HgGFGkcZL8jg95%2BH34pMEg%3D%3D) | 
-| 第1回海峰杯プロ囲碁戦決勝三番勝負第3局 | Lin Zhihan | Chen Shiyuan | B+R | 2009-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lipLxBwzWL9HNJqq%2BeK4xg%3D%3D) | 
-| 第1回海峰杯プロ囲碁戦決勝三番勝負第2局 | Lin Zhihan | Chen Shiyuan | W+R | 2009-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=htSVDHLoLTEvUO39mzVNoA%3D%3D) | 
-| 第1回海峰杯プロ囲碁戦決勝三番勝負第1局 | Chen Shiyuan | Lin Zhihan | W+R | 2009-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qoceGQMwj7mb2dET8rHjUg%3D%3D) | 
-| 第1回海峰杯プロ囲碁戦準決勝 | Lin Xiuping | Chen Shiyuan | W+R | 2009-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w8HIjHF2w4F%2Bzd4VUz7RTA%3D%3D) | 
-| 第1回海峰杯プロ囲碁戦8強戦 | Chen Shiyuan | Yu Keimin | B+R | 2009-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IO8640pqInWiva3Rvg%2FLrQ%3D%3D) | 
-| 第1回海峰杯プロ囲碁戦16強戦 | Zhou Pingqiang | Chen Shiyuan | W+R | 2009-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ueWuJCEubEHJiJKy9aKxHg%3D%3D) | 
-| 第1回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan | Zhang Zhengping | B+9.5 | 2009-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GHBonPBrgLaroTRn78RJQQ%3D%3D) | 
-| 第2期棋王戦（台湾）挑戦手合七番勝負第6局 | Chen Shiyuan | Zhou Junxun | B+1.5 | 2009-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YIyLlCMGck4yoWz7MkoDMw%3D%3D) | 
-| 第2期棋王戦（台湾）挑戦手合七番勝負第5局 | Zhou Junxun | Chen Shiyuan | B+R | 2009-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z0tIeea6khKzQTLWz3hhdw%3D%3D) | 
-| 第8期天元戦（台湾）挑戦手合五番勝負第5局 | Chen Shiyuan | Lin Zhihan | W+R | 2009-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MIAT6%2B%2F6YyJoAIXuOcjr5g%3D%3D) | 
-| 第2期棋王戦（台湾）挑戦手合七番勝負第4局 | Chen Shiyuan | Zhou Junxun | W+0.5 | 2009-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sTMy1YfKLrwWBxG2EzyB4g%3D%3D) | 
-| 第8期天元戦（台湾）挑戦手合五番勝負第4局 | Lin Zhihan | Chen Shiyuan | W+2.5 | 2009-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ClH6oPQZztm4Pw3rjgwZbw%3D%3D) | 
-| 第2期棋王戦（台湾）挑戦手合七番勝負第3局 | Zhou Junxun | Chen Shiyuan | W+0.5 | 2009-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0DRnh7ADS68eHFzxlel%2BNA%3D%3D) | 
-| 第2期棋王戦（台湾）挑戦手合七番勝負第2局 | Chen Shiyuan | Zhou Junxun | B+2.5 | 2009-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6rWnYBe4c%2BZ6MCsl3xRPwQ%3D%3D) | 
-| 第8期天元戦（台湾）挑戦手合五番勝負第3局 | Chen Shiyuan | Lin Zhihan | W+R | 2009-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4Y6Nw%2FMRCEmFcIIZvqObPg%3D%3D) | 
-| 第2期棋王戦（台湾）挑戦手合七番勝負第1局 | Zhou Junxun | Chen Shiyuan | W+1.5 | 2009-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v5lto7bcFZ3qKnwf9jARvw%3D%3D) | 
-| 第8期天元戦（台湾）挑戦手合五番勝負第2局 | Lin Zhihan | Chen Shiyuan | B+R | 2009-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pzk0MvGAwPrVfUF88kFwpg%3D%3D) | 
-| 第8期天元戦（台湾）挑戦手合五番勝負第1局 | Chen Shiyuan | Lin Zhihan | B+8.5 | 2009-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZwXg2Wlu5af4BG2CupF8tw%3D%3D) | 
-| 第14回LG杯世界棋王戦2回戦 | Chen Shiyuan | Qiu Jun | W+R | 2009-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NtabPnQ05B77%2Fxz1SuYfIw%3D%3D) | 
-| 第14回LG杯世界棋王戦1回戦 | Wang Xi | Chen Shiyuan | W+2.5 | 2009-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xV3GAl5F4jctAfbt0USaAg%3D%3D) | 
-| 第1回BCカード杯世界選手権2回戦 | Lee Sedol | Chen Shiyuan | B+R | 2009-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bsy9SZFTWCG7meuJBrbyXg%3D%3D) | 
-| 第1回BCカード杯世界選手権1回戦 | Chen Shiyuan | missing | B+R | 2009-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vLzwOvoWq%2BUjTNdxX%2Fu%2FaQ%3D%3D) | 
-| 2008年国際新鋭囲碁対抗戦第3戦 | Chen Shiyuan | Ko Iso | W+R | 2008-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QA5ygblej%2Bi0kGxWHSLf5g%3D%3D) | 
-| 2008年国際新鋭囲碁対抗戦第2戦 | Chen Shiyuan | Hong Seongji | B+3.5 | 2008-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UAsgM6%2B%2BZYL7MMT9%2FpDhFg%3D%3D) | 
-| 2008年国際新鋭囲碁対抗戦第1戦 | Tuo Jiaxi | Chen Shiyuan | W+R | 2008-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zgxEGQBB%2FPZmu8E4Lluoog%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦三位決定戦 | Chen Shiyuan | Yoda Norimoto | W+R | 2008-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LqsKlLYxAS3X8Uvjl%2FhxEQ%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Chang Hao | Chen Shiyuan | B+2.5 | 2008-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C6j5R6%2BIPJiG%2BQR3hKC3vQ%3D%3D) | 
-| 第4期王座戦（台湾）リーグ | Chen Shiyuan | Lin Shuyang | B+4.5 | 2008-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J9cPIzyrWPpWtIqEANDjPw%3D%3D) | 
-| 第1期棋王戦（台湾）決勝 | Zhou Junxun | Chen Shiyuan | B+4.5 | 2008-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H%2B83GTar876CrhvzNU%2FSkw%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦台湾予選 | Chen Shiyuan | Zhou Junxun | W+R | 2008-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S5IknNKA1ajh%2FrXOfNPGzw%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦台湾予選 | Chen Shiyuan | missing | B+R | 2008-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=znETONUv6rkRuS1GGraCUg%3D%3D) | 
-| 第7回春蘭杯世界囲碁選手権1回戦 | Chen Shiyuan | Wang Xi | W+R | 2008-03-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DmvOlTe%2BPa2A9QMULQvi6A%3D%3D) | 
-| 第3期王座戦（台湾）挑戦手合五番勝負第5局 | Zhou Junxun | Chen Shiyuan | B+0.5 | 2007-12-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B5FgmJzx5h7epprQl0i6Qg%3D%3D) | 
-| 第3期王座戦（台湾）挑戦手合五番勝負第3局 | Zhou Junxun | Chen Shiyuan | W+R | 2007-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yuqm0C7bbTPRwr6MY%2FccJQ%3D%3D) | 
-| 第3期王座戦（台湾）挑戦手合五番勝負第1局 | Zhou Junxun | Chen Shiyuan | W+R | 2007-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f7lbT%2FzJncYogHSZrnN0qA%3D%3D) | 
-| 第3期王座戦（台湾）リーグ | Chen Shiyuan | Huang Xiangren | B+R | 2007-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QI0JrXPHR9BZAa8L1MVL6Q%3D%3D) | 
-| 第3期王座戦（台湾）リーグ | Chen Feng | Chen Shiyuan | W+R | 2007-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fIDn%2BbOGw188m6euwkJIgQ%3D%3D) | 
-| 第3期王座戦（台湾）リーグ | Lin Shengxian | Chen Shiyuan | W+3.5 | 2007-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hwDKOmPRPq5Qx6rMgJTJ4g%3D%3D) | 
-| 第3期王座戦（台湾）リーグ | Chen Shiyuan | Lin Yuxiang | B+R | 2007-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VIN82Wh1yfNarAuSThHczg%3D%3D) | 
-| 第3期王座戦（台湾）リーグ | Chen Shiyuan | Lin Shuyang | B+2.5 | 2007-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l5uD7kDJK7uroSybkA7%2B7Q%3D%3D) | 
-| 第3期王座戦（台湾）リーグ | Xiao Zhenghao | Chen Shiyuan | W+R | 2007-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nUCJlNIb5MtaIrCSz28gKQ%3D%3D) | 
-| 第3期王座戦（台湾）リーグ | Chen Shiyuan | Lin Zhihan | B+R | 2007-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jpyQyUHqRLtUCsgsUxGHXQ%3D%3D) | 
-| 2007年国際新鋭囲碁対抗戦第3戦 | Chen Shiyuan | Iyama Yuta | W+R | 2007-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fMMnKVBhi7Dciv71DTjrHQ%3D%3D) | 
-| 2007年国際新鋭囲碁対抗戦第2戦 | Kong Jie | Chen Shiyuan | B+R | 2007-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W2nj8%2F8%2BhWT53beQVqWLgg%3D%3D) | 
-| 2007年国際新鋭囲碁対抗戦第1戦 | Chen Shiyuan | Lee Yeongkyu | B+R | 2007-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AxrDPFDyfquCgMNK8A4gbQ%3D%3D) | 
-| 第3期国手戦（台湾）挑戦手合五番勝負第5局 | Xiao Zhenghao | Chen Shiyuan | W+0.5 | 2007-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o7fBw73PWK1j41MLxqrW6A%3D%3D) | 
-| 第3期国手戦（台湾）挑戦手合五番勝負第4局 | Xiao Zhenghao | Chen Shiyuan | B+2.5 | 2007-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sTJwn1e0hG5%2Bj4hLJl9j8g%3D%3D) | 
-| 第3期国手戦（台湾）挑戦手合五番勝負第3局 | Chen Shiyuan | Xiao Zhenghao | W+1.5 | 2007-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4HJ9nkFQlHlMrY%2FwV8gm0g%3D%3D) | 
-| 第3期国手戦（台湾）挑戦手合五番勝負第2局 | Xiao Zhenghao | Chen Shiyuan | W+R | 2007-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ii3%2FwNWJr1qOKUkzoHPlkw%3D%3D) | 
-| 第3期国手戦（台湾）挑戦手合五番勝負第1局 | Chen Shiyuan | Xiao Zhenghao | B+R | 2007-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=so8PtF5rhCPP3GO6SL3ZxQ%3D%3D) | 
-| 第14期中環杯囲碁オープン戦決勝 | Chen Shiyuan | Xiao Zhenghao | W+0.5 | 2007-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sgHNPKuQ6tyj%2FkNGEyEfZg%3D%3D) | 
-| 第3回中環杯世界囲碁選手権1回戦 | Chen Shiyuan | Yamashita Keigo | W+R | 2007-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ofacGuHDbT0W4aA0cXUpFA%3D%3D) | 
-| 第6期天元戦（台湾）挑戦手合五番勝負第4局 | Zhou Junxun | Chen Shiyuan | W+R | 2007-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jnf9A6E8N5%2F95oz1m%2Fm%2BSg%3D%3D) | 
-| 第6期天元戦（台湾）挑戦手合五番勝負第3局 | Chen Shiyuan | Zhou Junxun | B+R | 2007-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BMgvXbccQHzhcg7ZkgI67g%3D%3D) | 
-| 第6期天元戦（台湾）挑戦手合五番勝負第2局 | Zhou Junxun | Chen Shiyuan | W+R | 2007-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mkwz5lo%2F0DgqYVegkQ2guQ%3D%3D) | 
-| 第14期中環杯囲碁オープン戦準決勝 | Chen Shiyuan | Xia Daming | B+R | 2007-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ir2vlFntmlrnfCadLW8bbQ%3D%3D) | 
-| 第6期天元戦（台湾）挑戦手合五番勝負第1局 | Chen Shiyuan | Zhou Junxun | W+R | 2007-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5%2Ba1z1O%2Bfx9BsW%2F8VSjk%2Bw%3D%3D) | 
-| 第14期中環杯囲碁オープン戦4回戦 | Lin Shuyang | Chen Shiyuan | W+R | 2007-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FReA%2FYaMkHWoOiORChIMHA%3D%3D) | 
-| 第6期天元戦（台湾）リーグ | Xiao Zhenghao | Chen Shiyuan | W+1.5 | 2007-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8O3TTNsL6WpKSpNLfk9t6w%3D%3D) | 
-| 第6期天元戦（台湾）リーグ | missing | Chen Shiyuan | W+R | 2007-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZlIAiz10LuFR7dkLtX2Ltg%3D%3D) | 
-| 第14期中環杯囲碁オープン戦3回戦 | Rao Ruiyong | Chen Shiyuan | W+R | 2007-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3CAXCmwOXDbPGr8VFZsuEA%3D%3D) | 
-| 第6期天元戦（台湾）リーグ | Lin Zhihan | Chen Shiyuan | B+R | 2007-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=We4RYVYFyZP1IGepUbx33A%3D%3D) | 
-| 第6期天元戦（台湾）リーグ | Chen Yida | Chen Shiyuan | W+R | 2007-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZeWAUebPGATg4JsC5YPzIQ%3D%3D) | 
-| 第6期天元戦（台湾）リーグ | Lin Shuyang | Chen Shiyuan | W+R | 2007-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6GAwkrhHyioQtdSdGwPpYQ%3D%3D) | 
-| 第6期天元戦（台湾）リーグ | Yu Keimin | Chen Shiyuan | W+R | 2007-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EI6bf%2FXU%2BYHp8zOW3Qt8nQ%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯台湾予選決勝 | Zhou Junxun | Chen Shiyuan | B+R | 2007-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h9Zw%2FwLRYioDDAzbsgwVGA%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯台湾予選 | Zhou Keping | Chen Shiyuan | W+R | 2007-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a4x6maTTZHzQ%2FYZHbL%2Bk9w%3D%3D) | 
-| 第2期王座戦（台湾）挑戦手合五番勝負第4局 | Chen Shiyuan | Zhou Junxun | W+7.5 | 2006-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JRxzqqxIAf4ZnXL7Kg%2FqNQ%3D%3D) | 
-| 第2期王座戦（台湾）挑戦手合五番勝負第3局 | Zhou Junxun | Chen Shiyuan | B+R | 2006-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mz344%2F4ofrE3MxLj7ZyJWQ%3D%3D) | 
-| 第2期王座戦（台湾）挑戦手合五番勝負第2局 | Chen Shiyuan | Zhou Junxun | B+R | 2006-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JkQkmMHlRIzAd5LyFE1lRQ%3D%3D) | 
-| 第2期王座戦（台湾）挑戦手合五番勝負第1局 | Zhou Junxun | Chen Shiyuan | B+R | 2006-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FAmmsX0NgHd32Hj5S7DWrQ%3D%3D) | 
-| 2006年国際新鋭囲碁対抗戦第3戦 | Chen Shiyuan | Matsumoto Takehisa | W+2.5 | 2006-11-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A%2FlXIMb1EWqgSgiNAvICBA%3D%3D) | 
-| 2006年国際新鋭囲碁対抗戦第2戦 | Chen Shiyuan | Piao Wenyao | W+R | 2006-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=44dKyDdLDQsmWuz4dk8OTA%3D%3D) | 
-| 2006年国際新鋭囲碁対抗戦第1戦 | Ko Keuntae | Chen Shiyuan | W+2.5 | 2006-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zhVHq6wSWlZUTalFXP2y4A%3D%3D) | 
-| 第2期王座戦（台湾）リーグ | Chen Shiyuan | Huang Xiangren | B+R | 2006-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KLItV8%2FtlsdIk7vHlJPAOQ%3D%3D) | 
-| 第2期王座戦（台湾）リーグ | Lin Zhihan | Chen Shiyuan | W+1.5 | 2006-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MV3EaZGIHobJ8lMj0vHaNw%3D%3D) | 
-| 第2期王座戦（台湾）リーグ | Chen Shiyuan | Yang Mengyun | B+R | 2006-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IKdLIXrAyJLVzhWJ83%2FhmA%3D%3D) | 
-| 第13期中環杯囲碁オープン戦準決勝 | Yu Keimin | Chen Shiyuan | B+R | 2006-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2WKwt%2FzJSCC59PFaighbpg%3D%3D) | 
-| 第2期国手戦（台湾）挑戦手合五番勝負第3局 | Chen Shiyuan | Xiao Zhenghao | B+R | 2006-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7aAC24VcHO2%2FJe2c3pVzDg%3D%3D) | 
-| 第2期国手戦（台湾）挑戦手合五番勝負第2局 | Xiao Zhenghao | Chen Shiyuan | W+15.5 | 2006-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q2fIbbfSS0EpRHXNJo4T3Q%3D%3D) | 
-| 第2期国手戦（台湾）挑戦手合五番勝負第1局 | Chen Shiyuan | Xiao Zhenghao | B+5.5 | 2006-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mXIfJeJRwCz1vAi3VBZr7Q%3D%3D) | 
-| 第2期王座戦（台湾）リーグ | Zhou Yinnan | Chen Shiyuan | W+R | 2006-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L7uPfTMtbkKBJvLHSV9b2w%3D%3D) | 
-| 第2期王座戦（台湾）リーグ | Chen Shiyuan | Chen Yida | W+2.5 | 2006-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ti1ZacbYkIT1NVsTsufZTQ%3D%3D) | 
-| 第6期東鋼杯プロ囲碁戦3回戦 | Chen Shiyuan | Zhou Junxun | W+6.5 | 2006-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SmmBh3bvlPxfX59d7FMy7Q%3D%3D) | 
-| 第2期国手戦（台湾）リーグ | Chen Shiyuan | Huang Xiangren | B+R | 2006-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iRWfWakUXBml5S35jMKFYg%3D%3D) | 
-| 第2期国手戦（台湾）リーグ | Chen Shiyuan | missing | W+1.5 | 2006-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U1u%2BnGrGqnceiqxFc8RKMQ%3D%3D) | 
-| 第2期国手戦（台湾）リーグ | missing | Chen Shiyuan | W+R | 2006-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kh2kNTRbtEuE8VA%2Flfq9Dg%3D%3D) | 
-| 第2期王座戦（台湾）リーグ | Xiao Zhenghao | Chen Shiyuan | W+3.5 | 2006-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1RPLw1inoTmSD2zYjfOGyQ%3D%3D) | 
-| 第2期国手戦（台湾）リーグ | Zhou Yinnan | Chen Shiyuan | W+6.5 | 2006-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xlYx1EeQPqCLEQS4%2BdBKrg%3D%3D) | 
-| 第2期国手戦（台湾）リーグ | Chen Shiyuan | Chen Yida | B+R | 2006-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RgUVIirpStyIB6DcC08cHw%3D%3D) | 
-| 第2期国手戦（台湾）リーグ | Zhou Junxun | Chen Shiyuan | W+2.5 | 2006-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8majxsKZOIBYaXnUHVU1Cg%3D%3D) | 
-| 第5期天元戦（台湾）リーグ | Yu Keimin | Chen Shiyuan | B+1.5 | 2006-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qatP%2BKgeIN1hmeZZ6K1FGw%3D%3D) | 
-| 第5期天元戦（台湾）リーグ | Chen Shiyuan | Xia Daming | B+R | 2006-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N0szBFARREUe8GZH%2Frzx3w%3D%3D) | 
-| 第5期天元戦（台湾）リーグ | Lin Zhihan | Chen Shiyuan | W+4.5 | 2006-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G3103WrFnxiJ7SntYKI4Vg%3D%3D) | 
-| 第5期天元戦（台湾）リーグ | Zhou Yinnan | Chen Shiyuan | W+R | 2006-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tiSvgW0VHcKqy9TiYZJ13w%3D%3D) | 
-| 第5期天元戦（台湾）リーグ | Zhou Pingqiang | Chen Shiyuan | W+R | 2006-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G0jCaIc%2FASxo8MV4J4EwJQ%3D%3D) | 
-| 第5期天元戦（台湾）リーグ | Lin Shuyang | Chen Shiyuan | B+0.5 | 2006-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LKqiZhSiQJBLDrnyvwXngQ%3D%3D) | 
-| 第5期天元戦（台湾）リーグ | Chen Shiyuan | missing | B+R | 2006-05-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jwFAmNyO1PylPddqEPoC9A%3D%3D) | 
-| 第5期天元戦（台湾）予選 | Chen Shiyuan | Zhou Keping | B+7.5 | 2006-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xYovlb6hD9WEAUqotro8YA%3D%3D) | 
-| 第5期天元戦（台湾）予選 | Chen Shiyuan | Lin Shengxian | B+4.5 | 2006-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h2Hgcf%2FRO9hWC%2B%2FkPNz72w%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第3戦 | Chen Shiyuan | Yuki Satoshi | W+4.5 | 2006-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rhn%2F%2BUC9xJDpujkBziJHbg%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第2戦 | Ko Keuntae | Chen Shiyuan | B+R | 2006-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WSChEW0QlAdlYPGNFyDr%2BQ%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第1戦 | Chen Shiyuan | Xie He | W+0.5 | 2006-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jZCIKguKrtNNeXfvH%2F54mw%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦台湾予選 | Chen Shiyuan | Zhou Junxun | W+R | 2006-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=htWaQ1yoXmleh%2FQKYu0Y1A%3D%3D) | 
-| 第1期王座戦（台湾）リーグ | Zhou Keping | Chen Shiyuan | W+14.5 | 2006-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xyaZa88w4lLvFLWac56EYQ%3D%3D) | 
-| 第1期王座戦（台湾）リーグ | Lin Shengxian | Chen Shiyuan | W+1.5 | 2006-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U2N3uFROhWuUZp4gJJj%2FqA%3D%3D) | 
-| 第5期天元戦（台湾）予選 | missing | Chen Shiyuan | W+7.5 | 2006-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pi88YkvkGtLBh2j5VELLQw%3D%3D) | 
-| 第5期天元戦（台湾）予選 | Chen Shiyuan | Xiao Zhenghao | B+5.5 | 2006-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FGbo1PvVW4UcpQ5NTf%2F2ng%3D%3D) | 
-| 第1期王座戦（台湾）リーグ | Chen Shiyuan | Lin Zhihan | W+2.5 | 2006-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lr%2BIZW6z21ga6bwYphUvlw%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦台湾予選 | Chen Shiyuan | Yang Mengyun | B+R | 2006-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vuJjUPKYTEF59bYuVCg4aQ%3D%3D) | 
-| 第1期王座戦（台湾）リーグ | missing | Chen Shiyuan | W+8.5 | 2006-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rcsq648rOV5maZwYkJWHSA%3D%3D) | 
-| 第5期新人王戦（旧｜台湾）2回戦 | Lin Zhihan | Chen Shiyuan | B+R | 2006-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4zuthJRFfp8YJH5SVTTmmw%3D%3D) | 
-| 第1期王座戦（台湾）リーグ | Chen Shiyuan | Huang Xiangren | W+R | 2006-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UJxR3kJJHqFvJ4IfWqltTg%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦台湾選抜戦 | Chen Shiyuan | Zhou Junxun | B+0.5 | 2006-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=19wKuXIAoWGLX3hRu5sbBQ%3D%3D) | 
-| 第1期王座戦（台湾）リーグ | Chen Shiyuan | Xiao Zhenghao | B+R | 2006-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RB%2B8%2F0I%2FGpeylUzF8KTMzA%3D%3D) | 
-| 第1期王座戦（台湾）リーグ | Chen Shiyuan | Yu Keimin | B+1.5 | 2006-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PmehiggDh1gi6ZcutbxK6Q%3D%3D) | 
-| 第5期天元戦（台湾）予選 | Zhang Zhengping | Chen Shiyuan | W+R | 2006-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MuOkftlD1%2BY0TzCftSbTwA%3D%3D) | 
-| 第5期天元戦（台湾）予選 | Chen Shiyuan | Xia Daming | W+R | 2006-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4HKQS7OGDF1Vv1g9P4DhmQ%3D%3D) | 
-| 第5期新人王戦（旧｜台湾）1回戦 | Zhou Pingqiang | Chen Shiyuan | W+R | 2006-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ngTNUDDSPJ0iI1mJObC0Ig%3D%3D) | 
-| 第1期王座戦（台湾）予選 | missing | Chen Shiyuan | W+4.5 | 2006-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IxGnYdfkJbhhV8zp5sQMKQ%3D%3D) | 
-| 第6回CMC杯テレビ早碁戦2回戦 | Lin Zhihan | Chen Shiyuan | B+R | 2006-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b5tQLjVFx1W%2Bx48b3sMRrQ%3D%3D) | 
-| 第1期王座戦（台湾）予選 | Lin Shuyang | Chen Shiyuan | W+4.5 | 2005-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aTf%2FlC7GRcnDevDY4SMPSw%3D%3D) | 
-| 第5期東鋼杯プロ囲碁戦決勝三番勝負第2局 | Dai Jiashen | Chen Shiyuan | W+R | 2005-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=baZMD8K7InvgGBzTuYIS8Q%3D%3D) | 
-| 第5期東鋼杯プロ囲碁戦決勝三番勝負第1局 | Chen Shiyuan | Dai Jiashen | B+1.5 | 2005-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wQm1wit1RhFcFrv7R98veg%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第3戦 | Chen Shiyuan | Kono Rin | B+R | 2005-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sLRAfx3GBpEsybYAd%2Bpmbg%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第2戦 | Chen Shiyuan | Song Taekon | W+R | 2005-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YTDWQwLSQHrznzKhDvw7JQ%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第1戦 | Chen Shiyuan | Peng Quan | W+5.5 | 2005-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VL8MHgD4m4liwDKkQGDvnw%3D%3D) | 
-| 第1期国手戦（台湾）リーグ | Lin Shengxian | Chen Shiyuan | W+6.5 | 2005-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FDI%2FHfwKR%2B%2BgTegZxvKojA%3D%3D) | 
-| 第1期国手戦（台湾）リーグ | Lin Shuyang | Chen Shiyuan | W+R | 2005-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FBP7a%2BzR2xzXlEaB9J3Gng%3D%3D) | 
-| 第5期東鋼杯プロ囲碁戦準決勝 | Chen Shiyuan | Huang Xiangren | B+R | 2005-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8CxGH5OO1dy7kG%2FW877lGw%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権1回戦 | Wang Xi | Chen Shiyuan | B+R | 2005-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lLMyyEo9F8AlGHb4IRwn8Q%3D%3D) | 
-| 第1期王座戦（台湾）予選 | Chen Shiyuan | missing | B+R | 2005-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=86jkVZWprV%2BrJq588%2FuBAw%3D%3D) | 
-| 第1期国手戦（台湾）リーグ | Chen Shiyuan | Zhou Pingqiang | B+R | 2005-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vZf3OmZllzswqLwsdYFSPA%3D%3D) | 
-| 第10回三星火災杯予選決勝 | Chen Shiyuan | Seo Musang | B+R | 2005-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HngOPb50lGdvhFlOTFXKYw%3D%3D) | 
-| 第2回中環杯世界囲碁選手権1回戦 | Yoda Norimoto | Chen Shiyuan | B+R | 2005-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=48Eq9cSMtRowPjccz3O7Iw%3D%3D) | 
-| 第5期東鋼杯プロ囲碁戦2回戦 | Zhou Pingqiang | Chen Shiyuan | W+R | 2005-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gCKelL0x1HEtZM3JPT1Qyw%3D%3D) | 
-| 第1期国手戦（台湾）リーグ | Chen Shiyuan | missing | B+10.5 | 2005-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kKdXwwF5aYg%2FwT8hG6H0Pw%3D%3D) | 
-| 第5期東鋼杯プロ囲碁戦1回戦 | Xia Daming | Chen Shiyuan | W+R | 2005-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2btCBxyF6%2B5DhSUHH8P1Ng%3D%3D) | 
-| 第1期国手戦（台湾）リーグ | Dai Jiashen | Chen Shiyuan | W+R | 2005-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sDJyZ0c%2FIWtommrHj1f7Mg%3D%3D) | 
-| 第1期国手戦（台湾）リーグ | Huang Xiangren | Chen Shiyuan | B+0.5 | 2005-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pxb9TK%2F4%2FkeuDYQR4d2w%2Bw%3D%3D) | 
-| 第1期国手戦（台湾）リーグ | Chen Shiyuan | Lin Zhihan | B+3.5 | 2005-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xoykme1C%2BBRrk7wyvfKSQw%3D%3D) | 
-| 第1期国手戦（台湾）予選 | Zhou Pingqiang | Chen Shiyuan | W+R | 2005-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u2GkMVuTYhaQl8SEMq2hHw%3D%3D) | 
-| 第1期国手戦（台湾）予選 | Chen Shiyuan | Liu Jianchang | B+5.5 | 2005-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1X31brWW9Zkh74FimoKXjg%3D%3D) | 
-| 第9期SKガス杯新鋭プロ十傑戦リーグA | Chen Shiyuan | Lee Hyeonwuk | W+R | 2005-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RjZvlg9jTYFzUEB1ufStRw%3D%3D) | 
-| 第9期SKガス杯新鋭プロ十傑戦リーグA | Cho Hyeyeon | Chen Shiyuan | B+R | 2005-03-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T8Of86dhOtEmUUZ4OEBA5w%3D%3D) | 
-| 第4期天元戦（台湾）予選 | Chen Shiyuan | Xu Changzheng | W+0.5 | 2005-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OT2WjUGorWSox1tUT7xKSg%3D%3D) | 
-| 第9期SKガス杯新鋭プロ十傑戦リーグA | Chen Shiyuan | Yun Junsang | W+R | 2004-12-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gi3Rai0%2BXdDJL0vXcMnBog%3D%3D) | 
-| 第9期SKガス杯新鋭プロ十傑戦リーグA | Kang Dongyun | Chen Shiyuan | B+R | 2004-12-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dvSNpsWbWadnukKEZw890Q%3D%3D) | 
-| 第8期SKガス杯新鋭プロ十傑戦七位決定戦 | Cho Hyeyeon | Chen Shiyuan | B+R | 2004-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E81sIJN5rqiYGZXcytmNNg%3D%3D) | 
-| 第8期SKガス杯新鋭プロ十傑戦リーグA | Chen Shiyuan | Park Seunghyeon | W+2.5 | 2004-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a4o9sWv94pE67%2BRbfRWSQg%3D%3D) | 
-| 第8期SKガス杯新鋭プロ十傑戦リーグA | missing | Chen Shiyuan | W+4.5 | 2004-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=COeHlBcpkc0YuQsSy5l%2FzA%3D%3D) | 
-| 第8期SKガス杯新鋭プロ十傑戦リーグA | Park Cheongsang | Chen Shiyuan | W+0.5 | 2004-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5YSaGFqDBNYO%2FJAufU0AlQ%3D%3D) | 
-| 第8期SKガス杯新鋭プロ十傑戦リーグA | Paek Daehyun | Chen Shiyuan | B+5.5 | 2004-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qm3i5HD3TL0jL18SYwOrIQ%3D%3D) | 
-| 第8期SKガス杯新鋭プロ十傑戦リーグA | Chen Shiyuan | Park Shiun | B+1.5 | 2004-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Dxhy0SQCPuyBssgUliRqQ%3D%3D) | 
-| 第14期BCカード杯新人王戦 | An Joyeong | Chen Shiyuan | B+R | 2003-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7C54Odi0PCFC5yJi8vHLKw%3D%3D) | 
-| 第3期オスラムコリア杯新鋭連勝最強戦 | Chen Shiyuan | Park Yeonghun | B+R | 2003-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6L7zMTNH8IhKTIhU%2BjvNzg%3D%3D) | 
-| 第3期オスラムコリア杯新鋭連勝最強戦 | Chen Shiyuan | Heo Yongho | W+R | 2003-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=19GW%2BUk0YRbWSaGlA1Kjcg%3D%3D) | 
-| 第2期KT杯マスターズプロ棋戦2回戦 | Chen Shiyuan | Yoo Changhyuk | W+4.5 | 2002-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nN4rT7plajad0mvKmaDXAA%3D%3D) | 
-| 第1期KTF杯戦 | Chen Shiyuan | missing | W+R | 2002-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0fZpzc%2FPoAHai1ez6JINZQ%3D%3D) | 
-| 第1期KTF杯戦 | Chen Shiyuan | Yoo Changhyuk | W+3.5 | 2002-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o4WkfcqUs82JRPFEO91BXA%3D%3D) | 
-| 第1期KTF杯戦 | Lee Changho | Chen Shiyuan | B+R | 2002-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K%2FUFgDVMK2ewFyfqRosgoA%3D%3D) | 
-| 第1期KTF杯戦 | Im Seongkeun | Chen Shiyuan | B+R | 2001-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FX3C3NAj%2FoBmNUfHtg2vxg%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-17 | 第2期聯電杯プロ囲碁戦リーグ |  | Chen Shiyuan | Win | W+R | 6.5 | 3046 | 118 | 
+| 2021-08-15 | 第2期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Xu Haohong | Lose | W+R | 6.5 | 2928 | -76 | 
+| 2021-05-13 | 第11期友士杯十段戦敗部3回戦 | Lin Lixiang | Chen Shiyuan | Win | W+R | 6.5 | 3004 | 18 | 
+| 2021-05-10 | 第11期友士杯十段戦敗部2回戦 | Chen Shiyuan | Yang Bowei | Win | B+R | 6.5 | 2986 | 9 | 
+| 2021-05-03 | 第11期友士杯十段戦勝部2回戦 | Chen Shiyuan | Lin Junyan | Lose | W+R | 6.5 | 2977 | -23 | 
+| 2021-04-26 | 第11期友士杯十段戦勝部1回戦 | Chen Xi | Chen Shiyuan | Win | W+4.5 | 6.5 | 3000 | -41 | 
+| 2021-04-12 | 第11期友士杯十段戦予選 | Cai Chengwei | Chen Shiyuan | Win | W+6.5 | 6.5 | 3041 | 3 | 
+| 2021-04-02 | 第17期国手戦（台湾） |  | Chen Shiyuan | Lose | B+0.5 | 6.5 | 3038 | -20 | 
+| 2021-03-31 | 第26回LG杯台湾予選 | Chen Shiyuan | Xu Jingen | Lose | W+R | 6.5 | 3058 | 0 | 
+| 2021-03-31 | 第26回LG杯台湾予選 | Chen Shiyuan | Xu Yuqi | Win | B+R | 6.5 | 3058 | -7 | 
+| 2021-03-29 | 第11期友士杯十段戦予選 | Chen Shiyuan | Gao Yun | Win | B+3.5 | 6.5 | 3065 | 0 | 
+| 2021-03-29 | 第11期友士杯十段戦予選 | Chen Shiyuan | Zhang Zhehao | Win | B+7.5 | 6.5 | 3065 | 21 | 
+| 2021-03-26 | 第17期国手戦（台湾） | Chen Shiyuan | Jian Jingting | Win | B+R | 6.5 | 3044 | -87 | 
+| 2021-03-15 | 第2期名人冠軍戦3回戦 | Lin Junyan | Chen Shiyuan | Lose | B+R | 6.5 | 3131 | 5 | 
+| 2021-03-11 | 第2期名人冠軍戦2回戦 | Jian Jingting | Chen Shiyuan | Win | W+R | 6.5 | 3126 | 7 | 
+| 2021-03-08 | 第2期名人冠軍戦1回戦 | Chen Shiyuan | Lin Xinwei | Win | B+R | 6.5 | 3119 | 6 | 
+| 2021-02-25 | 第2期名人冠軍戦予選 | Chen Shiyuan |  | Win | B+R | 6.5 | 3113 | -15 | 
+| 2021-02-22 | 第2期名人冠軍戦予選 | Chen Shiyuan |  | Win | B+R | 6.5 | 3128 | -90 | 
+| 2021-02-02 | 第20期天元戦（台湾）敗部4回戦 | Chen Shiyuan | Lin Lixiang | Lose | W+R | 6.5 | 3218 | -9 | 
+| 2021-01-29 | 第20期天元戦（台湾）敗部3回戦 | Li Wei | Chen Shiyuan | Win | W+R | 6.5 | 3227 | 9 | 
+| 2021-01-26 | 第20期天元戦（台湾）敗部2回戦 | Chen Shiyuan | Huang Shiyuan | Win | B+R | 6.5 | 3218 | 7 | 
+| 2021-01-22 | 第20期天元戦（台湾）勝部2回戦 | Chen Shiyuan | Chen Xi | Lose | W+R | 6.5 | 3211 | -14 | 
+| 2021-01-21 | 第13回海峰杯プロ囲碁戦3回戦 | Xiao Zhenghao | Chen Shiyuan | Lose | B+R | 6.5 | 3225 | 9 | 
+| 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Lin Shimin | Chen Shiyuan | Win | W+R | 6.5 | 3216 | 31 | 
+| 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 |  | Chen Shiyuan | Win | W+R | 6.5 | 3185 | 5 | 
+| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Chen Shiyuan | Dang Xiyun | Win | B+R | 6.5 | 3180 | 6 | 
+| 2020-11-22 | 2020年中国囲碁乙級リーグ | Chen Shiyuan |  | Lose | W+¼ | 7.5 | 3174 | -3 | 
+| 2020-11-21 | 2020年中国囲碁乙級リーグ |  | Chen Shiyuan | Win | W+¼ | 7.5 | 3177 | 0 | 
+| 2020-11-20 | 2020年中国囲碁乙級リーグ |  | Chen Shiyuan | Lose | B+¾ | 7.5 | 3177 | -2 | 
+| 2020-11-19 | 2020年中国囲碁乙級リーグ | Wang Lei (s) | Chen Shiyuan | Lose | B+R | 7.5 | 3179 | 1 | 
+| 2020-11-17 | 2020年中国囲碁乙級リーグ | Chen Shiyuan |  | Lose | W+R | 7.5 | 3178 | 8 | 
+| 2020-11-16 | 2020年中国囲碁乙級リーグ | Chen Shiyuan | Kim Myounghoon | Lose | W+¼ | 7.5 | 3170 | -2 | 
+| 2020-11-15 | 2020年中国囲碁乙級リーグ | Chen Shiyuan | Iyama Yuta | Lose | W+R | 7.5 | 3172 | -11 | 
+| 2020-11-14 | 2020年中国囲碁乙級リーグ |  | Chen Shiyuan | Lose | B+R | 7.5 | 3183 | 1 | 
+| 2020-10-21 | 第1回UMC聯電杯早碁争覇戦2回戦 |  | Chen Shiyuan | Lose | B+0.5 | 6.5 | 3182 | -11 | 
+| 2020-10-08 | 第13期棋王戦（台湾）予選 | Yang Bowei | Chen Shiyuan | Lose | B+R | 6.5 | 3193 | -28 | 
+| 2020-10-05 | 第13期棋王戦（台湾）予選 | Chen Shiyuan | Zhang Zhehao | Win | B+R | 6.5 | 3221 | -7 | 
+| 2020-09-28 | 第13期棋王戦（台湾）予選 | Lai Junfu | Chen Shiyuan | Lose | B+R | 6.5 | 3228 | 53 | 
+| 2020-09-24 | 第13期棋王戦（台湾）予選 | Lin Shixun | Chen Shiyuan | Win | W+R | 6.5 | 3175 | 11 | 
+| 2020-09-22 | 第16期国手戦（台湾）2回戦 | Chen Shiyuan |  | Lose | W+0.5 | 6.5 | 3164 | 6 | 
+| 2020-09-13 | 第8期中環碁聖戦2回戦 | Chen Shiyuan | Xiao Zhenghao | Lose | W+R | 6.5 | 3158 | 20 | 
+| 2020-09-04 | 第1期聯電杯プロ囲碁戦リーグ | Lai Junfu | Chen Shiyuan | Lose | B+R | 6.5 | 3138 | -30 | 
+| 2020-08-26 | 第1期名人冠軍戦準決勝三番勝負第2局  | Chen Shiyuan | Xu Haohong | Lose | W+1.5 | 6.5 | 3168 | 0 | 
+| 2020-08-25 | 第1期聯電杯プロ囲碁戦リーグ | Chen Qirui | Chen Shiyuan | Win | W+R | 6.5 | 3168 | 7 | 
+| 2020-08-24 | 第1期名人冠軍戦準決勝三番勝負第1局  | Xu Haohong | Chen Shiyuan | Lose | B+R | 6.5 | 3161 | -2 | 
+| 2020-08-21 | 第1期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Lu Yiquan | Lose | W+1.5 | 6.5 | 3163 | 142 | 
+| 2020-07-23 | 第1期名人冠軍戦3回戦 | Chen Shiyuan | Lin Lixiang | Win | B+R | 6.5 | 3021 | 14 | 
+| 2020-07-20 | 第1期名人冠軍戦2回戦 | Chen Shiyuan | Zhou Junxun | Win | B+1.5 | 6.5 | 3007 | -27 | 
+| 2020-07-16 | 第1期名人冠軍戦1回戦 | Chen Qirui | Chen Shiyuan | Win | W+R | 6.5 | 3034 | 28 | 
+| 2020-07-07 | 第1期聯電杯プロ囲碁戦リーグ | Li Wei | Chen Shiyuan | Win | W+R | 6.5 | 3006 | 5 | 
+| 2020-07-03 | 第1期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Wang Yuanjun | Lose | W+4.5 | 6.5 | 3001 | 13 | 
+| 2020-06-23 | 第1期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Chen Shiyuan | Win | W+5.5 | 6.5 | 2988 | 17 | 
+| 2020-06-19 | 第1期聯電杯プロ囲碁戦リーグ | Chen Shiyuan |  | Win | B+R | 6.5 | 2971 | 16 | 
+| 2020-06-16 | 第1期聯電杯プロ囲碁戦予選敗部2回戦 | Chen Shiyuan |  | Win | B+R | 6.5 | 2955 | 5 | 
+| 2020-06-12 | 第1期聯電杯プロ囲碁戦予選敗部1回戦 | Chen Shiyuan | Yang Zixuan | Win | B+R | 6.5 | 2950 | 0 | 
+| 2020-06-09 | 第1期聯電杯プロ囲碁戦予選勝部1回戦 | Chen Shiyuan | Chen Qirui | Lose | W+1.5 | 6.5 | 2950 | -7 | 
+| 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 |  | Chen Shiyuan | Win | W+R | 6.5 | 2957 | -2 | 
+| 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Liu Yifang | Chen Shiyuan | Win | W+R | 6.5 | 2959 | 68 | 
+| 2020-04-28 | 第19期天元戦（台湾）リーグ | Lai Junfu | Chen Shiyuan | Win | W+R | 6.5 | 2891 | 12 | 
+| 2020-04-21 | 第19期天元戦（台湾）リーグ | Chen Shiyuan | Xiao Zhenghao | Win | B+2.5 | 6.5 | 2879 | 10 | 
+| 2020-04-20 | 第10期友士杯十段戦敗部3回戦 | Chen Qirui | Chen Shiyuan | Lose | B+R | 6.5 | 2869 | 4 | 
+| 2020-04-16 | 第10期友士杯十段戦敗部2回戦 | Xu Jingen | Chen Shiyuan | Win | W+R | 6.5 | 2865 | 13 | 
+| 2020-04-14 | 第19期天元戦（台湾）リーグ | Chen Shiyuan | Jian Jingting | Win | B+R | 6.5 | 2852 | 15 | 
+| 2020-04-13 | 第10期友士杯十段戦敗部1回戦 |  | Chen Shiyuan | Win | W+R | 6.5 | 2837 | 38 | 
+| 2020-04-09 | 第10期友士杯十段戦勝部1回戦 | Lin Lixiang | Chen Shiyuan | Lose | B+5.5 | 6.5 | 2799 | 13 | 
+| 2020-04-07 | 第19期天元戦（台湾）リーグ | Chen Shiyuan | Xu Haohong | Lose | W+R | 6.5 | 2786 | 5 | 
+| 2020-03-31 | 第19期天元戦（台湾）リーグ | Chen Shiyuan | Chen Qirui | Lose | W+R | 6.5 | 2781 | -8 | 
+| 2020-03-24 | 第19期天元戦（台湾）リーグ | Lin Shixun | Chen Shiyuan | Lose | B+R | 6.5 | 2789 | 9 | 
+| 2020-03-19 | 第10期友士杯十段戦予選勝部決勝 | Lin Shuyang | Chen Shiyuan | Win | W+3.5 | 6.5 | 2780 | 3 | 
+| 2020-03-17 | 第19期天元戦（台湾）リーグ | Chen Shiyuan | Wang Yuanjun | Lose | W+R | 6.5 | 2777 | -3 | 
+| 2020-03-12 | 第10期友士杯十段戦予選勝部2回戦 | Cai Chengwei | Chen Shiyuan | Win | W+4.5 | 6.5 | 2780 | 0 | 
+| 2020-03-12 | 第10期友士杯十段戦予選勝部1回戦 | Huang Shiyuan | Chen Shiyuan | Win | W+R | 6.5 | 2780 | 6 | 
+| 2020-03-10 | 第19期天元戦（台湾）敗部4回戦 | Chen Shiyuan | Li Wei | Win | B+2.5 | 6.5 | 2774 | 10 | 
+| 2020-03-02 | 第12回海峰杯プロ囲碁戦16強戦 | Lin Shixun | Chen Shiyuan | Lose | B+R | 6.5 | 2764 | -24 | 
+| 2020-02-25 | 第19期天元戦（台湾）勝部3回戦 | Chen Shiyuan | Lai Junfu | Lose | W+R | 6.5 | 2788 | -10 | 
+| 2020-02-24 | 第12回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan | Cai Chengwei | Win | B+R | 6.5 | 2798 | 31 | 
+| 2020-02-21 | 第25回LG杯台湾代表選抜戦 | Chen Shiyuan | Lin Shixun | Lose | W+2.5 | 6.5 | 2767 | -6 | 
+| 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Cai Wenhe | Chen Shiyuan | Win | W+R | 6.5 | 2773 | -7 | 
+| 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Ding Shaojie | Chen Shiyuan | Win | W+R | 6.5 | 2780 | -10 | 
+| 2020-02-18 | 第19期天元戦（台湾）勝部2回戦 | Chen Shiyuan | Lin Shuyang | Win | B+R | 6.5 | 2790 | -142 | 
+| 2020-02-13 | 第1期名人冠軍戦予選勝部決勝 |  | Chen Shiyuan | Win | W+0.5 | 6.5 | 2932 | -100 | 
+| 2020-02-11 | 第19期天元戦（台湾）勝部1回戦 | Xu Yuqi | Chen Shiyuan | Win | W+R | 6.5 | 3032 | 10 | 
+| 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Chen Shiyuan |  | Win | B+R | 6.5 | 3022 | -22 | 
+| 2020-01-21 | 2020年日台精鋭交流戦第6戦 | Chen Shiyuan | Seki Kotaro | Lose | W+R | 6.5 | 3044 | 0 | 
+| 2020-01-21 | 2020年日台精鋭交流戦第5戦 | Adachi Toshimasa | Chen Shiyuan | Win | W+3.5 | 6.5 | 3044 | -21 | 
+| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Chen Qirui | Chen Shiyuan | Lose | B+R | 7.5 | 3065 | 0 | 
+| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Chen Shiyuan |  | Win | B+R | 7.5 | 3065 | 279 | 
+| 2019-12-02 | 第12期棋王戦（台湾）リーグ | Lin Lixiang | Chen Shiyuan | Lose | B+R | 6.5 | 2786 | -6 | 
+| 2019-11-28 | 第12期棋王戦（台湾）リーグ | Xu Yuqi | Chen Shiyuan | Lose | B+R | 6.5 | 2792 | -15 | 
+| 2019-11-25 | 第12期棋王戦（台湾）リーグ | Chen Shiyuan | Chen Qirui | Win | B+R | 6.5 | 2807 | 5 | 
+| 2019-11-21 | 第12期棋王戦（台湾）リーグ | Chen Shiyuan | Wang Yuanjun | Lose | W+R | 6.5 | 2802 | -11 | 
+| 2019-11-18 | 第12期棋王戦（台湾）リーグ | Chen Shiyuan | Jian Jingting | Lose | W+0.5 | 6.5 | 2813 | -4 | 
+| 2019-11-14 | 第12期棋王戦（台湾）リーグ | Chen Shiyuan | Li Wei | Win | B+R | 6.5 | 2817 | 2 | 
+| 2019-11-11 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第2戦 | Chen Shiyuan | Song Jihoon | Lose | W+R | 6.5 | 2815 | 0 | 
+| 2019-11-11 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第1戦 | Chen Shiyuan | Weon Seongjin | Lose | W+R | 6.5 | 2815 | 26 | 
+| 2019-10-22 | 第15期国手戦（台湾）準決勝 | Chen Shiyuan | Xu Haohong | Lose | W+R | 6.5 | 2789 | 0 | 
+| 2019-10-17 | 第12期棋王戦（台湾）リーグ  | Xu Haohong | Chen Shiyuan | Lose | B+R | 6.5 | 2789 | 0 | 
+| 2019-10-14 | 第12期棋王戦（台湾）予選敗部決勝 | Chen Shiyuan | Liu Yaowen | Win | B+R | 6.5 | 2789 | -1 | 
+| 2019-10-08 | 第15期国手戦（台湾）4回戦 | Jian Jingting | Chen Shiyuan | Win | W+R | 6.5 | 2790 | 12 | 
+| 2019-10-07 | 第12期棋王戦（台湾）予選敗部準決勝 | Chen Shiyuan | Lin Shuyang | Win | B+4.5 | 6.5 | 2778 | 18 | 
+| 2019-10-03 | 第12期棋王戦（台湾）予選敗部3回戦 | Chen Shiyuan | Huang Shiyuan | Win | B+R | 6.5 | 2760 | 7 | 
+| 2019-10-01 | 第15期国手戦（台湾）3回戦 | Chen Shiyuan | Lin Jiehan | Win | B+R | 6.5 | 2753 | -8 | 
+| 2019-09-26 | 第12期棋王戦（台湾）予選勝部準決勝 | Li Wei | Chen Shiyuan | Lose | B+R | 6.5 | 2761 | -22 | 
+| 2019-09-24 | 第15期国手戦（台湾）2回戦 | Chen Shiyuan |  | Win | B+1.5 | 6.5 | 2783 | 3 | 
+| 2019-09-23 | 第12期棋王戦（台湾）予選勝部2回戦 | Chen Shiyuan |  | Win | B+R | 6.5 | 2780 | 5 | 
+| 2019-09-22 | 第7期中環碁聖戦3回戦 | Chen Shiyuan | Lai Junfu | Lose | W+R | 6.5 | 2775 | 18 | 
+| 2019-09-19 | 第12期棋王戦（台湾）予選勝部1回戦 |  | Chen Shiyuan | Win | W+R | 6.5 | 2757 | 8 | 
+| 2019-09-15 | 第7期中環碁聖戦2回戦 | Chen Shiyuan | Lin Yuxiang | Win | B+2.5 | 6.5 | 2749 | 13 | 
+| 2019-09-08 | 第7期中環碁聖戦1回戦 | Huang Xiangren | Chen Shiyuan | Win | W+R | 6.5 | 2736 | 2 | 
+| 2019-09-03 | 第15期国手戦（台湾）1回戦 | Xu Yuqi | Chen Shiyuan | Win | W+R | 6.5 | 2734 | -88 | 
+| 2019-06-23 | 2019年中国囲碁乙級リーグ | Chen Shiyuan | Wang Yanhao | Win | B+R | 7.5 | 2822 | -3 | 
+| 2019-06-22 | 2019年中国囲碁乙級リーグ | Tong Yulin | Chen Shiyuan | Win | W+R | 7.5 | 2825 | -2 | 
+| 2019-06-21 | 2019年中国囲碁乙級リーグ | Chen Shiyuan | Park Sangjin | Lose | W+0.5 | 7.5 | 2827 | 8 | 
+| 2019-06-19 | 2019年中国囲碁乙級リーグ | Kim Sonjin | Chen Shiyuan | Lose | B+R | 7.5 | 2819 | -15 | 
+| 2019-06-18 | 2019年中国囲碁乙級リーグ | Chen Shiyuan | Weon Seongjin | Lose | W+R | 7.5 | 2834 | -5 | 
+| 2019-06-16 | 2019年中国囲碁乙級リーグ |  | Chen Shiyuan | Lose | B+R | 7.5 | 2839 | -22 | 
+| 2019-06-15 | 2019年中国囲碁乙級リーグ | Chen Shiyuan | Hsu Chiayuan | Lose | W+R | 7.5 | 2861 | -21 | 
+| 2019-06-14 | 2019年中国囲碁乙級リーグ | An Dongxu | Chen Shiyuan | Win | W+R | 7.5 | 2882 | 21 | 
+| 2019-05-09 | 第9期友士杯十段戦敗部2回戦 | Chen Shiyuan | Jian Jingting | Lose | W+0.5 | 6.5 | 2861 | -20 | 
+| 2019-05-06 | 第9期友士杯十段戦勝部2回戦 | Lai Junfu | Chen Shiyuan | Lose | B+R | 6.5 | 2881 | -17 | 
+| 2019-05-02 | 第9期友士杯十段戦勝部1回戦 | Yang Bowei | Chen Shiyuan | Win | W+R | 6.5 | 2898 | -22 | 
+| 2019-04-16 | 第18期天元戦（台湾）リーグ | Xu Haohong | Chen Shiyuan | Lose | B+1.5 | 6.5 | 2920 | -8 | 
+| 2019-04-12 | 第18期天元戦（台湾）リーグ | Jian Jingting | Chen Shiyuan | Lose | B+R | 6.5 | 2928 | -12 | 
+| 2019-04-10 | 第9期友士杯十段戦予選勝部決勝 | Li Wei | Chen Shiyuan | Win | W+R | 6.5 | 2940 | 8 | 
+| 2019-04-09 | 第18期天元戦（台湾）リーグ | Chen Shiyuan | Chen Qirui | Lose | W+R | 6.5 | 2932 | -4 | 
+| 2019-04-08 | 第9期友士杯十段戦予選勝部準決勝 |  | Chen Shiyuan | Win | W+4.5 | 6.5 | 2936 | 5 | 
+| 2019-03-29 | 第18期天元戦（台湾）リーグ | Chen Shiyuan | Yang Bowei | Win | B+0.5 | 6.5 | 2931 | 40 | 
+| 2019-03-26 | 第18期天元戦（台湾）リーグ | Lin Junyan | Chen Shiyuan | Lose | B+4.5 | 6.5 | 2891 | -17 | 
+| 2019-03-22 | 第18期天元戦（台湾）リーグ | Chen Shiyuan | Lin Shixun | Lose | W+2.5 | 6.5 | 2908 | -5 | 
+| 2019-03-19 | 第18期天元戦（台湾）リーグ | Chen Shiyuan | Xiao Zhenghao | Lose | W+1.5 | 6.5 | 2913 | 23 | 
+| 2019-03-11 | 第11回海峰杯プロ囲碁戦16強戦 | Chen Shiyuan | Xiao Zhenghao | Lose | W+R | 6.5 | 2890 | -3 | 
+| 2019-03-07 | 第11回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan | Zhang Zhehao | Win | B+R | 6.5 | 2893 | -39 | 
+| 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 |  | Chen Shiyuan | Win | W+3.5 | 6.5 | 2932 | -8 | 
+| 2019-02-26 | 第18期天元戦（台湾）勝部3回戦 | Chen Shiyuan | Xu Haohong | Win | B+R | 6.5 | 2940 | -13 | 
+| 2019-02-19 | 第18期天元戦（台湾）勝部2回戦 | Lin Lixiang | Chen Shiyuan | Win | W+R | 6.5 | 2953 | 10 | 
+| 2019-02-12 | 第18期天元戦（台湾）勝部1回戦 | Chen Shiyuan | Huang Shiyuan | Win | B+R | 6.5 | 2943 | 3 | 
+| 2019-01-22 | 第18期天元戦（台湾）予選3回戦 |  | Chen Shiyuan | Win | W+R | 6.5 | 2940 | 26 | 
+| 2019-01-21 | 2019台湾精鋭vs日本精鋭交流戦第6戦 | Chen Shiyuan | Yao Zhiteng | Win | B+3.5 | 6.5 | 2914 | 0 | 
+| 2019-01-21 | 2019台湾精鋭vs日本精鋭交流戦第5戦 | Hirose Yuichi | Chen Shiyuan | Lose | B+R | 6.5 | 2914 | 11 | 
+| 2019-01-15 | 第18期天元戦（台湾）予選2回戦 | Lin Xiuping | Chen Shiyuan | Win | W+R | 6.5 | 2903 | 7 | 
+| 2018-12-18 | 第14期国手戦（台湾）挑戦手合五番勝負第3局 | Chen Shiyuan | Wang Yuanjun | Lose | W+9.5 | 6.5 | 2896 | -33 | 
+| 2018-12-11 | 第14期国手戦（台湾）挑戦手合五番勝負第2局 | Wang Yuanjun | Chen Shiyuan | Lose | B+R | 6.5 | 2929 | -40 | 
+| 2018-11-27 | 第14期国手戦（台湾）挑戦手合五番勝負第1局 | Chen Shiyuan | Wang Yuanjun | Lose | W+1.5 | 6.5 | 2969 | -21 | 
+| 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第4戦 | Lee Jihyun | Chen Shiyuan | Lose | B+R | 6.5 | 2990 | 0 | 
+| 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第3戦 | Park Hyunsoo | Chen Shiyuan | Win | W+R | 6.5 | 2990 | 32 | 
+| 2018-11-08 | 第11期棋王戦（台湾）リーグ第7節 | Lin Shixun | Chen Shiyuan | Win | W+R | 6.5 | 2958 | 13 | 
+| 2018-11-07 | 第1回IWMC台湾代表男子選抜戦1回戦 | Chen Shiyuan | Lin Lixiang | Lose | W+R | 7.5 | 2945 | -6 | 
+| 2018-11-05 | 第11期棋王戦（台湾）リーグ第6節 | Chen Shiyuan | Xiao Zhenghao | Lose | W+R | 6.5 | 2951 | -22 | 
+| 2018-11-01 | 第11期棋王戦（台湾）リーグ第5節 | Chen Shiyuan | Xu Haohong | Lose | W+2.5 | 6.5 | 2973 | -24 | 
+| 2018-10-29 | 第11期棋王戦（台湾）リーグ第4節  | Chen Shiyuan | Lin Lixiang | Lose | W+3.5 | 6.5 | 2997 | -11 | 
+| 2018-10-25 | 第11期棋王戦（台湾）リーグ第3節 | Jian Jingting | Chen Shiyuan | Lose | B+R | 6.5 | 3008 | -20 | 
+| 2018-10-22 | 第11期棋王戦（台湾）リーグ第2節  | Chen Qirui | Chen Shiyuan | Win | W+R | 6.5 | 3028 | 12 | 
+| 2018-10-18 | 第11期棋王戦（台湾）リーグ第1節 | Wang Yuanjun | Chen Shiyuan | Lose | B+0.5 | 6.5 | 3016 | 18 | 
+| 2018-10-07 | 第6期中環碁聖戦4回戦 | Chen Shiyuan | Wang Yuanjun | Lose | W+R | 6.5 | 2998 | -32 | 
+| 2018-10-01 | 第11期棋王戦（台湾）予選勝部決勝 | Chen Shiyuan | Lin Shuyang | Win | B+R | 6.5 | 3030 | 11 | 
+| 2018-09-30 | 第6期中環碁聖戦3回戦 | Lin Jiehan | Chen Shiyuan | Win | W+0.5 | 6.5 | 3019 | -5 | 
+| 2018-09-27 | 第11期棋王戦（台湾）予選勝部準決勝 | Chen Shiyuan | Yang Bowei | Win | B+R | 6.5 | 3024 | -3 | 
+| 2018-09-20 | 第11期棋王戦（台湾）予選勝部2回戦 | Chen Shiyuan | Zhou Keping | Win | B+R | 6.5 | 3027 | 5 | 
+| 2018-09-17 | 第11期棋王戦（台湾）予選勝部1回戦 | Chen Shiyuan |  | Win | B+R | 6.5 | 3022 | 8 | 
+| 2018-09-16 | 第6期中環碁聖戦2回戦 | Chen Yida | Chen Shiyuan | Win | W+4.5 | 6.5 | 3014 | -34 | 
+| 2018-09-02 | 第6期中環碁聖戦1回戦上半区 | Chen Shiyuan | Ding Shaojie | Win | B+R | 6.5 | 3048 | 104 | 
+| 2018-06-19 | 2018年中国囲棋丙級リーグ | Chen Shiyuan |  | Win | B+R | 7.5 | 2944 | 11 | 
+| 2018-06-18 | 2018年中国囲棋丙級リーグ | Cheng Honghao | Chen Shiyuan | Lose | B+R | 7.5 | 2933 | -6 | 
+| 2018-06-16 | 2018年中国囲棋丙級リーグ | Lin Junyan | Chen Shiyuan | Lose | B+R | 7.5 | 2939 | 4 | 
+| 2018-06-15 | 2018年中国囲棋丙級リーグ | Song Jihoon | Chen Shiyuan | Win | W+R | 7.5 | 2935 | 31 | 
+| 2018-06-13 | 2018年中国囲棋丙級リーグ | Chen Shiyuan |  | Win | B+¾ | 7.5 | 2904 | 37 | 
+| 2018-06-12 | 2018年中国囲棋丙級リーグ | Chen Shiyuan |  | Win | B+R | 7.5 | 2867 | 1 | 
+| 2018-06-11 | 2018年中国囲棋丙級リーグ |  | Chen Shiyuan | Lose | B+R | 7.5 | 2866 | -49 | 
+| 2018-03-27 | 第十六回天元戦複戦敗部第四回戦 | Chen Shiyuan | Jian Jingting | Lose | W+R | 6.5 | 2915 | -48 | 
+| 2018-03-22 | 第10回海峰杯プロ囲碁戦8強戦 | Xu Haohong | Chen Shiyuan | Lose | B+7.5 | 6.5 | 2963 | -15 | 
+| 2018-03-19 | 第10回海峰杯プロ囲碁戦16強戦 | Chen Shiyuan | Chen Xi | Win | B+R | 6.5 | 2978 | -33 | 
+| 2018-03-12 | 第十七回天元戦複戦勝部第三回戦 補戦 | Chen Shiyuan | Xu Yuqi | Lose | W+R | 6.5 | 3011 | -11 | 
+| 2018-03-08 | 第10回海峰杯プロ囲碁戦32強戦 | Chen Yida | Chen Shiyuan | Win | W+2.5 | 6.5 | 3022 | -42 | 
+| 2018-03-06 | 第十七回天元戦複戦勝部第二回戦 | Chen Shiyuan | Yang Zixuan | Win | B+R | 6.5 | 3064 | -2 | 
+| 2018-03-01 | 第10回海峰杯プロ囲碁戦64強戦 | Chen Shiyuan |  | Win | B+R | 6.5 | 3066 | 0 | 
+| 2018-02-27 | 第十七回天元戦複戦勝部第一回戦 | Yang Bowei | Chen Shiyuan | Win | W+R | 6.5 | 3066 | 59 | 
+| 2018-02-08 | 第12回春蘭杯台湾予選 | Chen Shiyuan | Chen Qirui | Lose | W+1 | 7.5 | 3007 | 0 | 
+| 2018-01-23 | 2018台湾精鋭vs日本精鋭交流戦第6戦 | Motoki Katsuya | Chen Shiyuan | Win | W+R | 6.5 | 3007 | 0 | 
+| 2018-01-23 | 2018台湾精鋭vs日本精鋭交流戦第5戦 | Chen Shiyuan | Cho Riyu | Lose | W+R | 6.5 | 3007 | 24 | 
+| 2017-12-15 | 第2回IMSAエリートマインドゲームズ囲碁男子個人戦 | Shibano Toramaru | Chen Shiyuan | Lose | B+R | 7.5 | 2983 | 0 | 
+| 2017-12-15 | 第2回IMSAエリートマインドゲームズ個人早碁戦準決勝 | Ke Jie | Chen Shiyuan | Lose | B+R | 7.5 | 2983 | -7 | 
+| 2017-12-14 | 第2回IMSAエリートマインドゲームズ個人早碁戦予選 | Chen Shiyuan | Park Junghwan | Lose | W+R | 7.5 | 2990 | 0 | 
+| 2017-12-14 | 第2回IMSAエリートマインドゲームズ個人早碁戦予選 |  | Chen Shiyuan | Win | W+R | 7.5 | 2990 | 5 | 
+| 2017-12-13 | 第2回IMSAエリートマインドゲームズ囲碁男子団体戦 | Chen Shiyuan | Shin Jinseo | Lose | W+R | 7.5 | 2985 | 2 | 
+| 2017-12-12 | 第2回IMSAエリートマインドゲームズ囲碁男子団体戦 | Tang Weixing | Chen Shiyuan | Win | W+R | 7.5 | 2983 | 48 | 
+| 2017-11-28 | 第13期国手戦（台湾）挑戦手合五番勝負第5局 | Chen Shiyuan | Lin Junyan | Win | B+3.5 | 6.5 | 2935 | 27 | 
+| 2017-11-21 | 第13期国手戦（台湾）挑戦手合五番勝負第4局 | Lin Junyan | Chen Shiyuan | Win | W+2.5 | 6.5 | 2908 | 51 | 
+| 2017-11-16 | 第10期棋王戦（台湾）プレーオフ | Chen Shiyuan | Jian Jingting | Lose | W+R | 6.5 | 2857 | -19 | 
+| 2017-11-14 | 第13期国手戦（台湾）挑戦手合五番勝負第3局 | Chen Shiyuan | Lin Junyan | Lose | W+R | 6.5 | 2876 | -18 | 
+| 2017-11-09 | 第10期棋王戦（台湾）リーグ | Chen Shiyuan | Jian Jingting | Lose | W+0.5 | 6.5 | 2894 | -14 | 
+| 2017-11-07 | 第13期国手戦（台湾）挑戦手合五番勝負第2局 | Lin Junyan | Chen Shiyuan | Lose | B+0.5 | 6.5 | 2908 | -9 | 
+| 2017-11-06 | 第10期棋王戦（台湾）リーグ | Chen Shiyuan | Lin Shixun | Lose | W+2.5 | 6.5 | 2917 | -34 | 
+| 2017-11-02 | 第10期棋王戦（台湾）リーグ | Chen Shiyuan | Lin Junyan | Win | B+0.5 | 6.5 | 2951 | 8 | 
+| 2017-10-31 | 第13期国手戦（台湾）挑戦手合五番勝負第1局 | Chen Shiyuan | Lin Junyan | Win | B+R | 6.5 | 2943 | 15 | 
+| 2017-10-30 | 第10期棋王戦（台湾）リーグ | Chen Shiyuan | Lin Shuyang | Win | B+R | 6.5 | 2928 | 6 | 
+| 2017-10-26 | 第10期棋王戦（台湾）リーグ | Chen Shiyuan | Zhou Junxun | Win | B+5.5 | 6.5 | 2922 | 14 | 
+| 2017-10-23 | 第10期棋王戦（台湾）リーグ | Chen Shiyuan | Chen Qirui | Win | B+R | 6.5 | 2908 | 18 | 
+| 2017-10-19 | 第10期棋王戦（台湾）リーグ | Lin Lixiang | Chen Shiyuan | Lose | B+R | 6.5 | 2890 | -6 | 
+| 2017-10-15 | 第5期中環碁聖戦8強戦 | Jian Jingting | Chen Shiyuan | Lose | B+R | 6.5 | 2896 | 2 | 
+| 2017-09-24 | 第5期中環碁聖戦16強戦 |  | Chen Shiyuan | Win | W+R | 6.5 | 2894 | 25 | 
+| 2017-09-17 | 第5期中環碁聖戦第二回戦 | Chen Shiyuan | Liu Jianchang | Win | B+R | 6.5 | 2869 | 79 | 
+| 2017-06-05 | 第7期友士杯十段戦敗者復活戦2回戦 | Chen Shiyuan | Li Wei | Lose | W+R | 6.5 | 2790 | -38 | 
+| 2017-06-02 | 第7期友士杯十段戦敗者復活戦1回戦 | Lin Lixiang | Chen Shiyuan | Win | W+R | 6.5 | 2828 | -9 | 
+| 2017-05-31 | 第7期友士杯十段戦1回戦 | Zhou Junxun | Chen Shiyuan | Lose | B+R | 6.5 | 2837 | -23 | 
+| 2017-05-05 | 第十六期天元戦リーグ戦第七局 | Xu Yuqi | Chen Shiyuan | Lose | B+4.5 | 6.5 | 2860 | -37 | 
+| 2017-05-02 | 第十六期天元戦リーグ戦第六局 | Lin Shixun | Chen Shiyuan | Lose | B+0.5 | 6.5 | 2897 | -15 | 
+| 2017-04-28 | 第16期天元戦（台湾）リーグ | Chen Shiyuan | Xiao Zhenghao | Win | B+0.5 | 6.5 | 2912 | 4 | 
+| 2017-04-27 | 第9回海峰杯プロ囲碁戦決勝三番勝負第2局 | Chen Shiyuan | Wang Yuanjun | Win | B+R | 6.5 | 2908 | 15 | 
+| 2017-04-25 | 第十六期天元戦リーグ戦第四局 | Lin Junyan | Chen Shiyuan | Lose | B+R | 6.5 | 2893 | 2 | 
+| 2017-04-21 | 第十六期天元戦リーグ戦第三局 | Chen Shiyuan | Lin Lixiang | Lose | W+3.5 | 6.5 | 2891 | -8 | 
+| 2017-04-18 | 第十六期天元戦リーグ戦第二局 | Chen Shiyuan | Lai Junfu | Win | B+R | 6.5 | 2899 | 23 | 
+| 2017-04-13 | 第9回海峰杯プロ囲碁戦決勝三番勝負第1局 | Wang Yuanjun | Chen Shiyuan | Win | W+R | 6.5 | 2876 | 22 | 
+| 2017-04-11 | 第十六期天元挑戦手合リーグ戦第一局補戦 | Chen Shiyuan | Cai Chengwei | Win | B+R | 6.5 | 2854 | 200 | 
+| 2017-03-23 | 第9回海峰杯プロ囲碁戦準決勝 | Chen Shiyuan | Xiao Zhenghao | Win | B+2.5 | 6.5 | 2654 | -1 | 
+| 2017-03-20 | 第9回海峰杯プロ囲碁戦8強戦 | Chen Shiyuan | Chen Qirui | Win | B+R | 6.5 | 2655 | 3 | 
+| 2017-03-16 | 第9回海峰杯プロ囲碁戦16強戦 | Chen Shiyuan | Zhou Pingqiang | Win | B+R | 6.5 | 2652 | -4 | 
+| 2017-03-13 | 第9回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan | Lin Yuxiang | Win | B+10.5 | 6.5 | 2656 | -23 | 
+| 2017-02-16 | 第22期LG盃台湾代表選抜戦決勝第一局 | Chen Shiyuan | Chen Qirui | Lose | W+4.5 | 6.5 | 2679 | -84 | 
+| 2017-01-19 | 台湾精鋭日本精鋭交流戦1回戦 | Shibano Toramaru | Chen Shiyuan | Lose | B+2.5 | 6.5 | 2763 | 0 | 
+| 2017-01-19 | 台湾精鋭日本精鋭交流戦2回戦 | Chen Shiyuan | Suzuki Shinji | Lose | W+R | 6.5 | 2763 | -54 | 
+| 2016-12-20 | 第12期国手戦（台湾）挑戦手合3局 | Xiao Zhenghao | Chen Shiyuan | Win | W+R | 6.5 | 2817 | 19 | 
+| 2016-12-15 | 第12期国手戦（台湾）挑戦手合2局 | Chen Shiyuan | Xiao Zhenghao | Win | B+0.5 | 6.5 | 2798 | -1 | 
+| 2016-12-09 | 第12期国手戦（台湾）挑戦手合1局 | Xiao Zhenghao | Chen Shiyuan | Win | W+3.5 | 6.5 | 2799 | -1 | 
+| 2016-11-21 | 第9期棋王戦（台湾）リーグ | Chen Shiyuan | Lin Shuyang | Lose | W+2.5 | 6.5 | 2800 | -12 | 
+| 2016-11-17 | 第9期棋王戦（台湾）リーグ | Chen Shiyuan | Chen Qirui | Lose | W+0.5 | 6.5 | 2812 | -8 | 
+| 2016-11-14 | 第9期棋王戦（台湾）リーグ | Cai Chengwei | Chen Shiyuan | Win | W+2.5 | 6.5 | 2820 | -24 | 
+| 2016-11-10 | 第9期棋王戦（台湾）リーグ | Lin Lixiang | Chen Shiyuan | Lose | B+2.5 | 6.5 | 2844 | -42 | 
+| 2016-11-03 | 第9期棋王戦（台湾）リーグ | Lai Junfu | Chen Shiyuan | Win | W+R | 6.5 | 2886 | 0 | 
+| 2016-10-27 | 第9期棋王戦（台湾）リーグ | Wang Yuanjun | Chen Shiyuan | Lose | B+R | 6.5 | 2886 | -11 | 
+| 2016-10-26 | 第9期棋王戦（台湾）リーグ | Chen Shiyuan | Lin Junyan | Lose | W+0.5 | 6.5 | 2897 | -71 | 
+| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Xu Jiayang | Chen Shiyuan | Lose | B+R | 7.5 | 2968 | -6 | 
+| 2016-06-23 | 2016年中国囲碁丙級リーグ | Chen Shiyuan |  | Lose | W+R | 7.5 | 2974 | -9 | 
+| 2016-06-20 | 2016年中国囲碁丙級リーグ | Xiao Zhenghao | Chen Shiyuan | Lose | B+1.5 | 7.5 | 2983 | -18 | 
+| 2016-06-13 | 第6期友士杯十段戦敗者復活戦3回戦 | Chen Shiyuan | Xu Haohong | Lose | W+0.5 | 6.5 | 3001 | -26 | 
+| 2016-06-08 | 第6期友士杯十段戦敗者復活戦2回戦 | Lai Junfu | Chen Shiyuan | Win | W+R | 6.5 | 3027 | 17 | 
+| 2016-06-06 | 第6期友士杯十段戦2回戦 | Chen Shiyuan | Wang Yuanjun | Lose | W+R | 6.5 | 3010 | -4 | 
+| 2016-06-03 | 第6期友士杯十段戦1回戦 | Lin Shixun | Chen Shiyuan | Win | W+R | 6.5 | 3014 | 156 | 
+| 2016-05-17 | 第15期天元戦（台湾）リーグ | Chen Shiyuan | Lin Shuyang | Win | B+R | 6.5 | 2858 | 15 | 
+| 2016-05-13 | 第15期天元戦（台湾）リーグ | Chen Shiyuan | Xiao Zhenghao | Win | B+R | 6.5 | 2843 | -56 | 
+| 2016-05-10 | 第15期天元戦（台湾）リーグ | Lin Lixiang | Chen Shiyuan | Lose | B+1.5 | 6.5 | 2899 | -15 | 
+| 2016-05-06 | 第15期天元戦（台湾）リーグ | Lin Zhihan | Chen Shiyuan | Lose | B+R | 6.5 | 2914 | -15 | 
+| 2016-05-04 | 第1回新奥杯世界囲碁オープン戦台湾予選 | Chen Shiyuan | Wang Yuanjun | Lose | W+R | 7.5 | 2929 | -20 | 
+| 2016-05-03 | 第15期天元戦（台湾）リーグ | Yang Bowei | Chen Shiyuan | Win | W+R | 6.5 | 2949 | 37 | 
+| 2016-04-19 | 第15期天元戦（台湾）リーグ | Chen Shiyuan | Chen Qirui | Win | B+R | 6.5 | 2912 | 2 | 
+| 2016-04-15 | 第15期天元戦（台湾）リーグ | Lin Junyan | Chen Shiyuan | Lose | B+R | 6.5 | 2910 | -14 | 
+| 2016-04-14 | 第8回海峰杯プロ囲碁戦8強戦 | Lin Shuyang | Chen Shiyuan | Lose | B+R | 6.5 | 2924 | -19 | 
+| 2016-04-11 | 第8回海峰杯プロ囲碁戦16強戦 | Chen Shiyuan |  | Win | B+5.5 | 6.5 | 2943 | 17 | 
+| 2016-03-21 | 第8回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan | Chen Xi | Win | B+R | 6.5 | 2926 | -4 | 
+| 2016-03-07 | 第8回海峰杯プロ囲碁戦64強戦 | Chen Shiyuan |  | Win | B+R | 6.5 | 2930 | -31 | 
+| 2016-03-01 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Chen Shiyuan | Tang Weixing | Lose | W+4.5 | 7.5 | 2961 | -6 | 
+| 2016-02-29 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Lee Donghoon | Chen Shiyuan | Win | W+R | 7.5 | 2967 | 6 | 
+| 2016-02-28 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Chen Shiyuan | Fan Hui | Win | B+19.5 | 7.5 | 2961 | 0 | 
+| 2016-02-27 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Jiang Mingjiu | Chen Shiyuan | Win | W+R | 7.5 | 2961 | -16 | 
+| 2016-02-26 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Hirata Tomoya | Chen Shiyuan | Win | W+4.5 | 7.5 | 2977 | -37 | 
+| 2016-01-29 | 2016年日台精鋭交流戦第4戦 | Yu Zhengqi | Chen Shiyuan | Win | W+R | 6.5 | 3014 | 9 | 
+| 2016-01-28 | 2016年日台精鋭交流戦第2戦 | Chen Shiyuan | Ichiriki Ryo | Lose | W+R | 6.5 | 3005 | 0 | 
+| 2016-01-28 | 2016年日台精鋭交流戦第1戦 | Chen Shiyuan | Murakawa Daisuke | Win | B+R | 6.5 | 3005 | -10 | 
+| 2016-01-26 | 第3回百霊杯世界オープン戦台湾予選 | Xiao Zhenghao | Chen Shiyuan | Win | W+R | 7.5 | 3015 | 3 | 
+| 2015-12-31 | 第8回応氏杯世界選手権台湾選抜戦 | Wang Yuanjun | Chen Shiyuan | Lose | B+1 | 7.5 | 3012 | -16 | 
+| 2015-12-15 | 第11期国手戦（台湾）挑戦手合五番勝負第5局 | Chen Shiyuan | Xiao Zhenghao | Win | B+2.5 | 6.5 | 3028 | 12 | 
+| 2015-12-04 | 第11期国手戦（台湾）挑戦手合五番勝負第4局 | Xiao Zhenghao | Chen Shiyuan | Lose | B+0.5 | 6.5 | 3016 | -6 | 
+| 2015-12-01 | 第11期国手戦（台湾）挑戦手合五番勝負第3局 | Chen Shiyuan | Xiao Zhenghao | Lose | W+2.5 | 6.5 | 3022 | -1 | 
+| 2015-11-24 | 第11期国手戦（台湾）挑戦手合五番勝負第2局 | Xiao Zhenghao | Chen Shiyuan | Win | W+0.5 | 6.5 | 3023 | 13 | 
+| 2015-11-20 | 第11期国手戦（台湾）挑戦手合五番勝負第1局 | Chen Shiyuan | Xiao Zhenghao | Win | B+1.5 | 6.5 | 3010 | 2 | 
+| 2015-11-01 | 第3期中環碁聖戦決勝三番勝負第2局 | Wang Yuanjun | Chen Shiyuan | Win | W+R | 6.5 | 3008 | 6 | 
+| 2015-10-31 | 第3期中環碁聖戦決勝三番勝負第1局 | Chen Shiyuan | Wang Yuanjun | Win | B+R | 6.5 | 3002 | 51 | 
+| 2015-10-18 | 第3期中環碁聖戦準決勝 | Chen Shiyuan | Lin Shixun | Win | B+R | 6.5 | 2951 | 18 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Chen Shiyuan | Fan Yunruo | Lose | W+R | 6.5 | 2933 | 0 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Chen Shiyuan | Ichiriki Ryo | Lose | W+R | 6.5 | 2933 | 18 | 
+| 2015-10-02 | 第2回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yang Dingxin | Chen Shiyuan | Win | W+R | 6.5 | 2915 | 15 | 
+| 2015-09-24 | 第3期中環碁聖戦4回戦 | Hei Jiajia | Chen Shiyuan | Win | W+R | 6.5 | 2900 | -55 | 
+| 2015-07-16 | 第5期友士杯十段戦挑戦者決定戦 | Xiao Zhenghao | Chen Shiyuan | Lose | B+R | 6.5 | 2955 | -85 | 
+| 2015-06-25 | 第5期友士杯十段戦勝者組決勝 | Xiao Zhenghao | Chen Shiyuan | Win | W+R | 6.5 | 3040 | -24 | 
+| 2015-06-18 | 第5期友士杯十段戦勝者組準決勝 | Li Wei | Chen Shiyuan | Win | W+R | 6.5 | 3064 | -17 | 
+| 2015-06-15 | 第5期友士杯十段戦2回戦 | Yang Bowei | Chen Shiyuan | Win | W+1.5 | 6.5 | 3081 | 11 | 
+| 2015-06-11 | 第5期友士杯十段戦1回戦 | Chen Shiyuan | Zhou Junxun | Win | B+R | 6.5 | 3070 | 28 | 
+| 2015-06-09 | 第14期天元戦（台湾）リーグ | Chen Shiyuan | Lin Shuyang | Lose | W+R | 6.5 | 3042 | -35 | 
+| 2015-06-02 | 第14期天元戦（台湾）リーグ | Chen Shiyuan | Chen Qirui | Lose | W+R | 6.5 | 3077 | -1 | 
+| 2015-05-20 | 2015年中国囲碁乙級リーグ | Chen Shiyuan | Zhang Qiang | Lose | W+0.5 | 7.5 | 3078 | -16 | 
+| 2015-05-19 | 2015年中国囲碁乙級リーグ | Lee Jihyun | Chen Shiyuan | Lose | B+R | 7.5 | 3094 | -17 | 
+| 2015-05-17 | 2015年中国囲碁乙級リーグ | Chen Shiyuan | Wang Haoyang | Lose | W+R | 7.5 | 3111 | -6 | 
+| 2015-05-16 | 2015年中国囲碁乙級リーグ | Peng Quan | Chen Shiyuan | Win | W+R | 7.5 | 3117 | 33 | 
+| 2015-05-14 | 2015年中国囲碁乙級リーグ | Chen Shiyuan |  | Lose | W+R | 7.5 | 3084 | -16 | 
+| 2015-05-13 | 2015年中国囲碁乙級リーグ | Dang Yifei | Chen Shiyuan | Win | W+R | 7.5 | 3100 | 19 | 
+| 2015-05-12 | 2015年中国囲碁乙級リーグ | Chen Shiyuan |  | Win | B+R | 7.5 | 3081 | -63 | 
+| 2015-05-05 | 第14期天元戦（台湾）リーグ | Lin Lixiang | Chen Shiyuan | Win | W+1.5 | 6.5 | 3144 | -4 | 
+| 2015-04-30 | 第7回海峰杯プロ囲碁戦決勝三番勝負第2局 | Wang Yuanjun | Chen Shiyuan | Win | W+0.5 | 6.5 | 3148 | -13 | 
+| 2015-04-28 | 第14期天元戦（台湾）リーグ | Chen Shiyuan | Wang Yuanjun | Win | B+R | 6.5 | 3161 | 52 | 
+| 2015-04-23 | 第7回海峰杯プロ囲碁戦決勝三番勝負第1局 | Chen Shiyuan | Wang Yuanjun | Win | B+R | 6.5 | 3109 | 17 | 
+| 2015-04-21 | 第14期天元戦（台湾）リーグ | Zhou Junxun | Chen Shiyuan | Win | W+1.5 | 6.5 | 3092 | 13 | 
+| 2015-04-07 | 第14期天元戦（台湾）リーグ | Chen Shiyuan |  | Win | B+R | 6.5 | 3079 | -34 | 
+| 2015-03-31 | 第14期天元戦（台湾）リーグ | Yang Bowei | Chen Shiyuan | Lose | B+1.5 | 6.5 | 3113 | -101 | 
+| 2015-03-19 | 第7回海峰杯プロ囲碁戦準決勝 | Xiao Zhenghao | Chen Shiyuan | Win | W+R | 6.5 | 3214 | 42 | 
+| 2015-03-16 | 第7回海峰杯プロ囲碁戦8強戦 | Chen Shiyuan | Lin Junyan | Win | B+3.5 | 6.5 | 3172 | -68 | 
+| 2015-03-12 | 第7回海峰杯プロ囲碁戦16強戦 | Chen Shiyuan | Chen Feng | Win | B+R | 6.5 | 3240 | -2 | 
+| 2015-03-10 | 第7回海峰杯プロ囲碁戦32強戦 | Lin Yuxiang | Chen Shiyuan | Win | W+R | 6.5 | 3242 | -130 | 
+| 2015-03-05 | 第7回海峰杯プロ囲碁戦64強戦 |  | Chen Shiyuan | Win | W+R | 6.5 | 3372 | 42 | 
+| 2015-02-13 | 2015年日台精鋭交流戦第6戦 | Chen Shiyuan | Adachi Toshimasa | Win | B+1.5 | 6.5 | 3330 | 0 | 
+| 2015-02-13 | 2015年日台精鋭交流戦第5戦 | Terayama Rei | Chen Shiyuan | Win | W+R | 6.5 | 3330 | 55 | 
+| 2015-02-11 | 2015年日台精鋭交流戦第2戦 | Motoki Katsuya | Chen Shiyuan | Win | W+R | 6.5 | 3275 | 0 | 
+| 2015-02-11 | 2015年日台精鋭交流戦第1戦 | Chen Shiyuan | Fujita Akihiko | Win | B+1.5 | 6.5 | 3275 | 123 | 
+| 2015-02-02 | 第20回LG杯台湾予選 | Lin Junyan | Chen Shiyuan | Lose | B+3.5 | 6.5 | 3152 | -16 | 
+| 2015-01-31 | 第20回LG杯台湾予選 | Chen Shiyuan | Wang Yuanjun | Win | B+4.5 | 6.5 | 3168 | 3 | 
+| 2015-01-30 | 第20回LG杯台湾予選 | Chen Shiyuan | Chen Qirui | Win | B+0.5 | 6.5 | 3165 | 7 | 
+| 2015-01-23 | 第2回夢百合杯世界オープン戦台湾予選 | Chen Shiyuan | Xiao Zhenghao | Lose | W+R | 7.5 | 3158 | 30 | 
+| 2014-11-11 | 第10期国手戦（台湾）リーグ | Zhou Junxun | Chen Shiyuan | Lose | Void | 6.5 | 3128 | 117 | 
+| 2014-10-27 | 第7期棋王戦（台湾）リーグ | Chen Shiyuan | Lin Lixiang | Lose | W+R | 6.5 | 3011 | -7 | 
+| 2014-10-23 | 第7期棋王戦（台湾）リーグ | Chen Shiyuan | Xiao Zhenghao | Win | B+R | 6.5 | 3018 | 18 | 
+| 2014-10-20 | 第7期棋王戦（台湾）リーグ | Chen Shiyuan | Lin Zhihan | Lose | W+R | 6.5 | 3000 | -18 | 
+| 2014-10-16 | 第7期棋王戦（台湾）リーグ | Chen Shiyuan | Chen Qirui | Win | B+4.5 | 6.5 | 3018 | -32 | 
+| 2014-10-09 | 第7期棋王戦（台湾）リーグ | Chen Shiyuan |  | Win | B+R | 6.5 | 3050 | 17 | 
+| 2014-10-06 | 第7期棋王戦（台湾）リーグ | Lin Junyan | Chen Shiyuan | Lose | B+R | 6.5 | 3033 | -46 | 
+| 2014-09-29 | 第7期棋王戦（台湾）リーグ | Chen Shiyuan | Zhou Junxun | Lose | W+R | 6.5 | 3079 | 53 | 
+| 2014-07-25 | 第2期中環碁聖戦決勝三番勝負第3局 | Lin Lixiang | Chen Shiyuan | Win | W+R | 6.5 | 3026 | 39 | 
+| 2014-06-29 | 第2期中環碁聖戦決勝三番勝負第2局 | Lin Lixiang | Chen Shiyuan | Win | W+R | 6.5 | 2987 | 14 | 
+| 2014-06-22 | 第2期中環碁聖戦決勝三番勝負第1局 | Chen Shiyuan | Lin Lixiang | Lose | W+2.5 | 6.5 | 2973 | -7 | 
+| 2014-06-15 | 第2期中環碁聖戦準決勝 | Chen Shiyuan | Wang Yuanjun | Win | B+8.5 | 6.5 | 2980 | 75 | 
+| 2014-05-22 | 第6回海峰杯プロ囲碁戦決勝三番勝負第3局 | Chen Shiyuan | Yang Bowei | Lose | W+R | 6.5 | 2905 | -5 | 
+| 2014-05-15 | 第6回海峰杯プロ囲碁戦決勝三番勝負第2局 | Chen Shiyuan | Yang Bowei | Win | B+R | 6.5 | 2910 | 44 | 
+| 2014-05-08 | 第6回海峰杯プロ囲碁戦決勝三番勝負第1局 | Yang Bowei | Chen Shiyuan | Lose | B+R | 6.5 | 2866 | -12 | 
+| 2014-05-06 | 第13期天元戦（台湾）リーグ | Chen Shiyuan | Yang Bowei | Win | B+2.5 | 6.5 | 2878 | 62 | 
+| 2014-04-29 | 2014年中国囲碁丙級リーグ |  | Chen Shiyuan | Win | W+R | 7.5 | 2816 | -121 | 
+| 2014-04-03 | 第6回海峰杯プロ囲碁戦準決勝 | Chen Shiyuan | Xiao Zhenghao | Win | B+3.5 | 6.5 | 2937 | 1 | 
+| 2014-03-31 | 第6回海峰杯プロ囲碁戦8強戦 | Lin Lixiang | Chen Shiyuan | Win | W+R | 6.5 | 2936 | 41 | 
+| 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Xie Ke | Chen Shiyuan | Lose | B+R | 7.5 | 2895 | -10 | 
+| 2014-03-10 | 第6回海峰杯プロ囲碁戦16強戦 | Chen Shiyuan |  | Win | B+5.5 | 6.5 | 2905 | 3 | 
+| 2014-03-06 | 第6回海峰杯プロ囲碁戦32強戦 | Lin Shengxian | Chen Shiyuan | Win | W+6.5 | 6.5 | 2902 | 11 | 
+| 2014-03-03 | 第6回海峰杯プロ囲碁戦64強戦 | Xu Yuqi | Chen Shiyuan | Win | W+0.5 | 6.5 | 2891 | 1 | 
+| 2014-02-28 | 第19回LG杯台湾予選 | Chen Shiyuan | Lin Zhihan | Lose | W+R | 6.5 | 2890 | -14 | 
+| 2014-02-27 | 第19回LG杯台湾予選 | Xiao Zhenghao | Chen Shiyuan | Win | W+R | 6.5 | 2904 | 11 | 
+| 2014-02-21 | 第10回春蘭杯台湾予選 | Wang Yuanjun | Chen Shiyuan | Lose | B+2.5 | 7.5 | 2893 | -15 | 
+| 2014-02-20 | 第10回春蘭杯台湾予選 | Chen Shiyuan | Xiao Zhenghao | Win | B+1.5 | 7.5 | 2908 | -3 | 
+| 2014-01-16 | 2014年日台精鋭交流戦第4戦 | Chen Shiyuan | O Rissei | Win | B+R | 6.5 | 2911 | 0 | 
+| 2014-01-16 | 2014年日台精鋭交流戦第3戦 | Chen Shiyuan | O Meien | Win | B+T | 6.5 | 2911 | 46 | 
+| 2014-01-15 | 2014年日台精鋭交流戦第2戦 | Rin Shien | Chen Shiyuan | Win | W+4.5 | 6.5 | 2865 | 0 | 
+| 2014-01-15 | 2014年日台精鋭交流戦第1戦 | Chen Shiyuan | Hsu Chiayuan | Win | B+0.5 | 6.5 | 2865 | 104 | 
+| 2013-12-26 | 第6期棋王戦（台湾）挑戦手合七番勝負第5局 | Chen Shiyuan | Wang Yuanjun | Lose | W+R | 6.5 | 2761 | -78 | 
+| 2013-12-05 | 第6期棋王戦（台湾）挑戦手合七番勝負第4局 | Wang Yuanjun | Chen Shiyuan | Lose | B+R | 6.5 | 2839 | -34 | 
+| 2013-11-28 | 第6期棋王戦（台湾）挑戦手合七番勝負第3局 | Chen Shiyuan | Wang Yuanjun | Lose | W+3.5 | 6.5 | 2873 | 14 | 
+| 2013-11-21 | 第6期棋王戦（台湾）挑戦手合七番勝負第2局 | Wang Yuanjun | Chen Shiyuan | Lose | B+0.5 | 6.5 | 2859 | -28 | 
+| 2013-11-14 | 第6期棋王戦（台湾）挑戦手合七番勝負第1局 | Chen Shiyuan | Wang Yuanjun | Win | B+R | 6.5 | 2887 | -331 | 
+| 2013-09-17 | 第9期国手戦（台湾）挑戦手合五番勝負第4局 | Xiao Zhenghao | Chen Shiyuan | Lose | B+R | 6.5 | 3218 | -39 | 
+| 2013-09-10 | 第9期国手戦（台湾）挑戦手合五番勝負第3局 | Chen Shiyuan | Xiao Zhenghao | Lose | W+R | 6.5 | 3257 | -5 | 
+| 2013-09-03 | 第9期国手戦（台湾）挑戦手合五番勝負第2局 | Xiao Zhenghao | Chen Shiyuan | Lose | B+0.5 | 6.5 | 3262 | 0 | 
+| 2013-08-27 | 第9期国手戦（台湾）挑戦手合五番勝負第1局 | Chen Shiyuan | Xiao Zhenghao | Win | B+0.5 | 6.5 | 3262 | -12 | 
+| 2013-07-23 | 第12期天元戦（台湾）挑戦手合五番勝負第4局 | Xiao Zhenghao | Chen Shiyuan | Lose | B+R | 6.5 | 3274 | 51 | 
+| 2013-07-16 | 第12期天元戦（台湾）挑戦手合五番勝負第3局 | Chen Shiyuan | Xiao Zhenghao | Lose | W+1.5 | 6.5 | 3223 | 35 | 
+| 2013-07-09 | 第12期天元戦（台湾）挑戦手合五番勝負第2局 | Xiao Zhenghao | Chen Shiyuan | Win | W+R | 6.5 | 3188 | -28 | 
+| 2013-06-15 | 2013年中国囲碁乙級リーグ | Chen Shiyuan | Lee Wonyoung | Lose | W+R | 7.5 | 3216 | -60 | 
+| 2013-06-07 | 第12期天元戦（台湾）挑戦手合五番勝負第1局 | Chen Shiyuan | Xiao Zhenghao | Lose | W+R | 6.5 | 3276 | 89 | 
+| 2013-05-03 | 第1回夢百合杯世界オープン戦台湾予選 | Chen Shiyuan | Zhou Junxun | Lose | W+6.5 | 6.5 | 3187 | -35 | 
+| 2013-04-30 | 第5回海峰杯プロ囲碁戦準決勝 | Chen Shiyuan | Wang Yuanjun | Lose | W+4.5 | 6.5 | 3222 | -26 | 
+| 2013-04-11 | 第5回海峰杯プロ囲碁戦8強戦 | Chen Shiyuan | Lin Lixiang | Win | B+R | 6.5 | 3248 | 40 | 
+| 2013-03-28 | 第5回海峰杯プロ囲碁戦16強戦 | Liu Yaowen | Chen Shiyuan | Win | W+R | 6.5 | 3208 | -19 | 
+| 2013-03-14 | 第5回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan |  | Win | B+R | 6.5 | 3227 | 4 | 
+| 2013-03-02 | 第18回LG杯台湾予選 | Wang Yuanjun | Chen Shiyuan | Lose | B+R | 6.5 | 3223 | 92 | 
+| 2012-12-06 | 第4回海峰杯プロ囲碁戦決勝三番勝負第2局 | Chen Shiyuan | Wang Yuanjun | Win | B+R | 6.5 | 3131 | -333 | 
+| 2012-11-29 | 第4回海峰杯プロ囲碁戦決勝三番勝負第1局 | Wang Yuanjun | Chen Shiyuan | Win | W+5.5 | 6.5 | 3464 | 133 | 
+| 2012-11-26 | 第2期友士杯十段戦挑戦手合三番勝負第2局 | Chen Shiyuan | Zhou Junxun | Lose | W+R | 7.5 | 3331 | -21 | 
+| 2012-11-22 | 第4回海峰杯プロ囲碁戦準決勝 | Chen Shiyuan | Zhang Zhehao | Win | B+R | 6.5 | 3352 | 9 | 
+| 2012-11-19 | 第2期友士杯十段戦挑戦手合三番勝負第1局 | Zhou Junxun | Chen Shiyuan | Lose | B+R | 7.5 | 3343 | 2 | 
+| 2012-11-15 | 第4回海峰杯プロ囲碁戦8強戦 | Chen Shiyuan | Lin Xiuping | Win | B+R | 6.5 | 3341 | 26 | 
+| 2012-11-08 | 第4回海峰杯プロ囲碁戦16強戦 | Chen Shiyuan | Yang Mengyun | Win | B+4.5 | 6.5 | 3315 | -8 | 
+| 2012-11-01 | 第4回海峰杯プロ囲碁戦32強戦 |  | Chen Shiyuan | Win | W+R | 6.5 | 3323 | 33 | 
+| 2012-10-22 | 第2期友士杯十段戦挑戦者決定戦 | Chen Shiyuan | Xiao Zhenghao | Win | B+R | 7.5 | 3290 | 31 | 
+| 2012-10-04 | 第5期棋王戦（台湾）挑戦手合七番勝負第6局 | Chen Shiyuan | Xiao Zhenghao | Win | B+R | 6.5 | 3259 | -2 | 
+| 2012-10-01 | 第2期友士杯十段戦勝者組決勝 | Chen Shiyuan | Lin Zhihan | Win | B+1.5 | 7.5 | 3261 | -8 | 
+| 2012-09-27 | 第5期棋王戦（台湾）挑戦手合七番勝負第5局 | Xiao Zhenghao | Chen Shiyuan | Lose | B+R | 6.5 | 3269 | -51 | 
+| 2012-09-20 | 第5期棋王戦（台湾）挑戦手合七番勝負第4局 | Chen Shiyuan | Xiao Zhenghao | Win | B+R | 6.5 | 3320 | -3 | 
+| 2012-09-18 | 第8期国手戦（台湾）挑戦手合五番勝負第4局 | Chen Shiyuan | Lin Zhihan | Win | B+R | 6.5 | 3323 | 24 | 
+| 2012-09-13 | 2012ジャステック杯国際新鋭囲碁対抗戦第3戦 | Anzai Nobuaki | Chen Shiyuan | Win | W+R | 6.5 | 3299 | 107 | 
+| 2012-09-12 | 2012ジャステック杯国際新鋭囲碁対抗戦第2戦 | Lian Xiao | Chen Shiyuan | Lose | B+R | 6.5 | 3192 | -39 | 
+| 2012-09-11 | 2012ジャステック杯国際新鋭囲碁対抗戦第1戦 | Chen Shiyuan | Lee Yeongkyu | Lose | W+R | 6.5 | 3231 | 45 | 
+| 2012-09-06 | 第5期棋王戦（台湾）挑戦手合七番勝負第3局 | Xiao Zhenghao | Chen Shiyuan | Lose | B+R | 6.5 | 3186 | -33 | 
+| 2012-09-04 | 第8期国手戦（台湾）挑戦手合五番勝負第3局 | Lin Zhihan | Chen Shiyuan | Win | W+R | 6.5 | 3219 | 4 | 
+| 2012-08-30 | 第5期棋王戦（台湾）挑戦手合七番勝負第2局 | Chen Shiyuan | Xiao Zhenghao | Win | B+3.5 | 6.5 | 3215 | 21 | 
+| 2012-08-28 | 第8期国手戦（台湾）挑戦手合五番勝負第2局 | Chen Shiyuan | Lin Zhihan | Lose | W+0.5 | 6.5 | 3194 | 16 | 
+| 2012-08-23 | 第5期棋王戦（台湾）挑戦手合七番勝負第1局 | Xiao Zhenghao | Chen Shiyuan | Win | W+2.5 | 6.5 | 3178 | 27 | 
+| 2012-08-21 | 第8期国手戦（台湾）挑戦手合五番勝負第1局 | Lin Zhihan | Chen Shiyuan | Win | W+R | 6.5 | 3151 | 22 | 
+| 2012-08-12 | 第8期国手戦（台湾）挑戦者決定プレーオフ | Wang Yuanjun | Chen Shiyuan | Win | W+0.5 | 6.5 | 3129 | -104 | 
+| 2012-07-31 | 第8期国手戦（台湾）リーグ | Chen Shiyuan | Lin Shuyang | Win | B+R | 6.5 | 3233 | 16 | 
+| 2012-07-20 | 第8期国手戦（台湾）リーグ | Hei Jiajia | Chen Shiyuan | Win | W+3.5 | 6.5 | 3217 | 17 | 
+| 2012-07-17 | 第8期国手戦（台湾）リーグ | Chen Shiyuan | Yang Bowei | Win | B+R | 6.5 | 3200 | 85 | 
+| 2012-06-26 | 第8期国手戦（台湾）リーグ | Zhou Junxun | Chen Shiyuan | Win | W+R | 6.5 | 3115 | -83 | 
+| 2012-06-05 | 第11期天元戦（台湾）挑戦手合五番勝負第3局 | Xiao Zhenghao | Chen Shiyuan | Win | W+R | 6.5 | 3198 | 38 | 
+| 2012-05-28 | 第11期天元戦（台湾）挑戦手合五番勝負第2局 | Chen Shiyuan | Xiao Zhenghao | Win | B+R | 6.5 | 3160 | -47 | 
+| 2012-05-22 | 第11期天元戦（台湾）挑戦手合五番勝負第1局 | Xiao Zhenghao | Chen Shiyuan | Win | W+0.5 | 6.5 | 3207 | -147 | 
+| 2012-03-30 | 第9回春蘭杯世界囲碁選手権2回戦 | Chen Shiyuan | Jiang Weijie | Lose | W+R | 7.5 | 3354 | -12 | 
+| 2012-03-28 | 第9回春蘭杯世界囲碁選手権1回戦 | Alexander Dinerchtein | Chen Shiyuan | Win | W+R | 7.5 | 3366 | -62 | 
+| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Chen Yaoye | Chen Shiyuan | Lose | B+R | 6.5 | 3428 | 34 | 
+| 2012-02-05 | 第7回応氏杯世界選手権台湾選抜戦 | Lin Lixiang | Chen Shiyuan | Lose | B+5 | 7.5 | 3394 | -34 | 
+| 2012-01-08 | 第4回BCカード杯世界選手権台湾予選決勝 | Lin Lixiang | Chen Shiyuan | Win | W+1.5 | 6.5 | 3428 | -36 | 
+| 2011-12-10 | 第1回スポーツアコードワールドマインドゲームズ囲碁団体戦 | Chen Shiyuan | Kong Jie | Lose | W+R | 7.5 | 3464 | -33 | 
+| 2011-12-09 | 第1回スポーツアコードワールドマインドゲームズ囲碁団体戦 | Chen Shiyuan | Lee Sedol | Win | B+R | 7.5 | 3497 | 500 | 
+| 2011-11-21 | 第16回LG杯世界棋王戦3回戦 | Chen Shiyuan | Lee Changho | Lose | W+R | 6.5 | 2997 | -70 | 
+| 2011-10-27 | 第3回海峰杯プロ囲碁戦準決勝 | Chen Shiyuan | Zhou Junxun | Lose | W+R | 6.5 | 3067 | 2 | 
+| 2011-10-20 | 第3回海峰杯プロ囲碁戦8強戦 | Chen Shiyuan | Lin Lixiang | Win | B+R | 6.5 | 3065 | -24 | 
+| 2011-10-13 | 第3回海峰杯プロ囲碁戦16強戦 |  | Chen Shiyuan | Win | W+2.5 | 6.5 | 3089 | -25 | 
+| 2011-09-22 | 第4期棋王戦（台湾）挑戦手合七番勝負第7局 | Chen Shiyuan | Zhou Junxun | Win | B+R | 6.5 | 3114 | 23 | 
+| 2011-09-15 | 第4期棋王戦（台湾）挑戦手合七番勝負第6局 | Zhou Junxun | Chen Shiyuan | Lose | B+R | 6.5 | 3091 | 33 | 
+| 2011-09-08 | 第4期棋王戦（台湾）挑戦手合七番勝負第5局 | Chen Shiyuan | Zhou Junxun | Win | B+3.5 | 6.5 | 3058 | 1 | 
+| 2011-09-01 | 第4期棋王戦（台湾）挑戦手合七番勝負第4局 | Zhou Junxun | Chen Shiyuan | Win | W+R | 6.5 | 3057 | -4 | 
+| 2011-08-11 | 第24回世界囲碁選手権富士通杯2回戦 | Park Junghwan | Chen Shiyuan | Lose | B+R | 6.5 | 3061 | -3 | 
+| 2011-08-10 | 第24回世界囲碁選手権富士通杯1回戦 | Cho U | Chen Shiyuan | Win | W+R | 6.5 | 3064 | 26 | 
+| 2011-07-21 | 第4期棋王戦（台湾）挑戦手合七番勝負第3局 | Chen Shiyuan | Zhou Junxun | Win | B+6.5 | 6.5 | 3038 | 2 | 
+| 2011-07-14 | 第4期棋王戦（台湾）挑戦手合七番勝負第2局 | Zhou Junxun | Chen Shiyuan | Lose | B+R | 6.5 | 3036 | -32 | 
+| 2011-07-12 | 第7期国手戦（台湾）リーグ | Xiao Zhenghao | Chen Shiyuan | Win | W+2.5 | 6.5 | 3068 | 6 | 
+| 2011-07-07 | 第4期棋王戦（台湾）挑戦手合七番勝負第1局 | Chen Shiyuan | Zhou Junxun | Lose | W+R | 6.5 | 3062 | -32 | 
+| 2011-07-05 | 第7期国手戦（台湾）リーグ | Yang Mengyun | Chen Shiyuan | Win | W+R | 6.5 | 3094 | -9 | 
+| 2011-06-28 | 第7期国手戦（台湾）リーグ | Hei Jiajia | Chen Shiyuan | Lose | B+2.5 | 6.5 | 3103 | -208 | 
+| 2011-06-15 | 第16回LG杯世界棋王戦2回戦 | Park Seunghwa | Chen Shiyuan | Win | W+1.5 | 6.5 | 3311 | 9 | 
+| 2011-06-13 | 第16回LG杯世界棋王戦1回戦 | Han Wonggyu | Chen Shiyuan | Win | W+0.5 | 6.5 | 3302 | 67 | 
+| 2011-05-24 | 第10期天元戦（台湾）挑戦手合五番勝負第4局 | Xiao Zhenghao | Chen Shiyuan | Win | W+R | 6.5 | 3235 | 29 | 
+| 2011-05-17 | 第10期天元戦（台湾）挑戦手合五番勝負第3局 | Chen Shiyuan | Xiao Zhenghao | Win | B+5.5 | 6.5 | 3206 | -5 | 
+| 2011-05-10 | 第10期天元戦（台湾）挑戦手合五番勝負第2局 | Xiao Zhenghao | Chen Shiyuan | Win | W+R | 6.5 | 3211 | -5 | 
+| 2011-04-26 | 第10期天元戦（台湾）挑戦手合五番勝負第1局 | Chen Shiyuan | Xiao Zhenghao | Lose | W+R | 6.5 | 3216 | -20 | 
+| 2011-04-19 | 第10期天元戦（台湾）リーグ | Lin Zhihan | Chen Shiyuan | Win | W+6.5 | 6.5 | 3236 | 38 | 
+| 2011-02-25 | 第3回BCカード杯世界選手権2回戦 | Chen Shiyuan | Park Seunghwa | Lose | W+R | 6.5 | 3198 | 46 | 
+| 2011-01-29 | 第3回BCカード杯世界選手権1回戦 | Yun Junsang | Chen Shiyuan | Win | W+1.5 | 6.5 | 3152 | 136 | 
+| 2011-01-21 | 第24回世界囲碁選手権富士通杯台湾予選決勝 | Chen Shiyuan | Lin Lixiang | Win | B+R | 6.5 | 3016 | -40 | 
+| 2011-01-11 | 第24回世界囲碁選手権富士通杯台湾予選 | Chen Shiyuan | Xiao Zhenghao | Win | B+R | 6.5 | 3056 | 72 | 
+| 2010-12-28 | 第6期王座戦（台湾）挑戦手合五番勝負第4局 | Chen Shiyuan | Xiao Zhenghao | Win | B+R | 6.5 | 2984 | 63 | 
+| 2010-12-21 | 第6期王座戦（台湾）挑戦手合五番勝負第3局 | Xiao Zhenghao | Chen Shiyuan | Lose | B+R | 6.5 | 2921 | -14 | 
+| 2010-12-18 | 第3回BCカード杯世界選手権台湾予選決勝 | Lin Zhihan | Chen Shiyuan | Win | W+R | 6.5 | 2935 | 9 | 
+| 2010-12-16 | 第6期王座戦（台湾）挑戦手合五番勝負第2局 | Chen Shiyuan | Xiao Zhenghao | Win | B+R | 6.5 | 2926 | 4 | 
+| 2010-12-09 | 第6期王座戦（台湾）挑戦手合五番勝負第1局 | Xiao Zhenghao | Chen Shiyuan | Win | W+R | 6.5 | 2922 | 54 | 
+| 2010-12-07 | 第3回BCカード杯世界選手権台湾予選 | Xiao Zhenghao | Chen Shiyuan | Win | W+0.5 | 6.5 | 2868 | -73 | 
+| 2010-11-26 | 2010年アジア競技大会囲碁男子団体戦 | Iyama Yuta | Chen Shiyuan | Lose | B+R | 7.5 | 2941 | -76 | 
+| 2010-11-24 | 2010年アジア競技大会囲碁男子団体戦 | Chen Shiyuan | Lee Sedol | Lose | W+R | 7.5 | 3017 | 0 | 
+| 2010-11-24 | 2010年アジア競技大会囲碁男子団体戦 | Chen Shiyuan | Liu Xing | Lose | W+R | 7.5 | 3017 | 10 | 
+| 2010-10-05 | 2010年国際新鋭囲碁対抗戦第3戦 | Anzai Nobuaki | Chen Shiyuan | Win | W+0.5 | 6.5 | 3007 | 13 | 
+| 2010-10-04 | 2010年国際新鋭囲碁対抗戦第2戦 | Chen Yaoye | Chen Shiyuan | Lose | B+1.5 | 6.5 | 2994 | 74 | 
+| 2010-10-03 | 2010年国際新鋭囲碁対抗戦第1戦 | Chen Shiyuan | Park Junghwan | Lose | W+6.5 | 6.5 | 2920 | 2 | 
+| 2010-09-23 | 第2回海峰杯プロ囲碁戦16強戦 | Zhou Keping | Chen Shiyuan | Lose | B+R | 6.5 | 2918 | -66 | 
+| 2010-09-16 | 第2回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan |  | Win | B+R | 6.5 | 2984 | 48 | 
+| 2010-08-05 | 第15回三星火災杯統合予選準決勝 | Chen Shiyuan | Lee Hyungjin | Lose | W+3.5 | 6.5 | 2936 | -14 | 
+| 2010-07-29 | 第3期棋王戦（台湾）挑戦手合七番勝負第4局 | Chen Shiyuan | Lin Zhihan | Win | B+R | 6.5 | 2950 | 12 | 
+| 2010-07-22 | 第3期棋王戦（台湾）挑戦手合七番勝負第3局 | Lin Zhihan | Chen Shiyuan | Win | W+1.5 | 6.5 | 2938 | -10 | 
+| 2010-07-15 | 第3期棋王戦（台湾）挑戦手合七番勝負第2局 | Chen Shiyuan | Lin Zhihan | Win | B+R | 6.5 | 2948 | 47 | 
+| 2010-07-08 | 第3期棋王戦（台湾）挑戦手合七番勝負第1局 | Lin Zhihan | Chen Shiyuan | Win | W+0.5 | 6.5 | 2901 | 101 | 
+| 2010-05-03 | 第9期天元戦（台湾）挑戦者決定プレーオフ | Xiao Zhenghao | Chen Shiyuan | Lose | B+0.5 | 6.5 | 2800 | 20 | 
+| 2010-04-10 | 第23回世界囲碁選手権富士通杯1回戦 | Chen Shiyuan | Anzai Nobuaki | Lose | W+2.5 | 6.5 | 2780 | -101 | 
+| 2010-02-10 | 第23回世界囲碁選手権富士通杯台湾予選決勝 | Zhou Junxun | Chen Shiyuan | Win | W+R | 6.5 | 2881 | -79 | 
+| 2010-01-16 | 第2回BCカード杯世界選手権1回戦 | Heo Yongho | Chen Shiyuan | Lose | B+R | 6.5 | 2960 | -35 | 
+| 2009-12-15 | 第2回BCカード杯世界選手権台湾予選決勝 | Lin Zhihan | Chen Shiyuan | Win | W+R | 6.5 | 2995 | 2995 | 
+| 2009-12-13 | 第2回BCカード杯世界選手権台湾予選 | Chen Shiyuan | Lin Lixiang | Win | B+R | 6.5 | missing | -2963 | 
+| 2009-12-02 | 2009年国際新鋭囲碁対抗戦第3戦 | Chen Shiyuan | Iyama Yuta | Win | B+R | 7.5 | 2963 | 73 | 
+| 2009-12-01 | 2009年国際新鋭囲碁対抗戦第2戦 | Chen Yaoye | Chen Shiyuan | Lose | B+R | 7.5 | 2890 | -30 | 
+| 2009-11-30 | 2009年国際新鋭囲碁対抗戦第1戦 | Kim Jiseok | Chen Shiyuan | Lose | B+3.5 | 7.5 | 2920 | -129 | 
+| 2009-11-19 | 第1回海峰杯プロ囲碁戦決勝三番勝負第3局 | Lin Zhihan | Chen Shiyuan | Lose | B+R | 6.5 | 3049 | 3 | 
+| 2009-11-12 | 第1回海峰杯プロ囲碁戦決勝三番勝負第2局 | Lin Zhihan | Chen Shiyuan | Win | W+R | 6.5 | 3046 | 16 | 
+| 2009-11-05 | 第1回海峰杯プロ囲碁戦決勝三番勝負第1局 | Chen Shiyuan | Lin Zhihan | Lose | W+R | 6.5 | 3030 | -16 | 
+| 2009-10-29 | 第1回海峰杯プロ囲碁戦準決勝 | Lin Xiuping | Chen Shiyuan | Win | W+R | 6.5 | 3046 | 67 | 
+| 2009-10-15 | 第1回海峰杯プロ囲碁戦8強戦 | Chen Shiyuan | Yu Keimin | Win | B+R | 6.5 | 2979 | 15 | 
+| 2009-09-17 | 第1回海峰杯プロ囲碁戦16強戦 | Zhou Pingqiang | Chen Shiyuan | Win | W+R | 6.5 | 2964 | 36 | 
+| 2009-09-03 | 第1回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan | Zhang Zhengping | Win | B+9.5 | 6.5 | 2928 | -72 | 
+| 2009-07-16 | 第2期棋王戦（台湾）挑戦手合七番勝負第6局 | Chen Shiyuan | Zhou Junxun | Win | B+1.5 | 6.5 | 3000 | -5 | 
+| 2009-07-09 | 第2期棋王戦（台湾）挑戦手合七番勝負第5局 | Zhou Junxun | Chen Shiyuan | Lose | B+R | 6.5 | 3005 | -11 | 
+| 2009-07-07 | 第8期天元戦（台湾）挑戦手合五番勝負第5局 | Chen Shiyuan | Lin Zhihan | Lose | W+R | 6.5 | 3016 | -16 | 
+| 2009-07-02 | 第2期棋王戦（台湾）挑戦手合七番勝負第4局 | Chen Shiyuan | Zhou Junxun | Lose | W+0.5 | 6.5 | 3032 | -32 | 
+| 2009-06-30 | 第8期天元戦（台湾）挑戦手合五番勝負第4局 | Lin Zhihan | Chen Shiyuan | Win | W+2.5 | 6.5 | 3064 | 54 | 
+| 2009-06-25 | 第2期棋王戦（台湾）挑戦手合七番勝負第3局 | Zhou Junxun | Chen Shiyuan | Win | W+0.5 | 6.5 | 3010 | 64 | 
+| 2009-06-18 | 第2期棋王戦（台湾）挑戦手合七番勝負第2局 | Chen Shiyuan | Zhou Junxun | Win | B+2.5 | 6.5 | 2946 | 9 | 
+| 2009-06-16 | 第8期天元戦（台湾）挑戦手合五番勝負第3局 | Chen Shiyuan | Lin Zhihan | Lose | W+R | 6.5 | 2937 | 4 | 
+| 2009-06-11 | 第2期棋王戦（台湾）挑戦手合七番勝負第1局 | Zhou Junxun | Chen Shiyuan | Win | W+1.5 | 6.5 | 2933 | 47 | 
+| 2009-06-09 | 第8期天元戦（台湾）挑戦手合五番勝負第2局 | Lin Zhihan | Chen Shiyuan | Lose | B+R | 6.5 | 2886 | -37 | 
+| 2009-06-02 | 第8期天元戦（台湾）挑戦手合五番勝負第1局 | Chen Shiyuan | Lin Zhihan | Win | B+8.5 | 6.5 | 2923 | -64 | 
+| 2009-05-20 | 第14回LG杯世界棋王戦2回戦 | Chen Shiyuan | Qiu Jun | Lose | W+R | 6.5 | 2987 | -23 | 
+| 2009-05-18 | 第14回LG杯世界棋王戦1回戦 | Wang Xi | Chen Shiyuan | Win | W+2.5 | 6.5 | 3010 | 137 | 
+| 2009-03-15 | 第1回BCカード杯世界選手権2回戦 | Lee Sedol | Chen Shiyuan | Lose | B+R | 6.5 | 2873 | -58 | 
+| 2009-03-01 | 第1回BCカード杯世界選手権1回戦 | Chen Shiyuan |  | Win | B+R | 6.5 | 2931 | 352 | 
+| 2008-11-19 | 2008年国際新鋭囲碁対抗戦第3戦 | Chen Shiyuan | Ko Iso | Lose | W+R | 6.5 | 2579 | -87 | 
+| 2008-11-18 | 2008年国際新鋭囲碁対抗戦第2戦 | Chen Shiyuan | Hong Seongji | Win | B+3.5 | 6.5 | 2666 | 77 | 
+| 2008-11-17 | 2008年国際新鋭囲碁対抗戦第1戦 | Tuo Jiaxi | Chen Shiyuan | Win | W+R | 6.5 | 2589 | -611 | 
+| 2008-10-17 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦三位決定戦 | Chen Shiyuan | Yoda Norimoto | Lose | W+R | 6.5 | 3200 | 0 | 
+| 2008-10-17 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Chang Hao | Chen Shiyuan | Lose | B+2.5 | 6.5 | 3200 | 21 | 
+| 2008-10-05 | 第4期王座戦（台湾）リーグ | Chen Shiyuan | Lin Shuyang | Win | B+4.5 | 6.5 | 3179 | 58 | 
+| 2008-09-04 | 第1期棋王戦（台湾）決勝 | Zhou Junxun | Chen Shiyuan | Lose | B+4.5 | 6.5 | 3121 | 319 | 
+| 2008-06-24 | 第4期トヨタ＆デンソー杯囲碁世界王座戦台湾予選 | Chen Shiyuan | Zhou Junxun | Lose | W+R | 6.5 | 2802 | -19 | 
+| 2008-06-22 | 第4期トヨタ＆デンソー杯囲碁世界王座戦台湾予選 | Chen Shiyuan |  | Win | B+R | 6.5 | 2821 | 208 | 
+| 2008-03-15 | 第7回春蘭杯世界囲碁選手権1回戦 | Chen Shiyuan | Wang Xi | Lose | W+R | 7.5 | 2613 | -4 | 
+| 2007-12-27 | 第3期王座戦（台湾）挑戦手合五番勝負第5局 | Zhou Junxun | Chen Shiyuan | Lose | B+0.5 | 6.5 | 2617 | 13 | 
+| 2007-12-20 | 第3期王座戦（台湾）挑戦手合五番勝負第3局 | Zhou Junxun | Chen Shiyuan | Win | W+R | 6.5 | 2604 | 4 | 
+| 2007-12-11 | 第3期王座戦（台湾）挑戦手合五番勝負第1局 | Zhou Junxun | Chen Shiyuan | Win | W+R | 6.5 | 2600 | 17 | 
+| 2007-12-06 | 第3期王座戦（台湾）リーグ | Chen Shiyuan | Huang Xiangren | Win | B+R | 6.5 | 2583 | -4 | 
+| 2007-12-04 | 第3期王座戦（台湾）リーグ | Chen Feng | Chen Shiyuan | Win | W+R | 6.5 | 2587 | -1 | 
+| 2007-12-02 | 第3期王座戦（台湾）リーグ | Lin Shengxian | Chen Shiyuan | Win | W+3.5 | 6.5 | 2588 | 6 | 
+| 2007-11-27 | 第3期王座戦（台湾）リーグ | Chen Shiyuan | Lin Yuxiang | Win | B+R | 6.5 | 2582 | -6 | 
+| 2007-11-25 | 第3期王座戦（台湾）リーグ | Chen Shiyuan | Lin Shuyang | Win | B+2.5 | 6.5 | 2588 | -24 | 
+| 2007-11-20 | 第3期王座戦（台湾）リーグ | Xiao Zhenghao | Chen Shiyuan | Win | W+R | 6.5 | 2612 | 10 | 
+| 2007-11-15 | 第3期王座戦（台湾）リーグ | Chen Shiyuan | Lin Zhihan | Win | B+R | 6.5 | 2602 | 30 | 
+| 2007-11-08 | 2007年国際新鋭囲碁対抗戦第3戦 | Chen Shiyuan | Iyama Yuta | Lose | W+R | 6.5 | 2572 | -45 | 
+| 2007-11-07 | 2007年国際新鋭囲碁対抗戦第2戦 | Kong Jie | Chen Shiyuan | Lose | B+R | 6.5 | 2617 | 11 | 
+| 2007-11-05 | 2007年国際新鋭囲碁対抗戦第1戦 | Chen Shiyuan | Lee Yeongkyu | Win | B+R | 6.5 | 2606 | -31 | 
+| 2007-10-04 | 第3期国手戦（台湾）挑戦手合五番勝負第5局 | Xiao Zhenghao | Chen Shiyuan | Win | W+0.5 | 6.5 | 2637 | 6 | 
+| 2007-09-27 | 第3期国手戦（台湾）挑戦手合五番勝負第4局 | Xiao Zhenghao | Chen Shiyuan | Lose | B+2.5 | 6.5 | 2631 | -1313 | 
+| 2007-09-20 | 第3期国手戦（台湾）挑戦手合五番勝負第3局 | Chen Shiyuan | Xiao Zhenghao | Lose | W+1.5 | 6.5 | 3944 | -53 | 
+| 2007-09-13 | 第3期国手戦（台湾）挑戦手合五番勝負第2局 | Xiao Zhenghao | Chen Shiyuan | Win | W+R | 6.5 | 3997 | 1293 | 
+| 2007-09-06 | 第3期国手戦（台湾）挑戦手合五番勝負第1局 | Chen Shiyuan | Xiao Zhenghao | Win | B+R | 6.5 | 2704 | 31 | 
+| 2007-08-28 | 第14期中環杯囲碁オープン戦決勝 | Chen Shiyuan | Xiao Zhenghao | Lose | W+0.5 | 6.5 | 2673 | -328 | 
+| 2007-08-12 | 第3回中環杯世界囲碁選手権1回戦 | Chen Shiyuan | Yamashita Keigo | Lose | W+R | 6.5 | 3001 | -121 | 
+| 2007-07-03 | 第6期天元戦（台湾）挑戦手合五番勝負第4局 | Zhou Junxun | Chen Shiyuan | Win | W+R | 6.5 | 3122 | 23 | 
+| 2007-06-26 | 第6期天元戦（台湾）挑戦手合五番勝負第3局 | Chen Shiyuan | Zhou Junxun | Win | B+R | 6.5 | 3099 | 30 | 
+| 2007-06-21 | 第6期天元戦（台湾）挑戦手合五番勝負第2局 | Zhou Junxun | Chen Shiyuan | Win | W+R | 6.5 | 3069 | -2 | 
+| 2007-06-19 | 第14期中環杯囲碁オープン戦準決勝 | Chen Shiyuan | Xia Daming | Win | B+R | 6.5 | 3071 | 27 | 
+| 2007-06-12 | 第6期天元戦（台湾）挑戦手合五番勝負第1局 | Chen Shiyuan | Zhou Junxun | Lose | W+R | 6.5 | 3044 | 28 | 
+| 2007-06-05 | 第14期中環杯囲碁オープン戦4回戦 | Lin Shuyang | Chen Shiyuan | Win | W+R | 6.5 | 3016 | 11 | 
+| 2007-05-24 | 第6期天元戦（台湾）リーグ | Xiao Zhenghao | Chen Shiyuan | Win | W+1.5 | 6.5 | 3005 | -15 | 
+| 2007-05-15 | 第6期天元戦（台湾）リーグ |  | Chen Shiyuan | Win | W+R | 6.5 | 3020 | -13 | 
+| 2007-05-13 | 第14期中環杯囲碁オープン戦3回戦 | Rao Ruiyong | Chen Shiyuan | Win | W+R | 6.5 | 3033 | 4 | 
+| 2007-05-08 | 第6期天元戦（台湾）リーグ | Lin Zhihan | Chen Shiyuan | Lose | B+R | 6.5 | 3029 | -17 | 
+| 2007-03-20 | 第6期天元戦（台湾）リーグ | Chen Yida | Chen Shiyuan | Win | W+R | 6.5 | 3046 | 393 | 
+| 2007-03-09 | 第6期天元戦（台湾）リーグ | Lin Shuyang | Chen Shiyuan | Win | W+R | 6.5 | 2653 | -22 | 
+| 2007-03-06 | 第6期天元戦（台湾）リーグ | Yu Keimin | Chen Shiyuan | Win | W+R | 6.5 | 2675 | 5 | 
+| 2007-02-08 | 第20回世界囲碁選手権富士通杯台湾予選決勝 | Zhou Junxun | Chen Shiyuan | Lose | B+R | 6.5 | 2670 | -1 | 
+| 2007-02-06 | 第20回世界囲碁選手権富士通杯台湾予選 | Zhou Keping | Chen Shiyuan | Win | W+R | 6.5 | 2671 | 88 | 
+| 2006-12-26 | 第2期王座戦（台湾）挑戦手合五番勝負第4局 | Chen Shiyuan | Zhou Junxun | Lose | W+7.5 | 6.5 | 2583 | 11 | 
+| 2006-12-19 | 第2期王座戦（台湾）挑戦手合五番勝負第3局 | Zhou Junxun | Chen Shiyuan | Lose | B+R | 6.5 | 2572 | -6 | 
+| 2006-12-12 | 第2期王座戦（台湾）挑戦手合五番勝負第2局 | Chen Shiyuan | Zhou Junxun | Win | B+R | 6.5 | 2578 | 3 | 
+| 2006-12-05 | 第2期王座戦（台湾）挑戦手合五番勝負第1局 | Zhou Junxun | Chen Shiyuan | Lose | B+R | 6.5 | 2575 | -14 | 
+| 2006-11-15 | 2006年国際新鋭囲碁対抗戦第3戦 | Chen Shiyuan | Matsumoto Takehisa | Lose | W+2.5 | 7.5 | 2589 | -47 | 
+| 2006-11-14 | 2006年国際新鋭囲碁対抗戦第2戦 | Chen Shiyuan | Piao Wenyao | Lose | W+R | 7.5 | 2636 | -44 | 
+| 2006-11-13 | 2006年国際新鋭囲碁対抗戦第1戦 | Ko Keuntae | Chen Shiyuan | Win | W+2.5 | 7.5 | 2680 | 45 | 
+| 2006-11-07 | 第2期王座戦（台湾）リーグ | Chen Shiyuan | Huang Xiangren | Win | B+R | 6.5 | 2635 | 25 | 
+| 2006-10-31 | 第2期王座戦（台湾）リーグ | Lin Zhihan | Chen Shiyuan | Win | W+1.5 | 6.5 | 2610 | 52 | 
+| 2006-10-24 | 第2期王座戦（台湾）リーグ | Chen Shiyuan | Yang Mengyun | Win | B+R | 6.5 | 2558 | 47 | 
+| 2006-10-17 | 第13期中環杯囲碁オープン戦準決勝 | Yu Keimin | Chen Shiyuan | Lose | B+R | 6.5 | 2511 | 3 | 
+| 2006-09-24 | 第2期国手戦（台湾）挑戦手合五番勝負第3局 | Chen Shiyuan | Xiao Zhenghao | Win | B+R | 6.5 | 2508 | 18 | 
+| 2006-09-19 | 第2期国手戦（台湾）挑戦手合五番勝負第2局 | Xiao Zhenghao | Chen Shiyuan | Win | W+15.5 | 6.5 | 2490 | 11 | 
+| 2006-09-15 | 第2期国手戦（台湾）挑戦手合五番勝負第1局 | Chen Shiyuan | Xiao Zhenghao | Win | B+5.5 | 6.5 | 2479 | -21 | 
+| 2006-09-03 | 第2期王座戦（台湾）リーグ | Zhou Yinnan | Chen Shiyuan | Win | W+R | 6.5 | 2500 | -20 | 
+| 2006-08-29 | 第2期王座戦（台湾）リーグ | Chen Shiyuan | Chen Yida | Lose | W+2.5 | 6.5 | 2520 | -31 | 
+| 2006-08-10 | 第6期東鋼杯プロ囲碁戦3回戦 | Chen Shiyuan | Zhou Junxun | Lose | W+6.5 | 6.5 | 2551 | -39 | 
+| 2006-08-08 | 第2期国手戦（台湾）リーグ | Chen Shiyuan | Huang Xiangren | Win | B+R | 6.5 | 2590 | -5 | 
+| 2006-08-06 | 第2期国手戦（台湾）リーグ | Chen Shiyuan |  | Lose | W+1.5 | 6.5 | 2595 | 9 | 
+| 2006-07-31 | 第2期国手戦（台湾）リーグ |  | Chen Shiyuan | Win | W+R | 6.5 | 2586 | 26 | 
+| 2006-07-25 | 第2期王座戦（台湾）リーグ | Xiao Zhenghao | Chen Shiyuan | Win | W+3.5 | 6.5 | 2560 | 8 | 
+| 2006-07-22 | 第2期国手戦（台湾）リーグ | Zhou Yinnan | Chen Shiyuan | Win | W+6.5 | 6.5 | 2552 | -123 | 
+| 2006-07-11 | 第2期国手戦（台湾）リーグ | Chen Shiyuan | Chen Yida | Win | B+R | 6.5 | 2675 | 16 | 
+| 2006-07-04 | 第2期国手戦（台湾）リーグ | Zhou Junxun | Chen Shiyuan | Win | W+2.5 | 6.5 | 2659 | 23 | 
+| 2006-07-01 | 第5期天元戦（台湾）リーグ | Yu Keimin | Chen Shiyuan | Lose | B+1.5 | 6.5 | 2636 | -11 | 
+| 2006-06-27 | 第5期天元戦（台湾）リーグ | Chen Shiyuan | Xia Daming | Win | B+R | 6.5 | 2647 | -196 | 
+| 2006-06-20 | 第5期天元戦（台湾）リーグ | Lin Zhihan | Chen Shiyuan | Win | W+4.5 | 6.5 | 2843 | 17 | 
+| 2006-06-04 | 第5期天元戦（台湾）リーグ | Zhou Yinnan | Chen Shiyuan | Win | W+R | 6.5 | 2826 | 9 | 
+| 2006-05-30 | 第5期天元戦（台湾）リーグ | Zhou Pingqiang | Chen Shiyuan | Win | W+R | 6.5 | 2817 | -4 | 
+| 2006-05-28 | 第5期天元戦（台湾）リーグ | Lin Shuyang | Chen Shiyuan | Lose | B+0.5 | 6.5 | 2821 | -17 | 
+| 2006-05-23 | 第5期天元戦（台湾）リーグ | Chen Shiyuan |  | Win | B+R | 6.5 | 2838 | 116 | 
+| 2006-05-16 | 第5期天元戦（台湾）予選 | Chen Shiyuan | Zhou Keping | Win | B+7.5 | 6.5 | 2722 | 61 | 
+| 2006-05-09 | 第5期天元戦（台湾）予選 | Chen Shiyuan | Lin Shengxian | Win | B+4.5 | 6.5 | 2661 | 8 | 
+| 2006-05-03 | 第5回CSK杯囲碁アジア対抗戦第3戦 | Chen Shiyuan | Yuki Satoshi | Lose | W+4.5 | 6.5 | 2653 | -6 | 
+| 2006-05-02 | 第5回CSK杯囲碁アジア対抗戦第2戦 | Ko Keuntae | Chen Shiyuan | Lose | B+R | 6.5 | 2659 | 2 | 
+| 2006-05-01 | 第5回CSK杯囲碁アジア対抗戦第1戦 | Chen Shiyuan | Xie He | Lose | W+0.5 | 6.5 | 2657 | 23 | 
+| 2006-04-18 | 第3期トヨタ＆デンソー杯囲碁世界王座戦台湾予選 | Chen Shiyuan | Zhou Junxun | Lose | W+R | 6.5 | 2634 | -42 | 
+| 2006-04-11 | 第1期王座戦（台湾）リーグ | Zhou Keping | Chen Shiyuan | Win | W+14.5 | 6.5 | 2676 | 65 | 
+| 2006-04-04 | 第1期王座戦（台湾）リーグ | Lin Shengxian | Chen Shiyuan | Win | W+1.5 | 6.5 | 2611 | 2 | 
+| 2006-04-02 | 第5期天元戦（台湾）予選 |  | Chen Shiyuan | Win | W+7.5 | 6.5 | 2609 | 5 | 
+| 2006-03-28 | 第5期天元戦（台湾）予選 | Chen Shiyuan | Xiao Zhenghao | Win | B+5.5 | 6.5 | 2604 | 61 | 
+| 2006-03-21 | 第1期王座戦（台湾）リーグ | Chen Shiyuan | Lin Zhihan | Lose | W+2.5 | 6.5 | 2543 | -32 | 
+| 2006-03-16 | 第3期トヨタ＆デンソー杯囲碁世界王座戦台湾予選 | Chen Shiyuan | Yang Mengyun | Win | B+R | 6.5 | 2575 | -9 | 
+| 2006-03-07 | 第1期王座戦（台湾）リーグ |  | Chen Shiyuan | Win | W+8.5 | 6.5 | 2584 | 41 | 
+| 2006-02-21 | 第5期新人王戦（旧｜台湾）2回戦 | Lin Zhihan | Chen Shiyuan | Lose | B+R | 6.5 | 2543 | -5 | 
+| 2006-02-14 | 第1期王座戦（台湾）リーグ | Chen Shiyuan | Huang Xiangren | Lose | W+R | 6.5 | 2548 | -10 | 
+| 2006-02-12 | 第5回CSK杯囲碁アジア対抗戦台湾選抜戦 | Chen Shiyuan | Zhou Junxun | Win | B+0.5 | 6.5 | 2558 | 13 | 
+| 2006-02-09 | 第1期王座戦（台湾）リーグ | Chen Shiyuan | Xiao Zhenghao | Win | B+R | 6.5 | 2545 | 0 | 
+| 2006-01-24 | 第1期王座戦（台湾）リーグ | Chen Shiyuan | Yu Keimin | Win | B+1.5 | 6.5 | 2545 | 23 | 
+| 2006-01-22 | 第5期天元戦（台湾）予選 | Zhang Zhengping | Chen Shiyuan | Win | W+R | 6.5 | 2522 | -87 | 
+| 2006-01-17 | 第5期天元戦（台湾）予選 | Chen Shiyuan | Xia Daming | Lose | W+R | 6.5 | 2609 | -163 | 
+| 2006-01-13 | 第5期新人王戦（旧｜台湾）1回戦 | Zhou Pingqiang | Chen Shiyuan | Win | W+R | 6.5 | 2772 | 211 | 
+| 2006-01-10 | 第1期王座戦（台湾）予選 |  | Chen Shiyuan | Win | W+4.5 | 6.5 | 2561 | -2 | 
+| 2006-01-08 | 第6回CMC杯テレビ早碁戦2回戦 | Lin Zhihan | Chen Shiyuan | Lose | B+R | 6.5 | 2563 | -294 | 
+| 2005-11-22 | 第1期王座戦（台湾）予選 | Lin Shuyang | Chen Shiyuan | Win | W+4.5 | 6.5 | 2857 | 321 | 
+| 2005-11-08 | 第5期東鋼杯プロ囲碁戦決勝三番勝負第2局 | Dai Jiashen | Chen Shiyuan | Win | W+R | 6.5 | 2536 | 14 | 
+| 2005-10-30 | 第5期東鋼杯プロ囲碁戦決勝三番勝負第1局 | Chen Shiyuan | Dai Jiashen | Win | B+1.5 | 6.5 | 2522 | -210 | 
+| 2005-10-19 | 2005年国際新鋭囲碁対抗戦第3戦 | Chen Shiyuan | Kono Rin | Win | B+R | 6.5 | 2732 | 44 | 
+| 2005-10-18 | 2005年国際新鋭囲碁対抗戦第2戦 | Chen Shiyuan | Song Taekon | Lose | W+R | 6.5 | 2688 | 27 | 
+| 2005-10-17 | 2005年国際新鋭囲碁対抗戦第1戦 | Chen Shiyuan | Peng Quan | Lose | W+5.5 | 6.5 | 2661 | -52 | 
+| 2005-10-11 | 第1期国手戦（台湾）リーグ | Lin Shengxian | Chen Shiyuan | Win | W+6.5 | 6.5 | 2713 | 38 | 
+| 2005-10-06 | 第1期国手戦（台湾）リーグ | Lin Shuyang | Chen Shiyuan | Win | W+R | 6.5 | 2675 | 9 | 
+| 2005-10-04 | 第5期東鋼杯プロ囲碁戦準決勝 | Chen Shiyuan | Huang Xiangren | Win | B+R | 6.5 | 2666 | 5 | 
+| 2005-09-28 | 第10回三星火災杯世界オープン囲碁選手権1回戦 | Wang Xi | Chen Shiyuan | Lose | B+R | 6.5 | 2661 | 17 | 
+| 2005-09-20 | 第1期王座戦（台湾）予選 | Chen Shiyuan |  | Win | B+R | 6.5 | 2644 | -55 | 
+| 2005-09-15 | 第1期国手戦（台湾）リーグ | Chen Shiyuan | Zhou Pingqiang | Win | B+R | 6.5 | 2699 | 63 | 
+| 2005-08-30 | 第10回三星火災杯予選決勝 | Chen Shiyuan | Seo Musang | Win | B+R | 6.5 | 2636 | 59 | 
+| 2005-08-14 | 第2回中環杯世界囲碁選手権1回戦 | Yoda Norimoto | Chen Shiyuan | Lose | B+R | 6.5 | 2577 | 2 | 
+| 2005-08-09 | 第5期東鋼杯プロ囲碁戦2回戦 | Zhou Pingqiang | Chen Shiyuan | Win | W+R | 6.5 | 2575 | 19 | 
+| 2005-08-07 | 第1期国手戦（台湾）リーグ | Chen Shiyuan |  | Win | B+10.5 | 6.5 | 2556 | 48 | 
+| 2005-08-04 | 第5期東鋼杯プロ囲碁戦1回戦 | Xia Daming | Chen Shiyuan | Win | W+R | 6.5 | 2508 | 12 | 
+| 2005-07-29 | 第1期国手戦（台湾）リーグ | Dai Jiashen | Chen Shiyuan | Win | W+R | 6.5 | 2496 | 26 | 
+| 2005-07-26 | 第1期国手戦（台湾）リーグ | Huang Xiangren | Chen Shiyuan | Lose | B+0.5 | 6.5 | 2470 | -76 | 
+| 2005-07-14 | 第1期国手戦（台湾）リーグ | Chen Shiyuan | Lin Zhihan | Win | B+3.5 | 6.5 | 2546 | 181 | 
+| 2005-07-10 | 第1期国手戦（台湾）予選 | Zhou Pingqiang | Chen Shiyuan | Win | W+R | 6.5 | 2365 | 334 | 
+| 2005-06-21 | 第1期国手戦（台湾）予選 | Chen Shiyuan | Liu Jianchang | Win | B+5.5 | 6.5 | 2031 | -465 | 
+| 2005-03-28 | 第9期SKガス杯新鋭プロ十傑戦リーグA | Chen Shiyuan | Lee Hyeonwuk | Lose | W+R | 6.5 | 2496 | -51 | 
+| 2005-03-25 | 第9期SKガス杯新鋭プロ十傑戦リーグA | Cho Hyeyeon | Chen Shiyuan | Lose | B+R | 6.5 | 2547 | 2547 | 
+| 2005-02-27 | 第4期天元戦（台湾）予選 | Chen Shiyuan | Xu Changzheng | Lose | W+0.5 | 6.5 | missing | -2875 | 
+| 2004-12-30 | 第9期SKガス杯新鋭プロ十傑戦リーグA | Chen Shiyuan | Yun Junsang | Lose | W+R | 6.5 | 2875 | -55 | 
+| 2004-12-27 | 第9期SKガス杯新鋭プロ十傑戦リーグA | Kang Dongyun | Chen Shiyuan | Lose | B+R | 6.5 | 2930 | 131 | 
+| 2004-10-08 | 第8期SKガス杯新鋭プロ十傑戦七位決定戦 | Cho Hyeyeon | Chen Shiyuan | Lose | B+R | 6.5 | 2799 | -254 | 
+| 2004-09-15 | 第8期SKガス杯新鋭プロ十傑戦リーグA | Chen Shiyuan | Park Seunghyeon | Lose | W+2.5 | 6.5 | 3053 | 152 | 
+| 2004-07-06 | 第8期SKガス杯新鋭プロ十傑戦リーグA |  | Chen Shiyuan | Win | W+4.5 | 6.5 | 2901 | -101 | 
+| 2004-06-14 | 第8期SKガス杯新鋭プロ十傑戦リーグA | Park Cheongsang | Chen Shiyuan | Win | W+0.5 | 6.5 | 3002 | 90 | 
+| 2004-04-02 | 第8期SKガス杯新鋭プロ十傑戦リーグA | Paek Daehyun | Chen Shiyuan | Lose | B+5.5 | 6.5 | 2912 | -72 | 
+| 2004-02-23 | 第8期SKガス杯新鋭プロ十傑戦リーグA | Chen Shiyuan | Park Shiun | Win | B+1.5 | 6.5 | 2984 | 162 | 
+| 2003-11-12 | 第14期BCカード杯新人王戦 | An Joyeong | Chen Shiyuan | Lose | B+R | 6.5 | 2822 | 509 | 
+| 2003-05-22 | 第3期オスラムコリア杯新鋭連勝最強戦 | Chen Shiyuan | Park Yeonghun | Win | B+R | 6.5 | 2313 | 0 | 
+| 2003-05-22 | 第3期オスラムコリア杯新鋭連勝最強戦 | Chen Shiyuan | Heo Yongho | Lose | W+R | 6.5 | 2313 | 2313 | 
+| 2002-09-09 | 第2期KT杯マスターズプロ棋戦2回戦 | Chen Shiyuan | Yoo Changhyuk | Lose | W+4.5 | 6.5 | missing | 0 | 
+| 2002-03-29 | 第1期KTF杯戦 | Chen Shiyuan |  | Lose | W+R | 6.5 | missing | 0 | 
+| 2002-03-12 | 第1期KTF杯戦 | Chen Shiyuan | Yoo Changhyuk | Lose | W+3.5 | 6.5 | missing | 0 | 
+| 2002-01-10 | 第1期KTF杯戦 | Lee Changho | Chen Shiyuan | Lose | B+R | 6.5 | missing | 0 | 
+| 2001-12-20 | 第1期KTF杯戦 | Im Seongkeun | Chen Shiyuan | Lose | B+R | 6.5 | missing | missing |
 
 
 

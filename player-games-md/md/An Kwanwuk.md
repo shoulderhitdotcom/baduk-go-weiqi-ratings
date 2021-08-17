@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-17 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Chang Suyeong | Win | B+3.5 | 6.5 | 2494 | 60 | 
 | 2021-08-11 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Park Yeongchan | Win | B+0.5 | 6.5 | 2434 | 132 | 
 | 2021-08-04 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | An Kwanwuk | Lose | B+R | 6.5 | 2302 | -269 | 
 | 2021-01-21 | 第8回大舟杯プロシニア最強者戦予選 |  | An Kwanwuk | Lose | B+R | 6.5 | 2571 | 31 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-17 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Chang Suyeong | Lose | B+3.5 | 6.5 | 2403 | 172 | 
 | 2021-08-05 | 2021韓国シニア囲碁リーグ | Park Seungmun | Chang Suyeong | Win | W+5.5 | 6.5 | 2231 | -171 | 
 | 2021-01-18 | 2021年韓国棋院杯シニア囲碁大会準決勝 | Chang Suyeong | Seo Nungwuk | Lose | W+R | 6.5 | 2402 | 81 | 
 | 2020-10-26 | 2020NHシニア囲碁リーグ第14節第2試合第2局 | Chang Suyeong | Park Yeongchan | Lose | W+0.5 | 6.5 | 2321 | 13 | 

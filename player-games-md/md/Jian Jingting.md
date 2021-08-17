@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-17 | 第2期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Jian Jingting | Lose | B+R | 6.5 | 3232 | 107 | 
+| 2021-08-15 | 第2期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Jian Jingting | Lose | B+1.5 | 6.5 | 3125 | 2 | 
+| 2021-08-13 | 第2期聯電杯プロ囲碁戦敗部4回戦 | Lin Junyan | Jian Jingting | Win | W+0.5 | 6.5 | 3123 | -3 | 
+| 2021-08-13 | 第2期聯電杯プロ囲碁戦敗部4回戦 | Lin Junyan | Jian Jingting | Win | W+0.5 | 6.5 | 3126 | -46 | 
 | 2021-08-10 | 第2期聯電杯プロ囲碁戦勝部3回戦 |  | Jian Jingting | Lose | B+R | 6.5 | 3172 | 34 | 
 | 2021-08-08 | 第2期聯電杯プロ囲碁戦勝部2回戦 | Jian Jingting | Chen Xi | Win | B+R | 6.5 | 3138 | 3 | 
 | 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Li Wei | Jian Jingting | Win | W+R | 6.5 | 3135 | 6 | 

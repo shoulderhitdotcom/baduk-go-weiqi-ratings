@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-17 | 2021韓国シニア囲碁リーグ | Lee Kisup | Jimmy Cha | Win | W+10.5 | 6.5 | 2567 | 80 | 
 | 2021-08-11 | 2021韓国シニア囲碁リーグ | Kim Dongmyeon | Jimmy Cha | Lose | B+4.5 | 6.5 | 2487 | 14 | 
 | 2021-08-04 | 2021韓国シニア囲碁リーグ | Jimmy Cha |  | Win | B+6.5 | 6.5 | 2473 | -84 | 
 | 2020-10-26 | 2020NHシニア囲碁リーグ第14節第2試合第1局 | Kim Soojang | Jimmy Cha | Win | W+22.5 | 6.5 | 2557 | 37 | 

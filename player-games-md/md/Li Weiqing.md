@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-18 | 第26回三星火災杯中国予選 | Li Weiqing | Huang Yunsong | Win | B+R | 6.5 | 3671 | 142 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Li Weiqing | Zhou Ruiyang | Lose | W+R | 7.5 | 3529 | -11 | 
 | 2021-07-28 | 第23回農心杯中国予選 | Xie Erhao | Li Weiqing | Win | W+R | 6.5 | 3540 | -8 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Li Weiqing | Win | W+R | 7.5 | 3548 | 0 | 

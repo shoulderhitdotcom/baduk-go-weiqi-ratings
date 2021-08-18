@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-18 | 第7回健喬杯女子囲碁最強戦勝部1回戦  | Yang Zixuan | Yu Lijun | Win | B+R | 6.5 | 2864 | 140 | 
 | 2021-08-16 | 第7回健喬杯女子囲碁最強戦予選 |  | Yang Zixuan | Win | W+R | 6.5 | 2724 | 2724 | 
 | 2021-05-28 | 第4回呉清源杯台湾予選 | Yang Zixuan |  | Lose | W+R | 7.5 | missing | 0 | 
 | 2021-05-20 | 第4回呉清源杯台湾予選 | Zhang Kaixin | Yang Zixuan | Win | W+R | 7.5 | missing | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-18 | 第26回三星火災杯中国予選 | Tang Weixing | Lian Xiao | Lose | W+R | 6.5 | 3607 | 100 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Tang Weixing | Huang Yunsong | Lose | W+R | 6.5 | 3507 | 6 | 
 | 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Ding Hao | Tang Weixing | Lose | B+R | 7.5 | 3501 | -13 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Peng Liyao | Tang Weixing | Win | W+R | 7.5 | 3514 | 1 | 

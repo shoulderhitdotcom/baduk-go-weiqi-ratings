@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-18 | 第47期碁聖戦予選 | Watanabe Yuu | Hoshikawa Takumi | Win | B+R | 6.5 | 2797 | 142 | 
 | 2021-06-23 | 第60期十段戦予選 | Imamura Toshiya | Watanabe Yuu | Lose | B+R | 6.5 | 2655 | -80 | 
 | 2021-06-10 | 第60期十段戦予選 | Watanabe Yuu | Takashima Yugo | Win | B+3.5 | 6.5 | 2735 | 48 | 
 | 2021-05-12 | 第60期十段戦予選 | Sakakibara Masateru | Watanabe Yuu | Win | W+6.5 | 6.5 | 2687 | -91 | 

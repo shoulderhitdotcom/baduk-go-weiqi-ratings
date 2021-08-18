@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-18 | 第26回三星火災杯中国予選 | Li Xuanhao | Peng Liyao | Win | W+R | 6.5 | 3489 | 131 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Tan Xiao | Peng Liyao | Win | W+R | 6.5 | 3358 | 20 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Fan Tingyu | Peng Liyao | Win | W+R | 7.5 | 3338 | 43 | 
 | 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Huang Yunsong | Peng Liyao | Win | W+R | 7.5 | 3295 | 10 | 

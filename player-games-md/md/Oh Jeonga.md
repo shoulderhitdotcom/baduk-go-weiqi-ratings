@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-18 | 第1回IBK企業銀行杯女子囲碁マスターズ決勝三番勝負第2局 | Choi Jeong | Oh Jeonga | Lose | B+R | 6.5 | 3003 | -4 | 
 | 2021-08-17 | 第1回IBK企業銀行杯女子囲碁マスターズ決勝三番勝負第1局 | Oh Jeonga | Choi Jeong | Lose | W+R | 6.5 | 3007 | 141 | 
 | 2021-08-04 | 第1回IBK企業銀行杯女子囲碁マスターズ準決勝 | Kim Eunseon | Oh Jeonga | Win | W+0.5 | 6.5 | 2866 | -69 | 
 | 2021-07-13 | 第23回農心杯韓国予選 | Oh Jeonga | Choi Jaeyoung | Lose | W+R | 6.5 | 2935 | 11 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-18 | 第26回三星火災杯中国予選 | Tong Mengcheng | Liao Yuanhe | Win | W+3.5 | 6.5 | 3563 | 140 | 
 | 2021-07-30 | 第16回威孚房開杯棋王戦2回戦 | Mi Yuting | Liao Yuanhe | Lose | B+R | 7.5 | 3423 | -2 | 
 | 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Liao Yuanhe | Zhou Hongyu | Win | B+R | 7.5 | 3425 | -15 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Zhou Ruiyang | Win | B+R | 7.5 | 3440 | 1 | 

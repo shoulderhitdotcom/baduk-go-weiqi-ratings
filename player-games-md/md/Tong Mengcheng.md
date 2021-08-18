@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-18 | 第26回三星火災杯中国予選 | Tong Mengcheng | Liao Yuanhe | Lose | W+3.5 | 6.5 | 3538 | 100 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Tong Mengcheng | Zhao Chenyu | Lose | W+R | 6.5 | 3438 | -10 | 
 | 2021-08-13 | 第26回三星火災杯中国予選 | Wang Xinghao | Tong Mengcheng | Lose | B+R | 6.5 | 3448 | -1 | 
 | 2021-08-13 | 第26回三星火災杯中国予選 | Wang Xinghao | Tong Mengcheng | Lose | B+R | 6.5 | 3449 | 5 | 

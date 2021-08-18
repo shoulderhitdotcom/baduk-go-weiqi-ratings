@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-18 | 第1回IBK企業銀行杯女子囲碁マスターズ決勝三番勝負第2局 | Choi Jeong | Oh Jeonga | Win | B+R | 6.5 | 3407 | 0 | 
 | 2021-08-17 | 第1回IBK企業銀行杯女子囲碁マスターズ決勝三番勝負第1局 | Oh Jeonga | Choi Jeong | Win | W+R | 6.5 | 3407 | 115 | 
 | 2021-08-15 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Choi Jeong | Park Junghwan | Lose | W+R | 6.5 | 3292 | -5 | 
 | 2021-08-13 | 第7回韓国女子囲碁リーグ | Choi Jeong |  | Win | B+R | 6.5 | 3297 | 1 | 

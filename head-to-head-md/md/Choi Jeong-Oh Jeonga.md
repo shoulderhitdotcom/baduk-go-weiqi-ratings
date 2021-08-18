@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jeong vs Oh Jeonga** | **Choi Jeong streak** | **Oh Jeonga streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-08-17 | 第1回IBK企業銀行杯女子囲碁マスターズ決勝三番勝負第1局 | Oh Jeonga | Choi Jeong | W+R | 6.5 | 1:0 | 1 | 0 | 
+| 2021-08-18 | 第1回IBK企業銀行杯女子囲碁マスターズ決勝三番勝負第2局 | Choi Jeong | Oh Jeonga | B+R | 6.5 | 1:0 | 1 | 0 | 
+| 2021-08-17 | 第1回IBK企業銀行杯女子囲碁マスターズ決勝三番勝負第1局 | Oh Jeonga | Choi Jeong | W+R | 6.5 | 8:4 | 6 | 0 | 
 | 2020-11-03 | 第4期韓国製紙女子棋聖戦1回戦 | Oh Jeonga | Choi Jeong | W+R | 6.5 | 7:4 | 5 | 0 | 
 | 2020-06-05 | 第6回韓国女子囲碁リーグ第3節第2試合第1局 | Choi Jeong | Oh Jeonga | B+3.5 | 6.5 | 6:4 | 4 | 0 | 
 | 2019-06-27 | 第5回韓国女子囲碁リーグ第7節第4試合第1局 | Choi Jeong | Oh Jeonga | B+0.5 | 6.5 | 5:4 | 3 | 0 | 

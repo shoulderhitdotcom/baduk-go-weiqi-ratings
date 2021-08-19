@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-09 | 第47期碁聖戦予選 | Abe Yoshiki | Murakawa Daisuke | Lose | W+R | 6.5 | 2811 | 17 | 
+| 2021-08-19 | 第46期棋聖戦Cリーグ | Nakamura Sumire | Abe Yoshiki | Win | W+R | 6.5 | 2925 | 131 | 
 | 2021-06-09 | 第47期碁聖戦予選 | Abe Yoshiki | Murakawa Daisuke | Lose | W+R | 6.5 | 2794 | 7 | 
 | 2021-05-31 | 第46期棋聖戦Cリーグ | Ishida Yoshio | Abe Yoshiki | Lose | B+1.5 | 6.5 | 2787 | -117 | 
 | 2021-04-14 | 第47期名人戦予選 | Ha Youngil | Abe Yoshiki | Lose | B+R | 6.5 | 2904 | -238 | 

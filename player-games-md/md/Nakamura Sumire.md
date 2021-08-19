@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-19 | 第46期棋聖戦Cリーグ | Nakamura Sumire | Abe Yoshiki | Lose | W+R | 6.5 | 2773 | 2773 | 
+| 2021-08-12 | 第6回扇興杯女流最強戦2回戦 | Nakamura Sumire | Suzuki Ayumi | Lose | W+3.5 | 6.5 | missing | -2740 | 
 | 2021-08-02 | 第48期天元戦予選 | Nakamura Sumire | Antti Tormanen | Win | B+6.5 | 6.5 | 2740 | 38 | 
 | 2021-07-22 | 第70期王座戦予選 | Nakamura Sumire | Endo Yoshifumi | Win | B+2.5 | 6.5 | 2702 | -5 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Nakamura Sumire | Zhou Hongyu | Lose | W+R | 7.5 | 2707 | 0 | 

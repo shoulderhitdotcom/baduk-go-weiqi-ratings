@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-19 | 第65期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yu Zhengqi | Sada Atsushi | Lose | B+R | 6.5 | 3124 | -43 | 
 | 2021-08-11 | 第47期名人戦予選 | Fujii Shuya | Sada Atsushi | Win | W+R | 6.5 | 3167 | 49 | 
 | 2021-08-02 | 第77期本因坊戦予選 | Sada Atsushi | Fukuoka Kotaro | Win | B+3.5 | 6.5 | 3118 | 12 | 
 | 2021-07-29 | 第48期天元戦予選 |  | Sada Atsushi | Win | W+R | 6.5 | 3106 | -27 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-19 | 第2期聯電杯プロ囲碁戦リーグ | Xu Haohong | Wang Yuanjun | Lose | B+2.5 | 6.5 | 3235 | -75 | 
 | 2021-08-17 | 第2期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Lu Yiquan | Win | B+R | 6.5 | 3310 | 121 | 
 | 2021-08-15 | 第2期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Jian Jingting | Win | B+1.5 | 6.5 | 3189 | 0 | 
 | 2021-07-28 | 第11期友士杯十段戦挑戦者決定戦 | Lin Junyan | Wang Yuanjun | Lose | B+3.5 | 6.5 | 3189 | 3189 | 

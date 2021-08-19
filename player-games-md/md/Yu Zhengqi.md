@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-19 | 第65期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yu Zhengqi | Sada Atsushi | Win | B+R | 6.5 | 3315 | -19 | 
 | 2021-08-11 | 第47期碁聖戦予選 | Yu Zhengqi | Yahata Naoki | Win | B+6.5 | 6.5 | 3334 | 58 | 
 | 2021-08-02 | 第77期本因坊戦予選 | Tsuneishi Takashi | Yu Zhengqi | Win | W+2.5 | 6.5 | 3276 | 3276 | 
 | 2021-07-26 | 第46期棋聖戦Sリーグ  | Yu Zhengqi | Ichiriki Ryo | Lose | W+R | 6.5 | missing | -3249 | 

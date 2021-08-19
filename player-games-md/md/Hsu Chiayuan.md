@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-19 | 第46期棋聖戦Aリーグ | Mutsuura Yuta | Hsu Chiayuan | Win | W+R | 6.5 | 3403 | 3403 | 
+| 2021-08-12 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Seto Taiki | Hsu Chiayuan | Win | W+R | 6.5 | missing | -3370 | 
 | 2021-08-06 | 第46期名人戦リーグ  | Kono Rin | Hsu Chiayuan | Win | W+0.5 | 6.5 | 3370 | 52 | 
 | 2021-07-15 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Hsu Chiayuan | Win | W+6.5 | 6.5 | 3318 | -1 | 
 | 2021-07-15 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Hsu Chiayuan | Win | W+6.5 | 6.5 | 3319 | 3 | 

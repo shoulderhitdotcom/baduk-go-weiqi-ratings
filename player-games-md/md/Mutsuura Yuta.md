@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-19 | 第46期棋聖戦Aリーグ | Mutsuura Yuta | Hsu Chiayuan | Lose | W+R | 6.5 | 3153 | 34 | 
+| 2021-08-05 | 第60期十段戦予選 | Shida Tatsuya | Mutsuura Yuta | Lose | B+R | 6.5 | 3119 | 16 | 
+| 2021-07-29 | 第46期棋聖戦Aリーグ | Hane Naoki | Mutsuura Yuta | Win | W+R | 6.5 | 3103 | -15 | 
 | 2021-06-10 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Mutsuura Yuta | Lose | B+R | 6.5 | 3118 | 5 | 
 | 2021-05-06 | 第46期棋聖戦Aリーグ | Mutsuura Yuta | Suzuki Shinji | Lose | W+R | 6.5 | 3113 | -29 | 
 | 2021-04-23 | 第46期棋聖戦Aリーグ | Mutsuura Yuta | Shibano Toramaru | Lose | W+R | 6.5 | 3142 | -49 | 

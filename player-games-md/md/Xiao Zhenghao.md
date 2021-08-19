@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-19 | 第2期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Xiao Zhenghao | Win | W+R | 6.5 | 3086 | -67 | 
 | 2021-08-17 | 第2期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Jian Jingting | Win | B+R | 6.5 | 3153 | 108 | 
 | 2021-08-15 | 第2期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao |  | Lose | W+1.5 | 6.5 | 3045 | 3045 | 
 | 2021-07-26 | 第11期友士杯十段戦敗部決勝 | Xiao Zhenghao | Wang Yuanjun | Lose | W+R | 6.5 | missing | -3051 | 

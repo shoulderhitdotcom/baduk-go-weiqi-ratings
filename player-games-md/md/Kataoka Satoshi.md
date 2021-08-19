@@ -5,321 +5,325 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第47期名人戦予選 | Kataoka Satoshi | Kobayashi Koichi | B+3.5 | 2021-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ynN5D7jGVN5boD1lLdGBxg%3D%3D) | 
-| 第47期名人戦予選 | Kataoka Satoshi | Fukui Masaaki | B+R | 2021-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tQnzOufUrLIwej2feneamw%3D%3D) | 
-| 第46期棋聖戦予選 | Sakai Maki | Kataoka Satoshi | B+R | 2021-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jSG7NjzKS9bybO2xhQnd3A%3D%3D) | 
-| 第46期棋聖戦予選 | Komatsu Hideki | Kataoka Satoshi | W+5.5 | 2021-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GFFRPP3KelTzeyifFEMaWw%3D%3D) | 
-| 第47期天元戦予選 | Cho Chikun | Kataoka Satoshi | B+R | 2020-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Iov3mEYf97bBIUB%2B27pQgw%3D%3D) | 
-| 第77期本因坊戦予選 | Kataoka Satoshi | Kono Mitsuki | W+R | 2020-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bNjq6wtX03fQnKBT2cm9jw%3D%3D) | 
-| 第47期天元戦予選 | Kataoka Satoshi | Xie Yimin | B+3.5 | 2020-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=We4QBa%2BmOVOq3vQgKxp5aw%3D%3D) | 
-| 第46期碁聖戦予選 | Fujita Akihiko | Kataoka Satoshi | B+R | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TGNOPKEbSgt7CvuTv%2BA2fg%3D%3D) | 
-| 第69期王座戦予選 | missing | Kataoka Satoshi | W+R | 2020-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ywsPWAkUodAltcF6RUkClQ%3D%3D) | 
-| 第27期阿含・桐山杯全日本早碁オープン戦予選 | Kataoka Satoshi | missing | W+1.5 | 2020-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eKwwZY1x4qPrCoYeAeCh6Q%3D%3D) | 
-| 第59期十段戦予選 | Kataoka Satoshi | Mizokami Tomochika | W+R | 2020-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OxAxit8qfCC%2Bge0%2BFxEPMQ%3D%3D) | 
-| 第46期碁聖戦予選 | Onishi Kenya | Kataoka Satoshi | W+1.5 | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FJlmfhstyZ7R3a3GyVbmTw%3D%3D) | 
-| 第69期王座戦予選 | Kataoka Satoshi | Chino Tadahiko | B+R | 2020-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w9is%2FTr4QaA9jBXMtQkt%2Fg%3D%3D) | 
-| 第46期碁聖戦予選 | Kataoka Satoshi | Ikeda Ayako | B+R | 2020-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mpmxlMU9aK5vaYTeIowsQA%3D%3D) | 
-| 第59期十段戦予選 | Kataoka Satoshi | Shuto Shun | B+2.5 | 2020-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B2dzOC%2Ff66s4IRhjR2e46g%3D%3D) | 
-| 第45期棋聖戦ファーストトーナメント予選 | Kataoka Satoshi | Mochizuki Kenichi | W+0.5 | 2020-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z8C0XAJ3QAh0BIBvO9Ohtg%3D%3D) | 
-| 第46期名人戦予選 | Kataoka Satoshi | missing | W+R | 2020-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FXQJEv%2BgZh4KouJxabFsmQ%3D%3D) | 
-| 第45期棋聖戦ファーストトーナメント予選 | Ohashi Hirofumi | Kataoka Satoshi | W+R | 2019-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AA1su40x2oK4xdlj4aww9g%3D%3D) | 
-| 第76期本因坊戦予選 | Kataoka Satoshi | Morita Michihiro | W+5.5 | 2019-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UVG7QIVN5mo75Xu7xIGTNQ%3D%3D) | 
-| 第45期棋聖戦ファーストトーナメント予選 | Aoki Shinichi | Kataoka Satoshi | W+6.5 | 2019-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6sMfu0L7SjJsSpD8FgIjAg%3D%3D) | 
-| 第45期棋聖戦ファーストトーナメント予選 | Kataoka Satoshi | Kuwabara Shun | B+R | 2019-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yUL%2Fyo2aSIObTp8ycbstBA%3D%3D) | 
-| 第46期天元戦予選 | Kataoka Satoshi | Kobayashi Koichi | W+2.5 | 2019-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H1Qd%2BtNljOyl8hk7xfmgCw%3D%3D) | 
-| 第59期十段戦予選 | Omori Yasushi | Kataoka Satoshi | W+R | 2019-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tPtnzODEvZ3dQ%2F5D%2BIy3aw%3D%3D) | 
-| 第46期天元戦予選 | Kataoka Satoshi | Kato Atsushi | B+R | 2019-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=68UWTs1SJtSHftNvkV4mPw%3D%3D) | 
-| 第45期碁聖戦予選 | Seki Kotaro | Kataoka Satoshi | B+R | 2019-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EDtr5rA%2BhJxXxqSU43nFJA%3D%3D) | 
-| 第45期名人戦予選 | Kataoka Satoshi | Kudo Norio | W+1.5 | 2019-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IQNls0%2BeR4hepbu%2F2DalRA%3D%3D) | 
-| 第9回フマキラー囲碁マスターズカップ1回戦 | Kataoka Satoshi | Kobayashi Koichi | W+R | 2019-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ziyykDUCR%2FOTlxME6EJWXg%3D%3D) | 
-| 第45期名人戦予選 | Kataoka Satoshi | Yamada Shinji | B+0.5 | 2019-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lvo0GAcmW0MiVIw4R3MmHg%3D%3D) | 
-| 第45期名人戦予選 | Yamada Takuji | Kataoka Satoshi | W+3.5 | 2019-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A7Lp84qDCOkGfi564DA95A%3D%3D) | 
-| 第75期本因坊戦予選 | Mitani Tetsuya | Kataoka Satoshi | B+R | 2019-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hXV%2FNI%2B6d5VnQcgngO%2FcFA%3D%3D) | 
-| 第58期十段戦予選 | Kataoka Satoshi | Fujimura Yosuke | W+R | 2019-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q0k4iwtx4QLPJsa9BzQLdg%3D%3D) | 
-| 第44期棋聖戦ファーストトーナメント予選 | Ohba Junya | Kataoka Satoshi | B+R | 2018-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UeDR61obgHs%2BLHnve634xA%3D%3D) | 
-| 第44期棋聖戦ファーストトーナメント予選 | Kataoka Satoshi | Oomote Takuto | B+R | 2018-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J1VCc2VPY8IeD7pjoa2oNA%3D%3D) | 
-| 第45期天元戦予選 | So Yokoku | Kataoka Satoshi | B+R | 2018-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PBoYk8Obccz38jZT2VQQ1g%3D%3D) | 
-| 第45期天元戦予選 | Kataoka Satoshi | Terayama Rei | B+R | 2018-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Z01srBvXXy%2BcLIoil4WMw%3D%3D) | 
-| 第67期王座戦予選 | Kataoka Satoshi | Mochizuki Kenichi | W+R | 2018-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=13Qoy8LZuBrCh8HWp89%2B%2Bw%3D%3D) | 
-| 第44期碁聖戦予選 | Kataoka Satoshi | O Rissei | W+7.5 | 2018-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MESYnkj1rl%2FRwqkRAVOF%2Bg%3D%3D) | 
-| 第74期本因坊戦最終予選 | Kataoka Satoshi | Anzai Nobuaki | W+R | 2018-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JtPSEzJXCKqxenRClkbCtg%3D%3D) | 
-| 第45期天元戦予選 | Sakai Takeshi | Kataoka Satoshi | W+R | 2018-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w3fxdkH8Frlo%2BJ5jJAjBxQ%3D%3D) | 
-| 第67期王座戦予選 | Kataoka Satoshi | Shiraishi Yuichi | B+R | 2018-08-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PG5evh7blucqJra8Xm9Dug%3D%3D) | 
-| 第44期碁聖戦予選 | So Kofuku | Kataoka Satoshi | W+R | 2018-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IpeF%2FF1N7tshMIIvxujmyg%3D%3D) | 
-| 第8回フマキラー囲碁マスターズカップ決勝  | Kataoka Satoshi | Yoda Norimoto | W+R | 2018-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BRwJGbEP78Sshz%2FgIh10Dw%3D%3D) | 
-| 第74期本因坊戦最終予選 | Kataoka Satoshi | Rin Kanketsu | B+3.5 | 2018-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1B9hHkjfqEIsiV%2FKStIKgg%3D%3D) | 
-| 第8回フマキラー囲碁マスターズカップ準決勝  | Cho Chikun | Kataoka Satoshi | W+R | 2018-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XMFDbHAgUEUt8TrIAeJc2g%3D%3D) | 
-| 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Seto Taiki | Kataoka Satoshi | B+2.5 | 2018-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MYbBDzVFUTt8m%2FlT5hkCFA%3D%3D) | 
-| 第74期本因坊戦予選 | Hirose Yuichi | Kataoka Satoshi | W+5.5 | 2018-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dX7PzKCOleuTZcGS7D3zOA%3D%3D) | 
-| 第8回フマキラー囲碁マスターズカップ2回戦  | Hikosaka Naoto | Kataoka Satoshi | W+R | 2018-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fy6yfYJ%2Fenkl1ZZ%2B2PmFxw%3D%3D) | 
-| 第74期本因坊戦予選 | So Yokoku | Kataoka Satoshi | W+R | 2018-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DJlvsUyhgK5RETcmxGMMsQ%3D%3D) | 
-| 第74期本因坊戦予選 | Kataoka Satoshi | Okuda Aya | B+R | 2018-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2mbMiNvuHr4YXJrxREIDIQ%3D%3D) | 
-| 第8回フマキラー囲碁マスターズカップ1回戦 | Kataoka Satoshi | Rin Kaiho | B+R | 2018-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KLEJlhaW8%2BT9XKrUla9UKw%3D%3D) | 
-| 第44期名人戦予選 | Horimoto Mitsunari | Kataoka Satoshi | B+R | 2018-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AQS6QeZysGb%2BE7%2BZ%2FECSlw%3D%3D) | 
-| 第74期本因坊戦予選 | missing | Kataoka Satoshi | W+3.5 | 2018-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wkPNoPfrzbSj7w%2BJI8nqBw%3D%3D) | 
-| 第57期十段戦予選 | Kataoka Satoshi | Kobayashi Koichi | W+R | 2018-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4GkJ7%2Bapn3IHd7qZ4zf4zg%3D%3D) | 
-| 第43期棋聖戦ファーストトーナメント予選 | Ando Kazushige | Kataoka Satoshi | B+1.5 | 2017-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xKGcDrY4n372hWdCYx8j%2Bw%3D%3D) | 
-| 第66期王座戦予選 | Kataoka Satoshi | Suzuki Shinji | W+6.5 | 2017-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Me0OacyzUGWgXB6GHiv08A%3D%3D) | 
-| 第43期棋聖戦ファーストトーナメント予選 | Kataoka Satoshi | Kanda Ei | B+R | 2017-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UGZCulHwC2EPUdBPRnjyBg%3D%3D) | 
-| 第44期天元戦予選 | Kataoka Satoshi | Motoki Katsuya | W+5.5 | 2017-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JXmlmiletXskd6Bj%2Fb7GrQ%3D%3D) | 
-| 第44期天元戦　予選B決勝 | Kataoka Satoshi | Osawa Narumi | B+R | 2017-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bm08e1prjo8l7HSLopK8Cg%3D%3D) | 
-| 第66期王座戦　予選B決勝 | Oya Koichi | Kataoka Satoshi | W+5.5 | 2017-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a3oXEs8t%2FmVc23ObYgKn9w%3D%3D) | 
-| 第66期王座戦　予選B | Kanda Ei | Kataoka Satoshi | W+R | 2017-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MtFUATBWB8HtY4DJYDsWJw%3D%3D) | 
-| 第43期名人戦　予選B | Yokotsuka Riki | Kataoka Satoshi | B+2.5 | 2017-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3NWoWm6yaWXrdYRVrbulXQ%3D%3D) | 
-| 第66期王座戦　予選C決勝 | Oki Keiji | Kataoka Satoshi | W+R | 2017-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5TyKw3TDy4aUKJ05IuUpLQ%3D%3D) | 
-| 第7回囲碁マスターズカップ　本戦2回戦 | Kataoka Satoshi | Cho Chikun | W+R | 2017-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UPQ3VEPQ8jCzLsLrDjV2QQ%3D%3D) | 
-| 第66期王座戦　予選C | Mukai Kozue | Kataoka Satoshi | W+R | 2017-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xD2m5VUyIe0iEBgdOSsa7Q%3D%3D) | 
-| 第7回マスターズカップ　本戦1回戦 | Kataoka Satoshi | Awaji Shuzo | B+9.5 | 2017-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SnCj582libIIGYrsaBcZKg%3D%3D) | 
-| 第56期十段戦　予選A決勝 | Shuto Shun | Kataoka Satoshi | B+1.5 | 2017-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UyJgRkl%2BJnl56rLlNNJVNA%3D%3D) | 
-| 第56期十段戦　予選A | Takanashi Seiken | Kataoka Satoshi | W+5.5 | 2017-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MymD7mQ6%2BT70fTeeQytzKw%3D%3D) | 
-| 第73期本因坊戦　予選A | Shuto Shun | Kataoka Satoshi | B+R | 2017-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nQPVMN4b3nlNqTl2iOwZWQ%3D%3D) | 
-| 第42期棋聖戦　ファーストトーナメント2回戦 | Takanashi Seiken | Kataoka Satoshi | B+1.5 | 2016-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ry2fmE9BYfoEEvUd1QyLXg%3D%3D) | 
-| 第41期棋聖戦Cリーグ | Nakano Hironari | Kataoka Satoshi | B+0.5 | 2016-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tdN4eyaG%2BZigbHUOJww3BA%3D%3D) | 
-| 第41期棋聖戦Cリーグ | Kataoka Satoshi | Koike Yoshihiro | W+0.5 | 2016-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IQVYV9rb7HXQDmhU4ImrrA%3D%3D) | 
-| 第72期本因坊戦予選 | Ko Iso | Kataoka Satoshi | B+1.5 | 2016-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RA5Ho5AtLHK5qWveQFHJ9g%3D%3D) | 
-| 第65期王座戦予選 | Yamada Shinji | Kataoka Satoshi | B+R | 2016-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z9sFp%2FzVAEe9jqDMsLjP1w%3D%3D) | 
-| 第55期十段戦予選 | Akiyama Jiro | Kataoka Satoshi | B+4.5 | 2016-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gNXJp8nATEUh%2BAyT30AhDA%3D%3D) | 
-| 第42期碁聖戦予選 | Fujita Akihiko | Kataoka Satoshi | W+R | 2016-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1AFP5J4B%2FaB59SLPEYX4Iw%3D%3D) | 
-| 第42期名人戦予選 | Hashimoto Yujiro | Kataoka Satoshi | B+R | 2016-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hzuJBU%2BFmoffs2m9gXckfA%3D%3D) | 
-| 第41期棋聖戦Cリーグ | Kataoka Satoshi | Nakaonoda Tomomi | W+1.5 | 2016-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YVpTa1jDMTQrtUw%2FmooWBw%3D%3D) | 
-| 第72期本因坊戦予選 | Seto Taiki | Kataoka Satoshi | W+2.5 | 2016-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SQey0owvB4a0deLkHYOsEA%3D%3D) | 
-| 第23期阿含・桐山杯全日本早碁オープン戦予選 | Cho U | Kataoka Satoshi | B+6.5 | 2016-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eWHf7p9%2ByYXD%2Bil02rqa6w%3D%3D) | 
-| 第42期名人戦予選 | Kataoka Satoshi | Kanno Masashi | B+R | 2016-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wdrf%2BKj%2BX12ShmvuIU5FlQ%3D%3D) | 
-| 第23期阿含・桐山杯全日本早碁オープン戦予選 | Kataoka Satoshi | Yamamoto Kentaro | B+R | 2016-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xluQ%2BZRlyjaXUvr1JO9JKQ%3D%3D) | 
-| 第42期名人戦予選 | Izumitani Hideo | Kataoka Satoshi | W+R | 2016-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h2HsECm3wBqKN2jlT%2BjG0A%3D%3D) | 
-| 第41期棋聖戦Cリーグ | Ohashi Naruya | Kataoka Satoshi | W+R | 2016-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SrpxyQ8rQ3YMTSsfMIqXYg%3D%3D) | 
-| 第42期天元戦本戦2回戦 | Ichiriki Ryo | Kataoka Satoshi | B+R | 2016-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mp9YP4FSxoLd5k03%2BplixA%3D%3D) | 
-| 第72期本因坊戦予選 | Kataoka Satoshi | Obuchi Kotaro | B+R | 2016-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MMU2njiVQ%2ByI07SYeJ2Ntw%3D%3D) | 
-| 第42期名人戦予選 | Kataoka Satoshi | Kusunoki Teruko | B+7.5 | 2016-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7V9%2BjjBpd6lqlyuVxMswcw%3D%3D) | 
-| 第6回フマキラー囲碁マスターズカップ1回戦 | Kataoka Satoshi | O Meien | W+10.5 | 2016-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PAPwUOEOb8hWppxS1hrZZQ%3D%3D) | 
-| 第72期本因坊戦予選 | Kataoka Satoshi | Kono Takashi | B+R | 2016-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pQ31hPWLXwwPOwfHIage6g%3D%3D) | 
-| 第41期棋聖戦予選 | Kataoka Satoshi | Okada Shinichiro | B+0.5 | 2016-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N5rc0FJUjD3LbYFkvxdpGw%3D%3D) | 
-| 第41期棋聖戦予選 | Takeuchi Kousuke | Kataoka Satoshi | W+R | 2016-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vCJdRmIQYG6T8i2TLOpejg%3D%3D) | 
-| 第41期棋聖戦予選 | Kataoka Satoshi | Shimoji Gensho | B+R | 2015-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IY5gQXwY1iJc7d82UMS5zQ%3D%3D) | 
-| 第42期天元戦本戦1回戦 | Kataoka Satoshi | Kubo Katsuaki | B+R | 2015-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BY3HGkgDV4IkqLIQFyI2XQ%3D%3D) | 
-| 第41期棋聖戦予選 | Kataoka Satoshi | Suzuki Isao | B+R | 2015-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u8ea9P726nwmmgwUFR3NpA%3D%3D) | 
-| 第64期王座戦予選 | Awaji Shuzo | Kataoka Satoshi | B+R | 2015-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uvrmi1N08X5kTpQIyrncEw%3D%3D) | 
-| 第42期天元戦予選 | Yamada Takuji | Kataoka Satoshi | W+R | 2015-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5DeaJUVRPsKQ%2FZyJehl5fg%3D%3D) | 
-| 第54期十段戦1回戦 | Rin Shien | Kataoka Satoshi | B+R | 2015-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KhpUyYJwVNqrh8zVwiP3NA%3D%3D) | 
-| 第54期十段戦予選 | Kataoka Satoshi | Sakai Hideyuki | B+R | 2015-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u9QnY99cBpUM4pmaArY7rg%3D%3D) | 
-| 第54期十段戦予選 | Kataoka Satoshi | Matsuoka Hideki | B+R | 2015-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bS06oJK7j02LynfNR4BscQ%3D%3D) | 
-| 第54期十段戦予選 | Kataoka Satoshi | Shiraishi Yuichi | B+R | 2015-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rs%2B4XBTGmx3DLuCeHP4%2FHg%3D%3D) | 
-| 第71期本因坊戦予選 | Yo Kagen | Kataoka Satoshi | B+R | 2015-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iogqzXQzF5deF%2BCn8ZNH7g%3D%3D) | 
-| 第71期本因坊戦予選 | Kataoka Satoshi | Sakai Maki | B+R | 2015-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x2chjWftYsTtpg2%2BaRa5Og%3D%3D) | 
-| 第63期王座戦予選 | Kataoka Satoshi | Hsu Chiayuan | W+1.5 | 2015-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9AFdVzZ9EI7saTxonjgPxg%3D%3D) | 
-| 第54期十段戦予選 | Numadate Sakiya | Kataoka Satoshi | W+4.5 | 2015-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i08NEA0yOnyN27CzPASjFA%3D%3D) | 
-| 第41期天元戦本戦2回戦 | Kataoka Satoshi | Lee Ishu | W+R | 2015-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uDEkqT5IEV7hbT9i1UcFkA%3D%3D) | 
-| 第63期王座戦予選 | Kataoka Satoshi | Yamashita Keigo | B+1.5 | 2015-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dj5952%2BQFVdHkUEjGVFWEQ%3D%3D) | 
-| 第5回フマキラー囲碁マスターズカップ1回戦 | Ishida Yoshio | Kataoka Satoshi | B+R | 2015-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YOs7lTgw9ZXfIVHNRfl0uQ%3D%3D) | 
-| 第41期名人戦予選 | Kataoka Satoshi | Tamaki Shinobu | W+3.5 | 2015-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rrkEfU2YreEbG8ZDkl7SIw%3D%3D) | 
-| 第40期棋聖戦予選 | Kataoka Satoshi | Suzuki Ayumi | W+1.5 | 2015-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gdKojeYOO5tLiP3poYnT3Q%3D%3D) | 
-| 第41期天元戦本戦1回戦 | Kataoka Satoshi | Takeuchi Kousuke | B+R | 2015-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l3vn7wV%2BZGYIr8awUnpnTw%3D%3D) | 
-| 第63期王座戦予選 | Obuchi Kotaro | Kataoka Satoshi | W+R | 2015-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZzpUeiapiYGgiihHmvY43g%3D%3D) | 
-| 第40期棋聖戦予選 | Kataoka Satoshi | Xie Yimin | B+R | 2015-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YAtV001%2FKtZ9dYoM6S6HsQ%3D%3D) | 
-| 第63期王座戦予選 | Kataoka Satoshi | Takeuchi Kousuke | B+R | 2014-12-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aNbggr7HdGBGpiwuSZjvgw%3D%3D) | 
-| 第41期名人戦予選 | Kataoka Satoshi | Kato Tomoko | B+R | 2014-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P6rSOARPxHqUeOPLU3K3zw%3D%3D) | 
-| 第41期天元戦予選 | Kataoka Satoshi | Sun Zhe | B+R | 2014-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iQdYUmTU3N7FqGWDX2iJ3A%3D%3D) | 
-| 第41期天元戦予選 | Kobayashi Koichi | Kataoka Satoshi | W+R | 2014-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dbgzHBjBBxOnButhCaV68A%3D%3D) | 
-| 第63期王座戦予選 | Kataoka Satoshi | Chino Tadahiko | B+R | 2014-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F6tdSyzRiAFT8fhUoo%2F45w%3D%3D) | 
-| 第40期碁聖戦予選 | Ito Masashi | Kataoka Satoshi | W+R | 2014-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xlnWQr9Teh1pjW9Uonn4jw%3D%3D) | 
-| 第41期天元戦予選 | Suzuki Ayumi | Kataoka Satoshi | W+R | 2014-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T%2FsoKopDUuv5ZcSEDvTkMg%3D%3D) | 
-| 第53期十段戦予選 | Kim Sujun | Kataoka Satoshi | B+R | 2014-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mHY3Pcqy4DqhNCBr8XRK9Q%3D%3D) | 
-| 第21期阿含・桐山杯全日本早碁オープン戦1回戦 | Kataoka Satoshi | Ida Atsushi | W+R | 2014-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4gzE%2Bh%2FmxcAkfAvxoLCKYw%3D%3D) | 
-| 第53期十段戦予選 | Kataoka Satoshi | Cho Riyu | B+R | 2014-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZcsTINF7V8TZE9L45lO%2BoA%3D%3D) | 
-| 第70期本因坊戦予選 | Matsumoto Takehisa | Kataoka Satoshi | B+0.5 | 2014-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FYs%2BAXYuN1uiz78%2BTH0Duw%3D%3D) | 
-| 第21期阿含・桐山杯全日本早碁オープン戦予選 | Nakane Naoyuki | Kataoka Satoshi | W+3.5 | 2014-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CZeUsrtuNqLq9ZtDsf4zHg%3D%3D) | 
-| 第70期本因坊戦予選 | Hsu Chiayuan | Kataoka Satoshi | W+0.5 | 2014-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dSzgR535rsx7R3SN9hsf9g%3D%3D) | 
-| 第40期名人戦予選 | Kataoka Satoshi | Takanashi Seiken | W+2.5 | 2014-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WEAL01jT55rHt01KAZqS9w%3D%3D) | 
-| 第53期十段戦予選 | Tsuneishi Takashi | Kataoka Satoshi | W+3.5 | 2014-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TEe5CKceOpb42yDbUF1ocQ%3D%3D) | 
-| 第40期名人戦予選 | Sato Masaharu | Kataoka Satoshi | W+3.5 | 2014-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q5YnVOfvUA9OEYgDt3%2Bi8Q%3D%3D) | 
-| 第53期十段戦予選 | Kataoka Satoshi | Kono Mitsuki | B+R | 2014-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DW5%2BxoR0or2vLex%2B%2FeHxrg%3D%3D) | 
-| 第70期本因坊戦予選 | Ichiriki Ryo | Kataoka Satoshi | W+1.5 | 2014-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TSezLSq2a79fEjK1IP2Kpw%3D%3D) | 
-| 第4回フマキラー囲碁マスターズカップ1回戦 | Kataoka Satoshi | Cho Chikun | W+1.5 | 2014-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wsMf7fNIThnOaJHZ1gP9dw%3D%3D) | 
-| 第39期棋聖戦予選 | Yuki Satoshi | Kataoka Satoshi | B+R | 2014-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xe9beWuJL%2BX%2F2J%2BJsl8W0Q%3D%3D) | 
-| 第53期十段戦予選 | Fujisawa Kazunari | Kataoka Satoshi | W+R | 2014-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FsAYUgaL7bsvToAh6tvN4w%3D%3D) | 
-| 第40期名人戦予選 | Kataoka Satoshi | Takahashi Hideo | B+R | 2014-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5HN1KTDP7tEzXEjm3QkuTw%3D%3D) | 
-| 第39期棋聖戦予選 | Kataoka Satoshi | Miyazawa Goro | B+R | 2014-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=34k%2BjmzIb%2FRT414lcs%2BvRw%3D%3D) | 
-| 第62期王座戦予選 | Kataoka Satoshi | Nakaonoda Tomomi | W+1.5 | 2014-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qv%2FoHkt5jUILWCtELx%2FZiQ%3D%3D) | 
-| 第39期棋聖戦予選 | Yamada Takuji | Kataoka Satoshi | W+R | 2013-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qVzy1rM8%2FtAz3uEyjwvR2w%3D%3D) | 
-| 第40期天元戦予選 | Kataoka Satoshi | Nakamura Shinya | W+3.5 | 2013-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7%2FWAtYrTuo75twNeh05l%2FA%3D%3D) | 
-| 第39期棋聖戦予選 | Kataoka Satoshi | Arimura Hiroshi | B+R | 2013-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S27rQq0bmsvd%2B6GSrI00dw%3D%3D) | 
-| 第39期碁聖戦予選 | Mizokami Tomochika | Kataoka Satoshi | B+R | 2013-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EYM7CC%2FW0ZA254%2FqBdLeDQ%3D%3D) | 
-| 第62期王座戦予選 | Kataoka Satoshi | Omori Yasushi | B+R | 2013-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b7GqBiThCgAxvssOgTvq2w%3D%3D) | 
-| 第39期碁聖戦予選 | Suzuki Ayumi | Kataoka Satoshi | W+4.5 | 2013-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6YrmQyF6L6evDju8cdDnBA%3D%3D) | 
-| 第62期王座戦予選 | Kataoka Satoshi | Mannami Nao | B+1.5 | 2013-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MWOATWeT2U2uS1DzU2Z9QQ%3D%3D) | 
-| 第69期本因坊戦予選 | Kataoka Satoshi | Kono Rin | W+R | 2013-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bmqn6TTuevUPgKdTNRxGIw%3D%3D) | 
-| 第62期王座戦予選 | Kanagawa Masaaki | Kataoka Satoshi | W+R | 2013-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YxGQQrgY2zdp67yNaAyN6w%3D%3D) | 
-| 第69期本因坊戦予選 | Ryu Shikun | Kataoka Satoshi | W+R | 2013-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=POwefrqsHJGnHi6jOO8B%2Fg%3D%3D) | 
-| 第62期王座戦予選 | Kataoka Satoshi | Abe Yumiko | B+R | 2013-05-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=590HStK7cbS52JKcXzXaTQ%3D%3D) | 
-| 第69期本因坊戦予選 | Kataoka Satoshi | Rin Shien | B+R | 2013-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ImV0abLG41qv%2Fx%2F%2F6QJuxA%3D%3D) | 
-| 第3回エステー＆フマキラー囲碁マスターズカップ2回戦 | Kataoka Satoshi | Ishii Kunio | W+0.5 | 2013-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pVORVUqfLezvnol4cEfjBQ%3D%3D) | 
-| 第52期十段戦予選 | Rin Kaiho | Kataoka Satoshi | B+R | 2013-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ttB55XUzbzD68fecIiDkBw%3D%3D) | 
-| 第3回エステー＆フマキラー囲碁マスターズカップ1回戦 | Ishida Yoshio | Kataoka Satoshi | W+3.5 | 2013-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EVr3hhTQ%2F7iegIwS%2Fwb3nA%3D%3D) | 
-| 第69期本因坊戦予選 | Okada Shinichiro | Kataoka Satoshi | W+R | 2013-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xLUH%2BYAXhGaDslyXY2sE1g%3D%3D) | 
-| 第39期天元戦本戦1回戦 | Rin Kanketsu | Kataoka Satoshi | B+5.5 | 2013-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qmqrMqpt3mfOkjCzJAz1IQ%3D%3D) | 
-| 第38期棋聖戦予選 | Mimura Tomoyasu | Kataoka Satoshi | B+3.5 | 2012-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dgVyb1cTASEs9JnLCWEeug%3D%3D) | 
-| 第39期天元戦予選 | Kataoka Satoshi | Mimura Tomoyasu | B+R | 2012-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rhLSJJEWfo%2Be7zBbM9%2F2Qw%3D%3D) | 
-| 第38期棋聖戦予選 | Kataoka Satoshi | Fukui Susumu | B+R | 2012-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A1kXecZmdIPmvjM0rrueWg%3D%3D) | 
-| 第38期棋聖戦予選 | Kataoka Satoshi | Terayama Rei | B+R | 2012-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sWqc1EDDCCNjYDtW0b3Qcw%3D%3D) | 
-| 第39期天元戦予選 | Kataoka Satoshi | Otake Hideo | B+R | 2012-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DnrV3r8vCaMlySj%2BK5%2FDCA%3D%3D) | 
-| 第38期碁聖戦予選 | Kataoka Satoshi | Matsumoto Takehisa | W+5.5 | 2012-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y5FhzzKAx9Gln37CIbJOBw%3D%3D) | 
-| 第38期碁聖戦予選 | Sun Zhe | Kataoka Satoshi | W+4.5 | 2012-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kq34Jxg3ZzC7sMXCKTlTTg%3D%3D) | 
-| 第61期王座戦予選 | Kataoka Satoshi | Ishida Akira | W+3.5 | 2012-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uZIiGLXpwN2X0TTFGhzB%2BA%3D%3D) | 
-| 第2回エステー＆フマキラー囲碁マスターズカップ準決勝 | Kataoka Satoshi | O Meien | W+R | 2012-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3hoscrQVWXvwxPRArz78Xw%3D%3D) | 
-| 第38期名人戦予選 | Ohashi Hirofumi | Kataoka Satoshi | B+R | 2012-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o4AijPKb%2BUioOJKje7P2Mg%3D%3D) | 
-| 第61期王座戦予選 | Kataoka Satoshi | Shinkai Hiroko | B+R | 2012-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QwkqxVk5o%2FjEDXxkhEoRYg%3D%3D) | 
-| 第2回エステー＆フマキラー囲碁マスターズカップ2回戦 | Otake Hideo | Kataoka Satoshi | W+R | 2012-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uePS5k%2B3n9W4g3L%2Fw0cvHg%3D%3D) | 
-| 第51期十段戦予選 | Ishigure Ikuro | Kataoka Satoshi | B+R | 2012-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a6ogil8rEQ6xhWi1yl9vSA%3D%3D) | 
-| 第68期本因坊戦予選 | Kobayashi Koichi | Kataoka Satoshi | B+0.5 | 2012-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oycvtralGcEhNG6RqbEtCg%3D%3D) | 
-| 第51期十段戦予選 | Kobayashi Satoru | Kataoka Satoshi | W+0.5 | 2012-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W6K6xRfpge5PfvernN2R%2Fw%3D%3D) | 
-| 第37期碁聖戦本戦3回戦 | Iyama Yuta | Kataoka Satoshi | B+R | 2012-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ATHwwt0Wvz3qN8inXb75hw%3D%3D) | 
-| 第2回エステー＆フマキラー囲碁マスターズカップ1回戦 | Takemiya Masaki | Kataoka Satoshi | W+8.5 | 2012-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YPvJX0lBWIUluk7Ofbcr7g%3D%3D) | 
-| 第68期本因坊戦予選 | Fujita Akihiko | Kataoka Satoshi | W+6.5 | 2012-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nlJp5eGAcswlCtks3oc5EQ%3D%3D) | 
-| 第37期碁聖戦本戦2回戦 | Kataoka Satoshi | Shuto Shun | B+R | 2012-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tYxBaj6NXz3NZrE%2BkGV1tQ%3D%3D) | 
-| 第51期十段戦予選 | Kataoka Satoshi | Ueda Takashi | B+R | 2012-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8VbQ8wcywa7wcCPBMDoIZw%3D%3D) | 
-| 第68期本因坊戦予選 | Kataoka Satoshi | Murakami Akihide | B+2.5 | 2012-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PliIaM0CMO8DJg%2FKNFI82w%3D%3D) | 
-| 第37期棋聖戦予選 | Kataoka Satoshi | Lee Ishu | W+4.5 | 2011-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nbzfQNbASto%2FWiBbtpXmGQ%3D%3D) | 
-| 第37期碁聖戦本戦1回戦 | Kataoka Satoshi | Yamashiro Hiroshi | B+R | 2011-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TTn2WLAsGuYX15YFIgzcqw%3D%3D) | 
-| 第37期棋聖戦予選 | Fujita Akihiko | Kataoka Satoshi | W+0.5 | 2011-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GI8s0aFk7wNsLyyqGlOcCw%3D%3D) | 
-| 第38期天元戦予選 | O Rissei | Kataoka Satoshi | B+R | 2011-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8rQUnj%2BpnJHzkoofeJNSjA%3D%3D) | 
-| 第37期碁聖戦予選 | Akiyama Jiro | Kataoka Satoshi | W+1.5 | 2011-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CNcFSiIOjsFI9Fg%2BetucyA%3D%3D) | 
-| 第37期碁聖戦予選 | Kataoka Satoshi | Takao Shinji | B+R | 2011-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8NA%2B6WV7Eab4%2BVexz627TQ%3D%3D) | 
-| 第38期天元戦予選 | Nakamura Hidehito | Kataoka Satoshi | W+7.5 | 2011-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bwZOoB0uhCHkNiyvJMTGkA%3D%3D) | 
-| 第37期名人戦予選 | Kataoka Satoshi | Cho Riyu | W+R | 2011-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NFfYX1P9qYbEPwv395D2gw%3D%3D) | 
-| 第37期名人戦予選 | Kataoka Satoshi | Chino Tadahiko | B+R | 2011-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8%2F2EO3JbJ6ItB%2BASDXERIg%3D%3D) | 
-| 第60期王座戦予選 | O Meien | Kataoka Satoshi | B+R | 2011-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F2rdaMbPQHPzRiNL6LpnSA%3D%3D) | 
-| 第37期碁聖戦予選 | Chino Tadahiko | Kataoka Satoshi | W+R | 2011-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5uZSiees%2Bk7XWjgXgU5PzA%3D%3D) | 
-| 第1回エステー＆フマキラー囲碁マスターズカップ2回戦 | Ishida Yoshio | Kataoka Satoshi | B+R | 2011-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dyNoLDwXdM84ndkP%2FMDENw%3D%3D) | 
-| 第1回エステー＆フマキラー囲碁マスターズカップ1回戦 | Hane Yasumasa | Kataoka Satoshi | W+R | 2011-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dB%2By5EbscQv3K1GamNi3iw%3D%3D) | 
-| 第67期本因坊戦予選 | Sanno Hirotaka | Kataoka Satoshi | B+1.5 | 2011-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vSfO%2F78e9WNBXP4IaEsMYw%3D%3D) | 
-| 第37期天元戦本戦1回戦 | Kataoka Satoshi | Yoda Norimoto | W+R | 2010-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wcTUTXbCDeuYK2mOeiNWuw%3D%3D) | 
-| 第50期十段戦予選 | Kataoka Satoshi | Sakai Takeshi | B+R | 2010-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1VAPPgy%2Btta0ls%2FEvMWV4Q%3D%3D) | 
-| 第37期天元戦予選 | So Yokoku | Kataoka Satoshi | W+R | 2010-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fr4ZNlG15sBcORHDOcqE8A%3D%3D) | 
-| 第59期王座戦予選 | Kataoka Satoshi | Anzai Nobuaki | W+R | 2010-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RDhw1Vt4MH7CrnyalqGz7Q%3D%3D) | 
-| 第37期天元戦予選 | Iguchi Hideichiro | Kataoka Satoshi | W+R | 2010-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xMMiNTfO5bisfky3kP5Jqg%3D%3D) | 
-| 第36期棋聖戦予選 | Ando Kazushige | Kataoka Satoshi | B+R | 2010-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B3jasOE6sPY3C2L5PKGcSw%3D%3D) | 
-| 第36期碁聖戦予選 | O Meien | Kataoka Satoshi | B+1.5 | 2010-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FadD9%2F4IKG1Jg6TnDQBA1w%3D%3D) | 
-| 第36期名人戦予選 | Kataoka Satoshi | Yamada Kimio | W+R | 2010-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qpPKPsMxzzu0tNZTJHzLxg%3D%3D) | 
-| 第37期天元戦予選 | Kenmochi Joe | Kataoka Satoshi | W+R | 2010-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yXTvEoXiIjsUhDQFd%2Fm4pw%3D%3D) | 
-| 第66期本因坊戦予選 | Kataoka Satoshi | Seto Taiki | W+R | 2010-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lkp9TLR9XENAIYEwSwt4wQ%3D%3D) | 
-| 第36期名人戦予選 | Kanda Ei | Kataoka Satoshi | W+R | 2010-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1MDydDrx1jgBYgrNpDzxgQ%3D%3D) | 
-| 第66期本因坊戦予選 | Kataoka Satoshi | Obuchi Morito | B+4.5 | 2010-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NAA5mCkNU9EY2XP9hJMgWg%3D%3D) | 
-| 第66期本因坊戦予選 | Kataoka Satoshi | Hoshino Masaki | B+R | 2010-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LAHAvxJYUHbFgds5pnt8nA%3D%3D) | 
-| 第36期名人戦予選 | Kubo Hideo | Kataoka Satoshi | W+R | 2010-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E42fIK1Ig4ZuZLqczlvM%2Fw%3D%3D) | 
-| 第66期本因坊戦予選 | Rin Kaiho | Kataoka Satoshi | W+2.5 | 2010-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qs7yTYXgRGFzU39EgXKe8Q%3D%3D) | 
-| 第58期王座戦予選 | Kataoka Satoshi | Kobayashi Satoru | W+R | 2010-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8o2OPHDkJB%2BXwRE%2FE3vnEA%3D%3D) | 
-| 第66期本因坊戦予選 | Kataoka Satoshi | Izumitani Hideo | B+R | 2010-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j4EvIpGTjaitFkIF1H86KA%3D%3D) | 
-| 第58期王座戦予選 | Tsuruyama Atsushi | Kataoka Satoshi | W+R | 2009-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4yqVri53U6NlgcAwIO%2BgjA%3D%3D) | 
-| 第49期十段戦予選 | Shiraishi Yuichi | Kataoka Satoshi | B+0.5 | 2009-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hfq3FsQXRF3zcK3OSIEOTg%3D%3D) | 
-| 第58期王座戦予選 | Kono Takashi | Kataoka Satoshi | W+4.5 | 2009-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kwCN92f3zMCYw4OmUiqRcg%3D%3D) | 
-| 第35期棋聖戦予選 | Kataoka Satoshi | Mimura Tomoyasu | W+R | 2009-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F%2Fl2d7hcWjnQtY%2F5Ig%2F1ng%3D%3D) | 
-| 第58期王座戦予選 | Kataoka Satoshi | Shiraishi Yuichi | B+R | 2009-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2MezxK6V3jWUCyGbxZBrcw%3D%3D) | 
-| 第35期棋聖戦予選 | Nakamura Hidehito | Kataoka Satoshi | W+R | 2009-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yw4P5gdLb7kW1yIUnStrOw%3D%3D) | 
-| 第35期碁聖戦予選 | Kataoka Satoshi | Hoshino Masaki | W+5.5 | 2009-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BsjZm1c7r%2FNBZ8Im8TK0ZA%3D%3D) | 
-| 第36期天元戦予選 | Kataoka Satoshi | Awaji Shuzo | W+4.5 | 2009-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4icAyWNBCJttpIFv0xonJw%3D%3D) | 
-| 第29期NECカップ囲碁トーナメント戦2回戦 | Kono Rin | Kataoka Satoshi | B+R | 2009-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WnPRQRgNaI9mPQMupgSEuw%3D%3D) | 
-| 第35期碁聖戦予選 | Kataoka Satoshi | Michael Redmond | B+7.5 | 2009-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P61Cd0cVj%2FRZH3Tp%2FEtVPw%3D%3D) | 
-| 第35期名人戦予選 | Kataoka Satoshi | Yamashiro Hiroshi | W+1.5 | 2009-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vEWxCAmpo%2B0I7nAwT9Xrxg%3D%3D) | 
-| 第35期名人戦予選 | Kataoka Satoshi | Kanda Ei | B+R | 2009-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rXVHi10aPc5D4HB1Y2TRlg%3D%3D) | 
-| 第35期碁聖戦予選 | Aoki Shinichi | Kataoka Satoshi | W+R | 2009-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZNqbGz66gWNz9cUcNwBJ3A%3D%3D) | 
-| 第29期NECカップ囲碁トーナメント戦1回戦 | O Meien | Kataoka Satoshi | W+R | 2009-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i6MDn3m8TdK9Tr2i6ro81g%3D%3D) | 
-| 第65期本因坊戦予選 | Kataoka Satoshi | Ishida Atsushi | W+R | 2009-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UpGRbtQ9PX8o3my1%2FW4WzA%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン予選 | Hiroe Hiroyuki | Kataoka Satoshi | B+13.5 | 2009-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l16ptAQHi74ucZPnBY8Yag%3D%3D) | 
-| 第35期名人戦予選 | Kataoka Satoshi | Okada Shinichiro | B+R | 2009-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VXc47a%2F0PkoKQ2sWMPqVrw%3D%3D) | 
-| 第48期十段戦予選 | Yamashita Keigo | Kataoka Satoshi | B+R | 2009-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M9VkpqSQK6tPGh0IPyRI6g%3D%3D) | 
-| 第64期本因坊戦リーグ | Kataoka Satoshi | Yamashita Keigo | W+R | 2009-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WSR%2BqABMW8ts62XO6wf5eg%3D%3D) | 
-| 第64期本因坊戦リーグ | Kataoka Satoshi | Takao Shinji | W+R | 2009-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UByTvzzaYrLIIdVrh9kguw%3D%3D) | 
-| 第34期棋聖戦予選 | Lee Ishu | Kataoka Satoshi | B+1.5 | 2009-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uGU4hePInTRB1ZzXEAv8Bw%3D%3D) | 
-| 第48期十段戦予選 | Kataoka Satoshi | Takano Hideki | B+8.5 | 2009-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F1LVNylj3RK3u5KOUrkilQ%3D%3D) | 
-| 第34期棋聖戦予選 | Hikosaka Naoto | Kataoka Satoshi | W+R | 2009-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b8zfDdNnC1rDs%2F4Dne%2Fl5A%3D%3D) | 
-| 第48期十段戦予選 | Kataoka Satoshi | Nakaonoda Tomomi | B+3.5 | 2009-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZF9tWhnFSb4T8ABqy3Vxsw%3D%3D) | 
-| 第64期本因坊戦リーグ | Kataoka Satoshi | So Yokoku | W+R | 2009-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qjoMdduKcYm%2FMN1u3H57ng%3D%3D) | 
-| 第64期本因坊戦リーグ | Nakaonoda Tomomi | Kataoka Satoshi | W+0.5 | 2009-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qutCXH%2Fy4MjSEwgdWAubIw%3D%3D) | 
-| 第35期天元戦予選 | Kataoka Satoshi | So Yokoku | W+R | 2009-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ezi4nEBMJQpP5ebcqVzYuA%3D%3D) | 
-| 第64期本因坊戦リーグ | Yamada Kimio | Kataoka Satoshi | B+R | 2008-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OakMBMTsCrc17BWjvHSfUw%3D%3D) | 
-| 第48期十段戦予選 | Ishikura Noboru | Kataoka Satoshi | W+7.5 | 2008-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bs0ylJOFNM9ZFSnvCUUXug%3D%3D) | 
-| 第64期本因坊戦リーグ | Yoda Norimoto | Kataoka Satoshi | W+R | 2008-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KiaQ6Q1MzaN0fITy3%2Fnvlg%3D%3D) | 
-| 第64期本因坊戦リーグ | Kataoka Satoshi | Cho U | W+1.5 | 2008-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X7AY%2FbqP3OcGGMaovamSZw%3D%3D) | 
-| 第57期王座戦予選 | Kataoka Satoshi | Lee Ishu | W+1.5 | 2008-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vy5dCf0RHgmv%2B39KZHTU2A%3D%3D) | 
-| 第35期天元戦予選 | Nishimura Keiji | Kataoka Satoshi | W+R | 2008-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kFs5GnBFbpoXRSbMfqFjPg%3D%3D) | 
-| 第33期棋聖戦Aリーグ | Kataoka Satoshi | Cho Chikun | W+0.5 | 2008-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9KqwGhsRZc0aB%2BDsW5g2cQ%3D%3D) | 
-| 第34期碁聖戦予選 | Nakamura Shinya | Kataoka Satoshi | B+3.5 | 2008-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zpr5BnahqHd2vGiyNLSChg%3D%3D) | 
-| 第33期棋聖戦Aリーグ | Kataoka Satoshi | Yuki Satoshi | B+R | 2008-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9iKPUMI%2BUa5HFDOxoHX5yg%3D%3D) | 
-| 第34期碁聖戦予選 | Aoki Shinichi | Kataoka Satoshi | W+8.5 | 2008-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9rjycgEYrRcB8quyp7FTTg%3D%3D) | 
-| 第33期棋聖戦Aリーグ | O Rissei | Kataoka Satoshi | B+R | 2008-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BuLHS%2FxO%2BA%2FlUZNAJEE0fA%3D%3D) | 
-| 第64期本因坊戦予選 | Kataoka Satoshi | Kobayashi Satoru | B+0.5 | 2008-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TDqDmXfZzPBOvVrcXjmmhg%3D%3D) | 
-| 第34期名人戦予選 | Kataoka Satoshi | Cho Sonjin | W+4.5 | 2008-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aGGwHlgcBszu6oVOgqG8SA%3D%3D) | 
-| 第33期棋聖戦Aリーグ | Kataoka Satoshi | Iyama Yuta | W+R | 2008-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WXnIhLBGYTFamsF0sK%2BO3A%3D%3D) | 
-| 第64期本因坊戦予選 | Yamada Takuji | Kataoka Satoshi | W+R | 2008-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=taTM6dKZWsG2HUgkg%2FqSTA%3D%3D) | 
-| 第33期棋聖戦Aリーグ | Takao Shinji | Kataoka Satoshi | B+R | 2008-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rjIztPhZtzLiBz6B2syKfw%3D%3D) | 
-| 第64期本因坊戦予選 | Kataoka Satoshi | Ishida Atsushi | B+R | 2008-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bEYVXCPBx8LVV5C5vukQWQ%3D%3D) | 
-| 第34期名人戦予選 | Kataoka Satoshi | Lee Ishu | B+R | 2008-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2XEmr4C6Hux8FJRpO2V27g%3D%3D) | 
-| 第33期棋聖戦予選 | Kataoka Satoshi | Miyamoto Yoshihisa | B+R | 2008-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B6fq5F6Y622clc4eEITS2Q%3D%3D) | 
-| 第33期棋聖戦予選 | Kataoka Satoshi | Yukawa Mitsuhisa | B+R | 2008-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s517fwT1wbXEygXHezVXMQ%3D%3D) | 
-| 第64期本因坊戦予選 | Kataoka Satoshi | Kim Sujun | B+0.5 | 2008-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bs2l71vUGboYazJGvdx6JA%3D%3D) | 
-| 第33期棋聖戦予選 | Kataoka Satoshi | Kamimura Haruo | B+6.5 | 2008-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a1x1ZsXLcLivk%2F7Q29LIqA%3D%3D) | 
-| 第34期名人戦予選 | Muramatsu Ryuichi | Kataoka Satoshi | W+2.5 | 2008-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bNy0XEyNrHu0xdn4rmAUrQ%3D%3D) | 
-| 第64期本因坊戦予選 | Ohba Junya | Kataoka Satoshi | W+R | 2008-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IfovRxi9wu8DndtScA3pFQ%3D%3D) | 
-| 第56期王座戦予選 | Kim Sujun | Kataoka Satoshi | B+2.5 | 2008-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ya67JUvl4EoJuGGFNAPBA%3D%3D) | 
-| 第56期王座戦予選 | Kataoka Satoshi | Imamura Yoshiaki | B+R | 2007-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lvp2N%2F7pxs%2BaFfQPBNg4wA%3D%3D) | 
-| 第33期棋聖戦予選 | Mimura Tomoyasu | Kataoka Satoshi | W+4.5 | 2007-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ReqlboMwC%2BObF0HE%2BwGtNQ%3D%3D) | 
-| 第47期十段戦予選 | Takano Hideki | Kataoka Satoshi | B+6.5 | 2007-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9hE3gFEtQCPch2ybmdY2zg%3D%3D) | 
-| 第64期本因坊戦予選 | Kataoka Satoshi | Kato Tomoko | B+R | 2007-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vZOtD%2FKBvrLzhCsRron0wA%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン予選 | Sakai Takeshi | Kataoka Satoshi | B+R | 2007-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bFiknU2AlanlWCESdakCQw%3D%3D) | 
-| 第34期天元戦予選 | Doi Makoto | Kataoka Satoshi | W+R | 2007-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ggWz4iDh3JiYUb%2BuX0Co5g%3D%3D) | 
-| 第33期碁聖戦予選 | Kataoka Satoshi | Mizokami Tomochika | W+R | 2007-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Bm4TpIbKTH5xYJ8tEZATg%3D%3D) | 
-| 第55期王座戦準決勝 | Kataoka Satoshi | Cho U | W+0.5 | 2007-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y%2BhrMeA0OQUIGBbCpQmL7w%3D%3D) | 
-| 第33期名人戦予選 | Matsumoto Takehisa | Kataoka Satoshi | B+3.5 | 2007-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LbsvBNpFRrHPL8BwvaCXIw%3D%3D) | 
-| 第55期王座戦2回戦 | Kataoka Satoshi | Iyama Yuta | B+R | 2007-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=szcyh86vYn5MU1gpotxQVA%3D%3D) | 
-| 第34期天元戦予選 | Iwata Hajime | Kataoka Satoshi | W+R | 2007-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HsO%2FIxL7sf5tQiWzvdGNEA%3D%3D) | 
-| 第55期王座戦1回戦 | Kiyonari Tetsuya | Kataoka Satoshi | W+5.5 | 2007-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Dzf7hDQXLol8bCtRkxKKw%3D%3D) | 
-| 第55期王座戦予選 | Yoda Norimoto | Kataoka Satoshi | W+3.5 | 2007-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KHXqJzWIMzHdaPjp4n8ORQ%3D%3D) | 
-| 第63期本因坊戦予選 | Kim Sujun | Kataoka Satoshi | B+1.5 | 2007-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rUxuB4sTbTLRZ9UoqtqL8Q%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯国内予選 | Yoda Norimoto | Kataoka Satoshi | B+R | 2007-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=efmZnqsQCGgW%2BNIh1Nca1A%3D%3D) | 
-| 第32期棋聖戦予選 | Kataoka Satoshi | Takemiya Masaki | W+R | 2007-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hOoyYK0Mn%2FEVt%2F06W5VzVA%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯国内予選 | Ishigure Ikuro | Kataoka Satoshi | W+R | 2006-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HMgGp2ijZa6YeVHUeHNp8g%3D%3D) | 
-| 第46期十段戦予選 | Tei Meiko | Kataoka Satoshi | B+0.5 | 2006-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RIX%2FRPcCmBleH%2FckT9KafQ%3D%3D) | 
-| 第55期王座戦予選 | Yokota Shigeaki | Kataoka Satoshi | W+0.5 | 2006-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j%2B8nH0QSouYAHTHWiRmqug%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯国内予選 | Kataoka Satoshi | Komatsu Hideki | B+0.5 | 2006-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fRXg7ws5YzKdNHag%2FICDyw%3D%3D) | 
-| 第32期棋聖戦予選 | Muramatsu Ryuichi | Kataoka Satoshi | W+R | 2006-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F5UtpgUcuA2xN%2B9R1MCLWA%3D%3D) | 
-| 第46期十段戦予選 | Kataoka Satoshi | Akiyama Jiro | B+R | 2006-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4IydEieU5mOLW3ZXdJ%2BMKQ%3D%3D) | 
-| 第63期本因坊戦予選 | Kataoka Satoshi | Omori Yasushi | B+1.5 | 2006-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VrdTlJcMoXyj56qKDSwXGg%3D%3D) | 
-| 第32期名人戦予選 | Rin Kaiho | Kataoka Satoshi | W+11.5 | 2006-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RSweNEaYH2U42%2FfEjJHf0A%3D%3D) | 
-| 第63期本因坊戦予選 | missing | Kataoka Satoshi | W+R | 2006-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6Cz%2BNyBNtktYWWlAfm3zYQ%3D%3D) | 
-| 第32期碁聖戦予選 | Kataoka Satoshi | Kobayashi Satoru | B+R | 2006-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PHvY0hriipr0aa8T4AVfdA%3D%3D) | 
-| 第32期名人戦予選 | Kataoka Satoshi | Sakai Takeshi | B+R | 2006-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yk18oPFqRbVvtoLVd8gOUA%3D%3D) | 
-| 第33期天元戦予選 | Kataoka Satoshi | Aoki Kikuyo | B+3.5 | 2006-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I0flcW9cWCTGpm38dmBzLw%3D%3D) | 
-| 第54期王座戦2回戦 | Kobayashi Satoru | Kataoka Satoshi | B+R | 2006-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mzgKexkqoAcOodD0QmhW%2Fw%3D%3D) | 
-| 第32期碁聖戦予選 | Nakamura Hidehito | Kataoka Satoshi | W+R | 2006-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3KOyXz%2FtN04bL2syMan4Hw%3D%3D) | 
-| 第54期王座戦1回戦 | Kiyonari Tetsuya | Kataoka Satoshi | W+4.5 | 2006-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4BuMYSlaWLkRCOJmF0jOiw%3D%3D) | 
-| 第32期名人戦予選 | Kataoka Satoshi | Doi Makoto | B+R | 2006-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EE6gFIfik4MInZAReS2uig%3D%3D) | 
-| 第45期十段戦予選 | Rin Kaiho | Kataoka Satoshi | B+R | 2006-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O6BI65wfHj57CvxAKE5hbw%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯国内予選決勝 | Kataoka Satoshi | Cho Chikun | W+R | 2006-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=65%2B6w8xgRi0zjweEnGzmlQ%3D%3D) | 
-| 第54期王座戦予選 | Kataoka Satoshi | Yamashiro Hiroshi | B+R | 2006-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aKZRYci8nucgK%2F5Ln5sCeg%3D%3D) | 
-| 第31期棋聖戦予選 | Takemiya Masaki | Kataoka Satoshi | B+R | 2006-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mnq%2FgU2jneYz%2Be1nQJ3S7Q%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯国内予選 | Kataoka Satoshi | Oya Koichi | B+8.5 | 2006-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H6gHwhg6zzoQ2c5mt8J50Q%3D%3D) | 
-| 第54期王座戦予選 | Kataoka Satoshi | Kato Atsushi | B+R | 2005-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z1bCRLVZoDQeqYC73cvnfg%3D%3D) | 
-| 第62期本因坊戦予選 | Mochizuki Kenichi | Kataoka Satoshi | B+R | 2005-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ie2d9tjYk55E0H1mcVFB0w%3D%3D) | 
-| 第31期棋聖戦予選 | Ishida Akira | Kataoka Satoshi | W+R | 2005-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tBfmUFZNRDgR5M56SxoKeA%3D%3D) | 
-| 第45期十段戦予選 | Miyazawa Goro | Kataoka Satoshi | W+R | 2005-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KjyaLQp5vmJrpWl87AZuGA%3D%3D) | 
-| 第53期王座戦2回戦 | O Meien | Kataoka Satoshi | B+2.5 | 2005-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xh%2BQEDZTitSJElJDlN%2Fp%2BQ%3D%3D) | 
-| 第53期王座戦1回戦 | Cho Chikun | Kataoka Satoshi | W+4.5 | 2005-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AJwCU0aWApGnrxkscsHGxg%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯国内予選 | Seto Taiki | Kataoka Satoshi | W+3.5 | 2005-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B35RL43YEuUb0wlQa7ElEg%3D%3D) | 
-| 第43期十段戦敗者復活戦1回戦 | Suzuki Yoshimichi | Kataoka Satoshi | B+R | 2004-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qqz7AG546gq5TCtx4fLs0A%3D%3D) | 
-| 第30期天元戦本戦3回戦 | Kataoka Satoshi | Kato Masao | W+R | 2004-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CIkn%2Fe2i61zDT1q%2B75RQEQ%3D%3D) | 
-| 第30期天元戦本戦2回戦 | O Meien | Kataoka Satoshi | W+5.5 | 2004-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w5tpjXRohrUkRK1ZgmWnSg%3D%3D) | 
-| 第43期十段戦本戦1回戦 | Cho U | Kataoka Satoshi | B+2.5 | 2004-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tAai%2FbNc7CwuEnWI8%2B7TsQ%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯国内予選決勝 | Yuki Satoshi | Kataoka Satoshi | B+R | 2004-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GgbBJHer4aT39sv2HTNPTQ%3D%3D) | 
-| 第30期天元戦本戦1回戦 | Imamura Yoshiaki | Kataoka Satoshi | W+2.5 | 2004-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eSooLtKB%2FoyU1MjneyldcQ%3D%3D) | 
-| 第29期碁聖戦本戦1回戦 | Akiyama Jiro | Kataoka Satoshi | B+2.5 | 2003-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ovo1isJrH7iYEjZHC%2FIgiw%3D%3D) | 
-| 第52期王座戦予選 | Kataoka Satoshi | Nakaonoda Tomomi | B+0.5 | 2003-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WdR9mEEeDj4cPWHBJ9o69w%3D%3D) | 
-| 第29期天元戦本戦1回戦 | Kataoka Satoshi | So Yokoku | W+R | 2003-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nz9y0k%2BUCXuNenBdnyY8Iw%3D%3D) | 
-| 第28期碁聖戦本戦1回戦 | Michael Redmond | Kataoka Satoshi | B+3.5 | 2002-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5%2BQsux3HX%2BVTsiotwBHpUA%3D%3D) | 
-| 坂井秀至　試練の十二番勝負　第十一戦 | Kataoka Satoshi | Sakai Hideyuki | B+R | 2002-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cf%2FfEtdACT7001qha7Vl%2Bg%3D%3D) | 
-| 第4期三星杯2回戦 | Wang Lei (b) | Kataoka Satoshi | B+R | 1999-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2trHsGPBEh4nq36o6bfvZQ%3D%3D) | 
-| 第4期三星杯1回戦 | Kataoka Satoshi | Choi Myeonghun | B+4.5 | 1999-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sEI6x5vvCrHIkVynCYxxEQ%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-19 | 第70期王座戦予選 | Kataoka Satoshi | Xie Yimin | Lose | W+3.5 | 6.5 | 2793 | 2 | 
+| 2021-07-29 | 第70期王座戦予選 |  | Kataoka Satoshi | Win | W+R | 6.5 | 2791 | 32 | 
+| 2021-06-24 | 第70期王座戦予選 | Kataoka Satoshi | Kuwabara Shun | Win | B+R | 6.5 | 2759 | -7 | 
+| 2021-06-21 | 第47期名人戦予選 | Tsuneishi Takashi | Kataoka Satoshi | Lose | B+4.5 | 6.5 | 2766 | 177 | 
+| 2021-05-24 | 第47期名人戦予選 | Kataoka Satoshi | Kobayashi Koichi | Win | B+3.5 | 6.5 | 2589 | 178 | 
+| 2021-04-26 | 第47期名人戦予選 | Kataoka Satoshi | Fukui Masaaki | Win | B+R | 6.5 | 2411 | -315 | 
+| 2021-03-11 | 第46期棋聖戦予選 | Sakai Maki | Kataoka Satoshi | Lose | B+R | 6.5 | 2726 | -167 | 
+| 2021-02-18 | 第46期棋聖戦予選 | Komatsu Hideki | Kataoka Satoshi | Win | W+5.5 | 6.5 | 2893 | -175 | 
+| 2020-12-03 | 第47期天元戦予選 | Cho Chikun | Kataoka Satoshi | Lose | B+R | 6.5 | 3068 | 80 | 
+| 2020-11-05 | 第77期本因坊戦予選 | Kataoka Satoshi | Kono Mitsuki | Lose | W+R | 6.5 | 2988 | -89 | 
+| 2020-10-29 | 第47期天元戦予選 | Kataoka Satoshi | Xie Yimin | Win | B+3.5 | 6.5 | 3077 | 155 | 
+| 2020-09-17 | 第46期碁聖戦予選 | Fujita Akihiko | Kataoka Satoshi | Lose | B+R | 6.5 | 2922 | 77 | 
+| 2020-08-27 | 第69期王座戦予選 |  | Kataoka Satoshi | Win | W+R | 6.5 | 2845 | 178 | 
+| 2020-06-18 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Kataoka Satoshi |  | Lose | W+1.5 | 6.5 | 2667 | -60 | 
+| 2020-06-11 | 第59期十段戦予選 | Kataoka Satoshi | Mizokami Tomochika | Lose | W+R | 6.5 | 2727 | 165 | 
+| 2020-03-19 | 第46期碁聖戦予選 | Onishi Kenya | Kataoka Satoshi | Win | W+1.5 | 6.5 | 2562 | 42 | 
+| 2020-03-05 | 第69期王座戦予選 | Kataoka Satoshi | Chino Tadahiko | Win | B+R | 6.5 | 2520 | 29 | 
+| 2020-02-27 | 第46期碁聖戦予選 | Kataoka Satoshi | Ikeda Ayako | Win | B+R | 6.5 | 2491 | 65 | 
+| 2020-02-20 | 第59期十段戦予選 | Kataoka Satoshi | Shuto Shun | Win | B+2.5 | 6.5 | 2426 | -103 | 
+| 2020-02-13 | 第45期棋聖戦ファーストトーナメント予選 | Kataoka Satoshi | Mochizuki Kenichi | Lose | W+0.5 | 6.5 | 2529 | -134 | 
+| 2020-01-09 | 第46期名人戦予選 | Kataoka Satoshi |  | Lose | W+R | 6.5 | 2663 | 262 | 
+| 2019-12-12 | 第45期棋聖戦ファーストトーナメント予選 | Ohashi Hirofumi | Kataoka Satoshi | Win | W+R | 6.5 | 2401 | 49 | 
+| 2019-11-28 | 第76期本因坊戦予選 | Kataoka Satoshi | Morita Michihiro | Lose | W+5.5 | 6.5 | 2352 | -24 | 
+| 2019-11-21 | 第45期棋聖戦ファーストトーナメント予選 | Aoki Shinichi | Kataoka Satoshi | Win | W+6.5 | 6.5 | 2376 | 125 | 
+| 2019-10-31 | 第45期棋聖戦ファーストトーナメント予選 | Kataoka Satoshi | Kuwabara Shun | Win | B+R | 6.5 | 2251 | 13 | 
+| 2019-10-24 | 第46期天元戦予選 | Kataoka Satoshi | Kobayashi Koichi | Lose | W+2.5 | 6.5 | 2238 | 95 | 
+| 2019-10-17 | 第59期十段戦予選 | Omori Yasushi | Kataoka Satoshi | Win | W+R | 6.5 | 2143 | 13 | 
+| 2019-09-12 | 第46期天元戦予選 | Kataoka Satoshi | Kato Atsushi | Win | B+R | 6.5 | 2130 | -309 | 
+| 2019-06-06 | 第45期碁聖戦予選 | Seki Kotaro | Kataoka Satoshi | Lose | B+R | 6.5 | 2439 | -43 | 
+| 2019-05-16 | 第45期名人戦予選 | Kataoka Satoshi | Kudo Norio | Lose | W+1.5 | 6.5 | 2482 | -109 | 
+| 2019-05-09 | 第9回フマキラー囲碁マスターズカップ1回戦 | Kataoka Satoshi | Kobayashi Koichi | Lose | W+R | 6.5 | 2591 | -144 | 
+| 2019-04-25 | 第45期名人戦予選 | Kataoka Satoshi | Yamada Shinji | Win | B+0.5 | 6.5 | 2735 | 34 | 
+| 2019-03-21 | 第45期名人戦予選 | Yamada Takuji | Kataoka Satoshi | Win | W+3.5 | 6.5 | 2701 | 23 | 
+| 2019-02-28 | 第75期本因坊戦予選 | Mitani Tetsuya | Kataoka Satoshi | Lose | B+R | 6.5 | 2678 | -113 | 
+| 2019-01-31 | 第58期十段戦予選 | Kataoka Satoshi | Fujimura Yosuke | Lose | W+R | 6.5 | 2791 | -39 | 
+| 2018-12-13 | 第44期棋聖戦ファーストトーナメント予選 | Ohba Junya | Kataoka Satoshi | Lose | B+R | 6.5 | 2830 | -22 | 
+| 2018-11-22 | 第44期棋聖戦ファーストトーナメント予選 | Kataoka Satoshi | Oomote Takuto | Win | B+R | 6.5 | 2852 | 31 | 
+| 2018-11-15 | 第45期天元戦予選 | So Yokoku | Kataoka Satoshi | Lose | B+R | 6.5 | 2821 | -80 | 
+| 2018-10-04 | 第45期天元戦予選 | Kataoka Satoshi | Terayama Rei | Win | B+R | 6.5 | 2901 | 15 | 
+| 2018-09-27 | 第67期王座戦予選 | Kataoka Satoshi | Mochizuki Kenichi | Lose | W+R | 6.5 | 2886 | -14 | 
+| 2018-08-23 | 第44期碁聖戦予選 | Kataoka Satoshi | O Rissei | Lose | W+7.5 | 7.5 | 2900 | -43 | 
+| 2018-08-16 | 第74期本因坊戦最終予選 | Kataoka Satoshi | Anzai Nobuaki | Lose | W+R | 6.5 | 2943 | 21 | 
+| 2018-08-09 | 第45期天元戦予選 | Sakai Takeshi | Kataoka Satoshi | Win | W+R | 6.5 | 2922 | 17 | 
+| 2018-08-02 | 第67期王座戦予選 | Kataoka Satoshi | Shiraishi Yuichi | Win | B+R | 7.5 | 2905 | -3 | 
+| 2018-07-26 | 第44期碁聖戦予選 | So Kofuku | Kataoka Satoshi | Win | W+R | 6.5 | 2908 | 8 | 
+| 2018-07-21 | 第8回フマキラー囲碁マスターズカップ決勝  | Kataoka Satoshi | Yoda Norimoto | Lose | W+R | 6.5 | 2900 | -49 | 
+| 2018-07-12 | 第74期本因坊戦最終予選 | Kataoka Satoshi | Rin Kanketsu | Win | B+3.5 | 6.5 | 2949 | 19 | 
+| 2018-07-07 | 第8回フマキラー囲碁マスターズカップ準決勝  | Cho Chikun | Kataoka Satoshi | Win | W+R | 6.5 | 2930 | 71 | 
+| 2018-05-31 | 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Seto Taiki | Kataoka Satoshi | Lose | B+2.5 | 6.5 | 2859 | -61 | 
+| 2018-05-24 | 第74期本因坊戦予選 | Hirose Yuichi | Kataoka Satoshi | Win | W+5.5 | 6.5 | 2920 | 168 | 
+| 2018-05-10 | 第8回フマキラー囲碁マスターズカップ2回戦  | Hikosaka Naoto | Kataoka Satoshi | Win | W+R | 6.5 | 2752 | 60 | 
+| 2018-05-03 | 第74期本因坊戦予選 | So Yokoku | Kataoka Satoshi | Win | W+R | 6.5 | 2692 | 148 | 
+| 2018-04-19 | 第74期本因坊戦予選 | Kataoka Satoshi | Okuda Aya | Win | B+R | 6.5 | 2544 | 94 | 
+| 2018-04-12 | 第8回フマキラー囲碁マスターズカップ1回戦 | Kataoka Satoshi | Rin Kaiho | Win | B+R | 6.5 | 2450 | 1 | 
+| 2018-04-05 | 第44期名人戦予選 | Horimoto Mitsunari | Kataoka Satoshi | Lose | B+R | 6.5 | 2449 | -205 | 
+| 2018-03-01 | 第74期本因坊戦予選 |  | Kataoka Satoshi | Win | W+3.5 | 6.5 | 2654 | 171 | 
+| 2018-02-22 | 第57期十段戦予選 | Kataoka Satoshi | Kobayashi Koichi | Lose | W+R | 6.5 | 2483 | -30 | 
+| 2017-12-07 | 第43期棋聖戦ファーストトーナメント予選 | Ando Kazushige | Kataoka Satoshi | Lose | B+1.5 | 6.5 | 2513 | 0 | 
+| 2017-11-23 | 第66期王座戦予選 | Kataoka Satoshi | Suzuki Shinji | Lose | W+6.5 | 6.5 | 2513 | -12 | 
+| 2017-11-09 | 第43期棋聖戦ファーストトーナメント予選 | Kataoka Satoshi | Kanda Ei | Win | B+R | 6.5 | 2525 | -136 | 
+| 2017-09-14 | 第44期天元戦予選 | Kataoka Satoshi | Motoki Katsuya | Lose | W+5.5 | 6.5 | 2661 | 31 | 
+| 2017-08-31 | 第44期天元戦　予選B決勝 | Kataoka Satoshi | Osawa Narumi | Win | B+R | 6.5 | 2630 | 119 | 
+| 2017-06-22 | 第66期王座戦　予選B決勝 | Oya Koichi | Kataoka Satoshi | Win | W+5.5 | 6.5 | 2511 | 47 | 
+| 2017-06-08 | 第66期王座戦　予選B | Kanda Ei | Kataoka Satoshi | Win | W+R | 6.5 | 2464 | -33 | 
+| 2017-05-18 | 第43期名人戦　予選B | Yokotsuka Riki | Kataoka Satoshi | Lose | B+2.5 | 6.5 | 2497 | -79 | 
+| 2017-05-04 | 第66期王座戦　予選C決勝 | Oki Keiji | Kataoka Satoshi | Win | W+R | 6.5 | 2576 | -8 | 
+| 2017-04-27 | 第7回囲碁マスターズカップ　本戦2回戦 | Kataoka Satoshi | Cho Chikun | Lose | W+R | 6.5 | 2584 | -42 | 
+| 2017-04-20 | 第66期王座戦　予選C | Mukai Kozue | Kataoka Satoshi | Win | W+R | 6.5 | 2626 | 164 | 
+| 2017-03-16 | 第7回マスターズカップ　本戦1回戦 | Kataoka Satoshi | Awaji Shuzo | Win | B+9.5 | 6.5 | 2462 | 30 | 
+| 2017-03-02 | 第56期十段戦　予選A決勝 | Shuto Shun | Kataoka Satoshi | Lose | B+1.5 | 6.5 | 2432 | 42 | 
+| 2017-02-09 | 第56期十段戦　予選A | Takanashi Seiken | Kataoka Satoshi | Win | W+5.5 | 6.5 | 2390 | 53 | 
+| 2017-01-26 | 第73期本因坊戦　予選A | Shuto Shun | Kataoka Satoshi | Lose | B+R | 6.5 | 2337 | -98 | 
+| 2016-12-15 | 第42期棋聖戦　ファーストトーナメント2回戦 | Takanashi Seiken | Kataoka Satoshi | Lose | B+1.5 | 6.5 | 2435 | -120 | 
+| 2016-09-22 | 第41期棋聖戦Cリーグ | Nakano Hironari | Kataoka Satoshi | Lose | B+0.5 | 6.5 | 2555 | -65 | 
+| 2016-08-18 | 第41期棋聖戦Cリーグ | Kataoka Satoshi | Koike Yoshihiro | Lose | W+0.5 | 6.5 | 2620 | -52 | 
+| 2016-07-28 | 第72期本因坊戦予選 | Ko Iso | Kataoka Satoshi | Lose | B+1.5 | 6.5 | 2672 | -86 | 
+| 2016-07-21 | 第65期王座戦予選 | Yamada Shinji | Kataoka Satoshi | Lose | B+R | 6.5 | 2758 | 92 | 
+| 2016-07-07 | 第55期十段戦予選 | Akiyama Jiro | Kataoka Satoshi | Lose | B+4.5 | 6.5 | 2666 | -35 | 
+| 2016-06-30 | 第42期碁聖戦予選 | Fujita Akihiko | Kataoka Satoshi | Win | W+R | 6.5 | 2701 | 30 | 
+| 2016-06-23 | 第42期名人戦予選 | Hashimoto Yujiro | Kataoka Satoshi | Lose | B+R | 6.5 | 2671 | -60 | 
+| 2016-06-16 | 第41期棋聖戦Cリーグ | Kataoka Satoshi | Nakaonoda Tomomi | Lose | W+1.5 | 6.5 | 2731 | -54 | 
+| 2016-06-09 | 第72期本因坊戦予選 | Seto Taiki | Kataoka Satoshi | Win | W+2.5 | 6.5 | 2785 | 12 | 
+| 2016-06-02 | 第23期阿含・桐山杯全日本早碁オープン戦予選 | Cho U | Kataoka Satoshi | Lose | B+6.5 | 6.5 | 2773 | -5 | 
+| 2016-05-26 | 第42期名人戦予選 | Kataoka Satoshi | Kanno Masashi | Win | B+R | 6.5 | 2778 | 18 | 
+| 2016-05-19 | 第23期阿含・桐山杯全日本早碁オープン戦予選 | Kataoka Satoshi | Yamamoto Kentaro | Win | B+R | 6.5 | 2760 | -10 | 
+| 2016-05-12 | 第42期名人戦予選 | Izumitani Hideo | Kataoka Satoshi | Win | W+R | 6.5 | 2770 | 65 | 
+| 2016-04-21 | 第41期棋聖戦Cリーグ | Ohashi Naruya | Kataoka Satoshi | Win | W+R | 6.5 | 2705 | 73 | 
+| 2016-04-14 | 第42期天元戦本戦2回戦 | Ichiriki Ryo | Kataoka Satoshi | Lose | B+R | 6.5 | 2632 | -44 | 
+| 2016-04-07 | 第72期本因坊戦予選 | Kataoka Satoshi | Obuchi Kotaro | Win | B+R | 6.5 | 2676 | -11 | 
+| 2016-03-31 | 第42期名人戦予選 | Kataoka Satoshi | Kusunoki Teruko | Win | B+7.5 | 6.5 | 2687 | 91 | 
+| 2016-03-17 | 第6回フマキラー囲碁マスターズカップ1回戦 | Kataoka Satoshi | O Meien | Lose | W+10.5 | 6.5 | 2596 | 36 | 
+| 2016-02-18 | 第72期本因坊戦予選 | Kataoka Satoshi | Kono Takashi | Win | B+R | 6.5 | 2560 | -15 | 
+| 2016-02-11 | 第41期棋聖戦予選 | Kataoka Satoshi | Okada Shinichiro | Win | B+0.5 | 6.5 | 2575 | -15 | 
+| 2016-01-21 | 第41期棋聖戦予選 | Takeuchi Kousuke | Kataoka Satoshi | Win | W+R | 6.5 | 2590 | 0 | 
+| 2015-12-24 | 第41期棋聖戦予選 | Kataoka Satoshi | Shimoji Gensho | Win | B+R | 6.5 | 2590 | 3 | 
+| 2015-12-17 | 第42期天元戦本戦1回戦 | Kataoka Satoshi | Kubo Katsuaki | Win | B+R | 6.5 | 2587 | -50 | 
+| 2015-12-03 | 第41期棋聖戦予選 | Kataoka Satoshi | Suzuki Isao | Win | B+R | 6.5 | 2637 | -17 | 
+| 2015-11-05 | 第64期王座戦予選 | Awaji Shuzo | Kataoka Satoshi | Lose | B+R | 6.5 | 2654 | -88 | 
+| 2015-10-22 | 第42期天元戦予選 | Yamada Takuji | Kataoka Satoshi | Win | W+R | 6.5 | 2742 | 20 | 
+| 2015-10-15 | 第54期十段戦1回戦 | Rin Shien | Kataoka Satoshi | Lose | B+R | 6.5 | 2722 | -142 | 
+| 2015-08-27 | 第54期十段戦予選 | Kataoka Satoshi | Sakai Hideyuki | Win | B+R | 6.5 | 2864 | -3 | 
+| 2015-07-09 | 第54期十段戦予選 | Kataoka Satoshi | Matsuoka Hideki | Win | B+R | 6.5 | 2867 | -26 | 
+| 2015-06-18 | 第54期十段戦予選 | Kataoka Satoshi | Shiraishi Yuichi | Win | B+R | 6.5 | 2893 | -37 | 
+| 2015-06-11 | 第71期本因坊戦予選 | Yo Kagen | Kataoka Satoshi | Lose | B+R | 6.5 | 2930 | 10 | 
+| 2015-05-21 | 第71期本因坊戦予選 | Kataoka Satoshi | Sakai Maki | Win | B+R | 6.5 | 2920 | -116 | 
+| 2015-05-04 | 第63期王座戦予選 | Kataoka Satoshi | Hsu Chiayuan | Lose | W+1.5 | 6.5 | 3036 | 31 | 
+| 2015-04-23 | 第54期十段戦予選 | Numadate Sakiya | Kataoka Satoshi | Win | W+4.5 | 6.5 | 3005 | 11 | 
+| 2015-04-16 | 第41期天元戦本戦2回戦 | Kataoka Satoshi | Lee Ishu | Lose | W+R | 6.5 | 2994 | -40 | 
+| 2015-04-09 | 第63期王座戦予選 | Kataoka Satoshi | Yamashita Keigo | Win | B+1.5 | 6.5 | 3034 | -72 | 
+| 2015-03-19 | 第5回フマキラー囲碁マスターズカップ1回戦 | Ishida Yoshio | Kataoka Satoshi | Lose | B+R | 6.5 | 3106 | -77 | 
+| 2015-03-12 | 第41期名人戦予選 | Kataoka Satoshi | Tamaki Shinobu | Lose | W+3.5 | 6.5 | 3183 | -88 | 
+| 2015-02-26 | 第40期棋聖戦予選 | Kataoka Satoshi | Suzuki Ayumi | Lose | W+1.5 | 6.5 | 3271 | -23 | 
+| 2015-02-19 | 第41期天元戦本戦1回戦 | Kataoka Satoshi | Takeuchi Kousuke | Win | B+R | 6.5 | 3294 | 14 | 
+| 2015-02-12 | 第63期王座戦予選 | Obuchi Kotaro | Kataoka Satoshi | Win | W+R | 6.5 | 3280 | 11 | 
+| 2015-02-05 | 第40期棋聖戦予選 | Kataoka Satoshi | Xie Yimin | Win | B+R | 6.5 | 3269 | 67 | 
+| 2014-12-25 | 第63期王座戦予選 | Kataoka Satoshi | Takeuchi Kousuke | Win | B+R | 6.5 | 3202 | 20 | 
+| 2014-12-04 | 第41期名人戦予選 | Kataoka Satoshi | Kato Tomoko | Win | B+R | 6.5 | 3182 | 193 | 
+| 2014-10-23 | 第41期天元戦予選 | Kataoka Satoshi | Sun Zhe | Win | B+R | 6.5 | 2989 | -66 | 
+| 2014-10-02 | 第41期天元戦予選 | Kobayashi Koichi | Kataoka Satoshi | Win | W+R | 6.5 | 3055 | 58 | 
+| 2014-09-25 | 第63期王座戦予選 | Kataoka Satoshi | Chino Tadahiko | Win | B+R | 6.5 | 2997 | 84 | 
+| 2014-08-28 | 第40期碁聖戦予選 | Ito Masashi | Kataoka Satoshi | Win | W+R | 6.5 | 2913 | 14 | 
+| 2014-08-21 | 第41期天元戦予選 | Suzuki Ayumi | Kataoka Satoshi | Win | W+R | 6.5 | 2899 | 39 | 
+| 2014-07-31 | 第53期十段戦予選 | Kim Sujun | Kataoka Satoshi | Lose | B+R | 6.5 | 2860 | -33 | 
+| 2014-07-17 | 第21期阿含・桐山杯全日本早碁オープン戦1回戦 | Kataoka Satoshi | Ida Atsushi | Lose | W+R | 6.5 | 2893 | -3 | 
+| 2014-07-10 | 第53期十段戦予選 | Kataoka Satoshi | Cho Riyu | Win | B+R | 6.5 | 2896 | 54 | 
+| 2014-07-03 | 第70期本因坊戦予選 | Matsumoto Takehisa | Kataoka Satoshi | Lose | B+0.5 | 6.5 | 2842 | -71 | 
+| 2014-05-22 | 第21期阿含・桐山杯全日本早碁オープン戦予選 | Nakane Naoyuki | Kataoka Satoshi | Win | W+3.5 | 6.5 | 2913 | -14 | 
+| 2014-05-15 | 第70期本因坊戦予選 | Hsu Chiayuan | Kataoka Satoshi | Win | W+0.5 | 6.5 | 2927 | 97 | 
+| 2014-05-08 | 第40期名人戦予選 | Kataoka Satoshi | Takanashi Seiken | Lose | W+2.5 | 6.5 | 2830 | -36 | 
+| 2014-05-01 | 第53期十段戦予選 | Tsuneishi Takashi | Kataoka Satoshi | Win | W+3.5 | 6.5 | 2866 | -135 | 
+| 2014-04-17 | 第40期名人戦予選 | Sato Masaharu | Kataoka Satoshi | Win | W+3.5 | 6.5 | 3001 | -6 | 
+| 2014-04-10 | 第53期十段戦予選 | Kataoka Satoshi | Kono Mitsuki | Win | B+R | 6.5 | 3007 | 107 | 
+| 2014-04-03 | 第70期本因坊戦予選 | Ichiriki Ryo | Kataoka Satoshi | Win | W+1.5 | 6.5 | 2900 | 84 | 
+| 2014-03-20 | 第4回フマキラー囲碁マスターズカップ1回戦 | Kataoka Satoshi | Cho Chikun | Lose | W+1.5 | 6.5 | 2816 | -18 | 
+| 2014-03-13 | 第39期棋聖戦予選 | Yuki Satoshi | Kataoka Satoshi | Lose | B+R | 6.5 | 2834 | 1 | 
+| 2014-02-27 | 第53期十段戦予選 | Fujisawa Kazunari | Kataoka Satoshi | Win | W+R | 6.5 | 2833 | 44 | 
+| 2014-02-06 | 第40期名人戦予選 | Kataoka Satoshi | Takahashi Hideo | Win | B+R | 6.5 | 2789 | -5 | 
+| 2014-01-23 | 第39期棋聖戦予選 | Kataoka Satoshi | Miyazawa Goro | Win | B+R | 6.5 | 2794 | -160 | 
+| 2014-01-09 | 第62期王座戦予選 | Kataoka Satoshi | Nakaonoda Tomomi | Lose | W+1.5 | 6.5 | 2954 | -1 | 
+| 2013-12-05 | 第39期棋聖戦予選 | Yamada Takuji | Kataoka Satoshi | Win | W+R | 6.5 | 2955 | -3 | 
+| 2013-11-21 | 第40期天元戦予選 | Kataoka Satoshi | Nakamura Shinya | Lose | W+3.5 | 6.5 | 2958 | 5 | 
+| 2013-11-14 | 第39期棋聖戦予選 | Kataoka Satoshi | Arimura Hiroshi | Win | B+R | 6.5 | 2953 | 19 | 
+| 2013-11-07 | 第39期碁聖戦予選 | Mizokami Tomochika | Kataoka Satoshi | Lose | B+R | 6.5 | 2934 | -19 | 
+| 2013-10-31 | 第62期王座戦予選 | Kataoka Satoshi | Omori Yasushi | Win | B+R | 6.5 | 2953 | -20 | 
+| 2013-10-17 | 第39期碁聖戦予選 | Suzuki Ayumi | Kataoka Satoshi | Win | W+4.5 | 6.5 | 2973 | 38 | 
+| 2013-10-10 | 第62期王座戦予選 | Kataoka Satoshi | Mannami Nao | Win | B+1.5 | 6.5 | 2935 | -184 | 
+| 2013-08-15 | 第69期本因坊戦予選 | Kataoka Satoshi | Kono Rin | Lose | W+R | 6.5 | 3119 | -19 | 
+| 2013-08-08 | 第62期王座戦予選 | Kanagawa Masaaki | Kataoka Satoshi | Win | W+R | 6.5 | 3138 | 198 | 
+| 2013-06-27 | 第69期本因坊戦予選 | Ryu Shikun | Kataoka Satoshi | Win | W+R | 6.5 | 2940 | 244 | 
+| 2013-05-23 | 第62期王座戦予選 | Kataoka Satoshi | Abe Yumiko | Win | B+R | 6.5 | 2696 | 0 | 
+| 2013-05-16 | 第69期本因坊戦予選 | Kataoka Satoshi | Rin Shien | Win | B+R | 6.5 | 2696 | 65 | 
+| 2013-05-09 | 第3回エステー＆フマキラー囲碁マスターズカップ2回戦 | Kataoka Satoshi | Ishii Kunio | Lose | W+0.5 | 6.5 | 2631 | -62 | 
+| 2013-04-04 | 第52期十段戦予選 | Rin Kaiho | Kataoka Satoshi | Lose | B+R | 6.5 | 2693 | -54 | 
+| 2013-03-28 | 第3回エステー＆フマキラー囲碁マスターズカップ1回戦 | Ishida Yoshio | Kataoka Satoshi | Win | W+3.5 | 6.5 | 2747 | -46 | 
+| 2013-03-14 | 第69期本因坊戦予選 | Okada Shinichiro | Kataoka Satoshi | Win | W+R | 6.5 | 2793 | 4 | 
+| 2013-03-07 | 第39期天元戦本戦1回戦 | Rin Kanketsu | Kataoka Satoshi | Lose | B+5.5 | 6.5 | 2789 | 87 | 
+| 2012-12-20 | 第38期棋聖戦予選 | Mimura Tomoyasu | Kataoka Satoshi | Lose | B+3.5 | 6.5 | 2702 | -47 | 
+| 2012-12-13 | 第39期天元戦予選 | Kataoka Satoshi | Mimura Tomoyasu | Win | B+R | 6.5 | 2749 | 151 | 
+| 2012-12-06 | 第38期棋聖戦予選 | Kataoka Satoshi | Fukui Susumu | Win | B+R | 6.5 | 2598 | -224 | 
+| 2012-11-22 | 第38期棋聖戦予選 | Kataoka Satoshi | Terayama Rei | Win | B+R | 6.5 | 2822 | -20 | 
+| 2012-11-08 | 第39期天元戦予選 | Kataoka Satoshi | Otake Hideo | Win | B+R | 6.5 | 2842 | -110 | 
+| 2012-09-06 | 第38期碁聖戦予選 | Kataoka Satoshi | Matsumoto Takehisa | Lose | W+5.5 | 6.5 | 2952 | -90 | 
+| 2012-08-16 | 第38期碁聖戦予選 | Sun Zhe | Kataoka Satoshi | Win | W+4.5 | 6.5 | 3042 | 37 | 
+| 2012-08-02 | 第61期王座戦予選 | Kataoka Satoshi | Ishida Akira | Lose | W+3.5 | 6.5 | 3005 | -65 | 
+| 2012-06-30 | 第2回エステー＆フマキラー囲碁マスターズカップ準決勝 | Kataoka Satoshi | O Meien | Lose | W+R | 6.5 | 3070 | -10 | 
+| 2012-06-14 | 第38期名人戦予選 | Ohashi Hirofumi | Kataoka Satoshi | Lose | B+R | 6.5 | 3080 | -117 | 
+| 2012-06-07 | 第61期王座戦予選 | Kataoka Satoshi | Shinkai Hiroko | Win | B+R | 6.5 | 3197 | 38 | 
+| 2012-05-31 | 第2回エステー＆フマキラー囲碁マスターズカップ2回戦 | Otake Hideo | Kataoka Satoshi | Win | W+R | 6.5 | 3159 | 3 | 
+| 2012-05-24 | 第51期十段戦予選 | Ishigure Ikuro | Kataoka Satoshi | Lose | B+R | 6.5 | 3156 | -88 | 
+| 2012-05-03 | 第68期本因坊戦予選 | Kobayashi Koichi | Kataoka Satoshi | Lose | B+0.5 | 6.5 | 3244 | -69 | 
+| 2012-04-19 | 第51期十段戦予選 | Kobayashi Satoru | Kataoka Satoshi | Win | W+0.5 | 6.5 | 3313 | 29 | 
+| 2012-04-09 | 第37期碁聖戦本戦3回戦 | Iyama Yuta | Kataoka Satoshi | Lose | B+R | 6.5 | 3284 | -17 | 
+| 2012-03-29 | 第2回エステー＆フマキラー囲碁マスターズカップ1回戦 | Takemiya Masaki | Kataoka Satoshi | Win | W+8.5 | 6.5 | 3301 | 179 | 
+| 2012-03-22 | 第68期本因坊戦予選 | Fujita Akihiko | Kataoka Satoshi | Win | W+6.5 | 6.5 | 3122 | -176 | 
+| 2012-02-16 | 第37期碁聖戦本戦2回戦 | Kataoka Satoshi | Shuto Shun | Win | B+R | 6.5 | 3298 | 123 | 
+| 2012-02-09 | 第51期十段戦予選 | Kataoka Satoshi | Ueda Takashi | Win | B+R | 6.5 | 3175 | 143 | 
+| 2012-01-12 | 第68期本因坊戦予選 | Kataoka Satoshi | Murakami Akihide | Win | B+2.5 | 6.5 | 3032 | -29 | 
+| 2011-12-08 | 第37期棋聖戦予選 | Kataoka Satoshi | Lee Ishu | Lose | W+4.5 | 6.5 | 3061 | 369 | 
+| 2011-12-01 | 第37期碁聖戦本戦1回戦 | Kataoka Satoshi | Yamashiro Hiroshi | Win | B+R | 6.5 | 2692 | -74 | 
+| 2011-11-10 | 第37期棋聖戦予選 | Fujita Akihiko | Kataoka Satoshi | Win | W+0.5 | 6.5 | 2766 | 0 | 
+| 2011-10-06 | 第38期天元戦予選 | O Rissei | Kataoka Satoshi | Lose | B+R | 6.5 | 2766 | -59 | 
+| 2011-09-15 | 第37期碁聖戦予選 | Akiyama Jiro | Kataoka Satoshi | Win | W+1.5 | 6.5 | 2825 | 181 | 
+| 2011-08-25 | 第37期碁聖戦予選 | Kataoka Satoshi | Takao Shinji | Win | B+R | 6.5 | 2644 | 34 | 
+| 2011-08-04 | 第38期天元戦予選 | Nakamura Hidehito | Kataoka Satoshi | Win | W+7.5 | 6.5 | 2610 | 67 | 
+| 2011-07-28 | 第37期名人戦予選 | Kataoka Satoshi | Cho Riyu | Lose | W+R | 6.5 | 2543 | -240 | 
+| 2011-06-23 | 第37期名人戦予選 | Kataoka Satoshi | Chino Tadahiko | Win | B+R | 6.5 | 2783 | -30 | 
+| 2011-04-28 | 第60期王座戦予選 | O Meien | Kataoka Satoshi | Lose | B+R | 6.5 | 2813 | 6 | 
+| 2011-04-14 | 第37期碁聖戦予選 | Chino Tadahiko | Kataoka Satoshi | Win | W+R | 6.5 | 2807 | -58 | 
+| 2011-03-24 | 第1回エステー＆フマキラー囲碁マスターズカップ2回戦 | Ishida Yoshio | Kataoka Satoshi | Lose | B+R | 6.5 | 2865 | -48 | 
+| 2011-02-24 | 第1回エステー＆フマキラー囲碁マスターズカップ1回戦 | Hane Yasumasa | Kataoka Satoshi | Win | W+R | 6.5 | 2913 | 19 | 
+| 2011-02-03 | 第67期本因坊戦予選 | Sanno Hirotaka | Kataoka Satoshi | Lose | B+1.5 | 6.5 | 2894 | 61 | 
+| 2010-12-16 | 第37期天元戦本戦1回戦 | Kataoka Satoshi | Yoda Norimoto | Lose | W+R | 6.5 | 2833 | 83 | 
+| 2010-11-18 | 第50期十段戦予選 | Kataoka Satoshi | Sakai Takeshi | Win | B+R | 6.5 | 2750 | -69 | 
+| 2010-11-11 | 第37期天元戦予選 | So Yokoku | Kataoka Satoshi | Win | W+R | 6.5 | 2819 | 17 | 
+| 2010-11-04 | 第59期王座戦予選 | Kataoka Satoshi | Anzai Nobuaki | Lose | W+R | 6.5 | 2802 | 9 | 
+| 2010-10-21 | 第37期天元戦予選 | Iguchi Hideichiro | Kataoka Satoshi | Win | W+R | 6.5 | 2793 | -50 | 
+| 2010-10-14 | 第36期棋聖戦予選 | Ando Kazushige | Kataoka Satoshi | Lose | B+R | 6.5 | 2843 | 152 | 
+| 2010-09-16 | 第36期碁聖戦予選 | O Meien | Kataoka Satoshi | Lose | B+1.5 | 6.5 | 2691 | 63 | 
+| 2010-09-09 | 第36期名人戦予選 | Kataoka Satoshi | Yamada Kimio | Lose | W+R | 6.5 | 2628 | 22 | 
+| 2010-08-05 | 第37期天元戦予選 | Kenmochi Joe | Kataoka Satoshi | Win | W+R | 6.5 | 2606 | -23 | 
+| 2010-07-29 | 第66期本因坊戦予選 | Kataoka Satoshi | Seto Taiki | Lose | W+R | 6.5 | 2629 | -58 | 
+| 2010-07-01 | 第36期名人戦予選 | Kanda Ei | Kataoka Satoshi | Win | W+R | 6.5 | 2687 | 52 | 
+| 2010-06-10 | 第66期本因坊戦予選 | Kataoka Satoshi | Obuchi Morito | Win | B+4.5 | 6.5 | 2635 | 136 | 
+| 2010-05-13 | 第66期本因坊戦予選 | Kataoka Satoshi | Hoshino Masaki | Win | B+R | 6.5 | 2499 | 25 | 
+| 2010-04-15 | 第36期名人戦予選 | Kubo Hideo | Kataoka Satoshi | Win | W+R | 6.5 | 2474 | 8 | 
+| 2010-04-08 | 第66期本因坊戦予選 | Rin Kaiho | Kataoka Satoshi | Win | W+2.5 | 6.5 | 2466 | -5 | 
+| 2010-03-11 | 第58期王座戦予選 | Kataoka Satoshi | Kobayashi Satoru | Lose | W+R | 6.5 | 2471 | -67 | 
+| 2010-01-21 | 第66期本因坊戦予選 | Kataoka Satoshi | Izumitani Hideo | Win | B+R | 6.5 | 2538 | 36 | 
+| 2009-12-17 | 第58期王座戦予選 | Tsuruyama Atsushi | Kataoka Satoshi | Win | W+R | 6.5 | 2502 | -163 | 
+| 2009-11-19 | 第49期十段戦予選 | Shiraishi Yuichi | Kataoka Satoshi | Lose | B+0.5 | 6.5 | 2665 | -138 | 
+| 2009-11-12 | 第58期王座戦予選 | Kono Takashi | Kataoka Satoshi | Win | W+4.5 | 6.5 | 2803 | -6 | 
+| 2009-10-29 | 第35期棋聖戦予選 | Kataoka Satoshi | Mimura Tomoyasu | Lose | W+R | 6.5 | 2809 | 31 | 
+| 2009-10-15 | 第58期王座戦予選 | Kataoka Satoshi | Shiraishi Yuichi | Win | B+R | 6.5 | 2778 | 69 | 
+| 2009-10-01 | 第35期棋聖戦予選 | Nakamura Hidehito | Kataoka Satoshi | Win | W+R | 6.5 | 2709 | -14 | 
+| 2009-09-17 | 第35期碁聖戦予選 | Kataoka Satoshi | Hoshino Masaki | Lose | W+5.5 | 6.5 | 2723 | -69 | 
+| 2009-09-10 | 第36期天元戦予選 | Kataoka Satoshi | Awaji Shuzo | Lose | W+4.5 | 6.5 | 2792 | 1 | 
+| 2009-08-29 | 第29期NECカップ囲碁トーナメント戦2回戦 | Kono Rin | Kataoka Satoshi | Lose | B+R | 6.5 | 2791 | 6 | 
+| 2009-08-20 | 第35期碁聖戦予選 | Kataoka Satoshi | Michael Redmond | Win | B+7.5 | 6.5 | 2785 | 21 | 
+| 2009-08-06 | 第35期名人戦予選 | Kataoka Satoshi | Yamashiro Hiroshi | Lose | W+1.5 | 6.5 | 2764 | -29 | 
+| 2009-07-02 | 第35期名人戦予選 | Kataoka Satoshi | Kanda Ei | Win | B+R | 6.5 | 2793 | 25 | 
+| 2009-06-25 | 第35期碁聖戦予選 | Aoki Shinichi | Kataoka Satoshi | Win | W+R | 6.5 | 2768 | 21 | 
+| 2009-06-17 | 第29期NECカップ囲碁トーナメント戦1回戦 | O Meien | Kataoka Satoshi | Win | W+R | 6.5 | 2747 | -30 | 
+| 2009-05-21 | 第65期本因坊戦予選 | Kataoka Satoshi | Ishida Atsushi | Lose | W+R | 6.5 | 2777 | -29 | 
+| 2009-05-11 | 第5回大和証券杯ネット囲碁オープン予選 | Hiroe Hiroyuki | Kataoka Satoshi | Lose | B+13.5 | 6.5 | 2806 | 11 | 
+| 2009-05-07 | 第35期名人戦予選 | Kataoka Satoshi | Okada Shinichiro | Win | B+R | 6.5 | 2795 | 30 | 
+| 2009-04-23 | 第48期十段戦予選 | Yamashita Keigo | Kataoka Satoshi | Lose | B+R | 6.5 | 2765 | -2 | 
+| 2009-04-02 | 第64期本因坊戦リーグ | Kataoka Satoshi | Yamashita Keigo | Lose | W+R | 6.5 | 2767 | -17 | 
+| 2009-03-26 | 第64期本因坊戦リーグ | Kataoka Satoshi | Takao Shinji | Lose | W+R | 6.5 | 2784 | 24 | 
+| 2009-03-12 | 第34期棋聖戦予選 | Lee Ishu | Kataoka Satoshi | Lose | B+1.5 | 6.5 | 2760 | -59 | 
+| 2009-03-05 | 第48期十段戦予選 | Kataoka Satoshi | Takano Hideki | Win | B+8.5 | 6.5 | 2819 | 23 | 
+| 2009-02-19 | 第34期棋聖戦予選 | Hikosaka Naoto | Kataoka Satoshi | Win | W+R | 6.5 | 2796 | -6 | 
+| 2009-02-12 | 第48期十段戦予選 | Kataoka Satoshi | Nakaonoda Tomomi | Win | B+3.5 | 6.5 | 2802 | 0 | 
+| 2009-02-05 | 第64期本因坊戦リーグ | Kataoka Satoshi | So Yokoku | Lose | W+R | 6.5 | 2802 | -19 | 
+| 2009-01-22 | 第64期本因坊戦リーグ | Nakaonoda Tomomi | Kataoka Satoshi | Win | W+0.5 | 6.5 | 2821 | 8 | 
+| 2009-01-15 | 第35期天元戦予選 | Kataoka Satoshi | So Yokoku | Lose | W+R | 6.5 | 2813 | 35 | 
+| 2008-12-11 | 第64期本因坊戦リーグ | Yamada Kimio | Kataoka Satoshi | Lose | B+R | 6.5 | 2778 | 218 | 
+| 2008-11-20 | 第48期十段戦予選 | Ishikura Noboru | Kataoka Satoshi | Win | W+7.5 | 6.5 | 2560 | -16 | 
+| 2008-11-13 | 第64期本因坊戦リーグ | Yoda Norimoto | Kataoka Satoshi | Win | W+R | 6.5 | 2576 | -479 | 
+| 2008-10-20 | 第64期本因坊戦リーグ | Kataoka Satoshi | Cho U | Lose | W+1.5 | 6.5 | 3055 | -19 | 
+| 2008-10-16 | 第57期王座戦予選 | Kataoka Satoshi | Lee Ishu | Lose | W+1.5 | 6.5 | 3074 | -8 | 
+| 2008-10-09 | 第35期天元戦予選 | Nishimura Keiji | Kataoka Satoshi | Win | W+R | 6.5 | 3082 | 85 | 
+| 2008-10-02 | 第33期棋聖戦Aリーグ | Kataoka Satoshi | Cho Chikun | Lose | W+0.5 | 6.5 | 2997 | -15 | 
+| 2008-09-18 | 第34期碁聖戦予選 | Nakamura Shinya | Kataoka Satoshi | Lose | B+3.5 | 6.5 | 3012 | -39 | 
+| 2008-09-11 | 第33期棋聖戦Aリーグ | Kataoka Satoshi | Yuki Satoshi | Win | B+R | 6.5 | 3051 | 53 | 
+| 2008-08-28 | 第34期碁聖戦予選 | Aoki Shinichi | Kataoka Satoshi | Win | W+8.5 | 6.5 | 2998 | 55 | 
+| 2008-08-14 | 第33期棋聖戦Aリーグ | O Rissei | Kataoka Satoshi | Lose | B+R | 6.5 | 2943 | 332 | 
+| 2008-07-31 | 第64期本因坊戦予選 | Kataoka Satoshi | Kobayashi Satoru | Win | B+0.5 | 6.5 | 2611 | 36 | 
+| 2008-07-17 | 第34期名人戦予選 | Kataoka Satoshi | Cho Sonjin | Lose | W+4.5 | 6.5 | 2575 | -61 | 
+| 2008-07-10 | 第33期棋聖戦Aリーグ | Kataoka Satoshi | Iyama Yuta | Lose | W+R | 6.5 | 2636 | 39 | 
+| 2008-06-26 | 第64期本因坊戦予選 | Yamada Takuji | Kataoka Satoshi | Win | W+R | 6.5 | 2597 | 85 | 
+| 2008-06-05 | 第33期棋聖戦Aリーグ | Takao Shinji | Kataoka Satoshi | Lose | B+R | 6.5 | 2512 | -114 | 
+| 2008-05-22 | 第64期本因坊戦予選 | Kataoka Satoshi | Ishida Atsushi | Win | B+R | 6.5 | 2626 | 168 | 
+| 2008-04-17 | 第34期名人戦予選 | Kataoka Satoshi | Lee Ishu | Win | B+R | 6.5 | 2458 | 13 | 
+| 2008-04-03 | 第33期棋聖戦予選 | Kataoka Satoshi | Miyamoto Yoshihisa | Win | B+R | 6.5 | 2445 | -58 | 
+| 2008-03-20 | 第33期棋聖戦予選 | Kataoka Satoshi | Yukawa Mitsuhisa | Win | B+R | 6.5 | 2503 | 5 | 
+| 2008-03-06 | 第64期本因坊戦予選 | Kataoka Satoshi | Kim Sujun | Win | B+0.5 | 6.5 | 2498 | 45 | 
+| 2008-02-14 | 第33期棋聖戦予選 | Kataoka Satoshi | Kamimura Haruo | Win | B+6.5 | 6.5 | 2453 | -7 | 
+| 2008-02-07 | 第34期名人戦予選 | Muramatsu Ryuichi | Kataoka Satoshi | Win | W+2.5 | 6.5 | 2460 | -10 | 
+| 2008-01-31 | 第64期本因坊戦予選 | Ohba Junya | Kataoka Satoshi | Win | W+R | 6.5 | 2470 | 103 | 
+| 2008-01-24 | 第56期王座戦予選 | Kim Sujun | Kataoka Satoshi | Lose | B+2.5 | 6.5 | 2367 | -15 | 
+| 2007-12-20 | 第56期王座戦予選 | Kataoka Satoshi | Imamura Yoshiaki | Win | B+R | 6.5 | 2382 | 12 | 
+| 2007-12-13 | 第33期棋聖戦予選 | Mimura Tomoyasu | Kataoka Satoshi | Win | W+4.5 | 6.5 | 2370 | -120 | 
+| 2007-11-08 | 第47期十段戦予選 | Takano Hideki | Kataoka Satoshi | Lose | B+6.5 | 6.5 | 2490 | -28 | 
+| 2007-11-01 | 第64期本因坊戦予選 | Kataoka Satoshi | Kato Tomoko | Win | B+R | 6.5 | 2518 | -152 | 
+| 2007-08-28 | 第3回大和証券杯ネット囲碁オープン予選 | Sakai Takeshi | Kataoka Satoshi | Lose | B+R | 6.5 | 2670 | -112 | 
+| 2007-08-16 | 第34期天元戦予選 | Doi Makoto | Kataoka Satoshi | Win | W+R | 6.5 | 2782 | -351 | 
+| 2007-08-02 | 第33期碁聖戦予選 | Kataoka Satoshi | Mizokami Tomochika | Lose | W+R | 6.5 | 3133 | -14 | 
+| 2007-06-28 | 第55期王座戦準決勝 | Kataoka Satoshi | Cho U | Lose | W+0.5 | 6.5 | 3147 | 13 | 
+| 2007-06-07 | 第33期名人戦予選 | Matsumoto Takehisa | Kataoka Satoshi | Lose | B+3.5 | 6.5 | 3134 | -8 | 
+| 2007-05-24 | 第55期王座戦2回戦 | Kataoka Satoshi | Iyama Yuta | Win | B+R | 6.5 | 3142 | 62 | 
+| 2007-05-03 | 第34期天元戦予選 | Iwata Hajime | Kataoka Satoshi | Win | W+R | 6.5 | 3080 | -9 | 
+| 2007-04-26 | 第55期王座戦1回戦 | Kiyonari Tetsuya | Kataoka Satoshi | Win | W+5.5 | 6.5 | 3089 | 16 | 
+| 2007-03-29 | 第55期王座戦予選 | Yoda Norimoto | Kataoka Satoshi | Win | W+3.5 | 6.5 | 3073 | 441 | 
+| 2007-02-15 | 第63期本因坊戦予選 | Kim Sujun | Kataoka Satoshi | Lose | B+1.5 | 6.5 | 2632 | -15 | 
+| 2007-01-29 | 第20回世界囲碁選手権富士通杯国内予選 | Yoda Norimoto | Kataoka Satoshi | Lose | B+R | 6.5 | 2647 | -69 | 
+| 2007-01-25 | 第32期棋聖戦予選 | Kataoka Satoshi | Takemiya Masaki | Lose | W+R | 6.5 | 2716 | 42 | 
+| 2006-12-21 | 第20回世界囲碁選手権富士通杯国内予選 | Ishigure Ikuro | Kataoka Satoshi | Win | W+R | 6.5 | 2674 | 44 | 
+| 2006-12-14 | 第46期十段戦予選 | Tei Meiko | Kataoka Satoshi | Lose | B+0.5 | 6.5 | 2630 | -33 | 
+| 2006-12-07 | 第55期王座戦予選 | Yokota Shigeaki | Kataoka Satoshi | Win | W+0.5 | 6.5 | 2663 | -4 | 
+| 2006-11-30 | 第20回世界囲碁選手権富士通杯国内予選 | Kataoka Satoshi | Komatsu Hideki | Win | B+0.5 | 6.5 | 2667 | -16 | 
+| 2006-11-23 | 第32期棋聖戦予選 | Muramatsu Ryuichi | Kataoka Satoshi | Win | W+R | 6.5 | 2683 | -26 | 
+| 2006-11-16 | 第46期十段戦予選 | Kataoka Satoshi | Akiyama Jiro | Win | B+R | 6.5 | 2709 | 20 | 
+| 2006-10-26 | 第63期本因坊戦予選 | Kataoka Satoshi | Omori Yasushi | Win | B+1.5 | 6.5 | 2689 | -86 | 
+| 2006-09-28 | 第32期名人戦予選 | Rin Kaiho | Kataoka Satoshi | Win | W+11.5 | 6.5 | 2775 | 21 | 
+| 2006-08-31 | 第63期本因坊戦予選 |  | Kataoka Satoshi | Win | W+R | 6.5 | 2754 | 18 | 
+| 2006-08-24 | 第32期碁聖戦予選 | Kataoka Satoshi | Kobayashi Satoru | Win | B+R | 6.5 | 2736 | 16 | 
+| 2006-08-03 | 第32期名人戦予選 | Kataoka Satoshi | Sakai Takeshi | Win | B+R | 6.5 | 2720 | -26 | 
+| 2006-07-13 | 第33期天元戦予選 | Kataoka Satoshi | Aoki Kikuyo | Win | B+3.5 | 6.5 | 2746 | -42 | 
+| 2006-06-29 | 第54期王座戦2回戦 | Kobayashi Satoru | Kataoka Satoshi | Lose | B+R | 6.5 | 2788 | -142 | 
+| 2006-06-08 | 第32期碁聖戦予選 | Nakamura Hidehito | Kataoka Satoshi | Win | W+R | 6.5 | 2930 | 12 | 
+| 2006-05-18 | 第54期王座戦1回戦 | Kiyonari Tetsuya | Kataoka Satoshi | Win | W+4.5 | 6.5 | 2918 | 43 | 
+| 2006-05-11 | 第32期名人戦予選 | Kataoka Satoshi | Doi Makoto | Win | B+R | 6.5 | 2875 | -50 | 
+| 2006-02-16 | 第45期十段戦予選 | Rin Kaiho | Kataoka Satoshi | Lose | B+R | 6.5 | 2925 | -67 | 
+| 2006-02-09 | 第19回世界囲碁選手権富士通杯国内予選決勝 | Kataoka Satoshi | Cho Chikun | Lose | W+R | 6.5 | 2992 | -82 | 
+| 2006-01-26 | 第54期王座戦予選 | Kataoka Satoshi | Yamashiro Hiroshi | Win | B+R | 6.5 | 3074 | 54 | 
+| 2006-01-19 | 第31期棋聖戦予選 | Takemiya Masaki | Kataoka Satoshi | Lose | B+R | 6.5 | 3020 | -137 | 
+| 2006-01-12 | 第19回世界囲碁選手権富士通杯国内予選 | Kataoka Satoshi | Oya Koichi | Win | B+8.5 | 6.5 | 3157 | -16 | 
+| 2005-12-22 | 第54期王座戦予選 | Kataoka Satoshi | Kato Atsushi | Win | B+R | 6.5 | 3173 | -154 | 
+| 2005-12-15 | 第62期本因坊戦予選 | Mochizuki Kenichi | Kataoka Satoshi | Lose | B+R | 6.5 | 3327 | -77 | 
+| 2005-11-17 | 第31期棋聖戦予選 | Ishida Akira | Kataoka Satoshi | Win | W+R | 6.5 | 3404 | 378 | 
+| 2005-11-03 | 第45期十段戦予選 | Miyazawa Goro | Kataoka Satoshi | Win | W+R | 6.5 | 3026 | 500 | 
+| 2005-06-09 | 第53期王座戦2回戦 | O Meien | Kataoka Satoshi | Lose | B+2.5 | 6.5 | 2526 | -201 | 
+| 2005-05-19 | 第53期王座戦1回戦 | Cho Chikun | Kataoka Satoshi | Win | W+4.5 | 6.5 | 2727 | -192 | 
+| 2005-01-12 | 第19回世界囲碁選手権富士通杯国内予選 | Seto Taiki | Kataoka Satoshi | Win | W+3.5 | 6.5 | 2919 | 244 | 
+| 2004-07-29 | 第43期十段戦敗者復活戦1回戦 | Suzuki Yoshimichi | Kataoka Satoshi | Lose | B+R | 6.5 | 2675 | -144 | 
+| 2004-07-15 | 第30期天元戦本戦3回戦 | Kataoka Satoshi | Kato Masao | Lose | W+R | 6.5 | 2819 | -131 | 
+| 2004-06-03 | 第30期天元戦本戦2回戦 | O Meien | Kataoka Satoshi | Win | W+5.5 | 6.5 | 2950 | 117 | 
+| 2004-05-13 | 第43期十段戦本戦1回戦 | Cho U | Kataoka Satoshi | Lose | B+2.5 | 6.5 | 2833 | 248 | 
+| 2004-02-09 | 第17回世界囲碁選手権富士通杯国内予選決勝 | Yuki Satoshi | Kataoka Satoshi | Lose | B+R | 6.5 | 2585 | -157 | 
+| 2004-01-22 | 第30期天元戦本戦1回戦 | Imamura Yoshiaki | Kataoka Satoshi | Win | W+2.5 | 6.5 | 2742 | 3507 | 
+| 2003-11-20 | 第29期碁聖戦本戦1回戦 | Akiyama Jiro | Kataoka Satoshi | Lose | B+2.5 | 6.5 | -765 | -765 | 
+| 2003-07-31 | 第52期王座戦予選 | Kataoka Satoshi | Nakaonoda Tomomi | Win | B+0.5 | 6.5 | missing | 0 | 
+| 2003-02-27 | 第29期天元戦本戦1回戦 | Kataoka Satoshi | So Yokoku | Lose | W+R | 6.5 | missing | 0 | 
+| 2002-12-12 | 第28期碁聖戦本戦1回戦 | Michael Redmond | Kataoka Satoshi | Lose | B+3.5 | 6.5 | missing | 0 | 
+| 2002-08-25 | 坂井秀至　試練の十二番勝負　第十一戦 | Kataoka Satoshi | Sakai Hideyuki | Win | B+R | 6.5 | missing | 0 | 
+| 1999-09-09 | 第4期三星杯2回戦 | Wang Lei (b) | Kataoka Satoshi | Lose | B+R | 6.5 | missing | 0 | 
+| 1999-09-07 | 第4期三星杯1回戦 | Kataoka Satoshi | Choi Myeonghun | Win | B+4.5 | 6.5 | missing | missing |
 
 
 

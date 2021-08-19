@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-19 | 第2期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Xiao Zhenghao | Lose | W+R | 6.5 | 2965 | -81 | 
 | 2021-08-17 | 第2期聯電杯プロ囲碁戦リーグ |  | Chen Shiyuan | Win | W+R | 6.5 | 3046 | 118 | 
 | 2021-08-15 | 第2期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Xu Haohong | Lose | W+R | 6.5 | 2928 | -76 | 
 | 2021-05-13 | 第11期友士杯十段戦敗部3回戦 | Lin Lixiang | Chen Shiyuan | Win | W+R | 6.5 | 3004 | 18 | 

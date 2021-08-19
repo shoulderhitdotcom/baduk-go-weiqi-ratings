@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-19 | 第46期棋聖戦Aリーグ | Hane Naoki | Yoda Norimoto | Lose | B+R | 6.5 | 3224 | 38 | 
 | 2021-08-05 | 第47期名人戦予選  | Yoda Norimoto | Koyama Kuya | Win | B+R | 6.5 | 3186 | 26 | 
 | 2021-07-15 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Hsu Chiayuan | Lose | W+6.5 | 6.5 | 3160 | 0 | 
 | 2021-07-15 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Hsu Chiayuan | Lose | W+6.5 | 6.5 | 3160 | -40 | 

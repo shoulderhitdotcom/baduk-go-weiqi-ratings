@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-19 | 第46期棋聖戦Aリーグ | Hane Naoki | Yoda Norimoto | Win | B+R | 6.5 | 3300 | 51 | 
+| 2021-07-29 | 第46期棋聖戦Aリーグ | Hane Naoki | Mutsuura Yuta | Lose | W+R | 6.5 | 3249 | -2 | 
 | 2021-07-22 | 第69期王座戦2回戦  | Hane Naoki | Cho U | Lose | W+1.5 | 6.5 | 3251 | 4 | 
 | 2021-07-08 | 第46期名人戦リーグ  | Hsu Chiayuan | Hane Naoki | Win | W+R | 6.5 | 3247 | 34 | 
 | 2021-06-17 | 第46期棋聖戦Aリーグ | Hsu Chiayuan | Hane Naoki | Win | W+R | 6.5 | 3213 | 45 | 

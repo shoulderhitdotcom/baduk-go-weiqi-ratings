@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-19 | 第2期聯電杯プロ囲碁戦リーグ | Xu Haohong | Wang Yuanjun | Win | B+2.5 | 6.5 | 3426 | -68 | 
 | 2021-08-17 | 第2期聯電杯プロ囲碁戦リーグ | Chen Qirui | Xu Haohong | Win | W+R | 6.5 | 3494 | 115 | 
 | 2021-08-15 | 第2期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Xu Haohong | Win | W+R | 6.5 | 3379 | -49 | 
 | 2021-08-10 | 第2期聯電杯プロ囲碁戦勝部3回戦 | Lu Yiquan | Xu Haohong | Win | W+R | 6.5 | 3428 | 49 | 

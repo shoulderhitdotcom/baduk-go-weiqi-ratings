@@ -5,24 +5,25 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第2回SGW杯中庸戦予選 | Takemiya Youkou | Kanda Ei | W+1.5 | 2019-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HRLTup67naQ1bZWRh1ePuQ%3D%3D) | 
-| 第2回SGW杯中庸戦予選 | Kato Yuuki | Takemiya Youkou | W+8.5 | 2019-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uH1RZLOi5Tusk6U8acm5JQ%3D%3D) | 
-| 第67期王座戦予選 | Mannami Nao | Takemiya Youkou | W+6.5 | 2018-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8IwW3n064M733yUnOvDj7g%3D%3D) | 
-| 第23回LG杯予選2回戦 | Hong Minpyo | Takemiya Youkou | B+R | 2018-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bex22OIIJA%2BR%2B22j6R6XUw%3D%3D) | 
-| 第22回三星火災杯統合予選1回戦 | Takemiya Youkou | Seol Hyunjun | W+R | 2017-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A%2FbS47NcLAtPNsQTb%2B%2FCeg%3D%3D) | 
-| 第71期本因坊戦予選 | Takemiya Youkou | O Meien | W+R | 2015-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a81w%2FqwaYHgod5Im2lYd2A%3D%3D) | 
-| 第20回LG杯予選 | Park Cheongsang | Takemiya Youkou | B+T | 2015-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sa6mLbqlwumsUcqnKBNVnA%3D%3D) | 
-| 第40期名人戦予選 | Takemiya Youkou | Kudo Norio | W+R | 2014-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fqOIYa9BTDJuikLn9p%2FPgQ%3D%3D) | 
-| 第40期碁聖戦予選 | Xie Yimin | Takemiya Youkou | B+1.5 | 2014-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ot7AE7wKqDLZmbdERwRqpg%3D%3D) | 
-| 第38期碁聖戦予選 | Ohashi Hirofumi | Takemiya Youkou | B+2.5 | 2012-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F66fmYMC3RPoVsAoG03wSw%3D%3D) | 
-| 第36期棋聖戦予選 | Otake Hideo | Takemiya Youkou | W+R | 2010-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cRNqEtXkWJF6Z5KdpTrmyw%3D%3D) | 
-| 第3回広島アルミ杯・若鯉戦1回戦 | Takemiya Youkou | Shida Tatsuya | W+R | 2008-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bqk9edLrUPDNi1donp8sbQ%3D%3D) | 
-| 第35期天元戦予選 | Takemiya Youkou | Cho Sonjin | B+0.5 | 2008-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QT2z2HeKPGL1t46LeoXBdA%3D%3D) | 
-| 第34期碁聖戦予選 | Mimura Tomoyasu | Takemiya Youkou | B+R | 2008-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jb3wXBrxI0cAhcgEujudyw%3D%3D) | 
-| 第33期棋聖戦予選 | Takemiya Youkou | Ishida Yoshio | W+8.5 | 2007-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sh3KDrX6ckZv1D%2Bc9lK6uw%3D%3D) | 
-| 第33期名人戦予選 | Takemiya Youkou | Cho Sonjin | W+5.5 | 2007-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=za5uMRsca0yOkzRYZlGwuA%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-19 | 第48期天元戦予選 | Takemiya Youkou | Kudo Norio | Lose | W+R | 6.5 | missing | 0 | 
+| 2019-10-07 | 第2回SGW杯中庸戦予選 | Takemiya Youkou | Kanda Ei | Lose | W+1.5 | 6.5 | missing | 0 | 
+| 2019-10-07 | 第2回SGW杯中庸戦予選 | Kato Yuuki | Takemiya Youkou | Win | W+8.5 | 6.5 | missing | -2876 | 
+| 2018-07-05 | 第67期王座戦予選 | Mannami Nao | Takemiya Youkou | Win | W+6.5 | 6.5 | 2876 | 2876 | 
+| 2018-04-04 | 第23回LG杯予選2回戦 | Hong Minpyo | Takemiya Youkou | Lose | B+R | 6.5 | missing | 0 | 
+| 2017-06-28 | 第22回三星火災杯統合予選1回戦 | Takemiya Youkou | Seol Hyunjun | Lose | W+R | 6.5 | missing | 0 | 
+| 2015-05-14 | 第71期本因坊戦予選 | Takemiya Youkou | O Meien | Lose | W+R | 6.5 | missing | 0 | 
+| 2015-04-13 | 第20回LG杯予選 | Park Cheongsang | Takemiya Youkou | Lose | B+T | 6.5 | missing | 0 | 
+| 2014-02-20 | 第40期名人戦予選 | Takemiya Youkou | Kudo Norio | Lose | W+R | 6.5 | missing | 0 | 
+| 2014-01-16 | 第40期碁聖戦予選 | Xie Yimin | Takemiya Youkou | Lose | B+1.5 | 6.5 | missing | 0 | 
+| 2012-03-08 | 第38期碁聖戦予選 | Ohashi Hirofumi | Takemiya Youkou | Lose | B+2.5 | 6.5 | missing | 0 | 
+| 2010-09-23 | 第36期棋聖戦予選 | Otake Hideo | Takemiya Youkou | Win | W+R | 6.5 | missing | -2310 | 
+| 2008-11-01 | 第3回広島アルミ杯・若鯉戦1回戦 | Takemiya Youkou | Shida Tatsuya | Lose | W+R | 6.5 | 2310 | -360 | 
+| 2008-10-02 | 第35期天元戦予選 | Takemiya Youkou | Cho Sonjin | Win | B+0.5 | 6.5 | 2670 | 2670 | 
+| 2008-09-25 | 第34期碁聖戦予選 | Mimura Tomoyasu | Takemiya Youkou | Lose | B+R | 6.5 | missing | 0 | 
+| 2007-10-25 | 第33期棋聖戦予選 | Takemiya Youkou | Ishida Yoshio | Lose | W+8.5 | 6.5 | missing | 0 | 
+| 2007-06-07 | 第33期名人戦予選 | Takemiya Youkou | Cho Sonjin | Lose | W+5.5 | 6.5 | missing | missing |
 
 
 

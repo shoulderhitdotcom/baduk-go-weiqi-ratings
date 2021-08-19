@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-19 | 第2期聯電杯プロ囲碁戦リーグ | Lu Yiquan | Jian Jingting | Lose | W+R | 6.5 | 3032 | -78 | 
 | 2021-08-17 | 第2期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Lu Yiquan | Lose | B+R | 6.5 | 3110 | 111 | 
 | 2021-08-15 | 第2期聯電杯プロ囲碁戦リーグ | Chen Qirui | Lu Yiquan | Lose | B+R | 6.5 | 2999 | 3 | 
 | 2021-08-13 | 第2期聯電杯プロ囲碁戦敗部4回戦 | Li Wei | Lu Yiquan | Win | W+R | 6.5 | 2996 | -4 | 

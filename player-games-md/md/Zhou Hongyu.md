@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-19 | 第26回三星火災杯中国予選 | Yu Zhiying | Zhou Hongyu | Lose | B+1.5 | 6.5 | 3191 | 98 | 
 | 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Liao Yuanhe | Zhou Hongyu | Lose | B+R | 7.5 | 3093 | 3093 | 
 | 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Choi Jeong | Zhou Hongyu | Lose | B+R | 7.5 | missing | -3081 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Nakamura Sumire | Zhou Hongyu | Win | W+R | 7.5 | 3081 | -19 | 

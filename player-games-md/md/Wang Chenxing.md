@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-19 | 第26回三星火災杯中国予選 | Wang Chenxing |  | Lose | W+R | 6.5 | 3100 | 3100 | 
+| 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Oh Yujin | Wang Chenxing | Win | W+R | 7.5 | missing | -3042 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Suzuki Ayumi | Wang Chenxing | Win | W+R | 7.5 | 3042 | -13 | 
 | 2021-06-09 | 第4回呉清源杯中国予選 | Rui Naiwei | Wang Chenxing | Win | W+1¼ | 7.5 | 3055 | 10 | 
 | 2021-06-07 | 第4回呉清源杯中国予選 | Wang Chenxing | Fang Ruoxi | Win | B+R | 7.5 | 3045 | 9 | 
@@ -53,7 +55,7 @@
 | 2019-11-09 | 第4回全国智力運動会プロ女子個人戦第1戦 | Tang Yi | Wang Chenxing | Win | W+R | 7.5 | 2798 | -5 | 
 | 2019-11-05 | 第7回中国女子囲碁甲級リーグ第16節 | Wang Chenxing | Fang Ruoxi | Win | B+R | 7.5 | 2803 | 15 | 
 | 2019-10-31 | 第10回穹窿山兵聖杯世界女子囲碁選手権8強戦 | Zhou Hongyu | Wang Chenxing | Lose | B+R | 7.5 | 2788 | 3 | 
-| 2019-10-30 | 第10回穹窿山兵聖杯世界女子囲碁選手権1回戦 |  | Wang Chenxing | Win | W+R | 7.5 | 2785 | 19 | 
+| 2019-10-30 | 第10回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Cho Seungah | Wang Chenxing | Win | W+R | 7.5 | 2785 | 19 | 
 | 2019-10-25 | 第7回中国女子囲碁甲級リーグ第15節 |  | Wang Chenxing | Win | W+R | 7.5 | 2766 | 24 | 
 | 2019-10-18 | 第7回中国女子囲碁甲級リーグ第14節 | Tao Ran | Wang Chenxing | Win | W+R | 7.5 | 2742 | 1 | 
 | 2019-10-17 | 第7回中国女子囲碁甲級リーグ第13節 |  | Wang Chenxing | Win | W+R | 7.5 | 2741 | 21 | 
@@ -86,7 +88,7 @@
 | 2019-05-26 | 第7回中国女子囲碁甲級リーグ第3節 | Wang Chenxing |  | Win | B+R | 7.5 | 2833 | -8 | 
 | 2019-05-21 | 第4回夢百合杯統合予選 | Wang Chenxing | Nakamura Sumire | Win | B+R | 7.5 | 2841 | -37 | 
 | 2019-05-16 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦5回戦 |  | Wang Chenxing | Win | W+R | 7.5 | 2878 | 4 | 
-| 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦4回戦 |  | Wang Chenxing | Win | W+R | 7.5 | 2874 | 0 | 
+| 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦4回戦 | Bai Xinhui | Wang Chenxing | Win | W+R | 7.5 | 2874 | 0 | 
 | 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦3回戦 | Wang Chenxing | Nyu Eiko | Win | B+R | 7.5 | 2874 | 32 | 
 | 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦1回戦 | Wang Chenxing | Oh Yujin | Lose | W+R | 7.5 | 2842 | -32 | 
 | 2019-05-12 | 第8回天台山体彩杯世界女子囲碁団体戦第3戦 | Wang Chenxing | Yu Lijun | Win | B+R | 7.5 | 2874 | 19 | 
@@ -94,7 +96,7 @@
 | 2019-05-10 | 第8回天台山体彩杯世界女子囲碁団体戦第1戦 | Oh Yujin | Wang Chenxing | Lose | B+R | 7.5 | 2856 | -33 | 
 | 2019-05-07 | 第5回韓国女子囲碁リーグ第1節第2試合第1局 | Wang Chenxing | Kang Dajeong | Win | B+R | 6.5 | 2889 | -9 | 
 | 2019-04-29 | 第2回呉清源杯世界女子囲碁選手権8強戦 | Oh Yujin | Wang Chenxing | Win | W+R | 7.5 | 2898 | 18 | 
-| 2019-04-28 | 第2回呉清源杯世界女子囲碁選手権16強戦 |  | Wang Chenxing | Win | W+R | 7.5 | 2880 | 12 | 
+| 2019-04-28 | 第2回呉清源杯世界女子囲碁選手権16強戦 | Cho Seungah | Wang Chenxing | Win | W+R | 7.5 | 2880 | 12 | 
 | 2019-04-11 | 第7回中国女子囲碁甲級リーグ第2節江蘇-安徽 |  | Wang Chenxing | Win | W+R | 7.5 | 2868 | 13 | 
 | 2019-04-10 | 第7回中国女子囲碁甲級リーグ第1節広東-江蘇 | Huang Ziping | Wang Chenxing | Win | W+R | 7.5 | 2855 | 86 | 
 | 2019-03-08 | 第10期中国竜星戦Aブロック1回戦 | Wang Chenxing | Li Weiqing | Lose | W+R | 7.5 | 2769 | 5 | 

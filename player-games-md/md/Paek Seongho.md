@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-19 | 第26回三星火災杯韓国予選 |  | Paek Seongho | Lose | B+18.5 | 6.5 | 2439 | 2439 | 
+| 2021-08-12 | 2021韓国シニア囲碁リーグ | Paek Seongho | Park Seungmun | Lose | W+8.5 | 6.5 | missing | -2383 | 
 | 2021-08-03 | 2021韓国シニア囲碁リーグ | Paek Seongho | Oh Kyuchul | Win | B+4.5 | 6.5 | 2383 | -83 | 
 | 2020-10-26 | 2020NHシニア囲碁リーグ第14節第4試合第3局 | Paek Seongho | Jeong Daesang | Win | B+T | 6.5 | 2466 | -19 | 
 | 2020-10-19 | 2020NHシニア囲碁リーグ第13節第1試合第2局 | No Yeongha | Paek Seongho | Win | W+2.5 | 6.5 | 2485 | 42 | 

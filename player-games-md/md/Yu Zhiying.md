@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-19 | 第26回三星火災杯中国予選 | Yu Zhiying | Zhou Hongyu | Win | B+1.5 | 6.5 | 3214 | 3214 | 
+| 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Fujisawa Rina | Yu Zhiying | Win | W+R | 7.5 | missing | -3135 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Ueno Asami | Yu Zhiying | Win | W+R | 7.5 | 3135 | -9 | 
 | 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Zhou Hongyu | Win | B+1¾ | 7.5 | 3144 | 34 | 
 | 2021-05-19 | 第9回中国女子囲碁甲級リーグ |  | Yu Zhiying | Win | W+R | 7.5 | 3110 | -14 | 
@@ -63,7 +65,7 @@
 | 2019-10-19 | 第7回中国女子囲碁甲級リーグ第13節 | Li He | Yu Zhiying | Win | W+R | 7.5 | 2712 | 21 | 
 | 2019-10-18 | 第7回中国女子囲碁甲級リーグ第14節 | Yu Zhiying | Lu Jia | Win | B+R | 7.5 | 2691 | 12 | 
 | 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦決勝 | Yu Zhiying | Choi Jeong | Lose | W+R | 6.5 | 2679 | 0 | 
-| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦第3戦 |  | Yu Zhiying | Win | W+R | 6.5 | 2679 | -7 | 
+| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yang Zixuan | Yu Zhiying | Win | W+R | 6.5 | 2679 | -7 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhiying | Choi Jeong | Lose | W+2.5 | 6.5 | 2686 | 0 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yu Zhiying | Fujisawa Rina | Win | B+R | 6.5 | 2686 | -46 | 
 | 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Yu Zhiying | Ichiriki Ryo | Lose | W+R | 7.5 | 2732 | -38 | 
@@ -116,7 +118,7 @@
 | 2018-10-19 | 第6回中国女子囲碁甲級リーグ第16節武漢-江蘇 | Lu Jia | Yu Zhiying | Win | W+R | 7.5 | 2970 | -13 | 
 | 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦決勝 | Choi Jeong | Yu Zhiying | Lose | B+R | 6.5 | 2983 | 0 | 
 | 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yu Zhiying | Fujisawa Rina | Win | B+R | 6.5 | 2983 | -3 | 
-| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yu Zhiying |  | Win | B+R | 6.5 | 2986 | 0 | 
+| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yu Zhiying | Yang Zixuan | Win | B+R | 6.5 | 2986 | 0 | 
 | 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhiying | Choi Jeong | Win | B+R | 6.5 | 2986 | 11 | 
 | 2018-10-11 | 第6回中国女子囲碁甲級リーグ第14節蕪湖-江蘇 | Zhou Hongyu | Yu Zhiying | Win | W+R | 7.5 | 2975 | 5 | 
 | 2018-10-09 | 第6回中国女子囲碁甲級リーグ第15節江蘇-洛陽 | Yu Zhiying | Li He | Win | B+1¾ | 7.5 | 2970 | 10 | 

@@ -5,986 +5,987 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第4期韓国竜星戦2回戦 | Shin Jinseo | Park Yeonghun | B+R | 2021-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=khB%2Fdled5zOqnuvzw4F0Pw%3D%3D) | 
-| 第26回LG杯韓国予選 | Lee Hyeonwuk | Park Yeonghun | W+R | 2021-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TMBDLns9EDV864Bkoye7eQ%3D%3D) | 
-| 第1回牛膝鳳爪韓国棋院選手権戦予選 | Park Yeonghun | Han Seungjoo | W+R | 2021-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hzy%2BKjBbnTe3rWGwbSNERw%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Wen Rubin | Park Yeonghun | B+R | 2021-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IN79IeyJ8WH7VQwvRYLS3A%3D%3D) | 
-| 第4期韓国竜星戦1回戦 | Park Yeonghun | Choi Jeong | B+R | 2021-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o90R9WtTGWh7k18hTPANBA%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Park Yeonghun | Kim Jiseok | W+R | 2021-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ijqdbgf8r%2FyDHr8clrOymg%3D%3D) | 
-| 第4期韓国竜星戦予選 | Park Yeonghun | Choi Jaeyoung | B+R | 2021-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2kQgkQHTCFn%2FAFIJYg3QCw%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Lee Changseok | Park Yeonghun | B+R | 2021-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VpyKHYkAtBS3zU6RU8auEg%3D%3D) | 
-| 第22回マキシムコーヒー杯入神最強戦1回戦 | Shin Jinseo | Park Yeonghun | B+R | 2021-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZF3ZnS37I%2F4gDpoN%2B5fTYQ%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | An Jungki | Park Yeonghun | B+R | 2021-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=anjrHG2s0N6zw8882lBGOA%3D%3D) | 
-| 第13回春蘭杯世界囲碁選手権3回戦 | Park Yeonghun | Tang Weixing | W+R | 2021-01-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EXyhcBX8bjdbLC7cgHvmvw%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Park Yeonghun | Park Jinsol | B+0.5 | 2021-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hAQZ757BvLzwTFtJGYWyxg%3D%3D) | 
-| 第44期名人戦（韓国）予選 | Park Yeonghun | Park Joonhoon | W+R | 2021-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q0xvNKK0wslSyJYbCAp9Wg%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Na Hyun | Park Yeonghun | B+R | 2021-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZHO%2Fu%2BiuXl5b4xgZehrczA%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Lee Changho | Park Yeonghun | W+R | 2020-12-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=67cV5HsWxwMiZIt00ma6xg%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Park Yeonghun | Kang Seungmin | W+R | 2020-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T9GoeRqxUO4u6UVyVNouXg%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Park Yeonghun | Moon Minjong | B+R | 2020-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DB8e8sOaftqxtkHAzkgveA%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Park Yeonghun | Lee Changseok | W+R | 2020-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r96ph6kkyI2tqCxaU0oh3A%3D%3D) | 
-| 第26期GSカルテックス杯プロ棋戦予選 | Choi Cheolhan | Park Yeonghun | B+R | 2020-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jJMp3S6xYvpyMWTkU6CVig%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Kang Dongyun | Park Yeonghun | W+0.5 | 2020-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ENGgrBi3px3q47GQcHOlww%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Park Jinsol | Park Yeonghun | B+R | 2020-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mNCjhP1gBiximl3Sm%2F16DQ%3D%3D) | 
-| 第2回大統領杯全国囲碁大会予選 | missing | Park Yeonghun | W+T | 2020-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u3pHS0giYMY7cLcNULJTbQ%3D%3D) | 
-| 第25回三星火災杯韓国一般枠予選 | missing | Park Yeonghun | B+R | 2020-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DUGlj46cE9A9WLRQIopW5w%3D%3D) | 
-| 第13回春蘭杯世界囲碁選手権2回戦 | Park Yeonghun | Yu Zhengqi | B+R | 2020-07-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IwDGB0ordIhFUdzzQgOkug%3D%3D) | 
-| 第1期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Park Yeonghun | W+R | 2020-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yLHWsq99pukjxw4JCiT0Rw%3D%3D) | 
-| 第1期ソパルコサノル最高棋士決定戦リーグ | Park Yeonghun | Shin Jinseo | W+R | 2020-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mBWDToB75cIL9sNJby6jmg%3D%3D) | 
-| 韓国囲碁リーグオールスター戦第7局 | Park Yeonghun | Shin Jinseo | W+R | 2020-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6nTavbtFwWxOMuiaIGAuLQ%3D%3D) | 
-| 韓国囲碁リーグオールスター戦第6局 | Park Yeonghun | Byun Sangil | B+R | 2020-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fRq9B40M%2FptYCQPQps04Gg%3D%3D) | 
-| 第25期GSカルテックス杯プロ棋戦16強戦 | Kim Jiseok | Park Yeonghun | B+R | 2020-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ngt8ZZWL8WJIlA4eBT5f7Q%3D%3D) | 
-| 第25回LG杯韓国予選 | Moon Minjong | Park Yeonghun | B+0.5 | 2020-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F2JqFi1kuiZ6%2FY%2BXCAXKsg%3D%3D) | 
-| 第25回LG杯韓国予選 | missing | Park Yeonghun | W+R | 2020-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wx5JI7u%2BJLFuJI2QByuxEw%3D%3D) | 
-| 韓国囲碁リーグオールスター戦第5局 | Park Yeonghun | Lee Donghoon | B+R | 2020-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NrxcYPT9gOLi580oEQJTHQ%3D%3D) | 
-| 韓国囲碁リーグオールスター戦第4局 | Park Yeonghun | Na Hyun | B+R | 2020-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XBJqRf7zAev5nnWP%2BEgi9w%3D%3D) | 
-| 第25回LG杯韓国予選 | missing | Park Yeonghun | W+R | 2020-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yRvlhL66gYx1DSrLZISrKw%3D%3D) | 
-| 第1期ソパルコサノル最高棋士決定戦リーグ | Park Yeonghun | Shin Minjun | W+R | 2020-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bNSDb4XcAH%2FEEEGA52gEfg%3D%3D) | 
-| 第1期ソパルコサノル最高棋士決定戦リーグ | Lee Donghoon | Park Yeonghun | B+R | 2020-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rOMsX7WPzlSjeb6bCuWkXg%3D%3D) | 
-| 第25期GSカルテックス杯プロ棋戦24強戦 | Park Yeonghun | Choi Cheolhan | B+R | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BZfj4ZtRebU5PBlFH2c0VQ%3D%3D) | 
-| 第1期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Park Yeonghun | B+R | 2020-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AcmpOny0t3sW4Huyk5IohQ%3D%3D) | 
-| 第1期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Park Yeonghun | W+R | 2020-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aC8xXyXZCy3gXIjke2Uz2g%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第18節第2試合第3局 | Shin Minjun | Park Yeonghun | B+R | 2020-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QawHBjiLWx5R3KY4r5Rdeg%3D%3D) | 
-| 第1期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Park Yeonghun | B+R | 2020-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0rLgEvKjZh4gD4S6y2qkgA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第17節第4試合第3局 | Lee Hoseong | Park Yeonghun | W+R | 2020-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H8mX84S4NHM4B1yRQRWFLg%3D%3D) | 
-| 第9回応氏杯世界選手権韓国選抜戦 | Park Yeonghun | An Sungjoon | W+R | 2020-01-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0AGYq6yZprPaPBi%2BTcOmOw%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第16節第3試合第5局 | Park Yeonghun | Na Hyun | B+R | 2020-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JtsE0VtqXZ78C7bzDrgNZA%3D%3D) | 
-| 第3期韓国竜星戦32強戦 | Park Yeonghun | Song Gyusang | W+R | 2020-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nkzvwbtjh5muH12NpphNpA%3D%3D) | 
-| 第3期韓国竜星戦32強戦 | Han Seungjoo | Park Yeonghun | B+0.5 | 2020-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v6IvU6Bd6WNcTLwXSyciKA%3D%3D) | 
-| 第3期韓国竜星戦32強戦 | Park Yeonghun | Song Gyusang | B+R | 2020-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=41hEhQ2yvD7F5bA%2Fv3pNmA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第15節第4試合第5局 | Choi Jaeyoung | Park Yeonghun | W+R | 2020-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XGXulO61BH%2B2nXj%2BYJJQug%3D%3D) | 
-| 第3期韓国竜星戦予選 | Park Yeonghun | Han Woojin | B+R | 2020-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F0k7lKo2I4AzL7j1c%2FDQ2A%3D%3D) | 
-| 第21回マキシムコーヒー杯入神最強戦1回戦 | Lee Jihyun | Park Yeonghun | B+R | 2020-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PWJn%2BLADDndmYU3JUYCJTQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第14節第3試合第2局 | Park Yeonghun | Choi Cheolhan | W+R | 2020-01-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X%2Fiz%2BHD1PV6KEgKsJmOaVA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第13節第1試合第5局 | Park Yeonghun | Kim Sangcheon | B+R | 2019-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U7W%2BUfAqIxhuSJq5%2BZcOuw%3D%3D) | 
-| 第25期GSカルテックス杯プロ棋戦予選決勝 | Park Yeonghun | missing | B+R | 2019-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BBLUUscYWFeMw6uI3Y%2FsCA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第11節第1試合第3局 | Park Yeonghun | Park Jinsol | W+R | 2019-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2zt0a%2FyNE7ziYohx6pSFoA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第9節第3試合第3局 | Park Yeonghun | Kang Dongyun | W+R | 2019-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K9fVR1zN5AShWG5ykwt%2Ffw%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第8節第1試合第3局 | Park Yeonghun | Lee Wondo | B+R | 2019-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KUF%2FOdqgHoMQdyHWTst4MA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第7節第2試合第5局 | Seol Hyunjun | Park Yeonghun | W+R | 2019-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c3vqgWyPWQqj68hpSeyLCg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第6節第1試合第3局 | Park Yeonghun | Weon Seongjin | B+R | 2019-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FD7%2Fr1hN2qmQSJbiYHK1yA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第5節第2試合第2局 | Park Yeonghun | Park Geunho | B+R | 2019-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o%2FrMu7fBtRGJfTHQlvrIHg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第4節第4試合第1局 | Park Yeonghun | Kang Seungmin | W+R | 2019-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4dDjlcxJ6uj6Q7jTXflFmw%3D%3D) | 
-| 第4回Mlily夢百合杯世界囲碁オープン戦16強戦 | Meng Tailing | Park Yeonghun | B+R | 2019-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZnlRt4BrX2rdzqAfIWgQMg%3D%3D) | 
-| 第4回Mlily夢百合杯世界囲碁オープン戦32強戦 | Shin Minjun | Park Yeonghun | W+R | 2019-10-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hRc4vPugdh7tvG85IYPhhw%3D%3D) | 
-| 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Kim Dayoung | Park Yeonghun | W+R | 2019-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=upFpYK5jSifd%2FpDGzz%2BaOg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第2節第4試合第3局 | Park Yeonghun | Yun Chanhee | B+0.5 | 2019-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BKex0hI1wu%2BOzGeyl2TOJQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第1節第4試合第4局 | Han Seungjoo | Park Yeonghun | W+R | 2019-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xi3jIhHBOxyMyxq5XfltQQ%3D%3D) | 
-| 第2期韓国竜星戦準決勝 | Shin Jinseo | Park Yeonghun | B+R | 2019-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3G0vIQQST8ml94Co7Y1sFg%3D%3D) | 
-| 第9回世界囲棋巓峰対決8強戦 | Tuo Jiaxi | Park Yeonghun | B+1¾ | 2019-08-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=40yI01d%2F1nFhms4p5fUy4w%3D%3D) | 
-| 第2期韓国竜星戦8強戦 | Lee Donghoon | Park Yeonghun | W+R | 2019-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9CS7B47cT1GxZjf%2B1PCi9g%3D%3D) | 
-| 第6回国手山脈韓国国内トーナメント決勝 | Han Seungjoo | Park Yeonghun | W+R | 2019-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BEazqaH4MjduePG3dCxfmg%3D%3D) | 
-| 第6回国手山脈韓国国内トーナメント準決勝 | Park Yeonghun | Kang Dongyun | B+R | 2019-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=734mFQrUax2rjDkr2pf8ww%3D%3D) | 
-| 第6回国手山脈韓国国内トーナメント8強戦 | Lee Changseok | Park Yeonghun | W+T | 2019-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3X8492l15eU297vfveZ0Lw%3D%3D) | 
-| 第6回国手山脈韓国国内トーナメント16強戦 | Song Gyusang | Park Yeonghun | W+R | 2019-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=czOaVqKgLayPkth%2Fv3oWvw%3D%3D) | 
-| 第6回国手山脈韓国国内トーナメント32強戦 | missing | Park Yeonghun | W+R | 2019-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wksYTCQvLDUB9Opj2blPfg%3D%3D) | 
-| 第21回農心杯韓国選抜戦 | Park Yeonghun | Ryu Suhang | B+R | 2019-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QTVLQ5Mo4WzWZufLN%2B85pA%3D%3D) | 
-| 第24回三星火災杯統合予選2回戦 | Park Yeonghun | Tu Xiaoyu | B+R | 2019-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yvcNfOxd6Lh3VMMLdZxbVw%3D%3D) | 
-| 第12回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Park Yeonghun | Park Junghwan | W+R | 2019-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H%2BMX4vuQ83NdnCe24YVXOw%3D%3D) | 
-| 第12回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Park Junghwan | Park Yeonghun | B+R | 2019-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HNrhxx%2FUDll0DNb8lr0%2B7Q%3D%3D) | 
-| 第6回国手山脈杯韓国選抜戦決勝 | Park Yeonghun | Shin Minjun | W+R | 2019-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uTLPdatrkhyq4NRwxyX4FQ%3D%3D) | 
-| 第6回国手山脈杯韓国選抜戦2回戦 | Park Jinsol | Park Yeonghun | W+R | 2019-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oNK%2BDOInB7ZUaqOALrwKuw%3D%3D) | 
-| 第24回LG杯朝鮮日報棋王戦1回戦 | Dang Yifei | Park Yeonghun | B+R | 2019-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B2FD2yKJOPj0tB19sb5zJg%3D%3D) | 
-| 第38回KBS杯囲碁王戦2回戦 | Park Yeonghun | Hyun Yoobin | B+R | 2019-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U66KsFTc5N%2Bxl1s0TDrR9A%3D%3D) | 
-| 第2期韓国竜星戦16強戦 | Kim Jinhyu | Park Yeonghun | W+R | 2019-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bIlYDTHAG3E7QXLQ8pX7RA%3D%3D) | 
-| 第24回LG杯統合予選2回戦 | Lian Xiao | Park Yeonghun | B+R | 2019-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l7UsA44e3Xj9PZpswVaEWw%3D%3D) | 
-| 第24期GSカルテックス杯8強戦 | Park Yeonghun | Byun Sangil | W+0.5 | 2019-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DzIjwbZPI9RsZR9xwJ7a2Q%3D%3D) | 
-| 第2期韓国竜星戦32強戦-2 | missing | Park Yeonghun | W+R | 2019-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7sxIq2SzSzyVFwunBcSbqg%3D%3D) | 
-| 第2期韓国竜星戦32強戦-1 | Kim Jinhyu | Park Yeonghun | W+R | 2019-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HJA3HgpU7jaDzP0xU7OWZQ%3D%3D) | 
-| 第24期GSカルテックス杯16強戦 | Wen Rubin | Park Yeonghun | W+R | 2019-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fzjwc3goXlKqYBliw3jfPA%3D%3D) | 
-| 第1回IWMC韓国代表選抜戦1回戦 | Park Yeonghun | Shin Minjun | W+R | 2019-02-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BchHSKL%2BB0YxzFwtGxceEA%3D%3D) | 
-| 第3回ワールド碁チャンピオンシップ国際予選3回戦 | Park Yeonghun | Gu Zihao | W+R | 2019-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=buX%2FmczcQdMW%2FSmwCosa9w%3D%3D) | 
-| 第3回ワールド碁チャンピオンシップ国際予選1回戦 | Park Yeonghun | Shibano Toramaru | B+R | 2019-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G1rEyhKxcZ60TFgpar4cMw%3D%3D) | 
-| 第20回マキシムコーヒー杯入神最強戦1回戦 | Mok Jinseok | Park Yeonghun | B+R | 2019-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M3x2ZTPgbnVefQXMZOMEdQ%3D%3D) | 
-| 第12回春蘭杯世界囲碁選手権準決勝 | Park Yeonghun | Dang Yifei | B+1.5 | 2018-12-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8%2Fo1bhpjnzlp5Wu7vQ4ixw%3D%3D) | 
-| 第12回春蘭杯世界囲碁選手権3回戦 | Gu Zihao | Park Yeonghun | W+R | 2018-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uGZ06YyP7ulksCRcyqnwTg%3D%3D) | 
-| 2018年韓国囲碁リーグ第14節 | Park Yeonghun | missing | W+R | 2018-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RFza0XjgcJlTVLi2CE230A%3D%3D) | 
-| 2018年韓国囲碁リーグ第13節 | Park Yeonghun | Han Taehee | B+R | 2018-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MFdeT0gO8TPoNenQqsvVeA%3D%3D) | 
-| 2018年韓国囲碁リーグ第12節 | Song Gyusang | Park Yeonghun | B+R | 2018-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FaTxrWwj7P%2BB%2F1DwoOjwBQ%3D%3D) | 
-| 2018年韓国囲碁リーグ第11節 | Park Yeonghun | Park Junghwan | B+R | 2018-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1d6WlN22f8%2BDrBgoDML8hg%3D%3D) | 
-| 2018年韓国囲碁リーグ第10節 | Kang Dongyun | Park Yeonghun | B+R | 2018-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q5FdZA139LURcFaVI7nZnw%3D%3D) | 
-| 2018年韓国囲碁リーグ第9節 | Yun Junsang | Park Yeonghun | B+R | 2018-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3pDdnd7ItQ3L9%2FpPvNOsQA%3D%3D) | 
-| 第1回天府杯韓国選抜戦1回戦 | Park Yeonghun | Choi Cheolhan | W+R | 2018-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KWOopOg39LC%2BeW9mSJI2Rw%3D%3D) | 
-| 2018年韓国囲碁リーグ第8節 | Park Minkyu | Park Yeonghun | W+2.5 | 2018-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PXXkLUTOCA9Fwu1r7yyClA%3D%3D) | 
-| 2018年韓国囲碁リーグ第7節 | Park Yeonghun | Yun Chanhee | B+R | 2018-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1WBbvnfcYCoVKq59czrypw%3D%3D) | 
-| 2018年韓国囲碁リーグ第6節 | Lee Jihyun | Park Yeonghun | B+R | 2018-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cq%2B54nXaNFdYIw71MEihSg%3D%3D) | 
-| 第5回国手山脈杯世界プロ最強戦1回戦 | Park Yeonghun | Wang Yuanjun | W+R | 2018-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wznNeBKXtWFN8%2BM0aSk6Cg%3D%3D) | 
-| 第20回農心杯韓国選抜戦 | Lee Jihyun | Park Yeonghun | B+R | 2018-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MKTuJDoZ%2FcQgud8FKHhZ2Q%3D%3D) | 
-| 2018年韓国囲碁リーグ第5節 | Kim Myounghoon | Park Yeonghun | W+2.5 | 2018-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tYpklKecpu5Nbx1mQ0U0zA%3D%3D) | 
-| 第20回農心杯韓国選抜戦 | Kim Jiseok | Park Yeonghun | W+0.5 | 2018-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DJ9ijzIj1lxD%2FfaBadgzBg%3D%3D) | 
-| 第20回農心杯韓国選抜戦 | Lee Donghoon | Park Yeonghun | W+R | 2018-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dw5rI6HNP5B0col9TIzDzA%3D%3D) | 
-| 2018年韓国囲碁リーグ第4節 | Park Yeonghun | Choi Jaeyoung | B+R | 2018-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=puwj15UItJ0ZzwvBGo2AJQ%3D%3D) | 
-| 第23回三星火災杯統合予選3回戦 | missing | Park Yeonghun | W+3.5 | 2018-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LTsRrdHCRw26p6m42mUCWA%3D%3D) | 
-| 2018年韓国囲碁リーグ第3節 | Kang Dongyun | Park Yeonghun | B+R | 2018-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WEF%2ForPtFd0%2FXpsnno4fkg%3D%3D) | 
-| 第4回百霊杯韓国選抜戦4強戦 | Park Yeonghun | Byun Sangil | W+R | 2018-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w1CEhgBI1NntaDT2o0txBg%3D%3D) | 
-| 2018年韓国囲碁リーグ第2節 | Paek Hongseok | Park Yeonghun | W+R | 2018-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qEW0xMslN%2Bz%2BWsGUMjjWxQ%3D%3D) | 
-| 2018年中国囲碁乙級リーグ | Seol Hyunjun | Park Yeonghun | B+R | 2018-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3lUABWG5JSHbbD27Q3KOSQ%3D%3D) | 
-| 2018年中国囲碁乙級リーグ | Park Yeonghun | missing | B+R | 2018-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rLL747k8Pqn12oiV36g6KQ%3D%3D) | 
-| 2018年中国囲碁乙級リーグ | Kang Dongyun | Park Yeonghun | W+R | 2018-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DWRukHDBim4YL5oXpwANyA%3D%3D) | 
-| 2018年中国囲碁乙級リーグ | missing | Park Yeonghun | B+R | 2018-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yPJL%2FE%2F6DgKLwb2ad%2FidRQ%3D%3D) | 
-| 2018年中国囲碁乙級リーグ | Park Yeonghun | missing | B+R | 2018-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=buHMahPk3A53Iis2MAK2tw%3D%3D) | 
-| 第23回LG杯朝鮮日報棋王戦2回戦 | Park Yeonghun | Fan Tingyu | W+R | 2018-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZJTCt%2B8TjF%2F93uFnKteaBA%3D%3D) | 
-| 第23回LG杯朝鮮日報棋王戦1回戦 | Xie Erhao | Park Yeonghun | W+R | 2018-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AEUMcxftwWe5EROH7kGKLw%3D%3D) | 
-| 第5回国手山脈杯韓国選抜戦決勝 | Park Yeonghun | Byun Sangil | B+7.5 | 2018-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gVVudg%2By2KRFX9uki8ZSGA%3D%3D) | 
-| 第5回国手山脈杯韓国選抜戦 | Choi Cheolhan | Park Yeonghun | W+R | 2018-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OG3z8KgdlQ4T%2FUygaN%2B%2F2A%3D%3D) | 
-| 第19回マキシムコーヒー杯入神最強戦決勝三番勝負第三局 | Park Yeonghun | Cho Hanseung | W+0.5 | 2018-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WydkrVZdTH1pBwoNSXf4ng%3D%3D) | 
-| 第19回マキシムコーヒー杯入神最強戦決勝三番勝負第二局 | Cho Hanseung | Park Yeonghun | B+R | 2018-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XAklU5uM38EiGfh3ezP39A%3D%3D) | 
-| 第19回マキシムコーヒー杯入神最強戦決勝三番勝負第一局 | Park Yeonghun | Cho Hanseung | B+R | 2018-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jviFvghdLW%2B4KIRiogOQMg%3D%3D) | 
-| 第23回LG杯予選決勝 | Lee Chungyu | Park Yeonghun | W+R | 2018-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hKO8HOsKU8GLF4diw3Oj6Q%3D%3D) | 
-| 第23回LG杯予選2回戦 | Park Yeonghun | missing | B+R | 2018-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=740Ds%2Bu0MrPHqV%2FP%2FsnrgQ%3D%3D) | 
-| 第19回マキシムコーヒー杯入神最強戦準決勝 | Kim Jiseok | Park Yeonghun | W+R | 2018-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mdWH%2FwIBqjvwgAGb5Bky2w%3D%3D) | 
-| 第12回春蘭杯世界囲碁選手権2回戦 | Park Yeonghun | Lian Xiao | B+1.5 | 2018-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KDD%2FZIx5krsnaa7MEmXIjg%3D%3D) | 
-| 第19回マキシムコーヒー杯入神最強戦3回戦 | Park Cheongsang | Park Yeonghun | W+R | 2018-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BCzBeHKlJJBJhj927vE6Tg%3D%3D) | 
-| 第19回マキシムコーヒー杯入神最強戦2回戦 | Yun Hyunseok | Park Yeonghun | W+R | 2018-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dGfoTxZwQcnGdlJotnCJRg%3D%3D) | 
-| 第19回マキシムコーヒー杯入神最強戦1回戦 | Mok Jinseok | Park Yeonghun | W+R | 2018-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GkEzKGVXa%2FWsiDGEHN0PPg%3D%3D) | 
-| 第3回夢百合杯世界オープン戦決勝五番勝負第3局 | Park Yeonghun | Park Junghwan | W+R | 2018-01-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8qL5aHsrQPJNYSoERPhZ4A%3D%3D) | 
-| 第3回夢百合杯世界オープン戦決勝五番勝負第2局 | Park Junghwan | Park Yeonghun | B+R | 2017-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HjXoBhjq1lMEsB2zlEEhzw%3D%3D) | 
-| 第3回夢百合杯世界オープン戦決勝五番勝負第1局 | Park Yeonghun | Park Junghwan | W+R | 2017-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aSydrXb%2FmFDA%2FQd2SGvqnw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第25節 | Park Yeonghun | Xie Erhao | B+R | 2017-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KIHPC05oeFVOS%2BYFp59sjA%3D%3D) | 
-| 第3回夢百合杯世界オープン戦準決勝三番勝負第三局 | Li Xuanhao | Park Yeonghun | W+R | 2017-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ej4KUXSYfZAYrsLLGJn0UQ%3D%3D) | 
-| 第3回夢百合杯世界オープン戦準決勝三番勝負第二局 | Li Xuanhao | Park Yeonghun | B+R | 2017-11-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3OJxUIpFEw1vvg%2FA8JyLBQ%3D%3D) | 
-| 第3回夢百合杯世界オープン戦準決勝三番勝負第一局 | Park Yeonghun | Li Xuanhao | B+R | 2017-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bpz7QgpTc4CHbjilUeR0Ew%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第23節 | missing | Park Yeonghun | B+R | 2017-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=soQ3s85DgShOVSC78%2B%2Badw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第22節 | Park Yeonghun | Zhou Ruiyang | W+R | 2017-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sMf8MqiIvlUWFz%2FbSFv9nQ%3D%3D) | 
-| 2017年韓国囲碁リーグ | Heo Yongho | Park Yeonghun | B+R | 2017-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TuugB1FbFAs8%2BX6onC4MCg%3D%3D) | 
-| 2017年韓国囲碁リーグ | Park Yeonghun | Yun Junsang | B+R | 2017-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n9eXdtNPMHsbSTtDk6EKJQ%3D%3D) | 
-| 2017年韓国囲碁リーグ | Shin Minjun | Park Yeonghun | B+R | 2017-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hejCqX7PgE6I52yfA4%2FLtQ%3D%3D) | 
-| 2017年韓国囲碁リーグ | Lee Taehyun | Park Yeonghun | W+0.5 | 2017-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FDDPh%2FDAtj%2B%2BMuGFh8hiqA%3D%3D) | 
-| 2017年韓国囲碁リーグ | Park Yeonghun | Shin Jinseo | B+R | 2017-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rFPPP1aXrB1%2B4AeB0N9qvw%3D%3D) | 
-| 第22回三星火災杯世界囲碁マスターズ2回戦 | Park Yeonghun | Gu Zihao | W+R | 2017-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jbR2z0H4MYLNXGAD96GfHA%3D%3D) | 
-| 2017年韓国囲碁リーグ | Mok Jinseok | Park Yeonghun | W+R | 2017-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jmxxW2h%2BaYAstDn0uLw3sw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第17節 | Fan Yunruo | Park Yeonghun | W+R | 2017-09-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=afTi5FmEsQFjMD1hPDR9LQ%3D%3D) | 
-| 第22回三星火災杯世界囲碁マスターズ1回戦G3 | Park Yeonghun | Byun Sangil | B+R | 2017-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1uUzc%2F%2BIAksSjbd%2FWUxMzg%3D%3D) | 
-| 第22回三星火災杯世界囲碁マスターズ1回戦G2 | Park Yeonghun | Zhao Chenyu | W+R | 2017-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ya5tFQPOqvgCNpYM%2B5T4Fw%3D%3D) | 
-| 第22回三星火災杯世界囲碁マスターズ1回戦G1 | Yang Dingxin | Park Yeonghun | W+R | 2017-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q3GwsTOodjajiLsnLOUmkw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Lee Wonyoung | Park Yeonghun | B+R | 2017-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cC%2Br4frSrqtVjmybWsp8Sw%3D%3D) | 
-| 第3回Mlily夢百合杯8強戦 | Fan Yunruo | Park Yeonghun | W+R | 2017-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1oGFuQlRrL11KTmpwnuNSw%3D%3D) | 
-| 第3回Mlily夢百合杯16強戦 | Wang Haoyang | Park Yeonghun | W+R | 2017-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wqYkISjAedJZ2ZnOsaHSWg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第14節 | Dang Yifei | Park Yeonghun | B+R | 2017-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VayDFQJuiHKNx4hIbcdFLg%3D%3D) | 
-| 2017年韓国囲碁リーグ | Park Yeonghun | Jin Siyoung | B+R | 2017-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mZxJomxVJX9kx4%2FLKlfa%2BA%3D%3D) | 
-| 2017年韓国囲碁リーグ | Yun Junsang | Park Yeonghun | W+R | 2017-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fsn21qjxEPak43btHn33tQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第13節 | Gu Zihao | Park Yeonghun | B+R | 2017-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k9foFgZ%2BwiMm3JHF9o8TVA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第12節 | Park Yeonghun | Tang Weixing | W+R | 2017-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GwdUZSi2DN3qlMix3UB7Qw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Shin Minjun | Park Yeonghun | W+R | 2017-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MnS%2BeaXMQa9XQ8L029dDIQ%3D%3D) | 
-| 2017年韓国囲碁リーグ | Hong Seongji | Park Yeonghun | B+R | 2017-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rkTpZD1g65ik8YoVh%2FDAYQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第10節 | Park Yeonghun | Liu Xing | B+R | 2017-07-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gjJrPV%2B79oosExvNPVMnbA%3D%3D) | 
-| 2017年韓国囲碁リーグ | Park Yeonghun | Kim Myounghoon | W+R | 2017-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dSoZadbcjHjoWWZnhtwvsw%3D%3D) | 
-| 第19回農心杯韓国選抜戦 | Cho Hanseung | Park Yeonghun | B+R | 2017-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z7ljhb2F5i3ufbwXO2RkHA%3D%3D) | 
-| 第11回春蘭杯世界囲碁選手権決勝三番勝負第3局 | Tan Xiao | Park Yeonghun | B+R | 2017-06-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iEBS22IWrpiCayCh9iiN9Q%3D%3D) | 
-| 第11回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Tan Xiao | Park Yeonghun | W+0.5 | 2017-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lEVAU5XNpcNAxd2HNNFM2w%3D%3D) | 
-| 第11回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Park Yeonghun | Tan Xiao | W+R | 2017-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FUaBS5mi68XImevUERqA8g%3D%3D) | 
-| 第3回夢百合杯世界オープン戦2回戦 | Park Yeonghun | Tong Mengcheng | B+R | 2017-06-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2cz%2BbHjWgWo%2F13YU5SlhHw%3D%3D) | 
-| 第3回夢百合杯世界オープン戦1回戦 | Park Yeonghun | Li Biqi | B+R | 2017-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ie9bgTXL2vbPqnnfyTE2AQ%3D%3D) | 
-| 2017年韓国囲碁リーグ | Park Yeonghun | Shen Zaiyi | B+1.5 | 2017-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FAK45TI%2F5lhEVo95B5GDTQ%3D%3D) | 
-| 2017年韓国囲碁リーグ | Park Yeonghun | Lee Wonyoung | B+R | 2017-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OT1IrSxHgT9FtZIyB8IlNw%3D%3D) | 
-| 第22期LG杯朝鮮日報棋王戦32強戦 | Choi Cheolhan | Park Yeonghun | B+R | 2017-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vOoxHsL%2BVH4svZQtLXP1Zg%3D%3D) | 
-| 2017年韓国囲碁リーグ | Park Junghwan | Park Yeonghun | B+R | 2017-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BJF33iAj9cMYHQMbIp8CHw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第7節 | Shi Yue | Park Yeonghun | B+R | 2017-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TzLuIGlVT6c5rDQMOLNITg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第5節 | Xie He | Park Yeonghun | B+R | 2017-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D%2B9XDemVytXEJs%2BpqiNKSg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第4節 | Park Yeonghun | Fan Yunruo | W+R | 2017-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jouBpzduu7E4qdmSTIMAqA%3D%3D) | 
-| 第22期LG杯世界予選決勝 | Gu Zihao | Park Yeonghun | W+R | 2017-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ybmbjT55rE66xh%2Fa5h%2BMuA%3D%3D) | 
-| 世界第三期Mlily夢百合杯予選2回戦 | Park Yeonghun | Yu Zhiying | B+R | 2017-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eQt6PzJrJT8hq906ASBzbg%3D%3D) | 
-| 第18回マキシムコーヒー杯入神最強戦2回戦 | Park Yeonghun | Yun Junsang | W+R | 2017-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B7I6xTiuNoNnnds4l9PoHg%3D%3D) | 
-| Alphago Online Series on Tygem and Fox 37 | missing | Park Yeonghun | B+R | 2017-01-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WQL%2BMRlEOhlnep004qKjFA%3D%3D) | 
-| 第11回春蘭杯世界囲碁選手権準決勝 | Ke Jie | Park Yeonghun | W+R | 2016-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mmXEENbWkkDVSzA0xoGuAA%3D%3D) | 
-| 第11回春蘭杯世界囲碁選手権3回戦 | Park Yeonghun | Lian Xiao | B+R | 2016-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZxZ%2Bl5%2Fwi%2BDcJnsJmbyg4g%3D%3D) | 
-| 2016年韓国囲碁リーグ | Park Junghwan | Park Yeonghun | B+0.5 | 2016-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SEcdaeSt7VPqpu2Lpu%2B8xA%3D%3D) | 
-| 2016年韓国囲碁リーグ | Park Yeonghun | Park Jinsol | W+R | 2016-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MaCaBmsBaReJ%2FgjkV30hAA%3D%3D) | 
-| 2016年韓国囲碁リーグ | Shin Minjun | Park Yeonghun | B+R | 2016-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yxKdug1It5Pp2TNUSquETQ%3D%3D) | 
-| 2016年韓国囲碁リーグ | Park Yeonghun | Yun Chanhee | B+R | 2016-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R%2FTZuTCn3%2FTyk%2FD5RelZAA%3D%3D) | 
-| 2016年韓国囲碁リーグ第13節 | Park Yeonghun | Lee Changseok | B+R | 2016-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oU%2FenQZV8TW1Dvlk3qClHg%3D%3D) | 
-| 2016年韓国囲碁リーグ第12節 | Choi Jaeyoung | Park Yeonghun | B+R | 2016-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mqNRIj81lytOdyPUuSMCYA%3D%3D) | 
-| 2016年韓国囲碁リーグ第11節 | Kim Sooyong | Park Yeonghun | W+R | 2016-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=593%2BC9b%2FtkdO6YXq6ngtfA%3D%3D) | 
-| 2016年韓国囲碁リーグ第10節 | Hong Seongji | Park Yeonghun | W+9.5 | 2016-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uBoQgXM2o1GtBZIkzGp7fA%3D%3D) | 
-| 2016年韓国囲碁リーグ第9節 | Park Yeonghun | Paek Hongseok | B+R | 2016-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sg%2BEAUPagQOHmYKEmRP9Dw%3D%3D) | 
-| 2016年韓国囲碁リーグ第8節 | Kim Myounghoon | Park Yeonghun | B+0.5 | 2016-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RoKyDBNyVOasQtiTu4JgyQ%3D%3D) | 
-| 第18回農心杯韓国選抜戦 | Cho Hanseung | Park Yeonghun | B+R | 2016-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=phn5dLDh9pF8bize%2BhJVjg%3D%3D) | 
-| 第18回農心杯韓国選抜戦 | Park Yeonghun | Heo Yongho | B+R | 2016-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nHv%2F9XWfe8wXx%2BHbZH1J9Q%3D%3D) | 
-| 2016年韓国囲碁リーグ第7節 | Park Yeonghun | Lee Hobum | B+R | 2016-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hYXhRYZgLs%2BnjtdY%2Bchgdg%3D%3D) | 
-| 第21回三星火災杯統合予選3回戦 | Park Yeonghun | Hu Yuhan | W+R | 2016-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PsnkQRQpJ%2FhP2eHEj83nEQ%3D%3D) | 
-| 第21回三星火災杯統合予選2回戦 | Hirata Tomoya | Park Yeonghun | W+3.5 | 2016-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UniRcn8sWKB6DP3D9lYNVA%3D%3D) | 
-| 2016年韓国囲碁リーグ第6節 | Park Yeonghun | Byun Sangil | B+R | 2016-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k%2FSwjhzMfhTAlyvrlLal2A%3D%3D) | 
-| 第3回百霊杯世界オープン戦2回戦 | Park Yeonghun | Chen Zhengxun | W+R | 2016-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gJO%2BWlUe7zMSe9GOefoO0w%3D%3D) | 
-| 第3回百霊杯世界オープン戦1回戦 | Xia Chenkun | Park Yeonghun | W+0.5 | 2016-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BK9JA%2BgJQqNPZtO9ztM4Bw%3D%3D) | 
-| 2016年中国囲碁乙級リーグ | An Sungjoon | Park Yeonghun | W+R | 2016-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mPOt8l6dlp36Ic4qCC2YsQ%3D%3D) | 
-| 2016年中国囲碁乙級リーグ | Park Yeonghun | Lee Sedol | W+R | 2016-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MrJhvm5F%2F5%2BMnc8V8qOwrA%3D%3D) | 
-| 2016年中国囲碁乙級リーグ | missing | Park Yeonghun | B+R | 2016-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kZGF6uJkDjPlNJwpBuIKiQ%3D%3D) | 
-| 2016年中国囲碁乙級リーグ | Park Yeonghun | Mao Ruilong | B+R | 2016-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OhAuY7f59APzuL%2BcIvau5Q%3D%3D) | 
-| 2016年中国囲碁乙級リーグ | Qiu Jun | Park Yeonghun | W+R | 2016-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uH6SAB%2Bvw6soqw%2FL0vj0Xg%3D%3D) | 
-| 2016年韓国囲碁リーグ第3節 | Park Yeonghun | Choi Jaeyoung | B+R | 2016-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aZIGa47Gu%2BF4Fh9iJGJTlA%3D%3D) | 
-| 2016年韓国囲碁リーグ第2節 | Park Minkyu | Park Yeonghun | W+R | 2016-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ef0LQL3%2BUpmzDhtPh1gLDA%3D%3D) | 
-| 第21回LG杯朝鮮日報棋王戦2回戦 | Chen Yaoye | Park Yeonghun | B+R | 2016-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xxAxVv5CVBVqxAuTGsYddw%3D%3D) | 
-| 第21回LG杯朝鮮日報棋王戦1回戦 | Zhao Chenyu | Park Yeonghun | W+R | 2016-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ocyCBbWZYQceBIEJsNdPsQ%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦予選 | Park Yeonghun | Ding Lie | B+R | 2016-05-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=brNi54ywe8B4dUAq8sAdQg%3D%3D) | 
-| 2016年韓国囲碁リーグ第1節 | Park Yeonghun | An Joyeong | B+R | 2016-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4Pd5Bqe2QE5290J%2FLv%2F3sA%3D%3D) | 
-| 第17回マキシムコーヒー杯入神最強戦準決勝 | Park Yeonghun | Lee Sedol | W+R | 2016-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R4DJ6NXf5NqFSss4k1CFrA%3D%3D) | 
-| 第8回応氏杯世界選手権2回戦 | Park Yeonghun | Kono Rin | W+R | 2016-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L2PpTHPAWwQU3Ba1YNMJDQ%3D%3D) | 
-| 第8回応氏杯世界選手権1回戦 | Park Yeonghun | Gu Li | B+R | 2016-04-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pZEJu4AX2k5VurXZmW%2FCOw%3D%3D) | 
-| 第11回春蘭杯世界囲碁選手権2回戦 | Zhou Ruiyang | Park Yeonghun | W+R | 2016-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uT7yFG5Q2usaZMg%2FkX7elA%3D%3D) | 
-| 第11回春蘭杯世界囲碁選手権1回戦 | Jiang Mingjiu | Park Yeonghun | W+R | 2016-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e3o9PnGXWHbiSfPQZ%2F5HQg%3D%3D) | 
-| 第17回マキシムコーヒー杯入神最強戦3回戦 | Hong Seongji | Park Yeonghun | W+R | 2016-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1YC0bN9CVAlwwq5tp3Soyw%3D%3D) | 
-| 第35回KBS杯囲碁王戦1回戦 | Park Yeonghun | Yun Chanhee | W+4.5 | 2016-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1iF3ejsbZOFXqC1Eb6Hm7A%3D%3D) | 
-| 第21期GSカルテックス杯プロ棋戦3回戦 | Yun Junsang | Park Yeonghun | B+R | 2016-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2KaT9mBTI8NhSoS9TxoanA%3D%3D) | 
-| 第3回百霊杯世界オープン戦予選 | Park Yeonghun | Tuo Jiaxi | B+R | 2016-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k8mLYO%2BN%2B4wr2uayWrMkTA%3D%3D) | 
-| 第17回マキシムコーヒー杯入神最強戦2回戦 | Cho Hunhyun | Park Yeonghun | W+R | 2016-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1OGYOzaBxM1bBEXlGfZjiA%3D%3D) | 
-| 第21期GSカルテックス杯プロ棋戦2回戦 | Kim Kiyoung | Park Yeonghun | W+R | 2016-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sYoyRvswr5iKTY9iLmn5zw%3D%3D) | 
-| 第20回LG杯世界棋王戦決勝三番勝負第3局 | Kang Dongyun | Park Yeonghun | B+R | 2016-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vhmhmIvt4jYNQ%2Bvjteg9Sw%3D%3D) | 
-| 第20回LG杯世界棋王戦決勝三番勝負第2局 | Kang Dongyun | Park Yeonghun | W+R | 2016-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PB4pBSpSZCsFzjzYDokz%2Fw%3D%3D) | 
-| 第20回LG杯世界棋王戦決勝三番勝負第1局 | Park Yeonghun | Kang Dongyun | W+R | 2016-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zj%2B5YrMufsfJv9rCK%2BmK%2FA%3D%3D) | 
-| 第43期名人戦（韓国）準決勝第3局 | Lee Sedol | Park Yeonghun | B+R | 2015-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IRCq6CHwXKBi3rRWwY2lng%3D%3D) | 
-| 第43期名人戦（韓国）準決勝第2局 | Lee Sedol | Park Yeonghun | W+R | 2015-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7qOv4tgJUOZ%2BZgDeL7wZNQ%3D%3D) | 
-| 第2回夢百合杯世界オープン戦準決勝第3局 | Ke Jie | Park Yeonghun | B+R | 2015-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=phGAUheOpuDk4YGWk5lVkQ%3D%3D) | 
-| 第2回夢百合杯世界オープン戦準決勝第2局 | Ke Jie | Park Yeonghun | W+R | 2015-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IIpwx4505LRrB14QeP4iUA%3D%3D) | 
-| 第2回夢百合杯世界オープン戦準決勝第1局 | Park Yeonghun | Ke Jie | W+R | 2015-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rmkVQog5oqKxNV2e9JwlMQ%3D%3D) | 
-| 第20回LG杯朝鮮日報棋王戦準決勝 | Park Yeonghun | Tuo Jiaxi | B+R | 2015-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lVqJEFDKDbPpjKmOF5KB%2Fg%3D%3D) | 
-| 第20回LG杯朝鮮日報棋王戦3回戦 | Yu Zhengqi | Park Yeonghun | W+R | 2015-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y9Kdxen4vdAAwUHkp8i3aQ%3D%3D) | 
-| 第43期名人戦（韓国）準決勝第1局 | Park Yeonghun | Lee Sedol | W+R | 2015-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i1j7SHuTRNGdEfmGylE6vw%3D%3D) | 
-| 2015年レッツランパーク杯オープントーナメント3回戦 | Jin Siyoung | Park Yeonghun | B+R | 2015-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W8H7LJP6zyiHDGwdqXCOAw%3D%3D) | 
-| 2015年レッツランパーク杯オープントーナメント2回戦 | Park Yeonghun | Lee Huiseong | B+R | 2015-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZwKqwJ8Z9UHrsgQTNiZhgQ%3D%3D) | 
-| 第43期名人戦（韓国）2回戦 | Park Yeonghun | Min Sangyoun | B+R | 2015-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=akoM8WVykdRSbQ4KyVVcBg%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ2回戦 | Zhang Tao | Park Yeonghun | B+R | 2015-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qEwtxPLrln3jN8M0D21jZw%3D%3D) | 
-| 2015年レッツランパーク杯オープントーナメント1回戦 | Park Yeonghun | Hong Kipyo | B+R | 2015-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H%2FNeX1baCR2l7xlli3RObA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Yeonghun | Byun Sangil | B+R | 2015-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cqgHmytreouITcKH8aVNeQ%3D%3D) | 
-| 第43期名人戦（韓国）1回戦 | missing | Park Yeonghun | W+R | 2015-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mstx57cm2Rz8xPlRv8M2fA%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦C2 | Heo Yongho | Park Yeonghun | W+2.5 | 2015-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G0FMOgpmMNDKDbHtX69Oog%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦C1 | Shi Yue | Park Yeonghun | W+R | 2015-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XKtxryrMQoayl00MO%2FDDEA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Yeonghun | Kang Yootaek | B+R | 2015-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BaTd%2Fl2JPRE7JZMlc4HYUQ%3D%3D) | 
-| 第2回夢百合杯世界オープン戦4回戦 | Park Yeonghun | Zhou Ruiyang | B+R | 2015-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dU1ze1ByoFEDLM0x5LuJdQ%3D%3D) | 
-| 第2回夢百合杯世界オープン戦3回戦 | Chang Hao | Park Yeonghun | W+R | 2015-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xT8bqvbzlarm9DuiYu0nhA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Yeonghun | Mok Jinseok | B+R | 2015-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b2s5jKVztruODl335mg%2FVg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Lee Jihyun | Park Yeonghun | B+R | 2015-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iQnKis032T2FyfdSy3EoVQ%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Yeonghun | Lee Wonyoung | B+6.5 | 2015-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LKnq%2FZVAy%2BWgy8Sx5lHdbw%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Yeonghun | Kim Jiseok | B+R | 2015-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EI3aUSOqjJr5UFQrE%2FF0Ew%3D%3D) | 
-| 第17回農心杯韓国選抜戦 | Ahn Kukhyun | Park Yeonghun | B+0.5 | 2015-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0H0WXF2L7wK2HK3a%2F8vsug%3D%3D) | 
-| 2015年韓国囲碁リーグ | Weon Seongjin | Park Yeonghun | W+R | 2015-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y8X1p%2FI6xwZ1Cy14lZw4UQ%3D%3D) | 
-| 第2回夢百合杯世界オープン戦2回戦 | Lian Xiao | Park Yeonghun | W+0.5 | 2015-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NBct7cmPaFJnRHACaVE3cw%3D%3D) | 
-| 第2回夢百合杯世界オープン戦1回戦 | Park Jiyeon | Park Yeonghun | W+R | 2015-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TMNKpAxQSgWtl6iHhW0aJw%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Yeonghun | Ko Keuntae | B+R | 2015-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T8fwOX5K1OeEfPIFCAyX9w%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Yeonghun | Ryu Minhyung | W+R | 2015-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7%2Fs3skeovwLH63Ak%2F8E1Kg%3D%3D) | 
-| 第59期国手戦（韓国）1回戦 | Park Yeonghun | Lee Changho | W+R | 2015-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WJPzW43WkKIYbalvixo1Zg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kang Yootaek | Park Yeonghun | W+R | 2015-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vrUq354b%2BFe1Fam01YRxQw%3D%3D) | 
-| 第20回LG杯朝鮮日報棋王戦2回戦 | Park Yeonghun | Park Junghwan | B+R | 2015-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pbq9ifNNq%2BTAg5VxhsYz%2FQ%3D%3D) | 
-| 第20回LG杯朝鮮日報棋王戦1回戦 | Park Yeonghun | Huang Yunsong | B+R | 2015-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EmgQ6rN6%2BY%2FBZMazsLk0Bw%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Yeonghun | Lee Hobum | B+T | 2015-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=43cfeNi0XoiJCaeo0cGANg%3D%3D) | 
-| 第2回夢百合杯世界オープン戦予選 | Park Yeonghun | Zhu Yuanhao | B+R | 2015-05-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=23iTvJuBs9wblE64hu5Nmg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Kyuongkeun | Park Yeonghun | W+R | 2015-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P89GJQZMJmIHhpDdoKg1Kg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Cheongsang | Park Yeonghun | B+R | 2015-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RqiHgH7mGUbeyktHcHwjxQ%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Jiseok | Park Yeonghun | W+R | 2015-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gzIVMLCn36%2FAMCideIigsA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Weon Seongjin | Park Yeonghun | B+2.5 | 2015-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hHCx%2Bit5vDhZHEYn2zFjdg%3D%3D) | 
-| 第20期GSカルテックス杯プロ棋戦3回戦 | Choi Cheolhan | Park Yeonghun | B+R | 2015-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i3Zzadk1ZwYftjsnMEOiSw%3D%3D) | 
-| 第20期GSカルテックス杯プロ棋戦2回戦 | You Byungyong | Park Yeonghun | W+R | 2015-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GF5ghXwuxxejL0o%2BIqswSw%3D%3D) | 
-| 第16回マキシムコーヒー杯入神最強戦2回戦 | Hong Seongji | Park Yeonghun | B+R | 2015-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DVe74IuPggML5jZUX6L4ZQ%3D%3D) | 
-| 第4回世界囲碁名人争覇戦 | Park Yeonghun | Chen Yaoye | W+R | 2015-01-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2Sijb1T6U5yDjYGa%2B8Rsxg%3D%3D) | 
-| 第4回世界囲碁名人争覇戦 | Iyama Yuta | Park Yeonghun | B+R | 2015-01-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v9KGYDvUWsvVFSV6fUGCEQ%3D%3D) | 
-| 第58期国手戦（韓国）準決勝 | Park Yeonghun | Kim Jiseok | W+R | 2014-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bDc%2F%2F226aY8aEHAlyLmPLw%3D%3D) | 
-| 第19回LG杯朝鮮日報棋王戦準決勝 | Park Yeonghun | Park Junghwan | W+R | 2014-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jUEscXO2eBD5iHNkzyovgA%3D%3D) | 
-| 第19回LG杯朝鮮日報棋王戦3回戦 | Park Yeonghun | Xie Erhao | B+R | 2014-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NK52IG7UVh5lykGPk5k6rA%3D%3D) | 
-| 第42期名人戦（韓国）決勝五番勝負第4局 | Park Yeonghun | Lee Donghoon | B+R | 2014-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1lLqhpqFZOqpYv%2F2GuxhqA%3D%3D) | 
-| 第42期名人戦（韓国）決勝五番勝負第3局 | Lee Donghoon | Park Yeonghun | W+R | 2014-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MmnqfGxgboSj2ZepWXZVkA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kim Myounghoon | Park Yeonghun | B+R | 2014-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sa5cxYvRRvBrXCC7fzdRLg%3D%3D) | 
-| 第42期名人戦（韓国）決勝五番勝負第2局 | Park Yeonghun | Lee Donghoon | W+R | 2014-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kFk242QDCaG5k992Xt3LOA%3D%3D) | 
-| 第42期名人戦（韓国）決勝五番勝負第1局 | Lee Donghoon | Park Yeonghun | W+R | 2014-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LQAuNxwd0Dmk32%2BaPdoc0g%3D%3D) | 
-| 第19期バッカス杯天元戦1回戦 | Kim Jiseok | Park Yeonghun | B+T | 2014-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lpLe8vhlKYHdNX2g2QcUOw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Yeonghun | Lee Hobum | B+R | 2014-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=COEHGjS3xQw1T%2Bd0S7AWVQ%3D%3D) | 
-| 第58期国手戦（韓国）2回戦 | Lee Sedol | Park Yeonghun | W+R | 2014-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YgBdjzW%2FlQN2e5rhRoGVsQ%3D%3D) | 
-| 第42期名人戦（韓国）準決勝第3局 | Park Junghwan | Park Yeonghun | W+0.5 | 2014-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NluFzHBNASptn7r%2B%2BwpVYQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Jin Siyoung | Park Yeonghun | B+R | 2014-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c5SdCWCqbC0T90MfuCcWOQ%3D%3D) | 
-| 第42期名人戦（韓国）準決勝第2局 | Park Yeonghun | Park Junghwan | W+R | 2014-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RtjOdeMTwLx%2F%2FHG95WTEsA%3D%3D) | 
-| 第42期名人戦（韓国）準決勝第1局 | Park Junghwan | Park Yeonghun | W+R | 2014-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aWkGxlguhLce%2BSBkOzChIg%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Yeonghun | Kang Seungmin | B+R | 2014-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ybLKgKweTp7IHiqOCZ5j3A%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Yeonghun | Han Sanghoon | B+2.5 | 2014-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OKPZxbeVMpdBK52016RZPg%3D%3D) | 
-| 2014年レッツランパーク杯オープントーナメント2回戦 | Kim Myounghoon | Park Yeonghun | B+R | 2014-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8HkBlosxmw9Lp8N1tg7Tmg%3D%3D) | 
-| 第42期名人戦（韓国）2回戦 | Kim Jiseok | Park Yeonghun | W+R | 2014-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B0IS1yRozjSZFt5YhMb8Rg%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Yeonghun | An Joyeong | B+R | 2014-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vXbrBeUgDvHm2wU4dzWr%2Fg%3D%3D) | 
-| 第19回三星火災杯統合予選1回戦 | Park Yeonghun | missing | W+R | 2014-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iEl5nW4xLm%2Fn3ammHft1zg%3D%3D) | 
-| 第42期名人戦（韓国）1回戦 | Park Yeonghun | Lee Jihyun | B+R | 2014-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B32SzKuzSbnSbg3Y7UqBDg%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Yeonghun | Kim Sedong | W+0.5 | 2014-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XRPPeTczyG7TFgwMaYRmeQ%3D%3D) | 
-| 第58期国手戦（韓国）1回戦 | Park Yeonghun | Na Hyun | B+R | 2014-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sSqHuTz9wD2cqj3OIdhvSw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Yeonghun | Na Hyun | B+R | 2014-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=udXiYImDhR3%2Fgq39iwkniw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Yeonghun | missing | B+R | 2014-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GWIR%2F%2BULP0tB9coy%2FsV2Uw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Ryu Suhang | Park Yeonghun | W+R | 2014-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BqEIe09tvghhSkUuUWRDWg%3D%3D) | 
-| 第19回LG杯朝鮮日報棋王戦2回戦 | An Dongxu | Park Yeonghun | W+R | 2014-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l2nMTttup2BL8A1DqnxA4w%3D%3D) | 
-| 第19回LG杯朝鮮日報棋王戦1回戦 | Park Yeonghun | Piao Wenyao | B+R | 2014-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ill0mYT2DVQzTqu2FFwBMg%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Seunghwa | Park Yeonghun | B+R | 2014-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yw1s7uBmYbVGaZZAvvZ07g%3D%3D) | 
-| 2014年韓国囲碁リーグ | Ahn Kukhyun | Park Yeonghun | W+R | 2014-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C%2FMdlnLuCiSl4pei3%2FhGJw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Junghwan | Park Yeonghun | B+R | 2014-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rfXZeICnepFeLNsTohfw8g%3D%3D) | 
-| 2014年中国囲碁乙級リーグ | Park Yeonghun | Zhu Yuanhao | B+R | 2014-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7kCUKY4VX1LuhiBV3kiw%2Fw%3D%3D) | 
-| 2014年中国囲碁乙級リーグ | Park Yeonghun | Lee Changho | B+R | 2014-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8ClAo2b3HAn%2Fj%2BI7ACFSng%3D%3D) | 
-| 2014年中国囲碁乙級リーグ | Park Yeonghun | missing | B+R | 2014-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UtMuW3r%2BVueT16mIoQL06g%3D%3D) | 
-| 第10期物価情報杯プロ棋戦予選 | Jin Siyoung | Park Yeonghun | B+R | 2014-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xt8sENaPELw2M41pPN6N%2FA%3D%3D) | 
-| 第2回百霊杯世界オープン戦予選 | Park Yeonghun | Meng Tailing | W+R | 2014-03-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZWSJfy3nPbCtRNXZI%2BvLSw%3D%3D) | 
-| 第10回春蘭杯韓国予選 | Mok Jinseok | Park Yeonghun | B+R | 2014-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nq%2BBpn0ZOmM2YMphvWYsoQ%3D%3D) | 
-| 第19期GSカルテックス杯プロ棋戦2回戦 | Park Yeonghun | Park Seunghwa | W+R | 2014-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AVS49egcDYeNiIAHWCpnvg%3D%3D) | 
-| 第15回マキシムコーヒー杯入神最強戦2回戦 | Cho Hyeyeon | Park Yeonghun | B+2.5 | 2014-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tnBAPwzEfkUXm%2BXEI%2BxNaQ%3D%3D) | 
-| 第32回KBS杯囲碁王戦敗者復活戦決勝 | Park Yeonghun | Lee Sedol | W+R | 2014-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hgZzI%2F%2FUmQi7LUdOtEjTCA%3D%3D) | 
-| 第32回KBS杯囲碁王戦本戦5回戦 | Park Junghwan | Park Yeonghun | B+R | 2014-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y8IhRFCSEPRuZjyWP6ckgQ%3D%3D) | 
-| 第32回KBS杯囲碁王戦本戦4回戦 | Park Yeonghun | Lee Sedol | B+0.5 | 2013-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iHuhcEKfHKfBtR8sUhldpw%3D%3D) | 
-| 第32回KBS杯囲碁王戦本戦3回戦 | Lee Changho | Park Yeonghun | W+4.5 | 2013-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9kueyGxH98zshkSm9xILvQ%3D%3D) | 
-| 2013年韓国囲碁リーグ | Park Yeonghun | Han Wonggyu | B+R | 2013-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tFjVj6%2FFWSHNj9IcSjtQQw%3D%3D) | 
-| 第18期バッカス杯天元戦準決勝 | Park Yeonghun | Choi Cheolhan | W+R | 2013-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6cN19ArqnZdnAyEawSSIAw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Park Yeonghun | An Joyeong | B+R | 2013-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8cSQtAfNdYJfUnxmF4qa1w%3D%3D) | 
-| 第41期名人戦（韓国）準決勝 | Park Yeonghun | Lee Sedol | W+R | 2013-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UgSwx8%2FjLMhgmgXOU6Ei6A%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第18節 | missing | Park Yeonghun | W+R | 2013-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vnHgE%2F7z8RgKZKpN6Fdx%2Bw%3D%3D) | 
-| 第4期Olleh杯オープン選手権準々決勝 | Mok Jinseok | Park Yeonghun | B+1.5 | 2013-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K4tnJOLuqfYP%2BMMWvUNpPw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Kim Jinhyu | Park Yeonghun | W+R | 2013-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hZx13fjLBNfSOSO%2Fw03mug%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第16節 | Park Yeonghun | Fan Tingyu | B+R | 2013-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OCtL7Lwr6eJDYOo1d%2FcLgw%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ2回戦 | Park Yeonghun | Tang Weixing | W+R | 2013-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6wQ048k8exeq7LtR7ErV1Q%3D%3D) | 
-| 第57期国手戦（韓国）2回戦 | Hong Seongji | Park Yeonghun | B+0.5 | 2013-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RUS%2B5n6BnBDoiufS1MMFkQ%3D%3D) | 
-| 第4期Olleh杯オープン選手権4回戦 | Park Yeonghun | Kim Junghyun | B+R | 2013-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oD%2FDgi1gJAbTViGUkCYgxw%3D%3D) | 
-| 第41期名人戦（韓国）2回戦 | Kim Sonjin | Park Yeonghun | W+0.5 | 2013-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fn4X9ld03FOY%2BsOCN0Nw0A%3D%3D) | 
-| 第4期Olleh杯オープン選手権3回戦 | Lee Wondo | Park Yeonghun | W+R | 2013-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KAZUVw9Hq2LqvCLvwUDhVw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Na Hyun | Park Yeonghun | B+R | 2013-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iATIAKcSJ%2Fa0A%2BxpLIDMAw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第15節 | Liao Xingwen | Park Yeonghun | W+R | 2013-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tIgqR%2BgQ63eZonFtf5t8YQ%3D%3D) | 
-| 第18期バッカス杯天元戦2回戦 | Choi Byounghwan | Park Yeonghun | W+R | 2013-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gn7plYE8SMNH5U0yGSmUXg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第14節 | Park Yeonghun | Hu Yaoyu | B+R | 2013-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZrCNb5d8YdDKaV6Pvhs0%2BA%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ1回戦F2 | Niu Yutian | Park Yeonghun | W+R | 2013-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sba1JjKI1xODbqYA2wpBhg%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ1回戦F1 | Park Yeonghun | Zhou Ruiyang | B+R | 2013-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5xn6MQeCV4NhdxmeF95XYQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第13節 | Mi Yuting | Park Yeonghun | B+R | 2013-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jMa9D5It%2BZkNYJ0wQy1JMQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第12節 | Ke Jie | Park Yeonghun | B+R | 2013-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oyn1H5RxIMvjvclN3rPL4Q%3D%3D) | 
-| 第41期名人戦（韓国）1回戦 | Kim Dongho | Park Yeonghun | W+R | 2013-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lzqgfZ%2BhXK2cLR4zuFZtyQ%3D%3D) | 
-| 第17回中韓天元対抗戦第3局 | Chen Yaoye | Park Yeonghun | B+1.5 | 2013-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IeqfYHpm7V18qM3GVP5XkA%3D%3D) | 
-| 第17回中韓天元対抗戦第2局 | Park Yeonghun | Chen Yaoye | B+R | 2013-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u3pA44BeoOdziXWkGrl%2FDw%3D%3D) | 
-| 第17回中韓天元対抗戦第1局 | Chen Yaoye | Park Yeonghun | B+1.5 | 2013-08-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3r2HWwevSOJVy6X%2BZQpMRw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Ryu Suhang | Park Yeonghun | B+R | 2013-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0diLTwGN7BqXyWnBb3f3EQ%3D%3D) | 
-| 第18期バッカス杯天元戦1回戦 | Park Yeonghun | Lee Donghoon | B+R | 2013-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X9pGbWXJl8OkSJWnu1r3ww%3D%3D) | 
-| 第18回三星火災杯統合予選決勝 | Park Seunghwa | Park Yeonghun | W+R | 2013-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JZ%2FkPdRuiIq%2FaQOr4cxOrQ%3D%3D) | 
-| 第15回農心杯韓国選抜戦 | Park Yeonghun | Park Junghwan | W+R | 2013-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sr0Kwt9IVhD0PdrSPB3L5A%3D%3D) | 
-| 2013年韓国囲碁リーグ | Park Yeonghun | Han Wonggyu | B+3.5 | 2013-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eDfQHyz1VeCSs8Wlb4Mwhg%3D%3D) | 
-| 第15回農心杯韓国選抜戦 | Park Yeonghun | Lee Chungyu | B+R | 2013-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1MZ1HunsAy%2BQvCcK2YhaEQ%3D%3D) | 
-| 第15回農心杯韓国選抜戦 | Park Yeonghun | Han Sanghoon | B+R | 2013-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LThf95z4z4jJh2%2FZk0YdrA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第11節 | Park Yeonghun | Gu Li | W+R | 2013-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AhnoXOdL9VJ80wCx6ihj%2FQ%3D%3D) | 
-| 第57期国手戦（韓国）1回戦 | Kim Hwansoo | Park Yeonghun | W+R | 2013-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VVRjwsH%2BEihM1cUhuutBRw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第10節 | Park Yeonghun | Wang Haoyang | B+1.5 | 2013-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C6%2FgLweHW4296pT1P5%2FaPA%3D%3D) | 
-| 第32回KBS杯囲碁王戦本戦2回戦 | Park Yeonghun | Shin Yoonho | B+R | 2013-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SsvCk7Lbs2d%2BYkcmpDMikg%3D%3D) | 
-| 2013年韓国囲碁リーグ | Park Yeonghun | Mok Jinseok | B+R | 2013-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=93ggy5gy5dZQ49Aav2ZdXw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第9節 | Shi Yue | Park Yeonghun | B+R | 2013-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iNrtFVBtKdOmk6nWya3dBg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第8節 | Huang Yunsong | Park Yeonghun | W+R | 2013-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HG7XzO6F3s1lx6m4kEe4ww%3D%3D) | 
-| 2013年韓国囲碁リーグ | Park Yeonghun | Kang Yootaek | B+3.5 | 2013-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W3lr3Hz4iY8OAPeYYVLOmA%3D%3D) | 
-| 第18回LG杯朝鮮日報棋王戦1回戦 | Park Yeonghun | Li Qincheng | W+R | 2013-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PAYDef6dS6g03Mlob5jpDA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第7節 | Liu Xing | Park Yeonghun | W+0.5 | 2013-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RqnuDBfyvNfabjJVSqx4bg%3D%3D) | 
-| 第1回夢百合杯世界オープン戦予選 | Zhou Hexi | Park Yeonghun | B+R | 2013-05-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0JCF9kCa7zKELJ760ub%2F9Q%3D%3D) | 
-| 2013年韓国囲碁リーグ | Park Yeonghun | missing | B+R | 2013-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iLTtrIzIVnDue6azUxk%2BmA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第5節 | Zhou Ruiyang | Park Yeonghun | B+R | 2013-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xy3pICCuXV6Wa9tGBTbbQg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第4節 | Park Yeonghun | Niu Yutian | B+R | 2013-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7AeRXcHcBRkLD4iQxMUjRw%3D%3D) | 
-| 第32回KBS杯囲碁王戦本戦1回戦 | Hong Minpyo | Park Yeonghun | W+1.5 | 2013-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FqJz%2Bz4yO8twCPbuIJIJag%3D%3D) | 
-| 2013年韓国囲碁リーグ | Park Yeonghun | Park Cheongsang | W+R | 2013-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wb9VArB5tdkxggAgCvSzkA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第3節 | Qiu Jun | Park Yeonghun | W+R | 2013-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iAfwrPSBkjTfKWjCzOEsFw%3D%3D) | 
-| 第57期国手戦（韓国）予選 | Kim Sedong | Park Yeonghun | W+R | 2013-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U6AGgm0knA74I45OjrjPVA%3D%3D) | 
-| 2013年韓国囲碁リーグ | Park Yeonghun | Kim Sedong | W+R | 2013-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lqh4k9PpAiC11PfsFdrdQQ%3D%3D) | 
-| 第18期GSカルテックス杯プロ棋戦準決勝 | Park Yeonghun | Lee Sedol | W+R | 2013-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H%2FKXXyTAQrOhvo%2BwZQVK3g%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第2節 | missing | Park Yeonghun | B+R | 2013-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wj%2BJ5euuIMYqcCnR8YNgRg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第1節 | Ke Jie | Park Yeonghun | B+1.5 | 2013-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iVIxe6SIKcCpa11HWGhOHg%3D%3D) | 
-| 第8期圓益杯十段戦決勝三番勝負第2局 | Park Yeonghun | Kang Dongyun | W+R | 2013-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J4ywAmPP8MeKC2Xe7UNBlg%3D%3D) | 
-| 第8期圓益杯十段戦決勝三番勝負第1局 | Kang Dongyun | Park Yeonghun | B+R | 2013-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6Uj7HzcFDXLm81%2BVjRVOKA%3D%3D) | 
-| 第8期圓益杯十段戦準決勝 | Park Yeonghun | Han Wonggyu | B+4.5 | 2013-03-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I4WgVF69tpvJveFTJjlbRA%3D%3D) | 
-| 第8期圓益杯十段戦4回戦 | Choi Cheolhan | Park Yeonghun | W+R | 2013-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=esWSAyBD2BZ9cBDCIJFJeg%3D%3D) | 
-| 第18期GSカルテックス杯プロ棋戦3回戦 | Kim Seongjae | Park Yeonghun | W+R | 2013-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TyRlv2IhU3mfOgAu5JtI2A%3D%3D) | 
-| 第18期GSカルテックス杯プロ棋戦2回戦 | Park Yeonghun | Lee Chungyu | B+5.5 | 2013-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xeQdcvfu%2FGug7pn1wo91LA%3D%3D) | 
-| 第8期圓益杯十段戦3回戦 | Mok Jinseok | Park Yeonghun | W+R | 2013-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uwy992EDNMefJ3bwavZbHg%3D%3D) | 
-| 第3期招商地産杯韓国選抜戦 | Lee Yeongkyu | Park Yeonghun | B+R | 2013-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uA1rouqv%2BTL5no0Nt%2FCEZw%3D%3D) | 
-| 第8期圓益杯十段戦2回戦 | Lee Changho | Park Yeonghun | W+R | 2013-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UwnWSLlHI7ZEywYUCHzLjA%3D%3D) | 
-| 第17期バッカス杯天元戦決勝三番勝負第3局 | Choi Cheolhan | Park Yeonghun | W+R | 2013-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5e5U%2FD4AbyeogcYcnc3NTQ%3D%3D) | 
-| 第17期バッカス杯天元戦決勝三番勝負第2局 | Park Yeonghun | Choi Cheolhan | B+R | 2013-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=528adC5VO%2BLcECU1yB3oDg%3D%3D) | 
-| 第17期バッカス杯天元戦決勝三番勝負第1局 | Choi Cheolhan | Park Yeonghun | B+R | 2013-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SRmpSUKqP8Gu3GXZ3twMWA%3D%3D) | 
-| 第14回マキシムコーヒー杯入神最強戦2回戦 | Park Yeonghun | Lee Yeongkyu | W+R | 2012-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TjeR7ePx4nPY8Du%2Ba1OeFA%3D%3D) | 
-| 第40期名人戦（韓国）準決勝 | Park Yeonghun | Lee Sedol | W+R | 2012-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XopYR05s996IXlz0anYg6A%3D%3D) | 
-| 第17期バッカス杯天元戦準決勝 | Park Yeonghun | Park Junghwan | B+R | 2012-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zLbRpqXsk2RYckh8ulvyLQ%3D%3D) | 
-| 第8期圓益杯十段戦1回戦 | Park Siyeol | Park Yeonghun | W+R | 2012-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Kf0ICRFM%2BT69UZlrqrCnw%3D%3D) | 
-| 第17期バッカス杯天元戦2回戦 | Park Yeonghun | Kim Seungjun | B+0.5 | 2012-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KcFpPfRSCTxhGGrdQPf%2F7g%3D%3D) | 
-| 第40期名人戦（韓国）2回戦 | Choi Cheolhan | Park Yeonghun | W+0.5 | 2012-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IdO5CdG%2FGnIxdAkfQdMqwQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Seunghyeon | Park Yeonghun | W+R | 2012-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6e%2B7NZIpMXc5k%2B2dy3IM%2FA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Yeonghun | Hong Kipyo | W+3.5 | 2012-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DIxusxR1BIcR6IlTlflnmw%3D%3D) | 
-| 第3回世界囲碁名人争覇戦決勝 | Park Yeonghun | Jiang Weijie | W+R | 2012-09-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qcWm4KCbQd4RVqU1wTr1Eg%3D%3D) | 
-| 第3回世界囲碁名人争覇戦 | Jiang Weijie | Park Yeonghun | W+R | 2012-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dG1EpXa8yrdt9jxt2peKSQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Yeonghun | Kim Sonjin | W+R | 2012-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XZ5%2FO9zHNO9zHwXW5APXCQ%3D%3D) | 
-| 第40期名人戦（韓国）1回戦 | Park Yeonghun | Lee Taehyun | B+R | 2012-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n6EJeNK82wP1ohnkPIoXDA%3D%3D) | 
-| 第17期バッカス杯天元戦1回戦 | Lee Taehyun | Park Yeonghun | W+R | 2012-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F96%2F0t%2FYdJ92TV6ICARKUg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Yeonghun | Lee Sula | B+4.5 | 2012-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fmQ8ivGf5y%2BwMf0bVg8uzg%3D%3D) | 
-| 2012年韓国囲碁リーグ | An Sungjoon | Park Yeonghun | W+R | 2012-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZoPdGbFeI1C9eRMGSHNb%2Fg%3D%3D) | 
-| 第17回三星火災杯統合予選決勝 | Li Qincheng | Park Yeonghun | B+R | 2012-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SY4wroo4eSLf0j4NfmhhBg%3D%3D) | 
-| 第17回三星火災杯統合予選準決勝 | Liu Xing | Park Yeonghun | W+0.5 | 2012-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BFnmVFn61pO3ZFkgdtENkA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Kim Jiseok | Park Yeonghun | B+R | 2012-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fll4o55Pjt%2BYE3HiEqu9mA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Yeonghun | Han Wonggyu | B+1.5 | 2012-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LeRXJ1VUeSAFkkWw1DawIg%3D%3D) | 
-| 第56期国手戦（韓国）1回戦 | Weon Seongjin | Park Yeonghun | B+1.5 | 2012-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=riDBlwZ%2BXPUetc4N06Ew0g%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Yeonghun | Park Seunghwa | W+R | 2012-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fv19zq8aC9pKIptzQcrQtg%3D%3D) | 
-| 第14回農心杯韓国選抜戦 | Lee Yeongkyu | Park Yeonghun | B+R | 2012-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SJr0VRnTaB%2Fk%2FUpKLB2y9A%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Yeonghun | Na Hyun | W+0.5 | 2012-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CShsQZ3RlZ18HnkEGrnTHQ%3D%3D) | 
-| 第14回農心杯韓国選抜戦 | Hong Seongji | Park Yeonghun | W+R | 2012-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lstFjsloP75vqmM66YFBkA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Yeonghun | Han Sanghoon | W+R | 2012-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kaaPEfGVoEDDwzTTONNA%2FQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | An Joyeong | Park Yeonghun | W+R | 2012-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qy2nz%2BVJnGJCWtZKYaxYtQ%3D%3D) | 
-| 2012年中国囲碁乙級リーグ | Wang Yao | Park Yeonghun | W+R | 2012-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M5CQEgnZvnm9gxdH65nWDw%3D%3D) | 
-| 2012年中国囲碁乙級リーグ | Park Yeonghun | Paek Hongseok | W+R | 2012-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=an1cTiKR20Km5p%2FtAhowuw%3D%3D) | 
-| 2012年中国囲碁乙級リーグ | Luo Xihe | Park Yeonghun | W+2.5 | 2012-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TOg%2Fc1jjCArXQbFHm0dRdw%3D%3D) | 
-| 2012年中国囲碁乙級リーグ | Park Yeonghun | missing | W+R | 2012-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1cEgvjzjDS9UkOreFsHlfg%3D%3D) | 
-| 2012年中国囲碁乙級リーグ | missing | Park Yeonghun | W+R | 2012-06-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RiwgTKkhrIg%2BYZAiPva8dg%3D%3D) | 
-| 2012年中国囲碁乙級リーグ | Park Yeonghun | Kang Dongyun | W+R | 2012-06-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nz6D3k6ijmP36OPeTeP9dw%3D%3D) | 
-| 2012年中国囲碁乙級リーグ | missing | Park Yeonghun | W+6.5 | 2012-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WvHkLRq0UhaS94bphV1zTA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Yeonghun | Ahn Kukhyun | B+1.5 | 2012-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LOlgPr%2B1%2FIoc%2FhwuwsTibg%3D%3D) | 
-| 第8期物価情報杯プロ棋戦リーグB | Park Yeonghun | An Sungjoon | W+R | 2012-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gytNiZ%2FtFXuDvul%2FupuYhA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Yeonghun | Park Junghwan | W+R | 2012-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JH44jLxBAuqz0LB9OPLOwg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Yeonghun | Kim Jiseok | B+R | 2012-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fMvHYs8UwR6n%2Fep0lelLkQ%3D%3D) | 
-| 第17期GSカルテックス杯プロ棋戦決勝五番勝負第5局 | Lee Sedol | Park Yeonghun | B+R | 2012-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z5K8El2706Zlpjfn0ZZOyw%3D%3D) | 
-| 第17期GSカルテックス杯プロ棋戦決勝五番勝負第4局 | Park Yeonghun | Lee Sedol | W+6.5 | 2012-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jPGSWF0Ev9dDLu2K5joGEg%3D%3D) | 
-| 第8期物価情報杯プロ棋戦リーグB | Park Yeonghun | Lee Wonyoung | W+R | 2012-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jPeF0MIkTNWijSyPqprg5Q%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Yeonghun | Weon Seongjin | W+R | 2012-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K85X8ymnLrLa5AgbNmvM1w%3D%3D) | 
-| 第17期GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Lee Sedol | Park Yeonghun | W+R | 2012-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oWKouCV%2BGcbkNURP%2BlmNbw%3D%3D) | 
-| 第17期GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Park Yeonghun | Lee Sedol | B+R | 2012-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oJJVND7mg0yZImQtrJjNZw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Kang Dongyun | Park Yeonghun | W+R | 2012-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gHN%2FCvafqzCbtBiRrC7xvg%3D%3D) | 
-| 第17期GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Lee Sedol | Park Yeonghun | B+R | 2012-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F0F3X5BuFQfAE%2Fd%2FIA2M4w%3D%3D) | 
-| 第17回LG杯予選 | Li Kang | Park Yeonghun | B+R | 2012-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UdiKEUPyZUwZHIhxGoLCCw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Yeonghun | Na Hyun | W+1.5 | 2012-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZBQV2M0KFqBjuJlqgbdJsg%3D%3D) | 
-| 第17期GSカルテックス杯プロ棋戦準決勝 | Park Yeonghun | Kang Dongyun | B+R | 2012-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SFbbWB0CvBHnTqC%2FsysOrg%3D%3D) | 
-| 第4回BCカード杯世界選手権4回戦 | Dang Yifei | Park Yeonghun | B+R | 2012-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DYnQE3tDRxQsi6bNje6HeQ%3D%3D) | 
-| 第4回BCカード杯世界選手権3回戦 | Lee Wonyoung | Park Yeonghun | W+R | 2012-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x0BoQ%2BXUAp%2FvHFxYREBmvw%3D%3D) | 
-| 第17期GSカルテックス杯プロ棋戦3回戦 | Park Yeonghun | Kim Seongjae | B+R | 2012-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Thh6TNjHMP0FTRBdqepEZQ%3D%3D) | 
-| 第4回BCカード杯世界選手権2回戦 | Hong Seongji | Park Yeonghun | W+R | 2012-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3R%2FkL4%2FQ1jxSa1fi52ZXQA%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権1回戦 | Park Yeonghun | Shi Yue | W+R | 2012-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U1QtNwPDdL5DQkRfCBdb%2BQ%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権予選 | Park Yeonghun | Peng Liyao | B+R | 2012-03-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8CVxTUW89guB2SLGqeRw6g%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権予選 | Yu Zhiying | Park Yeonghun | W+R | 2012-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8c0sk615wyPbCn291alq3Q%3D%3D) | 
-| 第17期GSカルテックス杯プロ棋戦2回戦 | Ahn Kukhyun | Park Yeonghun | W+R | 2012-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WlJoUnMGWL6oARRRRg0%2FFg%3D%3D) | 
-| 第7回応氏杯世界選手権韓国選抜戦 | Park Yeonghun | Weon Seongjin | W+3 | 2012-03-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0IsAAK6FfdKwgZKIlKnZ0g%3D%3D) | 
-| 第4回BCカード杯世界選手権1回戦 | Li He | Park Yeonghun | W+R | 2012-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VFXT0Le7vd0CFmSB0kfwlQ%3D%3D) | 
-| 第7回応氏杯世界選手権韓国選抜戦 | Park Yeonghun | Cho Hanseung | B+R | 2012-02-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fOIS51TZ0NLiKIeaISPvjg%3D%3D) | 
-| 第9回春蘭杯韓国予選 | Park Yeonghun | Lee Changho | W+R | 2012-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ki1jlmesj2yWJyssyyZgug%3D%3D) | 
-| 第13回マキシムコーヒー杯入神最強戦3回戦 | Park Yeonghun | Park Junghwan | W+R | 2012-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F5l5%2FHsAiH%2FRWFLdi%2FhvXg%3D%3D) | 
-| 第13回マキシムコーヒー杯入神最強戦2回戦 | Park Yeonghun | Cho Hanseung | B+R | 2011-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iJ4RjK5EALIGcqi%2FKiprqw%3D%3D) | 
-| 第39期名人戦（韓国）決勝五番勝負第4局 | Paek Hongseok | Park Yeonghun | W+R | 2011-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uLvpahryI7XVTs%2FGZIenSQ%3D%3D) | 
-| 第7期圓益杯十段戦2回戦 | Lee Wonyoung | Park Yeonghun | B+R | 2011-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8STK%2FKHi2tkXdGbiWE69Hg%3D%3D) | 
-| 第39期名人戦（韓国）決勝五番勝負第3局 | Park Yeonghun | Paek Hongseok | B+R | 2011-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0lbGsnbVzYmCPRP%2F1NzJHA%3D%3D) | 
-| 第39期名人戦（韓国）決勝五番勝負第2局 | Paek Hongseok | Park Yeonghun | B+R | 2011-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9R1iQkiin%2BaL5oSNhMV1rA%3D%3D) | 
-| 第39期名人戦（韓国）決勝五番勝負第1局 | Park Yeonghun | Paek Hongseok | B+R | 2011-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jH2WoBcVJSwIWZZzVe923Q%3D%3D) | 
-| 2011年韓国囲碁リーグ | Lee Jungwoo | Park Yeonghun | W+R | 2011-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OXM07r%2FSJEmptJzXBv1EtQ%3D%3D) | 
-| 第39期名人戦（韓国）準決勝第2局 | Lee Taehyun | Park Yeonghun | W+R | 2011-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8QHA%2BILx5ojL9FbFr5TTRw%3D%3D) | 
-| 第7期圓益杯十段戦1回戦 | Yoo Changhyuk | Park Yeonghun | W+R | 2011-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vHFJ01TrulelQXqNGIDB3A%3D%3D) | 
-| 第39期名人戦（韓国）準決勝第1局 | Park Yeonghun | Lee Taehyun | B+R | 2011-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PrbyPCMnLlztGOI%2Fdk7Nrw%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Yeonghun | Kim Jiseok | W+R | 2011-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m%2FFGbWS8zbGhCh9av4bn7g%3D%3D) | 
-| 第39期名人戦（韓国）2回戦 | Jin Donggyu | Park Yeonghun | W+R | 2011-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zp7hPhi%2BUPK%2FCqk29nXz3A%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Yeonghun | Ahn Kukhyun | B+R | 2011-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X07rx4Z%2BRTKj6YUn5pPYpg%3D%3D) | 
-| 第16期GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Park Yeonghun | Park Junghwan | W+R | 2011-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VvHIC904BWcZXJ%2FBV1Ks8g%3D%3D) | 
-| 第30回KBS杯囲碁王戦敗者復活戦1回戦 | Park Yeonghun | Cho Hunhyun | W+R | 2011-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8O8epq10xQD4JLvKqFSRYQ%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ2回戦 | Park Yeonghun | Weon Seongjin | W+R | 2011-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JKpbTaaDtGVKwGA%2BH%2FklXw%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ1回戦 | Park Yeonghun | missing | B+R | 2011-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GdDzs6sDKIhYW1OCQqGGjg%3D%3D) | 
-| 第16期GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Park Junghwan | Park Yeonghun | B+R | 2011-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4K1ycocH5SNi%2BdUXrmWvgw%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Yeonghun | Park Junghwan | W+R | 2011-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W40L64wWtw9EutUego0nFA%3D%3D) | 
-| 第16期GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Park Yeonghun | Park Junghwan | W+R | 2011-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8SJxYYw0Cg5Km26eIt%2Fdog%3D%3D) | 
-| 2011年韓国囲碁リーグ | missing | Park Yeonghun | B+R | 2011-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FQojSD1g0D89Bj%2F4juv9tQ%3D%3D) | 
-| 第39期名人戦（韓国）1回戦 | Kang Dongyun | Park Yeonghun | W+R | 2011-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OHy3kuZJmoRYqu3Ldipkyg%3D%3D) | 
-| 2011年韓国囲碁リーグ | missing | Park Yeonghun | W+R | 2011-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cZMl6hM%2BwvLA99DmU9HemQ%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ1回戦D2 | Park Yeonghun | Sakai Hideyuki | B+R | 2011-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6AHXavSss4QqOmw3ix6Rlg%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ1回戦D1 | Na Hyun | Park Yeonghun | W+R | 2011-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QJ0Vnp7Hi1IL3mcL5X6mnA%3D%3D) | 
-| 第2回世界囲碁名人争覇戦決勝 | Jiang Weijie | Park Yeonghun | W+R | 2011-08-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aZXA4KabOPBHgHZWmvCntA%3D%3D) | 
-| 第2回世界囲碁名人争覇戦 | Iyama Yuta | Park Yeonghun | W+R | 2011-08-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2NWfbkQ6b0UUXNXCLkUF3Q%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Yeonghun | An Joyeong | W+R | 2011-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YrbkfUyiw9sIQ8gaqaKvLw%3D%3D) | 
-| 第30回KBS杯囲碁王戦本戦2回戦 | Park Yeonghun | Lee Sedol | W+R | 2011-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XkeRc95izYh91HiATwjqyQ%3D%3D) | 
-| 第1回スポーツアコードワールドマインドゲームズ囲碁韓国予選 | Park Yeonghun | Kang Dongyun | W+R | 2011-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w2iPlhp1GdT61KUIUM%2FrKA%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Yeonghun | Kang Yootaek | W+R | 2011-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NqMVe6SxjRGZiyCm8OQ8uQ%3D%3D) | 
-| 第16期GSカルテックス杯プロ棋戦準決勝 | Cho Hanseung | Park Yeonghun | W+R | 2011-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lOQK0dAeEXqkz799vXJOew%3D%3D) | 
-| 2011年韓国囲碁リーグ | Choi Cheolhan | Park Yeonghun | B+R | 2011-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BlmZoJ3l4yxcV1cGYAml5w%3D%3D) | 
-| 第13回農心杯韓国選抜戦 | Park Yeonghun | Kim Jiseok | W+R | 2011-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2OTcA%2FZjs1c6UHdmoDa3og%3D%3D) | 
-| 第13回農心杯韓国選抜戦 | Yun Chanhee | Park Yeonghun | W+R | 2011-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aQtyO42oVbbOdoS7cOXrkA%3D%3D) | 
-| 2011年韓国囲碁リーグ | Mok Jinseok | Park Yeonghun | W+R | 2011-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XP977I8x5h67ZeTjBthSvg%3D%3D) | 
-| 第16期GSカルテックス杯プロ棋戦3回戦 | Kang Changbae | Park Yeonghun | W+3.5 | 2011-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z2r35OtChsMoDt5%2Fxi6l1A%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Junghwan | Park Yeonghun | W+R | 2011-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6nEAvE%2BXxy58gxWfAnGL4A%3D%3D) | 
-| 第16回LG杯世界棋王戦2回戦 | Park Yeonghun | Xie He | W+R | 2011-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JNWC6%2Bdfc6yy%2BE7b26Xb5g%3D%3D) | 
-| 第16回LG杯世界棋王戦1回戦 | Lee Sedol | Park Yeonghun | W+R | 2011-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TTij0lvwUoZU3X0sNI%2BdkQ%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Yeonghun | Lee Yeongkyu | B+9.5 | 2011-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t8N%2FE2Imuk0IfHXQB6qDOA%3D%3D) | 
-| 2011年韓国囲碁リーグ | Lee Changho | Park Yeonghun | B+R | 2011-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d8Z5WROR8yN8WxGJEuy2xg%3D%3D) | 
-| 第30回KBS杯囲碁王戦本戦1回戦 | Jen Youngkyu | Park Yeonghun | W+R | 2011-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7b8aUaHcGU4GsB%2F6pXgNUQ%3D%3D) | 
-| 第16回LG杯予選 | Wang Yao | Park Yeonghun | W+R | 2011-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K4pZMNhFLOAM4stMjugqJg%3D%3D) | 
-| 第16回LG杯予選 | Gu Lingyi | Park Yeonghun | W+R | 2011-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FVtXyGDmBVv84g028O7h%2Fw%3D%3D) | 
-| 第16期GSカルテックス杯プロ棋戦2回戦 | Kim Juho | Park Yeonghun | W+6.5 | 2011-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KIDhnK3v%2Fq%2BYtvTrNNgIRQ%3D%3D) | 
-| 第12回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Park Yeonghun | Lee Changho | B+0.5 | 2011-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KDWaioWHzhbLdmFu6XggCw%3D%3D) | 
-| 第12回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Lee Changho | Park Yeonghun | W+R | 2011-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HzgiyTf0JYweYYTeQstJXw%3D%3D) | 
-| 第6期圓益杯十段戦4回戦 | Park Yeonghun | Lee Yeongkyu | W+R | 2011-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cypdR6GpDBehcjEMkR6O4Q%3D%3D) | 
-| 第1期招商地産杯中韓囲棋団体対抗戦第2戦 | Park Yeonghun | Liu Xing | W+R | 2011-03-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9l6VCyn4AGHWuctF5HeCIA%3D%3D) | 
-| 第1期招商地産杯中韓囲棋団体対抗戦第1戦 | Kong Jie | Park Yeonghun | B+R | 2011-03-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MOguPOWo9sBPFUDdU7Q3Ww%3D%3D) | 
-| 第12回マキシムコーヒー杯入神最強戦準決勝 | Choi Cheolhan | Park Yeonghun | W+R | 2011-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r77Nle2hEMYGrnlNIeO4Ow%3D%3D) | 
-| 第24回世界囲碁選手権富士通杯韓国予選 | Kang Dongyun | Park Yeonghun | B+R | 2011-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nNSABVrjvB6d%2F4IuXqdefw%3D%3D) | 
-| 第12回マキシムコーヒー杯入神最強戦3回戦 | Park Yeonghun | Kang Dongyun | B+R | 2011-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iDKjDaT38LgGKDpf6Llg8A%3D%3D) | 
-| 第6期圓益杯十段戦3回戦 | Park Yeonghun | An Joyeong | B+R | 2011-01-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kGo2Z35OZXb0KfjKm8e2nQ%3D%3D) | 
-| 第6期圓益杯十段戦2回戦 | Park Yeonghun | Hong Minpyo | B+R | 2010-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ms7UBBvV2bFedWHlbOkcvg%3D%3D) | 
-| 第12回マキシムコーヒー杯入神最強戦2回戦 | Park Yeonghun | missing | B+5.5 | 2010-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BH4uD4H1rY8LteIVzpbu0g%3D%3D) | 
-| 第6期圓益杯十段戦1回戦 | Park Yeonghun | Han Sanghoon | B+4.5 | 2010-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=edL4ZXreEWzwk5aAh6eK%2Bg%3D%3D) | 
-| 第38期名人戦（韓国）決勝五番勝負第5局 | Weon Seongjin | Park Yeonghun | W+R | 2010-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lGPK%2BTYvpZNy0FI4D%2Fi2Cw%3D%3D) | 
-| 第38期名人戦（韓国）決勝五番勝負第4局 | Weon Seongjin | Park Yeonghun | W+1.5 | 2010-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E5DjJU2WRdkfKdkkZoxcyg%3D%3D) | 
-| 第38期名人戦（韓国）決勝五番勝負第3局 | Park Yeonghun | Weon Seongjin | W+R | 2010-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J5T%2Fvwfxv7P7h%2BpF8ooGPw%3D%3D) | 
-| 第38期名人戦（韓国）決勝五番勝負第2局 | Weon Seongjin | Park Yeonghun | B+R | 2010-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C%2Bt0%2F6Rb6qhHVFUm6tU%2Fqg%3D%3D) | 
-| 第38期名人戦（韓国）決勝五番勝負第1局 | Park Yeonghun | Weon Seongjin | B+R | 2010-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HWS6rDqHFErWvbOKAky%2B4A%3D%3D) | 
-| 2010年韓国囲碁リーグ | Park Yeonghun | Kim Hyeongwoo | W+R | 2010-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jK2rgLnDbnBsAI7ipd3VtA%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ2回戦 | Park Yeonghun | Wang Lei (s) | W+R | 2010-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zoj5qfxjUQUsmPtAAmeWQw%3D%3D) | 
-| 第15期GSカルテックス杯プロ棋戦挑戦者決定戦 | Park Yeonghun | Weon Seongjin | W+R | 2010-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fQF6hoaS5e17UUXHT%2BhLQA%3D%3D) | 
-| 第38期名人戦（韓国）準決勝第3局 | Park Yeonghun | Lee Changho | B+R | 2010-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F3Z7wkwddg2m3j5irsRItg%3D%3D) | 
-| 2010年韓国囲碁リーグ | Park Yeonghun | Hong Minpyo | B+R | 2010-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IrmqGcDDvctopZZUPpTJFA%3D%3D) | 
-| 第38期名人戦（韓国）準決勝第2局 | Park Yeonghun | Lee Changho | W+R | 2010-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1t46Q9%2BSGmd3ExJy%2FXu9cQ%3D%3D) | 
-| 第38期名人戦（韓国）準決勝第1局 | Lee Changho | Park Yeonghun | W+R | 2010-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FPXSI8SoUuLuW02TH2mt%2FA%3D%3D) | 
-| 2010年韓国囲碁リーグ | Yun Junsang | Park Yeonghun | B+R | 2010-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WHhIpTpqV3VTkWrPfxTGrQ%3D%3D) | 
-| 第15期GSカルテックス杯プロ棋戦準決勝 | Lee Yeongkyu | Park Yeonghun | W+R | 2010-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0saAsXERphkXyHirLGkFgA%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ1回戦H3 | Yoo Changhyuk | Park Yeonghun | W+R | 2010-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dSfAtGr7nM2mA8WKNvm1yA%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ1回戦H2 | Wang Lei (s) | Park Yeonghun | B+R | 2010-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rTecAOoJhQ1IkqlqNu8icA%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ1回戦H1 | Park Yeonghun | Yoo Changhyuk | B+1.5 | 2010-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EFiQZSVb8vSQV1LqGDBLBQ%3D%3D) | 
-| 2010年韓国囲碁リーグ | Lee Changho | Park Yeonghun | B+R | 2010-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rcs7BQG0ZcdBCPva3Lt%2FQg%3D%3D) | 
-| 第29回KBS杯囲碁王戦敗者復活戦1回戦 | Kang Yootaek | Park Yeonghun | B+R | 2010-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BOTZp%2FC8zVdcElkQPhkGtg%3D%3D) | 
-| 第38期名人戦（韓国）リーグB | Kim Kiyoung | Park Yeonghun | W+3.5 | 2010-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=He%2FGp%2BX%2FaubZrvRGlOMqdA%3D%3D) | 
-| 2010年韓国囲碁リーグ | Lee Yeongkyu | Park Yeonghun | B+R | 2010-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tPIX%2BHxsAcItlPNYcxxxsQ%3D%3D) | 
-| 第38期名人戦（韓国）リーグB | Cho Hanseung | Park Yeonghun | B+R | 2010-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=svKChALRw47h%2FnkcwczLdA%3D%3D) | 
-| 第15回三星火災杯統合予選1回戦 | Sun Tengyu | Park Yeonghun | W+R | 2010-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JiBed3pKMAWagO00vplOSg%3D%3D) | 
-| 第15期バッカス杯天元戦1回戦 | Kang Yootaek | Park Yeonghun | B+R | 2010-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s5eZhWJJ3O1JFwlciFPslg%3D%3D) | 
-| 第6期物価情報杯プロ棋戦決勝トーナメント1回戦 | Park Yeonghun | Weon Seongjin | W+R | 2010-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JwaIiVmYskiv7WEannxNjA%3D%3D) | 
-| 第38期名人戦（韓国）リーグB | Weon Seongjin | Park Yeonghun | W+R | 2010-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vLIy7jfGCb0HmJC%2FlbGChQ%3D%3D) | 
-| 第29回KBS杯囲碁王戦本戦2回戦 | Kim Sooyong | Park Yeonghun | B+1.5 | 2010-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XGDGbZKJOYL%2BJH%2FbgP%2BWXg%3D%3D) | 
-| 2010年韓国囲碁リーグ | An Joyeong | Park Yeonghun | W+R | 2010-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VNPROUlQ%2B5vcWf8W5UvplA%3D%3D) | 
-| 第15期GSカルテックス杯プロ棋戦3回戦 | Park Yeonghun | Kim Junghyun | B+R | 2010-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8whgOnXKlVIsEtt73m82ZQ%3D%3D) | 
-| 第15回LG杯世界棋王戦1回戦 | Park Yeonghun | Wang Yao | W+R | 2010-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4i6ayqKYIJ%2F%2Bd26tb1FHJw%3D%3D) | 
-| 第38期名人戦（韓国）リーグB | Park Yeonghun | missing | B+5.5 | 2010-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mq2g79knFltArfr4SSnxIw%3D%3D) | 
-| 2010年韓国囲碁リーグ | Yoo Changhyuk | Park Yeonghun | W+R | 2010-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v0OKtibIqEsXRiTHN6tQ0g%3D%3D) | 
-| 第38期名人戦（韓国）リーグB | Park Yeonghun | Hong Seongji | B+0.5 | 2010-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zL9KwFlYOfq8KBbtqj1pew%3D%3D) | 
-| 第6期物価情報杯プロ棋戦リーグA | Park Yeonghun | Yoo Changhyuk | B+R | 2010-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SwpBIaLMKLD4P030S7Worw%3D%3D) | 
-| 第38期名人戦（韓国）予選 | Park Yeonghun | Park Younglong | B+R | 2010-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dmudoa1f11EXRlpIh1DACQ%3D%3D) | 
-| 第23回世界囲碁選手権富士通杯3回戦 | Park Yeonghun | Piao Wenyao | W+R | 2010-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E8t%2FIbWwEVCy8m6fJIB0RA%3D%3D) | 
-| 第23回世界囲碁選手権富士通杯2回戦 | Takao Shinji | Park Yeonghun | W+4.5 | 2010-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BrjBlGHz96bdSuOZf2JcTQ%3D%3D) | 
-| 第6期物価情報杯プロ棋戦リーグA | Lee Changho | Park Yeonghun | W+R | 2010-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pJ0EoxLFT9P6GOY3rbmHpQ%3D%3D) | 
-| 第29回KBS杯囲碁王戦本戦1回戦 | Park Yeonghun | Ko Keuntae | B+R | 2010-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x3ZkGzCk1ivT7Nd5GeIXVA%3D%3D) | 
-| 第2回BCカード杯世界選手権4回戦 | Lee Sedol | Park Yeonghun | B+4.5 | 2010-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WLpf7o9Or8Lp2RshqfPn5w%3D%3D) | 
-| 第15期GSカルテックス杯プロ棋戦2回戦 | Park Junghwan | Park Yeonghun | W+R | 2010-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=90vvYKUVUtxJElKWYdRVog%3D%3D) | 
-| 第11回マキシムコーヒー杯入神最強戦準決勝 | Park Yeonghun | Choi Cheolhan | W+R | 2010-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pfLuM%2ByYOqpfGqjmdfWH9g%3D%3D) | 
-| 第2回BCカード杯世界選手権3回戦 | Yoo Changhyuk | Park Yeonghun | W+1.5 | 2010-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AWVHa1F8QVYZqDO4DASJBQ%3D%3D) | 
-| 第11回マキシムコーヒー杯入神最強戦3回戦 | Park Yeonghun | Yoo Changhyuk | B+0.5 | 2010-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ko6DrpJYFPvrv5J3O2vMVA%3D%3D) | 
-| 第8回春蘭杯韓国予選 | Heo Yongho | Park Yeonghun | B+R | 2010-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i4jlIaqCIvjnBxyGMEDd1g%3D%3D) | 
-| 第8回春蘭杯韓国予選 | Mok Jinseok | Park Yeonghun | W+R | 2010-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s5U0XC3L%2Bhr1w9CbxD8SlA%3D%3D) | 
-| 第2回BCカード杯世界選手権2回戦 | Park Yeonghun | Ryu Minhyung | B+0.5 | 2010-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z7jV%2BhOuasK397WPwfv3%2Bw%3D%3D) | 
-| 第11回農心辛ラーメン杯世界囲碁最強戦第10戦 | Hane Naoki | Park Yeonghun | B+R | 2010-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n5O3rrnI1e2xD0ssJeBJNg%3D%3D) | 
-| 第2回BCカード杯世界選手権1回戦 | Park Younglong | Park Yeonghun | W+R | 2010-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8UyXqA859oh0jzd9DLQZCQ%3D%3D) | 
-| 第14期GSカルテックス杯プロ棋戦挑戦手合五番勝負第4局 | Park Yeonghun | Cho Hanseung | W+R | 2009-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CCQ4nKNU9KE88DIPADi5MA%3D%3D) | 
-| 2009年韓国囲碁リーグ | Park Yeonghun | Yun Junsang | B+R | 2009-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eF2vGqoYgnK7lbMTwRUsXA%3D%3D) | 
-| 第14期GSカルテックス杯プロ棋戦挑戦手合五番勝負第3局 | Cho Hanseung | Park Yeonghun | W+6.5 | 2009-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sl0K9oSoYjq%2FCOGpVK9ETQ%3D%3D) | 
-| 2009年韓国囲碁リーグ | Hong Seongji | Park Yeonghun | B+R | 2009-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MpmuOjbh8u5BomyvE%2BnfTA%3D%3D) | 
-| 2009年韓国囲碁リーグ | Park Yeonghun | Yun Junsang | B+6.5 | 2009-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=avXTz%2Bd5RfsxQUccT8ULZg%3D%3D) | 
-| 第14期GSカルテックス杯プロ棋戦挑戦手合五番勝負第2局 | Park Yeonghun | Cho Hanseung | W+R | 2009-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DbEHnhGAvmttGD%2F8e38htg%3D%3D) | 
-| 第14回LG杯世界棋王戦準決勝 | Kong Jie | Park Yeonghun | B+R | 2009-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eE5TYkQdCRtg4i7oZog%2F7Q%3D%3D) | 
-| 第14回LG杯世界棋王戦3回戦 | Hu Yaoyu | Park Yeonghun | W+R | 2009-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=458kKj8qgc2VMmOD9drs%2Bw%3D%3D) | 
-| 第14期GSカルテックス杯プロ棋戦挑戦手合五番勝負第1局 | Cho Hanseung | Park Yeonghun | B+R | 2009-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FEoHVkDIjT3ZO67KZ%2FFmjg%3D%3D) | 
-| 2009年韓国囲碁リーグ | Park Yeonghun | Park Junghwan | W+R | 2009-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o0gOWXYZYCkzkqrdwxDgOQ%3D%3D) | 
-| 2009年韓国囲碁リーグ | Park Yeonghun | missing | W+5.5 | 2009-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xsNevMKNbYOTZTFjOvJ%2Fdw%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ3回戦 | Park Yeonghun | Kong Jie | W+R | 2009-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HWWz9nxSPnHFrUe%2B9w%2F5ww%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ2回戦 | Wang Yao | Park Yeonghun | W+0.5 | 2009-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hoQ5rB7WR2aTEfmLAnm2qw%3D%3D) | 
-| 2009年韓国囲碁リーグ | Park Yeonghun | Yun Junsang | B+0.5 | 2009-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PwNRpcNV1C5RISA%2B1iKz%2Fg%3D%3D) | 
-| 2009年韓国囲碁リーグ | missing | Park Yeonghun | W+R | 2009-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Cgh6kb%2BPu9%2Bay4Jy2fhIg%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ1回戦B3 | Park Yeonghun | Cho Hunhyun | B+T | 2009-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GTVy8VtCHV1VdXXgcmcttw%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ1回戦B2 | Chang Hao | Park Yeonghun | B+R | 2009-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0rUV9r3n8wsGYOlxlAJMbQ%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ1回戦B1 | Park Yeonghun | Lu Jia | B+R | 2009-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mFlap2QWwXuDGaFqWT609Q%3D%3D) | 
-| 2009年韓国囲碁リーグ | Park Yeonghun | missing | B+R | 2009-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g2zUGY1ZqQBMsRucccEx%2FQ%3D%3D) | 
-| 2009年韓国囲碁リーグ | Choi Cheolhan | Park Yeonghun | W+0.5 | 2009-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a%2BJYnwBdrW46bAxflRF9uA%3D%3D) | 
-| 第11回農心杯韓国選抜戦 | Park Yeonghun | Hong Minpyo | B+6.5 | 2009-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2NQZqQu5cmywZ2BxX5VIiA%3D%3D) | 
-| 第28回KBS杯囲碁王戦敗者復活戦1回戦 | Cho Hunhyun | Park Yeonghun | B+R | 2009-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cVLDrc0UZf0jriFIlPe6mw%3D%3D) | 
-| 2009年韓国囲碁リーグ | Hong Minpyo | Park Yeonghun | B+R | 2009-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nd2iPDEtAG7sgudPqmNHQg%3D%3D) | 
-| 2009年韓国囲碁リーグ | Park Yeonghun | Kang Dongyun | B+R | 2009-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OA0ywTvYFpKyLmYgXirxrA%3D%3D) | 
-| 第5期物価情報杯プロ棋戦決勝トーナメント準決勝 | Lee Changho | Park Yeonghun | B+0.5 | 2009-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FwAgq5neZu7myB9Egx5Vvw%3D%3D) | 
-| 第28回KBS杯囲碁王戦本戦2回戦 | Park Yeonghun | Choi Cheolhan | W+R | 2009-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fcC9NY04tCUVfe%2FP8NWM%2Fw%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Yeongkyu | Park Yeonghun | W+R | 2009-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UoO%2BDDtpTbYLlFZ2a%2BxXuA%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯三位決定戦 | Park Yeonghun | Chang Hao | B+R | 2009-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=talcsjoKd%2FPCBXhfxcX4EA%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯準決勝 | Park Yeonghun | Kang Dongyun | W+R | 2009-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4igNs1BK348RtZUhLsZ7Hg%3D%3D) | 
-| 第5期物価情報杯プロ棋戦決勝トーナメント1回戦 | Hong Minpyo | Park Yeonghun | W+R | 2009-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TkYR33NWRPpGOqqW0DyDgw%3D%3D) | 
-| 2009年韓国囲碁リーグ | Paek Hongseok | Park Yeonghun | W+R | 2009-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SzHC5iwnLQTfIulY0RXBdw%3D%3D) | 
-| 第53期国手戦（韓国）予選 | Park Yeonghun | Kim Hyeongwoo | W+0.5 | 2009-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1S4CuGg%2FlSQYXLDEmXQFRg%3D%3D) | 
-| 第5期物価情報杯プロ棋戦リーグC | Park Yeonghun | Park Junghwan | B+R | 2009-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w8Z1otEpOlqRv2TxSBBA2g%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯3回戦 | Park Yeonghun | Kono Rin | B+4.5 | 2009-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oD29tA6%2BKniwOn6IzIVVfw%3D%3D) | 
-| 2009年韓国囲碁リーグ | Cho Hanseung | Park Yeonghun | B+R | 2009-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KCSfQFKU1JjrEJfioZTtRw%3D%3D) | 
-| 第5期物価情報杯プロ棋戦リーグC | Park Yeonghun | Hong Jansik | W+R | 2009-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dPW4LpqfiwH%2FDZZ8%2BfrXDA%3D%3D) | 
-| 2009年韓国囲碁リーグ | Park Yeonghun | Han Sanghoon | B+0.5 | 2009-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qTagT%2BSss4ZQVj8LXEUoCQ%3D%3D) | 
-| 第14回LG杯世界棋王戦2回戦 | Park Yeonghun | Wang Haoyang | B+R | 2009-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a1jwZgRiz7XxfkKk%2FPDMug%3D%3D) | 
-| 第14回LG杯世界棋王戦1回戦 | Chen Yaoye | Park Yeonghun | W+R | 2009-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2jCrfUc4P74ZVWY9sjbLDQ%3D%3D) | 
-| 第28回KBS杯囲碁王戦本戦1回戦 | Kim Juho | Park Yeonghun | W+R | 2009-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r6FM2hnbEWnM2Jjt%2FES1cQ%3D%3D) | 
-| 第5期物価情報杯プロ棋戦リーグC | Hong Minpyo | Park Yeonghun | B+2.5 | 2009-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DaNN2%2BgK75ObEyhB%2B1IxeA%3D%3D) | 
-| 第1回BCカード杯世界選手権4回戦 | Lee Sedol | Park Yeonghun | B+R | 2009-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o%2FMAJGeWJ5Dr2R%2Brg5thBA%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯2回戦 | Park Yeonghun | Xie He | B+1.5 | 2009-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l3wmpe6iIT0I6r0hLY%2FjEg%3D%3D) | 
-| 第1回BCカード杯世界選手権3回戦 | Park Yeonghun | Chang Hao | B+R | 2009-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KVpo45R0IOAUJuF%2B%2BS5%2BbA%3D%3D) | 
-| 第1回BCカード杯世界選手権2回戦 | Park Yeonghun | missing | B+R | 2009-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y%2FpIUoGW3Wkskvy7icbirg%3D%3D) | 
-| 第1回BCカード杯世界選手権1回戦 | An Joyeong | Park Yeonghun | W+0.5 | 2009-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VodqDnnZcrYblsrF9LXp5g%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯韓国予選決勝 | Park Yeonghun | Cho Hanseung | B+R | 2009-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PhurA8V6PUFa%2BnC5zADN6g%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯韓国予選 | Park Yeonghun | Mok Jinseok | B+R | 2009-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NK4i1LzMVqI0TVbOBtlLag%3D%3D) | 
-| 第10回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Park Yeonghun | Choi Cheolhan | W+R | 2009-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=29OCeqDPnEiBdLrIKLozUg%3D%3D) | 
-| 第10回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Choi Cheolhan | Park Yeonghun | B+R | 2009-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1xhj7kR9424OX%2FLxn3RiHQ%3D%3D) | 
-| 第10回マキシムコーヒー杯入神最強戦準決勝 | Park Yeonghun | Weon Seongjin | B+R | 2009-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jP4bIWVre888TItOvC0RXA%3D%3D) | 
-| 第27回KBS杯囲碁王戦敗者復活戦4回戦 | Bae Junhee | Park Yeonghun | B+R | 2008-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9p4OxYKO7L20%2FEIVPYWdag%3D%3D) | 
-| 2008年韓国囲碁リーグ | Park Yeonghun | Kang Yootaek | W+R | 2008-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BdoroFsJ5rrKQLIlPR5MbA%3D%3D) | 
-| 第13期GSカルテックス杯プロ棋戦挑戦手合五番勝負第3局 | Weon Seongjin | Park Yeonghun | W+R | 2008-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jbSnuM9EqQfJYpNlYnlUqw%3D%3D) | 
-| 2008年韓国囲碁リーグ | Kim Jiseok | Park Yeonghun | W+R | 2008-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4se0BmmNZKc2daHAv0McuA%3D%3D) | 
-| 2008年韓国囲碁リーグ | Kim Hyeongwoo | Park Yeonghun | B+R | 2008-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RCgHZc2%2BsveuGUHVw2uwUg%3D%3D) | 
-| 第13期GSカルテックス杯プロ棋戦挑戦手合五番勝負第2局 | Park Yeonghun | Weon Seongjin | B+2.5 | 2008-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QQ5x3fX7dpMwvRVSi5utZQ%3D%3D) | 
-| 第13期GSカルテックス杯プロ棋戦挑戦手合五番勝負第1局 | Weon Seongjin | Park Yeonghun | W+R | 2008-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UwhcceDThN6485MfwG%2FgRQ%3D%3D) | 
-| 第27回KBS杯囲碁王戦敗者復活戦3回戦 | Paek Hongseok | Park Yeonghun | W+R | 2008-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KQHCzyHMjYQu%2B2dGQ91PXg%3D%3D) | 
-| 第27回KBS杯囲碁王戦敗者復活戦2回戦 | Cho Hanseung | Park Yeonghun | W+3.5 | 2008-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=08Rlw5GAhbbvMXW3eec89Q%3D%3D) | 
-| 第13回LG杯世界棋王戦準決勝 | Lee Sedol | Park Yeonghun | B+R | 2008-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=961bRSf%2BOTqtdGqOVncQaQ%3D%3D) | 
-| 第13回LG杯世界棋王戦3回戦 | Park Yeonghun | Chang Hao | B+R | 2008-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hhVPGz7qJVi2LizOERa6hQ%3D%3D) | 
-| 2008年韓国囲碁リーグ | Park Yeonghun | Choi Cheolhan | B+R | 2008-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Kvq%2FzYYA%2BN3FhT%2F8xdV4Q%3D%3D) | 
-| 第10回マキシムコーヒー杯入神最強戦2回戦 | Park Yeonghun | An Joyeong | B+R | 2008-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tFyA84Tpjf6VRY7GfyCjJA%3D%3D) | 
-| 2008年韓国囲碁リーグ | Park Seunghwa | Park Yeonghun | W+2.5 | 2008-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NOIInoyUv3gLAOl80ezcLQ%3D%3D) | 
-| 2008年韓国囲碁リーグ | Choi Wongyong | Park Yeonghun | W+T | 2008-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zLzpZD4Q63Grp3FEzzAX0Q%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Park Yeonghun | Mimura Tomoyasu | B+R | 2008-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZpSw06ftwP1rZsCJQW99Zw%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Park Yeonghun | Park Cheongsang | W+R | 2008-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NC3Ssxjv7CzM8Cy8dB8%2Byw%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Sakai Hideyuki | Park Yeonghun | W+R | 2008-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SBC1DJu4Vea7r76GyNnigg%3D%3D) | 
-| 2008年韓国囲碁リーグ | Park Cheongsang | Park Yeonghun | W+1.5 | 2008-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jmCXAa1oCrvnnJmHmWwemw%3D%3D) | 
-| 第13回三星火災杯世界オープン囲碁選手権1回戦 | Kong Jie | Park Yeonghun | B+R | 2008-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M3C0q1SVZjRuE%2F6FnlTXdw%3D%3D) | 
-| 2008年韓国囲碁リーグ | Heo Yongho | Park Yeonghun | B+R | 2008-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v8%2FsOlCW0ALbNmJiJ1%2BNpg%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Park Yeonghun | Gu Li | W+R | 2008-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=srxYjLI%2FFkT5urR3C%2BUBPQ%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Kim Sujun | Park Yeonghun | W+5.5 | 2008-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vuy%2BFS5gCucNPfvhyGPvdw%3D%3D) | 
-| 2008年韓国囲碁リーグ | Park Yeonghun | Choi Myeonghun | B+R | 2008-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sWnn5Q8dBcQUhJ0wRmFn4A%3D%3D) | 
-| 第52期国手戦（韓国）1回戦 | Park Yeonghun | Park Cheongsang | W+R | 2008-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=34P7fjM4tQM8nMx3DLZHpA%3D%3D) | 
-| 2008年韓国囲碁リーグ | Park Yeonghun | Hong Seongji | W+1.5 | 2008-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FE3xXrpw%2B8gHrz2d1JxAjA%3D%3D) | 
-| 2008年韓国囲碁リーグ | Hong Minpyo | Park Yeonghun | B+R | 2008-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HGgKOvPk5Tx668S2Y38nWA%3D%3D) | 
-| 第5期電子ランド杯王中王戦2回戦 | Kang Dongyun | Park Yeonghun | B+4.5 | 2008-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p%2BxeF7REPU9gRJDKFUlR2Q%3D%3D) | 
-| 第27回KBS杯囲碁王戦敗者復活戦1回戦 | missing | Park Yeonghun | W+R | 2008-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IPRvu9CecM1LslTbRZVB7g%3D%3D) | 
-| 第4期物価情報杯プロ棋戦決勝トーナメント1回戦 | Lee Yeongkyu | Park Yeonghun | B+R | 2008-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AlVlXkqYbpEvEvLgLhz34Q%3D%3D) | 
-| 第5期電子ランド杯王中王戦1回戦 | Kim Soojang | Park Yeonghun | W+R | 2008-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FLHzQ9WatDt7CpHjWPvGDA%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯3回戦 | Park Yeonghun | Chang Hao | W+R | 2008-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kdF%2BvDN%2B177bzAOMhsTqgw%3D%3D) | 
-| 第13回LG杯世界棋王戦2回戦 | Park Yeonghun | Wang Yao | B+R | 2008-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Srz56lJY%2FMj4mrDYc3M0CA%3D%3D) | 
-| 第13回LG杯世界棋王戦1回戦 | Park Yeonghun | Zhou Junxun | B+5.5 | 2008-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ugku0cBOe9f5zvScENIDKg%3D%3D) | 
-| 2008年韓国囲碁リーグ | Park Yeonghun | Park Cheongsang | B+R | 2008-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5zt32vtfAOQXIqyEksJ1Dw%3D%3D) | 
-| 第4期物価情報杯プロ棋戦リーグC | Park Yeonghun | Lee Jaeung | B+5.5 | 2008-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hM0IW5fnc6HppD5%2B7whjEw%3D%3D) | 
-| 第27回KBS杯囲碁王戦本戦2回戦 | Kang Dongyun | Park Yeonghun | B+R | 2008-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n64ocb17agr9rN9EyqZhgg%3D%3D) | 
-| 第19期棋聖戦（韓国）挑戦手合三番勝負第3局 | Paek Hongseok | Park Yeonghun | W+R | 2008-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F91HznLpp8v6IsF%2FSHJvRw%3D%3D) | 
-| 第6回応氏杯世界選手権3回戦 | Park Yeonghun | Liu Xing | W+R | 2008-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lwcXXyQ8Uvetdl4b4kuxjA%3D%3D) | 
-| 第6回応氏杯世界選手権2回戦 | Park Yeonghun | Peng Quan | B+1 | 2008-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SK6f1KyRz2O120T28ouRpA%3D%3D) | 
-| 第6回応氏杯世界選手権1回戦 | Park Yeonghun | Zhou Junxun | B+R | 2008-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K4%2FrJqltF8XgkXptCR2Wog%3D%3D) | 
-| 第4期物価情報杯プロ棋戦リーグC | Park Yeonghun | Kim Kiyoung | B+R | 2008-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u%2Fni0TNOPtq2uQ6WL3gaoQ%3D%3D) | 
-| 2008年韓国囲碁リーグ | Park Yeonghun | Lee Yeongkyu | B+R | 2008-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Um5e0568dtFKykRUR3wgBQ%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯2回戦 | Park Yeonghun | Takao Shinji | B+3.5 | 2008-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ps%2FWg1wZxRH3EsofzUeH%2Bw%3D%3D) | 
-| 第19期棋聖戦（韓国）挑戦手合三番勝負第2局 | Paek Hongseok | Park Yeonghun | B+1.5 | 2008-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i3GnNVuyw1PT0W2Lyjyy2w%3D%3D) | 
-| 第19期棋聖戦（韓国）挑戦手合三番勝負第1局 | Park Yeonghun | Paek Hongseok | B+R | 2008-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DELY8NTcCb3isFUczvxUCg%3D%3D) | 
-| 第9回マキシムコーヒー杯入神最強戦決勝三番勝負第3局 | Mok Jinseok | Park Yeonghun | W+3.5 | 2008-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QR0lE3u%2FfaUF%2F7hyS%2Bus5g%3D%3D) | 
-| 第9回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Mok Jinseok | Park Yeonghun | W+R | 2008-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=orrYfxqKjdEvT0kTFo%2B1Vg%3D%3D) | 
-| 第9回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Park Yeonghun | Mok Jinseok | W+R | 2008-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R57fC%2FWmfdv5Y86BSmKxzw%3D%3D) | 
-| 第9回農心辛ラーメン杯世界囲碁最強戦第13戦 | Chang Hao | Park Yeonghun | B+R | 2008-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=exbm6JNFiUbVMJx16NxpEw%3D%3D) | 
-| 第7回春蘭杯韓国予選 | Park Yeonghun | Weon Seongjin | W+1.5 | 2008-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=92XJwnZ291yG9f1uEP31HQ%3D%3D) | 
-| 第7回春蘭杯韓国予選 | Park Yeonghun | Kang Dongyun | B+R | 2008-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6kiGZfsWXCSy7Ic49SJ6uQ%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権決勝三番勝負第3局 | Lee Sedol | Park Yeonghun | B+1.5 | 2008-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4Yg23MvcFaX8lZhm5KCg9A%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権決勝三番勝負第2局 | Lee Sedol | Park Yeonghun | W+R | 2008-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wof0vIttvru9ZcO7Tg5hKQ%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権決勝三番勝負第1局 | Park Yeonghun | Lee Sedol | W+4.5 | 2008-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VqblFzlWl%2FTfCtPK0XzvNA%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦挑戦手合五番勝負第5局 | Park Yeonghun | Lee Sedol | B+R | 2007-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PvDCYuc9arrMa1XxEEID6A%3D%3D) | 
-| 第9回マキシムコーヒー杯入神最強戦準決勝 | Seo Bongsoo | Park Yeonghun | W+R | 2007-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9M%2Bh08EqT6oPBXP3bhJ1mg%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦挑戦手合五番勝負第4局 | Lee Sedol | Park Yeonghun | W+R | 2007-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NtW%2BL6no7eP90q9t4BSMnQ%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦挑戦手合五番勝負第3局 | Park Yeonghun | Lee Sedol | B+R | 2007-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=26dMoXDWzOfcXtJ1n0oohg%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権準決勝三番勝負第3局 | Park Yeonghun | Gu Li | B+1.5 | 2007-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ZkVk9Vbs6XNkadza2v%2FFA%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権準決勝三番勝負第2局 | Gu Li | Park Yeonghun | W+1.5 | 2007-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rKN%2FaroBU9kOE2E7M2NHCg%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権準決勝三番勝負第1局 | Park Yeonghun | Gu Li | W+R | 2007-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=60RLmoZG%2BkD%2BNjSEqAAVcQ%3D%3D) | 
-| 第9回マキシムコーヒー杯入神最強戦4回戦 | Park Yeonghun | An Joyeong | B+R | 2007-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i4%2FW4M7HlKgHaJqUe88%2FRQ%3D%3D) | 
-| 2007年韓国囲碁リーグ | Lee Changho | Park Yeonghun | B+R | 2007-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b7k%2BRvg2Hv2aDNjn%2FfxgFQ%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦挑戦手合五番勝負第2局 | Lee Sedol | Park Yeonghun | B+R | 2007-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RP4FUFNdgGMZfYjp5o8k8Q%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦挑戦手合五番勝負第1局 | Park Yeonghun | Lee Sedol | W+R | 2007-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3J9PuKfUWJ6%2Fxm%2BDhGfDtA%3D%3D) | 
-| 2007年韓国囲碁リーグ | Park Yeonghun | Paek Hongseok | W+R | 2007-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sgCkTw7LBVoXrNcnFfrzWg%3D%3D) | 
-| 第9回マキシムコーヒー杯入神最強戦3回戦 | Lee Sedol | Park Yeonghun | W+R | 2007-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Su%2FIGGQEKrii7u0d6O0jhA%3D%3D) | 
-| 第3期圓益杯十段戦2回戦 | Lee Sedol | Park Yeonghun | B+R | 2007-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4J%2BW41tZcSUMA1hQ60SoLA%3D%3D) | 
-| 2007年韓国囲碁リーグ | Park Yeonghun | Kim Juho | W+R | 2007-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vFnK64esU7q7KoRfEytdUQ%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦リーグ | Cho Hanseung | Park Yeonghun | W+R | 2007-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DRQOkkUEzDV6IZYWJOuQyQ%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権3回戦 | Park Yeonghun | Han Sanghoon | B+3.5 | 2007-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AWnG9smjDSn1uvnB%2BRUphg%3D%3D) | 
-| 第51期国手戦（韓国）準決勝 | Lee Sedol | Park Yeonghun | B+R | 2007-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9LHtr4y9W%2Fgr3PC4i0nNQQ%3D%3D) | 
-| 2007年韓国囲碁リーグ | missing | Park Yeonghun | W+13.5 | 2007-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XTjS7Q%2BviwvjfdppIg2uDw%3D%3D) | 
-| 2007年韓国囲碁リーグ | Park Yeonghun | Yoo Changhyuk | W+R | 2007-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QKNjpjIto7ex03BIx%2BUGtg%3D%3D) | 
-| 第51期国手戦（韓国）2回戦 | missing | Park Yeonghun | W+3.5 | 2007-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=euSWmSHzAo0xR1oiYVWCRw%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権2回戦 | Park Yeonghun | Kim Kiyoung | B+3.5 | 2007-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oH5YjktK%2B%2FOqYfd%2FlSJJrw%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権1回戦 | Park Yeonghun | Li Kang | B+R | 2007-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RaaaEs71GomoHCD8oTnpFw%3D%3D) | 
-| 2007年韓国囲碁リーグ | Park Yeonghun | Song Taekon | B+R | 2007-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bEsI1e7XLYyUKeKBPgvdlA%3D%3D) | 
-| 第3回中環杯世界囲碁選手権準決勝 | Park Yeonghun | Park Cheongsang | W+0.5 | 2007-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xZ4Y9tP9MzcVaszKZHhpyg%3D%3D) | 
-| 第3回中環杯世界囲碁選手権2回戦 | Park Yeonghun | Kono Rin | B+R | 2007-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xzURE%2F%2FcnKsXzbmCcuCwXg%3D%3D) | 
-| 第3回中環杯世界囲碁選手権1回戦 | O Rissei | Park Yeonghun | W+R | 2007-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qR76F%2FNBu3reIZfJ%2B6pQxA%3D%3D) | 
-| 2007年韓国囲碁リーグ | Park Yeonghun | Choi Wongyong | W+R | 2007-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OSizILUrreIBW4pRlLBozw%3D%3D) | 
-| 第9回農心杯韓国選抜戦 | Kim Seungjun | Park Yeonghun | W+R | 2007-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SG35CYD7G4M4sAjVQjBPyA%3D%3D) | 
-| 第9回農心杯韓国選抜戦 | Park Yeonghun | Lee Yeongkyu | B+4.5 | 2007-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T1qdF4xhaTSV0FUWRJlL0A%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦リーグ | Park Yeonghun | Hong Seongji | B+2.5 | 2007-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N%2FPo4gO7xwqhJOBuDKRzzA%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦リーグ | Park Yeonghun | Choi Cheolhan | B+1.5 | 2007-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AR4nDzvo%2FVGOPVD6Nq%2BGWA%3D%3D) | 
-| 第3期圓益杯十段戦1回戦 | Park Yeonghun | missing | B+7.5 | 2007-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pYRTPYJ%2B7plc2%2B6v%2B7Qkmg%3D%3D) | 
-| 2007年韓国囲碁リーグ | Weon Seongjin | Park Yeonghun | W+R | 2007-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DVJvukYPZ%2B9EVO6jDFckpA%3D%3D) | 
-| 第51期国手戦（韓国）1回戦 | Park Yeonghun | missing | B+R | 2007-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Coh5z6li%2BYBIYOJqbuCxaw%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯決勝 | Lee Changho | Park Yeonghun | W+1.5 | 2007-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0BznVkOFXcupqS7KIcadQQ%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯準決勝 | Yoda Norimoto | Park Yeonghun | W+0.5 | 2007-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lhH7lYR8ndq%2F8QmIRVygJg%3D%3D) | 
-| 2007年韓国囲碁リーグ | Choi Wongyong | Park Yeonghun | W+R | 2007-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bwDMpgNpTXkoSpMIRbZ%2FXg%3D%3D) | 
-| 2007年韓国囲碁リーグ | Park Yeonghun | missing | W+3.5 | 2007-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CAmFEPdE6CyEXk2pQAgO0g%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦リーグ | Park Yeonghun | Choi Myeonghun | B+5.5 | 2007-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WaJEMYBafumrWFaw8ECVjA%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦リーグ | Mok Jinseok | Park Yeonghun | W+R | 2007-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R73et3OIlZj43au9AR7l7A%3D%3D) | 
-| 2007年韓国囲碁リーグ | missing | Park Yeonghun | W+R | 2007-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kgXh3Do7k23lQlTRWzySPw%3D%3D) | 
-| 第12回LG杯世界棋王戦1回戦 | Cho Chikun | Park Yeonghun | B+R | 2007-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s7nq1VtgvViSTol%2F4ChsVg%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯3回戦 | Park Yeonghun | Zhou Heyang | B+0.5 | 2007-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k7Iz9NgGgem%2Fa2dOpPId%2BQ%3D%3D) | 
-| 第3期物価情報杯プロ棋戦リーグD | Rui Naiwei | Park Yeonghun | W+4.5 | 2007-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VXmpn3zzDQqSH9JI8vnE3A%3D%3D) | 
-| 2007年韓国囲碁リーグ | Park Yeonghun | Choi Cheolhan | W+R | 2007-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UowMrxwaP0sPSBaO1YfGSg%3D%3D) | 
-| 第3期物価情報杯プロ棋戦リーグD | Park Yeonghun | Weon Seongjin | W+R | 2007-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dStHqY7qNPRfEm6ucH7bSA%3D%3D) | 
-| 第41期王位戦準決勝 | Park Yeonghun | Han Sanghoon | W+R | 2007-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VIhfckGIcRB8O5NS5XWVuw%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦リーグ | Park Yeonghun | Lee Changho | B+R | 2007-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xb2qtB7XFLHPb%2BxeVRDxlQ%3D%3D) | 
-| 2007年韓国囲碁リーグ | Kim Jiseok | Park Yeonghun | B+0.5 | 2007-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aoQZjLwX6ZtuIXpukF7Rrw%3D%3D) | 
-| 第3期物価情報杯プロ棋戦リーグD | Choi Wongyong | Park Yeonghun | B+0.5 | 2007-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A29wtjyrOhBLXGrK0a9fCg%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯2回戦 | Yokota Shigeaki | Park Yeonghun | W+R | 2007-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vTEaCwwNcYRB37W2PNJqVg%3D%3D) | 
-| 第41期王位戦3回戦 | Heo Yongho | Park Yeonghun | W+R | 2007-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=drI5DU3AhW%2B3lrKKqZWkzQ%3D%3D) | 
-| 第18期棋聖戦（韓国）挑戦手合三番勝負第2局 | Choi Cheolhan | Park Yeonghun | W+3.5 | 2007-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eZ09QrWoBm0VbLVRq7HcyQ%3D%3D) | 
-| 第41期王位戦2回戦 | Park Yeonghun | Hong Seongji | B+R | 2007-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FLFdEKOK46M%2BLyqco%2FCQ6A%3D%3D) | 
-| 第12期GSカルテックス杯プロ棋戦リーグ | On Sojin | Park Yeonghun | W+R | 2007-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y8GxA0FaQlKxDmHSBfRAQA%3D%3D) | 
-| 第41期王位戦1回戦 | An Joyeong | Park Yeonghun | W+2.5 | 2007-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A8jRa2aECwN3bwA5hDHR1w%3D%3D) | 
-| 第18期棋聖戦（韓国）挑戦手合三番勝負第1局 | Park Yeonghun | Choi Cheolhan | B+R | 2007-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KLRqmMtkmafjz6Wgr3Lokg%3D%3D) | 
-| 第8回農心辛ラーメン杯世界囲碁最強戦第12戦 | Park Yeonghun | Kong Jie | W+R | 2007-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g2TxY9opuJDuutk4pfqB3g%3D%3D) | 
-| 第8回農心辛ラーメン杯世界囲碁最強戦第11戦 | Yoda Norimoto | Park Yeonghun | W+1.5 | 2007-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pQJpEDQPohhmpqUE%2Bg6wKw%3D%3D) | 
-| 第2期圓益杯十段戦4回戦 | Park Yeonghun | Paek Hongseok | W+R | 2007-01-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OCqGojhVA2pJE5717Dw%2Fqw%3D%3D) | 
-| 第8回農心辛ラーメン杯世界囲碁最強戦第10戦 | Park Yeonghun | Chen Yaoye | B+2.5 | 2006-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pYEkHAeYWGaZ%2BFEesA9fmw%3D%3D) | 
-| 第8回農心辛ラーメン杯世界囲碁最強戦第9戦 | Park Yeonghun | Takao Shinji | B+2.5 | 2006-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9k8ebko4C3ozcEnj7%2Bys9w%3D%3D) | 
-| 第8回農心辛ラーメン杯世界囲碁最強戦第8戦 | Park Yeonghun | Peng Quan | B+1.5 | 2006-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mt6iGg7eOfSn%2B7OS7CaQZg%3D%3D) | 
-| 2006年韓国囲碁リーグ | Cho Hunhyun | Park Yeonghun | B+R | 2006-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3uweVbfasm%2FVrX98xaObKQ%3D%3D) | 
-| 第50期国手戦（韓国）挑戦者決定戦第2局 | Yun Junsang | Park Yeonghun | B+R | 2006-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3CiAuBgihZDMP79m%2BHF67g%3D%3D) | 
-| 2006年韓国囲碁リーグ | Park Yeonghun | Ko Keuntae | B+1.5 | 2006-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XgY6P5ZjLHjW2jgzGxQo5g%3D%3D) | 
-| 第50期国手戦（韓国）挑戦者決定戦第1局 | Park Yeonghun | Yun Junsang | W+1.5 | 2006-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xCpknuqNrFiSd%2BpcE7Pt9Q%3D%3D) | 
-| 第8回マキシムコーヒー杯入神最強戦2回戦 | Rui Naiwei | Park Yeonghun | W+R | 2006-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9I7svbawT1rgGdtwocoMrA%3D%3D) | 
-| 2006年韓国囲碁リーグ | Hong Minpyo | Park Yeonghun | B+R | 2006-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nGhv%2FZ2Zpf%2FjwTXnRrhPhA%3D%3D) | 
-| 第50期国手戦（韓国）準決勝 | Weon Seongjin | Park Yeonghun | W+2.5 | 2006-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=33mOfINGxb%2FhTy5tiyA6vg%3D%3D) | 
-| 第11期GSカルテックス杯プロ棋戦リーグ | Park Yeonghun | Park Cheongsang | W+R | 2006-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nEa3aIlNVg2TNZM5%2BiMh9w%3D%3D) | 
-| 2006年韓国囲碁リーグ | Kim Jiseok | Park Yeonghun | B+R | 2006-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M%2FLdUp%2FEZqrPkzp%2BolHmPQ%3D%3D) | 
-| 第8回マキシムコーヒー杯入神最強戦1回戦 | Park Yeonghun | No Yeongha | B+R | 2006-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FKVthmC0VUYalvHh7DTyyw%3D%3D) | 
-| 第11期GSカルテックス杯プロ棋戦リーグ | On Sojin | Park Yeonghun | W+6.5 | 2006-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jGlnJN9I1GthiZ0HWY1ADQ%3D%3D) | 
-| 第50期国手戦（韓国）2回戦 | Park Yeonghun | missing | B+R | 2006-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vbLMWJZtBO4qbagpunlTlA%3D%3D) | 
-| 2006年韓国囲碁リーグ | Park Yeonghun | Mok Jinseok | B+0.5 | 2006-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SXaE0efWW0wAHvHEO1FLqg%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権2回戦 | Chang Hao | Park Yeonghun | B+R | 2006-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gxOAtApUnddZ9Z2RBeq%2BtQ%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権1回戦 | Rui Naiwei | Park Yeonghun | W+R | 2006-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ehxqxFFYzF0ycE2HEr2qLg%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦準決勝 | Cho U | Park Yeonghun | B+R | 2006-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VAS11jfXNbGDI4%2BY3BJeMw%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦3回戦 | Chang Hao | Park Yeonghun | W+R | 2006-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BDccqGnn2M8p2sX3SheW2g%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | missing | Park Yeonghun | W+R | 2006-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q2eXBt9wJWtNDcOUXYkUZQ%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Seto Taiki | Park Yeonghun | W+R | 2006-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lqQhuNvxMNETckeGe%2BawHA%3D%3D) | 
-| 第11期GSカルテックス杯プロ棋戦リーグ | Park Yeonghun | Lee Sedol | W+1.5 | 2006-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Me1zGNjMi7XmobuwRVDwoQ%3D%3D) | 
-| 2006年韓国囲碁リーグ | Kim Seonryong | Park Yeonghun | W+1.5 | 2006-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EDIc1fqWrRRoZfJ05Ynzxw%3D%3D) | 
-| 第11期GSカルテックス杯プロ棋戦リーグ | Kim Seungjun | Park Yeonghun | W+R | 2006-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2C23sh40ZT5aG8%2FdLM8Fog%3D%3D) | 
-| 2006年韓国囲碁リーグ | Oh Kyuchul | Park Yeonghun | W+R | 2006-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wd%2F7vWphcvTz9tMrqzio0g%3D%3D) | 
-| 第8回農心杯韓国選抜戦 | Jin Donggyu | Park Yeonghun | W+R | 2006-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jgRI5IwwWLtIihcvWqgoEQ%3D%3D) | 
-| 第8回農心杯韓国選抜戦 | Ko Keuntae | Park Yeonghun | W+R | 2006-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XrvBIXS0Nwag2c3BJcjeRw%3D%3D) | 
-| 2006年韓国囲碁リーグ | An Joyeong | Park Yeonghun | B+R | 2006-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V16Nt7W34FC65Ya0XfUEyg%3D%3D) | 
-| 第2期物価情報杯プロ棋戦決勝トーナメント1回戦 | Park Yeonghun | Choi Wongyong | W+R | 2006-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mOB13%2B9douBJ6W%2FeGiPe3g%3D%3D) | 
-| 第11期GSカルテックス杯プロ棋戦リーグ | Lee Changho | Park Yeonghun | B+R | 2006-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VxU%2FjqeL%2B%2Bthw97VmpWOhQ%3D%3D) | 
-| 2006年韓国囲碁リーグ | Park Yeonghun | Choi Cheolhan | W+R | 2006-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9efz8VVtNexrm%2FmWeGbKRw%3D%3D) | 
-| 2006年韓国囲碁リーグ | Park Yeonghun | Cho Hanseung | B+7.5 | 2006-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HFSLa%2FgcNPU%2BIVD1FyUPGA%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯3回戦 | Zhou Heyang | Park Yeonghun | B+0.5 | 2006-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9x40jUxAETkhtuHE74QKMg%3D%3D) | 
-| 第2期物価情報杯プロ棋戦リーグA | Park Yeonghun | Kang Dongyun | W+1.5 | 2006-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HCHQJxKJNMYol5Ld5erq3w%3D%3D) | 
-| 2006年韓国囲碁リーグ | Kim Seonryong | Park Yeonghun | B+2.5 | 2006-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uZv3eqyiU6Fs3tXht3zHDg%3D%3D) | 
-| 第50期国手戦（韓国）1回戦 | Park Yeonghun | Han Chongjin | B+R | 2006-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SpjfGV%2BmuZ6bXU4BAvBCYw%3D%3D) | 
-| 第2期物価情報杯プロ棋戦リーグA | Park Yeonghun | Kim Myeongwan | B+R | 2006-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yr3aFe5JePh4rsP503NROQ%3D%3D) | 
-| 第11回LG杯世界棋王戦1回戦 | Park Yeonghun | Gu Li | W+R | 2006-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D4xDOQnhMRhBOZ5LSTmQAQ%3D%3D) | 
-| 第40期王位戦3回戦 | Seo Musang | Park Yeonghun | B+2.5 | 2006-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vWOECDX%2Bw4hIXTuLVEEWxQ%3D%3D) | 
-| 2006年韓国囲碁リーグ | Park Yeonghun | missing | B+R | 2006-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rtmukUMqEKed%2BmP83WXZwQ%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第3戦 | Ding Wei | Park Yeonghun | W+0.5 | 2006-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rXs0pWAp07DS7kEnahhLbw%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第2戦 | O Rissei | Park Yeonghun | W+R | 2006-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HPEMGeoOaF23y0w2RrJU2w%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第1戦 | Park Yeonghun | Yamashita Keigo | B+R | 2006-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jVdDevx7HWCPaqqpfoz1Zw%3D%3D) | 
-| 2006年韓国囲碁リーグ | Ko Keuntae | Park Yeonghun | B+2.5 | 2006-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kT0oJnWLCD9mbUSxjAQt%2BQ%3D%3D) | 
-| 第2期物価情報杯プロ棋戦リーグA | Jeong Daesang | Park Yeonghun | W+9.5 | 2006-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vDLxpEywXrs%2FGWkeLPjfVA%3D%3D) | 
-| 第17期棋聖戦（韓国）挑戦手合五番勝負第3局 | Park Yeonghun | An Joyeong | B+R | 2006-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eBXxi7gIGTJtga5ZelzrmQ%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯2回戦 | Luo Xihe | Park Yeonghun | W+R | 2006-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hpjFQ1tOyhS6luDlQdj5xw%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯1回戦 | Park Yeonghun | Yamashiro Hiroshi | B+R | 2006-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kA1kfxG0K8is2bvaGbn7CA%3D%3D) | 
-| 第11期GSカルテックス杯プロ棋戦リーグ | Cho Hanseung | Park Yeonghun | W+R | 2006-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MCOmUH2ffFKbtMbdpRzk6A%3D%3D) | 
-| 第40期王位戦2回戦 | Paek Hongseok | Park Yeonghun | W+R | 2006-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1oHA3Nw9J8hUEUVEyXh6HQ%3D%3D) | 
-| 第17期棋聖戦（韓国）挑戦手合五番勝負第2局 | An Joyeong | Park Yeonghun | W+R | 2006-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nd0wToz%2BICu7aS2siNII4w%3D%3D) | 
-| 第17期棋聖戦（韓国）挑戦手合五番勝負第1局 | Park Yeonghun | An Joyeong | B+2.5 | 2006-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qbrphv%2FPPp6GJSz9m3D8Iw%3D%3D) | 
-| 第6回春蘭杯世界囲碁選手権1回戦 | Chen Yaoye | Park Yeonghun | B+1.5 | 2006-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cZWg3tAGMMrSwCh5OUGA5Q%3D%3D) | 
-| 第7回マキシムコーヒー杯入神最強戦準決勝 | Park Yeonghun | Choi Cheolhan | W+1.5 | 2006-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RpmVWHCNS0j92OADgFai3g%3D%3D) | 
-| 第7回マキシムコーヒー杯入神最強戦3回戦 | Park Yeonghun | Jeong Daesang | B+R | 2006-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9ZFqYB5GN8nRCiSz1FaaQg%3D%3D) | 
-| 第1期圓益杯十段戦決勝三番勝負第3局 | Park Yeonghun | Lee Changho | W+R | 2006-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TAiyJsktihoBjCcXGi9%2Fbg%3D%3D) | 
-| 第1期圓益杯十段戦決勝三番勝負第2局 | Lee Changho | Park Yeonghun | W+R | 2006-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hhSmsYQRkuzuXvU%2BonaX%2FA%3D%3D) | 
-| 第1期圓益杯十段戦決勝三番勝負第1局 | Park Yeonghun | Lee Changho | W+1.5 | 2006-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6QnKbnnCY%2BuZqZIOwXpa3A%3D%3D) | 
-| 第25回KBS杯囲碁王戦本戦1回戦 | missing | Park Yeonghun | B+R | 2006-01-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dlpFAeSQZjG9Xcy5Id3Khg%3D%3D) | 
-| 第7回マキシムコーヒー杯入神最強戦2回戦 | An Joyeong | Park Yeonghun | W+R | 2005-12-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EnsZLsK1191i0ojTzQDg6A%3D%3D) | 
-| 2005年韓国囲碁リーグ優勝決定戦 | Park Yeonghun | Choi Cheolhan | B+R | 2005-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mq4z8GpNdQGSeFbFzNSxEg%3D%3D) | 
-| 2005年韓国囲碁リーグ優勝決定戦 | Park Yeonghun | Choi Cheolhan | B+R | 2005-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aW41NtN9qnzrlVJx85xRZQ%3D%3D) | 
-| 2005年韓国囲碁リーグ | Song Taekon | Park Yeonghun | W+3.5 | 2005-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9joineuV4wwprTmA8CTDIw%3D%3D) | 
-| 第7回マキシムコーヒー杯入神最強戦1回戦 | Park Yeonghun | Chang Suyeong | B+R | 2005-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9CfKyr%2BmzJO1kAb6shhoJg%3D%3D) | 
-| 第1期圓益杯十段戦準決勝 | Park Yeonghun | Song Taekon | B+R | 2005-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hYnMTXRZ7KC4ziU6OaqurQ%3D%3D) | 
-| 第1期圓益杯十段戦3回戦 | Park Yeonghun | Lee Sedol | B+0.5 | 2005-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L6hFM5PGb6x2KefnmXwqZg%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第3戦 | Park Yeonghun | Kong Jie | B+R | 2005-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ytuWO97a8ueA7WRclH6FvQ%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第2戦 | Zhou Junxun | Park Yeonghun | W+4.5 | 2005-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VyDGXPkmYeZawch4Rze0wQ%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第1戦 | Park Yeonghun | Hane Naoki | B+R | 2005-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ui7C79leKln5%2BTGRBaaykw%3D%3D) | 
-| 第1期物価情報杯プロ棋戦決勝三番勝負第2局 | Park Yeonghun | Lee Changho | B+4.5 | 2005-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ib1ubekZI79jQZp%2FIlp1nw%3D%3D) | 
-| 第1期圓益杯十段戦2回戦 | Lee Jaeung | Park Yeonghun | W+13.5 | 2005-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g9GpFCJbg%2FAHHKxGOnE6Pg%3D%3D) | 
-| 第1期物価情報杯プロ棋戦決勝三番勝負第1局 | Lee Changho | Park Yeonghun | W+2.5 | 2005-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7GAn7iv47sd4D7Pxbp%2F%2BLA%3D%3D) | 
-| 2005年韓国囲碁リーグ | Park Yeonghun | Lee Sedol | B+R | 2005-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C%2FfIqUL1YTPinvu%2Bmffodg%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権1回戦 | Hu Yaoyu | Park Yeonghun | B+R | 2005-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e6Hg99EFix%2Fp1r18y5D42Q%3D%3D) | 
-| 2005年韓国囲碁リーグ | Mok Jinseok | Park Yeonghun | W+9.5 | 2005-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7zJUx%2F55VsI3ECUlBUjFyw%3D%3D) | 
-| 第10期バッカス杯天元戦2回戦 | missing | Park Yeonghun | B+0.5 | 2005-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B8Po8PNc9ZPmn0qoQQ0sNw%3D%3D) | 
-| 第1期圓益杯十段戦1回戦 | Lee Hyeonwuk | Park Yeonghun | W+R | 2005-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oEOydKRmpNYu7aj78Wr0Kw%3D%3D) | 
-| 第24回KBS杯囲碁王戦敗者復活戦準決勝 | Park Yeonghun | Park Cheongsang | B+R | 2005-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NhvlnWOBiM9tATTNhW%2BUYw%3D%3D) | 
-| 第24回KBS杯囲碁王戦敗者復活戦決勝 | Yoo Changhyuk | Park Yeonghun | B+R | 2005-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eiABNqmqfnMh3fCsB7DibA%3D%3D) | 
-| 第10期GSカルテックス杯プロ棋戦準決勝 | Choi Cheolhan | Park Yeonghun | B+R | 2005-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pqvadVm4INml98mcW97HUg%3D%3D) | 
-| 第2回中環杯世界囲碁選手権1回戦 | O Rissei | Park Yeonghun | B+R | 2005-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hE9e0SwVbWW3LIGrjZ1Jkg%3D%3D) | 
-| 第1期物価情報杯プロ棋戦決勝トーナメント準決勝 | Choi Cheolhan | Park Yeonghun | W+R | 2005-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hpjfvavu5dLCNutqBzrL2Q%3D%3D) | 
-| 第24回KBS杯囲碁王戦敗者復活戦4回戦 | Lee Yeongkyu | Park Yeonghun | W+R | 2005-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vGF4NueoTWpt74dsjiZvmg%3D%3D) | 
-| 第24回KBS杯囲碁王戦敗者復活戦3回戦 | Park Yeonghun | Cho Hunhyun | B+1.5 | 2005-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tzDNCQtUVis88Fq0v77J3Q%3D%3D) | 
-| 2005年韓国囲碁リーグ | Park Yeonghun | Lee Changho | B+2.5 | 2005-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iFbGqzIuNXCigKt2CK%2BwBg%3D%3D) | 
-| 2005年韓国囲碁リーグ | Park Yeonghun | Yoo Changhyuk | B+5.5 | 2005-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r0LgF%2BPx%2BuujZBid2HKKbQ%3D%3D) | 
-| 第10期GSカルテックス杯プロ棋戦2回戦 | Kang Jiseong | Park Yeonghun | W+R | 2005-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IaP8qcaUzk4ktEqOA%2Buo6g%3D%3D) | 
-| 第1期物価情報杯プロ棋戦リーグD | Park Yeonghun | Cho Hunhyun | W+R | 2005-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2SWkMHSbVj0X304B7AiVmQ%3D%3D) | 
-| 第1期物価情報杯プロ棋戦リーグD | Park Yeonghun | Lee Huiseong | B+R | 2005-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=caCYezNX0o0FyKaOLO7zjw%3D%3D) | 
-| 第1期物価情報杯プロ棋戦リーグD | Yang Keon | Park Yeonghun | W+R | 2005-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dQgv3%2F4pDdldIihgOMPHDg%3D%3D) | 
-| 第10期バッカス杯天元戦1回戦 | Park Yeonghun | Paek Hongseok | B+R | 2005-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PIkS6MCHHSX38q6CkW0IrQ%3D%3D) | 
-| 2005年韓国囲碁リーグ | Park Yeonghun | Choi Cheolhan | B+10.5 | 2005-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rVX7%2B2f2rieK470lIIW%2BOA%3D%3D) | 
-| 第24回KBS杯囲碁王戦本戦3回戦 | Park Yeonghun | Lee Yeongkyu | W+R | 2005-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oysl4Zf5JNIyEckeusIEww%3D%3D) | 
-| 第10期GSカルテックス杯プロ棋戦1回戦 | Park Yeonghun | Yun Junsang | B+R | 2005-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T8Q5R0378%2FYUKxLw0uutGQ%3D%3D) | 
-| 2005年韓国囲碁リーグ | Park Yeonghun | Cho Hunhyun | B+8.5 | 2005-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nTG06dqihAfZDnR2kgrS6A%3D%3D) | 
-| 第8回中韓新人王対抗戦三番勝負第3局 | Park Yeonghun | Gu Li | W+R | 2005-05-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1kNQsqQGclsd3sAUKkPdVw%3D%3D) | 
-| 第8回中韓新人王対抗戦三番勝負第2局 | Gu Li | Park Yeonghun | B+1.5 | 2005-05-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=txG0P1WLdYG1qJV3w7rIaA%3D%3D) | 
-| 第8回中韓新人王対抗戦三番勝負第1局 | Park Yeonghun | Gu Li | B+3.5 | 2005-05-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u7rspF4iZJWhojSJwDhN%2Bg%3D%3D) | 
-| 第10回LG杯世界棋王戦2回戦 | Park Yeonghun | Qiu Jun | W+R | 2005-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9QyXJPmvqq6nqUv89EyThQ%3D%3D) | 
-| 第10回LG杯世界棋王戦1回戦 | Liu Shizhen | Park Yeonghun | W+R | 2005-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F92hB%2ByhyG9%2FHwFc5gckSA%3D%3D) | 
-| 第1回日月星杯中韓囲碁対抗戦第4戦 | Park Yeonghun | Wang Lei (b) | W+R | 2005-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ia%2Bzkny2v8mch9dR6%2FZIkQ%3D%3D) | 
-| 第1回日月星杯中韓囲碁対抗戦第3戦 | Zhou Heyang | Park Yeonghun | B+R | 2005-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SvZuZRl1Fndh36XzHW4Rbw%3D%3D) | 
-| 第16期棋聖戦（韓国）挑戦手合五番勝負第5局 | Choi Cheolhan | Park Yeonghun | W+0.5 | 2005-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5m2KgCO%2FV6B4hqdvPeXh4Q%3D%3D) | 
-| 第15期BCカード杯新人王戦決勝三番勝負第3局 | Park Yeonghun | Kim Donghee | B+R | 2005-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gZAlqSVsfnDo5OSBHFry2w%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第3戦 | Park Yeonghun | Kong Jie | W+R | 2005-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jans7iIfgvNxy0PZnRxWKg%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第2戦 | Park Yeonghun | Takao Shinji | B+3.5 | 2005-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UvKMu%2F%2FQZYbh4Go79TvAAA%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第1戦 | Park Yeonghun | Zhou Junxun | B+1.5 | 2005-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gJKxaWKVQeNO2LDSWrH2Ow%3D%3D) | 
-| 第15期BCカード杯新人王戦決勝三番勝負第2局 | Park Yeonghun | Kim Donghee | B+4.5 | 2005-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LDL7lDi0am3ocbuzEAnEpQ%3D%3D) | 
-| 第16期棋聖戦（韓国）挑戦手合五番勝負第4局 | Choi Cheolhan | Park Yeonghun | B+R | 2005-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tLbGCWdDpjuycCaJ8crmuA%3D%3D) | 
-| 第15期BCカード杯新人王戦決勝三番勝負第1局 | Kim Donghee | Park Yeonghun | B+0.5 | 2005-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fRxDyDmoPUbHZmEOOtBa9w%3D%3D) | 
-| 第15期BCカード杯新人王戦 | Cho Hyeyeon | Park Yeonghun | W+R | 2005-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VqOoV%2Fv6f0sJCBkoo47u0g%3D%3D) | 
-| 第18回世界囲碁選手権富士通杯2回戦 | O Meien | Park Yeonghun | B+R | 2005-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0SvJxOkxkwczULkUQ756Pw%3D%3D) | 
-| 第16期棋聖戦（韓国）挑戦手合五番勝負第3局 | Park Yeonghun | Choi Cheolhan | W+R | 2005-03-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cNJ8g95GDUZXjcjWygd72A%3D%3D) | 
-| 第16期棋聖戦（韓国）挑戦手合五番勝負第2局 | Choi Cheolhan | Park Yeonghun | W+R | 2005-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zfY8kly9gHZvyFc1x8bX5A%3D%3D) | 
-| 第24回KBS杯囲碁王戦本戦2回戦 | Park Yeonghun | Park Cheongsang | B+4.5 | 2005-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OKqKK3ekaOuXrX9ln5vOvw%3D%3D) | 
-| 第15期BCカード杯新人王戦 | Park Yeonghun | Ko Keuntae | B+1.5 | 2005-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N%2BN%2B93%2BJDo%2FZjy3NbOocJw%3D%3D) | 
-| 第16期棋聖戦（韓国）挑戦手合五番勝負第1局 | Park Yeonghun | Choi Cheolhan | B+1.5 | 2005-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k7V1Tr9%2B%2BDWC0P%2BIXfGqFg%3D%3D) | 
-| 第15期BCカード杯新人王戦 | Heo Yongho | Park Yeonghun | B+R | 2005-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o%2Fg7EWH0TDVZPnSSjroMEw%3D%3D) | 
-| 第15期BCカード杯新人王戦 | missing | Park Yeonghun | W+R | 2005-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w%2Bkqk6i%2F9ZFqLsNbYOG4Xw%3D%3D) | 
-| 第1回日月星杯中韓囲碁対抗戦第2戦 | Wang Xi | Park Yeonghun | W+6.5 | 2005-02-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FkR1ZCOHz67H2vGsHZ5C3g%3D%3D) | 
-| 第1回日月星杯中韓囲碁対抗戦第1戦 | Hu Yaoyu | Park Yeonghun | B+R | 2005-02-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cahsMU04OPKbAgCPGEUaIQ%3D%3D) | 
-| 第16期棋聖戦（韓国）挑戦者決定戦三番勝負第2局 | Kim Seungjun | Park Yeonghun | W+R | 2005-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=isXB26nQbS1XeqXWHCAV%2Bg%3D%3D) | 
-| 第15期BCカード杯新人王戦 | Cho Hanseung | Park Yeonghun | W+3.5 | 2005-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KC6371aXGKOerabUxZNOuQ%3D%3D) | 
-| 第1回中環杯世界囲碁選手権決勝 | O Rissei | Park Yeonghun | W+R | 2005-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n7w1gCv8%2FwNjAYyWJ0cT5w%3D%3D) | 
-| 第1回中環杯世界囲碁選手権準決勝 | Park Yeonghun | Yamashita Keigo | B+R | 2005-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mcGm0tv%2F4RS308j8EDBcPw%3D%3D) | 
-| 第6回マキシムコーヒー杯入神最強戦準決勝 | Park Yeonghun | Lee Sedol | W+R | 2005-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ap8Z%2BnJgvNsMh2jxE03Znw%3D%3D) | 
-| 第16期棋聖戦（韓国）挑戦者決定戦三番勝負第1局 | Park Yeonghun | Kim Seungjun | B+R | 2005-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FV7SkosDtopiun5ORxpAcA%3D%3D) | 
-| 第16期棋聖戦（韓国）準決勝 | Park Yeonghun | Song Taekon | B+1.5 | 2005-01-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wHq0ZJuaRPvJSfDtLdMk%2FA%3D%3D) | 
-| 第6回マキシムコーヒー杯入神最強戦3回戦 | Seo Nungwuk | Park Yeonghun | W+7.5 | 2004-12-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H4PJBjA9svDFw5CbaFuD9Q%3D%3D) | 
-| 第15期BCカード杯新人王戦 | Park Cheongsang | Park Yeonghun | W+8.5 | 2004-12-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CliMbGKo6WCmNpvQadsGvw%3D%3D) | 
-| 2004年韓国囲碁リーグ | Yoo Changhyuk | Park Yeonghun | B+R | 2004-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tmeHW3Ra5MnrQqE0AmW7WQ%3D%3D) | 
-| 第16期棋聖戦（韓国）2回戦 | Park Yeonghun | Mok Jinseok | B+R | 2004-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eH1qRL3laVUy6FfaOij%2FNQ%3D%3D) | 
-| 2004年韓国囲碁リーグ | Park Yeonghun | Cho Hunhyun | W+3.5 | 2004-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5iSIGIKL47I7KwgBZKoKXg%3D%3D) | 
-| 第9期LG精油杯プロ棋戦決勝五番勝負第3局 | Lee Changho | Park Yeonghun | B+2.5 | 2004-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FdMFUh7pifTaDZHg6s7Uzg%3D%3D) | 
-| 第9期LG精油杯プロ棋戦決勝五番勝負第2局 | Park Yeonghun | Lee Changho | W+0.5 | 2004-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d6IGbaGs%2Bzx3nAhWgFANpQ%3D%3D) | 
-| 第6回マキシムコーヒー杯入神最強戦2回戦 | Park Yeonghun | No Yeongha | B+R | 2004-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=saugoWuhawkDRA8c4gzvTg%3D%3D) | 
-| 第9期LG精油杯プロ棋戦決勝五番勝負第1局 | Lee Changho | Park Yeonghun | B+R | 2004-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nEFmLf9IDb%2B1HHd%2F9gfxgQ%3D%3D) | 
-| 2004年韓国囲碁リーグ | Choi Cheolhan | Park Yeonghun | B+R | 2004-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aEGOSoMVKjn94cYQgY4xyg%3D%3D) | 
-| 第9回三星火災杯世界オープン囲碁選手権3回戦 | Zhou Heyang | Park Yeonghun | B+R | 2004-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TB%2FH7CGdOc9BWpfbPpaP4A%3D%3D) | 
-| 第9期LG精油杯プロ棋戦準決勝 | Kim Juho | Park Yeonghun | W+R | 2004-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=De%2FwzEpd7LISWKuVB0Zy6w%3D%3D) | 
-| 第1回中環杯世界囲碁選手権2回戦 | Park Yeonghun | O Meien | B+1.5 | 2004-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ofbrEclDWE9EbQJMGdIrJA%3D%3D) | 
-| 第1回中環杯世界囲碁選手権1回戦 | Zhou Junxun | Park Yeonghun | W+4.5 | 2004-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qzSoTznLWXIW2J7h4jpOCQ%3D%3D) | 
-| 第16期棋聖戦（韓国）1回戦 | Park Yeonghun | Choi Wongyong | B+0.5 | 2004-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zMG3glRa4YSS6Bb%2FFsl4lA%3D%3D) | 
-| 2004年韓国囲碁リーグ | Lee Changho | Park Yeonghun | B+R | 2004-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7DtW0b%2BVjhl5FpZqJfqgRg%3D%3D) | 
-| 第9回三星火災杯世界オープン囲碁選手権2回戦 | Park Yeonghun | Ma Xiaochun | B+R | 2004-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JrIIkyBWnufZ8tK085nG5Q%3D%3D) | 
-| 第9回三星火災杯世界オープン囲碁選手権1回戦 | Yamashita Keigo | Park Yeonghun | W+R | 2004-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XWB6iWWKkTSik0cyjUlWbg%3D%3D) | 
-| 第9期LG精油杯プロ棋戦2回戦 | Park Yeonghun | Lee Huiseong | B+R | 2004-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v66A%2FWK%2F%2FVEpvXAGLyBn2w%3D%3D) | 
-| 2004年韓国囲碁リーグ | Park Yeonghun | Lee Sedol | W+R | 2004-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kxO9lFfN1OdoH71ABXwWLQ%3D%3D) | 
-| 第4期オスラムコリア杯新鋭連勝最強戦 | Lee Huiseong | Park Yeonghun | B+R | 2004-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=at%2B7qIYgUbRz3XbrtyYZaQ%3D%3D) | 
-| 第1期電子ランド杯王中王戦1回戦 | Song Taekon | Park Yeonghun | B+R | 2004-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5U6jpv%2FHk9eHcV%2Bcw%2BNcnA%3D%3D) | 
-| 2004年韓国囲碁リーグ | Park Yeonghun | Song Taekon | W+R | 2004-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p8ujSPxmWRjIxMz%2FCAyd6Q%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯決勝 | Park Yeonghun | Yoda Norimoto | B+1.5 | 2004-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m14E0JfNnu07qaS2HyQNHQ%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯準決勝 | Yoo Changhyuk | Park Yeonghun | W+R | 2004-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4KwiLIC%2Blh7gSQFZii8vog%3D%3D) | 
-| 2004年韓国囲碁リーグ | Park Yeonghun | Mok Jinseok | B+R | 2004-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kIlz93G4PEixIZwfryFBFw%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯3回戦 | Cho U | Park Yeonghun | W+R | 2004-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C1fSqscMpa%2Fw8N0dkYr5YA%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯2回戦 | Park Yeonghun | Yamashita Keigo | B+5.5 | 2004-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mcfG%2BC9HMpMpEWC64nTYgg%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯1回戦 | Yuki Satoshi | Park Yeonghun | W+1.5 | 2004-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xpknVfDZnpni1Be3mJCkUA%3D%3D) | 
-| 第9期LG精油杯プロ棋戦1回戦 | Choi Wongyong | Park Yeonghun | W+2.5 | 2004-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=quUVZfft3%2FrFFHavJfBiTA%3D%3D) | 
-| 2003年国際新鋭囲碁対抗戦第3戦 | Hu Yaoyu | Park Yeonghun | W+R | 2003-12-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9BhZ%2BcF2l204VyDW0VWxCw%3D%3D) | 
-| 2003年国際新鋭囲碁対抗戦第1戦 | Cho Riyu | Park Yeonghun | W+R | 2003-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cWtI68fVhMtl8QR18yMHaQ%3D%3D) | 
-| 第15期棋聖戦（韓国）2回戦 | Park Yeonghun | Mok Jinseok | W+R | 2003-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cq9gPTqePBnWs4FHPwTglw%3D%3D) | 
-| 第8期三星杯決勝三番勝負第3局 | Park Yeonghun | Cho Chikun | W+R | 2003-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FnIHXahSVwmp9ZyTDA9DwQ%3D%3D) | 
-| 第8期三星杯決勝三番勝負第2局 | Park Yeonghun | Cho Chikun | W+R | 2003-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FRa624%2BC3pBdmgXm6wgq2g%3D%3D) | 
-| 第8期三星杯決勝三番勝負第1局 | Cho Chikun | Park Yeonghun | W+4.5 | 2003-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KkNyVV9RDkxAJ3VWeR3%2Faw%3D%3D) | 
-| 第1回韓国ドリームリーグ | Park Yeonghun | Yoo Changhyuk | W+3.5 | 2003-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lHBy5vUoOeue6NlXS24Dow%3D%3D) | 
-| 第14期BCカード杯新人王戦 | Choi Wongyong | Park Yeonghun | B+1.5 | 2003-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LPKiw6LPn9bOC7Cur28o7w%3D%3D) | 
-| 第14期BCカード杯新人王戦 | Park Yeonghun | An Joyeong | B+3.5 | 2003-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S9nSOdOCQrUpePyNFpWziA%3D%3D) | 
-| 第8期三星杯準決勝三番勝負第2局 | Park Yeonghun | Xie He | B+0.5 | 2003-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qWMVJm8yytrwTPA1tq%2FfSA%3D%3D) | 
-| 第8期三星杯準決勝三番勝負第1局 | Xie He | Park Yeonghun | W+3.5 | 2003-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=waAO362G708%2FlZmtVQ%2FtEg%3D%3D) | 
-| 第1回韓国ドリームリーグ | Lee Changho | Park Yeonghun | B+R | 2003-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0N%2BoEr8Vliuw0WZTooLiSw%3D%3D) | 
-| 第8期三星杯3回戦 | Park Yeonghun | Yamada Kimio | B+R | 2003-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UQClLPUq4jBglCn3AMiZmw%3D%3D) | 
-| 第1回韓国ドリームリーグ | Park Yeonghun | Song Taekon | B+R | 2003-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=buX1eUpfEQSZNyKN%2FthuvQ%3D%3D) | 
-| 第1回韓国ドリームリーグ | Seo Bongsoo | Park Yeonghun | W+R | 2003-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X9C0J4jj0qpEsnJgbGTRig%3D%3D) | 
-| 第3期オスラムコリア杯新鋭連勝最強戦決勝三番勝負第2局 | Song Taekon | Park Yeonghun | B+R | 2003-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QGv6YRskONGp%2FkbcvYvOAQ%3D%3D) | 
-| 第8期三星杯2回戦 | Park Yeonghun | Ding Wei | B+0.5 | 2003-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JdMTYJ39EbK1bs%2BBxA%2Bq6g%3D%3D) | 
-| 第8期三星杯1回戦 | Li Zhe | Park Yeonghun | W+R | 2003-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2TZqL%2Bob04FQn%2FdK%2B8ipSA%3D%3D) | 
-| 第3期オスラムコリア杯新鋭連勝最強戦決勝三番勝負第1局 | Park Yeonghun | Song Taekon | W+R | 2003-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S4oJkPeSUItRqiSngKin6g%3D%3D) | 
-| 第15期棋聖戦（韓国）1回戦 | Yun Junsang | Park Yeonghun | W+2.5 | 2003-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hL2PlivaPZPkxKVBdpETtQ%3D%3D) | 
-| 第1回韓国ドリームリーグ | Cho Hunhyun | Park Yeonghun | B+R | 2003-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oZ5kGK24BbRx80AB0KM3Kw%3D%3D) | 
-| 第3期オスラムコリア杯新鋭連勝最強戦 | Park Yeonghun | Hong Minpyo | B+1.5 | 2003-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J0dvPG80CXwOjOLmBuNfrQ%3D%3D) | 
-| 第8期バッカス杯天元戦2回戦 | Park Yeonghun | Weon Seongjin | W+R | 2003-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rs9oh9gOM8qaJzLZfa004Q%3D%3D) | 
-| 第3回KAT杯韓国囲碁最強戦 | Yoo Changhyuk | Park Yeonghun | B+R | 2003-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4w0TzmptgXa1dM2nJGYuTw%3D%3D) | 
-| 第3回KAT杯韓国囲碁最強戦 | Park Yeonghun | Lee Changho | B+R | 2003-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I6jxwUTT8G4%2BOHR6ZINT0w%3D%3D) | 
-| 第3期オスラムコリア杯新鋭連勝最強戦 | Chen Shiyuan | Park Yeonghun | B+R | 2003-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6L7zMTNH8IhKTIhU%2BjvNzg%3D%3D) | 
-| 第8期LG精油杯プロ棋戦1回戦 | Lee Changho | Park Yeonghun | B+1.5 | 2003-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DYk%2FKAjQWUF6QF9UoJt36A%3D%3D) | 
-| 第3期オスラムコリア杯新鋭連勝最強戦 | Park Yeonghun | missing | B+R | 2003-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0osUhiIBA28xdU9pQv%2F5lg%3D%3D) | 
-| 第3期オスラムコリア杯新鋭連勝最強戦 | Kim Hyeongwan | Park Yeonghun | W+R | 2003-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dZf8B7F0VEtnziQt%2BxisbA%3D%3D) | 
-| 第3期オスラムコリア杯新鋭連勝最強戦 | Park Yeonghun | Lee Yungsoo | B+R | 2003-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CZUL%2BPHGUbXIfR8W61tWwA%3D%3D) | 
-| 第3期オスラムコリア杯新鋭連勝最強戦 | Park Yeonghun | missing | B+R | 2003-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hcVoMJ5OdOAs5jRHN%2Bel3g%3D%3D) | 
-| 第3期オスラムコリア杯新鋭連勝最強戦 | Kim Juho | Park Yeonghun | W+1.5 | 2003-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bB37NYF85vRvEBq1wYYMyQ%3D%3D) | 
-| 第8期バッカス杯天元戦1回戦 | Yoo Changhyuk | Park Yeonghun | W+R | 2003-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B%2B1gxR66uKm4inD3%2FCoqKw%3D%3D) | 
-| 第16回世界囲碁選手権富士通杯2回戦 | Park Yeonghun | Kobayashi Satoru | W+R | 2003-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bCZjKks28XPWVHjYjOyK4w%3D%3D) | 
-| 第22回KBS杯囲碁王戦敗者復活戦1回戦 | Kim Seonryong | Park Yeonghun | B+0.5 | 2003-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Shm%2FKq%2FvO449SS7poKjHIA%3D%3D) | 
-| 第3回KAT杯韓国囲碁最強戦 | Park Yeonghun | Seo Bongsoo | B+R | 2003-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MrahFROgLRKU27JvMi5oLA%3D%3D) | 
-| 第22回KBS杯囲碁王戦本戦2回戦 | Park Yeonghun | missing | W+R | 2003-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nESj5Xg%2FefiufecmGsP1hw%3D%3D) | 
-| 第2期KT杯マスターズプロ棋戦準決勝 | Park Yeonghun | Yoo Changhyuk | W+R | 2003-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wN%2BwIen2Xo6Ujw40itGZlQ%3D%3D) | 
-| 第2期KT杯マスターズプロ棋戦4回戦 | Park Yeonghun | missing | B+6.5 | 2003-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TM8n5avh9H2tBJf3cynIzA%3D%3D) | 
-| 第3回KAT杯韓国囲碁最強戦 | Park Yeonghun | Chang Suyeong | B+R | 2003-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UB8EbrmMhWH3BngxoVV%2FUQ%3D%3D) | 
-| 第37期覇王戦本戦第16局 | Rui Naiwei | Park Yeonghun | B+6.5 | 2003-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cmYmjeWfO9ZoisBTId%2BlgQ%3D%3D) | 
-| 第22回KBS杯囲碁王戦本戦1回戦 | Kim Myeongwan | Park Yeonghun | W+R | 2003-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EYkmB%2FJNqiSkmauQfLFvVQ%3D%3D) | 
-| 第13期BCカード杯新人王戦 | Park Yeonghun | An Younggil | W+R | 2003-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OgArrT2XR9pqW1ytRAswNw%3D%3D) | 
-| 第2期KT杯マスターズプロ棋戦3回戦 | Park Yeonghun | Mok Jinseok | B+1.5 | 2003-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uD0jFLYbZN2X75dDo4zqqg%3D%3D) | 
-| 第13期BCカード杯新人王戦 | Paek Hongseok | Park Yeonghun | W+R | 2002-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LMqPn%2Bi5mSSdDaMWoRxZcg%3D%3D) | 
-| 第2回KAT杯韓国囲碁最強戦 | Yoo Changhyuk | Park Yeonghun | B+1.5 | 2002-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=is%2FWFoYO9w7TPgrjmCSikw%3D%3D) | 
-| 第14期棋聖戦（韓国）準決勝 | Cho Hunhyun | Park Yeonghun | B+4.5 | 2002-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=95KxOsY4gd%2FRmAhN3CnfdA%3D%3D) | 
-| 第4回農心辛ラーメン杯世界囲碁最強戦第5戦 | Park Yeonghun | Kong Jie | W+R | 2002-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fxL5lk2COSdcmeuwJa5ChQ%3D%3D) | 
-| 第2回KAT杯韓国囲碁最強戦 | Cho Daehyeon | Park Yeonghun | W+4.5 | 2002-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y%2B8IOB226P%2FerWq6mQCWzw%3D%3D) | 
-| 第7回LG杯世界棋王戦3回戦 | Park Yeonghun | Lee Sedol | W+R | 2002-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ncjTdrPY3jbgJIKkiJDRpg%3D%3D) | 
-| 第4回農心辛ラーメン杯世界囲碁最強戦第4戦 | Cho U | Park Yeonghun | W+0.5 | 2002-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lCvVUw8m2Px%2BMHn2dDmg8Q%3D%3D) | 
-| 第4回農心辛ラーメン杯世界囲碁最強戦第3戦 | Chang Hao | Park Yeonghun | W+2.5 | 2002-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YkCmLSzxyI8RK6lpdLoXew%3D%3D) | 
-| 第4回農心辛ラーメン杯世界囲碁最強戦第2戦 | O Rissei | Park Yeonghun | W+R | 2002-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ChBuL60ys%2FU8Q6jaRw5DaA%3D%3D) | 
-| 第4回農心辛ラーメン杯世界囲碁最強戦第1戦 | Park Yeonghun | Gu Li | B+R | 2002-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KhrtBwatYjP%2B1Adl2ZDyZA%3D%3D) | 
-| 第14期棋聖戦（韓国）2回戦 | Mok Jinseok | Park Yeonghun | W+R | 2002-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D1otintp5fhzvey%2Fv5cU%2FQ%3D%3D) | 
-| 第2回KAT杯韓国囲碁最強戦 | Lee Changho | Park Yeonghun | B+R | 2002-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zG%2Bi9lBgeFGG1Da1Cugw2A%3D%3D) | 
-| 2002年国際新鋭囲碁対抗戦第3戦 | Park Yeonghun | Gu Li | W+R | 2002-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sF2t6KWMMl90kJJrklVF%2Bg%3D%3D) | 
-| 2002年国際新鋭囲碁対抗戦第2戦 | Mizokami Tomochika | Park Yeonghun | W+6.5 | 2002-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nDRiSd%2BywJI6rNWiO34PtA%3D%3D) | 
-| 第2期KT杯マスターズプロ棋戦2回戦 | Park Yeonghun | Choi Cheolhan | B+1.5 | 2002-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xkp6BzgpbrR5sx280baGqw%3D%3D) | 
-| 第7期LG精油杯プロ棋戦準決勝 | Choi Myeonghun | Park Yeonghun | B+1.5 | 2002-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FyO84lb7pYwAdiUodAXQXg%3D%3D) | 
-| 第7期三星杯2回戦 | Cao Dayuan | Park Yeonghun | B+R | 2002-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=adpTwhAVaLwmSh8ub0Gt%2FQ%3D%3D) | 
-| 第7期三星杯1回戦 | Yu Bin | Park Yeonghun | W+0.5 | 2002-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xx3bTTiL2mzk1dsEkCgHdQ%3D%3D) | 
-| 第6回中韓天元対抗戦第3局 | Huang Yizhong | Park Yeonghun | W+6.5 | 2002-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F8SLpz19FIFysPwf8wpnPQ%3D%3D) | 
-| 第6回中韓天元対抗戦第2局 | Park Yeonghun | Huang Yizhong | W+R | 2002-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hJi4ntf171XCDl1aBNFb3A%3D%3D) | 
-| 第6回中韓天元対抗戦第1局 | Huang Yizhong | Park Yeonghun | W+R | 2002-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GuPV1Acu1xOq7G2UDbuTMg%3D%3D) | 
-| 第7期LG精油杯プロ棋戦2回戦 | Park Yeonghun | Cho Hunhyun | B+R | 2002-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mDsiV8DgNwpvONgvsfsFVw%3D%3D) | 
-| 第14期棋聖戦（韓国）1回戦 | Yang Keon | Park Yeonghun | W+R | 2002-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3n9SaxzztsO0Avaxhp%2FUkg%3D%3D) | 
-| 第7期バッカス杯天元戦2回戦 | Park Yeonghun | Kim Soojang | W+R | 2002-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dlwzpjImzCIY%2F9pEmfnnIw%3D%3D) | 
-| 第4回農心杯韓国選抜戦 | Park Yeonghun | Choi Cheolhan | B+0.5 | 2002-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h7CAgi1vG3Zap%2B5rwJSTYA%3D%3D) | 
-| 第7期バッカス杯天元戦1回戦 | missing | Park Yeonghun | W+R | 2002-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ixWcrSG%2Bjq4SRw5akoAxKA%3D%3D) | 
-| 第1回KAT杯韓国囲碁最強戦 | Lee Sedol | Park Yeonghun | W+R | 2002-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cmGpbj3QBjP2J%2FADCrrTdA%3D%3D) | 
-| 第4回春蘭杯世界囲碁選手権1回戦 | Park Yeonghun | Cho Chikun | W+2.5 | 2002-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QUv1xHb6QkYxTfSkIknmug%3D%3D) | 
-| 第1期KTF杯戦挑戦者決定戦 | Park Yeonghun | Yoo Changhyuk | W+2.5 | 2002-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nk6K7jxx9nxunq97yFWGHQ%3D%3D) | 
-| 第7回LG杯世界棋王戦2回戦 | Park Yeonghun | Ma Xiaochun | B+4.5 | 2002-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F%2BVCVoy4N2OA1mkWHC36vw%3D%3D) | 
-| 第7期LG精油杯プロ棋戦1回戦 | Park Yeonghun | Yoo Changhyuk | B+7.5 | 2002-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BkGSx0fYEBsU5PqHjnK77Q%3D%3D) | 
-| 第1期KTF杯戦 | Park Yeonghun | Choi Cheolhan | B+R | 2002-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AKzJqDImiiF%2FMPI65ZadCQ%3D%3D) | 
-| 第1期KTF杯戦 | Kim Seungjun | Park Yeonghun | W+2.5 | 2002-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qmwh%2Fo9XqvlirCB810yAWQ%3D%3D) | 
-| 第36期覇王戦本戦第16局 | Park Yeonghun | An Joyeong | W+0.5 | 2002-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wIWVNqDqdKN%2FA0xVHamdpg%3D%3D) | 
-| 第1期KTF杯戦 | Park Yeonghun | Lee Huiseong | B+R | 2002-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pBUlVv2OhlhkFtqJLVciJA%3D%3D) | 
-| 第1期KTF杯戦 | Park Yeonghun | Seo Bongsoo | B+R | 2002-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P6Cpk6VRHuX11oK3xwUHJw%3D%3D) | 
-| 第1期KTF杯戦 | Choi Cheolhan | Park Yeonghun | B+R | 2002-01-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S3cBosJI9Fygi8fXYYn9AA%3D%3D) | 
-| 第6期バッカス杯天元戦決勝五番勝負第4局 | Park Yeonghun | missing | B+4.5 | 2001-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BPZYwHE%2FeQUsEanHBtrmYw%3D%3D) | 
-| 第6期バッカス杯天元戦決勝五番勝負第3局 | missing | Park Yeonghun | W+R | 2001-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LW7X5Kg%2FP3e2t7fSRat8HQ%3D%3D) | 
-| 第6期バッカス杯天元戦決勝五番勝負第2局 | Park Yeonghun | missing | W+R | 2001-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BWYGTSXae7UNpHn1Uc9afQ%3D%3D) | 
-| 第1期オスラムコリア杯新鋭連勝最強戦決勝三番勝負第1局 | Park Yeonghun | Lee Sedol | W+R | 2001-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i3YiMybJ2IH6CiBb%2FXSU2w%3D%3D) | 
-| 第6期バッカス杯天元戦決勝五番勝負第1局 | missing | Park Yeonghun | W+1.5 | 2001-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oCDbcuTNjMnLeejfo0gCJw%3D%3D) | 
-| 第1期オスラムコリア杯新鋭連勝最強戦 | Park Yeonghun | An Younggil | B+R | 2001-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ApNurhN%2FXnf3%2BRm05YYDyw%3D%3D) | 
-| 第1期オスラムコリア杯新鋭連勝最強戦 | Park Yeonghun | Weon Seongjin | B+R | 2001-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6QK8TFC0EDUH8Eboawf7cQ%3D%3D) | 
-| 第1期KT杯マスターズプロ棋戦2回戦 | Park Yeonghun | missing | W+0.5 | 2001-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FQcHdTr58z6PR%2FA7yKoabA%3D%3D) | 
-| 第6期バッカス杯天元戦準決勝 | Park Yeonghun | Seo Bongsoo | B+R | 2001-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=62PoTzCFwn9CWCBfYHeTlA%3D%3D) | 
-| 第1期オスラムコリア杯新鋭連勝最強戦 | Kim Kwangsik | Park Yeonghun | W+R | 2001-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4X9Y%2BtjyWfCYuRCZ1JKTQQ%3D%3D) | 
-| 第1期オスラムコリア杯新鋭連勝最強戦 | Park Yeonghun | Han Chongjin | B+R | 2001-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GEkK9IFdFRY44ycUTedEyw%3D%3D) | 
-| 第6期バッカス杯天元戦2回戦 | Jiang Zhujiu | Park Yeonghun | W+2.5 | 2001-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FJ6eHEt5eiALoSp0fk7P1w%3D%3D) | 
-| 第6期バッカス杯天元戦1回戦 | Yoo Changhyuk | Park Yeonghun | W+R | 2001-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5MUMgGw%2Fi0YvHhNiI%2FNvjQ%3D%3D) | 
-| 第6期LG精油杯プロ棋戦1回戦 | Park Yeonghun | Kim Soojang | W+2.5 | 2001-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4ZxAsF3qa%2FuDsC%2B589L7dA%3D%3D) | 
-| 第5期SKガス杯新鋭プロ十傑戦リーグB | missing | Park Yeonghun | W+R | 2001-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M2UFj0MRkpz6j2G%2FtSloww%3D%3D) | 
-| 第5期SKガス杯新鋭プロ十傑戦リーグB | Lee Sedol | Park Yeonghun | B+R | 2001-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vwetM4TcvfvrW1o5eDweog%3D%3D) | 
-| 第8期倍達王戦挑戦者決定戦第3局 | Lee Sedol | Park Yeonghun | B+R | 2000-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JfjpXd9om1rP4aQ8jwDPTA%3D%3D) | 
-| 第8期倍達王戦挑戦者決定戦第2局 | Park Yeonghun | Lee Sedol | B+10.5 | 2000-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kCd5l35pMOr1aKlawCJwxw%3D%3D) | 
-| 第8期倍達王戦挑戦者決定戦第1局 | Lee Sedol | Park Yeonghun | B+R | 2000-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=10HE9s%2BTaFqclaDeE89SFw%3D%3D) | 
-| 第8期倍達王戦準決勝 | Park Yeonghun | Lee Huiseong | B+R | 2000-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I2At6Dav%2FmKqUVCe0NzmkQ%3D%3D) | 
-| 第8期倍達王戦2回戦 | Jiang Zhujiu | Park Yeonghun | W+3.5 | 2000-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kmCTWN9%2BR0FW7P74Hsa6uA%3D%3D) | 
-| 第8期倍達王戦1回戦 | Seo Bongsoo | Park Yeonghun | W+8.5 | 2000-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mtlZxdLbW%2B47H%2FnyXj0iog%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-19 | 第26回三星火災杯韓国予選 | Park Yeonghun | Kang Jihoon | Win | B+R | 6.5 | 3269 | -30 | 
+| 2021-04-28 | 第4期韓国竜星戦2回戦 | Shin Jinseo | Park Yeonghun | Lose | B+R | 6.5 | 3299 | -16 | 
+| 2021-04-26 | 第26回LG杯韓国予選 | Lee Hyeonwuk | Park Yeonghun | Win | W+R | 6.5 | 3315 | -127 | 
+| 2021-02-25 | 第1回牛膝鳳爪韓国棋院選手権戦予選 | Park Yeonghun | Han Seungjoo | Lose | W+R | 6.5 | 3442 | -50 | 
+| 2021-02-21 | 2020-2021韓国囲碁リーグ | Wen Rubin | Park Yeonghun | Lose | B+R | 6.5 | 3492 | -132 | 
+| 2021-02-08 | 第4期韓国竜星戦1回戦 | Park Yeonghun | Choi Jeong | Win | B+R | 6.5 | 3624 | 21 | 
+| 2021-02-06 | 2020-2021韓国囲碁リーグ | Park Yeonghun | Kim Jiseok | Lose | W+R | 6.5 | 3603 | -8 | 
+| 2021-02-01 | 第4期韓国竜星戦予選 | Park Yeonghun | Choi Jaeyoung | Win | B+R | 6.5 | 3611 | 15 | 
+| 2021-01-28 | 2020-2021韓国囲碁リーグ | Lee Changseok | Park Yeonghun | Lose | B+R | 6.5 | 3596 | 3 | 
+| 2021-01-25 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Shin Jinseo | Park Yeonghun | Lose | B+R | 6.5 | 3593 | -7 | 
+| 2021-01-24 | 2020-2021韓国囲碁リーグ | An Jungki | Park Yeonghun | Lose | B+R | 6.5 | 3600 | -40 | 
+| 2021-01-18 | 第13回春蘭杯世界囲碁選手権3回戦 | Park Yeonghun | Tang Weixing | Lose | W+R | 7.5 | 3640 | 22 | 
+| 2021-01-15 | 2020-2021韓国囲碁リーグ | Park Yeonghun | Park Jinsol | Win | B+0.5 | 6.5 | 3618 | 23 | 
+| 2021-01-12 | 第44期名人戦（韓国）予選 | Park Yeonghun | Park Joonhoon | Lose | W+R | 6.5 | 3595 | -26 | 
+| 2021-01-08 | 2020-2021韓国囲碁リーグ | Na Hyun | Park Yeonghun | Lose | B+R | 6.5 | 3621 | 22 | 
+| 2020-12-31 | 2020-2021韓国囲碁リーグ | Lee Changho | Park Yeonghun | Win | W+R | 6.5 | 3599 | -10 | 
+| 2020-12-24 | 2020-2021韓国囲碁リーグ | Park Yeonghun | Kang Seungmin | Lose | W+R | 6.5 | 3609 | 16 | 
+| 2020-12-18 | 2020-2021韓国囲碁リーグ | Park Yeonghun | Moon Minjong | Win | B+R | 6.5 | 3593 | -27 | 
+| 2020-12-13 | 2020-2021韓国囲碁リーグ | Park Yeonghun | Lee Changseok | Lose | W+R | 6.5 | 3620 | -30 | 
+| 2020-12-11 | 第26期GSカルテックス杯プロ棋戦予選 | Choi Cheolhan | Park Yeonghun | Lose | B+R | 6.5 | 3650 | 11 | 
+| 2020-12-03 | 2020-2021韓国囲碁リーグ | Kang Dongyun | Park Yeonghun | Win | W+0.5 | 6.5 | 3639 | 39 | 
+| 2020-11-28 | 2020-2021韓国囲碁リーグ | Park Jinsol | Park Yeonghun | Lose | B+R | 6.5 | 3600 | 67 | 
+| 2020-11-02 | 第2回大統領杯全国囲碁大会予選 |  | Park Yeonghun | Win | W+T | 6.5 | 3533 | 29 | 
+| 2020-08-31 | 第25回三星火災杯韓国一般枠予選 |  | Park Yeonghun | Lose | B+R | 6.5 | 3504 | 129 | 
+| 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Park Yeonghun | Yu Zhengqi | Win | B+R | 7.5 | 3375 | -24 | 
+| 2020-05-26 | 第1期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Park Yeonghun | Win | W+R | 6.5 | 3399 | 53 | 
+| 2020-05-11 | 第1期ソパルコサノル最高棋士決定戦リーグ | Park Yeonghun | Shin Jinseo | Lose | W+R | 6.5 | 3346 | 43 | 
+| 2020-04-26 | 韓国囲碁リーグオールスター戦第7局 | Park Yeonghun | Shin Jinseo | Lose | W+R | 6.5 | 3303 | -2 | 
+| 2020-04-25 | 韓国囲碁リーグオールスター戦第6局 | Park Yeonghun | Byun Sangil | Win | B+R | 6.5 | 3305 | 11 | 
+| 2020-04-24 | 第25期GSカルテックス杯プロ棋戦16強戦 | Kim Jiseok | Park Yeonghun | Lose | B+R | 6.5 | 3294 | -7 | 
+| 2020-04-22 | 第25回LG杯韓国予選 | Moon Minjong | Park Yeonghun | Lose | B+0.5 | 6.5 | 3301 | -16 | 
+| 2020-04-20 | 第25回LG杯韓国予選 |  | Park Yeonghun | Win | W+R | 6.5 | 3317 | 1 | 
+| 2020-04-19 | 韓国囲碁リーグオールスター戦第5局 | Park Yeonghun | Lee Donghoon | Win | B+R | 6.5 | 3316 | 7 | 
+| 2020-04-18 | 韓国囲碁リーグオールスター戦第4局 | Park Yeonghun | Na Hyun | Win | B+R | 6.5 | 3309 | 11 | 
+| 2020-04-14 | 第25回LG杯韓国予選 |  | Park Yeonghun | Win | W+R | 6.5 | 3298 | 66 | 
+| 2020-04-06 | 第1期ソパルコサノル最高棋士決定戦リーグ | Park Yeonghun | Shin Minjun | Lose | W+R | 6.5 | 3232 | 9 | 
+| 2020-03-17 | 第1期ソパルコサノル最高棋士決定戦リーグ | Lee Donghoon | Park Yeonghun | Lose | B+R | 6.5 | 3223 | -8 | 
+| 2020-03-12 | 第25期GSカルテックス杯プロ棋戦24強戦 | Park Yeonghun | Choi Cheolhan | Win | B+R | 6.5 | 3231 | 2 | 
+| 2020-03-10 | 第1期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Park Yeonghun | Lose | B+R | 6.5 | 3229 | 26 | 
+| 2020-02-18 | 第1期ソパルコサノル最高棋士決定戦リーグ | Byun Sangil | Park Yeonghun | Win | W+R | 6.5 | 3203 | -242 | 
+| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第2試合第3局 | Shin Minjun | Park Yeonghun | Lose | B+R | 6.5 | 3445 | -12 | 
+| 2020-01-28 | 第1期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Park Yeonghun | Lose | B+R | 6.5 | 3457 | -15 | 
+| 2020-01-26 | 2019-2020韓国囲碁リーグ第17節第4試合第3局 | Lee Hoseong | Park Yeonghun | Win | W+R | 6.5 | 3472 | 17 | 
+| 2020-01-21 | 第9回応氏杯世界選手権韓国選抜戦 | Park Yeonghun | An Sungjoon | Lose | W+R | 7.5 | 3455 | -26 | 
+| 2020-01-18 | 2019-2020韓国囲碁リーグ第16節第3試合第5局 | Park Yeonghun | Na Hyun | Win | B+R | 6.5 | 3481 | 7 | 
+| 2020-01-17 | 第3期韓国竜星戦32強戦 | Park Yeonghun | Song Gyusang | Lose | W+R | 6.5 | 3474 | -12 | 
+| 2020-01-16 | 第3期韓国竜星戦32強戦 | Han Seungjoo | Park Yeonghun | Lose | B+0.5 | 6.5 | 3486 | -15 | 
+| 2020-01-15 | 第3期韓国竜星戦32強戦 | Park Yeonghun | Song Gyusang | Win | B+R | 6.5 | 3501 | 29 | 
+| 2020-01-12 | 2019-2020韓国囲碁リーグ第15節第4試合第5局 | Choi Jaeyoung | Park Yeonghun | Win | W+R | 6.5 | 3472 | 11 | 
+| 2020-01-09 | 第3期韓国竜星戦予選 | Park Yeonghun | Han Woojin | Win | B+R | 6.5 | 3461 | 7 | 
+| 2020-01-07 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Lee Jihyun | Park Yeonghun | Lose | B+R | 6.5 | 3454 | -23 | 
+| 2020-01-04 | 2019-2020韓国囲碁リーグ第14節第3試合第2局 | Park Yeonghun | Choi Cheolhan | Lose | W+R | 6.5 | 3477 | -10 | 
+| 2019-12-26 | 2019-2020韓国囲碁リーグ第13節第1試合第5局 | Park Yeonghun | Kim Sangcheon | Win | B+R | 6.5 | 3487 | 261 | 
+| 2019-12-13 | 第25期GSカルテックス杯プロ棋戦予選決勝 | Park Yeonghun |  | Win | B+R | 6.5 | 3226 | 1 | 
+| 2019-12-12 | 2019-2020韓国囲碁リーグ第11節第1試合第3局 | Park Yeonghun | Park Jinsol | Lose | W+R | 6.5 | 3225 | -24 | 
+| 2019-11-30 | 2019-2020韓国囲碁リーグ第9節第3試合第3局 | Park Yeonghun | Kang Dongyun | Lose | W+R | 6.5 | 3249 | -32 | 
+| 2019-11-21 | 2019-2020韓国囲碁リーグ第8節第1試合第3局 | Park Yeonghun | Lee Wondo | Win | B+R | 6.5 | 3281 | 18 | 
+| 2019-11-15 | 2019-2020韓国囲碁リーグ第7節第2試合第5局 | Seol Hyunjun | Park Yeonghun | Win | W+R | 6.5 | 3263 | -28 | 
+| 2019-11-07 | 2019-2020韓国囲碁リーグ第6節第1試合第3局 | Park Yeonghun | Weon Seongjin | Win | B+R | 6.5 | 3291 | 16 | 
+| 2019-11-01 | 2019-2020韓国囲碁リーグ第5節第2試合第2局 | Park Yeonghun | Park Geunho | Win | B+R | 6.5 | 3275 | 30 | 
+| 2019-10-27 | 2019-2020韓国囲碁リーグ第4節第4試合第1局 | Park Yeonghun | Kang Seungmin | Lose | W+R | 6.5 | 3245 | -14 | 
+| 2019-10-13 | 第4回Mlily夢百合杯世界囲碁オープン戦16強戦 | Meng Tailing | Park Yeonghun | Lose | B+R | 7.5 | 3259 | -24 | 
+| 2019-10-11 | 第4回Mlily夢百合杯世界囲碁オープン戦32強戦 | Shin Minjun | Park Yeonghun | Win | W+R | 7.5 | 3283 | 14 | 
+| 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Kim Dayoung | Park Yeonghun | Win | W+R | 7.5 | 3269 | -14 | 
+| 2019-10-06 | 2019-2020韓国囲碁リーグ第2節第4試合第3局 | Park Yeonghun | Yun Chanhee | Win | B+0.5 | 6.5 | 3283 | 56 | 
+| 2019-09-29 | 2019-2020韓国囲碁リーグ第1節第4試合第4局 | Han Seungjoo | Park Yeonghun | Win | W+R | 6.5 | 3227 | 51 | 
+| 2019-08-28 | 第2期韓国竜星戦準決勝 | Shin Jinseo | Park Yeonghun | Lose | B+R | 6.5 | 3176 | 18 | 
+| 2019-08-14 | 第9回世界囲棋巓峰対決8強戦 | Tuo Jiaxi | Park Yeonghun | Lose | B+1¾ | 7.5 | 3158 | -91 | 
+| 2019-08-08 | 第2期韓国竜星戦8強戦 | Lee Donghoon | Park Yeonghun | Win | W+R | 6.5 | 3249 | 30 | 
+| 2019-08-05 | 第6回国手山脈韓国国内トーナメント決勝 | Han Seungjoo | Park Yeonghun | Win | W+R | 6.5 | 3219 | 18 | 
+| 2019-08-04 | 第6回国手山脈韓国国内トーナメント準決勝 | Park Yeonghun | Kang Dongyun | Win | B+R | 6.5 | 3201 | 0 | 
+| 2019-08-04 | 第6回国手山脈韓国国内トーナメント8強戦 | Lee Changseok | Park Yeonghun | Win | W+T | 6.5 | 3201 | 30 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Song Gyusang | Park Yeonghun | Win | W+R | 6.5 | 3171 | 0 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Kim Changhoon | Park Yeonghun | Win | W+R | 6.5 | 3171 | 10 | 
+| 2019-07-12 | 第21回農心杯韓国選抜戦 | Park Yeonghun | Ryu Suhang | Win | B+R | 6.5 | 3161 | 20 | 
+| 2019-07-02 | 第24回三星火災杯統合予選2回戦 | Park Yeonghun | Tu Xiaoyu | Win | B+R | 6.5 | 3141 | 28 | 
+| 2019-06-27 | 第12回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Park Yeonghun | Park Junghwan | Lose | W+R | 7.5 | 3113 | 7 | 
+| 2019-06-25 | 第12回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Park Junghwan | Park Yeonghun | Lose | B+R | 7.5 | 3106 | 13 | 
+| 2019-06-07 | 第6回国手山脈杯韓国選抜戦決勝 | Park Yeonghun | Shin Minjun | Lose | W+R | 6.5 | 3093 | 3 | 
+| 2019-06-05 | 第6回国手山脈杯韓国選抜戦2回戦 | Park Jinsol | Park Yeonghun | Win | W+R | 6.5 | 3090 | 44 | 
+| 2019-05-27 | 第24回LG杯朝鮮日報棋王戦1回戦 | Dang Yifei | Park Yeonghun | Lose | B+R | 6.5 | 3046 | 3046 | 
+| 2019-04-30 | 第38回KBS杯囲碁王戦2回戦 | Park Yeonghun | Hyun Yoobin | Win | B+R | 6.5 | missing | -3162 | 
+| 2019-04-24 | 第2期韓国竜星戦16強戦 | Kim Jinhyu | Park Yeonghun | Win | W+R | 6.5 | 3162 | 18 | 
+| 2019-04-02 | 第24回LG杯統合予選2回戦 | Lian Xiao | Park Yeonghun | Lose | B+R | 6.5 | 3144 | 2 | 
+| 2019-03-29 | 第24期GSカルテックス杯8強戦 | Park Yeonghun | Byun Sangil | Lose | W+0.5 | 6.5 | 3142 | -28 | 
+| 2019-03-12 | 第2期韓国竜星戦32強戦-2 |  | Park Yeonghun | Win | W+R | 6.5 | 3170 | 3 | 
+| 2019-03-11 | 第2期韓国竜星戦32強戦-1 | Kim Jinhyu | Park Yeonghun | Win | W+R | 6.5 | 3167 | 21 | 
+| 2019-03-07 | 第24期GSカルテックス杯16強戦 | Wen Rubin | Park Yeonghun | Win | W+R | 6.5 | 3146 | -34 | 
+| 2019-02-26 | 第1回IWMC韓国代表選抜戦1回戦 | Park Yeonghun | Shin Minjun | Lose | W+R | 7.5 | 3180 | -55 | 
+| 2019-01-26 | 第3回ワールド碁チャンピオンシップ国際予選3回戦 | Park Yeonghun | Gu Zihao | Lose | W+R | 6.5 | 3235 | -6 | 
+| 2019-01-24 | 第3回ワールド碁チャンピオンシップ国際予選1回戦 | Park Yeonghun | Shibano Toramaru | Win | B+R | 6.5 | 3241 | 16 | 
+| 2019-01-15 | 第20回マキシムコーヒー杯入神最強戦1回戦 | Mok Jinseok | Park Yeonghun | Lose | B+R | 6.5 | 3225 | 2 | 
+| 2018-12-19 | 第12回春蘭杯世界囲碁選手権準決勝 | Park Yeonghun | Dang Yifei | Win | B+1.5 | 7.5 | 3223 | 16 | 
+| 2018-12-17 | 第12回春蘭杯世界囲碁選手権3回戦 | Gu Zihao | Park Yeonghun | Win | W+R | 7.5 | 3207 | -21 | 
+| 2018-10-05 | 2018年韓国囲碁リーグ第14節 | Park Yeonghun |  | Lose | W+R | 6.5 | 3228 | -21 | 
+| 2018-09-29 | 2018年韓国囲碁リーグ第13節 | Park Yeonghun | Han Taehee | Win | B+R | 6.5 | 3249 | -27 | 
+| 2018-09-23 | 2018年韓国囲碁リーグ第12節 | Song Gyusang | Park Yeonghun | Lose | B+R | 6.5 | 3276 | -30 | 
+| 2018-09-13 | 2018年韓国囲碁リーグ第11節 | Park Yeonghun | Park Junghwan | Win | B+R | 6.5 | 3306 | -24 | 
+| 2018-08-31 | 2018年韓国囲碁リーグ第10節 | Kang Dongyun | Park Yeonghun | Lose | B+R | 6.5 | 3330 | -11 | 
+| 2018-08-25 | 2018年韓国囲碁リーグ第9節 | Yun Junsang | Park Yeonghun | Lose | B+R | 6.5 | 3341 | 6 | 
+| 2018-08-20 | 第1回天府杯韓国選抜戦1回戦 | Park Yeonghun | Choi Cheolhan | Lose | W+R | 6.5 | 3335 | -14 | 
+| 2018-08-19 | 2018年韓国囲碁リーグ第8節 | Park Minkyu | Park Yeonghun | Win | W+2.5 | 6.5 | 3349 | 9 | 
+| 2018-08-11 | 2018年韓国囲碁リーグ第7節 | Park Yeonghun | Yun Chanhee | Win | B+R | 6.5 | 3340 | 15 | 
+| 2018-08-03 | 2018年韓国囲碁リーグ第6節 | Lee Jihyun | Park Yeonghun | Lose | B+R | 6.5 | 3325 | -24 | 
+| 2018-07-28 | 第5回国手山脈杯世界プロ最強戦1回戦 | Park Yeonghun | Wang Yuanjun | Lose | W+R | 6.5 | 3349 | -25 | 
+| 2018-07-20 | 第20回農心杯韓国選抜戦 | Lee Jihyun | Park Yeonghun | Lose | B+R | 6.5 | 3374 | 14 | 
+| 2018-07-19 | 2018年韓国囲碁リーグ第5節 | Kim Myounghoon | Park Yeonghun | Win | W+2.5 | 6.5 | 3360 | -3 | 
+| 2018-07-17 | 第20回農心杯韓国選抜戦 | Kim Jiseok | Park Yeonghun | Win | W+0.5 | 6.5 | 3363 | 7 | 
+| 2018-07-16 | 第20回農心杯韓国選抜戦 | Lee Donghoon | Park Yeonghun | Win | W+R | 6.5 | 3356 | 11 | 
+| 2018-07-15 | 2018年韓国囲碁リーグ第4節 | Park Yeonghun | Choi Jaeyoung | Win | B+R | 6.5 | 3345 | 29 | 
+| 2018-07-05 | 第23回三星火災杯統合予選3回戦 |  | Park Yeonghun | Win | W+3.5 | 6.5 | 3316 | 11 | 
+| 2018-06-30 | 2018年韓国囲碁リーグ第3節 | Kang Dongyun | Park Yeonghun | Lose | B+R | 6.5 | 3305 | -19 | 
+| 2018-06-26 | 第4回百霊杯韓国選抜戦4強戦 | Park Yeonghun | Byun Sangil | Lose | W+R | 6.5 | 3324 | 3 | 
+| 2018-06-22 | 2018年韓国囲碁リーグ第2節 | Paek Hongseok | Park Yeonghun | Win | W+R | 6.5 | 3321 | -25 | 
+| 2018-06-19 | 2018年中国囲碁乙級リーグ | Seol Hyunjun | Park Yeonghun | Lose | B+R | 7.5 | 3346 | 0 | 
+| 2018-06-18 | 2018年中国囲碁乙級リーグ | Park Yeonghun |  | Win | B+R | 7.5 | 3346 | 1 | 
+| 2018-06-16 | 2018年中国囲碁乙級リーグ | Kang Dongyun | Park Yeonghun | Win | W+R | 7.5 | 3345 | -3 | 
+| 2018-06-15 | 2018年中国囲碁乙級リーグ |  | Park Yeonghun | Lose | B+R | 7.5 | 3348 | -14 | 
+| 2018-06-11 | 2018年中国囲碁乙級リーグ | Park Yeonghun |  | Win | B+R | 7.5 | 3362 | -16 | 
+| 2018-05-30 | 第23回LG杯朝鮮日報棋王戦2回戦 | Park Yeonghun | Fan Tingyu | Lose | W+R | 6.5 | 3378 | 3 | 
+| 2018-05-28 | 第23回LG杯朝鮮日報棋王戦1回戦 | Xie Erhao | Park Yeonghun | Win | W+R | 6.5 | 3375 | -4 | 
+| 2018-04-30 | 第5回国手山脈杯韓国選抜戦決勝 | Park Yeonghun | Byun Sangil | Win | B+7.5 | 6.5 | 3379 | 0 | 
+| 2018-04-30 | 第5回国手山脈杯韓国選抜戦 | Choi Cheolhan | Park Yeonghun | Win | W+R | 6.5 | 3379 | 30 | 
+| 2018-04-23 | 第19回マキシムコーヒー杯入神最強戦決勝三番勝負第三局 | Park Yeonghun | Cho Hanseung | Lose | W+0.5 | 6.5 | 3349 | -1 | 
+| 2018-04-17 | 第19回マキシムコーヒー杯入神最強戦決勝三番勝負第二局 | Cho Hanseung | Park Yeonghun | Lose | B+R | 6.5 | 3350 | -13 | 
+| 2018-04-09 | 第19回マキシムコーヒー杯入神最強戦決勝三番勝負第一局 | Park Yeonghun | Cho Hanseung | Win | B+R | 6.5 | 3363 | -2 | 
+| 2018-04-07 | 第23回LG杯予選決勝 | Lee Chungyu | Park Yeonghun | Win | W+R | 6.5 | 3365 | 39 | 
+| 2018-04-03 | 第23回LG杯予選2回戦 | Park Yeonghun |  | Win | B+R | 6.5 | 3326 | -26 | 
+| 2018-03-27 | 第19回マキシムコーヒー杯入神最強戦準決勝 | Kim Jiseok | Park Yeonghun | Win | W+R | 6.5 | 3352 | -19 | 
+| 2018-03-23 | 第12回春蘭杯世界囲碁選手権2回戦 | Park Yeonghun | Lian Xiao | Win | B+1.5 | 7.5 | 3371 | -54 | 
+| 2018-03-05 | 第19回マキシムコーヒー杯入神最強戦3回戦 | Park Cheongsang | Park Yeonghun | Win | W+R | 6.5 | 3425 | 30 | 
+| 2018-02-13 | 第19回マキシムコーヒー杯入神最強戦2回戦 | Yun Hyunseok | Park Yeonghun | Win | W+R | 6.5 | 3395 | 16 | 
+| 2018-01-23 | 第19回マキシムコーヒー杯入神最強戦1回戦 | Mok Jinseok | Park Yeonghun | Win | W+R | 6.5 | 3379 | 24 | 
+| 2018-01-02 | 第3回夢百合杯世界オープン戦決勝五番勝負第3局 | Park Yeonghun | Park Junghwan | Lose | W+R | 7.5 | 3355 | 1 | 
+| 2017-12-31 | 第3回夢百合杯世界オープン戦決勝五番勝負第2局 | Park Junghwan | Park Yeonghun | Lose | B+R | 7.5 | 3354 | -1 | 
+| 2017-12-30 | 第3回夢百合杯世界オープン戦決勝五番勝負第1局 | Park Yeonghun | Park Junghwan | Lose | W+R | 7.5 | 3355 | 4 | 
+| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Park Yeonghun | Xie Erhao | Win | B+R | 7.5 | 3351 | 20 | 
+| 2017-11-20 | 第3回夢百合杯世界オープン戦準決勝三番勝負第三局 | Li Xuanhao | Park Yeonghun | Win | W+R | 7.5 | 3331 | 8 | 
+| 2017-11-19 | 第3回夢百合杯世界オープン戦準決勝三番勝負第二局 | Li Xuanhao | Park Yeonghun | Lose | B+R | 7.5 | 3323 | -3 | 
+| 2017-11-17 | 第3回夢百合杯世界オープン戦準決勝三番勝負第一局 | Park Yeonghun | Li Xuanhao | Win | B+R | 7.5 | 3326 | -13 | 
+| 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 |  | Park Yeonghun | Lose | B+R | 7.5 | 3339 | -33 | 
+| 2017-10-30 | 第19回中国囲碁甲級リーグ第22節 | Park Yeonghun | Zhou Ruiyang | Lose | W+R | 7.5 | 3372 | -5 | 
+| 2017-10-28 | 2017年韓国囲碁リーグ | Heo Yongho | Park Yeonghun | Lose | B+R | 6.5 | 3377 | -4 | 
+| 2017-10-20 | 2017年韓国囲碁リーグ | Park Yeonghun | Yun Junsang | Win | B+R | 6.5 | 3381 | 81 | 
+| 2017-10-12 | 2017年韓国囲碁リーグ | Shin Minjun | Park Yeonghun | Lose | B+R | 6.5 | 3300 | -27 | 
+| 2017-10-08 | 2017年韓国囲碁リーグ | Lee Taehyun | Park Yeonghun | Win | W+0.5 | 6.5 | 3327 | 0 | 
+| 2017-09-29 | 2017年韓国囲碁リーグ | Park Yeonghun | Shin Jinseo | Win | B+R | 6.5 | 3327 | 5 | 
+| 2017-09-25 | 第22回三星火災杯世界囲碁マスターズ2回戦 | Park Yeonghun | Gu Zihao | Lose | W+R | 6.5 | 3322 | 37 | 
+| 2017-09-15 | 2017年韓国囲碁リーグ | Mok Jinseok | Park Yeonghun | Win | W+R | 6.5 | 3285 | 4 | 
+| 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Fan Yunruo | Park Yeonghun | Win | W+R | 7.5 | 3281 | 24 | 
+| 2017-09-07 | 第22回三星火災杯世界囲碁マスターズ1回戦G3 | Park Yeonghun | Byun Sangil | Win | B+R | 6.5 | 3257 | 9 | 
+| 2017-09-06 | 第22回三星火災杯世界囲碁マスターズ1回戦G2 | Park Yeonghun | Zhao Chenyu | Lose | W+R | 6.5 | 3248 | -12 | 
+| 2017-09-05 | 第22回三星火災杯世界囲碁マスターズ1回戦G1 | Yang Dingxin | Park Yeonghun | Win | W+R | 6.5 | 3260 | 15 | 
+| 2017-09-03 | 2017年韓国囲碁リーグ | Lee Wonyoung | Park Yeonghun | Lose | B+R | 6.5 | 3245 | -2 | 
+| 2017-08-26 | 第3回Mlily夢百合杯8強戦 | Fan Yunruo | Park Yeonghun | Win | W+R | 7.5 | 3247 | 10 | 
+| 2017-08-24 | 第3回Mlily夢百合杯16強戦 | Wang Haoyang | Park Yeonghun | Win | W+R | 7.5 | 3237 | 7 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Dang Yifei | Park Yeonghun | Lose | B+R | 7.5 | 3230 | -17 | 
+| 2017-08-18 | 2017年韓国囲碁リーグ | Park Yeonghun | Jin Siyoung | Win | B+R | 6.5 | 3247 | 14 | 
+| 2017-08-12 | 2017年韓国囲碁リーグ | Yun Junsang | Park Yeonghun | Win | W+R | 6.5 | 3233 | 3 | 
+| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Gu Zihao | Park Yeonghun | Lose | B+R | 7.5 | 3230 | -14 | 
+| 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Park Yeonghun | Tang Weixing | Lose | W+R | 7.5 | 3244 | 1 | 
+| 2017-08-06 | 2017年韓国囲碁リーグ | Shin Minjun | Park Yeonghun | Win | W+R | 6.5 | 3243 | 14 | 
+| 2017-07-20 | 2017年韓国囲碁リーグ | Hong Seongji | Park Yeonghun | Lose | B+R | 6.5 | 3229 | 8 | 
+| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Park Yeonghun | Liu Xing | Win | B+R | 7.5 | 3221 | 0 | 
+| 2017-07-15 | 2017年韓国囲碁リーグ | Park Yeonghun | Kim Myounghoon | Lose | W+R | 6.5 | 3221 | -5 | 
+| 2017-07-10 | 第19回農心杯韓国選抜戦 | Cho Hanseung | Park Yeonghun | Lose | B+R | 6.5 | 3226 | -21 | 
+| 2017-06-26 | 第11回春蘭杯世界囲碁選手権決勝三番勝負第3局 | Tan Xiao | Park Yeonghun | Lose | B+R | 7.5 | 3247 | -8 | 
+| 2017-06-25 | 第11回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Tan Xiao | Park Yeonghun | Win | W+0.5 | 7.5 | 3255 | 3 | 
+| 2017-06-23 | 第11回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Park Yeonghun | Tan Xiao | Lose | W+R | 7.5 | 3252 | 10 | 
+| 2017-06-21 | 第3回夢百合杯世界オープン戦2回戦 | Park Yeonghun | Tong Mengcheng | Win | B+R | 7.5 | 3242 | 6 | 
+| 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Park Yeonghun | Li Biqi | Win | B+R | 7.5 | 3236 | 4 | 
+| 2017-06-10 | 2017年韓国囲碁リーグ | Park Yeonghun | Shen Zaiyi | Win | B+1.5 | 6.5 | 3232 | -11 | 
+| 2017-06-01 | 2017年韓国囲碁リーグ | Park Yeonghun | Lee Wonyoung | Win | B+R | 6.5 | 3243 | -24 | 
+| 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Choi Cheolhan | Park Yeonghun | Lose | B+R | 6.5 | 3267 | -16 | 
+| 2017-05-20 | 2017年韓国囲碁リーグ | Park Junghwan | Park Yeonghun | Lose | B+R | 6.5 | 3283 | -2 | 
+| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Shi Yue | Park Yeonghun | Lose | B+R | 7.5 | 3285 | -25 | 
+| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Xie He | Park Yeonghun | Lose | B+R | 7.5 | 3310 | -2 | 
+| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Park Yeonghun | Fan Yunruo | Lose | W+R | 7.5 | 3312 | 32 | 
+| 2017-04-08 | 第22期LG杯世界予選決勝 | Gu Zihao | Park Yeonghun | Win | W+R | 6.5 | 3280 | -19 | 
+| 2017-03-27 | 世界第三期Mlily夢百合杯予選2回戦 | Park Yeonghun | Yu Zhiying | Win | B+R | 7.5 | 3299 | 164 | 
+| 2017-02-28 | 第18回マキシムコーヒー杯入神最強戦2回戦 | Park Yeonghun | Yun Junsang | Lose | W+R | 6.5 | 3135 | 30 | 
+| 2017-01-02 | Alphago Online Series on Tygem and Fox 37 |  | Park Yeonghun | Lose | B+R | 6.5 | 3105 | 10 | 
+| 2016-12-22 | 第11回春蘭杯世界囲碁選手権準決勝 | Ke Jie | Park Yeonghun | Win | W+R | 7.5 | 3095 | 18 | 
+| 2016-12-20 | 第11回春蘭杯世界囲碁選手権3回戦 | Park Yeonghun | Lian Xiao | Win | B+R | 7.5 | 3077 | -63 | 
+| 2016-11-03 | 2016年韓国囲碁リーグ | Park Junghwan | Park Yeonghun | Lose | B+0.5 | 6.5 | 3140 | 13 | 
+| 2016-10-13 | 2016年韓国囲碁リーグ | Park Yeonghun | Park Jinsol | Lose | W+R | 6.5 | 3127 | -16 | 
+| 2016-10-09 | 2016年韓国囲碁リーグ | Shin Minjun | Park Yeonghun | Lose | B+R | 6.5 | 3143 | 11 | 
+| 2016-09-29 | 2016年韓国囲碁リーグ | Park Yeonghun | Yun Chanhee | Win | B+R | 6.5 | 3132 | -95 | 
+| 2016-09-16 | 2016年韓国囲碁リーグ第13節 | Park Yeonghun | Lee Changseok | Win | B+R | 6.5 | 3227 | -30 | 
+| 2016-09-03 | 2016年韓国囲碁リーグ第12節 | Choi Jaeyoung | Park Yeonghun | Lose | B+R | 6.5 | 3257 | -67 | 
+| 2016-08-26 | 2016年韓国囲碁リーグ第11節 | Kim Sooyong | Park Yeonghun | Win | W+R | 6.5 | 3324 | 22 | 
+| 2016-08-19 | 2016年韓国囲碁リーグ第10節 | Hong Seongji | Park Yeonghun | Win | W+9.5 | 6.5 | 3302 | 12 | 
+| 2016-08-13 | 2016年韓国囲碁リーグ第9節 | Park Yeonghun | Paek Hongseok | Win | B+R | 6.5 | 3290 | 0 | 
+| 2016-07-31 | 2016年韓国囲碁リーグ第8節 | Kim Myounghoon | Park Yeonghun | Lose | B+0.5 | 6.5 | 3290 | -105 | 
+| 2016-07-27 | 第18回農心杯韓国選抜戦 | Cho Hanseung | Park Yeonghun | Lose | B+R | 6.5 | 3395 | -17 | 
+| 2016-07-25 | 第18回農心杯韓国選抜戦 | Park Yeonghun | Heo Yongho | Win | B+R | 6.5 | 3412 | 10 | 
+| 2016-07-21 | 2016年韓国囲碁リーグ第7節 | Park Yeonghun | Lee Hobum | Win | B+R | 6.5 | 3402 | 42 | 
+| 2016-07-18 | 第21回三星火災杯統合予選3回戦 | Park Yeonghun | Hu Yuhan | Lose | W+R | 6.5 | 3360 | -31 | 
+| 2016-07-16 | 第21回三星火災杯統合予選2回戦 | Hirata Tomoya | Park Yeonghun | Win | W+3.5 | 6.5 | 3391 | 48 | 
+| 2016-07-10 | 2016年韓国囲碁リーグ第6節 | Park Yeonghun | Byun Sangil | Win | B+R | 6.5 | 3343 | 40 | 
+| 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Park Yeonghun | Chen Zhengxun | Lose | W+R | 7.5 | 3303 | -25 | 
+| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Xia Chenkun | Park Yeonghun | Win | W+0.5 | 7.5 | 3328 | 13 | 
+| 2016-06-25 | 2016年中国囲碁乙級リーグ | An Sungjoon | Park Yeonghun | Win | W+R | 7.5 | 3315 | 2 | 
+| 2016-06-24 | 2016年中国囲碁乙級リーグ | Park Yeonghun | Lee Sedol | Lose | W+R | 7.5 | 3313 | 2 | 
+| 2016-06-23 | 2016年中国囲碁乙級リーグ |  | Park Yeonghun | Lose | B+R | 7.5 | 3311 | -16 | 
+| 2016-06-20 | 2016年中国囲碁乙級リーグ | Park Yeonghun | Mao Ruilong | Win | B+R | 7.5 | 3327 | 1 | 
+| 2016-06-18 | 2016年中国囲碁乙級リーグ | Qiu Jun | Park Yeonghun | Win | W+R | 7.5 | 3326 | 31 | 
+| 2016-06-10 | 2016年韓国囲碁リーグ第3節 | Park Yeonghun | Choi Jaeyoung | Win | B+R | 6.5 | 3295 | -7 | 
+| 2016-06-04 | 2016年韓国囲碁リーグ第2節 | Park Minkyu | Park Yeonghun | Win | W+R | 6.5 | 3302 | 16 | 
+| 2016-06-01 | 第21回LG杯朝鮮日報棋王戦2回戦 | Chen Yaoye | Park Yeonghun | Lose | B+R | 6.5 | 3286 | 1 | 
+| 2016-05-30 | 第21回LG杯朝鮮日報棋王戦1回戦 | Zhao Chenyu | Park Yeonghun | Win | W+R | 6.5 | 3285 | 11 | 
+| 2016-05-25 | 第1回新奥杯世界囲碁オープン戦予選 | Park Yeonghun | Ding Lie | Win | B+R | 7.5 | 3274 | -2 | 
+| 2016-05-21 | 2016年韓国囲碁リーグ第1節 | Park Yeonghun | An Joyeong | Win | B+R | 6.5 | 3276 | 66 | 
+| 2016-04-27 | 第17回マキシムコーヒー杯入神最強戦準決勝 | Park Yeonghun | Lee Sedol | Lose | W+R | 6.5 | 3210 | -15 | 
+| 2016-04-22 | 第8回応氏杯世界選手権2回戦 | Park Yeonghun | Kono Rin | Lose | W+R | 7.5 | 3225 | -3 | 
+| 2016-04-20 | 第8回応氏杯世界選手権1回戦 | Park Yeonghun | Gu Li | Win | B+R | 7.5 | 3228 | -15 | 
+| 2016-03-28 | 第11回春蘭杯世界囲碁選手権2回戦 | Zhou Ruiyang | Park Yeonghun | Win | W+R | 7.5 | 3243 | 34 | 
+| 2016-03-26 | 第11回春蘭杯世界囲碁選手権1回戦 | Jiang Mingjiu | Park Yeonghun | Win | W+R | 7.5 | 3209 | -4 | 
+| 2016-03-22 | 第17回マキシムコーヒー杯入神最強戦3回戦 | Hong Seongji | Park Yeonghun | Win | W+R | 6.5 | 3213 | 9 | 
+| 2016-03-21 | 第35回KBS杯囲碁王戦1回戦 | Park Yeonghun | Yun Chanhee | Lose | W+4.5 | 6.5 | 3204 | -3 | 
+| 2016-03-17 | 第21期GSカルテックス杯プロ棋戦3回戦 | Yun Junsang | Park Yeonghun | Lose | B+R | 6.5 | 3207 | -18 | 
+| 2016-03-13 | 第3回百霊杯世界オープン戦予選 | Park Yeonghun | Tuo Jiaxi | Win | B+R | 7.5 | 3225 | -27 | 
+| 2016-02-28 | 第17回マキシムコーヒー杯入神最強戦2回戦 | Cho Hunhyun | Park Yeonghun | Win | W+R | 6.5 | 3252 | -18 | 
+| 2016-02-26 | 第21期GSカルテックス杯プロ棋戦2回戦 | Kim Kiyoung | Park Yeonghun | Win | W+R | 6.5 | 3270 | 1 | 
+| 2016-02-04 | 第20回LG杯世界棋王戦決勝三番勝負第3局 | Kang Dongyun | Park Yeonghun | Lose | B+R | 6.5 | 3269 | -13 | 
+| 2016-02-03 | 第20回LG杯世界棋王戦決勝三番勝負第2局 | Kang Dongyun | Park Yeonghun | Win | W+R | 6.5 | 3282 | 12 | 
+| 2016-02-01 | 第20回LG杯世界棋王戦決勝三番勝負第1局 | Park Yeonghun | Kang Dongyun | Lose | W+R | 6.5 | 3270 | -11 | 
+| 2015-12-11 | 第43期名人戦（韓国）準決勝第3局 | Lee Sedol | Park Yeonghun | Lose | B+R | 6.5 | 3281 | -12 | 
+| 2015-12-09 | 第43期名人戦（韓国）準決勝第2局 | Lee Sedol | Park Yeonghun | Win | W+R | 6.5 | 3293 | 48 | 
+| 2015-11-25 | 第2回夢百合杯世界オープン戦準決勝第3局 | Ke Jie | Park Yeonghun | Lose | B+R | 7.5 | 3245 | -8 | 
+| 2015-11-24 | 第2回夢百合杯世界オープン戦準決勝第2局 | Ke Jie | Park Yeonghun | Win | W+R | 7.5 | 3253 | 14 | 
+| 2015-11-22 | 第2回夢百合杯世界オープン戦準決勝第1局 | Park Yeonghun | Ke Jie | Lose | W+R | 7.5 | 3239 | 0 | 
+| 2015-11-18 | 第20回LG杯朝鮮日報棋王戦準決勝 | Park Yeonghun | Tuo Jiaxi | Win | B+R | 6.5 | 3239 | 3 | 
+| 2015-11-16 | 第20回LG杯朝鮮日報棋王戦3回戦 | Yu Zhengqi | Park Yeonghun | Win | W+R | 6.5 | 3236 | -18 | 
+| 2015-11-08 | 第43期名人戦（韓国）準決勝第1局 | Park Yeonghun | Lee Sedol | Lose | W+R | 6.5 | 3254 | -9 | 
+| 2015-10-16 | 2015年レッツランパーク杯オープントーナメント3回戦 | Jin Siyoung | Park Yeonghun | Lose | B+R | 6.5 | 3263 | -7 | 
+| 2015-10-14 | 2015年レッツランパーク杯オープントーナメント2回戦 | Park Yeonghun | Lee Huiseong | Win | B+R | 6.5 | 3270 | 3 | 
+| 2015-10-12 | 第43期名人戦（韓国）2回戦 | Park Yeonghun | Min Sangyoun | Win | B+R | 6.5 | 3267 | 14 | 
+| 2015-10-06 | 第20回三星火災杯世界囲碁マスターズ2回戦 | Zhang Tao | Park Yeonghun | Lose | B+R | 6.5 | 3253 | -1 | 
+| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Park Yeonghun | Hong Kipyo | Win | B+R | 6.5 | 3254 | -11 | 
+| 2015-09-27 | 2015年韓国囲碁リーグ | Park Yeonghun | Byun Sangil | Win | B+R | 6.5 | 3265 | 16 | 
+| 2015-09-21 | 第43期名人戦（韓国）1回戦 |  | Park Yeonghun | Win | W+R | 6.5 | 3249 | -29 | 
+| 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦C2 | Heo Yongho | Park Yeonghun | Win | W+2.5 | 6.5 | 3278 | 13 | 
+| 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦C1 | Shi Yue | Park Yeonghun | Win | W+R | 6.5 | 3265 | 17 | 
+| 2015-09-03 | 2015年韓国囲碁リーグ | Park Yeonghun | Kang Yootaek | Win | B+R | 6.5 | 3248 | 5 | 
+| 2015-09-01 | 第2回夢百合杯世界オープン戦4回戦 | Park Yeonghun | Zhou Ruiyang | Win | B+R | 7.5 | 3243 | 6 | 
+| 2015-08-30 | 第2回夢百合杯世界オープン戦3回戦 | Chang Hao | Park Yeonghun | Win | W+R | 7.5 | 3237 | -13 | 
+| 2015-08-28 | 2015年韓国囲碁リーグ | Park Yeonghun | Mok Jinseok | Win | B+R | 6.5 | 3250 | 20 | 
+| 2015-08-22 | 2015年韓国囲碁リーグ | Lee Jihyun | Park Yeonghun | Lose | B+R | 6.5 | 3230 | -35 | 
+| 2015-08-16 | 2015年韓国囲碁リーグ | Park Yeonghun | Lee Wonyoung | Win | B+6.5 | 6.5 | 3265 | 6 | 
+| 2015-07-25 | 2015年韓国囲碁リーグ | Park Yeonghun | Kim Jiseok | Win | B+R | 6.5 | 3259 | -18 | 
+| 2015-07-20 | 第17回農心杯韓国選抜戦 | Ahn Kukhyun | Park Yeonghun | Lose | B+0.5 | 6.5 | 3277 | -24 | 
+| 2015-07-18 | 2015年韓国囲碁リーグ | Weon Seongjin | Park Yeonghun | Win | W+R | 6.5 | 3301 | 0 | 
+| 2015-07-09 | 第2回夢百合杯世界オープン戦2回戦 | Lian Xiao | Park Yeonghun | Win | W+0.5 | 7.5 | 3301 | 15 | 
+| 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Park Jiyeon | Park Yeonghun | Win | W+R | 7.5 | 3286 | -9 | 
+| 2015-07-02 | 2015年韓国囲碁リーグ | Park Yeonghun | Ko Keuntae | Win | B+R | 6.5 | 3295 | -22 | 
+| 2015-06-25 | 2015年韓国囲碁リーグ | Park Yeonghun | Ryu Minhyung | Lose | W+R | 6.5 | 3317 | -115 | 
+| 2015-06-15 | 第59期国手戦（韓国）1回戦 | Park Yeonghun | Lee Changho | Lose | W+R | 6.5 | 3432 | -15 | 
+| 2015-06-14 | 2015年韓国囲碁リーグ | Kang Yootaek | Park Yeonghun | Win | W+R | 6.5 | 3447 | 27 | 
+| 2015-06-10 | 第20回LG杯朝鮮日報棋王戦2回戦 | Park Yeonghun | Park Junghwan | Win | B+R | 6.5 | 3420 | -2 | 
+| 2015-06-08 | 第20回LG杯朝鮮日報棋王戦1回戦 | Park Yeonghun | Huang Yunsong | Win | B+R | 6.5 | 3422 | -25 | 
+| 2015-05-30 | 2015年韓国囲碁リーグ | Park Yeonghun | Lee Hobum | Win | B+T | 6.5 | 3447 | 10 | 
+| 2015-05-26 | 第2回夢百合杯世界オープン戦予選 | Park Yeonghun | Zhu Yuanhao | Win | B+R | 7.5 | 3437 | -43 | 
+| 2015-05-15 | 2015年韓国囲碁リーグ | Park Kyuongkeun | Park Yeonghun | Win | W+R | 6.5 | 3480 | 32 | 
+| 2015-05-07 | 2015年韓国囲碁リーグ | Park Cheongsang | Park Yeonghun | Lose | B+R | 6.5 | 3448 | 2 | 
+| 2015-05-01 | 2015年韓国囲碁リーグ | Kim Jiseok | Park Yeonghun | Win | W+R | 6.5 | 3446 | 57 | 
+| 2015-04-23 | 2015年韓国囲碁リーグ | Weon Seongjin | Park Yeonghun | Lose | B+2.5 | 6.5 | 3389 | -219 | 
+| 2015-02-26 | 第20期GSカルテックス杯プロ棋戦3回戦 | Choi Cheolhan | Park Yeonghun | Lose | B+R | 6.5 | 3608 | 35 | 
+| 2015-02-11 | 第20期GSカルテックス杯プロ棋戦2回戦 | You Byungyong | Park Yeonghun | Win | W+R | 6.5 | 3573 | 65 | 
+| 2015-01-20 | 第16回マキシムコーヒー杯入神最強戦2回戦 | Hong Seongji | Park Yeonghun | Lose | B+R | 6.5 | 3508 | 20 | 
+| 2015-01-06 | 第4回世界囲碁名人争覇戦 | Park Yeonghun | Chen Yaoye | Lose | W+R | 7.5 | 3488 | -6 | 
+| 2015-01-05 | 第4回世界囲碁名人争覇戦 | Iyama Yuta | Park Yeonghun | Lose | B+R | 7.5 | 3494 | 31 | 
+| 2014-12-05 | 第58期国手戦（韓国）準決勝 | Park Yeonghun | Kim Jiseok | Lose | W+R | 6.5 | 3463 | 3 | 
+| 2014-11-19 | 第19回LG杯朝鮮日報棋王戦準決勝 | Park Yeonghun | Park Junghwan | Lose | W+R | 6.5 | 3460 | -14 | 
+| 2014-11-17 | 第19回LG杯朝鮮日報棋王戦3回戦 | Park Yeonghun | Xie Erhao | Win | B+R | 6.5 | 3474 | 10 | 
+| 2014-11-11 | 第42期名人戦（韓国）決勝五番勝負第4局 | Park Yeonghun | Lee Donghoon | Win | B+R | 6.5 | 3464 | 1 | 
+| 2014-11-10 | 第42期名人戦（韓国）決勝五番勝負第3局 | Lee Donghoon | Park Yeonghun | Win | W+R | 6.5 | 3463 | 8 | 
+| 2014-11-07 | 2014年韓国囲碁リーグ | Kim Myounghoon | Park Yeonghun | Lose | B+R | 6.5 | 3455 | 124 | 
+| 2014-11-02 | 第42期名人戦（韓国）決勝五番勝負第2局 | Park Yeonghun | Lee Donghoon | Lose | W+R | 6.5 | 3331 | -11 | 
+| 2014-11-01 | 第42期名人戦（韓国）決勝五番勝負第1局 | Lee Donghoon | Park Yeonghun | Win | W+R | 6.5 | 3342 | -5 | 
+| 2014-10-26 | 第19期バッカス杯天元戦1回戦 | Kim Jiseok | Park Yeonghun | Lose | B+T | 6.5 | 3347 | 15 | 
+| 2014-10-23 | 2014年韓国囲碁リーグ | Park Yeonghun | Lee Hobum | Win | B+R | 6.5 | 3332 | 2 | 
+| 2014-10-21 | 第58期国手戦（韓国）2回戦 | Lee Sedol | Park Yeonghun | Win | W+R | 6.5 | 3330 | -61 | 
+| 2014-10-05 | 第42期名人戦（韓国）準決勝第3局 | Park Junghwan | Park Yeonghun | Win | W+0.5 | 6.5 | 3391 | 11 | 
+| 2014-10-03 | 2014年韓国囲碁リーグ | Jin Siyoung | Park Yeonghun | Lose | B+R | 6.5 | 3380 | -4 | 
+| 2014-10-01 | 第42期名人戦（韓国）準決勝第2局 | Park Yeonghun | Park Junghwan | Lose | W+R | 6.5 | 3384 | -12 | 
+| 2014-09-30 | 第42期名人戦（韓国）準決勝第1局 | Park Junghwan | Park Yeonghun | Win | W+R | 6.5 | 3396 | 18 | 
+| 2014-09-27 | 2014年韓国囲碁リーグ | Park Yeonghun | Kang Seungmin | Win | B+R | 6.5 | 3378 | -19 | 
+| 2014-09-13 | 2014年韓国囲碁リーグ | Park Yeonghun | Han Sanghoon | Win | B+2.5 | 6.5 | 3397 | 46 | 
+| 2014-08-29 | 2014年レッツランパーク杯オープントーナメント2回戦 | Kim Myounghoon | Park Yeonghun | Lose | B+R | 6.5 | 3351 | -28 | 
+| 2014-08-18 | 第42期名人戦（韓国）2回戦 | Kim Jiseok | Park Yeonghun | Win | W+R | 6.5 | 3379 | 5 | 
+| 2014-08-15 | 2014年韓国囲碁リーグ | Park Yeonghun | An Joyeong | Win | B+R | 6.5 | 3374 | -30 | 
+| 2014-08-01 | 第19回三星火災杯統合予選1回戦 | Park Yeonghun |  | Lose | W+R | 6.5 | 3404 | -11 | 
+| 2014-07-28 | 第42期名人戦（韓国）1回戦 | Park Yeonghun | Lee Jihyun | Win | B+R | 6.5 | 3415 | 8 | 
+| 2014-07-24 | 2014年韓国囲碁リーグ | Park Yeonghun | Kim Sedong | Lose | W+0.5 | 6.5 | 3407 | -16 | 
+| 2014-07-22 | 第58期国手戦（韓国）1回戦 | Park Yeonghun | Na Hyun | Win | B+R | 6.5 | 3423 | 24 | 
+| 2014-07-12 | 2014年韓国囲碁リーグ | Park Yeonghun | Na Hyun | Win | B+R | 6.5 | 3399 | 25 | 
+| 2014-06-28 | 2014年韓国囲碁リーグ | Park Yeonghun |  | Win | B+R | 6.5 | 3374 | 21 | 
+| 2014-06-21 | 2014年韓国囲碁リーグ | Ryu Suhang | Park Yeonghun | Win | W+R | 6.5 | 3353 | 9 | 
+| 2014-06-11 | 第19回LG杯朝鮮日報棋王戦2回戦 | An Dongxu | Park Yeonghun | Win | W+R | 6.5 | 3344 | 18 | 
+| 2014-06-09 | 第19回LG杯朝鮮日報棋王戦1回戦 | Park Yeonghun | Piao Wenyao | Win | B+R | 6.5 | 3326 | 21 | 
+| 2014-05-30 | 2014年韓国囲碁リーグ | Park Seunghwa | Park Yeonghun | Lose | B+R | 6.5 | 3305 | 71 | 
+| 2014-05-16 | 2014年韓国囲碁リーグ | Ahn Kukhyun | Park Yeonghun | Win | W+R | 6.5 | 3234 | 0 | 
+| 2014-05-10 | 2014年韓国囲碁リーグ | Park Junghwan | Park Yeonghun | Lose | B+R | 6.5 | 3234 | -1 | 
+| 2014-04-28 | 2014年中国囲碁乙級リーグ | Park Yeonghun | Zhu Yuanhao | Win | B+R | 7.5 | 3235 | -70 | 
+| 2014-04-26 | 2014年中国囲碁乙級リーグ | Park Yeonghun | Lee Changho | Win | B+R | 7.5 | 3305 | -55 | 
+| 2014-04-22 | 2014年中国囲碁乙級リーグ | Park Yeonghun |  | Win | B+R | 7.5 | 3360 | 32 | 
+| 2014-04-02 | 第10期物価情報杯プロ棋戦予選 | Jin Siyoung | Park Yeonghun | Lose | B+R | 6.5 | 3328 | 64 | 
+| 2014-03-15 | 第2回百霊杯世界オープン戦予選 | Park Yeonghun | Meng Tailing | Lose | W+R | 7.5 | 3264 | -52 | 
+| 2014-02-28 | 第10回春蘭杯韓国予選 | Mok Jinseok | Park Yeonghun | Lose | B+R | 6.5 | 3316 | -27 | 
+| 2014-02-06 | 第19期GSカルテックス杯プロ棋戦2回戦 | Park Yeonghun | Park Seunghwa | Lose | W+R | 6.5 | 3343 | -14 | 
+| 2014-01-28 | 第15回マキシムコーヒー杯入神最強戦2回戦 | Cho Hyeyeon | Park Yeonghun | Lose | B+2.5 | 6.5 | 3357 | -29 | 
+| 2014-01-20 | 第32回KBS杯囲碁王戦敗者復活戦決勝 | Park Yeonghun | Lee Sedol | Lose | W+R | 6.5 | 3386 | -78 | 
+| 2014-01-06 | 第32回KBS杯囲碁王戦本戦5回戦 | Park Junghwan | Park Yeonghun | Lose | B+R | 6.5 | 3464 | 55 | 
+| 2013-12-16 | 第32回KBS杯囲碁王戦本戦4回戦 | Park Yeonghun | Lee Sedol | Win | B+0.5 | 6.5 | 3409 | 46 | 
+| 2013-11-18 | 第32回KBS杯囲碁王戦本戦3回戦 | Lee Changho | Park Yeonghun | Win | W+4.5 | 6.5 | 3363 | -11 | 
+| 2013-11-17 | 2013年韓国囲碁リーグ | Park Yeonghun | Han Wonggyu | Win | B+R | 6.5 | 3374 | 39 | 
+| 2013-11-05 | 第18期バッカス杯天元戦準決勝 | Park Yeonghun | Choi Cheolhan | Lose | W+R | 6.5 | 3335 | -7 | 
+| 2013-11-02 | 2013年韓国囲碁リーグ | Park Yeonghun | An Joyeong | Win | B+R | 6.5 | 3342 | -2 | 
+| 2013-10-29 | 第41期名人戦（韓国）準決勝 | Park Yeonghun | Lee Sedol | Lose | W+R | 6.5 | 3344 | 0 | 
+| 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 |  | Park Yeonghun | Win | W+R | 7.5 | 3344 | 0 | 
+| 2013-10-24 | 第4期Olleh杯オープン選手権準々決勝 | Mok Jinseok | Park Yeonghun | Lose | B+1.5 | 6.5 | 3344 | -25 | 
+| 2013-10-17 | 2013年韓国囲碁リーグ | Kim Jinhyu | Park Yeonghun | Win | W+R | 6.5 | 3369 | 16 | 
+| 2013-10-13 | 第15回中国囲碁甲級リーグ第16節 | Park Yeonghun | Fan Tingyu | Win | B+R | 7.5 | 3353 | -23 | 
+| 2013-10-08 | 第18回三星火災杯世界囲碁マスターズ2回戦 | Park Yeonghun | Tang Weixing | Lose | W+R | 6.5 | 3376 | -30 | 
+| 2013-10-03 | 第57期国手戦（韓国）2回戦 | Hong Seongji | Park Yeonghun | Lose | B+0.5 | 6.5 | 3406 | -38 | 
+| 2013-09-26 | 第4期Olleh杯オープン選手権4回戦 | Park Yeonghun | Kim Junghyun | Win | B+R | 6.5 | 3444 | 9 | 
+| 2013-09-24 | 第41期名人戦（韓国）2回戦 | Kim Sonjin | Park Yeonghun | Win | W+0.5 | 6.5 | 3435 | 10 | 
+| 2013-09-20 | 第4期Olleh杯オープン選手権3回戦 | Lee Wondo | Park Yeonghun | Win | W+R | 6.5 | 3425 | -98 | 
+| 2013-09-14 | 2013年韓国囲碁リーグ | Na Hyun | Park Yeonghun | Lose | B+R | 6.5 | 3523 | -26 | 
+| 2013-09-12 | 第15回中国囲碁甲級リーグ第15節 | Liao Xingwen | Park Yeonghun | Win | W+R | 7.5 | 3549 | 39 | 
+| 2013-09-10 | 第18期バッカス杯天元戦2回戦 | Choi Byounghwan | Park Yeonghun | Win | W+R | 6.5 | 3510 | -7 | 
+| 2013-09-07 | 第15回中国囲碁甲級リーグ第14節 | Park Yeonghun | Hu Yaoyu | Win | B+R | 7.5 | 3517 | 7 | 
+| 2013-09-04 | 第18回三星火災杯世界囲碁マスターズ1回戦F2 | Niu Yutian | Park Yeonghun | Win | W+R | 6.5 | 3510 | 17 | 
+| 2013-09-03 | 第18回三星火災杯世界囲碁マスターズ1回戦F1 | Park Yeonghun | Zhou Ruiyang | Win | B+R | 6.5 | 3493 | 23 | 
+| 2013-09-01 | 第15回中国囲碁甲級リーグ第13節 | Mi Yuting | Park Yeonghun | Lose | B+R | 7.5 | 3470 | 9 | 
+| 2013-08-30 | 第15回中国囲碁甲級リーグ第12節 | Ke Jie | Park Yeonghun | Lose | B+R | 7.5 | 3461 | -17 | 
+| 2013-08-27 | 第41期名人戦（韓国）1回戦 | Kim Dongho | Park Yeonghun | Win | W+R | 6.5 | 3478 | 13 | 
+| 2013-08-24 | 第17回中韓天元対抗戦第3局 | Chen Yaoye | Park Yeonghun | Lose | B+1.5 | 7.5 | 3465 | -13 | 
+| 2013-08-23 | 第17回中韓天元対抗戦第2局 | Park Yeonghun | Chen Yaoye | Win | B+R | 7.5 | 3478 | -11 | 
+| 2013-08-21 | 第17回中韓天元対抗戦第1局 | Chen Yaoye | Park Yeonghun | Lose | B+1.5 | 7.5 | 3489 | -21 | 
+| 2013-08-15 | 2013年韓国囲碁リーグ | Ryu Suhang | Park Yeonghun | Lose | B+R | 6.5 | 3510 | -15 | 
+| 2013-08-13 | 第18期バッカス杯天元戦1回戦 | Park Yeonghun | Lee Donghoon | Win | B+R | 6.5 | 3525 | 14 | 
+| 2013-08-07 | 第18回三星火災杯統合予選決勝 | Park Seunghwa | Park Yeonghun | Win | W+R | 6.5 | 3511 | 74 | 
+| 2013-08-01 | 第15回農心杯韓国選抜戦 | Park Yeonghun | Park Junghwan | Lose | W+R | 6.5 | 3437 | -2 | 
+| 2013-07-25 | 2013年韓国囲碁リーグ | Park Yeonghun | Han Wonggyu | Win | B+3.5 | 6.5 | 3439 | -9 | 
+| 2013-07-22 | 第15回農心杯韓国選抜戦 | Park Yeonghun | Lee Chungyu | Win | B+R | 6.5 | 3448 | 67 | 
+| 2013-07-18 | 第15回農心杯韓国選抜戦 | Park Yeonghun | Han Sanghoon | Win | B+R | 6.5 | 3381 | 32 | 
+| 2013-07-15 | 第15回中国囲碁甲級リーグ第11節 | Park Yeonghun | Gu Li | Lose | W+R | 7.5 | 3349 | -7 | 
+| 2013-07-11 | 第57期国手戦（韓国）1回戦 | Kim Hwansoo | Park Yeonghun | Win | W+R | 6.5 | 3356 | 87 | 
+| 2013-07-07 | 第15回中国囲碁甲級リーグ第10節 | Park Yeonghun | Wang Haoyang | Win | B+1.5 | 7.5 | 3269 | -15 | 
+| 2013-07-01 | 第32回KBS杯囲碁王戦本戦2回戦 | Park Yeonghun | Shin Yoonho | Win | B+R | 6.5 | 3284 | 44 | 
+| 2013-06-23 | 2013年韓国囲碁リーグ | Park Yeonghun | Mok Jinseok | Win | B+R | 6.5 | 3240 | 5 | 
+| 2013-06-22 | 第15回中国囲碁甲級リーグ第9節 | Shi Yue | Park Yeonghun | Lose | B+R | 7.5 | 3235 | -25 | 
+| 2013-06-15 | 第15回中国囲碁甲級リーグ第8節 | Huang Yunsong | Park Yeonghun | Win | W+R | 7.5 | 3260 | 9 | 
+| 2013-06-13 | 2013年韓国囲碁リーグ | Park Yeonghun | Kang Yootaek | Win | B+3.5 | 6.5 | 3251 | -5 | 
+| 2013-06-10 | 第18回LG杯朝鮮日報棋王戦1回戦 | Park Yeonghun | Li Qincheng | Lose | W+R | 6.5 | 3256 | -41 | 
+| 2013-06-02 | 第15回中国囲碁甲級リーグ第7節 | Liu Xing | Park Yeonghun | Win | W+0.5 | 7.5 | 3297 | 148 | 
+| 2013-05-24 | 第1回夢百合杯世界オープン戦予選 | Zhou Hexi | Park Yeonghun | Lose | B+R | 7.5 | 3149 | -74 | 
+| 2013-05-17 | 2013年韓国囲碁リーグ | Park Yeonghun |  | Win | B+R | 6.5 | 3223 | 1 | 
+| 2013-05-11 | 第15回中国囲碁甲級リーグ第5節 | Zhou Ruiyang | Park Yeonghun | Lose | B+R | 7.5 | 3222 | -10 | 
+| 2013-05-09 | 第15回中国囲碁甲級リーグ第4節 | Park Yeonghun | Niu Yutian | Win | B+R | 7.5 | 3232 | 0 | 
+| 2013-05-06 | 第32回KBS杯囲碁王戦本戦1回戦 | Hong Minpyo | Park Yeonghun | Win | W+1.5 | 6.5 | 3232 | 8 | 
+| 2013-05-05 | 2013年韓国囲碁リーグ | Park Yeonghun | Park Cheongsang | Lose | W+R | 6.5 | 3224 | -4 | 
+| 2013-05-04 | 第15回中国囲碁甲級リーグ第3節 | Qiu Jun | Park Yeonghun | Win | W+R | 7.5 | 3228 | -41 | 
+| 2013-04-25 | 第57期国手戦（韓国）予選 | Kim Sedong | Park Yeonghun | Win | W+R | 6.5 | 3269 | 26 | 
+| 2013-04-14 | 2013年韓国囲碁リーグ | Park Yeonghun | Kim Sedong | Lose | W+R | 6.5 | 3243 | -21 | 
+| 2013-04-10 | 第18期GSカルテックス杯プロ棋戦準決勝 | Park Yeonghun | Lee Sedol | Lose | W+R | 6.5 | 3264 | 5 | 
+| 2013-04-07 | 第15回中国囲碁甲級リーグ第2節 |  | Park Yeonghun | Lose | B+R | 7.5 | 3259 | -11 | 
+| 2013-04-05 | 第15回中国囲碁甲級リーグ第1節 | Ke Jie | Park Yeonghun | Lose | B+1.5 | 7.5 | 3270 | -18 | 
+| 2013-04-02 | 第8期圓益杯十段戦決勝三番勝負第2局 | Park Yeonghun | Kang Dongyun | Lose | W+R | 6.5 | 3288 | -3 | 
+| 2013-04-01 | 第8期圓益杯十段戦決勝三番勝負第1局 | Kang Dongyun | Park Yeonghun | Lose | B+R | 6.5 | 3291 | -38 | 
+| 2013-03-25 | 第8期圓益杯十段戦準決勝 | Park Yeonghun | Han Wonggyu | Win | B+4.5 | 6.5 | 3329 | -16 | 
+| 2013-03-11 | 第8期圓益杯十段戦4回戦 | Choi Cheolhan | Park Yeonghun | Win | W+R | 6.5 | 3345 | 32 | 
+| 2013-02-27 | 第18期GSカルテックス杯プロ棋戦3回戦 | Kim Seongjae | Park Yeonghun | Win | W+R | 6.5 | 3313 | 28 | 
+| 2013-02-14 | 第18期GSカルテックス杯プロ棋戦2回戦 | Park Yeonghun | Lee Chungyu | Win | B+5.5 | 6.5 | 3285 | 20 | 
+| 2013-02-05 | 第8期圓益杯十段戦3回戦 | Mok Jinseok | Park Yeonghun | Win | W+R | 6.5 | 3265 | -14 | 
+| 2013-01-25 | 第3期招商地産杯韓国選抜戦 | Lee Yeongkyu | Park Yeonghun | Lose | B+R | 6.5 | 3279 | 6 | 
+| 2013-01-21 | 第8期圓益杯十段戦2回戦 | Lee Changho | Park Yeonghun | Win | W+R | 6.5 | 3273 | 8 | 
+| 2013-01-17 | 第17期バッカス杯天元戦決勝三番勝負第3局 | Choi Cheolhan | Park Yeonghun | Win | W+R | 6.5 | 3265 | 7 | 
+| 2013-01-15 | 第17期バッカス杯天元戦決勝三番勝負第2局 | Park Yeonghun | Choi Cheolhan | Win | B+R | 6.5 | 3258 | 7 | 
+| 2013-01-10 | 第17期バッカス杯天元戦決勝三番勝負第1局 | Choi Cheolhan | Park Yeonghun | Lose | B+R | 6.5 | 3251 | 20 | 
+| 2012-12-04 | 第14回マキシムコーヒー杯入神最強戦2回戦 | Park Yeonghun | Lee Yeongkyu | Lose | W+R | 6.5 | 3231 | -268 | 
+| 2012-11-21 | 第40期名人戦（韓国）準決勝 | Park Yeonghun | Lee Sedol | Lose | W+R | 6.5 | 3499 | -1 | 
+| 2012-11-20 | 第17期バッカス杯天元戦準決勝 | Park Yeonghun | Park Junghwan | Win | B+R | 6.5 | 3500 | 44 | 
+| 2012-11-12 | 第8期圓益杯十段戦1回戦 | Park Siyeol | Park Yeonghun | Win | W+R | 6.5 | 3456 | 4 | 
+| 2012-11-06 | 第17期バッカス杯天元戦2回戦 | Park Yeonghun | Kim Seungjun | Win | B+0.5 | 6.5 | 3452 | -14 | 
+| 2012-10-31 | 第40期名人戦（韓国）2回戦 | Choi Cheolhan | Park Yeonghun | Win | W+0.5 | 6.5 | 3466 | 50 | 
+| 2012-09-27 | 2012年韓国囲碁リーグ | Park Seunghyeon | Park Yeonghun | Win | W+R | 6.5 | 3416 | -25 | 
+| 2012-09-15 | 2012年韓国囲碁リーグ | Park Yeonghun | Hong Kipyo | Lose | W+3.5 | 6.5 | 3441 | -5 | 
+| 2012-09-13 | 第3回世界囲碁名人争覇戦決勝 | Park Yeonghun | Jiang Weijie | Lose | W+R | 7.5 | 3446 | 7 | 
+| 2012-09-10 | 第3回世界囲碁名人争覇戦 | Jiang Weijie | Park Yeonghun | Win | W+R | 7.5 | 3439 | 24 | 
+| 2012-09-01 | 2012年韓国囲碁リーグ | Park Yeonghun | Kim Sonjin | Lose | W+R | 6.5 | 3415 | 0 | 
+| 2012-08-29 | 第40期名人戦（韓国）1回戦 | Park Yeonghun | Lee Taehyun | Win | B+R | 6.5 | 3415 | 55 | 
+| 2012-08-21 | 第17期バッカス杯天元戦1回戦 | Lee Taehyun | Park Yeonghun | Win | W+R | 6.5 | 3360 | -6 | 
+| 2012-08-19 | 2012年韓国囲碁リーグ | Park Yeonghun | Lee Sula | Win | B+4.5 | 6.5 | 3366 | -5 | 
+| 2012-08-10 | 2012年韓国囲碁リーグ | An Sungjoon | Park Yeonghun | Win | W+R | 6.5 | 3371 | 43 | 
+| 2012-08-07 | 第17回三星火災杯統合予選決勝 | Li Qincheng | Park Yeonghun | Lose | B+R | 6.5 | 3328 | -9 | 
+| 2012-08-06 | 第17回三星火災杯統合予選準決勝 | Liu Xing | Park Yeonghun | Win | W+0.5 | 6.5 | 3337 | 4 | 
+| 2012-08-05 | 2012年韓国囲碁リーグ | Kim Jiseok | Park Yeonghun | Lose | B+R | 6.5 | 3333 | -79 | 
+| 2012-07-27 | 2012年韓国囲碁リーグ | Park Yeonghun | Han Wonggyu | Win | B+1.5 | 6.5 | 3412 | 2 | 
+| 2012-07-26 | 第56期国手戦（韓国）1回戦 | Weon Seongjin | Park Yeonghun | Lose | B+1.5 | 6.5 | 3410 | 6 | 
+| 2012-07-20 | 2012年韓国囲碁リーグ | Park Yeonghun | Park Seunghwa | Lose | W+R | 6.5 | 3404 | 9 | 
+| 2012-07-18 | 第14回農心杯韓国選抜戦 | Lee Yeongkyu | Park Yeonghun | Lose | B+R | 6.5 | 3395 | -15 | 
+| 2012-07-13 | 2012年韓国囲碁リーグ | Park Yeonghun | Na Hyun | Lose | W+0.5 | 6.5 | 3410 | -24 | 
+| 2012-07-06 | 第14回農心杯韓国選抜戦 | Hong Seongji | Park Yeonghun | Win | W+R | 6.5 | 3434 | 32 | 
+| 2012-07-01 | 2012年韓国囲碁リーグ | Park Yeonghun | Han Sanghoon | Lose | W+R | 6.5 | 3402 | 9 | 
+| 2012-06-22 | 2012年韓国囲碁リーグ | An Joyeong | Park Yeonghun | Win | W+R | 6.5 | 3393 | -33 | 
+| 2012-06-14 | 2012年中国囲碁乙級リーグ | Wang Yao | Park Yeonghun | Win | W+R | 7.5 | 3426 | -67 | 
+| 2012-06-13 | 2012年中国囲碁乙級リーグ | Park Yeonghun | Paek Hongseok | Lose | W+R | 7.5 | 3493 | -9 | 
+| 2012-06-11 | 2012年中国囲碁乙級リーグ | Luo Xihe | Park Yeonghun | Win | W+2.5 | 7.5 | 3502 | 18 | 
+| 2012-06-10 | 2012年中国囲碁乙級リーグ | Park Yeonghun |  | Lose | W+R | 7.5 | 3484 | 8 | 
+| 2012-06-08 | 2012年中国囲碁乙級リーグ |  | Park Yeonghun | Win | W+R | 7.5 | 3476 | 14 | 
+| 2012-06-07 | 2012年中国囲碁乙級リーグ | Park Yeonghun | Kang Dongyun | Lose | W+R | 7.5 | 3462 | 8 | 
+| 2012-06-06 | 2012年中国囲碁乙級リーグ |  | Park Yeonghun | Win | W+6.5 | 7.5 | 3454 | 44 | 
+| 2012-05-26 | 2012年韓国囲碁リーグ | Park Yeonghun | Ahn Kukhyun | Win | B+1.5 | 6.5 | 3410 | -43 | 
+| 2012-05-20 | 第8期物価情報杯プロ棋戦リーグB | Park Yeonghun | An Sungjoon | Lose | W+R | 6.5 | 3453 | -17 | 
+| 2012-05-17 | 2012年韓国囲碁リーグ | Park Yeonghun | Park Junghwan | Lose | W+R | 6.5 | 3470 | 20 | 
+| 2012-05-12 | 2012年韓国囲碁リーグ | Park Yeonghun | Kim Jiseok | Win | B+R | 6.5 | 3450 | -77 | 
+| 2012-05-06 | 第17期GSカルテックス杯プロ棋戦決勝五番勝負第5局 | Lee Sedol | Park Yeonghun | Lose | B+R | 6.5 | 3527 | -5 | 
+| 2012-05-05 | 第17期GSカルテックス杯プロ棋戦決勝五番勝負第4局 | Park Yeonghun | Lee Sedol | Lose | W+6.5 | 6.5 | 3532 | -4 | 
+| 2012-05-04 | 第8期物価情報杯プロ棋戦リーグB | Park Yeonghun | Lee Wonyoung | Lose | W+R | 6.5 | 3536 | -13 | 
+| 2012-05-03 | 2012年韓国囲碁リーグ | Park Yeonghun | Weon Seongjin | Lose | W+R | 6.5 | 3549 | -42 | 
+| 2012-05-01 | 第17期GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Lee Sedol | Park Yeonghun | Win | W+R | 6.5 | 3591 | 2 | 
+| 2012-04-30 | 第17期GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Park Yeonghun | Lee Sedol | Win | B+R | 6.5 | 3589 | 14 | 
+| 2012-04-26 | 2012年韓国囲碁リーグ | Kang Dongyun | Park Yeonghun | Win | W+R | 6.5 | 3575 | 3 | 
+| 2012-04-25 | 第17期GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Lee Sedol | Park Yeonghun | Lose | B+R | 6.5 | 3572 | -3 | 
+| 2012-04-23 | 第17回LG杯予選 | Li Kang | Park Yeonghun | Lose | B+R | 6.5 | 3575 | -47 | 
+| 2012-04-19 | 2012年韓国囲碁リーグ | Park Yeonghun | Na Hyun | Lose | W+1.5 | 6.5 | 3622 | -4 | 
+| 2012-04-18 | 第17期GSカルテックス杯プロ棋戦準決勝 | Park Yeonghun | Kang Dongyun | Win | B+R | 6.5 | 3626 | 11 | 
+| 2012-04-16 | 第4回BCカード杯世界選手権4回戦 | Dang Yifei | Park Yeonghun | Lose | B+R | 6.5 | 3615 | -4 | 
+| 2012-04-14 | 第4回BCカード杯世界選手権3回戦 | Lee Wonyoung | Park Yeonghun | Win | W+R | 6.5 | 3619 | 6 | 
+| 2012-04-05 | 第17期GSカルテックス杯プロ棋戦3回戦 | Park Yeonghun | Kim Seongjae | Win | B+R | 6.5 | 3613 | -2 | 
+| 2012-03-16 | 第4回BCカード杯世界選手権2回戦 | Hong Seongji | Park Yeonghun | Win | W+R | 6.5 | 3615 | 0 | 
+| 2012-03-14 | 第1回百霊杯世界囲碁選手権1回戦 | Park Yeonghun | Shi Yue | Lose | W+R | 7.5 | 3615 | -16 | 
+| 2012-03-12 | 第1回百霊杯世界囲碁選手権予選 | Park Yeonghun | Peng Liyao | Win | B+R | 7.5 | 3631 | 17 | 
+| 2012-03-11 | 第1回百霊杯世界囲碁選手権予選 | Yu Zhiying | Park Yeonghun | Win | W+R | 7.5 | 3614 | 25 | 
+| 2012-03-08 | 第17期GSカルテックス杯プロ棋戦2回戦 | Ahn Kukhyun | Park Yeonghun | Win | W+R | 6.5 | 3589 | -89 | 
+| 2012-03-07 | 第7回応氏杯世界選手権韓国選抜戦 | Park Yeonghun | Weon Seongjin | Lose | W+3 | 7.5 | 3678 | 15 | 
+| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Li He | Park Yeonghun | Win | W+R | 6.5 | 3663 | -77 | 
+| 2012-02-17 | 第7回応氏杯世界選手権韓国選抜戦 | Park Yeonghun | Cho Hanseung | Win | B+R | 7.5 | 3740 | 108 | 
+| 2012-02-08 | 第9回春蘭杯韓国予選 | Park Yeonghun | Lee Changho | Lose | W+R | 6.5 | 3632 | -10 | 
+| 2012-01-30 | 第13回マキシムコーヒー杯入神最強戦3回戦 | Park Yeonghun | Park Junghwan | Lose | W+R | 6.5 | 3642 | -30 | 
+| 2011-12-14 | 第13回マキシムコーヒー杯入神最強戦2回戦 | Park Yeonghun | Cho Hanseung | Win | B+R | 6.5 | 3672 | 22 | 
+| 2011-12-08 | 第39期名人戦（韓国）決勝五番勝負第4局 | Paek Hongseok | Park Yeonghun | Win | W+R | 6.5 | 3650 | 400 | 
+| 2011-11-29 | 第7期圓益杯十段戦2回戦 | Lee Wonyoung | Park Yeonghun | Lose | B+R | 6.5 | 3250 | 34 | 
+| 2011-11-25 | 第39期名人戦（韓国）決勝五番勝負第3局 | Park Yeonghun | Paek Hongseok | Win | B+R | 6.5 | 3216 | 24 | 
+| 2011-11-24 | 第39期名人戦（韓国）決勝五番勝負第2局 | Paek Hongseok | Park Yeonghun | Lose | B+R | 6.5 | 3192 | -18 | 
+| 2011-11-18 | 第39期名人戦（韓国）決勝五番勝負第1局 | Park Yeonghun | Paek Hongseok | Win | B+R | 6.5 | 3210 | 14 | 
+| 2011-11-13 | 2011年韓国囲碁リーグ | Lee Jungwoo | Park Yeonghun | Win | W+R | 6.5 | 3196 | -15 | 
+| 2011-11-09 | 第39期名人戦（韓国）準決勝第2局 | Lee Taehyun | Park Yeonghun | Win | W+R | 6.5 | 3211 | -5 | 
+| 2011-11-07 | 第7期圓益杯十段戦1回戦 | Yoo Changhyuk | Park Yeonghun | Win | W+R | 6.5 | 3216 | -26 | 
+| 2011-11-02 | 第39期名人戦（韓国）準決勝第1局 | Park Yeonghun | Lee Taehyun | Win | B+R | 6.5 | 3242 | -2 | 
+| 2011-10-28 | 2011年韓国囲碁リーグ | Park Yeonghun | Kim Jiseok | Lose | W+R | 6.5 | 3244 | 2 | 
+| 2011-10-25 | 第39期名人戦（韓国）2回戦 | Jin Donggyu | Park Yeonghun | Win | W+R | 6.5 | 3242 | 13 | 
+| 2011-10-23 | 2011年韓国囲碁リーグ | Park Yeonghun | Ahn Kukhyun | Win | B+R | 6.5 | 3229 | 23 | 
+| 2011-10-19 | 第16期GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Park Yeonghun | Park Junghwan | Lose | W+R | 6.5 | 3206 | -22 | 
+| 2011-10-17 | 第30回KBS杯囲碁王戦敗者復活戦1回戦 | Park Yeonghun | Cho Hunhyun | Lose | W+R | 6.5 | 3228 | -13 | 
+| 2011-10-05 | 第16回三星火災杯世界囲碁マスターズ2回戦 | Park Yeonghun | Weon Seongjin | Lose | W+R | 6.5 | 3241 | 5 | 
+| 2011-10-04 | 第16回三星火災杯世界囲碁マスターズ1回戦 | Park Yeonghun |  | Win | B+R | 6.5 | 3236 | -33 | 
+| 2011-09-26 | 第16期GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Park Junghwan | Park Yeonghun | Lose | B+R | 6.5 | 3269 | -20 | 
+| 2011-09-21 | 2011年韓国囲碁リーグ | Park Yeonghun | Park Junghwan | Lose | W+R | 6.5 | 3289 | -2 | 
+| 2011-09-19 | 第16期GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Park Yeonghun | Park Junghwan | Lose | W+R | 6.5 | 3291 | 4 | 
+| 2011-09-16 | 2011年韓国囲碁リーグ |  | Park Yeonghun | Lose | B+R | 6.5 | 3287 | -18 | 
+| 2011-09-14 | 第39期名人戦（韓国）1回戦 | Kang Dongyun | Park Yeonghun | Win | W+R | 6.5 | 3305 | 62 | 
+| 2011-09-03 | 2011年韓国囲碁リーグ |  | Park Yeonghun | Win | W+R | 6.5 | 3243 | 17 | 
+| 2011-08-25 | 第16回三星火災杯世界囲碁マスターズ1回戦D2 | Park Yeonghun | Sakai Hideyuki | Win | B+R | 6.5 | 3226 | -1 | 
+| 2011-08-24 | 第16回三星火災杯世界囲碁マスターズ1回戦D1 | Na Hyun | Park Yeonghun | Win | W+R | 6.5 | 3227 | 26 | 
+| 2011-08-20 | 第2回世界囲碁名人争覇戦決勝 | Jiang Weijie | Park Yeonghun | Win | W+R | 7.5 | 3201 | 7 | 
+| 2011-08-17 | 第2回世界囲碁名人争覇戦 | Iyama Yuta | Park Yeonghun | Win | W+R | 7.5 | 3194 | -13 | 
+| 2011-08-04 | 2011年韓国囲碁リーグ | Park Yeonghun | An Joyeong | Lose | W+R | 6.5 | 3207 | 5 | 
+| 2011-08-01 | 第30回KBS杯囲碁王戦本戦2回戦 | Park Yeonghun | Lee Sedol | Lose | W+R | 6.5 | 3202 | -5 | 
+| 2011-07-29 | 第1回スポーツアコードワールドマインドゲームズ囲碁韓国予選 | Park Yeonghun | Kang Dongyun | Lose | W+R | 6.5 | 3207 | -7 | 
+| 2011-07-23 | 2011年韓国囲碁リーグ | Park Yeonghun | Kang Yootaek | Lose | W+R | 6.5 | 3214 | -24 | 
+| 2011-07-19 | 第16期GSカルテックス杯プロ棋戦準決勝 | Cho Hanseung | Park Yeonghun | Win | W+R | 6.5 | 3238 | 10 | 
+| 2011-07-14 | 2011年韓国囲碁リーグ | Choi Cheolhan | Park Yeonghun | Lose | B+R | 6.5 | 3228 | -23 | 
+| 2011-07-13 | 第13回農心杯韓国選抜戦 | Park Yeonghun | Kim Jiseok | Lose | W+R | 6.5 | 3251 | 2 | 
+| 2011-07-08 | 第13回農心杯韓国選抜戦 | Yun Chanhee | Park Yeonghun | Win | W+R | 6.5 | 3249 | -27 | 
+| 2011-07-03 | 2011年韓国囲碁リーグ | Mok Jinseok | Park Yeonghun | Win | W+R | 6.5 | 3276 | -131 | 
+| 2011-06-20 | 第16期GSカルテックス杯プロ棋戦3回戦 | Kang Changbae | Park Yeonghun | Win | W+3.5 | 6.5 | 3407 | -21 | 
+| 2011-06-18 | 2011年韓国囲碁リーグ | Park Junghwan | Park Yeonghun | Win | W+R | 6.5 | 3428 | 0 | 
+| 2011-06-15 | 第16回LG杯世界棋王戦2回戦 | Park Yeonghun | Xie He | Lose | W+R | 6.5 | 3428 | -16 | 
+| 2011-06-13 | 第16回LG杯世界棋王戦1回戦 | Lee Sedol | Park Yeonghun | Win | W+R | 6.5 | 3444 | -9 | 
+| 2011-06-05 | 2011年韓国囲碁リーグ | Park Yeonghun | Lee Yeongkyu | Win | B+9.5 | 6.5 | 3453 | 63 | 
+| 2011-05-21 | 2011年韓国囲碁リーグ | Lee Changho | Park Yeonghun | Lose | B+R | 6.5 | 3390 | 4 | 
+| 2011-05-09 | 第30回KBS杯囲碁王戦本戦1回戦 | Jen Youngkyu | Park Yeonghun | Win | W+R | 6.5 | 3386 | -20 | 
+| 2011-05-03 | 第16回LG杯予選 | Wang Yao | Park Yeonghun | Win | W+R | 6.5 | 3406 | 14 | 
+| 2011-04-30 | 第16回LG杯予選 | Gu Lingyi | Park Yeonghun | Win | W+R | 6.5 | 3392 | -4 | 
+| 2011-04-18 | 第16期GSカルテックス杯プロ棋戦2回戦 | Kim Juho | Park Yeonghun | Win | W+6.5 | 6.5 | 3396 | 30 | 
+| 2011-04-07 | 第12回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Park Yeonghun | Lee Changho | Win | B+0.5 | 6.5 | 3366 | -57 | 
+| 2011-03-21 | 第12回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Lee Changho | Park Yeonghun | Win | W+R | 6.5 | 3423 | 16 | 
+| 2011-03-13 | 第6期圓益杯十段戦4回戦 | Park Yeonghun | Lee Yeongkyu | Lose | W+R | 6.5 | 3407 | -3 | 
+| 2011-03-07 | 第1期招商地産杯中韓囲棋団体対抗戦第2戦 | Park Yeonghun | Liu Xing | Lose | W+R | 7.5 | 3410 | -18 | 
+| 2011-03-05 | 第1期招商地産杯中韓囲棋団体対抗戦第1戦 | Kong Jie | Park Yeonghun | Lose | B+R | 7.5 | 3428 | 17 | 
+| 2011-02-21 | 第12回マキシムコーヒー杯入神最強戦準決勝 | Choi Cheolhan | Park Yeonghun | Win | W+R | 6.5 | 3411 | 182 | 
+| 2011-01-19 | 第24回世界囲碁選手権富士通杯韓国予選 | Kang Dongyun | Park Yeonghun | Lose | B+R | 6.5 | 3229 | -41 | 
+| 2011-01-14 | 第12回マキシムコーヒー杯入神最強戦3回戦 | Park Yeonghun | Kang Dongyun | Win | B+R | 6.5 | 3270 | 5 | 
+| 2011-01-05 | 第6期圓益杯十段戦3回戦 | Park Yeonghun | An Joyeong | Win | B+R | 6.5 | 3265 | 69 | 
+| 2010-12-20 | 第6期圓益杯十段戦2回戦 | Park Yeonghun | Hong Minpyo | Win | B+R | 6.5 | 3196 | 22 | 
+| 2010-12-14 | 第12回マキシムコーヒー杯入神最強戦2回戦 | Park Yeonghun |  | Win | B+5.5 | 6.5 | 3174 | 1 | 
+| 2010-11-18 | 第6期圓益杯十段戦1回戦 | Park Yeonghun | Han Sanghoon | Win | B+4.5 | 6.5 | 3173 | 0 | 
+| 2010-11-11 | 第38期名人戦（韓国）決勝五番勝負第5局 | Weon Seongjin | Park Yeonghun | Win | W+R | 6.5 | 3173 | 1 | 
+| 2010-11-09 | 第38期名人戦（韓国）決勝五番勝負第4局 | Weon Seongjin | Park Yeonghun | Win | W+1.5 | 6.5 | 3172 | 15 | 
+| 2010-10-27 | 第38期名人戦（韓国）決勝五番勝負第3局 | Park Yeonghun | Weon Seongjin | Lose | W+R | 6.5 | 3157 | -12 | 
+| 2010-10-25 | 第38期名人戦（韓国）決勝五番勝負第2局 | Weon Seongjin | Park Yeonghun | Lose | B+R | 6.5 | 3169 | -8 | 
+| 2010-10-23 | 第38期名人戦（韓国）決勝五番勝負第1局 | Park Yeonghun | Weon Seongjin | Win | B+R | 6.5 | 3177 | -21 | 
+| 2010-10-17 | 2010年韓国囲碁リーグ | Park Yeonghun | Kim Hyeongwoo | Lose | W+R | 6.5 | 3198 | 21 | 
+| 2010-10-13 | 第15回三星火災杯世界囲碁マスターズ2回戦 | Park Yeonghun | Wang Lei (s) | Lose | W+R | 6.5 | 3177 | -19 | 
+| 2010-10-07 | 第15期GSカルテックス杯プロ棋戦挑戦者決定戦 | Park Yeonghun | Weon Seongjin | Lose | W+R | 6.5 | 3196 | -3 | 
+| 2010-10-05 | 第38期名人戦（韓国）準決勝第3局 | Park Yeonghun | Lee Changho | Win | B+R | 6.5 | 3199 | 107 | 
+| 2010-10-02 | 2010年韓国囲碁リーグ | Park Yeonghun | Hong Minpyo | Win | B+R | 6.5 | 3092 | 17 | 
+| 2010-09-30 | 第38期名人戦（韓国）準決勝第2局 | Park Yeonghun | Lee Changho | Lose | W+R | 6.5 | 3075 | 21 | 
+| 2010-09-28 | 第38期名人戦（韓国）準決勝第1局 | Lee Changho | Park Yeonghun | Win | W+R | 6.5 | 3054 | -26 | 
+| 2010-09-19 | 2010年韓国囲碁リーグ | Yun Junsang | Park Yeonghun | Lose | B+R | 6.5 | 3080 | -21 | 
+| 2010-09-15 | 第15期GSカルテックス杯プロ棋戦準決勝 | Lee Yeongkyu | Park Yeonghun | Win | W+R | 6.5 | 3101 | 77 | 
+| 2010-09-10 | 第15回三星火災杯世界囲碁マスターズ1回戦H3 | Yoo Changhyuk | Park Yeonghun | Win | W+R | 6.5 | 3024 | -2 | 
+| 2010-09-09 | 第15回三星火災杯世界囲碁マスターズ1回戦H2 | Wang Lei (s) | Park Yeonghun | Lose | B+R | 6.5 | 3026 | -3 | 
+| 2010-09-08 | 第15回三星火災杯世界囲碁マスターズ1回戦H1 | Park Yeonghun | Yoo Changhyuk | Win | B+1.5 | 6.5 | 3029 | -23 | 
+| 2010-08-24 | 2010年韓国囲碁リーグ | Lee Changho | Park Yeonghun | Lose | B+R | 6.5 | 3052 | -7 | 
+| 2010-08-23 | 第29回KBS杯囲碁王戦敗者復活戦1回戦 | Kang Yootaek | Park Yeonghun | Lose | B+R | 6.5 | 3059 | -24 | 
+| 2010-08-17 | 第38期名人戦（韓国）リーグB | Kim Kiyoung | Park Yeonghun | Win | W+3.5 | 6.5 | 3083 | 28 | 
+| 2010-08-15 | 2010年韓国囲碁リーグ | Lee Yeongkyu | Park Yeonghun | Lose | B+R | 6.5 | 3055 | -11 | 
+| 2010-08-09 | 第38期名人戦（韓国）リーグB | Cho Hanseung | Park Yeonghun | Lose | B+R | 6.5 | 3066 | -35 | 
+| 2010-08-02 | 第15回三星火災杯統合予選1回戦 | Sun Tengyu | Park Yeonghun | Win | W+R | 6.5 | 3101 | 20 | 
+| 2010-07-27 | 第15期バッカス杯天元戦1回戦 | Kang Yootaek | Park Yeonghun | Lose | B+R | 6.5 | 3081 | -18 | 
+| 2010-07-18 | 第6期物価情報杯プロ棋戦決勝トーナメント1回戦 | Park Yeonghun | Weon Seongjin | Lose | W+R | 6.5 | 3099 | -2 | 
+| 2010-07-13 | 第38期名人戦（韓国）リーグB | Weon Seongjin | Park Yeonghun | Win | W+R | 6.5 | 3101 | -16 | 
+| 2010-07-05 | 第29回KBS杯囲碁王戦本戦2回戦 | Kim Sooyong | Park Yeonghun | Lose | B+1.5 | 6.5 | 3117 | -20 | 
+| 2010-06-25 | 2010年韓国囲碁リーグ | An Joyeong | Park Yeonghun | Win | W+R | 6.5 | 3137 | 12 | 
+| 2010-06-23 | 第15期GSカルテックス杯プロ棋戦3回戦 | Park Yeonghun | Kim Junghyun | Win | B+R | 6.5 | 3125 | 35 | 
+| 2010-06-07 | 第15回LG杯世界棋王戦1回戦 | Park Yeonghun | Wang Yao | Lose | W+R | 6.5 | 3090 | 20 | 
+| 2010-06-03 | 第38期名人戦（韓国）リーグB | Park Yeonghun |  | Win | B+5.5 | 6.5 | 3070 | 45 | 
+| 2010-05-08 | 2010年韓国囲碁リーグ | Yoo Changhyuk | Park Yeonghun | Win | W+R | 6.5 | 3025 | 25 | 
+| 2010-05-06 | 第38期名人戦（韓国）リーグB | Park Yeonghun | Hong Seongji | Win | B+0.5 | 6.5 | 3000 | -21 | 
+| 2010-05-01 | 第6期物価情報杯プロ棋戦リーグA | Park Yeonghun | Yoo Changhyuk | Win | B+R | 6.5 | 3021 | 3021 | 
+| 2010-04-16 | 第38期名人戦（韓国）予選 | Park Yeonghun | Park Younglong | Win | B+R | 6.5 | missing | -3035 | 
+| 2010-04-14 | 第23回世界囲碁選手権富士通杯3回戦 | Park Yeonghun | Piao Wenyao | Lose | W+R | 6.5 | 3035 | -16 | 
+| 2010-04-12 | 第23回世界囲碁選手権富士通杯2回戦 | Takao Shinji | Park Yeonghun | Win | W+4.5 | 6.5 | 3051 | 16 | 
+| 2010-04-01 | 第6期物価情報杯プロ棋戦リーグA | Lee Changho | Park Yeonghun | Win | W+R | 6.5 | 3035 | -21 | 
+| 2010-03-22 | 第29回KBS杯囲碁王戦本戦1回戦 | Park Yeonghun | Ko Keuntae | Win | B+R | 6.5 | 3056 | 3 | 
+| 2010-03-19 | 第2回BCカード杯世界選手権4回戦 | Lee Sedol | Park Yeonghun | Lose | B+4.5 | 6.5 | 3053 | -44 | 
+| 2010-03-17 | 第15期GSカルテックス杯プロ棋戦2回戦 | Park Junghwan | Park Yeonghun | Win | W+R | 6.5 | 3097 | 4 | 
+| 2010-03-09 | 第11回マキシムコーヒー杯入神最強戦準決勝 | Park Yeonghun | Choi Cheolhan | Lose | W+R | 6.5 | 3093 | -3 | 
+| 2010-03-07 | 第2回BCカード杯世界選手権3回戦 | Yoo Changhyuk | Park Yeonghun | Win | W+1.5 | 6.5 | 3096 | 2 | 
+| 2010-03-02 | 第11回マキシムコーヒー杯入神最強戦3回戦 | Park Yeonghun | Yoo Changhyuk | Win | B+0.5 | 6.5 | 3094 | 7 | 
+| 2010-02-25 | 第8回春蘭杯韓国予選 | Heo Yongho | Park Yeonghun | Lose | B+R | 6.5 | 3087 | 38 | 
+| 2010-02-19 | 第8回春蘭杯韓国予選 | Mok Jinseok | Park Yeonghun | Win | W+R | 6.5 | 3049 | 25 | 
+| 2010-01-29 | 第2回BCカード杯世界選手権2回戦 | Park Yeonghun | Ryu Minhyung | Win | B+0.5 | 6.5 | 3024 | -11 | 
+| 2010-01-23 | 第11回農心辛ラーメン杯世界囲碁最強戦第10戦 | Hane Naoki | Park Yeonghun | Lose | B+R | 6.5 | 3035 | -81 | 
+| 2010-01-16 | 第2回BCカード杯世界選手権1回戦 | Park Younglong | Park Yeonghun | Win | W+R | 6.5 | 3116 | 0 | 
+| 2009-12-09 | 第14期GSカルテックス杯プロ棋戦挑戦手合五番勝負第4局 | Park Yeonghun | Cho Hanseung | Lose | W+R | 6.5 | 3116 | -19 | 
+| 2009-12-06 | 2009年韓国囲碁リーグ | Park Yeonghun | Yun Junsang | Win | B+R | 6.5 | 3135 | 21 | 
+| 2009-12-02 | 第14期GSカルテックス杯プロ棋戦挑戦手合五番勝負第3局 | Cho Hanseung | Park Yeonghun | Win | W+6.5 | 6.5 | 3114 | -152 | 
+| 2009-11-21 | 2009年韓国囲碁リーグ | Hong Seongji | Park Yeonghun | Lose | B+R | 6.5 | 3266 | -13 | 
+| 2009-11-19 | 2009年韓国囲碁リーグ | Park Yeonghun | Yun Junsang | Win | B+6.5 | 6.5 | 3279 | -25 | 
+| 2009-11-17 | 第14期GSカルテックス杯プロ棋戦挑戦手合五番勝負第2局 | Park Yeonghun | Cho Hanseung | Lose | W+R | 6.5 | 3304 | 32 | 
+| 2009-11-11 | 第14回LG杯世界棋王戦準決勝 | Kong Jie | Park Yeonghun | Lose | B+R | 6.5 | 3272 | -6 | 
+| 2009-11-09 | 第14回LG杯世界棋王戦3回戦 | Hu Yaoyu | Park Yeonghun | Win | W+R | 6.5 | 3278 | 4 | 
+| 2009-11-03 | 第14期GSカルテックス杯プロ棋戦挑戦手合五番勝負第1局 | Cho Hanseung | Park Yeonghun | Lose | B+R | 6.5 | 3274 | -24 | 
+| 2009-10-30 | 2009年韓国囲碁リーグ | Park Yeonghun | Park Junghwan | Lose | W+R | 6.5 | 3298 | 6 | 
+| 2009-10-16 | 2009年韓国囲碁リーグ | Park Yeonghun |  | Lose | W+5.5 | 6.5 | 3292 | -21 | 
+| 2009-10-14 | 第14回三星火災杯世界囲碁マスターズ3回戦 | Park Yeonghun | Kong Jie | Lose | W+R | 6.5 | 3313 | -9 | 
+| 2009-10-13 | 第14回三星火災杯世界囲碁マスターズ2回戦 | Wang Yao | Park Yeonghun | Win | W+0.5 | 6.5 | 3322 | 17 | 
+| 2009-10-03 | 2009年韓国囲碁リーグ | Park Yeonghun | Yun Junsang | Win | B+0.5 | 6.5 | 3305 | 7 | 
+| 2009-09-20 | 2009年韓国囲碁リーグ |  | Park Yeonghun | Win | W+R | 6.5 | 3298 | -14 | 
+| 2009-09-12 | 第14回三星火災杯世界囲碁マスターズ1回戦B3 | Park Yeonghun | Cho Hunhyun | Win | B+T | 6.5 | 3312 | 3 | 
+| 2009-09-11 | 第14回三星火災杯世界囲碁マスターズ1回戦B2 | Chang Hao | Park Yeonghun | Lose | B+R | 6.5 | 3309 | -9 | 
+| 2009-09-10 | 第14回三星火災杯世界囲碁マスターズ1回戦B1 | Park Yeonghun | Lu Jia | Win | B+R | 6.5 | 3318 | 4 | 
+| 2009-09-04 | 2009年韓国囲碁リーグ | Park Yeonghun |  | Win | B+R | 6.5 | 3314 | 42 | 
+| 2009-08-27 | 2009年韓国囲碁リーグ | Choi Cheolhan | Park Yeonghun | Win | W+0.5 | 6.5 | 3272 | 11 | 
+| 2009-08-21 | 第11回農心杯韓国選抜戦 | Park Yeonghun | Hong Minpyo | Win | B+6.5 | 6.5 | 3261 | 10 | 
+| 2009-08-17 | 第28回KBS杯囲碁王戦敗者復活戦1回戦 | Cho Hunhyun | Park Yeonghun | Lose | B+R | 6.5 | 3251 | 2 | 
+| 2009-08-06 | 2009年韓国囲碁リーグ | Hong Minpyo | Park Yeonghun | Lose | B+R | 6.5 | 3249 | -21 | 
+| 2009-07-24 | 2009年韓国囲碁リーグ | Park Yeonghun | Kang Dongyun | Win | B+R | 6.5 | 3270 | 5 | 
+| 2009-07-15 | 第5期物価情報杯プロ棋戦決勝トーナメント準決勝 | Lee Changho | Park Yeonghun | Lose | B+0.5 | 6.5 | 3265 | -5 | 
+| 2009-07-13 | 第28回KBS杯囲碁王戦本戦2回戦 | Park Yeonghun | Choi Cheolhan | Lose | W+R | 6.5 | 3270 | -3 | 
+| 2009-07-11 | 2009年韓国囲碁リーグ | Lee Yeongkyu | Park Yeonghun | Win | W+R | 6.5 | 3273 | 18 | 
+| 2009-07-06 | 第22回世界囲碁選手権富士通杯三位決定戦 | Park Yeonghun | Chang Hao | Win | B+R | 6.5 | 3255 | 7 | 
+| 2009-07-04 | 第22回世界囲碁選手権富士通杯準決勝 | Park Yeonghun | Kang Dongyun | Lose | W+R | 6.5 | 3248 | -4 | 
+| 2009-07-01 | 第5期物価情報杯プロ棋戦決勝トーナメント1回戦 | Hong Minpyo | Park Yeonghun | Win | W+R | 6.5 | 3252 | 13 | 
+| 2009-06-27 | 2009年韓国囲碁リーグ | Paek Hongseok | Park Yeonghun | Win | W+R | 6.5 | 3239 | 86 | 
+| 2009-06-18 | 第53期国手戦（韓国）予選 | Park Yeonghun | Kim Hyeongwoo | Lose | W+0.5 | 6.5 | 3153 | -11 | 
+| 2009-06-17 | 第5期物価情報杯プロ棋戦リーグC | Park Yeonghun | Park Junghwan | Win | B+R | 6.5 | 3164 | 64 | 
+| 2009-06-06 | 第22回世界囲碁選手権富士通杯3回戦 | Park Yeonghun | Kono Rin | Win | B+4.5 | 6.5 | 3100 | 3 | 
+| 2009-06-04 | 2009年韓国囲碁リーグ | Cho Hanseung | Park Yeonghun | Lose | B+R | 6.5 | 3097 | -8 | 
+| 2009-06-02 | 第5期物価情報杯プロ棋戦リーグC | Park Yeonghun | Hong Jansik | Lose | W+R | 6.5 | 3105 | -84 | 
+| 2009-05-29 | 2009年韓国囲碁リーグ | Park Yeonghun | Han Sanghoon | Win | B+0.5 | 6.5 | 3189 | -46 | 
+| 2009-05-20 | 第14回LG杯世界棋王戦2回戦 | Park Yeonghun | Wang Haoyang | Win | B+R | 6.5 | 3235 | 2 | 
+| 2009-05-18 | 第14回LG杯世界棋王戦1回戦 | Chen Yaoye | Park Yeonghun | Win | W+R | 6.5 | 3233 | 8 | 
+| 2009-05-11 | 第28回KBS杯囲碁王戦本戦1回戦 | Kim Juho | Park Yeonghun | Win | W+R | 6.5 | 3225 | 27 | 
+| 2009-05-07 | 第5期物価情報杯プロ棋戦リーグC | Hong Minpyo | Park Yeonghun | Lose | B+2.5 | 6.5 | 3198 | 7 | 
+| 2009-04-23 | 第1回BCカード杯世界選手権4回戦 | Lee Sedol | Park Yeonghun | Lose | B+R | 6.5 | 3191 | -16 | 
+| 2009-04-13 | 第22回世界囲碁選手権富士通杯2回戦 | Park Yeonghun | Xie He | Win | B+1.5 | 6.5 | 3207 | 28 | 
+| 2009-03-28 | 第1回BCカード杯世界選手権3回戦 | Park Yeonghun | Chang Hao | Win | B+R | 6.5 | 3179 | 20 | 
+| 2009-03-12 | 第1回BCカード杯世界選手権2回戦 | Park Yeonghun |  | Win | B+R | 6.5 | 3159 | -88 | 
+| 2009-03-01 | 第1回BCカード杯世界選手権1回戦 | An Joyeong | Park Yeonghun | Win | W+0.5 | 6.5 | 3247 | 78 | 
+| 2009-02-16 | 第22回世界囲碁選手権富士通杯韓国予選決勝 | Park Yeonghun | Cho Hanseung | Win | B+R | 6.5 | 3169 | 19 | 
+| 2009-02-13 | 第22回世界囲碁選手権富士通杯韓国予選 | Park Yeonghun | Mok Jinseok | Win | B+R | 6.5 | 3150 | -15 | 
+| 2009-02-10 | 第10回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Park Yeonghun | Choi Cheolhan | Lose | W+R | 6.5 | 3165 | -8 | 
+| 2009-01-28 | 第10回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Choi Cheolhan | Park Yeonghun | Lose | B+R | 6.5 | 3173 | -109 | 
+| 2009-01-07 | 第10回マキシムコーヒー杯入神最強戦準決勝 | Park Yeonghun | Weon Seongjin | Win | B+R | 6.5 | 3282 | 19 | 
+| 2008-12-22 | 第27回KBS杯囲碁王戦敗者復活戦4回戦 | Bae Junhee | Park Yeonghun | Lose | B+R | 6.5 | 3263 | 143 | 
+| 2008-12-13 | 2008年韓国囲碁リーグ | Park Yeonghun | Kang Yootaek | Lose | W+R | 6.5 | 3120 | -21 | 
+| 2008-12-09 | 第13期GSカルテックス杯プロ棋戦挑戦手合五番勝負第3局 | Weon Seongjin | Park Yeonghun | Win | W+R | 6.5 | 3141 | -5 | 
+| 2008-12-07 | 2008年韓国囲碁リーグ | Kim Jiseok | Park Yeonghun | Win | W+R | 6.5 | 3146 | -7 | 
+| 2008-12-03 | 2008年韓国囲碁リーグ | Kim Hyeongwoo | Park Yeonghun | Lose | B+R | 6.5 | 3153 | 234 | 
+| 2008-11-28 | 第13期GSカルテックス杯プロ棋戦挑戦手合五番勝負第2局 | Park Yeonghun | Weon Seongjin | Win | B+2.5 | 6.5 | 2919 | -5 | 
+| 2008-11-26 | 第13期GSカルテックス杯プロ棋戦挑戦手合五番勝負第1局 | Weon Seongjin | Park Yeonghun | Win | W+R | 6.5 | 2924 | 20 | 
+| 2008-11-24 | 第27回KBS杯囲碁王戦敗者復活戦3回戦 | Paek Hongseok | Park Yeonghun | Win | W+R | 6.5 | 2904 | -48 | 
+| 2008-11-09 | 第27回KBS杯囲碁王戦敗者復活戦2回戦 | Cho Hanseung | Park Yeonghun | Win | W+3.5 | 6.5 | 2952 | 25 | 
+| 2008-11-05 | 第13回LG杯世界棋王戦準決勝 | Lee Sedol | Park Yeonghun | Lose | B+R | 6.5 | 2927 | 0 | 
+| 2008-11-03 | 第13回LG杯世界棋王戦3回戦 | Park Yeonghun | Chang Hao | Win | B+R | 6.5 | 2927 | 14 | 
+| 2008-10-31 | 2008年韓国囲碁リーグ | Park Yeonghun | Choi Cheolhan | Win | B+R | 6.5 | 2913 | -548 | 
+| 2008-10-27 | 第10回マキシムコーヒー杯入神最強戦2回戦 | Park Yeonghun | An Joyeong | Win | B+R | 6.5 | 3461 | -3 | 
+| 2008-10-23 | 2008年韓国囲碁リーグ | Park Seunghwa | Park Yeonghun | Win | W+2.5 | 6.5 | 3464 | 17 | 
+| 2008-10-12 | 2008年韓国囲碁リーグ | Choi Wongyong | Park Yeonghun | Win | W+T | 6.5 | 3447 | 43 | 
+| 2008-10-07 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Park Yeonghun | Mimura Tomoyasu | Win | B+R | 6.5 | 3404 | 0 | 
+| 2008-10-07 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Park Yeonghun | Park Cheongsang | Lose | W+R | 6.5 | 3404 | -14 | 
+| 2008-10-06 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Sakai Hideyuki | Park Yeonghun | Win | W+R | 6.5 | 3418 | -6 | 
+| 2008-09-21 | 2008年韓国囲碁リーグ | Park Cheongsang | Park Yeonghun | Win | W+1.5 | 6.5 | 3424 | -16 | 
+| 2008-09-03 | 第13回三星火災杯世界オープン囲碁選手権1回戦 | Kong Jie | Park Yeonghun | Lose | B+R | 6.5 | 3440 | -14 | 
+| 2008-09-01 | 2008年韓国囲碁リーグ | Heo Yongho | Park Yeonghun | Lose | B+R | 6.5 | 3454 | -24 | 
+| 2008-08-25 | 第4期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Park Yeonghun | Gu Li | Lose | W+R | 6.5 | 3478 | -14 | 
+| 2008-08-23 | 第4期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Kim Sujun | Park Yeonghun | Win | W+5.5 | 6.5 | 3492 | 367 | 
+| 2008-08-07 | 2008年韓国囲碁リーグ | Park Yeonghun | Choi Myeonghun | Win | B+R | 6.5 | 3125 | -2 | 
+| 2008-08-06 | 第52期国手戦（韓国）1回戦 | Park Yeonghun | Park Cheongsang | Lose | W+R | 6.5 | 3127 | -32 | 
+| 2008-07-24 | 2008年韓国囲碁リーグ | Park Yeonghun | Hong Seongji | Lose | W+1.5 | 6.5 | 3159 | -27 | 
+| 2008-07-04 | 2008年韓国囲碁リーグ | Hong Minpyo | Park Yeonghun | Lose | B+R | 6.5 | 3186 | -8 | 
+| 2008-06-30 | 第5期電子ランド杯王中王戦2回戦 | Kang Dongyun | Park Yeonghun | Lose | B+4.5 | 6.5 | 3194 | -5 | 
+| 2008-06-28 | 第27回KBS杯囲碁王戦敗者復活戦1回戦 |  | Park Yeonghun | Win | W+R | 6.5 | 3199 | 15 | 
+| 2008-06-24 | 第4期物価情報杯プロ棋戦決勝トーナメント1回戦 | Lee Yeongkyu | Park Yeonghun | Lose | B+R | 6.5 | 3184 | -25 | 
+| 2008-06-16 | 第5期電子ランド杯王中王戦1回戦 | Kim Soojang | Park Yeonghun | Win | W+R | 6.5 | 3209 | -4 | 
+| 2008-06-07 | 第21回世界囲碁選手権富士通杯3回戦 | Park Yeonghun | Chang Hao | Lose | W+R | 6.5 | 3213 | 19 | 
+| 2008-05-28 | 第13回LG杯世界棋王戦2回戦 | Park Yeonghun | Wang Yao | Win | B+R | 6.5 | 3194 | -9 | 
+| 2008-05-26 | 第13回LG杯世界棋王戦1回戦 | Park Yeonghun | Zhou Junxun | Win | B+5.5 | 6.5 | 3203 | -7 | 
+| 2008-05-24 | 2008年韓国囲碁リーグ | Park Yeonghun | Park Cheongsang | Win | B+R | 6.5 | 3210 | 20 | 
+| 2008-05-19 | 第4期物価情報杯プロ棋戦リーグC | Park Yeonghun | Lee Jaeung | Win | B+5.5 | 6.5 | 3190 | 0 | 
+| 2008-05-19 | 第27回KBS杯囲碁王戦本戦2回戦 | Kang Dongyun | Park Yeonghun | Lose | B+R | 6.5 | 3190 | 22 | 
+| 2008-05-07 | 第19期棋聖戦（韓国）挑戦手合三番勝負第3局 | Paek Hongseok | Park Yeonghun | Win | W+R | 6.5 | 3168 | 15 | 
+| 2008-05-04 | 第6回応氏杯世界選手権3回戦 | Park Yeonghun | Liu Xing | Lose | W+R | 7.5 | 3153 | -4 | 
+| 2008-05-02 | 第6回応氏杯世界選手権2回戦 | Park Yeonghun | Peng Quan | Win | B+1 | 7.5 | 3157 | -2 | 
+| 2008-04-30 | 第6回応氏杯世界選手権1回戦 | Park Yeonghun | Zhou Junxun | Win | B+R | 7.5 | 3159 | 220 | 
+| 2008-04-21 | 第4期物価情報杯プロ棋戦リーグC | Park Yeonghun | Kim Kiyoung | Win | B+R | 6.5 | 2939 | 21 | 
+| 2008-04-17 | 2008年韓国囲碁リーグ | Park Yeonghun | Lee Yeongkyu | Win | B+R | 6.5 | 2918 | 13 | 
+| 2008-04-14 | 第21回世界囲碁選手権富士通杯2回戦 | Park Yeonghun | Takao Shinji | Win | B+3.5 | 6.5 | 2905 | -10 | 
+| 2008-04-05 | 第19期棋聖戦（韓国）挑戦手合三番勝負第2局 | Paek Hongseok | Park Yeonghun | Lose | B+1.5 | 6.5 | 2915 | 5 | 
+| 2008-03-21 | 第19期棋聖戦（韓国）挑戦手合三番勝負第1局 | Park Yeonghun | Paek Hongseok | Win | B+R | 6.5 | 2910 | 37 | 
+| 2008-03-09 | 第9回マキシムコーヒー杯入神最強戦決勝三番勝負第3局 | Mok Jinseok | Park Yeonghun | Win | W+3.5 | 6.5 | 2873 | 5 | 
+| 2008-03-08 | 第9回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Mok Jinseok | Park Yeonghun | Win | W+R | 6.5 | 2868 | 11 | 
+| 2008-03-01 | 第9回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Park Yeonghun | Mok Jinseok | Lose | W+R | 6.5 | 2857 | -8 | 
+| 2008-02-21 | 第9回農心辛ラーメン杯世界囲碁最強戦第13戦 | Chang Hao | Park Yeonghun | Lose | B+R | 6.5 | 2865 | 0 | 
+| 2008-02-15 | 第7回春蘭杯韓国予選 | Park Yeonghun | Weon Seongjin | Lose | W+1.5 | 6.5 | 2865 | -27 | 
+| 2008-02-14 | 第7回春蘭杯韓国予選 | Park Yeonghun | Kang Dongyun | Win | B+R | 6.5 | 2892 | 11 | 
+| 2008-01-24 | 第12回三星火災杯世界オープン囲碁選手権決勝三番勝負第3局 | Lee Sedol | Park Yeonghun | Lose | B+1.5 | 6.5 | 2881 | 18 | 
+| 2008-01-23 | 第12回三星火災杯世界オープン囲碁選手権決勝三番勝負第2局 | Lee Sedol | Park Yeonghun | Win | W+R | 6.5 | 2863 | 10 | 
+| 2008-01-21 | 第12回三星火災杯世界オープン囲碁選手権決勝三番勝負第1局 | Park Yeonghun | Lee Sedol | Lose | W+4.5 | 6.5 | 2853 | 15 | 
+| 2007-12-17 | 第12期GSカルテックス杯プロ棋戦挑戦手合五番勝負第5局 | Park Yeonghun | Lee Sedol | Win | B+R | 6.5 | 2838 | 8 | 
+| 2007-12-14 | 第9回マキシムコーヒー杯入神最強戦準決勝 | Seo Bongsoo | Park Yeonghun | Win | W+R | 6.5 | 2830 | 16 | 
+| 2007-12-12 | 第12期GSカルテックス杯プロ棋戦挑戦手合五番勝負第4局 | Lee Sedol | Park Yeonghun | Win | W+R | 6.5 | 2814 | -11 | 
+| 2007-12-05 | 第12期GSカルテックス杯プロ棋戦挑戦手合五番勝負第3局 | Park Yeonghun | Lee Sedol | Win | B+R | 6.5 | 2825 | -14 | 
+| 2007-11-23 | 第12回三星火災杯世界オープン囲碁選手権準決勝三番勝負第3局 | Park Yeonghun | Gu Li | Win | B+1.5 | 6.5 | 2839 | -10 | 
+| 2007-11-22 | 第12回三星火災杯世界オープン囲碁選手権準決勝三番勝負第2局 | Gu Li | Park Yeonghun | Win | W+1.5 | 6.5 | 2849 | 5 | 
+| 2007-11-20 | 第12回三星火災杯世界オープン囲碁選手権準決勝三番勝負第1局 | Park Yeonghun | Gu Li | Lose | W+R | 6.5 | 2844 | -8 | 
+| 2007-11-17 | 第9回マキシムコーヒー杯入神最強戦4回戦 | Park Yeonghun | An Joyeong | Win | B+R | 6.5 | 2852 | 43 | 
+| 2007-11-11 | 2007年韓国囲碁リーグ | Lee Changho | Park Yeonghun | Lose | B+R | 6.5 | 2809 | 9 | 
+| 2007-11-08 | 第12期GSカルテックス杯プロ棋戦挑戦手合五番勝負第2局 | Lee Sedol | Park Yeonghun | Lose | B+R | 6.5 | 2800 | 2 | 
+| 2007-11-03 | 第12期GSカルテックス杯プロ棋戦挑戦手合五番勝負第1局 | Park Yeonghun | Lee Sedol | Lose | W+R | 6.5 | 2798 | 0 | 
+| 2007-10-31 | 2007年韓国囲碁リーグ | Park Yeonghun | Paek Hongseok | Lose | W+R | 6.5 | 2798 | 9 | 
+| 2007-10-27 | 第9回マキシムコーヒー杯入神最強戦3回戦 | Lee Sedol | Park Yeonghun | Win | W+R | 6.5 | 2789 | 6 | 
+| 2007-10-26 | 第3期圓益杯十段戦2回戦 | Lee Sedol | Park Yeonghun | Lose | B+R | 6.5 | 2783 | -30 | 
+| 2007-10-13 | 2007年韓国囲碁リーグ | Park Yeonghun | Kim Juho | Lose | W+R | 6.5 | 2813 | 4 | 
+| 2007-10-11 | 第12期GSカルテックス杯プロ棋戦リーグ | Cho Hanseung | Park Yeonghun | Win | W+R | 6.5 | 2809 | -10 | 
+| 2007-10-09 | 第12回三星火災杯世界オープン囲碁選手権3回戦 | Park Yeonghun | Han Sanghoon | Win | B+3.5 | 6.5 | 2819 | -2 | 
+| 2007-10-01 | 第51期国手戦（韓国）準決勝 | Lee Sedol | Park Yeonghun | Lose | B+R | 6.5 | 2821 | 6 | 
+| 2007-09-26 | 2007年韓国囲碁リーグ |  | Park Yeonghun | Win | W+13.5 | 6.5 | 2815 | -1296 | 
+| 2007-09-16 | 2007年韓国囲碁リーグ | Park Yeonghun | Yoo Changhyuk | Lose | W+R | 6.5 | 4111 | -64 | 
+| 2007-09-10 | 第51期国手戦（韓国）2回戦 |  | Park Yeonghun | Win | W+3.5 | 6.5 | 4175 | 1291 | 
+| 2007-09-06 | 第12回三星火災杯世界オープン囲碁選手権2回戦 | Park Yeonghun | Kim Kiyoung | Win | B+3.5 | 6.5 | 2884 | -20 | 
+| 2007-09-04 | 第12回三星火災杯世界オープン囲碁選手権1回戦 | Park Yeonghun | Li Kang | Win | B+R | 6.5 | 2904 | 34 | 
+| 2007-08-31 | 2007年韓国囲碁リーグ | Park Yeonghun | Song Taekon | Win | B+R | 6.5 | 2870 | -49 | 
+| 2007-08-15 | 第3回中環杯世界囲碁選手権準決勝 | Park Yeonghun | Park Cheongsang | Lose | W+0.5 | 6.5 | 2919 | -270 | 
+| 2007-08-13 | 第3回中環杯世界囲碁選手権2回戦 | Park Yeonghun | Kono Rin | Win | B+R | 6.5 | 3189 | 7 | 
+| 2007-08-12 | 第3回中環杯世界囲碁選手権1回戦 | O Rissei | Park Yeonghun | Win | W+R | 6.5 | 3182 | 6 | 
+| 2007-08-09 | 2007年韓国囲碁リーグ | Park Yeonghun | Choi Wongyong | Lose | W+R | 6.5 | 3176 | 0 | 
+| 2007-08-09 | 第9回農心杯韓国選抜戦 | Kim Seungjun | Park Yeonghun | Win | W+R | 6.5 | 3176 | -11 | 
+| 2007-08-08 | 第9回農心杯韓国選抜戦 | Park Yeonghun | Lee Yeongkyu | Win | B+4.5 | 6.5 | 3187 | -54 | 
+| 2007-08-06 | 第12期GSカルテックス杯プロ棋戦リーグ | Park Yeonghun | Hong Seongji | Win | B+2.5 | 6.5 | 3241 | -30 | 
+| 2007-08-02 | 第12期GSカルテックス杯プロ棋戦リーグ | Park Yeonghun | Choi Cheolhan | Win | B+1.5 | 6.5 | 3271 | -105 | 
+| 2007-07-23 | 第3期圓益杯十段戦1回戦 | Park Yeonghun |  | Win | B+7.5 | 6.5 | 3376 | 35 | 
+| 2007-07-18 | 2007年韓国囲碁リーグ | Weon Seongjin | Park Yeonghun | Win | W+R | 6.5 | 3341 | 96 | 
+| 2007-07-13 | 第51期国手戦（韓国）1回戦 | Park Yeonghun |  | Win | B+R | 6.5 | 3245 | 16 | 
+| 2007-07-09 | 第20回世界囲碁選手権富士通杯決勝 | Lee Changho | Park Yeonghun | Win | W+1.5 | 6.5 | 3229 | 7 | 
+| 2007-07-07 | 第20回世界囲碁選手権富士通杯準決勝 | Yoda Norimoto | Park Yeonghun | Win | W+0.5 | 6.5 | 3222 | -26 | 
+| 2007-07-04 | 2007年韓国囲碁リーグ | Choi Wongyong | Park Yeonghun | Win | W+R | 6.5 | 3248 | 5 | 
+| 2007-06-28 | 2007年韓国囲碁リーグ | Park Yeonghun |  | Lose | W+3.5 | 6.5 | 3243 | -24 | 
+| 2007-06-25 | 第12期GSカルテックス杯プロ棋戦リーグ | Park Yeonghun | Choi Myeonghun | Win | B+5.5 | 6.5 | 3267 | 15 | 
+| 2007-06-21 | 第12期GSカルテックス杯プロ棋戦リーグ | Mok Jinseok | Park Yeonghun | Win | W+R | 6.5 | 3252 | -15 | 
+| 2007-06-17 | 2007年韓国囲碁リーグ |  | Park Yeonghun | Win | W+R | 6.5 | 3267 | 53 | 
+| 2007-06-04 | 第12回LG杯世界棋王戦1回戦 | Cho Chikun | Park Yeonghun | Lose | B+R | 6.5 | 3214 | -12 | 
+| 2007-06-02 | 第20回世界囲碁選手権富士通杯3回戦 | Park Yeonghun | Zhou Heyang | Win | B+0.5 | 6.5 | 3226 | 63 | 
+| 2007-05-21 | 第3期物価情報杯プロ棋戦リーグD | Rui Naiwei | Park Yeonghun | Win | W+4.5 | 6.5 | 3163 | -1 | 
+| 2007-05-17 | 2007年韓国囲碁リーグ | Park Yeonghun | Choi Cheolhan | Lose | W+R | 6.5 | 3164 | -15 | 
+| 2007-05-11 | 第3期物価情報杯プロ棋戦リーグD | Park Yeonghun | Weon Seongjin | Lose | W+R | 6.5 | 3179 | -5 | 
+| 2007-05-08 | 第41期王位戦準決勝 | Park Yeonghun | Han Sanghoon | Lose | W+R | 6.5 | 3184 | -25 | 
+| 2007-05-02 | 第12期GSカルテックス杯プロ棋戦リーグ | Park Yeonghun | Lee Changho | Win | B+R | 6.5 | 3209 | -6 | 
+| 2007-04-27 | 2007年韓国囲碁リーグ | Kim Jiseok | Park Yeonghun | Lose | B+0.5 | 6.5 | 3215 | 31 | 
+| 2007-04-18 | 第3期物価情報杯プロ棋戦リーグD | Choi Wongyong | Park Yeonghun | Lose | B+0.5 | 6.5 | 3184 | -13 | 
+| 2007-04-16 | 第20回世界囲碁選手権富士通杯2回戦 | Yokota Shigeaki | Park Yeonghun | Win | W+R | 6.5 | 3197 | -3 | 
+| 2007-04-11 | 第41期王位戦3回戦 | Heo Yongho | Park Yeonghun | Win | W+R | 6.5 | 3200 | 0 | 
+| 2007-04-07 | 第18期棋聖戦（韓国）挑戦手合三番勝負第2局 | Choi Cheolhan | Park Yeonghun | Win | W+3.5 | 6.5 | 3200 | 12 | 
+| 2007-04-04 | 第41期王位戦2回戦 | Park Yeonghun | Hong Seongji | Win | B+R | 6.5 | 3188 | -35 | 
+| 2007-03-26 | 第12期GSカルテックス杯プロ棋戦リーグ | On Sojin | Park Yeonghun | Win | W+R | 6.5 | 3223 | -1 | 
+| 2007-03-22 | 第41期王位戦1回戦 | An Joyeong | Park Yeonghun | Win | W+2.5 | 6.5 | 3224 | 331 | 
+| 2007-03-02 | 第18期棋聖戦（韓国）挑戦手合三番勝負第1局 | Park Yeonghun | Choi Cheolhan | Win | B+R | 6.5 | 2893 | 13 | 
+| 2007-02-07 | 第8回農心辛ラーメン杯世界囲碁最強戦第12戦 | Park Yeonghun | Kong Jie | Lose | W+R | 6.5 | 2880 | -8 | 
+| 2007-02-06 | 第8回農心辛ラーメン杯世界囲碁最強戦第11戦 | Yoda Norimoto | Park Yeonghun | Win | W+1.5 | 6.5 | 2888 | 91 | 
+| 2007-01-03 | 第2期圓益杯十段戦4回戦 | Park Yeonghun | Paek Hongseok | Lose | W+R | 6.5 | 2797 | -45 | 
+| 2006-11-27 | 第8回農心辛ラーメン杯世界囲碁最強戦第10戦 | Park Yeonghun | Chen Yaoye | Win | B+2.5 | 6.5 | 2842 | 7 | 
+| 2006-11-26 | 第8回農心辛ラーメン杯世界囲碁最強戦第9戦 | Park Yeonghun | Takao Shinji | Win | B+2.5 | 6.5 | 2835 | 14 | 
+| 2006-11-25 | 第8回農心辛ラーメン杯世界囲碁最強戦第8戦 | Park Yeonghun | Peng Quan | Win | B+1.5 | 6.5 | 2821 | 48 | 
+| 2006-11-11 | 2006年韓国囲碁リーグ | Cho Hunhyun | Park Yeonghun | Lose | B+R | 6.5 | 2773 | -15 | 
+| 2006-11-09 | 第50期国手戦（韓国）挑戦者決定戦第2局 | Yun Junsang | Park Yeonghun | Lose | B+R | 6.5 | 2788 | -35 | 
+| 2006-11-05 | 2006年韓国囲碁リーグ | Park Yeonghun | Ko Keuntae | Win | B+1.5 | 6.5 | 2823 | -4 | 
+| 2006-10-30 | 第50期国手戦（韓国）挑戦者決定戦第1局 | Park Yeonghun | Yun Junsang | Lose | W+1.5 | 6.5 | 2827 | -23 | 
+| 2006-10-27 | 第8回マキシムコーヒー杯入神最強戦2回戦 | Rui Naiwei | Park Yeonghun | Win | W+R | 6.5 | 2850 | -4 | 
+| 2006-10-21 | 2006年韓国囲碁リーグ | Hong Minpyo | Park Yeonghun | Lose | B+R | 6.5 | 2854 | -68 | 
+| 2006-10-17 | 第50期国手戦（韓国）準決勝 | Weon Seongjin | Park Yeonghun | Win | W+2.5 | 6.5 | 2922 | -10 | 
+| 2006-10-12 | 第11期GSカルテックス杯プロ棋戦リーグ | Park Yeonghun | Park Cheongsang | Lose | W+R | 6.5 | 2932 | -18 | 
+| 2006-10-05 | 2006年韓国囲碁リーグ | Kim Jiseok | Park Yeonghun | Lose | B+R | 6.5 | 2950 | -27 | 
+| 2006-09-28 | 第8回マキシムコーヒー杯入神最強戦1回戦 | Park Yeonghun | No Yeongha | Win | B+R | 6.5 | 2977 | 2 | 
+| 2006-09-25 | 第11期GSカルテックス杯プロ棋戦リーグ | On Sojin | Park Yeonghun | Win | W+6.5 | 6.5 | 2975 | -1 | 
+| 2006-09-22 | 第50期国手戦（韓国）2回戦 | Park Yeonghun |  | Win | B+R | 6.5 | 2976 | 5 | 
+| 2006-09-16 | 2006年韓国囲碁リーグ | Park Yeonghun | Mok Jinseok | Win | B+0.5 | 6.5 | 2971 | -18 | 
+| 2006-09-08 | 第11回三星火災杯世界オープン囲碁選手権2回戦 | Chang Hao | Park Yeonghun | Lose | B+R | 6.5 | 2989 | -3 | 
+| 2006-09-06 | 第11回三星火災杯世界オープン囲碁選手権1回戦 | Rui Naiwei | Park Yeonghun | Win | W+R | 6.5 | 2992 | 9 | 
+| 2006-09-01 | 第3期トヨタ＆デンソー杯囲碁世界王座戦準決勝 | Cho U | Park Yeonghun | Lose | B+R | 6.5 | 2983 | 3 | 
+| 2006-08-30 | 第3期トヨタ＆デンソー杯囲碁世界王座戦3回戦 | Chang Hao | Park Yeonghun | Win | W+R | 6.5 | 2980 | 5 | 
+| 2006-08-28 | 第3期トヨタ＆デンソー杯囲碁世界王座戦2回戦 |  | Park Yeonghun | Win | W+R | 6.5 | 2975 | -5 | 
+| 2006-08-26 | 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Seto Taiki | Park Yeonghun | Win | W+R | 6.5 | 2980 | -18 | 
+| 2006-08-16 | 第11期GSカルテックス杯プロ棋戦リーグ | Park Yeonghun | Lee Sedol | Lose | W+1.5 | 6.5 | 2998 | -54 | 
+| 2006-08-06 | 2006年韓国囲碁リーグ | Kim Seonryong | Park Yeonghun | Win | W+1.5 | 6.5 | 3052 | 26 | 
+| 2006-08-01 | 第11期GSカルテックス杯プロ棋戦リーグ | Kim Seungjun | Park Yeonghun | Win | W+R | 6.5 | 3026 | 0 | 
+| 2006-07-28 | 2006年韓国囲碁リーグ | Oh Kyuchul | Park Yeonghun | Win | W+R | 6.5 | 3026 | 16 | 
+| 2006-07-24 | 第8回農心杯韓国選抜戦 | Jin Donggyu | Park Yeonghun | Win | W+R | 6.5 | 3010 | 3 | 
+| 2006-07-21 | 第8回農心杯韓国選抜戦 | Ko Keuntae | Park Yeonghun | Win | W+R | 6.5 | 3007 | -47 | 
+| 2006-07-15 | 2006年韓国囲碁リーグ | An Joyeong | Park Yeonghun | Lose | B+R | 6.5 | 3054 | -69 | 
+| 2006-07-11 | 第2期物価情報杯プロ棋戦決勝トーナメント1回戦 | Park Yeonghun | Choi Wongyong | Lose | W+R | 6.5 | 3123 | 11 | 
+| 2006-07-03 | 第11期GSカルテックス杯プロ棋戦リーグ | Lee Changho | Park Yeonghun | Lose | B+R | 6.5 | 3112 | -223 | 
+| 2006-06-25 | 2006年韓国囲碁リーグ | Park Yeonghun | Choi Cheolhan | Lose | W+R | 6.5 | 3335 | 6 | 
+| 2006-06-16 | 2006年韓国囲碁リーグ | Park Yeonghun | Cho Hanseung | Win | B+7.5 | 6.5 | 3329 | 16 | 
+| 2006-06-03 | 第19回世界囲碁選手権富士通杯3回戦 | Zhou Heyang | Park Yeonghun | Lose | B+0.5 | 6.5 | 3313 | -7 | 
+| 2006-05-30 | 第2期物価情報杯プロ棋戦リーグA | Park Yeonghun | Kang Dongyun | Lose | W+1.5 | 6.5 | 3320 | 11 | 
+| 2006-05-26 | 2006年韓国囲碁リーグ | Kim Seonryong | Park Yeonghun | Lose | B+2.5 | 6.5 | 3309 | -7 | 
+| 2006-05-24 | 第50期国手戦（韓国）1回戦 | Park Yeonghun | Han Chongjin | Win | B+R | 6.5 | 3316 | 87 | 
+| 2006-05-19 | 第2期物価情報杯プロ棋戦リーグA | Park Yeonghun | Kim Myeongwan | Win | B+R | 6.5 | 3229 | 9 | 
+| 2006-05-15 | 第11回LG杯世界棋王戦1回戦 | Park Yeonghun | Gu Li | Lose | W+R | 6.5 | 3220 | 6 | 
+| 2006-05-08 | 第40期王位戦3回戦 | Seo Musang | Park Yeonghun | Lose | B+2.5 | 6.5 | 3214 | -29 | 
+| 2006-05-06 | 2006年韓国囲碁リーグ | Park Yeonghun |  | Win | B+R | 6.5 | 3243 | 7 | 
+| 2006-05-03 | 第5回CSK杯囲碁アジア対抗戦第3戦 | Ding Wei | Park Yeonghun | Win | W+0.5 | 6.5 | 3236 | 11 | 
+| 2006-05-02 | 第5回CSK杯囲碁アジア対抗戦第2戦 | O Rissei | Park Yeonghun | Win | W+R | 6.5 | 3225 | -11 | 
+| 2006-05-01 | 第5回CSK杯囲碁アジア対抗戦第1戦 | Park Yeonghun | Yamashita Keigo | Win | B+R | 6.5 | 3236 | 20 | 
+| 2006-04-22 | 2006年韓国囲碁リーグ | Ko Keuntae | Park Yeonghun | Lose | B+2.5 | 6.5 | 3216 | -26 | 
+| 2006-04-18 | 第2期物価情報杯プロ棋戦リーグA | Jeong Daesang | Park Yeonghun | Win | W+9.5 | 6.5 | 3242 | -3 | 
+| 2006-04-13 | 第17期棋聖戦（韓国）挑戦手合五番勝負第3局 | Park Yeonghun | An Joyeong | Win | B+R | 6.5 | 3245 | 19 | 
+| 2006-04-10 | 第19回世界囲碁選手権富士通杯2回戦 | Luo Xihe | Park Yeonghun | Win | W+R | 6.5 | 3226 | 10 | 
+| 2006-04-08 | 第19回世界囲碁選手権富士通杯1回戦 | Park Yeonghun | Yamashiro Hiroshi | Win | B+R | 6.5 | 3216 | -7 | 
+| 2006-04-03 | 第11期GSカルテックス杯プロ棋戦リーグ | Cho Hanseung | Park Yeonghun | Win | W+R | 6.5 | 3223 | 4 | 
+| 2006-03-31 | 第40期王位戦2回戦 | Paek Hongseok | Park Yeonghun | Win | W+R | 6.5 | 3219 | -2 | 
+| 2006-03-29 | 第17期棋聖戦（韓国）挑戦手合五番勝負第2局 | An Joyeong | Park Yeonghun | Win | W+R | 6.5 | 3221 | -5 | 
+| 2006-03-17 | 第17期棋聖戦（韓国）挑戦手合五番勝負第1局 | Park Yeonghun | An Joyeong | Win | B+2.5 | 6.5 | 3226 | -5 | 
+| 2006-03-11 | 第6回春蘭杯世界囲碁選手権1回戦 | Chen Yaoye | Park Yeonghun | Lose | B+1.5 | 7.5 | 3231 | -32 | 
+| 2006-02-18 | 第7回マキシムコーヒー杯入神最強戦準決勝 | Park Yeonghun | Choi Cheolhan | Lose | W+1.5 | 6.5 | 3263 | 10 | 
+| 2006-02-01 | 第7回マキシムコーヒー杯入神最強戦3回戦 | Park Yeonghun | Jeong Daesang | Win | B+R | 6.5 | 3253 | -12 | 
+| 2006-01-22 | 第1期圓益杯十段戦決勝三番勝負第3局 | Park Yeonghun | Lee Changho | Lose | W+R | 6.5 | 3265 | -189 | 
+| 2006-01-15 | 第1期圓益杯十段戦決勝三番勝負第2局 | Lee Changho | Park Yeonghun | Win | W+R | 6.5 | 3454 | 215 | 
+| 2006-01-08 | 第1期圓益杯十段戦決勝三番勝負第1局 | Park Yeonghun | Lee Changho | Lose | W+1.5 | 6.5 | 3239 | -20 | 
+| 2006-01-02 | 第25回KBS杯囲碁王戦本戦1回戦 |  | Park Yeonghun | Lose | B+R | 6.5 | 3259 | -7 | 
+| 2005-12-28 | 第7回マキシムコーヒー杯入神最強戦2回戦 | An Joyeong | Park Yeonghun | Win | W+R | 6.5 | 3266 | -233 | 
+| 2005-12-19 | 2005年韓国囲碁リーグ優勝決定戦 | Park Yeonghun | Choi Cheolhan | Win | B+R | 6.5 | 3499 | 30 | 
+| 2005-12-18 | 2005年韓国囲碁リーグ優勝決定戦 | Park Yeonghun | Choi Cheolhan | Win | B+R | 6.5 | 3469 | 329 | 
+| 2005-11-06 | 2005年韓国囲碁リーグ | Song Taekon | Park Yeonghun | Win | W+3.5 | 6.5 | 3140 | 10 | 
+| 2005-11-04 | 第7回マキシムコーヒー杯入神最強戦1回戦 | Park Yeonghun | Chang Suyeong | Win | B+R | 6.5 | 3130 | 6 | 
+| 2005-11-03 | 第1期圓益杯十段戦準決勝 | Park Yeonghun | Song Taekon | Win | B+R | 6.5 | 3124 | 12 | 
+| 2005-10-31 | 第1期圓益杯十段戦3回戦 | Park Yeonghun | Lee Sedol | Win | B+0.5 | 6.5 | 3112 | -169 | 
+| 2005-10-19 | 2005年国際新鋭囲碁対抗戦第3戦 | Park Yeonghun | Kong Jie | Win | B+R | 6.5 | 3281 | 12 | 
+| 2005-10-18 | 2005年国際新鋭囲碁対抗戦第2戦 | Zhou Junxun | Park Yeonghun | Win | W+4.5 | 6.5 | 3269 | -4 | 
+| 2005-10-17 | 2005年国際新鋭囲碁対抗戦第1戦 | Park Yeonghun | Hane Naoki | Win | B+R | 6.5 | 3273 | -9 | 
+| 2005-10-11 | 第1期物価情報杯プロ棋戦決勝三番勝負第2局 | Park Yeonghun | Lee Changho | Win | B+4.5 | 6.5 | 3282 | 17 | 
+| 2005-10-08 | 第1期圓益杯十段戦2回戦 | Lee Jaeung | Park Yeonghun | Win | W+13.5 | 6.5 | 3265 | 20 | 
+| 2005-10-04 | 第1期物価情報杯プロ棋戦決勝三番勝負第1局 | Lee Changho | Park Yeonghun | Win | W+2.5 | 6.5 | 3245 | 7 | 
+| 2005-10-02 | 2005年韓国囲碁リーグ | Park Yeonghun | Lee Sedol | Win | B+R | 6.5 | 3238 | 13 | 
+| 2005-09-28 | 第10回三星火災杯世界オープン囲碁選手権1回戦 | Hu Yaoyu | Park Yeonghun | Lose | B+R | 6.5 | 3225 | 27 | 
+| 2005-09-18 | 2005年韓国囲碁リーグ | Mok Jinseok | Park Yeonghun | Win | W+9.5 | 6.5 | 3198 | -4 | 
+| 2005-09-12 | 第10期バッカス杯天元戦2回戦 |  | Park Yeonghun | Lose | B+0.5 | 6.5 | 3202 | 13 | 
+| 2005-09-05 | 第1期圓益杯十段戦1回戦 | Lee Hyeonwuk | Park Yeonghun | Win | W+R | 6.5 | 3189 | -9 | 
+| 2005-08-31 | 第24回KBS杯囲碁王戦敗者復活戦準決勝 | Park Yeonghun | Park Cheongsang | Win | B+R | 6.5 | 3198 | 0 | 
+| 2005-08-31 | 第24回KBS杯囲碁王戦敗者復活戦決勝 | Yoo Changhyuk | Park Yeonghun | Lose | B+R | 6.5 | 3198 | -1 | 
+| 2005-08-24 | 第10期GSカルテックス杯プロ棋戦準決勝 | Choi Cheolhan | Park Yeonghun | Lose | B+R | 6.5 | 3199 | -30 | 
+| 2005-08-14 | 第2回中環杯世界囲碁選手権1回戦 | O Rissei | Park Yeonghun | Lose | B+R | 6.5 | 3229 | 1 | 
+| 2005-08-11 | 第1期物価情報杯プロ棋戦決勝トーナメント準決勝 | Choi Cheolhan | Park Yeonghun | Win | W+R | 6.5 | 3228 | 9 | 
+| 2005-08-10 | 第24回KBS杯囲碁王戦敗者復活戦4回戦 | Lee Yeongkyu | Park Yeonghun | Win | W+R | 6.5 | 3219 | 0 | 
+| 2005-08-10 | 第24回KBS杯囲碁王戦敗者復活戦3回戦 | Park Yeonghun | Cho Hunhyun | Win | B+1.5 | 6.5 | 3219 | 9 | 
+| 2005-08-07 | 2005年韓国囲碁リーグ | Park Yeonghun | Lee Changho | Win | B+2.5 | 6.5 | 3210 | -8 | 
+| 2005-07-31 | 2005年韓国囲碁リーグ | Park Yeonghun | Yoo Changhyuk | Win | B+5.5 | 6.5 | 3218 | 5 | 
+| 2005-07-29 | 第10期GSカルテックス杯プロ棋戦2回戦 | Kang Jiseong | Park Yeonghun | Win | W+R | 6.5 | 3213 | 0 | 
+| 2005-07-27 | 第1期物価情報杯プロ棋戦リーグD | Park Yeonghun | Cho Hunhyun | Lose | W+R | 6.5 | 3213 | 6 | 
+| 2005-07-18 | 第1期物価情報杯プロ棋戦リーグD | Park Yeonghun | Lee Huiseong | Win | B+R | 6.5 | 3207 | 343 | 
+| 2005-06-18 | 第1期物価情報杯プロ棋戦リーグD | Yang Keon | Park Yeonghun | Win | W+R | 6.5 | 2864 | -5 | 
+| 2005-06-14 | 第10期バッカス杯天元戦1回戦 | Park Yeonghun | Paek Hongseok | Win | B+R | 6.5 | 2869 | -4 | 
+| 2005-06-12 | 2005年韓国囲碁リーグ | Park Yeonghun | Choi Cheolhan | Win | B+10.5 | 6.5 | 2873 | 9 | 
+| 2005-06-08 | 第24回KBS杯囲碁王戦本戦3回戦 | Park Yeonghun | Lee Yeongkyu | Lose | W+R | 6.5 | 2864 | -11 | 
+| 2005-06-07 | 第10期GSカルテックス杯プロ棋戦1回戦 | Park Yeonghun | Yun Junsang | Win | B+R | 6.5 | 2875 | 9 | 
+| 2005-06-02 | 2005年韓国囲碁リーグ | Park Yeonghun | Cho Hunhyun | Win | B+8.5 | 6.5 | 2866 | 1 | 
+| 2005-05-27 | 第8回中韓新人王対抗戦三番勝負第3局 | Park Yeonghun | Gu Li | Lose | W+R | 7.5 | 2865 | -31 | 
+| 2005-05-26 | 第8回中韓新人王対抗戦三番勝負第2局 | Gu Li | Park Yeonghun | Lose | B+1.5 | 7.5 | 2896 | -10 | 
+| 2005-05-24 | 第8回中韓新人王対抗戦三番勝負第1局 | Park Yeonghun | Gu Li | Win | B+3.5 | 7.5 | 2906 | -1 | 
+| 2005-05-18 | 第10回LG杯世界棋王戦2回戦 | Park Yeonghun | Qiu Jun | Lose | W+R | 6.5 | 2907 | -9 | 
+| 2005-05-16 | 第10回LG杯世界棋王戦1回戦 | Liu Shizhen | Park Yeonghun | Win | W+R | 6.5 | 2916 | -27 | 
+| 2005-05-13 | 第1回日月星杯中韓囲碁対抗戦第4戦 | Park Yeonghun | Wang Lei (b) | Lose | W+R | 6.5 | 2943 | -14 | 
+| 2005-05-12 | 第1回日月星杯中韓囲碁対抗戦第3戦 | Zhou Heyang | Park Yeonghun | Lose | B+R | 6.5 | 2957 | -22 | 
+| 2005-05-09 | 第16期棋聖戦（韓国）挑戦手合五番勝負第5局 | Choi Cheolhan | Park Yeonghun | Win | W+0.5 | 6.5 | 2979 | 10 | 
+| 2005-05-06 | 第15期BCカード杯新人王戦決勝三番勝負第3局 | Park Yeonghun | Kim Donghee | Win | B+R | 6.5 | 2969 | 7 | 
+| 2005-05-03 | 第4回CSK杯囲碁アジア対抗戦第3戦 | Park Yeonghun | Kong Jie | Lose | W+R | 6.5 | 2962 | -7 | 
+| 2005-05-02 | 第4回CSK杯囲碁アジア対抗戦第2戦 | Park Yeonghun | Takao Shinji | Win | B+3.5 | 6.5 | 2969 | 6 | 
+| 2005-05-01 | 第4回CSK杯囲碁アジア対抗戦第1戦 | Park Yeonghun | Zhou Junxun | Win | B+1.5 | 6.5 | 2963 | -16 | 
+| 2005-04-29 | 第15期BCカード杯新人王戦決勝三番勝負第2局 | Park Yeonghun | Kim Donghee | Win | B+4.5 | 6.5 | 2979 | 95 | 
+| 2005-04-27 | 第16期棋聖戦（韓国）挑戦手合五番勝負第4局 | Choi Cheolhan | Park Yeonghun | Lose | B+R | 6.5 | 2884 | -7 | 
+| 2005-04-25 | 第15期BCカード杯新人王戦決勝三番勝負第1局 | Kim Donghee | Park Yeonghun | Lose | B+0.5 | 6.5 | 2891 | -13 | 
+| 2005-04-20 | 第15期BCカード杯新人王戦 | Cho Hyeyeon | Park Yeonghun | Win | W+R | 6.5 | 2904 | -92 | 
+| 2005-04-11 | 第18回世界囲碁選手権富士通杯2回戦 | O Meien | Park Yeonghun | Lose | B+R | 6.5 | 2996 | -34 | 
+| 2005-03-25 | 第16期棋聖戦（韓国）挑戦手合五番勝負第3局 | Park Yeonghun | Choi Cheolhan | Lose | W+R | 6.5 | 3030 | -9 | 
+| 2005-03-18 | 第16期棋聖戦（韓国）挑戦手合五番勝負第2局 | Choi Cheolhan | Park Yeonghun | Win | W+R | 6.5 | 3039 | 4 | 
+| 2005-03-16 | 第24回KBS杯囲碁王戦本戦2回戦 | Park Yeonghun | Park Cheongsang | Win | B+4.5 | 6.5 | 3035 | 6 | 
+| 2005-03-14 | 第15期BCカード杯新人王戦 | Park Yeonghun | Ko Keuntae | Win | B+1.5 | 6.5 | 3029 | 2 | 
+| 2005-03-11 | 第16期棋聖戦（韓国）挑戦手合五番勝負第1局 | Park Yeonghun | Choi Cheolhan | Win | B+1.5 | 6.5 | 3027 | -387 | 
+| 2005-02-14 | 第15期BCカード杯新人王戦 | Heo Yongho | Park Yeonghun | Lose | B+R | 6.5 | 3414 | 3414 | 
+| 2005-02-07 | 第15期BCカード杯新人王戦 |  | Park Yeonghun | Win | W+R | 6.5 | missing | -3367 | 
+| 2005-02-05 | 第1回日月星杯中韓囲碁対抗戦第2戦 | Wang Xi | Park Yeonghun | Win | W+6.5 | 7.5 | 3367 | 13 | 
+| 2005-02-04 | 第1回日月星杯中韓囲碁対抗戦第1戦 | Hu Yaoyu | Park Yeonghun | Lose | B+R | 7.5 | 3354 | 3 | 
+| 2005-01-24 | 第16期棋聖戦（韓国）挑戦者決定戦三番勝負第2局 | Kim Seungjun | Park Yeonghun | Win | W+R | 6.5 | 3351 | 26 | 
+| 2005-01-20 | 第15期BCカード杯新人王戦 | Cho Hanseung | Park Yeonghun | Win | W+3.5 | 6.5 | 3325 | 44 | 
+| 2005-01-15 | 第1回中環杯世界囲碁選手権決勝 | O Rissei | Park Yeonghun | Win | W+R | 6.5 | 3281 | 6 | 
+| 2005-01-13 | 第1回中環杯世界囲碁選手権準決勝 | Park Yeonghun | Yamashita Keigo | Win | B+R | 6.5 | 3275 | 0 | 
+| 2005-01-11 | 第6回マキシムコーヒー杯入神最強戦準決勝 | Park Yeonghun | Lee Sedol | Lose | W+R | 6.5 | 3275 | -40 | 
+| 2005-01-08 | 第16期棋聖戦（韓国）挑戦者決定戦三番勝負第1局 | Park Yeonghun | Kim Seungjun | Win | B+R | 6.5 | 3315 | -13 | 
+| 2005-01-04 | 第16期棋聖戦（韓国）準決勝 | Park Yeonghun | Song Taekon | Win | B+1.5 | 6.5 | 3328 | 135 | 
+| 2004-12-30 | 第6回マキシムコーヒー杯入神最強戦3回戦 | Seo Nungwuk | Park Yeonghun | Win | W+7.5 | 6.5 | 3193 | 0 | 
+| 2004-12-29 | 第15期BCカード杯新人王戦 | Park Cheongsang | Park Yeonghun | Win | W+8.5 | 6.5 | 3193 | 110 | 
+| 2004-12-05 | 2004年韓国囲碁リーグ | Yoo Changhyuk | Park Yeonghun | Lose | B+R | 6.5 | 3083 | 57 | 
+| 2004-11-24 | 第16期棋聖戦（韓国）2回戦 | Park Yeonghun | Mok Jinseok | Win | B+R | 6.5 | 3026 | 62 | 
+| 2004-11-14 | 2004年韓国囲碁リーグ | Park Yeonghun | Cho Hunhyun | Lose | W+3.5 | 6.5 | 2964 | -22 | 
+| 2004-11-06 | 第9期LG精油杯プロ棋戦決勝五番勝負第3局 | Lee Changho | Park Yeonghun | Lose | B+2.5 | 6.5 | 2986 | 125 | 
+| 2004-11-01 | 第9期LG精油杯プロ棋戦決勝五番勝負第2局 | Park Yeonghun | Lee Changho | Lose | W+0.5 | 6.5 | 2861 | -392 | 
+| 2004-10-21 | 第6回マキシムコーヒー杯入神最強戦2回戦 | Park Yeonghun | No Yeongha | Win | B+R | 6.5 | 3253 | 8 | 
+| 2004-10-19 | 第9期LG精油杯プロ棋戦決勝五番勝負第1局 | Lee Changho | Park Yeonghun | Lose | B+R | 6.5 | 3245 | 74 | 
+| 2004-10-10 | 2004年韓国囲碁リーグ | Choi Cheolhan | Park Yeonghun | Lose | B+R | 6.5 | 3171 | -47 | 
+| 2004-10-07 | 第9回三星火災杯世界オープン囲碁選手権3回戦 | Zhou Heyang | Park Yeonghun | Lose | B+R | 6.5 | 3218 | -170 | 
+| 2004-09-24 | 第9期LG精油杯プロ棋戦準決勝 | Kim Juho | Park Yeonghun | Win | W+R | 6.5 | 3388 | -61 | 
+| 2004-09-18 | 第1回中環杯世界囲碁選手権2回戦 | Park Yeonghun | O Meien | Win | B+1.5 | 6.5 | 3449 | 19 | 
+| 2004-09-16 | 第1回中環杯世界囲碁選手権1回戦 | Zhou Junxun | Park Yeonghun | Win | W+4.5 | 6.5 | 3430 | 111 | 
+| 2004-09-09 | 第16期棋聖戦（韓国）1回戦 | Park Yeonghun | Choi Wongyong | Win | B+0.5 | 6.5 | 3319 | 171 | 
+| 2004-09-05 | 2004年韓国囲碁リーグ | Lee Changho | Park Yeonghun | Lose | B+R | 6.5 | 3148 | -9 | 
+| 2004-09-03 | 第9回三星火災杯世界オープン囲碁選手権2回戦 | Park Yeonghun | Ma Xiaochun | Win | B+R | 6.5 | 3157 | 4 | 
+| 2004-09-01 | 第9回三星火災杯世界オープン囲碁選手権1回戦 | Yamashita Keigo | Park Yeonghun | Win | W+R | 6.5 | 3153 | 14 | 
+| 2004-08-18 | 第9期LG精油杯プロ棋戦2回戦 | Park Yeonghun | Lee Huiseong | Win | B+R | 6.5 | 3139 | 21 | 
+| 2004-08-08 | 2004年韓国囲碁リーグ | Park Yeonghun | Lee Sedol | Lose | W+R | 6.5 | 3118 | -42 | 
+| 2004-08-05 | 第4期オスラムコリア杯新鋭連勝最強戦 | Lee Huiseong | Park Yeonghun | Lose | B+R | 6.5 | 3160 | 11 | 
+| 2004-07-20 | 第1期電子ランド杯王中王戦1回戦 | Song Taekon | Park Yeonghun | Lose | B+R | 6.5 | 3149 | -19 | 
+| 2004-07-11 | 2004年韓国囲碁リーグ | Park Yeonghun | Song Taekon | Lose | W+R | 6.5 | 3168 | -69 | 
+| 2004-07-05 | 第17回世界囲碁選手権富士通杯決勝 | Park Yeonghun | Yoda Norimoto | Win | B+1.5 | 6.5 | 3237 | 15 | 
+| 2004-07-03 | 第17回世界囲碁選手権富士通杯準決勝 | Yoo Changhyuk | Park Yeonghun | Win | W+R | 6.5 | 3222 | 11 | 
+| 2004-06-06 | 2004年韓国囲碁リーグ | Park Yeonghun | Mok Jinseok | Win | B+R | 6.5 | 3211 | 14 | 
+| 2004-06-05 | 第17回世界囲碁選手権富士通杯3回戦 | Cho U | Park Yeonghun | Win | W+R | 6.5 | 3197 | 5 | 
+| 2004-04-12 | 第17回世界囲碁選手権富士通杯2回戦 | Park Yeonghun | Yamashita Keigo | Win | B+5.5 | 6.5 | 3192 | -6 | 
+| 2004-04-10 | 第17回世界囲碁選手権富士通杯1回戦 | Yuki Satoshi | Park Yeonghun | Win | W+1.5 | 6.5 | 3198 | 55 | 
+| 2004-04-02 | 第9期LG精油杯プロ棋戦1回戦 | Choi Wongyong | Park Yeonghun | Win | W+2.5 | 6.5 | 3143 | 214 | 
+| 2003-12-25 | 2003年国際新鋭囲碁対抗戦第3戦 | Hu Yaoyu | Park Yeonghun | Win | W+R | 7.5 | 2929 | 17 | 
+| 2003-12-22 | 2003年国際新鋭囲碁対抗戦第1戦 | Cho Riyu | Park Yeonghun | Win | W+R | 7.5 | 2912 | -49 | 
+| 2003-12-15 | 第15期棋聖戦（韓国）2回戦 | Park Yeonghun | Mok Jinseok | Lose | W+R | 6.5 | 2961 | -7 | 
+| 2003-12-11 | 第8期三星杯決勝三番勝負第3局 | Park Yeonghun | Cho Chikun | Lose | W+R | 6.5 | 2968 | -5 | 
+| 2003-12-09 | 第8期三星杯決勝三番勝負第2局 | Park Yeonghun | Cho Chikun | Lose | W+R | 6.5 | 2973 | -1 | 
+| 2003-12-08 | 第8期三星杯決勝三番勝負第1局 | Cho Chikun | Park Yeonghun | Win | W+4.5 | 6.5 | 2974 | 14 | 
+| 2003-12-06 | 第1回韓国ドリームリーグ | Park Yeonghun | Yoo Changhyuk | Lose | W+3.5 | 6.5 | 2960 | -55 | 
+| 2003-12-03 | 第14期BCカード杯新人王戦 | Choi Wongyong | Park Yeonghun | Lose | B+1.5 | 6.5 | 3015 | 21 | 
+| 2003-11-26 | 第14期BCカード杯新人王戦 | Park Yeonghun | An Joyeong | Win | B+3.5 | 6.5 | 2994 | -26 | 
+| 2003-11-05 | 第8期三星杯準決勝三番勝負第2局 | Park Yeonghun | Xie He | Win | B+0.5 | 6.5 | 3020 | 18 | 
+| 2003-11-04 | 第8期三星杯準決勝三番勝負第1局 | Xie He | Park Yeonghun | Win | W+3.5 | 6.5 | 3002 | 32 | 
+| 2003-11-01 | 第1回韓国ドリームリーグ | Lee Changho | Park Yeonghun | Lose | B+R | 6.5 | 2970 | -2822 | 
+| 2003-10-15 | 第8期三星杯3回戦 | Park Yeonghun | Yamada Kimio | Win | B+R | 6.5 | 5792 | -106 | 
+| 2003-10-11 | 第1回韓国ドリームリーグ | Park Yeonghun | Song Taekon | Win | B+R | 6.5 | 5898 | 3066 | 
+| 2003-09-20 | 第1回韓国ドリームリーグ | Seo Bongsoo | Park Yeonghun | Win | W+R | 6.5 | 2832 | 62 | 
+| 2003-08-31 | 第3期オスラムコリア杯新鋭連勝最強戦決勝三番勝負第2局 | Song Taekon | Park Yeonghun | Lose | B+R | 6.5 | 2770 | 10 | 
+| 2003-08-29 | 第8期三星杯2回戦 | Park Yeonghun | Ding Wei | Win | B+0.5 | 6.5 | 2760 | -2 | 
+| 2003-08-27 | 第8期三星杯1回戦 | Li Zhe | Park Yeonghun | Win | W+R | 6.5 | 2762 | 15 | 
+| 2003-08-24 | 第3期オスラムコリア杯新鋭連勝最強戦決勝三番勝負第1局 | Park Yeonghun | Song Taekon | Lose | W+R | 6.5 | 2747 | -18 | 
+| 2003-08-18 | 第15期棋聖戦（韓国）1回戦 | Yun Junsang | Park Yeonghun | Win | W+2.5 | 6.5 | 2765 | 6 | 
+| 2003-08-16 | 第1回韓国ドリームリーグ | Cho Hunhyun | Park Yeonghun | Lose | B+R | 6.5 | 2759 | 88 | 
+| 2003-07-28 | 第3期オスラムコリア杯新鋭連勝最強戦 | Park Yeonghun | Hong Minpyo | Win | B+1.5 | 6.5 | 2671 | 24 | 
+| 2003-07-18 | 第8期バッカス杯天元戦2回戦 | Park Yeonghun | Weon Seongjin | Lose | W+R | 6.5 | 2647 | 4 | 
+| 2003-06-21 | 第3回KAT杯韓国囲碁最強戦 | Yoo Changhyuk | Park Yeonghun | Lose | B+R | 6.5 | 2643 | -2 | 
+| 2003-05-28 | 第3回KAT杯韓国囲碁最強戦 | Park Yeonghun | Lee Changho | Win | B+R | 6.5 | 2645 | 6 | 
+| 2003-05-22 | 第3期オスラムコリア杯新鋭連勝最強戦 | Chen Shiyuan | Park Yeonghun | Lose | B+R | 6.5 | 2639 | -15 | 
+| 2003-05-20 | 第8期LG精油杯プロ棋戦1回戦 | Lee Changho | Park Yeonghun | Lose | B+1.5 | 6.5 | 2654 | 6 | 
+| 2003-05-15 | 第3期オスラムコリア杯新鋭連勝最強戦 | Park Yeonghun |  | Win | B+R | 6.5 | 2648 | 0 | 
+| 2003-05-15 | 第3期オスラムコリア杯新鋭連勝最強戦 | Kim Hyeongwan | Park Yeonghun | Win | W+R | 6.5 | 2648 | 13 | 
+| 2003-05-13 | 第3期オスラムコリア杯新鋭連勝最強戦 | Park Yeonghun | Lee Yungsoo | Win | B+R | 6.5 | 2635 | 0 | 
+| 2003-05-13 | 第3期オスラムコリア杯新鋭連勝最強戦 | Park Yeonghun |  | Win | B+R | 6.5 | 2635 | -6 | 
+| 2003-04-29 | 第3期オスラムコリア杯新鋭連勝最強戦 | Kim Juho | Park Yeonghun | Win | W+1.5 | 6.5 | 2641 | 6 | 
+| 2003-04-21 | 第8期バッカス杯天元戦1回戦 | Yoo Changhyuk | Park Yeonghun | Win | W+R | 6.5 | 2635 | 5 | 
+| 2003-04-14 | 第16回世界囲碁選手権富士通杯2回戦 | Park Yeonghun | Kobayashi Satoru | Lose | W+R | 6.5 | 2630 | 14 | 
+| 2003-04-09 | 第22回KBS杯囲碁王戦敗者復活戦1回戦 | Kim Seonryong | Park Yeonghun | Lose | B+0.5 | 6.5 | 2616 | -10 | 
+| 2003-04-08 | 第3回KAT杯韓国囲碁最強戦 | Park Yeonghun | Seo Bongsoo | Win | B+R | 6.5 | 2626 | -26 | 
+| 2003-04-02 | 第22回KBS杯囲碁王戦本戦2回戦 | Park Yeonghun |  | Lose | W+R | 6.5 | 2652 | -17 | 
+| 2003-03-28 | 第2期KT杯マスターズプロ棋戦準決勝 | Park Yeonghun | Yoo Changhyuk | Lose | W+R | 6.5 | 2669 | -27 | 
+| 2003-03-08 | 第2期KT杯マスターズプロ棋戦4回戦 | Park Yeonghun |  | Win | B+6.5 | 6.5 | 2696 | 10 | 
+| 2003-03-03 | 第3回KAT杯韓国囲碁最強戦 | Park Yeonghun | Chang Suyeong | Win | B+R | 6.5 | 2686 | 28 | 
+| 2003-02-26 | 第37期覇王戦本戦第16局 | Rui Naiwei | Park Yeonghun | Lose | B+6.5 | 6.5 | 2658 | 36 | 
+| 2003-01-29 | 第22回KBS杯囲碁王戦本戦1回戦 | Kim Myeongwan | Park Yeonghun | Win | W+R | 6.5 | 2622 | 34 | 
+| 2003-01-10 | 第13期BCカード杯新人王戦 | Park Yeonghun | An Younggil | Lose | W+R | 6.5 | 2588 | -12 | 
+| 2003-01-06 | 第2期KT杯マスターズプロ棋戦3回戦 | Park Yeonghun | Mok Jinseok | Win | B+1.5 | 6.5 | 2600 | 14 | 
+| 2002-12-20 | 第13期BCカード杯新人王戦 | Paek Hongseok | Park Yeonghun | Win | W+R | 6.5 | 2586 | 4 | 
+| 2002-12-17 | 第2回KAT杯韓国囲碁最強戦 | Yoo Changhyuk | Park Yeonghun | Lose | B+1.5 | 6.5 | 2582 | -24 | 
+| 2002-12-02 | 第14期棋聖戦（韓国）準決勝 | Cho Hunhyun | Park Yeonghun | Lose | B+4.5 | 6.5 | 2606 | 5 | 
+| 2002-11-23 | 第4回農心辛ラーメン杯世界囲碁最強戦第5戦 | Park Yeonghun | Kong Jie | Lose | W+R | 6.5 | 2601 | -1 | 
+| 2002-11-19 | 第2回KAT杯韓国囲碁最強戦 | Cho Daehyeon | Park Yeonghun | Win | W+4.5 | 6.5 | 2602 | 2 | 
+| 2002-10-31 | 第7回LG杯世界棋王戦3回戦 | Park Yeonghun | Lee Sedol | Lose | W+R | 6.5 | 2600 | 1 | 
+| 2002-10-25 | 第4回農心辛ラーメン杯世界囲碁最強戦第4戦 | Cho U | Park Yeonghun | Win | W+0.5 | 6.5 | 2599 | 10 | 
+| 2002-10-24 | 第4回農心辛ラーメン杯世界囲碁最強戦第3戦 | Chang Hao | Park Yeonghun | Win | W+2.5 | 6.5 | 2589 | 15 | 
+| 2002-10-23 | 第4回農心辛ラーメン杯世界囲碁最強戦第2戦 | O Rissei | Park Yeonghun | Win | W+R | 6.5 | 2574 | -1 | 
+| 2002-10-22 | 第4回農心辛ラーメン杯世界囲碁最強戦第1戦 | Park Yeonghun | Gu Li | Win | B+R | 6.5 | 2575 | 16 | 
+| 2002-10-14 | 第14期棋聖戦（韓国）2回戦 | Mok Jinseok | Park Yeonghun | Win | W+R | 6.5 | 2559 | -11 | 
+| 2002-10-08 | 第2回KAT杯韓国囲碁最強戦 | Lee Changho | Park Yeonghun | Lose | B+R | 6.5 | 2570 | -10 | 
+| 2002-10-05 | 2002年国際新鋭囲碁対抗戦第3戦 | Park Yeonghun | Gu Li | Lose | W+R | 6.5 | 2580 | -38 | 
+| 2002-10-03 | 2002年国際新鋭囲碁対抗戦第2戦 | Mizokami Tomochika | Park Yeonghun | Win | W+6.5 | 6.5 | 2618 | 45 | 
+| 2002-09-23 | 第2期KT杯マスターズプロ棋戦2回戦 | Park Yeonghun | Choi Cheolhan | Win | B+1.5 | 6.5 | 2573 | -19 | 
+| 2002-09-18 | 第7期LG精油杯プロ棋戦準決勝 | Choi Myeonghun | Park Yeonghun | Lose | B+1.5 | 6.5 | 2592 | -41 | 
+| 2002-08-30 | 第7期三星杯2回戦 | Cao Dayuan | Park Yeonghun | Lose | B+R | 6.5 | 2633 | -11 | 
+| 2002-08-28 | 第7期三星杯1回戦 | Yu Bin | Park Yeonghun | Win | W+0.5 | 6.5 | 2644 | -1 | 
+| 2002-08-24 | 第6回中韓天元対抗戦第3局 | Huang Yizhong | Park Yeonghun | Win | W+6.5 | 6.5 | 2645 | 57 | 
+| 2002-08-23 | 第6回中韓天元対抗戦第2局 | Park Yeonghun | Huang Yizhong | Lose | W+R | 6.5 | 2588 | -53 | 
+| 2002-08-21 | 第6回中韓天元対抗戦第1局 | Huang Yizhong | Park Yeonghun | Win | W+R | 6.5 | 2641 | 104 | 
+| 2002-08-16 | 第7期LG精油杯プロ棋戦2回戦 | Park Yeonghun | Cho Hunhyun | Win | B+R | 6.5 | 2537 | 33 | 
+| 2002-08-14 | 第14期棋聖戦（韓国）1回戦 | Yang Keon | Park Yeonghun | Win | W+R | 6.5 | 2504 | 97 | 
+| 2002-07-05 | 第7期バッカス杯天元戦2回戦 | Park Yeonghun | Kim Soojang | Lose | W+R | 6.5 | 2407 | -23 | 
+| 2002-06-25 | 第4回農心杯韓国選抜戦 | Park Yeonghun | Choi Cheolhan | Win | B+0.5 | 6.5 | 2430 | 3 | 
+| 2002-06-05 | 第7期バッカス杯天元戦1回戦 |  | Park Yeonghun | Win | W+R | 6.5 | 2427 | 10 | 
+| 2002-05-28 | 第1回KAT杯韓国囲碁最強戦 | Lee Sedol | Park Yeonghun | Win | W+R | 6.5 | 2417 | 44 | 
+| 2002-05-18 | 第4回春蘭杯世界囲碁選手権1回戦 | Park Yeonghun | Cho Chikun | Lose | W+2.5 | 7.5 | 2373 | -33 | 
+| 2002-05-15 | 第1期KTF杯戦挑戦者決定戦 | Park Yeonghun | Yoo Changhyuk | Lose | W+2.5 | 6.5 | 2406 | 214 | 
+| 2002-05-02 | 第7回LG杯世界棋王戦2回戦 | Park Yeonghun | Ma Xiaochun | Win | B+4.5 | 6.5 | 2192 | -35 | 
+| 2002-04-18 | 第7期LG精油杯プロ棋戦1回戦 | Park Yeonghun | Yoo Changhyuk | Win | B+7.5 | 6.5 | 2227 | 4 | 
+| 2002-04-08 | 第1期KTF杯戦 | Park Yeonghun | Choi Cheolhan | Win | B+R | 6.5 | 2223 | -680 | 
+| 2002-02-25 | 第1期KTF杯戦 | Kim Seungjun | Park Yeonghun | Win | W+2.5 | 6.5 | 2903 | -54 | 
+| 2002-02-01 | 第36期覇王戦本戦第16局 | Park Yeonghun | An Joyeong | Lose | W+0.5 | 6.5 | 2957 | -46 | 
+| 2002-01-28 | 第1期KTF杯戦 | Park Yeonghun | Lee Huiseong | Win | B+R | 6.5 | 3003 | -81 | 
+| 2002-01-15 | 第1期KTF杯戦 | Park Yeonghun | Seo Bongsoo | Win | B+R | 6.5 | 3084 | 36 | 
+| 2002-01-03 | 第1期KTF杯戦 | Choi Cheolhan | Park Yeonghun | Lose | B+R | 6.5 | 3048 | -50 | 
+| 2001-12-11 | 第6期バッカス杯天元戦決勝五番勝負第4局 | Park Yeonghun |  | Win | B+4.5 | 6.5 | 3098 | 50 | 
+| 2001-11-30 | 第6期バッカス杯天元戦決勝五番勝負第3局 |  | Park Yeonghun | Win | W+R | 6.5 | 3048 | 2 | 
+| 2001-11-18 | 第6期バッカス杯天元戦決勝五番勝負第2局 | Park Yeonghun |  | Lose | W+R | 6.5 | 3046 | -72 | 
+| 2001-11-15 | 第1期オスラムコリア杯新鋭連勝最強戦決勝三番勝負第1局 | Park Yeonghun | Lee Sedol | Lose | W+R | 6.5 | 3118 | -24 | 
+| 2001-11-01 | 第6期バッカス杯天元戦決勝五番勝負第1局 |  | Park Yeonghun | Win | W+1.5 | 6.5 | 3142 | -60 | 
+| 2001-10-17 | 第1期オスラムコリア杯新鋭連勝最強戦 | Park Yeonghun | An Younggil | Win | B+R | 6.5 | 3202 | 66 | 
+| 2001-10-04 | 第1期オスラムコリア杯新鋭連勝最強戦 | Park Yeonghun | Weon Seongjin | Win | B+R | 6.5 | 3136 | -5854 | 
+| 2001-09-13 | 第1期KT杯マスターズプロ棋戦2回戦 | Park Yeonghun |  | Lose | W+0.5 | 6.5 | 8990 | 45 | 
+| 2001-08-24 | 第6期バッカス杯天元戦準決勝 | Park Yeonghun | Seo Bongsoo | Win | B+R | 6.5 | 8945 | 6008 | 
+| 2001-08-14 | 第1期オスラムコリア杯新鋭連勝最強戦 | Kim Kwangsik | Park Yeonghun | Win | W+R | 6.5 | 2937 | 30 | 
+| 2001-08-09 | 第1期オスラムコリア杯新鋭連勝最強戦 | Park Yeonghun | Han Chongjin | Win | B+R | 6.5 | 2907 | 64 | 
+| 2001-07-19 | 第6期バッカス杯天元戦2回戦 | Jiang Zhujiu | Park Yeonghun | Win | W+2.5 | 6.5 | 2843 | 16 | 
+| 2001-06-18 | 第6期バッカス杯天元戦1回戦 | Yoo Changhyuk | Park Yeonghun | Win | W+R | 6.5 | 2827 | 187 | 
+| 2001-05-25 | 第6期LG精油杯プロ棋戦1回戦 | Park Yeonghun | Kim Soojang | Lose | W+2.5 | 6.5 | 2640 | -213 | 
+| 2001-04-03 | 第5期SKガス杯新鋭プロ十傑戦リーグB |  | Park Yeonghun | Win | W+R | 6.5 | 2853 | -81 | 
+| 2001-02-23 | 第5期SKガス杯新鋭プロ十傑戦リーグB | Lee Sedol | Park Yeonghun | Lose | B+R | 6.5 | 2934 | 2934 | 
+| 2000-10-16 | 第8期倍達王戦挑戦者決定戦第3局 | Lee Sedol | Park Yeonghun | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-10-11 | 第8期倍達王戦挑戦者決定戦第2局 | Park Yeonghun | Lee Sedol | Win | B+10.5 | 6.5 | missing | 0 | 
+| 2000-09-29 | 第8期倍達王戦挑戦者決定戦第1局 | Lee Sedol | Park Yeonghun | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-09-15 | 第8期倍達王戦準決勝 | Park Yeonghun | Lee Huiseong | Win | B+R | 6.5 | missing | 0 | 
+| 2000-07-21 | 第8期倍達王戦2回戦 | Jiang Zhujiu | Park Yeonghun | Win | W+3.5 | 6.5 | missing | 0 | 
+| 2000-06-30 | 第8期倍達王戦1回戦 | Seo Bongsoo | Park Yeonghun | Win | W+8.5 | 6.5 | missing | missing |
 
 
 

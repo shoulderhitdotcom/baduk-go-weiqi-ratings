@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-21 | 第26回三星火災杯韓国予選 | Han Wonggyu | Kim Myounghoon | Lose | W+R | 6.5 | 3472 | -140 | 
 | 2021-08-18 | 第4期韓国竜星戦準決勝 | Han Wonggyu | Shin Jinseo | Lose | W+R | 6.5 | 3612 | 95 | 
 | 2021-07-21 | 第23回農心杯韓国予選 | Shin Minjun | Han Wonggyu | Lose | B+R | 6.5 | 3517 | -138 | 
 | 2021-07-15 | 第23回農心杯韓国予選 | Moon Minjong | Han Wonggyu | Win | W+R | 6.5 | 3655 | 22 | 

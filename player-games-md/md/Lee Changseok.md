@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-21 | 第26回三星火災杯韓国予選 |  | Lee Changseok | Win | W+R | 6.5 | 3555 | 39 | 
 | 2021-08-08 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Lee Changseok | Lose | B+R | 6.5 | 3516 | -10 | 
 | 2021-07-09 | 第44期名人戦（韓国）敗者復活戦5回戦 | Shin Jinseo | Lee Changseok | Lose | B+R | 6.5 | 3526 | 1 | 
 | 2021-07-03 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Lee Donghoon | Lee Changseok | Win | W+R | 6.5 | 3525 | 3 | 

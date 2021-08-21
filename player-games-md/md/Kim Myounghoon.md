@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-21 | 第26回三星火災杯韓国予選 | Han Wonggyu | Kim Myounghoon | Win | W+R | 6.5 | 3430 | 3430 | 
+| 2021-07-20 | 第23回農心杯韓国予選 | Kim Myounghoon | An Sungjoon | Lose | W+R | 6.5 | missing | -3372 | 
 | 2021-07-19 | 第23回農心杯韓国予選 | Kim Myounghoon | Kang Seungmin | Win | B+R | 6.5 | 3372 | -32 | 
 | 2021-06-03 | 第26回GSカルテックス杯プロ棋戦2回戦 | Lee Changseok | Kim Myounghoon | Lose | B+R | 6.5 | 3404 | -10 | 
 | 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Kim Myounghoon | Byun Sangil | Lose | W+4.5 | 6.5 | 3414 | -20 | 

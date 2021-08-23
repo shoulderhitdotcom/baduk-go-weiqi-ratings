@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-23 | 第40期女流本因坊戦挑戦者決定戦  | Hoshiai Shiho | Koyama Mitsuru | Win | B+R | 6.5 | 2929 | 126 | 
 | 2021-07-22 | 第40期女流本因坊戦準決勝  | Suzuki Ayumi | Hoshiai Shiho | Win | W+0.5 | 6.5 | 2803 | 30 | 
 | 2021-06-24 | 第40期女流本因坊戦3回戦  | Inori Yoko | Hoshiai Shiho | Win | W+10.5 | 6.5 | 2773 | 58 | 
 | 2021-05-24 | 第40期女流本因坊戦2回戦 | Konishi Kazuko | Hoshiai Shiho | Win | W+R | 6.5 | 2715 | 24 | 

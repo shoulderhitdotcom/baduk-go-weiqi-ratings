@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-23 | 第28期阿含・桐山杯全日本早碁オープン戦準決勝 | Murakawa Daisuke | Iyama Yuta | Win | W+R | 6.5 | 3500 | 3500 | 
+| 2021-08-20 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Iyama Yuta | Adachi Toshimasa | Win | B+R | 6.5 | missing | -3558 | 
 | 2021-08-17 | 第46期碁聖戦挑戦手合五番勝負第4局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3558 | 105 | 
 | 2021-08-02 | 第69期王座戦2回戦 | Yuki Satoshi | Iyama Yuta | Win | W+R | 6.5 | 3453 | 33 | 
 | 2021-07-22 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦  | Fujisawa Rina | Iyama Yuta | Win | W+R | 6.5 | 3420 | 17 | 

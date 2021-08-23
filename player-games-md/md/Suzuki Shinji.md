@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-23 | 第46期棋聖戦Aリーグ | Cho U | Suzuki Shinji | Lose | B+R | 6.5 | 3344 | 8 | 
 | 2021-07-22 | 第46期棋聖戦Aリーグ | Suzuki Shinji | Shibano Toramaru | Lose | W+R | 6.5 | 3336 | 79 | 
 | 2021-05-06 | 第46期棋聖戦Aリーグ | Mutsuura Yuta | Suzuki Shinji | Win | W+R | 6.5 | 3257 | 23 | 
 | 2021-04-22 | 第46期棋聖戦Aリーグ | Suzuki Shinji | Hane Naoki | Win | B+R | 6.5 | 3234 | 84 | 

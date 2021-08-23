@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-23 | 第7回健喬杯女子囲碁最強戦敗部2回戦 | Bai Xinhui | Yu Lijun | Lose | W+R | 6.5 | 2569 | 2569 | 
+| 2021-08-20 | 第7回健喬杯女子囲碁最強戦敗部1回戦 | Bai Xinhui | Dang Xiyun | Win | B+R | 6.5 | missing | -2651 | 
 | 2021-08-18 | 第7回健喬杯女子囲碁最強戦勝部1回戦 | Bai Xinhui |  | Lose | W+2.5 | 6.5 | 2651 | 2651 | 
 | 2021-05-12 | 第4回呉清源杯台湾予選 | Bai Xinhui | Lin Yuting | Lose | W+R | 6.5 | missing | 0 | 
 | 2021-05-07 | 第2期聯電杯プロ囲碁戦予選 | Bai Xinhui | Zhang Zhehao | Lose | W+R | 6.5 | missing | 0 | 

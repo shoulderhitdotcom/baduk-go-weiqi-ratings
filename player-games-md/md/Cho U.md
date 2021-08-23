@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-23 | 第46期棋聖戦Aリーグ | Cho U | Suzuki Shinji | Win | B+R | 6.5 | 3233 | 73 | 
+| 2021-08-05 | 第47期名人戦予選 | Cho U | Miyazaki Ryutaro | Win | B+R | 6.5 | 3160 | 30 | 
 | 2021-07-22 | 第69期王座戦2回戦  | Hane Naoki | Cho U | Win | W+1.5 | 6.5 | 3130 | 71 | 
 | 2021-07-05 | 第46期棋聖戦Aリーグ | Onishi Ryuhei | Cho U | Lose | B+R | 6.5 | 3059 | -24 | 
 | 2021-07-01 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Seto Taiki | Cho U | Lose | B+2.5 | 6.5 | 3083 | -31 | 

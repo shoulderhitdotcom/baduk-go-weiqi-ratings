@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-23 | 第26回三星火災杯中国予選 | Huang Yunsong | Dang Yifei | Win | W+R | 6.5 | 3544 | 3544 | 
+| 2021-08-20 | 第26回三星火災杯中国予選 | Li Xuanhao | Dang Yifei | Win | W+R | 6.5 | missing | -3461 | 
 | 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Tuo Jiaxi | Dang Yifei | Lose | B+¾ | 7.5 | 3461 | 1 | 
 | 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Tuo Jiaxi | Dang Yifei | Lose | B+¾ | 7.5 | 3460 | -22 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Dang Yifei | Yi Lingtao | Win | B+R | 7.5 | 3482 | 7 | 

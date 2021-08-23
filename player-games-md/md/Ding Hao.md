@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-23 | 第26回三星火災杯中国予選 | Lian Xiao | Ding Hao | Lose | B+R | 6.5 | 3646 | 24 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Ding Hao | Li Xuanhao | Win | B+0.5 | 6.5 | 3622 | 23 | 
 | 2021-07-30 | 第16回威孚房開杯棋王戦2回戦 | Ding Hao | Shi Yue | Win | B+R | 7.5 | 3599 | 13 | 
 | 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Ding Hao | Tang Weixing | Win | B+R | 7.5 | 3586 | -10 | 

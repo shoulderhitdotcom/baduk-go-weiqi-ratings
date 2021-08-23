@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-23 | 第7回健喬杯女子囲碁最強戦敗部2回戦 | Bai Xinhui | Yu Lijun | Win | W+R | 6.5 | 2636 | 2636 | 
+| 2021-08-20 | 第7回健喬杯女子囲碁最強戦敗部1回戦 | Yu Lijun |  | Win | B+R | 6.5 | missing | -2710 | 
 | 2021-08-18 | 第7回健喬杯女子囲碁最強戦勝部1回戦  | Yang Zixuan | Yu Lijun | Lose | B+R | 6.5 | 2710 | 57 | 
 | 2021-08-08 | 第2期聯電杯プロ囲碁戦敗部1回戦 | Yu Lijun | Lin Junyan | Lose | W+R | 6.5 | 2653 | 4 | 
 | 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Yu Lijun | Lin Shixun | Lose | W+5.5 | 6.5 | 2649 | 8 | 

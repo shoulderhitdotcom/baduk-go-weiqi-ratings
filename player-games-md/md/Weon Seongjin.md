@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-23 | 第26回三星火災杯韓国予選 | Weon Seongjin | Yun Chanhee | Lose | W+R | 6.5 | 3672 | 7 | 
 | 2021-08-08 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Lee Changseok | Win | B+R | 6.5 | 3665 | 73 | 
 | 2021-07-25 | 第23回農心杯韓国予選 | Weon Seongjin | Shin Minjun | Lose | W+R | 6.5 | 3592 | -27 | 
 | 2021-07-23 | 第23回農心杯韓国予選 | Weon Seongjin | Choi Jeong | Win | B+R | 6.5 | 3619 | 11 | 

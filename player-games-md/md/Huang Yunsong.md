@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-23 | 第26回三星火災杯中国予選 | Huang Yunsong | Dang Yifei | Lose | W+R | 6.5 | 3472 | 3472 | 
+| 2021-08-20 | 第26回三星火災杯中国予選 | Huang Yunsong | Zhao Chenyu | Lose | W+R | 6.5 | missing | -3563 | 
 | 2021-08-18 | 第26回三星火災杯中国予選 | Li Weiqing | Huang Yunsong | Lose | B+R | 6.5 | 3563 | 102 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Tang Weixing | Huang Yunsong | Win | W+R | 6.5 | 3461 | 14 | 
 | 2021-08-13 | 第26回三星火災杯中国予選 | Huang Yunsong | Tu Xiaoyu | Win | B+R | 6.5 | 3447 | -1 | 

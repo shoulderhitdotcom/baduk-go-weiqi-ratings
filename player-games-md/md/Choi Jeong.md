@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-23 | 第26回三星火災杯韓国予選 | Oh Yujin | Choi Jeong | Win | W+R | 6.5 | 3344 | -3 | 
 | 2021-08-21 | 第26回三星火災杯韓国予選 | Choi Jeong |  | Win | B+R | 6.5 | 3347 | 3347 | 
 | 2021-08-20 | 第26回三星火災杯韓国予選 | Cho Hyeyeon | Choi Jeong | Win | W+R | 6.5 | missing | -3407 | 
 | 2021-08-18 | 第1回IBK企業銀行杯女子囲碁マスターズ決勝三番勝負第2局 | Choi Jeong | Oh Jeonga | Win | B+R | 6.5 | 3407 | 0 | 

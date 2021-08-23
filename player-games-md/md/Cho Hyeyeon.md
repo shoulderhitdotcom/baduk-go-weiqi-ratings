@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-23 | 第15回GGオークション杯女流対シニア連勝対抗戦第9局 | Cho Hyeyeon | Han Chongjin | Lose | W+R | 6.5 | 3018 | 3018 | 
+| 2021-08-20 | 第26回三星火災杯韓国予選 | Cho Hyeyeon | Choi Jeong | Lose | W+R | 6.5 | missing | -3112 | 
 | 2021-08-17 | 第15回GGオークション杯女流対シニア連勝対抗戦第8局 | Cho Hyeyeon | Kim Dongmyeon | Win | B+R | 6.5 | 3112 | 113 | 
 | 2021-08-16 | 第15回GGオークション杯女流対シニア連勝対抗戦第7局 | Cho Hyeyeon | Seo Musang | Win | B+2.5 | 6.5 | 2999 | -27 | 
 | 2021-08-11 | 第26期女流国手戦1回戦 | Cho Hyeyeon |  | Win | B+7.5 | 6.5 | 3026 | 40 | 

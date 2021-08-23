@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-23 | 第7回健喬杯女子囲碁最強戦敗部2回戦 | Yang Zixuan | Zhang Kaixin | Lose | B+3.5 | 6.5 | 2516 | 2516 | 
+| 2021-08-20 | 第7回健喬杯女子囲碁最強戦勝部2回戦  | Zhang Kaixin |  | Lose | W+R | 6.5 | missing | -2486 | 
 | 2021-08-16 | 第7回健喬杯女子囲碁最強戦予選 | Zhang Zhengping | Zhang Kaixin | Win | W+R | 6.5 | 2486 | 6 | 
 | 2021-05-20 | 第4回呉清源杯台湾予選 | Zhang Kaixin | Yang Zixuan | Lose | W+R | 7.5 | 2480 | -12 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 |  | Zhang Kaixin | Lose | B+R | 6.5 | 2492 | -13 | 

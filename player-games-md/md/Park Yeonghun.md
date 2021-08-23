@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-23 | 第26回三星火災杯韓国予選 | Ryu Minhyung | Park Yeonghun | Win | W+R | 6.5 | 3286 | 17 | 
 | 2021-08-19 | 第26回三星火災杯韓国予選 | Park Yeonghun | Kang Jihoon | Win | B+R | 6.5 | 3269 | -30 | 
 | 2021-04-28 | 第4期韓国竜星戦2回戦 | Shin Jinseo | Park Yeonghun | Lose | B+R | 6.5 | 3299 | -16 | 
 | 2021-04-26 | 第26回LG杯韓国予選 | Lee Hyeonwuk | Park Yeonghun | Win | W+R | 6.5 | 3315 | -127 | 

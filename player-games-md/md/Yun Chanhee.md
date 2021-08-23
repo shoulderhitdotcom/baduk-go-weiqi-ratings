@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-23 | 第26回三星火災杯韓国予選 | Weon Seongjin | Yun Chanhee | Win | W+R | 6.5 | 3304 | 55 | 
+| 2021-07-12 | 第23回農心杯韓国予選 | Park Sangjin | Yun Chanhee | Lose | B+R | 6.5 | 3249 | 7 | 
 | 2021-07-04 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | An Sungjoon | Yun Chanhee | Lose | B+R | 6.5 | 3242 | -42 | 
 | 2021-05-16 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Kang Dongyun | Yun Chanhee | Lose | B+R | 6.5 | 3284 | -210 | 
 | 2021-03-16 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Yun Chanhee | Park Jaekeun | Win | B+R | 6.5 | 3494 | 58 | 

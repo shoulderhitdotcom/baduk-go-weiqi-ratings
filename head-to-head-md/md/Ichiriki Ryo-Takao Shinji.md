@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ichiriki Ryo vs Takao Shinji** | **Ichiriki Ryo streak** | **Takao Shinji streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-07-08 | 第69期王座戦2回戦 | Takao Shinji | Ichiriki Ryo | W+R | 6.5 | 1:0 | 1 | 0 | 
+| 2021-08-23 | 第46期棋聖戦Sリーグ  | Ichiriki Ryo | Takao Shinji | B+R | 6.5 | 1:0 | 1 | 0 | 
+| 2021-07-08 | 第69期王座戦2回戦 | Takao Shinji | Ichiriki Ryo | W+R | 6.5 | 7:5 | 1 | 0 | 
 | 2020-07-02 | 第45期棋聖戦Sリーグ | Ichiriki Ryo | Takao Shinji | W+R | 6.5 | 6:5 | 0 | 1 | 
 | 2019-11-04 | 第44期棋聖戦挑戦者決定トーナメント | Ichiriki Ryo | Takao Shinji | B+R | 6.5 | 6:4 | 2 | 0 | 
 | 2019-04-14 | 第2回トライカップ プロ囲碁団体戦 | Takao Shinji | Ichiriki Ryo | W+R | 6.5 | 5:4 | 1 | 0 | 

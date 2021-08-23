@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Cho Hyeyeon vs Choi Jeong** | **Cho Hyeyeon streak** | **Choi Jeong streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-20 | 第26回三星火災杯韓国予選 | Cho Hyeyeon | Choi Jeong | W+R | 6.5 | 2:4 | 0 | 2 | 
 | 2019-05-07 | 第5回韓国女子囲碁リーグ第1節第2試合第2局 | Choi Jeong | Cho Hyeyeon | B+R | 6.5 | 2:3 | 0 | 1 | 
 | 2017-02-16 | 3期韓国女子連戦1回戦首尓-浦項 | Cho Hyeyeon | Choi Jeong | B+R | 6.5 | 2:2 | 1 | 0 | 
 | 2016-05-03 | 第2回韓国女子囲碁リーグ第13節 | Cho Hyeyeon | Choi Jeong | W+3.5 | 6.5 | 1:2 | 0 | 1 | 

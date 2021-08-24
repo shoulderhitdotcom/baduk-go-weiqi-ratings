@@ -7,9 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Fan Yin | Huang Xin | Lose | B+R | 7.5 | 3176 | 1 | 
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Fan Yin | Huang Xin | Lose | B+R | 7.5 | 3175 | -32 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Huang Xin | Xie Erhao | Lose | W+R | 7.5 | 3207 | -1 | 
+| 2021-08-24 | 第12期中国竜星戦予選 | Huang Xin | Wang Zejin | Win | B+R | 7.5 | 3293 | 118 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Fan Yin | Huang Xin | Lose | B+R | 7.5 | 3175 | -33 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Huang Xin | Xie Erhao | Lose | W+R | 7.5 | 3208 | -32 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Huang Xin | Rong Yi | Win | B+¾ | 7.5 | 3240 | 137 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Huang Xin | Hu Yuhan | Lose | W+¼ | 7.5 | 3103 | -64 | 

@@ -7,10 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Han Yizhou | Win | W+R | 7.5 | 3388 | 1 | 
+| 2021-08-24 | 第12期中国竜星戦予選 | Han Yizhou | Xia Chenkun | Win | B+R | 7.5 | 3445 | 58 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Han Yizhou | Win | W+R | 7.5 | 3387 | 14 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Li Weiqing | Han Yizhou | Lose | B+R | 7.5 | 3373 | 8 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Wang Zejin | Han Yizhou | Win | W+R | 7.5 | 3365 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Wang Zejin | Han Yizhou | Win | W+R | 7.5 | 3365 | 14 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Shin Minjun | Han Yizhou | Lose | B+3¾ | 7.5 | 3351 | -15 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Han Yizhou | Gu Zihao | Lose | W+R | 7.5 | 3366 | -9 | 

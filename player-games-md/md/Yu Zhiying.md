@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-24 | 第26回三星火災杯中国予選 | Yu Zhiying | Li He | Win | B+4.5 | 6.5 | 3216 | 2 | 
 | 2021-08-19 | 第26回三星火災杯中国予選 | Yu Zhiying | Zhou Hongyu | Win | B+1.5 | 6.5 | 3214 | 3214 | 
 | 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Fujisawa Rina | Yu Zhiying | Win | W+R | 7.5 | missing | -3135 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Ueno Asami | Yu Zhiying | Win | W+R | 7.5 | 3135 | -9 | 

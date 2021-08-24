@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Wang Shiyi | Liu Qifeng | Lose | W+¼ | 7.5 | 3223 | 1 | 
+| 2021-08-24 | 第12期中国竜星戦予選 | Wang Shiyi |  | Lose | W+¼ | 7.5 | 3265 | 43 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Wang Shiyi | Liu Qifeng | Lose | W+¼ | 7.5 | 3222 | -35 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Wang Shiyi | Win | W+R | 7.5 | 3257 | 35 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Wang Shiyi | Tan Xiao | Lose | W+R | 7.5 | 3222 | -13 | 

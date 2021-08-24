@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Shin Minjun | Xia Chenkun | Win | W+R | 7.5 | 3335 | 1 | 
+| 2021-08-24 | 第12期中国竜星戦予選 | Han Yizhou | Xia Chenkun | Lose | B+R | 7.5 | 3353 | 19 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Shin Minjun | Xia Chenkun | Win | W+R | 7.5 | 3334 | 21 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | He Yuhan | Xia Chenkun | Win | W+R | 7.5 | 3313 | 34 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Peng Liyao | Xia Chenkun | Lose | B+R | 7.5 | 3279 | -24 | 

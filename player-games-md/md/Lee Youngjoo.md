@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-24 | 第15回GGオークション杯女流対シニア連勝対抗戦第10局 | Lee Youngjoo | Han Chongjin | Lose | W+R | 6.5 | 2828 | 42 | 
 | 2021-08-13 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Kang Dajeong | Win | B+R | 6.5 | 2786 | -18 | 
 | 2021-08-13 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Kang Dajeong | Win | B+R | 6.5 | 2804 | -8 | 
 | 2021-08-11 | 第26期女流国手戦1回戦 | Lee Youngjoo |  | Lose | W+R | 6.5 | 2812 | -25 | 

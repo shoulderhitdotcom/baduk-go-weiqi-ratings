@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-24 | 第26回三星火災杯韓国予選 | Choi Jeong | Lee Minjin | Win | B+0.5 | 6.5 | 3341 | -3 | 
 | 2021-08-23 | 第26回三星火災杯韓国予選 | Oh Yujin | Choi Jeong | Win | W+R | 6.5 | 3344 | -3 | 
 | 2021-08-21 | 第26回三星火災杯韓国予選 | Choi Jeong |  | Win | B+R | 6.5 | 3347 | 3347 | 
 | 2021-08-20 | 第26回三星火災杯韓国予選 | Cho Hyeyeon | Choi Jeong | Win | W+R | 6.5 | missing | -3407 | 

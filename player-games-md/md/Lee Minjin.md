@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-24 | 第26回三星火災杯韓国予選 | Choi Jeong | Lee Minjin | Lose | B+0.5 | 6.5 | 3044 | 77 | 
 | 2021-08-14 | 第7回韓国女子囲碁リーグ |  | Lee Minjin | Win | W+1.5 | 6.5 | 2967 | -4 | 
 | 2021-08-08 | 第7回韓国女子囲碁リーグ | Kim Miri | Lee Minjin | Win | W+R | 6.5 | 2971 | 82 | 
 | 2021-08-04 | 2021女子最高棋士決定戦（韓国）予選 | Park Jiyeon | Lee Minjin | Win | W+R | 6.5 | 2889 | 11 | 

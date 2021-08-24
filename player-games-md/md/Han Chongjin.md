@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-24 | 第15回GGオークション杯女流対シニア連勝対抗戦第10局 | Lee Youngjoo | Han Chongjin | Win | W+R | 6.5 | 3018 | 0 | 
 | 2021-08-23 | 第15回GGオークション杯女流対シニア連勝対抗戦第9局 | Cho Hyeyeon | Han Chongjin | Win | W+R | 6.5 | 3018 | 160 | 
 | 2021-07-05 | 第15回GGオークション杯予選 | Han Chongjin | Kim Myeongwan | Win | B+R | 6.5 | 2858 | -263 | 
 | 2020-08-25 | 第14回GGオークション杯女流対シニア連勝対抗戦第8局 | Lee Youngjoo | Han Chongjin | Lose | B+2.5 | 6.5 | 3121 | -142 | 

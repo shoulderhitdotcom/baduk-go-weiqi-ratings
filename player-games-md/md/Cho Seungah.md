@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-24 | 第26回三星火災杯韓国予選 | Park Jiyeon | Cho Seungah | Win | W+R | 6.5 | 3158 | 22 | 
 | 2021-08-21 | 第26回三星火災杯韓国予選 |  | Cho Seungah | Win | W+R | 6.5 | 3136 | 33 | 
 | 2021-08-14 | 第7回韓国女子囲碁リーグ | Cho Seungah |  | Win | B+R | 6.5 | 3103 | -55 | 
 | 2021-08-11 | 第1回IBK企業銀行杯女子囲碁マスターズ準決勝 | Cho Seungah | Choi Jeong | Lose | W+R | 6.5 | 3158 | 0 | 

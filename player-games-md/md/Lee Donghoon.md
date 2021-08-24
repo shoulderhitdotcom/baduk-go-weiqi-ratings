@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-24 | 第26回三星火災杯韓国予選 | Lee Donghoon | Lee Wonyoung | Win | B+R | 6.5 | 3528 | 31 | 
 | 2021-08-07 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Donghoon | Shin Minjun | Win | B+R | 6.5 | 3497 | 18 | 
 | 2021-08-01 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Sangjin | Lee Donghoon | Win | W+R | 6.5 | 3479 | 22 | 
 | 2021-07-25 | 第23回農心杯韓国予選 | Lee Donghoon | Byun Sangil | Lose | W+R | 6.5 | 3457 | -7 | 

@@ -7,10 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Wang Zejin | Xu Jiayang | Lose | W+R | 7.5 | 3372 | 1 | 
+| 2021-08-24 | 第12期中国竜星戦予選 | Huang Xin | Wang Zejin | Lose | B+R | 7.5 | 3412 | 41 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Wang Zejin | Xu Jiayang | Lose | W+R | 7.5 | 3371 | -9 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Xu Yidi | Wang Zejin | Win | W+R | 7.5 | 3380 | 15 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Wang Zejin | Han Yizhou | Lose | W+R | 7.5 | 3365 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Wang Zejin | Han Yizhou | Lose | W+R | 7.5 | 3365 | -19 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Wang Zejin | Win | W+R | 7.5 | 3384 | 9 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Wang Zejin | Zhang Tao | Lose | W+R | 7.5 | 3375 | -28 | 

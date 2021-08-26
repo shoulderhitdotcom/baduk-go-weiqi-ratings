@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-26 | 第12期中国竜星戦予選 | Fan Yin | Chen Zijian | Win | B+R | 7.5 | 3433 | 3433 | 
+| 2021-08-25 | 第26回三星火災杯中国予選 | Li Xuanhao | Fan Yin | Win | W+R | 6.5 | missing | 0 | 
+| 2021-08-20 | 第26回三星火災杯中国予選 | Tong Mengcheng | Fan Yin | Lose | B+2.5 | 6.5 | missing | -3344 | 
 | 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Fan Yin | Mi Yuting | Lose | W+1¼ | 7.5 | 3344 | -28 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Fan Yin | Huang Xin | Win | B+R | 7.5 | 3372 | 7 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Fan Yin | Lose | B+1¾ | 7.5 | 3365 | -5 | 

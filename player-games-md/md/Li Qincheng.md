@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-26 | 第12期中国竜星戦予選 | Liao Yuanhe | Li Qincheng | Lose | B+R | 7.5 | 3566 | 15 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Li Qincheng | Zhao Chenyu | Win | B+R | 7.5 | 3551 | 25 | 
 | 2021-07-30 | 第16回威孚房開杯棋王戦1回戦 |  | Li Qincheng | Win | W+R | 7.5 | 3526 | 7 | 
 | 2021-07-28 | 第23回農心杯中国予選 | Li Qincheng | Yang Dingxin | Win | B+R | 6.5 | 3519 | 0 | 

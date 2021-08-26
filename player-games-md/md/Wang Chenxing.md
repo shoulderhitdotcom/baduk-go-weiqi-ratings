@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-26 | 第26回三星火災杯中国予選 | Wang Chenxing | Rui Naiwei | Lose | W+R | 6.5 | 3066 | -34 | 
 | 2021-08-19 | 第26回三星火災杯中国予選 | Wang Chenxing |  | Lose | W+R | 6.5 | 3100 | 3100 | 
 | 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Oh Yujin | Wang Chenxing | Win | W+R | 7.5 | missing | -3042 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Suzuki Ayumi | Wang Chenxing | Win | W+R | 7.5 | 3042 | -13 | 

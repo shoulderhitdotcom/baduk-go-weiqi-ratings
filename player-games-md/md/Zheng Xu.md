@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-26 | 第12期中国竜星戦予選 | Tong Mengcheng | Zheng Xu | Lose | B+R | 7.5 | 3085 | 42 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Zheng Xu | Wang Xinghao | Lose | W+R | 7.5 | 3043 | 5 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Zheng Xu | Tao Xinran | Lose | W+R | 7.5 | 3038 | 27 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Zheng Xu | Peng Liyao | Win | B+1¾ | 7.5 | 3011 | 3011 | 

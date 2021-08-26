@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-26 | 第26回三星火災杯中国予選 | Wang Chenxing | Rui Naiwei | Win | W+R | 6.5 | 3047 | -59 | 
 | 2021-08-17 | 第26回三星火災杯中国予選 |  | Rui Naiwei | Win | W+3.5 | 6.5 | 3106 | 92 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Fang Ruoxi | Rui Naiwei | Lose | B+R | 7.5 | 3014 | -36 | 
 | 2021-06-10 | 第4回呉清源杯中国予選 | Rui Naiwei |  | Win | B+R | 7.5 | 3050 | 8 | 

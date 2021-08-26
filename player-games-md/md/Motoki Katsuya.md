@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-26 | 第28期阿含・桐山杯全日本早碁オープン戦準決勝 | Motoki Katsuya | Hsu Chiayuan | Lose | W+R | 6.5 | 3312 | 26 | 
 | 2021-08-09 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Yuki Satoshi | Motoki Katsuya | Win | W+R | 6.5 | 3286 | 64 | 
 | 2021-07-15 | 第46期名人戦リーグ | Motoki Katsuya | Yamashita Keigo | Lose | W+R | 6.5 | 3222 | 1 | 
 | 2021-07-15 | 第46期名人戦リーグ | Motoki Katsuya | Yamashita Keigo | Lose | W+R | 6.5 | 3221 | -18 | 

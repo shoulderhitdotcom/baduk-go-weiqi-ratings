@@ -5,353 +5,354 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第22回中国囲碁甲級リーグプレーオフ | Kim Jiseok | Liao Xingwen | B+¾ | 2020-12-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2mL6ScqoIfDZkPcN5kQcgw%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Liao Xingwen | Han Yizhou | W+R | 2020-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DK5IPQkD78k8dbC%2BPJyhAA%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Tu Xiaoyu | Liao Xingwen | B+R | 2020-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=biy208mbPZKX8WZxZsVslg%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Fan Yin | Liao Xingwen | B+R | 2020-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zDRlPNNZg%2B4lKGxoFB4jaA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Liao Xingwen | Byun Sangil | W+R | 2020-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yRiFSJe%2BV9Fu3bkK2gJU2Q%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Liao Xingwen | Meng Tailing | W+R | 2020-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qnWapDiYUbb%2F92PYvCHOhw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Liao Xingwen | Shi Yue | B+¾ | 2020-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8fXc46vMHqK5bW%2B0LfDt0w%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Liao Xingwen | Chen Yaoye | W+¼ | 2020-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q78Elh7HXOZrC7rvcab7og%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Yi Lingtao | Liao Xingwen | B+2¾ | 2020-12-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kc%2FOPmBIsIaHglb9%2BoWgWg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Liao Xingwen | Li Weiqing | W+R | 2020-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bVS8EurpSIlEiWHq4llWIw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第8節 | Li Qincheng | Liao Xingwen | B+R | 2020-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eaj7phNMuksAPd7VDSn7RA%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第7節 | Liao Xingwen | Wu Guangya | B+R | 2020-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7MyXFQRQ9JQrKNO4ftIuFQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第6節 | Jiang Qirun | Liao Xingwen | B+R | 2020-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kDbngJxA6lF5zHmbKKIknw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第5節 | He Yuhan | Liao Xingwen | B+R | 2020-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BdOr%2F94QdGwB2wMIn0rLlQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第3節 | Liao Xingwen | Park Junghwan | W+R | 2020-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PG4%2BDtX2N0nhdFNBfypK0Q%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第2節 | Kim Jiseok | Liao Xingwen | W+R | 2020-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bsuSbjXkBQnAzSaMJuZb0g%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第1節 | Fan Yin | Liao Xingwen | W+R | 2020-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bz5w0ThH0l1%2BglMTNdMh1Q%3D%3D) | 
-| 第5期洛陽白雲山杯中国棋聖戦予選 | Liao Xingwen | Tan Xiao | W+R | 2019-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XDh99uOKigzXjCIYyHbZpw%3D%3D) | 
-| 第5期洛陽白雲山杯中国棋聖戦予選 | Zhou Hongyu | Liao Xingwen | W+R | 2019-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F4C2GNAh9qFYK3QbtdZ1DA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第11節 | Park Hamin | Liao Xingwen | B+R | 2019-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RQbxgdazFMjXUySQhY2zow%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第10節 | Lee Donghoon | Liao Xingwen | B+1¾ | 2019-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ldWX3T5E023pkHWXwku8Jg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第9節 | Liao Xingwen | Xie Erhao | W+R | 2019-07-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c8NopgUFJbjn8CgiKYQXQg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第5節 | Yang Kaiwen | Liao Xingwen | B+R | 2019-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RjrUSCaaccQCn0IrykKUNg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第4節 | Huang Yunsong | Liao Xingwen | W+R | 2019-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lkWqFfCGDKnMmE5b3s8fYA%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第3節 | Liao Xingwen | Shen Peiran | W+R | 2019-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=weRtbbNZqsw4uNVRL9TOGw%3D%3D) | 
-| 第24回LG杯統合予選2回戦 | Liao Xingwen | Park Sangjin | B+R | 2019-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nDtDd37Zbw5GBHEwLklnsg%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦4回戦 | Yi Lingtao | Liao Xingwen | B+R | 2019-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UhAINS9LHaaVMG8RH6yirQ%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦3回戦 | missing | Liao Xingwen | W+R | 2019-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CBUx78suaNBvtQHoC5%2F3%2BQ%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦2回戦 | Liao Xingwen | Sun Tengyu | B+R | 2019-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qKGyZBUdWgbhuG2VpnFqAQ%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦1回戦 | Liao Xingwen | Jiang Weijie | B+R | 2019-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=txfJdGRDvXj5MWh2Lxi4JQ%3D%3D) | 
-| 第4期洛陽白雲山杯中国棋聖戦資格戦 | Liao Xingwen | Ding Shixiong | W+R | 2018-12-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U7TXWdMUFQw1kFIhfZ3Dyg%3D%3D) | 
-| 第4期洛陽白雲山杯中国棋聖戦予選甲組 | missing | Liao Xingwen | W+R | 2018-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yVUR303ZS5rQ7xfs8qAUWQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第24節中信-上海 | Han Yizhou | Liao Xingwen | B+R | 2018-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DgC%2B2NtHwBEg1UIev9eH%2Bw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第23節上海-天津 | Liao Xingwen | Meng Tailing | B+R | 2018-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OwkB3Ia%2BJaCkIEWHR48pzA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第22節廈門-上海 | Peng Liyao | Liao Xingwen | B+2¾ | 2018-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DZ9jqCxnqdXD6RR21ei4Rg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第21節上海-杭州 | Liao Xingwen | Xia Chenkun | B+R | 2018-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4M5rgyZwWIsWQUIMKmEkVQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第20節上海-山東 | Liao Xingwen | Yi Lingtao | W+¼ | 2018-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AGGTr5qmc9tH9K90KruGfg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第19節衢州-上海 | Hu Yuhan | Liao Xingwen | B+R | 2018-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qrBiysgStJ5ma%2BEDj3rW%2Bw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第18節上海-民生 | Liao Xingwen | Shen Peiran | W+R | 2018-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JiiMwGxPQnkYxHk4NUTdfA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第17節蘇泊爾-上海 | Li Qincheng | Liao Xingwen | B+¾ | 2018-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=suVaXUipXjij11aSYN3aMw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第16節上海-江蘇 | Liao Xingwen | Huang Yunsong | B+R | 2018-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GmZ36F3%2FyjEbc%2BLRimTcEg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第15節浙江-上海 | Zhang Tao | Liao Xingwen | W+R | 2018-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UCNZ304GM3BZF8zUHHPogg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第14節上海-江西 | Xu Jiayang | Liao Xingwen | W+R | 2018-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w7uTZPY2sypqYrwstujrKw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第10節天津-上海 | Wang Zejin | Liao Xingwen | W+R | 2018-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yO1UNicMQy6NVBx%2F%2BrRNzA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第7節山東-上海 | Yi Lingtao | Liao Xingwen | B+R | 2018-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aVoy80%2FsR%2Bk7JG8VfNw0%2Fg%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦2回戦 | Liao Xingwen | Peng Liyao | W+R | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rtd%2FJPf8V1vMdK9Vbe50%2BQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第3節江蘇-上海 | Tong Mengcheng | Liao Xingwen | B+R | 2018-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GNT%2Bbc9XvKAwb3%2FQnhIqCg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第2節上海-浙江 | Liao Xingwen | Li Zhe | W+R | 2018-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LWg8PqmH2VIGz%2FYGkLef8A%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第1節江西-上海 | Xu Jiayang | Liao Xingwen | B+R | 2018-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j3PopguibdX8hYGNo%2BaDyQ%3D%3D) | 
-| 第32期中国囲碁天元戦1回戦 | Zhang Tao | Liao Xingwen | B+R | 2018-01-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TP49c31SiECSBfZamsrASw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第26節 | Liao Xingwen | Kim Jiseok | W+R | 2017-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kJesOdFaTukfqHXiNepsfA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第25節 | Han Yizhou | Liao Xingwen | B+R | 2017-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s7vHAG0krw%2Bzvw156KdT9A%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第24節 | Liao Xingwen | missing | B+R | 2017-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=56MGqrn%2BTXsCnQoRBpcEYw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第23節 | Liao Xingwen | Rong Yi | W+¼ | 2017-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6fPqHhpD1Tb2bTvJZp0gPg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第22節 | Liao Xingwen | Ichiriki Ryo | B+R | 2017-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IteXInlr2DbW4IHIRYAlQg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第21節 | Xie Ke | Liao Xingwen | B+R | 2017-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V%2Fe62W0Q3zcxquyMbXInwg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第20節 | Liao Xingwen | Dang Yifei | W+R | 2017-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dsYTkICn48X2l9%2FbwxTPqQ%3D%3D) | 
-| 第13期威孚房開杯棋王戦32強戦 | Li Xuanhao | Liao Xingwen | B+R | 2017-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MQoRKEGy%2F%2F0VeMLh0OtfyA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第19節 | Yang Kaiwen | Liao Xingwen | W+R | 2017-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S20CpgKkDeQPgAADHGVO%2Fw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第18節 | Meng Tailing | Liao Xingwen | B+R | 2017-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YLqfqLGbBQLkTtprK6hSFA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第17節 | Liao Xingwen | Mi Yuting | W+R | 2017-09-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Djs%2FrNu3qtzAPtCKVMnI4Q%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第16節 | Liao Xingwen | Fan Yunruo | W+R | 2017-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e%2BLZiP%2BfnKafUmtJKOOLJw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第15節 | Zhou Ruiyang | Liao Xingwen | W+R | 2017-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5c8vn5dRR%2FKCm5pS0h9xJA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第14節 | Liao Xingwen | Ke Jie | W+R | 2017-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SL0rHgOUqoX2GvDzkwwJXQ%3D%3D) | 
-| 中国浙江平湖当湖十局杯CCTV準決勝 | Liao Xingwen | Li Xuanhao | W+R | 2017-08-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hjaaz4dL0P8QinMza6Tbhg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第13節 | Liao Xingwen | Kim Jiseok | W+0.5 | 2017-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PVFSw9ReTIxAWlAMeagFFA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第11節 | Liao Xingwen | Shin Jinseo | W+R | 2017-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DgCpKFIkcLoNOlrnQlRv1w%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第10節 | Liao Xingwen | Rong Yi | W+T | 2017-07-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cUmlcEcswB3oa9Vhj%2Bogyg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第9節 | Li Xuanhao | Liao Xingwen | B+R | 2017-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vU1D1vMsoMX%2FUuprzZ0xEA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第8節 | Liao Xingwen | Xie Ke | W+R | 2017-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qakQ%2BmaZWKUhMAFhLt%2FUzg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第7節 | Liao Yuanhe | Liao Xingwen | W+R | 2017-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OmP9HBxGhnAxUGffqGeqxA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第6節 | Liao Xingwen | Yang Kaiwen | B+1.5 | 2017-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vSwbdnhOE5Dsp0o7NlLQiQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第5節 | Xie Erhao | Liao Xingwen | B+R | 2017-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d0tDUDp0i7CnU9E8Db7sxw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第4節 | Liao Xingwen | Huang Yunsong | B+R | 2017-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e1Iwd4xKu24k%2Fm0tBuMcXQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第3節 | Liao Xingwen | Li Zhe | B+R | 2017-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FroOwCaYluaH6Po%2F6UzCaQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第2節 | Fan Tingyu | Liao Xingwen | B+R | 2017-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e4OFoT%2F4hhHs22CmoBNV4g%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第1節 | Liao Xingwen | Kang Dongyun | B+R | 2017-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rgrhoALMOacIVaVw3J6sKg%3D%3D) | 
-| 第19期中国阿含桐山杯本選3回戦 | Liao Xingwen | Li Qincheng | W+0.5 | 2017-04-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OKexBQh%2F3ddhWjULgnD9Vg%3D%3D) | 
-| 第22期LG杯世界予選1回戦 | Kang Yootaek | Liao Xingwen | W+R | 2017-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L5uTXQjhNOgK%2FmaBwXjSEA%3D%3D) | 
-| 世界第三期Mlily夢百合杯予選2回戦 | Liao Xingwen | Lee Donghoon | W+R | 2017-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AKs9vhf%2B1ENqZ8XFea7VhA%3D%3D) | 
-| 第31期中国囲碁天元戦2回戦 | Liao Xingwen | Shi Yue | W+R | 2017-01-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V9FvwetS%2F5He6UxCB20pTg%3D%3D) | 
-| 第31期中国囲碁天元戦1回戦 | Zhou Heyang | Liao Xingwen | W+R | 2017-01-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vaSBDGvHDx1%2FsDgqHVkZrQ%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選3回戦 | Liao Xingwen | Yi Lingtao | W+R | 2016-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dctl%2BfHySwuRjeHXEX5zxw%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選2回戦 | Wang Jiabao | Liao Xingwen | W+0.5 | 2016-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oO0b0NMWHUBNwCXsPpC8%2Fg%3D%3D) | 
-| 第8期中国竜星戦予選 | Liao Xingwen | Zhang Tao | W+R | 2016-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sBrFBkqljVJWtfZ0ubDB%2Bg%3D%3D) | 
-| 第8期中国竜星戦予選 | Qin Yuexin | Liao Xingwen | W+R | 2016-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2FIeo7Op0wRdr23qVO4vFQ%3D%3D) | 
-| 2016年全国囲棋個人戦男子組第5戦 | Zhao Chenyu | Liao Xingwen | B+1.5 | 2016-09-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hsSA6ohVtT6zQLqDTa4Bcg%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦C3 | Lee Sedol | Liao Xingwen | B+R | 2016-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7m048hBkJu7EnA0m2Q49Hg%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦C2 | Ali Jabarin | Liao Xingwen | W+R | 2016-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rjCoEnJEXFE%2Fm7XPPtyurw%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦C1 | Fan Yunruo | Liao Xingwen | B+R | 2016-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QtrXglZpPAwhvMS8PoQH5g%3D%3D) | 
-| 第12期威孚房開杯棋王戦2回戦 | Mi Yuting | Liao Xingwen | B+R | 2016-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OGgRo9clvmV0iXFEamAUDQ%3D%3D) | 
-| 第12期威孚房開杯棋王戦1回戦 | Liao Xingwen | Nie Weiping | B+13.5 | 2016-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EGAZF4GfcRqsEYedYGAfpQ%3D%3D) | 
-| 第21回三星火災杯統合予選決勝 | Liao Xingwen | Park Minkyu | B+R | 2016-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q8a%2BtBZoCYpFEDurApk1LA%3D%3D) | 
-| 第3回百霊杯世界オープン戦2回戦 | Liao Xingwen | Weon Seongjin | W+R | 2016-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wRes298C3Pu71owfiUr0Nw%3D%3D) | 
-| 第3回百霊杯世界オープン戦1回戦 | Liao Xingwen | Gu Zihao | B+R | 2016-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V4gHLDK3I9qPCn6cVmHvvQ%3D%3D) | 
-| 2016年中国囲碁乙級リーグ | Liao Xingwen | Wang Lei (s) | B+R | 2016-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hJH2YGTCZdnXiEwk2ke9dw%3D%3D) | 
-| 2016年中国囲碁乙級リーグ | Liao Xingwen | An Dongxu | B+R | 2016-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L4ulhGvP4ydK6%2BDLIDCBoQ%3D%3D) | 
-| 2016年中国囲碁乙級リーグ | Lee Jihyun | Liao Xingwen | W+R | 2016-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h25wUR11goBR3DWmbHc8YQ%3D%3D) | 
-| 2016年中国囲碁乙級リーグ | Liao Xingwen | missing | W+R | 2016-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BC1vcWm3uEVBfV7UjJyNHw%3D%3D) | 
-| 2016CCTV杯中国囲棋電視快棋戦1回戦 | Qiu Jun | Liao Xingwen | B+R | 2016-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pxD2W5sEP9VeBCcORhCC%2FQ%3D%3D) | 
-| 第18期阿含・桐山杯中国早碁オープン戦予選 | Tuo Jiaxi | Liao Xingwen | B+R | 2016-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w%2BLxufV6Mkd2EtVyiUAdjA%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Liao Xingwen | Huang Xin | W+4.5 | 2016-05-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MPuyagk4M4OE9dCpTDXR%2FA%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦予選 | Liao Xingwen | Li Xuanhao | W+R | 2016-02-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1ZR%2BG4Q66yt3CyyJxYZCMA%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦予選 | Ding Hao | Liao Xingwen | W+1 | 2016-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=91hhplQdahfRTY4lKL75jQ%3D%3D) | 
-| 第30期中国囲碁天元戦準決勝 | Tang Weixing | Liao Xingwen | B+R | 2016-01-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A76Ao6vpNgRQv5Jx0BfjDQ%3D%3D) | 
-| 第30期中国囲碁天元戦3回戦 | Liao Xingwen | Lian Xiao | B+R | 2016-01-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fJCDXFT3pqAQRBpKvWWcgQ%3D%3D) | 
-| 第30期中国囲碁天元戦2回戦 | Liao Xingwen | Gu Zihao | B+R | 2016-01-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ousK2%2Fi2lli6uc3YD0xqUg%3D%3D) | 
-| 第30期中国囲碁天元戦1回戦 | Jiang Weijie | Liao Xingwen | W+R | 2016-01-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nk3mjoAT8A0%2FLXqOM7BKyQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第22節 | Liao Xingwen | Li Qincheng | W+R | 2015-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v2HWbzG5WAR1D6nyEMQz2Q%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第21節 | Fan Tingyu | Liao Xingwen | B+R | 2015-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cDTHif2NwTMLLzoSPrg8Pg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第20節 | Liao Xingwen | missing | W+R | 2015-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q3iJ83mcDElhz50%2BljKZMA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第19節 | Gu Zihao | Liao Xingwen | W+R | 2015-11-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2q6DHRaY6ClyzFydCTLdFQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第18節 | Li Xuanhao | Liao Xingwen | W+R | 2015-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lwr6xNa7UmCSI%2BFyKvmo6Q%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第17節 | Liao Xingwen | Zhang Tao | W+R | 2015-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eJZVCIGMGu0m66LbEUFA0A%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第16節 | Liao Xingwen | Xu Jiayang | W+R | 2015-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NL36vIfZKJqctsOY0AMRtw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第15節 | Liao Xingwen | Kang Dongyun | W+R | 2015-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T6XF1umgK1YNctfrchBuVA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第14節 | Huang Yunsong | Liao Xingwen | B+R | 2015-09-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Upsj%2B2nzgvfGbdCa%2Famm5Q%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Liao Xingwen | Gu Li | B+1.5 | 2015-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8KuWxWstDkMaxztezsSFgw%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Tan Xiao | Liao Xingwen | B+R | 2015-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Cm99NSpt3owP0siN4Sk2g%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Liao Xingwen | Tuo Jiaxi | B+R | 2015-09-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vBD9NMxJAZ378AHUUKSC8w%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Shi Yue | Liao Xingwen | B+R | 2015-09-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=skA8LI7lvCoECcsSzQkhhA%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Mao Ruilong | Liao Xingwen | W+R | 2015-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jp9cj2Yk4t8LVWC0TLTZMA%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Zhou Ruiyang | Liao Xingwen | W+R | 2015-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WROPB3gvU0HlB%2BFt54OH4Q%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第13節 | Ke Jie | Liao Xingwen | B+R | 2015-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=evykpsUID6l1PtGz0as7Wg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第12節 | Liao Xingwen | Na Hyun | B+R | 2015-09-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Th22cQjl8idPCXEIA7G6ag%3D%3D) | 
-| 第27回テレビアジア選手権1回戦 | Park Junghwan | Liao Xingwen | B+R | 2015-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hoRjTfhJo%2F0FaFcZLVqG4Q%3D%3D) | 
-| 第20回三星火災杯統合予選2回戦 | Choi Cheolhan | Liao Xingwen | B+1.5 | 2015-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y7sOfklN3LcUbW8BllBArg%3D%3D) | 
-| 第7期中国竜星戦予選 | Liao Xingwen | Ding Hao | W+0.5 | 2015-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CVnKiHyvXsuhjn340ndiqw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第11節 | missing | Liao Xingwen | B+R | 2015-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZUvRJF2SUXkiAFAzRYP5Pw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第10節 | Liao Xingwen | Zhou Ruiyang | W+R | 2015-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dQcUQZl4FBnrMTdwbrEKbA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第9節 | Liao Xingwen | Chen Yaoye | W+2.5 | 2015-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FbaUKc1BoI8tll8DOs%2BVzg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第8節 | Yang Kaiwen | Liao Xingwen | W+R | 2015-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=he8K4%2BV1x9%2B%2BSxTNCoMZ0Q%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第7節 | Wang Xi | Liao Xingwen | B+3.5 | 2015-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OGrm7eF7HNV1x3psrRVDgQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第6節 | Liao Xingwen | Zhou Hexi | B+R | 2015-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8MOjauSh%2B9t2nrJ04JMZKw%3D%3D) | 
-| 第2回夢百合杯世界オープン戦予選 | Park Seunghwa | Liao Xingwen | B+R | 2015-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nPVhh09DmXp8RaCb4gisCQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第5節 | Xu Jiayang | Liao Xingwen | W+R | 2015-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cpxcSQnzHHyzMAwfMYpTow%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第4節 | Liao Xingwen | Mao Ruilong | B+R | 2015-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ia3Mo0Dauez56nfc54Cqkg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第3節 | Mi Yuting | Liao Xingwen | B+R | 2015-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ULloNJjXbnIWiXCBZOzeBw%3D%3D) | 
-| 第28期中国囲碁名人戦1回戦 | Liao Xingwen | Lian Xiao | W+R | 2015-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UShz0Iq7D3itT3G5sDQRXA%3D%3D) | 
-| 第28期中国囲碁名人戦予選 | Xie Erhao | Liao Xingwen | W+R | 2015-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b5VOa08LTnlh05xdxQ5ZGg%3D%3D) | 
-| 第28期中国囲碁名人戦予選 | Rui Naiwei | Liao Xingwen | W+R | 2015-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aI%2BMhaRH63poO6GDnxdONg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第2節 | Liao Xingwen | Ke Jie | W+R | 2015-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MVlIzTcxQ882gSIiJl3N8w%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第1節 | Liao Xingwen | Hu Yaoyu | B+R | 2015-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LtUPCyCA%2BLTSlYVgQCJwoQ%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦予選 | Liao Xingwen | Zhang Tao | W+R | 2015-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=07e7Kp4kcj7%2FfTxEOmIPAg%3D%3D) | 
-| 第29期中国囲碁天元戦1回戦 | Zhong Wenjing | Liao Xingwen | B+1.5 | 2015-01-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2RUf4Ue9bMYmudmVuObiag%3D%3D) | 
-| 第29期中国囲碁天元戦予選 | Liao Xingwen | missing | B+R | 2015-01-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YTA%2B5Lf8RcQMvZ1cfdoacw%3D%3D) | 
-| 第15期リコー杯囲碁戦2回戦 | Liao Xingwen | Wang Xi | W+R | 2015-01-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rphki%2BTyB8PWGydQhmoA3A%3D%3D) | 
-| 第15期リコー杯囲碁戦1回戦 | Liao Xingwen | Xie He | B+1.5 | 2014-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XNwUitYdzlHp%2FwduNecmYg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第22節 | Liao Xingwen | Chen Yaoye | W+R | 2014-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y5u0XGlKWkeqt0RpnnB2Sw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第21節 | Lee Donghoon | Liao Xingwen | B+3.5 | 2014-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BhHIpFyVElBAebZLDmH86g%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第20節 | Liao Xingwen | Tang Weixing | B+R | 2014-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4bQqhbJFX3AU7DsnrCaxAQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第18節 | Liao Xingwen | Kim Jiseok | W+R | 2014-10-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BUiu63b3zI19P%2Fk1A8X37A%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第17節 | Liao Xingwen | Zhou Ruiyang | B+R | 2014-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1U3x0ggTsDQC%2FGDJt8T7qA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第16節 | Liao Xingwen | Meng Tailing | W+0.5 | 2014-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EAp6CXQXtcaQQOHC3siKug%3D%3D) | 
-| 第19回三星火災杯世界囲碁マスターズ2回戦 | Liao Xingwen | Lee Sedol | W+R | 2014-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JOlolMfzMBNTQscKBpdcsA%3D%3D) | 
-| 第10期威孚房開杯棋王戦2回戦 | Liao Xingwen | Gu Li | W+R | 2014-10-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Izknl8xFtFSl838rc0qFAQ%3D%3D) | 
-| 第10期威孚房開杯棋王戦1回戦 | Chang Hao | Liao Xingwen | W+R | 2014-10-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hczX%2BkgrHADOgV%2BPuqk9LA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第15節 | Chang Hao | Liao Xingwen | W+R | 2014-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eBpwheCgcGIits7DAtXoFw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第14節 | Li Xuanhao | Liao Xingwen | W+R | 2014-09-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yb0OMgRZ%2F79yvSJkUfkVBg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第13節 | Tan Xiao | Liao Xingwen | B+R | 2014-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jsGfEHVU%2BUxwYrYl7RECVQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第12節 | Choi Cheolhan | Liao Xingwen | B+R | 2014-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e%2B08zXg4W9A9z%2Fc2h97VsQ%3D%3D) | 
-| 第19回三星火災杯世界囲碁マスターズ1回戦F2 | Liao Xingwen | Murakawa Daisuke | B+0.5 | 2014-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EERmflLIqNEIGkA3W73lXQ%3D%3D) | 
-| 第19回三星火災杯世界囲碁マスターズ1回戦F1 | Liao Xingwen | Kim Yoonyoung | B+R | 2014-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rSmEbSQWz4bnQfGV%2FPF28A%3D%3D) | 
-| 第19回三星火災杯統合予選決勝 | Liao Xingwen | Lee Hobum | B+R | 2014-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zeJDF%2FOlS6i3JdZiHTmOVg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第11節 | Liao Xingwen | Tuo Jiaxi | W+R | 2014-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Al8vLr%2BS2mR6Zq2PG87bw%3D%3D) | 
-| 第16期阿含・桐山杯中国早碁オープン戦1回戦 | Tang Weixing | Liao Xingwen | B+R | 2014-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MY2fgLJZgkdmid%2FF%2BfVLBw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第10節 | Liao Xingwen | Mao Ruilong | W+R | 2014-07-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2yGPmBftK9U05UdixmLI2g%3D%3D) | 
-| 第16期阿含・桐山杯中国早碁オープン戦予選 | Shi Yue | Liao Xingwen | W+R | 2014-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RHiu0Ud4l2M0Tb4R1oVlpA%3D%3D) | 
-| 第16期阿含・桐山杯中国早碁オープン戦予選 | Liao Xingwen | missing | B+R | 2014-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lKf1JzV5GyhY3BluG5wZEw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第9節 | Ke Jie | Liao Xingwen | B+R | 2014-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bjCiQTAPJHIK%2B79tMnIFXQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第8節 | Piao Wenyao | Liao Xingwen | W+R | 2014-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FP44CWRMnhNOW3GhwnUlTg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第7節 | Liao Xingwen | Zhou Hexi | W+0.5 | 2014-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lpFSgDDc3k2B53qqeFtDjg%3D%3D) | 
-| 第19回LG杯朝鮮日報棋王戦1回戦 | Byun Sangil | Liao Xingwen | B+R | 2014-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OkQSRmKx3t0Q%2BThsNm8bqw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第6節 | Chen Zijian | Liao Xingwen | W+R | 2014-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ARyjyQPxa1y%2FwbCVTkZ4yg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第5節 | Meng Tailing | Liao Xingwen | W+R | 2014-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tC19Eg50D0Jr%2BS1Wd7eWgQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第4節 | Qiu Jun | Liao Xingwen | W+R | 2014-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bdYQjCmlGdDFosD0G5B18w%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第3節 | Gu Li | Liao Xingwen | B+R | 2014-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=imYSLXeSb7z12AuQKPixsg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第2節 | Liao Xingwen | Tan Xiao | W+R | 2014-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ABJZTalbwH2N%2FXzIggj3g%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第1節 | Liao Xingwen | Tao Xinran | B+1.5 | 2014-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L3WNEcJ11z1XgHgMw%2FEqyg%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦2回戦 | Zhou Heyang | Liao Xingwen | B+1.5 | 2014-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=trpAGJhMsKjtFRM7LcI%2Fow%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Liao Xingwen | Ke Jie | W+0.5 | 2014-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AWuCuMmzEjK6TnCZkaZrEA%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Liao Xingwen | Choi Jeong | B+3.5 | 2014-05-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9C%2Bl0wXj64DASTmpoQkV0A%3D%3D) | 
-| 第19回LG杯予選 | Liao Xingwen | You Byungyong | B+R | 2014-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x04C910QtkrMy%2F9mwMYX6A%3D%3D) | 
-| 第27期中国囲碁名人戦予選 | missing | Liao Xingwen | B+1.5 | 2014-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f7sNIJPwI74ExuNlNyonKw%3D%3D) | 
-| 第11期倡棋杯中国プロ囲碁選手権戦予選 | Huang Yunsong | Liao Xingwen | B+R | 2014-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qmfi%2BjzSpoPIqfznAzjYNg%3D%3D) | 
-| 第28期中国囲碁天元戦1回戦 | Fan Tingyu | Liao Xingwen | B+R | 2014-01-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pe8c29hNEicfPbRfTQDowA%3D%3D) | 
-| 第28期中国囲碁天元戦予選 | Liu Xing | Liao Xingwen | W+R | 2014-01-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oh5xcQIlm7d%2BbVpZxazo0g%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第22節 | Jiang Weijie | Liao Xingwen | W+R | 2013-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DLfk24kTHTz5msLCbOgf6w%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第21節 | Li Zhe | Liao Xingwen | W+R | 2013-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gomz8a02mflgZ1o9hmAx0g%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第20節 | Liao Xingwen | Fan Yunruo | W+0.5 | 2013-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zcfwdObUj8NLdemKBW6KHg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第19節 | missing | Liao Xingwen | W+R | 2013-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lLG5WjuXHn6VMjHT%2F%2BeMJg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第18節 | Ke Jie | Liao Xingwen | B+R | 2013-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MAzgEQItF5gvHn4xmGp3lQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第17節 | Li Xuanhao | Liao Xingwen | W+R | 2013-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4yrUhRfR6L3MlJssoVhHWg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第16節 | Liao Xingwen | Tao Xinran | W+R | 2013-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CkcmU6jqbvt4vzDe%2Fiv6Xw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第15節 | Liao Xingwen | Park Yeonghun | W+R | 2013-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tIgqR%2BgQ63eZonFtf5t8YQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第14節 | Meng Tailing | Liao Xingwen | W+R | 2013-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cPghhnexgzql%2FxtkbmrSnw%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ1回戦H3 | Liao Xingwen | Gu Li | W+R | 2013-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P%2FYZb3nl%2BhfYkW1%2F6lnBAA%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ1回戦H2 | Yuki Satoshi | Liao Xingwen | W+R | 2013-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Os27B5kSNkjcp8s%2Buxjx5w%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ1回戦H1 | Park Junghwan | Liao Xingwen | B+R | 2013-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0LciGCjGzEDINQpeZ689jA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第13節 | missing | Liao Xingwen | B+R | 2013-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TG9TKsoIzFNO9C2VB2ygRA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第12節 | Liao Xingwen | Zhong Wenjing | W+R | 2013-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BFp%2FnC%2BfZQWMlUsr6XxSOw%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第3ステージ | missing | Liao Xingwen | W+R | 2013-08-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VFoKarAXXHOcdFJwr6legw%3D%3D) | 
-| 第18回三星火災杯統合予選決勝 | Lian Xiao | Liao Xingwen | W+R | 2013-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=93qAZI1md%2FsZM2CAp2e5xQ%3D%3D) | 
-| 2013年中国段位戦 | missing | Liao Xingwen | B+R | 2013-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lrgtacb22E8GwZWl3YI6Pg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第11節 | Liao Xingwen | Ding Shixiong | B+R | 2013-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gD9nbu6tW72EjNAAA4LbCA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第10節 | Liao Xingwen | Wu Guangya | W+R | 2013-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dll7qsmBg1dNeXb1biX9hg%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | missing | Liao Xingwen | W+R | 2013-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qfYyMZ64f1ayhNDSL7Myxg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第9節 | Chang Hao | Liao Xingwen | B+R | 2013-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SNtYV7m6%2FlTqGSpCXblg4A%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第8節 | Liao Xingwen | Xie Erhao | B+R | 2013-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OTfEzdcvqJQ1DuXmzAffNQ%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Liao Xingwen | Xie Erhao | W+R | 2013-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cu414L5jU%2BxtbXo1yhV3ow%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第7節 | Liao Xingwen | Zhou Hexi | B+R | 2013-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F%2FRVMPl%2BWpWB2ybCKnBiXA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第6節 | Liao Xingwen | Xie He | B+R | 2013-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OMRO37X%2F%2FAgsifOEY%2FuYrw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第5節 | Liao Xingwen | Guo Yuzheng | W+R | 2013-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dKqJ%2BNbyepfuqjPiV%2FzcaA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第4節 | Liao Xingwen | Rong Yi | B+R | 2013-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hwluNcLB%2FcQ9ByinjUGyWA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第3節 | Peng Quan | Liao Xingwen | B+R | 2013-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4aTO0gtgm9KRieI0tgA1Rg%3D%3D) | 
-| 第18回LG杯予選 | Liao Xingwen | Kim Juho | W+1.5 | 2013-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=skzqebP6xapwbt8y4mNReg%3D%3D) | 
-| 第26期中国囲碁名人戦1回戦 | Lian Xiao | Liao Xingwen | B+R | 2013-04-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=csIXk5IaYvELo0IUpe3c7w%3D%3D) | 
-| 第26期中国囲碁名人戦予選 | Liao Xingwen | Huang Chen | B+R | 2013-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d2gLclDmf18g2%2FMRRNVZBg%3D%3D) | 
-| 第26期中国囲碁名人戦予選 | Chang Hao | Liao Xingwen | W+R | 2013-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mA4QZa2NhV7Ybrhgx1U8RQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第1節 | Kong Jie | Liao Xingwen | B+R | 2013-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AP5isJx9vRy4HcyHeCjitA%3D%3D) | 
-| 第20期建橋杯中国囲碁新人王戦準決勝 | Liao Xingwen | Tao Xinran | W+R | 2013-03-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Q7V35Na1DP%2BMuNkvAjsYg%3D%3D) | 
-| 第20期建橋杯中国囲碁新人王戦3回戦 | Ke Jie | Liao Xingwen | W+R | 2013-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nSN7zaxkqR3OZSFM4VQfSA%3D%3D) | 
-| 第20期建橋杯中国囲碁新人王戦2回戦 | Liao Xingwen | Wang Chenxing | B+R | 2013-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=99qcmstHHhwMIFG%2BE4Vdgw%3D%3D) | 
-| 2013CCTV杯中国囲棋電視快棋戦1回戦 | Yang Dingxin | Liao Xingwen | B+R | 2013-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FRSam%2BCKKjDYb6tCQTv4dg%3D%3D) | 
-| 第4期中国竜星戦2回戦 | Tan Xiao | Liao Xingwen | B+R | 2012-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zSYBc34m2zLySjRMZhMogQ%3D%3D) | 
-| 第4期中国竜星戦1回戦 | Liu Xing | Liao Xingwen | W+R | 2012-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jEByN4s8oCOPozpuQn0k0A%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦予選 | Tuo Jiaxi | Liao Xingwen | B+R | 2012-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lAYkZyu1nTifXXobEKxYZg%3D%3D) | 
-| 第9期倡棋杯中国プロ囲碁選手権戦予選 | Mi Yuting | Liao Xingwen | B+R | 2012-05-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FGBqnaCLFM6ZEBRw3g66bw%3D%3D) | 
-| 第25期中国囲碁名人戦予選 | Liao Xingwen | missing | B+3.5 | 2012-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bc5Smk78wpWeOgFRspmUMQ%3D%3D) | 
-| 第19期建橋杯中国囲碁新人王戦1回戦 | Huang Yunsong | Liao Xingwen | B+R | 2012-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZqiDN96TWymriCl0TC8rsQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第22節 | Tuo Jiaxi | Liao Xingwen | W+R | 2011-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S%2BmTrBT6OEWi4AtCHGDEZA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第21節 | Liao Xingwen | Wang Lei (s) | B+R | 2011-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hfUdIXVC3fAXi7aeh9ZGZQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第17節 | Mao Ruilong | Liao Xingwen | B+1.5 | 2011-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wN%2BUKgZ%2BoSNP9PNnYvTuOw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第16節 | Liao Xingwen | Ding Lie | W+R | 2011-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FnI7HP2CE4vaSRQVVSgxfA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第14節 | Mi Yuting | Liao Xingwen | B+R | 2011-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FVU6QTrYEg%2FVjzCpzyz9MA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第13節 | Yang Dingxin | Liao Xingwen | B+R | 2011-09-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CElQ5MAdTWzC1nJKLi3GWQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第12節 | Liao Xingwen | Meng Tailing | B+R | 2011-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I%2B4WeSEqI5vYLPBrpzI3AA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第11節 | Liao Xingwen | missing | W+R | 2011-07-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eesR7LdadsiyjwRm0Us%2F5w%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第10節 | Liao Xingwen | Tan Xiao | W+R | 2011-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Oqof3r71v5p9xevBIqGU9w%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第9節 | Liao Xingwen | Wang Haoyang | B+R | 2011-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mriP5tiW0nLKLFnBOcp6Jg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第8節 | Tao Xin | Liao Xingwen | W+R | 2011-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MASLPhYCi%2BxkWUfL1Krkng%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第7節 | Liao Xingwen | Piao Wenyao | W+R | 2011-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=097uDgRBljPZ5VA2fD0mmQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第6節 | Tong Mengcheng | Liao Xingwen | W+R | 2011-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uhQ9MwTVZnjsannYq%2B4A9Q%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第4節 | Chang Hao | Liao Xingwen | B+R | 2011-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PqEvFV1tlMhn4ISuiFvAdQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第3節 | Liao Xingwen | Mi Yuting | W+R | 2011-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DJYvTSTrePX4AJBT7aG3Rg%3D%3D) | 
-| 2011CCTV杯中国囲棋電視快棋戦2回戦 | Liao Xingwen | Tao Xin | W+R | 2011-03-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B8eEAAEISdbE9I0z67jqlQ%3D%3D) | 
-| 2011CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yunsong | Liao Xingwen | W+R | 2011-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DUFZlinyqeyN9MW%2FqDuL2Q%3D%3D) | 
-| 第18期建橋杯中国囲碁新人王戦3回戦 | Mi Yuting | Liao Xingwen | B+R | 2011-02-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ELO4wXopF2lytLrXSkL6cg%3D%3D) | 
-| 第3期中国竜星戦1回戦 | Gu Lingyi | Liao Xingwen | W+2.5 | 2011-01-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r69owMGfqlP6ZVs4JWwL8Q%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第22節 | Liao Xingwen | Lian Xiao | W+R | 2010-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oVBUlJZ9ckqdxkFFnczHSQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第21節 | Tuo Jiaxi | Liao Xingwen | W+R | 2010-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sAKXTY%2Fpp8LZxajfBNFb7Q%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第20節 | Liao Xingwen | Sun Tengyu | B+R | 2010-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZJ9DyuorAKYVk0r1UZ2UYw%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第19節 | Dang Yifei | Liao Xingwen | W+R | 2010-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ORGBhT5Etz4kPzJCIv50JQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第18節 | missing | Liao Xingwen | W+R | 2010-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sre9Z7hl8%2B7oK9MXSTMhbg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第14節 | Liao Xingwen | Qiu Jun | W+R | 2010-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i%2BGWZcPqh0jdML1qNZTWpg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第13節 | Liao Xingwen | Piao Wenyao | B+R | 2010-09-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=15bxMJLLUMhhV1TwTAZddQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第11節 | Lian Xiao | Liao Xingwen | B+1.5 | 2010-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d6Iv0o2HroysrTltd7s%2Fzg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第10節 | Liao Xingwen | Kong Jie | W+R | 2010-07-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RTXkfPav3uXHSr1RPNy2Cg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第9節 | Liao Xingwen | Sun Tengyu | B+R | 2010-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IWfTxWbGRdhyo%2B0E1ugBOg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第6節 | missing | Liao Xingwen | B+R | 2010-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hm3PhafjVyxPs3uuy0QRLg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第2節 | Peng Liyao | Liao Xingwen | B+R | 2010-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lr7HHk07HsUFnPgEZTGoiw%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第1節 | Liao Xingwen | Wang Haoyang | W+R | 2010-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lxpb0ifgxLHFTdhv48jp7A%3D%3D) | 
-| 第23期中国囲碁名人戦予選 | Liao Xingwen | missing | W+R | 2010-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uWY%2F3xhXzfVi2frnfwJqoQ%3D%3D) | 
-| 2010CCTV杯中国囲棋電視快棋戦1回戦 | Liao Xingwen | Liu Xing | W+R | 2010-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n7HfKDWPJBP%2FEoGFX%2F3rgQ%3D%3D) | 
-| 第17期建橋杯中国囲碁新人王戦2回戦 | Liao Xingwen | Zhang Tao | W+R | 2010-02-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NrvvhYyzuRl2wdDg06C3NQ%3D%3D) | 
-| 第17期建橋杯中国囲碁新人王戦1回戦 | Sun Li | Liao Xingwen | W+R | 2010-02-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6WZn%2BuZvqn9whxb%2F0DxTrQ%3D%3D) | 
-| 第10期リコー杯囲碁戦3回戦 | Liao Xingwen | Gu Lingyi | W+0.5 | 2010-01-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f19C5Bi9eZxqJwzIvfJtaA%3D%3D) | 
-| 第4期リコー杯新秀戦2回戦 | Lian Xiao | Liao Xingwen | B+R | 2010-01-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k0WYZxGE0V2Jh6Lg%2BsKrAg%3D%3D) | 
-| 第24期中国囲碁天元戦予選 | Fan Yunruo | Liao Xingwen | B+R | 2010-01-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2QWm%2FIeU%2BY51It4W27QTVw%3D%3D) | 
-| 第24期中国囲碁天元戦予選 | Wang Tao | Liao Xingwen | W+R | 2010-01-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AQFwHvf%2FllCav11Nac720Q%3D%3D) | 
-| 第10期リコー杯囲碁戦2回戦 | Hu Yaoyu | Liao Xingwen | W+R | 2009-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6AEku8k5Ap5KajwFhoDodA%3D%3D) | 
-| 第4期リコー杯新秀戦1回戦 | Liao Xingwen | missing | B+R | 2009-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oaZPz3CSuHZ%2BJhFzS9wU0Q%3D%3D) | 
-| 第10期リコー杯囲碁戦1回戦 | Liao Xingwen | Sun Tengyu | B+R | 2009-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uGv5nBbqKN0GFvkt%2FHQZDw%3D%3D) | 
-| 第4期リコー杯新秀戦予選 | Liao Xingwen | missing | B+1.5 | 2009-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g4HhNYDkmPZWPb2mZg7jUw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第22節 | Huang Yizhong | Liao Xingwen | W+R | 2009-12-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lLbXscMMisvlOoiQ461bUQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第21節 | Huang Chen | Liao Xingwen | W+0.5 | 2009-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qyliDyBpHF0q4rohl5JDRg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第19節 | Liao Xingwen | Li Zhe | W+0.5 | 2009-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FC8VxPwBV7tIIsRi94wOhw%3D%3D) | 
-| 第1回全国智力運動会囲碁男子個人戦 | Liao Xingwen | missing | B+R | 2009-11-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qUWzzlzPBYJDARpV879GBw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第18節 | Liao Xingwen | Li Xuanhao | B+R | 2009-11-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uIRBJk7QXTeeG%2FDeDHdA8Q%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第14節 | Liao Xingwen | missing | W+R | 2009-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jlaY5h10n%2F4jZAagyBhVhQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第16節 | Liao Xingwen | Tuo Jiaxi | B+R | 2009-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CnKPCXg3Je4hLakx8DDIsg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第15節 | Liao Xingwen | Qiu Jun | W+R | 2009-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=exYlRmhg8Gh3hJEvPaK6Mg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第12節 | missing | Liao Xingwen | W+0.5 | 2009-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cAqbNFMHF9JSfLp2Ukt3PA%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦1回戦 | Chen Yaoye | Liao Xingwen | B+5.5 | 2009-08-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6pqwYq8KI9VaqDAP5JpnRA%3D%3D) | 
-| 第14回三星火災杯統合予選1回戦 | Li Kang | Liao Xingwen | B+R | 2009-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S5uQHw9niTJX8tKqqoiFSw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第11節 | Luo Xihe | Liao Xingwen | B+5.5 | 2009-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LeDUmqTcNzbXNPUT7TjmCw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第9節 | Dang Yifei | Liao Xingwen | B+R | 2009-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F3zvjSDIpdYVQAVDSFweHw%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | Liao Xingwen | Dang Yifei | B+R | 2009-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gxZ%2FxdLlqqWqFviRF905Ww%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | Liu Xing | Liao Xingwen | W+R | 2009-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DkXjOVeNkrDwknPQfmMDeA%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | Liao Xingwen | missing | B+1.5 | 2009-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VuXsMrNIn49bEMlKBWVKFA%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | Liao Xingwen | Peng Liyao | B+R | 2009-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ev%2Bl3%2BlUmtInwjckE62Zow%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第8節 | Liao Xingwen | missing | B+3.5 | 2009-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p%2BJ4T0%2FkBxpNOIwQEmm%2BrQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第7節 | Gu Li | Liao Xingwen | B+R | 2009-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h6af6zRsFB%2Bz86pXFtkaNg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第6節 | Wang Lei (s) | Liao Xingwen | W+4.5 | 2009-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UlN7fAwwoIw68tQ10G%2FPWQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第2節 | Liao Xingwen | Peng Liyao | W+R | 2009-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TF6GW3%2BKB2ilp0CccVOyIA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第1節 | Liao Xingwen | missing | B+1.5 | 2009-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BdFvYTyKRL2pV2qAhUUlMg%3D%3D) | 
-| 第22期中国囲碁名人戦予選 | Tang Weixing | Liao Xingwen | B+R | 2009-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6ZozOclzfNVX8AqmSguCGg%3D%3D) | 
-| 第22期中国囲碁名人戦予選 | missing | Liao Xingwen | W+11.5 | 2009-03-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aGs%2FdgWphn6hLxpkwhvysg%3D%3D) | 
-| 第1回BCカード杯世界選手権1回戦 | Lee Sedol | Liao Xingwen | B+R | 2009-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5ENp%2B83muy23JFdum6FQAA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第22節 | missing | Liao Xingwen | B+1.5 | 2008-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Yt4KefBE93pyJTb7ZX%2FpA%3D%3D) | 
-| 第3期リコー杯新秀戦1回戦 | Liao Xingwen | Cao Xiaoyang | W+R | 2008-12-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A6oNf1QRBoWnVpU7LNsQPw%3D%3D) | 
-| 第9期リコー杯囲碁戦1回戦 | Peng Quan | Liao Xingwen | B+R | 2008-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A1wWzZQpfq0TXn6RuuvxMg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第21節 | Liao Xingwen | Li Zhe | B+R | 2008-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oWq8ICCNYMdeA2w3PbAAKQ%3D%3D) | 
-| 第3期リコー杯新秀戦予選 | Li He | Liao Xingwen | W+T | 2008-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UIfoppA8mBbOWbWZUTblqw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第20節 | Tan Xiao | Liao Xingwen | W+R | 2008-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WNFpq%2FcN%2F0VslDq4gj8iVg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第19節 | Liao Xingwen | Gu Li | B+R | 2008-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AzJBkLY5ToAlb%2BOmD1zZ9g%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第18節 | Liao Xingwen | Luo Xihe | B+R | 2008-11-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u1%2FTKteX%2BxlTf8PHalrEOw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第17節 | Zhang Wendong | Liao Xingwen | B+3.5 | 2008-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LyFmpBwkEqlRnanX0a3aMw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第15節 | Liao Xingwen | missing | W+6.5 | 2008-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CptnDbNikZqjYXZ%2FUifAfw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第14節 | Zhu Yuanhao | Liao Xingwen | B+R | 2008-11-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1uPR2K4wHY1coGbSwInnpg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第13節 | Liao Xingwen | Jiang Weijie | W+2.5 | 2008-07-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hzavqCpRXJKrHxlCHG5TKg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第12節 | Liao Xingwen | Peng Liyao | W+R | 2008-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wPoEiM5G5mWK2f%2FdeUZXSw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第11節 | missing | Liao Xingwen | W+R | 2008-06-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=03%2BdXPsDCIdaIl22%2BT4QTA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第10節 | Zhong Wenjing | Liao Xingwen | W+R | 2008-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aO6Ofa72bfFeHmpNpD9mZQ%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第9節 | Liao Xingwen | Wang Lei (s) | W+R | 2008-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iDCPLN4d61S5dfyj%2FqQRhg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第7節 | Liao Xingwen | Peng Quan | W+R | 2008-05-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V2uVEPtYPzq2HuHLWHfq7w%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第6節 | Chen Yaoye | Liao Xingwen | B+R | 2008-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vlbzHv0%2FRbalBmRwb%2FRCNw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第5節 | Liao Xingwen | Sun Li | W+0.5 | 2008-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UdxP7ctOOhe59gVA8tvF4g%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第4節 | Liao Xingwen | missing | B+3.5 | 2008-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t63PWr2BftFF2KcSnRN7rw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第3節 | Liao Xingwen | Hu Yaoyu | W+4.5 | 2008-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4127RRCrLeBV3lEIyjJvuA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第1節 | Peng Liyao | Liao Xingwen | B+R | 2008-03-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P56koILpjIvKSL7bf%2FTM7A%3D%3D) | 
-| 2008CCTV杯中国囲棋電視快棋戦1回戦 | Zhou Heyang | Liao Xingwen | B+R | 2007-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=afKCwJJyCuaD1c74lOC6ig%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第22節 | Liao Xingwen | missing | B+1.5 | 2007-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kwZszGdJYUeguAlJc9E2iw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第21節 | Liao Xingwen | Wang Lei (s) | B+5.5 | 2007-12-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gst%2B10o7Qrrwr9eM1Al2CQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第20節 | Liao Xingwen | Zhou Ruiyang | W+R | 2007-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Na7XWAmEwDJPZ%2FJ9ygU2Vw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第18節 | Liao Xingwen | missing | W+R | 2007-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q1hgYWILqOfyO1AGQwICzQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第17節 | Liao Xingwen | missing | W+2.5 | 2007-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MlZj6xn8RShBOUg3PI875A%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第16節 | Liao Xingwen | Wang Yang | B+R | 2007-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MmO6%2FI8IY05pf225%2BayDXw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第15節 | Liao Xingwen | Hu Yaoyu | W+R | 2007-11-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dCV93Xk7BLjH5GqIBQtTgg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第14節 | Luo Xihe | Liao Xingwen | W+4.5 | 2007-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qCCGgaHtBRn%2BgzKh%2BUXAww%3D%3D) | 
-| 2007年中国段位戦 | Liao Xingwen | missing | B+R | 2007-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=He96PvLEm%2FQj6M5eyQ1KJg%3D%3D) | 
-| 2007年中国段位戦 | missing | Liao Xingwen | B+R | 2007-07-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mwZWwK8a7%2Fpc7UjSY1F1dg%3D%3D) | 
-| 2007年中国段位戦 | missing | Liao Xingwen | W+R | 2007-07-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YqXSMKuBtUaeHo1N5Wktyg%3D%3D) | 
-| 2007年中国段位戦 | Wang Chenxing | Liao Xingwen | W+R | 2007-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qmYZSoHFrZdM4DUVBEjlpA%3D%3D) | 
-| 2007年中国段位戦 | Liao Xingwen | missing | W+0.5 | 2007-07-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rPaadY2mfztLKULYAtBovg%3D%3D) | 
-| 2007年中国段位戦 | Wang Pan | Liao Xingwen | W+R | 2007-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q45e%2BEpNdO0SlJC2tUarOA%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第8節 | Liao Xingwen | Wang Haoyang | W+R | 2007-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gxGEm7F1SduFGrQQrh%2BLRQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第5節 | Zhang Wendong | Liao Xingwen | B+R | 2007-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YQDkuNgf%2F6dj8AKl8sFJYA%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第1節 | Liao Xingwen | missing | W+R | 2007-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cUrM5dwFScGQPZi8A2koCA%3D%3D) | 
-| 第3回富士通杯U15少年囲碁戦第1戦 | Liao Xingwen | Li He | B+R | 2007-01-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WpTzetj7%2Fpj1gOmEmWnRig%3D%3D) | 
-| 第7期リコー杯囲碁戦3回戦 | Liao Xingwen | Chang Hao | W+R | 2006-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2eQOXEF5YRmVldsQJiL3Qw%3D%3D) | 
-| 第7期リコー杯囲碁戦2回戦 | Liu Xing | Liao Xingwen | W+R | 2006-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RH8yMJ0z4nXyuIt8Ffmxfw%3D%3D) | 
-| 第7期リコー杯囲碁戦1回戦 | Liao Xingwen | Wang Yao | B+R | 2006-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sqd9S2ZZ5%2FloxM2Jq8cKSQ%3D%3D) | 
-| 第1期リコー杯新秀戦5回戦 | Liao Xingwen | Zhang Qiang | W+0.5 | 2006-08-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hdm%2FnofENANOtPz3c6Cspw%3D%3D) | 
-| 第1期リコー杯新秀戦1回戦 | Liao Xingwen | missing | W+R | 2006-08-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k9pCwDDwuka5%2BILIRmX%2FIw%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-26 | 第12期中国竜星戦予選 | Liao Xingwen | Zhao Chenyu | Win | B+R | 7.5 | 3221 | -222 | 
+| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Kim Jiseok | Liao Xingwen | Lose | B+¾ | 7.5 | 3443 | 3 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Liao Xingwen | Han Yizhou | Lose | W+R | 7.5 | 3440 | -10 | 
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Tu Xiaoyu | Liao Xingwen | Lose | B+R | 7.5 | 3450 | -10 | 
+| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Fan Yin | Liao Xingwen | Lose | B+R | 7.5 | 3460 | -67 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Liao Xingwen | Byun Sangil | Lose | W+R | 7.5 | 3527 | -23 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Liao Xingwen | Meng Tailing | Lose | W+R | 7.5 | 3550 | -40 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Liao Xingwen | Shi Yue | Win | B+¾ | 7.5 | 3590 | 55 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Liao Xingwen | Chen Yaoye | Lose | W+¼ | 7.5 | 3535 | -35 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Yi Lingtao | Liao Xingwen | Lose | B+2¾ | 7.5 | 3570 | -31 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Liao Xingwen | Li Weiqing | Lose | W+R | 7.5 | 3601 | 141 | 
+| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Li Qincheng | Liao Xingwen | Lose | B+R | 7.5 | 3460 | -21 | 
+| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Liao Xingwen | Wu Guangya | Win | B+R | 7.5 | 3481 | 21 | 
+| 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Jiang Qirun | Liao Xingwen | Lose | B+R | 7.5 | 3460 | -30 | 
+| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | He Yuhan | Liao Xingwen | Lose | B+R | 7.5 | 3490 | -129 | 
+| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Liao Xingwen | Park Junghwan | Lose | W+R | 7.5 | 3619 | -63 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Kim Jiseok | Liao Xingwen | Win | W+R | 7.5 | 3682 | 99 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Fan Yin | Liao Xingwen | Win | W+R | 7.5 | 3583 | 108 | 
+| 2019-12-29 | 第5期洛陽白雲山杯中国棋聖戦予選 | Liao Xingwen | Tan Xiao | Lose | W+R | 7.5 | 3475 | -16 | 
+| 2019-12-26 | 第5期洛陽白雲山杯中国棋聖戦予選 | Zhou Hongyu | Liao Xingwen | Win | W+R | 7.5 | 3491 | 307 | 
+| 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Park Hamin | Liao Xingwen | Lose | B+R | 7.5 | 3184 | 12 | 
+| 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Lee Donghoon | Liao Xingwen | Lose | B+1¾ | 7.5 | 3172 | -12 | 
+| 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Liao Xingwen | Xie Erhao | Lose | W+R | 7.5 | 3184 | 57 | 
+| 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Yang Kaiwen | Liao Xingwen | Lose | B+R | 7.5 | 3127 | -33 | 
+| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Huang Yunsong | Liao Xingwen | Win | W+R | 7.5 | 3160 | 17 | 
+| 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Liao Xingwen | Shen Peiran | Lose | W+R | 7.5 | 3143 | -30 | 
+| 2019-04-03 | 第24回LG杯統合予選2回戦 | Liao Xingwen | Park Sangjin | Win | B+R | 6.5 | 3173 | 19 | 
+| 2019-03-30 | 2019CCTV杯中国囲棋電視快棋戦4回戦 | Yi Lingtao | Liao Xingwen | Lose | B+R | 7.5 | 3154 | 2 | 
+| 2019-03-29 | 2019CCTV杯中国囲棋電視快棋戦3回戦 |  | Liao Xingwen | Win | W+R | 7.5 | 3152 | 22 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Liao Xingwen | Sun Tengyu | Win | B+R | 7.5 | 3130 | 0 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Liao Xingwen | Jiang Weijie | Win | B+R | 7.5 | 3130 | 96 | 
+| 2018-12-25 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Liao Xingwen | Ding Shixiong | Lose | W+R | 7.5 | 3034 | -25 | 
+| 2018-12-20 | 第4期洛陽白雲山杯中国棋聖戦予選甲組 |  | Liao Xingwen | Win | W+R | 7.5 | 3059 | -14 | 
+| 2018-11-16 | 第20回中国囲碁甲級リーグ第24節中信-上海 | Han Yizhou | Liao Xingwen | Lose | B+R | 7.5 | 3073 | 0 | 
+| 2018-11-09 | 第20回中国囲碁甲級リーグ第23節上海-天津 | Liao Xingwen | Meng Tailing | Win | B+R | 7.5 | 3073 | 27 | 
+| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節廈門-上海 | Peng Liyao | Liao Xingwen | Lose | B+2¾ | 7.5 | 3046 | -56 | 
+| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節上海-杭州 | Liao Xingwen | Xia Chenkun | Win | B+R | 7.5 | 3102 | 56 | 
+| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節上海-山東 | Liao Xingwen | Yi Lingtao | Lose | W+¼ | 7.5 | 3046 | -18 | 
+| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節衢州-上海 | Hu Yuhan | Liao Xingwen | Lose | B+R | 7.5 | 3064 | -16 | 
+| 2018-10-08 | 第20回中国囲碁甲級リーグ第18節上海-民生 | Liao Xingwen | Shen Peiran | Lose | W+R | 7.5 | 3080 | -38 | 
+| 2018-09-28 | 第20回中国囲碁甲級リーグ第17節蘇泊爾-上海 | Li Qincheng | Liao Xingwen | Lose | B+¾ | 7.5 | 3118 | -33 | 
+| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節上海-江蘇 | Liao Xingwen | Huang Yunsong | Win | B+R | 7.5 | 3151 | 23 | 
+| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節浙江-上海 | Zhang Tao | Liao Xingwen | Win | W+R | 7.5 | 3128 | 35 | 
+| 2018-09-08 | 第20回中国囲碁甲級リーグ第14節上海-江西 | Xu Jiayang | Liao Xingwen | Win | W+R | 7.5 | 3093 | 31 | 
+| 2018-07-16 | 第20回中国囲碁甲級リーグ第10節天津-上海 | Wang Zejin | Liao Xingwen | Win | W+R | 7.5 | 3062 | -1 | 
+| 2018-05-21 | 第20回中国囲碁甲級リーグ第7節山東-上海 | Yi Lingtao | Liao Xingwen | Lose | B+R | 7.5 | 3063 | -121 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦2回戦 | Liao Xingwen | Peng Liyao | Lose | W+R | 7.5 | 3184 | 5 | 
+| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節江蘇-上海 | Tong Mengcheng | Liao Xingwen | Lose | B+R | 7.5 | 3179 | -39 | 
+| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節上海-浙江 | Liao Xingwen | Li Zhe | Lose | W+R | 7.5 | 3218 | -32 | 
+| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節江西-上海 | Xu Jiayang | Liao Xingwen | Lose | B+R | 7.5 | 3250 | -22 | 
+| 2018-01-23 | 第32期中国囲碁天元戦1回戦 | Zhang Tao | Liao Xingwen | Lose | B+R | 7.5 | 3272 | 56 | 
+| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Liao Xingwen | Kim Jiseok | Lose | W+R | 7.5 | 3216 | 2 | 
+| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Han Yizhou | Liao Xingwen | Lose | B+R | 7.5 | 3214 | -3 | 
+| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Liao Xingwen |  | Win | B+R | 7.5 | 3217 | 5 | 
+| 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Liao Xingwen | Rong Yi | Lose | W+¼ | 7.5 | 3212 | -25 | 
+| 2017-10-30 | 第19回中国囲碁甲級リーグ第22節 | Liao Xingwen | Ichiriki Ryo | Win | B+R | 7.5 | 3237 | 20 | 
+| 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Xie Ke | Liao Xingwen | Lose | B+R | 7.5 | 3217 | -15 | 
+| 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Liao Xingwen | Dang Yifei | Lose | W+R | 7.5 | 3232 | 53 | 
+| 2017-10-10 | 第13期威孚房開杯棋王戦32強戦 | Li Xuanhao | Liao Xingwen | Lose | B+R | 7.5 | 3179 | -46 | 
+| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Yang Kaiwen | Liao Xingwen | Win | W+R | 7.5 | 3225 | 14 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Meng Tailing | Liao Xingwen | Lose | B+R | 7.5 | 3211 | 38 | 
+| 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Liao Xingwen | Mi Yuting | Lose | W+R | 7.5 | 3173 | 13 | 
+| 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Liao Xingwen | Fan Yunruo | Lose | W+R | 7.5 | 3160 | -10 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Zhou Ruiyang | Liao Xingwen | Win | W+R | 7.5 | 3170 | 39 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Liao Xingwen | Ke Jie | Lose | W+R | 7.5 | 3131 | 2 | 
+| 2017-08-15 | 中国浙江平湖当湖十局杯CCTV準決勝 | Liao Xingwen | Li Xuanhao | Lose | W+R | 7.5 | 3129 | 1 | 
+| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Liao Xingwen | Kim Jiseok | Lose | W+0.5 | 7.5 | 3128 | -6 | 
+| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Liao Xingwen | Shin Jinseo | Lose | W+R | 7.5 | 3134 | -5 | 
+| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Liao Xingwen | Rong Yi | Lose | W+T | 7.5 | 3139 | -16 | 
+| 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Li Xuanhao | Liao Xingwen | Lose | B+R | 7.5 | 3155 | -62 | 
+| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Liao Xingwen | Xie Ke | Lose | W+R | 7.5 | 3217 | -18 | 
+| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Liao Yuanhe | Liao Xingwen | Win | W+R | 7.5 | 3235 | 4 | 
+| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Liao Xingwen | Yang Kaiwen | Win | B+1.5 | 7.5 | 3231 | 4 | 
+| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Xie Erhao | Liao Xingwen | Lose | B+R | 7.5 | 3227 | 16 | 
+| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Liao Xingwen | Huang Yunsong | Win | B+R | 7.5 | 3211 | 24 | 
+| 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Liao Xingwen | Li Zhe | Win | B+R | 7.5 | 3187 | 35 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Fan Tingyu | Liao Xingwen | Lose | B+R | 7.5 | 3152 | -8 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Liao Xingwen | Kang Dongyun | Win | B+R | 7.5 | 3160 | 85 | 
+| 2017-04-18 | 第19期中国阿含桐山杯本選3回戦 | Liao Xingwen | Li Qincheng | Lose | W+0.5 | 7.5 | 3075 | -23 | 
+| 2017-04-03 | 第22期LG杯世界予選1回戦 | Kang Yootaek | Liao Xingwen | Win | W+R | 6.5 | 3098 | 39 | 
+| 2017-03-28 | 世界第三期Mlily夢百合杯予選2回戦 | Liao Xingwen | Lee Donghoon | Lose | W+R | 7.5 | 3059 | 107 | 
+| 2017-01-16 | 第31期中国囲碁天元戦2回戦 | Liao Xingwen | Shi Yue | Lose | W+R | 7.5 | 2952 | -36 | 
+| 2017-01-14 | 第31期中国囲碁天元戦1回戦 | Zhou Heyang | Liao Xingwen | Win | W+R | 7.5 | 2988 | 23 | 
+| 2016-12-17 | 嫘祖杯第29期中国名人戦網選3回戦 | Liao Xingwen | Yi Lingtao | Lose | W+R | 7.5 | 2965 | -28 | 
+| 2016-12-16 | 嫘祖杯第29期中国名人戦網選2回戦 | Wang Jiabao | Liao Xingwen | Win | W+0.5 | 7.5 | 2993 | -25 | 
+| 2016-10-25 | 第8期中国竜星戦予選 | Liao Xingwen | Zhang Tao | Lose | W+R | 7.5 | 3018 | -20 | 
+| 2016-10-24 | 第8期中国竜星戦予選 | Qin Yuexin | Liao Xingwen | Win | W+R | 7.5 | 3038 | -41 | 
+| 2016-09-20 | 2016年全国囲棋個人戦男子組第5戦 | Zhao Chenyu | Liao Xingwen | Lose | B+1.5 | 7.5 | 3079 | -88 | 
+| 2016-09-08 | 第21回三星火災杯世界囲碁マスターズ1回戦C3 | Lee Sedol | Liao Xingwen | Lose | B+R | 6.5 | 3167 | -8 | 
+| 2016-09-07 | 第21回三星火災杯世界囲碁マスターズ1回戦C2 | Ali Jabarin | Liao Xingwen | Win | W+R | 6.5 | 3175 | -6 | 
+| 2016-09-06 | 第21回三星火災杯世界囲碁マスターズ1回戦C1 | Fan Yunruo | Liao Xingwen | Lose | B+R | 6.5 | 3181 | -2 | 
+| 2016-08-23 | 第12期威孚房開杯棋王戦2回戦 | Mi Yuting | Liao Xingwen | Lose | B+R | 7.5 | 3183 | -10 | 
+| 2016-08-22 | 第12期威孚房開杯棋王戦1回戦 | Liao Xingwen | Nie Weiping | Win | B+13.5 | 7.5 | 3193 | -76 | 
+| 2016-07-20 | 第21回三星火災杯統合予選決勝 | Liao Xingwen | Park Minkyu | Win | B+R | 6.5 | 3269 | 151 | 
+| 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Liao Xingwen | Weon Seongjin | Lose | W+R | 7.5 | 3118 | -10 | 
+| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Liao Xingwen | Gu Zihao | Win | B+R | 7.5 | 3128 | 27 | 
+| 2016-06-25 | 2016年中国囲碁乙級リーグ | Liao Xingwen | Wang Lei (s) | Win | B+R | 7.5 | 3101 | 12 | 
+| 2016-06-24 | 2016年中国囲碁乙級リーグ | Liao Xingwen | An Dongxu | Win | B+R | 7.5 | 3089 | 12 | 
+| 2016-06-23 | 2016年中国囲碁乙級リーグ | Lee Jihyun | Liao Xingwen | Win | W+R | 7.5 | 3077 | -8 | 
+| 2016-06-20 | 2016年中国囲碁乙級リーグ | Liao Xingwen |  | Lose | W+R | 7.5 | 3085 | 25 | 
+| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Qiu Jun | Liao Xingwen | Lose | B+R | 7.5 | 3060 | 7 | 
+| 2016-05-07 | 第18期阿含・桐山杯中国早碁オープン戦予選 | Tuo Jiaxi | Liao Xingwen | Lose | B+R | 7.5 | 3053 | -16 | 
+| 2016-05-01 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Liao Xingwen | Huang Xin | Lose | W+4.5 | 7.5 | 3069 | 19 | 
+| 2016-02-29 | 第13期倡棋杯中国プロ囲碁選手権戦予選 | Liao Xingwen | Li Xuanhao | Lose | W+R | 7.5 | 3050 | -18 | 
+| 2016-02-27 | 第13期倡棋杯中国プロ囲碁選手権戦予選 | Ding Hao | Liao Xingwen | Win | W+1 | 7.5 | 3068 | -38 | 
+| 2016-01-21 | 第30期中国囲碁天元戦準決勝 | Tang Weixing | Liao Xingwen | Lose | B+R | 7.5 | 3106 | -7 | 
+| 2016-01-19 | 第30期中国囲碁天元戦3回戦 | Liao Xingwen | Lian Xiao | Win | B+R | 7.5 | 3113 | 8 | 
+| 2016-01-17 | 第30期中国囲碁天元戦2回戦 | Liao Xingwen | Gu Zihao | Win | B+R | 7.5 | 3105 | 9 | 
+| 2016-01-15 | 第30期中国囲碁天元戦1回戦 | Jiang Weijie | Liao Xingwen | Win | W+R | 7.5 | 3096 | -12 | 
+| 2015-12-06 | 第17回中国囲碁甲級リーグ第22節 | Liao Xingwen | Li Qincheng | Lose | W+R | 7.5 | 3108 | -8 | 
+| 2015-12-04 | 第17回中国囲碁甲級リーグ第21節 | Fan Tingyu | Liao Xingwen | Lose | B+R | 7.5 | 3116 | 20 | 
+| 2015-11-13 | 第17回中国囲碁甲級リーグ第20節 | Liao Xingwen |  | Lose | W+R | 7.5 | 3096 | -27 | 
+| 2015-11-08 | 第17回中国囲碁甲級リーグ第19節 | Gu Zihao | Liao Xingwen | Win | W+R | 7.5 | 3123 | 16 | 
+| 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 | Li Xuanhao | Liao Xingwen | Win | W+R | 7.5 | 3107 | 2 | 
+| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Liao Xingwen | Zhang Tao | Lose | W+R | 7.5 | 3105 | -1 | 
+| 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Liao Xingwen | Xu Jiayang | Lose | W+R | 7.5 | 3106 | 9 | 
+| 2015-09-29 | 第17回中国囲碁甲級リーグ第15節 | Liao Xingwen | Kang Dongyun | Lose | W+R | 7.5 | 3097 | -6 | 
+| 2015-09-24 | 第17回中国囲碁甲級リーグ第14節 | Huang Yunsong | Liao Xingwen | Lose | B+R | 7.5 | 3103 | 3 | 
+| 2015-09-21 | 第3回全国智力運動会囲碁男子団体戦 | Liao Xingwen | Gu Li | Win | B+1.5 | 7.5 | 3100 | 0 | 
+| 2015-09-21 | 第3回全国智力運動会囲碁男子団体戦 | Tan Xiao | Liao Xingwen | Lose | B+R | 7.5 | 3100 | 3 | 
+| 2015-09-20 | 第3回全国智力運動会囲碁男子団体戦 | Liao Xingwen | Tuo Jiaxi | Win | B+R | 7.5 | 3097 | 0 | 
+| 2015-09-20 | 第3回全国智力運動会囲碁男子団体戦 | Shi Yue | Liao Xingwen | Lose | B+R | 7.5 | 3097 | 10 | 
+| 2015-09-19 | 第3回全国智力運動会囲碁男子団体戦 | Mao Ruilong | Liao Xingwen | Win | W+R | 7.5 | 3087 | 0 | 
+| 2015-09-19 | 第3回全国智力運動会囲碁男子団体戦 | Zhou Ruiyang | Liao Xingwen | Win | W+R | 7.5 | 3087 | 2 | 
+| 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Ke Jie | Liao Xingwen | Lose | B+R | 7.5 | 3085 | 3 | 
+| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Liao Xingwen | Na Hyun | Win | B+R | 7.5 | 3082 | -17 | 
+| 2015-08-25 | 第27回テレビアジア選手権1回戦 | Park Junghwan | Liao Xingwen | Lose | B+R | 6.5 | 3099 | -22 | 
+| 2015-08-03 | 第20回三星火災杯統合予選2回戦 | Choi Cheolhan | Liao Xingwen | Lose | B+1.5 | 6.5 | 3121 | -20 | 
+| 2015-07-29 | 第7期中国竜星戦予選 | Liao Xingwen | Ding Hao | Lose | W+0.5 | 7.5 | 3141 | -22 | 
+| 2015-07-11 | 第17回中国囲碁甲級リーグ第11節 |  | Liao Xingwen | Lose | B+R | 7.5 | 3163 | 3 | 
+| 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 | Liao Xingwen | Zhou Ruiyang | Lose | W+R | 7.5 | 3160 | -28 | 
+| 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Liao Xingwen | Chen Yaoye | Lose | W+2.5 | 7.5 | 3188 | -23 | 
+| 2015-06-25 | 第17回中国囲碁甲級リーグ第8節 | Yang Kaiwen | Liao Xingwen | Win | W+R | 7.5 | 3211 | -83 | 
+| 2015-06-13 | 第17回中国囲碁甲級リーグ第7節 | Wang Xi | Liao Xingwen | Lose | B+3.5 | 7.5 | 3294 | -24 | 
+| 2015-05-28 | 第17回中国囲碁甲級リーグ第6節 | Liao Xingwen | Zhou Hexi | Win | B+R | 7.5 | 3318 | 7 | 
+| 2015-05-23 | 第2回夢百合杯世界オープン戦予選 | Park Seunghwa | Liao Xingwen | Lose | B+R | 7.5 | 3311 | -22 | 
+| 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Xu Jiayang | Liao Xingwen | Win | W+R | 7.5 | 3333 | 7 | 
+| 2015-05-16 | 第17回中国囲碁甲級リーグ第4節 | Liao Xingwen | Mao Ruilong | Win | B+R | 7.5 | 3326 | 20 | 
+| 2015-05-11 | 第17回中国囲碁甲級リーグ第3節 | Mi Yuting | Liao Xingwen | Lose | B+R | 7.5 | 3306 | -15 | 
+| 2015-05-06 | 第28期中国囲碁名人戦1回戦 | Liao Xingwen | Lian Xiao | Lose | W+R | 7.5 | 3321 | 5 | 
+| 2015-05-04 | 第28期中国囲碁名人戦予選 | Xie Erhao | Liao Xingwen | Win | W+R | 7.5 | 3316 | 11 | 
+| 2015-05-03 | 第28期中国囲碁名人戦予選 | Rui Naiwei | Liao Xingwen | Win | W+R | 7.5 | 3305 | 13 | 
+| 2015-04-29 | 第17回中国囲碁甲級リーグ第2節 | Liao Xingwen | Ke Jie | Lose | W+R | 7.5 | 3292 | 44 | 
+| 2015-04-22 | 第17回中国囲碁甲級リーグ第1節 | Liao Xingwen | Hu Yaoyu | Win | B+R | 7.5 | 3248 | 15 | 
+| 2015-03-23 | 第12期倡棋杯中国プロ囲碁選手権戦予選 | Liao Xingwen | Zhang Tao | Lose | W+R | 7.5 | 3233 | -156 | 
+| 2015-01-27 | 第29期中国囲碁天元戦1回戦 | Zhong Wenjing | Liao Xingwen | Lose | B+1.5 | 7.5 | 3389 | -20 | 
+| 2015-01-26 | 第29期中国囲碁天元戦予選 | Liao Xingwen |  | Win | B+R | 7.5 | 3409 | 17 | 
+| 2015-01-20 | 第15期リコー杯囲碁戦2回戦 | Liao Xingwen | Wang Xi | Lose | W+R | 7.5 | 3392 | 0 | 
+| 2014-12-31 | 第15期リコー杯囲碁戦1回戦 | Liao Xingwen | Xie He | Win | B+1.5 | 7.5 | 3392 | 25 | 
+| 2014-11-25 | 第16回中国囲碁甲級リーグ第22節 | Liao Xingwen | Chen Yaoye | Lose | W+R | 7.5 | 3367 | -21 | 
+| 2014-11-22 | 第16回中国囲碁甲級リーグ第21節 | Lee Donghoon | Liao Xingwen | Lose | B+3.5 | 7.5 | 3388 | 23 | 
+| 2014-11-11 | 第16回中国囲碁甲級リーグ第20節 | Liao Xingwen | Tang Weixing | Win | B+R | 7.5 | 3365 | 126 | 
+| 2014-10-31 | 第16回中国囲碁甲級リーグ第18節 | Liao Xingwen | Kim Jiseok | Lose | W+R | 7.5 | 3239 | -20 | 
+| 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 | Liao Xingwen | Zhou Ruiyang | Win | B+R | 7.5 | 3259 | 14 | 
+| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Liao Xingwen | Meng Tailing | Lose | W+0.5 | 7.5 | 3245 | -20 | 
+| 2014-10-14 | 第19回三星火災杯世界囲碁マスターズ2回戦 | Liao Xingwen | Lee Sedol | Lose | W+R | 6.5 | 3265 | 7 | 
+| 2014-10-12 | 第10期威孚房開杯棋王戦2回戦 | Liao Xingwen | Gu Li | Lose | W+R | 7.5 | 3258 | -8 | 
+| 2014-10-11 | 第10期威孚房開杯棋王戦1回戦 | Chang Hao | Liao Xingwen | Win | W+R | 7.5 | 3266 | -41 | 
+| 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Chang Hao | Liao Xingwen | Win | W+R | 7.5 | 3307 | -11 | 
+| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Li Xuanhao | Liao Xingwen | Win | W+R | 7.5 | 3318 | 68 | 
+| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Tan Xiao | Liao Xingwen | Lose | B+R | 7.5 | 3250 | -21 | 
+| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Choi Cheolhan | Liao Xingwen | Lose | B+R | 7.5 | 3271 | 22 | 
+| 2014-08-27 | 第19回三星火災杯世界囲碁マスターズ1回戦F2 | Liao Xingwen | Murakawa Daisuke | Win | B+0.5 | 6.5 | 3249 | 0 | 
+| 2014-08-26 | 第19回三星火災杯世界囲碁マスターズ1回戦F1 | Liao Xingwen | Kim Yoonyoung | Win | B+R | 6.5 | 3249 | -25 | 
+| 2014-08-06 | 第19回三星火災杯統合予選決勝 | Liao Xingwen | Lee Hobum | Win | B+R | 6.5 | 3274 | 3 | 
+| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Liao Xingwen | Tuo Jiaxi | Lose | W+R | 7.5 | 3271 | -18 | 
+| 2014-07-07 | 第16期阿含・桐山杯中国早碁オープン戦1回戦 | Tang Weixing | Liao Xingwen | Lose | B+R | 7.5 | 3289 | 2 | 
+| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Liao Xingwen | Mao Ruilong | Lose | W+R | 7.5 | 3287 | -3 | 
+| 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Shi Yue | Liao Xingwen | Win | W+R | 7.5 | 3290 | 0 | 
+| 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Liao Xingwen |  | Win | B+R | 7.5 | 3290 | 34 | 
+| 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Ke Jie | Liao Xingwen | Lose | B+R | 7.5 | 3256 | 15 | 
+| 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Piao Wenyao | Liao Xingwen | Win | W+R | 7.5 | 3241 | 8 | 
+| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Liao Xingwen | Zhou Hexi | Lose | W+0.5 | 7.5 | 3233 | 5 | 
+| 2014-06-09 | 第19回LG杯朝鮮日報棋王戦1回戦 | Byun Sangil | Liao Xingwen | Lose | B+R | 6.5 | 3228 | 10 | 
+| 2014-06-05 | 第16回中国囲碁甲級リーグ第6節 | Chen Zijian | Liao Xingwen | Win | W+R | 7.5 | 3218 | 1 | 
+| 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Meng Tailing | Liao Xingwen | Win | W+R | 7.5 | 3217 | 69 | 
+| 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Qiu Jun | Liao Xingwen | Win | W+R | 7.5 | 3148 | 15 | 
+| 2014-05-18 | 第16回中国囲碁甲級リーグ第3節 | Gu Li | Liao Xingwen | Lose | B+R | 7.5 | 3133 | -26 | 
+| 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Liao Xingwen | Tan Xiao | Lose | W+R | 7.5 | 3159 | 1 | 
+| 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Liao Xingwen | Tao Xinran | Win | B+1.5 | 7.5 | 3158 | 27 | 
+| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦2回戦 | Zhou Heyang | Liao Xingwen | Lose | B+1.5 | 7.5 | 3131 | 4 | 
+| 2014-05-03 | 2014年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Liao Xingwen | Ke Jie | Lose | W+0.5 | 7.5 | 3127 | 1 | 
+| 2014-05-01 | 2014年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Liao Xingwen | Choi Jeong | Win | B+3.5 | 7.5 | 3126 | -136 | 
+| 2014-04-19 | 第19回LG杯予選 | Liao Xingwen | You Byungyong | Win | B+R | 6.5 | 3262 | 24 | 
+| 2014-04-01 | 第27期中国囲碁名人戦予選 |  | Liao Xingwen | Lose | B+1.5 | 7.5 | 3238 | 10 | 
+| 2014-03-27 | 第11期倡棋杯中国プロ囲碁選手権戦予選 | Huang Yunsong | Liao Xingwen | Lose | B+R | 7.5 | 3228 | -80 | 
+| 2014-01-15 | 第28期中国囲碁天元戦1回戦 | Fan Tingyu | Liao Xingwen | Lose | B+R | 7.5 | 3308 | -38 | 
+| 2014-01-14 | 第28期中国囲碁天元戦予選 | Liu Xing | Liao Xingwen | Win | W+R | 7.5 | 3346 | 96 | 
+| 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 | Jiang Weijie | Liao Xingwen | Win | W+R | 7.5 | 3250 | 33 | 
+| 2013-11-23 | 第15回中国囲碁甲級リーグ第21節 | Li Zhe | Liao Xingwen | Win | W+R | 7.5 | 3217 | 3 | 
+| 2013-11-16 | 第15回中国囲碁甲級リーグ第20節 | Liao Xingwen | Fan Yunruo | Lose | W+0.5 | 7.5 | 3214 | 19 | 
+| 2013-11-02 | 第15回中国囲碁甲級リーグ第19節 |  | Liao Xingwen | Win | W+R | 7.5 | 3195 | 25 | 
+| 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 | Ke Jie | Liao Xingwen | Lose | B+R | 7.5 | 3170 | 6 | 
+| 2013-10-20 | 第15回中国囲碁甲級リーグ第17節 | Li Xuanhao | Liao Xingwen | Win | W+R | 7.5 | 3164 | -11 | 
+| 2013-10-13 | 第15回中国囲碁甲級リーグ第16節 | Liao Xingwen | Tao Xinran | Lose | W+R | 7.5 | 3175 | -219 | 
+| 2013-09-12 | 第15回中国囲碁甲級リーグ第15節 | Liao Xingwen | Park Yeonghun | Lose | W+R | 7.5 | 3394 | 23 | 
+| 2013-09-07 | 第15回中国囲碁甲級リーグ第14節 | Meng Tailing | Liao Xingwen | Win | W+R | 7.5 | 3371 | 14 | 
+| 2013-09-05 | 第18回三星火災杯世界囲碁マスターズ1回戦H3 | Liao Xingwen | Gu Li | Lose | W+R | 6.5 | 3357 | 1 | 
+| 2013-09-04 | 第18回三星火災杯世界囲碁マスターズ1回戦H2 | Yuki Satoshi | Liao Xingwen | Win | W+R | 6.5 | 3356 | 26 | 
+| 2013-09-03 | 第18回三星火災杯世界囲碁マスターズ1回戦H1 | Park Junghwan | Liao Xingwen | Lose | B+R | 6.5 | 3330 | 3 | 
+| 2013-09-01 | 第15回中国囲碁甲級リーグ第13節 |  | Liao Xingwen | Lose | B+R | 7.5 | 3327 | -13 | 
+| 2013-08-30 | 第15回中国囲碁甲級リーグ第12節 | Liao Xingwen | Zhong Wenjing | Lose | W+R | 7.5 | 3340 | -45 | 
+| 2013-08-13 | 2013年宏達杯全国囲碁星鋭最強戦第3ステージ |  | Liao Xingwen | Win | W+R | 7.5 | 3385 | 10 | 
+| 2013-08-07 | 第18回三星火災杯統合予選決勝 | Lian Xiao | Liao Xingwen | Win | W+R | 6.5 | 3375 | 71 | 
+| 2013-07-22 | 2013年中国段位戦 |  | Liao Xingwen | Lose | B+R | 7.5 | 3304 | 42 | 
+| 2013-07-15 | 第15回中国囲碁甲級リーグ第11節 | Liao Xingwen | Ding Shixiong | Win | B+R | 7.5 | 3262 | 97 | 
+| 2013-07-07 | 第15回中国囲碁甲級リーグ第10節 | Liao Xingwen | Wu Guangya | Lose | W+R | 7.5 | 3165 | -37 | 
+| 2013-07-01 | 2013年宏達杯全国囲碁星鋭最強戦第2ステージ |  | Liao Xingwen | Win | W+R | 7.5 | 3202 | 37 | 
+| 2013-06-22 | 第15回中国囲碁甲級リーグ第9節 | Chang Hao | Liao Xingwen | Lose | B+R | 7.5 | 3165 | -36 | 
+| 2013-06-15 | 第15回中国囲碁甲級リーグ第8節 | Liao Xingwen | Xie Erhao | Win | B+R | 7.5 | 3201 | 19 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Liao Xingwen | Xie Erhao | Lose | W+R | 7.5 | 3182 | -39 | 
+| 2013-06-02 | 第15回中国囲碁甲級リーグ第7節 | Liao Xingwen | Zhou Hexi | Win | B+R | 7.5 | 3221 | 101 | 
+| 2013-05-18 | 第15回中国囲碁甲級リーグ第6節 | Liao Xingwen | Xie He | Win | B+R | 7.5 | 3120 | 47 | 
+| 2013-05-11 | 第15回中国囲碁甲級リーグ第5節 | Liao Xingwen | Guo Yuzheng | Lose | W+R | 7.5 | 3073 | -45 | 
+| 2013-05-09 | 第15回中国囲碁甲級リーグ第4節 | Liao Xingwen | Rong Yi | Win | B+R | 7.5 | 3118 | 24 | 
+| 2013-05-04 | 第15回中国囲碁甲級リーグ第3節 | Peng Quan | Liao Xingwen | Lose | B+R | 7.5 | 3094 | -76 | 
+| 2013-04-19 | 第18回LG杯予選 | Liao Xingwen | Kim Juho | Lose | W+1.5 | 6.5 | 3170 | 2 | 
+| 2013-04-13 | 第26期中国囲碁名人戦1回戦 | Lian Xiao | Liao Xingwen | Lose | B+R | 7.5 | 3168 | -26 | 
+| 2013-04-11 | 第26期中国囲碁名人戦予選 | Liao Xingwen | Huang Chen | Win | B+R | 7.5 | 3194 | 27 | 
+| 2013-04-10 | 第26期中国囲碁名人戦予選 | Chang Hao | Liao Xingwen | Win | W+R | 7.5 | 3167 | 57 | 
+| 2013-04-05 | 第15回中国囲碁甲級リーグ第1節 | Kong Jie | Liao Xingwen | Lose | B+R | 7.5 | 3110 | -79 | 
+| 2013-03-31 | 第20期建橋杯中国囲碁新人王戦準決勝 | Liao Xingwen | Tao Xinran | Lose | W+R | 7.5 | 3189 | -41 | 
+| 2013-03-30 | 第20期建橋杯中国囲碁新人王戦3回戦 | Ke Jie | Liao Xingwen | Win | W+R | 7.5 | 3230 | 64 | 
+| 2013-03-29 | 第20期建橋杯中国囲碁新人王戦2回戦 | Liao Xingwen | Wang Chenxing | Win | B+R | 7.5 | 3166 | 23 | 
+| 2013-03-13 | 2013CCTV杯中国囲棋電視快棋戦1回戦 | Yang Dingxin | Liao Xingwen | Lose | B+R | 7.5 | 3143 | -246 | 
+| 2012-10-10 | 第4期中国竜星戦2回戦 | Tan Xiao | Liao Xingwen | Lose | B+R | 7.5 | 3389 | -35 | 
+| 2012-10-09 | 第4期中国竜星戦1回戦 | Liu Xing | Liao Xingwen | Win | W+R | 7.5 | 3424 | 159 | 
+| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Tuo Jiaxi | Liao Xingwen | Lose | B+R | 7.5 | 3265 | -138 | 
+| 2012-05-17 | 第9期倡棋杯中国プロ囲碁選手権戦予選 | Mi Yuting | Liao Xingwen | Lose | B+R | 7.5 | 3403 | -105 | 
+| 2012-04-02 | 第25期中国囲碁名人戦予選 | Liao Xingwen |  | Win | B+3.5 | 7.5 | 3508 | 46 | 
+| 2012-03-19 | 第19期建橋杯中国囲碁新人王戦1回戦 | Huang Yunsong | Liao Xingwen | Lose | B+R | 7.5 | 3462 | 1 | 
+| 2011-12-26 | 第13回中国囲碁甲級リーグ第22節 | Tuo Jiaxi | Liao Xingwen | Win | W+R | 7.5 | 3461 | 346 | 
+| 2011-12-03 | 第13回中国囲碁甲級リーグ第21節 | Liao Xingwen | Wang Lei (s) | Win | B+R | 7.5 | 3115 | -8 | 
+| 2011-10-13 | 第13回中国囲碁甲級リーグ第17節 | Mao Ruilong | Liao Xingwen | Lose | B+1.5 | 7.5 | 3123 | -14 | 
+| 2011-10-08 | 第13回中国囲碁甲級リーグ第16節 | Liao Xingwen | Ding Lie | Lose | W+R | 7.5 | 3137 | 21 | 
+| 2011-09-10 | 第13回中国囲碁甲級リーグ第14節 | Mi Yuting | Liao Xingwen | Lose | B+R | 7.5 | 3116 | 20 | 
+| 2011-09-06 | 第13回中国囲碁甲級リーグ第13節 | Yang Dingxin | Liao Xingwen | Lose | B+R | 7.5 | 3096 | -66 | 
+| 2011-09-04 | 第13回中国囲碁甲級リーグ第12節 | Liao Xingwen | Meng Tailing | Win | B+R | 7.5 | 3162 | 26 | 
+| 2011-07-14 | 第13回中国囲碁甲級リーグ第11節 | Liao Xingwen |  | Lose | W+R | 7.5 | 3136 | 12 | 
+| 2011-07-09 | 第13回中国囲碁甲級リーグ第10節 | Liao Xingwen | Tan Xiao | Lose | W+R | 7.5 | 3124 | -49 | 
+| 2011-07-02 | 第13回中国囲碁甲級リーグ第9節 | Liao Xingwen | Wang Haoyang | Win | B+R | 7.5 | 3173 | -102 | 
+| 2011-06-25 | 第13回中国囲碁甲級リーグ第8節 | Tao Xin | Liao Xingwen | Win | W+R | 7.5 | 3275 | -9 | 
+| 2011-06-18 | 第13回中国囲碁甲級リーグ第7節 | Liao Xingwen | Piao Wenyao | Lose | W+R | 7.5 | 3284 | -41 | 
+| 2011-06-09 | 第13回中国囲碁甲級リーグ第6節 | Tong Mengcheng | Liao Xingwen | Win | W+R | 7.5 | 3325 | 75 | 
+| 2011-05-21 | 第13回中国囲碁甲級リーグ第4節 | Chang Hao | Liao Xingwen | Lose | B+R | 7.5 | 3250 | -4 | 
+| 2011-05-14 | 第13回中国囲碁甲級リーグ第3節 | Liao Xingwen | Mi Yuting | Lose | W+R | 7.5 | 3254 | -36 | 
+| 2011-03-15 | 2011CCTV杯中国囲棋電視快棋戦2回戦 | Liao Xingwen | Tao Xin | Lose | W+R | 7.5 | 3290 | -28 | 
+| 2011-03-14 | 2011CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yunsong | Liao Xingwen | Win | W+R | 7.5 | 3318 | 76 | 
+| 2011-02-22 | 第18期建橋杯中国囲碁新人王戦3回戦 | Mi Yuting | Liao Xingwen | Lose | B+R | 7.5 | 3242 | 114 | 
+| 2011-01-16 | 第3期中国竜星戦1回戦 | Gu Lingyi | Liao Xingwen | Win | W+2.5 | 7.5 | 3128 | 56 | 
+| 2010-12-18 | 第12回中国囲碁甲級リーグ第22節 | Liao Xingwen | Lian Xiao | Lose | W+R | 7.5 | 3072 | -9 | 
+| 2010-12-11 | 第12回中国囲碁甲級リーグ第21節 | Tuo Jiaxi | Liao Xingwen | Win | W+R | 7.5 | 3081 | 73 | 
+| 2010-12-04 | 第12回中国囲碁甲級リーグ第20節 | Liao Xingwen | Sun Tengyu | Win | B+R | 7.5 | 3008 | -28 | 
+| 2010-11-16 | 第12回中国囲碁甲級リーグ第19節 | Dang Yifei | Liao Xingwen | Win | W+R | 7.5 | 3036 | -17 | 
+| 2010-11-04 | 第12回中国囲碁甲級リーグ第18節 |  | Liao Xingwen | Win | W+R | 7.5 | 3053 | 11 | 
+| 2010-10-09 | 第12回中国囲碁甲級リーグ第14節 | Liao Xingwen | Qiu Jun | Lose | W+R | 7.5 | 3042 | 109 | 
+| 2010-09-06 | 第12回中国囲碁甲級リーグ第13節 | Liao Xingwen | Piao Wenyao | Win | B+R | 7.5 | 2933 | -41 | 
+| 2010-07-15 | 第12回中国囲碁甲級リーグ第11節 | Lian Xiao | Liao Xingwen | Lose | B+1.5 | 7.5 | 2974 | 10 | 
+| 2010-07-10 | 第12回中国囲碁甲級リーグ第10節 | Liao Xingwen | Kong Jie | Lose | W+R | 7.5 | 2964 | -23 | 
+| 2010-07-03 | 第12回中国囲碁甲級リーグ第9節 | Liao Xingwen | Sun Tengyu | Win | B+R | 7.5 | 2987 | -2 | 
+| 2010-06-03 | 第12回中国囲碁甲級リーグ第6節 |  | Liao Xingwen | Lose | B+R | 7.5 | 2989 | 21 | 
+| 2010-04-29 | 第12回中国囲碁甲級リーグ第2節 | Peng Liyao | Liao Xingwen | Lose | B+R | 7.5 | 2968 | 6 | 
+| 2010-04-25 | 第12回中国囲碁甲級リーグ第1節 | Liao Xingwen | Wang Haoyang | Lose | W+R | 7.5 | 2962 | -20 | 
+| 2010-03-30 | 第23期中国囲碁名人戦予選 | Liao Xingwen |  | Lose | W+R | 7.5 | 2982 | -81 | 
+| 2010-03-04 | 2010CCTV杯中国囲棋電視快棋戦1回戦 | Liao Xingwen | Liu Xing | Lose | W+R | 7.5 | 3063 | 77 | 
+| 2010-02-23 | 第17期建橋杯中国囲碁新人王戦2回戦 | Liao Xingwen | Zhang Tao | Lose | W+R | 7.5 | 2986 | -19 | 
+| 2010-02-21 | 第17期建橋杯中国囲碁新人王戦1回戦 | Sun Li | Liao Xingwen | Win | W+R | 7.5 | 3005 | 40 | 
+| 2010-01-29 | 第10期リコー杯囲碁戦3回戦 | Liao Xingwen | Gu Lingyi | Lose | W+0.5 | 7.5 | 2965 | -20 | 
+| 2010-01-25 | 第4期リコー杯新秀戦2回戦 | Lian Xiao | Liao Xingwen | Lose | B+R | 7.5 | 2985 | -81 | 
+| 2010-01-20 | 第24期中国囲碁天元戦予選 | Fan Yunruo | Liao Xingwen | Lose | B+R | 7.5 | 3066 | -21 | 
+| 2010-01-19 | 第24期中国囲碁天元戦予選 | Wang Tao | Liao Xingwen | Win | W+R | 7.5 | 3087 | -14 | 
+| 2009-12-30 | 第10期リコー杯囲碁戦2回戦 | Hu Yaoyu | Liao Xingwen | Win | W+R | 7.5 | 3101 | 17 | 
+| 2009-12-29 | 第4期リコー杯新秀戦1回戦 | Liao Xingwen |  | Win | B+R | 7.5 | 3084 | 10 | 
+| 2009-12-28 | 第10期リコー杯囲碁戦1回戦 | Liao Xingwen | Sun Tengyu | Win | B+R | 7.5 | 3074 | 69 | 
+| 2009-12-20 | 第4期リコー杯新秀戦予選 | Liao Xingwen |  | Win | B+1.5 | 7.5 | 3005 | -21 | 
+| 2009-12-19 | 第11回中国囲碁甲級リーグ第22節 | Huang Yizhong | Liao Xingwen | Win | W+R | 7.5 | 3026 | -14 | 
+| 2009-12-12 | 第11回中国囲碁甲級リーグ第21節 | Huang Chen | Liao Xingwen | Win | W+0.5 | 7.5 | 3040 | -124 | 
+| 2009-11-28 | 第11回中国囲碁甲級リーグ第19節 | Liao Xingwen | Li Zhe | Lose | W+0.5 | 7.5 | 3164 | -16 | 
+| 2009-11-15 | 第1回全国智力運動会囲碁男子個人戦 | Liao Xingwen |  | Win | B+R | 7.5 | 3180 | 47 | 
+| 2009-11-07 | 第11回中国囲碁甲級リーグ第18節 | Liao Xingwen | Li Xuanhao | Win | B+R | 7.5 | 3133 | 49 | 
+| 2009-10-23 | 第11回中国囲碁甲級リーグ第14節 | Liao Xingwen |  | Lose | W+R | 7.5 | 3084 | -16 | 
+| 2009-10-17 | 第11回中国囲碁甲級リーグ第16節 | Liao Xingwen | Tuo Jiaxi | Win | B+R | 7.5 | 3100 | 12 | 
+| 2009-10-10 | 第11回中国囲碁甲級リーグ第15節 | Liao Xingwen | Qiu Jun | Lose | W+R | 7.5 | 3088 | 1 | 
+| 2009-09-05 | 第11回中国囲碁甲級リーグ第12節 |  | Liao Xingwen | Win | W+0.5 | 7.5 | 3087 | 28 | 
+| 2009-08-27 | 第11期阿含・桐山杯中国早碁オープン戦1回戦 | Chen Yaoye | Liao Xingwen | Lose | B+5.5 | 7.5 | 3059 | 17 | 
+| 2009-08-03 | 第14回三星火災杯統合予選1回戦 | Li Kang | Liao Xingwen | Lose | B+R | 6.5 | 3042 | -51 | 
+| 2009-07-11 | 第11回中国囲碁甲級リーグ第11節 | Luo Xihe | Liao Xingwen | Lose | B+5.5 | 7.5 | 3093 | 6 | 
+| 2009-07-04 | 第11回中国囲碁甲級リーグ第9節 | Dang Yifei | Liao Xingwen | Lose | B+R | 7.5 | 3087 | -21 | 
+| 2009-07-01 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Liao Xingwen | Dang Yifei | Win | B+R | 7.5 | 3108 | 0 | 
+| 2009-07-01 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Liu Xing | Liao Xingwen | Win | W+R | 7.5 | 3108 | 58 | 
+| 2009-06-30 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Liao Xingwen |  | Win | B+1.5 | 7.5 | 3050 | 0 | 
+| 2009-06-30 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Liao Xingwen | Peng Liyao | Win | B+R | 7.5 | 3050 | 36 | 
+| 2009-06-27 | 第11回中国囲碁甲級リーグ第8節 | Liao Xingwen |  | Win | B+3.5 | 7.5 | 3014 | 87 | 
+| 2009-06-18 | 第11回中国囲碁甲級リーグ第7節 | Gu Li | Liao Xingwen | Lose | B+R | 7.5 | 2927 | -47 | 
+| 2009-06-13 | 第11回中国囲碁甲級リーグ第6節 | Wang Lei (s) | Liao Xingwen | Win | W+4.5 | 7.5 | 2974 | 50 | 
+| 2009-05-14 | 第11回中国囲碁甲級リーグ第2節 | Liao Xingwen | Peng Liyao | Lose | W+R | 7.5 | 2924 | 9 | 
+| 2009-05-09 | 第11回中国囲碁甲級リーグ第1節 | Liao Xingwen |  | Win | B+1.5 | 7.5 | 2915 | 30 | 
+| 2009-03-04 | 第22期中国囲碁名人戦予選 | Tang Weixing | Liao Xingwen | Lose | B+R | 7.5 | 2885 | 10 | 
+| 2009-03-03 | 第22期中国囲碁名人戦予選 |  | Liao Xingwen | Win | W+11.5 | 7.5 | 2875 | -71 | 
+| 2009-03-01 | 第1回BCカード杯世界選手権1回戦 | Lee Sedol | Liao Xingwen | Lose | B+R | 6.5 | 2946 | -16 | 
+| 2008-12-27 | 第10回中国囲碁甲級リーグ第22節 |  | Liao Xingwen | Lose | B+1.5 | 7.5 | 2962 | -25 | 
+| 2008-12-23 | 第3期リコー杯新秀戦1回戦 | Liao Xingwen | Cao Xiaoyang | Lose | W+R | 7.5 | 2987 | -38 | 
+| 2008-12-22 | 第9期リコー杯囲碁戦1回戦 | Peng Quan | Liao Xingwen | Lose | B+R | 7.5 | 3025 | 23 | 
+| 2008-12-20 | 第10回中国囲碁甲級リーグ第21節 | Liao Xingwen | Li Zhe | Win | B+R | 7.5 | 3002 | 26 | 
+| 2008-12-18 | 第3期リコー杯新秀戦予選 | Li He | Liao Xingwen | Win | W+T | 7.5 | 2976 | 100 | 
+| 2008-12-13 | 第10回中国囲碁甲級リーグ第20節 | Tan Xiao | Liao Xingwen | Win | W+R | 7.5 | 2876 | 15 | 
+| 2008-12-04 | 第10回中国囲碁甲級リーグ第19節 | Liao Xingwen | Gu Li | Win | B+R | 7.5 | 2861 | 289 | 
+| 2008-11-29 | 第10回中国囲碁甲級リーグ第18節 | Liao Xingwen | Luo Xihe | Win | B+R | 7.5 | 2572 | 28 | 
+| 2008-11-23 | 第10回中国囲碁甲級リーグ第17節 | Zhang Wendong | Liao Xingwen | Lose | B+3.5 | 7.5 | 2544 | -65 | 
+| 2008-11-06 | 第10回中国囲碁甲級リーグ第15節 | Liao Xingwen |  | Lose | W+6.5 | 7.5 | 2609 | -14 | 
+| 2008-11-01 | 第10回中国囲碁甲級リーグ第14節 | Zhu Yuanhao | Liao Xingwen | Lose | B+R | 7.5 | 2623 | -191 | 
+| 2008-07-05 | 第10回中国囲碁甲級リーグ第13節 | Liao Xingwen | Jiang Weijie | Lose | W+2.5 | 7.5 | 2814 | -6 | 
+| 2008-07-01 | 第10回中国囲碁甲級リーグ第12節 | Liao Xingwen | Peng Liyao | Lose | W+R | 7.5 | 2820 | -10 | 
+| 2008-06-21 | 第10回中国囲碁甲級リーグ第11節 |  | Liao Xingwen | Win | W+R | 7.5 | 2830 | 9 | 
+| 2008-06-14 | 第10回中国囲碁甲級リーグ第10節 | Zhong Wenjing | Liao Xingwen | Win | W+R | 7.5 | 2821 | 48 | 
+| 2008-06-05 | 第10回中国囲碁甲級リーグ第9節 | Liao Xingwen | Wang Lei (s) | Lose | W+R | 7.5 | 2773 | -7 | 
+| 2008-05-24 | 第10回中国囲碁甲級リーグ第7節 | Liao Xingwen | Peng Quan | Lose | W+R | 7.5 | 2780 | 5 | 
+| 2008-05-15 | 第10回中国囲碁甲級リーグ第6節 | Chen Yaoye | Liao Xingwen | Lose | B+R | 7.5 | 2775 | 6 | 
+| 2008-05-10 | 第10回中国囲碁甲級リーグ第5節 | Liao Xingwen | Sun Li | Lose | W+0.5 | 7.5 | 2769 | 210 | 
+| 2008-04-17 | 第10回中国囲碁甲級リーグ第4節 | Liao Xingwen |  | Win | B+3.5 | 7.5 | 2559 | 41 | 
+| 2008-04-05 | 第10回中国囲碁甲級リーグ第3節 | Liao Xingwen | Hu Yaoyu | Lose | W+4.5 | 7.5 | 2518 | 16 | 
+| 2008-03-22 | 第10回中国囲碁甲級リーグ第1節 | Peng Liyao | Liao Xingwen | Lose | B+R | 7.5 | 2502 | 80 | 
+| 2007-12-24 | 2008CCTV杯中国囲棋電視快棋戦1回戦 | Zhou Heyang | Liao Xingwen | Lose | B+R | 7.5 | 2422 | 22 | 
+| 2007-12-22 | 第9回中国囲碁甲級リーグ第22節 | Liao Xingwen |  | Win | B+1.5 | 7.5 | 2400 | 43 | 
+| 2007-12-15 | 第9回中国囲碁甲級リーグ第21節 | Liao Xingwen | Wang Lei (s) | Win | B+5.5 | 7.5 | 2357 | 24 | 
+| 2007-12-08 | 第9回中国囲碁甲級リーグ第20節 | Liao Xingwen | Zhou Ruiyang | Lose | W+R | 7.5 | 2333 | -189 | 
+| 2007-11-24 | 第9回中国囲碁甲級リーグ第18節 | Liao Xingwen |  | Lose | W+R | 7.5 | 2522 | -67 | 
+| 2007-11-17 | 第9回中国囲碁甲級リーグ第17節 | Liao Xingwen |  | Lose | W+2.5 | 7.5 | 2589 | -6 | 
+| 2007-11-11 | 第9回中国囲碁甲級リーグ第16節 | Liao Xingwen | Wang Yang | Win | B+R | 7.5 | 2595 | 37 | 
+| 2007-11-01 | 第9回中国囲碁甲級リーグ第15節 | Liao Xingwen | Hu Yaoyu | Lose | W+R | 7.5 | 2558 | -18 | 
+| 2007-10-20 | 第9回中国囲碁甲級リーグ第14節 | Luo Xihe | Liao Xingwen | Win | W+4.5 | 7.5 | 2576 | -270 | 
+| 2007-07-24 | 2007年中国段位戦 | Liao Xingwen |  | Win | B+R | 7.5 | 2846 | -64 | 
+| 2007-07-23 | 2007年中国段位戦 |  | Liao Xingwen | Lose | B+R | 7.5 | 2910 | -73 | 
+| 2007-07-20 | 2007年中国段位戦 |  | Liao Xingwen | Win | W+R | 7.5 | 2983 | 27 | 
+| 2007-07-13 | 2007年中国段位戦 | Wang Chenxing | Liao Xingwen | Win | W+R | 7.5 | 2956 | 90 | 
+| 2007-07-12 | 2007年中国段位戦 | Liao Xingwen |  | Lose | W+0.5 | 7.5 | 2866 | -41 | 
+| 2007-07-11 | 2007年中国段位戦 | Wang Pan | Liao Xingwen | Win | W+R | 7.5 | 2907 | -76 | 
+| 2007-07-07 | 第9回中国囲碁甲級リーグ第8節 | Liao Xingwen | Wang Haoyang | Lose | W+R | 7.5 | 2983 | -103 | 
+| 2007-06-16 | 第9回中国囲碁甲級リーグ第5節 | Zhang Wendong | Liao Xingwen | Lose | B+R | 7.5 | 3086 | 4 | 
+| 2007-05-12 | 第9回中国囲碁甲級リーグ第1節 | Liao Xingwen |  | Lose | W+R | 7.5 | 3082 | 318 | 
+| 2007-01-09 | 第3回富士通杯U15少年囲碁戦第1戦 | Liao Xingwen | Li He | Win | B+R | 7.5 | 2764 | 4 | 
+| 2006-12-29 | 第7期リコー杯囲碁戦3回戦 | Liao Xingwen | Chang Hao | Lose | W+R | 7.5 | 2760 | -104 | 
+| 2006-12-03 | 第7期リコー杯囲碁戦2回戦 | Liu Xing | Liao Xingwen | Win | W+R | 7.5 | 2864 | 141 | 
+| 2006-12-02 | 第7期リコー杯囲碁戦1回戦 | Liao Xingwen | Wang Yao | Win | B+R | 7.5 | 2723 | 2723 | 
+| 2006-08-10 | 第1期リコー杯新秀戦5回戦 | Liao Xingwen | Zhang Qiang | Lose | W+0.5 | 7.5 | missing | 0 | 
+| 2006-08-08 | 第1期リコー杯新秀戦1回戦 | Liao Xingwen |  | Lose | W+R | 7.5 | missing | missing |
 
 
 

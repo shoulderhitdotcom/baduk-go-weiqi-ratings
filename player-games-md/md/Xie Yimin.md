@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-26 | 第46期棋聖戦Cリーグ | Mizokami Tomochika | Xie Yimin | Lose | B+R | 6.5 | 2823 | -37 | 
 | 2021-08-19 | 第70期王座戦予選 | Kataoka Satoshi | Xie Yimin | Win | W+3.5 | 6.5 | 2860 | 54 | 
 | 2021-08-05 | 第6回扇興杯女流最強戦2回戦 | Xie Yimin |  | Win | B+R | 6.5 | 2806 | 13 | 
 | 2021-08-02 | 第40期女流本因坊戦準決勝  | Xie Yimin | Koyama Mitsuru | Lose | W+R | 6.5 | 2793 | -8 | 

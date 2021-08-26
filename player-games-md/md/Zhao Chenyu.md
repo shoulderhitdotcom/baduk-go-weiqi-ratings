@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-26 | 第12期中国竜星戦予選 | Liao Xingwen | Zhao Chenyu | Lose | B+R | 7.5 | 3462 | 3462 | 
+| 2021-08-25 | 第26回三星火災杯中国予選 | Zhao Chenyu | Lian Xiao | Win | B+R | 6.5 | missing | 0 | 
+| 2021-08-20 | 第26回三星火災杯中国予選 | Huang Yunsong | Zhao Chenyu | Win | W+R | 6.5 | missing | -3425 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Tong Mengcheng | Zhao Chenyu | Win | W+R | 6.5 | 3425 | 15 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Li Qincheng | Zhao Chenyu | Lose | B+R | 7.5 | 3410 | 18 | 
 | 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Jiang Weijie | Zhao Chenyu | Win | W+R | 7.5 | 3392 | 1 | 

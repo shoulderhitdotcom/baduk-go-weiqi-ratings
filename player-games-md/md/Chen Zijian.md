@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-26 | 第12期中国竜星戦予選 | Fan Yin | Chen Zijian | Lose | B+R | 7.5 | 3368 | -34 | 
 | 2021-08-23 | 第26回三星火災杯中国予選 | Tao Xinran | Chen Zijian | Win | W+R | 6.5 | 3402 | 3402 | 
 | 2021-08-20 | 第26回三星火災杯中国予選 | Liao Yuanhe | Chen Zijian | Lose | B+R | 6.5 | missing | -3464 | 
 | 2021-08-18 | 第26回三星火災杯中国予選 | Chen Zijian | Wu Guangya | Win | B+R | 6.5 | 3464 | 118 | 

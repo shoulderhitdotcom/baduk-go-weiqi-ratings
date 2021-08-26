@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-26 | 第70期王座戦予選 | Ueno Asami | Ohashi Hirofumi | Win | W+R | 6.5 | 2991 | 120 | 
 | 2021-06-17 | 第46期棋聖戦Cリーグ | Ohashi Hirofumi | Sada Atsushi | Lose | W+6.5 | 6.5 | 2871 | -24 | 
 | 2021-05-03 | 第46期棋聖戦予選 | Ohashi Hirofumi |  | Win | B+0.5 | 6.5 | 2895 | -221 | 
 | 2020-11-01 | 第3回SGW杯中庸戦4回戦 | Ogata Masaki | Ohashi Hirofumi | Win | W+R | 6.5 | 3116 | 51 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-26 | 第12期中国竜星戦予選 | Huang Xin | Han Yizhou | Lose | W+R | 7.5 | 3262 | -31 | 
 | 2021-08-24 | 第12期中国竜星戦予選 | Huang Xin | Wang Zejin | Win | B+R | 7.5 | 3293 | 118 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Fan Yin | Huang Xin | Lose | B+R | 7.5 | 3175 | -33 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Huang Xin | Xie Erhao | Lose | W+R | 7.5 | 3208 | -32 | 

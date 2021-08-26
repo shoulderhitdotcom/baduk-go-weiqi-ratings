@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-26 | 第70期王座戦予選 | Ueno Asami | Ohashi Hirofumi | Lose | W+R | 6.5 | 3048 | -34 | 
 | 2021-08-19 | 第60期十段戦予選  | Tsuneishi Takashi | Ueno Asami | Win | W+9.5 | 6.5 | 3082 | 45 | 
 | 2021-08-09 | 第46期新人王戦準決勝 | Nishi Takenobu | Ueno Asami | Win | W+4.5 | 6.5 | 3037 | 33 | 
 | 2021-07-29 | 第6回扇興杯女流最強戦2回戦 | Ueno Asami | Yashiro Kumiko | Win | B+R | 6.5 | 3004 | 0 | 

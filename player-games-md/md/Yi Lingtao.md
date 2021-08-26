@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-26 | 第12期中国竜星戦予選 | Yi Lingtao |  | Win | B+R | 7.5 | 3511 | 3511 | 
+| 2021-08-20 | 第26回三星火災杯中国予選 | Tan Xiao | Yi Lingtao | Win | W+R | 6.5 | missing | -3464 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Yi Lingtao | Chen Zijian | Win | B+1.5 | 6.5 | 3464 | 12 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Yi Lingtao | Yang Dingxin | Win | B+R | 7.5 | 3452 | 35 | 
 | 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Yi Lingtao | Li Xuanhao | Win | B+R | 7.5 | 3417 | 0 | 

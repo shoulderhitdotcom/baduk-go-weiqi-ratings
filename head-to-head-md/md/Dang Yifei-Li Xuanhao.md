@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Dang Yifei vs Li Xuanhao** | **Dang Yifei streak** | **Li Xuanhao streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-20 | 第26回三星火災杯中国予選 | Li Xuanhao | Dang Yifei | W+R | 6.5 | 6:5 | 1 | 0 | 
 | 2021-04-25 | 第20回西南棋王戦1回戦 | Dang Yifei | Li Xuanhao | W+R | 7.5 | 5:5 | 0 | 1 | 
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Dang Yifei | Li Xuanhao | B+R | 7.5 | 5:4 | 1 | 0 | 
 | 2020-06-14 | 第19回西南棋王戦2回戦 | Dang Yifei | Li Xuanhao | W+R | 7.5 | 4:4 | 0 | 2 | 

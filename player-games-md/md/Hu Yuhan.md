@@ -7,10 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Li Weiqing | Lose | W+R | 7.5 | 3246 | 1 | 
+| 2021-08-27 | 第12期中国竜星戦予選 | Xie Ke | Hu Yuhan | Lose | B+R | 7.5 | 3261 | 16 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Li Weiqing | Lose | W+R | 7.5 | 3245 | -25 | 
-| 2021-06-11 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Wang Shiyi | Lose | W+R | 7.5 | 3270 | -36 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Shin Minjun | Lose | W+R | 7.5 | 3306 | -1 | 
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Wang Shiyi | Lose | W+R | 7.5 | 3270 | -37 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Shin Minjun | Lose | W+R | 7.5 | 3307 | -27 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Gu Zihao | Hu Yuhan | Lose | B+R | 7.5 | 3334 | -7 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Ding Hao | Win | B+¾ | 7.5 | 3341 | 111 | 

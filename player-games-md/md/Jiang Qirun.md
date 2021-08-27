@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-27 | 第26回三星火災杯中国予選 | Jiang Qirun | Tan Xiao | Lose | W+R | 6.5 | 3426 | -25 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Jiang Qirun | He Yuhan | Win | B+R | 7.5 | 3451 | 67 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Li Qincheng | Jiang Qirun | Lose | B+¾ | 7.5 | 3384 | -13 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Dang Yifei | Win | B+¾ | 7.5 | 3397 | 36 | 

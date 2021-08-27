@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-27 | 第26回三星火災杯中国予選 | Lian Xiao | Xu Jiayang | Lose | B+R | 6.5 | 3563 | 20 | 
 | 2021-08-13 | 第26回三星火災杯中国予選 | Chen Zijian | Xu Jiayang | Win | W+R | 6.5 | 3543 | -1 | 
 | 2021-08-13 | 第26回三星火災杯中国予選 | Chen Zijian | Xu Jiayang | Win | W+R | 6.5 | 3544 | 30 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Xu Jiayang | Yang Kaiwen | Lose | W+R | 7.5 | 3514 | -13 | 

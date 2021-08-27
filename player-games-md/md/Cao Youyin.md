@@ -5,242 +5,243 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第8回中国女子囲碁甲級リーグ | missing | Cao Youyin | B+¾ | 2021-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=womcMzNdFJrJ1IwYyFoOfg%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Cao Youyin | missing | W+R | 2021-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1t%2BQXutATeud0x82HsfNJQ%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | missing | Cao Youyin | B+R | 2021-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hhR0K7a2N933Y6Tn6vgM0A%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Rui Naiwei | Cao Youyin | B+R | 2020-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U145HJ4n6ACvLTveRryjqA%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Cao Youyin | Gao Xing | W+R | 2020-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HgzADiPbrNoRpJ669tY8Eg%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Lu Minquan | Cao Youyin | B+R | 2020-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tWj5RwgN9%2BVfdx7yJeDzkQ%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Cao Youyin | missing | W+R | 2020-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ccMc%2FAwwP44ldh64oHwUAw%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ第4節 | Cao Youyin | Zhou Hongyu | B+R | 2020-07-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CZJqe58KN2dU0%2F%2Biq7gEEg%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ第3節 | Cao Youyin | Yin Qu | B+¾ | 2020-07-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0HFyMcvz6T3NPU0NslwMfw%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ第2節 | Cao Youyin | Cai Bihan | B+R | 2020-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I%2FnhD0lV2XHeF6FLt1TGvw%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ第1節 | missing | Cao Youyin | W+R | 2020-07-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8dLT6C0VAS2d%2FlEK3JGWog%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第17節 | Cao Youyin | Gao Xing | W+R | 2019-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P3B3Serzi%2BDhc%2FgSqgj5aQ%3D%3D) | 
-| 閬中古城杯第2期中国女子囲棋名人戦16強戦 | Wang Yubo | Cao Youyin | B+¾ | 2019-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zjnjIOyVUi%2FrKazO6sK9Cw%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第16節 | Cao Youyin | Zhou Hongyu | W+R | 2019-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SLtlw6tCnp5DHbshxlQqAg%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第15節 | Yin Qu | Cao Youyin | W+R | 2019-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cSbLpRc5R%2FLLwrGdogkxeA%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第14節 | Cao Youyin | Cai Bihan | W+R | 2019-10-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OEpea1yZM%2Fca0GScvJRxBw%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第13節 | Tao Ran | Cao Youyin | W+R | 2019-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hCzn5ih0%2B8U%2B6l2oRtwylg%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第11節 | Cao Youyin | missing | W+1¼ | 2019-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t3j%2B3P78BYHX1YfcGKMFWA%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第10節 | Cao Youyin | missing | B+R | 2019-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XRjQuhzi%2FazC5tb4ziWNgw%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第9節 | missing | Cao Youyin | W+R | 2019-07-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DzVKtun2GjzWFar5oUdxNg%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第8節 | Cao Youyin | Fang Ruoxi | W+R | 2019-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2Nm3D3FWkt81Wp9S3jiqOg%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第7節 | Zhan Ying | Cao Youyin | W+R | 2019-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cMJBmbPxanS8%2BvehBriyBA%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第6節 | Cao Youyin | Wang Chenxing | W+R | 2019-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NaVqEa6nG4QRZNBL7HyPbg%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第5節 | Cao Youyin | missing | W+2¼ | 2019-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SoSpowB%2FD01vJkHqEiukPw%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第4節 | Cao Youyin | missing | W+R | 2019-05-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DqdP5ECA%2FyBbfwtYbGLeVA%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第2節河北-陜西 | missing | Cao Youyin | B+¾ | 2019-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IGyYy4OBRJouyGBfPBYCDw%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第1節山西-河北 | Cao Youyin | missing | B+R | 2019-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fk6gbao48hvkl4EGRvm6zw%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第18節河北-浙江 | Cao Youyin | Wang Yubo | W+4¼ | 2018-11-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OauNHpY1A7sQ%2FLDwOC4D3w%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第17節廈門-河北 | Cao Youyin | Hei Jiajia | B+1¾ | 2018-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZNmXxLfZXT3enuLvqctAaQ%3D%3D) | 
-| 閬中古城杯第1期中国女子囲棋名人戦16強戦 | Cao Youyin | Zhou Hongyu | W+R | 2018-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AzOJxhIUWFR3V3jLZE9%2FMw%3D%3D) | 
-| 閬中古城杯第1期中国女子囲棋名人戦32強戦 | Cao Youyin | missing | B+R | 2018-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2FKQv47M6vYCk8fq9mfOkA%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第16節杭州-河北 | Gao Xing | Cao Youyin | W+R | 2018-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=88z0qrBkot2WEH%2FqOAi8Cw%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第14節広東-河北 | Cai Bihan | Cao Youyin | W+R | 2018-10-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nz%2FMXQv23lktFA39t1xwsg%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第15節河北-上海 | Tang Yi | Cao Youyin | W+R | 2018-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D7XzxmtNLdAqgCPj4Ej0KQ%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第13節河北-武漢 | Cao Youyin | Lu Jia | B+1¾ | 2018-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=are3SKjAeiS6RYLl5%2BwtRA%3D%3D) | 
-| 2018年全国囲棋個人戦女子組第1戦 | Cao Youyin | Lu Jia | B+R | 2018-09-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dK89Gc%2B4QleRmH2fSJNthg%3D%3D) | 
-| 第16回建橋杯女子囲碁オープン戦16強戦 | Cao Youyin | missing | W+1¼ | 2018-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eAuUdJCVUdVMIM3fFZnlLA%3D%3D) | 
-| 第16回建橋杯女子囲碁オープン戦32強戦 | Cao Youyin | missing | B+R | 2018-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oiTw83Igp%2FOjk3IS2bwBIA%3D%3D) | 
-| 第16回建橋杯女子囲碁オープン戦予選 | Pan Yang | Cao Youyin | W+R | 2018-08-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mACyF8ZLxi2vYk8ZCe11JA%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第11節河北-蕪湖 | Lee Sula | Cao Youyin | W+1¼ | 2018-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zsHQFZZ%2FDLPcdWfjUeAxUA%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第10節江蘇-河北 | Cao Youyin | Wang Chenxing | B+¾ | 2018-08-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PFwb0FOP73m7GLJ8Oz23LA%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第9節浙江-河北 | Pan Yang | Cao Youyin | B+R | 2018-08-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CmfdA3%2FKZThTlKO%2BzBlPmA%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第8節河北-廈門 | Cao Youyin | Lu Minquan | W+R | 2018-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TXa2Ox9%2FjA0z8leUIgwyjQ%3D%3D) | 
-| 第20期阿含・桐山杯中国早碁オープン戦予選 | missing | Cao Youyin | W+1¼ | 2018-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UWXy7uOp5q4AFSJliLs89A%3D%3D) | 
-| 2018年中国囲棋丙級リーグ | Xiao Zhenghao | Cao Youyin | B+R | 2018-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1geaLKKy1zsM%2FN244a2%2Bhg%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第7節河北-杭州 | Cao Youyin | Fang Ruoxi | W+R | 2018-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B3PgjbQTFoPhMEipN%2Bt%2BmQ%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第6節上海-河北 | Rui Naiwei | Cao Youyin | B+R | 2018-05-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bwlS1t8LUprQC4YKFVcJDg%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第5節河北-広東 | Cao Youyin | Chen Yiming | B+R | 2018-05-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N0zDHv57CrOJTWxxK13XiQ%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第4節武漢-河北 | missing | Cao Youyin | W+R | 2018-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zkWvWmN4R%2Fz%2FKCTwIlZj2g%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第3節河北-洛陽 | Cao Youyin | Li He | W+R | 2018-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U6xFVZKJ4YkPZC1DUYZEJQ%3D%3D) | 
-| 第23回LG杯予選決勝 | missing | Cao Youyin | B+R | 2018-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wMnXjSe7BTD17Q5FTDCJFw%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第2節 | Cao Youyin | Yuan Tingyu | B+R | 2018-03-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KyF8qQjCiyA7FSLFjUABhA%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第1節 | Cao Youyin | Yu Zhiying | W+R | 2018-03-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L0%2BydtUv7f%2FZO70X1DKcLQ%3D%3D) | 
-| 第9期中国竜星戦予選 | Cao Youyin | Meng Tailing | W+R | 2018-03-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tb6zsMrWUSCh7PB2lOUGfA%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ戦18回戦 | Cao Youyin | Yuan Tingyu | B+R | 2017-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lxt9LuViYfoD5bbs8tXUNA%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ戦17回戦 | Song Ronghui | Cao Youyin | B+R | 2017-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gN%2FbCFuUFtwUR1D5u6C8jw%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ戦16回戦 | Cao Youyin | Yu Zhiying | W+R | 2017-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zfQTwgjR0kxPR0gfaOTJ7g%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ戦15回戦 | Cao Youyin | Fan Weijing | B+R | 2017-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w9yRg%2Fpxk9gFNQOZBj09lg%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ戦14回戦 | missing | Cao Youyin | B+1¾ | 2017-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rmIyAiQMOK1XVsgPBjOoVQ%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ戦13回戦 | Cao Youyin | Li He | W+R | 2017-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SKW87HMMXQoYpx0EjNXNWw%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第12節 | Cai Bihan | Cao Youyin | B+R | 2017-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tnS3YN0bDN%2BzR%2FyrUi03%2BA%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第11節 | Cao Youyin | Rui Naiwei | W+R | 2017-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bo27WDWrBEtmuPAtOYYEXg%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第10節 | Cao Youyin | missing | B+R | 2017-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z%2FSuil8i6UXCvS5qQZfdOQ%3D%3D) | 
-| 2017年全国囲棋個人戦女子組第3戦 | Pan Yang | Cao Youyin | W+4.5 | 2017-09-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ho4hkPHUsngZRO38ecjFig%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第9節 | Cao Youyin | Kim Cheayoung | W+R | 2017-09-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hu85LjcFGEuGL7UE%2Br7aZQ%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第8節 | Gao Xing | Cao Youyin | B+R | 2017-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EylFhY5Nv7yUilgbmEdzZg%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第7節 | Cao Youyin | Yu Zhiying | W+R | 2017-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0CfIWLpG82xsR2m3kUk5TA%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第6節 | Wang Yubo | Cao Youyin | W+R | 2017-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UJIDD33L%2B5p3df4OcW5PLw%3D%3D) | 
-| 嫘祖杯30回中国名人戦新浪網選1回戦 | Li Jianyu | Cao Youyin | B+R | 2017-07-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R1QLF7yPoQST0Yj0RcUHQQ%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第5節 | Cao Youyin | missing | W+0.5 | 2017-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W8yDwMbardTfamdBxNZb6w%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第4節 | Li He | Cao Youyin | W+8.5 | 2017-07-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6m02otwMQB5RYJeTcWwbqA%3D%3D) | 
-| 2017年中国全国運動会囲碁競技第6戦 | Cao Youyin | Rui Naiwei | B+R | 2017-07-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h%2F4QEPXkkGVI3e7cOY%2Fqiw%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第3節 | Zheng Yan | Cao Youyin | W+R | 2017-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mh95vDjCq%2FIwM2%2Ft9AagFw%3D%3D) | 
-| 3期韓国女子連戦季後戦首爾-京畿湖畔 | Choi Jeong | Cao Youyin | B+R | 2017-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eTiUMgsRhk3XIUYaqnWvYg%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第2節 | Rui Naiwei | Cao Youyin | B+R | 2017-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aWrJNJbDX1zZm3r2xHYTzQ%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第1節 | Cao Youyin | Lu Minquan | W+0.5 | 2017-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KAn4okR8ep7psHSUJm8KDw%3D%3D) | 
-| 3期韓国女子連戦13回戦京畿湖畔-扶安 | Cao Youyin | missing | W+R | 2017-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FYsT2FVWWfDNMHlxfyWO3A%3D%3D) | 
-| 3期韓国女子連戦11回戦京畿湖畔-京畿SG | Cao Youyin | Park Shiun | B+6.5 | 2017-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EAmsF48GoB%2B1QKHX4a88Iw%3D%3D) | 
-| 3期韓国女子連戦10回戦京畿湖畔-西帰浦 | Cao Youyin | missing | B+R | 2017-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KBR4nKgCMKnscrdP%2FEWmaw%3D%3D) | 
-| 3期韓国女子連戦9回戦首尓-京畿湖畔 | Cao Youyin | Choi Jeong | B+R | 2017-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qzD0jyN875PCBjHVIuTlhA%3D%3D) | 
-| 3期韓国女子連戦7回戦浦項-京畿湖畔 | Cho Hyeyeon | Cao Youyin | B+R | 2017-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bAD9PQelkkEP9cTESaV8pw%3D%3D) | 
-| 3期韓国女子連戦6回戦京畿湖畔-扶安 | Cao Youyin | Kim Hyeoimin | W+1.5 | 2017-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2azuULnHEALG8y64Ozzzhw%3D%3D) | 
-| 3期韓国女子連戦4回戦京畿湖畔-京畿SG | Cao Youyin | Kim Sinyoung | B+R | 2017-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GvmF5fFq0grJQtwxQi%2BekQ%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選2回戦 | Chen Zijian | Cao Youyin | B+11.5 | 2016-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B9xQLa0A190uOMpCUWz%2B5g%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第18節 | Lu Jia | Cao Youyin | B+R | 2016-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=au1ll9LbC%2FRZ%2BTzALj8HXg%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第17節 | Cao Youyin | Rui Naiwei | W+2.5 | 2016-12-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5%2BX%2FVYL0sVIT1vEFc3CRnA%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦1回戦 | Lee Sedol | Cao Youyin | B+R | 2016-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v7mjDYElaFIHyx35%2BSkk%2FA%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第16節 | Song Ronghui | Cao Youyin | B+R | 2016-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FjALf14Dg9HRQ535DhGm9w%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第15節 | Cao Youyin | Wang Xiangyun | B+R | 2016-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZjYd0GGN2Way2Ye2vgwuFw%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第14節 | Pan Yang | Cao Youyin | W+R | 2016-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B0Z2I9vQrcmaIITCJ5vHgg%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第13節 | Cao Youyin | Lu Minquan | B+R | 2016-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9hd72wlZkeScXjGZWL7kcQ%3D%3D) | 
-| 2016年全国囲棋個人戦女子組第5戦 | Wang Shuang | Cao Youyin | B+R | 2016-09-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yULZuvHgrVj9m7fTS59sCg%3D%3D) | 
-| 2016年全国囲棋個人戦女子組第4戦 | missing | Cao Youyin | W+R | 2016-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u3XJClVoyPGvOqg%2FI59qEQ%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第12節 | Yu Zhiying | Cao Youyin | B+1.5 | 2016-09-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FyOkwZ%2FtyuHRtarvQov33Q%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第10節 | Zhou Hongyu | Cao Youyin | B+R | 2016-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q%2FVLSvmZQIBk225YtW2TCQ%3D%3D) | 
-| 第14回建橋杯女子囲碁オープン戦予選 | Cao Youyin | Yin Qu | W+R | 2016-08-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BXQmS6UY8z5FwxlLWd9xRA%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第9節 | Cao Youyin | Lu Jia | B+R | 2016-08-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hlv%2FJ8EOvguFrkQyyAdF%2Fg%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第8節 | Rui Naiwei | Cao Youyin | W+R | 2016-07-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VrQ%2FzYzfn0Z5asU0CJYuDA%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第7節 | Cao Youyin | Gao Xing | B+R | 2016-07-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TMOf5RetV8yV1GjyFOdqiw%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第6節 | Cao Youyin | Wang Shuang | B+R | 2016-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6PDfU2hXFooXN5HD0eNJtQ%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第5節 | Pan Yang | Cao Youyin | W+R | 2016-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3%2FEbhF09o93BcWEVK6xIjg%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦予選 | Kim Cheayoung | Cao Youyin | W+R | 2016-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YIRrGBM6aIImJ2FZKH%2BrqA%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第4節 | Lu Minquan | Cao Youyin | B+R | 2016-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xiY2oG5iaPkU3LsKcGOwPw%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第3節 | Cao Youyin | Yu Zhiying | W+R | 2016-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CDqn68ah%2FrdE1eDQ%2Be2ngQ%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第2節 | Cai Bihan | Cao Youyin | B+R | 2016-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OLZbUuiVKKhKCFIF6cQbGw%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第1節 | Cao Youyin | Zhou Hongyu | W+R | 2016-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nH9HDKh4qPZLvWwWfkCkgg%3D%3D) | 
-| 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Hei Jiajia | Cao Youyin | B+3.5 | 2016-02-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3c4F7pHWFMpnv4cyEBCANw%3D%3D) | 
-| 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Cao Youyin | Yu Jin | B+R | 2016-02-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mdzs3fC2%2BOxKtOrLqVMTcQ%3D%3D) | 
-| 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Cao Youyin | Oh Yujin | B+1.5 | 2016-02-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xrH5aWbYmjIE0NouI4MBRg%3D%3D) | 
-| 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Choi Jeong | Cao Youyin | B+R | 2016-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HDuI6sbsxqP7nrNC1Mn0eg%3D%3D) | 
-| 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Cao Youyin | Hoshiai Shiho | B+R | 2016-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wAd4sf4uDwTb4BqsrXvIwA%3D%3D) | 
-| 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Elvina Kalsberg | Cao Youyin | W+R | 2016-02-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TM1yID8%2Bq39ZSHs5TVzzmQ%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第18節 | Wang Chenxing | Cao Youyin | B+R | 2015-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GZXXhHTd6zoF0Tek1oh15g%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第17節 | Cao Youyin | Zhou Hongyu | B+R | 2015-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5kyeth%2FMfWOxE7O9iAbQeA%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第16節 | Cao Youyin | Chen Yiming | B+R | 2015-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RXpvBGVQAkonESZT4aD3wQ%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第15節 | Li He | Cao Youyin | B+5.5 | 2015-11-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tAJxHHm7YPFn7YIWNO%2FDgw%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第14節 | Cao Youyin | Lu Jia | B+R | 2015-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q6lz4G4ksomnwFjEJx5x2A%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第13節 | missing | Cao Youyin | W+0.5 | 2015-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gJpQIgCCl6KjAPqwxRrkzw%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第12節 | Wang Shuang | Cao Youyin | W+R | 2015-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U%2B9dtRQrK8s4%2BYvfnHFomA%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第11節 | Gao Xing | Cao Youyin | B+R | 2015-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cA%2FoouX95or9cKjAUcVgtQ%3D%3D) | 
-| 第13回建橋杯女子囲碁オープン戦2回戦 | Cao Youyin | Yu Zhiying | W+R | 2015-10-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QB5NkgzCT0Qf8xKaMF70DQ%3D%3D) | 
-| 第13回建橋杯女子囲碁オープン戦1回戦 | Tao Ran | Cao Youyin | W+R | 2015-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WekCj0r5MVQYASIdOFJAOQ%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第10節 | Cao Youyin | Rui Naiwei | B+R | 2015-10-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LxacjCjj5ipgcPQVQDExEQ%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第9節 | Cao Youyin | Yu Zhiying | W+R | 2015-09-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wxnxB1QBUpmPnqh2BZqynA%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第8節 | Fan Weijing | Cao Youyin | B+1.5 | 2015-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Z2lN6Hn9lDoG%2Fl9Wum%2Bag%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第7節 | Chen Yiming | Cao Youyin | W+R | 2015-09-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3rR%2FGpdnqkSPaSVOBbDpag%3D%3D) | 
-| 2015年全国囲棋個人戦女子組第3戦 | Lu Minquan | Cao Youyin | W+R | 2015-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p6bau6ibOOhkZBVv9T74RA%3D%3D) | 
-| 2015年中国段位戦 | Liao Yuanhe | Cao Youyin | B+R | 2015-07-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kS1O3rphQ%2FitOXqxd4ZwSA%3D%3D) | 
-| 2015年中国段位戦 | Cao Youyin | Hu Yuhan | W+R | 2015-07-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yin3i43ZV9zDcTOJsnHC6A%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第6節 | Cao Youyin | Li He | W+4.5 | 2015-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mKAioveKCz4FBR4ge%2BaqTQ%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第5節 | Lu Jia | Cao Youyin | W+R | 2015-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BReKwk%2FNdEd5ouXIiTACWQ%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第4節 | Cao Youyin | Yuan Tingyu | B+R | 2015-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VpGpboHpGeAUphtn6D3zGQ%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第3節 | Wang Xiangyun | Cao Youyin | B+R | 2015-06-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ytjk9IZjraTXE51tvYKLWQ%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第2節 | Cao Youyin | Song Ronghui | B+3.5 | 2015-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RuwMPcISGe%2BntKj5DRK7tw%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第1節 | Rui Naiwei | Cao Youyin | W+0.5 | 2015-05-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p9cWbMaJrZcQuZc1ZN7p4Q%3D%3D) | 
-| 第5回黄竜士双登杯世界女子囲碁団体選手権第12戦 | Choi Jeong | Cao Youyin | B+R | 2015-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hk%2B5jSPoXJOfV60QK4UeXA%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦予選 | Cao Youyin | Chen Zijian | W+R | 2015-03-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4%2FB8nry0Yq9BtzLQDOczyw%3D%3D) | 
-| 第12回建橋杯女子囲碁オープン戦決勝三番勝負第3局 | Chen Yiming | Cao Youyin | W+2.5 | 2014-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WVGwuKGocjvVRaT3yZa5OA%3D%3D) | 
-| 第12回建橋杯女子囲碁オープン戦決勝三番勝負第2局 | Cao Youyin | Chen Yiming | W+4.5 | 2014-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hd%2FqudUrMitAseSw6%2F%2Br7Q%3D%3D) | 
-| 第12回建橋杯女子囲碁オープン戦決勝三番勝負第1局 | Chen Yiming | Cao Youyin | W+R | 2014-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PzrpdZuaFFcNyjs7FFibHw%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第14節 | Yu Zhiying | Cao Youyin | B+R | 2014-11-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kteqspsgic0N78eEf9JDnw%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第13節 | Cao Youyin | Chen Yiming | W+R | 2014-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O7LhxPG3Vb2Sk7LE7uPFfQ%3D%3D) | 
-| 第1回おかげ杯国際精鋭囲碁対抗戦女流個人戦一位決定戦 | Cao Youyin | Park Jiyeon | W+R | 2014-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NpQTFqMsYCeQHtAeuDC1YA%3D%3D) | 
-| 第1回おかげ杯国際精鋭囲碁対抗戦第2戦 | Cao Youyin | Xie Yimin | B+R | 2014-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=66UZ67vyuwYreyPVkDtqIg%3D%3D) | 
-| 第1回おかげ杯国際精鋭囲碁対抗戦第1戦 | Park Jiyeon | Cao Youyin | W+3.5 | 2014-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FEfpoaraWdCY0THfyXJu5w%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第12節 | missing | Cao Youyin | W+R | 2014-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VeAqZCK097CvWpc61J9OYA%3D%3D) | 
-| 第12回建橋杯女子囲碁オープン戦準決勝 | Cao Youyin | Fan Weijing | B+R | 2014-10-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I%2B%2BxZ14bRKTM1U5Y1QUwFw%3D%3D) | 
-| 第12回建橋杯女子囲碁オープン戦2回戦 | Cai Bihan | Cao Youyin | W+2.5 | 2014-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BhXbrbHJugTVnbCSntrxjg%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第11節 | Cao Youyin | Rui Naiwei | W+R | 2014-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fgUfjKMaHza7NpnUyijpmg%3D%3D) | 
-| 第5回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Choi Jeong | Cao Youyin | B+R | 2014-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5liHqEbxLJHS53bKsNYGzA%3D%3D) | 
-| 第5回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Kim Cheayoung | Cao Youyin | W+R | 2014-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2nUIYNehP0erhGyCUfkM0A%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第10節 | Cao Youyin | Wang Xiangyun | W+R | 2014-08-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s8GvUyYL5gOiZd4SE6fMtw%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第9節 | Lu Jia | Cao Youyin | W+10.5 | 2014-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2nQ67PcOVryi3aP7P%2Fro2Q%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第8節 | Cao Youyin | Gao Xing | W+R | 2014-08-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6pTEgJ9SWD%2Fp%2FS9Qip789A%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第7節 | Cao Youyin | Wang Chenxing | W+R | 2014-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Ws0fV%2FkCvG8hp42wmZ%2FaA%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第6節 | Chen Yiming | Cao Youyin | B+1.5 | 2014-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R%2B7Qb%2BEjIa3Ih0aMi%2BZp9w%3D%3D) | 
-| 第6期中国竜星戦予選 | Cao Youyin | Meng Tailing | W+R | 2014-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kjkFj4G%2BCghYkxAuwwE2ZA%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第5節 | Cao Youyin | missing | B+R | 2014-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nxoFvgmyRPDqFca3de2IyA%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第4節 | Rui Naiwei | Cao Youyin | B+R | 2014-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rrzAODYUkMFEdqf3nSPGsA%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第3節 | Cao Youyin | Wang Shuang | W+0.5 | 2014-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bLo894itWdgdR5w93Il6dg%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第2節 | Cao Youyin | Lu Jia | W+0.5 | 2014-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p2OcDV0IY83yeHQ4aJVnww%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第1節 | Song Ronghui | Cao Youyin | W+0.5 | 2014-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gu6p1ZBK0krwCgKpfhLwNQ%3D%3D) | 
-| 第4回黄竜士双登杯世界女子囲碁団体選手権第8戦 | Cao Youyin | Kim Hyeoimin | W+2.5 | 2014-04-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O42Iv5OGojGO%2FsBoF8N2VA%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第14節 | Cao Youyin | Rui Naiwei | W+R | 2013-12-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Llt%2Bs645fqVvmyUS%2Bc7b8A%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第13節 | Yu Zhiying | Cao Youyin | W+R | 2013-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gh%2F9RDuEc9LFXakdMAekVg%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第12節 | Cao Youyin | Zhang Xuan | B+R | 2013-12-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mgRw0NzHydV%2Bu3BvLrMthw%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第11節 | Li Yirong | Cao Youyin | W+R | 2013-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GXMK55nNnbb8JjDrs%2BANMg%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第10節 | Cao Youyin | Chen Yiming | W+0.5 | 2013-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RSrxvSj7CKOSBU6YKfGdAA%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第9節 | Cao Youyin | Ye Gui | B+1.5 | 2013-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ocgEwzl%2B1lOCKuiG3EoVQQ%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第8節 | Wang Xiangyun | Cao Youyin | W+R | 2013-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wVN4chV1O08gev2pa0Malg%3D%3D) | 
-| 第11回建橋杯女子囲碁オープン戦予選 | missing | Cao Youyin | B+1.5 | 2013-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ClfhVSocvb1Ikyi0GcZalg%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第7節 | Rui Naiwei | Cao Youyin | B+R | 2013-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nj%2BnjTEnXKNKKYqVv0U4Yg%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第6節 | Cao Youyin | Wang Chenxing | B+R | 2013-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z8WBfeWaQBfM6oJq9l%2Bz3g%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第5節 | Zhang Xuan | Cao Youyin | B+7.5 | 2013-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K2SriwjPDaai%2BdTFgT%2Fzrg%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第4節 | Cao Youyin | Li Yirong | B+R | 2013-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9lXVZbJ%2Fk2mRY8tsdHNRpQ%3D%3D) | 
-| 第18回三星火災杯統合予選女子枠決勝 | Oh Jeonga | Cao Youyin | B+0.5 | 2013-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YObKL0IubeY4L6S%2BkCXXrA%3D%3D) | 
-| 2013年中国段位戦 | Cao Youyin | missing | W+R | 2013-07-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wxk%2BTFp3XYfB3n8WiqtOxg%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第3節 | Zheng Yan | Cao Youyin | W+R | 2013-06-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FAcA4hy8B%2F7d1iJukbIHkw%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第2節 | Cao Youyin | Lu Jia | W+R | 2013-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wX8DFr3IuU769cW1Ie60Bg%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第1節 | Cao Youyin | Li He | B+R | 2013-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GXdA%2BHKDGBmz75HjjOjkEg%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Li Kang | Cao Youyin | W+2.5 | 2013-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F240LJSg%2BttlUSVFf1WuUg%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | missing | Cao Youyin | B+R | 2013-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T93A4DfNXTA96QW%2BZPMzog%3D%3D) | 
-| 第2期全国女子囲碁国手戦予選 | Cao Youyin | Li Yirong | W+0.5 | 2013-04-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PMkENbSwiZfFhZ%2FCpuNTGA%3D%3D) | 
-| 第10回建橋杯女子囲碁オープン戦2回戦 | Rui Naiwei | Cao Youyin | B+R | 2012-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JZzmLB8%2F1tGXGsMqZ2Xevg%3D%3D) | 
-| 第8回百霊杯アマ女子勝抜戦第8戦 | Bai Baoxiang | Cao Youyin | B+R | 2012-08-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=icXqBp1%2FMH5LvzM8BKKTzQ%3D%3D) | 
-| 第8回百霊杯アマ女子勝抜戦第7戦 | Cao Youyin | Wang Chen | B+R | 2012-08-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3R8cH%2F8GtsC%2BMcaeDXB7%2FQ%3D%3D) | 
-| 第8回百霊杯アマ女子勝抜戦第6戦 | Dong Ming | Cao Youyin | W+0.5 | 2012-07-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g%2BGXsxpEiAHpDx%2BmZtKbmw%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦予選 | Cao Youyin | Liu Xing | W+R | 2012-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YmGATGQWVZz179YaepWJrA%3D%3D) | 
-| 第7回百霊杯元老女子勝抜戦第13戦 | Liu Xiaoguang | Cao Youyin | B+R | 2011-12-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ayw%2FbCe7pZYyck4%2BIQHXzQ%3D%3D) | 
-| 第9回建橋杯女子囲碁オープン戦決勝三番勝負第2局 | Zhang Xuan | Cao Youyin | B+3.5 | 2011-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8pJmyQd9Quc%2Fei9yZjhATg%3D%3D) | 
-| 第9回建橋杯女子囲碁オープン戦決勝三番勝負第1局 | Cao Youyin | Zhang Xuan | W+R | 2011-10-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iSuNynUXmEQtl9j9fjvXRQ%3D%3D) | 
-| 第2回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Cao Youyin | Xie Yimin | W+R | 2011-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DHEPwsZoskURCD%2Fg3JHXvw%3D%3D) | 
-| 第9回建橋杯女子囲碁オープン戦準決勝 | Li He | Cao Youyin | W+16.5 | 2011-09-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OSCWQHTMxZjG2LJ3VRoNNw%3D%3D) | 
-| 第9回建橋杯女子囲碁オープン戦1回戦 | Gao Xing | Cao Youyin | W+2.5 | 2011-09-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JEkZh8EB%2B38pFjybzS1iKg%3D%3D) | 
-| 2011CCTV杯中国囲棋電視快棋戦1回戦 | Yin Hang | Cao Youyin | B+R | 2011-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qruMTkrqN79BablAYn9zdg%3D%3D) | 
-| 第8回建橋杯女子囲碁オープン戦準決勝 | Cao Youyin | Wang Xiangyun | W+R | 2010-09-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JV5vWHVpTavr0ZtebavtbQ%3D%3D) | 
-| 第8回建橋杯女子囲碁オープン戦2回戦 | Yu Zhiying | Cao Youyin | W+R | 2010-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=blBlXmW7Wiv3%2BmVQPKPBtQ%3D%3D) | 
-| 第8回建橋杯女子囲碁オープン戦1回戦 | Cai Bihan | Cao Youyin | W+R | 2010-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XV8VNoLHV%2B7EF1SuoVxAkA%3D%3D) | 
-| 第24期中国囲碁天元戦予選 | Cao Youyin | missing | W+0.5 | 2010-01-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7rcCc9nQiZ0xBEdZgPztAA%3D%3D) | 
-| 第8回正官庄杯世界女子囲碁最強戦第8戦 | Kim Hyeoimin | Cao Youyin | B+1.5 | 2009-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DfHDLi4P0dUOXwwSVHfbfA%3D%3D) | 
-| 第8回正官庄杯世界女子囲碁最強戦第7戦 | Cao Youyin | Umezawa Yukari | B+R | 2009-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8bEnepLJ8NrNsLluFituTw%3D%3D) | 
-| 第8回正官庄杯世界女子囲碁最強戦第6戦 | Park Sohyun | Cao Youyin | W+R | 2009-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U%2FHYcCPHRtrnTGGXqOPJiw%3D%3D) | 
-| 第7回建橋杯女子囲碁オープン戦準決勝 | Lu Jia | Cao Youyin | B+3.5 | 2009-09-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FUMXRv11mhyagQYWwzJ7Ew%3D%3D) | 
-| 第7回建橋杯女子囲碁オープン戦2回戦 | Cao Youyin | Song Ronghui | B+1.5 | 2009-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xSoMulLqlJPfd6L392enNg%3D%3D) | 
-| 第22期中国囲碁名人戦予選 | Cao Youyin | missing | W+R | 2009-03-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gNjf0oSAv9f21zeBU2%2BR3A%3D%3D) | 
-| 第4回全国女子囲碁精英戦第5戦 | Cao Youyin | Li He | W+R | 2008-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jBM8yZZ1oWUHfhKBnNC2gQ%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Cao Youyin | Mannami Kana | W+R | 2008-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4WIUdYWahWWB9D0zXlyDAQ%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Cao Youyin | Hei Jiajia | B+R | 2008-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6iKqgQiOw8ni0hRQAiAgXg%3D%3D) | 
-| 第6回建橋杯女子囲碁オープン戦三位決定戦 | Cao Youyin | Song Ronghui | B+R | 2008-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iOXay7pWLIP%2Fv7lQFOKzEQ%3D%3D) | 
-| 第6回建橋杯女子囲碁オープン戦準決勝 | Cao Youyin | Lu Jia | W+2.5 | 2008-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iE%2BqzELPzIkfWWmhCZqUBw%3D%3D) | 
-| 第4回百霊杯新老女子対抗戦第4戦 | Cao Youyin | Zhang Xuan | B+R | 2008-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wEP5SbX5qrzvzvWPIKTTkQ%3D%3D) | 
-| 第4回百霊杯新老女子対抗戦第3戦 | Cao Youyin | Rui Naiwei | W+R | 2008-06-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4OWlFlXMFAEOW6sBt8eDVA%3D%3D) | 
-| 第4回百霊杯新老女子対抗戦第2戦 | Cao Youyin | Ye Gui | W+R | 2008-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HRJh9mndIoM6nNcJOrho%2BA%3D%3D) | 
-| 第4回百霊杯新老女子対抗戦第1戦 | Cao Youyin | Xu Ying | B+R | 2008-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yG2vWyc31obIx7QIDVpJzw%3D%3D) | 
-| 第1回遠洋地産杯世界女子プロオープン戦3回戦 | Rui Naiwei | Cao Youyin | B+R | 2007-10-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w5E3w0vOL96MasrvB%2Fy2Pg%3D%3D) | 
-| 第1回遠洋地産杯世界女子プロオープン戦2回戦 | Li Chunhua | Cao Youyin | W+R | 2007-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0WQMI7lLAQVRofdHUcgGGA%3D%3D) | 
-| 第5回建橋杯女子囲碁オープン戦三位決定戦 | Cao Youyin | Li He | W+0.5 | 2007-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g0JtTYUzLP0MwVphB1yJFA%3D%3D) | 
-| 第5回建橋杯女子囲碁オープン戦準決勝 | Cao Youyin | Zheng Yan | W+0.5 | 2007-10-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4J4Jk0cmi49OYxQzD3sYUw%3D%3D) | 
-| 第5回建橋杯女子囲碁オープン戦2回戦 | Cao Youyin | Tang Yi | B+R | 2007-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vY4%2BaOKaN%2Bz5xHy94%2FoEfw%3D%3D) | 
-| 2007年中国段位戦 | Cao Youyin | missing | W+R | 2007-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GEtGBmWL359IrFOHy6gEAw%3D%3D) | 
-| 2007年中国段位戦 | Cao Youyin | Huang Jia | B+R | 2007-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QNPcjvGhSQls1X%2FLFxqYQw%3D%3D) | 
-| 第3回全国女子囲碁精英戦2回戦 | Ye Gui | Cao Youyin | B+R | 2007-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=05jfQHaT2%2Bjdar1VysFAUw%3D%3D) | 
-| 第1期建橋杯女子新人王戦決勝三番勝負第3局 | Tang Yi | Cao Youyin | W+6.5 | 2007-03-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6DHxQmgL7S8lVkNaJlx1ww%3D%3D) | 
-| 第1期建橋杯女子新人王戦決勝三番勝負第2局 | Cao Youyin | Tang Yi | W+R | 2007-03-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BuQ%2BmCIsKE5epCG37HNfxA%3D%3D) | 
-| 第1期建橋杯女子新人王戦決勝三番勝負第1局 | Tang Yi | Cao Youyin | W+R | 2007-03-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ORPMJbCWb97E1wmDZ62V1w%3D%3D) | 
-| 第1期建橋杯女子新人王戦敗者復活戦決勝 | Cao Youyin | Wang Pan | B+R | 2007-02-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UBMrcKAoTpExc%2FbboJvjaA%3D%3D) | 
-| 第1期建橋杯女子新人王戦敗者復活戦準決勝 | Cao Youyin | Wang Xiangyun | B+R | 2007-02-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lZMKdv56v9nCrPaQ6uuRXQ%3D%3D) | 
-| 第1期建橋杯女子新人王戦勝者組決勝 | Cao Youyin | Tang Yi | W+R | 2007-02-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LXhef6d%2Fp0jnvZc38atkKQ%3D%3D) | 
-| 第1期建橋杯女子新人王戦勝者組準決勝 | Li He | Cao Youyin | W+R | 2007-02-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VqL13eZlciXd6lnYGI5Wzw%3D%3D) | 
-| 第1回大理旅遊杯世界女子プロ囲碁選手権戦3回戦 | Cao Youyin | Kim Hyeoimin | W+R | 2006-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JDRPvLVSik6ys81jxwW0%2BQ%3D%3D) | 
-| 第1回大理旅遊杯世界女子プロ囲碁選手権戦1回戦 | Mannami Kana | Cao Youyin | W+R | 2006-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3yTjTUELKMYpX%2FZtibxdIA%3D%3D) | 
-| 第2回百霊杯中国女子囲碁オープン戦予選 | Tang Li | Cao Youyin | B+R | 2006-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cMnGpXDoTc60oEgB8YWVaw%3D%3D) | 
-| 第4回建橋杯女子囲碁オープン戦予選 | Tang Yi | Cao Youyin | B+3.5 | 2006-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CjE%2BFClEI3N3kBPx5Atpwg%3D%3D) | 
-| 第4回建橋杯女子囲碁オープン戦予選 | Tang Ying | Cao Youyin | W+R | 2006-07-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1CUF7njBiN2x9P3Uw8E0xA%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-27 | 第12期中国竜星戦予選 | Zhan Ying | Cao Youyin | Win | W+4¼ | 7.5 | 2391 | -412 | 
+| 2021-04-02 | 第8回中国女子囲碁甲級リーグ |  | Cao Youyin | Lose | B+¾ | 7.5 | 2803 | -34 | 
+| 2021-03-29 | 第8回中国女子囲碁甲級リーグ | Cao Youyin |  | Lose | W+R | 7.5 | 2837 | -33 | 
+| 2021-03-28 | 第8回中国女子囲碁甲級リーグ |  | Cao Youyin | Lose | B+R | 7.5 | 2870 | -227 | 
+| 2020-11-24 | 第8回中国女子囲碁甲級リーグ | Rui Naiwei | Cao Youyin | Lose | B+R | 7.5 | 3097 | -42 | 
+| 2020-11-21 | 第8回中国女子囲碁甲級リーグ | Cao Youyin | Gao Xing | Lose | W+R | 7.5 | 3139 | -22 | 
+| 2020-11-20 | 第8回中国女子囲碁甲級リーグ | Lu Minquan | Cao Youyin | Lose | B+R | 7.5 | 3161 | 62 | 
+| 2020-11-17 | 第8回中国女子囲碁甲級リーグ | Cao Youyin |  | Lose | W+R | 7.5 | 3099 | 283 | 
+| 2020-07-31 | 第8回中国女子囲碁甲級リーグ第4節 | Cao Youyin | Zhou Hongyu | Win | B+R | 7.5 | 2816 | 81 | 
+| 2020-07-30 | 第8回中国女子囲碁甲級リーグ第3節 | Cao Youyin | Yin Qu | Win | B+¾ | 7.5 | 2735 | 44 | 
+| 2020-07-29 | 第8回中国女子囲碁甲級リーグ第2節 | Cao Youyin | Cai Bihan | Win | B+R | 7.5 | 2691 | -6 | 
+| 2020-07-28 | 第8回中国女子囲碁甲級リーグ第1節 |  | Cao Youyin | Win | W+R | 7.5 | 2697 | 297 | 
+| 2019-11-26 | 第7回中国女子囲碁甲級リーグ第17節 | Cao Youyin | Gao Xing | Lose | W+R | 7.5 | 2400 | -91 | 
+| 2019-11-21 | 閬中古城杯第2期中国女子囲棋名人戦16強戦 | Wang Yubo | Cao Youyin | Lose | B+¾ | 7.5 | 2491 | 11 | 
+| 2019-11-05 | 第7回中国女子囲碁甲級リーグ第16節 | Cao Youyin | Zhou Hongyu | Lose | W+R | 7.5 | 2480 | 17 | 
+| 2019-10-25 | 第7回中国女子囲碁甲級リーグ第15節 | Yin Qu | Cao Youyin | Win | W+R | 7.5 | 2463 | 28 | 
+| 2019-10-18 | 第7回中国女子囲碁甲級リーグ第14節 | Cao Youyin | Cai Bihan | Lose | W+R | 7.5 | 2435 | -21 | 
+| 2019-10-17 | 第7回中国女子囲碁甲級リーグ第13節 | Tao Ran | Cao Youyin | Win | W+R | 7.5 | 2456 | -200 | 
+| 2019-08-11 | 第7回中国女子囲碁甲級リーグ第11節 | Cao Youyin |  | Lose | W+1¼ | 7.5 | 2656 | -74 | 
+| 2019-08-09 | 第7回中国女子囲碁甲級リーグ第10節 | Cao Youyin |  | Win | B+R | 7.5 | 2730 | 8 | 
+| 2019-07-30 | 第7回中国女子囲碁甲級リーグ第9節 |  | Cao Youyin | Win | W+R | 7.5 | 2722 | 16 | 
+| 2019-07-29 | 第7回中国女子囲碁甲級リーグ第8節 | Cao Youyin | Fang Ruoxi | Lose | W+R | 7.5 | 2706 | -21 | 
+| 2019-07-19 | 第7回中国女子囲碁甲級リーグ第7節 | Zhan Ying | Cao Youyin | Win | W+R | 7.5 | 2727 | 38 | 
+| 2019-06-25 | 第7回中国女子囲碁甲級リーグ第6節 | Cao Youyin | Wang Chenxing | Lose | W+R | 7.5 | 2689 | -18 | 
+| 2019-06-02 | 第7回中国女子囲碁甲級リーグ第5節 | Cao Youyin |  | Lose | W+2¼ | 7.5 | 2707 | 27 | 
+| 2019-05-31 | 第7回中国女子囲碁甲級リーグ第4節 | Cao Youyin |  | Lose | W+R | 7.5 | 2680 | 17 | 
+| 2019-04-11 | 第7回中国女子囲碁甲級リーグ第2節河北-陜西 |  | Cao Youyin | Lose | B+¾ | 7.5 | 2663 | -26 | 
+| 2019-04-10 | 第7回中国女子囲碁甲級リーグ第1節山西-河北 | Cao Youyin |  | Win | B+R | 7.5 | 2689 | 46 | 
+| 2018-11-27 | 第6回中国女子囲碁甲級リーグ第18節河北-浙江 | Cao Youyin | Wang Yubo | Lose | W+4¼ | 7.5 | 2643 | -30 | 
+| 2018-11-26 | 第6回中国女子囲碁甲級リーグ第17節廈門-河北 | Cao Youyin | Hei Jiajia | Win | B+1¾ | 7.5 | 2673 | 49 | 
+| 2018-11-23 | 閬中古城杯第1期中国女子囲棋名人戦16強戦 | Cao Youyin | Zhou Hongyu | Lose | W+R | 7.5 | 2624 | -12 | 
+| 2018-11-22 | 閬中古城杯第1期中国女子囲棋名人戦32強戦 | Cao Youyin |  | Win | B+R | 7.5 | 2636 | 7 | 
+| 2018-10-19 | 第6回中国女子囲碁甲級リーグ第16節杭州-河北 | Gao Xing | Cao Youyin | Win | W+R | 7.5 | 2629 | -20 | 
+| 2018-10-11 | 第6回中国女子囲碁甲級リーグ第14節広東-河北 | Cai Bihan | Cao Youyin | Win | W+R | 7.5 | 2649 | 18 | 
+| 2018-10-09 | 第6回中国女子囲碁甲級リーグ第15節河北-上海 | Tang Yi | Cao Youyin | Win | W+R | 7.5 | 2631 | 2 | 
+| 2018-09-28 | 第6回中国女子囲碁甲級リーグ第13節河北-武漢 | Cao Youyin | Lu Jia | Win | B+1¾ | 7.5 | 2629 | -24 | 
+| 2018-09-15 | 2018年全国囲棋個人戦女子組第1戦 | Cao Youyin | Lu Jia | Win | B+R | 7.5 | 2653 | 19 | 
+| 2018-08-30 | 第16回建橋杯女子囲碁オープン戦16強戦 | Cao Youyin |  | Lose | W+1¼ | 7.5 | 2634 | -5 | 
+| 2018-08-29 | 第16回建橋杯女子囲碁オープン戦32強戦 | Cao Youyin |  | Win | B+R | 7.5 | 2639 | 12 | 
+| 2018-08-28 | 第16回建橋杯女子囲碁オープン戦予選 | Pan Yang | Cao Youyin | Win | W+R | 7.5 | 2627 | 8 | 
+| 2018-08-24 | 第6回中国女子囲碁甲級リーグ第11節河北-蕪湖 | Lee Sula | Cao Youyin | Win | W+1¼ | 7.5 | 2619 | 28 | 
+| 2018-08-14 | 第6回中国女子囲碁甲級リーグ第10節江蘇-河北 | Cao Youyin | Wang Chenxing | Win | B+¾ | 7.5 | 2591 | 61 | 
+| 2018-08-12 | 第6回中国女子囲碁甲級リーグ第9節浙江-河北 | Pan Yang | Cao Youyin | Lose | B+R | 7.5 | 2530 | -30 | 
+| 2018-07-13 | 第6回中国女子囲碁甲級リーグ第8節河北-廈門 | Cao Youyin | Lu Minquan | Lose | W+R | 7.5 | 2560 | -59 | 
+| 2018-06-27 | 第20期阿含・桐山杯中国早碁オープン戦予選 |  | Cao Youyin | Win | W+1¼ | 7.5 | 2619 | -15 | 
+| 2018-06-18 | 2018年中国囲棋丙級リーグ | Xiao Zhenghao | Cao Youyin | Lose | B+R | 7.5 | 2634 | -40 | 
+| 2018-06-02 | 第6回中国女子囲碁甲級リーグ第7節河北-杭州 | Cao Youyin | Fang Ruoxi | Lose | W+R | 7.5 | 2674 | -21 | 
+| 2018-05-31 | 第6回中国女子囲碁甲級リーグ第6節上海-河北 | Rui Naiwei | Cao Youyin | Lose | B+R | 7.5 | 2695 | -49 | 
+| 2018-05-24 | 第6回中国女子囲碁甲級リーグ第5節河北-広東 | Cao Youyin | Chen Yiming | Win | B+R | 7.5 | 2744 | 14 | 
+| 2018-05-06 | 第6回中国女子囲碁甲級リーグ第4節武漢-河北 |  | Cao Youyin | Win | W+R | 7.5 | 2730 | 66 | 
+| 2018-04-25 | 第6回中国女子囲碁甲級リーグ第3節河北-洛陽 | Cao Youyin | Li He | Lose | W+R | 7.5 | 2664 | -53 | 
+| 2018-04-07 | 第23回LG杯予選決勝 |  | Cao Youyin | Lose | B+R | 6.5 | 2717 | -65 | 
+| 2018-03-24 | 第6回中国女子囲碁甲級リーグ第2節 | Cao Youyin | Yuan Tingyu | Win | B+R | 7.5 | 2782 | 17 | 
+| 2018-03-22 | 第6回中国女子囲碁甲級リーグ第1節 | Cao Youyin | Yu Zhiying | Lose | W+R | 7.5 | 2765 | -65 | 
+| 2018-03-05 | 第9期中国竜星戦予選 | Cao Youyin | Meng Tailing | Lose | W+R | 7.5 | 2830 | 43 | 
+| 2017-12-18 | 第5回中国女子囲碁甲級リーグ戦18回戦 | Cao Youyin | Yuan Tingyu | Win | B+R | 7.5 | 2787 | 13 | 
+| 2017-12-17 | 第5回中国女子囲碁甲級リーグ戦17回戦 | Song Ronghui | Cao Youyin | Lose | B+R | 7.5 | 2774 | 50 | 
+| 2017-11-18 | 第5回中国女子囲碁甲級リーグ戦16回戦 | Cao Youyin | Yu Zhiying | Lose | W+R | 7.5 | 2724 | 0 | 
+| 2017-11-14 | 第5回中国女子囲碁甲級リーグ戦15回戦 | Cao Youyin | Fan Weijing | Win | B+R | 7.5 | 2724 | 17 | 
+| 2017-11-12 | 第5回中国女子囲碁甲級リーグ戦14回戦 |  | Cao Youyin | Lose | B+1¾ | 7.5 | 2707 | -32 | 
+| 2017-11-04 | 第5回中国女子囲碁甲級リーグ戦13回戦 | Cao Youyin | Li He | Lose | W+R | 7.5 | 2739 | -34 | 
+| 2017-10-29 | 第5回中国女子囲碁甲級リーグ第12節 | Cai Bihan | Cao Youyin | Lose | B+R | 7.5 | 2773 | -50 | 
+| 2017-10-27 | 第5回中国女子囲碁甲級リーグ第11節 | Cao Youyin | Rui Naiwei | Lose | W+R | 7.5 | 2823 | 0 | 
+| 2017-10-25 | 第5回中国女子囲碁甲級リーグ第10節 | Cao Youyin |  | Win | B+R | 7.5 | 2823 | 99 | 
+| 2017-09-17 | 2017年全国囲棋個人戦女子組第3戦 | Pan Yang | Cao Youyin | Win | W+4.5 | 7.5 | 2724 | 25 | 
+| 2017-09-13 | 第5回中国女子囲碁甲級リーグ第9節 | Cao Youyin | Kim Cheayoung | Lose | W+R | 7.5 | 2699 | -2 | 
+| 2017-09-12 | 第5回中国女子囲碁甲級リーグ第8節 | Gao Xing | Cao Youyin | Lose | B+R | 7.5 | 2701 | 34 | 
+| 2017-08-11 | 第5回中国女子囲碁甲級リーグ第7節 | Cao Youyin | Yu Zhiying | Lose | W+R | 7.5 | 2667 | -7 | 
+| 2017-08-09 | 第5回中国女子囲碁甲級リーグ第6節 | Wang Yubo | Cao Youyin | Win | W+R | 7.5 | 2674 | 14 | 
+| 2017-07-18 | 嫘祖杯30回中国名人戦新浪網選1回戦 | Li Jianyu | Cao Youyin | Lose | B+R | 7.5 | 2660 | -2 | 
+| 2017-07-16 | 第5回中国女子囲碁甲級リーグ第5節 | Cao Youyin |  | Lose | W+0.5 | 7.5 | 2662 | -10 | 
+| 2017-07-14 | 第5回中国女子囲碁甲級リーグ第4節 | Li He | Cao Youyin | Win | W+8.5 | 7.5 | 2672 | 0 | 
+| 2017-07-08 | 2017年中国全国運動会囲碁競技第6戦 | Cao Youyin | Rui Naiwei | Win | B+R | 7.5 | 2672 | -6 | 
+| 2017-06-24 | 第5回中国女子囲碁甲級リーグ第3節 | Zheng Yan | Cao Youyin | Win | W+R | 7.5 | 2678 | 19 | 
+| 2017-05-15 | 3期韓国女子連戦季後戦首爾-京畿湖畔 | Choi Jeong | Cao Youyin | Lose | B+R | 6.5 | 2659 | -6 | 
+| 2017-05-07 | 第5回中国女子囲碁甲級リーグ第2節 | Rui Naiwei | Cao Youyin | Lose | B+R | 7.5 | 2665 | -4 | 
+| 2017-05-06 | 第5回中国女子囲碁甲級リーグ第1節 | Cao Youyin | Lu Minquan | Lose | W+0.5 | 7.5 | 2669 | -37 | 
+| 2017-04-27 | 3期韓国女子連戦13回戦京畿湖畔-扶安 | Cao Youyin |  | Lose | W+R | 6.5 | 2706 | 23 | 
+| 2017-04-15 | 3期韓国女子連戦11回戦京畿湖畔-京畿SG | Cao Youyin | Park Shiun | Win | B+6.5 | 6.5 | 2683 | 31 | 
+| 2017-04-11 | 3期韓国女子連戦10回戦京畿湖畔-西帰浦 | Cao Youyin |  | Win | B+R | 6.5 | 2652 | 6 | 
+| 2017-04-08 | 3期韓国女子連戦9回戦首尓-京畿湖畔 | Cao Youyin | Choi Jeong | Win | B+R | 6.5 | 2646 | 198 | 
+| 2017-03-21 | 3期韓国女子連戦7回戦浦項-京畿湖畔 | Cho Hyeyeon | Cao Youyin | Lose | B+R | 6.5 | 2448 | 3 | 
+| 2017-03-19 | 3期韓国女子連戦6回戦京畿湖畔-扶安 | Cao Youyin | Kim Hyeoimin | Lose | W+1.5 | 6.5 | 2445 | -79 | 
+| 2017-03-07 | 3期韓国女子連戦4回戦京畿湖畔-京畿SG | Cao Youyin | Kim Sinyoung | Win | B+R | 6.5 | 2524 | -5 | 
+| 2016-12-16 | 嫘祖杯第29期中国名人戦網選2回戦 | Chen Zijian | Cao Youyin | Lose | B+11.5 | 7.5 | 2529 | -20 | 
+| 2016-12-06 | 第4回中国女子囲碁甲級リーグ第18節 | Lu Jia | Cao Youyin | Lose | B+R | 7.5 | 2549 | -15 | 
+| 2016-12-05 | 第4回中国女子囲碁甲級リーグ第17節 | Cao Youyin | Rui Naiwei | Lose | W+2.5 | 7.5 | 2564 | -75 | 
+| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Lee Sedol | Cao Youyin | Lose | B+R | 7.5 | 2639 | -3 | 
+| 2016-11-02 | 第4回中国女子囲碁甲級リーグ第16節 | Song Ronghui | Cao Youyin | Lose | B+R | 7.5 | 2642 | -13 | 
+| 2016-10-29 | 第4回中国女子囲碁甲級リーグ第15節 | Cao Youyin | Wang Xiangyun | Win | B+R | 7.5 | 2655 | 4 | 
+| 2016-10-28 | 第4回中国女子囲碁甲級リーグ第14節 | Pan Yang | Cao Youyin | Win | W+R | 7.5 | 2651 | 3 | 
+| 2016-10-13 | 第4回中国女子囲碁甲級リーグ第13節 | Cao Youyin | Lu Minquan | Win | B+R | 7.5 | 2648 | -57 | 
+| 2016-09-20 | 2016年全国囲棋個人戦女子組第5戦 | Wang Shuang | Cao Youyin | Lose | B+R | 7.5 | 2705 | -12 | 
+| 2016-09-19 | 2016年全国囲棋個人戦女子組第4戦 |  | Cao Youyin | Win | W+R | 7.5 | 2717 | -18 | 
+| 2016-09-13 | 第4回中国女子囲碁甲級リーグ第12節 | Yu Zhiying | Cao Youyin | Lose | B+1.5 | 7.5 | 2735 | -40 | 
+| 2016-09-02 | 第4回中国女子囲碁甲級リーグ第10節 | Zhou Hongyu | Cao Youyin | Lose | B+R | 7.5 | 2775 | -75 | 
+| 2016-08-28 | 第14回建橋杯女子囲碁オープン戦予選 | Cao Youyin | Yin Qu | Lose | W+R | 7.5 | 2850 | 37 | 
+| 2016-08-14 | 第4回中国女子囲碁甲級リーグ第9節 | Cao Youyin | Lu Jia | Win | B+R | 7.5 | 2813 | -1 | 
+| 2016-07-12 | 第4回中国女子囲碁甲級リーグ第8節 | Rui Naiwei | Cao Youyin | Win | W+R | 7.5 | 2814 | 78 | 
+| 2016-07-05 | 第4回中国女子囲碁甲級リーグ第7節 | Cao Youyin | Gao Xing | Win | B+R | 7.5 | 2736 | 6 | 
+| 2016-07-04 | 第4回中国女子囲碁甲級リーグ第6節 | Cao Youyin | Wang Shuang | Win | B+R | 7.5 | 2730 | -34 | 
+| 2016-06-22 | 第4回中国女子囲碁甲級リーグ第5節 | Pan Yang | Cao Youyin | Win | W+R | 7.5 | 2764 | 99 | 
+| 2016-05-28 | 第1回新奥杯世界囲碁オープン戦予選 | Kim Cheayoung | Cao Youyin | Win | W+R | 7.5 | 2665 | 42 | 
+| 2016-05-22 | 第4回中国女子囲碁甲級リーグ第4節 | Lu Minquan | Cao Youyin | Lose | B+R | 7.5 | 2623 | -39 | 
+| 2016-05-11 | 第4回中国女子囲碁甲級リーグ第3節 | Cao Youyin | Yu Zhiying | Lose | W+R | 7.5 | 2662 | 5 | 
+| 2016-04-23 | 第4回中国女子囲碁甲級リーグ第2節 | Cai Bihan | Cao Youyin | Lose | B+R | 6.5 | 2657 | -9 | 
+| 2016-04-22 | 第4回中国女子囲碁甲級リーグ第1節 | Cao Youyin | Zhou Hongyu | Lose | W+R | 7.5 | 2666 | 6 | 
+| 2016-02-29 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Hei Jiajia | Cao Youyin | Lose | B+3.5 | 7.5 | 2660 | 0 | 
+| 2016-02-29 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Cao Youyin | Yu Jin | Win | B+R | 7.5 | 2660 | -32 | 
+| 2016-02-28 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Cao Youyin | Oh Yujin | Win | B+1.5 | 7.5 | 2692 | 25 | 
+| 2016-02-27 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Choi Jeong | Cao Youyin | Lose | B+R | 7.5 | 2667 | 0 | 
+| 2016-02-27 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Cao Youyin | Hoshiai Shiho | Win | B+R | 7.5 | 2667 | -24 | 
+| 2016-02-26 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Elvina Kalsberg | Cao Youyin | Win | W+R | 7.5 | 2691 | -94 | 
+| 2015-12-03 | 第3回中国女子囲碁甲級リーグ第18節 | Wang Chenxing | Cao Youyin | Lose | B+R | 7.5 | 2785 | 18 | 
+| 2015-12-02 | 第3回中国女子囲碁甲級リーグ第17節 | Cao Youyin | Zhou Hongyu | Win | B+R | 7.5 | 2767 | 21 | 
+| 2015-11-26 | 第3回中国女子囲碁甲級リーグ第16節 | Cao Youyin | Chen Yiming | Win | B+R | 7.5 | 2746 | 27 | 
+| 2015-11-19 | 第3回中国女子囲碁甲級リーグ第15節 | Li He | Cao Youyin | Lose | B+5.5 | 7.5 | 2719 | 0 | 
+| 2015-11-12 | 第3回中国女子囲碁甲級リーグ第14節 | Cao Youyin | Lu Jia | Win | B+R | 7.5 | 2719 | 18 | 
+| 2015-11-05 | 第3回中国女子囲碁甲級リーグ第13節 |  | Cao Youyin | Win | W+0.5 | 7.5 | 2701 | -40 | 
+| 2015-10-29 | 第3回中国女子囲碁甲級リーグ第12節 | Wang Shuang | Cao Youyin | Win | W+R | 7.5 | 2741 | 19 | 
+| 2015-10-28 | 第3回中国女子囲碁甲級リーグ第11節 | Gao Xing | Cao Youyin | Lose | B+R | 7.5 | 2722 | -29 | 
+| 2015-10-26 | 第13回建橋杯女子囲碁オープン戦2回戦 | Cao Youyin | Yu Zhiying | Lose | W+R | 7.5 | 2751 | -7 | 
+| 2015-10-25 | 第13回建橋杯女子囲碁オープン戦1回戦 | Tao Ran | Cao Youyin | Win | W+R | 7.5 | 2758 | 5 | 
+| 2015-10-15 | 第3回中国女子囲碁甲級リーグ第10節 | Cao Youyin | Rui Naiwei | Win | B+R | 7.5 | 2753 | -18 | 
+| 2015-09-24 | 第3回中国女子囲碁甲級リーグ第9節 | Cao Youyin | Yu Zhiying | Lose | W+R | 7.5 | 2771 | -3 | 
+| 2015-09-23 | 第3回中国女子囲碁甲級リーグ第8節 | Fan Weijing | Cao Youyin | Lose | B+1.5 | 7.5 | 2774 | -26 | 
+| 2015-09-03 | 第3回中国女子囲碁甲級リーグ第7節 | Chen Yiming | Cao Youyin | Win | W+R | 7.5 | 2800 | -30 | 
+| 2015-08-23 | 2015年全国囲棋個人戦女子組第3戦 | Lu Minquan | Cao Youyin | Win | W+R | 7.5 | 2830 | 38 | 
+| 2015-07-26 | 2015年中国段位戦 | Liao Yuanhe | Cao Youyin | Lose | B+R | 7.5 | 2792 | -6 | 
+| 2015-07-25 | 2015年中国段位戦 | Cao Youyin | Hu Yuhan | Lose | W+R | 7.5 | 2798 | 2 | 
+| 2015-07-04 | 第3回中国女子囲碁甲級リーグ第6節 | Cao Youyin | Li He | Lose | W+4.5 | 7.5 | 2796 | -4 | 
+| 2015-07-03 | 第3回中国女子囲碁甲級リーグ第5節 | Lu Jia | Cao Youyin | Win | W+R | 7.5 | 2800 | 0 | 
+| 2015-06-25 | 第3回中国女子囲碁甲級リーグ第4節 | Cao Youyin | Yuan Tingyu | Win | B+R | 7.5 | 2800 | -26 | 
+| 2015-06-04 | 第3回中国女子囲碁甲級リーグ第3節 | Wang Xiangyun | Cao Youyin | Lose | B+R | 7.5 | 2826 | -44 | 
+| 2015-05-02 | 第3回中国女子囲碁甲級リーグ第2節 | Cao Youyin | Song Ronghui | Win | B+3.5 | 7.5 | 2870 | 18 | 
+| 2015-05-01 | 第3回中国女子囲碁甲級リーグ第1節 | Rui Naiwei | Cao Youyin | Win | W+0.5 | 7.5 | 2852 | 98 | 
+| 2015-04-09 | 第5回黄竜士双登杯世界女子囲碁団体選手権第12戦 | Choi Jeong | Cao Youyin | Lose | B+R | 7.5 | 2754 | -103 | 
+| 2015-03-16 | 第12期倡棋杯中国プロ囲碁選手権戦予選 | Cao Youyin | Chen Zijian | Lose | W+R | 7.5 | 2857 | -80 | 
+| 2014-12-04 | 第12回建橋杯女子囲碁オープン戦決勝三番勝負第3局 | Chen Yiming | Cao Youyin | Win | W+2.5 | 7.5 | 2937 | 16 | 
+| 2014-12-03 | 第12回建橋杯女子囲碁オープン戦決勝三番勝負第2局 | Cao Youyin | Chen Yiming | Lose | W+4.5 | 7.5 | 2921 | -13 | 
+| 2014-12-01 | 第12回建橋杯女子囲碁オープン戦決勝三番勝負第1局 | Chen Yiming | Cao Youyin | Win | W+R | 7.5 | 2934 | 21 | 
+| 2014-11-29 | 第2回中国女子囲碁甲級リーグ第14節 | Yu Zhiying | Cao Youyin | Lose | B+R | 7.5 | 2913 | -7 | 
+| 2014-11-28 | 第2回中国女子囲碁甲級リーグ第13節 | Cao Youyin | Chen Yiming | Lose | W+R | 7.5 | 2920 | 96 | 
+| 2014-11-02 | 第1回おかげ杯国際精鋭囲碁対抗戦女流個人戦一位決定戦 | Cao Youyin | Park Jiyeon | Lose | W+R | 6.5 | 2824 | -18 | 
+| 2014-11-01 | 第1回おかげ杯国際精鋭囲碁対抗戦第2戦 | Cao Youyin | Xie Yimin | Win | B+R | 6.5 | 2842 | 0 | 
+| 2014-11-01 | 第1回おかげ杯国際精鋭囲碁対抗戦第1戦 | Park Jiyeon | Cao Youyin | Win | W+3.5 | 6.5 | 2842 | 37 | 
+| 2014-10-29 | 第2回中国女子囲碁甲級リーグ第12節 |  | Cao Youyin | Win | W+R | 7.5 | 2805 | 13 | 
+| 2014-10-12 | 第12回建橋杯女子囲碁オープン戦準決勝 | Cao Youyin | Fan Weijing | Win | B+R | 7.5 | 2792 | 16 | 
+| 2014-10-10 | 第12回建橋杯女子囲碁オープン戦2回戦 | Cai Bihan | Cao Youyin | Win | W+2.5 | 7.5 | 2776 | -24 | 
+| 2014-09-12 | 第2回中国女子囲碁甲級リーグ第11節 | Cao Youyin | Rui Naiwei | Lose | W+R | 7.5 | 2800 | 18 | 
+| 2014-08-31 | 第5回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Choi Jeong | Cao Youyin | Lose | B+R | 7.5 | 2782 | -61 | 
+| 2014-08-30 | 第5回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Kim Cheayoung | Cao Youyin | Win | W+R | 7.5 | 2843 | 73 | 
+| 2014-08-20 | 第2回中国女子囲碁甲級リーグ第10節 | Cao Youyin | Wang Xiangyun | Lose | W+R | 7.5 | 2770 | -18 | 
+| 2014-08-11 | 第2回中国女子囲碁甲級リーグ第9節 | Lu Jia | Cao Youyin | Win | W+10.5 | 7.5 | 2788 | 19 | 
+| 2014-08-10 | 第2回中国女子囲碁甲級リーグ第8節 | Cao Youyin | Gao Xing | Lose | W+R | 7.5 | 2769 | -29 | 
+| 2014-08-09 | 第2回中国女子囲碁甲級リーグ第7節 | Cao Youyin | Wang Chenxing | Lose | W+R | 7.5 | 2798 | -36 | 
+| 2014-07-13 | 第2回中国女子囲碁甲級リーグ第6節 | Chen Yiming | Cao Youyin | Lose | B+1.5 | 7.5 | 2834 | -40 | 
+| 2014-06-25 | 第6期中国竜星戦予選 | Cao Youyin | Meng Tailing | Lose | W+R | 7.5 | 2874 | -35 | 
+| 2014-06-18 | 第2回中国女子囲碁甲級リーグ第5節 | Cao Youyin |  | Win | B+R | 7.5 | 2909 | 6 | 
+| 2014-06-17 | 第2回中国女子囲碁甲級リーグ第4節 | Rui Naiwei | Cao Youyin | Lose | B+R | 7.5 | 2903 | 13 | 
+| 2014-06-16 | 第2回中国女子囲碁甲級リーグ第3節 | Cao Youyin | Wang Shuang | Lose | W+0.5 | 7.5 | 2890 | 40 | 
+| 2014-05-12 | 第2回中国女子囲碁甲級リーグ第2節 | Cao Youyin | Lu Jia | Lose | W+0.5 | 7.5 | 2850 | -15 | 
+| 2014-05-11 | 第2回中国女子囲碁甲級リーグ第1節 | Song Ronghui | Cao Youyin | Win | W+0.5 | 7.5 | 2865 | -58 | 
+| 2014-04-06 | 第4回黄竜士双登杯世界女子囲碁団体選手権第8戦 | Cao Youyin | Kim Hyeoimin | Lose | W+2.5 | 7.5 | 2923 | 40 | 
+| 2013-12-07 | 第1回中国女子囲碁甲級リーグ第14節 | Cao Youyin | Rui Naiwei | Lose | W+R | 7.5 | 2883 | -22 | 
+| 2013-12-06 | 第1回中国女子囲碁甲級リーグ第13節 | Yu Zhiying | Cao Youyin | Win | W+R | 7.5 | 2905 | 22 | 
+| 2013-12-05 | 第1回中国女子囲碁甲級リーグ第12節 | Cao Youyin | Zhang Xuan | Win | B+R | 7.5 | 2883 | 100 | 
+| 2013-11-13 | 第1回中国女子囲碁甲級リーグ第11節 | Li Yirong | Cao Youyin | Win | W+R | 7.5 | 2783 | 24 | 
+| 2013-11-12 | 第1回中国女子囲碁甲級リーグ第10節 | Cao Youyin | Chen Yiming | Lose | W+0.5 | 7.5 | 2759 | -40 | 
+| 2013-11-10 | 第1回中国女子囲碁甲級リーグ第9節 | Cao Youyin | Ye Gui | Win | B+1.5 | 7.5 | 2799 | 9 | 
+| 2013-11-09 | 第1回中国女子囲碁甲級リーグ第8節 | Wang Xiangyun | Cao Youyin | Win | W+R | 7.5 | 2790 | -55 | 
+| 2013-10-09 | 第11回建橋杯女子囲碁オープン戦予選 |  | Cao Youyin | Lose | B+1.5 | 7.5 | 2845 | -146 | 
+| 2013-09-01 | 第1回中国女子囲碁甲級リーグ第7節 | Rui Naiwei | Cao Youyin | Lose | B+R | 7.5 | 2991 | -70 | 
+| 2013-08-31 | 第1回中国女子囲碁甲級リーグ第6節 | Cao Youyin | Wang Chenxing | Win | B+R | 7.5 | 3061 | 51 | 
+| 2013-08-30 | 第1回中国女子囲碁甲級リーグ第5節 | Zhang Xuan | Cao Youyin | Lose | B+7.5 | 7.5 | 3010 | -55 | 
+| 2013-08-29 | 第1回中国女子囲碁甲級リーグ第4節 | Cao Youyin | Li Yirong | Win | B+R | 7.5 | 3065 | 9 | 
+| 2013-08-07 | 第18回三星火災杯統合予選女子枠決勝 | Oh Jeonga | Cao Youyin | Lose | B+0.5 | 6.5 | 3056 | 3 | 
+| 2013-07-27 | 2013年中国段位戦 | Cao Youyin |  | Lose | W+R | 7.5 | 3053 | 55 | 
+| 2013-06-26 | 第1回中国女子囲碁甲級リーグ第3節 | Zheng Yan | Cao Youyin | Win | W+R | 7.5 | 2998 | 37 | 
+| 2013-06-25 | 第1回中国女子囲碁甲級リーグ第2節 | Cao Youyin | Lu Jia | Lose | W+R | 7.5 | 2961 | -28 | 
+| 2013-06-24 | 第1回中国女子囲碁甲級リーグ第1節 | Cao Youyin | Li He | Win | B+R | 7.5 | 2989 | 45 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Li Kang | Cao Youyin | Win | W+2.5 | 7.5 | 2944 | 0 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 |  | Cao Youyin | Lose | B+R | 7.5 | 2944 | 307 | 
+| 2013-04-12 | 第2期全国女子囲碁国手戦予選 | Cao Youyin | Li Yirong | Lose | W+0.5 | 7.5 | 2637 | 51 | 
+| 2012-09-10 | 第10回建橋杯女子囲碁オープン戦2回戦 | Rui Naiwei | Cao Youyin | Lose | B+R | 7.5 | 2586 | -372 | 
+| 2012-08-15 | 第8回百霊杯アマ女子勝抜戦第8戦 | Bai Baoxiang | Cao Youyin | Lose | B+R | 7.5 | 2958 | -1 | 
+| 2012-08-14 | 第8回百霊杯アマ女子勝抜戦第7戦 | Cao Youyin | Wang Chen | Win | B+R | 7.5 | 2959 | 2 | 
+| 2012-07-06 | 第8回百霊杯アマ女子勝抜戦第6戦 | Dong Ming | Cao Youyin | Win | W+0.5 | 7.5 | 2957 | 134 | 
+| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Cao Youyin | Liu Xing | Lose | W+R | 7.5 | 2823 | 129 | 
+| 2011-12-05 | 第7回百霊杯元老女子勝抜戦第13戦 | Liu Xiaoguang | Cao Youyin | Lose | B+R | 7.5 | 2694 | 40 | 
+| 2011-10-24 | 第9回建橋杯女子囲碁オープン戦決勝三番勝負第2局 | Zhang Xuan | Cao Youyin | Lose | B+3.5 | 7.5 | 2654 | 24 | 
+| 2011-10-22 | 第9回建橋杯女子囲碁オープン戦決勝三番勝負第1局 | Cao Youyin | Zhang Xuan | Lose | W+R | 7.5 | 2630 | -76 | 
+| 2011-10-09 | 第2回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Cao Youyin | Xie Yimin | Lose | W+R | 7.5 | 2706 | -216 | 
+| 2011-09-11 | 第9回建橋杯女子囲碁オープン戦準決勝 | Li He | Cao Youyin | Win | W+16.5 | 7.5 | 2922 | 2922 | 
+| 2011-09-09 | 第9回建橋杯女子囲碁オープン戦1回戦 | Gao Xing | Cao Youyin | Win | W+2.5 | 7.5 | missing | -2814 | 
+| 2011-03-14 | 2011CCTV杯中国囲棋電視快棋戦1回戦 | Yin Hang | Cao Youyin | Lose | B+R | 7.5 | 2814 | 503 | 
+| 2010-09-06 | 第8回建橋杯女子囲碁オープン戦準決勝 | Cao Youyin | Wang Xiangyun | Lose | W+R | 7.5 | 2311 | -56 | 
+| 2010-09-05 | 第8回建橋杯女子囲碁オープン戦2回戦 | Yu Zhiying | Cao Youyin | Win | W+R | 7.5 | 2367 | 77 | 
+| 2010-09-04 | 第8回建橋杯女子囲碁オープン戦1回戦 | Cai Bihan | Cao Youyin | Win | W+R | 7.5 | 2290 | -84 | 
+| 2010-01-19 | 第24期中国囲碁天元戦予選 | Cao Youyin |  | Lose | W+0.5 | 7.5 | 2374 | -164 | 
+| 2009-12-23 | 第8回正官庄杯世界女子囲碁最強戦第8戦 | Kim Hyeoimin | Cao Youyin | Lose | B+1.5 | 6.5 | 2538 | -169 | 
+| 2009-12-22 | 第8回正官庄杯世界女子囲碁最強戦第7戦 | Cao Youyin | Umezawa Yukari | Win | B+R | 6.5 | 2707 | 21 | 
+| 2009-12-21 | 第8回正官庄杯世界女子囲碁最強戦第6戦 | Park Sohyun | Cao Youyin | Win | W+R | 6.5 | 2686 | 355 | 
+| 2009-09-06 | 第7回建橋杯女子囲碁オープン戦準決勝 | Lu Jia | Cao Youyin | Lose | B+3.5 | 7.5 | 2331 | -85 | 
+| 2009-09-04 | 第7回建橋杯女子囲碁オープン戦2回戦 | Cao Youyin | Song Ronghui | Win | B+1.5 | 7.5 | 2416 | 92 | 
+| 2009-03-03 | 第22期中国囲碁名人戦予選 | Cao Youyin |  | Lose | W+R | 7.5 | 2324 | -16 | 
+| 2008-12-02 | 第4回全国女子囲碁精英戦第5戦 | Cao Youyin | Li He | Lose | W+R | 7.5 | 2340 | -476 | 
+| 2008-10-08 | 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Cao Youyin | Mannami Kana | Lose | W+R | 6.5 | 2816 | -46 | 
+| 2008-10-07 | 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Cao Youyin | Hei Jiajia | Win | B+R | 6.5 | 2862 | 426 | 
+| 2008-06-23 | 第6回建橋杯女子囲碁オープン戦三位決定戦 | Cao Youyin | Song Ronghui | Win | B+R | 7.5 | 2436 | 36 | 
+| 2008-06-22 | 第6回建橋杯女子囲碁オープン戦準決勝 | Cao Youyin | Lu Jia | Lose | W+2.5 | 7.5 | 2400 | -32 | 
+| 2008-06-13 | 第4回百霊杯新老女子対抗戦第4戦 | Cao Youyin | Zhang Xuan | Win | B+R | 7.5 | 2432 | 89 | 
+| 2008-06-12 | 第4回百霊杯新老女子対抗戦第3戦 | Cao Youyin | Rui Naiwei | Lose | W+R | 7.5 | 2343 | -53 | 
+| 2008-06-11 | 第4回百霊杯新老女子対抗戦第2戦 | Cao Youyin | Ye Gui | Lose | W+R | 7.5 | 2396 | -39 | 
+| 2008-06-10 | 第4回百霊杯新老女子対抗戦第1戦 | Cao Youyin | Xu Ying | Win | B+R | 7.5 | 2435 | 316 | 
+| 2007-10-31 | 第1回遠洋地産杯世界女子プロオープン戦3回戦 | Rui Naiwei | Cao Youyin | Lose | B+R | 7.5 | 2119 | -6 | 
+| 2007-10-30 | 第1回遠洋地産杯世界女子プロオープン戦2回戦 | Li Chunhua | Cao Youyin | Win | W+R | 7.5 | 2125 | -9 | 
+| 2007-10-27 | 第5回建橋杯女子囲碁オープン戦三位決定戦 | Cao Youyin | Li He | Lose | W+0.5 | 7.5 | 2134 | -46 | 
+| 2007-10-26 | 第5回建橋杯女子囲碁オープン戦準決勝 | Cao Youyin | Zheng Yan | Lose | W+0.5 | 7.5 | 2180 | -39 | 
+| 2007-10-25 | 第5回建橋杯女子囲碁オープン戦2回戦 | Cao Youyin | Tang Yi | Win | B+R | 7.5 | 2219 | -219 | 
+| 2007-07-19 | 2007年中国段位戦 | Cao Youyin |  | Lose | W+R | 7.5 | 2438 | -21 | 
+| 2007-07-11 | 2007年中国段位戦 | Cao Youyin | Huang Jia | Win | B+R | 7.5 | 2459 | -59 | 
+| 2007-05-15 | 第3回全国女子囲碁精英戦2回戦 | Ye Gui | Cao Youyin | Lose | B+R | 7.5 | 2518 | 279 | 
+| 2007-03-09 | 第1期建橋杯女子新人王戦決勝三番勝負第3局 | Tang Yi | Cao Youyin | Win | W+6.5 | 7.5 | 2239 | -20 | 
+| 2007-03-08 | 第1期建橋杯女子新人王戦決勝三番勝負第2局 | Cao Youyin | Tang Yi | Lose | W+R | 7.5 | 2259 | -25 | 
+| 2007-03-06 | 第1期建橋杯女子新人王戦決勝三番勝負第1局 | Tang Yi | Cao Youyin | Win | W+R | 7.5 | 2284 | 52 | 
+| 2007-02-09 | 第1期建橋杯女子新人王戦敗者復活戦決勝 | Cao Youyin | Wang Pan | Win | B+R | 7.5 | 2232 | 0 | 
+| 2007-02-09 | 第1期建橋杯女子新人王戦敗者復活戦準決勝 | Cao Youyin | Wang Xiangyun | Win | B+R | 7.5 | 2232 | 53 | 
+| 2007-02-08 | 第1期建橋杯女子新人王戦勝者組決勝 | Cao Youyin | Tang Yi | Lose | W+R | 7.5 | 2179 | 0 | 
+| 2007-02-08 | 第1期建橋杯女子新人王戦勝者組準決勝 | Li He | Cao Youyin | Win | W+R | 7.5 | 2179 | 441 | 
+| 2006-11-28 | 第1回大理旅遊杯世界女子プロ囲碁選手権戦3回戦 | Cao Youyin | Kim Hyeoimin | Lose | W+R | 7.5 | 1738 | -106 | 
+| 2006-11-25 | 第1回大理旅遊杯世界女子プロ囲碁選手権戦1回戦 | Mannami Kana | Cao Youyin | Win | W+R | 7.5 | 1844 | 1844 | 
+| 2006-10-10 | 第2回百霊杯中国女子囲碁オープン戦予選 | Tang Li | Cao Youyin | Lose | B+R | 7.5 | missing | 0 | 
+| 2006-07-29 | 第4回建橋杯女子囲碁オープン戦予選 | Tang Yi | Cao Youyin | Lose | B+3.5 | 7.5 | missing | 0 | 
+| 2006-07-28 | 第4回建橋杯女子囲碁オープン戦予選 | Tang Ying | Cao Youyin | Win | W+R | 7.5 | missing | missing |
 
 
 

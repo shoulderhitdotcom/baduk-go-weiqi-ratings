@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-27 | 第26回三星火災杯中国予選 | Chen Zijian | Tuo Jiaxi | Win | W+R | 6.5 | 3555 | 7 | 
 | 2021-08-24 | 第12期中国竜星戦予選 |  | Tuo Jiaxi | Win | W+R | 7.5 | 3548 | -5 | 
 | 2021-08-23 | 第26回三星火災杯中国予選 | Tuo Jiaxi | Tong Mengcheng | Lose | W+R | 6.5 | 3553 | 29 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Tuo Jiaxi | Xie Erhao | Lose | W+R | 7.5 | 3524 | 18 | 

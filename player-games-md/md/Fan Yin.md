@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-27 | 第26回三星火災杯中国予選 | Fan Yin | Huang Yunsong | Win | B+R | 6.5 | 3448 | 15 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Fan Yin | Chen Zijian | Win | B+R | 7.5 | 3433 | 3433 | 
 | 2021-08-25 | 第26回三星火災杯中国予選 | Li Xuanhao | Fan Yin | Win | W+R | 6.5 | missing | 0 | 
 | 2021-08-20 | 第26回三星火災杯中国予選 | Tong Mengcheng | Fan Yin | Lose | B+2.5 | 6.5 | missing | -3344 | 

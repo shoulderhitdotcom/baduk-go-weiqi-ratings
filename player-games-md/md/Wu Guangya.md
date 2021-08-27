@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-27 | 第26回三星火災杯中国予選 | Wu Guangya | Li Xuanhao | Win | B+R | 6.5 | 3272 | -38 | 
 | 2021-08-18 | 第26回三星火災杯中国予選 | Chen Zijian | Wu Guangya | Lose | B+R | 6.5 | 3310 | 96 | 
 | 2021-08-13 | 第26回三星火災杯中国予選 | Lian Xiao | Wu Guangya | Lose | B+R | 6.5 | 3214 | -1 | 
 | 2021-08-13 | 第26回三星火災杯中国予選 | Lian Xiao | Wu Guangya | Lose | B+R | 6.5 | 3215 | 7 | 

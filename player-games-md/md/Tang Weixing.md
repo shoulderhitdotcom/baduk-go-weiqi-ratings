@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-27 | 第26回三星火災杯中国予選 | Tang Weixing | Tong Mengcheng | Win | B+1.5 | 6.5 | 3530 | 0 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Tang Weixing |  | Win | B+R | 7.5 | 3530 | -77 | 
 | 2021-08-18 | 第26回三星火災杯中国予選 | Tang Weixing | Lian Xiao | Lose | W+R | 6.5 | 3607 | 100 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Tang Weixing | Huang Yunsong | Lose | W+R | 6.5 | 3507 | 6 | 

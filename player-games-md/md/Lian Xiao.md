@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-27 | 第26回三星火災杯中国予選 | Lian Xiao | Xu Jiayang | Win | B+R | 6.5 | 3580 | 3580 | 
+| 2021-08-25 | 第26回三星火災杯中国予選 | Zhao Chenyu | Lian Xiao | Lose | B+R | 6.5 | missing | -3581 | 
 | 2021-08-23 | 第26回三星火災杯中国予選 | Lian Xiao | Ding Hao | Win | B+R | 6.5 | 3581 | 3581 | 
 | 2021-08-20 | 第26回三星火災杯中国予選 | Lian Xiao | Fan Tingyu | Win | B+R | 6.5 | missing | -3639 | 
 | 2021-08-18 | 第26回三星火災杯中国予選 | Tang Weixing | Lian Xiao | Win | W+R | 6.5 | 3639 | 116 | 

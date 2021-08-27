@@ -7,8 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-27 | 第12期中国竜星戦予選 | Fang Ruoxi | Li He | Lose | W+R | 7.5 | 2974 | -25 | 
 | 2021-08-19 | 第26回三星火災杯中国予選 | Fang Ruoxi | Li He | Lose | W+R | 6.5 | 2999 | 2999 | 
-| 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Cho Seungah | Fang Ruoxi | Win | W+R | 7.5 | missing | -2945 | 
+| 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 |  | Fang Ruoxi | Win | W+R | 7.5 | missing | -2945 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Fang Ruoxi | Rui Naiwei | Win | B+R | 7.5 | 2945 | 9 | 
 | 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Fang Ruoxi | Yin Mingming | Win | B+R | 7.5 | 2936 | -20 | 
 | 2021-06-10 | 第4回呉清源杯中国予選 | Fang Ruoxi |  | Win | B+R | 7.5 | 2956 | 14 | 

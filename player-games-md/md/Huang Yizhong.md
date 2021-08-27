@@ -5,298 +5,299 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第9期中国竜星戦予選 | Huang Yizhong | Meng Tailing | W+R | 2018-03-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IuStE7gpC6KG1t3zL7DXvQ%3D%3D) | 
-| 第3期洛陽白雲山杯中国棋聖戦入囲戦 | Huang Yizhong | Liu Qifeng | W+R | 2018-01-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XGgpJCgEGXpp3TD3FgsBpA%3D%3D) | 
-| 第3期洛陽白雲山杯中国棋聖戦予選甲組 | Wu Guangya | Huang Yizhong | W+R | 2017-12-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r3Epwc3WdwmL%2F5tOmBSmsg%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選3回戦 | Huang Yizhong | Qin Yuexin | W+R | 2016-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=42NLkPGwbSA4PZyEWxwlPw%3D%3D) | 
-| 第8期中国竜星戦予選 | Li Ang | Huang Yizhong | W+R | 2016-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HwgX9fiiBEkJv37o%2FE%2BhMw%3D%3D) | 
-| 2016年中国囲碁乙級リーグ | Huang Yizhong | An Dongxu | W+R | 2016-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EXvKjF6a4K9sPpuUE%2Fi82w%3D%3D) | 
-| 第18期阿含・桐山杯中国早碁オープン戦予選 | Xie He | Huang Yizhong | B+R | 2016-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YpaIQCjdJ%2B0piDwTUfUbzg%3D%3D) | 
-| 第7期中国竜星戦1回戦 | Huang Yizhong | Zhou Ruiyang | W+R | 2015-09-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TCSOPcMTSiemUp%2FAMh8neg%3D%3D) | 
-| 第7期中国竜星戦予選 | Huang Yizhong | Zhong Wenjing | B+R | 2015-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qT13B3rQ1%2BsoWPgkJ8Iu2w%3D%3D) | 
-| 第2回夢百合杯世界オープン戦1回戦 | Yu Zhiying | Huang Yizhong | B+7.5 | 2015-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iDAYzQ5X%2BPhVY3ngnUTsXg%3D%3D) | 
-| 第7期中国竜星戦予選 | Huang Yizhong | missing | B+R | 2015-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FBw1BPzDA7YIhmgNrfRmWg%3D%3D) | 
-| 第7期中国竜星戦予選 | missing | Huang Yizhong | W+R | 2015-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XHl4EkaA2DT07RHuzR%2FNbQ%3D%3D) | 
-| 第28期中国囲碁名人戦予選 | Mao Ruilong | Huang Yizhong | B+R | 2015-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q2iUchn4qfGUhIz%2FMsoiYg%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦予選 | Huang Yizhong | Zhang Tao | W+1 | 2015-03-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mZGit%2Fmsyj87UHFek2apTQ%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yizhong | Zhong Wenjing | W+R | 2014-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zSNMpR2WYy%2B%2BwVBK8jp1Dg%3D%3D) | 
-| 第27期中国囲碁名人戦予選 | Tao Xinran | Huang Yizhong | B+R | 2014-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hl4MzdM%2FQ6OuV0R5lBAJ1Q%3D%3D) | 
-| 第5期中国竜星戦予選 | Zhou Hexi | Huang Yizhong | B+R | 2013-09-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FsN2Jzr57Bv%2B5v5Bzk7tgw%3D%3D) | 
-| 第26期中国囲碁名人戦予選 | Huang Yizhong | Gu Lingyi | W+R | 2013-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H1zPAEzIHcmJrKA8HnF%2FXg%3D%3D) | 
-| 第26期中国囲碁名人戦予選 | Tong Mengcheng | Huang Yizhong | W+R | 2013-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pL%2Fn7xJc4TA4r%2FB%2FM8sdQQ%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第22節 | Huang Yizhong | Wang Xi | W+R | 2012-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lKAUrCubvOJa%2BYOJ8nsx2Q%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第17節 | Huang Yizhong | Ke Jie | W+R | 2012-10-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=maSj57SBofr7jGx47%2FI4pA%3D%3D) | 
-| 第4期中国竜星戦1回戦 | Zhou Heyang | Huang Yizhong | B+R | 2012-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E5g0xSYX82mfcjitM8vlHg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第11節 | Huang Yizhong | Gu Li | B+1.5 | 2012-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v0%2FLimaedxTdYgbpcVzYjg%3D%3D) | 
-| 2012CCTV杯中国囲棋電視快棋戦1回戦 | Tan Xiao | Huang Yizhong | B+R | 2012-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZbxydScuc9C3J8dyr7Aj6A%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第9節 | Huang Yizhong | Meng Tailing | W+R | 2012-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5h7AecV%2Bg6iCyI2Be9dKZg%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦予選 | Huang Yizhong | Zhu Yuanhao | W+R | 2012-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8eeH%2FE7BqXE2imXJDWrlwA%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第5節 | Huang Yizhong | Liu Xing | W+R | 2012-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mTPPNp01lrApK6pUMAS8XQ%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第3節 | Huang Yizhong | Niu Yutian | W+R | 2012-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fpvPtjJuqd4m%2BWgS7XH1Lw%3D%3D) | 
-| 第25期中国囲碁名人戦予選 | Huang Yizhong | Li He | W+0.5 | 2012-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xqtdUWELEkqXjDE2VwFQog%3D%3D) | 
-| 第25期中国囲碁名人戦予選 | Zhu Songli | Huang Yizhong | W+R | 2012-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vQCjPZLdHWORbsTKK3Tvtg%3D%3D) | 
-| 第26期中国囲碁天元戦予選 | Huang Yizhong | Peng Liyao | W+R | 2012-02-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VU6tbk9%2FAIwkWb6j3ahM%2FA%3D%3D) | 
-| 2011年中国囲碁乙級リーグ | missing | Huang Yizhong | B+3.5 | 2011-05-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fjKFjjXT9wmVmeu52AwNMg%3D%3D) | 
-| 2011CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yizhong | Mao Ruilong | W+R | 2011-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TOVdf50n80KW4Vt0Oa4yXA%3D%3D) | 
-| 第25期中国囲碁天元戦2回戦 | missing | Huang Yizhong | B+R | 2011-02-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3ZJGS5O7JpZIZrNFSvHbjA%3D%3D) | 
-| 第25期中国囲碁天元戦1回戦 | Kong Jie | Huang Yizhong | W+R | 2011-02-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q6Sq1nQsg%2BmYmbw1UYTcUA%3D%3D) | 
-| 第25期中国囲碁天元戦予選 | Huang Yizhong | Niu Yutian | B+R | 2011-02-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3wXyETeYxVibvO7V5Tisvg%3D%3D) | 
-| 第3期中国竜星戦1回戦 | Chang Hao | Huang Yizhong | W+R | 2011-01-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kbkL0AuVWZbI9zIQRDaGlA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第21節 | Huang Yizhong | Shi Yue | W+R | 2010-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hG9UUluiXiQUsL9W5O885Q%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第20節 | Huang Yizhong | Tang Weixing | B+R | 2010-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DEps0rgGjfqatWpk6Fjrig%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第19節 | Huang Yizhong | Wang Yuhui | B+7.5 | 2010-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ub5SnK13ctMFD%2B%2FLeGeiBg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第18節 | Jiang Weijie | Huang Yizhong | W+R | 2010-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hIy7jNnwtLqgYG7zU6x%2BqA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第17節 | Huang Yizhong | Shao Weigang | B+3.5 | 2010-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zswizNrE8beG%2B5ktLmhy%2BA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第11節 | Lee Yeongkyu | Huang Yizhong | B+9.5 | 2010-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iHCvqayoxYNqTuCVjQpQKQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第9節 | Huang Yizhong | Meng Tailing | W+8.5 | 2010-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nHTnZgoQ0lb110usONHjIQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第8節 | Huang Yizhong | Wang Haoyang | W+R | 2010-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gWsXs1QYsDP91rrmmBGJSw%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第7節 | Tao Xin | Huang Yizhong | W+R | 2010-06-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PNxplAqhi2%2FkHS9lJHFYdg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第5節 | missing | Huang Yizhong | B+R | 2010-05-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oQErMPhdipS5%2B0UPxjiDzA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第3節 | Xie He | Huang Yizhong | B+R | 2010-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K4zTto5ZX5vCrrY%2Bs7lZ%2Fg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第2節 | Huang Yizhong | Tan Xiao | W+R | 2010-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ou5XLa4P%2FyqQ0waMuttEeA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第1節 | Qiu Jun | Huang Yizhong | B+R | 2010-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l0GG4yfOU7TGQRSsMAbbsw%3D%3D) | 
-| 第23期中国囲碁名人戦予選 | Huang Yizhong | missing | W+R | 2010-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qyjdvd3zdXsmufyj9oQOtg%3D%3D) | 
-| 2010CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yizhong | Zhou Ruiyang | W+R | 2010-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SqmTdBQKGER9%2BlWdWscZoQ%3D%3D) | 
-| 第24期中国囲碁天元戦2回戦 | Huang Yizhong | Sun Tengyu | W+0.5 | 2010-01-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n5HpdHqUSY%2FkeE7fdOYP2w%3D%3D) | 
-| 第24期中国囲碁天元戦1回戦 | Huang Yizhong | Wang Xi | B+3.5 | 2010-01-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2QpLMTNln8nPFJblYmTt0A%3D%3D) | 
-| 第24期中国囲碁天元戦予選 | Huang Yizhong | Zhu Yuanhao | B+1.5 | 2010-01-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cjloHfApzYWJAKhivEYS%2FA%3D%3D) | 
-| 第10期リコー杯囲碁戦1回戦 | Huang Yizhong | Ke Jie | W+0.5 | 2009-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3%2Bdxqmk0kTts6J%2Bu1YDz%2Fg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第22節 | Huang Yizhong | Liao Xingwen | W+R | 2009-12-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lLbXscMMisvlOoiQ461bUQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第21節 | Huang Yizhong | missing | W+0.5 | 2009-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZANS%2FZg6ZoMCLFvZmW5DnA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第20節 | Huang Yizhong | Huang Chen | B+1.5 | 2009-12-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9sOrduT53iE8WwOAjdUPKQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第19節 | Gu Lingyi | Huang Yizhong | B+R | 2009-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0lMCjFhhNHAEBfS5xiPbcw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第18節 | Huang Yizhong | Zhong Wenjing | W+R | 2009-11-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BEOOwwjFwTwg3ilX47BueQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第17節 | Huang Yizhong | Yu Bin | W+0.5 | 2009-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yr%2FdpyPoPPEy1%2F%2BfDaFtMg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第14節 | Huang Yizhong | Zhu Yuanhao | B+R | 2009-10-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tnKvSaj8IAG%2FgI3Av2ljmA%3D%3D) | 
-| 第5期威孚房開杯棋王戦1回戦 | Huang Yizhong | Wang Lei (b) | W+4.5 | 2009-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6q5R73CCBBquhAbZwVJ4bw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第16節 | Wang Lei (s) | Huang Yizhong | B+9.5 | 2009-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eck%2F0j2tXeQUp2JOuo6P5Q%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第15節 | Huang Yizhong | Wang Yuhui | B+R | 2009-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m1c6h0on4Oe5Uw7XkvGcyQ%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ1回戦G3 | Heo Yongho | Huang Yizhong | B+R | 2009-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ydEolVXUsnJL%2FPRn%2FxDegQ%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ1回戦G2 | Zhou Junxun | Huang Yizhong | W+0.5 | 2009-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a5Pg%2FgBz3jeqCC5eB4sSuA%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ1回戦G1 | Huang Yizhong | Heo Yongho | W+R | 2009-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aaFyA80VmOu0i0FQN4bqIg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第13節 | Huang Yizhong | Shao Weigang | W+R | 2009-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lx4IIpcuWMIU5CM3GNC9pw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第12節 | Shi Yue | Huang Yizhong | B+R | 2009-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xNG0swP0GA89ZIAiInEqjA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第11節 | Huang Yizhong | Li Kang | B+R | 2009-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IjFKjqDVbTaheV3tUzDpBQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第10節 | Mao Ruilong | Huang Yizhong | W+R | 2009-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EGJoiJlJGz39eUL3oYLvgw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第9節 | Meng Tailing | Huang Yizhong | B+R | 2009-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pgdWMT5qZO0G%2BmMy4Zre0w%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | Peng Quan | Huang Yizhong | B+R | 2009-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cwMjx%2FYseC%2FJHEqNm1rn9A%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | Huang Yizhong | Li Jie | B+R | 2009-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OVAaHpnVbDlU7NEd5JwjeQ%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | Huang Yizhong | Li He | B+R | 2009-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UcjoKNpbx3Xoe53DfD%2BR5g%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第8節 | Lee Yeongkyu | Huang Yizhong | B+7.5 | 2009-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T%2BUsrbDU%2F%2BYKYfTqBEmA5Q%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第7節 | Huang Yizhong | missing | B+R | 2009-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nZY6pfCA18ZqwLsSJE54qA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第6節 | Wang Xi | Huang Yizhong | B+R | 2009-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iDGRd10XDcMB%2FkWhJqjG5g%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第5節 | Jiang Weijie | Huang Yizhong | B+3.5 | 2009-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hqWoDs6m%2FLOWzm51aSGt6Q%3D%3D) | 
-| 第6期倡棋杯中国プロ囲碁選手権戦1回戦 | Piao Wenyao | Huang Yizhong | B+5 | 2009-05-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UvmIHF3bewKBw8lGHDWkiA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第4節 | Huang Yizhong | Tuo Jiaxi | W+R | 2009-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dEFfg0ZgC7vjDt%2FVGqJxdQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第3節 | Qiu Jun | Huang Yizhong | B+5.5 | 2009-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VaEVEHfUOdk6nqbxeJyCbw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第2節 | Shao Weigang | Huang Yizhong | W+0.5 | 2009-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=36m32Ofehiy9xAzjcNLDUA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第1節 | Huang Yizhong | Piao Wenyao | W+R | 2009-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p8RskPBFQU5GFkjd0xemBg%3D%3D) | 
-| 第1回BCカード杯世界選手権4回戦 | Huang Yizhong | Cho Hanseung | W+6.5 | 2009-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3aBRccqE6iwgG27Z8Uy%2F1A%3D%3D) | 
-| 第22期中国囲碁名人戦2回戦 | Tuo Jiaxi | Huang Yizhong | B+9.5 | 2009-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=14y%2BlocitiNbeh%2BEUIolhQ%3D%3D) | 
-| 第1回BCカード杯世界選手権3回戦 | Paek Hongseok | Huang Yizhong | W+R | 2009-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BXWFwsDsHP09bFQ6LWfRjw%3D%3D) | 
-| 第1回BCカード杯世界選手権2回戦 | Huang Yizhong | Choi Cheolhan | B+R | 2009-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o8jrPJ63DftAZR06ghm0QQ%3D%3D) | 
-| 2009CCTV杯中国囲棋電視快棋戦2回戦 | Huang Yizhong | Sun Li | W+0.5 | 2009-02-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0g8iJ4Lo9Y0T%2B9ZSY68%2FmQ%3D%3D) | 
-| 第23期中国囲碁天元戦予選 | Zhu Yuanhao | Huang Yizhong | B+R | 2009-02-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qOXDtpAw6EZj62CH2BNNog%3D%3D) | 
-| 第9期リコー杯囲碁戦2回戦 | Huang Yizhong | Zhou Heyang | W+R | 2008-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ao2qEN%2FINUk4ZvIESjWKPg%3D%3D) | 
-| 第9期リコー杯囲碁戦1回戦 | Huang Yizhong | missing | B+R | 2008-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4v8pHyi5d0kGxFwP%2B1HW4g%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第21節 | Sun Li | Huang Yizhong | W+R | 2008-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZssCf%2FXVG50A%2B4LWoPGTXQ%3D%3D) | 
-| 第13回三星火災杯世界オープン囲碁選手権準決勝三番勝負第2局 | Huang Yizhong | Lee Sedol | W+R | 2008-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EUkjRaycT6POL4V9RF%2BEpA%3D%3D) | 
-| 第13回三星火災杯世界オープン囲碁選手権準決勝三番勝負第1局 | Lee Sedol | Huang Yizhong | B+0.5 | 2008-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ibGnmZxYr8Ne8INwPJLiNw%3D%3D) | 
-| 第7回春蘭杯世界囲碁選手権3回戦 | Huang Yizhong | Chang Hao | W+R | 2008-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4yIn5%2FDaDcm2Oa%2Fi4tq5yg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第19節 | Huang Yizhong | Chang Hao | B+R | 2008-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MOcDZT3DEbBi1e7XMkth%2FA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第18節 | Niu Yutian | Huang Yizhong | W+4.5 | 2008-11-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K1MtFhg0i4ZlE8suzT%2FoQA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第17節 | Li Jie | Huang Yizhong | W+R | 2008-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MeorlxAXIKyqlOvvzgibSQ%3D%3D) | 
-| 第13回三星火災杯世界オープン囲碁選手権3回戦 | Huang Yizhong | Wang Xi | B+1.5 | 2008-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hhk2az0i0YVMgi%2F97ef56Q%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第16節 | missing | Huang Yizhong | W+R | 2008-11-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xG3oQVEGzLpgYbmYn277gw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第15節 | Huang Yizhong | missing | W+0.5 | 2008-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FCKQSQM71HhWkscrxlWlOQ%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第14節 | Sun Tengyu | Huang Yizhong | W+R | 2008-11-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=86b4PCNcCSqIlMo2e5rr7A%3D%3D) | 
-| 第4期威孚房開杯棋王戦1回戦 | Huang Yizhong | Chang Hao | W+R | 2008-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ht7rSig39y82V7nvaLxx0g%3D%3D) | 
-| 第13回三星火災杯世界オープン囲碁選手権2回戦 | Huang Yizhong | Ding Wei | B+2.5 | 2008-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hwpOD9oZglqI6n%2BZMO7asA%3D%3D) | 
-| 第13回三星火災杯世界オープン囲碁選手権1回戦 | Hong Seongji | Huang Yizhong | W+R | 2008-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hTcoCd3DCdjPmprKU%2FEM6g%3D%3D) | 
-| 2008年中国段位戦 | Peng Quan | Huang Yizhong | W+0.5 | 2008-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tIohHhwCN1a09DcPxDo48Q%3D%3D) | 
-| 2008年中国段位戦 | Dong Yan | Huang Yizhong | W+0.5 | 2008-07-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y4oEXtvBIm0kgqhb4QsaQA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第13節 | Wang Xi | Huang Yizhong | B+R | 2008-07-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BxLm0ztnpDpgpcTRN3NJxw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第12節 | Huang Yizhong | Shao Weigang | W+R | 2008-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ovtnqT%2Bpx9deBtY8sTS4A%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第11節 | missing | Huang Yizhong | B+R | 2008-06-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4XU5kFpGBxfh5DzzsZzXuw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第10節 | Huang Yizhong | Wang Lei (b) | W+R | 2008-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YL1UbNRdbubYaLX%2B5A4uSQ%3D%3D) | 
-| 第2回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Piao Wenyao | Huang Yizhong | B+R | 2008-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nyI1XtQqInj7hW%2Bpt5jc7A%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第9節 | Wang Yao | Huang Yizhong | B+R | 2008-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7KvEYQgKvHinKNgpBT%2F2eQ%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第8節 | Huang Yizhong | Hu Yaoyu | W+2.5 | 2008-05-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c%2FZfbvBeMiw6ylXEx4BrSA%3D%3D) | 
-| 第5期倡棋杯中国プロ囲碁選手権戦2回戦 | Liu Xing | Huang Yizhong | B+3 | 2008-05-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VLeXiQmOMqnmFqR3Cd2oyA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第7節 | Huang Yizhong | missing | B+1.5 | 2008-05-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BpURbpONs12baZNIPYgFwQ%3D%3D) | 
-| 第5期倡棋杯中国プロ囲碁選手権戦1回戦 | Huang Yizhong | Wang Yao | B+R | 2008-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1kYJk3bR3EjlAiKTYX0%2BaA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第6節 | Peng Liyao | Huang Yizhong | W+R | 2008-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nGQErzCr4tg%2BQn4qg5lA6Q%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第5節 | Huang Yizhong | missing | W+0.5 | 2008-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OvKGbFdlAO9uyrguIqe8VQ%3D%3D) | 
-| 第13回LG杯予選 | Heo Yongho | Huang Yizhong | B+R | 2008-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x%2FP2dShcFaUYE%2FkYqtIhXg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第4節 | Pan Fei | Huang Yizhong | W+2.5 | 2008-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TRKUzQvr3MnSpu87lfeQQg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第3節 | Wang Yuhui | Huang Yizhong | W+R | 2008-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i1QC7lw6%2Fkyacd8%2BSqCpXw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第2節 | Huang Yizhong | Yu Bin | W+R | 2008-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BiIykHMm%2BEQ27uMWuc5wTQ%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第1節 | Zhou Heyang | Huang Yizhong | B+R | 2008-03-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mK%2FqSXR98mN1lxgjI23rww%3D%3D) | 
-| 第7回春蘭杯世界囲碁選手権2回戦 | Jimmy Cha | Huang Yizhong | W+4.5 | 2008-03-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xC0TTrfXHuByUGNUoqL1zg%3D%3D) | 
-| 第21期中国囲碁名人戦3回戦 | Huang Yizhong | Chang Hao | W+R | 2008-03-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zr7QpEWr4i%2FUo5cX8NbUMw%3D%3D) | 
-| 第21期中国囲碁名人戦2回戦 | Niu Yutian | Huang Yizhong | W+R | 2008-03-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6jf47MQ7hgIVlze4nD5u5A%3D%3D) | 
-| 第14期NEC杯囲碁戦予選 | Huang Yizhong | Zhu Yuanhao | W+R | 2008-02-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=385th0HfM1RsTzXXLWWGpA%3D%3D) | 
-| 第21期中国囲碁名人戦1回戦 | Wang Xi | Huang Yizhong | W+R | 2008-02-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kqh4j1j1WfYD1do8r5cqFg%3D%3D) | 
-| 第14期NEC杯囲碁戦予選 | Dong Yan | Huang Yizhong | W+0.5 | 2008-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jaO%2FvNGQ7PP7hdH6BUydVQ%3D%3D) | 
-| 第21期中国囲碁名人戦予選 | Pan Feng | Huang Yizhong | W+R | 2008-02-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YvY4J%2Bm9UyOrKc3ngmO4Hw%3D%3D) | 
-| 第21期中国囲碁名人戦予選 | Shi Yue | Huang Yizhong | W+R | 2008-02-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Cg1lwWJtWrpl4UBPGYRmw%3D%3D) | 
-| 第22期中国囲碁天元戦1回戦 | Huang Yizhong | Wang Xi | W+R | 2008-01-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9n0mPjNKXuY1L7Gy7GEXSw%3D%3D) | 
-| 2008CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yizhong | Chen Yaoye | W+R | 2007-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LjZwj37hCDGTESBFqcI%2BKA%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第22節 | Hu Yaoyu | Huang Yizhong | W+R | 2007-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3di4XcsL5xfUhfiv34LcnA%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第21節 | Shi Yue | Huang Yizhong | B+R | 2007-12-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CXQfv7XH6REbReOOmbznXg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第20節 | missing | Huang Yizhong | W+R | 2007-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hOMoVCt%2BGmlYGxKFlHcnEA%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第19節 | Huang Yizhong | Zhong Wenjing | W+R | 2007-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I3mjpLvye4YBlcLEmUN7Cw%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権準決勝三番勝負第2局 | Lee Sedol | Huang Yizhong | B+R | 2007-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xF1CRlRcAaRYZI2dh3M5nw%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権準決勝三番勝負第1局 | Huang Yizhong | Lee Sedol | W+2.5 | 2007-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MlvlAgyEjmYBnY3LA7Babg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第17節 | Huang Yizhong | Wang Xi | B+R | 2007-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E46oQSWw7ZxuHMNcHLe9Pw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第16節 | Xie He | Huang Yizhong | B+R | 2007-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5kfRGh8mQcQoNkH3CXVHZQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第15節 | Huang Yizhong | Dong Yan | B+1.5 | 2007-11-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F3hY5mWheOie8QpHDW1fDw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第14節 | Niu Yutian | Huang Yizhong | W+R | 2007-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KyaEMdywxo0k8c9qc1Yj%2Bw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第13節 | Huang Yizhong | Wang Yao | W+R | 2007-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dIF7wgimGenDL%2Bh%2FHq9X2w%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権3回戦 | Huang Yizhong | Hu Yaoyu | B+2.5 | 2007-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hjZ3ea8qY9ntpswh2olNNw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第12節 | Kong Jie | Huang Yizhong | B+3.5 | 2007-09-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v%2FSpT18u5Y6D0K6tEuir%2FQ%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権2回戦 | Huang Yizhong | Cho Hunhyun | B+7.5 | 2007-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k7hqGp5H1YB9OxN9C2kN7A%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権1回戦 | Huang Yizhong | Choi Cheolhan | B+3.5 | 2007-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oqlEQBrzrzwF3X0Co2nA%2Fg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第11節 | Huang Yizhong | Hu Yaoyu | B+R | 2007-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dr0bTbB2vxodLFvJPfxvTg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第10節 | Huang Yizhong | Shi Yue | W+R | 2007-08-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5zMyygC57wu2YjfaAtJ5jQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第9節 | Huang Yizhong | missing | B+R | 2007-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WFoXPrHvm%2FPGV2br3L3BhA%3D%3D) | 
-| 第4期倡棋杯中国プロ囲碁選手権戦予選 | Huang Yizhong | Tao Xinran | W+R | 2007-08-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K1C%2BeD6o5KZ9h7InDmSv3w%3D%3D) | 
-| 第12回三星火災杯予選決勝 | Huang Yizhong | Wang Yuhui | B+6.5 | 2007-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U6%2FUnufcuh0SwvSkm1ak2A%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第8節 | Pan Fei | Huang Yizhong | W+R | 2007-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A1agpE4XuN8B%2FU%2BMqvkBEQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第7節 | missing | Huang Yizhong | W+R | 2007-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RLEoivLlHKyGUBLwaH8mJw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第6節 | Huang Yizhong | Wang Xi | W+R | 2007-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tM1MWI5H3mwKSkc9iTnafw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第5節 | Zhou Ruiyang | Huang Yizhong | B+R | 2007-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SNn%2BSjglZjSX1GYCQ0ZYow%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第4節 | Huang Yizhong | missing | B+1.5 | 2007-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LwNAN3dWbhd%2B%2FYysMjBeaQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第3節 | Li Kang | Huang Yizhong | W+R | 2007-05-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SuA3HkhQkZmgOgD5c5lr4w%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第2節 | missing | Huang Yizhong | W+2.5 | 2007-05-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oOwygw51gRVtdkDofV3xMQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第1節 | Tuo Jiaxi | Huang Yizhong | W+R | 2007-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6CW5bfinlAKKZfK8qNic4A%3D%3D) | 
-| 第9期阿含・桐山杯中国早碁オープン戦予選 | Piao Wenyao | Huang Yizhong | B+R | 2007-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ap8ae5AXw1JHjys%2FuESY%2Bw%3D%3D) | 
-| 第9期阿含・桐山杯中国早碁オープン戦予選 | Huang Yizhong | Wang Yang | B+3.5 | 2007-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hiqb0QOCT4OdEVZrssjB8w%3D%3D) | 
-| 第20期中国囲碁名人戦2回戦 | Huang Yizhong | Chen Yaoye | W+R | 2007-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wur3MrHfaAuYb0d70vwymg%3D%3D) | 
-| 第20期中国囲碁名人戦1回戦 | Huang Yizhong | Luo Xihe | B+1.5 | 2007-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QuSgvX6nREgrxhJ3CsYSuA%3D%3D) | 
-| 第21期中国囲碁天元戦2回戦 | Huang Yizhong | Tao Xin | W+R | 2007-02-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tZ%2BKROYGor1r2YofHpcsGw%3D%3D) | 
-| 第13期NEC杯囲碁戦予選 | Luo Xihe | Huang Yizhong | B+R | 2007-01-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EZgVqmwhqspWDleptHfCsQ%3D%3D) | 
-| 第21期中国囲碁天元戦1回戦 | Huang Yizhong | Luo Xihe | B+1.5 | 2007-01-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N9RW66AsqgiGmYrsVdRB3w%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第22節 | Qiu Jun | Huang Yizhong | W+0.5 | 2006-12-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TUt0SrN%2Bjiy%2Bxb%2BAxxI63A%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第21節 | Chen Yaoye | Huang Yizhong | B+R | 2006-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eCaNn5INh780Wh7yIOTXMA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第20節 | Ma Xiaochun | Huang Yizhong | W+R | 2006-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NGV%2Fkh8qkBEQ1dy67elKGg%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第19節 | missing | Huang Yizhong | W+0.5 | 2006-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=60pu3Tw0EmAzLdlICfcmEg%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第18節 | Zhu Yuanhao | Huang Yizhong | B+R | 2006-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tnB7Ra75w2Vevl%2FNAAUvCg%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第17節 | Wang Xi | Huang Yizhong | W+R | 2006-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FgKR0T6Kv8yAS7av6IksNw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第16節 | Huang Yizhong | missing | W+R | 2006-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KMt9%2Behi9iA%2BTpPXbEenww%3D%3D) | 
-| 第12期NEC杯囲碁戦準決勝 | Huang Yizhong | Qiu Jun | W+6.5 | 2006-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D%2F5ZwNpjN0FeMU3GxHPO5Q%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第15節 | Huang Yizhong | Zhou Ruiyang | W+0.5 | 2006-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GdHjxyot5PkXgQ5iGAoVGg%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第14節 | missing | Huang Yizhong | B+R | 2006-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xd2Ztap31qSB4tzd53J98Q%3D%3D) | 
-| 第3期倡棋杯中国プロ囲碁選手権戦2回戦 | Tuo Jiaxi | Huang Yizhong | B+R | 2006-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AZ%2F3vL6QLWJ0u93AwHqx7Q%3D%3D) | 
-| 第3期倡棋杯中国プロ囲碁選手権戦1回戦 | Liu Xiaoguang | Huang Yizhong | W+3 | 2006-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tddy12r%2FZu5iaHhAvGtQrw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第13節 | Huang Yizhong | Wang Lei (b) | B+R | 2006-10-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rk6wi56ZLCT%2Bw0L1ZnivHg%3D%3D) | 
-| 第12期NEC杯囲碁戦2回戦 | Gu Li | Huang Yizhong | W+4.5 | 2006-10-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZJMjlYU35nUCh1dpfRy78Q%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第12節 | Zhu Yi | Huang Yizhong | W+R | 2006-10-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uaU9Qo1S7aJdM9LSFMcmmg%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第11節 | Huang Yizhong | missing | B+R | 2006-08-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lJ%2BsMS8bF5hhpTOjYLaTZA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第10節 | Hu Yaoyu | Huang Yizhong | W+0.5 | 2006-07-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7hNYA6Vz9FgXGJInEzhmvQ%3D%3D) | 
-| 2006CCTV杯中国囲棋電視快棋戦4回戦 | Huang Yizhong | Luo Xihe | W+0.5 | 2006-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xQw3d1bsngb766Bw29FxgA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第8節 | missing | Huang Yizhong | B+R | 2006-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZZVoTa4cT%2FQ3lAbnf5ALLA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第7節 | Tan Xiao | Huang Yizhong | B+1.5 | 2006-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ifwLAR3acPYrx4ssNh89ew%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第6節 | Huang Yizhong | Yu Bin | B+3.5 | 2006-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lAL%2BEtLj15rUu8902dhHlA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第5節 | Xie He | Huang Yizhong | B+21.5 | 2006-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vzdb%2Bo25QltKGpocnMmc9g%3D%3D) | 
-| 2006CCTV杯中国囲棋電視快棋戦3回戦 | Huang Yizhong | Wang Yuhui | B+1.5 | 2006-06-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BszJYkbosefmcjt%2FDFQxmg%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第4節 | Huang Yizhong | missing | W+R | 2006-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t33lE7ZCL5RjAnniE66F8g%3D%3D) | 
-| 第11回LG杯世界棋王戦1回戦 | Huang Yizhong | Lee Changho | W+3.5 | 2006-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7SDcvtqPEhogNZoQ3%2FRsUA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第3節 | Huang Yizhong | Ding Wei | W+R | 2006-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RPc21kEpF0EEkjtm%2FloxSA%3D%3D) | 
-| 第11回LG杯予選 | missing | Huang Yizhong | W+3.5 | 2006-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3oGSHltGWYMwBFrk4wU8vw%3D%3D) | 
-| 第12期NEC杯囲碁戦1回戦 | Huang Yizhong | Piao Wenyao | B+R | 2006-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ThARz3VI47q5Klr76%2F47Uw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第2節 | Piao Wenyao | Huang Yizhong | B+R | 2006-04-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UTIrHo89lvDdEdx1h%2BSBuw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第1節 | Huang Yizhong | On Sojin | B+R | 2006-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wi5Dv1%2B8vgN8Yhzfg%2BgCMQ%3D%3D) | 
-| 第19期中国囲碁名人戦予選 | Huang Yizhong | Shi Yue | W+R | 2006-03-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9ooRsqikWe9zgFRzv%2FbH6Q%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦中国選抜戦 | Chang Hao | Huang Yizhong | B+R | 2006-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BdCAJEGt2Ju%2FhXTErhe6PQ%3D%3D) | 
-| 2006CCTV杯中国囲棋電視快棋戦2回戦 | Peng Quan | Huang Yizhong | W+R | 2006-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CpooVm%2FxpPHzL8AYMlp8Dg%3D%3D) | 
-| 2006CCTV杯中国囲棋電視快棋戦1回戦 | Wu Zhaoyi | Huang Yizhong | W+R | 2006-01-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BeKvSpRicDWgXZi0oJBBdA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第22節 | Yin Hang | Huang Yizhong | W+R | 2005-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OAklCed1FI6enURdpfQjvg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第21節 | Huang Yizhong | missing | B+R | 2005-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9bj8gr8T%2BNp8lb7Cs4l32g%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第20節 | Chen Yaoye | Huang Yizhong | B+1.5 | 2005-12-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=thwkQNb8UzTEaxmABNTfjw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第19節 | Huang Yizhong | Wang Xi | W+R | 2005-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fApxkrCxE6cPwE%2FtKOnlDQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第18節 | Gu Lingyi | Huang Yizhong | W+R | 2005-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8uP%2Bp3RmCwg6LljbGp0GHQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第17節 | Huang Yizhong | Wang Haoyang | W+R | 2005-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5QXN0lRIVRFGzkWqMdF39Q%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第16節 | Shao Weigang | Huang Yizhong | W+R | 2005-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G0a0Ei%2B8UxUWimhlvRyDkA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第15節 | Huang Yizhong | Nie Weiping | B+R | 2005-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4HvSjGw2dXhwC2CrvPTE%2Bg%3D%3D) | 
-| 第2期倡棋杯中国プロ囲碁選手権戦1回戦 | Huang Yizhong | Gu Li | W+R | 2005-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9I9apzQtYnpJwUEmLodxtw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第13節 | missing | Huang Yizhong | W+R | 2005-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Brh%2FCyxRkmLM3GlumJQCfw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第12節 | Chang Hao | Huang Yizhong | B+R | 2005-10-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ph2kRe8J9%2BSbbOAa9HumBA%3D%3D) | 
-| 第10回三星火災杯予選決勝 | Huang Yizhong | Yun Junsang | W+4.5 | 2005-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ede7rVRBKkn4HPYMHxGlxw%3D%3D) | 
-| 第10回三星火災杯予選2回戦 | Huang Yizhong | Ding Wei | B+R | 2005-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D799u7HIiawhusCaNm%2Bddg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第11節 | Huang Yizhong | Ding Wei | B+R | 2005-08-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4HmMU89L%2FZzZ4k%2B7EZbV0w%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第10節 | Huang Yizhong | Kim Seungjun | B+R | 2005-08-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bo%2FXwcxm%2FwMj%2FMA9EHsJiA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第9節 | Huang Yizhong | Wang Yang | B+R | 2005-08-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=egNpKnBggkK91ANshVFaNA%3D%3D) | 
-| 2005年中国段位戦 | Peng Quan | Huang Yizhong | W+R | 2005-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ec02tOahd5bVNfGj8Udd2g%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第8節 | Huang Yizhong | Wang Xi | W+4.5 | 2005-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fMFdOrYkKhUhrd0KpgmaHQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第7節 | Zhu Yuanhao | Huang Yizhong | W+R | 2005-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y70AqhjTcdgZQzNzFjK0mA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第6節 | missing | Huang Yizhong | B+R | 2005-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ni2SDfBBlktB7wDx1HLBCA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第5節 | Wang Lei (b) | Huang Yizhong | B+1.5 | 2005-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fgWmqDUKL8bTD7LYTgtKcg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第4節 | Huang Yizhong | Yu Bin | B+5.5 | 2005-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RYgrwpivszuNy%2F3JzinGew%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第3節 | Zhou Junxun | Huang Yizhong | W+R | 2005-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Nw3eCDfsyaffjZ3oJQvbQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第2節 | Huang Yizhong | Piao Wenyao | W+R | 2005-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z6YP9EryiIF7pEm8uxWJZw%3D%3D) | 
-| 第18期中国囲碁名人戦予選 | Chen Yaoye | Huang Yizhong | W+0.5 | 2005-04-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0yiB30SRIj%2BTj2%2B%2FT%2FfWfw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第1節 | Hu Yaoyu | Huang Yizhong | W+R | 2005-04-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lRdbPoIiVTpGGo069%2B6DNw%3D%3D) | 
-| 第19期中国囲碁天元戦1回戦 | Huang Yizhong | Wang Xi | W+R | 2005-01-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=El6ZhTPMYPGsAelB2sJXCg%3D%3D) | 
-| 第19期中国囲碁天元戦予選 | Shi Yue | Huang Yizhong | W+R | 2005-01-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U8Cg7x23DK3TuBnpj%2F6CkA%3D%3D) | 
-| 第5期リコー杯囲碁戦3回戦 | Huang Yizhong | Chang Hao | W+0.5 | 2005-01-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pd%2FAtk49c9lzCDklr0hZ0A%3D%3D) | 
-| 第5期リコー杯囲碁戦2回戦 | Liu Xing | Huang Yizhong | W+R | 2004-12-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nqdN7r1oUHVIo%2FFK4xGGpQ%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第22節 | Huang Yizhong | missing | B+R | 2004-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eNTfBoXB0kzjPfhPzK%2FvPQ%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第21節 | missing | Huang Yizhong | W+4.5 | 2004-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2v0z1xacuY1zwKc1VwHOlw%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第18節 | Kong Jie | Huang Yizhong | W+R | 2004-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hrhvw1yH2PyknyzYUQ7u0g%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第17節 | Huang Yizhong | Wang Lei (b) | W+R | 2004-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yk6u3Ad7U%2B80X%2FwJSwnCpA%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第16節 | Chang Hao | Huang Yizhong | W+R | 2004-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hHGwNMPPTTAc%2Bz28QYT4Ng%3D%3D) | 
-| 第1期倡棋杯中国プロ囲碁選手権戦1回戦 | Wang Lei (s) | Huang Yizhong | W+R | 2004-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BhPPZ8zQUb7hAFXoGhktbg%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第14節 | Huang Yizhong | Ma Xiaochun | B+3.5 | 2004-10-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HW8WMz5qAFQKbwpLxHcDow%3D%3D) | 
-| 第9回三星火災杯予選3回戦 | Kim Kangkeun | Huang Yizhong | W+0.5 | 2004-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pH560RYiyGG02E7XpTUx1A%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第10節 | Nie Weiping | Huang Yizhong | B+1.5 | 2004-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5lpO%2BmUam%2BdfiRos9qfntQ%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第9節 | missing | Huang Yizhong | B+R | 2004-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZaaTp66DPnJZiMPTz7btjA%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第6節 | Huang Yizhong | Wang Lei (b) | B+R | 2004-05-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=odD1fBhxuQMA1axZtmLNpQ%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第3節 | Huang Yizhong | Yoo Changhyuk | B+9.5 | 2004-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZAM0Sy3B6emvV9Kd6S8WwQ%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第2節 | Huang Yizhong | missing | B+1.5 | 2004-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LUsXuTk5KbqVakR8XWUdUQ%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第22節 | Li Zhe | Huang Yizhong | B+3.5 | 2003-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=faY2rwVjq868K8wC876kIA%3D%3D) | 
-| 第4期リコー杯囲碁戦1回戦 | Huang Yizhong | missing | B+T | 2003-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7zXUAo8GeuwjN3Sl%2FiInuQ%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第17節 | Liu Shizhen | Huang Yizhong | B+5.5 | 2003-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LO%2B1uIxCVXsBmDurwFPqQQ%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第16節 | Huang Yizhong | Dong Yan | W+2.5 | 2003-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NOgN7TT00kDPP53LAs4S%2Bg%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第15節 | Wang Xi | Huang Yizhong | B+R | 2003-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WaDFEM6c8vafplIO7Rr3FA%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第14節 | missing | Huang Yizhong | B+R | 2003-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m3OWEKOydN69hLlf9NtLnQ%3D%3D) | 
-| 2003年全国囲棋個人戦男子組 | Huang Yizhong | Luo Xihe | B+1.5 | 2003-09-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bn2FWagRYQYp5bEE35kaEQ%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第10節 | Huang Yizhong | Zhu Songli | W+2.5 | 2003-09-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0mthtkjqs9MVOCkiIn8v6w%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第9節 | Huang Yizhong | Kong Jie | W+14.5 | 2003-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7tkrwouvy6e8aglquq%2FCPg%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第11節 | Jing Shi | Huang Yizhong | B+7.5 | 2003-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FJr1LnhKAHBphXe8u8QFoA%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第7節 | Huang Yizhong | Li Jie | W+R | 2003-08-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7ni5QdAEgcGmOTkQQr7Osw%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第6節 | Huang Yizhong | Hu Yaoyu | W+10.5 | 2003-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ezDk0w%2B8BVBFPi%2BPZvm3DQ%3D%3D) | 
-| 第16回世界囲碁選手権富士通杯1回戦 | Huang Yizhong | Kobayashi Satoru | W+R | 2003-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dil8X2%2FqjkBZyj2S2WIbxw%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第1節 | Huang Yizhong | Ma Xiaochun | B+3.5 | 2003-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a3gnoqn1TEaD8CyMxl4bSg%3D%3D) | 
-| 第17期中国囲碁天元戦挑戦手合三番勝負第3局 | Huang Yizhong | Gu Li | W+R | 2003-03-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EJj5Csjn53M%2FmQo1nTKxUA%3D%3D) | 
-| 第17期中国囲碁天元戦挑戦手合三番勝負第2局 | Gu Li | Huang Yizhong | W+R | 2003-03-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mRpUQuC0TEZRfqFwBkLnVw%3D%3D) | 
-| 第17期中国囲碁天元戦挑戦手合三番勝負第1局 | Huang Yizhong | Gu Li | W+R | 2003-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v3Eb3bcPRXSdyIYMU0amLg%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第21節 | Huang Yizhong | Nie Weiping | W+16.5 | 2002-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TRKRjudLpJ4xRjy7jvv3gA%3D%3D) | 
-| 第4期阿含・桐山杯中国早碁オープン戦決勝 | Huang Yizhong | Yu Bin | W+R | 2002-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R%2FHc2dL5rxWH0IMu3Ei1Vw%3D%3D) | 
-| 第4期阿含・桐山杯中国早碁オープン戦準決勝 | Huang Yizhong | Zhou Heyang | B+R | 2002-10-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eN0hC523BhxtCWJIgNKf4A%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第14節 | missing | Huang Yizhong | W+R | 2002-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8ZtCoaF%2BrLWKZneFHzEh4g%3D%3D) | 
-| 2002年国際新鋭囲碁対抗戦第3戦 | Huang Yizhong | An Younggil | B+4.5 | 2002-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n0pDZ9SENfTPL1oRXKdYlg%3D%3D) | 
-| 2002年全国囲棋個人戦男子組第10戦 | Huang Yizhong | Peng Quan | W+2.5 | 2002-09-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S%2F0u4E74YTW21c4BhcTUxA%3D%3D) | 
-| 2002年全国囲棋個人戦男子組第8戦 | Huang Yizhong | Gu Li | B+1.5 | 2002-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GoTlNXTKdNEqol%2By3oMwyg%3D%3D) | 
-| 2002年全国囲棋個人戦男子組第1戦 | Huang Yizhong | Dong Yan | W+0.5 | 2002-09-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rfzQ0gbfy%2BjYQby5RxHR7g%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第12節 | Wang Yang | Huang Yizhong | W+2.5 | 2002-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nl3W7cnJF%2BphD3zSthygtA%3D%3D) | 
-| 第6回中韓天元対抗戦第3局 | Huang Yizhong | Park Yeonghun | W+6.5 | 2002-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F8SLpz19FIFysPwf8wpnPQ%3D%3D) | 
-| 第6回中韓天元対抗戦第2局 | Park Yeonghun | Huang Yizhong | W+R | 2002-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hJi4ntf171XCDl1aBNFb3A%3D%3D) | 
-| 第6回中韓天元対抗戦第1局 | Huang Yizhong | Park Yeonghun | W+R | 2002-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GuPV1Acu1xOq7G2UDbuTMg%3D%3D) | 
-| 第4期阿含・桐山杯中国早碁オープン戦2回戦 | Liu Jing | Huang Yizhong | W+6.5 | 2002-08-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E0q9SBEzhAvuI86%2F4v7Xrw%3D%3D) | 
-| 第4回農心杯中国選抜戦 | Huang Yizhong | Gu Li | W+4.5 | 2002-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4heBisvFPXlvo8O51T81AQ%3D%3D) | 
-| 第4期阿含・桐山杯中国早碁オープン戦1回戦 | Chen Yaoye | Huang Yizhong | W+R | 2002-08-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=og%2BoqFPKhLrkMLNoiMWD1g%3D%3D) | 
-| 2002年中国段位戦 | Huang Yizhong | Li Liang | B+R | 2002-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RCzzXIZB%2FxOTb6G9%2Bakp%2FA%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第1節 | Huang Yizhong | Zhang Wendong | B+R | 2002-04-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JBWmQig%2BhxUK0PPAT6EdIA%3D%3D) | 
-| 第15期中国囲碁名人戦1回戦 | Huang Yizhong | Zhu Songli | W+R | 2002-03-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3GrLVYgaYTNkq1kJnNUNNg%3D%3D) | 
-| 第16期中国囲碁天元戦挑戦手合三番勝負第2局 | Chang Hao | Huang Yizhong | W+R | 2002-03-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oRKQS6E6dIr%2FUqqzNh1FLA%3D%3D) | 
-| 第16期中国囲碁天元戦挑戦手合三番勝負第1局 | Huang Yizhong | Chang Hao | B+R | 2002-03-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XFPs96aV1Rkr86Z8TANxBg%3D%3D) | 
-| 第16期中国囲碁天元戦挑戦者決定戦 | Wang Lei (b) | Huang Yizhong | W+0.5 | 2002-02-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NKPmFdsXo8Jjt8tPEcontQ%3D%3D) | 
-| 第16期中国囲碁天元戦準決勝 | Dong Yan | Huang Yizhong | W+0.5 | 2002-02-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wju8gUrAKRiQ9WHQLsZHEg%3D%3D) | 
-| 第16期中国囲碁天元戦3回戦 | Huang Yizhong | Zhou Heyang | B+3.5 | 2002-01-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UaVuUxJWeS2DYaUpOl0cuw%3D%3D) | 
-| 第16期中国囲碁天元戦2回戦 | Liu Shizhen | Huang Yizhong | W+0.5 | 2002-01-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V3AR0DEOt2SRBn1GVMxRjw%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-27 | 第12期中国竜星戦予選 | Huang Yizhong |  | Win | B+R | 7.5 | missing | -3128 | 
+| 2018-03-06 | 第9期中国竜星戦予選 | Huang Yizhong | Meng Tailing | Lose | W+R | 7.5 | 3128 | 5 | 
+| 2018-01-05 | 第3期洛陽白雲山杯中国棋聖戦入囲戦 | Huang Yizhong | Liu Qifeng | Lose | W+R | 7.5 | 3123 | 49 | 
+| 2017-12-05 | 第3期洛陽白雲山杯中国棋聖戦予選甲組 | Wu Guangya | Huang Yizhong | Win | W+R | 7.5 | 3074 | 3074 | 
+| 2016-12-17 | 嫘祖杯第29期中国名人戦網選3回戦 | Huang Yizhong | Qin Yuexin | Lose | W+R | 7.5 | missing | 0 | 
+| 2016-10-25 | 第8期中国竜星戦予選 | Li Ang | Huang Yizhong | Win | W+R | 7.5 | missing | -3030 | 
+| 2016-06-16 | 2016年中国囲碁乙級リーグ | Huang Yizhong | An Dongxu | Lose | W+R | 7.5 | 3030 | -2 | 
+| 2016-05-07 | 第18期阿含・桐山杯中国早碁オープン戦予選 | Xie He | Huang Yizhong | Lose | B+R | 7.5 | 3032 | 50 | 
+| 2015-09-27 | 第7期中国竜星戦1回戦 | Huang Yizhong | Zhou Ruiyang | Lose | W+R | 7.5 | 2982 | -67 | 
+| 2015-07-29 | 第7期中国竜星戦予選 | Huang Yizhong | Zhong Wenjing | Win | B+R | 7.5 | 3049 | 68 | 
+| 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Yu Zhiying | Huang Yizhong | Lose | B+7.5 | 7.5 | 2981 | -122 | 
+| 2015-07-01 | 第7期中国竜星戦予選 | Huang Yizhong |  | Win | B+R | 7.5 | 3103 | 75 | 
+| 2015-06-28 | 第7期中国竜星戦予選 |  | Huang Yizhong | Win | W+R | 7.5 | 3028 | 3028 | 
+| 2015-05-03 | 第28期中国囲碁名人戦予選 | Mao Ruilong | Huang Yizhong | Lose | B+R | 7.5 | missing | 0 | 
+| 2015-03-21 | 第12期倡棋杯中国プロ囲碁選手権戦予選 | Huang Yizhong | Zhang Tao | Lose | W+1 | 7.5 | missing | 0 | 
+| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yizhong | Zhong Wenjing | Lose | W+R | 7.5 | missing | -3117 | 
+| 2014-04-01 | 第27期中国囲碁名人戦予選 | Tao Xinran | Huang Yizhong | Lose | B+R | 7.5 | 3117 | -80 | 
+| 2013-09-09 | 第5期中国竜星戦予選 | Zhou Hexi | Huang Yizhong | Lose | B+R | 7.5 | 3197 | 201 | 
+| 2013-04-11 | 第26期中国囲碁名人戦予選 | Huang Yizhong | Gu Lingyi | Lose | W+R | 7.5 | 2996 | -16 | 
+| 2013-04-10 | 第26期中国囲碁名人戦予選 | Tong Mengcheng | Huang Yizhong | Win | W+R | 7.5 | 3012 | 150 | 
+| 2012-12-08 | 第14回中国囲碁甲級リーグ第22節 | Huang Yizhong | Wang Xi | Lose | W+R | 7.5 | 2862 | -174 | 
+| 2012-10-21 | 第14回中国囲碁甲級リーグ第17節 | Huang Yizhong | Ke Jie | Lose | W+R | 7.5 | 3036 | -11 | 
+| 2012-10-17 | 第4期中国竜星戦1回戦 | Zhou Heyang | Huang Yizhong | Lose | B+R | 7.5 | 3047 | 12 | 
+| 2012-07-15 | 第14回中国囲碁甲級リーグ第11節 | Huang Yizhong | Gu Li | Win | B+1.5 | 7.5 | 3035 | 3035 | 
+| 2012-07-09 | 2012CCTV杯中国囲棋電視快棋戦1回戦 | Tan Xiao | Huang Yizhong | Lose | B+R | 7.5 | missing | 0 | 
+| 2012-07-07 | 第14回中国囲碁甲級リーグ第9節 | Huang Yizhong | Meng Tailing | Lose | W+R | 7.5 | missing | 0 | 
+| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Huang Yizhong | Zhu Yuanhao | Lose | W+R | 7.5 | missing | 0 | 
+| 2012-06-09 | 第14回中国囲碁甲級リーグ第5節 | Huang Yizhong | Liu Xing | Lose | W+R | 7.5 | missing | 0 | 
+| 2012-05-07 | 第14回中国囲碁甲級リーグ第3節 | Huang Yizhong | Niu Yutian | Lose | W+R | 7.5 | missing | 0 | 
+| 2012-04-03 | 第25期中国囲碁名人戦予選 | Huang Yizhong | Li He | Lose | W+0.5 | 7.5 | missing | 0 | 
+| 2012-04-02 | 第25期中国囲碁名人戦予選 | Zhu Songli | Huang Yizhong | Win | W+R | 7.5 | missing | -3451 | 
+| 2012-02-09 | 第26期中国囲碁天元戦予選 | Huang Yizhong | Peng Liyao | Lose | W+R | 7.5 | 3451 | 186 | 
+| 2011-05-13 | 2011年中国囲碁乙級リーグ |  | Huang Yizhong | Lose | B+3.5 | 7.5 | 3265 | -88 | 
+| 2011-03-14 | 2011CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yizhong | Mao Ruilong | Lose | W+R | 7.5 | 3353 | 64 | 
+| 2011-02-15 | 第25期中国囲碁天元戦2回戦 |  | Huang Yizhong | Lose | B+R | 7.5 | 3289 | 8 | 
+| 2011-02-13 | 第25期中国囲碁天元戦1回戦 | Kong Jie | Huang Yizhong | Win | W+R | 7.5 | 3281 | 31 | 
+| 2011-02-12 | 第25期中国囲碁天元戦予選 | Huang Yizhong | Niu Yutian | Win | B+R | 7.5 | 3250 | 92 | 
+| 2011-01-16 | 第3期中国竜星戦1回戦 | Chang Hao | Huang Yizhong | Win | W+R | 7.5 | 3158 | 190 | 
+| 2010-12-11 | 第12回中国囲碁甲級リーグ第21節 | Huang Yizhong | Shi Yue | Lose | W+R | 7.5 | 2968 | 14 | 
+| 2010-12-04 | 第12回中国囲碁甲級リーグ第20節 | Huang Yizhong | Tang Weixing | Win | B+R | 7.5 | 2954 | -25 | 
+| 2010-11-16 | 第12回中国囲碁甲級リーグ第19節 | Huang Yizhong | Wang Yuhui | Win | B+7.5 | 7.5 | 2979 | 31 | 
+| 2010-11-04 | 第12回中国囲碁甲級リーグ第18節 | Jiang Weijie | Huang Yizhong | Win | W+R | 7.5 | 2948 | 41 | 
+| 2010-10-30 | 第12回中国囲碁甲級リーグ第17節 | Huang Yizhong | Shao Weigang | Win | B+3.5 | 7.5 | 2907 | 96 | 
+| 2010-07-15 | 第12回中国囲碁甲級リーグ第11節 | Lee Yeongkyu | Huang Yizhong | Lose | B+9.5 | 7.5 | 2811 | -73 | 
+| 2010-07-03 | 第12回中国囲碁甲級リーグ第9節 | Huang Yizhong | Meng Tailing | Lose | W+8.5 | 7.5 | 2884 | -17 | 
+| 2010-06-19 | 第12回中国囲碁甲級リーグ第8節 | Huang Yizhong | Wang Haoyang | Lose | W+R | 7.5 | 2901 | 52 | 
+| 2010-06-12 | 第12回中国囲碁甲級リーグ第7節 | Tao Xin | Huang Yizhong | Win | W+R | 7.5 | 2849 | -3 | 
+| 2010-05-29 | 第12回中国囲碁甲級リーグ第5節 |  | Huang Yizhong | Lose | B+R | 7.5 | 2852 | 84 | 
+| 2010-05-08 | 第12回中国囲碁甲級リーグ第3節 | Xie He | Huang Yizhong | Lose | B+R | 7.5 | 2768 | -24 | 
+| 2010-04-29 | 第12回中国囲碁甲級リーグ第2節 | Huang Yizhong | Tan Xiao | Lose | W+R | 7.5 | 2792 | 13 | 
+| 2010-04-25 | 第12回中国囲碁甲級リーグ第1節 | Qiu Jun | Huang Yizhong | Lose | B+R | 7.5 | 2779 | -4 | 
+| 2010-03-30 | 第23期中国囲碁名人戦予選 | Huang Yizhong |  | Lose | W+R | 7.5 | 2783 | -120 | 
+| 2010-03-04 | 2010CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yizhong | Zhou Ruiyang | Lose | W+R | 7.5 | 2903 | 105 | 
+| 2010-01-29 | 第24期中国囲碁天元戦2回戦 | Huang Yizhong | Sun Tengyu | Lose | W+0.5 | 7.5 | 2798 | -15 | 
+| 2010-01-27 | 第24期中国囲碁天元戦1回戦 | Huang Yizhong | Wang Xi | Win | B+3.5 | 7.5 | 2813 | 21 | 
+| 2010-01-26 | 第24期中国囲碁天元戦予選 | Huang Yizhong | Zhu Yuanhao | Win | B+1.5 | 7.5 | 2792 | -92 | 
+| 2009-12-28 | 第10期リコー杯囲碁戦1回戦 | Huang Yizhong | Ke Jie | Lose | W+0.5 | 7.5 | 2884 | -19 | 
+| 2009-12-19 | 第11回中国囲碁甲級リーグ第22節 | Huang Yizhong | Liao Xingwen | Lose | W+R | 7.5 | 2903 | -7 | 
+| 2009-12-12 | 第11回中国囲碁甲級リーグ第21節 | Huang Yizhong |  | Lose | W+0.5 | 7.5 | 2910 | 7 | 
+| 2009-12-05 | 第11回中国囲碁甲級リーグ第20節 | Huang Yizhong | Huang Chen | Win | B+1.5 | 7.5 | 2903 | -150 | 
+| 2009-11-28 | 第11回中国囲碁甲級リーグ第19節 | Gu Lingyi | Huang Yizhong | Lose | B+R | 7.5 | 3053 | -7 | 
+| 2009-11-07 | 第11回中国囲碁甲級リーグ第18節 | Huang Yizhong | Zhong Wenjing | Lose | W+R | 7.5 | 3060 | -18 | 
+| 2009-10-29 | 第11回中国囲碁甲級リーグ第17節 | Huang Yizhong | Yu Bin | Lose | W+0.5 | 7.5 | 3078 | 18 | 
+| 2009-10-22 | 第11回中国囲碁甲級リーグ第14節 | Huang Yizhong | Zhu Yuanhao | Win | B+R | 7.5 | 3060 | 7 | 
+| 2009-10-20 | 第5期威孚房開杯棋王戦1回戦 | Huang Yizhong | Wang Lei (b) | Lose | W+4.5 | 7.5 | 3053 | -8 | 
+| 2009-10-17 | 第11回中国囲碁甲級リーグ第16節 | Wang Lei (s) | Huang Yizhong | Lose | B+9.5 | 7.5 | 3061 | -22 | 
+| 2009-10-10 | 第11回中国囲碁甲級リーグ第15節 | Huang Yizhong | Wang Yuhui | Win | B+R | 7.5 | 3083 | 21 | 
+| 2009-09-12 | 第14回三星火災杯世界囲碁マスターズ1回戦G3 | Heo Yongho | Huang Yizhong | Lose | B+R | 6.5 | 3062 | -4 | 
+| 2009-09-11 | 第14回三星火災杯世界囲碁マスターズ1回戦G2 | Zhou Junxun | Huang Yizhong | Win | W+0.5 | 6.5 | 3066 | 7 | 
+| 2009-09-10 | 第14回三星火災杯世界囲碁マスターズ1回戦G1 | Huang Yizhong | Heo Yongho | Lose | W+R | 6.5 | 3059 | -4 | 
+| 2009-09-07 | 第11回中国囲碁甲級リーグ第13節 | Huang Yizhong | Shao Weigang | Lose | W+R | 7.5 | 3063 | -13 | 
+| 2009-09-05 | 第11回中国囲碁甲級リーグ第12節 | Shi Yue | Huang Yizhong | Lose | B+R | 7.5 | 3076 | -43 | 
+| 2009-07-11 | 第11回中国囲碁甲級リーグ第11節 | Huang Yizhong | Li Kang | Win | B+R | 7.5 | 3119 | 20 | 
+| 2009-07-09 | 第11回中国囲碁甲級リーグ第10節 | Mao Ruilong | Huang Yizhong | Win | W+R | 7.5 | 3099 | 19 | 
+| 2009-07-04 | 第11回中国囲碁甲級リーグ第9節 | Meng Tailing | Huang Yizhong | Lose | B+R | 7.5 | 3080 | -14 | 
+| 2009-07-01 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Peng Quan | Huang Yizhong | Lose | B+R | 7.5 | 3094 | 11 | 
+| 2009-06-30 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Huang Yizhong | Li Jie | Win | B+R | 7.5 | 3083 | 0 | 
+| 2009-06-30 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Huang Yizhong | Li He | Win | B+R | 7.5 | 3083 | 24 | 
+| 2009-06-27 | 第11回中国囲碁甲級リーグ第8節 | Lee Yeongkyu | Huang Yizhong | Lose | B+7.5 | 7.5 | 3059 | 86 | 
+| 2009-06-18 | 第11回中国囲碁甲級リーグ第7節 | Huang Yizhong |  | Win | B+R | 7.5 | 2973 | 21 | 
+| 2009-06-13 | 第11回中国囲碁甲級リーグ第6節 | Wang Xi | Huang Yizhong | Lose | B+R | 7.5 | 2952 | 53 | 
+| 2009-06-06 | 第11回中国囲碁甲級リーグ第5節 | Jiang Weijie | Huang Yizhong | Lose | B+3.5 | 7.5 | 2899 | -23 | 
+| 2009-05-30 | 第6期倡棋杯中国プロ囲碁選手権戦1回戦 | Piao Wenyao | Huang Yizhong | Lose | B+5 | 7.5 | 2922 | -63 | 
+| 2009-05-28 | 第11回中国囲碁甲級リーグ第4節 | Huang Yizhong | Tuo Jiaxi | Lose | W+R | 7.5 | 2985 | -11 | 
+| 2009-05-23 | 第11回中国囲碁甲級リーグ第3節 | Qiu Jun | Huang Yizhong | Lose | B+5.5 | 7.5 | 2996 | -46 | 
+| 2009-05-14 | 第11回中国囲碁甲級リーグ第2節 | Shao Weigang | Huang Yizhong | Win | W+0.5 | 7.5 | 3042 | 20 | 
+| 2009-05-09 | 第11回中国囲碁甲級リーグ第1節 | Huang Yizhong | Piao Wenyao | Lose | W+R | 7.5 | 3022 | 28 | 
+| 2009-04-25 | 第1回BCカード杯世界選手権4回戦 | Huang Yizhong | Cho Hanseung | Lose | W+6.5 | 6.5 | 2994 | -12 | 
+| 2009-04-09 | 第22期中国囲碁名人戦2回戦 | Tuo Jiaxi | Huang Yizhong | Lose | B+9.5 | 7.5 | 3006 | 9 | 
+| 2009-03-29 | 第1回BCカード杯世界選手権3回戦 | Paek Hongseok | Huang Yizhong | Win | W+R | 6.5 | 2997 | 33 | 
+| 2009-03-14 | 第1回BCカード杯世界選手権2回戦 | Huang Yizhong | Choi Cheolhan | Win | B+R | 6.5 | 2964 | -54 | 
+| 2009-02-17 | 2009CCTV杯中国囲棋電視快棋戦2回戦 | Huang Yizhong | Sun Li | Lose | W+0.5 | 7.5 | 3018 | -13 | 
+| 2009-02-10 | 第23期中国囲碁天元戦予選 | Zhu Yuanhao | Huang Yizhong | Lose | B+R | 7.5 | 3031 | -55 | 
+| 2008-12-24 | 第9期リコー杯囲碁戦2回戦 | Huang Yizhong | Zhou Heyang | Lose | W+R | 7.5 | 3086 | -23 | 
+| 2008-12-22 | 第9期リコー杯囲碁戦1回戦 | Huang Yizhong |  | Win | B+R | 7.5 | 3109 | 47 | 
+| 2008-12-20 | 第10回中国囲碁甲級リーグ第21節 | Sun Li | Huang Yizhong | Win | W+R | 7.5 | 3062 | 114 | 
+| 2008-12-17 | 第13回三星火災杯世界オープン囲碁選手権準決勝三番勝負第2局 | Huang Yizhong | Lee Sedol | Lose | W+R | 6.5 | 2948 | -2 | 
+| 2008-12-15 | 第13回三星火災杯世界オープン囲碁選手権準決勝三番勝負第1局 | Lee Sedol | Huang Yizhong | Lose | B+0.5 | 6.5 | 2950 | -8 | 
+| 2008-12-09 | 第7回春蘭杯世界囲碁選手権3回戦 | Huang Yizhong | Chang Hao | Lose | W+R | 7.5 | 2958 | -12 | 
+| 2008-12-04 | 第10回中国囲碁甲級リーグ第19節 | Huang Yizhong | Chang Hao | Win | B+R | 7.5 | 2970 | 267 | 
+| 2008-11-29 | 第10回中国囲碁甲級リーグ第18節 | Niu Yutian | Huang Yizhong | Win | W+4.5 | 7.5 | 2703 | -3 | 
+| 2008-11-22 | 第10回中国囲碁甲級リーグ第17節 | Li Jie | Huang Yizhong | Win | W+R | 7.5 | 2706 | 21 | 
+| 2008-11-19 | 第13回三星火災杯世界オープン囲碁選手権3回戦 | Huang Yizhong | Wang Xi | Win | B+1.5 | 6.5 | 2685 | -48 | 
+| 2008-11-15 | 第10回中国囲碁甲級リーグ第16節 |  | Huang Yizhong | Win | W+R | 7.5 | 2733 | 13 | 
+| 2008-11-06 | 第10回中国囲碁甲級リーグ第15節 | Huang Yizhong |  | Lose | W+0.5 | 7.5 | 2720 | -3 | 
+| 2008-11-01 | 第10回中国囲碁甲級リーグ第14節 | Sun Tengyu | Huang Yizhong | Win | W+R | 7.5 | 2723 | -539 | 
+| 2008-09-10 | 第4期威孚房開杯棋王戦1回戦 | Huang Yizhong | Chang Hao | Lose | W+R | 7.5 | 3262 | -12 | 
+| 2008-09-05 | 第13回三星火災杯世界オープン囲碁選手権2回戦 | Huang Yizhong | Ding Wei | Win | B+2.5 | 6.5 | 3274 | -9 | 
+| 2008-09-03 | 第13回三星火災杯世界オープン囲碁選手権1回戦 | Hong Seongji | Huang Yizhong | Win | W+R | 6.5 | 3283 | 335 | 
+| 2008-07-13 | 2008年中国段位戦 | Peng Quan | Huang Yizhong | Win | W+0.5 | 7.5 | 2948 | 9 | 
+| 2008-07-12 | 2008年中国段位戦 | Dong Yan | Huang Yizhong | Win | W+0.5 | 7.5 | 2939 | -10 | 
+| 2008-07-05 | 第10回中国囲碁甲級リーグ第13節 | Wang Xi | Huang Yizhong | Lose | B+R | 7.5 | 2949 | -3 | 
+| 2008-07-01 | 第10回中国囲碁甲級リーグ第12節 | Huang Yizhong | Shao Weigang | Lose | W+R | 7.5 | 2952 | -3 | 
+| 2008-06-21 | 第10回中国囲碁甲級リーグ第11節 |  | Huang Yizhong | Lose | B+R | 7.5 | 2955 | -14 | 
+| 2008-06-14 | 第10回中国囲碁甲級リーグ第10節 | Huang Yizhong | Wang Lei (b) | Lose | W+R | 7.5 | 2969 | -11 | 
+| 2008-06-09 | 第2回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Piao Wenyao | Huang Yizhong | Lose | B+R | 7.5 | 2980 | -17 | 
+| 2008-06-05 | 第10回中国囲碁甲級リーグ第9節 | Wang Yao | Huang Yizhong | Lose | B+R | 7.5 | 2997 | 24 | 
+| 2008-05-31 | 第10回中国囲碁甲級リーグ第8節 | Huang Yizhong | Hu Yaoyu | Lose | W+2.5 | 7.5 | 2973 | -24 | 
+| 2008-05-26 | 第5期倡棋杯中国プロ囲碁選手権戦2回戦 | Liu Xing | Huang Yizhong | Lose | B+3 | 7.5 | 2997 | -19 | 
+| 2008-05-24 | 第10回中国囲碁甲級リーグ第7節 | Huang Yizhong |  | Win | B+1.5 | 7.5 | 3016 | 11 | 
+| 2008-05-22 | 第5期倡棋杯中国プロ囲碁選手権戦1回戦 | Huang Yizhong | Wang Yao | Win | B+R | 7.5 | 3005 | 2 | 
+| 2008-05-15 | 第10回中国囲碁甲級リーグ第6節 | Peng Liyao | Huang Yizhong | Win | W+R | 7.5 | 3003 | 2 | 
+| 2008-05-10 | 第10回中国囲碁甲級リーグ第5節 | Huang Yizhong |  | Lose | W+0.5 | 7.5 | 3001 | 16 | 
+| 2008-04-24 | 第13回LG杯予選 | Heo Yongho | Huang Yizhong | Lose | B+R | 6.5 | 2985 | 186 | 
+| 2008-04-17 | 第10回中国囲碁甲級リーグ第4節 | Pan Fei | Huang Yizhong | Win | W+2.5 | 7.5 | 2799 | -10 | 
+| 2008-04-05 | 第10回中国囲碁甲級リーグ第3節 | Wang Yuhui | Huang Yizhong | Win | W+R | 7.5 | 2809 | 21 | 
+| 2008-03-29 | 第10回中国囲碁甲級リーグ第2節 | Huang Yizhong | Yu Bin | Lose | W+R | 7.5 | 2788 | -9 | 
+| 2008-03-22 | 第10回中国囲碁甲級リーグ第1節 | Zhou Heyang | Huang Yizhong | Lose | B+R | 7.5 | 2797 | 1 | 
+| 2008-03-17 | 第7回春蘭杯世界囲碁選手権2回戦 | Jimmy Cha | Huang Yizhong | Win | W+4.5 | 7.5 | 2796 | 44 | 
+| 2008-03-03 | 第21期中国囲碁名人戦3回戦 | Huang Yizhong | Chang Hao | Lose | W+R | 7.5 | 2752 | -2 | 
+| 2008-03-01 | 第21期中国囲碁名人戦2回戦 | Niu Yutian | Huang Yizhong | Win | W+R | 7.5 | 2754 | 7 | 
+| 2008-02-29 | 第14期NEC杯囲碁戦予選 | Huang Yizhong | Zhu Yuanhao | Lose | W+R | 7.5 | 2747 | -10 | 
+| 2008-02-28 | 第21期中国囲碁名人戦1回戦 | Wang Xi | Huang Yizhong | Win | W+R | 7.5 | 2757 | 12 | 
+| 2008-02-27 | 第14期NEC杯囲碁戦予選 | Dong Yan | Huang Yizhong | Win | W+0.5 | 7.5 | 2745 | 8 | 
+| 2008-02-26 | 第21期中国囲碁名人戦予選 | Pan Feng | Huang Yizhong | Win | W+R | 7.5 | 2737 | 4 | 
+| 2008-02-25 | 第21期中国囲碁名人戦予選 | Shi Yue | Huang Yizhong | Win | W+R | 7.5 | 2733 | 21 | 
+| 2008-01-29 | 第22期中国囲碁天元戦1回戦 | Huang Yizhong | Wang Xi | Lose | W+R | 7.5 | 2712 | 25 | 
+| 2007-12-24 | 2008CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yizhong | Chen Yaoye | Lose | W+R | 7.5 | 2687 | -27 | 
+| 2007-12-22 | 第9回中国囲碁甲級リーグ第22節 | Hu Yaoyu | Huang Yizhong | Win | W+R | 7.5 | 2714 | 22 | 
+| 2007-12-15 | 第9回中国囲碁甲級リーグ第21節 | Shi Yue | Huang Yizhong | Lose | B+R | 7.5 | 2692 | -31 | 
+| 2007-12-08 | 第9回中国囲碁甲級リーグ第20節 |  | Huang Yizhong | Win | W+R | 7.5 | 2723 | -12 | 
+| 2007-12-01 | 第9回中国囲碁甲級リーグ第19節 | Huang Yizhong | Zhong Wenjing | Lose | W+R | 7.5 | 2735 | -43 | 
+| 2007-11-22 | 第12回三星火災杯世界オープン囲碁選手権準決勝三番勝負第2局 | Lee Sedol | Huang Yizhong | Lose | B+R | 6.5 | 2778 | -16 | 
+| 2007-11-20 | 第12回三星火災杯世界オープン囲碁選手権準決勝三番勝負第1局 | Huang Yizhong | Lee Sedol | Lose | W+2.5 | 6.5 | 2794 | -20 | 
+| 2007-11-17 | 第9回中国囲碁甲級リーグ第17節 | Huang Yizhong | Wang Xi | Win | B+R | 7.5 | 2814 | 54 | 
+| 2007-11-10 | 第9回中国囲碁甲級リーグ第16節 | Xie He | Huang Yizhong | Lose | B+R | 7.5 | 2760 | 48 | 
+| 2007-11-01 | 第9回中国囲碁甲級リーグ第15節 | Huang Yizhong | Dong Yan | Win | B+1.5 | 7.5 | 2712 | 5 | 
+| 2007-10-20 | 第9回中国囲碁甲級リーグ第14節 | Niu Yutian | Huang Yizhong | Win | W+R | 7.5 | 2707 | -26 | 
+| 2007-10-13 | 第9回中国囲碁甲級リーグ第13節 | Huang Yizhong | Wang Yao | Lose | W+R | 7.5 | 2733 | -27 | 
+| 2007-10-10 | 第12回三星火災杯世界オープン囲碁選手権3回戦 | Huang Yizhong | Hu Yaoyu | Win | B+2.5 | 6.5 | 2760 | -13 | 
+| 2007-09-27 | 第9回中国囲碁甲級リーグ第12節 | Kong Jie | Huang Yizhong | Lose | B+3.5 | 7.5 | 2773 | -48 | 
+| 2007-09-06 | 第12回三星火災杯世界オープン囲碁選手権2回戦 | Huang Yizhong | Cho Hunhyun | Win | B+7.5 | 6.5 | 2821 | -20 | 
+| 2007-09-04 | 第12回三星火災杯世界オープン囲碁選手権1回戦 | Huang Yizhong | Choi Cheolhan | Win | B+3.5 | 6.5 | 2841 | 20 | 
+| 2007-08-25 | 第9回中国囲碁甲級リーグ第11節 | Huang Yizhong | Hu Yaoyu | Win | B+R | 7.5 | 2821 | 0 | 
+| 2007-08-18 | 第9回中国囲碁甲級リーグ第10節 | Huang Yizhong | Shi Yue | Lose | W+R | 7.5 | 2821 | -258 | 
+| 2007-08-09 | 第9回中国囲碁甲級リーグ第9節 | Huang Yizhong |  | Win | B+R | 7.5 | 3079 | 1 | 
+| 2007-08-07 | 第4期倡棋杯中国プロ囲碁選手権戦予選 | Huang Yizhong | Tao Xinran | Lose | W+R | 7.5 | 3078 | -135 | 
+| 2007-08-02 | 第12回三星火災杯予選決勝 | Huang Yizhong | Wang Yuhui | Win | B+6.5 | 6.5 | 3213 | 20 | 
+| 2007-07-07 | 第9回中国囲碁甲級リーグ第8節 | Pan Fei | Huang Yizhong | Win | W+R | 7.5 | 3193 | -15 | 
+| 2007-06-30 | 第9回中国囲碁甲級リーグ第7節 |  | Huang Yizhong | Win | W+R | 7.5 | 3208 | 16 | 
+| 2007-06-23 | 第9回中国囲碁甲級リーグ第6節 | Huang Yizhong | Wang Xi | Lose | W+R | 7.5 | 3192 | -15 | 
+| 2007-06-16 | 第9回中国囲碁甲級リーグ第5節 | Zhou Ruiyang | Huang Yizhong | Lose | B+R | 7.5 | 3207 | 5 | 
+| 2007-06-09 | 第9回中国囲碁甲級リーグ第4節 | Huang Yizhong |  | Win | B+1.5 | 7.5 | 3202 | 49 | 
+| 2007-05-24 | 第9回中国囲碁甲級リーグ第3節 | Li Kang | Huang Yizhong | Win | W+R | 7.5 | 3153 | 46 | 
+| 2007-05-19 | 第9回中国囲碁甲級リーグ第2節 |  | Huang Yizhong | Win | W+2.5 | 7.5 | 3107 | -8 | 
+| 2007-05-12 | 第9回中国囲碁甲級リーグ第1節 | Tuo Jiaxi | Huang Yizhong | Win | W+R | 7.5 | 3115 | 4 | 
+| 2007-05-10 | 第9期阿含・桐山杯中国早碁オープン戦予選 | Piao Wenyao | Huang Yizhong | Lose | B+R | 7.5 | 3111 | 0 | 
+| 2007-05-10 | 第9期阿含・桐山杯中国早碁オープン戦予選 | Huang Yizhong | Wang Yang | Win | B+3.5 | 7.5 | 3111 | -16 | 
+| 2007-04-10 | 第20期中国囲碁名人戦2回戦 | Huang Yizhong | Chen Yaoye | Lose | W+R | 7.5 | 3127 | 3 | 
+| 2007-04-08 | 第20期中国囲碁名人戦1回戦 | Huang Yizhong | Luo Xihe | Win | B+1.5 | 7.5 | 3124 | 329 | 
+| 2007-02-01 | 第21期中国囲碁天元戦2回戦 | Huang Yizhong | Tao Xin | Lose | W+R | 7.5 | 2795 | 2 | 
+| 2007-01-30 | 第13期NEC杯囲碁戦予選 | Luo Xihe | Huang Yizhong | Lose | B+R | 7.5 | 2793 | -11 | 
+| 2007-01-29 | 第21期中国囲碁天元戦1回戦 | Huang Yizhong | Luo Xihe | Win | B+1.5 | 7.5 | 2804 | 62 | 
+| 2006-12-23 | 第8回中国囲碁甲級リーグ第22節 | Qiu Jun | Huang Yizhong | Win | W+0.5 | 7.5 | 2742 | 20 | 
+| 2006-12-16 | 第8回中国囲碁甲級リーグ第21節 | Chen Yaoye | Huang Yizhong | Lose | B+R | 7.5 | 2722 | -1 | 
+| 2006-12-09 | 第8回中国囲碁甲級リーグ第20節 | Ma Xiaochun | Huang Yizhong | Win | W+R | 7.5 | 2723 | -2 | 
+| 2006-11-30 | 第8回中国囲碁甲級リーグ第19節 |  | Huang Yizhong | Win | W+0.5 | 7.5 | 2725 | 5 | 
+| 2006-11-25 | 第8回中国囲碁甲級リーグ第18節 | Zhu Yuanhao | Huang Yizhong | Lose | B+R | 7.5 | 2720 | -4 | 
+| 2006-11-18 | 第8回中国囲碁甲級リーグ第17節 | Wang Xi | Huang Yizhong | Win | W+R | 7.5 | 2724 | 91 | 
+| 2006-11-11 | 第8回中国囲碁甲級リーグ第16節 | Huang Yizhong |  | Lose | W+R | 7.5 | 2633 | -71 | 
+| 2006-11-04 | 第12期NEC杯囲碁戦準決勝 | Huang Yizhong | Qiu Jun | Lose | W+6.5 | 7.5 | 2704 | -15 | 
+| 2006-11-02 | 第8回中国囲碁甲級リーグ第15節 | Huang Yizhong | Zhou Ruiyang | Lose | W+0.5 | 7.5 | 2719 | -20 | 
+| 2006-10-28 | 第8回中国囲碁甲級リーグ第14節 |  | Huang Yizhong | Lose | B+R | 7.5 | 2739 | -13 | 
+| 2006-10-25 | 第3期倡棋杯中国プロ囲碁選手権戦2回戦 | Tuo Jiaxi | Huang Yizhong | Lose | B+R | 7.5 | 2752 | -11 | 
+| 2006-10-23 | 第3期倡棋杯中国プロ囲碁選手権戦1回戦 | Liu Xiaoguang | Huang Yizhong | Win | W+3 | 7.5 | 2763 | -4 | 
+| 2006-10-21 | 第8回中国囲碁甲級リーグ第13節 | Huang Yizhong | Wang Lei (b) | Win | B+R | 7.5 | 2767 | -47 | 
+| 2006-10-14 | 第12期NEC杯囲碁戦2回戦 | Gu Li | Huang Yizhong | Win | W+4.5 | 7.5 | 2814 | 20 | 
+| 2006-10-12 | 第8回中国囲碁甲級リーグ第12節 | Zhu Yi | Huang Yizhong | Win | W+R | 7.5 | 2794 | -58 | 
+| 2006-08-05 | 第8回中国囲碁甲級リーグ第11節 | Huang Yizhong |  | Win | B+R | 7.5 | 2852 | 31 | 
+| 2006-07-27 | 第8回中国囲碁甲級リーグ第10節 | Hu Yaoyu | Huang Yizhong | Win | W+0.5 | 7.5 | 2821 | -83 | 
+| 2006-07-03 | 2006CCTV杯中国囲棋電視快棋戦4回戦 | Huang Yizhong | Luo Xihe | Lose | W+0.5 | 7.5 | 2904 | -11 | 
+| 2006-07-01 | 第8回中国囲碁甲級リーグ第8節 |  | Huang Yizhong | Lose | B+R | 7.5 | 2915 | -228 | 
+| 2006-06-24 | 第8回中国囲碁甲級リーグ第7節 | Tan Xiao | Huang Yizhong | Lose | B+1.5 | 7.5 | 3143 | 35 | 
+| 2006-06-15 | 第8回中国囲碁甲級リーグ第6節 | Huang Yizhong | Yu Bin | Win | B+3.5 | 7.5 | 3108 | 21 | 
+| 2006-06-10 | 第8回中国囲碁甲級リーグ第5節 | Xie He | Huang Yizhong | Lose | B+21.5 | 7.5 | 3087 | -12 | 
+| 2006-06-08 | 2006CCTV杯中国囲棋電視快棋戦3回戦 | Huang Yizhong | Wang Yuhui | Win | B+1.5 | 7.5 | 3099 | 10 | 
+| 2006-06-03 | 第8回中国囲碁甲級リーグ第4節 | Huang Yizhong |  | Lose | W+R | 7.5 | 3089 | 77 | 
+| 2006-05-15 | 第11回LG杯世界棋王戦1回戦 | Huang Yizhong | Lee Changho | Lose | W+3.5 | 6.5 | 3012 | -7 | 
+| 2006-05-11 | 第8回中国囲碁甲級リーグ第3節 | Huang Yizhong | Ding Wei | Lose | W+R | 7.5 | 3019 | -25 | 
+| 2006-04-28 | 第11回LG杯予選 |  | Huang Yizhong | Win | W+3.5 | 6.5 | 3044 | 31 | 
+| 2006-04-22 | 第12期NEC杯囲碁戦1回戦 | Huang Yizhong | Piao Wenyao | Win | B+R | 7.5 | 3013 | 8 | 
+| 2006-04-20 | 第8回中国囲碁甲級リーグ第2節 | Piao Wenyao | Huang Yizhong | Lose | B+R | 7.5 | 3005 | -56 | 
+| 2006-04-15 | 第8回中国囲碁甲級リーグ第1節 | Huang Yizhong | On Sojin | Win | B+R | 7.5 | 3061 | 8 | 
+| 2006-03-24 | 第19期中国囲碁名人戦予選 | Huang Yizhong | Shi Yue | Lose | W+R | 7.5 | 3053 | 3 | 
+| 2006-03-06 | 第5回CSK杯囲碁アジア対抗戦中国選抜戦 | Chang Hao | Huang Yizhong | Lose | B+R | 6.5 | 3050 | -19 | 
+| 2006-02-27 | 2006CCTV杯中国囲棋電視快棋戦2回戦 | Peng Quan | Huang Yizhong | Win | W+R | 7.5 | 3069 | -62 | 
+| 2006-01-17 | 2006CCTV杯中国囲棋電視快棋戦1回戦 | Wu Zhaoyi | Huang Yizhong | Win | W+R | 7.5 | 3131 | 78 | 
+| 2005-12-31 | 第7回中国囲碁甲級リーグ第22節 | Yin Hang | Huang Yizhong | Win | W+R | 7.5 | 3053 | 14 | 
+| 2005-12-24 | 第7回中国囲碁甲級リーグ第21節 | Huang Yizhong |  | Win | B+R | 7.5 | 3039 | -228 | 
+| 2005-12-10 | 第7回中国囲碁甲級リーグ第20節 | Chen Yaoye | Huang Yizhong | Lose | B+1.5 | 7.5 | 3267 | -62 | 
+| 2005-12-03 | 第7回中国囲碁甲級リーグ第19節 | Huang Yizhong | Wang Xi | Lose | W+R | 7.5 | 3329 | 10 | 
+| 2005-11-26 | 第7回中国囲碁甲級リーグ第18節 | Gu Lingyi | Huang Yizhong | Win | W+R | 7.5 | 3319 | 49 | 
+| 2005-11-12 | 第7回中国囲碁甲級リーグ第17節 | Huang Yizhong | Wang Haoyang | Lose | W+R | 7.5 | 3270 | 276 | 
+| 2005-11-05 | 第7回中国囲碁甲級リーグ第16節 | Shao Weigang | Huang Yizhong | Win | W+R | 7.5 | 2994 | -246 | 
+| 2005-10-29 | 第7回中国囲碁甲級リーグ第15節 | Huang Yizhong | Nie Weiping | Win | B+R | 7.5 | 3240 | 19 | 
+| 2005-10-23 | 第2期倡棋杯中国プロ囲碁選手権戦1回戦 | Huang Yizhong | Gu Li | Lose | W+R | 7.5 | 3221 | 16 | 
+| 2005-10-08 | 第7回中国囲碁甲級リーグ第13節 |  | Huang Yizhong | Win | W+R | 7.5 | 3205 | 12 | 
+| 2005-10-01 | 第7回中国囲碁甲級リーグ第12節 | Chang Hao | Huang Yizhong | Lose | B+R | 7.5 | 3193 | 8 | 
+| 2005-08-30 | 第10回三星火災杯予選決勝 | Huang Yizhong | Yun Junsang | Lose | W+4.5 | 6.5 | 3185 | -28 | 
+| 2005-08-24 | 第10回三星火災杯予選2回戦 | Huang Yizhong | Ding Wei | Win | B+R | 6.5 | 3213 | 11 | 
+| 2005-08-20 | 第7回中国囲碁甲級リーグ第11節 | Huang Yizhong | Ding Wei | Win | B+R | 7.5 | 3202 | -16 | 
+| 2005-08-13 | 第7回中国囲碁甲級リーグ第10節 | Huang Yizhong | Kim Seungjun | Win | B+R | 7.5 | 3218 | 20 | 
+| 2005-08-06 | 第7回中国囲碁甲級リーグ第9節 | Huang Yizhong | Wang Yang | Win | B+R | 7.5 | 3198 | -1 | 
+| 2005-07-13 | 2005年中国段位戦 | Peng Quan | Huang Yizhong | Win | W+R | 7.5 | 3199 | -6 | 
+| 2005-07-09 | 第7回中国囲碁甲級リーグ第8節 | Huang Yizhong | Wang Xi | Lose | W+4.5 | 7.5 | 3205 | 300 | 
+| 2005-06-25 | 第7回中国囲碁甲級リーグ第7節 | Zhu Yuanhao | Huang Yizhong | Win | W+R | 7.5 | 2905 | 12 | 
+| 2005-06-18 | 第7回中国囲碁甲級リーグ第6節 |  | Huang Yizhong | Lose | B+R | 7.5 | 2893 | -1 | 
+| 2005-06-11 | 第7回中国囲碁甲級リーグ第5節 | Wang Lei (b) | Huang Yizhong | Lose | B+1.5 | 7.5 | 2894 | -122 | 
+| 2005-05-21 | 第7回中国囲碁甲級リーグ第4節 | Huang Yizhong | Yu Bin | Win | B+5.5 | 7.5 | 3016 | -38 | 
+| 2005-05-07 | 第7回中国囲碁甲級リーグ第3節 | Zhou Junxun | Huang Yizhong | Win | W+R | 7.5 | 3054 | -19 | 
+| 2005-04-30 | 第7回中国囲碁甲級リーグ第2節 | Huang Yizhong | Piao Wenyao | Lose | W+R | 7.5 | 3073 | 37 | 
+| 2005-04-19 | 第18期中国囲碁名人戦予選 | Chen Yaoye | Huang Yizhong | Win | W+0.5 | 7.5 | 3036 | 18 | 
+| 2005-04-16 | 第7回中国囲碁甲級リーグ第1節 | Hu Yaoyu | Huang Yizhong | Win | W+R | 7.5 | 3018 | -402 | 
+| 2005-01-27 | 第19期中国囲碁天元戦1回戦 | Huang Yizhong | Wang Xi | Lose | W+R | 7.5 | 3420 | -46 | 
+| 2005-01-25 | 第19期中国囲碁天元戦予選 | Shi Yue | Huang Yizhong | Win | W+R | 7.5 | 3466 | -37 | 
+| 2005-01-17 | 第5期リコー杯囲碁戦3回戦 | Huang Yizhong | Chang Hao | Lose | W+0.5 | 7.5 | 3503 | 152 | 
+| 2004-12-19 | 第5期リコー杯囲碁戦2回戦 | Liu Xing | Huang Yizhong | Win | W+R | 7.5 | 3351 | 98 | 
+| 2004-12-16 | 第6回中国囲碁甲級リーグ第22節 | Huang Yizhong |  | Win | B+R | 7.5 | 3253 | 32 | 
+| 2004-12-14 | 第6回中国囲碁甲級リーグ第21節 |  | Huang Yizhong | Win | W+4.5 | 7.5 | 3221 | 101 | 
+| 2004-11-18 | 第6回中国囲碁甲級リーグ第18節 | Kong Jie | Huang Yizhong | Win | W+R | 7.5 | 3120 | 113 | 
+| 2004-11-11 | 第6回中国囲碁甲級リーグ第17節 | Huang Yizhong | Wang Lei (b) | Lose | W+R | 7.5 | 3007 | -2 | 
+| 2004-11-04 | 第6回中国囲碁甲級リーグ第16節 | Chang Hao | Huang Yizhong | Win | W+R | 7.5 | 3009 | -146 | 
+| 2004-10-23 | 第1期倡棋杯中国プロ囲碁選手権戦1回戦 | Wang Lei (s) | Huang Yizhong | Win | W+R | 7.5 | 3155 | 64 | 
+| 2004-10-21 | 第6回中国囲碁甲級リーグ第14節 | Huang Yizhong | Ma Xiaochun | Win | B+3.5 | 7.5 | 3091 | 316 | 
+| 2004-07-31 | 第9回三星火災杯予選3回戦 | Kim Kangkeun | Huang Yizhong | Win | W+0.5 | 6.5 | 2775 | -44 | 
+| 2004-06-24 | 第6回中国囲碁甲級リーグ第10節 | Nie Weiping | Huang Yizhong | Lose | B+1.5 | 7.5 | 2819 | 3 | 
+| 2004-06-17 | 第6回中国囲碁甲級リーグ第9節 |  | Huang Yizhong | Lose | B+R | 7.5 | 2816 | 17 | 
+| 2004-05-27 | 第6回中国囲碁甲級リーグ第6節 | Huang Yizhong | Wang Lei (b) | Win | B+R | 7.5 | 2799 | 100 | 
+| 2004-05-10 | 第6回中国囲碁甲級リーグ第3節 | Huang Yizhong | Yoo Changhyuk | Win | B+9.5 | 7.5 | 2699 | 199 | 
+| 2004-04-29 | 第6回中国囲碁甲級リーグ第2節 | Huang Yizhong |  | Win | B+1.5 | 7.5 | 2500 | -81 | 
+| 2003-12-18 | 第5回中国囲碁甲級リーグ第22節 | Li Zhe | Huang Yizhong | Lose | B+3.5 | 7.5 | 2581 | -53 | 
+| 2003-12-08 | 第4期リコー杯囲碁戦1回戦 | Huang Yizhong |  | Win | B+T | 7.5 | 2634 | -12 | 
+| 2003-11-13 | 第5回中国囲碁甲級リーグ第17節 | Liu Shizhen | Huang Yizhong | Lose | B+5.5 | 7.5 | 2646 | -63 | 
+| 2003-11-06 | 第5回中国囲碁甲級リーグ第16節 | Huang Yizhong | Dong Yan | Lose | W+2.5 | 7.5 | 2709 | -2 | 
+| 2003-10-30 | 第5回中国囲碁甲級リーグ第15節 | Wang Xi | Huang Yizhong | Lose | B+R | 7.5 | 2711 | -27 | 
+| 2003-10-23 | 第5回中国囲碁甲級リーグ第14節 |  | Huang Yizhong | Lose | B+R | 7.5 | 2738 | 67 | 
+| 2003-09-24 | 2003年全国囲棋個人戦男子組 | Huang Yizhong | Luo Xihe | Win | B+1.5 | 7.5 | 2671 | 0 | 
+| 2003-09-11 | 第5回中国囲碁甲級リーグ第10節 | Huang Yizhong | Zhu Songli | Lose | W+2.5 | 7.5 | 2671 | 0 | 
+| 2003-09-04 | 第5回中国囲碁甲級リーグ第9節 | Huang Yizhong | Kong Jie | Lose | W+14.5 | 7.5 | 2671 | 0 | 
+| 2003-08-11 | 第5回中国囲碁甲級リーグ第11節 | Jing Shi | Huang Yizhong | Lose | B+7.5 | 7.5 | 2671 | 0 | 
+| 2003-08-07 | 第5回中国囲碁甲級リーグ第7節 | Huang Yizhong | Li Jie | Lose | W+R | 7.5 | 2671 | 0 | 
+| 2003-07-24 | 第5回中国囲碁甲級リーグ第6節 | Huang Yizhong | Hu Yaoyu | Lose | W+10.5 | 7.5 | 2671 | 0 | 
+| 2003-04-12 | 第16回世界囲碁選手権富士通杯1回戦 | Huang Yizhong | Kobayashi Satoru | Lose | W+R | 6.5 | 2671 | 0 | 
+| 2003-04-07 | 第5回中国囲碁甲級リーグ第1節 | Huang Yizhong | Ma Xiaochun | Win | B+3.5 | 7.5 | 2671 | 0 | 
+| 2003-03-16 | 第17期中国囲碁天元戦挑戦手合三番勝負第3局 | Huang Yizhong | Gu Li | Lose | W+R | 7.5 | 2671 | 0 | 
+| 2003-03-15 | 第17期中国囲碁天元戦挑戦手合三番勝負第2局 | Gu Li | Huang Yizhong | Win | W+R | 7.5 | 2671 | 0 | 
+| 2003-03-13 | 第17期中国囲碁天元戦挑戦手合三番勝負第1局 | Huang Yizhong | Gu Li | Lose | W+R | 7.5 | 2671 | 0 | 
+| 2002-11-28 | 第4回中国囲碁甲級リーグ第21節 | Huang Yizhong | Nie Weiping | Lose | W+16.5 | 7.5 | 2671 | 0 | 
+| 2002-10-27 | 第4期阿含・桐山杯中国早碁オープン戦決勝 | Huang Yizhong | Yu Bin | Lose | W+R | 7.5 | 2671 | 0 | 
+| 2002-10-14 | 第4期阿含・桐山杯中国早碁オープン戦準決勝 | Huang Yizhong | Zhou Heyang | Win | B+R | 7.5 | 2671 | 0 | 
+| 2002-10-10 | 第4回中国囲碁甲級リーグ第14節 |  | Huang Yizhong | Win | W+R | 7.5 | 2671 | 0 | 
+| 2002-10-05 | 2002年国際新鋭囲碁対抗戦第3戦 | Huang Yizhong | An Younggil | Win | B+4.5 | 6.5 | 2671 | 0 | 
+| 2002-09-26 | 2002年全国囲棋個人戦男子組第10戦 | Huang Yizhong | Peng Quan | Lose | W+2.5 | 7.5 | 2671 | 0 | 
+| 2002-09-23 | 2002年全国囲棋個人戦男子組第8戦 | Huang Yizhong | Gu Li | Win | B+1.5 | 7.5 | 2671 | 0 | 
+| 2002-09-14 | 2002年全国囲棋個人戦男子組第1戦 | Huang Yizhong | Dong Yan | Lose | W+0.5 | 7.5 | 2671 | 0 | 
+| 2002-09-05 | 第4回中国囲碁甲級リーグ第12節 | Wang Yang | Huang Yizhong | Win | W+2.5 | 7.5 | 2671 | 0 | 
+| 2002-08-24 | 第6回中韓天元対抗戦第3局 | Huang Yizhong | Park Yeonghun | Lose | W+6.5 | 6.5 | 2671 | 0 | 
+| 2002-08-23 | 第6回中韓天元対抗戦第2局 | Park Yeonghun | Huang Yizhong | Win | W+R | 6.5 | 2671 | 0 | 
+| 2002-08-21 | 第6回中韓天元対抗戦第1局 | Huang Yizhong | Park Yeonghun | Lose | W+R | 6.5 | 2671 | 0 | 
+| 2002-08-12 | 第4期阿含・桐山杯中国早碁オープン戦2回戦 | Liu Jing | Huang Yizhong | Win | W+6.5 | 7.5 | 2671 | 0 | 
+| 2002-08-09 | 第4回農心杯中国選抜戦 | Huang Yizhong | Gu Li | Lose | W+4.5 | 6.5 | 2671 | 0 | 
+| 2002-08-07 | 第4期阿含・桐山杯中国早碁オープン戦1回戦 | Chen Yaoye | Huang Yizhong | Win | W+R | 7.5 | 2671 | 0 | 
+| 2002-07-11 | 2002年中国段位戦 | Huang Yizhong | Li Liang | Win | B+R | 7.5 | 2671 | 0 | 
+| 2002-04-04 | 第4回中国囲碁甲級リーグ第1節 | Huang Yizhong | Zhang Wendong | Win | B+R | 7.5 | 2671 | 2671 | 
+| 2002-03-09 | 第15期中国囲碁名人戦1回戦 | Huang Yizhong | Zhu Songli | Lose | W+R | 7.5 | missing | 0 | 
+| 2002-03-03 | 第16期中国囲碁天元戦挑戦手合三番勝負第2局 | Chang Hao | Huang Yizhong | Win | W+R | 7.5 | missing | 0 | 
+| 2002-03-01 | 第16期中国囲碁天元戦挑戦手合三番勝負第1局 | Huang Yizhong | Chang Hao | Win | B+R | 7.5 | missing | 0 | 
+| 2002-02-06 | 第16期中国囲碁天元戦挑戦者決定戦 | Wang Lei (b) | Huang Yizhong | Win | W+0.5 | 7.5 | missing | 0 | 
+| 2002-02-04 | 第16期中国囲碁天元戦準決勝 | Dong Yan | Huang Yizhong | Win | W+0.5 | 7.5 | missing | 0 | 
+| 2002-01-26 | 第16期中国囲碁天元戦3回戦 | Huang Yizhong | Zhou Heyang | Win | B+3.5 | 7.5 | missing | 0 | 
+| 2002-01-24 | 第16期中国囲碁天元戦2回戦 | Liu Shizhen | Huang Yizhong | Win | W+0.5 | 7.5 | missing | missing |
 
 
 

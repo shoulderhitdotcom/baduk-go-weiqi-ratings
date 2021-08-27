@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Oh Yujin vs Wang Chenxing** | **Oh Yujin streak** | **Wang Chenxing streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Oh Yujin | Wang Chenxing | W+R | 7.5 | 8:6 | 0 | 3 | 
 | 2021-03-26 | 第8回中国女子囲碁甲級リーグ | Oh Yujin | Wang Chenxing | W+R | 7.5 | 8:5 | 0 | 2 | 
 | 2019-06-05 | 第5回韓国女子囲碁リーグ第4節第3試合第2局 | Oh Yujin | Wang Chenxing | W+R | 6.5 | 8:4 | 0 | 1 | 
 | 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦1回戦 | Wang Chenxing | Oh Yujin | W+R | 7.5 | 8:3 | 2 | 0 | 

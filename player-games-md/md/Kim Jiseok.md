@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-28 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kim Jiseok | Byun Sangil | Win | B+R | 6.5 | 3525 | 55 | 
 | 2021-07-21 | 第23回農心杯韓国予選 |  | Kim Jiseok | Lose | B+R | 6.5 | 3470 | -28 | 
 | 2021-07-15 | 第26回GSカルテックス杯プロ棋戦準決勝 | Kim Jiseok | Shin Jinseo | Lose | W+R | 6.5 | 3498 | -2 | 
 | 2021-06-25 | 第26回GSカルテックス杯プロ棋戦3回戦 | An Sungjoon | Kim Jiseok | Win | W+2.5 | 6.5 | 3500 | 1 | 

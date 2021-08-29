@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jian Jingting vs Xu Haohong** | **Jian Jingting streak** | **Xu Haohong streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-24 | 第2期聯電杯プロ囲碁戦リーグ | Jian Jingting | Xu Haohong | B+R | 6.5 | 4:12 | 2 | 0 | 
 | 2021-03-09 | 第20期天元戦（台湾）リーグ | Xu Haohong | Jian Jingting | W+R | 6.5 | 3:12 | 1 | 0 | 
 | 2021-02-04 | 第13回海峰杯プロ囲碁戦決勝三番勝負第2局  | Xu Haohong | Jian Jingting | B+R | 6.5 | 2:12 | 0 | 3 | 
 | 2021-02-01 | 第13回海峰杯プロ囲碁戦決勝三番勝負第1局  | Jian Jingting | Xu Haohong | W+R | 6.5 | 2:11 | 0 | 2 | 

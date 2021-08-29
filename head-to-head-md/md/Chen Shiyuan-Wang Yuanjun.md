@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Shiyuan vs Wang Yuanjun** | **Chen Shiyuan streak** | **Wang Yuanjun streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-26 | 第2期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Chen Shiyuan | B+R | 6.5 | 13:20 | 0 | 9 | 
 | 2020-07-03 | 第1期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Wang Yuanjun | W+4.5 | 6.5 | 13:19 | 0 | 8 | 
 | 2020-03-17 | 第19期天元戦（台湾）リーグ | Chen Shiyuan | Wang Yuanjun | W+R | 6.5 | 13:18 | 0 | 7 | 
 | 2019-11-21 | 第12期棋王戦（台湾）リーグ | Chen Shiyuan | Wang Yuanjun | W+R | 6.5 | 13:17 | 0 | 6 | 

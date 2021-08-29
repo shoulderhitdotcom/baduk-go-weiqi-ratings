@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lu Yiquan vs Xu Haohong** | **Lu Yiquan streak** | **Xu Haohong streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-22 | 第2期聯電杯プロ囲碁戦リーグ | Lu Yiquan | Xu Haohong | B+R | 6.5 | 2:6 | 1 | 0 | 
 | 2021-08-10 | 第2期聯電杯プロ囲碁戦勝部3回戦 | Lu Yiquan | Xu Haohong | W+R | 6.5 | 1:6 | 0 | 2 | 
 | 2021-03-15 | 第2期名人冠軍戦3回戦  | Xu Haohong | Lu Yiquan | B+R | 6.5 | 1:5 | 0 | 1 | 
 | 2021-02-23 | 第20期天元戦（台湾）リーグ | Xu Haohong | Lu Yiquan | W+R | 6.5 | 1:4 | 1 | 0 | 

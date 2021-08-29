@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Shiyuan vs Jian Jingting** | **Chen Shiyuan streak** | **Jian Jingting streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-22 | 第2期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Jian Jingting | W+R | 6.5 | 4:9 | 0 | 1 | 
 | 2021-03-26 | 第17期国手戦（台湾） | Chen Shiyuan | Jian Jingting | B+R | 6.5 | 4:8 | 3 | 0 | 
 | 2021-03-11 | 第2期名人冠軍戦2回戦 | Jian Jingting | Chen Shiyuan | W+R | 6.5 | 3:8 | 2 | 0 | 
 | 2020-04-14 | 第19期天元戦（台湾）リーグ | Chen Shiyuan | Jian Jingting | B+R | 6.5 | 2:8 | 1 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Qirui vs Jian Jingting** | **Chen Qirui streak** | **Jian Jingting streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-26 | 第2期聯電杯プロ囲碁戦リーグ | Jian Jingting | Chen Qirui | W+R | 6.5 | 12:6 | 2 | 0 | 
 | 2021-05-10 | 第11期友士杯十段戦敗部2回戦 | Jian Jingting | Chen Qirui | W+R | 6.5 | 11:6 | 1 | 0 | 
 | 2021-03-08 | 第2期名人冠軍戦1回戦 | Jian Jingting | Chen Qirui | B+R | 6.5 | 10:6 | 0 | 1 | 
 | 2021-03-02 | 第20期天元戦（台湾）リーグ | Jian Jingting | Chen Qirui | W+R | 6.5 | 10:5 | 1 | 0 | 

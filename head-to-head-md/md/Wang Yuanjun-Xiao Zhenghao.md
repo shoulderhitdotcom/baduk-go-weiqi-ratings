@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Wang Yuanjun vs Xiao Zhenghao** | **Wang Yuanjun streak** | **Xiao Zhenghao streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-24 | 第2期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Xiao Zhenghao | B+R | 6.5 | 23:20 | 2 | 0 | 
 | 2021-07-26 | 第11期友士杯十段戦敗部決勝 | Xiao Zhenghao | Wang Yuanjun | W+R | 6.5 | 22:20 | 1 | 0 | 
 | 2021-05-10 | 第11期友士杯十段戦勝部準決勝 | Xiao Zhenghao | Wang Yuanjun | B+R | 6.5 | 21:20 | 0 | 1 | 
 | 2021-04-16 | 第17期国手戦（台湾）8強戦 | Xiao Zhenghao | Wang Yuanjun | W+R | 6.5 | 21:19 | 1 | 0 | 

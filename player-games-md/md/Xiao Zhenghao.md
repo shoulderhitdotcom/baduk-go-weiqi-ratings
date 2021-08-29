@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-29 | 第2期聯電杯プロ囲碁戦リーグ | Xu Haohong | Xiao Zhenghao | Win | W+R | 6.5 | 3083 | 31 | 
+| 2021-08-26 | 第2期聯電杯プロ囲碁戦リーグ | Lu Yiquan | Xiao Zhenghao | Win | W+R | 6.5 | 3052 | -23 | 
+| 2021-08-24 | 第2期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Xiao Zhenghao | Lose | B+R | 6.5 | 3075 | 3075 | 
+| 2021-08-22 | 第2期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Chen Qirui | Lose | W+R | 6.5 | missing | -3086 | 
 | 2021-08-19 | 第2期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Xiao Zhenghao | Win | W+R | 6.5 | 3086 | -67 | 
 | 2021-08-17 | 第2期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Jian Jingting | Win | B+R | 6.5 | 3153 | 108 | 
 | 2021-08-15 | 第2期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao |  | Lose | W+1.5 | 6.5 | 3045 | 3045 | 
@@ -65,7 +69,7 @@
 | 2020-09-13 | 第8期中環碁聖戦2回戦 | Chen Shiyuan | Xiao Zhenghao | Win | W+R | 6.5 | 3105 | 14 | 
 | 2020-09-08 | 第1期聯電杯プロ囲碁戦リーグ残留プレーオフ | Lu Yiquan | Xiao Zhenghao | Win | W+R | 6.5 | 3091 | 48 | 
 | 2020-09-04 | 第1期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Chen Qirui | Lose | W+R | 6.5 | 3043 | -13 | 
-| 2020-09-03 | 第13期棋王戦（台湾）予選 | Bai Xinhui | Xiao Zhenghao | Win | W+R | 6.5 | 3056 | -13 | 
+| 2020-09-03 | 第13期棋王戦（台湾）予選 |  | Xiao Zhenghao | Win | W+R | 6.5 | 3056 | -13 | 
 | 2020-08-25 | 第1期聯電杯プロ囲碁戦リーグ | Lu Yiquan | Xiao Zhenghao | Lose | B+R | 6.5 | 3069 | -17 | 
 | 2020-08-21 | 第1期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Li Wei | Win | B+R | 6.5 | 3086 | 152 | 
 | 2020-07-07 | 第1期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Xiao Zhenghao | Win | W+R | 6.5 | 2934 | 27 | 

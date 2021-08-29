@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-29 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Dongyun | Kang Seungmin | Win | W+R | 6.5 | 3332 | 46 | 
 | 2021-07-19 | 第23回農心杯韓国予選 | Kim Myounghoon | Kang Seungmin | Lose | B+R | 6.5 | 3286 | -35 | 
 | 2021-06-16 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Seungmin | Kim Jiseok | Lose | W+R | 6.5 | 3321 | -24 | 
 | 2021-05-29 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Hong Mujin | Kang Seungmin | Win | W+R | 6.5 | 3345 | 1 | 

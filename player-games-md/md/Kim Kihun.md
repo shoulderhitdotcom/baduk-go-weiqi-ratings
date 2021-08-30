@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Chongsu | Lose | W+6.5 | 6.5 | 2620 | -25 | 
 | 2021-08-16 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Soojang | Win | B+15.5 | 6.5 | 2645 | 2645 | 
 | 2021-08-12 | 2021韓国シニア囲碁リーグ | Kim Kihun | Yoo Changhyuk | Lose | W+8.5 | 6.5 | missing | -2614 | 
 | 2021-08-05 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Kim Kihun | Lose | B+R | 6.5 | 2614 | -206 | 

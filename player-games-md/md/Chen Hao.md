@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 第12期中国竜星戦予選 | Chen Hao | Yang Kaiwen | Lose | W+R | 7.5 | 3119 | 3119 | 
+| 2021-08-25 | 第12期中国竜星戦予選 |  | Chen Hao | Win | W+0.02 | 7.5 | missing | -3132 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Chen Hao | Zhao Chenyu | Lose | W+R | 7.5 | 3132 | 2 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Li Qincheng | Chen Hao | Lose | B+R | 7.5 | 3130 | -20 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Chen Hao | Tu Xiaoyu | Lose | W+R | 7.5 | 3150 | -20 | 

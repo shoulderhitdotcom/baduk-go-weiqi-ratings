@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 第12期中国竜星戦予選 |  | Shen Peiran | Lose | B+R | 7.5 | 2807 | 47 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Shen Peiran | Huang Yunsong | Lose | W+1¼ | 7.5 | 2760 | 6 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Shen Peiran | Dang Yifei | Lose | W+R | 7.5 | 2754 | 2754 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Shen Peiran | Wang Xinghao | Lose | W+R | 7.5 | missing | 0 | 

@@ -7,10 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Wang Chunhui | Win | B+R | 7.5 | 3349 | 1 | 
+| 2021-08-30 | 第12期中国竜星戦予選 |  | Huang Mingyu | Win | W+R | 7.5 | 3416 | 68 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Wang Chunhui | Win | B+R | 7.5 | 3348 | 12 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Huang Mingyu | Lose | B+¾ | 7.5 | 3336 | 4 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Fan Tingyu | Lose | W+2¼ | 7.5 | 3332 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Fan Tingyu | Lose | W+2¼ | 7.5 | 3332 | -13 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Zhang Tao | Huang Mingyu | Win | W+R | 7.5 | 3345 | 14 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Huang Mingyu | Lose | B+R | 7.5 | 3331 | -11 | 

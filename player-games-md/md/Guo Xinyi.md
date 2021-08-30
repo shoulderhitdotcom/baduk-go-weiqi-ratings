@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 第12期中国竜星戦予選 | Guo Xinyi | Li Xiangyu | Win | B+R | 7.5 | 3401 | 64 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Guo Xinyi | Peng Liyao | Win | B+R | 7.5 | 3337 | 104 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Guo Xinyi | Ke Jie | Lose | W+5¼ | 7.5 | 3233 | -15 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Xu Haohong | Guo Xinyi | Win | W+R | 7.5 | 3248 | 123 | 

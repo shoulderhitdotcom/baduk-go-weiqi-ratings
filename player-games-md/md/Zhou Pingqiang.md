@@ -5,180 +5,182 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第2期聯電杯プロ囲碁戦予選 | missing | Zhou Pingqiang | W+R | 2021-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qS7sVtvI5FzuJhEjBNJQkw%3D%3D) | 
-| 第11期友士杯十段戦予選 | missing | Zhou Pingqiang | B+R | 2021-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pSI2Ku%2BN9erfT9VdN7JNsA%3D%3D) | 
-| 第11期友士杯十段戦予選 | Zhou Pingqiang | missing | B+0.5 | 2021-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IINXGn08YwY0MkmeANcidg%3D%3D) | 
-| 第11期友士杯十段戦予選 | Lin Shixun | Zhou Pingqiang | B+R | 2021-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K8Bs2HT%2BKXJq2%2ByCMdc80Q%3D%3D) | 
-| 第17期国手戦（台湾） | Zhou Pingqiang | missing | W+R | 2021-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dbU9YpfQG0U55H8eTohPdg%3D%3D) | 
-| 第17期国手戦（台湾） | missing | Zhou Pingqiang | W+R | 2021-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O5YFG%2FocPi%2BttoFp%2F7Mxkg%3D%3D) | 
-| 第2期名人冠軍戦予選 | missing | Zhou Pingqiang | B+6.5 | 2021-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eyl0VS2JP66ppjY6UQV2ng%3D%3D) | 
-| 第2期名人冠軍戦予選 | Zhou Pingqiang | missing | B+R | 2021-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RGQ61wGUSdKuIa%2BWkubZ7g%3D%3D) | 
-| 第2期名人冠軍戦予選 | Chen Xi | Zhou Pingqiang | B+R | 2021-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6BhfHqZb%2BtljmfxdOFrpNA%3D%3D) | 
-| 第20期天元戦（台湾）予選 | Zhou Pingqiang | Li Wei | W+1.5 | 2021-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=00jZ2iT1j2x0t5zNBv6ysw%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦1回戦 | Zhou Pingqiang | Zhou Yinnan | W+R | 2021-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=stj%2BtOC47SlIOg7FI53V1Q%3D%3D) | 
-| 第20期天元戦（台湾）予選 | Zhou Pingqiang | Liu Jianchang | B+R | 2021-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BqZde0RLWq04kUAP7PO0wQ%3D%3D) | 
-| 第20期天元戦（台湾）予選 | missing | Zhou Pingqiang | W+R | 2021-01-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WyF%2B0%2BuHQqID0npY3jRvkA%3D%3D) | 
-| 第1回UMC聯電杯早碁争覇戦1回戦 | Zhou Pingqiang | missing | W+6.5 | 2020-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8gRU%2F%2FqTf1c7aZOzaKhhdA%3D%3D) | 
-| 第16期国手戦（台湾）2回戦 | Zhou Pingqiang | missing | W+4.5 | 2020-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T%2B3ksbmCmWA4x7wdM7rs1g%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Zhou Pingqiang | missing | W+R | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SP9EAhbTXXIO%2BLifSst3Ww%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Zhou Pingqiang | Ye Hongyuan | W+R | 2020-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RrDv3e3HYr8PyW%2B1w9mCKg%3D%3D) | 
-| 第8期中環碁聖戦1回戦 | Zhou Pingqiang | Huang Shiyuan | W+4.5 | 2020-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BFVOt1JUl4rM2W%2FQ%2FzH%2Big%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Lin Shengxian | Zhou Pingqiang | W+R | 2020-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m3cIXEf4G%2BMAcWo0QrGBjQ%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦予選 | Lin Shuyang | Zhou Pingqiang | B+R | 2020-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=waMDgklHMRoAxkjfxVl5Hw%3D%3D) | 
-| 第10期友士杯十段戦予選敗部決勝 | Zhou Pingqiang | Li Wei | W+8.5 | 2020-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tNmmhA6piyrFiOhWdDcsIg%3D%3D) | 
-| 第10期友士杯十段戦予選敗部4回戦 | Zhou Pingqiang | Lin Xiuping | B+11.5 | 2020-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i7TXlvu7XshtcrZ5ZeXAOw%3D%3D) | 
-| 第10期友士杯十段戦予選勝部決勝 | Yang Bowei | Zhou Pingqiang | B+R | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hQdgRE8%2BEYcFEcI%2Blh%2FZMA%3D%3D) | 
-| 第10期友士杯十段戦予選勝部2回戦 | Zhou Pingqiang | Lin Xiuping | B+4.5 | 2020-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BH%2FKN6wh0kJAAAnnlqET%2FQ%3D%3D) | 
-| 第10期友士杯十段戦予選勝部1回戦 | Zhou Pingqiang | missing | B+R | 2020-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wVgDFNcgxnpeVuiRPx%2BX8g%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦32強戦 | Lai Junfu | Zhou Pingqiang | B+4.5 | 2020-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hhRcZI%2FTQweEupv%2BsQIBsQ%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦64強戦 | Lin Xiuping | Zhou Pingqiang | W+R | 2020-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dR71m5YegkIWnsrJ2Uo4IA%3D%3D) | 
-| 第1期名人冠軍戦予選敗部1回戦 | missing | Zhou Pingqiang | B+R | 2020-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gOOUQjWyTkhOaVLSX907yA%3D%3D) | 
-| 第1期名人冠軍戦予選勝部1回戦 | Zhou Pingqiang | Xu Yuqi | W+0.5 | 2020-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jQwySSeD2AqWJFBbQCC2%2Bg%3D%3D) | 
-| 第19期天元戦（台湾）予選 | Zhou Pingqiang | missing | W+R | 2020-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L15%2FRJcUuS4IUpQ2yNz1lg%3D%3D) | 
-| 第19期天元戦（台湾）予選 | Zhou Pingqiang | missing | B+R | 2020-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Uu5sv2Tb6zVYaTCcRLSEhg%3D%3D) | 
-| 第19期天元戦（台湾）予選 | Zhou Pingqiang | Zhou Keping | B+7.5 | 2020-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hYTOcTjR1Ao0f0ZN24PUew%3D%3D) | 
-| 第12期棋王戦（台湾）予選敗部1回戦 | Zhou Pingqiang | Lin Yuxiang | W+R | 2019-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=STb01G5EEq67RgBCTrLONA%3D%3D) | 
-| 第12期棋王戦（台湾）予選勝部1回戦 | Zhou Pingqiang | missing | W+8.5 | 2019-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D9gCzR2mrW6P1zojjj68AQ%3D%3D) | 
-| 第7期中環碁聖戦2回戦 | Zhou Pingqiang | Chen Qirui | W+R | 2019-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=21ORiBqYeEPobF0IyqAiDw%3D%3D) | 
-| 第7期中環碁聖戦1回戦 | Ye Hongyuan | Zhou Pingqiang | W+5.5 | 2019-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NDuZhi4xMAG5%2BDIwEuUzTA%3D%3D) | 
-| 第12期棋王戦（台湾）資格戦敗部1回戦 | Zhou Pingqiang | Liu Jianchang | B+R | 2019-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=INUfAEsu9NomlYRDXwkvrg%3D%3D) | 
-| 第15期国手戦（台湾）1回戦 | Lai Junfu | Zhou Pingqiang | B+R | 2019-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2zUSd18vllqJ8Rywe5O5Nw%3D%3D) | 
-| 第12期棋王戦（台湾）資格戦勝部1回戦 | Zhou Pingqiang | missing | W+R | 2019-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SG2Kj1%2FJVYdIFdZmSTPZqw%3D%3D) | 
-| 第9期友士杯十段戦予選敗部3回戦 | Zhou Pingqiang | missing | W+R | 2019-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3NzoMvLZF3EC3dF7FjGUDA%3D%3D) | 
-| 第9期友士杯十段戦予選敗部2回戦 | Huang Shiyuan | Zhou Pingqiang | W+R | 2019-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=keOWezm7Khs8Ij9SghLIcQ%3D%3D) | 
-| 第9期友士杯十段戦予選敗部1回戦 | Zhou Pingqiang | missing | B+R | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ONSeWiHB22O4CWfud%2BPL%2Fg%3D%3D) | 
-| 第9期友士杯十段戦予選勝部1回戦 | Zhou Pingqiang | Wei Haoting | W+2.5 | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JQqjBDa0y788IntT3VTS9w%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦32強戦 | Wang Yuanjun | Zhou Pingqiang | B+R | 2019-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lnZlCfqRocZQlfSa3H4Lzg%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦64強戦 | Zhou Pingqiang | missing | B+R | 2019-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k4LHdwGLdee12docYFLKXg%3D%3D) | 
-| 第18期天元戦（台湾）敗部1回戦 | Zhou Pingqiang | Chen Qirui | W+R | 2019-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nD%2FaVBZ0e02kv8URn09D3w%3D%3D) | 
-| 第18期天元戦（台湾）勝部1回戦 | Xu Haohong | Zhou Pingqiang | B+R | 2019-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nJWC5RCZQutVZahBw9KJ4Q%3D%3D) | 
-| 第18期天元戦（台湾）予選3回戦 | Ding Shaojie | Zhou Pingqiang | W+R | 2019-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mWXVUnN52kJGYs3gcV%2FlSw%3D%3D) | 
-| 第18期天元戦（台湾）予選1回戦 | Zhou Pingqiang | missing | B+R | 2019-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RV86R3OGVPFLxWUPujZu%2Bg%3D%3D) | 
-| 第14期国手戦（台湾）2回戦 | Xu Yuqi | Zhou Pingqiang | B+R | 2018-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sw2f97ZYfEY765yDb3io4g%3D%3D) | 
-| 第11期棋王戦（台湾）予選敗部2回戦 | Zhou Pingqiang | missing | W+R | 2018-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=22x1KxHWXudrvi3dmVoEwg%3D%3D) | 
-| 第11期棋王戦（台湾）予選敗部1回戦 | Zhou Pingqiang | Liu Jianchang | B+R | 2018-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f5SzaH%2BjAMuO%2BVHnIWl0ZQ%3D%3D) | 
-| 第14期国手戦（台湾）1回戦上半区 | Zhang Kaixin | Zhou Pingqiang | W+R | 2018-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a2wydvfn%2FapRyzQU1zS7PQ%3D%3D) | 
-| 第11期棋王戦（台湾）予選勝部1回戦 | Zhou Pingqiang | Xiao Zhenghao | W+R | 2018-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4xjNDFNYpWZFm3ZgqIFlMw%3D%3D) | 
-| 第6期中環碁聖戦1回戦上半区 | Zhou Pingqiang | Xu Yuqi | w+4.5 | 2018-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mMBosG76pCHK1M4Hm3d7IQ%3D%3D) | 
-| 第8期友士杯十段戦予選 | missing | Zhou Pingqiang | B+4.5 | 2018-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T%2BirJuCzHW%2B2VGmCUEDuLw%3D%3D) | 
-| 第8期友士杯十段戦予選 | Zhou Pingqiang | Ding Shaojie | B+R | 2018-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uMkxV1X6UnJkBd%2FDC2L5Fw%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦64強戦 | Zhou Pingqiang | Ye Hongyuan | W+9.5 | 2018-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=miYMXWrOI%2BlHA8dKDrPJAw%3D%3D) | 
-| 第十七回天元戦予選第二回戦 | missing | Zhou Pingqiang | B+R | 2018-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7DWFO5rduefXXKi5Xad8CQ%3D%3D) | 
-| 第13期国手戦（台湾）首輪下半区 | Zhou Pingqiang | Zhang Zhengping | B+R | 2017-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5rSa%2B3sa5K05g3Q6QoB00w%3D%3D) | 
-| 第5期中環碁聖戦首輪下半区 | Liu Yaowen | Zhou Pingqiang | B+6.5 | 2017-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6JQZH6IwZ1dCQlkVMyFR%2FA%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦16強戦 | Chen Shiyuan | Zhou Pingqiang | B+R | 2017-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zu9Gi2QdS%2BmuS7fGZbZCRg%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦32強戦 | Zhou Pingqiang | Lin Zhihan | B+2.5 | 2017-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZQZOBL8b0ibcbAqt5iTPjA%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦64強戦 | Zhou Pingqiang | Lin Jiehan | B+4.5 | 2017-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gaSYfZMv2%2F9Q%2B%2BKCgoA6ow%3D%3D) | 
-| 第22期LG盃台湾代表選抜戦初戦第二局 | Chen Qirui | Zhou Pingqiang | B+R | 2017-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E03QMdbKSOBQqqp7t1YzbA%3D%3D) | 
-| 第6期友士杯十段戦予選 | Chen Feng | Zhou Pingqiang | B+R | 2016-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jAdwxBN3PPXuwvCiUTUwFg%3D%3D) | 
-| 第6期友士杯十段戦予選 | Lin Yuxiang | Zhou Pingqiang | W+0.5 | 2016-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Vm5KoeY5nM2CMOBlySxRg%3D%3D) | 
-| 第6期友士杯十段戦予選 | missing | Zhou Pingqiang | W+0.5 | 2016-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U%2B1%2B6060a%2F8%2Fhj16t72NRw%3D%3D) | 
-| 第6期友士杯十段戦予選 | Huang Shiyuan | Zhou Pingqiang | B+1.5 | 2016-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qE90KifqNKPdGRSmCNtueQ%3D%3D) | 
-| 第6期友士杯十段戦予選 | Liu Yaowen | Zhou Pingqiang | W+R | 2016-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kY3uXdvg9nk5ElSlvx8YHA%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦32強戦 | Xu Haohong | Zhou Pingqiang | B+R | 2016-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DvkvoqdqtMHzaXMf2XwMZg%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦64強戦 | Zhou Pingqiang | Lin Yuxiang | B+0.5 | 2016-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EFqkzsU6jStdW6XTEZVvOA%3D%3D) | 
-| 第5期友士杯十段戦敗者復活戦1回戦 | Zhou Pingqiang | Lin Lixiang | W+R | 2015-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fgbzhVNa5Nvs3QAummkBZQ%3D%3D) | 
-| 第5期友士杯十段戦1回戦 | Li Wei | Zhou Pingqiang | B+R | 2015-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qMLgS5cYrYzUZcZOgIYaog%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦16強戦 | Zhou Pingqiang | Wang Yuanjun | W+R | 2015-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p5kSaFGPyuSqIfQ5cWAB1Q%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦32強戦 | Zhou Yinnan | Zhou Pingqiang | W+R | 2015-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ioYeIx6IBnaJceLhkFS1Dw%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦64強戦 | Zhao Peizhe | Zhou Pingqiang | W+R | 2015-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xwyc56WlvMBEZrXkOuj4Mw%3D%3D) | 
-| 第6回海峰杯プロ囲碁戦32強戦 | Xiao Zhenghao | Zhou Pingqiang | B+R | 2014-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yFiXzSQLRWC99%2FgzOMzQmw%3D%3D) | 
-| 第6回海峰杯プロ囲碁戦64強戦 | Xia Daming | Zhou Pingqiang | W+R | 2014-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zJHomrHAYp3aQTT9aBYcTg%3D%3D) | 
-| 2014年日台精鋭交流戦第4戦 | Zhou Pingqiang | Yo Kagen | W+R | 2014-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mdoWGmqHTd5L%2F%2Fgz0SOEdQ%3D%3D) | 
-| 第5回海峰杯プロ囲碁戦32強戦 | Yang Mengyun | Zhou Pingqiang | B+1.5 | 2013-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jgbZOGQQHAmkh0%2FwSTl7NQ%3D%3D) | 
-| 第5回海峰杯プロ囲碁戦64強戦 | missing | Zhou Pingqiang | W+R | 2013-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qDS2mHw7nnODgLUKyYMRhA%3D%3D) | 
-| 第4回海峰杯プロ囲碁戦32強戦 | Zhou Pingqiang | Xia Daming | W+R | 2012-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o1lEEGpxgw5B2tsLdfnvCw%3D%3D) | 
-| 第4回海峰杯プロ囲碁戦64強戦 | Zhou Pingqiang | Chen Xi | B+R | 2012-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AoSQB3sdn5B16A90L4NBng%3D%3D) | 
-| 第5期棋王戦（台湾）予選 | Zhou Pingqiang | Lin Yuxiang | W+4.5 | 2012-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x7RIv5nE375s%2FqmQvOh6ww%3D%3D) | 
-| 第5期棋王戦（台湾）予選 | Zhou Pingqiang | Hei Jiajia | W+R | 2012-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=poY2yZITTfojU4pjfPwMyg%3D%3D) | 
-| 第3回海峰杯プロ囲碁戦64強戦 | Zhou Pingqiang | missing | W+0.5 | 2011-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HthMORuEIVzurJZOCOuC0w%3D%3D) | 
-| 第2回海峰杯プロ囲碁戦16強戦 | Zhou Pingqiang | Zhou Junxun | W+0.5 | 2010-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uCimVGx%2B1jicn%2FhpdH%2BLag%3D%3D) | 
-| 第2回海峰杯プロ囲碁戦32強戦 | Zhou Yinnan | Zhou Pingqiang | W+R | 2010-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tjzxWNkrGlDBia0S9bihdw%3D%3D) | 
-| 第2回海峰杯プロ囲碁戦64強戦 | Zhou Pingqiang | missing | B+R | 2010-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qp7a6F5bAeZks100eD3ZqA%3D%3D) | 
-| 第3期棋王戦（台湾）予選 | Lin Shuyang | Zhou Pingqiang | B+R | 2010-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zTJM4ecTPHmCktdhjusedg%3D%3D) | 
-| 第3期棋王戦（台湾）予選 | Zhang Zhengping | Zhou Pingqiang | W+R | 2010-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=THiqKWyYYhXnxok6qOazsg%3D%3D) | 
-| 第3期棋王戦（台湾）予選 | Zhou Pingqiang | Qin Shi | B+R | 2010-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oJkANO8mkAom84isfIsLaQ%3D%3D) | 
-| 第3期棋王戦（台湾）予選 | Zhou Pingqiang | Zhang Zhehao | W+R | 2009-12-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PssJ1mYx29BWZagcy1QtMA%3D%3D) | 
-| 第3期棋王戦（台湾）予選 | missing | Zhou Pingqiang | W+R | 2009-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I%2BIRAtPanmSw0NlnkFL7pw%3D%3D) | 
-| 第1回海峰杯プロ囲碁戦16強戦 | Zhou Pingqiang | Chen Shiyuan | W+R | 2009-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ueWuJCEubEHJiJKy9aKxHg%3D%3D) | 
-| 第1回海峰杯プロ囲碁戦32強戦 | Zhou Pingqiang | Qin Shi | B+R | 2009-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GIJDOtmOlvcHde6CVGffkg%3D%3D) | 
-| 第1回海峰杯プロ囲碁戦64強戦 | missing | Zhou Pingqiang | W+R | 2009-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hssYnY2ZvSIQrMoFTiLIZg%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯台湾予選 | Zhou Pingqiang | Xiao Zhenghao | B+R | 2008-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wxcQAosxwEIOqsZkfiKFHg%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯台湾予選 | Zhou Pingqiang | Liu Yaowen | B+R | 2008-01-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8nhF9W3eIrLqX0YAI5TBFg%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯台湾予選 | Zhou Pingqiang | Lin Yuxiang | B+R | 2008-01-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wTfzoCewUptL1kSf%2B4y%2Fnw%3D%3D) | 
-| 第3期国手戦（台湾）リーグ | Zhou Keping | Zhou Pingqiang | W+R | 2007-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mcmM9mMd%2BqRHq979qU4rjQ%3D%3D) | 
-| 第3期国手戦（台湾）リーグ | Lin Zhihan | Zhou Pingqiang | B+6.5 | 2007-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2QF5t97YQMGbnFlBjKqqNA%3D%3D) | 
-| 第3期国手戦（台湾）リーグ | Zhou Pingqiang | Xiao Zhenghao | W+R | 2007-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hMfG7%2BNJm91c9qman5YJiw%3D%3D) | 
-| 第3期国手戦（台湾）リーグ | Zhang Zhehao | Zhou Pingqiang | W+0.5 | 2007-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=suyeF6R4zSvF1p9hN3bMow%3D%3D) | 
-| 第3期国手戦（台湾）リーグ | Zhou Pingqiang | Zhou Junxun | W+2.5 | 2007-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sfbjTrSoWkm5elXjtsSO2A%3D%3D) | 
-| 第3期国手戦（台湾）リーグ | Zhou Pingqiang | Yu Keimin | W+6.5 | 2007-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y3O5pDPv%2FoEzjdqbN3IPGQ%3D%3D) | 
-| 第3期国手戦（台湾）リーグ | Zhou Pingqiang | Chen Yida | B+6.5 | 2007-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ld8jyZLoCrq4vyflzbHbOA%3D%3D) | 
-| 第14期中環杯囲碁オープン戦4回戦 | Zhou Pingqiang | Dai Jiashen | W+R | 2007-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aD%2Fl99lTs%2F3mK2DiagqRpw%3D%3D) | 
-| 第3期国手戦（台湾）予選 | Yu Keimin | Zhou Pingqiang | W+R | 2007-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i2KxA%2Bs9qAeBbEAnCVMLhw%3D%3D) | 
-| 第14期中環杯囲碁オープン戦3回戦 | Zhou Pingqiang | Lin Shengxian | B+3.5 | 2007-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VPUTDZxFp0SPBBrrPZsNOQ%3D%3D) | 
-| 第14期中環杯囲碁オープン戦2回戦 | missing | Zhou Pingqiang | W+0.5 | 2007-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=38aBP88yaVj%2FYnBRjfR31g%3D%3D) | 
-| 第14期中環杯囲碁オープン戦1回戦 | Yang Mengyun | Zhou Pingqiang | W+R | 2007-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MQaumi%2BMhO3ElpOhBT6qxQ%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯台湾予選 | Zhou Pingqiang | Huang Xiangren | W+R | 2007-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YDNN7vp9kg%2BCTXeTScJVzg%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯台湾予選 | Zhou Pingqiang | Lin Shuyang | B+R | 2007-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4mxi6yKRKh7UWbxtzS%2FiuA%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯台湾予選 | Lin Zhihan | Zhou Pingqiang | W+R | 2007-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2BpofnMhjAKbJL4gEjDqGA%3D%3D) | 
-| 2006年国際新鋭囲碁対抗戦第3戦 | Zhou Pingqiang | Mitani Tetsuya | W+R | 2006-11-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bWd4VCU31SNNeVjAX0ie5Q%3D%3D) | 
-| 2006年国際新鋭囲碁対抗戦第2戦 | Zhou Pingqiang | Gu Lingyi | W+R | 2006-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JjmNCJClIa4nqyeNpaCB8w%3D%3D) | 
-| 2006年国際新鋭囲碁対抗戦第1戦 | Jin Siyoung | Zhou Pingqiang | B+5.5 | 2006-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NFV2gYtbPqpIK9%2BD0zUcQA%3D%3D) | 
-| 第6期東鋼杯プロ囲碁戦4回戦 | Zhou Keping | Zhou Pingqiang | B+3.5 | 2006-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AhT5K%2FYRrgJmFsimC4jfjA%3D%3D) | 
-| 第6期東鋼杯プロ囲碁戦3回戦 | Zhou Pingqiang | Huang Chengyi | B+R | 2006-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1hZOzGG8FNg4DdDwQJXbPw%3D%3D) | 
-| 第2期王座戦（台湾）予選 | Zhou Pingqiang | Xia Daming | W+1.5 | 2006-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=orq1MHnff7H%2BXujNZmcvrA%3D%3D) | 
-| 第6期東鋼杯プロ囲碁戦2回戦 | Zhou Pingqiang | missing | B+R | 2006-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZEcekwSigR4OxBaxtWaD3A%3D%3D) | 
-| 第2期王座戦（台湾）予選 | Chen Yida | Zhou Pingqiang | B+5.5 | 2006-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=87eWfZXYLUSfhFOtuqaSDQ%3D%3D) | 
-| 第5期天元戦（台湾）リーグ | Lin Zhihan | Zhou Pingqiang | B+R | 2006-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LEviFdF%2B3%2FLp%2Ff3VuWk4JA%3D%3D) | 
-| 第2期王座戦（台湾）予選 | Huang Xiangren | Zhou Pingqiang | W+3.5 | 2006-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9WEOg2by0FEKDFYgpjr3cA%3D%3D) | 
-| 第5期天元戦（台湾）リーグ | Zhou Pingqiang | Yu Keimin | W+6.5 | 2006-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SZGkmlcwKYbSrZ5Ep1Y2KA%3D%3D) | 
-| 第2期王座戦（台湾）予選 | missing | Zhou Pingqiang | W+R | 2006-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1qxPHKgVxxD8bbEovV1ULQ%3D%3D) | 
-| 第5期天元戦（台湾）リーグ | Zhou Pingqiang | Chen Shiyuan | W+R | 2006-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G0jCaIc%2FASxo8MV4J4EwJQ%3D%3D) | 
-| 第5期天元戦（台湾）リーグ | Zhou Yinnan | Zhou Pingqiang | W+R | 2006-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=figsrR9ngLb4zopNd8av%2Fw%3D%3D) | 
-| 第5期天元戦（台湾）リーグ | Xia Daming | Zhou Pingqiang | B+R | 2006-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fBEWvyICK205Z3fc1o9MeA%3D%3D) | 
-| 第5期天元戦（台湾）リーグ | missing | Zhou Pingqiang | B+R | 2006-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GRqbN9ivX31cZLvU%2F%2FSrCA%3D%3D) | 
-| 第5期天元戦（台湾）リーグ | Zhou Pingqiang | Lin Shuyang | B+8.5 | 2006-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p2hMXEtSSTAyW8CYOWmJWw%3D%3D) | 
-| 第13期中環杯囲碁オープン戦1回戦 | Zhou Pingqiang | Chen Yida | W+R | 2006-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q7lSlN1XDHFOQJGSCCTm3A%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦台湾予選 | Zhou Pingqiang | Zhou Keping | W+0.5 | 2006-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XBbjn9W1NLDMsjsf8DgY4g%3D%3D) | 
-| 第5期新人王戦（旧｜台湾）1回戦 | Zhou Pingqiang | Chen Shiyuan | W+R | 2006-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ngTNUDDSPJ0iI1mJObC0Ig%3D%3D) | 
-| 第6回CMC杯テレビ早碁戦2回戦 | Zhou Pingqiang | Xiao Zhenghao | W+11.5 | 2006-01-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zm2ziAPjCJoKO2DVoN%2Fr0A%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦台湾予選 | Chen Yida | Zhou Pingqiang | W+5.5 | 2005-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EbfhUZ4RrcXaClrhDXC8%2BA%3D%3D) | 
-| 第1期王座戦（台湾）予選 | Lin Yuxiang | Zhou Pingqiang | B+1.5 | 2005-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jJzLN3aRw8TcNQ2X8yN4QA%3D%3D) | 
-| 第6回CMC杯テレビ早碁戦1回戦 | Zhou Pingqiang | Liu Jianchang | B+9.5 | 2005-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sziGy7OvoGhLfHNrq0ZhPg%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第3戦 | Zhou Pingqiang | Seto Taiki | W+R | 2005-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RLAwRMvnDHc9AcgXqpnAqg%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第2戦 | Zhou Pingqiang | Kang Dongyun | W+R | 2005-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AyBnPlXrw%2Fp7t8IIMikBvw%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第1戦 | Zhou Pingqiang | Li Zhe | W+R | 2005-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9CKKSwGoi0hPETPBehQBZQ%3D%3D) | 
-| 第1期国手戦（台湾）リーグ | missing | Zhou Pingqiang | B+1.5 | 2005-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a7Gf%2FosnUgLGxRqwYdPPjg%3D%3D) | 
-| 第1期国手戦（台湾）リーグ | Lin Shuyang | Zhou Pingqiang | W+R | 2005-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=genD40W8JEjDVsq%2BM3NGnQ%3D%3D) | 
-| 第1期国手戦（台湾）リーグ | Chen Shiyuan | Zhou Pingqiang | B+R | 2005-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vZf3OmZllzswqLwsdYFSPA%3D%3D) | 
-| 第1期国手戦（台湾）リーグ | Zhou Pingqiang | Huang Xiangren | B+R | 2005-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7xanjCTqgiQ%2B0kr56WD4%2BA%3D%3D) | 
-| 第1期国手戦（台湾）リーグ | Dai Jiashen | Zhou Pingqiang | B+R | 2005-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dUPPQDkILriOD9%2FJsFBrZQ%3D%3D) | 
-| 第1期国手戦（台湾）リーグ | Lin Zhihan | Zhou Pingqiang | B+R | 2005-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RRfcjv1HXqmvdO2yKuGXCw%3D%3D) | 
-| 第1期国手戦（台湾）リーグ | Lin Shengxian | Zhou Pingqiang | W+2.5 | 2005-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y15fS5yhvm9zY6WQU0RusQ%3D%3D) | 
-| 第1期国手戦（台湾）リーグ | Zhou Pingqiang | Xiao Zhenghao | W+R | 2005-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l8aTFpGn29WwNGjZtQv%2FEQ%3D%3D) | 
-| 第5期東鋼杯プロ囲碁戦2回戦 | Zhou Pingqiang | Chen Shiyuan | W+R | 2005-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gCKelL0x1HEtZM3JPT1Qyw%3D%3D) | 
-| 第1期国手戦（台湾）予選 | Zhou Pingqiang | Chen Shiyuan | W+R | 2005-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u2GkMVuTYhaQl8SEMq2hHw%3D%3D) | 
-| 第1期国手戦（台湾）予選 | Zhou Pingqiang | Xiao Zhenghao | B+0.5 | 2005-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=POxiU1AWb9sTbnMZfoIAlA%3D%3D) | 
-| 第5期東鋼杯プロ囲碁戦1回戦 | Zhou Pingqiang | missing | B+3.5 | 2005-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tCuQPgSfZvna0V09xJ9L8g%3D%3D) | 
-| 第1期国手戦（台湾）予選 | Zhou Pingqiang | Dang Xiyun | B+7.5 | 2005-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z5SHHFLcSLmboena4ta3dA%3D%3D) | 
-| 第5回CMC杯テレビ早碁戦第1輪3回戦 | Chen Yida | Zhou Pingqiang | B+R | 2004-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HAUKfMnp8SbTfWsBQs1zfw%3D%3D) | 
-| 第3期天元戦（台湾）予選 | Zhou Pingqiang | Cai Wenhe | B+R | 2004-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VYI6JLOSWW3IBThARXpSUQ%3D%3D) | 
-| 第3期天元戦（台湾）予選 | missing | Zhou Pingqiang | B+6.5 | 2004-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=meyFfb66XKEFeauc%2FpdILw%3D%3D) | 
-| 第4回CMC杯テレビ早碁戦3回戦 | Lin Zhihan | Zhou Pingqiang | B+R | 2004-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8IHvx4sBFXg0Ob1dFH5%2FrQ%3D%3D) | 
-| 第3期台湾棋院杯プロ囲碁戦リーグ | Zhou Pingqiang | Lin Shengxian | B+3.5 | 2003-12-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eLwFhx%2FOtdLWEFkA%2FKuyxA%3D%3D) | 
-| 第3期台湾棋院杯プロ囲碁戦リーグ | Zhou Keping | Zhou Pingqiang | B+1.5 | 2003-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a5Bx1SLUeWJkCebvV3VrGQ%3D%3D) | 
-| 第3期台湾棋院杯プロ囲碁戦リーグ | Lin Shuyang | Zhou Pingqiang | W+R | 2003-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iQloM%2FxU6Wh3KXwbqNs5bw%3D%3D) | 
-| 第3期台湾棋院杯プロ囲碁戦リーグ | Zhou Pingqiang | missing | B+10.5 | 2003-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tywp93A96iwRoTVK6MiZvQ%3D%3D) | 
-| 第4回CMC杯テレビ早碁戦2回戦 | Xiao Zhenghao | Zhou Pingqiang | W+6.5 | 2003-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mbV%2FFy8YYo%2BCUSFofFSl3g%3D%3D) | 
-| 第3期台湾棋院杯プロ囲碁戦リーグ | Zhou Pingqiang | Chen Yida | W+R | 2003-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U6yO04W2mVxESHhNHXHzJA%3D%3D) | 
-| 第3期台湾棋院杯プロ囲碁戦リーグ | Zhou Pingqiang | Dai Jiashen | B+14.5 | 2003-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lGJRqxdnT4R5hjBfxorWZA%3D%3D) | 
-| 第3期台湾棋院杯プロ囲碁戦予選 | Rao Ruiyong | Zhou Pingqiang | W+7.5 | 2003-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FMuOdJx%2FpMvtE9Sgs00Viw%3D%3D) | 
-| 第3期台湾棋院杯プロ囲碁戦予選 | Zhou Pingqiang | Lin Shuyang | W+7.5 | 2003-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sonqOQPFSjHCFtgEwuH3hg%3D%3D) | 
-| 第4回CMC杯テレビ早碁戦1回戦 | Zhou Keping | Zhou Pingqiang | W+R | 2003-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QQ2SC91hOiHv%2BATeptmmuA%3D%3D) | 
-| 第3期台湾棋院杯プロ囲碁戦予選 | Qin Shi | Zhou Pingqiang | W+R | 2003-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ciLwCBVhKkezIeUpkSvyUA%3D%3D) | 
-| 第3期東鋼杯プロ囲碁戦予選 | Zhou Pingqiang | Zhou Keping | W+R | 2003-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=355UblVFXLLBeLlHwEvbAg%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 第14期棋王戦（台湾）予選 | Liu Yaowen | Zhou Pingqiang | Lose | B+R | 6.5 | 2401 | 4 | 
+| 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Zhou Pingqiang | Lin Shixun | Lose | W+R | 6.5 | 2397 | -20 | 
+| 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 |  | Zhou Pingqiang | Win | W+R | 6.5 | 2417 | 29 | 
+| 2021-04-12 | 第11期友士杯十段戦予選 |  | Zhou Pingqiang | Lose | B+R | 6.5 | 2388 | -24 | 
+| 2021-03-29 | 第11期友士杯十段戦予選 | Zhou Pingqiang |  | Win | B+0.5 | 6.5 | 2412 | 0 | 
+| 2021-03-29 | 第11期友士杯十段戦予選 | Lin Shixun | Zhou Pingqiang | Lose | B+R | 6.5 | 2412 | 75 | 
+| 2021-03-26 | 第17期国手戦（台湾） | Zhou Pingqiang |  | Lose | W+R | 6.5 | 2337 | -178 | 
+| 2021-03-19 | 第17期国手戦（台湾） |  | Zhou Pingqiang | Win | W+R | 6.5 | 2515 | -49 | 
+| 2021-03-04 | 第2期名人冠軍戦予選 |  | Zhou Pingqiang | Lose | B+6.5 | 6.5 | 2564 | -9 | 
+| 2021-02-25 | 第2期名人冠軍戦予選 | Zhou Pingqiang |  | Win | B+R | 6.5 | 2573 | 8 | 
+| 2021-02-22 | 第2期名人冠軍戦予選 | Chen Xi | Zhou Pingqiang | Lose | B+R | 6.5 | 2565 | -78 | 
+| 2021-01-12 | 第20期天元戦（台湾）予選 | Zhou Pingqiang | Li Wei | Lose | W+1.5 | 6.5 | 2643 | -10 | 
+| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Zhou Pingqiang | Zhou Yinnan | Lose | W+R | 6.5 | 2653 | -15 | 
+| 2021-01-08 | 第20期天元戦（台湾）予選 | Zhou Pingqiang | Liu Jianchang | Win | B+R | 6.5 | 2668 | 21 | 
+| 2021-01-05 | 第20期天元戦（台湾）予選 |  | Zhou Pingqiang | Win | W+R | 6.5 | 2647 | 54 | 
+| 2020-10-14 | 第1回UMC聯電杯早碁争覇戦1回戦 | Zhou Pingqiang |  | Lose | W+6.5 | 6.5 | 2593 | 3 | 
+| 2020-09-22 | 第16期国手戦（台湾）2回戦 | Zhou Pingqiang |  | Lose | W+4.5 | 6.5 | 2590 | 1 | 
+| 2020-09-17 | 第13期棋王戦（台湾）予選 | Zhou Pingqiang |  | Lose | W+R | 6.5 | 2589 | -7 | 
+| 2020-09-14 | 第13期棋王戦（台湾）予選 | Zhou Pingqiang | Ye Hongyuan | Lose | W+R | 6.5 | 2596 | -42 | 
+| 2020-09-06 | 第8期中環碁聖戦1回戦 | Zhou Pingqiang | Huang Shiyuan | Lose | W+4.5 | 6.5 | 2638 | -48 | 
+| 2020-09-03 | 第13期棋王戦（台湾）予選 | Lin Shengxian | Zhou Pingqiang | Win | W+R | 6.5 | 2686 | 181 | 
+| 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Lin Shuyang | Zhou Pingqiang | Lose | B+R | 6.5 | 2505 | 127 | 
+| 2020-03-23 | 第10期友士杯十段戦予選敗部決勝 | Zhou Pingqiang | Li Wei | Lose | W+8.5 | 6.5 | 2378 | 0 | 
+| 2020-03-23 | 第10期友士杯十段戦予選敗部4回戦 | Zhou Pingqiang | Lin Xiuping | Win | B+11.5 | 6.5 | 2378 | 29 | 
+| 2020-03-19 | 第10期友士杯十段戦予選勝部決勝 | Yang Bowei | Zhou Pingqiang | Lose | B+R | 6.5 | 2349 | -6 | 
+| 2020-03-16 | 第10期友士杯十段戦予選勝部2回戦 | Zhou Pingqiang | Lin Xiuping | Win | B+4.5 | 6.5 | 2355 | 0 | 
+| 2020-03-16 | 第10期友士杯十段戦予選勝部1回戦 | Zhou Pingqiang |  | Win | B+R | 6.5 | 2355 | -7 | 
+| 2020-02-24 | 第12回海峰杯プロ囲碁戦32強戦 | Lai Junfu | Zhou Pingqiang | Lose | B+4.5 | 6.5 | 2362 | 18 | 
+| 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Lin Xiuping | Zhou Pingqiang | Win | W+R | 6.5 | 2344 | -98 | 
+| 2020-02-13 | 第1期名人冠軍戦予選敗部1回戦 |  | Zhou Pingqiang | Lose | B+R | 6.5 | 2442 | -121 | 
+| 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Zhou Pingqiang | Xu Yuqi | Lose | W+0.5 | 6.5 | 2563 | -14 | 
+| 2020-02-04 | 第19期天元戦（台湾）予選 | Zhou Pingqiang |  | Lose | W+R | 6.5 | 2577 | -68 | 
+| 2020-01-14 | 第19期天元戦（台湾）予選 | Zhou Pingqiang |  | Win | B+R | 6.5 | 2645 | 15 | 
+| 2020-01-08 | 第19期天元戦（台湾）予選 | Zhou Pingqiang | Zhou Keping | Win | B+7.5 | 6.5 | 2630 | 354 | 
+| 2019-09-23 | 第12期棋王戦（台湾）予選敗部1回戦 | Zhou Pingqiang | Lin Yuxiang | Lose | W+R | 6.5 | 2276 | 14 | 
+| 2019-09-19 | 第12期棋王戦（台湾）予選勝部1回戦 | Zhou Pingqiang |  | Lose | W+8.5 | 6.5 | 2262 | -42 | 
+| 2019-09-15 | 第7期中環碁聖戦2回戦 | Zhou Pingqiang | Chen Qirui | Lose | W+R | 6.5 | 2304 | -2 | 
+| 2019-09-08 | 第7期中環碁聖戦1回戦 | Ye Hongyuan | Zhou Pingqiang | Win | W+5.5 | 6.5 | 2306 | 28 | 
+| 2019-09-05 | 第12期棋王戦（台湾）資格戦敗部1回戦 | Zhou Pingqiang | Liu Jianchang | Win | B+R | 6.5 | 2278 | 6 | 
+| 2019-09-03 | 第15期国手戦（台湾）1回戦 | Lai Junfu | Zhou Pingqiang | Lose | B+R | 6.5 | 2272 | -10 | 
+| 2019-09-02 | 第12期棋王戦（台湾）資格戦勝部1回戦 | Zhou Pingqiang |  | Lose | W+R | 6.5 | 2282 | -147 | 
+| 2019-04-10 | 第9期友士杯十段戦予選敗部3回戦 | Zhou Pingqiang |  | Lose | W+R | 6.5 | 2429 | 0 | 
+| 2019-04-10 | 第9期友士杯十段戦予選敗部2回戦 | Huang Shiyuan | Zhou Pingqiang | Win | W+R | 6.5 | 2429 | 65 | 
+| 2019-04-08 | 第9期友士杯十段戦予選敗部1回戦 | Zhou Pingqiang |  | Win | B+R | 6.5 | 2364 | 0 | 
+| 2019-04-08 | 第9期友士杯十段戦予選勝部1回戦 | Zhou Pingqiang | Wei Haoting | Lose | W+2.5 | 6.5 | 2364 | 24 | 
+| 2019-03-07 | 第11回海峰杯プロ囲碁戦32強戦 | Wang Yuanjun | Zhou Pingqiang | Lose | B+R | 6.5 | 2340 | -21 | 
+| 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 | Zhou Pingqiang |  | Win | B+R | 6.5 | 2361 | 296 | 
+| 2019-02-19 | 第18期天元戦（台湾）敗部1回戦 | Zhou Pingqiang | Chen Qirui | Lose | W+R | 6.5 | 2065 | -3 | 
+| 2019-02-12 | 第18期天元戦（台湾）勝部1回戦 | Xu Haohong | Zhou Pingqiang | Lose | B+R | 6.5 | 2068 | 83 | 
+| 2019-01-22 | 第18期天元戦（台湾）予選3回戦 | Ding Shaojie | Zhou Pingqiang | Win | W+R | 6.5 | 1985 | 109 | 
+| 2019-01-08 | 第18期天元戦（台湾）予選1回戦 | Zhou Pingqiang |  | Win | B+R | 6.5 | 1876 | -161 | 
+| 2018-10-02 | 第14期国手戦（台湾）2回戦 | Xu Yuqi | Zhou Pingqiang | Lose | B+R | 6.5 | 2037 | 7 | 
+| 2018-09-27 | 第11期棋王戦（台湾）予選敗部2回戦 | Zhou Pingqiang |  | Lose | W+R | 6.5 | 2030 | -70 | 
+| 2018-09-20 | 第11期棋王戦（台湾）予選敗部1回戦 | Zhou Pingqiang | Liu Jianchang | Win | B+R | 6.5 | 2100 | -32 | 
+| 2018-09-18 | 第14期国手戦（台湾）1回戦上半区 | Zhang Kaixin | Zhou Pingqiang | Win | W+R | 6.5 | 2132 | 274 | 
+| 2018-09-17 | 第11期棋王戦（台湾）予選勝部1回戦 | Zhou Pingqiang | Xiao Zhenghao | Lose | W+R | 6.5 | 1858 | -320 | 
+| 2018-09-02 | 第6期中環碁聖戦1回戦上半区 | Zhou Pingqiang | Xu Yuqi | Lose | w+4.5 | 6.5 | 2178 | 140 | 
+| 2018-05-07 | 第8期友士杯十段戦予選 |  | Zhou Pingqiang | Lose | B+4.5 | 6.5 | 2038 | 0 | 
+| 2018-05-07 | 第8期友士杯十段戦予選 | Zhou Pingqiang | Ding Shaojie | Win | B+R | 6.5 | 2038 | -509 | 
+| 2018-03-01 | 第10回海峰杯プロ囲碁戦64強戦 | Zhou Pingqiang | Ye Hongyuan | Lose | W+9.5 | 6.5 | 2547 | -23 | 
+| 2018-01-09 | 第十七回天元戦予選第二回戦 |  | Zhou Pingqiang | Lose | B+R | 6.5 | 2570 | 276 | 
+| 2017-09-12 | 第13期国手戦（台湾）首輪下半区 | Zhou Pingqiang | Zhang Zhengping | Win | B+R | 6.5 | 2294 | 2294 | 
+| 2017-09-10 | 第5期中環碁聖戦首輪下半区 | Liu Yaowen | Zhou Pingqiang | Lose | B+6.5 | 6.5 | missing | -2358 | 
+| 2017-03-16 | 第9回海峰杯プロ囲碁戦16強戦 | Chen Shiyuan | Zhou Pingqiang | Lose | B+R | 6.5 | 2358 | -35 | 
+| 2017-03-13 | 第9回海峰杯プロ囲碁戦32強戦 | Zhou Pingqiang | Lin Zhihan | Win | B+2.5 | 6.5 | 2393 | 91 | 
+| 2017-03-09 | 第9回海峰杯プロ囲碁戦64強戦 | Zhou Pingqiang | Lin Jiehan | Win | B+4.5 | 6.5 | 2302 | -31 | 
+| 2017-02-10 | 第22期LG盃台湾代表選抜戦初戦第二局 | Chen Qirui | Zhou Pingqiang | Lose | B+R | 6.5 | 2333 | -47 | 
+| 2016-05-30 | 第6期友士杯十段戦予選 | Chen Feng | Zhou Pingqiang | Lose | B+R | 6.5 | 2380 | -85 | 
+| 2016-05-20 | 第6期友士杯十段戦予選 | Lin Yuxiang | Zhou Pingqiang | Win | W+0.5 | 6.5 | 2465 | 0 | 
+| 2016-05-20 | 第6期友士杯十段戦予選 |  | Zhou Pingqiang | Win | W+0.5 | 6.5 | 2465 | 222 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Huang Shiyuan | Zhou Pingqiang | Lose | B+1.5 | 6.5 | 2243 | 0 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Liu Yaowen | Zhou Pingqiang | Win | W+R | 6.5 | 2243 | 2243 | 
+| 2016-03-21 | 第8回海峰杯プロ囲碁戦32強戦 | Xu Haohong | Zhou Pingqiang | Lose | B+R | 6.5 | missing | -2424 | 
+| 2016-03-07 | 第8回海峰杯プロ囲碁戦64強戦 | Zhou Pingqiang | Lin Yuxiang | Win | B+0.5 | 6.5 | 2424 | -92 | 
+| 2015-06-15 | 第5期友士杯十段戦敗者復活戦1回戦 | Zhou Pingqiang | Lin Lixiang | Lose | W+R | 6.5 | 2516 | -103 | 
+| 2015-06-11 | 第5期友士杯十段戦1回戦 | Li Wei | Zhou Pingqiang | Lose | B+R | 6.5 | 2619 | 2619 | 
+| 2015-03-12 | 第7回海峰杯プロ囲碁戦16強戦 | Zhou Pingqiang | Wang Yuanjun | Lose | W+R | 6.5 | missing | 0 | 
+| 2015-03-09 | 第7回海峰杯プロ囲碁戦32強戦 | Zhou Yinnan | Zhou Pingqiang | Win | W+R | 6.5 | missing | 0 | 
+| 2015-03-05 | 第7回海峰杯プロ囲碁戦64強戦 | Zhao Peizhe | Zhou Pingqiang | Win | W+R | 6.5 | missing | 0 | 
+| 2014-03-06 | 第6回海峰杯プロ囲碁戦32強戦 | Xiao Zhenghao | Zhou Pingqiang | Lose | B+R | 6.5 | missing | 0 | 
+| 2014-03-03 | 第6回海峰杯プロ囲碁戦64強戦 | Xia Daming | Zhou Pingqiang | Win | W+R | 6.5 | missing | 0 | 
+| 2014-01-16 | 2014年日台精鋭交流戦第4戦 | Zhou Pingqiang | Yo Kagen | Lose | W+R | 6.5 | missing | 0 | 
+| 2013-03-14 | 第5回海峰杯プロ囲碁戦32強戦 | Yang Mengyun | Zhou Pingqiang | Lose | B+1.5 | 6.5 | missing | 0 | 
+| 2013-03-07 | 第5回海峰杯プロ囲碁戦64強戦 |  | Zhou Pingqiang | Win | W+R | 6.5 | missing | -2603 | 
+| 2012-11-01 | 第4回海峰杯プロ囲碁戦32強戦 | Zhou Pingqiang | Xia Daming | Lose | W+R | 6.5 | 2603 | -76 | 
+| 2012-10-18 | 第4回海峰杯プロ囲碁戦64強戦 | Zhou Pingqiang | Chen Xi | Win | B+R | 6.5 | 2679 | 2679 | 
+| 2012-02-23 | 第5期棋王戦（台湾）予選 | Zhou Pingqiang | Lin Yuxiang | Lose | W+4.5 | 6.5 | missing | 0 | 
+| 2012-02-09 | 第5期棋王戦（台湾）予選 | Zhou Pingqiang | Hei Jiajia | Lose | W+R | 6.5 | missing | 0 | 
+| 2011-09-29 | 第3回海峰杯プロ囲碁戦64強戦 | Zhou Pingqiang |  | Lose | W+0.5 | 6.5 | missing | -2281 | 
+| 2010-09-23 | 第2回海峰杯プロ囲碁戦16強戦 | Zhou Pingqiang | Zhou Junxun | Lose | W+0.5 | 6.5 | 2281 | -59 | 
+| 2010-09-16 | 第2回海峰杯プロ囲碁戦32強戦 | Zhou Yinnan | Zhou Pingqiang | Win | W+R | 6.5 | 2340 | 12 | 
+| 2010-09-02 | 第2回海峰杯プロ囲碁戦64強戦 | Zhou Pingqiang |  | Win | B+R | 6.5 | 2328 | 34 | 
+| 2010-02-04 | 第3期棋王戦（台湾）予選 | Lin Shuyang | Zhou Pingqiang | Lose | B+R | 6.5 | 2294 | -240 | 
+| 2010-01-21 | 第3期棋王戦（台湾）予選 | Zhang Zhengping | Zhou Pingqiang | Win | W+R | 6.5 | 2534 | 2534 | 
+| 2010-01-07 | 第3期棋王戦（台湾）予選 | Zhou Pingqiang | Qin Shi | Win | B+R | 6.5 | missing | 0 | 
+| 2009-12-31 | 第3期棋王戦（台湾）予選 | Zhou Pingqiang | Zhang Zhehao | Lose | W+R | 6.5 | missing | 0 | 
+| 2009-12-24 | 第3期棋王戦（台湾）予選 |  | Zhou Pingqiang | Win | W+R | 6.5 | missing | 0 | 
+| 2009-09-17 | 第1回海峰杯プロ囲碁戦16強戦 | Zhou Pingqiang | Chen Shiyuan | Lose | W+R | 6.5 | missing | 0 | 
+| 2009-09-03 | 第1回海峰杯プロ囲碁戦32強戦 | Zhou Pingqiang | Qin Shi | Win | B+R | 6.5 | missing | 0 | 
+| 2009-08-20 | 第1回海峰杯プロ囲碁戦64強戦 |  | Zhou Pingqiang | Win | W+R | 6.5 | missing | -2377 | 
+| 2008-01-10 | 第21回世界囲碁選手権富士通杯台湾予選 | Zhou Pingqiang | Xiao Zhenghao | Win | B+R | 6.5 | 2377 | -24 | 
+| 2008-01-05 | 第21回世界囲碁選手権富士通杯台湾予選 | Zhou Pingqiang | Liu Yaowen | Win | B+R | 6.5 | 2401 | 28 | 
+| 2008-01-03 | 第21回世界囲碁選手権富士通杯台湾予選 | Zhou Pingqiang | Lin Yuxiang | Win | B+R | 6.5 | 2373 | -383 | 
+| 2007-07-29 | 第3期国手戦（台湾）リーグ | Zhou Keping | Zhou Pingqiang | Win | W+R | 6.5 | 2756 | -35 | 
+| 2007-07-24 | 第3期国手戦（台湾）リーグ | Lin Zhihan | Zhou Pingqiang | Lose | B+6.5 | 6.5 | 2791 | -58 | 
+| 2007-07-17 | 第3期国手戦（台湾）リーグ | Zhou Pingqiang | Xiao Zhenghao | Lose | W+R | 6.5 | 2849 | 58 | 
+| 2007-07-15 | 第3期国手戦（台湾）リーグ | Zhang Zhehao | Zhou Pingqiang | Win | W+0.5 | 6.5 | 2791 | 50 | 
+| 2007-07-10 | 第3期国手戦（台湾）リーグ | Zhou Pingqiang | Zhou Junxun | Lose | W+2.5 | 6.5 | 2741 | -20 | 
+| 2007-07-03 | 第3期国手戦（台湾）リーグ | Zhou Pingqiang | Yu Keimin | Lose | W+6.5 | 6.5 | 2761 | -45 | 
+| 2007-06-26 | 第3期国手戦（台湾）リーグ | Zhou Pingqiang | Chen Yida | Win | B+6.5 | 6.5 | 2806 | 42 | 
+| 2007-06-12 | 第14期中環杯囲碁オープン戦4回戦 | Zhou Pingqiang | Dai Jiashen | Lose | W+R | 6.5 | 2764 | 31 | 
+| 2007-06-05 | 第3期国手戦（台湾）予選 | Yu Keimin | Zhou Pingqiang | Win | W+R | 6.5 | 2733 | 40 | 
+| 2007-05-29 | 第14期中環杯囲碁オープン戦3回戦 | Zhou Pingqiang | Lin Shengxian | Win | B+3.5 | 6.5 | 2693 | 26 | 
+| 2007-04-24 | 第14期中環杯囲碁オープン戦2回戦 |  | Zhou Pingqiang | Win | W+0.5 | 6.5 | 2667 | 17 | 
+| 2007-04-03 | 第14期中環杯囲碁オープン戦1回戦 | Yang Mengyun | Zhou Pingqiang | Win | W+R | 6.5 | 2650 | 313 | 
+| 2007-01-27 | 第20回世界囲碁選手権富士通杯台湾予選 | Zhou Pingqiang | Huang Xiangren | Lose | W+R | 6.5 | 2337 | -8 | 
+| 2007-01-25 | 第20回世界囲碁選手権富士通杯台湾予選 | Zhou Pingqiang | Lin Shuyang | Win | B+R | 6.5 | 2345 | 124 | 
+| 2007-01-09 | 第20回世界囲碁選手権富士通杯台湾予選 | Lin Zhihan | Zhou Pingqiang | Win | W+R | 6.5 | 2221 | 36 | 
+| 2006-11-15 | 2006年国際新鋭囲碁対抗戦第3戦 | Zhou Pingqiang | Mitani Tetsuya | Lose | W+R | 7.5 | 2185 | -49 | 
+| 2006-11-14 | 2006年国際新鋭囲碁対抗戦第2戦 | Zhou Pingqiang | Gu Lingyi | Lose | W+R | 7.5 | 2234 | -54 | 
+| 2006-11-13 | 2006年国際新鋭囲碁対抗戦第1戦 | Jin Siyoung | Zhou Pingqiang | Lose | B+5.5 | 7.5 | 2288 | 178 | 
+| 2006-09-05 | 第6期東鋼杯プロ囲碁戦4回戦 | Zhou Keping | Zhou Pingqiang | Lose | B+3.5 | 6.5 | 2110 | -65 | 
+| 2006-08-08 | 第6期東鋼杯プロ囲碁戦3回戦 | Zhou Pingqiang | Huang Chengyi | Win | B+R | 6.5 | 2175 | 28 | 
+| 2006-08-01 | 第2期王座戦（台湾）予選 | Zhou Pingqiang | Xia Daming | Lose | W+1.5 | 6.5 | 2147 | -123 | 
+| 2006-07-11 | 第6期東鋼杯プロ囲碁戦2回戦 | Zhou Pingqiang |  | Win | B+R | 6.5 | 2270 | -7 | 
+| 2006-07-04 | 第2期王座戦（台湾）予選 | Chen Yida | Zhou Pingqiang | Lose | B+5.5 | 6.5 | 2277 | -188 | 
+| 2006-06-19 | 第5期天元戦（台湾）リーグ | Lin Zhihan | Zhou Pingqiang | Lose | B+R | 6.5 | 2465 | -10 | 
+| 2006-06-13 | 第2期王座戦（台湾）予選 | Huang Xiangren | Zhou Pingqiang | Win | W+3.5 | 6.5 | 2475 | 17 | 
+| 2006-06-08 | 第5期天元戦（台湾）リーグ | Zhou Pingqiang | Yu Keimin | Lose | W+6.5 | 6.5 | 2458 | -5 | 
+| 2006-06-06 | 第2期王座戦（台湾）予選 |  | Zhou Pingqiang | Win | W+R | 6.5 | 2463 | 6 | 
+| 2006-05-30 | 第5期天元戦（台湾）リーグ | Zhou Pingqiang | Chen Shiyuan | Lose | W+R | 6.5 | 2457 | -13 | 
+| 2006-05-25 | 第5期天元戦（台湾）リーグ | Zhou Yinnan | Zhou Pingqiang | Win | W+R | 6.5 | 2470 | 136 | 
+| 2006-05-16 | 第5期天元戦（台湾）リーグ | Xia Daming | Zhou Pingqiang | Lose | B+R | 6.5 | 2334 | 34 | 
+| 2006-05-02 | 第5期天元戦（台湾）リーグ |  | Zhou Pingqiang | Lose | B+R | 6.5 | 2300 | 27 | 
+| 2006-04-18 | 第5期天元戦（台湾）リーグ | Zhou Pingqiang | Lin Shuyang | Win | B+8.5 | 6.5 | 2273 | 47 | 
+| 2006-04-04 | 第13期中環杯囲碁オープン戦1回戦 | Zhou Pingqiang | Chen Yida | Lose | W+R | 6.5 | 2226 | 11 | 
+| 2006-01-19 | 第3期トヨタ＆デンソー杯囲碁世界王座戦台湾予選 | Zhou Pingqiang | Zhou Keping | Lose | W+0.5 | 6.5 | 2215 | -195 | 
+| 2006-01-13 | 第5期新人王戦（旧｜台湾）1回戦 | Zhou Pingqiang | Chen Shiyuan | Lose | W+R | 6.5 | 2410 | 198 | 
+| 2006-01-01 | 第6回CMC杯テレビ早碁戦2回戦 | Zhou Pingqiang | Xiao Zhenghao | Lose | W+11.5 | 6.5 | 2212 | -145 | 
+| 2005-12-11 | 第3期トヨタ＆デンソー杯囲碁世界王座戦台湾予選 | Chen Yida | Zhou Pingqiang | Win | W+5.5 | 6.5 | 2357 | -97 | 
+| 2005-11-27 | 第1期王座戦（台湾）予選 | Lin Yuxiang | Zhou Pingqiang | Lose | B+1.5 | 6.5 | 2454 | 278 | 
+| 2005-11-06 | 第6回CMC杯テレビ早碁戦1回戦 | Zhou Pingqiang | Liu Jianchang | Win | B+9.5 | 6.5 | 2176 | -247 | 
+| 2005-10-19 | 2005年国際新鋭囲碁対抗戦第3戦 | Zhou Pingqiang | Seto Taiki | Lose | W+R | 6.5 | 2423 | -4 | 
+| 2005-10-18 | 2005年国際新鋭囲碁対抗戦第2戦 | Zhou Pingqiang | Kang Dongyun | Lose | W+R | 6.5 | 2427 | 41 | 
+| 2005-10-17 | 2005年国際新鋭囲碁対抗戦第1戦 | Zhou Pingqiang | Li Zhe | Lose | W+R | 6.5 | 2386 | -7 | 
+| 2005-09-20 | 第1期国手戦（台湾）リーグ |  | Zhou Pingqiang | Lose | B+1.5 | 6.5 | 2393 | -43 | 
+| 2005-09-18 | 第1期国手戦（台湾）リーグ | Lin Shuyang | Zhou Pingqiang | Win | W+R | 6.5 | 2436 | 6 | 
+| 2005-09-15 | 第1期国手戦（台湾）リーグ | Chen Shiyuan | Zhou Pingqiang | Lose | B+R | 6.5 | 2430 | 22 | 
+| 2005-09-13 | 第1期国手戦（台湾）リーグ | Zhou Pingqiang | Huang Xiangren | Win | B+R | 6.5 | 2408 | 53 | 
+| 2005-09-11 | 第1期国手戦（台湾）リーグ | Dai Jiashen | Zhou Pingqiang | Lose | B+R | 6.5 | 2355 | -62 | 
+| 2005-09-09 | 第1期国手戦（台湾）リーグ | Lin Zhihan | Zhou Pingqiang | Lose | B+R | 6.5 | 2417 | -33 | 
+| 2005-09-06 | 第1期国手戦（台湾）リーグ | Lin Shengxian | Zhou Pingqiang | Win | W+2.5 | 6.5 | 2450 | 67 | 
+| 2005-09-03 | 第1期国手戦（台湾）リーグ | Zhou Pingqiang | Xiao Zhenghao | Lose | W+R | 6.5 | 2383 | -19 | 
+| 2005-08-09 | 第5期東鋼杯プロ囲碁戦2回戦 | Zhou Pingqiang | Chen Shiyuan | Lose | W+R | 6.5 | 2402 | 35 | 
+| 2005-07-10 | 第1期国手戦（台湾）予選 | Zhou Pingqiang | Chen Shiyuan | Lose | W+R | 6.5 | 2367 | -262 | 
+| 2005-07-05 | 第1期国手戦（台湾）予選 | Zhou Pingqiang | Xiao Zhenghao | Win | B+0.5 | 6.5 | 2629 | 2629 | 
+| 2005-06-19 | 第5期東鋼杯プロ囲碁戦1回戦 | Zhou Pingqiang |  | Win | B+3.5 | 6.5 | missing | 0 | 
+| 2005-06-05 | 第1期国手戦（台湾）予選 | Zhou Pingqiang | Dang Xiyun | Win | B+7.5 | 6.5 | missing | -2606 | 
+| 2004-12-12 | 第5回CMC杯テレビ早碁戦第1輪3回戦 | Chen Yida | Zhou Pingqiang | Lose | B+R | 6.5 | 2606 | -285 | 
+| 2004-02-10 | 第3期天元戦（台湾）予選 | Zhou Pingqiang | Cai Wenhe | Win | B+R | 6.5 | 2891 | 4 | 
+| 2004-02-03 | 第3期天元戦（台湾）予選 |  | Zhou Pingqiang | Lose | B+6.5 | 6.5 | 2887 | -13 | 
+| 2004-01-11 | 第4回CMC杯テレビ早碁戦3回戦 | Lin Zhihan | Zhou Pingqiang | Lose | B+R | 6.5 | 2900 | -33 | 
+| 2003-12-30 | 第3期台湾棋院杯プロ囲碁戦リーグ | Zhou Pingqiang | Lin Shengxian | Win | B+3.5 | 6.5 | 2933 | -36 | 
+| 2003-12-09 | 第3期台湾棋院杯プロ囲碁戦リーグ | Zhou Keping | Zhou Pingqiang | Lose | B+1.5 | 6.5 | 2969 | -15 | 
+| 2003-11-29 | 第3期台湾棋院杯プロ囲碁戦リーグ | Lin Shuyang | Zhou Pingqiang | Win | W+R | 6.5 | 2984 | 42 | 
+| 2003-11-25 | 第3期台湾棋院杯プロ囲碁戦リーグ | Zhou Pingqiang |  | Win | B+10.5 | 6.5 | 2942 | 49 | 
+| 2003-11-23 | 第4回CMC杯テレビ早碁戦2回戦 | Xiao Zhenghao | Zhou Pingqiang | Win | W+6.5 | 6.5 | 2893 | 31 | 
+| 2003-11-22 | 第3期台湾棋院杯プロ囲碁戦リーグ | Zhou Pingqiang | Chen Yida | Lose | W+R | 6.5 | 2862 | -188 | 
+| 2003-11-18 | 第3期台湾棋院杯プロ囲碁戦リーグ | Zhou Pingqiang | Dai Jiashen | Win | B+14.5 | 6.5 | 3050 | 138 | 
+| 2003-11-16 | 第3期台湾棋院杯プロ囲碁戦予選 | Rao Ruiyong | Zhou Pingqiang | Win | W+7.5 | 6.5 | 2912 | -31 | 
+| 2003-10-21 | 第3期台湾棋院杯プロ囲碁戦予選 | Zhou Pingqiang | Lin Shuyang | Lose | W+7.5 | 6.5 | 2943 | -8745 | 
+| 2003-10-19 | 第4回CMC杯テレビ早碁戦1回戦 | Zhou Keping | Zhou Pingqiang | Win | W+R | 6.5 | 11688 | 11688 | 
+| 2003-10-18 | 第3期台湾棋院杯プロ囲碁戦予選 | Qin Shi | Zhou Pingqiang | Win | W+R | 6.5 | missing | 0 | 
+| 2003-09-07 | 第3期東鋼杯プロ囲碁戦予選 | Zhou Pingqiang | Zhou Keping | Lose | W+R | 6.5 | missing | missing |
 
 
 

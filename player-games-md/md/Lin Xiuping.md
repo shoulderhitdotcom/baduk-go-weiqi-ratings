@@ -5,134 +5,135 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第17期国手戦（台湾） | Lin Xiuping | Lin Shixun | W+R | 2021-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IvJ548OxcDAFFNdtTZaSMw%3D%3D) | 
-| 第2期名人冠軍戦1回戦 | Lin Junyan | Lin Xiuping | B+15.5 | 2021-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BqCsUEUMsTxbj3NUFcIxBw%3D%3D) | 
-| 第2期名人冠軍戦予選 | Lin Xiuping | missing | B+R | 2021-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lid%2FrM8y2ltKOcfjDTuOLg%3D%3D) | 
-| 第2期名人冠軍戦予選 | missing | Lin Xiuping | W+R | 2021-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IDeQRwGekrVHmMC4wzB2fQ%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Lin Xiuping | Lin Jiehan | W+R | 2020-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6yEli4IwPu7%2BPdj0y29tLg%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Lin Xiuping | missing | B+R | 2020-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=86eWzUDC6JhOUlL8WURnQQ%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | missing | Lin Xiuping | W+R | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qU4deptT%2BlFxSuoUIEYPAA%3D%3D) | 
-| 第16期国手戦（台湾）1回戦 | Lin Xiuping | Lu Yiquan | W+R | 2020-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nT3PmAq%2FRUyQ3Jiw%2Fn3SpA%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Yu Lijun | Lin Xiuping | W+R | 2020-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i%2BQSwa%2BS39z16Q1Ax4qxvg%3D%3D) | 
-| 第8期中環碁聖戦1回戦 | Lin Xiuping | missing | W+R | 2020-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jvzqF%2FSFs2sNKsLGHdP2Ow%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | missing | Lin Xiuping | B+R | 2020-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zRNZnWMl1UMtEmDScDo9Fg%3D%3D) | 
-| 第1期名人冠軍戦1回戦 | missing | Lin Xiuping | B+R | 2020-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fAj29XLSLR7lXLpsG2OtXQ%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦予選 | Huang Shiyuan | Lin Xiuping | B+R | 2020-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rb29nNYzEV8fep2Jgvz%2F7A%3D%3D) | 
-| 第10期友士杯十段戦予選敗部4回戦 | Zhou Pingqiang | Lin Xiuping | B+11.5 | 2020-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i7TXlvu7XshtcrZ5ZeXAOw%3D%3D) | 
-| 第10期友士杯十段戦予選敗部4回戦 | Lin Xiuping | missing | B+R | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cUbes4RBxNw6NHSBSTcj3A%3D%3D) | 
-| 第10期友士杯十段戦予選敗部3回戦 | missing | Lin Xiuping | W+R | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CQiF3sm4ZnqQ17sxK7FqvQ%3D%3D) | 
-| 第10期友士杯十段戦予選勝部2回戦 | Zhou Pingqiang | Lin Xiuping | B+4.5 | 2020-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BH%2FKN6wh0kJAAAnnlqET%2FQ%3D%3D) | 
-| 第10期友士杯十段戦予選勝部1回戦 | Lin Xiuping | missing | B+R | 2020-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xFkjWy%2Bs5BOeOL8Pb%2FNWMg%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦64強戦 | Lin Xiuping | Zhou Pingqiang | W+R | 2020-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dR71m5YegkIWnsrJ2Uo4IA%3D%3D) | 
-| 第1期名人冠軍戦予選勝部決勝 | missing | Lin Xiuping | W+R | 2020-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EZGyIQonM%2BPY2vLxmMVeuA%3D%3D) | 
-| 第1期名人冠軍戦予選勝部1回戦 | Ding Shaojie | Lin Xiuping | W+R | 2020-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=arQ27YlFbAVl6vTNBIOzJw%3D%3D) | 
-| 第19期天元戦（台湾）予選 | Lin Lixiang | Lin Xiuping | B+R | 2020-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0%2F8TzrchOKqI%2BlW3FC6eew%3D%3D) | 
-| 2019年関西棋院VS台湾棋院交流戦第2戦 | Lin Xiuping | Shintani Yousuke | W+R | 2019-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jWkWR3buZIZWnCa4ZeutSg%3D%3D) | 
-| 第7期中環碁聖戦2回戦 | Cai Chengwei | Lin Xiuping | B+0.5 | 2019-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H2aRAOIRXC%2BgpVCiTSid1g%3D%3D) | 
-| 第7期中環碁聖戦1回戦 | Lin Xiuping | Lin Shimin | B+R | 2019-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6wYmEXu0onWDq%2Fe%2BKbD%2F4Q%3D%3D) | 
-| 第12期棋王戦（台湾）資格戦勝部決勝 | Lin Xiuping | missing | B+R | 2019-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kRMaCIy8dK3YlLw%2BO4VagA%3D%3D) | 
-| 第15期国手戦（台湾）1回戦 | Lin Xiuping | missing | W+5.5 | 2019-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yaEwHwB2VOezzwqAgBkS2w%3D%3D) | 
-| 第12期棋王戦（台湾）資格戦勝部1回戦 | missing | Lin Xiuping | W+4.5 | 2019-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qUP2AwKKnn6j4utLiKQGMw%3D%3D) | 
-| 第7期中環碁聖戦1回戦 | missing | Lin Xiuping | W+R | 2019-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4h4qTyaVUP87t1vv74OPcw%3D%3D) | 
-| 第9期友士杯十段戦予選敗部準決勝 | Lin Xiuping | Li Wei | W+R | 2019-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Rf28asdBlBEDgaWHMoJrg%3D%3D) | 
-| 第9期友士杯十段戦予選敗部3回戦 | missing | Lin Xiuping | W+R | 2019-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MK0Im9ZEGq%2FSTQSFIGHEng%3D%3D) | 
-| 第9期友士杯十段戦予選勝部1回戦 | Gao Yun | Lin Xiuping | W+R | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AvBYDty%2F%2Frtq7g1dQvyzaA%3D%3D) | 
-| 第9期友士杯十段戦予選勝部準決勝 | Lin Xiuping | Lin Shuyang | W+R | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9fYmuC91T35Xg0vVax%2BdFg%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦32強戦 | Jian Jingting | Lin Xiuping | B+R | 2019-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2sE4hdP14Uptsw8IR74OCQ%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦64強戦 | Liu Jianchang | Lin Xiuping | W+7.5 | 2019-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8unK1AHm1gsErB%2BxtEx1sw%3D%3D) | 
-| 第18期天元戦（台湾）予選2回戦 | Lin Xiuping | Chen Shiyuan | W+R | 2019-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kZu9I0qfynCKj0ZVjIf4Ow%3D%3D) | 
-| 第11期棋王戦（台湾）予選敗部3回戦 | Lin Xiuping | Cai Chengwei | W+5.5 | 2018-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r8Ae6LbLxio6X0Knpxif5Q%3D%3D) | 
-| 第11期棋王戦（台湾）予選敗部2回戦 | Liu Yaowen | Lin Xiuping | W+R | 2018-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2OGTRYpFVQfjiQJPipfzZg%3D%3D) | 
-| 第11期棋王戦（台湾）予選敗部1回戦 | Gao Yun | Lin Xiuping | W+R | 2018-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yynGQiW3%2ByRsIERSh%2BG2Eg%3D%3D) | 
-| 第14期国手戦（台湾）1回戦上半区 | Wang Yuanjun | Lin Xiuping | B+R | 2018-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HkjIU8j2OW4rgXZ4%2BE1Diw%3D%3D) | 
-| 第11期棋王戦（台湾）予選勝部1回戦 | Lin Xiuping | Lin Shuyang | W+13.5 | 2018-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FnsIRMUKw3sFSRdaUhLsfQ%3D%3D) | 
-| 第6期中環碁聖戦2回戦 | Lin Xiuping | Xu Haohong | W+R | 2018-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8H5wKntxe97ltB3z1lP1dw%3D%3D) | 
-| 第6期中環碁聖戦1回戦上半区 | Lin Xiuping | Dang Xiyun | B+R | 2018-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ll6fyjirHZqyR33Zj4uiQg%3D%3D) | 
-| 第8期友士杯十段戦予選 | Liao Guanhong | Lin Xiuping | W+R | 2018-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eGfnWzJT5X%2B%2BEi5u1FgXig%3D%3D) | 
-| 第8期友士杯十段戦予選 | Lin Xiuping | Yu Binghuang | W+R | 2018-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ARXBee1%2FBK3aP%2FuAMmlQpA%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦16強戦 | Lin Xiuping | Wang Yuanjun | W+R | 2018-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QoWNtsEKpWDL3zvkjcFrbA%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦32強戦 | Lin Xiuping | Li Wei | B+R | 2018-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7FdgpXzhIE6qNBzcwiLoVw%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦64強戦 | missing | Lin Xiuping | W+R | 2018-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yxsnjvRB%2F2TpeEMFXDq2Bw%3D%3D) | 
-| 第十七回天元戦予選第二回戦 | Lin Xiuping | Lin Ziyuan | W+2.5 | 2018-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BAnKpo7iGQT7LKpLkbpJwQ%3D%3D) | 
-| 第13期国手戦（台湾）16強戦 | Li Wei | Lin Xiuping | B+R | 2017-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=60SYxZlC8O2ZFXZJ%2FBn5Bw%3D%3D) | 
-| 第5期中環碁聖戦第二回戦 | Zhang Zhehao | Lin Xiuping | B+R | 2017-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aLtFYGjhxfczlv2brzgXJA%3D%3D) | 
-| 第13期国手戦（台湾）首輪下半区 | Lin Xiuping | Lin Ziyuan | B+R(B+R) | 2017-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XOIZ2YAOBNs06sZByEjKCw%3D%3D) | 
-| 第5期中環碁聖戦首輪上半区 | missing | Lin Xiuping | W+9.5 | 2017-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fwl4D4i36ttQmezmkQOmPg%3D%3D) | 
-| 第四回福蔭杯国際精鋭囲棋対抗戦代表選抜戦初戦第一局 | Lin Shuyang | Lin Xiuping | B+12.5 | 2017-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HRSEG3uFoyEaAla1UGfJeA%3D%3D) | 
-| 第7期友士杯十段戦敗者復活戦2回戦 | Zhou Junxun | Lin Xiuping | B+R | 2017-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tgSiMiX1TaReaJglfaxLHA%3D%3D) | 
-| 第7期友士杯十段戦2回戦 | Hei Jiajia | Lin Xiuping | B+5.5 | 2017-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MUT%2Bl7UQuhU18HgRUXrlQg%3D%3D) | 
-| 第7期友士杯十段戦1回戦 | Li Wei | Lin Xiuping | W+R | 2017-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FP75oMP32NNKw0uj%2BMuYVQ%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦32強戦 | Lin Xiuping | Chen Xi | W+5.5 | 2017-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ARhgbWTVST3ZNVQ2xaq%2BkA%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦64強戦 | Lin Xiuping | Lin Shengxian | B+R | 2017-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FYejp0BPnhL0U7yzZZKC%2BA%3D%3D) | 
-| 第十六期天元戦複戦敗部第二回戦補戦 | Lin Xiuping | Chen Xi | W+R | 2017-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nQHM3k3XpHoFHbK99xFRxA%3D%3D) | 
-| 第十六期天元戦複戦勝部第二回戦 | Lin Xiuping | Xu Yuqi | W+5.5 | 2017-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A6lbTX1MtYRAUtH%2FL3Q%2BzQ%3D%3D) | 
-| 第22期LG杯台湾代表選抜戦初戦第一局 | missing | Lin Xiuping | B+R | 2017-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aUo89EG%2BC5iV0s8Le8Dg7w%3D%3D) | 
-| 第十六期天元戦複戦第一回戦 | Lin Xiuping | Zhou Yinnan | B+R | 2017-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tZ9jZrKM5NdJT%2Bkkl8xGSg%3D%3D) | 
-| 第三期MLILIY夢百合杯台湾代表選抜戦 初戦 | Lin Xiuping | Li Wei | B+9.5 | 2017-02-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uF9TKiXYLk3ivjpkSoqSqw%3D%3D) | 
-| 第十六期天元戦初戦第二回戦 | missing | Lin Xiuping | W+R | 2017-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nbzxFaUFsi5l%2FE%2FcDz6jZQ%3D%3D) | 
-| 関西棋院対台湾棋院棋士対抗戦2017　1回戦 | Lin Xiuping | Seto Taiki | W+R | 2016-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4uSghv%2FDtZtW8fvF39Mqiw%3D%3D) | 
-| 第6期友士杯十段戦予選 | Yang Bowei | Lin Xiuping | B+R | 2016-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sfpQfWSUEKqLE67BI3VsAw%3D%3D) | 
-| 第6期友士杯十段戦予選 | Huang Xiangren | Lin Xiuping | W+R | 2016-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QOr9%2FUue3M7lo2%2BvcanwLQ%3D%3D) | 
-| 第6期友士杯十段戦予選 | Lin Xiuping | Lai Junfu | W+15.5 | 2016-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EdAV%2BqQaXK6%2B9GG1T0jHAw%3D%3D) | 
-| 第6期友士杯十段戦予選 | Lin Xiuping | missing | B+R | 2016-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=97ktCb8ZiP3KahWD5zkuDw%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦16強戦 | Lin Lixiang | Lin Xiuping | B+R | 2016-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9TkaWzDr4dd%2BeT%2FR1FvlSw%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦32強戦 | Lin Xiuping | Lin Jiehan | B+R | 2016-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oj7t07ToiGti8EbEqhzTWw%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦64強戦 | missing | Lin Xiuping | W+R | 2016-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dWUUYssoy3nzQGhymfkCug%3D%3D) | 
-| 第8期棋王戦（台湾）リーグ | Zhou Junxun | Lin Xiuping | W+R | 2015-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0GS5ldnifYyBxRSlCjw9yA%3D%3D) | 
-| 第8期棋王戦（台湾）リーグ | Lin Xiuping | Yang Bowei | W+R | 2015-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F4YJBcJ650tm9dA29dEsUQ%3D%3D) | 
-| 第8期棋王戦（台湾）リーグ | Chen Qirui | Lin Xiuping | W+R | 2015-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=onKRMlf%2FYDgS4P6MeDZZZw%3D%3D) | 
-| 第8期棋王戦（台湾）リーグ | Lin Xiuping | Lin Junyan | W+R | 2015-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PYgoY4lVRLVZWNc%2B%2F6ctGA%3D%3D) | 
-| 第8期棋王戦（台湾）リーグ | Lin Xiuping | Lin Shuyang | W+3.5 | 2015-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SJ9lDp%2BllInxLb45L8dchQ%3D%3D) | 
-| 第8期棋王戦（台湾）リーグ | Lin Lixiang | Lin Xiuping | B+1.5 | 2015-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4Iu4GvmkXGpio6KamnrI2g%3D%3D) | 
-| 第8期棋王戦（台湾）リーグ | Xiao Zhenghao | Lin Xiuping | W+R | 2015-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=csX2EUetcRHw2owtt7YK6Q%3D%3D) | 
-| 第5期友士杯十段戦敗者復活戦準決勝 | Lin Xiuping | Hei Jiajia | W+R | 2015-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BkRlQcYAz2%2Fgkp71irxLjA%3D%3D) | 
-| 第5期友士杯十段戦敗者復活戦3回戦 | Li Wei | Lin Xiuping | W+R | 2015-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZphrH2qpTnIvdWrua2tDLA%3D%3D) | 
-| 第5期友士杯十段戦勝者組準決勝 | Lin Xiuping | Xiao Zhenghao | W+1.5 | 2015-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2R5RaxWUHs44xH8AV1hPug%3D%3D) | 
-| 第5期友士杯十段戦2回戦 | Zhou Yinnan | Lin Xiuping | W+R | 2015-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EZ94AiHz07lJneO4fW8B%2Fg%3D%3D) | 
-| 第5期友士杯十段戦1回戦 | Chen Feng | Lin Xiuping | W+R | 2015-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AOn9tYDIfnWPv8i6ALLKFg%3D%3D) | 
-| 第14期天元戦（台湾）予選 | Lin Shixun | Lin Xiuping | B+2.5 | 2015-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lQsfk1e2uAUC%2BuxEjmB3wQ%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦64強戦 | Liu Jianchang | Lin Xiuping | B+4.5 | 2015-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o9WtJq%2FhJXGs8HiaeiPVxA%3D%3D) | 
-| 第14期天元戦（台湾）予選 | missing | Lin Xiuping | B+R | 2015-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iSiBXImzUpEkHzGOmjS%2BJQ%3D%3D) | 
-| 第14期天元戦（台湾）予選 | Lin Jiehan | Lin Xiuping | W+R | 2015-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YFbXBNx%2FRXMwIRbtwQ0jbg%3D%3D) | 
-| 第6回海峰杯プロ囲碁戦32強戦 | Lin Xiuping | missing | W+R | 2014-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rxHq8bdSR0mpcrTZ6sgf1Q%3D%3D) | 
-| 2014年日台精鋭交流戦第4戦 | Rin Shien | Lin Xiuping | W+5.5 | 2014-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i%2FfOOo%2B776eArnbju6K4Mw%3D%3D) | 
-| 2014年日台精鋭交流戦第3戦 | Han Zenki | Lin Xiuping | B+R | 2014-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EWQ2J6p%2FK%2F7WUAuN3I2G6A%3D%3D) | 
-| 第5回海峰杯プロ囲碁戦16強戦 | Hei Jiajia | Lin Xiuping | B+0.5 | 2013-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yx6e%2FM2%2F99cKLVZhBA%2BYCQ%3D%3D) | 
-| 第5回海峰杯プロ囲碁戦32強戦 | missing | Lin Xiuping | W+R | 2013-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cm94igBjCOqPlFU91PLvIg%3D%3D) | 
-| 第5回海峰杯プロ囲碁戦64強戦 | missing | Lin Xiuping | W+R | 2013-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LE%2FRQ67cedf6lW8jD665Dw%3D%3D) | 
-| 第4回海峰杯プロ囲碁戦8強戦 | Chen Shiyuan | Lin Xiuping | B+R | 2012-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zt6AuT2VRJBxF7KpuUTgdQ%3D%3D) | 
-| 第4回海峰杯プロ囲碁戦16強戦 | Xia Daming | Lin Xiuping | W+R | 2012-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rDYDbzUOgyl6nPexXPgzyg%3D%3D) | 
-| 第4回海峰杯プロ囲碁戦32強戦 | Dang Xiyun | Lin Xiuping | W+R | 2012-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=veCzQXNBSM%2Fwa5j5mZ%2B%2FkQ%3D%3D) | 
-| 第4回海峰杯プロ囲碁戦64強戦 | Lin Xiuping | Gao Yun | B+0.5 | 2012-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R4Fbf%2BS834ypPT3ogziazw%3D%3D) | 
-| 2012ジャステック杯国際新鋭囲碁対抗戦第3戦 | Lin Xiuping | Ichiriki Ryo | B+R | 2012-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LBu%2BWx2YMQBc14oQAgcMBQ%3D%3D) | 
-| 2012ジャステック杯国際新鋭囲碁対抗戦第2戦 | missing | Lin Xiuping | B+3.5 | 2012-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2xa%2BOsGmyanMehIOgXuUMA%3D%3D) | 
-| 2012ジャステック杯国際新鋭囲碁対抗戦第1戦 | Lin Xiuping | Shin Minjun | W+R | 2012-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jo1ieRbUuA4LzKN8hF%2FHLg%3D%3D) | 
-| 第8期国手戦（台湾）リーグ | Lin Xiuping | Zhou Junxun | W+R | 2012-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fNbDXI2dioatZ14CIqCkig%3D%3D) | 
-| 第8期国手戦（台湾）リーグ | Lin Xiuping | Hei Jiajia | W+R | 2012-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eSnZSxPO1ZV1THvWaezJ3Q%3D%3D) | 
-| 第11期天元戦（台湾）リーグ | Lin Xiuping | Wang Yuanjun | W+R | 2012-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SGjXgbsT%2FoipVzn1dllZ0g%3D%3D) | 
-| 第11期天元戦（台湾）リーグ | Yang Bowei | Lin Xiuping | W+R | 2012-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zcYAY2cLIFCLU1HA7BzPyA%3D%3D) | 
-| 第11期天元戦（台湾）リーグ | Lin Xiuping | Xiao Zhenghao | W+R | 2012-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9cafKy%2B4kH5rEqSChaR6cQ%3D%3D) | 
-| 第11期天元戦（台湾）リーグ | Lin Shuyang | Lin Xiuping | W+R | 2012-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jDUYE6Iq8fz0OVEQeODg6w%3D%3D) | 
-| 第11期天元戦（台湾）リーグ | Zhou Junxun | Lin Xiuping | B+R | 2012-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZVPnthVbKvs8GqLltwIdJA%3D%3D) | 
-| 第5期棋王戦（台湾）予選 | missing | Lin Xiuping | B+0.5 | 2012-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QMdzeTpq%2F7jTom46pX0bWA%3D%3D) | 
-| 第3回海峰杯プロ囲碁戦16強戦 | Lin Xiuping | Zhou Junxun | W+R | 2011-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7kfxwUR%2BKdBZ9Q39OTk%2Faw%3D%3D) | 
-| 第3回海峰杯プロ囲碁戦32強戦 | missing | Lin Xiuping | W+R | 2011-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lVlDnexd%2B%2BZ7mJ%2Ff5oubmA%3D%3D) | 
-| 第3回海峰杯プロ囲碁戦64強戦 | Lin Xiuping | Wei Haoting | B+3.5 | 2011-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EYggs%2FB9MQ3KgQlkGbnyAQ%3D%3D) | 
-| 第10期天元戦（台湾）リーグ | Lin Xiuping | Ye Hongyuan | B+R | 2011-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H7Ewg7ds9hP87ioJF6fhCA%3D%3D) | 
-| 第2回海峰杯プロ囲碁戦8強戦 | Lin Lixiang | Lin Xiuping | B+R | 2010-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fPjNU0hnmbEXSWTxQiWL6g%3D%3D) | 
-| 第2回海峰杯プロ囲碁戦16強戦 | Lin Xiuping | Lin Shuyang | B+5.5 | 2010-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zexFQM1Pdywd3ueVrzmscA%3D%3D) | 
-| 第2回海峰杯プロ囲碁戦32強戦 | Lin Xiuping | Yang Mengyun | B+3.5 | 2010-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HU2qyRpjijQEQCYv4F7W5g%3D%3D) | 
-| 第2回海峰杯プロ囲碁戦64強戦 | Hei Jiajia | Lin Xiuping | W+R | 2010-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2hGR1I3xLFIjZNeZFNtpZw%3D%3D) | 
-| 第3期棋王戦（台湾）予選 | Lin Xiuping | Zhang Zhehao | W+R | 2010-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2SbhbM%2FdvOPZj3NRf8UgSQ%3D%3D) | 
-| 第3期棋王戦（台湾）予選 | missing | Lin Xiuping | W+R | 2010-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Il9wbezt4cb56KE3g3aW0A%3D%3D) | 
-| 第3期棋王戦（台湾）予選 | Lin Xiuping | Zhang Zhengping | B+R | 2009-12-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aRnmJx8S%2FOeF6qTtp2I3aQ%3D%3D) | 
-| 第3期棋王戦（台湾）予選 | Lin Xiuping | Huang Xiangren | B+R | 2009-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O13%2BwqKyZZYQRs93j5T4vQ%3D%3D) | 
-| 第1回海峰杯プロ囲碁戦準決勝 | Lin Xiuping | Chen Shiyuan | W+R | 2009-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w8HIjHF2w4F%2Bzd4VUz7RTA%3D%3D) | 
-| 第1回海峰杯プロ囲碁戦8強戦 | Zhou Junxun | Lin Xiuping | W+R | 2009-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U1thX6MlccFKt%2F3Ql0Iq3A%3D%3D) | 
-| 第1回海峰杯プロ囲碁戦16強戦 | Lin Xiuping | Yang Mengyun | B+15.5 | 2009-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bCr6zPKKyeYeazN%2Fgg1jqQ%3D%3D) | 
-| 第1回海峰杯プロ囲碁戦32強戦 | missing | Lin Xiuping | W+R | 2009-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u27zoIwZSGSr7ECeywx1sw%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 第14期棋王戦（台湾）予選 | Lin Xiuping |  | Win | B+R | 6.5 | 2636 | 30 | 
+| 2021-03-19 | 第17期国手戦（台湾） | Lin Xiuping | Lin Shixun | Lose | W+R | 6.5 | 2606 | 60 | 
+| 2021-03-08 | 第2期名人冠軍戦1回戦 | Lin Junyan | Lin Xiuping | Lose | B+15.5 | 6.5 | 2546 | -15 | 
+| 2021-03-04 | 第2期名人冠軍戦予選 | Lin Xiuping |  | Win | B+R | 6.5 | 2561 | 0 | 
+| 2021-03-04 | 第2期名人冠軍戦予選 |  | Lin Xiuping | Win | W+R | 6.5 | 2561 | -46 | 
+| 2020-09-28 | 第13期棋王戦（台湾）予選 | Lin Xiuping | Lin Jiehan | Lose | W+R | 6.5 | 2607 | 35 | 
+| 2020-09-21 | 第13期棋王戦（台湾）予選 | Lin Xiuping |  | Win | B+R | 6.5 | 2572 | 40 | 
+| 2020-09-17 | 第13期棋王戦（台湾）予選 |  | Lin Xiuping | Win | W+R | 6.5 | 2532 | 32 | 
+| 2020-09-15 | 第16期国手戦（台湾）1回戦 | Lin Xiuping | Lu Yiquan | Lose | W+R | 6.5 | 2500 | -11 | 
+| 2020-09-14 | 第13期棋王戦（台湾）予選 | Yu Lijun | Lin Xiuping | Win | W+R | 6.5 | 2511 | -23 | 
+| 2020-09-06 | 第8期中環碁聖戦1回戦 | Lin Xiuping |  | Lose | W+R | 6.5 | 2534 | -80 | 
+| 2020-09-03 | 第13期棋王戦（台湾）予選 |  | Lin Xiuping | Lose | B+R | 6.5 | 2614 | 64 | 
+| 2020-07-16 | 第1期名人冠軍戦1回戦 |  | Lin Xiuping | Lose | B+R | 6.5 | 2550 | 25 | 
+| 2020-05-15 | 第1期聯電杯プロ囲碁戦予選 | Huang Shiyuan | Lin Xiuping | Lose | B+R | 6.5 | 2525 | 86 | 
+| 2020-03-23 | 第10期友士杯十段戦予選敗部4回戦 | Zhou Pingqiang | Lin Xiuping | Lose | B+11.5 | 6.5 | 2439 | -26 | 
+| 2020-03-19 | 第10期友士杯十段戦予選敗部4回戦 | Lin Xiuping |  | Win | B+R | 6.5 | 2465 | 0 | 
+| 2020-03-19 | 第10期友士杯十段戦予選敗部3回戦 |  | Lin Xiuping | Win | W+R | 6.5 | 2465 | 19 | 
+| 2020-03-16 | 第10期友士杯十段戦予選勝部2回戦 | Zhou Pingqiang | Lin Xiuping | Lose | B+4.5 | 6.5 | 2446 | 0 | 
+| 2020-03-16 | 第10期友士杯十段戦予選勝部1回戦 | Lin Xiuping |  | Win | B+R | 6.5 | 2446 | -21 | 
+| 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Lin Xiuping | Zhou Pingqiang | Lose | W+R | 6.5 | 2467 | -186 | 
+| 2020-02-13 | 第1期名人冠軍戦予選勝部決勝 |  | Lin Xiuping | Win | W+R | 6.5 | 2653 | -96 | 
+| 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Ding Shaojie | Lin Xiuping | Win | W+R | 6.5 | 2749 | -6 | 
+| 2020-01-14 | 第19期天元戦（台湾）予選 | Lin Lixiang | Lin Xiuping | Lose | B+R | 6.5 | 2755 | 289 | 
+| 2019-11-20 | 2019年関西棋院VS台湾棋院交流戦第2戦 | Lin Xiuping | Shintani Yousuke | Lose | W+R | 6.5 | 2466 | 39 | 
+| 2019-09-15 | 第7期中環碁聖戦2回戦 | Cai Chengwei | Lin Xiuping | Lose | B+0.5 | 6.5 | 2427 | -24 | 
+| 2019-09-09 | 第7期中環碁聖戦1回戦 | Lin Xiuping | Lin Shimin | Win | B+R | 6.5 | 2451 | 20 | 
+| 2019-09-05 | 第12期棋王戦（台湾）資格戦勝部決勝 | Lin Xiuping |  | Win | B+R | 6.5 | 2431 | 21 | 
+| 2019-09-03 | 第15期国手戦（台湾）1回戦 | Lin Xiuping |  | Lose | W+5.5 | 6.5 | 2410 | -36 | 
+| 2019-09-02 | 第12期棋王戦（台湾）資格戦勝部1回戦 |  | Lin Xiuping | Win | W+4.5 | 6.5 | 2446 | 42 | 
+| 2019-09-01 | 第7期中環碁聖戦1回戦 |  | Lin Xiuping | Win | W+R | 6.5 | 2404 | -68 | 
+| 2019-04-11 | 第9期友士杯十段戦予選敗部準決勝 | Lin Xiuping | Li Wei | Lose | W+R | 6.5 | 2472 | -22 | 
+| 2019-04-10 | 第9期友士杯十段戦予選敗部3回戦 |  | Lin Xiuping | Win | W+R | 6.5 | 2494 | 116 | 
+| 2019-04-08 | 第9期友士杯十段戦予選勝部1回戦 | Gao Yun | Lin Xiuping | Win | W+R | 6.5 | 2378 | 0 | 
+| 2019-04-08 | 第9期友士杯十段戦予選勝部準決勝 | Lin Xiuping | Lin Shuyang | Lose | W+R | 6.5 | 2378 | -86 | 
+| 2019-03-07 | 第11回海峰杯プロ囲碁戦32強戦 | Jian Jingting | Lin Xiuping | Lose | B+R | 6.5 | 2464 | -22 | 
+| 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 | Liu Jianchang | Lin Xiuping | Win | W+7.5 | 6.5 | 2486 | 20 | 
+| 2019-01-15 | 第18期天元戦（台湾）予選2回戦 | Lin Xiuping | Chen Shiyuan | Lose | W+R | 6.5 | 2466 | -26 | 
+| 2018-10-01 | 第11期棋王戦（台湾）予選敗部3回戦 | Lin Xiuping | Cai Chengwei | Lose | W+5.5 | 6.5 | 2492 | -48 | 
+| 2018-09-27 | 第11期棋王戦（台湾）予選敗部2回戦 | Liu Yaowen | Lin Xiuping | Win | W+R | 6.5 | 2540 | 21 | 
+| 2018-09-20 | 第11期棋王戦（台湾）予選敗部1回戦 | Gao Yun | Lin Xiuping | Win | W+R | 6.5 | 2519 | 90 | 
+| 2018-09-18 | 第14期国手戦（台湾）1回戦上半区 | Wang Yuanjun | Lin Xiuping | Lose | B+R | 6.5 | 2429 | -6 | 
+| 2018-09-17 | 第11期棋王戦（台湾）予選勝部1回戦 | Lin Xiuping | Lin Shuyang | Lose | W+13.5 | 6.5 | 2435 | 30 | 
+| 2018-09-16 | 第6期中環碁聖戦2回戦 | Lin Xiuping | Xu Haohong | Lose | W+R | 6.5 | 2405 | -56 | 
+| 2018-09-02 | 第6期中環碁聖戦1回戦上半区 | Lin Xiuping | Dang Xiyun | Win | B+R | 6.5 | 2461 | 73 | 
+| 2018-05-07 | 第8期友士杯十段戦予選 | Liao Guanhong | Lin Xiuping | Win | W+R | 6.5 | 2388 | 0 | 
+| 2018-05-07 | 第8期友士杯十段戦予選 | Lin Xiuping | Yu Binghuang | Lose | W+R | 6.5 | 2388 | -59 | 
+| 2018-03-19 | 第10回海峰杯プロ囲碁戦16強戦 | Lin Xiuping | Wang Yuanjun | Lose | W+R | 6.5 | 2447 | -15 | 
+| 2018-03-08 | 第10回海峰杯プロ囲碁戦32強戦 | Lin Xiuping | Li Wei | Win | B+R | 6.5 | 2462 | 110 | 
+| 2018-03-01 | 第10回海峰杯プロ囲碁戦64強戦 |  | Lin Xiuping | Win | W+R | 6.5 | 2352 | -78 | 
+| 2018-01-09 | 第十七回天元戦予選第二回戦 | Lin Xiuping | Lin Ziyuan | Lose | W+2.5 | 6.5 | 2430 | -48 | 
+| 2017-09-26 | 第13期国手戦（台湾）16強戦 | Li Wei | Lin Xiuping | Lose | B+R | 6.5 | 2478 | -24 | 
+| 2017-09-17 | 第5期中環碁聖戦第二回戦 | Zhang Zhehao | Lin Xiuping | Lose | B+R | 6.5 | 2502 | -47 | 
+| 2017-09-12 | 第13期国手戦（台湾）首輪下半区 | Lin Xiuping | Lin Ziyuan | Win | B+R(B+R) | 6.5 | 2549 | -2 | 
+| 2017-09-05 | 第5期中環碁聖戦首輪上半区 |  | Lin Xiuping | Win | W+9.5 | 6.5 | 2551 | 15 | 
+| 2017-08-25 | 第四回福蔭杯国際精鋭囲棋対抗戦代表選抜戦初戦第一局 | Lin Shuyang | Lin Xiuping | Lose | B+12.5 | 6.5 | 2536 | 23 | 
+| 2017-06-05 | 第7期友士杯十段戦敗者復活戦2回戦 | Zhou Junxun | Lin Xiuping | Lose | B+R | 6.5 | 2513 | -13 | 
+| 2017-06-02 | 第7期友士杯十段戦2回戦 | Hei Jiajia | Lin Xiuping | Lose | B+5.5 | 6.5 | 2526 | -47 | 
+| 2017-05-31 | 第7期友士杯十段戦1回戦 | Li Wei | Lin Xiuping | Win | W+R | 6.5 | 2573 | 209 | 
+| 2017-03-13 | 第9回海峰杯プロ囲碁戦32強戦 | Lin Xiuping | Chen Xi | Lose | W+5.5 | 6.5 | 2364 | -44 | 
+| 2017-03-09 | 第9回海峰杯プロ囲碁戦64強戦 | Lin Xiuping | Lin Shengxian | Win | B+R | 6.5 | 2408 | -5 | 
+| 2017-02-21 | 第十六期天元戦複戦敗部第二回戦補戦 | Lin Xiuping | Chen Xi | Lose | W+R | 6.5 | 2413 | -33 | 
+| 2017-02-14 | 第十六期天元戦複戦勝部第二回戦 | Lin Xiuping | Xu Yuqi | Lose | W+5.5 | 6.5 | 2446 | -62 | 
+| 2017-02-10 | 第22期LG杯台湾代表選抜戦初戦第一局 |  | Lin Xiuping | Lose | B+R | 6.5 | 2508 | -16 | 
+| 2017-02-09 | 第十六期天元戦複戦第一回戦 | Lin Xiuping | Zhou Yinnan | Win | B+R | 6.5 | 2524 | 56 | 
+| 2017-02-03 | 第三期MLILIY夢百合杯台湾代表選抜戦 初戦 | Lin Xiuping | Li Wei | Win | B+9.5 | 7.5 | 2468 | 56 | 
+| 2017-01-10 | 第十六期天元戦初戦第二回戦 |  | Lin Xiuping | Win | W+R | 6.5 | 2412 | 67 | 
+| 2016-12-19 | 関西棋院対台湾棋院棋士対抗戦2017　1回戦 | Lin Xiuping | Seto Taiki | Lose | W+R | 6.5 | 2345 | -385 | 
+| 2016-06-01 | 第6期友士杯十段戦予選 | Yang Bowei | Lin Xiuping | Lose | B+R | 6.5 | 2730 | -15 | 
+| 2016-05-30 | 第6期友士杯十段戦予選 | Huang Xiangren | Lin Xiuping | Win | W+R | 6.5 | 2745 | 23 | 
+| 2016-05-20 | 第6期友士杯十段戦予選 | Lin Xiuping | Lai Junfu | Lose | W+15.5 | 6.5 | 2722 | 19 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Lin Xiuping |  | Win | B+R | 6.5 | 2703 | 52 | 
+| 2016-04-11 | 第8回海峰杯プロ囲碁戦16強戦 | Lin Lixiang | Lin Xiuping | Lose | B+R | 6.5 | 2651 | -36 | 
+| 2016-03-21 | 第8回海峰杯プロ囲碁戦32強戦 | Lin Xiuping | Lin Jiehan | Win | B+R | 6.5 | 2687 | 46 | 
+| 2016-03-07 | 第8回海峰杯プロ囲碁戦64強戦 |  | Lin Xiuping | Win | W+R | 6.5 | 2641 | 47 | 
+| 2015-11-09 | 第8期棋王戦（台湾）リーグ | Zhou Junxun | Lin Xiuping | Win | W+R | 6.5 | 2594 | 50 | 
+| 2015-11-05 | 第8期棋王戦（台湾）リーグ | Lin Xiuping | Yang Bowei | Lose | W+R | 6.5 | 2544 | -17 | 
+| 2015-11-02 | 第8期棋王戦（台湾）リーグ | Chen Qirui | Lin Xiuping | Win | W+R | 6.5 | 2561 | 49 | 
+| 2015-10-29 | 第8期棋王戦（台湾）リーグ | Lin Xiuping | Lin Junyan | Lose | W+R | 6.5 | 2512 | -16 | 
+| 2015-10-26 | 第8期棋王戦（台湾）リーグ | Lin Xiuping | Lin Shuyang | Lose | W+3.5 | 6.5 | 2528 | -21 | 
+| 2015-10-22 | 第8期棋王戦（台湾）リーグ | Lin Lixiang | Lin Xiuping | Lose | B+1.5 | 6.5 | 2549 | -29 | 
+| 2015-10-19 | 第8期棋王戦（台湾）リーグ | Xiao Zhenghao | Lin Xiuping | Win | W+R | 6.5 | 2578 | 52 | 
+| 2015-06-29 | 第5期友士杯十段戦敗者復活戦準決勝 | Lin Xiuping | Hei Jiajia | Lose | W+R | 6.5 | 2526 | -84 | 
+| 2015-06-25 | 第5期友士杯十段戦敗者復活戦3回戦 | Li Wei | Lin Xiuping | Win | W+R | 6.5 | 2610 | 112 | 
+| 2015-06-18 | 第5期友士杯十段戦勝者組準決勝 | Lin Xiuping | Xiao Zhenghao | Lose | W+1.5 | 6.5 | 2498 | -22 | 
+| 2015-06-15 | 第5期友士杯十段戦2回戦 | Zhou Yinnan | Lin Xiuping | Win | W+R | 6.5 | 2520 | 72 | 
+| 2015-06-11 | 第5期友士杯十段戦1回戦 | Chen Feng | Lin Xiuping | Win | W+R | 6.5 | 2448 | 3763 | 
+| 2015-03-10 | 第14期天元戦（台湾）予選 | Lin Shixun | Lin Xiuping | Lose | B+2.5 | 6.5 | -1315 | -1315 | 
+| 2015-03-05 | 第7回海峰杯プロ囲碁戦64強戦 | Liu Jianchang | Lin Xiuping | Lose | B+4.5 | 6.5 | missing | 0 | 
+| 2015-03-03 | 第14期天元戦（台湾）予選 |  | Lin Xiuping | Lose | B+R | 6.5 | missing | 0 | 
+| 2015-02-24 | 第14期天元戦（台湾）予選 | Lin Jiehan | Lin Xiuping | Win | W+R | 6.5 | missing | -2655 | 
+| 2014-03-06 | 第6回海峰杯プロ囲碁戦32強戦 | Lin Xiuping |  | Lose | W+R | 6.5 | 2655 | -31 | 
+| 2014-01-16 | 2014年日台精鋭交流戦第4戦 | Rin Shien | Lin Xiuping | Win | W+5.5 | 6.5 | 2686 | 0 | 
+| 2014-01-16 | 2014年日台精鋭交流戦第3戦 | Han Zenki | Lin Xiuping | Lose | B+R | 6.5 | 2686 | -5 | 
+| 2013-03-28 | 第5回海峰杯プロ囲碁戦16強戦 | Hei Jiajia | Lin Xiuping | Lose | B+0.5 | 6.5 | 2691 | -69 | 
+| 2013-03-14 | 第5回海峰杯プロ囲碁戦32強戦 |  | Lin Xiuping | Win | W+R | 6.5 | 2760 | 0 | 
+| 2013-03-07 | 第5回海峰杯プロ囲碁戦64強戦 |  | Lin Xiuping | Win | W+R | 6.5 | 2760 | -54 | 
+| 2012-11-15 | 第4回海峰杯プロ囲碁戦8強戦 | Chen Shiyuan | Lin Xiuping | Lose | B+R | 6.5 | 2814 | 35 | 
+| 2012-11-08 | 第4回海峰杯プロ囲碁戦16強戦 | Xia Daming | Lin Xiuping | Win | W+R | 6.5 | 2779 | 27 | 
+| 2012-11-01 | 第4回海峰杯プロ囲碁戦32強戦 | Dang Xiyun | Lin Xiuping | Win | W+R | 6.5 | 2752 | -17 | 
+| 2012-10-18 | 第4回海峰杯プロ囲碁戦64強戦 | Lin Xiuping | Gao Yun | Win | B+0.5 | 6.5 | 2769 | -87 | 
+| 2012-09-13 | 2012ジャステック杯国際新鋭囲碁対抗戦第3戦 | Lin Xiuping | Ichiriki Ryo | Win | B+R | 6.5 | 2856 | 285 | 
+| 2012-09-12 | 2012ジャステック杯国際新鋭囲碁対抗戦第2戦 |  | Lin Xiuping | Lose | B+3.5 | 6.5 | 2571 | -90 | 
+| 2012-09-11 | 2012ジャステック杯国際新鋭囲碁対抗戦第1戦 | Lin Xiuping | Shin Minjun | Lose | W+R | 6.5 | 2661 | 148 | 
+| 2012-07-31 | 第8期国手戦（台湾）リーグ | Lin Xiuping | Zhou Junxun | Lose | W+R | 6.5 | 2513 | -132 | 
+| 2012-06-26 | 第8期国手戦（台湾）リーグ | Lin Xiuping | Hei Jiajia | Lose | W+R | 6.5 | 2645 | -235 | 
+| 2012-05-01 | 第11期天元戦（台湾）リーグ | Lin Xiuping | Wang Yuanjun | Lose | W+R | 6.5 | 2880 | -81 | 
+| 2012-04-24 | 第11期天元戦（台湾）リーグ | Yang Bowei | Lin Xiuping | Win | W+R | 6.5 | 2961 | -16 | 
+| 2012-04-17 | 第11期天元戦（台湾）リーグ | Lin Xiuping | Xiao Zhenghao | Lose | W+R | 6.5 | 2977 | -43 | 
+| 2012-04-10 | 第11期天元戦（台湾）リーグ | Lin Shuyang | Lin Xiuping | Win | W+R | 6.5 | 3020 | 407 | 
+| 2012-03-28 | 第11期天元戦（台湾）リーグ | Zhou Junxun | Lin Xiuping | Lose | B+R | 6.5 | 2613 | -130 | 
+| 2012-02-23 | 第5期棋王戦（台湾）予選 |  | Lin Xiuping | Lose | B+0.5 | 6.5 | 2743 | -150 | 
+| 2011-10-13 | 第3回海峰杯プロ囲碁戦16強戦 | Lin Xiuping | Zhou Junxun | Lose | W+R | 6.5 | 2893 | 2893 | 
+| 2011-10-06 | 第3回海峰杯プロ囲碁戦32強戦 |  | Lin Xiuping | Win | W+R | 6.5 | missing | -2857 | 
+| 2011-09-29 | 第3回海峰杯プロ囲碁戦64強戦 | Lin Xiuping | Wei Haoting | Win | B+3.5 | 6.5 | 2857 | -109 | 
+| 2011-04-19 | 第10期天元戦（台湾）リーグ | Lin Xiuping | Ye Hongyuan | Win | B+R | 6.5 | 2966 | 191 | 
+| 2010-09-30 | 第2回海峰杯プロ囲碁戦8強戦 | Lin Lixiang | Lin Xiuping | Lose | B+R | 6.5 | 2775 | -59 | 
+| 2010-09-23 | 第2回海峰杯プロ囲碁戦16強戦 | Lin Xiuping | Lin Shuyang | Win | B+5.5 | 6.5 | 2834 | 23 | 
+| 2010-09-16 | 第2回海峰杯プロ囲碁戦32強戦 | Lin Xiuping | Yang Mengyun | Win | B+3.5 | 6.5 | 2811 | 170 | 
+| 2010-09-02 | 第2回海峰杯プロ囲碁戦64強戦 | Hei Jiajia | Lin Xiuping | Win | W+R | 6.5 | 2641 | -135 | 
+| 2010-01-21 | 第3期棋王戦（台湾）予選 | Lin Xiuping | Zhang Zhehao | Lose | W+R | 6.5 | 2776 | -113 | 
+| 2010-01-07 | 第3期棋王戦（台湾）予選 |  | Lin Xiuping | Win | W+R | 6.5 | 2889 | 44 | 
+| 2009-12-31 | 第3期棋王戦（台湾）予選 | Lin Xiuping | Zhang Zhengping | Win | B+R | 6.5 | 2845 | 0 | 
+| 2009-12-24 | 第3期棋王戦（台湾）予選 | Lin Xiuping | Huang Xiangren | Win | B+R | 6.5 | 2845 | -64 | 
+| 2009-10-29 | 第1回海峰杯プロ囲碁戦準決勝 | Lin Xiuping | Chen Shiyuan | Lose | W+R | 6.5 | 2909 | 2909 | 
+| 2009-10-15 | 第1回海峰杯プロ囲碁戦8強戦 | Zhou Junxun | Lin Xiuping | Win | W+R | 6.5 | missing | 0 | 
+| 2009-09-17 | 第1回海峰杯プロ囲碁戦16強戦 | Lin Xiuping | Yang Mengyun | Win | B+15.5 | 6.5 | missing | 0 | 
+| 2009-09-03 | 第1回海峰杯プロ囲碁戦32強戦 |  | Lin Xiuping | Win | W+R | 6.5 | missing | missing |
 
 
 

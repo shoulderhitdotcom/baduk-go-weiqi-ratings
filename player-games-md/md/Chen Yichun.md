@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 第12期中国竜星戦予選 | Chen Yichun | Lyu Liyan | Lose | W+R | 7.5 | 3153 | 3153 | 
+| 2021-08-25 | 第12期中国竜星戦予選 | Chen Yichun |  | Win | B+¾ | 7.5 | missing | -3128 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Chen Yichun | Li Xuanhao | Win | B+R | 7.5 | 3128 | 95 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Chen Yichun | Lian Xiao | Lose | W+R | 7.5 | 3033 | -14 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Tang Weixing | Chen Yichun | Lose | B+R | 7.5 | 3047 | 0 | 

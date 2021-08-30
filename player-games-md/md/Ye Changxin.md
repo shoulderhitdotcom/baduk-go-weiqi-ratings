@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Ye Changxin | Hu Yaoyu | Win | B+¾ | 7.5 | 3241 | 1 | 
+| 2021-08-30 | 第12期中国竜星戦予選 |  | Ye Changxin | Win | W+4¼ | 7.5 | 3345 | 3345 | 
+| 2021-08-25 | 第12期中国竜星戦予選 | Ye Changxin |  | Win | B+R | 7.5 | missing | -3240 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Ye Changxin | Hu Yaoyu | Win | B+¾ | 7.5 | 3240 | 174 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Ye Changxin | Yang Kaiwen | Lose | W+R | 7.5 | 3066 | -16 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Tan Xiao | Ye Changxin | Lose | B+R | 7.5 | 3082 | 3082 | 

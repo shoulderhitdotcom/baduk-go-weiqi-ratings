@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 第12期中国竜星戦予選 | Xie Erhao | Chen Xian | Lose | W+R | 7.5 | 3570 | 7 | 
 | 2021-08-24 | 第12期中国竜星戦予選 |  | Xie Erhao | Win | W+R | 7.5 | 3563 | 37 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Tuo Jiaxi | Xie Erhao | Win | W+R | 7.5 | 3526 | 26 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Xie Erhao | Xie Ke | Win | B+1¾ | 7.5 | 3500 | 10 | 

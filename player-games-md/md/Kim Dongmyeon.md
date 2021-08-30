@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Kim Dongmyeon | Lose | B+R | 6.5 | 2441 | -27 | 
+| 2021-08-26 | 2021韓国シニア囲碁リーグ | Kim Dongmyeon |  | Win | B+1.5 | 6.5 | 2468 | -119 | 
 | 2021-08-17 | 第15回GGオークション杯女流対シニア連勝対抗戦第8局 | Cho Hyeyeon | Kim Dongmyeon | Lose | B+R | 6.5 | 2587 | 60 | 
 | 2021-08-11 | 2021韓国シニア囲碁リーグ | Kim Dongmyeon | Jimmy Cha | Win | B+4.5 | 6.5 | 2527 | 37 | 
 | 2021-08-02 | 2021韓国シニア囲碁リーグ | Kim Dongmyeon | Jeong Daesang | Win | B+R | 6.5 | 2490 | 55 | 

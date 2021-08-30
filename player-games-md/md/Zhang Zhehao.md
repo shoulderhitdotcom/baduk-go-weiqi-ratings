@@ -5,161 +5,163 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第2期聯電杯プロ囲碁戦予選 | missing | Zhang Zhehao | W+R | 2021-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HB98%2BQ0vxCl67%2Baw6M%2BRdQ%3D%3D) | 
-| 第11期友士杯十段戦予選 | Huang Shiyuan | Zhang Zhehao | B+2.5 | 2021-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W9UizZ4iivi7qJISAC0LGA%3D%3D) | 
-| 第17期国手戦（台湾） | Zhang Zhehao | Li Wei | W+R | 2021-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZmKFrFSk1ArmVKYyVQg4EQ%3D%3D) | 
-| 第11期友士杯十段戦予選 | Chen Shiyuan | Zhang Zhehao | B+7.5 | 2021-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o55ZMEX56ymuaqJSIAyapQ%3D%3D) | 
-| 第11期友士杯十段戦予選 | Cai Wenhe | Zhang Zhehao | W+R | 2021-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n%2BMbdGgT6UIU37GcjFJ3AQ%3D%3D) | 
-| 第17期国手戦（台湾） | Zhang Zhehao | missing | B+R | 2021-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2mQ5SQEJOV76pbOGFLrBeQ%3D%3D) | 
-| 第2期名人冠軍戦予選 | Zhang Zhehao | Li Wei | W+0.5 | 2021-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ayYHxlh2EZr7wNdJdzT7Tg%3D%3D) | 
-| 第2期名人冠軍戦予選 | missing | Zhang Zhehao | W+R | 2021-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=emqaOz63lLB1sw08zXvPjg%3D%3D) | 
-| 第2期名人冠軍戦予選 | Zhang Zhehao | missing | W+1.5 | 2021-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fl%2FHRKYlrbar%2BasghOfBEg%3D%3D) | 
-| 第20期天元戦（台湾）敗部1回戦 | Zhang Zhehao | Cai Chengwei | W+2.5 | 2021-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S4QGKZYk2%2BFi80DSHM5HkA%3D%3D) | 
-| 第20期天元戦（台湾）勝部1回戦 | Lin Shixun | Zhang Zhehao | B+R | 2021-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DkbLdLjwz6Fa3bca2RNk%2FA%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦2回戦 | Xu Haohong | Zhang Zhehao | B+8.5 | 2021-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=992YmgJrs%2Fm3NT1tg5Sw%2Fg%3D%3D) | 
-| 第20期天元戦（台湾）予選 | Zhang Zhehao | Xu Jingen | B+2.5 | 2021-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8gBhM3aWgCsIC%2F9mu%2FLWmA%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦1回戦 | Zhang Zhehao | Ding Shaojie | B+R | 2021-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=86hzMXX5T4bDu3hE7yTCsA%3D%3D) | 
-| 第20期天元戦（台湾）予選 | missing | Zhang Zhehao | W+3.5 | 2021-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lz%2FVZXbTT83poyr16bmc7g%3D%3D) | 
-| 第20期天元戦（台湾）予選 | missing | Zhang Zhehao | W+R | 2021-01-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KRk8ta7Zbild%2BdHE8MNS3g%3D%3D) | 
-| 第1回UMC聯電杯早碁争覇戦3回戦 | Zhang Zhehao | Xu Haohong | W+1.5 | 2020-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EIO%2FB3sCg3dIljIfi2X5zQ%3D%3D) | 
-| 第1回UMC聯電杯早碁争覇戦2回戦 | missing | Zhang Zhehao | W+R | 2020-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xHdzbvpsPhe8InmLEwhM%2FQ%3D%3D) | 
-| 第8期中環碁聖戦4回戦 | Jian Jingting | Zhang Zhehao | B+R | 2020-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oeYuctiOspncKxT9269gBg%3D%3D) | 
-| 第1回UMC聯電杯早碁争覇戦1回戦 | Gao Yun | Zhang Zhehao | W+R | 2020-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CJATzIHUHfLYm9tx0zbNGg%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Chen Shiyuan | Zhang Zhehao | B+R | 2020-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2KFEHc8X%2BGG36lD50A%2FbPw%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Zhang Zhehao | missing | W+R | 2020-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c2PQZz7vOjHHwC66ETgXOw%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Huang Shiyuan | Zhang Zhehao | W+R | 2020-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1exNvBZvAb2P3A5mt%2Bc%2FFQ%3D%3D) | 
-| 第8期中環碁聖戦3回戦 | Zhang Zhehao | missing | B+R | 2020-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OyymqeG10nFcDUV%2F07M7FA%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Zhang Zhehao | missing | B+R | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ydV1yA1qJ6cr7mpXBRs7Hg%3D%3D) | 
-| 第16期国手戦（台湾）1回戦 | Zhang Zhehao | Lin Shixun | W+1.5 | 2020-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yK%2BtSvw2Q1rdTgzO9eHtyA%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Zhang Zhehao | Zhou Yinnan | B+R | 2020-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n%2BaChXXTB%2FPCvCpp9DrIUA%3D%3D) | 
-| 第8期中環碁聖戦1回戦 | Zhang Zhehao | missing | B+R | 2020-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rBa%2FC4xBgywkQVxNpwYj8g%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Zhang Zhehao | Ding Shaojie | B+8.5 | 2020-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qgEeJYEgERj6krrUMyxa7A%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦予選 | Lai Junfu | Zhang Zhehao | B+R | 2020-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CRfYmqFFfl%2Fo32ASzJEYZw%3D%3D) | 
-| 第10期友士杯十段戦予選敗部4回戦 | Zhang Zhehao | missing | W+R | 2020-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SR39mUeX0C4NsspQWwGrhg%3D%3D) | 
-| 第10期友士杯十段戦予選勝部決勝 | Wang Yuanjun | Zhang Zhehao | B+R | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WR6XLHPxEmqTCh1UIOec9A%3D%3D) | 
-| 第10期友士杯十段戦予選勝部2回戦 | Zhang Zhehao | missing | B+R | 2020-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EcwTqsbxfnKfDhEdPyH4PA%3D%3D) | 
-| 第10期友士杯十段戦予選勝部1回戦 | Zhang Zhehao | Liu Yaowen | B+3.5 | 2020-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wYI7LYgxHGc%2BaIWPOizFYA%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦32強戦 | Yu Lijun | Zhang Zhehao | B+4.5 | 2020-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Lh5xEAT9wcRVEOu34Bb8Q%3D%3D) | 
-| 第12回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao | missing | B+7.5 | 2020-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MNk8fVqJ6bYWc0szanbnGg%3D%3D) | 
-| 第1期名人冠軍戦予選敗部1回戦 | missing | Zhang Zhehao | B+3.5 | 2020-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4odBnWrXdxtt4T5mOg31KQ%3D%3D) | 
-| 第1期名人冠軍戦予選勝部1回戦 | Zhang Zhehao | missing | W+5.5 | 2020-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KlgOUPQ%2BVTUT3pU2CS3wnA%3D%3D) | 
-| 第19期天元戦（台湾）予選 | Zhang Zhehao | Huang Xiangren | W+R | 2020-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mqq%2FloR7Zfr8RbqW0jG15A%3D%3D) | 
-| 第15期国手戦（台湾）2回戦 | Xu Haohong | Zhang Zhehao | B+R | 2019-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SL67TSCMjiPowgEYRxuvnQ%3D%3D) | 
-| 第7期中環碁聖戦3回戦 | Jian Jingting | Zhang Zhehao | B+R | 2019-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=68CQeC7QJ1s%2Bn1X9jZyYBQ%3D%3D) | 
-| 第7期中環碁聖戦2回戦 | Zhang Zhehao | Chen Feng | B+3.5 | 2019-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Iu25ggzr6UQFzLf6i33fEQ%3D%3D) | 
-| 第15期国手戦（台湾）1回戦 | missing | Zhang Zhehao | W+R | 2019-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qblEGseYZz1e3zmaP%2F2Bvg%3D%3D) | 
-| 第12期棋王戦（台湾）資格戦勝部1回戦 | Zhang Zhehao | Li Wei | W+R | 2019-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2Fw0z5OenBP%2BAh9ebewbyA%3D%3D) | 
-| 第7期中環碁聖戦1回戦 | missing | Zhang Zhehao | W+R | 2019-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D7jv59d4bU8jqkwk%2BgQzBA%3D%3D) | 
-| 第9期友士杯十段戦敗部2回戦 | missing | Zhang Zhehao | B+R | 2019-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vbbbvGKzAww5TFTAvA7kWw%3D%3D) | 
-| 第9期友士杯十段戦敗部1回戦 | Zhang Zhehao | Lin Jiehan | B+R | 2019-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e0uLWhOXVP75qucGYm2z%2BQ%3D%3D) | 
-| 第9期友士杯十段戦勝部1回戦 | Lin Junyan | Zhang Zhehao | B+R | 2019-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tt%2Fa2DcpADi%2BiBpKWwsWiA%3D%3D) | 
-| 第9期友士杯十段戦予選勝部決勝 | Lai Junfu | Zhang Zhehao | W+4.5 | 2019-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rB%2F38BkSi3IDK1GK%2FGvUFQ%3D%3D) | 
-| 第9期友士杯十段戦予選勝部準決勝 | Zhang Zhehao | missing | B+R | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IZnDhD9FybXH%2B1PR1xFuRg%3D%3D) | 
-| 第9期友士杯十段戦予選勝部1回戦 | Lin Shimin | Zhang Zhehao | W+R | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=erTYOf1U6ckLyzivnAYBpQ%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan | Zhang Zhehao | B+R | 2019-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qDI91tz1HHSrgI%2FcClUeEw%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao | Wei Haoting | W+1.5 | 2019-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nakWFHQnRB3QDi62DKdbkg%3D%3D) | 
-| 第18期天元戦（台湾）敗部1回戦 | Xu Yuqi | Zhang Zhehao | B+5.5 | 2019-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XY%2BwS8Ih6Hc%2BBhDV%2BtWMqQ%3D%3D) | 
-| 第18期天元戦（台湾）勝部1回戦 | Zhang Zhehao | Li Wei | W+R | 2019-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jKBV4Uy1gBbzfXnWiuxvsQ%3D%3D) | 
-| 第18期天元戦（台湾）予選3回戦 補戦 | Zhang Zhehao | missing | B+R | 2019-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nsz%2FBP0W99g7sFbg9%2FLd2Q%3D%3D) | 
-| 第18期天元戦（台湾）予選1回戦 | Zhang Zhehao | Dong Yutang | B+R | 2019-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UZ8kx5itJFNIasQdCPWQwg%3D%3D) | 
-| 第1回IWMC台湾代表男子選抜戦予選1回戦 | Yang Bowei | Zhang Zhehao | B+R | 2018-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OmqX%2FR6hX4ROvEf0DEnVsg%3D%3D) | 
-| 第14期国手戦（台湾）16強戦 | Zhang Zhehao | Chen Qirui | W+6.5 | 2018-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XOaFz0eIT16WG0Z8V4OwtQ%3D%3D) | 
-| 第14期国手戦（台湾）第2回戦補戦 | Liu Yaowen | Zhang Zhehao | W+R | 2018-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fI9SE8bQeYLdpo3MGW8ToA%3D%3D) | 
-| 第6期中環碁聖戦3回戦 | Xu Haohong | Zhang Zhehao | B+3.5 | 2018-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FTBGBW79qOH8fP1H%2FfyPDg%3D%3D) | 
-| 第11期棋王戦（台湾）予選敗部2回戦 | Zhang Zhehao | Lu Yiquan | W+R | 2018-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pl%2Bz41GUe1vQwvMvuRCdCw%3D%3D) | 
-| 第14期国手戦（台湾）1回戦下半区 | Zhang Zhehao | missing | B+R | 2018-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z3rT4agIYhd22rXIRauBtg%3D%3D) | 
-| 第11期棋王戦（台湾）予選勝部2回戦 | Zhang Zhehao | Xu Yuqi | W+R | 2018-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DRaOrZKRL8TB5Ctc6Byc2Q%3D%3D) | 
-| 第11期棋王戦（台湾）予選勝部1回戦 | Lin Shimin | Zhang Zhehao | W+1.5 | 2018-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AYgK4wpv6%2Fq9HPY%2FdSQB%2FQ%3D%3D) | 
-| 第6期中環碁聖戦2回戦 | Zhang Zhehao | Lin Shimin | B+2.5 | 2018-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9xga2JvvzB2ZNCH0FUPzZA%3D%3D) | 
-| 第6期中環碁聖戦1回戦上半区 | Zhang Zhehao | missing | B+R | 2018-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LfithELw%2Bbt03eeL9YPx2w%3D%3D) | 
-| 第8期友士杯十段戦予選 | Chen Xi | Zhang Zhehao | B+R | 2018-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0spHP4FJxR%2Bye4yQHd3JGQ%3D%3D) | 
-| 第8期友士杯十段戦予選 | Zhang Zhehao | Cai Chengwei | B+2.5 | 2018-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AylrRvBA8EBq668iQT80hg%3D%3D) | 
-| 第8期友士杯十段戦予選 | missing | Zhang Zhehao | W+2.5 | 2018-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ls4AtokZzDgS2mG%2FEuOm6g%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦32強戦 | Zhang Zhehao | missing | W+2.5 | 2018-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5btRlEsqtZ9f4LGocswZxA%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao | missing | B+R | 2018-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Fnv9m%2BtZkk0oNhy5DptyQ%3D%3D) | 
-| 第十七回天元戦予選第三回戦 | Chen Feng | Zhang Zhehao | B+R | 2018-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NsCbfMW9UCsucKslP2XR5Q%3D%3D) | 
-| 第13期国手戦（台湾）16強戦 | Wang Yuanjun | Zhang Zhehao | B+2.5 | 2017-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EMRbFQ4JY6sOOAIIZSKZ2Q%3D%3D) | 
-| 第5期中環碁聖戦16強戦 | Zhang Zhehao | Jian Jingting | W+3.5 | 2017-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xufHsru3aDTRLxQn%2Fi4F4A%3D%3D) | 
-| 第5期中環碁聖戦第二回戦 | Zhang Zhehao | Lin Xiuping | B+R | 2017-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aLtFYGjhxfczlv2brzgXJA%3D%3D) | 
-| 第13期国手戦（台湾）第二回戦補戦 | missing | Zhang Zhehao | W+2.5 | 2017-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wsk8fm3jLdNCE4OczyjfvQ%3D%3D) | 
-| 第5期中環碁聖戦首輪上半区 | Zhang Zhehao | Xiao Ailin | B+R | 2017-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5ID619bqu%2FBJ8RDnH%2B0ILA%3D%3D) | 
-| 第7期友士杯十段戦敗者復活戦1回戦 | Zhang Zhehao | Lu Yiquan | W+3.5 | 2017-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XALO7Q%2FFqo%2BCb06rcrGhmQ%3D%3D) | 
-| 第7期友士杯十段戦1回戦 | Zhang Zhehao | Jian Jingting | W+R | 2017-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YoDiFbSqYuaoUluIQ%2FLYaA%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦16強戦 | Zhang Zhehao | Xiao Zhenghao | W+R | 2017-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8x9CVc%2BvedfWFQnYz5JCcg%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦32強戦 | Zhou Yinnan | Zhang Zhehao | W+R | 2017-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XO%2FP1%2BUjd34I2kW1owvvAg%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao | missing | B+R | 2017-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kl9Tc8azMZeI2Grcnf5UNg%3D%3D) | 
-| 第十六期天元戦複戦敗部第二回戦 | Chen Qirui | Zhang Zhehao | B+R | 2017-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SKKnDJnb77rwaYRyqgSh8w%3D%3D) | 
-| 第十四期倡棋盃台湾代表選抜戦初戦第二局 | missing | Zhang Zhehao | B+R | 2017-02-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ABi3yljsqjfUBBE3R2o0FQ%3D%3D) | 
-| 第22期LG盃台湾代表選抜戦初戦第三局 | Chen Qirui | Zhang Zhehao | B+R | 2017-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=el%2F17Ib4YAEYySmvZagu6Q%3D%3D) | 
-| 第十六期天元戦複戦第一回戦 | Zhang Zhehao | Huang Xiangren | W+R | 2017-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=brcOUwnwNQlRuKoXzsBJaw%3D%3D) | 
-| 第十六期天元戦初戦第二回戦 | Zhang Zhehao | Dang Xiyun | B+R | 2017-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HcpHLoQE6oi%2BtiOkBi0VJQ%3D%3D) | 
-| 第6期友士杯十段戦予選 | Lin Shuyang | Zhang Zhehao | B+R | 2016-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=idquZiPNAnXB1tk%2F4YhhZA%3D%3D) | 
-| 第6期友士杯十段戦予選 | Gao Yun | Zhang Zhehao | W+3.5 | 2016-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GgaxCXm6EhiO%2FIxjU1fl6g%3D%3D) | 
-| 第6期友士杯十段戦予選 | Zhou Junxun | Zhang Zhehao | B+R | 2016-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L6H8T2PDXplCbCF2BqUrcA%3D%3D) | 
-| 第6期友士杯十段戦予選 | Zhang Zhehao | Lin Shengxian | B+R | 2016-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RR0I52iCtcxwtzMBaqtLsw%3D%3D) | 
-| 第6期友士杯十段戦予選 | Cai Wenhe | Zhang Zhehao | W+R | 2016-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WFZEy2nE9cDqQbjobwVXPQ%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦16強戦 | Zhang Zhehao | Xiao Zhenghao | W+1.5 | 2016-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LKNyrNK%2B3O6e2G9TCtPSGg%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦32強戦 | Hei Jiajia | Zhang Zhehao | W+R | 2016-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FA7AHIgz0aEB6QKiofmb6w%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦64強戦 | missing | Zhang Zhehao | W+R | 2016-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q4OR3dxRh2LU2WgoiHGakQ%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦16強戦 | Lin Junyan | Zhang Zhehao | B+R | 2015-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8pjgQ9MzF4Bp9wdpUbt%2Bzw%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦32強戦 | Zhang Zhehao | missing | B+R | 2015-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ewGdKUDTiP1R1QBEtQZH8Q%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦64強戦 | missing | Zhang Zhehao | W+R | 2015-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TQEU4YnyBu9cc5SzWxvFLg%3D%3D) | 
-| 第6回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao | missing | W+R | 2014-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aj9%2F4GlBHOL6qlzW4UgsjQ%3D%3D) | 
-| 2014年日台精鋭交流戦第5戦 | Hsu Chiayuan | Zhang Zhehao | B+0.5 | 2014-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kAEXo8WMsOgM85i0a7%2BViA%3D%3D) | 
-| 2014年日台精鋭交流戦第2戦 | Zhang Zhehao | Cho Riyu | W+R | 2014-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=16orZOGYaUL4CvJ%2FunIkbw%3D%3D) | 
-| 第5回海峰杯プロ囲碁戦8強戦 | Wang Yuanjun | Zhang Zhehao | B+3.5 | 2013-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ooI1Y0sP1zQdZG209cywQA%3D%3D) | 
-| 第5回海峰杯プロ囲碁戦16強戦 | Lin Tingyi | Zhang Zhehao | W+R | 2013-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zsPCTf1Z2FOY1LqeHLnCjw%3D%3D) | 
-| 第5回海峰杯プロ囲碁戦32強戦 | Xia Daming | Zhang Zhehao | W+R | 2013-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MoxBMigq1ob0p%2FkXmz2gAA%3D%3D) | 
-| 第5回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao | missing | B+R | 2013-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nU8Y6AQuFpKP6mX3YuSriQ%3D%3D) | 
-| 第4回海峰杯プロ囲碁戦準決勝 | Chen Shiyuan | Zhang Zhehao | B+R | 2012-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VKZA6%2Fik3r5shtYdxQKXbQ%3D%3D) | 
-| 第4回海峰杯プロ囲碁戦8強戦 | Zhang Zhehao | Lin Junyan | B+0.5 | 2012-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FVG%2BzaC%2FCDneQQ%2By4buPOw%3D%3D) | 
-| 第4回海峰杯プロ囲碁戦16強戦 | Zhang Zhehao | Xiao Zhenghao | B+0.5 | 2012-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yuTWOdT1eV7L4oTwypREQw%3D%3D) | 
-| 第4回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao | Qin Shi | B+R | 2012-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O7NSG%2FpGi2xqezPtGfUDig%3D%3D) | 
-| 第3回海峰杯プロ囲碁戦64強戦 | Ye Hongyuan | Zhang Zhehao | B+3.5 | 2011-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PkMCooELuJDY6ONBZxIyjA%3D%3D) | 
-| 第10期天元戦（台湾）リーグ | Zhang Zhehao | Lin Shuyang | W+2.5 | 2011-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dYvXLh%2BH4cUldFsMidACnQ%3D%3D) | 
-| 第10期天元戦（台湾）予選 | Hei Jiajia | Zhang Zhehao | W+R | 2011-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QbWzBhkoIMjnod0%2FUNHDrw%3D%3D) | 
-| 第24回世界囲碁選手権富士通杯台湾予選 | Zhang Zhehao | Lin Lixiang | W+R | 2011-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kqDtTKFpufVwG%2B5tKi8kmQ%3D%3D) | 
-| 第24回世界囲碁選手権富士通杯台湾予選 | Zhang Zhehao | Liu Yaowen | B+R | 2011-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lZKTJVZCTQdLW4W29caPJQ%3D%3D) | 
-| 第24回世界囲碁選手権富士通杯台湾予選 | Wang Yuanjun | Zhang Zhehao | W+R | 2010-12-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4973p3z%2BNiOgn5ltnWJ91A%3D%3D) | 
-| 第3回BCカード杯世界選手権台湾予選 | Zhang Zhehao | Lin Lixiang | W+4.5 | 2010-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yROYwrSUavor%2Bt%2FMu%2BgITQ%3D%3D) | 
-| 第3期棋王戦（台湾）リーグ | Lin Shuyang | Zhang Zhehao | B+R | 2010-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CYYf%2FvR1bti06rfyfKW44g%3D%3D) | 
-| 第3期棋王戦（台湾）リーグ | Zhang Zhehao | Wang Yuanjun | W+3.5 | 2010-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rHosm8ixJUSWdCIe0tdmsQ%3D%3D) | 
-| 第3期棋王戦（台湾）リーグ | Zhang Zhehao | Xiao Zhenghao | W+R | 2010-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g4v79w5kMapbzmfiTRK4mg%3D%3D) | 
-| 第3期棋王戦（台湾）リーグ | Lin Zhihan | Zhang Zhehao | B+13.5 | 2010-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C6jG%2Bhu8laSVWa5vITdBzg%3D%3D) | 
-| 第3期棋王戦（台湾）リーグ | Zhou Junxun | Zhang Zhehao | B+4.5 | 2010-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J0t2BsW%2FNJYS1qq3WCfnCw%3D%3D) | 
-| 第3期棋王戦（台湾）リーグ | Zhang Zhehao | Xia Daming | W+5.5 | 2010-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D%2FFcbm%2FayJGoKtOAZMSjQg%3D%3D) | 
-| 第3期棋王戦（台湾）リーグ | Zhang Zhehao | Lin Lixiang | W+2.5 | 2010-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wy7IKnHrXa%2FJ75X2W2bMbw%3D%3D) | 
-| 第3期棋王戦（台湾）予選 | Lin Xiuping | Zhang Zhehao | W+R | 2010-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2SbhbM%2FdvOPZj3NRf8UgSQ%3D%3D) | 
-| 第3期棋王戦（台湾）予選 | missing | Zhang Zhehao | W+R | 2010-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rU%2BdSIl1nGYIjWE%2F4J9o1A%3D%3D) | 
-| 第3期棋王戦（台湾）予選 | Zhou Pingqiang | Zhang Zhehao | W+R | 2009-12-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PssJ1mYx29BWZagcy1QtMA%3D%3D) | 
-| 第3期棋王戦（台湾）予選 | Liu Yaowen | Zhang Zhehao | W+R | 2009-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FsS2mAija7x1QPsPTfhPCA%3D%3D) | 
-| 第1回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao | missing | W+6.5 | 2009-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LDmL6%2FgI1m3L%2FRKBxCgkaw%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯台湾予選 | Chen Feng | Zhang Zhehao | B+0.5 | 2008-12-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L%2Fw4bvRXakZnlV6Gh6ISyA%3D%3D) | 
-| 2008年国際新鋭囲碁対抗戦第3戦 | Zhang Zhehao | Murakawa Daisuke | W+3.5 | 2008-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x2H49yC2UaoQftSqiMXQrw%3D%3D) | 
-| 2008年国際新鋭囲碁対抗戦第2戦 | Zhang Zhehao | Kim Jiseok | W+R | 2008-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s458qv1FGn5OGCUaGorO7A%3D%3D) | 
-| 2008年国際新鋭囲碁対抗戦第1戦 | Shi Yue | Zhang Zhehao | B+R | 2008-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m1UDU7%2BwO1pkkd23UWiCeA%3D%3D) | 
-| 第8回CMC杯テレビ早碁戦2回戦 | Zhang Zhehao | Zhou Junxun | W+10.5 | 2008-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f%2BlxWkjz4He0QLoYqSN6lw%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯台湾予選 | Zhang Zhehao | Huang Xiangren | W+7.5 | 2008-01-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nRwfvzuhdyoCOpLAIEBSaw%3D%3D) | 
-| 第8回CMC杯テレビ早碁戦予選 | Zhang Zhehao | Dang Xiyun | B+R | 2007-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Hc1vpr5RdwXZoDAfr7%2FKA%3D%3D) | 
-| 第3期国手戦（台湾）リーグ | Zhang Zhehao | Lin Zhihan | B+R | 2007-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RIpClbjAhf7fkGR1yYyvWA%3D%3D) | 
-| 第3期国手戦（台湾）リーグ | Zhang Zhehao | Xiao Zhenghao | W+R | 2007-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pNR5ZwfUJbNgxPM6wNMiXA%3D%3D) | 
-| 第3期国手戦（台湾）リーグ | Zhang Zhehao | Yu Keimin | B+2.5 | 2007-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DKV8vzTJ%2F70JEfbHXx4weA%3D%3D) | 
-| 第3期国手戦（台湾）リーグ | Zhang Zhehao | Zhou Pingqiang | W+0.5 | 2007-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=suyeF6R4zSvF1p9hN3bMow%3D%3D) | 
-| 第3期国手戦（台湾）リーグ | Chen Yida | Zhang Zhehao | W+5.5 | 2007-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iVSy3VyRcA8wPlrniN%2Fzrg%3D%3D) | 
-| 第3期国手戦（台湾）リーグ | Zhou Junxun | Zhang Zhehao | B+R | 2007-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Ueflw1JkBXdLmIt6ye5Gg%3D%3D) | 
-| 第3期国手戦（台湾）予選 | missing | Zhang Zhehao | W+R | 2007-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vADiUKNNSiVhHVNSxpIl%2FQ%3D%3D) | 
-| 第6期天元戦（台湾）プレーオフ | Zhang Zhehao | Lin Shuyang | W+R | 2007-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PCSzThPix%2Fz5xrZovvR04Q%3D%3D) | 
-| 第3期国手戦（台湾）予選 | Chen Yida | Zhang Zhehao | B+6.5 | 2007-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B9ugEy22IuPYNS00g5zf6Q%3D%3D) | 
-| 第6期天元戦（台湾）リーグ | Xiao Zhenghao | Zhang Zhehao | B+R | 2007-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nMREsgWmF5XOCVS5WkcTxA%3D%3D) | 
-| 第14期中環杯囲碁オープン戦2回戦 | Zhang Zhehao | Lin Shuyang | W+R | 2007-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pdXoKRZMQvjK0FxSmUq8jQ%3D%3D) | 
-| 第6期天元戦（台湾）リーグ | Lin Shuyang | Zhang Zhehao | W+0.5 | 2007-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zMfuvGYYgbSp0IgvEotFQQ%3D%3D) | 
-| 第14期中環杯囲碁オープン戦1回戦 | Zhang Zhehao | missing | B+R | 2007-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P%2FQQVIsa8%2BrYD46jRt2D8w%3D%3D) | 
-| 第6期天元戦（台湾）リーグ | Yu Keimin | Zhang Zhehao | W+1.5 | 2007-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=69qvnX%2B5d2AGiH7qAcueMw%3D%3D) | 
-| 第6期天元戦（台湾）リーグ | Lin Zhihan | Zhang Zhehao | B+R | 2007-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lh0cR3KjTo3ejRhTDEoryA%3D%3D) | 
-| 第6期天元戦（台湾）リーグ | Zhang Zhehao | Chen Yida | B+7.5 | 2007-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pf5BWKEmv49o19%2FIaGQyPA%3D%3D) | 
-| 第6期天元戦（台湾）予選 | Zhang Zhehao | Lin Shengxian | B+R | 2007-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FigP%2B8PKpFnBcx0DVvzcTg%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 第14期棋王戦（台湾）予選 |  | Zhang Zhehao | Win | W+R | 6.5 | 2799 | 25 | 
+| 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Jian Jingting | Zhang Zhehao | Lose | B+R | 6.5 | 2774 | -1 | 
+| 2021-05-07 | 第2期聯電杯プロ囲碁戦予選 |  | Zhang Zhehao | Win | W+R | 6.5 | 2775 | -13 | 
+| 2021-04-12 | 第11期友士杯十段戦予選 | Huang Shiyuan | Zhang Zhehao | Lose | B+2.5 | 6.5 | 2788 | -40 | 
+| 2021-04-02 | 第17期国手戦（台湾） | Zhang Zhehao | Li Wei | Lose | W+R | 6.5 | 2828 | -12 | 
+| 2021-03-29 | 第11期友士杯十段戦予選 | Chen Shiyuan | Zhang Zhehao | Lose | B+7.5 | 6.5 | 2840 | 0 | 
+| 2021-03-29 | 第11期友士杯十段戦予選 | Cai Wenhe | Zhang Zhehao | Win | W+R | 6.5 | 2840 | -81 | 
+| 2021-03-19 | 第17期国手戦（台湾） | Zhang Zhehao |  | Win | B+R | 6.5 | 2921 | 16 | 
+| 2021-03-04 | 第2期名人冠軍戦予選 | Zhang Zhehao | Li Wei | Lose | W+0.5 | 6.5 | 2905 | -7 | 
+| 2021-02-25 | 第2期名人冠軍戦予選 |  | Zhang Zhehao | Win | W+R | 6.5 | 2912 | 32 | 
+| 2021-02-22 | 第2期名人冠軍戦予選 | Zhang Zhehao |  | Lose | W+1.5 | 6.5 | 2880 | -61 | 
+| 2021-01-22 | 第20期天元戦（台湾）敗部1回戦 | Zhang Zhehao | Cai Chengwei | Lose | W+2.5 | 6.5 | 2941 | 5 | 
+| 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Lin Shixun | Zhang Zhehao | Lose | B+R | 6.5 | 2936 | 13 | 
+| 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Xu Haohong | Zhang Zhehao | Lose | B+8.5 | 6.5 | 2923 | 30 | 
+| 2021-01-12 | 第20期天元戦（台湾）予選 | Zhang Zhehao | Xu Jingen | Win | B+2.5 | 6.5 | 2893 | 32 | 
+| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Zhang Zhehao | Ding Shaojie | Win | B+R | 6.5 | 2861 | 9 | 
+| 2021-01-08 | 第20期天元戦（台湾）予選 |  | Zhang Zhehao | Win | W+3.5 | 6.5 | 2852 | 9 | 
+| 2021-01-05 | 第20期天元戦（台湾）予選 |  | Zhang Zhehao | Win | W+R | 6.5 | 2843 | 3 | 
+| 2020-10-23 | 第1回UMC聯電杯早碁争覇戦3回戦 | Zhang Zhehao | Xu Haohong | Lose | W+1.5 | 6.5 | 2840 | 3 | 
+| 2020-10-21 | 第1回UMC聯電杯早碁争覇戦2回戦 |  | Zhang Zhehao | Win | W+R | 6.5 | 2837 | 4 | 
+| 2020-10-18 | 第8期中環碁聖戦4回戦 | Jian Jingting | Zhang Zhehao | Lose | B+R | 6.5 | 2833 | -1 | 
+| 2020-10-14 | 第1回UMC聯電杯早碁争覇戦1回戦 | Gao Yun | Zhang Zhehao | Win | W+R | 6.5 | 2834 | 15 | 
+| 2020-10-05 | 第13期棋王戦（台湾）予選 | Chen Shiyuan | Zhang Zhehao | Lose | B+R | 6.5 | 2819 | -19 | 
+| 2020-09-28 | 第13期棋王戦（台湾）予選 | Zhang Zhehao |  | Lose | W+R | 6.5 | 2838 | 35 | 
+| 2020-09-24 | 第13期棋王戦（台湾）予選 | Huang Shiyuan | Zhang Zhehao | Win | W+R | 6.5 | 2803 | 49 | 
+| 2020-09-20 | 第8期中環碁聖戦3回戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 2754 | 33 | 
+| 2020-09-17 | 第13期棋王戦（台湾）予選 | Zhang Zhehao |  | Win | B+R | 6.5 | 2721 | 75 | 
+| 2020-09-15 | 第16期国手戦（台湾）1回戦 | Zhang Zhehao | Lin Shixun | Lose | W+1.5 | 6.5 | 2646 | -22 | 
+| 2020-09-14 | 第13期棋王戦（台湾）予選 | Zhang Zhehao | Zhou Yinnan | Win | B+R | 6.5 | 2668 | 26 | 
+| 2020-09-06 | 第8期中環碁聖戦1回戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 2642 | 36 | 
+| 2020-09-03 | 第13期棋王戦（台湾）予選 | Zhang Zhehao | Ding Shaojie | Win | B+8.5 | 6.5 | 2606 | 118 | 
+| 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Lai Junfu | Zhang Zhehao | Lose | B+R | 6.5 | 2488 | 11 | 
+| 2020-03-23 | 第10期友士杯十段戦予選敗部4回戦 | Zhang Zhehao |  | Lose | W+R | 6.5 | 2477 | -33 | 
+| 2020-03-19 | 第10期友士杯十段戦予選勝部決勝 | Wang Yuanjun | Zhang Zhehao | Lose | B+R | 6.5 | 2510 | -9 | 
+| 2020-03-16 | 第10期友士杯十段戦予選勝部2回戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 2519 | 0 | 
+| 2020-03-16 | 第10期友士杯十段戦予選勝部1回戦 | Zhang Zhehao | Liu Yaowen | Win | B+3.5 | 6.5 | 2519 | 78 | 
+| 2020-02-24 | 第12回海峰杯プロ囲碁戦32強戦 | Yu Lijun | Zhang Zhehao | Lose | B+4.5 | 6.5 | 2441 | -30 | 
+| 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao |  | Win | B+7.5 | 6.5 | 2471 | -93 | 
+| 2020-02-13 | 第1期名人冠軍戦予選敗部1回戦 |  | Zhang Zhehao | Lose | B+3.5 | 6.5 | 2564 | -111 | 
+| 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Zhang Zhehao |  | Lose | W+5.5 | 6.5 | 2675 | -121 | 
+| 2020-01-14 | 第19期天元戦（台湾）予選 | Zhang Zhehao | Huang Xiangren | Lose | W+R | 6.5 | 2796 | 272 | 
+| 2019-09-24 | 第15期国手戦（台湾）2回戦 | Xu Haohong | Zhang Zhehao | Lose | B+R | 6.5 | 2524 | 17 | 
+| 2019-09-22 | 第7期中環碁聖戦3回戦 | Jian Jingting | Zhang Zhehao | Lose | B+R | 6.5 | 2507 | 8 | 
+| 2019-09-15 | 第7期中環碁聖戦2回戦 | Zhang Zhehao | Chen Feng | Win | B+3.5 | 6.5 | 2499 | 40 | 
+| 2019-09-03 | 第15期国手戦（台湾）1回戦 |  | Zhang Zhehao | Win | W+R | 6.5 | 2459 | 1 | 
+| 2019-09-02 | 第12期棋王戦（台湾）資格戦勝部1回戦 | Zhang Zhehao | Li Wei | Lose | W+R | 6.5 | 2458 | -47 | 
+| 2019-09-01 | 第7期中環碁聖戦1回戦 |  | Zhang Zhehao | Win | W+R | 6.5 | 2505 | -53 | 
+| 2019-05-09 | 第9期友士杯十段戦敗部2回戦 |  | Zhang Zhehao | Lose | B+R | 6.5 | 2558 | -55 | 
+| 2019-05-06 | 第9期友士杯十段戦敗部1回戦 | Zhang Zhehao | Lin Jiehan | Win | B+R | 6.5 | 2613 | 25 | 
+| 2019-05-02 | 第9期友士杯十段戦勝部1回戦 | Lin Junyan | Zhang Zhehao | Lose | B+R | 6.5 | 2588 | -66 | 
+| 2019-04-10 | 第9期友士杯十段戦予選勝部決勝 | Lai Junfu | Zhang Zhehao | Win | W+4.5 | 6.5 | 2654 | 30 | 
+| 2019-04-08 | 第9期友士杯十段戦予選勝部準決勝 | Zhang Zhehao |  | Win | B+R | 6.5 | 2624 | 0 | 
+| 2019-04-08 | 第9期友士杯十段戦予選勝部1回戦 | Lin Shimin | Zhang Zhehao | Win | W+R | 6.5 | 2624 | 105 | 
+| 2019-03-07 | 第11回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan | Zhang Zhehao | Lose | B+R | 6.5 | 2519 | -33 | 
+| 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao | Wei Haoting | Lose | W+1.5 | 6.5 | 2552 | -58 | 
+| 2019-02-19 | 第18期天元戦（台湾）敗部1回戦 | Xu Yuqi | Zhang Zhehao | Lose | B+5.5 | 6.5 | 2610 | -21 | 
+| 2019-02-12 | 第18期天元戦（台湾）勝部1回戦 | Zhang Zhehao | Li Wei | Lose | W+R | 6.5 | 2631 | -28 | 
+| 2019-01-20 | 第18期天元戦（台湾）予選3回戦 補戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 2659 | 83 | 
+| 2019-01-08 | 第18期天元戦（台湾）予選1回戦 | Zhang Zhehao | Dong Yutang | Win | B+R | 6.5 | 2576 | -35 | 
+| 2018-10-24 | 第1回IWMC台湾代表男子選抜戦予選1回戦 | Yang Bowei | Zhang Zhehao | Lose | B+R | 7.5 | 2611 | -11 | 
+| 2018-10-09 | 第14期国手戦（台湾）16強戦 | Zhang Zhehao | Chen Qirui | Lose | W+6.5 | 6.5 | 2622 | 1 | 
+| 2018-10-04 | 第14期国手戦（台湾）第2回戦補戦 | Liu Yaowen | Zhang Zhehao | Win | W+R | 6.5 | 2621 | 12 | 
+| 2018-09-30 | 第6期中環碁聖戦3回戦 | Xu Haohong | Zhang Zhehao | Lose | B+3.5 | 6.5 | 2609 | -6 | 
+| 2018-09-27 | 第11期棋王戦（台湾）予選敗部2回戦 | Zhang Zhehao | Lu Yiquan | Lose | W+R | 6.5 | 2615 | -52 | 
+| 2018-09-25 | 第14期国手戦（台湾）1回戦下半区 | Zhang Zhehao |  | Win | B+R | 6.5 | 2667 | 8 | 
+| 2018-09-20 | 第11期棋王戦（台湾）予選勝部2回戦 | Zhang Zhehao | Xu Yuqi | Lose | W+R | 6.5 | 2659 | -32 | 
+| 2018-09-17 | 第11期棋王戦（台湾）予選勝部1回戦 | Lin Shimin | Zhang Zhehao | Win | W+1.5 | 6.5 | 2691 | 12 | 
+| 2018-09-16 | 第6期中環碁聖戦2回戦 | Zhang Zhehao | Lin Shimin | Win | B+2.5 | 6.5 | 2679 | 4 | 
+| 2018-09-02 | 第6期中環碁聖戦1回戦上半区 | Zhang Zhehao |  | Win | B+R | 6.5 | 2675 | 212 | 
+| 2018-05-14 | 第8期友士杯十段戦予選 | Chen Xi | Zhang Zhehao | Lose | B+R | 6.5 | 2463 | -12 | 
+| 2018-05-07 | 第8期友士杯十段戦予選 | Zhang Zhehao | Cai Chengwei | Win | B+2.5 | 6.5 | 2475 | 0 | 
+| 2018-05-07 | 第8期友士杯十段戦予選 |  | Zhang Zhehao | Win | W+2.5 | 6.5 | 2475 | 13 | 
+| 2018-03-08 | 第10回海峰杯プロ囲碁戦32強戦 | Zhang Zhehao |  | Lose | W+2.5 | 6.5 | 2462 | 6 | 
+| 2018-03-01 | 第10回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 2456 | 196 | 
+| 2018-01-16 | 第十七回天元戦予選第三回戦 | Chen Feng | Zhang Zhehao | Lose | B+R | 6.5 | 2260 | -57 | 
+| 2017-09-26 | 第13期国手戦（台湾）16強戦 | Wang Yuanjun | Zhang Zhehao | Lose | B+2.5 | 6.5 | 2317 | -22 | 
+| 2017-09-24 | 第5期中環碁聖戦16強戦 | Zhang Zhehao | Jian Jingting | Lose | W+3.5 | 6.5 | 2339 | 6 | 
+| 2017-09-17 | 第5期中環碁聖戦第二回戦 | Zhang Zhehao | Lin Xiuping | Win | B+R | 6.5 | 2333 | 213 | 
+| 2017-09-14 | 第13期国手戦（台湾）第二回戦補戦 |  | Zhang Zhehao | Win | W+2.5 | 6.5 | 2120 | -128 | 
+| 2017-09-03 | 第5期中環碁聖戦首輪上半区 | Zhang Zhehao | Xiao Ailin | Win | B+R | 6.5 | 2248 | 57 | 
+| 2017-06-02 | 第7期友士杯十段戦敗者復活戦1回戦 | Zhang Zhehao | Lu Yiquan | Lose | W+3.5 | 6.5 | 2191 | -64 | 
+| 2017-05-31 | 第7期友士杯十段戦1回戦 | Zhang Zhehao | Jian Jingting | Lose | W+R | 6.5 | 2255 | -54 | 
+| 2017-03-16 | 第9回海峰杯プロ囲碁戦16強戦 | Zhang Zhehao | Xiao Zhenghao | Lose | W+R | 6.5 | 2309 | -21 | 
+| 2017-03-13 | 第9回海峰杯プロ囲碁戦32強戦 | Zhou Yinnan | Zhang Zhehao | Win | W+R | 6.5 | 2330 | 16 | 
+| 2017-03-09 | 第9回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 2314 | 36 | 
+| 2017-02-21 | 第十六期天元戦複戦敗部第二回戦 | Chen Qirui | Zhang Zhehao | Lose | B+R | 6.5 | 2278 | -10 | 
+| 2017-02-19 | 第十四期倡棋盃台湾代表選抜戦初戦第二局 |  | Zhang Zhehao | Lose | B+R | 7.5 | 2288 | -128 | 
+| 2017-02-13 | 第22期LG盃台湾代表選抜戦初戦第三局 | Chen Qirui | Zhang Zhehao | Lose | B+R | 6.5 | 2416 | 54 | 
+| 2017-02-07 | 第十六期天元戦複戦第一回戦 | Zhang Zhehao | Huang Xiangren | Lose | W+R | 6.5 | 2362 | -219 | 
+| 2017-01-10 | 第十六期天元戦初戦第二回戦 | Zhang Zhehao | Dang Xiyun | Win | B+R | 6.5 | 2581 | -94 | 
+| 2016-06-01 | 第6期友士杯十段戦予選 | Lin Shuyang | Zhang Zhehao | Lose | B+R | 6.5 | 2675 | -75 | 
+| 2016-05-30 | 第6期友士杯十段戦予選 | Gao Yun | Zhang Zhehao | Win | W+3.5 | 6.5 | 2750 | 18 | 
+| 2016-05-20 | 第6期友士杯十段戦予選 | Zhou Junxun | Zhang Zhehao | Lose | B+R | 6.5 | 2732 | -43 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Zhang Zhehao | Lin Shengxian | Win | B+R | 6.5 | 2775 | 0 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Cai Wenhe | Zhang Zhehao | Win | W+R | 6.5 | 2775 | 12 | 
+| 2016-04-11 | 第8回海峰杯プロ囲碁戦16強戦 | Zhang Zhehao | Xiao Zhenghao | Lose | W+1.5 | 6.5 | 2763 | 2763 | 
+| 2016-03-21 | 第8回海峰杯プロ囲碁戦32強戦 | Hei Jiajia | Zhang Zhehao | Win | W+R | 6.5 | missing | 0 | 
+| 2016-03-07 | 第8回海峰杯プロ囲碁戦64強戦 |  | Zhang Zhehao | Win | W+R | 6.5 | missing | 0 | 
+| 2015-03-12 | 第7回海峰杯プロ囲碁戦16強戦 | Lin Junyan | Zhang Zhehao | Lose | B+R | 6.5 | missing | 0 | 
+| 2015-03-09 | 第7回海峰杯プロ囲碁戦32強戦 | Zhang Zhehao |  | Win | B+R | 6.5 | missing | 0 | 
+| 2015-03-05 | 第7回海峰杯プロ囲碁戦64強戦 |  | Zhang Zhehao | Win | W+R | 6.5 | missing | -2665 | 
+| 2014-03-03 | 第6回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao |  | Lose | W+R | 6.5 | 2665 | -29 | 
+| 2014-01-17 | 2014年日台精鋭交流戦第5戦 | Hsu Chiayuan | Zhang Zhehao | Lose | B+0.5 | 6.5 | 2694 | -61 | 
+| 2014-01-15 | 2014年日台精鋭交流戦第2戦 | Zhang Zhehao | Cho Riyu | Lose | W+R | 6.5 | 2755 | -443 | 
+| 2013-04-11 | 第5回海峰杯プロ囲碁戦8強戦 | Wang Yuanjun | Zhang Zhehao | Lose | B+3.5 | 6.5 | 3198 | -65 | 
+| 2013-03-28 | 第5回海峰杯プロ囲碁戦16強戦 | Lin Tingyi | Zhang Zhehao | Win | W+R | 6.5 | 3263 | -12 | 
+| 2013-03-14 | 第5回海峰杯プロ囲碁戦32強戦 | Xia Daming | Zhang Zhehao | Win | W+R | 6.5 | 3275 | 13 | 
+| 2013-03-07 | 第5回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 3262 | -105 | 
+| 2012-11-22 | 第4回海峰杯プロ囲碁戦準決勝 | Chen Shiyuan | Zhang Zhehao | Lose | B+R | 6.5 | 3367 | 3367 | 
+| 2012-11-15 | 第4回海峰杯プロ囲碁戦8強戦 | Zhang Zhehao | Lin Junyan | Win | B+0.5 | 6.5 | missing | 0 | 
+| 2012-11-08 | 第4回海峰杯プロ囲碁戦16強戦 | Zhang Zhehao | Xiao Zhenghao | Win | B+0.5 | 6.5 | missing | 0 | 
+| 2012-10-18 | 第4回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao | Qin Shi | Win | B+R | 6.5 | missing | -2670 | 
+| 2011-09-29 | 第3回海峰杯プロ囲碁戦64強戦 | Ye Hongyuan | Zhang Zhehao | Lose | B+3.5 | 6.5 | 2670 | 147 | 
+| 2011-04-19 | 第10期天元戦（台湾）リーグ | Zhang Zhehao | Lin Shuyang | Lose | W+2.5 | 6.5 | 2523 | 39 | 
+| 2011-01-25 | 第10期天元戦（台湾）予選 | Hei Jiajia | Zhang Zhehao | Win | W+R | 6.5 | 2484 | 50 | 
+| 2011-01-16 | 第24回世界囲碁選手権富士通杯台湾予選 | Zhang Zhehao | Lin Lixiang | Lose | W+R | 6.5 | 2434 | -39 | 
+| 2011-01-11 | 第24回世界囲碁選手権富士通杯台湾予選 | Zhang Zhehao | Liu Yaowen | Win | B+R | 6.5 | 2473 | -32 | 
+| 2010-12-28 | 第24回世界囲碁選手権富士通杯台湾予選 | Wang Yuanjun | Zhang Zhehao | Win | W+R | 6.5 | 2505 | -41 | 
+| 2010-11-18 | 第3回BCカード杯世界選手権台湾予選 | Zhang Zhehao | Lin Lixiang | Lose | W+4.5 | 6.5 | 2546 | 183 | 
+| 2010-06-10 | 第3期棋王戦（台湾）リーグ | Lin Shuyang | Zhang Zhehao | Lose | B+R | 6.5 | 2363 | -50 | 
+| 2010-06-03 | 第3期棋王戦（台湾）リーグ | Zhang Zhehao | Wang Yuanjun | Lose | W+3.5 | 6.5 | 2413 | -46 | 
+| 2010-05-27 | 第3期棋王戦（台湾）リーグ | Zhang Zhehao | Xiao Zhenghao | Lose | W+R | 6.5 | 2459 | 36 | 
+| 2010-05-20 | 第3期棋王戦（台湾）リーグ | Lin Zhihan | Zhang Zhehao | Lose | B+13.5 | 6.5 | 2423 | 40 | 
+| 2010-05-13 | 第3期棋王戦（台湾）リーグ | Zhou Junxun | Zhang Zhehao | Lose | B+4.5 | 6.5 | 2383 | 61 | 
+| 2010-05-06 | 第3期棋王戦（台湾）リーグ | Zhang Zhehao | Xia Daming | Lose | W+5.5 | 6.5 | 2322 | -207 | 
+| 2010-04-29 | 第3期棋王戦（台湾）リーグ | Zhang Zhehao | Lin Lixiang | Lose | W+2.5 | 6.5 | 2529 | -284 | 
+| 2010-01-21 | 第3期棋王戦（台湾）予選 | Lin Xiuping | Zhang Zhehao | Win | W+R | 6.5 | 2813 | 2813 | 
+| 2010-01-07 | 第3期棋王戦（台湾）予選 |  | Zhang Zhehao | Win | W+R | 6.5 | missing | 0 | 
+| 2009-12-31 | 第3期棋王戦（台湾）予選 | Zhou Pingqiang | Zhang Zhehao | Win | W+R | 6.5 | missing | 0 | 
+| 2009-12-24 | 第3期棋王戦（台湾）予選 | Liu Yaowen | Zhang Zhehao | Win | W+R | 6.5 | missing | 0 | 
+| 2009-08-20 | 第1回海峰杯プロ囲碁戦64強戦 | Zhang Zhehao |  | Lose | W+6.5 | 6.5 | missing | 0 | 
+| 2008-12-28 | 第22回世界囲碁選手権富士通杯台湾予選 | Chen Feng | Zhang Zhehao | Lose | B+0.5 | 6.5 | missing | 0 | 
+| 2008-11-19 | 2008年国際新鋭囲碁対抗戦第3戦 | Zhang Zhehao | Murakawa Daisuke | Lose | W+3.5 | 6.5 | missing | 0 | 
+| 2008-11-18 | 2008年国際新鋭囲碁対抗戦第2戦 | Zhang Zhehao | Kim Jiseok | Lose | W+R | 6.5 | missing | 0 | 
+| 2008-11-17 | 2008年国際新鋭囲碁対抗戦第1戦 | Shi Yue | Zhang Zhehao | Lose | B+R | 6.5 | missing | -2258 | 
+| 2008-01-06 | 第8回CMC杯テレビ早碁戦2回戦 | Zhang Zhehao | Zhou Junxun | Lose | W+10.5 | 6.5 | 2258 | -10 | 
+| 2008-01-03 | 第21回世界囲碁選手権富士通杯台湾予選 | Zhang Zhehao | Huang Xiangren | Lose | W+7.5 | 6.5 | 2268 | -107 | 
+| 2007-09-23 | 第8回CMC杯テレビ早碁戦予選 | Zhang Zhehao | Dang Xiyun | Win | B+R | 6.5 | 2375 | -22 | 
+| 2007-08-28 | 第3期国手戦（台湾）リーグ | Zhang Zhehao | Lin Zhihan | Win | B+R | 6.5 | 2397 | 19 | 
+| 2007-08-23 | 第3期国手戦（台湾）リーグ | Zhang Zhehao | Xiao Zhenghao | Lose | W+R | 6.5 | 2378 | -486 | 
+| 2007-07-17 | 第3期国手戦（台湾）リーグ | Zhang Zhehao | Yu Keimin | Win | B+2.5 | 6.5 | 2864 | 116 | 
+| 2007-07-15 | 第3期国手戦（台湾）リーグ | Zhang Zhehao | Zhou Pingqiang | Lose | W+0.5 | 6.5 | 2748 | 47 | 
+| 2007-07-12 | 第3期国手戦（台湾）リーグ | Chen Yida | Zhang Zhehao | Win | W+5.5 | 6.5 | 2701 | -28 | 
+| 2007-07-05 | 第3期国手戦（台湾）リーグ | Zhou Junxun | Zhang Zhehao | Lose | B+R | 6.5 | 2729 | -53 | 
+| 2007-07-03 | 第3期国手戦（台湾）予選 |  | Zhang Zhehao | Win | W+R | 6.5 | 2782 | -8 | 
+| 2007-06-19 | 第6期天元戦（台湾）プレーオフ | Zhang Zhehao | Lin Shuyang | Lose | W+R | 6.5 | 2790 | 27 | 
+| 2007-06-05 | 第3期国手戦（台湾）予選 | Chen Yida | Zhang Zhehao | Lose | B+6.5 | 6.5 | 2763 | -77 | 
+| 2007-05-27 | 第6期天元戦（台湾）リーグ | Xiao Zhenghao | Zhang Zhehao | Lose | B+R | 6.5 | 2840 | -115 | 
+| 2007-05-15 | 第14期中環杯囲碁オープン戦2回戦 | Zhang Zhehao | Lin Shuyang | Lose | W+R | 6.5 | 2955 | -107 | 
+| 2007-04-14 | 第6期天元戦（台湾）リーグ | Lin Shuyang | Zhang Zhehao | Win | W+0.5 | 6.5 | 3062 | 50 | 
+| 2007-04-05 | 第14期中環杯囲碁オープン戦1回戦 | Zhang Zhehao |  | Win | B+R | 6.5 | 3012 | -39 | 
+| 2007-03-24 | 第6期天元戦（台湾）リーグ | Yu Keimin | Zhang Zhehao | Win | W+1.5 | 6.5 | 3051 | 108 | 
+| 2007-03-20 | 第6期天元戦（台湾）リーグ | Lin Zhihan | Zhang Zhehao | Lose | B+R | 6.5 | 2943 | 2943 | 
+| 2007-03-17 | 第6期天元戦（台湾）リーグ | Zhang Zhehao | Chen Yida | Win | B+7.5 | 6.5 | missing | 0 | 
+| 2007-03-13 | 第6期天元戦（台湾）予選 | Zhang Zhehao | Lin Shengxian | Win | B+R | 6.5 | missing | missing |
 
 
 

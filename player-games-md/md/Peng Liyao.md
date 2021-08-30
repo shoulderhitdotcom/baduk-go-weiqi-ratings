@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 第26回三星火災杯中国予選 | Peng Liyao | Lian Xiao | Win | B+R | 6.5 | 3438 | 17 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Guo Xinyi | Peng Liyao | Lose | B+R | 7.5 | 3421 | -68 | 
 | 2021-08-18 | 第26回三星火災杯中国予選 | Li Xuanhao | Peng Liyao | Win | W+R | 6.5 | 3489 | 131 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Tan Xiao | Peng Liyao | Win | W+R | 6.5 | 3358 | 20 | 

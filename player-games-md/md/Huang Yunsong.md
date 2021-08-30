@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 第26回三星火災杯中国予選 | Huang Yunsong | Wu Guangya | Win | B+R | 6.5 | 3483 | 14 | 
 | 2021-08-27 | 第26回三星火災杯中国予選 | Fan Yin | Huang Yunsong | Lose | B+R | 6.5 | 3469 | 3469 | 
 | 2021-08-25 | 第26回三星火災杯中国予選 | Liao Yuanhe | Huang Yunsong | Lose | B+R | 6.5 | missing | -3470 | 
 | 2021-08-24 | 第12期中国竜星戦予選 | Chen Zhengxun | Huang Yunsong | Win | W+1¼ | 7.5 | 3470 | -2 | 

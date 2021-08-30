@@ -7,12 +7,13 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-08-23 | 第7回健喬杯女子囲碁最強戦敗部2回戦 | Yang Zixuan | Zhang Kaixin | Lose | B+3.5 | 6.5 | 2516 | 2516 | 
+| 2021-08-30 | 第14期棋王戦（台湾）予選 | Zhang Kaixin | Chen Feng | Lose | W+R | 6.5 | 2474 | -42 | 
+| 2021-08-23 | 第7回健喬杯女子囲碁最強戦敗部2回戦 |  | Zhang Kaixin | Lose | B+3.5 | 6.5 | 2516 | 2516 | 
 | 2021-08-20 | 第7回健喬杯女子囲碁最強戦勝部2回戦  | Zhang Kaixin |  | Lose | W+R | 6.5 | missing | -2486 | 
 | 2021-08-16 | 第7回健喬杯女子囲碁最強戦予選 | Zhang Zhengping | Zhang Kaixin | Win | W+R | 6.5 | 2486 | 6 | 
-| 2021-05-20 | 第4回呉清源杯台湾予選 | Zhang Kaixin | Yang Zixuan | Lose | W+R | 7.5 | 2480 | -12 | 
+| 2021-05-20 | 第4回呉清源杯台湾予選 | Zhang Kaixin |  | Lose | W+R | 7.5 | 2480 | -12 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 |  | Zhang Kaixin | Lose | B+R | 6.5 | 2492 | -13 | 
-| 2021-05-12 | 第4回呉清源杯台湾予選 | Lin Yuting | Zhang Kaixin | Win | W+R | 6.5 | 2505 | 4 | 
+| 2021-05-12 | 第4回呉清源杯台湾予選 |  | Zhang Kaixin | Win | W+R | 6.5 | 2505 | 4 | 
 | 2021-04-19 | 第11期友士杯十段戦予選 | Yang Bowei | Zhang Kaixin | Lose | B+R | 6.5 | 2501 | -21 | 
 | 2021-04-12 | 第11期友士杯十段戦予選 | Zhang Kaixin | Lu Yiquan | Lose | W+R | 6.5 | 2522 | -17 | 
 | 2021-04-03 | 第17期国手戦（台湾） | Zhang Kaixin |  | Lose | W+2.5 | 6.5 | 2539 | -19 | 
@@ -24,8 +25,8 @@
 | 2021-02-25 | 第2期名人冠軍戦予選 | Zhang Kaixin |  | Lose | W+R | 6.5 | 2476 | -22 | 
 | 2021-02-22 | 第2期名人冠軍戦予選 | Yang Bowei | Zhang Kaixin | Lose | B+R | 6.5 | 2498 | -126 | 
 | 2021-01-12 | 第20期天元戦（台湾）予選 | Yang Bowei | Zhang Kaixin | Lose | B+R | 6.5 | 2624 | 16 | 
-| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Zhang Kaixin | Yang Zixuan | Lose | W+R | 6.5 | 2608 | -15 | 
-| 2021-01-08 | 第20期天元戦（台湾）予選 | Zhang Kaixin | Lin Yuting | Win | B+R | 6.5 | 2623 | -3 | 
+| 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Zhang Kaixin |  | Lose | W+R | 6.5 | 2608 | -15 | 
+| 2021-01-08 | 第20期天元戦（台湾）予選 | Zhang Kaixin |  | Win | B+R | 6.5 | 2623 | -3 | 
 | 2021-01-05 | 第20期天元戦（台湾）予選 |  | Zhang Kaixin | Win | W+R | 6.5 | 2626 | 70 | 
 | 2020-12-24 | 2020年台湾新鋭隊vs韓国国家隊交流戦第8戦 | Kim Dayoung | Zhang Kaixin | Lose | B+R | 6.5 | 2556 | 0 | 
 | 2020-12-24 | 2020年台湾新鋭隊vs韓国国家隊交流戦第7戦 |  | Zhang Kaixin | Lose | B+8.5 | 6.5 | 2556 | -21 | 
@@ -40,7 +41,7 @@
 | 2020-09-14 | 第13期棋王戦（台湾）予選 | Zhang Kaixin |  | Win | B+R | 6.5 | 2524 | 36 | 
 | 2020-09-06 | 第8期中環碁聖戦1回戦 | Xiao Ailin | Zhang Kaixin | Win | W+R | 6.5 | 2488 | -1 | 
 | 2020-09-03 | 第13期棋王戦（台湾）予選 | Lin Yuxiang | Zhang Kaixin | Lose | B+R | 6.5 | 2489 | -73 | 
-| 2020-08-12 | 第6回健喬杯女子囲碁最強戦敗部1回戦 | Zhang Kaixin | Bai Xinhui | Lose | W+R | 6.5 | 2562 | 8 | 
+| 2020-08-12 | 第6回健喬杯女子囲碁最強戦敗部1回戦 | Zhang Kaixin |  | Lose | W+R | 6.5 | 2562 | 8 | 
 | 2020-08-10 | 第6回健喬杯女子囲碁最強戦勝部1回戦 | Zhang Kaixin |  | Lose | W+9.5 | 6.5 | 2554 | 28 | 
 | 2020-08-06 | 第6回健喬杯女子囲碁最強戦予選 | Zhang Kaixin |  | Win | B+6.5 | 6.5 | 2526 | 49 | 
 | 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Zhang Kaixin | Lin Junyan | Lose | W+R | 6.5 | 2477 | 1 | 
@@ -51,7 +52,7 @@
 | 2020-02-24 | 第12回海峰杯プロ囲碁戦32強戦 | Zhang Kaixin | Jian Jingting | Lose | W+R | 6.5 | 2374 | 18 | 
 | 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 |  | Zhang Kaixin | Win | W+R | 6.5 | 2356 | -214 | 
 | 2020-01-13 | 第19期天元戦（台湾）予選 | Zhang Kaixin | Ye Hongyuan | Lose | W+R | 6.5 | 2570 | -51 | 
-| 2019-12-27 | 第9回天台山体彩杯世界女子囲碁団体戦台湾代表選抜戦 | Yang Zixuan | Zhang Kaixin | Lose | B+R | 7.5 | 2621 | 238 | 
+| 2019-12-27 | 第9回天台山体彩杯世界女子囲碁団体戦台湾代表選抜戦 |  | Zhang Kaixin | Lose | B+R | 7.5 | 2621 | 238 | 
 | 2019-11-19 | 2019年関西棋院VS台湾棋院交流戦第1戦 |  | Zhang Kaixin | Win | W+5.5 | 6.5 | 2383 | 75 | 
 | 2019-10-01 | 第15期国手戦（台湾）3回戦 | Lu Yiquan | Zhang Kaixin | Lose | B+R | 6.5 | 2308 | 34 | 
 | 2019-09-24 | 第15期国手戦（台湾）2回戦 | Ding Shaojie | Zhang Kaixin | Win | W+9.5 | 6.5 | 2274 | 79 | 
@@ -65,17 +66,17 @@
 | 2019-04-08 | 第9期友士杯十段戦予選勝部1回戦 | Liu Jianchang | Zhang Kaixin | Win | W+R | 6.5 | 1870 | 8 | 
 | 2019-03-07 | 第11回海峰杯プロ囲碁戦32強戦 | Zhang Kaixin | Lin Junyan | Lose | W+R | 6.5 | 1862 | -8 | 
 | 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 | Chen Yida | Zhang Kaixin | Win | W+R | 6.5 | 1870 | -62 | 
-| 2019-01-15 | 第18期天元戦（台湾）予選2回戦 | Yang Zixuan | Zhang Kaixin | Lose | B+R | 6.5 | 1932 | -156 | 
-| 2018-10-24 | 第1回IWMC台湾代表女子選抜戦2回戦 | Zhang Kaixin | Bai Xinhui | Lose | W+R | 7.5 | 2088 | 0 | 
+| 2019-01-15 | 第18期天元戦（台湾）予選2回戦 |  | Zhang Kaixin | Lose | B+R | 6.5 | 1932 | -156 | 
+| 2018-10-24 | 第1回IWMC台湾代表女子選抜戦2回戦 | Zhang Kaixin |  | Lose | W+R | 7.5 | 2088 | 0 | 
 | 2018-10-24 | 第1回IWMC台湾代表女子選抜戦1回戦 | Zhang Kaixin | Su Shengfang | Win | B+R | 7.5 | 2088 | 74 | 
-| 2018-09-30 | 第9回穹窿山兵聖杯台湾代表決定戦 | Zhang Kaixin | Yang Zixuan | Lose | W+1¼ | 7.5 | 2014 | -18 | 
+| 2018-09-30 | 第9回穹窿山兵聖杯台湾代表決定戦 | Zhang Kaixin |  | Lose | W+1¼ | 7.5 | 2014 | -18 | 
 | 2018-09-27 | 第11期棋王戦（台湾）予選敗部2回戦 | Zhang Kaixin | Cai Chengwei | Lose | W+R | 6.5 | 2032 | -110 | 
 | 2018-09-18 | 第14期国手戦（台湾）1回戦上半区 | Zhang Kaixin | Zhou Pingqiang | Lose | W+R | 6.5 | 2142 | -56 | 
 | 2018-09-17 | 第11期棋王戦（台湾）予選勝部1回戦 | Zhou Keping | Zhang Kaixin | Lose | B+R | 6.5 | 2198 | -78 | 
 | 2018-09-02 | 第6期中環碁聖戦1回戦上半区 | Zhang Kaixin | Zhou Yinnan | Lose | W+R | 6.5 | 2276 | 31 | 
 | 2018-08-11 | 第4回女子囲碁最強戦敗部3回戦 | Wang Jingyi | Zhang Kaixin | Lose | B+R | 6.5 | 2245 | -17 | 
 | 2018-08-10 | 第4回女子囲碁最強戦敗部2回戦 |  | Zhang Kaixin | Win | W+R | 6.5 | 2262 | 25 | 
-| 2018-08-09 | 第4回女子囲碁最強戦敗部1回戦 | Zhang Kaixin | Liu Yifang | Win | B+R | 6.5 | 2237 | 0 | 
+| 2018-08-09 | 第4回女子囲碁最強戦敗部1回戦 | Zhang Kaixin |  | Win | B+R | 6.5 | 2237 | 0 | 
 | 2018-08-09 | 第4回女子囲碁最強戦勝部1回戦 | Zhang Kaixin | Hei Jiajia | Lose | W+R | 6.5 | 2237 | -23 | 
 | 2018-05-12 | 第7回天台山森然楊帆杯世界女子囲碁団体選手権第3戦 | Zhang Kaixin | Kim Cheayoung | Lose | W+R | 7.5 | 2260 | 32 | 
 | 2018-05-11 | 第7回天台山森然楊帆杯世界女子囲碁団体選手権第2戦 | Li He | Zhang Kaixin | Lose | B+R | 7.5 | 2228 | 12 | 
@@ -83,7 +84,7 @@
 | 2018-05-07 | 第8期友士杯十段戦予選 | Yang Mengyun | Zhang Kaixin | Lose | B+R | 6.5 | 2229 | -54 | 
 | 2018-03-08 | 第10回海峰杯プロ囲碁戦32強戦 | Zhang Kaixin | Xiao Zhenghao | Lose | W+R | 6.5 | 2283 | -6 | 
 | 2018-03-01 | 第10回海峰杯プロ囲碁戦64強戦 | Yu Lijun | Zhang Kaixin | Win | W+R | 6.5 | 2289 | 164 | 
-| 2018-02-22 | 第一回呉清源杯世界女流囲碁大会台湾代表選抜戦 | Zhang Kaixin | Yang Zixuan | Lose | W+3¼ | 7.5 | 2125 | -17 | 
+| 2018-02-22 | 第一回呉清源杯世界女流囲碁大会台湾代表選抜戦 | Zhang Kaixin |  | Lose | W+3¼ | 7.5 | 2125 | -17 | 
 | 2018-01-16 | 第十七回天元戦予選第三回戦 | Zhang Kaixin | Lin Ziyuan | Lose | W+ R | 6.5 | 2142 | -202 | 
 | 2018-01-09 | 第十七回天元戦予選第二回戦 | Chen Yida | Zhang Kaixin | Win | W+8.5 | 6.5 | 2344 | 113 | 
 | 2018-01-02 | 第十七回天元戦予選第一回戦 | Chen  Qingyu | Zhang Kaixin | Win | W+R | 6.5 | 2231 | -52 | 

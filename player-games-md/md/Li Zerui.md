@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 第12期中国竜星戦予選 | Li Zerui | Jin Yucheng | Lose | W+R | 7.5 | 2982 | -14 | 
 | 2021-08-27 | 第12期中国竜星戦予選 |  | Li Zerui | Win | W+R | 7.5 | 2996 | 37 | 
 | 2021-05-24 | 第25期馬橋杯中国囲碁新人王戦1回戦 | Li Zerui |  | Lose | W+R | 7.5 | 2959 | -272 | 
 | 2021-05-20 | 2021博思軟件杯中国囲碁新秀争覇戦3回戦 | Li Zerui | Zheng Zaixiang | Lose | W+R | 7.5 | 3231 | -190 | 

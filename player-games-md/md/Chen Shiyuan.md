@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 第14期棋王戦（台湾）予選 | Chen Shiyuan |  | Win | B+R | 6.5 | 2943 | 9 | 
 | 2021-08-29 | 第2期聯電杯プロ囲碁戦リーグ | Lu Yiquan | Chen Shiyuan | Win | W+R | 6.5 | 2934 | 21 | 
 | 2021-08-26 | 第2期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Chen Shiyuan | Lose | B+R | 6.5 | 2913 | -58 | 
 | 2021-08-24 | 第2期聯電杯プロ囲碁戦リーグ | Chen Qirui | Chen Shiyuan | Lose | B+R | 6.5 | 2971 | 2971 | 

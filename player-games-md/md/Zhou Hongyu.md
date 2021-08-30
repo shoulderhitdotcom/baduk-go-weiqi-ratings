@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 第12期中国竜星戦予選 |  | Zhou Hongyu | Win | W+R | 7.5 | 3162 | 1 | 
 | 2021-08-27 | 第12期中国竜星戦予選 | Zhou Hongyu | Yin Qu | Win | B+3¾ | 7.5 | 3161 | -12 | 
 | 2021-08-24 | 第26回三星火災杯中国予選 |  | Zhou Hongyu | Lose | B+4.5 | 6.5 | 3173 | -18 | 
 | 2021-08-19 | 第26回三星火災杯中国予選 | Yu Zhiying | Zhou Hongyu | Lose | B+1.5 | 6.5 | 3191 | 98 | 

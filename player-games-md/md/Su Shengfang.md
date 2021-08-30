@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 第14期棋王戦（台湾）予選 | Zhao Peizhe | Su Shengfang | Win | W+R | 6.5 | 2287 | -26 | 
 | 2021-08-27 | 第7回健喬杯女子囲碁最強戦敗部決勝  | Su Shengfang | Yu Lijun | Win | B+R | 6.5 | 2313 | 81 | 
 | 2021-08-23 | 第7回健喬杯女子囲碁最強戦勝部決勝  |  | Su Shengfang | Lose | B+R | 6.5 | 2232 | 2232 | 
 | 2021-08-20 | 第7回健喬杯女子囲碁最強戦勝部2回戦 |  | Su Shengfang | Win | W+R | 6.5 | missing | -2022 | 

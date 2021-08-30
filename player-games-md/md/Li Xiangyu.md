@@ -7,8 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 第12期中国竜星戦予選 | Guo Xinyi | Li Xiangyu | Lose | B+R | 7.5 | 3399 | 3399 | 
+| 2021-08-25 | 第12期中国竜星戦予選 |  | Li Xiangyu | Win | W+¼ | 7.5 | missing | -3318 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Jin Yucheng | Lose | W+R | 7.5 | 3318 | -2 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Chen Xian | Lose | W+R | 7.5 | 3320 | 0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Chen Xian | Lose | W+R | 7.5 | 3320 | -10 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Lian Xiao | Li Xiangyu | Lose | B+R | 7.5 | 3330 | -16 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Dang Yifei | Win | B+R | 7.5 | 3346 | 11 | 

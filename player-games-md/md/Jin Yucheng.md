@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 第12期中国竜星戦予選 | Li Zerui | Jin Yucheng | Win | W+R | 7.5 | 3459 | 54 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Jin Yucheng | Shi Yue | Win | B+1¾ | 7.5 | 3405 | 81 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Jin Yucheng | Win | W+R | 7.5 | 3324 | 75 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Jin Yucheng | Xu Jiayang | Lose | W+R | 7.5 | 3249 | -31 | 

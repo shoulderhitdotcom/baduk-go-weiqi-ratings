@@ -5,358 +5,360 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第8回大舟杯プロシニア最強者戦特別対局 | missing | Park Shiun | B+R | 2021-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sfFQsEZ7FL3s%2BX4up75C7g%3D%3D) | 
-| 第8回大舟杯プロシニア最強者戦1回戦 | Cho Hyeyeon | Park Shiun | B+0.5 | 2021-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jq5wmjtMdFHaY7Z7wFNqhQ%3D%3D) | 
-| 第8回大舟杯プロシニア最強者戦予選 | Choi Kyubyeong | Park Shiun | W+1.5 | 2021-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hOASMalb1U8hBxLapvfAkQ%3D%3D) | 
-| 第14回GGオークション杯女流対シニア連勝対抗戦第16局 | An Joyeong | Park Shiun | B+R | 2020-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=otK%2BjT63kQV94LjAHVOiXA%3D%3D) | 
-| 第3回呉清源杯韓国予選 | Park Shiun | missing | W+R | 2020-09-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UVLPbNYn2%2BPMP8Q1UZIdDQ%3D%3D) | 
-| 第6回韓国女子囲碁リーグ準プレーオフ第2戦第2局 | Oh Yujin | Park Shiun | B+3.5 | 2020-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KGJmjuuj7nkqy1SH5D3gJA%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第14節第3試合第1局 | Park Shiun | Kim Eunseon | B+5.5 | 2020-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FJlnGm4iLK18M64vVe0FmA%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第13節第3試合第3局 | Kim Cheayoung | Park Shiun | B+4.5 | 2020-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h9qMwUFSblH%2B0gJ7qOU7MA%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第12節第1試合第3局 | Park Shiun | Choi Jeong | W+R | 2020-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KA%2FN3WAv2Lej%2BkIk9rmy%2Bw%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第11節第4試合第3局 | Oh Yujin | Park Shiun | B+R | 2020-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4CJBsAgs5Hygj8iQgBBhjA%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第10節第4試合第3局 | missing | Park Shiun | B+R | 2020-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8w7F3n2H8MJwvC7mP6DQjQ%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第9節第1試合第1局 | Park Shiun | Cho Hyeyeon | B+4.5 | 2020-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hgqUFkuvgMXlBib9jcXyCg%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第8節第1試合第3局 | Kim Soojin | Park Shiun | W+R | 2020-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VqhFgoeWUtKxbK9lNZqN2w%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第7節第2試合第2局 | Park Shiun | Park Taehee | B+R | 2020-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kstE%2BOi00czALWCuh3Dp%2Fg%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第5節第4試合第1局 | missing | Park Shiun | B+3.5 | 2020-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2f%2FvJUSKLDm2OVaZ15R0vg%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第4節第1試合第1局 | Oh Yujin | Park Shiun | B+R | 2020-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j%2F7dZwuMu7dDj0BREcru9A%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第3節第1試合第2局 | Park Shiun | Lee Youngjoo | W+1.5 | 2020-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rT%2Fmk0YKxiz3HzXADmufEA%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第2節第4試合第3局 | missing | Park Shiun | B+2.5 | 2020-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2%2Ba2tYuPAWmMqTO0eCzhSw%3D%3D) | 
-| 第6回韓国女子囲碁リーグ第1節第4試合第2局 | Park Jiyeon | Park Shiun | B+2.5 | 2020-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FHwWcfAp%2B0FJH%2BjYWmOOrQ%3D%3D) | 
-| 第25回LG杯韓国予選 | Park Shiun | missing | W+R | 2020-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LTCIPF6lto%2F%2BYbojAPh9vg%3D%3D) | 
-| 第7回大舟杯プロシニア最強者戦準決勝 | missing | Park Shiun | B+R | 2020-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rMO6gJwhf%2BCjx16HZ8Nphg%3D%3D) | 
-| 第7回大舟杯プロシニア最強者戦8強戦 | Park Shiun | Kim Hyeoimin | B+R | 2020-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lH3v3vJ9nb3eV7c5e1j5oQ%3D%3D) | 
-| 第7回大舟杯プロシニア最強者戦16強戦 | Kim Soojang | Park Shiun | W+1.5 | 2020-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IbJhk3ss4b7p%2FIvLwrFJ0Q%3D%3D) | 
-| 第13回GGオークション杯女流対シニア連勝対抗戦第15局 | Park Shiun | Han Chongjin | W+5.5 | 2020-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c%2BBcQ%2FQbwLjAqBWSSJJiNA%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第18節 | missing | Park Shiun | W+R | 2018-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QigmiZqju3%2Bd4vNGkNqw5Q%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第15節 | Park Shiun | Park Taehee | W+R | 2018-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y0n9mUnWqmOyZT8vpzHzuw%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第14節 | Kim Eunseon | Park Shiun | W+R | 2018-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HGf11iNIR1uc2tfRqQ4lCw%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第13節 | Park Shiun | Kim Dayoung | W+R | 2018-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B5rvY7ADDNhSFD9EOei82g%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第12節 | Kim Cheayoung | Park Shiun | B+R | 2018-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iuJp%2FYWdSJsPwdq0cTAioQ%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第11節 | missing | Park Shiun | B+2.5 | 2018-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B4WG34Re4Bi8jVxBDPYc3A%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第10節 | Park Shiun | Kim Sinyoung | B+11.5 | 2018-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kwwbygvbvDiZccV2y9NZIA%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第9節 | Park Shiun | Park Jiyeon | W+R | 2018-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KBmDlSeOl%2BJtM1yYPYy9kA%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第7節 | Park Shiun | missing | W+6.5 | 2018-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZgSWtK3i%2F4c851rxCItVxA%3D%3D) | 
-| 第5回大舟杯プロシニア最強者戦2回戦 | Seo Nungwuk | Park Shiun | B+R | 2018-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xIkK6ZLWsSsKMMxT1bpTXA%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第6節 | Park Taehee | Park Shiun | B+0.5 | 2018-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yzxfUX7p5GNh4c2bGIG%2BKg%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第5節 | Park Shiun | Kim Hyeoimin | W+R | 2018-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=beNgBHWsygKGSFc9%2FkIrpQ%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第4節 | Kim Dayoung | Park Shiun | B+R | 2018-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4KthqLgJnIjqpxsOCoI0%2BQ%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第3節 | Park Shiun | missing | B+R | 2018-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xxhsowy8x8Lq%2FatiDFzyyw%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第2節 | Park Shiun | missing | B+R | 2018-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NZM1p7Alm216Q%2FjlZDLKhg%3D%3D) | 
-| 第4回韓国女子囲碁リーグ第1節 | Choi Jeong | Park Shiun | B+R | 2018-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CPW1IR2wDgNbuxbtiQ3zPA%3D%3D) | 
-| 第5回大舟杯プロシニア最強者戦1回戦 | Jeong Daesang | Park Shiun | W+R | 2018-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qfLraej3cA6H3Kw9DcYmEA%3D%3D) | 
-| 第19回マキシムコーヒー杯入神最強戦1回戦 | Park Shiun | Park Cheongsang | W+R | 2018-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9zpFj1q0usakf1h08ib1yg%3D%3D) | 
-| 第22期女流国手戦8強戦 | Park Shiun | Choi Jeong | W+R | 2017-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BMC%2BuUeSgzOeX%2BEfbj1CdA%3D%3D) | 
-| 第22期女流国手戦1回戦 | Kim Dayoung | Park Shiun | W+R | 2017-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e4MUl%2B9DbBu1z2lKXTEBPw%3D%3D) | 
-| 第1期韓国製紙女子棋聖戦16強戦 | Lee Tahye | Park Shiun | W+R | 2017-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tCZeEJ5xcWkIfpQZto%2FlRw%3D%3D) | 
-| 第2回韓国花より囲碁女王戦リーグ3回戦 | Kim Hyeoimin | Park Shiun | B+5.5 | 2017-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WrNKJxqqf%2Bqj7PlcSdF5tw%3D%3D) | 
-| 第2回韓国花より囲碁女王戦リーグ2回戦 | Kim Dayoung | Park Shiun | B+R | 2017-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B%2Fw%2FY8ZZavBfFtP88VYUDQ%3D%3D) | 
-| 第2回韓国花より囲碁女王戦リーグ1回戦 | Kim Cheayoung | Park Shiun | W+R | 2017-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cfedI5mpJMgMMp%2Byjkuhcw%3D%3D) | 
-| 8回蘇州穹窿山兵聖杯韓国選抜1 | Oh Jeonga | Park Shiun | B+R | 2017-09-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lISKB6LStuy3FJS4e2j92w%3D%3D) | 
-| 爛柯杯2017中国女団3回戦 | Ye Gui | Park Shiun | W+R | 2017-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ohvOsOtLNHDJ1bmtWZuD1g%3D%3D) | 
-| 第6回天台山農商銀行杯世界女子囲碁団体チャンピオンシップ第3戦 | Li He | Park Shiun | B+R | 2017-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PDSezM7sbp%2BGg1RhNqP2lQ%3D%3D) | 
-| 第6回天台山農商銀行杯世界女子囲碁団体チャンピオンシップ第2戦 | Park Shiun | Nyu Eiko | B+R | 2017-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dIcTaKH8wO4yo0E4E6d8YA%3D%3D) | 
-| 第6回天台山農商銀行杯世界女子囲碁団体チャンピオンシップ第1戦 | Zhang Zhengping | Park Shiun | W+R | 2017-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=biUMamCAZP8u98BOJyUgug%3D%3D) | 
-| 3期韓国女子連戦14回戦京畿SG-西帰浦 | Park Shiun | Yu Lijun | W+R | 2017-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bwKQoNa2EJlFTN0%2FZgQhRA%3D%3D) | 
-| 3期韓国女子連戦13回戦麟蹄-京畿SG | Park Shiun | Park Taehee | W+0.5 | 2017-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wDOJlDfBigoMmHGbZjjw2Q%3D%3D) | 
-| 3期韓国女子連戦12回戦首爾-京畿SG | Park Shiun | Choi Jeong | W+6.5 | 2017-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MczMj9t7PZ4vzvt3n%2Bq%2FMg%3D%3D) | 
-| 3期韓国女子連戦11回戦京畿湖畔-京畿SG | Cao Youyin | Park Shiun | B+6.5 | 2017-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EAmsF48GoB%2B1QKHX4a88Iw%3D%3D) | 
-| 3期韓国女子連戦10回戦浦項-京畿SG | Park Shiun | Kang Dajeong | B+R | 2017-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ECBcBBeZbNLHJbgsmYqsdQ%3D%3D) | 
-| 3期韓国女子連戦9回戦京畿SG-麗水 | Lee Sula | Park Shiun | W+R | 2017-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FNZtaXrSbk5LCbObQ2ZjYw%3D%3D) | 
-| 第6回天台山農商銀行杯韓国選抜戦 | Cho Hyeyeon | Park Shiun | W+R | 2017-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MsGSY%2FX%2FWRK8wPTgrJ6JqA%3D%3D) | 
-| 3期韓国女子連戦8回戦扶安-京畿SG | Park Shiun | Kim Hyeoimin | B+R | 2017-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1mmT%2FOkIsbTJ3jeo1PX4Ww%3D%3D) | 
-| 3期韓国女子連戦7回戦京畿SG-西帰浦 | Park Shiun | Oh Jeonga | B+R | 2017-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UFYjMZw50J%2Fm6FzLRya4YQ%3D%3D) | 
-| 3期韓国女子連戦6回戦麟蹄-京畿SG | Lee Youngjoo | Park Shiun | W+R | 2017-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ja%2B%2BJ7N6Yis%2Fzh1rTnPqow%3D%3D) | 
-| 第3回韓国女子囲碁リーグ第5節 | Park Shiun | Choi Jeong | W+R | 2017-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mn82jJBtJ3J%2Bt6xkS26SFA%3D%3D) | 
-| 3期韓国女子連戦3回戦浦項-京畿SG | Park Shiun | Kim Cheayoung | B+R | 2017-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UZsnbImNfgoMUDN9GDI1rg%3D%3D) | 
-| 3期韓国女子連戦2回戦京畿SG-麗水 | Park Shiun | Kim Dayoung | W+6.5 | 2017-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sHa82WVLs0%2FQsmeR8ee84w%3D%3D) | 
-| 3期韓国女子連戦1回戦扶安-京畿SG | Park Shiun | Kim Hyeoimin | W+R | 2017-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Sn3t9juQFELIjAyG4oylA%3D%3D) | 
-| 第18回マキシムコーヒー杯入神最強戦2回戦 | Hong Seongji | Park Shiun | B+1.5 | 2017-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JhiLLhtiZEnHcAxJHw4aNQ%3D%3D) | 
-| 第18回マキシムコーヒー杯入神最強戦1回戦 | Park Shiun | Seo Bongsoo | B+R | 2017-01-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I%2BXOYct9T7%2BFjCNeLw5%2F3Q%3D%3D) | 
-| 第7期世界穹窿山兵聖杯16強戦 | Yu Zhiying | Park Shiun | B+1.5 | 2016-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YFdVUWMo2w5nX1lLsh2S9Q%3D%3D) | 
-| 第7期穹窿山兵聖杯韓国選抜決勝 | Kim Hyeoimin | Park Shiun | W+R | 2016-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bm9ADxFBv%2BfKeJv%2FNB2k4g%3D%3D) | 
-| 第7期穹窿山兵聖杯韓国選抜 | Park Jiyeon | Park Shiun | W+R | 2016-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OenmgQpjoAulXSPUbFeJrw%3D%3D) | 
-| 第21期女流国手戦1回戦 | Lee Sula | Park Shiun | B+R | 2016-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5fyaZb0KfIUFbTvmq5mFfw%3D%3D) | 
-| 第10回GGオークション杯女流対シニア連勝対抗戦第7戦 | Park Shiun | Seo Bongsoo | W+10.5 | 2016-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JDkaioizoV4eyMMal7rqYw%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第14節 | Kim Yoonyoung | Park Shiun | B+2.5 | 2016-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SqvPIzscilMty4k8Boe5vw%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第13節 | Fujisawa Rina | Park Shiun | W+R | 2016-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g97Ol45E4c7jE0t3jE94dQ%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第12節 | Yu Zhiying | Park Shiun | B+R | 2016-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G10CrRCdnjxfwi2OvLDP9w%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第11節 | Park Shiun | Park Sohyun | B+0.5 | 2016-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ps9Bv1qzDg1ByUHJ2%2BDt7A%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第10節 | Kim Eunseon | Park Shiun | B+R | 2016-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TbiKcafcVQROXXgIbsYSPw%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第9節 | Park Shiun | Li He | B+R | 2016-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GbP6cwqLyP1btr6MPao9Og%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第8節 | Lee Sula | Park Shiun | B+R | 2016-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rvnR8sHA5NzLE5mBoswkSA%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第7節 | Park Jiyeon | Park Shiun | B+3.5 | 2016-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4trKqI%2BiVMnGnHRJA%2Fewmg%3D%3D) | 
-| 第5回天台山農商銀行杯韓国選抜戦 | Park Shiun | Oh Jeonga | W+R | 2016-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ndN%2B9T%2B8fOzMjOfOJqIvOg%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第6節 | Park Shiun | Park Taehee | B+R | 2016-03-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g0CiQ6bhvGw4ZSVYkqJ8iA%3D%3D) | 
-| 第5回天台山農商銀行杯韓国選抜戦 | Park Shiun | Park Jiyeon | B+R | 2016-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YEHKFT2ep%2BdvqhXmyHu1QA%3D%3D) | 
-| 第6回黄竜士双登杯韓国選抜戦 | Park Jiyeon | Park Shiun | B+R | 2016-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0e1D26iGDtcX7fU%2FW%2BBUog%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第5節 | Park Shiun | Kim Nahyun | B+R | 2016-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LfzrqDVXlgGgn%2BbgghbIpw%3D%3D) | 
-| 第6回黄竜士双登杯韓国選抜戦 | Park Taehee | Park Shiun | W+R | 2016-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ppWgW07J7EpIUv%2F4kZVCZw%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第3節 | Park Shiun | Cho Hyeyeon | W+2.5 | 2016-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GN6S9kGkohPdCXQNpkeqFw%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第2節 | Park Shiun | missing | W+0.5 | 2016-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gw%2BRw1iKahWNyQx4jZDv%2FQ%3D%3D) | 
-| 第2回韓国女子囲碁リーグ第1節 | Park Shiun | Lee Sula | B+12.5 | 2016-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d9A3rm0X2jh4BUJvMKYjLQ%3D%3D) | 
-| 第17回マキシムコーヒー杯入神最強戦1回戦 | Park Shiun | Cho Hunhyun | W+5.5 | 2016-01-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eoz9DipuU7M1%2BwISTq%2FE3w%3D%3D) | 
-| 第17期女流名人戦（韓国）準決勝 | Park Shiun | Oh Yujin | W+R | 2015-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4ep2mqaHQijM8RU%2FtkTWNA%3D%3D) | 
-| 第6回穹窿山兵聖杯世界女子囲碁選手権決勝 | Park Shiun | Yu Zhiying | W+2.5 | 2015-10-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O321ORN4%2BWf%2FiOg8zd7Mvw%3D%3D) | 
-| 第6回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Li He | Park Shiun | W+0.5 | 2015-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZNpJpx6id9QMMThTm2nsRg%3D%3D) | 
-| 第6回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Park Shiun | Wang Chenxing | B+R | 2015-10-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yuu8BYb7y8n6I%2Fz1kSfZqA%3D%3D) | 
-| 第6回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Park Shiun | Rui Naiwei | B+1.5 | 2015-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j4IrwXbbg1d1eTMzTpgcug%3D%3D) | 
-| 第17期女流名人戦（韓国）2回戦 | Park Shiun | Lee Sula | B+5.5 | 2015-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kynSX7fZzuNampDQQlmhRw%3D%3D) | 
-| 第17期女流名人戦（韓国）1回戦 | Kim Cheayoung | Park Shiun | W+R | 2015-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M5078dKoL8boS2DZb4hiMA%3D%3D) | 
-| 第1回韓国女子囲碁リーグ優勝決定戦第3戦 | Park Taehee | Park Shiun | B+R | 2015-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=84K8cZwuQHdk%2F4cnov7Q%2BA%3D%3D) | 
-| 第1回韓国女子囲碁リーグ優勝決定戦第2戦 | Oh Yujin | Park Shiun | B+0.5 | 2015-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BRZmAIHsminvF7Fbfqtqjw%3D%3D) | 
-| 第1回韓国女子囲碁リーグ優勝決定戦第1戦 | Park Shiun | Hei Jiajia | B+R | 2015-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4Is6NDT3DOZ9lZLUxPgnvA%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第14節 | Park Shiun | Hei Jiajia | W+R | 2015-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Oln2CoKzbudtvnMkDjAFA%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第13節 | Park Shiun | Kim Miri | W+R | 2015-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ASuBu4ngLCLjyNeqxkzTWw%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第12節 | Kim Hyeoimin | Park Shiun | W+R | 2015-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fo%2Fs8qSBdj34Xur24F6W%2FQ%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第10節 | Kim Sinyoung | Park Shiun | W+1.5 | 2015-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SwOe9GNukNReJo04i56c5Q%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第9節 | Park Shiun | Kim Cheayoung | B+R | 2015-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f0PXfnZf0SeR1dBZC9ip5A%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第8節 | missing | Park Shiun | W+1.5 | 2015-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RB7okrqM9Yw2W%2B7bf1zZ%2Bw%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第7節 | Lee Youngjoo | Park Shiun | W+0.5 | 2015-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JHio%2F6DJWfb57Hf4IQluvA%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第6節 | Park Shiun | Kim Miri | B+R | 2015-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xk0IAv0Nzy%2Fj%2FjxSCaahCg%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第5節 | Park Shiun | missing | B+R | 2015-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ilaiXxmdIci1hdSR%2BBUgxw%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第3節 | Park Shiun | Yu Zhiying | W+8.5 | 2015-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5o79hQnXKr5BjezKboHjIA%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第2節 | Park Shiun | Kim Cheayoung | B+R | 2015-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TYLIDvU8q%2FzRSvG9pT1LWQ%3D%3D) | 
-| 第1回韓国女子囲碁リーグ第1節 | Park Shiun | missing | W+1.5 | 2015-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ySINuI0LSt4kV%2Fqw%2FB5ReA%3D%3D) | 
-| 第16回マキシムコーヒー杯入神最強戦1回戦 | Paek Hongseok | Park Shiun | B+9.5 | 2015-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GXc6ZwkCyInwluIdrb38eA%3D%3D) | 
-| 第20期女流国手戦1回戦 | Choi Jeong | Park Shiun | B+R | 2014-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2Aj9mReNhvx6QW7O%2FF%2FRXg%3D%3D) | 
-| 第19回三星火災杯統合予選女子枠3回戦 | Park Shiun | Fujisawa Rina | W+R | 2014-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WZ1fNg6Ka9AU0OyRVRkyUA%3D%3D) | 
-| 第4回黄竜士双登杯世界女子囲碁団体選手権第14戦 | Park Shiun | Wang Chenxing | W+R | 2014-04-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vp7xZ9uE6m9tVu29AJKRSA%3D%3D) | 
-| 第4回黄竜士双登杯世界女子囲碁団体選手権第13戦 | Park Shiun | Yu Zhiying | B+R | 2014-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0me58szJR0HhkgGC69%2FFXw%3D%3D) | 
-| 第19期女流国手戦決勝三番勝負第3局 | Park Shiun | Kim Cheayoung | W+R | 2014-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N1GNi6bks7OKzxWyEVMrYQ%3D%3D) | 
-| 第19期女流国手戦決勝三番勝負第2局 | Park Shiun | Kim Cheayoung | W+2.5 | 2014-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dvVzSxW8czaMM5XFp79ZPg%3D%3D) | 
-| 第19期女流国手戦決勝三番勝負第1局 | Kim Cheayoung | Park Shiun | W+R | 2014-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qWbOXMkRkupCzvGrDcPRow%3D%3D) | 
-| 第19期女流国手戦準決勝 | Park Shiun | Kim Sinyoung | B+R | 2014-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6L%2BBLuqDIeJj4anjhKGWCw%3D%3D) | 
-| 第19期女流国手戦2回戦 | Lee Sula | Park Shiun | W+R | 2014-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aNGMDInYvJAIsUf36DOG8w%3D%3D) | 
-| 第15回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Park Shiun | B+R | 2013-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gKfXrDZXqRGwVZgHYPx%2Bow%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Zhang Zhengping | Park Shiun | W+R | 2013-12-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gLUs1Fk0MxW0b52HBEmoPQ%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Wang Chenxing | Park Shiun | B+R | 2013-12-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ex5cIGG0DzpWea3%2FVYU6RA%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Oh Jeonga | Park Shiun | W+R | 2013-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N1g4YnALRErrMFkZwyrR8Q%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Park Shiun | B+3.5 | 2013-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9D4OjyirTdQi7my3Qh2RaA%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Zhang Zhengping | Park Shiun | W+R | 2013-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GI6WuuRk%2BAIiMIHQ7raBHA%3D%3D) | 
-| 第4回大舟杯プロシニア最強者戦1回戦 | Kim Dongmyeon | Park Shiun | B+R | 2013-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vzaI9pQfyTwlUgrt5i%2B9kQ%3D%3D) | 
-| 第6期女流棋聖戦（韓国）準決勝 | Park Shiun | Park Jiyeon | B+R | 2013-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QUdHp%2BqP4bJx4HBcWnbZUA%3D%3D) | 
-| 第6期女流棋聖戦（韓国）決勝 | Choi Jeong | Park Shiun | B+1.5 | 2013-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mH6%2F0JngLtroBEYzDB3Ppg%3D%3D) | 
-| 第19期女流国手戦1回戦 | Park Shiun | Lee Minjin | B+R | 2013-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4seHYQFVoB%2B24QuD%2FhWRBA%3D%3D) | 
-| 第7回GGオークション杯女流対シニア連勝対抗戦第22戦 | Park Shiun | Cho Hunhyun | W+R | 2013-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ryWQEeJWpimx4qWw2xEf8Q%3D%3D) | 
-| 第4回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Mukai Chiaki | Park Shiun | B+R | 2013-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zoFXQwyVHVKP%2BExZDE3wAg%3D%3D) | 
-| 第15回農心杯韓国選抜戦 | Park Shiun | Kim Junghyun | W+R | 2013-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K8kO4QhG1HruMb2ro3qyog%3D%3D) | 
-| 第9期物価情報杯プロ棋戦予選 | Park Shiun | Kim Seongjae | W+R | 2013-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=372h3hio9LFzd87WEIHmzg%3D%3D) | 
-| 第2回華頂茶業杯世界女子団体選手権第3戦 | Hei Jiajia | Park Shiun | W+R | 2013-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=USr8apIpUEiiH86Pg3JRSg%3D%3D) | 
-| 第2回華頂茶業杯世界女子団体選手権第2戦 | Park Shiun | Xie Yimin | B+R | 2013-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7YhHscqJtENBJZm5Bnh1Qw%3D%3D) | 
-| 第2回華頂茶業杯世界女子団体選手権第1戦 | Park Shiun | Li He | W+2.5 | 2013-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7WEXR1UMU2uaAVh%2FlS7y9w%3D%3D) | 
-| 第2回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Hei Jiajia | Park Shiun | B+1.5 | 2012-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5xOTgbFhvD2r84oOxa%2B57Q%3D%3D) | 
-| 第2回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Rui Naiwei | Park Shiun | B+3.5 | 2012-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eCif%2B4jjoIDNXZ0xm9OgEw%3D%3D) | 
-| 第2回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Park Shiun | Su Shengfang | B+15.5 | 2012-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xo1cVnUbXuMDw38gzxSbqQ%3D%3D) | 
-| 第8期圓益杯十段戦1回戦 | Park Shiun | Kim Seongjae | W+1.5 | 2012-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S6JtEKxdZtcgtVxqHa2XXw%3D%3D) | 
-| 第3回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Yu Zhiying | Park Shiun | B+1.5 | 2012-10-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l9P%2Bk40yOhMCFNSVI9pUeQ%3D%3D) | 
-| 第3回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Park Shiun | Wang Chenxing | B+R | 2012-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C2sGuBZnx969r3jcnrPdxA%3D%3D) | 
-| 第1期女流十段戦準決勝 | Park Shiun | Kim Hyeoimin | W+2.5 | 2012-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8sGj9SpwwGsL5qVdwQIDMQ%3D%3D) | 
-| 第1期女流十段戦2回戦 | Choi Jeong | Park Shiun | W+R | 2012-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eqfvnN9HC5ZRpvI2OC%2BC%2FA%3D%3D) | 
-| 第18期女流国手戦1回戦 | missing | Park Shiun | B+R | 2012-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wzwUJ%2FBt08vYMOlyjq%2FgXQ%3D%3D) | 
-| 第14期女流名人戦（韓国）敗者復活戦2回戦 | Park Shiun | Kim Miri | W+3.5 | 2012-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3m%2Bh1wHz%2B5OVuAzqxvSm3g%3D%3D) | 
-| 第14期女流名人戦（韓国）敗者復活戦1回戦 | Kim Cheayoung | Park Shiun | W+R | 2012-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Gkqqu9jxa3VjEhrfKiI6w%3D%3D) | 
-| 第14期女流名人戦（韓国）本戦1回戦 | Park Jiyeon | Park Shiun | B+4.5 | 2012-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wcanlqSZvAA4mO6UZ2sjeQ%3D%3D) | 
-| 第1回華頂茶業杯世界女子団体選手権第3戦 | Xie Yimin | Park Shiun | W+R | 2012-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nc59z1Sx5Ad2BwHgTD4x3A%3D%3D) | 
-| 第1回華頂茶業杯世界女子団体選手権第2戦 | Park Shiun | Wang Chenxing | B+R | 2012-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1W25y39bjnywU5NMwS0hgw%3D%3D) | 
-| 第1回華頂茶業杯世界女子団体選手権第1戦 | Park Shiun | Hei Jiajia | B+R | 2012-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PuiwhHzTc2eN9A%2Fbnt%2FpZA%3D%3D) | 
-| 第2回黄竜士双登杯世界女子囲碁団体選手権第9戦 | Wang Chenxing | Park Shiun | B+3.5 | 2012-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MrS5C%2FqBzLXlClIRzR%2FVhA%3D%3D) | 
-| 第17期女流国手戦決勝三番勝負第3局 | Park Jiyeon | Park Shiun | B+2.5 | 2012-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NeXF1xmjZoO1jkTwmgbThQ%3D%3D) | 
-| 第17期女流国手戦決勝三番勝負第2局 | Park Shiun | Park Jiyeon | W+0.5 | 2012-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HRxN6iUoRgGfN24mss1kSw%3D%3D) | 
-| 第17期女流国手戦決勝三番勝負第1局 | Park Jiyeon | Park Shiun | W+R | 2012-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YAbbOWFyUx%2BxfXIgHgNYZw%3D%3D) | 
-| 第13期女流名人戦（韓国）敗者復活戦決勝 | Park Shiun | Kim Miri | W+R | 2011-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sxm3htRZs3j%2BzfZwADPNJQ%3D%3D) | 
-| 第17期女流国手戦準決勝 | Kim Miri | Park Shiun | W+R | 2011-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z8P0S6SNFz13GIgnBTTfiA%3D%3D) | 
-| 第13期女流名人戦（韓国）本戦勝者組決勝 | Park Shiun | Choi Jeong | W+3.5 | 2011-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F9zLOC85G4uAaqgUFR5JcA%3D%3D) | 
-| 第17期女流国手戦2回戦 | Park Shiun | Cho Hyeyeon | B+R | 2011-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I7SgLHA%2Fo41T6sh3WykhsQ%3D%3D) | 
-| 第2回穹窿山兵聖杯世界女子囲碁選手権決勝 | Park Shiun | Tang Yi | B+R | 2011-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oCpvYA127tHjkS8bPi%2FgLw%3D%3D) | 
-| 第2回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Rui Naiwei | Park Shiun | W+R | 2011-10-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZwmOA6IueItrt22Hrhqe%2Bw%3D%3D) | 
-| 第2回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Park Shiun | Yu Zhiying | B+R | 2011-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bMgk1xXEuDOVJZVT2k9Wrg%3D%3D) | 
-| 第2回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Yoshida Mika | Park Shiun | W+R | 2011-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fel7%2BKU304wmmaocX8jk%2FA%3D%3D) | 
-| 第5回GGオークション杯女流対シニア連勝対抗戦第23戦 | Yoo Changhyuk | Park Shiun | B+R | 2011-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=odFvGV6gSF9N8Tzonbf6vw%3D%3D) | 
-| 第13期女流名人戦（韓国）本戦2回戦 | Park Jiyeon | Park Shiun | W+R | 2011-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IE1ygM0Ikbqii2zt%2BJGpEg%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ1回戦F2 | Heo Yongho | Park Shiun | B+R | 2011-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pXkXaPtzDYK1Lzxda5pz0Q%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ1回戦F1 | Gu Li | Park Shiun | B+R | 2011-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HYlkbp%2BCpu0CuP1rNApAQg%3D%3D) | 
-| 第16回三星火災杯統合予選女子枠2回戦 | Hei Jiajia | Park Shiun | W+5.5 | 2011-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S5h6iicn8xSORjgHkpPDkQ%3D%3D) | 
-| 第17期女流国手戦1回戦 | Park Shiun | missing | B+R | 2011-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H4fpSGPx%2F7pK13OPe10z8A%3D%3D) | 
-| 第13回農心杯韓国選抜戦 | Lee Jihyun | Park Shiun | W+T | 2011-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MxKrjk%2FHCPxxbrJAX5frZA%3D%3D) | 
-| 第17期女流国手戦予選 | Park Shiun | Kim Cheayoung | B+R | 2011-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OSX4Xw%2Bkg313VJzX9L4xkQ%3D%3D) | 
-| 第13期女流名人戦（韓国）本戦1回戦 | Lee Tahye | Park Shiun | W+R | 2011-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yxVDJZGBgIP81tUBk4LjXg%3D%3D) | 
-| 第1回黄竜士佳源杯世界女子囲碁団体選手権第3戦 | Li He | Park Shiun | B+3.5 | 2011-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a6ZmxxBG%2B0dXzRL6fE5COA%3D%3D) | 
-| 第1回黄竜士佳源杯世界女子囲碁団体選手権第2戦 | Park Shiun | Xie Yimin | B+R | 2011-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UIVRWsVYMu6RDsbPa4Gjcw%3D%3D) | 
-| 第1回黄竜士佳源杯世界女子囲碁団体選手権第1戦 | Park Shiun | Zhang Kaixin | B+R | 2011-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dIt%2F6Y5AMFREeLYksks8ug%3D%3D) | 
-| 第9回正官庄杯世界女子囲碁最強戦第14戦 | Rui Naiwei | Park Shiun | W+R | 2011-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XpjK4u8xneW84MJafp2kMQ%3D%3D) | 
-| 第12期女流名人戦（韓国）挑戦者決定戦 | Park Shiun | Cho Hyeyeon | W+9.5 | 2010-12-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GLgoh%2F3mSVjQJ6EFSv5M3w%3D%3D) | 
-| 第12期女流名人戦（韓国）本戦勝者組決勝 | Cho Hyeyeon | Park Shiun | W+R | 2010-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YdSsyw8R72RXaGo8HO5OaA%3D%3D) | 
-| 第16期女流国手戦2回戦 | missing | Park Shiun | B+1.5 | 2010-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tkpRQONB2RYhoA40AHsTcA%3D%3D) | 
-| 第4回GGオークション杯女流対シニア連勝対抗戦第23戦 | Cho Hunhyun | Park Shiun | W+4.5 | 2010-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aJGjIXlP95wgbHlLQ7f4%2FQ%3D%3D) | 
-| 第16期女流国手戦1回戦 | Park Shiun | Kim Hyeoimin | B+R | 2010-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bDzaf9ayZqT%2B4ebrssb5Cg%3D%3D) | 
-| 第1回穹窿山兵聖杯世界女子囲碁選手権決勝 | Park Shiun | Hei Jiajia | B+R | 2010-09-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WWAw0V%2Bx%2B4ozZaMnsOGeFw%3D%3D) | 
-| 第1回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Park Shiun | Tang Yi | B+R | 2010-09-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iyYN2FxrZWSZz8hEBYj%2Bhw%3D%3D) | 
-| 第1回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Park Shiun | Song Ronghui | B+R | 2010-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nJUgn9BZHnARzgNd%2BAKYLQ%3D%3D) | 
-| 第1回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Park Shiun | missing | B+R | 2010-09-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GU0anneFeRnP%2BSHKyee0nw%3D%3D) | 
-| 第12期女流名人戦（韓国）本戦2回戦 | Park Shiun | Lee Minjin | B+R | 2010-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JyW5gGcITYOsBj971apvag%3D%3D) | 
-| 第15回三星火災杯統合予選決勝 | Park Jiyeon | Park Shiun | B+R | 2010-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YZOxtQ%2B4MY6eO9xAllJRyA%3D%3D) | 
-| 第15期バッカス杯天元戦1回戦 | Park Shiun | Lee Taehyun | W+1.5 | 2010-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BiAUdQ1EOKzL95SkH3u%2BFw%3D%3D) | 
-| 第12期女流名人戦（韓国）本戦1回戦 | Kim Eunseon | Park Shiun | W+R | 2010-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ccFNuArvm1%2Ffm05d0iDrDw%3D%3D) | 
-| 第6期物価情報杯プロ棋戦リーグD | Hong Minpyo | Park Shiun | B+2.5 | 2010-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RxxEKZP9Xs7PdPfvtOOd0w%3D%3D) | 
-| 第15回LG杯予選 | Niu Yutian | Park Shiun | B+0.5 | 2010-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BAuGwPj%2BRD%2Fq160rfnKHGg%3D%3D) | 
-| 第6期物価情報杯プロ棋戦リーグD | Kang Dongyun | Park Shiun | B+3.5 | 2010-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z0luXpBLxGqUu2y8s%2Folyg%3D%3D) | 
-| 第8回正官庄杯世界女子囲碁最強戦第14戦 | Li He | Park Shiun | W+R | 2010-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tBAEGutdr%2BnI531t09Mo%2BA%3D%3D) | 
-| 第8回正官庄杯世界女子囲碁最強戦第13戦 | Park Shiun | Ye Gui | B+3.5 | 2010-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=25LgmtJx3a3anjEFHIEtoQ%3D%3D) | 
-| 第8回正官庄杯世界女子囲碁最強戦第12戦 | Park Shiun | Suzuki Ayumi | B+R | 2010-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eVJ0fmkMhfD0TVXY2N7AbQ%3D%3D) | 
-| 第8回正官庄杯世界女子囲碁最強戦第11戦 | Park Shiun | Song Ronghui | B+R | 2010-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oejbAxMjCzN%2FCrvaBoJtsw%3D%3D) | 
-| 第11期女流名人戦（韓国）敗者復活戦3回戦 | Park Shiun | Cho Hyeyeon | W+R | 2009-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TB%2B92rscy19%2FWyVI2dqu0Q%3D%3D) | 
-| 第11期女流名人戦（韓国）敗者復活戦2回戦 | Park Shiun | Lee Minjin | B+R | 2009-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D06%2B4JUxiGRG4DVohocLwQ%3D%3D) | 
-| 第8回正官庄杯世界女子囲碁最強戦韓国予選 | Lee Yongshin | Park Shiun | W+R | 2009-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FN8Dm%2FJmyRSy4De5zZUT%2FA%3D%3D) | 
-| 第14回三星火災杯統合予選2回戦 | Li He | Park Shiun | W+R | 2009-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zGMmj34bDMbECVNdz%2BcBeA%3D%3D) | 
-| 第11期女流名人戦（韓国）本戦2回戦 | Kim Hyeoimin | Park Shiun | B+4.5 | 2009-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WtydZ0xxg67UDVvEnryx6g%3D%3D) | 
-| 第11回農心杯韓国選抜戦 | Hong Seongji | Park Shiun | B+R | 2009-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4v4K9%2FRNfzsPpUii7YC3cg%3D%3D) | 
-| 第3回GGオークション杯女流対シニア連勝対抗戦第16戦 | Park Yeongchan | Park Shiun | B+1.5 | 2009-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WEfTG8p1%2BvHivZWToEGzlA%3D%3D) | 
-| 第11期女流名人戦（韓国）本戦1回戦 | Park Shiun | Yun Youngmin | B+R | 2009-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=acp9Oe5%2F6WVKnezsgwknFQ%3D%3D) | 
-| 第14期バッカス杯天元戦予選 | Choi Cheolhan | Park Shiun | B+R | 2009-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZgRNjnj%2Bd5VJeMOndMIlWg%3D%3D) | 
-| 第1回BCカード杯世界選手権1回戦 | Lee Jungwoo | Park Shiun | B+R | 2009-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3WcsoeV%2BwWmA4c%2B3%2B4VOyQ%3D%3D) | 
-| 第7回正官庄杯世界女子囲碁最強戦第9戦 | Li He | Park Shiun | B+R | 2009-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NUfoO7JaeBuOEqEKOHC4uQ%3D%3D) | 
-| 第7回正官庄杯世界女子囲碁最強戦第8戦 | Suzuki Ayumi | Park Shiun | W+R | 2009-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YtUk63KqWWlsERwbcBMwqw%3D%3D) | 
-| 第7回正官庄杯世界女子囲碁最強戦第7戦 | Song Ronghui | Park Shiun | W+R | 2009-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=APTC87WlHSPOCULpfn0tQg%3D%3D) | 
-| 第14期女流国手戦1回戦 | Kim Yoonyoung | Park Shiun | B+2.5 | 2008-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VpHtGo8aW3HznhPITubGGQ%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦三位決定戦 | Mannami Kana | Park Shiun | W+R | 2008-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y%2BZU96wpcAk6dn20FONjhw%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Song Ronghui | Park Shiun | B+2.5 | 2008-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BzjIgs%2Fs4B15UdcD1F3G0A%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Park Shiun | Hei Jiajia | B+R | 2008-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wwPduiyVaRZ5V5cQlGiNjg%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Rui Naiwei | Park Shiun | W+2.5 | 2008-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V85YjX9XAEACwQqYWqg6XQ%3D%3D) | 
-| 第13回三星火災杯予選決勝 | Zheng Yan | Park Shiun | B+11.5 | 2008-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F1by0Y5nlUVHJpYcY2O2Pw%3D%3D) | 
-| 第2回GGオークション杯特別対局 | Park Shiun | Kim Ilhwan | B+R | 2008-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xnb1likwBPZoxp3fvpD%2FoQ%3D%3D) | 
-| 第2回GGオークション杯女流対シニア連勝対抗戦第21戦 | Park Shiun | Yang Jaeho | W+6.5 | 2008-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6WGx9n8bCzhC9LWLT9oeKA%3D%3D) | 
-| 第2回GGオークション杯女流対シニア連勝対抗戦第20戦 | Park Shiun | Seo Bongsoo | B+6.5 | 2008-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8zM%2F0OotymWf5%2ByVUzKPKw%3D%3D) | 
-| 第2回GGオークション杯女流対シニア連勝対抗戦第19戦 | Park Shiun | Cho Daehyeon | B+1.5 | 2008-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W5E7LswmHEReh20owhrjfQ%3D%3D) | 
-| 第2回GGオークション杯女流対シニア連勝対抗戦第18戦 | Park Shiun | Choi Kyubyeong | B+R | 2008-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MTSjsh98b9j9Q4Lsaf9Ixw%3D%3D) | 
-| 第13期女流国手戦決勝三番勝負第3局 | Lee Minjin | Park Shiun | W+3.5 | 2008-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CLvSRtN%2FL8qWslyQvlO8IQ%3D%3D) | 
-| 第13期女流国手戦決勝三番勝負第2局 | Park Shiun | Lee Minjin | B+2.5 | 2008-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d%2BZQ7XDGifjH2NjhZ9RiIA%3D%3D) | 
-| 第13期女流国手戦決勝三番勝負第1局 | Lee Minjin | Park Shiun | B+R | 2008-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XDU6SdTJTtlosF%2Fxzfu6LQ%3D%3D) | 
-| 第13期女流国手戦準決勝 | Park Shiun | Kim Hyeoimin | B+R | 2008-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vXqh9ASTOnogQjqvrnRUgw%3D%3D) | 
-| 第5期電子ランド杯王中王戦予選 | Lee Sula | Park Shiun | B+R | 2008-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NLltccJYbcdSyuusPO0QxQ%3D%3D) | 
-| 第1回遠洋地産杯世界女子プロオープン戦決勝三番勝負第3局 | Rui Naiwei | Park Shiun | W+R | 2008-01-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pKaeh3U8UMh0K72I9I3PnQ%3D%3D) | 
-| 第1回遠洋地産杯世界女子プロオープン戦決勝三番勝負第2局 | Rui Naiwei | Park Shiun | W+R | 2008-01-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=478doOPZtYmBFnFXMyPr7g%3D%3D) | 
-| 第1回遠洋地産杯世界女子プロオープン戦決勝三番勝負第1局 | Park Shiun | Rui Naiwei | W+0.5 | 2008-01-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PBnzFX7vNDn7DY0raQCy9g%3D%3D) | 
-| 第13期女流国手戦2回戦 | Park Shiun | Kim Soojin | B+R | 2008-01-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zu2F%2B8%2FIfzVhBli25Gi0sg%3D%3D) | 
-| 第13期女流国手戦1回戦 | Park Shiun | Yun Youngmin | B+R | 2007-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O4g3%2BidfEI3t4F%2FrnzShHg%3D%3D) | 
-| 第2期女流棋聖戦（韓国）準決勝 | Rui Naiwei | Park Shiun | B+R | 2007-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zFs7T%2F%2FtM5y%2B2U7NkB8d5Q%3D%3D) | 
-| 第2期女流棋聖戦（韓国）1回戦 | Park Shiun | Park Jiyeon | B+R | 2007-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CTR6isuvEKd7zBbO38KsUw%3D%3D) | 
-| 第1回遠洋地産杯世界女子プロオープン戦準決勝 | Park Shiun | Yashiro Kumiko | B+R | 2007-11-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NEINObLPzA7bz8YL9HRX3Q%3D%3D) | 
-| 第1回遠洋地産杯世界女子プロオープン戦3回戦 | Park Shiun | Kim Eunseon | B+R | 2007-10-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=60%2Foy6bD094vV3UfdDMSmg%3D%3D) | 
-| 第1回遠洋地産杯世界女子プロオープン戦2回戦 | Park Shiun | Ye Gui | B+R | 2007-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A1j%2B%2B%2FIrojaFWE64YLe53Q%3D%3D) | 
-| 第9期女流名人戦（韓国）敗者復活戦決勝 | Cho Hyeyeon | Park Shiun | B+R | 2007-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2aal%2Bgx87pfa%2BDR8TFDqCA%3D%3D) | 
-| 第9期女流名人戦（韓国）敗者復活戦3回戦 | Kim Hyeoimin | Park Shiun | W+R | 2007-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bv4WQbWdLkSb%2Bx82t4PZJA%3D%3D) | 
-| 第12回三星火災杯予選決勝 | Cho Hyeyeon | Park Shiun | B+R | 2007-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WYFb79mU2ROOxERV00xANg%3D%3D) | 
-| 第12回三星火災杯予選準決勝 | Fan Weijing | Park Shiun | W+R | 2007-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jCP8sYfxbkIXVuUmTbLy1g%3D%3D) | 
-| 第9期女流名人戦（韓国）敗者復活戦2回戦 | Park Shiun | Kim Eunseon | B+R | 2007-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ynp9aqfKCg7TaleWxVuRtQ%3D%3D) | 
-| 第1回大理旅遊杯世界女子プロ囲碁選手権戦決勝三番勝負第3局 | Park Shiun | Kim Hyeoimin | B+1.5 | 2007-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4nZN1jHY0nCcYO2uCYK1tg%3D%3D) | 
-| 第1回大理旅遊杯世界女子プロ囲碁選手権戦決勝三番勝負第2局 | Park Shiun | Kim Hyeoimin | B+R | 2007-07-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GIBfyzek%2Bd4DmZSvyh2Cyw%3D%3D) | 
-| 第1回大理旅遊杯世界女子プロ囲碁選手権戦決勝三番勝負第1局 | Kim Hyeoimin | Park Shiun | B+1.5 | 2007-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q5a2nbTR%2FlG%2BOyp%2FK9VFZQ%3D%3D) | 
-| 第1回GGオークション杯女流対シニア連勝対抗戦第22戦 | Park Shiun | Cho Hunhyun | B+0.5 | 2007-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1%2BpRnI64UZjxSK%2FnP6zY8w%3D%3D) | 
-| 第9期女流名人戦（韓国）敗者復活戦1回戦 | missing | Park Shiun | W+R | 2007-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fbvFbicMkQu%2FsGLzQFYIvw%3D%3D) | 
-| 第9期女流名人戦（韓国）本戦1回戦 | Park Shiun | Kim Hyeoimin | W+1.5 | 2007-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=olMek%2FtMzWMWqYyj372%2Bpg%3D%3D) | 
-| 第4期電子ランド杯王中王戦1回戦 | Park Shiun | Kim JongJoon | W+5.5 | 2007-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qrGPWFS9vGTlHDR5vQv8NA%3D%3D) | 
-| 第4期電子ランド杯王中王戦予選 | missing | Park Shiun | B+3.5 | 2007-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KqfgRu%2BU%2BHor8z4Qw%2FEgBA%3D%3D) | 
-| 第5回正官庄杯世界女子囲碁最強戦第8戦 | Zheng Yan | Park Shiun | B+2.5 | 2007-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gWdo1fmaPEmYOa6KzI4T2g%3D%3D) | 
-| 第12期女流国手戦2回戦 | Lee Yongshin | Park Shiun | B+R | 2006-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TXbVt1TxZTXa6qO1NW7X%2Fg%3D%3D) | 
-| 第1回大理旅遊杯世界女子プロ囲碁選手権戦準決勝 | Park Shiun | Rui Naiwei | B+R | 2006-11-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EJKp%2Fu87C1xh%2FaqtwQd9Cw%3D%3D) | 
-| 第1回大理旅遊杯世界女子プロ囲碁選手権戦3回戦 | Lu Jia | Park Shiun | W+R | 2006-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qk7n0BUgAXXFLfIyStibjQ%3D%3D) | 
-| 第1回大理旅遊杯世界女子プロ囲碁選手権戦2回戦 | Park Shiun | Zhang Xuan | B+R | 2006-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hy0MQD4yU1T4SBEuaTu6Kw%3D%3D) | 
-| 第12期女流国手戦1回戦 | Park Shiun | Yun Jihee | B+R | 2006-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CsAOFA9N8RusrlaKExeevw%3D%3D) | 
-| 第8期女流名人戦（韓国）挑戦者決定戦 | Park Shiun | Lee Tahye | W+R | 2006-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5kh0TI%2BH6AhLS5Z8m%2BFAxg%3D%3D) | 
-| 第2期圓益杯十段戦1回戦 | Paek Hongseok | Park Shiun | B+2.5 | 2006-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MaOhtFXEo529l%2BW0DCxBXA%3D%3D) | 
-| 第8期女流名人戦（韓国）本戦勝者組決勝 | Park Shiun | Cho Hyeyeon | B+R | 2006-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kppR9XQDtZlzFpVHeH%2BcVQ%3D%3D) | 
-| 第8期女流名人戦（韓国）本戦2回戦 | Park Shiun | missing | B+R | 2006-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ifu65fv%2FJCoL%2FE2LYN5l1Q%3D%3D) | 
-| 第8期女流名人戦（韓国）本戦1回戦 | Kim Eunseon | Park Shiun | W+R | 2006-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LfstGVMipYd2l4xIC3rafg%3D%3D) | 
-| 第11回LG杯予選 | Kong Jie | Park Shiun | B+R | 2006-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iZbrZccvnmFuA9bWLW5r4A%3D%3D) | 
-| 第11期女流国手戦敗者復活戦決勝 | Park Shiun | Rui Naiwei | W+4.5 | 2006-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iCUUFM6krLQV%2FvLG3rF1nw%3D%3D) | 
-| 第4回正官庄杯世界女子囲碁最強戦第13戦 | Ye Gui | Park Shiun | B+R | 2006-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8%2FElY9H1Utp3y4xGC6jTEA%3D%3D) | 
-| 第4回正官庄杯世界女子囲碁最強戦第12戦 | Park Shiun | Koyama Mitsuru | B+4.5 | 2006-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=owB3Y3GIPfC%2F1dhm46FAAQ%3D%3D) | 
-| 第4回正官庄杯世界女子囲碁最強戦第11戦 | Park Shiun | Rui Naiwei | B+1.5 | 2006-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nqc7zLCI6L%2BzAUh0qQK2ZA%3D%3D) | 
-| 第11期女流国手戦敗者復活戦3回戦 | Yun Yeongseon | Park Shiun | W+4.5 | 2006-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eDcV6mG5R4SVML3g2q%2FhZA%3D%3D) | 
-| 第11期女流国手戦敗者復活戦2回戦 | Park Shiun | Kim Soojin | B+2.5 | 2005-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fQhDk4m6NeDF%2BTUg108XSA%3D%3D) | 
-| 第11期女流国手戦敗者復活戦1回戦 | Park Shiun | Lee Jihyun | B+2.5 | 2005-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GQqkwAXan6k957YqjiZhAA%3D%3D) | 
-| 2005年韓国囲碁リーグ | Park Shiun | Seo Musang | B+3.5 | 2005-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3RcTHiumLJwdgV9SHLZfuw%3D%3D) | 
-| 第9期SKガス杯新鋭プロ十傑戦リーグBプレーオフ | Park Shiun | Ko Keuntae | W+R | 2005-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xmetnhPd4OYfWscdfTCpqQ%3D%3D) | 
-| 第7期女流名人戦（韓国）挑戦者決定戦 | Cho Hyeyeon | Park Shiun | B+R | 2005-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RKrvhMg7lkgd%2Fc96zCKIPw%3D%3D) | 
-| 2005年韓国囲碁リーグ | Park Shiun | missing | B+4.5 | 2005-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dceyb6Nud71n63dcWlBedA%3D%3D) | 
-| 第9期SKガス杯新鋭プロ十傑戦リーグB | Park Shiun | Jin Donggyu | W+R | 2005-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SyI4P5SWduKdLWT1zRgvlA%3D%3D) | 
-| 第9期SKガス杯新鋭プロ十傑戦リーグB | Park Shiun | Kim Daeyoung | B+R | 2005-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s4ww01xyuX68FgqIIcYyBA%3D%3D) | 
-| 2005年韓国囲碁リーグ | Park Shiun | Jiang Zhujiu | W+2.5 | 2005-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RVKKd8fLDOufDrvTGytqjQ%3D%3D) | 
-| 第7期女流名人戦（韓国）本戦勝者組決勝 | Park Shiun | Hyun Mijin | B+R | 2005-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jFc8WU93cU5rJ6eaGo1iJw%3D%3D) | 
-| 2005年韓国囲碁リーグ | Park Shiun | Kim Hyeongwoo | W+3.5 | 2005-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NZLIOTGzdvSh00BIAd3lVw%3D%3D) | 
-| 第11期女流国手戦本戦1回戦 | Park Shiun | Kim Soojin | W+8.5 | 2005-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S1cyu%2FDb6Lj3bSnW1X2GrQ%3D%3D) | 
-| 第7期女流名人戦（韓国）本戦2回戦 | Park Shiun | Lee Hajin | B+R | 2005-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pEMwVIA9exnTS0Ve%2BkNv1g%3D%3D) | 
-| 第5期オスラムコリア杯新鋭連勝最強戦プレーオフ | Hong Seongji | Park Shiun | W+R | 2005-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hv4pXkVeDl0MgQfLarEHWQ%3D%3D) | 
-| 第9期SKガス杯新鋭プロ十傑戦リーグB | Park Byeongkyu | Park Shiun | W+4.5 | 2005-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t02Kps42M2Yd0Qdzft6ygw%3D%3D) | 
-| 2005年韓国囲碁リーグ | Jin Donggyu | Park Shiun | W+R | 2005-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gE3EM84FpHLi%2FY%2FPrnSoeQ%3D%3D) | 
-| 第5期オスラムコリア杯新鋭連勝最強戦第19戦 | Lee Yeongkyu | Park Shiun | B+R | 2005-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UDzBL%2FcILUdVSKWWN20rCA%3D%3D) | 
-| 2005年韓国囲碁リーグ | missing | Park Shiun | W+4.5 | 2005-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5d9OMUYn7uYtF8eoeEdJdw%3D%3D) | 
-| 2005年韓国囲碁リーグ | Lee Jungwoo | Park Shiun | B+7.5 | 2005-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pMq%2BG7iC%2FbqZXMM0ozA3og%3D%3D) | 
-| 第7期女流名人戦（韓国）本戦1回戦 | Park Shiun | missing | B+R | 2005-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U2i5%2FxGGl67wEKEbTsyOyQ%3D%3D) | 
-| 第10期女流国手戦敗者復活戦2回戦 | Yun Yeongseon | Park Shiun | B+2.5 | 2005-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HqGtIJD9xz1dM3EKUZvFmQ%3D%3D) | 
-| 第9期SKガス杯新鋭プロ十傑戦リーグB | Ko Keuntae | Park Shiun | W+8.5 | 2005-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fVW9z0zDUJjWW3T%2B9KunZQ%3D%3D) | 
-| 第10期女流国手戦敗者復活戦2回戦 | Park Shiun | Kim Hyeoimin | B+R | 2005-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QkuigsIhw2iBSUdO1NQfDQ%3D%3D) | 
-| 第3回正官庄杯世界女子囲碁最強戦第14戦 | Rui Naiwei | Park Shiun | B+R | 2005-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5i%2BBGxz8Uc0Vcu3JXvhxyQ%3D%3D) | 
-| 第3回正官庄杯世界女子囲碁最強戦第13戦 | Zhang Xuan | Park Shiun | W+4.5 | 2005-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TsFFWr0SpDl5RZWH2ciHQQ%3D%3D) | 
-| 第3回正官庄杯世界女子囲碁最強戦第12戦 | Xu Ying | Park Shiun | W+8.5 | 2005-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YEel47QxDB3GI2HtLgq1%2Fw%3D%3D) | 
-| 第10期女流国手戦本戦2回戦 | Park Shiun | Cho Hyeyeon | W+1.5 | 2004-12-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0C39ak9sW1ZoNW63axkpiA%3D%3D) | 
-| 第8期SKガス杯新鋭プロ十傑戦九位決定戦 | Hong Seongji | Park Shiun | W+5.5 | 2004-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iVfHIzutj7j32LD8xCW8DA%3D%3D) | 
-| 第8期SKガス杯新鋭プロ十傑戦リーグA | Park Shiun | Park Seunghyeon | B+R | 2004-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OXfPdVUPHxhNcBSn3eGpvg%3D%3D) | 
-| 第10期女流国手戦本戦1回戦 | missing | Park Shiun | W+R | 2004-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M%2B%2BcXbH%2Fr%2F1ETQMulI7gig%3D%3D) | 
-| 第1回中環杯世界囲碁選手権1回戦 | Park Shiun | Cho U | W+R | 2004-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mk%2BGRXtUOzpuAttbYTSD5A%3D%3D) | 
-| 第9回三星火災杯予選決勝 | Park Shiun | missing | W+1.5 | 2004-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n4brzzAOeRMUDlRFKak9Lg%3D%3D) | 
-| 第8期SKガス杯新鋭プロ十傑戦リーグA | Park Cheongsang | Park Shiun | B+R | 2004-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SiUplpbgQfqZCun9mmbL7g%3D%3D) | 
-| 第8期SKガス杯新鋭プロ十傑戦リーグA | Park Shiun | missing | B+R | 2004-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GSaaANo0%2FTCSx59U11ZnfQ%3D%3D) | 
-| 第8期SKガス杯新鋭プロ十傑戦リーグA | Park Shiun | Paek Daehyun | W+R | 2004-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6hvtp%2BnWJHlOnCOx1hBIng%3D%3D) | 
-| 第8期SKガス杯新鋭プロ十傑戦リーグA | Chen Shiyuan | Park Shiun | B+1.5 | 2004-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Dxhy0SQCPuyBssgUliRqQ%3D%3D) | 
-| 第2回正官庄杯世界女子囲碁最強戦決勝三番勝負第2局 | Park Shiun | Yun Yeongseon | B+1.5 | 2004-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vPd9bi937b%2B5vsllVDwHDw%3D%3D) | 
-| 第2回正官庄杯世界女子囲碁最強戦決勝三番勝負第1局 | Yun Yeongseon | Park Shiun | W+3.5 | 2004-01-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vl4ywcNifWR2t%2F%2FHYqnSDw%3D%3D) | 
-| 第2回正官庄杯世界女子囲碁最強戦準決勝第3局 | Rui Naiwei | Park Shiun | W+R | 2003-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B5SuVDTX4xwDPcKSsbk4Zw%3D%3D) | 
-| 第2回正官庄杯世界女子囲碁最強戦準決勝第2局 | Rui Naiwei | Park Shiun | B+R | 2003-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uMg50pUCVUMIWzabSbbBMw%3D%3D) | 
-| 第2回正官庄杯世界女子囲碁最強戦準決勝第1局 | Park Shiun | Rui Naiwei | B+R | 2003-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RNdMk3JphkiGZ%2FUeWjC8iQ%3D%3D) | 
-| 第5回農心辛ラーメン杯世界囲碁最強戦第6戦 | Kobayashi Koichi | Park Shiun | B+7.5 | 2003-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f5nfa325Pxo3HDuyu4Qy1Q%3D%3D) | 
-| 第5期女流名人戦（韓国）敗者復活戦決勝 | Cho Hyeyeon | Park Shiun | B+R | 2003-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zaVEoJ0pogUM2nz0nIq8ag%3D%3D) | 
-| 第2回正官庄杯世界女子囲碁最強戦2回戦 | Zhang Kaixin | Park Shiun | W+R | 2003-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QPyccXCw4jQb7D%2BkQIv%2Few%3D%3D) | 
-| 第2回正官庄杯世界女子囲碁最強戦1回戦 | Abe Yumiko | Park Shiun | W+R | 2003-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3BdHPTRUID7CqQIPIu5CZA%3D%3D) | 
-| 第5期女流名人戦（韓国）敗者復活戦3回戦 | Park Shiun | Kim Hyeoimin | B+2.5 | 2003-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f4Q2gph9dZHmYBs8OAGGiA%3D%3D) | 
-| 第5回農心杯韓国選抜戦 | missing | Park Shiun | W+R | 2003-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j20NgXejf0tySFFybVjJ9g%3D%3D) | 
-| 第5期女流名人戦（韓国）敗者復活戦2回戦 | Park Shiun | Yun Yeongseon | B+8.5 | 2003-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QWx4Uw%2B6KiLvfMmr96Hyxw%3D%3D) | 
-| 第5期女流名人戦（韓国）敗者復活戦1回戦 | missing | Park Shiun | W+R | 2003-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EYo%2BnucW%2B2GVCHYTSg4YxQ%3D%3D) | 
-| 第5期女流名人戦（韓国）本戦1回戦 | Cho Hyeyeon | Park Shiun | B+R | 2003-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jaJX7IG4dvY%2FNCRsUmoUnw%3D%3D) | 
-| 第22回KBS杯囲碁王戦本戦1回戦 | missing | Park Shiun | B+R | 2003-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lo6Ogu8QQDAizi69E5VLEg%3D%3D) | 
-| 第1回正官庄杯世界女子囲碁最強戦2回戦 | Park Shiun | Hua Xueming | W+6.5 | 2002-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PZAN27ohoXe57eSVCuzNqQ%3D%3D) | 
-| 第1回正官庄杯世界女子囲碁最強戦1回戦 | Kato Tomoko | Park Shiun | W+R | 2002-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HLmc8wofwicYLX3WrUjclA%3D%3D) | 
-| 第8期女流国手戦敗者復活戦2回戦 | Park Shiun | Yun Yeongseon | W+R | 2002-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q3XleusQzVkqOt%2FNE7UfUA%3D%3D) | 
-| 第7期三星杯予選2回戦 | Park Shiun | Yamada Takuji | W+3.5 | 2002-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GyCV4RVI71Z3boKb%2BNYOCw%3D%3D) | 
-| 第8期女流国手戦本戦2回戦 | Park Shiun | Rui Naiwei | W+R | 2002-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z%2Bk3ZXXQR6jeE0czIYTnNg%3D%3D) | 
-| 第36期覇王戦本戦第5局 | Yoo Changhyuk | Park Shiun | B+R | 2001-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EUlAKswOg4NUIOUWadDk0g%3D%3D) | 
-| 第5期SKガス杯新鋭プロ十傑戦リーグA | Park Shiun | Yang Keon | W+R | 2001-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BY9RPIHMfY3Ysq5Itz1M7w%3D%3D) | 
-| 第1期オスラムコリア杯新鋭連勝最強戦 | Ju Hyeongwuk | Park Shiun | B+2.5 | 2001-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9pa955GFSASbqo%2Fb%2FIWgfQ%3D%3D) | 
-| 第20回KBS杯囲碁王戦敗者復活戦1回戦 | missing | Park Shiun | B+R | 2001-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h4p5SZ6d1O%2BJvLrdhxKRUw%3D%3D) | 
-| 第3期女流名人戦（韓国）本戦1回戦 | Park Shiun | Hyun Mijin | W+R | 2001-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NUgw6DkaBZf%2BvJe%2FK2I8DQ%3D%3D) | 
-| 第20回KBS杯囲碁王戦本戦2回戦 | Park Shiun | Lee Jaeung | W+R | 2001-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c5fsRADqsv6JDaCfLU43ew%3D%3D) | 
-| 第2期女流名人戦（韓国）挑戦手合三番勝負第3局 | Park Shiun | Rui Naiwei | W+R | 2001-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tNbrmzhDYTjMmtfMCV1AMg%3D%3D) | 
-| 第2回興倉杯世界女流囲碁選手権戦決勝三番勝負第3局 | Park Shiun | Rui Naiwei | W+R | 2001-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g7pUYi2R6XTSemEbLMDJ8A%3D%3D) | 
-| 第2回興倉杯世界女流囲碁選手権戦決勝三番勝負第2局 | Rui Naiwei | Park Shiun | B+2.5 | 2001-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZlYo9CN%2BjZqui%2BQYh%2FpmXg%3D%3D) | 
-| 第2回興倉杯世界女流囲碁選手権戦決勝三番勝負第1局 | Park Shiun | Rui Naiwei | B+6.5 | 2001-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ico2g7SaAUbg35k8x460oA%3D%3D) | 
-| 第2期女流名人戦（韓国）挑戦手合三番勝負第2局 | Park Shiun | Rui Naiwei | B+R | 2001-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hbFZoBIUVvBgefnnZboPog%3D%3D) | 
-| 第2期女流名人戦（韓国）挑戦手合三番勝負第1局 | Rui Naiwei | Park Shiun | B+R | 2001-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9JXOmNstck06dLYMo8vrnA%3D%3D) | 
-| 第2回興倉杯世界女流囲碁選手権戦準決勝 | Yun Yeongseon | Park Shiun | W+2.5 | 2001-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hg189OMEdIUGx53Bg38%2BIQ%3D%3D) | 
-| 第2回興倉杯世界女流囲碁選手権戦3回戦 | Hua Xueming | Park Shiun | W+R | 2001-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VRkLKpqOkhj5JUTShYpCtQ%3D%3D) | 
-| 第2回興倉杯世界女流囲碁選手権戦2回戦 | Kobayashi Izumi | Park Shiun | W+R | 2000-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4kEMVzG5uOJdWN7rO2siYw%3D%3D) | 
-| 第19回KBS杯囲碁王戦敗者復活戦準決勝 | Mok Jinseok | Park Shiun | B+R | 2000-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gcCcGDH%2BEKVUx2b5nKaw0A%3D%3D) | 
-| 第19回KBS杯囲碁王戦敗者復活戦4回戦 | Yoo Changhyuk | Park Shiun | W+3.5 | 2000-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5sACGaoKhDjNf0gWjXH6oQ%3D%3D) | 
-| 第7期女流国手戦敗者復活戦3回戦 | missing | Park Shiun | B+R | 2000-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hsUtApRulkbA0hylTKcMhg%3D%3D) | 
-| 第19回KBS杯囲碁王戦本戦4回戦 | missing | Park Shiun | B+R | 2000-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lWq8vn8vVk9AhmJGRCi6Gg%3D%3D) | 
-| 第7期女流国手戦本戦2回戦 | Rui Naiwei | Park Shiun | B+R | 2000-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QuH5vOnMwqWNJA%2BqpNofAA%3D%3D) | 
-| 第19回KBS杯囲碁王戦本戦3回戦 | Yun Hyuk | Park Shiun | W+R | 2000-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K%2BzD9k9Vy3ekYN5Z6d%2BhjA%3D%3D) | 
-| 第19回KBS杯囲碁王戦本戦2回戦 | Cho Hunhyun | Park Shiun | W+R | 2000-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f825kqMgUr6f0WJvWpKyhQ%3D%3D) | 
-| 第1回興倉杯世界女流囲碁選手権戦2回戦 | Abe Yumiko | Park Shiun | B+R | 1999-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MXfwcxOWJt3A6USgHA6Mcw%3D%3D) | 
-| 第1回興倉杯世界女流囲碁選手権戦1回戦 | Ye Gui | Park Shiun | W+9.5 | 1999-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=odcFgYYmtybJvezCF141SQ%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 第15回GGオークション杯女流対シニア連勝対抗戦第11局 | Park Shiun | Han Chongjin | Lose | W+R | 6.5 | 2733 | -32 | 
+| 2021-07-05 | 第15回GGオークション杯予選 |  | Park Shiun | Win | W+R | 6.5 | 2765 | 58 | 
+| 2021-04-15 | 第8回大舟杯プロシニア最強者戦特別対局 |  | Park Shiun | Lose | B+R | 6.5 | 2707 | -49 | 
+| 2021-03-11 | 第8回大舟杯プロシニア最強者戦1回戦 | Cho Hyeyeon | Park Shiun | Lose | B+0.5 | 6.5 | 2756 | -190 | 
+| 2021-01-20 | 第8回大舟杯プロシニア最強者戦予選 | Choi Kyubyeong | Park Shiun | Win | W+1.5 | 6.5 | 2946 | 197 | 
+| 2020-09-22 | 第14回GGオークション杯女流対シニア連勝対抗戦第16局 | An Joyeong | Park Shiun | Lose | B+R | 6.5 | 2749 | 54 | 
+| 2020-09-15 | 第3回呉清源杯韓国予選 | Park Shiun |  | Lose | W+R | 7.5 | 2695 | -7 | 
+| 2020-08-27 | 第6回韓国女子囲碁リーグ準プレーオフ第2戦第2局 | Oh Yujin | Park Shiun | Lose | B+3.5 | 6.5 | 2702 | -9 | 
+| 2020-08-22 | 第6回韓国女子囲碁リーグ第14節第3試合第1局 | Park Shiun | Kim Eunseon | Win | B+5.5 | 6.5 | 2711 | 26 | 
+| 2020-08-15 | 第6回韓国女子囲碁リーグ第13節第3試合第3局 | Kim Cheayoung | Park Shiun | Lose | B+4.5 | 6.5 | 2685 | 139 | 
+| 2020-08-06 | 第6回韓国女子囲碁リーグ第12節第1試合第3局 | Park Shiun | Choi Jeong | Lose | W+R | 6.5 | 2546 | -14 | 
+| 2020-08-02 | 第6回韓国女子囲碁リーグ第11節第4試合第3局 | Oh Yujin | Park Shiun | Lose | B+R | 6.5 | 2560 | -35 | 
+| 2020-07-26 | 第6回韓国女子囲碁リーグ第10節第4試合第3局 |  | Park Shiun | Lose | B+R | 6.5 | 2595 | -52 | 
+| 2020-07-16 | 第6回韓国女子囲碁リーグ第9節第1試合第1局 | Park Shiun | Cho Hyeyeon | Win | B+4.5 | 6.5 | 2647 | 29 | 
+| 2020-07-09 | 第6回韓国女子囲碁リーグ第8節第1試合第3局 | Kim Soojin | Park Shiun | Win | W+R | 6.5 | 2618 | -1 | 
+| 2020-07-03 | 第6回韓国女子囲碁リーグ第7節第2試合第2局 | Park Shiun | Park Taehee | Win | B+R | 6.5 | 2619 | 113 | 
+| 2020-06-21 | 第6回韓国女子囲碁リーグ第5節第4試合第1局 |  | Park Shiun | Lose | B+3.5 | 6.5 | 2506 | -124 | 
+| 2020-06-11 | 第6回韓国女子囲碁リーグ第4節第1試合第1局 | Oh Yujin | Park Shiun | Lose | B+R | 6.5 | 2630 | -25 | 
+| 2020-06-04 | 第6回韓国女子囲碁リーグ第3節第1試合第2局 | Park Shiun | Lee Youngjoo | Lose | W+1.5 | 6.5 | 2655 | -44 | 
+| 2020-05-31 | 第6回韓国女子囲碁リーグ第2節第4試合第3局 |  | Park Shiun | Lose | B+2.5 | 6.5 | 2699 | -57 | 
+| 2020-05-24 | 第6回韓国女子囲碁リーグ第1節第4試合第2局 | Park Jiyeon | Park Shiun | Lose | B+2.5 | 6.5 | 2756 | 26 | 
+| 2020-04-14 | 第25回LG杯韓国予選 | Park Shiun |  | Lose | W+R | 6.5 | 2730 | -253 | 
+| 2020-03-27 | 第7回大舟杯プロシニア最強者戦準決勝 |  | Park Shiun | Lose | B+R | 6.5 | 2983 | -14 | 
+| 2020-03-06 | 第7回大舟杯プロシニア最強者戦8強戦 | Park Shiun | Kim Hyeoimin | Win | B+R | 6.5 | 2997 | -77 | 
+| 2020-02-07 | 第7回大舟杯プロシニア最強者戦16強戦 | Kim Soojang | Park Shiun | Win | W+1.5 | 6.5 | 3074 | 3074 | 
+| 2020-01-28 | 第13回GGオークション杯女流対シニア連勝対抗戦第15局 | Park Shiun | Han Chongjin | Lose | W+5.5 | 6.5 | missing | -2555 | 
+| 2018-05-20 | 第4回韓国女子囲碁リーグ第18節 |  | Park Shiun | Win | W+R | 6.5 | 2555 | 59 | 
+| 2018-05-04 | 第4回韓国女子囲碁リーグ第15節 | Park Shiun | Park Taehee | Lose | W+R | 6.5 | 2496 | -11 | 
+| 2018-04-28 | 第4回韓国女子囲碁リーグ第14節 | Kim Eunseon | Park Shiun | Win | W+R | 6.5 | 2507 | 57 | 
+| 2018-04-24 | 第4回韓国女子囲碁リーグ第13節 | Park Shiun | Kim Dayoung | Lose | W+R | 6.5 | 2450 | -10 | 
+| 2018-04-19 | 第4回韓国女子囲碁リーグ第12節 | Kim Cheayoung | Park Shiun | Lose | B+R | 6.5 | 2460 | -6 | 
+| 2018-04-18 | 第4回韓国女子囲碁リーグ第11節 |  | Park Shiun | Lose | B+2.5 | 6.5 | 2466 | -36 | 
+| 2018-04-15 | 第4回韓国女子囲碁リーグ第10節 | Park Shiun | Kim Sinyoung | Win | B+11.5 | 6.5 | 2502 | -93 | 
+| 2018-04-05 | 第4回韓国女子囲碁リーグ第9節 | Park Shiun | Park Jiyeon | Lose | W+R | 6.5 | 2595 | -64 | 
+| 2018-03-28 | 第4回韓国女子囲碁リーグ第7節 | Park Shiun |  | Lose | W+6.5 | 6.5 | 2659 | -41 | 
+| 2018-03-26 | 第5回大舟杯プロシニア最強者戦2回戦 | Seo Nungwuk | Park Shiun | Lose | B+R | 6.5 | 2700 | -24 | 
+| 2018-03-24 | 第4回韓国女子囲碁リーグ第6節 | Park Taehee | Park Shiun | Lose | B+0.5 | 6.5 | 2724 | -89 | 
+| 2018-03-20 | 第4回韓国女子囲碁リーグ第5節 | Park Shiun | Kim Hyeoimin | Lose | W+R | 6.5 | 2813 | -27 | 
+| 2018-03-15 | 第4回韓国女子囲碁リーグ第4節 | Kim Dayoung | Park Shiun | Lose | B+R | 6.5 | 2840 | -53 | 
+| 2018-03-11 | 第4回韓国女子囲碁リーグ第3節 | Park Shiun |  | Win | B+R | 6.5 | 2893 | -21 | 
+| 2018-03-03 | 第4回韓国女子囲碁リーグ第2節 | Park Shiun |  | Win | B+R | 6.5 | 2914 | 21 | 
+| 2018-02-22 | 第4回韓国女子囲碁リーグ第1節 | Choi Jeong | Park Shiun | Lose | B+R | 6.5 | 2893 | 4 | 
+| 2018-02-12 | 第5回大舟杯プロシニア最強者戦1回戦 | Jeong Daesang | Park Shiun | Win | W+R | 6.5 | 2889 | 10 | 
+| 2018-01-29 | 第19回マキシムコーヒー杯入神最強戦1回戦 | Park Shiun | Park Cheongsang | Lose | W+R | 6.5 | 2879 | 7 | 
+| 2017-12-20 | 第22期女流国手戦8強戦 | Park Shiun | Choi Jeong | Lose | W+R | 6.5 | 2872 | 25 | 
+| 2017-11-22 | 第22期女流国手戦1回戦 | Kim Dayoung | Park Shiun | Win | W+R | 6.5 | 2847 | 11 | 
+| 2017-10-31 | 第1期韓国製紙女子棋聖戦16強戦 | Lee Tahye | Park Shiun | Win | W+R | 6.5 | 2836 | -5 | 
+| 2017-10-21 | 第2回韓国花より囲碁女王戦リーグ3回戦 | Kim Hyeoimin | Park Shiun | Lose | B+5.5 | 6.5 | 2841 | -13 | 
+| 2017-10-20 | 第2回韓国花より囲碁女王戦リーグ2回戦 | Kim Dayoung | Park Shiun | Lose | B+R | 6.5 | 2854 | -10 | 
+| 2017-10-19 | 第2回韓国花より囲碁女王戦リーグ1回戦 | Kim Cheayoung | Park Shiun | Win | W+R | 6.5 | 2864 | 39 | 
+| 2017-09-20 | 8回蘇州穹窿山兵聖杯韓国選抜1 | Oh Jeonga | Park Shiun | Lose | B+R | 7.5 | 2825 | 74 | 
+| 2017-06-11 | 爛柯杯2017中国女団3回戦 | Ye Gui | Park Shiun | Win | W+R | 7.5 | 2751 | 20 | 
+| 2017-05-12 | 第6回天台山農商銀行杯世界女子囲碁団体チャンピオンシップ第3戦 | Li He | Park Shiun | Lose | B+R | 7.5 | 2731 | -63 | 
+| 2017-05-11 | 第6回天台山農商銀行杯世界女子囲碁団体チャンピオンシップ第2戦 | Park Shiun | Nyu Eiko | Win | B+R | 7.5 | 2794 | 39 | 
+| 2017-05-10 | 第6回天台山農商銀行杯世界女子囲碁団体チャンピオンシップ第1戦 | Zhang Zhengping | Park Shiun | Win | W+R | 7.5 | 2755 | 7 | 
+| 2017-05-06 | 3期韓国女子連戦14回戦京畿SG-西帰浦 | Park Shiun | Yu Lijun | Lose | W+R | 6.5 | 2748 | -61 | 
+| 2017-04-30 | 3期韓国女子連戦13回戦麟蹄-京畿SG | Park Shiun | Park Taehee | Lose | W+0.5 | 6.5 | 2809 | -34 | 
+| 2017-04-25 | 3期韓国女子連戦12回戦首爾-京畿SG | Park Shiun | Choi Jeong | Lose | W+6.5 | 6.5 | 2843 | 10 | 
+| 2017-04-15 | 3期韓国女子連戦11回戦京畿湖畔-京畿SG | Cao Youyin | Park Shiun | Lose | B+6.5 | 6.5 | 2833 | -27 | 
+| 2017-04-11 | 3期韓国女子連戦10回戦浦項-京畿SG | Park Shiun | Kang Dajeong | Win | B+R | 6.5 | 2860 | 26 | 
+| 2017-04-09 | 3期韓国女子連戦9回戦京畿SG-麗水 | Lee Sula | Park Shiun | Win | W+R | 6.5 | 2834 | 18 | 
+| 2017-04-06 | 第6回天台山農商銀行杯韓国選抜戦 | Cho Hyeyeon | Park Shiun | Win | W+R | 6.5 | 2816 | 92 | 
+| 2017-03-24 | 3期韓国女子連戦8回戦扶安-京畿SG | Park Shiun | Kim Hyeoimin | Win | B+R | 6.5 | 2724 | 163 | 
+| 2017-03-21 | 3期韓国女子連戦7回戦京畿SG-西帰浦 | Park Shiun | Oh Jeonga | Win | B+R | 6.5 | 2561 | 11 | 
+| 2017-03-16 | 3期韓国女子連戦6回戦麟蹄-京畿SG | Lee Youngjoo | Park Shiun | Win | W+R | 6.5 | 2550 | -41 | 
+| 2017-03-09 | 第3回韓国女子囲碁リーグ第5節 | Park Shiun | Choi Jeong | Lose | W+R | 6.5 | 2591 | 28 | 
+| 2017-03-05 | 3期韓国女子連戦3回戦浦項-京畿SG | Park Shiun | Kim Cheayoung | Win | B+R | 6.5 | 2563 | 79 | 
+| 2017-02-23 | 3期韓国女子連戦2回戦京畿SG-麗水 | Park Shiun | Kim Dayoung | Lose | W+6.5 | 6.5 | 2484 | 19 | 
+| 2017-02-18 | 3期韓国女子連戦1回戦扶安-京畿SG | Park Shiun | Kim Hyeoimin | Lose | W+R | 6.5 | 2465 | 51 | 
+| 2017-02-07 | 第18回マキシムコーヒー杯入神最強戦2回戦 | Hong Seongji | Park Shiun | Lose | B+1.5 | 6.5 | 2414 | -28 | 
+| 2017-01-02 | 第18回マキシムコーヒー杯入神最強戦1回戦 | Park Shiun | Seo Bongsoo | Win | B+R | 6.5 | 2442 | 30 | 
+| 2016-11-12 | 第7期世界穹窿山兵聖杯16強戦 | Yu Zhiying | Park Shiun | Lose | B+1.5 | 7.5 | 2412 | -137 | 
+| 2016-10-06 | 第7期穹窿山兵聖杯韓国選抜決勝 | Kim Hyeoimin | Park Shiun | Win | W+R | 6.5 | 2549 | 9 | 
+| 2016-09-30 | 第7期穹窿山兵聖杯韓国選抜 | Park Jiyeon | Park Shiun | Win | W+R | 6.5 | 2540 | -109 | 
+| 2016-08-04 | 第21期女流国手戦1回戦 | Lee Sula | Park Shiun | Lose | B+R | 6.5 | 2649 | -54 | 
+| 2016-08-01 | 第10回GGオークション杯女流対シニア連勝対抗戦第7戦 | Park Shiun | Seo Bongsoo | Lose | W+10.5 | 6.5 | 2703 | -24 | 
+| 2016-05-06 | 第2回韓国女子囲碁リーグ第14節 | Kim Yoonyoung | Park Shiun | Lose | B+2.5 | 6.5 | 2727 | -17 | 
+| 2016-05-03 | 第2回韓国女子囲碁リーグ第13節 | Fujisawa Rina | Park Shiun | Win | W+R | 6.5 | 2744 | 39 | 
+| 2016-05-01 | 第2回韓国女子囲碁リーグ第12節 | Yu Zhiying | Park Shiun | Lose | B+R | 6.5 | 2705 | 58 | 
+| 2016-04-21 | 第2回韓国女子囲碁リーグ第11節 | Park Shiun | Park Sohyun | Win | B+0.5 | 6.5 | 2647 | 5 | 
+| 2016-04-19 | 第2回韓国女子囲碁リーグ第10節 | Kim Eunseon | Park Shiun | Lose | B+R | 6.5 | 2642 | -37 | 
+| 2016-04-16 | 第2回韓国女子囲碁リーグ第9節 | Park Shiun | Li He | Win | B+R | 6.5 | 2679 | 97 | 
+| 2016-04-03 | 第2回韓国女子囲碁リーグ第8節 | Lee Sula | Park Shiun | Lose | B+R | 6.5 | 2582 | 13 | 
+| 2016-03-29 | 第2回韓国女子囲碁リーグ第7節 | Park Jiyeon | Park Shiun | Lose | B+3.5 | 6.5 | 2569 | -65 | 
+| 2016-03-28 | 第5回天台山農商銀行杯韓国選抜戦 | Park Shiun | Oh Jeonga | Lose | W+R | 6.5 | 2634 | -1 | 
+| 2016-03-25 | 第2回韓国女子囲碁リーグ第6節 | Park Shiun | Park Taehee | Win | B+R | 6.5 | 2635 | 1 | 
+| 2016-03-24 | 第5回天台山農商銀行杯韓国選抜戦 | Park Shiun | Park Jiyeon | Win | B+R | 6.5 | 2634 | 19 | 
+| 2016-03-21 | 第6回黄竜士双登杯韓国選抜戦 | Park Jiyeon | Park Shiun | Lose | B+R | 6.5 | 2615 | -1 | 
+| 2016-03-17 | 第2回韓国女子囲碁リーグ第5節 | Park Shiun | Kim Nahyun | Win | B+R | 6.5 | 2616 | 7 | 
+| 2016-03-16 | 第6回黄竜士双登杯韓国選抜戦 | Park Taehee | Park Shiun | Win | W+R | 6.5 | 2609 | 5 | 
+| 2016-03-05 | 第2回韓国女子囲碁リーグ第3節 | Park Shiun | Cho Hyeyeon | Lose | W+2.5 | 6.5 | 2604 | -110 | 
+| 2016-02-26 | 第2回韓国女子囲碁リーグ第2節 | Park Shiun |  | Lose | W+0.5 | 6.5 | 2714 | -56 | 
+| 2016-02-18 | 第2回韓国女子囲碁リーグ第1節 | Park Shiun | Lee Sula | Win | B+12.5 | 6.5 | 2770 | -79 | 
+| 2016-01-04 | 第17回マキシムコーヒー杯入神最強戦1回戦 | Park Shiun | Cho Hunhyun | Lose | W+5.5 | 6.5 | 2849 | 4 | 
+| 2015-10-23 | 第17期女流名人戦（韓国）準決勝 | Park Shiun | Oh Yujin | Lose | W+R | 6.5 | 2845 | -13 | 
+| 2015-10-21 | 第6回穹窿山兵聖杯世界女子囲碁選手権決勝 | Park Shiun | Yu Zhiying | Lose | W+2.5 | 7.5 | 2858 | -11 | 
+| 2015-10-19 | 第6回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Li He | Park Shiun | Win | W+0.5 | 7.5 | 2869 | 19 | 
+| 2015-10-18 | 第6回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Park Shiun | Wang Chenxing | Win | B+R | 7.5 | 2850 | 21 | 
+| 2015-10-17 | 第6回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Park Shiun | Rui Naiwei | Win | B+1.5 | 7.5 | 2829 | 59 | 
+| 2015-09-18 | 第17期女流名人戦（韓国）2回戦 | Park Shiun | Lee Sula | Win | B+5.5 | 6.5 | 2770 | -50 | 
+| 2015-07-02 | 第17期女流名人戦（韓国）1回戦 | Kim Cheayoung | Park Shiun | Win | W+R | 6.5 | 2820 | -21 | 
+| 2015-04-01 | 第1回韓国女子囲碁リーグ優勝決定戦第3戦 | Park Taehee | Park Shiun | Lose | B+R | 6.5 | 2841 | -5 | 
+| 2015-03-31 | 第1回韓国女子囲碁リーグ優勝決定戦第2戦 | Oh Yujin | Park Shiun | Lose | B+0.5 | 6.5 | 2846 | -16 | 
+| 2015-03-30 | 第1回韓国女子囲碁リーグ優勝決定戦第1戦 | Park Shiun | Hei Jiajia | Win | B+R | 6.5 | 2862 | 5 | 
+| 2015-03-20 | 第1回韓国女子囲碁リーグ第14節 | Park Shiun | Hei Jiajia | Lose | W+R | 6.5 | 2857 | -197 | 
+| 2015-03-14 | 第1回韓国女子囲碁リーグ第13節 | Park Shiun | Kim Miri | Lose | W+R | 6.5 | 3054 | -14 | 
+| 2015-03-10 | 第1回韓国女子囲碁リーグ第12節 | Kim Hyeoimin | Park Shiun | Win | W+R | 6.5 | 3068 | -64 | 
+| 2015-02-27 | 第1回韓国女子囲碁リーグ第10節 | Kim Sinyoung | Park Shiun | Win | W+1.5 | 6.5 | 3132 | -19 | 
+| 2015-02-24 | 第1回韓国女子囲碁リーグ第9節 | Park Shiun | Kim Cheayoung | Win | B+R | 6.5 | 3151 | 75 | 
+| 2015-02-21 | 第1回韓国女子囲碁リーグ第8節 |  | Park Shiun | Win | W+1.5 | 6.5 | 3076 | 65 | 
+| 2015-02-15 | 第1回韓国女子囲碁リーグ第7節 | Lee Youngjoo | Park Shiun | Win | W+0.5 | 6.5 | 3011 | -25 | 
+| 2015-02-10 | 第1回韓国女子囲碁リーグ第6節 | Park Shiun | Kim Miri | Win | B+R | 6.5 | 3036 | 42 | 
+| 2015-02-08 | 第1回韓国女子囲碁リーグ第5節 | Park Shiun |  | Win | B+R | 6.5 | 2994 | -15 | 
+| 2015-01-27 | 第1回韓国女子囲碁リーグ第3節 | Park Shiun | Yu Zhiying | Lose | W+8.5 | 6.5 | 3009 | -38 | 
+| 2015-01-23 | 第1回韓国女子囲碁リーグ第2節 | Park Shiun | Kim Cheayoung | Win | B+R | 6.5 | 3047 | -5 | 
+| 2015-01-17 | 第1回韓国女子囲碁リーグ第1節 | Park Shiun |  | Lose | W+1.5 | 6.5 | 3052 | 7 | 
+| 2015-01-07 | 第16回マキシムコーヒー杯入神最強戦1回戦 | Paek Hongseok | Park Shiun | Lose | B+9.5 | 6.5 | 3045 | 127 | 
+| 2014-09-19 | 第20期女流国手戦1回戦 | Choi Jeong | Park Shiun | Lose | B+R | 6.5 | 2918 | 93 | 
+| 2014-08-04 | 第19回三星火災杯統合予選女子枠3回戦 | Park Shiun | Fujisawa Rina | Lose | W+R | 6.5 | 2825 | -45 | 
+| 2014-04-12 | 第4回黄竜士双登杯世界女子囲碁団体選手権第14戦 | Park Shiun | Wang Chenxing | Lose | W+R | 7.5 | 2870 | -16 | 
+| 2014-04-11 | 第4回黄竜士双登杯世界女子囲碁団体選手権第13戦 | Park Shiun | Yu Zhiying | Win | B+R | 7.5 | 2886 | 28 | 
+| 2014-04-04 | 第19期女流国手戦決勝三番勝負第3局 | Park Shiun | Kim Cheayoung | Lose | W+R | 6.5 | 2858 | -5 | 
+| 2014-04-02 | 第19期女流国手戦決勝三番勝負第2局 | Park Shiun | Kim Cheayoung | Lose | W+2.5 | 6.5 | 2863 | -28 | 
+| 2014-03-31 | 第19期女流国手戦決勝三番勝負第1局 | Kim Cheayoung | Park Shiun | Win | W+R | 6.5 | 2891 | 52 | 
+| 2014-02-26 | 第19期女流国手戦準決勝 | Park Shiun | Kim Sinyoung | Win | B+R | 6.5 | 2839 | 39 | 
+| 2014-01-27 | 第19期女流国手戦2回戦 | Lee Sula | Park Shiun | Win | W+R | 6.5 | 2800 | -35 | 
+| 2013-12-24 | 第15回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Park Shiun | Lose | B+R | 6.5 | 2835 | 31 | 
+| 2013-12-15 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Zhang Zhengping | Park Shiun | Win | W+R | 7.5 | 2804 | 0 | 
+| 2013-12-15 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Wang Chenxing | Park Shiun | Lose | B+R | 7.5 | 2804 | -17 | 
+| 2013-12-14 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Oh Jeonga | Park Shiun | Win | W+R | 7.5 | 2821 | 101 | 
+| 2013-12-13 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Park Shiun | Lose | B+3.5 | 7.5 | 2720 | 0 | 
+| 2013-12-13 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Zhang Zhengping | Park Shiun | Win | W+R | 7.5 | 2720 | 60 | 
+| 2013-11-19 | 第4回大舟杯プロシニア最強者戦1回戦 | Kim Dongmyeon | Park Shiun | Lose | B+R | 6.5 | 2660 | 149 | 
+| 2013-10-30 | 第6期女流棋聖戦（韓国）準決勝 | Park Shiun | Park Jiyeon | Win | B+R | 7.5 | 2511 | 0 | 
+| 2013-10-30 | 第6期女流棋聖戦（韓国）決勝 | Choi Jeong | Park Shiun | Lose | B+1.5 | 7.5 | 2511 | -124 | 
+| 2013-10-10 | 第19期女流国手戦1回戦 | Park Shiun | Lee Minjin | Win | B+R | 6.5 | 2635 | -101 | 
+| 2013-09-17 | 第7回GGオークション杯女流対シニア連勝対抗戦第22戦 | Park Shiun | Cho Hunhyun | Lose | W+R | 6.5 | 2736 | -60 | 
+| 2013-09-08 | 第4回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Mukai Chiaki | Park Shiun | Lose | B+R | 7.5 | 2796 | 26 | 
+| 2013-07-15 | 第15回農心杯韓国選抜戦 | Park Shiun | Kim Junghyun | Lose | W+R | 6.5 | 2770 | 79 | 
+| 2013-04-30 | 第9期物価情報杯プロ棋戦予選 | Park Shiun | Kim Seongjae | Lose | W+R | 6.5 | 2691 | -4 | 
+| 2013-04-28 | 第2回華頂茶業杯世界女子団体選手権第3戦 | Hei Jiajia | Park Shiun | Win | W+R | 7.5 | 2695 | -10 | 
+| 2013-04-27 | 第2回華頂茶業杯世界女子団体選手権第2戦 | Park Shiun | Xie Yimin | Win | B+R | 7.5 | 2705 | -47 | 
+| 2013-04-26 | 第2回華頂茶業杯世界女子団体選手権第1戦 | Park Shiun | Li He | Lose | W+2.5 | 7.5 | 2752 | 67 | 
+| 2012-12-14 | 第2回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Hei Jiajia | Park Shiun | Lose | B+1.5 | 7.5 | 2685 | -39 | 
+| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Rui Naiwei | Park Shiun | Lose | B+3.5 | 7.5 | 2724 | 0 | 
+| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Park Shiun | Su Shengfang | Win | B+15.5 | 7.5 | 2724 | -165 | 
+| 2012-11-06 | 第8期圓益杯十段戦1回戦 | Park Shiun | Kim Seongjae | Lose | W+1.5 | 6.5 | 2889 | -26 | 
+| 2012-10-31 | 第3回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Yu Zhiying | Park Shiun | Lose | B+1.5 | 7.5 | 2915 | -21 | 
+| 2012-10-30 | 第3回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Park Shiun | Wang Chenxing | Win | B+R | 7.5 | 2936 | -98 | 
+| 2012-10-04 | 第1期女流十段戦準決勝 | Park Shiun | Kim Hyeoimin | Lose | W+2.5 | 6.5 | 3034 | -46 | 
+| 2012-09-24 | 第1期女流十段戦2回戦 | Choi Jeong | Park Shiun | Win | W+R | 6.5 | 3080 | 14 | 
+| 2012-09-20 | 第18期女流国手戦1回戦 |  | Park Shiun | Lose | B+R | 6.5 | 3066 | -24 | 
+| 2012-07-05 | 第14期女流名人戦（韓国）敗者復活戦2回戦 | Park Shiun | Kim Miri | Lose | W+3.5 | 6.5 | 3090 | -31 | 
+| 2012-05-14 | 第14期女流名人戦（韓国）敗者復活戦1回戦 | Kim Cheayoung | Park Shiun | Win | W+R | 6.5 | 3121 | -78 | 
+| 2012-05-04 | 第14期女流名人戦（韓国）本戦1回戦 | Park Jiyeon | Park Shiun | Lose | B+4.5 | 6.5 | 3199 | -66 | 
+| 2012-04-28 | 第1回華頂茶業杯世界女子団体選手権第3戦 | Xie Yimin | Park Shiun | Win | W+R | 7.5 | 3265 | 36 | 
+| 2012-04-27 | 第1回華頂茶業杯世界女子団体選手権第2戦 | Park Shiun | Wang Chenxing | Win | B+R | 7.5 | 3229 | 37 | 
+| 2012-04-26 | 第1回華頂茶業杯世界女子団体選手権第1戦 | Park Shiun | Hei Jiajia | Win | B+R | 7.5 | 3192 | 7 | 
+| 2012-04-07 | 第2回黄竜士双登杯世界女子囲碁団体選手権第9戦 | Wang Chenxing | Park Shiun | Lose | B+3.5 | 7.5 | 3185 | -40 | 
+| 2012-03-21 | 第17期女流国手戦決勝三番勝負第3局 | Park Jiyeon | Park Shiun | Lose | B+2.5 | 6.5 | 3225 | -89 | 
+| 2012-03-13 | 第17期女流国手戦決勝三番勝負第2局 | Park Shiun | Park Jiyeon | Lose | W+0.5 | 6.5 | 3314 | -74 | 
+| 2012-02-14 | 第17期女流国手戦決勝三番勝負第1局 | Park Jiyeon | Park Shiun | Win | W+R | 6.5 | 3388 | 100 | 
+| 2011-12-15 | 第13期女流名人戦（韓国）敗者復活戦決勝 | Park Shiun | Kim Miri | Lose | W+R | 6.5 | 3288 | -58 | 
+| 2011-12-13 | 第17期女流国手戦準決勝 | Kim Miri | Park Shiun | Win | W+R | 6.5 | 3346 | 451 | 
+| 2011-11-17 | 第13期女流名人戦（韓国）本戦勝者組決勝 | Park Shiun | Choi Jeong | Lose | W+3.5 | 6.5 | 2895 | -45 | 
+| 2011-10-20 | 第17期女流国手戦2回戦 | Park Shiun | Cho Hyeyeon | Win | B+R | 6.5 | 2940 | -13 | 
+| 2011-10-13 | 第2回穹窿山兵聖杯世界女子囲碁選手権決勝 | Park Shiun | Tang Yi | Win | B+R | 7.5 | 2953 | -8 | 
+| 2011-10-11 | 第2回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Rui Naiwei | Park Shiun | Win | W+R | 7.5 | 2961 | 23 | 
+| 2011-10-10 | 第2回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Park Shiun | Yu Zhiying | Win | B+R | 7.5 | 2938 | 9 | 
+| 2011-10-09 | 第2回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Yoshida Mika | Park Shiun | Win | W+R | 7.5 | 2929 | 2 | 
+| 2011-09-22 | 第5回GGオークション杯女流対シニア連勝対抗戦第23戦 | Yoo Changhyuk | Park Shiun | Lose | B+R | 6.5 | 2927 | -13 | 
+| 2011-09-08 | 第13期女流名人戦（韓国）本戦2回戦 | Park Jiyeon | Park Shiun | Win | W+R | 6.5 | 2940 | -1 | 
+| 2011-08-25 | 第16回三星火災杯世界囲碁マスターズ1回戦F2 | Heo Yongho | Park Shiun | Lose | B+R | 6.5 | 2941 | -24 | 
+| 2011-08-24 | 第16回三星火災杯世界囲碁マスターズ1回戦F1 | Gu Li | Park Shiun | Lose | B+R | 6.5 | 2965 | 51 | 
+| 2011-08-02 | 第16回三星火災杯統合予選女子枠2回戦 | Hei Jiajia | Park Shiun | Win | W+5.5 | 6.5 | 2914 | 16 | 
+| 2011-07-27 | 第17期女流国手戦1回戦 | Park Shiun |  | Win | B+R | 6.5 | 2898 | 24 | 
+| 2011-07-08 | 第13回農心杯韓国選抜戦 | Lee Jihyun | Park Shiun | Win | W+T | 6.5 | 2874 | 2874 | 
+| 2011-06-22 | 第17期女流国手戦予選 | Park Shiun | Kim Cheayoung | Win | B+R | 6.5 | missing | -2934 | 
+| 2011-06-17 | 第13期女流名人戦（韓国）本戦1回戦 | Lee Tahye | Park Shiun | Win | W+R | 6.5 | 2934 | -7 | 
+| 2011-04-09 | 第1回黄竜士佳源杯世界女子囲碁団体選手権第3戦 | Li He | Park Shiun | Lose | B+3.5 | 7.5 | 2941 | -61 | 
+| 2011-04-08 | 第1回黄竜士佳源杯世界女子囲碁団体選手権第2戦 | Park Shiun | Xie Yimin | Win | B+R | 7.5 | 3002 | 24 | 
+| 2011-04-07 | 第1回黄竜士佳源杯世界女子囲碁団体選手権第1戦 | Park Shiun | Zhang Kaixin | Win | B+R | 7.5 | 2978 | 16 | 
+| 2011-03-28 | 第9回正官庄杯世界女子囲碁最強戦第14戦 | Rui Naiwei | Park Shiun | Win | W+R | 6.5 | 2962 | 56 | 
+| 2010-12-29 | 第12期女流名人戦（韓国）挑戦者決定戦 | Park Shiun | Cho Hyeyeon | Lose | W+9.5 | 6.5 | 2906 | -7 | 
+| 2010-11-11 | 第12期女流名人戦（韓国）本戦勝者組決勝 | Cho Hyeyeon | Park Shiun | Win | W+R | 6.5 | 2913 | -1 | 
+| 2010-10-28 | 第16期女流国手戦2回戦 |  | Park Shiun | Lose | B+1.5 | 6.5 | 2914 | -58 | 
+| 2010-10-22 | 第4回GGオークション杯女流対シニア連勝対抗戦第23戦 | Cho Hunhyun | Park Shiun | Win | W+4.5 | 6.5 | 2972 | 164 | 
+| 2010-09-29 | 第16期女流国手戦1回戦 | Park Shiun | Kim Hyeoimin | Win | B+R | 6.5 | 2808 | 6 | 
+| 2010-09-14 | 第1回穹窿山兵聖杯世界女子囲碁選手権決勝 | Park Shiun | Hei Jiajia | Win | B+R | 7.5 | 2802 | 150 | 
+| 2010-09-13 | 第1回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Park Shiun | Tang Yi | Win | B+R | 7.5 | 2652 | 32 | 
+| 2010-09-12 | 第1回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Park Shiun | Song Ronghui | Win | B+R | 7.5 | 2620 | -276 | 
+| 2010-09-11 | 第1回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Park Shiun |  | Win | B+R | 7.5 | 2896 | 303 | 
+| 2010-08-16 | 第12期女流名人戦（韓国）本戦2回戦 | Park Shiun | Lee Minjin | Win | B+R | 6.5 | 2593 | 23 | 
+| 2010-08-07 | 第15回三星火災杯統合予選決勝 | Park Jiyeon | Park Shiun | Lose | B+R | 6.5 | 2570 | 21 | 
+| 2010-06-15 | 第15期バッカス杯天元戦1回戦 | Park Shiun | Lee Taehyun | Lose | W+1.5 | 6.5 | 2549 | -6 | 
+| 2010-06-03 | 第12期女流名人戦（韓国）本戦1回戦 | Kim Eunseon | Park Shiun | Win | W+R | 6.5 | 2555 | 44 | 
+| 2010-04-30 | 第6期物価情報杯プロ棋戦リーグD | Hong Minpyo | Park Shiun | Lose | B+2.5 | 6.5 | 2511 | -11 | 
+| 2010-04-23 | 第15回LG杯予選 | Niu Yutian | Park Shiun | Lose | B+0.5 | 6.5 | 2522 | 13 | 
+| 2010-04-17 | 第6期物価情報杯プロ棋戦リーグD | Kang Dongyun | Park Shiun | Lose | B+3.5 | 7.5 | 2509 | -20 | 
+| 2010-02-04 | 第8回正官庄杯世界女子囲碁最強戦第14戦 | Li He | Park Shiun | Win | W+R | 6.5 | 2529 | 65 | 
+| 2010-02-03 | 第8回正官庄杯世界女子囲碁最強戦第13戦 | Park Shiun | Ye Gui | Win | B+3.5 | 6.5 | 2464 | 1 | 
+| 2010-02-02 | 第8回正官庄杯世界女子囲碁最強戦第12戦 | Park Shiun | Suzuki Ayumi | Win | B+R | 6.5 | 2463 | 48 | 
+| 2010-02-01 | 第8回正官庄杯世界女子囲碁最強戦第11戦 | Park Shiun | Song Ronghui | Win | B+R | 6.5 | 2415 | -190 | 
+| 2009-09-28 | 第11期女流名人戦（韓国）敗者復活戦3回戦 | Park Shiun | Cho Hyeyeon | Lose | W+R | 6.5 | 2605 | -19 | 
+| 2009-09-01 | 第11期女流名人戦（韓国）敗者復活戦2回戦 | Park Shiun | Lee Minjin | Win | B+R | 6.5 | 2624 | 14 | 
+| 2009-08-28 | 第8回正官庄杯世界女子囲碁最強戦韓国予選 | Lee Yongshin | Park Shiun | Win | W+R | 6.5 | 2610 | -6 | 
+| 2009-08-05 | 第14回三星火災杯統合予選2回戦 | Li He | Park Shiun | Win | W+R | 6.5 | 2616 | 127 | 
+| 2009-07-28 | 第11期女流名人戦（韓国）本戦2回戦 | Kim Hyeoimin | Park Shiun | Lose | B+4.5 | 6.5 | 2489 | -31 | 
+| 2009-07-22 | 第11回農心杯韓国選抜戦 | Hong Seongji | Park Shiun | Lose | B+R | 6.5 | 2520 | -39 | 
+| 2009-07-07 | 第3回GGオークション杯女流対シニア連勝対抗戦第16戦 | Park Yeongchan | Park Shiun | Lose | B+1.5 | 6.5 | 2559 | -84 | 
+| 2009-06-17 | 第11期女流名人戦（韓国）本戦1回戦 | Park Shiun | Yun Youngmin | Win | B+R | 6.5 | 2643 | 19 | 
+| 2009-06-01 | 第14期バッカス杯天元戦予選 | Choi Cheolhan | Park Shiun | Lose | B+R | 6.5 | 2624 | 56 | 
+| 2009-02-28 | 第1回BCカード杯世界選手権1回戦 | Lee Jungwoo | Park Shiun | Lose | B+R | 6.5 | 2568 | -28 | 
+| 2009-01-15 | 第7回正官庄杯世界女子囲碁最強戦第9戦 | Li He | Park Shiun | Lose | B+R | 6.5 | 2596 | -35 | 
+| 2009-01-14 | 第7回正官庄杯世界女子囲碁最強戦第8戦 | Suzuki Ayumi | Park Shiun | Win | W+R | 6.5 | 2631 | 32 | 
+| 2009-01-13 | 第7回正官庄杯世界女子囲碁最強戦第7戦 | Song Ronghui | Park Shiun | Win | W+R | 6.5 | 2599 | 217 | 
+| 2008-10-30 | 第14期女流国手戦1回戦 | Kim Yoonyoung | Park Shiun | Lose | B+2.5 | 6.5 | 2382 | -717 | 
+| 2008-10-09 | 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦三位決定戦 | Mannami Kana | Park Shiun | Win | W+R | 6.5 | 3099 | 0 | 
+| 2008-10-09 | 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Song Ronghui | Park Shiun | Lose | B+2.5 | 6.5 | 3099 | -102 | 
+| 2008-10-08 | 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Park Shiun | Hei Jiajia | Win | B+R | 6.5 | 3201 | 39 | 
+| 2008-10-07 | 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Rui Naiwei | Park Shiun | Win | W+2.5 | 6.5 | 3162 | 370 | 
+| 2008-08-02 | 第13回三星火災杯予選決勝 | Zheng Yan | Park Shiun | Lose | B+11.5 | 6.5 | 2792 | -32 | 
+| 2008-07-24 | 第2回GGオークション杯特別対局 | Park Shiun | Kim Ilhwan | Win | B+R | 6.5 | 2824 | -5 | 
+| 2008-07-09 | 第2回GGオークション杯女流対シニア連勝対抗戦第21戦 | Park Shiun | Yang Jaeho | Lose | W+6.5 | 6.5 | 2829 | -16 | 
+| 2008-07-03 | 第2回GGオークション杯女流対シニア連勝対抗戦第20戦 | Park Shiun | Seo Bongsoo | Win | B+6.5 | 6.5 | 2845 | 21 | 
+| 2008-07-02 | 第2回GGオークション杯女流対シニア連勝対抗戦第19戦 | Park Shiun | Cho Daehyeon | Win | B+1.5 | 6.5 | 2824 | 13 | 
+| 2008-06-26 | 第2回GGオークション杯女流対シニア連勝対抗戦第18戦 | Park Shiun | Choi Kyubyeong | Win | B+R | 6.5 | 2811 | 259 | 
+| 2008-03-28 | 第13期女流国手戦決勝三番勝負第3局 | Lee Minjin | Park Shiun | Win | W+3.5 | 6.5 | 2552 | 46 | 
+| 2008-03-18 | 第13期女流国手戦決勝三番勝負第2局 | Park Shiun | Lee Minjin | Win | B+2.5 | 6.5 | 2506 | 47 | 
+| 2008-03-11 | 第13期女流国手戦決勝三番勝負第1局 | Lee Minjin | Park Shiun | Lose | B+R | 6.5 | 2459 | 22 | 
+| 2008-02-22 | 第13期女流国手戦準決勝 | Park Shiun | Kim Hyeoimin | Win | B+R | 6.5 | 2437 | 31 | 
+| 2008-02-14 | 第5期電子ランド杯王中王戦予選 | Lee Sula | Park Shiun | Lose | B+R | 6.5 | 2406 | -4 | 
+| 2008-01-17 | 第1回遠洋地産杯世界女子プロオープン戦決勝三番勝負第3局 | Rui Naiwei | Park Shiun | Win | W+R | 7.5 | 2410 | 44 | 
+| 2008-01-16 | 第1回遠洋地産杯世界女子プロオープン戦決勝三番勝負第2局 | Rui Naiwei | Park Shiun | Win | W+R | 7.5 | 2366 | 78 | 
+| 2008-01-14 | 第1回遠洋地産杯世界女子プロオープン戦決勝三番勝負第1局 | Park Shiun | Rui Naiwei | Lose | W+0.5 | 7.5 | 2288 | 5 | 
+| 2008-01-03 | 第13期女流国手戦2回戦 | Park Shiun | Kim Soojin | Win | B+R | 6.5 | 2283 | 54 | 
+| 2007-12-04 | 第13期女流国手戦1回戦 | Park Shiun | Yun Youngmin | Win | B+R | 6.5 | 2229 | -163 | 
+| 2007-11-21 | 第2期女流棋聖戦（韓国）準決勝 | Rui Naiwei | Park Shiun | Lose | B+R | 6.5 | 2392 | -13 | 
+| 2007-11-20 | 第2期女流棋聖戦（韓国）1回戦 | Park Shiun | Park Jiyeon | Win | B+R | 6.5 | 2405 | 30 | 
+| 2007-11-01 | 第1回遠洋地産杯世界女子プロオープン戦準決勝 | Park Shiun | Yashiro Kumiko | Win | B+R | 7.5 | 2375 | 12 | 
+| 2007-10-31 | 第1回遠洋地産杯世界女子プロオープン戦3回戦 | Park Shiun | Kim Eunseon | Win | B+R | 7.5 | 2363 | 35 | 
+| 2007-10-30 | 第1回遠洋地産杯世界女子プロオープン戦2回戦 | Park Shiun | Ye Gui | Win | B+R | 7.5 | 2328 | 45 | 
+| 2007-10-02 | 第9期女流名人戦（韓国）敗者復活戦決勝 | Cho Hyeyeon | Park Shiun | Lose | B+R | 6.5 | 2283 | -1333 | 
+| 2007-09-11 | 第9期女流名人戦（韓国）敗者復活戦3回戦 | Kim Hyeoimin | Park Shiun | Win | W+R | 6.5 | 3616 | 924 | 
+| 2007-08-02 | 第12回三星火災杯予選決勝 | Cho Hyeyeon | Park Shiun | Lose | B+R | 6.5 | 2692 | -32 | 
+| 2007-08-01 | 第12回三星火災杯予選準決勝 | Fan Weijing | Park Shiun | Win | W+R | 6.5 | 2724 | -64 | 
+| 2007-07-24 | 第9期女流名人戦（韓国）敗者復活戦2回戦 | Park Shiun | Kim Eunseon | Win | B+R | 6.5 | 2788 | -25 | 
+| 2007-07-19 | 第1回大理旅遊杯世界女子プロ囲碁選手権戦決勝三番勝負第3局 | Park Shiun | Kim Hyeoimin | Win | B+1.5 | 7.5 | 2813 | 35 | 
+| 2007-07-18 | 第1回大理旅遊杯世界女子プロ囲碁選手権戦決勝三番勝負第2局 | Park Shiun | Kim Hyeoimin | Win | B+R | 7.5 | 2778 | 124 | 
+| 2007-07-16 | 第1回大理旅遊杯世界女子プロ囲碁選手権戦決勝三番勝負第1局 | Kim Hyeoimin | Park Shiun | Lose | B+1.5 | 7.5 | 2654 | -101 | 
+| 2007-06-21 | 第1回GGオークション杯女流対シニア連勝対抗戦第22戦 | Park Shiun | Cho Hunhyun | Win | B+0.5 | 6.5 | 2755 | 70 | 
+| 2007-05-03 | 第9期女流名人戦（韓国）敗者復活戦1回戦 |  | Park Shiun | Win | W+R | 6.5 | 2685 | 12 | 
+| 2007-04-17 | 第9期女流名人戦（韓国）本戦1回戦 | Park Shiun | Kim Hyeoimin | Lose | W+1.5 | 6.5 | 2673 | -109 | 
+| 2007-03-22 | 第4期電子ランド杯王中王戦1回戦 | Park Shiun | Kim JongJoon | Lose | W+5.5 | 6.5 | 2782 | 235 | 
+| 2007-02-15 | 第4期電子ランド杯王中王戦予選 |  | Park Shiun | Lose | B+3.5 | 6.5 | 2547 | 30 | 
+| 2007-01-16 | 第5回正官庄杯世界女子囲碁最強戦第8戦 | Zheng Yan | Park Shiun | Lose | B+2.5 | 6.5 | 2517 | 10 | 
+| 2006-12-19 | 第12期女流国手戦2回戦 | Lee Yongshin | Park Shiun | Lose | B+R | 6.5 | 2507 | -66 | 
+| 2006-11-29 | 第1回大理旅遊杯世界女子プロ囲碁選手権戦準決勝 | Park Shiun | Rui Naiwei | Win | B+R | 7.5 | 2573 | 66 | 
+| 2006-11-28 | 第1回大理旅遊杯世界女子プロ囲碁選手権戦3回戦 | Lu Jia | Park Shiun | Win | W+R | 7.5 | 2507 | 63 | 
+| 2006-11-26 | 第1回大理旅遊杯世界女子プロ囲碁選手権戦2回戦 | Park Shiun | Zhang Xuan | Win | B+R | 7.5 | 2444 | 31 | 
+| 2006-11-01 | 第12期女流国手戦1回戦 | Park Shiun | Yun Jihee | Win | B+R | 6.5 | 2413 | 3 | 
+| 2006-10-30 | 第8期女流名人戦（韓国）挑戦者決定戦 | Park Shiun | Lee Tahye | Lose | W+R | 6.5 | 2410 | -96 | 
+| 2006-10-25 | 第2期圓益杯十段戦1回戦 | Paek Hongseok | Park Shiun | Lose | B+2.5 | 6.5 | 2506 | 151 | 
+| 2006-08-01 | 第8期女流名人戦（韓国）本戦勝者組決勝 | Park Shiun | Cho Hyeyeon | Win | B+R | 6.5 | 2355 | -207 | 
+| 2006-06-27 | 第8期女流名人戦（韓国）本戦2回戦 | Park Shiun |  | Win | B+R | 6.5 | 2562 | -109 | 
+| 2006-05-11 | 第8期女流名人戦（韓国）本戦1回戦 | Kim Eunseon | Park Shiun | Win | W+R | 6.5 | 2671 | 23 | 
+| 2006-04-26 | 第11回LG杯予選 | Kong Jie | Park Shiun | Lose | B+R | 6.5 | 2648 | -113 | 
+| 2006-02-08 | 第11期女流国手戦敗者復活戦決勝 | Park Shiun | Rui Naiwei | Lose | W+4.5 | 6.5 | 2761 | -72 | 
+| 2006-01-18 | 第4回正官庄杯世界女子囲碁最強戦第13戦 | Ye Gui | Park Shiun | Lose | B+R | 6.5 | 2833 | -66 | 
+| 2006-01-17 | 第4回正官庄杯世界女子囲碁最強戦第12戦 | Park Shiun | Koyama Mitsuru | Win | B+4.5 | 6.5 | 2899 | -125 | 
+| 2006-01-16 | 第4回正官庄杯世界女子囲碁最強戦第11戦 | Park Shiun | Rui Naiwei | Win | B+1.5 | 6.5 | 3024 | 23 | 
+| 2006-01-13 | 第11期女流国手戦敗者復活戦3回戦 | Yun Yeongseon | Park Shiun | Win | W+4.5 | 6.5 | 3001 | 20 | 
+| 2005-12-16 | 第11期女流国手戦敗者復活戦2回戦 | Park Shiun | Kim Soojin | Win | B+2.5 | 6.5 | 2981 | -33 | 
+| 2005-11-24 | 第11期女流国手戦敗者復活戦1回戦 | Park Shiun | Lee Jihyun | Win | B+2.5 | 6.5 | 3014 | -26 | 
+| 2005-11-17 | 2005年韓国囲碁リーグ | Park Shiun | Seo Musang | Win | B+3.5 | 6.5 | 3040 | 208 | 
+| 2005-10-21 | 第9期SKガス杯新鋭プロ十傑戦リーグBプレーオフ | Park Shiun | Ko Keuntae | Lose | W+R | 6.5 | 2832 | -22 | 
+| 2005-10-10 | 第7期女流名人戦（韓国）挑戦者決定戦 | Cho Hyeyeon | Park Shiun | Lose | B+R | 6.5 | 2854 | -15 | 
+| 2005-09-29 | 2005年韓国囲碁リーグ | Park Shiun |  | Win | B+4.5 | 6.5 | 2869 | -2 | 
+| 2005-09-15 | 第9期SKガス杯新鋭プロ十傑戦リーグB | Park Shiun | Jin Donggyu | Lose | W+R | 6.5 | 2871 | -13 | 
+| 2005-09-13 | 第9期SKガス杯新鋭プロ十傑戦リーグB | Park Shiun | Kim Daeyoung | Win | B+R | 6.5 | 2884 | 14 | 
+| 2005-09-08 | 2005年韓国囲碁リーグ | Park Shiun | Jiang Zhujiu | Lose | W+2.5 | 6.5 | 2870 | -21 | 
+| 2005-09-02 | 第7期女流名人戦（韓国）本戦勝者組決勝 | Park Shiun | Hyun Mijin | Win | B+R | 6.5 | 2891 | 19 | 
+| 2005-08-25 | 2005年韓国囲碁リーグ | Park Shiun | Kim Hyeongwoo | Lose | W+3.5 | 6.5 | 2872 | -38 | 
+| 2005-08-03 | 第11期女流国手戦本戦1回戦 | Park Shiun | Kim Soojin | Lose | W+8.5 | 6.5 | 2910 | -21 | 
+| 2005-07-21 | 第7期女流名人戦（韓国）本戦2回戦 | Park Shiun | Lee Hajin | Win | B+R | 6.5 | 2931 | 26 | 
+| 2005-07-18 | 第5期オスラムコリア杯新鋭連勝最強戦プレーオフ | Hong Seongji | Park Shiun | Win | W+R | 6.5 | 2905 | 6 | 
+| 2005-07-12 | 第9期SKガス杯新鋭プロ十傑戦リーグB | Park Byeongkyu | Park Shiun | Win | W+4.5 | 6.5 | 2899 | 30 | 
+| 2005-07-07 | 2005年韓国囲碁リーグ | Jin Donggyu | Park Shiun | Win | W+R | 6.5 | 2869 | 365 | 
+| 2005-06-21 | 第5期オスラムコリア杯新鋭連勝最強戦第19戦 | Lee Yeongkyu | Park Shiun | Lose | B+R | 6.5 | 2504 | -24 | 
+| 2005-06-16 | 2005年韓国囲碁リーグ |  | Park Shiun | Win | W+4.5 | 6.5 | 2528 | -19 | 
+| 2005-05-19 | 2005年韓国囲碁リーグ | Lee Jungwoo | Park Shiun | Lose | B+7.5 | 6.5 | 2547 | -99 | 
+| 2005-04-14 | 第7期女流名人戦（韓国）本戦1回戦 | Park Shiun |  | Win | B+R | 6.5 | 2646 | -380 | 
+| 2005-02-16 | 第10期女流国手戦敗者復活戦2回戦 | Yun Yeongseon | Park Shiun | Lose | B+2.5 | 6.5 | 3026 | -113 | 
+| 2005-02-14 | 第9期SKガス杯新鋭プロ十傑戦リーグB | Ko Keuntae | Park Shiun | Win | W+8.5 | 6.5 | 3139 | 101 | 
+| 2005-01-24 | 第10期女流国手戦敗者復活戦2回戦 | Park Shiun | Kim Hyeoimin | Win | B+R | 6.5 | 3038 | 21 | 
+| 2005-01-20 | 第3回正官庄杯世界女子囲碁最強戦第14戦 | Rui Naiwei | Park Shiun | Lose | B+R | 6.5 | 3017 | -25 | 
+| 2005-01-19 | 第3回正官庄杯世界女子囲碁最強戦第13戦 | Zhang Xuan | Park Shiun | Win | W+4.5 | 6.5 | 3042 | 64 | 
+| 2005-01-18 | 第3回正官庄杯世界女子囲碁最強戦第12戦 | Xu Ying | Park Shiun | Win | W+8.5 | 6.5 | 2978 | 112 | 
+| 2004-12-27 | 第10期女流国手戦本戦2回戦 | Park Shiun | Cho Hyeyeon | Lose | W+1.5 | 6.5 | 2866 | 63 | 
+| 2004-10-05 | 第8期SKガス杯新鋭プロ十傑戦九位決定戦 | Hong Seongji | Park Shiun | Win | W+5.5 | 6.5 | 2803 | -141 | 
+| 2004-09-24 | 第8期SKガス杯新鋭プロ十傑戦リーグA | Park Shiun | Park Seunghyeon | Win | B+R | 6.5 | 2944 | 51 | 
+| 2004-09-21 | 第10期女流国手戦本戦1回戦 |  | Park Shiun | Win | W+R | 6.5 | 2893 | -89 | 
+| 2004-09-16 | 第1回中環杯世界囲碁選手権1回戦 | Park Shiun | Cho U | Lose | W+R | 6.5 | 2982 | 242 | 
+| 2004-08-03 | 第9回三星火災杯予選決勝 | Park Shiun |  | Lose | W+1.5 | 6.5 | 2740 | -9 | 
+| 2004-07-12 | 第8期SKガス杯新鋭プロ十傑戦リーグA | Park Cheongsang | Park Shiun | Lose | B+R | 6.5 | 2749 | -112 | 
+| 2004-04-21 | 第8期SKガス杯新鋭プロ十傑戦リーグA | Park Shiun |  | Win | B+R | 6.5 | 2861 | -50 | 
+| 2004-04-09 | 第8期SKガス杯新鋭プロ十傑戦リーグA | Park Shiun | Paek Daehyun | Lose | W+R | 6.5 | 2911 | 37 | 
+| 2004-02-23 | 第8期SKガス杯新鋭プロ十傑戦リーグA | Chen Shiyuan | Park Shiun | Lose | B+1.5 | 6.5 | 2874 | 165 | 
+| 2004-01-07 | 第2回正官庄杯世界女子囲碁最強戦決勝三番勝負第2局 | Park Shiun | Yun Yeongseon | Win | B+1.5 | 6.5 | 2709 | 8 | 
+| 2004-01-05 | 第2回正官庄杯世界女子囲碁最強戦決勝三番勝負第1局 | Yun Yeongseon | Park Shiun | Win | W+3.5 | 6.5 | 2701 | 130 | 
+| 2003-11-27 | 第2回正官庄杯世界女子囲碁最強戦準決勝第3局 | Rui Naiwei | Park Shiun | Win | W+R | 6.5 | 2571 | 124 | 
+| 2003-11-25 | 第2回正官庄杯世界女子囲碁最強戦準決勝第2局 | Rui Naiwei | Park Shiun | Lose | B+R | 6.5 | 2447 | -6 | 
+| 2003-11-24 | 第2回正官庄杯世界女子囲碁最強戦準決勝第1局 | Park Shiun | Rui Naiwei | Win | B+R | 6.5 | 2453 | 7257 | 
+| 2003-11-13 | 第5回農心辛ラーメン杯世界囲碁最強戦第6戦 | Kobayashi Koichi | Park Shiun | Lose | B+7.5 | 6.5 | -4804 | -9698 | 
+| 2003-10-14 | 第5期女流名人戦（韓国）敗者復活戦決勝 | Cho Hyeyeon | Park Shiun | Lose | B+R | 6.5 | 4894 | -128 | 
+| 2003-10-09 | 第2回正官庄杯世界女子囲碁最強戦2回戦 | Zhang Kaixin | Park Shiun | Win | W+R | 6.5 | 5022 | 170 | 
+| 2003-10-08 | 第2回正官庄杯世界女子囲碁最強戦1回戦 | Abe Yumiko | Park Shiun | Win | W+R | 6.5 | 4852 | 12798 | 
+| 2003-09-03 | 第5期女流名人戦（韓国）敗者復活戦3回戦 | Park Shiun | Kim Hyeoimin | Win | B+2.5 | 6.5 | -7946 | -7946 | 
+| 2003-08-13 | 第5回農心杯韓国選抜戦 |  | Park Shiun | Win | W+R | 6.5 | missing | 8359 | 
+| 2003-07-18 | 第5期女流名人戦（韓国）敗者復活戦2回戦 | Park Shiun | Yun Yeongseon | Win | B+8.5 | 6.5 | -8359 | -8359 | 
+| 2003-06-20 | 第5期女流名人戦（韓国）敗者復活戦1回戦 |  | Park Shiun | Win | W+R | 6.5 | missing | 0 | 
+| 2003-06-09 | 第5期女流名人戦（韓国）本戦1回戦 | Cho Hyeyeon | Park Shiun | Lose | B+R | 6.5 | missing | 0 | 
+| 2003-01-22 | 第22回KBS杯囲碁王戦本戦1回戦 |  | Park Shiun | Lose | B+R | 6.5 | missing | 0 | 
+| 2002-12-18 | 第1回正官庄杯世界女子囲碁最強戦2回戦 | Park Shiun | Hua Xueming | Lose | W+6.5 | 6.5 | missing | 0 | 
+| 2002-11-07 | 第1回正官庄杯世界女子囲碁最強戦1回戦 | Kato Tomoko | Park Shiun | Win | W+R | 6.5 | missing | 0 | 
+| 2002-08-02 | 第8期女流国手戦敗者復活戦2回戦 | Park Shiun | Yun Yeongseon | Lose | W+R | 6.5 | missing | 0 | 
+| 2002-07-26 | 第7期三星杯予選2回戦 | Park Shiun | Yamada Takuji | Lose | W+3.5 | 6.5 | missing | 0 | 
+| 2002-07-16 | 第8期女流国手戦本戦2回戦 | Park Shiun | Rui Naiwei | Lose | W+R | 6.5 | missing | -8184 | 
+| 2001-09-20 | 第36期覇王戦本戦第5局 | Yoo Changhyuk | Park Shiun | Lose | B+R | 6.5 | 8184 | 5970 | 
+| 2001-08-01 | 第5期SKガス杯新鋭プロ十傑戦リーグA | Park Shiun | Yang Keon | Lose | W+R | 6.5 | 2214 | 2214 | 
+| 2001-07-16 | 第1期オスラムコリア杯新鋭連勝最強戦 | Ju Hyeongwuk | Park Shiun | Lose | B+2.5 | 6.5 | missing | -2472 | 
+| 2001-04-18 | 第20回KBS杯囲碁王戦敗者復活戦1回戦 |  | Park Shiun | Lose | B+R | 6.5 | 2472 | -20 | 
+| 2001-04-02 | 第3期女流名人戦（韓国）本戦1回戦 | Park Shiun | Hyun Mijin | Lose | W+R | 6.5 | 2492 | -97 | 
+| 2001-03-16 | 第20回KBS杯囲碁王戦本戦2回戦 | Park Shiun | Lee Jaeung | Lose | W+R | 6.5 | 2589 | -86 | 
+| 2001-02-26 | 第2期女流名人戦（韓国）挑戦手合三番勝負第3局 | Park Shiun | Rui Naiwei | Lose | W+R | 6.5 | 2675 | -41 | 
+| 2001-02-16 | 第2回興倉杯世界女流囲碁選手権戦決勝三番勝負第3局 | Park Shiun | Rui Naiwei | Lose | W+R | 6.5 | 2716 | -109 | 
+| 2001-02-14 | 第2回興倉杯世界女流囲碁選手権戦決勝三番勝負第2局 | Rui Naiwei | Park Shiun | Lose | B+2.5 | 6.5 | 2825 | -39 | 
+| 2001-02-12 | 第2回興倉杯世界女流囲碁選手権戦決勝三番勝負第1局 | Park Shiun | Rui Naiwei | Win | B+6.5 | 6.5 | 2864 | -75 | 
+| 2001-02-03 | 第2期女流名人戦（韓国）挑戦手合三番勝負第2局 | Park Shiun | Rui Naiwei | Win | B+R | 6.5 | 2939 | 60 | 
+| 2001-01-30 | 第2期女流名人戦（韓国）挑戦手合三番勝負第1局 | Rui Naiwei | Park Shiun | Lose | B+R | 6.5 | 2879 | -14 | 
+| 2001-01-11 | 第2回興倉杯世界女流囲碁選手権戦準決勝 | Yun Yeongseon | Park Shiun | Win | W+2.5 | 6.5 | 2893 | 28 | 
+| 2001-01-09 | 第2回興倉杯世界女流囲碁選手権戦3回戦 | Hua Xueming | Park Shiun | Win | W+R | 6.5 | 2865 | 2865 | 
+| 2000-09-30 | 第2回興倉杯世界女流囲碁選手権戦2回戦 | Kobayashi Izumi | Park Shiun | Win | W+R | 6.5 | missing | 0 | 
+| 2000-09-06 | 第19回KBS杯囲碁王戦敗者復活戦準決勝 | Mok Jinseok | Park Shiun | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-08-16 | 第19回KBS杯囲碁王戦敗者復活戦4回戦 | Yoo Changhyuk | Park Shiun | Win | W+3.5 | 6.5 | missing | 0 | 
+| 2000-07-13 | 第7期女流国手戦敗者復活戦3回戦 |  | Park Shiun | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-07-12 | 第19回KBS杯囲碁王戦本戦4回戦 |  | Park Shiun | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-06-30 | 第7期女流国手戦本戦2回戦 | Rui Naiwei | Park Shiun | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-06-14 | 第19回KBS杯囲碁王戦本戦3回戦 | Yun Hyuk | Park Shiun | Win | W+R | 6.5 | missing | 0 | 
+| 2000-03-06 | 第19回KBS杯囲碁王戦本戦2回戦 | Cho Hunhyun | Park Shiun | Win | W+R | 6.5 | missing | 0 | 
+| 1999-10-02 | 第1回興倉杯世界女流囲碁選手権戦2回戦 | Abe Yumiko | Park Shiun | Lose | B+R | 6.5 | missing | 0 | 
+| 1999-09-30 | 第1回興倉杯世界女流囲碁選手権戦1回戦 | Ye Gui | Park Shiun | Win | W+9.5 | 6.5 | missing | missing |
 
 
 

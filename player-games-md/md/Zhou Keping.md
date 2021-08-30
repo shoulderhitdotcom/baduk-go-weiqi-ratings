@@ -5,138 +5,139 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第2期聯電杯プロ囲碁戦予選 | Lin Yuxiang | Zhou Keping | B+R | 2021-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E00YzOEOSQrEJYeDQpqVkQ%3D%3D) | 
-| 第11期友士杯十段戦予選 | Zhou Keping | Lu Yiquan | W+R | 2021-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h0j%2BZNbbcJMOFpZDq82euA%3D%3D) | 
-| 第11期友士杯十段戦予選 | Zhou Keping | Lin Shimin | W+8.5 | 2021-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BQ%2FJ8kMFE3NfsFEK6FRclw%3D%3D) | 
-| 第17期国手戦（台湾） | Zhou Keping | Lai Junfu | W+R | 2021-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CGp25IH9hrFuH1WyyIuY5Q%3D%3D) | 
-| 第2期名人冠軍戦予選 | Zhou Keping | Liu Yaowen | W+R | 2021-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UATxWg0HRSkAaxj0CYTz9Q%3D%3D) | 
-| 第2期名人冠軍戦予選 | Lu Yiquan | Zhou Keping | B+3.5 | 2021-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WcK6vmOiZCola3R4u6pZAg%3D%3D) | 
-| 第2期名人冠軍戦予選 | Gao Yun | Zhou Keping | B+R | 2021-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wfnxClWGW3CH821LvSt7pg%3D%3D) | 
-| 第20期天元戦（台湾）予選 | Zhou Keping | missing | W+R | 2021-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ob3CoaTas%2BHFqJMvivXxdQ%3D%3D) | 
-| 第20期天元戦（台湾）予選 | Dang Xiyun | Zhou Keping | W+R | 2021-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EkAfgeEO7vk4Xxgl2M202g%3D%3D) | 
-| 第13回海峰杯プロ囲碁戦1回戦 | Zhou Keping | Jian Jingting | W+R | 2021-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3xb%2FP6LTG97p6nfKC%2BBtaA%3D%3D) | 
-| 第20期天元戦（台湾）予選 | Zhou Keping | missing | B+R | 2021-01-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BhUV0yF3rLyEQnXo4Rx7IA%3D%3D) | 
-| 第1回UMC聯電杯早碁争覇戦予選 | Zhou Keping | missing | W+1.5 | 2020-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yT0ZPyhFVJCeX9yPSY%2B2AQ%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Dai Jiashen | Zhou Keping | B+R | 2020-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fhgNrU1xWQxt7BNux%2FUMkg%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Zhou Keping | missing | W+3.5 | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1WhqWjbzW0R7oI8PY5tYDQ%3D%3D) | 
-| 第16期国手戦（台湾）1回戦 | missing | Zhou Keping | B+1.5 | 2020-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Pma2TLavPiOPkVh68dcuw%3D%3D) | 
-| 第8期中環碁聖戦2回戦 | Zhou Keping | Cai Chengwei | W+R | 2020-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d7pVpnD5KRJFDVnzXlJZCg%3D%3D) | 
-| 第13期棋王戦（台湾）予選 | Zhou Keping | missing | B+R | 2020-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M59EEsG0ToGotausx5LmCw%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦予選 | Zhou Keping | missing | W+R | 2020-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gqq059yTpU%2FZjQe50Pftqw%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦予選 | Zhou Keping | Lin Yuxiang | B+R | 2020-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iZ2AtL2iBI58Mp3QU6253Q%3D%3D) | 
-| 第1期聯電杯プロ囲碁戦予選 | Zhou Keping | missing | B+R | 2020-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bhpmdp3MNV32Pbw%2B5M5mPQ%3D%3D) | 
-| 第10期友士杯十段戦予選敗部3回戦 | Zhou Keping | Xu Yuqi | W+R | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f%2BB4gRz%2B%2Bpc%2FfTb2XryeMw%3D%3D) | 
-| 第10期友士杯十段戦予選敗部1回戦 | missing | Zhou Keping | W+R | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GzicadF8TPj0q07Z0HE%2FTQ%3D%3D) | 
-| 第10期友士杯十段戦予選勝部1回戦 | Zhou Keping | Lin Shengyi | W+0.5 | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GcWInkn8r%2BAYjvY5amJCjA%3D%3D) | 
-| 第19期天元戦（台湾）予選 | Zhou Pingqiang | Zhou Keping | B+7.5 | 2020-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hYTOcTjR1Ao0f0ZN24PUew%3D%3D) | 
-| 第15期国手戦（台湾）2回戦 | Zhou Keping | Jian Jingting | W+R | 2019-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qZOGsZaebDaIulRYCOBoUg%3D%3D) | 
-| 第7期中環碁聖戦1回戦 | Zhou Keping | missing | W+R | 2019-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=utCaRJjYLtT2Fyw4KUqv5g%3D%3D) | 
-| 第12期棋王戦（台湾）資格戦勝部決勝 | Zhou Keping | Chen Yida | W+T | 2019-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gK6LGczr%2BqJ7VJ2tvJwkWA%3D%3D) | 
-| 第15期国手戦（台湾）1回戦 | Zhou Keping | Lin Shengyi | B+R | 2019-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D8%2FRBKmreYud1ezh8tlK4A%3D%3D) | 
-| 第12期棋王戦（台湾）資格戦勝部1回戦 | missing | Zhou Keping | W+6.5 | 2019-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=usNA7wT0JJidn4bdiYdH9Q%3D%3D) | 
-| 第7期中環碁聖戦1回戦 | Zhou Keping | Li Wei | B+0.5 | 2019-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PgaIaVly9RU7VN7vCiwQMA%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦32強戦 | Zhou Keping | Xiao Zhenghao | W+R | 2019-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c2sKQNu2W33kvkD%2F8l4txw%3D%3D) | 
-| 第11回海峰杯プロ囲碁戦64強戦 | Zhou Keping | Dang Xiyun | B+0.5 | 2019-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PZvLFxqUhviXWpig5j7g4g%3D%3D) | 
-| 第14期国手戦（台湾）16強戦 | Xu Haohong | Zhou Keping | B+R | 2018-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yzB5L4OEmSzx0kjLB2kusg%3D%3D) | 
-| 第14期国手戦（台湾）2回戦 | Zhou Keping | Lin Zhihan | B+2.5 | 2018-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K6uqhXFxIdoNUa0vb5tNsw%3D%3D) | 
-| 第6期中環碁聖戦3回戦 | Lin Junyan | Zhou Keping | B+R | 2018-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FAWfsO3FigFy9JQZPOPVnA%3D%3D) | 
-| 第11期棋王戦（台湾）予選敗部2回戦 | missing | Zhou Keping | B+R | 2018-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zqxmzo05TxsYOtZnxF%2BKBw%3D%3D) | 
-| 第14期国手戦（台湾）1回戦下半区 | Zhou Keping | Lin Jiehan | b +1.5 | 2018-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=llozFrW3FFBFyEMgsArqfQ%3D%3D) | 
-| 第11期棋王戦（台湾）予選勝部2回戦 | Chen Shiyuan | Zhou Keping | B+R | 2018-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bJwJnmumTDNfh9D8Onr9Xg%3D%3D) | 
-| 第11期棋王戦（台湾）予選勝部1回戦 | Zhou Keping | Zhang Kaixin | B+R | 2018-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LX9Nqx199ERfrMM2CJutiQ%3D%3D) | 
-| 第6期中環碁聖戦1回戦下半区 補戦 | Zhou Keping | Yang Mengyun | B+0.5 | 2018-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DVGP56DEzq%2F2z8uTmX%2F4Ug%3D%3D) | 
-| 第8期友士杯十段戦予選 | missing | Zhou Keping | W+0.5 | 2018-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3ycZ12pvXgQli7SN6WxS7w%3D%3D) | 
-| 第8期友士杯十段戦予選 | Zhou Keping | Chen Xi | W+2.5 | 2018-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xxCGdZgsEiPnJx6teXcrrg%3D%3D) | 
-| 第8期友士杯十段戦予選 | Zhou Keping | missing | W+16.5 | 2018-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6TQsZP%2B1GWyyo9TD2wFwcw%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦32強戦 | Zhou Keping | Xu Haohong | W+R | 2018-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qC5ldy6grUjTtdMh4rgUFA%3D%3D) | 
-| 第10回海峰杯プロ囲碁戦64強戦 | Zhou Keping | Su Shengfang | B+R | 2018-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=foxGCXrB3t8Z5hZhHARjWw%3D%3D) | 
-| 第十七回天元戦予選第一回戦 | Zhou Keping | Zhao Peizhe | W+R | 2018-01-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RQzzF1rzYNAqgk46WYkRTA%3D%3D) | 
-| 第13期国手戦（台湾）首輪下半区 | Li Wei | Zhou Keping | B+R | 2017-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FWuKGZ60%2FZAlO4rDDRKQFw%3D%3D) | 
-| 第5期中環碁聖戦首輪上半区 | Jian Jingting | Zhou Keping | B+R | 2017-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qr7qwDoJhdTHOzATjRoPLg%3D%3D) | 
-| 第9回海峰杯プロ囲碁戦64強戦 | Zhou Keping | Liu Yaowen | W+R | 2017-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mbaa3qpR6B0xaL45JZUKFw%3D%3D) | 
-| 第6期友士杯十段戦予選 | Zhou Keping | Xia Daming | W+R | 2016-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mA1RRABv9AmxpR1Xa%2FRScQ%3D%3D) | 
-| 第6期友士杯十段戦予選 | Zhou Keping | Ding Shaojie | B+R | 2016-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CamsIHymkJmvPCGEB8uKqQ%3D%3D) | 
-| 第6期友士杯十段戦予選 | Zhou Keping | Chen Xi | W+R | 2016-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1pYRK8QBDTAbpF0VYbuCjQ%3D%3D) | 
-| 第8回海峰杯プロ囲碁戦64強戦 | Zhou Keping | Huang Shiyuan | W+R | 2016-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DmV9OgIYVgfTX6ZEiWOWNw%3D%3D) | 
-| 第7回海峰杯プロ囲碁戦64強戦 | Zhou Keping | missing | W+R | 2015-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JRSr85yPY1OS4NVDgbuafg%3D%3D) | 
-| 第6回海峰杯プロ囲碁戦32強戦 | Lin Shuyang | Zhou Keping | B+R | 2014-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VHT43g%2FVHMciBQEweLChjg%3D%3D) | 
-| 第6回海峰杯プロ囲碁戦64強戦 | Huang Chengyi | Zhou Keping | W+R | 2014-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aSpuEX%2FG9%2FbnnR80FojM4w%3D%3D) | 
-| 2014年日台精鋭交流戦第3戦 | Zhou Keping | Yo Kaei | B+5.5 | 2014-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iRnnsOX3Byi%2BEgXdMddikQ%3D%3D) | 
-| 2014年日台精鋭交流戦第1戦 | Yo Kagen | Zhou Keping | W+0.5 | 2014-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ssIGkIKWTfyAnvr3N5NyTw%3D%3D) | 
-| 第5回海峰杯プロ囲碁戦64強戦 | Lin Tingyi | Zhou Keping | B+R | 2013-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qLl7d6Fa6EtWODR5RD5O5A%3D%3D) | 
-| 第4回海峰杯プロ囲碁戦64強戦 | Zhou Keping | Xiao Ailin | W+0.5 | 2012-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=imwi7fDRnjVDRheqB3GnUA%3D%3D) | 
-| 第8期国手戦（台湾）予選 | Xia Daming | Zhou Keping | B+0.5 | 2012-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lyg4HHzCdxrYe%2F%2FISS5hYw%3D%3D) | 
-| 第3回海峰杯プロ囲碁戦32強戦 | Liu Yaowen | Zhou Keping | B+R | 2011-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FyfQQ2fgKMPNAG%2Ffb1MbdA%3D%3D) | 
-| 第3回海峰杯プロ囲碁戦64強戦 | Zhou Keping | missing | B+R | 2011-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JBjLKKEgMTnT5%2FeZYI6eHw%3D%3D) | 
-| 第2回海峰杯プロ囲碁戦8強戦 | Zhou Keping | missing | W+R | 2010-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zlZ9j3QTArNsbMnZBFRaQQ%3D%3D) | 
-| 第2回海峰杯プロ囲碁戦16強戦 | Zhou Keping | Chen Shiyuan | B+R | 2010-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6HNLHdp%2FXsN9UGKNc8GIwA%3D%3D) | 
-| 第2回海峰杯プロ囲碁戦32強戦 | Zhou Keping | Dang Xiyun | B+R | 2010-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=241LrhgnU0eKdJYQVgetlg%3D%3D) | 
-| 第3期棋王戦（台湾）予選 | Zhang Zhengping | Zhou Keping | B+0.5 | 2010-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FgmXvHXE%2BKkrEoVRS8G5OA%3D%3D) | 
-| 第3期棋王戦（台湾）予選 | Zhou Keping | missing | W+R | 2009-12-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=odRdh1OTrCc9Yx9cOjE%2BWQ%3D%3D) | 
-| 第3期棋王戦（台湾）予選 | missing | Zhou Keping | W+R | 2009-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BkCGIkCVsG3ElM2acHSuPg%3D%3D) | 
-| 第1回海峰杯プロ囲碁戦8強戦 | Zhou Keping | Wang Yuanjun | W+R | 2009-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SNXya%2Fl56vDkGXVkJ4qgDg%3D%3D) | 
-| 第1回海峰杯プロ囲碁戦16強戦 | Zhou Keping | missing | B+R | 2009-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mbk60tTLdNmYVrRWklUgdQ%3D%3D) | 
-| 第1回海峰杯プロ囲碁戦32強戦 | Lin Shuyang | Zhou Keping | W+5.5 | 2009-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Xn9WrzSgUq3QSo9MEV3dA%3D%3D) | 
-| 第1回海峰杯プロ囲碁戦64強戦 | Zhou Keping | missing | B+R | 2009-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mNT8O%2BJYYohtqbLsnW1W3A%3D%3D) | 
-| 第3期国手戦（台湾）リーグ | Zhou Keping | Xiao Zhenghao | W+3.5 | 2007-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BJMuMZ9e4Vmod5EvCx2vaA%3D%3D) | 
-| 第3期国手戦（台湾）リーグ | Zhou Keping | Zhou Pingqiang | W+R | 2007-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mcmM9mMd%2BqRHq979qU4rjQ%3D%3D) | 
-| 第3期国手戦（台湾）リーグ | Chen Yida | Zhou Keping | B+R | 2007-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wgtp0IVARKURYwHEOS4VBQ%3D%3D) | 
-| 第3期国手戦（台湾）リーグ | Lin Zhihan | Zhou Keping | B+R | 2007-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9z9diRPAqZK6OgAke2FbFw%3D%3D) | 
-| 第12回LG杯世界棋王戦1回戦 | Zhou Keping | Liu Jing | W+R | 2007-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R86%2BzQyUB%2BByl8bC5i88hA%3D%3D) | 
-| 第14期中環杯囲碁オープン戦2回戦 | Xia Daming | Zhou Keping | B+3.5 | 2007-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Aw8E01vztSB97IuT4CU3hA%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯台湾予選 | Zhou Keping | Chen Shiyuan | W+R | 2007-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a4x6maTTZHzQ%2FYZHbL%2Bk9w%3D%3D) | 
-| 第6期東鋼杯プロ囲碁戦4回戦 | Zhou Keping | Zhou Pingqiang | B+3.5 | 2006-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AhT5K%2FYRrgJmFsimC4jfjA%3D%3D) | 
-| 第2期王座戦（台湾）予選 | Huang Xiangren | Zhou Keping | B+R | 2006-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tlmiy2089wUivxoYUa%2FJJw%3D%3D) | 
-| 第2期王座戦（台湾）予選 | Zhou Keping | Chen Yida | W+R | 2006-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KajwxhZJjxmc%2FhVVMuusGw%3D%3D) | 
-| 第2期王座戦（台湾）予選 | Yu Zhengqi | Zhou Keping | W+R | 2006-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=05YPXITw8gOMrCpzc%2B82bA%3D%3D) | 
-| 第1期王座戦（台湾）リーグ | Yu Keimin | Zhou Keping | B+R | 2006-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c0%2FTqCcyqd6STO60LEVZVg%3D%3D) | 
-| 第5期天元戦（台湾）予選 | Chen Shiyuan | Zhou Keping | B+7.5 | 2006-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xYovlb6hD9WEAUqotro8YA%3D%3D) | 
-| 第1期王座戦（台湾）リーグ | Lin Shengxian | Zhou Keping | W+R | 2006-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y5CxWyPpOQUlC%2BSgkeVz0A%3D%3D) | 
-| 第1期王座戦（台湾）リーグ | Zhou Keping | Lin Zhihan | W+R | 2006-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ra8kJrPfsbhYkJX5maD1Yg%3D%3D) | 
-| 第1期王座戦（台湾）リーグ | Zhou Keping | Chen Shiyuan | W+14.5 | 2006-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xyaZa88w4lLvFLWac56EYQ%3D%3D) | 
-| 第1期王座戦（台湾）リーグ | Zhou Keping | Xiao Zhenghao | W+3.5 | 2006-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YgDCDLBQOba40Hs1bfG7Tw%3D%3D) | 
-| 第5期天元戦（台湾）予選 | Zhou Yinnan | Zhou Keping | B+R | 2006-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A2P%2FGb8S9pgdsFL2MGuqVg%3D%3D) | 
-| 第1期王座戦（台湾）リーグ | Zhou Keping | missing | B+3.5 | 2006-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pH82H%2FCX%2F4%2FdYdkM21Przw%3D%3D) | 
-| 第5期天元戦（台湾）予選 | Zhou Keping | Liao Guanhong | B+R | 2006-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yGhUxmqjiqoG0O7s1z1IpQ%3D%3D) | 
-| 第1期王座戦（台湾）リーグ | Zhou Keping | Huang Xiangren | B+R | 2006-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BWNQceWaYx0nG%2FbiytBqsw%3D%3D) | 
-| 第1期王座戦（台湾）予選 | Lin Shuyang | Zhou Keping | W+R | 2006-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u2IHamME2ddLSPPIbngmIQ%3D%3D) | 
-| 第5期天元戦（台湾）予選 | Zhou Keping | Huang Xiangren | B+0.5 | 2006-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0R5Cais90eyIIRyG4eA2Jg%3D%3D) | 
-| 第1期王座戦（台湾）予選 | Xia Daming | Zhou Keping | W+R | 2006-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lqR8co1ayaQkZeV%2FTX3I8g%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦台湾予選 | Zhou Keping | Yang Mengyun | W+R | 2006-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5rWjD7M7RvMV%2F7pBEFY0eA%3D%3D) | 
-| 第1期王座戦（台湾）予選 | Zhang Kaixin | Zhou Keping | W+R | 2006-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X8jlI%2FqUgBk5%2Beb22ZvcjA%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦台湾予選 | Zhou Pingqiang | Zhou Keping | W+0.5 | 2006-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XBbjn9W1NLDMsjsf8DgY4g%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦台湾予選 | Wang Yunzhong | Zhou Keping | W+R | 2006-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BhyGJSLToWGsECzQ%2Bdslkw%3D%3D) | 
-| 第5期天元戦（台湾）予選 | Zhou Keping | Liu Jianchang | B+R | 2006-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B9CV0lz8faFmS2CrwrdwXQ%3D%3D) | 
-| 第1期王座戦（台湾）予選 | missing | Zhou Keping | W+6.5 | 2006-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9YMCt9xuqx3sCL%2FEy1A2mg%3D%3D) | 
-| 第6回CMC杯テレビ早碁戦2回戦 | Zhou Keping | Lin Shuyang | W+R | 2005-12-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hnfnzKZ2GqNde%2BbOR%2Fw6Vw%3D%3D) | 
-| 第1期王座戦（台湾）予選 | Zhou Keping | Yu Keimin | W+R | 2005-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eK0AVwO%2F5yUBC037X5jOzg%3D%3D) | 
-| 第1期王座戦（台湾）予選 | Zhou Yinnan | Zhou Keping | W+R | 2005-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c4y4PYjrAK1FqReK3AcHFQ%3D%3D) | 
-| 第5期東鋼杯プロ囲碁戦2回戦 | missing | Zhou Keping | B+R | 2005-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NCNaVzcvDySg9epCobpjUQ%3D%3D) | 
-| 第5期東鋼杯プロ囲碁戦1回戦 | missing | Zhou Keping | W+R | 2005-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e5pWHM0WuqJgPnWaEiVH6Q%3D%3D) | 
-| 第1期国手戦（台湾）予選 | Lin Shuyang | Zhou Keping | B+R | 2005-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lh64fXSuE7tjhVA3y9fRXw%3D%3D) | 
-| 第1期国手戦（台湾）予選 | missing | Zhou Keping | W+R | 2005-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h0yydRC13S3GaBgTPKmyZg%3D%3D) | 
-| 第1期国手戦（台湾）予選 | Zhou Junxun | Zhou Keping | W+1.5 | 2005-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oe6S6L%2B%2F6zX4BGI8rLUW6Q%3D%3D) | 
-| 第4期台湾棋院杯プロ囲碁戦リーグ | Zhou Keping | Huang Xiangren | W+R | 2005-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OaZgK7hEs0aBO4EtxPEWkA%3D%3D) | 
-| 第4期台湾棋院杯プロ囲碁戦リーグ | Zhou Keping | Lin Zhihan | W+R | 2005-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5FDDwY6GD01JtHW7U2XntQ%3D%3D) | 
-| 第4期台湾棋院杯プロ囲碁戦リーグ | Yang Mengyun | Zhou Keping | W+R | 2004-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3%2FbUbR7nePHCPEAdpsYp0w%3D%3D) | 
-| 第4期台湾棋院杯プロ囲碁戦リーグ | Zhou Keping | Dai Jiashen | W+R | 2004-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fjrm0Zie7tsTjgqvWu0HIw%3D%3D) | 
-| 第4期台湾棋院杯プロ囲碁戦リーグ | Zhou Keping | missing | B+0.5 | 2004-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oTFsKkq3Dz3%2BNnXzkCH9dA%3D%3D) | 
-| 第4期台湾棋院杯プロ囲碁戦予選 | Zhou Keping | Xia Daming | B+1.5 | 2004-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jung7TcSTGS08wGeCTVWVQ%3D%3D) | 
-| 第5回CMC杯テレビ早碁戦第1輪1回戦 | Huang Xiangren | Zhou Keping | B+R | 2004-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=msxyhidERM652w9N0oizdg%3D%3D) | 
-| 第1回中環杯世界囲碁選手権1回戦 | Zhou Keping | Kato Masao | W+R | 2004-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zDLQlIvSkei43XY3LJHa8w%3D%3D) | 
-| 第3期天元戦（台湾）リーグA | Zhou Keping | missing | B+R | 2004-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HG9NV5EvQ0TINOWyRon%2BUA%3D%3D) | 
-| 第3期天元戦（台湾）予選 | Wei Haoting | Zhou Keping | W+4.5 | 2004-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M6GD6H0KfphPdSuuavl4sQ%3D%3D) | 
-| 第3期台湾棋院杯プロ囲碁戦リーグ | Zhou Keping | Chen Yida | W+R | 2003-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=967%2BcX4auy1ORDGY8NLn2A%3D%3D) | 
-| 第3期台湾棋院杯プロ囲碁戦リーグ | Zhou Keping | Zhou Pingqiang | B+1.5 | 2003-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a5Bx1SLUeWJkCebvV3VrGQ%3D%3D) | 
-| 第3期台湾棋院杯プロ囲碁戦リーグ | Zhou Keping | Zhou Junxun | B+1.5 | 2003-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jME87EhTZmOKWlVNulLDBA%3D%3D) | 
-| 第3期台湾棋院杯プロ囲碁戦リーグ | Zhou Keping | Dai Jiashen | W+R | 2003-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dRzqtfMCdAzwRpH6iT3cAA%3D%3D) | 
-| 第4回CMC杯テレビ早碁戦1回戦 | Zhou Keping | Zhou Pingqiang | W+R | 2003-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QQ2SC91hOiHv%2BATeptmmuA%3D%3D) | 
-| 第3期東鋼杯プロ囲碁戦3回戦 | Zhou Keping | missing | B+6.5 | 2003-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UeIy8by1QZTERj%2FgqFjOUQ%3D%3D) | 
-| 第3期東鋼杯プロ囲碁戦2回戦 | Zhou Yinnan | Zhou Keping | W+R | 2003-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fybErcQitQ2pdRB1Id8Tsw%3D%3D) | 
-| 第3期東鋼杯プロ囲碁戦1回戦 | Zhou Keping | Dai Jiashen | B+R | 2003-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qK3UVqMZClKRppi9%2Fj7dow%3D%3D) | 
-| 第3期東鋼杯プロ囲碁戦予選 | Zhou Pingqiang | Zhou Keping | W+R | 2003-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=355UblVFXLLBeLlHwEvbAg%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 第14期棋王戦（台湾）予選 | Zhou Keping | Liu Jianchang | Win | B+R | 6.5 | 2092 | -31 | 
+| 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Lin Yuxiang | Zhou Keping | Lose | B+R | 6.5 | 2123 | -52 | 
+| 2021-04-01 | 第11期友士杯十段戦予選 | Zhou Keping | Lu Yiquan | Lose | W+R | 6.5 | 2175 | 0 | 
+| 2021-04-01 | 第11期友士杯十段戦予選 | Zhou Keping | Lin Shimin | Lose | W+8.5 | 6.5 | 2175 | 64 | 
+| 2021-03-26 | 第17期国手戦（台湾） | Zhou Keping | Lai Junfu | Lose | W+R | 6.5 | 2111 | -74 | 
+| 2021-02-25 | 第2期名人冠軍戦予選 | Zhou Keping | Liu Yaowen | Lose | W+R | 6.5 | 2185 | -26 | 
+| 2021-02-22 | 第2期名人冠軍戦予選 | Lu Yiquan | Zhou Keping | Lose | B+3.5 | 6.5 | 2211 | -19 | 
+| 2021-02-18 | 第2期名人冠軍戦予選 | Gao Yun | Zhou Keping | Lose | B+R | 6.5 | 2230 | -135 | 
+| 2021-01-12 | 第20期天元戦（台湾）予選 | Zhou Keping |  | Lose | W+R | 6.5 | 2365 | -47 | 
+| 2021-01-08 | 第20期天元戦（台湾）予選 | Dang Xiyun | Zhou Keping | Win | W+R | 6.5 | 2412 | 85 | 
+| 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Zhou Keping | Jian Jingting | Lose | W+R | 6.5 | 2327 | 28 | 
+| 2021-01-05 | 第20期天元戦（台湾）予選 | Zhou Keping |  | Win | B+R | 6.5 | 2299 | 8 | 
+| 2020-10-07 | 第1回UMC聯電杯早碁争覇戦予選 | Zhou Keping |  | Lose | W+1.5 | 6.5 | 2291 | 68 | 
+| 2020-09-21 | 第13期棋王戦（台湾）予選 | Dai Jiashen | Zhou Keping | Lose | B+R | 6.5 | 2223 | -129 | 
+| 2020-09-17 | 第13期棋王戦（台湾）予選 | Zhou Keping |  | Lose | W+3.5 | 6.5 | 2352 | 34 | 
+| 2020-09-15 | 第16期国手戦（台湾）1回戦 |  | Zhou Keping | Lose | B+1.5 | 6.5 | 2318 | -167 | 
+| 2020-09-13 | 第8期中環碁聖戦2回戦 | Zhou Keping | Cai Chengwei | Lose | W+R | 6.5 | 2485 | 196 | 
+| 2020-09-03 | 第13期棋王戦（台湾）予選 | Zhou Keping |  | Win | B+R | 6.5 | 2289 | -193 | 
+| 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Zhou Keping |  | Lose | W+R | 6.5 | 2482 | -19 | 
+| 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Zhou Keping | Lin Yuxiang | Win | B+R | 6.5 | 2501 | 85 | 
+| 2020-05-15 | 第1期聯電杯プロ囲碁戦予選 | Zhou Keping |  | Win | B+R | 6.5 | 2416 | 159 | 
+| 2020-03-19 | 第10期友士杯十段戦予選敗部3回戦 | Zhou Keping | Xu Yuqi | Lose | W+R | 6.5 | 2257 | -31 | 
+| 2020-03-12 | 第10期友士杯十段戦予選敗部1回戦 |  | Zhou Keping | Win | W+R | 6.5 | 2288 | 0 | 
+| 2020-03-12 | 第10期友士杯十段戦予選勝部1回戦 | Zhou Keping | Lin Shengyi | Lose | W+0.5 | 6.5 | 2288 | -327 | 
+| 2020-01-08 | 第19期天元戦（台湾）予選 | Zhou Pingqiang | Zhou Keping | Lose | B+7.5 | 6.5 | 2615 | 43 | 
+| 2019-09-27 | 第15期国手戦（台湾）2回戦 | Zhou Keping | Jian Jingting | Lose | W+R | 6.5 | 2572 | 154 | 
+| 2019-09-08 | 第7期中環碁聖戦1回戦 | Zhou Keping |  | Lose | W+R | 6.5 | 2418 | -51 | 
+| 2019-09-05 | 第12期棋王戦（台湾）資格戦勝部決勝 | Zhou Keping | Chen Yida | Lose | W+T | 6.5 | 2469 | -82 | 
+| 2019-09-03 | 第15期国手戦（台湾）1回戦 | Zhou Keping | Lin Shengyi | Win | B+R | 6.5 | 2551 | 27 | 
+| 2019-09-02 | 第12期棋王戦（台湾）資格戦勝部1回戦 |  | Zhou Keping | Win | W+6.5 | 6.5 | 2524 | 10 | 
+| 2019-09-01 | 第7期中環碁聖戦1回戦 | Zhou Keping | Li Wei | Win | B+0.5 | 6.5 | 2514 | 24 | 
+| 2019-03-07 | 第11回海峰杯プロ囲碁戦32強戦 | Zhou Keping | Xiao Zhenghao | Lose | W+R | 6.5 | 2490 | -30 | 
+| 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 | Zhou Keping | Dang Xiyun | Win | B+0.5 | 6.5 | 2520 | 83 | 
+| 2018-10-09 | 第14期国手戦（台湾）16強戦 | Xu Haohong | Zhou Keping | Lose | B+R | 6.5 | 2437 | -7 | 
+| 2018-10-02 | 第14期国手戦（台湾）2回戦 | Zhou Keping | Lin Zhihan | Win | B+2.5 | 6.5 | 2444 | 168 | 
+| 2018-09-30 | 第6期中環碁聖戦3回戦 | Lin Junyan | Zhou Keping | Lose | B+R | 6.5 | 2276 | -14 | 
+| 2018-09-27 | 第11期棋王戦（台湾）予選敗部2回戦 |  | Zhou Keping | Lose | B+R | 6.5 | 2290 | -24 | 
+| 2018-09-25 | 第14期国手戦（台湾）1回戦下半区 | Zhou Keping | Lin Jiehan | Lose | b +1.5 | 6.5 | 2314 | -75 | 
+| 2018-09-20 | 第11期棋王戦（台湾）予選勝部2回戦 | Chen Shiyuan | Zhou Keping | Lose | B+R | 6.5 | 2389 | -16 | 
+| 2018-09-17 | 第11期棋王戦（台湾）予選勝部1回戦 | Zhou Keping | Zhang Kaixin | Win | B+R | 6.5 | 2405 | 64 | 
+| 2018-09-14 | 第6期中環碁聖戦1回戦下半区 補戦 | Zhou Keping | Yang Mengyun | Win | B+0.5 | 6.5 | 2341 | 107 | 
+| 2018-05-14 | 第8期友士杯十段戦予選 |  | Zhou Keping | Win | W+0.5 | 6.5 | 2234 | 0 | 
+| 2018-05-14 | 第8期友士杯十段戦予選 | Zhou Keping | Chen Xi | Lose | W+2.5 | 6.5 | 2234 | 319 | 
+| 2018-05-07 | 第8期友士杯十段戦予選 | Zhou Keping |  | Lose | W+16.5 | 6.5 | 1915 | -188 | 
+| 2018-03-08 | 第10回海峰杯プロ囲碁戦32強戦 | Zhou Keping | Xu Haohong | Lose | W+R | 6.5 | 2103 | 0 | 
+| 2018-03-08 | 第10回海峰杯プロ囲碁戦64強戦 | Zhou Keping | Su Shengfang | Win | B+R | 6.5 | 2103 | 2103 | 
+| 2018-01-02 | 第十七回天元戦予選第一回戦 | Zhou Keping | Zhao Peizhe | Lose | W+R | 6.5 | missing | 0 | 
+| 2017-09-12 | 第13期国手戦（台湾）首輪下半区 | Li Wei | Zhou Keping | Lose | B+R | 6.5 | missing | 0 | 
+| 2017-09-03 | 第5期中環碁聖戦首輪上半区 | Jian Jingting | Zhou Keping | Lose | B+R | 6.5 | missing | 0 | 
+| 2017-03-09 | 第9回海峰杯プロ囲碁戦64強戦 | Zhou Keping | Liu Yaowen | Lose | W+R | 6.5 | missing | 0 | 
+| 2016-05-20 | 第6期友士杯十段戦予選 | Zhou Keping | Xia Daming | Lose | W+R | 6.5 | missing | 0 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Zhou Keping | Ding Shaojie | Win | B+R | 6.5 | missing | 0 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Zhou Keping | Chen Xi | Lose | W+R | 6.5 | missing | 0 | 
+| 2016-03-07 | 第8回海峰杯プロ囲碁戦64強戦 | Zhou Keping | Huang Shiyuan | Lose | W+R | 6.5 | missing | 0 | 
+| 2015-03-05 | 第7回海峰杯プロ囲碁戦64強戦 | Zhou Keping |  | Lose | W+R | 6.5 | missing | -2623 | 
+| 2014-03-06 | 第6回海峰杯プロ囲碁戦32強戦 | Lin Shuyang | Zhou Keping | Lose | B+R | 6.5 | 2623 | 2623 | 
+| 2014-03-03 | 第6回海峰杯プロ囲碁戦64強戦 | Huang Chengyi | Zhou Keping | Win | W+R | 6.5 | missing | 0 | 
+| 2014-01-16 | 2014年日台精鋭交流戦第3戦 | Zhou Keping | Yo Kaei | Win | B+5.5 | 6.5 | missing | 0 | 
+| 2014-01-15 | 2014年日台精鋭交流戦第1戦 | Yo Kagen | Zhou Keping | Win | W+0.5 | 6.5 | missing | 0 | 
+| 2013-03-07 | 第5回海峰杯プロ囲碁戦64強戦 | Lin Tingyi | Zhou Keping | Lose | B+R | 6.5 | missing | 0 | 
+| 2012-10-18 | 第4回海峰杯プロ囲碁戦64強戦 | Zhou Keping | Xiao Ailin | Lose | W+0.5 | 6.5 | missing | 0 | 
+| 2012-05-08 | 第8期国手戦（台湾）予選 | Xia Daming | Zhou Keping | Lose | B+0.5 | 6.5 | missing | 0 | 
+| 2011-10-06 | 第3回海峰杯プロ囲碁戦32強戦 | Liu Yaowen | Zhou Keping | Lose | B+R | 6.5 | missing | 0 | 
+| 2011-09-29 | 第3回海峰杯プロ囲碁戦64強戦 | Zhou Keping |  | Win | B+R | 6.5 | missing | -2408 | 
+| 2010-09-30 | 第2回海峰杯プロ囲碁戦8強戦 | Zhou Keping |  | Lose | W+R | 6.5 | 2408 | -25 | 
+| 2010-09-23 | 第2回海峰杯プロ囲碁戦16強戦 | Zhou Keping | Chen Shiyuan | Win | B+R | 6.5 | 2433 | 38 | 
+| 2010-09-16 | 第2回海峰杯プロ囲碁戦32強戦 | Zhou Keping | Dang Xiyun | Win | B+R | 6.5 | 2395 | 12 | 
+| 2010-01-07 | 第3期棋王戦（台湾）予選 | Zhang Zhengping | Zhou Keping | Lose | B+0.5 | 6.5 | 2383 | -245 | 
+| 2009-12-31 | 第3期棋王戦（台湾）予選 | Zhou Keping |  | Lose | W+R | 6.5 | 2628 | -138 | 
+| 2009-12-24 | 第3期棋王戦（台湾）予選 |  | Zhou Keping | Win | W+R | 6.5 | 2766 | 2766 | 
+| 2009-10-15 | 第1回海峰杯プロ囲碁戦8強戦 | Zhou Keping | Wang Yuanjun | Lose | W+R | 6.5 | missing | 0 | 
+| 2009-09-17 | 第1回海峰杯プロ囲碁戦16強戦 | Zhou Keping |  | Win | B+R | 6.5 | missing | 0 | 
+| 2009-09-03 | 第1回海峰杯プロ囲碁戦32強戦 | Lin Shuyang | Zhou Keping | Win | W+5.5 | 6.5 | missing | 0 | 
+| 2009-08-20 | 第1回海峰杯プロ囲碁戦64強戦 | Zhou Keping |  | Win | B+R | 6.5 | missing | -2451 | 
+| 2007-08-05 | 第3期国手戦（台湾）リーグ | Zhou Keping | Xiao Zhenghao | Lose | W+3.5 | 6.5 | 2451 | -64 | 
+| 2007-07-29 | 第3期国手戦（台湾）リーグ | Zhou Keping | Zhou Pingqiang | Lose | W+R | 6.5 | 2515 | -25 | 
+| 2007-07-15 | 第3期国手戦（台湾）リーグ | Chen Yida | Zhou Keping | Lose | B+R | 6.5 | 2540 | -22 | 
+| 2007-07-10 | 第3期国手戦（台湾）リーグ | Lin Zhihan | Zhou Keping | Lose | B+R | 6.5 | 2562 | 50 | 
+| 2007-06-04 | 第12回LG杯世界棋王戦1回戦 | Zhou Keping | Liu Jing | Lose | W+R | 6.5 | 2512 | -69 | 
+| 2007-04-10 | 第14期中環杯囲碁オープン戦2回戦 | Xia Daming | Zhou Keping | Lose | B+3.5 | 6.5 | 2581 | 153 | 
+| 2007-02-06 | 第20回世界囲碁選手権富士通杯台湾予選 | Zhou Keping | Chen Shiyuan | Lose | W+R | 6.5 | 2428 | 186 | 
+| 2006-09-05 | 第6期東鋼杯プロ囲碁戦4回戦 | Zhou Keping | Zhou Pingqiang | Win | B+3.5 | 6.5 | 2242 | -121 | 
+| 2006-07-04 | 第2期王座戦（台湾）予選 | Huang Xiangren | Zhou Keping | Lose | B+R | 6.5 | 2363 | -182 | 
+| 2006-06-13 | 第2期王座戦（台湾）予選 | Zhou Keping | Chen Yida | Lose | W+R | 6.5 | 2545 | -17 | 
+| 2006-06-06 | 第2期王座戦（台湾）予選 | Yu Zhengqi | Zhou Keping | Win | W+R | 6.5 | 2562 | 0 | 
+| 2006-05-30 | 第1期王座戦（台湾）リーグ | Yu Keimin | Zhou Keping | Lose | B+R | 6.5 | 2562 | 66 | 
+| 2006-05-16 | 第5期天元戦（台湾）予選 | Chen Shiyuan | Zhou Keping | Lose | B+7.5 | 6.5 | 2496 | 111 | 
+| 2006-04-25 | 第1期王座戦（台湾）リーグ | Lin Shengxian | Zhou Keping | Win | W+R | 6.5 | 2385 | -7 | 
+| 2006-04-18 | 第1期王座戦（台湾）リーグ | Zhou Keping | Lin Zhihan | Lose | W+R | 6.5 | 2392 | -66 | 
+| 2006-04-11 | 第1期王座戦（台湾）リーグ | Zhou Keping | Chen Shiyuan | Lose | W+14.5 | 6.5 | 2458 | 54 | 
+| 2006-04-05 | 第1期王座戦（台湾）リーグ | Zhou Keping | Xiao Zhenghao | Lose | W+3.5 | 6.5 | 2404 | -33 | 
+| 2006-04-01 | 第5期天元戦（台湾）予選 | Zhou Yinnan | Zhou Keping | Lose | B+R | 6.5 | 2437 | -34 | 
+| 2006-03-28 | 第1期王座戦（台湾）リーグ | Zhou Keping |  | Win | B+3.5 | 6.5 | 2471 | 88 | 
+| 2006-03-21 | 第5期天元戦（台湾）予選 | Zhou Keping | Liao Guanhong | Win | B+R | 6.5 | 2383 | 24 | 
+| 2006-03-19 | 第1期王座戦（台湾）リーグ | Zhou Keping | Huang Xiangren | Win | B+R | 6.5 | 2359 | -20 | 
+| 2006-03-14 | 第1期王座戦（台湾）予選 | Lin Shuyang | Zhou Keping | Win | W+R | 6.5 | 2379 | 4 | 
+| 2006-03-07 | 第5期天元戦（台湾）予選 | Zhou Keping | Huang Xiangren | Win | B+0.5 | 6.5 | 2375 | 5 | 
+| 2006-03-03 | 第1期王座戦（台湾）予選 | Xia Daming | Zhou Keping | Win | W+R | 6.5 | 2370 | 37 | 
+| 2006-02-21 | 第3期トヨタ＆デンソー杯囲碁世界王座戦台湾予選 | Zhou Keping | Yang Mengyun | Lose | W+R | 6.5 | 2333 | -40 | 
+| 2006-02-14 | 第1期王座戦（台湾）予選 | Zhang Kaixin | Zhou Keping | Win | W+R | 6.5 | 2373 | -33 | 
+| 2006-01-19 | 第3期トヨタ＆デンソー杯囲碁世界王座戦台湾予選 | Zhou Pingqiang | Zhou Keping | Win | W+0.5 | 6.5 | 2406 | 80 | 
+| 2006-01-17 | 第3期トヨタ＆デンソー杯囲碁世界王座戦台湾予選 | Wang Yunzhong | Zhou Keping | Win | W+R | 6.5 | 2326 | 103 | 
+| 2006-01-12 | 第5期天元戦（台湾）予選 | Zhou Keping | Liu Jianchang | Win | B+R | 6.5 | 2223 | 54 | 
+| 2006-01-10 | 第1期王座戦（台湾）予選 |  | Zhou Keping | Win | W+6.5 | 6.5 | 2169 | 57 | 
+| 2005-12-25 | 第6回CMC杯テレビ早碁戦2回戦 | Zhou Keping | Lin Shuyang | Lose | W+R | 6.5 | 2112 | -248 | 
+| 2005-12-13 | 第1期王座戦（台湾）予選 | Zhou Keping | Yu Keimin | Lose | W+R | 6.5 | 2360 | -144 | 
+| 2005-10-23 | 第1期王座戦（台湾）予選 | Zhou Yinnan | Zhou Keping | Win | W+R | 6.5 | 2504 | 76 | 
+| 2005-07-31 | 第5期東鋼杯プロ囲碁戦2回戦 |  | Zhou Keping | Lose | B+R | 6.5 | 2428 | 2 | 
+| 2005-07-10 | 第5期東鋼杯プロ囲碁戦1回戦 |  | Zhou Keping | Win | W+R | 6.5 | 2426 | -80 | 
+| 2005-06-30 | 第1期国手戦（台湾）予選 | Lin Shuyang | Zhou Keping | Lose | B+R | 6.5 | 2506 | 222 | 
+| 2005-06-07 | 第1期国手戦（台湾）予選 |  | Zhou Keping | Win | W+R | 6.5 | 2284 | -40 | 
+| 2005-05-26 | 第1期国手戦（台湾）予選 | Zhou Junxun | Zhou Keping | Win | W+1.5 | 6.5 | 2324 | -216 | 
+| 2005-01-18 | 第4期台湾棋院杯プロ囲碁戦リーグ | Zhou Keping | Huang Xiangren | Lose | W+R | 6.5 | 2540 | -18 | 
+| 2005-01-11 | 第4期台湾棋院杯プロ囲碁戦リーグ | Zhou Keping | Lin Zhihan | Lose | W+R | 6.5 | 2558 | -23 | 
+| 2004-12-23 | 第4期台湾棋院杯プロ囲碁戦リーグ | Yang Mengyun | Zhou Keping | Win | W+R | 6.5 | 2581 | -12 | 
+| 2004-12-07 | 第4期台湾棋院杯プロ囲碁戦リーグ | Zhou Keping | Dai Jiashen | Lose | W+R | 6.5 | 2593 | -55 | 
+| 2004-11-30 | 第4期台湾棋院杯プロ囲碁戦リーグ | Zhou Keping |  | Win | B+0.5 | 6.5 | 2648 | 44 | 
+| 2004-11-18 | 第4期台湾棋院杯プロ囲碁戦予選 | Zhou Keping | Xia Daming | Win | B+1.5 | 6.5 | 2604 | -167 | 
+| 2004-09-26 | 第5回CMC杯テレビ早碁戦第1輪1回戦 | Huang Xiangren | Zhou Keping | Lose | B+R | 6.5 | 2771 | -321 | 
+| 2004-09-16 | 第1回中環杯世界囲碁選手権1回戦 | Zhou Keping | Kato Masao | Lose | W+R | 6.5 | 3092 | 124 | 
+| 2004-02-15 | 第3期天元戦（台湾）リーグA | Zhou Keping |  | Win | B+R | 6.5 | 2968 | -25 | 
+| 2004-02-03 | 第3期天元戦（台湾）予選 | Wei Haoting | Zhou Keping | Win | W+4.5 | 6.5 | 2993 | -46 | 
+| 2003-12-16 | 第3期台湾棋院杯プロ囲碁戦リーグ | Zhou Keping | Chen Yida | Lose | W+R | 6.5 | 3039 | -130 | 
+| 2003-12-09 | 第3期台湾棋院杯プロ囲碁戦リーグ | Zhou Keping | Zhou Pingqiang | Win | B+1.5 | 6.5 | 3169 | 45 | 
+| 2003-12-04 | 第3期台湾棋院杯プロ囲碁戦リーグ | Zhou Keping | Zhou Junxun | Win | B+1.5 | 6.5 | 3124 | 61 | 
+| 2003-12-02 | 第3期台湾棋院杯プロ囲碁戦リーグ | Zhou Keping | Dai Jiashen | Lose | W+R | 6.5 | 3063 | -8625 | 
+| 2003-10-19 | 第4回CMC杯テレビ早碁戦1回戦 | Zhou Keping | Zhou Pingqiang | Lose | W+R | 6.5 | 11688 | 11688 | 
+| 2003-09-30 | 第3期東鋼杯プロ囲碁戦3回戦 | Zhou Keping |  | Win | B+6.5 | 6.5 | missing | 0 | 
+| 2003-09-16 | 第3期東鋼杯プロ囲碁戦2回戦 | Zhou Yinnan | Zhou Keping | Win | W+R | 6.5 | missing | 0 | 
+| 2003-09-09 | 第3期東鋼杯プロ囲碁戦1回戦 | Zhou Keping | Dai Jiashen | Win | B+R | 6.5 | missing | 0 | 
+| 2003-09-07 | 第3期東鋼杯プロ囲碁戦予選 | Zhou Pingqiang | Zhou Keping | Win | W+R | 6.5 | missing | missing |
 
 
 

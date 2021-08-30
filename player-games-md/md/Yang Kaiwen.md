@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 第12期中国竜星戦予選 | Chen Hao | Yang Kaiwen | Win | W+R | 7.5 | 3585 | 3585 | 
+| 2021-08-25 | 第12期中国竜星戦予選 | Yang Kaiwen | Liu Qifeng | Win | B+¾ | 7.5 | missing | -3518 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Tan Xiao | Yang Kaiwen | Win | W+R | 7.5 | 3518 | 28 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Xu Jiayang | Yang Kaiwen | Win | W+R | 7.5 | 3490 | 8 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tao Xinran | Lose | W+R | 7.5 | 3482 | 6 | 

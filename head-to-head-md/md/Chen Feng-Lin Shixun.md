@@ -1,0 +1,14 @@
+## Chen Feng vs Lin Shixun Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Feng vs Lin Shixun** | **Chen Feng streak** | **Lin Shixun streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2016-05-20 | 第6期友士杯十段戦予選 | Chen Feng | Lin Shixun | W+R | 6.5 | 0:1 | 0 | 1 |
+
+
+
+

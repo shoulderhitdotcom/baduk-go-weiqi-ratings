@@ -7,9 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Huang Yunsong vs Li Weiqing** | **Huang Yunsong streak** | **Li Weiqing streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-08-18 | 第26回三星火災杯中国予選 | Li Weiqing | Huang Yunsong | B+R | 6.5 | 0:1 | 0 | 1 | 
-| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節江蘇-上海 | Huang Yunsong | Li Weiqing | W+R | 7.5 | 0:3 | 0 | 3 | 
-| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Huang Yunsong | Li Weiqing | W+R | 7.5 | 0:2 | 0 | 2 |
+| 2021-08-18 | 第26回三星火災杯中国予選 | Li Weiqing | Huang Yunsong | B+R | 6.5 | 0:3 | 0 | 3 | 
+| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節江蘇-上海 | Huang Yunsong | Li Weiqing | W+R | 7.5 | 0:2 | 0 | 2 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Huang Yunsong | Li Weiqing | W+R | 7.5 | 0:1 | 0 | 1 |
 
 
 

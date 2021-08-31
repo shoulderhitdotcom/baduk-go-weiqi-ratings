@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Yin vs Jiang Qirun** | **Fan Yin streak** | **Jiang Qirun streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節廈門-浙江 | Jiang Qirun | Fan Yin | W+R | 7.5 | 1:0 | 1 | 0 |
+| 2021-08-31 | 第12期中国竜星戦予選 | Fan Yin | Jiang Qirun | B+4¾ | 7.5 | 1:0 | 1 | 0 | 
+| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節廈門-浙江 | Jiang Qirun | Fan Yin | W+R | 7.5 | 2:0 | 2 | 0 |
 
 
 

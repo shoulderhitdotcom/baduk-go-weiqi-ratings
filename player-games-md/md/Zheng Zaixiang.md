@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-31 | 第12期中国竜星戦予選 | Zheng Zaixiang |  | Win | B+1¾ | 7.5 | 3086 | 134 | 
 | 2021-08-30 | 第12期中国竜星戦予選 |  | Zheng Zaixiang | Win | W+R | 7.5 | 2952 | -7 | 
 | 2021-05-25 | 第25期馬橋杯中国囲碁新人王戦2回戦 | Wang Xinghao | Zheng Zaixiang | Lose | B+R | 7.5 | 2959 | -275 | 
 | 2021-05-21 | 2021博思軟件杯中国囲碁新秀争覇戦準決勝 |  | Zheng Zaixiang | Lose | B+R | 7.5 | 3234 | -8 | 

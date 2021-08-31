@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-31 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Oh Kyuchul | Lose | B+3.5 | 6.5 | 2418 | -111 | 
 | 2021-08-16 | 2021韓国シニア囲碁リーグ | Oh Kyuchul | Park Seungmun | Lose | W+4.5 | 6.5 | 2529 | -42 | 
 | 2021-08-10 | 2021韓国シニア囲碁リーグ | Oh Kyuchul | Kang Hun | Win | B+R | 6.5 | 2571 | 35 | 
 | 2021-08-03 | 2021韓国シニア囲碁リーグ | Paek Seongho | Oh Kyuchul | Lose | B+4.5 | 6.5 | 2536 | 87 | 

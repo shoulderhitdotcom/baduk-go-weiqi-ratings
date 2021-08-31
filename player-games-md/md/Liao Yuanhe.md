@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-31 | 第12期中国竜星戦予選 | Liao Yuanhe | Liao Xingwen | Win | B+R | 7.5 | 3551 | 36 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Liao Yuanhe | Li Qincheng | Win | B+R | 7.5 | 3515 | 3515 | 
 | 2021-08-25 | 第26回三星火災杯中国予選 | Liao Yuanhe | Huang Yunsong | Win | B+R | 6.5 | missing | 0 | 
 | 2021-08-20 | 第26回三星火災杯中国予選 | Liao Yuanhe | Chen Zijian | Win | B+R | 6.5 | missing | -3563 | 

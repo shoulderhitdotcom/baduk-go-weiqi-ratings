@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-31 | 第26回三星火災杯中国予選 |  | Wang Chenxing | Lose | B+R | 6.5 | 3036 | -14 | 
 | 2021-08-27 | 第12期中国竜星戦予選 | Wang Chenxing |  | Lose | W+R | 7.5 | 3050 | -16 | 
 | 2021-08-26 | 第26回三星火災杯中国予選 | Wang Chenxing | Rui Naiwei | Lose | W+R | 6.5 | 3066 | -34 | 
 | 2021-08-19 | 第26回三星火災杯中国予選 | Wang Chenxing |  | Lose | W+R | 6.5 | 3100 | 3100 | 

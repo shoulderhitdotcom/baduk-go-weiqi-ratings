@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-31 | 第12期中国竜星戦予選 | Yi Lingtao | Zhang Tao | Lose | W+R | 7.5 | 3533 | 22 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Yi Lingtao |  | Win | B+R | 7.5 | 3511 | 3511 | 
 | 2021-08-20 | 第26回三星火災杯中国予選 | Tan Xiao | Yi Lingtao | Win | W+R | 6.5 | missing | -3464 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Yi Lingtao | Chen Zijian | Win | B+1.5 | 6.5 | 3464 | 12 | 

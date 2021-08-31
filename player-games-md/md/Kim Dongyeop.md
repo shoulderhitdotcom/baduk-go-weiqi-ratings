@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-31 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Oh Kyuchul | Win | B+3.5 | 6.5 | 2633 | -139 | 
+| 2021-08-26 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Park Yeongchan | Lose | W+R | 6.5 | 2772 | 122 | 
 | 2021-08-04 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | An Kwanwuk | Win | B+R | 6.5 | 2650 | -50 | 
 | 2021-06-26 | 2021韓国シニア囲碁大会決勝 | Kim Soojang | Kim Dongyeop | Win | W+5.5 | 6.5 | 2700 | 0 | 
 | 2021-06-26 | 2021韓国シニア囲碁大会準決勝 | Kim Chongsu | Kim Dongyeop | Win | W+11.5 | 6.5 | 2700 | 54 | 

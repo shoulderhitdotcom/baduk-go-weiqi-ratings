@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-31 | 第12期中国竜星戦予選 | Cao Xiaoyang | Tong Mengcheng | Lose | W+R | 7.5 | 3281 | -114 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Cao Xiaoyang | Tao Xinran | Win | B+4¼ | 7.5 | 3395 | -249 | 
 | 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Cao Xiaoyang | Han Yizhou | Lose | W+1¼ | 7.5 | 3644 | -24 | 
 | 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Cao Xiaoyang | Kim Jiseok | Lose | W+R | 7.5 | 3668 | -1 | 

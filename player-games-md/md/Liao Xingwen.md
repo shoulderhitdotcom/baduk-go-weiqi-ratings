@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-31 | 第12期中国竜星戦予選 | Liao Yuanhe | Liao Xingwen | Lose | B+R | 7.5 | 3228 | 7 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Liao Xingwen | Zhao Chenyu | Win | B+R | 7.5 | 3221 | -222 | 
 | 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Kim Jiseok | Liao Xingwen | Lose | B+¾ | 7.5 | 3443 | 3 | 
 | 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Liao Xingwen | Han Yizhou | Lose | W+R | 7.5 | 3440 | -10 | 

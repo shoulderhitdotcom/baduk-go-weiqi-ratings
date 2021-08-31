@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-31 | 第12期中国竜星戦予選 | Tuo Jiaxi | Ding Shixiong | Win | W+R | 7.5 | 3395 | 104 | 
 | 2021-08-24 | 第12期中国竜星戦予選 | Qin Yuexin | Ding Shixiong | Win | W+R | 7.5 | 3291 | 48 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Ding Shixiong | Zhao Chenyu | Win | B+R | 7.5 | 3243 | 62 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Ding Shixiong | Lose | B+R | 7.5 | 3181 | 11 | 

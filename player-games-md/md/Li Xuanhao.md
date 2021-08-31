@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-31 | 第12期中国竜星戦予選 | Chen Yunong | Li Xuanhao | Win | W+R | 7.5 | 3528 | 23 | 
 | 2021-08-27 | 第26回三星火災杯中国予選 | Wu Guangya | Li Xuanhao | Lose | B+R | 6.5 | 3505 | -26 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Li Xuanhao | Rong Yi | Win | B+¾ | 7.5 | 3531 | 3531 | 
 | 2021-08-25 | 第26回三星火災杯中国予選 | Li Xuanhao | Fan Yin | Lose | W+R | 6.5 | missing | 0 | 

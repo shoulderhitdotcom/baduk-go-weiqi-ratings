@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-31 | 第12期中国竜星戦予選 |  | Chen Xian | Lose | B+R | 7.5 | 3524 | 20 | 
 | 2021-08-30 | 第12期中国竜星戦予選 | Xie Erhao | Chen Xian | Win | W+R | 7.5 | 3504 | 3504 | 
 | 2021-08-25 | 第12期中国竜星戦予選 | Chen Xian |  | Win | B+R | 7.5 | missing | -3454 | 
 | 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Chen Xian | Shi Yue | Lose | W+R | 7.5 | 3454 | -27 | 

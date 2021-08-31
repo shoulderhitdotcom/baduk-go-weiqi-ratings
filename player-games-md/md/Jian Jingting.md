@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-31 | 第2期聯電杯プロ囲碁戦リーグ残留プレーオフ | Jian Jingting | Xu Haohong | Lose | W+R | 6.5 | 3172 | 15 | 
 | 2021-08-29 | 第2期聯電杯プロ囲碁戦リーグ |  | Jian Jingting | Win | W+R | 6.5 | 3157 | 6 | 
 | 2021-08-26 | 第2期聯電杯プロ囲碁戦リーグ | Jian Jingting | Chen Qirui | Lose | W+R | 6.5 | 3151 | -16 | 
 | 2021-08-24 | 第2期聯電杯プロ囲碁戦リーグ | Jian Jingting | Xu Haohong | Win | B+R | 6.5 | 3167 | 3167 | 

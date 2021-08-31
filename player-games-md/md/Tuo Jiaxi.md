@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-31 | 第12期中国竜星戦予選 | Tuo Jiaxi | Ding Shixiong | Lose | W+R | 7.5 | 3525 | -30 | 
 | 2021-08-27 | 第26回三星火災杯中国予選 | Chen Zijian | Tuo Jiaxi | Win | W+R | 6.5 | 3555 | 7 | 
 | 2021-08-24 | 第12期中国竜星戦予選 |  | Tuo Jiaxi | Win | W+R | 7.5 | 3548 | -5 | 
 | 2021-08-23 | 第26回三星火災杯中国予選 | Tuo Jiaxi | Tong Mengcheng | Lose | W+R | 6.5 | 3553 | 29 | 

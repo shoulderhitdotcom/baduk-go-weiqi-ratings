@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-31 | 第12期中国竜星戦予選 | Xie Ke | Dang Yifei | Win | B+¾ | 7.5 | 3600 | 27 | 
 | 2021-08-27 | 第12期中国竜星戦予選 | Xie Ke | Hu Yuhan | Win | B+R | 7.5 | 3573 | 98 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Xie Erhao | Xie Ke | Lose | B+1¾ | 7.5 | 3475 | -22 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Iyama Yuta | Xie Ke | Lose | B+R | 7.5 | 3497 | -14 | 

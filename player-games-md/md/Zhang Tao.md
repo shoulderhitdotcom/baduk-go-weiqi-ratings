@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-31 | 第12期中国竜星戦予選 | Yi Lingtao | Zhang Tao | Win | W+R | 7.5 | 3437 | 3437 | 
+| 2021-08-25 | 第12期中国竜星戦予選 |  | Zhang Tao | Win | W+¼ | 7.5 | missing | -3364 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Zhang Tao | Liao Yuanhe | Lose | W+R | 7.5 | 3364 | 5 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Chen Haoxin | Zhang Tao | Win | W+R | 7.5 | 3359 | 4 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Zhang Tao | Huang Mingyu | Lose | W+R | 7.5 | 3355 | -18 | 

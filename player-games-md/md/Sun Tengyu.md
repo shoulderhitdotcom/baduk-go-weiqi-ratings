@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-31 | 第12期中国竜星戦予選 | Han Yizhou | Sun Tengyu | Win | W+R | 7.5 | 3489 | 117 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Sun Tengyu |  | Win | B+¾ | 7.5 | 3372 | -1 | 
 | 2021-08-24 | 第12期中国竜星戦予選 | Kou Zhengyan | Sun Tengyu | Win | W+R | 7.5 | 3373 | -72 | 
 | 2021-03-18 | 第35期中国囲碁天元戦1回戦 | Sun Tengyu | Xu Jiayang | Lose | W+¼ | 7.5 | 3445 | 24 | 

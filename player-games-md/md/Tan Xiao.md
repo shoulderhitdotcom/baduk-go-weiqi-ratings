@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-31 | 第12期中国竜星戦予選 | Tan Xiao | Li Weiqing | Lose | W+R | 7.5 | 3525 | 14 | 
 | 2021-08-30 | 第26回三星火災杯中国予選 | Tan Xiao | Li Weiqing | Lose | W+R | 6.5 | 3511 | 11 | 
 | 2021-08-27 | 第26回三星火災杯中国予選 | Jiang Qirun | Tan Xiao | Win | W+R | 6.5 | 3500 | 6 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Tan Xiao |  | Win | B+R | 7.5 | 3494 | 3494 | 

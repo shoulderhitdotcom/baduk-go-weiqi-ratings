@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-31 | 2021韓国シニア囲碁リーグ | Kim Soojang | Seo Nungwuk | Win | W+R | 6.5 | 2722 | 64 | 
+| 2021-08-26 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Seo Nungwuk | Win | W+R | 6.5 | 2658 | 22 | 
 | 2021-08-04 | 2021韓国シニア囲碁リーグ | Kim Ilhwan | Seo Nungwuk | Win | W+28.5 | 6.5 | 2636 | -150 | 
 | 2021-02-15 | 第4期韓国竜星戦1回戦 | Park Sangjin | Seo Nungwuk | Lose | B+29.5 | 6.5 | 2786 | -77 | 
 | 2021-01-18 | 2021年韓国棋院杯シニア囲碁大会決勝 |  | Seo Nungwuk | Win | W+R | 6.5 | 2863 | 0 | 

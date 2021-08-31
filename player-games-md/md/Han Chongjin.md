@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-31 | 第15回GGオークション杯女流対シニア連勝対抗戦第12局 |  | Han Chongjin | Win | W+R | 6.5 | missing | 0 | 
 | 2021-08-30 | 第15回GGオークション杯女流対シニア連勝対抗戦第11局 | Park Shiun | Han Chongjin | Win | W+R | 6.5 | missing | -3018 | 
 | 2021-08-24 | 第15回GGオークション杯女流対シニア連勝対抗戦第10局 | Lee Youngjoo | Han Chongjin | Win | W+R | 6.5 | 3018 | 0 | 
 | 2021-08-23 | 第15回GGオークション杯女流対シニア連勝対抗戦第9局 | Cho Hyeyeon | Han Chongjin | Win | W+R | 6.5 | 3018 | 160 | 

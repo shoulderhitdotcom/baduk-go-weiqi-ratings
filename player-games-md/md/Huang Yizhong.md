@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-01 | 第12期中国竜星戦予選 | Huang Yizhong |  | Win | B+1¾ | 7.5 | missing | 0 | 
 | 2021-08-27 | 第12期中国竜星戦予選 | Huang Yizhong |  | Win | B+R | 7.5 | missing | -3128 | 
 | 2018-03-06 | 第9期中国竜星戦予選 | Huang Yizhong | Meng Tailing | Lose | W+R | 7.5 | 3128 | 5 | 
 | 2018-01-05 | 第3期洛陽白雲山杯中国棋聖戦入囲戦 | Huang Yizhong | Liu Qifeng | Lose | W+R | 7.5 | 3123 | 49 | 

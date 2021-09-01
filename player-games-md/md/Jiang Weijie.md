@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-01 | 第26回三星火災杯中国予選 | Tan Xiao | Jiang Weijie | Win | W+R | 6.5 | 3639 | 95 | 
 | 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Jiang Weijie | Zhao Chenyu | Lose | W+R | 7.5 | 3544 | 1 | 
 | 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Jiang Weijie | Zhao Chenyu | Lose | W+R | 7.5 | 3543 | -34 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Park Junghwan | Win | B+R | 7.5 | 3577 | 10 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-01 | 第12期中国竜星戦予選 | Song Ronghui | Wang Yubo | Lose | B+R | 7.5 | 2884 | -20 | 
 | 2021-08-27 | 第12期中国竜星戦予選 |  | Wang Yubo | Win | W+R | 7.5 | 2904 | -31 | 
 | 2021-06-09 | 第4回呉清源杯中国予選 | Li He | Wang Yubo | Lose | B+1¾ | 7.5 | 2935 | -16 | 
 | 2021-06-03 | 第4回呉清源杯中国予選 | Wang Yubo | Chen Yiming | Win | B+1¾ | 7.5 | 2951 | 20 | 

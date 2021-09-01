@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-01 | 第26回三星火災杯中国予選 | Dang Yifei | Lian Xiao | Win | B+0.5 | 6.5 | 3583 | 30 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Xie Ke | Dang Yifei | Lose | B+¾ | 7.5 | 3553 | 6 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Zhang Qiang | Dang Yifei | Win | W+R | 7.5 | 3547 | 3 | 
 | 2021-08-23 | 第26回三星火災杯中国予選 | Huang Yunsong | Dang Yifei | Win | W+R | 6.5 | 3544 | 3544 | 

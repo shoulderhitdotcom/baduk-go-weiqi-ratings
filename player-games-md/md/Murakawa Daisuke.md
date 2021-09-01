@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-01 | 第47期名人戦予選 | Hong Seokui | Murakawa Daisuke | Win | W+1.5 | 6.5 | 3318 | 63 | 
 | 2021-08-23 | 第28期阿含・桐山杯全日本早碁オープン戦準決勝 | Murakawa Daisuke | Iyama Yuta | Lose | W+R | 6.5 | 3255 | 28 | 
 | 2021-08-16 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Murakawa Daisuke | Win | W+R | 6.5 | 3227 | -12 | 
 | 2021-08-09 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Yamashita Keigo | Murakawa Daisuke | Win | W+R | 6.5 | 3239 | 55 | 

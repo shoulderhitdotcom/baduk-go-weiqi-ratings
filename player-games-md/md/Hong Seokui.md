@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-01 | 第47期名人戦予選 | Hong Seokui | Murakawa Daisuke | Lose | W+1.5 | 6.5 | 3059 | 3 | 
+| 2021-07-14 | 第47期名人戦予選 | Yamazaki Yoshihiro | Hong Seokui | Win | W+R | 6.5 | 3056 | 5 | 
 | 2021-07-07 | 第46期棋聖戦Bリーグ | Hong Seokui |  | Win | B+4.5 | 6.5 | 3051 | 19 | 
 | 2021-06-30 | 第60期十段戦予選 | Fujii Shuya | Hong Seokui | Win | W+R | 6.5 | 3032 | 86 | 
 | 2021-04-28 | 第47期碁聖戦予選 | Hong Seokui | Konno Tameto | Win | B+1.5 | 6.5 | 2946 | -125 | 

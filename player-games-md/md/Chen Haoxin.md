@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-02 | 第12期中国竜星戦予選 | Lyu Liyan | Chen Haoxin | Win | W+R | 7.5 | 3369 | 34 | 
 | 2021-09-01 | 第12期中国竜星戦予選 | Chen Haoxin |  | Win | B+R | 7.5 | 3335 | 98 | 
 | 2021-08-30 | 第12期中国竜星戦予選 | Chen Haoxin |  | Win | B+R | 7.5 | 3237 | 49 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Chen Haoxin | Lose | B+R | 7.5 | 3188 | 3 | 

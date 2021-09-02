@@ -7,7 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-07-01 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Seto Taiki | Cho U | Win | B+2.5 | 6.5 | 3093 | -1 | 
+| 2021-09-02 | 第60期十段戦予選 | Yamashita Keigo | Seto Taiki | Win | W+4.5 | 6.5 | 3149 | 36 | 
+| 2021-08-19 | 第46期棋聖戦Bリーグ | Seto Taiki | So Yokoku | Win | B+R | 6.5 | 3113 | 3113 | 
+| 2021-08-12 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Seto Taiki | Hsu Chiayuan | Lose | W+R | 6.5 | missing | -3094 | 
 | 2021-07-01 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Seto Taiki | Cho U | Win | B+2.5 | 6.5 | 3094 | 12 | 
 | 2021-06-17 | 第77期本因坊戦予選 | Shida Tatsuya | Seto Taiki | Lose | B+4.5 | 6.5 | 3082 | -70 | 
 | 2021-05-26 | 第47期碁聖戦予選 | Okuma Yuto | Seto Taiki | Win | W+R | 6.5 | 3152 | -9 | 

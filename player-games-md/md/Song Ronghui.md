@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-02 | 第12期中国竜星戦予選 | Song Ronghui |  | Win | B+3¾ | 7.5 | 2976 | 88 | 
 | 2021-09-01 | 第12期中国竜星戦予選 | Song Ronghui | Wang Yubo | Win | B+R | 7.5 | 2888 | 2888 | 
 | 2021-08-25 | 第12期中国竜星戦予選 | Song Ronghui |  | Win | B+R | 7.5 | missing | -2853 | 
 | 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Song Ronghui | Tang Yi | Lose | W+R | 7.5 | 2853 | -77 | 

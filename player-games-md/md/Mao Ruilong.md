@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-02 | 第12期中国竜星戦予選 | Mao Ruilong |  | Win | B+¾ | 7.5 | 3459 | 30 | 
 | 2021-09-01 | 第12期中国竜星戦予選 | Mao Ruilong |  | Win | B+R | 7.5 | 3429 | 41 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | He Yuhan | Mao Ruilong | Win | W+¼ | 7.5 | 3388 | 64 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Chen Haoxin | Mao Ruilong | Lose | B+R | 7.5 | 3324 | -154 | 

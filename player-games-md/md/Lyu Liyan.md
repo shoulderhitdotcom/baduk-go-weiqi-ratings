@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-02 | 第12期中国竜星戦予選 | Lyu Liyan | Chen Haoxin | Lose | W+R | 7.5 | 3198 | -40 | 
 | 2021-09-01 | 第12期中国竜星戦予選 | Ye Changxin | Lyu Liyan | Win | W+R | 7.5 | 3238 | 139 | 
 | 2021-08-30 | 第12期中国竜星戦予選 | Chen Yichun | Lyu Liyan | Win | W+R | 7.5 | 3099 | 3099 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Lyu Liyan | Zhou Hexi | Lose | W+R | 7.5 | missing | 0 | 

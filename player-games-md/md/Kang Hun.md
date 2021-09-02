@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-02 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Kang Hun | Lose | B+0.5 | 6.5 | 2248 | -180 | 
 | 2021-08-10 | 2021韓国シニア囲碁リーグ | Oh Kyuchul | Kang Hun | Lose | B+R | 6.5 | 2428 | 13 | 
 | 2021-08-02 | 2021韓国シニア囲碁リーグ | Kang Hun | Park Yeongchan | Lose | W+4.5 | 6.5 | 2415 | -198 | 
 | 2020-11-06 | 2020NHシニア囲碁リーグプレーオフ第2戦第2局 | Kim Kihun | Kang Hun | Lose | B+R | 6.5 | 2613 | -9 | 

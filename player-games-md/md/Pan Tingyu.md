@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-02 | 第12期中国竜星戦予選 | Tu Xiaoyu | Pan Tingyu | Win | W+R | 7.5 | missing | 0 | 
 | 2021-08-30 | 第12期中国竜星戦予選 |  | Pan Tingyu | Win | W+R | 7.5 | missing | 0 | 
 | 2021-08-24 | 第12期中国竜星戦予選 | Pan Tingyu |  | Win | B+1¾ | 7.5 | missing | -2752 | 
 | 2019-10-22 | 2019博思軟件杯中国囲棋新秀争覇戦32強戦 | Chen Yichun | Pan Tingyu | Lose | B+R | 7.5 | 2752 | -129 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-02 | 第12期中国竜星戦予選 | Lu Minquan | Zhou Hongyu | Lose | W+R | 7.5 | 3198 | -16 | 
 | 2021-09-01 | 第12期中国竜星戦予選 | Lu Minquan | Cao Youyin | Win | B+2¾ | 7.5 | 3214 | 7 | 
 | 2021-08-31 | 第12期中国竜星戦予選 |  | Lu Minquan | Win | W+R | 7.5 | 3207 | 1 | 
 | 2021-08-27 | 第12期中国竜星戦予選 |  | Lu Minquan | Win | W+R | 7.5 | 3206 | 37 | 

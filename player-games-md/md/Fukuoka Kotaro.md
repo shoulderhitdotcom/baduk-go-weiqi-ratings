@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-02 | 第47期名人戦予選  | Cho Chikun | Fukuoka Kotaro | Lose | B+1.5 | 6.5 | 2869 | -66 | 
+| 2021-08-02 | 第77期本因坊戦予選 | Sada Atsushi | Fukuoka Kotaro | Lose | B+3.5 | 6.5 | 2935 | 34 | 
 | 2021-07-08 | 第46期棋聖戦Cリーグ | Numadate Sakiya | Fukuoka Kotaro | Lose | B+1.5 | 6.5 | 2901 | -13 | 
 | 2021-07-05 | 第47期名人戦予選 | Fujisawa Rina | Fukuoka Kotaro | Win | W+R | 6.5 | 2914 | 21 | 
 | 2021-06-24 | 第46期棋聖戦Cリーグ | Ida Atsushi | Fukuoka Kotaro | Win | W+0.5 | 6.5 | 2893 | 126 | 

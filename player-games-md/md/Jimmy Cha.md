@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-02 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Jimmy Cha | Win | W+R | 6.5 | 2442 | -125 | 
 | 2021-08-17 | 2021韓国シニア囲碁リーグ | Lee Kisup | Jimmy Cha | Win | W+10.5 | 6.5 | 2567 | 80 | 
 | 2021-08-11 | 2021韓国シニア囲碁リーグ | Kim Dongmyeon | Jimmy Cha | Lose | B+4.5 | 6.5 | 2487 | 14 | 
 | 2021-08-04 | 2021韓国シニア囲碁リーグ | Jimmy Cha |  | Win | B+6.5 | 6.5 | 2473 | -84 | 

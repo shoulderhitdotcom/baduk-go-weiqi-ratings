@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-02 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Kim Ilhwan | Lose | B+R | 6.5 | 2476 | -162 | 
 | 2021-08-17 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Kim Ilhwan | Win | W+2.5 | 6.5 | 2638 | 147 | 
 | 2021-08-11 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Ilhwan | Lose | B+2.5 | 6.5 | 2491 | 33 | 
 | 2021-08-04 | 2021韓国シニア囲碁リーグ | Kim Ilhwan | Seo Nungwuk | Lose | W+28.5 | 6.5 | 2458 | -269 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-02 | 第12期中国竜星戦予選 | Guo Xinyi | Li Weiqing | Win | W+R | 7.5 | 3614 | -6 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Tan Xiao | Li Weiqing | Win | W+R | 7.5 | 3620 | 10 | 
 | 2021-08-30 | 第26回三星火災杯中国予選 | Tan Xiao | Li Weiqing | Win | W+R | 6.5 | 3610 | 13 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Li Weiqing |  | Win | B+R | 7.5 | 3597 | -74 | 

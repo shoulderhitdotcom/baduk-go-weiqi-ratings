@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-02 | 第12期中国竜星戦予選 | Zhang Tao | Tong Mengcheng | Lose | B+R | 7.5 | 3457 | -11 | 
 | 2021-09-01 | 第26回三星火災杯中国予選 | Tong Mengcheng | Wu Guangya | Lose | W+R | 6.5 | 3468 | -4 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Cao Xiaoyang | Tong Mengcheng | Win | W+R | 7.5 | 3472 | -2 | 
 | 2021-08-30 | 第26回三星火災杯中国予選 | Tong Mengcheng | Tao Xinran | Lose | W+R | 6.5 | 3474 | 21 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-02 | 第12期中国竜星戦予選 | Tu Xiaoyu | Pan Tingyu | Lose | W+R | 7.5 | 3509 | 24 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Tu Xiaoyu |  | Win | B+R | 7.5 | 3485 | 58 | 
 | 2021-08-13 | 第26回三星火災杯中国予選 | Huang Yunsong | Tu Xiaoyu | Lose | B+R | 6.5 | 3427 | -1 | 
 | 2021-08-13 | 第26回三星火災杯中国予選 | Huang Yunsong | Tu Xiaoyu | Lose | B+R | 6.5 | 3428 | -12 | 

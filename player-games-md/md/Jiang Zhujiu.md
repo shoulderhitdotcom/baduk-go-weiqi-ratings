@@ -5,97 +5,98 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第17回倡棋杯中国プロ囲碁選手権戦予選 | Ding Shixiong | Jiang Zhujiu | B+R | 2021-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qFnwSfQfEjbhssV3KspRdQ%3D%3D) | 
-| 第17回倡棋杯中国プロ囲碁選手権戦予選 | Jiang Zhujiu | missing | B+¾ | 2021-04-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WK8LF9uWkseEq9Iusdf4Mg%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦1回戦 | Xia Chenkun | Jiang Zhujiu | B+R | 2016-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oG6uxIlEqMyi6Qe6lNaw6g%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ1回戦C2 | Jiang Zhujiu | Sun Li | W+R | 2011-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IDxvOaqmOHrInbRD223Afw%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ1回戦C1 | Lee Changho | Jiang Zhujiu | B+R | 2011-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rc3vpnUtYcbj6ABkX2bmLA%3D%3D) | 
-| 第15回三星火災杯統合予選決勝 | Yang Jaeho | Jiang Zhujiu | B+6.5 | 2010-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NCGLK%2B%2F1LFzAGw%2BZ7Sz2%2FA%3D%3D) | 
-| 第3回GGオークション杯女流対シニア連勝対抗戦第14戦 | Rui Naiwei | Jiang Zhujiu | B+R | 2009-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oUT5uSH5mSzqm19u8HKTUw%3D%3D) | 
-| 第4期圓益杯十段戦1回戦 | missing | Jiang Zhujiu | W+R | 2008-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=86Kq34lV42mjnnOtYLestQ%3D%3D) | 
-| 第3期圓益杯十段戦2回戦 | Lee Jungwoo | Jiang Zhujiu | B+R | 2007-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JBOHBIZgqIWMevXqXESSBA%3D%3D) | 
-| 第9回マキシムコーヒー杯入神最強戦2回戦 | Jiang Zhujiu | Kim Seonryong | W+R | 2007-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7giGlcTnI%2BOZJOvvvaLo%2FQ%3D%3D) | 
-| 第3期圓益杯十段戦1回戦 | Yue Liang | Jiang Zhujiu | W+1.5 | 2007-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wzFzBGI8nW92Gom8TIqL0Q%3D%3D) | 
-| 第8回マキシムコーヒー杯入神最強戦3回戦 | Park Cheongsang | Jiang Zhujiu | B+R | 2006-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iiX0dnUVCzRywzJjatw%2BSQ%3D%3D) | 
-| 第2期圓益杯十段戦1回戦 | Jiang Zhujiu | Lee Yeongkyu | W+R | 2006-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hCqi5I%2FTNpxH8XqMVczBUA%3D%3D) | 
-| 第8回マキシムコーヒー杯入神最強戦1回戦 | Chang Suyeong | Jiang Zhujiu | W+R | 2006-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rHhbVZLRyQg2t8OtuwtHhA%3D%3D) | 
-| 2005年韓国囲碁リーグ | Jiang Zhujiu | Jin Donggyu | W+5.5 | 2005-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aqXpI5Btd5ojYk2uQUJ4Xw%3D%3D) | 
-| 2005年韓国囲碁リーグ | Kim Hyeongwoo | Jiang Zhujiu | B+2.5 | 2005-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xBdfMThKKS0xKA1efvGmvg%3D%3D) | 
-| 2005年韓国囲碁リーグ | Park Shiun | Jiang Zhujiu | W+2.5 | 2005-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RVKKd8fLDOufDrvTGytqjQ%3D%3D) | 
-| 第7回マキシムコーヒー杯入神最強戦1回戦 | missing | Jiang Zhujiu | B+4.5 | 2005-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kRHKVfe4FfJeX%2FvzEFBQEA%3D%3D) | 
-| 2005年韓国囲碁リーグ | Jiang Zhujiu | missing | B+R | 2005-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C%2FmriSRGmhQh9%2Bh9VHP8Aw%3D%3D) | 
-| 第1期物価情報杯プロ棋戦リーグC | Jiang Zhujiu | Choi Cheolhan | W+R | 2005-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7aNNYx0szeOzi%2BIRoNuDCQ%3D%3D) | 
-| 2005年韓国囲碁リーグ | Lee Jungwoo | Jiang Zhujiu | W+3.5 | 2005-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aqFQGLi%2BG8cL%2B1K9FE72hw%3D%3D) | 
-| 第1期物価情報杯プロ棋戦リーグC | Song Taekon | Jiang Zhujiu | B+R | 2005-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MLrZxpzoN8pjCPMXXKDBeg%3D%3D) | 
-| 2005年韓国囲碁リーグ | Seo Musang | Jiang Zhujiu | B+R | 2005-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g26jZ6qjgQFg6FaLH27z6Q%3D%3D) | 
-| 2005年中国囲碁乙級リーグ | Jiang Zhujiu | Yue Liang | W+R | 2005-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a5x6Bmg3leYMxtG%2FqymBoQ%3D%3D) | 
-| 2005年中国囲碁乙級リーグ | missing | Jiang Zhujiu | W+R | 2005-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BBM4kK9al5oC%2FZ83qixTYQ%3D%3D) | 
-| 2005年韓国囲碁リーグ | Jiang Zhujiu | missing | W+R | 2005-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iCyN8vidqdnvzDcAPiYPcw%3D%3D) | 
-| 第1期物価情報杯プロ棋戦リーグC | An Joyeong | Jiang Zhujiu | B+R | 2005-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FwHczo9bcGFysueQEqUyKQ%3D%3D) | 
-| 第10期バッカス杯天元戦1回戦 | Jiang Zhujiu | Kang Jiseong | W+3.5 | 2005-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fkgkGotnYAiUPjSUsvW2Bw%3D%3D) | 
-| 第18回世界囲碁選手権富士通杯1回戦 | Jiang Zhujiu | Wang Xi | W+R | 2005-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5f8un2%2BuTNrj1LSc3eaY1Q%3D%3D) | 
-| 2004年韓国囲碁リーグ | Jiang Zhujiu | Yu Keimin | W+R | 2004-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7LMO8859rynHha0A3Y%2FHbg%3D%3D) | 
-| 第6回マキシムコーヒー杯入神最強戦2回戦 | Yoo Changhyuk | Jiang Zhujiu | B+R | 2004-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aNyRBPUuJHEbRUTgF%2Bgdag%3D%3D) | 
-| 2004年韓国囲碁リーグ | Jiang Zhujiu | Lee Hongyeol | W+R | 2004-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kLJKnModv637MVNQBF8nZw%3D%3D) | 
-| 第48期国手戦（韓国）敗者復活戦2回戦 | Yoo Changhyuk | Jiang Zhujiu | B+R | 2004-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ls29d6SQsSKfAM1VCkYDaA%3D%3D) | 
-| 2004年韓国囲碁リーグ | Jiang Zhujiu | Paek Hongseok | B+6.5 | 2004-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aBslG2vQy%2BqnFMtwrXU2Eg%3D%3D) | 
-| 第6回マキシムコーヒー杯入神最強戦1回戦 | Ha Chanseok | Jiang Zhujiu | W+R | 2004-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oDBhbOkwfnB3%2BGM5MSuUQw%3D%3D) | 
-| 2004年韓国囲碁リーグ | Seo Bongsoo | Jiang Zhujiu | W+R | 2004-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YlXdYdTD16Pd1coPRbRcvQ%3D%3D) | 
-| 第48期国手戦（韓国）敗者復活戦1回戦 | Jiang Zhujiu | missing | B+2.5 | 2004-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=soTmuo7KMLCoinANwZxKXQ%3D%3D) | 
-| 第48期国手戦（韓国）本戦1回戦 | Jiang Zhujiu | Yoo Changhyuk | W+R | 2004-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EMgFek8ypcXBhtWNfrPeAg%3D%3D) | 
-| 2004年韓国囲碁リーグ | Yang Jaeho | Jiang Zhujiu | W+R | 2004-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2rXlB48S1gURwSS7aVfZ9w%3D%3D) | 
-| 2004年韓国囲碁リーグ | Kim Hwansoo | Jiang Zhujiu | W+4.5 | 2004-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FzAB7eFo9hXf8yRKfpGDYA%3D%3D) | 
-| 2004年韓国囲碁リーグ | Hong Minpyo | Jiang Zhujiu | B+6.5 | 2004-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IE1OUc9bzQEFku3ULjKBcw%3D%3D) | 
-| 2004年中国囲碁乙級リーグ | Liu Xiaoguang | Jiang Zhujiu | B+R | 2004-04-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X%2F24mHbak4yBKntkLW4i1A%3D%3D) | 
-| 第15回テレビアジア選手権 | Jiang Zhujiu | Zhou Heyang | W+R | 2003-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rytK2uwaeygJvO0932uieg%3D%3D) | 
-| 第8期三星杯2回戦 | Jiang Zhujiu | Yamada Kimio | W+1.5 | 2003-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6zicQpWbHTmsgdiSOkKjxg%3D%3D) | 
-| 第8期三星杯1回戦 | Liu Jing | Jiang Zhujiu | W+T | 2003-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mXv1NOPP7F3Vn7bCBcA9Ng%3D%3D) | 
-| 第8期三星杯予選決勝 | Jiang Zhujiu | Yang Keon | B+3.5 | 2003-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FGv3hDCfUN%2FFfu3NxeqLvw%3D%3D) | 
-| 第22回KBS杯囲碁王戦敗者復活戦2回戦 | Lee Changho | Jiang Zhujiu | B+R | 2003-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s0tzvCjGfYfAvlRSctg7wQ%3D%3D) | 
-| 第22回KBS杯囲碁王戦本戦3回戦 | Jiang Zhujiu | missing | W+R | 2003-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8R8iXvNZ9BAdTxih65ZE%2FQ%3D%3D) | 
-| 第22回KBS杯囲碁王戦本戦2回戦 | Jiang Zhujiu | missing | B+R | 2003-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uL9jgvEpRV1kCCKSCny6Wg%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | Jiang Zhujiu | Jin Shengyu | W+R | 2003-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FXyGNVNFg3a9bc2kUpom1g%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | missing | Jiang Zhujiu | B+R | 2003-04-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QB4Pf027be%2BH3wA71ogLpA%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | Cho Hunhyun | Jiang Zhujiu | B+R | 2003-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k%2FsMGSnpHiIr0p92M4mNGw%3D%3D) | 
-| 第3回KAT杯韓国囲碁最強戦 | Kim Kihun | Jiang Zhujiu | W+R | 2003-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3U%2BG5xmymhDPpUHYDEUNUA%3D%3D) | 
-| 第4回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Jiang Zhujiu | Rui Naiwei | B+R | 2003-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7ZrkEApGaP%2BIxNQ2t570Wg%3D%3D) | 
-| 第4回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Rui Naiwei | Jiang Zhujiu | W+R | 2002-12-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B5D42PjMRWa%2FO76ei1mE5g%3D%3D) | 
-| 第4回マキシムコーヒー杯入神最強戦準決勝 | Jiang Zhujiu | Chang Suyeong | B+R | 2002-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kpHES5PmXgmTpKIIsHGgXA%3D%3D) | 
-| 第4回マキシムコーヒー杯入神最強戦 | Jiang Zhujiu | Seo Bongsoo | B+R | 2002-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SWuWOiAzngeM2m%2FR37Edqw%3D%3D) | 
-| 第4回マキシムコーヒー杯入神最強戦 | Jiang Zhujiu | No Yeongha | B+R | 2002-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j8qCU41bdK6yPR1OCuYtcA%3D%3D) | 
-| 第21回KBS杯囲碁王戦敗者復活戦決勝 | Jiang Zhujiu | missing | W+R | 2002-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nGZ4XD8Mf9bimM5TwhIKrw%3D%3D) | 
-| 第21回KBS杯囲碁王戦本戦5回戦 | Jiang Zhujiu | Lee Changho | W+R | 2002-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b33BKEDyeZAVpQLoc6urgg%3D%3D) | 
-| 第21回KBS杯囲碁王戦本戦4回戦 | Jiang Zhujiu | An Younggil | B+R | 2002-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VRs9h8WoRUMZOdu43KZKlA%3D%3D) | 
-| 第46期国手戦（韓国）敗者復活戦1回戦 | Jiang Zhujiu | Paek Daehyun | W+R | 2002-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=72ueAOSbdt%2FYYRL2AFO6rg%3D%3D) | 
-| 第46期国手戦（韓国）本戦1回戦 | Cho Hunhyun | Jiang Zhujiu | B+5.5 | 2002-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fe4w8Ju7FvE4FyIe64%2BRaw%3D%3D) | 
-| 第46期国手戦（韓国）予選 | Jiang Zhujiu | Kim Hyokon | B+R | 2002-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MwiQqpUkJaF1pp8L1oS2cA%3D%3D) | 
-| 第21回KBS杯囲碁王戦本戦3回戦 | Jiang Zhujiu | Mok Jinseok | B+3.5 | 2002-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ann0DykfuZ5AV2DrrxxKeg%3D%3D) | 
-| 第7回LG杯世界棋王戦2回戦 | Lee Changho | Jiang Zhujiu | B+1.5 | 2002-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W7blNTSl6%2FgIkMZA71uJ0w%3D%3D) | 
-| 第7回LG杯世界棋王戦1回戦 | Jiang Mingjiu | Jiang Zhujiu | W+R | 2002-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0g78Bu991s62nZ18YUnpyA%3D%3D) | 
-| 第21回KBS杯囲碁王戦本戦2回戦 | Lee Jaeung | Jiang Zhujiu | W+R | 2002-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZLSKC5%2FDG5%2BvYR3g9EXjMg%3D%3D) | 
-| 第21回KBS杯囲碁王戦本戦1回戦 | Jiang Zhujiu | missing | B+R | 2002-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mrgx%2F3z3ZwPB%2B%2Fu8kMowsA%3D%3D) | 
-| 第3回マキシムコーヒー杯入神最強戦 | Jiang Zhujiu | Kim Ilhwan | W+R | 2001-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wBn4C4%2B7guieWY297X8PUw%3D%3D) | 
-| 第6期バッカス杯天元戦2回戦 | Jiang Zhujiu | Park Yeonghun | W+2.5 | 2001-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FJ6eHEt5eiALoSp0fk7P1w%3D%3D) | 
-| 第6期バッカス杯天元戦1回戦 | Cho Hanseung | Jiang Zhujiu | W+2.5 | 2001-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fT%2F%2Fn2vSPWLCGxLfcsngNg%3D%3D) | 
-| 第2回マキシムコーヒー杯入神最強戦準決勝 | Yoo Changhyuk | Jiang Zhujiu | B+1.5 | 2001-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PQh9GeG0UBa3B9PchcEEfw%3D%3D) | 
-| 第2回マキシムコーヒー杯入神最強戦第3局 | Seo Bongsoo | Jiang Zhujiu | W+R | 2000-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i%2FJTkRMglW397Fk8x8W2DA%3D%3D) | 
-| 第2回マキシムコーヒー杯入神最強戦第2局 | Jiang Zhujiu | Jeong Suhyeon | B+2.5 | 2000-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wQZMD1WIKg6hX%2BBVOYvlbw%3D%3D) | 
-| 第2回マキシムコーヒー杯入神最強戦第1局 | Kim Ilhwan | Jiang Zhujiu | W+0.5 | 2000-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S4lbJ%2BYdlNi9kCwOUGanBg%3D%3D) | 
-| 第8期倍達王戦2回戦 | Jiang Zhujiu | Park Yeonghun | W+3.5 | 2000-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kmCTWN9%2BR0FW7P74Hsa6uA%3D%3D) | 
-| 第8期倍達王戦1回戦 | Kim Dongyeop | Jiang Zhujiu | W+R | 2000-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tu305SLcmi%2Fw9CwaSiYjbA%3D%3D) | 
-| 第4回応氏杯世界選手権1回戦 | Jiang Zhujiu | Chang Hao | W+R | 2000-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bSQrrlDtwAfecdORO%2BjvCA%3D%3D) | 
-| 第1回マキシムコーヒー杯入神最強戦 | Choi Kyubyeong | Jiang Zhujiu | B+R | 2000-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eCyrHKuHvegrhg9mhCohgw%3D%3D) | 
-| 第4期三星杯1回戦 | Wang Lei (b) | Jiang Zhujiu | B+R | 1999-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oc%2BTC1c%2Bxqx3xWl6FrsEXA%3D%3D) | 
-| 第3回応氏杯世界選手権2回戦 | Cho Chikun | Jiang Zhujiu | B+R | 1996-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dj5PTK2%2Bk0NkNEAegat4vQ%3D%3D) | 
-| 第3回応氏杯世界選手権1回戦 | Zhou Junxun | Jiang Zhujiu | W+R | 1996-04-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LDMtBp3i3l77XQ1aGYvtiA%3D%3D) | 
-| 第2回応氏杯世界選手権2回戦 | Jiang Zhujiu | Yang Jaeho | W+9 | 1992-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SLt0n5EIN0tfEKmekbjQtg%3D%3D) | 
-| 第1回応氏杯世界選手権2回戦 | Jiang Zhujiu | Rin Kaiho | W+R | 1988-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZhDqnHag3zLZHh4xI7dZDA%3D%3D) | 
-| 第1回応氏杯世界選手権1回戦 | Takemiya Masaki | Jiang Zhujiu | W+7 | 1988-08-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MxZWs9otPzgpHiuquNxptg%3D%3D) | 
-| 第1期棋王戦（中国）3回戦 | Jiang Zhujiu | Yu Bin | W+R | 1988-07-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rBhC7SGOuQsmPV9Un87CyA%3D%3D) | 
-| 第1期棋王戦（中国）2回戦 | Rui Naiwei | Jiang Zhujiu | W+R | 1988-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TfFeNzE0w0p20U99j%2FHYlw%3D%3D) | 
-| 第1期棋王戦（中国）1回戦 | missing | Jiang Zhujiu | W+R | 1988-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z1YotCb6Y0aW4nmoB4P4UA%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-02 | 第12期中国竜星戦予選 | Jiang Zhujiu |  | Win | B+R | 7.5 | missing | 0 | 
+| 2021-04-07 | 第17回倡棋杯中国プロ囲碁選手権戦予選 | Ding Shixiong | Jiang Zhujiu | Lose | B+R | 7.5 | missing | 0 | 
+| 2021-04-06 | 第17回倡棋杯中国プロ囲碁選手権戦予選 | Jiang Zhujiu |  | Win | B+¾ | 7.5 | missing | 0 | 
+| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Xia Chenkun | Jiang Zhujiu | Lose | B+R | 7.5 | missing | 0 | 
+| 2011-08-25 | 第16回三星火災杯世界囲碁マスターズ1回戦C2 | Jiang Zhujiu | Sun Li | Lose | W+R | 6.5 | missing | 0 | 
+| 2011-08-24 | 第16回三星火災杯世界囲碁マスターズ1回戦C1 | Lee Changho | Jiang Zhujiu | Lose | B+R | 6.5 | missing | 0 | 
+| 2010-08-07 | 第15回三星火災杯統合予選決勝 | Yang Jaeho | Jiang Zhujiu | Lose | B+6.5 | 6.5 | missing | 0 | 
+| 2009-06-30 | 第3回GGオークション杯女流対シニア連勝対抗戦第14戦 | Rui Naiwei | Jiang Zhujiu | Lose | B+R | 6.5 | missing | 0 | 
+| 2008-08-28 | 第4期圓益杯十段戦1回戦 |  | Jiang Zhujiu | Win | W+R | 6.5 | missing | -2202 | 
+| 2007-10-26 | 第3期圓益杯十段戦2回戦 | Lee Jungwoo | Jiang Zhujiu | Lose | B+R | 6.5 | 2202 | -1455 | 
+| 2007-09-19 | 第9回マキシムコーヒー杯入神最強戦2回戦 | Jiang Zhujiu | Kim Seonryong | Lose | W+R | 6.5 | 3657 | 677 | 
+| 2007-07-26 | 第3期圓益杯十段戦1回戦 | Yue Liang | Jiang Zhujiu | Win | W+1.5 | 6.5 | 2980 | 2980 | 
+| 2006-12-08 | 第8回マキシムコーヒー杯入神最強戦3回戦 | Park Cheongsang | Jiang Zhujiu | Lose | B+R | 6.5 | missing | 0 | 
+| 2006-09-26 | 第2期圓益杯十段戦1回戦 | Jiang Zhujiu | Lee Yeongkyu | Lose | W+R | 6.5 | missing | 0 | 
+| 2006-09-21 | 第8回マキシムコーヒー杯入神最強戦1回戦 | Chang Suyeong | Jiang Zhujiu | Win | W+R | 6.5 | missing | -2656 | 
+| 2005-11-10 | 2005年韓国囲碁リーグ | Jiang Zhujiu | Jin Donggyu | Lose | W+5.5 | 6.5 | 2656 | 32 | 
+| 2005-10-20 | 2005年韓国囲碁リーグ | Kim Hyeongwoo | Jiang Zhujiu | Lose | B+2.5 | 6.5 | 2624 | -133 | 
+| 2005-09-08 | 2005年韓国囲碁リーグ | Park Shiun | Jiang Zhujiu | Win | W+2.5 | 6.5 | 2757 | 57 | 
+| 2005-09-06 | 第7回マキシムコーヒー杯入神最強戦1回戦 |  | Jiang Zhujiu | Lose | B+4.5 | 6.5 | 2700 | -62 | 
+| 2005-08-11 | 2005年韓国囲碁リーグ | Jiang Zhujiu |  | Win | B+R | 6.5 | 2762 | 35 | 
+| 2005-08-08 | 第1期物価情報杯プロ棋戦リーグC | Jiang Zhujiu | Choi Cheolhan | Lose | W+R | 6.5 | 2727 | -58 | 
+| 2005-07-14 | 2005年韓国囲碁リーグ | Lee Jungwoo | Jiang Zhujiu | Win | W+3.5 | 6.5 | 2785 | 42 | 
+| 2005-07-13 | 第1期物価情報杯プロ棋戦リーグC | Song Taekon | Jiang Zhujiu | Lose | B+R | 6.5 | 2743 | -40 | 
+| 2005-06-30 | 2005年韓国囲碁リーグ | Seo Musang | Jiang Zhujiu | Lose | B+R | 6.5 | 2783 | 231 | 
+| 2005-06-13 | 2005年中国囲碁乙級リーグ | Jiang Zhujiu | Yue Liang | Lose | W+R | 7.5 | 2552 | -20 | 
+| 2005-06-11 | 2005年中国囲碁乙級リーグ |  | Jiang Zhujiu | Win | W+R | 7.5 | 2572 | 13 | 
+| 2005-06-03 | 2005年韓国囲碁リーグ | Jiang Zhujiu |  | Lose | W+R | 6.5 | 2559 | -11 | 
+| 2005-06-01 | 第1期物価情報杯プロ棋戦リーグC | An Joyeong | Jiang Zhujiu | Lose | B+R | 6.5 | 2570 | -58 | 
+| 2005-05-25 | 第10期バッカス杯天元戦1回戦 | Jiang Zhujiu | Kang Jiseong | Lose | W+3.5 | 6.5 | 2628 | -85 | 
+| 2005-04-09 | 第18回世界囲碁選手権富士通杯1回戦 | Jiang Zhujiu | Wang Xi | Lose | W+R | 6.5 | 2713 | -165 | 
+| 2004-12-09 | 2004年韓国囲碁リーグ | Jiang Zhujiu | Yu Keimin | Lose | W+R | 6.5 | 2878 | 135 | 
+| 2004-11-15 | 第6回マキシムコーヒー杯入神最強戦2回戦 | Yoo Changhyuk | Jiang Zhujiu | Lose | B+R | 6.5 | 2743 | 0 | 
+| 2004-11-11 | 2004年韓国囲碁リーグ | Jiang Zhujiu | Lee Hongyeol | Lose | W+R | 6.5 | 2743 | -263 | 
+| 2004-10-19 | 第48期国手戦（韓国）敗者復活戦2回戦 | Yoo Changhyuk | Jiang Zhujiu | Lose | B+R | 6.5 | 3006 | 26 | 
+| 2004-10-14 | 2004年韓国囲碁リーグ | Jiang Zhujiu | Paek Hongseok | Win | B+6.5 | 6.5 | 2980 | -96 | 
+| 2004-09-13 | 第6回マキシムコーヒー杯入神最強戦1回戦 | Ha Chanseok | Jiang Zhujiu | Win | W+R | 6.5 | 3076 | 108 | 
+| 2004-09-09 | 2004年韓国囲碁リーグ | Seo Bongsoo | Jiang Zhujiu | Win | W+R | 6.5 | 2968 | 149 | 
+| 2004-08-13 | 第48期国手戦（韓国）敗者復活戦1回戦 | Jiang Zhujiu |  | Win | B+2.5 | 6.5 | 2819 | 44 | 
+| 2004-07-19 | 第48期国手戦（韓国）本戦1回戦 | Jiang Zhujiu | Yoo Changhyuk | Lose | W+R | 6.5 | 2775 | -70 | 
+| 2004-07-15 | 2004年韓国囲碁リーグ | Yang Jaeho | Jiang Zhujiu | Win | W+R | 6.5 | 2845 | -75 | 
+| 2004-07-01 | 2004年韓国囲碁リーグ | Kim Hwansoo | Jiang Zhujiu | Win | W+4.5 | 6.5 | 2920 | 88 | 
+| 2004-05-20 | 2004年韓国囲碁リーグ | Hong Minpyo | Jiang Zhujiu | Lose | B+6.5 | 6.5 | 2832 | -22 | 
+| 2004-04-04 | 2004年中国囲碁乙級リーグ | Liu Xiaoguang | Jiang Zhujiu | Lose | B+R | 7.5 | 2854 | 218 | 
+| 2003-09-04 | 第15回テレビアジア選手権 | Jiang Zhujiu | Zhou Heyang | Lose | W+R | 6.5 | 2636 | -16 | 
+| 2003-08-29 | 第8期三星杯2回戦 | Jiang Zhujiu | Yamada Kimio | Lose | W+1.5 | 6.5 | 2652 | -26 | 
+| 2003-08-27 | 第8期三星杯1回戦 | Liu Jing | Jiang Zhujiu | Win | W+T | 6.5 | 2678 | 127 | 
+| 2003-08-04 | 第8期三星杯予選決勝 | Jiang Zhujiu | Yang Keon | Win | B+3.5 | 6.5 | 2551 | 126 | 
+| 2003-06-11 | 第22回KBS杯囲碁王戦敗者復活戦2回戦 | Lee Changho | Jiang Zhujiu | Lose | B+R | 6.5 | 2425 | -26 | 
+| 2003-05-28 | 第22回KBS杯囲碁王戦本戦3回戦 | Jiang Zhujiu |  | Lose | W+R | 6.5 | 2451 | -113 | 
+| 2003-04-16 | 第22回KBS杯囲碁王戦本戦2回戦 | Jiang Zhujiu |  | Win | B+R | 6.5 | 2564 | 46 | 
+| 2003-04-08 | 2003年中国囲碁乙級リーグ | Jiang Zhujiu | Jin Shengyu | Lose | W+R | 7.5 | 2518 | -60 | 
+| 2003-04-06 | 2003年中国囲碁乙級リーグ |  | Jiang Zhujiu | Lose | B+R | 7.5 | 2578 | -22 | 
+| 2003-04-02 | 2003年中国囲碁乙級リーグ | Cho Hunhyun | Jiang Zhujiu | Lose | B+R | 7.5 | 2600 | -7 | 
+| 2003-01-28 | 第3回KAT杯韓国囲碁最強戦 | Kim Kihun | Jiang Zhujiu | Win | W+R | 6.5 | 2607 | 58 | 
+| 2003-01-12 | 第4回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Jiang Zhujiu | Rui Naiwei | Win | B+R | 6.5 | 2549 | 29 | 
+| 2002-12-28 | 第4回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Rui Naiwei | Jiang Zhujiu | Win | W+R | 6.5 | 2520 | 51 | 
+| 2002-12-11 | 第4回マキシムコーヒー杯入神最強戦準決勝 | Jiang Zhujiu | Chang Suyeong | Win | B+R | 6.5 | 2469 | 90 | 
+| 2002-11-13 | 第4回マキシムコーヒー杯入神最強戦 | Jiang Zhujiu | Seo Bongsoo | Win | B+R | 6.5 | 2379 | 2379 | 
+| 2002-11-06 | 第4回マキシムコーヒー杯入神最強戦 | Jiang Zhujiu | No Yeongha | Win | B+R | 6.5 | missing | -2334 | 
+| 2002-10-04 | 第21回KBS杯囲碁王戦敗者復活戦決勝 | Jiang Zhujiu |  | Lose | W+R | 6.5 | 2334 | -48 | 
+| 2002-09-27 | 第21回KBS杯囲碁王戦本戦5回戦 | Jiang Zhujiu | Lee Changho | Lose | W+R | 6.5 | 2382 | 9 | 
+| 2002-09-04 | 第21回KBS杯囲碁王戦本戦4回戦 | Jiang Zhujiu | An Younggil | Win | B+R | 6.5 | 2373 | 113 | 
+| 2002-09-02 | 第46期国手戦（韓国）敗者復活戦1回戦 | Jiang Zhujiu | Paek Daehyun | Lose | W+R | 6.5 | 2260 | 67 | 
+| 2002-07-31 | 第46期国手戦（韓国）本戦1回戦 | Cho Hunhyun | Jiang Zhujiu | Lose | B+5.5 | 6.5 | 2193 | 2193 | 
+| 2002-05-31 | 第46期国手戦（韓国）予選 | Jiang Zhujiu | Kim Hyokon | Win | B+R | 6.5 | missing | -2263 | 
+| 2002-05-15 | 第21回KBS杯囲碁王戦本戦3回戦 | Jiang Zhujiu | Mok Jinseok | Win | B+3.5 | 6.5 | 2263 | 330 | 
+| 2002-05-02 | 第7回LG杯世界棋王戦2回戦 | Lee Changho | Jiang Zhujiu | Lose | B+1.5 | 6.5 | 1933 | 13 | 
+| 2002-04-30 | 第7回LG杯世界棋王戦1回戦 | Jiang Mingjiu | Jiang Zhujiu | Win | W+R | 6.5 | 1920 | -211 | 
+| 2002-03-20 | 第21回KBS杯囲碁王戦本戦2回戦 | Lee Jaeung | Jiang Zhujiu | Win | W+R | 6.5 | 2131 | -679 | 
+| 2002-01-23 | 第21回KBS杯囲碁王戦本戦1回戦 | Jiang Zhujiu |  | Win | B+R | 6.5 | 2810 | -79 | 
+| 2001-11-22 | 第3回マキシムコーヒー杯入神最強戦 | Jiang Zhujiu | Kim Ilhwan | Lose | W+R | 6.5 | 2889 | 186 | 
+| 2001-07-19 | 第6期バッカス杯天元戦2回戦 | Jiang Zhujiu | Park Yeonghun | Lose | W+2.5 | 6.5 | 2703 | 40 | 
+| 2001-05-14 | 第6期バッカス杯天元戦1回戦 | Cho Hanseung | Jiang Zhujiu | Win | W+2.5 | 6.5 | 2663 | -112 | 
+| 2001-01-17 | 第2回マキシムコーヒー杯入神最強戦準決勝 | Yoo Changhyuk | Jiang Zhujiu | Lose | B+1.5 | 6.5 | 2775 | 2775 | 
+| 2000-11-07 | 第2回マキシムコーヒー杯入神最強戦第3局 | Seo Bongsoo | Jiang Zhujiu | Win | W+R | 6.5 | missing | 0 | 
+| 2000-10-20 | 第2回マキシムコーヒー杯入神最強戦第2局 | Jiang Zhujiu | Jeong Suhyeon | Win | B+2.5 | 6.5 | missing | 0 | 
+| 2000-10-20 | 第2回マキシムコーヒー杯入神最強戦第1局 | Kim Ilhwan | Jiang Zhujiu | Win | W+0.5 | 6.5 | missing | 0 | 
+| 2000-07-21 | 第8期倍達王戦2回戦 | Jiang Zhujiu | Park Yeonghun | Lose | W+3.5 | 6.5 | missing | 0 | 
+| 2000-05-30 | 第8期倍達王戦1回戦 | Kim Dongyeop | Jiang Zhujiu | Win | W+R | 6.5 | missing | 0 | 
+| 2000-04-30 | 第4回応氏杯世界選手権1回戦 | Jiang Zhujiu | Chang Hao | Lose | W+R | 7.5 | missing | 0 | 
+| 2000-02-22 | 第1回マキシムコーヒー杯入神最強戦 | Choi Kyubyeong | Jiang Zhujiu | Lose | B+R | 6.5 | missing | 0 | 
+| 1999-09-07 | 第4期三星杯1回戦 | Wang Lei (b) | Jiang Zhujiu | Lose | B+R | 6.5 | missing | 0 | 
+| 1996-04-26 | 第3回応氏杯世界選手権2回戦 | Cho Chikun | Jiang Zhujiu | Lose | B+R | 7.5 | missing | 0 | 
+| 1996-04-24 | 第3回応氏杯世界選手権1回戦 | Zhou Junxun | Jiang Zhujiu | Win | W+R | 7.5 | missing | 0 | 
+| 1992-07-15 | 第2回応氏杯世界選手権2回戦 | Jiang Zhujiu | Yang Jaeho | Lose | W+9 | 7.5 | missing | 0 | 
+| 1988-08-23 | 第1回応氏杯世界選手権2回戦 | Jiang Zhujiu | Rin Kaiho | Lose | W+R | 7.5 | missing | 0 | 
+| 1988-08-21 | 第1回応氏杯世界選手権1回戦 | Takemiya Masaki | Jiang Zhujiu | Win | W+7 | 7.5 | missing | 0 | 
+| 1988-07-17 | 第1期棋王戦（中国）3回戦 | Jiang Zhujiu | Yu Bin | Lose | W+R | 7.5 | missing | 0 | 
+| 1988-07-15 | 第1期棋王戦（中国）2回戦 | Rui Naiwei | Jiang Zhujiu | Win | W+R | 7.5 | missing | 0 | 
+| 1988-07-13 | 第1期棋王戦（中国）1回戦 |  | Jiang Zhujiu | Win | W+R | 7.5 | missing | missing |
 
 
 

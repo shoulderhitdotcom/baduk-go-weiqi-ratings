@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-02 | 第47期名人戦予選  | Cho Chikun | Fukuoka Kotaro | Win | B+1.5 | 6.5 | 3088 | 100 | 
 | 2021-08-05 | 第47期名人戦予選  | Cho Chikun | Takanashi Seiken | Win | B+R | 6.5 | 2988 | -5 | 
 | 2021-03-29 | 第60期十段戦予選 | Hashimoto Yujiro | Cho Chikun | Lose | B+R | 6.5 | 2993 | -90 | 
 | 2021-02-25 | 第46期棋聖戦予選 | Hirata Tomoya | Cho Chikun | Lose | B+R | 6.5 | 3083 | -162 | 

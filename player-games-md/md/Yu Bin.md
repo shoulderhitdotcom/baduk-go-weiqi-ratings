@@ -5,419 +5,420 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第5期洛陽白雲山杯中国棋聖戦予選 | Yu Bin | Xie He | W+¼ | 2019-12-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8DJDVt6lHtscuGcDwA7Q%2Fg%3D%3D) | 
-| 第11期中国竜星戦Bブロック5回戦 | Yu Bin | Zhao Chenyu | W+R | 2019-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S9rnUYj6yvURfQKEcAenLQ%3D%3D) | 
-| 第24回三星火災杯統合予選準決勝 | Seo Bongsoo | Yu Bin | B+R | 2019-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2nCVRMzVYorDtQZ1czI8gQ%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会個人戦決勝 | Yu Bin | O Rissei | W+5.5 | 2019-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mZDW1sLcAs%2B2kTEl3LGULw%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | Yu Bin | Yoda Norimoto | B+6.5 | 2019-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tSoTWFRboJ0%2BHkvbFgeMXg%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会個人戦準決勝 | Yoda Norimoto | Yu Bin | W+3.5 | 2019-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0BJhihR5lAzbKsAfVtJXag%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | Yu Bin | O Meien | B+1.5 | 2019-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GOyfbSwHfixX12jAxZHVbQ%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | Yu Bin | Yang Jaeho | B+5.5 | 2019-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FDsRBjxjfFrb%2FOhfsdZTJg%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | Yoo Changhyuk | Yu Bin | B+5.5 | 2019-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B0D%2FdMQ00llDE2GjRD9ZNg%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Rin Kaiho | Yu Bin | W+T | 2019-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BZbnXcFGx9CI%2BVTriks3qg%3D%3D) | 
-| 第4回夢百合杯統合予選 | Yu Bin | Lee Yeongkyu | B+R | 2019-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JiBFT3s9u0Ihu1YNJKqe7w%3D%3D) | 
-| 第3回中日韓囲碁元老戦決勝 | Yoo Changhyuk | Yu Bin | B+5¼ | 2019-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P9gPgsFBR2Aq9A2ysx6Mag%3D%3D) | 
-| 第3回中日韓囲碁元老戦準決勝 | Yu Bin | Seo Bongsoo | B+1¾ | 2019-04-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dk6BH6ZIp%2BE8UGp2vsoN7Q%3D%3D) | 
-| 第3回中日韓囲碁元老戦1回戦 | Kobayashi Satoru | Yu Bin | W+R | 2019-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EMguDOMH8DPZnWh1kCYqAg%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦1回戦 | Li Qincheng | Yu Bin | B+R | 2019-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZGwuW%2Fou8PD6c3sQ8DPKng%3D%3D) | 
-| 第10期中国竜星戦Bブロック6回戦 | Yu Bin | Xu Jiayang | W+R | 2019-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BIu3vc%2BPReDrhOn%2F7H55SA%3D%3D) | 
-| 第10期中国竜星戦予選 | Rui Naiwei | Yu Bin | W+R | 2019-03-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qSUhG%2FwcKj%2BlwAk6Ctf6gw%3D%3D) | 
-| 第10期中国竜星戦予選 | Yu Bin | missing | B+R | 2019-03-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2%2BC4efHwaHqks9dmlRILSg%3D%3D) | 
-| 第3回ワールド碁チャンピオンシップ国際予選1回戦 | Yu Bin | Imamura Toshiya | W+R | 2019-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wxdHvkoEg7iB37hF%2Bfo7mQ%3D%3D) | 
-| 第23回LG杯朝鮮日報棋王戦1回戦 | Lee Wonyoung | Yu Bin | B+R | 2018-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MVuzG%2BhMryMOVHGAGoSfaw%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦2回戦 | Yu Bin | Xie Ke | W+R | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=71MTjysJfqegg5uFWMH32w%3D%3D) | 
-| 第23回LG杯予選決勝 | Zhou Ruiyang | Yu Bin | W+R | 2018-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RwNvk4%2BZRcjGtiTSQNGWPg%3D%3D) | 
-| 第9期中国竜星戦予選 | Yu Bin | Chang Hao | W+R | 2018-03-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o6AiZ1p3oklItdZ%2BAtHofw%3D%3D) | 
-| 第1回中日韓囲碁元老戦準決勝 | Yu Bin | Kobayashi Koichi | W+0.5 | 2017-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zVkPe%2FSQOPf0ePYn5VcuLw%3D%3D) | 
-| 第1回中日韓囲碁元老戦2回戦 | Kobayashi Satoru | Yu Bin | W+R | 2017-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0PogJmlICi%2FeLNVcSxsfpg%3D%3D) | 
-| 第1回中日韓囲碁元老戦1回戦 | Yamashiro Hiroshi | Yu Bin | W+0.5 | 2017-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5K46Tjh%2FRedfNXlPyK1txw%3D%3D) | 
-| 第8期中国竜星戦予選 | Yu Bin | Rui Naiwei | B+R | 2016-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D7JVY0BddRcqcxNIfCPzpg%3D%3D) | 
-| 第8期中国竜星戦予選 | Chang Hao | Yu Bin | B+R | 2016-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kVI81wzjIRepMCc7RzIyAg%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦1回戦 | missing | Yu Bin | B+R | 2016-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zNwpgBwF8bWChhIC1WmVjA%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ2回戦 | Park Junghwan | Yu Bin | B+R | 2016-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=igN0O5aBzy922mMbEdYa%2Fw%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦B3 | Yu Bin | missing | B+R | 2016-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3ttIeGY7ypPA76fx6ADzCw%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦B2 | Cho Chikun | Yu Bin | W+R | 2016-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ocHk78OyqPZywR5zMC7JIQ%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦B1 | Yu Bin | missing | W+R | 2016-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K2WpZyHDjWD9L%2F80TM99ZQ%3D%3D) | 
-| 第21回三星火災杯統合予選シニア枠決勝 | Komatsu Hideki | Yu Bin | W+R | 2016-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Xo%2F6UgWPGovFZhfQkSGAQ%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Qin Yuexin | Yu Bin | B+R | 2016-05-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cR3roiCFume8m%2BfygIU0nA%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Yu Bin | Li Ang | B+R | 2016-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fdsarnr5be47wFUOdHBeqA%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦予選 | Zhou Hexi | Yu Bin | B+13 | 2016-02-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jzMsGi3aLwXYY5hyLWPvTw%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦予選 | Yu Bin | Liu Xing | B+R | 2016-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MdenoEiXi6RKOO9NZT6V%2Bg%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦予選 | Xie He | Yu Bin | W+T | 2016-02-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TcEC%2BxK1Ld2VvMdTnxditw%3D%3D) | 
-| 第17期阿含・桐山杯中国早碁オープン戦予選 | missing | Yu Bin | B+R | 2015-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wLTzBUuFATh25Dp69r9lqw%3D%3D) | 
-| 第28期中国囲碁名人戦予選 | Xu Jiayang | Yu Bin | B+R | 2015-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6jpc5qzZfgKtFR1MM4ouMA%3D%3D) | 
-| 第19回三星火災杯世界囲碁マスターズ1回戦H2 | Wu Guangya | Yu Bin | B+R | 2014-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fPxJIFBqbZAPp49HnQ23sA%3D%3D) | 
-| 第19回三星火災杯世界囲碁マスターズ1回戦H1 | Yu Bin | Cho Hanseung | W+R | 2014-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0jlmvs0StFYGPwfmxSpfRg%3D%3D) | 
-| 第19回三星火災杯統合予選シニア枠決勝 | Yu Bin | Komatsu Hideki | B+R | 2014-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tNBobshKSXQAVSz%2BdX20lQ%3D%3D) | 
-| 第6期中国竜星戦予選 | Liao Yuanhe | Yu Bin | B+R | 2014-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9ZtoEBxSaAUYbH2OIlW75Q%3D%3D) | 
-| 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Yu Bin | Meng Tailing | W+R | 2014-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=04IXngxbScCALOZfzEE%2FtQ%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦1回戦 | Zhu Yuanhao | Yu Bin | B+R | 2014-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WOWb5fF%2BnnOirjeP4OJgyQ%3D%3D) | 
-| 第27期中国囲碁名人戦予選 | Xia Chenkun | Yu Bin | B+3.5 | 2014-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xrc2wpf7FPlsCG%2BNEv3QoQ%3D%3D) | 
-| 第27期中国囲碁名人戦予選 | Yu Bin | Li Xuanhao | B+R | 2014-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mIjbjULc7pYfXgoaZ2cLMg%3D%3D) | 
-| 第1回夢百合杯世界オープン戦予選 | Yu Bin | Kang Dongyun | W+R | 2013-05-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F%2BNwqdBQ93OtlD3k9r8R7A%3D%3D) | 
-| 第26期中国囲碁名人戦予選 | Rong Yi | Yu Bin | B+R | 2013-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2hOOR4duqX%2FiBeKAn1r%2B1w%3D%3D) | 
-| 第4期中国竜星戦1回戦 | Wu Guangya | Yu Bin | B+R | 2012-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gdIIZy%2BkCfgXJMQVUou42A%3D%3D) | 
-| 第17回三星火災杯統合予選決勝 | Yoo Changhyuk | Yu Bin | B+R | 2012-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9cpem9whQ9C3TVJdthrEow%3D%3D) | 
-| 第4回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Yu Bin | Shi Yue | W+R | 2012-07-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QZ1Koe0RaKsLQTUfiMIRqw%3D%3D) | 
-| 第4回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Zhou Zhenyu | Yu Bin | W+R | 2012-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Th4VOM2bXFdeci1xbVleCQ%3D%3D) | 
-| 第26期中国囲碁天元戦1回戦 | Yu Bin | Peng Liyao | W+R | 2012-02-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=azUEj3qevDZ9SlMrS2QUkg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第22節 | Lee Yeongkyu | Yu Bin | B+R | 2011-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3aT4CoNub6TMHNYasBb0Hw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第21節 | Yu Bin | Niu Yutian | W+R | 2011-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=74a5Z%2FdUXREbOE9vLrJPiQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第20節 | Yu Bin | Peng Quan | B+R | 2011-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0QHUR9nGDotGoj4HQz6yjQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第19節 | Yu Bin | missing | B+1.5 | 2011-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uTHHYaUNWxETdCfO90KIsg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第17節 | Yu Bin | Wang Yuhui | W+R | 2011-10-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P0911fEqxcuK4Tq5R48o7g%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第16節 | Tao Xin | Yu Bin | B+R | 2011-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QvixEsvdzHlAM6XYJf9MSQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第15節 | Peng Liyao | Yu Bin | B+1.5 | 2011-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=omcR8JDkA%2BMgfIWiArKK%2FA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第14節 | Tong Mengcheng | Yu Bin | W+R | 2011-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PNz6XEGzgQijjEzKqGiP4w%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第13節 | Yu Bin | Hong Seongji | W+R | 2011-09-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vK8ye2AKPzzxfT7fr2gQcw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第12節 | Yu Bin | Chang Hao | B+R | 2011-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bz%2BdtoAj7cDB6%2B30E61oGg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第11節 | Yu Bin | Zhou Zhenyu | B+1.5 | 2011-07-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J6Ja1bhpOH0L8TT3q0APxw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第10節 | Niu Yutian | Yu Bin | B+1.5 | 2011-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fk%2FYGT6QOLfxdCaLj%2BC8yQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第9節 | Yu Bin | Tang Weixing | B+R | 2011-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c%2BiL5hBwYzBaWqwkfUUXEg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第8節 | Yu Bin | Tuo Jiaxi | W+R | 2011-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JS1JN7K0IfTo47S2nycPPg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第7節 | Wang Xi | Yu Bin | W+R | 2011-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SNlr0ckgrgCMILyp67wG9Q%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第6節 | Yu Bin | Wang Yuhui | B+R | 2011-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WI8s%2Bgu9Bt4Cq9AiEFbeHQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第5節 | Yu Bin | Jiang Weijie | W+R | 2011-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h355QfzAQZsPrhifq3AZAw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第4節 | Yu Bin | Piao Wenyao | W+2.5 | 2011-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZTAp9hhwQzCzbjT0QXdmTg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第3節 | Mao Ruilong | Yu Bin | W+2.5 | 2011-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JzBkWc2cEMlU3xREMaSUMA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第2節 | Yu Bin | Wang Yao | W+2.5 | 2011-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BT4ljHY4is%2FBELhe8I9BBw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第1節 | Qiu Jun | Yu Bin | B+R | 2011-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ujB%2B6kf5CctYPobkBP3xgw%3D%3D) | 
-| 第16回LG杯予選 | Yu Bin | Cho Hanseung | W+R | 2011-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AIHLvzDgQJl7R2geX%2BWCbA%3D%3D) | 
-| 第24期中国囲碁名人戦予選 | Wang Haoyang | Yu Bin | B+3.5 | 2011-03-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D0tS9WM%2BMiZ6QQDnXXQeXw%3D%3D) | 
-| 第25期中国囲碁天元戦挑戦者決定戦 | Yu Bin | Zhou Hexi | W+2.5 | 2011-02-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YcmZd8J1Mk3UUW32pxwotg%3D%3D) | 
-| 第25期中国囲碁天元戦準決勝 | Yu Bin | Shi Yue | B+1.5 | 2011-02-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9aLd%2BaemW9Z9Z%2FRRSedyUw%3D%3D) | 
-| 第25期中国囲碁天元戦3回戦 | Yu Bin | Xie He | B+R | 2011-02-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sep385itIMX2lYKZ3u9fUA%3D%3D) | 
-| 第25期中国囲碁天元戦2回戦 | Yu Bin | missing | B+3.5 | 2011-02-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=blqLoD8owcjnoR38uX4q1w%3D%3D) | 
-| 第25期中国囲碁天元戦1回戦 | Yu Bin | Qiu Jun | B+R | 2011-02-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B60h%2BsU4eUMLz3z8NDxO%2Bw%3D%3D) | 
-| 第25期中国囲碁天元戦予選 | Yu Bin | Sun Li | B+R | 2011-02-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oLp3GoyBdyYrFR3QI04Uug%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第21節 | Yu Bin | Fan Tingyu | W+2.5 | 2010-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RDywDQeU3dtaMund3c59GQ%3D%3D) | 
-| 第11期リコー杯囲碁戦1回戦 | Yu Bin | Huang Yunsong | B+11.5 | 2010-12-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cyweDy1YJgxlVoSUI20sKA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第20節 | Kong Jie | Yu Bin | B+1.5 | 2010-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n%2BwkpxouDmFekgQPwJx42g%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第18節 | Gu Lingyi | Yu Bin | B+5.5 | 2010-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nDlFrkHoR55ooQFLkz9QJA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第16節 | Zhou Heyang | Yu Bin | W+R | 2010-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vHpjHUaBJB3%2BKTv6fHKDEw%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第15節 | Yu Bin | Li Kang | W+R | 2010-10-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e%2B6Keuh9j5y8W9AxkeKMqA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Yu Bin | B+R | 2010-09-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FWLuNpj5froJns4gjQ%2FG%2Bg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第12節 | Yu Bin | Piao Wenyao | W+R | 2010-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2PJtWHBUH4tFEcV4Ce3SJw%3D%3D) | 
-| 第6期威孚房開杯棋王戦1回戦 | Yu Bin | Gu Lingyi | W+R | 2010-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4e7SenJAq1aR0pTPWg2lZw%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第11節 | Wang Yuhui | Yu Bin | W+R | 2010-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J3RmaHI37HMWqgyp6sVyxg%3D%3D) | 
-| 第7期倡棋杯中国プロ囲碁選手権戦1回戦 | Gu Lingyi | Yu Bin | B+R | 2010-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PnSpa626M32h09hqPnM4Zg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第8節 | Wang Yao | Yu Bin | B+R | 2010-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2qt2jK9C%2B6t0AR%2BjsEmK0g%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第7節 | Yu Bin | missing | B+R | 2010-06-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DXI2HPNpov2cyuIZ9BukKg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第6節 | Yu Bin | Tang Weixing | W+2.5 | 2010-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nw73BV5wQlNBIsn4z%2BMg%2FA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第5節 | Tao Xin | Yu Bin | W+6.5 | 2010-05-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BiAhjzBbkWJezdwM5CeM0g%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第3節 | Wang Lei (s) | Yu Bin | W+R | 2010-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1dbSrZ4Rn2Fv1pA%2FEsJm3g%3D%3D) | 
-| 第23期中国囲碁名人戦予選 | Yu Bin | Wu Guangya | W+4.5 | 2010-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=91jv4mtd5wFcMhLncs2mHA%3D%3D) | 
-| 2010CCTV杯中国囲棋電視快棋戦2回戦 | Liu Xing | Yu Bin | B+R | 2010-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eV1WyqvroxUaVKRE4%2F71fg%3D%3D) | 
-| 第24期中国囲碁天元戦予選 | Peng Liyao | Yu Bin | B+7.5 | 2010-01-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GzOsw9%2Ffc8zb6i8KGCBxNg%3D%3D) | 
-| 第2回BCカード杯世界選手権統合予選決勝 | Yu Bin | Na Hyun | W+0.5 | 2010-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v5FT5IIyNzVhoi9%2FczQyFA%3D%3D) | 
-| 第10期リコー杯囲碁戦2回戦 | Yu Bin | Liu Xing | W+R | 2009-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pt0%2BhyDlFCDdD7Tc6Qru8Q%3D%3D) | 
-| 第10期リコー杯囲碁戦1回戦 | Yu Bin | missing | B+R | 2009-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rX2yk2isIq1v%2FyuLdl9dkg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第22節 | Yu Bin | Tuo Jiaxi | W+4.5 | 2009-12-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RpA7rVkMFo1VruL59sS3iw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第21節 | Yu Bin | Zhu Yuanhao | B+1.5 | 2009-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FQqEViHfOh1RMKsuArH2Wg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第20節 | missing | Yu Bin | W+R | 2009-12-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U0R4xEz8VNKVM7afOMb%2B6w%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第19節 | Yu Bin | Wang Lei (b) | W+R | 2009-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gKNw%2BH8DAOFAlH7T484nww%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第18節 | Yu Bin | Ding Wei | B+R | 2009-11-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T%2FpQdNdwbMArbZpZkgG2ZQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第17節 | Huang Yizhong | Yu Bin | W+0.5 | 2009-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yr%2FdpyPoPPEy1%2F%2BfDaFtMg%3D%3D) | 
-| 第5期威孚房開杯棋王戦1回戦 | Zhou Ruiyang | Yu Bin | B+5.5 | 2009-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QtS%2BD9s4PS4okJbEy89%2FLw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第16節 | missing | Yu Bin | B+R | 2009-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VL%2B5%2BybxNP4pNwCmyEum%2Fw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第15節 | Sun Li | Yu Bin | W+2.5 | 2009-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ysJnzvF5imPpUceDo9RKBQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第14節 | Yu Bin | missing | B+1.5 | 2009-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GpaB2yXTkxuk0BlButoXYQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第13節 | missing | Yu Bin | W+R | 2009-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h7RN1OHOIPpIthQkrVak8w%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第12節 | Yu Bin | Wang Lei (s) | W+0.5 | 2009-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7BaSpsVCVXsc3gRD56g9cw%3D%3D) | 
-| 第14回三星火災杯統合予選1回戦 | Yu Bin | Kim Seungjun | B+R | 2009-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o1gHI51OM2GFgtXCn8K8kQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第11節 | Yu Bin | Chen Yaoye | W+6.5 | 2009-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6a3RMwbrkpvh1cPM2cNUGA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第10節 | Yu Bin | Zhu Yuanhao | W+R | 2009-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CikruvJLvGlg%2BL3cVob4fw%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | missing | Yu Bin | B+5.5 | 2009-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lVdFmWRE66vQv6GW2Ynjpg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第8節 | Shi Yue | Yu Bin | W+R | 2009-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C5S1zXcpFfufVS%2BZcuUb6g%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第7節 | Yu Bin | Ding Wei | W+R | 2009-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Czhr9P8F6bjqdtHklvL52A%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第6節 | missing | Yu Bin | W+R | 2009-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DAIPQi3jzGS7i5dUYKQoyg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第5節 | Yu Bin | Meng Tailing | W+R | 2009-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7P%2B4ccg7Ru02n%2FWO9PWQXw%3D%3D) | 
-| 第6期倡棋杯中国プロ囲碁選手権戦1回戦 | Kong Jie | Yu Bin | B+R | 2009-05-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=05hzWkxND6Z%2FaUAAr9U1Sw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第4節 | Yu Bin | Li Jie | B+R | 2009-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rGqGLTP%2FPkY8q3lgj0A4Uw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第3節 | Ma Xiaochun | Yu Bin | W+R | 2009-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PeN2UpjvKIbFoFacsPlGnA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第2節 | missing | Yu Bin | B+7.5 | 2009-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oLjwwUO9fzgWoL0TRyywsA%3D%3D) | 
-| 第6期倡棋杯中国プロ囲碁選手権戦予選 | Yu Bin | missing | B+R | 2009-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JcAFHj5WGqbnEaLx%2FrwoAw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第1節 | Wang Tao | Yu Bin | B+R | 2009-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eNLXpXLuqxCkImqYBI24Tg%3D%3D) | 
-| 第22期中国囲碁名人戦予選 | Tan Xiao | Yu Bin | B+R | 2009-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Aw5sNTMbR2Tx%2F3XL2kVUQg%3D%3D) | 
-| 第22期中国囲碁名人戦予選 | missing | Yu Bin | W+R | 2009-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L0OzgWZ%2FhD9Oxe7zmdBGdg%3D%3D) | 
-| 2009CCTV杯中国囲棋電視快棋戦2回戦 | Chang Hao | Yu Bin | B+1.5 | 2009-03-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2p2SL9ipKbH5DECl4vNHIQ%3D%3D) | 
-| 2009CCTV杯中国囲棋電視快棋戦1回戦 | Yu Bin | Nie Weiping | B+R | 2009-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CLNk7FhbWiR3QHF6ktNeGA%3D%3D) | 
-| 第23期中国囲碁天元戦1回戦 | Yu Bin | Hu Yaoyu | W+4.5 | 2009-02-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ImkzDa0bzs4%2F7KWPlvXAPw%3D%3D) | 
-| 第23期中国囲碁天元戦予選 | Yu Bin | Gu Lingyi | B+R | 2009-02-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7SzHvzFo%2Fwds69YSQRCA3Q%3D%3D) | 
-| 第9期リコー杯囲碁戦1回戦 | Zhou Hexi | Yu Bin | B+5.5 | 2008-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6obm0vrT5fM5yBh2RdMl%2Bw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第21節 | Wang Yao | Yu Bin | B+R | 2008-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1cb%2BJS7cz70luljENjywVQ%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第20節 | Yu Bin | Zhu Yuanhao | W+R | 2008-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9L%2FWGOinMuoQ1%2B8LDNNgSA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第19節 | Yu Bin | Niu Yutian | B+R | 2008-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OYIgigCVIY9Gb%2BXfqQDIUg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第18節 | Dang Yifei | Yu Bin | W+R | 2008-11-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JAwws6EW2JjIdU8ghPX3dQ%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第17節 | Yu Bin | missing | B+R | 2008-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Jp9beihcxbTDVo%2B5QhPPg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第16節 | Ma Xiaochun | Yu Bin | B+1.5 | 2008-11-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K7%2BeLTvzplGGCQX45McYtw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第15節 | Yu Bin | missing | B+R | 2008-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=btJheH0stg5XefgvG8iPfA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第14節 | Shao Weigang | Yu Bin | W+R | 2008-11-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wEIaBCpgBgGD1N1nhHhoXw%3D%3D) | 
-| 第4期威孚房開杯棋王戦1回戦 | Kong Jie | Yu Bin | B+R | 2008-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1OuklqaNzWCk0A%2FlTtBjnw%3D%3D) | 
-| 第13回三星火災杯予選2回戦 | Yu Bin | Jin Siyoung | W+9.5 | 2008-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v4%2FNcANGCtFRBj%2FratV%2FkQ%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第13節 | Luo Xihe | Yu Bin | W+R | 2008-07-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OT5Hd3kh%2FdxKhAHA9PkKBQ%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第12節 | Yu Bin | Tuo Jiaxi | B+R | 2008-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pQFkJpRzkDk%2FcIfIHExkSA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第11節 | Yu Bin | Piao Wenyao | B+R | 2008-06-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gAe%2BSKjYUOb4mIGn4mSFLg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第10節 | Wang Yao | Yu Bin | W+R | 2008-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5eIgPz%2Bb40%2BjI5fyxeWtTA%3D%3D) | 
-| 第2回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Yu Bin | Zhou Ruiyang | W+4.5 | 2008-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7BVgIvM2sBWfKfuX8bVJ6w%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第9節 | Yu Bin | Chang Hao | W+R | 2008-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wfbNfZXcaJ7rx8P8%2FCv8jQ%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第8節 | Yu Bin | Niu Yutian | W+6.5 | 2008-05-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pfl0yTEtd1XlgSTionoGUA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第7節 | Dang Yifei | Yu Bin | W+6.5 | 2008-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FRvEp57co33oNa0Zg91wMg%3D%3D) | 
-| 第5期倡棋杯中国プロ囲碁選手権戦1回戦 | Yu Bin | Chang Hao | W+R | 2008-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yD3QC2LMwcf%2BRF59q743bw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第6節 | missing | Yu Bin | B+R | 2008-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tur8OmpnUBJntSoud6ueUQ%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第5節 | Yu Bin | missing | W+0.5 | 2008-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PEBm1hp5Q51jombliJf8SA%3D%3D) | 
-| 第13回LG杯予選 | Paek Hongseok | Yu Bin | B+4.5 | 2008-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yy4anBK%2BQoCxRVrJazfTkA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第4節 | Yu Bin | Wang Yuhui | B+R | 2008-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0OuF7FvCqDW%2FafgkwHgWjQ%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第3節 | Shao Weigang | Yu Bin | W+6.5 | 2008-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yVrwVWYxhggK35NV1s%2FVtw%3D%3D) | 
-| 2008CCTV杯中国囲棋電視快棋戦3回戦 | Yu Bin | Zhu Yuanhao | W+4.5 | 2008-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LAU34HtgCO1DkV1qwRmbVQ%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第2節 | Huang Yizhong | Yu Bin | W+R | 2008-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BiIykHMm%2BEQ27uMWuc5wTQ%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第1節 | Yu Bin | Tuo Jiaxi | B+R | 2008-03-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dT76O1K%2BySx8RFUgPPudMw%3D%3D) | 
-| 第14期NEC杯囲碁戦予選 | Tan Xiao | Yu Bin | B+5.5 | 2008-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ut7tgKZGblg%2BjZ8E9aIT1g%3D%3D) | 
-| 第21期中国囲碁名人戦予選 | missing | Yu Bin | B+R | 2008-02-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=USbqiGtBcAUzk0Ck%2Bi48YQ%3D%3D) | 
-| 第22期中国囲碁天元戦予選 | Yu Bin | Li Kang | W+R | 2008-01-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NhgrkB5ONj%2BKOo5PIMIp3A%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第22節 | missing | Yu Bin | W+R | 2007-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zuYiC2GbongUWN5%2FMIQ5hw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第21節 | Yu Bin | Li Kang | W+0.5 | 2007-12-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ACW59S1tHvnxPX75VOocTQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第20節 | missing | Yu Bin | W+R | 2007-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GA77bBUK51D9Hw60tbO9lg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第19節 | Yu Bin | Wang Yang | W+R | 2007-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=toOX6If8vmIijX6YUth7sA%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第18節 | Yu Bin | Qiu Jun | B+R | 2007-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PoQuKoSI0Wr37haKy%2BUJvw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第17節 | Yu Bin | Peng Quan | W+R | 2007-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ard%2BcW2pKbouqENvMhlRuw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第16節 | Yu Bin | missing | W+0.5 | 2007-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bc6NDzbSVNWmg%2F1OhtUeIg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第15節 | Zhong Wenjing | Yu Bin | W+R | 2007-11-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oSBdVIPYWussBXlE2K4tKQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第14節 | Yu Bin | missing | B+R | 2007-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hPDxgXSlvKGChqPUEFUB9Q%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第13節 | Yu Bin | missing | B+R | 2007-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zm1Jn26%2BR9LNkxuBYzPi4Q%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第12節 | Yu Bin | Zhou Heyang | W+R | 2007-09-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=padquXrQr787D556LbRy8w%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第11節 | Yu Bin | missing | B+R | 2007-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CyIHDHsHyDnB3ImSCLuytQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第10節 | missing | Yu Bin | W+R | 2007-08-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BgJPt6TJ73bsXBrEg6ZEKA%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第9節 | Yu Bin | missing | B+R | 2007-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iwq0T12bqeCHMnaUx%2BPuag%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第8節 | Wang Yang | Yu Bin | W+0.5 | 2007-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yl5NQjKNVakbFbrpmG5yOA%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第7節 | Yu Bin | Zhu Yuanhao | B+R | 2007-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2uDtRW1v7GxXa9Epa4lQnw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第6節 | Yu Bin | Peng Quan | B+3.5 | 2007-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IOrWqPLOkiJGANdAoplCIw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第5節 | Yu Bin | Tao Xin | B+R | 2007-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=StcSsXX7byZ6GQCOb%2Fcm8Q%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第3節 | Meng Tailing | Yu Bin | B+1.5 | 2007-05-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yfMcQVycb8ybk%2Bl%2BFQwk3w%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第2節 | Wang Lei (b) | Yu Bin | B+R | 2007-05-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hlsFG8Ibu8kWdjix9LZONw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第1節 | Yu Bin | Zhou Heyang | W+R | 2007-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5VOVIaKgwn7siNDAtcmcJw%3D%3D) | 
-| 第20期中国囲碁名人戦1回戦 | Yu Bin | Piao Wenyao | W+R | 2007-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wU48XaPPtcVPU0JZMRXGoQ%3D%3D) | 
-| 第20期中国囲碁名人戦予選 | Zhu Yi | Yu Bin | W+R | 2007-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xAXcRuft3cNzSU%2F51AC2Ew%3D%3D) | 
-| 第6回西南棋王戦1回戦 | Li Jie | Yu Bin | B+R | 2007-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M3v0V3c3J9ExZQhRbUad6w%3D%3D) | 
-| 2007CCTV杯中国囲棋電視快棋戦2回戦 | Yu Bin | Xie He | W+R | 2007-02-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lv773GBrJOJh8CxEXTUjuQ%3D%3D) | 
-| 第21期中国囲碁天元戦1回戦 | Yu Bin | Zhou Ruiyang | W+R | 2007-01-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DMfbc%2By1M%2BPvU632SiW09A%3D%3D) | 
-| 第7期リコー杯囲碁戦4回戦 | Yu Bin | Chang Hao | W+R | 2006-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=574R045Y1gjIVV6rQz%2FfTQ%3D%3D) | 
-| 第7期リコー杯囲碁戦3回戦 | Yu Bin | Chen Yaoye | B+R | 2006-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7XjJ3J3IfvmatSc79Oq9Qg%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第22節 | Li Kang | Yu Bin | W+R | 2006-12-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rE45DDSU%2FbS%2BJxMbo0NfaA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第20節 | Yu Bin | missing | W+0.5 | 2006-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=To5f1j4Iv08eQWX2WWkoYg%3D%3D) | 
-| 第7期リコー杯囲碁戦2回戦 | Yin Hang | Yu Bin | W+R | 2006-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xOsZeOq8AAMmSMtk8vOKnA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第19節 | Yu Bin | Hong Minpyo | B+R | 2006-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=62yA3oQJLmOAmYcIF0Mk%2Fw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第18節 | missing | Yu Bin | W+R | 2006-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h49uElFxoyaU8GLQ%2FCC4PQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第17節 | Yu Bin | Luo Xihe | W+0.5 | 2006-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5ERLm0zXO9E6cGLXDka%2Bvw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第16節 | Piao Wenyao | Yu Bin | W+R | 2006-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DadJH1mY10UXZ76bjx3mvg%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権3回戦 | Paek Hongseok | Yu Bin | B+10.5 | 2006-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YkRnjMV7aPygCv%2BIxh8fkw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第15節 | Yu Bin | Zhu Yi | B+R | 2006-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S0%2FOC%2B%2Fpf25xXdGY%2F22GFA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第14節 | Chang Hao | Yu Bin | B+7.5 | 2006-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UqJqn9bMMzsCl%2F5JL7L7%2BQ%3D%3D) | 
-| 第3期倡棋杯中国プロ囲碁選手権戦1回戦 | Yu Bin | Zhou Ruiyang | W+11 | 2006-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IVR%2B7HCBLTMvH8SiIimQsw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第13節 | Chen Yaoye | Yu Bin | B+3.5 | 2006-10-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1hQrSCqkR7h2Sk2BWSkMmA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第12節 | Yu Bin | missing | W+2.5 | 2006-10-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tFCCnOWnJq4YNXTrSKv3iQ%3D%3D) | 
-| 第1回衢州・爛柯杯中国囲棋冠軍戦決勝 | Yu Bin | Gu Li | B+R | 2006-09-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hEuWNzjP4%2BjGeBn0JdlrbA%3D%3D) | 
-| 第1回衢州・爛柯杯中国囲棋冠軍戦準決勝 | Yu Bin | Chang Hao | B+R | 2006-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9am1bCHW%2FrHSdTm1IkkwKA%3D%3D) | 
-| 第1回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Nie Weiping | Yu Bin | W+6.5 | 2006-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sbYjeqIGlgAFE4jeBe2uOQ%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権2回戦 | Yu Bin | Ko Keuntae | B+R | 2006-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eAdV1COEDiFE6P042E%2BWHw%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権1回戦 | Yu Bin | Kim Hyeongwoo | B+2.5 | 2006-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VK8NnGfKix4bVcs0pfjBTQ%3D%3D) | 
-| 第11回三星火災杯予選決勝 | Yu Bin | Lee Yeongkyu | B+2.5 | 2006-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=USPil5eocWhwDYyymwLPXA%3D%3D) | 
-| 第11回三星火災杯予選準決勝 | An Joyeong | Yu Bin | W+R | 2006-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kQhwgCO4G%2FP2cEl5JKapZQ%3D%3D) | 
-| 第11回三星火災杯予選3回戦 | Yu Bin | Lee Huiseong | B+R | 2006-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6fKewHs0NsQ%2F%2FDnV07B1CA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第11節 | Yu Bin | missing | B+R | 2006-08-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QPTnRpl3HTM7SCA%2BIh2MsQ%3D%3D) | 
-| 第8期阿含・桐山杯中国早碁オープン戦1回戦 | Luo Xihe | Yu Bin | B+9.5 | 2006-08-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ST98z%2FBSwVGXUKVCH4%2FFVw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第10節 | Li Kang | Yu Bin | W+R | 2006-07-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gTWaudpOoMBW%2BsKLrGu6Qw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第9節 | Yu Bin | Ding Wei | B+1.5 | 2006-07-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aU7G%2B%2Ba7p7%2FAHYZOR97kzA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第8節 | Hong Minpyo | Yu Bin | W+2.5 | 2006-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xNfmJ%2BIVa6wt6n2T4wTUqA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第7節 | Peng Liyao | Yu Bin | W+R | 2006-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SVZj3mIfDHlWJNiXPeeTxw%3D%3D) | 
-| 第8期阿含・桐山杯中国早碁オープン戦予選 | Chang Hao | Yu Bin | W+R | 2006-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x2%2BBCmTsFZS72Isy59S3CQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第6節 | Huang Yizhong | Yu Bin | B+3.5 | 2006-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lAL%2BEtLj15rUu8902dhHlA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第5節 | Yu Bin | Wang Lei (b) | W+2.5 | 2006-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IJ%2B4BCnST3lRJx0vYviEAw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第4節 | Yue Liang | Yu Bin | B+1.5 | 2006-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9wDgL1Lh8xO8BOom0tvTSQ%3D%3D) | 
-| 第11回LG杯世界棋王戦2回戦 | Yu Bin | Cho Hanseung | W+11.5 | 2006-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Gd3pQD41PCZ1eZlfLuESA%3D%3D) | 
-| 第11回LG杯世界棋王戦1回戦 | Choi Myeonghun | Yu Bin | W+9.5 | 2006-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iBmCNDO4u1faB1WmsxLUEQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第3節 | Yu Bin | Liu Shizhen | B+R | 2006-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NdpHYBnt2BxNSjbqB6WYWg%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第2節 | missing | Yu Bin | W+2.5 | 2006-04-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z8n4ftmkOwrdp6PnSPXJoA%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯1回戦 | Yu Bin | Yuki Satoshi | W+R | 2006-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WRTjoNrVB2MI1PWhOqRgnQ%3D%3D) | 
-| 2006CCTV杯中国囲棋電視快棋戦2回戦 | Yu Bin | missing | W+2.5 | 2006-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XMF6aVa1PjkR0LDoOO%2FvJA%3D%3D) | 
-| 第19期中国囲碁名人戦1回戦 | Chen Yaoye | Yu Bin | B+R | 2006-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WnQU3RBBAt2kMQRseACNoA%3D%3D) | 
-| 第6回春蘭杯世界囲碁選手権1回戦 | Yu Bin | Cho Chikun | W+2.5 | 2006-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BUw1BNetLjQ3zOPDFsODAA%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦中国選抜戦 | Yu Bin | Xie He | W+R | 2006-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dprRZzZMVZ9UwGrtA1s5mw%3D%3D) | 
-| 2006CCTV杯中国囲棋電視快棋戦1回戦 | Yu Bin | Tuo Jiaxi | B+3.5 | 2006-01-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x%2F8OzDikxrIQpnNFO97veQ%3D%3D) | 
-| 第18期中国囲碁名人戦挑戦手合五番勝負第3局 | Yu Bin | Gu Li | W+R | 2006-01-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jSRGp7L2PRLZX%2B2udUvUTQ%3D%3D) | 
-| 第6期リコー杯囲碁戦3回戦 | Luo Xihe | Yu Bin | B+R | 2006-01-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BvtoTR9%2BnGj01DfVWY%2Fc%2Bw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第22節 | Liu Xiaoguang | Yu Bin | B+1.5 | 2005-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9cqcKrDYHG5ICgZ13b1eOQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第21節 | Yu Bin | Gu Lingyi | B+7.5 | 2005-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hCMQCOWHTTTCLRaQXLvR%2BQ%3D%3D) | 
-| 第18期中国囲碁名人戦挑戦手合五番勝負第2局 | Gu Li | Yu Bin | B+15.5 | 2005-12-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VjmL4VUoenWtL3lqRexCKQ%3D%3D) | 
-| 第18期中国囲碁名人戦挑戦手合五番勝負第1局 | Yu Bin | Gu Li | W+2.5 | 2005-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=02rdSfZS5KwY6Zpzv3JrDQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第20節 | Hu Yaoyu | Yu Bin | B+R | 2005-12-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O%2FtGhBmYaKKNCa7bmzNumg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第19節 | Yu Bin | Zhou Ruiyang | B+R | 2005-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MAn5j37YCfZHbb7rCns3Og%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第18節 | Yu Bin | Yin Hang | B+R | 2005-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jHQdqR5CjBlxMsRmCNxL5Q%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第17節 | Yu Bin | Wang Lei (b) | W+R | 2005-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CPR%2Bef3ZFpL1N3cVonrzLw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第16節 | Li Zhe | Yu Bin | B+3.5 | 2005-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DDiwEtjmtOtCWhy1V4gMCQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第15節 | Yu Bin | Luo Xihe | W+R | 2005-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9XfAQD9q8SnuB6R2YRuXJg%3D%3D) | 
-| 第2期倡棋杯中国プロ囲碁選手権戦3回戦 | Yu Bin | Zhou Heyang | W+R | 2005-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=foJpQgAvdSAwJNSwlld8Vg%3D%3D) | 
-| 第2期倡棋杯中国プロ囲碁選手権戦2回戦 | Peng Quan | Yu Bin | W+R | 2005-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6WiubmGnvQkDrZzqck%2Bfwg%3D%3D) | 
-| 第2期倡棋杯中国プロ囲碁選手権戦1回戦 | Niu Yutian | Yu Bin | W+R | 2005-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XnDkxNr6jFH%2BLuyupDBtrA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第14節 | Kong Jie | Yu Bin | B+R | 2005-10-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BYlIGteDrt%2FM5Q88OSp7tg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第12節 | Gu Li | Yu Bin | B+R | 2005-10-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dbWOAHIfKZ5QcXejmLPf%2Fg%3D%3D) | 
-| 第11期NEC杯囲碁戦2回戦 | Zhou Heyang | Yu Bin | B+R | 2005-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XB9gUrpS%2FIn%2FYQl0Txlf3Q%3D%3D) | 
-| 第18期中国囲碁名人戦挑戦者決定戦第3局 | Luo Xihe | Yu Bin | W+R | 2005-09-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1dSS8In6K5bbuEIZtNu7rQ%3D%3D) | 
-| 第18期中国囲碁名人戦挑戦者決定戦第2局 | Luo Xihe | Yu Bin | W+R | 2005-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IPcyOMr0TDeGdbr7MSLURA%3D%3D) | 
-| 第18期中国囲碁名人戦挑戦者決定戦第1局 | Yu Bin | Luo Xihe | W+R | 2005-09-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zpxDQJic9jOHk5mSkcMQqw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第11節 | Yu Bin | Li Kang | B+R | 2005-08-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e4Ew8t9Fm%2Bbbst6XnJvGUQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第10節 | Li Jie | Yu Bin | W+R | 2005-08-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WnS%2B4MpOV84PJq53H4nQpA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第9節 | Yu Bin | Hu Yaoyu | B+7.5 | 2005-08-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MAB3EvlPfyohMpLLns0Nnw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第8節 | missing | Yu Bin | B+1.5 | 2005-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uiCZbihIh%2BOQzAbuYoDXpQ%3D%3D) | 
-| 第7回農心杯中国選抜戦 | Yu Bin | Wang Xi | W+5.5 | 2005-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mB6r0UE%2FoHxzJ%2B%2FXA%2Fl%2FaA%3D%3D) | 
-| 第11期NEC杯囲碁戦1回戦 | Yu Bin | missing | B+R | 2005-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3l9ig3bwcCOXjWqwNci2vA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第7節 | Xie He | Yu Bin | W+6.5 | 2005-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BZgZVVPgMwR4WDTf5NadGA%3D%3D) | 
-| 第18期中国囲碁名人戦準決勝 | Yu Bin | Liu Shizhen | B+R | 2005-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q5WY%2FpN%2Bfxtj41HKMNBQiw%3D%3D) | 
-| 第18期中国囲碁名人戦3回戦 | Yu Bin | Wang Lei (s) | B+1.5 | 2005-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZXZgnieFjlaik1N8vVXs%2BA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第6節 | Wang Lei (b) | Yu Bin | W+R | 2005-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e0CoQ8MJWhIKUZvDAfHq4Q%3D%3D) | 
-| 第17回テレビアジア選手権準決勝 | Yu Bin | Cho U | W+2.5 | 2005-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SPSIqeLikpQWQW9aVpw9DQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第5節 | Li Zhe | Yu Bin | W+R | 2005-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hvhe%2B8ZWcZ2uFJ0pF%2FYY7w%3D%3D) | 
-| 第18回世界囲碁選手権富士通杯3回戦 | Lee Sedol | Yu Bin | B+2.5 | 2005-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nVWdoQHureYkezfVb7nLQw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第4節 | Huang Yizhong | Yu Bin | B+5.5 | 2005-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RYgrwpivszuNy%2F3JzinGew%3D%3D) | 
-| 第10回LG杯世界棋王戦1回戦 | Yu Bin | Park Cheongsang | W+7.5 | 2005-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y3zl9JgKiETUoniNbvZQmA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第3節 | Kong Jie | Yu Bin | B+1.5 | 2005-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8gdRIFXS3LOwkGSw7QMSwg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第2節 | Wang Yao | Yu Bin | W+R | 2005-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jPYagemfTt43reWKIZxJJw%3D%3D) | 
-| 第9回LG杯世界棋王戦決勝五番勝負第4局 | Yu Bin | Cho U | W+2.5 | 2005-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2%2FmUJqM%2BAU6l1QuTb1Ogcg%3D%3D) | 
-| 第9回LG杯世界棋王戦決勝五番勝負第3局 | Cho U | Yu Bin | B+R | 2005-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kut1XrBwgW4ZeS2qD9VpWA%3D%3D) | 
-| 第18回世界囲碁選手権富士通杯2回戦 | Zhou Junxun | Yu Bin | W+3.5 | 2005-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s1CDS3LH7w%2FL0cHBdS3JUg%3D%3D) | 
-| 第18回世界囲碁選手権富士通杯1回戦 | Yu Bin | Ishida Yoshio | B+8.5 | 2005-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kcj7Is8eke5S7C%2BJ8kU9%2Fg%3D%3D) | 
-| 第9回LG杯世界棋王戦決勝五番勝負第2局 | Yu Bin | Cho U | W+1.5 | 2005-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oTGtyfo1e93nkaRcJznyNQ%3D%3D) | 
-| 第9回LG杯世界棋王戦決勝五番勝負第1局 | Cho U | Yu Bin | W+R | 2005-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z67roVbBXmFgnKsXYeyKDg%3D%3D) | 
-| 第19期中国囲碁天元戦1回戦 | missing | Yu Bin | W+R | 2005-01-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FIcF%2BKOh1Q6WLNsPv3ofcw%3D%3D) | 
-| 第9回LG杯世界棋王戦準決勝 | Yu Bin | Lee Changho | B+R | 2005-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5JzPDTuC5G6VF2j92NH7OA%3D%3D) | 
-| 第5期リコー杯囲碁戦3回戦 | Yu Bin | Wang Xi | W+R | 2005-01-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U7sguVq1YLULFP%2Fhf3ySMA%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第22節 | Yu Bin | missing | B+1.5 | 2004-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f15iu7N22%2FqhrCiGSgCMZA%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第21節 | Liu Xing | Yu Bin | W+R | 2004-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vqrDxyQaHGoy%2FRiv1t5GfQ%3D%3D) | 
-| 第2期威孚房開杯棋王戦準決勝 | Zhou Heyang | Yu Bin | B+R | 2004-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ovFBUijsWRv35CCrMHyabA%3D%3D) | 
-| 第2期威孚房開杯棋王戦1回戦 | Yu Bin | Chang Hao | B+R | 2004-11-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BO2CKGhGvVyH6haSGiOUag%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第19節 | Yu Bin | Zhu Yi | B+R | 2004-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N5UD1U9lEmpwOo1yW7MzOA%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第18節 | Kim Seungjun | Yu Bin | W+R | 2004-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ktbRs6pgMESEtGXWFi1bsQ%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第17節 | Yu Bin | Gu Lingyi | W+0.5 | 2004-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3TpdEGOfLBP8hcNBQdoEvw%3D%3D) | 
-| 第1期倡棋杯中国プロ囲碁選手権戦3回戦 | Kong Jie | Yu Bin | B+R | 2004-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vRRNIOB8E5vlZKnypjn4Ng%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第16節 | Zhang Wendong | Yu Bin | W+10.5 | 2004-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xnmcOm%2BIF0ErDD56OwdnYQ%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第15節 | missing | Yu Bin | W+0.5 | 2004-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D%2B35lGqXHEqdZ%2BdCOhJ0mA%3D%3D) | 
-| 第9回LG杯世界棋王戦3回戦 | Yu Bin | Weon Seongjin | B+6.5 | 2004-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P186uMg2u0Vw74zz%2Fwd0dQ%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第12節 | Yu Bin | Xie He | W+R | 2004-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YAIQ4pEssm6SetZdG5Ehrg%3D%3D) | 
-| 第2期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Lee Sedol | Yu Bin | B+2.5 | 2004-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UlGNxo8C9qZU45dNurJAjA%3D%3D) | 
-| 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Kobayashi Koichi | Yu Bin | W+R | 2004-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FgekfUSuhHSlu8w1220M7A%3D%3D) | 
-| 第6回農心杯中国選抜戦 | Luo Xihe | Yu Bin | B+R | 2004-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tkcv1Z2Fb0VW1D6VKoISQg%3D%3D) | 
-| 第6回農心杯中国選抜戦 | Ding Wei | Yu Bin | W+R | 2004-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ts1Ob3soX8L4xVrQ58ikNQ%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第11節 | missing | Yu Bin | W+R | 2004-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WvuWJe3NlJrUmPmU4jcjPQ%3D%3D) | 
-| 第17期中国囲碁名人戦準決勝 | Yu Bin | Gu Li | W+8.5 | 2004-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aPkBD%2F18xDupoH6a7FN5%2BQ%3D%3D) | 
-| 第17期中国囲碁名人戦3回戦 | Peng Quan | Yu Bin | W+R | 2004-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z%2FG2HbqhAgi0dsnq3RyIww%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第8節 | missing | Yu Bin | W+6.5 | 2004-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vARJBa%2Fy9h%2BI4xHd53pv1A%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第7節 | Yu Bin | Li Zhe | W+R | 2004-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hj7sIT9%2FefXUHrvLUFATlA%3D%3D) | 
-| 第9回LG杯世界棋王戦2回戦 | Park Seunghyeon | Yu Bin | W+R | 2004-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ufrwxvRyPIJo%2B5mCwUQtRg%3D%3D) | 
-| 第16回テレビアジア選手権決勝 | Yu Bin | Song Taekon | B+12.5 | 2004-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YsdJzPM3fBJPSpXsAhCBBA%3D%3D) | 
-| 第16回テレビアジア選手権 | Cho Chikun | Yu Bin | W+R | 2004-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QOD%2BjrPEKLLYBP%2F3vIk8uA%3D%3D) | 
-| 第16回テレビアジア選手権 | Park Byeongkyu | Yu Bin | W+R | 2004-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IwEhn7DNwXX8VD5vJPx4qQ%3D%3D) | 
-| 第17期中国囲碁名人戦2回戦 | Ding Wei | Yu Bin | W+R | 2004-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=peI6PFI1VtBJWuJrC2XLQg%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第2節 | Wang Lei (s) | Yu Bin | W+0.5 | 2004-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WMBeuonRRREQAxlkEAYxDA%3D%3D) | 
-| 第5回応氏杯世界選手権2回戦 | Yu Bin | Song Taekon | W+R | 2004-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pQVfxaLf3hlAtyE0QZpT5A%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第1節 | Yu Bin | Ma Xiaochun | B+R | 2004-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tcBn7SxAvNoec%2B0V%2B1gJ5Q%3D%3D) | 
-| 第3回CSK杯囲碁アジア対抗戦第3戦 | Yu Bin | Song Taekon | B+R | 2004-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3fyR0AH74or8ghmuSGONsQ%3D%3D) | 
-| 第3回CSK杯囲碁アジア対抗戦第2戦 | O Rissei | Yu Bin | B+15.5 | 2004-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KtA6EuW6yte8QVEyuzEpdg%3D%3D) | 
-| 第3回CSK杯囲碁アジア対抗戦第1戦 | Yu Bin | Yamashita Keigo | B+R | 2004-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UUTLTn8ww%2BMVSFCgU2EaJg%3D%3D) | 
-| 第18期中国囲碁天元戦挑戦者決定戦 | Xie He | Yu Bin | B+R | 2004-02-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cpzvRCt%2BOQgB6Y4Zbl1BAg%3D%3D) | 
-| 第18期中国囲碁天元戦準決勝 | Kong Jie | Yu Bin | W+R | 2004-02-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BSUKp0vSQ7y5%2FFviOdQGSQ%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権2回戦 | Yu Bin | Lee Changho | W+6.5 | 2003-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cLoC5foTIsos2n%2FbO2omSQ%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権1回戦 | Yu Bin | Lee Sedol | B+R | 2003-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZNKfN3SjlpwKC%2F3FzU68Og%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第22節 | Ma Xiaochun | Yu Bin | B+R | 2003-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rfCj6RqzHlCcjLbwFSTnXQ%3D%3D) | 
-| 第16期中国囲碁名人戦挑戦者決定戦第3局 | Yu Bin | Qiu Jun | W+R | 2003-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eSNBAOBbaxBdzAPTK8T6Xw%3D%3D) | 
-| 第16期中国囲碁名人戦挑戦者決定戦第2局 | Qiu Jun | Yu Bin | W+R | 2003-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G469SvxKO4ttViYptncoaA%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第21節 | Yu Bin | Jing Shi | B+5.5 | 2003-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UCswbYxP7ZMsOW19O67w3Q%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第19節 | Yu Bin | Wang Yang | B+R | 2003-11-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WFUiKALxAvdLrDi1G1yiBg%3D%3D) | 
-| 第16期中国囲碁名人戦挑戦者決定戦第1局 | Yu Bin | Qiu Jun | W+R | 2003-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jUHMGjl0EQzg%2BJfXoQ7%2FRw%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第18節 | Wang Yao | Yu Bin | W+R | 2003-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fWJ9hQrOds3WMhqj4lkRVg%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第17節 | Yu Bin | Gu Lingyi | B+R | 2003-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VXBZIPN5AMVeaMBw%2FVAjaw%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第16節 | Qiu Jun | Yu Bin | W+R | 2003-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c2NHipWQhh6230NIp0wVWQ%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第15節 | Yu Bin | Wang Lei (s) | W+8.5 | 2003-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dk2mA75ODwukF4%2BtnpT90A%3D%3D) | 
-| 第5回農心辛ラーメン杯世界囲碁最強戦第1戦 | Yu Bin | Cho U | W+R | 2003-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j9l63ph1PV0Yjdb4dpj2Hg%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第13節 | Wang Xi | Yu Bin | B+5.5 | 2003-10-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=74%2FOBBkggsKdfMe9iVTsFg%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第12節 | Yu Bin | Liu Xiaoguang | W+R | 2003-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nbdd8WmSoqnTe775rvAnXQ%3D%3D) | 
-| 第1期威孚房開杯棋王戦決勝 | Nie Weiping | Yu Bin | B+R | 2003-10-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2MLe5rWOijRVD1MIJO4MBg%3D%3D) | 
-| 第1期威孚房開杯棋王戦2回戦 | Chang Hao | Yu Bin | W+R | 2003-10-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aTJMZWb1eeoMJlLcaOxFZg%3D%3D) | 
-| 第1期威孚房開杯棋王戦1回戦 | Yu Bin | Ma Xiaochun | B+R | 2003-10-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=che09cGZ5jjDsunvqISYAw%3D%3D) | 
-| 第5期阿含・桐山杯中国早碁オープン戦1回戦 | Yu Bin | Gu Li | W+R | 2003-10-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MJokaozPWjFGSHqBeAQ9%2BQ%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第9節 | Yu Bin | Zhu Songli | B+R | 2003-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zBMUumHr4bESx2REeSDjVQ%3D%3D) | 
-| 第16期中国囲碁名人戦準決勝 | Yu Bin | Dong Yan | B+R | 2003-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=skZcx%2BCvp9Kh8SRJC4oM9Q%3D%3D) | 
-| 第8期三星杯1回戦 | Yamada Kimio | Yu Bin | B+R | 2003-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jrzEL6gGNhd6AgvQRiWDVw%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第8節 | Yu Bin | Kong Jie | B+1.5 | 2003-08-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yDqQ5ae%2FHJ6clPvbY4hysA%3D%3D) | 
-| 第16期中国囲碁名人戦3回戦 | Fang Jie | Yu Bin | W+R | 2003-08-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FiDFT3qGAeomuFi40yUuJQ%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第11節 | Yu Bin | Wang Yuhui | B+R | 2003-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5%2BH3v33vfsImgTjkmWOLig%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第7節 | Ding Wei | Yu Bin | W+R | 2003-08-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ys9no%2BP5f0A0nR4%2BVUBoIg%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第6節 | missing | Yu Bin | W+R | 2003-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=95Q63ZTvOc3wGlX3mEzlDA%3D%3D) | 
-| 第8回LG杯世界棋王戦2回戦 | Yu Bin | Lee Sedol | W+2.5 | 2003-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VmG%2FroA7JE6GHepE1Cacpg%3D%3D) | 
-| 第8回LG杯世界棋王戦1回戦 | Yu Bin | Hong Jansik | B+R | 2003-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=So72BIcoE%2BmswlabNQIcMg%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第3戦 | Yu Bin | Hane Naoki | B+R | 2003-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IhxKwGqM6d0CowIe58KvDw%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第2戦 | Cho U | Yu Bin | B+0.5 | 2003-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kicvCZoWW6qXSB%2BF8l%2BEtQ%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第1戦 | Yu Bin | Cho Hunhyun | B+R | 2003-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kXzfXAHsDhZCH4ZmZp2sJA%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第1節 | Yu Bin | missing | W+R | 2003-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wjrb0n46AcELKlnRqb1FoA%3D%3D) | 
-| 第17期中国囲碁天元戦2回戦 | Yu Bin | Cao Dayuan | W+R | 2003-02-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vzhrQfbx1lZAY1%2F2Q%2FQZoA%3D%3D) | 
-| 第15期中国囲碁名人戦挑戦者決定戦第2局 | Yu Bin | Zhou Heyang | W+R | 2003-01-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a%2F9d9rZpqqr2vQHRj8SRBw%3D%3D) | 
-| 第15期中国囲碁名人戦挑戦者決定戦第1局 | Zhou Heyang | Yu Bin | B+9.5 | 2003-01-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nnZiRgnYkIPuWH1CwucReg%3D%3D) | 
-| 第5期楽百氏杯囲碁戦挑戦手合三番勝負第2局 | Chang Hao | Yu Bin | B+5.5 | 2002-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D0tDZMdOLZdXKvAT%2FSBrwQ%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第21節 | Zhang Wendong | Yu Bin | W+R | 2002-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BliEEo6Imfs2yrhyss0GLg%3D%3D) | 
-| 第5期楽百氏杯囲碁戦挑戦手合三番勝負第1局 | Yu Bin | Chang Hao | W+4.5 | 2002-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wszmghoslLIqMIj%2FjM7ySw%3D%3D) | 
-| 第4期阿含・桐山杯中国早碁オープン戦決勝 | Huang Yizhong | Yu Bin | W+R | 2002-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R%2FHc2dL5rxWH0IMu3Ei1Vw%3D%3D) | 
-| 第5期楽百氏杯囲碁戦挑戦者決定戦 | Zhou Heyang | Yu Bin | W+R | 2002-10-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MPYWfg7sBHErAMHdfyYK7Q%3D%3D) | 
-| 第5期楽百氏杯囲碁戦準決勝 | Yu Bin | Wang Lei (b) | B+1.5 | 2002-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M6ojDskWdgiKnADQPSTybw%3D%3D) | 
-| 第4期阿含・桐山杯中国早碁オープン戦準決勝 | Ma Xiaochun | Yu Bin | W+R | 2002-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H770Tbjdb9BFmkHQVsA95g%3D%3D) | 
-| 第7期三星杯1回戦 | Yu Bin | Park Yeonghun | W+0.5 | 2002-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xx3bTTiL2mzk1dsEkCgHdQ%3D%3D) | 
-| 第4期阿含・桐山杯中国早碁オープン戦2回戦 | Yu Bin | Chang Hao | B+R | 2002-08-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=63wSOef5Z%2FphSEKa7C6ZXw%3D%3D) | 
-| 第4回農心杯中国選抜戦 | Yu Bin | Luo Xihe | W+R | 2002-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eo1r2mRzRWIiw5q8J8b3jg%3D%3D) | 
-| 第4期阿含・桐山杯中国早碁オープン戦1回戦 | Kong Jie | Yu Bin | W+R | 2002-08-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eEe8grOhzIYH1mTqeEyZWw%3D%3D) | 
-| 第7期三星杯予選決勝 | Yu Bin | Fang Jie | B+R | 2002-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IvFThjTt47Y9cj%2FjZ0kWGQ%3D%3D) | 
-| 第7期三星杯予選2回戦 | Furuya Yutaka | Yu Bin | W+R | 2002-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0etCk7nBuFYNjtMDFyT9OA%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第10節 | missing | Yu Bin | W+R | 2002-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lDAgP6Vz8MpuBcE4JWa%2BiA%3D%3D) | 
-| 第4回春蘭杯世界囲碁選手権2回戦 | Cho U | Yu Bin | B+R | 2002-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UOSWtJiDHFrqeZeLcCBGxQ%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第5節 | Yu Bin | Yoo Changhyuk | W+R | 2002-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HpggO7YhpCUfslKKDDPiSg%3D%3D) | 
-| 第7回LG杯世界棋王戦2回戦 | Yoo Changhyuk | Yu Bin | B+R | 2002-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O9UeuFHHN2S8vDcDhOBuug%3D%3D) | 
-| 第7回LG杯世界棋王戦1回戦 | Zhou Junxun | Yu Bin | W+R | 2002-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=goT%2FB%2B%2BwZXjFBaAgtyg4Iw%3D%3D) | 
-| 第15期中国囲碁名人戦準決勝（再対局） | Yu Bin | Qiu Jun | B+R | 2002-03-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9HWiOQyDLcunnTUa3SyNCg%3D%3D) | 
-| 第15期中国囲碁名人戦準決勝 | Yu Bin | Qiu Jun | Void | 2002-03-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ro%2F5Qe%2B3z6OS3lB5bf5uag%3D%3D) | 
-| 第15期中国囲碁名人戦3回戦 | Yu Bin | Wang Yimin | B+R | 2002-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9odG6rnbtKjE8tHIB%2BeMRg%3D%3D) | 
-| 第15期中国囲碁名人戦2回戦 | Hu Yaoyu | Yu Bin | W+R | 2002-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=erlwbtMVCoMAj6Xr%2FnTgbw%3D%3D) | 
-| 第3回農心辛ラーメン杯世界囲碁最強戦第11戦 | Cho Hunhyun | Yu Bin | B+R | 2002-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=McNGdqNTfxMwjw489ze7JA%3D%3D) | 
-| 第3回農心辛ラーメン杯世界囲碁最強戦第10戦 | Kato Masao | Yu Bin | W+5.5 | 2001-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=88PSWhXKidOaEWmiBGvPnw%3D%3D) | 
-| 第3回農心辛ラーメン杯世界囲碁最強戦第9戦 | Yu Bin | Yoo Changhyuk | B+0.5 | 2001-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GbNtfY%2BxBna1QZY2BXv82Q%3D%3D) | 
-| 第6期三星杯1回戦 | Yu Bin | Lee Sedol | W+14.5 | 2001-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9kRvvSrCo%2F6HrIDavARGJA%3D%3D) | 
-| 第6回LG杯世界棋王戦1回戦 | Yu Bin | Yang Jaeho | W+R | 2001-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ORC5lE%2Bh%2FAm%2B%2BT5fzXnRAw%3D%3D) | 
-| 第2回農心辛ラーメン杯世界囲碁最強戦第12戦 | Yu Bin | Cho Hunhyun | W+R | 2001-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uSbreySQYCiZNWZl01%2B5EQ%3D%3D) | 
-| 第5期三星杯1回戦 | Yu Bin | Lee Sedol | W+6.5 | 2000-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L8DdjdE9NzwnFeL0YGgBig%3D%3D) | 
-| 第4回応氏杯世界選手権準決勝三番勝負第2局 | Lee Changho | Yu Bin | B+R | 2000-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8%2FtTLrYgZ4R8V9kz5WJ9rw%3D%3D) | 
-| 第4回応氏杯世界選手権準決勝三番勝負第1局 | Yu Bin | Lee Changho | W+5 | 2000-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3jKBHNoJDlV5Do9SaUnwqQ%3D%3D) | 
-| 第5回LG杯世界棋王戦2回戦 | Seo Bongsoo | Yu Bin | B+8.5 | 2000-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EhedvehvPAQGSRkKei1Gnw%3D%3D) | 
-| 第4回LG杯世界棋王戦決勝五番勝負第4局 | Yoo Changhyuk | Yu Bin | W+5.5 | 2000-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KGm3eQCrFvWaOoCeXsp%2FcQ%3D%3D) | 
-| 第4回LG杯世界棋王戦決勝五番勝負第3局 | Yu Bin | Yoo Changhyuk | B+4.5 | 2000-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cDup8PXvlt5MSYh12Wm0Tg%3D%3D) | 
-| 第4回応氏杯世界選手権3回戦 | Yu Bin | Otake Hideo | B+9 | 2000-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=54ClI4szgF0y2UafMJ2lIQ%3D%3D) | 
-| 第4回応氏杯世界選手権2回戦 | Yu Bin | Cho Chikun | B+R | 2000-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nJJedbv%2F4jOC0Z%2FjxkTCLg%3D%3D) | 
-| 第4回応氏杯世界選手権1回戦 | Yu Bin | Seo Bongsoo | B+R | 2000-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wGjyPSwQ6Ae3Q5OSlsA11A%3D%3D) | 
-| 第4回LG杯世界棋王戦決勝五番勝負第2局 | Yoo Changhyuk | Yu Bin | B+R | 2000-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0XlCu0Y2wbI22xkrVFN6yg%3D%3D) | 
-| 第4回LG杯世界棋王戦決勝五番勝負第1局 | Yu Bin | Yoo Changhyuk | B+4.5 | 2000-02-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qT%2BkGcAPCI9p%2Fx6RBuMTUQ%3D%3D) | 
-| 第4回LG杯世界棋王戦準決勝 | Cho Hunhyun | Yu Bin | W+2.5 | 2000-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HHaqz%2BLTYAB%2Brj7izY3buA%3D%3D) | 
-| 第4回LG杯世界棋王戦3回戦 | O Rissei | Yu Bin | W+3.5 | 1999-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JfL0jg7542FtKYgxaVtumg%3D%3D) | 
-| 第4期三星杯1回戦 | Lee Changho | Yu Bin | B+7.5 | 1999-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6Bo3sDcaI4Glql1MfiP0jg%3D%3D) | 
-| 第4回LG杯世界棋王戦2回戦 | Yu Bin | Paek Daehyun | B+R | 1999-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SY62ZDf6DsCqHMTiKQBPCw%3D%3D) | 
-| 第3回LG杯世界棋王戦準決勝 | Ma Xiaochun | Yu Bin | B+8.5 | 1999-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1eNilTffxS5SEfMIyUuwyg%3D%3D) | 
-| 第3回LG杯世界棋王戦3回戦 | Kudo Norio | Yu Bin | W+1.5 | 1998-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3egWBl%2FqQYjJ0j9YGZwmzQ%3D%3D) | 
-| 第3回LG杯世界棋王戦2回戦 | Yu Bin | Cho Hunhyun | B+2.5 | 1998-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M5Mkmv1Su6hjvjWPx%2Be1RQ%3D%3D) | 
-| 第3回LG杯世界棋王戦1回戦 | Mok Jinseok | Yu Bin | W+R | 1998-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7yVn1KoOQqw9xCn84q235w%3D%3D) | 
-| 第3回応氏杯世界選手権1回戦 | Lee Changho | Yu Bin | B+7 | 1996-04-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5AfimZsv8NI1ifIVSgSHbw%3D%3D) | 
-| 第1期棋王戦（中国）決勝五番勝負第3局 | Qian Yuping | Yu Bin | B+1 | 1989-06-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y%2FpGMuSM%2BBViQuNw%2Bkm3qQ%3D%3D) | 
-| 第1期棋王戦（中国）決勝五番勝負第2局 | Yu Bin | Qian Yuping | W+R | 1989-03-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=22T1KynRRlAVFYj2i0Wuuw%3D%3D) | 
-| 第1期棋王戦（中国）決勝五番勝負第1局 | Qian Yuping | Yu Bin | B+3 | 1989-03-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vTeoJRADjB7QXbVUhmDPEQ%3D%3D) | 
-| 第1期棋王戦（中国）準決勝第2局 | Yu Bin | missing | B+9 | 1988-12-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2SrbyBKqClpJL6A7TJMtQQ%3D%3D) | 
-| 第1期棋王戦（中国）準決勝第1局 | missing | Yu Bin | W+R | 1988-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xMya51ID6pjI4fXcg0oy7A%3D%3D) | 
-| 第1期棋王戦（中国）3回戦 | Jiang Zhujiu | Yu Bin | W+R | 1988-07-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rBhC7SGOuQsmPV9Un87CyA%3D%3D) | 
-| 第1期棋王戦（中国）2回戦 | Yu Bin | missing | B+R | 1988-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=90CgXA0s5r2PC9CkzDTjEA%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-02 | 第12期中国竜星戦予選 |  | Yu Bin | Lose | B+3¾ | 7.5 | missing | -2786 | 
+| 2019-12-25 | 第5期洛陽白雲山杯中国棋聖戦予選 | Yu Bin | Xie He | Lose | W+¼ | 7.5 | 2786 | -10 | 
+| 2019-12-24 | 第11期中国竜星戦Bブロック5回戦 | Yu Bin | Zhao Chenyu | Lose | W+R | 7.5 | 2796 | -32 | 
+| 2019-07-04 | 第24回三星火災杯統合予選準決勝 | Seo Bongsoo | Yu Bin | Lose | B+R | 6.5 | 2828 | -48 | 
+| 2019-06-12 | 2019年1004島新安国際シニア囲碁大会個人戦決勝 | Yu Bin | O Rissei | Lose | W+5.5 | 6.5 | 2876 | 0 | 
+| 2019-06-12 | 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | Yu Bin | Yoda Norimoto | Win | B+6.5 | 6.5 | 2876 | -25 | 
+| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会個人戦準決勝 | Yoda Norimoto | Yu Bin | Win | W+3.5 | 6.5 | 2901 | 0 | 
+| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | Yu Bin | O Meien | Win | B+1.5 | 6.5 | 2901 | 48 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | Yu Bin | Yang Jaeho | Win | B+5.5 | 6.5 | 2853 | 0 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | Yoo Changhyuk | Yu Bin | Lose | B+5.5 | 6.5 | 2853 | -36 | 
+| 2019-06-08 | 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Rin Kaiho | Yu Bin | Win | W+T | 6.5 | 2889 | 90 | 
+| 2019-05-21 | 第4回夢百合杯統合予選 | Yu Bin | Lee Yeongkyu | Win | B+R | 7.5 | 2799 | 43 | 
+| 2019-04-17 | 第3回中日韓囲碁元老戦決勝 | Yoo Changhyuk | Yu Bin | Lose | B+5¼ | 7.5 | 2756 | -54 | 
+| 2019-04-16 | 第3回中日韓囲碁元老戦準決勝 | Yu Bin | Seo Bongsoo | Win | B+1¾ | 7.5 | 2810 | 48 | 
+| 2019-04-15 | 第3回中日韓囲碁元老戦1回戦 | Kobayashi Satoru | Yu Bin | Win | W+R | 7.5 | 2762 | -110 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Li Qincheng | Yu Bin | Lose | B+R | 7.5 | 2872 | -21 | 
+| 2019-03-13 | 第10期中国竜星戦Bブロック6回戦 | Yu Bin | Xu Jiayang | Lose | W+R | 7.5 | 2893 | 12 | 
+| 2019-03-07 | 第10期中国竜星戦予選 | Rui Naiwei | Yu Bin | Win | W+R | 7.5 | 2881 | 0 | 
+| 2019-03-07 | 第10期中国竜星戦予選 | Yu Bin |  | Win | B+R | 7.5 | 2881 | 127 | 
+| 2019-01-24 | 第3回ワールド碁チャンピオンシップ国際予選1回戦 | Yu Bin | Imamura Toshiya | Lose | W+R | 6.5 | 2754 | -324 | 
+| 2018-05-28 | 第23回LG杯朝鮮日報棋王戦1回戦 | Lee Wonyoung | Yu Bin | Lose | B+R | 6.5 | 3078 | -39 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦2回戦 | Yu Bin | Xie Ke | Lose | W+R | 7.5 | 3117 | -19 | 
+| 2018-04-07 | 第23回LG杯予選決勝 | Zhou Ruiyang | Yu Bin | Win | W+R | 6.5 | 3136 | 61 | 
+| 2018-03-06 | 第9期中国竜星戦予選 | Yu Bin | Chang Hao | Lose | W+R | 7.5 | 3075 | 121 | 
+| 2017-04-26 | 第1回中日韓囲碁元老戦準決勝 | Yu Bin | Kobayashi Koichi | Lose | W+0.5 | 7.5 | 2954 | -40 | 
+| 2017-04-25 | 第1回中日韓囲碁元老戦2回戦 | Kobayashi Satoru | Yu Bin | Win | W+R | 7.5 | 2994 | 0 | 
+| 2017-04-25 | 第1回中日韓囲碁元老戦1回戦 | Yamashiro Hiroshi | Yu Bin | Win | W+0.5 | 7.5 | 2994 | 140 | 
+| 2016-11-24 | 第8期中国竜星戦予選 | Yu Bin | Rui Naiwei | Win | B+R | 7.5 | 2854 | 0 | 
+| 2016-11-24 | 第8期中国竜星戦予選 | Chang Hao | Yu Bin | Lose | B+R | 7.5 | 2854 | -76 | 
+| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 |  | Yu Bin | Lose | B+R | 7.5 | 2930 | -39 | 
+| 2016-10-04 | 第21回三星火災杯世界囲碁マスターズ2回戦 | Park Junghwan | Yu Bin | Lose | B+R | 6.5 | 2969 | -146 | 
+| 2016-09-08 | 第21回三星火災杯世界囲碁マスターズ1回戦B3 | Yu Bin |  | Win | B+R | 6.5 | 3115 | 72 | 
+| 2016-09-07 | 第21回三星火災杯世界囲碁マスターズ1回戦B2 | Cho Chikun | Yu Bin | Win | W+R | 6.5 | 3043 | 33 | 
+| 2016-09-06 | 第21回三星火災杯世界囲碁マスターズ1回戦B1 | Yu Bin |  | Lose | W+R | 6.5 | 3010 | -171 | 
+| 2016-07-20 | 第21回三星火災杯統合予選シニア枠決勝 | Komatsu Hideki | Yu Bin | Win | W+R | 6.5 | 3181 | 293 | 
+| 2016-05-01 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Qin Yuexin | Yu Bin | Lose | B+R | 7.5 | 2888 | 6 | 
+| 2016-04-25 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Yu Bin | Li Ang | Win | B+R | 7.5 | 2882 | -31 | 
+| 2016-02-29 | 第13期倡棋杯中国プロ囲碁選手権戦予選 | Zhou Hexi | Yu Bin | Lose | B+13 | 7.5 | 2913 | -72 | 
+| 2016-02-27 | 第13期倡棋杯中国プロ囲碁選手権戦予選 | Yu Bin | Liu Xing | Win | B+R | 7.5 | 2985 | 86 | 
+| 2016-02-26 | 第13期倡棋杯中国プロ囲碁選手権戦予選 | Xie He | Yu Bin | Win | W+T | 7.5 | 2899 | 220 | 
+| 2015-06-15 | 第17期阿含・桐山杯中国早碁オープン戦予選 |  | Yu Bin | Lose | B+R | 7.5 | 2679 | 18 | 
+| 2015-05-03 | 第28期中国囲碁名人戦予選 | Xu Jiayang | Yu Bin | Lose | B+R | 7.5 | 2661 | -165 | 
+| 2014-08-27 | 第19回三星火災杯世界囲碁マスターズ1回戦H2 | Wu Guangya | Yu Bin | Lose | B+R | 6.5 | 2826 | -24 | 
+| 2014-08-26 | 第19回三星火災杯世界囲碁マスターズ1回戦H1 | Yu Bin | Cho Hanseung | Lose | W+R | 6.5 | 2850 | -29 | 
+| 2014-08-06 | 第19回三星火災杯統合予選シニア枠決勝 | Yu Bin | Komatsu Hideki | Win | B+R | 6.5 | 2879 | 99 | 
+| 2014-06-24 | 第6期中国竜星戦予選 | Liao Yuanhe | Yu Bin | Lose | B+R | 7.5 | 2780 | -317 | 
+| 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Yu Bin | Meng Tailing | Lose | W+R | 7.5 | 3097 | 102 | 
+| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Zhu Yuanhao | Yu Bin | Lose | B+R | 7.5 | 2995 | -29 | 
+| 2014-04-02 | 第27期中国囲碁名人戦予選 | Xia Chenkun | Yu Bin | Lose | B+3.5 | 7.5 | 3024 | -60 | 
+| 2014-04-01 | 第27期中国囲碁名人戦予選 | Yu Bin | Li Xuanhao | Win | B+R | 7.5 | 3084 | 385 | 
+| 2013-05-24 | 第1回夢百合杯世界オープン戦予選 | Yu Bin | Kang Dongyun | Lose | W+R | 7.5 | 2699 | -189 | 
+| 2013-04-10 | 第26期中国囲碁名人戦予選 | Rong Yi | Yu Bin | Lose | B+R | 7.5 | 2888 | -319 | 
+| 2012-10-09 | 第4期中国竜星戦1回戦 | Wu Guangya | Yu Bin | Lose | B+R | 7.5 | 3207 | 25 | 
+| 2012-08-07 | 第17回三星火災杯統合予選決勝 | Yoo Changhyuk | Yu Bin | Lose | B+R | 6.5 | 3182 | -145 | 
+| 2012-07-05 | 第4回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Yu Bin | Shi Yue | Lose | W+R | 7.5 | 3327 | 16 | 
+| 2012-07-03 | 第4回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Zhou Zhenyu | Yu Bin | Win | W+R | 7.5 | 3311 | -228 | 
+| 2012-02-10 | 第26期中国囲碁天元戦1回戦 | Yu Bin | Peng Liyao | Lose | W+R | 7.5 | 3539 | 19 | 
+| 2011-12-26 | 第13回中国囲碁甲級リーグ第22節 | Lee Yeongkyu | Yu Bin | Lose | B+R | 7.5 | 3520 | 353 | 
+| 2011-12-03 | 第13回中国囲碁甲級リーグ第21節 | Yu Bin | Niu Yutian | Lose | W+R | 7.5 | 3167 | 58 | 
+| 2011-11-24 | 第13回中国囲碁甲級リーグ第20節 | Yu Bin | Peng Quan | Win | B+R | 7.5 | 3109 | 5 | 
+| 2011-11-05 | 第13回中国囲碁甲級リーグ第19節 | Yu Bin |  | Win | B+1.5 | 7.5 | 3104 | 5 | 
+| 2011-10-18 | 第13回中国囲碁甲級リーグ第17節 | Yu Bin | Wang Yuhui | Lose | W+R | 7.5 | 3099 | -43 | 
+| 2011-10-08 | 第13回中国囲碁甲級リーグ第16節 | Tao Xin | Yu Bin | Lose | B+R | 7.5 | 3142 | -24 | 
+| 2011-09-29 | 第13回中国囲碁甲級リーグ第15節 | Peng Liyao | Yu Bin | Lose | B+1.5 | 7.5 | 3166 | 51 | 
+| 2011-09-10 | 第13回中国囲碁甲級リーグ第14節 | Tong Mengcheng | Yu Bin | Win | W+R | 7.5 | 3115 | 39 | 
+| 2011-09-06 | 第13回中国囲碁甲級リーグ第13節 | Yu Bin | Hong Seongji | Lose | W+R | 7.5 | 3076 | -9 | 
+| 2011-09-04 | 第13回中国囲碁甲級リーグ第12節 | Yu Bin | Chang Hao | Win | B+R | 7.5 | 3085 | 17 | 
+| 2011-07-14 | 第13回中国囲碁甲級リーグ第11節 | Yu Bin | Zhou Zhenyu | Win | B+1.5 | 7.5 | 3068 | 7 | 
+| 2011-07-09 | 第13回中国囲碁甲級リーグ第10節 | Niu Yutian | Yu Bin | Lose | B+1.5 | 7.5 | 3061 | -46 | 
+| 2011-07-02 | 第13回中国囲碁甲級リーグ第9節 | Yu Bin | Tang Weixing | Win | B+R | 7.5 | 3107 | -99 | 
+| 2011-06-25 | 第13回中国囲碁甲級リーグ第8節 | Yu Bin | Tuo Jiaxi | Lose | W+R | 7.5 | 3206 | -14 | 
+| 2011-06-18 | 第13回中国囲碁甲級リーグ第7節 | Wang Xi | Yu Bin | Win | W+R | 7.5 | 3220 | -5 | 
+| 2011-06-09 | 第13回中国囲碁甲級リーグ第6節 | Yu Bin | Wang Yuhui | Win | B+R | 7.5 | 3225 | -1 | 
+| 2011-05-28 | 第13回中国囲碁甲級リーグ第5節 | Yu Bin | Jiang Weijie | Lose | W+R | 7.5 | 3226 | -1 | 
+| 2011-05-21 | 第13回中国囲碁甲級リーグ第4節 | Yu Bin | Piao Wenyao | Lose | W+2.5 | 7.5 | 3227 | -8 | 
+| 2011-05-14 | 第13回中国囲碁甲級リーグ第3節 | Mao Ruilong | Yu Bin | Win | W+2.5 | 7.5 | 3235 | 21 | 
+| 2011-05-09 | 第13回中国囲碁甲級リーグ第2節 | Yu Bin | Wang Yao | Lose | W+2.5 | 7.5 | 3214 | -22 | 
+| 2011-05-07 | 第13回中国囲碁甲級リーグ第1節 | Qiu Jun | Yu Bin | Lose | B+R | 7.5 | 3236 | -52 | 
+| 2011-05-03 | 第16回LG杯予選 | Yu Bin | Cho Hanseung | Lose | W+R | 6.5 | 3288 | 7 | 
+| 2011-03-22 | 第24期中国囲碁名人戦予選 | Wang Haoyang | Yu Bin | Lose | B+3.5 | 7.5 | 3281 | -14 | 
+| 2011-02-21 | 第25期中国囲碁天元戦挑戦者決定戦 | Yu Bin | Zhou Hexi | Lose | W+2.5 | 7.5 | 3295 | -2 | 
+| 2011-02-19 | 第25期中国囲碁天元戦準決勝 | Yu Bin | Shi Yue | Win | B+1.5 | 7.5 | 3297 | 38 | 
+| 2011-02-17 | 第25期中国囲碁天元戦3回戦 | Yu Bin | Xie He | Win | B+R | 7.5 | 3259 | 30 | 
+| 2011-02-15 | 第25期中国囲碁天元戦2回戦 | Yu Bin |  | Win | B+3.5 | 7.5 | 3229 | 65 | 
+| 2011-02-13 | 第25期中国囲碁天元戦1回戦 | Yu Bin | Qiu Jun | Win | B+R | 7.5 | 3164 | 40 | 
+| 2011-02-12 | 第25期中国囲碁天元戦予選 | Yu Bin | Sun Li | Win | B+R | 7.5 | 3124 | 252 | 
+| 2010-12-11 | 第12回中国囲碁甲級リーグ第21節 | Yu Bin | Fan Tingyu | Lose | W+2.5 | 7.5 | 2872 | 24 | 
+| 2010-12-07 | 第11期リコー杯囲碁戦1回戦 | Yu Bin | Huang Yunsong | Win | B+11.5 | 7.5 | 2848 | -6 | 
+| 2010-12-04 | 第12回中国囲碁甲級リーグ第20節 | Kong Jie | Yu Bin | Lose | B+1.5 | 7.5 | 2854 | -59 | 
+| 2010-11-11 | 第12回中国囲碁甲級リーグ第18節 | Gu Lingyi | Yu Bin | Lose | B+5.5 | 7.5 | 2913 | -55 | 
+| 2010-10-23 | 第12回中国囲碁甲級リーグ第16節 | Zhou Heyang | Yu Bin | Win | W+R | 7.5 | 2968 | 10 | 
+| 2010-10-16 | 第12回中国囲碁甲級リーグ第15節 | Yu Bin | Li Kang | Lose | W+R | 7.5 | 2958 | 79 | 
+| 2010-09-06 | 第12回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Yu Bin | Lose | B+R | 7.5 | 2879 | 7 | 
+| 2010-09-04 | 第12回中国囲碁甲級リーグ第12節 | Yu Bin | Piao Wenyao | Lose | W+R | 7.5 | 2872 | -27 | 
+| 2010-09-01 | 第6期威孚房開杯棋王戦1回戦 | Yu Bin | Gu Lingyi | Lose | W+R | 7.5 | 2899 | -76 | 
+| 2010-07-15 | 第12回中国囲碁甲級リーグ第11節 | Wang Yuhui | Yu Bin | Win | W+R | 7.5 | 2975 | -19 | 
+| 2010-06-22 | 第7期倡棋杯中国プロ囲碁選手権戦1回戦 | Gu Lingyi | Yu Bin | Lose | B+R | 7.5 | 2994 | -8 | 
+| 2010-06-19 | 第12回中国囲碁甲級リーグ第8節 | Wang Yao | Yu Bin | Lose | B+R | 7.5 | 3002 | 74 | 
+| 2010-06-12 | 第12回中国囲碁甲級リーグ第7節 | Yu Bin |  | Win | B+R | 7.5 | 2928 | 12 | 
+| 2010-06-03 | 第12回中国囲碁甲級リーグ第6節 | Yu Bin | Tang Weixing | Lose | W+2.5 | 7.5 | 2916 | -24 | 
+| 2010-05-29 | 第12回中国囲碁甲級リーグ第5節 | Tao Xin | Yu Bin | Win | W+6.5 | 7.5 | 2940 | 101 | 
+| 2010-05-08 | 第12回中国囲碁甲級リーグ第3節 | Wang Lei (s) | Yu Bin | Win | W+R | 7.5 | 2839 | 10 | 
+| 2010-03-30 | 第23期中国囲碁名人戦予選 | Yu Bin | Wu Guangya | Lose | W+4.5 | 7.5 | 2829 | -96 | 
+| 2010-03-04 | 2010CCTV杯中国囲棋電視快棋戦2回戦 | Liu Xing | Yu Bin | Lose | B+R | 7.5 | 2925 | 44 | 
+| 2010-01-26 | 第24期中国囲碁天元戦予選 | Peng Liyao | Yu Bin | Lose | B+7.5 | 7.5 | 2881 | -133 | 
+| 2010-01-13 | 第2回BCカード杯世界選手権統合予選決勝 | Yu Bin | Na Hyun | Lose | W+0.5 | 6.5 | 3014 | 17 | 
+| 2009-12-30 | 第10期リコー杯囲碁戦2回戦 | Yu Bin | Liu Xing | Lose | W+R | 7.5 | 2997 | -8 | 
+| 2009-12-28 | 第10期リコー杯囲碁戦1回戦 | Yu Bin |  | Win | B+R | 7.5 | 3005 | 28 | 
+| 2009-12-19 | 第11回中国囲碁甲級リーグ第22節 | Yu Bin | Tuo Jiaxi | Lose | W+4.5 | 7.5 | 2977 | 5 | 
+| 2009-12-12 | 第11回中国囲碁甲級リーグ第21節 | Yu Bin | Zhu Yuanhao | Win | B+1.5 | 7.5 | 2972 | 22 | 
+| 2009-12-05 | 第11回中国囲碁甲級リーグ第20節 |  | Yu Bin | Win | W+R | 7.5 | 2950 | 34 | 
+| 2009-11-30 | 第11回中国囲碁甲級リーグ第19節 | Yu Bin | Wang Lei (b) | Lose | W+R | 7.5 | 2916 | -165 | 
+| 2009-11-07 | 第11回中国囲碁甲級リーグ第18節 | Yu Bin | Ding Wei | Win | B+R | 7.5 | 3081 | -1 | 
+| 2009-10-29 | 第11回中国囲碁甲級リーグ第17節 | Huang Yizhong | Yu Bin | Win | W+0.5 | 7.5 | 3082 | 36 | 
+| 2009-10-20 | 第5期威孚房開杯棋王戦1回戦 | Zhou Ruiyang | Yu Bin | Lose | B+5.5 | 7.5 | 3046 | 5 | 
+| 2009-10-17 | 第11回中国囲碁甲級リーグ第16節 |  | Yu Bin | Lose | B+R | 7.5 | 3041 | -23 | 
+| 2009-10-10 | 第11回中国囲碁甲級リーグ第15節 | Sun Li | Yu Bin | Win | W+2.5 | 7.5 | 3064 | 12 | 
+| 2009-09-12 | 第11回中国囲碁甲級リーグ第14節 | Yu Bin |  | Win | B+1.5 | 7.5 | 3052 | 16 | 
+| 2009-09-07 | 第11回中国囲碁甲級リーグ第13節 |  | Yu Bin | Win | W+R | 7.5 | 3036 | 16 | 
+| 2009-09-05 | 第11回中国囲碁甲級リーグ第12節 | Yu Bin | Wang Lei (s) | Lose | W+0.5 | 7.5 | 3020 | 39 | 
+| 2009-08-03 | 第14回三星火災杯統合予選1回戦 | Yu Bin | Kim Seungjun | Win | B+R | 6.5 | 2981 | -14 | 
+| 2009-07-11 | 第11回中国囲碁甲級リーグ第11節 | Yu Bin | Chen Yaoye | Lose | W+6.5 | 7.5 | 2995 | -2 | 
+| 2009-07-09 | 第11回中国囲碁甲級リーグ第10節 | Yu Bin | Zhu Yuanhao | Lose | W+R | 7.5 | 2997 | -50 | 
+| 2009-06-30 | 第11期阿含・桐山杯中国早碁オープン戦予選 |  | Yu Bin | Lose | B+5.5 | 7.5 | 3047 | -2 | 
+| 2009-06-27 | 第11回中国囲碁甲級リーグ第8節 | Shi Yue | Yu Bin | Win | W+R | 7.5 | 3049 | 77 | 
+| 2009-06-18 | 第11回中国囲碁甲級リーグ第7節 | Yu Bin | Ding Wei | Lose | W+R | 7.5 | 2972 | -28 | 
+| 2009-06-13 | 第11回中国囲碁甲級リーグ第6節 |  | Yu Bin | Win | W+R | 7.5 | 3000 | 72 | 
+| 2009-06-06 | 第11回中国囲碁甲級リーグ第5節 | Yu Bin | Meng Tailing | Lose | W+R | 7.5 | 2928 | 1 | 
+| 2009-05-30 | 第6期倡棋杯中国プロ囲碁選手権戦1回戦 | Kong Jie | Yu Bin | Lose | B+R | 7.5 | 2927 | -65 | 
+| 2009-05-28 | 第11回中国囲碁甲級リーグ第4節 | Yu Bin | Li Jie | Win | B+R | 7.5 | 2992 | 14 | 
+| 2009-05-23 | 第11回中国囲碁甲級リーグ第3節 | Ma Xiaochun | Yu Bin | Win | W+R | 7.5 | 2978 | 42 | 
+| 2009-05-14 | 第11回中国囲碁甲級リーグ第2節 |  | Yu Bin | Lose | B+7.5 | 7.5 | 2936 | -23 | 
+| 2009-05-12 | 第6期倡棋杯中国プロ囲碁選手権戦予選 | Yu Bin |  | Win | B+R | 7.5 | 2959 | 28 | 
+| 2009-05-09 | 第11回中国囲碁甲級リーグ第1節 | Wang Tao | Yu Bin | Lose | B+R | 7.5 | 2931 | -11 | 
+| 2009-04-05 | 第22期中国囲碁名人戦予選 | Tan Xiao | Yu Bin | Lose | B+R | 7.5 | 2942 | -29 | 
+| 2009-04-03 | 第22期中国囲碁名人戦予選 |  | Yu Bin | Win | W+R | 7.5 | 2971 | -14 | 
+| 2009-03-06 | 2009CCTV杯中国囲棋電視快棋戦2回戦 | Chang Hao | Yu Bin | Lose | B+1.5 | 7.5 | 2985 | -24 | 
+| 2009-03-04 | 2009CCTV杯中国囲棋電視快棋戦1回戦 | Yu Bin | Nie Weiping | Win | B+R | 7.5 | 3009 | 42 | 
+| 2009-02-11 | 第23期中国囲碁天元戦1回戦 | Yu Bin | Hu Yaoyu | Lose | W+4.5 | 7.5 | 2967 | -7 | 
+| 2009-02-10 | 第23期中国囲碁天元戦予選 | Yu Bin | Gu Lingyi | Win | B+R | 7.5 | 2974 | -54 | 
+| 2008-12-22 | 第9期リコー杯囲碁戦1回戦 | Zhou Hexi | Yu Bin | Lose | B+5.5 | 7.5 | 3028 | 37 | 
+| 2008-12-20 | 第10回中国囲碁甲級リーグ第21節 | Wang Yao | Yu Bin | Lose | B+R | 7.5 | 2991 | 84 | 
+| 2008-12-13 | 第10回中国囲碁甲級リーグ第20節 | Yu Bin | Zhu Yuanhao | Lose | W+R | 7.5 | 2907 | -18 | 
+| 2008-12-04 | 第10回中国囲碁甲級リーグ第19節 | Yu Bin | Niu Yutian | Win | B+R | 7.5 | 2925 | 276 | 
+| 2008-11-29 | 第10回中国囲碁甲級リーグ第18節 | Dang Yifei | Yu Bin | Win | W+R | 7.5 | 2649 | -35 | 
+| 2008-11-22 | 第10回中国囲碁甲級リーグ第17節 | Yu Bin |  | Win | B+R | 7.5 | 2684 | -23 | 
+| 2008-11-15 | 第10回中国囲碁甲級リーグ第16節 | Ma Xiaochun | Yu Bin | Lose | B+1.5 | 7.5 | 2707 | -4 | 
+| 2008-11-06 | 第10回中国囲碁甲級リーグ第15節 | Yu Bin |  | Win | B+R | 7.5 | 2711 | 26 | 
+| 2008-11-01 | 第10回中国囲碁甲級リーグ第14節 | Shao Weigang | Yu Bin | Win | W+R | 7.5 | 2685 | -549 | 
+| 2008-09-10 | 第4期威孚房開杯棋王戦1回戦 | Kong Jie | Yu Bin | Lose | B+R | 7.5 | 3234 | 305 | 
+| 2008-07-29 | 第13回三星火災杯予選2回戦 | Yu Bin | Jin Siyoung | Lose | W+9.5 | 6.5 | 2929 | -45 | 
+| 2008-07-05 | 第10回中国囲碁甲級リーグ第13節 | Luo Xihe | Yu Bin | Win | W+R | 7.5 | 2974 | 12 | 
+| 2008-07-01 | 第10回中国囲碁甲級リーグ第12節 | Yu Bin | Tuo Jiaxi | Win | B+R | 7.5 | 2962 | -19 | 
+| 2008-06-21 | 第10回中国囲碁甲級リーグ第11節 | Yu Bin | Piao Wenyao | Win | B+R | 7.5 | 2981 | -3 | 
+| 2008-06-14 | 第10回中国囲碁甲級リーグ第10節 | Wang Yao | Yu Bin | Win | W+R | 7.5 | 2984 | 17 | 
+| 2008-06-09 | 第2回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Yu Bin | Zhou Ruiyang | Lose | W+4.5 | 7.5 | 2967 | -11 | 
+| 2008-06-05 | 第10回中国囲碁甲級リーグ第9節 | Yu Bin | Chang Hao | Lose | W+R | 7.5 | 2978 | 27 | 
+| 2008-05-31 | 第10回中国囲碁甲級リーグ第8節 | Yu Bin | Niu Yutian | Lose | W+6.5 | 7.5 | 2951 | -41 | 
+| 2008-05-23 | 第10回中国囲碁甲級リーグ第7節 | Dang Yifei | Yu Bin | Win | W+6.5 | 7.5 | 2992 | 45 | 
+| 2008-05-22 | 第5期倡棋杯中国プロ囲碁選手権戦1回戦 | Yu Bin | Chang Hao | Lose | W+R | 7.5 | 2947 | 6 | 
+| 2008-05-15 | 第10回中国囲碁甲級リーグ第6節 |  | Yu Bin | Lose | B+R | 7.5 | 2941 | -9 | 
+| 2008-05-10 | 第10回中国囲碁甲級リーグ第5節 | Yu Bin |  | Lose | W+0.5 | 7.5 | 2950 | -3 | 
+| 2008-04-25 | 第13回LG杯予選 | Paek Hongseok | Yu Bin | Lose | B+4.5 | 6.5 | 2953 | 192 | 
+| 2008-04-17 | 第10回中国囲碁甲級リーグ第4節 | Yu Bin | Wang Yuhui | Win | B+R | 7.5 | 2761 | 17 | 
+| 2008-04-05 | 第10回中国囲碁甲級リーグ第3節 | Shao Weigang | Yu Bin | Win | W+6.5 | 7.5 | 2744 | 19 | 
+| 2008-04-02 | 2008CCTV杯中国囲棋電視快棋戦3回戦 | Yu Bin | Zhu Yuanhao | Lose | W+4.5 | 7.5 | 2725 | -6 | 
+| 2008-03-29 | 第10回中国囲碁甲級リーグ第2節 | Huang Yizhong | Yu Bin | Win | W+R | 7.5 | 2731 | 20 | 
+| 2008-03-22 | 第10回中国囲碁甲級リーグ第1節 | Yu Bin | Tuo Jiaxi | Win | B+R | 7.5 | 2711 | 116 | 
+| 2008-02-27 | 第14期NEC杯囲碁戦予選 | Tan Xiao | Yu Bin | Lose | B+5.5 | 7.5 | 2595 | -9 | 
+| 2008-02-25 | 第21期中国囲碁名人戦予選 |  | Yu Bin | Lose | B+R | 7.5 | 2604 | -25 | 
+| 2008-01-28 | 第22期中国囲碁天元戦予選 | Yu Bin | Li Kang | Lose | W+R | 7.5 | 2629 | -9 | 
+| 2007-12-22 | 第9回中国囲碁甲級リーグ第22節 |  | Yu Bin | Win | W+R | 7.5 | 2638 | -6 | 
+| 2007-12-15 | 第9回中国囲碁甲級リーグ第21節 | Yu Bin | Li Kang | Lose | W+0.5 | 7.5 | 2644 | -10 | 
+| 2007-12-08 | 第9回中国囲碁甲級リーグ第20節 |  | Yu Bin | Win | W+R | 7.5 | 2654 | -22 | 
+| 2007-12-01 | 第9回中国囲碁甲級リーグ第19節 | Yu Bin | Wang Yang | Lose | W+R | 7.5 | 2676 | -72 | 
+| 2007-11-24 | 第9回中国囲碁甲級リーグ第18節 | Yu Bin | Qiu Jun | Win | B+R | 7.5 | 2748 | -3 | 
+| 2007-11-17 | 第9回中国囲碁甲級リーグ第17節 | Yu Bin | Peng Quan | Lose | W+R | 7.5 | 2751 | -15 | 
+| 2007-11-10 | 第9回中国囲碁甲級リーグ第16節 | Yu Bin |  | Lose | W+0.5 | 7.5 | 2766 | 22 | 
+| 2007-11-01 | 第9回中国囲碁甲級リーグ第15節 | Zhong Wenjing | Yu Bin | Win | W+R | 7.5 | 2744 | 41 | 
+| 2007-10-20 | 第9回中国囲碁甲級リーグ第14節 | Yu Bin |  | Win | B+R | 7.5 | 2703 | -10 | 
+| 2007-10-13 | 第9回中国囲碁甲級リーグ第13節 | Yu Bin |  | Win | B+R | 7.5 | 2713 | 3 | 
+| 2007-09-27 | 第9回中国囲碁甲級リーグ第12節 | Yu Bin | Zhou Heyang | Lose | W+R | 7.5 | 2710 | -139 | 
+| 2007-08-25 | 第9回中国囲碁甲級リーグ第11節 | Yu Bin |  | Win | B+R | 7.5 | 2849 | -12 | 
+| 2007-08-18 | 第9回中国囲碁甲級リーグ第10節 |  | Yu Bin | Win | W+R | 7.5 | 2861 | -276 | 
+| 2007-08-09 | 第9回中国囲碁甲級リーグ第9節 | Yu Bin |  | Win | B+R | 7.5 | 3137 | -67 | 
+| 2007-07-07 | 第9回中国囲碁甲級リーグ第8節 | Wang Yang | Yu Bin | Win | W+0.5 | 7.5 | 3204 | -42 | 
+| 2007-06-30 | 第9回中国囲碁甲級リーグ第7節 | Yu Bin | Zhu Yuanhao | Win | B+R | 7.5 | 3246 | -18 | 
+| 2007-06-23 | 第9回中国囲碁甲級リーグ第6節 | Yu Bin | Peng Quan | Win | B+3.5 | 7.5 | 3264 | -8 | 
+| 2007-06-16 | 第9回中国囲碁甲級リーグ第5節 | Yu Bin | Tao Xin | Win | B+R | 7.5 | 3272 | 91 | 
+| 2007-05-24 | 第9回中国囲碁甲級リーグ第3節 | Meng Tailing | Yu Bin | Lose | B+1.5 | 7.5 | 3181 | 31 | 
+| 2007-05-19 | 第9回中国囲碁甲級リーグ第2節 | Wang Lei (b) | Yu Bin | Lose | B+R | 7.5 | 3150 | -32 | 
+| 2007-05-12 | 第9回中国囲碁甲級リーグ第1節 | Yu Bin | Zhou Heyang | Lose | W+R | 7.5 | 3182 | -16 | 
+| 2007-04-08 | 第20期中国囲碁名人戦1回戦 | Yu Bin | Piao Wenyao | Lose | W+R | 7.5 | 3198 | 10 | 
+| 2007-04-03 | 第20期中国囲碁名人戦予選 | Zhu Yi | Yu Bin | Win | W+R | 7.5 | 3188 | -55 | 
+| 2007-03-13 | 第6回西南棋王戦1回戦 | Li Jie | Yu Bin | Lose | B+R | 7.5 | 3243 | 376 | 
+| 2007-02-05 | 2007CCTV杯中国囲棋電視快棋戦2回戦 | Yu Bin | Xie He | Lose | W+R | 7.5 | 2867 | 14 | 
+| 2007-01-29 | 第21期中国囲碁天元戦1回戦 | Yu Bin | Zhou Ruiyang | Lose | W+R | 7.5 | 2853 | 76 | 
+| 2006-12-30 | 第7期リコー杯囲碁戦4回戦 | Yu Bin | Chang Hao | Lose | W+R | 7.5 | 2777 | -4 | 
+| 2006-12-29 | 第7期リコー杯囲碁戦3回戦 | Yu Bin | Chen Yaoye | Win | B+R | 7.5 | 2781 | 8 | 
+| 2006-12-23 | 第8回中国囲碁甲級リーグ第22節 | Li Kang | Yu Bin | Win | W+R | 7.5 | 2773 | 27 | 
+| 2006-12-09 | 第8回中国囲碁甲級リーグ第20節 | Yu Bin |  | Lose | W+0.5 | 7.5 | 2746 | -32 | 
+| 2006-12-03 | 第7期リコー杯囲碁戦2回戦 | Yin Hang | Yu Bin | Win | W+R | 7.5 | 2778 | -10 | 
+| 2006-11-30 | 第8回中国囲碁甲級リーグ第19節 | Yu Bin | Hong Minpyo | Win | B+R | 7.5 | 2788 | -1 | 
+| 2006-11-25 | 第8回中国囲碁甲級リーグ第18節 |  | Yu Bin | Win | W+R | 7.5 | 2789 | 17 | 
+| 2006-11-18 | 第8回中国囲碁甲級リーグ第17節 | Yu Bin | Luo Xihe | Lose | W+0.5 | 7.5 | 2772 | 48 | 
+| 2006-11-11 | 第8回中国囲碁甲級リーグ第16節 | Piao Wenyao | Yu Bin | Win | W+R | 7.5 | 2724 | -23 | 
+| 2006-11-08 | 第11回三星火災杯世界オープン囲碁選手権3回戦 | Paek Hongseok | Yu Bin | Lose | B+10.5 | 6.5 | 2747 | -7 | 
+| 2006-11-02 | 第8回中国囲碁甲級リーグ第15節 | Yu Bin | Zhu Yi | Win | B+R | 7.5 | 2754 | -3 | 
+| 2006-10-28 | 第8回中国囲碁甲級リーグ第14節 | Chang Hao | Yu Bin | Lose | B+7.5 | 7.5 | 2757 | -2 | 
+| 2006-10-23 | 第3期倡棋杯中国プロ囲碁選手権戦1回戦 | Yu Bin | Zhou Ruiyang | Lose | W+11 | 7.5 | 2759 | -22 | 
+| 2006-10-21 | 第8回中国囲碁甲級リーグ第13節 | Chen Yaoye | Yu Bin | Lose | B+3.5 | 7.5 | 2781 | -63 | 
+| 2006-10-12 | 第8回中国囲碁甲級リーグ第12節 | Yu Bin |  | Lose | W+2.5 | 7.5 | 2844 | 17 | 
+| 2006-09-22 | 第1回衢州・爛柯杯中国囲棋冠軍戦決勝 | Yu Bin | Gu Li | Win | B+R | 7.5 | 2827 | 15 | 
+| 2006-09-21 | 第1回衢州・爛柯杯中国囲棋冠軍戦準決勝 | Yu Bin | Chang Hao | Win | B+R | 7.5 | 2812 | 28 | 
+| 2006-09-19 | 第1回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Nie Weiping | Yu Bin | Win | W+6.5 | 7.5 | 2784 | -23 | 
+| 2006-09-08 | 第11回三星火災杯世界オープン囲碁選手権2回戦 | Yu Bin | Ko Keuntae | Win | B+R | 6.5 | 2807 | 13 | 
+| 2006-09-06 | 第11回三星火災杯世界オープン囲碁選手権1回戦 | Yu Bin | Kim Hyeongwoo | Win | B+2.5 | 6.5 | 2794 | -46 | 
+| 2006-08-17 | 第11回三星火災杯予選決勝 | Yu Bin | Lee Yeongkyu | Win | B+2.5 | 6.5 | 2840 | -2 | 
+| 2006-08-16 | 第11回三星火災杯予選準決勝 | An Joyeong | Yu Bin | Win | W+R | 6.5 | 2842 | 10 | 
+| 2006-08-15 | 第11回三星火災杯予選3回戦 | Yu Bin | Lee Huiseong | Win | B+R | 6.5 | 2832 | -30 | 
+| 2006-08-05 | 第8回中国囲碁甲級リーグ第11節 | Yu Bin |  | Win | B+R | 7.5 | 2862 | 10 | 
+| 2006-08-03 | 第8期阿含・桐山杯中国早碁オープン戦1回戦 | Luo Xihe | Yu Bin | Lose | B+9.5 | 7.5 | 2852 | 22 | 
+| 2006-07-27 | 第8回中国囲碁甲級リーグ第10節 | Li Kang | Yu Bin | Win | W+R | 7.5 | 2830 | -80 | 
+| 2006-07-08 | 第8回中国囲碁甲級リーグ第9節 | Yu Bin | Ding Wei | Win | B+1.5 | 7.5 | 2910 | 29 | 
+| 2006-07-01 | 第8回中国囲碁甲級リーグ第8節 | Hong Minpyo | Yu Bin | Win | W+2.5 | 7.5 | 2881 | -213 | 
+| 2006-06-24 | 第8回中国囲碁甲級リーグ第7節 | Peng Liyao | Yu Bin | Win | W+R | 7.5 | 3094 | 7 | 
+| 2006-06-22 | 第8期阿含・桐山杯中国早碁オープン戦予選 | Chang Hao | Yu Bin | Win | W+R | 7.5 | 3087 | 17 | 
+| 2006-06-15 | 第8回中国囲碁甲級リーグ第6節 | Huang Yizhong | Yu Bin | Lose | B+3.5 | 7.5 | 3070 | -25 | 
+| 2006-06-10 | 第8回中国囲碁甲級リーグ第5節 | Yu Bin | Wang Lei (b) | Lose | W+2.5 | 7.5 | 3095 | -1 | 
+| 2006-06-03 | 第8回中国囲碁甲級リーグ第4節 | Yue Liang | Yu Bin | Lose | B+1.5 | 7.5 | 3096 | 113 | 
+| 2006-05-17 | 第11回LG杯世界棋王戦2回戦 | Yu Bin | Cho Hanseung | Lose | W+11.5 | 6.5 | 2983 | 5 | 
+| 2006-05-15 | 第11回LG杯世界棋王戦1回戦 | Choi Myeonghun | Yu Bin | Win | W+9.5 | 6.5 | 2978 | 4 | 
+| 2006-05-11 | 第8回中国囲碁甲級リーグ第3節 | Yu Bin | Liu Shizhen | Win | B+R | 7.5 | 2974 | 9 | 
+| 2006-04-20 | 第8回中国囲碁甲級リーグ第2節 |  | Yu Bin | Win | W+2.5 | 7.5 | 2965 | -5 | 
+| 2006-04-08 | 第19回世界囲碁選手権富士通杯1回戦 | Yu Bin | Yuki Satoshi | Lose | W+R | 6.5 | 2970 | -4 | 
+| 2006-04-03 | 2006CCTV杯中国囲棋電視快棋戦2回戦 | Yu Bin |  | Lose | W+2.5 | 7.5 | 2974 | -16 | 
+| 2006-03-27 | 第19期中国囲碁名人戦1回戦 | Chen Yaoye | Yu Bin | Lose | B+R | 7.5 | 2990 | -3 | 
+| 2006-03-11 | 第6回春蘭杯世界囲碁選手権1回戦 | Yu Bin | Cho Chikun | Lose | W+2.5 | 7.5 | 2993 | -13 | 
+| 2006-02-22 | 第5回CSK杯囲碁アジア対抗戦中国選抜戦 | Yu Bin | Xie He | Lose | W+R | 6.5 | 3006 | -96 | 
+| 2006-01-17 | 2006CCTV杯中国囲棋電視快棋戦1回戦 | Yu Bin | Tuo Jiaxi | Win | B+3.5 | 7.5 | 3102 | 83 | 
+| 2006-01-12 | 第18期中国囲碁名人戦挑戦手合五番勝負第3局 | Yu Bin | Gu Li | Lose | W+R | 7.5 | 3019 | -17 | 
+| 2006-01-04 | 第6期リコー杯囲碁戦3回戦 | Luo Xihe | Yu Bin | Lose | B+R | 7.5 | 3036 | 0 | 
+| 2005-12-31 | 第7回中国囲碁甲級リーグ第22節 | Liu Xiaoguang | Yu Bin | Lose | B+1.5 | 7.5 | 3036 | -3 | 
+| 2005-12-24 | 第7回中国囲碁甲級リーグ第21節 | Yu Bin | Gu Lingyi | Win | B+7.5 | 7.5 | 3039 | -214 | 
+| 2005-12-15 | 第18期中国囲碁名人戦挑戦手合五番勝負第2局 | Gu Li | Yu Bin | Lose | B+15.5 | 7.5 | 3253 | -17 | 
+| 2005-12-13 | 第18期中国囲碁名人戦挑戦手合五番勝負第1局 | Yu Bin | Gu Li | Lose | W+2.5 | 7.5 | 3270 | -7 | 
+| 2005-12-10 | 第7回中国囲碁甲級リーグ第20節 | Hu Yaoyu | Yu Bin | Lose | B+R | 7.5 | 3277 | -58 | 
+| 2005-12-03 | 第7回中国囲碁甲級リーグ第19節 | Yu Bin | Zhou Ruiyang | Win | B+R | 7.5 | 3335 | 31 | 
+| 2005-11-26 | 第7回中国囲碁甲級リーグ第18節 | Yu Bin | Yin Hang | Win | B+R | 7.5 | 3304 | 70 | 
+| 2005-11-12 | 第7回中国囲碁甲級リーグ第17節 | Yu Bin | Wang Lei (b) | Lose | W+R | 7.5 | 3234 | 307 | 
+| 2005-11-05 | 第7回中国囲碁甲級リーグ第16節 | Li Zhe | Yu Bin | Lose | B+3.5 | 7.5 | 2927 | -256 | 
+| 2005-10-29 | 第7回中国囲碁甲級リーグ第15節 | Yu Bin | Luo Xihe | Lose | W+R | 7.5 | 3183 | -14 | 
+| 2005-10-27 | 第2期倡棋杯中国プロ囲碁選手権戦3回戦 | Yu Bin | Zhou Heyang | Lose | W+R | 7.5 | 3197 | -4 | 
+| 2005-10-25 | 第2期倡棋杯中国プロ囲碁選手権戦2回戦 | Peng Quan | Yu Bin | Win | W+R | 7.5 | 3201 | 5 | 
+| 2005-10-23 | 第2期倡棋杯中国プロ囲碁選手権戦1回戦 | Niu Yutian | Yu Bin | Win | W+R | 7.5 | 3196 | 27 | 
+| 2005-10-14 | 第7回中国囲碁甲級リーグ第14節 | Kong Jie | Yu Bin | Lose | B+R | 7.5 | 3169 | 11 | 
+| 2005-10-06 | 第7回中国囲碁甲級リーグ第12節 | Gu Li | Yu Bin | Lose | B+R | 7.5 | 3158 | 29 | 
+| 2005-09-10 | 第11期NEC杯囲碁戦2回戦 | Zhou Heyang | Yu Bin | Lose | B+R | 7.5 | 3129 | 1 | 
+| 2005-09-06 | 第18期中国囲碁名人戦挑戦者決定戦第3局 | Luo Xihe | Yu Bin | Win | W+R | 7.5 | 3128 | 7 | 
+| 2005-09-05 | 第18期中国囲碁名人戦挑戦者決定戦第2局 | Luo Xihe | Yu Bin | Win | W+R | 7.5 | 3121 | 6 | 
+| 2005-09-03 | 第18期中国囲碁名人戦挑戦者決定戦第1局 | Yu Bin | Luo Xihe | Lose | W+R | 7.5 | 3115 | -16 | 
+| 2005-08-20 | 第7回中国囲碁甲級リーグ第11節 | Yu Bin | Li Kang | Win | B+R | 7.5 | 3131 | -7 | 
+| 2005-08-13 | 第7回中国囲碁甲級リーグ第10節 | Li Jie | Yu Bin | Win | W+R | 7.5 | 3138 | 19 | 
+| 2005-08-06 | 第7回中国囲碁甲級リーグ第9節 | Yu Bin | Hu Yaoyu | Win | B+7.5 | 7.5 | 3119 | -18 | 
+| 2005-07-09 | 第7回中国囲碁甲級リーグ第8節 |  | Yu Bin | Lose | B+1.5 | 7.5 | 3137 | 18 | 
+| 2005-07-05 | 第7回農心杯中国選抜戦 | Yu Bin | Wang Xi | Lose | W+5.5 | 6.5 | 3119 | -18 | 
+| 2005-07-02 | 第11期NEC杯囲碁戦1回戦 | Yu Bin |  | Win | B+R | 7.5 | 3137 | 300 | 
+| 2005-06-25 | 第7回中国囲碁甲級リーグ第7節 | Xie He | Yu Bin | Win | W+6.5 | 7.5 | 2837 | 4 | 
+| 2005-06-22 | 第18期中国囲碁名人戦準決勝 | Yu Bin | Liu Shizhen | Win | B+R | 7.5 | 2833 | 10 | 
+| 2005-06-20 | 第18期中国囲碁名人戦3回戦 | Yu Bin | Wang Lei (s) | Win | B+1.5 | 7.5 | 2823 | 2 | 
+| 2005-06-18 | 第7回中国囲碁甲級リーグ第6節 | Wang Lei (b) | Yu Bin | Win | W+R | 7.5 | 2821 | 6 | 
+| 2005-06-16 | 第17回テレビアジア選手権準決勝 | Yu Bin | Cho U | Lose | W+2.5 | 7.5 | 2815 | -17 | 
+| 2005-06-11 | 第7回中国囲碁甲級リーグ第5節 | Li Zhe | Yu Bin | Win | W+R | 7.5 | 2832 | -10 | 
+| 2005-06-04 | 第18回世界囲碁選手権富士通杯3回戦 | Lee Sedol | Yu Bin | Lose | B+2.5 | 6.5 | 2842 | -28 | 
+| 2005-05-21 | 第7回中国囲碁甲級リーグ第4節 | Huang Yizhong | Yu Bin | Lose | B+5.5 | 7.5 | 2870 | 3 | 
+| 2005-05-16 | 第10回LG杯世界棋王戦1回戦 | Yu Bin | Park Cheongsang | Lose | W+7.5 | 6.5 | 2867 | -92 | 
+| 2005-05-07 | 第7回中国囲碁甲級リーグ第3節 | Kong Jie | Yu Bin | Lose | B+1.5 | 7.5 | 2959 | -35 | 
+| 2005-04-30 | 第7回中国囲碁甲級リーグ第2節 | Wang Yao | Yu Bin | Win | W+R | 7.5 | 2994 | 103 | 
+| 2005-04-20 | 第9回LG杯世界棋王戦決勝五番勝負第4局 | Yu Bin | Cho U | Lose | W+2.5 | 6.5 | 2891 | -24 | 
+| 2005-04-18 | 第9回LG杯世界棋王戦決勝五番勝負第3局 | Cho U | Yu Bin | Lose | B+R | 6.5 | 2915 | -111 | 
+| 2005-04-11 | 第18回世界囲碁選手権富士通杯2回戦 | Zhou Junxun | Yu Bin | Win | W+3.5 | 6.5 | 3026 | 16 | 
+| 2005-04-09 | 第18回世界囲碁選手権富士通杯1回戦 | Yu Bin | Ishida Yoshio | Win | B+8.5 | 6.5 | 3010 | -5 | 
+| 2005-03-30 | 第9回LG杯世界棋王戦決勝五番勝負第2局 | Yu Bin | Cho U | Lose | W+1.5 | 6.5 | 3015 | -28 | 
+| 2005-03-28 | 第9回LG杯世界棋王戦決勝五番勝負第1局 | Cho U | Yu Bin | Win | W+R | 6.5 | 3043 | -333 | 
+| 2005-01-27 | 第19期中国囲碁天元戦1回戦 |  | Yu Bin | Win | W+R | 7.5 | 3376 | 15 | 
+| 2005-01-24 | 第9回LG杯世界棋王戦準決勝 | Yu Bin | Lee Changho | Win | B+R | 6.5 | 3361 | -45 | 
+| 2005-01-17 | 第5期リコー杯囲碁戦3回戦 | Yu Bin | Wang Xi | Lose | W+R | 7.5 | 3406 | 206 | 
+| 2004-12-16 | 第6回中国囲碁甲級リーグ第22節 | Yu Bin |  | Win | B+1.5 | 7.5 | 3200 | -5 | 
+| 2004-12-14 | 第6回中国囲碁甲級リーグ第21節 | Liu Xing | Yu Bin | Win | W+R | 7.5 | 3205 | 87 | 
+| 2004-11-28 | 第2期威孚房開杯棋王戦準決勝 | Zhou Heyang | Yu Bin | Lose | B+R | 7.5 | 3118 | -3 | 
+| 2004-11-27 | 第2期威孚房開杯棋王戦1回戦 | Yu Bin | Chang Hao | Win | B+R | 7.5 | 3121 | 11 | 
+| 2004-11-25 | 第6回中国囲碁甲級リーグ第19節 | Yu Bin | Zhu Yi | Win | B+R | 7.5 | 3110 | 65 | 
+| 2004-11-18 | 第6回中国囲碁甲級リーグ第18節 | Kim Seungjun | Yu Bin | Win | W+R | 7.5 | 3045 | -4 | 
+| 2004-11-11 | 第6回中国囲碁甲級リーグ第17節 | Yu Bin | Gu Lingyi | Lose | W+0.5 | 7.5 | 3049 | -15 | 
+| 2004-11-09 | 第1期倡棋杯中国プロ囲碁選手権戦3回戦 | Kong Jie | Yu Bin | Lose | B+R | 7.5 | 3064 | -34 | 
+| 2004-11-04 | 第6回中国囲碁甲級リーグ第16節 | Zhang Wendong | Yu Bin | Win | W+10.5 | 7.5 | 3098 | 185 | 
+| 2004-10-28 | 第6回中国囲碁甲級リーグ第15節 |  | Yu Bin | Win | W+0.5 | 7.5 | 2913 | -219 | 
+| 2004-10-26 | 第9回LG杯世界棋王戦3回戦 | Yu Bin | Weon Seongjin | Win | B+6.5 | 6.5 | 3132 | -44 | 
+| 2004-10-09 | 第6回中国囲碁甲級リーグ第12節 | Yu Bin | Xie He | Lose | W+R | 7.5 | 3176 | 46 | 
+| 2004-08-23 | 第2期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Lee Sedol | Yu Bin | Lose | B+2.5 | 6.5 | 3130 | -8 | 
+| 2004-08-21 | 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Kobayashi Koichi | Yu Bin | Win | W+R | 6.5 | 3138 | 16 | 
+| 2004-08-08 | 第6回農心杯中国選抜戦 | Luo Xihe | Yu Bin | Lose | B+R | 6.5 | 3122 | -11 | 
+| 2004-08-06 | 第6回農心杯中国選抜戦 | Ding Wei | Yu Bin | Win | W+R | 6.5 | 3133 | -60 | 
+| 2004-07-01 | 第6回中国囲碁甲級リーグ第11節 |  | Yu Bin | Win | W+R | 7.5 | 3193 | 26 | 
+| 2004-06-22 | 第17期中国囲碁名人戦準決勝 | Yu Bin | Gu Li | Lose | W+8.5 | 7.5 | 3167 | -3 | 
+| 2004-06-20 | 第17期中国囲碁名人戦3回戦 | Peng Quan | Yu Bin | Win | W+R | 7.5 | 3170 | 0 | 
+| 2004-06-10 | 第6回中国囲碁甲級リーグ第8節 |  | Yu Bin | Win | W+6.5 | 7.5 | 3170 | 9 | 
+| 2004-06-03 | 第6回中国囲碁甲級リーグ第7節 | Yu Bin | Li Zhe | Lose | W+R | 7.5 | 3161 | -18 | 
+| 2004-05-20 | 第9回LG杯世界棋王戦2回戦 | Park Seunghyeon | Yu Bin | Win | W+R | 6.5 | 3179 | 4 | 
+| 2004-05-14 | 第16回テレビアジア選手権決勝 | Yu Bin | Song Taekon | Win | B+12.5 | 6.5 | 3175 | 11 | 
+| 2004-05-13 | 第16回テレビアジア選手権 | Cho Chikun | Yu Bin | Win | W+R | 6.5 | 3164 | 28 | 
+| 2004-05-12 | 第16回テレビアジア選手権 | Park Byeongkyu | Yu Bin | Win | W+R | 6.5 | 3136 | 28 | 
+| 2004-05-08 | 第17期中国囲碁名人戦2回戦 | Ding Wei | Yu Bin | Win | W+R | 7.5 | 3108 | 42 | 
+| 2004-04-29 | 第6回中国囲碁甲級リーグ第2節 | Wang Lei (s) | Yu Bin | Win | W+0.5 | 7.5 | 3066 | -76 | 
+| 2004-04-22 | 第5回応氏杯世界選手権2回戦 | Yu Bin | Song Taekon | Lose | W+R | 7.5 | 3142 | 4 | 
+| 2004-04-15 | 第6回中国囲碁甲級リーグ第1節 | Yu Bin | Ma Xiaochun | Win | B+R | 7.5 | 3138 | 17 | 
+| 2004-03-23 | 第3回CSK杯囲碁アジア対抗戦第3戦 | Yu Bin | Song Taekon | Win | B+R | 6.5 | 3121 | -12 | 
+| 2004-03-22 | 第3回CSK杯囲碁アジア対抗戦第2戦 | O Rissei | Yu Bin | Lose | B+15.5 | 6.5 | 3133 | 1 | 
+| 2004-03-21 | 第3回CSK杯囲碁アジア対抗戦第1戦 | Yu Bin | Yamashita Keigo | Win | B+R | 6.5 | 3132 | -5 | 
+| 2004-02-28 | 第18期中国囲碁天元戦挑戦者決定戦 | Xie He | Yu Bin | Lose | B+R | 7.5 | 3137 | -8 | 
+| 2004-02-26 | 第18期中国囲碁天元戦準決勝 | Kong Jie | Yu Bin | Win | W+R | 7.5 | 3145 | 192 | 
+| 2003-12-31 | 第5回春蘭杯世界囲碁選手権2回戦 | Yu Bin | Lee Changho | Lose | W+6.5 | 7.5 | 2953 | 14 | 
+| 2003-12-29 | 第5回春蘭杯世界囲碁選手権1回戦 | Yu Bin | Lee Sedol | Win | B+R | 7.5 | 2939 | 77 | 
+| 2003-12-18 | 第5回中国囲碁甲級リーグ第22節 | Ma Xiaochun | Yu Bin | Lose | B+R | 7.5 | 2862 | -69 | 
+| 2003-12-14 | 第16期中国囲碁名人戦挑戦者決定戦第3局 | Yu Bin | Qiu Jun | Lose | W+R | 7.5 | 2931 | -7 | 
+| 2003-12-13 | 第16期中国囲碁名人戦挑戦者決定戦第2局 | Qiu Jun | Yu Bin | Win | W+R | 7.5 | 2938 | 10 | 
+| 2003-12-11 | 第5回中国囲碁甲級リーグ第21節 | Yu Bin | Jing Shi | Win | B+5.5 | 7.5 | 2928 | 0 | 
+| 2003-11-27 | 第5回中国囲碁甲級リーグ第19節 | Yu Bin | Wang Yang | Win | B+R | 7.5 | 2928 | 14 | 
+| 2003-11-25 | 第16期中国囲碁名人戦挑戦者決定戦第1局 | Yu Bin | Qiu Jun | Lose | W+R | 7.5 | 2914 | -10 | 
+| 2003-11-20 | 第5回中国囲碁甲級リーグ第18節 | Wang Yao | Yu Bin | Win | W+R | 7.5 | 2924 | 18 | 
+| 2003-11-13 | 第5回中国囲碁甲級リーグ第17節 | Yu Bin | Gu Lingyi | Win | B+R | 7.5 | 2906 | -36 | 
+| 2003-11-06 | 第5回中国囲碁甲級リーグ第16節 | Qiu Jun | Yu Bin | Win | W+R | 7.5 | 2942 | 39 | 
+| 2003-10-30 | 第5回中国囲碁甲級リーグ第15節 | Yu Bin | Wang Lei (s) | Lose | W+8.5 | 7.5 | 2903 | -54 | 
+| 2003-10-22 | 第5回農心辛ラーメン杯世界囲碁最強戦第1戦 | Yu Bin | Cho U | Lose | W+R | 6.5 | 2957 | -2957 | 
+| 2003-10-16 | 第5回中国囲碁甲級リーグ第13節 | Wang Xi | Yu Bin | Lose | B+5.5 | 7.5 | 5914 | 48 | 
+| 2003-10-09 | 第5回中国囲碁甲級リーグ第12節 | Yu Bin | Liu Xiaoguang | Lose | W+R | 7.5 | 5866 | 156 | 
+| 2003-10-05 | 第1期威孚房開杯棋王戦決勝 | Nie Weiping | Yu Bin | Lose | B+R | 7.5 | 5710 | 0 | 
+| 2003-10-05 | 第1期威孚房開杯棋王戦2回戦 | Chang Hao | Yu Bin | Win | W+R | 7.5 | 5710 | -28 | 
+| 2003-10-04 | 第1期威孚房開杯棋王戦1回戦 | Yu Bin | Ma Xiaochun | Win | B+R | 7.5 | 5738 | 5 | 
+| 2003-10-03 | 第5期阿含・桐山杯中国早碁オープン戦1回戦 | Yu Bin | Gu Li | Lose | W+R | 7.5 | 5733 | 2936 | 
+| 2003-09-04 | 第5回中国囲碁甲級リーグ第9節 | Yu Bin | Zhu Songli | Win | B+R | 7.5 | 2797 | 16 | 
+| 2003-09-02 | 第16期中国囲碁名人戦準決勝 | Yu Bin | Dong Yan | Win | B+R | 7.5 | 2781 | 40 | 
+| 2003-08-27 | 第8期三星杯1回戦 | Yamada Kimio | Yu Bin | Lose | B+R | 6.5 | 2741 | -15 | 
+| 2003-08-21 | 第5回中国囲碁甲級リーグ第8節 | Yu Bin | Kong Jie | Win | B+1.5 | 7.5 | 2756 | 22 | 
+| 2003-08-16 | 第16期中国囲碁名人戦3回戦 | Fang Jie | Yu Bin | Win | W+R | 7.5 | 2734 | 16 | 
+| 2003-08-11 | 第5回中国囲碁甲級リーグ第11節 | Yu Bin | Wang Yuhui | Win | B+R | 7.5 | 2718 | 58 | 
+| 2003-08-07 | 第5回中国囲碁甲級リーグ第7節 | Ding Wei | Yu Bin | Win | W+R | 7.5 | 2660 | -1 | 
+| 2003-07-24 | 第5回中国囲碁甲級リーグ第6節 |  | Yu Bin | Win | W+R | 7.5 | 2661 | 40 | 
+| 2003-06-19 | 第8回LG杯世界棋王戦2回戦 | Yu Bin | Lee Sedol | Lose | W+2.5 | 6.5 | 2621 | -3 | 
+| 2003-06-17 | 第8回LG杯世界棋王戦1回戦 | Yu Bin | Hong Jansik | Win | B+R | 6.5 | 2624 | 51 | 
+| 2003-04-29 | 第2回CSK杯囲碁アジア対抗戦第3戦 | Yu Bin | Hane Naoki | Win | B+R | 6.5 | 2573 | 32 | 
+| 2003-04-28 | 第2回CSK杯囲碁アジア対抗戦第2戦 | Cho U | Yu Bin | Lose | B+0.5 | 6.5 | 2541 | -15 | 
+| 2003-04-27 | 第2回CSK杯囲碁アジア対抗戦第1戦 | Yu Bin | Cho Hunhyun | Win | B+R | 6.5 | 2556 | 45 | 
+| 2003-04-07 | 第5回中国囲碁甲級リーグ第1節 | Yu Bin |  | Lose | W+R | 7.5 | 2511 | -104 | 
+| 2003-02-25 | 第17期中国囲碁天元戦2回戦 | Yu Bin | Cao Dayuan | Lose | W+R | 7.5 | 2615 | 55 | 
+| 2003-01-05 | 第15期中国囲碁名人戦挑戦者決定戦第2局 | Yu Bin | Zhou Heyang | Lose | W+R | 7.5 | 2560 | -17 | 
+| 2003-01-03 | 第15期中国囲碁名人戦挑戦者決定戦第1局 | Zhou Heyang | Yu Bin | Lose | B+9.5 | 7.5 | 2577 | -29 | 
+| 2002-12-08 | 第5期楽百氏杯囲碁戦挑戦手合三番勝負第2局 | Chang Hao | Yu Bin | Lose | B+5.5 | 7.5 | 2606 | -46 | 
+| 2002-11-28 | 第4回中国囲碁甲級リーグ第21節 | Zhang Wendong | Yu Bin | Win | W+R | 7.5 | 2652 | 39 | 
+| 2002-11-18 | 第5期楽百氏杯囲碁戦挑戦手合三番勝負第1局 | Yu Bin | Chang Hao | Lose | W+4.5 | 7.5 | 2613 | -56 | 
+| 2002-10-27 | 第4期阿含・桐山杯中国早碁オープン戦決勝 | Huang Yizhong | Yu Bin | Win | W+R | 7.5 | 2669 | 39 | 
+| 2002-10-21 | 第5期楽百氏杯囲碁戦挑戦者決定戦 | Zhou Heyang | Yu Bin | Win | W+R | 7.5 | 2630 | 14 | 
+| 2002-10-19 | 第5期楽百氏杯囲碁戦準決勝 | Yu Bin | Wang Lei (b) | Win | B+1.5 | 7.5 | 2616 | 16 | 
+| 2002-09-29 | 第4期阿含・桐山杯中国早碁オープン戦準決勝 | Ma Xiaochun | Yu Bin | Win | W+R | 7.5 | 2600 | 67 | 
+| 2002-08-28 | 第7期三星杯1回戦 | Yu Bin | Park Yeonghun | Lose | W+0.5 | 6.5 | 2533 | 25 | 
+| 2002-08-12 | 第4期阿含・桐山杯中国早碁オープン戦2回戦 | Yu Bin | Chang Hao | Win | B+R | 7.5 | 2508 | 28 | 
+| 2002-08-11 | 第4回農心杯中国選抜戦 | Yu Bin | Luo Xihe | Lose | W+R | 6.5 | 2480 | 87 | 
+| 2002-08-07 | 第4期阿含・桐山杯中国早碁オープン戦1回戦 | Kong Jie | Yu Bin | Win | W+R | 7.5 | 2393 | 27 | 
+| 2002-07-29 | 第7期三星杯予選決勝 | Yu Bin | Fang Jie | Win | B+R | 6.5 | 2366 | 2366 | 
+| 2002-07-26 | 第7期三星杯予選2回戦 | Furuya Yutaka | Yu Bin | Win | W+R | 6.5 | missing | -2380 | 
+| 2002-06-20 | 第4回中国囲碁甲級リーグ第10節 |  | Yu Bin | Win | W+R | 7.5 | 2380 | 148 | 
+| 2002-05-20 | 第4回春蘭杯世界囲碁選手権2回戦 | Cho U | Yu Bin | Lose | B+R | 7.5 | 2232 | 82 | 
+| 2002-05-09 | 第4回中国囲碁甲級リーグ第5節 | Yu Bin | Yoo Changhyuk | Lose | W+R | 7.5 | 2150 | 49 | 
+| 2002-05-02 | 第7回LG杯世界棋王戦2回戦 | Yoo Changhyuk | Yu Bin | Lose | B+R | 6.5 | 2101 | -29 | 
+| 2002-04-30 | 第7回LG杯世界棋王戦1回戦 | Zhou Junxun | Yu Bin | Win | W+R | 6.5 | 2130 | -209 | 
+| 2002-03-15 | 第15期中国囲碁名人戦準決勝（再対局） | Yu Bin | Qiu Jun | Win | B+R | 7.5 | 2339 | 0 | 
+| 2002-03-15 | 第15期中国囲碁名人戦準決勝 | Yu Bin | Qiu Jun | Lose | Void | 7.5 | 2339 | 56 | 
+| 2002-03-13 | 第15期中国囲碁名人戦3回戦 | Yu Bin | Wang Yimin | Win | B+R | 7.5 | 2283 | -519 | 
+| 2002-03-11 | 第15期中国囲碁名人戦2回戦 | Hu Yaoyu | Yu Bin | Win | W+R | 7.5 | 2802 | -120 | 
+| 2002-01-29 | 第3回農心辛ラーメン杯世界囲碁最強戦第11戦 | Cho Hunhyun | Yu Bin | Lose | B+R | 6.5 | 2922 | -102 | 
+| 2001-12-01 | 第3回農心辛ラーメン杯世界囲碁最強戦第10戦 | Kato Masao | Yu Bin | Win | W+5.5 | 6.5 | 3024 | 137 | 
+| 2001-11-30 | 第3回農心辛ラーメン杯世界囲碁最強戦第9戦 | Yu Bin | Yoo Changhyuk | Win | B+0.5 | 6.5 | 2887 | 2887 | 
+| 2001-08-29 | 第6期三星杯1回戦 | Yu Bin | Lee Sedol | Lose | W+14.5 | 6.5 | missing | 0 | 
+| 2001-06-12 | 第6回LG杯世界棋王戦1回戦 | Yu Bin | Yang Jaeho | Lose | W+R | 6.5 | missing | -2820 | 
+| 2001-03-17 | 第2回農心辛ラーメン杯世界囲碁最強戦第12戦 | Yu Bin | Cho Hunhyun | Lose | W+R | 6.5 | 2820 | 2820 | 
+| 2000-08-30 | 第5期三星杯1回戦 | Yu Bin | Lee Sedol | Lose | W+6.5 | 6.5 | missing | 0 | 
+| 2000-08-24 | 第4回応氏杯世界選手権準決勝三番勝負第2局 | Lee Changho | Yu Bin | Lose | B+R | 7.5 | missing | 0 | 
+| 2000-08-22 | 第4回応氏杯世界選手権準決勝三番勝負第1局 | Yu Bin | Lee Changho | Lose | W+5 | 7.5 | missing | 0 | 
+| 2000-06-15 | 第5回LG杯世界棋王戦2回戦 | Seo Bongsoo | Yu Bin | Lose | B+8.5 | 6.5 | missing | 0 | 
+| 2000-05-10 | 第4回LG杯世界棋王戦決勝五番勝負第4局 | Yoo Changhyuk | Yu Bin | Win | W+5.5 | 6.5 | missing | 0 | 
+| 2000-05-08 | 第4回LG杯世界棋王戦決勝五番勝負第3局 | Yu Bin | Yoo Changhyuk | Win | B+4.5 | 6.5 | missing | 0 | 
+| 2000-05-04 | 第4回応氏杯世界選手権3回戦 | Yu Bin | Otake Hideo | Win | B+9 | 7.5 | missing | 0 | 
+| 2000-05-02 | 第4回応氏杯世界選手権2回戦 | Yu Bin | Cho Chikun | Win | B+R | 7.5 | missing | 0 | 
+| 2000-04-30 | 第4回応氏杯世界選手権1回戦 | Yu Bin | Seo Bongsoo | Win | B+R | 7.5 | missing | 0 | 
+| 2000-03-02 | 第4回LG杯世界棋王戦決勝五番勝負第2局 | Yoo Changhyuk | Yu Bin | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-02-29 | 第4回LG杯世界棋王戦決勝五番勝負第1局 | Yu Bin | Yoo Changhyuk | Win | B+4.5 | 6.5 | missing | 0 | 
+| 2000-02-10 | 第4回LG杯世界棋王戦準決勝 | Cho Hunhyun | Yu Bin | Win | W+2.5 | 6.5 | missing | 0 | 
+| 1999-11-15 | 第4回LG杯世界棋王戦3回戦 | O Rissei | Yu Bin | Win | W+3.5 | 6.5 | missing | 0 | 
+| 1999-09-07 | 第4期三星杯1回戦 | Lee Changho | Yu Bin | Lose | B+7.5 | 6.5 | missing | 0 | 
+| 1999-06-17 | 第4回LG杯世界棋王戦2回戦 | Yu Bin | Paek Daehyun | Win | B+R | 6.5 | missing | 0 | 
+| 1999-01-13 | 第3回LG杯世界棋王戦準決勝 | Ma Xiaochun | Yu Bin | Lose | B+8.5 | 6.5 | missing | 0 | 
+| 1998-10-26 | 第3回LG杯世界棋王戦3回戦 | Kudo Norio | Yu Bin | Win | W+1.5 | 6.5 | missing | 0 | 
+| 1998-06-18 | 第3回LG杯世界棋王戦2回戦 | Yu Bin | Cho Hunhyun | Win | B+2.5 | 6.5 | missing | 0 | 
+| 1998-06-16 | 第3回LG杯世界棋王戦1回戦 | Mok Jinseok | Yu Bin | Win | W+R | 6.5 | missing | 0 | 
+| 1996-04-24 | 第3回応氏杯世界選手権1回戦 | Lee Changho | Yu Bin | Lose | B+7 | 7.5 | missing | 0 | 
+| 1989-06-12 | 第1期棋王戦（中国）決勝五番勝負第3局 | Qian Yuping | Yu Bin | Lose | B+1 | 7.5 | missing | 0 | 
+| 1989-03-12 | 第1期棋王戦（中国）決勝五番勝負第2局 | Yu Bin | Qian Yuping | Lose | W+R | 7.5 | missing | 0 | 
+| 1989-03-10 | 第1期棋王戦（中国）決勝五番勝負第1局 | Qian Yuping | Yu Bin | Lose | B+3 | 7.5 | missing | 0 | 
+| 1988-12-07 | 第1期棋王戦（中国）準決勝第2局 | Yu Bin |  | Win | B+9 | 7.5 | missing | 0 | 
+| 1988-10-19 | 第1期棋王戦（中国）準決勝第1局 |  | Yu Bin | Win | W+R | 7.5 | missing | 0 | 
+| 1988-07-17 | 第1期棋王戦（中国）3回戦 | Jiang Zhujiu | Yu Bin | Win | W+R | 7.5 | missing | 0 | 
+| 1988-07-15 | 第1期棋王戦（中国）2回戦 | Yu Bin |  | Win | B+R | 7.5 | missing | missing |
 
 
 

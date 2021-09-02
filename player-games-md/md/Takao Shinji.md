@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-02 | 第47期名人戦予選 | Takao Shinji | Ryu Shikun | Win | B+0.5 | 6.5 | 3223 | -8 | 
 | 2021-08-23 | 第46期棋聖戦Sリーグ  | Ichiriki Ryo | Takao Shinji | Lose | B+R | 6.5 | 3231 | 34 | 
 | 2021-07-29 | 第47期名人戦予選 | Takao Shinji | Cho Sonjin | Win | B+R | 6.5 | 3197 | 25 | 
 | 2021-07-15 | 第46期棋聖戦Sリーグ | Kono Rin | Takao Shinji | Win | W+R | 6.5 | 3172 | -18 | 

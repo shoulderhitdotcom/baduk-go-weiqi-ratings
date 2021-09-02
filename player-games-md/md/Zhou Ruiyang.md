@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-02 | 第12期中国竜星戦予選 | Zhou Ruiyang | Li Xuanhao | Win | B+R | 7.5 | 3460 | 39 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Tang Weixing | Zhou Ruiyang | Win | W+2¼ | 7.5 | 3421 | 3421 | 
 | 2021-08-25 | 第12期中国竜星戦予選 | Zhou Ruiyang |  | Win | B+2¾ | 7.5 | missing | -3314 | 
 | 2021-07-30 | 第16回威孚房開杯棋王戦2回戦 | Zhou Ruiyang | Tong Mengcheng | Lose | W+R | 7.5 | 3314 | -5 | 

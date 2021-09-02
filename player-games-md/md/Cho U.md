@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-02 | 第69期王座戦準決勝  | Cho U | Iyama Yuta | Lose | W+4.5 | 6.5 | 3252 | 19 | 
 | 2021-08-23 | 第46期棋聖戦Aリーグ | Cho U | Suzuki Shinji | Win | B+R | 6.5 | 3233 | 73 | 
 | 2021-08-05 | 第47期名人戦予選 | Cho U | Miyazaki Ryutaro | Win | B+R | 6.5 | 3160 | 30 | 
 | 2021-07-22 | 第69期王座戦2回戦  | Hane Naoki | Cho U | Win | W+1.5 | 6.5 | 3130 | 71 | 

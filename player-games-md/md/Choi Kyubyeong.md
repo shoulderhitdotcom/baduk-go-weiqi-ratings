@@ -7,10 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-02 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Kim Ilhwan | Win | B+R | 6.5 | 2685 | -9 | 
 | 2021-08-10 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Kim Soojang | Win | B+6.5 | 6.5 | 2694 | 127 | 
 | 2021-08-02 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Choi Kyubyeong | Win | W+13.5 | 6.5 | 2567 | -72 | 
 | 2021-07-05 | 第15回GGオークション杯予選 | Jeong Daesang | Choi Kyubyeong | Win | W+R | 6.5 | 2639 | -157 | 
-| 2021-02-08 | 第4期韓国竜星戦1回戦 | Choi Kyubyeong | Cho Seungah | Lose | W+T | 6.5 | 2796 | 33 | 
+| 2021-02-08 | 第4期韓国竜星戦1回戦 | Choi Kyubyeong |  | Lose | W+T | 6.5 | 2796 | 33 | 
 | 2021-01-20 | 第8回大舟杯プロシニア最強者戦予選 | Choi Kyubyeong | Park Shiun | Lose | W+1.5 | 6.5 | 2763 | -11 | 
 | 2021-01-12 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Choi Kyubyeong | Heo Yongho | Lose | W+R | 6.5 | 2774 | 124 | 
 | 2020-10-26 | 2020NHシニア囲碁リーグ第14節第4試合第2局 | An Kwanwuk | Choi Kyubyeong | Win | W+1.5 | 6.5 | 2650 | -7 | 

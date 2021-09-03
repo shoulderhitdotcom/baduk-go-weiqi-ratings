@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-03 | 第26回三星火災杯台湾予選 | Jian Jingting | Lin Shixun | Lose | W+0.5 | 6.5 | 3160 | -19 | 
+| 2021-09-01 | 第26回三星火災杯台湾予選 | Jian Jingting |  | Win | B+R | 6.5 | 3179 | 0 | 
+| 2021-09-01 | 第26回三星火災杯台湾予選 | Jian Jingting |  | Win | B+R | 6.5 | 3179 | 7 | 
 | 2021-08-31 | 第2期聯電杯プロ囲碁戦リーグ残留プレーオフ | Jian Jingting | Xu Haohong | Lose | W+R | 6.5 | 3172 | 15 | 
 | 2021-08-29 | 第2期聯電杯プロ囲碁戦リーグ |  | Jian Jingting | Win | W+R | 6.5 | 3157 | 6 | 
 | 2021-08-26 | 第2期聯電杯プロ囲碁戦リーグ | Jian Jingting | Chen Qirui | Lose | W+R | 6.5 | 3151 | -16 | 

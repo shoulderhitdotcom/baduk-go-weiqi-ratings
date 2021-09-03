@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-03 | 第12期中国竜星戦予選 | Li Weiqing | Liao Yuanhe | Win | W+R | 7.5 | 3599 | 22 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Yang Kaiwen | Liao Yuanhe | Win | W+R | 7.5 | 3577 | 26 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Liao Yuanhe | Liao Xingwen | Win | B+R | 7.5 | 3551 | 36 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Liao Yuanhe | Li Qincheng | Win | B+R | 7.5 | 3515 | 3515 | 

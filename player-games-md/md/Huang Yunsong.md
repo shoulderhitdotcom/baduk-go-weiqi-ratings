@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-03 | 第12期中国竜星戦予選 | Zhou Ruiyang | Huang Yunsong | Win | W+¼ | 7.5 | 3546 | 21 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Huang Yunsong | Ding Shixiong | Win | B+R | 7.5 | 3525 | 17 | 
 | 2021-08-31 | 第12期中国竜星戦予選 |  | Huang Yunsong | Win | W+R | 7.5 | 3508 | 25 | 
 | 2021-08-30 | 第26回三星火災杯中国予選 | Huang Yunsong | Wu Guangya | Win | B+R | 6.5 | 3483 | 14 | 

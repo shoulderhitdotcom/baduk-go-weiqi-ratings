@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-03 | 第12期中国竜星戦予選 | Fan Yin | Zhang Tao | Lose | W+2¼ | 7.5 | 3514 | 1 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Xie Ke | Fan Yin | Win | W+R | 7.5 | 3513 | 31 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Fan Yin | Jiang Qirun | Win | B+4¾ | 7.5 | 3482 | 34 | 
 | 2021-08-27 | 第26回三星火災杯中国予選 | Fan Yin | Huang Yunsong | Win | B+R | 6.5 | 3448 | 15 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-03 | 第12期中国竜星戦予選 | Fan Yin | Zhang Tao | Win | W+2¼ | 7.5 | 3480 | 25 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Zhang Tao | Tong Mengcheng | Win | B+R | 7.5 | 3455 | 18 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Yi Lingtao | Zhang Tao | Win | W+R | 7.5 | 3437 | 3437 | 
 | 2021-08-25 | 第12期中国竜星戦予選 |  | Zhang Tao | Win | W+¼ | 7.5 | missing | -3364 | 

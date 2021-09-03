@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-03 | 第12期中国竜星戦予選 | Wang Lei (b) | Jiang Zhujiu | Lose | W+8¼ | 7.5 | 3154 | 3154 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Rui Naiwei | Wang Lei (b) | Win | W+2¼ | 7.5 | missing | 0 | 
 | 2019-07-03 | 第24回三星火災杯統合予選3回戦 | Wang Lei (b) | Lee Sedol | Lose | W+R | 6.5 | missing | -2545 | 
 | 2019-03-07 | 第10期中国竜星戦予選 | Wang Lei (b) | Chang Hao | Lose | W+R | 7.5 | 2545 | -95 | 

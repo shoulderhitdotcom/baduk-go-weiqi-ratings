@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-03 | 第7回健喬杯女子囲碁最強戦決勝  |  | Su Shengfang | Lose | B+R | 6.5 | 2269 | -22 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 | Su Shengfang | Ding Shaojie | Lose | W+R | 6.5 | 2291 | -4 | 
+| 2021-09-01 | 第26回三星火災杯台湾予選 |  | Su Shengfang | Lose | B+R | 6.5 | 2295 | 8 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 | Zhao Peizhe | Su Shengfang | Win | W+R | 6.5 | 2287 | -26 | 
 | 2021-08-27 | 第7回健喬杯女子囲碁最強戦敗部決勝  | Su Shengfang | Yu Lijun | Win | B+R | 6.5 | 2313 | 81 | 
 | 2021-08-23 | 第7回健喬杯女子囲碁最強戦勝部決勝  |  | Su Shengfang | Lose | B+R | 6.5 | 2232 | 2232 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-03 | 第9回中国女子囲碁甲級リーグ | Fang Ruoxi |  | Win | B+R | 7.5 | 2977 | 3 | 
 | 2021-08-27 | 第12期中国竜星戦予選 | Fang Ruoxi | Li He | Lose | W+R | 7.5 | 2974 | -25 | 
 | 2021-08-19 | 第26回三星火災杯中国予選 | Fang Ruoxi | Li He | Lose | W+R | 6.5 | 2999 | 2999 | 
 | 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 |  | Fang Ruoxi | Win | W+R | 7.5 | missing | -2945 | 

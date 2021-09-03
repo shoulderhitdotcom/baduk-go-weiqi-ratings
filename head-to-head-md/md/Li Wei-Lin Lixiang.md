@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Wei vs Lin Lixiang** | **Li Wei streak** | **Lin Lixiang streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-12 | 第2期聯電杯プロ囲碁戦敗部3回戦 | Lin Lixiang | Li Wei | W+R | 6.5 | 6:4 | 2 | 0 | 
 | 2021-03-08 | 第2期名人冠軍戦1回戦 | Li Wei | Lin Lixiang | B+R | 6.5 | 5:4 | 1 | 0 | 
 | 2020-11-02 | 第13期棋王戦（台湾）リーグ | Li Wei | Lin Lixiang | W+R | 6.5 | 4:4 | 0 | 1 | 
 | 2020-10-20 | 第16期国手戦（台湾）準々決勝 | Li Wei | Lin Lixiang | B+R | 6.5 | 4:3 | 2 | 0 | 

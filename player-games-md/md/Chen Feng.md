@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-06 | 第14期棋王戦（台湾）予選 | Zhang Kaixin | Chen Feng | Win | W+5.5 | 6.5 | 2788 | -7 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 | Lin Shixun | Chen Feng | Lose | B+R | 6.5 | 2795 | 10 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 | Zhang Kaixin | Chen Feng | Win | W+R | 6.5 | 2785 | -16 | 
 | 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Lin Shuyang | Chen Feng | Lose | B+R | 6.5 | 2801 | 32 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 |  | Chen Feng | Win | W+R | 6.5 | 2769 | 30 | 

@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-06 | 第14期棋王戦（台湾）予選 | Zhou Keping | Liu Jianchang | Lose | B+R | 6.5 | 2210 | 2210 | 
+| 2021-09-05 | 第9期中環碁聖戦 | Xu Jingen | Liu Jianchang | Lose | B+R | 6.5 | missing | -2161 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 | Lin Jiehan | Liu Jianchang | Win | W+4.5 | 6.5 | 2161 | 2 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 | Zhou Keping | Liu Jianchang | Lose | B+R | 6.5 | 2159 | -153 | 
 | 2021-03-29 | 第11期友士杯十段戦予選 | Huang Shiyuan | Liu Jianchang | Lose | B+R | 6.5 | 2312 | 0 | 
 | 2021-03-29 | 第11期友士杯十段戦予選 | Gao Yun | Liu Jianchang | Lose | B+R | 6.5 | 2312 | -189 | 

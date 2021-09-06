@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-06 | 第14期棋王戦（台湾）予選 | Lin Shimin |  | Win | B+6.5 | 6.5 | 2561 | 38 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 | Lin Shimin | Cai Wenhe | Win | B+R | 6.5 | 2523 | -103 | 
 | 2021-04-12 | 第11期友士杯十段戦予選 | Lin Shimin |  | Lose | W+7.5 | 6.5 | 2626 | 0 | 
 | 2021-04-12 | 第11期友士杯十段戦予選 | Lin Ziyuan | Lin Shimin | Win | W+R | 6.5 | 2626 | 1 | 

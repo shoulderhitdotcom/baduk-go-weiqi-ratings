@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-06 | 2021電子ランド杯新鋭トーナメント準決勝 | Gon Jiwoo | Baek Hyeonwoo | Win | B+R | 6.5 | 3265 | 3265 | 
+| 2021-08-12 | 第2期利鵬杯新鋭最高位戦8強戦 | Shin Jaeweon | Gon Jiwoo | Lose | B+R | 6.5 | missing | -3171 | 
 | 2021-07-22 | 第2期利鵬杯新鋭最高位戦 |  | Gon Jiwoo | Win | W+0.5 | 6.5 | 3171 | -35 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第3戦  | Ueno Asami | Gon Jiwoo | Lose | B+R | 6.5 | 3206 | 0 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Gon Jiwoo | Wang Xinghao | Lose | W+R | 6.5 | 3206 | 0 | 
@@ -41,7 +43,7 @@
 | 2020-09-22 | 第2期ソパルコサノル最高棋士決定戦予選 | Kang Seungmin | Gon Jiwoo | Lose | B+R | 6.5 | 3226 | 287 | 
 | 2020-07-29 | 第1期利鵬杯新鋭最高位戦8強戦三番勝負第2局 | Gon Jiwoo | Kim Sangcheon | Lose | W+R | 6.5 | 2939 | 0 | 
 | 2020-07-29 | 第1期利鵬杯新鋭最高位戦8強戦三番勝負第1局 | Kim Sangcheon | Gon Jiwoo | Lose | B+R | 6.5 | 2939 | -259 | 
-| 2020-06-07 | 第5期未来の星新鋭最強戦準決勝 | Kim Changhoon | Gon Jiwoo | Lose | B+R | 6.5 | 3198 | -88 | 
+| 2020-06-07 | 第5期未来の星新鋭最強戦準決勝 |  | Gon Jiwoo | Lose | B+R | 6.5 | 3198 | -88 | 
 | 2020-05-27 | 第5期未来の星新鋭最強戦8強戦 |  | Gon Jiwoo | Win | W+R | 6.5 | 3286 | 49 | 
 | 2020-05-20 | 第5期未来の星新鋭最強戦16強戦 | Gon Jiwoo | Song Gyusang | Win | B+R | 6.5 | 3237 | 162 | 
 | 2020-04-27 | 第25回LG杯韓国予選 | Park Seunghwa | Gon Jiwoo | Lose | B+R | 6.5 | 3075 | -177 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-06 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Hwang Weonjun | Lose | W+13.5 | 6.5 | 2224 | -18 | 
 | 2021-09-02 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Jimmy Cha | Lose | W+R | 6.5 | 2242 | -149 | 
 | 2021-08-10 | 2021韓国シニア囲碁リーグ | Jeong Daesang |  | Lose | W+R | 6.5 | 2391 | -10 | 
 | 2021-08-02 | 2021韓国シニア囲碁リーグ | Kim Dongmyeon | Jeong Daesang | Lose | B+R | 6.5 | 2401 | -99 | 

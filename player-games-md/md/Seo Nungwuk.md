@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-06 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Seo Nungwuk | Lose | B+33.5 | 6.5 | 2744 | 22 | 
 | 2021-08-31 | 2021韓国シニア囲碁リーグ | Kim Soojang | Seo Nungwuk | Win | W+R | 6.5 | 2722 | 64 | 
 | 2021-08-26 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Seo Nungwuk | Win | W+R | 6.5 | 2658 | 22 | 
 | 2021-08-04 | 2021韓国シニア囲碁リーグ | Kim Ilhwan | Seo Nungwuk | Win | W+28.5 | 6.5 | 2636 | -150 | 

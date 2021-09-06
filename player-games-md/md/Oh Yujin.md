@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-06 | 第15回GGオークション杯女流対シニア連勝対抗戦第13局 | Oh Yujin | Han Chongjin | Win | B+R | 6.5 | 3074 | 46 | 
 | 2021-08-27 | 2021女子最高棋士決定戦（韓国）リーグ | Oh Yujin | Kim Cheayoung | Win | B+R | 6.5 | 3028 | -5 | 
 | 2021-08-26 | 第7回韓国女子囲碁リーグ | Oh Yujin | Kang Dajeong | Win | B+R | 6.5 | 3033 | -32 | 
 | 2021-08-23 | 第26回三星火災杯韓国予選 | Oh Yujin | Choi Jeong | Lose | W+R | 6.5 | 3065 | 3065 | 

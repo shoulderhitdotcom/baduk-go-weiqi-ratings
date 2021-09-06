@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-06 | 第14期棋王戦（台湾）予選 | Gao Yun | Huang Shiyuan | Lose | W+1.5 | 6.5 | 2393 | -34 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 | Lin Yuxiang | Gao Yun | Lose | B+0.5 | 6.5 | 2427 | 6 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 |  | Gao Yun | Win | W+R | 6.5 | 2421 | 0 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 | Huang Shiyuan | Gao Yun | Win | W+R | 6.5 | 2421 | 97 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Gao Yun | Lin Lixiang | Lose | W+R | 6.5 | 2324 | -6 | 

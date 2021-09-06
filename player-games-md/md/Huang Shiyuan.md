@@ -7,6 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-06 | 第14期棋王戦（台湾）予選 | Gao Yun | Huang Shiyuan | Win | W+1.5 | 6.5 | 2615 | 2615 | 
+| 2021-09-05 | 第9期中環碁聖戦 | Huang Shiyuan | Zhao Peizhe | Win | B+R | 6.5 | missing | -2621 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 | Huang Shiyuan |  | Win | B+R | 6.5 | 2621 | 0 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 | Huang Shiyuan |  | Win | B+0.5 | 6.5 | 2621 | -26 | 
+| 2021-09-01 | 第26回三星火災杯台湾予選 | Huang Shiyuan |  | Lose | W+R | 6.5 | 2647 | 9 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 | Huang Shiyuan | Gao Yun | Lose | W+R | 6.5 | 2638 | -45 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Huang Shiyuan |  | Lose | W+1.5 | 6.5 | 2683 | -4 | 
 | 2021-05-07 | 第2期聯電杯プロ囲碁戦予選 | Huang Shiyuan |  | Win | B+R | 6.5 | 2687 | 4 | 

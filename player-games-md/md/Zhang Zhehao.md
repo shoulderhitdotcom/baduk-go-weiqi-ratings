@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-06 | 第14期棋王戦（台湾）予選 |  | Zhang Zhehao | Lose | B+R | 6.5 | 2754 | -48 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 | Lai Junfu | Zhang Zhehao | Lose | B+R | 6.5 | 2802 | 3 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 |  | Zhang Zhehao | Win | W+R | 6.5 | 2799 | 25 | 
 | 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Jian Jingting | Zhang Zhehao | Lose | B+R | 6.5 | 2774 | -1 | 
 | 2021-05-07 | 第2期聯電杯プロ囲碁戦予選 |  | Zhang Zhehao | Win | W+R | 6.5 | 2775 | -13 | 

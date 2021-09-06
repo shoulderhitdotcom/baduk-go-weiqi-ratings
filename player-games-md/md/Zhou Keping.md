@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-06 | 第14期棋王戦（台湾）予選 | Zhou Keping | Liu Jianchang | Win | B+R | 6.5 | 2155 | 2155 | 
+| 2021-09-05 | 第9期中環碁聖戦 |  | Zhou Keping | Lose | B+T | 6.5 | missing | -2091 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 | Zhou Keping |  | Lose | W+R | 6.5 | 2091 | -1 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 | Zhou Keping | Liu Jianchang | Win | B+R | 6.5 | 2092 | -31 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Lin Yuxiang | Zhou Keping | Lose | B+R | 6.5 | 2123 | -52 | 
 | 2021-04-01 | 第11期友士杯十段戦予選 | Zhou Keping | Lu Yiquan | Lose | W+R | 6.5 | 2175 | 0 | 

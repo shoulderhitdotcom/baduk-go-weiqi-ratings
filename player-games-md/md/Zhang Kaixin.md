@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-06 | 第14期棋王戦（台湾）予選 | Zhang Kaixin | Chen Feng | Lose | W+5.5 | 6.5 | 2508 | 30 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 |  | Zhang Kaixin | Win | W+T | 6.5 | 2478 | 0 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 | Zhang Kaixin |  | Win | B+R | 6.5 | 2478 | -6 | 
+| 2021-09-01 | 第26回三星火災杯台湾予選 | Zhang Kaixin |  | Lose | W+R | 6.5 | 2484 | 10 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 | Zhang Kaixin | Chen Feng | Lose | W+R | 6.5 | 2474 | -42 | 
 | 2021-08-23 | 第7回健喬杯女子囲碁最強戦敗部2回戦 |  | Zhang Kaixin | Lose | B+3.5 | 6.5 | 2516 | 2516 | 
 | 2021-08-20 | 第7回健喬杯女子囲碁最強戦勝部2回戦  | Zhang Kaixin |  | Lose | W+R | 6.5 | missing | -2486 | 

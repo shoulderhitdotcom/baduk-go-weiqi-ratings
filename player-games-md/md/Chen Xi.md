@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-06 | 第14期棋王戦（台湾）予選 |  | Chen Xi | Win | W+R | 6.5 | 2934 | 2934 | 
+| 2021-09-05 | 第9期中環碁聖戦 | Su Shengfang | Chen Xi | Win | W+R | 6.5 | missing | -2939 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 |  | Chen Xi | Win | W+R | 6.5 | 2939 | 2 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 | Chen Xi | Cai Chengwei | Lose | W+R | 6.5 | 2937 | -23 | 
 | 2021-08-10 | 第2期聯電杯プロ囲碁戦敗部2回戦 | Chen Xi | Lin Lixiang | Lose | W+R | 6.5 | 2960 | 29 | 
 | 2021-08-08 | 第2期聯電杯プロ囲碁戦勝部2回戦 | Jian Jingting | Chen Xi | Lose | B+R | 6.5 | 2931 | 3 | 

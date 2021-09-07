@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-07 | 第26回三星火災杯日本予選 | Yoda Norimoto | Mimura Tomoyasu | Win | B+2.5 | 6.5 | 3204 | -18 | 
 | 2021-08-26 | 第47期名人戦予選 | Yoda Norimoto | Terayama Rei | Win | B+3.5 | 6.5 | 3222 | -2 | 
 | 2021-08-19 | 第46期棋聖戦Aリーグ | Hane Naoki | Yoda Norimoto | Lose | B+R | 6.5 | 3224 | 38 | 
 | 2021-08-05 | 第47期名人戦予選  | Yoda Norimoto | Koyama Kuya | Win | B+R | 6.5 | 3186 | 26 | 

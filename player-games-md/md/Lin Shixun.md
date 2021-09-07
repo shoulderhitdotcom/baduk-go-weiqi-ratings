@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-07 | 第26回三星火災杯台湾予選 | Lai Junfu | Lin Shixun | Lose | B+R | 6.5 | 2946 | -6 | 
 | 2021-09-03 | 第26回三星火災杯台湾予選 | Jian Jingting | Lin Shixun | Win | W+0.5 | 6.5 | 2952 | 21 | 
 | 2021-09-02 | 第14期棋王戦（台湾）予選 | Lin Shixun | Chen Feng | Win | B+R | 6.5 | 2931 | 15 | 
 | 2021-09-01 | 第26回三星火災杯台湾予選 |  | Lin Shixun | Win | W+R | 6.5 | 2916 | 0 | 

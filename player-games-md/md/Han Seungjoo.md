@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-07 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Chungyu | Han Seungjoo | Win | W+R | 6.5 | 3243 | 3243 | 
+| 2021-08-25 | 第26回三星火災杯韓国予選 | Han Seungjoo | Hong Seongji | Win | B+R | 6.5 | missing | -3172 | 
 | 2021-08-14 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Han Seungjoo | Shin Jinseo | Lose | W+R | 6.5 | 3172 | -23 | 
 | 2021-07-10 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Han Seungjoo | Hong Seongji | Win | B+R | 6.5 | 3195 | -17 | 
 | 2021-05-23 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Choi Kyeongho | Han Seungjoo | Win | W+R | 6.5 | 3212 | -2 | 

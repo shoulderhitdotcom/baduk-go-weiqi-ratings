@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-07 | 第26回三星火災杯台湾予選 | Lin Lixiang | Xu Haohong | Lose | B+R | 6.5 | 3373 | -23 | 
 | 2021-08-31 | 第2期聯電杯プロ囲碁戦リーグ残留プレーオフ | Jian Jingting | Xu Haohong | Win | W+R | 6.5 | 3396 | 17 | 
 | 2021-08-29 | 第2期聯電杯プロ囲碁戦リーグ | Xu Haohong | Xiao Zhenghao | Lose | W+R | 6.5 | 3379 | 1 | 
 | 2021-08-26 | 第2期聯電杯プロ囲碁戦リーグ | Xu Haohong |  | Win | B+R | 6.5 | 3378 | -33 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-07 | 第26回三星火災杯台湾予選 | Lin Lixiang | Xu Haohong | Win | B+R | 6.5 | 3071 | 14 | 
 | 2021-09-03 | 第26回三星火災杯台湾予選 | Lin Lixiang |  | Win | B+R | 6.5 | 3057 | 4 | 
 | 2021-09-01 | 第26回三星火災杯台湾予選 | Lu Yiquan | Lin Lixiang | Win | W+R | 6.5 | 3053 | 0 | 
 | 2021-09-01 | 第26回三星火災杯台湾予選 | Lin Lixiang |  | Win | B+R | 6.5 | 3053 | 3053 | 

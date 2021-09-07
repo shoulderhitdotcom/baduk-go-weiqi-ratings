@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-07 | 第26回三星火災杯台湾予選 | Lai Junfu | Lin Shixun | Win | B+R | 6.5 | 3173 | -5 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 | Lai Junfu | Zhang Zhehao | Win | B+R | 6.5 | 3178 | 1 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 |  | Lai Junfu | Win | W+R | 6.5 | 3177 | 25 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第3戦 | Park Sangjin | Lai Junfu | Lose | B+R | 6.5 | 3152 | 0 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Lai Junfu | Tu Xiaoyu | Lose | W+1.5 | 6.5 | 3152 | 0 | 

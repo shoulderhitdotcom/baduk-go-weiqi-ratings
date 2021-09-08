@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-08 | 第70期王座戦予選 | Sonoda Yuichi | Seto Taiki | Win | W+R | 6.5 | 3173 | 24 | 
 | 2021-09-02 | 第60期十段戦予選 | Yamashita Keigo | Seto Taiki | Win | W+4.5 | 6.5 | 3149 | 36 | 
 | 2021-08-19 | 第46期棋聖戦Bリーグ | Seto Taiki | So Yokoku | Win | B+R | 6.5 | 3113 | 3113 | 
 | 2021-08-12 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Seto Taiki | Hsu Chiayuan | Lose | W+R | 6.5 | missing | -3094 | 

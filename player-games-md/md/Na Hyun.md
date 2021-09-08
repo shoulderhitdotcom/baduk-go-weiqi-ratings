@@ -5,443 +5,444 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第26回GSカルテックス杯プロ棋戦2回戦 | Weon Seongjin | Na Hyun | B+0.5 | 2021-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wrDKG%2B5UystWUZ221Uso9w%3D%3D) | 
-| 第26回LG杯韓国予選 | Na Hyun | Park Joonhoon | W+R | 2021-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3J%2BpOJbqzWDpnALS1lfKcg%3D%3D) | 
-| 第26回GSカルテックス杯プロ棋戦1回戦 | Seol Hyunjun | Na Hyun | W+R | 2021-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CAigrj2QFoj3xTbPfmHLeQ%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Weon Seongjin | Na Hyun | B+R | 2021-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E%2FWVmKx57lYA4n5XHZ73PQ%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Na Hyun | Yun Junsang | B+R | 2021-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b2e64LzGe%2Fi%2B7%2BVSraRcLA%3D%3D) | 
-| 第4期韓国竜星戦1回戦 | Na Hyun | Lee Hyungjin | W+R | 2021-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a9jf4j9TpFkrNwghUGfc%2BQ%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Byun Sangil | Na Hyun | B+R | 2021-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WXuGBlIL6OTwx4VYfYZ7TA%3D%3D) | 
-| 第22回マキシムコーヒー杯入神最強戦2回戦 | Na Hyun | Choi Jeong | W+1.5 | 2021-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NwY8HbaLT8jpd5K%2FH%2FsXUQ%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Kim Jiseok | Na Hyun | B+0.5 | 2021-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8thGax1lpyLra7abQ1je7g%3D%3D) | 
-| 第22回マキシムコーヒー杯入神最強戦1回戦 | Yoo Changhyuk | Na Hyun | W+R | 2021-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dz%2Fz024Qp9lvVmULj3HkgQ%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Paek Hongseok | Na Hyun | B+R | 2021-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gf6IZU2PPfsLLS2CneXdzg%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Na Hyun | Kang Dongyun | W+R | 2021-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I5fblR%2BSBfm0bQcxYVOXQQ%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Na Hyun | Park Yeonghun | B+R | 2021-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZHO%2Fu%2BiuXl5b4xgZehrczA%3D%3D) | 
-| 第4回クラウン・ヘテ杯1回戦 | Lee Changseok | Na Hyun | B+R | 2021-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c2VoiPrYJM0DDYV%2B7Oy4UA%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Na Hyun | Cho Hanseung | B+2.5 | 2021-01-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7w8TYTA95K3bmrSRf7vgZA%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Na Hyun | Kang Yootaek | B+R | 2020-12-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cG3EVhiEPuLswt1to4T34A%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Na Hyun | Chen Zijian | W+R | 2020-12-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FNpVyI3vOhUlgQ5xAQHYLg%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Chen Zijian | Na Hyun | B+R | 2020-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=maoMsXsQvhbkwydwv2nBcg%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Na Hyun | Ke Jie | W+R | 2020-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3%2BCptSRuKHkOddMpD3oc9Q%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Na Hyun | Byun Sangil | W+R | 2020-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r1gsdvF4%2FPgeHqSSc6R4YQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Na Hyun | Tu Xiaoyu | B+R | 2020-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ky0%2FfOvVY3d04eu9uOQTNQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Wang Shiyi | Na Hyun | W+R | 2020-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S8%2Fr3%2BF8SzOqkmoIss2sCw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Rong Yi | Na Hyun | B+R | 2020-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4XDUi7oQDOgVPTa%2BZMZw%2FQ%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Na Hyun | Lee Wonyoung | W+R | 2020-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pKBl%2B2h7l0NqgG1LRoyJnw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Mi Yuting | Na Hyun | W+R | 2020-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fArvbV03PI9b4aW9XjwNWw%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Na Hyun | Tuo Jiaxi | W+R | 2020-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2hF2nhTrKta0hxZcMV3vtg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ | Fan Tingyu | Na Hyun | W+¼ | 2020-12-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hA15rbL%2FbKIfWzfrMBTCwQ%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Na Hyun | Lee Donghoon | W+0.5 | 2020-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oYVC%2F8Kef29QlRtx3vZtbg%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Kang Dongyun | Na Hyun | B+R | 2020-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U5rGl3J4q%2Bab2VmPBJ83vw%3D%3D) | 
-| 第2回大統領杯全国囲碁大会1回戦 | Kang Jihoon | Na Hyun | B+R | 2020-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t%2BpYKZgyDluxC5xBa4Uw%2Bg%3D%3D) | 
-| 第2回大統領杯全国囲碁大会予選（再対局） | Kang Yootaek | Na Hyun | W+R | 2020-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eC%2FmmG4W%2FtyCijQEdDPOlQ%3D%3D) | 
-| 第2回大統領杯全国囲碁大会予選 | Kang Yootaek | Na Hyun | Void | 2020-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q%2FlRBEBAzrFk6Z5z5JR0cA%3D%3D) | 
-| 第25回三星火災杯韓国一般枠予選 | Lee Yeongkyu | Na Hyun | B+R | 2020-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pmynTMBcc%2BSpFcvmrjYA9g%3D%3D) | 
-| 第25回三星火災杯韓国一般枠予選 | Song Gyusang | Na Hyun | W+R | 2020-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=erKpdU7096a4m7080AX8Hw%3D%3D) | 
-| 第25回三星火災杯韓国一般枠予選 | Na Hyun | Park Hyunsoo | B+R | 2020-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sGSpRheBQ1GdtQBqtyxBZQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第6節 | Tong Mengcheng | Na Hyun | W+R | 2020-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9x%2FwudeKE3oy%2BjWaJ2aJ9g%3D%3D) | 
-| 第25回三星火災杯韓国一般枠予選 | missing | Na Hyun | W+R | 2020-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pMGMt4zyEU2L9kwEDo6www%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第4節 | Tang Weixing | Na Hyun | B+R | 2020-08-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v%2FaXWu7baXrFTEJB4N%2F7OQ%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第3節 | Gu Lingyi | Na Hyun | W+¼ | 2020-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KD57PcIfRmVmiyH2znbzZg%3D%3D) | 
-| 第22回中国囲碁甲級リーグ第2節 | Chen Zijian | Na Hyun | W+R | 2020-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IOcEABabVLyp%2BtW4lDN%2Btg%3D%3D) | 
-| 第25回LG杯韓国予選決勝 | Na Hyun | Lee Yeongkyu | W+R | 2020-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o0LhrXukXJ9pemwJgLEw8w%3D%3D) | 
-| 第25回LG杯韓国予選 | Na Hyun | Lee Changho | B+R | 2020-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8BgIGcEWXFee2NMB26%2B4%2Fw%3D%3D) | 
-| 第25回LG杯韓国予選 | Na Hyun | missing | B+R | 2020-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y8Hx7hffppC8GqSykHWKnw%3D%3D) | 
-| 第25回LG杯韓国予選 | missing | Na Hyun | W+R | 2020-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XeqQS95AiR7XjuWMSrZI1g%3D%3D) | 
-| 韓国囲碁リーグオールスター戦第4局 | Park Yeonghun | Na Hyun | B+R | 2020-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XBJqRf7zAev5nnWP%2BEgi9w%3D%3D) | 
-| 第25回LG杯韓国予選 | Na Hyun | missing | B+R | 2020-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FDJ4PhYSJCxlVIwb5Oq51w%3D%3D) | 
-| 韓国囲碁リーグオールスター戦第3局 | Lee Yeongkyu | Na Hyun | W+1.5 | 2020-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G98BW3u6%2Buwu3gfUFGCrbg%3D%3D) | 
-| 韓国囲碁リーグオールスター戦第2局 | Na Hyun | Yun Junsang | B+R | 2020-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EMi9qdcpxwNIgBgSKDB7zw%3D%3D) | 
-| 第21回マキシムコーヒー杯入神最強戦準決勝 | Na Hyun | Lee Jihyun | W+R | 2020-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sWTLAENKrqEjJcGsYcbeTQ%3D%3D) | 
-| 第21回マキシムコーヒー杯入神最強戦3回戦 | Park Jinsol | Na Hyun | W+R | 2020-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l05YzdtaXg5FtZKoTCHbDQ%3D%3D) | 
-| 第21回マキシムコーヒー杯入神最強戦2回戦 | Na Hyun | Kim Jiseok | B+R | 2020-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0NUNtMKxORDFgzHGiRjBWQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第18節第1試合第4局 | Kim Myounghoon | Na Hyun | B+0.5 | 2020-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1dtPMTv7Dx9GLUBSX9U9%2FQ%3D%3D) | 
-| 第21回マキシムコーヒー杯入神最強戦1回戦 | Na Hyun | Weon Seongjin | B+R | 2020-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qn4nw4I%2FjTpiLAngVMo%2Bdg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第17節第3試合第3局 | Park Jinsol | Na Hyun | B+R | 2020-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MhXoKn0mtFP4BXyh3I8zyQ%3D%3D) | 
-| 第9回応氏杯世界選手権韓国選抜戦 | Na Hyun | Lee Donghoon | W+R | 2020-01-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CvOGlxkglMDRnQ0gC4Lsog%3D%3D) | 
-| 第9回応氏杯世界選手権韓国選抜戦 | Na Hyun | Choi Jeong | B+R | 2020-01-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0nSBo9UtIGxVX4T3bzX7sQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第16節第3試合第5局 | Park Yeonghun | Na Hyun | B+R | 2020-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JtsE0VtqXZ78C7bzDrgNZA%3D%3D) | 
-| 第13回春蘭杯韓国予選 | Na Hyun | Shin Minjun | W+R | 2020-01-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gGjiuHCQ3jYUtmJB8j2gxQ%3D%3D) | 
-| 第3回クラウン・ヘテ杯3回戦 | Byun Sangil | Na Hyun | B+1.5 | 2020-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fmm1ta%2FvH%2FT%2FXNzMdB3Ksg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第15節第2試合第3局 | Byun Sangil | Na Hyun | B+R | 2020-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sJqP0HMoiBSb6XYKlxFHaw%3D%3D) | 
-| 第13回春蘭杯韓国予選 | Hong Seongji | Na Hyun | W+R | 2020-01-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z7QSi9VhmBdMgWznJwbAmA%3D%3D) | 
-| 第13回春蘭杯韓国予選 | An Sungjoon | Na Hyun | W+2.5 | 2020-01-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s2pKdWV9fkowdUEy9ciqPg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第14節第4試合第4局 | Kang Seungmin | Na Hyun | W+R | 2020-01-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2R8cK2od2li%2BkHqYDKFTkA%3D%3D) | 
-| 第3回クラウン・ヘテ杯2回戦 | Seol Hyunjun | Na Hyun | W+R | 2020-01-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nKzkHn0sZE2y0OsBfvWGpQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第13節第2試合第4局 | Heo Yongho | Na Hyun | B+R | 2019-12-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F5H9mgCas2EXLd7ejfHubw%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第12節第4試合第2局 | Na Hyun | missing | B+R | 2019-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qMgmcA4cqJCkQI%2B4jIRbbg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第11節第4試合第5局 | Park Junghwan | Na Hyun | B+R | 2019-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FLojkWxlRsQMvQ2nKv45Tg%3D%3D) | 
-| 第3回クラウン・ヘテ杯1回戦 | Wen Rubin | Na Hyun | W+R | 2019-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gDhuR9ZESUlRwE9s%2Bvx7hg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第9節第4試合第3局 | Kim Myounghoon | Na Hyun | W+R | 2019-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w3HSLtF4ifxmpA4AXGJ0SQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第8節第2試合第5局 | Na Hyun | Park Jinsol | B+R | 2019-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wYi1coWy3jxslBQbs61OSg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第7節第2試合第3局 | Na Hyun | Lee Jihyun | B+R | 2019-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PB5jwnWzfOfdBlCRXc2gsg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第6節第3試合第3局 | Lee Changseok | Na Hyun | W+R | 2019-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=40eAYSqQ9q6eelavipfNDw%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第5節第1試合第5局 | Kang Seungmin | Na Hyun | B+R | 2019-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HtenBYjO8wP2X4Q6LW24Ag%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第4節第3試合第1局 | Na Hyun | An Jungki | W+R | 2019-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P2C3jt9ao2U%2BhhYi%2B93Xmg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第3節第1試合第3局 | Na Hyun | Shin Jinseo | W+R | 2019-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uk9PRSijUMvy%2FKhOHMPwsQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第2節第1試合第3局 | Park Junghwan | Na Hyun | B+R | 2019-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MnqoI9gEObKIsBR%2FK4HmWw%3D%3D) | 
-| 第6回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Park Geunho | Na Hyun | B+2.5 | 2019-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PjoeSFqb8tn%2B0XIeTMeDpQ%3D%3D) | 
-| 第6回国手山脈韓国国内トーナメント32強戦 | Oh Jeonga | Na Hyun | B+R | 2019-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=obtW%2F4m6d%2FBDPu4oVbjrkw%3D%3D) | 
-| 第2期韓国竜星戦8強戦 | Na Hyun | Park Junghwan | W+R | 2019-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IqVaVMNo%2BLiS0i%2BOIpOkvA%3D%3D) | 
-| 第24回三星火災杯統合予選準決勝 | Na Hyun | Li Xuanhao | W+R | 2019-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SyUB7e6oT6PlmAIhSw7T3A%3D%3D) | 
-| 第2期韓国竜星戦16強戦 | Na Hyun | Choi Jeong | B+R | 2019-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2LTe71ck3H0v9ncl7D2H3w%3D%3D) | 
-| 2019年中国囲碁乙級リーグ | Onishi Ryuhei | Na Hyun | W+R | 2019-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AemoYjrs3TuV4qxcU5sIUQ%3D%3D) | 
-| 2019年中国囲碁乙級リーグ | Weon Seongjin | Na Hyun | B+R | 2019-06-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lH2GEX9XbDfxi5gapLxPnw%3D%3D) | 
-| 2019年中国囲碁乙級リーグ | Na Hyun | missing | B+R | 2019-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ak2rgMxmPsMidyFJ3f14Dg%3D%3D) | 
-| 2019年中国囲碁乙級リーグ | Na Hyun | missing | B+R | 2019-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cvCVFjt7JhOp6x49MaWxeg%3D%3D) | 
-| 2019年中国囲碁乙級リーグ | Na Hyun | Tong Yulin | B+R | 2019-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1XTlmI1qGK5TjKMw14oGHA%3D%3D) | 
-| 2019年中国囲碁乙級リーグ | Yun Junsang | Na Hyun | W+R | 2019-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MyGSEfHgT3KGoFtFOQVz8g%3D%3D) | 
-| 2019年中国囲碁乙級リーグ | Wang Yanhao | Na Hyun | W+R | 2019-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZGO7dp2sSv5pbT5tmvxKmA%3D%3D) | 
-| 第6回国手山脈杯韓国選抜戦決勝 | Lee Donghoon | Na Hyun | B+R | 2019-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ke2KcH%2FJGX4iahJGLvvReQ%3D%3D) | 
-| 第6回国手山脈杯韓国選抜戦2回戦 | Lee Yeongkyu | Na Hyun | W+R | 2019-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=95UCo4fYJuh6a1oQorufhA%3D%3D) | 
-| 第24回LG杯朝鮮日報棋王戦1回戦 | Ke Jie | Na Hyun | B+R | 2019-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xY%2BlNUCAwYuS5Yi3vEgJmA%3D%3D) | 
-| 第38回KBS杯囲碁王戦2回戦 | Lee Donghoon | Na Hyun | B+R | 2019-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PHCYsIm4SkQpNvGqhXtXjA%3D%3D) | 
-| 2019年囲碁テレビ杯早碁戦32強戦 | Na Hyun | Park Joonhoon | W+R | 2019-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9sBixQVd8o0oHS7NvS45XQ%3D%3D) | 
-| 第24回LG杯統合予選3回戦 | Na Hyun | Xia Chenkun | B+1.5 | 2019-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bu0Mm9KcJA4WdtAOTY5%2BVA%3D%3D) | 
-| 第24回LG杯統合予選2回戦 | Na Hyun | Huang Yunsong | B+R | 2019-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F8Zn7PLDXsiWgvHV46Sg8g%3D%3D) | 
-| 第2期韓国竜星戦32強戦-3 | Na Hyun | Kim Sedong | B+R | 2019-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k4YzVYN8Ec7osU6RDrdpWQ%3D%3D) | 
-| 第2期韓国竜星戦32強戦-2 | Lee Jihyun | Na Hyun | B+R | 2019-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MaGjmMx0e%2Bkv0pA%2BwxYxsw%3D%3D) | 
-| 第2期韓国竜星戦32強戦-1 | Mok Jinseok | Na Hyun | W+R | 2019-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gyGS762QT%2FpniwNQwORj7A%3D%3D) | 
-| 第20回マキシムコーヒー杯入神最強戦2回戦 | Shin Jinseo | Na Hyun | B+R | 2019-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QqfsutBMIz60yECt%2Bn0R3g%3D%3D) | 
-| 2019年韓中囲碁リーグチャンピオンズカップ第2戦 | Na Hyun | Tong Mengcheng | B+R | 2019-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y9KrcaeIHD7DM3alLzJClQ%3D%3D) | 
-| 2019年韓中囲碁リーグチャンピオンズカップ第1戦 | Na Hyun | Tong Mengcheng | B+R | 2019-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bUTnKQnPQLh6VMPVjUXGYQ%3D%3D) | 
-| 第2回クラウン・ヘテ杯決勝三番勝負第2局 | Na Hyun | Park Hamin | W+0.5 | 2019-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wJr0aUIhO3PPIPj2oyIv7A%3D%3D) | 
-| 第2回クラウン・ヘテ杯決勝三番勝負第1局 | Park Hamin | Na Hyun | B+R | 2019-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c6WzuNNY3ENLy4FrcEl7Fg%3D%3D) | 
-| 第2回クラウン・ヘテ杯準決勝 | Na Hyun | Shin Jinseo | B+R | 2019-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2FgWOejN%2BPZUEDRKxsz9ZA%3D%3D) | 
-| 第20回マキシムコーヒー杯入神最強戦1回戦 | Yun Junsang | Na Hyun | W+R | 2019-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xRcMDW6VQvmMK6rTcf%2BWtg%3D%3D) | 
-| 第2回クラウン・ヘテ杯3回戦 | Byun Sangil | Na Hyun | W+R | 2019-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RrpFEHuzRUpH0M9c%2Frqvfg%3D%3D) | 
-| 第2回クラウン・ヘテ杯2回戦 | Na Hyun | Kim Cheayoung | B+R | 2019-01-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DNmqXntcKeAeRj%2BtLfp%2Bbw%3D%3D) | 
-| 第2回クラウン・ヘテ杯1回戦 | Han Seungjoo | Na Hyun | W+0.5 | 2018-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nmAkSkfq%2FZBNATkZ1k53zQ%3D%3D) | 
-| 2018年韓国囲碁リーグ優勝決定戦第2戦 | Lee Changho | Na Hyun | W+R | 2018-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sk4CeOgeNgbmazEGmn1tnQ%3D%3D) | 
-| 2018年韓国囲碁リーグ優勝決定戦第1戦 | Na Hyun | Park Jinsol | B+0.5 | 2018-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e6xB20iNza2n7Gmdyushfw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第23節山東-中信 | Han Yizhou | Na Hyun | B+R | 2018-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YEfSXTgFwNs05Yb0lvPOqw%3D%3D) | 
-| 2018年韓国囲碁リーグ第14節 | Kim Seongjae | Na Hyun | W+4.5 | 2018-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j5nP83YysDBGC6YgTHZuxg%3D%3D) | 
-| 2018年韓国囲碁リーグ第13節 | Ryu Minhyung | Na Hyun | W+R | 2018-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FBhcw4UErsfV3oZ02Kb1Ug%3D%3D) | 
-| 2018年韓国囲碁リーグ第12節 | Kim Sedong | Na Hyun | B+R | 2018-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F8C%2Bj2u4Lv6Av1bd0bl7Lg%3D%3D) | 
-| 2018年韓国囲碁リーグ第11節 | Na Hyun | Park Hamin | W+R | 2018-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PIyDjw7gw3N%2FjAYPVAoLnQ%3D%3D) | 
-| 第23回三星火災杯世界囲碁マスターズ1回戦E2 | Shin Minjun | Na Hyun | B+0.5 | 2018-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WysfLxI9bcgh%2FSERJtcRkw%3D%3D) | 
-| 第23回三星火災杯世界囲碁マスターズ1回戦E1 | Na Hyun | Fan Yunruo | W+R | 2018-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bj7D%2BjicsNy%2BbX0D77DB%2Fw%3D%3D) | 
-| 2018年韓国囲碁リーグ第10節 | Na Hyun | Choi Jaeyoung | B+0.5 | 2018-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EOMIKC1cFpu0mVFtAUSCRw%3D%3D) | 
-| 第5回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Shin Minjun | Na Hyun | B+R | 2018-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=juShdxT0zGwKo86wUvinEg%3D%3D) | 
-| 2018年韓国囲碁リーグ第9節 | Han Seungjoo | Na Hyun | W+R | 2018-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v5FuKurGfwFbMhMf9aba8w%3D%3D) | 
-| 第1回天府杯韓国選抜戦決勝 | Lee Donghoon | Na Hyun | B+R | 2018-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=18HXyUHQcrI%2FB0N4alWpNQ%3D%3D) | 
-| 第1回天府杯韓国選抜戦1回戦 | Na Hyun | Shin Minjun | B+R | 2018-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WTJVxkXIA1E1uWXNwBpd9A%3D%3D) | 
-| 2018年韓国囲碁リーグ第8節 | Ahn Kukhyun | Na Hyun | W+R | 2018-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v4PDVLtJ%2Fpj66ppqo%2BDl8g%3D%3D) | 
-| 2018年韓国囲碁リーグ第7節 | Seol Hyunjun | Na Hyun | W+R | 2018-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zCplwJEsp%2FyanbnWA%2FmY1w%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第11節山東-重慶 | Yang Dingxin | Na Hyun | B+R | 2018-08-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E2HF4ff%2BiwIiub3QTZfruQ%3D%3D) | 
-| 2018年韓国囲碁リーグ第6節 | Na Hyun | Ryu Minhyung | W+1.5 | 2018-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uYIHosEOfdl%2FYyr18O2K6A%3D%3D) | 
-| 第5回国手山脈杯世界プロ最強戦1回戦 | Yang Dingxin | Na Hyun | B+R | 2018-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TNhJPEVjQ5uqa8dEaoghBQ%3D%3D) | 
-| 2018年韓国囲碁リーグ第5節 | Yun Junsang | Na Hyun | W+0.5 | 2018-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ewRo9%2Bb3SWchH71bn%2BuESg%3D%3D) | 
-| 第20回農心杯韓国選抜戦 | Na Hyun | Shin Jinseo | W+R | 2018-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zVt34ShkH0EtMGEFtXGVOw%3D%3D) | 
-| 2018年韓国囲碁リーグ第4節 | Na Hyun | Park Geunho | B+R | 2018-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2aPtBAaFKAISzlT3BDOiYA%3D%3D) | 
-| 第20回農心杯韓国選抜戦 | An Jungki | Na Hyun | W+R | 2018-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JB97sS39BRsa8SjzDtN88w%3D%3D) | 
-| 2018年韓国囲碁リーグ第3節 | Song Jihoon | Na Hyun | W+R | 2018-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VWS6Do%2F56FzyMBxrZOrHug%3D%3D) | 
-| 第4回百霊杯韓国選抜戦4強戦 | Lee Sedol | Na Hyun | B+R | 2018-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X2ctjH2hSlNttAT6Evhn6g%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第9節山東-天津 | Na Hyun | Xie Erhao | W+¼ | 2018-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jc8O7fF3%2BpoAhowv8wv6Ww%3D%3D) | 
-| 第1回韓国竜星戦16強戦 | Choi Jeong | Na Hyun | B+0.5 | 2018-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hNbi117qbIL8yucFttAmqg%3D%3D) | 
-| 2018年韓国囲碁リーグ第2節 | Na Hyun | Lee Changho | B+R | 2018-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TvhMVf2Xf8A5EdkgWn0TEg%3D%3D) | 
-| 2018年韓国囲碁リーグ第1節 | Na Hyun | missing | B+R | 2018-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qcUnL%2FT6nwxyrnQn%2BhrC3w%3D%3D) | 
-| 第30回テレビアジア選手権決勝 | Na Hyun | Kim Jiseok | W+2.5 | 2018-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xgl33%2BypNF66q8%2Ftjypicg%3D%3D) | 
-| 第30回テレビアジア選手権準決勝 | Fan Tingyu | Na Hyun | W+R | 2018-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t6yczbdHgk8HYbXOYrZxkQ%3D%3D) | 
-| 第5回国手山脈杯韓国選抜戦決勝 | Lee Yeongkyu | Na Hyun | W+R | 2018-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BQHxzIOaFvVxWqf1i%2FWVYw%3D%3D) | 
-| 第5回国手山脈杯韓国選抜戦 | Lee Donghoon | Na Hyun | W+R | 2018-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Revzog9uYw9XRx3wkXp9uA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第4節山東-民生 | Tao Xinran | Na Hyun | B+R | 2018-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mP0L3PAnaS7mhWGNqTrc1w%3D%3D) | 
-| 第23回LG杯予選1回戦 | An Joyeong | Na Hyun | W+R | 2018-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p5iHCiyTsFFsjq4jFVCVFQ%3D%3D) | 
-| 第1回韓国竜星戦32強ダブルエリミネーションC2 | Hong Kipyo | Na Hyun | W+R | 2018-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TIKhkPI1OQVe5WH0Vhb3Ww%3D%3D) | 
-| 第1回韓国竜星戦32強ダブルエリミネーションC1 | Na Hyun | missing | B+R | 2018-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qEp33pMFKhop8jPIGBSA8A%3D%3D) | 
-| 第12回春蘭杯韓国予選 | Na Hyun | Lee Sedol | W+R | 2018-02-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c%2FRfxl2pshOupkVHBeGpvg%3D%3D) | 
-| 第12回春蘭杯韓国予選 | Ahn Kukhyun | Na Hyun | W+R | 2018-02-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MrgB50WrhNiso5z0ESjfGQ%3D%3D) | 
-| 第1回クラウン・ヘテ杯1回戦 | Na Hyun | Shin Jinseo | W+R | 2017-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QLfDVBcb2sMk9vTAA%2BCCsA%3D%3D) | 
-| 2017年韓国囲碁リーグ優勝決定戦第3戦 | Kim Myounghoon | Na Hyun | B+R | 2017-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bckpp1ZwZPhIcJYeLaJV1w%3D%3D) | 
-| 2017年韓国囲碁リーグ優勝決定戦第2戦 | Han Seungjoo | Na Hyun | W+R | 2017-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WdSyoSXQSbCwsOiwJCT6KA%3D%3D) | 
-| 2017年韓国囲碁リーグ優勝決定戦第1戦 | Na Hyun | Han Seungjoo | B+R | 2017-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3aJohPIQeBqtpRDXqqPdRw%3D%3D) | 
-| 2017年韓国囲碁リーグプレーオフ第3戦 | Kim Jiseok | Na Hyun | W+R | 2017-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dPT2MjpsC6k8t9X%2FxQtXOw%3D%3D) | 
-| 2017年韓国囲碁リーグプレーオフ第1戦 | Paek Hongseok | Na Hyun | W+R | 2017-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NM0oaveGku6xf%2FgXrlepkQ%3D%3D) | 
-| 韓国ナショナルチームリーグ戦 | Song Jihoon | Na Hyun | B+R | 2017-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9qSuvUM82ZFGJo9jtSRYjg%3D%3D) | 
-| 2017年韓国囲碁リーグ | Na Hyun | Kim Jiseok | W+R | 2017-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mxHEMDvht9XQrs%2BbJvy00w%3D%3D) | 
-| 2017年韓国囲碁リーグ | Na Hyun | Lee Donghoon | W+R | 2017-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3qC8xf6zGo1nCMYjOtbwxg%3D%3D) | 
-| 2017年韓国囲碁リーグ | Na Hyun | Park Minkyu | B+R | 2017-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rv4s9XQ6CuEW4s6XHHhjeg%3D%3D) | 
-| 2017年韓国囲碁リーグ | Na Hyun | Kang Dongyun | B+R | 2017-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M5W6WRXrCx9BpgP4Xgw%2BOA%3D%3D) | 
-| 2017年韓国囲碁リーグ | Na Hyun | Mok Jinseok | B+R | 2017-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I%2F%2F14VqeC1%2FtKYKT64TaKw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Kang Yootaek | Na Hyun | B+0.5 | 2017-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZowHM9dieogbz7dxsyinrg%3D%3D) | 
-| 第29回テレビアジア選手権決勝 | Lee Sedol | Na Hyun | W+R | 2017-09-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SgwZRYzL7yo6mi7MKa%2BwLw%3D%3D) | 
-| 第29回テレビアジア選手権準決勝 | Na Hyun | Ichiriki Ryo | B+R | 2017-09-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wZFlj2XNenGCIshAkv0WKw%3D%3D) | 
-| 第29回テレビアジア選手権1回戦 | Li Xuanhao | Na Hyun | W+4.5 | 2017-09-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RE4YZcTYFQl2zZwN2dBnGw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Na Hyun | Ahn Kukhyun | B+R | 2017-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dz8vnzUdqhz9R05eXhE2rA%3D%3D) | 
-| 2017年韓国囲碁リーグ | Na Hyun | Kim Jiseok | W+R | 2017-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p8uA%2BT93SEjcEmJfeRlExA%3D%3D) | 
-| 2017年韓国囲碁リーグ | Lee Jihyun | Na Hyun | W+R | 2017-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ebUOx52T12PMCP1DMZh%2Bcw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Na Hyun | Lee Yeongkyu | B+R | 2017-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CeTKDJn8Ur0xb41cs5WFXw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Na Hyun | Shin Minjun | B+R | 2017-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=addcepxeB89xDa4Bsv2QPQ%3D%3D) | 
-| 2017年韓国囲碁リーグ | Kim Minho | Na Hyun | W+R | 2017-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vvqvkL3e%2BWNO25wpWo90cw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Park Junghwan | Na Hyun | B+R | 2017-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FPDqhS1%2B5WfTkpU1pyshYA%3D%3D) | 
-| 第3回夢百合杯世界オープン戦2回戦 | Liao Yuanhe | Na Hyun | B+R | 2017-06-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W85vD45UQVqRZiU0eXkRtA%3D%3D) | 
-| 第3回夢百合杯世界オープン戦1回戦 | Kang Dongyun | Na Hyun | W+R | 2017-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HcQ6up5b7%2B0vmnhUeovpDA%3D%3D) | 
-| 2017年中国囲碁乙級リーグ | Na Hyun | Guo Yuzheng | W+0.5 | 2017-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g4QssSWPPd39Hvpe5iooRw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Na Hyun | Ahn Kukhyun | B+R | 2017-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5qCOGWJjgfknSuPA%2B4r%2FBw%3D%3D) | 
-| 第22期LG杯世界予選準決勝 | Na Hyun | Yang Dingxin | W+R | 2017-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lE5cNA3SBYd%2FZ3RdvwlMQw%3D%3D) | 
-| 第35回KBS杯囲碁王戦決勝三番勝負第2局 | Na Hyun | Lee Sedol | W+1.5 | 2016-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DSHY7AHpgJr2c2JOXYWkkQ%3D%3D) | 
-| 第35回KBS杯囲碁王戦決勝三番勝負第1局 | Lee Sedol | Na Hyun | B+R | 2016-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=es4nnMdKs1SlGsAWbd0GiQ%3D%3D) | 
-| 2016年韓国囲碁リーグ | Na Hyun | Park Minkyu | B+R | 2016-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BonfaOnH9viLA3YmwwCVHA%3D%3D) | 
-| 第35回KBS杯囲碁王戦準決勝 | Na Hyun | Lee Yeongkyu | B+R | 2016-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=44bKqQi9AgILw%2FjqEdNETA%3D%3D) | 
-| 2016年韓国囲碁リーグ | Park Junghwan | Na Hyun | B+R | 2016-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o5XQLykgpbRelBYNrHlW%2Fw%3D%3D) | 
-| 第35回KBS杯囲碁王戦8強戦 | Cho Hanseung | Na Hyun | W+R | 2016-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bVuh8wO%2F76PZtCYMl05kkQ%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦1回戦 | Wang Shiyi | Na Hyun | B+R | 2016-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sc5fXcRc45eWKZSJTz%2Bozg%3D%3D) | 
-| 2016年韓国囲碁リーグ | Park Minkyu | Na Hyun | W+R | 2016-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=crqElpQHpTIcDKeZDDoBoA%3D%3D) | 
-| 2016年韓国囲碁リーグ | Na Hyun | Weon Seongjin | W+R | 2016-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s%2BoL9afu5n2TmKrX4D4Lnw%3D%3D) | 
-| 2016年韓国囲碁リーグ | Lee Taehyun | Na Hyun | W+R | 2016-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C5muG9yfAMzaNgjl9ZrztQ%3D%3D) | 
-| 2016年韓国囲碁リーグ第14節 | Lee Yeongkyu | Na Hyun | B+R | 2016-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yABkp9PElEaqRzJpXki8kw%3D%3D) | 
-| 2016年韓国囲碁リーグ第13節 | Na Hyun | Cho Hanseung | B+R | 2016-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nsl3YYhm24cHzfPIogwijQ%3D%3D) | 
-| 第35回KBS杯囲碁王戦16強戦 | Na Hyun | Kim Juho | B+R | 2016-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=brYc2gHV86dQUEVClxMQrA%3D%3D) | 
-| 2016年韓国囲碁リーグ第12節 | Choi Jeong | Na Hyun | W+R | 2016-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SA0hDtIhO1H7EGJwWi7EFw%3D%3D) | 
-| 2016年韓国囲碁リーグ第11節 | Na Hyun | Park Jinsol | B+R | 2016-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gKWJFp57la1x%2FfWJiiFZoQ%3D%3D) | 
-| 2016年韓国囲碁リーグ第10節 | Heo Yongho | Na Hyun | W+R | 2016-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oC%2BDJtkB2I7gzfrBHGn43Q%3D%3D) | 
-| 2016年韓国囲碁リーグ第9節 | Na Hyun | Kang Yootaek | B+R | 2016-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5gaswFCfG2LiasiV4RgJUw%3D%3D) | 
-| 2016年韓国囲碁リーグ第8節 | Na Hyun | Park Seunghwa | B+R | 2016-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tDpFHuQabWl9NhTXH%2BcoJw%3D%3D) | 
-| 第18回農心杯韓国選抜戦 | Na Hyun | Shin Jinseo | W+R | 2016-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jeX4Ft%2Ba9EDd0tCRttIF2g%3D%3D) | 
-| 第21回三星火災杯統合予選3回戦 | Na Hyun | Fan Yunruo | W+R | 2016-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3V7xapEXDA70f8KIZt9Ltw%3D%3D) | 
-| 2016年韓国囲碁リーグ第6節 | Na Hyun | Lee Taehyun | B+1.5 | 2016-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1J81%2FODSbvFpPamcHZ57kQ%3D%3D) | 
-| 第3回百霊杯世界オープン戦2回戦 | Peng Quan | Na Hyun | B+R | 2016-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U%2FW2TGWQag0vwMHM5qAGAg%3D%3D) | 
-| 第3回百霊杯世界オープン戦1回戦 | Na Hyun | missing | B+1.5 | 2016-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SJcfqeKrT%2F86nwRCb3RG%2Fg%3D%3D) | 
-| 2016年中国囲碁乙級リーグ | Na Hyun | missing | B+R | 2016-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=21aC444Rg8tUPRphqHvZiA%3D%3D) | 
-| 2016年韓国囲碁リーグ第3節 | Lee Wonyoung | Na Hyun | W+0.5 | 2016-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A%2FTy8RmX2vu7hVnGIoHnZg%3D%3D) | 
-| 2016年韓国囲碁リーグ第2節 | Na Hyun | Kim Myounghoon | B+R | 2016-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TQ9IbtCjx%2FlejZMm5A0Vfg%3D%3D) | 
-| 2016年韓国囲碁リーグ第1節 | Na Hyun | Choi Jaeyoung | B+R | 2016-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xido2iBKWH5Fp2c1n%2FTttg%3D%3D) | 
-| 第35回KBS杯囲碁王戦2回戦 | Park Junghwan | Na Hyun | W+R | 2016-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O9MOwdflqJZlhwXq87UjHw%3D%3D) | 
-| 第8回応氏杯世界選手権1回戦 | Lin Lixiang | Na Hyun | B+R | 2016-04-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=03eVbYSmzCLYCzmxnH9ZoA%3D%3D) | 
-| 第11回春蘭杯世界囲碁選手権1回戦 | Na Hyun | Mi Yuting | W+R | 2016-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=djhBjRsRif5%2B%2B7udKzz6Fw%3D%3D) | 
-| 第35回KBS杯囲碁王戦1回戦 | Na Hyun | Kim Seongjae | B+4.5 | 2016-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YGIddRn3T4Dj5p13dedioQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第21節 | Tang Weixing | Na Hyun | B+R | 2015-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=orysyE2TCRjRKIdmk4YRww%3D%3D) | 
-| 2015年利民杯世界囲碁星鋭最強戦1回戦 | Ke Jie | Na Hyun | B+R | 2015-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=39vDd8lhGsMbWFS%2FsT1fjg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第20節 | Lian Xiao | Na Hyun | W+R | 2015-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DlHD4UCFypZshxo3F4mdcQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第18節 | Na Hyun | missing | W+R | 2015-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=79f7WGAPttikzsX6x13jjA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第15節 | Zhang Tao | Na Hyun | W+R | 2015-10-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ENzyy3N8Gimjcn7alAGDaw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第17節 | Na Hyun | Tan Xiao | W+0.5 | 2015-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EvTMtLJihF4u6yXkaixdNw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第14節 | Na Hyun | Tao Xinran | B+3.5 | 2015-10-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nlQZSW11lqKPoR%2Fcsfxqew%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第16節 | Yang Dingxin | Na Hyun | W+R | 2015-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OrQ52vatLFAao9pX8LBQyg%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ2回戦 | Na Hyun | Ke Jie | W+R | 2015-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jpqfoNsIIcM%2BDytsTV%2FMqg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Na Hyun | Park Junghwan | W+R | 2015-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V7rD5jJXSLuP7ANqvYWYeg%3D%3D) | 
-| 2015年レッツランパーク杯オープントーナメント1回戦 | Na Hyun | Kim Seongjae | W+R | 2015-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ieITYWL9ThgF9g1fR1ZGmQ%3D%3D) | 
-| 2015年韓国囲碁リーグ | An Sungjoon | Na Hyun | B+R | 2015-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XDXs3VaTAZqaKhDp0bXXSA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Min Sangyoun | Na Hyun | B+R | 2015-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G%2BBOlpjNkJ2Rh24UJxrK%2Fg%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦B3 | Na Hyun | Peng Liyao | B+R | 2015-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g0EzrZCiDHdTePt063JyHg%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦B2 | Yoo Changhyuk | Na Hyun | W+R | 2015-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UY1cf7bmV7LprFo4DmI7cA%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦B1 | Peng Liyao | Na Hyun | B+R | 2015-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6oFbnckUK870LgeLFVWyyA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Na Hyun | Mok Jinseok | W+R | 2015-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xToDdpPnYf9YwjoR6esLCw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第13節 | Mao Ruilong | Na Hyun | B+R | 2015-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sOz15xDwJWf6FRr1FyU71w%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第12節 | Liao Xingwen | Na Hyun | B+R | 2015-09-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Th22cQjl8idPCXEIA7G6ag%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Siyeol | Na Hyun | W+1.5 | 2015-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=opmHENOYU8EgcU%2F3be5P6g%3D%3D) | 
-| 第19回中韓天元対抗戦第2局 | Chen Yaoye | Na Hyun | B+R | 2015-08-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7aY8mroIKdd3N1CvFWHJGg%3D%3D) | 
-| 第19回中韓天元対抗戦第1局 | Na Hyun | Chen Yaoye | W+R | 2015-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9kVNi5Fm4%2F%2Fj1m%2FC9YktRw%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Jiseok | Na Hyun | W+R | 2015-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6La45U0rw1tqpUBULe04vg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Song Jihoon | Na Hyun | W+R | 2015-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qefu3Wgbq%2FbDd4TLagrOKg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Seunghwa | Na Hyun | W+R | 2015-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9pj84GfxRZsZOY3k8tGbSw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第11節 | Na Hyun | Meng Tailing | W+R | 2015-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H5ieVzzMVbFLkMXRaXsrmg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Seongjae | Na Hyun | W+R | 2015-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SEfNi9TxY2rolQJbSwuEZQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第9節 | Na Hyun | Wu Guangya | W+R | 2015-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SS2w1Ims4P2Zka3aMGYx%2Fg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Na Hyun | Hong Minpyo | B+R | 2015-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3pQvWqwtIw9G9dId%2FEzv1w%3D%3D) | 
-| 2015年韓国囲碁リーグ | Na Hyun | Lee Wonyoung | B+R | 2015-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QzaGPYXg%2BquMjSQMEAQ%2BVg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Mok Jinseok | Na Hyun | B+R | 2015-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r8QFpvjldkVX89789eowVg%3D%3D) | 
-| 第20回LG杯朝鮮日報棋王戦1回戦 | Na Hyun | Gu Li | W+R | 2015-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GenSDD%2B2fgo%2FX8A6tEf46w%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Junghyun | Na Hyun | W+R | 2015-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9WcB6EeX8iU7JVwKXkcz2A%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第6節 | Yang Kaiwen | Na Hyun | B+R | 2015-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FuJW%2BMigi7x3IVenP3X%2FbQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第5節 | Na Hyun | Wang Xi | B+R | 2015-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x7jPuT1djdrvHFQF%2BJ6TGg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Jiseok | Na Hyun | W+R | 2015-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RUegv4%2BstQQqcSjDOAH2DQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第4節 | Zhou Hexi | Na Hyun | B+R | 2015-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9cH4C1kDj%2FFcUZ0226rFEw%3D%3D) | 
-| 第2回グロービス杯世界囲碁U-20決勝 | Na Hyun | Huang Yunsong | W+R | 2015-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xuQL3SieYq6BolvjZ20GRA%3D%3D) | 
-| 第2回グロービス杯世界囲碁U-20準決勝 | Na Hyun | Li Qincheng | B+R | 2015-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z149BY%2Bl%2FMPORCdCyT449w%3D%3D) | 
-| 第2回グロービス杯世界囲碁U-20準々決勝 | Yang Dingxin | Na Hyun | W+R | 2015-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0rIfys654T4yuJK9o22K1Q%3D%3D) | 
-| 第2回グロービス杯世界囲碁U-20グループリーグD | Koyama Kuya | Na Hyun | W+R | 2015-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k9ABdNa%2FrOYk7AkrInv%2F4w%3D%3D) | 
-| 第2回グロービス杯世界囲碁U-20グループリーグD | Sada Atsushi | Na Hyun | W+R | 2015-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=khOSweJ3UkgKfN2gOog%2B7Q%3D%3D) | 
-| 2015年韓国囲碁リーグ | Ahn Kukhyun | Na Hyun | W+R | 2015-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kj1EdvUg8MUXIubQkSl9kA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Shin Jinseo | Na Hyun | W+0.5 | 2015-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GbWGrPWPko7%2BS2OGjstt9A%3D%3D) | 
-| 第20回LG杯予選 | Gu Zihao | Na Hyun | W+R | 2015-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rfx%2B9lEDq%2BHpr06TqzkIsw%3D%3D) | 
-| 第20回LG杯予選 | Lian Xiao | Na Hyun | W+R | 2015-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vtm99bqqRifpa%2BGdghTxhg%3D%3D) | 
-| 第34回KBS杯囲碁王戦1回戦 | Park Minkyu | Na Hyun | B+R | 2015-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6L%2FtR2OJ%2Bb8A7kTxu8bOEQ%3D%3D) | 
-| 第59期国手戦（韓国）予選 | Lee Changho | Na Hyun | B+R | 2015-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dXF2n0w6NO8q%2FykE%2FQS3CA%3D%3D) | 
-| 第19期バッカス杯天元戦決勝三番勝負第2局 | Na Hyun | Shin Minjun | B+R | 2015-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6MCl5PCMnp9fT237lNA5Aw%3D%3D) | 
-| 第19期バッカス杯天元戦決勝三番勝負第1局 | Shin Minjun | Na Hyun | W+R | 2015-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xSJQBhK78vtx878KC%2BmzuQ%3D%3D) | 
-| 第19期バッカス杯天元戦準決勝 | Na Hyun | Kang Seungmin | B+R | 2015-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fHiQZdmzlImBUMbVmGzYpQ%3D%3D) | 
-| 2014年利民杯世界囲碁星鋭最強戦2回戦 | Tong Mengcheng | Na Hyun | B+R | 2014-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CT5Gn98MQ38dWhgYjDV5WQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kang Yootaek | Na Hyun | B+R | 2014-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QjWFcGjLxba2zYbZIpE73Q%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kang Yootaek | Na Hyun | B+R | 2014-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p12LImYtE90fpDhp%2BPBGWA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Junghwan | Na Hyun | B+R | 2014-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UtmjItsyK%2B5fPQiOYI098g%3D%3D) | 
-| 2014年韓国囲碁リーグ | Na Hyun | Park Seunghwa | B+R | 2014-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zYqiRnzgkApDUsznEPOzxw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Na Hyun | Shin Jinseo | B+0.5 | 2014-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LRLB4Z7LLy%2FrjQEXKP%2BZTQ%3D%3D) | 
-| 第19期バッカス杯天元戦2回戦 | Na Hyun | missing | B+R | 2014-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o%2FeNgbirlGUyn6GSx7lOzg%3D%3D) | 
-| 2014年韓国囲碁リーグ | Lee Taehyun | Na Hyun | B+R | 2014-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OZL85tCyqTkQjfoMmy6Cpg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第20節 | Na Hyun | Zhou Hexi | B+R | 2014-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OccENbHWwhp%2FeOyn7bWVHg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第19節 | Na Hyun | Zhou Ruiyang | W+R | 2014-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yluwpM6%2Bno7isXmlLAAJjg%3D%3D) | 
-| 2014年韓国囲碁リーグ | Min Sangyoun | Na Hyun | W+R | 2014-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3STdjPZRVLzfPgW%2BrHQBLg%3D%3D) | 
-| 第1回おかげ杯国際精鋭囲碁対抗戦団体戦一位決定戦 | Ke Jie | Na Hyun | W+R | 2014-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BAIAL8tnnxGvsKNBvZA%2BYA%3D%3D) | 
-| 第1回おかげ杯国際精鋭囲碁対抗戦第1戦 | Na Hyun | Ke Jie | W+R | 2014-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=umsOrq1kCOLrEtBf6iOrzw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Na Hyun | Kim Seongjae | W+0.5 | 2014-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QCcr4fPP0vJmF9hPPH7kcw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Lee Hobum | Na Hyun | W+R | 2014-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gFKfOdq%2F9PGhEVik9HGT4w%3D%3D) | 
-| 2014年国際新鋭囲碁対抗戦第3戦 | Na Hyun | Ida Atsushi | B+R | 2014-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JBfpydOUJ2l3ZN2H00r0og%3D%3D) | 
-| 2014年国際新鋭囲碁対抗戦第2戦 | Ke Jie | Na Hyun | W+0.5 | 2014-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ToK8huVx8SoMEYyl0qmMeg%3D%3D) | 
-| 2014年国際新鋭囲碁対抗戦第1戦 | Na Hyun | Xiao Zhenghao | B+R | 2014-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C3y%2B8wDdb2Z87%2Fuh5IHX3A%3D%3D) | 
-| 第10期物価情報杯プロ棋戦決勝三番勝負第2局 | Na Hyun | missing | B+R | 2014-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F14QukDV6EJSx9NxmRoFcw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Mok Jinseok | Na Hyun | W+R | 2014-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JrMRA0gaYMcYIBJ%2FAjXpBg%3D%3D) | 
-| 第10期物価情報杯プロ棋戦決勝三番勝負第1局 | missing | Na Hyun | W+0.5 | 2014-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TFr0IArymhgMHzRRoaP65Q%3D%3D) | 
-| 第10期物価情報杯プロ棋戦決勝トーナメント準決勝 | Na Hyun | Lee Changho | B+R | 2014-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sWKsd1%2BDOuC7gCO9BL0fiQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第14節 | Wang Haoyang | Na Hyun | W+R | 2014-09-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1MDSzKnv6uEUzlNLmByjNA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kang Dongyun | Na Hyun | B+R | 2014-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hyeiy3FooYhIPtyiFV4BXg%3D%3D) | 
-| 第19期バッカス杯天元戦1回戦 | Na Hyun | Park Junghwan | B+R | 2014-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vhdA%2FTaaJadLSX7ytBCRPQ%3D%3D) | 
-| 第10期物価情報杯プロ棋戦決勝トーナメント1回戦 | Na Hyun | An Sungjoon | B+0.5 | 2014-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dU0MTQ62PsxcXXnJmeH3aA%3D%3D) | 
-| 2014年韓国囲碁リーグ | missing | Na Hyun | B+R | 2014-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C7ySm0nhl4Gp%2BfrB3a3rtQ%3D%3D) | 
-| 第16回農心杯韓国選抜戦 | An Sungjoon | Na Hyun | B+R | 2014-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZZawp9f7OVHCLDtPHwJdJg%3D%3D) | 
-| 第42期名人戦（韓国）1回戦 | Na Hyun | Kim Jiseok | W+R | 2014-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pxVg6afiIibusmPeOVxpTg%3D%3D) | 
-| 第19回三星火災杯統合予選決勝 | Na Hyun | missing | W+R | 2014-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IC%2FF%2Brff%2FB8%2BrxssdA4Ajw%3D%3D) | 
-| 第19回三星火災杯統合予選3回戦 | Na Hyun | Mi Yuting | B+R | 2014-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AlQXJvBGV2ZXHqIDaD96fg%3D%3D) | 
-| 第19回三星火災杯統合予選2回戦 | Na Hyun | Zhu Yuanhao | B+2.5 | 2014-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OS3A6CeRJmrKeNkfl%2BeXpA%3D%3D) | 
-| 第10期物価情報杯プロ棋戦リーグA | Na Hyun | Lee Sedol | B+R | 2014-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NeBJWCq6b9k0EvzHyNuYeQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Jinsol | Na Hyun | W+R | 2014-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xbwMQWIS9GubZu3di59MiA%3D%3D) | 
-| 第10期物価情報杯プロ棋戦リーグA | Shin Minjun | Na Hyun | W+R | 2014-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IhaMTGGVzUHhHLkjU32vhQ%3D%3D) | 
-| 第58期国手戦（韓国）1回戦 | Park Yeonghun | Na Hyun | B+R | 2014-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sSqHuTz9wD2cqj3OIdhvSw%3D%3D) | 
-| 第16回農心杯韓国選抜戦 | Na Hyun | missing | B+1.5 | 2014-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jFWtt7UKT7s761AQrDbk8w%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Yeonghun | Na Hyun | B+R | 2014-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=udXiYImDhR3%2Fgq39iwkniw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第9節 | Qin Yuexin | Na Hyun | W+0.5 | 2014-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=683ch6g3uS76nE8l2X%2BSig%3D%3D) | 
-| 2014年韓国囲碁リーグ | Na Hyun | Park Junghwan | W+R | 2014-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ng5mmKxBiQCsFfMvPH9uZQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Lee Changho | Na Hyun | B+R | 2014-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Be2zoPm1CL6AjtApvcPNNg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第6節 | Na Hyun | Tan Xiao | W+R | 2014-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7zPyo6g4UBYRUYykexGmvw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第5節 | Na Hyun | Gu Li | B+R | 2014-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6c8Zqs2hkZg3GvRfqBZH%2FA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kim Juho | Na Hyun | W+3.5 | 2014-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0jquHGEQBXLHJ6EJGzVbdw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Seunghwa | Na Hyun | B+R | 2014-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iypWql%2FJZQzZ8S2vv8hvqQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第4節 | Niu Yutian | Na Hyun | W+R | 2014-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cb7Zh7AYE0roYCVHa%2FJI2w%3D%3D) | 
-| 第10期物価情報杯プロ棋戦リーグA | Na Hyun | Lee Sedol | W+R | 2014-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nLsI8iz%2BT4Uv4JLEETflrA%3D%3D) | 
-| 第1回グロービス杯世界囲碁U-20準々決勝 | Na Hyun | Ichiriki Ryo | W+R | 2014-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xr0mH%2BWOH8bP5wAeqp7PZQ%3D%3D) | 
-| 第1回グロービス杯世界囲碁U-20グループリーグA | Ida Atsushi | Na Hyun | W+R | 2014-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D%2F2j7XkVpcGU3hLiTkVjJQ%3D%3D) | 
-| 第1回グロービス杯世界囲碁U-20グループリーグA | Ida Atsushi | Na Hyun | W+1.5 | 2014-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QBVSNADLuSmZxOSfXeuT7w%3D%3D) | 
-| 第1回グロービス杯世界囲碁U-20グループリーグA | Xia Chenkun | Na Hyun | B+R | 2014-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FT%2B4NvfnZTOJ%2BZX0v%2FD8Dg%3D%3D) | 
-| 2014年韓国囲碁リーグ | Na Hyun | Kim Sedong | W+T | 2014-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z%2BqoqJrGm4%2FwK2pTpPAWIg%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kim Sonjin | Na Hyun | B+R | 2014-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ExTTzRRREZcH3XaeYofgcQ%3D%3D) | 
-| 第4期招商地産杯中韓囲棋団体対抗戦第2戦 | Na Hyun | Fan Tingyu | B+R | 2014-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cHjvHAT%2BdeEWFj7wkq0HOw%3D%3D) | 
-| 第4期招商地産杯中韓囲棋団体対抗戦第1戦 | Chen Yaoye | Na Hyun | W+R | 2014-03-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G3n9FLCzzVduGpFrz2g8Zw%3D%3D) | 
-| 第2回百霊杯世界オープン戦予選 | Na Hyun | Zhou Heyang | W+R | 2014-03-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uYiWRBimljgL1%2FT3%2B6YnWg%3D%3D) | 
-| 第4期招商地産杯韓国選抜戦 | Kang Yootaek | Na Hyun | W+R | 2014-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FOnNswsX%2FZksbz4RhoNSyw%3D%3D) | 
-| 第10回春蘭杯韓国予選 | Kang Dongyun | Na Hyun | B+R | 2014-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zjTvbLJaovdFJ8u7l4UtxA%3D%3D) | 
-| 第33回KBS杯囲碁王戦本戦1回戦 | Na Hyun | Yun Chanhee | W+R | 2014-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q4XRdsMkvM%2FlxVbvlSR7Ng%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第22節 | Li Kang | Na Hyun | W+R | 2013-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kvQACPCk4Yj2EEWPomWYGQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第21節 | Ke Jie | Na Hyun | B+R | 2013-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TBFnrnxjsKAD4aOyj3GYBg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第20節 | Na Hyun | Yang Dingxin | W+0.5 | 2013-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aZf77Nq6ptaXUjESov8nuw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Na Hyun | Kang Yootaek | B+R | 2013-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1vSvf66MLy7fMAyRmKTrrQ%3D%3D) | 
-| 2013年韓国囲碁リーグ | Na Hyun | Choi Cheolhan | W+R | 2013-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sy5MReEovdh2FmRBSdOsWQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第18節 | Wang Lei (s) | Na Hyun | W+R | 2013-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Eiy4FRM3%2FFnk9DoYuOkbw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Na Hyun | Lee Huiseong | B+R | 2013-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qqG6iWzjgF%2BhYc5Z%2BXkSuA%3D%3D) | 
-| 2013年国際新鋭囲碁対抗戦第3戦 | Uchida Shuhei | Na Hyun | W+R | 2013-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JUN54WChOWUHV%2FqyQ%2Fwdww%3D%3D) | 
-| 2013年国際新鋭囲碁対抗戦第1戦 | Lian Xiao | Na Hyun | W+R | 2013-10-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HE%2F1jK1QnCEzhArQYxbF6Q%3D%3D) | 
-| 2013年韓国囲碁リーグ | Hong Seongji | Na Hyun | B+R | 2013-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OXKKcD73qxNN9ezX%2F9CCmA%3D%3D) | 
-| 2013年韓国囲碁リーグ | Na Hyun | Park Yeonghun | B+R | 2013-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iATIAKcSJ%2Fa0A%2BxpLIDMAw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Ahn Kukhyun | Na Hyun | W+R | 2013-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bFb%2BS202Iu%2BT300PH9dJnQ%3D%3D) | 
-| 第4期Olleh杯オープン選手権3回戦 | Ahn Kukhyun | Na Hyun | B+R | 2013-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j4%2B%2F0RoDsZm66vWahynqUw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Na Hyun | Lee Donghoon | B+R | 2013-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IIUOmx5Qmvrxj962%2FhXStA%3D%3D) | 
-| 第18回三星火災杯統合予選2回戦 | Na Hyun | Shi Yue | W+R | 2013-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0ATgjh1RInej5dJvhGeIkw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Kim Junghyun | Na Hyun | W+R | 2013-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1yTVoV%2FFDcHJ2qrw0e5Wyg%3D%3D) | 
-| 第15回農心杯韓国選抜戦 | Han Seungjoo | Na Hyun | W+R | 2013-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KBR%2BalipDgPuoHJ0jf0nMA%3D%3D) | 
-| 第1回夢百合杯世界オープン戦2回戦 | Na Hyun | Gu Li | W+R | 2013-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1PK7Ofj5N30v%2BsIUfpV6Ww%3D%3D) | 
-| 第1回夢百合杯世界オープン戦1回戦 | Shi Yue | Na Hyun | W+2.5 | 2013-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=71fbWCHdBrS%2FL7JpTwYbNw%3D%3D) | 
-| 第9期物価情報杯プロ棋戦リーグA | An Sungjoon | Na Hyun | B+R | 2013-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BjagUVEI3mfhhgipjiKFNA%3D%3D) | 
-| 2013年韓国囲碁リーグ | Lee Huiseong | Na Hyun | W+R | 2013-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=735U2KsxCEjXrwvjDQlOTg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第8節 | Na Hyun | Wang Haoyang | W+R | 2013-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dvd%2Bbf%2FfC18jLzpm5EXL4A%3D%3D) | 
-| 2013年韓国囲碁リーグ | Park Junghwan | Na Hyun | B+R | 2013-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ozYLS4TSgdZe%2FQBVrdmJXA%3D%3D) | 
-| 第9期物価情報杯プロ棋戦リーグA | Kang Yootaek | Na Hyun | W+R | 2013-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I7QDV7Mip%2BkRyxx%2FtKjIvg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第7節 | missing | Na Hyun | B+R | 2013-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=19ca7S%2BxuMt2s7hSCHA0fw%3D%3D) | 
-| 第18期バッカス杯天元戦予選 | missing | Na Hyun | B+R | 2013-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ReC9I1pjbKA51VNzbJhu5A%3D%3D) | 
-| 第1回夢百合杯世界オープン戦予選 | Li Kang | Na Hyun | W+R | 2013-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S6U6g9AC4U8WfxS4K4o6QA%3D%3D) | 
-| 2013年韓国囲碁リーグ | Na Hyun | Lee Changho | B+1.5 | 2013-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h8ou8%2FCJsJWMhjnvXK07Zw%3D%3D) | 
-| 第9期物価情報杯プロ棋戦リーグA | Na Hyun | An Sungjoon | W+R | 2013-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VakbAuDRlRV6NwgvKzcISg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第5節 | Shi Yue | Na Hyun | B+R | 2013-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SBManafUMIkCvoaVYZ9wjw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第4節 | Zhong Wenjing | Na Hyun | W+0.5 | 2013-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wDRmqn%2BVKp7W0L8GB0K5iA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第3節 | Fan Tingyu | Na Hyun | W+R | 2013-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bnAQYvCKRTHRk1CFqI1sHg%3D%3D) | 
-| 2013年韓国囲碁リーグ | Ahn Kukhyun | Na Hyun | B+R | 2013-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AbKG93OAwvesCQml5YoP6w%3D%3D) | 
-| 第18回LG杯予選 | Chen Xian | Na Hyun | W+R | 2013-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fh%2Bxy1dUPJDGUNBDpr81Aw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Na Hyun | Cho Insun | W+R | 2013-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1jr3%2Byvgbq1%2BVdjrK4Xc5g%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第2節 | Ding Wei | Na Hyun | W+R | 2013-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B0jF8bJaU2KCSKA9098oZw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第1節 | Chang Hao | Na Hyun | B+R | 2013-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fZRefdy%2B4rjzARCYl75C3g%3D%3D) | 
-| 第32回KBS杯囲碁王戦本戦1回戦 | Na Hyun | Weon Seongjin | W+R | 2013-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QCuDfkH62AlsS7wywQa3OA%3D%3D) | 
-| 第3期招商地産杯韓国選抜戦 | Na Hyun | Kim Jiseok | W+R | 2013-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uKkhV9DB80qk7quOqcKOrQ%3D%3D) | 
-| 第31回KBS杯囲碁王戦敗者復活戦準決勝 | Na Hyun | Lee Sedol | W+R | 2013-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gfTm8uy%2BNg85cvFdgAh5LQ%3D%3D) | 
-| 第31回KBS杯囲碁王戦敗者復活戦4回戦 | Na Hyun | Weon Seongjin | B+R | 2013-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BG1KTgs6sO5O3LJLfjkBFw%3D%3D) | 
-| 第18期GSカルテックス杯プロ棋戦1回戦 | Na Hyun | Kim Junghyun | W+R | 2013-01-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=quO49fHXBTcHZDurd%2FXbFw%3D%3D) | 
-| 第31回KBS杯囲碁王戦敗者復活戦3回戦 | Kim Daehee | Na Hyun | W+R | 2012-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1TnwFLlmf7uPBuIFOCoIeA%3D%3D) | 
-| 第31回KBS杯囲碁王戦敗者復活戦2回戦 | Kim Jiseok | Na Hyun | W+R | 2012-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AdcACO3wgqHEwZHwQ6e7IQ%3D%3D) | 
-| 第17回LG杯世界棋王戦3回戦 | Shi Yue | Na Hyun | B+R | 2012-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kukvk029bINyRHRIpu31Tw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Junghwan | Na Hyun | W+R | 2012-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bxivDKhtb2cwyaxFqMLlfA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Choi Cheolhan | Na Hyun | B+1.5 | 2012-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gWAr95ZMBR%2FZgWq0X172yQ%3D%3D) | 
-| 2012ジャステック杯国際新鋭囲碁対抗戦第3戦 | missing | Na Hyun | W+R | 2012-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s94B35LaeWG%2BmWIvQB1Gnw%3D%3D) | 
-| 2012ジャステック杯国際新鋭囲碁対抗戦第2戦 | Ida Atsushi | Na Hyun | W+R | 2012-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0KYrwfZ4njHEv6GbAqu5xQ%3D%3D) | 
-| 2012ジャステック杯国際新鋭囲碁対抗戦第1戦 | Na Hyun | Xia Daming | B+R | 2012-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pDZe9RgH%2FJmzFANiEO99Xg%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ1回戦B2 | Na Hyun | Peng Liyao | W+R | 2012-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yiTd%2BUAoU1vYQ7A4zXJ8AA%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ1回戦B1 | Na Hyun | Fan Tingyu | W+R | 2012-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W2S7HaOnrnLDDECl2iAntg%3D%3D) | 
-| 第40期名人戦（韓国）1回戦 | Kim Jiseok | Na Hyun | B+R | 2012-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dW21Bv7nOwlwxerZNszwzg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Na Hyun | Kim Seongjae | W+R | 2012-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nqbe3zF565F382hQkMyhjw%3D%3D) | 
-| 第31回KBS杯囲碁王戦敗者復活戦1回戦 | Na Hyun | Choi Cheolhan | B+R | 2012-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pk87NwbrD3x7JbvjTS8UGw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Na Hyun | Yun Junsang | B+R | 2012-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vW1sdml1PDXpXCE2GH9Rug%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Seunghwa | Na Hyun | W+R | 2012-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dMFAx1iNzbWwRkKsvg0Lqg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Ryu Suhang | Na Hyun | B+R | 2012-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t1cqxLpF%2F85HH1%2BnHisQUg%3D%3D) | 
-| 第40期名人戦（韓国）予選 | Han Sanghoon | Na Hyun | W+R | 2012-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mKKgPEw1dSV2tsqxn2BBTw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Hobum | Na Hyun | B+R | 2012-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iZY90ULrE4%2FuzQvgdR2ZzQ%3D%3D) | 
-| 第14回農心杯韓国選抜戦 | Na Hyun | Lee Donghoon | W+R | 2012-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r2Fx6NzERmVl6Puc5jHzEg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Yeonghun | Na Hyun | W+0.5 | 2012-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CShsQZ3RlZ18HnkEGrnTHQ%3D%3D) | 
-| 第14回農心杯韓国選抜戦 | Park Junsuck | Na Hyun | W+R | 2012-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GyYPHcs%2FRNiPqH9dShp9kw%3D%3D) | 
-| 第31回KBS杯囲碁王戦本戦2回戦 | Na Hyun | Weon Seongjin | W+R | 2012-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v7fAn7kwrcTncnUYYtYv%2BQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Na Hyun | Lee Wonyoung | W+R | 2012-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v1EusLevJNTaRVXgPCE9cg%3D%3D) | 
-| 第56期国手戦（韓国）1回戦 | Na Hyun | Min Sangyoun | W+R | 2012-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2x5Rlb4VMGhmXNBFZ0P%2Bkg%3D%3D) | 
-| 2012年韓国囲碁リーグ | missing | Na Hyun | W+R | 2012-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A3c5BRD3i8Le03jFl2lupQ%3D%3D) | 
-| 第17回LG杯世界棋王戦2回戦 | Jiang Weijie | Na Hyun | W+R | 2012-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6nJwojkSHT3DQp9Up4s9wg%3D%3D) | 
-| 第17回LG杯世界棋王戦1回戦 | Na Hyun | Dang Yifei | B+R | 2012-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tcRPBQ8kKZXO68L37JQUzA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Na Hyun | Min Sangyoun | B+1.5 | 2012-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QkfbCDROSGFVvwpiZrthFw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Yun Junsang | Na Hyun | W+2.5 | 2012-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jt9Crpyz2cif15RhHmCuLg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Na Hyun | Park Seunghwa | W+R | 2012-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xihd7vioYWY0eeWuDt30ng%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Jihyun | Na Hyun | B+R | 2012-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7acMuyNlgTLbXWVVoe%2Fgkg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Na Hyun | Lee Hobum | W+0.5 | 2012-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3t29zetZcGYzyTkYRFmT2g%3D%3D) | 
-| 第17回LG杯予選 | Fan Tingyu | Na Hyun | W+R | 2012-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pFnHgjo8yC607Nd20wgp1A%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Yeonghun | Na Hyun | W+1.5 | 2012-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZBQV2M0KFqBjuJlqgbdJsg%3D%3D) | 
-| 第31回KBS杯囲碁王戦本戦1回戦 | Na Hyun | Park Minkyu | B+R | 2012-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nNqnVs20kekP32vyqF5AtA%3D%3D) | 
-| 第4回BCカード杯世界選手権2回戦 | Jiang Weijie | Na Hyun | B+1.5 | 2012-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CG0wwX4FByMZXmC2bQigyw%3D%3D) | 
-| 第4回BCカード杯世界選手権1回戦 | Li Qincheng | Na Hyun | W+F | 2012-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k3Ihv3RoG43l%2FmOHaLADTQ%3D%3D) | 
-| 第4回BCカード杯世界選手権統合予選 | Ohashi Hirofumi | Na Hyun | W+R | 2012-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZG8uRu3nO4u5j2gCzIPanw%3D%3D) | 
-| 第7期圓益杯十段戦4回戦 | Na Hyun | Kang Yootaek | W+R | 2012-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dsP2J3k0bv5%2F%2FH%2Fj55J42w%3D%3D) | 
-| 第7期圓益杯十段戦3回戦 | Na Hyun | Kim Sedong | B+R | 2012-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PTr6Y4AlXdXQJlvZ21GJkw%3D%3D) | 
-| 第7期圓益杯十段戦2回戦 | Na Hyun | Yang Wooseok | B+2.5 | 2012-01-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JAXNwccEnSSY%2Bc8UM2y9hw%3D%3D) | 
-| 2011年韓国囲碁リーグ | Na Hyun | Ahn Kukhyun | W+R | 2011-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UPi4oHMAOSCgQjWc9mea0g%3D%3D) | 
-| 2011年韓国囲碁リーグ | Na Hyun | Kim Kiwon | B+0.5 | 2011-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2wlXz7wbBopgyUVKyeIomQ%3D%3D) | 
-| 第7期圓益杯十段戦1回戦 | Na Hyun | Yun Junsang | B+R | 2011-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0qkw%2BUKhXVYY0BPCokaElg%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Na Hyun | Gu Li | W+R | 2011-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TiZAnen7VfSuZylz7r20Ug%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Gu Li | Na Hyun | B+R | 2011-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vT3W9fxg%2FdarhG48OqNEZQ%3D%3D) | 
-| 2011年韓国囲碁リーグ | Na Hyun | Heo Yongho | W+R | 2011-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EwP1NfZ4NMt1VAWGjwGV5g%3D%3D) | 
-| 第39期名人戦（韓国）2回戦 | Na Hyun | Paek Hongseok | W+R | 2011-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H3zH%2FJ9vUcuJQCA33H%2Bs4Q%3D%3D) | 
-| 2011年韓国囲碁リーグ | On Sojin | Na Hyun | W+R | 2011-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F6gowIkNuxoRYxvwypzB6g%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ2回戦 | Kong Jie | Na Hyun | W+1.5 | 2011-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4SzQJZOdSeiXc8dPxY5QAQ%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ1回戦 | Peng Liyao | Na Hyun | W+R | 2011-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iucHchgWTGc58RUnncg8Fg%3D%3D) | 
-| 2011年韓国囲碁リーグ | Na Hyun | missing | B+R | 2011-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ShNjw5f56pZYpGFlYM2O3w%3D%3D) | 
-| 2011年韓国囲碁リーグ | missing | Na Hyun | W+0.5 | 2011-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p7pDy1obpU8%2FQXkAKMGbUw%3D%3D) | 
-| 第39期名人戦（韓国）1回戦 | missing | Na Hyun | W+R | 2011-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PT8X8ep6BhwBoiJyfpVO8Q%3D%3D) | 
-| 2011年韓国囲碁リーグ | Na Hyun | Cho Hanseung | B+1.5 | 2011-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xLNqM2dtH6uhY2fWdUVMlw%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ1回戦D3 | Na Hyun | Sakai Hideyuki | B+0.5 | 2011-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z9FNgJxF2cT9j%2FbcAv%2FV7w%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ1回戦D2 | Kim Dongho | Na Hyun | W+R | 2011-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eNq8VHl6H7yNm15HAT%2FDdg%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ1回戦D1 | Na Hyun | Park Yeonghun | W+R | 2011-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QJ0Vnp7Hi1IL3mcL5X6mnA%3D%3D) | 
-| 2011年韓国囲碁リーグ | An Joyeong | Na Hyun | W+2.5 | 2011-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pHRPMf74Rav6ZRNFUZfA5g%3D%3D) | 
-| 第16回三星火災杯統合予選決勝 | Murakawa Daisuke | Na Hyun | W+R | 2011-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b6WDwVNG6AhwFDztz5rIoQ%3D%3D) | 
-| 第16回三星火災杯統合予選2回戦 | Na Hyun | Zhong Wenjing | B+R | 2011-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UU6lMiLZjGTn33wG4budZg%3D%3D) | 
-| 第39期名人戦（韓国）予選 | Hong Seongji | Na Hyun | W+1.5 | 2011-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l7K6tWc1KEhmIHmPHigVdw%3D%3D) | 
-| 2011年韓国囲碁リーグ | Jin Donggyu | Na Hyun | W+3.5 | 2011-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7CS2RqOfepEtw6bNxNDfhg%3D%3D) | 
-| 2011年韓国囲碁リーグ | Na Hyun | Mok Jinseok | W+R | 2011-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QL9fhPYgdUJGVbS6aCzSuw%3D%3D) | 
-| 第13回農心杯韓国選抜戦 | Na Hyun | Jin Donggyu | B+2.5 | 2011-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SSA%2BC3cnPRFsoVA1EOaCrg%3D%3D) | 
-| 2011年韓国囲碁リーグ | Na Hyun | Hong Seongji | W+R | 2011-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0gapJ%2B95DueRn7IEx5JSKg%3D%3D) | 
-| 2011年韓国囲碁リーグ | Na Hyun | Kim Dongho | W+R | 2011-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VTcBBBFA7iJSk%2BOvDVM2sg%3D%3D) | 
-| 第16回LG杯予選 | Chen Yaoye | Na Hyun | B+R | 2011-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HETHyYC%2BvWhRM67nbhlbMQ%3D%3D) | 
-| 第16回LG杯予選 | Na Hyun | Mitsunaga Junzo | B+1.5 | 2011-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j%2FtauxULMtrMYSsUNX9MuQ%3D%3D) | 
-| 2010年国際新鋭囲碁対抗戦第3戦 | missing | Na Hyun | B+R | 2010-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tDJWtfsB43l%2FJTcW%2FrrEGg%3D%3D) | 
-| 2010年国際新鋭囲碁対抗戦第2戦 | Suzuki Shinji | Na Hyun | W+R | 2010-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aHtbugXUmoD24shAJSXR1Q%3D%3D) | 
-| 2010年国際新鋭囲碁対抗戦第1戦 | Na Hyun | missing | B+R | 2010-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3tQ36RMeeRNA7MzPSPmgRg%3D%3D) | 
-| 第6期圓益杯十段戦予選 | Na Hyun | Lee Chungyu | W+R | 2010-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DiR1DBhA9D%2BZc7nIcxT3bw%3D%3D) | 
-| 第15回LG杯予選 | Yoo Jaeho | Na Hyun | B+R | 2010-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hLIFIVHZceX9BoJu7%2B8CEA%3D%3D) | 
-| 第2回BCカード杯世界選手権1回戦 | Na Hyun | Iyama Yuta | W+R | 2010-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1h1DbpQAZwU5v%2FqZrLTl0w%3D%3D) | 
-| 第2回BCカード杯世界選手権統合予選決勝 | Yu Bin | Na Hyun | W+0.5 | 2010-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v5FT5IIyNzVhoi9%2FczQyFA%3D%3D) | 
-| 第2回BCカード杯世界選手権統合予選 | Na Hyun | Lee Yeongkyu | B+R | 2010-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4%2FoNZmuOjPMs3wd2r3%2FlLg%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-08 | 第3期ソパルコサノル最高棋士決定戦予選 | Choi Jaeyoung | Na Hyun | Lose | B+0.5 | 6.5 | 3323 | -30 | 
+| 2021-05-13 | 第26回GSカルテックス杯プロ棋戦2回戦 | Weon Seongjin | Na Hyun | Lose | B+0.5 | 6.5 | 3353 | -13 | 
+| 2021-05-01 | 第26回LG杯韓国予選 | Na Hyun | Park Joonhoon | Lose | W+R | 6.5 | 3366 | -55 | 
+| 2021-04-01 | 第26回GSカルテックス杯プロ棋戦1回戦 | Seol Hyunjun | Na Hyun | Win | W+R | 6.5 | 3421 | -108 | 
+| 2021-02-20 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Na Hyun | Lose | B+R | 6.5 | 3529 | -92 | 
+| 2021-02-11 | 2020-2021韓国囲碁リーグ | Na Hyun | Yun Junsang | Win | B+R | 6.5 | 3621 | 8 | 
+| 2021-02-09 | 第4期韓国竜星戦1回戦 | Na Hyun | Lee Hyungjin | Lose | W+R | 6.5 | 3613 | -16 | 
+| 2021-02-07 | 2020-2021韓国囲碁リーグ | Byun Sangil | Na Hyun | Lose | B+R | 6.5 | 3629 | 5 | 
+| 2021-02-02 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Na Hyun | Choi Jeong | Lose | W+1.5 | 6.5 | 3624 | -14 | 
+| 2021-01-31 | 2020-2021韓国囲碁リーグ | Kim Jiseok | Na Hyun | Lose | B+0.5 | 6.5 | 3638 | -6 | 
+| 2021-01-25 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Yoo Changhyuk | Na Hyun | Win | W+R | 6.5 | 3644 | 11 | 
+| 2021-01-21 | 2020-2021韓国囲碁リーグ | Paek Hongseok | Na Hyun | Lose | B+R | 6.5 | 3633 | -1 | 
+| 2021-01-14 | 2020-2021韓国囲碁リーグ | Na Hyun | Kang Dongyun | Lose | W+R | 6.5 | 3634 | 6 | 
+| 2021-01-08 | 2020-2021韓国囲碁リーグ | Na Hyun | Park Yeonghun | Win | B+R | 6.5 | 3628 | 6 | 
+| 2021-01-07 | 第4回クラウン・ヘテ杯1回戦 | Lee Changseok | Na Hyun | Lose | B+R | 6.5 | 3622 | -22 | 
+| 2021-01-01 | 2020-2021韓国囲碁リーグ | Na Hyun | Cho Hanseung | Win | B+2.5 | 6.5 | 3644 | 17 | 
+| 2020-12-27 | 2020-2021韓国囲碁リーグ | Na Hyun | Kang Yootaek | Win | B+R | 6.5 | 3627 | 29 | 
+| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Na Hyun | Chen Zijian | Lose | W+R | 7.5 | 3598 | -3 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Chen Zijian | Na Hyun | Lose | B+R | 7.5 | 3601 | 0 | 
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Na Hyun | Ke Jie | Lose | W+R | 7.5 | 3601 | 4 | 
+| 2020-12-17 | 2020-2021韓国囲碁リーグ | Na Hyun | Byun Sangil | Lose | W+R | 6.5 | 3597 | 0 | 
+| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Na Hyun | Tu Xiaoyu | Win | B+R | 7.5 | 3597 | -49 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Wang Shiyi | Na Hyun | Win | W+R | 7.5 | 3646 | 3 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Rong Yi | Na Hyun | Lose | B+R | 7.5 | 3643 | -3 | 
+| 2020-12-10 | 2020-2021韓国囲碁リーグ | Na Hyun | Lee Wonyoung | Lose | W+R | 6.5 | 3646 | -18 | 
+| 2020-12-09 | 第22回中国囲碁甲級リーグ | Mi Yuting | Na Hyun | Win | W+R | 7.5 | 3664 | 4 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Na Hyun | Tuo Jiaxi | Lose | W+R | 7.5 | 3660 | -10 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Fan Tingyu | Na Hyun | Win | W+¼ | 7.5 | 3670 | 9 | 
+| 2020-12-06 | 2020-2021韓国囲碁リーグ | Na Hyun | Lee Donghoon | Lose | W+0.5 | 6.5 | 3661 | 11 | 
+| 2020-11-29 | 2020-2021韓国囲碁リーグ | Kang Dongyun | Na Hyun | Lose | B+R | 6.5 | 3650 | -9 | 
+| 2020-11-21 | 第2回大統領杯全国囲碁大会1回戦 | Kang Jihoon | Na Hyun | Lose | B+R | 6.5 | 3659 | 91 | 
+| 2020-11-02 | 第2回大統領杯全国囲碁大会予選（再対局） | Kang Yootaek | Na Hyun | Win | W+R | 6.5 | 3568 | 0 | 
+| 2020-11-02 | 第2回大統領杯全国囲碁大会予選 | Kang Yootaek | Na Hyun | Lose | Void | 6.5 | 3568 | 80 | 
+| 2020-09-03 | 第25回三星火災杯韓国一般枠予選 | Lee Yeongkyu | Na Hyun | Lose | B+R | 6.5 | 3488 | -20 | 
+| 2020-09-02 | 第25回三星火災杯韓国一般枠予選 | Song Gyusang | Na Hyun | Win | W+R | 6.5 | 3508 | 6 | 
+| 2020-08-31 | 第25回三星火災杯韓国一般枠予選 | Na Hyun | Park Hyunsoo | Win | B+R | 6.5 | 3502 | -12 | 
+| 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Tong Mengcheng | Na Hyun | Win | W+R | 7.5 | 3514 | 20 | 
+| 2020-08-29 | 第25回三星火災杯韓国一般枠予選 |  | Na Hyun | Win | W+R | 6.5 | 3494 | 4 | 
+| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Tang Weixing | Na Hyun | Lose | B+R | 7.5 | 3490 | -13 | 
+| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Gu Lingyi | Na Hyun | Win | W+¼ | 7.5 | 3503 | 12 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Chen Zijian | Na Hyun | Win | W+R | 7.5 | 3491 | 260 | 
+| 2020-04-28 | 第25回LG杯韓国予選決勝 | Na Hyun | Lee Yeongkyu | Lose | W+R | 6.5 | 3231 | -7 | 
+| 2020-04-27 | 第25回LG杯韓国予選 | Na Hyun | Lee Changho | Win | B+R | 6.5 | 3238 | 17 | 
+| 2020-04-22 | 第25回LG杯韓国予選 | Na Hyun |  | Win | B+R | 6.5 | 3221 | 5 | 
+| 2020-04-20 | 第25回LG杯韓国予選 |  | Na Hyun | Win | W+R | 6.5 | 3216 | 0 | 
+| 2020-04-18 | 韓国囲碁リーグオールスター戦第4局 | Park Yeonghun | Na Hyun | Lose | B+R | 6.5 | 3216 | 0 | 
+| 2020-04-13 | 第25回LG杯韓国予選 | Na Hyun |  | Win | B+R | 6.5 | 3216 | 19 | 
+| 2020-04-12 | 韓国囲碁リーグオールスター戦第3局 | Lee Yeongkyu | Na Hyun | Win | W+1.5 | 6.5 | 3197 | 7 | 
+| 2020-04-11 | 韓国囲碁リーグオールスター戦第2局 | Na Hyun | Yun Junsang | Win | B+R | 6.5 | 3190 | 31 | 
+| 2020-03-23 | 第21回マキシムコーヒー杯入神最強戦準決勝 | Na Hyun | Lee Jihyun | Lose | W+R | 6.5 | 3159 | -8 | 
+| 2020-03-09 | 第21回マキシムコーヒー杯入神最強戦3回戦 | Park Jinsol | Na Hyun | Win | W+R | 6.5 | 3167 | -236 | 
+| 2020-02-10 | 第21回マキシムコーヒー杯入神最強戦2回戦 | Na Hyun | Kim Jiseok | Win | B+R | 6.5 | 3403 | 12 | 
+| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第1試合第4局 | Kim Myounghoon | Na Hyun | Lose | B+0.5 | 6.5 | 3391 | -14 | 
+| 2020-01-27 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Na Hyun | Weon Seongjin | Win | B+R | 6.5 | 3405 | -6 | 
+| 2020-01-25 | 2019-2020韓国囲碁リーグ第17節第3試合第3局 | Park Jinsol | Na Hyun | Lose | B+R | 6.5 | 3411 | -4 | 
+| 2020-01-21 | 第9回応氏杯世界選手権韓国選抜戦 | Na Hyun | Lee Donghoon | Lose | W+R | 7.5 | 3415 | -15 | 
+| 2020-01-20 | 第9回応氏杯世界選手権韓国選抜戦 | Na Hyun | Choi Jeong | Win | B+R | 7.5 | 3430 | -4 | 
+| 2020-01-18 | 2019-2020韓国囲碁リーグ第16節第3試合第5局 | Park Yeonghun | Na Hyun | Lose | B+R | 6.5 | 3434 | -5 | 
+| 2020-01-14 | 第13回春蘭杯韓国予選 | Na Hyun | Shin Minjun | Lose | W+R | 7.5 | 3439 | -4 | 
+| 2020-01-12 | 第3回クラウン・ヘテ杯3回戦 | Byun Sangil | Na Hyun | Lose | B+1.5 | 6.5 | 3443 | -7 | 
+| 2020-01-10 | 2019-2020韓国囲碁リーグ第15節第2試合第3局 | Byun Sangil | Na Hyun | Lose | B+R | 6.5 | 3450 | -4 | 
+| 2020-01-09 | 第13回春蘭杯韓国予選 | Hong Seongji | Na Hyun | Win | W+R | 7.5 | 3454 | 15 | 
+| 2020-01-08 | 第13回春蘭杯韓国予選 | An Sungjoon | Na Hyun | Win | W+2.5 | 7.5 | 3439 | -11 | 
+| 2020-01-05 | 2019-2020韓国囲碁リーグ第14節第4試合第4局 | Kang Seungmin | Na Hyun | Win | W+R | 6.5 | 3450 | 3 | 
+| 2020-01-03 | 第3回クラウン・ヘテ杯2回戦 | Seol Hyunjun | Na Hyun | Win | W+R | 6.5 | 3447 | 18 | 
+| 2019-12-27 | 2019-2020韓国囲碁リーグ第13節第2試合第4局 | Heo Yongho | Na Hyun | Lose | B+R | 6.5 | 3429 | 284 | 
+| 2019-12-22 | 2019-2020韓国囲碁リーグ第12節第4試合第2局 | Na Hyun |  | Win | B+R | 6.5 | 3145 | -22 | 
+| 2019-12-15 | 2019-2020韓国囲碁リーグ第11節第4試合第5局 | Park Junghwan | Na Hyun | Lose | B+R | 6.5 | 3167 | -7 | 
+| 2019-12-08 | 第3回クラウン・ヘテ杯1回戦 | Wen Rubin | Na Hyun | Win | W+R | 6.5 | 3174 | 5 | 
+| 2019-12-01 | 2019-2020韓国囲碁リーグ第9節第4試合第3局 | Kim Myounghoon | Na Hyun | Win | W+R | 6.5 | 3169 | -2 | 
+| 2019-11-22 | 2019-2020韓国囲碁リーグ第8節第2試合第5局 | Na Hyun | Park Jinsol | Win | B+R | 6.5 | 3171 | 5 | 
+| 2019-11-15 | 2019-2020韓国囲碁リーグ第7節第2試合第3局 | Na Hyun | Lee Jihyun | Win | B+R | 6.5 | 3166 | -11 | 
+| 2019-11-09 | 2019-2020韓国囲碁リーグ第6節第3試合第3局 | Lee Changseok | Na Hyun | Win | W+R | 6.5 | 3177 | 31 | 
+| 2019-10-31 | 2019-2020韓国囲碁リーグ第5節第1試合第5局 | Kang Seungmin | Na Hyun | Lose | B+R | 6.5 | 3146 | -6 | 
+| 2019-10-26 | 2019-2020韓国囲碁リーグ第4節第3試合第1局 | Na Hyun | An Jungki | Lose | W+R | 6.5 | 3152 | -4 | 
+| 2019-10-17 | 2019-2020韓国囲碁リーグ第3節第1試合第3局 | Na Hyun | Shin Jinseo | Lose | W+R | 6.5 | 3156 | -18 | 
+| 2019-10-03 | 2019-2020韓国囲碁リーグ第2節第1試合第3局 | Park Junghwan | Na Hyun | Lose | B+R | 6.5 | 3174 | 71 | 
+| 2019-08-21 | 第6回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Park Geunho | Na Hyun | Lose | B+2.5 | 6.5 | 3103 | -91 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Oh Jeonga | Na Hyun | Lose | B+R | 6.5 | 3194 | 16 | 
+| 2019-07-09 | 第2期韓国竜星戦8強戦 | Na Hyun | Park Junghwan | Lose | W+R | 6.5 | 3178 | -6 | 
+| 2019-07-04 | 第24回三星火災杯統合予選準決勝 | Na Hyun | Li Xuanhao | Lose | W+R | 6.5 | 3184 | -1 | 
+| 2019-06-26 | 第2期韓国竜星戦16強戦 | Na Hyun | Choi Jeong | Win | B+R | 6.5 | 3185 | -4 | 
+| 2019-06-23 | 2019年中国囲碁乙級リーグ | Onishi Ryuhei | Na Hyun | Win | W+R | 7.5 | 3189 | 18 | 
+| 2019-06-21 | 2019年中国囲碁乙級リーグ | Weon Seongjin | Na Hyun | Lose | B+R | 7.5 | 3171 | -15 | 
+| 2019-06-19 | 2019年中国囲碁乙級リーグ | Na Hyun |  | Win | B+R | 7.5 | 3186 | 6 | 
+| 2019-06-18 | 2019年中国囲碁乙級リーグ | Na Hyun |  | Win | B+R | 7.5 | 3180 | 5 | 
+| 2019-06-16 | 2019年中国囲碁乙級リーグ | Na Hyun | Tong Yulin | Win | B+R | 7.5 | 3175 | 15 | 
+| 2019-06-15 | 2019年中国囲碁乙級リーグ | Yun Junsang | Na Hyun | Win | W+R | 7.5 | 3160 | 1 | 
+| 2019-06-14 | 2019年中国囲碁乙級リーグ | Wang Yanhao | Na Hyun | Win | W+R | 7.5 | 3159 | 6 | 
+| 2019-06-07 | 第6回国手山脈杯韓国選抜戦決勝 | Lee Donghoon | Na Hyun | Lose | B+R | 6.5 | 3153 | 4 | 
+| 2019-06-05 | 第6回国手山脈杯韓国選抜戦2回戦 | Lee Yeongkyu | Na Hyun | Win | W+R | 6.5 | 3149 | 68 | 
+| 2019-05-27 | 第24回LG杯朝鮮日報棋王戦1回戦 | Ke Jie | Na Hyun | Lose | B+R | 6.5 | 3081 | -17 | 
+| 2019-05-14 | 第38回KBS杯囲碁王戦2回戦 | Lee Donghoon | Na Hyun | Lose | B+R | 6.5 | 3098 | -35 | 
+| 2019-05-09 | 2019年囲碁テレビ杯早碁戦32強戦 | Na Hyun | Park Joonhoon | Lose | W+R | 6.5 | 3133 | -66 | 
+| 2019-04-04 | 第24回LG杯統合予選3回戦 | Na Hyun | Xia Chenkun | Win | B+1.5 | 6.5 | 3199 | 10 | 
+| 2019-04-02 | 第24回LG杯統合予選2回戦 | Na Hyun | Huang Yunsong | Win | B+R | 6.5 | 3189 | 27 | 
+| 2019-03-13 | 第2期韓国竜星戦32強戦-3 | Na Hyun | Kim Sedong | Win | B+R | 6.5 | 3162 | 5 | 
+| 2019-03-12 | 第2期韓国竜星戦32強戦-2 | Lee Jihyun | Na Hyun | Lose | B+R | 6.5 | 3157 | -12 | 
+| 2019-03-11 | 第2期韓国竜星戦32強戦-1 | Mok Jinseok | Na Hyun | Win | W+R | 6.5 | 3169 | 13 | 
+| 2019-02-25 | 第20回マキシムコーヒー杯入神最強戦2回戦 | Shin Jinseo | Na Hyun | Lose | B+R | 6.5 | 3156 | -30 | 
+| 2019-02-17 | 2019年韓中囲碁リーグチャンピオンズカップ第2戦 | Na Hyun | Tong Mengcheng | Win | B+R | 6.5 | 3186 | 15 | 
+| 2019-02-16 | 2019年韓中囲碁リーグチャンピオンズカップ第1戦 | Na Hyun | Tong Mengcheng | Win | B+R | 6.5 | 3171 | 5 | 
+| 2019-02-10 | 第2回クラウン・ヘテ杯決勝三番勝負第2局 | Na Hyun | Park Hamin | Lose | W+0.5 | 6.5 | 3166 | -9 | 
+| 2019-02-09 | 第2回クラウン・ヘテ杯決勝三番勝負第1局 | Park Hamin | Na Hyun | Lose | B+R | 6.5 | 3175 | -14 | 
+| 2019-02-02 | 第2回クラウン・ヘテ杯準決勝 | Na Hyun | Shin Jinseo | Win | B+R | 6.5 | 3189 | 11 | 
+| 2019-01-22 | 第20回マキシムコーヒー杯入神最強戦1回戦 | Yun Junsang | Na Hyun | Win | W+R | 6.5 | 3178 | 4 | 
+| 2019-01-19 | 第2回クラウン・ヘテ杯3回戦 | Byun Sangil | Na Hyun | Win | W+R | 6.5 | 3174 | 14 | 
+| 2019-01-05 | 第2回クラウン・ヘテ杯2回戦 | Na Hyun | Kim Cheayoung | Win | B+R | 6.5 | 3160 | -8 | 
+| 2018-12-22 | 第2回クラウン・ヘテ杯1回戦 | Han Seungjoo | Na Hyun | Win | W+0.5 | 6.5 | 3168 | -32 | 
+| 2018-11-17 | 2018年韓国囲碁リーグ優勝決定戦第2戦 | Lee Changho | Na Hyun | Win | W+R | 6.5 | 3200 | 0 | 
+| 2018-11-16 | 2018年韓国囲碁リーグ優勝決定戦第1戦 | Na Hyun | Park Jinsol | Win | B+0.5 | 6.5 | 3200 | 19 | 
+| 2018-11-09 | 第20回中国囲碁甲級リーグ第23節山東-中信 | Han Yizhou | Na Hyun | Lose | B+R | 7.5 | 3181 | -43 | 
+| 2018-10-05 | 2018年韓国囲碁リーグ第14節 | Kim Seongjae | Na Hyun | Win | W+4.5 | 6.5 | 3224 | -5 | 
+| 2018-09-28 | 2018年韓国囲碁リーグ第13節 | Ryu Minhyung | Na Hyun | Win | W+R | 6.5 | 3229 | -26 | 
+| 2018-09-21 | 2018年韓国囲碁リーグ第12節 | Kim Sedong | Na Hyun | Lose | B+R | 6.5 | 3255 | -32 | 
+| 2018-09-14 | 2018年韓国囲碁リーグ第11節 | Na Hyun | Park Hamin | Lose | W+R | 6.5 | 3287 | -27 | 
+| 2018-09-05 | 第23回三星火災杯世界囲碁マスターズ1回戦E2 | Shin Minjun | Na Hyun | Lose | B+0.5 | 6.5 | 3314 | -24 | 
+| 2018-09-04 | 第23回三星火災杯世界囲碁マスターズ1回戦E1 | Na Hyun | Fan Yunruo | Lose | W+R | 6.5 | 3338 | -14 | 
+| 2018-09-01 | 2018年韓国囲碁リーグ第10節 | Na Hyun | Choi Jaeyoung | Win | B+0.5 | 6.5 | 3352 | 11 | 
+| 2018-08-27 | 第5回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Shin Minjun | Na Hyun | Lose | B+R | 6.5 | 3341 | -5 | 
+| 2018-08-26 | 2018年韓国囲碁リーグ第9節 | Han Seungjoo | Na Hyun | Win | W+R | 6.5 | 3346 | 10 | 
+| 2018-08-21 | 第1回天府杯韓国選抜戦決勝 | Lee Donghoon | Na Hyun | Lose | B+R | 6.5 | 3336 | -9 | 
+| 2018-08-20 | 第1回天府杯韓国選抜戦1回戦 | Na Hyun | Shin Minjun | Win | B+R | 6.5 | 3345 | -3 | 
+| 2018-08-16 | 2018年韓国囲碁リーグ第8節 | Ahn Kukhyun | Na Hyun | Win | W+R | 6.5 | 3348 | 32 | 
+| 2018-08-11 | 2018年韓国囲碁リーグ第7節 | Seol Hyunjun | Na Hyun | Win | W+R | 6.5 | 3316 | 18 | 
+| 2018-08-06 | 第20回中国囲碁甲級リーグ第11節山東-重慶 | Yang Dingxin | Na Hyun | Lose | B+R | 7.5 | 3298 | -11 | 
+| 2018-08-04 | 2018年韓国囲碁リーグ第6節 | Na Hyun | Ryu Minhyung | Lose | W+1.5 | 6.5 | 3309 | -52 | 
+| 2018-07-28 | 第5回国手山脈杯世界プロ最強戦1回戦 | Yang Dingxin | Na Hyun | Lose | B+R | 6.5 | 3361 | -22 | 
+| 2018-07-21 | 2018年韓国囲碁リーグ第5節 | Yun Junsang | Na Hyun | Win | W+0.5 | 6.5 | 3383 | -7 | 
+| 2018-07-16 | 第20回農心杯韓国選抜戦 | Na Hyun | Shin Jinseo | Lose | W+R | 6.5 | 3390 | -5 | 
+| 2018-07-14 | 2018年韓国囲碁リーグ第4節 | Na Hyun | Park Geunho | Win | B+R | 6.5 | 3395 | 15 | 
+| 2018-07-11 | 第20回農心杯韓国選抜戦 | An Jungki | Na Hyun | Win | W+R | 6.5 | 3380 | 8 | 
+| 2018-06-29 | 2018年韓国囲碁リーグ第3節 | Song Jihoon | Na Hyun | Win | W+R | 6.5 | 3372 | 3 | 
+| 2018-06-27 | 第4回百霊杯韓国選抜戦4強戦 | Lee Sedol | Na Hyun | Lose | B+R | 6.5 | 3369 | -11 | 
+| 2018-06-25 | 第20回中国囲碁甲級リーグ第9節山東-天津 | Na Hyun | Xie Erhao | Lose | W+¼ | 7.5 | 3380 | -16 | 
+| 2018-06-22 | 第1回韓国竜星戦16強戦 | Choi Jeong | Na Hyun | Lose | B+0.5 | 6.5 | 3396 | -33 | 
+| 2018-06-21 | 2018年韓国囲碁リーグ第2節 | Na Hyun | Lee Changho | Win | B+R | 6.5 | 3429 | 35 | 
+| 2018-06-17 | 2018年韓国囲碁リーグ第1節 | Na Hyun |  | Win | B+R | 6.5 | 3394 | -51 | 
+| 2018-05-04 | 第30回テレビアジア選手権決勝 | Na Hyun | Kim Jiseok | Lose | W+2.5 | 6.5 | 3445 | -10 | 
+| 2018-05-03 | 第30回テレビアジア選手権準決勝 | Fan Tingyu | Na Hyun | Win | W+R | 6.5 | 3455 | 21 | 
+| 2018-04-30 | 第5回国手山脈杯韓国選抜戦決勝 | Lee Yeongkyu | Na Hyun | Win | W+R | 6.5 | 3434 | 0 | 
+| 2018-04-30 | 第5回国手山脈杯韓国選抜戦 | Lee Donghoon | Na Hyun | Win | W+R | 6.5 | 3434 | 38 | 
+| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節山東-民生 | Tao Xinran | Na Hyun | Lose | B+R | 7.5 | 3396 | 28 | 
+| 2018-04-02 | 第23回LG杯予選1回戦 | An Joyeong | Na Hyun | Win | W+R | 6.5 | 3368 | -74 | 
+| 2018-03-15 | 第1回韓国竜星戦32強ダブルエリミネーションC2 | Hong Kipyo | Na Hyun | Win | W+R | 6.5 | 3442 | -31 | 
+| 2018-03-14 | 第1回韓国竜星戦32強ダブルエリミネーションC1 | Na Hyun |  | Win | B+R | 6.5 | 3473 | -2 | 
+| 2018-02-21 | 第12回春蘭杯韓国予選 | Na Hyun | Lee Sedol | Lose | W+R | 7.5 | 3475 | -5 | 
+| 2018-02-20 | 第12回春蘭杯韓国予選 | Ahn Kukhyun | Na Hyun | Win | W+R | 7.5 | 3480 | 103 | 
+| 2017-12-08 | 第1回クラウン・ヘテ杯1回戦 | Na Hyun | Shin Jinseo | Lose | W+R | 6.5 | 3377 | -9 | 
+| 2017-12-03 | 2017年韓国囲碁リーグ優勝決定戦第3戦 | Kim Myounghoon | Na Hyun | Lose | B+R | 6.5 | 3386 | -16 | 
+| 2017-12-02 | 2017年韓国囲碁リーグ優勝決定戦第2戦 | Han Seungjoo | Na Hyun | Win | W+R | 6.5 | 3402 | 13 | 
+| 2017-12-01 | 2017年韓国囲碁リーグ優勝決定戦第1戦 | Na Hyun | Han Seungjoo | Win | B+R | 6.5 | 3389 | 10 | 
+| 2017-11-29 | 2017年韓国囲碁リーグプレーオフ第3戦 | Kim Jiseok | Na Hyun | Win | W+R | 6.5 | 3379 | 25 | 
+| 2017-11-22 | 2017年韓国囲碁リーグプレーオフ第1戦 | Paek Hongseok | Na Hyun | Win | W+R | 6.5 | 3354 | 14 | 
+| 2017-11-20 | 韓国ナショナルチームリーグ戦 | Song Jihoon | Na Hyun | Lose | B+R | 6.5 | 3340 | -54 | 
+| 2017-10-26 | 2017年韓国囲碁リーグ | Na Hyun | Kim Jiseok | Lose | W+R | 6.5 | 3394 | -12 | 
+| 2017-10-21 | 2017年韓国囲碁リーグ | Na Hyun | Lee Donghoon | Lose | W+R | 6.5 | 3406 | 33 | 
+| 2017-10-14 | 2017年韓国囲碁リーグ | Na Hyun | Park Minkyu | Win | B+R | 6.5 | 3373 | 12 | 
+| 2017-10-06 | 2017年韓国囲碁リーグ | Na Hyun | Kang Dongyun | Win | B+R | 6.5 | 3361 | 6 | 
+| 2017-10-01 | 2017年韓国囲碁リーグ | Na Hyun | Mok Jinseok | Win | B+R | 6.5 | 3355 | 29 | 
+| 2017-09-22 | 2017年韓国囲碁リーグ | Kang Yootaek | Na Hyun | Lose | B+0.5 | 6.5 | 3326 | -7 | 
+| 2017-09-17 | 第29回テレビアジア選手権決勝 | Lee Sedol | Na Hyun | Win | W+R | 7.5 | 3333 | 0 | 
+| 2017-09-17 | 第29回テレビアジア選手権準決勝 | Na Hyun | Ichiriki Ryo | Win | B+R | 7.5 | 3333 | 34 | 
+| 2017-09-16 | 第29回テレビアジア選手権1回戦 | Li Xuanhao | Na Hyun | Win | W+4.5 | 7.5 | 3299 | 12 | 
+| 2017-09-03 | 2017年韓国囲碁リーグ | Na Hyun | Ahn Kukhyun | Win | B+R | 6.5 | 3287 | -12 | 
+| 2017-08-20 | 2017年韓国囲碁リーグ | Na Hyun | Kim Jiseok | Lose | W+R | 6.5 | 3299 | -6 | 
+| 2017-08-11 | 2017年韓国囲碁リーグ | Lee Jihyun | Na Hyun | Win | W+R | 6.5 | 3305 | 5 | 
+| 2017-08-04 | 2017年韓国囲碁リーグ | Na Hyun | Lee Yeongkyu | Win | B+R | 6.5 | 3300 | 12 | 
+| 2017-07-22 | 2017年韓国囲碁リーグ | Na Hyun | Shin Minjun | Win | B+R | 6.5 | 3288 | 54 | 
+| 2017-07-13 | 2017年韓国囲碁リーグ | Kim Minho | Na Hyun | Win | W+R | 6.5 | 3234 | -1 | 
+| 2017-07-08 | 2017年韓国囲碁リーグ | Park Junghwan | Na Hyun | Lose | B+R | 6.5 | 3235 | -41 | 
+| 2017-06-21 | 第3回夢百合杯世界オープン戦2回戦 | Liao Yuanhe | Na Hyun | Lose | B+R | 7.5 | 3276 | -14 | 
+| 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Kang Dongyun | Na Hyun | Win | W+R | 7.5 | 3290 | 6 | 
+| 2017-06-17 | 2017年中国囲碁乙級リーグ | Na Hyun | Guo Yuzheng | Lose | W+0.5 | 7.5 | 3284 | -26 | 
+| 2017-06-01 | 2017年韓国囲碁リーグ | Na Hyun | Ahn Kukhyun | Win | B+R | 6.5 | 3310 | 5 | 
+| 2017-04-07 | 第22期LG杯世界予選準決勝 | Na Hyun | Yang Dingxin | Lose | W+R | 6.5 | 3305 | 157 | 
+| 2016-12-26 | 第35回KBS杯囲碁王戦決勝三番勝負第2局 | Na Hyun | Lee Sedol | Lose | W+1.5 | 6.5 | 3148 | 4 | 
+| 2016-12-19 | 第35回KBS杯囲碁王戦決勝三番勝負第1局 | Lee Sedol | Na Hyun | Lose | B+R | 6.5 | 3144 | -19 | 
+| 2016-12-11 | 2016年韓国囲碁リーグ | Na Hyun | Park Minkyu | Win | B+R | 6.5 | 3163 | -6 | 
+| 2016-12-05 | 第35回KBS杯囲碁王戦準決勝 | Na Hyun | Lee Yeongkyu | Win | B+R | 6.5 | 3169 | 17 | 
+| 2016-12-04 | 2016年韓国囲碁リーグ | Park Junghwan | Na Hyun | Lose | B+R | 6.5 | 3152 | 36 | 
+| 2016-11-14 | 第35回KBS杯囲碁王戦8強戦 | Cho Hanseung | Na Hyun | Win | W+R | 6.5 | 3116 | -82 | 
+| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Wang Shiyi | Na Hyun | Lose | B+R | 7.5 | 3198 | 37 | 
+| 2016-10-23 | 2016年韓国囲碁リーグ | Park Minkyu | Na Hyun | Win | W+R | 6.5 | 3161 | -21 | 
+| 2016-10-16 | 2016年韓国囲碁リーグ | Na Hyun | Weon Seongjin | Lose | W+R | 6.5 | 3182 | 10 | 
+| 2016-09-29 | 2016年韓国囲碁リーグ | Lee Taehyun | Na Hyun | Win | W+R | 6.5 | 3172 | 41 | 
+| 2016-09-23 | 2016年韓国囲碁リーグ第14節 | Lee Yeongkyu | Na Hyun | Lose | B+R | 6.5 | 3131 | -68 | 
+| 2016-09-17 | 2016年韓国囲碁リーグ第13節 | Na Hyun | Cho Hanseung | Win | B+R | 6.5 | 3199 | -10 | 
+| 2016-09-05 | 第35回KBS杯囲碁王戦16強戦 | Na Hyun | Kim Juho | Win | B+R | 6.5 | 3209 | 21 | 
+| 2016-09-04 | 2016年韓国囲碁リーグ第12節 | Choi Jeong | Na Hyun | Win | W+R | 6.5 | 3188 | 17 | 
+| 2016-08-27 | 2016年韓国囲碁リーグ第11節 | Na Hyun | Park Jinsol | Win | B+R | 6.5 | 3171 | 59 | 
+| 2016-08-20 | 2016年韓国囲碁リーグ第10節 | Heo Yongho | Na Hyun | Win | W+R | 6.5 | 3112 | 17 | 
+| 2016-08-11 | 2016年韓国囲碁リーグ第9節 | Na Hyun | Kang Yootaek | Win | B+R | 6.5 | 3095 | -17 | 
+| 2016-07-28 | 2016年韓国囲碁リーグ第8節 | Na Hyun | Park Seunghwa | Win | B+R | 6.5 | 3112 | -85 | 
+| 2016-07-26 | 第18回農心杯韓国選抜戦 | Na Hyun | Shin Jinseo | Lose | W+R | 6.5 | 3197 | 24 | 
+| 2016-07-18 | 第21回三星火災杯統合予選3回戦 | Na Hyun | Fan Yunruo | Lose | W+R | 6.5 | 3173 | 24 | 
+| 2016-07-10 | 2016年韓国囲碁リーグ第6節 | Na Hyun | Lee Taehyun | Win | B+1.5 | 6.5 | 3149 | 58 | 
+| 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Peng Quan | Na Hyun | Lose | B+R | 7.5 | 3091 | -12 | 
+| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Na Hyun |  | Win | B+1.5 | 7.5 | 3103 | 1 | 
+| 2016-06-17 | 2016年中国囲碁乙級リーグ | Na Hyun |  | Win | B+R | 7.5 | 3102 | 30 | 
+| 2016-06-09 | 2016年韓国囲碁リーグ第3節 | Lee Wonyoung | Na Hyun | Win | W+0.5 | 6.5 | 3072 | 18 | 
+| 2016-06-03 | 2016年韓国囲碁リーグ第2節 | Na Hyun | Kim Myounghoon | Win | B+R | 6.5 | 3054 | 48 | 
+| 2016-05-20 | 2016年韓国囲碁リーグ第1節 | Na Hyun | Choi Jaeyoung | Win | B+R | 6.5 | 3006 | -55 | 
+| 2016-05-02 | 第35回KBS杯囲碁王戦2回戦 | Park Junghwan | Na Hyun | Win | W+R | 6.5 | 3061 | 37 | 
+| 2016-04-20 | 第8回応氏杯世界選手権1回戦 | Lin Lixiang | Na Hyun | Lose | B+R | 7.5 | 3024 | -28 | 
+| 2016-03-26 | 第11回春蘭杯世界囲碁選手権1回戦 | Na Hyun | Mi Yuting | Lose | W+R | 7.5 | 3052 | 17 | 
+| 2016-03-07 | 第35回KBS杯囲碁王戦1回戦 | Na Hyun | Kim Seongjae | Win | B+4.5 | 6.5 | 3035 | -117 | 
+| 2015-12-04 | 第17回中国囲碁甲級リーグ第21節 | Tang Weixing | Na Hyun | Lose | B+R | 7.5 | 3152 | 11 | 
+| 2015-11-28 | 2015年利民杯世界囲碁星鋭最強戦1回戦 | Ke Jie | Na Hyun | Lose | B+R | 7.5 | 3141 | -7 | 
+| 2015-11-13 | 第17回中国囲碁甲級リーグ第20節 | Lian Xiao | Na Hyun | Win | W+R | 7.5 | 3148 | -6 | 
+| 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 | Na Hyun |  | Lose | W+R | 7.5 | 3154 | -11 | 
+| 2015-10-26 | 第17回中国囲碁甲級リーグ第15節 | Zhang Tao | Na Hyun | Win | W+R | 7.5 | 3165 | 17 | 
+| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Na Hyun | Tan Xiao | Lose | W+0.5 | 7.5 | 3148 | -7 | 
+| 2015-10-15 | 第17回中国囲碁甲級リーグ第14節 | Na Hyun | Tao Xinran | Win | B+3.5 | 7.5 | 3155 | 7 | 
+| 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Yang Dingxin | Na Hyun | Win | W+R | 7.5 | 3148 | 14 | 
+| 2015-10-06 | 第20回三星火災杯世界囲碁マスターズ2回戦 | Na Hyun | Ke Jie | Lose | W+R | 6.5 | 3134 | 53 | 
+| 2015-10-02 | 2015年韓国囲碁リーグ | Na Hyun | Park Junghwan | Lose | W+R | 6.5 | 3081 | -55 | 
+| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Na Hyun | Kim Seongjae | Lose | W+R | 6.5 | 3136 | -15 | 
+| 2015-09-27 | 2015年韓国囲碁リーグ | An Sungjoon | Na Hyun | Lose | B+R | 6.5 | 3151 | 2 | 
+| 2015-09-19 | 2015年韓国囲碁リーグ | Min Sangyoun | Na Hyun | Lose | B+R | 6.5 | 3149 | -46 | 
+| 2015-09-10 | 第20回三星火災杯世界囲碁マスターズ1回戦B3 | Na Hyun | Peng Liyao | Win | B+R | 6.5 | 3195 | 4 | 
+| 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦B2 | Yoo Changhyuk | Na Hyun | Win | W+R | 6.5 | 3191 | 4 | 
+| 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦B1 | Peng Liyao | Na Hyun | Lose | B+R | 6.5 | 3187 | -9 | 
+| 2015-09-06 | 2015年韓国囲碁リーグ | Na Hyun | Mok Jinseok | Lose | W+R | 6.5 | 3196 | -6 | 
+| 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Mao Ruilong | Na Hyun | Lose | B+R | 7.5 | 3202 | -3 | 
+| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Liao Xingwen | Na Hyun | Lose | B+R | 7.5 | 3205 | -41 | 
+| 2015-08-29 | 2015年韓国囲碁リーグ | Park Siyeol | Na Hyun | Win | W+1.5 | 6.5 | 3246 | -21 | 
+| 2015-08-27 | 第19回中韓天元対抗戦第2局 | Chen Yaoye | Na Hyun | Lose | B+R | 7.5 | 3267 | 1 | 
+| 2015-08-25 | 第19回中韓天元対抗戦第1局 | Na Hyun | Chen Yaoye | Lose | W+R | 7.5 | 3266 | 6 | 
+| 2015-08-20 | 2015年韓国囲碁リーグ | Kim Jiseok | Na Hyun | Win | W+R | 6.5 | 3260 | -26 | 
+| 2015-07-23 | 2015年韓国囲碁リーグ | Song Jihoon | Na Hyun | Win | W+R | 6.5 | 3286 | -10 | 
+| 2015-07-16 | 2015年韓国囲碁リーグ | Park Seunghwa | Na Hyun | Win | W+R | 6.5 | 3296 | 18 | 
+| 2015-07-11 | 第17回中国囲碁甲級リーグ第11節 | Na Hyun | Meng Tailing | Lose | W+R | 7.5 | 3278 | -18 | 
+| 2015-07-04 | 2015年韓国囲碁リーグ | Kim Seongjae | Na Hyun | Win | W+R | 6.5 | 3296 | 2 | 
+| 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Na Hyun | Wu Guangya | Lose | W+R | 7.5 | 3294 | -37 | 
+| 2015-06-25 | 2015年韓国囲碁リーグ | Na Hyun | Hong Minpyo | Win | B+R | 6.5 | 3331 | -53 | 
+| 2015-06-19 | 2015年韓国囲碁リーグ | Na Hyun | Lee Wonyoung | Win | B+R | 6.5 | 3384 | -30 | 
+| 2015-06-11 | 2015年韓国囲碁リーグ | Mok Jinseok | Na Hyun | Lose | B+R | 6.5 | 3414 | 12 | 
+| 2015-06-08 | 第20回LG杯朝鮮日報棋王戦1回戦 | Na Hyun | Gu Li | Lose | W+R | 6.5 | 3402 | -45 | 
+| 2015-05-29 | 2015年韓国囲碁リーグ | Kim Junghyun | Na Hyun | Win | W+R | 6.5 | 3447 | 2 | 
+| 2015-05-28 | 第17回中国囲碁甲級リーグ第6節 | Yang Kaiwen | Na Hyun | Lose | B+R | 7.5 | 3445 | -14 | 
+| 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Na Hyun | Wang Xi | Win | B+R | 7.5 | 3459 | -7 | 
+| 2015-05-17 | 2015年韓国囲碁リーグ | Kim Jiseok | Na Hyun | Win | W+R | 6.5 | 3466 | 10 | 
+| 2015-05-16 | 第17回中国囲碁甲級リーグ第4節 | Zhou Hexi | Na Hyun | Lose | B+R | 7.5 | 3456 | 13 | 
+| 2015-05-10 | 第2回グロービス杯世界囲碁U-20決勝 | Na Hyun | Huang Yunsong | Lose | W+R | 6.5 | 3443 | 0 | 
+| 2015-05-10 | 第2回グロービス杯世界囲碁U-20準決勝 | Na Hyun | Li Qincheng | Win | B+R | 6.5 | 3443 | 15 | 
+| 2015-05-09 | 第2回グロービス杯世界囲碁U-20準々決勝 | Yang Dingxin | Na Hyun | Win | W+R | 6.5 | 3428 | -11 | 
+| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグD | Koyama Kuya | Na Hyun | Win | W+R | 6.5 | 3439 | 0 | 
+| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグD | Sada Atsushi | Na Hyun | Win | W+R | 6.5 | 3439 | 11 | 
+| 2015-05-03 | 2015年韓国囲碁リーグ | Ahn Kukhyun | Na Hyun | Win | W+R | 6.5 | 3428 | 68 | 
+| 2015-04-26 | 2015年韓国囲碁リーグ | Shin Jinseo | Na Hyun | Win | W+0.5 | 6.5 | 3360 | 40 | 
+| 2015-04-18 | 第20回LG杯予選 | Gu Zihao | Na Hyun | Win | W+R | 6.5 | 3320 | 6 | 
+| 2015-04-17 | 第20回LG杯予選 | Lian Xiao | Na Hyun | Win | W+R | 6.5 | 3314 | -4 | 
+| 2015-04-13 | 第34回KBS杯囲碁王戦1回戦 | Park Minkyu | Na Hyun | Lose | B+R | 6.5 | 3318 | -35 | 
+| 2015-03-20 | 第59期国手戦（韓国）予選 | Lee Changho | Na Hyun | Lose | B+R | 6.5 | 3353 | -196 | 
+| 2015-02-13 | 第19期バッカス杯天元戦決勝三番勝負第2局 | Na Hyun | Shin Minjun | Win | B+R | 6.5 | 3549 | 42 | 
+| 2015-02-06 | 第19期バッカス杯天元戦決勝三番勝負第1局 | Shin Minjun | Na Hyun | Win | W+R | 6.5 | 3507 | 9 | 
+| 2015-01-20 | 第19期バッカス杯天元戦準決勝 | Na Hyun | Kang Seungmin | Win | B+R | 6.5 | 3498 | 24 | 
+| 2014-12-20 | 2014年利民杯世界囲碁星鋭最強戦2回戦 | Tong Mengcheng | Na Hyun | Lose | B+R | 7.5 | 3474 | 35 | 
+| 2014-12-07 | 2014年韓国囲碁リーグ | Kang Yootaek | Na Hyun | Lose | B+R | 6.5 | 3439 | 2 | 
+| 2014-12-04 | 2014年韓国囲碁リーグ | Kang Yootaek | Na Hyun | Lose | B+R | 6.5 | 3437 | -17 | 
+| 2014-11-28 | 2014年韓国囲碁リーグ | Park Junghwan | Na Hyun | Lose | B+R | 6.5 | 3454 | -15 | 
+| 2014-11-23 | 2014年韓国囲碁リーグ | Na Hyun | Park Seunghwa | Win | B+R | 6.5 | 3469 | 30 | 
+| 2014-11-20 | 2014年韓国囲碁リーグ | Na Hyun | Shin Jinseo | Win | B+0.5 | 6.5 | 3439 | 7 | 
+| 2014-11-18 | 第19期バッカス杯天元戦2回戦 | Na Hyun |  | Win | B+R | 6.5 | 3432 | 2 | 
+| 2014-11-13 | 2014年韓国囲碁リーグ | Lee Taehyun | Na Hyun | Lose | B+R | 6.5 | 3430 | 5 | 
+| 2014-11-11 | 第16回中国囲碁甲級リーグ第20節 | Na Hyun | Zhou Hexi | Win | B+R | 7.5 | 3425 | 9 | 
+| 2014-11-09 | 第16回中国囲碁甲級リーグ第19節 | Na Hyun | Zhou Ruiyang | Lose | W+R | 7.5 | 3416 | -19 | 
+| 2014-11-07 | 2014年韓国囲碁リーグ | Min Sangyoun | Na Hyun | Win | W+R | 6.5 | 3435 | 131 | 
+| 2014-11-02 | 第1回おかげ杯国際精鋭囲碁対抗戦団体戦一位決定戦 | Ke Jie | Na Hyun | Win | W+R | 6.5 | 3304 | 16 | 
+| 2014-11-01 | 第1回おかげ杯国際精鋭囲碁対抗戦第1戦 | Na Hyun | Ke Jie | Lose | W+R | 6.5 | 3288 | -20 | 
+| 2014-10-26 | 2014年韓国囲碁リーグ | Na Hyun | Kim Seongjae | Lose | W+0.5 | 6.5 | 3308 | -37 | 
+| 2014-10-12 | 2014年韓国囲碁リーグ | Lee Hobum | Na Hyun | Win | W+R | 6.5 | 3345 | -37 | 
+| 2014-10-03 | 2014年国際新鋭囲碁対抗戦第3戦 | Na Hyun | Ida Atsushi | Win | B+R | 6.5 | 3382 | -18 | 
+| 2014-10-02 | 2014年国際新鋭囲碁対抗戦第2戦 | Ke Jie | Na Hyun | Win | W+0.5 | 6.5 | 3400 | 28 | 
+| 2014-10-01 | 2014年国際新鋭囲碁対抗戦第1戦 | Na Hyun | Xiao Zhenghao | Win | B+R | 6.5 | 3372 | -1 | 
+| 2014-09-29 | 第10期物価情報杯プロ棋戦決勝三番勝負第2局 | Na Hyun |  | Win | B+R | 6.5 | 3373 | -1 | 
+| 2014-09-26 | 2014年韓国囲碁リーグ | Mok Jinseok | Na Hyun | Win | W+R | 6.5 | 3374 | 7 | 
+| 2014-09-24 | 第10期物価情報杯プロ棋戦決勝三番勝負第1局 |  | Na Hyun | Win | W+0.5 | 6.5 | 3367 | 4 | 
+| 2014-09-17 | 第10期物価情報杯プロ棋戦決勝トーナメント準決勝 | Na Hyun | Lee Changho | Win | B+R | 6.5 | 3363 | 2 | 
+| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Wang Haoyang | Na Hyun | Win | W+R | 7.5 | 3361 | 46 | 
+| 2014-09-04 | 2014年韓国囲碁リーグ | Kang Dongyun | Na Hyun | Lose | B+R | 6.5 | 3315 | -11 | 
+| 2014-09-02 | 第19期バッカス杯天元戦1回戦 | Na Hyun | Park Junghwan | Win | B+R | 6.5 | 3326 | 18 | 
+| 2014-08-27 | 第10期物価情報杯プロ棋戦決勝トーナメント1回戦 | Na Hyun | An Sungjoon | Win | B+0.5 | 6.5 | 3308 | -8 | 
+| 2014-08-24 | 2014年韓国囲碁リーグ |  | Na Hyun | Lose | B+R | 6.5 | 3316 | -2 | 
+| 2014-08-19 | 第16回農心杯韓国選抜戦 | An Sungjoon | Na Hyun | Lose | B+R | 6.5 | 3318 | -12 | 
+| 2014-08-13 | 第42期名人戦（韓国）1回戦 | Na Hyun | Kim Jiseok | Lose | W+R | 6.5 | 3330 | 5 | 
+| 2014-08-06 | 第19回三星火災杯統合予選決勝 | Na Hyun |  | Lose | W+R | 6.5 | 3325 | -26 | 
+| 2014-08-04 | 第19回三星火災杯統合予選3回戦 | Na Hyun | Mi Yuting | Win | B+R | 6.5 | 3351 | -9 | 
+| 2014-08-02 | 第19回三星火災杯統合予選2回戦 | Na Hyun | Zhu Yuanhao | Win | B+2.5 | 6.5 | 3360 | -9 | 
+| 2014-07-30 | 第10期物価情報杯プロ棋戦リーグA | Na Hyun | Lee Sedol | Win | B+R | 6.5 | 3369 | 12 | 
+| 2014-07-27 | 2014年韓国囲碁リーグ | Park Jinsol | Na Hyun | Win | W+R | 6.5 | 3357 | 5 | 
+| 2014-07-23 | 第10期物価情報杯プロ棋戦リーグA | Shin Minjun | Na Hyun | Win | W+R | 6.5 | 3352 | 6 | 
+| 2014-07-22 | 第58期国手戦（韓国）1回戦 | Park Yeonghun | Na Hyun | Lose | B+R | 6.5 | 3346 | -5 | 
+| 2014-07-21 | 第16回農心杯韓国選抜戦 | Na Hyun |  | Win | B+1.5 | 6.5 | 3351 | 22 | 
+| 2014-07-12 | 2014年韓国囲碁リーグ | Park Yeonghun | Na Hyun | Lose | B+R | 6.5 | 3329 | 7 | 
+| 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Qin Yuexin | Na Hyun | Win | W+0.5 | 7.5 | 3322 | 20 | 
+| 2014-06-26 | 2014年韓国囲碁リーグ | Na Hyun | Park Junghwan | Lose | W+R | 6.5 | 3302 | 18 | 
+| 2014-06-13 | 2014年韓国囲碁リーグ | Lee Changho | Na Hyun | Lose | B+R | 6.5 | 3284 | 19 | 
+| 2014-06-05 | 第16回中国囲碁甲級リーグ第6節 | Na Hyun | Tan Xiao | Lose | W+R | 7.5 | 3265 | -17 | 
+| 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Na Hyun | Gu Li | Win | B+R | 7.5 | 3282 | 34 | 
+| 2014-06-01 | 2014年韓国囲碁リーグ | Kim Juho | Na Hyun | Win | W+3.5 | 6.5 | 3248 | 36 | 
+| 2014-05-25 | 2014年韓国囲碁リーグ | Park Seunghwa | Na Hyun | Lose | B+R | 6.5 | 3212 | 44 | 
+| 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Niu Yutian | Na Hyun | Win | W+R | 7.5 | 3168 | 2 | 
+| 2014-05-14 | 第10期物価情報杯プロ棋戦リーグA | Na Hyun | Lee Sedol | Lose | W+R | 6.5 | 3166 | 9 | 
+| 2014-05-10 | 第1回グロービス杯世界囲碁U-20準々決勝 | Na Hyun | Ichiriki Ryo | Lose | W+R | 6.5 | 3157 | 0 | 
+| 2014-05-10 | 第1回グロービス杯世界囲碁U-20グループリーグA | Ida Atsushi | Na Hyun | Win | W+R | 6.5 | 3157 | -8 | 
+| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグA | Ida Atsushi | Na Hyun | Win | W+1.5 | 6.5 | 3165 | 0 | 
+| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグA | Xia Chenkun | Na Hyun | Lose | B+R | 6.5 | 3165 | -5 | 
+| 2014-05-01 | 2014年韓国囲碁リーグ | Na Hyun | Kim Sedong | Lose | W+T | 6.5 | 3170 | -137 | 
+| 2014-04-24 | 2014年韓国囲碁リーグ | Kim Sonjin | Na Hyun | Lose | B+R | 6.5 | 3307 | 7 | 
+| 2014-03-23 | 第4期招商地産杯中韓囲棋団体対抗戦第2戦 | Na Hyun | Fan Tingyu | Win | B+R | 7.5 | 3300 | 15 | 
+| 2014-03-21 | 第4期招商地産杯中韓囲棋団体対抗戦第1戦 | Chen Yaoye | Na Hyun | Win | W+R | 7.5 | 3285 | 46 | 
+| 2014-03-16 | 第2回百霊杯世界オープン戦予選 | Na Hyun | Zhou Heyang | Lose | W+R | 7.5 | 3239 | -21 | 
+| 2014-03-03 | 第4期招商地産杯韓国選抜戦 | Kang Yootaek | Na Hyun | Win | W+R | 6.5 | 3260 | 6 | 
+| 2014-02-26 | 第10回春蘭杯韓国予選 | Kang Dongyun | Na Hyun | Lose | B+R | 6.5 | 3254 | 5 | 
+| 2014-02-17 | 第33回KBS杯囲碁王戦本戦1回戦 | Na Hyun | Yun Chanhee | Lose | W+R | 6.5 | 3249 | -9 | 
+| 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 | Li Kang | Na Hyun | Win | W+R | 7.5 | 3258 | 11 | 
+| 2013-11-23 | 第15回中国囲碁甲級リーグ第21節 | Ke Jie | Na Hyun | Lose | B+R | 7.5 | 3247 | -22 | 
+| 2013-11-16 | 第15回中国囲碁甲級リーグ第20節 | Na Hyun | Yang Dingxin | Lose | W+0.5 | 7.5 | 3269 | 18 | 
+| 2013-11-09 | 2013年韓国囲碁リーグ | Na Hyun | Kang Yootaek | Win | B+R | 6.5 | 3251 | -8 | 
+| 2013-11-01 | 2013年韓国囲碁リーグ | Na Hyun | Choi Cheolhan | Lose | W+R | 6.5 | 3259 | 1 | 
+| 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 | Wang Lei (s) | Na Hyun | Win | W+R | 7.5 | 3258 | 23 | 
+| 2013-10-19 | 2013年韓国囲碁リーグ | Na Hyun | Lee Huiseong | Win | B+R | 6.5 | 3235 | -32 | 
+| 2013-10-17 | 2013年国際新鋭囲碁対抗戦第3戦 | Uchida Shuhei | Na Hyun | Win | W+R | 7.5 | 3267 | 13 | 
+| 2013-10-15 | 2013年国際新鋭囲碁対抗戦第1戦 | Lian Xiao | Na Hyun | Win | W+R | 7.5 | 3254 | -65 | 
+| 2013-09-26 | 2013年韓国囲碁リーグ | Hong Seongji | Na Hyun | Lose | B+R | 6.5 | 3319 | -108 | 
+| 2013-09-14 | 2013年韓国囲碁リーグ | Na Hyun | Park Yeonghun | Win | B+R | 6.5 | 3427 | 48 | 
+| 2013-08-29 | 2013年韓国囲碁リーグ | Ahn Kukhyun | Na Hyun | Win | W+R | 6.5 | 3379 | 36 | 
+| 2013-08-24 | 第4期Olleh杯オープン選手権3回戦 | Ahn Kukhyun | Na Hyun | Lose | B+R | 6.5 | 3343 | -71 | 
+| 2013-08-18 | 2013年韓国囲碁リーグ | Na Hyun | Lee Donghoon | Win | B+R | 6.5 | 3414 | -5 | 
+| 2013-08-04 | 第18回三星火災杯統合予選2回戦 | Na Hyun | Shi Yue | Lose | W+R | 6.5 | 3419 | 1 | 
+| 2013-08-02 | 2013年韓国囲碁リーグ | Kim Junghyun | Na Hyun | Win | W+R | 6.5 | 3418 | 129 | 
+| 2013-07-17 | 第15回農心杯韓国選抜戦 | Han Seungjoo | Na Hyun | Win | W+R | 6.5 | 3289 | -9 | 
+| 2013-07-11 | 第1回夢百合杯世界オープン戦2回戦 | Na Hyun | Gu Li | Lose | W+R | 7.5 | 3298 | 43 | 
+| 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 | Shi Yue | Na Hyun | Win | W+2.5 | 7.5 | 3255 | 39 | 
+| 2013-06-26 | 第9期物価情報杯プロ棋戦リーグA | An Sungjoon | Na Hyun | Lose | B+R | 6.5 | 3216 | 35 | 
+| 2013-06-21 | 2013年韓国囲碁リーグ | Lee Huiseong | Na Hyun | Win | W+R | 6.5 | 3181 | -56 | 
+| 2013-06-18 | 第15回中国囲碁甲級リーグ第8節 | Na Hyun | Wang Haoyang | Lose | W+R | 7.5 | 3237 | 22 | 
+| 2013-06-15 | 2013年韓国囲碁リーグ | Park Junghwan | Na Hyun | Lose | B+R | 6.5 | 3215 | 3 | 
+| 2013-06-13 | 第9期物価情報杯プロ棋戦リーグA | Kang Yootaek | Na Hyun | Win | W+R | 6.5 | 3212 | -47 | 
+| 2013-06-02 | 第15回中国囲碁甲級リーグ第7節 |  | Na Hyun | Lose | B+R | 7.5 | 3259 | 63 | 
+| 2013-05-30 | 第18期バッカス杯天元戦予選 |  | Na Hyun | Lose | B+R | 6.5 | 3196 | -6 | 
+| 2013-05-23 | 第1回夢百合杯世界オープン戦予選 | Li Kang | Na Hyun | Win | W+R | 7.5 | 3202 | -14 | 
+| 2013-05-17 | 2013年韓国囲碁リーグ | Na Hyun | Lee Changho | Win | B+1.5 | 6.5 | 3216 | 11 | 
+| 2013-05-13 | 第9期物価情報杯プロ棋戦リーグA | Na Hyun | An Sungjoon | Lose | W+R | 6.5 | 3205 | 10 | 
+| 2013-05-11 | 第15回中国囲碁甲級リーグ第5節 | Shi Yue | Na Hyun | Lose | B+R | 7.5 | 3195 | -11 | 
+| 2013-05-09 | 第15回中国囲碁甲級リーグ第4節 | Zhong Wenjing | Na Hyun | Win | W+0.5 | 7.5 | 3206 | 17 | 
+| 2013-05-04 | 第15回中国囲碁甲級リーグ第3節 | Fan Tingyu | Na Hyun | Win | W+R | 7.5 | 3189 | -8 | 
+| 2013-04-27 | 2013年韓国囲碁リーグ | Ahn Kukhyun | Na Hyun | Lose | B+R | 6.5 | 3197 | -30 | 
+| 2013-04-22 | 第18回LG杯予選 | Chen Xian | Na Hyun | Win | W+R | 6.5 | 3227 | -16 | 
+| 2013-04-12 | 2013年韓国囲碁リーグ | Na Hyun | Cho Insun | Lose | W+R | 6.5 | 3243 | -9 | 
+| 2013-04-07 | 第15回中国囲碁甲級リーグ第2節 | Ding Wei | Na Hyun | Win | W+R | 7.5 | 3252 | -4 | 
+| 2013-04-05 | 第15回中国囲碁甲級リーグ第1節 | Chang Hao | Na Hyun | Lose | B+R | 7.5 | 3256 | -45 | 
+| 2013-03-11 | 第32回KBS杯囲碁王戦本戦1回戦 | Na Hyun | Weon Seongjin | Lose | W+R | 6.5 | 3301 | 27 | 
+| 2013-01-25 | 第3期招商地産杯韓国選抜戦 | Na Hyun | Kim Jiseok | Lose | W+R | 6.5 | 3274 | 10 | 
+| 2013-01-21 | 第31回KBS杯囲碁王戦敗者復活戦準決勝 | Na Hyun | Lee Sedol | Lose | W+R | 6.5 | 3264 | -14 | 
+| 2013-01-07 | 第31回KBS杯囲碁王戦敗者復活戦4回戦 | Na Hyun | Weon Seongjin | Win | B+R | 6.5 | 3278 | 10 | 
+| 2013-01-03 | 第18期GSカルテックス杯プロ棋戦1回戦 | Na Hyun | Kim Junghyun | Lose | W+R | 6.5 | 3268 | 0 | 
+| 2012-12-24 | 第31回KBS杯囲碁王戦敗者復活戦3回戦 | Kim Daehee | Na Hyun | Win | W+R | 6.5 | 3268 | -156 | 
+| 2012-11-26 | 第31回KBS杯囲碁王戦敗者復活戦2回戦 | Kim Jiseok | Na Hyun | Win | W+R | 6.5 | 3424 | 0 | 
+| 2012-11-05 | 第17回LG杯世界棋王戦3回戦 | Shi Yue | Na Hyun | Lose | B+R | 6.5 | 3424 | 14 | 
+| 2012-09-28 | 2012年韓国囲碁リーグ | Park Junghwan | Na Hyun | Win | W+R | 6.5 | 3410 | -16 | 
+| 2012-09-20 | 2012年韓国囲碁リーグ | Choi Cheolhan | Na Hyun | Lose | B+1.5 | 6.5 | 3426 | -29 | 
+| 2012-09-13 | 2012ジャステック杯国際新鋭囲碁対抗戦第3戦 |  | Na Hyun | Win | W+R | 6.5 | 3455 | 30 | 
+| 2012-09-12 | 2012ジャステック杯国際新鋭囲碁対抗戦第2戦 | Ida Atsushi | Na Hyun | Win | W+R | 6.5 | 3425 | -24 | 
+| 2012-09-11 | 2012ジャステック杯国際新鋭囲碁対抗戦第1戦 | Na Hyun | Xia Daming | Win | B+R | 6.5 | 3449 | 24 | 
+| 2012-09-05 | 第17回三星火災杯世界囲碁マスターズ1回戦B2 | Na Hyun | Peng Liyao | Lose | W+R | 6.5 | 3425 | -12 | 
+| 2012-09-04 | 第17回三星火災杯世界囲碁マスターズ1回戦B1 | Na Hyun | Fan Tingyu | Lose | W+R | 6.5 | 3437 | 2 | 
+| 2012-08-28 | 第40期名人戦（韓国）1回戦 | Kim Jiseok | Na Hyun | Lose | B+R | 6.5 | 3435 | -13 | 
+| 2012-08-25 | 2012年韓国囲碁リーグ | Na Hyun | Kim Seongjae | Lose | W+R | 6.5 | 3448 | 36 | 
+| 2012-08-20 | 第31回KBS杯囲碁王戦敗者復活戦1回戦 | Na Hyun | Choi Cheolhan | Win | B+R | 6.5 | 3412 | 22 | 
+| 2012-08-17 | 2012年韓国囲碁リーグ | Na Hyun | Yun Junsang | Win | B+R | 6.5 | 3390 | 6 | 
+| 2012-08-09 | 2012年韓国囲碁リーグ | Park Seunghwa | Na Hyun | Win | W+R | 6.5 | 3384 | -73 | 
+| 2012-07-29 | 2012年韓国囲碁リーグ | Ryu Suhang | Na Hyun | Lose | B+R | 6.5 | 3457 | -19 | 
+| 2012-07-23 | 第40期名人戦（韓国）予選 | Han Sanghoon | Na Hyun | Win | W+R | 6.5 | 3476 | 5 | 
+| 2012-07-21 | 2012年韓国囲碁リーグ | Lee Hobum | Na Hyun | Lose | B+R | 6.5 | 3471 | 13 | 
+| 2012-07-16 | 第14回農心杯韓国選抜戦 | Na Hyun | Lee Donghoon | Lose | W+R | 6.5 | 3458 | -15 | 
+| 2012-07-13 | 2012年韓国囲碁リーグ | Park Yeonghun | Na Hyun | Win | W+0.5 | 6.5 | 3473 | -25 | 
+| 2012-07-10 | 第14回農心杯韓国選抜戦 | Park Junsuck | Na Hyun | Win | W+R | 6.5 | 3498 | 6 | 
+| 2012-07-09 | 第31回KBS杯囲碁王戦本戦2回戦 | Na Hyun | Weon Seongjin | Lose | W+R | 6.5 | 3492 | 22 | 
+| 2012-07-05 | 2012年韓国囲碁リーグ | Na Hyun | Lee Wonyoung | Lose | W+R | 6.5 | 3470 | 54 | 
+| 2012-06-28 | 第56期国手戦（韓国）1回戦 | Na Hyun | Min Sangyoun | Lose | W+R | 6.5 | 3416 | -16 | 
+| 2012-06-24 | 2012年韓国囲碁リーグ |  | Na Hyun | Win | W+R | 6.5 | 3432 | -31 | 
+| 2012-06-20 | 第17回LG杯世界棋王戦2回戦 | Jiang Weijie | Na Hyun | Win | W+R | 6.5 | 3463 | 13 | 
+| 2012-06-18 | 第17回LG杯世界棋王戦1回戦 | Na Hyun | Dang Yifei | Win | B+R | 6.5 | 3450 | -37 | 
+| 2012-06-01 | 2012年韓国囲碁リーグ | Na Hyun | Min Sangyoun | Win | B+1.5 | 6.5 | 3487 | 32 | 
+| 2012-05-24 | 2012年韓国囲碁リーグ | Yun Junsang | Na Hyun | Win | W+2.5 | 6.5 | 3455 | 6 | 
+| 2012-05-13 | 2012年韓国囲碁リーグ | Na Hyun | Park Seunghwa | Lose | W+R | 6.5 | 3449 | -83 | 
+| 2012-05-05 | 2012年韓国囲碁リーグ | Lee Jihyun | Na Hyun | Lose | B+R | 6.5 | 3532 | -45 | 
+| 2012-04-27 | 2012年韓国囲碁リーグ | Na Hyun | Lee Hobum | Lose | W+0.5 | 6.5 | 3577 | -12 | 
+| 2012-04-24 | 第17回LG杯予選 | Fan Tingyu | Na Hyun | Win | W+R | 6.5 | 3589 | -17 | 
+| 2012-04-19 | 2012年韓国囲碁リーグ | Park Yeonghun | Na Hyun | Win | W+1.5 | 6.5 | 3606 | 37 | 
+| 2012-04-16 | 第31回KBS杯囲碁王戦本戦1回戦 | Na Hyun | Park Minkyu | Win | B+R | 6.5 | 3569 | 14 | 
+| 2012-03-19 | 第4回BCカード杯世界選手権2回戦 | Jiang Weijie | Na Hyun | Lose | B+1.5 | 6.5 | 3555 | -91 | 
+| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Li Qincheng | Na Hyun | Win | W+F | 6.5 | 3646 | 8 | 
+| 2012-02-27 | 第4回BCカード杯世界選手権統合予選 | Ohashi Hirofumi | Na Hyun | Win | W+R | 6.5 | 3638 | -36 | 
+| 2012-02-14 | 第7期圓益杯十段戦4回戦 | Na Hyun | Kang Yootaek | Lose | W+R | 6.5 | 3674 | 45 | 
+| 2012-02-06 | 第7期圓益杯十段戦3回戦 | Na Hyun | Kim Sedong | Win | B+R | 6.5 | 3629 | 49 | 
+| 2012-01-02 | 第7期圓益杯十段戦2回戦 | Na Hyun | Yang Wooseok | Win | B+2.5 | 6.5 | 3580 | -40 | 
+| 2011-12-17 | 2011年韓国囲碁リーグ | Na Hyun | Ahn Kukhyun | Lose | W+R | 6.5 | 3620 | 434 | 
+| 2011-11-11 | 2011年韓国囲碁リーグ | Na Hyun | Kim Kiwon | Win | B+0.5 | 6.5 | 3186 | 7 | 
+| 2011-11-10 | 第7期圓益杯十段戦1回戦 | Na Hyun | Yun Junsang | Win | B+R | 6.5 | 3179 | -20 | 
+| 2011-11-02 | 第16回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Na Hyun | Gu Li | Lose | W+R | 6.5 | 3199 | -17 | 
+| 2011-10-31 | 第16回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Gu Li | Na Hyun | Lose | B+R | 6.5 | 3216 | -30 | 
+| 2011-10-27 | 2011年韓国囲碁リーグ | Na Hyun | Heo Yongho | Lose | W+R | 6.5 | 3246 | -1 | 
+| 2011-10-19 | 第39期名人戦（韓国）2回戦 | Na Hyun | Paek Hongseok | Lose | W+R | 6.5 | 3247 | -55 | 
+| 2011-10-16 | 2011年韓国囲碁リーグ | On Sojin | Na Hyun | Win | W+R | 6.5 | 3302 | -13 | 
+| 2011-10-05 | 第16回三星火災杯世界囲碁マスターズ2回戦 | Kong Jie | Na Hyun | Win | W+1.5 | 6.5 | 3315 | 80 | 
+| 2011-10-04 | 第16回三星火災杯世界囲碁マスターズ1回戦 | Peng Liyao | Na Hyun | Win | W+R | 6.5 | 3235 | -13 | 
+| 2011-09-30 | 2011年韓国囲碁リーグ | Na Hyun |  | Win | B+R | 6.5 | 3248 | -17 | 
+| 2011-09-21 | 2011年韓国囲碁リーグ |  | Na Hyun | Win | W+0.5 | 6.5 | 3265 | 11 | 
+| 2011-09-13 | 第39期名人戦（韓国）1回戦 |  | Na Hyun | Win | W+R | 6.5 | 3254 | 151 | 
+| 2011-09-08 | 2011年韓国囲碁リーグ | Na Hyun | Cho Hanseung | Win | B+1.5 | 6.5 | 3103 | 43 | 
+| 2011-08-26 | 第16回三星火災杯世界囲碁マスターズ1回戦D3 | Na Hyun | Sakai Hideyuki | Win | B+0.5 | 6.5 | 3060 | 28 | 
+| 2011-08-25 | 第16回三星火災杯世界囲碁マスターズ1回戦D2 | Kim Dongho | Na Hyun | Win | W+R | 6.5 | 3032 | 18 | 
+| 2011-08-24 | 第16回三星火災杯世界囲碁マスターズ1回戦D1 | Na Hyun | Park Yeonghun | Lose | W+R | 6.5 | 3014 | -12 | 
+| 2011-08-21 | 2011年韓国囲碁リーグ | An Joyeong | Na Hyun | Win | W+2.5 | 6.5 | 3026 | 8 | 
+| 2011-08-05 | 第16回三星火災杯統合予選決勝 | Murakawa Daisuke | Na Hyun | Win | W+R | 6.5 | 3018 | 48 | 
+| 2011-08-03 | 第16回三星火災杯統合予選2回戦 | Na Hyun | Zhong Wenjing | Win | B+R | 6.5 | 2970 | 85 | 
+| 2011-07-26 | 第39期名人戦（韓国）予選 | Hong Seongji | Na Hyun | Win | W+1.5 | 6.5 | 2885 | 70 | 
+| 2011-07-24 | 2011年韓国囲碁リーグ | Jin Donggyu | Na Hyun | Win | W+3.5 | 6.5 | 2815 | 71 | 
+| 2011-07-09 | 2011年韓国囲碁リーグ | Na Hyun | Mok Jinseok | Lose | W+R | 6.5 | 2744 | -47 | 
+| 2011-07-06 | 第13回農心杯韓国選抜戦 | Na Hyun | Jin Donggyu | Win | B+2.5 | 6.5 | 2791 | -36 | 
+| 2011-05-28 | 2011年韓国囲碁リーグ | Na Hyun | Hong Seongji | Lose | W+R | 6.5 | 2827 | 23 | 
+| 2011-05-13 | 2011年韓国囲碁リーグ | Na Hyun | Kim Dongho | Lose | W+R | 6.5 | 2804 | -78 | 
+| 2011-05-01 | 第16回LG杯予選 | Chen Yaoye | Na Hyun | Lose | B+R | 6.5 | 2882 | -36 | 
+| 2011-04-28 | 第16回LG杯予選 | Na Hyun | Mitsunaga Junzo | Win | B+1.5 | 6.5 | 2918 | -35 | 
+| 2010-10-05 | 2010年国際新鋭囲碁対抗戦第3戦 |  | Na Hyun | Lose | B+R | 6.5 | 2953 | -60 | 
+| 2010-10-04 | 2010年国際新鋭囲碁対抗戦第2戦 | Suzuki Shinji | Na Hyun | Win | W+R | 6.5 | 3013 | 112 | 
+| 2010-10-03 | 2010年国際新鋭囲碁対抗戦第1戦 | Na Hyun |  | Win | B+R | 6.5 | 2901 | 182 | 
+| 2010-09-13 | 第6期圓益杯十段戦予選 | Na Hyun | Lee Chungyu | Lose | W+R | 6.5 | 2719 | -166 | 
+| 2010-04-19 | 第15回LG杯予選 | Yoo Jaeho | Na Hyun | Lose | B+R | 6.5 | 2885 | -232 | 
+| 2010-01-16 | 第2回BCカード杯世界選手権1回戦 | Na Hyun | Iyama Yuta | Lose | W+R | 6.5 | 3117 | 3117 | 
+| 2010-01-13 | 第2回BCカード杯世界選手権統合予選決勝 | Yu Bin | Na Hyun | Win | W+0.5 | 6.5 | missing | 0 | 
+| 2010-01-12 | 第2回BCカード杯世界選手権統合予選 | Na Hyun | Lee Yeongkyu | Win | B+R | 6.5 | missing | missing |
 
 
 

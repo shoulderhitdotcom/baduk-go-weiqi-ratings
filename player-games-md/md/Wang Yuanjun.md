@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-08 | 第26回三星火災杯台湾予選 | Lai Junfu | Wang Yuanjun | Win | W+R | 6.5 | 3228 | -8 | 
 | 2021-09-07 | 第26回三星火災杯台湾予選 | Wang Yuanjun | Xu Yuqi | Win | B+R | 6.5 | 3236 | 9 | 
 | 2021-08-29 | 第2期聯電杯プロ囲碁戦リーグ | Chen Qirui | Wang Yuanjun | Win | W+R | 6.5 | 3227 | 19 | 
 | 2021-08-26 | 第2期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Chen Shiyuan | Win | B+R | 6.5 | 3208 | -25 | 

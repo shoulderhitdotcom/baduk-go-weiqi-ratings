@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-08 | 第4期韓国竜星戦決勝三番勝負第1局 | Park Junghwan | Shin Jinseo | Lose | W+R | 6.5 | 3702 | -2 | 
 | 2021-09-04 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Changseok | Park Junghwan | Win | W+R | 6.5 | 3704 | 30 | 
 | 2021-08-15 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Choi Jeong | Park Junghwan | Win | W+R | 6.5 | 3674 | -3 | 
 | 2021-08-04 | 第4期韓国竜星戦準決勝 | Hong Mujin | Park Junghwan | Win | W+3.5 | 6.5 | 3677 | 40 | 

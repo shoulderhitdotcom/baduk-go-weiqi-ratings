@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-08 | 第26回三星火災杯台湾予選 | Chen Shiyuan | Lin Lixiang | Lose | W+R | 6.5 | 2971 | -11 | 
 | 2021-09-07 | 第26回三星火災杯台湾予選 | Lin Junyan | Chen Shiyuan | Win | W+R | 6.5 | 2982 | 22 | 
 | 2021-09-03 | 第26回三星火災杯台湾予選 |  | Chen Shiyuan | Win | W+R | 6.5 | 2960 | 12 | 
 | 2021-09-01 | 第26回三星火災杯台湾予選 | Chen Shiyuan | Xu Jingen | Win | B+R | 6.5 | 2948 | 0 | 

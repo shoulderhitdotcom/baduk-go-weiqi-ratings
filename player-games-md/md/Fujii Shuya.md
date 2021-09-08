@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-08 | 第47期碁聖戦予選 | Kiyonari Tetsuya | Fujii Shuya | Lose | B+R | 6.5 | 2812 | -127 | 
 | 2021-08-11 | 第47期名人戦予選 | Fujii Shuya | Sada Atsushi | Lose | W+R | 6.5 | 2939 | 57 | 
 | 2021-06-30 | 第60期十段戦予選 | Fujii Shuya | Hong Seokui | Lose | W+R | 6.5 | 2882 | -29 | 
 | 2021-04-28 | 第60期十段戦予選 | Fujii Shuya | Morino Setsuo | Win | B+R | 6.5 | 2911 | -16 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Choi Jeong vs Park Jiyeon** | **Choi Jeong streak** | **Park Jiyeon streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-09 | 第7回韓国女子囲碁リーグ準プレーオフ第1戦 | Choi Jeong | Park Jiyeon | B+R | 6.5 | 9:5 | 4 | 0 | 
 | 2020-11-17 | 2020年中国囲碁乙級リーグ | Park Jiyeon | Choi Jeong | W+R | 7.5 | 8:5 | 3 | 0 | 
 | 2018-04-18 | 第4回韓国女子囲碁リーグ第11節 | Park Jiyeon | Choi Jeong | W+R | 6.5 | 7:5 | 2 | 0 | 
 | 2017-02-24 | 3期韓国女子連戦2回戦首尓-京畿湖畔 | Choi Jeong | Park Jiyeon | B+R | 6.5 | 6:5 | 1 | 0 | 

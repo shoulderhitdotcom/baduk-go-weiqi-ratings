@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Yang Zixuan vs Yu Lijun** | **Yang Zixuan streak** | **Yu Lijun streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-25 | 第7回健喬杯女子囲碁最強戦敗部3回戦 | Yang Zixuan | Yu Lijun | W+R | 6.5 | 6:3 | 0 | 1 | 
 | 2021-08-18 | 第7回健喬杯女子囲碁最強戦勝部1回戦  | Yang Zixuan | Yu Lijun | B+R | 6.5 | 6:2 | 1 | 0 | 
 | 2020-08-10 | 第6回健喬杯女子囲碁最強戦勝部1回戦 | Yu Lijun | Yang Zixuan | B+R | 6.5 | 5:2 | 0 | 1 | 
 | 2020-06-04 | 2020新人王戦（台湾）リーグB | Yang Zixuan | Yu Lijun | B+R | 7.5 | 5:1 | 3 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-09 | 第4期韓国竜星戦決勝三番勝負第2局 | Shin Jinseo | Park Junghwan | Lose | W+R | 6.5 | 3825 | -20 | 
 | 2021-09-08 | 第4期韓国竜星戦決勝三番勝負第1局 | Park Junghwan | Shin Jinseo | Win | W+R | 6.5 | 3845 | 3845 | 
 | 2021-09-05 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Seungmin | Shin Jinseo | Win | W+R | 6.5 | missing | -3904 | 
 | 2021-08-18 | 第4期韓国竜星戦準決勝 | Han Wonggyu | Shin Jinseo | Win | W+R | 6.5 | 3904 | 113 | 

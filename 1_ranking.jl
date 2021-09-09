@@ -1,3 +1,5 @@
+## this script computes the ranking based on the latest data
+
 const PATH = "c:/git/baduk-go-weiqi-ratings/"
 using Pkg; Pkg.activate(PATH); cd(PATH)
 using Revise: includet
@@ -49,9 +51,24 @@ function estimate_ratings_and_save_records(tbl)
     pings, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date
 end
 
+# are there missing dates in the database
+dates_in_files = Date.(first.(split.(readdir("records"), " ")))
+first_date, last_date = extrema(dates_in_files)
+
+missing_dates = setdiff(
+    sort(unique(tbl.date)),
+    dates_in_files)
+
+# back fill the missing dates in the last 365 days
+for date_filter in filter(x-> x >=  maximum(tbl.date)-Day(364), missing_dates)
+    println(date_filter)
+    tbl_earlier = @subset(tbl, :date <= date_filter)
+    @time estimate_ratings_and_save_records(tbl_earlier)
+end
+
 # for creating previous records
 if false
-    for date_filter in filter(x-> x <= Date("2016-06-19"), sort!(unique(tbl.date), rev=true))
+    for date_filter in filter(x-> x <= Date("2021-09-01"), sort!(unique(tbl.date), rev=true))
         println(date_filter)
         tbl_earlier = @subset(tbl, :date <= date_filter)
         @time estimate_ratings_and_save_records(tbl_earlier)
@@ -85,6 +102,7 @@ end
 # make ratings database
 if false# run only once to generate the historical ratings
     @time pings_hist = mapreduce(vcat, Date(2001, 1, 1):Day(1):Date(2021,7,5)) do date
+    # @time pings_hist = mapreduce(vcat, missing_dates) do date
         if isfile("records/$(string(date)) pings.csv")
             pings_old = CSV.read("records/$(string(date)) pings.csv", DataFrame; select=[:name, :estimate, :std_error])
             pings_old[!, :date] .= date
@@ -106,7 +124,8 @@ pings_for_md1[!, :date] .= Date.(to_date)
 # load the hitorical ratings
 # and append the latest record onto it
 pings_hist = JDF.load("pings_hist.jdf") |> DataFrame
-pings_hist = unique(vcat(pings_hist, select( pings_for_md1, :date, :name, :eng_name_old, :Rating, :Rank)))
+cols_to_keep = [:date, :name, :eng_name_old, :Rating, :Rank]
+pings_hist = unique(vcat(pings_hist, select(pings_for_md1, cols_to_keep)), [:date, :name, :eng_name_old])
 JDF.save("pings_hist.jdf", pings_hist)
 
 pings_for_md = select(

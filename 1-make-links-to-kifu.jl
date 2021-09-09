@@ -55,8 +55,9 @@ for name in names_to_update
                 @subset :eng_name_old == name
                 select!(Not(:eng_name_old))
             end
+            #there could be missing ratings
 
-            @chain df begin
+            tmp = @chain df begin
                 @subset (:black == name) | (:white == name)
                 @transform :Result = ifelse(
                     ((:who_win == "W") & (:white == name)) |
@@ -79,7 +80,7 @@ for name in names_to_update
                     ) |> reverse,
                     missing)
                 rename!(:Rating_diff=>Symbol("Diff"))
-                JDF.save("./player-games-md/jdf/$name.jdf", _)
+                # JDF.save("./player-games-md/jdf/$name.jdf", _)
             end
         end
     end

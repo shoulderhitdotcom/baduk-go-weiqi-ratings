@@ -80,7 +80,7 @@ for name in names_to_update
                     ) |> reverse,
                     missing)
                 rename!(:Rating_diff=>Symbol("Diff"))
-                # JDF.save("./player-games-md/jdf/$name.jdf", _)
+                JDF.save("./player-games-md/jdf/$name.jdf", _)
             end
         end
     end

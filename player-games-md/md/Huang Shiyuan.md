@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-13 | 第14期棋王戦（台湾）予選 | Chen Qirui | Huang Shiyuan | Lose | B+R | 6.5 | 2637 | 30 | 
+| 2021-09-09 | 第14期棋王戦（台湾）予選 | Huang Shiyuan | Yang Zixuan | Win | B+R | 6.5 | 2607 | -8 | 
 | 2021-09-06 | 第14期棋王戦（台湾）予選 | Gao Yun | Huang Shiyuan | Win | W+1.5 | 6.5 | 2615 | 2615 | 
 | 2021-09-05 | 第9期中環碁聖戦 | Huang Shiyuan | Zhao Peizhe | Win | B+R | 6.5 | missing | -2621 | 
 | 2021-09-02 | 第14期棋王戦（台湾）予選 | Huang Shiyuan |  | Win | B+R | 6.5 | 2621 | 0 | 
@@ -45,9 +47,9 @@
 | 2020-09-14 | 第13期棋王戦（台湾）予選 | Dang Xiyun | Huang Shiyuan | Win | W+R | 6.5 | 2921 | -5 | 
 | 2020-09-13 | 第8期中環碁聖戦2回戦 | Huang Shiyuan | Lu Yiquan | Lose | W+R | 6.5 | 2926 | 21 | 
 | 2020-09-06 | 第8期中環碁聖戦1回戦 | Zhou Pingqiang | Huang Shiyuan | Win | W+4.5 | 6.5 | 2905 | 7 | 
-| 2020-09-03 | 第13期棋王戦（台湾）予選 |  | Huang Shiyuan | Win | W+R | 6.5 | 2898 | -4 | 
+| 2020-09-03 | 第13期棋王戦（台湾）予選 | Liu Yifang | Huang Shiyuan | Win | W+R | 6.5 | 2898 | -4 | 
 | 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 | Xu Jingen | Huang Shiyuan | Lose | B+R | 6.5 | 2902 | 0 | 
-| 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 |  | Huang Shiyuan | Win | W+R | 6.5 | 2902 | 114 | 
+| 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 | Lin Yuting | Huang Shiyuan | Win | W+R | 6.5 | 2902 | 114 | 
 | 2020-07-16 | 第1期名人冠軍戦1回戦 | Huang Shiyuan | Lin Junyan | Lose | W+R | 6.5 | 2788 | 37 | 
 | 2020-06-15 | 2020新人王戦（台湾）リーグB | Lin Shimin | Huang Shiyuan | Lose | B+R | 7.5 | 2751 | -7 | 
 | 2020-06-11 | 2020新人王戦（台湾）リーグB | Huang Shiyuan | Li Wei | Lose | W+R | 7.5 | 2758 | 0 | 
@@ -55,7 +57,7 @@
 | 2020-06-08 | 2020新人王戦（台湾）リーグB | Huang Shiyuan | Lai Junfu | Lose | W+R | 7.5 | 2745 | 0 | 
 | 2020-06-08 | 2020新人王戦（台湾）リーグB | Yu Lijun | Huang Shiyuan | Win | W+R | 7.5 | 2745 | -10 | 
 | 2020-06-04 | 2020新人王戦（台湾）リーグB |  | Huang Shiyuan | Win | W+R | 7.5 | 2755 | 0 | 
-| 2020-06-04 | 2020新人王戦（台湾）リーグB | Huang Shiyuan |  | Win | B+T | 7.5 | 2755 | 14 | 
+| 2020-06-04 | 2020新人王戦（台湾）リーグB | Huang Shiyuan | Yang Zixuan | Win | B+T | 7.5 | 2755 | 14 | 
 | 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Lin Shixun | Huang Shiyuan | Lose | B+2.5 | 6.5 | 2741 | -12 | 
 | 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Dai Jiashen | Huang Shiyuan | Win | W+R | 6.5 | 2753 | 10 | 
 | 2020-05-15 | 第1期聯電杯プロ囲碁戦予選 | Huang Shiyuan | Lin Xiuping | Win | B+R | 6.5 | 2743 | 179 | 
@@ -71,8 +73,8 @@
 | 2020-02-24 | 第12回海峰杯プロ囲碁戦32強戦 | Huang Shiyuan | Chen Qirui | Lose | W+R | 6.5 | 2604 | 21 | 
 | 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 |  | Huang Shiyuan | Win | W+R | 6.5 | 2583 | 1 | 
 | 2020-02-19 | 第25回LG杯台湾代表選抜戦 |  | Huang Shiyuan | Lose | B+R | 6.5 | 2582 | 0 | 
-| 2020-02-19 | 第25回LG杯台湾代表選抜戦 |  | Huang Shiyuan | Win | W+R | 6.5 | 2582 | -161 | 
-| 2020-02-13 | 第1期名人冠軍戦予選勝部決勝 | Huang Shiyuan |  | Win | B+R | 6.5 | 2743 | -87 | 
+| 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Liu Yifang | Huang Shiyuan | Win | W+R | 6.5 | 2582 | -161 | 
+| 2020-02-13 | 第1期名人冠軍戦予選勝部決勝 | Huang Shiyuan | Bai Xinhui | Win | B+R | 6.5 | 2743 | -87 | 
 | 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Lin Jiehan | Huang Shiyuan | Win | W+R | 6.5 | 2830 | 13 | 
 | 2020-02-05 | 第17期倡棋杯台湾代表選抜戦 | Huang Shiyuan | Xu Haohong | Lose | W+R | 7.5 | 2817 | -3 | 
 | 2020-02-04 | 第19期天元戦（台湾）予選 | Huang Shiyuan | Chen Xi | Lose | W+2.5 | 6.5 | 2820 | -50 | 
@@ -91,7 +93,7 @@
 | 2019-11-08 | 2019新人王戦（台湾）リーグB | Lai Junfu | Huang Shiyuan | Win | W+1¼ | 7.5 | 2536 | 36 | 
 | 2019-11-06 | 2019新人王戦（台湾）リーグB | Huang Shiyuan | Xu Jingen | Lose | W+R | 7.5 | 2500 | 0 | 
 | 2019-11-06 | 2019新人王戦（台湾）リーグB | Lin Shimin | Huang Shiyuan | Win | W+R | 7.5 | 2500 | -10 | 
-| 2019-10-25 | 2019新人王戦（台湾）リーグB | Huang Shiyuan |  | Lose | W+1¼ | 7.5 | 2510 | 0 | 
+| 2019-10-25 | 2019新人王戦（台湾）リーグB | Huang Shiyuan | Yang Zixuan | Lose | W+1¼ | 7.5 | 2510 | 0 | 
 | 2019-10-25 | 2019新人王戦（台湾）リーグB | Chen Qirui | Huang Shiyuan | Win | W+R | 7.5 | 2510 | 48 | 
 | 2019-10-23 | 2019新人王戦（台湾）リーグB | Huang Shiyuan | Lin Shixun | Lose | W+R | 7.5 | 2462 | 0 | 
 | 2019-10-23 | 2019新人王戦（台湾）リーグB |  | Huang Shiyuan | Win | W+R | 7.5 | 2462 | 0 | 
@@ -150,14 +152,14 @@
 | 2018-02-07 | 第12回春蘭杯台湾予選 | Huang Shiyuan | Lin Lixiang | Win | B+5 | 7.5 | 2645 | 60 | 
 | 2018-02-06 | 第12回春蘭杯台湾予選 | Lai Junfu | Huang Shiyuan | Win | W+R | 7.5 | 2585 | 0 | 
 | 2018-02-06 | 第12回春蘭杯台湾予選 |  | Huang Shiyuan | Win | W+3 | 7.5 | 2585 | 56 | 
-| 2018-01-25 | 第23回LG杯台湾代表選抜戦予選第一局 |  | Huang Shiyuan | Lose | B+R | 6.5 | 2529 | -26 | 
+| 2018-01-25 | 第23回LG杯台湾代表選抜戦予選第一局 | Yang Zixuan | Huang Shiyuan | Lose | B+R | 6.5 | 2529 | -26 | 
 | 2018-01-23 | 2018台湾精鋭vs日本精鋭交流戦第5戦 | Huang Shiyuan | Seki Kotaro | Lose | W+R | 6.5 | 2555 | -43 | 
 | 2018-01-20 | 2018台湾精鋭vs日本精鋭交流戦第1戦 | Huang Shiyuan | Kibe Natsuki | Win | B+R | 6.5 | 2598 | -7 | 
 | 2018-01-16 | 第十七回天元戦予選第三回戦 |  | Huang Shiyuan | Lose | B+R | 6.5 | 2605 | -54 | 
 | 2018-01-09 | 第十七回天元戦予選第二回戦 | Zhang Zhengping | Huang Shiyuan | Win | W+2.5 | 6.5 | 2659 | -52 | 
 | 2017-12-14 | 2017年関西棋院VS台湾棋院交流戦第3戦 | Huang Shiyuan | Arai Miyu | Win | B+R | 6.5 | 2711 | 37 | 
 | 2017-11-27 | 第3期未来の星新鋭最強戦台湾予選 | Huang Shiyuan |  | Lose | W+2.5 | 6.5 | 2674 | 24 | 
-| 2017-11-24 | 第3期未来の星新鋭最強戦台湾予選 | Huang Shiyuan |  | Win | B+R | 6.5 | 2650 | 13 | 
+| 2017-11-24 | 第3期未来の星新鋭最強戦台湾予選 | Huang Shiyuan | Yang Zixuan | Win | B+R | 6.5 | 2650 | 13 | 
 | 2017-11-23 | 第3期未来の星新鋭最強戦台湾予選 | Huang Shiyuan |  | Win | B+R | 6.5 | 2637 | 24 | 
 | 2017-09-19 | 第13期国手戦（台湾）第二回戦 | Zhao Peizhe | Huang Shiyuan | Win | W+R | 6.5 | 2613 | 34 | 
 | 2017-09-05 | 第13期国手戦（台湾）首輪上半区 | Lin Shixun | Huang Shiyuan | Win | W+0.5(W+0.5) | 6.5 | 2579 | 71 | 

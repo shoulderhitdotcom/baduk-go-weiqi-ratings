@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-13 | 第12期中国竜星戦Bブロック1回戦 | Jin Yucheng | Chen Haoxin | Lose | W+R | 7.5 | 3470 | -71 | 
 | 2021-09-03 | 第12期中国竜星戦予選 | Wang Xinghao | Jin Yucheng | Win | W+R | 7.5 | 3541 | 54 | 
 | 2021-09-01 | 第12期中国竜星戦予選 | Jin Yucheng | Zheng Zaixiang | Win | B+R | 7.5 | 3487 | 28 | 
 | 2021-08-30 | 第12期中国竜星戦予選 | Li Zerui | Jin Yucheng | Win | W+R | 7.5 | 3459 | 54 | 

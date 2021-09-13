@@ -7,13 +7,15 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-13 | 第14期棋王戦（台湾）予選 |  | Chen Feng | Win | W+1.5 | 6.5 | 2738 | -41 | 
+| 2021-09-09 | 第14期棋王戦（台湾）予選 | Bai Xinhui | Chen Feng | Lose | B+R | 6.5 | 2779 | -9 | 
 | 2021-09-06 | 第14期棋王戦（台湾）予選 | Zhang Kaixin | Chen Feng | Win | W+5.5 | 6.5 | 2788 | -7 | 
 | 2021-09-02 | 第14期棋王戦（台湾）予選 | Lin Shixun | Chen Feng | Lose | B+R | 6.5 | 2795 | 10 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 | Zhang Kaixin | Chen Feng | Win | W+R | 6.5 | 2785 | -16 | 
 | 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Lin Shuyang | Chen Feng | Lose | B+R | 6.5 | 2801 | 32 | 
-| 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 |  | Chen Feng | Win | W+R | 6.5 | 2769 | 30 | 
+| 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Yang Zixuan | Chen Feng | Win | W+R | 6.5 | 2769 | 30 | 
 | 2021-04-16 | 第17期国手戦（台湾）8強戦 | Chen Feng | Lin Lixiang | Lose | W+3.5 | 6.5 | 2739 | -34 | 
-| 2021-04-12 | 第11期友士杯十段戦予選 | Chen Feng |  | Lose | W+2.5 | 6.5 | 2773 | -47 | 
+| 2021-04-12 | 第11期友士杯十段戦予選 | Chen Feng | Yang Zixuan | Lose | W+2.5 | 6.5 | 2773 | -47 | 
 | 2021-04-09 | 第17期国手戦（台湾）16強戦 | Chen Feng | Chen Qirui | Win | B+R | 6.5 | 2820 | 69 | 
 | 2021-04-02 | 第17期国手戦（台湾） |  | Chen Feng | Win | W+3.5 | 6.5 | 2751 | 31 | 
 | 2021-04-01 | 第11期友士杯十段戦予選 | Zhang Kaixin | Chen Feng | Lose | B+0.5 | 6.5 | 2720 | 0 | 
@@ -55,7 +57,7 @@
 | 2019-04-08 | 第9期友士杯十段戦予選勝部1回戦 | Chen Feng |  | Win | B+R | 6.5 | missing | -2379 | 
 | 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 |  | Chen Feng | Lose | B+R | 6.5 | 2379 | -225 | 
 | 2018-03-20 | 第十六回天元戦複戦敗部第三回戦 | Yang Bowei | Chen Feng | Lose | B+R | 6.5 | 2604 | -20 | 
-| 2018-03-15 | 第十六回天元戦複戦敗部第二回戦補戦 | Chen Feng |  | Win | B+R | 6.5 | 2624 | 16 | 
+| 2018-03-15 | 第十六回天元戦複戦敗部第二回戦補戦 | Chen Feng | Yang Zixuan | Win | B+R | 6.5 | 2624 | 16 | 
 | 2018-03-08 | 第10回海峰杯プロ囲碁戦32強戦 | Hei Jiajia | Chen Feng | Lose | B+3.5 | 6.5 | 2608 | -53 | 
 | 2018-03-06 | 第十七回天元戦複戦敗部第一回戦 | Chen Feng | Lin Ziyuan | Win | B+R | 6.5 | 2661 | 10 | 
 | 2018-03-01 | 第10回海峰杯プロ囲碁戦64強戦 | Chen Feng | Liu Yaowen | Win | B+0.5 | 6.5 | 2651 | 78 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-13 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第2ラウンド | Yu Bin | Kobayashi Satoru | Lose | B+R | 7.5 | 2669 | -98 | 
 | 2021-08-09 | 第47期名人戦予選 | Kobayashi Satoru | Mizokami Tomochika | Lose | W+R | 6.5 | 2767 | 5 | 
 | 2021-08-02 | 第46期棋聖戦Cリーグ | Kobayashi Satoru |  | Lose | W+5.5 | 6.5 | 2762 | 14 | 
 | 2021-07-08 | 第47期名人戦予選 | Ito Masashi | Kobayashi Satoru | Win | W+9.5 | 6.5 | 2748 | -69 | 

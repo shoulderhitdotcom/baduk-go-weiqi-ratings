@@ -5,401 +5,403 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-03 | 第70期王座戦予選 |  | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2021-05-24 | 第47期名人戦予選 | Kataoka Satoshi | Kobayashi Koichi | Lose | B+3.5 | 6.5 | 
-| 2021-05-06 | 第47期名人戦予選 | Takano Hideki | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2021-04-29 | 第77期本因坊戦予選  | Kobayashi Koichi | Cho U | Lose | W+1.5 | 6.5 | 
-| 2021-04-19 | 第47期碁聖戦予選 | Chino Tadahiko | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2021-04-12 | 第47期名人戦予選 | Kobayashi Koichi | Aoki Shinichi | Win | B+R | 6.5 | 
-| 2021-04-05 | 第77期本因坊戦予選 | Mukai Chiaki | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2021-02-18 | 第60期十段戦予選 | Ishigure Ikuro | Kobayashi Koichi | Lose | B+1.5 | 6.5 | 
-| 2021-02-11 | 第46期棋聖戦予選 | Lee Ishu | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2021-01-23 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第2ラウンド  | Kobayashi Koichi | Nie Weiping | Lose | W+4.5 | 6.5 | 
-| 2021-01-22 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第2ラウンド  | Kobayashi Koichi | Cho Hunhyun | Lose | W+1.5 | 6.5 | 
-| 2021-01-17 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第1ラウンド  | Lee Changho | Kobayashi Koichi | Lose | B+8.5 | 6.5 | 
-| 2021-01-16 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第1ラウンド  | Chang Hao | Kobayashi Koichi | Lose | B+13.5 | 6.5 | 
-| 2020-12-03 | 第47期天元戦予選 | Onishi Kenya | Kobayashi Koichi | Lose | B+8.5 | 6.5 | 
-| 2020-11-26 | 第77期本因坊戦予選 | Kobayashi Koichi |  | Win | B+R | 6.5 | 
-| 2020-11-12 | 第77期本因坊戦予選 | Kobayashi Koichi | Kobayashi Chizu | Win | B+4.5 | 6.5 | 
-| 2020-11-09 | 第69期王座戦予選 | Kobayashi Koichi | Suzuki Ayumi | Lose | W+4.5 | 6.5 | 
-| 2020-10-22 | 第47期天元戦予選 | Kobayashi Koichi | Takanashi Seiken | Win | B+2.5 | 6.5 | 
-| 2020-10-05 | 第45期棋聖戦Cリーグ | Kobayashi Koichi | Kobayashi Satoru | Lose | W+4.5 | 6.5 | 
-| 2020-09-03 | 第45期棋聖戦Cリーグ | Kubo Hideo | Kobayashi Koichi | Win | W+7.5 | 6.5 | 
-| 2020-08-20 | 第45期棋聖戦Cリーグ | Kobayashi Koichi | Ishida Atsushi | Win | B+R | 6.5 | 
-| 2020-06-18 | 第45期棋聖戦Cリーグ | Kobayashi Koichi | Hikosaka Naoto | Lose | W+5.5 | 6.5 | 
-| 2020-03-26 | 第45期棋聖戦Cリーグ | Kobayashi Koichi | Nakano Hironari | Lose | W+4.5 | 6.5 | 
-| 2020-02-27 | 第46期碁聖戦予選 | Kobayashi Koichi | Han Zenki | Lose | W+6.5 | 6.5 | 
-| 2020-02-13 | 第45期棋聖戦ファーストトーナメント予選 | Yamada Shinji | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2020-01-23 | 第45期棋聖戦ファーストトーナメント予選 | Kobayashi Koichi | Ishigure Ikuro | Win | B+R | 6.5 | 
-| 2020-01-09 | 第46期天元戦1回戦 | Kobayashi Koichi | Ida Atsushi | Lose | W+5.5 | 6.5 | 
-| 2019-12-19 | 第46期名人戦予選 | Kobayashi Koichi | Shiraishi Yuichi | Lose | W+4.5 | 6.5 | 
-| 2019-12-12 | 第45期棋聖戦ファーストトーナメント予選 | Kobayashi Koichi | Kono Takashi | Win | B+R | 6.5 | 
-| 2019-12-05 | 第45期名人戦予選 | Kurotaki Masanori | Kobayashi Koichi | Win | W+1.5 | 6.5 | 
-| 2019-11-14 | 第45期棋聖戦ファーストトーナメント予選 | Sakai Takeshi | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2019-11-07 | 第59期十段戦予選 | Kobayashi Koichi | Yamada Takuji | Lose | W+6.5 | 6.5 | 
-| 2019-10-31 | 第45期棋聖戦ファーストトーナメント予選 | Kobayashi Koichi | Seki Tatsuya | Win | B+R | 6.5 | 
-| 2019-10-24 | 第46期天元戦予選 | Kataoka Satoshi | Kobayashi Koichi | Win | W+2.5 | 6.5 | 
-| 2019-10-17 | 第68期王座戦予選 | Mitani Tetsuya | Kobayashi Koichi | Lose | B+11.5 | 6.5 | 
-| 2019-10-10 | 第76期本因坊戦予選 | Takanashi Seiken | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2019-09-12 | 第46期天元戦予選 | Kobayashi Koichi | Shuto Shun | Win | B+R | 6.5 | 
-| 2019-06-29 | 第9回フマキラー囲碁マスターズカップ準決勝  | Kobayashi Koichi | Cho Chikun | Lose | W+R | 6.5 | 
-| 2019-06-12 | 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | Rui Naiwei | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | Kobayashi Koichi | Seo Bongsoo | Win | B+0.5 | 6.5 | 
-| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | Kobayashi Koichi | O Rissei | Lose | W+R | 6.5 | 
-| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | O Rissei | Kobayashi Koichi | Lose | B+9.5 | 6.5 | 
-| 2019-06-08 | 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Kobayashi Koichi | Seo Nungwuk | Win | B+R | 6.5 | 
-| 2019-06-06 | 第58期十段戦予選 | Anzai Nobuaki | Kobayashi Koichi | Lose | B+10.5 | 6.5 | 
-| 2019-05-30 | 第9回フマキラー囲碁マスターズカップ2回戦 | Ishida Yoshio | Kobayashi Koichi | Win | W+3.5 | 6.5 | 
-| 2019-05-09 | 第9回フマキラー囲碁マスターズカップ1回戦 | Kataoka Satoshi | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2019-05-02 | 第45期名人戦予選 | Matsumoto Takehisa | Kobayashi Koichi | Lose | B+7.5 | 6.5 | 
-| 2019-03-28 | 第45期名人戦予選 | Takagi Shoichi | Kobayashi Koichi | Win | W+6.5 | 6.5 | 
-| 2019-03-24 | 2019年中日韓囲棋大師招待戦決勝 | Kobayashi Koichi | Nie Weiping | Win | B+R | 7.5 | 
-| 2019-03-23 | 2019年中日韓囲棋大師招待戦準決勝 | Kobayashi Koichi | Ma Xiaochun | Win | B+¾ | 7.5 | 
-| 2019-03-23 | 2019年中日韓囲棋大師招待戦8強戦 | Wang Runan | Kobayashi Koichi | Win | W+R | 7.5 | 
-| 2019-03-14 | 第45期名人戦予選 | Kobayashi Koichi | Kenmochi Joe | Win | B+R | 6.5 | 
-| 2019-01-17 | 第45期碁聖戦予選 | Abe Yumiko | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2018-12-27 | 第44期棋聖戦ファーストトーナメント予選 | Kobayashi Koichi | Kazama Jun | Lose | W+2.5 | 6.5 | 
-| 2018-12-20 | 第75期本因坊戦予選 | Takeuchi Kousuke | Kobayashi Koichi | Lose | B+6.5 | 6.5 | 
-| 2018-12-06 | 第44期棋聖戦ファーストトーナメント予選 | Kobayashi Koichi | Umezawa Yukari | Win | B+R | 6.5 | 
-| 2018-09-20 | 第67期王座戦予選 | Kobayashi Koichi | Nishimura Keiji | Lose | W+0.5 | 6.5 | 
-| 2018-08-23 | 第57期十段戦最終予選決勝 | Takao Shinji | Kobayashi Koichi | Lose | B+7.5 | 7.5 | 
-| 2018-07-24 | 第4回百霊杯世界オープン戦シニア戦1回戦 | Ma Xiaochun | Kobayashi Koichi | Lose | B+1¾ | 7.5 | 
-| 2018-07-05 | 第57期十段戦最終予選 | Han Zenki | Kobayashi Koichi | Win | W+8.5 | 6.5 | 
-| 2018-07-02 | 2018年紹興国際囲棋大師戦決勝 | Nie Weiping | Kobayashi Koichi | Win | W+6.5 | 7.5 | 
-| 2018-07-01 | 2018年紹興国際囲棋大師戦準決勝 | Kobayashi Koichi | Ma Xiaochun | Win | B+2¾ | 7.5 | 
-| 2018-07-01 | 2018年紹興国際囲棋大師戦8強戦 | Kobayashi Koichi | Rin Kaiho | Win | B+R | 7.5 | 
-| 2018-06-28 | 第44期名人戦予選 | Xie Yimin | Kobayashi Koichi | Lose | B+7.5 | 6.5 | 
-| 2018-06-14 | 第44期碁聖戦予選 | Ando Kazushige | Kobayashi Koichi | Lose | B+6.5 | 6.5 | 
-| 2018-06-07 | 第57期十段戦最終予選 | Cho Riyu | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2018-05-03 | 第74期本因坊戦予選 | Kobayashi Koichi | Kono Takashi | Lose | W+8.5 | 6.5 | 
-| 2018-04-12 | 第8回フマキラー囲碁マスターズカップ1回戦 | Awaji Shuzo | Kobayashi Koichi | Lose | B+0.5 | 6.5 | 
-| 2018-03-27 | 第2回中日韓囲碁元老戦1回戦 | Kobayashi Koichi | Nie Weiping | Lose | W+7¼ | 7.5 | 
-| 2018-03-15 | 第74期本因坊戦予選 | Kobayashi Koichi | Morita Michihiro | Win | B+0.5 | 6.5 | 
-| 2018-02-22 | 第57期十段戦予選 | Kataoka Satoshi | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2018-02-08 | 第74期本因坊戦予選 | Ezura Yuichi | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2018-02-01 | 第57期十段戦予選 | Kobayashi Koichi | Kono Mitsuki | Win | B+R | 6.5 | 
-| 2018-01-25 | 第43期棋聖戦ファーストトーナメント予選 | Komatsu Hideki | Kobayashi Koichi | Lose | B+7.5 | 6.5 | 
-| 2018-01-11 | 第44期天元戦1回戦 | Kobayashi Koichi | Mutsuura Yuta | Lose | W+9.5 | 6.5 | 
-| 2017-12-21 | 第66期王座戦予選 | Kobayashi Koichi | Yamashiro Hiroshi | Lose | W+4.5 | 6.5 | 
-| 2017-12-14 | 第43期棋聖戦ファーストトーナメント予選 | Ono Nobuyuki | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2017-12-07 | 第66期王座戦予選 | Kobayashi Koichi | Kono Mitsuki | Win | B+R | 6.5 | 
-| 2017-11-16 | 第43期棋聖戦ファーストトーナメント予選 | Kobayashi Koichi |  | Win | B+2.5 | 6.5 | 
-| 2017-11-09 | 第44期天元戦予選 | Arimura Hiroshi | Kobayashi Koichi | Win | W+7.5 | 6.5 | 
-| 2017-10-26 | 第57期十段戦予選 | Mukai Chiaki | Kobayashi Koichi | Win | W+R | 7.5 | 
-| 2017-09-28 | 第44期天元戦予選 | Lee Ishu | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2017-09-21 | 第57期十段戦　予選C | Kobayashi Koichi | Kamimura Haruo | Win | B+R | 6.5 | 
-| 2017-09-07 | 44期天元戦予選 | Horimoto Mitsunari | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2017-08-24 | 第57期十段戦　予選C | Kato Tomoko | Kobayashi Koichi | Win | W+1.5 | 6.5 | 
-| 2017-07-20 | 第43期名人戦　予選A | Michael Redmond | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2017-05-25 | 第43期名人戦　予選B決勝 | Kobayashi Koichi | Matsumoto Takehisa | Win | B+R | 6.5 | 
-| 2017-04-27 | 第1回中日韓囲碁元老戦決勝 | Kobayashi Koichi | Cao Dayuan | Lose | W+0.5 | 7.5 | 
-| 2017-04-26 | 第1回中日韓囲碁元老戦準決勝 | Yu Bin | Kobayashi Koichi | Win | W+0.5 | 7.5 | 
-| 2017-04-25 | 第1回中日韓囲碁元老戦2回戦 | Kobayashi Koichi | Nie Weiping | Win | B+R | 7.5 | 
-| 2017-04-25 | 第1回中日韓囲碁元老戦1回戦 | Hua Yigang | Kobayashi Koichi | Win | W+R | 7.5 | 
-| 2017-03-02 | 第7回フマキラー囲碁マスターズカップ　本戦1回戦 | Takemiya Masaki | Kobayashi Koichi | Lose | B+1.5 | 6.5 | 
-| 2017-02-06 | 第4回グランドチャンピオン戦　1回戦 | Kobayashi Koichi | Onishi Ryuhei | Lose | W+6.5 | 6.5 | 
-| 2017-01-12 | 第42期棋聖戦　ファーストトーナメント3回戦 | Kobayashi Koichi | Yashiro Kumiko | Lose | W+3.5 | 6.5 | 
-| 2016-12-08 | 第42期棋聖戦　ファーストトーナメント2回戦 | Tsuneishi Takashi | Kobayashi Koichi | Win | W+4.5 | 6.5 | 
-| 2016-12-01 | 第65期王座戦　予選A特選譜第5局 | Ko Iso | Kobayashi Koichi | Lose | B+12.5 | 6.5 | 
-| 2016-11-03 | 第56期十段戦　予選B決勝 | Kobayashi Koichi | Onishi Ryuhei | Lose | W+R | 6.5 | 
-| 2016-10-06 | 第73期本因坊戦予選 | Kanazawa Makoto | Kobayashi Koichi | Lose | B+9.5 | 6.5 | 
-| 2016-09-22 | 第65期王座戦予選 | Hsu Chiayuan | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2016-08-25 | 第65期王座戦　予選B決勝 | Muramatsu Ryuichi | Kobayashi Koichi | Win | W+3.5 | 6.5 | 
-| 2016-08-04 | 第42期碁聖戦予選 | Uchida Shuhei | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2016-07-28 | 第65期王座戦予選 | Kobayashi Koichi | Mukai Chiaki | Win | B+0.5 | 6.5 | 
-| 2016-07-14 | 第42期名人戦予選 | Kobayashi Koichi | Ogaki Yusaku | Lose | W+4.5 | 6.5 | 
-| 2016-07-09 | 第6回フマキラー囲碁マスターズカップ決勝 | Awaji Shuzo | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Kobayashi Koichi | Chen Zhengxun | Lose | W+0.5 | 7.5 | 
-| 2016-06-25 | 第6回フマキラー囲碁マスターズカップ準決勝 | Kobayashi Koichi | Kobayashi Satoru | Win | B+3.5 | 6.5 | 
-| 2016-06-16 | 第42期名人戦予選 | Kobayashi Koichi | Iguchi Hideichiro | Win | B+R | 6.5 | 
-| 2016-06-02 | 第42期名人戦予選 | Kobayashi Koichi | Yamada Takuji | Win | B+R | 6.5 | 
-| 2016-05-26 | 第55期十段戦予選 | Kobayashi Koichi | Ko Mosei | Lose | W+5.5 | 6.5 | 
-| 2016-05-19 | 第65期王座戦予選 | Hashimoto Yujiro | Kobayashi Koichi | Win | W+4.5 | 6.5 | 
-| 2016-05-12 | 第42期名人戦予選 | Horimoto Mitsunari | Kobayashi Koichi | Win | W+0.5 | 6.5 | 
-| 2016-04-28 | 第6回フマキラー囲碁マスターズカップ2回戦 | Otake Hideo | Kobayashi Koichi | Win | W+2.5 | 6.5 | 
-| 2016-04-21 | 第42期名人戦予選 | Sato Masaharu | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2016-04-07 | 第6回フマキラー囲碁マスターズカップ1回戦 | O Rissei | Kobayashi Koichi | Win | W+0.5 | 6.5 | 
-| 2016-03-31 | 第42期碁聖戦予選 | Ko Iso | Kobayashi Koichi | Win | W+1.5 | 6.5 | 
-| 2016-03-10 | 第65期王座戦予選 | Kobayashi Koichi | Inaba Takahiro | Win | B+R | 6.5 | 
-| 2016-02-11 | 第72期本因坊戦予選 | Kobayashi Koichi | Tajiri Yuto | Lose | W+10.5 | 6.5 | 
-| 2016-02-04 | 第42期碁聖戦予選 | Kobayashi Koichi | Yokotsuka Riki | Win | B+0.5 | 6.5 | 
-| 2016-01-07 | 第41期棋聖戦予選 | Onishi Ryuhei | Kobayashi Koichi | Lose | B+6.5 | 6.5 | 
-| 2015-11-26 | 第41期棋聖戦予選 | Hoshiai Shiho | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2015-11-12 | 第72期本因坊戦予選 | Kobayashi Koichi | Mitsunaga Junzo | Win | B+R | 6.5 | 
-| 2015-10-22 | 第42期天元戦予選 | Kobayashi Koichi | Hsu Chiayuan | Lose | W+7.5 | 6.5 | 
-| 2015-09-24 | 第42期天元戦予選 | Kobayashi Koichi | Hashimoto Yujiro | Win | B+5.5 | 6.5 | 
-| 2015-08-06 | 第64期王座戦予選 | Kobayashi Koichi | Lee Ishu | Lose | W+3.5 | 6.5 | 
-| 2015-07-30 | 第42期天元戦予選 | Kobayashi Koichi | Izumitani Hideo | Win | B+9.5 | 6.5 | 
-| 2015-07-02 | 第54期十段戦予選 | Yuki Satoshi | Kobayashi Koichi | Lose | B+0.5 | 6.5 | 
-| 2015-06-25 | 第41期碁聖戦予選 | Kamimura Haruo | Kobayashi Koichi | Lose | B+2.5 | 6.5 | 
-| 2015-06-18 | 第64期王座戦予選 | Kobayashi Koichi | Ando Kazushige | Win | B+0.5 | 6.5 | 
-| 2015-06-11 | 第41期碁聖戦予選 | Mimura Tomoyasu | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2015-05-14 | 第71期本因坊戦予選 | Kobayashi Koichi | Yamada Takuji | Lose | W+0.5 | 6.5 | 
-| 2015-04-09 | 第41期碁聖戦予選 | Muramatsu Ryuichi | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2015-03-26 | 第5回フマキラー囲碁マスターズカップ1回戦 | Hikosaka Naoto | Kobayashi Koichi | Lose | B+1.5 | 6.5 | 
-| 2015-01-29 | 第41期碁聖戦予選 | Kobayashi Koichi | Shibusawa Machiko | Win | B+R | 6.5 | 
-| 2015-01-22 | 第40期棋聖戦予選 | Kobayashi Koichi | Uchida Shuhei | Lose | W+2.5 | 6.5 | 
-| 2014-11-27 | 第41期名人戦予選 | Kobayashi Koichi | Chinen Kaori | Lose | W+1.5 | 6.5 | 
-| 2014-10-23 | 第63期王座戦予選 | Kobayashi Koichi | Yo Kaei | Lose | W+3.5 | 6.5 | 
-| 2014-10-16 | 第53期十段戦1回戦 | Kobayashi Koichi | Rin Shien | Lose | W+R | 6.5 | 
-| 2014-10-02 | 第41期天元戦予選 | Kobayashi Koichi | Kataoka Satoshi | Lose | W+R | 6.5 | 
-| 2014-09-11 | 第21期阿含・桐山杯全日本早碁オープン戦準決勝 | Iyama Yuta | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2014-09-04 | 第53期十段戦予選 | O Meien | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2014-08-28 | 第21期阿含・桐山杯全日本早碁オープン戦2回戦 | Kobayashi Koichi | Cho U | Win | B+3.5 | 6.5 | 
-| 2014-07-31 | 第53期十段戦予選 | Muramatsu Hiroki | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2014-07-24 | 第21期阿含・桐山杯全日本早碁オープン戦1回戦 | Kobayashi Koichi | Yu Zhengqi | Win | B+R | 6.5 | 
-| 2014-06-21 | 第4回フマキラー囲碁マスターズカップ準決勝 | Kobayashi Satoru | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2014-06-12 | 第21期阿含・桐山杯全日本早碁オープン戦予選 | Kobayashi Koichi | Kobayashi Satoru | Win | B+R | 6.5 | 
-| 2014-05-22 | 第40期名人戦予選 | Koyama Kuya | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2014-05-15 | 第53期十段戦予選 | Terayama Rei | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2014-05-08 | 第4回フマキラー囲碁マスターズカップ2回戦 | Yamashiro Hiroshi | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2014-05-01 | 第40期碁聖戦予選 | Kobayashi Koichi | Iguchi Hideichiro | Lose | W+R | 6.5 | 
-| 2014-04-17 | 第70期本因坊戦予選 | Terayama Rei | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2014-04-03 | 第53期十段戦予選 | Ko Reibun | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2014-03-27 | 第70期本因坊戦予選 | Obuchi Kotaro | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2014-03-20 | 第4回フマキラー囲碁マスターズカップ1回戦 | O Meien | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2014-01-16 | 第70期本因坊戦予選 | Kobayashi Koichi | Hashimoto Yujiro | Win | B+1.5 | 6.5 | 
-| 2014-01-09 | 第40期天元戦予選 | O Rissei | Kobayashi Koichi | Lose | B+10.5 | 6.5 | 
-| 2013-12-18 | 第62期王座戦予選 | Awaji Shuzo | Kobayashi Koichi | Lose | B+1.5 | 6.5 | 
-| 2013-11-21 | 第40期天元戦予選 | Aoki Shinichi | Kobayashi Koichi | Win | W+4.5 | 6.5 | 
-| 2013-11-07 | 第39期棋聖戦予選 | Cho Riyu | Kobayashi Koichi | Lose | B+1.5 | 6.5 | 
-| 2013-10-24 | 第62期王座戦予選 | Shiraishi Yuichi | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2013-08-22 | 第39期碁聖戦予選 | Kobayashi Koichi | Yao Zhiteng | Lose | W+0.5 | 6.5 | 
-| 2013-06-20 | 第39期名人戦予選 | Kobayashi Koichi | Nakaonoda Tomomi | Lose | W+3.5 | 6.5 | 
-| 2013-05-13 | 第3回エステー＆フマキラー囲碁マスターズカップ2回戦 | Yamashiro Hiroshi | Kobayashi Koichi | Lose | B+4.5 | 6.5 | 
-| 2013-05-02 | 第52期十段戦予選 |  | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2013-04-11 | 第69期本因坊戦予選 | Kobayashi Koichi | Mochizuki Kenichi | Lose | W+3.5 | 6.5 | 
-| 2013-04-04 | 第52期十段戦予選 | Kobayashi Koichi | Ito Masashi | Win | B+R | 6.5 | 
-| 2013-03-14 | 第3回エステー＆フマキラー囲碁マスターズカップ1回戦 | O Rissei | Kobayashi Koichi | Win | W+0.5 | 6.5 | 
-| 2013-02-14 | 第39期天元戦本戦1回戦 | Kobayashi Koichi | Yu Zhengqi | Lose | W+R | 6.5 | 
-| 2013-01-10 | 第39期天元戦本戦0回戦 | Kato Atsushi | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2012-12-20 | 第38期棋聖戦予選 | Ishida Yoshio | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2012-12-13 | 第61期王座戦予選 | Rin Shien | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2012-12-06 | 第39期天元戦予選 | Tsuruyama Atsushi | Kobayashi Koichi | Win | W+3.5 | 6.5 | 
-| 2012-11-29 | 第38期棋聖戦予選 | Kobayashi Koichi | Ogaki Yusaku | Win | B+R | 6.5 | 
-| 2012-11-22 | 第39期天元戦予選 | Kobayashi Koichi | Nakamura Hidehito | Win | B+R | 6.5 | 
-| 2012-10-25 | 第38期碁聖戦予選 | Kobayashi Satoru | Kobayashi Koichi | Lose | B+0.5 | 6.5 | 
-| 2012-10-04 | 第61期王座戦予選 | Obuchi Morito | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2012-09-13 | 第38期碁聖戦予選 | Kobayashi Koichi | Tsuneishi Takashi | Win | B+1.5 | 6.5 | 
-| 2012-07-09 | 第8回大和証券杯ネット囲碁オープン予選 | Suzuki Ayumi | Kobayashi Koichi | Lose | B+2.5 | 6.5 | 
-| 2012-06-28 | 第68期本因坊戦予選 | Kobayashi Koichi | Nakamura Shinya | Lose | W+R | 6.5 | 
-| 2012-06-14 | 第19期阿含・桐山杯全日本早碁オープン戦予選 | Kobayashi Koichi | Seto Taiki | Lose | W+11.5 | 6.5 | 
-| 2012-05-10 | 第2回エステー＆フマキラー囲碁マスターズカップ2回戦 | Kudo Norio | Kobayashi Koichi | Lose | B+29.5 | 6.5 | 
-| 2012-05-03 | 第68期本因坊戦予選 | Kobayashi Koichi | Kataoka Satoshi | Win | B+0.5 | 6.5 | 
-| 2012-04-26 | 第38期名人戦予選 | Kobayashi Koichi | O Rissei | Lose | W+2.5 | 6.5 | 
-| 2012-04-19 | 第51期十段戦予選 | Kim Sujun | Kobayashi Koichi | Lose | B+9.5 | 6.5 | 
-| 2012-03-15 | 第2回エステー＆フマキラー囲碁マスターズカップ1回戦 | O Rissei | Kobayashi Koichi | Win | W+0.5 | 6.5 | 
-| 2012-03-08 | 第68期本因坊戦予選 | Kobayashi Koichi | Takanashi Seiken | Win | B+2.5 | 6.5 | 
-| 2012-02-02 | 第37期棋聖戦予選 | Kobayashi Koichi | Tsuruyama Atsushi | Lose | W+8.5 | 6.5 | 
-| 2011-12-22 | 第38期天元戦本戦1回戦 | Sakai Hideyuki | Kobayashi Koichi | Lose | B+5.5 | 6.5 | 
-| 2011-10-29 | 第7回大和証券杯ネット囲碁オープン1回戦 | Kobayashi Koichi | Kim Sujun | Lose | W+R | 6.5 | 
-| 2011-10-27 | 第38期天元戦予選 | Shimosaka Miori | Kobayashi Koichi | Win | W+8.5 | 6.5 | 
-| 2011-10-13 | 第37期碁聖戦予選 | Morita Michihiro | Kobayashi Koichi | Lose | B+5.5 | 6.5 | 
-| 2011-09-29 | 第36期棋聖戦Bリーグ | Yamashiro Hiroshi | Kobayashi Koichi | Lose | B+3.5 | 6.5 | 
-| 2011-09-08 | 第37期碁聖戦予選 | Kobayashi Koichi | Kato Atsushi | Win | B+R | 6.5 | 
-| 2011-09-01 | 第38期天元戦予選 | Han Zenki | Kobayashi Koichi | Win | W+0.5 | 6.5 | 
-| 2011-08-04 | 第36期棋聖戦Bリーグ | Kobayashi Koichi | Yoda Norimoto | Lose | W+R | 6.5 | 
-| 2011-07-28 | 第60期王座戦予選 | Kobayashi Koichi | O Meien | Lose | W+4.5 | 6.5 | 
-| 2011-07-23 | 第1回エステー＆フマキラー囲碁マスターズカップ決勝 | Kobayashi Koichi | Cho Chikun | Lose | W+1.5 | 6.5 | 
-| 2011-07-14 | 第36期棋聖戦Bリーグ | Kobayashi Koichi | Takao Shinji | Lose | W+4.5 | 6.5 | 
-| 2011-06-25 | 第1回エステー＆フマキラー囲碁マスターズカップ準決勝 | Ishida Yoshio | Kobayashi Koichi | Win | W+4.5 | 6.5 | 
-| 2011-06-16 | 第37期名人戦予選 | Kobayashi Koichi | Mimura Tomoyasu | Lose | W+0.5 | 6.5 | 
-| 2011-06-09 | 第36期棋聖戦Bリーグ | Ryu Shikun | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2011-05-19 | 第36期棋聖戦Bリーグ | Kobayashi Koichi | Akiyama Jiro | Lose | W+1.5 | 6.5 | 
-| 2011-04-07 | 第50期十段戦予選 | Kobayashi Koichi | Kato Atsushi | Lose | W+R | 6.5 | 
-| 2011-03-31 | 第67期本因坊戦予選 | Matsumoto Takehisa | Kobayashi Koichi | Lose | B+0.5 | 6.5 | 
-| 2011-03-24 | 第1回エステー＆フマキラー囲碁マスターズカップ2回戦 | Rin Kaiho | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2011-02-24 | 第36期棋聖戦予選 | Kobayashi Koichi | Iguchi Hideichiro | Win | B+R | 6.5 | 
-| 2011-02-17 | 第50期十段戦予選 | Kobayashi Koichi | Xie Yimin | Win | B+R | 6.5 | 
-| 2011-02-03 | 第67期本因坊戦予選 | Nagahara Yoshiaki | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2011-01-27 | 第50期十段戦予選 | Ishikura Noboru | Kobayashi Koichi | Win | W+2.5 | 6.5 | 
-| 2011-01-24 | 第4期幽玄杯精鋭リーグ戦 | Fujisawa Rina | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2011-01-20 | 第36期棋聖戦予選 | O Meien | Kobayashi Koichi | Win | W+0.5 | 6.5 | 
-| 2010-12-16 | 第36期棋聖戦予選 | Kobayashi Koichi | Honda Kunihisa | Win | B+R | 6.5 | 
-| 2010-11-25 | 第59期王座戦予選 | Kobayashi Koichi | Sakai Takeshi | Lose | W+5.5 | 6.5 | 
-| 2010-11-18 | 第36期棋聖戦予選 | Kobayashi Koichi | Yo Kagen | Win | B+5.5 | 6.5 | 
-| 2010-11-11 | 第37期天元戦予選 | O Meien | Kobayashi Koichi | Lose | B+5.5 | 6.5 | 
-| 2010-11-04 | 第59期王座戦予選 | Rin Kaiho | Kobayashi Koichi | Win | W+4.5 | 6.5 | 
-| 2010-10-21 | 第36期棋聖戦予選 | Hoshino Masaki | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2010-10-07 | 第36期碁聖戦予選 | Cho Chikun | Kobayashi Koichi | Lose | B+3.5 | 6.5 | 
-| 2010-09-30 | 第37期天元戦予選 | Kobayashi Koichi | Yo Kaei | Win | B+R | 6.5 | 
-| 2010-08-26 | 第59期王座戦予選 | Mitsunaga Junzo | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2010-08-05 | 第36期碁聖戦予選 | Ryu Shikun | Kobayashi Koichi | Win | W+7.5 | 6.5 | 
-| 2010-08-02 | 第4期幽玄杯精鋭リーグ戦 | Sun Zhe | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2010-06-26 | 第6回大和証券杯ネット囲碁オープン1回戦 | Yoda Norimoto | Kobayashi Koichi | Lose | B+4.5 | 6.5 | 
-| 2010-06-17 | 第36期名人戦予選 | Kobayashi Koichi | Mimura Tomoyasu | Lose | W+R | 6.5 | 
-| 2010-05-13 | 第36期名人戦予選 | Kobayashi Koichi | Ishigure Ikuro | Win | B+5.5 | 6.5 | 
-| 2010-04-01 | 第66期本因坊戦予選 | Kobayashi Koichi | Komatsu Hideki | Lose | W+5.5 | 6.5 | 
-| 2010-03-18 | 第49期十段戦予選 | Kobayashi Koichi | Nakamura Shinya | Lose | W+4.5 | 6.5 | 
-| 2010-02-18 | 第49期十段戦予選 | Ryu Shikun | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2010-02-04 | 第66期本因坊戦予選 | Horimoto Mitsunari | Kobayashi Koichi | Win | W+7.5 | 6.5 | 
-| 2010-01-28 | 第36期天元戦本戦1回戦 | Ryu Shikun | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2009-12-17 | 第49期十段戦予選 | Miyazawa Goro | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2009-12-03 | 第58期王座戦予選 | Kobayashi Koichi | Mitani Tetsuya | Lose | W+4.5 | 6.5 | 
-| 2009-11-26 | 第36期天元戦予選 | Ko Iso | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2009-11-12 | 第58期王座戦予選 | Hoshino Masaki | Kobayashi Koichi | Win | W+2.5 | 6.5 | 
-| 2009-11-05 | 第35期棋聖戦予選 | Kobayashi Koichi | Ko Reibun | Lose | W+15.5 | 6.5 | 
-| 2009-10-22 | 第58期王座戦予選 | Ando Kazushige | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2009-10-15 | 第35期棋聖戦予選 | Kobayashi Koichi | So Kofuku | Win | B+R | 6.5 | 
-| 2009-10-08 | 第35期名人戦予選 | Yamashita Keigo | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2009-10-03 | 第5回大和証券杯ネット囲碁オープン3回戦 | Kobayashi Koichi | Takao Shinji | Lose | W+R | 6.5 | 
-| 2009-10-01 | 第35期碁聖戦予選 | Kobayashi Koichi | Mizokami Tomochika | Lose | W+3.5 | 6.5 | 
-| 2009-09-17 | 第35期棋聖戦予選 | Kurotaki Masanori | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2009-09-03 | 第36期天元戦予選 | Xie Yimin | Kobayashi Koichi | Win | W+0.5 | 6.5 | 
-| 2009-08-29 | 第5回大和証券杯ネット囲碁オープン2回戦 | Kobayashi Koichi | Kato Atsushi | Win | B+R | 6.5 | 
-| 2009-08-27 | 第35期名人戦予選 | Komatsu Hideki | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2009-08-20 | 第35期棋聖戦予選 | Kobayashi Koichi | Hara Sachiko | Win | B+R | 6.5 | 
-| 2009-08-06 | 第35期名人戦予選 | Fujii Shuya | Kobayashi Koichi | Win | W+3.5 | 6.5 | 
-| 2009-07-23 | 第35期碁聖戦予選 | Kobayashi Koichi | Komatsu Hideki | Win | B+2.5 | 6.5 | 
-| 2009-06-25 | 第35期名人戦予選 | Kobayashi Koichi | Ogaki Yusaku | Win | B+0.5 | 6.5 | 
-| 2009-05-21 | 第65期本因坊戦予選 | Takemiya Masaki | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2009-04-30 | 第65期本因坊戦予選 | Ogaki Yusaku | Kobayashi Koichi | Win | W+7.5 | 6.5 | 
-| 2009-04-23 | 第35期名人戦予選 | Kobayashi Koichi | Fukui Masaaki | Win | B+R | 6.5 | 
-| 2009-03-12 | 第65期本因坊戦予選 | Kobayashi Koichi | Obuchi Morito | Win | B+11.5 | 6.5 | 
-| 2009-02-19 | 第65期本因坊戦予選 | Kobayashi Koichi | Ando Kazushige | Win | B+R | 6.5 | 
-| 2009-01-29 | 第48期十段戦予選 | Takano Hideki | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2009-01-26 | 第2期幽玄杯精鋭リーグ戦 | Kobayashi Koichi | Ohashi Naruya | Lose | W+0.5 | 6.5 | 
-| 2008-12-20 | 第4回大和証券杯ネット囲碁オープン決勝 | Kono Rin | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2008-12-11 | 第48期十段戦予選 | Ando Kazushige | Kobayashi Koichi | Win | W+2.5 | 6.5 | 
-| 2008-12-01 | 第2期幽玄杯精鋭リーグ戦 | Yanagisawa Satoshi | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2008-11-22 | 第4回大和証券杯ネット囲碁オープン準決勝 | Shuto Shun | Kobayashi Koichi | Win | W+4.5 | 6.5 | 
-| 2008-11-20 | 第35期天元戦予選 | O Meien | Kobayashi Koichi | Lose | B+1.5 | 6.5 | 
-| 2008-10-25 | 第4回大和証券杯ネット囲碁オープン3回戦 | Komatsu Hideki | Kobayashi Koichi | Win | W+4.5 | 6.5 | 
-| 2008-10-02 | 第34期碁聖戦予選 | Kobayashi Koichi | Yasuda Yasutoshi | Lose | W+R | 6.5 | 
-| 2008-09-25 | 第35期天元戦予選 | Kobayashi Koichi | Xie Yimin | Win | B+R | 6.5 | 
-| 2008-09-22 | 第2期幽玄杯精鋭リーグ戦 | Tamai Shin | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2008-09-18 | 第34期棋聖戦予選 | So Yokoku | Kobayashi Koichi | Lose | B+12.5 | 6.5 | 
-| 2008-09-03 | 第13回三星火災杯世界オープン囲碁選手権1回戦 |  | Kobayashi Koichi | Lose | B+2.5 | 6.5 | 
-| 2008-08-30 | 第4回大和証券杯ネット囲碁オープン2回戦 | Ko Iso | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2008-08-28 | 第34期碁聖戦予選 | Yo Kaei | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2008-08-21 | 第34期名人戦予選 | Kobayashi Koichi | Kato Atsushi | Lose | W+0.5 | 6.5 | 
-| 2008-08-14 | 第57期王座戦予選 | Kobayashi Koichi | Yamada Takuji | Lose | W+0.5 | 6.5 | 
-| 2008-08-07 | 第34期棋聖戦予選 | Kobayashi Koichi | Ono Nobuyuki | Win | B+R | 6.5 | 
-| 2008-07-17 | 第57期王座戦予選 | Kobayashi Koichi | Sugimoto Akira | Win | B+5.5 | 6.5 | 
-| 2008-07-10 | 第34期棋聖戦予選 | Kobayashi Koichi | Sanno Hirotaka | Win | B+R | 6.5 | 
-| 2008-07-03 | 第15期阿含・桐山杯全日本早碁オープン戦1回戦 | Yuki Satoshi | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2008-06-30 | 第2期幽玄杯精鋭リーグ戦 | Kobayashi Koichi | Tajima Shingo | Win | B+R | 6.5 | 
-| 2008-06-21 | 第4回大和証券杯ネット囲碁オープン1回戦 | Kobayashi Koichi | Cho Sonjin | Win | B+R | 6.5 | 
-| 2008-06-19 | 第34期名人戦予選 | Suzuki Yoshimichi | Kobayashi Koichi | Win | W+7.5 | 6.5 | 
-| 2008-06-05 | 第34期棋聖戦予選 | Makihata Taeko | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2008-05-29 | 第34期名人戦予選 | Ko Mosei | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2008-05-26 | 第4回大和証券杯ネット囲碁オープン予選 | Kobayashi Koichi | Kono Mitsuki | Win | B+R | 6.5 | 
-| 2008-03-13 | 第47期十段戦予選 | Iyama Yuta | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2008-02-28 | 第64期本因坊戦予選 | Obuchi Morito | Kobayashi Koichi | Lose | B+3.5 | 6.5 | 
-| 2008-02-25 | 第1期幽玄杯精鋭リーグ戦 | Kobayashi Koichi | Furuya Masao | Win | B+R | 6.5 | 
-| 2008-02-07 | 第64期本因坊戦予選 | Kobayashi Koichi | Tei Meiko | Win | B+R | 6.5 | 
-| 2008-02-04 | 第1期幽玄杯精鋭リーグ戦 | Kobayashi Koichi | Shida Tatsuya | Win | B+R | 6.5 | 
-| 2008-01-31 | 第34期天元戦本戦1回戦 | Kobayashi Koichi | Ko Iso | Lose | W+R | 6.5 | 
-| 2008-01-24 | 第33期碁聖戦本戦2回戦 | Yuki Satoshi | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2007-12-10 | 第1期幽玄杯精鋭リーグ戦 | Kobayashi Koichi | Tanemura Sayuri | Win | B+R | 6.5 | 
-| 2007-12-06 | 第33期碁聖戦本戦1回戦 | Kobayashi Koichi | Seto Taiki | Win | B+0.5 | 6.5 | 
-| 2007-12-03 | 第1期幽玄杯精鋭リーグ戦 | Osawa Kenro | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2007-11-15 | 第33期碁聖戦予選 | Kobayashi Koichi | Kudo Norio | Win | B+0.5 | 6.5 | 
-| 2007-10-18 | 第34期天元戦予選 | O Rissei | Kobayashi Koichi | Win | W+2.5 | 6.5 | 
-| 2007-10-11 | 第33期碁聖戦予選 | Kobayashi Koichi | Kobayashi Satoru | Win | B+R | 6.5 | 
-| 2007-09-27 | 第33期名人戦予選 | Sonoda Yuichi | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2007-09-06 | 第34期天元戦予選 | Kobayashi Koichi | Tei Meiko | Win | B+R | 6.5 | 
-| 2007-08-30 | 第46期十段戦敗者復活戦2回戦 | Kobayashi Koichi | Kono Rin | Lose | W+3.5 | 6.5 | 
-| 2007-08-23 | 第33期名人戦予選 | Kobayashi Koichi | Yamada Takuji | Win | B+R | 6.5 | 
-| 2007-08-14 | 第3回大和証券杯ネット囲碁オープン予選 | Kurotaki Masanori | Kobayashi Koichi | Lose | B+0.5 | 6.5 | 
-| 2007-08-09 | 第46期十段戦本戦2回戦 | Takao Shinji | Kobayashi Koichi | Lose | B+4.5 | 6.5 | 
-| 2007-07-12 | 第56期王座戦予選 | Morita Michihiro | Kobayashi Koichi | Lose | B+3.5 | 6.5 | 
-| 2007-06-28 | 第33期名人戦予選 | Takemiya Masaki | Kobayashi Koichi | Win | W+3.5 | 6.5 | 
-| 2007-06-14 | 第33期棋聖戦予選 | Kobayashi Koichi | Ko Mosei | Lose | W+0.5 | 6.5 | 
-| 2007-06-07 | 第33期天元戦本戦3回戦 | Kobayashi Koichi | Iyama Yuta | Lose | W+8.5 | 6.5 | 
-| 2007-05-24 | 第46期十段戦本戦1回戦 | Kobayashi Koichi | Shuto Shun | Win | B+R | 6.5 | 
-| 2007-05-10 | 第56期王座戦予選 | Kobayashi Koichi | Abe Yumiko | Win | B+R | 6.5 | 
-| 2007-05-03 | 第33期名人戦予選 | Kobayashi Koichi | Yasuda Yasutoshi | Win | B+R | 6.5 | 
-| 2007-04-26 | 第33期天元戦本戦2回戦 | Lee Ishu | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2007-04-19 | 第46期十段戦予選 | Sakai Takeshi | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2007-03-15 | 第46期十段戦予選 | Kobayashi Koichi | Ha Youngil | Win | B+5.5 | 6.5 | 
-| 2007-02-22 | 第46期十段戦予選 | Ishikura Noboru | Kobayashi Koichi | Win | W+0.5 | 6.5 | 
-| 2007-02-15 | 第63期本因坊戦予選 | Cho Riyu | Kobayashi Koichi | Lose | B+0.5 | 6.5 | 
-| 2007-01-25 | 第63期本因坊戦予選 | Kobayashi Koichi | Sanno Hirotaka | Win | B+5.5 | 6.5 | 
-| 2007-01-11 | 第33期天元戦本戦1回戦 | Kobayashi Koichi | Ryu Shikun | Win | B+4.5 | 6.5 | 
-| 2006-11-23 | 第20回世界囲碁選手権富士通杯国内予選 | Cho Sonjin | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2006-10-19 | 第33期天元戦予選 | Kobayashi Koichi | Hashimoto Yujiro | Win | B+6.5 | 6.5 | 
-| 2006-09-28 | 第32期棋聖戦予選 | Yamamoto Masato | Kobayashi Koichi | Lose | B+0.5 | 6.5 | 
-| 2006-09-07 | 第33期天元戦予選 | Kurotaki Masaki | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2006-08-24 | 第45期十段戦敗者復活戦2回戦 | Yamashiro Hiroshi | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2006-07-20 | 第32期碁聖戦予選 | Kobayashi Koichi | Yasuda Yasutoshi | Win | B+R | 6.5 | 
-| 2006-07-13 | 第45期十段戦敗者復活戦1回戦 | Sakai Takeshi | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2006-06-29 | 第32期名人戦予選 | So Yokoku | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2006-06-22 | 第13期阿含・桐山杯全日本早碁オープン戦予選 | Rin Kanketsu | Kobayashi Koichi | Lose | B+14.5 | 6.5 | 
-| 2006-06-15 | 第45期十段戦本戦1回戦 | Kobayashi Koichi | Yamashita Keigo | Lose | W+0.5 | 6.5 | 
-| 2006-06-01 | 第55期王座戦予選 | Takagi Shoichi | Kobayashi Koichi | Win | W+2.5 | 6.5 | 
-| 2006-05-04 | 第32期名人戦予選 | Iguchi Hideichiro | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2006-04-27 | 第62期本因坊戦予選 | Rin Shien | Kobayashi Koichi | Lose | B+9.5 | 6.5 | 
-| 2006-03-23 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Kobayashi Koichi | Kudo Norio | Lose | W+R | 6.5 | 
-| 2006-03-02 | 第62期本因坊戦予選 | Kobayashi Koichi | Mitsunaga Junzo | Win | B+R | 6.5 | 
-| 2006-02-23 | 第55期王座戦予選 | Kobayashi Koichi | Kobayashi Kenji | Win | B+R | 6.5 | 
-| 2006-02-16 | 第45期十段戦予選 | Hikosaka Naoto | Kobayashi Koichi | Win | W+7.5 | 6.5 | 
-| 2006-02-09 | 第62期本因坊戦予選 | Kono Mitsuki | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2006-02-02 | 第31期碁聖戦本戦2回戦 | Kobayashi Koichi | Kiyonari Tetsuya | Lose | W+R | 6.5 | 
-| 2005-12-22 | 第32期天元戦本戦0回戦 | Kobayashi Koichi | Katayama Yasuo | Lose | W+1.5 | 6.5 | 
-| 2005-12-01 | 第31期碁聖戦本戦1回戦 | Yokota Shigeaki | Kobayashi Koichi | Win | W+6.5 | 6.5 | 
-| 2005-11-24 | 第32期天元戦予選 | Otake Hideo | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2005-11-17 | 第45期十段戦予選 | Kojima Takaho | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2005-10-20 | 第45期十段戦予選 | Kobayashi Koichi | Ko Iso | Win | B+R | 6.5 | 
-| 2005-07-08 | 第25期NECカップ囲碁トーナメント戦1回戦 | Kobayashi Koichi | Kobayashi Satoru | Lose | W+3.5 | 6.5 | 
-| 2005-05-18 | 第10回LG杯世界棋王戦2回戦 | Kobayashi Koichi | Gu Li | Lose | W+R | 6.5 | 
-| 2005-05-16 | 第10回LG杯世界棋王戦1回戦 | Kobayashi Koichi | Park Byeongkyu | Win | B+R | 6.5 | 
-| 2005-03-03 | 第61期本因坊戦予選 | Kobayashi Koichi | Ko Iso | Lose | W+0.5 | 6.5 | 
-| 2005-01-29 | 第24期NECカップ囲碁トーナメント戦準決勝 | Kobayashi Koichi | Cho U | Lose | W+4.5 | 6.5 | 
-| 2005-01-06 | 第31期天元戦本戦1回戦 | Kim Sujun | Kobayashi Koichi | Lose | B+1.5 | 6.5 | 
-| 2004-12-02 | 第30期碁聖戦予選 | Kobayashi Koichi | Ishikura Noboru | Lose | W+3.5 | 6.5 | 
-| 2004-11-20 | 第24期NECカップ囲碁トーナメント戦2回戦 | Yoda Norimoto | Kobayashi Koichi | Win | W+5.5 | 6.5 | 
-| 2004-10-09 | 第11期阿含・桐山杯全日本早碁オープン戦決勝 | Hane Naoki | Kobayashi Koichi | Lose | B+3.5 | 6.5 | 
-| 2004-09-23 | 第43期十段戦敗者復活戦2回戦 | Kobayashi Koichi | Yamashita Keigo | Lose | W+6.5 | 6.5 | 
-| 2004-09-10 | 第24期NECカップ囲碁トーナメント戦1回戦 | Kobayashi Koichi | Takemiya Masaki | Win | B+3.5 | 6.5 | 
-| 2004-09-02 | 第60期本因坊戦予選 | Han Zenki | Kobayashi Koichi | Lose | B+3.5 | 6.5 | 
-| 2004-08-21 | 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Kobayashi Koichi | Yu Bin | Lose | W+R | 6.5 | 
-| 2004-08-05 | 第11期阿含・桐山杯全日本早碁オープン戦2回戦 | Kobayashi Koichi | Yamada Takuji | Win | B+R | 6.5 | 
-| 2004-07-29 | 第43期十段戦敗者復活戦1回戦 | Kobayashi Izumi | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2004-05-27 | 第43期十段戦本戦1回戦 | Kobayashi Koichi | Mimura Tomoyasu | Lose | W+3.5 | 6.5 | 
-| 2004-05-11 | 第16回テレビアジア選手権 | Kobayashi Koichi | Song Taekon | Lose | W+6.5 | 6.5 | 
-| 2004-04-08 | 第29期碁聖戦本戦3回戦 | Yamashita Keigo | Kobayashi Koichi | Lose | B+4.5 | 6.5 | 
-| 2004-04-01 | 第59期本因坊戦リーグ | Kobayashi Koichi | Yoda Norimoto | Lose | W+6.5 | 6.5 | 
-| 2004-03-18 | 第59期本因坊戦リーグ | O Rissei | Kobayashi Koichi | Lose | B+2.5 | 6.5 | 
-| 2004-03-06 | 第23期NECカップ囲碁トーナメント戦決勝 | Kobayashi Koichi | Mimura Tomoyasu | Win | B+2.5 | 6.5 | 
-| 2004-02-26 | 第59期本因坊戦リーグ | Kato Masao | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2004-02-21 | 第23期NECカップ囲碁トーナメント戦準決勝 | Kobayashi Koichi | Yamashita Keigo | Win | B+R | 6.5 | 
-| 2004-02-09 | 第29期碁聖戦本戦2回戦 | Kim Sujun | Kobayashi Koichi | Win | W+0.5 | 6.5 | 
-| 2004-02-05 | 第30期天元戦本戦1回戦 | Kobayashi Koichi | Hikosaka Naoto | Lose | W+2.5 | 6.5 | 
-| 2004-01-22 | 第29期碁聖戦本戦1回戦 | Kobayashi Koichi | Kato Masao | Win | B+1.5 | 6.5 | 
-| 2004-01-08 | 第59期本因坊戦リーグ | Mimura Tomoyasu | Kobayashi Koichi | Lose | B+1.5 | 6.5 | 
-| 2003-12-11 | 第59期本因坊戦リーグ | Yamashita Keigo | Kobayashi Koichi | Win | W+1.5 | 6.5 | 
-| 2003-11-15 | 第5回農心辛ラーメン杯世界囲碁最強戦第8戦 | Weon Seongjin | Kobayashi Koichi | Lose | B+3.5 | 6.5 | 
-| 2003-11-14 | 第5回農心辛ラーメン杯世界囲碁最強戦第7戦 | Zhou Heyang | Kobayashi Koichi | Win | W+R | 6.5 | 
-| 2003-11-13 | 第5回農心辛ラーメン杯世界囲碁最強戦第6戦 | Kobayashi Koichi | Park Shiun | Win | B+7.5 | 6.5 | 
-| 2003-11-12 | 第5回農心辛ラーメン杯世界囲碁最強戦第5戦 | Kobayashi Koichi | Wang Lei (b) | Win | B+1.5 | 6.5 | 
-| 2003-11-06 | 第59期本因坊戦リーグ | Kobayashi Koichi | Cho Sonjin | Win | B+R | 6.5 | 
-| 2003-10-11 | 第23期NECカップ囲碁トーナメント戦2回戦 | Yamada Kimio | Kobayashi Koichi | Win | W+2.5 | 6.5 | 
-| 2003-10-02 | 第59期本因坊戦リーグ | Kobayashi Koichi | O Meien | Win | B+5.5 | 6.5 | 
-| 2003-09-21 | 第1期JALスーパー早碁準決勝 | Yuki Satoshi | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 2003-08-27 | 第28期碁聖戦挑戦手合五番勝負第5局 | Kobayashi Koichi | Yoda Norimoto | Lose | W+3.5 | 6.5 | 
-| 2003-08-20 | 第28期碁聖戦挑戦手合五番勝負第4局 | Kobayashi Koichi | Yoda Norimoto | Win | B+0.5 | 6.5 | 
-| 2003-07-31 | 第28期碁聖戦挑戦手合五番勝負第3局 | Yoda Norimoto | Kobayashi Koichi | Win | W+4.5 | 6.5 | 
-| 2003-07-24 | 第10期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Chikun | Kobayashi Koichi | Lose | B+5.5 | 6.5 | 
-| 2003-07-17 | 第28期碁聖戦挑戦手合五番勝負第2局 | Kobayashi Koichi | Yoda Norimoto | Lose | W+8.5 | 6.5 | 
-| 2003-07-13 | 第1期JALスーパー早碁2回戦 | Takao Shinji | Kobayashi Koichi | Win | W+5.5 | 6.5 | 
-| 2003-07-01 | 第28期碁聖戦挑戦手合五番勝負第1局 | Yoda Norimoto | Kobayashi Koichi | Lose | B+10.5 | 6.5 | 
-| 2003-06-29 | 第1期JALスーパー早碁1回戦 | Kobayashi Koichi | Yoda Norimoto | Win | B+6.5 | 6.5 | 
-| 2003-06-20 | 第23期NECカップ囲碁トーナメント戦1回戦 | Cho U | Kobayashi Koichi | Win | W+5.5 | 6.5 | 
-| 2003-02-20 | 第29期天元戦本戦1回戦 | Takao Shinji | Kobayashi Koichi | Lose | B+0.5 | 6.5 | 
-| 2002-12-16 | 第16回世界囲碁選手権富士通杯国内予選 | Kobayashi Koichi | Konno Tameto | Win | B+R | 6.5 | 
-| 2002-11-26 | 第4回農心辛ラーメン杯世界囲碁最強戦第8戦 | Kobayashi Koichi | Hu Yaoyu | Lose | W+3.5 | 6.5 | 
-| 2002-11-25 | 第4回農心辛ラーメン杯世界囲碁最強戦第7戦 | Kobayashi Koichi |  | Win | B+R | 6.5 | 
-| 2002-11-24 | 第4回農心辛ラーメン杯世界囲碁最強戦第6戦 | Kobayashi Koichi | Kong Jie | Win | B+4.5 | 6.5 | 
-| 2002-04-30 | 第7回LG杯世界棋王戦1回戦 | Weon Seongjin | Kobayashi Koichi | Lose | B+3.5 | 6.5 | 
-| 2001-10-17 | 第3回農心辛ラーメン杯世界囲碁最強戦第3戦 | Choi Cheolhan | Kobayashi Koichi | Lose | B+0.5 | 6.5 | 
-| 2001-06-12 | 第6回LG杯世界棋王戦1回戦 | Kobayashi Koichi | Mok Jinseok | Lose | W+R | 6.5 | 
-| 1998-06-16 | 第3回LG杯世界棋王戦1回戦 | Paek Daehyun | Kobayashi Koichi | Lose | B+1.5 | 6.5 | 
-| 1996-11-07 | 第35期十段戦本戦勝者組決勝 | Yamada Kimio | Kobayashi Koichi | Lose | B+R | 6.5 | 
-| 1988-08-23 | 第1回応氏杯世界選手権2回戦 | Cho Hunhyun | Kobayashi Koichi | Lose | B+1 | 7.5 | 
-| 1988-08-21 | 第1回応氏杯世界選手権1回戦 | Kobayashi Koichi | O Rissei | Win | B+3 | 7.5 |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-13 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第2ラウンド | Kobayashi Koichi | Nie Weiping | Win | B+R | 7.5 | 2550 | -19 | 
+| 2021-07-01 | 第70期王座戦予選 | Kobayashi Koichi | Tahara Yasufumi | Win | B+R | 6.5 | 2569 | 61 | 
+| 2021-06-03 | 第70期王座戦予選 |  | Kobayashi Koichi | Win | W+R | 6.5 | 2508 | 149 | 
+| 2021-05-24 | 第47期名人戦予選 | Kataoka Satoshi | Kobayashi Koichi | Lose | B+3.5 | 6.5 | 2359 | -52 | 
+| 2021-05-06 | 第47期名人戦予選 | Takano Hideki | Kobayashi Koichi | Win | W+R | 6.5 | 2411 | 10 | 
+| 2021-04-29 | 第77期本因坊戦予選  | Kobayashi Koichi | Cho U | Lose | W+1.5 | 6.5 | 2401 | -28 | 
+| 2021-04-19 | 第47期碁聖戦予選 | Chino Tadahiko | Kobayashi Koichi | Win | W+R | 6.5 | 2429 | 8 | 
+| 2021-04-12 | 第47期名人戦予選 | Kobayashi Koichi | Aoki Shinichi | Win | B+R | 6.5 | 2421 | -16 | 
+| 2021-04-05 | 第77期本因坊戦予選 | Mukai Chiaki | Kobayashi Koichi | Win | W+R | 6.5 | 2437 | 2437 | 
+| 2021-02-18 | 第60期十段戦予選 | Ishigure Ikuro | Kobayashi Koichi | Lose | B+1.5 | 6.5 | missing | 0 | 
+| 2021-02-11 | 第46期棋聖戦予選 | Lee Ishu | Kobayashi Koichi | Lose | B+R | 6.5 | missing | 0 | 
+| 2021-01-23 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第2ラウンド  | Kobayashi Koichi | Nie Weiping | Lose | W+4.5 | 6.5 | missing | 0 | 
+| 2021-01-22 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第2ラウンド  | Kobayashi Koichi | Cho Hunhyun | Lose | W+1.5 | 6.5 | missing | -2643 | 
+| 2021-01-17 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第1ラウンド  | Lee Changho | Kobayashi Koichi | Lose | B+8.5 | 6.5 | 2643 | 27 | 
+| 2021-01-16 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第1ラウンド  | Chang Hao | Kobayashi Koichi | Lose | B+13.5 | 6.5 | 2616 | -142 | 
+| 2020-12-03 | 第47期天元戦予選 | Onishi Kenya | Kobayashi Koichi | Lose | B+8.5 | 6.5 | 2758 | -19 | 
+| 2020-11-26 | 第77期本因坊戦予選 | Kobayashi Koichi |  | Win | B+R | 6.5 | 2777 | 186 | 
+| 2020-11-12 | 第77期本因坊戦予選 | Kobayashi Koichi | Kobayashi Chizu | Win | B+4.5 | 6.5 | 2591 | 18 | 
+| 2020-11-09 | 第69期王座戦予選 | Kobayashi Koichi | Suzuki Ayumi | Lose | W+4.5 | 6.5 | 2573 | -218 | 
+| 2020-10-22 | 第47期天元戦予選 | Kobayashi Koichi | Takanashi Seiken | Win | B+2.5 | 6.5 | 2791 | -14 | 
+| 2020-10-05 | 第45期棋聖戦Cリーグ | Kobayashi Koichi | Kobayashi Satoru | Lose | W+4.5 | 6.5 | 2805 | 134 | 
+| 2020-09-03 | 第45期棋聖戦Cリーグ | Kubo Hideo | Kobayashi Koichi | Win | W+7.5 | 6.5 | 2671 | 3 | 
+| 2020-08-20 | 第45期棋聖戦Cリーグ | Kobayashi Koichi | Ishida Atsushi | Win | B+R | 6.5 | 2668 | 130 | 
+| 2020-06-18 | 第45期棋聖戦Cリーグ | Kobayashi Koichi | Hikosaka Naoto | Lose | W+5.5 | 6.5 | 2538 | 39 | 
+| 2020-03-26 | 第45期棋聖戦Cリーグ | Kobayashi Koichi | Nakano Hironari | Lose | W+4.5 | 6.5 | 2499 | -79 | 
+| 2020-02-27 | 第46期碁聖戦予選 | Kobayashi Koichi | Han Zenki | Lose | W+6.5 | 6.5 | 2578 | -105 | 
+| 2020-02-13 | 第45期棋聖戦ファーストトーナメント予選 | Yamada Shinji | Kobayashi Koichi | Win | W+R | 6.5 | 2683 | -112 | 
+| 2020-01-23 | 第45期棋聖戦ファーストトーナメント予選 | Kobayashi Koichi | Ishigure Ikuro | Win | B+R | 6.5 | 2795 | 20 | 
+| 2020-01-09 | 第46期天元戦1回戦 | Kobayashi Koichi | Ida Atsushi | Lose | W+5.5 | 6.5 | 2775 | 307 | 
+| 2019-12-19 | 第46期名人戦予選 | Kobayashi Koichi | Shiraishi Yuichi | Lose | W+4.5 | 6.5 | 2468 | -32 | 
+| 2019-12-12 | 第45期棋聖戦ファーストトーナメント予選 | Kobayashi Koichi | Kono Takashi | Win | B+R | 6.5 | 2500 | -14 | 
+| 2019-12-05 | 第45期名人戦予選 | Kurotaki Masanori | Kobayashi Koichi | Win | W+1.5 | 6.5 | 2514 | 14 | 
+| 2019-11-14 | 第45期棋聖戦ファーストトーナメント予選 | Sakai Takeshi | Kobayashi Koichi | Win | W+R | 6.5 | 2500 | 1 | 
+| 2019-11-07 | 第59期十段戦予選 | Kobayashi Koichi | Yamada Takuji | Lose | W+6.5 | 6.5 | 2499 | -51 | 
+| 2019-10-31 | 第45期棋聖戦ファーストトーナメント予選 | Kobayashi Koichi | Seki Tatsuya | Win | B+R | 6.5 | 2550 | 31 | 
+| 2019-10-24 | 第46期天元戦予選 | Kataoka Satoshi | Kobayashi Koichi | Win | W+2.5 | 6.5 | 2519 | 31 | 
+| 2019-10-17 | 第68期王座戦予選 | Mitani Tetsuya | Kobayashi Koichi | Lose | B+11.5 | 6.5 | 2488 | -32 | 
+| 2019-10-10 | 第76期本因坊戦予選 | Takanashi Seiken | Kobayashi Koichi | Lose | B+R | 6.5 | 2520 | 49 | 
+| 2019-09-12 | 第46期天元戦予選 | Kobayashi Koichi | Shuto Shun | Win | B+R | 6.5 | 2471 | -70 | 
+| 2019-06-29 | 第9回フマキラー囲碁マスターズカップ準決勝  | Kobayashi Koichi | Cho Chikun | Lose | W+R | 6.5 | 2541 | 31 | 
+| 2019-06-12 | 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | Rui Naiwei | Kobayashi Koichi | Lose | B+R | 6.5 | 2510 | -12 | 
+| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | Kobayashi Koichi | Seo Bongsoo | Win | B+0.5 | 6.5 | 2522 | 34 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | Kobayashi Koichi | O Rissei | Lose | W+R | 6.5 | 2488 | 0 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | O Rissei | Kobayashi Koichi | Lose | B+9.5 | 6.5 | 2488 | -29 | 
+| 2019-06-08 | 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Kobayashi Koichi | Seo Nungwuk | Win | B+R | 6.5 | 2517 | 58 | 
+| 2019-06-06 | 第58期十段戦予選 | Anzai Nobuaki | Kobayashi Koichi | Lose | B+10.5 | 6.5 | 2459 | 28 | 
+| 2019-05-30 | 第9回フマキラー囲碁マスターズカップ2回戦 | Ishida Yoshio | Kobayashi Koichi | Win | W+3.5 | 6.5 | 2431 | -39 | 
+| 2019-05-09 | 第9回フマキラー囲碁マスターズカップ1回戦 | Kataoka Satoshi | Kobayashi Koichi | Win | W+R | 6.5 | 2470 | 44 | 
+| 2019-05-02 | 第45期名人戦予選 | Matsumoto Takehisa | Kobayashi Koichi | Lose | B+7.5 | 6.5 | 2426 | -49 | 
+| 2019-03-28 | 第45期名人戦予選 | Takagi Shoichi | Kobayashi Koichi | Win | W+6.5 | 6.5 | 2475 | -8 | 
+| 2019-03-24 | 2019年中日韓囲棋大師招待戦決勝 | Kobayashi Koichi | Nie Weiping | Win | B+R | 7.5 | 2483 | 38 | 
+| 2019-03-23 | 2019年中日韓囲棋大師招待戦準決勝 | Kobayashi Koichi | Ma Xiaochun | Win | B+¾ | 7.5 | 2445 | 0 | 
+| 2019-03-23 | 2019年中日韓囲棋大師招待戦8強戦 | Wang Runan | Kobayashi Koichi | Win | W+R | 7.5 | 2445 | 32 | 
+| 2019-03-14 | 第45期名人戦予選 | Kobayashi Koichi | Kenmochi Joe | Win | B+R | 6.5 | 2413 | -139 | 
+| 2019-01-17 | 第45期碁聖戦予選 | Abe Yumiko | Kobayashi Koichi | Lose | B+R | 6.5 | 2552 | -33 | 
+| 2018-12-27 | 第44期棋聖戦ファーストトーナメント予選 | Kobayashi Koichi | Kazama Jun | Lose | W+2.5 | 6.5 | 2585 | -38 | 
+| 2018-12-20 | 第75期本因坊戦予選 | Takeuchi Kousuke | Kobayashi Koichi | Lose | B+6.5 | 6.5 | 2623 | -87 | 
+| 2018-12-06 | 第44期棋聖戦ファーストトーナメント予選 | Kobayashi Koichi | Umezawa Yukari | Win | B+R | 6.5 | 2710 | -83 | 
+| 2018-09-20 | 第67期王座戦予選 | Kobayashi Koichi | Nishimura Keiji | Lose | W+0.5 | 6.5 | 2793 | -39 | 
+| 2018-08-23 | 第57期十段戦最終予選決勝 | Takao Shinji | Kobayashi Koichi | Lose | B+7.5 | 7.5 | 2832 | 30 | 
+| 2018-07-24 | 第4回百霊杯世界オープン戦シニア戦1回戦 | Ma Xiaochun | Kobayashi Koichi | Lose | B+1¾ | 7.5 | 2802 | 8 | 
+| 2018-07-05 | 第57期十段戦最終予選 | Han Zenki | Kobayashi Koichi | Win | W+8.5 | 6.5 | 2794 | 34 | 
+| 2018-07-02 | 2018年紹興国際囲棋大師戦決勝 | Nie Weiping | Kobayashi Koichi | Win | W+6.5 | 7.5 | 2760 | 33 | 
+| 2018-07-01 | 2018年紹興国際囲棋大師戦準決勝 | Kobayashi Koichi | Ma Xiaochun | Win | B+2¾ | 7.5 | 2727 | 0 | 
+| 2018-07-01 | 2018年紹興国際囲棋大師戦8強戦 | Kobayashi Koichi | Rin Kaiho | Win | B+R | 7.5 | 2727 | 51 | 
+| 2018-06-28 | 第44期名人戦予選 | Xie Yimin | Kobayashi Koichi | Lose | B+7.5 | 6.5 | 2676 | -108 | 
+| 2018-06-14 | 第44期碁聖戦予選 | Ando Kazushige | Kobayashi Koichi | Lose | B+6.5 | 6.5 | 2784 | 0 | 
+| 2018-06-07 | 第57期十段戦最終予選 | Cho Riyu | Kobayashi Koichi | Win | W+R | 6.5 | 2784 | -34 | 
+| 2018-05-03 | 第74期本因坊戦予選 | Kobayashi Koichi | Kono Takashi | Lose | W+8.5 | 6.5 | 2818 | -122 | 
+| 2018-04-12 | 第8回フマキラー囲碁マスターズカップ1回戦 | Awaji Shuzo | Kobayashi Koichi | Lose | B+0.5 | 6.5 | 2940 | -47 | 
+| 2018-03-27 | 第2回中日韓囲碁元老戦1回戦 | Kobayashi Koichi | Nie Weiping | Lose | W+7¼ | 7.5 | 2987 | -41 | 
+| 2018-03-15 | 第74期本因坊戦予選 | Kobayashi Koichi | Morita Michihiro | Win | B+0.5 | 6.5 | 3028 | 52 | 
+| 2018-02-22 | 第57期十段戦予選 | Kataoka Satoshi | Kobayashi Koichi | Win | W+R | 6.5 | 2976 | -4 | 
+| 2018-02-08 | 第74期本因坊戦予選 | Ezura Yuichi | Kobayashi Koichi | Win | W+R | 6.5 | 2980 | 46 | 
+| 2018-02-01 | 第57期十段戦予選 | Kobayashi Koichi | Kono Mitsuki | Win | B+R | 6.5 | 2934 | 7 | 
+| 2018-01-25 | 第43期棋聖戦ファーストトーナメント予選 | Komatsu Hideki | Kobayashi Koichi | Lose | B+7.5 | 6.5 | 2927 | 1 | 
+| 2018-01-11 | 第44期天元戦1回戦 | Kobayashi Koichi | Mutsuura Yuta | Lose | W+9.5 | 6.5 | 2926 | -53 | 
+| 2017-12-21 | 第66期王座戦予選 | Kobayashi Koichi | Yamashiro Hiroshi | Lose | W+4.5 | 6.5 | 2979 | -73 | 
+| 2017-12-14 | 第43期棋聖戦ファーストトーナメント予選 | Ono Nobuyuki | Kobayashi Koichi | Win | W+R | 6.5 | 3052 | 11 | 
+| 2017-12-07 | 第66期王座戦予選 | Kobayashi Koichi | Kono Mitsuki | Win | B+R | 6.5 | 3041 | 113 | 
+| 2017-11-16 | 第43期棋聖戦ファーストトーナメント予選 | Kobayashi Koichi |  | Win | B+2.5 | 6.5 | 2928 | -7 | 
+| 2017-11-09 | 第44期天元戦予選 | Arimura Hiroshi | Kobayashi Koichi | Win | W+7.5 | 6.5 | 2935 | 21 | 
+| 2017-10-26 | 第57期十段戦予選 | Mukai Chiaki | Kobayashi Koichi | Win | W+R | 7.5 | 2914 | 83 | 
+| 2017-09-28 | 第44期天元戦予選 | Lee Ishu | Kobayashi Koichi | Win | W+R | 6.5 | 2831 | -31 | 
+| 2017-09-21 | 第57期十段戦　予選C | Kobayashi Koichi | Kamimura Haruo | Win | B+R | 6.5 | 2862 | 60 | 
+| 2017-09-07 | 44期天元戦予選 | Horimoto Mitsunari | Kobayashi Koichi | Win | W+R | 6.5 | 2802 | 140 | 
+| 2017-08-24 | 第57期十段戦　予選C | Kato Tomoko | Kobayashi Koichi | Win | W+1.5 | 6.5 | 2662 | -97 | 
+| 2017-07-20 | 第43期名人戦　予選A | Michael Redmond | Kobayashi Koichi | Lose | B+R | 6.5 | 2759 | -90 | 
+| 2017-05-25 | 第43期名人戦　予選B決勝 | Kobayashi Koichi | Matsumoto Takehisa | Win | B+R | 6.5 | 2849 | -89 | 
+| 2017-04-27 | 第1回中日韓囲碁元老戦決勝 | Kobayashi Koichi | Cao Dayuan | Lose | W+0.5 | 7.5 | 2938 | -3 | 
+| 2017-04-26 | 第1回中日韓囲碁元老戦準決勝 | Yu Bin | Kobayashi Koichi | Win | W+0.5 | 7.5 | 2941 | 38 | 
+| 2017-04-25 | 第1回中日韓囲碁元老戦2回戦 | Kobayashi Koichi | Nie Weiping | Win | B+R | 7.5 | 2903 | 0 | 
+| 2017-04-25 | 第1回中日韓囲碁元老戦1回戦 | Hua Yigang | Kobayashi Koichi | Win | W+R | 7.5 | 2903 | 21 | 
+| 2017-03-02 | 第7回フマキラー囲碁マスターズカップ　本戦1回戦 | Takemiya Masaki | Kobayashi Koichi | Lose | B+1.5 | 6.5 | 2882 | 92 | 
+| 2017-02-06 | 第4回グランドチャンピオン戦　1回戦 | Kobayashi Koichi | Onishi Ryuhei | Lose | W+6.5 | 6.5 | 2790 | 26 | 
+| 2017-01-12 | 第42期棋聖戦　ファーストトーナメント3回戦 | Kobayashi Koichi | Yashiro Kumiko | Lose | W+3.5 | 6.5 | 2764 | -27 | 
+| 2016-12-08 | 第42期棋聖戦　ファーストトーナメント2回戦 | Tsuneishi Takashi | Kobayashi Koichi | Win | W+4.5 | 6.5 | 2791 | -10 | 
+| 2016-12-01 | 第65期王座戦　予選A特選譜第5局 | Ko Iso | Kobayashi Koichi | Lose | B+12.5 | 6.5 | 2801 | -78 | 
+| 2016-11-03 | 第56期十段戦　予選B決勝 | Kobayashi Koichi | Onishi Ryuhei | Lose | W+R | 6.5 | 2879 | 83 | 
+| 2016-10-06 | 第73期本因坊戦予選 | Kanazawa Makoto | Kobayashi Koichi | Lose | B+9.5 | 6.5 | 2796 | -81 | 
+| 2016-09-22 | 第65期王座戦予選 | Hsu Chiayuan | Kobayashi Koichi | Win | W+R | 6.5 | 2877 | -3 | 
+| 2016-08-25 | 第65期王座戦　予選B決勝 | Muramatsu Ryuichi | Kobayashi Koichi | Win | W+3.5 | 6.5 | 2880 | 66 | 
+| 2016-08-04 | 第42期碁聖戦予選 | Uchida Shuhei | Kobayashi Koichi | Win | W+R | 6.5 | 2814 | -51 | 
+| 2016-07-28 | 第65期王座戦予選 | Kobayashi Koichi | Mukai Chiaki | Win | B+0.5 | 6.5 | 2865 | -9 | 
+| 2016-07-14 | 第42期名人戦予選 | Kobayashi Koichi | Ogaki Yusaku | Lose | W+4.5 | 6.5 | 2874 | -7 | 
+| 2016-07-09 | 第6回フマキラー囲碁マスターズカップ決勝 | Awaji Shuzo | Kobayashi Koichi | Win | W+R | 6.5 | 2881 | 101 | 
+| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Kobayashi Koichi | Chen Zhengxun | Lose | W+0.5 | 7.5 | 2780 | -18 | 
+| 2016-06-25 | 第6回フマキラー囲碁マスターズカップ準決勝 | Kobayashi Koichi | Kobayashi Satoru | Win | B+3.5 | 6.5 | 2798 | 20 | 
+| 2016-06-16 | 第42期名人戦予選 | Kobayashi Koichi | Iguchi Hideichiro | Win | B+R | 6.5 | 2778 | 21 | 
+| 2016-06-02 | 第42期名人戦予選 | Kobayashi Koichi | Yamada Takuji | Win | B+R | 6.5 | 2757 | 47 | 
+| 2016-05-26 | 第55期十段戦予選 | Kobayashi Koichi | Ko Mosei | Lose | W+5.5 | 6.5 | 2710 | -6 | 
+| 2016-05-19 | 第65期王座戦予選 | Hashimoto Yujiro | Kobayashi Koichi | Win | W+4.5 | 6.5 | 2716 | 15 | 
+| 2016-05-12 | 第42期名人戦予選 | Horimoto Mitsunari | Kobayashi Koichi | Win | W+0.5 | 6.5 | 2701 | -4 | 
+| 2016-04-28 | 第6回フマキラー囲碁マスターズカップ2回戦 | Otake Hideo | Kobayashi Koichi | Win | W+2.5 | 6.5 | 2705 | 92 | 
+| 2016-04-21 | 第42期名人戦予選 | Sato Masaharu | Kobayashi Koichi | Win | W+R | 6.5 | 2613 | 62 | 
+| 2016-04-07 | 第6回フマキラー囲碁マスターズカップ1回戦 | O Rissei | Kobayashi Koichi | Win | W+0.5 | 6.5 | 2551 | 8 | 
+| 2016-03-31 | 第42期碁聖戦予選 | Ko Iso | Kobayashi Koichi | Win | W+1.5 | 6.5 | 2543 | 221 | 
+| 2016-03-10 | 第65期王座戦予選 | Kobayashi Koichi | Inaba Takahiro | Win | B+R | 6.5 | 2322 | 24 | 
+| 2016-02-11 | 第72期本因坊戦予選 | Kobayashi Koichi | Tajiri Yuto | Lose | W+10.5 | 6.5 | 2298 | -82 | 
+| 2016-02-04 | 第42期碁聖戦予選 | Kobayashi Koichi | Yokotsuka Riki | Win | B+0.5 | 6.5 | 2380 | 35 | 
+| 2016-01-07 | 第41期棋聖戦予選 | Onishi Ryuhei | Kobayashi Koichi | Lose | B+6.5 | 6.5 | 2345 | -13 | 
+| 2015-11-26 | 第41期棋聖戦予選 | Hoshiai Shiho | Kobayashi Koichi | Win | W+R | 6.5 | 2358 | 80 | 
+| 2015-11-12 | 第72期本因坊戦予選 | Kobayashi Koichi | Mitsunaga Junzo | Win | B+R | 6.5 | 2278 | 106 | 
+| 2015-10-22 | 第42期天元戦予選 | Kobayashi Koichi | Hsu Chiayuan | Lose | W+7.5 | 6.5 | 2172 | 69 | 
+| 2015-09-24 | 第42期天元戦予選 | Kobayashi Koichi | Hashimoto Yujiro | Win | B+5.5 | 6.5 | 2103 | -426 | 
+| 2015-08-06 | 第64期王座戦予選 | Kobayashi Koichi | Lee Ishu | Lose | W+3.5 | 6.5 | 2529 | -41 | 
+| 2015-07-30 | 第42期天元戦予選 | Kobayashi Koichi | Izumitani Hideo | Win | B+9.5 | 6.5 | 2570 | -115 | 
+| 2015-07-02 | 第54期十段戦予選 | Yuki Satoshi | Kobayashi Koichi | Lose | B+0.5 | 6.5 | 2685 | -44 | 
+| 2015-06-25 | 第41期碁聖戦予選 | Kamimura Haruo | Kobayashi Koichi | Lose | B+2.5 | 6.5 | 2729 | -66 | 
+| 2015-06-18 | 第64期王座戦予選 | Kobayashi Koichi | Ando Kazushige | Win | B+0.5 | 6.5 | 2795 | -84 | 
+| 2015-06-11 | 第41期碁聖戦予選 | Mimura Tomoyasu | Kobayashi Koichi | Win | W+R | 6.5 | 2879 | 101 | 
+| 2015-05-14 | 第71期本因坊戦予選 | Kobayashi Koichi | Yamada Takuji | Lose | W+0.5 | 6.5 | 2778 | -67 | 
+| 2015-04-09 | 第41期碁聖戦予選 | Muramatsu Ryuichi | Kobayashi Koichi | Win | W+R | 6.5 | 2845 | -90 | 
+| 2015-03-26 | 第5回フマキラー囲碁マスターズカップ1回戦 | Hikosaka Naoto | Kobayashi Koichi | Lose | B+1.5 | 6.5 | 2935 | -265 | 
+| 2015-01-29 | 第41期碁聖戦予選 | Kobayashi Koichi | Shibusawa Machiko | Win | B+R | 6.5 | 3200 | 20 | 
+| 2015-01-22 | 第40期棋聖戦予選 | Kobayashi Koichi | Uchida Shuhei | Lose | W+2.5 | 6.5 | 3180 | 77 | 
+| 2014-11-27 | 第41期名人戦予選 | Kobayashi Koichi | Chinen Kaori | Lose | W+1.5 | 6.5 | 3103 | 87 | 
+| 2014-10-23 | 第63期王座戦予選 | Kobayashi Koichi | Yo Kaei | Lose | W+3.5 | 6.5 | 3016 | -18 | 
+| 2014-10-16 | 第53期十段戦1回戦 | Kobayashi Koichi | Rin Shien | Lose | W+R | 6.5 | 3034 | -87 | 
+| 2014-10-02 | 第41期天元戦予選 | Kobayashi Koichi | Kataoka Satoshi | Lose | W+R | 6.5 | 3121 | -15 | 
+| 2014-09-11 | 第21期阿含・桐山杯全日本早碁オープン戦準決勝 | Iyama Yuta | Kobayashi Koichi | Lose | B+R | 6.5 | 3136 | -9 | 
+| 2014-09-04 | 第53期十段戦予選 | O Meien | Kobayashi Koichi | Win | W+R | 6.5 | 3145 | 37 | 
+| 2014-08-28 | 第21期阿含・桐山杯全日本早碁オープン戦2回戦 | Kobayashi Koichi | Cho U | Win | B+3.5 | 6.5 | 3108 | 73 | 
+| 2014-07-31 | 第53期十段戦予選 | Muramatsu Hiroki | Kobayashi Koichi | Win | W+R | 6.5 | 3035 | 47 | 
+| 2014-07-24 | 第21期阿含・桐山杯全日本早碁オープン戦1回戦 | Kobayashi Koichi | Yu Zhengqi | Win | B+R | 6.5 | 2988 | 81 | 
+| 2014-06-21 | 第4回フマキラー囲碁マスターズカップ準決勝 | Kobayashi Satoru | Kobayashi Koichi | Lose | B+R | 6.5 | 2907 | 3 | 
+| 2014-06-12 | 第21期阿含・桐山杯全日本早碁オープン戦予選 | Kobayashi Koichi | Kobayashi Satoru | Win | B+R | 6.5 | 2904 | 148 | 
+| 2014-05-22 | 第40期名人戦予選 | Koyama Kuya | Kobayashi Koichi | Lose | B+R | 6.5 | 2756 | -18 | 
+| 2014-05-15 | 第53期十段戦予選 | Terayama Rei | Kobayashi Koichi | Win | W+R | 6.5 | 2774 | 58 | 
+| 2014-05-08 | 第4回フマキラー囲碁マスターズカップ2回戦 | Yamashiro Hiroshi | Kobayashi Koichi | Win | W+R | 6.5 | 2716 | 78 | 
+| 2014-05-01 | 第40期碁聖戦予選 | Kobayashi Koichi | Iguchi Hideichiro | Lose | W+R | 6.5 | 2638 | -145 | 
+| 2014-04-17 | 第70期本因坊戦予選 | Terayama Rei | Kobayashi Koichi | Lose | B+R | 6.5 | 2783 | -92 | 
+| 2014-04-03 | 第53期十段戦予選 | Ko Reibun | Kobayashi Koichi | Win | W+R | 6.5 | 2875 | 91 | 
+| 2014-03-27 | 第70期本因坊戦予選 | Obuchi Kotaro | Kobayashi Koichi | Win | W+R | 6.5 | 2784 | 129 | 
+| 2014-03-20 | 第4回フマキラー囲碁マスターズカップ1回戦 | O Meien | Kobayashi Koichi | Win | W+R | 6.5 | 2655 | 39 | 
+| 2014-01-16 | 第70期本因坊戦予選 | Kobayashi Koichi | Hashimoto Yujiro | Win | B+1.5 | 6.5 | 2616 | -100 | 
+| 2014-01-09 | 第40期天元戦予選 | O Rissei | Kobayashi Koichi | Lose | B+10.5 | 6.5 | 2716 | 278 | 
+| 2013-12-18 | 第62期王座戦予選 | Awaji Shuzo | Kobayashi Koichi | Lose | B+1.5 | 6.5 | 2438 | -377 | 
+| 2013-11-21 | 第40期天元戦予選 | Aoki Shinichi | Kobayashi Koichi | Win | W+4.5 | 6.5 | 2815 | 37 | 
+| 2013-11-07 | 第39期棋聖戦予選 | Cho Riyu | Kobayashi Koichi | Lose | B+1.5 | 6.5 | 2778 | 2 | 
+| 2013-10-24 | 第62期王座戦予選 | Shiraishi Yuichi | Kobayashi Koichi | Win | W+R | 6.5 | 2776 | -184 | 
+| 2013-08-22 | 第39期碁聖戦予選 | Kobayashi Koichi | Yao Zhiteng | Lose | W+0.5 | 6.5 | 2960 | 311 | 
+| 2013-06-20 | 第39期名人戦予選 | Kobayashi Koichi | Nakaonoda Tomomi | Lose | W+3.5 | 6.5 | 2649 | 91 | 
+| 2013-05-13 | 第3回エステー＆フマキラー囲碁マスターズカップ2回戦 | Yamashiro Hiroshi | Kobayashi Koichi | Lose | B+4.5 | 6.5 | 2558 | -21 | 
+| 2013-05-02 | 第52期十段戦予選 |  | Kobayashi Koichi | Win | W+R | 6.5 | 2579 | -1 | 
+| 2013-04-11 | 第69期本因坊戦予選 | Kobayashi Koichi | Mochizuki Kenichi | Lose | W+3.5 | 6.5 | 2580 | -16 | 
+| 2013-04-04 | 第52期十段戦予選 | Kobayashi Koichi | Ito Masashi | Win | B+R | 6.5 | 2596 | -70 | 
+| 2013-03-14 | 第3回エステー＆フマキラー囲碁マスターズカップ1回戦 | O Rissei | Kobayashi Koichi | Win | W+0.5 | 6.5 | 2666 | 63 | 
+| 2013-02-14 | 第39期天元戦本戦1回戦 | Kobayashi Koichi | Yu Zhengqi | Lose | W+R | 6.5 | 2603 | 1 | 
+| 2013-01-10 | 第39期天元戦本戦0回戦 | Kato Atsushi | Kobayashi Koichi | Win | W+R | 6.5 | 2602 | 125 | 
+| 2012-12-20 | 第38期棋聖戦予選 | Ishida Yoshio | Kobayashi Koichi | Lose | B+R | 6.5 | 2477 | -63 | 
+| 2012-12-13 | 第61期王座戦予選 | Rin Shien | Kobayashi Koichi | Lose | B+R | 6.5 | 2540 | 27 | 
+| 2012-12-06 | 第39期天元戦予選 | Tsuruyama Atsushi | Kobayashi Koichi | Win | W+3.5 | 6.5 | 2513 | -232 | 
+| 2012-11-29 | 第38期棋聖戦予選 | Kobayashi Koichi | Ogaki Yusaku | Win | B+R | 6.5 | 2745 | 157 | 
+| 2012-11-22 | 第39期天元戦予選 | Kobayashi Koichi | Nakamura Hidehito | Win | B+R | 6.5 | 2588 | 56 | 
+| 2012-10-25 | 第38期碁聖戦予選 | Kobayashi Satoru | Kobayashi Koichi | Lose | B+0.5 | 6.5 | 2532 | 33 | 
+| 2012-10-04 | 第61期王座戦予選 | Obuchi Morito | Kobayashi Koichi | Win | W+R | 6.5 | 2499 | -34 | 
+| 2012-09-13 | 第38期碁聖戦予選 | Kobayashi Koichi | Tsuneishi Takashi | Win | B+1.5 | 6.5 | 2533 | -220 | 
+| 2012-07-09 | 第8回大和証券杯ネット囲碁オープン予選 | Suzuki Ayumi | Kobayashi Koichi | Lose | B+2.5 | 6.5 | 2753 | -11 | 
+| 2012-06-28 | 第68期本因坊戦予選 | Kobayashi Koichi | Nakamura Shinya | Lose | W+R | 6.5 | 2764 | -63 | 
+| 2012-06-14 | 第19期阿含・桐山杯全日本早碁オープン戦予選 | Kobayashi Koichi | Seto Taiki | Lose | W+11.5 | 6.5 | 2827 | -108 | 
+| 2012-05-10 | 第2回エステー＆フマキラー囲碁マスターズカップ2回戦 | Kudo Norio | Kobayashi Koichi | Lose | B+29.5 | 6.5 | 2935 | -114 | 
+| 2012-05-03 | 第68期本因坊戦予選 | Kobayashi Koichi | Kataoka Satoshi | Win | B+0.5 | 6.5 | 3049 | 49 | 
+| 2012-04-26 | 第38期名人戦予選 | Kobayashi Koichi | O Rissei | Lose | W+2.5 | 6.5 | 3000 | -32 | 
+| 2012-04-19 | 第51期十段戦予選 | Kim Sujun | Kobayashi Koichi | Lose | B+9.5 | 6.5 | 3032 | 74 | 
+| 2012-03-15 | 第2回エステー＆フマキラー囲碁マスターズカップ1回戦 | O Rissei | Kobayashi Koichi | Win | W+0.5 | 6.5 | 2958 | 51 | 
+| 2012-03-08 | 第68期本因坊戦予選 | Kobayashi Koichi | Takanashi Seiken | Win | B+2.5 | 6.5 | 2907 | -136 | 
+| 2012-02-02 | 第37期棋聖戦予選 | Kobayashi Koichi | Tsuruyama Atsushi | Lose | W+8.5 | 6.5 | 3043 | -49 | 
+| 2011-12-22 | 第38期天元戦本戦1回戦 | Sakai Hideyuki | Kobayashi Koichi | Lose | B+5.5 | 6.5 | 3092 | 328 | 
+| 2011-10-29 | 第7回大和証券杯ネット囲碁オープン1回戦 | Kobayashi Koichi | Kim Sujun | Lose | W+R | 6.5 | 2764 | 9 | 
+| 2011-10-27 | 第38期天元戦予選 | Shimosaka Miori | Kobayashi Koichi | Win | W+8.5 | 6.5 | 2755 | -7 | 
+| 2011-10-13 | 第37期碁聖戦予選 | Morita Michihiro | Kobayashi Koichi | Lose | B+5.5 | 6.5 | 2762 | -72 | 
+| 2011-09-29 | 第36期棋聖戦Bリーグ | Yamashiro Hiroshi | Kobayashi Koichi | Lose | B+3.5 | 6.5 | 2834 | 26 | 
+| 2011-09-08 | 第37期碁聖戦予選 | Kobayashi Koichi | Kato Atsushi | Win | B+R | 6.5 | 2808 | 58 | 
+| 2011-09-01 | 第38期天元戦予選 | Han Zenki | Kobayashi Koichi | Win | W+0.5 | 6.5 | 2750 | -16 | 
+| 2011-08-04 | 第36期棋聖戦Bリーグ | Kobayashi Koichi | Yoda Norimoto | Lose | W+R | 6.5 | 2766 | 36 | 
+| 2011-07-28 | 第60期王座戦予選 | Kobayashi Koichi | O Meien | Lose | W+4.5 | 6.5 | 2730 | -13 | 
+| 2011-07-23 | 第1回エステー＆フマキラー囲碁マスターズカップ決勝 | Kobayashi Koichi | Cho Chikun | Lose | W+1.5 | 6.5 | 2743 | -39 | 
+| 2011-07-14 | 第36期棋聖戦Bリーグ | Kobayashi Koichi | Takao Shinji | Lose | W+4.5 | 6.5 | 2782 | -118 | 
+| 2011-06-25 | 第1回エステー＆フマキラー囲碁マスターズカップ準決勝 | Ishida Yoshio | Kobayashi Koichi | Win | W+4.5 | 6.5 | 2900 | -5 | 
+| 2011-06-16 | 第37期名人戦予選 | Kobayashi Koichi | Mimura Tomoyasu | Lose | W+0.5 | 6.5 | 2905 | -28 | 
+| 2011-06-09 | 第36期棋聖戦Bリーグ | Ryu Shikun | Kobayashi Koichi | Win | W+R | 6.5 | 2933 | 45 | 
+| 2011-05-19 | 第36期棋聖戦Bリーグ | Kobayashi Koichi | Akiyama Jiro | Lose | W+1.5 | 6.5 | 2888 | -33 | 
+| 2011-04-07 | 第50期十段戦予選 | Kobayashi Koichi | Kato Atsushi | Lose | W+R | 6.5 | 2921 | 6 | 
+| 2011-03-31 | 第67期本因坊戦予選 | Matsumoto Takehisa | Kobayashi Koichi | Lose | B+0.5 | 6.5 | 2915 | -35 | 
+| 2011-03-24 | 第1回エステー＆フマキラー囲碁マスターズカップ2回戦 | Rin Kaiho | Kobayashi Koichi | Win | W+R | 6.5 | 2950 | 40 | 
+| 2011-02-24 | 第36期棋聖戦予選 | Kobayashi Koichi | Iguchi Hideichiro | Win | B+R | 6.5 | 2910 | 2 | 
+| 2011-02-17 | 第50期十段戦予選 | Kobayashi Koichi | Xie Yimin | Win | B+R | 6.5 | 2908 | -8 | 
+| 2011-02-03 | 第67期本因坊戦予選 | Nagahara Yoshiaki | Kobayashi Koichi | Win | W+R | 6.5 | 2916 | 27 | 
+| 2011-01-27 | 第50期十段戦予選 | Ishikura Noboru | Kobayashi Koichi | Win | W+2.5 | 6.5 | 2889 | 72 | 
+| 2011-01-24 | 第4期幽玄杯精鋭リーグ戦 | Fujisawa Rina | Kobayashi Koichi | Win | W+R | 6.5 | 2817 | 64 | 
+| 2011-01-20 | 第36期棋聖戦予選 | O Meien | Kobayashi Koichi | Win | W+0.5 | 6.5 | 2753 | 72 | 
+| 2010-12-16 | 第36期棋聖戦予選 | Kobayashi Koichi | Honda Kunihisa | Win | B+R | 6.5 | 2681 | -25 | 
+| 2010-11-25 | 第59期王座戦予選 | Kobayashi Koichi | Sakai Takeshi | Lose | W+5.5 | 6.5 | 2706 | -14 | 
+| 2010-11-18 | 第36期棋聖戦予選 | Kobayashi Koichi | Yo Kagen | Win | B+5.5 | 6.5 | 2720 | 47 | 
+| 2010-11-11 | 第37期天元戦予選 | O Meien | Kobayashi Koichi | Lose | B+5.5 | 6.5 | 2673 | 4 | 
+| 2010-11-04 | 第59期王座戦予選 | Rin Kaiho | Kobayashi Koichi | Win | W+4.5 | 6.5 | 2669 | 27 | 
+| 2010-10-21 | 第36期棋聖戦予選 | Hoshino Masaki | Kobayashi Koichi | Win | W+R | 6.5 | 2642 | 79 | 
+| 2010-10-07 | 第36期碁聖戦予選 | Cho Chikun | Kobayashi Koichi | Lose | B+3.5 | 6.5 | 2563 | 107 | 
+| 2010-09-30 | 第37期天元戦予選 | Kobayashi Koichi | Yo Kaei | Win | B+R | 6.5 | 2456 | -125 | 
+| 2010-08-26 | 第59期王座戦予選 | Mitsunaga Junzo | Kobayashi Koichi | Win | W+R | 6.5 | 2581 | -33 | 
+| 2010-08-05 | 第36期碁聖戦予選 | Ryu Shikun | Kobayashi Koichi | Win | W+7.5 | 6.5 | 2614 | 23 | 
+| 2010-08-02 | 第4期幽玄杯精鋭リーグ戦 | Sun Zhe | Kobayashi Koichi | Lose | B+R | 6.5 | 2591 | -68 | 
+| 2010-06-26 | 第6回大和証券杯ネット囲碁オープン1回戦 | Yoda Norimoto | Kobayashi Koichi | Lose | B+4.5 | 6.5 | 2659 | 44 | 
+| 2010-06-17 | 第36期名人戦予選 | Kobayashi Koichi | Mimura Tomoyasu | Lose | W+R | 6.5 | 2615 | 66 | 
+| 2010-05-13 | 第36期名人戦予選 | Kobayashi Koichi | Ishigure Ikuro | Win | B+5.5 | 6.5 | 2549 | -94 | 
+| 2010-04-01 | 第66期本因坊戦予選 | Kobayashi Koichi | Komatsu Hideki | Lose | W+5.5 | 6.5 | 2643 | -56 | 
+| 2010-03-18 | 第49期十段戦予選 | Kobayashi Koichi | Nakamura Shinya | Lose | W+4.5 | 6.5 | 2699 | 3 | 
+| 2010-02-18 | 第49期十段戦予選 | Ryu Shikun | Kobayashi Koichi | Win | W+R | 6.5 | 2696 | 36 | 
+| 2010-02-04 | 第66期本因坊戦予選 | Horimoto Mitsunari | Kobayashi Koichi | Win | W+7.5 | 6.5 | 2660 | 33 | 
+| 2010-01-28 | 第36期天元戦本戦1回戦 | Ryu Shikun | Kobayashi Koichi | Lose | B+R | 6.5 | 2627 | 5 | 
+| 2009-12-17 | 第49期十段戦予選 | Miyazawa Goro | Kobayashi Koichi | Win | W+R | 6.5 | 2622 | 4 | 
+| 2009-12-03 | 第58期王座戦予選 | Kobayashi Koichi | Mitani Tetsuya | Lose | W+4.5 | 6.5 | 2618 | -217 | 
+| 2009-11-26 | 第36期天元戦予選 | Ko Iso | Kobayashi Koichi | Win | W+R | 6.5 | 2835 | -40 | 
+| 2009-11-12 | 第58期王座戦予選 | Hoshino Masaki | Kobayashi Koichi | Win | W+2.5 | 6.5 | 2875 | 39 | 
+| 2009-11-05 | 第35期棋聖戦予選 | Kobayashi Koichi | Ko Reibun | Lose | W+15.5 | 6.5 | 2836 | -29 | 
+| 2009-10-22 | 第58期王座戦予選 | Ando Kazushige | Kobayashi Koichi | Win | W+R | 6.5 | 2865 | 18 | 
+| 2009-10-15 | 第35期棋聖戦予選 | Kobayashi Koichi | So Kofuku | Win | B+R | 6.5 | 2847 | -9 | 
+| 2009-10-08 | 第35期名人戦予選 | Yamashita Keigo | Kobayashi Koichi | Lose | B+R | 6.5 | 2856 | -2 | 
+| 2009-10-03 | 第5回大和証券杯ネット囲碁オープン3回戦 | Kobayashi Koichi | Takao Shinji | Lose | W+R | 6.5 | 2858 | 35 | 
+| 2009-10-01 | 第35期碁聖戦予選 | Kobayashi Koichi | Mizokami Tomochika | Lose | W+3.5 | 6.5 | 2823 | -109 | 
+| 2009-09-17 | 第35期棋聖戦予選 | Kurotaki Masanori | Kobayashi Koichi | Win | W+R | 6.5 | 2932 | 26 | 
+| 2009-09-03 | 第36期天元戦予選 | Xie Yimin | Kobayashi Koichi | Win | W+0.5 | 6.5 | 2906 | -6 | 
+| 2009-08-29 | 第5回大和証券杯ネット囲碁オープン2回戦 | Kobayashi Koichi | Kato Atsushi | Win | B+R | 6.5 | 2912 | 26 | 
+| 2009-08-27 | 第35期名人戦予選 | Komatsu Hideki | Kobayashi Koichi | Win | W+R | 6.5 | 2886 | 44 | 
+| 2009-08-20 | 第35期棋聖戦予選 | Kobayashi Koichi | Hara Sachiko | Win | B+R | 6.5 | 2842 | 27 | 
+| 2009-08-06 | 第35期名人戦予選 | Fujii Shuya | Kobayashi Koichi | Win | W+3.5 | 6.5 | 2815 | 32 | 
+| 2009-07-23 | 第35期碁聖戦予選 | Kobayashi Koichi | Komatsu Hideki | Win | B+2.5 | 6.5 | 2783 | 7 | 
+| 2009-06-25 | 第35期名人戦予選 | Kobayashi Koichi | Ogaki Yusaku | Win | B+0.5 | 6.5 | 2776 | -43 | 
+| 2009-05-21 | 第65期本因坊戦予選 | Takemiya Masaki | Kobayashi Koichi | Lose | B+R | 6.5 | 2819 | 11 | 
+| 2009-04-30 | 第65期本因坊戦予選 | Ogaki Yusaku | Kobayashi Koichi | Win | W+7.5 | 6.5 | 2808 | 44 | 
+| 2009-04-23 | 第35期名人戦予選 | Kobayashi Koichi | Fukui Masaaki | Win | B+R | 6.5 | 2764 | 50 | 
+| 2009-03-12 | 第65期本因坊戦予選 | Kobayashi Koichi | Obuchi Morito | Win | B+11.5 | 6.5 | 2714 | -23 | 
+| 2009-02-19 | 第65期本因坊戦予選 | Kobayashi Koichi | Ando Kazushige | Win | B+R | 6.5 | 2737 | -18 | 
+| 2009-01-29 | 第48期十段戦予選 | Takano Hideki | Kobayashi Koichi | Lose | B+R | 6.5 | 2755 | -4 | 
+| 2009-01-26 | 第2期幽玄杯精鋭リーグ戦 | Kobayashi Koichi | Ohashi Naruya | Lose | W+0.5 | 6.5 | 2759 | -58 | 
+| 2008-12-20 | 第4回大和証券杯ネット囲碁オープン決勝 | Kono Rin | Kobayashi Koichi | Lose | B+R | 6.5 | 2817 | 73 | 
+| 2008-12-11 | 第48期十段戦予選 | Ando Kazushige | Kobayashi Koichi | Win | W+2.5 | 6.5 | 2744 | -40 | 
+| 2008-12-01 | 第2期幽玄杯精鋭リーグ戦 | Yanagisawa Satoshi | Kobayashi Koichi | Win | W+R | 6.5 | 2784 | 285 | 
+| 2008-11-22 | 第4回大和証券杯ネット囲碁オープン準決勝 | Shuto Shun | Kobayashi Koichi | Win | W+4.5 | 6.5 | 2499 | 45 | 
+| 2008-11-20 | 第35期天元戦予選 | O Meien | Kobayashi Koichi | Lose | B+1.5 | 6.5 | 2454 | -621 | 
+| 2008-10-25 | 第4回大和証券杯ネット囲碁オープン3回戦 | Komatsu Hideki | Kobayashi Koichi | Win | W+4.5 | 6.5 | 3075 | 80 | 
+| 2008-10-02 | 第34期碁聖戦予選 | Kobayashi Koichi | Yasuda Yasutoshi | Lose | W+R | 6.5 | 2995 | -22 | 
+| 2008-09-25 | 第35期天元戦予選 | Kobayashi Koichi | Xie Yimin | Win | B+R | 6.5 | 3017 | 5 | 
+| 2008-09-22 | 第2期幽玄杯精鋭リーグ戦 | Tamai Shin | Kobayashi Koichi | Win | W+R | 6.5 | 3012 | -6 | 
+| 2008-09-18 | 第34期棋聖戦予選 | So Yokoku | Kobayashi Koichi | Lose | B+12.5 | 6.5 | 3018 | -40 | 
+| 2008-09-03 | 第13回三星火災杯世界オープン囲碁選手権1回戦 |  | Kobayashi Koichi | Lose | B+2.5 | 6.5 | 3058 | 19 | 
+| 2008-08-30 | 第4回大和証券杯ネット囲碁オープン2回戦 | Ko Iso | Kobayashi Koichi | Win | W+R | 6.5 | 3039 | 63 | 
+| 2008-08-28 | 第34期碁聖戦予選 | Yo Kaei | Kobayashi Koichi | Win | W+R | 6.5 | 2976 | -31 | 
+| 2008-08-21 | 第34期名人戦予選 | Kobayashi Koichi | Kato Atsushi | Lose | W+0.5 | 6.5 | 3007 | -27 | 
+| 2008-08-14 | 第57期王座戦予選 | Kobayashi Koichi | Yamada Takuji | Lose | W+0.5 | 6.5 | 3034 | 326 | 
+| 2008-08-07 | 第34期棋聖戦予選 | Kobayashi Koichi | Ono Nobuyuki | Win | B+R | 6.5 | 2708 | -3 | 
+| 2008-07-17 | 第57期王座戦予選 | Kobayashi Koichi | Sugimoto Akira | Win | B+5.5 | 6.5 | 2711 | 26 | 
+| 2008-07-10 | 第34期棋聖戦予選 | Kobayashi Koichi | Sanno Hirotaka | Win | B+R | 6.5 | 2685 | 6 | 
+| 2008-07-03 | 第15期阿含・桐山杯全日本早碁オープン戦1回戦 | Yuki Satoshi | Kobayashi Koichi | Lose | B+R | 6.5 | 2679 | -13 | 
+| 2008-06-30 | 第2期幽玄杯精鋭リーグ戦 | Kobayashi Koichi | Tajima Shingo | Win | B+R | 6.5 | 2692 | -18 | 
+| 2008-06-21 | 第4回大和証券杯ネット囲碁オープン1回戦 | Kobayashi Koichi | Cho Sonjin | Win | B+R | 6.5 | 2710 | 9 | 
+| 2008-06-19 | 第34期名人戦予選 | Suzuki Yoshimichi | Kobayashi Koichi | Win | W+7.5 | 6.5 | 2701 | 2 | 
+| 2008-06-05 | 第34期棋聖戦予選 | Makihata Taeko | Kobayashi Koichi | Win | W+R | 6.5 | 2699 | 2 | 
+| 2008-05-29 | 第34期名人戦予選 | Ko Mosei | Kobayashi Koichi | Win | W+R | 6.5 | 2697 | 7 | 
+| 2008-05-26 | 第4回大和証券杯ネット囲碁オープン予選 | Kobayashi Koichi | Kono Mitsuki | Win | B+R | 6.5 | 2690 | 161 | 
+| 2008-03-13 | 第47期十段戦予選 | Iyama Yuta | Kobayashi Koichi | Lose | B+R | 6.5 | 2529 | -10 | 
+| 2008-02-28 | 第64期本因坊戦予選 | Obuchi Morito | Kobayashi Koichi | Lose | B+3.5 | 6.5 | 2539 | -15 | 
+| 2008-02-25 | 第1期幽玄杯精鋭リーグ戦 | Kobayashi Koichi | Furuya Masao | Win | B+R | 6.5 | 2554 | -11 | 
+| 2008-02-07 | 第64期本因坊戦予選 | Kobayashi Koichi | Tei Meiko | Win | B+R | 6.5 | 2565 | 2 | 
+| 2008-02-04 | 第1期幽玄杯精鋭リーグ戦 | Kobayashi Koichi | Shida Tatsuya | Win | B+R | 6.5 | 2563 | 16 | 
+| 2008-01-31 | 第34期天元戦本戦1回戦 | Kobayashi Koichi | Ko Iso | Lose | W+R | 6.5 | 2547 | -11 | 
+| 2008-01-24 | 第33期碁聖戦本戦2回戦 | Yuki Satoshi | Kobayashi Koichi | Lose | B+R | 6.5 | 2558 | -24 | 
+| 2007-12-10 | 第1期幽玄杯精鋭リーグ戦 | Kobayashi Koichi | Tanemura Sayuri | Win | B+R | 6.5 | 2582 | -1 | 
+| 2007-12-06 | 第33期碁聖戦本戦1回戦 | Kobayashi Koichi | Seto Taiki | Win | B+0.5 | 6.5 | 2583 | 12 | 
+| 2007-12-03 | 第1期幽玄杯精鋭リーグ戦 | Osawa Kenro | Kobayashi Koichi | Win | W+R | 6.5 | 2571 | 10 | 
+| 2007-11-15 | 第33期碁聖戦予選 | Kobayashi Koichi | Kudo Norio | Win | B+0.5 | 6.5 | 2561 | 14 | 
+| 2007-10-18 | 第34期天元戦予選 | O Rissei | Kobayashi Koichi | Win | W+2.5 | 6.5 | 2547 | 15 | 
+| 2007-10-11 | 第33期碁聖戦予選 | Kobayashi Koichi | Kobayashi Satoru | Win | B+R | 6.5 | 2532 | -4 | 
+| 2007-09-27 | 第33期名人戦予選 | Sonoda Yuichi | Kobayashi Koichi | Lose | B+R | 6.5 | 2536 | -72 | 
+| 2007-09-06 | 第34期天元戦予選 | Kobayashi Koichi | Tei Meiko | Win | B+R | 6.5 | 2608 | 22 | 
+| 2007-08-30 | 第46期十段戦敗者復活戦2回戦 | Kobayashi Koichi | Kono Rin | Lose | W+3.5 | 6.5 | 2586 | 47 | 
+| 2007-08-23 | 第33期名人戦予選 | Kobayashi Koichi | Yamada Takuji | Win | B+R | 6.5 | 2539 | 0 | 
+| 2007-08-14 | 第3回大和証券杯ネット囲碁オープン予選 | Kurotaki Masanori | Kobayashi Koichi | Lose | B+0.5 | 6.5 | 2539 | -273 | 
+| 2007-08-09 | 第46期十段戦本戦2回戦 | Takao Shinji | Kobayashi Koichi | Lose | B+4.5 | 6.5 | 2812 | -6 | 
+| 2007-07-12 | 第56期王座戦予選 | Morita Michihiro | Kobayashi Koichi | Lose | B+3.5 | 6.5 | 2818 | -91 | 
+| 2007-06-28 | 第33期名人戦予選 | Takemiya Masaki | Kobayashi Koichi | Win | W+3.5 | 6.5 | 2909 | 129 | 
+| 2007-06-14 | 第33期棋聖戦予選 | Kobayashi Koichi | Ko Mosei | Lose | W+0.5 | 6.5 | 2780 | -9 | 
+| 2007-06-07 | 第33期天元戦本戦3回戦 | Kobayashi Koichi | Iyama Yuta | Lose | W+8.5 | 6.5 | 2789 | 11 | 
+| 2007-05-24 | 第46期十段戦本戦1回戦 | Kobayashi Koichi | Shuto Shun | Win | B+R | 6.5 | 2778 | 50 | 
+| 2007-05-10 | 第56期王座戦予選 | Kobayashi Koichi | Abe Yumiko | Win | B+R | 6.5 | 2728 | 10 | 
+| 2007-05-03 | 第33期名人戦予選 | Kobayashi Koichi | Yasuda Yasutoshi | Win | B+R | 6.5 | 2718 | 19 | 
+| 2007-04-26 | 第33期天元戦本戦2回戦 | Lee Ishu | Kobayashi Koichi | Win | W+R | 6.5 | 2699 | 116 | 
+| 2007-04-19 | 第46期十段戦予選 | Sakai Takeshi | Kobayashi Koichi | Win | W+R | 6.5 | 2583 | -73 | 
+| 2007-03-15 | 第46期十段戦予選 | Kobayashi Koichi | Ha Youngil | Win | B+5.5 | 6.5 | 2656 | 447 | 
+| 2007-02-22 | 第46期十段戦予選 | Ishikura Noboru | Kobayashi Koichi | Win | W+0.5 | 6.5 | 2209 | -93 | 
+| 2007-02-15 | 第63期本因坊戦予選 | Cho Riyu | Kobayashi Koichi | Lose | B+0.5 | 6.5 | 2302 | -161 | 
+| 2007-01-25 | 第63期本因坊戦予選 | Kobayashi Koichi | Sanno Hirotaka | Win | B+5.5 | 6.5 | 2463 | 54 | 
+| 2007-01-11 | 第33期天元戦本戦1回戦 | Kobayashi Koichi | Ryu Shikun | Win | B+4.5 | 6.5 | 2409 | 17 | 
+| 2006-11-23 | 第20回世界囲碁選手権富士通杯国内予選 | Cho Sonjin | Kobayashi Koichi | Lose | B+R | 6.5 | 2392 | -114 | 
+| 2006-10-19 | 第33期天元戦予選 | Kobayashi Koichi | Hashimoto Yujiro | Win | B+6.5 | 6.5 | 2506 | -7 | 
+| 2006-09-28 | 第32期棋聖戦予選 | Yamamoto Masato | Kobayashi Koichi | Lose | B+0.5 | 6.5 | 2513 | 20 | 
+| 2006-09-07 | 第33期天元戦予選 | Kurotaki Masaki | Kobayashi Koichi | Win | W+R | 6.5 | 2493 | 4 | 
+| 2006-08-24 | 第45期十段戦敗者復活戦2回戦 | Yamashiro Hiroshi | Kobayashi Koichi | Lose | B+R | 6.5 | 2489 | -31 | 
+| 2006-07-20 | 第32期碁聖戦予選 | Kobayashi Koichi | Yasuda Yasutoshi | Win | B+R | 6.5 | 2520 | -30 | 
+| 2006-07-13 | 第45期十段戦敗者復活戦1回戦 | Sakai Takeshi | Kobayashi Koichi | Win | W+R | 6.5 | 2550 | -28 | 
+| 2006-06-29 | 第32期名人戦予選 | So Yokoku | Kobayashi Koichi | Lose | B+R | 6.5 | 2578 | -240 | 
+| 2006-06-22 | 第13期阿含・桐山杯全日本早碁オープン戦予選 | Rin Kanketsu | Kobayashi Koichi | Lose | B+14.5 | 6.5 | 2818 | -7 | 
+| 2006-06-15 | 第45期十段戦本戦1回戦 | Kobayashi Koichi | Yamashita Keigo | Lose | W+0.5 | 6.5 | 2825 | -64 | 
+| 2006-06-01 | 第55期王座戦予選 | Takagi Shoichi | Kobayashi Koichi | Win | W+2.5 | 6.5 | 2889 | 83 | 
+| 2006-05-04 | 第32期名人戦予選 | Iguchi Hideichiro | Kobayashi Koichi | Win | W+R | 6.5 | 2806 | 13 | 
+| 2006-04-27 | 第62期本因坊戦予選 | Rin Shien | Kobayashi Koichi | Lose | B+9.5 | 6.5 | 2793 | 5 | 
+| 2006-03-23 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Kobayashi Koichi | Kudo Norio | Lose | W+R | 6.5 | 2788 | -51 | 
+| 2006-03-02 | 第62期本因坊戦予選 | Kobayashi Koichi | Mitsunaga Junzo | Win | B+R | 6.5 | 2839 | -9 | 
+| 2006-02-23 | 第55期王座戦予選 | Kobayashi Koichi | Kobayashi Kenji | Win | B+R | 6.5 | 2848 | -69 | 
+| 2006-02-16 | 第45期十段戦予選 | Hikosaka Naoto | Kobayashi Koichi | Win | W+7.5 | 6.5 | 2917 | -15 | 
+| 2006-02-09 | 第62期本因坊戦予選 | Kono Mitsuki | Kobayashi Koichi | Win | W+R | 6.5 | 2932 | -11 | 
+| 2006-02-02 | 第31期碁聖戦本戦2回戦 | Kobayashi Koichi | Kiyonari Tetsuya | Lose | W+R | 6.5 | 2943 | 96 | 
+| 2005-12-22 | 第32期天元戦本戦0回戦 | Kobayashi Koichi | Katayama Yasuo | Lose | W+1.5 | 6.5 | 2847 | -179 | 
+| 2005-12-01 | 第31期碁聖戦本戦1回戦 | Yokota Shigeaki | Kobayashi Koichi | Win | W+6.5 | 6.5 | 3026 | 115 | 
+| 2005-11-24 | 第32期天元戦予選 | Otake Hideo | Kobayashi Koichi | Win | W+R | 6.5 | 2911 | -120 | 
+| 2005-11-17 | 第45期十段戦予選 | Kojima Takaho | Kobayashi Koichi | Win | W+R | 6.5 | 3031 | 222 | 
+| 2005-10-20 | 第45期十段戦予選 | Kobayashi Koichi | Ko Iso | Win | B+R | 6.5 | 2809 | 100 | 
+| 2005-07-08 | 第25期NECカップ囲碁トーナメント戦1回戦 | Kobayashi Koichi | Kobayashi Satoru | Lose | W+3.5 | 6.5 | 2709 | 289 | 
+| 2005-05-18 | 第10回LG杯世界棋王戦2回戦 | Kobayashi Koichi | Gu Li | Lose | W+R | 6.5 | 2420 | -3 | 
+| 2005-05-16 | 第10回LG杯世界棋王戦1回戦 | Kobayashi Koichi | Park Byeongkyu | Win | B+R | 6.5 | 2423 | -56 | 
+| 2005-03-03 | 第61期本因坊戦予選 | Kobayashi Koichi | Ko Iso | Lose | W+0.5 | 6.5 | 2479 | -474 | 
+| 2005-01-29 | 第24期NECカップ囲碁トーナメント戦準決勝 | Kobayashi Koichi | Cho U | Lose | W+4.5 | 6.5 | 2953 | 23 | 
+| 2005-01-06 | 第31期天元戦本戦1回戦 | Kim Sujun | Kobayashi Koichi | Lose | B+1.5 | 6.5 | 2930 | 129 | 
+| 2004-12-02 | 第30期碁聖戦予選 | Kobayashi Koichi | Ishikura Noboru | Lose | W+3.5 | 6.5 | 2801 | 38 | 
+| 2004-11-20 | 第24期NECカップ囲碁トーナメント戦2回戦 | Yoda Norimoto | Kobayashi Koichi | Win | W+5.5 | 6.5 | 2763 | -241 | 
+| 2004-10-09 | 第11期阿含・桐山杯全日本早碁オープン戦決勝 | Hane Naoki | Kobayashi Koichi | Lose | B+3.5 | 6.5 | 3004 | -224 | 
+| 2004-09-23 | 第43期十段戦敗者復活戦2回戦 | Kobayashi Koichi | Yamashita Keigo | Lose | W+6.5 | 6.5 | 3228 | -81 | 
+| 2004-09-10 | 第24期NECカップ囲碁トーナメント戦1回戦 | Kobayashi Koichi | Takemiya Masaki | Win | B+3.5 | 6.5 | 3309 | 291 | 
+| 2004-09-02 | 第60期本因坊戦予選 | Han Zenki | Kobayashi Koichi | Lose | B+3.5 | 6.5 | 3018 | -34 | 
+| 2004-08-21 | 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Kobayashi Koichi | Yu Bin | Lose | W+R | 6.5 | 3052 | -23 | 
+| 2004-08-05 | 第11期阿含・桐山杯全日本早碁オープン戦2回戦 | Kobayashi Koichi | Yamada Takuji | Win | B+R | 6.5 | 3075 | 8 | 
+| 2004-07-29 | 第43期十段戦敗者復活戦1回戦 | Kobayashi Izumi | Kobayashi Koichi | Win | W+R | 6.5 | 3067 | 18 | 
+| 2004-05-27 | 第43期十段戦本戦1回戦 | Kobayashi Koichi | Mimura Tomoyasu | Lose | W+3.5 | 6.5 | 3049 | -58 | 
+| 2004-05-11 | 第16回テレビアジア選手権 | Kobayashi Koichi | Song Taekon | Lose | W+6.5 | 6.5 | 3107 | -130 | 
+| 2004-04-08 | 第29期碁聖戦本戦3回戦 | Yamashita Keigo | Kobayashi Koichi | Lose | B+4.5 | 6.5 | 3237 | 41 | 
+| 2004-04-01 | 第59期本因坊戦リーグ | Kobayashi Koichi | Yoda Norimoto | Lose | W+6.5 | 6.5 | 3196 | -69 | 
+| 2004-03-18 | 第59期本因坊戦リーグ | O Rissei | Kobayashi Koichi | Lose | B+2.5 | 6.5 | 3265 | -13 | 
+| 2004-03-06 | 第23期NECカップ囲碁トーナメント戦決勝 | Kobayashi Koichi | Mimura Tomoyasu | Win | B+2.5 | 6.5 | 3278 | 7 | 
+| 2004-02-26 | 第59期本因坊戦リーグ | Kato Masao | Kobayashi Koichi | Lose | B+R | 6.5 | 3271 | 96 | 
+| 2004-02-21 | 第23期NECカップ囲碁トーナメント戦準決勝 | Kobayashi Koichi | Yamashita Keigo | Win | B+R | 6.5 | 3175 | 106 | 
+| 2004-02-09 | 第29期碁聖戦本戦2回戦 | Kim Sujun | Kobayashi Koichi | Win | W+0.5 | 6.5 | 3069 | -2 | 
+| 2004-02-05 | 第30期天元戦本戦1回戦 | Kobayashi Koichi | Hikosaka Naoto | Lose | W+2.5 | 6.5 | 3071 | -15 | 
+| 2004-01-22 | 第29期碁聖戦本戦1回戦 | Kobayashi Koichi | Kato Masao | Win | B+1.5 | 6.5 | 3086 | 11 | 
+| 2004-01-08 | 第59期本因坊戦リーグ | Mimura Tomoyasu | Kobayashi Koichi | Lose | B+1.5 | 6.5 | 3075 | -27 | 
+| 2003-12-11 | 第59期本因坊戦リーグ | Yamashita Keigo | Kobayashi Koichi | Win | W+1.5 | 6.5 | 3102 | 9 | 
+| 2003-11-15 | 第5回農心辛ラーメン杯世界囲碁最強戦第8戦 | Weon Seongjin | Kobayashi Koichi | Lose | B+3.5 | 6.5 | 3093 | -31 | 
+| 2003-11-14 | 第5回農心辛ラーメン杯世界囲碁最強戦第7戦 | Zhou Heyang | Kobayashi Koichi | Win | W+R | 6.5 | 3124 | 10 | 
+| 2003-11-13 | 第5回農心辛ラーメン杯世界囲碁最強戦第6戦 | Kobayashi Koichi | Park Shiun | Win | B+7.5 | 6.5 | 3114 | -26 | 
+| 2003-11-12 | 第5回農心辛ラーメン杯世界囲碁最強戦第5戦 | Kobayashi Koichi | Wang Lei (b) | Win | B+1.5 | 6.5 | 3140 | -3 | 
+| 2003-11-06 | 第59期本因坊戦リーグ | Kobayashi Koichi | Cho Sonjin | Win | B+R | 6.5 | 3143 | -2819 | 
+| 2003-10-11 | 第23期NECカップ囲碁トーナメント戦2回戦 | Yamada Kimio | Kobayashi Koichi | Win | W+2.5 | 6.5 | 5962 | 176 | 
+| 2003-10-02 | 第59期本因坊戦リーグ | Kobayashi Koichi | O Meien | Win | B+5.5 | 6.5 | 5786 | 2910 | 
+| 2003-09-21 | 第1期JALスーパー早碁準決勝 | Yuki Satoshi | Kobayashi Koichi | Lose | B+R | 6.5 | 2876 | 35 | 
+| 2003-08-27 | 第28期碁聖戦挑戦手合五番勝負第5局 | Kobayashi Koichi | Yoda Norimoto | Lose | W+3.5 | 6.5 | 2841 | -18 | 
+| 2003-08-20 | 第28期碁聖戦挑戦手合五番勝負第4局 | Kobayashi Koichi | Yoda Norimoto | Win | B+0.5 | 6.5 | 2859 | 94 | 
+| 2003-07-31 | 第28期碁聖戦挑戦手合五番勝負第3局 | Yoda Norimoto | Kobayashi Koichi | Win | W+4.5 | 6.5 | 2765 | 60 | 
+| 2003-07-24 | 第10期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Chikun | Kobayashi Koichi | Lose | B+5.5 | 6.5 | 2705 | -23 | 
+| 2003-07-17 | 第28期碁聖戦挑戦手合五番勝負第2局 | Kobayashi Koichi | Yoda Norimoto | Lose | W+8.5 | 6.5 | 2728 | -41 | 
+| 2003-07-13 | 第1期JALスーパー早碁2回戦 | Takao Shinji | Kobayashi Koichi | Win | W+5.5 | 6.5 | 2769 | -16 | 
+| 2003-07-01 | 第28期碁聖戦挑戦手合五番勝負第1局 | Yoda Norimoto | Kobayashi Koichi | Lose | B+10.5 | 6.5 | 2785 | -60 | 
+| 2003-06-29 | 第1期JALスーパー早碁1回戦 | Kobayashi Koichi | Yoda Norimoto | Win | B+6.5 | 6.5 | 2845 | 77 | 
+| 2003-06-20 | 第23期NECカップ囲碁トーナメント戦1回戦 | Cho U | Kobayashi Koichi | Win | W+5.5 | 6.5 | 2768 | 177 | 
+| 2003-02-20 | 第29期天元戦本戦1回戦 | Takao Shinji | Kobayashi Koichi | Lose | B+0.5 | 6.5 | 2591 | 2591 | 
+| 2002-12-16 | 第16回世界囲碁選手権富士通杯国内予選 | Kobayashi Koichi | Konno Tameto | Win | B+R | 6.5 | missing | -2513 | 
+| 2002-11-26 | 第4回農心辛ラーメン杯世界囲碁最強戦第8戦 | Kobayashi Koichi | Hu Yaoyu | Lose | W+3.5 | 6.5 | 2513 | -141 | 
+| 2002-11-25 | 第4回農心辛ラーメン杯世界囲碁最強戦第7戦 | Kobayashi Koichi |  | Win | B+R | 6.5 | 2654 | 0 | 
+| 2002-11-24 | 第4回農心辛ラーメン杯世界囲碁最強戦第6戦 | Kobayashi Koichi | Kong Jie | Win | B+4.5 | 6.5 | 2654 | 2654 | 
+| 2002-04-30 | 第7回LG杯世界棋王戦1回戦 | Weon Seongjin | Kobayashi Koichi | Lose | B+3.5 | 6.5 | missing | 0 | 
+| 2001-10-17 | 第3回農心辛ラーメン杯世界囲碁最強戦第3戦 | Choi Cheolhan | Kobayashi Koichi | Lose | B+0.5 | 6.5 | missing | 0 | 
+| 2001-06-12 | 第6回LG杯世界棋王戦1回戦 | Kobayashi Koichi | Mok Jinseok | Lose | W+R | 6.5 | missing | 0 | 
+| 1998-06-16 | 第3回LG杯世界棋王戦1回戦 | Paek Daehyun | Kobayashi Koichi | Lose | B+1.5 | 6.5 | missing | 0 | 
+| 1996-11-07 | 第35期十段戦本戦勝者組決勝 | Yamada Kimio | Kobayashi Koichi | Lose | B+R | 6.5 | missing | 0 | 
+| 1988-08-23 | 第1回応氏杯世界選手権2回戦 | Cho Hunhyun | Kobayashi Koichi | Lose | B+1 | 7.5 | missing | 0 | 
+| 1988-08-21 | 第1回応氏杯世界選手権1回戦 | Kobayashi Koichi | O Rissei | Win | B+3 | 7.5 | missing | missing |
 
 
 

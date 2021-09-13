@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-13 | 第14期棋王戦（台湾）予選 | Liu Yaowen | Xu Yuqi | Lose | W+R | 6.5 | 2648 | -10 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 | Liu Yaowen |  | Win | B+R | 6.5 | 2658 | 7 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 | Liu Yaowen | Zhou Pingqiang | Win | B+R | 6.5 | 2651 | 21 | 
 | 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Liu Yaowen | Xu Haohong | Lose | W+R | 6.5 | 2630 | 9 | 
 | 2021-05-07 | 第2期聯電杯プロ囲碁戦予選 | Huang Xiangren | Liu Yaowen | Win | W+R | 6.5 | 2621 | 10 | 
@@ -18,9 +20,9 @@
 | 2021-03-19 | 第17期国手戦（台湾） | Liu Yaowen | Chen Feng | Lose | W+R | 6.5 | 2691 | -31 | 
 | 2021-03-11 | 第2期名人冠軍戦2回戦 | Liu Yaowen | Chen Xi | Lose | W+R | 6.5 | 2722 | -4 | 
 | 2021-03-08 | 第2期名人冠軍戦1回戦  | Yu Lijun | Liu Yaowen | Win | W+R | 6.5 | 2726 | 9 | 
-| 2021-03-04 | 第2期名人冠軍戦予選 | Liu Yaowen |  | Win | B+R | 6.5 | 2717 | 24 | 
+| 2021-03-04 | 第2期名人冠軍戦予選 | Liu Yaowen | Bai Xinhui | Win | B+R | 6.5 | 2717 | 24 | 
 | 2021-02-25 | 第2期名人冠軍戦予選 | Zhou Keping | Liu Yaowen | Win | W+R | 6.5 | 2693 | -3 | 
-| 2021-02-22 | 第2期名人冠軍戦予選 |  | Liu Yaowen | Lose | B+R | 6.5 | 2696 | -74 | 
+| 2021-02-22 | 第2期名人冠軍戦予選 | Bai Xinhui | Liu Yaowen | Lose | B+R | 6.5 | 2696 | -74 | 
 | 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Liu Yaowen | Lin Shixun | Lose | W+R | 6.5 | 2770 | 0 | 
 | 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Xu Yuqi | Liu Yaowen | Win | W+R | 6.5 | 2770 | 61 | 
 | 2021-01-10 | 第20期天元戦（台湾）予選 | Liu Yaowen |  | Lose | W+R | 6.5 | 2709 | 1 | 
@@ -28,7 +30,7 @@
 | 2020-10-14 | 第1回UMC聯電杯早碁争覇戦1回戦 | Chen Xi | Liu Yaowen | Win | W+0.5 | 6.5 | 2699 | -26 | 
 | 2020-09-20 | 第8期中環碁聖戦3回戦 | Liu Yaowen | Yang Bowei | Lose | W+R | 6.5 | 2725 | 0 | 
 | 2020-09-17 | 第13期棋王戦（台湾）予選 | Liu Yaowen | Lin Jiehan | Lose | W+R | 6.5 | 2725 | 25 | 
-| 2020-09-15 | 第16期国手戦（台湾）1回戦 |  | Liu Yaowen | Lose | B+0.5 | 6.5 | 2700 | -70 | 
+| 2020-09-15 | 第16期国手戦（台湾）1回戦 | Lin Yuting | Liu Yaowen | Lose | B+0.5 | 6.5 | 2700 | -70 | 
 | 2020-09-14 | 第13期棋王戦（台湾）予選 | Lai Junfu | Liu Yaowen | Lose | B+R | 6.5 | 2770 | 47 | 
 | 2020-09-06 | 第8期中環碁聖戦1回戦 | Chen Yida | Liu Yaowen | Win | W+R | 6.5 | 2723 | -29 | 
 | 2020-09-03 | 第13期棋王戦（台湾）予選 | Liu Yaowen |  | Win | B+R | 6.5 | 2752 | 150 | 

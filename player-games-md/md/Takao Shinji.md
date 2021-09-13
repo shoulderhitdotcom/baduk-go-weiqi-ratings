@@ -7,11 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-13 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第2ラウンド | Takao Shinji | Chang Hao | Lose | W+¼ | 7.5 | 3205 | -18 | 
 | 2021-09-02 | 第47期名人戦予選 | Takao Shinji | Ryu Shikun | Win | B+0.5 | 6.5 | 3223 | -8 | 
 | 2021-08-23 | 第46期棋聖戦Sリーグ  | Ichiriki Ryo | Takao Shinji | Lose | B+R | 6.5 | 3231 | 34 | 
 | 2021-07-29 | 第47期名人戦予選 | Takao Shinji | Cho Sonjin | Win | B+R | 6.5 | 3197 | 25 | 
-| 2021-07-15 | 第46期棋聖戦Sリーグ | Kono Rin | Takao Shinji | Win | W+R | 6.5 | 3172 | -18 | 
-| 2021-07-15 | 第46期棋聖戦Sリーグ | Kono Rin | Takao Shinji | Win | W+R | 6.5 | 3190 | 13 | 
+| 2021-07-15 | 第46期棋聖戦Sリーグ | Kono Rin | Takao Shinji | Win | W+R | 6.5 | 3172 | -5 | 
 | 2021-07-08 | 第69期王座戦2回戦 | Takao Shinji | Ichiriki Ryo | Lose | W+R | 6.5 | 3177 | -40 | 
 | 2021-06-17 | 第46期棋聖戦Sリーグ | Takao Shinji | Yamashita Keigo | Win | B+3.5 | 6.5 | 3217 | 83 | 
 | 2021-05-31 | 第46期棋聖戦Sリーグ | Yu Zhengqi | Takao Shinji | Lose | B+R | 6.5 | 3134 | -8 | 

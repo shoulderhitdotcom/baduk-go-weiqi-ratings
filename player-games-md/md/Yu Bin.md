@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-13 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第2ラウンド | Yu Bin | Kobayashi Satoru | Win | B+R | 7.5 | missing | 0 | 
+| 2021-09-12 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第1ラウンド | Yoo Changhyuk | Yu Bin | Win | W+4¼ | 7.5 | missing | 0 | 
 | 2021-09-02 | 第12期中国竜星戦予選 |  | Yu Bin | Lose | B+3¾ | 7.5 | missing | -2786 | 
 | 2019-12-25 | 第5期洛陽白雲山杯中国棋聖戦予選 | Yu Bin | Xie He | Lose | W+¼ | 7.5 | 2786 | -10 | 
 | 2019-12-24 | 第11期中国竜星戦Bブロック5回戦 | Yu Bin | Zhao Chenyu | Lose | W+R | 7.5 | 2796 | -32 | 

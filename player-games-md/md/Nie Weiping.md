@@ -5,235 +5,237 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第2ラウンド | Nie Weiping | Cho Hunhyun | W+R | 2021-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RRIazMn5VXyK1vFl8sQkYA%3D%3D) | 
-| 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第2ラウンド  | Kobayashi Koichi | Nie Weiping | W+4.5 | 2021-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DqlWj6xFvPa%2BFmMQkn7a2A%3D%3D) | 
-| 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第1ラウンド  | Nie Weiping | Yoda Norimoto | B+4.5 | 2021-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K0opQg6olUUEx%2FPhN%2B57YA%3D%3D) | 
-| 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第1ラウンド | Lee Changho | Nie Weiping | B+15.5 | 2021-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2KUaNjI5IE5UiebjnYCi5g%3D%3D) | 
-| 2020中日韓聶衛平杯囲碁マスターズ3回戦 | Nie Weiping | Cho Hunhyun | W+R | 2020-12-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Z%2FVslt1Bnz9oxP2jdUpBg%3D%3D) | 
-| 2020中日韓聶衛平杯囲碁マスターズ1回戦  | Nie Weiping | Takemiya Masaki | B+¾ | 2020-12-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0WKAj40TeiOePgptJDdb5w%3D%3D) | 
-| 第5回太平書鎮杯囲碁元老戦決勝 | Nie Weiping | Wang Runan | B+R | 2020-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bkkg4UqnFS9jgfEyfDbXxA%3D%3D) | 
-| 第5回太平書鎮杯囲碁元老戦 | Nie Weiping | missing | B+R | 2020-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x0XlJIBQaQhLRqpCoqiVHg%3D%3D) | 
-| 第4回太平書鎮杯囲棋元老戦 | missing | Nie Weiping | W+R | 2019-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5%2FgRvYdx9MbQHAz4bhv3pw%3D%3D) | 
-| 第4回太平書鎮杯囲棋元老戦 | Nie Weiping | Hua Yigang | B+R | 2019-11-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NCKbcKjbTpaCA4X6iZ5IsQ%3D%3D) | 
-| 初代応氏杯30周年特別対局 | Cho Hunhyun | Nie Weiping | W+13 | 2019-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xMh2XQUH%2B9Sx3cVAcgvpDA%3D%3D) | 
-| 2019扁康杯中韓囲棋国手友誼戦第2戦 | Seo Bongsoo | Nie Weiping | B+R | 2019-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MtfyBfNPUkPqB%2FJubu%2BRWg%3D%3D) | 
-| 2019扁康杯中韓囲棋国手友誼戦第1戦 | Nie Weiping | Cho Hanseung | W+R | 2019-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3dgep3mM%2BazaWTnELPq4Pg%3D%3D) | 
-| 第3回中日韓囲碁元老戦1回戦 | Yoo Changhyuk | Nie Weiping | B+R | 2019-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9VNXyYxdWOazDeG5MgWjwQ%3D%3D) | 
-| 2019年中日韓囲棋大師招待戦決勝 | Kobayashi Koichi | Nie Weiping | B+R | 2019-03-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FI8mlWxG7EvHllcRgiw4jg%3D%3D) | 
-| 2019年中日韓囲棋大師招待戦準決勝 | Yoo Changhyuk | Nie Weiping | W+R | 2019-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pwhs%2Fh9sqLfe%2B0V%2FVRYpkA%3D%3D) | 
-| 2019年中日韓囲棋大師招待戦8強戦 | Takemiya Masaki | Nie Weiping | W+5¼ | 2019-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ABCHSk7%2F%2Fl%2Bkc2GoNSgd0g%3D%3D) | 
-| 2018両岸企業家峰会年会·両岸企業家囲棋戦特別対局 | Nie Weiping | Rin Kaiho | B+6¾ | 2018-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G7cYDRgK47%2F59s%2F9tJmq5w%3D%3D) | 
-| 第3回太平書鎮杯中国元老決勝 | Nie Weiping | Wang Runan | B+R | 2018-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EeOLdVzRdKrMtyZK04%2Byuw%3D%3D) | 
-| 第3回太平書鎮杯中国元老戦 | missing | Nie Weiping | W+R | 2018-11-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6kdjXDgFu5ueVQ5chBSfBw%3D%3D) | 
-| 第4回百霊杯世界オープン戦シニア戦準決勝 | Nie Weiping | Ma Xiaochun | W+R | 2018-07-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KHJD7brbk7gvU%2FEz5T7mxQ%3D%3D) | 
-| 第4回百霊杯世界オープン戦シニア戦1回戦 | Takemiya Masaki | Nie Weiping | W+2¼ | 2018-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9RGjuXnQabKDiq%2BfM2JNag%3D%3D) | 
-| 2018年紹興国際囲棋大師戦決勝 | Nie Weiping | Kobayashi Koichi | W+6.5 | 2018-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r9cbs5LxdvnOo6p9TX%2BzQg%3D%3D) | 
-| 2018年紹興国際囲棋大師戦準決勝 | Cao Dayuan | Nie Weiping | W+R | 2018-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mRKL2A6BT7rgpmxC%2FOoUOA%3D%3D) | 
-| 2018年紹興国際囲棋大師戦8強戦 | Takemiya Masaki | Nie Weiping | W+T | 2018-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ahB5L70fFlWKrKwZaQW53w%3D%3D) | 
-| 第20期阿含・桐山杯中国早碁オープン戦本選1回戦 | Wang Lei (b) | Nie Weiping | B+R | 2018-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OmY1UoKPwT2NqfQNUV9kTg%3D%3D) | 
-| 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Nie Weiping | Jiang Weijie | W+R | 2018-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TeRnq6%2BqB%2BFpcwq2A4p3nQ%3D%3D) | 
-| 第2回中日韓囲碁元老戦決勝 | Cao Dayuan | Nie Weiping | B+R | 2018-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jwgw2F9eCcdhtrLTG%2Fri%2Fw%3D%3D) | 
-| 第2回中日韓囲碁元老戦準決勝 | Seo Bongsoo | Nie Weiping | W+1¼ | 2018-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9oW5PeOJiXrFQojHLK5e1Q%3D%3D) | 
-| 第2回中日韓囲碁元老戦1回戦 | Kobayashi Koichi | Nie Weiping | W+7¼ | 2018-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HW42AWXRD9qHrPGX2sVkWA%3D%3D) | 
-| 第1回中日韓囲碁元老戦1回戦 | Nie Weiping | Seo Bongsoo | B+R | 2017-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KTMvt6b0nvZW45LJbYyl7w%3D%3D) | 
-| 第1回中日韓囲碁元老戦2回戦 | Kobayashi Koichi | Nie Weiping | B+R | 2017-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ifz07MKRDuf7hqIRsmQgAg%3D%3D) | 
-| 昌江棋子湾中国冠軍戦1回戦 | Nie Weiping | Gu Li | W+R | 2017-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VGu7lYqRAG4vh3URApCC0w%3D%3D) | 
-| Alphago Online Series on Tygem and Fox 54 | missing | Nie Weiping | B+7.5 | 2017-01-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nse6QOasaPxdp9fWJnlEpg%3D%3D) | 
-| 相城区第1期太平書鎮杯中国元老決勝 | Nie Weiping | Hua Yigang | B+R | 2016-11-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DiEgAcw4RdgZpZyC32glIQ%3D%3D) | 
-| 相城区第1期太平書鎮杯中国元老戦 | Luo Jianwen | Nie Weiping | W+10.5 | 2016-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KUTKIS2r9tCB2b%2FCYmdVJQ%3D%3D) | 
-| 塩城東方集団杯中韓囲棋団体名人選手権戦3回戦 | Yoo Changhyuk | Nie Weiping | B+R | 2016-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WF2Ja6GcjRgAPk%2B0Ilb8OA%3D%3D) | 
-| 塩城東方集団杯中韓囲棋団体名人選手権戦2回戦 | Nie Weiping | Seo Bongsoo | W+4.5 | 2016-09-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FB8KZRaurYzkgeGUJUcMiA%3D%3D) | 
-| 塩城東方集団杯中韓囲棋団体名人選手権戦1回戦 | Lee Changho | Nie Weiping | B+R | 2016-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E8sx46cUGX5C%2FhzaCxZhcA%3D%3D) | 
-| 第12期威孚房開杯棋王戦1回戦 | Liao Xingwen | Nie Weiping | B+13.5 | 2016-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EGAZF4GfcRqsEYedYGAfpQ%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦予選 | missing | Nie Weiping | B+R | 2016-05-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZzlKNZ4X76YtR8h66arVwQ%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Nie Weiping | Ke Jie | W+R | 2016-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mdX2QMYL3yGiyLmtl2QkLg%3D%3D) | 
-| 第11期威孚房開杯棋王戦1回戦 | Meng Tailing | Nie Weiping | B+R | 2015-10-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FwP%2BGubwfvIBItpRJOQmmQ%3D%3D) | 
-| 第2回夢百合杯世界オープン戦1回戦 | Nie Weiping | Rong Yi | W+R | 2015-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rjDHjSXg0blT%2BPykDVi6FA%3D%3D) | 
-| 第8期威孚房開杯棋王戦予選 | Nie Weiping | Kong Jie | W+R | 2012-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zyz4snxV66s9fQQfJvzQmg%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ1回戦F2 | Nie Weiping | Cho U | W+6.5 | 2012-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z9FpeyhcwfCEwGAF2KLSzw%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ1回戦F1 | Nie Weiping | Lee Sedol | W+19.5 | 2012-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nET4a7Upq99y%2BtJR1Y5S%2Bg%3D%3D) | 
-| 第4回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Nie Weiping | missing | W+4.5 | 2012-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LkjXOolHouwO%2FEJqdLEyOQ%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権予選 | Nie Weiping | Tong Yulin | W+4.5 | 2012-03-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eQcBVKnp0be2YE8kN9alZw%3D%3D) | 
-| 第7期威孚房開杯棋王戦1回戦 | Peng Liyao | Nie Weiping | B+R | 2011-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qw2Nla0RFZ0viZjqZKggDQ%3D%3D) | 
-| 第24期中国囲碁名人戦予選 | Nie Weiping | Fang Jie | W+R | 2011-03-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HL1viZNd1WK2yirOt874FQ%3D%3D) | 
-| 2011CCTV杯中国囲棋電視快棋戦1回戦 | Wang Haoyang | Nie Weiping | B+R | 2011-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WSlyX3yJCQw5pKjnmY5oPw%3D%3D) | 
-| 第10回西南棋王戦2回戦 | Shi Yue | Nie Weiping | B+R | 2011-03-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PzzXqhVB5c67BWUI9rOGtA%3D%3D) | 
-| 第10回西南棋王戦1回戦 | missing | Nie Weiping | W+R | 2011-03-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z00VRVyxs03MGlkKHc%2BBYw%3D%3D) | 
-| 第6期威孚房開杯棋王戦2回戦 | Nie Weiping | Peng Liyao | W+R | 2010-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G6l6eeiI02YeMB%2FgkZvk3A%3D%3D) | 
-| 第6期威孚房開杯棋王戦1回戦 | Wang Yao | Nie Weiping | W+R | 2010-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FLSsZrvIankUTx%2Bf2lIKKg%3D%3D) | 
-| 第3回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Shi Yue | Nie Weiping | B+R | 2010-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xt7f3sI%2BGIvjW2lITerpFg%3D%3D) | 
-| 第23期中国囲碁名人戦予選 | Nie Weiping | Tao Xin | W+R | 2010-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UicD8AWTgQMft%2BIXz52KOg%3D%3D) | 
-| 2010CCTV杯中国囲棋電視快棋戦2回戦 | Zhou Ruiyang | Nie Weiping | B+R | 2010-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qTKcSmVmCG05Ps7%2F2JjM6Q%3D%3D) | 
-| 2010CCTV杯中国囲棋電視快棋戦1回戦 | Ding Lie | Nie Weiping | W+R | 2010-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZSqUiFJe%2BrFP8bspnqJ%2Bdg%3D%3D) | 
-| 第5期威孚房開杯棋王戦3回戦 | Kong Jie | Nie Weiping | B+5.5 | 2009-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BVC8rcksCRdpJTK6VcjDcQ%3D%3D) | 
-| 第5期威孚房開杯棋王戦2回戦 | Li Kang | Nie Weiping | W+R | 2009-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HcnMHN5zMvP9VmPcBNxK7A%3D%3D) | 
-| 第5期威孚房開杯棋王戦1回戦 | Nie Weiping | Hu Yaoyu | B+R | 2009-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jPOI86Zm44C%2BmSrO3lkENQ%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | Wang Yang | Nie Weiping | B+R | 2009-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WoclN%2F2yrhg4L1RzgyCnAQ%3D%3D) | 
-| 第22期中国囲碁名人戦予選 | Nie Weiping | Ding Lie | W+R | 2009-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XEbmTyIyPNCYRyY6n%2BBL%2Fw%3D%3D) | 
-| 第8回西南棋王戦1回戦 | Nie Weiping | Ding Wei | W+0.5 | 2009-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bEHjmqOFLHVFlj7fBOJLKQ%3D%3D) | 
-| 2009CCTV杯中国囲棋電視快棋戦1回戦 | Yu Bin | Nie Weiping | B+R | 2009-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CLNk7FhbWiR3QHF6ktNeGA%3D%3D) | 
-| 第4期威孚房開杯棋王戦1回戦 | Nie Weiping | Piao Wenyao | W+6.5 | 2008-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i35SfUQrOeEEgNveC%2Frxyg%3D%3D) | 
-| 第2回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Wang Haoyang | Nie Weiping | B+R | 2008-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h5O1CcCVoZnnI8jpIIdJRw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第9節 | Nie Weiping | Niu Yutian | W+R | 2008-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qce1dOEzEBH%2BKlw7F8Y7Gg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第6節 | Nie Weiping | missing | W+R | 2008-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rTosR48TL48K9ThUQq9OFQ%3D%3D) | 
-| 2008CCTV杯中国囲棋電視快棋戦4回戦 | Nie Weiping | Zhu Yuanhao | W+R | 2008-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z4%2BioS89JRkjwqrep7P4jA%3D%3D) | 
-| 第7回西南棋王戦2回戦 | Wang Lei (b) | Nie Weiping | B+R | 2008-03-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qJijSxgyF4JvBx%2FO1fUUaw%3D%3D) | 
-| 第7回西南棋王戦1回戦 | Shi Yue | Nie Weiping | W+R | 2008-03-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=baLFtwouDWoEQqZf994HHg%3D%3D) | 
-| 第14期NEC杯囲碁戦予選 | Nie Weiping | Li Zhe | W+R | 2008-03-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fEAfx46J8LsQ1cDpzcnWFg%3D%3D) | 
-| 第14期NEC杯囲碁戦予選 | missing | Nie Weiping | W+R | 2008-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nyyc49R%2FdSvdvs6BxBI%2B0g%3D%3D) | 
-| 第14期NEC杯囲碁戦予選 | Niu Yutian | Nie Weiping | W+R | 2008-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LU5zwhRnylUWbeXZKPgDyA%3D%3D) | 
-| 2008CCTV杯中国囲棋電視快棋戦3回戦 | Nie Weiping | missing | B+1.5 | 2008-02-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yxFyvHsFnjWrtB2Bt3czvA%3D%3D) | 
-| 第21期中国囲碁名人戦予選 | Nie Weiping | missing | W+R | 2008-02-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vmUb9Co1P8xU9mHjW%2FyFEQ%3D%3D) | 
-| 第22期中国囲碁天元戦予選 | Tan Xiao | Nie Weiping | B+R | 2008-01-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2wCUi2hUFKBULJnesQWYNA%3D%3D) | 
-| 2008CCTV杯中国囲棋電視快棋戦2回戦 | Fan Weijing | Nie Weiping | W+R | 2008-01-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hEyHd7KDwUxYnwNr2BNZqQ%3D%3D) | 
-| 第3期威孚房開杯棋王戦1回戦 | Wang Yuhui | Nie Weiping | B+R | 2007-11-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XOaGLczEb61SpSqydXUc7w%3D%3D) | 
-| 第9期阿含・桐山杯中国早碁オープン戦予選 | Nie Weiping | missing | W+R | 2007-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cjHT%2Frbm8RH6q%2BSH%2BJi5ug%3D%3D) | 
-| 第9期阿含・桐山杯中国早碁オープン戦予選 | Li Jie | Nie Weiping | W+10.5 | 2007-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L5MUPkm7IIriNmX3p487gw%3D%3D) | 
-| 第9期阿含・桐山杯中国早碁オープン戦予選 | Nie Weiping | missing | B+R | 2007-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AmrUEuHN7uhq7L%2BzNWlCvw%3D%3D) | 
-| 第20期中国囲碁名人戦予選 | Nie Weiping | Gu Lingyi | W+R | 2007-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RYM7CmfrbHjL0PZWUYtAIg%3D%3D) | 
-| 第20期中国囲碁名人戦予選 | Li Jie | Nie Weiping | W+R | 2007-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DSKuDCACQ39fUYzbIBcxBQ%3D%3D) | 
-| 第6回西南棋王戦2回戦 | Ding Wei | Nie Weiping | B+R | 2007-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kTJogbH6sSAd2JdTf%2BgxMw%3D%3D) | 
-| 第6回西南棋王戦1回戦 | Nie Weiping | Mao Ruilong | B+R | 2007-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iF244EHfzbip3MMRBB5mRg%3D%3D) | 
-| 第13期NEC杯囲碁戦予選 | Wang Lei (b) | Nie Weiping | B+R | 2007-01-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hxGMk4vOMc5AG6y1vHNCVg%3D%3D) | 
-| 第13期NEC杯囲碁戦予選 | Song Ronghui | Nie Weiping | W+R | 2007-01-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1r68of0BmvsGC8YpITTADg%3D%3D) | 
-| 第21期中国囲碁天元戦予選 | Gu Lingyi | Nie Weiping | B+3.5 | 2007-01-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uYpMrVOL3MlAgV5wZnoxow%3D%3D) | 
-| 2007CCTV杯中国囲棋電視快棋戦1回戦 | Liu Shizhen | Nie Weiping | B+R | 2006-12-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pZGn72HXSCVgzlWbv91jOQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第21節 | Gu Li | Nie Weiping | B+R | 2006-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pa5Mgh%2FLBx02TSVTJHY5ww%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第17節 | missing | Nie Weiping | B+3.5 | 2006-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=anS2L3ALdJre6xv5Q6qnHQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第15節 | Hu Yaoyu | Nie Weiping | B+1.5 | 2006-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lZgEsS%2Fe117eSgK701oHkg%3D%3D) | 
-| 第1回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Nie Weiping | Yu Bin | W+6.5 | 2006-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sbYjeqIGlgAFE4jeBe2uOQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第9節 | Shao Weigang | Nie Weiping | B+R | 2006-07-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6JFNGTHy2ijf9lrPqFHBZA%3D%3D) | 
-| 第8期阿含・桐山杯中国早碁オープン戦予選 | Nie Weiping | Wang Xi | W+R | 2006-06-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jGbUXILCFqiVOUkGklzsgQ%3D%3D) | 
-| 第8期阿含・桐山杯中国早碁オープン戦予選 | missing | Nie Weiping | W+8.5 | 2006-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XiA2sumqgr6XAlU434MrzA%3D%3D) | 
-| 第8期阿含・桐山杯中国早碁オープン戦予選 | Nie Weiping | missing | B+R | 2006-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vo%2B3knejdMXPB4mdZQmEGw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第3節 | Chen Yaoye | Nie Weiping | B+R | 2006-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tcCCJkVLTFwWbxmMmDSe5Q%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第2節 | Nie Weiping | missing | W+R | 2006-04-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lhLj45Xf5grzdgq9e%2FFgdQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第1節 | Nie Weiping | missing | W+R | 2006-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HPIgkMnKWjIrRiYucw0jsA%3D%3D) | 
-| 第12期NEC杯囲碁戦予選 | Zhu Songli | Nie Weiping | B+R | 2006-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VCN%2FeYgujuq1i5QP0PLq5w%3D%3D) | 
-| 第19期中国囲碁名人戦予選 | Li Jie | Nie Weiping | B+R | 2006-03-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zZILhq2QMKwH8pO82N3AoQ%3D%3D) | 
-| 第5回西南棋王戦2回戦 | Nie Weiping | Wang Yao | W+14.5 | 2006-03-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8s1zoP32MfBNDW3iaJ7pEA%3D%3D) | 
-| 第5回西南棋王戦1回戦 | Zhu Yuanhao | Nie Weiping | W+R | 2006-03-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n9Kp%2F9KC1OD5rZGAvbzW3A%3D%3D) | 
-| 第20期中国囲碁天元戦1回戦 | Kong Jie | Nie Weiping | B+R | 2006-01-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fFiQcgfkIzgEjIZsIQARBg%3D%3D) | 
-| 第20期中国囲碁天元戦予選 | Zhang Xuan | Nie Weiping | W+R | 2006-01-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tmgoQiNNPDqsYvBnQWEDpg%3D%3D) | 
-| 2006CCTV杯中国囲棋電視快棋戦1回戦 | Nie Weiping | Chen Yaoye | W+R | 2006-01-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ONayZ0EPS2%2B%2B2a60O%2BP8NQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第20節 | Nie Weiping | Chang Hao | B+R | 2005-12-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zyJi9W%2FR20hNffmCnAvURg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第19節 | Nie Weiping | Wang Haoyang | W+R | 2005-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6%2FtFGkdnUXM0DfeQrnvF0w%3D%3D) | 
-| 第6期リコー杯囲碁戦1回戦 | Nie Weiping | Shi Yue | W+R | 2005-11-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oHpP7HWiWjpGldToq0LGNA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第18節 | Hong Minpyo | Nie Weiping | B+R | 2005-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K5ZR9gQnqoRRXY9LkQnn3g%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第17節 | Nie Weiping | missing | B+R | 2005-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KQzJ1b6A2KzxXfO2s%2F6Lig%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第16節 | Nie Weiping | Ma Xiaochun | W+2.5 | 2005-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1HBm6ORQ4g983bKfm9iyEA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第15節 | Huang Yizhong | Nie Weiping | B+R | 2005-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4HvSjGw2dXhwC2CrvPTE%2Bg%3D%3D) | 
-| 第2期倡棋杯中国プロ囲碁選手権戦2回戦 | Nie Weiping | Zhou Heyang | W+R | 2005-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bh2ehJjiiWR0kPEmnQosQw%3D%3D) | 
-| 第2期倡棋杯中国プロ囲碁選手権戦1回戦 | Liu Xing | Nie Weiping | W+5 | 2005-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2B5cJ0RjXptz9CYxB%2Fx%2FrA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第14節 | Nie Weiping | Wang Yang | B+3.5 | 2005-10-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PHj4c6mRnLfmHF4WDA5KLQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第12節 | Zhou Heyang | Nie Weiping | W+0.5 | 2005-10-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7neJp8AGxRXnSSJ%2BU6zL5g%3D%3D) | 
-| 第2期倡棋杯中国プロ囲碁選手権戦予選 | Nie Weiping | missing | B+3 | 2005-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SeNeFWYe2kSdPmguRIcUGw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第11節 | Nie Weiping | Piao Wenyao | B+R | 2005-08-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=veGHcD4F5EgfMiIr299zYQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第10節 | Nie Weiping | Gu Lingyi | B+3.5 | 2005-08-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pCkkUEc7voadQjo%2Frf%2BJ8w%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第9節 | Qiu Jun | Nie Weiping | B+R | 2005-08-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HjzmjINDV0l02Yt5HywAQw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第8節 | Nie Weiping | Zhou Ruiyang | W+R | 2005-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U9aWonfpjxIejRzfVmTjlg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第7節 | missing | Nie Weiping | W+2.5 | 2005-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ohrwLF073nJynpQzWe3Psg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第6節 | Shao Weigang | Nie Weiping | W+2.5 | 2005-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cx2PgON6kuPK%2BgZ7QoMIHw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第5節 | Nie Weiping | Ma Xiaochun | W+R | 2005-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ouEfeIvwFMx3YNECPuVATg%3D%3D) | 
-| 第7期阿含・桐山杯中国早碁オープン戦予選 | Yue Song | Nie Weiping | B+R | 2005-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qNY1MI5BazsTIt79A%2FqBrQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第4節 | Peng Quan | Nie Weiping | B+1.5 | 2005-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2kM1JPJeyh6yJOCw80TAFQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第3節 | Zhang Wendong | Nie Weiping | W+R | 2005-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AIv1npftKtJq4omDhjBqeg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第2節 | Nie Weiping | Dong Yan | W+R | 2005-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U4WIrDikSie%2FqFxqWYXeBQ%3D%3D) | 
-| 第18期中国囲碁名人戦1回戦 | Nie Weiping | Shao Weigang | W+R | 2005-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uA3YSdIltRviJTyC%2FKsXOQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第1節 | Nie Weiping | Wang Xi | B+R | 2005-04-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lScYzE%2F1ws4PpD9QISErVw%3D%3D) | 
-| 第19期中国囲碁天元戦2回戦 | Nie Weiping | Peng Quan | W+0.5 | 2005-01-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eFv9setyhw9DqHW2qYodAw%3D%3D) | 
-| 第19期中国囲碁天元戦1回戦 | Shao Weigang | Nie Weiping | W+R | 2005-01-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cxxg32Q0Hp%2BkzG7p6dvGbw%3D%3D) | 
-| 第19期中国囲碁天元戦予選 | Nie Weiping | missing | B+1.5 | 2005-01-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fkYVM9krZr1BRTVQnn0iEg%3D%3D) | 
-| 第5期リコー杯囲碁戦2回戦 | Nie Weiping | Shao Weigang | W+6.5 | 2004-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ugR%2FQ43gAzZxaSYi27H8eg%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第22節 | Wang Yao | Nie Weiping | B+R | 2004-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kKav%2FvmG3%2BzXDpD8SNig1g%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第21節 | Nie Weiping | Peng Quan | W+R | 2004-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=apsDiem4NFyd2C8GWytuPA%3D%3D) | 
-| 第2期威孚房開杯棋王戦1回戦 | Kong Jie | Nie Weiping | B+7.5 | 2004-11-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6O6z6M9B3qphL%2B3f8MVYRA%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第19節 | Nie Weiping | missing | B+3.5 | 2004-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kTfgvzBL15TE1fi%2BMBU1IA%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第18節 | Nie Weiping | Li Zhe | W+2.5 | 2004-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zbBX4YdNqjaG2f1ZLuh7EA%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第16節 | Kong Jie | Nie Weiping | B+R | 2004-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h0%2Fnc9P91q17ZXS06y4Ttg%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第15節 | Nie Weiping | Wang Lei (b) | W+R | 2004-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TiB7gukdzXDrrJzanvZ3pQ%3D%3D) | 
-| 第1期倡棋杯中国プロ囲碁選手権戦1回戦 | Niu Yutian | Nie Weiping | W+R | 2004-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oDVKb0t9rf6Sh%2BOrTsV2Og%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第12節 | Yoo Changhyuk | Nie Weiping | B+7.5 | 2004-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ASYalHEzTqz%2FSKw6g%2F7aWA%3D%3D) | 
-| 第17期中国囲碁名人戦挑戦者決定戦第2局 | Gu Li | Nie Weiping | B+R | 2004-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dwXGifBsxthM2FBZm0bY%2FA%3D%3D) | 
-| 第1期倡棋杯中国プロ囲碁選手権戦予選 | Xie He | Nie Weiping | W+R | 2004-09-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O0jmSUZL3SR%2B8xB8t7ogvA%3D%3D) | 
-| 第17期中国囲碁名人戦挑戦者決定戦第1局 | Nie Weiping | Gu Li | W+R | 2004-09-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dp5%2F%2BhLwnwz4U05z%2Be0NyA%3D%3D) | 
-| 第9回三星火災杯世界オープン囲碁選手権1回戦 | Song Taekon | Nie Weiping | B+R | 2004-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7qR0siRzeoUOlYFatW5xEA%3D%3D) | 
-| 第6期阿含・桐山杯中国早碁オープン戦予選 | Nie Weiping | Xu Ying | W+R | 2004-07-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EhQiM8kJiBkz6Sj9gDErog%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第11節 | Nie Weiping | Wang Yao | W+R | 2004-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HwHTjQc5Je9%2FAp%2BD2%2FTuDQ%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第10節 | Nie Weiping | Huang Yizhong | B+1.5 | 2004-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5lpO%2BmUam%2BdfiRos9qfntQ%3D%3D) | 
-| 第17期中国囲碁名人戦準決勝 | Nie Weiping | Shao Weigang | B+R | 2004-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cHtviPMuQbbnK84o7Lu%2FsQ%3D%3D) | 
-| 第17期中国囲碁名人戦3回戦 | Liu Shizhen | Nie Weiping | W+2.5 | 2004-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zja0IVd%2B3cttpfBDCIQh5g%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第9節 | Nie Weiping | missing | B+R | 2004-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GXQ%2BchSyHH9A%2BtLdAz4cOg%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第8節 | Nie Weiping | Zhu Yi | B+R | 2004-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5o%2FMnY8BTwAzHCn7X4lqWA%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第7節 | Nie Weiping | missing | B+R | 2004-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pAJRpu3vqE71q5OOnb7VQg%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第6節 | Song Xuelin | Nie Weiping | B+5.5 | 2004-05-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GG9b4PUAYgYI3J9A6aG9zg%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第4節 | Wang Lei (b) | Nie Weiping | B+R | 2004-05-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yHhookv1Y1ZZeVAS%2FAQYVA%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第3節 | Liu Shizhen | Nie Weiping | W+R | 2004-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2UpyyOGt%2BkDb12u4jX%2BELg%3D%3D) | 
-| 第17期中国囲碁名人戦2回戦 | Nie Weiping | Zhang Wendong | B+R | 2004-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kgIW8oZxqY1qMOCfuGECFw%3D%3D) | 
-| 第17期中国囲碁名人戦1回戦 | Chang Hao | Nie Weiping | W+R | 2004-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YByiVs%2F4jgU7W%2BP%2FEBWolA%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第2節 | Nie Weiping | Zhou Heyang | B+1.5 | 2004-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YlfGHIwauUg27X1filpfsQ%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第1節 | Cao Dayuan | Nie Weiping | W+R | 2004-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n91RO4oqww8p244bAEwfRw%3D%3D) | 
-| 第17期中国囲碁名人戦予選 | Nie Weiping | missing | B+R | 2004-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qPUXxonzQb1msziUK5ALnQ%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第22節 | missing | Nie Weiping | B+R | 2003-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6zkGisJlti7JDTZuUkx0xw%3D%3D) | 
-| 第4期リコー杯囲碁戦1回戦 | Li Zhe | Nie Weiping | B+R | 2003-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0izVJe2AZGPXfaaIDT3CkA%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第19節 | Jing Shi | Nie Weiping | W+R | 2003-11-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T9sT77vuJop4Lhw9WbdqTw%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第18節 | missing | Nie Weiping | B+R | 2003-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qR6xS1pJPSuWcR2VFKpFJA%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第17節 | Nie Weiping | Wang Yang | W+0.5 | 2003-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U%2FRtTNfkCiqMwyLv6kwa5A%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第15節 | Nie Weiping | Song Xuelin | W+0.5 | 2003-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UsPNyqN5KDSXSdi0qhJJIQ%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第14節 | Chang Hao | Nie Weiping | W+R | 2003-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o1NnjQJHM0FGszApqOu4Ew%3D%3D) | 
-| 第1期威孚房開杯棋王戦決勝 | Nie Weiping | Yu Bin | B+R | 2003-10-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2MLe5rWOijRVD1MIJO4MBg%3D%3D) | 
-| 第1期威孚房開杯棋王戦2回戦 | Nie Weiping | Chen Zude | B+1.5 | 2003-10-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PLGma3x5OS%2Bzyk7f6kg%2FAg%3D%3D) | 
-| 第1期威孚房開杯棋王戦1回戦 | Wang Yuhui | Nie Weiping | W+R | 2003-10-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PThpdhXuNENkkfXJDdhUTw%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第10節 | Zhou Bo | Nie Weiping | B+5.5 | 2003-09-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7E9AYGnRnsNEEgSbNozUwQ%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第9節 | Nie Weiping | Gu Li | W+R | 2003-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v%2BRTQ%2BMbjLcJELgqxNQZVA%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第11節 | missing | Nie Weiping | B+1.5 | 2003-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D0eoNWqaaMkQ0MlwGbTKKA%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第7節 | Nie Weiping | Zhu Songli | W+2.5 | 2003-08-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XOefeS4xAP3o0HVYoPDdqA%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第6節 | Chen Yaoye | Nie Weiping | W+2.5 | 2003-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1cc7QVJUyVrcSFjOlul7ow%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第5節 | Nie Weiping | missing | B+R | 2003-07-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cwM2a9Ag77QkauNKtlL28Q%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第4節 | Yu Ping | Nie Weiping | W+R | 2003-07-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gpjhPu04JoWeW%2BaXjChojw%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第1節 | Nie Weiping | Luo Xihe | W+R | 2003-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5NBUCeMb%2BEDYBaocd9xnTg%3D%3D) | 
-| 第16期中国囲碁名人戦2回戦 | Nie Weiping | Qiu Jun | W+0.5 | 2003-03-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=12PImYjL90s6GG5YjoXuJA%3D%3D) | 
-| 第16期中国囲碁名人戦1回戦 | Nie Weiping | Hu Yaoyu | B+1.5 | 2003-03-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CLTMD1d60WRtPnxbisL1dg%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦中国選抜戦 | Zhou Heyang | Nie Weiping | W+R | 2003-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IU2bcG395FIu35sJgKAL%2Bw%3D%3D) | 
-| 第3期リコー杯囲碁戦2回戦 | Nie Weiping | Liu Xiaoguang | W+R | 2002-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mei9cg4PvDYTeuzHLMJBEQ%3D%3D) | 
-| 第3期リコー杯囲碁戦1回戦 | missing | Nie Weiping | W+R | 2002-12-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WyXkdWRLaObuNZNp72%2FUxA%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第22節 | Kong Jie | Nie Weiping | W+R | 2002-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=trxG2O%2FAoiH46XnKL%2FIWPQ%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第21節 | Huang Yizhong | Nie Weiping | W+16.5 | 2002-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TRKRjudLpJ4xRjy7jvv3gA%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第20節 | Zhu Songli | Nie Weiping | W+R | 2002-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s2a7Fvtf3ubg2XGMLkEmVQ%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第19節 | Wang Xi | Nie Weiping | B+3.5 | 2002-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RlSLFHbj50cBKacxGkrpuw%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第18節 | Nie Weiping | Li Jie | W+0.5 | 2002-11-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NA0I97UDOGvO73pIgkSg%2Fg%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第17節 | Ding Wei | Nie Weiping | B+R | 2002-10-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nNm8xPMbAqUpXbhB6%2F6RaA%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第16節 | Nie Weiping | Dong Yan | W+6.5 | 2002-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pN0ZJtcyeM2CymktJ8mq%2Bg%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第15節 | Zhou Heyang | Nie Weiping | B+R | 2002-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3kH%2BbPL1uBf8Akl%2F%2FqJwZw%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第14節 | Liu Shizhen | Nie Weiping | W+R | 2002-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KXLwqLESJHmY4ZUx5DFtRg%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第13節 | missing | Nie Weiping | B+R | 2002-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ScrCst7KhK99r3Y%2BuJr0SA%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第12節 | missing | Nie Weiping | W+R | 2002-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cQABIEW4KYVjcm2QWBrvcA%3D%3D) | 
-| 第4回農心杯中国選抜戦 | Nie Weiping | Qiu Jun | W+6.5 | 2002-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NnWNu3MSO1%2Fq9otElkJ0Zg%3D%3D) | 
-| 第4期阿含・桐山杯中国早碁オープン戦1回戦 | Luo Xihe | Nie Weiping | W+2.5 | 2002-08-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OoYouDHF286o5OzjBLRktw%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第11節 | Nie Weiping | Wang Yang | B+R | 2002-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tJapca0OuCatNfhQ%2BekrbQ%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第10節 | Nie Weiping | Luo Xihe | B+R | 2002-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PRREG8WoMi0kCmcWGCL1FQ%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第9節 | Kono Rin | Nie Weiping | B+R | 2002-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XGx3bDLKMKs9p32DOkQbLA%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第8節 | Nie Weiping | missing | B+R | 2002-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0FuMCwwisNDeyVMSPzHTuA%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第7節 | Li Jie | Nie Weiping | W+R | 2002-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IrLFlPH%2BruhkREyUK%2BXibQ%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第6節 | missing | Nie Weiping | W+R | 2002-05-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3neRRiDPQvOYU%2BqklJwbLQ%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第5節 | Nie Weiping | missing | B+3.5 | 2002-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O22vjJ3%2BwRlbj9lL0xjIyQ%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第4節 | Nie Weiping | Gu Li | W+16.5 | 2002-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BXx9OHx3kYC899z0XKWDTg%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第3節 | Nie Weiping | Qiu Jun | W+3.5 | 2002-04-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ufmx4OacOS%2FPTl1tETBDCw%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第2節 | missing | Nie Weiping | B+R | 2002-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YQxV7OpRq%2F0JrkikYSty4g%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第1節 | missing | Nie Weiping | W+6.5 | 2002-04-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AMjSsafgvTayy71QkPo4NA%3D%3D) | 
-| 第16期中国囲碁天元戦1回戦 | Nie Weiping | Gu Li | W+4.5 | 2002-01-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WNoKTY%2Bj2owIkNAM6C8Ejw%3D%3D) | 
-| 第16期中国囲碁天元戦予選 | Wang Qun | Nie Weiping | W+0.5 | 2002-01-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3IF%2BvpSxVZOAsKqt7JSJEw%3D%3D) | 
-| 第1回応氏杯世界選手権決勝五番勝負第5局 | Cho Hunhyun | Nie Weiping | B+R | 1989-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gRiqUSkUjjTEfB21v5mDbQ%3D%3D) | 
-| 第1回応氏杯世界選手権決勝五番勝負第4局 | Cho Hunhyun | Nie Weiping | B+1 | 1989-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y03dGs1YYA1BnGg4XCCTJA%3D%3D) | 
-| 第1回応氏杯世界選手権決勝五番勝負第3局 | Nie Weiping | Cho Hunhyun | B+3 | 1989-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J873nUuB%2Frso8cgk7ogyzw%3D%3D) | 
-| 第1回応氏杯世界選手権決勝五番勝負第2局 | Cho Hunhyun | Nie Weiping | W+9 | 1989-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HcKgAZuAWKq7ZhzjWGOgYA%3D%3D) | 
-| 第1回応氏杯世界選手権決勝五番勝負第1局 | Nie Weiping | Cho Hunhyun | W+3 | 1989-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3SADotnegr3KLK5b74saEw%3D%3D) | 
-| 第1回応氏杯世界選手権準決勝三番勝負第2局 | Fujisawa Hideyuki | Nie Weiping | W+1 | 1988-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8S5piZaWRzdqVuDT6bcRIw%3D%3D) | 
-| 第1回応氏杯世界選手権準決勝三番勝負第1局 | Nie Weiping | Fujisawa Hideyuki | B+1 | 1988-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TxXSF25cqSdsdpOLlWKR3Q%3D%3D) | 
-| 第1回応氏杯世界選手権2回戦 | Nie Weiping | Cho Chikun | B+R | 1988-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TgVZp68TJcdHBNPmlXn07g%3D%3D) | 
-| 第1回応氏杯世界選手権1回戦 | Nie Weiping | Michael Redmond | B+R | 1988-08-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qSMQmHH8Lv8RxVpYBNGL4A%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-13 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第2ラウンド | Kobayashi Koichi | Nie Weiping | Lose | B+R | 7.5 | 3094 | 2 | 
+| 2021-09-12 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第1ラウンド | Cho Hunhyun | Nie Weiping | Lose | B+R | 7.5 | 3092 | -205 | 
+| 2021-01-24 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第2ラウンド | Nie Weiping | Cho Hunhyun | Lose | W+R | 6.5 | 3297 | -24 | 
+| 2021-01-23 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第2ラウンド  | Kobayashi Koichi | Nie Weiping | Win | W+4.5 | 6.5 | 3321 | -14 | 
+| 2021-01-16 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第1ラウンド  | Nie Weiping | Yoda Norimoto | Win | B+4.5 | 6.5 | 3335 | 359 | 
+| 2021-01-15 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第1ラウンド | Lee Changho | Nie Weiping | Lose | B+15.5 | 6.5 | 2976 | 79 | 
+| 2020-12-23 | 2020中日韓聶衛平杯囲碁マスターズ3回戦 | Nie Weiping | Cho Hunhyun | Lose | W+R | 7.5 | 2897 | 2897 | 
+| 2020-12-21 | 2020中日韓聶衛平杯囲碁マスターズ1回戦  | Nie Weiping | Takemiya Masaki | Win | B+¾ | 7.5 | missing | 0 | 
+| 2020-11-12 | 第5回太平書鎮杯囲碁元老戦決勝 | Nie Weiping | Wang Runan | Win | B+R | 7.5 | missing | 0 | 
+| 2020-11-11 | 第5回太平書鎮杯囲碁元老戦 | Nie Weiping |  | Win | B+R | 7.5 | missing | -2583 | 
+| 2019-11-20 | 第4回太平書鎮杯囲棋元老戦 |  | Nie Weiping | Win | W+R | 7.5 | 2583 | 5 | 
+| 2019-11-19 | 第4回太平書鎮杯囲棋元老戦 | Nie Weiping | Hua Yigang | Win | B+R | 7.5 | 2578 | 0 | 
+| 2019-11-02 | 初代応氏杯30周年特別対局 | Cho Hunhyun | Nie Weiping | Win | W+13 | 7.5 | 2578 | 32 | 
+| 2019-10-24 | 2019扁康杯中韓囲棋国手友誼戦第2戦 | Seo Bongsoo | Nie Weiping | Lose | B+R | 7.5 | 2546 | -88 | 
+| 2019-10-23 | 2019扁康杯中韓囲棋国手友誼戦第1戦 | Nie Weiping | Cho Hanseung | Lose | W+R | 7.5 | 2634 | 121 | 
+| 2019-04-15 | 第3回中日韓囲碁元老戦1回戦 | Yoo Changhyuk | Nie Weiping | Lose | B+R | 7.5 | 2513 | -113 | 
+| 2019-03-24 | 2019年中日韓囲棋大師招待戦決勝 | Kobayashi Koichi | Nie Weiping | Lose | B+R | 7.5 | 2626 | -73 | 
+| 2019-03-23 | 2019年中日韓囲棋大師招待戦準決勝 | Yoo Changhyuk | Nie Weiping | Win | W+R | 7.5 | 2699 | 0 | 
+| 2019-03-23 | 2019年中日韓囲棋大師招待戦8強戦 | Takemiya Masaki | Nie Weiping | Win | W+5¼ | 7.5 | 2699 | -111 | 
+| 2018-12-03 | 2018両岸企業家峰会年会·両岸企業家囲棋戦特別対局 | Nie Weiping | Rin Kaiho | Win | B+6¾ | 7.5 | 2810 | 9 | 
+| 2018-11-06 | 第3回太平書鎮杯中国元老決勝 | Nie Weiping | Wang Runan | Win | B+R | 7.5 | 2801 | -10 | 
+| 2018-11-01 | 第3回太平書鎮杯中国元老戦 |  | Nie Weiping | Win | W+R | 7.5 | 2811 | -51 | 
+| 2018-07-26 | 第4回百霊杯世界オープン戦シニア戦準決勝 | Nie Weiping | Ma Xiaochun | Lose | W+R | 7.5 | 2862 | -38 | 
+| 2018-07-24 | 第4回百霊杯世界オープン戦シニア戦1回戦 | Takemiya Masaki | Nie Weiping | Win | W+2¼ | 7.5 | 2900 | 55 | 
+| 2018-07-02 | 2018年紹興国際囲棋大師戦決勝 | Nie Weiping | Kobayashi Koichi | Lose | W+6.5 | 7.5 | 2845 | -124 | 
+| 2018-07-01 | 2018年紹興国際囲棋大師戦準決勝 | Cao Dayuan | Nie Weiping | Win | W+R | 7.5 | 2969 | 0 | 
+| 2018-07-01 | 2018年紹興国際囲棋大師戦8強戦 | Takemiya Masaki | Nie Weiping | Win | W+T | 7.5 | 2969 | 122 | 
+| 2018-06-28 | 第20期阿含・桐山杯中国早碁オープン戦本選1回戦 | Wang Lei (b) | Nie Weiping | Lose | B+R | 7.5 | 2847 | -293 | 
+| 2018-05-11 | 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Nie Weiping | Jiang Weijie | Lose | W+R | 7.5 | 3140 | 85 | 
+| 2018-03-29 | 第2回中日韓囲碁元老戦決勝 | Cao Dayuan | Nie Weiping | Lose | B+R | 7.5 | 3055 | -25 | 
+| 2018-03-28 | 第2回中日韓囲碁元老戦準決勝 | Seo Bongsoo | Nie Weiping | Win | W+1¼ | 7.5 | 3080 | 43 | 
+| 2018-03-27 | 第2回中日韓囲碁元老戦1回戦 | Kobayashi Koichi | Nie Weiping | Win | W+7¼ | 7.5 | 3037 | 367 | 
+| 2017-04-25 | 第1回中日韓囲碁元老戦1回戦 | Nie Weiping | Seo Bongsoo | Win | B+R | 7.5 | 2670 | 0 | 
+| 2017-04-25 | 第1回中日韓囲碁元老戦2回戦 | Kobayashi Koichi | Nie Weiping | Lose | B+R | 7.5 | 2670 | 2670 | 
+| 2017-03-18 | 昌江棋子湾中国冠軍戦1回戦 | Nie Weiping | Gu Li | Lose | W+R | 7.5 | missing | 0 | 
+| 2017-01-04 | Alphago Online Series on Tygem and Fox 54 |  | Nie Weiping | Lose | B+7.5 | 6.5 | missing | 0 | 
+| 2016-11-15 | 相城区第1期太平書鎮杯中国元老決勝 | Nie Weiping | Hua Yigang | Win | B+R | 7.5 | missing | 0 | 
+| 2016-11-14 | 相城区第1期太平書鎮杯中国元老戦 | Luo Jianwen | Nie Weiping | Win | W+10.5 | 7.5 | missing | 0 | 
+| 2016-09-21 | 塩城東方集団杯中韓囲棋団体名人選手権戦3回戦 | Yoo Changhyuk | Nie Weiping | Lose | B+R | 7.5 | missing | 0 | 
+| 2016-09-20 | 塩城東方集団杯中韓囲棋団体名人選手権戦2回戦 | Nie Weiping | Seo Bongsoo | Lose | W+4.5 | 7.5 | missing | 0 | 
+| 2016-09-19 | 塩城東方集団杯中韓囲棋団体名人選手権戦1回戦 | Lee Changho | Nie Weiping | Lose | B+R | 7.5 | missing | 0 | 
+| 2016-08-22 | 第12期威孚房開杯棋王戦1回戦 | Liao Xingwen | Nie Weiping | Lose | B+13.5 | 7.5 | missing | 0 | 
+| 2016-05-26 | 第1回新奥杯世界囲碁オープン戦予選 |  | Nie Weiping | Lose | B+R | 7.5 | missing | 0 | 
+| 2016-05-18 | 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Nie Weiping | Ke Jie | Lose | W+R | 7.5 | missing | 0 | 
+| 2015-10-12 | 第11期威孚房開杯棋王戦1回戦 | Meng Tailing | Nie Weiping | Lose | B+R | 7.5 | missing | 0 | 
+| 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Nie Weiping | Rong Yi | Lose | W+R | 7.5 | missing | 0 | 
+| 2012-10-13 | 第8期威孚房開杯棋王戦予選 | Nie Weiping | Kong Jie | Lose | W+R | 7.5 | missing | 0 | 
+| 2012-09-05 | 第17回三星火災杯世界囲碁マスターズ1回戦F2 | Nie Weiping | Cho U | Lose | W+6.5 | 6.5 | missing | 0 | 
+| 2012-09-04 | 第17回三星火災杯世界囲碁マスターズ1回戦F1 | Nie Weiping | Lee Sedol | Lose | W+19.5 | 6.5 | missing | 0 | 
+| 2012-07-03 | 第4回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Nie Weiping |  | Lose | W+4.5 | 7.5 | missing | 0 | 
+| 2012-03-09 | 第1回百霊杯世界囲碁選手権予選 | Nie Weiping | Tong Yulin | Lose | W+4.5 | 7.5 | missing | -2872 | 
+| 2011-09-08 | 第7期威孚房開杯棋王戦1回戦 | Peng Liyao | Nie Weiping | Lose | B+R | 7.5 | 2872 | -228 | 
+| 2011-03-22 | 第24期中国囲碁名人戦予選 | Nie Weiping | Fang Jie | Lose | W+R | 7.5 | 3100 | -110 | 
+| 2011-03-14 | 2011CCTV杯中国囲棋電視快棋戦1回戦 | Wang Haoyang | Nie Weiping | Lose | B+R | 7.5 | 3210 | -13 | 
+| 2011-03-10 | 第10回西南棋王戦2回戦 | Shi Yue | Nie Weiping | Lose | B+R | 7.5 | 3223 | 0 | 
+| 2011-03-10 | 第10回西南棋王戦1回戦 |  | Nie Weiping | Win | W+R | 7.5 | 3223 | 230 | 
+| 2010-09-01 | 第6期威孚房開杯棋王戦2回戦 | Nie Weiping | Peng Liyao | Lose | W+R | 7.5 | 2993 | 0 | 
+| 2010-09-01 | 第6期威孚房開杯棋王戦1回戦 | Wang Yao | Nie Weiping | Win | W+R | 7.5 | 2993 | 70 | 
+| 2010-06-15 | 第3回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Shi Yue | Nie Weiping | Lose | B+R | 7.5 | 2923 | 181 | 
+| 2010-03-30 | 第23期中国囲碁名人戦予選 | Nie Weiping | Tao Xin | Lose | W+R | 7.5 | 2742 | -40 | 
+| 2010-03-04 | 2010CCTV杯中国囲棋電視快棋戦2回戦 | Zhou Ruiyang | Nie Weiping | Lose | B+R | 7.5 | 2782 | 0 | 
+| 2010-03-04 | 2010CCTV杯中国囲棋電視快棋戦1回戦 | Ding Lie | Nie Weiping | Win | W+R | 7.5 | 2782 | -29 | 
+| 2009-12-26 | 第5期威孚房開杯棋王戦3回戦 | Kong Jie | Nie Weiping | Lose | B+5.5 | 7.5 | 2811 | -127 | 
+| 2009-10-20 | 第5期威孚房開杯棋王戦2回戦 | Li Kang | Nie Weiping | Win | W+R | 7.5 | 2938 | 0 | 
+| 2009-10-20 | 第5期威孚房開杯棋王戦1回戦 | Nie Weiping | Hu Yaoyu | Win | B+R | 7.5 | 2938 | 2938 | 
+| 2009-06-30 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Wang Yang | Nie Weiping | Lose | B+R | 7.5 | missing | 0 | 
+| 2009-04-03 | 第22期中国囲碁名人戦予選 | Nie Weiping | Ding Lie | Lose | W+R | 7.5 | missing | -2604 | 
+| 2009-03-14 | 第8回西南棋王戦1回戦 | Nie Weiping | Ding Wei | Lose | W+0.5 | 7.5 | 2604 | -49 | 
+| 2009-03-04 | 2009CCTV杯中国囲棋電視快棋戦1回戦 | Yu Bin | Nie Weiping | Lose | B+R | 7.5 | 2653 | -382 | 
+| 2008-09-10 | 第4期威孚房開杯棋王戦1回戦 | Nie Weiping | Piao Wenyao | Lose | W+6.5 | 7.5 | 3035 | 290 | 
+| 2008-06-09 | 第2回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Wang Haoyang | Nie Weiping | Lose | B+R | 7.5 | 2745 | -38 | 
+| 2008-06-05 | 第10回中国囲碁甲級リーグ第9節 | Nie Weiping | Niu Yutian | Lose | W+R | 7.5 | 2783 | -4 | 
+| 2008-05-15 | 第10回中国囲碁甲級リーグ第6節 | Nie Weiping |  | Lose | W+R | 7.5 | 2787 | -56 | 
+| 2008-05-06 | 2008CCTV杯中国囲棋電視快棋戦4回戦 | Nie Weiping | Zhu Yuanhao | Lose | W+R | 7.5 | 2843 | 204 | 
+| 2008-03-25 | 第7回西南棋王戦2回戦 | Wang Lei (b) | Nie Weiping | Lose | B+R | 7.5 | 2639 | 0 | 
+| 2008-03-25 | 第7回西南棋王戦1回戦 | Shi Yue | Nie Weiping | Win | W+R | 7.5 | 2639 | 38 | 
+| 2008-03-05 | 第14期NEC杯囲碁戦予選 | Nie Weiping | Li Zhe | Lose | W+R | 7.5 | 2601 | -3 | 
+| 2008-02-27 | 第14期NEC杯囲碁戦予選 |  | Nie Weiping | Win | W+R | 7.5 | 2604 | 0 | 
+| 2008-02-27 | 第14期NEC杯囲碁戦予選 | Niu Yutian | Nie Weiping | Win | W+R | 7.5 | 2604 | 75 | 
+| 2008-02-26 | 2008CCTV杯中国囲棋電視快棋戦3回戦 | Nie Weiping |  | Win | B+1.5 | 7.5 | 2529 | 62 | 
+| 2008-02-25 | 第21期中国囲碁名人戦予選 | Nie Weiping |  | Lose | W+R | 7.5 | 2467 | -65 | 
+| 2008-01-28 | 第22期中国囲碁天元戦予選 | Tan Xiao | Nie Weiping | Lose | B+R | 7.5 | 2532 | 42 | 
+| 2008-01-06 | 2008CCTV杯中国囲棋電視快棋戦2回戦 | Fan Weijing | Nie Weiping | Win | W+R | 7.5 | 2490 | 38 | 
+| 2007-11-03 | 第3期威孚房開杯棋王戦1回戦 | Wang Yuhui | Nie Weiping | Lose | B+R | 7.5 | 2452 | -399 | 
+| 2007-05-10 | 第9期阿含・桐山杯中国早碁オープン戦予選 | Nie Weiping |  | Lose | W+R | 7.5 | 2851 | 4 | 
+| 2007-05-09 | 第9期阿含・桐山杯中国早碁オープン戦予選 | Li Jie | Nie Weiping | Win | W+10.5 | 7.5 | 2847 | 0 | 
+| 2007-05-09 | 第9期阿含・桐山杯中国早碁オープン戦予選 | Nie Weiping |  | Win | B+R | 7.5 | 2847 | 87 | 
+| 2007-04-07 | 第20期中国囲碁名人戦予選 | Nie Weiping | Gu Lingyi | Lose | W+R | 7.5 | 2760 | -16 | 
+| 2007-04-02 | 第20期中国囲碁名人戦予選 | Li Jie | Nie Weiping | Win | W+R | 7.5 | 2776 | 25 | 
+| 2007-03-13 | 第6回西南棋王戦2回戦 | Ding Wei | Nie Weiping | Lose | B+R | 7.5 | 2751 | 0 | 
+| 2007-03-13 | 第6回西南棋王戦1回戦 | Nie Weiping | Mao Ruilong | Win | B+R | 7.5 | 2751 | 524 | 
+| 2007-01-30 | 第13期NEC杯囲碁戦予選 | Wang Lei (b) | Nie Weiping | Lose | B+R | 7.5 | 2227 | 0 | 
+| 2007-01-30 | 第13期NEC杯囲碁戦予選 | Song Ronghui | Nie Weiping | Win | W+R | 7.5 | 2227 | -4 | 
+| 2007-01-28 | 第21期中国囲碁天元戦予選 | Gu Lingyi | Nie Weiping | Lose | B+3.5 | 7.5 | 2231 | -106 | 
+| 2006-12-21 | 2007CCTV杯中国囲棋電視快棋戦1回戦 | Liu Shizhen | Nie Weiping | Lose | B+R | 7.5 | 2337 | -36 | 
+| 2006-12-16 | 第8回中国囲碁甲級リーグ第21節 | Gu Li | Nie Weiping | Lose | B+R | 7.5 | 2373 | -39 | 
+| 2006-11-18 | 第8回中国囲碁甲級リーグ第17節 |  | Nie Weiping | Lose | B+3.5 | 7.5 | 2412 | -45 | 
+| 2006-11-02 | 第8回中国囲碁甲級リーグ第15節 | Hu Yaoyu | Nie Weiping | Lose | B+1.5 | 7.5 | 2457 | -141 | 
+| 2006-09-19 | 第1回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Nie Weiping | Yu Bin | Lose | W+6.5 | 7.5 | 2598 | -220 | 
+| 2006-07-08 | 第8回中国囲碁甲級リーグ第9節 | Shao Weigang | Nie Weiping | Lose | B+R | 7.5 | 2818 | -208 | 
+| 2006-06-21 | 第8期阿含・桐山杯中国早碁オープン戦予選 | Nie Weiping | Wang Xi | Lose | W+R | 7.5 | 3026 | 5 | 
+| 2006-06-20 | 第8期阿含・桐山杯中国早碁オープン戦予選 |  | Nie Weiping | Win | W+8.5 | 7.5 | 3021 | 0 | 
+| 2006-06-19 | 第8期阿含・桐山杯中国早碁オープン戦予選 | Nie Weiping |  | Win | B+R | 7.5 | 3021 | 121 | 
+| 2006-05-11 | 第8回中国囲碁甲級リーグ第3節 | Chen Yaoye | Nie Weiping | Lose | B+R | 7.5 | 2900 | -7 | 
+| 2006-04-20 | 第8回中国囲碁甲級リーグ第2節 | Nie Weiping |  | Lose | W+R | 7.5 | 2907 | -45 | 
+| 2006-04-15 | 第8回中国囲碁甲級リーグ第1節 | Nie Weiping |  | Lose | W+R | 7.5 | 2952 | -6 | 
+| 2006-03-28 | 第12期NEC杯囲碁戦予選 | Zhu Songli | Nie Weiping | Lose | B+R | 7.5 | 2958 | -12 | 
+| 2006-03-24 | 第19期中国囲碁名人戦予選 | Li Jie | Nie Weiping | Lose | B+R | 7.5 | 2970 | -20 | 
+| 2006-03-16 | 第5回西南棋王戦2回戦 | Nie Weiping | Wang Yao | Lose | W+14.5 | 7.5 | 2990 | 0 | 
+| 2006-03-16 | 第5回西南棋王戦1回戦 | Zhu Yuanhao | Nie Weiping | Win | W+R | 7.5 | 2990 | -16 | 
+| 2006-01-19 | 第20期中国囲碁天元戦1回戦 | Kong Jie | Nie Weiping | Lose | B+R | 7.5 | 3006 | -16 | 
+| 2006-01-18 | 第20期中国囲碁天元戦予選 | Zhang Xuan | Nie Weiping | Win | W+R | 7.5 | 3022 | -42 | 
+| 2006-01-17 | 2006CCTV杯中国囲棋電視快棋戦1回戦 | Nie Weiping | Chen Yaoye | Lose | W+R | 7.5 | 3064 | -103 | 
+| 2005-12-10 | 第7回中国囲碁甲級リーグ第20節 | Nie Weiping | Chang Hao | Win | B+R | 7.5 | 3167 | -28 | 
+| 2005-12-03 | 第7回中国囲碁甲級リーグ第19節 | Nie Weiping | Wang Haoyang | Lose | W+R | 7.5 | 3195 | -33 | 
+| 2005-11-29 | 第6期リコー杯囲碁戦1回戦 | Nie Weiping | Shi Yue | Lose | W+R | 7.5 | 3228 | 19 | 
+| 2005-11-26 | 第7回中国囲碁甲級リーグ第18節 | Hong Minpyo | Nie Weiping | Lose | B+R | 7.5 | 3209 | 52 | 
+| 2005-11-12 | 第7回中国囲碁甲級リーグ第17節 | Nie Weiping |  | Win | B+R | 7.5 | 3157 | 297 | 
+| 2005-11-05 | 第7回中国囲碁甲級リーグ第16節 | Nie Weiping | Ma Xiaochun | Lose | W+2.5 | 7.5 | 2860 | -234 | 
+| 2005-10-29 | 第7回中国囲碁甲級リーグ第15節 | Huang Yizhong | Nie Weiping | Lose | B+R | 7.5 | 3094 | 13 | 
+| 2005-10-25 | 第2期倡棋杯中国プロ囲碁選手権戦2回戦 | Nie Weiping | Zhou Heyang | Lose | W+R | 7.5 | 3081 | 0 | 
+| 2005-10-23 | 第2期倡棋杯中国プロ囲碁選手権戦1回戦 | Liu Xing | Nie Weiping | Win | W+5 | 7.5 | 3081 | 44 | 
+| 2005-10-14 | 第7回中国囲碁甲級リーグ第14節 | Nie Weiping | Wang Yang | Win | B+3.5 | 7.5 | 3037 | 46 | 
+| 2005-10-06 | 第7回中国囲碁甲級リーグ第12節 | Zhou Heyang | Nie Weiping | Win | W+0.5 | 7.5 | 2991 | 67 | 
+| 2005-09-04 | 第2期倡棋杯中国プロ囲碁選手権戦予選 | Nie Weiping |  | Win | B+3 | 7.5 | 2924 | 23 | 
+| 2005-08-20 | 第7回中国囲碁甲級リーグ第11節 | Nie Weiping | Piao Wenyao | Win | B+R | 7.5 | 2901 | 6 | 
+| 2005-08-13 | 第7回中国囲碁甲級リーグ第10節 | Nie Weiping | Gu Lingyi | Win | B+3.5 | 7.5 | 2895 | 36 | 
+| 2005-08-06 | 第7回中国囲碁甲級リーグ第9節 | Qiu Jun | Nie Weiping | Lose | B+R | 7.5 | 2859 | -40 | 
+| 2005-07-09 | 第7回中国囲碁甲級リーグ第8節 | Nie Weiping | Zhou Ruiyang | Lose | W+R | 7.5 | 2899 | 347 | 
+| 2005-06-25 | 第7回中国囲碁甲級リーグ第7節 |  | Nie Weiping | Win | W+2.5 | 7.5 | 2552 | -81 | 
+| 2005-06-18 | 第7回中国囲碁甲級リーグ第6節 | Shao Weigang | Nie Weiping | Win | W+2.5 | 7.5 | 2633 | -24 | 
+| 2005-06-11 | 第7回中国囲碁甲級リーグ第5節 | Nie Weiping | Ma Xiaochun | Lose | W+R | 7.5 | 2657 | -29 | 
+| 2005-06-06 | 第7期阿含・桐山杯中国早碁オープン戦予選 | Yue Song | Nie Weiping | Lose | B+R | 7.5 | 2686 | -9 | 
+| 2005-05-21 | 第7回中国囲碁甲級リーグ第4節 | Peng Quan | Nie Weiping | Lose | B+1.5 | 7.5 | 2695 | -80 | 
+| 2005-05-07 | 第7回中国囲碁甲級リーグ第3節 | Zhang Wendong | Nie Weiping | Win | W+R | 7.5 | 2775 | -53 | 
+| 2005-04-30 | 第7回中国囲碁甲級リーグ第2節 | Nie Weiping | Dong Yan | Lose | W+R | 7.5 | 2828 | 63 | 
+| 2005-04-25 | 第18期中国囲碁名人戦1回戦 | Nie Weiping | Shao Weigang | Lose | W+R | 7.5 | 2765 | -43 | 
+| 2005-04-16 | 第7回中国囲碁甲級リーグ第1節 | Nie Weiping | Wang Xi | Win | B+R | 7.5 | 2808 | -413 | 
+| 2005-01-29 | 第19期中国囲碁天元戦2回戦 | Nie Weiping | Peng Quan | Lose | W+0.5 | 7.5 | 3221 | 2 | 
+| 2005-01-27 | 第19期中国囲碁天元戦1回戦 | Shao Weigang | Nie Weiping | Win | W+R | 7.5 | 3219 | 10 | 
+| 2005-01-25 | 第19期中国囲碁天元戦予選 | Nie Weiping |  | Win | B+1.5 | 7.5 | 3209 | 125 | 
+| 2004-12-19 | 第5期リコー杯囲碁戦2回戦 | Nie Weiping | Shao Weigang | Lose | W+6.5 | 6.5 | 3084 | 37 | 
+| 2004-12-16 | 第6回中国囲碁甲級リーグ第22節 | Wang Yao | Nie Weiping | Lose | B+R | 7.5 | 3047 | -24 | 
+| 2004-12-14 | 第6回中国囲碁甲級リーグ第21節 | Nie Weiping | Peng Quan | Lose | W+R | 7.5 | 3071 | 70 | 
+| 2004-11-27 | 第2期威孚房開杯棋王戦1回戦 | Kong Jie | Nie Weiping | Lose | B+7.5 | 7.5 | 3001 | -11 | 
+| 2004-11-25 | 第6回中国囲碁甲級リーグ第19節 | Nie Weiping |  | Win | B+3.5 | 7.5 | 3012 | 89 | 
+| 2004-11-18 | 第6回中国囲碁甲級リーグ第18節 | Nie Weiping | Li Zhe | Lose | W+2.5 | 7.5 | 2923 | 15 | 
+| 2004-11-04 | 第6回中国囲碁甲級リーグ第16節 | Kong Jie | Nie Weiping | Lose | B+R | 7.5 | 2908 | 179 | 
+| 2004-10-28 | 第6回中国囲碁甲級リーグ第15節 | Nie Weiping | Wang Lei (b) | Lose | W+R | 7.5 | 2729 | -387 | 
+| 2004-10-23 | 第1期倡棋杯中国プロ囲碁選手権戦1回戦 | Niu Yutian | Nie Weiping | Win | W+R | 7.5 | 3116 | 60 | 
+| 2004-10-09 | 第6回中国囲碁甲級リーグ第12節 | Yoo Changhyuk | Nie Weiping | Lose | B+7.5 | 7.5 | 3056 | -215 | 
+| 2004-09-21 | 第17期中国囲碁名人戦挑戦者決定戦第2局 | Gu Li | Nie Weiping | Lose | B+R | 7.5 | 3271 | 10 | 
+| 2004-09-09 | 第1期倡棋杯中国プロ囲碁選手権戦予選 | Xie He | Nie Weiping | Win | W+R | 7.5 | 3261 | 187 | 
+| 2004-09-06 | 第17期中国囲碁名人戦挑戦者決定戦第1局 | Nie Weiping | Gu Li | Lose | W+R | 7.5 | 3074 | -15 | 
+| 2004-09-01 | 第9回三星火災杯世界オープン囲碁選手権1回戦 | Song Taekon | Nie Weiping | Lose | B+R | 6.5 | 3089 | 66 | 
+| 2004-07-08 | 第6期阿含・桐山杯中国早碁オープン戦予選 | Nie Weiping | Xu Ying | Lose | W+R | 7.5 | 3023 | -62 | 
+| 2004-07-01 | 第6回中国囲碁甲級リーグ第11節 | Nie Weiping | Wang Yao | Lose | W+R | 7.5 | 3085 | -7 | 
+| 2004-06-24 | 第6回中国囲碁甲級リーグ第10節 | Nie Weiping | Huang Yizhong | Win | B+1.5 | 7.5 | 3092 | 14 | 
+| 2004-06-22 | 第17期中国囲碁名人戦準決勝 | Nie Weiping | Shao Weigang | Win | B+R | 7.5 | 3078 | 19 | 
+| 2004-06-20 | 第17期中国囲碁名人戦3回戦 | Liu Shizhen | Nie Weiping | Win | W+2.5 | 7.5 | 3059 | 21 | 
+| 2004-06-17 | 第6回中国囲碁甲級リーグ第9節 | Nie Weiping |  | Win | B+R | 7.5 | 3038 | -20 | 
+| 2004-06-10 | 第6回中国囲碁甲級リーグ第8節 | Nie Weiping | Zhu Yi | Win | B+R | 7.5 | 3058 | 13 | 
+| 2004-06-03 | 第6回中国囲碁甲級リーグ第7節 | Nie Weiping |  | Win | B+R | 7.5 | 3045 | 60 | 
+| 2004-05-27 | 第6回中国囲碁甲級リーグ第6節 | Song Xuelin | Nie Weiping | Lose | B+5.5 | 7.5 | 2985 | -83 | 
+| 2004-05-13 | 第6回中国囲碁甲級リーグ第4節 | Wang Lei (b) | Nie Weiping | Lose | B+R | 7.5 | 3068 | 2 | 
+| 2004-05-10 | 第6回中国囲碁甲級リーグ第3節 | Liu Shizhen | Nie Weiping | Win | W+R | 7.5 | 3066 | 50 | 
+| 2004-05-08 | 第17期中国囲碁名人戦2回戦 | Nie Weiping | Zhang Wendong | Win | B+R | 7.5 | 3016 | 23 | 
+| 2004-05-06 | 第17期中国囲碁名人戦1回戦 | Chang Hao | Nie Weiping | Win | W+R | 7.5 | 2993 | 56 | 
+| 2004-04-29 | 第6回中国囲碁甲級リーグ第2節 | Nie Weiping | Zhou Heyang | Win | B+1.5 | 7.5 | 2937 | -25 | 
+| 2004-04-15 | 第6回中国囲碁甲級リーグ第1節 | Cao Dayuan | Nie Weiping | Win | W+R | 7.5 | 2962 | 36 | 
+| 2004-03-28 | 第17期中国囲碁名人戦予選 | Nie Weiping |  | Win | B+R | 7.5 | 2926 | 151 | 
+| 2003-12-18 | 第5回中国囲碁甲級リーグ第22節 |  | Nie Weiping | Lose | B+R | 7.5 | 2775 | -65 | 
+| 2003-12-08 | 第4期リコー杯囲碁戦1回戦 | Li Zhe | Nie Weiping | Lose | B+R | 7.5 | 2840 | -74 | 
+| 2003-11-27 | 第5回中国囲碁甲級リーグ第19節 | Jing Shi | Nie Weiping | Win | W+R | 7.5 | 2914 | -10 | 
+| 2003-11-20 | 第5回中国囲碁甲級リーグ第18節 |  | Nie Weiping | Lose | B+R | 7.5 | 2924 | 7 | 
+| 2003-11-13 | 第5回中国囲碁甲級リーグ第17節 | Nie Weiping | Wang Yang | Lose | W+0.5 | 7.5 | 2917 | -32 | 
+| 2003-10-30 | 第5回中国囲碁甲級リーグ第15節 | Nie Weiping | Song Xuelin | Lose | W+0.5 | 7.5 | 2949 | -35 | 
+| 2003-10-23 | 第5回中国囲碁甲級リーグ第14節 | Chang Hao | Nie Weiping | Win | W+R | 7.5 | 2984 | -2653 | 
+| 2003-10-05 | 第1期威孚房開杯棋王戦決勝 | Nie Weiping | Yu Bin | Win | B+R | 7.5 | 5637 | 0 | 
+| 2003-10-05 | 第1期威孚房開杯棋王戦2回戦 | Nie Weiping | Chen Zude | Win | B+1.5 | 7.5 | 5637 | 26 | 
+| 2003-10-04 | 第1期威孚房開杯棋王戦1回戦 | Wang Yuhui | Nie Weiping | Win | W+R | 7.5 | 5611 | 2904 | 
+| 2003-09-11 | 第5回中国囲碁甲級リーグ第10節 | Zhou Bo | Nie Weiping | Lose | B+5.5 | 7.5 | 2707 | 35 | 
+| 2003-09-04 | 第5回中国囲碁甲級リーグ第9節 | Nie Weiping | Gu Li | Lose | W+R | 7.5 | 2672 | 44 | 
+| 2003-08-11 | 第5回中国囲碁甲級リーグ第11節 |  | Nie Weiping | Lose | B+1.5 | 7.5 | 2628 | 66 | 
+| 2003-08-07 | 第5回中国囲碁甲級リーグ第7節 | Nie Weiping | Zhu Songli | Lose | W+2.5 | 7.5 | 2562 | -33 | 
+| 2003-07-24 | 第5回中国囲碁甲級リーグ第6節 | Chen Yaoye | Nie Weiping | Win | W+2.5 | 7.5 | 2595 | 60 | 
+| 2003-07-17 | 第5回中国囲碁甲級リーグ第5節 | Nie Weiping |  | Win | B+R | 7.5 | 2535 | 15 | 
+| 2003-07-10 | 第5回中国囲碁甲級リーグ第4節 | Yu Ping | Nie Weiping | Win | W+R | 7.5 | 2520 | -1 | 
+| 2003-04-07 | 第5回中国囲碁甲級リーグ第1節 | Nie Weiping | Luo Xihe | Lose | W+R | 7.5 | 2521 | -38 | 
+| 2003-03-24 | 第16期中国囲碁名人戦2回戦 | Nie Weiping | Qiu Jun | Lose | W+0.5 | 7.5 | 2559 | -6 | 
+| 2003-03-22 | 第16期中国囲碁名人戦1回戦 | Nie Weiping | Hu Yaoyu | Win | B+1.5 | 7.5 | 2565 | -5 | 
+| 2003-02-13 | 第2回CSK杯囲碁アジア対抗戦中国選抜戦 | Zhou Heyang | Nie Weiping | Win | W+R | 6.5 | 2570 | 115 | 
+| 2002-12-22 | 第3期リコー杯囲碁戦2回戦 | Nie Weiping | Liu Xiaoguang | Lose | W+R | 7.5 | 2455 | 2455 | 
+| 2002-12-21 | 第3期リコー杯囲碁戦1回戦 |  | Nie Weiping | Win | W+R | 7.5 | missing | -2471 | 
+| 2002-12-01 | 第4回中国囲碁甲級リーグ第22節 | Kong Jie | Nie Weiping | Win | W+R | 7.5 | 2471 | 22 | 
+| 2002-11-28 | 第4回中国囲碁甲級リーグ第21節 | Huang Yizhong | Nie Weiping | Win | W+16.5 | 7.5 | 2449 | 94 | 
+| 2002-11-21 | 第4回中国囲碁甲級リーグ第20節 | Zhu Songli | Nie Weiping | Win | W+R | 7.5 | 2355 | 13 | 
+| 2002-11-14 | 第4回中国囲碁甲級リーグ第19節 | Wang Xi | Nie Weiping | Lose | B+3.5 | 7.5 | 2342 | -36 | 
+| 2002-11-07 | 第4回中国囲碁甲級リーグ第18節 | Nie Weiping | Li Jie | Lose | W+0.5 | 7.5 | 2378 | -7 | 
+| 2002-10-31 | 第4回中国囲碁甲級リーグ第17節 | Ding Wei | Nie Weiping | Lose | B+R | 7.5 | 2385 | 56 | 
+| 2002-10-24 | 第4回中国囲碁甲級リーグ第16節 | Nie Weiping | Dong Yan | Lose | W+6.5 | 7.5 | 2329 | -20 | 
+| 2002-10-17 | 第4回中国囲碁甲級リーグ第15節 | Zhou Heyang | Nie Weiping | Lose | B+R | 7.5 | 2349 | -54 | 
+| 2002-10-10 | 第4回中国囲碁甲級リーグ第14節 | Liu Shizhen | Nie Weiping | Win | W+R | 7.5 | 2403 | 47 | 
+| 2002-09-12 | 第4回中国囲碁甲級リーグ第13節 |  | Nie Weiping | Lose | B+R | 7.5 | 2356 | -29 | 
+| 2002-09-05 | 第4回中国囲碁甲級リーグ第12節 |  | Nie Weiping | Win | W+R | 7.5 | 2385 | 229 | 
+| 2002-08-08 | 第4回農心杯中国選抜戦 | Nie Weiping | Qiu Jun | Lose | W+6.5 | 6.5 | 2156 | -12 | 
+| 2002-08-07 | 第4期阿含・桐山杯中国早碁オープン戦1回戦 | Luo Xihe | Nie Weiping | Win | W+2.5 | 7.5 | 2168 | 50 | 
+| 2002-06-27 | 第4回中国囲碁甲級リーグ第11節 | Nie Weiping | Wang Yang | Win | B+R | 7.5 | 2118 | 60 | 
+| 2002-06-20 | 第4回中国囲碁甲級リーグ第10節 | Nie Weiping | Luo Xihe | Win | B+R | 7.5 | 2058 | 139 | 
+| 2002-06-13 | 第4回中国囲碁甲級リーグ第9節 | Kono Rin | Nie Weiping | Lose | B+R | 7.5 | 1919 | -55 | 
+| 2002-06-06 | 第4回中国囲碁甲級リーグ第8節 | Nie Weiping |  | Win | B+R | 7.5 | 1974 | -19 | 
+| 2002-05-23 | 第4回中国囲碁甲級リーグ第7節 | Li Jie | Nie Weiping | Win | W+R | 7.5 | 1993 | 1993 | 
+| 2002-05-13 | 第4回中国囲碁甲級リーグ第6節 |  | Nie Weiping | Win | W+R | 7.5 | missing | 0 | 
+| 2002-05-09 | 第4回中国囲碁甲級リーグ第5節 | Nie Weiping |  | Win | B+3.5 | 7.5 | missing | 0 | 
+| 2002-04-25 | 第4回中国囲碁甲級リーグ第4節 | Nie Weiping | Gu Li | Lose | W+16.5 | 7.5 | missing | 0 | 
+| 2002-04-18 | 第4回中国囲碁甲級リーグ第3節 | Nie Weiping | Qiu Jun | Lose | W+3.5 | 7.5 | missing | 0 | 
+| 2002-04-08 | 第4回中国囲碁甲級リーグ第2節 |  | Nie Weiping | Lose | B+R | 7.5 | missing | 0 | 
+| 2002-04-04 | 第4回中国囲碁甲級リーグ第1節 |  | Nie Weiping | Win | W+6.5 | 7.5 | missing | 0 | 
+| 2002-01-22 | 第16期中国囲碁天元戦1回戦 | Nie Weiping | Gu Li | Lose | W+4.5 | 7.5 | missing | 0 | 
+| 2002-01-21 | 第16期中国囲碁天元戦予選 | Wang Qun | Nie Weiping | Win | W+0.5 | 7.5 | missing | 0 | 
+| 1989-09-05 | 第1回応氏杯世界選手権決勝五番勝負第5局 | Cho Hunhyun | Nie Weiping | Lose | B+R | 7.5 | missing | 0 | 
+| 1989-09-02 | 第1回応氏杯世界選手権決勝五番勝負第4局 | Cho Hunhyun | Nie Weiping | Lose | B+1 | 7.5 | missing | 0 | 
+| 1989-05-02 | 第1回応氏杯世界選手権決勝五番勝負第3局 | Nie Weiping | Cho Hunhyun | Win | B+3 | 7.5 | missing | 0 | 
+| 1989-04-28 | 第1回応氏杯世界選手権決勝五番勝負第2局 | Cho Hunhyun | Nie Weiping | Win | W+9 | 7.5 | missing | 0 | 
+| 1989-04-25 | 第1回応氏杯世界選手権決勝五番勝負第1局 | Nie Weiping | Cho Hunhyun | Lose | W+3 | 7.5 | missing | 0 | 
+| 1988-11-22 | 第1回応氏杯世界選手権準決勝三番勝負第2局 | Fujisawa Hideyuki | Nie Weiping | Win | W+1 | 7.5 | missing | 0 | 
+| 1988-11-20 | 第1回応氏杯世界選手権準決勝三番勝負第1局 | Nie Weiping | Fujisawa Hideyuki | Win | B+1 | 7.5 | missing | 0 | 
+| 1988-08-23 | 第1回応氏杯世界選手権2回戦 | Nie Weiping | Cho Chikun | Win | B+R | 7.5 | missing | 0 | 
+| 1988-08-21 | 第1回応氏杯世界選手権1回戦 | Nie Weiping | Michael Redmond | Win | B+R | 7.5 | missing | missing |
 
 
 

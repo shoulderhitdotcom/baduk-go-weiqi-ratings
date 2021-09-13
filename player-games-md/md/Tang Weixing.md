@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-13 | 第13回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Tang Weixing | Shin Jinseo | Lose | W+¼ | 7.5 | 3525 | 0 | 
+| 2021-09-13 | 第13回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Tang Weixing | Shin Jinseo | Lose | W+¼ | 7.5 | 3525 | -7 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Tang Weixing | Zhou Ruiyang | Lose | W+2¼ | 7.5 | 3532 | 2 | 
 | 2021-08-27 | 第26回三星火災杯中国予選 | Tang Weixing | Tong Mengcheng | Win | B+1.5 | 6.5 | 3530 | 0 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Tang Weixing |  | Win | B+R | 7.5 | 3530 | -77 | 
@@ -277,7 +279,7 @@
 | 2016-03-21 | 第13期倡棋杯中国プロ囲碁選手権戦2回戦 | Ke Jie | Tang Weixing | Win | W+R | 7.5 | 3134 | 17 | 
 | 2016-03-19 | 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Tang Weixing | Zhang Tao | Win | B+R | 7.5 | 3117 | -8 | 
 | 2016-03-07 | 第15回西南棋王戦2回戦 | Tang Weixing | Tan Xiao | Lose | W+R | 7.5 | 3125 | 0 | 
-| 2016-03-07 | 第15回西南棋王戦1回戦 | Tang Weixing |  | Win | B+R | 7.5 | 3125 | -28 | 
+| 2016-03-07 | 第15回西南棋王戦1回戦 | Tang Weixing | Ma Yichao | Win | B+R | 7.5 | 3125 | -28 | 
 | 2016-03-01 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Chen Shiyuan | Tang Weixing | Win | W+4.5 | 7.5 | 3153 | 1 | 
 | 2016-02-29 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Tang Weixing | Hirata Tomoya | Win | B+3.5 | 7.5 | 3152 | -11 | 
 | 2016-02-28 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Tang Weixing | Jiang Mingjiu | Win | B+9.5 | 7.5 | 3163 | 1 | 
@@ -373,7 +375,7 @@
 | 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Tang Weixing | Zhong Wenjing | Win | B+R | 7.5 | 3451 | 20 | 
 | 2014-06-11 | 第19回LG杯朝鮮日報棋王戦2回戦 | Tang Weixing | Park Junghwan | Lose | W+R | 6.5 | 3431 | 4 | 
 | 2014-06-09 | 第19回LG杯朝鮮日報棋王戦1回戦 | Tang Weixing | Yuki Satoshi | Win | B+R | 6.5 | 3427 | 23 | 
-| 2014-06-05 | 第16回中国囲碁甲級リーグ第6節 | Tang Weixing |  | Lose | W+2.5 | 7.5 | 3404 | -15 | 
+| 2014-06-05 | 第16回中国囲碁甲級リーグ第6節 | Tang Weixing | Ma Yichao | Lose | W+2.5 | 7.5 | 3404 | -15 | 
 | 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Tang Weixing | Cho Hanseung | Win | B+R | 7.5 | 3419 | -3 | 
 | 2014-06-01 | 第11期倡棋杯中国プロ囲碁選手権戦3回戦 | Tang Weixing | Piao Wenyao | Lose | W+R | 7.5 | 3422 | 1 | 
 | 2014-05-30 | 第11期倡棋杯中国プロ囲碁選手権戦2回戦 | Tang Weixing | Tan Xiao | Win | B+R | 7.5 | 3421 | 9 | 
@@ -454,7 +456,7 @@
 | 2013-01-26 | 第27期中国囲碁天元戦2回戦 | Tan Xiao | Tang Weixing | Lose | B+R | 7.5 | 3326 | 0 | 
 | 2013-01-24 | 第27期中国囲碁天元戦1回戦 | Tang Weixing | Zhou Heyang | Win | B+R | 7.5 | 3326 | -6 | 
 | 2012-12-29 | 第13期リコー杯囲碁戦2回戦 | Shi Yue | Tang Weixing | Win | W+R | 7.5 | 3332 | 11 | 
-| 2012-12-28 | 第13期リコー杯囲碁戦1回戦 | Tang Weixing |  | Win | B+R | 7.5 | 3321 | -1 | 
+| 2012-12-28 | 第13期リコー杯囲碁戦1回戦 | Tang Weixing | Ma Yichao | Win | B+R | 7.5 | 3321 | -1 | 
 | 2012-12-08 | 第14回中国囲碁甲級リーグ第22節 | Niu Yutian | Tang Weixing | Lose | B+R | 7.5 | 3322 | 24 | 
 | 2012-12-01 | 第14回中国囲碁甲級リーグ第21節 | Tang Weixing | Tao Xinran | Win | B+R | 7.5 | 3298 | -226 | 
 | 2012-11-24 | 第14回中国囲碁甲級リーグ第20節 |  | Tang Weixing | Win | W+R | 7.5 | 3524 | -4 | 

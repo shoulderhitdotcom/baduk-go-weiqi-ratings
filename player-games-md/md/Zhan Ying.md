@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-13 | 第18回建橋杯女子囲碁オープン戦予選 | Tang Ying | Zhan Ying | Win | W+R | 7.5 | 2665 | 28 | 
 | 2021-08-27 | 第12期中国竜星戦予選 | Zhan Ying | Cao Youyin | Lose | W+4¼ | 7.5 | 2637 | -89 | 
 | 2021-08-24 | 第12期中国竜星戦予選 | Zhan Ying |  | Win | B+¼ | 7.5 | 2726 | -3 | 
 | 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Zhan Ying | Pan Yang | Lose | W+R | 7.5 | 2729 | 11 | 

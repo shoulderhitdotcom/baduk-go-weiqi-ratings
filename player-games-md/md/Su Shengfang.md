@@ -7,19 +7,22 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-13 | 第14期棋王戦（台湾）予選 | Su Shengfang |  | Lose | W+R | 6.5 | 2260 | -2 | 
+| 2021-09-09 | 第14期棋王戦（台湾）予選 | Chen Shiyuan | Su Shengfang | Lose | B+R | 6.5 | 2262 | 2262 | 
+| 2021-09-05 | 第9期中環碁聖戦 | Su Shengfang | Chen Xi | Lose | W+R | 6.5 | missing | -2269 | 
 | 2021-09-03 | 第7回健喬杯女子囲碁最強戦決勝  |  | Su Shengfang | Lose | B+R | 6.5 | 2269 | -22 | 
 | 2021-09-02 | 第14期棋王戦（台湾）予選 | Su Shengfang | Ding Shaojie | Lose | W+R | 6.5 | 2291 | -4 | 
-| 2021-09-01 | 第26回三星火災杯台湾予選 |  | Su Shengfang | Lose | B+R | 6.5 | 2295 | 8 | 
+| 2021-09-01 | 第26回三星火災杯台湾予選 | Yang Zixuan | Su Shengfang | Lose | B+R | 6.5 | 2295 | 8 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 | Zhao Peizhe | Su Shengfang | Win | W+R | 6.5 | 2287 | -26 | 
 | 2021-08-27 | 第7回健喬杯女子囲碁最強戦敗部決勝  | Su Shengfang | Yu Lijun | Win | B+R | 6.5 | 2313 | 81 | 
 | 2021-08-23 | 第7回健喬杯女子囲碁最強戦勝部決勝  |  | Su Shengfang | Lose | B+R | 6.5 | 2232 | 2232 | 
-| 2021-08-20 | 第7回健喬杯女子囲碁最強戦勝部2回戦 |  | Su Shengfang | Win | W+R | 6.5 | missing | -2022 | 
-| 2021-05-12 | 第4回呉清源杯台湾予選 | Su Shengfang |  | Lose | W+R | 6.5 | 2022 | -145 | 
+| 2021-08-20 | 第7回健喬杯女子囲碁最強戦勝部2回戦 | Yang Zixuan | Su Shengfang | Win | W+R | 6.5 | missing | -2022 | 
+| 2021-05-12 | 第4回呉清源杯台湾予選 | Su Shengfang | Liu Yifang | Lose | W+R | 6.5 | 2022 | -145 | 
 | 2021-05-11 | 第2期聯電杯プロ囲碁戦予選 | Lin Shengyi | Su Shengfang | Lose | B+R | 6.5 | 2167 | -52 | 
 | 2021-04-02 | 第17期国手戦（台湾） | Yang Bowei | Su Shengfang | Lose | B+R | 6.5 | 2219 | -7 | 
 | 2021-04-01 | 第11期友士杯十段戦予選 | Su Shengfang | Lin Ziyuan | Lose | W+R | 6.5 | 2226 | 0 | 
 | 2021-04-01 | 第11期友士杯十段戦予選 |  | Su Shengfang | Lose | B+R | 6.5 | 2226 | -43 | 
-| 2021-03-25 | 第17期国手戦（台湾） | Su Shengfang |  | Win | B+R | 6.5 | 2269 | 2269 | 
+| 2021-03-25 | 第17期国手戦（台湾） | Su Shengfang | Bai Xinhui | Win | B+R | 6.5 | 2269 | 2269 | 
 | 2021-02-18 | 第2期名人冠軍戦予選 | Su Shengfang |  | Lose | W+R | 6.5 | missing | 0 | 
 | 2021-01-08 | 第20期天元戦（台湾）予選 | Su Shengfang | Li Wei | Lose | W+R | 6.5 | missing | 0 | 
 | 2020-12-11 | 2020年関西棋院VS台湾棋院対抗戦第2戦 | Nishiyama Shizuka | Su Shengfang | Lose | B+T | 6.5 | missing | 0 | 
@@ -36,7 +39,7 @@
 | 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Chen Xi | Su Shengfang | Lose | B+R | 6.5 | 1984 | -181 | 
 | 2020-01-14 | 第19期天元戦（台湾）予選 | Su Shengfang | Lai Junfu | Lose | W+R | 6.5 | 2165 | 119 | 
 | 2019-12-27 | 第9回天台山体彩杯世界女子囲碁団体戦台湾代表選抜戦 | Dang Xiyun | Su Shengfang | Lose | B+R | 7.5 | 2046 | 168 | 
-| 2019-12-13 | 第3回呉清源杯世界女子囲碁選手権台湾代表選抜戦 | Su Shengfang |  | Lose | W+1¼ | 7.5 | 1878 | -82 | 
+| 2019-12-13 | 第3回呉清源杯世界女子囲碁選手権台湾代表選抜戦 | Su Shengfang | Liu Yifang | Lose | W+1¼ | 7.5 | 1878 | -82 | 
 | 2019-10-09 | 2019新人王戦（台湾）予選敗部1回戦 | Su Shengfang |  | Lose | W+R | 7.5 | 1960 | 0 | 
 | 2019-10-09 | 2019新人王戦（台湾）予選勝部1回戦 |  | Su Shengfang | Lose | B+R | 7.5 | 1960 | -76 | 
 | 2019-09-15 | 第7期中環碁聖戦2回戦 | Su Shengfang | Xu Jingen | Lose | W+R | 6.5 | 2036 | 4 | 
@@ -46,7 +49,7 @@
 | 2019-08-12 | 第5回女子囲碁最強戦敗部3回戦 | Chinen Kaori | Su Shengfang | Lose | B+R | 6.5 | 2063 | -58 | 
 | 2019-08-11 | 第5回女子囲碁最強戦敗部2回戦 | Su Shengfang | Dang Xiyun | Win | B+R | 6.5 | 2121 | 59 | 
 | 2019-08-10 | 第5回女子囲碁最強戦敗部1回戦 |  | Su Shengfang | Win | W+R | 6.5 | 2062 | 0 | 
-| 2019-08-10 | 第5回女子囲碁最強戦勝部1回戦 | Su Shengfang |  | Lose | W+R | 6.5 | 2062 | -54 | 
+| 2019-08-10 | 第5回女子囲碁最強戦勝部1回戦 | Su Shengfang | Yang Zixuan | Lose | W+R | 6.5 | 2062 | -54 | 
 | 2019-04-11 | 第9期友士杯十段戦予選敗部準決勝 | Su Shengfang |  | Lose | W+R | 6.5 | 2116 | -9 | 
 | 2019-04-10 | 第9期友士杯十段戦予選敗部3回戦 | Su Shengfang |  | Win | B+R | 6.5 | 2125 | 0 | 
 | 2019-04-10 | 第9期友士杯十段戦予選敗部2回戦 | Su Shengfang | Ding Shaojie | Win | B+2.5 | 6.5 | 2125 | 174 | 
@@ -62,7 +65,7 @@
 | 2018-10-02 | 第14期国手戦（台湾）2回戦 | Su Shengfang | Lin Shimin | Lose | W+R | 6.5 | 1808 | 12 | 
 | 2018-09-20 | 第14期国手戦（台湾）1回戦上半区 | Su Shengfang | Ding Shaojie | Win | B+4.5 | 6.5 | 1796 | -255 | 
 | 2018-08-11 | 第4回女子囲碁最強戦敗部3回戦 | Su Shengfang | Hei Jiajia | Lose | W+R | 6.5 | 2051 | 11 | 
-| 2018-08-10 | 第4回女子囲碁最強戦勝部準決勝 |  | Su Shengfang | Lose | B+R | 6.5 | 2040 | -15 | 
+| 2018-08-10 | 第4回女子囲碁最強戦勝部準決勝 | Bai Xinhui | Su Shengfang | Lose | B+R | 6.5 | 2040 | -15 | 
 | 2018-08-09 | 第4回女子囲碁最強戦勝部2回戦 | Su Shengfang | Xiao Ailin | Win | B+R | 6.5 | 2055 | 0 | 
 | 2018-08-09 | 第4回女子囲碁最強戦勝部1回戦 | Su Shengfang |  | Win | B+R | 6.5 | 2055 | 20 | 
 | 2018-03-08 | 第10回海峰杯プロ囲碁戦64強戦 | Zhou Keping | Su Shengfang | Lose | B+R | 6.5 | 2035 | -104 | 

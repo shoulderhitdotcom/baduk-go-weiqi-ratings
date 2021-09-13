@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-13 | 第12期中国竜星戦Bブロック2回戦 | Chen Haoxin | Mao Ruilong | Win | B+R | 7.5 | 3445 | 0 | 
+| 2021-09-13 | 第12期中国竜星戦Bブロック1回戦 | Jin Yucheng | Chen Haoxin | Win | W+R | 7.5 | 3445 | 76 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Lyu Liyan | Chen Haoxin | Win | W+R | 7.5 | 3369 | 34 | 
 | 2021-09-01 | 第12期中国竜星戦予選 | Chen Haoxin |  | Win | B+R | 7.5 | 3335 | 98 | 
 | 2021-08-30 | 第12期中国竜星戦予選 | Chen Haoxin |  | Win | B+R | 7.5 | 3237 | 49 | 
@@ -24,7 +26,7 @@
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Chen Haoxin | Wang Xinghao | Lose | W+R | 7.5 | 3409 | -8 | 
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Chen Yichun | Chen Haoxin | Win | W+R | 7.5 | 3417 | 137 | 
 | 2020-05-15 | 第24期馬橋杯中国囲碁新人王戦準決勝 | Chen Haoxin | Tu Xiaoyu | Lose | W+R | 7.5 | 3280 | -32 | 
-| 2020-05-14 | 第24期馬橋杯中国囲碁新人王戦3回戦 |  | Chen Haoxin | Win | W+R | 7.5 | 3312 | 4 | 
+| 2020-05-14 | 第24期馬橋杯中国囲碁新人王戦3回戦 | Wang Shuo | Chen Haoxin | Win | W+R | 7.5 | 3312 | 4 | 
 | 2020-05-13 | 第24期馬橋杯中国囲碁新人王戦2回戦 |  | Chen Haoxin | Win | W+R | 7.5 | 3308 | 73 | 
 | 2020-05-12 | 第24期馬橋杯中国囲碁新人王戦1回戦 |  | Chen Haoxin | Win | W+¼ | 7.5 | 3235 | 223 | 
 | 2019-11-22 | 2019博思軟件杯中国囲棋新秀争覇戦8強戦 | Chen Haoxin | Shi Yulai | Lose | W+R | 7.5 | 3012 | -33 | 
@@ -58,7 +60,7 @@
 | 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Lee Donghoon | Chen Haoxin | Lose | B+R | 7.5 | missing | 0 | 
 | 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Chen Haoxin | Gu Li | Lose | W+R | 7.5 | missing | 0 | 
 | 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Lian Xiao | Chen Haoxin | Lose | B+R | 7.5 | missing | 0 | 
-| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 |  | Chen Haoxin | Lose | B+R | 7.5 | missing | 0 | 
+| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Ma Yichao | Chen Haoxin | Lose | B+R | 7.5 | missing | 0 | 
 | 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Chen Haoxin | Wang Zejin | Lose | W+R | 7.5 | missing | missing |
 
 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-13 | 第18回建橋杯女子囲碁オープン戦予選 | Wang Xiangyun | Wang Siyin | Win | W+R | 7.5 | missing | 0 | 
 | 2021-08-24 | 第12期中国竜星戦予選 |  | Wang Siyin | Lose | B+R | 7.5 | missing | 0 | 
 | 2021-04-03 | 第8回中国女子囲碁甲級リーグ | Wang Siyin | Li He | Lose | W+R | 7.5 | missing | -2183 | 
 | 2018-08-30 | 第16回建橋杯女子囲碁オープン戦16強戦 | Wang Siyin | Wang Chenxing | Lose | W+R | 7.5 | 2183 | -4 | 

@@ -7,6 +7,16 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-13 | 第14期棋王戦（台湾）予選 | Lin Xinwei | Yang Zixuan | Win | W+5.5 | 6.5 | 2699 | -9 | 
+| 2021-09-09 | 第14期棋王戦（台湾）予選 | Huang Shiyuan | Yang Zixuan | Lose | B+R | 6.5 | 2708 | 2708 | 
+| 2021-09-06 | 第14期棋王戦（台湾）予選 | Yang Zixuan |  | Win | B+R | 6.5 | missing | 0 | 
+| 2021-09-05 | 第9期中環碁聖戦 |  | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 
+| 2021-09-03 | 第26回三星火災杯台湾予選 | Yang Zixuan | Chen Shiyuan | Lose | W+R | 6.5 | missing | 0 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 | Chen Yida | Yang Zixuan | Win | W+9.5 | 6.5 | missing | 0 | 
+| 2021-09-01 | 第26回三星火災杯台湾予選 | Yang Zixuan |  | Win | B+T | 6.5 | missing | 0 | 
+| 2021-09-01 | 第26回三星火災杯台湾予選 | Yang Zixuan | Su Shengfang | Win | B+R | 6.5 | missing | 0 | 
+| 2021-08-30 | 第14期棋王戦（台湾）予選 | Chen Shiyuan | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 
+| 2021-08-25 | 第7回健喬杯女子囲碁最強戦敗部3回戦 | Yang Zixuan | Yu Lijun | Lose | W+R | 6.5 | missing | -2772 | 
 | 2021-08-23 | 第7回健喬杯女子囲碁最強戦敗部2回戦 | Yang Zixuan | Zhang Kaixin | Win | B+3.5 | 6.5 | 2772 | 2772 | 
 | 2021-08-20 | 第7回健喬杯女子囲碁最強戦勝部2回戦 | Yang Zixuan | Su Shengfang | Lose | W+R | 6.5 | missing | -2864 | 
 | 2021-08-18 | 第7回健喬杯女子囲碁最強戦勝部1回戦  | Yang Zixuan | Yu Lijun | Win | B+R | 6.5 | 2864 | 140 | 

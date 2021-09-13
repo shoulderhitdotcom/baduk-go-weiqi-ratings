@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-13 | 第13回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Tang Weixing | Shin Jinseo | Win | W+¼ | 7.5 | 3812 | 0 | 
+| 2021-09-13 | 第13回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Tang Weixing | Shin Jinseo | Win | W+¼ | 7.5 | 3812 | 1 | 
+| 2021-09-10 | 第4期韓国竜星戦決勝三番勝負第3局 | Park Junghwan | Shin Jinseo | Win | W+R | 6.5 | 3811 | -14 | 
 | 2021-09-09 | 第4期韓国竜星戦決勝三番勝負第2局 | Shin Jinseo | Park Junghwan | Lose | W+R | 6.5 | 3825 | -20 | 
 | 2021-09-08 | 第4期韓国竜星戦決勝三番勝負第1局 | Park Junghwan | Shin Jinseo | Win | W+R | 6.5 | 3845 | 3845 | 
 | 2021-09-05 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Seungmin | Shin Jinseo | Win | W+R | 6.5 | missing | -3904 | 
@@ -346,7 +349,7 @@
 | 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Shi Yue | Shin Jinseo | Win | W+R | 7.5 | 3523 | 10 | 
 | 2017-10-22 | 2017年韓国囲碁リーグ | Shin Jinseo | Lee Yeongkyu | Lose | W+R | 6.5 | 3513 | -11 | 
 | 2017-10-15 | 2017年利民杯世界囲碁星鋭最強戦2回戦 | Shin Jinseo | Xie Ke | Lose | W+R | 7.5 | 3524 | 25 | 
-| 2017-10-14 | 2017年利民杯世界囲碁星鋭最強戦1回戦 | Shin Jinseo |  | Win | B+R | 7.5 | 3499 | -6 | 
+| 2017-10-14 | 2017年利民杯世界囲碁星鋭最強戦1回戦 | Shin Jinseo | Ma Yichao | Win | B+R | 7.5 | 3499 | -6 | 
 | 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Li Weiqing | Shin Jinseo | Win | W+R | 7.5 | 3505 | 11 | 
 | 2017-10-05 | 2017年韓国囲碁リーグ | Shin Jinseo | Park Junghwan | Win | B+0.5 | 6.5 | 3494 | 23 | 
 | 2017-09-29 | 2017年韓国囲碁リーグ | Park Yeonghun | Shin Jinseo | Lose | B+R | 6.5 | 3471 | -15 | 

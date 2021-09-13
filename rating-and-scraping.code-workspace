@@ -8,9 +8,12 @@
         },
         {
             "path": "..\\BadukGoWeiqiTools"
+        },
+        {
+            "path": "..\\..\\weiqi\\simulation"
         }
     ],
     "settings": {
-        "julia.environmentPath": "c:\\git\\BadukGoWeiqiTools"
+        "julia.environmentPath": "c:\\git\\baduk-go-weiqi-ratings"
     }
 }

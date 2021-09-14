@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-14 | 第12期中国竜星戦Bブロック4回戦 |  | Chen Haoxin | Win | W+R | 7.5 | 3486 | 0 | 
+| 2021-09-14 | 第12期中国竜星戦Bブロック3回戦 | Zhou Hongyu | Chen Haoxin | Win | W+R | 7.5 | 3486 | 41 | 
 | 2021-09-13 | 第12期中国竜星戦Bブロック2回戦 | Chen Haoxin | Mao Ruilong | Win | B+R | 7.5 | 3445 | 0 | 
 | 2021-09-13 | 第12期中国竜星戦Bブロック1回戦 | Jin Yucheng | Chen Haoxin | Win | W+R | 7.5 | 3445 | 76 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Lyu Liyan | Chen Haoxin | Win | W+R | 7.5 | 3369 | 34 | 

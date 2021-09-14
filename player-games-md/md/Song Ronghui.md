@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-14 | 第18回建橋杯女子囲碁オープン戦予選 | Zhan Ying | Song Ronghui | Win | W+R | 7.5 | 2937 | 10 | 
 | 2021-09-03 | 第12期中国竜星戦予選 | Li He | Song Ronghui | Lose | B+R | 7.5 | 2927 | -49 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Song Ronghui |  | Win | B+3¾ | 7.5 | 2976 | 88 | 
 | 2021-09-01 | 第12期中国竜星戦予選 | Song Ronghui | Wang Yubo | Win | B+R | 7.5 | 2888 | 2888 | 
@@ -80,7 +81,7 @@
 | 2016-10-13 | 第4回中国女子囲碁甲級リーグ第13節 | Rui Naiwei | Song Ronghui | Win | W+R | 7.5 | 2511 | 35 | 
 | 2016-09-25 | 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Ueno Asami | Song Ronghui | Lose | B+R | 6.5 | 2476 | -38 | 
 | 2016-09-24 | 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Song Ronghui | Kim Cheayoung | Lose | W+1.5 | 6.5 | 2514 | -11 | 
-| 2016-09-23 | 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 |  | Song Ronghui | Win | W+R | 6.5 | 2525 | -88 | 
+| 2016-09-23 | 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Yang Zixuan | Song Ronghui | Win | W+R | 6.5 | 2525 | -88 | 
 | 2016-09-13 | 第4回中国女子囲碁甲級リーグ第12節 | Chen Yiming | Song Ronghui | Win | W+0.5 | 7.5 | 2613 | -30 | 
 | 2016-08-31 | 第14期建橋杯中国女子囲棋公開戦8強戦 | Yu Zhiying | Song Ronghui | Lose | B+R | 7.5 | 2643 | -4 | 
 | 2016-08-30 | 第14回建橋杯女子囲碁オープン戦1回戦 | Song Ronghui | Zhou Hongyu | Win | B+R | 7.5 | 2647 | 43 | 

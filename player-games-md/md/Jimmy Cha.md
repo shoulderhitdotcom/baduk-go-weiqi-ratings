@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-14 | 第15回GGオークション杯女流対シニア連勝対抗戦第16局 | Jimmy Cha | Oh Yujin | Lose | W+R | 6.5 | 2476 | -76 | 
+| 2021-09-09 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Jimmy Cha | Win | W+6.5 | 6.5 | 2552 | 110 | 
 | 2021-09-02 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Jimmy Cha | Win | W+R | 6.5 | 2442 | -125 | 
 | 2021-08-17 | 2021韓国シニア囲碁リーグ | Lee Kisup | Jimmy Cha | Win | W+10.5 | 6.5 | 2567 | 80 | 
 | 2021-08-11 | 2021韓国シニア囲碁リーグ | Kim Dongmyeon | Jimmy Cha | Lose | B+4.5 | 6.5 | 2487 | 14 | 

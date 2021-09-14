@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-14 | 第18回建橋杯女子囲碁オープン戦予選 | Cao Youyin |  | Win | B+1¾ | 7.5 | 2605 | 51 | 
 | 2021-09-01 | 第12期中国竜星戦予選 | Lu Minquan | Cao Youyin | Lose | B+2¾ | 7.5 | 2554 | -2 | 
 | 2021-08-31 | 第12期中国竜星戦予選 |  | Cao Youyin | Win | W+R | 7.5 | 2556 | 165 | 
 | 2021-08-27 | 第12期中国竜星戦予選 | Zhan Ying | Cao Youyin | Win | W+4¼ | 7.5 | 2391 | -412 | 

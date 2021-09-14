@@ -7,9 +7,15 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-14 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第3ラウンド | Kobayashi Satoru | Yoo Changhyuk | Lose | B+R | 7.5 | 2942 | -120 | 
+| 2021-09-13 | 2021韓国シニア囲碁リーグ | Yoo Changhyuk | Seo Nungwuk | Lose | W+R | 6.5 | 3062 | 3 | 
+| 2021-09-12 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第1ラウンド | Yoo Changhyuk | Yu Bin | Lose | W+4¼ | 7.5 | 3059 | 53 | 
+| 2021-09-07 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Yoo Changhyuk | Win | W+R | 6.5 | 3006 | 26 | 
+| 2021-09-01 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Yoo Changhyuk | Win | W+R | 6.5 | 2980 | 2980 | 
+| 2021-08-25 | 第26回三星火災杯韓国予選 | Yoo Changhyuk | Lee Changho | Lose | W+R | 6.5 | missing | 0 | 
+| 2021-08-12 | 2021韓国シニア囲碁リーグ | Kim Kihun | Yoo Changhyuk | Win | W+8.5 | 6.5 | missing | -3020 | 
 | 2021-08-03 | 2021韓国シニア囲碁リーグ | Kim Soojang | Yoo Changhyuk | Win | W+R | 6.5 | 3020 | -44 | 
-| 2021-07-27 | 第15回GGオークション杯女流対シニア連勝対抗戦第2局 | Yoo Changhyuk | Kim Yoonyoung | Lose | W+R | 6.5 | 3064 | 36 | 
-| 2021-07-27 | 第15回GGオークション杯女流対シニア連勝対抗戦第2局 | Yoo Changhyuk | Kim Yoonyoung | Lose | W+R | 6.5 | 3028 | -144 | 
+| 2021-07-27 | 第15回GGオークション杯女流対シニア連勝対抗戦第2局 | Yoo Changhyuk | Kim Yoonyoung | Lose | W+R | 6.5 | 3064 | -108 | 
 | 2021-04-14 | 第8回大舟杯プロシニア最強者戦決勝 | Seo Bongsoo | Yoo Changhyuk | Lose | B+2.5 | 6.5 | 3172 | 36 | 
 | 2021-04-07 | 第8回大舟杯プロシニア最強者戦準決勝 | Kim Hyeoimin | Yoo Changhyuk | Win | W+R | 6.5 | 3136 | -3 | 
 | 2021-03-24 | 第8回大舟杯プロシニア最強者戦2回戦 |  | Yoo Changhyuk | Win | W+R | 6.5 | 3139 | 39 | 

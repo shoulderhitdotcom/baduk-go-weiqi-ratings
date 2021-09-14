@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-14 | 第12期中国竜星戦Aブロック4回戦 | Wang Shuo | Wu Guangya | Lose | W+R | 7.5 | 3330 | -63 | 
 | 2021-09-13 | 第12期中国竜星戦Aブロック2回戦 | Wang Shuo | Li He | Win | B+3¾ | 7.5 | 3393 | 0 | 
 | 2021-09-13 | 第12期中国竜星戦Aブロック1回戦 | Wang Shuo | Pan Tingyu | Win | B+R | 7.5 | 3393 | 3393 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Wang Shuo | Cheng Jiaye | Win | B+R | 7.5 | missing | 0 | 

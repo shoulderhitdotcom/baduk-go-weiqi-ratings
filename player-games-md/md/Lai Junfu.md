@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-14 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第1局 | Wang Yuanjun | Lai Junfu | Lose | B+1.5 | 6.5 | 3140 | -5 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Lai Junfu |  | Win | B+R | 6.5 | 3145 | -8 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 | Lai Junfu | Zhou Keping | Win | B+R | 6.5 | 3153 | -9 | 
 | 2021-09-08 | 第26回三星火災杯台湾予選 | Lai Junfu | Wang Yuanjun | Lose | W+R | 6.5 | 3162 | -11 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-14 | 第18回建橋杯女子囲碁オープン戦予選 |  | Huang Ziping | Win | W+R | 7.5 | 2605 | 2605 | 
 | 2021-09-13 | 第18回建橋杯女子囲碁オープン戦予選 | Huang Ziping | Wang Xiangru | Win | B+R | 7.5 | missing | 0 | 
 | 2021-05-19 | 第9回中国女子囲碁甲級リーグ | Huang Ziping |  | Lose | W+R | 7.5 | missing | 0 | 
 | 2021-05-18 | 第9回中国女子囲碁甲級リーグ | Fang Ruoxi | Huang Ziping | Lose | B+R | 7.5 | missing | 0 | 

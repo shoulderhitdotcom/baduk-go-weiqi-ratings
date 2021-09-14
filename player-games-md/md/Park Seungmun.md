@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-14 | 2021韓国シニア囲碁リーグ | Park Seungmun | Kang Hun | Lose | W+R | 6.5 | 2565 | -21 | 
+| 2021-09-09 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Park Seungmun | Lose | B+8.5 | 6.5 | 2586 | 28 | 
 | 2021-08-30 | 2021韓国シニア囲碁リーグ | Park Yeongchan | Park Seungmun | Win | W+11.5 | 6.5 | 2558 | 34 | 
 | 2021-08-16 | 2021韓国シニア囲碁リーグ | Oh Kyuchul | Park Seungmun | Win | W+4.5 | 6.5 | 2524 | 2524 | 
 | 2021-08-12 | 2021韓国シニア囲碁リーグ | Paek Seongho | Park Seungmun | Win | W+8.5 | 6.5 | missing | -2464 | 

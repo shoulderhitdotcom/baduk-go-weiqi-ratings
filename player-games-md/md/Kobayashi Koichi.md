@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-14 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第3ラウンド | Cho Hunhyun | Kobayashi Koichi | Win | W+2¼ | 7.5 | 2760 | 210 | 
 | 2021-09-13 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第2ラウンド | Kobayashi Koichi | Nie Weiping | Win | B+R | 7.5 | 2550 | -19 | 
 | 2021-07-01 | 第70期王座戦予選 | Kobayashi Koichi | Tahara Yasufumi | Win | B+R | 6.5 | 2569 | 61 | 
 | 2021-06-03 | 第70期王座戦予選 |  | Kobayashi Koichi | Win | W+R | 6.5 | 2508 | 149 | 

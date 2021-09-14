@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-14 | 第15回GGオークション杯女流対シニア連勝対抗戦第16局 | Jimmy Cha | Oh Yujin | Win | W+R | 6.5 | 3075 | 1 | 
 | 2021-09-13 | 第15回GGオークション杯女流対シニア連勝対抗戦第15局 | Choi Kyubyeong | Oh Yujin | Win | W+R | 6.5 | 3074 | 1 | 
 | 2021-09-11 | 2021女子最高棋士決定戦（韓国）リーグ | Choi Jeong | Oh Yujin | Lose | B+R | 6.5 | 3073 | -4 | 
 | 2021-09-07 | 第15回GGオークション杯女流対シニア連勝対抗戦第14局 | Oh Yujin | Kim Seungjun | Win | B+R | 6.5 | 3077 | 3 | 

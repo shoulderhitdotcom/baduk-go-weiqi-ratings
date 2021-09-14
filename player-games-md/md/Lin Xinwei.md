@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-14 | 2021環旭新人王戦予選 | Lin Xinwei |  | Lose | W+2¼ | 7.5 | 2701 | -32 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Lin Xinwei | Yang Zixuan | Lose | W+5.5 | 6.5 | 2733 | 9 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 | Lin Xinwei | Chen Qirui | Lose | W+R | 6.5 | 2724 | 2724 | 
 | 2021-09-05 | 第9期中環碁聖戦 | Zhou Yinnan | Lin Xinwei | Win | W+R | 6.5 | missing | -2716 | 

@@ -7,14 +7,14 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-14 | 第12期中国竜星戦Aブロック4回戦 | Wang Shuo | Wu Guangya | Win | W+R | 7.5 | 3362 | -6 | 
 | 2021-09-03 | 第12期中国竜星戦予選 | Wu Guangya | Huang Yizhong | Win | B+R | 7.5 | 3368 | 13 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Pan Fei | Wu Guangya | Win | W+R | 7.5 | 3355 | -1 | 
 | 2021-09-01 | 第26回三星火災杯中国予選 | Tong Mengcheng | Wu Guangya | Win | W+R | 6.5 | 3356 | 81 | 
 | 2021-08-30 | 第26回三星火災杯中国予選 | Huang Yunsong | Wu Guangya | Lose | B+R | 6.5 | 3275 | 3 | 
 | 2021-08-27 | 第26回三星火災杯中国予選 | Wu Guangya | Li Xuanhao | Win | B+R | 6.5 | 3272 | -38 | 
 | 2021-08-18 | 第26回三星火災杯中国予選 | Chen Zijian | Wu Guangya | Lose | B+R | 6.5 | 3310 | 96 | 
-| 2021-08-13 | 第26回三星火災杯中国予選 | Lian Xiao | Wu Guangya | Lose | B+R | 6.5 | 3214 | -1 | 
-| 2021-08-13 | 第26回三星火災杯中国予選 | Lian Xiao | Wu Guangya | Lose | B+R | 6.5 | 3215 | 7 | 
+| 2021-08-13 | 第26回三星火災杯中国予選 | Lian Xiao | Wu Guangya | Lose | B+R | 6.5 | 3214 | 6 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Wu Guangya | Li Qincheng | Lose | W+R | 7.5 | 3208 | 8 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Wu Guangya | Lose | B+R | 7.5 | 3200 | -27 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Wu Guangya | Wang Zejin | Win | B+R | 7.5 | 3227 | 18 | 
@@ -210,7 +210,7 @@
 | 2014-11-22 | 第16回中国囲碁甲級リーグ第21節 | Chang Hao | Wu Guangya | Lose | B+R | 7.5 | 3330 | 6 | 
 | 2014-11-11 | 第16回中国囲碁甲級リーグ第20節 | Wu Guangya | Gu Li | Win | B+R | 7.5 | 3324 | 126 | 
 | 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 |  | Wu Guangya | Lose | B+R | 7.5 | 3198 | -14 | 
-| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 |  | Wu Guangya | Win | W+R | 7.5 | 3212 | -3 | 
+| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Ma Yichao | Wu Guangya | Win | W+R | 7.5 | 3212 | -3 | 
 | 2014-10-12 | 第10期威孚房開杯棋王戦2回戦 | Shi Yue | Wu Guangya | Lose | B+R | 7.5 | 3215 | -4 | 
 | 2014-10-11 | 第10期威孚房開杯棋王戦1回戦 | Wu Guangya | Li Xuanhao | Win | B+1.5 | 7.5 | 3219 | -52 | 
 | 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Wu Guangya | Tang Weixing | Win | B+R | 7.5 | 3271 | 42 | 
@@ -295,7 +295,7 @@
 | 2013-03-29 | 2013年宏達杯全国囲碁星鋭最強戦第1ステージ |  | Wu Guangya | Win | W+R | 7.5 | 3232 | 0 | 
 | 2013-03-29 | 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | Wang Zejin | Wu Guangya | Win | W+R | 7.5 | 3232 | -8 | 
 | 2013-03-27 | 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | Wu Guangya |  | Win | B+R | 7.5 | 3240 | 2 | 
-| 2013-03-26 | 2013年宏達杯全国囲碁星鋭最強戦第1ステージ |  | Wu Guangya | Win | W+R | 7.5 | 3238 | -15 | 
+| 2013-03-26 | 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | Ma Yichao | Wu Guangya | Win | W+R | 7.5 | 3238 | -15 | 
 | 2013-03-13 | 2013CCTV杯中国囲棋電視快棋戦1回戦 | Chen Yaoye | Wu Guangya | Lose | B+3.5 | 7.5 | 3253 | 35 | 
 | 2013-01-24 | 第27期中国囲碁天元戦1回戦 | Wu Guangya | Gu Li | Lose | W+R | 7.5 | 3218 | -189 | 
 | 2012-11-24 | 第14回中国囲碁甲級リーグ第20節 | Wu Guangya | Li Kang | Lose | W+0.5 | 7.5 | 3407 | -1 | 

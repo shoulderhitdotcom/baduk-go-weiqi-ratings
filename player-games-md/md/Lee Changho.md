@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-14 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第3ラウンド | Takao Shinji | Lee Changho | Win | W+1¼ | 7.5 | 3190 | -7 | 
+| 2021-09-12 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第1ラウンド | Lee Changho | Chang Hao | Win | B+R | 7.5 | 3197 | 3197 | 
+| 2021-08-25 | 第26回三星火災杯韓国予選 | Yoo Changhyuk | Lee Changho | Win | W+R | 6.5 | missing | -3169 | 
 | 2021-07-13 | 第23回農心杯韓国予選 | Lee Changho | Song Gyusang | Lose | W+R | 6.5 | 3169 | -24 | 
 | 2021-06-14 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changho | Seol Hyunjun | Lose | W+R | 6.5 | 3193 | -17 | 
 | 2021-05-24 | 第2期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Lee Changho | Lose | B+R | 6.5 | 3210 | 17 | 
@@ -64,7 +67,7 @@
 | 2019-11-29 | 2019-2020韓国囲碁リーグ第9節第2試合第1局 | Park Junghwan | Lee Changho | Lose | B+R | 6.5 | 2993 | -12 | 
 | 2019-11-22 | 2019-2020韓国囲碁リーグ第8節第2試合第1局 | Wen Rubin | Lee Changho | Lose | B+R | 6.5 | 3005 | -6 | 
 | 2019-11-16 | 2019-2020韓国囲碁リーグ第7節第3試合第1局 | Lee Changho |  | Lose | W+R | 6.5 | 3011 | -55 | 
-| 2019-11-03 | 2019-2020韓国囲碁リーグ第5節第4試合第1局 |  | Lee Changho | Win | W+R | 6.5 | 3066 | 38 | 
+| 2019-11-03 | 2019-2020韓国囲碁リーグ第5節第4試合第1局 | Kim Changhoon | Lee Changho | Win | W+R | 6.5 | 3066 | 38 | 
 | 2019-10-24 | 2019扁康杯中韓囲棋国手友誼戦第2戦 | Lee Changho | Chang Hao | Win | B+R | 7.5 | 3028 | 10 | 
 | 2019-10-23 | 2019扁康杯中韓囲棋国手友誼戦第1戦 | Lee Changho | Gu Li | Lose | W+R | 7.5 | 3018 | -19 | 
 | 2019-10-18 | 2019-2020韓国囲碁リーグ第3節第2試合第2局 | Park Hamin | Lee Changho | Win | W+1.5 | 6.5 | 3037 | 90 | 

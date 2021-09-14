@@ -5,534 +5,536 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第44期名人戦（韓国）特別対局第1局 | Lee Changho | Cho Hunhyun | B+R | 2021-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IHKd4lKUnjog%2FxMll1Yg5w%3D%3D) | 
-| 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第2ラウンド | Nie Weiping | Cho Hunhyun | W+R | 2021-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RRIazMn5VXyK1vFl8sQkYA%3D%3D) | 
-| 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第2ラウンド  | Kobayashi Koichi | Cho Hunhyun | W+1.5 | 2021-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sguRN6aWgnAbOTQipxk6jA%3D%3D) | 
-| 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第1ラウンド  | Cho Hunhyun | Yoda Norimoto | B+R | 2021-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nn7Ltz9%2FUNhPKR%2BmooQ%2Fkw%3D%3D) | 
-| 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第1ラウンド | Cho Hunhyun | Chang Hao | B+R | 2021-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1%2BmP3ou5DFYzuMt0Gc%2BBJg%3D%3D) | 
-| 2020中日韓聶衛平杯囲碁マスターズ3回戦 | Nie Weiping | Cho Hunhyun | W+R | 2020-12-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Z%2FVslt1Bnz9oxP2jdUpBg%3D%3D) | 
-| 2020中日韓聶衛平杯囲碁マスターズ2回戦  | Cho Hunhyun | Takemiya Masaki | B+R | 2020-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gNUUyIpgEFAsOKuENJn4lA%3D%3D) | 
-| 曺薫鉉九段復帰特別対局 | Choi Jeong | Cho Hunhyun | B+R | 2020-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KywJYeOSY73rtG5rbdXYLg%3D%3D) | 
-| 初代応氏杯30周年特別対局 | Cho Hunhyun | Nie Weiping | W+13 | 2019-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xMh2XQUH%2B9Sx3cVAcgvpDA%3D%3D) | 
-| 2019年K바둑旧正月特集シニアvs女流第1局  | Nakamura Sumire | Cho Hunhyun | W+R | 2019-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fxx0dj06tgRHaLxS13cYmg%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Seo Nungwuk | Cho Hunhyun | W+12.5 | 2016-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wWJzLP2HIbkc8Yr9etNrqQ%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Cho Hunhyun | Ko Jaehee | B+R | 2016-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o%2B2GjozvwGxXW4oJnXsqJg%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Seo Bongsoo | Cho Hunhyun | B+R | 2016-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R%2F1GN9Zd6ziTFQvPbdt4nw%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Kim Ilhwan | Cho Hunhyun | W+7.5 | 2016-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rGUMyqemFYjPOYH1Nj7Qdg%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | missing | Cho Hunhyun | W+R | 2016-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QvF%2BvZ%2BAHZxioMY1U4tg1A%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Seo Nungwuk | Cho Hunhyun | W+11.5 | 2016-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nn%2Fhlonc6d8P01iU4BV6OA%3D%3D) | 
-| 第1回韓国シニア囲碁リーグ | Choi Kyubyeong | Cho Hunhyun | W+R | 2016-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yw3ubbgTkaEnCb7JYN7kZw%3D%3D) | 
-| 第17回マキシムコーヒー杯入神最強戦2回戦 | Cho Hunhyun | Park Yeonghun | W+R | 2016-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1OGYOzaBxM1bBEXlGfZjiA%3D%3D) | 
-| 第17回マキシムコーヒー杯入神最強戦1回戦 | Park Shiun | Cho Hunhyun | W+5.5 | 2016-01-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eoz9DipuU7M1%2BwISTq%2FE3w%3D%3D) | 
-| 第9回GGオークション杯女流対シニア連勝対抗戦第15戦 | Oh Yujin | Cho Hunhyun | B+4.5 | 2015-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xrBieroRiWSOBVnydup7dg%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック国棋戦決勝 | Cho Hunhyun | Seo Bongsoo | B+R | 2015-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UaLW%2BQeLDngtRWCRd2wdqg%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック国棋戦準決勝 | Kim Ilhwan | Cho Hunhyun | W+R | 2015-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HuW23G4rwAMUtlZ58UeQQg%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック国棋戦準々決勝 | Cho Hunhyun | Chang Suyeong | B+R | 2015-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aG8LJTAjbcaDNNHKodeF6Q%3D%3D) | 
-| 第16回マキシムコーヒー杯入神最強戦1回戦 | Yun Junsang | Cho Hunhyun | B+R | 2014-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u9xTmj2DdAYVmJVKUa%2Fv8g%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック棋王戦決勝 | Cho Hunhyun | Seo Bongsoo | B+2.5 | 2014-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9C7Rx78nqUBMEfp%2F3fEAjg%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック棋王戦準決勝 | Cho Hunhyun | Kim Ilhwan | B+14.5 | 2014-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Aa22zfGrk%2BF%2BpswpiMIm1Q%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック棋王戦準々決勝 | Cho Hunhyun | Oh Kyuchul | B+R | 2014-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dqizHooMUDSpzi%2FzBK9aCg%3D%3D) | 
-| 第19期バッカス杯天元戦1回戦 | Shin Minjun | Cho Hunhyun | B+R | 2014-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yredot4inSqs54pqp8rSgw%3D%3D) | 
-| 第8回GGオークション杯女流対シニア連勝対抗戦第16戦 | Cho Hunhyun | Oh Jeonga | W+0.5 | 2014-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WPlu953u7PLAXoqS2C74Qw%3D%3D) | 
-| 2014-2015年シニア囲碁クラシック国手戦準決勝 | Cho Hunhyun | Kim Ilhwan | W+2.5 | 2014-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zk8RWyC6Q6cyhqlAK6JBGg%3D%3D) | 
-| 第19期バッカス杯天元戦予選 | Cho Hunhyun | missing | B+R | 2014-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XM0McmctZ4aFzhCF8KCK3w%3D%3D) | 
-| 第15回マキシムコーヒー杯入神最強戦1回戦 | Park Cheongsang | Cho Hunhyun | B+R | 2014-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iQwCD2M2UEfmvMDNTfcTNg%3D%3D) | 
-| 第4回大舟杯プロシニア最強者戦決勝 | Choi Kyubyeong | Cho Hunhyun | W+R | 2013-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DqgSk%2Bish8ptPO74U7VWnw%3D%3D) | 
-| 第4回大舟杯プロシニア最強者戦準決勝 | Seo Nungwuk | Cho Hunhyun | W+0.5 | 2013-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4lxxQeZIStcDHCvGxmMgCg%3D%3D) | 
-| 第4回大舟杯プロシニア最強者戦2回戦 | Cho Hunhyun | Hyun Mijin | B+R | 2013-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TXGcGnnMhcAp9u7SJjFzSQ%3D%3D) | 
-| 第7回GGオークション杯女流対シニア連勝対抗戦第22戦 | Park Shiun | Cho Hunhyun | W+R | 2013-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ryWQEeJWpimx4qWw2xEf8Q%3D%3D) | 
-| 第7回GGオークション杯女流対シニア連勝対抗戦第21戦 | Cho Hunhyun | missing | B+20.5 | 2013-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uRLlh%2BW8LSzQuBQqDqS%2BVQ%3D%3D) | 
-| 第4期Olleh杯オープン選手権3回戦 | Cho Hunhyun | Kim Jiseok | W+7.5 | 2013-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iDsNm4UjjQdezXvdFcOcnA%3D%3D) | 
-| 第7回GGオークション杯女流対シニア連勝対抗戦第20戦 | Park Sohyun | Cho Hunhyun | W+R | 2013-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mpqaeBIESsztUWwJs8nO5A%3D%3D) | 
-| 第7回GGオークション杯女流対シニア連勝対抗戦第19戦 | missing | Cho Hunhyun | W+R | 2013-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AQDbfeFrQk4ETpDllKz2Og%3D%3D) | 
-| 第7回GGオークション杯女流対シニア連勝対抗戦第18戦 | Kim Soojin | Cho Hunhyun | W+R | 2013-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Uf9SkBCt1coa1lPg2uGULA%3D%3D) | 
-| 第7回GGオークション杯女流対シニア連勝対抗戦第17戦 | Cho Hunhyun | Choi Jeong | B+0.5 | 2013-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0pNWWN5OM1HYo60qtOrjFw%3D%3D) | 
-| 第4期Olleh杯オープン選手権2回戦 | Cho Hunhyun | Kim Sonjin | B+6.5 | 2013-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TJk5IruNFtRJxyNc5fqR4A%3D%3D) | 
-| 第4期Olleh杯オープン選手権1回戦 | missing | Cho Hunhyun | W+8.5 | 2013-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FlhdeZFo9gXLmys%2FXI5HZQ%3D%3D) | 
-| 第32回KBS杯囲碁王戦本戦1回戦 | Shin Yoonho | Cho Hunhyun | B+R | 2013-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fgzbSJ6Ygz425a9%2BY2OZYg%3D%3D) | 
-| 第14回マキシムコーヒー杯入神最強戦2回戦 | Cho Hunhyun | Choi Cheolhan | W+0.5 | 2012-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=soOaksag1gp4sORk%2Bpc2Kw%3D%3D) | 
-| 第3回大舟杯プロシニア最強者戦2回戦 | Cho Hunhyun | An Kwanwuk | W+0.5 | 2012-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YBiZ6OORuJsbYQwbyXEC8Q%3D%3D) | 
-| 第14回マキシムコーヒー杯入神最強戦1回戦 | Cho Hunhyun | Kim Ilhwan | B+R | 2012-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MJ3JPDiT6nE9%2FlwEHqiMRw%3D%3D) | 
-| 第6回GGオークション杯女流対シニア連勝対抗戦第22戦 | Cho Hunhyun | Choi Jeong | W+R | 2012-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xEFGBrW3xO3Vw3Z%2BriySdQ%3D%3D) | 
-| 第6回GGオークション杯女流対シニア連勝対抗戦第21戦 | Cho Hyeyeon | Cho Hunhyun | W+6.5 | 2012-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r4t0fnoxRkJQMZ91nssrAg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Cho Hunhyun | missing | B+R | 2012-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YYPecKkmHDBTOUZAnPtkLA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Weon Seongjin | Cho Hunhyun | B+R | 2012-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1S13sj%2BFWLewAMAJo7ddig%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Minkyu | Cho Hunhyun | B+6.5 | 2012-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g1k83OmpcvlzjqK1QBtXMw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Cho Hunhyun | missing | W+R | 2012-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HurEhBHaRUvQSE%2BDmRgeeQ%3D%3D) | 
-| 第31回KBS杯囲碁王戦本戦1回戦 | Cho Hunhyun | Mok Jinseok | W+R | 2012-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=80nF4yK8QHLcs1%2FrPimUig%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Wondo | Cho Hunhyun | W+R | 2012-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OrAHD4DLU%2B%2F4XrafbeNB2Q%3D%3D) | 
-| 第17回LG杯予選 | Cho Hunhyun | Hu Yaoyu | W+R | 2012-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C7BSA9QZKkD4txlJrh2WfA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Jinsol | Cho Hunhyun | B+R | 2012-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=93Zlc%2FLdEkH0Kac8sCzd4g%3D%3D) | 
-| 第2回大舟杯プロシニア最強者戦決勝 | Seo Nungwuk | Cho Hunhyun | B+R | 2011-12-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tAU60AVOw9fotGyW275kfQ%3D%3D) | 
-| 第2回大舟杯プロシニア最強者戦準決勝 | Park Yeongchan | Cho Hunhyun | W+18.5 | 2011-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pbi3tW4PNxx0OQzYB%2FuV1Q%3D%3D) | 
-| 第30回KBS杯囲碁王戦敗者復活戦2回戦 | Cho Hunhyun | Kim Kiyoung | W+9.5 | 2011-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VRfOUUCjhSbuFbR08%2F7sXQ%3D%3D) | 
-| 第2回大舟杯プロシニア最強者戦2回戦 | Kim Kihun | Cho Hunhyun | W+10.5 | 2011-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3lUbcc2IdsIeYjwipGTxPA%3D%3D) | 
-| 第13回マキシムコーヒー杯入神最強戦2回戦 | Cho Hunhyun | missing | W+2.5 | 2011-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1ObSLEsR9hjhvcBAaIYEYQ%3D%3D) | 
-| 第13回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Cho Hunhyun | W+4.5 | 2011-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oIPwxckq%2FsklJ6tFHBlnJw%3D%3D) | 
-| 第30回KBS杯囲碁王戦敗者復活戦1回戦 | Park Yeonghun | Cho Hunhyun | W+R | 2011-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8O8epq10xQD4JLvKqFSRYQ%3D%3D) | 
-| 第5回GGオークション杯女流対シニア連勝対抗戦第20戦 | missing | Cho Hunhyun | B+R | 2011-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D5Y3lMmaaZgZEhlZN2eXjw%3D%3D) | 
-| 第5回GGオークション杯女流対シニア連勝対抗戦第19戦 | Cho Hunhyun | Cho Hyeyeon | B+R | 2011-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b1y6WwXZuj6R3omVze3q0A%3D%3D) | 
-| 第5回GGオークション杯女流対シニア連勝対抗戦第18戦 | Lee Sula | Cho Hunhyun | W+R | 2011-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jTdMjDvXppgg84FIYDXzWg%3D%3D) | 
-| 第5回GGオークション杯女流対シニア連勝対抗戦第17戦 | Kim Miri | Cho Hunhyun | W+R | 2011-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v718fbcZ8rny3agGy7Psjg%3D%3D) | 
-| 第5回GGオークション杯女流対シニア連勝対抗戦第16戦 | Moon Dowon | Cho Hunhyun | W+R | 2011-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6FNTFclg1GXx8OFtM%2Ba0Uw%3D%3D) | 
-| 第5回GGオークション杯女流対シニア連勝対抗戦第15戦 | Cho Hunhyun | Park Jiyeon | B+1.5 | 2011-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PpdCJLg6cRc4XMyvw0Wh2g%3D%3D) | 
-| 第30回KBS杯囲碁王戦本戦2回戦 | Mok Jinseok | Cho Hunhyun | B+R | 2011-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c0AcDa4gSGVBSln9lOPIIw%3D%3D) | 
-| 第5回GGオークション杯女流対シニア連勝対抗戦第14戦 | Cho Hunhyun | Oh Jeonga | B+3.5 | 2011-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GjAnVhdfA2L%2FQXq0hb3y0Q%3D%3D) | 
-| 第5回GGオークション杯女流対シニア連勝対抗戦第13戦 | Cho Hunhyun | Lee Tahye | B+3.5 | 2011-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FZIxKR3cfqbd%2FuXV7j4ypw%3D%3D) | 
-| 第5回GGオークション杯女流対シニア連勝対抗戦第12戦 | Kim Nahyun | Cho Hunhyun | W+0.5 | 2011-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HNIB5xMDeUg%2BS%2F8hRQ%2BPmQ%3D%3D) | 
-| 第13回農心杯韓国選抜戦 | Kim Jiseok | Cho Hunhyun | B+R | 2011-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FzwsLFsmfYex4JjBzdLU3A%3D%3D) | 
-| 第13回農心杯韓国選抜戦 | Cho Hunhyun | Park Seunghwa | B+R | 2011-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0yUCIMK89cNWIPlbvnRyUA%3D%3D) | 
-| 第30回KBS杯囲碁王戦本戦1回戦 | Lee Sula | Cho Hunhyun | W+R | 2011-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kxa5TB2qUudd9kv3CYUSxA%3D%3D) | 
-| 第12回マキシムコーヒー杯入神最強戦3回戦 | Cho Hunhyun | Lee Changho | W+R | 2011-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IEXSHB5A3NcVA1GEULIcLA%3D%3D) | 
-| 第12回マキシムコーヒー杯入神最強戦2回戦 | Chang Suyeong | Cho Hunhyun | W+R | 2011-01-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dG6iX%2B5PBl57Cm357sDPaA%3D%3D) | 
-| 第1回大舟杯プロシニア最強者戦決勝三番勝負第2局 | Cho Hunhyun | Seo Bongsoo | B+2.5 | 2010-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i1s5UoAjqSVrJTq4PvD20A%3D%3D) | 
-| 第1回大舟杯プロシニア最強者戦決勝三番勝負第1局 | Seo Bongsoo | Cho Hunhyun | W+14.5 | 2010-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uWByd0WzHGMke1hGezEseQ%3D%3D) | 
-| 第6期圓益杯十段戦2回戦 | Kim Jiseok | Cho Hunhyun | B+R | 2010-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yLPcAVPsEWCLma8NaasnLw%3D%3D) | 
-| 第1回大舟杯プロシニア最強者戦準決勝 | Cho Hunhyun | Kwon Kapyong | B+11.5 | 2010-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UNaCpB8HhQ8T58%2Bst8iKBQ%3D%3D) | 
-| 第1回大舟杯プロシニア最強者戦2回戦 | Ko Jaehee | Cho Hunhyun | W+19.5 | 2010-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W7W2fWO7XZWqDmwWo6fjQA%3D%3D) | 
-| 第1回大舟杯プロシニア最強者戦1回戦 | Kim Kihun | Cho Hunhyun | W+R | 2010-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V0SlvsFZDIBADYIFBTaJXw%3D%3D) | 
-| 第4回GGオークション杯女流対シニア連勝対抗戦第23戦 | Cho Hunhyun | Park Shiun | W+4.5 | 2010-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aJGjIXlP95wgbHlLQ7f4%2FQ%3D%3D) | 
-| 第4回GGオークション杯女流対シニア連勝対抗戦第22戦 | Cho Hunhyun | Cho Hyeyeon | B+R | 2010-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ITgs1YxtyuQr0uEHfQGyqg%3D%3D) | 
-| 第4回GGオークション杯女流対シニア連勝対抗戦第21戦 | Rui Naiwei | Cho Hunhyun | W+R | 2010-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kKviulrzYc%2FgTAp%2F4kiY4w%3D%3D) | 
-| 2010年韓国囲碁リーグ | Lee Taehyun | Cho Hunhyun | W+R | 2010-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=txergnqvjOKpG5LkNhttXA%3D%3D) | 
-| 第6期圓益杯十段戦1回戦 | Cho Hunhyun | Ju Hyeongwuk | B+R | 2010-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5j0vJQpFjGKbvbNCvHqBDw%3D%3D) | 
-| 2010年韓国囲碁リーグ | Cho Hunhyun | Park Siyeol | B+R | 2010-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DRUya%2BmzADZOxhnMLAdJhQ%3D%3D) | 
-| 2010年韓国囲碁リーグ | Cho Hunhyun | Paek Hongseok | B+2.5 | 2010-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IpWBM7ZDIlg0dwpbeWosPg%3D%3D) | 
-| 第15回LG杯予選 | Wang Yao | Cho Hunhyun | B+0.5 | 2010-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=thWsdSf2YfP9WxHqQwWkKQ%3D%3D) | 
-| 第29回KBS杯囲碁王戦本戦1回戦 | Kim Junghyun | Cho Hunhyun | B+R | 2010-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qlOO71q4ZsN%2Fb7JFnktB6Q%3D%3D) | 
-| 第11回マキシムコーヒー杯入神最強戦準決勝 | Cho Hunhyun | Kang Dongyun | W+0.5 | 2010-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u4PYS8PYVj4qUvS987TT5A%3D%3D) | 
-| 第11回マキシムコーヒー杯入神最強戦3回戦 | Seo Bongsoo | Cho Hunhyun | W+0.5 | 2010-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HDWyaW%2FnHGNaTcTfk4XE9g%3D%3D) | 
-| 第2回BCカード杯世界選手権2回戦 | Ding Wei | Cho Hunhyun | B+R | 2010-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0n0BY5PP2tdhLzZQ7C97lA%3D%3D) | 
-| 第2回BCカード杯世界選手権1回戦 | Cho Hunhyun | On Sojin | B+R | 2010-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T1ozRubAVjFk7wbvXlJRTw%3D%3D) | 
-| 第5期圓益杯十段戦4回戦 | Lee Changho | Cho Hunhyun | B+R | 2009-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8nmCiGo8aqbfE0of5HZL7Q%3D%3D) | 
-| 第28回KBS杯囲碁王戦敗者復活戦2回戦 | Lee Changho | Cho Hunhyun | B+R | 2009-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1zavlgWbIuTbxBMWopqUFg%3D%3D) | 
-| 第5期圓益杯十段戦3回戦 | Cho Hunhyun | Lee Taehyun | B+R | 2009-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jqqlI4yhHbtLjhCi66Yw8Q%3D%3D) | 
-| 第5期圓益杯十段戦2回戦 | Cho Hunhyun | missing | B+R | 2009-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OmgkQwMkEuLdMtEK33vqYw%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Yeongkyu | Cho Hunhyun | B+R | 2009-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z39dZdraH73tzoSAFLSsrw%3D%3D) | 
-| 2009年韓国囲碁リーグ | Ko Keuntae | Cho Hunhyun | B+R | 2009-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X%2BeY6Sm8JLkMfCcK7x4ZRA%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ1回戦B3 | Park Yeonghun | Cho Hunhyun | B+T | 2009-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GTVy8VtCHV1VdXXgcmcttw%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ1回戦B2 | Cho Hunhyun | Lu Jia | B+R | 2009-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6JnFL%2BAwOMfpvhRuy2Oqrg%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ1回戦B1 | Chang Hao | Cho Hunhyun | B+11.5 | 2009-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6bMF4uhKLrAsT42v9COnJA%3D%3D) | 
-| 第5期圓益杯十段戦1回戦 | Cho Hunhyun | Kim Hyokon | B+R | 2009-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BUpgTTAiZDo9yFQ6QUePpQ%3D%3D) | 
-| 第1回SKY囲碁杯第15戦 | Seo Bongsoo | Cho Hunhyun | B+R | 2009-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gA9NXVQ%2F6QZDwiV%2BZlxnsQ%3D%3D) | 
-| 第11回農心杯韓国選抜戦 | Kim Seongjae | Cho Hunhyun | B+R | 2009-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n6ghcf2XrySqaBoZjOml1A%3D%3D) | 
-| 第11回農心杯韓国選抜戦 | Cho Hunhyun | Kim Donghee | B+R | 2009-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zg%2FTIyvnHHKERimQX0PS7w%3D%3D) | 
-| 第28回KBS杯囲碁王戦敗者復活戦1回戦 | Cho Hunhyun | Park Yeonghun | B+R | 2009-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cVLDrc0UZf0jriFIlPe6mw%3D%3D) | 
-| 第1回SKY囲碁杯第14戦 | Yang Jaeho | Cho Hunhyun | W+11.5 | 2009-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1eDXuLHf4bBFRnOYcOHNGA%3D%3D) | 
-| 第11回農心杯韓国選抜戦 | Park Cheongsang | Cho Hunhyun | W+4.5 | 2009-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p9G72DcO8nz7HxrAD1jvOA%3D%3D) | 
-| 2009年韓国囲碁リーグ | Mok Jinseok | Cho Hunhyun | B+R | 2009-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XgJzy5VDPTBTm1iDSX9xlA%3D%3D) | 
-| 第1回SKY囲碁杯第12戦 | Cho Hunhyun | An Kwanwuk | B+3.5 | 2009-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TiwwBZftZ6e1hPVSH9%2BcaA%3D%3D) | 
-| 第28回KBS杯囲碁王戦本戦2回戦 | Cho Hunhyun | Lee Jungwoo | W+R | 2009-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fUB4XNIK0beZooJ1jg58fg%3D%3D) | 
-| 第1回SKY囲碁杯第11戦 | Cho Hunhyun | missing | B+R | 2009-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5S7RY2oWPPI%2BeYiyvl9g%2FQ%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Yeongkyu | Cho Hunhyun | B+4.5 | 2009-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l7VEQqpMSpFV3Pstw64U0A%3D%3D) | 
-| 第1回SKY囲碁杯第10戦 | Cho Hunhyun | Seo Nungwuk | B+4.5 | 2009-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1vGEAaQ%2BCQpcrNDFumJfww%3D%3D) | 
-| 2009年韓国囲碁リーグ | Cho Hunhyun | Park Junghwan | W+6.5 | 2009-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vtbls85tznlLCjgbjQMbNw%3D%3D) | 
-| 2009年韓国囲碁リーグ | Kang Yootaek | Cho Hunhyun | B+R | 2009-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BSgqHCmg1YUjUBM23syJQw%3D%3D) | 
-| 第28回KBS杯囲碁王戦本戦1回戦 | An Sungjoon | Cho Hunhyun | W+R | 2009-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nESVD351p11RAG%2B%2F0gIZnQ%3D%3D) | 
-| 第1回BCカード杯世界選手権準決勝 | Cho Hunhyun | Gu Li | W+0.5 | 2009-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wOmKxC6lHS2uLdGNcxMNqw%3D%3D) | 
-| 第1回BCカード杯世界選手権4回戦 | Han Wonggyu | Cho Hunhyun | W+0.5 | 2009-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NdHLhYGzccG6xkZsKvXzPg%3D%3D) | 
-| 第1回BCカード杯世界選手権3回戦 | Cho Hunhyun | Yun Junsang | B+R | 2009-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ji4A8dHv%2Fo2OhYKEu8WMlA%3D%3D) | 
-| 第1回BCカード杯世界選手権2回戦 | Zhou Junxun | Cho Hunhyun | W+0.5 | 2009-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KRBwBoHO%2FNrYEhyljGpfXQ%3D%3D) | 
-| 2008年韓国囲碁リーグ | Kang Yootaek | Cho Hunhyun | W+3.5 | 2008-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QEfjDTzyRYI9nd2Tr%2B27bw%3D%3D) | 
-| 第10回マキシムコーヒー杯入神最強戦2回戦 | Cho Hunhyun | Kim Seungjun | B+R | 2008-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X%2F1oCN%2BYTOqbG%2FJVd7%2BYNw%3D%3D) | 
-| 第27回KBS杯囲碁王戦敗者復活戦2回戦 | Cho Hunhyun | Paek Hongseok | W+R | 2008-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ignES7OdquD4hCtGnA3R7g%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Lee Sedol | Cho Hunhyun | B+R | 2008-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4ngwFAW57cbgoCfemAm%2Btg%3D%3D) | 
-| 2008年韓国囲碁リーグ | Cho Hunhyun | Lee Chungyu | W+3.5 | 2008-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jt3vmCnAzEIx3NPJio7Sag%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Choi Myeonghun | Cho Hunhyun | W+R | 2008-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7LzqtOss6JXuVQd6u2t%2BDQ%3D%3D) | 
-| 2008年韓国囲碁リーグ | Cho Hunhyun | Han Sanghoon | B+R | 2008-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OdhS346Y19%2BqACNPmN8s%2Bg%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Cho Hanseung | Cho Hunhyun | B+0.5 | 2008-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P50DxsRs3QiAPY2AlrRrCw%3D%3D) | 
-| 2008年韓国囲碁リーグ | Yun Chanhee | Cho Hunhyun | W+R | 2008-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OAsJGDfbQ1jCXzTiY%2B0LVw%3D%3D) | 
-| 2008年韓国囲碁リーグ | Hong Minpyo | Cho Hunhyun | B+R | 2008-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kHSnUe1Qmzmh4XKuQe1Mlg%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Lee Changho | Cho Hunhyun | B+4.5 | 2008-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tthEeCdZerA1ybpwMWLGHA%3D%3D) | 
-| 第13回三星火災杯世界オープン囲碁選手権1回戦 | Chen Yaoye | Cho Hunhyun | B+1.5 | 2008-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CzXf8GBGauB%2Fh6dAEfCXFA%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Cho Hunhyun | Kang Dongyun | B+R | 2008-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i8mtBK3S4kd%2F3315wLKYbA%3D%3D) | 
-| 2008年韓国囲碁リーグ | Lee Yeongkyu | Cho Hunhyun | B+R | 2008-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0p9aru1RP7Bv%2FcxM4YGclQ%3D%3D) | 
-| 2008年韓国囲碁リーグ | Cho Hunhyun | Paek Hongseok | W+R | 2008-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DrzpYWJIhTuY8KglJLz2gA%3D%3D) | 
-| 第2回GGオークション杯特別対局 | Cho Hunhyun | Cho Hyeyeon | B+R | 2008-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FB69%2BAz1tb%2FmepbdIi6nlQ%3D%3D) | 
-| 第10回農心杯韓国選抜戦 | Cho Hunhyun | Yun Junsang | W+R | 2008-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fh1qomyA1BcOjd3Mbj4BkA%3D%3D) | 
-| 2008年韓国囲碁リーグ | Cho Hunhyun | Kang Yootaek | W+3.5 | 2008-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fnclfx4vx4HWKFM9gioDJA%3D%3D) | 
-| 第27回KBS杯囲碁王戦敗者復活戦1回戦 | missing | Cho Hunhyun | W+13.5 | 2008-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1OVPDMl7YxF8%2FlbHWDXYzw%3D%3D) | 
-| 第4期物価情報杯プロ棋戦リーグA | Hong Seongji | Cho Hunhyun | W+4.5 | 2008-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A8qhzV0rICUqCXqQFVDiQg%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Cho Hunhyun | Mok Jinseok | W+R | 2008-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SOAexaBTX2WlJZACw4nL2g%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Cho Hunhyun | Choi Wongyong | B+R | 2008-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nfj3y5CjC5kJnOLmbPjI%2FQ%3D%3D) | 
-| 2008年韓国囲碁リーグ | Cho Hunhyun | Lee Jungwoo | B+R | 2008-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pI6iN4UumEOZ9fEk%2F5ECDw%3D%3D) | 
-| 第27回KBS杯囲碁王戦本戦2回戦 | Park Junghwan | Cho Hunhyun | B+R | 2008-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zrX6gkjYBvoJ1xPjjaORoA%3D%3D) | 
-| 2008年韓国囲碁リーグ | Cho Hunhyun | Lee Sedol | W+R | 2008-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y1xBtHkl7dsoyWVuuOEvzA%3D%3D) | 
-| 第4期物価情報杯プロ棋戦リーグA | Cho Hunhyun | Kang Jiseong | W+8.5 | 2008-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=naicXGHj%2BmYOSKKdXWTbxA%3D%3D) | 
-| 第5期電子ランド杯王中王戦1回戦 | Cho Hunhyun | Lee Changho | W+R | 2008-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2ByU9%2FI%2BXOtFTuafP1DKBkw%3D%3D) | 
-| 2008年韓国囲碁リーグ | Cho Hunhyun | Lee Yeongkyu | W+4.5 | 2008-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CL9x%2Fkpmq9XpQouxwO3hLA%3D%3D) | 
-| 第4期物価情報杯プロ棋戦リーグA | Cho Hunhyun | Lee Sedol | W+7.5 | 2008-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MusTt9s6JMVkDwH8Aadrjw%3D%3D) | 
-| 2008年韓国囲碁リーグ | Kim Kiyoung | Cho Hunhyun | W+R | 2008-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vyv0BSaaYUGRPv4yry9DhA%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Park Cheongsang | Cho Hunhyun | B+0.5 | 2008-03-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vvmkdSfo3sAjJEae4m33kQ%3D%3D) | 
-| 第5期電子ランド杯王中王戦予選 | Cho Hunhyun | Kim Soojang | B+R | 2008-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FPZcS9GHlehoCeCQpLLByw%3D%3D) | 
-| 第5期電子ランド杯王中王戦予選 | Cho Hunhyun | No Yeongha | B+R | 2008-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t90FxbCay82OYTIhGkAaHQ%3D%3D) | 
-| 第36期名人戦（韓国）リーグ | Cho Hunhyun | Weon Seongjin | W+R | 2008-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VoTRXi4gB9mRPJUxt%2BI2Zg%3D%3D) | 
-| 第36期名人戦（韓国）予選 | Cho Hunhyun | Kim Juho | B+R | 2008-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a%2BVJZ1rsr2d%2FgGFAEGHEYA%3D%3D) | 
-| 2007年韓国囲碁リーグ | Cho Hanseung | Cho Hunhyun | B+2.5 | 2007-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ebvg6eGpnrUO%2BpFsLg2OAw%3D%3D) | 
-| 2007年韓国囲碁リーグ | Cho Hunhyun | Paek Hongseok | B+R | 2007-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KkNjHQHRE7%2FqbUjXtFL%2BUA%3D%3D) | 
-| 2007年韓国囲碁リーグ | Cho Hunhyun | Kim Soojang | B+R | 2007-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rkAtQgiVQuw3v%2FJ19J9W6Q%3D%3D) | 
-| 2007年韓国囲碁リーグ | Hong Minpyo | Cho Hunhyun | W+10.5 | 2007-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5fjvo47VbNQR6BTkV%2BPtfQ%3D%3D) | 
-| 2007年韓国囲碁リーグ | missing | Cho Hunhyun | W+8.5 | 2007-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q06qaDfOJVap0Iwrt2c2eQ%3D%3D) | 
-| 2007年韓国囲碁リーグ | Kang Dongyun | Cho Hunhyun | B+0.5 | 2007-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qk26so3ztS8GrUFFPQWRlw%3D%3D) | 
-| 2007年韓国囲碁リーグ | Cho Hunhyun | Weon Seongjin | W+R | 2007-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0FxWAYDuJFQ36ow647pRNw%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権2回戦 | Huang Yizhong | Cho Hunhyun | B+7.5 | 2007-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k7hqGp5H1YB9OxN9C2kN7A%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権1回戦 | Cho Hunhyun | Song Taekon | B+R | 2007-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D9ios2cGHjzN7Zs2YSSy1Q%3D%3D) | 
-| 2007年韓国囲碁リーグ | Cho Hunhyun | Yoo Changhyuk | W+3.5 | 2007-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6NaSQeecMPThwnwhqBztlQ%3D%3D) | 
-| 2007年韓国囲碁リーグ | Cho Hunhyun | Lee Huiseong | B+R | 2007-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SrqvfRqku2pfvlKcIj8Ahg%3D%3D) | 
-| 2007年韓国囲碁リーグ | Cho Hunhyun | Kang Dongyun | W+R | 2007-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n%2Fd1NbyGp2UqVdpFBPz%2BZw%3D%3D) | 
-| 第3期物価情報杯プロ棋戦決勝トーナメント準決勝 | Lee Sedol | Cho Hunhyun | B+R | 2007-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=POi5tLGDji8HGvrtQ7zcCw%3D%3D) | 
-| 第51期国手戦（韓国）1回戦 | missing | Cho Hunhyun | B+4.5 | 2007-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f9qXqX0agBPzuZekof9eaA%3D%3D) | 
-| 2007年韓国囲碁リーグ | Cho Hunhyun | Lee Jaeung | B+R | 2007-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qftUx8zPA3ECykVLRRVP5g%3D%3D) | 
-| 第3期物価情報杯プロ棋戦決勝トーナメント1回戦 | Weon Seongjin | Cho Hunhyun | W+R | 2007-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2059uV2qh3ZACaNNMb2q3w%3D%3D) | 
-| 第3期物価情報杯プロ棋戦リーグB | Lee Changho | Cho Hunhyun | W+R | 2007-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Je7NA93LbbLzlMBf3%2FqRIA%3D%3D) | 
-| 第1回GGオークション杯女流対シニア連勝対抗戦第22戦 | Park Shiun | Cho Hunhyun | B+0.5 | 2007-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1%2BpRnI64UZjxSK%2FnP6zY8w%3D%3D) | 
-| 第1回GGオークション杯女流対シニア連勝対抗戦第21戦 | Kim Hyeoimin | Cho Hunhyun | W+R | 2007-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MgO%2FwO8ZeVuXMaF1dsoOdA%3D%3D) | 
-| 2007年韓国囲碁リーグ | Han Sanghoon | Cho Hunhyun | B+R | 2007-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0DLxOFYp51KFLXkvM8xJHw%3D%3D) | 
-| 第1回GGオークション杯女流対シニア連勝対抗戦第20戦 | Cho Hunhyun | Lee Yongshin | B+R | 2007-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k%2FQiGUZHTrqJfOOESPLDTA%3D%3D) | 
-| 第1回GGオークション杯女流対シニア連勝対抗戦第19戦 | Cho Hunhyun | Cho Hyeyeon | B+5.5 | 2007-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LR8LAgWxVsSdYKo11s014g%3D%3D) | 
-| 第1回GGオークション杯女流対シニア連勝対抗戦第18戦 | Cho Hunhyun | Yun Youngmin | B+R | 2007-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vFSvVt83HNqieio0WlW6Fg%3D%3D) | 
-| 第1回GGオークション杯女流対シニア連勝対抗戦第17戦 | Cho Hunhyun | Lee Minjin | B+R | 2007-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kYqXz04N5jh7u7Hw17EeaQ%3D%3D) | 
-| 第12回LG杯世界棋王戦2回戦 | Cho Hunhyun | Hu Yaoyu | W+2.5 | 2007-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SAdWT%2BWOKYJU3xWqH%2FIaZQ%3D%3D) | 
-| 第12回LG杯世界棋王戦1回戦 | Cho Hunhyun | Zhou Junxun | B+2.5 | 2007-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P3ZXjUVlyzqRYWtKlm0PVQ%3D%3D) | 
-| 2007年韓国囲碁リーグ | Song Taekon | Cho Hunhyun | B+1.5 | 2007-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FFfbrig3eB5xVgjcD3UTBA%3D%3D) | 
-| 第1回GGオークション杯女流対シニア連勝対抗戦第16戦 | Cho Hunhyun | Kim Eunseon | B+R | 2007-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nglyl84PoreUFdYo5Fq85Q%3D%3D) | 
-| 2007年韓国囲碁リーグ | Yun Chanhee | Cho Hunhyun | B+2.5 | 2007-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9oap1%2BahMbt4UyS5NbkmKw%3D%3D) | 
-| 第3期物価情報杯プロ棋戦リーグB | Jin Donggyu | Cho Hunhyun | W+R | 2007-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=adSJzdHZ46iEA5fEboRXAA%3D%3D) | 
-| 2007年韓国囲碁リーグ | missing | Cho Hunhyun | W+3.5 | 2007-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DZxcndpmrvgRQVFCdk34Rg%3D%3D) | 
-| 第3期物価情報杯プロ棋戦リーグD | Hong Seongji | Cho Hunhyun | B+6.5 | 2007-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n6NEY9JlfJ3NZqKpGmynWA%3D%3D) | 
-| 第12期バッカス杯天元戦1回戦 | Cho Hunhyun | An Joyeong | W+6.5 | 2007-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fddduHCDHLRb3%2FY5Q1%2Be8Q%3D%3D) | 
-| 2006年韓国囲碁リーグ | Cho Hunhyun | Park Yeonghun | B+R | 2006-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3uweVbfasm%2FVrX98xaObKQ%3D%3D) | 
-| 2006年韓国囲碁リーグ | Cho Hunhyun | Choi Cheolhan | W+3.5 | 2006-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K%2Fcm7ANsg9VeL%2BoW%2FMSRYw%3D%3D) | 
-| 2006年韓国囲碁リーグ | Cho Hunhyun | Mok Jinseok | B+0.5 | 2006-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2XaO8xngsmJKSUsLzkOB2g%3D%3D) | 
-| 2006年韓国囲碁リーグ | Cho Hunhyun | On Sojin | W+1.5 | 2006-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z8e9U8M5xcpdEYzIq7DJnA%3D%3D) | 
-| 第18期棋聖戦（韓国）1回戦 | Cho Hunhyun | Song Taekon | W+R | 2006-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sR%2F9gL8gucAlD8A3lrxxeA%3D%3D) | 
-| 2006年韓国囲碁リーグ | Cho Hunhyun | Lee Changho | W+R | 2006-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tvVr%2BO2zRLa2vVDbzcYTQw%3D%3D) | 
-| 第8回農心辛ラーメン杯世界囲碁最強戦第2戦 | Cho Hunhyun | Hane Naoki | W+0.5 | 2006-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=75cbyVdbOqoiBUUia1xLsQ%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権1回戦 | Wang Yao | Cho Hunhyun | B+R | 2006-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y8WTOVKW1mklSISET2OSTg%3D%3D) | 
-| 2006年韓国囲碁リーグ | missing | Cho Hunhyun | W+R | 2006-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LEn0oBQTWNi8mL3ySa6YeQ%3D%3D) | 
-| 2006年韓国囲碁リーグ | missing | Cho Hunhyun | W+R | 2006-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H1RHNXkit1NA4InAaZeOlQ%3D%3D) | 
-| 2006年韓国囲碁リーグ | Cho Hunhyun | Heo Yongho | W+R | 2006-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UPNCNGh%2FKrrlCx5d7Xfe%2FQ%3D%3D) | 
-| 2006年韓国囲碁リーグ | Lee Changho | Cho Hunhyun | B+1.5 | 2006-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DVZ6ToI3gqj%2FAym92j7YvQ%3D%3D) | 
-| 2006年韓国囲碁リーグ | Lee Sedol | Cho Hunhyun | B+R | 2006-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9CA3%2FXFjWhAVtrTzkjD6Lg%3D%3D) | 
-| 第3期電子ランド杯王中王戦準決勝 | Cho Hunhyun | Lee Changho | W+9.5 | 2006-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XEPOO4M5Aiyg%2BJ1tzFO6oQ%3D%3D) | 
-| 第3期電子ランド杯王中王戦3回戦 | Cho Hunhyun | Hong Seongji | B+R | 2006-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BsYCpW1KRvzsTxdc3yyNlA%3D%3D) | 
-| 2006年韓国囲碁リーグ | Cho Hunhyun | Mok Jinseok | B+R | 2006-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jil0Yx01TJsGczOFjd5GvA%3D%3D) | 
-| 2006年韓国囲碁リーグ | Yun Junsang | Cho Hunhyun | W+4.5 | 2006-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HFCjHKIE9E3kv1wkfazxCQ%3D%3D) | 
-| 第2期物価情報杯プロ棋戦リーグD | Lee Sedol | Cho Hunhyun | B+R | 2006-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KT5r%2Fp8gS0eBwafXRiMiMg%3D%3D) | 
-| 第11回LG杯世界棋王戦1回戦 | Cho Hunhyun | Hu Yaoyu | W+5.5 | 2006-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GotsqNzCBqHjgpAplqoEDQ%3D%3D) | 
-| 2006年韓国囲碁リーグ | Cho Hunhyun | On Sojin | W+R | 2006-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wK%2Bw4bFA5l1e8vhBFstZLQ%3D%3D) | 
-| 第2期物価情報杯プロ棋戦リーグD | Park Cheongsang | Cho Hunhyun | W+1.5 | 2006-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nG3%2Buys066o5pxoIG7nayw%3D%3D) | 
-| 第3期電子ランド杯王中王戦2回戦 | Cho Hunhyun | Yang Keon | B+1.5 | 2006-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MuvCla%2BnnrJIkjjvjDCjjw%3D%3D) | 
-| 第11回LG杯予選 | missing | Cho Hunhyun | W+R | 2006-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5IqgiVds8rNgSoCScAqQTA%3D%3D) | 
-| 第11回LG杯予選 | Cho Hunhyun | Mizokami Tomochika | B+4.5 | 2006-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dupSjeQJX42Rb%2FGudzsLlg%3D%3D) | 
-| 2006年韓国囲碁リーグ | Park Cheongsang | Cho Hunhyun | B+R | 2006-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4jN6JU%2BAI82KWYmphqM9Kw%3D%3D) | 
-| 第11回LG杯予選 | Luo Xihe | Cho Hunhyun | W+R | 2006-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PUPNFIan6ls8CY9PEI9HyQ%3D%3D) | 
-| 第2期物価情報杯プロ棋戦リーグD | Choi Cheolhan | Cho Hunhyun | B+R | 2006-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wd%2B%2BIKjcR6xz%2FabDO8sqkg%3D%3D) | 
-| 第3期電子ランド杯王中王戦1回戦 | Cho Hunhyun | missing | B+R | 2006-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tsfmjQpDt5Mt8ALq1QtQCQ%3D%3D) | 
-| 第1回江原ランド杯韓中囲碁対抗戦第9戦 | Chang Hao | Cho Hunhyun | B+5.5 | 2006-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=28B8lwu9tWbo%2B%2FB88HD75Q%3D%3D) | 
-| 第3期電子ランド杯王中王戦予選 | Cho Hunhyun | Seo Bongsoo | W+1.5 | 2006-01-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B263qAQmuDYU11hJf63sZg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第22節 | Zhou Heyang | Cho Hunhyun | W+R | 2005-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B5lz6A%2FcnVxsSHwZJhmuoA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第20節 | Zhou Ruiyang | Cho Hunhyun | B+R | 2005-12-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VcWcyaqjh7ttwarMXwPZKw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第18節 | Luo Xihe | Cho Hunhyun | B+R | 2005-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jXfiQ42x04Y9sA5jRjBQIg%3D%3D) | 
-| 第49期国手戦（韓国）敗者復活戦3回戦 | Cho Hunhyun | Lee Sedol | W+R | 2005-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bxpSiAmnFykVxcdTRBgB3w%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権3回戦 | Cho Hunhyun | Choi Cheolhan | W+R | 2005-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C5D%2FKJ%2FWUhjyPNbyug5KvQ%3D%3D) | 
-| 2005年韓国囲碁リーグ | Choi Cheolhan | Cho Hunhyun | B+3.5 | 2005-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0fymZZfIBD4n4gXiU3XO1A%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第17節 | Cho Hunhyun | Dong Yan | W+R | 2005-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H%2Fk4BQ2biQTJF9iiDau2JA%3D%3D) | 
-| 第1回江原ランド杯韓中囲碁対抗戦韓国選抜戦 | Cho Hunhyun | Cho Hanseung | B+3.5 | 2005-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FNkVPEJdKndYXLnuHnwvLA%3D%3D) | 
-| 第17期棋聖戦（韓国）1回戦 | Cho Hunhyun | Paek Hongseok | W+R | 2005-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IPk8Vh7JCINgCgXCMv8ltg%3D%3D) | 
-| 2005年韓国囲碁リーグ | Cho Hunhyun | Song Taekon | B+R | 2005-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bjfZgsYlphG4xfjqifYMHg%3D%3D) | 
-| 第49期国手戦（韓国）敗者復活戦2回戦 | On Sojin | Cho Hunhyun | W+R | 2005-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=04fJB%2BsOlaxPi%2FZPL1GC2w%3D%3D) | 
-| 第1期圓益杯十段戦2回戦 | Cho Hunhyun | Hong Seongji | W+1.5 | 2005-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zh55uJOvk0Ah%2BRvIBfZ%2Bmw%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権2回戦 | Cho Hunhyun | Wang Xi | B+R | 2005-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dw7wtjDzVHTjKHjKVBH%2FRA%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権1回戦 | Mizokami Tomochika | Cho Hunhyun | W+R | 2005-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YiNgHZOLzxziugeHJQ94mA%3D%3D) | 
-| 第49期国手戦（韓国）本戦2回戦 | Cho Hunhyun | Lee Changho | W+R | 2005-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jl9b7GyZKQVKdmEThLVtOw%3D%3D) | 
-| 第1期圓益杯十段戦1回戦 | Lee Yeongkyu | Cho Hunhyun | W+0.5 | 2005-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F9mQR6OHy1KyO6MgbZ6U8A%3D%3D) | 
-| 2005年韓国囲碁リーグ | Cho Hunhyun | Lee Sedol | B+R | 2005-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rusl1v1oVyfvJ5thRS6uhg%3D%3D) | 
-| 第10期バッカス杯天元戦2回戦 | Cho Hunhyun | Ko Keuntae | W+R | 2005-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jmStGd%2Fu1HQr2SYXdYjxkw%3D%3D) | 
-| 2005年韓国囲碁リーグ | Yoo Changhyuk | Cho Hunhyun | W+3.5 | 2005-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JGfPPGHp0Ta6X7znq2zaiQ%3D%3D) | 
-| 第24回KBS杯囲碁王戦敗者復活戦3回戦 | Park Yeonghun | Cho Hunhyun | B+1.5 | 2005-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tzDNCQtUVis88Fq0v77J3Q%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第9節 | Zhou Ruiyang | Cho Hunhyun | W+R | 2005-08-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=noujKp42HZS8iS6HSryRXQ%3D%3D) | 
-| 第17期棋聖戦（韓国）予選 | Cho Hunhyun | Lee Huiseong | B+R | 2005-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RGwQHl6aCXx9VMtLRp9jzg%3D%3D) | 
-| 第1期物価情報杯プロ棋戦リーグD | Park Yeonghun | Cho Hunhyun | W+R | 2005-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2SWkMHSbVj0X304B7AiVmQ%3D%3D) | 
-| 第10期バッカス杯天元戦1回戦 | Cho Hunhyun | Weon Seongjin | B+R | 2005-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OzhbSM0BAnUhF1zvO4nmUg%3D%3D) | 
-| 第49期国手戦（韓国）本戦1回戦 | Yoo Changhyuk | Cho Hunhyun | W+0.5 | 2005-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FGjItusIgvX6j5iyyMZFFg%3D%3D) | 
-| 2005年韓国囲碁リーグ | Cho Hunhyun | Lee Changho | W+R | 2005-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oNkCQzT7Ai20O27cmocNvA%3D%3D) | 
-| 第10期GSカルテックス杯プロ棋戦1回戦 | Cho Hanseung | Cho Hunhyun | B+2.5 | 2005-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K4ALq1GWAaM0dz2ngJoT4A%3D%3D) | 
-| 2005年韓国囲碁リーグ | Cho Hunhyun | Mok Jinseok | W+R | 2005-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n%2Bz6sOOG4lKeCDxL9VtPIg%3D%3D) | 
-| 第7回農心杯韓国選抜戦 | Cho Hanseung | Cho Hunhyun | B+7.5 | 2005-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Fo16g%2BS2NGN9P4OLZajUg%3D%3D) | 
-| 第7回農心杯韓国選抜戦 | Cho Hunhyun | Seo Bongsoo | B+6.5 | 2005-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ogc9PSn4ulpgbfVbqeQGiQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第6節 | Dong Yan | Cho Hunhyun | W+R | 2005-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NjO5X9gUTsoVgjos9QYCFg%3D%3D) | 
-| 第1期物価情報杯プロ棋戦リーグD | Cho Hunhyun | Lee Huiseong | W+2.5 | 2005-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qTE6T8n1WJ2ITZVyEYIHQA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第5節 | Cho Hunhyun | Niu Yutian | B+R | 2005-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FSaeyxm4VQ4raWGwerXN7A%3D%3D) | 
-| 2005年韓国囲碁リーグ | Park Yeonghun | Cho Hunhyun | B+8.5 | 2005-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nTG06dqihAfZDnR2kgrS6A%3D%3D) | 
-| 第1期物価情報杯プロ棋戦リーグD | Yang Keon | Cho Hunhyun | B+R | 2005-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PBkTc4ratC8g4yU2LkiClQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第4節 | Qiu Jun | Cho Hunhyun | W+R | 2005-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4Wql7yhOsfpOVczw1j1GTw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第2節 | Li Zhe | Cho Hunhyun | B+R | 2005-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CVWvcsPje4O%2FszVN7JiCgA%3D%3D) | 
-| 第24回KBS杯囲碁王戦本戦2回戦 | Cho Hanseung | Cho Hunhyun | B+R | 2005-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g58y0DHyFSvDGU2v%2BD2Vxw%3D%3D) | 
-| 第39期王位戦1回戦 | Weon Seongjin | Cho Hunhyun | B+R | 2005-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lYDRYgRHoKaEYaoA%2FThcoQ%3D%3D) | 
-| 第2期電子ランド杯王中王戦1回戦 | Cho Hunhyun | missing | W+1.5 | 2005-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=royyMkDGzAVy%2FUwiGFVzRQ%3D%3D) | 
-| 第24回KBS杯囲碁王戦本戦2回戦 | Hong Minpyo | Cho Hunhyun | W+2.5 | 2005-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7KGb55k1Iqm6XS8W7yS5uQ%3D%3D) | 
-| 第2期電子ランド杯王中王戦予選 | Cho Hunhyun | Lee Sangchul | B+R | 2005-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r8J1pLkKMeWxsI7k5xoTLw%3D%3D) | 
-| 2004年韓国囲碁リーグ | Lee Changho | Cho Hunhyun | W+R | 2004-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pjupc%2BZmrok0yk5bLwcR2w%3D%3D) | 
-| 2004年韓国囲碁リーグ | Park Yeonghun | Cho Hunhyun | W+3.5 | 2004-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5iSIGIKL47I7KwgBZKoKXg%3D%3D) | 
-| 第48期国手戦（韓国）敗者復活戦2回戦 | Cho Hunhyun | Weon Seongjin | W+3.5 | 2004-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dk8JHbLle16pjTT1rJM3YQ%3D%3D) | 
-| 第9期バッカス杯天元戦準決勝 | Choi Cheolhan | Cho Hunhyun | B+4.5 | 2004-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xu8jpZ%2FEy6yYEGewR8t7nA%3D%3D) | 
-| 2004年韓国囲碁リーグ | Song Taekon | Cho Hunhyun | W+R | 2004-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=93dxsCPwXbiVxn4glNdQtg%3D%3D) | 
-| 第1期電子ランド杯王中王戦3回戦 | Cho Hunhyun | Choi Cheolhan | W+R | 2004-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KlN9PYqIEZ%2F6LqOGJ1cjyg%3D%3D) | 
-| 2004年韓国囲碁リーグ | Cho Hunhyun | Yoo Changhyuk | B+1.5 | 2004-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FfS6liIVLDVYesXi8eMKYg%3D%3D) | 
-| 第48期国手戦（韓国）敗者復活戦1回戦 | Cho Hunhyun | Yang Keon | B+R | 2004-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5lbBQaqYZtrXTU4IpyXLSQ%3D%3D) | 
-| 第9回三星火災杯世界オープン囲碁選手権2回戦 | Cho Hunhyun | Gu Li | W+R | 2004-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1DIfa00GW8KAhjFvPw9grw%3D%3D) | 
-| 第9回三星火災杯世界オープン囲碁選手権1回戦 | Cho Hunhyun | Wang Yuhui | B+2.5 | 2004-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l5tFqexlUThUcmqWpYKflQ%3D%3D) | 
-| 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Cho Hunhyun | Yuki Satoshi | W+R | 2004-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KNnUNEBPtvDNM3Y%2BJqtCkw%3D%3D) | 
-| 第9期バッカス杯天元戦2回戦 | Cho Hunhyun | Song Taekon | B+R | 2004-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yF%2BR4A3J6yoT3%2F8i2yR73w%3D%3D) | 
-| 第48期国手戦（韓国）本戦1回戦 | Cho Hunhyun | Yun Junsang | W+R | 2004-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DUa3tnN7p0CWdOFhGrggFg%3D%3D) | 
-| 2004年韓国囲碁リーグ | Cho Hunhyun | Choi Cheolhan | W+R | 2004-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zcYV1ffVD22fDXvPtzyJ%2BA%3D%3D) | 
-| 第38期王位戦リーグ | Cho Hunhyun | Lee Sedol | W+R | 2004-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=amXC9Z9SzsZcGA5xpMZ%2BRg%3D%3D) | 
-| 第23回KBS杯囲碁王戦敗者復活戦準決勝 | Cho Hunhyun | Lee Sedol | W+R | 2004-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zb8woZDYyAUiaxWcy3CHSg%3D%3D) | 
-| 2004年韓国囲碁リーグ | Cho Hunhyun | Mok Jinseok | W+R | 2004-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5s2Un6ekfFLM6dvbiOEMwQ%3D%3D) | 
-| 第38期王位戦リーグ | Kim Juho | Cho Hunhyun | B+R | 2004-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gEsngGrgJvuXTLHC0IkX%2FA%3D%3D) | 
-| 第38期王位戦リーグ | Cho Hunhyun | An Joyeong | W+1.5 | 2004-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cU5gs8m%2BQodQfk2T%2FqqF5Q%3D%3D) | 
-| 第1期電子ランド杯王中王戦予選 | Cho Hunhyun | missing | B+R | 2004-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5JRzgxLouxm2i8GUSui9tQ%3D%3D) | 
-| 第23回KBS杯囲碁王戦敗者復活戦4回戦 | Paek Hongseok | Cho Hunhyun | W+R | 2004-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H31nQsmp4IhpEJ5XdadSXw%3D%3D) | 
-| 第23回KBS杯囲碁王戦本戦4回戦 | Cho Hanseung | Cho Hunhyun | B+6.5 | 2004-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FWmvFBsYS5qmhG4fK%2FsWHg%3D%3D) | 
-| 2004年韓国囲碁リーグ | Cho Hunhyun | Lee Sedol | W+1.5 | 2004-05-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MNwTYjw75Hjk3lOAWPHeTw%3D%3D) | 
-| 第9回LG杯世界棋王戦1回戦 | O Rissei | Cho Hunhyun | B+2.5 | 2004-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iuodZE8DzPwaVGH5R9hIFQ%3D%3D) | 
-| 第38期王位戦リーグ | Yoo Changhyuk | Cho Hunhyun | W+R | 2004-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0XF5WkHGoqNzWymRYWx0SA%3D%3D) | 
-| 第9期バッカス杯天元戦1回戦 | missing | Cho Hunhyun | W+0.5 | 2004-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TDTDKKv4dec34kBMW0kZrg%3D%3D) | 
-| 第38期王位戦リーグ | Cho Hunhyun | Cho Hanseung | W+R | 2004-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LWth6DCD5IZ6wXFmMiiVhQ%3D%3D) | 
-| 第23回KBS杯囲碁王戦本戦3回戦 | Ryu Chaehyeong | Cho Hunhyun | W+R | 2004-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vf8dwr2%2BbKtZAzUKVUIWuA%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯2回戦 | Cho Hunhyun | Yoda Norimoto | W+4.5 | 2004-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JFT%2FZMyAruth17b8mnPKTg%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯1回戦 | Qiu Jun | Cho Hunhyun | W+R | 2004-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DobaUROZpWp%2Ba9by1GMocQ%3D%3D) | 
-| 2004年中国囲碁乙級リーグ | missing | Cho Hunhyun | W+R | 2004-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SQWZnDto9317GOjg0WlCdg%3D%3D) | 
-| 2004年中国囲碁乙級リーグ | Cho Hunhyun | missing | W+0.5 | 2004-04-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N%2BNQzF7tbcB7HTXGr%2BRJWw%3D%3D) | 
-| 2004年中国囲碁乙級リーグ | Cho Hunhyun | Jin Shengyu | B+R | 2004-04-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YFttBIneHmOnM0Q0YVA4Gg%3D%3D) | 
-| 2004年中国囲碁乙級リーグ | missing | Cho Hunhyun | W+R | 2004-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2wgVapJDKnNy3QdPW1UrTg%3D%3D) | 
-| 2004年中国囲碁乙級リーグ | Guo Beiya | Cho Hunhyun | W+R | 2004-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0yBfn%2B5pkIfNXay%2F9mOghg%3D%3D) | 
-| 2004年中国囲碁乙級リーグ | Cho Hunhyun | Liu Xiaoguang | B+3.5 | 2004-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AbsnIXosEFIsxD5nG%2BPR6w%3D%3D) | 
-| 第38期王位戦リーグ | missing | Cho Hunhyun | B+3.5 | 2004-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nj9tkxtsmEcs2lTrE%2BKqIA%3D%3D) | 
-| 第23回KBS杯囲碁王戦本戦2回戦 | Kim Kwangsik | Cho Hunhyun | W+R | 2004-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RmjvU2gMJUFHdOtVjy7YgQ%3D%3D) | 
-| 第38期王位戦リーグ | Cho Hunhyun | Kim Kangkeun | B+R | 2004-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tHWrpSuh%2ByucoBnYnlRolg%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権2回戦 | Chang Hao | Cho Hunhyun | B+R | 2003-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6TZ3T8IwHp8l5EAiAwMKig%3D%3D) | 
-| 第34期名人戦（韓国）挑戦手合五番勝負第5局 | Cho Hunhyun | Lee Changho | W+0.5 | 2003-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mX9PAKlYt96BBouwBHQlsg%3D%3D) | 
-| 第34期名人戦（韓国）挑戦手合五番勝負第4局 | Lee Changho | Cho Hunhyun | W+R | 2003-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rn4BYnEmLpzTRL9B2G38Xg%3D%3D) | 
-| 第34期名人戦（韓国）挑戦手合五番勝負第3局 | Cho Hunhyun | Lee Changho | W+R | 2003-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oQ5DMzMkNRC2t%2BuK15i0jg%3D%3D) | 
-| 第47期国手戦（韓国）敗者復活戦決勝 | Cho Hunhyun | missing | W+8.5 | 2003-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fIpvFFdF2WQnyLOogoimnw%3D%3D) | 
-| 第1回韓国ドリームリーグ | Cho Hunhyun | Song Taekon | B+R | 2003-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nuKfTOhD7UDDeC5WkvOkMg%3D%3D) | 
-| 第47期国手戦（韓国）敗者復活戦3回戦 | An Joyeong | Cho Hunhyun | W+R | 2003-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iDGcEYp5MPpTM%2FCbU0nTBA%3D%3D) | 
-| 第34期名人戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Cho Hunhyun | B+R | 2003-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VPNSTI9rg%2FbstjqDxulXow%3D%3D) | 
-| 第1回韓国ドリームリーグ | Cho Hunhyun | Yoo Changhyuk | W+R | 2003-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pFv0yg6%2FB9NyQ2jgCj3ELg%3D%3D) | 
-| 第47期国手戦（韓国）敗者復活戦2回戦 | Cho Hanseung | Cho Hunhyun | W+R | 2003-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vVB5t9fopyYbn9jOKURnQQ%3D%3D) | 
-| 第8期バッカス杯天元戦準決勝 | Choi Cheolhan | Cho Hunhyun | B+R | 2003-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Cp9%2BGdUuzUbNR%2F%2FVUE6YQ%3D%3D) | 
-| 第1回韓国ドリームリーグ | Cho Hunhyun | Seo Bongsoo | B+R | 2003-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5cwjUmQrfMOt7576N9DqYQ%3D%3D) | 
-| 第8期三星杯3回戦 | Cho Chikun | Cho Hunhyun | B+R | 2003-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FqZ0E2gj6y9RPxgh%2F0U6jQ%3D%3D) | 
-| 第34期名人戦（韓国）挑戦手合五番勝負第1局 | Cho Hunhyun | Lee Changho | B+R | 2003-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E7XStciJVNkcNvyWy%2FJuHg%3D%3D) | 
-| 第15期棋聖戦（韓国）1回戦 | Cho Hunhyun | Choi Cheolhan | W+R | 2003-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pBzT%2FdReurIcY8Ey57KbXg%3D%3D) | 
-| 第34期名人戦（韓国）リーグ | Cho Hunhyun | Lee Sedol | B+R | 2003-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BnSkt%2FAgTEwP%2F663EBBmpg%3D%3D) | 
-| 第1回韓国ドリームリーグ | Cho Hunhyun | Lee Changho | W+0.5 | 2003-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yvQgYDdq0MECUo1A54t%2BsA%3D%3D) | 
-| 第8期バッカス杯天元戦2回戦 | Cho Hunhyun | Kim Juho | B+R | 2003-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1sJO8tSHmZJz5uEh%2FmofqQ%3D%3D) | 
-| 第34期名人戦（韓国）リーグ | Mok Jinseok | Cho Hunhyun | W+4.5 | 2003-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=orooUSKzLt9yUDH9Uq7PQQ%3D%3D) | 
-| 第47期国手戦（韓国）敗者復活戦1回戦 | Cho Hunhyun | Yang Jaeho | B+R | 2003-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H0r00ZwxRw4Zgx5NnV0CjQ%3D%3D) | 
-| 第8期三星杯2回戦 | Cho Hunhyun | Song Taekon | B+R | 2003-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z%2BdMCZTaaGj40TG%2FwLWkTw%3D%3D) | 
-| 第8期三星杯1回戦 | Cho Hunhyun | Zhang Wendong | B+R | 2003-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wSSdtxPqxjpn4tK6rxFPFg%3D%3D) | 
-| 第34期名人戦（韓国）リーグ | An Joyeong | Cho Hunhyun | W+R | 2003-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eoBaGC662wBiqBXQHQi%2FCA%3D%3D) | 
-| 第1回韓国ドリームリーグ | Cho Hunhyun | Park Yeonghun | B+R | 2003-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oZ5kGK24BbRx80AB0KM3Kw%3D%3D) | 
-| 第37期王位戦挑戦手合五番勝負第4局 | Lee Changho | Cho Hunhyun | B+R | 2003-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E8LuTeqwKhGV%2BrjsTRjlqA%3D%3D) | 
-| 第37期王位戦挑戦手合五番勝負第3局 | Cho Hunhyun | Lee Changho | B+R | 2003-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pf4Iuavt49EJlekWGHUF8g%3D%3D) | 
-| 第37期王位戦挑戦手合五番勝負第2局 | Lee Changho | Cho Hunhyun | B+1.5 | 2003-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nkxZz3oUdXVNwBnsP96D%2Bw%3D%3D) | 
-| 第37期王位戦挑戦手合五番勝負第1局 | Cho Hunhyun | Lee Changho | W+4.5 | 2003-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A2t0K7forwFvuqKk7fF0dg%3D%3D) | 
-| 第47期国手戦（韓国）本戦1回戦 | Choi Cheolhan | Cho Hunhyun | B+11.5 | 2003-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7iPPXGs%2FQQPMC8obkVNstQ%3D%3D) | 
-| 第34期名人戦（韓国）リーグ | Heo Yongho | Cho Hunhyun | B+0.5 | 2003-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pyHWWUz2QVL63RkSohYuaw%3D%3D) | 
-| 第37期王位戦リーグ | Cho Hunhyun | Lee Sedol | B+R | 2003-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rmMa%2F5bDYzH%2BIeKHGzW8yA%3D%3D) | 
-| 第8回LG杯世界棋王戦2回戦 | Mok Jinseok | Cho Hunhyun | B+R | 2003-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3w%2BtAGm%2FSNylOd4p%2BT3Gug%3D%3D) | 
-| 第8期LG精油杯プロ棋戦1回戦 | Cho Hunhyun | An Joyeong | W+R | 2003-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qz4Hw9RbSo7RkZxZ7Bkj1w%3D%3D) | 
-| 第34期名人戦（韓国）リーグ | Cho Hunhyun | Yoo Changhyuk | B+1.5 | 2003-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g15s6mMJjrJL4Z5Hc3pySg%3D%3D) | 
-| 第37期王位戦リーグ | Cho Hunhyun | Seo Bongsoo | B+0.5 | 2003-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wvniofUWtEZ96CyuRhVW%2Fw%3D%3D) | 
-| 第34期名人戦（韓国）リーグ | missing | Cho Hunhyun | W+R | 2003-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hOjOiI77LmDBRtbEsOm8ig%3D%3D) | 
-| 第8期バッカス杯天元戦1回戦 | Kim Soojang | Cho Hunhyun | W+R | 2003-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d2aTLJYlC44iizk3tkPsTA%3D%3D) | 
-| 第37期王位戦リーグ | Cho Hanseung | Cho Hunhyun | W+R | 2003-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DrtuMsyHvl8KgTkYmiMImA%3D%3D) | 
-| 第37期王位戦リーグ | Cho Hunhyun | Ryu Chaehyeong | B+R | 2003-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zhwekuQAF0kcJhfN0PhJrA%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第3戦 | Rin Kaiho | Cho Hunhyun | W+8.5 | 2003-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qbgLByOy%2FlyYiOeVbZ6CJA%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第2戦 | Cho Hunhyun | Kato Masao | B+R | 2003-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8aK0ta2ToQI5Ll6a1AmV0w%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第1戦 | Yu Bin | Cho Hunhyun | B+R | 2003-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kXzfXAHsDhZCH4ZmZp2sJA%3D%3D) | 
-| 第3回KAT杯韓国囲碁最強戦 | Cho Hunhyun | Lee Changho | W+R | 2003-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RxXIQPQ64AS%2BhRY1fjPptw%3D%3D) | 
-| 第37期王位戦リーグ | An Joyeong | Cho Hunhyun | W+R | 2003-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r%2BCGb6KAvfebBkxtJgZxwQ%3D%3D) | 
-| 第14期棋聖戦（韓国）挑戦手合五番勝負第5局 | Lee Changho | Cho Hunhyun | B+8.5 | 2003-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UBOi%2BTvyPkcknJuYJ7ykUQ%3D%3D) | 
-| 第16回世界囲碁選手権富士通杯2回戦 | O Rissei | Cho Hunhyun | B+4.5 | 2003-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CceEBsqBuo4EsBR8aaUmig%3D%3D) | 
-| 第16回世界囲碁選手権富士通杯1回戦 | Kato Masao | Cho Hunhyun | W+3.5 | 2003-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zzIJt2P0cSmYbvI3Z7OtpQ%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | Niu Yutian | Cho Hunhyun | B+R | 2003-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o3pLYpt7gWniSOVGacJ%2FFw%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | Cho Hunhyun | Seto Taiki | B+R | 2003-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JTqDQESBaAGErx9zLlYHaQ%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | missing | Cho Hunhyun | W+R | 2003-04-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tXtyUcKPZ%2BHjQqvYy3X7HA%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | Cho Hunhyun | Wang Lei (b) | B+R | 2003-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CI2T3PR%2B3lFHBu6UJ5tiiA%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | Rui Naiwei | Cho Hunhyun | W+R | 2003-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jU79YMvy%2BZDr9PpJvdUBhA%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | Cho Hunhyun | Jiang Zhujiu | B+R | 2003-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k%2FsMGSnpHiIr0p92M4mNGw%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | missing | Cho Hunhyun | W+R | 2003-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C8lU3qaxOdJ6d1v%2Fv73Vsg%3D%3D) | 
-| 第34期名人戦（韓国）リーグ | Cho Hunhyun | Song Taekon | B+R | 2003-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PXAfTRNqnaGn6dnuqha8vg%3D%3D) | 
-| 第37期王位戦リーグ | Cho Hunhyun | Park Cheongsang | B+R | 2003-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fLDrRRyy7TOt0k7UF9BvnQ%3D%3D) | 
-| 第37期王位戦リーグ | Kim Juho | Cho Hunhyun | B+R | 2003-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IUkxoR3k69hADwMsyfTMWQ%3D%3D) | 
-| 第3回KAT杯韓国囲碁最強戦 | Yoo Changhyuk | Cho Hunhyun | W+5.5 | 2003-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I6RSiP6Ze1sddzE5uNhJcA%3D%3D) | 
-| 第14期棋聖戦（韓国）挑戦手合五番勝負第4局 | Cho Hunhyun | Lee Changho | B+R | 2003-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AbbpUUdt7Cq2tkBdQDOHLw%3D%3D) | 
-| 第2期KT杯マスターズプロ棋戦4回戦 | Lee Sedol | Cho Hunhyun | B+6.5 | 2003-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4ykolQbIbZTnu8saGkM4Ng%3D%3D) | 
-| 第14期棋聖戦（韓国）挑戦手合五番勝負第3局 | Lee Changho | Cho Hunhyun | B+R | 2003-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=veUvSe60IJ%2BHjbQK%2B6xEyA%3D%3D) | 
-| 第14期棋聖戦（韓国）挑戦手合五番勝負第2局 | Cho Hunhyun | Lee Changho | B+R | 2003-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nxOwkqfcB%2BIoruvBWfdYrA%3D%3D) | 
-| 第3回KAT杯韓国囲碁最強戦 | Cho Hunhyun | Choi Myeonghun | W+0.5 | 2003-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8V6HFG5xpNRvTuU%2BEvfzcw%3D%3D) | 
-| 第8期LG精油杯プロ棋戦予選 | Cho Hunhyun | Kim Soojang | B+R | 2003-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K2lsb14g1i0HLScDgUO6tQ%3D%3D) | 
-| 第14期棋聖戦（韓国）挑戦手合五番勝負第1局 | Lee Changho | Cho Hunhyun | B+7.5 | 2003-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=35jYPsyVZ9g9SDTXOe9dZQ%3D%3D) | 
-| 第2期KT杯マスターズプロ棋戦3回戦 | Cho Hunhyun | Kim Seongrae | B+R | 2003-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jBYG7qA24kW5b0srjBpaeg%3D%3D) | 
-| 第4回農心辛ラーメン杯世界囲碁最強戦第11戦 | Cho Hunhyun | Hu Yaoyu | W+1.5 | 2003-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i3hQ%2FNYyKsBfrkQBwHAoRQ%3D%3D) | 
-| 第7期三星杯決勝三番勝負第2局 | Cho Hunhyun | Wang Lei (b) | B+R | 2003-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KBtvW7rlUxz1vDFO1vkXCw%3D%3D) | 
-| 第7期三星杯決勝三番勝負第1局 | Wang Lei (b) | Cho Hunhyun | W+12.5 | 2003-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PZnPz18bNkVUkyCsn9rT7w%3D%3D) | 
-| 第14期棋聖戦（韓国）挑戦者決定戦三番勝負第3局 | Cho Hunhyun | Yun Junsang | B+R | 2003-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZFaLvBb4UPCXVk%2BkO%2B%2BQFw%3D%3D) | 
-| 第7期バッカス杯天元戦決勝五番勝負第5局 | Cho Hunhyun | Song Taekon | W+1.5 | 2003-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5p5Zel9Xsc%2FyeCtUBeZSyQ%3D%3D) | 
-| 第14期棋聖戦（韓国）挑戦者決定戦三番勝負第2局 | Yun Junsang | Cho Hunhyun | W+R | 2003-01-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BYbYHlh7sLIGUNpnpvxsfw%3D%3D) | 
-| 第4回春蘭杯世界囲碁選手権3回戦 | Hane Naoki | Cho Hunhyun | B+R | 2002-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7A%2BJHDgwmG9JaJA7zLYF%2Fg%3D%3D) | 
-| 第14期棋聖戦（韓国）挑戦者決定戦三番勝負第1局 | Cho Hunhyun | Yun Junsang | W+R | 2002-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QqQp8tUP7mwGqDLPurzZAw%3D%3D) | 
-| 第7期バッカス杯天元戦決勝五番勝負第4局 | Cho Hunhyun | Song Taekon | B+5.5 | 2002-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RFTXAO1flxN%2FeUb7%2Ff1YbQ%3D%3D) | 
-| 第46期国手戦（韓国）挑戦者決定戦第2局 | Cho Hunhyun | Cho Hanseung | W+R | 2002-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ly4M1ntzgG%2FC6Dcl594%2BwA%3D%3D) | 
-| 第46期国手戦（韓国）挑戦者決定戦第1局 | Cho Hanseung | Cho Hunhyun | B+9.5 | 2002-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h86JaQewaZwdL%2FVO2HvSWQ%3D%3D) | 
-| 第7期バッカス杯天元戦決勝五番勝負第3局 | Song Taekon | Cho Hunhyun | B+R | 2002-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3XQ6t47HtQBteBmRh8A%2FSA%3D%3D) | 
-| 第14期棋聖戦（韓国）準決勝 | Cho Hunhyun | Park Yeonghun | B+4.5 | 2002-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=95KxOsY4gd%2FRmAhN3CnfdA%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第20節 | Cho Hunhyun | Song Xuelin | B+R | 2002-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XuP%2Bo3DzjjAww2TWtU8jdw%3D%3D) | 
-| 第7期バッカス杯天元戦決勝五番勝負第2局 | Cho Hunhyun | Song Taekon | W+R | 2002-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=khtvipTZIhDMdRT78w5HHA%3D%3D) | 
-| 第7期三星杯準決勝三番勝負第2局 | Wang Yuhui | Cho Hunhyun | W+3.5 | 2002-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q%2FWM2YiutpLnKnvmVHP%2F1A%3D%3D) | 
-| 第7期三星杯準決勝三番勝負第1局 | Cho Hunhyun | Wang Yuhui | B+R | 2002-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MQeSv0MADhdCCGV1sUzDJA%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第18節 | Cho Hunhyun | Dong Yan | W+T | 2002-11-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e58Ihpjp6hIymAVESGo2Uw%3D%3D) | 
-| 第14期棋聖戦（韓国）2回戦 | missing | Cho Hunhyun | W+R | 2002-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qCnRFQctAean2o69IwQmXQ%3D%3D) | 
-| 第7回LG杯世界棋王戦3回戦 | Cho Hunhyun | Cho Hanseung | W+0.5 | 2002-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=90HJlDdY3irD1CerDZxGog%3D%3D) | 
-| 第7期バッカス杯天元戦決勝五番勝負第1局 | Song Taekon | Cho Hunhyun | W+R | 2002-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=baCsWvh2fpWxkpAs1B8zQA%3D%3D) | 
-| 第46期国手戦（韓国）勝者組決勝 | Cho Hanseung | Cho Hunhyun | W+R | 2002-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L%2By52ULPOc1xmIR5o%2FlphA%3D%3D) | 
-| 第7期三星杯3回戦 | Cho Hunhyun | Luo Xihe | B+0.5 | 2002-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LxLE5qHv5iOublhJc7wKRw%3D%3D) | 
-| 第7期バッカス杯天元戦準決勝 | Kim Soojang | Cho Hunhyun | W+R | 2002-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ql6ieaSz4PFE%2FPwjBeZD6w%3D%3D) | 
-| 第46期国手戦（韓国）本戦2回戦 | Cho Hunhyun | Rui Naiwei | B+R | 2002-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8HCRsIsBPJtuOWgR4P7JFA%3D%3D) | 
-| 第2期KT杯マスターズプロ棋戦2回戦 | Hong Jansik | Cho Hunhyun | W+R | 2002-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kdEUNqgx0isFA0fhQL3Nkw%3D%3D) | 
-| 第2回KAT杯韓国囲碁最強戦 | Cho Daehyeon | Cho Hunhyun | B+9.5 | 2002-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vCAOXoasYJBcTJDZf3ZRmA%3D%3D) | 
-| 第2期KT杯マスターズプロ棋戦1回戦 | An Joyeong | Cho Hunhyun | W+R | 2002-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vUpcyIce1JIDpglfL2zO6Q%3D%3D) | 
-| 第7期三星杯2回戦 | Cho Hunhyun | Peng Quan | B+1.5 | 2002-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bj0STMOQ%2B94hqLHNm0mDYg%3D%3D) | 
-| 第7期三星杯1回戦 | Wang Xi | Cho Hunhyun | W+R | 2002-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5bD%2BGAyn0A7utqNWc51niQ%3D%3D) | 
-| 第2回KAT杯韓国囲碁最強戦 | Cho Hunhyun | Choi Myeonghun | B+7.5 | 2002-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aNHYFcLj7Y14IOfeiPPr4g%3D%3D) | 
-| 第7期バッカス杯天元戦2回戦 | Cho Hunhyun | Mok Jinseok | B+R | 2002-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cBxwRP3IgYUOELivIr43wQ%3D%3D) | 
-| 第33期名人戦（韓国）リーグ | Yoo Changhyuk | Cho Hunhyun | W+2.5 | 2002-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4AgssQa8MYeCw2hqF%2BBS3g%3D%3D) | 
-| 第7期LG精油杯プロ棋戦2回戦 | Park Yeonghun | Cho Hunhyun | B+R | 2002-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mDsiV8DgNwpvONgvsfsFVw%3D%3D) | 
-| 第14期棋聖戦（韓国）1回戦 | Lee Yungsoo | Cho Hunhyun | W+R | 2002-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eGyTpL3dvj7LUkIlv%2Fp47g%3D%3D) | 
-| 第46期国手戦（韓国）本戦1回戦 | Cho Hunhyun | Jiang Zhujiu | B+5.5 | 2002-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fe4w8Ju7FvE4FyIe64%2BRaw%3D%3D) | 
-| 第33期名人戦（韓国）リーグ | Cho Hunhyun | missing | B+8.5 | 2002-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AITgROTD0B%2Bt58FxOYAu9w%3D%3D) | 
-| 第4回農心杯韓国選抜戦 | Cho Hunhyun | missing | B+10.5 | 2002-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OYjnnw3COJpLEVzzgJS%2BAg%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第11節 | Ma Xiaochun | Cho Hunhyun | W+R | 2002-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qzuAqsgu2NRmcbM%2FMmshCA%3D%3D) | 
-| 第33期名人戦（韓国）リーグ | Choi Myeonghun | Cho Hunhyun | W+R | 2002-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZmJ%2BP8gmBDgDd8vZ3TupRw%3D%3D) | 
-| 第7期バッカス杯天元戦1回戦 | Kang Hun | Cho Hunhyun | W+3.5 | 2002-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KMEOLkZbMohZxivXUF5nEg%3D%3D) | 
-| 第7期LG精油杯プロ棋戦1回戦 | Cho Hunhyun | Choi Kyubyeong | B+R | 2002-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z00WzoBQdBo9CVx9aqYHKQ%3D%3D) | 
-| 第33期名人戦（韓国）リーグ | Cho Hunhyun | Mok Jinseok | B+R | 2002-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F6SuislKskOeOEI5oKUbsw%3D%3D) | 
-| 第1回KAT杯韓国囲碁最強戦 | Cho Hunhyun | Yoo Changhyuk | W+7.5 | 2002-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZABVS2NLyyVJA3pmyh6x%2BQ%3D%3D) | 
-| 第4回春蘭杯世界囲碁選手権2回戦 | Ding Wei | Cho Hunhyun | W+R | 2002-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UGujTNkI%2B6YcdhOkLddUCQ%3D%3D) | 
-| 第7回LG杯世界棋王戦2回戦 | Cho Chikun | Cho Hunhyun | W+R | 2002-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uz8%2FG9wfvdHx8rhbwFQGWw%3D%3D) | 
-| 第45期国手戦（韓国）挑戦手合五番勝負第4局 | Lee Changho | Cho Hunhyun | B+R | 2002-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uH6j%2FzLAzv2MaBiWbUZ7Sw%3D%3D) | 
-| 第1回KAT杯韓国囲碁最強戦 | Choi Myeonghun | Cho Hunhyun | W+4.5 | 2002-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lEWVHhHsy5OOs3o3F%2Fim6A%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第4節 | Cho Hunhyun | Cao Dayuan | B+R | 2002-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z1gu0rqNLnVHqqluxuhYKA%3D%3D) | 
-| 第33期名人戦（韓国）リーグ | An Joyeong | Cho Hunhyun | B+0.5 | 2002-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=raFI%2FhBGztFqttLel2JQYw%3D%3D) | 
-| 第45期国手戦（韓国）挑戦手合五番勝負第3局 | Cho Hunhyun | Lee Changho | W+R | 2002-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FHZh5ziCQB%2BpxeyiKh8WKA%3D%3D) | 
-| 第45期国手戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Cho Hunhyun | B+2.5 | 2002-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i8EEc09O9EGADtFwQGIwXQ%3D%3D) | 
-| 第6回LG杯世界棋王戦決勝五番勝負第5局 | Yoo Changhyuk | Cho Hunhyun | B+4.5 | 2002-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ks0EapqYPf%2FgyR33c%2FESXQ%3D%3D) | 
-| 第6回LG杯世界棋王戦決勝五番勝負第4局 | Yoo Changhyuk | Cho Hunhyun | B+R | 2002-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wlpkWmmNAI32q4lvYE0RHw%3D%3D) | 
-| 第6回LG杯世界棋王戦決勝五番勝負第3局 | Cho Hunhyun | Yoo Changhyuk | B+4.5 | 2002-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rQdzrsMuaOADcIXMbdE%2FFQ%3D%3D) | 
-| 第45期国手戦（韓国）挑戦手合五番勝負第1局 | Cho Hunhyun | Lee Changho | B+R | 2002-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kh6NpoCq38LuJB%2FcO%2FAUqw%3D%3D) | 
-| 第1期KT杯マスターズプロ棋戦決勝三番勝負第3局 | Cho Hunhyun | Choi Cheolhan | B+18.5 | 2002-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ot7Zt0JQMNziF8MI6ylOKQ%3D%3D) | 
-| 第6回LG杯世界棋王戦決勝五番勝負第2局 | Yoo Changhyuk | Cho Hunhyun | W+R | 2002-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PYzEmtWp8FRSFpI0M8Z69A%3D%3D) | 
-| 第6回LG杯世界棋王戦決勝五番勝負第1局 | Cho Hunhyun | Yoo Changhyuk | W+1.5 | 2002-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x61%2BoGVDx%2BiA2XWSHODJbw%3D%3D) | 
-| 第1期KT杯マスターズプロ棋戦決勝三番勝負第2局 | Cho Hunhyun | Choi Cheolhan | W+13.5 | 2002-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iPMMZ5Vq8gwiINNbfwS8Kg%3D%3D) | 
-| 第1期KT杯マスターズプロ棋戦決勝三番勝負第1局 | Choi Cheolhan | Cho Hunhyun | W+15.5 | 2002-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rqa9U9kL3%2BKA3KMawqZ6rA%3D%3D) | 
-| 第1期KT杯マスターズプロ棋戦準決勝 | Cho Hunhyun | Seo Bongsoo | B+R | 2002-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=grkhPxjKdiN%2BnnhRrg8bug%3D%3D) | 
-| 第3回農心辛ラーメン杯世界囲碁最強戦第12戦 | Cho Hunhyun | Chang Hao | W+6.5 | 2002-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zsBvRBx2Q6bPUnjzke1ZGQ%3D%3D) | 
-| 第3回農心辛ラーメン杯世界囲碁最強戦第11戦 | Cho Hunhyun | Yu Bin | B+R | 2002-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=McNGdqNTfxMwjw489ze7JA%3D%3D) | 
-| 第33期名人戦（韓国）リーグ | missing | Cho Hunhyun | W+R | 2002-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MEwWTGbDgxJZSdaadW60kw%3D%3D) | 
-| 第1期KT杯マスターズプロ棋戦4回戦 | Cho Hunhyun | missing | B+R | 2002-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=faSczg%2Fhp%2FMsZeLlatM8uQ%3D%3D) | 
-| 第6回LG杯世界棋王戦準決勝 | Lee Changho | Cho Hunhyun | W+R | 2002-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rwWYFe9b8kqmGcPK2QMYug%3D%3D) | 
-| 第33期名人戦（韓国）リーグ | Cho Hunhyun | Lee Sedol | W+R | 2002-01-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w6k5tQkSvgJHxmLV6loKsw%3D%3D) | 
-| 第1期KT杯マスターズプロ棋戦3回戦 | Cho Hunhyun | Choi Munyong | B+R | 2001-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F45fvbrTbxhQHTl7x2z7Eg%3D%3D) | 
-| 第6期三星杯決勝三番勝負第3局 | Cho Hunhyun | Chang Hao | B+2.5 | 2001-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dcjOQOfQTMtxr5xJr7VfEQ%3D%3D) | 
-| 第6期三星杯決勝三番勝負第2局 | Chang Hao | Cho Hunhyun | W+0.5 | 2001-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TRo9k4VLhH1Rtv4vM0QBYQ%3D%3D) | 
-| 第6期三星杯決勝三番勝負第1局 | Cho Hunhyun | Chang Hao | W+0.5 | 2001-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o9BBytsF%2FaU%2BGcELeUnqwA%3D%3D) | 
-| 第6期三星杯準決勝三番勝負第2局 | Cho Hunhyun | Ma Xiaochun | B+R | 2001-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iI00VBwgVJdTpwg2LZEIGw%3D%3D) | 
-| 第6期三星杯準決勝三番勝負第1局 | Ma Xiaochun | Cho Hunhyun | W+R | 2001-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dIHTDtdULkQyNnli4fEivA%3D%3D) | 
-| 第6回LG杯世界棋王戦3回戦 | Yamashita Keigo | Cho Hunhyun | W+R | 2001-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ktZF0mDAeoML99Q492gdBA%3D%3D) | 
-| 第6期三星杯3回戦 | Cho Hunhyun | missing | B+R | 2001-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sJry7c4qgfCTSNnnPwqflw%3D%3D) | 
-| 第1期KT杯マスターズプロ棋戦2回戦 | Lee Hyeonwuk | Cho Hunhyun | W+R | 2001-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pe5AsKgHQpOonytx6iSapg%3D%3D) | 
-| 第32期名人戦（韓国）プレーオフ | Yoo Changhyuk | Cho Hunhyun | B+0.5 | 2001-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x2hac7HdJIE%2FTcO846m4aw%3D%3D) | 
-| 第32期名人戦（韓国）リーグ | Yoo Changhyuk | Cho Hunhyun | W+R | 2001-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yUlea8ATocQwDUv1R%2FyTPA%3D%3D) | 
-| 第6期三星杯2回戦 | Han Zenki | Cho Hunhyun | W+R | 2001-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6wzswTR23RAP6UjG4pJcMA%3D%3D) | 
-| 第6期三星杯1回戦 | Ryu Shikun | Cho Hunhyun | W+R | 2001-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zg4W7cRQJd9zYLevPKyIEA%3D%3D) | 
-| 第36期覇王戦本戦第1局 | Yoo Changhyuk | Cho Hunhyun | B+R | 2001-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HAXtyXY3b5%2F%2BJJGF7CVnEQ%3D%3D) | 
-| 第32期名人戦（韓国）リーグ | Cho Hunhyun | Yang Jaeho | W+0.5 | 2001-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F%2B1ldbvpdz5%2BxB6692hlFA%3D%3D) | 
-| 第32期名人戦（韓国）リーグ | Cho Hunhyun | Choi Myeonghun | B+R | 2001-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vAHpeA96ilT9x1Fl1fN38A%3D%3D) | 
-| 第6回LG杯世界棋王戦2回戦 | Cho Hunhyun | Cho Chikun | B+R | 2001-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZhFGECOyMy%2BPI5oRc%2FSUVg%3D%3D) | 
-| 第32期名人戦（韓国）リーグ | Im Seongkeun | Cho Hunhyun | W+R | 2001-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5XCkSv1XN%2BlRfoDyZy16nA%3D%3D) | 
-| 第32期名人戦（韓国）リーグ | Cho Hunhyun | missing | B+R | 2001-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4NvP13mq0ezeBUzXzN8tdg%3D%3D) | 
-| 第44期国手戦（韓国）挑戦手合五番勝負第3局 | Rui Naiwei | Cho Hunhyun | W+R | 2001-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h0TWaz31Phe3Hqfo9RTdkA%3D%3D) | 
-| 第2回農心辛ラーメン杯世界囲碁最強戦第13戦 | Cho Hunhyun | Kato Masao | W+3.5 | 2001-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DgKJZqTEVpaV40UYbUzvyw%3D%3D) | 
-| 第2回農心辛ラーメン杯世界囲碁最強戦第12戦 | Yu Bin | Cho Hunhyun | W+R | 2001-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uSbreySQYCiZNWZl01%2B5EQ%3D%3D) | 
-| 第2回農心辛ラーメン杯世界囲碁最強戦第11戦 | Yamashita Keigo | Cho Hunhyun | W+4.5 | 2001-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h9ARZ9YYOqrt9RlpVCa6XA%3D%3D) | 
-| 第32期名人戦（韓国）リーグ | missing | Cho Hunhyun | W+R | 2001-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V8P3vtVIK5IwXRmikm6%2BMQ%3D%3D) | 
-| 第35期覇王戦挑戦手合五番勝負第4局 | Cho Hunhyun | Lee Changho | W+R | 2001-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GCFEB7sh7HNESwtvIEBx1Q%3D%3D) | 
-| 第44期国手戦（韓国）挑戦手合五番勝負第2局 | Cho Hunhyun | Rui Naiwei | B+4.5 | 2001-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J%2B5mdU8zBVVzM09mKC7NhA%3D%3D) | 
-| 第35期覇王戦挑戦手合五番勝負第3局 | Lee Changho | Cho Hunhyun | W+R | 2001-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mHMZqz%2FlLM0cEW72M%2BJNfw%3D%3D) | 
-| 第35期覇王戦挑戦手合五番勝負第2局 | Cho Hunhyun | Lee Changho | W+R | 2001-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ns15veRbxe9ovyj7m0na3g%3D%3D) | 
-| 第44期国手戦（韓国）挑戦手合五番勝負第1局 | Rui Naiwei | Cho Hunhyun | W+R | 2001-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rgK%2FYSktuRYoIrvCvyejgA%3D%3D) | 
-| 第32期名人戦（韓国）リーグ | Cho Hunhyun | Mok Jinseok | B+R | 2001-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CF9hVhshG2loq53WEUB1lA%3D%3D) | 
-| 第44期国手戦（韓国）挑戦者決定戦第3局 | Cho Hunhyun | Lee Changho | B+R | 2001-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xc%2FWqiYb1AM5aAGNnfiHvw%3D%3D) | 
-| 第44期国手戦（韓国）挑戦者決定戦第2局 | Cho Hunhyun | Lee Changho | W+3.5 | 2001-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3i44SXL86l%2BLM4cZ%2B6bENQ%3D%3D) | 
-| 第35期覇王戦挑戦手合五番勝負第1局 | Lee Changho | Cho Hunhyun | B+7.5 | 2001-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lQ2KlUr7NFJt%2F3rssf6jaw%3D%3D) | 
-| 第35期覇王戦本戦第19局 | Cho Hunhyun | Lee Changho | B+10.5 | 2001-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gn0GeFVhtaA5EBKciAqX7g%3D%3D) | 
-| 第44期国手戦（韓国）挑戦者決定戦第1局 | Lee Changho | Cho Hunhyun | W+R | 2001-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g2chpF9Zlnzy96PsbRzagg%3D%3D) | 
-| 第44期国手戦（韓国）敗者復活戦決勝 | Cho Hunhyun | Paek Daehyun | B+R | 2001-01-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KwJG8LadejQP1LaFEgrg4Q%3D%3D) | 
-| 第44期国手戦（韓国）敗者復活戦3回戦 | Kim Seungjun | Cho Hunhyun | W+R | 2000-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mw5QKWUdOYG%2BNqtQjHeg2Q%3D%3D) | 
-| 第5回LG杯世界棋王戦3回戦 | O Rissei | Cho Hunhyun | B+16.5 | 2000-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B0Yu51hXPHAfw4020hOn9g%3D%3D) | 
-| 第44期国手戦（韓国）敗者復活戦2回戦 | Yang Keon | Cho Hunhyun | W+R | 2000-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x%2ByCTWeM6U2BkwjNwDD8mw%3D%3D) | 
-| 第31期名人戦（韓国）挑戦手合五番勝負第3局 | Cho Hunhyun | Lee Changho | W+1.5 | 2000-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XGInTP8QMwMkskhNK3opZA%3D%3D) | 
-| 第31期名人戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Cho Hunhyun | B+R | 2000-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sMyW4WjgOxHN0TGhBs%2Br8A%3D%3D) | 
-| 第5期三星杯3回戦 | Seo Bongsoo | Cho Hunhyun | B+5.5 | 2000-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IUBVA7BdcPu8Ta5gR9Alhg%3D%3D) | 
-| 第31期名人戦（韓国）挑戦手合五番勝負第1局 | Cho Hunhyun | Lee Changho | W+R | 2000-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TapD3zSEs1gydq8uThatQg%3D%3D) | 
-| 第31期名人戦（韓国）挑戦者決定戦 | Cho Hunhyun | Choi Myeonghun | B+R | 2000-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bb7RDITkw8BNUbtGvuj9kQ%3D%3D) | 
-| 第44期国手戦（韓国）敗者復活戦1回戦 | Cho Hunhyun | missing | B+R | 2000-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9T%2BaYQrgMSy1gdtsdHKosg%3D%3D) | 
-| 第31期名人戦（韓国）リーグ | Cho Hunhyun | Yoo Changhyuk | B+5.5 | 2000-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yP8Cn%2B1W97yuH21TjzjHKA%3D%3D) | 
-| 第5期三星杯2回戦 | Ko Mosei | Cho Hunhyun | W+R | 2000-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B952wsHHOZ9R8J987CYVCA%3D%3D) | 
-| 第5期三星杯1回戦 | Kobayashi Satoru | Cho Hunhyun | W+R | 2000-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ycURKmQqHSkWic2UBI2HNA%3D%3D) | 
-| 第31期名人戦（韓国）リーグ | Cho Hunhyun | Mok Jinseok | W+0.5 | 2000-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4zeGCoCWo9OcqP217D8GRw%3D%3D) | 
-| 第8期倍達王戦2回戦 | Cho Hunhyun | Lee Sedol | W+8.5 | 2000-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=swlx5TxJuM8JMstR1xlOWA%3D%3D) | 
-| 第44期国手戦（韓国）本戦1回戦 | Paek Daehyun | Cho Hunhyun | B+R | 2000-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zNlweo8tQrw3TPuepaB8dQ%3D%3D) | 
-| 第8期倍達王戦1回戦 | Choi Myeonghun | Cho Hunhyun | W+7.5 | 2000-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TAin0k3851%2Bpw3atI2i1XQ%3D%3D) | 
-| 第31期名人戦（韓国）リーグ | Cho Hunhyun | Choi Myeonghun | W+R | 2000-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BMn%2FvHiPiZbfjwQpIYlMzg%3D%3D) | 
-| 第12期棋聖戦（韓国）1回戦 | Cho Hunhyun | Choi Kyubyeong | W+0.5 | 2000-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FLtyeLmwtfuKkWNbUU1C0g%3D%3D) | 
-| 第5回LG杯世界棋王戦2回戦 | Cho Hunhyun | Cho Chikun | B+R | 2000-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UzMzkJsEMFPr3Vukb7qN%2Fg%3D%3D) | 
-| 第31期名人戦（韓国）リーグ | Cho Hunhyun | Im Changsik | B+R | 2000-05-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OXYH9%2FIfar3YDyurbHq5DQ%3D%3D) | 
-| 第19回KBS杯囲碁王戦敗者復活戦1回戦 | Cho Hunhyun | Mok Jinseok | W+R | 2000-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qL%2B4bdGiUjEf3nbAuoJmMA%3D%3D) | 
-| 第4回応氏杯世界選手権2回戦 | Cho Hunhyun | O Meien | W+3 | 2000-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=45tqq8jlwYpnxZeMHZp%2BRA%3D%3D) | 
-| 第5期バッカス杯天元戦1回戦 | Kim Seungjun | Cho Hunhyun | W+R | 2000-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v1H%2F66drWLSP8Z5bIdJHog%3D%3D) | 
-| 第31期名人戦（韓国）リーグ | Yang Jaeho | Cho Hunhyun | W+R | 2000-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eMBBbcy6PFdGmOHp3fiFqg%3D%3D) | 
-| 第1回農心辛ラーメン杯世界囲碁最強戦第9戦 | Cho Hunhyun | Chang Hao | W+3.5 | 2000-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WUIyEHydcovE2jYUaawcFA%3D%3D) | 
-| 第31期名人戦（韓国）リーグ | Choi Kyubyeong | Cho Hunhyun | W+R | 2000-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VmazT3l%2BxEsug%2FnqyswyWQ%3D%3D) | 
-| 第19回KBS杯囲碁王戦本戦2回戦 | Cho Hunhyun | Park Shiun | W+R | 2000-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f825kqMgUr6f0WJvWpKyhQ%3D%3D) | 
-| 第4回LG杯世界棋王戦準決勝 | Cho Hunhyun | Yu Bin | W+2.5 | 2000-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HHaqz%2BLTYAB%2Brj7izY3buA%3D%3D) | 
-| 第31期名人戦（韓国）リーグ | Kim Seungjun | Cho Hunhyun | W+R | 2000-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9mVBtHBkqw79jrINaiaexw%3D%3D) | 
-| 第1回農心辛ラーメン杯世界囲碁最強戦第8戦 | Yoda Norimoto | Cho Hunhyun | W+R | 2000-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i3vfgSuBwzmdYSaLzok9zg%3D%3D) | 
-| 第4回LG杯世界棋王戦3回戦 | Cho Hunhyun | Wang Lei (b) | B+R | 1999-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Du8XvGc7tgOu3oE%2Fw5a3pA%3D%3D) | 
-| 第4期三星杯2回戦 | Cho Hunhyun | Chang Hao | W+1.5 | 1999-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oTvyjGkW5nTMY4MvfN%2FY%2BA%3D%3D) | 
-| 第4期三星杯1回戦 | Cho Hunhyun | Nakano Hironari | B+R | 1999-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eitliIUSJqbZlaAwdMkDjQ%3D%3D) | 
-| 第4回LG杯世界棋王戦2回戦 | Shao Weigang | Cho Hunhyun | W+R | 1999-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xL4PgZl2N%2Bw3cr7py5OI1A%3D%3D) | 
-| 第4回LG杯世界棋王戦1回戦 | Cho Hunhyun | Cao Dayuan | B+R | 1999-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qbdz9yPSPY2WosE%2BtaolFA%3D%3D) | 
-| 第3回LG杯世界棋王戦2回戦 | Yu Bin | Cho Hunhyun | B+2.5 | 1998-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M5Mkmv1Su6hjvjWPx%2Be1RQ%3D%3D) | 
-| 第3回応氏杯世界選手権3回戦 | Yoda Norimoto | Cho Hunhyun | B+3 | 1996-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fAcDoeiHusym83oAjsDizQ%3D%3D) | 
-| 第3回応氏杯世界選手権2回戦 | Cho Hunhyun | Awaji Shuzo | B+R | 1996-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YkTuS5k1HX%2B%2FhDp1M%2FUFiw%3D%3D) | 
-| 第3回応氏杯世界選手権1回戦 | Zhang Wendong | Cho Hunhyun | W+3 | 1996-04-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lEp6tVcQuSe808XJ7xES5A%3D%3D) | 
-| 第2回応氏杯世界選手権2回戦 | Awaji Shuzo | Cho Hunhyun | B+3 | 1992-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=afROzonQls2Zo1y0q9u1Ow%3D%3D) | 
-| 第1回応氏杯世界選手権決勝五番勝負第5局 | Cho Hunhyun | Nie Weiping | B+R | 1989-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gRiqUSkUjjTEfB21v5mDbQ%3D%3D) | 
-| 第1回応氏杯世界選手権決勝五番勝負第4局 | Cho Hunhyun | Nie Weiping | B+1 | 1989-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y03dGs1YYA1BnGg4XCCTJA%3D%3D) | 
-| 第1回応氏杯世界選手権決勝五番勝負第3局 | Nie Weiping | Cho Hunhyun | B+3 | 1989-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J873nUuB%2Frso8cgk7ogyzw%3D%3D) | 
-| 第1回応氏杯世界選手権決勝五番勝負第2局 | Cho Hunhyun | Nie Weiping | W+9 | 1989-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HcKgAZuAWKq7ZhzjWGOgYA%3D%3D) | 
-| 第1回応氏杯世界選手権決勝五番勝負第1局 | Nie Weiping | Cho Hunhyun | W+3 | 1989-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3SADotnegr3KLK5b74saEw%3D%3D) | 
-| 第1回応氏杯世界選手権準決勝三番勝負第2局 | Cho Hunhyun | Rin Kaiho | B+5 | 1988-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=40K1ysehZUxYfR%2Fq99ggnA%3D%3D) | 
-| 第1回応氏杯世界選手権準決勝三番勝負第1局 | Rin Kaiho | Cho Hunhyun | W+R | 1988-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a%2Be8N5U9ntzhHBBArAmdfA%3D%3D) | 
-| 第1回応氏杯世界選手権2回戦 | Cho Hunhyun | Kobayashi Koichi | B+1 | 1988-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=urULqqyPSH4qd9gp9GrMhQ%3D%3D) | 
-| 第1回応氏杯世界選手権1回戦 | Cho Hunhyun | O Meien | B+R | 1988-08-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pdoYCPVDdI%2FzWJzbGUG9ew%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-14 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第3ラウンド | Cho Hunhyun | Kobayashi Koichi | Lose | W+2¼ | 7.5 | 3227 | -222 | 
+| 2021-09-12 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第1ラウンド | Cho Hunhyun | Nie Weiping | Win | B+R | 7.5 | 3449 | -147 | 
+| 2021-02-08 | 第44期名人戦（韓国）特別対局第1局 | Lee Changho | Cho Hunhyun | Lose | B+R | 6.5 | 3596 | -116 | 
+| 2021-01-24 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第2ラウンド | Nie Weiping | Cho Hunhyun | Win | W+R | 6.5 | 3712 | 56 | 
+| 2021-01-22 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第2ラウンド  | Kobayashi Koichi | Cho Hunhyun | Win | W+1.5 | 6.5 | 3656 | -37 | 
+| 2021-01-17 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第1ラウンド  | Cho Hunhyun | Yoda Norimoto | Win | B+R | 6.5 | 3693 | 130 | 
+| 2021-01-15 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第1ラウンド | Cho Hunhyun | Chang Hao | Win | B+R | 6.5 | 3563 | 361 | 
+| 2020-12-23 | 2020中日韓聶衛平杯囲碁マスターズ3回戦 | Nie Weiping | Cho Hunhyun | Win | W+R | 7.5 | 3202 | 152 | 
+| 2020-12-22 | 2020中日韓聶衛平杯囲碁マスターズ2回戦  | Cho Hunhyun | Takemiya Masaki | Win | B+R | 7.5 | 3050 | 3050 | 
+| 2020-06-13 | 曺薫鉉九段復帰特別対局 | Choi Jeong | Cho Hunhyun | Lose | B+R | 6.5 | missing | 0 | 
+| 2019-11-02 | 初代応氏杯30周年特別対局 | Cho Hunhyun | Nie Weiping | Lose | W+13 | 7.5 | missing | 0 | 
+| 2019-01-30 | 2019年K바둑旧正月特集シニアvs女流第1局  | Nakamura Sumire | Cho Hunhyun | Win | W+R | 6.5 | missing | -2638 | 
+| 2016-05-25 | 第1回韓国シニア囲碁リーグ | Seo Nungwuk | Cho Hunhyun | Win | W+12.5 | 6.5 | 2638 | 40 | 
+| 2016-05-17 | 第1回韓国シニア囲碁リーグ | Cho Hunhyun | Ko Jaehee | Win | B+R | 6.5 | 2598 | -58 | 
+| 2016-05-10 | 第1回韓国シニア囲碁リーグ | Seo Bongsoo | Cho Hunhyun | Lose | B+R | 6.5 | 2656 | -145 | 
+| 2016-05-02 | 第1回韓国シニア囲碁リーグ | Kim Ilhwan | Cho Hunhyun | Win | W+7.5 | 6.5 | 2801 | 98 | 
+| 2016-04-20 | 第1回韓国シニア囲碁リーグ |  | Cho Hunhyun | Win | W+R | 6.5 | 2703 | 46 | 
+| 2016-03-29 | 第1回韓国シニア囲碁リーグ | Seo Nungwuk | Cho Hunhyun | Win | W+11.5 | 6.5 | 2657 | 35 | 
+| 2016-03-22 | 第1回韓国シニア囲碁リーグ | Choi Kyubyeong | Cho Hunhyun | Win | W+R | 6.5 | 2622 | -69 | 
+| 2016-02-28 | 第17回マキシムコーヒー杯入神最強戦2回戦 | Cho Hunhyun | Park Yeonghun | Lose | W+R | 6.5 | 2691 | -264 | 
+| 2016-01-04 | 第17回マキシムコーヒー杯入神最強戦1回戦 | Park Shiun | Cho Hunhyun | Win | W+5.5 | 6.5 | 2955 | 200 | 
+| 2015-09-14 | 第9回GGオークション杯女流対シニア連勝対抗戦第15戦 | Oh Yujin | Cho Hunhyun | Lose | B+4.5 | 6.5 | 2755 | -97 | 
+| 2015-01-26 | 2014-2015年シニア囲碁クラシック国棋戦決勝 | Cho Hunhyun | Seo Bongsoo | Win | B+R | 6.5 | 2852 | 130 | 
+| 2015-01-23 | 2014-2015年シニア囲碁クラシック国棋戦準決勝 | Kim Ilhwan | Cho Hunhyun | Win | W+R | 6.5 | 2722 | 46 | 
+| 2015-01-22 | 2014-2015年シニア囲碁クラシック国棋戦準々決勝 | Cho Hunhyun | Chang Suyeong | Win | B+R | 6.5 | 2676 | 71 | 
+| 2014-12-24 | 第16回マキシムコーヒー杯入神最強戦1回戦 | Yun Junsang | Cho Hunhyun | Lose | B+R | 6.5 | 2605 | -57 | 
+| 2014-12-01 | 2014-2015年シニア囲碁クラシック棋王戦決勝 | Cho Hunhyun | Seo Bongsoo | Win | B+2.5 | 6.5 | 2662 | 213 | 
+| 2014-11-28 | 2014-2015年シニア囲碁クラシック棋王戦準決勝 | Cho Hunhyun | Kim Ilhwan | Win | B+14.5 | 6.5 | 2449 | 29 | 
+| 2014-11-27 | 2014-2015年シニア囲碁クラシック棋王戦準々決勝 | Cho Hunhyun | Oh Kyuchul | Win | B+R | 6.5 | 2420 | -465 | 
+| 2014-08-26 | 第19期バッカス杯天元戦1回戦 | Shin Minjun | Cho Hunhyun | Lose | B+R | 6.5 | 2885 | 0 | 
+| 2014-08-26 | 第8回GGオークション杯女流対シニア連勝対抗戦第16戦 | Cho Hunhyun | Oh Jeonga | Lose | W+0.5 | 6.5 | 2885 | -244 | 
+| 2014-07-30 | 2014-2015年シニア囲碁クラシック国手戦準決勝 | Cho Hunhyun | Kim Ilhwan | Lose | W+2.5 | 6.5 | 3129 | -144 | 
+| 2014-05-28 | 第19期バッカス杯天元戦予選 | Cho Hunhyun |  | Win | B+R | 6.5 | 3273 | -46 | 
+| 2014-01-06 | 第15回マキシムコーヒー杯入神最強戦1回戦 | Park Cheongsang | Cho Hunhyun | Lose | B+R | 6.5 | 3319 | -49 | 
+| 2013-12-16 | 第4回大舟杯プロシニア最強者戦決勝 | Choi Kyubyeong | Cho Hunhyun | Win | W+R | 6.5 | 3368 | 61 | 
+| 2013-12-11 | 第4回大舟杯プロシニア最強者戦準決勝 | Seo Nungwuk | Cho Hunhyun | Win | W+0.5 | 6.5 | 3307 | 94 | 
+| 2013-12-05 | 第4回大舟杯プロシニア最強者戦2回戦 | Cho Hunhyun | Hyun Mijin | Win | B+R | 6.5 | 3213 | 125 | 
+| 2013-09-17 | 第7回GGオークション杯女流対シニア連勝対抗戦第22戦 | Park Shiun | Cho Hunhyun | Win | W+R | 6.5 | 3088 | -33 | 
+| 2013-09-16 | 第7回GGオークション杯女流対シニア連勝対抗戦第21戦 | Cho Hunhyun |  | Win | B+20.5 | 6.5 | 3121 | 17 | 
+| 2013-09-13 | 第4期Olleh杯オープン選手権3回戦 | Cho Hunhyun | Kim Jiseok | Lose | W+7.5 | 6.5 | 3104 | -20 | 
+| 2013-09-10 | 第7回GGオークション杯女流対シニア連勝対抗戦第20戦 | Park Sohyun | Cho Hunhyun | Win | W+R | 6.5 | 3124 | 0 | 
+| 2013-09-09 | 第7回GGオークション杯女流対シニア連勝対抗戦第19戦 |  | Cho Hunhyun | Win | W+R | 6.5 | 3124 | 9 | 
+| 2013-09-03 | 第7回GGオークション杯女流対シニア連勝対抗戦第18戦 | Kim Soojin | Cho Hunhyun | Win | W+R | 6.5 | 3115 | 3 | 
+| 2013-09-02 | 第7回GGオークション杯女流対シニア連勝対抗戦第17戦 | Cho Hunhyun | Choi Jeong | Win | B+0.5 | 6.5 | 3112 | 33 | 
+| 2013-07-12 | 第4期Olleh杯オープン選手権2回戦 | Cho Hunhyun | Kim Sonjin | Win | B+6.5 | 6.5 | 3079 | 253 | 
+| 2013-06-24 | 第4期Olleh杯オープン選手権1回戦 |  | Cho Hunhyun | Win | W+8.5 | 6.5 | 2826 | -49 | 
+| 2013-03-11 | 第32回KBS杯囲碁王戦本戦1回戦 | Shin Yoonho | Cho Hunhyun | Lose | B+R | 6.5 | 2875 | 76 | 
+| 2012-12-10 | 第14回マキシムコーヒー杯入神最強戦2回戦 | Cho Hunhyun | Choi Cheolhan | Lose | W+0.5 | 6.5 | 2799 | -328 | 
+| 2012-11-29 | 第3回大舟杯プロシニア最強者戦2回戦 | Cho Hunhyun | An Kwanwuk | Lose | W+0.5 | 6.5 | 3127 | 185 | 
+| 2012-11-16 | 第14回マキシムコーヒー杯入神最強戦1回戦 | Cho Hunhyun | Kim Ilhwan | Win | B+R | 6.5 | 2942 | -120 | 
+| 2012-09-18 | 第6回GGオークション杯女流対シニア連勝対抗戦第22戦 | Cho Hunhyun | Choi Jeong | Lose | W+R | 6.5 | 3062 | -38 | 
+| 2012-09-17 | 第6回GGオークション杯女流対シニア連勝対抗戦第21戦 | Cho Hyeyeon | Cho Hunhyun | Win | W+6.5 | 6.5 | 3100 | 113 | 
+| 2012-08-25 | 2012年韓国囲碁リーグ | Cho Hunhyun |  | Win | B+R | 6.5 | 2987 | -104 | 
+| 2012-07-06 | 2012年韓国囲碁リーグ | Weon Seongjin | Cho Hunhyun | Lose | B+R | 6.5 | 3091 | 65 | 
+| 2012-06-22 | 2012年韓国囲碁リーグ | Park Minkyu | Cho Hunhyun | Lose | B+6.5 | 6.5 | 3026 | -45 | 
+| 2012-06-01 | 2012年韓国囲碁リーグ | Cho Hunhyun |  | Lose | W+R | 6.5 | 3071 | -37 | 
+| 2012-05-21 | 第31回KBS杯囲碁王戦本戦1回戦 | Cho Hunhyun | Mok Jinseok | Lose | W+R | 6.5 | 3108 | -103 | 
+| 2012-04-22 | 2012年韓国囲碁リーグ | Lee Wondo | Cho Hunhyun | Win | W+R | 6.5 | 3211 | 24 | 
+| 2012-04-20 | 第17回LG杯予選 | Cho Hunhyun | Hu Yaoyu | Lose | W+R | 6.5 | 3187 | -8 | 
+| 2012-04-13 | 2012年韓国囲碁リーグ | Park Jinsol | Cho Hunhyun | Lose | B+R | 6.5 | 3195 | -88 | 
+| 2011-12-27 | 第2回大舟杯プロシニア最強者戦決勝 | Seo Nungwuk | Cho Hunhyun | Lose | B+R | 6.5 | 3283 | -72 | 
+| 2011-12-22 | 第2回大舟杯プロシニア最強者戦準決勝 | Park Yeongchan | Cho Hunhyun | Win | W+18.5 | 6.5 | 3355 | -18 | 
+| 2011-12-19 | 第30回KBS杯囲碁王戦敗者復活戦2回戦 | Cho Hunhyun | Kim Kiyoung | Lose | W+9.5 | 6.5 | 3373 | 389 | 
+| 2011-12-02 | 第2回大舟杯プロシニア最強者戦2回戦 | Kim Kihun | Cho Hunhyun | Win | W+10.5 | 6.5 | 2984 | 1 | 
+| 2011-11-29 | 第13回マキシムコーヒー杯入神最強戦2回戦 | Cho Hunhyun |  | Lose | W+2.5 | 6.5 | 2983 | -34 | 
+| 2011-11-14 | 第13回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Cho Hunhyun | Win | W+4.5 | 6.5 | 3017 | 34 | 
+| 2011-10-17 | 第30回KBS杯囲碁王戦敗者復活戦1回戦 | Park Yeonghun | Cho Hunhyun | Win | W+R | 6.5 | 2983 | -37 | 
+| 2011-09-06 | 第5回GGオークション杯女流対シニア連勝対抗戦第20戦 |  | Cho Hunhyun | Lose | B+R | 6.5 | 3020 | -52 | 
+| 2011-09-05 | 第5回GGオークション杯女流対シニア連勝対抗戦第19戦 | Cho Hunhyun | Cho Hyeyeon | Win | B+R | 6.5 | 3072 | -13 | 
+| 2011-08-23 | 第5回GGオークション杯女流対シニア連勝対抗戦第18戦 | Lee Sula | Cho Hunhyun | Win | W+R | 6.5 | 3085 | 0 | 
+| 2011-08-22 | 第5回GGオークション杯女流対シニア連勝対抗戦第17戦 | Kim Miri | Cho Hunhyun | Win | W+R | 6.5 | 3085 | 11 | 
+| 2011-08-16 | 第5回GGオークション杯女流対シニア連勝対抗戦第16戦 | Moon Dowon | Cho Hunhyun | Win | W+R | 6.5 | 3074 | -7 | 
+| 2011-08-15 | 第5回GGオークション杯女流対シニア連勝対抗戦第15戦 | Cho Hunhyun | Park Jiyeon | Win | B+1.5 | 6.5 | 3081 | 0 | 
+| 2011-08-15 | 第30回KBS杯囲碁王戦本戦2回戦 | Mok Jinseok | Cho Hunhyun | Lose | B+R | 6.5 | 3081 | -34 | 
+| 2011-08-09 | 第5回GGオークション杯女流対シニア連勝対抗戦第14戦 | Cho Hunhyun | Oh Jeonga | Win | B+3.5 | 6.5 | 3115 | -5 | 
+| 2011-08-08 | 第5回GGオークション杯女流対シニア連勝対抗戦第13戦 | Cho Hunhyun | Lee Tahye | Win | B+3.5 | 6.5 | 3120 | 39 | 
+| 2011-07-26 | 第5回GGオークション杯女流対シニア連勝対抗戦第12戦 | Kim Nahyun | Cho Hunhyun | Win | W+0.5 | 6.5 | 3081 | -6 | 
+| 2011-07-15 | 第13回農心杯韓国選抜戦 | Kim Jiseok | Cho Hunhyun | Lose | B+R | 6.5 | 3087 | -53 | 
+| 2011-07-13 | 第13回農心杯韓国選抜戦 | Cho Hunhyun | Park Seunghwa | Win | B+R | 6.5 | 3140 | -156 | 
+| 2011-05-09 | 第30回KBS杯囲碁王戦本戦1回戦 | Lee Sula | Cho Hunhyun | Win | W+R | 6.5 | 3296 | 166 | 
+| 2011-02-01 | 第12回マキシムコーヒー杯入神最強戦3回戦 | Cho Hunhyun | Lee Changho | Lose | W+R | 6.5 | 3130 | 28 | 
+| 2011-01-04 | 第12回マキシムコーヒー杯入神最強戦2回戦 | Chang Suyeong | Cho Hunhyun | Win | W+R | 6.5 | 3102 | 49 | 
+| 2010-12-24 | 第1回大舟杯プロシニア最強者戦決勝三番勝負第2局 | Cho Hunhyun | Seo Bongsoo | Win | B+2.5 | 6.5 | 3053 | 10 | 
+| 2010-12-22 | 第1回大舟杯プロシニア最強者戦決勝三番勝負第1局 | Seo Bongsoo | Cho Hunhyun | Win | W+14.5 | 6.5 | 3043 | 2 | 
+| 2010-12-20 | 第6期圓益杯十段戦2回戦 | Kim Jiseok | Cho Hunhyun | Lose | B+R | 6.5 | 3041 | -13 | 
+| 2010-12-16 | 第1回大舟杯プロシニア最強者戦準決勝 | Cho Hunhyun | Kwon Kapyong | Win | B+11.5 | 6.5 | 3054 | -3 | 
+| 2010-11-24 | 第1回大舟杯プロシニア最強者戦2回戦 | Ko Jaehee | Cho Hunhyun | Win | W+19.5 | 6.5 | 3057 | 31 | 
+| 2010-11-05 | 第1回大舟杯プロシニア最強者戦1回戦 | Kim Kihun | Cho Hunhyun | Win | W+R | 6.5 | 3026 | -46 | 
+| 2010-10-22 | 第4回GGオークション杯女流対シニア連勝対抗戦第23戦 | Cho Hunhyun | Park Shiun | Lose | W+4.5 | 6.5 | 3072 | -63 | 
+| 2010-10-16 | 第4回GGオークション杯女流対シニア連勝対抗戦第22戦 | Cho Hunhyun | Cho Hyeyeon | Win | B+R | 6.5 | 3135 | 11 | 
+| 2010-10-15 | 第4回GGオークション杯女流対シニア連勝対抗戦第21戦 | Rui Naiwei | Cho Hunhyun | Win | W+R | 6.5 | 3124 | 153 | 
+| 2010-09-30 | 2010年韓国囲碁リーグ | Lee Taehyun | Cho Hunhyun | Win | W+R | 6.5 | 2971 | 53 | 
+| 2010-09-29 | 第6期圓益杯十段戦1回戦 | Cho Hunhyun | Ju Hyeongwuk | Win | B+R | 6.5 | 2918 | 32 | 
+| 2010-07-01 | 2010年韓国囲碁リーグ | Cho Hunhyun | Park Siyeol | Win | B+R | 6.5 | 2886 | 61 | 
+| 2010-06-11 | 2010年韓国囲碁リーグ | Cho Hunhyun | Paek Hongseok | Win | B+2.5 | 6.5 | 2825 | 38 | 
+| 2010-04-23 | 第15回LG杯予選 | Wang Yao | Cho Hunhyun | Lose | B+0.5 | 6.5 | 2787 | -80 | 
+| 2010-03-22 | 第29回KBS杯囲碁王戦本戦1回戦 | Kim Junghyun | Cho Hunhyun | Lose | B+R | 6.5 | 2867 | -55 | 
+| 2010-03-08 | 第11回マキシムコーヒー杯入神最強戦準決勝 | Cho Hunhyun | Kang Dongyun | Lose | W+0.5 | 6.5 | 2922 | 39 | 
+| 2010-02-22 | 第11回マキシムコーヒー杯入神最強戦3回戦 | Seo Bongsoo | Cho Hunhyun | Win | W+0.5 | 6.5 | 2883 | 19 | 
+| 2010-02-06 | 第2回BCカード杯世界選手権2回戦 | Ding Wei | Cho Hunhyun | Lose | B+R | 6.5 | 2864 | -74 | 
+| 2010-01-16 | 第2回BCカード杯世界選手権1回戦 | Cho Hunhyun | On Sojin | Win | B+R | 6.5 | 2938 | -1 | 
+| 2009-12-02 | 第5期圓益杯十段戦4回戦 | Lee Changho | Cho Hunhyun | Lose | B+R | 6.5 | 2939 | 23 | 
+| 2009-11-30 | 第28回KBS杯囲碁王戦敗者復活戦2回戦 | Lee Changho | Cho Hunhyun | Lose | B+R | 6.5 | 2916 | -205 | 
+| 2009-10-28 | 第5期圓益杯十段戦3回戦 | Cho Hunhyun | Lee Taehyun | Win | B+R | 6.5 | 3121 | -4 | 
+| 2009-10-07 | 第5期圓益杯十段戦2回戦 | Cho Hunhyun |  | Win | B+R | 6.5 | 3125 | 47 | 
+| 2009-09-25 | 2009年韓国囲碁リーグ | Lee Yeongkyu | Cho Hunhyun | Lose | B+R | 6.5 | 3078 | -51 | 
+| 2009-09-16 | 2009年韓国囲碁リーグ | Ko Keuntae | Cho Hunhyun | Lose | B+R | 6.5 | 3129 | -4 | 
+| 2009-09-12 | 第14回三星火災杯世界囲碁マスターズ1回戦B3 | Park Yeonghun | Cho Hunhyun | Lose | B+T | 6.5 | 3133 | -10 | 
+| 2009-09-11 | 第14回三星火災杯世界囲碁マスターズ1回戦B2 | Cho Hunhyun | Lu Jia | Win | B+R | 6.5 | 3143 | 0 | 
+| 2009-09-10 | 第14回三星火災杯世界囲碁マスターズ1回戦B1 | Chang Hao | Cho Hunhyun | Lose | B+11.5 | 6.5 | 3143 | 31 | 
+| 2009-08-31 | 第5期圓益杯十段戦1回戦 | Cho Hunhyun | Kim Hyokon | Win | B+R | 6.5 | 3112 | -3 | 
+| 2009-08-28 | 第1回SKY囲碁杯第15戦 | Seo Bongsoo | Cho Hunhyun | Lose | B+R | 6.5 | 3115 | -12 | 
+| 2009-08-20 | 第11回農心杯韓国選抜戦 | Kim Seongjae | Cho Hunhyun | Lose | B+R | 6.5 | 3127 | -37 | 
+| 2009-08-18 | 第11回農心杯韓国選抜戦 | Cho Hunhyun | Kim Donghee | Win | B+R | 6.5 | 3164 | -5 | 
+| 2009-08-17 | 第28回KBS杯囲碁王戦敗者復活戦1回戦 | Cho Hunhyun | Park Yeonghun | Win | B+R | 6.5 | 3169 | 23 | 
+| 2009-08-14 | 第1回SKY囲碁杯第14戦 | Yang Jaeho | Cho Hunhyun | Win | W+11.5 | 6.5 | 3146 | 21 | 
+| 2009-07-21 | 第11回農心杯韓国選抜戦 | Park Cheongsang | Cho Hunhyun | Win | W+4.5 | 6.5 | 3125 | 22 | 
+| 2009-07-19 | 2009年韓国囲碁リーグ | Mok Jinseok | Cho Hunhyun | Lose | B+R | 6.5 | 3103 | -10 | 
+| 2009-07-17 | 第1回SKY囲碁杯第12戦 | Cho Hunhyun | An Kwanwuk | Win | B+3.5 | 6.5 | 3113 | 5 | 
+| 2009-07-13 | 第28回KBS杯囲碁王戦本戦2回戦 | Cho Hunhyun | Lee Jungwoo | Lose | W+R | 6.5 | 3108 | -11 | 
+| 2009-07-10 | 第1回SKY囲碁杯第11戦 | Cho Hunhyun |  | Win | B+R | 6.5 | 3119 | 9 | 
+| 2009-07-02 | 2009年韓国囲碁リーグ | Lee Yeongkyu | Cho Hunhyun | Lose | B+4.5 | 6.5 | 3110 | -15 | 
+| 2009-07-01 | 第1回SKY囲碁杯第10戦 | Cho Hunhyun | Seo Nungwuk | Win | B+4.5 | 6.5 | 3125 | 64 | 
+| 2009-06-18 | 2009年韓国囲碁リーグ | Cho Hunhyun | Park Junghwan | Lose | W+6.5 | 6.5 | 3061 | -69 | 
+| 2009-05-24 | 2009年韓国囲碁リーグ | Kang Yootaek | Cho Hunhyun | Lose | B+R | 6.5 | 3130 | 21 | 
+| 2009-05-04 | 第28回KBS杯囲碁王戦本戦1回戦 | An Sungjoon | Cho Hunhyun | Win | W+R | 6.5 | 3109 | 34 | 
+| 2009-04-29 | 第1回BCカード杯世界選手権準決勝 | Cho Hunhyun | Gu Li | Lose | W+0.5 | 6.5 | 3075 | 9 | 
+| 2009-04-24 | 第1回BCカード杯世界選手権4回戦 | Han Wonggyu | Cho Hunhyun | Win | W+0.5 | 6.5 | 3066 | 51 | 
+| 2009-04-02 | 第1回BCカード杯世界選手権3回戦 | Cho Hunhyun | Yun Junsang | Win | B+R | 6.5 | 3015 | 42 | 
+| 2009-03-15 | 第1回BCカード杯世界選手権2回戦 | Zhou Junxun | Cho Hunhyun | Win | W+0.5 | 6.5 | 2973 | 227 | 
+| 2008-11-08 | 2008年韓国囲碁リーグ | Kang Yootaek | Cho Hunhyun | Win | W+3.5 | 6.5 | 2746 | 19 | 
+| 2008-11-07 | 第10回マキシムコーヒー杯入神最強戦2回戦 | Cho Hunhyun | Kim Seungjun | Win | B+R | 6.5 | 2727 | 20 | 
+| 2008-11-03 | 第27回KBS杯囲碁王戦敗者復活戦2回戦 | Cho Hunhyun | Paek Hongseok | Lose | W+R | 6.5 | 2707 | -634 | 
+| 2008-10-24 | 第36期名人戦（韓国）リーグ | Lee Sedol | Cho Hunhyun | Lose | B+R | 6.5 | 3341 | 13 | 
+| 2008-10-17 | 2008年韓国囲碁リーグ | Cho Hunhyun | Lee Chungyu | Lose | W+3.5 | 6.5 | 3328 | -1 | 
+| 2008-10-15 | 第36期名人戦（韓国）リーグ | Choi Myeonghun | Cho Hunhyun | Win | W+R | 6.5 | 3329 | 52 | 
+| 2008-10-09 | 2008年韓国囲碁リーグ | Cho Hunhyun | Han Sanghoon | Win | B+R | 6.5 | 3277 | 59 | 
+| 2008-10-07 | 第36期名人戦（韓国）リーグ | Cho Hanseung | Cho Hunhyun | Lose | B+0.5 | 6.5 | 3218 | -18 | 
+| 2008-09-20 | 2008年韓国囲碁リーグ | Yun Chanhee | Cho Hunhyun | Win | W+R | 6.5 | 3236 | 5 | 
+| 2008-09-14 | 2008年韓国囲碁リーグ | Hong Minpyo | Cho Hunhyun | Lose | B+R | 6.5 | 3231 | -3 | 
+| 2008-09-09 | 第36期名人戦（韓国）リーグ | Lee Changho | Cho Hunhyun | Lose | B+4.5 | 6.5 | 3234 | -3 | 
+| 2008-09-03 | 第13回三星火災杯世界オープン囲碁選手権1回戦 | Chen Yaoye | Cho Hunhyun | Lose | B+1.5 | 6.5 | 3237 | -14 | 
+| 2008-08-19 | 第36期名人戦（韓国）リーグ | Cho Hunhyun | Kang Dongyun | Win | B+R | 6.5 | 3251 | 358 | 
+| 2008-08-10 | 2008年韓国囲碁リーグ | Lee Yeongkyu | Cho Hunhyun | Lose | B+R | 6.5 | 2893 | -32 | 
+| 2008-07-31 | 2008年韓国囲碁リーグ | Cho Hunhyun | Paek Hongseok | Lose | W+R | 6.5 | 2925 | -16 | 
+| 2008-07-24 | 第2回GGオークション杯特別対局 | Cho Hunhyun | Cho Hyeyeon | Win | B+R | 6.5 | 2941 | 15 | 
+| 2008-07-17 | 第10回農心杯韓国選抜戦 | Cho Hunhyun | Yun Junsang | Lose | W+R | 6.5 | 2926 | -3 | 
+| 2008-07-13 | 2008年韓国囲碁リーグ | Cho Hunhyun | Kang Yootaek | Lose | W+3.5 | 6.5 | 2929 | -55 | 
+| 2008-07-09 | 第27回KBS杯囲碁王戦敗者復活戦1回戦 |  | Cho Hunhyun | Win | W+13.5 | 6.5 | 2984 | 16 | 
+| 2008-06-14 | 第4期物価情報杯プロ棋戦リーグA | Hong Seongji | Cho Hunhyun | Win | W+4.5 | 6.5 | 2968 | -18 | 
+| 2008-06-03 | 第36期名人戦（韓国）リーグ | Cho Hunhyun | Mok Jinseok | Lose | W+R | 6.5 | 2986 | 30 | 
+| 2008-05-27 | 第36期名人戦（韓国）リーグ | Cho Hunhyun | Choi Wongyong | Win | B+R | 6.5 | 2956 | 2 | 
+| 2008-05-25 | 2008年韓国囲碁リーグ | Cho Hunhyun | Lee Jungwoo | Win | B+R | 6.5 | 2954 | 34 | 
+| 2008-05-19 | 第27回KBS杯囲碁王戦本戦2回戦 | Park Junghwan | Cho Hunhyun | Lose | B+R | 6.5 | 2920 | -17 | 
+| 2008-05-17 | 2008年韓国囲碁リーグ | Cho Hunhyun | Lee Sedol | Lose | W+R | 6.5 | 2937 | 7 | 
+| 2008-05-14 | 第4期物価情報杯プロ棋戦リーグA | Cho Hunhyun | Kang Jiseong | Lose | W+8.5 | 6.5 | 2930 | 0 | 
+| 2008-05-07 | 第5期電子ランド杯王中王戦1回戦 | Cho Hunhyun | Lee Changho | Lose | W+R | 6.5 | 2930 | -1 | 
+| 2008-04-27 | 2008年韓国囲碁リーグ | Cho Hunhyun | Lee Yeongkyu | Lose | W+4.5 | 6.5 | 2931 | 191 | 
+| 2008-04-17 | 第4期物価情報杯プロ棋戦リーグA | Cho Hunhyun | Lee Sedol | Lose | W+7.5 | 6.5 | 2740 | 14 | 
+| 2008-04-11 | 2008年韓国囲碁リーグ | Kim Kiyoung | Cho Hunhyun | Win | W+R | 6.5 | 2726 | 54 | 
+| 2008-03-25 | 第36期名人戦（韓国）リーグ | Park Cheongsang | Cho Hunhyun | Lose | B+0.5 | 6.5 | 2672 | -5 | 
+| 2008-03-15 | 第5期電子ランド杯王中王戦予選 | Cho Hunhyun | Kim Soojang | Win | B+R | 6.5 | 2677 | 10 | 
+| 2008-03-13 | 第5期電子ランド杯王中王戦予選 | Cho Hunhyun | No Yeongha | Win | B+R | 6.5 | 2667 | 12 | 
+| 2008-02-19 | 第36期名人戦（韓国）リーグ | Cho Hunhyun | Weon Seongjin | Lose | W+R | 6.5 | 2655 | -45 | 
+| 2008-02-01 | 第36期名人戦（韓国）予選 | Cho Hunhyun | Kim Juho | Win | B+R | 6.5 | 2700 | 64 | 
+| 2007-12-14 | 2007年韓国囲碁リーグ | Cho Hanseung | Cho Hunhyun | Lose | B+2.5 | 6.5 | 2636 | -8 | 
+| 2007-12-08 | 2007年韓国囲碁リーグ | Cho Hunhyun | Paek Hongseok | Win | B+R | 6.5 | 2644 | -26 | 
+| 2007-11-17 | 2007年韓国囲碁リーグ | Cho Hunhyun | Kim Soojang | Win | B+R | 6.5 | 2670 | 42 | 
+| 2007-10-25 | 2007年韓国囲碁リーグ | Hong Minpyo | Cho Hunhyun | Win | W+10.5 | 6.5 | 2628 | 8 | 
+| 2007-10-12 | 2007年韓国囲碁リーグ |  | Cho Hunhyun | Win | W+8.5 | 6.5 | 2620 | -56 | 
+| 2007-10-03 | 2007年韓国囲碁リーグ | Kang Dongyun | Cho Hunhyun | Lose | B+0.5 | 6.5 | 2676 | -1270 | 
+| 2007-09-20 | 2007年韓国囲碁リーグ | Cho Hunhyun | Weon Seongjin | Lose | W+R | 6.5 | 3946 | 1266 | 
+| 2007-09-06 | 第12回三星火災杯世界オープン囲碁選手権2回戦 | Huang Yizhong | Cho Hunhyun | Lose | B+7.5 | 6.5 | 2680 | -17 | 
+| 2007-09-04 | 第12回三星火災杯世界オープン囲碁選手権1回戦 | Cho Hunhyun | Song Taekon | Win | B+R | 6.5 | 2697 | 45 | 
+| 2007-08-29 | 2007年韓国囲碁リーグ | Cho Hunhyun | Yoo Changhyuk | Lose | W+3.5 | 6.5 | 2652 | -435 | 
+| 2007-08-02 | 2007年韓国囲碁リーグ | Cho Hunhyun | Lee Huiseong | Win | B+R | 6.5 | 3087 | -8 | 
+| 2007-07-26 | 2007年韓国囲碁リーグ | Cho Hunhyun | Kang Dongyun | Lose | W+R | 6.5 | 3095 | -71 | 
+| 2007-07-20 | 第3期物価情報杯プロ棋戦決勝トーナメント準決勝 | Lee Sedol | Cho Hunhyun | Lose | B+R | 6.5 | 3166 | 35 | 
+| 2007-07-18 | 第51期国手戦（韓国）1回戦 |  | Cho Hunhyun | Lose | B+4.5 | 6.5 | 3131 | 82 | 
+| 2007-07-15 | 2007年韓国囲碁リーグ | Cho Hunhyun | Lee Jaeung | Win | B+R | 6.5 | 3049 | 89 | 
+| 2007-07-12 | 第3期物価情報杯プロ棋戦決勝トーナメント1回戦 | Weon Seongjin | Cho Hunhyun | Win | W+R | 6.5 | 2960 | -69 | 
+| 2007-06-29 | 第3期物価情報杯プロ棋戦リーグB | Lee Changho | Cho Hunhyun | Win | W+R | 6.5 | 3029 | 24 | 
+| 2007-06-21 | 第1回GGオークション杯女流対シニア連勝対抗戦第22戦 | Park Shiun | Cho Hunhyun | Lose | B+0.5 | 6.5 | 3005 | -49 | 
+| 2007-06-20 | 第1回GGオークション杯女流対シニア連勝対抗戦第21戦 | Kim Hyeoimin | Cho Hunhyun | Win | W+R | 6.5 | 3054 | 13 | 
+| 2007-06-17 | 2007年韓国囲碁リーグ | Han Sanghoon | Cho Hunhyun | Lose | B+R | 6.5 | 3041 | -3 | 
+| 2007-06-15 | 第1回GGオークション杯女流対シニア連勝対抗戦第20戦 | Cho Hunhyun | Lee Yongshin | Win | B+R | 6.5 | 3044 | -6 | 
+| 2007-06-11 | 第1回GGオークション杯女流対シニア連勝対抗戦第19戦 | Cho Hunhyun | Cho Hyeyeon | Win | B+5.5 | 6.5 | 3050 | -1 | 
+| 2007-06-09 | 第1回GGオークション杯女流対シニア連勝対抗戦第18戦 | Cho Hunhyun | Yun Youngmin | Win | B+R | 6.5 | 3051 | -3 | 
+| 2007-06-08 | 第1回GGオークション杯女流対シニア連勝対抗戦第17戦 | Cho Hunhyun | Lee Minjin | Win | B+R | 6.5 | 3054 | 40 | 
+| 2007-06-06 | 第12回LG杯世界棋王戦2回戦 | Cho Hunhyun | Hu Yaoyu | Lose | W+2.5 | 6.5 | 3014 | -16 | 
+| 2007-06-04 | 第12回LG杯世界棋王戦1回戦 | Cho Hunhyun | Zhou Junxun | Win | B+2.5 | 6.5 | 3030 | 18 | 
+| 2007-06-02 | 2007年韓国囲碁リーグ | Song Taekon | Cho Hunhyun | Lose | B+1.5 | 6.5 | 3012 | -2 | 
+| 2007-05-29 | 第1回GGオークション杯女流対シニア連勝対抗戦第16戦 | Cho Hunhyun | Kim Eunseon | Win | B+R | 6.5 | 3014 | 5 | 
+| 2007-05-12 | 2007年韓国囲碁リーグ | Yun Chanhee | Cho Hunhyun | Lose | B+2.5 | 6.5 | 3009 | -43 | 
+| 2007-05-07 | 第3期物価情報杯プロ棋戦リーグB | Jin Donggyu | Cho Hunhyun | Win | W+R | 6.5 | 3052 | -25 | 
+| 2007-04-26 | 2007年韓国囲碁リーグ |  | Cho Hunhyun | Win | W+3.5 | 6.5 | 3077 | 10 | 
+| 2007-04-16 | 第3期物価情報杯プロ棋戦リーグD | Hong Seongji | Cho Hunhyun | Lose | B+6.5 | 6.5 | 3067 | -10 | 
+| 2007-04-13 | 第12期バッカス杯天元戦1回戦 | Cho Hunhyun | An Joyeong | Lose | W+6.5 | 6.5 | 3077 | 410 | 
+| 2006-11-11 | 2006年韓国囲碁リーグ | Cho Hunhyun | Park Yeonghun | Win | B+R | 6.5 | 2667 | -23 | 
+| 2006-10-29 | 2006年韓国囲碁リーグ | Cho Hunhyun | Choi Cheolhan | Lose | W+3.5 | 6.5 | 2690 | -91 | 
+| 2006-10-12 | 2006年韓国囲碁リーグ | Cho Hunhyun | Mok Jinseok | Win | B+0.5 | 6.5 | 2781 | 32 | 
+| 2006-10-01 | 2006年韓国囲碁リーグ | Cho Hunhyun | On Sojin | Lose | W+1.5 | 6.5 | 2749 | -34 | 
+| 2006-09-29 | 第18期棋聖戦（韓国）1回戦 | Cho Hunhyun | Song Taekon | Lose | W+R | 6.5 | 2783 | -22 | 
+| 2006-09-22 | 2006年韓国囲碁リーグ | Cho Hunhyun | Lee Changho | Lose | W+R | 6.5 | 2805 | 16 | 
+| 2006-09-13 | 第8回農心辛ラーメン杯世界囲碁最強戦第2戦 | Cho Hunhyun | Hane Naoki | Lose | W+0.5 | 6.5 | 2789 | -60 | 
+| 2006-09-06 | 第11回三星火災杯世界オープン囲碁選手権1回戦 | Wang Yao | Cho Hunhyun | Lose | B+R | 6.5 | 2849 | 2 | 
+| 2006-08-20 | 2006年韓国囲碁リーグ |  | Cho Hunhyun | Win | W+R | 6.5 | 2847 | -1 | 
+| 2006-08-13 | 2006年韓国囲碁リーグ |  | Cho Hunhyun | Win | W+R | 6.5 | 2848 | -22 | 
+| 2006-07-27 | 2006年韓国囲碁リーグ | Cho Hunhyun | Heo Yongho | Lose | W+R | 6.5 | 2870 | -142 | 
+| 2006-07-07 | 2006年韓国囲碁リーグ | Lee Changho | Cho Hunhyun | Lose | B+1.5 | 6.5 | 3012 | -161 | 
+| 2006-06-22 | 2006年韓国囲碁リーグ | Lee Sedol | Cho Hunhyun | Lose | B+R | 6.5 | 3173 | 3 | 
+| 2006-06-20 | 第3期電子ランド杯王中王戦準決勝 | Cho Hunhyun | Lee Changho | Lose | W+9.5 | 6.5 | 3170 | -3 | 
+| 2006-06-12 | 第3期電子ランド杯王中王戦3回戦 | Cho Hunhyun | Hong Seongji | Win | B+R | 6.5 | 3173 | 14 | 
+| 2006-06-08 | 2006年韓国囲碁リーグ | Cho Hunhyun | Mok Jinseok | Win | B+R | 6.5 | 3159 | 22 | 
+| 2006-05-28 | 2006年韓国囲碁リーグ | Yun Junsang | Cho Hunhyun | Win | W+4.5 | 6.5 | 3137 | 23 | 
+| 2006-05-25 | 第2期物価情報杯プロ棋戦リーグD | Lee Sedol | Cho Hunhyun | Lose | B+R | 6.5 | 3114 | 74 | 
+| 2006-05-15 | 第11回LG杯世界棋王戦1回戦 | Cho Hunhyun | Hu Yaoyu | Lose | W+5.5 | 6.5 | 3040 | -6 | 
+| 2006-05-13 | 2006年韓国囲碁リーグ | Cho Hunhyun | On Sojin | Lose | W+R | 6.5 | 3046 | -14 | 
+| 2006-05-09 | 第2期物価情報杯プロ棋戦リーグD | Park Cheongsang | Cho Hunhyun | Win | W+1.5 | 6.5 | 3060 | -2 | 
+| 2006-05-02 | 第3期電子ランド杯王中王戦2回戦 | Cho Hunhyun | Yang Keon | Win | B+1.5 | 6.5 | 3062 | -1 | 
+| 2006-04-28 | 第11回LG杯予選 |  | Cho Hunhyun | Win | W+R | 6.5 | 3063 | 12 | 
+| 2006-04-27 | 第11回LG杯予選 | Cho Hunhyun | Mizokami Tomochika | Win | B+4.5 | 6.5 | 3051 | 0 | 
+| 2006-04-27 | 2006年韓国囲碁リーグ | Park Cheongsang | Cho Hunhyun | Lose | B+R | 6.5 | 3051 | 2 | 
+| 2006-04-26 | 第11回LG杯予選 | Luo Xihe | Cho Hunhyun | Win | W+R | 6.5 | 3049 | 17 | 
+| 2006-04-18 | 第2期物価情報杯プロ棋戦リーグD | Choi Cheolhan | Cho Hunhyun | Lose | B+R | 6.5 | 3032 | -9 | 
+| 2006-04-13 | 第3期電子ランド杯王中王戦1回戦 | Cho Hunhyun |  | Win | B+R | 6.5 | 3041 | 14 | 
+| 2006-03-23 | 第1回江原ランド杯韓中囲碁対抗戦第9戦 | Chang Hao | Cho Hunhyun | Lose | B+5.5 | 6.5 | 3027 | -21 | 
+| 2006-01-04 | 第3期電子ランド杯王中王戦予選 | Cho Hunhyun | Seo Bongsoo | Lose | W+1.5 | 6.5 | 3048 | -8 | 
+| 2005-12-31 | 第7回中国囲碁甲級リーグ第22節 | Zhou Heyang | Cho Hunhyun | Win | W+R | 7.5 | 3056 | -207 | 
+| 2005-12-10 | 第7回中国囲碁甲級リーグ第20節 | Zhou Ruiyang | Cho Hunhyun | Lose | B+R | 7.5 | 3263 | -43 | 
+| 2005-11-26 | 第7回中国囲碁甲級リーグ第18節 | Luo Xihe | Cho Hunhyun | Lose | B+R | 7.5 | 3306 | -6 | 
+| 2005-11-22 | 第49期国手戦（韓国）敗者復活戦3回戦 | Cho Hunhyun | Lee Sedol | Lose | W+R | 6.5 | 3312 | -48 | 
+| 2005-11-16 | 第10回三星火災杯世界オープン囲碁選手権3回戦 | Cho Hunhyun | Choi Cheolhan | Lose | W+R | 6.5 | 3360 | 86 | 
+| 2005-11-13 | 2005年韓国囲碁リーグ | Choi Cheolhan | Cho Hunhyun | Lose | B+3.5 | 6.5 | 3274 | -12 | 
+| 2005-11-12 | 第7回中国囲碁甲級リーグ第17節 | Cho Hunhyun | Dong Yan | Lose | W+R | 7.5 | 3286 | 269 | 
+| 2005-11-08 | 第1回江原ランド杯韓中囲碁対抗戦韓国選抜戦 | Cho Hunhyun | Cho Hanseung | Win | B+3.5 | 6.5 | 3017 | 31 | 
+| 2005-11-03 | 第17期棋聖戦（韓国）1回戦 | Cho Hunhyun | Paek Hongseok | Lose | W+R | 6.5 | 2986 | -247 | 
+| 2005-10-23 | 2005年韓国囲碁リーグ | Cho Hunhyun | Song Taekon | Win | B+R | 6.5 | 3233 | 94 | 
+| 2005-10-20 | 第49期国手戦（韓国）敗者復活戦2回戦 | On Sojin | Cho Hunhyun | Win | W+R | 6.5 | 3139 | 14 | 
+| 2005-10-18 | 第1期圓益杯十段戦2回戦 | Cho Hunhyun | Hong Seongji | Lose | W+1.5 | 6.5 | 3125 | -31 | 
+| 2005-09-30 | 第10回三星火災杯世界オープン囲碁選手権2回戦 | Cho Hunhyun | Wang Xi | Win | B+R | 6.5 | 3156 | 11 | 
+| 2005-09-28 | 第10回三星火災杯世界オープン囲碁選手権1回戦 | Mizokami Tomochika | Cho Hunhyun | Win | W+R | 6.5 | 3145 | 47 | 
+| 2005-09-15 | 第49期国手戦（韓国）本戦2回戦 | Cho Hunhyun | Lee Changho | Lose | W+R | 6.5 | 3098 | 5 | 
+| 2005-09-13 | 第1期圓益杯十段戦1回戦 | Lee Yeongkyu | Cho Hunhyun | Win | W+0.5 | 6.5 | 3093 | -1 | 
+| 2005-09-11 | 2005年韓国囲碁リーグ | Cho Hunhyun | Lee Sedol | Win | B+R | 6.5 | 3094 | 34 | 
+| 2005-09-01 | 第10期バッカス杯天元戦2回戦 | Cho Hunhyun | Ko Keuntae | Lose | W+R | 6.5 | 3060 | -31 | 
+| 2005-08-14 | 2005年韓国囲碁リーグ | Yoo Changhyuk | Cho Hunhyun | Win | W+3.5 | 6.5 | 3091 | 28 | 
+| 2005-08-10 | 第24回KBS杯囲碁王戦敗者復活戦3回戦 | Park Yeonghun | Cho Hunhyun | Lose | B+1.5 | 6.5 | 3063 | -14 | 
+| 2005-08-06 | 第7回中国囲碁甲級リーグ第9節 | Zhou Ruiyang | Cho Hunhyun | Win | W+R | 7.5 | 3077 | 14 | 
+| 2005-08-03 | 第17期棋聖戦（韓国）予選 | Cho Hunhyun | Lee Huiseong | Win | B+R | 6.5 | 3063 | -36 | 
+| 2005-07-27 | 第1期物価情報杯プロ棋戦リーグD | Park Yeonghun | Cho Hunhyun | Win | W+R | 6.5 | 3099 | 24 | 
+| 2005-07-22 | 第10期バッカス杯天元戦1回戦 | Cho Hunhyun | Weon Seongjin | Win | B+R | 6.5 | 3075 | 21 | 
+| 2005-07-19 | 第49期国手戦（韓国）本戦1回戦 | Yoo Changhyuk | Cho Hunhyun | Win | W+0.5 | 6.5 | 3054 | 22 | 
+| 2005-07-17 | 2005年韓国囲碁リーグ | Cho Hunhyun | Lee Changho | Lose | W+R | 6.5 | 3032 | 45 | 
+| 2005-07-05 | 第10期GSカルテックス杯プロ棋戦1回戦 | Cho Hanseung | Cho Hunhyun | Lose | B+2.5 | 6.5 | 2987 | 4 | 
+| 2005-07-03 | 2005年韓国囲碁リーグ | Cho Hunhyun | Mok Jinseok | Lose | W+R | 6.5 | 2983 | 21 | 
+| 2005-06-29 | 第7回農心杯韓国選抜戦 | Cho Hanseung | Cho Hunhyun | Lose | B+7.5 | 6.5 | 2962 | 258 | 
+| 2005-06-24 | 第7回農心杯韓国選抜戦 | Cho Hunhyun | Seo Bongsoo | Win | B+6.5 | 6.5 | 2704 | 34 | 
+| 2005-06-18 | 第7回中国囲碁甲級リーグ第6節 | Dong Yan | Cho Hunhyun | Win | W+R | 7.5 | 2670 | -7 | 
+| 2005-06-13 | 第1期物価情報杯プロ棋戦リーグD | Cho Hunhyun | Lee Huiseong | Lose | W+2.5 | 6.5 | 2677 | -12 | 
+| 2005-06-11 | 第7回中国囲碁甲級リーグ第5節 | Cho Hunhyun | Niu Yutian | Win | B+R | 7.5 | 2689 | 18 | 
+| 2005-06-02 | 2005年韓国囲碁リーグ | Park Yeonghun | Cho Hunhyun | Lose | B+8.5 | 6.5 | 2671 | -9 | 
+| 2005-06-01 | 第1期物価情報杯プロ棋戦リーグD | Yang Keon | Cho Hunhyun | Lose | B+R | 6.5 | 2680 | -68 | 
+| 2005-05-21 | 第7回中国囲碁甲級リーグ第4節 | Qiu Jun | Cho Hunhyun | Win | W+R | 7.5 | 2748 | -46 | 
+| 2005-04-30 | 第7回中国囲碁甲級リーグ第2節 | Li Zhe | Cho Hunhyun | Lose | B+R | 7.5 | 2794 | 70 | 
+| 2005-04-27 | 第24回KBS杯囲碁王戦本戦2回戦 | Cho Hanseung | Cho Hunhyun | Lose | B+R | 6.5 | 2724 | -2 | 
+| 2005-04-21 | 第39期王位戦1回戦 | Weon Seongjin | Cho Hunhyun | Lose | B+R | 6.5 | 2726 | -45 | 
+| 2005-04-19 | 第2期電子ランド杯王中王戦1回戦 | Cho Hunhyun |  | Lose | W+1.5 | 6.5 | 2771 | -465 | 
+| 2005-02-16 | 第24回KBS杯囲碁王戦本戦2回戦 | Hong Minpyo | Cho Hunhyun | Win | W+2.5 | 6.5 | 3236 | 18 | 
+| 2005-02-02 | 第2期電子ランド杯王中王戦予選 | Cho Hunhyun | Lee Sangchul | Win | B+R | 6.5 | 3218 | 154 | 
+| 2004-12-12 | 2004年韓国囲碁リーグ | Lee Changho | Cho Hunhyun | Win | W+R | 6.5 | 3064 | 148 | 
+| 2004-11-14 | 2004年韓国囲碁リーグ | Park Yeonghun | Cho Hunhyun | Win | W+3.5 | 6.5 | 2916 | -226 | 
+| 2004-10-22 | 第48期国手戦（韓国）敗者復活戦2回戦 | Cho Hunhyun | Weon Seongjin | Lose | W+3.5 | 6.5 | 3142 | 6 | 
+| 2004-10-19 | 第9期バッカス杯天元戦準決勝 | Choi Cheolhan | Cho Hunhyun | Lose | B+4.5 | 6.5 | 3136 | 23 | 
+| 2004-10-17 | 2004年韓国囲碁リーグ | Song Taekon | Cho Hunhyun | Win | W+R | 6.5 | 3113 | -198 | 
+| 2004-09-13 | 第1期電子ランド杯王中王戦3回戦 | Cho Hunhyun | Choi Cheolhan | Lose | W+R | 6.5 | 3311 | -34 | 
+| 2004-09-12 | 2004年韓国囲碁リーグ | Cho Hunhyun | Yoo Changhyuk | Win | B+1.5 | 6.5 | 3345 | 3345 | 
+| 2004-09-07 | 第48期国手戦（韓国）敗者復活戦1回戦 | Cho Hunhyun | Yang Keon | Win | B+R | 6.5 | missing | -3046 | 
+| 2004-09-03 | 第9回三星火災杯世界オープン囲碁選手権2回戦 | Cho Hunhyun | Gu Li | Lose | W+R | 6.5 | 3046 | -14 | 
+| 2004-09-01 | 第9回三星火災杯世界オープン囲碁選手権1回戦 | Cho Hunhyun | Wang Yuhui | Win | B+2.5 | 6.5 | 3060 | -21 | 
+| 2004-08-21 | 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Cho Hunhyun | Yuki Satoshi | Lose | W+R | 6.5 | 3081 | -21 | 
+| 2004-08-03 | 第9期バッカス杯天元戦2回戦 | Cho Hunhyun | Song Taekon | Win | B+R | 6.5 | 3102 | 46 | 
+| 2004-07-20 | 第48期国手戦（韓国）本戦1回戦 | Cho Hunhyun | Yun Junsang | Lose | W+R | 6.5 | 3056 | -8 | 
+| 2004-07-18 | 2004年韓国囲碁リーグ | Cho Hunhyun | Choi Cheolhan | Lose | W+R | 6.5 | 3064 | -11 | 
+| 2004-07-09 | 第38期王位戦リーグ | Cho Hunhyun | Lee Sedol | Lose | W+R | 6.5 | 3075 | 3 | 
+| 2004-07-07 | 第23回KBS杯囲碁王戦敗者復活戦準決勝 | Cho Hunhyun | Lee Sedol | Lose | W+R | 6.5 | 3072 | -66 | 
+| 2004-07-04 | 2004年韓国囲碁リーグ | Cho Hunhyun | Mok Jinseok | Lose | W+R | 6.5 | 3138 | 5 | 
+| 2004-06-24 | 第38期王位戦リーグ | Kim Juho | Cho Hunhyun | Lose | B+R | 6.5 | 3133 | 4 | 
+| 2004-06-22 | 第38期王位戦リーグ | Cho Hunhyun | An Joyeong | Lose | W+1.5 | 6.5 | 3129 | -11 | 
+| 2004-06-21 | 第1期電子ランド杯王中王戦予選 | Cho Hunhyun |  | Win | B+R | 6.5 | 3140 | -10 | 
+| 2004-06-09 | 第23回KBS杯囲碁王戦敗者復活戦4回戦 | Paek Hongseok | Cho Hunhyun | Win | W+R | 6.5 | 3150 | 60 | 
+| 2004-05-28 | 第23回KBS杯囲碁王戦本戦4回戦 | Cho Hanseung | Cho Hunhyun | Lose | B+6.5 | 6.5 | 3090 | -17 | 
+| 2004-05-23 | 2004年韓国囲碁リーグ | Cho Hunhyun | Lee Sedol | Lose | W+1.5 | 6.5 | 3107 | -82 | 
+| 2004-05-18 | 第9回LG杯世界棋王戦1回戦 | O Rissei | Cho Hunhyun | Lose | B+2.5 | 6.5 | 3189 | 27 | 
+| 2004-05-07 | 第38期王位戦リーグ | Yoo Changhyuk | Cho Hunhyun | Win | W+R | 6.5 | 3162 | 3162 | 
+| 2004-04-27 | 第9期バッカス杯天元戦1回戦 |  | Cho Hunhyun | Win | W+0.5 | 6.5 | missing | -3201 | 
+| 2004-04-23 | 第38期王位戦リーグ | Cho Hunhyun | Cho Hanseung | Lose | W+R | 6.5 | 3201 | 19 | 
+| 2004-04-21 | 第23回KBS杯囲碁王戦本戦3回戦 | Ryu Chaehyeong | Cho Hunhyun | Win | W+R | 6.5 | 3182 | -3 | 
+| 2004-04-12 | 第17回世界囲碁選手権富士通杯2回戦 | Cho Hunhyun | Yoda Norimoto | Lose | W+4.5 | 6.5 | 3185 | -30 | 
+| 2004-04-10 | 第17回世界囲碁選手権富士通杯1回戦 | Qiu Jun | Cho Hunhyun | Win | W+R | 6.5 | 3215 | 3 | 
+| 2004-04-07 | 2004年中国囲碁乙級リーグ |  | Cho Hunhyun | Win | W+R | 7.5 | 3212 | -4 | 
+| 2004-04-06 | 2004年中国囲碁乙級リーグ | Cho Hunhyun |  | Lose | W+0.5 | 7.5 | 3216 | 4 | 
+| 2004-04-04 | 2004年中国囲碁乙級リーグ | Cho Hunhyun | Jin Shengyu | Win | B+R | 7.5 | 3212 | -10 | 
+| 2004-04-03 | 2004年中国囲碁乙級リーグ |  | Cho Hunhyun | Win | W+R | 7.5 | 3222 | 43 | 
+| 2004-04-01 | 2004年中国囲碁乙級リーグ | Guo Beiya | Cho Hunhyun | Win | W+R | 7.5 | 3179 | -1 | 
+| 2004-03-30 | 2004年中国囲碁乙級リーグ | Cho Hunhyun | Liu Xiaoguang | Win | B+3.5 | 7.5 | 3180 | -20 | 
+| 2004-03-19 | 第38期王位戦リーグ |  | Cho Hunhyun | Lose | B+3.5 | 6.5 | 3200 | -12 | 
+| 2004-03-10 | 第23回KBS杯囲碁王戦本戦2回戦 | Kim Kwangsik | Cho Hunhyun | Win | W+R | 6.5 | 3212 | -2 | 
+| 2004-03-05 | 第38期王位戦リーグ | Cho Hunhyun | Kim Kangkeun | Win | B+R | 6.5 | 3214 | 122 | 
+| 2003-12-31 | 第5回春蘭杯世界囲碁選手権2回戦 | Chang Hao | Cho Hunhyun | Lose | B+R | 7.5 | 3092 | 33 | 
+| 2003-12-15 | 第34期名人戦（韓国）挑戦手合五番勝負第5局 | Cho Hunhyun | Lee Changho | Lose | W+0.5 | 6.5 | 3059 | 2 | 
+| 2003-12-12 | 第34期名人戦（韓国）挑戦手合五番勝負第4局 | Lee Changho | Cho Hunhyun | Win | W+R | 6.5 | 3057 | 33 | 
+| 2003-12-05 | 第34期名人戦（韓国）挑戦手合五番勝負第3局 | Cho Hunhyun | Lee Changho | Lose | W+R | 6.5 | 3024 | -47 | 
+| 2003-12-01 | 第47期国手戦（韓国）敗者復活戦決勝 | Cho Hunhyun |  | Lose | W+8.5 | 6.5 | 3071 | 16 | 
+| 2003-11-29 | 第1回韓国ドリームリーグ | Cho Hunhyun | Song Taekon | Win | B+R | 6.5 | 3055 | 4 | 
+| 2003-11-19 | 第47期国手戦（韓国）敗者復活戦3回戦 | An Joyeong | Cho Hunhyun | Win | W+R | 6.5 | 3051 | 12 | 
+| 2003-11-13 | 第34期名人戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Cho Hunhyun | Lose | B+R | 6.5 | 3039 | -68 | 
+| 2003-11-08 | 第1回韓国ドリームリーグ | Cho Hunhyun | Yoo Changhyuk | Lose | W+R | 6.5 | 3107 | 19 | 
+| 2003-10-31 | 第47期国手戦（韓国）敗者復活戦2回戦 | Cho Hanseung | Cho Hunhyun | Win | W+R | 6.5 | 3088 | 16 | 
+| 2003-10-29 | 第8期バッカス杯天元戦準決勝 | Choi Cheolhan | Cho Hunhyun | Lose | B+R | 6.5 | 3072 | -40 | 
+| 2003-10-25 | 第1回韓国ドリームリーグ | Cho Hunhyun | Seo Bongsoo | Win | B+R | 6.5 | 3112 | -2757 | 
+| 2003-10-15 | 第8期三星杯3回戦 | Cho Chikun | Cho Hunhyun | Lose | B+R | 6.5 | 5869 | -103 | 
+| 2003-10-10 | 第34期名人戦（韓国）挑戦手合五番勝負第1局 | Cho Hunhyun | Lee Changho | Win | B+R | 6.5 | 5972 | 179 | 
+| 2003-10-02 | 第15期棋聖戦（韓国）1回戦 | Cho Hunhyun | Choi Cheolhan | Lose | W+R | 6.5 | 5793 | -11 | 
+| 2003-09-30 | 第34期名人戦（韓国）リーグ | Cho Hunhyun | Lee Sedol | Win | B+R | 6.5 | 5804 | 4 | 
+| 2003-09-27 | 第1回韓国ドリームリーグ | Cho Hunhyun | Lee Changho | Lose | W+0.5 | 6.5 | 5800 | 2903 | 
+| 2003-09-17 | 第8期バッカス杯天元戦2回戦 | Cho Hunhyun | Kim Juho | Win | B+R | 6.5 | 2897 | 14 | 
+| 2003-09-08 | 第34期名人戦（韓国）リーグ | Mok Jinseok | Cho Hunhyun | Win | W+4.5 | 6.5 | 2883 | 25 | 
+| 2003-09-02 | 第47期国手戦（韓国）敗者復活戦1回戦 | Cho Hunhyun | Yang Jaeho | Win | B+R | 6.5 | 2858 | 12 | 
+| 2003-08-29 | 第8期三星杯2回戦 | Cho Hunhyun | Song Taekon | Win | B+R | 6.5 | 2846 | 1 | 
+| 2003-08-27 | 第8期三星杯1回戦 | Cho Hunhyun | Zhang Wendong | Win | B+R | 6.5 | 2845 | -5 | 
+| 2003-08-20 | 第34期名人戦（韓国）リーグ | An Joyeong | Cho Hunhyun | Win | W+R | 6.5 | 2850 | -6 | 
+| 2003-08-16 | 第1回韓国ドリームリーグ | Cho Hunhyun | Park Yeonghun | Win | B+R | 6.5 | 2856 | 103 | 
+| 2003-08-06 | 第37期王位戦挑戦手合五番勝負第4局 | Lee Changho | Cho Hunhyun | Lose | B+R | 6.5 | 2753 | 5 | 
+| 2003-07-28 | 第37期王位戦挑戦手合五番勝負第3局 | Cho Hunhyun | Lee Changho | Win | B+R | 6.5 | 2748 | 30 | 
+| 2003-07-19 | 第37期王位戦挑戦手合五番勝負第2局 | Lee Changho | Cho Hunhyun | Lose | B+1.5 | 6.5 | 2718 | -2 | 
+| 2003-07-11 | 第37期王位戦挑戦手合五番勝負第1局 | Cho Hunhyun | Lee Changho | Lose | W+4.5 | 6.5 | 2720 | -9 | 
+| 2003-07-08 | 第47期国手戦（韓国）本戦1回戦 | Choi Cheolhan | Cho Hunhyun | Lose | B+11.5 | 6.5 | 2729 | -21 | 
+| 2003-07-03 | 第34期名人戦（韓国）リーグ | Heo Yongho | Cho Hunhyun | Lose | B+0.5 | 6.5 | 2750 | -12 | 
+| 2003-06-30 | 第37期王位戦リーグ | Cho Hunhyun | Lee Sedol | Win | B+R | 6.5 | 2762 | 12 | 
+| 2003-06-19 | 第8回LG杯世界棋王戦2回戦 | Mok Jinseok | Cho Hunhyun | Lose | B+R | 6.5 | 2750 | -10 | 
+| 2003-06-11 | 第8期LG精油杯プロ棋戦1回戦 | Cho Hunhyun | An Joyeong | Lose | W+R | 6.5 | 2760 | -10 | 
+| 2003-05-30 | 第34期名人戦（韓国）リーグ | Cho Hunhyun | Yoo Changhyuk | Win | B+1.5 | 6.5 | 2770 | 13 | 
+| 2003-05-26 | 第37期王位戦リーグ | Cho Hunhyun | Seo Bongsoo | Win | B+0.5 | 6.5 | 2757 | 6 | 
+| 2003-05-16 | 第34期名人戦（韓国）リーグ |  | Cho Hunhyun | Win | W+R | 6.5 | 2751 | -9 | 
+| 2003-05-12 | 第8期バッカス杯天元戦1回戦 | Kim Soojang | Cho Hunhyun | Win | W+R | 6.5 | 2760 | -1 | 
+| 2003-05-09 | 第37期王位戦リーグ | Cho Hanseung | Cho Hunhyun | Win | W+R | 6.5 | 2761 | 4 | 
+| 2003-05-02 | 第37期王位戦リーグ | Cho Hunhyun | Ryu Chaehyeong | Win | B+R | 6.5 | 2757 | 3 | 
+| 2003-04-29 | 第2回CSK杯囲碁アジア対抗戦第3戦 | Rin Kaiho | Cho Hunhyun | Win | W+8.5 | 6.5 | 2754 | -6 | 
+| 2003-04-28 | 第2回CSK杯囲碁アジア対抗戦第2戦 | Cho Hunhyun | Kato Masao | Win | B+R | 6.5 | 2760 | -4 | 
+| 2003-04-27 | 第2回CSK杯囲碁アジア対抗戦第1戦 | Yu Bin | Cho Hunhyun | Lose | B+R | 6.5 | 2764 | -17 | 
+| 2003-04-23 | 第3回KAT杯韓国囲碁最強戦 | Cho Hunhyun | Lee Changho | Lose | W+R | 6.5 | 2781 | -12 | 
+| 2003-04-21 | 第37期王位戦リーグ | An Joyeong | Cho Hunhyun | Win | W+R | 6.5 | 2793 | 17 | 
+| 2003-04-17 | 第14期棋聖戦（韓国）挑戦手合五番勝負第5局 | Lee Changho | Cho Hunhyun | Lose | B+8.5 | 6.5 | 2776 | -5 | 
+| 2003-04-14 | 第16回世界囲碁選手権富士通杯2回戦 | O Rissei | Cho Hunhyun | Lose | B+4.5 | 6.5 | 2781 | -12 | 
+| 2003-04-12 | 第16回世界囲碁選手権富士通杯1回戦 | Kato Masao | Cho Hunhyun | Win | W+3.5 | 6.5 | 2793 | 25 | 
+| 2003-04-09 | 2003年中国囲碁乙級リーグ | Niu Yutian | Cho Hunhyun | Lose | B+R | 7.5 | 2768 | -10 | 
+| 2003-04-08 | 2003年中国囲碁乙級リーグ | Cho Hunhyun | Seto Taiki | Win | B+R | 7.5 | 2778 | -32 | 
+| 2003-04-06 | 2003年中国囲碁乙級リーグ |  | Cho Hunhyun | Win | W+R | 7.5 | 2810 | -6 | 
+| 2003-04-05 | 2003年中国囲碁乙級リーグ | Cho Hunhyun | Wang Lei (b) | Win | B+R | 7.5 | 2816 | 30 | 
+| 2003-04-03 | 2003年中国囲碁乙級リーグ | Rui Naiwei | Cho Hunhyun | Win | W+R | 7.5 | 2786 | 5 | 
+| 2003-04-02 | 2003年中国囲碁乙級リーグ | Cho Hunhyun | Jiang Zhujiu | Win | B+R | 7.5 | 2781 | 8 | 
+| 2003-04-01 | 2003年中国囲碁乙級リーグ |  | Cho Hunhyun | Win | W+R | 7.5 | 2773 | 16 | 
+| 2003-03-26 | 第34期名人戦（韓国）リーグ | Cho Hunhyun | Song Taekon | Win | B+R | 6.5 | 2757 | 7 | 
+| 2003-03-24 | 第37期王位戦リーグ | Cho Hunhyun | Park Cheongsang | Win | B+R | 6.5 | 2750 | -4 | 
+| 2003-03-19 | 第37期王位戦リーグ | Kim Juho | Cho Hunhyun | Lose | B+R | 6.5 | 2754 | -10 | 
+| 2003-03-17 | 第3回KAT杯韓国囲碁最強戦 | Yoo Changhyuk | Cho Hunhyun | Win | W+5.5 | 6.5 | 2764 | -39 | 
+| 2003-03-06 | 第14期棋聖戦（韓国）挑戦手合五番勝負第4局 | Cho Hunhyun | Lee Changho | Win | B+R | 6.5 | 2803 | 48 | 
+| 2003-02-22 | 第2期KT杯マスターズプロ棋戦4回戦 | Lee Sedol | Cho Hunhyun | Lose | B+6.5 | 6.5 | 2755 | 5 | 
+| 2003-02-20 | 第14期棋聖戦（韓国）挑戦手合五番勝負第3局 | Lee Changho | Cho Hunhyun | Lose | B+R | 6.5 | 2750 | -5 | 
+| 2003-02-14 | 第14期棋聖戦（韓国）挑戦手合五番勝負第2局 | Cho Hunhyun | Lee Changho | Win | B+R | 6.5 | 2755 | 7 | 
+| 2003-02-12 | 第3回KAT杯韓国囲碁最強戦 | Cho Hunhyun | Choi Myeonghun | Lose | W+0.5 | 6.5 | 2748 | -13 | 
+| 2003-02-06 | 第8期LG精油杯プロ棋戦予選 | Cho Hunhyun | Kim Soojang | Win | B+R | 6.5 | 2761 | 31 | 
+| 2003-02-04 | 第14期棋聖戦（韓国）挑戦手合五番勝負第1局 | Lee Changho | Cho Hunhyun | Lose | B+7.5 | 6.5 | 2730 | 19 | 
+| 2003-01-27 | 第2期KT杯マスターズプロ棋戦3回戦 | Cho Hunhyun | Kim Seongrae | Win | B+R | 6.5 | 2711 | 34 | 
+| 2003-01-20 | 第4回農心辛ラーメン杯世界囲碁最強戦第11戦 | Cho Hunhyun | Hu Yaoyu | Lose | W+1.5 | 6.5 | 2677 | -19 | 
+| 2003-01-14 | 第7期三星杯決勝三番勝負第2局 | Cho Hunhyun | Wang Lei (b) | Win | B+R | 6.5 | 2696 | 14 | 
+| 2003-01-13 | 第7期三星杯決勝三番勝負第1局 | Wang Lei (b) | Cho Hunhyun | Win | W+12.5 | 6.5 | 2682 | 16 | 
+| 2003-01-10 | 第14期棋聖戦（韓国）挑戦者決定戦三番勝負第3局 | Cho Hunhyun | Yun Junsang | Win | B+R | 6.5 | 2666 | 6 | 
+| 2003-01-06 | 第7期バッカス杯天元戦決勝五番勝負第5局 | Cho Hunhyun | Song Taekon | Lose | W+1.5 | 6.5 | 2660 | 2 | 
+| 2003-01-03 | 第14期棋聖戦（韓国）挑戦者決定戦三番勝負第2局 | Yun Junsang | Cho Hunhyun | Win | W+R | 6.5 | 2658 | 5 | 
+| 2002-12-26 | 第4回春蘭杯世界囲碁選手権3回戦 | Hane Naoki | Cho Hunhyun | Lose | B+R | 7.5 | 2653 | -4 | 
+| 2002-12-12 | 第14期棋聖戦（韓国）挑戦者決定戦三番勝負第1局 | Cho Hunhyun | Yun Junsang | Lose | W+R | 6.5 | 2657 | -14 | 
+| 2002-12-11 | 第7期バッカス杯天元戦決勝五番勝負第4局 | Cho Hunhyun | Song Taekon | Win | B+5.5 | 6.5 | 2671 | 20 | 
+| 2002-12-09 | 第46期国手戦（韓国）挑戦者決定戦第2局 | Cho Hunhyun | Cho Hanseung | Lose | W+R | 6.5 | 2651 | -6 | 
+| 2002-12-06 | 第46期国手戦（韓国）挑戦者決定戦第1局 | Cho Hanseung | Cho Hunhyun | Lose | B+9.5 | 6.5 | 2657 | -9 | 
+| 2002-12-04 | 第7期バッカス杯天元戦決勝五番勝負第3局 | Song Taekon | Cho Hunhyun | Lose | B+R | 6.5 | 2666 | -5 | 
+| 2002-12-02 | 第14期棋聖戦（韓国）準決勝 | Cho Hunhyun | Park Yeonghun | Win | B+4.5 | 6.5 | 2671 | 32 | 
+| 2002-11-21 | 第4回中国囲碁甲級リーグ第20節 | Cho Hunhyun | Song Xuelin | Win | B+R | 7.5 | 2639 | 15 | 
+| 2002-11-18 | 第7期バッカス杯天元戦決勝五番勝負第2局 | Cho Hunhyun | Song Taekon | Lose | W+R | 6.5 | 2624 | -28 | 
+| 2002-11-13 | 第7期三星杯準決勝三番勝負第2局 | Wang Yuhui | Cho Hunhyun | Win | W+3.5 | 6.5 | 2652 | 7 | 
+| 2002-11-12 | 第7期三星杯準決勝三番勝負第1局 | Cho Hunhyun | Wang Yuhui | Win | B+R | 6.5 | 2645 | -4 | 
+| 2002-11-07 | 第4回中国囲碁甲級リーグ第18節 | Cho Hunhyun | Dong Yan | Lose | W+T | 7.5 | 2649 | -19 | 
+| 2002-11-04 | 第14期棋聖戦（韓国）2回戦 |  | Cho Hunhyun | Win | W+R | 6.5 | 2668 | 4 | 
+| 2002-10-31 | 第7回LG杯世界棋王戦3回戦 | Cho Hunhyun | Cho Hanseung | Lose | W+0.5 | 6.5 | 2664 | -6 | 
+| 2002-10-28 | 第7期バッカス杯天元戦決勝五番勝負第1局 | Song Taekon | Cho Hunhyun | Win | W+R | 6.5 | 2670 | 29 | 
+| 2002-10-26 | 第46期国手戦（韓国）勝者組決勝 | Cho Hanseung | Cho Hunhyun | Win | W+R | 6.5 | 2641 | 14 | 
+| 2002-10-17 | 第7期三星杯3回戦 | Cho Hunhyun | Luo Xihe | Win | B+0.5 | 6.5 | 2627 | -43 | 
+| 2002-10-04 | 第7期バッカス杯天元戦準決勝 | Kim Soojang | Cho Hunhyun | Win | W+R | 6.5 | 2670 | -5 | 
+| 2002-10-02 | 第46期国手戦（韓国）本戦2回戦 | Cho Hunhyun | Rui Naiwei | Win | B+R | 6.5 | 2675 | 4 | 
+| 2002-09-30 | 第2期KT杯マスターズプロ棋戦2回戦 | Hong Jansik | Cho Hunhyun | Win | W+R | 6.5 | 2671 | -1 | 
+| 2002-09-26 | 第2回KAT杯韓国囲碁最強戦 | Cho Daehyeon | Cho Hunhyun | Lose | B+9.5 | 6.5 | 2672 | 9 | 
+| 2002-09-11 | 第2期KT杯マスターズプロ棋戦1回戦 | An Joyeong | Cho Hunhyun | Win | W+R | 6.5 | 2663 | -30 | 
+| 2002-08-30 | 第7期三星杯2回戦 | Cho Hunhyun | Peng Quan | Win | B+1.5 | 6.5 | 2693 | 15 | 
+| 2002-08-28 | 第7期三星杯1回戦 | Wang Xi | Cho Hunhyun | Win | W+R | 6.5 | 2678 | 16 | 
+| 2002-08-22 | 第2回KAT杯韓国囲碁最強戦 | Cho Hunhyun | Choi Myeonghun | Win | B+7.5 | 6.5 | 2662 | 3 | 
+| 2002-08-21 | 第7期バッカス杯天元戦2回戦 | Cho Hunhyun | Mok Jinseok | Win | B+R | 6.5 | 2659 | 93 | 
+| 2002-08-19 | 第33期名人戦（韓国）リーグ | Yoo Changhyuk | Cho Hunhyun | Win | W+2.5 | 6.5 | 2566 | 7 | 
+| 2002-08-16 | 第7期LG精油杯プロ棋戦2回戦 | Park Yeonghun | Cho Hunhyun | Lose | B+R | 6.5 | 2559 | 129 | 
+| 2002-08-02 | 第14期棋聖戦（韓国）1回戦 | Lee Yungsoo | Cho Hunhyun | Win | W+R | 6.5 | 2430 | -3 | 
+| 2002-07-31 | 第46期国手戦（韓国）本戦1回戦 | Cho Hunhyun | Jiang Zhujiu | Win | B+5.5 | 6.5 | 2433 | 5 | 
+| 2002-07-24 | 第33期名人戦（韓国）リーグ | Cho Hunhyun |  | Win | B+8.5 | 6.5 | 2428 | 1 | 
+| 2002-07-22 | 第4回農心杯韓国選抜戦 | Cho Hunhyun |  | Win | B+10.5 | 6.5 | 2427 | -14 | 
+| 2002-06-27 | 第4回中国囲碁甲級リーグ第11節 | Ma Xiaochun | Cho Hunhyun | Win | W+R | 7.5 | 2441 | 20 | 
+| 2002-06-24 | 第33期名人戦（韓国）リーグ | Choi Myeonghun | Cho Hunhyun | Win | W+R | 6.5 | 2421 | 3 | 
+| 2002-06-21 | 第7期バッカス杯天元戦1回戦 | Kang Hun | Cho Hunhyun | Win | W+3.5 | 6.5 | 2418 | 11 | 
+| 2002-06-19 | 第7期LG精油杯プロ棋戦1回戦 | Cho Hunhyun | Choi Kyubyeong | Win | B+R | 6.5 | 2407 | 0 | 
+| 2002-06-14 | 第33期名人戦（韓国）リーグ | Cho Hunhyun | Mok Jinseok | Win | B+R | 6.5 | 2407 | 17 | 
+| 2002-05-29 | 第1回KAT杯韓国囲碁最強戦 | Cho Hunhyun | Yoo Changhyuk | Lose | W+7.5 | 6.5 | 2390 | -4 | 
+| 2002-05-20 | 第4回春蘭杯世界囲碁選手権2回戦 | Ding Wei | Cho Hunhyun | Win | W+R | 7.5 | 2394 | 191 | 
+| 2002-05-02 | 第7回LG杯世界棋王戦2回戦 | Cho Chikun | Cho Hunhyun | Win | W+R | 6.5 | 2203 | 21 | 
+| 2002-04-29 | 第45期国手戦（韓国）挑戦手合五番勝負第4局 | Lee Changho | Cho Hunhyun | Lose | B+R | 6.5 | 2182 | -6 | 
+| 2002-04-27 | 第1回KAT杯韓国囲碁最強戦 | Choi Myeonghun | Cho Hunhyun | Win | W+4.5 | 6.5 | 2188 | -13 | 
+| 2002-04-25 | 第4回中国囲碁甲級リーグ第4節 | Cho Hunhyun | Cao Dayuan | Win | B+R | 7.5 | 2201 | -93 | 
+| 2002-04-20 | 第33期名人戦（韓国）リーグ | An Joyeong | Cho Hunhyun | Lose | B+0.5 | 6.5 | 2294 | -14 | 
+| 2002-04-18 | 第45期国手戦（韓国）挑戦手合五番勝負第3局 | Cho Hunhyun | Lee Changho | Lose | W+R | 6.5 | 2308 | -55 | 
+| 2002-04-04 | 第45期国手戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Cho Hunhyun | Lose | B+2.5 | 6.5 | 2363 | -61 | 
+| 2002-04-01 | 第6回LG杯世界棋王戦決勝五番勝負第5局 | Yoo Changhyuk | Cho Hunhyun | Lose | B+4.5 | 6.5 | 2424 | -18 | 
+| 2002-03-29 | 第6回LG杯世界棋王戦決勝五番勝負第4局 | Yoo Changhyuk | Cho Hunhyun | Lose | B+R | 6.5 | 2442 | -20 | 
+| 2002-03-27 | 第6回LG杯世界棋王戦決勝五番勝負第3局 | Cho Hunhyun | Yoo Changhyuk | Win | B+4.5 | 6.5 | 2462 | -608 | 
+| 2002-03-11 | 第45期国手戦（韓国）挑戦手合五番勝負第1局 | Cho Hunhyun | Lee Changho | Win | B+R | 6.5 | 3070 | 27 | 
+| 2002-03-07 | 第1期KT杯マスターズプロ棋戦決勝三番勝負第3局 | Cho Hunhyun | Choi Cheolhan | Win | B+18.5 | 6.5 | 3043 | 14 | 
+| 2002-02-28 | 第6回LG杯世界棋王戦決勝五番勝負第2局 | Yoo Changhyuk | Cho Hunhyun | Win | W+R | 6.5 | 3029 | 16 | 
+| 2002-02-26 | 第6回LG杯世界棋王戦決勝五番勝負第1局 | Cho Hunhyun | Yoo Changhyuk | Lose | W+1.5 | 6.5 | 3013 | -44 | 
+| 2002-02-21 | 第1期KT杯マスターズプロ棋戦決勝三番勝負第2局 | Cho Hunhyun | Choi Cheolhan | Lose | W+13.5 | 6.5 | 3057 | -48 | 
+| 2002-02-15 | 第1期KT杯マスターズプロ棋戦決勝三番勝負第1局 | Choi Cheolhan | Cho Hunhyun | Win | W+15.5 | 6.5 | 3105 | -4 | 
+| 2002-02-05 | 第1期KT杯マスターズプロ棋戦準決勝 | Cho Hunhyun | Seo Bongsoo | Win | B+R | 6.5 | 3109 | -94 | 
+| 2002-01-30 | 第3回農心辛ラーメン杯世界囲碁最強戦第12戦 | Cho Hunhyun | Chang Hao | Lose | W+6.5 | 6.5 | 3203 | -11 | 
+| 2002-01-29 | 第3回農心辛ラーメン杯世界囲碁最強戦第11戦 | Cho Hunhyun | Yu Bin | Win | B+R | 6.5 | 3214 | 7 | 
+| 2002-01-25 | 第33期名人戦（韓国）リーグ |  | Cho Hunhyun | Win | W+R | 6.5 | 3207 | 50 | 
+| 2002-01-22 | 第1期KT杯マスターズプロ棋戦4回戦 | Cho Hunhyun |  | Win | B+R | 6.5 | 3157 | -57 | 
+| 2002-01-18 | 第6回LG杯世界棋王戦準決勝 | Lee Changho | Cho Hunhyun | Win | W+R | 6.5 | 3214 | -35 | 
+| 2002-01-04 | 第33期名人戦（韓国）リーグ | Cho Hunhyun | Lee Sedol | Lose | W+R | 6.5 | 3249 | 3249 | 
+| 2001-12-18 | 第1期KT杯マスターズプロ棋戦3回戦 | Cho Hunhyun | Choi Munyong | Win | B+R | 6.5 | missing | -3283 | 
+| 2001-12-14 | 第6期三星杯決勝三番勝負第3局 | Cho Hunhyun | Chang Hao | Win | B+2.5 | 6.5 | 3283 | 0 | 
+| 2001-12-12 | 第6期三星杯決勝三番勝負第2局 | Chang Hao | Cho Hunhyun | Win | W+0.5 | 6.5 | 3283 | 27 | 
+| 2001-12-11 | 第6期三星杯決勝三番勝負第1局 | Cho Hunhyun | Chang Hao | Lose | W+0.5 | 6.5 | 3256 | 73 | 
+| 2001-11-07 | 第6期三星杯準決勝三番勝負第2局 | Cho Hunhyun | Ma Xiaochun | Win | B+R | 6.5 | 3183 | 11 | 
+| 2001-11-06 | 第6期三星杯準決勝三番勝負第1局 | Ma Xiaochun | Cho Hunhyun | Win | W+R | 6.5 | 3172 | 11 | 
+| 2001-10-26 | 第6回LG杯世界棋王戦3回戦 | Yamashita Keigo | Cho Hunhyun | Win | W+R | 6.5 | 3161 | -10 | 
+| 2001-10-11 | 第6期三星杯3回戦 | Cho Hunhyun |  | Win | B+R | 6.5 | 3171 | 94 | 
+| 2001-09-27 | 第1期KT杯マスターズプロ棋戦2回戦 | Lee Hyeonwuk | Cho Hunhyun | Win | W+R | 6.5 | 3077 | -5870 | 
+| 2001-09-06 | 第32期名人戦（韓国）プレーオフ | Yoo Changhyuk | Cho Hunhyun | Lose | B+0.5 | 6.5 | 8947 | -31 | 
+| 2001-09-03 | 第32期名人戦（韓国）リーグ | Yoo Changhyuk | Cho Hunhyun | Win | W+R | 6.5 | 8978 | 80 | 
+| 2001-08-31 | 第6期三星杯2回戦 | Han Zenki | Cho Hunhyun | Win | W+R | 6.5 | 8898 | -47 | 
+| 2001-08-29 | 第6期三星杯1回戦 | Ryu Shikun | Cho Hunhyun | Win | W+R | 6.5 | 8945 | 6003 | 
+| 2001-08-21 | 第36期覇王戦本戦第1局 | Yoo Changhyuk | Cho Hunhyun | Lose | B+R | 6.5 | 2942 | 186 | 
+| 2001-07-31 | 第32期名人戦（韓国）リーグ | Cho Hunhyun | Yang Jaeho | Lose | W+0.5 | 6.5 | 2756 | -150 | 
+| 2001-07-23 | 第32期名人戦（韓国）リーグ | Cho Hunhyun | Choi Myeonghun | Win | B+R | 6.5 | 2906 | 80 | 
+| 2001-06-14 | 第6回LG杯世界棋王戦2回戦 | Cho Hunhyun | Cho Chikun | Win | B+R | 6.5 | 2826 | 113 | 
+| 2001-05-21 | 第32期名人戦（韓国）リーグ | Im Seongkeun | Cho Hunhyun | Win | W+R | 6.5 | 2713 | 14 | 
+| 2001-05-14 | 第32期名人戦（韓国）リーグ | Cho Hunhyun |  | Win | B+R | 6.5 | 2699 | -112 | 
+| 2001-04-07 | 第44期国手戦（韓国）挑戦手合五番勝負第3局 | Rui Naiwei | Cho Hunhyun | Win | W+R | 6.5 | 2811 | 2811 | 
+| 2001-03-18 | 第2回農心辛ラーメン杯世界囲碁最強戦第13戦 | Cho Hunhyun | Kato Masao | Lose | W+3.5 | 6.5 | missing | -2879 | 
+| 2001-03-17 | 第2回農心辛ラーメン杯世界囲碁最強戦第12戦 | Yu Bin | Cho Hunhyun | Win | W+R | 6.5 | 2879 | 11 | 
+| 2001-03-16 | 第2回農心辛ラーメン杯世界囲碁最強戦第11戦 | Yamashita Keigo | Cho Hunhyun | Win | W+4.5 | 6.5 | 2868 | 2868 | 
+| 2001-03-12 | 第32期名人戦（韓国）リーグ |  | Cho Hunhyun | Win | W+R | 6.5 | missing | -2865 | 
+| 2001-03-09 | 第35期覇王戦挑戦手合五番勝負第4局 | Cho Hunhyun | Lee Changho | Lose | W+R | 6.5 | 2865 | -22 | 
+| 2001-03-06 | 第44期国手戦（韓国）挑戦手合五番勝負第2局 | Cho Hunhyun | Rui Naiwei | Win | B+4.5 | 6.5 | 2887 | 26 | 
+| 2001-03-02 | 第35期覇王戦挑戦手合五番勝負第3局 | Lee Changho | Cho Hunhyun | Win | W+R | 6.5 | 2861 | 25 | 
+| 2001-02-23 | 第35期覇王戦挑戦手合五番勝負第2局 | Cho Hunhyun | Lee Changho | Lose | W+R | 6.5 | 2836 | -2 | 
+| 2001-02-20 | 第44期国手戦（韓国）挑戦手合五番勝負第1局 | Rui Naiwei | Cho Hunhyun | Win | W+R | 6.5 | 2838 | -77 | 
+| 2001-02-12 | 第32期名人戦（韓国）リーグ | Cho Hunhyun | Mok Jinseok | Win | B+R | 6.5 | 2915 | -74 | 
+| 2001-02-02 | 第44期国手戦（韓国）挑戦者決定戦第3局 | Cho Hunhyun | Lee Changho | Win | B+R | 6.5 | 2989 | 12 | 
+| 2001-01-19 | 第44期国手戦（韓国）挑戦者決定戦第2局 | Cho Hunhyun | Lee Changho | Lose | W+3.5 | 6.5 | 2977 | -6 | 
+| 2001-01-16 | 第35期覇王戦挑戦手合五番勝負第1局 | Lee Changho | Cho Hunhyun | Lose | B+7.5 | 6.5 | 2983 | -6 | 
+| 2001-01-12 | 第35期覇王戦本戦第19局 | Cho Hunhyun | Lee Changho | Win | B+10.5 | 6.5 | 2989 | 42 | 
+| 2001-01-09 | 第44期国手戦（韓国）挑戦者決定戦第1局 | Lee Changho | Cho Hunhyun | Win | W+R | 6.5 | 2947 | 40 | 
+| 2001-01-05 | 第44期国手戦（韓国）敗者復活戦決勝 | Cho Hunhyun | Paek Daehyun | Win | B+R | 6.5 | 2907 | 2907 | 
+| 2000-12-22 | 第44期国手戦（韓国）敗者復活戦3回戦 | Kim Seungjun | Cho Hunhyun | Win | W+R | 6.5 | missing | 0 | 
+| 2000-11-14 | 第5回LG杯世界棋王戦3回戦 | O Rissei | Cho Hunhyun | Lose | B+16.5 | 6.5 | missing | 0 | 
+| 2000-11-03 | 第44期国手戦（韓国）敗者復活戦2回戦 | Yang Keon | Cho Hunhyun | Win | W+R | 6.5 | missing | 0 | 
+| 2000-10-23 | 第31期名人戦（韓国）挑戦手合五番勝負第3局 | Cho Hunhyun | Lee Changho | Lose | W+1.5 | 6.5 | missing | 0 | 
+| 2000-10-10 | 第31期名人戦（韓国）挑戦手合五番勝負第2局 | Lee Changho | Cho Hunhyun | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-10-04 | 第5期三星杯3回戦 | Seo Bongsoo | Cho Hunhyun | Lose | B+5.5 | 6.5 | missing | 0 | 
+| 2000-09-27 | 第31期名人戦（韓国）挑戦手合五番勝負第1局 | Cho Hunhyun | Lee Changho | Lose | W+R | 6.5 | missing | 0 | 
+| 2000-09-18 | 第31期名人戦（韓国）挑戦者決定戦 | Cho Hunhyun | Choi Myeonghun | Win | B+R | 6.5 | missing | 0 | 
+| 2000-09-07 | 第44期国手戦（韓国）敗者復活戦1回戦 | Cho Hunhyun |  | Win | B+R | 6.5 | missing | 0 | 
+| 2000-09-04 | 第31期名人戦（韓国）リーグ | Cho Hunhyun | Yoo Changhyuk | Win | B+5.5 | 6.5 | missing | 0 | 
+| 2000-09-01 | 第5期三星杯2回戦 | Ko Mosei | Cho Hunhyun | Win | W+R | 6.5 | missing | 0 | 
+| 2000-08-30 | 第5期三星杯1回戦 | Kobayashi Satoru | Cho Hunhyun | Win | W+R | 6.5 | missing | 0 | 
+| 2000-08-08 | 第31期名人戦（韓国）リーグ | Cho Hunhyun | Mok Jinseok | Lose | W+0.5 | 6.5 | missing | 0 | 
+| 2000-08-04 | 第8期倍達王戦2回戦 | Cho Hunhyun | Lee Sedol | Lose | W+8.5 | 6.5 | missing | 0 | 
+| 2000-07-24 | 第44期国手戦（韓国）本戦1回戦 | Paek Daehyun | Cho Hunhyun | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-07-21 | 第8期倍達王戦1回戦 | Choi Myeonghun | Cho Hunhyun | Win | W+7.5 | 6.5 | missing | 0 | 
+| 2000-07-18 | 第31期名人戦（韓国）リーグ | Cho Hunhyun | Choi Myeonghun | Lose | W+R | 6.5 | missing | 0 | 
+| 2000-07-13 | 第12期棋聖戦（韓国）1回戦 | Cho Hunhyun | Choi Kyubyeong | Lose | W+0.5 | 6.5 | missing | 0 | 
+| 2000-06-15 | 第5回LG杯世界棋王戦2回戦 | Cho Hunhyun | Cho Chikun | Win | B+R | 6.5 | missing | 0 | 
+| 2000-05-23 | 第31期名人戦（韓国）リーグ | Cho Hunhyun | Im Changsik | Win | B+R | 6.5 | missing | 0 | 
+| 2000-05-10 | 第19回KBS杯囲碁王戦敗者復活戦1回戦 | Cho Hunhyun | Mok Jinseok | Lose | W+R | 6.5 | missing | 0 | 
+| 2000-05-02 | 第4回応氏杯世界選手権2回戦 | Cho Hunhyun | O Meien | Lose | W+3 | 7.5 | missing | 0 | 
+| 2000-04-24 | 第5期バッカス杯天元戦1回戦 | Kim Seungjun | Cho Hunhyun | Win | W+R | 6.5 | missing | 0 | 
+| 2000-04-21 | 第31期名人戦（韓国）リーグ | Yang Jaeho | Cho Hunhyun | Win | W+R | 6.5 | missing | 0 | 
+| 2000-03-22 | 第1回農心辛ラーメン杯世界囲碁最強戦第9戦 | Cho Hunhyun | Chang Hao | Lose | W+3.5 | 6.5 | missing | 0 | 
+| 2000-03-15 | 第31期名人戦（韓国）リーグ | Choi Kyubyeong | Cho Hunhyun | Win | W+R | 6.5 | missing | 0 | 
+| 2000-03-06 | 第19回KBS杯囲碁王戦本戦2回戦 | Cho Hunhyun | Park Shiun | Lose | W+R | 6.5 | missing | 0 | 
+| 2000-02-10 | 第4回LG杯世界棋王戦準決勝 | Cho Hunhyun | Yu Bin | Lose | W+2.5 | 6.5 | missing | 0 | 
+| 2000-01-26 | 第31期名人戦（韓国）リーグ | Kim Seungjun | Cho Hunhyun | Win | W+R | 6.5 | missing | 0 | 
+| 2000-01-22 | 第1回農心辛ラーメン杯世界囲碁最強戦第8戦 | Yoda Norimoto | Cho Hunhyun | Win | W+R | 6.5 | missing | 0 | 
+| 1999-11-15 | 第4回LG杯世界棋王戦3回戦 | Cho Hunhyun | Wang Lei (b) | Win | B+R | 6.5 | missing | 0 | 
+| 1999-09-09 | 第4期三星杯2回戦 | Cho Hunhyun | Chang Hao | Lose | W+1.5 | 6.5 | missing | 0 | 
+| 1999-09-07 | 第4期三星杯1回戦 | Cho Hunhyun | Nakano Hironari | Win | B+R | 6.5 | missing | 0 | 
+| 1999-06-17 | 第4回LG杯世界棋王戦2回戦 | Shao Weigang | Cho Hunhyun | Win | W+R | 6.5 | missing | 0 | 
+| 1999-06-15 | 第4回LG杯世界棋王戦1回戦 | Cho Hunhyun | Cao Dayuan | Win | B+R | 6.5 | missing | 0 | 
+| 1998-06-18 | 第3回LG杯世界棋王戦2回戦 | Yu Bin | Cho Hunhyun | Lose | B+2.5 | 6.5 | missing | 0 | 
+| 1996-04-28 | 第3回応氏杯世界選手権3回戦 | Yoda Norimoto | Cho Hunhyun | Lose | B+3 | 7.5 | missing | 0 | 
+| 1996-04-26 | 第3回応氏杯世界選手権2回戦 | Cho Hunhyun | Awaji Shuzo | Win | B+R | 7.5 | missing | 0 | 
+| 1996-04-24 | 第3回応氏杯世界選手権1回戦 | Zhang Wendong | Cho Hunhyun | Win | W+3 | 7.5 | missing | 0 | 
+| 1992-07-15 | 第2回応氏杯世界選手権2回戦 | Awaji Shuzo | Cho Hunhyun | Lose | B+3 | 7.5 | missing | 0 | 
+| 1989-09-05 | 第1回応氏杯世界選手権決勝五番勝負第5局 | Cho Hunhyun | Nie Weiping | Win | B+R | 7.5 | missing | 0 | 
+| 1989-09-02 | 第1回応氏杯世界選手権決勝五番勝負第4局 | Cho Hunhyun | Nie Weiping | Win | B+1 | 7.5 | missing | 0 | 
+| 1989-05-02 | 第1回応氏杯世界選手権決勝五番勝負第3局 | Nie Weiping | Cho Hunhyun | Lose | B+3 | 7.5 | missing | 0 | 
+| 1989-04-28 | 第1回応氏杯世界選手権決勝五番勝負第2局 | Cho Hunhyun | Nie Weiping | Lose | W+9 | 7.5 | missing | 0 | 
+| 1989-04-25 | 第1回応氏杯世界選手権決勝五番勝負第1局 | Nie Weiping | Cho Hunhyun | Win | W+3 | 7.5 | missing | 0 | 
+| 1988-11-22 | 第1回応氏杯世界選手権準決勝三番勝負第2局 | Cho Hunhyun | Rin Kaiho | Win | B+5 | 7.5 | missing | 0 | 
+| 1988-11-20 | 第1回応氏杯世界選手権準決勝三番勝負第1局 | Rin Kaiho | Cho Hunhyun | Win | W+R | 7.5 | missing | 0 | 
+| 1988-08-23 | 第1回応氏杯世界選手権2回戦 | Cho Hunhyun | Kobayashi Koichi | Win | B+1 | 7.5 | missing | 0 | 
+| 1988-08-21 | 第1回応氏杯世界選手権1回戦 | Cho Hunhyun | O Meien | Win | B+R | 7.5 | missing | missing |
 
 
 

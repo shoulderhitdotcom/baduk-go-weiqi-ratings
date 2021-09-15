@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-15 | 第48期天元戦予選 | Ota Ryou | Yokota Shigeaki | Win | W+R | 6.5 | 2499 | 2499 | 
 | 2021-06-30 | 第47期名人戦予選 | Murakawa Daisuke | Yokota Shigeaki | Lose | B+1.5 | 6.5 | missing | 0 | 
 | 2021-04-21 | 第60期十段戦予選 | Yuki Satoshi | Yokota Shigeaki | Lose | B+R | 6.5 | missing | 0 | 
 | 2021-02-18 | 第46期棋聖戦予選 | Yokota Shigeaki | Hikosaka Naoto | Lose | W+4.5 | 6.5 | missing | 0 | 

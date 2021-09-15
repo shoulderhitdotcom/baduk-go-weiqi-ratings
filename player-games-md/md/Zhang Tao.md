@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-15 | 第12期中国竜星戦Bブロック5回戦 | Chen Haoxin | Zhang Tao | Win | W+R | 7.5 | 3476 | 17 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tong Mengcheng | Zhang Tao | Lose | B+¾ | 7.5 | 3459 | 0 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zhang Tao | Ding Hao | Win | B+R | 7.5 | 3459 | -21 | 
 | 2021-09-03 | 第12期中国竜星戦予選 | Fan Yin | Zhang Tao | Win | W+2¼ | 7.5 | 3480 | 25 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Zhang Tao | Tong Mengcheng | Win | B+R | 7.5 | 3455 | 18 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Yi Lingtao | Zhang Tao | Win | W+R | 7.5 | 3437 | 3437 | 
@@ -154,7 +157,7 @@
 | 2016-05-16 | 第18回中国囲碁甲級リーグ第5節 | Xie Erhao | Zhang Tao | Lose | B+R | 7.5 | 2937 | -59 | 
 | 2016-05-09 | 第18回中国囲碁甲級リーグ第4節 | Lee Donghoon | Zhang Tao | Lose | B+R | 7.5 | 2996 | -13 | 
 | 2016-05-02 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 |  | Zhang Tao | Lose | B+R | 7.5 | 3009 | -1 | 
-| 2016-05-01 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 |  | Zhang Tao | Win | W+R | 7.5 | 3010 | 11 | 
+| 2016-05-01 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Ma Yichao | Zhang Tao | Win | W+R | 7.5 | 3010 | 11 | 
 | 2016-04-30 | 第18回中国囲碁甲級リーグ第3節 | Huang Yunsong | Zhang Tao | Lose | B+R | 7.5 | 2999 | 6 | 
 | 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Han Yizhou | Zhang Tao | Lose | B+R | 7.5 | 2993 | -14 | 
 | 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Wang Xi | Zhang Tao | Lose | B+R | 7.5 | 3007 | -5 | 

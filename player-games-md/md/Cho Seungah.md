@@ -7,6 +7,13 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-15 | 第5期韓国製紙女子棋聖戦予選 | Cho Seungah |  | Lose | W+0.5 | 6.5 | 3172 | -11 | 
+| 2021-09-10 | 2021女子最高棋士決定戦（韓国）リーグ | Cho Seungah | Cho Hyeyeon | Win | B+10.5 | 6.5 | 3183 | 3183 | 
+| 2021-09-03 | 2021女子最高棋士決定戦（韓国）リーグ | Choi Jeong | Cho Seungah | Win | W+R | 6.5 | missing | 0 | 
+| 2021-09-02 | 第3期ソパルコサノル最高棋士決定戦予選 | Heo Yongho | Cho Seungah | Lose | B+R | 6.5 | missing | -3167 | 
+| 2021-08-26 | 第7回韓国女子囲碁リーグ | Cho Seungah | Kim Hyeoimin | Win | B+0.5 | 6.5 | 3167 | 3167 | 
+| 2021-08-25 | 第26回三星火災杯韓国予選 | Cho Seungah | Choi Jeong | Win | B+R | 6.5 | missing | -3158 | 
+| 2021-08-24 | 第26回三星火災杯韓国予選 | Park Jiyeon | Cho Seungah | Win | W+T | 6.5 | 3158 | 0 | 
 | 2021-08-24 | 第26回三星火災杯韓国予選 | Park Jiyeon | Cho Seungah | Win | W+R | 6.5 | 3158 | 22 | 
 | 2021-08-21 | 第26回三星火災杯韓国予選 |  | Cho Seungah | Win | W+R | 6.5 | 3136 | 33 | 
 | 2021-08-14 | 第7回韓国女子囲碁リーグ | Cho Seungah |  | Win | B+R | 6.5 | 3103 | -55 | 

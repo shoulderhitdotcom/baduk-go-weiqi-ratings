@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-15 | 2021韓国シニア囲碁リーグ | Park Yeongchan | Chang Suyeong | Lose | B+5.5 | 6.5 | 2393 | 81 | 
+| 2021-09-08 | 2021韓国シニア囲碁リーグ | Oh Kyuchul | Chang Suyeong | Lose | B+R | 6.5 | 2312 | -28 | 
+| 2021-09-01 | 2021韓国シニア囲碁リーグ | Paek Seongho | Chang Suyeong | Lose | B+R | 6.5 | 2340 | -63 | 
 | 2021-08-17 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Chang Suyeong | Lose | B+3.5 | 6.5 | 2403 | 172 | 
 | 2021-08-05 | 2021韓国シニア囲碁リーグ | Park Seungmun | Chang Suyeong | Win | W+5.5 | 6.5 | 2231 | -171 | 
 | 2021-01-18 | 2021年韓国棋院杯シニア囲碁大会準決勝 | Chang Suyeong | Seo Nungwuk | Lose | W+R | 6.5 | 2402 | 81 | 

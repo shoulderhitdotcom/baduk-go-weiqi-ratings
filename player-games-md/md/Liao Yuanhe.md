@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-15 | 第12期中国竜星戦Aブロック5回戦 | Wu Guangya | Liao Yuanhe | Win | W+1¼ | 7.5 | 3580 | 11 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Liao Yuanhe | Li Qincheng | Lose | W+R | 7.5 | 3569 | -30 | 
 | 2021-09-03 | 第12期中国竜星戦予選 | Li Weiqing | Liao Yuanhe | Win | W+R | 7.5 | 3599 | 22 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Yang Kaiwen | Liao Yuanhe | Win | W+R | 7.5 | 3577 | 26 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Liao Yuanhe | Liao Xingwen | Win | B+R | 7.5 | 3551 | 36 | 
@@ -269,7 +271,7 @@
 | 2015-07-02 | 第17期阿含・桐山杯中国早碁オープン戦1回戦 | Liao Yuanhe | Chen Yaoye | Lose | W+2.5 | 7.5 | 3090 | -17 | 
 | 2015-06-28 | 第7期中国竜星戦予選 | Liao Yuanhe | Chen Yunong | Lose | W+4.5 | 7.5 | 3107 | -31 | 
 | 2015-06-27 | 第7期中国竜星戦予選 | Fan Yin | Liao Yuanhe | Win | W+0.5 | 7.5 | 3138 | -64 | 
-| 2015-06-23 | 2015年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 |  | Liao Yuanhe | Lose | B+R | 7.5 | 3202 | -57 | 
+| 2015-06-23 | 2015年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Ma Yichao | Liao Yuanhe | Lose | B+R | 7.5 | 3202 | -57 | 
 | 2015-06-22 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Ding Shixiong | Liao Yuanhe | Lose | B+R | 7.5 | 3259 | -59 | 
 | 2015-06-20 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Liao Yuanhe | Ke Jie | Lose | W+R | 7.5 | 3318 | -55 | 
 | 2015-06-16 | 第17期阿含・桐山杯中国早碁オープン戦予選 | Liao Yuanhe | Xie He | Win | B+R | 7.5 | 3373 | -40 | 

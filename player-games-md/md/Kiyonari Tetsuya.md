@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-15 | 第47期名人戦予選 | Kiyonari Tetsuya | Nakano Yasuhiro | Win | B+R | 6.5 | 2891 | 153 | 
 | 2021-09-08 | 第47期碁聖戦予選 | Kiyonari Tetsuya | Fujii Shuya | Win | B+R | 6.5 | 2738 | 139 | 
 | 2021-08-04 | 第47期碁聖戦予選 | Kiyonari Tetsuya | Hoshikawa Manabu | Win | B+R | 6.5 | 2599 | -40 | 
 | 2021-03-04 | 第77期本因坊戦予選 | Kiyonari Tetsuya | Yuki Satoshi | Lose | W+3.5 | 6.5 | 2639 | -237 | 

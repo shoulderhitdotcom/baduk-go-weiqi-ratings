@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-15 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Kim Chongsu | Win | B+5.5 | 6.5 | 2989 | -43 | 
+| 2021-09-08 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Kim Soojang | Win | B+R | 6.5 | 3032 | -20 | 
+| 2021-09-01 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Yoo Changhyuk | Lose | W+R | 6.5 | 3052 | -128 | 
 | 2021-08-17 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Kim Ilhwan | Lose | W+2.5 | 6.5 | 3180 | -2 | 
 | 2021-08-05 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Kim Kihun | Win | B+R | 6.5 | 3182 | 66 | 
 | 2021-04-14 | 第8回大舟杯プロシニア最強者戦決勝 | Seo Bongsoo | Yoo Changhyuk | Win | B+2.5 | 6.5 | 3116 | 62 | 

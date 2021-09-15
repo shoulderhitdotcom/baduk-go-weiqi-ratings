@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-15 | 第47期名人戦予選 | Kiyonari Tetsuya | Nakano Yasuhiro | Lose | B+R | 6.5 | 2696 | 2696 | 
+| 2021-08-25 | 第70期王座戦予選 | Nakano Yasuhiro | Yu Zhengqi | Lose | W+R | 6.5 | missing | -2757 | 
 | 2021-07-29 | 第70期王座戦予選 | Takashima Yugo | Nakano Yasuhiro | Win | W+2.5 | 6.5 | 2757 | -9 | 
 | 2021-06-16 | 第60期十段戦予選 |  | Nakano Yasuhiro | Lose | B+R | 6.5 | 2766 | -21 | 
 | 2021-02-17 | 第77期本因坊戦予選 | Nakano Yasuhiro | Ha Youngil | Lose | W+1.5 | 6.5 | 2787 | -329 | 

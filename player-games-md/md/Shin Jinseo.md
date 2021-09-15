@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-15 | 第13回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Shin Jinseo | Tang Weixing | Win | B+R | 7.5 | 3823 | 11 | 
 | 2021-09-13 | 第13回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Tang Weixing | Shin Jinseo | Win | W+¼ | 7.5 | 3812 | 0 | 
 | 2021-09-13 | 第13回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Tang Weixing | Shin Jinseo | Win | W+¼ | 7.5 | 3812 | 1 | 
 | 2021-09-10 | 第4期韓国竜星戦決勝三番勝負第3局 | Park Junghwan | Shin Jinseo | Win | W+R | 6.5 | 3811 | -14 | 

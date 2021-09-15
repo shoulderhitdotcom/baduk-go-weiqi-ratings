@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-15 | 2021韓国シニア囲碁リーグ | Kim Chuljung | Kim Dongmyeon | Win | B+7.5 | 6.5 | 2529 | 113 | 
+| 2021-09-08 | 2021韓国シニア囲碁リーグ | Kim Chuljung |  | Win | B+R | 6.5 | 2416 | 57 | 
 | 2021-08-05 | 2021韓国シニア囲碁リーグ | Kim Chuljung | Cho Daehyeon | Win | B+3.5 | 6.5 | 2359 | -29 | 
 | 2020-10-26 | 2020NHシニア囲碁リーグ第14節第1試合第1局 | Kim Chuljung | No Yeongha | Win | B+T | 6.5 | 2388 | 21 | 
 | 2020-10-20 | 2020NHシニア囲碁リーグ第13節第2試合第3局 | Kim Chuljung | Chang Suyeong | Lose | W+6.5 | 6.5 | 2367 | -99 | 

@@ -74,6 +74,7 @@ for name in names_to_update
                     )
                 leftjoin(ratings_to_merge_on, on = :Date=>:date)
                 sort!(:Date, rev=true)
+                unique([:Date, :Comp, :Black, :White, :Result, Symbol("Game result"), :Komi])
                 @transform :Rating_diff = @c vcat(
                     diff(
                         coalesce.(:Rating, 0) |> reverse

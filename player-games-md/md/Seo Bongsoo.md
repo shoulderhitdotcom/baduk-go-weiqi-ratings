@@ -71,7 +71,6 @@
 | 2019-06-09 | 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | O Meien | Seo Bongsoo | Win | W+R | 6.5 | 2527 | 0 | 
 | 2019-06-09 | 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | Rui Naiwei | Seo Bongsoo | Lose | B+T | 6.5 | 2527 | 19 | 
 | 2019-06-08 | 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Seo Bongsoo | Liu Xiaoguang | Win | B+1.5 | 6.5 | 2508 | 60 | 
-| 2019-05-13 | 第6回大舟杯プロシニア最強者戦準決勝 | Seo Bongsoo | Cho Hyeyeon | Lose | W+1.5 | 6.5 | 2448 | 0 | 
 | 2019-05-13 | 第6回大舟杯プロシニア最強者戦準決勝 | Seo Bongsoo | Cho Hyeyeon | Lose | W+1.5 | 6.5 | 2448 | -91 | 
 | 2019-04-16 | 第3回中日韓囲碁元老戦準決勝 | Yu Bin | Seo Bongsoo | Lose | B+1¾ | 7.5 | 2539 | -21 | 
 | 2019-04-15 | 第3回中日韓囲碁元老戦1回戦 | Seo Bongsoo | Cao Dayuan | Win | B+R | 7.5 | 2560 | 27 | 

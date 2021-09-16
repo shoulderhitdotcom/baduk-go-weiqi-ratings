@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ichiriki Ryo vs Yu Zhengqi** | **Ichiriki Ryo streak** | **Yu Zhengqi streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-07-26 | 第46期棋聖戦Sリーグ  | Yu Zhengqi | Ichiriki Ryo | W+R | 6.5 | 7:5 | 4 | 0 | 
 | 2021-01-07 | 第46期名人戦リーグ  | Ichiriki Ryo | Yu Zhengqi | B+R | 6.5 | 6:5 | 3 | 0 | 
 | 2019-08-26 | 第44期棋聖戦Aリーグ | Ichiriki Ryo | Yu Zhengqi | B+1.5 | 6.5 | 5:5 | 2 | 0 | 
 | 2018-12-06 | 第74期本因坊戦リーグ | Yu Zhengqi | Ichiriki Ryo | W+R | 6.5 | 4:5 | 1 | 0 | 

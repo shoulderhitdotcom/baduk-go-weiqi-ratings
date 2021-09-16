@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-16 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Oh Kyuchul | Lose | W+2.5 | 6.5 | 2576 | 14 | 
+| 2021-09-09 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Park Seungmun | Win | B+8.5 | 6.5 | 2562 | 107 | 
 | 2021-09-02 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Kang Hun | Win | B+0.5 | 6.5 | 2455 | -39 | 
 | 2021-08-17 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Chang Suyeong | Win | B+3.5 | 6.5 | 2494 | 60 | 
 | 2021-08-11 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Park Yeongchan | Win | B+0.5 | 6.5 | 2434 | 132 | 

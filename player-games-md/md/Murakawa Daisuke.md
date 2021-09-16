@@ -7,12 +7,13 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-16 | 第46期棋聖戦Sリーグ | Murakawa Daisuke | Yu Zhengqi | Lose | W+2.5 | 6.5 | 3246 | -62 | 
+| 2021-09-09 | 第47期碁聖戦予選 | Sato Yuta | Murakawa Daisuke | Win | W+R | 6.5 | 3308 | -10 | 
 | 2021-09-01 | 第47期名人戦予選 | Hong Seokui | Murakawa Daisuke | Win | W+1.5 | 6.5 | 3318 | 63 | 
 | 2021-08-23 | 第28期阿含・桐山杯全日本早碁オープン戦準決勝 | Murakawa Daisuke | Iyama Yuta | Lose | W+R | 6.5 | 3255 | 28 | 
 | 2021-08-16 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Murakawa Daisuke | Win | W+R | 6.5 | 3227 | -12 | 
 | 2021-08-09 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Yamashita Keigo | Murakawa Daisuke | Win | W+R | 6.5 | 3239 | 55 | 
-| 2021-07-15 | 第48期天元戦予選 | Murakawa Daisuke | Hoshikawa Koyo | Win | B+R | 6.5 | 3184 | -1 | 
-| 2021-07-15 | 第48期天元戦予選 | Murakawa Daisuke | Hoshikawa Koyo | Win | B+R | 6.5 | 3185 | -5 | 
+| 2021-07-15 | 第48期天元戦予選 | Murakawa Daisuke | Hoshikawa Koyo | Win | B+R | 6.5 | 3184 | -6 | 
 | 2021-06-30 | 第47期名人戦予選 | Murakawa Daisuke | Yokota Shigeaki | Win | B+1.5 | 6.5 | 3190 | 23 | 
 | 2021-06-24 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Murakawa Daisuke | Rin Kanketsu | Win | B+R | 6.5 | 3167 | 4 | 
 | 2021-06-17 | 第46期棋聖戦Sリーグ  | Murakawa Daisuke | Ichiriki Ryo | Lose | W+R | 6.5 | 3163 | 25 | 

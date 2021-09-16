@@ -7,12 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-16 | 第47期碁聖戦予選 | Kato Atsushi | Hsu Chiayuan | Win | W+R | 6.5 | 3386 | -27 | 
 | 2021-08-26 | 第28期阿含・桐山杯全日本早碁オープン戦準決勝 | Motoki Katsuya | Hsu Chiayuan | Win | W+R | 6.5 | 3413 | 10 | 
 | 2021-08-19 | 第46期棋聖戦Aリーグ | Mutsuura Yuta | Hsu Chiayuan | Win | W+R | 6.5 | 3403 | 3403 | 
 | 2021-08-12 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Seto Taiki | Hsu Chiayuan | Win | W+R | 6.5 | missing | -3370 | 
 | 2021-08-06 | 第46期名人戦リーグ  | Kono Rin | Hsu Chiayuan | Win | W+0.5 | 6.5 | 3370 | 52 | 
-| 2021-07-15 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Hsu Chiayuan | Win | W+6.5 | 6.5 | 3318 | -1 | 
-| 2021-07-15 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Hsu Chiayuan | Win | W+6.5 | 6.5 | 3319 | 3 | 
+| 2021-07-15 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Hsu Chiayuan | Win | W+6.5 | 6.5 | 3318 | 2 | 
 | 2021-07-12 | 第69期王座戦2回戦 | Ida Atsushi | Hsu Chiayuan | Lose | B+R | 6.5 | 3316 | 2 | 
 | 2021-07-08 | 第46期名人戦リーグ  | Hsu Chiayuan | Hane Naoki | Lose | W+R | 6.5 | 3314 | -21 | 
 | 2021-06-17 | 第46期棋聖戦Aリーグ | Hsu Chiayuan | Hane Naoki | Lose | W+R | 6.5 | 3335 | 19 | 
@@ -124,7 +124,7 @@
 | 2019-07-04 | 第26期阿含・桐山杯全日本早碁オープン戦1回戦 | Sun Zhe | Hsu Chiayuan | Lose | B+R | 6.5 | 2995 | -18 | 
 | 2019-06-30 | 第44期碁聖戦挑戦手合五番勝負第1局  | Hane Naoki | Hsu Chiayuan | Lose | B+R | 6.5 | 3013 | -17 | 
 | 2019-06-27 | 第44期棋聖戦Sリーグ | Takao Shinji | Hsu Chiayuan | Win | W+R | 6.5 | 3030 | -2 | 
-| 2019-06-16 | 2019年中国囲碁乙級リーグ |  | Hsu Chiayuan | Lose | B+R | 7.5 | 3032 | 5 | 
+| 2019-06-16 | 2019年中国囲碁乙級リーグ | Liu Zhaozhe | Hsu Chiayuan | Lose | B+R | 7.5 | 3032 | 5 | 
 | 2019-06-15 | 2019年中国囲碁乙級リーグ | Chen Shiyuan | Hsu Chiayuan | Win | W+R | 7.5 | 3027 | 5 | 
 | 2019-06-06 | 第75期本因坊戦予選 | Mutsuura Yuta | Hsu Chiayuan | Win | W+R | 6.5 | 3022 | 7 | 
 | 2019-06-03 | 第45期天元戦3回戦 | Hsu Chiayuan | Sakai Hideyuki | Win | B+R | 6.5 | 3015 | 66 | 

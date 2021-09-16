@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-16 | 第12期中国竜星戦Bブロック6回戦 | Huang Yunsong | Zhang Tao | Win | B+2¾ | 7.5 | 3547 | 22 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Huang Mingyu | Huang Yunsong | Win | W+R | 7.5 | 3525 | 0 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Chen Yunong | Huang Yunsong | Win | W+R | 7.5 | 3525 | -21 | 
 | 2021-09-03 | 第12期中国竜星戦予選 | Zhou Ruiyang | Huang Yunsong | Win | W+¼ | 7.5 | 3546 | 21 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Huang Yunsong | Ding Shixiong | Win | B+R | 7.5 | 3525 | 17 | 
 | 2021-08-31 | 第12期中国竜星戦予選 |  | Huang Yunsong | Win | W+R | 7.5 | 3508 | 25 | 
@@ -18,8 +21,7 @@
 | 2021-08-20 | 第26回三星火災杯中国予選 | Huang Yunsong | Zhao Chenyu | Lose | W+R | 6.5 | missing | -3563 | 
 | 2021-08-18 | 第26回三星火災杯中国予選 | Li Weiqing | Huang Yunsong | Lose | B+R | 6.5 | 3563 | 102 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Tang Weixing | Huang Yunsong | Win | W+R | 6.5 | 3461 | 14 | 
-| 2021-08-13 | 第26回三星火災杯中国予選 | Huang Yunsong | Tu Xiaoyu | Win | B+R | 6.5 | 3447 | -1 | 
-| 2021-08-13 | 第26回三星火災杯中国予選 | Huang Yunsong | Tu Xiaoyu | Win | B+R | 6.5 | 3448 | 36 | 
+| 2021-08-13 | 第26回三星火災杯中国予選 | Huang Yunsong | Tu Xiaoyu | Win | B+R | 6.5 | 3447 | 35 | 
 | 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Huang Yunsong | Peng Liyao | Lose | W+R | 7.5 | 3412 | -30 | 
 | 2021-07-14 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Huang Yunsong | Ding Hao | Lose | W+R | 7.5 | 3442 | -4 | 
 | 2021-07-12 | 第17回倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Ding Hao | Huang Yunsong | Lose | B+R | 7.5 | 3446 | -5 | 
@@ -118,7 +120,7 @@
 | 2018-07-07 | 第23回三星火災杯統合予選決勝 | Huang Yunsong | Shin Minjun | Lose | W+R | 6.5 | 3235 | 0 | 
 | 2018-07-04 | 第23回三星火災杯統合予選2回戦 | Huang Yunsong | Han Taehee | Win | B+R | 6.5 | 3235 | 14 | 
 | 2018-06-25 | 第20回中国囲碁甲級リーグ第9節江蘇-江西 | Huang Yunsong | Li Xiangyu | Lose | W+R | 7.5 | 3221 | -59 | 
-| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節成都-江蘇 |  | Huang Yunsong | Win | W+R | 7.5 | 3280 | -43 | 
+| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節成都-江蘇 | Ma Yichao | Huang Yunsong | Win | W+R | 7.5 | 3280 | -43 | 
 | 2018-05-21 | 第20回中国囲碁甲級リーグ第7節江蘇-重慶 | Huang Yunsong | Gu Li | Win | B+1¾ | 7.5 | 3323 | 39 | 
 | 2018-05-17 | 嫘祖杯第31回中国囲棋名人戦16強戦 | Yang Dingxin | Huang Yunsong | Lose | B+R | 7.5 | 3284 | -6 | 
 | 2018-05-16 | 嫘祖杯第31回中国囲棋名人戦32強戦 | Tang Weixing | Huang Yunsong | Win | W+¼ | 7.5 | 3290 | -28 | 
@@ -218,7 +220,7 @@
 | 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦2回戦 | Huang Yunsong | Tong Mengcheng | Lose | W+R | 7.5 | 3240 | 0 | 
 | 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yunsong | Xie He | Win | B+R | 7.5 | 3240 | 26 | 
 | 2016-05-27 | 第1回新奥杯世界囲碁オープン戦予選 | Weon Seongjin | Huang Yunsong | Win | W+R | 7.5 | 3214 | 22 | 
-| 2016-05-22 | 第18回中国囲碁甲級リーグ第6節 |  | Huang Yunsong | Win | W+R | 7.5 | 3192 | 4 | 
+| 2016-05-22 | 第18回中国囲碁甲級リーグ第6節 | Ma Yichao | Huang Yunsong | Win | W+R | 7.5 | 3192 | 4 | 
 | 2016-05-20 | 第6回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Huang Yunsong | Ke Jie | Lose | W+R | 7.5 | 3188 | 64 | 
 | 2016-05-18 | 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Chen Zijian | Huang Yunsong | Win | W+R | 7.5 | 3124 | -4 | 
 | 2016-05-16 | 第18回中国囲碁甲級リーグ第5節 | Xie Ke | Huang Yunsong | Lose | B+R | 7.5 | 3128 | -73 | 
@@ -325,7 +327,7 @@
 | 2014-04-01 | 第27期中国囲碁名人戦予選 | Huang Yunsong | Tong Yulin | Lose | W+R | 7.5 | 3363 | 20 | 
 | 2014-03-27 | 第11期倡棋杯中国プロ囲碁選手権戦予選 | Huang Yunsong | Liao Xingwen | Win | B+R | 7.5 | 3343 | -5 | 
 | 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Huang Yunsong | Mi Yuting | Lose | W+R | 7.5 | 3348 | 2 | 
-| 2014-02-21 | 第8期リコー杯新秀戦決勝 |  | Huang Yunsong | Win | W+R | 7.5 | 3346 | 8 | 
+| 2014-02-21 | 第8期リコー杯新秀戦決勝 | Ma Yichao | Huang Yunsong | Win | W+R | 7.5 | 3346 | 8 | 
 | 2014-02-20 | 第8期リコー杯新秀戦準決勝 | Huang Yunsong | Chen Xian | Win | B+R | 7.5 | 3338 | 8 | 
 | 2014-02-18 | 第14期リコー杯囲碁戦4回戦 | Huang Yunsong | Wu Guangya | Lose | W+4.5 | 7.5 | 3330 | -3 | 
 | 2014-02-17 | 第14期リコー杯囲碁戦3回戦 | Yang Dingxin | Huang Yunsong | Win | W+0.5 | 7.5 | 3333 | -92 | 

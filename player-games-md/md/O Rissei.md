@@ -5,537 +5,542 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第77期本因坊戦予選 | Yamashita Keigo | O Rissei | B+2.5 | 2021-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IhMZxb9rglzF6q%2FjmZSCuw%3D%3D) | 
-| 第69期王座戦予選 | Ida Atsushi | O Rissei | B+3.5 | 2021-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mz0MMl8pIHzSWzB2vn4tEA%3D%3D) | 
-| 第77期本因坊戦予選 | Ogaki Yusaku | O Rissei | W+R | 2021-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LrQxxxwa4D%2BCBx7NYRRhEA%3D%3D) | 
-| 第69期王座戦予選 | Fujita Akihiko | O Rissei | W+1.5 | 2021-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=boAGoIOdUGW3w4tEJyqvMg%3D%3D) | 
-| 第69期王座戦予選 | Rin Shien | O Rissei | W+R | 2021-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aqI2mkFal%2BfP1oqizel4Dw%3D%3D) | 
-| 第46期棋聖戦予選 | O Rissei | Kanda Ei | W+5.5 | 2021-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fUyb%2BjyOQzDSPxHBWDlV9Q%3D%3D) | 
-| 第46期碁聖戦予選 | O Rissei | Shiraishi Yuichi | W+7.5 | 2020-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hYnYsDZiPFNJ9gh9ogiy2A%3D%3D) | 
-| 第47期天元戦予選 | O Rissei | Uchida Shuhei | W+R | 2020-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=92PTp1jFIAqo8fzE1cln0Q%3D%3D) | 
-| 第59期十段戦2回戦 | O Rissei | Takao Shinji | W+R | 2020-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VhLNDI6HL1ZQGguqrsq3wg%3D%3D) | 
-| 第47期天元戦予選 | O Rissei | missing | B+R | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xo8hsIElqRoGpD6GbgiI8w%3D%3D) | 
-| 第59期十段戦予選 | O Rissei | Yukawa Mitsuhisa | B+R | 2020-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xT90nWLoVyggV2uh4YKh7w%3D%3D) | 
-| 第76期本因坊戦予選 | O Rissei | Onishi Ryuhei | W+R | 2020-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rgDMofmzdfBg7DHeioRoOg%3D%3D) | 
-| 第76期本因坊戦予選 | Nakane Naoyuki | O Rissei | W+R | 2020-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mbkJJQw8MLZgU2ifzyqk6A%3D%3D) | 
-| 第46期名人戦予選 | O Rissei | Cho Chikun | W+2.5 | 2020-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5IqBM1K47PPKJ3RV0Ly3aw%3D%3D) | 
-| 第76期本因坊戦予選 | O Rissei | Takeuchi Kousuke | B+R | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=977krtKbOGfEm0GmXamH2g%3D%3D) | 
-| 第46期名人戦予選 | Iguchi Hideichiro | O Rissei | W+R | 2020-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bx90zWJd96mUO9JKUf1Isw%3D%3D) | 
-| 第76期本因坊戦予選 | O Rissei | Awaji Shuzo | B+1.5 | 2020-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TerMJGvALuv2RcVXJrInEQ%3D%3D) | 
-| 第46期名人戦予選 | Kuwabara Shun | O Rissei | W+R | 2020-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tazaWXTILN8Qo5unhtg5ww%3D%3D) | 
-| 第45期棋聖戦ファーストトーナメント予選 | O Rissei | Inaba Takahiro | W+2.5 | 2019-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=elgMeAZEdlSX6vg9bt7VIA%3D%3D) | 
-| 第46期名人戦予選 | Hara Sachiko | O Rissei | W+2.5 | 2019-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MfYIhMxuOKHX3Cp0uneErQ%3D%3D) | 
-| 第45期棋聖戦ファーストトーナメント予選 | Miyazawa Goro | O Rissei | W+R | 2019-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gckoCzczhDL7I368PYz5qg%3D%3D) | 
-| 第45期棋聖戦ファーストトーナメント予選 | O Rissei | Okuda Aya | B+R | 2019-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XyjXQ52qcd%2BrLDG6u%2BC8EQ%3D%3D) | 
-| 第68期王座戦予選 | O Rissei | Numadate Sakiya | W+6.5 | 2019-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JMA%2BEjfle3zMlKDk9dgbrg%3D%3D) | 
-| 第58期十段戦1回戦 | Motoki Katsuya | O Rissei | B+2.5 | 2019-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BNh26MNQbf88%2BA9ZpCe%2BJQ%3D%3D) | 
-| 第45期碁聖戦予選 | Kim Sujun | O Rissei | W+R | 2019-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JWd3KaYajd1B%2FunE5KPXtA%3D%3D) | 
-| 第45期碁聖戦予選 | O Rissei | Komatsu Hideki | B+R | 2019-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q4jVW7YO7LGsbXSKPD7bAA%3D%3D) | 
-| 第58期十段戦予選 | Akiyama Jiro | O Rissei | W+R | 2019-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cowHFXrxYDizC8yrZFOREQ%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会個人戦決勝 | Yu Bin | O Rissei | W+5.5 | 2019-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mZDW1sLcAs%2B2kTEl3LGULw%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | O Rissei | Seo Bongsoo | W+R | 2019-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6xD6E3CI7wCn9TJFlWS9eQ%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会個人戦準決勝 | Seo Bongsoo | O Rissei | W+R | 2019-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q4ENT3W5BrgvxpuNwyb58A%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | O Rissei | Rui Naiwei | B+R | 2019-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0hSBy%2Fi8aF6W2fL8ZDJa6A%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | Kobayashi Koichi | O Rissei | W+R | 2019-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GnfwJatuxt8pWSbx5JsNTQ%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | O Rissei | Kobayashi Koichi | B+9.5 | 2019-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qr0BzuTHmlWfPPecIFHucA%3D%3D) | 
-| 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Yoo Changhyuk | O Rissei | W+R | 2019-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fBBBTsAQhSCH0rsrHebOpQ%3D%3D) | 
-| 第9回フマキラー囲碁マスターズカップ2回戦 | Yoda Norimoto | O Rissei | B+3.5 | 2019-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lujy6yYqOSHbFbAbE%2BZ1JA%3D%3D) | 
-| 第46期天元戦予選 | missing | O Rissei | B+1.5 | 2019-05-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oq0qujENmISKUSlizuvl%2FQ%3D%3D) | 
-| 第9回フマキラー囲碁マスターズカップ1回戦 | O Rissei | Rin Kaiho | B+0.5 | 2019-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2YIEjYlRzo6mCPPxwGV4Ng%3D%3D) | 
-| 第45期名人戦予選 | Lee Ishu | O Rissei | B+0.5 | 2019-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IxKqZVkNgrnVt08eS56NxQ%3D%3D) | 
-| 第58期十段戦予選 | Iguchi Hideichiro | O Rissei | W+R | 2019-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aJz5dBKTpURUcrel3nuRAg%3D%3D) | 
-| 第75期本因坊戦予選 | O Rissei | Lee Ishu | W+R | 2019-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wT0wHMDM5EIqudy2HZ79Lg%3D%3D) | 
-| 第75期本因坊戦予選 | Xie Yimin | O Rissei | W+3.5 | 2019-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jqZ2M2vQJg%2B1TeqFLKGzjg%3D%3D) | 
-| 第44期棋聖戦ファーストトーナメント予選 | O Rissei | Matsumoto Takehisa | W+R | 2019-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qWB%2BW2qzRFbvXsge6en26g%3D%3D) | 
-| 第44期棋聖戦予選 | O Rissei | Chang Rueijie | B+R | 2019-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gEJWER%2Bz5iu2WpUZuHUegQ%3D%3D) | 
-| 第44期棋聖戦ファーストトーナメント予選 | O Rissei | Seki Kotaro | B+R | 2018-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZZvwM2TozY%2BAmOG6boPizw%3D%3D) | 
-| 第44期棋聖戦ファーストトーナメント予選 | Kanda Ei | O Rissei | W+R | 2018-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tkTk4Pr2wQY4ItFv8oyafg%3D%3D) | 
-| 第67期王座戦予選 | O Rissei | Mitani Tetsuya | W+R | 2018-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FT8VU%2B4x2hiyXLpf720tmA%3D%3D) | 
-| 第67期王座戦予選 | Sotoyanagi Sebun | O Rissei | W+4.5 | 2018-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HJEA59jX%2F5Ovb8UtwKkibA%3D%3D) | 
-| 第74期本因坊戦予選 | O Rissei | Anzai Nobuaki | W+0.5 | 2018-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GgyxNAGbNEeZ8lT3hwvqsg%3D%3D) | 
-| 第45期天元戦予選 | Horimoto Mitsunari | O Rissei | B+5.5 | 2018-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aQBoEucm2j7RQkHvzugdjg%3D%3D) | 
-| 第44期碁聖戦予選 | Kataoka Satoshi | O Rissei | W+7.5 | 2018-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MESYnkj1rl%2FRwqkRAVOF%2Bg%3D%3D) | 
-| 第57期十段戦最終予選決勝 | O Rissei | So Yokoku | W+R | 2018-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BwpPGmh3wLbk6XJfD%2Bywsg%3D%3D) | 
-| 第74期本因坊戦最終予選 | Ida Atsushi | O Rissei | W+1.5 | 2018-08-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cdlVAngxQA%2B4kLYm7cZU5Q%3D%3D) | 
-| 第44期名人戦予選 | Morita Michihiro | O Rissei | B+R | 2018-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GphUWf3WLIwLwTEx3uok0g%3D%3D) | 
-| 第74期本因坊戦最終予選 | Terayama Rei | O Rissei | W+R | 2018-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bZ7zuBEpdEj7qp0nDomSwQ%3D%3D) | 
-| 第8回フマキラー囲碁マスターズカップ準決勝  | O Rissei | Yoda Norimoto | W+2.5 | 2018-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jqsdvYmUZfcCTeFRcCQgrA%3D%3D) | 
-| 第44期名人戦予選 | O Rissei | Kudo Norio | B+2.5 | 2018-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vCLkPmeKg2hu1NUhzXCAMQ%3D%3D) | 
-| 第74期本因坊戦予選 | Kuwabara Shun | O Rissei | W+R | 2018-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l%2F35zkKza%2BMI1zpMacYSlw%3D%3D) | 
-| 第8回フマキラー囲碁マスターズカップ2回戦  | Awaji Shuzo | O Rissei | W+R | 2018-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fYKGOETZ96FsGazgUkq8Hw%3D%3D) | 
-| 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Cho U | O Rissei | B+3.5 | 2018-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AIQ%2Bxn6znOWNrInBovc0gA%3D%3D) | 
-| 第74期本因坊戦予選 | O Rissei | Shiraishi Yuichi | B+4.5 | 2018-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5%2Fjtxb97DN6MmKvZpi2V3w%3D%3D) | 
-| 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | O Rissei | Takei Takashi | B+R | 2018-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SnVpX42suot0uBpzz%2FFirg%3D%3D) | 
-| 第8回フマキラー囲碁マスターズカップ1回戦 | O Rissei | Takemiya Masaki | B+4.5 | 2018-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KygU6PAklI5inHyIml7dBA%3D%3D) | 
-| 第66期王座戦予選 | Hane Naoki | O Rissei | B+R | 2018-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bCzqCz48ZU3I1gTeWFAl4A%3D%3D) | 
-| 第43期棋聖戦ファーストトーナメント予選 | Chang Rueijie | O Rissei | B+2.5 | 2017-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C0xM2Ici6msbt6O%2B%2FUZnww%3D%3D) | 
-| 第43期棋聖戦ファーストトーナメント予選 | Nakamura Hidehito | O Rissei | W+R | 2017-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pcHqH5rd4nWrAJiFxGU%2Fzw%3D%3D) | 
-| 第43期碁聖戦本戦1回戦 | O Rissei | Kobayashi Satoru | W+0.5 | 2017-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mGBMNHut6Ccx4ep7h0UZpg%3D%3D) | 
-| 第56期十段戦2回戦 | O Rissei | Yu Zhengqi | W+5.5 | 2017-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2Nn8qWN0LnQjeDDXmOtjhQ%3D%3D) | 
-| 第44期天元戦予選 | Tajiri Yuto | O Rissei | B+1.5 | 2017-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5e34WjHGf0YSzXn7H9Nf3w%3D%3D) | 
-| 第44期天元戦　予選B決勝 | O Rissei | Yokotsuka Riki | B+2.5 | 2017-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CroLCItp550LTV237h7f%2Fw%3D%3D) | 
-| 第42期棋聖戦　Cリーグ4回戦 | O Rissei | Seto Taiki | W+R | 2017-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q2h2kv%2FJHR2y9BnRLtHWDw%3D%3D) | 
-| 第43期名人戦　予選A | Ogaki Yusaku | O Rissei | B+R | 2017-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5kUdN39z1npsIcOKv9Btow%3D%3D) | 
-| 第56期十段戦　最終予選決勝 | O Rissei | Kono Rin | B+R | 2017-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kdwu9ytpj%2F534m7EzIV4Yw%3D%3D) | 
-| 第42期棋聖戦　Cリーグ3回戦 | O Rissei | Ishida Atsushi | W+2.5 | 2017-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DeYb3wiWP%2FyXf1MtHCIsOw%3D%3D) | 
-| 第7回フマキラー囲碁マスターズカップ　準決勝 | Cho Chikun | O Rissei | B+R | 2017-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FBzBccWOMD1yKDgz%2F4LqBg%3D%3D) | 
-| 第42期棋聖戦　Cリーグ2回戦 | O Rissei | Tsuruta Kazushi | W+R | 2017-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dBjrs8uJHoKU6hTT4FZdKA%3D%3D) | 
-| 第65回NHK杯テレビ囲碁トーナメント戦1回戦第9局 | O Rissei | Awaji Shuzo | B+R | 2017-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HXcn1AOMG9D1K5Qg1HWk9A%3D%3D) | 
-| 第65期王座戦　本戦1回戦第2局 | O Rissei | Ida Atsushi | W+0.5 | 2017-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0r9pejXC5%2FyY7wksuUb%2BmA%3D%3D) | 
-| 第42期棋聖戦　Cリーグ1回戦 | O Rissei | Yamamori Tadanao | B+R | 2017-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IBpFfc338YuWdmo562S7Mw%3D%3D) | 
-| 第7回囲碁マスターズカップ　本戦2回戦 | O Rissei | Takemiya Masaki | B+2.5 | 2017-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XnVlI2xIvFGeVChPut%2BzKA%3D%3D) | 
-| 第73期本因坊戦予選 | Fujisawa Rina | O Rissei | B+R | 2017-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N%2FPhZPvQpdVYvn5TOVbGlw%3D%3D) | 
-| 第65期王座戦　最終予選特選譜第12局 | O Rissei | Mutsuura Yuta | B+R | 2017-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=85PWbwSR50C3oJFxaRhzJg%3D%3D) | 
-| 第56期十段戦　予選A決勝 | Uchida Shuhei | O Rissei | W+R | 2017-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y0JKO5aobZFxoiOKo1RQ6Q%3D%3D) | 
-| 第73期本因坊戦　予選A | O Rissei | Yokotsuka Riki | B+2.5 | 2017-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eKRIvmD6TZmo%2Fslv14c83A%3D%3D) | 
-| 第7回マスターズカップ　本戦1回戦 | O Rissei | O Meien | B+R | 2017-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ewleGBGtX98qxEL7YPtfbA%3D%3D) | 
-| 第56期十段戦　予選A | O Rissei | Sugimoto Akira | B+1.5 | 2017-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GxkPjHq9pUqz4uI5fQu9vw%3D%3D) | 
-| 第42期碁聖戦予選 | O Rissei | Hoshino Masaki | B+4.5 | 2016-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=piwgr3oH8u3kOC5WDT3R6w%3D%3D) | 
-| 第42期碁聖戦予選 | O Rissei | Suzuki Shinji | B+R | 2016-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wb6Ym2MQCBw78n%2BWoyK%2FZA%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Tsuruyama Atsushi | O Rissei | B+R | 2016-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bewx%2Bk0aycZ9W4GeaTj4Zw%3D%3D) | 
-| 第43期天元戦予選 | Fujisawa Kazunari | O Rissei | W+4.5 | 2016-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LgyJ6j4XtFJP4ySXP9MO0w%3D%3D) | 
-| 第42期名人戦予選 | O Rissei | Ohba Junya | B+R | 2016-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kr7gyneN3Y1BLJRm6MnOuQ%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Mizokami Tomochika | O Rissei | W+4.5 | 2016-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GHsfp7TDeXPj7pMd2HBgVA%3D%3D) | 
-| 第43期天元戦予選 | O Rissei | Sugiuchi Masao | B+6.5 | 2016-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2B9na7ptpai1nPvm7VWxvQ%3D%3D) | 
-| 第41期棋聖戦Bリーグ | O Rissei | Ida Atsushi | W+R | 2016-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=689zXruMmkLY%2F%2BK9FiSAqA%3D%3D) | 
-| 第55期十段戦予選 | Sun Zhe | O Rissei | B+R | 2016-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T8Cm21Sn17FypADTUhtIJQ%3D%3D) | 
-| 第64期王座戦　本戦1回戦第2局 | O Rissei | Yu Zhengqi | W+R | 2016-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oyYJhZvOYncRKRglZh8iZQ%3D%3D) | 
-| 第72期本因坊戦予選 | Tsuruyama Atsushi | O Rissei | B+R | 2016-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MGOaWHLpZ7F%2FNi5NBm6vZA%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Hsu Chiayuan | O Rissei | B+R | 2016-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U3I9DkiMQXjcyJxNgs4%2Btg%3D%3D) | 
-| 第42期碁聖戦予選 | Inori Yoko | O Rissei | W+4.5 | 2016-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B%2ByOw8dCbEoA4VVbNRd%2FzA%3D%3D) | 
-| 第43期天元戦予選 | Ueda Takashi | O Rissei | W+R | 2016-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZOvOdk6Iuc9JRGZzH0ygAg%3D%3D) | 
-| 第41期棋聖戦Bリーグ | O Rissei | O Meien | W+R | 2016-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DDuIB1UJAZ29uIz89QBaRg%3D%3D) | 
-| 第43期天元戦予選 | O Rissei | Suzuki Isao | B+R | 2016-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6%2FAVe9GSSZltiDMn35bF9w%3D%3D) | 
-| 第6回フマキラー囲碁マスターズカップ1回戦 | O Rissei | Kobayashi Koichi | W+0.5 | 2016-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2F9Tamu4Zn9Fx6ejoCZvtw%3D%3D) | 
-| 第41期棋聖戦Bリーグ | O Rissei | Cho Chikun | W+R | 2016-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k8t9Tb%2BJmBWTlmHgkhO9Ng%3D%3D) | 
-| 第72期本因坊戦予選 | O Rissei | Takekiyo Isamu | B+R | 2016-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iO3tGjsx%2BGMn1O2jgkD1fw%3D%3D) | 
-| 第64期王座戦予選 | Ohba Junya | O Rissei | W+R | 2016-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lpZ5lBpObPdW6IS12DLaGg%3D%3D) | 
-| 第23期阿含・桐山杯全日本早碁オープン戦予選 | missing | O Rissei | B+2.5 | 2016-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0pJI25a7vvci%2FceeROQDDg%3D%3D) | 
-| 第64期王座戦予選 | O Rissei | Shimojima Yohei | B+R | 2016-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3rwZoXEEibFzTwYBV9WWgg%3D%3D) | 
-| 第72期本因坊戦予選 | Kono Mitsuki | O Rissei | W+R | 2016-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4WRaoeR6qSbDkWPw7iY1mw%3D%3D) | 
-| 第64期王座戦予選 | O Rissei | Obuchi Kotaro | B+R | 2016-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bNNhcI6oqDep4ZyGba2nfA%3D%3D) | 
-| 第55期十段戦予選 | O Rissei | Ko Reibun | B+R | 2016-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MBCDwlNlEwbfvKxH9U66SQ%3D%3D) | 
-| 第72期本因坊戦予選 | O Rissei | Han Zenki | B+R | 2015-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z8DFwW2EDg6wislRgXk97Q%3D%3D) | 
-| 第64期王座戦予選 | Koyama Kuya | O Rissei | W+R | 2015-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DesBF%2B2yi4ju2wv8mgJm1Q%3D%3D) | 
-| 第2回OVER40早碁トーナメント戦決勝 | O Meien | O Rissei | W+R | 2015-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xspU5sV1272oHLDYrIURPQ%3D%3D) | 
-| 第2回OVER40早碁トーナメント戦準決勝 | O Rissei | Nakaonoda Tomomi | B+R | 2015-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oPPi7eu5lUY2yc57q5YaUg%3D%3D) | 
-| 第72期本因坊戦予選 | O Rissei | Yasuda Yasutoshi | B+2.5 | 2015-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HnnphrQsmJ%2FO0LaM%2BJZmPw%3D%3D) | 
-| 第72期本因坊戦予選 | Kono Yukio | O Rissei | W+R | 2015-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mOXPVlDCPzL4aolxAjlC0w%3D%3D) | 
-| 第42期天元戦予選 | Shibano Toramaru | O Rissei | B+R | 2015-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cX3uP3wbE2cqZmneouAbaQ%3D%3D) | 
-| 第40期棋聖戦Cリーグ | Nakaonoda Tomomi | O Rissei | W+R | 2015-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aYjsoooH%2BXRjp9sTN8%2FZog%3D%3D) | 
-| 第54期十段戦予選 | Yamashita Keigo | O Rissei | B+R | 2015-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OJEfd7O0C5lPgjd9yygQWw%3D%3D) | 
-| 第40期棋聖戦Cリーグ | Hikosaka Naoto | O Rissei | W+2.5 | 2015-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r2RUlc9PEa9G5cWkc3FZEQ%3D%3D) | 
-| 第41期名人戦予選 | Uchida Shuhei | O Rissei | B+0.5 | 2015-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u2JkxY8HDrRgLB21AbXTZQ%3D%3D) | 
-| 第41期名人戦予選 | O Rissei | Michael Redmond | B+5.5 | 2015-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wBQ8rEokW7NqPbV4YaSX%2Fg%3D%3D) | 
-| 第54期十段戦予選 | O Rissei | Terayama Rei | B+1.5 | 2015-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=05WTZS%2BsGB6mD9YY4iEo1w%3D%3D) | 
-| 第40期棋聖戦Cリーグ | Imamura Toshiya | O Rissei | W+R | 2015-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Oeaw%2B7x3YMdNvVMjhi5IAA%3D%3D) | 
-| 第40期棋聖戦Cリーグ | O Rissei | Kono Takashi | B+1.5 | 2015-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DbMo5zW855niqjddbfKPkQ%3D%3D) | 
-| 第41期名人戦予選 | Sonoda Yasutaka | O Rissei | W+R | 2015-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2vR6tiAbNJnqPuzi8PzEdA%3D%3D) | 
-| 第54期十段戦予選 | Mimura Tomoyasu | O Rissei | W+R | 2015-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cZjlHej%2FdT06IUM%2BMIC6Zg%3D%3D) | 
-| 第40期棋聖戦Cリーグ | O Rissei | Nakano Hironari | W+R | 2015-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7X%2B6nzf0R%2FgmFbhdefP56w%3D%3D) | 
-| 第40期棋聖戦予選 | O Rissei | Mimura Tomoyasu | B+R | 2015-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kDnb9kPVl1kiyrScfksv3Q%3D%3D) | 
-| 第63期王座戦予選 | O Rissei | Nakane Naoyuki | W+6.5 | 2015-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SbAzZxXV0n9E2nier7KBHQ%3D%3D) | 
-| 第5回フマキラー囲碁マスターズカップ1回戦 | O Rissei | Kobayashi Satoru | W+2.5 | 2015-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zbb9BnZra8ekAt36Z12PqQ%3D%3D) | 
-| 第54期十段戦予選 | O Rissei | Tsuruyama Atsushi | B+R | 2015-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YGbjRlj4t4FWO4CgJOM%2B3A%3D%3D) | 
-| 第71期本因坊戦予選 | O Rissei | Sun Zhe | W+R | 2015-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9phiZqBsT97XpXMmXhA63g%3D%3D) | 
-| 第40期棋聖戦予選 | O Rissei | Ono Nobuyuki | B+R | 2015-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bE322Tmf2LuLVh9%2BrO%2Fzfg%3D%3D) | 
-| 第40期棋聖戦予選 | O Rissei | Kibe Natsuki | B+6.5 | 2015-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xhisYC%2F0iUdsMffWCdl2Vw%3D%3D) | 
-| 第40期碁聖戦本戦1回戦 | Yoda Norimoto | O Rissei | B+R | 2014-12-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lh%2F8wGADyVFn9Ri9X2EOkQ%3D%3D) | 
-| 第40期碁聖戦予選 | Okuda Aya | O Rissei | W+11.5 | 2014-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X%2FrfZyS4OAAFZ%2FThumeItw%3D%3D) | 
-| 第41期天元戦予選 | O Rissei | Yamada Takuji | W+0.5 | 2014-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jiqGW7D8qluzENdN4PuEqg%3D%3D) | 
-| 第53期十段戦予選 | Rin Shien | O Rissei | B+0.5 | 2014-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3xp2lZOPj%2B19VHZXUVuO2Q%3D%3D) | 
-| 第62期王座戦準決勝 | Murakawa Daisuke | O Rissei | B+R | 2014-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aGtg7btnACyWBImWGKH4iA%3D%3D) | 
-| 第62期王座戦2回戦 | Matsumoto Takehisa | O Rissei | W+2.5 | 2014-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O85nCpOaFqcqPZxiT%2FKGuw%3D%3D) | 
-| 第62期王座戦1回戦 | O Rissei | Yuki Satoshi | B+R | 2014-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hCUmMWyYwtZuesRKFsN2jA%3D%3D) | 
-| 第40期名人戦予選 | So Yokoku | O Rissei | B+11.5 | 2014-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BnmoEtmzaijG2zkQGokY4Q%3D%3D) | 
-| 第40期名人戦予選 | O Rissei | Takano Hideki | B+R | 2014-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S3O6EJ5gOKog2Iw7%2FRPLGA%3D%3D) | 
-| 第4回フマキラー囲碁マスターズカップ2回戦 | Kobayashi Satoru | O Rissei | B+R | 2014-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RlwzYWj9F%2FV2BV5rl0ZBuA%3D%3D) | 
-| 第62期王座戦予選 | O Rissei | Sakai Hideyuki | B+R | 2014-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JuD%2BmbrIi6yjE9CUPuveHw%3D%3D) | 
-| 第4回フマキラー囲碁マスターズカップ1回戦 | Hane Yasumasa | O Rissei | W+4.5 | 2014-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qS%2FtXStIMeChlnylhgYkNg%3D%3D) | 
-| 第40期天元戦本戦1回戦 | Kanazawa Makoto | O Rissei | B+R | 2014-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l3CSs5Wzoz%2B2lBCyQtxXdQ%3D%3D) | 
-| 第70期本因坊戦予選 | Kanazawa Hideo | O Rissei | B+R | 2014-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jxxnCo7uiJOFs3c2hFssrg%3D%3D) | 
-| 第62期王座戦予選 | O Rissei | Kono Takashi | B+R | 2014-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AoYmUzyHZAop5MVu7cZblg%3D%3D) | 
-| 2014年日台精鋭交流戦第6戦 | O Rissei | Lin Shuyang | W+R | 2014-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gAlEowLeXLaKIv6OaLySKg%3D%3D) | 
-| 2014年日台精鋭交流戦第5戦 | O Rissei | Zhou Junxun | B+4.5 | 2014-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tZMq3ldBwkI0S80Wvhicbw%3D%3D) | 
-| 2014年日台精鋭交流戦第4戦 | Chen Shiyuan | O Rissei | B+R | 2014-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QFmEFdcyuzxq3KlKwK6%2FCQ%3D%3D) | 
-| 2014年日台精鋭交流戦第3戦 | Lin Zhihan | O Rissei | B+R | 2014-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7SJxvRhQG5%2BxF0o8vya83w%3D%3D) | 
-| 2014年日台精鋭交流戦第2戦 | Lin Lixiang | O Rissei | W+R | 2014-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lDEC3LA1ZZNwvumYdX7JwA%3D%3D) | 
-| 2014年日台精鋭交流戦第1戦 | O Rissei | Lin Junyan | W+R | 2014-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rFq01DbE2mAcD%2FpghEwkbw%3D%3D) | 
-| 第40期天元戦予選 | O Rissei | Kobayashi Koichi | B+10.5 | 2014-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=woxcD9H1HYwm8lz8bdsnLA%3D%3D) | 
-| 第39期棋聖戦予選 | O Rissei | Kim Sujun | W+0.5 | 2013-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8qp%2F3if8fi%2FQtciA1OMRzQ%3D%3D) | 
-| 第62期王座戦予選 | Mochizuki Kenichi | O Rissei | W+R | 2013-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l0rsG9%2BDryGNLB9hLaL0Ig%3D%3D) | 
-| 第39期棋聖戦予選 | Kono Takashi | O Rissei | W+R | 2013-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pIEQvxnEbV5pgZBmGzVAiw%3D%3D) | 
-| 第40期天元戦予選 | Omori Yasushi | O Rissei | W+4.5 | 2013-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8MKQW6JU7TVv1KUBBwesfw%3D%3D) | 
-| 第52期十段戦2回戦 | O Rissei | Cho U | W+R | 2013-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EtMJanOGFywSfDcVsUhmBw%3D%3D) | 
-| 第62期王座戦予選 | Sanno Hirotaka | O Rissei | W+4.5 | 2013-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DFas2a8QddsIAxVD4K5uZg%3D%3D) | 
-| 第39期碁聖戦予選 | Ohba Junya | O Rissei | B+R | 2013-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rUaKJeQLThnAZ2eMoWUHAA%3D%3D) | 
-| 第52期十段戦1回戦 | O Rissei | O Meien | B+R | 2013-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v66fL9iGgaE0QREYeQQcGQ%3D%3D) | 
-| 第39期碁聖戦予選 | O Rissei | Kuwamoto Shinpei | B+4.5 | 2013-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xZ2Dn%2BXbAiFB12UF2xOb%2BA%3D%3D) | 
-| 第52期十段戦予選 | Kamimura Haruo | O Rissei | W+R | 2013-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ew6T%2Bhls7b0CvdyFF1y7lw%3D%3D) | 
-| 第39期天元戦本戦3回戦 | O Rissei | Cho U | W+2.5 | 2013-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P2uhzXWPFQE4oJsmSDv4YQ%3D%3D) | 
-| 第39期名人戦予選 | Han Zenki | O Rissei | B+0.5 | 2013-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DRB0x3rI4dERQvlznO7wfw%3D%3D) | 
-| 第52期十段戦予選 | Mochizuki Kenichi | O Rissei | W+R | 2013-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xBj3VWOiMknLefKhRZ%2BJTA%3D%3D) | 
-| 第39期天元戦本戦2回戦 | O Rissei | Rin Kanketsu | B+5.5 | 2013-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ae8%2BWaOl94iI8zuMiEcMZw%3D%3D) | 
-| 第52期十段戦予選 | Kenmochi Joe | O Rissei | W+R | 2013-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HIuF5LQrvQvOf%2B7t2vYF4g%3D%3D) | 
-| 第69期本因坊戦予選 | O Rissei | Muramatsu Ryuichi | W+R | 2013-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MMu800qYYumb%2FmYJuy6ajA%3D%3D) | 
-| 第3回エステー＆フマキラー囲碁マスターズカップ1回戦 | O Rissei | Kobayashi Koichi | W+0.5 | 2013-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wBriJYejkZvzL73kmBUkug%3D%3D) | 
-| 第39期天元戦本戦1回戦 | Takemiya Masaki | O Rissei | W+13.5 | 2013-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kvKWAI6zcPDU7NjrRIQIrw%3D%3D) | 
-| 第52期十段戦予選 | Ohashi Hirofumi | O Rissei | W+7.5 | 2013-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wW5FHvQ0LnCjy%2BMGxAkljQ%3D%3D) | 
-| 第61期王座戦予選 | O Rissei | Yamada Takuji | W+2.5 | 2013-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KfduKfuxASrX9UKns9A9Mw%3D%3D) | 
-| 第38期棋聖戦予選 | Suzuki Yoshimichi | O Rissei | B+R | 2012-12-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IcIowbD%2FwT2bovWk4akFyA%3D%3D) | 
-| 第38期棋聖戦予選 | Mannami Nao | O Rissei | W+6.5 | 2012-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F90BtBScybnU6sbSfBXQxQ%3D%3D) | 
-| 第39期天元戦予選 | O Rissei | Ishida Yoshio | B+4.5 | 2012-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oorl%2BJOSq3VGZFMjTzXXeA%3D%3D) | 
-| 第38期棋聖戦予選 | O Rissei | Mizuma Toshifumi | B+R | 2012-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JbVf%2F3BX%2FGC34nmadNTK%2BQ%3D%3D) | 
-| 第39期天元戦予選 | Konagai Masaru | O Rissei | W+R | 2012-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YIUywkD1MXWEo%2FsdIXCJWw%3D%3D) | 
-| 第38期碁聖戦予選 | Mizokami Tomochika | O Rissei | B+R | 2012-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=noZudmVxSAfd%2BJA3B6F5aA%3D%3D) | 
-| 第38期碁聖戦予選 | O Rissei | Hashimoto Yujiro | B+R | 2012-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jX%2FPuIBigi8bOov8C9zxZA%3D%3D) | 
-| 第38期名人戦予選 | O Rissei | Mimura Tomoyasu | W+2.5 | 2012-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jaykYqp6hdr3mrfWvDrZuw%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン予選 | Mochizuki Kenichi | O Rissei | B+5.5 | 2012-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q5GdVkVKFl9l%2B180O6NFUA%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン予選 | O Rissei | Lee Ishu | B+R | 2012-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f%2BPJnEB52IlVfUhRGM4tEA%3D%3D) | 
-| 第68期本因坊戦予選 | Seto Taiki | O Rissei | B+R | 2012-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XiG%2B950qrZ6VBNmahUH%2BPw%3D%3D) | 
-| 第68期本因坊戦予選 | Rin Kaiho | O Rissei | W+1.5 | 2012-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F1rGZrhHYYl75KNwtgIKaA%3D%3D) | 
-| 第19期阿含・桐山杯全日本早碁オープン戦予選 | O Rissei | Seto Taiki | W+3.5 | 2012-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EKXCXCRnl9bqUNMYaql75w%3D%3D) | 
-| 第68期本因坊戦予選 | Okada Shinichiro | O Rissei | W+6.5 | 2012-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Blr%2BG6Pj1sqsO214%2BgFEGg%3D%3D) | 
-| 第38期名人戦予選 | Kobayashi Koichi | O Rissei | W+2.5 | 2012-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vosAjsdDb%2FdW51nwgKMemQ%3D%3D) | 
-| 第51期十段戦予選 | Aoki Kikuyo | O Rissei | B+R | 2012-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hWjiw%2FUxdb7XWaPhO%2F%2B2Zw%3D%3D) | 
-| 第38期天元戦本戦2回戦 | Yamada Kimio | O Rissei | B+R | 2012-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FBFr19hPZ%2BpJOgevZxJktg%3D%3D) | 
-| 第2回エステー＆フマキラー囲碁マスターズカップ1回戦 | O Rissei | Kobayashi Koichi | W+0.5 | 2012-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5qtsIqekbMAraBKCghf7xQ%3D%3D) | 
-| 第37期碁聖戦本戦3回戦 | O Rissei | Hikosaka Naoto | W+4.5 | 2012-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dBFjiGyF2NEHjtzXj0k9zw%3D%3D) | 
-| 第38期名人戦予選 | O Rissei | Iguchi Hideichiro | B+0.5 | 2012-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0uELsox71bBGO4UEeRwSlw%3D%3D) | 
-| 第38期天元戦本戦1回戦 | O Rissei | Yata Naoki | B+R | 2012-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d0XKu9Ik3EwhWm8j6zpxkQ%3D%3D) | 
-| 第37期碁聖戦本戦2回戦 | O Rissei | Cho U | B+0.5 | 2011-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A0aa9PHlLl4KLMQLdRDL6g%3D%3D) | 
-| 第38期名人戦予選 | Onda Yasuhiko | O Rissei | W+R | 2011-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ys%2F8R9jWdPzbXsxJcDAffw%3D%3D) | 
-| 第37期棋聖戦予選 | O Rissei | Suzuki Yoshimichi | W+1.5 | 2011-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w9ucVfv5o7%2BSVzDbyZMdkA%3D%3D) | 
-| 第37期碁聖戦本戦1回戦 | O Rissei | Ha Youngil | B+2.5 | 2011-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6KmpXMK%2BOfSQcaJKf7b%2BjQ%3D%3D) | 
-| 第38期天元戦予選 | O Rissei | Kataoka Satoshi | B+R | 2011-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8rQUnj%2BpnJHzkoofeJNSjA%3D%3D) | 
-| 第60期王座戦予選 | Takao Shinji | O Rissei | B+R | 2011-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q2Ij5ypOXgATVrIrKn7QkA%3D%3D) | 
-| 第7回大和証券杯ネット囲碁オープン1回戦 | Hikosaka Naoto | O Rissei | B+0.5 | 2011-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Phih1DIQaPCIHEZ2UStAjQ%3D%3D) | 
-| 第38期天元戦予選 | Hoshino Masaki | O Rissei | W+R | 2011-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1atwjMNLPQIneW6zgR0arQ%3D%3D) | 
-| 第37期碁聖戦予選 | O Rissei | Yashiro Kumiko | B+R | 2011-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rNkdJW1ilp25khzn2LW3ww%3D%3D) | 
-| 第31期NECカップ囲碁トーナメント戦2回戦 | Cho U | O Rissei | B+R | 2011-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=giOD941W4LtjO%2BGZ8XgjOQ%3D%3D) | 
-| 第37期碁聖戦予選 | O Rissei | Kono Rin | B+0.5 | 2011-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rv3lP48BJs0zvvKxd51rSQ%3D%3D) | 
-| 第31期NECカップ囲碁トーナメント戦1回戦 | Yamada Kimio | O Rissei | W+R | 2011-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EYE7UPcOeTk9n3rFz72Mag%3D%3D) | 
-| 第37期名人戦予選 | O Rissei | Mitani Tetsuya | W+R | 2011-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m1Kw5%2Bhr14vv9PMX%2ByvFjg%3D%3D) | 
-| 第60期王座戦予選 | O Rissei | Mitsunaga Junzo | B+R | 2011-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UDZBMsS26xnGIPRsprZQUQ%3D%3D) | 
-| 第67期本因坊戦予選 | Miyagawa Fumihiko | O Rissei | B+R | 2011-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iw8JgaWpJIEYjM0H6rUxPA%3D%3D) | 
-| 第37期碁聖戦予選 | O Rissei | Oki Keiji | B+R | 2011-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oW3lTLLpHSWlngFaYTAssA%3D%3D) | 
-| 第50期十段戦予選 | O Rissei | Ogata Masaki | W+R | 2011-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2HR5f3pYR7ymAo6s%2BHmTRQ%3D%3D) | 
-| 第66期本因坊戦リーグ | O Rissei | Hane Naoki | W+0.5 | 2011-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A%2FAGqRtV3HdublQpoMRfOA%3D%3D) | 
-| 第66期本因坊戦リーグ | Cho U | O Rissei | B+3.5 | 2011-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LjggmzDNwO5T6oLcQDGF0g%3D%3D) | 
-| 第1回エステー＆フマキラー囲碁マスターズカップ1回戦 | Kobayashi Satoru | O Rissei | B+R | 2011-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F9y05x4F%2Fy0b25axIK3QUQ%3D%3D) | 
-| 第66期本因坊戦リーグ | O Rissei | Seto Taiki | B+R | 2011-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jr9xc53lUgwlsArg08pK0A%3D%3D) | 
-| 第36期棋聖戦予選 | Seto Taiki | O Rissei | B+2.5 | 2011-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rls0uYvwpyEYeAjZvtvPMA%3D%3D) | 
-| 第66期本因坊戦リーグ | O Rissei | Takao Shinji | B+R | 2011-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K%2BxNfC0G6GelQs9t5zD3hQ%3D%3D) | 
-| 第36期棋聖戦予選 | Shida Tatsuya | O Rissei | W+R | 2010-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JV7V5Y0JsKjBThEpajeTfw%3D%3D) | 
-| 第37期天元戦予選 | O Rissei | Kono Takashi | W+R | 2010-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7N6GTBGvEjQ3Agf5jndOrw%3D%3D) | 
-| 第66期本因坊戦リーグ | Cho Sonjin | O Rissei | B+R | 2010-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eIZ0V2Y1kJJCrpke0usmyg%3D%3D) | 
-| 第66期本因坊戦リーグ | O Rissei | Kobayashi Satoru | W+R | 2010-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3DLTx0BUfpOmrmR4p4C37w%3D%3D) | 
-| 第59期王座戦予選 | Ohba Junya | O Rissei | B+R | 2010-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iiayIYjtWeC9AaozVPeKlA%3D%3D) | 
-| 第37期天元戦予選 | O Rissei | Hagiya Kazuhiro | B+9.5 | 2010-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qOxuv1sLS%2B8iqeFCLOLTlA%3D%3D) | 
-| 第66期本因坊戦リーグ | Iyama Yuta | O Rissei | W+R | 2010-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B8On99PdBHawj3DXQ0TYHg%3D%3D) | 
-| 第36期碁聖戦予選 | So Yokoku | O Rissei | B+R | 2010-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6l8kYAknn7CxnEjRAbXUgQ%3D%3D) | 
-| 第35期棋聖戦Bリーグ | O Rissei | Ryu Shikun | W+0.5 | 2010-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kbArnInT70FA3kcklfpwaw%3D%3D) | 
-| 第35期棋聖戦Bリーグ | Yamashiro Hiroshi | O Rissei | B+2.5 | 2010-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dTQeArT%2BicGnPn5Y7NNnMQ%3D%3D) | 
-| 第66期本因坊戦予選 | O Rissei | Kono Rin | B+3.5 | 2010-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c5jygEirRouIp1QGpqLygA%3D%3D) | 
-| 第6回大和証券杯ネット囲碁オープン2回戦 | O Rissei | Tsuruyama Atsushi | W+R | 2010-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TRFIo1gEFuQceq4Z%2Bqmpow%3D%3D) | 
-| 第49期十段戦敗者復活戦1回戦 | Sakai Hideyuki | O Rissei | B+0.5 | 2010-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JBEB9jGv3urspr2R2TiboA%3D%3D) | 
-| 第6回大和証券杯ネット囲碁オープン1回戦 | Hikosaka Naoto | O Rissei | W+R | 2010-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QNM6C%2BseOI9WjwZd4%2FkF7Q%3D%3D) | 
-| 第35期棋聖戦Bリーグ | O Rissei | Akiyama Jiro | W+5.5 | 2010-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XynYcTNy%2F1ykkFPFOdpn8A%3D%3D) | 
-| 第66期本因坊戦予選 | O Rissei | Yuki Satoshi | B+8.5 | 2010-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=36%2BhszTKnVcR1BVYw6xoYA%3D%3D) | 
-| 第35期棋聖戦Bリーグ | O Rissei | Iyama Yuta | W+11.5 | 2010-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=luFyZI2yxIdRKnZDK7lZrQ%3D%3D) | 
-| 第35期棋聖戦Bリーグ | Hane Naoki | O Rissei | W+R | 2010-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TWeQcO%2F1GFIRRWU05Ka1kA%3D%3D) | 
-| 第49期十段戦本戦1回戦 | O Rissei | Lee Ishu | W+R | 2010-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g39%2Bq3KdnJKNuFly4%2BnFRA%3D%3D) | 
-| 第30期NECカップ囲碁トーナメント戦1回戦 | O Rissei | Cho U | W+R | 2010-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=avxXpaSL%2Bo3YDBUzP9%2Br5g%3D%3D) | 
-| 第66期本因坊戦予選 | O Rissei | Mochizuki Kenichi | B+R | 2010-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fdRHGUYc3Bm6JQziVIcklQ%3D%3D) | 
-| 第36期名人戦予選 | O Rissei | Rin Kanketsu | W+6.5 | 2010-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3NnmniHQFELQKsFtlOjYJg%3D%3D) | 
-| 第17期阿含・桐山杯全日本早碁オープン戦予選 | Rin Shien | O Rissei | B+2.5 | 2010-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ob5DDoUZcibxeKjje53Nzw%3D%3D) | 
-| 第66期本因坊戦予選 | O Rissei | Rin Shien | B+0.5 | 2010-03-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bMQ3Kqy0LN3R2mINYPei%2Bw%3D%3D) | 
-| 第58期王座戦予選 | Iyama Yuta | O Rissei | B+R | 2010-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iSwXIKOf6XSmSL%2FOxkRREA%3D%3D) | 
-| 第66期本因坊戦予選 | Han Zenki | O Rissei | W+R | 2010-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gS6duL6%2BWl2pFnwxYo8oUg%3D%3D) | 
-| 第35期碁聖戦本戦3回戦 | O Rissei | Yamashita Keigo | W+1.5 | 2010-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tdjKaU4cSAEsuoEL3uvh0A%3D%3D) | 
-| 第35期碁聖戦本戦2回戦 | O Rissei | So Yokoku | B+R | 2009-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fc%2Fg6iSsQDzj7JKxdK5w%2FA%3D%3D) | 
-| 第66期本因坊戦予選 | Katsura Atsushi | O Rissei | W+R | 2009-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bdre%2BAPdJgE%2BnQC9PpfWSQ%3D%3D) | 
-| 第34期棋聖戦挑戦者決定戦 | O Rissei | Cho U | W+R | 2009-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=APh1WovNxFLe1zZ5rfMHiA%3D%3D) | 
-| 第48期十段戦敗者復活戦4回戦 | Yamashita Keigo | O Rissei | B+R | 2009-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lBedSGSRlfg0wReuogQhoA%3D%3D) | 
-| 第35期碁聖戦本戦1回戦 | O Rissei | Awaji Shuzo | B+2.5 | 2009-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r18xUJeWeRYjOvktU81beQ%3D%3D) | 
-| 第48期十段戦本戦勝者組決勝 | Takao Shinji | O Rissei | B+10.5 | 2009-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3J%2FRIJuuKtsFd7Yh%2FHUejw%3D%3D) | 
-| 第36期天元戦予選 | O Rissei | Cho Sonjin | W+15.5 | 2009-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PcQ3vzaFCQfq0YupCdrL0w%3D%3D) | 
-| 第34期棋聖戦Aリーグ | Lee Ishu | O Rissei | W+1.5 | 2009-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2nAN4yTvPdWmH78kTO6BFw%3D%3D) | 
-| 第48期十段戦本戦3回戦 | O Rissei | Akiyama Jiro | B+R | 2009-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zw9IQSNTwtaTmBdqiKSLfQ%3D%3D) | 
-| 第34期棋聖戦Aリーグ | Yoda Norimoto | O Rissei | W+0.5 | 2009-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sveoXGiIzixuxfznfRLhxw%3D%3D) | 
-| 第36期天元戦予選 | Mitsunaga Junzo | O Rissei | W+4.5 | 2009-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z8oI7aXM9ddLqp%2FL1ef%2BZg%3D%3D) | 
-| 第34期棋聖戦Aリーグ | O Rissei | Takao Shinji | B+R | 2009-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O%2BPb9nBHZZX7PZ33rL2aew%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン3回戦 | Cho U | O Rissei | B+9.5 | 2009-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fnzouQlK20ycixiI8aFnVg%3D%3D) | 
-| 第35期碁聖戦予選 | Yoda Norimoto | O Rissei | W+R | 2009-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cVJQ5F7idolfDvPRTfggig%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン2回戦 | Kobayashi Satoru | O Rissei | W+3.5 | 2009-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OkMhLhY%2F4bE17oyxHEfYYA%3D%3D) | 
-| 第48期十段戦本戦2回戦 | O Rissei | Ko Iso | B+R | 2009-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RA4640PpcIgC1QQnKXyu%2BA%3D%3D) | 
-| 第34期棋聖戦Aリーグ | Hane Naoki | O Rissei | W+1.5 | 2009-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d68mH32inNOJjqTYwVImMA%3D%3D) | 
-| 第35期碁聖戦予選 | Rin Kanketsu | O Rissei | W+0.5 | 2009-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uPg%2B%2B6pNQXWpJTRO8AYQmA%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン1回戦 | Ogata Masaki | O Rissei | W+1.5 | 2009-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3qynjMBJV0ooQlfQ5c2XzA%3D%3D) | 
-| 第35期名人戦予選 | O Rissei | Kanazawa Hideo | W+0.5 | 2009-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=whSMmainFpZYpIW7iQP2Og%3D%3D) | 
-| 第34期棋聖戦Aリーグ | O Rissei | Kiyonari Tetsuya | B+R | 2009-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yGOm8DZ2PoadI9yOkOGLCw%3D%3D) | 
-| 第48期十段戦本戦1回戦 | O Rissei | Yamashita Keigo | B+R | 2009-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N2nTpZAJ8E%2B4y7kCpKWmpg%3D%3D) | 
-| 第35期名人戦予選 | Ohba Junya | O Rissei | W+0.5 | 2009-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iSDULDqgRvzHy6Igzc%2BSJA%3D%3D) | 
-| 第57期王座戦1回戦 | Yamamori Tadanao | O Rissei | B+10.5 | 2009-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4bam00k9ZSF364btg%2F9mFQ%3D%3D) | 
-| 第48期十段戦予選 | Ishida Akira | O Rissei | W+R | 2009-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ozj6%2BRr7ehK8b4FQi9hhdw%3D%3D) | 
-| 第57期王座戦予選 | Yata Naoki | O Rissei | W+2.5 | 2009-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IDAUWAeTJvDhokfaBO10ng%3D%3D) | 
-| 第35期天元戦本戦2回戦 | Hane Naoki | O Rissei | B+3.5 | 2009-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CYO3VWR0kelrb8Y7Xlz4cw%3D%3D) | 
-| 第57期王座戦予選 | Goto Shungo | O Rissei | W+R | 2009-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yx%2FTq3zL5fJQ6H1ifOsn4w%3D%3D) | 
-| 第48期十段戦予選 | O Rissei | Rin Kanketsu | B+R | 2009-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lnHhbl434thwCHib26G0%2FA%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯国内予選決勝 | O Rissei | Moriyama Naoki | W+2.5 | 2009-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eyzZTY9dEWzAVHzK2ngWsA%3D%3D) | 
-| 第35期天元戦本戦1回戦 | O Rissei | Inori Yoko | B+R | 2009-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aMDuCPpV6J9Oan%2F7O%2F2bng%3D%3D) | 
-| 第65期本因坊戦予選 | Takemiya Masaki | O Rissei | B+R | 2009-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dc%2FMOLhBiyYomLKkA2VOJw%3D%3D) | 
-| 第57期王座戦予選 | Miyazawa Goro | O Rissei | W+R | 2009-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ayDWgip%2BqWYrk1%2Fek%2FbVFw%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯国内予選 | Kudo Norio | O Rissei | W+4.5 | 2009-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kAmVdgMtu7pOvNTpt7oHlQ%3D%3D) | 
-| 第57期王座戦予選 | Otake Hideo | O Rissei | W+2.5 | 2008-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lr5B7zHjUDj%2FKUdUCVZf4w%3D%3D) | 
-| 第35期天元戦予選 | O Rissei | Mizokami Tomochika | B+0.5 | 2008-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ntKYIzbB0h2uhuiZ8oGO1Q%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | O Rissei | Yanagisawa Satoshi | B+4.5 | 2008-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5YGtOem45%2BOU%2BAB9840vKA%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯国内予選 | O Rissei | Fujii Shuya | B+R | 2008-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IWmDJGYYqI71mTDHSliFUw%3D%3D) | 
-| 第4回大和証券杯ネット囲碁オープン3回戦 | O Rissei | Shuto Shun | W+R | 2008-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uGifVCtszK3FWLMheBso9Q%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Park Cheongsang | O Rissei | B+R | 2008-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2PnD24WhGdtEmWz371EFAg%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | O Rissei | Gu Li | W+R | 2008-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r%2FT1I45aSZgAXRD1YFEJ5A%3D%3D) | 
-| 第33期棋聖戦Aリーグ | O Rissei | Iyama Yuta | W+R | 2008-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SgaEHvHJubBIoRvrwGTw4w%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Shida Tatsuya | O Rissei | W+3.5 | 2008-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BvBVRtHnkhZxdjD4llu5Wg%3D%3D) | 
-| 第34期碁聖戦予選 | O Rissei | Suzuki Yoshimichi | W+2.5 | 2008-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HcIEtbWe%2FC0%2Fsav2H1CySg%3D%3D) | 
-| 第4回大和証券杯ネット囲碁オープン2回戦 | Ogaki Yusaku | O Rissei | W+R | 2008-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gsI74qytjmmhWVzqGmWSfQ%3D%3D) | 
-| 第33期棋聖戦Aリーグ | Takao Shinji | O Rissei | B+R | 2008-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nxrvdlY8xkZOEPKSvp4mLg%3D%3D) | 
-| 第35期天元戦予選 | O Rissei | Kubo Hideo | B+R | 2008-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Dss%2B71N0HeJ6bkJR7KNvA%3D%3D) | 
-| 第33期棋聖戦Aリーグ | O Rissei | Kataoka Satoshi | B+R | 2008-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BuLHS%2FxO%2BA%2FlUZNAJEE0fA%3D%3D) | 
-| 第34期碁聖戦予選 | O Rissei | Aragaki Takeshi | B+R | 2008-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LUJlFVerxvvnvawxjiviCA%3D%3D) | 
-| 第33期棋聖戦Aリーグ | Yuki Satoshi | O Rissei | W+R | 2008-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yOWutLixQCdw5rdqnR1NWw%3D%3D) | 
-| 第4回大和証券杯ネット囲碁オープン1回戦 | Ogata Masaki | O Rissei | W+R | 2008-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nWArrhQ66wTiA1RxzQnAUg%3D%3D) | 
-| 第47期十段戦敗者復活戦1回戦 | O Rissei | Anzai Nobuaki | W+2.5 | 2008-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zrVGMFSwYTCbMc%2FUTi5ItA%3D%3D) | 
-| 第33期棋聖戦Aリーグ | Cho Chikun | O Rissei | B+R | 2008-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QgzuMkBsbJnW67fMCOOgkQ%3D%3D) | 
-| 第64期本因坊戦予選 | Ogata Masaki | O Rissei | B+R | 2008-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mpHak2%2FXkymCYK%2FijMin9g%3D%3D) | 
-| 第34期名人戦予選 | O Rissei | Shuto Shun | W+R | 2008-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uO2JYRtpzcKTpdvbtcRsaQ%3D%3D) | 
-| 第47期十段戦本戦1回戦 | O Rissei | Mochizuki Kenichi | W+R | 2008-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EExDkvD3XKMGZlHn1doLxA%3D%3D) | 
-| 第4回大和証券杯ネット囲碁オープン予選 | O Rissei | Mochizuki Kenichi | B+R | 2008-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P1g703P6SaMB5TwxjQG9Ow%3D%3D) | 
-| 第64期本因坊戦予選 | O Rissei | Rin Kaiho | B+1.5 | 2008-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=quDIc%2BZoWnUAFq1tzU1PcA%3D%3D) | 
-| 第34期名人戦予選 | Ohba Junya | O Rissei | W+R | 2008-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aYASC99jFJ4xyRIV9wn8UA%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | O Rissei | Ohashi Naruya | B+R | 2008-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=88oHmmzlD1RLSib0pK4m%2FQ%3D%3D) | 
-| 第64期本因坊戦予選 | O Rissei | Cho Sonjin | B+3.5 | 2008-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NMPNNWNy5I2L%2FKEn2maPCg%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯2回戦 | O Rissei | Liu Xing | W+0.5 | 2008-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xYO5EzKkWedpQdW2nYeTew%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯1回戦 | missing | O Rissei | W+R | 2008-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0LQptIEpVhKVC53wBXdr6A%3D%3D) | 
-| 第47期十段戦予選 | O Rissei | Hikosaka Naoto | B+R | 2008-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F%2F447fqYCHI7FQZ0JC8WNg%3D%3D) | 
-| 第47期十段戦予選 | O Rissei | Yamada Noriyoshi | B+1.5 | 2008-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tgYMqW6HbSi9HeiUjjRCEA%3D%3D) | 
-| 第64期本因坊戦予選 | O Rissei | Iguchi Hideichiro | B+R | 2008-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v2YBgCyw9m%2FudIUellH9Ug%3D%3D) | 
-| 第56期王座戦予選 | Kobayashi Satoru | O Rissei | B+2.5 | 2008-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NhEOj%2F3kGAjrRTb3iQY6ZQ%3D%3D) | 
-| 第1期幽玄杯精鋭リーグ戦 | O Rissei | Takei Takashi | B+3.5 | 2008-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bgSx9O7HXAwKg4yOkxR%2BCg%3D%3D) | 
-| 第64期本因坊戦予選 | O Rissei | Kuo Chyoching | B+R | 2008-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LZV64iDngcbdX23DDbxteA%3D%3D) | 
-| 第1期幽玄杯精鋭リーグ戦 | Hikosaka Naoto | O Rissei | W+R | 2008-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tp2QuQ%2BGn2mLUb3qZLQQRQ%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯国内予選決勝 | Honda Kunihisa | O Rissei | W+R | 2008-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6sI9P1vyElpFv9sbS0AjjQ%3D%3D) | 
-| 第56期王座戦予選 | Murakawa Daisuke | O Rissei | W+R | 2007-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X16ntR6KkpWMN7l%2BMGkt5g%3D%3D) | 
-| 第1期幽玄杯精鋭リーグ戦 | Tajima Shingo | O Rissei | W+R | 2007-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qlfzB7KETaQ3rIwh%2Bf2%2Bxw%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯国内予選 | O Rissei | Nakaonoda Tomomi | B+4.5 | 2007-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cEQk2HtTj78ub4coP5fTvQ%3D%3D) | 
-| 第33期碁聖戦本戦1回戦 | Hane Naoki | O Rissei | B+R | 2007-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=phwvx%2BGB01EsIcIVAQpPaw%3D%3D) | 
-| 第1期幽玄杯精鋭リーグ戦 | O Rissei | Sakamoto Yasuo | B+R | 2007-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aUK6rqhC%2BRmD35LGX%2F%2FLGA%3D%3D) | 
-| 第34期天元戦予選 | O Rissei | Kobayashi Koichi | W+2.5 | 2007-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jB1EZdUYV67FZ4sbhwW%2FNg%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン2回戦 | Rin Kanketsu | O Rissei | B+5.5 | 2007-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gcq5xWd%2F7reIEc4X0fi0vw%3D%3D) | 
-| 第32期棋聖戦Aリーグ | O Rissei | Yamashiro Hiroshi | B+3.5 | 2007-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XozyuQMcAyHVr1i3Rejhcw%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン1回戦 | Imamura Yoshiaki | O Rissei | W+5.5 | 2007-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gWW6do4nssQcQkQTB6M40Q%3D%3D) | 
-| 第32期棋聖戦Aリーグ | Takao Shinji | O Rissei | W+4.5 | 2007-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5GFZ2biEWJGfP9eNUDMDgQ%3D%3D) | 
-| 第33期碁聖戦予選 | Yo Kagen | O Rissei | W+R | 2007-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Ln7XDfFweBBEwGJ6RRxwA%3D%3D) | 
-| 第34期天元戦予選 | O Rissei | Shimoji Gensho | B+R | 2007-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U%2B6SO8K4Zrvv7YrSq%2FaUvw%3D%3D) | 
-| 第32期棋聖戦Aリーグ | O Rissei | Yoda Norimoto | W+R | 2007-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zdpcc38i9OlB%2BT6Dno%2FmoA%3D%3D) | 
-| 第3回中環杯世界囲碁選手権1回戦 | O Rissei | Park Yeonghun | W+R | 2007-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qR76F%2FNBu3reIZfJ%2B6pQxA%3D%3D) | 
-| 第46期十段戦敗者復活戦1回戦 | O Rissei | Yamashiro Hiroshi | W+4.5 | 2007-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fHFkoPF6XlG5iPDSKO8EoQ%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン予選 | Miyazawa Goro | O Rissei | W+T | 2007-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vmjJBtSMEoqRTbJc4On2ag%3D%3D) | 
-| 第33期碁聖戦予選 | Konagai Masaru | O Rissei | W+R | 2007-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vrtLnW2hJlQIIV2mQRDcOA%3D%3D) | 
-| 第32期棋聖戦Aリーグ | Cho U | O Rissei | B+1.5 | 2007-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9at9gF%2Fa0hdh%2FXftCqjNhQ%3D%3D) | 
-| 第27期NECカップ囲碁トーナメント戦1回戦 | O Rissei | Cho Sonjin | W+3.5 | 2007-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SeW8AMIuvw5srAyw%2BTGT9g%3D%3D) | 
-| 第46期十段戦本戦1回戦 | O Rissei | Komatsu Hideki | W+R | 2007-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xHJqLU7o94j9RQYaKlGQGw%3D%3D) | 
-| 第32期棋聖戦Aリーグ | O Rissei | Kobayashi Satoru | B+R | 2007-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KO3Bx%2Bd8KpXDcN17Cjkbjg%3D%3D) | 
-| 第33期名人戦予選 | Mizokami Tomochika | O Rissei | B+R | 2007-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OGuoj7X%2BPcRIV%2FjkaeAtDQ%3D%3D) | 
-| 第55期王座戦2回戦 | O Rissei | Cho U | W+R | 2007-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dKMXl7fc5suLoAq0QIkDRA%3D%3D) | 
-| 第33期名人戦予選 | O Rissei | Michael Redmond | B+R | 2007-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e3nkM0dJseceLf4521VGbQ%3D%3D) | 
-| 第55期王座戦1回戦 | O Rissei | Kono Rin | B+R | 2007-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h0lUCBZ651X5PsyftIbTVA%3D%3D) | 
-| 第33期天元戦本戦2回戦 | O Rissei | Iyama Yuta | W+2.5 | 2007-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MJFHiTBhGhnufIAhEr5I8Q%3D%3D) | 
-| 第46期十段戦予選 | O Rissei | Anzai Nobuaki | B+R | 2007-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lL7dRBLMZNba5ASHDdGPfw%3D%3D) | 
-| 第63期本因坊戦予選 | Mizokami Tomochika | O Rissei | B+R | 2007-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aVh%2FmlYacXpXc%2FlJ9ra1LQ%3D%3D) | 
-| 第46期十段戦予選 | Iyama Yuta | O Rissei | W+0.5 | 2007-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ofg3hXVX0biGaV5CUHlKLA%3D%3D) | 
-| 第63期本因坊戦予選 | O Rissei | Akiyama Jiro | B+R | 2007-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XRHfz4pMYu8kU93i1kfqZA%3D%3D) | 
-| 第33期天元戦本戦1回戦 | O Rissei | Kamimura Haruo | B+R | 2007-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UxtE0v5TRBMdal2bNtHgTA%3D%3D) | 
-| 第55期王座戦予選 | O Rissei | Michael Redmond | B+1.5 | 2007-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eFHH2C2au48f%2F%2BCj7fvCPA%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープン予選 | Komatsu Hideki | O Rissei | B+1.5 | 2006-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hD4otUPELB0UU0knEcDW5A%3D%3D) | 
-| 第55期王座戦予選 | O Rissei | Nakao Jungo | B+R | 2006-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SMbihrewCdQYkXUy1T%2B9zw%3D%3D) | 
-| 第31期棋聖戦Bリーグ | O Rissei | Cho Chikun | B+R | 2006-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kam6hhl5ZS8NfyDzYy8QCw%3D%3D) | 
-| 第1回大和証券杯ネット囲碁オープンDリーグ | O Rissei | Kim Sujun | W+R | 2006-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=38A9u8oB8T%2FZeBsfh5n6ag%3D%3D) | 
-| 第32期碁聖戦予選 | O Rissei | Akiyama Jiro | W+R | 2006-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x%2BLXzYkcVH2xGDQc%2BLM6mQ%3D%3D) | 
-| 第31期棋聖戦Bリーグ | Kato Atsushi | O Rissei | B+3.5 | 2006-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U1SA1JRydFpNKL8a8oqSIw%3D%3D) | 
-| 第1回大和証券杯ネット囲碁オープンDリーグ | O Rissei | Yamada Takuji | W+R | 2006-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cj8bKDkcih2q1hJZOEhUjg%3D%3D) | 
-| 第1回大和証券杯ネット囲碁オープンDリーグ | Yamada Kimio | O Rissei | W+R | 2006-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4hHW8t4V8iWcTbp24CAW%2FA%3D%3D) | 
-| 第45期十段戦敗者復活戦2回戦 | Komatsu Hideki | O Rissei | B+R | 2006-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9TvUBTJPDTtFea0dPAGATw%3D%3D) | 
-| 第32期名人戦予選 | O Rissei | Tsuruyama Atsushi | W+R | 2006-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ya%2F1UEjuv5m%2FmrO08ue8ag%3D%3D) | 
-| 第32期碁聖戦予選 | O Rissei | Sonoda Yasutaka | B+R | 2006-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KHZ7zzf05jtXZgKCTvxhyA%3D%3D) | 
-| 第31期棋聖戦Bリーグ | O Rissei | Kobayashi Satoru | W+R | 2006-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1YjERBZEk5q7Os0%2BgBVG7g%3D%3D) | 
-| 第32期名人戦予選 | O Rissei | Nakamura Hidehito | B+R | 2006-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cLuFM7Na5keZGyNxpx2AVg%3D%3D) | 
-| 第45期十段戦本戦2回戦 | O Rissei | Yamada Kimio | W+R | 2006-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KasRZWQ61py2DFrudGaYUw%3D%3D) | 
-| 第31期棋聖戦Bリーグ | Yuki Satoshi | O Rissei | W+0.5 | 2006-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gKZX0NOPQQ%2FDnwScIbNUcQ%3D%3D) | 
-| 第32期天元戦本戦準決勝 | Yamashita Keigo | O Rissei | B+R | 2006-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DmQpqX1Kx4%2F7nKseBdn%2FoA%3D%3D) | 
-| 第54期王座戦2回戦 | O Rissei | Iyama Yuta | W+3.5 | 2006-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5dLy1XkVvYLpOj2oNFr%2Bfg%3D%3D) | 
-| 第31期棋聖戦Bリーグ | Imamura Toshiya | O Rissei | W+13.5 | 2006-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zqGWT3taJTRwS%2FkREy6JnA%3D%3D) | 
-| 第13期阿含・桐山杯全日本早碁オープン戦予選 | Ishida Yoshio | O Rissei | B+1.5 | 2006-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F8IDzZZEmWlkEzDDkvRG%2BQ%3D%3D) | 
-| 第45期十段戦本戦1回戦 | O Rissei | Hane Naoki | B+R | 2006-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XT1LDSCc2enSO7%2FJ27BSqQ%3D%3D) | 
-| 第32期天元戦本戦3回戦 | Hane Naoki | O Rissei | W+R | 2006-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hAAqu%2FZqOQeL1duXzCG90g%3D%3D) | 
-| 第13期阿含・桐山杯全日本早碁オープン戦予選 | Nakane Naoyuki | O Rissei | W+R | 2006-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D9G2NmNp%2BvCeuS0wqGMYgA%3D%3D) | 
-| 第26期NECカップ囲碁トーナメント戦1回戦 | Kobayashi Satoru | O Rissei | B+R | 2006-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wx2a2qHEgMw2uzzUl3sVLg%3D%3D) | 
-| 第54期王座戦1回戦 | Nakaonoda Tomomi | O Rissei | W+5.5 | 2006-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=efmJWrW%2FBof%2FhAqpSSg3mQ%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第3戦 | Yamashita Keigo | O Rissei | B+2.5 | 2006-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IpX2US%2F1G2BPAnLg6mJmhA%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第2戦 | O Rissei | Park Yeonghun | W+R | 2006-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HPEMGeoOaF23y0w2RrJU2w%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第1戦 | O Rissei | Ding Wei | W+R | 2006-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uMsLJJMeEPIn2doGtQfSKw%3D%3D) | 
-| 第62期本因坊戦予選 | Sonoda Yuichi | O Rissei | B+R | 2006-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BSFOy0hGhKpN0tpQruqjzQ%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | O Rissei | Hikosaka Naoto | W+2.5 | 2006-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yyGsBDgFd3LqTd26Qtnb3Q%3D%3D) | 
-| 第61期本因坊戦リーグ | O Rissei | Cho Sonjin | W+R | 2006-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vyA083o7rCf9NXo7r1z7PQ%3D%3D) | 
-| 第32期天元戦本戦2回戦 | O Rissei | Ko Iso | B+R | 2006-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tNzI5JOOEgWIjnWgGUMiWA%3D%3D) | 
-| 第61期本因坊戦リーグ | O Rissei | O Meien | B+3.5 | 2006-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xls%2BokaH140FAQkd6sKxHQ%3D%3D) | 
-| 第61期本因坊戦リーグ | Hane Naoki | O Rissei | B+1.5 | 2006-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nOL0cKy2M05NuBiQK21FzA%3D%3D) | 
-| 第31期碁聖戦本戦2回戦 | Otake Hideo | O Rissei | B+5.5 | 2006-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8%2FPratijk2vjtRfbuwgMpQ%3D%3D) | 
-| 第61期本因坊戦リーグ | Yoda Norimoto | O Rissei | B+R | 2006-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J9Dg4lAADghBu%2BSurL%2Fp%2Fw%3D%3D) | 
-| 第32期天元戦本戦1回戦 | Ryu Shikun | O Rissei | W+6.5 | 2006-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nFZGi6CJJtrXO5X7x5Qm5w%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯国内予選 | Sakai Hideyuki | O Rissei | B+0.5 | 2005-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TzAKDIzy5t6HtUhlVe%2BE5Q%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | O Rissei | Han Zenki | B+R | 2005-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HukZHWry16Qdeg%2B3rDYxKw%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Kono Rin | O Rissei | W+R | 2005-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QJyrFuEt4wL63R%2Bel%2FPnQQ%3D%3D) | 
-| 第61期本因坊戦リーグ | So Yokoku | O Rissei | W+R | 2005-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rAkDJ4E8mEixn23vdVjWiA%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯国内予選 | O Rissei | O Meien | B+1.5 | 2005-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1kxKHggp8NLa4AHE8Sg3Mw%3D%3D) | 
-| 第61期本因坊戦リーグ | Cho U | O Rissei | B+R | 2005-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bEahZpqNX1VWfN8NBcpSUA%3D%3D) | 
-| 第31期碁聖戦本戦1回戦 | O Rissei | Seto Taiki | B+2.5 | 2005-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B%2Fs%2BNRjJh5evzWPXUSzhYw%3D%3D) | 
-| 第61期本因坊戦リーグ | O Rissei | Yamada Kimio | W+R | 2005-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NetoZb0OgGeZiKp5CvEjbQ%3D%3D) | 
-| 第31期名人戦予選 | Takao Shinji | O Rissei | B+4.5 | 2005-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=97eJoN0lT7Fz2GBH50Z3Ow%3D%3D) | 
-| 第44期十段戦敗者復活戦3回戦 | Yamashita Keigo | O Rissei | B+R | 2005-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PndETBEwOAi%2BkiPTJV0Ljg%3D%3D) | 
-| 第30期棋聖戦Bリーグ | Yamashita Keigo | O Rissei | B+R | 2005-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yOj37XSUyGr7S2PCwyuBKw%3D%3D) | 
-| 第30期棋聖戦Bリーグ | O Rissei | Imamura Toshiya | B+R | 2005-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IebWm5lLt%2Bg7jPTR3qEuew%3D%3D) | 
-| 第44期十段戦本戦3回戦 | O Rissei | Takao Shinji | W+R | 2005-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a5XGlZJP7%2BKoOZVrZU%2B9PA%3D%3D) | 
-| 第31期名人戦予選 | Furuya Yutaka | O Rissei | W+1.5 | 2005-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MMmWBJ5BVgeClMz84eTPEg%3D%3D) | 
-| 第31期名人戦予選 | Yokota Shigeaki | O Rissei | W+R | 2005-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YRcscHqhigxyowB06CdwBw%3D%3D) | 
-| 第30期棋聖戦Bリーグ | Komatsu Hideki | O Rissei | B+3.5 | 2005-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g7buC2nIiyNmbA0VaL4Izw%3D%3D) | 
-| 第2回中環杯世界囲碁選手権2回戦 | O Rissei | Hane Naoki | W+R | 2005-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u%2FCVJMElq6KDf%2B%2BGBK0qRw%3D%3D) | 
-| 第2回中環杯世界囲碁選手権1回戦 | O Rissei | Park Yeonghun | B+R | 2005-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hE9e0SwVbWW3LIGrjZ1Jkg%3D%3D) | 
-| 第61期本因坊戦予選 | Ryu Shikun | O Rissei | W+3.5 | 2005-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GQLhahtwbqvQUTmY10XBnw%3D%3D) | 
-| 第44期十段戦本戦2回戦 | Rin Kaiho | O Rissei | W+7.5 | 2005-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=48osMqJGNNolFpXrqfJQbw%3D%3D) | 
-| 第30期棋聖戦Bリーグ | O Rissei | O Meien | W+R | 2005-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ZLQdN%2BXCh24id8CeRpryg%3D%3D) | 
-| 第12期阿含・桐山杯全日本早碁オープン戦2回戦 | Iyama Yuta | O Rissei | B+R | 2005-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UeIpg%2FFsTXHj9DKenIcPUg%3D%3D) | 
-| 第53期王座戦2回戦 | Nakaonoda Tomomi | O Rissei | B+R | 2005-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=91I4ZFwenywmoYQdQa9hxQ%3D%3D) | 
-| 第25期NECカップ囲碁トーナメント戦1回戦 | O Rissei | Miyazawa Goro | W+R | 2005-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QCyxwVxv0iKStO4BFHyy8Q%3D%3D) | 
-| 第12期阿含・桐山杯全日本早碁オープン戦1回戦 | Nakano Hironari | O Rissei | W+R | 2005-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ClXadp3SHbvnPvlXtQq%2BtA%3D%3D) | 
-| 第30期棋聖戦Bリーグ | Kobayashi Satoru | O Rissei | W+0.5 | 2005-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P9U%2ByuW6AxZitPDxjepPmQ%3D%3D) | 
-| 第53期王座戦1回戦 | Yuki Satoshi | O Rissei | W+R | 2005-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rxFEMQypQ%2B0BQTPtUKmbpA%3D%3D) | 
-| 第44期十段戦本戦1回戦 | O Rissei | Yamashiro Hiroshi | B+0.5 | 2005-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JG3ofPqHLL5Z6uQUhp7u%2BA%3D%3D) | 
-| 第10回LG杯世界棋王戦1回戦 | O Rissei | Piao Wenyao | W+2.5 | 2005-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r%2Ft3dhwRrGCmulUo0uATmQ%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第3戦 | O Rissei | Hane Naoki | W+1.5 | 2005-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=krQi8dSpNm0gksj8KOcLlg%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第2戦 | Zhou Heyang | O Rissei | B+0.5 | 2005-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yPfwAG5uiYWr99IWKkwSmQ%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第1戦 | O Rissei | Lee Sedol | W+R | 2005-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hq%2F9hxuI6fTYWHGl5xfJiA%3D%3D) | 
-| 第43期十段戦挑戦手合五番勝負第5局 | Cho Chikun | O Rissei | B+5.5 | 2005-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pTxsWM6e%2FwfZlRcXDWcVnQ%3D%3D) | 
-| 第43期十段戦挑戦手合五番勝負第4局 | O Rissei | Cho Chikun | W+R | 2005-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h%2B8%2BqJBjUhHAn5Z20Uwuow%3D%3D) | 
-| 第43期十段戦挑戦手合五番勝負第3局 | Cho Chikun | O Rissei | W+19.5 | 2005-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kCA01X3D1YRQFs43cBCi%2FQ%3D%3D) | 
-| 第60期本因坊戦リーグ | Han Zenki | O Rissei | W+R | 2005-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1xX36vymQorir1QQ6TEp5g%3D%3D) | 
-| 第30期碁聖戦本戦3回戦 | O Rissei | Hane Naoki | W+1.5 | 2005-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1adCw81f9v22D9JEiXlELg%3D%3D) | 
-| 第43期十段戦挑戦手合五番勝負第2局 | O Rissei | Cho Chikun | B+5.5 | 2005-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T%2FZNFvT5z37zgEsNWOx3DA%3D%3D) | 
-| 第31期天元戦本戦2回戦 | Yoda Norimoto | O Rissei | B+R | 2005-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qNwCj1OnwrItKAH%2FAL2KwA%3D%3D) | 
-| 第43期十段戦挑戦手合五番勝負第1局 | Cho Chikun | O Rissei | B+0.5 | 2005-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xc3aB2FKJCowMq4QVu1MTQ%3D%3D) | 
-| 第60期本因坊戦リーグ | O Rissei | Mimura Tomoyasu | B+5.5 | 2005-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FWTubQW41SaPp%2FEX0SNPFg%3D%3D) | 
-| 第31期天元戦本戦1回戦 | Yamada Noriyoshi | O Rissei | W+1.5 | 2005-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q%2BoIx1oHZcUm%2Bemdw7L1Wg%3D%3D) | 
-| 第60期本因坊戦リーグ | Yoda Norimoto | O Rissei | B+1.5 | 2005-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BVlDn7zySLhpiBsmZmqn9A%3D%3D) | 
-| 第1回中環杯世界囲碁選手権決勝 | O Rissei | Park Yeonghun | W+R | 2005-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n7w1gCv8%2FwNjAYyWJ0cT5w%3D%3D) | 
-| 第1回中環杯世界囲碁選手権準決勝 | O Rissei | Lee Changho | B+0.5 | 2005-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DcjmKHvQQWLHXEep7amLgw%3D%3D) | 
-| 第60期本因坊戦リーグ | Takao Shinji | O Rissei | B+R | 2005-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TBAb2CH6Iw3gSSqB6oh0Sg%3D%3D) | 
-| 第60期本因坊戦リーグ | O Rissei | So Yokoku | W+R | 2004-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mny3idC2oJoEs9EcZ0xSQA%3D%3D) | 
-| 第24期NECカップ囲碁トーナメント戦2回戦 | O Rissei | Ryu Shikun | W+1.5 | 2004-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8DUs9KOGVnLB1iKiSUBQ5g%3D%3D) | 
-| 第60期本因坊戦リーグ | O Rissei | O Meien | W+0.5 | 2004-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FBXxD%2BYEDGRFm7m2Eek2Xg%3D%3D) | 
-| 第60期本因坊戦リーグ | Cho Sonjin | O Rissei | B+R | 2004-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pMHH%2BGbkt6D%2BvrDL0E14%2FA%3D%3D) | 
-| 第29期棋聖戦Bリーグ | O Rissei | Imamura Yoshiaki | B+R | 2004-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LFueB9%2BZ8%2FuETQ4t6Y6tWQ%3D%3D) | 
-| 第1回中環杯世界囲碁選手権2回戦 | O Rissei | Kato Masao | B+1.5 | 2004-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w3Ma8GpeMy91BgMnK%2BO28A%3D%3D) | 
-| 第1回中環杯世界囲碁選手権1回戦 | O Rissei | Cho Chikun | B+1.5 | 2004-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B%2BXtXQJB8FnrKX1iGzPiVg%3D%3D) | 
-| 第29期棋聖戦Bリーグ | Cho U | O Rissei | B+R | 2004-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eiDwxzlup83CSXPsYwVslQ%3D%3D) | 
-| 第29期棋聖戦Bリーグ | O Rissei | Cho Chikun | B+R | 2004-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9%2FZp%2FgBlMpb0kcj7rnByxQ%3D%3D) | 
-| 第29期名人戦リーグ | Yamada Kimio | O Rissei | B+R | 2004-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BrouwfCMkE1r1FotVB%2FWng%3D%3D) | 
-| 第29期棋聖戦Bリーグ | Kobayashi Satoru | O Rissei | B+R | 2004-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FZOgl2yYvTd20mPNRd6oHQ%3D%3D) | 
-| 第29期名人戦リーグ | Cho Chikun | O Rissei | B+R | 2004-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ux%2Bhm6o1IYNgLFzx0xutYA%3D%3D) | 
-| 第52期王座戦2回戦 | Hane Naoki | O Rissei | B+0.5 | 2004-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QpWEEkpdBmaTKAWayKBOjw%3D%3D) | 
-| 第29期名人戦リーグ | O Rissei | Imamura Toshiya | W+R | 2004-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JNgPcgJhlh8fE75YHVf8xA%3D%3D) | 
-| 第24期NECカップ囲碁トーナメント戦1回戦 | O Rissei | Rin Kaiho | B+R | 2004-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ww5luDQ2gPRaZEPBCyn2gQ%3D%3D) | 
-| 第29期棋聖戦Bリーグ | O Rissei | Yuki Satoshi | B+0.5 | 2004-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mlmYEPDRligUIObnbeF0HQ%3D%3D) | 
-| 第9回LG杯世界棋王戦2回戦 | Lee Changho | O Rissei | B+R | 2004-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6H%2BHF%2FK55Ron8Np09IeRSg%3D%3D) | 
-| 第9回LG杯世界棋王戦1回戦 | O Rissei | Cho Hunhyun | B+2.5 | 2004-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iuodZE8DzPwaVGH5R9hIFQ%3D%3D) | 
-| 第52期王座戦1回戦 | Otake Hideo | O Rissei | W+R | 2004-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OpIaH2xIcbBpsOn0BZPZfw%3D%3D) | 
-| 第29期碁聖戦本戦準決勝 | O Rissei | Yamada Kimio | W+R | 2004-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3PhTaWY2KehiOxDcnyJVOw%3D%3D) | 
-| 第2期JALスーパー早碁1回戦 | Cho U | O Rissei | B+2.5 | 2004-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9On6Oc%2FJg5PAPqQRU80Iig%3D%3D) | 
-| 第5回応氏杯世界選手権1回戦 | Peng Quan | O Rissei | B+3 | 2004-04-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PQr56ZzZWNWpxlHdtv1myw%3D%3D) | 
-| 第42期十段戦挑戦手合五番勝負第4局 | O Rissei | Cho U | B+R | 2004-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ArROL2m9K7dXaAOWMEyrkQ%3D%3D) | 
-| 第42期十段戦挑戦手合五番勝負第3局 | Cho U | O Rissei | W+R | 2004-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NCFlH%2BnrezbhCmZVaMb%2F%2Bg%3D%3D) | 
-| 第59期本因坊戦リーグ | O Rissei | O Meien | W+R | 2004-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d6lKUVq841c0%2FqIc7liGow%3D%3D) | 
-| 第42期十段戦挑戦手合五番勝負第2局 | O Rissei | Cho U | W+1.5 | 2004-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wO7roZFua4Kq4H43HqVs6Q%3D%3D) | 
-| 第3回CSK杯囲碁アジア対抗戦第3戦 | Yamashita Keigo | O Rissei | W+2.5 | 2004-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ly1u7sOsYpjfgL1%2FD5O01A%3D%3D) | 
-| 第3回CSK杯囲碁アジア対抗戦第2戦 | O Rissei | Yu Bin | B+15.5 | 2004-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KtA6EuW6yte8QVEyuzEpdg%3D%3D) | 
-| 第3回CSK杯囲碁アジア対抗戦第1戦 | Yoo Changhyuk | O Rissei | B+0.5 | 2004-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MplSopFBX57wBqfuHyFahg%3D%3D) | 
-| 第59期本因坊戦リーグ | O Rissei | Kobayashi Koichi | B+2.5 | 2004-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7yKz49Aionp7I5Zr17%2BOfQ%3D%3D) | 
-| 第29期碁聖戦本戦3回戦 | Yuki Satoshi | O Rissei | W+R | 2004-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fykTnNL4get%2Fv515ebAw6Q%3D%3D) | 
-| 第42期十段戦挑戦手合五番勝負第1局 | Cho U | O Rissei | W+9.5 | 2004-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VNjTLku9JBFVWo5NW%2BhuAA%3D%3D) | 
-| 第29期名人戦リーグ | Kobayashi Satoru | O Rissei | B+R | 2004-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sT1IUH4nsUyivwswJEimkA%3D%3D) | 
-| 第29期名人戦リーグ | O Rissei | O Meien | B+R | 2004-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oBwEIFtWANZUrlLL5Q2ZKg%3D%3D) | 
-| 第30期天元戦本戦2回戦 | Kim Sujun | O Rissei | B+6.5 | 2004-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uf6fip3yROn1n6P1bvVKwA%3D%3D) | 
-| 第59期本因坊戦リーグ | Yamashita Keigo | O Rissei | W+3.5 | 2004-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i7RlRPWh6yLXnfaEtyb9EQ%3D%3D) | 
-| 第30期天元戦本戦1回戦 | Akiyama Jiro | O Rissei | W+3.5 | 2004-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RohmeMklMgwvjZKC6zLdqA%3D%3D) | 
-| 第29期碁聖戦本戦2回戦 | O Rissei | Akiyama Jiro | B+1.5 | 2004-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0iqPIp16iJlv6MZ1qOkP3g%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯国内予選決勝 | O Rissei | Hane Naoki | W+5.5 | 2004-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dQAtrlst9ur25xsddluDAA%3D%3D) | 
-| 第59期本因坊戦リーグ | O Rissei | Cho Sonjin | W+R | 2004-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1%2FgBp98pMtaMjFIDb%2BNJmQ%3D%3D) | 
-| 第29期名人戦リーグ | Rin Kaiho | O Rissei | W+5.5 | 2004-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sI87Lkw5DrOnol4dYPPE7w%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権1回戦 | O Rissei | Song Taekon | W+10.5 | 2003-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BJHC48cOzMInxADdfjGqeg%3D%3D) | 
-| 第29期名人戦リーグ | O Rissei | Yamashita Keigo | B+R | 2003-12-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h1TC6%2FTBwmaePGLH%2FqOezw%3D%3D) | 
-| 第59期本因坊戦リーグ | Kato Masao | O Rissei | W+0.5 | 2003-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gH4AqeaZlBhH8bne9SsF2Q%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯国内予選 | Ishida Akira | O Rissei | W+R | 2003-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VtDko51diWpFGw%2Bs0CWJlA%3D%3D) | 
-| 第29期碁聖戦本戦1回戦 | Oya Koichi | O Rissei | W+5.5 | 2003-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bszos0K0cZ3ux9EqmKZdmw%3D%3D) | 
-| 第59期本因坊戦リーグ | Mimura Tomoyasu | O Rissei | B+R | 2003-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gsAmHxtxSSSR3Tzpj%2Bvt8A%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第18節 | Kong Jie | O Rissei | W+0.5 | 2003-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LXXHuelpln2%2Ff9oUdd5S5w%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第17節 | O Rissei | Ding Wei | B+1.5 | 2003-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bGaXsJCZXgU%2B%2FRmpjQagUw%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯国内予選 | O Rissei | Kamimura Haruo | B+R | 2003-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jpZXswtT8R4Feb%2BymvO%2B6w%3D%3D) | 
-| 第59期本因坊戦リーグ | Yoda Norimoto | O Rissei | W+2.5 | 2003-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9CIauj5RnHpk%2BCSmDdUJCA%3D%3D) | 
-| 第28期棋聖戦Aリーグ | Ishida Yoshio | O Rissei | W+6.5 | 2003-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=es1sXi0j0MdrbUtQe5gqwg%3D%3D) | 
-| 第28期棋聖戦Aリーグ | O Rissei | Kobayashi Satoru | B+8.5 | 2003-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yl3TcCcMzUBAhhZ7FnDCmw%3D%3D) | 
-| 第15回テレビアジア選手権 | Zhou Heyang | O Rissei | B+0.5 | 2003-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h2Z%2F8b%2BKzdWr2lTu8961zg%3D%3D) | 
-| 第15回テレビアジア選手権 | O Rissei | missing | B+R | 2003-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N0RbaKamogwV%2FoawOujXag%3D%3D) | 
-| 第28期棋聖戦Aリーグ | Hane Naoki | O Rissei | B+R | 2003-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Plu5YDlDK7e3aCNuxsReg%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第11節 | O Rissei | Zhou Heyang | W+R | 2003-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tzTZKwEQDpi09RE7rPcooQ%3D%3D) | 
-| 第28期名人戦リーグ | Takemiya Masaki | O Rissei | W+4.5 | 2003-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3xwVbWCKD28jN8kC18M3AQ%3D%3D) | 
-| 第23期NECカップ囲碁トーナメント戦1回戦 | O Rissei | Akiyama Jiro | W+R | 2003-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5gEBpS6SA10akVRFYmwAig%3D%3D) | 
-| 第29期天元戦本戦準決勝 | O Rissei | Yamashita Keigo | W+4.5 | 2003-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2MdYrWZTE5vGdo831Fd9eA%3D%3D) | 
-| 第28期棋聖戦Aリーグ | Imamura Yoshiaki | O Rissei | B+0.5 | 2003-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=00un7uo1gCpDFbgthH5z2w%3D%3D) | 
-| 第28期名人戦リーグ | O Meien | O Rissei | W+R | 2003-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZQiuclyb8gn15ONYwJ02Rg%3D%3D) | 
-| 第29期天元戦本戦3回戦 | Yamashiro Hiroshi | O Rissei | W+R | 2003-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xTFrGFN%2FtagFu1c9yNX8VQ%3D%3D) | 
-| 第28期棋聖戦Aリーグ | O Rissei | Mimura Tomoyasu | B+R | 2003-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XFRYUVpz6yA7sfqS4R%2Bwww%3D%3D) | 
-| 第8回LG杯世界棋王戦1回戦 | O Rissei | Alexander Dinerchtein | W+1.5 | 2003-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1V5ZwoyQl%2FUnxK6cTHu7Bw%3D%3D) | 
-| 第1期JALスーパー早碁1回戦 | O Rissei | Takao Shinji | W+R | 2003-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1eWuy%2FqGXhOKKovmdaUeHQ%3D%3D) | 
-| 第28期名人戦リーグ | O Rissei | Cho Chikun | B+6.5 | 2003-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vgQ0gTMTpuPFH8mL%2FD%2BvXQ%3D%3D) | 
-| 第16回世界囲碁選手権富士通杯3回戦 | Lee Changho | O Rissei | B+4.5 | 2003-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sahvGsdi9KB%2FnBraWym7Kg%3D%3D) | 
-| 第28期名人戦リーグ | O Rissei | Mizokami Tomochika | B+R | 2003-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i1jlrCQL0EIs49pG25GvOw%3D%3D) | 
-| 第51期王座戦1回戦 | O Rissei | Kato Masao | W+R | 2003-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zxUUdJXTOIXfAfRdOJyN4g%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第3戦 | Lee Sedol | O Rissei | W+R | 2003-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PgHLRDnDlC09bKKUHl1RDA%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第2戦 | Wang Xi | O Rissei | W+R | 2003-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fu%2ByUTQDXhMVLzi9UCxSnQ%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦第1戦 | Yoda Norimoto | O Rissei | B+R | 2003-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WGXYKR%2BrjjPGDwtGZ2tbYg%3D%3D) | 
-| 第16回世界囲碁選手権富士通杯2回戦 | O Rissei | Cho Hunhyun | B+4.5 | 2003-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CceEBsqBuo4EsBR8aaUmig%3D%3D) | 
-| 第29期天元戦本戦2回戦 | Komatsu Hideki | O Rissei | W+2.5 | 2003-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uSeGzghnxYiZNfwiRiooHA%3D%3D) | 
-| 第28期名人戦リーグ | O Rissei | Rin Kaiho | B+R | 2003-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aHqiZcUw%2BLEtUvm3nBK0EQ%3D%3D) | 
-| 第28期名人戦リーグ | Ryu Shikun | O Rissei | B+0.5 | 2003-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GapFWqar81vdV7WenXRmjg%3D%3D) | 
-| 第29期天元戦本戦1回戦 | Takahara Syuji | O Rissei | W+R | 2003-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GOgHJVhYVyyRa6qWw1f0cw%3D%3D) | 
-| 第28期碁聖戦本戦1回戦 | Honda Kunihisa | O Rissei | B+R | 2002-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PgX3TuW%2Bs20gnn5IzcRHjQ%3D%3D) | 
-| 第4回農心辛ラーメン杯世界囲碁最強戦第2戦 | O Rissei | Park Yeonghun | W+R | 2002-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ChBuL60ys%2FU8Q6jaRw5DaA%3D%3D) | 
-| 第4回春蘭杯世界囲碁選手権2回戦 | O Rissei | Lee Changho | W+R | 2002-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t8BuTr8EafmK9vvZjT84XQ%3D%3D) | 
-| 第7回LG杯世界棋王戦2回戦 | O Rissei | Cho Hanseung | W+3.5 | 2002-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L4EbJYB1UqV1TZeu%2FDi4vw%3D%3D) | 
-| 第6回LG杯世界棋王戦2回戦 | Yoo Changhyuk | O Rissei | B+R | 2001-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TlcTYybQRIkPmshNf%2B1rtw%3D%3D) | 
-| 第5回LG杯世界棋王戦準決勝 | O Rissei | Lee Changho | W+2.5 | 2001-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8lftdS7l6zjETF5wIXlA1A%3D%3D) | 
-| 第5回LG杯世界棋王戦3回戦 | O Rissei | Cho Hunhyun | B+16.5 | 2000-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B0Yu51hXPHAfw4020hOn9g%3D%3D) | 
-| 第5回LG杯世界棋王戦2回戦 | O Rissei | Yang Keon | B+R | 2000-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kXqyHz9kWpkmBCrHH7o2NA%3D%3D) | 
-| 第4回応氏杯世界選手権2回戦 | O Rissei | Lee Changho | W+R | 2000-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cVYvXRjn%2F3Huv2Rp8FaCtQ%3D%3D) | 
-| 第4回応氏杯世界選手権1回戦 | O Rissei | Liu Xiaoguang | B+R | 2000-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rMd1IVKVc2zEXmf8DEUVKA%3D%3D) | 
-| 第4回LG杯世界棋王戦3回戦 | O Rissei | Yu Bin | W+3.5 | 1999-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JfL0jg7542FtKYgxaVtumg%3D%3D) | 
-| 第4期三星杯2回戦 | O Rissei | Lee Changho | W+2.5 | 1999-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zq2iqI0qmVF4yXou%2B%2Fxgcg%3D%3D) | 
-| 第4期三星杯1回戦 | O Rissei | missing | B+6.5 | 1999-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MJjJf1K0rwCTVrYaN3JWlA%3D%3D) | 
-| 第4回LG杯世界棋王戦2回戦 | O Rissei | Mok Jinseok | B+R | 1999-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qq3tmWDzZSLlku6CKPFG3Q%3D%3D) | 
-| 第3回LG杯世界棋王戦2回戦 | O Rissei | Zhou Junxun | W+R | 1998-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9NGw2q81%2FVRw4lBgnJXfNw%3D%3D) | 
-| 第3回応氏杯世界選手権1回戦 | O Rissei | Yoo Changhyuk | W+R | 1996-04-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZfoUfR9QLXJ7lrzjoRpP8Q%3D%3D) | 
-| 第2回応氏杯世界選手権1回戦 | Awaji Shuzo | O Rissei | B+9 | 1992-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iFsjlDXnjfaUfX1tf3wVvQ%3D%3D) | 
-| 第1回応氏杯世界選手権1回戦 | Kobayashi Koichi | O Rissei | B+3 | 1988-08-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lssyyiymvl0BvC3eXEC0Kw%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-16 | 第48期天元戦予選 | Ohashi Hirofumi | O Rissei | Win | W+R | 6.5 | 3003 | -34 | 
+| 2021-09-02 | 第47期名人戦予選 | Sun Zhe | O Rissei | Lose | B+R | 6.5 | 3037 | -52 | 
+| 2021-08-19 | 第60期十段戦予選 | Anzai Nobuaki | O Rissei | Lose | B+R | 6.5 | 3089 | 169 | 
+| 2021-07-08 | 第47期名人戦予選 | Kanazawa Hideo | O Rissei | Win | W+R | 6.5 | 2920 | -15 | 
+| 2021-06-14 | 第47期名人戦予選 | O Rissei |  | Win | B+R | 6.5 | 2935 | 159 | 
+| 2021-04-29 | 第77期本因坊戦予選 | Yamashita Keigo | O Rissei | Lose | B+2.5 | 6.5 | 2776 | 1 | 
+| 2021-04-15 | 第69期王座戦予選 | Ida Atsushi | O Rissei | Lose | B+3.5 | 6.5 | 2775 | -88 | 
+| 2021-04-05 | 第77期本因坊戦予選 | Ogaki Yusaku | O Rissei | Win | W+R | 6.5 | 2863 | -37 | 
+| 2021-03-18 | 第69期王座戦予選 | Fujita Akihiko | O Rissei | Win | W+1.5 | 6.5 | 2900 | -152 | 
+| 2021-01-25 | 第69期王座戦予選 | Rin Shien | O Rissei | Win | W+R | 6.5 | 3052 | 4 | 
+| 2021-01-21 | 第46期棋聖戦予選 | O Rissei | Kanda Ei | Lose | W+5.5 | 6.5 | 3048 | -9 | 
+| 2020-10-05 | 第46期碁聖戦予選 | O Rissei | Shiraishi Yuichi | Lose | W+7.5 | 6.5 | 3057 | 3 | 
+| 2020-10-01 | 第47期天元戦予選 | O Rissei | Uchida Shuhei | Lose | W+R | 6.5 | 3054 | -49 | 
+| 2020-09-28 | 第59期十段戦2回戦 | O Rissei | Takao Shinji | Lose | W+R | 6.5 | 3103 | -16 | 
+| 2020-09-17 | 第47期天元戦予選 | O Rissei |  | Win | B+R | 6.5 | 3119 | 75 | 
+| 2020-08-20 | 第59期十段戦予選 | O Rissei | Yukawa Mitsuhisa | Win | B+R | 6.5 | 3044 | 165 | 
+| 2020-07-30 | 第76期本因坊戦予選 | O Rissei | Onishi Ryuhei | Lose | W+R | 6.5 | 2879 | -120 | 
+| 2020-06-25 | 第76期本因坊戦予選 | Nakane Naoyuki | O Rissei | Win | W+R | 6.5 | 2999 | 195 | 
+| 2020-04-02 | 第46期名人戦予選 | O Rissei | Cho Chikun | Lose | W+2.5 | 6.5 | 2804 | -63 | 
+| 2020-03-19 | 第76期本因坊戦予選 | O Rissei | Takeuchi Kousuke | Win | B+R | 6.5 | 2867 | -9 | 
+| 2020-03-05 | 第46期名人戦予選 | Iguchi Hideichiro | O Rissei | Win | W+R | 6.5 | 2876 | -40 | 
+| 2020-02-13 | 第76期本因坊戦予選 | O Rissei | Awaji Shuzo | Win | B+1.5 | 6.5 | 2916 | -80 | 
+| 2020-02-06 | 第46期名人戦予選 | Kuwabara Shun | O Rissei | Win | W+R | 6.5 | 2996 | -58 | 
+| 2019-12-26 | 第45期棋聖戦ファーストトーナメント予選 | O Rissei | Inaba Takahiro | Lose | W+2.5 | 6.5 | 3054 | 273 | 
+| 2019-12-12 | 第46期名人戦予選 | Hara Sachiko | O Rissei | Win | W+2.5 | 6.5 | 2781 | -8 | 
+| 2019-12-05 | 第45期棋聖戦ファーストトーナメント予選 | Miyazawa Goro | O Rissei | Win | W+R | 6.5 | 2789 | 12 | 
+| 2019-11-14 | 第45期棋聖戦ファーストトーナメント予選 | O Rissei | Okuda Aya | Win | B+R | 6.5 | 2777 | 74 | 
+| 2019-10-10 | 第68期王座戦予選 | O Rissei | Numadate Sakiya | Lose | W+6.5 | 6.5 | 2703 | -49 | 
+| 2019-10-03 | 第58期十段戦1回戦 | Motoki Katsuya | O Rissei | Lose | B+2.5 | 6.5 | 2752 | -34 | 
+| 2019-09-19 | 第45期碁聖戦予選 | Kim Sujun | O Rissei | Win | W+R | 6.5 | 2786 | 105 | 
+| 2019-08-29 | 第45期碁聖戦予選 | O Rissei | Komatsu Hideki | Win | B+R | 6.5 | 2681 | -60 | 
+| 2019-07-18 | 第58期十段戦予選 | Akiyama Jiro | O Rissei | Win | W+R | 6.5 | 2741 | 0 | 
+| 2019-06-12 | 2019年1004島新安国際シニア囲碁大会個人戦決勝 | Yu Bin | O Rissei | Win | W+5.5 | 6.5 | 2741 | 0 | 
+| 2019-06-12 | 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | O Rissei | Seo Bongsoo | Lose | W+R | 6.5 | 2741 | -7 | 
+| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会個人戦準決勝 | Seo Bongsoo | O Rissei | Win | W+R | 6.5 | 2748 | 0 | 
+| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | O Rissei | Rui Naiwei | Win | B+R | 6.5 | 2748 | 40 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | Kobayashi Koichi | O Rissei | Win | W+R | 6.5 | 2708 | 0 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | O Rissei | Kobayashi Koichi | Win | B+9.5 | 6.5 | 2708 | 26 | 
+| 2019-06-08 | 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Yoo Changhyuk | O Rissei | Win | W+R | 6.5 | 2682 | 64 | 
+| 2019-06-06 | 第9回フマキラー囲碁マスターズカップ2回戦 | Yoda Norimoto | O Rissei | Lose | B+3.5 | 6.5 | 2618 | 21 | 
+| 2019-05-23 | 第46期天元戦予選 |  | O Rissei | Lose | B+1.5 | 6.5 | 2597 | -28 | 
+| 2019-05-16 | 第9回フマキラー囲碁マスターズカップ1回戦 | O Rissei | Rin Kaiho | Win | B+0.5 | 6.5 | 2625 | -21 | 
+| 2019-05-02 | 第45期名人戦予選 | Lee Ishu | O Rissei | Lose | B+0.5 | 6.5 | 2646 | -82 | 
+| 2019-04-25 | 第58期十段戦予選 | Iguchi Hideichiro | O Rissei | Win | W+R | 6.5 | 2728 | 5 | 
+| 2019-04-18 | 第75期本因坊戦予選 | O Rissei | Lee Ishu | Lose | W+R | 6.5 | 2723 | -42 | 
+| 2019-03-28 | 第75期本因坊戦予選 | Xie Yimin | O Rissei | Win | W+3.5 | 6.5 | 2765 | 52 | 
+| 2019-02-14 | 第44期棋聖戦ファーストトーナメント予選 | O Rissei | Matsumoto Takehisa | Lose | W+R | 6.5 | 2713 | -61 | 
+| 2019-01-31 | 第44期棋聖戦予選 | O Rissei | Chang Rueijie | Win | B+R | 6.5 | 2774 | 8 | 
+| 2018-12-20 | 第44期棋聖戦ファーストトーナメント予選 | O Rissei | Seki Kotaro | Win | B+R | 6.5 | 2766 | 58 | 
+| 2018-11-15 | 第44期棋聖戦ファーストトーナメント予選 | Kanda Ei | O Rissei | Win | W+R | 6.5 | 2708 | -12 | 
+| 2018-10-18 | 第67期王座戦予選 | O Rissei | Mitani Tetsuya | Lose | W+R | 6.5 | 2720 | -46 | 
+| 2018-09-27 | 第67期王座戦予選 | Sotoyanagi Sebun | O Rissei | Win | W+4.5 | 6.5 | 2766 | 9 | 
+| 2018-09-06 | 第74期本因坊戦予選 | O Rissei | Anzai Nobuaki | Lose | W+0.5 | 6.5 | 2757 | -39 | 
+| 2018-08-30 | 第45期天元戦予選 | Horimoto Mitsunari | O Rissei | Lose | B+5.5 | 6.5 | 2796 | -16 | 
+| 2018-08-23 | 第44期碁聖戦予選 | Kataoka Satoshi | O Rissei | Win | W+7.5 | 7.5 | 2812 | 82 | 
+| 2018-08-09 | 第57期十段戦最終予選決勝 | O Rissei | So Yokoku | Lose | W+R | 6.5 | 2730 | -32 | 
+| 2018-08-02 | 第74期本因坊戦最終予選 | Ida Atsushi | O Rissei | Win | W+1.5 | 7.5 | 2762 | 97 | 
+| 2018-07-26 | 第44期名人戦予選 | Morita Michihiro | O Rissei | Lose | B+R | 6.5 | 2665 | -118 | 
+| 2018-07-12 | 第74期本因坊戦最終予選 | Terayama Rei | O Rissei | Win | W+R | 6.5 | 2783 | 65 | 
+| 2018-07-07 | 第8回フマキラー囲碁マスターズカップ準決勝  | O Rissei | Yoda Norimoto | Lose | W+2.5 | 6.5 | 2718 | -12 | 
+| 2018-06-21 | 第44期名人戦予選 | O Rissei | Kudo Norio | Win | B+2.5 | 6.5 | 2730 | 73 | 
+| 2018-06-14 | 第74期本因坊戦予選 | Kuwabara Shun | O Rissei | Win | W+R | 6.5 | 2657 | 10 | 
+| 2018-06-07 | 第8回フマキラー囲碁マスターズカップ2回戦  | Awaji Shuzo | O Rissei | Win | W+R | 6.5 | 2647 | -10 | 
+| 2018-05-24 | 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Cho U | O Rissei | Lose | B+3.5 | 6.5 | 2657 | -93 | 
+| 2018-05-03 | 第74期本因坊戦予選 | O Rissei | Shiraishi Yuichi | Win | B+4.5 | 6.5 | 2750 | 39 | 
+| 2018-04-26 | 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | O Rissei | Takei Takashi | Win | B+R | 6.5 | 2711 | 19 | 
+| 2018-04-19 | 第8回フマキラー囲碁マスターズカップ1回戦 | O Rissei | Takemiya Masaki | Win | B+4.5 | 6.5 | 2692 | -110 | 
+| 2018-03-22 | 第66期王座戦予選 | Hane Naoki | O Rissei | Lose | B+R | 6.5 | 2802 | 16 | 
+| 2017-11-30 | 第43期棋聖戦ファーストトーナメント予選 | Chang Rueijie | O Rissei | Lose | B+2.5 | 6.5 | 2786 | 4 | 
+| 2017-11-16 | 第43期棋聖戦ファーストトーナメント予選 | Nakamura Hidehito | O Rissei | Win | W+R | 6.5 | 2782 | -7 | 
+| 2017-11-09 | 第43期碁聖戦本戦1回戦 | O Rissei | Kobayashi Satoru | Lose | W+0.5 | 6.5 | 2789 | -66 | 
+| 2017-10-26 | 第56期十段戦2回戦 | O Rissei | Yu Zhengqi | Lose | W+5.5 | 6.5 | 2855 | -19 | 
+| 2017-09-21 | 第44期天元戦予選 | Tajiri Yuto | O Rissei | Lose | B+1.5 | 6.5 | 2874 | 29 | 
+| 2017-08-31 | 第44期天元戦　予選B決勝 | O Rissei | Yokotsuka Riki | Win | B+2.5 | 6.5 | 2845 | 12 | 
+| 2017-08-10 | 第42期棋聖戦　Cリーグ4回戦 | O Rissei | Seto Taiki | Lose | W+R | 6.5 | 2833 | -18 | 
+| 2017-07-27 | 第43期名人戦　予選A | Ogaki Yusaku | O Rissei | Lose | B+R | 6.5 | 2851 | -44 | 
+| 2017-07-20 | 第56期十段戦　最終予選決勝 | O Rissei | Kono Rin | Win | B+R | 6.5 | 2895 | 25 | 
+| 2017-07-06 | 第42期棋聖戦　Cリーグ3回戦 | O Rissei | Ishida Atsushi | Lose | W+2.5 | 6.5 | 2870 | -5 | 
+| 2017-07-01 | 第7回フマキラー囲碁マスターズカップ　準決勝 | Cho Chikun | O Rissei | Lose | B+R | 6.5 | 2875 | 9 | 
+| 2017-06-15 | 第42期棋聖戦　Cリーグ2回戦 | O Rissei | Tsuruta Kazushi | Lose | W+R | 6.5 | 2866 | 15 | 
+| 2017-05-28 | 第65回NHK杯テレビ囲碁トーナメント戦1回戦第9局 | O Rissei | Awaji Shuzo | Win | B+R | 6.5 | 2851 | 34 | 
+| 2017-05-18 | 第65期王座戦　本戦1回戦第2局 | O Rissei | Ida Atsushi | Lose | W+0.5 | 6.5 | 2817 | -31 | 
+| 2017-05-11 | 第42期棋聖戦　Cリーグ1回戦 | O Rissei | Yamamori Tadanao | Win | B+R | 6.5 | 2848 | 27 | 
+| 2017-05-04 | 第7回囲碁マスターズカップ　本戦2回戦 | O Rissei | Takemiya Masaki | Win | B+2.5 | 6.5 | 2821 | 16 | 
+| 2017-04-27 | 第73期本因坊戦予選 | Fujisawa Rina | O Rissei | Lose | B+R | 6.5 | 2805 | -7 | 
+| 2017-04-13 | 第65期王座戦　最終予選特選譜第12局 | O Rissei | Mutsuura Yuta | Win | B+R | 6.5 | 2812 | 62 | 
+| 2017-03-30 | 第56期十段戦　予選A決勝 | Uchida Shuhei | O Rissei | Win | W+R | 6.5 | 2750 | 225 | 
+| 2017-03-23 | 第73期本因坊戦　予選A | O Rissei | Yokotsuka Riki | Win | B+2.5 | 6.5 | 2525 | -71 | 
+| 2017-03-09 | 第7回マスターズカップ　本戦1回戦 | O Rissei | O Meien | Win | B+R | 6.5 | 2596 | 57 | 
+| 2017-02-23 | 第56期十段戦　予選A | O Rissei | Sugimoto Akira | Win | B+1.5 | 6.5 | 2539 | -153 | 
+| 2016-09-22 | 第42期碁聖戦予選 | O Rissei | Hoshino Masaki | Win | B+4.5 | 6.5 | 2692 | 26 | 
+| 2016-08-11 | 第42期碁聖戦予選 | O Rissei | Suzuki Shinji | Win | B+R | 6.5 | 2666 | 70 | 
+| 2016-08-04 | 第41期棋聖戦Bリーグ | Tsuruyama Atsushi | O Rissei | Lose | B+R | 6.5 | 2596 | -143 | 
+| 2016-07-21 | 第43期天元戦予選 | Fujisawa Kazunari | O Rissei | Win | W+4.5 | 6.5 | 2739 | 33 | 
+| 2016-07-14 | 第42期名人戦予選 | O Rissei | Ohba Junya | Win | B+R | 6.5 | 2706 | 36 | 
+| 2016-07-07 | 第41期棋聖戦Bリーグ | Mizokami Tomochika | O Rissei | Win | W+4.5 | 6.5 | 2670 | 26 | 
+| 2016-06-23 | 第43期天元戦予選 | O Rissei | Sugiuchi Masao | Win | B+6.5 | 6.5 | 2644 | 5 | 
+| 2016-06-09 | 第41期棋聖戦Bリーグ | O Rissei | Ida Atsushi | Lose | W+R | 6.5 | 2639 | -28 | 
+| 2016-06-02 | 第55期十段戦予選 | Sun Zhe | O Rissei | Lose | B+R | 6.5 | 2667 | -12 | 
+| 2016-05-26 | 第64期王座戦　本戦1回戦第2局 | O Rissei | Yu Zhengqi | Lose | W+R | 6.5 | 2679 | 48 | 
+| 2016-05-19 | 第72期本因坊戦予選 | Tsuruyama Atsushi | O Rissei | Lose | B+R | 6.5 | 2631 | -39 | 
+| 2016-05-12 | 第41期棋聖戦Bリーグ | Hsu Chiayuan | O Rissei | Lose | B+R | 6.5 | 2670 | -6 | 
+| 2016-05-05 | 第42期碁聖戦予選 | Inori Yoko | O Rissei | Win | W+4.5 | 6.5 | 2676 | -2 | 
+| 2016-04-28 | 第43期天元戦予選 | Ueda Takashi | O Rissei | Win | W+R | 6.5 | 2678 | 75 | 
+| 2016-04-21 | 第41期棋聖戦Bリーグ | O Rissei | O Meien | Lose | W+R | 6.5 | 2603 | -24 | 
+| 2016-04-14 | 第43期天元戦予選 | O Rissei | Suzuki Isao | Win | B+R | 6.5 | 2627 | 40 | 
+| 2016-04-07 | 第6回フマキラー囲碁マスターズカップ1回戦 | O Rissei | Kobayashi Koichi | Lose | W+0.5 | 6.5 | 2587 | -96 | 
+| 2016-03-31 | 第41期棋聖戦Bリーグ | O Rissei | Cho Chikun | Lose | W+R | 6.5 | 2683 | -11 | 
+| 2016-03-24 | 第72期本因坊戦予選 | O Rissei | Takekiyo Isamu | Win | B+R | 6.5 | 2694 | 74 | 
+| 2016-03-10 | 第64期王座戦予選 | Ohba Junya | O Rissei | Win | W+R | 6.5 | 2620 | -29 | 
+| 2016-02-15 | 第23期阿含・桐山杯全日本早碁オープン戦予選 |  | O Rissei | Lose | B+2.5 | 6.5 | 2649 | -13 | 
+| 2016-02-11 | 第64期王座戦予選 | O Rissei | Shimojima Yohei | Win | B+R | 6.5 | 2662 | -19 | 
+| 2016-02-04 | 第72期本因坊戦予選 | Kono Mitsuki | O Rissei | Win | W+R | 6.5 | 2681 | 4 | 
+| 2016-01-21 | 第64期王座戦予選 | O Rissei | Obuchi Kotaro | Win | B+R | 6.5 | 2677 | -31 | 
+| 2016-01-14 | 第55期十段戦予選 | O Rissei | Ko Reibun | Win | B+R | 6.5 | 2708 | 53 | 
+| 2015-11-19 | 第72期本因坊戦予選 | O Rissei | Han Zenki | Win | B+R | 6.5 | 2655 | 8 | 
+| 2015-11-12 | 第64期王座戦予選 | Koyama Kuya | O Rissei | Win | W+R | 6.5 | 2647 | 12 | 
+| 2015-11-07 | 第2回OVER40早碁トーナメント戦決勝 | O Meien | O Rissei | Win | W+R | 6.5 | 2635 | 0 | 
+| 2015-11-07 | 第2回OVER40早碁トーナメント戦準決勝 | O Rissei | Nakaonoda Tomomi | Win | B+R | 6.5 | 2635 | 45 | 
+| 2015-10-29 | 第72期本因坊戦予選 | O Rissei | Yasuda Yasutoshi | Win | B+2.5 | 6.5 | 2590 | 60 | 
+| 2015-10-08 | 第72期本因坊戦予選 | Kono Yukio | O Rissei | Win | W+R | 6.5 | 2530 | -34 | 
+| 2015-10-01 | 第42期天元戦予選 | Shibano Toramaru | O Rissei | Lose | B+R | 6.5 | 2564 | -43 | 
+| 2015-09-17 | 第40期棋聖戦Cリーグ | Nakaonoda Tomomi | O Rissei | Win | W+R | 6.5 | 2607 | 16 | 
+| 2015-09-10 | 第54期十段戦予選 | Yamashita Keigo | O Rissei | Lose | B+R | 6.5 | 2591 | -29 | 
+| 2015-09-03 | 第40期棋聖戦Cリーグ | Hikosaka Naoto | O Rissei | Win | W+2.5 | 6.5 | 2620 | -31 | 
+| 2015-08-06 | 第41期名人戦予選 | Uchida Shuhei | O Rissei | Lose | B+0.5 | 6.5 | 2651 | -79 | 
+| 2015-07-23 | 第41期名人戦予選 | O Rissei | Michael Redmond | Win | B+5.5 | 6.5 | 2730 | -4 | 
+| 2015-07-16 | 第54期十段戦予選 | O Rissei | Terayama Rei | Win | B+1.5 | 6.5 | 2734 | 38 | 
+| 2015-07-09 | 第40期棋聖戦Cリーグ | Imamura Toshiya | O Rissei | Win | W+R | 6.5 | 2696 | -175 | 
+| 2015-06-11 | 第40期棋聖戦Cリーグ | O Rissei | Kono Takashi | Win | B+1.5 | 6.5 | 2871 | 91 | 
+| 2015-06-04 | 第41期名人戦予選 | Sonoda Yasutaka | O Rissei | Win | W+R | 6.5 | 2780 | -31 | 
+| 2015-05-28 | 第54期十段戦予選 | Mimura Tomoyasu | O Rissei | Win | W+R | 6.5 | 2811 | 67 | 
+| 2015-05-21 | 第40期棋聖戦Cリーグ | O Rissei | Nakano Hironari | Lose | W+R | 6.5 | 2744 | -80 | 
+| 2015-04-16 | 第40期棋聖戦予選 | O Rissei | Mimura Tomoyasu | Win | B+R | 6.5 | 2824 | -62 | 
+| 2015-03-19 | 第63期王座戦予選 | O Rissei | Nakane Naoyuki | Lose | W+6.5 | 6.5 | 2886 | -100 | 
+| 2015-03-12 | 第5回フマキラー囲碁マスターズカップ1回戦 | O Rissei | Kobayashi Satoru | Lose | W+2.5 | 6.5 | 2986 | -175 | 
+| 2015-03-05 | 第54期十段戦予選 | O Rissei | Tsuruyama Atsushi | Win | B+R | 6.5 | 3161 | 68 | 
+| 2015-02-12 | 第71期本因坊戦予選 | O Rissei | Sun Zhe | Lose | W+R | 6.5 | 3093 | -60 | 
+| 2015-02-05 | 第40期棋聖戦予選 | O Rissei | Ono Nobuyuki | Win | B+R | 6.5 | 3153 | 68 | 
+| 2015-01-15 | 第40期棋聖戦予選 | O Rissei | Kibe Natsuki | Win | B+6.5 | 6.5 | 3085 | 0 | 
+| 2014-12-25 | 第40期碁聖戦本戦1回戦 | Yoda Norimoto | O Rissei | Lose | B+R | 6.5 | 3085 | 157 | 
+| 2014-09-18 | 第40期碁聖戦予選 | Okuda Aya | O Rissei | Win | W+11.5 | 6.5 | 2928 | 37 | 
+| 2014-09-11 | 第41期天元戦予選 | O Rissei | Yamada Takuji | Lose | W+0.5 | 6.5 | 2891 | -14 | 
+| 2014-08-28 | 第53期十段戦予選 | Rin Shien | O Rissei | Lose | B+0.5 | 6.5 | 2905 | -22 | 
+| 2014-08-18 | 第62期王座戦準決勝 | Murakawa Daisuke | O Rissei | Lose | B+R | 6.5 | 2927 | 15 | 
+| 2014-07-24 | 第62期王座戦2回戦 | Matsumoto Takehisa | O Rissei | Win | W+2.5 | 6.5 | 2912 | 40 | 
+| 2014-06-26 | 第62期王座戦1回戦 | O Rissei | Yuki Satoshi | Win | B+R | 6.5 | 2872 | 70 | 
+| 2014-06-12 | 第40期名人戦予選 | So Yokoku | O Rissei | Lose | B+11.5 | 6.5 | 2802 | -15 | 
+| 2014-05-15 | 第40期名人戦予選 | O Rissei | Takano Hideki | Win | B+R | 6.5 | 2817 | 60 | 
+| 2014-05-01 | 第4回フマキラー囲碁マスターズカップ2回戦 | Kobayashi Satoru | O Rissei | Lose | B+R | 6.5 | 2757 | -122 | 
+| 2014-04-24 | 第62期王座戦予選 | O Rissei | Sakai Hideyuki | Win | B+R | 6.5 | 2879 | -50 | 
+| 2014-04-03 | 第4回フマキラー囲碁マスターズカップ1回戦 | Hane Yasumasa | O Rissei | Win | W+4.5 | 6.5 | 2929 | 35 | 
+| 2014-02-20 | 第40期天元戦本戦1回戦 | Kanazawa Makoto | O Rissei | Lose | B+R | 6.5 | 2894 | -7 | 
+| 2014-01-30 | 第70期本因坊戦予選 | Kanazawa Hideo | O Rissei | Lose | B+R | 6.5 | 2901 | 12 | 
+| 2014-01-23 | 第62期王座戦予選 | O Rissei | Kono Takashi | Win | B+R | 6.5 | 2889 | 8 | 
+| 2014-01-17 | 2014年日台精鋭交流戦第6戦 | O Rissei | Lin Shuyang | Lose | W+R | 6.5 | 2881 | 0 | 
+| 2014-01-17 | 2014年日台精鋭交流戦第5戦 | O Rissei | Zhou Junxun | Win | B+4.5 | 6.5 | 2881 | 15 | 
+| 2014-01-16 | 2014年日台精鋭交流戦第4戦 | Chen Shiyuan | O Rissei | Lose | B+R | 6.5 | 2866 | 0 | 
+| 2014-01-16 | 2014年日台精鋭交流戦第3戦 | Lin Zhihan | O Rissei | Lose | B+R | 6.5 | 2866 | -74 | 
+| 2014-01-15 | 2014年日台精鋭交流戦第2戦 | Lin Lixiang | O Rissei | Win | W+R | 6.5 | 2940 | 0 | 
+| 2014-01-15 | 2014年日台精鋭交流戦第1戦 | O Rissei | Lin Junyan | Lose | W+R | 6.5 | 2940 | -40 | 
+| 2014-01-09 | 第40期天元戦予選 | O Rissei | Kobayashi Koichi | Win | B+10.5 | 6.5 | 2980 | 113 | 
+| 2013-12-19 | 第39期棋聖戦予選 | O Rissei | Kim Sujun | Lose | W+0.5 | 6.5 | 2867 | -12 | 
+| 2013-12-12 | 第62期王座戦予選 | Mochizuki Kenichi | O Rissei | Win | W+R | 6.5 | 2879 | 2 | 
+| 2013-12-05 | 第39期棋聖戦予選 | Kono Takashi | O Rissei | Win | W+R | 6.5 | 2877 | -4 | 
+| 2013-11-14 | 第40期天元戦予選 | Omori Yasushi | O Rissei | Win | W+4.5 | 6.5 | 2881 | -6 | 
+| 2013-10-17 | 第52期十段戦2回戦 | O Rissei | Cho U | Lose | W+R | 6.5 | 2887 | 36 | 
+| 2013-10-10 | 第62期王座戦予選 | Sanno Hirotaka | O Rissei | Win | W+4.5 | 6.5 | 2851 | -55 | 
+| 2013-10-03 | 第39期碁聖戦予選 | Ohba Junya | O Rissei | Lose | B+R | 6.5 | 2906 | -57 | 
+| 2013-09-26 | 第52期十段戦1回戦 | O Rissei | O Meien | Win | B+R | 6.5 | 2963 | -9 | 
+| 2013-09-05 | 第39期碁聖戦予選 | O Rissei | Kuwamoto Shinpei | Win | B+4.5 | 6.5 | 2972 | -3 | 
+| 2013-08-29 | 第52期十段戦予選 | Kamimura Haruo | O Rissei | Win | W+R | 6.5 | 2975 | 10 | 
+| 2013-08-08 | 第39期天元戦本戦3回戦 | O Rissei | Cho U | Lose | W+2.5 | 6.5 | 2965 | 295 | 
+| 2013-06-13 | 第39期名人戦予選 | Han Zenki | O Rissei | Lose | B+0.5 | 6.5 | 2670 | 13 | 
+| 2013-06-06 | 第52期十段戦予選 | Mochizuki Kenichi | O Rissei | Win | W+R | 6.5 | 2657 | 71 | 
+| 2013-04-18 | 第39期天元戦本戦2回戦 | O Rissei | Rin Kanketsu | Win | B+5.5 | 6.5 | 2586 | 50 | 
+| 2013-04-04 | 第52期十段戦予選 | Kenmochi Joe | O Rissei | Win | W+R | 6.5 | 2536 | -33 | 
+| 2013-03-21 | 第69期本因坊戦予選 | O Rissei | Muramatsu Ryuichi | Lose | W+R | 6.5 | 2569 | -16 | 
+| 2013-03-14 | 第3回エステー＆フマキラー囲碁マスターズカップ1回戦 | O Rissei | Kobayashi Koichi | Lose | W+0.5 | 6.5 | 2585 | -14 | 
+| 2013-03-07 | 第39期天元戦本戦1回戦 | Takemiya Masaki | O Rissei | Win | W+13.5 | 6.5 | 2599 | 113 | 
+| 2013-02-21 | 第52期十段戦予選 | Ohashi Hirofumi | O Rissei | Win | W+7.5 | 6.5 | 2486 | -29 | 
+| 2013-01-17 | 第61期王座戦予選 | O Rissei | Yamada Takuji | Lose | W+2.5 | 6.5 | 2515 | -16 | 
+| 2012-12-27 | 第38期棋聖戦予選 | Suzuki Yoshimichi | O Rissei | Lose | B+R | 6.5 | 2531 | -91 | 
+| 2012-12-06 | 第38期棋聖戦予選 | Mannami Nao | O Rissei | Win | W+6.5 | 6.5 | 2622 | -325 | 
+| 2012-11-29 | 第39期天元戦予選 | O Rissei | Ishida Yoshio | Win | B+4.5 | 6.5 | 2947 | 246 | 
+| 2012-11-22 | 第38期棋聖戦予選 | O Rissei | Mizuma Toshifumi | Win | B+R | 6.5 | 2701 | -36 | 
+| 2012-10-18 | 第39期天元戦予選 | Konagai Masaru | O Rissei | Win | W+R | 6.5 | 2737 | -2 | 
+| 2012-10-11 | 第38期碁聖戦予選 | Mizokami Tomochika | O Rissei | Lose | B+R | 6.5 | 2739 | -108 | 
+| 2012-08-16 | 第38期碁聖戦予選 | O Rissei | Hashimoto Yujiro | Win | B+R | 6.5 | 2847 | -168 | 
+| 2012-07-05 | 第38期名人戦予選 | O Rissei | Mimura Tomoyasu | Lose | W+2.5 | 6.5 | 3015 | 35 | 
+| 2012-06-25 | 第8回大和証券杯ネット囲碁オープン予選 | Mochizuki Kenichi | O Rissei | Lose | B+5.5 | 6.5 | 2980 | 0 | 
+| 2012-06-25 | 第8回大和証券杯ネット囲碁オープン予選 | O Rissei | Lee Ishu | Win | B+R | 6.5 | 2980 | -24 | 
+| 2012-06-21 | 第68期本因坊戦予選 | Seto Taiki | O Rissei | Lose | B+R | 6.5 | 3004 | -94 | 
+| 2012-05-31 | 第68期本因坊戦予選 | Rin Kaiho | O Rissei | Win | W+1.5 | 6.5 | 3098 | 1 | 
+| 2012-05-24 | 第19期阿含・桐山杯全日本早碁オープン戦予選 | O Rissei | Seto Taiki | Lose | W+3.5 | 6.5 | 3097 | -15 | 
+| 2012-05-10 | 第68期本因坊戦予選 | Okada Shinichiro | O Rissei | Win | W+6.5 | 6.5 | 3112 | -58 | 
+| 2012-04-26 | 第38期名人戦予選 | Kobayashi Koichi | O Rissei | Win | W+2.5 | 6.5 | 3170 | -12 | 
+| 2012-04-19 | 第51期十段戦予選 | Aoki Kikuyo | O Rissei | Lose | B+R | 6.5 | 3182 | 56 | 
+| 2012-03-22 | 第38期天元戦本戦2回戦 | Yamada Kimio | O Rissei | Lose | B+R | 6.5 | 3126 | -52 | 
+| 2012-03-15 | 第2回エステー＆フマキラー囲碁マスターズカップ1回戦 | O Rissei | Kobayashi Koichi | Lose | W+0.5 | 6.5 | 3178 | -163 | 
+| 2012-02-23 | 第37期碁聖戦本戦3回戦 | O Rissei | Hikosaka Naoto | Lose | W+4.5 | 6.5 | 3341 | -22 | 
+| 2012-02-16 | 第38期名人戦予選 | O Rissei | Iguchi Hideichiro | Win | B+0.5 | 6.5 | 3363 | 51 | 
+| 2012-02-09 | 第38期天元戦本戦1回戦 | O Rissei | Yata Naoki | Win | B+R | 6.5 | 3312 | 41 | 
+| 2011-12-08 | 第37期碁聖戦本戦2回戦 | O Rissei | Cho U | Win | B+0.5 | 6.5 | 3271 | 422 | 
+| 2011-12-01 | 第38期名人戦予選 | Onda Yasuhiko | O Rissei | Win | W+R | 6.5 | 2849 | 67 | 
+| 2011-11-24 | 第37期棋聖戦予選 | O Rissei | Suzuki Yoshimichi | Lose | W+1.5 | 6.5 | 2782 | -14 | 
+| 2011-10-27 | 第37期碁聖戦本戦1回戦 | O Rissei | Ha Youngil | Win | B+2.5 | 6.5 | 2796 | -29 | 
+| 2011-10-06 | 第38期天元戦予選 | O Rissei | Kataoka Satoshi | Win | B+R | 6.5 | 2825 | 35 | 
+| 2011-09-22 | 第60期王座戦予選 | Takao Shinji | O Rissei | Lose | B+R | 6.5 | 2790 | 3 | 
+| 2011-09-17 | 第7回大和証券杯ネット囲碁オープン1回戦 | Hikosaka Naoto | O Rissei | Lose | B+0.5 | 6.5 | 2787 | -9 | 
+| 2011-09-15 | 第38期天元戦予選 | Hoshino Masaki | O Rissei | Win | W+R | 6.5 | 2796 | 66 | 
+| 2011-09-08 | 第37期碁聖戦予選 | O Rissei | Yashiro Kumiko | Win | B+R | 6.5 | 2730 | 4 | 
+| 2011-08-25 | 第31期NECカップ囲碁トーナメント戦2回戦 | Cho U | O Rissei | Lose | B+R | 6.5 | 2726 | -3 | 
+| 2011-08-18 | 第37期碁聖戦予選 | O Rissei | Kono Rin | Win | B+0.5 | 6.5 | 2729 | 30 | 
+| 2011-07-28 | 第31期NECカップ囲碁トーナメント戦1回戦 | Yamada Kimio | O Rissei | Win | W+R | 6.5 | 2699 | -266 | 
+| 2011-05-19 | 第37期名人戦予選 | O Rissei | Mitani Tetsuya | Lose | W+R | 6.5 | 2965 | 87 | 
+| 2011-05-12 | 第60期王座戦予選 | O Rissei | Mitsunaga Junzo | Win | B+R | 6.5 | 2878 | -90 | 
+| 2011-04-28 | 第67期本因坊戦予選 | Miyagawa Fumihiko | O Rissei | Lose | B+R | 6.5 | 2968 | -10 | 
+| 2011-04-21 | 第37期碁聖戦予選 | O Rissei | Oki Keiji | Win | B+R | 6.5 | 2978 | 43 | 
+| 2011-04-14 | 第50期十段戦予選 | O Rissei | Ogata Masaki | Lose | W+R | 6.5 | 2935 | -17 | 
+| 2011-03-31 | 第66期本因坊戦リーグ | O Rissei | Hane Naoki | Lose | W+0.5 | 6.5 | 2952 | -115 | 
+| 2011-03-21 | 第66期本因坊戦リーグ | Cho U | O Rissei | Lose | B+3.5 | 6.5 | 3067 | -1 | 
+| 2011-03-10 | 第1回エステー＆フマキラー囲碁マスターズカップ1回戦 | Kobayashi Satoru | O Rissei | Lose | B+R | 6.5 | 3068 | 37 | 
+| 2011-02-10 | 第66期本因坊戦リーグ | O Rissei | Seto Taiki | Win | B+R | 6.5 | 3031 | 13 | 
+| 2011-02-03 | 第36期棋聖戦予選 | Seto Taiki | O Rissei | Lose | B+2.5 | 6.5 | 3018 | 76 | 
+| 2011-01-06 | 第66期本因坊戦リーグ | O Rissei | Takao Shinji | Win | B+R | 6.5 | 2942 | 95 | 
+| 2010-12-23 | 第36期棋聖戦予選 | Shida Tatsuya | O Rissei | Win | W+R | 6.5 | 2847 | 15 | 
+| 2010-12-16 | 第37期天元戦予選 | O Rissei | Kono Takashi | Lose | W+R | 6.5 | 2832 | 6 | 
+| 2010-12-09 | 第66期本因坊戦リーグ | Cho Sonjin | O Rissei | Lose | B+R | 6.5 | 2826 | 3 | 
+| 2010-11-25 | 第66期本因坊戦リーグ | O Rissei | Kobayashi Satoru | Lose | W+R | 6.5 | 2823 | 20 | 
+| 2010-11-11 | 第59期王座戦予選 | Ohba Junya | O Rissei | Lose | B+R | 6.5 | 2803 | -54 | 
+| 2010-11-04 | 第37期天元戦予選 | O Rissei | Hagiya Kazuhiro | Win | B+9.5 | 6.5 | 2857 | 11 | 
+| 2010-10-25 | 第66期本因坊戦リーグ | Iyama Yuta | O Rissei | Win | W+R | 6.5 | 2846 | 31 | 
+| 2010-10-07 | 第36期碁聖戦予選 | So Yokoku | O Rissei | Lose | B+R | 6.5 | 2815 | 63 | 
+| 2010-09-30 | 第35期棋聖戦Bリーグ | O Rissei | Ryu Shikun | Lose | W+0.5 | 6.5 | 2752 | -36 | 
+| 2010-09-23 | 第35期棋聖戦Bリーグ | Yamashiro Hiroshi | O Rissei | Lose | B+2.5 | 6.5 | 2788 | -29 | 
+| 2010-09-02 | 第66期本因坊戦予選 | O Rissei | Kono Rin | Win | B+3.5 | 6.5 | 2817 | 36 | 
+| 2010-08-28 | 第6回大和証券杯ネット囲碁オープン2回戦 | O Rissei | Tsuruyama Atsushi | Lose | W+R | 6.5 | 2781 | -80 | 
+| 2010-08-09 | 第49期十段戦敗者復活戦1回戦 | Sakai Hideyuki | O Rissei | Lose | B+0.5 | 6.5 | 2861 | -12 | 
+| 2010-08-07 | 第6回大和証券杯ネット囲碁オープン1回戦 | Hikosaka Naoto | O Rissei | Win | W+R | 6.5 | 2873 | 4 | 
+| 2010-08-05 | 第35期棋聖戦Bリーグ | O Rissei | Akiyama Jiro | Lose | W+5.5 | 6.5 | 2869 | -71 | 
+| 2010-07-15 | 第66期本因坊戦予選 | O Rissei | Yuki Satoshi | Win | B+8.5 | 6.5 | 2940 | 20 | 
+| 2010-07-08 | 第35期棋聖戦Bリーグ | O Rissei | Iyama Yuta | Lose | W+11.5 | 6.5 | 2920 | -15 | 
+| 2010-06-24 | 第35期棋聖戦Bリーグ | Hane Naoki | O Rissei | Win | W+R | 6.5 | 2935 | 111 | 
+| 2010-06-17 | 第49期十段戦本戦1回戦 | O Rissei | Lee Ishu | Lose | W+R | 6.5 | 2824 | -25 | 
+| 2010-06-03 | 第30期NECカップ囲碁トーナメント戦1回戦 | O Rissei | Cho U | Lose | W+R | 6.5 | 2849 | 4 | 
+| 2010-05-20 | 第66期本因坊戦予選 | O Rissei | Mochizuki Kenichi | Win | B+R | 6.5 | 2845 | 4 | 
+| 2010-04-29 | 第36期名人戦予選 | O Rissei | Rin Kanketsu | Lose | W+6.5 | 6.5 | 2841 | -6 | 
+| 2010-04-15 | 第17期阿含・桐山杯全日本早碁オープン戦予選 | Rin Shien | O Rissei | Lose | B+2.5 | 6.5 | 2847 | -62 | 
+| 2010-03-25 | 第66期本因坊戦予選 | O Rissei | Rin Shien | Win | B+0.5 | 6.5 | 2909 | -27 | 
+| 2010-02-25 | 第58期王座戦予選 | Iyama Yuta | O Rissei | Lose | B+R | 6.5 | 2936 | 17 | 
+| 2010-02-18 | 第66期本因坊戦予選 | Han Zenki | O Rissei | Win | W+R | 6.5 | 2919 | 64 | 
+| 2010-01-07 | 第35期碁聖戦本戦3回戦 | O Rissei | Yamashita Keigo | Lose | W+1.5 | 6.5 | 2855 | -51 | 
+| 2009-12-03 | 第35期碁聖戦本戦2回戦 | O Rissei | So Yokoku | Win | B+R | 6.5 | 2906 | -170 | 
+| 2009-11-26 | 第66期本因坊戦予選 | Katsura Atsushi | O Rissei | Win | W+R | 6.5 | 3076 | -81 | 
+| 2009-11-16 | 第34期棋聖戦挑戦者決定戦 | O Rissei | Cho U | Lose | W+R | 6.5 | 3157 | -4 | 
+| 2009-11-05 | 第48期十段戦敗者復活戦4回戦 | Yamashita Keigo | O Rissei | Lose | B+R | 6.5 | 3161 | 41 | 
+| 2009-10-22 | 第35期碁聖戦本戦1回戦 | O Rissei | Awaji Shuzo | Win | B+2.5 | 6.5 | 3120 | 0 | 
+| 2009-10-15 | 第48期十段戦本戦勝者組決勝 | Takao Shinji | O Rissei | Lose | B+10.5 | 6.5 | 3120 | -11 | 
+| 2009-10-08 | 第36期天元戦予選 | O Rissei | Cho Sonjin | Lose | W+15.5 | 6.5 | 3131 | 20 | 
+| 2009-10-01 | 第34期棋聖戦Aリーグ | Lee Ishu | O Rissei | Win | W+1.5 | 6.5 | 3111 | 4 | 
+| 2009-09-24 | 第48期十段戦本戦3回戦 | O Rissei | Akiyama Jiro | Win | B+R | 6.5 | 3107 | 23 | 
+| 2009-09-17 | 第34期棋聖戦Aリーグ | Yoda Norimoto | O Rissei | Win | W+0.5 | 6.5 | 3084 | -6 | 
+| 2009-09-10 | 第36期天元戦予選 | Mitsunaga Junzo | O Rissei | Win | W+4.5 | 6.5 | 3090 | 20 | 
+| 2009-08-27 | 第34期棋聖戦Aリーグ | O Rissei | Takao Shinji | Win | B+R | 6.5 | 3070 | 36 | 
+| 2009-08-22 | 第5回大和証券杯ネット囲碁オープン3回戦 | Cho U | O Rissei | Lose | B+9.5 | 6.5 | 3034 | -2 | 
+| 2009-08-20 | 第35期碁聖戦予選 | Yoda Norimoto | O Rissei | Win | W+R | 6.5 | 3036 | 19 | 
+| 2009-08-15 | 第5回大和証券杯ネット囲碁オープン2回戦 | Kobayashi Satoru | O Rissei | Win | W+3.5 | 6.5 | 3017 | 23 | 
+| 2009-08-13 | 第48期十段戦本戦2回戦 | O Rissei | Ko Iso | Win | B+R | 6.5 | 2994 | -13 | 
+| 2009-07-23 | 第34期棋聖戦Aリーグ | Hane Naoki | O Rissei | Win | W+1.5 | 6.5 | 3007 | 21 | 
+| 2009-07-16 | 第35期碁聖戦予選 | Rin Kanketsu | O Rissei | Win | W+0.5 | 6.5 | 2986 | -28 | 
+| 2009-07-04 | 第5回大和証券杯ネット囲碁オープン1回戦 | Ogata Masaki | O Rissei | Win | W+1.5 | 6.5 | 3014 | 127 | 
+| 2009-06-18 | 第35期名人戦予選 | O Rissei | Kanazawa Hideo | Lose | W+0.5 | 7.5 | 2887 | 61 | 
+| 2009-06-04 | 第34期棋聖戦Aリーグ | O Rissei | Kiyonari Tetsuya | Win | B+R | 6.5 | 2826 | -67 | 
+| 2009-05-14 | 第48期十段戦本戦1回戦 | O Rissei | Yamashita Keigo | Win | B+R | 6.5 | 2893 | 28 | 
+| 2009-05-07 | 第35期名人戦予選 | Ohba Junya | O Rissei | Win | W+0.5 | 6.5 | 2865 | 11 | 
+| 2009-04-23 | 第57期王座戦1回戦 | Yamamori Tadanao | O Rissei | Lose | B+10.5 | 6.5 | 2854 | -6 | 
+| 2009-04-16 | 第48期十段戦予選 | Ishida Akira | O Rissei | Win | W+R | 6.5 | 2860 | 10 | 
+| 2009-04-02 | 第57期王座戦予選 | Yata Naoki | O Rissei | Win | W+2.5 | 6.5 | 2850 | 12 | 
+| 2009-03-19 | 第35期天元戦本戦2回戦 | Hane Naoki | O Rissei | Lose | B+3.5 | 6.5 | 2838 | 11 | 
+| 2009-03-12 | 第57期王座戦予選 | Goto Shungo | O Rissei | Win | W+R | 6.5 | 2827 | -17 | 
+| 2009-03-05 | 第48期十段戦予選 | O Rissei | Rin Kanketsu | Win | B+R | 6.5 | 2844 | 6 | 
+| 2009-02-12 | 第22回世界囲碁選手権富士通杯国内予選決勝 | O Rissei | Moriyama Naoki | Lose | W+2.5 | 6.5 | 2838 | -14 | 
+| 2009-02-05 | 第35期天元戦本戦1回戦 | O Rissei | Inori Yoko | Win | B+R | 6.5 | 2852 | -10 | 
+| 2009-01-29 | 第65期本因坊戦予選 | Takemiya Masaki | O Rissei | Lose | B+R | 6.5 | 2862 | -14 | 
+| 2009-01-22 | 第57期王座戦予選 | Miyazawa Goro | O Rissei | Win | W+R | 6.5 | 2876 | 4 | 
+| 2009-01-15 | 第22回世界囲碁選手権富士通杯国内予選 | Kudo Norio | O Rissei | Win | W+4.5 | 6.5 | 2872 | 284 | 
+| 2008-11-27 | 第57期王座戦予選 | Otake Hideo | O Rissei | Win | W+2.5 | 6.5 | 2588 | -6 | 
+| 2008-11-13 | 第35期天元戦予選 | O Rissei | Mizokami Tomochika | Win | B+0.5 | 6.5 | 2594 | 16 | 
+| 2008-11-10 | 第2期幽玄杯精鋭リーグ戦 | O Rissei | Yanagisawa Satoshi | Win | B+4.5 | 6.5 | 2578 | 6 | 
+| 2008-11-06 | 第22回世界囲碁選手権富士通杯国内予選 | O Rissei | Fujii Shuya | Win | B+R | 6.5 | 2572 | -4 | 
+| 2008-11-01 | 第4回大和証券杯ネット囲碁オープン3回戦 | O Rissei | Shuto Shun | Lose | W+R | 6.5 | 2576 | -463 | 
+| 2008-10-07 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Park Cheongsang | O Rissei | Lose | B+R | 6.5 | 3039 | -16 | 
+| 2008-10-05 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | O Rissei | Gu Li | Lose | W+R | 6.5 | 3055 | -2 | 
+| 2008-10-02 | 第33期棋聖戦Aリーグ | O Rissei | Iyama Yuta | Lose | W+R | 6.5 | 3057 | -5 | 
+| 2008-09-22 | 第2期幽玄杯精鋭リーグ戦 | Shida Tatsuya | O Rissei | Win | W+3.5 | 6.5 | 3062 | 21 | 
+| 2008-09-18 | 第34期碁聖戦予選 | O Rissei | Suzuki Yoshimichi | Lose | W+2.5 | 6.5 | 3041 | -34 | 
+| 2008-09-13 | 第4回大和証券杯ネット囲碁オープン2回戦 | Ogaki Yusaku | O Rissei | Win | W+R | 6.5 | 3075 | -6 | 
+| 2008-09-11 | 第33期棋聖戦Aリーグ | Takao Shinji | O Rissei | Lose | B+R | 6.5 | 3081 | -22 | 
+| 2008-09-04 | 第35期天元戦予選 | O Rissei | Kubo Hideo | Win | B+R | 6.5 | 3103 | 28 | 
+| 2008-08-14 | 第33期棋聖戦Aリーグ | O Rissei | Kataoka Satoshi | Win | B+R | 6.5 | 3075 | 342 | 
+| 2008-07-31 | 第34期碁聖戦予選 | O Rissei | Aragaki Takeshi | Win | B+R | 6.5 | 2733 | 2 | 
+| 2008-07-24 | 第33期棋聖戦Aリーグ | Yuki Satoshi | O Rissei | Win | W+R | 6.5 | 2731 | 21 | 
+| 2008-07-05 | 第4回大和証券杯ネット囲碁オープン1回戦 | Ogata Masaki | O Rissei | Win | W+R | 6.5 | 2710 | 27 | 
+| 2008-07-03 | 第47期十段戦敗者復活戦1回戦 | O Rissei | Anzai Nobuaki | Lose | W+2.5 | 6.5 | 2683 | -36 | 
+| 2008-06-19 | 第33期棋聖戦Aリーグ | Cho Chikun | O Rissei | Lose | B+R | 6.5 | 2719 | -35 | 
+| 2008-06-05 | 第64期本因坊戦予選 | Ogata Masaki | O Rissei | Lose | B+R | 6.5 | 2754 | -20 | 
+| 2008-05-29 | 第34期名人戦予選 | O Rissei | Shuto Shun | Lose | W+R | 6.5 | 2774 | 13 | 
+| 2008-05-22 | 第47期十段戦本戦1回戦 | O Rissei | Mochizuki Kenichi | Lose | W+R | 6.5 | 2761 | -17 | 
+| 2008-05-19 | 第4回大和証券杯ネット囲碁オープン予選 | O Rissei | Mochizuki Kenichi | Win | B+R | 6.5 | 2778 | 14 | 
+| 2008-05-08 | 第64期本因坊戦予選 | O Rissei | Rin Kaiho | Win | B+1.5 | 6.5 | 2764 | 11 | 
+| 2008-05-01 | 第34期名人戦予選 | Ohba Junya | O Rissei | Win | W+R | 6.5 | 2753 | 0 | 
+| 2008-04-28 | 第2期幽玄杯精鋭リーグ戦 | O Rissei | Ohashi Naruya | Win | B+R | 6.5 | 2753 | 203 | 
+| 2008-04-17 | 第64期本因坊戦予選 | O Rissei | Cho Sonjin | Win | B+3.5 | 6.5 | 2550 | 10 | 
+| 2008-04-14 | 第21回世界囲碁選手権富士通杯2回戦 | O Rissei | Liu Xing | Lose | W+0.5 | 6.5 | 2540 | -1 | 
+| 2008-04-12 | 第21回世界囲碁選手権富士通杯1回戦 |  | O Rissei | Win | W+R | 6.5 | 2541 | -26 | 
+| 2008-04-03 | 第47期十段戦予選 | O Rissei | Hikosaka Naoto | Win | B+R | 6.5 | 2567 | 63 | 
+| 2008-02-28 | 第47期十段戦予選 | O Rissei | Yamada Noriyoshi | Win | B+1.5 | 6.5 | 2504 | -45 | 
+| 2008-02-14 | 第64期本因坊戦予選 | O Rissei | Iguchi Hideichiro | Win | B+R | 6.5 | 2549 | -6 | 
+| 2008-02-07 | 第56期王座戦予選 | Kobayashi Satoru | O Rissei | Lose | B+2.5 | 6.5 | 2555 | -15 | 
+| 2008-01-28 | 第1期幽玄杯精鋭リーグ戦 | O Rissei | Takei Takashi | Win | B+3.5 | 6.5 | 2570 | 2 | 
+| 2008-01-24 | 第64期本因坊戦予選 | O Rissei | Kuo Chyoching | Win | B+R | 6.5 | 2568 | 21 | 
+| 2008-01-21 | 第1期幽玄杯精鋭リーグ戦 | Hikosaka Naoto | O Rissei | Win | W+R | 6.5 | 2547 | 22 | 
+| 2008-01-10 | 第21回世界囲碁選手権富士通杯国内予選決勝 | Honda Kunihisa | O Rissei | Win | W+R | 6.5 | 2525 | 25 | 
+| 2007-12-20 | 第56期王座戦予選 | Murakawa Daisuke | O Rissei | Win | W+R | 6.5 | 2500 | 18 | 
+| 2007-12-17 | 第1期幽玄杯精鋭リーグ戦 | Tajima Shingo | O Rissei | Win | W+R | 6.5 | 2482 | -10 | 
+| 2007-12-06 | 第21回世界囲碁選手権富士通杯国内予選 | O Rissei | Nakaonoda Tomomi | Win | B+4.5 | 6.5 | 2492 | -24 | 
+| 2007-11-22 | 第33期碁聖戦本戦1回戦 | Hane Naoki | O Rissei | Lose | B+R | 6.5 | 2516 | -15 | 
+| 2007-11-19 | 第1期幽玄杯精鋭リーグ戦 | O Rissei | Sakamoto Yasuo | Win | B+R | 6.5 | 2531 | -5 | 
+| 2007-10-18 | 第34期天元戦予選 | O Rissei | Kobayashi Koichi | Lose | W+2.5 | 6.5 | 2536 | -40 | 
+| 2007-10-14 | 第3回大和証券杯ネット囲碁オープン2回戦 | Rin Kanketsu | O Rissei | Lose | B+5.5 | 6.5 | 2576 | -67 | 
+| 2007-10-04 | 第32期棋聖戦Aリーグ | O Rissei | Yamashiro Hiroshi | Win | B+3.5 | 6.5 | 2643 | -1252 | 
+| 2007-09-15 | 第3回大和証券杯ネット囲碁オープン1回戦 | Imamura Yoshiaki | O Rissei | Win | W+5.5 | 6.5 | 3895 | 23 | 
+| 2007-09-13 | 第32期棋聖戦Aリーグ | Takao Shinji | O Rissei | Win | W+4.5 | 6.5 | 3872 | 1317 | 
+| 2007-09-06 | 第33期碁聖戦予選 | Yo Kagen | O Rissei | Win | W+R | 6.5 | 2555 | 3 | 
+| 2007-08-30 | 第34期天元戦予選 | O Rissei | Shimoji Gensho | Win | B+R | 6.5 | 2552 | -17 | 
+| 2007-08-23 | 第32期棋聖戦Aリーグ | O Rissei | Yoda Norimoto | Lose | W+R | 6.5 | 2569 | -272 | 
+| 2007-08-12 | 第3回中環杯世界囲碁選手権1回戦 | O Rissei | Park Yeonghun | Lose | W+R | 6.5 | 2841 | 24 | 
+| 2007-08-09 | 第46期十段戦敗者復活戦1回戦 | O Rissei | Yamashiro Hiroshi | Lose | W+4.5 | 6.5 | 2817 | -22 | 
+| 2007-08-07 | 第3回大和証券杯ネット囲碁オープン予選 | Miyazawa Goro | O Rissei | Win | W+T | 6.5 | 2839 | -95 | 
+| 2007-08-02 | 第33期碁聖戦予選 | Konagai Masaru | O Rissei | Win | W+R | 6.5 | 2934 | -21 | 
+| 2007-07-26 | 第32期棋聖戦Aリーグ | Cho U | O Rissei | Lose | B+1.5 | 6.5 | 2955 | -67 | 
+| 2007-07-21 | 第27期NECカップ囲碁トーナメント戦1回戦 | O Rissei | Cho Sonjin | Lose | W+3.5 | 6.5 | 3022 | 88 | 
+| 2007-06-28 | 第46期十段戦本戦1回戦 | O Rissei | Komatsu Hideki | Lose | W+R | 6.5 | 2934 | -32 | 
+| 2007-06-14 | 第32期棋聖戦Aリーグ | O Rissei | Kobayashi Satoru | Win | B+R | 6.5 | 2966 | 108 | 
+| 2007-06-07 | 第33期名人戦予選 | Mizokami Tomochika | O Rissei | Lose | B+R | 6.5 | 2858 | -44 | 
+| 2007-05-24 | 第55期王座戦2回戦 | O Rissei | Cho U | Lose | W+R | 6.5 | 2902 | 10 | 
+| 2007-05-10 | 第33期名人戦予選 | O Rissei | Michael Redmond | Win | B+R | 6.5 | 2892 | 61 | 
+| 2007-04-05 | 第55期王座戦1回戦 | O Rissei | Kono Rin | Win | B+R | 6.5 | 2831 | 23 | 
+| 2007-03-29 | 第33期天元戦本戦2回戦 | O Rissei | Iyama Yuta | Lose | W+2.5 | 6.5 | 2808 | -28 | 
+| 2007-03-22 | 第46期十段戦予選 | O Rissei | Anzai Nobuaki | Win | B+R | 6.5 | 2836 | 1 | 
+| 2007-03-15 | 第63期本因坊戦予選 | Mizokami Tomochika | O Rissei | Lose | B+R | 6.5 | 2835 | 298 | 
+| 2007-02-15 | 第46期十段戦予選 | Iyama Yuta | O Rissei | Win | W+0.5 | 6.5 | 2537 | -1 | 
+| 2007-02-08 | 第63期本因坊戦予選 | O Rissei | Akiyama Jiro | Win | B+R | 6.5 | 2538 | 36 | 
+| 2007-02-01 | 第33期天元戦本戦1回戦 | O Rissei | Kamimura Haruo | Win | B+R | 6.5 | 2502 | 21 | 
+| 2007-01-18 | 第55期王座戦予選 | O Rissei | Michael Redmond | Win | B+1.5 | 6.5 | 2481 | 34 | 
+| 2006-12-19 | 第2回大和証券杯ネット囲碁オープン予選 | Komatsu Hideki | O Rissei | Lose | B+1.5 | 6.5 | 2447 | -86 | 
+| 2006-12-07 | 第55期王座戦予選 | O Rissei | Nakao Jungo | Win | B+R | 6.5 | 2533 | -70 | 
+| 2006-10-05 | 第31期棋聖戦Bリーグ | O Rissei | Cho Chikun | Win | B+R | 6.5 | 2603 | 18 | 
+| 2006-09-23 | 第1回大和証券杯ネット囲碁オープンDリーグ | O Rissei | Kim Sujun | Lose | W+R | 6.5 | 2585 | -4 | 
+| 2006-09-21 | 第32期碁聖戦予選 | O Rissei | Akiyama Jiro | Lose | W+R | 6.5 | 2589 | 2 | 
+| 2006-09-14 | 第31期棋聖戦Bリーグ | Kato Atsushi | O Rissei | Lose | B+3.5 | 6.5 | 2587 | -24 | 
+| 2006-09-10 | 第1回大和証券杯ネット囲碁オープンDリーグ | O Rissei | Yamada Takuji | Lose | W+R | 6.5 | 2611 | -15 | 
+| 2006-09-07 | 第1回大和証券杯ネット囲碁オープンDリーグ | Yamada Kimio | O Rissei | Win | W+R | 6.5 | 2626 | 15 | 
+| 2006-08-31 | 第45期十段戦敗者復活戦2回戦 | Komatsu Hideki | O Rissei | Lose | B+R | 6.5 | 2611 | 6 | 
+| 2006-08-24 | 第32期名人戦予選 | O Rissei | Tsuruyama Atsushi | Lose | W+R | 6.5 | 2605 | -37 | 
+| 2006-08-17 | 第32期碁聖戦予選 | O Rissei | Sonoda Yasutaka | Win | B+R | 6.5 | 2642 | -35 | 
+| 2006-08-10 | 第31期棋聖戦Bリーグ | O Rissei | Kobayashi Satoru | Lose | W+R | 6.5 | 2677 | -59 | 
+| 2006-08-03 | 第32期名人戦予選 | O Rissei | Nakamura Hidehito | Win | B+R | 6.5 | 2736 | 37 | 
+| 2006-07-27 | 第45期十段戦本戦2回戦 | O Rissei | Yamada Kimio | Lose | W+R | 6.5 | 2699 | -21 | 
+| 2006-07-20 | 第31期棋聖戦Bリーグ | Yuki Satoshi | O Rissei | Win | W+0.5 | 6.5 | 2720 | -1 | 
+| 2006-07-13 | 第32期天元戦本戦準決勝 | Yamashita Keigo | O Rissei | Lose | B+R | 6.5 | 2721 | -41 | 
+| 2006-07-06 | 第54期王座戦2回戦 | O Rissei | Iyama Yuta | Lose | W+3.5 | 6.5 | 2762 | -225 | 
+| 2006-06-22 | 第31期棋聖戦Bリーグ | Imamura Toshiya | O Rissei | Win | W+13.5 | 6.5 | 2987 | 6 | 
+| 2006-06-08 | 第13期阿含・桐山杯全日本早碁オープン戦予選 | Ishida Yoshio | O Rissei | Lose | B+1.5 | 6.5 | 2981 | -8 | 
+| 2006-06-01 | 第45期十段戦本戦1回戦 | O Rissei | Hane Naoki | Win | B+R | 6.5 | 2989 | 31 | 
+| 2006-05-25 | 第32期天元戦本戦3回戦 | Hane Naoki | O Rissei | Win | W+R | 6.5 | 2958 | 103 | 
+| 2006-05-18 | 第13期阿含・桐山杯全日本早碁オープン戦予選 | Nakane Naoyuki | O Rissei | Win | W+R | 6.5 | 2855 | 7 | 
+| 2006-05-13 | 第26期NECカップ囲碁トーナメント戦1回戦 | Kobayashi Satoru | O Rissei | Lose | B+R | 6.5 | 2848 | -7 | 
+| 2006-05-11 | 第54期王座戦1回戦 | Nakaonoda Tomomi | O Rissei | Win | W+5.5 | 6.5 | 2855 | 4 | 
+| 2006-05-03 | 第5回CSK杯囲碁アジア対抗戦第3戦 | Yamashita Keigo | O Rissei | Lose | B+2.5 | 6.5 | 2851 | 3 | 
+| 2006-05-02 | 第5回CSK杯囲碁アジア対抗戦第2戦 | O Rissei | Park Yeonghun | Lose | W+R | 6.5 | 2848 | -4 | 
+| 2006-05-01 | 第5回CSK杯囲碁アジア対抗戦第1戦 | O Rissei | Ding Wei | Lose | W+R | 6.5 | 2852 | -15 | 
+| 2006-04-27 | 第62期本因坊戦予選 | Sonoda Yuichi | O Rissei | Lose | B+R | 6.5 | 2867 | -41 | 
+| 2006-04-06 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | O Rissei | Hikosaka Naoto | Lose | W+2.5 | 6.5 | 2908 | -16 | 
+| 2006-03-30 | 第61期本因坊戦リーグ | O Rissei | Cho Sonjin | Lose | W+R | 6.5 | 2924 | -36 | 
+| 2006-03-09 | 第32期天元戦本戦2回戦 | O Rissei | Ko Iso | Win | B+R | 6.5 | 2960 | 22 | 
+| 2006-03-02 | 第61期本因坊戦リーグ | O Rissei | O Meien | Win | B+3.5 | 6.5 | 2938 | 6 | 
+| 2006-02-16 | 第61期本因坊戦リーグ | Hane Naoki | O Rissei | Lose | B+1.5 | 6.5 | 2932 | 2 | 
+| 2006-02-02 | 第31期碁聖戦本戦2回戦 | Otake Hideo | O Rissei | Lose | B+5.5 | 6.5 | 2930 | -11 | 
+| 2006-01-26 | 第61期本因坊戦リーグ | Yoda Norimoto | O Rissei | Lose | B+R | 6.5 | 2941 | -12 | 
+| 2006-01-12 | 第32期天元戦本戦1回戦 | Ryu Shikun | O Rissei | Win | W+6.5 | 6.5 | 2953 | -210 | 
+| 2005-12-15 | 第19回世界囲碁選手権富士通杯国内予選 | Sakai Hideyuki | O Rissei | Lose | B+0.5 | 6.5 | 3163 | -10 | 
+| 2005-12-12 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | O Rissei | Han Zenki | Win | B+R | 6.5 | 3173 | 0 | 
+| 2005-12-12 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Kono Rin | O Rissei | Win | W+R | 6.5 | 3173 | -2 | 
+| 2005-12-08 | 第61期本因坊戦リーグ | So Yokoku | O Rissei | Win | W+R | 6.5 | 3175 | -28 | 
+| 2005-12-01 | 第19回世界囲碁選手権富士通杯国内予選 | O Rissei | O Meien | Win | B+1.5 | 6.5 | 3203 | 9 | 
+| 2005-11-17 | 第61期本因坊戦リーグ | Cho U | O Rissei | Lose | B+R | 6.5 | 3194 | 135 | 
+| 2005-11-10 | 第31期碁聖戦本戦1回戦 | O Rissei | Seto Taiki | Win | B+2.5 | 6.5 | 3059 | 12 | 
+| 2005-10-27 | 第61期本因坊戦リーグ | O Rissei | Yamada Kimio | Lose | W+R | 6.5 | 3047 | 64 | 
+| 2005-10-20 | 第31期名人戦予選 | Takao Shinji | O Rissei | Lose | B+4.5 | 6.5 | 2983 | -43 | 
+| 2005-10-13 | 第44期十段戦敗者復活戦3回戦 | Yamashita Keigo | O Rissei | Lose | B+R | 6.5 | 3026 | 12 | 
+| 2005-10-06 | 第30期棋聖戦Bリーグ | Yamashita Keigo | O Rissei | Lose | B+R | 6.5 | 3014 | -9 | 
+| 2005-09-29 | 第30期棋聖戦Bリーグ | O Rissei | Imamura Toshiya | Win | B+R | 6.5 | 3023 | 34 | 
+| 2005-09-22 | 第44期十段戦本戦3回戦 | O Rissei | Takao Shinji | Lose | W+R | 6.5 | 2989 | -5 | 
+| 2005-09-14 | 第31期名人戦予選 | Furuya Yutaka | O Rissei | Win | W+1.5 | 6.5 | 2994 | -4 | 
+| 2005-09-08 | 第31期名人戦予選 | Yokota Shigeaki | O Rissei | Win | W+R | 6.5 | 2998 | -13 | 
+| 2005-08-25 | 第30期棋聖戦Bリーグ | Komatsu Hideki | O Rissei | Lose | B+3.5 | 6.5 | 3011 | -33 | 
+| 2005-08-16 | 第2回中環杯世界囲碁選手権2回戦 | O Rissei | Hane Naoki | Lose | W+R | 6.5 | 3044 | 9 | 
+| 2005-08-14 | 第2回中環杯世界囲碁選手権1回戦 | O Rissei | Park Yeonghun | Win | B+R | 6.5 | 3035 | 31 | 
+| 2005-08-11 | 第61期本因坊戦予選 | Ryu Shikun | O Rissei | Win | W+3.5 | 6.5 | 3004 | 30 | 
+| 2005-08-04 | 第44期十段戦本戦2回戦 | Rin Kaiho | O Rissei | Win | W+7.5 | 6.5 | 2974 | -11 | 
+| 2005-07-28 | 第30期棋聖戦Bリーグ | O Rissei | O Meien | Lose | W+R | 6.5 | 2985 | -2 | 
+| 2005-07-25 | 第12期阿含・桐山杯全日本早碁オープン戦2回戦 | Iyama Yuta | O Rissei | Lose | B+R | 6.5 | 2987 | 19 | 
+| 2005-07-14 | 第53期王座戦2回戦 | Nakaonoda Tomomi | O Rissei | Lose | B+R | 6.5 | 2968 | -10 | 
+| 2005-07-11 | 第25期NECカップ囲碁トーナメント戦1回戦 | O Rissei | Miyazawa Goro | Lose | W+R | 6.5 | 2978 | 21 | 
+| 2005-07-07 | 第12期阿含・桐山杯全日本早碁オープン戦1回戦 | Nakano Hironari | O Rissei | Win | W+R | 6.5 | 2957 | -13 | 
+| 2005-06-30 | 第30期棋聖戦Bリーグ | Kobayashi Satoru | O Rissei | Win | W+0.5 | 6.5 | 2970 | 328 | 
+| 2005-06-23 | 第53期王座戦1回戦 | Yuki Satoshi | O Rissei | Win | W+R | 6.5 | 2642 | 26 | 
+| 2005-06-16 | 第44期十段戦本戦1回戦 | O Rissei | Yamashiro Hiroshi | Win | B+0.5 | 6.5 | 2616 | -74 | 
+| 2005-05-16 | 第10回LG杯世界棋王戦1回戦 | O Rissei | Piao Wenyao | Lose | W+2.5 | 6.5 | 2690 | -27 | 
+| 2005-05-03 | 第4回CSK杯囲碁アジア対抗戦第3戦 | O Rissei | Hane Naoki | Lose | W+1.5 | 6.5 | 2717 | -7 | 
+| 2005-05-02 | 第4回CSK杯囲碁アジア対抗戦第2戦 | Zhou Heyang | O Rissei | Lose | B+0.5 | 6.5 | 2724 | -7 | 
+| 2005-05-01 | 第4回CSK杯囲碁アジア対抗戦第1戦 | O Rissei | Lee Sedol | Lose | W+R | 6.5 | 2731 | 88 | 
+| 2005-04-27 | 第43期十段戦挑戦手合五番勝負第5局 | Cho Chikun | O Rissei | Lose | B+5.5 | 6.5 | 2643 | -28 | 
+| 2005-04-14 | 第43期十段戦挑戦手合五番勝負第4局 | O Rissei | Cho Chikun | Lose | W+R | 6.5 | 2671 | -109 | 
+| 2005-04-07 | 第43期十段戦挑戦手合五番勝負第3局 | Cho Chikun | O Rissei | Win | W+19.5 | 6.5 | 2780 | 40 | 
+| 2005-03-31 | 第60期本因坊戦リーグ | Han Zenki | O Rissei | Win | W+R | 6.5 | 2740 | 13 | 
+| 2005-03-24 | 第30期碁聖戦本戦3回戦 | O Rissei | Hane Naoki | Lose | W+1.5 | 6.5 | 2727 | -48 | 
+| 2005-03-17 | 第43期十段戦挑戦手合五番勝負第2局 | O Rissei | Cho Chikun | Win | B+5.5 | 6.5 | 2775 | -16 | 
+| 2005-03-10 | 第31期天元戦本戦2回戦 | Yoda Norimoto | O Rissei | Lose | B+R | 6.5 | 2791 | 38 | 
+| 2005-03-03 | 第43期十段戦挑戦手合五番勝負第1局 | Cho Chikun | O Rissei | Lose | B+0.5 | 6.5 | 2753 | -306 | 
+| 2005-02-24 | 第60期本因坊戦リーグ | O Rissei | Mimura Tomoyasu | Win | B+5.5 | 6.5 | 3059 | -114 | 
+| 2005-02-10 | 第31期天元戦本戦1回戦 | Yamada Noriyoshi | O Rissei | Win | W+1.5 | 6.5 | 3173 | 21 | 
+| 2005-02-03 | 第60期本因坊戦リーグ | Yoda Norimoto | O Rissei | Lose | B+1.5 | 6.5 | 3152 | 86 | 
+| 2005-01-15 | 第1回中環杯世界囲碁選手権決勝 | O Rissei | Park Yeonghun | Lose | W+R | 6.5 | 3066 | 1 | 
+| 2005-01-13 | 第1回中環杯世界囲碁選手権準決勝 | O Rissei | Lee Changho | Win | B+0.5 | 6.5 | 3065 | -13 | 
+| 2005-01-06 | 第60期本因坊戦リーグ | Takao Shinji | O Rissei | Lose | B+R | 6.5 | 3078 | 187 | 
+| 2004-12-02 | 第60期本因坊戦リーグ | O Rissei | So Yokoku | Lose | W+R | 6.5 | 2891 | -20 | 
+| 2004-11-27 | 第24期NECカップ囲碁トーナメント戦2回戦 | O Rissei | Ryu Shikun | Lose | W+1.5 | 6.5 | 2911 | -4 | 
+| 2004-11-04 | 第60期本因坊戦リーグ | O Rissei | O Meien | Lose | W+0.5 | 6.5 | 2915 | -170 | 
+| 2004-10-14 | 第60期本因坊戦リーグ | Cho Sonjin | O Rissei | Lose | B+R | 6.5 | 3085 | -27 | 
+| 2004-10-07 | 第29期棋聖戦Bリーグ | O Rissei | Imamura Yoshiaki | Win | B+R | 6.5 | 3112 | -230 | 
+| 2004-09-18 | 第1回中環杯世界囲碁選手権2回戦 | O Rissei | Kato Masao | Win | B+1.5 | 6.5 | 3342 | 8 | 
+| 2004-09-16 | 第1回中環杯世界囲碁選手権1回戦 | O Rissei | Cho Chikun | Win | B+1.5 | 6.5 | 3334 | 279 | 
+| 2004-09-02 | 第29期棋聖戦Bリーグ | Cho U | O Rissei | Lose | B+R | 6.5 | 3055 | -18 | 
+| 2004-08-26 | 第29期棋聖戦Bリーグ | O Rissei | Cho Chikun | Win | B+R | 6.5 | 3073 | 27 | 
+| 2004-08-05 | 第29期名人戦リーグ | Yamada Kimio | O Rissei | Lose | B+R | 6.5 | 3046 | 29 | 
+| 2004-07-22 | 第29期棋聖戦Bリーグ | Kobayashi Satoru | O Rissei | Lose | B+R | 6.5 | 3017 | 3 | 
+| 2004-07-08 | 第29期名人戦リーグ | Cho Chikun | O Rissei | Lose | B+R | 6.5 | 3014 | -73 | 
+| 2004-06-24 | 第52期王座戦2回戦 | Hane Naoki | O Rissei | Lose | B+0.5 | 6.5 | 3087 | 7 | 
+| 2004-06-17 | 第29期名人戦リーグ | O Rissei | Imamura Toshiya | Lose | W+R | 6.5 | 3080 | -6 | 
+| 2004-06-14 | 第24期NECカップ囲碁トーナメント戦1回戦 | O Rissei | Rin Kaiho | Win | B+R | 6.5 | 3086 | -2 | 
+| 2004-06-03 | 第29期棋聖戦Bリーグ | O Rissei | Yuki Satoshi | Win | B+0.5 | 6.5 | 3088 | -1 | 
+| 2004-05-20 | 第9回LG杯世界棋王戦2回戦 | Lee Changho | O Rissei | Lose | B+R | 6.5 | 3089 | -9 | 
+| 2004-05-18 | 第9回LG杯世界棋王戦1回戦 | O Rissei | Cho Hunhyun | Win | B+2.5 | 6.5 | 3098 | 16 | 
+| 2004-05-13 | 第52期王座戦1回戦 | Otake Hideo | O Rissei | Win | W+R | 6.5 | 3082 | 38 | 
+| 2004-05-06 | 第29期碁聖戦本戦準決勝 | O Rissei | Yamada Kimio | Lose | W+R | 6.5 | 3044 | -9 | 
+| 2004-05-01 | 第2期JALスーパー早碁1回戦 | Cho U | O Rissei | Lose | B+2.5 | 6.5 | 3053 | -55 | 
+| 2004-04-20 | 第5回応氏杯世界選手権1回戦 | Peng Quan | O Rissei | Lose | B+3 | 7.5 | 3108 | -19 | 
+| 2004-04-15 | 第42期十段戦挑戦手合五番勝負第4局 | O Rissei | Cho U | Win | B+R | 6.5 | 3127 | -65 | 
+| 2004-04-08 | 第42期十段戦挑戦手合五番勝負第3局 | Cho U | O Rissei | Win | W+R | 6.5 | 3192 | 49 | 
+| 2004-04-01 | 第59期本因坊戦リーグ | O Rissei | O Meien | Lose | W+R | 6.5 | 3143 | -13 | 
+| 2004-03-26 | 第42期十段戦挑戦手合五番勝負第2局 | O Rissei | Cho U | Lose | W+1.5 | 6.5 | 3156 | -6 | 
+| 2004-03-23 | 第3回CSK杯囲碁アジア対抗戦第3戦 | Yamashita Keigo | O Rissei | Win | W+2.5 | 6.5 | 3162 | -27 | 
+| 2004-03-22 | 第3回CSK杯囲碁アジア対抗戦第2戦 | O Rissei | Yu Bin | Win | B+15.5 | 6.5 | 3189 | 8 | 
+| 2004-03-21 | 第3回CSK杯囲碁アジア対抗戦第1戦 | Yoo Changhyuk | O Rissei | Lose | B+0.5 | 6.5 | 3181 | -25 | 
+| 2004-03-18 | 第59期本因坊戦リーグ | O Rissei | Kobayashi Koichi | Win | B+2.5 | 6.5 | 3206 | 11 | 
+| 2004-03-15 | 第29期碁聖戦本戦3回戦 | Yuki Satoshi | O Rissei | Win | W+R | 6.5 | 3195 | 20 | 
+| 2004-03-11 | 第42期十段戦挑戦手合五番勝負第1局 | Cho U | O Rissei | Win | W+9.5 | 6.5 | 3175 | 17 | 
+| 2004-03-04 | 第29期名人戦リーグ | Kobayashi Satoru | O Rissei | Lose | B+R | 6.5 | 3158 | -20 | 
+| 2004-02-26 | 第29期名人戦リーグ | O Rissei | O Meien | Win | B+R | 6.5 | 3178 | 205 | 
+| 2004-02-19 | 第30期天元戦本戦2回戦 | Kim Sujun | O Rissei | Lose | B+6.5 | 6.5 | 2973 | 0 | 
+| 2004-02-12 | 第59期本因坊戦リーグ | Yamashita Keigo | O Rissei | Win | W+3.5 | 6.5 | 2973 | -6 | 
+| 2004-02-05 | 第30期天元戦本戦1回戦 | Akiyama Jiro | O Rissei | Win | W+3.5 | 6.5 | 2979 | 17 | 
+| 2004-01-29 | 第29期碁聖戦本戦2回戦 | O Rissei | Akiyama Jiro | Win | B+1.5 | 6.5 | 2962 | 9 | 
+| 2004-01-22 | 第17回世界囲碁選手権富士通杯国内予選決勝 | O Rissei | Hane Naoki | Lose | W+5.5 | 6.5 | 2953 | -27 | 
+| 2004-01-15 | 第59期本因坊戦リーグ | O Rissei | Cho Sonjin | Lose | W+R | 6.5 | 2980 | -12 | 
+| 2004-01-08 | 第29期名人戦リーグ | Rin Kaiho | O Rissei | Win | W+5.5 | 6.5 | 2992 | -20 | 
+| 2003-12-29 | 第5回春蘭杯世界囲碁選手権1回戦 | O Rissei | Song Taekon | Lose | W+10.5 | 7.5 | 3012 | 61 | 
+| 2003-12-25 | 第29期名人戦リーグ | O Rissei | Yamashita Keigo | Win | B+R | 6.5 | 2951 | 7 | 
+| 2003-12-18 | 第59期本因坊戦リーグ | Kato Masao | O Rissei | Win | W+0.5 | 6.5 | 2944 | -31 | 
+| 2003-12-11 | 第17回世界囲碁選手権富士通杯国内予選 | Ishida Akira | O Rissei | Win | W+R | 6.5 | 2975 | -24 | 
+| 2003-12-01 | 第29期碁聖戦本戦1回戦 | Oya Koichi | O Rissei | Win | W+5.5 | 6.5 | 2999 | 26 | 
+| 2003-11-27 | 第59期本因坊戦リーグ | Mimura Tomoyasu | O Rissei | Lose | B+R | 6.5 | 2973 | -9 | 
+| 2003-11-20 | 第5回中国囲碁甲級リーグ第18節 | Kong Jie | O Rissei | Win | W+0.5 | 7.5 | 2982 | 17 | 
+| 2003-11-13 | 第5回中国囲碁甲級リーグ第17節 | O Rissei | Ding Wei | Win | B+1.5 | 7.5 | 2965 | -18 | 
+| 2003-11-06 | 第17回世界囲碁選手権富士通杯国内予選 | O Rissei | Kamimura Haruo | Win | B+R | 6.5 | 2983 | 19 | 
+| 2003-10-30 | 第59期本因坊戦リーグ | Yoda Norimoto | O Rissei | Win | W+2.5 | 6.5 | 2964 | -2668 | 
+| 2003-10-02 | 第28期棋聖戦Aリーグ | Ishida Yoshio | O Rissei | Win | W+6.5 | 6.5 | 5632 | 2882 | 
+| 2003-09-18 | 第28期棋聖戦Aリーグ | O Rissei | Kobayashi Satoru | Win | B+8.5 | 6.5 | 2750 | 29 | 
+| 2003-09-06 | 第15回テレビアジア選手権 | Zhou Heyang | O Rissei | Lose | B+0.5 | 6.5 | 2721 | -22 | 
+| 2003-09-05 | 第15回テレビアジア選手権 | O Rissei |  | Win | B+R | 6.5 | 2743 | 110 | 
+| 2003-08-21 | 第28期棋聖戦Aリーグ | Hane Naoki | O Rissei | Lose | B+R | 6.5 | 2633 | -13 | 
+| 2003-08-11 | 第5回中国囲碁甲級リーグ第11節 | O Rissei | Zhou Heyang | Lose | W+R | 7.5 | 2646 | -3 | 
+| 2003-08-07 | 第28期名人戦リーグ | Takemiya Masaki | O Rissei | Win | W+4.5 | 6.5 | 2649 | 43 | 
+| 2003-07-25 | 第23期NECカップ囲碁トーナメント戦1回戦 | O Rissei | Akiyama Jiro | Lose | W+R | 6.5 | 2606 | 21 | 
+| 2003-07-21 | 第29期天元戦本戦準決勝 | O Rissei | Yamashita Keigo | Lose | W+4.5 | 6.5 | 2585 | -4 | 
+| 2003-07-17 | 第28期棋聖戦Aリーグ | Imamura Yoshiaki | O Rissei | Lose | B+0.5 | 6.5 | 2589 | -26 | 
+| 2003-07-10 | 第28期名人戦リーグ | O Meien | O Rissei | Win | W+R | 6.5 | 2615 | 38 | 
+| 2003-07-03 | 第29期天元戦本戦3回戦 | Yamashiro Hiroshi | O Rissei | Win | W+R | 6.5 | 2577 | 38 | 
+| 2003-06-26 | 第28期棋聖戦Aリーグ | O Rissei | Mimura Tomoyasu | Win | B+R | 6.5 | 2539 | -11 | 
+| 2003-06-17 | 第8回LG杯世界棋王戦1回戦 | O Rissei | Alexander Dinerchtein | Lose | W+1.5 | 6.5 | 2550 | 5 | 
+| 2003-06-15 | 第1期JALスーパー早碁1回戦 | O Rissei | Takao Shinji | Lose | W+R | 6.5 | 2545 | -42 | 
+| 2003-06-12 | 第28期名人戦リーグ | O Rissei | Cho Chikun | Win | B+6.5 | 6.5 | 2587 | 51 | 
+| 2003-06-07 | 第16回世界囲碁選手権富士通杯3回戦 | Lee Changho | O Rissei | Lose | B+4.5 | 6.5 | 2536 | -21 | 
+| 2003-05-08 | 第28期名人戦リーグ | O Rissei | Mizokami Tomochika | Win | B+R | 6.5 | 2557 | -6 | 
+| 2003-05-02 | 第51期王座戦1回戦 | O Rissei | Kato Masao | Lose | W+R | 6.5 | 2563 | -40 | 
+| 2003-04-29 | 第2回CSK杯囲碁アジア対抗戦第3戦 | Lee Sedol | O Rissei | Win | W+R | 6.5 | 2603 | 98 | 
+| 2003-04-28 | 第2回CSK杯囲碁アジア対抗戦第2戦 | Wang Xi | O Rissei | Win | W+R | 6.5 | 2505 | 158 | 
+| 2003-04-27 | 第2回CSK杯囲碁アジア対抗戦第1戦 | Yoda Norimoto | O Rissei | Lose | B+R | 6.5 | 2347 | -2 | 
+| 2003-04-14 | 第16回世界囲碁選手権富士通杯2回戦 | O Rissei | Cho Hunhyun | Win | B+4.5 | 6.5 | 2349 | 401 | 
+| 2003-04-03 | 第29期天元戦本戦2回戦 | Komatsu Hideki | O Rissei | Win | W+2.5 | 6.5 | 1948 | 28 | 
+| 2003-03-20 | 第28期名人戦リーグ | O Rissei | Rin Kaiho | Win | B+R | 6.5 | 1920 | 1920 | 
+| 2003-02-13 | 第28期名人戦リーグ | Ryu Shikun | O Rissei | Lose | B+0.5 | 6.5 | missing | 0 | 
+| 2003-01-23 | 第29期天元戦本戦1回戦 | Takahara Syuji | O Rissei | Win | W+R | 6.5 | missing | 0 | 
+| 2002-11-07 | 第28期碁聖戦本戦1回戦 | Honda Kunihisa | O Rissei | Lose | B+R | 6.5 | missing | 0 | 
+| 2002-10-23 | 第4回農心辛ラーメン杯世界囲碁最強戦第2戦 | O Rissei | Park Yeonghun | Lose | W+R | 6.5 | missing | 0 | 
+| 2002-05-20 | 第4回春蘭杯世界囲碁選手権2回戦 | O Rissei | Lee Changho | Lose | W+R | 7.5 | missing | 0 | 
+| 2002-05-02 | 第7回LG杯世界棋王戦2回戦 | O Rissei | Cho Hanseung | Lose | W+3.5 | 6.5 | missing | -2798 | 
+| 2001-06-14 | 第6回LG杯世界棋王戦2回戦 | Yoo Changhyuk | O Rissei | Lose | B+R | 6.5 | 2798 | -153 | 
+| 2001-02-08 | 第5回LG杯世界棋王戦準決勝 | O Rissei | Lee Changho | Lose | W+2.5 | 6.5 | 2951 | 2951 | 
+| 2000-11-14 | 第5回LG杯世界棋王戦3回戦 | O Rissei | Cho Hunhyun | Win | B+16.5 | 6.5 | missing | 0 | 
+| 2000-06-15 | 第5回LG杯世界棋王戦2回戦 | O Rissei | Yang Keon | Win | B+R | 6.5 | missing | 0 | 
+| 2000-05-02 | 第4回応氏杯世界選手権2回戦 | O Rissei | Lee Changho | Lose | W+R | 7.5 | missing | 0 | 
+| 2000-04-30 | 第4回応氏杯世界選手権1回戦 | O Rissei | Liu Xiaoguang | Win | B+R | 7.5 | missing | 0 | 
+| 1999-11-15 | 第4回LG杯世界棋王戦3回戦 | O Rissei | Yu Bin | Lose | W+3.5 | 6.5 | missing | 0 | 
+| 1999-09-09 | 第4期三星杯2回戦 | O Rissei | Lee Changho | Lose | W+2.5 | 6.5 | missing | 0 | 
+| 1999-09-07 | 第4期三星杯1回戦 | O Rissei |  | Win | B+6.5 | 6.5 | missing | 0 | 
+| 1999-06-17 | 第4回LG杯世界棋王戦2回戦 | O Rissei | Mok Jinseok | Win | B+R | 6.5 | missing | 0 | 
+| 1998-06-18 | 第3回LG杯世界棋王戦2回戦 | O Rissei | Zhou Junxun | Lose | W+R | 6.5 | missing | 0 | 
+| 1996-04-24 | 第3回応氏杯世界選手権1回戦 | O Rissei | Yoo Changhyuk | Lose | W+R | 7.5 | missing | 0 | 
+| 1992-07-13 | 第2回応氏杯世界選手権1回戦 | Awaji Shuzo | O Rissei | Lose | B+9 | 7.5 | missing | 0 | 
+| 1988-08-21 | 第1回応氏杯世界選手権1回戦 | Kobayashi Koichi | O Rissei | Lose | B+3 | 7.5 | missing | missing |
 
 
 

@@ -7,8 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-07-15 | 第46期棋聖戦Cリーグ | Fujisawa Rina | Ida Atsushi | Win | W+R | 6.5 | 3146 | 1 | 
-| 2021-07-15 | 第46期棋聖戦Cリーグ | Fujisawa Rina | Ida Atsushi | Win | W+R | 6.5 | 3145 | 16 | 
+| 2021-09-16 | 第47期名人戦予選 | Seto Taiki | Ida Atsushi | Win | W+R | 6.5 | 3281 | 34 | 
+| 2021-09-09 | 第60期十段戦予選 | Mizokami Tomochika | Ida Atsushi | Win | W+R | 6.5 | 3247 | -39 | 
+| 2021-09-02 | 第46期棋聖戦Cリーグ | Ida Atsushi | Terayama Rei | Win | B+R | 6.5 | 3286 | 51 | 
+| 2021-08-19 | 第47期名人戦予選 | Ida Atsushi |  | Win | B+R | 6.5 | 3235 | 3235 | 
+| 2021-08-12 | 第69期王座戦準決勝  | Ida Atsushi | Ichiriki Ryo | Lose | W+1.5 | 6.5 | missing | -3146 | 
+| 2021-07-15 | 第46期棋聖戦Cリーグ | Fujisawa Rina | Ida Atsushi | Win | W+R | 6.5 | 3146 | 17 | 
 | 2021-07-12 | 第69期王座戦2回戦 | Ida Atsushi | Hsu Chiayuan | Win | B+R | 6.5 | 3129 | 51 | 
 | 2021-06-24 | 第46期棋聖戦Cリーグ | Ida Atsushi | Fukuoka Kotaro | Lose | W+0.5 | 6.5 | 3078 | -22 | 
 | 2021-05-31 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kim Jiseok | Ida Atsushi | Lose | B+R | 6.5 | 3100 | -8 | 

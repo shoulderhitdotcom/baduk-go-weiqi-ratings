@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-16 | 第14期棋王戦（台湾）予選 | Cai Chengwei | Chen Qirui | Win | W+R | 6.5 | 3230 | 3 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Chen Qirui | Huang Shiyuan | Win | B+R | 6.5 | 3227 | 13 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 | Lin Xinwei | Chen Qirui | Win | W+R | 6.5 | 3214 | -40 | 
 | 2021-09-01 | 第26回三星火災杯台湾予選 | Lin Shixun | Chen Qirui | Lose | B+R | 6.5 | 3254 | 28 | 
@@ -140,7 +141,6 @@
 | 2020-02-24 | 第12回海峰杯プロ囲碁戦32強戦 | Huang Shiyuan | Chen Qirui | Win | W+R | 6.5 | 2927 | 31 | 
 | 2020-02-21 | 第25回LG杯台湾代表選抜戦 | Chen Qirui | Lai Junfu | Lose | W+R | 6.5 | 2896 | -8 | 
 | 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Chen Qirui |  | Win | B+13.5 | 6.5 | 2904 | -5 | 
-| 2020-02-19 | 第25回LG杯台湾代表選抜戦 |  | Chen Qirui | Win | W+R | 6.5 | 2909 | 0 | 
 | 2020-02-19 | 第25回LG杯台湾代表選抜戦 |  | Chen Qirui | Win | W+R | 6.5 | 2909 | 4 | 
 | 2020-02-18 | 第19期天元戦（台湾）勝部2回戦 | Chen Qirui | Lin Yuxiang | Win | B+R | 6.5 | 2905 | -137 | 
 | 2020-02-17 | 第1期名人冠軍戦予選敗部決勝 | Chen Qirui | Lai Junfu | Win | B+R | 6.5 | 3042 | -4 | 

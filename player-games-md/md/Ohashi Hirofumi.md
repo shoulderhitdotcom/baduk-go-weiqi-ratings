@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-16 | 第48期天元戦予選 | Ohashi Hirofumi | O Rissei | Lose | W+R | 6.5 | 2903 | -88 | 
 | 2021-08-26 | 第70期王座戦予選 | Ueno Asami | Ohashi Hirofumi | Win | W+R | 6.5 | 2991 | 120 | 
 | 2021-06-17 | 第46期棋聖戦Cリーグ | Ohashi Hirofumi | Sada Atsushi | Lose | W+6.5 | 6.5 | 2871 | -24 | 
 | 2021-05-03 | 第46期棋聖戦予選 | Ohashi Hirofumi |  | Win | B+0.5 | 6.5 | 2895 | -221 | 

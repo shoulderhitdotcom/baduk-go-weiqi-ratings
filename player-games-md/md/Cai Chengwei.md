@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-16 | 第14期棋王戦（台湾）予選 | Cai Chengwei | Chen Qirui | Lose | W+R | 6.5 | 2915 | -3 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Chen Shiyuan | Cai Chengwei | Win | W+R | 6.5 | 2918 | 18 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 |  | Cai Chengwei | Win | W+R | 6.5 | 2900 | 2900 | 
 | 2021-09-05 | 第9期中環碁聖戦 |  | Cai Chengwei | Win | W+R | 6.5 | missing | -2914 | 
@@ -163,9 +164,7 @@
 | 2017-06-16 | 2017年中国囲碁丙級リーグ | Cai Chengwei |  | Win | B+R | 7.5 | 2494 | 0 | 
 | 2017-06-16 | 2017年中国囲碁丙級リーグ | Cai Chengwei |  | Lose | W+R | 7.5 | 2494 | 0 | 
 | 2017-06-16 | 2017年中国囲碁丙級リーグ | Sun Tengyu | Cai Chengwei | Lose | B+R | 7.5 | 2494 | 0 | 
-| 2017-06-16 | 2017年中国囲碁丙級リーグ | Cai Chengwei |  | Win | B+R | 7.5 | 2494 | 0 | 
-| 2017-06-16 | 2017年中国囲碁丙級リーグ | Yu Qingquan | Cai Chengwei | Win | W+R | 7.5 | 2494 | 0 | 
-| 2017-06-16 | 2017年中国囲碁丙級リーグ | Cai Chengwei |  | Lose | W+R | 7.5 | 2494 | -28 | 
+| 2017-06-16 | 2017年中国囲碁丙級リーグ | Yu Qingquan | Cai Chengwei | Win | W+R | 7.5 | 2494 | -28 | 
 | 2017-06-15 | 2017年中国囲碁丙級リーグ | Yu Qingquan | Cai Chengwei | Win | W+R | 7.5 | 2522 | -1 | 
 | 2017-06-13 | 2017年中国囲碁丙級リーグ | Cai Chengwei |  | Win | B+R | 7.5 | 2523 | -2 | 
 | 2017-06-12 | 2017年中国囲碁丙級リーグ |  | Cai Chengwei | Lose | B+R | 7.5 | 2525 | 0 | 

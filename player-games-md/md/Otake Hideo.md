@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-16 | 第48期天元戦予選 | Yashiro Kumiko | Otake Hideo | Win | W+R | 6.5 | missing | -2170 | 
 | 2021-07-08 | 第70期王座戦予選 | Izumitani Hideo | Otake Hideo | Lose | B+R | 6.5 | 2170 | -96 | 
 | 2021-05-03 | 第47期名人戦予選 |  | Otake Hideo | Lose | B+R | 6.5 | 2266 | 3 | 
 | 2021-04-29 | 第70期王座戦予選 | Otake Hideo | Takano Hideki | Win | B+R | 6.5 | 2263 | -30 | 

@@ -7,8 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-08-13 | 第7回韓国女子囲碁リーグ |  | Kim Hyeoimin | Lose | B+2.5 | 6.5 | 2903 | 20 | 
-| 2021-08-13 | 第7回韓国女子囲碁リーグ |  | Kim Hyeoimin | Lose | B+2.5 | 6.5 | 2883 | -48 | 
+| 2021-09-16 | 第5期韓国製紙女子棋聖戦予選 |  | Kim Hyeoimin | Win | W+2.5 | 6.5 | 2860 | -28 | 
+| 2021-08-26 | 第7回韓国女子囲碁リーグ | Cho Seungah | Kim Hyeoimin | Lose | B+0.5 | 6.5 | 2888 | -15 | 
+| 2021-08-13 | 第7回韓国女子囲碁リーグ |  | Kim Hyeoimin | Lose | B+2.5 | 6.5 | 2903 | -28 | 
 | 2021-08-11 | 第26期女流国手戦1回戦 | Kim Hyeoimin |  | Win | B+R | 6.5 | 2931 | 42 | 
 | 2021-08-06 | 第7回韓国女子囲碁リーグ | Oh Yujin | Kim Hyeoimin | Lose | B+R | 6.5 | 2889 | -28 | 
 | 2021-07-30 | 第7回韓国女子囲碁リーグ | Kim Hyeoimin | Kim Cheayoung | Win | B+R | 6.5 | 2917 | 22 | 

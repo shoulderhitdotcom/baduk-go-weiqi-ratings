@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-16 | 第46期名人戦挑戦手合七番勝負第3局  | Ichiriki Ryo | Iyama Yuta | Win | B+R | 6.5 | 3538 | -2 | 
+| 2021-09-09 | 第46期名人戦挑戦手合七番勝負第2局  | Iyama Yuta | Ichiriki Ryo | Win | W+0.5 | 6.5 | 3540 | -9 | 
 | 2021-08-29 | 第46期碁聖戦挑戦手合五番勝負第5局  | Ichiriki Ryo | Iyama Yuta | Lose | W+R | 6.5 | 3549 | 0 | 
 | 2021-08-27 | 第46期名人戦挑戦手合七番勝負第1局  | Ichiriki Ryo | Iyama Yuta | Lose | W+R | 6.5 | 3549 | -19 | 
 | 2021-08-23 | 第46期棋聖戦Sリーグ  | Ichiriki Ryo | Takao Shinji | Win | B+R | 6.5 | 3568 | -67 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-16 | 第46期名人戦挑戦手合七番勝負第3局  | Ichiriki Ryo | Iyama Yuta | Lose | B+R | 6.5 | 3490 | -39 | 
+| 2021-09-09 | 第46期名人戦挑戦手合七番勝負第2局  | Iyama Yuta | Ichiriki Ryo | Lose | W+0.5 | 6.5 | 3529 | 6 | 
 | 2021-09-02 | 第69期王座戦準決勝  | Cho U | Iyama Yuta | Win | W+4.5 | 6.5 | 3523 | 19 | 
 | 2021-08-29 | 第46期碁聖戦挑戦手合五番勝負第5局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3504 | 19 | 
 | 2021-08-27 | 第46期名人戦挑戦手合七番勝負第1局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3485 | -15 | 
@@ -41,7 +43,7 @@
 | 2020-11-22 | 2020年中国囲碁乙級リーグ | Park Sangjin | Iyama Yuta | Win | W+R | 7.5 | 3714 | 9 | 
 | 2020-11-21 | 2020年中国囲碁乙級リーグ | Iyama Yuta | Wang Haoyang | Lose | W+R | 7.5 | 3705 | 15 | 
 | 2020-11-20 | 2020年中国囲碁乙級リーグ | Iyama Yuta |  | Win | B+R | 7.5 | 3690 | 12 | 
-| 2020-11-19 | 2020年中国囲碁乙級リーグ |  | Iyama Yuta | Lose | B+R | 7.5 | 3678 | 19 | 
+| 2020-11-19 | 2020年中国囲碁乙級リーグ | Liu Zhaozhe | Iyama Yuta | Lose | B+R | 7.5 | 3678 | 19 | 
 | 2020-11-17 | 2020年中国囲碁乙級リーグ | Kim Myounghoon | Iyama Yuta | Lose | B+R | 7.5 | 3659 | 3 | 
 | 2020-11-16 | 2020年中国囲碁乙級リーグ | Iyama Yuta |  | Win | B+R | 7.5 | 3656 | 6 | 
 | 2020-11-15 | 2020年中国囲碁乙級リーグ | Chen Shiyuan | Iyama Yuta | Win | W+R | 7.5 | 3650 | -25 | 

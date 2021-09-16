@@ -7,6 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-16 | 第14期棋王戦（台湾）予選 | Ding Shaojie | Chen Feng | Lose | W+R | 6.5 | 2498 | 55 | 
+| 2021-09-13 | 第14期棋王戦（台湾）予選 | Yu Lijun | Ding Shaojie | Win | W+0.5 | 6.5 | 2443 | -17 | 
+| 2021-09-09 | 第14期棋王戦（台湾）予選 | Ding Shaojie | Li Wei | Lose | W+R | 6.5 | 2460 | 2460 | 
+| 2021-09-05 | 第9期中環碁聖戦 | Yu Lijun | Ding Shaojie | Win | W+R | 6.5 | missing | -2382 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 | Su Shengfang | Ding Shaojie | Win | W+R | 6.5 | 2382 | -2 | 
+| 2021-09-01 | 第26回三星火災杯台湾予選 | Lu Yiquan | Ding Shaojie | Lose | B+R | 6.5 | 2384 | 7 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 | Ding Shaojie |  | Win | B+6.5 | 6.5 | 2377 | 35 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Ding Shaojie | Xu Haohong | Lose | W+R | 6.5 | 2342 | -17 | 
 | 2021-04-12 | 第11期友士杯十段戦予選 | Ding Shaojie | Lin Shuyang | Lose | W+R | 6.5 | 2359 | -25 | 

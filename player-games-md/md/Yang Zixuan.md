@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-16 | 第14期棋王戦（台湾）予選 |  | Yang Zixuan | Win | W+R | 6.5 | 2729 | 30 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Lin Xinwei | Yang Zixuan | Win | W+5.5 | 6.5 | 2699 | -9 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 | Huang Shiyuan | Yang Zixuan | Lose | B+R | 6.5 | 2708 | 2708 | 
 | 2021-09-06 | 第14期棋王戦（台湾）予選 | Yang Zixuan |  | Win | B+R | 6.5 | missing | 0 | 
@@ -98,7 +99,6 @@
 | 2020-02-13 | 第1期名人冠軍戦予選敗部1回戦 | Yang Zixuan | Zhou Pingqiang | Win | B+R | 6.5 | missing | 0 | 
 | 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 |  | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 
 | 2020-01-30 | 第17期倡棋杯台湾代表選抜戦 | Yang Zixuan | Lin Jiehan | Lose | W+R | 7.5 | missing | 0 | 
-| 2020-01-22 | 第17期倡棋杯台湾代表選抜戦 |  | Yang Zixuan | Win | W+R | 7.5 | missing | 0 | 
 | 2020-01-22 | 第17期倡棋杯台湾代表選抜戦 |  | Yang Zixuan | Win | W+R | 7.5 | missing | 0 | 
 | 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第6戦 |  | Yang Zixuan | Win | W+R | 6.5 | missing | 0 | 
 | 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第5戦 | Nyu Eiko | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 

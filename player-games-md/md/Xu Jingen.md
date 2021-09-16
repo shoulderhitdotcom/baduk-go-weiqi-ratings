@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-16 | 第14期棋王戦（台湾）予選 |  | Xu Jingen | Lose | B+1.5 | 6.5 | 2968 | -14 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Xu Jingen |  | Win | B+R | 6.5 | 2982 | 9 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 | Xu Yuqi | Xu Jingen | Win | W+R | 6.5 | 2973 | 2973 | 
 | 2021-09-05 | 第9期中環碁聖戦 | Xu Jingen | Liu Jianchang | Win | B+R | 6.5 | missing | -2986 | 

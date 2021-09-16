@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-16 | 第14期棋王戦（台湾）予選 | Lin Shixun | Xu Yuqi | Win | W+2.5 | 6.5 | 2907 | 26 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Liu Yaowen | Xu Yuqi | Win | W+R | 6.5 | 2881 | -13 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 | Xu Yuqi | Xu Jingen | Lose | W+R | 6.5 | 2894 | -10 | 
 | 2021-09-07 | 第26回三星火災杯台湾予選 | Wang Yuanjun | Xu Yuqi | Lose | B+R | 6.5 | 2904 | -2 | 
@@ -24,7 +25,6 @@
 | 2021-04-09 | 第17期国手戦（台湾）16強戦 | Xu Yuqi | Lin Junyan | Lose | W+R | 6.5 | 2886 | -3 | 
 | 2021-04-02 | 第17期国手戦（台湾） | Xu Yuqi | Huang Xiangren | Win | B+R | 6.5 | 2889 | 0 | 
 | 2021-03-31 | 第26回LG杯台湾予選 | Chen Shiyuan | Xu Yuqi | Lose | B+R | 6.5 | 2889 | -14 | 
-| 2021-03-29 | 第11期友士杯十段戦予選 |  | Xu Yuqi | Win | W+R | 6.5 | 2903 | 0 | 
 | 2021-03-29 | 第11期友士杯十段戦予選 |  | Xu Yuqi | Win | W+R | 6.5 | 2903 | 44 | 
 | 2021-03-26 | 第17期国手戦（台湾） | Zhao Peizhe | Xu Yuqi | Win | W+R | 6.5 | 2859 | -130 | 
 | 2021-03-19 | 第17期国手戦（台湾） |  | Xu Yuqi | Win | W+R | 6.5 | 2989 | 39 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-17 | 第12期中国竜星戦Aブロック7回戦 | Jiang Zhujiu | Liao Yuanhe | Win | W+R | 7.5 | 3593 | 3 | 
 | 2021-09-16 | 第12期中国竜星戦Aブロック6回戦 | Ding Hao | Liao Yuanhe | Win | W+1¼ | 7.5 | 3590 | 10 | 
 | 2021-09-15 | 第12期中国竜星戦Aブロック5回戦 | Wu Guangya | Liao Yuanhe | Win | W+1¼ | 7.5 | 3580 | 11 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Liao Yuanhe | Li Qincheng | Lose | W+R | 7.5 | 3569 | -30 | 

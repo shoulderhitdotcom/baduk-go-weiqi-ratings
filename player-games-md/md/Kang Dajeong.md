@@ -7,16 +7,15 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-08-13 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Kang Dajeong | Lose | B+R | 6.5 | 2740 | 18 | 
-| 2021-08-13 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Kang Dajeong | Lose | B+R | 6.5 | 2722 | -97 | 
+| 2021-09-17 | 第7回韓国女子囲碁リーグプレーオフ第1戦 |  | Kang Dajeong | Win | W+R | 6.5 | 2690 | -44 | 
+| 2021-08-26 | 第7回韓国女子囲碁リーグ | Oh Yujin | Kang Dajeong | Lose | B+R | 6.5 | 2734 | -6 | 
+| 2021-08-13 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Kang Dajeong | Lose | B+R | 6.5 | 2740 | -79 | 
 | 2021-08-10 | 第15回GGオークション杯女流対シニア連勝対抗戦第6局 | Kang Dajeong | Seo Musang | Lose | W+R | 6.5 | 2819 | 50 | 
-| 2021-08-07 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Cho Hyeyeon | Lose | W+R | 6.5 | 2769 | 1 | 
-| 2021-08-07 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Cho Hyeyeon | Lose | W+R | 6.5 | 2768 | -43 | 
+| 2021-08-07 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Cho Hyeyeon | Lose | W+R | 6.5 | 2769 | -42 | 
 | 2021-08-06 | 2021女子最高棋士決定戦（韓国）予選 |  | Kang Dajeong | Lose | B+R | 6.5 | 2811 | 2 | 
 | 2021-08-01 | 第7回韓国女子囲碁リーグ |  | Kang Dajeong | Win | W+R | 6.5 | 2809 | 30 | 
 | 2021-07-22 | 第7回韓国女子囲碁リーグ | Kang Dajeong |  | Win | B+R | 6.5 | 2779 | -5 | 
-| 2021-07-11 | 第7回韓国女子囲碁リーグ | Lee Minjin | Kang Dajeong | Lose | B+0.5 | 6.5 | 2784 | 16 | 
-| 2021-07-11 | 第7回韓国女子囲碁リーグ | Lee Minjin | Kang Dajeong | Lose | B+0.5 | 6.5 | 2768 | -6 | 
+| 2021-07-11 | 第7回韓国女子囲碁リーグ | Lee Minjin | Kang Dajeong | Lose | B+0.5 | 6.5 | 2784 | 10 | 
 | 2021-07-04 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Oh Yujin | Win | B+R | 6.5 | 2774 | 53 | 
 | 2021-06-26 | 第7回韓国女子囲碁リーグ | Kang Dajeong |  | Win | B+R | 6.5 | 2721 | 16 | 
 | 2021-06-18 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Cho Hyeyeon | Lose | W+0.5 | 6.5 | 2705 | 6 | 

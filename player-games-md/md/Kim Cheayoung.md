@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-17 | 2021女子最高棋士決定戦（韓国）リーグ | Kim Eunseon | Kim Cheayoung | Win | W+R | 6.5 | 2835 | -70 | 
 | 2021-08-27 | 2021女子最高棋士決定戦（韓国）リーグ | Oh Yujin | Kim Cheayoung | Lose | B+R | 6.5 | 2905 | -32 | 
 | 2021-08-26 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Park Jiyeon | Lose | W+2.5 | 6.5 | 2937 | 2937 | 
 | 2021-08-20 | 第26回三星火災杯韓国予選 | Kim Cheayoung | Park Jiyeon | Lose | W+R | 6.5 | missing | -2901 | 
@@ -14,7 +15,7 @@
 | 2021-08-10 | 第26期女流国手戦1回戦 |  | Kim Cheayoung | Win | W+R | 6.5 | 2958 | 42 | 
 | 2021-08-07 | 第7回韓国女子囲碁リーグ | Choi Jeong | Kim Cheayoung | Lose | B+R | 6.5 | 2916 | -18 | 
 | 2021-07-30 | 第7回韓国女子囲碁リーグ | Kim Hyeoimin | Kim Cheayoung | Lose | B+R | 6.5 | 2934 | -6 | 
-| 2021-07-23 | 第7回韓国女子囲碁リーグ | Kim Cheayoung |  | Lose | W+R | 6.5 | 2940 | -1 | 
+| 2021-07-23 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Cho Seungah | Lose | W+R | 6.5 | 2940 | -1 | 
 | 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Kim Cheayoung | Nakamura Sumire | Lose | W+¼ | 7.5 | 2941 | -45 | 
 | 2021-07-15 | 第7回韓国女子囲碁リーグ | Kim Cheayoung |  | Lose | W+R | 6.5 | 2986 | -14 | 
 | 2021-07-13 | 2021陜川歴代英才vs女子頂上連勝対抗戦第6局 | Kim Cheayoung | Moon Minjong | Lose | W+R | 6.5 | 3000 | -11 | 
@@ -36,7 +37,7 @@
 | 2021-01-09 | 第4期韓国製紙女子棋聖戦特別対局 | Kim Cheayoung | Kim Hyeoimin | Win | B+2.5 | 6.5 | 3274 | 7 | 
 | 2021-01-05 | 第4回クラウン・ヘテ杯1回戦 | Wen Rubin | Kim Cheayoung | Lose | B+R | 6.5 | 3267 | 13 | 
 | 2020-12-17 | 2020年台湾新鋭隊vs韓国国家隊交流戦第4戦 | Kim Cheayoung | Yu Lijun | Lose | W+R | 6.5 | 3254 | 0 | 
-| 2020-12-17 | 2020年台湾新鋭隊vs韓国国家隊交流戦第3戦 |  | Kim Cheayoung | Win | W+R | 6.5 | 3254 | -59 | 
+| 2020-12-17 | 2020年台湾新鋭隊vs韓国国家隊交流戦第3戦 | Yang Zixuan | Kim Cheayoung | Win | W+R | 6.5 | 3254 | -59 | 
 | 2020-12-15 | 第4期韓国製紙女子棋聖戦決勝三番勝負第2局 | Kim Cheayoung | Choi Jeong | Lose | W+R | 6.5 | 3313 | -9 | 
 | 2020-12-14 | 第4期韓国製紙女子棋聖戦決勝三番勝負第1局 | Choi Jeong | Kim Cheayoung | Lose | B+R | 6.5 | 3322 | -20 | 
 | 2020-12-07 | 第4期韓国製紙女子棋聖戦準決勝 | Kim Cheayoung | Cho Hyeyeon | Win | B+0.5 | 6.5 | 3342 | 12 | 
@@ -44,7 +45,7 @@
 | 2020-11-24 | 第4期韓国製紙女子棋聖戦2回戦 | Kim Cheayoung | Kim Miri | Win | B+R | 6.5 | 3320 | 9 | 
 | 2020-11-23 | 第8回中国女子囲碁甲級リーグ | Lu Minquan | Kim Cheayoung | Lose | B+R | 7.5 | 3311 | -18 | 
 | 2020-11-21 | 第8回中国女子囲碁甲級リーグ | Kim Cheayoung | Chen Yiming | Lose | W+1¼ | 7.5 | 3329 | -4 | 
-| 2020-11-20 | 第8回中国女子囲碁甲級リーグ | Kim Cheayoung |  | Win | B+¾ | 7.5 | 3333 | 79 | 
+| 2020-11-20 | 第8回中国女子囲碁甲級リーグ | Kim Cheayoung | Cho Seungah | Win | B+¾ | 7.5 | 3333 | 79 | 
 | 2020-11-16 | 第4期韓国製紙女子棋聖戦1回戦 | Kim Eunseon | Kim Cheayoung | Win | W+R | 6.5 | 3254 | -10 | 
 | 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦 | Kim Cheayoung | Yang Dingxin | Lose | W+R | 6.5 | 3264 | 20 | 
 | 2020-09-28 | 第3回呉清源杯世界女子囲碁選手権2回戦 | Kim Cheayoung | Zhou Hongyu | Lose | W+¼ | 7.5 | 3244 | 56 | 
@@ -94,7 +95,7 @@
 | 2019-08-15 | 第5回韓国女子囲碁リーグ第13節第4試合第2局 | Kim Cheayoung | Wang Chenxing | Win | B+R | 6.5 | 2749 | -65 | 
 | 2019-08-08 | 第5回韓国女子囲碁リーグ第12節第4試合第2局 | Kim Miri | Kim Cheayoung | Win | W+R | 6.5 | 2814 | 16 | 
 | 2019-07-31 | 第5回韓国女子囲碁リーグ第11節第3試合第1局 | Kim Cheayoung | Kang Dajeong | Win | B+4.5 | 6.5 | 2798 | -43 | 
-| 2019-07-22 | 第5回韓国女子囲碁リーグ第10節第1試合第2局 | Kim Cheayoung |  | Win | B+R | 6.5 | 2841 | 10 | 
+| 2019-07-22 | 第5回韓国女子囲碁リーグ第10節第1試合第2局 | Kim Cheayoung | Cho Seungah | Win | B+R | 6.5 | 2841 | 10 | 
 | 2019-07-19 | 第7回中国女子囲碁甲級リーグ第7節 | Kim Cheayoung |  | Win | B+R | 7.5 | 2831 | 56 | 
 | 2019-07-18 | 第5回韓国女子囲碁リーグ第9節第4試合第1局 | Fujisawa Rina | Kim Cheayoung | Lose | B+R | 6.5 | 2775 | -41 | 
 | 2019-07-09 | 第5回韓国女子囲碁リーグ第8節第2試合第1局 | Lee Minjin | Kim Cheayoung | Win | W+2.5 | 6.5 | 2816 | 8 | 
@@ -110,7 +111,7 @@
 | 2019-05-18 | 2019年陜川歴代英才vs女性頂上連勝対抗戦第3局 | Kim Cheayoung | Park Joonhoon | Win | B+R | 6.5 | 2731 | 36 | 
 | 2019-05-17 | 第5回韓国女子囲碁リーグ第2節第1試合第2局 | Kim Cheayoung |  | Win | B+R | 6.5 | 2695 | -2 | 
 | 2019-05-12 | 第8回天台山体彩杯世界女子囲碁団体戦第3戦 | Ueno Asami | Kim Cheayoung | Win | W+R | 7.5 | 2697 | 31 | 
-| 2019-05-11 | 第8回天台山体彩杯世界女子囲碁団体戦第2戦 | Kim Cheayoung |  | Win | B+R | 7.5 | 2666 | -8 | 
+| 2019-05-11 | 第8回天台山体彩杯世界女子囲碁団体戦第2戦 | Kim Cheayoung | Yang Zixuan | Win | B+R | 7.5 | 2666 | -8 | 
 | 2019-05-10 | 第8回天台山体彩杯世界女子囲碁団体戦第1戦 | Lu Minquan | Kim Cheayoung | Win | W+R | 7.5 | 2674 | -8 | 
 | 2019-05-08 | 第5回韓国女子囲碁リーグ第1節第3試合第2局 |  | Kim Cheayoung | Lose | B+R | 6.5 | 2682 | -62 | 
 | 2019-04-28 | 第2回呉清源杯世界女子囲碁選手権16強戦 | Li He | Kim Cheayoung | Lose | B+R | 7.5 | 2744 | -107 | 
@@ -132,7 +133,7 @@
 | 2018-07-13 | 第20回農心杯韓国選抜戦 | Kim Cheayoung | Song Taekon | Lose | W+R | 6.5 | 2880 | -117 | 
 | 2018-05-21 | 第4回韓国女子囲碁リーグプレーオフ | Kim Cheayoung |  | Lose | W+R | 6.5 | 2997 | 12 | 
 | 2018-05-17 | 第4回韓国女子囲碁リーグ第18節 | Wang Chenxing | Kim Cheayoung | Lose | B+R | 6.5 | 2985 | -10 | 
-| 2018-05-15 | 第4回韓国女子囲碁リーグ第17節 | Kim Cheayoung |  | Win | B+R | 6.5 | 2995 | -22 | 
+| 2018-05-15 | 第4回韓国女子囲碁リーグ第17節 | Kim Cheayoung | Cho Seungah | Win | B+R | 6.5 | 2995 | -22 | 
 | 2018-05-12 | 第7回天台山森然楊帆杯世界女子囲碁団体選手権第3戦 | Zhang Kaixin | Kim Cheayoung | Win | W+R | 7.5 | 3017 | 16 | 
 | 2018-05-11 | 第7回天台山森然楊帆杯世界女子囲碁団体選手権第2戦 | Kim Cheayoung | Ueno Asami | Win | B+R | 7.5 | 3001 | 7 | 
 | 2018-05-10 | 第7回天台山森然楊帆杯世界女子囲碁団体選手権第1戦 | Li He | Kim Cheayoung | Win | W+¼ | 7.5 | 2994 | -22 | 
@@ -146,7 +147,7 @@
 | 2018-04-19 | 第4回韓国女子囲碁リーグ第12節 | Kim Cheayoung | Park Shiun | Win | B+R | 6.5 | 3001 | -10 | 
 | 2018-04-12 | 第4回韓国女子囲碁リーグ第10節 | Pan Yang | Kim Cheayoung | Win | W+R | 6.5 | 3011 | -21 | 
 | 2018-04-08 | 第4回韓国女子囲碁リーグ第9節 | Kim Cheayoung | Park Taehee | Win | B+R | 6.5 | 3032 | 2 | 
-| 2018-03-31 | 第4回韓国女子囲碁リーグ第8節 | Kim Cheayoung |  | Win | B+R | 6.5 | 3030 | -30 | 
+| 2018-03-31 | 第4回韓国女子囲碁リーグ第8節 | Kim Cheayoung | Cho Seungah | Win | B+R | 6.5 | 3030 | -30 | 
 | 2018-03-28 | 第4回韓国女子囲碁リーグ第7節 |  | Kim Cheayoung | Win | W+R | 6.5 | 3060 | 0 | 
 | 2018-03-27 | 第7回天台山農商銀行杯韓国代表選抜戦決勝 | Kim Dayoung | Kim Cheayoung | Win | W+R | 6.5 | 3060 | -27 | 
 | 2018-03-26 | 第7回天台山農商銀行杯韓国代表選抜戦準決勝 | Cho Hyeyeon | Kim Cheayoung | Win | W+R | 6.5 | 3087 | 10 | 
@@ -167,7 +168,7 @@
 | 2017-12-21 | 第22期女流国手戦8強戦 | Oh Yujin | Kim Cheayoung | Win | W+R | 6.5 | 3066 | 38 | 
 | 2017-12-10 | 第1回クラウン・ヘテ杯1回戦 | Park Geunho | Kim Cheayoung | Lose | B+R | 6.5 | 3028 | -3 | 
 | 2017-11-22 | 第22期女流国手戦1回戦 | Kang Dajeong | Kim Cheayoung | Win | W+R | 6.5 | 3031 | 12 | 
-| 2017-11-06 | 第1期韓国製紙女子棋聖戦8強戦 |  | Kim Cheayoung | Lose | B+2.5 | 6.5 | 3019 | -41 | 
+| 2017-11-06 | 第1期韓国製紙女子棋聖戦8強戦 | Cho Seungah | Kim Cheayoung | Lose | B+2.5 | 6.5 | 3019 | -41 | 
 | 2017-10-29 | 第5回中国女子囲碁甲級リーグ第12節 | Kim Cheayoung | Pan Yang | Lose | W+R | 7.5 | 3060 | -33 | 
 | 2017-10-27 | 第5回中国女子囲碁甲級リーグ第11節 | Lu Minquan | Kim Cheayoung | Win | W+R | 7.5 | 3093 | 9 | 
 | 2017-10-25 | 第5回中国女子囲碁甲級リーグ第10節 | Kim Cheayoung | Park Taehee | Win | B+R | 7.5 | 3084 | 15 | 
@@ -199,7 +200,7 @@
 | 2017-03-21 | 3期韓国女子連戦7回戦浦項-京畿湖畔 | Kim Yoonyoung | Kim Cheayoung | Win | W+R | 6.5 | 2643 | 22 | 
 | 2017-03-18 | 3期韓国女子連戦6回戦浦項-麗水 | Lee Sula | Kim Cheayoung | Win | W+R | 6.5 | 2621 | -58 | 
 | 2017-03-10 | 3期韓国女子連戦5回戦浦項-麟蹄 | Lee Youngjoo | Kim Cheayoung | Win | W+R | 6.5 | 2679 | 25 | 
-| 2017-03-07 | 3期韓国女子連戦4回戦浦項-西帰浦 | Kim Cheayoung |  | Lose | W+R | 6.5 | 2654 | 9 | 
+| 2017-03-07 | 3期韓国女子連戦4回戦浦項-西帰浦 | Kim Cheayoung | Cho Seungah | Lose | W+R | 6.5 | 2654 | 9 | 
 | 2017-03-05 | 3期韓国女子連戦3回戦浦項-京畿SG | Park Shiun | Kim Cheayoung | Lose | B+R | 6.5 | 2645 | -15 | 
 | 2017-02-25 | 3期韓国女子連戦2回戦浦項-扶安 | Kim Cheayoung | Kim Hyeoimin | Win | B+R | 6.5 | 2660 | 54 | 
 | 2017-02-16 | 3期韓国女子連戦1回戦首尓-浦項 | Moon Dowon | Kim Cheayoung | Win | W+R | 6.5 | 2606 | -27 | 
@@ -207,7 +208,7 @@
 | 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦決勝 | Kim Cheayoung | Chen Yiming | Lose | W+1.5 | 6.5 | 2633 | -6 | 
 | 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Kim Cheayoung | Chen Yiming | Lose | W+R | 6.5 | 2639 | 0 | 
 | 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Su Shengfang | Kim Cheayoung | Win | W+R | 6.5 | 2639 | -24 | 
-| 2016-09-25 | 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 |  | Kim Cheayoung | Win | W+R | 6.5 | 2663 | -15 | 
+| 2016-09-25 | 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Yang Zixuan | Kim Cheayoung | Win | W+R | 6.5 | 2663 | -15 | 
 | 2016-09-24 | 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Song Ronghui | Kim Cheayoung | Win | W+1.5 | 6.5 | 2678 | 13 | 
 | 2016-09-23 | 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Kim Cheayoung | Ueno Asami | Win | B+R | 6.5 | 2665 | -79 | 
 | 2016-09-21 | 第21期女流国手戦8強戦 | Kim Cheayoung | Choi Jeong | Lose | W+R | 6.5 | 2744 | -33 | 

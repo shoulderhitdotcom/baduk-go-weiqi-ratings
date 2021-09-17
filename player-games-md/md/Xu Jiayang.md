@@ -7,9 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-17 | 第12期中国竜星戦Bブロック7回戦 | Huang Yunsong | Xu Jiayang | Lose | B+¾ | 7.5 | 3575 | 12 | 
 | 2021-08-27 | 第26回三星火災杯中国予選 | Lian Xiao | Xu Jiayang | Lose | B+R | 6.5 | 3563 | 20 | 
-| 2021-08-13 | 第26回三星火災杯中国予選 | Chen Zijian | Xu Jiayang | Win | W+R | 6.5 | 3543 | -1 | 
-| 2021-08-13 | 第26回三星火災杯中国予選 | Chen Zijian | Xu Jiayang | Win | W+R | 6.5 | 3544 | 30 | 
+| 2021-08-13 | 第26回三星火災杯中国予選 | Chen Zijian | Xu Jiayang | Win | W+R | 6.5 | 3543 | 29 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Xu Jiayang | Yang Kaiwen | Lose | W+R | 7.5 | 3514 | -13 | 
 | 2021-07-28 | 第23回農心杯中国予選 | Xu Jiayang | Fan Tingyu | Lose | W+R | 6.5 | 3527 | -26 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Wang Zejin | Xu Jiayang | Win | W+R | 7.5 | 3553 | 5 | 
@@ -54,7 +54,7 @@
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Xu Jiayang | Jiang Qirun | Win | B+¾ | 7.5 | 3655 | 21 | 
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Xie He | Xu Jiayang | Win | W+R | 7.5 | 3634 | -5 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Xu Jiayang | Chen Zhengxun | Win | B+R | 7.5 | 3639 | 4 | 
-| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 |  | Xu Jiayang | Win | W+R | 7.5 | 3635 | -43 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Ma Yichao | Xu Jiayang | Win | W+R | 7.5 | 3635 | -43 | 
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Xu Jiayang | Ding Shixiong | Win | B+R | 7.5 | 3678 | 206 | 
 | 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Xu Jiayang | Shin Jinseo | Lose | W+R | 7.5 | 3472 | 6 | 
 | 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Kim Jiseok | Xu Jiayang | Win | W+R | 7.5 | 3466 | 81 | 

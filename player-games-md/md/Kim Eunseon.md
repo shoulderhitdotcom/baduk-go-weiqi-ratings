@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-17 | 2021女子最高棋士決定戦（韓国）リーグ | Kim Eunseon | Kim Cheayoung | Lose | W+R | 6.5 | 2767 | -35 | 
 | 2021-09-04 | 2021女子最高棋士決定戦（韓国）リーグ | Kim Eunseon | Lee Minjin | Win | B+R | 6.5 | 2802 | -25 | 
 | 2021-08-15 | 第7回韓国女子囲碁リーグ | Kim Eunseon |  | Lose | W+R | 6.5 | 2827 | -6 | 
 | 2021-08-07 | 第7回韓国女子囲碁リーグ | Kim Eunseon |  | Win | B+R | 6.5 | 2833 | 40 | 
@@ -20,7 +21,7 @@
 | 2021-07-01 | 第7回韓国女子囲碁リーグ |  | Kim Eunseon | Win | W+R | 6.5 | 2853 | 47 | 
 | 2021-06-24 | 第7回韓国女子囲碁リーグ |  | Kim Eunseon | Win | W+R | 6.5 | 2806 | 92 | 
 | 2021-06-12 | 第7回韓国女子囲碁リーグ | Kim Eunseon | Kim Hyeoimin | Lose | W+R | 6.5 | 2714 | -68 | 
-| 2021-06-05 | 第7回韓国女子囲碁リーグ |  | Kim Eunseon | Lose | B+R | 6.5 | 2782 | -2 | 
+| 2021-06-05 | 第7回韓国女子囲碁リーグ | Cho Seungah | Kim Eunseon | Lose | B+R | 6.5 | 2782 | -2 | 
 | 2021-05-30 | 第7回韓国女子囲碁リーグ | Kim Eunseon |  | Win | B+0.5 | 6.5 | 2784 | -9 | 
 | 2021-05-21 | 第7回韓国女子囲碁リーグ | Kim Eunseon |  | Win | B+R | 6.5 | 2793 | -145 | 
 | 2021-02-10 | 第4期韓国竜星戦1回戦 | Kim Eunseon | Choi Cheolhan | Lose | W+R | 6.5 | 2938 | 121 | 
@@ -68,12 +69,12 @@
 | 2017-07-17 | 第11回GGオークション杯女流対シニア連勝対抗戦第3戦 | Kim Eunseon | No Yeongha | Win | B+R | 6.5 | 2846 | 90 | 
 | 2017-05-07 | 3期韓国女子連戦14回戦仁済-扶安 | Oh Yujin | Kim Eunseon | Lose | B+R | 6.5 | 2756 | -45 | 
 | 2017-04-27 | 3期韓国女子連戦13回戦京畿湖畔-扶安 | Park Jiyeon | Kim Eunseon | Win | W+R | 6.5 | 2801 | 17 | 
-| 2017-04-25 | 3期韓国女子連戦12回戦扶安-西帰浦 | Kim Eunseon |  | Win | B+0.5 | 6.5 | 2784 | 66 | 
+| 2017-04-25 | 3期韓国女子連戦12回戦扶安-西帰浦 | Kim Eunseon | Cho Seungah | Win | B+0.5 | 6.5 | 2784 | 66 | 
 | 2017-04-13 | 3期韓国女子連戦11回戦首尓-扶安 | Kim Eunseon | Kim Miri | Win | B+R | 6.5 | 2718 | 7 | 
 | 2017-04-11 | 3期韓国女子連戦10回戦扶安-麗水 | Kim Eunseon | Lee Minjin | Win | B+R | 6.5 | 2711 | 56 | 
 | 2017-04-07 | 3期韓国女子連戦9回戦浦項-扶安 | Li He | Kim Eunseon | Win | W+3.5 | 6.5 | 2655 | 261 | 
 | 2017-03-19 | 3期韓国女子連戦6回戦京畿湖畔-扶安 | Kim Eunseon | Kim Yoonyoung | Lose | W+R | 6.5 | 2394 | -67 | 
-| 2017-03-12 | 3期韓国女子連戦5回戦扶安-西帰浦 |  | Kim Eunseon | Lose | B+R | 6.5 | 2461 | -44 | 
+| 2017-03-12 | 3期韓国女子連戦5回戦扶安-西帰浦 | Cho Seungah | Kim Eunseon | Lose | B+R | 6.5 | 2461 | -44 | 
 | 2017-03-07 | 3期韓国女子連戦4回戦首尓-扶安 | Moon Dowon | Kim Eunseon | Win | W+3.5 | 6.5 | 2505 | 85 | 
 | 2017-03-03 | 3期韓国女子連戦3回戦扶安-麗水 | Kim Dayoung | Kim Eunseon | Lose | B+R | 6.5 | 2420 | -35 | 
 | 2017-02-25 | 3期韓国女子連戦2回戦浦項-扶安 | Kim Eunseon | Li He | Win | B+2.5 | 6.5 | 2455 | 8 | 

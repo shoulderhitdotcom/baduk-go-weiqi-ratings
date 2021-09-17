@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-17 | 第12期中国竜星戦Aブロック7回戦 | Jiang Zhujiu | Liao Yuanhe | Lose | W+R | 7.5 | 3186 | -66 | 
 | 2021-09-03 | 第12期中国竜星戦予選 | Wang Lei (b) | Jiang Zhujiu | Win | W+8¼ | 7.5 | 3252 | 3252 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Jiang Zhujiu |  | Win | B+R | 7.5 | missing | 0 | 
 | 2021-04-07 | 第17回倡棋杯中国プロ囲碁選手権戦予選 | Ding Shixiong | Jiang Zhujiu | Lose | B+R | 7.5 | missing | 0 | 

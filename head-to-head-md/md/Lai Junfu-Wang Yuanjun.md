@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lai Junfu vs Wang Yuanjun** | **Lai Junfu streak** | **Wang Yuanjun streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-09-14 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第1局 | Wang Yuanjun | Lai Junfu | B+1.5 | 6.5 | 0:1 | 0 | 1 | 
+| 2021-09-17 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第2局 | Lai Junfu | Wang Yuanjun | W+R | 6.5 | 0:1 | 0 | 1 | 
+| 2021-09-14 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第1局 | Wang Yuanjun | Lai Junfu | B+1.5 | 6.5 | 6:9 | 0 | 2 | 
 | 2021-09-08 | 第26回三星火災杯台湾予選 | Lai Junfu | Wang Yuanjun | W+R | 6.5 | 6:8 | 0 | 1 | 
 | 2020-11-06 | 第1期聯電杯プロ囲碁戦決勝七番勝負第6局 | Lai Junfu | Wang Yuanjun | B+R | 6.5 | 6:7 | 4 | 0 | 
 | 2020-10-23 | 第1期聯電杯プロ囲碁戦決勝七番勝負第5局 | Wang Yuanjun | Lai Junfu | W+R | 6.5 | 5:7 | 3 | 0 | 

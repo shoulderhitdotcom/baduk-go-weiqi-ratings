@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kang Dajeong vs Oh Yujin** | **Kang Dajeong streak** | **Oh Yujin streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-26 | 第7回韓国女子囲碁リーグ | Oh Yujin | Kang Dajeong | B+R | 6.5 | 3:5 | 0 | 1 | 
 | 2021-07-04 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Oh Yujin | B+R | 6.5 | 3:4 | 1 | 0 | 
 | 2020-09-02 | 第25回三星火災杯韓国女子枠予選 | Oh Yujin | Kang Dajeong | B+R | 6.5 | 2:4 | 0 | 2 | 
 | 2017-04-25 | 3期韓国女子連戦12回戦浦項-麟蹄 | Oh Yujin | Kang Dajeong | B+R | 6.5 | 2:3 | 0 | 1 | 

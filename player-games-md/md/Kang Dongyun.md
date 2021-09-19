@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-18 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Dongyun | Shin Minjun | Lose | W+R | 6.5 | 3459 | 0 | 
 | 2021-08-29 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Dongyun | Kang Seungmin | Lose | W+R | 6.5 | 3459 | 15 | 
 | 2021-06-27 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Kang Dongyun | Choi Jeong | Win | B+R | 6.5 | 3444 | 1 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Kang Dongyun | Yang Dingxin | Lose | W+R | 7.5 | 3443 | -10 | 
@@ -52,7 +53,7 @@
 | 2021-01-14 | 2020-2021韓国囲碁リーグ | Na Hyun | Kang Dongyun | Win | W+R | 6.5 | 3723 | 1 | 
 | 2021-01-09 | 2020-2021韓国囲碁リーグ | Weon Seongjin | Kang Dongyun | Lose | B+R | 6.5 | 3722 | -6 | 
 | 2021-01-02 | 2020-2021韓国囲碁リーグ | Kang Dongyun | Lee Changseok | Lose | W+R | 6.5 | 3728 | -9 | 
-| 2020-12-28 | 第2期ソパルコサノル最高棋士決定戦予選 | Chao Xiangzhao | Kang Dongyun | Win | W+R | 6.5 | 3737 | 9 | 
+| 2020-12-28 | 第2期ソパルコサノル最高棋士決定戦予選 |  | Kang Dongyun | Win | W+R | 6.5 | 3737 | 9 | 
 | 2020-12-26 | 2020-2021韓国囲碁リーグ | Kang Dongyun | Seol Hyunjun | Lose | W+R | 6.5 | 3728 | 18 | 
 | 2020-12-19 | 2020-2021韓国囲碁リーグ | Kang Dongyun | Paek Hongseok | Win | B+R | 6.5 | 3710 | -23 | 
 | 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Li Xuanhao | Lose | W+R | 7.5 | 3733 | -20 | 
@@ -69,7 +70,7 @@
 | 2020-11-09 | 第25回LG杯朝鮮日報棋王戦3回戦 | Byun Sangil | Kang Dongyun | Lose | B+R | 6.5 | 3672 | -11 | 
 | 2020-10-20 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Geunho | Kang Dongyun | Win | W+R | 6.5 | 3683 | -11 | 
 | 2020-10-16 | 第22回農心辛ラーメン杯世界囲碁最強戦第4戦 | Kang Dongyun | Gu Zihao | Lose | W+R | 6.5 | 3694 | -13 | 
-| 2020-10-05 | 第2期ソパルコサノル最高棋士決定戦予選 | Chao Xiangzhao | Kang Dongyun | Lose | B+0.5 | 6.5 | 3707 | -17 | 
+| 2020-10-05 | 第2期ソパルコサノル最高棋士決定戦予選 |  | Kang Dongyun | Lose | B+0.5 | 6.5 | 3707 | -17 | 
 | 2020-09-29 | 第22回農心杯韓国選抜戦 | Kang Dongyun | Park Junghwan | Lose | W+0.5 | 6.5 | 3724 | -11 | 
 | 2020-09-28 | 第22回農心杯韓国選抜戦 | Kang Dongyun | Wen Rubin | Win | B+R | 6.5 | 3735 | 75 | 
 | 2020-09-21 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Seunghwa | Kang Dongyun | Win | W+R | 6.5 | 3660 | 3 | 

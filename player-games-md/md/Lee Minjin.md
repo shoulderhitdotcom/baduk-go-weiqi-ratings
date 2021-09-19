@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-18 | 第7回韓国女子囲碁リーグプレーオフ第2戦 |  | Lee Minjin | Win | W+R | 6.5 | 2972 | -21 | 
 | 2021-09-04 | 2021女子最高棋士決定戦（韓国）リーグ | Kim Eunseon | Lee Minjin | Lose | B+R | 6.5 | 2993 | -44 | 
 | 2021-08-26 | 第7回韓国女子囲碁リーグ | Lee Minjin |  | Win | B+R | 6.5 | 3037 | -7 | 
 | 2021-08-24 | 第26回三星火災杯韓国予選 | Choi Jeong | Lee Minjin | Lose | B+0.5 | 6.5 | 3044 | 77 | 
@@ -16,8 +17,7 @@
 | 2021-07-29 | 第7回韓国女子囲碁リーグ |  | Lee Minjin | Win | W+R | 6.5 | 2878 | -35 | 
 | 2021-07-23 | 第7回韓国女子囲碁リーグ | Cho Hyeyeon | Lee Minjin | Lose | B+R | 6.5 | 2913 | 2 | 
 | 2021-07-17 | 第7回韓国女子囲碁リーグ | Lee Minjin | Park Taehee | Win | B+8.5 | 6.5 | 2911 | 15 | 
-| 2021-07-11 | 第7回韓国女子囲碁リーグ | Lee Minjin | Kang Dajeong | Win | B+0.5 | 6.5 | 2896 | -18 | 
-| 2021-07-11 | 第7回韓国女子囲碁リーグ | Lee Minjin | Kang Dajeong | Win | B+0.5 | 6.5 | 2914 | 41 | 
+| 2021-07-11 | 第7回韓国女子囲碁リーグ | Lee Minjin | Kang Dajeong | Win | B+0.5 | 6.5 | 2896 | 23 | 
 | 2021-07-03 | 第7回韓国女子囲碁リーグ | Lee Minjin | Lee Youngjoo | Lose | W+3.5 | 6.5 | 2873 | -18 | 
 | 2021-06-25 | 第7回韓国女子囲碁リーグ | Lee Minjin | Kim Dayoung | Lose | W+9.5 | 6.5 | 2891 | -23 | 
 | 2021-06-17 | 第7回韓国女子囲碁リーグ |  | Lee Minjin | Win | W+4.5 | 6.5 | 2914 | 18 | 
@@ -60,11 +60,11 @@
 | 2019-05-28 | 第5回韓国女子囲碁リーグ第3節第2試合第2局 | Lee Minjin | Oh Yujin | Lose | W+R | 6.5 | 2274 | 9 | 
 | 2019-05-15 | 第5回韓国女子囲碁リーグ第2節第3試合第1局 | Lee Minjin | Oh Jeonga | Lose | W+2.5 | 6.5 | 2265 | -51 | 
 | 2019-05-08 | 第5回韓国女子囲碁リーグ第1節第3試合第1局 | Rui Naiwei | Lee Minjin | Win | W+R | 6.5 | 2316 | -119 | 
-| 2018-10-01 | 第2期韓国製紙女子棋聖戦16強 |  | Lee Minjin | Lose | B+R | 6.5 | 2435 | -31 | 
-| 2018-07-20 | 第23期女流国手戦16強戦 |  | Lee Minjin | Lose | B+14.5 | 6.5 | 2466 | -53 | 
+| 2018-10-01 | 第2期韓国製紙女子棋聖戦16強 | Cho Seungah | Lee Minjin | Lose | B+R | 6.5 | 2435 | -31 | 
+| 2018-07-20 | 第23期女流国手戦16強戦 | Cho Seungah | Lee Minjin | Lose | B+14.5 | 6.5 | 2466 | -53 | 
 | 2018-06-02 | 第4回韓国女子囲碁リーグ優勝決定戦第2戦 |  | Lee Minjin | Lose | B+5.5 | 6.5 | 2519 | -30 | 
 | 2018-06-01 | 第4回韓国女子囲碁リーグ優勝決定戦第1戦 | Kim Sinyoung | Lee Minjin | Lose | B+8.5 | 6.5 | 2549 | -104 | 
-| 2018-05-19 | 第4回韓国女子囲碁リーグ第18節 | Lee Minjin |  | Lose | W+4.5 | 6.5 | 2653 | -29 | 
+| 2018-05-19 | 第4回韓国女子囲碁リーグ第18節 | Lee Minjin | Cho Seungah | Lose | W+4.5 | 6.5 | 2653 | -29 | 
 | 2018-05-15 | 第4回韓国女子囲碁リーグ第17節 | Wang Chenxing | Lee Minjin | Lose | B+8.5 | 6.5 | 2682 | -52 | 
 | 2018-05-08 | 第4回韓国女子囲碁リーグ第16節 | Choi Jeong | Lee Minjin | Lose | B+R | 6.5 | 2734 | 12 | 
 | 2018-04-25 | 第4回韓国女子囲碁リーグ第14節 | Lee Minjin | Kim Cheayoung | Lose | W+R | 6.5 | 2722 | 1 | 
@@ -98,7 +98,7 @@
 | 2017-03-07 | 3期韓国女子連戦4回戦麟蹄-麗水 | Lee Youngjoo | Lee Minjin | Win | W+R | 6.5 | 2422 | 59 | 
 | 2017-03-03 | 3期韓国女子連戦3回戦扶安-麗水 | Kim Hyeoimin | Lee Minjin | Lose | B+3.5 | 6.5 | 2363 | -13 | 
 | 2017-02-23 | 3期韓国女子連戦2回戦京畿SG-麗水 | Lee Minjin | Rui Naiwei | Win | B+10.5 | 6.5 | 2376 | 85 | 
-| 2017-02-19 | 3期韓国女子連戦1回戦西帰浦-麗水 | Lee Minjin |  | Lose | W+0.5 | 6.5 | 2291 | -76 | 
+| 2017-02-19 | 3期韓国女子連戦1回戦西帰浦-麗水 | Lee Minjin | Cho Seungah | Lose | W+0.5 | 6.5 | 2291 | -76 | 
 | 2016-10-12 | 韓国花様囲棋女王戦リーグ戦5回戦 | Moon Dowon | Lee Minjin | Lose | B+R | 6.5 | 2367 | -11 | 
 | 2016-10-11 | 韓国花様囲棋女王戦リーグ戦4R | Kim Hyeoimin | Lee Minjin | Lose | B+R | 6.5 | 2378 | -21 | 
 | 2016-10-10 | 韓国花様囲棋女王戦リーグ戦3R | Lee Minjin | Kim Yoonyoung | Lose | W+R | 6.5 | 2399 | -14 | 
@@ -141,22 +141,14 @@
 | 2012-07-10 | 第6回GGオークション杯女流対シニア連勝対抗戦第4戦 | Kim Chongsu | Lee Minjin | Win | W+7.5 | 6.5 | missing | 0 | 
 | 2012-07-09 | 第6回GGオークション杯女流対シニア連勝対抗戦第3戦 | Lee Minjin | Kang Hun | Win | B+R | 6.5 | missing | 0 | 
 | 2012-07-03 | 第6回GGオークション杯女流対シニア連勝対抗戦第2戦 | Kwon Kapyong | Lee Minjin | Win | W+R | 6.5 | missing | -2768 | 
-| 2011-09-27 | 第17期女流国手戦2回戦 | Kim Miri | Lee Minjin | Lose | B+5.5 | 6.5 | 2768 | 297 | 
-| 2011-09-27 | 第17期女流国手戦2回戦 | Kim Miri | Lee Minjin | Lose | B+5.5 | 6.5 | 2471 | -49 | 
-| 2011-07-14 | 第17期女流国手戦1回戦 | Lee Minjin | Moon Dowon | Win | B+0.5 | 6.5 | 2520 | 115 | 
-| 2011-07-14 | 第17期女流国手戦1回戦 | Lee Minjin | Moon Dowon | Win | B+0.5 | 6.5 | 2405 | -301 | 
-| 2011-04-28 | 第16回LG杯予選 | Liu Xing | Lee Minjin | Lose | B+R | 6.5 | 2706 | 175 | 
-| 2011-04-28 | 第16回LG杯予選 | Liu Xing | Lee Minjin | Lose | B+R | 6.5 | 2531 | -241 | 
-| 2011-03-07 | 第13期女流名人戦（韓国）予選 | Lee Tahye | Lee Minjin | Lose | B+2.5 | 6.5 | 2772 | 210 | 
-| 2011-03-07 | 第13期女流名人戦（韓国）予選 | Lee Tahye | Lee Minjin | Lose | B+2.5 | 6.5 | 2562 | -54 | 
-| 2010-12-02 | 第6期圓益杯十段戦1回戦 | Weon Seongjin | Lee Minjin | Lose | B+R | 6.5 | 2616 | 171 | 
-| 2010-12-02 | 第6期圓益杯十段戦1回戦 | Weon Seongjin | Lee Minjin | Lose | B+R | 6.5 | 2445 | -147 | 
-| 2010-11-26 | 2010年アジア競技大会囲碁女子団体戦 | Rui Naiwei | Lee Minjin | Win | W+2.5 | 7.5 | 2592 | 91 | 
-| 2010-11-26 | 2010年アジア競技大会囲碁女子団体戦 | Rui Naiwei | Lee Minjin | Win | W+2.5 | 7.5 | 2501 | -28 | 
-| 2010-11-25 | 2010年アジア競技大会囲碁女子団体戦 | Xie Yimin | Lee Minjin | Lose | B+R | 7.5 | 2529 | 151 | 
-| 2010-11-25 | 2010年アジア競技大会囲碁女子団体戦 | Xie Yimin | Lee Minjin | Lose | B+R | 7.5 | 2378 | -196 | 
-| 2010-11-23 | 2010年アジア競技大会囲碁女子団体戦 | Suzuki Ayumi | Lee Minjin | Win | W+R | 7.5 | 2574 | 69 | 
-| 2010-11-23 | 2010年アジア競技大会囲碁女子団体戦 | Suzuki Ayumi | Lee Minjin | Win | W+R | 7.5 | 2505 | 88 | 
+| 2011-09-27 | 第17期女流国手戦2回戦 | Kim Miri | Lee Minjin | Lose | B+5.5 | 6.5 | 2768 | 248 | 
+| 2011-07-14 | 第17期女流国手戦1回戦 | Lee Minjin | Moon Dowon | Win | B+0.5 | 6.5 | 2520 | -186 | 
+| 2011-04-28 | 第16回LG杯予選 | Liu Xing | Lee Minjin | Lose | B+R | 6.5 | 2706 | -66 | 
+| 2011-03-07 | 第13期女流名人戦（韓国）予選 | Lee Tahye | Lee Minjin | Lose | B+2.5 | 6.5 | 2772 | 156 | 
+| 2010-12-02 | 第6期圓益杯十段戦1回戦 | Weon Seongjin | Lee Minjin | Lose | B+R | 6.5 | 2616 | 24 | 
+| 2010-11-26 | 2010年アジア競技大会囲碁女子団体戦 | Rui Naiwei | Lee Minjin | Win | W+2.5 | 7.5 | 2592 | 63 | 
+| 2010-11-25 | 2010年アジア競技大会囲碁女子団体戦 | Xie Yimin | Lee Minjin | Lose | B+R | 7.5 | 2529 | -45 | 
+| 2010-11-23 | 2010年アジア競技大会囲碁女子団体戦 | Suzuki Ayumi | Lee Minjin | Win | W+R | 7.5 | 2574 | 157 | 
 | 2010-09-27 | 第12期女流名人戦（韓国）敗者復活戦2回戦 | Lee Minjin | Lee Sula | Lose | W+R | 6.5 | 2417 | 48 | 
 | 2010-09-06 | 第16期女流国手戦1回戦 | Kim Yoonyoung | Lee Minjin | Lose | B+4.5 | 6.5 | 2369 | 2369 | 
 | 2010-08-16 | 第12期女流名人戦（韓国）本戦2回戦 | Park Shiun | Lee Minjin | Lose | B+R | 6.5 | missing | 0 | 
@@ -165,55 +157,31 @@
 | 2010-02-11 | 第15期女流国手戦準決勝 | Rui Naiwei | Lee Minjin | Lose | B+R | 6.5 | 2332 | -39 | 
 | 2009-12-02 | 第15期女流国手戦2回戦 | Lee Minjin |  | Win | B+1.5 | 6.5 | 2371 | -194 | 
 | 2009-11-25 | 第15期女流国手戦1回戦 | Lee Minjin | Yun Jihee | Win | B+R | 6.5 | 2565 | -24 | 
-| 2009-09-01 | 第11期女流名人戦（韓国）敗者復活戦2回戦 | Park Shiun | Lee Minjin | Lose | B+R | 6.5 | 2589 | 246 | 
-| 2009-09-01 | 第11期女流名人戦（韓国）敗者復活戦2回戦 | Park Shiun | Lee Minjin | Lose | B+R | 6.5 | 2343 | -296 | 
-| 2009-06-30 | 第11期女流名人戦（韓国）敗者復活戦1回戦 | Lee Minjin | Kim Eunseon | Win | B+2.5 | 6.5 | 2639 | 394 | 
-| 2009-06-30 | 第11期女流名人戦（韓国）敗者復活戦1回戦 | Lee Minjin | Kim Eunseon | Win | B+2.5 | 6.5 | 2245 | 2245 | 
+| 2009-09-01 | 第11期女流名人戦（韓国）敗者復活戦2回戦 | Park Shiun | Lee Minjin | Lose | B+R | 6.5 | 2589 | -50 | 
+| 2009-06-30 | 第11期女流名人戦（韓国）敗者復活戦1回戦 | Lee Minjin | Kim Eunseon | Win | B+2.5 | 6.5 | 2639 | 2639 | 
 | 2009-06-08 | 第3回GGオークション杯女流対シニア連勝対抗戦第7戦 | An Kwanwuk | Lee Minjin | Lose | B+2.5 | 6.5 | missing | -2690 | 
-| 2009-06-03 | 第11期女流名人戦（韓国）本戦1回戦 | Cho Hyeyeon | Lee Minjin | Lose | B+R | 6.5 | 2690 | 576 | 
-| 2009-06-03 | 第11期女流名人戦（韓国）本戦1回戦 | Cho Hyeyeon | Lee Minjin | Lose | B+R | 6.5 | 2114 | -573 | 
-| 2009-06-02 | 第3回GGオークション杯女流対シニア連勝対抗戦第6戦 | Kim Dongyeop | Lee Minjin | Win | W+R | 6.5 | 2687 | 548 | 
-| 2009-06-02 | 第3回GGオークション杯女流対シニア連勝対抗戦第6戦 | Kim Dongyeop | Lee Minjin | Win | W+R | 6.5 | 2139 | -600 | 
-| 2009-03-09 | 第7回正官庄杯世界女子囲碁最強戦第11戦 | Lee Minjin | Li He | Lose | W+R | 6.5 | 2739 | 436 | 
-| 2009-03-09 | 第7回正官庄杯世界女子囲碁最強戦第11戦 | Lee Minjin | Li He | Lose | W+R | 6.5 | 2303 | -485 | 
-| 2009-01-22 | 第14期女流国手戦準決勝 | Lee Minjin | Lee Hajin | Lose | W+0.5 | 6.5 | 2788 | 346 | 
-| 2009-01-22 | 第14期女流国手戦準決勝 | Lee Minjin | Lee Hajin | Lose | W+0.5 | 6.5 | 2442 | -284 | 
-| 2008-12-12 | 第14期女流国手戦2回戦 | Lee Minjin | Park Jiyeon | Win | B+0.5 | 6.5 | 2726 | 291 | 
-| 2008-12-12 | 第14期女流国手戦2回戦 | Lee Minjin | Park Jiyeon | Win | B+0.5 | 6.5 | 2435 | -151 | 
-| 2008-11-04 | 第14期女流国手戦1回戦 | Lee Sula | Lee Minjin | Win | W+R | 6.5 | 2586 | 346 | 
-| 2008-11-04 | 第14期女流国手戦1回戦 | Lee Sula | Lee Minjin | Win | W+R | 6.5 | 2240 | -918 | 
+| 2009-06-03 | 第11期女流名人戦（韓国）本戦1回戦 | Cho Hyeyeon | Lee Minjin | Lose | B+R | 6.5 | 2690 | 3 | 
+| 2009-06-02 | 第3回GGオークション杯女流対シニア連勝対抗戦第6戦 | Kim Dongyeop | Lee Minjin | Win | W+R | 6.5 | 2687 | -52 | 
+| 2009-03-09 | 第7回正官庄杯世界女子囲碁最強戦第11戦 | Lee Minjin | Li He | Lose | W+R | 6.5 | 2739 | -49 | 
+| 2009-01-22 | 第14期女流国手戦準決勝 | Lee Minjin | Lee Hajin | Lose | W+0.5 | 6.5 | 2788 | 62 | 
+| 2008-12-12 | 第14期女流国手戦2回戦 | Lee Minjin | Park Jiyeon | Win | B+0.5 | 6.5 | 2726 | 140 | 
+| 2008-11-04 | 第14期女流国手戦1回戦 | Lee Sula | Lee Minjin | Win | W+R | 6.5 | 2586 | -572 | 
 | 2008-10-09 | 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦決勝 | Song Ronghui | Lee Minjin | Lose | B+R | 6.5 | 3158 | 0 | 
-| 2008-10-09 | 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Mannami Kana | Lee Minjin | Win | W+R | 6.5 | 3158 | 226 | 
-| 2008-10-09 | 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦決勝 | Song Ronghui | Lee Minjin | Lose | B+R | 6.5 | 2932 | 0 | 
-| 2008-10-09 | 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Mannami Kana | Lee Minjin | Win | W+R | 6.5 | 2932 | -463 | 
-| 2008-10-08 | 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Rui Naiwei | Lee Minjin | Win | W+R | 6.5 | 3395 | 383 | 
-| 2008-10-08 | 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Rui Naiwei | Lee Minjin | Win | W+R | 6.5 | 3012 | -279 | 
-| 2008-10-06 | 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Tsukuda Akiko | Lee Minjin | Win | W+6.5 | 6.5 | 3291 | 343 | 
-| 2008-10-06 | 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Tsukuda Akiko | Lee Minjin | Win | W+6.5 | 6.5 | 2948 | -332 | 
-| 2008-10-02 | 第10期女流名人戦（韓国）敗者復活戦決勝 | Lee Hajin | Lee Minjin | Lose | B+R | 6.5 | 3280 | 343 | 
-| 2008-10-02 | 第10期女流名人戦（韓国）敗者復活戦決勝 | Lee Hajin | Lee Minjin | Lose | B+R | 6.5 | 2937 | -329 | 
-| 2008-09-18 | 第10期女流名人戦（韓国）敗者復活戦2回戦 | Lee Tahye | Lee Minjin | Win | W+R | 6.5 | 3266 | 240 | 
-| 2008-09-18 | 第10期女流名人戦（韓国）敗者復活戦2回戦 | Lee Tahye | Lee Minjin | Win | W+R | 6.5 | 3026 | -35 | 
-| 2008-06-03 | 第10期女流名人戦（韓国）敗者復活戦1回戦 |  | Lee Minjin | Win | W+R | 6.5 | 3061 | 246 | 
-| 2008-06-03 | 第10期女流名人戦（韓国）敗者復活戦1回戦 |  | Lee Minjin | Win | W+R | 6.5 | 2815 | -207 | 
-| 2008-05-29 | 第2回GGオークション杯女流対シニア連勝対抗戦第10戦 | Kim Chongsu | Lee Minjin | Lose | B+R | 6.5 | 3022 | 255 | 
-| 2008-05-29 | 第2回GGオークション杯女流対シニア連勝対抗戦第10戦 | Kim Chongsu | Lee Minjin | Lose | B+R | 6.5 | 2767 | -261 | 
-| 2008-05-28 | 第2回GGオークション杯女流対シニア連勝対抗戦第9戦 |  | Lee Minjin | Win | W+R | 6.5 | 3028 | 257 | 
-| 2008-05-28 | 第2回GGオークション杯女流対シニア連勝対抗戦第9戦 |  | Lee Minjin | Win | W+R | 6.5 | 2771 | -244 | 
-| 2008-05-22 | 第2回GGオークション杯女流対シニア連勝対抗戦第8戦 | Kwon Kapyong | Lee Minjin | Win | W+10.5 | 6.5 | 3015 | 263 | 
-| 2008-05-22 | 第2回GGオークション杯女流対シニア連勝対抗戦第8戦 | Kwon Kapyong | Lee Minjin | Win | W+10.5 | 6.5 | 2752 | -262 | 
-| 2008-05-21 | 第2回GGオークション杯女流対シニア連勝対抗戦第7戦 | Lee Minjin | Park Yeongchan | Win | B+5.5 | 6.5 | 3014 | 264 | 
-| 2008-05-21 | 第2回GGオークション杯女流対シニア連勝対抗戦第7戦 | Lee Minjin | Park Yeongchan | Win | B+5.5 | 6.5 | 2750 | -275 | 
-| 2008-05-16 | 第10期女流名人戦（韓国）本戦1回戦 | Park Jiyeon | Lee Minjin | Lose | B+4.5 | 6.5 | 3025 | 268 | 
-| 2008-05-16 | 第10期女流名人戦（韓国）本戦1回戦 | Park Jiyeon | Lee Minjin | Lose | B+4.5 | 6.5 | 2757 | -264 | 
-| 2008-05-15 | 第2回GGオークション杯女流対シニア連勝対抗戦第6戦 | Jimmy Cha | Lee Minjin | Win | W+0.5 | 6.5 | 3021 | 208 | 
-| 2008-05-15 | 第2回GGオークション杯女流対シニア連勝対抗戦第6戦 | Jimmy Cha | Lee Minjin | Win | W+0.5 | 6.5 | 2813 | 106 | 
-| 2008-04-03 | 第6回正官庄杯世界女子囲碁最強戦第13戦 | Lee Minjin | Rui Naiwei | Win | B+7.5 | 6.5 | 2707 | 155 | 
-| 2008-04-03 | 第6回正官庄杯世界女子囲碁最強戦第13戦 | Lee Minjin | Rui Naiwei | Win | B+7.5 | 6.5 | 2552 | 1 | 
-| 2008-04-02 | 第6回正官庄杯世界女子囲碁最強戦第12戦 | Lee Minjin | Kato Keiko | Win | B+6.5 | 6.5 | 2551 | -48 | 
-| 2008-04-02 | 第6回正官庄杯世界女子囲碁最強戦第12戦 | Lee Minjin | Kato Keiko | Win | B+6.5 | 6.5 | 2599 | 46 | 
-| 2008-04-01 | 第6回正官庄杯世界女子囲碁最強戦第11戦 | Tang Yi | Lee Minjin | Win | W+R | 6.5 | 2553 | 6 | 
-| 2008-04-01 | 第6回正官庄杯世界女子囲碁最強戦第11戦 | Tang Yi | Lee Minjin | Win | W+R | 6.5 | 2547 | -3 | 
+| 2008-10-09 | 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Mannami Kana | Lee Minjin | Win | W+R | 6.5 | 3158 | -237 | 
+| 2008-10-08 | 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Rui Naiwei | Lee Minjin | Win | W+R | 6.5 | 3395 | 104 | 
+| 2008-10-06 | 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Tsukuda Akiko | Lee Minjin | Win | W+6.5 | 6.5 | 3291 | 11 | 
+| 2008-10-02 | 第10期女流名人戦（韓国）敗者復活戦決勝 | Lee Hajin | Lee Minjin | Lose | B+R | 6.5 | 3280 | 14 | 
+| 2008-09-18 | 第10期女流名人戦（韓国）敗者復活戦2回戦 | Lee Tahye | Lee Minjin | Win | W+R | 6.5 | 3266 | 205 | 
+| 2008-06-03 | 第10期女流名人戦（韓国）敗者復活戦1回戦 |  | Lee Minjin | Win | W+R | 6.5 | 3061 | 39 | 
+| 2008-05-29 | 第2回GGオークション杯女流対シニア連勝対抗戦第10戦 | Kim Chongsu | Lee Minjin | Lose | B+R | 6.5 | 3022 | -6 | 
+| 2008-05-28 | 第2回GGオークション杯女流対シニア連勝対抗戦第9戦 |  | Lee Minjin | Win | W+R | 6.5 | 3028 | 13 | 
+| 2008-05-22 | 第2回GGオークション杯女流対シニア連勝対抗戦第8戦 | Kwon Kapyong | Lee Minjin | Win | W+10.5 | 6.5 | 3015 | 1 | 
+| 2008-05-21 | 第2回GGオークション杯女流対シニア連勝対抗戦第7戦 | Lee Minjin | Park Yeongchan | Win | B+5.5 | 6.5 | 3014 | -11 | 
+| 2008-05-16 | 第10期女流名人戦（韓国）本戦1回戦 | Park Jiyeon | Lee Minjin | Lose | B+4.5 | 6.5 | 3025 | 4 | 
+| 2008-05-15 | 第2回GGオークション杯女流対シニア連勝対抗戦第6戦 | Jimmy Cha | Lee Minjin | Win | W+0.5 | 6.5 | 3021 | 314 | 
+| 2008-04-03 | 第6回正官庄杯世界女子囲碁最強戦第13戦 | Lee Minjin | Rui Naiwei | Win | B+7.5 | 6.5 | 2707 | 156 | 
+| 2008-04-02 | 第6回正官庄杯世界女子囲碁最強戦第12戦 | Lee Minjin | Kato Keiko | Win | B+6.5 | 6.5 | 2551 | -2 | 
+| 2008-04-01 | 第6回正官庄杯世界女子囲碁最強戦第11戦 | Tang Yi | Lee Minjin | Win | W+R | 6.5 | 2553 | 3 | 
 | 2008-03-28 | 第13期女流国手戦決勝三番勝負第3局 | Lee Minjin | Park Shiun | Lose | W+3.5 | 6.5 | 2550 | -90 | 
 | 2008-03-18 | 第13期女流国手戦決勝三番勝負第2局 | Park Shiun | Lee Minjin | Lose | B+2.5 | 6.5 | 2640 | 115 | 
 | 2008-03-11 | 第13期女流国手戦決勝三番勝負第1局 | Lee Minjin | Park Shiun | Win | B+R | 6.5 | 2525 | 26 | 

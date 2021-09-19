@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-18 | 第7回韓国女子囲碁リーグプレーオフ第2戦 |  | Choi Jeong | Win | W+0.5 | 6.5 | 3327 | -2 | 
 | 2021-09-17 | 第7回韓国女子囲碁リーグプレーオフ第1戦 | Choi Jeong | Cho Seungah | Win | B+R | 6.5 | 3329 | 7 | 
 | 2021-09-11 | 2021女子最高棋士決定戦（韓国）リーグ | Choi Jeong | Oh Yujin | Win | B+R | 6.5 | 3322 | -9 | 
 | 2021-09-09 | 第7回韓国女子囲碁リーグ準プレーオフ第1戦 | Choi Jeong | Park Jiyeon | Win | B+R | 6.5 | 3331 | -4 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-18 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Dongyun | Shin Minjun | Win | W+R | 6.5 | 3550 | 45 | 
 | 2021-08-07 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Donghoon | Shin Minjun | Lose | B+R | 6.5 | 3505 | 21 | 
 | 2021-07-25 | 第23回農心杯韓国予選 | Weon Seongjin | Shin Minjun | Win | W+R | 6.5 | 3484 | 6 | 
 | 2021-07-21 | 第23回農心杯韓国予選 | Shin Minjun | Han Wonggyu | Win | B+R | 6.5 | 3478 | 17 | 
@@ -374,7 +375,7 @@
 | 2015-09-25 | 2015年韓国囲碁リーグ | Park Seunghwa | Shin Minjun | Win | W+R | 6.5 | 3129 | 33 | 
 | 2015-09-17 | 2015年韓国囲碁リーグ | Kim Kiyoung | Shin Minjun | Win | W+R | 6.5 | 3096 | -10 | 
 | 2015-09-10 | 第20回三星火災杯世界囲碁マスターズ1回戦F3 | Shin Minjun | Byun Sangil | Lose | W+R | 6.5 | 3106 | -13 | 
-| 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦F2 |  | Shin Minjun | Win | W+R | 6.5 | 3119 | 12 | 
+| 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦F2 | Ma Yichao | Shin Minjun | Win | W+R | 6.5 | 3119 | 12 | 
 | 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦F1 | Shin Minjun | Jiang Weijie | Lose | W+R | 6.5 | 3107 | -8 | 
 | 2015-09-06 | 2015年韓国囲碁リーグ | Shin Minjun | Kim Myounghoon | Win | B+R | 6.5 | 3115 | -38 | 
 | 2015-08-28 | 2015年韓国囲碁リーグ | Ryu Suhang | Shin Minjun | Lose | B+R | 6.5 | 3153 | 5 | 

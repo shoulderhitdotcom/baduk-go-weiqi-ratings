@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-18 | 第7回韓国女子囲碁リーグプレーオフ第2戦 | Kang Dajeong | Cho Seungah | Win | W+R | 6.5 | 3182 | 1 | 
 | 2021-09-17 | 第7回韓国女子囲碁リーグプレーオフ第1戦 | Choi Jeong | Cho Seungah | Lose | B+R | 6.5 | 3181 | 9 | 
 | 2021-09-15 | 第5期韓国製紙女子棋聖戦予選 | Cho Seungah |  | Lose | W+0.5 | 6.5 | 3172 | -11 | 
 | 2021-09-10 | 2021女子最高棋士決定戦（韓国）リーグ | Cho Seungah | Cho Hyeyeon | Win | B+10.5 | 6.5 | 3183 | 3183 | 

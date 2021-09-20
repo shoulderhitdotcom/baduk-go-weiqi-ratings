@@ -7,10 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-20 | 第47期碁聖戦予選 | Ryu Shikun | Motoki Katsuya | Win | W+R | 6.5 | 3323 | -45 | 
+| 2021-09-02 | 第77期本因坊戦予選 | Koike Yoshihiro | Motoki Katsuya | Win | W+R | 6.5 | 3368 | 56 | 
 | 2021-08-26 | 第28期阿含・桐山杯全日本早碁オープン戦準決勝 | Motoki Katsuya | Hsu Chiayuan | Lose | W+R | 6.5 | 3312 | 26 | 
 | 2021-08-09 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Yuki Satoshi | Motoki Katsuya | Win | W+R | 6.5 | 3286 | 64 | 
-| 2021-07-15 | 第46期名人戦リーグ | Motoki Katsuya | Yamashita Keigo | Lose | W+R | 6.5 | 3222 | 1 | 
-| 2021-07-15 | 第46期名人戦リーグ | Motoki Katsuya | Yamashita Keigo | Lose | W+R | 6.5 | 3221 | -18 | 
+| 2021-07-15 | 第46期名人戦リーグ | Motoki Katsuya | Yamashita Keigo | Lose | W+R | 6.5 | 3222 | -17 | 
 | 2021-07-05 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Motoki Katsuya | Ichiriki Ryo | Win | B+R | 6.5 | 3239 | -3 | 
 | 2021-06-14 | 第46期名人戦リーグ | Kono Rin | Motoki Katsuya | Win | W+R | 6.5 | 3242 | 37 | 
 | 2021-06-04 | 第69期王座戦1回戦 | Motoki Katsuya | Hsu Chiayuan | Lose | W+R | 6.5 | 3205 | -12 | 

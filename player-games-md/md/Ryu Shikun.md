@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-20 | 第47期碁聖戦予選 | Ryu Shikun | Motoki Katsuya | Lose | W+R | 6.5 | 2653 | 35 | 
 | 2021-09-02 | 第47期名人戦予選 | Takao Shinji | Ryu Shikun | Lose | B+0.5 | 6.5 | 2618 | -18 | 
 | 2021-07-01 | 第47期碁聖戦予選 | Ryu Shikun | Morita Michihiro | Win | B+R | 6.5 | 2636 | -63 | 
 | 2021-04-01 | 第77期本因坊戦予選 | Cho Sonjin | Ryu Shikun | Lose | B+3.5 | 6.5 | 2699 | -98 | 

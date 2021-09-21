@@ -35,6 +35,8 @@ df_for_names = @subset(df, @c do_for_all .| (:date .== maximum(:date)))
 names_to_update = vcat(df_for_names.black, df_for_names.white) |> unique |> skipmissings |> first |> collect
 names_to_update = filter(n->n != "", names_to_update)
 
+#push!(names_to_update, "Shin Jinseo")
+
 if false
     names_to_update
 end

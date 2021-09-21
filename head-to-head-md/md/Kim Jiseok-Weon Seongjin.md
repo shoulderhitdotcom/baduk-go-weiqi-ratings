@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Jiseok vs Weon Seongjin** | **Kim Jiseok streak** | **Weon Seongjin streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-19 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Weon Seongjin | Kim Jiseok | W+R | 6.5 | 1:0 | 1 | 0 | 
+| 2021-09-21 | 2021電子ランドライバル対戦第6局 | Weon Seongjin | Kim Jiseok | W+R | 6.5 | 1:0 | 1 | 0 | 
+| 2021-06-19 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Weon Seongjin | Kim Jiseok | W+R | 6.5 | 10:1 | 6 | 0 | 
 | 2018-08-05 | 2018年韓国囲碁リーグ第6節 | Weon Seongjin | Kim Jiseok | W+R | 6.5 | 9:1 | 5 | 0 | 
 | 2017-08-12 | 2017年韓国囲碁リーグ | Kim Jiseok | Weon Seongjin | B+R | 6.5 | 8:1 | 4 | 0 | 
 | 2017-07-31 | 韓国国家隊連戦 | Weon Seongjin | Kim Jiseok | W+R | 6.5 | 7:1 | 3 | 0 | 

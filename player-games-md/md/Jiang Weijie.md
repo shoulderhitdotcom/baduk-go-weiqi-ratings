@@ -7,9 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-21 | 第14回中国全国運動会囲碁男子個人公開組第2戦 | Dang Yifei | Jiang Weijie | Lose | B+R | 7.5 | 3652 | 13 | 
 | 2021-09-01 | 第26回三星火災杯中国予選 | Tan Xiao | Jiang Weijie | Win | W+R | 6.5 | 3639 | 95 | 
-| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Jiang Weijie | Zhao Chenyu | Lose | W+R | 7.5 | 3544 | 1 | 
-| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Jiang Weijie | Zhao Chenyu | Lose | W+R | 7.5 | 3543 | -34 | 
+| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Jiang Weijie | Zhao Chenyu | Lose | W+R | 7.5 | 3544 | -33 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Park Junghwan | Win | B+R | 7.5 | 3577 | 10 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Ke Jie | Jiang Weijie | Win | W+R | 7.5 | 3567 | 28 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Li Weiqing | Lose | W+R | 7.5 | 3539 | -7 | 
@@ -204,7 +204,7 @@
 | 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Park Junghwan | Jiang Weijie | Win | W+R | 6.5 | 3264 | -1 | 
 | 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Jiang Weijie | Lee Sedol | Win | B+R | 6.5 | 3265 | 36 | 
 | 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Jiang Weijie | Xie Ke | Win | B+R | 7.5 | 3229 | -14 | 
-| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 |  | Jiang Weijie | Win | W+R | 7.5 | 3243 | 4 | 
+| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Ma Yichao | Jiang Weijie | Win | W+R | 7.5 | 3243 | 4 | 
 | 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Jiang Weijie | Gu Zihao | Win | B+1.5 | 7.5 | 3239 | 23 | 
 | 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Tang Weixing | Jiang Weijie | Lose | B+R | 7.5 | 3216 | -17 | 
 | 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Jiang Weijie | Tong Mengcheng | Win | B+R | 7.5 | 3233 | -7 | 

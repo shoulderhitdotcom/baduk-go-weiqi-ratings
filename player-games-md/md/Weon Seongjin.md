@@ -7,13 +7,15 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-21 | 2021電子ランドライバル対戦第6局 | Weon Seongjin | Kim Jiseok | Lose | W+R | 6.5 | 3631 | 3 | 
+| 2021-09-20 | 2021電子ランドライバル対戦第4局 | Park Junghwan | Weon Seongjin | Win | W+R | 6.5 | 3628 | -46 | 
+| 2021-09-08 | 第3期ソパルコサノル最高棋士決定戦予選 | Kang Hun | Weon Seongjin | Lose | B+R | 6.5 | 3674 | 2 | 
 | 2021-08-23 | 第26回三星火災杯韓国予選 | Weon Seongjin | Yun Chanhee | Lose | W+R | 6.5 | 3672 | 7 | 
 | 2021-08-08 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Lee Changseok | Win | B+R | 6.5 | 3665 | 73 | 
 | 2021-07-25 | 第23回農心杯韓国予選 | Weon Seongjin | Shin Minjun | Lose | W+R | 6.5 | 3592 | -27 | 
 | 2021-07-23 | 第23回農心杯韓国予選 | Weon Seongjin | Choi Jeong | Win | B+R | 6.5 | 3619 | 11 | 
 | 2021-07-16 | 第26回GSカルテックス杯プロ棋戦準決勝 | Byun Sangil | Weon Seongjin | Lose | B+R | 6.5 | 3608 | -49 | 
-| 2021-07-11 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Minkyu | Weon Seongjin | Win | W+R | 6.5 | 3657 | -1 | 
-| 2021-07-11 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Minkyu | Weon Seongjin | Win | W+R | 6.5 | 3658 | 11 | 
+| 2021-07-11 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Minkyu | Weon Seongjin | Win | W+R | 6.5 | 3657 | 10 | 
 | 2021-07-01 | 第26回GSカルテックス杯プロ棋戦3回戦 | Weon Seongjin | Park Junghwan | Win | B+0.5 | 6.5 | 3647 | 16 | 
 | 2021-06-19 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Weon Seongjin | Kim Jiseok | Lose | W+R | 6.5 | 3631 | -67 | 
 | 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Weon Seongjin | Ke Jie | Lose | W+0.5 | 6.5 | 3698 | -36 | 
@@ -79,7 +81,7 @@
 | 2019-07-15 | 第21回農心杯韓国選抜戦 | Weon Seongjin | Yun Chanhee | Win | B+R | 6.5 | 3116 | -27 | 
 | 2019-07-11 | 第21回農心杯韓国選抜戦 | Weon Seongjin | Park Sangjin | Win | B+R | 6.5 | 3143 | 27 | 
 | 2019-06-26 | 第6回国手山脈韓国国内トーナメント予選 | Jin Siyoung | Weon Seongjin | Win | W+R | 6.5 | 3116 | -9 | 
-| 2019-06-23 | 2019年中国囲碁乙級リーグ |  | Weon Seongjin | Win | W+1¼ | 7.5 | 3125 | -12 | 
+| 2019-06-23 | 2019年中国囲碁乙級リーグ | Liu Zhaozhe | Weon Seongjin | Win | W+1¼ | 7.5 | 3125 | -12 | 
 | 2019-06-22 | 2019年中国囲碁乙級リーグ | An Dongxu | Weon Seongjin | Win | W+R | 7.5 | 3137 | 3 | 
 | 2019-06-21 | 2019年中国囲碁乙級リーグ | Weon Seongjin | Na Hyun | Win | B+R | 7.5 | 3134 | 19 | 
 | 2019-06-19 | 2019年中国囲碁乙級リーグ | Weon Seongjin |  | Win | B+R | 7.5 | 3115 | 3 | 

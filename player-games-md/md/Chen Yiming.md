@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-21 | 第14回中国全国運動会囲碁女子個人公開組第1戦 | Chen Yiming | Wang Chenxing | Lose | W+R | 7.5 | 2919 | 12 | 
 | 2021-06-10 | 第4回呉清源杯中国予選 | Chen Yiming |  | Win | B+R | 7.5 | 2907 | 14 | 
 | 2021-06-09 | 第4回呉清源杯中国予選 | Chen Yiming | Lu Jia | Win | B+R | 7.5 | 2893 | 11 | 
 | 2021-06-03 | 第4回呉清源杯中国予選 | Wang Yubo | Chen Yiming | Lose | B+1¾ | 7.5 | 2882 | -13 | 
@@ -14,7 +15,7 @@
 | 2021-05-31 | 第4回呉清源杯中国予選 | Chen Yiming | Rui Naiwei | Lose | W+R | 7.5 | 2907 | -8 | 
 | 2021-05-20 | 第9回中国女子囲碁甲級リーグ |  | Chen Yiming | Win | W+R | 7.5 | 2915 | 27 | 
 | 2021-05-19 | 第9回中国女子囲碁甲級リーグ | Rui Naiwei | Chen Yiming | Lose | B+R | 7.5 | 2888 | -34 | 
-| 2021-05-17 | 第9回中国女子囲碁甲級リーグ |  | Chen Yiming | Win | W+R | 7.5 | 2922 | 29 | 
+| 2021-05-17 | 第9回中国女子囲碁甲級リーグ | Cho Seungah | Chen Yiming | Win | W+R | 7.5 | 2922 | 29 | 
 | 2021-05-15 | 第9回中国女子囲碁甲級リーグ | Chen Yiming | Wang Shuang | Lose | W+R | 7.5 | 2893 | -12 | 
 | 2021-05-14 | 第9回中国女子囲碁甲級リーグ | Zhan Ying | Chen Yiming | Win | W+R | 7.5 | 2905 | 13 | 
 | 2021-04-03 | 第8回中国女子囲碁甲級リーグ | Wang Chenxing | Chen Yiming | Lose | B+R | 7.5 | 2892 | -7 | 

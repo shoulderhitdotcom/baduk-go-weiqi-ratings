@@ -7,8 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-21 | 2021電子ランドライバル対戦第6局 | Weon Seongjin | Kim Jiseok | Win | W+R | 6.5 | 3585 | 25 | 
+| 2021-09-20 | 2021電子ランドライバル対戦第3局 | Shin Jinseo | Kim Jiseok | Win | W+R | 6.5 | 3560 | 35 | 
 | 2021-08-28 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kim Jiseok | Byun Sangil | Win | B+R | 6.5 | 3525 | 55 | 
-| 2021-07-21 | 第23回農心杯韓国予選 |  | Kim Jiseok | Lose | B+R | 6.5 | 3470 | -28 | 
+| 2021-07-21 | 第23回農心杯韓国予選 | Kim Changhoon | Kim Jiseok | Lose | B+R | 6.5 | 3470 | -28 | 
 | 2021-07-15 | 第26回GSカルテックス杯プロ棋戦準決勝 | Kim Jiseok | Shin Jinseo | Lose | W+R | 6.5 | 3498 | -2 | 
 | 2021-06-25 | 第26回GSカルテックス杯プロ棋戦3回戦 | An Sungjoon | Kim Jiseok | Win | W+2.5 | 6.5 | 3500 | 1 | 
 | 2021-06-19 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Weon Seongjin | Kim Jiseok | Win | W+R | 6.5 | 3499 | 10 | 
@@ -138,7 +140,7 @@
 | 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Kim Jiseok | Yang Dingxin | Lose | W+R | 7.5 | 3267 | 17 | 
 | 2019-07-26 | 第2期韓国竜星戦8強戦 | Kim Jiseok | Lee Sedol | Win | B+R | 6.5 | 3250 | 11 | 
 | 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Lian Xiao | Kim Jiseok | Lose | B+R | 7.5 | 3239 | 14 | 
-| 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Kim Jiseok |  | Win | B+R | 7.5 | 3225 | 24 | 
+| 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Kim Jiseok | Wang Shuo | Win | B+R | 7.5 | 3225 | 24 | 
 | 2019-07-15 | 第21回農心杯韓国選抜戦 | Kim Jiseok | Lee Changho | Lose | W+R | 6.5 | 3201 | -47 | 
 | 2019-06-22 | 第31回テレビアジア選手権準決勝 | Ding Hao | Kim Jiseok | Lose | B+R | 7.5 | 3248 | -1 | 
 | 2019-06-16 | 2019年囲碁テレビ杯早碁戦16強戦 | Seol Hyunjun | Kim Jiseok | Lose | B+R | 6.5 | 3249 | 4 | 

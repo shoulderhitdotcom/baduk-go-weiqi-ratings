@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-21 | 第14回中国全国運動会囲碁男子個人公開組第1戦 | Lian Xiao | Tang Weixing | Win | B+R | 7.5 | 3585 | 2 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tan Xiao | Lian Xiao | Win | W+R | 7.5 | 3583 | 0 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Yu Zhiying | Lian Xiao | Win | W+R | 7.5 | 3583 | 4 | 
+| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Lian Xiao | Wang Yao | Win | B+R | 7.5 | 3579 | -15 | 
 | 2021-09-01 | 第26回三星火災杯中国予選 | Dang Yifei | Lian Xiao | Lose | B+0.5 | 6.5 | 3594 | 8 | 
 | 2021-08-30 | 第26回三星火災杯中国予選 | Peng Liyao | Lian Xiao | Lose | B+R | 6.5 | 3586 | 6 | 
 | 2021-08-27 | 第26回三星火災杯中国予選 | Lian Xiao | Xu Jiayang | Win | B+R | 6.5 | 3580 | 3580 | 
@@ -212,7 +216,6 @@
 | 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Lian Xiao | Fan Tingyu | Win | B+R | 7.5 | 3469 | 74 | 
 | 2017-10-11 | 第13期威孚房開杯棋王戦16強戦 | Lian Xiao | Gu Lingyi | Lose | W+R | 7.5 | 3395 | -12 | 
 | 2017-10-10 | 第13期威孚房開杯棋王戦32強戦 | Gu Li | Lian Xiao | Win | W+R | 7.5 | 3407 | -17 | 
-| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Fan Yin | Lian Xiao | Win | W+R | 7.5 | 3424 | 0 | 
 | 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Fan Yin | Lian Xiao | Win | W+R | 7.5 | 3424 | -1 | 
 | 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Xu Jiayang | Lian Xiao | Win | W+R | 7.5 | 3425 | 44 | 
 | 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Lian Xiao | Han Yizhou | Lose | W+R | 7.5 | 3381 | -13 | 
@@ -220,7 +223,7 @@
 | 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 |  | Lian Xiao | Win | W+R | 7.5 | 3411 | 12 | 
 | 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Yang Dingxin | Lian Xiao | Win | W+R | 7.5 | 3399 | 33 | 
 | 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Fan Yunruo | Lian Xiao | Win | W+R | 7.5 | 3366 | 6 | 
-| 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Lian Xiao |  | Win | B+R | 7.5 | 3360 | 29 | 
+| 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Lian Xiao | Ma Yichao | Win | B+R | 7.5 | 3360 | 29 | 
 | 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Lian Xiao |  | Lose | W+R | 7.5 | 3331 | -9 | 
 | 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Xie Erhao | Lian Xiao | Lose | B+R | 7.5 | 3340 | -14 | 
 | 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Huang Yunsong | Lian Xiao | Win | W+R | 7.5 | 3354 | 14 | 
@@ -254,7 +257,7 @@
 | 2016-12-30 | Alphago Online Series on Tygem and Fox 16 | Lian Xiao |  | Lose | W+R | 6.5 | 3170 | 17 | 
 | 2016-12-20 | 第11回春蘭杯世界囲碁選手権3回戦 | Park Yeonghun | Lian Xiao | Lose | B+R | 7.5 | 3153 | -14 | 
 | 2016-12-03 | 第18回中国囲碁甲級リーグ第22節 | Lian Xiao | Qin Yuexin | Win | B+R | 7.5 | 3167 | 14 | 
-| 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 |  | Lian Xiao | Win | W+R | 7.5 | 3153 | 5 | 
+| 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Ma Yichao | Lian Xiao | Win | W+R | 7.5 | 3153 | 5 | 
 | 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Lian Xiao | Xia Chenkun | Win | B+R | 7.5 | 3148 | 4 | 
 | 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 |  | Lian Xiao | Win | W+R | 7.5 | 3144 | 15 | 
 | 2016-11-12 | 第18回中国囲碁甲級リーグ第18節 | Tong Mengcheng | Lian Xiao | Win | W+R | 7.5 | 3129 | -13 | 
@@ -460,7 +463,7 @@
 | 2013-01-24 | 第27期中国囲碁天元戦1回戦 | Dang Yifei | Lian Xiao | Lose | B+R | 7.5 | 3361 | -7 | 
 | 2013-01-23 | 第27期中国囲碁天元戦予選 | Lian Xiao | Fan Yunruo | Win | B+R | 7.5 | 3368 | -12 | 
 | 2012-12-29 | 第13期リコー杯囲碁戦2回戦 | Lian Xiao | Zhou Ruiyang | Lose | W+R | 7.5 | 3380 | -8 | 
-| 2012-12-28 | 第13期リコー杯囲碁戦1回戦 | Lian Xiao |  | Win | B+R | 7.5 | 3388 | 8 | 
+| 2012-12-28 | 第13期リコー杯囲碁戦1回戦 | Lian Xiao | Liu Zhaozhe | Win | B+R | 7.5 | 3388 | 8 | 
 | 2012-12-08 | 第14回中国囲碁甲級リーグ第22節 | Shi Yue | Lian Xiao | Lose | B+R | 7.5 | 3380 | 33 | 
 | 2012-12-01 | 第14回中国囲碁甲級リーグ第21節 | Qin Yuexin | Lian Xiao | Win | W+R | 7.5 | 3347 | -227 | 
 | 2012-11-24 | 第14回中国囲碁甲級リーグ第20節 | Lian Xiao | Fan Yunruo | Win | B+R | 7.5 | 3574 | -23 | 

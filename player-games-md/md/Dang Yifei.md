@@ -7,13 +7,14 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-21 | 第14回中国全国運動会囲碁男子個人公開組第2戦 | Dang Yifei | Jiang Weijie | Win | B+R | 7.5 | 3619 | 51 | 
+| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Dang Yifei | Chang Hao | Lose | W+¼ | 7.5 | 3568 | -15 | 
 | 2021-09-01 | 第26回三星火災杯中国予選 | Dang Yifei | Lian Xiao | Win | B+0.5 | 6.5 | 3583 | 30 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Xie Ke | Dang Yifei | Lose | B+¾ | 7.5 | 3553 | 6 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Zhang Qiang | Dang Yifei | Win | W+R | 7.5 | 3547 | 3 | 
 | 2021-08-23 | 第26回三星火災杯中国予選 | Huang Yunsong | Dang Yifei | Win | W+R | 6.5 | 3544 | 3544 | 
 | 2021-08-20 | 第26回三星火災杯中国予選 | Li Xuanhao | Dang Yifei | Win | W+R | 6.5 | missing | -3461 | 
-| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Tuo Jiaxi | Dang Yifei | Lose | B+¾ | 7.5 | 3461 | 1 | 
-| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Tuo Jiaxi | Dang Yifei | Lose | B+¾ | 7.5 | 3460 | -22 | 
+| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Tuo Jiaxi | Dang Yifei | Lose | B+¾ | 7.5 | 3461 | -21 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Dang Yifei | Yi Lingtao | Win | B+R | 7.5 | 3482 | 7 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Dang Yifei | Lose | B+¾ | 7.5 | 3475 | 2 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Dang Yifei | Chen Yunong | Win | B+¾ | 7.5 | 3473 | 11 | 
@@ -28,7 +29,7 @@
 | 2021-04-22 | 第17回倡棋杯中国プロ囲碁選手権戦3回戦 | Yang Dingxin | Dang Yifei | Lose | B+¾ | 7.5 | 3495 | -5 | 
 | 2021-04-20 | 第17回倡棋杯中国プロ囲碁選手権戦2回戦 | Dang Yifei | Li Weiqing | Win | B+R | 7.5 | 3500 | 1 | 
 | 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Mi Yuting | Dang Yifei | Win | W+¼ | 7.5 | 3499 | 28 | 
-| 2021-04-10 | 第17回倡棋杯中国プロ囲碁選手権戦 |  | Dang Yifei | Win | W+R | 7.5 | 3471 | -22 | 
+| 2021-04-10 | 第17回倡棋杯中国プロ囲碁選手権戦 | Ma Yichao | Dang Yifei | Win | W+R | 7.5 | 3471 | -22 | 
 | 2021-04-01 | 2021年龍華杯深圳市囲碁戦 | Chen Zhengxun | Dang Yifei | Lose | B+R | 7.5 | 3493 | -19 | 
 | 2021-03-31 | 2021年龍華杯深圳市囲碁戦 | Tao Xinran | Dang Yifei | Win | W+R | 7.5 | 3512 | 8 | 
 | 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Li Xiangyu | Dang Yifei | Win | W+R | 7.5 | 3504 | -84 | 
@@ -239,7 +240,7 @@
 | 2015-08-29 | 2015年全国囲棋個人戦男子組第7戦 | Dang Yifei | Zhao Chenyu | Win | B+R | 7.5 | 2997 | 10 | 
 | 2015-08-28 | 2015年全国囲棋個人戦男子組第6戦 | Zhang Tao | Dang Yifei | Lose | B+R | 7.5 | 2987 | -15 | 
 | 2015-08-26 | 2015年全国囲棋個人戦男子組第5戦 | Dang Yifei |  | Win | B+R | 7.5 | 3002 | 35 | 
-| 2015-08-22 | 2015年全国囲棋個人戦男子組第2戦 |  | Dang Yifei | Win | W+R | 7.5 | 2967 | 4 | 
+| 2015-08-22 | 2015年全国囲棋個人戦男子組第2戦 | Wang Shuo | Dang Yifei | Win | W+R | 7.5 | 2967 | 4 | 
 | 2015-08-21 | 2015年全国囲棋個人戦男子組第1戦 | Dang Yifei | Yu Zhiying | Win | B+R | 7.5 | 2963 | -221 | 
 | 2015-05-19 | 2015年中国囲碁乙級リーグ | Dang Yifei | Wang Tao | Win | B+R | 7.5 | 3184 | 10 | 
 | 2015-05-13 | 2015年中国囲碁乙級リーグ | Dang Yifei | Chen Shiyuan | Lose | W+R | 7.5 | 3174 | -16 | 

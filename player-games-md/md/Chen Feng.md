@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-22 | 第9期中環碁聖戦 | Chen Shiyuan | Chen Feng | Lose | B+R | 6.5 | 2767 | -8 | 
 | 2021-09-16 | 第14期棋王戦（台湾）予選 | Ding Shaojie | Chen Feng | Win | W+R | 6.5 | 2775 | 37 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 |  | Chen Feng | Win | W+1.5 | 6.5 | 2738 | -41 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 | Bai Xinhui | Chen Feng | Lose | B+R | 6.5 | 2779 | -9 | 

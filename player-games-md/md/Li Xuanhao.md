@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組 | Lian Xiao | Li Xuanhao | Lose | B+R | 7.5 | 3526 | 1 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Li Xuanhao | Liu Yuhang | Lose | W+R | 7.5 | 3525 | 0 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tu Xiaoyu | Li Xuanhao | Win | W+R | 7.5 | 3525 | -17 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Zhou Ruiyang | Li Xuanhao | Lose | B+R | 7.5 | 3542 | -12 | 
 | 2021-09-01 | 第26回三星火災杯中国予選 | Wang Zejin | Li Xuanhao | Win | W+R | 6.5 | 3554 | 26 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Chen Yunong | Li Xuanhao | Win | W+R | 7.5 | 3528 | 23 | 
@@ -16,8 +19,7 @@
 | 2021-08-20 | 第26回三星火災杯中国予選 | Li Xuanhao | Dang Yifei | Lose | W+R | 6.5 | missing | -3618 | 
 | 2021-08-18 | 第26回三星火災杯中国予選 | Li Xuanhao | Peng Liyao | Lose | W+R | 6.5 | 3618 | 97 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Ding Hao | Li Xuanhao | Lose | B+0.5 | 6.5 | 3521 | -5 | 
-| 2021-08-13 | 第26回三星火災杯中国予選 | Li Xuanhao | Tao Xinran | Win | B+R | 6.5 | 3526 | -1 | 
-| 2021-08-13 | 第26回三星火災杯中国予選 | Li Xuanhao | Tao Xinran | Win | B+R | 6.5 | 3527 | 32 | 
+| 2021-08-13 | 第26回三星火災杯中国予選 | Li Xuanhao | Tao Xinran | Win | B+R | 6.5 | 3526 | 31 | 
 | 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Yi Lingtao | Li Xuanhao | Lose | B+R | 7.5 | 3495 | -34 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Chen Yichun | Li Xuanhao | Lose | B+R | 7.5 | 3529 | -16 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Li Xuanhao | Win | W+R | 7.5 | 3545 | 21 | 
@@ -165,7 +167,7 @@
 | 2018-01-22 | 第32期中国囲碁天元戦予選 | Li Xuanhao | Xie He | Win | B+R | 7.5 | 3374 | 18 | 
 | 2018-01-10 | 第3回洛陽白雲山杯中国棋聖戦資格戦3 | Fan Yin | Li Xuanhao | Lose | B+R | 7.5 | 3356 | -4 | 
 | 2018-01-08 | 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Liu Xing | Li Xuanhao | Win | W+R | 7.5 | 3360 | 57 | 
-| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 |  | Li Xuanhao | Lose | B+R | 7.5 | 3303 | -11 | 
+| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Ma Yichao | Li Xuanhao | Lose | B+R | 7.5 | 3303 | -11 | 
 | 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Li Xuanhao | Sun Tengyu | Lose | W+R | 7.5 | 3314 | 4 | 
 | 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Xie Erhao | Li Xuanhao | Win | W+R | 7.5 | 3310 | 7 | 
 | 2017-11-20 | 第3回夢百合杯世界オープン戦準決勝三番勝負第三局 | Li Xuanhao | Park Yeonghun | Lose | W+R | 7.5 | 3303 | -6 | 
@@ -186,7 +188,7 @@
 | 2017-09-16 | 第29回テレビアジア選手権1回戦 | Li Xuanhao | Na Hyun | Lose | W+4.5 | 7.5 | 3268 | -10 | 
 | 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Xia Chenkun | Li Xuanhao | Lose | B+R | 7.5 | 3278 | -19 | 
 | 2017-09-11 | 第30回嫘祖杯中国名人戦挑戦者決定戦 | Mi Yuting | Li Xuanhao | Lose | B+R | 7.5 | 3297 | -11 | 
-| 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 |  | Li Xuanhao | Win | W+2.5 | 7.5 | 3308 | -3 | 
+| 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Wang Shuo | Li Xuanhao | Win | W+2.5 | 7.5 | 3308 | -3 | 
 | 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Li Xuanhao | Fan Yunruo | Lose | W+0.5 | 7.5 | 3311 | -2 | 
 | 2017-08-26 | 第3回Mlily夢百合杯8強戦 | Li Xuanhao | Huang Xin | Win | B+R | 7.5 | 3313 | 3 | 
 | 2017-08-24 | 第3回Mlily夢百合杯16強戦 | Li Xuanhao | Ryan Li | Win | B+R | 7.5 | 3310 | 20 | 
@@ -275,7 +277,7 @@
 | 2015-08-31 | 2015年全国囲棋個人戦男子組第8戦 | Gu Zihao | Li Xuanhao | Win | W+4.5 | 7.5 | 3094 | -8 | 
 | 2015-08-29 | 2015年全国囲棋個人戦男子組第7戦 | Yang Kaiwen | Li Xuanhao | Win | W+R | 7.5 | 3102 | -1 | 
 | 2015-08-28 | 2015年全国囲棋個人戦男子組第6戦 |  | Li Xuanhao | Win | W+R | 7.5 | 3103 | 12 | 
-| 2015-08-26 | 2015年全国囲棋個人戦男子組第5戦 | Li Xuanhao |  | Win | B+R | 7.5 | 3091 | 18 | 
+| 2015-08-26 | 2015年全国囲棋個人戦男子組第5戦 | Li Xuanhao | Wang Shuo | Win | B+R | 7.5 | 3091 | 18 | 
 | 2015-08-23 | 2015年全国囲棋個人戦男子組第3戦 | Li Xuanhao | Zhou Hexi | Win | B+R | 7.5 | 3073 | 12 | 
 | 2015-08-22 | 2015年全国囲棋個人戦男子組第2戦 | Li Xuanhao | Tao Xinran | Win | B+R | 7.5 | 3061 | 11 | 
 | 2015-08-21 | 2015年全国囲棋個人戦男子組第1戦 | Gui Wenbo | Li Xuanhao | Win | W+R | 7.5 | 3050 | -12 | 

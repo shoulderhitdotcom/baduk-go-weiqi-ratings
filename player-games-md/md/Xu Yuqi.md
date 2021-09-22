@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-22 | 第9期中環碁聖戦 | Cai Chengwei | Xu Yuqi | Win | W+R | 6.5 | 2945 | 38 | 
 | 2021-09-16 | 第14期棋王戦（台湾）予選 | Lin Shixun | Xu Yuqi | Win | W+2.5 | 6.5 | 2907 | 26 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Liu Yaowen | Xu Yuqi | Win | W+R | 6.5 | 2881 | -13 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 | Xu Yuqi | Xu Jingen | Lose | W+R | 6.5 | 2894 | -10 | 

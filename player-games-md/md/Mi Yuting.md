@@ -7,9 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組第5戦 | Mi Yuting | Tuo Jiaxi | Win | B+R | 7.5 | 3648 | 0 | 
+| 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組第4戦 | Lian Xiao | Mi Yuting | Win | W+R | 7.5 | 3648 | 142 | 
 | 2021-07-30 | 第16回威孚房開杯棋王戦2回戦 | Mi Yuting | Liao Yuanhe | Win | B+R | 7.5 | 3506 | 18 | 
-| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Fan Yin | Mi Yuting | Win | W+1¼ | 7.5 | 3488 | 1 | 
-| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Fan Yin | Mi Yuting | Win | W+1¼ | 7.5 | 3487 | -39 | 
+| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Fan Yin | Mi Yuting | Win | W+1¼ | 7.5 | 3488 | -38 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Mi Yuting | Lose | B+R | 7.5 | 3526 | -9 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Mi Yuting | Kang Dongyun | Win | B+¾ | 7.5 | 3535 | 15 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Mi Yuting | Lose | B+R | 7.5 | 3520 | -4 | 
@@ -213,7 +214,7 @@
 | 2017-11-02 | 第30回嫘祖杯中国名人戦挑戦手合三番勝負第二局 | Mi Yuting | Lian Xiao | Lose | W+R | 7.5 | 3501 | -6 | 
 | 2017-11-01 | 第30回嫘祖杯中国名人戦挑戦手合三番勝負第一局 | Lian Xiao | Mi Yuting | Win | W+R | 7.5 | 3507 | 7 | 
 | 2017-10-30 | 第19回中国囲碁甲級リーグ第22節 | Park Junghwan | Mi Yuting | Lose | B+2.5 | 7.5 | 3500 | -4 | 
-| 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 |  | Mi Yuting | Lose | B+7.5 | 7.5 | 3504 | -14 | 
+| 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Ma Yichao | Mi Yuting | Lose | B+7.5 | 7.5 | 3504 | -14 | 
 | 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Gu Zihao | Mi Yuting | Lose | B+R | 7.5 | 3518 | 42 | 
 | 2017-10-11 | 第13期威孚房開杯棋王戦16強戦 | Tong Mengcheng | Mi Yuting | Win | W+R | 7.5 | 3476 | 3 | 
 | 2017-10-10 | 第13期威孚房開杯棋王戦32強戦 | Xie He | Mi Yuting | Win | W+R | 7.5 | 3473 | -30 | 

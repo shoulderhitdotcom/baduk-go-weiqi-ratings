@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-22 | 第47期碁聖戦予選 | Yu Zhengqi | Kiyonari Tetsuya | Win | B+R | 6.5 | 3338 | 2 | 
 | 2021-09-16 | 第46期棋聖戦Sリーグ | Murakawa Daisuke | Yu Zhengqi | Win | W+2.5 | 6.5 | 3336 | -33 | 
 | 2021-09-02 | 第77期本因坊戦予選 | Ko Iso | Yu Zhengqi | Win | W+R | 6.5 | 3369 | 3369 | 
 | 2021-08-25 | 第70期王座戦予選 | Nakano Yasuhiro | Yu Zhengqi | Win | W+R | 6.5 | missing | -3315 | 

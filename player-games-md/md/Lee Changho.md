@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-22 | 2021電子ランドライバル対戦第8局 | Cho Hunhyun | Lee Changho | Win | W+R | 6.5 | 3218 | 23 | 
+| 2021-09-19 | 2021電子ランドライバル対戦第2局 | Lee Changho | Yoo Changhyuk | Win | B+R | 6.5 | 3195 | 5 | 
 | 2021-09-14 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第3ラウンド | Takao Shinji | Lee Changho | Win | W+1¼ | 7.5 | 3190 | -7 | 
 | 2021-09-12 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第1ラウンド | Lee Changho | Chang Hao | Win | B+R | 7.5 | 3197 | 3197 | 
 | 2021-08-25 | 第26回三星火災杯韓国予選 | Yoo Changhyuk | Lee Changho | Win | W+R | 6.5 | missing | -3169 | 

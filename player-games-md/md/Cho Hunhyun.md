@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-22 | 2021電子ランドライバル対戦第8局 | Cho Hunhyun | Lee Changho | Lose | W+R | 6.5 | 3203 | -31 | 
+| 2021-09-19 | 2021電子ランドライバル対戦第1局 | Seo Bongsoo | Cho Hunhyun | Win | W+1.5 | 6.5 | 3234 | 7 | 
 | 2021-09-14 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第3ラウンド | Cho Hunhyun | Kobayashi Koichi | Lose | W+2¼ | 7.5 | 3227 | -222 | 
 | 2021-09-12 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第1ラウンド | Cho Hunhyun | Nie Weiping | Win | B+R | 7.5 | 3449 | -147 | 
 | 2021-02-08 | 第44期名人戦（韓国）特別対局第1局 | Lee Changho | Cho Hunhyun | Lose | B+R | 6.5 | 3596 | -116 | 

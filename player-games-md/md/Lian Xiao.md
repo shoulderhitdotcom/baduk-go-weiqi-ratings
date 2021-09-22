@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組 | Lian Xiao | Li Xuanhao | Win | B+R | 7.5 | 3586 | 0 | 
+| 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組第4戦 | Lian Xiao | Mi Yuting | Lose | W+R | 7.5 | 3586 | 1 | 
 | 2021-09-21 | 第14回中国全国運動会囲碁男子個人公開組第1戦 | Lian Xiao | Tang Weixing | Win | B+R | 7.5 | 3585 | 2 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tan Xiao | Lian Xiao | Win | W+R | 7.5 | 3583 | 0 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Yu Zhiying | Lian Xiao | Win | W+R | 7.5 | 3583 | 4 | 

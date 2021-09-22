@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-22 | 第9期中環碁聖戦 | Wang Yuanjun | Huang Daolong | Win | B+R | 6.5 | 3252 | 18 | 
 | 2021-09-17 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第2局 | Lai Junfu | Wang Yuanjun | Win | W+R | 6.5 | 3234 | 8 | 
 | 2021-09-14 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第1局 | Wang Yuanjun | Lai Junfu | Win | B+1.5 | 6.5 | 3226 | 8 | 
 | 2021-09-10 | 第26回三星火災杯台湾予選 | Lin Lixiang | Wang Yuanjun | Win | W+R | 6.5 | 3218 | -10 | 

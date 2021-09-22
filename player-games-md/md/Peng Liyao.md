@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組 | Tang Weixing | Peng Liyao | Lose | B+R | 7.5 | 3439 | 1 | 
 | 2021-08-30 | 第26回三星火災杯中国予選 | Peng Liyao | Lian Xiao | Win | B+R | 6.5 | 3438 | 17 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Guo Xinyi | Peng Liyao | Lose | B+R | 7.5 | 3421 | -68 | 
 | 2021-08-18 | 第26回三星火災杯中国予選 | Li Xuanhao | Peng Liyao | Win | W+R | 6.5 | 3489 | 131 | 
@@ -123,7 +124,7 @@
 | 2018-03-23 | 第12回春蘭杯世界囲碁選手権2回戦 | Peng Liyao | Park Junghwan | Lose | W+R | 7.5 | 3338 | -6 | 
 | 2018-03-21 | 第12回春蘭杯世界囲碁選手権1回戦 | Shibano Toramaru | Peng Liyao | Win | W+R | 7.5 | 3344 | -53 | 
 | 2018-03-06 | 第9期中国竜星戦予選 | Tao Xinran | Peng Liyao | Lose | B+R | 7.5 | 3397 | -14 | 
-| 2018-03-05 | 第9期中国竜星戦予選 | Peng Liyao |  | Win | B+R | 7.5 | 3411 | 36 | 
+| 2018-03-05 | 第9期中国竜星戦予選 | Peng Liyao | Wang Shuo | Win | B+R | 7.5 | 3411 | 36 | 
 | 2018-01-25 | 第32期中国囲碁天元戦2回戦 | Peng Liyao | Zhang Tao | Lose | W+R | 7.5 | 3375 | 0 | 
 | 2018-01-08 | 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Chen Zijian | Peng Liyao | Lose | B+R | 7.5 | 3375 | -17 | 
 | 2017-12-26 | 第1回新奥杯世界囲碁オープン戦決勝五番勝負第5局 | Ke Jie | Peng Liyao | Lose | B+1.5 | 7.5 | 3392 | -6 | 
@@ -147,7 +148,7 @@
 | 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Peng Liyao | Fan Yunruo | Lose | W+0.5 | 7.5 | 3306 | -12 | 
 | 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Tuo Jiaxi | Peng Liyao | Win | W+R | 7.5 | 3318 | 28 | 
 | 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Xie He | Peng Liyao | Win | W+6.5 | 7.5 | 3290 | 23 | 
-| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Peng Liyao |  | Win | B+R | 7.5 | 3267 | -16 | 
+| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Peng Liyao | Wang Shuo | Win | B+R | 7.5 | 3267 | -16 | 
 | 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Gu Li | Peng Liyao | Win | W+R | 7.5 | 3283 | -3 | 
 | 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Peng Liyao | Lian Xiao | Lose | W+R | 7.5 | 3286 | 12 | 
 | 2017-05-12 | 第1回新奥杯世界囲碁オープン戦準決勝第3局 | Zhou Ruiyang | Peng Liyao | Win | W+R | 7.5 | 3274 | -22 | 

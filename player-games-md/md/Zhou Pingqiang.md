@@ -7,14 +7,17 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-22 | 第9期中環碁聖戦 | Zhou Pingqiang | Xiao Zhenghao | Lose | W+0.5 | 6.5 | 2497 | 75 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 | Zhou Pingqiang |  | Lose | W+R | 6.5 | 2422 | 21 | 
+| 2021-08-30 | 第14期棋王戦（台湾）予選 | Dai Jiashen | Zhou Pingqiang | Win | W+R | 6.5 | 2401 | 0 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 | Liu Yaowen | Zhou Pingqiang | Lose | B+R | 6.5 | 2401 | 4 | 
 | 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Zhou Pingqiang | Lin Shixun | Lose | W+R | 6.5 | 2397 | -20 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 |  | Zhou Pingqiang | Win | W+R | 6.5 | 2417 | 29 | 
-| 2021-04-12 | 第11期友士杯十段戦予選 |  | Zhou Pingqiang | Lose | B+R | 6.5 | 2388 | -24 | 
+| 2021-04-12 | 第11期友士杯十段戦予選 | Bai Xinhui | Zhou Pingqiang | Lose | B+R | 6.5 | 2388 | -24 | 
 | 2021-03-29 | 第11期友士杯十段戦予選 | Zhou Pingqiang |  | Win | B+0.5 | 6.5 | 2412 | 0 | 
 | 2021-03-29 | 第11期友士杯十段戦予選 | Lin Shixun | Zhou Pingqiang | Lose | B+R | 6.5 | 2412 | 75 | 
 | 2021-03-26 | 第17期国手戦（台湾） | Zhou Pingqiang |  | Lose | W+R | 6.5 | 2337 | -178 | 
-| 2021-03-19 | 第17期国手戦（台湾） |  | Zhou Pingqiang | Win | W+R | 6.5 | 2515 | -49 | 
+| 2021-03-19 | 第17期国手戦（台湾） | Lin Yuting | Zhou Pingqiang | Win | W+R | 6.5 | 2515 | -49 | 
 | 2021-03-04 | 第2期名人冠軍戦予選 |  | Zhou Pingqiang | Lose | B+6.5 | 6.5 | 2564 | -9 | 
 | 2021-02-25 | 第2期名人冠軍戦予選 | Zhou Pingqiang |  | Win | B+R | 6.5 | 2573 | 8 | 
 | 2021-02-22 | 第2期名人冠軍戦予選 | Chen Xi | Zhou Pingqiang | Lose | B+R | 6.5 | 2565 | -78 | 
@@ -33,16 +36,16 @@
 | 2020-03-23 | 第10期友士杯十段戦予選敗部4回戦 | Zhou Pingqiang | Lin Xiuping | Win | B+11.5 | 6.5 | 2378 | 29 | 
 | 2020-03-19 | 第10期友士杯十段戦予選勝部決勝 | Yang Bowei | Zhou Pingqiang | Lose | B+R | 6.5 | 2349 | -6 | 
 | 2020-03-16 | 第10期友士杯十段戦予選勝部2回戦 | Zhou Pingqiang | Lin Xiuping | Win | B+4.5 | 6.5 | 2355 | 0 | 
-| 2020-03-16 | 第10期友士杯十段戦予選勝部1回戦 | Zhou Pingqiang |  | Win | B+R | 6.5 | 2355 | -7 | 
+| 2020-03-16 | 第10期友士杯十段戦予選勝部1回戦 | Zhou Pingqiang | Bai Xinhui | Win | B+R | 6.5 | 2355 | -7 | 
 | 2020-02-24 | 第12回海峰杯プロ囲碁戦32強戦 | Lai Junfu | Zhou Pingqiang | Lose | B+4.5 | 6.5 | 2362 | 18 | 
 | 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Lin Xiuping | Zhou Pingqiang | Win | W+R | 6.5 | 2344 | -98 | 
-| 2020-02-13 | 第1期名人冠軍戦予選敗部1回戦 |  | Zhou Pingqiang | Lose | B+R | 6.5 | 2442 | -121 | 
+| 2020-02-13 | 第1期名人冠軍戦予選敗部1回戦 | Yang Zixuan | Zhou Pingqiang | Lose | B+R | 6.5 | 2442 | -121 | 
 | 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Zhou Pingqiang | Xu Yuqi | Lose | W+0.5 | 6.5 | 2563 | -14 | 
 | 2020-02-04 | 第19期天元戦（台湾）予選 | Zhou Pingqiang |  | Lose | W+R | 6.5 | 2577 | -68 | 
 | 2020-01-14 | 第19期天元戦（台湾）予選 | Zhou Pingqiang |  | Win | B+R | 6.5 | 2645 | 15 | 
 | 2020-01-08 | 第19期天元戦（台湾）予選 | Zhou Pingqiang | Zhou Keping | Win | B+7.5 | 6.5 | 2630 | 354 | 
 | 2019-09-23 | 第12期棋王戦（台湾）予選敗部1回戦 | Zhou Pingqiang | Lin Yuxiang | Lose | W+R | 6.5 | 2276 | 14 | 
-| 2019-09-19 | 第12期棋王戦（台湾）予選勝部1回戦 | Zhou Pingqiang |  | Lose | W+8.5 | 6.5 | 2262 | -42 | 
+| 2019-09-19 | 第12期棋王戦（台湾）予選勝部1回戦 | Zhou Pingqiang | Yang Zixuan | Lose | W+8.5 | 6.5 | 2262 | -42 | 
 | 2019-09-15 | 第7期中環碁聖戦2回戦 | Zhou Pingqiang | Chen Qirui | Lose | W+R | 6.5 | 2304 | -2 | 
 | 2019-09-08 | 第7期中環碁聖戦1回戦 | Ye Hongyuan | Zhou Pingqiang | Win | W+5.5 | 6.5 | 2306 | 28 | 
 | 2019-09-05 | 第12期棋王戦（台湾）資格戦敗部1回戦 | Zhou Pingqiang | Liu Jianchang | Win | B+R | 6.5 | 2278 | 6 | 
@@ -50,10 +53,10 @@
 | 2019-09-02 | 第12期棋王戦（台湾）資格戦勝部1回戦 | Zhou Pingqiang |  | Lose | W+R | 6.5 | 2282 | -147 | 
 | 2019-04-10 | 第9期友士杯十段戦予選敗部3回戦 | Zhou Pingqiang |  | Lose | W+R | 6.5 | 2429 | 0 | 
 | 2019-04-10 | 第9期友士杯十段戦予選敗部2回戦 | Huang Shiyuan | Zhou Pingqiang | Win | W+R | 6.5 | 2429 | 65 | 
-| 2019-04-08 | 第9期友士杯十段戦予選敗部1回戦 | Zhou Pingqiang |  | Win | B+R | 6.5 | 2364 | 0 | 
+| 2019-04-08 | 第9期友士杯十段戦予選敗部1回戦 | Zhou Pingqiang | Bai Xinhui | Win | B+R | 6.5 | 2364 | 0 | 
 | 2019-04-08 | 第9期友士杯十段戦予選勝部1回戦 | Zhou Pingqiang | Wei Haoting | Lose | W+2.5 | 6.5 | 2364 | 24 | 
 | 2019-03-07 | 第11回海峰杯プロ囲碁戦32強戦 | Wang Yuanjun | Zhou Pingqiang | Lose | B+R | 6.5 | 2340 | -21 | 
-| 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 | Zhou Pingqiang |  | Win | B+R | 6.5 | 2361 | 296 | 
+| 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 | Zhou Pingqiang | Bai Xinhui | Win | B+R | 6.5 | 2361 | 296 | 
 | 2019-02-19 | 第18期天元戦（台湾）敗部1回戦 | Zhou Pingqiang | Chen Qirui | Lose | W+R | 6.5 | 2065 | -3 | 
 | 2019-02-12 | 第18期天元戦（台湾）勝部1回戦 | Xu Haohong | Zhou Pingqiang | Lose | B+R | 6.5 | 2068 | 83 | 
 | 2019-01-22 | 第18期天元戦（台湾）予選3回戦 | Ding Shaojie | Zhou Pingqiang | Win | W+R | 6.5 | 1985 | 109 | 

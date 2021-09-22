@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組 | Tang Weixing | Peng Liyao | Win | B+R | 7.5 | 3541 | 11 | 
 | 2021-09-21 | 第14回中国全国運動会囲碁男子個人公開組第1戦 | Lian Xiao | Tang Weixing | Lose | B+R | 7.5 | 3530 | 1 | 
 | 2021-09-15 | 第13回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Shin Jinseo | Tang Weixing | Lose | B+R | 7.5 | 3529 | 4 | 
 | 2021-09-13 | 第13回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Tang Weixing | Shin Jinseo | Lose | W+¼ | 7.5 | 3525 | -7 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Changho vs Yoo Changhyuk** | **Lee Changho streak** | **Yoo Changhyuk streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-19 | 2021電子ランドライバル対戦第2局 | Lee Changho | Yoo Changhyuk | B+R | 6.5 | 21:10 | 11 | 0 | 
 | 2021-08-25 | 第26回三星火災杯韓国予選 | Yoo Changhyuk | Lee Changho | W+R | 6.5 | 20:10 | 10 | 0 | 
 | 2010-05-26 | 第6期物価情報杯プロ棋戦リーグA | Lee Changho | Yoo Changhyuk | B+R | 6.5 | 19:10 | 9 | 0 | 
 | 2008-06-12 | 2008年韓国囲碁リーグ | Lee Changho | Yoo Changhyuk | B+R | 6.5 | 18:10 | 8 | 0 | 

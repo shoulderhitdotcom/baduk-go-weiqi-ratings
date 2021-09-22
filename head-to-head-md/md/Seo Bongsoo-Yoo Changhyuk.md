@@ -1,0 +1,28 @@
+## Seo Bongsoo vs Yoo Changhyuk Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Seo Bongsoo vs Yoo Changhyuk** | **Seo Bongsoo streak** | **Yoo Changhyuk streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-22 | 2021電子ランドライバル対戦第7局 | Seo Bongsoo | Yoo Changhyuk | B+R | 6.5 | 1:0 | 1 | 0 | 
+| 2021-09-01 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Yoo Changhyuk | W+R | 6.5 | 7:8 | 0 | 1 | 
+| 2021-04-14 | 第8回大舟杯プロシニア最強者戦決勝 | Seo Bongsoo | Yoo Changhyuk | B+2.5 | 6.5 | 7:7 | 2 | 0 | 
+| 2020-09-10 | 2020NHシニア囲碁リーグ第8節第3試合第2局 | Yoo Changhyuk | Seo Bongsoo | W+2.5 | 6.5 | 6:7 | 1 | 0 | 
+| 2020-07-14 | 2020NHシニア囲碁リーグ第1節第2試合第1局 | Seo Bongsoo | Yoo Changhyuk | W+R | 6.5 | 5:7 | 0 | 2 | 
+| 2019-10-06 | 2019江南囲碁フェスティバルレジェンドマッチ | Yoo Changhyuk | Seo Bongsoo | B+R | 6.5 | 5:6 | 0 | 1 | 
+| 2019-07-05 | 第24回三星火災杯統合予選決勝 | Seo Bongsoo | Yoo Changhyuk | B+5.5 | 6.5 | 5:5 | 1 | 0 | 
+| 2019-01-21 | 第20回マキシムコーヒー杯入神最強戦1回戦 | Seo Bongsoo | Yoo Changhyuk | W+R | 6.5 | 4:5 | 0 | 1 | 
+| 2016-06-07 | 第1回韓国シニア囲碁リーグ | Yoo Changhyuk | Seo Bongsoo | W+0.5 | 6.5 | 4:4 | 1 | 0 | 
+| 2016-04-12 | 第1回韓国シニア囲碁リーグ | Seo Bongsoo | Yoo Changhyuk | W+R | 6.5 | 3:4 | 0 | 1 | 
+| 2013-08-07 | 第18回三星火災杯統合予選シニア枠決勝 | Yoo Changhyuk | Seo Bongsoo | W+R | 6.5 | 3:3 | 1 | 0 | 
+| 2003-08-09 | 第1回韓国ドリームリーグ | Seo Bongsoo | Yoo Changhyuk | W+4.5 | 6.5 | 2:3 | 0 | 2 | 
+| 2002-11-26 | 第2回KAT杯韓国囲碁最強戦 | Yoo Changhyuk | Seo Bongsoo | B+3.5 | 6.5 | 2:2 | 0 | 1 | 
+| 2002-06-11 | 第1回KAT杯韓国囲碁最強戦 | Seo Bongsoo | Yoo Changhyuk | B+4.5 | 6.5 | 2:1 | 1 | 0 | 
+| 2001-12-14 | 第36期覇王戦本戦第11局 | Yoo Changhyuk | Seo Bongsoo | B+6.5 | 6.5 | 1:1 | 0 | 1 |
+
+
+
+

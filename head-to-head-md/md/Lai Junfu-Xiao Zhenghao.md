@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lai Junfu vs Xiao Zhenghao** | **Lai Junfu streak** | **Xiao Zhenghao streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-16 | 第14期棋王戦（台湾）予選 | Xiao Zhenghao | Lai Junfu | W+R | 6.5 | 7:4 | 2 | 0 | 
 | 2021-02-19 | 第20期天元戦（台湾）リーグ | Lai Junfu | Xiao Zhenghao | B+R | 6.5 | 6:4 | 1 | 0 | 
 | 2020-10-12 | 第13期棋王戦（台湾）予選 | Lai Junfu | Xiao Zhenghao | W+R | 6.5 | 5:4 | 0 | 1 | 
 | 2020-06-19 | 第1期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Lai Junfu | W+R | 6.5 | 5:3 | 3 | 0 | 

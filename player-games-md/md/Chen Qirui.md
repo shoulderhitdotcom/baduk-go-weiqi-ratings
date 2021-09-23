@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第14期棋王戦（台湾）予選 | Chen Qirui | Li Wei | Win | B+0.5 | 6.5 | 3235 | -7 | 
 | 2021-09-22 | 第9期中環碁聖戦 |  | Chen Qirui | Win | W+R | 6.5 | 3242 | 12 | 
 | 2021-09-16 | 第14期棋王戦（台湾）予選 | Cai Chengwei | Chen Qirui | Win | W+R | 6.5 | 3230 | 3 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Chen Qirui | Huang Shiyuan | Win | B+R | 6.5 | 3227 | 13 | 

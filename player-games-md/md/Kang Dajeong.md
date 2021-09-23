@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第7回韓国女子囲碁リーグ優勝決定戦第1戦 | Kim Eunseon | Kang Dajeong | Lose | B+R | 6.5 | 2657 | -31 | 
 | 2021-09-18 | 第7回韓国女子囲碁リーグプレーオフ第2戦 | Kang Dajeong | Cho Seungah | Lose | W+R | 6.5 | 2688 | -2 | 
 | 2021-09-17 | 第7回韓国女子囲碁リーグプレーオフ第1戦 |  | Kang Dajeong | Win | W+R | 6.5 | 2690 | -44 | 
 | 2021-08-26 | 第7回韓国女子囲碁リーグ | Oh Yujin | Kang Dajeong | Lose | B+R | 6.5 | 2734 | -6 | 

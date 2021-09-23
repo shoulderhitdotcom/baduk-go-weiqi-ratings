@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第14回中国全国運動会囲碁女子個人公開組 | Wang Yubo | Chen Yiming | Win | B+R | 7.5 | 2913 | 0 | 
+| 2021-09-23 | 第14回中国全国運動会囲碁女子個人公開組 | Wang Yubo | Rui Naiwei | Win | B+¾ | 7.5 | 2913 | 36 | 
 | 2021-09-22 | 第14回中国全国運動会囲碁女子個人公開組第5戦 | Chen Yiming | Wang Yubo | Lose | B+R | 7.5 | 2877 | -7 | 
 | 2021-09-01 | 第12期中国竜星戦予選 | Song Ronghui | Wang Yubo | Lose | B+R | 7.5 | 2884 | -20 | 
 | 2021-08-27 | 第12期中国竜星戦予選 |  | Wang Yubo | Win | W+R | 7.5 | 2904 | -31 | 

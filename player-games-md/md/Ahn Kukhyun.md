@@ -5,245 +5,248 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第4期韓国竜星戦予選 | Ahn Kukhyun | Ryu Minhyung | W+R | 2021-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SlEdaTGBff%2BEu4ie2bD%2FQA%3D%3D) | 
-| 第24期GSカルテックス杯24強戦 | Ahn Kukhyun | Kang Seungmin | W+R | 2019-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uZpjzoCR9u6TzgoMFsYhFg%3D%3D) | 
-| 第23回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Ahn Kukhyun | Ke Jie | W+5.5 | 2018-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xALf%2FGc5H9cCTChBV%2BoZ1w%3D%3D) | 
-| 第23回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Ahn Kukhyun | Ke Jie | W+R | 2018-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xb2iz0yWSNGOz7HbLhWvCA%3D%3D) | 
-| 第23回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Ke Jie | Ahn Kukhyun | W+R | 2018-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qFhyuncT09%2BmfcEKUPoP7Q%3D%3D) | 
-| 第23回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Ahn Kukhyun | Tang Weixing | B+R | 2018-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r8ZjBlvKht5ecR%2FC8zOKBA%3D%3D) | 
-| 第23回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Tang Weixing | Ahn Kukhyun | W+R | 2018-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=loqimrDaKlxNneCuZd5Bfw%3D%3D) | 
-| 第20回農心辛ラーメン杯世界囲碁最強戦第1戦 | Shibano Toramaru | Ahn Kukhyun | B+R | 2018-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K6Rf8rt16WWEVkuwAdJiCQ%3D%3D) | 
-| 2018年韓国囲碁リーグ第14節 | Ahn Kukhyun | Kim Myounghoon | W+R | 2018-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S3c1RA5ILZVvzELv%2F3pSlw%3D%3D) | 
-| 第23回三星火災杯世界囲碁マスターズ3回戦 | Ahn Kukhyun | Lian Xiao | B+R | 2018-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ITwdFULqr9pENxxqejtuPg%3D%3D) | 
-| 第23回三星火災杯世界囲碁マスターズ2回戦 | Yang Dingxin | Ahn Kukhyun | W+0.5 | 2018-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L3SdADUo9zoU5ZMV26gd0Q%3D%3D) | 
-| 2018年韓国囲碁リーグ第13節 | Cho Hanseung | Ahn Kukhyun | B+R | 2018-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YTPTMfo99H0xUj%2F%2F%2FE%2Fbog%3D%3D) | 
-| 2018年韓国囲碁リーグ第12節 | Choi Jaeyoung | Ahn Kukhyun | W+1.5 | 2018-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C7OMhX%2FkANm%2FXHw%2BPg%2F%2FDA%3D%3D) | 
-| 2018年韓国囲碁リーグ第11節 | Ahn Kukhyun | Ryu Minhyung | W+1.5 | 2018-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hoDUnaukyviceaOpaa4Law%3D%3D) | 
-| 第23回三星火災杯世界囲碁マスターズ1回戦C2 | Ahn Kukhyun | Tong Mengcheng | B+R | 2018-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xx2BbKAlQzRrInhD6Quu1g%3D%3D) | 
-| 第23回三星火災杯世界囲碁マスターズ1回戦C1 | Ahn Kukhyun | Chen Zijian | B+R | 2018-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kn8Imv8R5MnWg5xoTAxClA%3D%3D) | 
-| 2018年韓国囲碁リーグ第10節 | Paek Hongseok | Ahn Kukhyun | W+R | 2018-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AmcwIGAh%2Fns7EtV7RQKXIg%3D%3D) | 
-| 2018年韓国囲碁リーグ第9節 | Park Geunho | Ahn Kukhyun | W+R | 2018-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dvx%2BRZrF0F5kv3DpHarK%2BA%3D%3D) | 
-| 2018年韓国囲碁リーグ第8節 | Ahn Kukhyun | Na Hyun | W+R | 2018-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v4PDVLtJ%2Fpj66ppqo%2BDl8g%3D%3D) | 
-| 2018年韓国囲碁リーグ第7節 | Park Jinsol | Ahn Kukhyun | W+R | 2018-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e8ujmKHS1T5bWW2aZtOvPQ%3D%3D) | 
-| 2018年韓国囲碁リーグ第6節 | Ahn Kukhyun | Cho Hanseung | B+1.5 | 2018-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FCY%2BnDJT35l%2Bb6EBRUN7nw%3D%3D) | 
-| 第20回農心杯韓国選抜戦 | Ahn Kukhyun | Lee Jihyun | B+R | 2018-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y5VH%2FDqqLCi4vUA4P1o%2Bug%3D%3D) | 
-| 2018年韓国囲碁リーグ第5節 | Ahn Kukhyun | Park Junghwan | W+1.5 | 2018-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ALGvbj1ECHJ56FcagmBoaw%3D%3D) | 
-| 第20回農心杯韓国選抜戦 | Kim Seongjae | Ahn Kukhyun | W+R | 2018-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VB2uRDG82f4dGCCLfazdig%3D%3D) | 
-| 2018年韓国囲碁リーグ第4節 | Ahn Kukhyun | Park Minkyu | W+4.5 | 2018-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h06OnTkLxzpRE6qs%2BBMffA%3D%3D) | 
-| 2018年韓国囲碁リーグ第3節 | missing | Ahn Kukhyun | W+R | 2018-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pO1g4e%2B5iC5gLLaQoU0WcQ%3D%3D) | 
-| 2018年韓国囲碁リーグ第2節 | Ahn Kukhyun | Heo Yongho | B+0.5 | 2018-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BJ0V6YxHbi04VzALCVr1Rg%3D%3D) | 
-| 2018年中国囲碁乙級リーグ | Shibano Toramaru | Ahn Kukhyun | W+R | 2018-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=srrPGwYPnm0gxXwc77RlCg%3D%3D) | 
-| 2018年中国囲碁乙級リーグ | Ahn Kukhyun | Seol Hyunjun | W+¼ | 2018-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xUINxPkhX93KJqDwFI53bw%3D%3D) | 
-| 2018年中国囲碁乙級リーグ | missing | Ahn Kukhyun | W+R | 2018-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HVe8XNk1k90Nr1oyzq4sPA%3D%3D) | 
-| 2018年中国囲碁乙級リーグ | Ahn Kukhyun | missing | W+R | 2018-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zJ1tVnEWooijsFGGXM6FVg%3D%3D) | 
-| 2018年中国囲碁乙級リーグ | missing | Ahn Kukhyun | W+R | 2018-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wm2QNm08TYrqcnL4fAPQaw%3D%3D) | 
-| 第37回KBS杯囲碁王戦32強戦 | Ahn Kukhyun | Ryu Suhang | W+0.5 | 2018-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ddiT7bqUkCe2yHFX85j9fQ%3D%3D) | 
-| 第5回国手山脈杯韓国選抜戦 | Lee Yeongkyu | Ahn Kukhyun | B+R | 2018-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FwtSpVEZsH%2Bc4k5r%2FTsHnw%3D%3D) | 
-| 第23期GSカルテックス杯プロ棋戦8強戦 | Ahn Kukhyun | Yun Junsang | W+R | 2018-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jJ8st2N3WAuPqSiTzmYdpQ%3D%3D) | 
-| 第23回LG杯予選2回戦 | Ahn Kukhyun | Nakamura Shinya | B+R | 2018-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FOi7aBj%2FES%2F6raYo7HuS5g%3D%3D) | 
-| 第23期GSカルテックス杯プロ棋戦16強戦 | Ahn Kukhyun | Choi Jaeyoung | B+R | 2018-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DplcORfOXuh1jvqzkWhxuw%3D%3D) | 
-| 韓国ナショナルチームリーグ戦 | Park Hamin | Ahn Kukhyun | W+R | 2018-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BzdJgFH18FtqkKPGhcWcTA%3D%3D) | 
-| 第12回春蘭杯韓国予選 | Ahn Kukhyun | Na Hyun | W+R | 2018-02-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MrgB50WrhNiso5z0ESjfGQ%3D%3D) | 
-| 韓国ナショナルチームリーグ戦 | Ahn Kukhyun | Hong Seongji | W+R | 2018-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O4JBgIzeDbkRWNh1bgovyA%3D%3D) | 
-| 第22回三星火災杯世界囲碁マスターズ準決勝三番勝負第3局 | Ahn Kukhyun | Tang Weixing | W+R | 2017-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CU4d0ihtM3tHCV1faFYaNA%3D%3D) | 
-| 第22回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Ahn Kukhyun | Tang Weixing | W+R | 2017-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zvlu3%2Fq%2Fa1WzxPxt6bDmoA%3D%3D) | 
-| 第22回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Tang Weixing | Ahn Kukhyun | W+R | 2017-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CAGpZT8gKIgIurh05j9j2A%3D%3D) | 
-| 2017年韓国囲碁リーグ | Ahn Kukhyun | Lee Jihyun | W+R | 2017-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qL%2FASuG%2FIV9jLwyVDZmlnw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Kim Jiseok | Ahn Kukhyun | B+R | 2017-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rEmjASMMfbuPi8kNA1C0FQ%3D%3D) | 
-| 2017年韓国囲碁リーグ | Ryu Suhang | Ahn Kukhyun | B+R | 2017-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2igSPUMJGSilDxomzurV7A%3D%3D) | 
-| 2017年韓国囲碁リーグ | An Sungjoon | Ahn Kukhyun | B+R | 2017-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QvFcf8Wy15HadJ%2BLlWTBQA%3D%3D) | 
-| 2017年韓国囲碁リーグ | Ahn Kukhyun | Han Seungjoo | W+R | 2017-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GRbFgfcmotln2lOuSDGLJg%3D%3D) | 
-| 第22回三星火災杯世界囲碁マスターズ3回戦 | Tuo Jiaxi | Ahn Kukhyun | W+R | 2017-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LBiv9QxW%2F50zL4z1jN9Cjg%3D%3D) | 
-| 第22回三星火災杯世界囲碁マスターズ2回戦 | Ahn Kukhyun | Chen Yaoye | B+0.5 | 2017-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nl77JL8gZh70r2RmgyeF1g%3D%3D) | 
-| 2017年韓国囲碁リーグ | Ahn Kukhyun | Shen Zaiyi | B+R | 2017-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dew0LLsP3q1it%2FJqLVflxw%3D%3D) | 
-| 第22回三星火災杯世界囲碁マスターズ1回戦F2 | Komatsu Hideki | Ahn Kukhyun | W+R | 2017-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fw3rPWxDxguKfEsA7%2Fz7Jw%3D%3D) | 
-| 第22回三星火災杯世界囲碁マスターズ1回戦F1 | Chen Yaoye | Ahn Kukhyun | W+7.5 | 2017-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uJvuIArRwimdUHxXXQ9rsg%3D%3D) | 
-| 2017年韓国囲碁リーグ | Na Hyun | Ahn Kukhyun | B+R | 2017-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dz8vnzUdqhz9R05eXhE2rA%3D%3D) | 
-| 2017年韓国囲碁リーグ | Choi Jaeyoung | Ahn Kukhyun | W+R | 2017-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hzctorj3a0FT87Zu8arYCQ%3D%3D) | 
-| 2017年韓国囲碁リーグ | Lee Changseok | Ahn Kukhyun | W+1.5 | 2017-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mYP3Ui7clGtTi1Czpbghhw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Kim Kiyoung | Ahn Kukhyun | W+R | 2017-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8EC90AZWpcno5tdCVvTasw%3D%3D) | 
-| 韓国国家隊循環戦 | An Sungjoon | Ahn Kukhyun | B+R | 2017-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=spSoUvdJZEns9N0vfPDUZQ%3D%3D) | 
-| 2017年韓国囲碁リーグ | Kang Dongyun | Ahn Kukhyun | B+R | 2017-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P5PESPT%2Bq2Em1iYOzSL9Aw%3D%3D) | 
-| 2017年韓国囲碁リーグ | An Sungjoon | Ahn Kukhyun | W+2.5 | 2017-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5riHAICesI9cD%2FBd5hM5gw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Ahn Kukhyun | Han Seungjoo | B+1.5 | 2017-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jZySMfnSZJIk50w2MVn1hw%3D%3D) | 
-| 第19回農心杯韓国選抜戦 | Ahn Kukhyun | Park Jinsol | W+R | 2017-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jP2umBpR0MErP56YtT%2BeZQ%3D%3D) | 
-| 第3回夢百合杯世界オープン戦1回戦 | Ahn Kukhyun | Guo Yuzheng | W+R | 2017-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g37QZrgs0I8YFCIPX15erQ%3D%3D) | 
-| 2017年韓国囲碁リーグ | Lee Sedol | Ahn Kukhyun | B+R | 2017-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zknVBcs0m7X1ne%2BWCS4wqg%3D%3D) | 
-| 2017年韓国囲碁リーグ | Na Hyun | Ahn Kukhyun | B+R | 2017-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5qCOGWJjgfknSuPA%2B4r%2FBw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Ahn Kukhyun | Kim Seongjae | W+R | 2017-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IL1d226jXyJ6Q644DhdkSQ%3D%3D) | 
-| 第22期GSカルテックス杯プロ棋戦決勝五番勝負第5局 | Kim Jiseok | Ahn Kukhyun | W+1.5 | 2017-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nz2Cf%2FEKw3wQIe43i948%2BA%3D%3D) | 
-| 第22期GSカルテックス杯プロ棋戦決勝五番勝負第4局 | Ahn Kukhyun | Kim Jiseok | B+0.5 | 2017-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b8qadsSreF5p7qYLeVppJQ%3D%3D) | 
-| 第22期GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Kim Jiseok | Ahn Kukhyun | B+R | 2017-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7VqzlC2cUVGh%2BTwUd9RYPg%3D%3D) | 
-| 第22期GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Ahn Kukhyun | Kim Jiseok | W+R | 2017-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fXs1xVhjIrfrFgKrLBnONA%3D%3D) | 
-| 第22期GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Kim Jiseok | Ahn Kukhyun | W+R | 2017-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mAD8YIEep5ajo1tHU8Q8fQ%3D%3D) | 
-| 第22期GSカルテックス杯プロ棋戦準決勝 | Ahn Kukhyun | Shin Minjun | B+1.5 | 2017-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sDZS5h1vdvoT5zRXupwuHw%3D%3D) | 
-| 第22期GSカルテックス杯プロ棋戦8強戦 | An Joyeong | Ahn Kukhyun | W+R | 2017-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C6cyBOU9rWk6k9kUNfhUZQ%3D%3D) | 
-| 世界第三期Mlily夢百合杯予選決勝 | Ahn Kukhyun | Wu Guangya | B+R | 2017-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ns67lSidijjBFXQpoIQ5gw%3D%3D) | 
-| 第36回KBS杯囲碁王戦32強戦 | You Byungyong | Ahn Kukhyun | W+1.5 | 2017-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=euhGS9ilnMdQXSBvQqW1Jg%3D%3D) | 
-| 第22期GSカルテックス杯プロ棋戦16強戦 | Ahn Kukhyun | Lee Yeongkyu | B+R | 2017-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5emTvWDmm%2FmJmi52%2FODSyg%3D%3D) | 
-| 第22期GSカルテックス杯プロ棋戦24強戦 | Seol Hyunjun | Ahn Kukhyun | W+R | 2017-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=njap9WNlSBnilkOsTTrnnQ%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦1回戦 | Ke Jie | Ahn Kukhyun | B+R | 2016-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4IbeV5pbzmxR5M7ru7aUQQ%3D%3D) | 
-| 2016年韓国囲碁リーグ | Ahn Kukhyun | Lee Taehyun | B+R | 2016-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hz9s%2FWJsj9rEm5C6fSwYjQ%3D%3D) | 
-| 2016年韓国囲碁リーグ | Ahn Kukhyun | Ryu Suhang | W+R | 2016-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pYvzcQuCqcIFfgO4cTn8XA%3D%3D) | 
-| 2016年韓国囲碁リーグ | Ryu Minhyung | Ahn Kukhyun | B+R | 2016-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R34gVF0TuOf0OcHZ5pkDPg%3D%3D) | 
-| 2016年韓国囲碁リーグ | An Joyeong | Ahn Kukhyun | W+R | 2016-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xIoBzH3tOQ8gMZAKswtsrw%3D%3D) | 
-| 2016年韓国囲碁リーグ第14節 | Park Minkyu | Ahn Kukhyun | W+R | 2016-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2%2BiKOOPoTkLp9ywtz860mw%3D%3D) | 
-| 2016年韓国囲碁リーグ第13節 | Ahn Kukhyun | Shin Jinseo | W+R | 2016-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sFIoa1TxpbXdkctXBWKNRQ%3D%3D) | 
-| 2016年韓国囲碁リーグ第11節 | Choi Jaeyoung | Ahn Kukhyun | W+R | 2016-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x8YDH4gZeapBbO8n6I7ahw%3D%3D) | 
-| 2016年韓国囲碁リーグ第10節 | Ahn Kukhyun | Mok Jinseok | B+0.5 | 2016-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Lu1Kmn%2FRxWlqcEoy6ifBw%3D%3D) | 
-| 2016年韓国囲碁リーグ第9節 | Lee Taehyun | Ahn Kukhyun | W+R | 2016-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ICLYIpNQbbH6T0qrpDvHFQ%3D%3D) | 
-| 2016年韓国囲碁リーグ第7節 | Lee Jihyun | Ahn Kukhyun | B+R | 2016-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0eBsQp0chrzsebQPrPMo1w%3D%3D) | 
-| 第21回三星火災杯統合予選準決勝 | Wang Haoyang | Ahn Kukhyun | B+R | 2016-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DP83l1HbhaF2yB%2FN6YTk%2FQ%3D%3D) | 
-| 第18回農心杯韓国選抜戦 | Lee Youngjoo | Ahn Kukhyun | W+R | 2016-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YkVu%2BPK7LhOunr7D1yCQxA%3D%3D) | 
-| 2016年韓国囲碁リーグ第6節 | An Joyeong | Ahn Kukhyun | B+R | 2016-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rt8hsn1dEkyM1lmiL9H2QQ%3D%3D) | 
-| 第3回百霊杯世界オープン戦1回戦 | Tang Yi | Ahn Kukhyun | B+R | 2016-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ds%2FC9yGHlpMCkeuOAXVrlg%3D%3D) | 
-| 2016年中国囲碁乙級リーグ | Ahn Kukhyun | Lee Sedol | W+R | 2016-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LAFTVbTRTknFJsDbA7lspQ%3D%3D) | 
-| 2016年中国囲碁乙級リーグ | Xie He | Ahn Kukhyun | B+3.5 | 2016-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wBXU9sEWw%2Fog2XvxrDm%2BXg%3D%3D) | 
-| 2016年韓国囲碁リーグ第2節 | Ahn Kukhyun | Choi Jaeyoung | W+2.5 | 2016-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bInn2iweqlh3G%2BSX7eFwsw%3D%3D) | 
-| 2016年韓国囲碁リーグ第1節 | Mok Jinseok | Ahn Kukhyun | B+R | 2016-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B67uaElMoeO3M4a9cXDvJw%3D%3D) | 
-| 第21回LG杯予選 | Choi Jeong | Ahn Kukhyun | B+R | 2016-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xe78%2B2urVfIDGLRyi5HVCA%3D%3D) | 
-| 第2回おかげ杯国際精鋭囲碁対抗戦決勝 | Ahn Kukhyun | Yu Zhengqi | B+R | 2015-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JQAX1Ue4Omv0LayVJcNMWg%3D%3D) | 
-| 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yang Dingxin | Ahn Kukhyun | B+R | 2015-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fFjjHK%2FNb2bFNiVirckfTw%3D%3D) | 
-| 第2回おかげ杯国際精鋭囲碁対抗戦第2戦 | Lin Lixiang | Ahn Kukhyun | W+R | 2015-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W9gnsbCFuONtb6%2Fyr8CoLQ%3D%3D) | 
-| 2015年レッツランパーク杯オープントーナメント1回戦 | Jin Siyoung | Ahn Kukhyun | B+R | 2015-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rbKM022UvCjl9Y41HfmjhQ%3D%3D) | 
-| 2015年韓国囲碁リーグ | Ahn Kukhyun | Park Cheongsang | B+3.5 | 2015-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MiYI3wWl9I9j1%2BQ5S%2FuCsQ%3D%3D) | 
-| 第43期名人戦（韓国）1回戦 | Park Jinsol | Ahn Kukhyun | B+R | 2015-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jj%2FdCUzXIDzilr3UMWmgew%3D%3D) | 
-| 2015年韓国囲碁リーグ | Ahn Kukhyun | Kim Jiseok | W+R | 2015-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Awk9clZRQ%2FDrdEGv2ABgQg%3D%3D) | 
-| 第43期名人戦（韓国）予選 | Ahn Kukhyun | Park Jaekeun | B+R | 2015-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a0eJACKEFulOKl1YRB0%2BZA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Ahn Kukhyun | Lee Jihyun | B+R | 2015-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ra2nkFRF5XK8brWGBuLGBQ%3D%3D) | 
-| 2015年韓国囲碁リーグ | missing | Ahn Kukhyun | W+R | 2015-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cdr%2BkQPY3Xm%2BYNCrn5BqvA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Ahn Kukhyun | Kang Yootaek | W+R | 2015-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yxb0USNGIxsaFK4dfa6%2FIw%3D%3D) | 
-| 2015年韓国囲碁リーグ | Ahn Kukhyun | Byun Sangil | B+R | 2015-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gDjQbXn4dLFN84WLz7LRmQ%3D%3D) | 
-| 第17回農心杯韓国選抜戦 | Ahn Kukhyun | Choi Cheolhan | W+R | 2015-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tZK4qt6sIZVgbUcF5hMORQ%3D%3D) | 
-| 第17回農心杯韓国選抜戦 | Ahn Kukhyun | Park Yeonghun | B+0.5 | 2015-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0H0WXF2L7wK2HK3a%2F8vsug%3D%3D) | 
-| 2015年韓国囲碁リーグ | Ahn Kukhyun | An Sungjoon | B+R | 2015-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9NBvZWCZ3Jig7mnUB9%2BNuA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Ahn Kukhyun | Lee Hobum | W+R | 2015-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jP3iepYtaru5tNmN08OTsQ%3D%3D) | 
-| 2015年韓国囲碁リーグ | Ahn Kukhyun | Park Cheongsang | B+R | 2015-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ANnDKVpWElX4xiOK95xIWg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Ahn Kukhyun | missing | B+R | 2015-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oehlp7m84Vba0Vw4ikTf0g%3D%3D) | 
-| 2015年韓国囲碁リーグ | Ahn Kukhyun | Shin Jinseo | W+R | 2015-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6Y0uPRsZfwa9%2F6QdVA94%2Bw%3D%3D) | 
-| 第2回夢百合杯世界オープン戦予選 | Li Qincheng | Ahn Kukhyun | B+R | 2015-05-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fb6pkYyKVp%2B1YDuNNoIVcQ%3D%3D) | 
-| 2015年中国囲碁乙級リーグ | Zhu Yuanhao | Ahn Kukhyun | B+R | 2015-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BET9q%2FhqFEcSjOdhW%2F0Cog%3D%3D) | 
-| 2015年中国囲碁乙級リーグ | Rong Yi | Ahn Kukhyun | W+R | 2015-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9cqQngpFIqLozuJ02UeFqg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kang Yootaek | Ahn Kukhyun | B+R | 2015-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5UTWN3TxUsxfrpv1Cm4Qxw%3D%3D) | 
-| 2015年韓国囲碁リーグ | Ahn Kukhyun | Na Hyun | W+R | 2015-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kj1EdvUg8MUXIubQkSl9kA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Sedong | Ahn Kukhyun | W+2.5 | 2015-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=luUVz23z%2Fz0B%2Bg8FSDYQlA%3D%3D) | 
-| 第20回LG杯予選 | Ahn Kukhyun | Shi Yue | W+R | 2015-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cDVoy9bptycX2AqYqGPb7Q%3D%3D) | 
-| 第20回LG杯予選 | Ahn Kukhyun | missing | B+4.5 | 2015-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=okkI37klkOC9bY3O7DMiuA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Shin Jinseo | Ahn Kukhyun | B+R | 2014-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UnnB2LYjl8UjWng4ZiCgFg%3D%3D) | 
-| 2014年韓国囲碁リーグ | Ahn Kukhyun | Kim Sonjin | B+R | 2014-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cffEqGqoc6G4q6%2BNIhBMTA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Ahn Kukhyun | Lee Taehyun | B+R | 2014-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mel2HZiRnjLYG5SosDo1ig%3D%3D) | 
-| 第58期国手戦（韓国）1回戦 | Ahn Kukhyun | Kim Jiseok | W+R | 2014-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gsYktKtTQoRDT49SDDZh%2Bw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Ahn Kukhyun | Kim Junghyun | B+R | 2014-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y%2BeuB2vt05apVq1WiV12Vg%3D%3D) | 
-| 第2回百霊杯世界オープン戦準決勝第3局 | Ahn Kukhyun | Qiu Jun | W+R | 2014-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B78GAtZOPVJDa%2BDNrxJCfg%3D%3D) | 
-| 第2回百霊杯世界オープン戦準決勝第2局 | Qiu Jun | Ahn Kukhyun | B+R | 2014-09-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8e3j4Uv8zHrzaROVg4eSfA%3D%3D) | 
-| 第2回百霊杯世界オープン戦準決勝第1局 | Ahn Kukhyun | Qiu Jun | B+5.5 | 2014-09-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PzlpOmWFhI%2FW0pZG85jRjw%3D%3D) | 
-| 第2回百霊杯世界オープン戦4回戦 | Jiang Weijie | Ahn Kukhyun | W+R | 2014-09-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uGYtCGRyrsqAlhyaU3cwPw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Han Wonggyu | Ahn Kukhyun | B+R | 2014-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=skO6tSQBK5jhQiW5ro4x4g%3D%3D) | 
-| 2014年レッツランパーク杯オープントーナメント2回戦 | Ahn Kukhyun | missing | W+2.5 | 2014-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dQQf4BihAEvvYgLAWZsJlA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Lee Hobum | Ahn Kukhyun | W+R | 2014-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FFH7sRUtNlEOfRWnD0S8EQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Lee Donghoon | Ahn Kukhyun | W+R | 2014-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XkJ%2FYfLcARQR1hCcyhxjmg%3D%3D) | 
-| 2014年レッツランパーク杯オープントーナメント1回戦 | Cho Hanseung | Ahn Kukhyun | W+R | 2014-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JpjyX8lBb43PqVK8V7yXkw%3D%3D) | 
-| 第2回百霊杯世界オープン戦3回戦 | Wang Xi | Ahn Kukhyun | W+R | 2014-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9wrfWs9LehQvb%2FTAuNLXDQ%3D%3D) | 
-| 第2回百霊杯世界オープン戦2回戦 | Ahn Kukhyun | Li Kang | B+1.5 | 2014-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qBxLxDBX9j8uDPzDa9C0qA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Ahn Kukhyun | Kang Seungmin | B+R | 2014-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WEWTrk9prrmM83rmmqQlaw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Ahn Kukhyun | Choi Cheolhan | W+R | 2014-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tN4gpLNDiaXFttlVVUo1iQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Lee Taehyun | Ahn Kukhyun | W+1.5 | 2014-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JDcRzFwOx7iDUBqIA1IYXg%3D%3D) | 
-| 第19回LG杯朝鮮日報棋王戦1回戦 | Xie Erhao | Ahn Kukhyun | B+3.5 | 2014-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z5gdnEPqezqClgpwcQp7oQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Lee Wonyoung | Ahn Kukhyun | B+1.5 | 2014-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rcsICQ1gzYqkFwhFFbEocA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Ahn Kukhyun | Park Yeonghun | W+R | 2014-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C%2FMdlnLuCiSl4pei3%2FhGJw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Ahn Kukhyun | missing | B+R | 2014-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2MakPPoy0%2FbJYQuR6lv1tw%3D%3D) | 
-| 第19回LG杯予選 | Gu Li | Ahn Kukhyun | W+R | 2014-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8zo1xHec4E%2BL6K3twbXSkA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Ahn Kukhyun | An Joyeong | W+0.5 | 2014-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RyNlL5h3sfUhoXi0q1I2tg%3D%3D) | 
-| 第2回百霊杯世界オープン戦1回戦 | Shin Jinseo | Ahn Kukhyun | W+R | 2014-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZwAnDkZZyla01yK78dRqnQ%3D%3D) | 
-| 2013年韓国囲碁リーグ | Ahn Kukhyun | On Sojin | B+R | 2013-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BytvZ4yzBHsNWthfNoc8Gw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Ahn Kukhyun | Lee Sedol | W+R | 2013-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pZysDMhPhGj7yT%2BnQubDsA%3D%3D) | 
-| 2013年韓国囲碁リーグ | Ahn Kukhyun | Park Seunghwa | B+R | 2013-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pmx5d5W1VnMio68FpU6whA%3D%3D) | 
-| 第4期Olleh杯オープン選手権4回戦 | Ahn Kukhyun | Lee Sedol | W+R | 2013-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hTJVUbDDWkDgsMVXrJdCMg%3D%3D) | 
-| 2013年韓国囲碁リーグ | missing | Ahn Kukhyun | B+R | 2013-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FppJ8obvCcypWelp5uFA%2Bw%3D%3D) | 
-| 第18期バッカス杯天元戦2回戦 | Choi Cheolhan | Ahn Kukhyun | B+R | 2013-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q2SvfeuH348UU3r7Cjyr6g%3D%3D) | 
-| 2013年韓国囲碁リーグ | Ahn Kukhyun | Na Hyun | W+R | 2013-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bFb%2BS202Iu%2BT300PH9dJnQ%3D%3D) | 
-| 第4期Olleh杯オープン選手権3回戦 | Ahn Kukhyun | Na Hyun | B+R | 2013-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j4%2B%2F0RoDsZm66vWahynqUw%3D%3D) | 
-| 第18回三星火災杯統合予選準決勝 | Ahn Kukhyun | Zhang Tao | W+R | 2013-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Nq6%2F%2BcZMsGSz3QHzi9Q2w%3D%3D) | 
-| 2013年韓国囲碁リーグ | Cho Insun | Ahn Kukhyun | W+R | 2013-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TDEwo5TrpWRuVD5lVh5nkg%3D%3D) | 
-| 第18期バッカス杯天元戦1回戦 | Lee Yeongkyu | Ahn Kukhyun | W+4.5 | 2013-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=otaq6S4iAWeKaGz8DAJqNQ%3D%3D) | 
-| 2013年韓国囲碁リーグ | Lee Hobum | Ahn Kukhyun | B+R | 2013-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kOFzzBjGUHrHKEnzwDwH7Q%3D%3D) | 
-| 2013年中国囲碁乙級リーグ | Kim Seongjae | Ahn Kukhyun | B+R | 2013-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H8w5%2BzBX%2BeZ2FY9%2ByZNZnA%3D%3D) | 
-| 2013年韓国囲碁リーグ | Han Sanghoon | Ahn Kukhyun | B+0.5 | 2013-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vxL0dqqBu2jzuC%2BCzmIzyA%3D%3D) | 
-| 2013年韓国囲碁リーグ | Ahn Kukhyun | Kim Hyeongwoo | B+R | 2013-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ay%2BrDyLnYW%2BZfvrbGKrz%2Bw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Ahn Kukhyun | Na Hyun | B+R | 2013-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AbKG93OAwvesCQml5YoP6w%3D%3D) | 
-| 2013年韓国囲碁リーグ | Ahn Kukhyun | Shin Minjun | B+R | 2013-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z6A8atqA5stD1VQ%2F8i%2FVVA%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ2回戦 | Ahn Kukhyun | Gu Li | W+R | 2012-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wPBc1JyDBZY50HApt%2FsOxw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Younglong | Ahn Kukhyun | W+R | 2012-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i9t%2BDOV%2BX835irXxeOSaqA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Ahn Kukhyun | missing | B+R | 2012-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jOKErar2Gs9VH1zgWqw%2Fiw%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ1回戦H3 | Ahn Kukhyun | Xie He | B+R | 2012-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iGTmeK9Gz7taA7HIDa6saw%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ1回戦H2 | Yoo Changhyuk | Ahn Kukhyun | W+R | 2012-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WqN42UObHTmm5zzcuhmvtQ%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ1回戦H1 | Ahn Kukhyun | Xie He | W+R | 2012-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ba4kG1KgAw4Lrh62S0qnsA%3D%3D) | 
-| 2012年韓国囲碁リーグ | On Sojin | Ahn Kukhyun | W+R | 2012-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ckF4xVQK8qCZddo6wHXB%2FA%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権2回戦 | Ahn Kukhyun | Park Junghwan | W+R | 2012-08-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vlil8YBKTy%2BXgx4J%2Bnmncw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Ahn Kukhyun | Ryu Suhang | B+R | 2012-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bb8Pv3eozrM1tZf9e0DRYw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Hong Kipyo | Ahn Kukhyun | W+1.5 | 2012-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yN2mwOcQB2H7f5g4sSQjKA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Ahn Kukhyun | Paek Hongseok | W+2.5 | 2012-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Om9wytBATN4OFv%2FPuvGIkw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Ahn Kukhyun | Kim Jiseok | W+R | 2012-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sALY95DWl5VObfEeqK6AMw%3D%3D) | 
-| 2012年韓国囲碁リーグ | missing | Ahn Kukhyun | W+R | 2012-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=022NbHPx%2FXqrozKuCGAMig%3D%3D) | 
-| 2012年韓国囲碁リーグ | Kim Junghyun | Ahn Kukhyun | B+R | 2012-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JlmA%2F%2B4CjqXoNQYDn6mRxw%3D%3D) | 
-| 第8期物価情報杯プロ棋戦リーグA | Kim Seongjae | Ahn Kukhyun | B+1.5 | 2012-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M3i7otZeTtUOG939OXiMBA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Hong Seongji | Ahn Kukhyun | B+R | 2012-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fn2%2FcPllTFbl%2BVsleoZ%2FXA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Yeonghun | Ahn Kukhyun | B+1.5 | 2012-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LOlgPr%2B1%2FIoc%2FhwuwsTibg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Chungyu | Ahn Kukhyun | B+R | 2012-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ss3I53KCEt8OWOykrHVqPw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Ahn Kukhyun | Min Sangyoun | W+R | 2012-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ek1P5njv%2FcEJ3Vtl4CYVBw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Ahn Kukhyun | Lee Sedol | W+R | 2012-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tMTdq%2FJ%2FDc2D3a0gNaIX2Q%3D%3D) | 
-| 第17回LG杯予選 | Li Xuanhao | Ahn Kukhyun | B+R | 2012-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M%2F6%2FIDV2EVuxqjPZOgSJHQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Donghoon | Ahn Kukhyun | B+R | 2012-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hGGmAxrF2rypMFxYX9iwQQ%3D%3D) | 
-| 第17回LG杯予選 | Fujisawa Rina | Ahn Kukhyun | W+R | 2012-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QEnKdDTZwrIE8QIxz0GfKw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Ahn Kukhyun | Lee Jungwoo | B+3.5 | 2012-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hc4LzReH86ddyLp%2Bm37IuA%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権1回戦 | Byun Sangil | Ahn Kukhyun | W+R | 2012-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aVKmzmNMtL6yUsojSV%2FBuw%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権予選 | Wang Lei (b) | Ahn Kukhyun | W+R | 2012-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dxYTkpfSXP4xhqboNk3rTQ%3D%3D) | 
-| 第17期GSカルテックス杯プロ棋戦2回戦 | Ahn Kukhyun | Park Yeonghun | W+R | 2012-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WlJoUnMGWL6oARRRRg0%2FFg%3D%3D) | 
-| 第4回BCカード杯世界選手権1回戦 | Ahn Kukhyun | Lee Wonyoung | W+R | 2012-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NneSq4yBVusDm1cDaBRjPA%3D%3D) | 
-| 第17期GSカルテックス杯プロ棋戦1回戦 | Ahn Kukhyun | missing | B+R | 2012-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7yYgsf%2FVjC8IVi9CiXPNZg%3D%3D) | 
-| 第7期圓益杯十段戦2回戦 | Ahn Kukhyun | Kim Sedong | W+R | 2012-01-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZoHmas7OeyShqGYYAG%2F1dA%3D%3D) | 
-| 2011年韓国囲碁リーグ | Kang Dongyun | Ahn Kukhyun | B+R | 2011-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w5ZMY%2BraGy21cpbhM%2FBhbQ%3D%3D) | 
-| 2011年韓国囲碁リーグ | Na Hyun | Ahn Kukhyun | W+R | 2011-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UPi4oHMAOSCgQjWc9mea0g%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Junghwan | Ahn Kukhyun | B+R | 2011-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xVmCClVUk4Q9bNKnqxXVQA%3D%3D) | 
-| 第1期KC&A新人王戦準決勝第1局 | Kang Yootaek | Ahn Kukhyun | B+3.5 | 2011-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jS1p4MMRpBdhcinH5YdP5w%3D%3D) | 
-| 2011年韓国囲碁リーグ | Ahn Kukhyun | Kim Jiseok | W+7.5 | 2011-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ngL2cB5nAtGSDfrkn7v4dA%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Junghwan | Ahn Kukhyun | B+R | 2011-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vbuJrE%2BNY9vPuDRFoE%2FKBQ%3D%3D) | 
-| 第1期KC&A新人王戦リーグA | Lee Taehyun | Ahn Kukhyun | W+R | 2011-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YyYXQQUtSf4YNbxbLhvfbQ%3D%3D) | 
-| 第7期圓益杯十段戦1回戦 | Ahn Kukhyun | Moon Dowon | B+3.5 | 2011-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H9ZCbQKp%2BuGuEHzXm80%2FRw%3D%3D) | 
-| 第1期KC&A新人王戦リーグA | Kim Hyunsub | Ahn Kukhyun | W+4.5 | 2011-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QcrvfX5jMLKlqNMM4j7IVA%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Yeonghun | Ahn Kukhyun | B+R | 2011-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X07rx4Z%2BRTKj6YUn5pPYpg%3D%3D) | 
-| 第1期KC&A新人王戦リーグA | Lee Donghoon | Ahn Kukhyun | B+R | 2011-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nZJYbkhFbWq74w7xkjE7AA%3D%3D) | 
-| 第13回農心辛ラーメン杯世界囲碁最強戦第4戦 | Ahn Kukhyun | Tan Xiao | W+R | 2011-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ji579Z%2FFp6%2BJbt87VJcBGg%3D%3D) | 
-| 第13回農心辛ラーメン杯世界囲碁最強戦第3戦 | Sakai Hideyuki | Ahn Kukhyun | W+R | 2011-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jsfq%2FlPu284QA8CiJ7gwHA%3D%3D) | 
-| 第13回農心辛ラーメン杯世界囲碁最強戦第2戦 | Ahn Kukhyun | Zhou Ruiyang | B+3.5 | 2011-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g0D9UcHLbHbUALOMEy3F9w%3D%3D) | 
-| 2011年韓国囲碁リーグ | Lee Yeongkyu | Ahn Kukhyun | B+0.5 | 2011-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ETZ2fLZTbS4iRvp735syjQ%3D%3D) | 
-| 2011年韓国囲碁リーグ | Ahn Kukhyun | Han Wonggyu | W+R | 2011-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tE3zT7nHyY6%2Fh0%2B9%2FxtRuA%3D%3D) | 
-| 第1期KC&A新人王戦リーグA | missing | Ahn Kukhyun | W+R | 2011-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=54D4ZcDBIJ6lN2wGmGTVFA%3D%3D) | 
-| 2011年韓国囲碁リーグ | Kang Seungmin | Ahn Kukhyun | B+4.5 | 2011-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bOef2QtuTjkPRF%2FFWQUOlQ%3D%3D) | 
-| 2011年韓国囲碁リーグ | On Sojin | Ahn Kukhyun | W+10.5 | 2011-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HINAvk%2F4f7%2BG4zm9eeM5pg%3D%3D) | 
-| 第16回三星火災杯統合予選準決勝 | Ahn Kukhyun | missing | W+R | 2011-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BbCuj8xRib5ZhjVREg%2B3CA%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Seunghwa | Ahn Kukhyun | B+R | 2011-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BebWqqUQNSHeRqFiw6aXHw%3D%3D) | 
-| 第13回農心杯韓国選抜戦 | Lee Yeongkyu | Ahn Kukhyun | W+2.5 | 2011-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sjs00jMQbO8zRBChYS62fA%3D%3D) | 
-| 2011年韓国囲碁リーグ | Ko Keuntae | Ahn Kukhyun | W+R | 2011-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hFqi8nLdJn7bwppaEkE3eQ%3D%3D) | 
-| 第13回農心杯韓国選抜戦 | Jin Siyoung | Ahn Kukhyun | W+R | 2011-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Z7kDi0haMNSUT%2FBtepVWg%3D%3D) | 
-| 2011年韓国囲碁リーグ | missing | Ahn Kukhyun | W+R | 2011-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FrCwX25hfYPyuBaXTy%2BJQA%3D%3D) | 
-| 2011年韓国囲碁リーグ | Ahn Kukhyun | Lee Changho | W+R | 2011-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lDjeR404w1c46mQ7lx%2BFSQ%3D%3D) | 
-| 2011年韓国囲碁リーグ | Ahn Kukhyun | Han Sanghoon | B+R | 2011-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cef3TsPJBDyv%2FdtxwubJgQ%3D%3D) | 
-| 2011年韓国囲碁リーグ | On Sojin | Ahn Kukhyun | W+4.5 | 2011-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5zft5L%2BQ3YAcHGtTXTS2Nw%3D%3D) | 
-| 第7期物価情報杯プロ棋戦予選 | Kang Dongyun | Ahn Kukhyun | B+R | 2011-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sq%2BlB3pfdWfOupg6H2j8zg%3D%3D) | 
-| 第3回BCカード杯世界選手権1回戦 | Cho Hanseung | Ahn Kukhyun | B+R | 2011-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PWVt6e7SUG0Py1V5bswncA%3D%3D) | 
-| 第6期圓益杯十段戦予選 | Kim Junghyun | Ahn Kukhyun | B+3.5 | 2010-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WmgobIQFMuCnRl3xuUg4SQ%3D%3D) | 
-| 第38期名人戦（韓国）リーグプレーオフ | Ahn Kukhyun | Lee Changho | W+1.5 | 2010-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tvGFEyWZnmilAUpx8rRkoA%3D%3D) | 
-| 第38期名人戦（韓国）リーグA | Kang Dongyun | Ahn Kukhyun | W+R | 2010-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p1QAhwm1jLCp8uN%2FWkAGAg%3D%3D) | 
-| 第15回三星火災杯統合予選1回戦 | Ahn Kukhyun | missing | W+R | 2010-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cNgpfgVj0WqE4r5kBAcyKg%3D%3D) | 
-| 第12回農心杯韓国選抜戦 | Hong Minpyo | Ahn Kukhyun | B+R | 2010-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vXBi2Wat5lXLUcRB%2BobStA%3D%3D) | 
-| 第38期名人戦（韓国）リーグA | Ahn Kukhyun | Lee Sedol | W+R | 2010-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YfZ2tXzI65H2yVjUAQeSsA%3D%3D) | 
-| 第38期名人戦（韓国）リーグA | Ahn Kukhyun | Paek Hongseok | B+R | 2010-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CXuFBNjr9QGsnC%2FMHhgwIA%3D%3D) | 
-| 第38期名人戦（韓国）リーグA | Ahn Kukhyun | Kim Seongjae | W+4.5 | 2010-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KOKuoZTK0VnBMiN3BFvydA%3D%3D) | 
-| 第38期名人戦（韓国）リーグA | Ahn Kukhyun | Lee Changho | B+R | 2010-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NvMkh%2Fkscuux2V39W7e6Nw%3D%3D) | 
-| 第38期名人戦（韓国）予選 | Ahn Kukhyun | missing | B+R | 2010-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lrFDTz7GvTEfdOWbBKR9Gg%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第7回国手山脈国際囲碁大会韓国予選 | Ahn Kukhyun | Choi Jeong | Lose | W+R | 6.5 | 3088 | 3088 | 
+| 2021-07-20 | 第23回農心杯韓国予選 | Kim Changhoon | Ahn Kukhyun | Lose | B+R | 6.5 | missing | 0 | 
+| 2021-07-18 | 第23回農心杯韓国予選 | Park Jinsol | Ahn Kukhyun | Win | W+R | 6.5 | missing | 0 | 
+| 2021-01-28 | 第4期韓国竜星戦予選 | Ahn Kukhyun | Ryu Minhyung | Lose | W+R | 6.5 | missing | -3170 | 
+| 2019-02-15 | 第24期GSカルテックス杯24強戦 | Ahn Kukhyun | Kang Seungmin | Lose | W+R | 6.5 | 3170 | -43 | 
+| 2018-12-05 | 第23回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Ahn Kukhyun | Ke Jie | Lose | W+5.5 | 6.5 | 3213 | -5 | 
+| 2018-12-04 | 第23回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Ahn Kukhyun | Ke Jie | Lose | W+R | 6.5 | 3218 | -12 | 
+| 2018-12-03 | 第23回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Ke Jie | Ahn Kukhyun | Win | W+R | 6.5 | 3230 | 39 | 
+| 2018-11-06 | 第23回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Ahn Kukhyun | Tang Weixing | Win | B+R | 6.5 | 3191 | -10 | 
+| 2018-11-05 | 第23回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Tang Weixing | Ahn Kukhyun | Win | W+R | 6.5 | 3201 | 21 | 
+| 2018-10-16 | 第20回農心辛ラーメン杯世界囲碁最強戦第1戦 | Shibano Toramaru | Ahn Kukhyun | Lose | B+R | 6.5 | 3180 | 15 | 
+| 2018-10-06 | 2018年韓国囲碁リーグ第14節 | Ahn Kukhyun | Kim Myounghoon | Lose | W+R | 6.5 | 3165 | -17 | 
+| 2018-10-02 | 第23回三星火災杯世界囲碁マスターズ3回戦 | Ahn Kukhyun | Lian Xiao | Win | B+R | 6.5 | 3182 | 17 | 
+| 2018-10-01 | 第23回三星火災杯世界囲碁マスターズ2回戦 | Yang Dingxin | Ahn Kukhyun | Win | W+0.5 | 6.5 | 3165 | 24 | 
+| 2018-09-29 | 2018年韓国囲碁リーグ第13節 | Cho Hanseung | Ahn Kukhyun | Lose | B+R | 6.5 | 3141 | -69 | 
+| 2018-09-20 | 2018年韓国囲碁リーグ第12節 | Choi Jaeyoung | Ahn Kukhyun | Win | W+1.5 | 6.5 | 3210 | 4 | 
+| 2018-09-16 | 2018年韓国囲碁リーグ第11節 | Ahn Kukhyun | Ryu Minhyung | Lose | W+1.5 | 6.5 | 3206 | -44 | 
+| 2018-09-05 | 第23回三星火災杯世界囲碁マスターズ1回戦C2 | Ahn Kukhyun | Tong Mengcheng | Win | B+R | 6.5 | 3250 | -19 | 
+| 2018-09-04 | 第23回三星火災杯世界囲碁マスターズ1回戦C1 | Ahn Kukhyun | Chen Zijian | Win | B+R | 6.5 | 3269 | 12 | 
+| 2018-09-02 | 2018年韓国囲碁リーグ第10節 | Paek Hongseok | Ahn Kukhyun | Win | W+R | 6.5 | 3257 | 14 | 
+| 2018-08-23 | 2018年韓国囲碁リーグ第9節 | Park Geunho | Ahn Kukhyun | Win | W+R | 6.5 | 3243 | -17 | 
+| 2018-08-16 | 2018年韓国囲碁リーグ第8節 | Ahn Kukhyun | Na Hyun | Lose | W+R | 6.5 | 3260 | 12 | 
+| 2018-08-10 | 2018年韓国囲碁リーグ第7節 | Park Jinsol | Ahn Kukhyun | Win | W+R | 6.5 | 3248 | 44 | 
+| 2018-08-03 | 2018年韓国囲碁リーグ第6節 | Ahn Kukhyun | Cho Hanseung | Win | B+1.5 | 6.5 | 3204 | -1 | 
+| 2018-07-25 | 第20回農心杯韓国選抜戦 | Ahn Kukhyun | Lee Jihyun | Win | B+R | 6.5 | 3205 | 17 | 
+| 2018-07-22 | 2018年韓国囲碁リーグ第5節 | Ahn Kukhyun | Park Junghwan | Lose | W+1.5 | 6.5 | 3188 | -14 | 
+| 2018-07-19 | 第20回農心杯韓国選抜戦 | Kim Seongjae | Ahn Kukhyun | Win | W+R | 6.5 | 3202 | 4 | 
+| 2018-07-12 | 2018年韓国囲碁リーグ第4節 | Ahn Kukhyun | Park Minkyu | Lose | W+4.5 | 6.5 | 3198 | -4 | 
+| 2018-06-28 | 2018年韓国囲碁リーグ第3節 |  | Ahn Kukhyun | Win | W+R | 6.5 | 3202 | -1 | 
+| 2018-06-24 | 2018年韓国囲碁リーグ第2節 | Ahn Kukhyun | Heo Yongho | Win | B+0.5 | 6.5 | 3203 | -7 | 
+| 2018-06-19 | 2018年中国囲碁乙級リーグ | Shibano Toramaru | Ahn Kukhyun | Win | W+R | 7.5 | 3210 | 47 | 
+| 2018-06-18 | 2018年中国囲碁乙級リーグ | Ahn Kukhyun | Seol Hyunjun | Lose | W+¼ | 7.5 | 3163 | -21 | 
+| 2018-06-16 | 2018年中国囲碁乙級リーグ |  | Ahn Kukhyun | Win | W+R | 7.5 | 3184 | -5 | 
+| 2018-06-13 | 2018年中国囲碁乙級リーグ | Ahn Kukhyun |  | Lose | W+R | 7.5 | 3189 | 0 | 
+| 2018-06-13 | 2018年中国囲碁乙級リーグ |  | Ahn Kukhyun | Win | W+R | 7.5 | 3189 | -30 | 
+| 2018-05-14 | 第37回KBS杯囲碁王戦32強戦 | Ahn Kukhyun | Ryu Suhang | Lose | W+0.5 | 6.5 | 3219 | -51 | 
+| 2018-04-30 | 第5回国手山脈杯韓国選抜戦 | Lee Yeongkyu | Ahn Kukhyun | Lose | B+R | 6.5 | 3270 | -6 | 
+| 2018-04-20 | 第23期GSカルテックス杯プロ棋戦8強戦 | Ahn Kukhyun | Yun Junsang | Lose | W+R | 6.5 | 3276 | -4 | 
+| 2018-04-03 | 第23回LG杯予選2回戦 | Ahn Kukhyun | Nakamura Shinya | Win | B+R | 6.5 | 3280 | -63 | 
+| 2018-03-24 | 第23期GSカルテックス杯プロ棋戦16強戦 | Ahn Kukhyun | Choi Jaeyoung | Win | B+R | 6.5 | 3343 | -40 | 
+| 2018-03-14 | 韓国ナショナルチームリーグ戦 | Park Hamin | Ahn Kukhyun | Win | W+R | 6.5 | 3383 | 11 | 
+| 2018-02-20 | 第12回春蘭杯韓国予選 | Ahn Kukhyun | Na Hyun | Lose | W+R | 7.5 | 3372 | 1 | 
+| 2018-01-16 | 韓国ナショナルチームリーグ戦 | Ahn Kukhyun | Hong Seongji | Lose | W+R | 6.5 | 3371 | 21 | 
+| 2017-11-08 | 第22回三星火災杯世界囲碁マスターズ準決勝三番勝負第3局 | Ahn Kukhyun | Tang Weixing | Lose | W+R | 6.5 | 3350 | -6 | 
+| 2017-11-07 | 第22回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Ahn Kukhyun | Tang Weixing | Lose | W+R | 6.5 | 3356 | -9 | 
+| 2017-11-06 | 第22回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Tang Weixing | Ahn Kukhyun | Win | W+R | 6.5 | 3365 | -3 | 
+| 2017-10-28 | 2017年韓国囲碁リーグ | Ahn Kukhyun | Lee Jihyun | Lose | W+R | 6.5 | 3368 | -15 | 
+| 2017-10-20 | 2017年韓国囲碁リーグ | Kim Jiseok | Ahn Kukhyun | Lose | B+R | 6.5 | 3383 | 67 | 
+| 2017-10-12 | 2017年韓国囲碁リーグ | Ryu Suhang | Ahn Kukhyun | Lose | B+R | 6.5 | 3316 | -45 | 
+| 2017-10-08 | 2017年韓国囲碁リーグ | An Sungjoon | Ahn Kukhyun | Lose | B+R | 6.5 | 3361 | -9 | 
+| 2017-09-29 | 2017年韓国囲碁リーグ | Ahn Kukhyun | Han Seungjoo | Lose | W+R | 6.5 | 3370 | -15 | 
+| 2017-09-26 | 第22回三星火災杯世界囲碁マスターズ3回戦 | Tuo Jiaxi | Ahn Kukhyun | Win | W+R | 6.5 | 3385 | 12 | 
+| 2017-09-25 | 第22回三星火災杯世界囲碁マスターズ2回戦 | Ahn Kukhyun | Chen Yaoye | Win | B+0.5 | 6.5 | 3373 | 59 | 
+| 2017-09-15 | 2017年韓国囲碁リーグ | Ahn Kukhyun | Shen Zaiyi | Win | B+R | 6.5 | 3314 | 12 | 
+| 2017-09-06 | 第22回三星火災杯世界囲碁マスターズ1回戦F2 | Komatsu Hideki | Ahn Kukhyun | Win | W+R | 6.5 | 3302 | 2 | 
+| 2017-09-05 | 第22回三星火災杯世界囲碁マスターズ1回戦F1 | Chen Yaoye | Ahn Kukhyun | Win | W+7.5 | 6.5 | 3300 | 14 | 
+| 2017-09-03 | 2017年韓国囲碁リーグ | Na Hyun | Ahn Kukhyun | Lose | B+R | 6.5 | 3286 | -26 | 
+| 2017-08-25 | 2017年韓国囲碁リーグ | Choi Jaeyoung | Ahn Kukhyun | Win | W+R | 6.5 | 3312 | -1 | 
+| 2017-08-18 | 2017年韓国囲碁リーグ | Lee Changseok | Ahn Kukhyun | Win | W+1.5 | 6.5 | 3313 | 9 | 
+| 2017-08-12 | 2017年韓国囲碁リーグ | Kim Kiyoung | Ahn Kukhyun | Win | W+R | 6.5 | 3304 | 10 | 
+| 2017-08-06 | 韓国国家隊循環戦 | An Sungjoon | Ahn Kukhyun | Lose | B+R | 6.5 | 3294 | 0 | 
+| 2017-08-06 | 2017年韓国囲碁リーグ | Kang Dongyun | Ahn Kukhyun | Lose | B+R | 6.5 | 3294 | -4 | 
+| 2017-07-20 | 2017年韓国囲碁リーグ | An Sungjoon | Ahn Kukhyun | Win | W+2.5 | 6.5 | 3298 | 53 | 
+| 2017-07-15 | 2017年韓国囲碁リーグ | Ahn Kukhyun | Han Seungjoo | Win | B+1.5 | 6.5 | 3245 | 18 | 
+| 2017-07-07 | 第19回農心杯韓国選抜戦 | Ahn Kukhyun | Park Jinsol | Lose | W+R | 6.5 | 3227 | 13 | 
+| 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Ahn Kukhyun | Guo Yuzheng | Lose | W+R | 7.5 | 3214 | -1 | 
+| 2017-06-10 | 2017年韓国囲碁リーグ | Lee Sedol | Ahn Kukhyun | Lose | B+R | 6.5 | 3215 | 28 | 
+| 2017-06-01 | 2017年韓国囲碁リーグ | Na Hyun | Ahn Kukhyun | Lose | B+R | 6.5 | 3187 | -22 | 
+| 2017-05-20 | 2017年韓国囲碁リーグ | Ahn Kukhyun | Kim Seongjae | Lose | W+R | 6.5 | 3209 | -25 | 
+| 2017-05-06 | 第22期GSカルテックス杯プロ棋戦決勝五番勝負第5局 | Kim Jiseok | Ahn Kukhyun | Win | W+1.5 | 6.5 | 3234 | 26 | 
+| 2017-05-05 | 第22期GSカルテックス杯プロ棋戦決勝五番勝負第4局 | Ahn Kukhyun | Kim Jiseok | Win | B+0.5 | 6.5 | 3208 | 15 | 
+| 2017-05-04 | 第22期GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Kim Jiseok | Ahn Kukhyun | Lose | B+R | 6.5 | 3193 | -22 | 
+| 2017-04-28 | 第22期GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Ahn Kukhyun | Kim Jiseok | Lose | W+R | 6.5 | 3215 | -20 | 
+| 2017-04-27 | 第22期GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Kim Jiseok | Ahn Kukhyun | Win | W+R | 6.5 | 3235 | 66 | 
+| 2017-04-19 | 第22期GSカルテックス杯プロ棋戦準決勝 | Ahn Kukhyun | Shin Minjun | Win | B+1.5 | 6.5 | 3169 | 6 | 
+| 2017-04-14 | 第22期GSカルテックス杯プロ棋戦8強戦 | An Joyeong | Ahn Kukhyun | Win | W+R | 6.5 | 3163 | 21 | 
+| 2017-03-30 | 世界第三期Mlily夢百合杯予選決勝 | Ahn Kukhyun | Wu Guangya | Win | B+R | 7.5 | 3142 | 215 | 
+| 2017-02-20 | 第36回KBS杯囲碁王戦32強戦 | You Byungyong | Ahn Kukhyun | Win | W+1.5 | 6.5 | 2927 | 22 | 
+| 2017-02-17 | 第22期GSカルテックス杯プロ棋戦16強戦 | Ahn Kukhyun | Lee Yeongkyu | Win | B+R | 6.5 | 2905 | 82 | 
+| 2017-02-02 | 第22期GSカルテックス杯プロ棋戦24強戦 | Seol Hyunjun | Ahn Kukhyun | Win | W+R | 6.5 | 2823 | -39 | 
+| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Ke Jie | Ahn Kukhyun | Lose | B+R | 7.5 | 2862 | 16 | 
+| 2016-10-21 | 2016年韓国囲碁リーグ | Ahn Kukhyun | Lee Taehyun | Win | B+R | 6.5 | 2846 | 14 | 
+| 2016-10-16 | 2016年韓国囲碁リーグ | Ahn Kukhyun | Ryu Suhang | Lose | W+R | 6.5 | 2832 | -5 | 
+| 2016-10-08 | 2016年韓国囲碁リーグ | Ryu Minhyung | Ahn Kukhyun | Lose | B+R | 6.5 | 2837 | -21 | 
+| 2016-10-02 | 2016年韓国囲碁リーグ | An Joyeong | Ahn Kukhyun | Win | W+R | 6.5 | 2858 | -42 | 
+| 2016-09-24 | 2016年韓国囲碁リーグ第14節 | Park Minkyu | Ahn Kukhyun | Win | W+R | 6.5 | 2900 | -33 | 
+| 2016-09-15 | 2016年韓国囲碁リーグ第13節 | Ahn Kukhyun | Shin Jinseo | Lose | W+R | 6.5 | 2933 | -78 | 
+| 2016-08-25 | 2016年韓国囲碁リーグ第11節 | Choi Jaeyoung | Ahn Kukhyun | Win | W+R | 6.5 | 3011 | 19 | 
+| 2016-08-18 | 2016年韓国囲碁リーグ第10節 | Ahn Kukhyun | Mok Jinseok | Win | B+0.5 | 6.5 | 2992 | 44 | 
+| 2016-08-13 | 2016年韓国囲碁リーグ第9節 | Lee Taehyun | Ahn Kukhyun | Win | W+R | 6.5 | 2948 | -73 | 
+| 2016-07-22 | 2016年韓国囲碁リーグ第7節 | Lee Jihyun | Ahn Kukhyun | Lose | B+R | 6.5 | 3021 | -26 | 
+| 2016-07-19 | 第21回三星火災杯統合予選準決勝 | Wang Haoyang | Ahn Kukhyun | Lose | B+R | 6.5 | 3047 | -30 | 
+| 2016-07-11 | 第18回農心杯韓国選抜戦 | Lee Youngjoo | Ahn Kukhyun | Win | W+R | 6.5 | 3077 | 62 | 
+| 2016-07-07 | 2016年韓国囲碁リーグ第6節 | An Joyeong | Ahn Kukhyun | Lose | B+R | 6.5 | 3015 | -26 | 
+| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Tang Yi | Ahn Kukhyun | Lose | B+R | 7.5 | 3041 | -14 | 
+| 2016-06-25 | 2016年中国囲碁乙級リーグ | Ahn Kukhyun | Lee Sedol | Lose | W+R | 7.5 | 3055 | -59 | 
+| 2016-06-17 | 2016年中国囲碁乙級リーグ | Xie He | Ahn Kukhyun | Lose | B+3.5 | 7.5 | 3114 | -8 | 
+| 2016-06-05 | 2016年韓国囲碁リーグ第2節 | Ahn Kukhyun | Choi Jaeyoung | Lose | W+2.5 | 6.5 | 3122 | 48 | 
+| 2016-05-22 | 2016年韓国囲碁リーグ第1節 | Mok Jinseok | Ahn Kukhyun | Lose | B+R | 6.5 | 3074 | 52 | 
+| 2016-04-04 | 第21回LG杯予選 | Choi Jeong | Ahn Kukhyun | Lose | B+R | 6.5 | 3022 | -107 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦決勝 | Ahn Kukhyun | Yu Zhengqi | Win | B+R | 6.5 | 3129 | 0 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yang Dingxin | Ahn Kukhyun | Lose | B+R | 6.5 | 3129 | 56 | 
+| 2015-10-02 | 第2回おかげ杯国際精鋭囲碁対抗戦第2戦 | Lin Lixiang | Ahn Kukhyun | Win | W+R | 6.5 | 3073 | -37 | 
+| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Jin Siyoung | Ahn Kukhyun | Lose | B+R | 6.5 | 3110 | 9 | 
+| 2015-09-26 | 2015年韓国囲碁リーグ | Ahn Kukhyun | Park Cheongsang | Win | B+3.5 | 6.5 | 3101 | 15 | 
+| 2015-09-21 | 第43期名人戦（韓国）1回戦 | Park Jinsol | Ahn Kukhyun | Lose | B+R | 6.5 | 3086 | 9 | 
+| 2015-09-18 | 2015年韓国囲碁リーグ | Ahn Kukhyun | Kim Jiseok | Lose | W+R | 6.5 | 3077 | -59 | 
+| 2015-09-03 | 第43期名人戦（韓国）予選 | Ahn Kukhyun | Park Jaekeun | Win | B+R | 6.5 | 3136 | -23 | 
+| 2015-08-27 | 2015年韓国囲碁リーグ | Ahn Kukhyun | Lee Jihyun | Win | B+R | 6.5 | 3159 | 33 | 
+| 2015-08-23 | 2015年韓国囲碁リーグ |  | Ahn Kukhyun | Win | W+R | 6.5 | 3126 | -17 | 
+| 2015-08-15 | 2015年韓国囲碁リーグ | Ahn Kukhyun | Kang Yootaek | Lose | W+R | 6.5 | 3143 | -81 | 
+| 2015-07-23 | 2015年韓国囲碁リーグ | Ahn Kukhyun | Byun Sangil | Win | B+R | 6.5 | 3224 | -1 | 
+| 2015-07-21 | 第17回農心杯韓国選抜戦 | Ahn Kukhyun | Choi Cheolhan | Lose | W+R | 6.5 | 3225 | -17 | 
+| 2015-07-20 | 第17回農心杯韓国選抜戦 | Ahn Kukhyun | Park Yeonghun | Win | B+0.5 | 6.5 | 3242 | -9 | 
+| 2015-07-18 | 2015年韓国囲碁リーグ | Ahn Kukhyun | An Sungjoon | Win | B+R | 6.5 | 3251 | 50 | 
+| 2015-07-03 | 2015年韓国囲碁リーグ | Ahn Kukhyun | Lee Hobum | Lose | W+R | 6.5 | 3201 | -30 | 
+| 2015-06-26 | 2015年韓国囲碁リーグ | Ahn Kukhyun | Park Cheongsang | Win | B+R | 6.5 | 3231 | -63 | 
+| 2015-06-20 | 2015年韓国囲碁リーグ | Ahn Kukhyun |  | Win | B+R | 6.5 | 3294 | -31 | 
+| 2015-05-31 | 2015年韓国囲碁リーグ | Ahn Kukhyun | Shin Jinseo | Lose | W+R | 6.5 | 3325 | -2 | 
+| 2015-05-26 | 第2回夢百合杯世界オープン戦予選 | Li Qincheng | Ahn Kukhyun | Lose | B+R | 7.5 | 3327 | -34 | 
+| 2015-05-16 | 2015年中国囲碁乙級リーグ | Zhu Yuanhao | Ahn Kukhyun | Lose | B+R | 7.5 | 3361 | -22 | 
+| 2015-05-12 | 2015年中国囲碁乙級リーグ | Rong Yi | Ahn Kukhyun | Win | W+R | 7.5 | 3383 | 19 | 
+| 2015-05-08 | 2015年韓国囲碁リーグ | Kang Yootaek | Ahn Kukhyun | Lose | B+R | 6.5 | 3364 | -3 | 
+| 2015-05-03 | 2015年韓国囲碁リーグ | Ahn Kukhyun | Na Hyun | Lose | W+R | 6.5 | 3367 | 56 | 
+| 2015-04-23 | 2015年韓国囲碁リーグ | Kim Sedong | Ahn Kukhyun | Win | W+2.5 | 6.5 | 3311 | 0 | 
+| 2015-04-18 | 第20回LG杯予選 | Ahn Kukhyun | Shi Yue | Lose | W+R | 6.5 | 3311 | -4 | 
+| 2015-04-16 | 第20回LG杯予選 | Ahn Kukhyun |  | Win | B+4.5 | 6.5 | 3315 | 30 | 
+| 2014-10-31 | 2014年韓国囲碁リーグ | Shin Jinseo | Ahn Kukhyun | Lose | B+R | 6.5 | 3285 | -45 | 
+| 2014-10-16 | 2014年韓国囲碁リーグ | Ahn Kukhyun | Kim Sonjin | Win | B+R | 6.5 | 3330 | -30 | 
+| 2014-10-04 | 2014年韓国囲碁リーグ | Ahn Kukhyun | Lee Taehyun | Win | B+R | 6.5 | 3360 | -8 | 
+| 2014-09-30 | 第58期国手戦（韓国）1回戦 | Ahn Kukhyun | Kim Jiseok | Lose | W+R | 6.5 | 3368 | -19 | 
+| 2014-09-25 | 2014年韓国囲碁リーグ | Ahn Kukhyun | Kim Junghyun | Win | B+R | 6.5 | 3387 | 19 | 
+| 2014-09-21 | 第2回百霊杯世界オープン戦準決勝第3局 | Ahn Kukhyun | Qiu Jun | Lose | W+R | 7.5 | 3368 | 5 | 
+| 2014-09-20 | 第2回百霊杯世界オープン戦準決勝第2局 | Qiu Jun | Ahn Kukhyun | Lose | B+R | 7.5 | 3363 | -10 | 
+| 2014-09-18 | 第2回百霊杯世界オープン戦準決勝第1局 | Ahn Kukhyun | Qiu Jun | Win | B+5.5 | 7.5 | 3373 | 27 | 
+| 2014-09-16 | 第2回百霊杯世界オープン戦4回戦 | Jiang Weijie | Ahn Kukhyun | Win | W+R | 7.5 | 3346 | 21 | 
+| 2014-09-14 | 2014年韓国囲碁リーグ | Han Wonggyu | Ahn Kukhyun | Lose | B+R | 6.5 | 3325 | 27 | 
+| 2014-08-29 | 2014年レッツランパーク杯オープントーナメント2回戦 | Ahn Kukhyun |  | Lose | W+2.5 | 6.5 | 3298 | -37 | 
+| 2014-08-22 | 2014年韓国囲碁リーグ | Lee Hobum | Ahn Kukhyun | Win | W+R | 6.5 | 3335 | 8 | 
+| 2014-08-08 | 2014年韓国囲碁リーグ | Lee Donghoon | Ahn Kukhyun | Win | W+R | 6.5 | 3327 | -4 | 
+| 2014-07-30 | 2014年レッツランパーク杯オープントーナメント1回戦 | Cho Hanseung | Ahn Kukhyun | Win | W+R | 6.5 | 3331 | 4 | 
+| 2014-07-24 | 第2回百霊杯世界オープン戦3回戦 | Wang Xi | Ahn Kukhyun | Win | W+R | 7.5 | 3327 | 18 | 
+| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Ahn Kukhyun | Li Kang | Win | B+1.5 | 7.5 | 3309 | 26 | 
+| 2014-07-19 | 2014年韓国囲碁リーグ | Ahn Kukhyun | Kang Seungmin | Win | B+R | 6.5 | 3283 | 33 | 
+| 2014-07-06 | 2014年韓国囲碁リーグ | Ahn Kukhyun | Choi Cheolhan | Lose | W+R | 6.5 | 3250 | 42 | 
+| 2014-06-19 | 2014年韓国囲碁リーグ | Lee Taehyun | Ahn Kukhyun | Win | W+1.5 | 6.5 | 3208 | 76 | 
+| 2014-06-09 | 第19回LG杯朝鮮日報棋王戦1回戦 | Xie Erhao | Ahn Kukhyun | Lose | B+3.5 | 6.5 | 3132 | 17 | 
+| 2014-05-31 | 2014年韓国囲碁リーグ | Lee Wonyoung | Ahn Kukhyun | Lose | B+1.5 | 6.5 | 3115 | 71 | 
+| 2014-05-16 | 2014年韓国囲碁リーグ | Ahn Kukhyun | Park Yeonghun | Lose | W+R | 6.5 | 3044 | -20 | 
+| 2014-05-04 | 2014年韓国囲碁リーグ | Ahn Kukhyun |  | Win | B+R | 6.5 | 3064 | -181 | 
+| 2014-04-19 | 第19回LG杯予選 | Gu Li | Ahn Kukhyun | Win | W+R | 6.5 | 3245 | 56 | 
+| 2014-04-13 | 2014年韓国囲碁リーグ | Ahn Kukhyun | An Joyeong | Lose | W+0.5 | 6.5 | 3189 | -31 | 
+| 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Shin Jinseo | Ahn Kukhyun | Win | W+R | 7.5 | 3220 | -63 | 
+| 2013-12-24 | 2013年韓国囲碁リーグ | Ahn Kukhyun | On Sojin | Win | B+R | 6.5 | 3283 | 33 | 
+| 2013-12-20 | 2013年韓国囲碁リーグ | Ahn Kukhyun | Lee Sedol | Lose | W+R | 6.5 | 3250 | 62 | 
+| 2013-10-24 | 2013年韓国囲碁リーグ | Ahn Kukhyun | Park Seunghwa | Win | B+R | 6.5 | 3188 | -16 | 
+| 2013-09-27 | 第4期Olleh杯オープン選手権4回戦 | Ahn Kukhyun | Lee Sedol | Lose | W+R | 6.5 | 3204 | -28 | 
+| 2013-09-21 | 2013年韓国囲碁リーグ |  | Ahn Kukhyun | Lose | B+R | 6.5 | 3232 | -153 | 
+| 2013-09-17 | 第18期バッカス杯天元戦2回戦 | Choi Cheolhan | Ahn Kukhyun | Lose | B+R | 6.5 | 3385 | -18 | 
+| 2013-08-29 | 2013年韓国囲碁リーグ | Ahn Kukhyun | Na Hyun | Lose | W+R | 6.5 | 3403 | -30 | 
+| 2013-08-24 | 第4期Olleh杯オープン選手権3回戦 | Ahn Kukhyun | Na Hyun | Win | B+R | 6.5 | 3433 | -32 | 
+| 2013-08-06 | 第18回三星火災杯統合予選準決勝 | Ahn Kukhyun | Zhang Tao | Lose | W+R | 6.5 | 3465 | -15 | 
+| 2013-08-05 | 2013年韓国囲碁リーグ | Cho Insun | Ahn Kukhyun | Win | W+R | 6.5 | 3480 | 77 | 
+| 2013-07-30 | 第18期バッカス杯天元戦1回戦 | Lee Yeongkyu | Ahn Kukhyun | Win | W+4.5 | 6.5 | 3403 | 110 | 
+| 2013-06-27 | 2013年韓国囲碁リーグ | Lee Hobum | Ahn Kukhyun | Lose | B+R | 6.5 | 3293 | 39 | 
+| 2013-06-19 | 2013年中国囲碁乙級リーグ | Kim Seongjae | Ahn Kukhyun | Lose | B+R | 7.5 | 3254 | -22 | 
+| 2013-06-02 | 2013年韓国囲碁リーグ | Han Sanghoon | Ahn Kukhyun | Lose | B+0.5 | 6.5 | 3276 | 113 | 
+| 2013-05-09 | 2013年韓国囲碁リーグ | Ahn Kukhyun | Kim Hyeongwoo | Win | B+R | 6.5 | 3163 | 21 | 
+| 2013-04-27 | 2013年韓国囲碁リーグ | Ahn Kukhyun | Na Hyun | Win | B+R | 6.5 | 3142 | 34 | 
+| 2013-04-13 | 2013年韓国囲碁リーグ | Ahn Kukhyun | Shin Minjun | Win | B+R | 6.5 | 3108 | -152 | 
+| 2012-10-09 | 第17回三星火災杯世界囲碁マスターズ2回戦 | Ahn Kukhyun | Gu Li | Lose | W+R | 6.5 | 3260 | 7 | 
+| 2012-09-22 | 2012年韓国囲碁リーグ | Park Younglong | Ahn Kukhyun | Win | W+R | 6.5 | 3253 | -31 | 
+| 2012-09-20 | 2012年韓国囲碁リーグ | Ahn Kukhyun |  | Win | B+R | 6.5 | 3284 | 48 | 
+| 2012-09-06 | 第17回三星火災杯世界囲碁マスターズ1回戦H3 | Ahn Kukhyun | Xie He | Win | B+R | 6.5 | 3236 | 18 | 
+| 2012-09-05 | 第17回三星火災杯世界囲碁マスターズ1回戦H2 | Yoo Changhyuk | Ahn Kukhyun | Win | W+R | 6.5 | 3218 | 5 | 
+| 2012-09-04 | 第17回三星火災杯世界囲碁マスターズ1回戦H1 | Ahn Kukhyun | Xie He | Lose | W+R | 6.5 | 3213 | 0 | 
+| 2012-08-26 | 2012年韓国囲碁リーグ | On Sojin | Ahn Kukhyun | Win | W+R | 6.5 | 3213 | 63 | 
+| 2012-08-19 | 第1回百霊杯世界囲碁選手権2回戦 | Ahn Kukhyun | Park Junghwan | Lose | W+R | 7.5 | 3150 | -13 | 
+| 2012-08-11 | 2012年韓国囲碁リーグ | Ahn Kukhyun | Ryu Suhang | Win | B+R | 6.5 | 3163 | 63 | 
+| 2012-08-03 | 2012年韓国囲碁リーグ | Hong Kipyo | Ahn Kukhyun | Win | W+1.5 | 6.5 | 3100 | -59 | 
+| 2012-07-26 | 2012年韓国囲碁リーグ | Ahn Kukhyun | Paek Hongseok | Lose | W+2.5 | 6.5 | 3159 | 5 | 
+| 2012-07-15 | 2012年韓国囲碁リーグ | Ahn Kukhyun | Kim Jiseok | Lose | W+R | 6.5 | 3154 | -48 | 
+| 2012-07-07 | 2012年韓国囲碁リーグ |  | Ahn Kukhyun | Win | W+R | 6.5 | 3202 | 66 | 
+| 2012-06-24 | 2012年韓国囲碁リーグ | Kim Junghyun | Ahn Kukhyun | Lose | B+R | 6.5 | 3136 | -40 | 
+| 2012-06-20 | 第8期物価情報杯プロ棋戦リーグA | Kim Seongjae | Ahn Kukhyun | Lose | B+1.5 | 6.5 | 3176 | -26 | 
+| 2012-06-02 | 2012年韓国囲碁リーグ | Hong Seongji | Ahn Kukhyun | Lose | B+R | 6.5 | 3202 | 43 | 
+| 2012-05-26 | 2012年韓国囲碁リーグ | Park Yeonghun | Ahn Kukhyun | Lose | B+1.5 | 6.5 | 3159 | -57 | 
+| 2012-05-18 | 2012年韓国囲碁リーグ | Lee Chungyu | Ahn Kukhyun | Lose | B+R | 6.5 | 3216 | -109 | 
+| 2012-05-06 | 2012年韓国囲碁リーグ | Ahn Kukhyun | Min Sangyoun | Lose | W+R | 6.5 | 3325 | -52 | 
+| 2012-04-29 | 2012年韓国囲碁リーグ | Ahn Kukhyun | Lee Sedol | Lose | W+R | 6.5 | 3377 | 18 | 
+| 2012-04-24 | 第17回LG杯予選 | Li Xuanhao | Ahn Kukhyun | Lose | B+R | 6.5 | 3359 | -33 | 
+| 2012-04-21 | 2012年韓国囲碁リーグ | Lee Donghoon | Ahn Kukhyun | Lose | B+R | 6.5 | 3392 | -16 | 
+| 2012-04-18 | 第17回LG杯予選 | Fujisawa Rina | Ahn Kukhyun | Win | W+R | 6.5 | 3408 | 10 | 
+| 2012-04-12 | 2012年韓国囲碁リーグ | Ahn Kukhyun | Lee Jungwoo | Win | B+3.5 | 6.5 | 3398 | 6 | 
+| 2012-03-14 | 第1回百霊杯世界囲碁選手権1回戦 | Byun Sangil | Ahn Kukhyun | Win | W+R | 7.5 | 3392 | -14 | 
+| 2012-03-11 | 第1回百霊杯世界囲碁選手権予選 | Wang Lei (b) | Ahn Kukhyun | Win | W+R | 7.5 | 3406 | 43 | 
+| 2012-03-08 | 第17期GSカルテックス杯プロ棋戦2回戦 | Ahn Kukhyun | Park Yeonghun | Lose | W+R | 6.5 | 3363 | -97 | 
+| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Ahn Kukhyun | Lee Wonyoung | Lose | W+R | 6.5 | 3460 | 4 | 
+| 2012-02-02 | 第17期GSカルテックス杯プロ棋戦1回戦 | Ahn Kukhyun |  | Win | B+R | 6.5 | 3456 | 40 | 
+| 2012-01-03 | 第7期圓益杯十段戦2回戦 | Ahn Kukhyun | Kim Sedong | Lose | W+R | 6.5 | 3416 | -58 | 
+| 2011-12-20 | 2011年韓国囲碁リーグ | Kang Dongyun | Ahn Kukhyun | Lose | B+R | 6.5 | 3474 | -7 | 
+| 2011-12-17 | 2011年韓国囲碁リーグ | Na Hyun | Ahn Kukhyun | Win | W+R | 6.5 | 3481 | 437 | 
+| 2011-11-26 | 2011年韓国囲碁リーグ | Park Junghwan | Ahn Kukhyun | Lose | B+R | 6.5 | 3044 | 29 | 
+| 2011-11-17 | 第1期KC&A新人王戦準決勝第1局 | Kang Yootaek | Ahn Kukhyun | Lose | B+3.5 | 6.5 | 3015 | -8 | 
+| 2011-11-11 | 2011年韓国囲碁リーグ | Ahn Kukhyun | Kim Jiseok | Lose | W+7.5 | 6.5 | 3023 | -47 | 
+| 2011-11-05 | 2011年韓国囲碁リーグ | Park Junghwan | Ahn Kukhyun | Lose | B+R | 6.5 | 3070 | -26 | 
+| 2011-10-31 | 第1期KC&A新人王戦リーグA | Lee Taehyun | Ahn Kukhyun | Win | W+R | 6.5 | 3096 | 11 | 
+| 2011-10-27 | 第7期圓益杯十段戦1回戦 | Ahn Kukhyun | Moon Dowon | Win | B+3.5 | 6.5 | 3085 | 2 | 
+| 2011-10-26 | 第1期KC&A新人王戦リーグA | Kim Hyunsub | Ahn Kukhyun | Win | W+4.5 | 6.5 | 3083 | 1 | 
+| 2011-10-23 | 2011年韓国囲碁リーグ | Park Yeonghun | Ahn Kukhyun | Lose | B+R | 6.5 | 3082 | 16 | 
+| 2011-10-18 | 第1期KC&A新人王戦リーグA | Lee Donghoon | Ahn Kukhyun | Lose | B+R | 6.5 | 3066 | -49 | 
+| 2011-10-14 | 第13回農心辛ラーメン杯世界囲碁最強戦第4戦 | Ahn Kukhyun | Tan Xiao | Lose | W+R | 6.5 | 3115 | -22 | 
+| 2011-10-13 | 第13回農心辛ラーメン杯世界囲碁最強戦第3戦 | Sakai Hideyuki | Ahn Kukhyun | Win | W+R | 6.5 | 3137 | -12 | 
+| 2011-10-12 | 第13回農心辛ラーメン杯世界囲碁最強戦第2戦 | Ahn Kukhyun | Zhou Ruiyang | Win | B+3.5 | 6.5 | 3149 | 57 | 
+| 2011-10-09 | 2011年韓国囲碁リーグ | Lee Yeongkyu | Ahn Kukhyun | Lose | B+0.5 | 6.5 | 3092 | -43 | 
+| 2011-09-21 | 2011年韓国囲碁リーグ | Ahn Kukhyun | Han Wonggyu | Lose | W+R | 6.5 | 3135 | -37 | 
+| 2011-09-16 | 第1期KC&A新人王戦リーグA |  | Ahn Kukhyun | Win | W+R | 6.5 | 3172 | 94 | 
+| 2011-09-11 | 2011年韓国囲碁リーグ | Kang Seungmin | Ahn Kukhyun | Lose | B+4.5 | 6.5 | 3078 | 2 | 
+| 2011-08-18 | 2011年韓国囲碁リーグ | On Sojin | Ahn Kukhyun | Win | W+10.5 | 6.5 | 3076 | -58 | 
+| 2011-08-04 | 第16回三星火災杯統合予選準決勝 | Ahn Kukhyun |  | Lose | W+R | 6.5 | 3134 | 25 | 
+| 2011-07-28 | 2011年韓国囲碁リーグ | Park Seunghwa | Ahn Kukhyun | Lose | B+R | 6.5 | 3109 | -41 | 
+| 2011-07-26 | 第13回農心杯韓国選抜戦 | Lee Yeongkyu | Ahn Kukhyun | Win | W+2.5 | 6.5 | 3150 | 52 | 
+| 2011-07-15 | 2011年韓国囲碁リーグ | Ko Keuntae | Ahn Kukhyun | Win | W+R | 6.5 | 3098 | 6 | 
+| 2011-07-04 | 第13回農心杯韓国選抜戦 | Jin Siyoung | Ahn Kukhyun | Win | W+R | 6.5 | 3092 | 65 | 
+| 2011-07-01 | 2011年韓国囲碁リーグ |  | Ahn Kukhyun | Win | W+R | 6.5 | 3027 | -150 | 
+| 2011-06-17 | 2011年韓国囲碁リーグ | Ahn Kukhyun | Lee Changho | Lose | W+R | 6.5 | 3177 | -70 | 
+| 2011-05-27 | 2011年韓国囲碁リーグ | Ahn Kukhyun | Han Sanghoon | Win | B+R | 6.5 | 3247 | 32 | 
+| 2011-05-15 | 2011年韓国囲碁リーグ | On Sojin | Ahn Kukhyun | Win | W+4.5 | 6.5 | 3215 | 93 | 
+| 2011-03-29 | 第7期物価情報杯プロ棋戦予選 | Kang Dongyun | Ahn Kukhyun | Lose | B+R | 6.5 | 3122 | -36 | 
+| 2011-01-29 | 第3回BCカード杯世界選手権1回戦 | Cho Hanseung | Ahn Kukhyun | Lose | B+R | 6.5 | 3158 | 303 | 
+| 2010-09-13 | 第6期圓益杯十段戦予選 | Kim Junghyun | Ahn Kukhyun | Lose | B+3.5 | 6.5 | 2855 | -97 | 
+| 2010-09-05 | 第38期名人戦（韓国）リーグプレーオフ | Ahn Kukhyun | Lee Changho | Lose | W+1.5 | 6.5 | 2952 | -68 | 
+| 2010-08-12 | 第38期名人戦（韓国）リーグA | Kang Dongyun | Ahn Kukhyun | Win | W+R | 6.5 | 3020 | 20 | 
+| 2010-08-03 | 第15回三星火災杯統合予選1回戦 | Ahn Kukhyun |  | Lose | W+R | 6.5 | 3000 | -43 | 
+| 2010-07-14 | 第12回農心杯韓国選抜戦 | Hong Minpyo | Ahn Kukhyun | Lose | B+R | 6.5 | 3043 | -157 | 
+| 2010-06-24 | 第38期名人戦（韓国）リーグA | Ahn Kukhyun | Lee Sedol | Lose | W+R | 6.5 | 3200 | -16 | 
+| 2010-06-17 | 第38期名人戦（韓国）リーグA | Ahn Kukhyun | Paek Hongseok | Win | B+R | 6.5 | 3216 | 33 | 
+| 2010-05-25 | 第38期名人戦（韓国）リーグA | Ahn Kukhyun | Kim Seongjae | Lose | W+4.5 | 6.5 | 3183 | 3183 | 
+| 2010-05-18 | 第38期名人戦（韓国）リーグA | Ahn Kukhyun | Lee Changho | Win | B+R | 6.5 | missing | 0 | 
+| 2010-04-16 | 第38期名人戦（韓国）予選 | Ahn Kukhyun |  | Win | B+R | 6.5 | missing | missing |
 
 
 

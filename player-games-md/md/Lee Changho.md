@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第3期ソパルコサノル最高棋士決定戦予選 | Hyun Yoobin | Lee Changho | Win | W+R | 6.5 | 3191 | -27 | 
 | 2021-09-22 | 2021電子ランドライバル対戦第8局 | Cho Hunhyun | Lee Changho | Win | W+R | 6.5 | 3218 | 23 | 
 | 2021-09-19 | 2021電子ランドライバル対戦第2局 | Lee Changho | Yoo Changhyuk | Win | B+R | 6.5 | 3195 | 5 | 
 | 2021-09-14 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第3ラウンド | Takao Shinji | Lee Changho | Win | W+1¼ | 7.5 | 3190 | -7 | 

@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第60期十段戦予選  | Fujisawa Rina | Ichiriki Ryo | Win | B+R | 6.5 | 3174 | 43 | 
+| 2021-09-12 | 第6回扇興杯女流最強戦決勝  | Ueno Asami | Fujisawa Rina | Win | W+R | 6.5 | 3131 | 32 | 
+| 2021-09-10 | 第6回扇興杯女流最強戦準決勝  | Fujisawa Rina | Suzuki Ayumi | Win | B+R | 6.5 | 3099 | -12 | 
 | 2021-08-26 | 第46期棋聖戦Cリーグ | Seki Kotaro | Fujisawa Rina | Win | W+R | 6.5 | 3111 | 59 | 
 | 2021-08-02 | 第6回扇興杯女流最強戦2回戦  | Fujisawa Rina | Nakajima Mieko | Win | B+R | 6.5 | 3052 | 21 | 
 | 2021-07-29 | 第60期十段戦予選 | Rin Shien | Fujisawa Rina | Win | W+10.5 | 6.5 | 3031 | -2 | 

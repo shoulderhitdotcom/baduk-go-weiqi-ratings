@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第7回韓国女子囲碁リーグ優勝決定戦第1戦 |  | Kim Cheayoung | Win | W+R | 6.5 | 2829 | -6 | 
 | 2021-09-17 | 2021女子最高棋士決定戦（韓国）リーグ | Kim Eunseon | Kim Cheayoung | Win | W+R | 6.5 | 2835 | -70 | 
 | 2021-08-27 | 2021女子最高棋士決定戦（韓国）リーグ | Oh Yujin | Kim Cheayoung | Lose | B+R | 6.5 | 2905 | -32 | 
 | 2021-08-26 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Park Jiyeon | Lose | W+2.5 | 6.5 | 2937 | 2937 | 

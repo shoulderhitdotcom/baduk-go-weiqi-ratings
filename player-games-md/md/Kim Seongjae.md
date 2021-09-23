@@ -7,8 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第7回国手山脈国際囲碁大会韓国予選 | Song Jihoon | Kim Seongjae | Win | W+0.5 | 6.5 | 3438 | 3438 | 
+| 2021-08-25 | 第26回三星火災杯韓国予選 | Hong Mujin | Kim Seongjae | Win | W+1.5 | 6.5 | missing | -3255 | 
 | 2021-07-21 | 第23回農心杯韓国予選 | Kim Seongjae | Byun Sangil | Lose | W+6.5 | 6.5 | 3255 | -72 | 
-| 2021-07-15 | 第23回農心杯韓国予選 | Kim Seongjae | Kim Hyeongwoo | Win | B+R | 6.5 | 3327 | 0 | 
 | 2021-07-15 | 第23回農心杯韓国予選 | Kim Seongjae | Kim Hyeongwoo | Win | B+R | 6.5 | 3327 | 3327 | 
 | 2021-05-02 | 第26回LG杯韓国予選 | Kim Seongjae | Kim Junghyun | Lose | W+R | 6.5 | missing | -2917 | 
 | 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Kim Seongjae | Cho Hanseung | Lose | W+5.5 | 6.5 | 2917 | -90 | 

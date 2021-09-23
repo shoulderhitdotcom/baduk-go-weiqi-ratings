@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第14回中国全国運動会囲碁男子個人公開組 | Dang Yifei | Jiang Weijie | Lose | W+R | 7.5 | 3601 | -18 | 
 | 2021-09-21 | 第14回中国全国運動会囲碁男子個人公開組第2戦 | Dang Yifei | Jiang Weijie | Win | B+R | 7.5 | 3619 | 51 | 
 | 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Dang Yifei | Chang Hao | Lose | W+¼ | 7.5 | 3568 | -15 | 
 | 2021-09-01 | 第26回三星火災杯中国予選 | Dang Yifei | Lian Xiao | Win | B+0.5 | 6.5 | 3583 | 30 | 

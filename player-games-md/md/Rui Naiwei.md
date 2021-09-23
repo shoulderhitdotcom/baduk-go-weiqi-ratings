@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第14回中国全国運動会囲碁女子個人公開組 | Wang Yubo | Rui Naiwei | Lose | B+¾ | 7.5 | 3044 | 0 | 
+| 2021-09-23 | 第14回中国全国運動会囲碁女子個人公開組 | Wang Chenxing | Rui Naiwei | Win | W+¼ | 7.5 | 3044 | -14 | 
 | 2021-09-21 | 第14回中国全国運動会囲碁女子個人公開組第2戦 |  | Rui Naiwei | Win | W+R | 7.5 | 3058 | -3 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Rui Naiwei | Wang Lei (b) | Lose | W+2¼ | 7.5 | 3061 | 8 | 
 | 2021-08-31 | 第26回三星火災杯中国予選 | Rui Naiwei | Li He | Win | B+R | 6.5 | 3053 | 6 | 

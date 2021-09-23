@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第60期十段戦予選  | Fujisawa Rina | Ichiriki Ryo | Lose | B+R | 6.5 | 3497 | -31 | 
 | 2021-09-20 | 第69期王座戦挑戦者決定戦  | Iyama Yuta | Ichiriki Ryo | Lose | B+R | 6.5 | 3528 | -10 | 
 | 2021-09-16 | 第46期名人戦挑戦手合七番勝負第3局  | Ichiriki Ryo | Iyama Yuta | Win | B+R | 6.5 | 3538 | -2 | 
 | 2021-09-09 | 第46期名人戦挑戦手合七番勝負第2局  | Iyama Yuta | Ichiriki Ryo | Win | W+0.5 | 6.5 | 3540 | -9 | 

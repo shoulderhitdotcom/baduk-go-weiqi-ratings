@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第7回国手山脈国際囲碁大会韓国予選 | Park Hamin | Park Geunho | Lose | W+R | 6.5 | 3366 | 3366 | 
+| 2021-08-25 | 第26回三星火災杯韓国予選 | Yun Chanhee | Park Hamin | Lose | B+R | 6.5 | missing | -3329 | 
 | 2021-07-16 | 第23回農心杯韓国予選 | Park Hamin | Cho Hanseung | Win | B+1.5 | 6.5 | 3329 | -94 | 
 | 2021-03-28 | 2020-2021韓国囲碁リーグ優勝決定戦第3戦 | Shin Jinseo | Park Hamin | Lose | B+R | 6.5 | 3423 | 4 | 
 | 2021-03-27 | 2020-2021韓国囲碁リーグ優勝決定戦第2戦 | Park Hamin | Gon Jiwoo | Win | B+R | 6.5 | 3419 | 31 | 
@@ -44,7 +46,7 @@
 | 2020-03-06 | 2019-2020韓国囲碁リーグ優勝決定戦第1戦第4局 | Cho Hanseung | Park Hamin | Lose | B+0.5 | 6.5 | 3156 | -256 | 
 | 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第2試合第1局 | Park Hamin | Park Joonhoon | Win | B+R | 6.5 | 3412 | -29 | 
 | 2020-01-23 | 2019-2020韓国囲碁リーグ第17節第1試合第5局 | Kim Jiseok | Park Hamin | Lose | B+R | 6.5 | 3441 | -31 | 
-| 2020-01-19 | 2019-2020韓国囲碁リーグ第16節第4試合第2局 | Park Hamin |  | Win | B+R | 6.5 | 3472 | 26 | 
+| 2020-01-19 | 2019-2020韓国囲碁リーグ第16節第4試合第2局 | Park Hamin | Kim Changhoon | Win | B+R | 6.5 | 3472 | 26 | 
 | 2020-01-09 | 2019-2020韓国囲碁リーグ第15節第1試合第1局 | Choi Jeong | Park Hamin | Lose | B+R | 6.5 | 3446 | -18 | 
 | 2020-01-03 | 第3回クラウン・ヘテ杯2回戦 | Shin Minjun | Park Hamin | Lose | B+R | 6.5 | 3464 | -5 | 
 | 2019-12-27 | 2019-2020韓国囲碁リーグ第13節第2試合第1局 | Wen Rubin | Park Hamin | Win | W+1.5 | 6.5 | 3469 | 301 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第46期棋聖戦挑戦者決定トーナメント  | Numadate Sakiya | Sun Zhe | Lose | W+R | 6.5 | 3141 | 42 | 
+| 2021-09-02 | 第46期棋聖戦Cリーグ | Numadate Sakiya | Yuki Satoshi | Win | B+R | 6.5 | 3099 | 25 | 
 | 2021-07-08 | 第46期棋聖戦Cリーグ | Numadate Sakiya | Fukuoka Kotaro | Win | B+1.5 | 6.5 | 3074 | 121 | 
 | 2021-06-24 | 第46期棋聖戦Cリーグ | Fujisawa Rina | Numadate Sakiya | Win | W+R | 6.5 | 2953 | 2953 | 
 | 2021-06-10 | 第77期本因坊戦予選 | Suzuki Ayumi | Numadate Sakiya | Lose | B+R | 6.5 | missing | -2824 | 
@@ -36,16 +38,11 @@
 | 2017-05-01 | 日本棋院vs関西棋院対抗戦 | Numadate Sakiya | Inaba Karin | Win | B+R | 6.5 | 2818 | 8 | 
 | 2017-04-30 | 関西合宿個人戦順位決定戦 | Numadate Sakiya |  | Win | B+6.5 | 6.5 | 2810 | 0 | 
 | 2017-04-30 | 関西合宿個人戦1回戦 | Murakawa Daisuke | Numadate Sakiya | Lose | B+R | 6.5 | 2810 | 460 | 
-| 2017-03-23 | 第56期十段戦　予選A決勝 | Cho Sonjin | Numadate Sakiya | Lose | B+2.5 | 6.5 | 2350 | -77 | 
-| 2017-03-23 | 第56期十段戦　予選A決勝 | Cho Sonjin | Numadate Sakiya | Lose | B+2.5 | 6.5 | 2427 | -62 | 
-| 2017-02-27 | 第65期王座戦　最終予選 | Kono Rin | Numadate Sakiya | Lose | B+R | 6.5 | 2489 | 101 | 
-| 2017-02-27 | 第65期王座戦　最終予選 | Kono Rin | Numadate Sakiya | Lose | B+R | 6.5 | 2388 | -96 | 
-| 2017-02-16 | 第73期本因坊戦　予選A | Numadate Sakiya | Cho Sonjin | Lose | W+R | 6.5 | 2484 | 125 | 
-| 2017-02-16 | 第73期本因坊戦　予選A | Numadate Sakiya | Cho Sonjin | Lose | W+R | 6.5 | 2359 | -237 | 
-| 2017-01-23 | 第42期新人王戦　本戦1回戦 | Yao Zhiteng | Numadate Sakiya | Lose | B+R | 6.5 | 2596 | 107 | 
-| 2017-01-23 | 第42期新人王戦　本戦1回戦 | Yao Zhiteng | Numadate Sakiya | Lose | B+R | 6.5 | 2489 | -150 | 
-| 2016-10-06 | 第73期本因坊戦予選 | Numadate Sakiya | Takemiya Masaki | Win | B+5.5 | 6.5 | 2639 | 236 | 
-| 2016-10-06 | 第73期本因坊戦予選 | Numadate Sakiya | Takemiya Masaki | Win | B+5.5 | 6.5 | 2403 | -230 | 
+| 2017-03-23 | 第56期十段戦　予選A決勝 | Cho Sonjin | Numadate Sakiya | Lose | B+2.5 | 6.5 | 2350 | -139 | 
+| 2017-02-27 | 第65期王座戦　最終予選 | Kono Rin | Numadate Sakiya | Lose | B+R | 6.5 | 2489 | 5 | 
+| 2017-02-16 | 第73期本因坊戦　予選A | Numadate Sakiya | Cho Sonjin | Lose | W+R | 6.5 | 2484 | -112 | 
+| 2017-01-23 | 第42期新人王戦　本戦1回戦 | Yao Zhiteng | Numadate Sakiya | Lose | B+R | 6.5 | 2596 | -43 | 
+| 2016-10-06 | 第73期本因坊戦予選 | Numadate Sakiya | Takemiya Masaki | Win | B+5.5 | 6.5 | 2639 | 6 | 
 | 2016-09-29 | 第43期天元戦予選 | Ishida Yoshio | Numadate Sakiya | Lose | B+R | 6.5 | 2633 | 4 | 
 | 2016-08-18 | 第55期十段戦予選 | Numadate Sakiya | Yoda Norimoto | Lose | W+R | 6.5 | 2629 | -94 | 
 | 2016-06-13 | 第64期王座戦　本戦1回戦第6局 | Numadate Sakiya | Murakawa Daisuke | Lose | W+R | 6.5 | 2723 | 101 | 

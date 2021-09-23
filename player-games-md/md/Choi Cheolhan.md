@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第7回国手山脈国際囲碁大会韓国予選 | Lee Yeongkyu | Choi Cheolhan | Win | W+R | 6.5 | 3358 | 58 | 
 | 2021-07-16 | 第23回農心杯韓国予選 | Choi Cheolhan | Hong Seongji | Lose | W+R | 6.5 | 3300 | -41 | 
 | 2021-07-02 | 第44期名人戦（韓国）敗者復活戦4回戦 | Choi Cheolhan | Shin Jinseo | Lose | W+R | 6.5 | 3341 | -10 | 
 | 2021-06-18 | 第44期名人戦（韓国）3回戦 | Choi Cheolhan | Byun Sangil | Lose | W+R | 6.5 | 3351 | -4 | 
@@ -28,7 +29,7 @@
 | 2021-01-28 | 2020-2021韓国囲碁リーグ | Han Sanghoon | Choi Cheolhan | Lose | B+R | 6.5 | 3595 | 3 | 
 | 2021-01-22 | 2020-2021韓国囲碁リーグ | Park Jinsol | Choi Cheolhan | Win | W+R | 6.5 | 3592 | -28 | 
 | 2021-01-17 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | Cho Hanseung | Lose | W+0.5 | 6.5 | 3620 | 13 | 
-| 2021-01-12 | 第44期名人戦（韓国）予選 | Choi Cheolhan |  | Win | B+R | 6.5 | 3607 | 1 | 
+| 2021-01-12 | 第44期名人戦（韓国）予選 | Choi Cheolhan | Kim Changhoon | Win | B+R | 6.5 | 3607 | 1 | 
 | 2021-01-10 | 2020-2021韓国囲碁リーグ | Lee Wondo | Choi Cheolhan | Win | W+R | 6.5 | 3606 | 38 | 
 | 2021-01-04 | 第22回マキシムコーヒー杯入神最強戦1回戦 | An Sungjoon | Choi Cheolhan | Win | W+R | 6.5 | 3568 | 6 | 
 | 2021-01-02 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | Heo Yongho | Lose | W+R | 6.5 | 3562 | -21 | 

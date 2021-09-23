@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第14期棋王戦（台湾）予選 |  | Huang Shiyuan | Lose | B+R | 6.5 | 2678 | -9 | 
 | 2021-09-16 | 第14期棋王戦（台湾）予選 | Huang Shiyuan | Chen Shiyuan | Win | B+R | 6.5 | 2687 | 50 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Chen Qirui | Huang Shiyuan | Lose | B+R | 6.5 | 2637 | 30 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 | Huang Shiyuan | Yang Zixuan | Win | B+R | 6.5 | 2607 | -8 | 

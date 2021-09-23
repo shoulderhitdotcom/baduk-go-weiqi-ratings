@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第14回中国全国運動会囲碁男子個人公開組 | Tao Xinran | Jiang Weijie | Lose | B+R | 7.5 | 3634 | 0 | 
+| 2021-09-23 | 第14回中国全国運動会囲碁男子個人公開組 | Dang Yifei | Jiang Weijie | Win | W+R | 7.5 | 3634 | -18 | 
 | 2021-09-21 | 第14回中国全国運動会囲碁男子個人公開組第2戦 | Dang Yifei | Jiang Weijie | Lose | B+R | 7.5 | 3652 | 13 | 
 | 2021-09-01 | 第26回三星火災杯中国予選 | Tan Xiao | Jiang Weijie | Win | W+R | 6.5 | 3639 | 95 | 
 | 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Jiang Weijie | Zhao Chenyu | Lose | W+R | 7.5 | 3544 | -33 | 

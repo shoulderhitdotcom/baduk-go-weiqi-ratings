@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第14回中国全国運動会囲碁女子個人公開組 | Wang Yubo | Chen Yiming | Lose | B+R | 7.5 | 2914 | -23 | 
 | 2021-09-22 | 第14回中国全国運動会囲碁女子個人公開組第5戦 | Chen Yiming | Wang Yubo | Win | B+R | 7.5 | 2937 | 18 | 
 | 2021-09-21 | 第14回中国全国運動会囲碁女子個人公開組第1戦 | Chen Yiming | Wang Chenxing | Lose | W+R | 7.5 | 2919 | 12 | 
 | 2021-06-10 | 第4回呉清源杯中国予選 | Chen Yiming |  | Win | B+R | 7.5 | 2907 | 14 | 

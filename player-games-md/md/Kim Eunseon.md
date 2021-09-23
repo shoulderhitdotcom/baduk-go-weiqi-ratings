@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第7回韓国女子囲碁リーグ優勝決定戦第1戦 | Kim Eunseon | Kang Dajeong | Win | B+R | 6.5 | 2774 | 7 | 
 | 2021-09-17 | 2021女子最高棋士決定戦（韓国）リーグ | Kim Eunseon | Kim Cheayoung | Lose | W+R | 6.5 | 2767 | -35 | 
 | 2021-09-04 | 2021女子最高棋士決定戦（韓国）リーグ | Kim Eunseon | Lee Minjin | Win | B+R | 6.5 | 2802 | -25 | 
 | 2021-08-15 | 第7回韓国女子囲碁リーグ | Kim Eunseon |  | Lose | W+R | 6.5 | 2827 | -6 | 

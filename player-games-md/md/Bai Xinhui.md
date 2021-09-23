@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第14期棋王戦（台湾）予選 | Bai Xinhui | Cai Chengwei | Lose | W+R | 6.5 | 2560 | -21 | 
+| 2021-09-16 | 第14期棋王戦（台湾）予選 | Bai Xinhui | Li Wei | Lose | W+R | 6.5 | 2581 | 5 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Bai Xinhui |  | Win | B+R | 6.5 | 2576 | 35 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 | Bai Xinhui | Chen Feng | Win | B+R | 6.5 | 2541 | 2541 | 
 | 2021-09-06 | 第14期棋王戦（台湾）予選 | Lin Xiuping | Bai Xinhui | Win | W+R | 6.5 | missing | 0 | 

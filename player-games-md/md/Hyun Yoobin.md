@@ -7,10 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第3期ソパルコサノル最高棋士決定戦予選 | Hyun Yoobin | Lee Changho | Lose | W+R | 6.5 | 3058 | -13 | 
+| 2021-09-08 | 第2期利鵬杯新鋭最高位戦決勝 | Hyun Yoobin | Kim Beomseo | Lose | W+R | 6.5 | 3071 | 35 | 
 | 2021-08-27 | 第2期利鵬杯新鋭最高位戦準決勝 | Hyun Yoobin | Shin Jaeweon | Win | B+R | 6.5 | 3036 | 47 | 
-| 2021-08-13 | 第2期利鵬杯新鋭最高位戦8強戦 |  | Hyun Yoobin | Win | W+R | 6.5 | 2989 | -1 | 
-| 2021-08-13 | 第2期利鵬杯新鋭最高位戦8強戦 |  | Hyun Yoobin | Win | W+R | 6.5 | 2990 | -2 | 
-| 2021-06-29 | 2021陜川歴代英才vs女子頂上連勝対抗戦第2局 | Hyun Yoobin |  | Lose | W+R | 6.5 | 2992 | -31 | 
+| 2021-08-13 | 第2期利鵬杯新鋭最高位戦8強戦 |  | Hyun Yoobin | Win | W+R | 6.5 | 2989 | -3 | 
+| 2021-06-29 | 2021陜川歴代英才vs女子頂上連勝対抗戦第2局 | Hyun Yoobin | Cho Seungah | Lose | W+R | 6.5 | 2992 | -31 | 
 | 2021-06-05 | 第44期名人戦（韓国）敗者復活戦3回戦 | Hyun Yoobin | Lee Changseok | Lose | W+R | 6.5 | 3023 | -13 | 
 | 2021-05-28 | 第44期名人戦（韓国）敗者復活戦2回戦 | Choi Jeong | Hyun Yoobin | Win | W+1.5 | 6.5 | 3036 | 26 | 
 | 2021-05-07 | 第8回グロービス杯韓国予選 |  | Hyun Yoobin | Lose | B+R | 6.5 | 3010 | -34 | 
@@ -49,9 +50,9 @@
 | 2020-08-14 | 2020CHO-A BITONEルーキー囲碁リーグ第3節第2試合第3局 |  | Hyun Yoobin | Lose | B+R | 6.5 | 3069 | 0 | 
 | 2020-08-10 | 第8回河燦錫国手杯英才記念対局 | Hyun Yoobin | Shin Jinseo | Lose | W+R | 6.5 | 3069 | 131 | 
 | 2020-08-01 | 2020CHO-A BITONEルーキー囲碁リーグ第1節第4試合第1局 | Hyun Yoobin |  | Win | B+R | 6.5 | 2938 | -65 | 
-| 2020-06-30 | 2020陜川歴代英才vs女性頂上連勝対抗戦第2局 | Hyun Yoobin |  | Lose | W+R | 6.5 | 3003 | -41 | 
+| 2020-06-30 | 2020陜川歴代英才vs女性頂上連勝対抗戦第2局 | Hyun Yoobin | Cho Seungah | Lose | W+R | 6.5 | 3003 | -41 | 
 | 2020-06-26 | 2020陜川歴代英才vs女性頂上連勝対抗戦第1局 | Cho Hyeyeon | Hyun Yoobin | Win | W+R | 6.5 | 3044 | 45 | 
-| 2020-05-20 | 第5期未来の星新鋭最強戦16強戦 | Hyun Yoobin |  | Lose | W+R | 6.5 | 2999 | 28 | 
+| 2020-05-20 | 第5期未来の星新鋭最強戦16強戦 | Hyun Yoobin | Kim Changhoon | Lose | W+R | 6.5 | 2999 | 28 | 
 | 2020-05-08 | 第25期GSカルテックス杯プロ棋戦16強戦 | Hyun Yoobin | Shin Jinseo | Lose | W+R | 6.5 | 2971 | -7 | 
 | 2020-05-06 | 第8回河燦錫国手杯英才最強戦決勝三番勝負第3局 | Hyun Yoobin | Kim Ilhwan | Win | B+R | 6.5 | 2978 | 46 | 
 | 2020-05-05 | 第8回河燦錫国手杯英才最強戦決勝三番勝負第2局 | Kim Ilhwan | Hyun Yoobin | Lose | B+R | 6.5 | 2932 | -40 | 

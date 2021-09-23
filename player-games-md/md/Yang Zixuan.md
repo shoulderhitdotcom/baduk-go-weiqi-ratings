@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第14期棋王戦（台湾）予選 | Yang Zixuan | Chen Feng | Lose | W+R | 6.5 | 2721 | -8 | 
 | 2021-09-16 | 第14期棋王戦（台湾）予選 |  | Yang Zixuan | Win | W+R | 6.5 | 2729 | 30 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Lin Xinwei | Yang Zixuan | Win | W+5.5 | 6.5 | 2699 | -9 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 | Huang Shiyuan | Yang Zixuan | Lose | B+R | 6.5 | 2708 | 2708 | 

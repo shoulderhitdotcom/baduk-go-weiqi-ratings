@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Choi Jeong | Weon Seongjin | Win | W+R | 6.5 | 3626 | -5 | 
 | 2021-09-21 | 2021電子ランドライバル対戦第6局 | Weon Seongjin | Kim Jiseok | Lose | W+R | 6.5 | 3631 | 3 | 
 | 2021-09-20 | 2021電子ランドライバル対戦第4局 | Park Junghwan | Weon Seongjin | Win | W+R | 6.5 | 3628 | -46 | 
 | 2021-09-08 | 第3期ソパルコサノル最高棋士決定戦予選 | Kang Hun | Weon Seongjin | Lose | B+R | 6.5 | 3674 | 2 | 

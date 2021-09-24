@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-24 | 第7回韓国女子囲碁リーグ優勝決定戦第2戦 | Kim Cheayoung | Choi Jeong | Win | W+R | 6.5 | 3337 | 0 | 
+| 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Choi Jeong | Weon Seongjin | Lose | W+R | 6.5 | 3337 | -4 | 
 | 2021-09-23 | 第7回国手山脈国際囲碁大会韓国予選 | Ahn Kukhyun | Choi Jeong | Win | W+R | 6.5 | 3341 | 3 | 
 | 2021-09-21 | 2021電子ランドライバル対戦第5局 | Cho Seungah | Choi Jeong | Win | W+R | 6.5 | 3338 | 8 | 
 | 2021-09-19 | 第7回韓国女子囲碁リーグプレーオフ第3戦 | Choi Jeong | Lee Minjin | Win | B+R | 6.5 | 3330 | 3 | 

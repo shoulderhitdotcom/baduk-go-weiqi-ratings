@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Lee Changseok | Park Geunho | Lose | B+1.5 | 6.5 | 3366 | -12 | 
 | 2021-09-23 | 第7回国手山脈国際囲碁大会韓国予選 | Park Hamin | Park Geunho | Win | W+R | 6.5 | 3378 | 31 | 
 | 2021-06-04 | 第26回GSカルテックス杯プロ棋戦2回戦 | Park Geunho | Park Junghwan | Lose | W+R | 6.5 | 3347 | -33 | 
 | 2021-05-06 | 第26回LG杯韓国予選 | Lee Donghoon | Park Geunho | Lose | B+R | 6.5 | 3380 | 7 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-24 | 第9期中環碁聖戦 | Huang Shiyuan | Lin Shimin | Win | B+R | 6.5 | 2698 | 20 | 
 | 2021-09-23 | 第14期棋王戦（台湾）予選 |  | Huang Shiyuan | Lose | B+R | 6.5 | 2678 | -9 | 
 | 2021-09-16 | 第14期棋王戦（台湾）予選 | Huang Shiyuan | Chen Shiyuan | Win | B+R | 6.5 | 2687 | 50 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Chen Qirui | Huang Shiyuan | Lose | B+R | 6.5 | 2637 | 30 | 

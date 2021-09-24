@@ -7,11 +7,14 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-24 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Yeongkyu | Moon Minjong | Win | W+R | 6.5 | 3258 | 61 | 
+| 2021-09-02 | 第3期ソパルコサノル最高棋士決定戦予選 | Moon Minjong | Jen Youngkyu | Win | B+R | 6.5 | 3197 | 3197 | 
+| 2021-07-26 | 2021陜川歴代英才vs女子頂上連勝対抗戦第7局 | Moon Minjong | Oh Yujin | Win | B+R | 6.5 | missing | -3256 | 
 | 2021-07-15 | 第23回農心杯韓国予選 | Moon Minjong | Han Wonggyu | Lose | W+R | 6.5 | 3256 | 1 | 
 | 2021-07-13 | 2021陜川歴代英才vs女子頂上連勝対抗戦第6局 | Kim Cheayoung | Moon Minjong | Win | W+R | 6.5 | 3255 | 2 | 
 | 2021-07-12 | 2021陜川歴代英才vs女子頂上連勝対抗戦第5局 | Kim Hyeoimin | Moon Minjong | Win | W+4.5 | 6.5 | 3253 | 29 | 
 | 2021-07-06 | 2021陜川歴代英才vs女子頂上連勝対抗戦第4局 | Moon Minjong | Oh Jeonga | Win | B+R | 6.5 | 3224 | 4 | 
-| 2021-07-05 | 2021陜川歴代英才vs女子頂上連勝対抗戦第3局 | Moon Minjong |  | Win | B+0.5 | 6.5 | 3220 | -6 | 
+| 2021-07-05 | 2021陜川歴代英才vs女子頂上連勝対抗戦第3局 | Moon Minjong | Cho Seungah | Win | B+0.5 | 6.5 | 3220 | -6 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20三位決定戦 | Park Sangjin | Moon Minjong | Lose | B+5.5 | 6.5 | 3226 | 0 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20準決勝 | Wang Xinghao | Moon Minjong | Lose | B+R | 6.5 | 3226 | 0 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20準々決勝  | Ueno Asami | Moon Minjong | Win | W+R | 6.5 | 3226 | -9 | 
@@ -58,7 +61,7 @@
 | 2020-08-02 | 第7回グロービス杯世界囲碁U-20準決勝 | Moon Minjong | Liao Yuanhe | Win | B+R | 6.5 | 3457 | 188 | 
 | 2020-08-01 | 第7回グロービス杯世界囲碁U-20 2回戦 | Xie Ke | Moon Minjong | Win | W+R | 6.5 | 3269 | 83 | 
 | 2020-07-07 | 2020陜川歴代英才vs女性頂上連勝対抗戦第4局 | Moon Minjong | Kim Cheayoung | Lose | W+0.5 | 6.5 | 3186 | -114 | 
-| 2020-07-01 | 2020陜川歴代英才vs女性頂上連勝対抗戦第3局 | Moon Minjong |  | Win | B+R | 6.5 | 3300 | 142 | 
+| 2020-07-01 | 2020陜川歴代英才vs女性頂上連勝対抗戦第3局 | Moon Minjong | Cho Seungah | Win | B+R | 6.5 | 3300 | 142 | 
 | 2020-04-27 | 第25回LG杯韓国予選 | Hong Kipyo | Moon Minjong | Lose | B+R | 6.5 | 3158 | -4 | 
 | 2020-04-22 | 第25回LG杯韓国予選 | Moon Minjong | Park Yeonghun | Win | B+0.5 | 6.5 | 3162 | 44 | 
 | 2020-04-20 | 第25回LG杯韓国予選 | Lee Hyeonjun | Moon Minjong | Win | W+R | 6.5 | 3118 | 20 | 
@@ -82,8 +85,8 @@
 | 2019-01-02 | 第4期未来の星新鋭最強戦1次大会第1戦 | Moon Minjong |  | Win | B+R | 6.5 | 2713 | -27 | 
 | 2018-12-09 | 第2回クラウン・ヘテ杯1回戦 | Byun Sangil | Moon Minjong | Lose | B+1.5 | 6.5 | 2740 | -39 | 
 | 2018-11-14 | 2018年台湾精鋭vs韓国交流戦第5戦 | Moon Minjong | Chen Qirui | Lose | W+R | 6.5 | 2779 | -41 | 
-| 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第4戦 | Moon Minjong |  | Win | B+R | 6.5 | 2820 | -2 | 
-| 2018-11-12 | 2018年台湾精鋭vs韓国交流戦第2戦 | Moon Minjong |  | Win | B+R | 6.5 | 2822 | 0 | 
+| 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第4戦 | Moon Minjong | Bai Xinhui | Win | B+R | 6.5 | 2820 | -2 | 
+| 2018-11-12 | 2018年台湾精鋭vs韓国交流戦第2戦 | Moon Minjong | Yang Zixuan | Win | B+R | 6.5 | 2822 | 0 | 
 | 2018-11-12 | 2018年台湾精鋭vs韓国交流戦第1戦 |  | Moon Minjong | Win | W+R | 6.5 | 2822 | 2822 | 
 | 2018-01-15 | 第3期未来の星新鋭最強戦24強戦 | Moon Minjong | Park Geunho | Lose | W+R | 6.5 | missing | 0 | 
 | 2018-01-10 | 第6回陜川郡招待河燦錫国手杯英才囲碁大会16強戦 | Hyun Yoobin | Moon Minjong | Lose | B+R | 6.5 | missing | missing |

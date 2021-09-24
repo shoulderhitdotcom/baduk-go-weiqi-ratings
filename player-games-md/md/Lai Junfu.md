@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-24 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第3局 | Wang Yuanjun | Lai Junfu | Win | W+R | 6.5 | 3160 | 11 | 
+| 2021-09-23 | 第14期棋王戦（台湾）予選 |  | Lai Junfu | Win | W+R | 6.5 | 3149 | -9 | 
 | 2021-09-22 | 第9期中環碁聖戦 |  | Lai Junfu | Win | W+R | 6.5 | 3158 | 14 | 
 | 2021-09-17 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第2局 | Lai Junfu | Wang Yuanjun | Lose | W+R | 6.5 | 3144 | 4 | 
 | 2021-09-16 | 第14期棋王戦（台湾）予選 | Xiao Zhenghao | Lai Junfu | Win | W+R | 6.5 | 3140 | 0 | 

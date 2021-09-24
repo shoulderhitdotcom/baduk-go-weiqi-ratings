@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Choi Cheolhan | An Sungjoon | Lose | B+R | 6.5 | 3382 | 3382 | 
+| 2021-08-25 | 第26回三星火災杯韓国予選 | Park Yeonghun | An Sungjoon | Win | W+0.5 | 6.5 | missing | -3337 | 
 | 2021-07-31 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Choi Jeong | An Sungjoon | Lose | B+R | 6.5 | 3337 | -1 | 
 | 2021-07-21 | 第23回農心杯韓国予選 | An Sungjoon | Park Junghwan | Lose | W+R | 6.5 | 3338 | 3338 | 
 | 2021-07-20 | 第23回農心杯韓国予選 | Kim Myounghoon | An Sungjoon | Win | W+R | 6.5 | missing | -3343 | 
@@ -57,7 +59,7 @@
 | 2018-07-28 | 第5回国手山脈杯韓国国内トーナメント16強戦 | Yun Junsang | An Sungjoon | Lose | B+4.5 | 6.5 | 3299 | -92 | 
 | 2017-12-13 | 第36回KBS杯囲碁王戦16強戦 | Kim Myounghoon | An Sungjoon | Lose | B+R | 6.5 | 3391 | 15 | 
 | 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Niu Yutian | An Sungjoon | Win | W+R | 7.5 | 3376 | 6 | 
-| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 |  | An Sungjoon | Win | W+R | 7.5 | 3370 | 8 | 
+| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Ma Yichao | An Sungjoon | Win | W+R | 7.5 | 3370 | 8 | 
 | 2017-11-05 | 2017年韓国囲碁リーグ準プレーオフ第3戦 | An Sungjoon | Yun Junsang | Lose | W+R | 6.5 | 3362 | -9 | 
 | 2017-11-04 | 2017年韓国囲碁リーグ準プレーオフ第2戦 | Kim Jiseok | An Sungjoon | Lose | B+R | 6.5 | 3371 | -56 | 
 | 2017-11-03 | 2017年韓国囲碁リーグ準プレーオフ第1戦 | An Sungjoon | Yun Junsang | Win | B+R | 6.5 | 3427 | 13 | 

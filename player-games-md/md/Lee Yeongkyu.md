@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-24 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Yeongkyu | Moon Minjong | Lose | W+R | 6.5 | 3275 | -50 | 
 | 2021-09-23 | 第7回国手山脈国際囲碁大会韓国予選 | Lee Yeongkyu | Choi Cheolhan | Lose | W+R | 6.5 | 3325 | -220 | 
 | 2021-02-20 | 2020-2021韓国囲碁リーグ | Cho Hanseung | Lee Yeongkyu | Win | W+R | 6.5 | 3545 | -71 | 
 | 2021-02-11 | 2020-2021韓国囲碁リーグ | Park Junghwan | Lee Yeongkyu | Lose | B+5.5 | 6.5 | 3616 | -6 | 

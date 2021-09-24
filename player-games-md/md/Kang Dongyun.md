@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Kang Dongyun | Kim Seongjae | Win | B+R | 6.5 | 3457 | -2 | 
 | 2021-09-18 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Dongyun | Shin Minjun | Lose | W+R | 6.5 | 3459 | 0 | 
 | 2021-08-29 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Dongyun | Kang Seungmin | Lose | W+R | 6.5 | 3459 | 15 | 
 | 2021-06-27 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Kang Dongyun | Choi Jeong | Win | B+R | 6.5 | 3444 | 1 | 

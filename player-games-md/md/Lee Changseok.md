@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Lee Changseok | Park Geunho | Win | B+1.5 | 6.5 | 3538 | -21 | 
 | 2021-09-04 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Changseok | Park Junghwan | Lose | W+R | 6.5 | 3559 | 3559 | 
 | 2021-08-25 | 第26回三星火災杯韓国予選 |  | Lee Changseok | Win | W+R | 6.5 | missing | -3555 | 
 | 2021-08-21 | 第26回三星火災杯韓国予選 |  | Lee Changseok | Win | W+R | 6.5 | 3555 | 39 | 
@@ -58,7 +59,7 @@
 | 2021-01-02 | 2020-2021韓国囲碁リーグ | Kang Dongyun | Lee Changseok | Win | W+R | 6.5 | 3698 | 44 | 
 | 2020-12-25 | 2020-2021韓国囲碁リーグ | Lee Changseok | Lee Donghoon | Win | B+R | 6.5 | 3654 | 54 | 
 | 2020-12-17 | 2020-2021韓国囲碁リーグ | Lee Yeongkyu | Lee Changseok | Win | W+R | 6.5 | 3600 | -27 | 
-| 2020-12-15 | 第2期ソパルコサノル最高棋士決定戦予選 | Lee Changseok | Chao Xiangzhao | Win | B+R | 6.5 | 3627 | 3 | 
+| 2020-12-15 | 第2期ソパルコサノル最高棋士決定戦予選 | Lee Changseok |  | Win | B+R | 6.5 | 3627 | 3 | 
 | 2020-12-13 | 2020-2021韓国囲碁リーグ | Park Yeonghun | Lee Changseok | Win | W+R | 6.5 | 3624 | -1 | 
 | 2020-12-07 | 第26期GSカルテックス杯プロ棋戦予選 | Lee Changseok | Lee Changho | Win | B+R | 6.5 | 3625 | 8 | 
 | 2020-12-05 | 2020-2021韓国囲碁リーグ | Lee Changseok | Kang Yootaek | Lose | W+R | 6.5 | 3617 | -31 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Yang Dingxin | Win | W+R | 7.5 | 3678 | -1 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Tuo Jiaxi | Win | B+R | 7.5 | 3679 | 64 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Yi Lingtao | Yang Dingxin | Lose | B+R | 7.5 | 3615 | 15 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Tao Xinran | Yang Dingxin | Win | W+R | 7.5 | 3600 | 6 | 

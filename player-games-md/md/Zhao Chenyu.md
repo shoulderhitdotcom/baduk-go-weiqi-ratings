@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Zhao Chenyu | Win | W+R | 7.5 | 3431 | 8 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Zhang Tao | Zhao Chenyu | Lose | B+R | 7.5 | 3423 | -31 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tao Xinran | Zhao Chenyu | Win | W+¼ | 7.5 | 3454 | 0 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zhao Chenyu | Li Xiangyu | Win | B+R | 7.5 | 3454 | -8 | 

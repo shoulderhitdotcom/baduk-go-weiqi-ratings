@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第9期中環碁聖戦 | Lin Shuyang | Xu Haohong | Lose | W+R | 6.5 | 2771 | -29 | 
 | 2021-09-23 | 第14期棋王戦（台湾）予選 | Xu Yuqi | Lin Shuyang | Win | W+R | 6.5 | 2800 | 46 | 
 | 2021-09-16 | 第14期棋王戦（台湾）予選 | Lin Shuyang | Lu Yiquan | Win | B+R | 6.5 | 2754 | -21 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 | Lin Shuyang |  | Lose | W+0.5 | 6.5 | 2775 | -9 | 

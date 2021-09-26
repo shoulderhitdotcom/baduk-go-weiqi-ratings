@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Guo Xinyi | Shin Jinseo | Lose | W+R | 7.5 | 3384 | -15 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Guo Xinyi | Li Weiqing | Lose | W+R | 7.5 | 3399 | -2 | 
 | 2021-08-30 | 第12期中国竜星戦予選 | Guo Xinyi | Li Xiangyu | Win | B+R | 7.5 | 3401 | 64 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Guo Xinyi | Peng Liyao | Win | B+R | 7.5 | 3337 | 104 | 

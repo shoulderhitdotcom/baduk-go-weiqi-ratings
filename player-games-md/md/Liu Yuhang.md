@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Peng Liyao | Lose | W+R | 7.5 | 3460 | -26 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Xu Yidi | Liu Yuhang | Win | W+R | 7.5 | 3486 | 1 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Li Xuanhao | Liu Yuhang | Win | W+R | 7.5 | 3485 | 51 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Han Yizhou | Lose | W+R | 7.5 | 3434 | -31 | 

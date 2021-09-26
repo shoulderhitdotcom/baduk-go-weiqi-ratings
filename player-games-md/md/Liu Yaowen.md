@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第9期中環碁聖戦 | Ding Shaojie | Liu Yaowen | Win | W+R | 6.5 | 2732 | 1 | 
 | 2021-09-19 | 第9期中環碁聖戦 | Liu Yaowen | Dai Jiashen | Win | B+2.5 | 6.5 | 2731 | 83 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Liu Yaowen | Xu Yuqi | Lose | W+R | 6.5 | 2648 | -10 | 
 | 2021-09-02 | 第14期棋王戦（台湾）予選 | Liu Yaowen |  | Win | B+R | 6.5 | 2658 | 7 | 

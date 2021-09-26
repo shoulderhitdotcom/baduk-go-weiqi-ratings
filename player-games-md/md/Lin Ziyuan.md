@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第9期中環碁聖戦 | Lin Ziyuan |  | Win | B+8.5 | 6.5 | 2578 | 84 | 
 | 2021-09-16 | 第9期中環碁聖戦 | Lin Ziyuan | Zhang Zhehao | Win | B+R | 6.5 | 2494 | 306 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 | Liu Yifang | Lin Ziyuan | Lose | B+5.5 | 6.5 | 2188 | -474 | 
 | 2021-04-12 | 第11期友士杯十段戦予選 | Lin Ziyuan | Lin Shimin | Lose | W+R | 6.5 | 2662 | -253 | 

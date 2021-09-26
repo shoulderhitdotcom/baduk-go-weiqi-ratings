@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Dang Yifei | Win | W+R | 7.5 | 3605 | -1 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Huang Xin | Dang Yifei | Win | W+R | 7.5 | 3606 | 5 | 
 | 2021-09-23 | 第14回中国全国運動会囲碁男子個人公開組 | Dang Yifei | Jiang Weijie | Lose | W+R | 7.5 | 3601 | -18 | 
 | 2021-09-21 | 第14回中国全国運動会囲碁男子個人公開組第2戦 | Dang Yifei | Jiang Weijie | Win | B+R | 7.5 | 3619 | 51 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Lian Xiao | Han Yizhou | Lose | W+R | 7.5 | 3568 | -11 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Lian Xiao | Win | W+R | 7.5 | 3579 | -7 | 
 | 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組 | Lian Xiao | Li Xuanhao | Win | B+R | 7.5 | 3586 | 0 | 
 | 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組第4戦 | Lian Xiao | Mi Yuting | Lose | W+R | 7.5 | 3586 | 1 | 

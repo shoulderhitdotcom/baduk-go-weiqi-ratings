@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第9期中環碁聖戦 | Lin Xinwei | Xiao Zhenghao | Lose | B+R | 6.5 | 3066 | -6 | 
 | 2021-09-23 | 第14期棋王戦（台湾）予選 | Xiao Zhenghao | Xu Jingen | Win | B+R | 6.5 | 3072 | -4 | 
 | 2021-09-22 | 第9期中環碁聖戦 | Zhou Pingqiang | Xiao Zhenghao | Win | W+0.5 | 6.5 | 3076 | 0 | 
 | 2021-09-16 | 第14期棋王戦（台湾）予選 | Xiao Zhenghao | Lai Junfu | Lose | W+R | 6.5 | 3076 | 3 | 

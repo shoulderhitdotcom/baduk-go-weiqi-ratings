@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Li Xuanhao | Win | B+R | 7.5 | 3444 | 23 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Chen Xian | Lose | W+R | 7.5 | 3421 | -33 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Fan Yin | Jiang Qirun | Lose | B+4¾ | 7.5 | 3454 | 28 | 
 | 2021-08-27 | 第26回三星火災杯中国予選 | Jiang Qirun | Tan Xiao | Lose | W+R | 6.5 | 3426 | -25 | 

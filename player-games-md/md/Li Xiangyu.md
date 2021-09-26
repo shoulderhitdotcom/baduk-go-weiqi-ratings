@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Zhang Tao | Lose | W+¾ | 7.5 | 3332 | -7 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Li Xiangyu | Lose | B+R | 7.5 | 3339 | -25 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zhao Chenyu | Li Xiangyu | Lose | B+R | 7.5 | 3364 | -35 | 
 | 2021-08-30 | 第12期中国竜星戦予選 | Guo Xinyi | Li Xiangyu | Lose | B+R | 7.5 | 3399 | 3399 | 

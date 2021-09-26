@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Zhao Chenyu | Lose | W+R | 7.5 | 3406 | -9 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Xie Ke | Zhou Ruiyang | Lose | B+R | 7.5 | 3415 | -15 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zhou Ruiyang | Tan Xiao | Lose | W+R | 7.5 | 3430 | -5 | 
 | 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zhou Ruiyang |  | Win | B+R | 7.5 | 3435 | -27 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Tao Xinran | Hu Yaoyu | Lose | B+R | 7.5 | 3171 | 56 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Ye Changxin | Hu Yaoyu | Lose | B+¾ | 7.5 | 3115 | 3 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Hu Yaoyu | Jiang Qirun | Lose | W+R | 7.5 | 3112 | -30 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Hu Yaoyu | Mao Ruilong | Lose | W+R | 7.5 | 3142 | -3 | 
@@ -159,7 +160,7 @@
 | 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Chen Xian | Hu Yaoyu | Win | W+R | 7.5 | 3245 | -10 | 
 | 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Hu Yaoyu | An Dongxu | Lose | W+R | 7.5 | 3255 | 9 | 
 | 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Hu Yaoyu | Zhong Wenjing | Lose | W+R | 7.5 | 3246 | -3 | 
-| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 |  | Hu Yaoyu | Win | W+R | 7.5 | 3249 | -58 | 
+| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Ma Yichao | Hu Yaoyu | Win | W+R | 7.5 | 3249 | -58 | 
 | 2014-08-03 | 第19回三星火災杯統合予選2回戦 | Hu Yaoyu | Shin Minjun | Lose | W+3.5 | 6.5 | 3307 | 15 | 
 | 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Park Junghwan | Hu Yaoyu | Lose | B+R | 7.5 | 3292 | -40 | 
 | 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Hu Yaoyu | Shi Yue | Win | B+R | 7.5 | 3332 | 43 | 

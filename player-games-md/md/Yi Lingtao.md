@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Yi Lingtao | Lose | B+R | 7.5 | 3497 | -6 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Lian Xiao | Lose | W+R | 7.5 | 3503 | -30 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Yi Lingtao | Zhang Tao | Lose | W+R | 7.5 | 3533 | 22 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Yi Lingtao | Liu Zhaozhe | Win | B+R | 7.5 | 3511 | 3511 | 

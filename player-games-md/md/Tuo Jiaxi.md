@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Kang Dongyun | Win | B+R | 7.5 | 3494 | 9 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Tuo Jiaxi | Lose | B+R | 7.5 | 3485 | -19 | 
 | 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組第5戦 | Mi Yuting | Tuo Jiaxi | Lose | B+R | 7.5 | 3504 | -21 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Tuo Jiaxi | Ding Shixiong | Lose | W+R | 7.5 | 3525 | -30 | 

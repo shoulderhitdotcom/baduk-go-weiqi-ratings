@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Kang Dongyun | Lose | B+R | 7.5 | 3439 | -9 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Xia Chenkun | Kang Dongyun | Lose | B+R | 7.5 | 3448 | -9 | 
 | 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Kang Dongyun | Kim Seongjae | Win | B+R | 6.5 | 3457 | -2 | 
 | 2021-09-18 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Dongyun | Shin Minjun | Lose | W+R | 6.5 | 3459 | 0 | 

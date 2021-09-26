@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第9期中環碁聖戦 | Lin Jiehan | Wang Yuanjun | Lose | W+R | 6.5 | 2701 | 2701 | 
+| 2021-09-05 | 第9期中環碁聖戦 | Lin Jiehan |  | Win | B+R | 6.5 | missing | -2719 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 | Lin Jiehan | Liu Jianchang | Lose | W+4.5 | 6.5 | 2719 | 0 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 | Lin Jiehan |  | Lose | W+R | 6.5 | 2719 | 18 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Lin Jiehan | Lin Junyan | Lose | W+R | 6.5 | 2701 | -30 | 
 | 2021-03-31 | 第26回LG杯台湾予選 | Lin Jiehan | Xu Jingen | Lose | W+R | 6.5 | 2731 | -13 | 
@@ -21,7 +24,7 @@
 | 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Lai Junfu | Lin Jiehan | Lose | B+2.5 | 6.5 | 2870 | 10 | 
 | 2021-01-12 | 第20期天元戦（台湾）予選 | Lu Yiquan | Lin Jiehan | Lose | B+R | 6.5 | 2860 | -5 | 
 | 2021-01-11 | 第13回海峰杯プロ囲碁戦1回戦 | Lin Jiehan |  | Win | B+R | 6.5 | 2865 | 6 | 
-| 2021-01-08 | 第20期天元戦（台湾）予選 | Lin Jiehan |  | Win | B+R | 6.5 | 2859 | 6 | 
+| 2021-01-08 | 第20期天元戦（台湾）予選 | Lin Jiehan | Yang Zixuan | Win | B+R | 6.5 | 2859 | 6 | 
 | 2021-01-05 | 第20期天元戦（台湾）予選 | Lin Shengyi | Lin Jiehan | Win | W+R | 6.5 | 2853 | -8 | 
 | 2020-10-21 | 第1回UMC聯電杯早碁争覇戦2回戦 | Jian Jingting | Lin Jiehan | Lose | B+R | 6.5 | 2861 | -2 | 
 | 2020-10-14 | 第1回UMC聯電杯早碁争覇戦1回戦 | Huang Shiyuan | Lin Jiehan | Win | W+R | 6.5 | 2863 | 17 | 
@@ -29,7 +32,7 @@
 | 2020-09-28 | 第13期棋王戦（台湾）予選 | Lin Xiuping | Lin Jiehan | Win | W+R | 6.5 | 2850 | 52 | 
 | 2020-09-24 | 第13期棋王戦（台湾）予選 | Xu Yuqi | Lin Jiehan | Lose | B+R | 6.5 | 2798 | -35 | 
 | 2020-09-17 | 第13期棋王戦（台湾）予選 | Liu Yaowen | Lin Jiehan | Win | W+R | 6.5 | 2833 | 42 | 
-| 2020-09-15 | 第16期国手戦（台湾）1回戦 | Lin Jiehan |  | Lose | W+R | 6.5 | 2791 | -27 | 
+| 2020-09-15 | 第16期国手戦（台湾）1回戦 | Lin Jiehan | Yang Zixuan | Lose | W+R | 6.5 | 2791 | -27 | 
 | 2020-09-14 | 第13期棋王戦（台湾）予選 |  | Lin Jiehan | Win | W+R | 6.5 | 2818 | 11 | 
 | 2020-09-13 | 第8期中環碁聖戦2回戦 | Lin Lixiang | Lin Jiehan | Lose | B+R | 6.5 | 2807 | 27 | 
 | 2020-09-03 | 第13期棋王戦（台湾）予選 | Lin Jiehan | Lai Junfu | Lose | W+R | 6.5 | 2780 | -36 | 
@@ -42,7 +45,7 @@
 | 2020-03-23 | 第10期友士杯十段戦予選敗部4回戦 | Lin Jiehan |  | Lose | W+R | 6.5 | 2546 | -11 | 
 | 2020-03-20 | 第5回百霊杯台湾代表選抜戦 | Lai Junfu | Lin Jiehan | Lose | B+R | 7.5 | 2557 | -6 | 
 | 2020-03-19 | 第10期友士杯十段戦予選勝部決勝 | Lin Jiehan | Lin Lixiang | Lose | W+R | 6.5 | 2563 | -11 | 
-| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 |  | Lin Jiehan | Win | W+R | 7.5 | 2574 | 0 | 
+| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Lin Yuting | Lin Jiehan | Win | W+R | 7.5 | 2574 | 0 | 
 | 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Lin Jiehan | Huang Shiyuan | Win | B+R | 7.5 | 2574 | 8 | 
 | 2020-03-12 | 第10期友士杯十段戦予選勝部2回戦 | Lin Jiehan | Lin Shengyi | Win | B+R | 6.5 | 2566 | 0 | 
 | 2020-03-12 | 第10期友士杯十段戦予選勝部1回戦 | Chen Yida | Lin Jiehan | Win | W+2.5 | 6.5 | 2566 | 4 | 
@@ -50,11 +53,11 @@
 | 2020-02-21 | 第25回LG杯台湾代表選抜戦 | Jian Jingting | Lin Jiehan | Lose | B+R | 6.5 | 2550 | -4 | 
 | 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Lin Jiehan |  | Win | B+R | 6.5 | 2554 | 5 | 
 | 2020-02-19 | 第25回LG杯台湾代表選抜戦 | Lin Jiehan |  | Win | B+R | 6.5 | 2549 | -125 | 
-| 2020-02-17 | 第1期名人冠軍戦予選敗部決勝 | Lin Jiehan |  | Win | B+R | 6.5 | 2674 | -6 | 
+| 2020-02-17 | 第1期名人冠軍戦予選敗部決勝 | Lin Jiehan | Bai Xinhui | Win | B+R | 6.5 | 2674 | -6 | 
 | 2020-02-13 | 第1期名人冠軍戦予選敗部1回戦 | Lin Jiehan | Dang Xiyun | Win | B+5.5 | 6.5 | 2680 | -101 | 
 | 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Lin Jiehan | Huang Shiyuan | Lose | W+R | 6.5 | 2781 | -18 | 
 | 2020-02-05 | 第17期倡棋杯台湾代表選抜戦 |  | Lin Jiehan | Lose | B+R | 7.5 | 2799 | -27 | 
-| 2020-01-30 | 第17期倡棋杯台湾代表選抜戦 |  | Lin Jiehan | Win | W+R | 7.5 | 2826 | 1 | 
+| 2020-01-30 | 第17期倡棋杯台湾代表選抜戦 | Yang Zixuan | Lin Jiehan | Win | W+R | 7.5 | 2826 | 1 | 
 | 2020-01-22 | 第17期倡棋杯台湾代表選抜戦 | Ding Shaojie | Lin Jiehan | Win | W+R | 7.5 | 2825 | 6 | 
 | 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第4戦 | Lin Jiehan | Fukuoka Kotaro | Lose | W+R | 6.5 | 2819 | 0 | 
 | 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第3戦 | Lin Jiehan |  | Lose | W+R | 6.5 | 2819 | -39 | 
@@ -62,7 +65,7 @@
 | 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Lin Jiehan | Lin Shixun | Lose | W+R | 7.5 | 2844 | -2 | 
 | 2020-01-02 | 第9回応氏杯世界選手権台湾代表選抜戦 | Lin Jiehan |  | Win | B+R | 7.5 | 2846 | 267 | 
 | 2019-11-12 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第3戦 | Lin Jiehan |  | Lose | W+R | 6.5 | 2579 | -4 | 
-| 2019-11-11 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第2戦 | Lin Jiehan |  | Win | B+R | 6.5 | 2583 | 76 | 
+| 2019-11-11 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第2戦 | Lin Jiehan | Cho Seungah | Win | B+R | 6.5 | 2583 | 76 | 
 | 2019-10-09 | 2019新人王戦（台湾）予選敗部1回戦 | Lin Jiehan |  | Win | B+R | 7.5 | 2507 | 0 | 
 | 2019-10-09 | 2019新人王戦（台湾）予選勝部1回戦 | Lin Jiehan |  | Lose | W+R | 7.5 | 2507 | -19 | 
 | 2019-10-03 | 第12期棋王戦（台湾）予選敗部3回戦 | Lai Junfu | Lin Jiehan | Lose | B+7.5 | 6.5 | 2526 | -18 | 
@@ -97,7 +100,7 @@
 | 2018-09-16 | 第6期中環碁聖戦2回戦 |  | Lin Jiehan | Win | W+R | 6.5 | 2698 | 45 | 
 | 2018-09-02 | 第6期中環碁聖戦1回戦上半区 |  | Lin Jiehan | Win | W+R | 6.5 | 2653 | 107 | 
 | 2018-05-07 | 第8期友士杯十段戦予選 | Lin Jiehan | Liu Jianchang | Win | B+R | 6.5 | 2546 | -48 | 
-| 2018-03-19 | 第10回海峰杯プロ囲碁戦16強戦 | Lin Jiehan |  | Lose | W+0.5 | 6.5 | 2594 | -28 | 
+| 2018-03-19 | 第10回海峰杯プロ囲碁戦16強戦 | Lin Jiehan | Yang Zixuan | Lose | W+0.5 | 6.5 | 2594 | -28 | 
 | 2018-03-08 | 第10回海峰杯プロ囲碁戦32強戦 | Lin Shixun | Lin Jiehan | Win | W+R | 6.5 | 2622 | 82 | 
 | 2018-03-01 | 第10回海峰杯プロ囲碁戦64強戦 |  | Lin Jiehan | Win | W+R | 6.5 | 2540 | -13 | 
 | 2018-02-06 | 第12回春蘭杯台湾予選 | Lin Jiehan |  | Win | B+R | 7.5 | 2553 | 0 | 

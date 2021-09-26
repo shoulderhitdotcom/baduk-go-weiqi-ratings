@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Wang Shiyi | Liu Qifeng | Win | W+¼ | 7.5 | 3100 | 0 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Liu Qifeng | Byun Sangil | Lose | W+R | 7.5 | 3072 | 3072 | 
+| 2021-08-25 | 第12期中国竜星戦予選 | Yang Kaiwen | Liu Qifeng | Lose | B+¾ | 7.5 | missing | -3100 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Wang Shiyi | Liu Qifeng | Win | W+¼ | 7.5 | 3100 | 3100 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Liu Qifeng | Lose | B+R | 7.5 | missing | 0 | 
 | 2021-04-25 | 第20回西南棋王戦1回戦 | Liu Qifeng | Gu Li | Lose | W+R | 7.5 | missing | -2977 | 

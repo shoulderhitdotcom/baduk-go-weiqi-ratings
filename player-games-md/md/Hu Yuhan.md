@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Park Junghwan | Lose | W+R | 7.5 | 3278 | 0 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Ke Jie | Hu Yuhan | Lose | B+R | 7.5 | 3278 | -18 | 
 | 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Chang Hao | Hu Yuhan | Win | W+1¼ | 7.5 | 3296 | 35 | 
 | 2021-08-27 | 第12期中国竜星戦予選 | Xie Ke | Hu Yuhan | Lose | B+R | 7.5 | 3261 | 16 | 

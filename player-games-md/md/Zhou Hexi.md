@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Zhou Hexi | Win | W+R | 7.5 | 3339 | 42 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Fan Yin | Zhou Hexi | Lose | B+R | 7.5 | 3297 | 48 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Zhou Hexi | Lose | B+¾ | 7.5 | 3249 | -26 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Xie Erhao | Zhou Hexi | Lose | B+R | 7.5 | 3275 | 11 | 

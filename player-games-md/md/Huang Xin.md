@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Huang Xin | Xie Ke | Win | B+R | 7.5 | 3331 | 65 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Huang Xin | Dang Yifei | Lose | W+R | 7.5 | 3266 | 4 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Huang Xin | Han Yizhou | Lose | W+R | 7.5 | 3262 | -31 | 
 | 2021-08-24 | 第12期中国竜星戦予選 | Huang Xin | Wang Zejin | Win | B+R | 7.5 | 3293 | 118 | 

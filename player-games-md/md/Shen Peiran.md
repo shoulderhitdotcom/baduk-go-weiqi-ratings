@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-08-30 | 第12期中国竜星戦予選 |  | Shen Peiran | Lose | B+R | 7.5 | 2807 | 47 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Shen Peiran | Ding Shixiong | Win | B+R | 7.5 | 3070 | 263 | 
+| 2021-08-30 | 第12期中国竜星戦予選 | Wang Shuo | Shen Peiran | Lose | B+R | 7.5 | 2807 | 47 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Shen Peiran | Huang Yunsong | Lose | W+1¼ | 7.5 | 2760 | 6 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Shen Peiran | Dang Yifei | Lose | W+R | 7.5 | 2754 | 2754 | 
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Shen Peiran | Wang Xinghao | Lose | W+R | 7.5 | missing | 0 | 
@@ -26,11 +27,10 @@
 | 2019-10-22 | 2019博思軟件杯中国囲棋新秀争覇戦32強戦 |  | Shen Peiran | Win | W+R | 7.5 | 3167 | 8 | 
 | 2019-09-29 | 2019年全国囲棋個人戦男子組第13戦 | Wang Zejin | Shen Peiran | Win | W+R | 7.5 | 3159 | 2 | 
 | 2019-09-28 | 2019年全国囲棋個人戦男子組第11戦 | Shen Peiran |  | Win | B+R | 7.5 | 3157 | 42 | 
-| 2019-09-26 | 2019年全国囲棋個人戦男子組第10戦 | Wang Xinghao | Shen Peiran | Lose | B+R | 7.5 | 3115 | 0 | 
 | 2019-09-26 | 2019年全国囲棋個人戦男子組第10戦 | Wang Xinghao | Shen Peiran | Lose | B+R | 7.5 | 3115 | -35 | 
 | 2019-09-25 | 2019年全国囲棋個人戦男子組第8戦 |  | Shen Peiran | Win | W+R | 7.5 | 3150 | 10 | 
 | 2019-09-23 | 2019年全国囲棋個人戦男子組第7戦 | Shen Peiran |  | Win | B+R | 7.5 | 3140 | 15 | 
-| 2019-09-22 | 2019年全国囲棋個人戦男子組第6戦 | Shen Peiran |  | Win | B+R | 7.5 | 3125 | 64 | 
+| 2019-09-22 | 2019年全国囲棋個人戦男子組第6戦 | Shen Peiran | Wang Shuo | Win | B+R | 7.5 | 3125 | 64 | 
 | 2019-09-20 | 2019年全国囲棋個人戦男子組第4戦 |  | Shen Peiran | Win | W+R | 7.5 | 3061 | 39 | 
 | 2019-09-16 | 第21回中国囲碁甲級リーグプレーオフ1回戦第2戦 | Chen Xian | Shen Peiran | Lose | B+R | 7.5 | 3022 | 23 | 
 | 2019-09-14 | 第21回中国囲碁甲級リーグプレーオフ1回戦第1戦 | Shen Peiran | Huang Yunsong | Lose | W+R | 7.5 | 2999 | -39 | 
@@ -61,10 +61,10 @@
 | 2018-10-10 | 第20回中国囲碁甲級リーグ第19節民生-廈門 | Shen Peiran | Lee Donghoon | Lose | W+R | 7.5 | 2922 | -5 | 
 | 2018-10-08 | 第20回中国囲碁甲級リーグ第18節上海-民生 | Liao Xingwen | Shen Peiran | Win | W+R | 7.5 | 2927 | 28 | 
 | 2018-09-28 | 第20回中国囲碁甲級リーグ第17節民生-山東 | Fan Tingyu | Shen Peiran | Lose | B+R | 7.5 | 2899 | -4 | 
-| 2018-09-22 | 2018年全国囲棋個人戦男子組第9戦 | Shen Peiran |  | Lose | W+R | 7.5 | 2903 | 0 | 
+| 2018-09-22 | 2018年全国囲棋個人戦男子組第9戦 | Shen Peiran | Wang Shuo | Lose | W+R | 7.5 | 2903 | 0 | 
 | 2018-09-22 | 2018年全国囲棋個人戦男子組第8戦 | Zhou Hexi | Shen Peiran | Lose | B+R | 7.5 | 2903 | -79 | 
 | 2018-09-19 | 2018年全国囲棋個人戦男子組第5戦 | Shen Peiran | Chen Hao | Lose | W+R | 7.5 | 2982 | -47 | 
-| 2018-09-15 | 2018年全国囲棋個人戦男子組第1戦 |  | Shen Peiran | Lose | B+R | 7.5 | 3029 | -21 | 
+| 2018-09-15 | 2018年全国囲棋個人戦男子組第1戦 | Ma Yichao | Shen Peiran | Lose | B+R | 7.5 | 3029 | -21 | 
 | 2018-09-12 | 第20回中国囲碁甲級リーグ第16節衢州-民生 | Hu Yuhan | Shen Peiran | Win | W+R | 7.5 | 3050 | 32 | 
 | 2018-09-08 | 第20回中国囲碁甲級リーグ第14節民生-蘇泊爾 | Shen Peiran | Xie Ke | Lose | W+R | 7.5 | 3018 | -24 | 
 | 2018-08-15 | 第20回中国囲碁甲級リーグ第13節民生-江蘇 | Shen Peiran | Tong Mengcheng | Lose | W+R | 7.5 | 3042 | -16 | 

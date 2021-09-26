@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Liu Qifeng | Byun Sangil | Win | W+R | 7.5 | 3682 | 25 | 
 | 2021-08-28 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kim Jiseok | Byun Sangil | Lose | B+R | 6.5 | 3657 | 16 | 
 | 2021-08-07 | 第44期名人戦（韓国）決勝三番勝負第3局 | Shin Jinseo | Byun Sangil | Lose | B+R | 6.5 | 3641 | -1 | 
 | 2021-08-06 | 第44期名人戦（韓国）決勝三番勝負第2局 | Byun Sangil | Shin Jinseo | Lose | W+R | 6.5 | 3642 | -1 | 
@@ -153,7 +154,7 @@
 | 2019-08-22 | 第6回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Park Geunho | Byun Sangil | Win | W+R | 6.5 | 3166 | 4 | 
 | 2019-08-21 | 第6回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Byun Sangil | Song Jihoon | Win | B+3.5 | 6.5 | 3162 | -2 | 
 | 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Li Qincheng | Byun Sangil | Win | W+R | 7.5 | 3164 | -17 | 
-| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 |  | Byun Sangil | Win | W+R | 7.5 | 3181 | -12 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Wang Shuo | Byun Sangil | Win | W+R | 7.5 | 3181 | -12 | 
 | 2019-08-04 | 第6回国手山脈国際囲碁大会世界プロ最強戦準決勝 | Liao Yuanhe | Byun Sangil | Lose | B+R | 6.5 | 3193 | 0 | 
 | 2019-08-04 | 第6回国手山脈国際囲碁大会世界プロ最強戦8強戦 | Byun Sangil | Shin Minjun | Win | B+R | 6.5 | 3193 | 16 | 
 | 2019-08-03 | 第6回国手山脈国際囲碁大会世界プロ最強戦16強戦 | Iyama Yuta | Byun Sangil | Win | W+R | 6.5 | 3177 | 3 | 
@@ -267,7 +268,6 @@
 | 2017-07-02 | 第22回三星火災杯統合予選4回戦 | Byun Sangil |  | Win | B+R | 6.5 | 3291 | -19 | 
 | 2017-06-17 | 2017年中国囲碁乙級リーグ | Cho Hanseung | Byun Sangil | Lose | B+R | 7.5 | 3310 | -16 | 
 | 2017-06-12 | 2017年中国囲碁乙級リーグ | Byun Sangil |  | Lose | W+R | 7.5 | 3326 | -18 | 
-| 2017-06-11 | 2017年中国囲碁乙級リーグ | Guo Yuzheng | Byun Sangil | Win | W+R | 7.5 | 3344 | 0 | 
 | 2017-06-11 | 2017年中国囲碁乙級リーグ | Guo Yuzheng | Byun Sangil | Win | W+R | 7.5 | 3344 | 32 | 
 | 2017-06-01 | 2017年韓国囲碁リーグ | Byun Sangil | Seol Hyunjun | Win | B+R | 6.5 | 3312 | -23 | 
 | 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Byun Sangil | Park Junghwan | Lose | W+R | 6.5 | 3335 | 19 | 
@@ -338,7 +338,7 @@
 | 2015-09-19 | 2015年韓国囲碁リーグ | Kim Dongho | Byun Sangil | Win | W+R | 6.5 | 3023 | -5 | 
 | 2015-09-10 | 第20回三星火災杯世界囲碁マスターズ1回戦F3 | Shin Minjun | Byun Sangil | Win | W+R | 6.5 | 3028 | 11 | 
 | 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦F2 | Byun Sangil | Jiang Weijie | Lose | W+R | 6.5 | 3017 | -2 | 
-| 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦F1 |  | Byun Sangil | Win | W+R | 6.5 | 3019 | 15 | 
+| 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦F1 | Ma Yichao | Byun Sangil | Win | W+R | 6.5 | 3019 | 15 | 
 | 2015-09-06 | 2015年韓国囲碁リーグ | Cho Hanseung | Byun Sangil | Lose | B+R | 6.5 | 3004 | -7 | 
 | 2015-09-02 | 第43期名人戦（韓国）予選 | Byun Sangil | Park Hamin | Win | B+R | 6.5 | 3011 | -23 | 
 | 2015-08-29 | 2015年韓国囲碁リーグ | Byun Sangil |  | Lose | W+R | 6.5 | 3034 | -51 | 

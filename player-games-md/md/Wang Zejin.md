@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Wang Zejin | Xia Chenkun | Win | B+R | 7.5 | 3410 | 28 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Rong Yi | Wang Zejin | Lose | B+1¾ | 7.5 | 3382 | -30 | 
 | 2021-09-01 | 第26回三星火災杯中国予選 | Wang Zejin | Li Xuanhao | Lose | W+R | 6.5 | 3412 | 0 | 
 | 2021-08-24 | 第12期中国竜星戦予選 | Huang Xin | Wang Zejin | Lose | B+R | 7.5 | 3412 | 41 | 

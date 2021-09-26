@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Guo Xinyi | Shin Jinseo | Win | W+R | 7.5 | 3814 | -2 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Jiang Weijie | Win | B+R | 7.5 | 3816 | -7 | 
 | 2021-09-22 | 2021電子ランドライバル対戦第9局 | Shin Jinseo | Park Junghwan | Win | B+R | 6.5 | 3823 | -3 | 
 | 2021-09-20 | 2021電子ランドライバル対戦第3局 | Shin Jinseo | Kim Jiseok | Lose | W+R | 6.5 | 3826 | 3 | 

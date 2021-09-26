@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-26 | 第9期中環碁聖戦 | Chen Shiyuan | Gao Yun | Win | B+R | 6.5 | 2949 | -24 | 
 | 2021-09-22 | 第9期中環碁聖戦 | Chen Shiyuan | Chen Feng | Win | B+R | 6.5 | 2973 | 29 | 
 | 2021-09-16 | 第14期棋王戦（台湾）予選 | Huang Shiyuan | Chen Shiyuan | Lose | B+R | 6.5 | 2944 | -30 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Chen Shiyuan | Cai Chengwei | Lose | W+R | 6.5 | 2974 | 11 | 

@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Meng Tailing | Chen Zijian | Win | B+R | 7.5 | 3346 | 1 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Meng Tailing | Tan Xiao | Win | B+¾ | 7.5 | 3440 | 95 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Meng Tailing | Chen Zijian | Win | B+R | 7.5 | 3345 | 42 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Meng Tailing | Li Qincheng | Lose | W+¼ | 7.5 | 3303 | -15 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Meng Tailing | Lose | B+R | 7.5 | 3318 | -27 | 
@@ -38,7 +38,7 @@
 | 2019-11-04 | 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 |  | Meng Tailing | Win | W+R | 7.5 | 3296 | 55 | 
 | 2019-10-13 | 第4回Mlily夢百合杯世界囲碁オープン戦16強戦 | Meng Tailing | Park Yeonghun | Win | B+R | 7.5 | 3241 | -5 | 
 | 2019-10-11 | 第4回Mlily夢百合杯世界囲碁オープン戦32強戦 | Meng Tailing | Li Xuanhao | Win | B+R | 7.5 | 3246 | 12 | 
-| 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Meng Tailing |  | Win | B+R | 7.5 | 3234 | 23 | 
+| 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Meng Tailing | Liu Zhaozhe | Win | B+R | 7.5 | 3234 | 23 | 
 | 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Jiang Weijie | Meng Tailing | Lose | B+R | 7.5 | 3211 | -29 | 
 | 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Meng Tailing | Fan Yunruo | Lose | W+R | 7.5 | 3240 | -25 | 
 | 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Park Junghwan | Meng Tailing | Lose | B+R | 7.5 | 3265 | 26 | 
@@ -282,7 +282,7 @@
 | 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Meng Tailing | Liao Xingwen | Lose | W+R | 7.5 | 3244 | 55 | 
 | 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Tao Xinran | Meng Tailing | Win | W+R | 7.5 | 3189 | 14 | 
 | 2014-05-18 | 第16回中国囲碁甲級リーグ第3節 | Meng Tailing | Chen Yaoye | Lose | W+R | 7.5 | 3175 | -15 | 
-| 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 |  | Meng Tailing | Win | W+R | 7.5 | 3190 | 17 | 
+| 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Ma Yichao | Meng Tailing | Win | W+R | 7.5 | 3190 | 17 | 
 | 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 |  | Meng Tailing | Win | W+R | 7.5 | 3173 | 38 | 
 | 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Jiang Weijie | Meng Tailing | Lose | B+1.5 | 7.5 | 3135 | -124 | 
 | 2014-04-14 | 第19回LG杯予選 | Lee Donghoon | Meng Tailing | Lose | B+R | 6.5 | 3259 | -32 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Peng Liyao | Huang Mingyu | Lose | W+R | 7.5 | 3416 | -23 | 
 | 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組 | Tang Weixing | Peng Liyao | Lose | B+R | 7.5 | 3439 | 1 | 
 | 2021-08-30 | 第26回三星火災杯中国予選 | Peng Liyao | Lian Xiao | Win | B+R | 6.5 | 3438 | 17 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Guo Xinyi | Peng Liyao | Lose | B+R | 7.5 | 3421 | -68 | 

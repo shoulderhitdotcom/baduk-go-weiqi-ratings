@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Rong Yi | Wang Zejin | Win | B+1¾ | 7.5 | 3471 | 21 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Rong Yi | Tao Xinran | Lose | W+R | 7.5 | 3450 | 6 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Li Xuanhao | Rong Yi | Lose | B+¾ | 7.5 | 3444 | -5 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Rong Yi | Win | W+R | 7.5 | 3449 | 29 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Huang Xin | Rong Yi | Lose | B+¾ | 7.5 | 3420 | -29 | 
@@ -121,7 +123,7 @@
 | 2015-07-27 | 2015年中国段位戦 | Han Yizhou | Rong Yi | Win | W+R | 7.5 | 3115 | 14 | 
 | 2015-07-26 | 2015年中国段位戦 | Rong Yi | Qin Yuexin | Lose | W+R | 7.5 | 3101 | -16 | 
 | 2015-07-25 | 2015年中国段位戦 | Wang Chenxing | Rong Yi | Win | W+R | 7.5 | 3117 | -3 | 
-| 2015-07-24 | 2015年中国段位戦 |  | Rong Yi | Win | W+R | 7.5 | 3120 | 14 | 
+| 2015-07-24 | 2015年中国段位戦 | Ma Yichao | Rong Yi | Win | W+R | 7.5 | 3120 | 14 | 
 | 2015-07-22 | 2015年中国段位戦 | Rong Yi |  | Win | B+R | 7.5 | 3106 | 1 | 
 | 2015-07-21 | 2015年中国段位戦 | Rong Yi | Tong Yulin | Win | B+R | 7.5 | 3105 | 16 | 
 | 2015-07-20 | 2015年中国段位戦 | Rong Yi | Huang Yunsong | Lose | W+R | 7.5 | 3089 | -19 | 

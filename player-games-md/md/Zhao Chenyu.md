@@ -7,13 +7,15 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Zhang Tao | Zhao Chenyu | Lose | B+R | 7.5 | 3423 | -31 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tao Xinran | Zhao Chenyu | Win | W+¼ | 7.5 | 3454 | 0 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zhao Chenyu | Li Xiangyu | Win | B+R | 7.5 | 3454 | -8 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Liao Xingwen | Zhao Chenyu | Lose | B+R | 7.5 | 3462 | 3462 | 
 | 2021-08-25 | 第26回三星火災杯中国予選 | Zhao Chenyu | Lian Xiao | Win | B+R | 6.5 | missing | 0 | 
 | 2021-08-20 | 第26回三星火災杯中国予選 | Huang Yunsong | Zhao Chenyu | Win | W+R | 6.5 | missing | -3425 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Tong Mengcheng | Zhao Chenyu | Win | W+R | 6.5 | 3425 | 15 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Li Qincheng | Zhao Chenyu | Lose | B+R | 7.5 | 3410 | 18 | 
-| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Jiang Weijie | Zhao Chenyu | Win | W+R | 7.5 | 3392 | 1 | 
-| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Jiang Weijie | Zhao Chenyu | Win | W+R | 7.5 | 3391 | -7 | 
+| 2021-07-27 | 第16回威孚房開杯棋王戦1回戦 | Jiang Weijie | Zhao Chenyu | Win | W+R | 7.5 | 3392 | -6 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Ding Shixiong | Zhao Chenyu | Lose | B+R | 7.5 | 3398 | -16 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Chen Hao | Zhao Chenyu | Win | W+R | 7.5 | 3414 | 17 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Zhao Chenyu | Li Xuanhao | Win | B+R | 7.5 | 3397 | 15 | 
@@ -267,7 +269,7 @@
 | 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Zhao Chenyu | Tan Xiao | Win | B+R | 7.5 | 3030 | 8 | 
 | 2015-08-31 | 2015年全国囲棋個人戦男子組第8戦 | Zhao Chenyu | Xu Jiayang | Win | B+R | 7.5 | 3022 | 0 | 
 | 2015-08-29 | 2015年全国囲棋個人戦男子組第7戦 | Dang Yifei | Zhao Chenyu | Lose | B+R | 7.5 | 3022 | -27 | 
-| 2015-08-28 | 2015年全国囲棋個人戦男子組第6戦 |  | Zhao Chenyu | Win | W+R | 7.5 | 3049 | 14 | 
+| 2015-08-28 | 2015年全国囲棋個人戦男子組第6戦 | Wang Shuo | Zhao Chenyu | Win | W+R | 7.5 | 3049 | 14 | 
 | 2015-08-14 | 2015年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Zhao Chenyu | An Jungki | Win | B+1.5 | 7.5 | 3035 | 7 | 
 | 2015-07-26 | 2015年中国段位戦 | Yu Zhiying | Zhao Chenyu | Lose | B+1.5 | 7.5 | 3028 | -19 | 
 | 2015-07-25 | 2015年中国段位戦 | Huang Xin | Zhao Chenyu | Lose | B+R | 7.5 | 3047 | -15 | 

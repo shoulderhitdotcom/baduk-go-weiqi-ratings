@@ -7,10 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Chen Yaoye | Lose | W+¼ | 7.5 | 3478 | -10 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tu Xiaoyu | Li Xuanhao | Lose | W+R | 7.5 | 3488 | -21 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Tu Xiaoyu | Pan Tingyu | Lose | W+R | 7.5 | 3509 | 24 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Tu Xiaoyu |  | Win | B+R | 7.5 | 3485 | 58 | 
-| 2021-08-13 | 第26回三星火災杯中国予選 | Huang Yunsong | Tu Xiaoyu | Lose | B+R | 6.5 | 3427 | -1 | 
-| 2021-08-13 | 第26回三星火災杯中国予選 | Huang Yunsong | Tu Xiaoyu | Lose | B+R | 6.5 | 3428 | -12 | 
+| 2021-08-13 | 第26回三星火災杯中国予選 | Huang Yunsong | Tu Xiaoyu | Lose | B+R | 6.5 | 3427 | -13 | 
 | 2021-06-16 | 第25期馬橋杯中国囲碁新人王戦決勝三番勝負第3局 | Tu Xiaoyu | Wang Xinghao | Win | B+R | 7.5 | 3440 | 19 | 
 | 2021-06-15 | 第25期馬橋杯中国囲碁新人王戦決勝三番勝負第2局 | Wang Xinghao | Tu Xiaoyu | Win | W+R | 7.5 | 3421 | -1 | 
 | 2021-06-14 | 第25期馬橋杯中国囲碁新人王戦決勝三番勝負第1局 | Tu Xiaoyu | Wang Xinghao | Lose | W+R | 7.5 | 3422 | -6 | 

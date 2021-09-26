@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | He Yuhan | Ding Shixiong | Win | W+1¼ | 7.5 | 3396 | 10 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Huang Yunsong | Ding Shixiong | Lose | B+R | 7.5 | 3386 | -9 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Tuo Jiaxi | Ding Shixiong | Win | W+R | 7.5 | 3395 | 104 | 
 | 2021-08-24 | 第12期中国竜星戦予選 | Qin Yuexin | Ding Shixiong | Win | W+R | 7.5 | 3291 | 48 | 
@@ -118,7 +119,7 @@
 | 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 | Ding Shixiong |  | Lose | W+R | 7.5 | 3109 | -23 | 
 | 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Ding Shixiong | Tong Mengcheng | Win | B+R | 7.5 | 3132 | -4 | 
 | 2015-06-25 | 第17回中国囲碁甲級リーグ第8節 | Ding Shixiong | Fan Yunruo | Win | B+R | 7.5 | 3136 | -38 | 
-| 2015-06-23 | 2015年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Ding Shixiong |  | Win | B+5.5 | 7.5 | 3174 | 0 | 
+| 2015-06-23 | 2015年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Ding Shixiong | Ma Yichao | Win | B+5.5 | 7.5 | 3174 | 0 | 
 | 2015-06-23 | 2015年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Ding Shixiong | Xie Erhao | Win | B+R | 7.5 | 3174 | 41 | 
 | 2015-06-22 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Ding Shixiong | Ke Jie | Lose | W+R | 7.5 | 3133 | 0 | 
 | 2015-06-22 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Ding Shixiong | Liao Yuanhe | Win | B+R | 7.5 | 3133 | 37 | 

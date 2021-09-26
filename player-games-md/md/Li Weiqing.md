@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Li Weiqing | Gu Zihao | Win | B+R | 7.5 | 3602 | 25 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Chen Xian | Li Weiqing | Lose | B+R | 7.5 | 3577 | -11 | 
+| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Niu Yutian | Li Weiqing | Win | W+R | 7.5 | 3588 | -28 | 
 | 2021-09-03 | 第12期中国竜星戦予選 | Li Weiqing | Liao Yuanhe | Lose | W+R | 7.5 | 3616 | 2 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Guo Xinyi | Li Weiqing | Win | W+R | 7.5 | 3614 | -6 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Tan Xiao | Li Weiqing | Win | W+R | 7.5 | 3620 | 10 | 
@@ -61,13 +64,13 @@
 | 2020-04-10 | 第25回LG杯中国予選 | Li Weiqing | Tan Xiao | Lose | W+R | 6.5 | 3410 | -207 | 
 | 2020-01-05 | 第34期中国囲碁天元戦予選 | Li He | Li Weiqing | Win | W+R | 7.5 | 3617 | 9 | 
 | 2019-12-30 | 第5期洛陽白雲山杯中国棋聖戦予選 | Li Weiqing | Tao Xinran | Win | B+R | 7.5 | 3608 | 322 | 
-| 2019-12-12 | 第21回中国囲碁甲級リーグ5位決定戦第3戦 |  | Li Weiqing | Win | W+R | 7.5 | 3286 | 7 | 
+| 2019-12-12 | 第21回中国囲碁甲級リーグ5位決定戦第3戦 | Ma Yichao | Li Weiqing | Win | W+R | 7.5 | 3286 | 7 | 
 | 2019-12-11 | 第21回中国囲碁甲級リーグ5位決定戦第2戦 | Park Junghwan | Li Weiqing | Lose | B+¾ | 7.5 | 3279 | -3 | 
 | 2019-12-09 | 第21回中国囲碁甲級リーグ5位決定戦第1戦 | Li Weiqing | Park Junghwan | Win | B+R | 7.5 | 3282 | 7 | 
 | 2019-11-29 | 第15期威孚房開杯棋王戦準決勝 | Li Weiqing | Mi Yuting | Lose | W+R | 7.5 | 3275 | -2 | 
 | 2019-11-28 | 第15期威孚房開杯棋王戦8強戦 | Xu Jiayang | Li Weiqing | Win | W+R | 7.5 | 3277 | 4 | 
 | 2019-11-18 | 第4回全国智力運動会男子団体戦第9戦 | Tong Mengcheng | Li Weiqing | Lose | B+R | 7.5 | 3273 | -19 | 
-| 2019-11-15 | 第4回全国智力運動会男子団体戦第4戦 |  | Li Weiqing | Win | W+R | 7.5 | 3292 | -1 | 
+| 2019-11-15 | 第4回全国智力運動会男子団体戦第4戦 | Ma Yichao | Li Weiqing | Win | W+R | 7.5 | 3292 | -1 | 
 | 2019-11-14 | 第4回全国智力運動会男子団体戦第1戦 | Li Weiqing | Yi Lingtao | Win | B+R | 7.5 | 3293 | -8 | 
 | 2019-11-11 | 第4回全国智力運動会大学生個人戦第9戦 | Li Weiqing | Zhang Tao | Lose | W+R | 7.5 | 3301 | -7 | 
 | 2019-11-10 | 第4回全国智力運動会大学生個人戦第4戦 | Li Weiqing | Rong Yi | Lose | W+R | 7.5 | 3308 | 6 | 
@@ -229,7 +232,7 @@
 | 2014-02-11 | 第21期建橋杯中国囲碁新人王戦2回戦 | Yi Lingtao | Li Weiqing | Win | W+R | 7.5 | 2985 | -30 | 
 | 2014-02-10 | 第21期建橋杯中国囲碁新人王戦1回戦 | Gu Zihao | Li Weiqing | Win | W+R | 7.5 | 3015 | 123 | 
 | 2013-12-29 | 第14期リコー杯囲碁戦1回戦 | Kong Jie | Li Weiqing | Lose | B+R | 7.5 | 2892 | 71 | 
-| 2013-12-27 | 第8期リコー杯新秀戦1回戦 |  | Li Weiqing | Lose | B+R | 7.5 | 2821 | -308 | 
+| 2013-12-27 | 第8期リコー杯新秀戦1回戦 | Ma Yichao | Li Weiqing | Lose | B+R | 7.5 | 2821 | -308 | 
 | 2013-12-10 | 第8期リコー杯新秀戦予選 | Gong Yanyu | Li Weiqing | Win | W+R | 7.5 | 3129 | 3129 | 
 | 2013-07-01 | 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Li Weiqing | An Dongxu | Lose | W+R | 7.5 | missing | 0 | 
 | 2013-06-29 | 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Cai Bihan | Li Weiqing | Win | W+R | 7.5 | missing | 0 | 

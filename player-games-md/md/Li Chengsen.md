@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-08-26 | 第12期中国竜星戦予選 | Li Chengsen |  | Lose | W+3¼ | 7.5 | 3330 | 3330 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Li Chengsen | Shi Yue | Lose | W+2¼ | 7.5 | 3342 | 12 | 
+| 2021-08-26 | 第12期中国竜星戦予選 | Li Chengsen | Hua Chang | Lose | W+3¼ | 7.5 | 3330 | 3330 | 
 | 2021-08-25 | 第26回三星火災杯中国予選 | Li Chengsen | Tong Mengcheng | Win | B+R | 6.5 | missing | -3230 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Li Chengsen | Chen Yaoye | Lose | W+R | 7.5 | 3230 | -11 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Li Chengsen | Lose | B+R | 7.5 | 3241 | -45 | 

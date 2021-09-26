@@ -7,8 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-08-13 | 第26回三星火災杯中国予選 | Fan Tingyu | Tan Xiao | Win | B+R | 6.5 | 3521 | -1 | 
-| 2021-08-13 | 第26回三星火災杯中国予選 | Fan Tingyu | Tan Xiao | Win | B+R | 6.5 | 3522 | 7 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Li Qincheng | Win | B+R | 7.5 | 3526 | 3526 | 
+| 2021-08-20 | 第26回三星火災杯中国予選 | Lian Xiao | Fan Tingyu | Lose | B+R | 6.5 | missing | -3521 | 
+| 2021-08-13 | 第26回三星火災杯中国予選 | Fan Tingyu | Tan Xiao | Win | B+R | 6.5 | 3521 | 6 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Fan Tingyu | Peng Liyao | Lose | W+R | 7.5 | 3515 | 5 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Chen Yaoye | Fan Tingyu | Win | W+R | 7.5 | 3510 | 8 | 
 | 2021-07-28 | 第23回農心杯中国予選 | Xu Jiayang | Fan Tingyu | Win | W+R | 6.5 | 3502 | -6 | 
@@ -137,7 +138,7 @@
 | 2019-01-06 | 第33期中国囲碁天元戦2回戦 | Fan Tingyu | Zhang Tao | Win | B+R | 7.5 | 3382 | 0 | 
 | 2019-01-04 | 第33期中国囲碁天元戦1回戦 | Ding Hao | Fan Tingyu | Win | W+R | 7.5 | 3382 | -14 | 
 | 2018-12-14 | 第20回中国囲碁甲級リーグ第26節江西-山東 | Fan Tingyu | Xu Jiayang | Lose | W+¼ | 7.5 | 3396 | -6 | 
-| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節山東-成都 |  | Fan Tingyu | Win | W+R | 7.5 | 3402 | -43 | 
+| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節山東-成都 | Ma Yichao | Fan Tingyu | Win | W+R | 7.5 | 3402 | -43 | 
 | 2018-11-29 | 第7回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Lian Xiao | Fan Tingyu | Lose | B+R | 7.5 | 3445 | 4 | 
 | 2018-11-27 | 第20回農心辛ラーメン杯世界囲碁最強戦第9戦 | Park Junghwan | Fan Tingyu | Lose | B+R | 6.5 | 3441 | -26 | 
 | 2018-11-26 | 第20回農心辛ラーメン杯世界囲碁最強戦第8戦 | Ichiriki Ryo | Fan Tingyu | Win | W+R | 6.5 | 3467 | 21 | 

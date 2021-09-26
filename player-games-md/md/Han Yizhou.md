@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Park Junghwan | Han Yizhou | Lose | B+R | 7.5 | 3435 | -33 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Han Yizhou | Sun Tengyu | Lose | W+R | 7.5 | 3468 | -14 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Huang Xin | Han Yizhou | Win | W+R | 7.5 | 3482 | 37 | 
 | 2021-08-24 | 第12期中国竜星戦予選 | Han Yizhou | Xia Chenkun | Win | B+R | 7.5 | 3445 | 58 | 
@@ -37,7 +38,7 @@
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Jiang Qirun | Han Yizhou | Win | W+R | 7.5 | 3354 | 54 | 
 | 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Xie He | Han Yizhou | Win | W+R | 7.5 | 3300 | 35 | 
 | 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Han Yizhou | Xie Erhao | Lose | W+R | 7.5 | 3265 | -13 | 
-| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Han Yizhou |  | Win | B+R | 7.5 | 3278 | -4 | 
+| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Han Yizhou | Ma Yichao | Win | B+R | 7.5 | 3278 | -4 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Han Yizhou | Sun Tengyu | Lose | W+R | 7.5 | 3282 | -34 | 
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Cao Xiaoyang | Han Yizhou | Lose | B+R | 7.5 | 3316 | 178 | 
 | 2019-11-16 | 第4回全国智力運動会男子団体戦第5戦 | Han Yizhou | Fan Tingyu | Lose | W+R | 7.5 | 3138 | -20 | 
@@ -90,7 +91,7 @@
 | 2018-10-08 | 第20回中国囲碁甲級リーグ第18節中信-浙江 | Li Zhe | Han Yizhou | Win | W+R | 7.5 | 3222 | 5 | 
 | 2018-09-28 | 第20回中国囲碁甲級リーグ第17節江西-中信 | Han Yizhou | Xu Jiayang | Lose | W+R | 7.5 | 3217 | -15 | 
 | 2018-09-26 | 2018年全国囲棋個人戦男子組第13戦 | Han Yizhou | Wang Zejin | Lose | W+R | 7.5 | 3232 | -1 | 
-| 2018-09-25 | 2018年全国囲棋個人戦男子組第12戦 |  | Han Yizhou | Lose | B+R | 7.5 | 3233 | -13 | 
+| 2018-09-25 | 2018年全国囲棋個人戦男子組第12戦 | Wang Shuo | Han Yizhou | Lose | B+R | 7.5 | 3233 | -13 | 
 | 2018-09-22 | 2018年全国囲棋個人戦男子組第9戦 | Chen Xian | Han Yizhou | Win | W+R | 7.5 | 3246 | -8 | 
 | 2018-09-20 | 2018年全国囲棋個人戦男子組第7戦 | Han Yizhou | Li Weiqing | Lose | W+R | 7.5 | 3254 | -12 | 
 | 2018-09-19 | 2018年全国囲棋個人戦男子組第6戦 |  | Han Yizhou | Win | W+¼ | 7.5 | 3266 | -9 | 
@@ -112,7 +113,7 @@
 | 2018-05-09 | 第20回中国囲碁甲級リーグ第5節浙江-中信 | Han Yizhou | Zhou Hexi | Win | B+R | 7.5 | 3401 | 38 | 
 | 2018-04-25 | 第20回中国囲碁甲級リーグ第4節中信-江西 | Han Yizhou | Tu Xiaoyu | Lose | W+¼ | 7.5 | 3363 | -21 | 
 | 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Han Yizhou | Mi Yuting | Lose | W+R | 7.5 | 3384 | 23 | 
-| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節成都-中信 | Han Yizhou |  | Win | B+R | 7.5 | 3361 | -23 | 
+| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節成都-中信 | Han Yizhou | Ma Yichao | Win | B+R | 7.5 | 3361 | -23 | 
 | 2018-03-28 | 第20回中国囲碁甲級リーグ第2節中信-重慶 | Gu Li | Han Yizhou | Lose | B+R | 7.5 | 3384 | -43 | 
 | 2018-03-26 | 第20回中国囲碁甲級リーグ第1節中信-杭州 | Han Yizhou | Ding Hao | Win | B+R | 7.5 | 3427 | 26 | 
 | 2018-03-18 | 第9期中国竜星戦Bブロック第5局 | Yang Dingxin | Han Yizhou | Lose | B+R | 7.5 | 3401 | -82 | 
@@ -141,7 +142,7 @@
 | 2017-09-20 | 2017年全国囲棋個人戦男子組第7戦 | Liao Yuanhe | Han Yizhou | Win | W+2.5 | 7.5 | 3303 | 20 | 
 | 2017-09-17 | 2017年全国囲棋個人戦男子組第4戦 | Han Yizhou |  | Win | B+3.5 | 7.5 | 3283 | 17 | 
 | 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Lian Xiao | Han Yizhou | Win | W+R | 7.5 | 3266 | 25 | 
-| 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 |  | Han Yizhou | Win | W+R | 7.5 | 3241 | -1 | 
+| 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Ma Yichao | Han Yizhou | Win | W+R | 7.5 | 3241 | -1 | 
 | 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Han Yizhou |  | Win | B+R | 7.5 | 3242 | 15 | 
 | 2017-08-29 | 2017中国国家青年隊選抜戦8回戦 | Han Yizhou | Tao Xinran | Win | B+R | 7.5 | 3227 | 10 | 
 | 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Wang Zejin | Han Yizhou | Win | W+R | 7.5 | 3217 | 17 | 
@@ -162,7 +163,7 @@
 | 2016-12-30 | 第31期中国囲碁天元戦予選 | Han Yizhou |  | Win | B+R | 7.5 | 2909 | 23 | 
 | 2016-12-29 | 第31期中国囲碁天元戦予選 | Han Yizhou | Wang Tao | Win | B+5.5 | 7.5 | 2886 | 0 | 
 | 2016-12-29 | Alphago Online Series on Tygem and Fox 08 | Han Yizhou |  | Lose | W+R | 6.5 | 2886 | 21 | 
-| 2016-12-28 | 第31期中国囲碁天元戦予選 |  | Han Yizhou | Win | W+R | 7.5 | 2865 | 3 | 
+| 2016-12-28 | 第31期中国囲碁天元戦予選 | Ma Yichao | Han Yizhou | Win | W+R | 7.5 | 2865 | 3 | 
 | 2016-12-27 | 第31期中国囲碁天元戦予選 |  | Han Yizhou | Win | W+R | 7.5 | 2862 | 25 | 
 | 2016-12-17 | 嫘祖杯第29期中国名人戦網選3回戦 | Wang Zejin | Han Yizhou | Lose | B+R | 7.5 | 2837 | -14 | 
 | 2016-12-16 | 嫘祖杯第29期中国名人戦網選2回戦 |  | Han Yizhou | Win | W+0.5 | 7.5 | 2851 | -40 | 

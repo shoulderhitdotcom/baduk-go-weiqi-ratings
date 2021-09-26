@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Li Xuanhao | Win | W+1¼ | 7.5 | 3522 | -4 | 
 | 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組 | Lian Xiao | Li Xuanhao | Lose | B+R | 7.5 | 3526 | 1 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Li Xuanhao | Liu Yuhang | Lose | W+R | 7.5 | 3525 | 0 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tu Xiaoyu | Li Xuanhao | Win | W+R | 7.5 | 3525 | -17 | 

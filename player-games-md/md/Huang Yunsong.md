@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Tan Xiao | Win | B+R | 7.5 | 3575 | 15 | 
 | 2021-09-17 | 第12期中国竜星戦Bブロック7回戦 | Huang Yunsong | Xu Jiayang | Win | B+¾ | 7.5 | 3560 | 13 | 
 | 2021-09-16 | 第12期中国竜星戦Bブロック6回戦 | Huang Yunsong | Zhang Tao | Win | B+2¾ | 7.5 | 3547 | 22 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Huang Mingyu | Huang Yunsong | Win | W+R | 7.5 | 3525 | 0 | 

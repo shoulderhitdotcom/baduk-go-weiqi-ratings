@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Ke Jie | Hu Yuhan | Lose | B+R | 7.5 | 3278 | -18 | 
+| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Chang Hao | Hu Yuhan | Win | W+1¼ | 7.5 | 3296 | 35 | 
 | 2021-08-27 | 第12期中国竜星戦予選 | Xie Ke | Hu Yuhan | Lose | B+R | 7.5 | 3261 | 16 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Li Weiqing | Lose | W+R | 7.5 | 3245 | -25 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Wang Shiyi | Lose | W+R | 7.5 | 3270 | -37 | 
@@ -94,7 +96,7 @@
 | 2015-08-21 | 2015年全国囲棋個人戦男子組第1戦 | Lin Lixiang | Hu Yuhan | Win | W+R | 7.5 | 3062 | 1 | 
 | 2015-08-16 | 2015年利民杯世界囲碁星鋭最強戦第2ステージ決勝 | Hu Yuhan | Shin Minjun | Lose | W+R | 7.5 | 3061 | -14 | 
 | 2015-07-27 | 2015年中国段位戦 | Li Xiangyu | Hu Yuhan | Win | W+R | 7.5 | 3075 | 21 | 
-| 2015-07-26 | 2015年中国段位戦 |  | Hu Yuhan | Win | W+R | 7.5 | 3054 | 2 | 
+| 2015-07-26 | 2015年中国段位戦 | Liu Zhaozhe | Hu Yuhan | Win | W+R | 7.5 | 3054 | 2 | 
 | 2015-07-25 | 2015年中国段位戦 | Cao Youyin | Hu Yuhan | Win | W+R | 7.5 | 3052 | -7 | 
 | 2015-07-24 | 2015年中国段位戦 | Liao Yuanhe | Hu Yuhan | Lose | B+R | 7.5 | 3059 | -50 | 
 | 2015-07-01 | 第7期中国竜星戦予選 |  | Hu Yuhan | Lose | B+R | 7.5 | 3109 | -69 | 

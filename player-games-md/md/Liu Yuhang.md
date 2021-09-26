@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Han Yizhou | Lose | W+R | 7.5 | 3435 | 1 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Xu Yidi | Liu Yuhang | Win | W+R | 7.5 | 3486 | 1 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Li Xuanhao | Liu Yuhang | Win | W+R | 7.5 | 3485 | 51 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Han Yizhou | Lose | W+R | 7.5 | 3434 | -31 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Liu Yuhang | Lose | B+R | 7.5 | 3465 | -13 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Liu Yuhang | Win | W+R | 7.5 | 3478 | 20 | 
@@ -35,7 +36,7 @@
 | 2019-09-28 | 2019年全国囲棋個人戦男子組第12戦 | Liu Yuhang | Fan Yunruo | Lose | W+R | 7.5 | 3031 | -22 | 
 | 2019-09-26 | 2019年全国囲棋個人戦男子組第10戦 | Liu Yuhang | Wang Zejin | Win | B+R | 7.5 | 3053 | 112 | 
 | 2019-09-25 | 2019年全国囲棋個人戦男子組第9戦 | Li Chengsen | Liu Yuhang | Lose | B+R | 7.5 | 2941 | 129 | 
-| 2019-09-18 | 2019年全国囲棋個人戦男子組第1戦 | Liu Yuhang |  | Win | B+R | 7.5 | 2812 | -44 | 
+| 2019-09-18 | 2019年全国囲棋個人戦男子組第1戦 | Liu Yuhang | Hua Chang | Win | B+R | 7.5 | 2812 | -44 | 
 | 2019-06-19 | 2019年中国囲碁乙級リーグ | Lin Lixiang | Liu Yuhang | Win | W+R | 7.5 | 2856 | 2856 | 
 | 2019-02-19 | 第23期海克力斯杯中国囲碁新人王戦準決勝 | Zhou Hongyu | Liu Yuhang | Lose | B+R | 7.5 | missing | 0 | 
 | 2019-01-04 | 第33期中国囲碁天元戦1回戦 | Liu Yuhang | Yang Dingxin | Lose | W+R | 7.5 | missing | -2716 | 
@@ -48,7 +49,7 @@
 | 2018-01-05 | 第3期洛陽白雲山杯中国棋聖戦入囲戦 | Liu Yuhang | Shen Peiran | Lose | W+¼ | 7.5 | 3155 | 6 | 
 | 2017-12-07 | 第3回洛陽白雲山杯中国棋聖戦予選丙組 | Gao Xing | Liu Yuhang | Win | W+R | 7.5 | 3149 | 145 | 
 | 2017-07-20 | 嫘祖杯30回中国名人戦新浪網選3回戦 | Liu Yuhang |  | Win | B+R | 7.5 | 3004 | 102 | 
-| 2017-07-19 | 第30期中国囲碁名人戦予選 |  | Liu Yuhang | Win | W+R | 7.5 | 2902 | 2902 | 
+| 2017-07-19 | 第30期中国囲碁名人戦予選 | Ma Yichao | Liu Yuhang | Win | W+R | 7.5 | 2902 | 2902 | 
 | 2017-06-09 | 2017年中国囲碁乙級リーグ | Liu Yuhang | Wang Yanhao | Lose | W+R | 7.5 | missing | -2764 | 
 | 2017-03-11 | 第16回西南棋王戦1回戦 | Liu Yuhang | Mi Yuting | Lose | W+R | 7.5 | 2764 | -4 | 
 | 2017-03-01 | 2017年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Liu Yuhang | Fan Yin | Lose | W+R | 7.5 | 2768 | 14 | 

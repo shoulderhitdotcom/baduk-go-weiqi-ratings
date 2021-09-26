@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Chen Xian | Lose | W+R | 7.5 | 3421 | -33 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Fan Yin | Jiang Qirun | Lose | B+4¾ | 7.5 | 3454 | 28 | 
 | 2021-08-27 | 第26回三星火災杯中国予選 | Jiang Qirun | Tan Xiao | Lose | W+R | 6.5 | 3426 | -25 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Jiang Qirun | He Yuhan | Win | B+R | 7.5 | 3451 | 67 | 
@@ -76,7 +77,7 @@
 | 2018-07-16 | 第20回中国囲碁甲級リーグ第10節浙江-江蘇 | Jiang Qirun | Tong Mengcheng | Lose | W+R | 7.5 | 3107 | -14 | 
 | 2018-06-25 | 第20回中国囲碁甲級リーグ第9節浙江-杭州 | Jiang Qirun | Ding Hao | Lose | W+R | 7.5 | 3121 | -33 | 
 | 2018-06-02 | 第20回中国囲碁甲級リーグ第8節江西-浙江 | Jiang Qirun | Gu Zihao | Lose | W+R | 7.5 | 3154 | -49 | 
-| 2018-05-21 | 第20回中国囲碁甲級リーグ第7節浙江-成都 |  | Jiang Qirun | Win | W+R | 7.5 | 3203 | 2 | 
+| 2018-05-21 | 第20回中国囲碁甲級リーグ第7節浙江-成都 | Ma Yichao | Jiang Qirun | Win | W+R | 7.5 | 3203 | 2 | 
 | 2018-05-14 | 第20回中国囲碁甲級リーグ第6節重慶-浙江 | Jiang Qirun | Tan Xiao | Lose | W+R | 7.5 | 3201 | -21 | 
 | 2018-05-09 | 第20回中国囲碁甲級リーグ第5節浙江-中信 | Jiang Qirun |  | Win | B+R | 7.5 | 3222 | 89 | 
 | 2018-03-30 | 第20回中国囲碁甲級リーグ第3節浙江-廈門 | Peng Liyao | Jiang Qirun | Lose | B+3¾ | 7.5 | 3133 | -67 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Huang Xin | Dang Yifei | Lose | W+R | 7.5 | 3266 | 4 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Huang Xin | Han Yizhou | Lose | W+R | 7.5 | 3262 | -31 | 
 | 2021-08-24 | 第12期中国竜星戦予選 | Huang Xin | Wang Zejin | Win | B+R | 7.5 | 3293 | 118 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Fan Yin | Huang Xin | Lose | B+R | 7.5 | 3175 | -33 | 
@@ -21,7 +22,7 @@
 | 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Huang Xin | Fan Tingyu | Lose | W+R | 7.5 | missing | -3068 | 
 | 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Huang Xin | Ke Jie | Lose | W+R | 7.5 | 3068 | -9 | 
 | 2019-11-17 | 第4回全国智力運動会男子団体戦第7戦 | Huang Xin | Li Xiangyu | Lose | W+R | 7.5 | 3077 | 60 | 
-| 2019-09-29 | 2019年全国囲棋個人戦男子組第13戦 | Huang Xin |  | Lose | W+R | 7.5 | 3017 | -44 | 
+| 2019-09-29 | 2019年全国囲棋個人戦男子組第13戦 | Huang Xin | Liu Zhaozhe | Lose | W+R | 7.5 | 3017 | -44 | 
 | 2019-09-28 | 2019年全国囲棋個人戦男子組第12戦 | Wang Chunhui | Huang Xin | Win | W+R | 7.5 | 3061 | -49 | 
 | 2019-09-25 | 2019年全国囲棋個人戦男子組第9戦 | Huang Xin |  | Lose | W+R | 7.5 | 3110 | 70 | 
 | 2019-09-22 | 2019年全国囲棋個人戦男子組第5戦 | Huang Xin | Chen Yichun | Win | B+R | 7.5 | 3040 | -28 | 
@@ -85,7 +86,7 @@
 | 2016-04-28 | 2016年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Huang Xin | Yi Lingtao | Lose | W+R | 7.5 | 2944 | -83 | 
 | 2015-12-06 | 第17回中国囲碁甲級リーグ第22節 | Huang Xin | Wang Xi | Lose | W+R | 7.5 | 3027 | -43 | 
 | 2015-07-27 | 2015年中国段位戦 | Tong Yulin | Huang Xin | Win | W+R | 7.5 | 3070 | 46 | 
-| 2015-07-26 | 2015年中国段位戦 | Huang Xin |  | Lose | W+R | 7.5 | 3024 | -34 | 
+| 2015-07-26 | 2015年中国段位戦 | Huang Xin | Ma Yichao | Lose | W+R | 7.5 | 3024 | -34 | 
 | 2015-07-25 | 2015年中国段位戦 | Huang Xin | Zhao Chenyu | Win | B+R | 7.5 | 3058 | 50 | 
 | 2015-07-24 | 2015年中国段位戦 | Huang Xin |  | Win | B+R | 7.5 | 3008 | 33 | 
 | 2015-07-22 | 2015年中国段位戦 | Huang Xin | Wang Yanhao | Lose | W+0.5 | 7.5 | 2975 | -100 | 

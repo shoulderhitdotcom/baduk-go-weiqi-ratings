@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Zheng Xu | Liao Yuanhe | Win | W+R | 7.5 | 3602 | 9 | 
 | 2021-09-17 | 第12期中国竜星戦Aブロック7回戦 | Jiang Zhujiu | Liao Yuanhe | Win | W+R | 7.5 | 3593 | 3 | 
 | 2021-09-16 | 第12期中国竜星戦Aブロック6回戦 | Ding Hao | Liao Yuanhe | Win | W+1¼ | 7.5 | 3590 | 10 | 
 | 2021-09-15 | 第12期中国竜星戦Aブロック5回戦 | Wu Guangya | Liao Yuanhe | Win | W+1¼ | 7.5 | 3580 | 11 | 

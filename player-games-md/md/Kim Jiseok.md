@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Li Xuanhao | Lose | W+1¼ | 7.5 | 3577 | -8 | 
 | 2021-09-21 | 2021電子ランドライバル対戦第6局 | Weon Seongjin | Kim Jiseok | Win | W+R | 6.5 | 3585 | 25 | 
 | 2021-09-20 | 2021電子ランドライバル対戦第3局 | Shin Jinseo | Kim Jiseok | Win | W+R | 6.5 | 3560 | 35 | 
 | 2021-08-28 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kim Jiseok | Byun Sangil | Win | B+R | 6.5 | 3525 | 55 | 

@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Tan Xiao | Lose | B+R | 7.5 | 3494 | 1 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tan Xiao | Lian Xiao | Lose | W+R | 7.5 | 3493 | 0 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zhou Ruiyang | Tan Xiao | Win | W+R | 7.5 | 3493 | 1 | 
+| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Liu Xing | Tan Xiao | Win | W+R | 7.5 | 3492 | -20 | 
 | 2021-09-01 | 第26回三星火災杯中国予選 | Tan Xiao | Jiang Weijie | Lose | W+R | 6.5 | 3512 | -13 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Tan Xiao | Li Weiqing | Lose | W+R | 7.5 | 3525 | 14 | 
 | 2021-08-30 | 第26回三星火災杯中国予選 | Tan Xiao | Li Weiqing | Lose | W+R | 6.5 | 3511 | 11 | 
@@ -15,8 +19,7 @@
 | 2021-08-20 | 第26回三星火災杯中国予選 | Tan Xiao | Yi Lingtao | Lose | W+R | 6.5 | missing | -3545 | 
 | 2021-08-18 | 第26回三星火災杯中国予選 | Tao Xinran | Tan Xiao | Win | W+1.5 | 6.5 | 3545 | 122 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Tan Xiao | Peng Liyao | Lose | W+R | 6.5 | 3423 | -9 | 
-| 2021-08-13 | 第26回三星火災杯中国予選 | Fan Tingyu | Tan Xiao | Lose | B+R | 6.5 | 3432 | -1 | 
-| 2021-08-13 | 第26回三星火災杯中国予選 | Fan Tingyu | Tan Xiao | Lose | B+R | 6.5 | 3433 | -4 | 
+| 2021-08-13 | 第26回三星火災杯中国予選 | Fan Tingyu | Tan Xiao | Lose | B+R | 6.5 | 3432 | -5 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Tan Xiao | Yang Kaiwen | Lose | W+R | 7.5 | 3437 | 14 | 
 | 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Lian Xiao | Tan Xiao | Win | W+R | 7.5 | 3423 | -2 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Lian Xiao | Tan Xiao | Win | W+R | 7.5 | 3425 | 15 | 

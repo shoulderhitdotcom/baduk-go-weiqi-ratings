@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Mi Yuting | Tong Mengcheng | Lose | W+R | 7.5 | 3625 | -23 | 
 | 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組第5戦 | Mi Yuting | Tuo Jiaxi | Win | B+R | 7.5 | 3648 | 0 | 
 | 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組第4戦 | Lian Xiao | Mi Yuting | Win | W+R | 7.5 | 3648 | 142 | 
 | 2021-07-30 | 第16回威孚房開杯棋王戦2回戦 | Mi Yuting | Liao Yuanhe | Win | B+R | 7.5 | 3506 | 18 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Li Xiangyu | Lose | B+R | 7.5 | 3339 | -25 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zhao Chenyu | Li Xiangyu | Lose | B+R | 7.5 | 3364 | -35 | 
 | 2021-08-30 | 第12期中国竜星戦予選 | Guo Xinyi | Li Xiangyu | Lose | B+R | 7.5 | 3399 | 3399 | 
 | 2021-08-25 | 第12期中国竜星戦予選 |  | Li Xiangyu | Win | W+¼ | 7.5 | missing | -3318 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Jin Yucheng | Lose | W+R | 7.5 | 3318 | -2 | 
@@ -48,7 +50,7 @@
 | 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Li Xiangyu | Tan Xiao | Lose | W+R | 7.5 | 3066 | 16 | 
 | 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Kang Dongyun | Li Xiangyu | Lose | B+R | 7.5 | 3050 | -16 | 
 | 2019-06-30 | 第24回三星火災杯統合予選1回戦 | Li Xiangyu | Park Jinsol | Lose | W+R | 6.5 | 3066 | -27 | 
-| 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Li Xiangyu |  | Lose | W+R | 7.5 | 3093 | -8 | 
+| 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Li Xiangyu | Wang Shuo | Lose | W+R | 7.5 | 3093 | -8 | 
 | 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Li Xiangyu | Kim Myounghoon | Win | B+R | 7.5 | 3101 | 94 | 
 | 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Fan Yin | Li Xiangyu | Lose | B+R | 7.5 | 3007 | -45 | 
 | 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Li Xiangyu | Wu Guangya | Lose | W+R | 7.5 | 3052 | -16 | 
@@ -131,7 +133,7 @@
 | 2013-02-21 | 第7期リコー杯新秀戦準決勝 | Li Xiangyu | Li Qincheng | Lose | W+R | 7.5 | 3100 | 37 | 
 | 2012-12-28 | 第13期リコー杯囲碁戦1回戦 | Li Xiangyu | Wang Haoyang | Lose | W+R | 7.5 | 3063 | 97 | 
 | 2012-12-27 | 第7期リコー杯新秀戦2回戦 | Qiu Jinbo | Li Xiangyu | Win | W+0.5 | 7.5 | 2966 | -101 | 
-| 2012-12-26 | 第7期リコー杯新秀戦1回戦 | Li Xiangyu |  | Win | B+R | 7.5 | 3067 | -185 | 
+| 2012-12-26 | 第7期リコー杯新秀戦1回戦 | Li Xiangyu | Liu Zhaozhe | Win | B+R | 7.5 | 3067 | -185 | 
 | 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 |  | Li Xiangyu | Lose | B+R | 7.5 | 3252 | -118 | 
 | 2012-06-26 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Cui Chao | Li Xiangyu | Win | W+R | 7.5 | 3370 | -36 | 
 | 2012-05-28 | 第14期阿含・桐山杯中国早碁オープン戦予選 |  | Li Xiangyu | Win | W+2.5 | 7.5 | 3406 | -2 | 

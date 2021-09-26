@@ -7,8 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Lian Xiao | Lose | W+R | 7.5 | 3503 | -30 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Yi Lingtao | Zhang Tao | Lose | W+R | 7.5 | 3533 | 22 | 
-| 2021-08-26 | 第12期中国竜星戦予選 | Yi Lingtao |  | Win | B+R | 7.5 | 3511 | 3511 | 
+| 2021-08-26 | 第12期中国竜星戦予選 | Yi Lingtao | Liu Zhaozhe | Win | B+R | 7.5 | 3511 | 3511 | 
 | 2021-08-20 | 第26回三星火災杯中国予選 | Tan Xiao | Yi Lingtao | Win | W+R | 6.5 | missing | -3464 | 
 | 2021-08-16 | 第26回三星火災杯中国予選 | Yi Lingtao | Chen Zijian | Win | B+1.5 | 6.5 | 3464 | 12 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Yi Lingtao | Yang Dingxin | Win | B+R | 7.5 | 3452 | 35 | 
@@ -64,7 +65,7 @@
 | 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 |  | Yi Lingtao | Lose | B+R | 7.5 | 3209 | -25 | 
 | 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Kim Myounghoon | Yi Lingtao | Win | W+R | 7.5 | 3234 | 10 | 
 | 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Yi Lingtao |  | Win | B+R | 7.5 | 3224 | 92 | 
-| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 |  | Yi Lingtao | Win | W+R | 7.5 | 3132 | 12 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Wang Shuo | Yi Lingtao | Win | W+R | 7.5 | 3132 | 12 | 
 | 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Yi Lingtao | Han Yizhou | Lose | W+R | 7.5 | 3120 | -64 | 
 | 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Wang Shiyi | Yi Lingtao | Lose | B+1¾ | 7.5 | 3184 | -40 | 
 | 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Yi Lingtao | Fan Yin | Lose | W+R | 7.5 | 3224 | -29 | 
@@ -147,7 +148,7 @@
 | 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Yi Lingtao | Tong Mengcheng | Lose | W+R | 7.5 | 2770 | -59 | 
 | 2016-10-28 | 第18回中国囲碁甲級リーグ第16節 | Yang Kaiwen | Yi Lingtao | Lose | B+1.5 | 7.5 | 2829 | -37 | 
 | 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Han Yizhou | Yi Lingtao | Win | W+R | 7.5 | 2866 | -35 | 
-| 2016-09-21 | 2016年全国囲棋個人戦男子組第6戦 |  | Yi Lingtao | Lose | B+R | 7.5 | 2901 | 18 | 
+| 2016-09-21 | 2016年全国囲棋個人戦男子組第6戦 | Liu Zhaozhe | Yi Lingtao | Lose | B+R | 7.5 | 2901 | 18 | 
 | 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | An Sungjoon | Yi Lingtao | Lose | B+R | 7.5 | 2883 | 68 | 
 | 2016-05-22 | 第18回中国囲碁甲級リーグ第6節 | Hu Yuhan | Yi Lingtao | Lose | B+R | 7.5 | 2815 | -15 | 
 | 2016-05-07 | 第18期阿含・桐山杯中国早碁オープン戦予選 | Gu Lingyi | Yi Lingtao | Lose | B+R | 7.5 | 2830 | -30 | 

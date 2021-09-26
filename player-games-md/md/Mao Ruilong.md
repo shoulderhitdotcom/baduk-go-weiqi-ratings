@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Mao Ruilong | Jin Yucheng | Lose | W+R | 7.5 | 3386 | -17 | 
 | 2021-09-13 | 第12期中国竜星戦Bブロック2回戦 | Chen Haoxin | Mao Ruilong | Lose | B+R | 7.5 | 3403 | -56 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Mao Ruilong |  | Win | B+¾ | 7.5 | 3459 | 30 | 
 | 2021-09-01 | 第12期中国竜星戦予選 | Mao Ruilong |  | Win | B+R | 7.5 | 3429 | 41 | 

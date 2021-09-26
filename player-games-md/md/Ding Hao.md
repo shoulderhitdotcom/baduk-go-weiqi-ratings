@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Ding Hao | Chen Yichun | Win | B+R | 7.5 | 3664 | 27 | 
 | 2021-09-16 | 第12期中国竜星戦Aブロック6回戦 | Ding Hao | Liao Yuanhe | Lose | W+1¼ | 7.5 | 3637 | 10 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zhang Tao | Ding Hao | Lose | B+R | 7.5 | 3627 | -10 | 
 | 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 |  | Ding Hao | Win | W+R | 7.5 | 3637 | -9 | 

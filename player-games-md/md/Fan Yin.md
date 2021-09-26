@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Fan Yin | Zhou Hexi | Win | B+R | 7.5 | 3469 | -45 | 
 | 2021-09-03 | 第12期中国竜星戦予選 | Fan Yin | Zhang Tao | Lose | W+2¼ | 7.5 | 3514 | 1 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Xie Ke | Fan Yin | Win | W+R | 7.5 | 3513 | 31 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Fan Yin | Jiang Qirun | Win | B+4¾ | 7.5 | 3482 | 34 | 
@@ -136,7 +137,6 @@
 | 2017-10-14 | 2017年利民杯世界囲碁星鋭最強戦1回戦 | Fan Yin | Lee Donghoon | Lose | W+R | 7.5 | 3276 | 21 | 
 | 2017-10-11 | 第13期威孚房開杯棋王戦16強戦 | Fan Yin | Tang Weixing | Win | B+R | 7.5 | 3255 | 14 | 
 | 2017-10-10 | 第13期威孚房開杯棋王戦32強戦 | Zhou Hexi | Fan Yin | Win | W+R | 7.5 | 3241 | -30 | 
-| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Fan Yin | Lian Xiao | Lose | W+R | 7.5 | 3271 | 0 | 
 | 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Fan Yin | Lian Xiao | Lose | W+R | 7.5 | 3271 | -18 | 
 | 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Fan Yin | Dang Yifei | Lose | W+R | 7.5 | 3289 | -14 | 
 | 2017-09-26 | 2017年全国囲棋個人戦男子組第13戦 | Fan Yin | Tu Xiaoyu | Lose | W+R | 7.5 | 3303 | -6 | 

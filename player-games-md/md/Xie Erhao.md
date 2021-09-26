@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Shin Minjun | Xie Erhao | Win | W+R | 7.5 | 3556 | 24 | 
+| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Huang Mingyu | Xie Erhao | Lose | B+R | 7.5 | 3532 | -38 | 
 | 2021-08-30 | 第12期中国竜星戦予選 | Xie Erhao | Chen Xian | Lose | W+R | 7.5 | 3570 | 7 | 
 | 2021-08-24 | 第12期中国竜星戦予選 |  | Xie Erhao | Win | W+R | 7.5 | 3563 | 37 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Tuo Jiaxi | Xie Erhao | Win | W+R | 7.5 | 3526 | 26 | 
@@ -314,7 +316,7 @@
 | 2014-01-14 | 第28期中国囲碁天元戦予選 | Xie Erhao | Li Zhe | Win | B+R | 7.5 | 3462 | 14 | 
 | 2013-12-30 | 第14期リコー杯囲碁戦2回戦 | Zhou Ruiyang | Xie Erhao | Lose | B+1.5 | 7.5 | 3448 | -8 | 
 | 2013-12-29 | 第14期リコー杯囲碁戦1回戦 | Dang Yifei | Xie Erhao | Win | W+R | 7.5 | 3456 | -7 | 
-| 2013-12-28 | 第8期リコー杯新秀戦2回戦 | Xie Erhao |  | Lose | W+R | 7.5 | 3463 | -40 | 
+| 2013-12-28 | 第8期リコー杯新秀戦2回戦 | Xie Erhao | Ma Yichao | Lose | W+R | 7.5 | 3463 | -40 | 
 | 2013-12-27 | 第8期リコー杯新秀戦1回戦 | Li Xiangyu | Xie Erhao | Win | W+R | 7.5 | 3503 | 92 | 
 | 2013-12-10 | 第8期リコー杯新秀戦予選 | Shu Yixiao | Xie Erhao | Win | W+R | 7.5 | 3411 | 33 | 
 | 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 | Li Qincheng | Xie Erhao | Lose | B+R | 7.5 | 3378 | 6 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Rong Yi | Wang Zejin | Lose | B+1¾ | 7.5 | 3382 | -30 | 
 | 2021-09-01 | 第26回三星火災杯中国予選 | Wang Zejin | Li Xuanhao | Lose | W+R | 6.5 | 3412 | 0 | 
 | 2021-08-24 | 第12期中国竜星戦予選 | Huang Xin | Wang Zejin | Lose | B+R | 7.5 | 3412 | 41 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Wang Zejin | Xu Jiayang | Lose | W+R | 7.5 | 3371 | -9 | 
@@ -104,7 +105,7 @@
 | 2018-04-25 | 第20回中国囲碁甲級リーグ第4節天津-浙江 | Wang Zejin | Zhou Hexi | Win | B+R | 7.5 | 3254 | -43 | 
 | 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Yang Dingxin | Wang Zejin | Lose | B+R | 7.5 | 3297 | 22 | 
 | 2018-03-30 | 第20回中国囲碁甲級リーグ第3節江西-天津 | Xu Jiayang | Wang Zejin | Lose | B+R | 7.5 | 3275 | -27 | 
-| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節天津-成都 |  | Wang Zejin | Lose | B+R | 7.5 | 3302 | -48 | 
+| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節天津-成都 | Ma Yichao | Wang Zejin | Lose | B+R | 7.5 | 3302 | -48 | 
 | 2018-03-26 | 第20回中国囲碁甲級リーグ第1節重慶-天津 | Wang Zejin | Li Xuanhao | Win | B+R | 7.5 | 3350 | 25 | 
 | 2018-03-16 | 第9期中国竜星戦Aブロック第4局 | Wang Zejin | Liu Xing | Lose | W+¼ | 7.5 | 3325 | 0 | 
 | 2018-03-16 | 第9期中国竜星戦Aブロック第3局 | Wang Zejin | Tao Xinran | Win | B+R | 7.5 | 3325 | -38 | 

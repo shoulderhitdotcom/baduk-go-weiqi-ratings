@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Chen Haoxin | Lose | W+¼ | 7.5 | 3271 | -36 | 
 | 2021-09-03 | 第12期中国竜星戦予選 | Wang Chunhui | Pan Tingyu | Lose | W+R | 7.5 | 3307 | 15 | 
 | 2021-09-01 | 第12期中国竜星戦予選 | Huang Mingyu | Wang Chunhui | Win | W+R | 7.5 | 3292 | 60 | 
 | 2021-08-30 | 第12期中国竜星戦予選 |  | Wang Chunhui | Win | W+R | 7.5 | 3232 | 3232 | 

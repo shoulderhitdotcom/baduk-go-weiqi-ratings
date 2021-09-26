@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Xie Ke | Zhou Ruiyang | Lose | B+R | 7.5 | 3415 | -15 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zhou Ruiyang | Tan Xiao | Lose | W+R | 7.5 | 3430 | -5 | 
+| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zhou Ruiyang |  | Win | B+R | 7.5 | 3435 | -27 | 
 | 2021-09-03 | 第12期中国竜星戦予選 | Zhou Ruiyang | Huang Yunsong | Lose | W+¼ | 7.5 | 3462 | 2 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Zhou Ruiyang | Li Xuanhao | Win | B+R | 7.5 | 3460 | 39 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Tang Weixing | Zhou Ruiyang | Win | W+2¼ | 7.5 | 3421 | 3421 | 
@@ -108,7 +111,7 @@
 | 2018-07-18 | 第20期阿含・桐山杯中国早碁オープン戦16強戦 | Zhou Ruiyang | Tang Weixing | Lose | W+R | 7.5 | 3278 | -12 | 
 | 2018-07-16 | 第20回中国囲碁甲級リーグ第10節杭州-廈門 | Zhou Ruiyang | Xia Chenkun | Lose | W+1¼ | 7.5 | 3290 | 11 | 
 | 2018-07-03 | 第23回三星火災杯統合予選2回戦 | Zhou Ruiyang | Cho Hanseung | Win | B+R | 6.5 | 3279 | 16 | 
-| 2018-06-29 | 第20期阿含・桐山杯中国早碁オープン戦本選決勝 |  | Zhou Ruiyang | Win | W+R | 7.5 | 3263 | -10 | 
+| 2018-06-29 | 第20期阿含・桐山杯中国早碁オープン戦本選決勝 | Wang Shuo | Zhou Ruiyang | Win | W+R | 7.5 | 3263 | -10 | 
 | 2018-06-25 | 第20回中国囲碁甲級リーグ第9節上海-廈門 | Lee Yeongkyu | Zhou Ruiyang | Lose | B+R | 7.5 | 3273 | -45 | 
 | 2018-06-02 | 第20回中国囲碁甲級リーグ第8節廈門-山東 | Zhou Ruiyang | Chen Zijian | Lose | W+R | 7.5 | 3318 | -54 | 
 | 2018-05-21 | 第20回中国囲碁甲級リーグ第7節衢州-廈門 | Ding Shixiong | Zhou Ruiyang | Win | W+R | 7.5 | 3372 | 31 | 
@@ -125,7 +128,7 @@
 | 2018-04-07 | 第23回LG杯予選決勝 | Zhou Ruiyang | Yu Bin | Lose | W+R | 6.5 | 3339 | 21 | 
 | 2018-03-30 | 第20回中国囲碁甲級リーグ第3節浙江-廈門 | Zhou Ruiyang | Li Zhe | Lose | W+R | 7.5 | 3318 | -33 | 
 | 2018-03-28 | 第20回中国囲碁甲級リーグ第2節廈門-江西 | Yang Kaiwen | Zhou Ruiyang | Win | W+R | 7.5 | 3351 | -23 | 
-| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節成都-廈門 |  | Zhou Ruiyang | Win | W+R | 7.5 | 3374 | -46 | 
+| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節成都-廈門 | Ma Yichao | Zhou Ruiyang | Win | W+R | 7.5 | 3374 | -46 | 
 | 2018-03-05 | 第9期中国竜星戦予選 |  | Zhou Ruiyang | Lose | B+¾ | 7.5 | 3420 | 45 | 
 | 2018-01-27 | 第32期中国囲碁天元戦3回戦 | Zhou Ruiyang | Zhang Tao | Lose | W+R | 7.5 | 3375 | -2 | 
 | 2018-01-25 | 第32期中国囲碁天元戦2回戦 | Fan Yin | Zhou Ruiyang | Win | W+R | 7.5 | 3377 | 7 | 
@@ -163,7 +166,7 @@
 | 2017-07-03 | 第22回三星火災杯統合予選決勝 | Zhou Ruiyang | Lee Donghoon | Lose | W+R | 6.5 | 3362 | -34 | 
 | 2017-06-28 | 第22回三星火災杯統合予選1回戦 | Zhou Ruiyang | Han Seungjoo | Win | B+R | 6.5 | 3396 | -7 | 
 | 2017-06-21 | 第3回夢百合杯世界オープン戦2回戦 | Zhou Ruiyang | Park Junghwan | Lose | W+0.5 | 7.5 | 3403 | 9 | 
-| 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 |  | Zhou Ruiyang | Win | W+R | 7.5 | 3394 | -13 | 
+| 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Ma Yichao | Zhou Ruiyang | Win | W+R | 7.5 | 3394 | -13 | 
 | 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Yang Dingxin | Zhou Ruiyang | Win | W+R | 7.5 | 3407 | -3 | 
 | 2017-06-12 | 第1回巔峰夢想拉薩交通産業集団ラリー戦b6 | Zhou Ruiyang | Mi Yuting | Lose | W+R | 7.5 | 3410 | 2 | 
 | 2017-06-10 | 第1回巔峰夢想拉薩交通産業集団ラリー戦b5 | Tuo Jiaxi | Zhou Ruiyang | Win | W+R | 7.5 | 3408 | 14 | 

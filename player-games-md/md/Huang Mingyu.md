@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Peng Liyao | Huang Mingyu | Win | W+R | 7.5 | 3431 | 21 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Huang Mingyu | Huang Yunsong | Lose | W+R | 7.5 | 3410 | -6 | 
+| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Huang Mingyu | Xie Erhao | Win | B+R | 7.5 | 3416 | 13 | 
 | 2021-09-01 | 第12期中国竜星戦予選 | Huang Mingyu | Wang Chunhui | Lose | W+R | 7.5 | 3403 | -13 | 
 | 2021-08-30 | 第12期中国竜星戦予選 |  | Huang Mingyu | Win | W+R | 7.5 | 3416 | 68 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Wang Chunhui | Win | B+R | 7.5 | 3348 | 12 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Xia Chenkun | Kang Dongyun | Win | B+R | 7.5 | 3450 | 97 | 
 | 2021-08-24 | 第12期中国竜星戦予選 | Han Yizhou | Xia Chenkun | Lose | B+R | 7.5 | 3353 | 19 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Shin Minjun | Xia Chenkun | Win | W+R | 7.5 | 3334 | 21 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | He Yuhan | Xia Chenkun | Win | W+R | 7.5 | 3313 | 34 | 
@@ -55,7 +56,7 @@
 | 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Li Xuanhao | Xia Chenkun | Lose | B+R | 7.5 | 3081 | -6 | 
 | 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Xia Chenkun | Lian Xiao | Lose | W+R | 7.5 | 3087 | -46 | 
 | 2019-04-19 | 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Xia Chenkun | Liao Yuanhe | Lose | W+R | 7.5 | 3133 | -19 | 
-| 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 |  | Xia Chenkun | Win | W+2¼ | 7.5 | 3152 | 18 | 
+| 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Wang Shuo | Xia Chenkun | Win | W+2¼ | 7.5 | 3152 | 18 | 
 | 2019-04-15 | 第21回中国囲碁甲級リーグ第1節杭州-北京 | Kim Myounghoon | Xia Chenkun | Win | W+R | 7.5 | 3134 | -4 | 
 | 2019-04-04 | 第24回LG杯統合予選3回戦 | Na Hyun | Xia Chenkun | Lose | B+1.5 | 6.5 | 3138 | 4 | 
 | 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Xia Chenkun | Li Xuanhao | Win | B+R | 7.5 | 3134 | 0 | 
@@ -113,7 +114,7 @@
 | 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Meng Tailing | Xia Chenkun | Win | W+R | 7.5 | 3131 | 22 | 
 | 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Xia Chenkun | Zhao Chenyu | Win | B+R | 7.5 | 3109 | 45 | 
 | 2017-07-22 | 嫘祖杯30回中国名人戦新浪網選決勝 | Xia Chenkun |  | Lose | W+R | 7.5 | 3064 | 5 | 
-| 2017-07-20 | 嫘祖杯30回中国名人戦新浪網選3回戦 |  | Xia Chenkun | Win | W+R | 7.5 | 3059 | -15 | 
+| 2017-07-20 | 嫘祖杯30回中国名人戦新浪網選3回戦 | Wang Shuo | Xia Chenkun | Win | W+R | 7.5 | 3059 | -15 | 
 | 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Tao Xinran | Xia Chenkun | Lose | B+R | 7.5 | 3074 | -9 | 
 | 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Xia Chenkun |  | Lose | W+R | 7.5 | 3083 | -21 | 
 | 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Li Zhe | Xia Chenkun | Win | W+R | 7.5 | 3104 | 18 | 

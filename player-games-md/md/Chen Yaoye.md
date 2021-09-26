@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Chen Yaoye | Win | W+¼ | 7.5 | 3512 | 92 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Chen Yaoye | Fan Tingyu | Lose | W+R | 7.5 | 3420 | -12 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Chen Haoxin | Win | B+R | 7.5 | 3432 | 5 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Huang Mingyu | Win | B+¾ | 7.5 | 3427 | 23 | 
@@ -230,7 +231,7 @@
 | 2016-12-24 | 嫘祖杯第29期中国名人戦32強戦 | Chen Yaoye | Yin Hang | Win | B+R | 7.5 | 3161 | 15 | 
 | 2016-12-16 | 第3回百霊杯世界オープン戦決勝五番勝負第4局 | Ke Jie | Chen Yaoye | Win | W+4.5 | 7.5 | 3146 | 11 | 
 | 2016-12-14 | 第3回百霊杯世界オープン戦決勝五番勝負第3局 | Chen Yaoye | Ke Jie | Lose | W+R | 7.5 | 3135 | -11 | 
-| 2016-12-03 | 第18回中国囲碁甲級リーグ第22節 | Chen Yaoye |  | Win | B+R | 7.5 | 3146 | 12 | 
+| 2016-12-03 | 第18回中国囲碁甲級リーグ第22節 | Chen Yaoye | Ma Yichao | Win | B+R | 7.5 | 3146 | 12 | 
 | 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Kang Dongyun | Chen Yaoye | Win | W+R | 7.5 | 3134 | 9 | 
 | 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Chen Zhengxun | Chen Yaoye | Win | W+R | 7.5 | 3125 | 6 | 
 | 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 | Huang Yunsong | Chen Yaoye | Win | W+R | 7.5 | 3119 | 24 | 
@@ -371,7 +372,7 @@
 | 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Tan Xiao | Chen Yaoye | Lose | B+R | 7.5 | 3483 | 24 | 
 | 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Chen Yaoye | Gu Lingyi | Win | B+R | 7.5 | 3459 | 10 | 
 | 2014-06-20 | 第5回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Qiu Jun | Chen Yaoye | Lose | B+1.5 | 7.5 | 3449 | -16 | 
-| 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 |  | Chen Yaoye | Win | W+R | 7.5 | 3465 | 4 | 
+| 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Liu Zhaozhe | Chen Yaoye | Win | W+R | 7.5 | 3465 | 4 | 
 | 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Ke Jie | Chen Yaoye | Lose | B+R | 7.5 | 3461 | 4 | 
 | 2014-06-11 | 第19回LG杯朝鮮日報棋王戦2回戦 | Chen Yaoye | Shi Yue | Win | B+R | 6.5 | 3457 | 8 | 
 | 2014-06-09 | 第19回LG杯朝鮮日報棋王戦1回戦 |  | Chen Yaoye | Win | W+R | 6.5 | 3449 | 17 | 

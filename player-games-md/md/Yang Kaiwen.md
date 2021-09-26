@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Wang Xinghao | Lose | W+R | 7.5 | 3549 | -31 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Yang Kaiwen | Liao Yuanhe | Lose | W+R | 7.5 | 3580 | -5 | 
 | 2021-08-30 | 第12期中国竜星戦予選 | Chen Hao | Yang Kaiwen | Win | W+R | 7.5 | 3585 | 3585 | 
 | 2021-08-25 | 第12期中国竜星戦予選 | Yang Kaiwen | Liu Qifeng | Win | B+¾ | 7.5 | missing | -3518 | 
@@ -62,7 +63,7 @@
 | 2018-11-02 | 第20回中国囲碁甲級リーグ第22節江西-江蘇 | Yang Kaiwen | Huang Yunsong | Lose | W+R | 7.5 | 3145 | -22 | 
 | 2018-10-29 | 第20回中国囲碁甲級リーグ第21節浙江-江西 | Zhang Tao | Yang Kaiwen | Win | W+1¼ | 7.5 | 3167 | 35 | 
 | 2018-10-27 | 第20回中国囲碁甲級リーグ第20節杭州-江西 | Yang Kaiwen | Xia Chenkun | Lose | W+1¼ | 7.5 | 3132 | -30 | 
-| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節江西-成都 |  | Yang Kaiwen | Lose | B+R | 7.5 | 3162 | -29 | 
+| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節江西-成都 | Ma Yichao | Yang Kaiwen | Lose | B+R | 7.5 | 3162 | -29 | 
 | 2018-10-08 | 第20回中国囲碁甲級リーグ第18節重慶-江西 | Gu Li | Yang Kaiwen | Lose | B+R | 7.5 | 3191 | 0 | 
 | 2018-09-28 | 第20回中国囲碁甲級リーグ第17節江西-中信 | Yang Kaiwen |  | Win | B+1¾ | 7.5 | 3191 | -33 | 
 | 2018-09-12 | 第20回中国囲碁甲級リーグ第16節天津-江西 | Meng Tailing | Yang Kaiwen | Win | W+¼ | 7.5 | 3224 | 4 | 
@@ -162,7 +163,7 @@
 | 2015-08-22 | 2015年全国囲棋個人戦男子組第2戦 |  | Yang Kaiwen | Win | W+R | 7.5 | 3169 | -6 | 
 | 2015-08-04 | 第20回三星火災杯統合予選準決勝 | Kang Dongyun | Yang Kaiwen | Win | W+R | 6.5 | 3175 | -2 | 
 | 2015-07-29 | 第7期中国竜星戦予選 | Yu Zhiying | Yang Kaiwen | Win | W+R | 7.5 | 3177 | 14 | 
-| 2015-07-25 | 2015年中国段位戦 |  | Yang Kaiwen | Lose | B+R | 7.5 | 3163 | -27 | 
+| 2015-07-25 | 2015年中国段位戦 | Ma Yichao | Yang Kaiwen | Lose | B+R | 7.5 | 3163 | -27 | 
 | 2015-07-24 | 2015年中国段位戦 | Yang Kaiwen | Yu Zhiying | Lose | W+0.5 | 7.5 | 3190 | -26 | 
 | 2015-07-22 | 2015年中国段位戦 | Yang Kaiwen |  | Win | B+R | 7.5 | 3216 | 6 | 
 | 2015-07-21 | 2015年中国段位戦 | Fan Yin | Yang Kaiwen | Lose | B+R | 7.5 | 3210 | -16 | 

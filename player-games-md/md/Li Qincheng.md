@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Li Qincheng | Lose | B+R | 7.5 | 3601 | 5 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Liao Yuanhe | Li Qincheng | Win | W+R | 7.5 | 3596 | 30 | 
+| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Fang Ruoxi | Li Qincheng | Win | W+R | 7.5 | 3566 | 0 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Liao Yuanhe | Li Qincheng | Lose | B+R | 7.5 | 3566 | 15 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Li Qincheng | Zhao Chenyu | Win | B+R | 7.5 | 3551 | 25 | 
 | 2021-07-30 | 第16回威孚房開杯棋王戦1回戦 |  | Li Qincheng | Win | W+R | 7.5 | 3526 | 7 | 
@@ -177,7 +180,7 @@
 | 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Li Qincheng | Xu Jiayang | Win | B+R | 7.5 | 3371 | 26 | 
 | 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Li Qincheng | Han Yizhou | Lose | W+0.5 | 7.5 | 3345 | -14 | 
 | 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Li Qincheng | Ding Hao | Win | B+R | 7.5 | 3359 | -16 | 
-| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 |  | Li Qincheng | Win | W+R | 7.5 | 3375 | -1 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Wang Shuo | Li Qincheng | Win | W+R | 7.5 | 3375 | -1 | 
 | 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Li Qincheng | Li Xuanhao | Win | B+R | 7.5 | 3376 | 47 | 
 | 2017-04-18 | 第19期中国阿含桐山杯本選3回戦 | Liao Xingwen | Li Qincheng | Win | W+0.5 | 7.5 | 3329 | 0 | 
 | 2017-04-17 | 第19期中国阿含桐山杯本選2回戦 | Rui Naiwei | Li Qincheng | Win | W+R | 7.5 | 3329 | -13 | 
@@ -216,7 +219,7 @@
 | 2016-07-02 | 第3回百霊杯世界オープン戦3回戦 | Li Qincheng | Lian Xiao | Lose | W+R | 7.5 | 3194 | -22 | 
 | 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Li Qincheng | Mok Jinseok | Win | B+R | 7.5 | 3216 | 9 | 
 | 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Li Qincheng | Yuki Satoshi | Win | B+R | 7.5 | 3207 | 10 | 
-| 2016-06-25 | 第18回中国囲碁甲級リーグ第10節 |  | Li Qincheng | Win | W+R | 7.5 | 3197 | -12 | 
+| 2016-06-25 | 第18回中国囲碁甲級リーグ第10節 | Ma Yichao | Li Qincheng | Win | W+R | 7.5 | 3197 | -12 | 
 | 2016-06-20 | 第18回中国囲碁甲級リーグ第9節 | Li Qincheng |  | Win | B+1.5 | 7.5 | 3209 | 8 | 
 | 2016-06-16 | 第18回中国囲碁甲級リーグ第8節 | Meng Tailing | Li Qincheng | Lose | B+R | 7.5 | 3201 | -11 | 
 | 2016-06-12 | 2016CCTV杯中国囲棋電視快棋戦準決勝 | Li Qincheng | Tong Mengcheng | Win | B+R | 7.5 | 3212 | 12 | 

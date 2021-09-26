@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Tuo Jiaxi | Win | B+R | 7.5 | 3679 | 64 | 
 | 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Yi Lingtao | Yang Dingxin | Lose | B+R | 7.5 | 3615 | 15 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Tao Xinran | Yang Dingxin | Win | W+R | 7.5 | 3600 | 6 | 
 | 2021-07-28 | 第23回農心杯中国予選 | Li Qincheng | Yang Dingxin | Lose | B+R | 6.5 | 3594 | -25 | 
@@ -145,7 +146,7 @@
 | 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Yang Dingxin | Tao Xinran | Win | B+R | 7.5 | 3329 | 12 | 
 | 2019-03-24 | 第18回西南棋王戦準決勝 | Yang Dingxin | Ke Jie | Lose | W+R | 7.5 | 3317 | -6 | 
 | 2019-03-23 | 第18回西南棋王戦2回戦 | Li Xuanhao | Yang Dingxin | Win | W+2¼ | 7.5 | 3323 | 0 | 
-| 2019-03-23 | 第18回西南棋王戦1回戦 |  | Yang Dingxin | Win | W+R | 7.5 | 3323 | -15 | 
+| 2019-03-23 | 第18回西南棋王戦1回戦 | Ma Yichao | Yang Dingxin | Win | W+R | 7.5 | 3323 | -15 | 
 | 2019-03-15 | 第10期中国竜星戦Aブロック8回戦 | Jiang Weijie | Yang Dingxin | Lose | B+R | 7.5 | 3338 | 33 | 
 | 2019-02-26 | 第4期洛陽白雲山杯中国棋聖戦本戦2回戦 | Tuo Jiaxi | Yang Dingxin | Lose | B+R | 7.5 | 3305 | -12 | 
 | 2019-02-25 | 第4期洛陽白雲山杯中国棋聖戦本戦1回戦 | Li Xuanhao | Yang Dingxin | Win | W+R | 7.5 | 3317 | -24 | 
@@ -235,7 +236,7 @@
 | 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Yang Dingxin | An Dongxu | Win | B+R | 7.5 | 3376 | 2 | 
 | 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Li Zhe | Yang Dingxin | Win | W+R | 7.5 | 3374 | -4 | 
 | 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Yang Dingxin | Lian Xiao | Lose | W+R | 7.5 | 3378 | -1 | 
-| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 |  | Yang Dingxin | Win | W+R | 7.5 | 3379 | -3 | 
+| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Ma Yichao | Yang Dingxin | Win | W+R | 7.5 | 3379 | -3 | 
 | 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Yang Dingxin |  | Win | B+R | 7.5 | 3382 | 19 | 
 | 2017-08-04 | 嫘祖杯30回中国名人戦16強戦 | Tang Weixing | Yang Dingxin | Lose | B+R | 7.5 | 3363 | -13 | 
 | 2017-08-03 | 嫘祖杯30回中国名人戦32強戦 | Yang Dingxin | Shi Yue | Win | B+R | 7.5 | 3376 | 10 | 

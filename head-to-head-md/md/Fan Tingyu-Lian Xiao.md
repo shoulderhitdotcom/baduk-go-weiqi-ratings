@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Fan Tingyu vs Lian Xiao** | **Fan Tingyu streak** | **Lian Xiao streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-20 | 第26回三星火災杯中国予選 | Lian Xiao | Fan Tingyu | B+R | 6.5 | 9:9 | 0 | 2 | 
 | 2020-09-23 | 2020CCTV杯中国囲棋電視快棋戦準決勝 | Fan Tingyu | Lian Xiao | W+R | 7.5 | 9:8 | 0 | 1 | 
 | 2020-09-18 | 第22回農心杯中国選抜戦 | Fan Tingyu | Lian Xiao | B+R | 6.5 | 9:7 | 1 | 0 | 
 | 2020-09-11 | 第25回三星火災杯中国一般枠予選 | Lian Xiao | Fan Tingyu | B+R | 6.5 | 8:7 | 0 | 2 | 

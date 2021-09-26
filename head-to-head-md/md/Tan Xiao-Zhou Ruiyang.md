@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tan Xiao vs Zhou Ruiyang** | **Tan Xiao streak** | **Zhou Ruiyang streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zhou Ruiyang | Tan Xiao | W+R | 7.5 | 7:6 | 2 | 0 | 
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Tan Xiao | W+R | 7.5 | 6:6 | 1 | 0 | 
 | 2017-01-09 | 嫘祖杯第29期中国名人戦8強戦 | Zhou Ruiyang | Tan Xiao | B+R | 7.5 | 5:6 | 0 | 2 | 
 | 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Zhou Ruiyang | Tan Xiao | B+R | 7.5 | 5:5 | 0 | 1 | 

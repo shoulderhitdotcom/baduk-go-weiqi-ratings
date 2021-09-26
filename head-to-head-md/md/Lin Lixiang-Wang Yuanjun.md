@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lin Lixiang vs Wang Yuanjun** | **Lin Lixiang streak** | **Wang Yuanjun streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-10 | 第26回三星火災杯台湾予選 | Lin Lixiang | Wang Yuanjun | W+R | 6.5 | 8:21 | 0 | 2 | 
 | 2021-05-03 | 第11期友士杯十段戦勝部2回戦 | Wang Yuanjun | Lin Lixiang | B+R | 6.5 | 8:20 | 0 | 1 | 
 | 2021-04-23 | 第17期国手戦（台湾）準決勝 | Wang Yuanjun | Lin Lixiang | W+R | 6.5 | 8:19 | 1 | 0 | 
 | 2020-02-26 | 第25回LG杯台湾代表選抜戦 | Lin Lixiang | Wang Yuanjun | W+2.5 | 6.5 | 7:19 | 0 | 2 | 

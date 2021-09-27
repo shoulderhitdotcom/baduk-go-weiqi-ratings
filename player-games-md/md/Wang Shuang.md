@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 | Wang Shuang | Zhang Xuan | Win | B+R | 7.5 | 2964 | -1 | 
 | 2021-06-07 | 第4回呉清源杯中国予選 | Li He | Wang Shuang | Lose | B+R | 7.5 | 2965 | -14 | 
 | 2021-06-03 | 第4回呉清源杯中国予選 |  | Wang Shuang | Lose | B+2¼ | 7.5 | 2979 | -15 | 
 | 2021-06-01 | 第4回呉清源杯中国予選 | Wang Shuang | Lu Minquan | Lose | W+R | 7.5 | 2994 | -4 | 
@@ -24,7 +25,7 @@
 | 2021-03-28 | 第8回中国女子囲碁甲級リーグ |  | Wang Shuang | Win | W+R | 7.5 | 2961 | -7 | 
 | 2021-03-27 | 第8回中国女子囲碁甲級リーグ |  | Wang Shuang | Win | W+R | 7.5 | 2968 | 41 | 
 | 2021-03-26 | 第8回中国女子囲碁甲級リーグ | Wang Shuang |  | Lose | W+R | 7.5 | 2927 | -256 | 
-| 2020-11-24 | 第8回中国女子囲碁甲級リーグ | Wang Shuang |  | Lose | W+R | 7.5 | 3183 | -23 | 
+| 2020-11-24 | 第8回中国女子囲碁甲級リーグ | Wang Shuang | Cho Seungah | Lose | W+R | 7.5 | 3183 | -23 | 
 | 2020-11-21 | 第8回中国女子囲碁甲級リーグ | Zhan Ying | Wang Shuang | Win | W+R | 7.5 | 3206 | 34 | 
 | 2020-11-20 | 第8回中国女子囲碁甲級リーグ | Wang Chenxing | Wang Shuang | Lose | B+R | 7.5 | 3172 | 18 | 
 | 2020-11-18 | 第8回中国女子囲碁甲級リーグ | Cai Bihan | Wang Shuang | Win | W+R | 7.5 | 3154 | 20 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-27 | 第15回GGオークション杯女流対シニア連勝対抗戦第19局 | Cho Seungah | Choi Myeonghun | Win | B+R | 6.5 | 3186 | -1 | 
 | 2021-09-21 | 第15回GGオークション杯女流対シニア連勝対抗戦第18局 | Cho Seungah | An Joyeong | Win | B+R | 6.5 | 3187 | 0 | 
 | 2021-09-21 | 2021電子ランドライバル対戦第5局 | Cho Seungah | Choi Jeong | Lose | W+R | 6.5 | 3187 | 5 | 
 | 2021-09-18 | 第7回韓国女子囲碁リーグプレーオフ第2戦 | Kang Dajeong | Cho Seungah | Win | W+R | 6.5 | 3182 | 1 | 

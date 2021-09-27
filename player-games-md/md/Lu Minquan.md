@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 | Lu Minquan | Yin Qu | Lose | W+1¼ | 7.5 | 3136 | -62 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Lu Minquan | Zhou Hongyu | Lose | W+R | 7.5 | 3198 | -16 | 
 | 2021-09-01 | 第12期中国竜星戦予選 | Lu Minquan | Cao Youyin | Win | B+2¾ | 7.5 | 3214 | 7 | 
 | 2021-08-31 | 第12期中国竜星戦予選 |  | Lu Minquan | Win | W+R | 7.5 | 3207 | 1 | 
@@ -32,7 +33,7 @@
 | 2021-03-26 | 第8回中国女子囲碁甲級リーグ | Lu Minquan | Pan Yang | Win | B+R | 7.5 | 3163 | -207 | 
 | 2020-11-24 | 第8回中国女子囲碁甲級リーグ |  | Lu Minquan | Win | W+R | 7.5 | 3370 | -3 | 
 | 2020-11-23 | 第8回中国女子囲碁甲級リーグ | Lu Minquan | Kim Cheayoung | Win | B+R | 7.5 | 3373 | 30 | 
-| 2020-11-21 | 第8回中国女子囲碁甲級リーグ |  | Lu Minquan | Win | W+¼ | 7.5 | 3343 | 27 | 
+| 2020-11-21 | 第8回中国女子囲碁甲級リーグ | Cho Seungah | Lu Minquan | Win | W+¼ | 7.5 | 3343 | 27 | 
 | 2020-11-20 | 第8回中国女子囲碁甲級リーグ | Lu Minquan | Cao Youyin | Win | B+R | 7.5 | 3316 | 97 | 
 | 2020-11-18 | 第8回中国女子囲碁甲級リーグ | Oh Yujin | Lu Minquan | Lose | B+R | 7.5 | 3219 | -11 | 
 | 2020-11-17 | 第8回中国女子囲碁甲級リーグ | Lu Minquan | Oh Jeonga | Lose | W+R | 7.5 | 3230 | 39 | 
@@ -57,7 +58,7 @@
 | 2019-11-15 | 第4回全国智力運動会女子団体戦第3戦 | Lu Minquan | Wang Chenxing | Lose | W+R | 7.5 | 2673 | -8 | 
 | 2019-11-05 | 第7回中国女子囲碁甲級リーグ第16節 | Huang Ziping | Lu Minquan | Win | W+R | 7.5 | 2681 | 10 | 
 | 2019-10-31 | 第10回穹窿山兵聖杯世界女子囲碁選手権8強戦 | Lu Minquan | Fujisawa Rina | Lose | W+R | 7.5 | 2671 | -8 | 
-| 2019-10-30 | 第10回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Lu Minquan |  | Win | B+R | 7.5 | 2679 | 23 | 
+| 2019-10-30 | 第10回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Lu Minquan | Yang Zixuan | Win | B+R | 7.5 | 2679 | 23 | 
 | 2019-10-25 | 第7回中国女子囲碁甲級リーグ第15節 | Lu Minquan | Tang Yi | Lose | W+¼ | 7.5 | 2656 | 8 | 
 | 2019-10-22 | 2019博思軟件杯中国囲棋新秀争覇戦32強戦 | Lu Minquan | Zheng Zaixiang | Lose | W+R | 7.5 | 2648 | -6 | 
 | 2019-10-18 | 第7回中国女子囲碁甲級リーグ第14節 |  | Lu Minquan | Win | W+R | 7.5 | 2654 | -1 | 
@@ -79,7 +80,7 @@
 | 2019-06-02 | 第7回中国女子囲碁甲級リーグ第5節 | Lu Minquan |  | Win | B+R | 7.5 | 2805 | 14 | 
 | 2019-05-31 | 第7回中国女子囲碁甲級リーグ第4節 | Song Ronghui | Lu Minquan | Lose | B+R | 7.5 | 2791 | 2 | 
 | 2019-05-26 | 第7回中国女子囲碁甲級リーグ第3節 | Lu Minquan | Yu Zhiying | Win | B+R | 7.5 | 2789 | 65 | 
-| 2019-05-12 | 第8回天台山体彩杯世界女子囲碁団体戦第3戦 |  | Lu Minquan | Win | W+R | 7.5 | 2724 | 17 | 
+| 2019-05-12 | 第8回天台山体彩杯世界女子囲碁団体戦第3戦 | Yang Zixuan | Lu Minquan | Win | W+R | 7.5 | 2724 | 17 | 
 | 2019-05-11 | 第8回天台山体彩杯世界女子囲碁団体戦第2戦 | Lu Minquan | Ueno Asami | Win | B+R | 7.5 | 2707 | 2 | 
 | 2019-05-10 | 第8回天台山体彩杯世界女子囲碁団体戦第1戦 | Lu Minquan | Kim Cheayoung | Lose | W+R | 7.5 | 2705 | -29 | 
 | 2019-04-28 | 第2回呉清源杯世界女子囲碁選手権16強戦 | Lu Minquan | Ueno Asami | Lose | W+R | 7.5 | 2734 | -38 | 

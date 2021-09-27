@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-27 | 第7回国手山脈国際囲碁大会韓国予選 | Choi Cheolhan | Kang Dongyun | Win | B+R | 6.5 | 3379 | 5 | 
 | 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Choi Cheolhan | An Sungjoon | Win | B+R | 6.5 | 3374 | 16 | 
 | 2021-09-23 | 第7回国手山脈国際囲碁大会韓国予選 | Lee Yeongkyu | Choi Cheolhan | Win | W+R | 6.5 | 3358 | 58 | 
 | 2021-07-16 | 第23回農心杯韓国予選 | Choi Cheolhan | Hong Seongji | Lose | W+R | 6.5 | 3300 | -41 | 

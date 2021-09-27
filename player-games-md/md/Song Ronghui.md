@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 | Song Ronghui |  | Lose | W+R | 7.5 | 2924 | -13 | 
 | 2021-09-14 | 第18回建橋杯女子囲碁オープン戦予選 | Zhan Ying | Song Ronghui | Win | W+R | 7.5 | 2937 | 10 | 
 | 2021-09-03 | 第12期中国竜星戦予選 | Li He | Song Ronghui | Lose | B+R | 7.5 | 2927 | -49 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Song Ronghui |  | Win | B+3¾ | 7.5 | 2976 | 88 | 

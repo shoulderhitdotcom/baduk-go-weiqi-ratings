@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 |  | Wang Chenxing | Win | W+R | 7.5 | 3036 | 1 | 
 | 2021-09-23 | 第14回中国全国運動会囲碁女子個人公開組 | Wang Chenxing | Rui Naiwei | Lose | W+¼ | 7.5 | 3035 | -15 | 
 | 2021-09-21 | 第14回中国全国運動会囲碁女子個人公開組第1戦 | Chen Yiming | Wang Chenxing | Win | W+R | 7.5 | 3050 | 14 | 
 | 2021-08-31 | 第26回三星火災杯中国予選 |  | Wang Chenxing | Lose | B+R | 6.5 | 3036 | -14 | 

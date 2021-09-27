@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-09-03 | 第3期ソパルコサノル最高棋士決定戦予選 |  | Choi Myeonghun | Lose | B+R | 6.5 | 3138 | 3138 | 
+| 2021-09-27 | 第15回GGオークション杯女流対シニア連勝対抗戦第19局 | Cho Seungah | Choi Myeonghun | Lose | B+R | 6.5 | 2985 | -153 | 
+| 2021-09-03 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Changhoon | Choi Myeonghun | Lose | B+R | 6.5 | 3138 | 3138 | 
 | 2021-07-13 | 第23回農心杯韓国予選 |  | Choi Myeonghun | Win | W+R | 6.5 | missing | -3089 | 
 | 2020-02-18 | 第13回GGオークション杯女流対シニア連勝対抗戦第20局 | Choi Jeong | Choi Myeonghun | Win | W+R | 6.5 | 3089 | 3089 | 
 | 2019-12-13 | 第25期GSカルテックス杯プロ棋戦予選決勝 | Baek Hyeonwoo | Choi Myeonghun | Lose | B+7.5 | 6.5 | missing | 0 | 

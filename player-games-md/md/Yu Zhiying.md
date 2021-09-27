@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 | Tang Yi | Yu Zhiying | Win | W+R | 7.5 | 3260 | 35 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Yu Zhiying | Lian Xiao | Lose | W+R | 7.5 | 3225 | 0 | 
+| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Yu Zhiying | Chen Zijian | Win | B+¾ | 7.5 | 3225 | 0 | 
+| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Yu Zhiying |  | Win | B+R | 7.5 | 3225 | 9 | 
 | 2021-08-24 | 第26回三星火災杯中国予選 | Yu Zhiying | Li He | Win | B+4.5 | 6.5 | 3216 | 2 | 
 | 2021-08-19 | 第26回三星火災杯中国予選 | Yu Zhiying | Zhou Hongyu | Win | B+1.5 | 6.5 | 3214 | 3214 | 
 | 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Fujisawa Rina | Yu Zhiying | Win | W+R | 7.5 | missing | -3135 | 
@@ -405,7 +409,7 @@
 | 2014-07-11 | 第6期中国竜星戦予選 | Li Zhe | Yu Zhiying | Lose | B+R | 7.5 | 3220 | 23 | 
 | 2014-06-26 | 第6期中国竜星戦予選 |  | Yu Zhiying | Win | W+12.5 | 7.5 | 3197 | 3 | 
 | 2014-06-25 | 第6期中国竜星戦予選 | Yu Zhiying |  | Win | B+R | 7.5 | 3194 | -7 | 
-| 2014-06-24 | 第6期中国竜星戦予選 |  | Yu Zhiying | Win | W+2.5 | 7.5 | 3201 | 11 | 
+| 2014-06-24 | 第6期中国竜星戦予選 | Ma Yichao | Yu Zhiying | Win | W+2.5 | 7.5 | 3201 | 11 | 
 | 2014-06-18 | 第2回中国女子囲碁甲級リーグ第5節 | Yu Zhiying | Hei Jiajia | Win | B+R | 7.5 | 3190 | -3 | 
 | 2014-06-17 | 第2回中国女子囲碁甲級リーグ第4節 |  | Yu Zhiying | Win | W+R | 7.5 | 3193 | 28 | 
 | 2014-06-16 | 第2回中国女子囲碁甲級リーグ第3節 | Tang Yi | Yu Zhiying | Win | W+R | 7.5 | 3165 | 48 | 
@@ -479,7 +483,7 @@
 | 2012-10-30 | 第3回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Yu Zhiying | Mukai Chiaki | Win | B+R | 7.5 | 2921 | 45 | 
 | 2012-09-09 | 第10回建橋杯女子囲碁オープン戦1回戦 | Rui Naiwei | Yu Zhiying | Lose | B+R | 7.5 | 2876 | -51 | 
 | 2012-06-18 | 第8回百霊杯アマ女子勝抜戦第2戦 | Yu Zhiying | Xu Jiayang | Lose | W+R | 7.5 | 2927 | 2927 | 
-| 2012-06-17 | 第8回百霊杯アマ女子勝抜戦第1戦 | Yu Zhiying |  | Win | B+R | 7.5 | missing | -2952 | 
+| 2012-06-17 | 第8回百霊杯アマ女子勝抜戦第1戦 | Yu Zhiying | Ma Yichao | Win | B+R | 7.5 | missing | -2952 | 
 | 2012-06-01 | 第9期倡棋杯中国プロ囲碁選手権戦1回戦 | Yu Zhiying | Piao Wenyao | Lose | W+R | 7.5 | 2952 | 42 | 
 | 2012-05-28 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Xiao Wei | Yu Zhiying | Win | W+2.5 | 7.5 | 2910 | -121 | 
 | 2012-04-28 | 第1回華頂茶業杯世界女子団体選手権第3戦 | Yu Zhiying | Su Shengfang | Win | B+R | 7.5 | 3031 | 19 | 

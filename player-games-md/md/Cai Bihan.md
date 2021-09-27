@@ -5,134 +5,135 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第9回中国女子囲碁甲級リーグ | Li He | Cai Bihan | B+R | 2021-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VOoVzclrp%2Bj6TTA%2BjnZIlA%3D%3D) | 
-| 第9回中国女子囲碁甲級リーグ | Tang Yi | Cai Bihan | W+R | 2021-05-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xRRb48nTNlZjC9lXVGjIOw%3D%3D) | 
-| 第9回中国女子囲碁甲級リーグ | Cai Bihan | missing | W+¼ | 2021-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CdxVlEv%2BUExV0vWfRcjfJQ%3D%3D) | 
-| 第9回中国女子囲碁甲級リーグ | Lu Jia | Cai Bihan | B+R | 2021-05-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=keusJb6TagPjDkupmGkPPQ%3D%3D) | 
-| 第9回中国女子囲碁甲級リーグ | Cai Bihan | Pan Yang | W+R | 2021-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x1yLCVo7aRpY0FvKv633Ag%3D%3D) | 
-| 第9回中国女子囲碁甲級リーグ | missing | Cai Bihan | W+R | 2021-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WyhEhXOyvfABVBfDR3D%2Bfg%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Yu Zhiying | Cai Bihan | W+1¼ | 2021-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3gcWXYtpyOWcuSB4nYurjg%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Kim Cheayoung | Cai Bihan | W+R | 2021-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6d7mVmLxBQLq1ODY1dn7Yg%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Cai Bihan | Tang Yi | W+R | 2021-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SyqmlkgYKH3co5g%2FmPZKkA%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Wang Shuang | Cai Bihan | B+2¾ | 2021-03-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=10wY%2BKHeDv5qUoVqc08cVQ%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | missing | Cai Bihan | W+R | 2021-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LvxPxh5HB%2Fd7a2CsQWvIOA%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | missing | Cai Bihan | W+2.5 | 2021-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FEwsershYR%2Bbc%2Ba%2F%2FJepgQ%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Cai Bihan | missing | W+R | 2021-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SaGM75Ltlk62k2GMow4O9A%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Cai Bihan | Li He | B+1¾ | 2021-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vRq3dz82rHeRSkQBzle2gg%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Zhou Hongyu | Cai Bihan | B+R | 2020-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C5hVOqE70tlsUBRsDMplPQ%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Wang Chenxing | Cai Bihan | W+R | 2020-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hrkYBIJ49MVn1ZF5R6OM4w%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Cai Bihan | Lu Jia | B+R | 2020-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q9yCc1zCb3mnyFVhlQxrhQ%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Rui Naiwei | Cai Bihan | B+R | 2020-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aiP29kM4IY%2FdaXI758T%2FCw%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Cai Bihan | Wang Shuang | W+R | 2020-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JmenYJXnREQ9l0Lzrhnm0Q%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | missing | Cai Bihan | W+R | 2020-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E3NIlCks4xS4DuH%2F7Mk1sw%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ第4節 | missing | Cai Bihan | W+R | 2020-07-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H7mNNyLMaG2D9HJpvqP%2FBA%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ第3節 | Cai Bihan | missing | W+R | 2020-07-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jv3J4XJ62tcX9NlpW1x6%2FA%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ第2節 | Cao Youyin | Cai Bihan | B+R | 2020-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I%2FnhD0lV2XHeF6FLt1TGvw%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ第1節 | missing | Cai Bihan | W+R | 2020-07-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dsrJlAGfik%2BJi2uiwneGqw%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第18節 | Cai Bihan | Tao Ran | W+1¼ | 2019-11-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FfvNpXgoDDyNTVegSDwZhg%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第17節 | missing | Cai Bihan | B+R | 2019-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ll3Vwma4laWagCjHamvNGg%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第16節 | missing | Cai Bihan | B+R | 2019-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KNlJ9JJOr1VI8PgT8yjVUQ%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第15節 | Cho Hyeyeon | Cai Bihan | W+R | 2019-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bYXDlcen5ANk7FRy2mK0IA%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第14節 | Cao Youyin | Cai Bihan | W+R | 2019-10-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OEpea1yZM%2Fca0GScvJRxBw%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第12節 | missing | Cai Bihan | B+R | 2019-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rxau8x9i9Ye%2FHc%2Bzi5IY6A%3D%3D) | 
-| 第17回建橋杯女子囲碁オープン戦準決勝 | Wang Shuang | Cai Bihan | B+R | 2019-08-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aAfwXroRTKgsjjWF%2BcgjCg%3D%3D) | 
-| 第17回建橋杯女子囲碁オープン戦8強戦 | Yu Zhiying | Cai Bihan | W+R | 2019-08-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aA%2Bp0cQo1UusHxOc0X9dug%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第11節 | Cai Bihan | Song Ronghui | W+R | 2019-08-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BUwCNmL7hFcFX0YE35UBtw%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第7節 | Lu Minquan | Cai Bihan | W+R | 2019-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3plmbKA3mCKnn8%2Bwi0D7JA%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第3節 | Cai Bihan | missing | B+R | 2019-05-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h%2B4GmfVedipKf4PYImEW6g%3D%3D) | 
-| 第16回建橋杯女子囲碁オープン戦決勝三番勝負第2局 | Cai Bihan | Wang Chenxing | W+R | 2018-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZOhVKD0xQc1OeK0TSJpOKA%3D%3D) | 
-| 第16回建橋杯女子囲碁オープン戦決勝三番勝負第1局 | Wang Chenxing | Cai Bihan | B+R | 2018-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hq8aGzlQmuE7eLAsblzQUQ%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第16節広東-浙江 | Cai Bihan | Wang Yubo | W+R | 2018-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=79UM2K4hYdxJ6vycTn2TCA%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第14節広東-河北 | Cai Bihan | Cao Youyin | W+R | 2018-10-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nz%2FMXQv23lktFA39t1xwsg%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第15節廈門-広東 | Cai Bihan | Yin Qu | B+R | 2018-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PuoOAYbm4QXaZyLC264Enw%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第13節上海-広東 | Rui Naiwei | Cai Bihan | W+R | 2018-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l03pUHqCpF4fUGSa2ep4YQ%3D%3D) | 
-| 第16回建橋杯女子囲碁オープン戦準決勝 | Gao Xing | Cai Bihan | W+R | 2018-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ch%2BBWOcXOK7swkpVVbGByg%3D%3D) | 
-| 第16回建橋杯女子囲碁オープン戦8強戦 | missing | Cai Bihan | W+R | 2018-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1froz1vfJneW9dRT%2FthvvA%3D%3D) | 
-| 第16回建橋杯女子囲碁オープン戦16強戦 | missing | Cai Bihan | W+R | 2018-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BDflz8%2BNjCw1%2BFq%2Bidb89A%3D%3D) | 
-| 第16回建橋杯女子囲碁オープン戦32強戦 | missing | Cai Bihan | W+R | 2018-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J2T1zSazxPHzZLdCtxc80w%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第12節 | Cai Bihan | missing | B+R | 2018-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iknTrLvtfLF7%2BVXdukdFsg%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第11節広東-武漢 | Cai Bihan | Oh Yujin | W+R | 2018-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zXxB9YfkLG1%2FYuQ0Oqm03Q%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第10節洛陽-広東 | Cai Bihan | Tao Ran | B+¾ | 2018-08-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Mg%2FdUdRXO6zNLjAYjQudQ%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第9節蕪湖-広東 | Cai Bihan | Lee Sula | B+R | 2018-08-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GwHSWxzSEY1WSoqS32jg9w%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第8節広東-江蘇 | Wang Chenxing | Cai Bihan | B+¾ | 2018-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FiGxmLLK7QxU%2Fbr3jF4P3w%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第6節広東-廈門 | Hei Jiajia | Cai Bihan | B+5¾ | 2018-05-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8UX8cpg%2Bm5b4%2FLN1l6Sk3Q%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第4節広東-上海 | Tang Yi | Cai Bihan | W+R | 2018-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O2gTHhWGbvN7Qg0Hll7rQA%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第2節 | Cai Bihan | Lu Jia | B+R | 2018-03-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0SkixAb68Fg3AqiibFxgCw%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ戦17回戦 | missing | Cai Bihan | B+2¾ | 2017-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zF4gxY6f5KUJPhnQr4O3nQ%3D%3D) | 
-| 第15期建橋杯女子囲棋公開戦準決勝 | Rui Naiwei | Cai Bihan | B+1¾ | 2017-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u%2Fsz4lOX3tSNC0ajtSGw8A%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ戦15回戦 | Cai Bihan | Yuan Tingyu | W+R | 2017-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QHuk%2F1WmvfWR1KN%2BAPRChA%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ戦14回戦 | Tang Yi | Cai Bihan | W+R | 2017-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hoBnWsXyCkWb52mPekss3w%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第12節 | Cai Bihan | Cao Youyin | B+R | 2017-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tnS3YN0bDN%2BzR%2FyrUi03%2BA%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第11節 | Cai Bihan | Song Ronghui | B+R | 2017-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=giiP2JPRIj8xZuc1ZO76Qg%3D%3D) | 
-| 第15期建橋杯中国女子公開戦8強戦 | Cai Bihan | Li He | B+R | 2017-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E%2FvutKljwDLf%2FybZ5Fc7yA%3D%3D) | 
-| 2017年全国囲棋個人戦女子組第8戦 | missing | Cai Bihan | W+R | 2017-09-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UNXHuD4o6ufBnUya9CpHPg%3D%3D) | 
-| 2017年全国囲棋個人戦女子組第7戦 | Cai Bihan | Pan Yang | W+4.5 | 2017-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1iEwHNzj7l750OAI5nXPjw%3D%3D) | 
-| 2017年全国囲棋個人戦女子組第2戦 | Cai Bihan | missing | W+0.5 | 2017-09-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nD%2FTAbJRsVePvpmFURfumg%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第8節 | Cai Bihan | missing | B+R | 2017-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ckWDLEQQtaZzlbktplGmPw%3D%3D) | 
-| 第15期建橋杯中国女子公開戦16強戦 | Cai Bihan | Wang Chenxing | B+R | 2017-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IUfLBfrdlTHPayvu40DP%2FA%3D%3D) | 
-| 第15期建橋杯中国女子公開戦本選2回戦 | Chen Yiming | Cai Bihan | W+R | 2017-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hreVcCSQD9uXKk1JR5sivQ%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第7節 | Tao Ran | Cai Bihan | W+2.5 | 2017-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rcAKl%2B6VXDXQzXr%2F7Wm4HQ%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第6節 | Cai Bihan | Zhou Hongyu | B+R | 2017-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5TDGwXiMFW2LPIYMjItMkw%3D%3D) | 
-| 嫘祖杯30回中国名人戦新浪網選1回戦 | Cai Bihan | missing | B+R | 2017-07-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KjmfwyB1Z7koS6cd94EkMQ%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第5節 | Cai Bihan | Tang Yi | B+R | 2017-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1i909ZGdNlUmDFoziLUVlA%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第1節 | Yu Zhiying | Cai Bihan | B+7.5 | 2017-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6lPEOxTnmFZjqOSd7PbCvg%3D%3D) | 
-| 第14期中国倡棋杯予選2回戦 | Cai Bihan | Chang Hao | W+0.5 | 2017-02-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9TnMJUzYYmYfUE48VdKcMg%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第17節 | Cai Bihan | Fan Weijing | W+R | 2016-12-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L8pCRwPqelsj0FPtwKXTUQ%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第16節 | Ye Gui | Cai Bihan | W+2.5 | 2016-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QYtWVH3PS1AIzVfj1SHnfQ%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第14節 | Cai Bihan | Rui Naiwei | W+R | 2016-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PwX7j6G0OSycPpUkXUXJRA%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第13節 | Wang Chenxing | Cai Bihan | B+R | 2016-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0c5TqWrdMSKU32n%2B%2F%2Bxmew%3D%3D) | 
-| 2016年全国囲棋個人戦女子組第9戦 | Cai Bihan | Li He | W+R | 2016-09-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5A2fjSWiGEn3LPAMEAmq9w%3D%3D) | 
-| 2016年全国囲棋個人戦女子組第7戦 | missing | Cai Bihan | W+R | 2016-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yZFUS%2BDaBuC9JjzDut1u3A%3D%3D) | 
-| 2016年全国囲棋個人戦女子組第6戦 | Wang Chenxing | Cai Bihan | B+R | 2016-09-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BnXXBNd%2BPP4RZg0deZzZTQ%3D%3D) | 
-| 2016年全国囲棋個人戦男子組第5戦 | Cai Bihan | Lu Minquan | B+R | 2016-09-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6dWVWPOjAfJ6HbPiNi9HUw%3D%3D) | 
-| 2016年全国囲棋個人戦女子組第4戦 | missing | Cai Bihan | W+R | 2016-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2LMTl%2B7BGLdAZq14yWysiw%3D%3D) | 
-| 2016年全国囲棋個人戦女子組第3戦 | Cai Bihan | Ye Gui | B+R | 2016-09-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SbU%2Funb0kmhRSuIcAHdBxw%3D%3D) | 
-| 第14回建橋杯女子囲碁オープン戦予選 | Cai Bihan | Li Chunhua | W+R | 2016-08-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0xx%2F2cg0KsN5CIctZyW4Uw%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第8節 | Fan Weijing | Cai Bihan | B+R | 2016-07-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wj189oOotaF8b9hI4BGpiA%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第6節 | missing | Cai Bihan | B+1.5 | 2016-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w9ry1Scz3VRW9kaRPpmjoA%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第4節 | Cai Bihan | Yu Zhiying | W+R | 2016-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mmk%2Fz1FwzujXQNx3hsNAow%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第3節 | Cai Bihan | Gao Xing | W+R | 2016-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aF9Yz9IR0314D8G43DkTAQ%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第2節 | Cai Bihan | Cao Youyin | B+R | 2016-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OLZbUuiVKKhKCFIF6cQbGw%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第1節 | Wang Xiangyun | Cai Bihan | W+0.5 | 2016-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UreJHv%2Bd3VbSjvDrU7KSvw%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦予選 | Cai Bihan | missing | B+R | 2016-02-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LKFRudMkyohL2L%2BTqf%2BShg%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第18節 | Cai Bihan | Rui Naiwei | B+R | 2015-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h7%2B8NjNFsWU5IuI%2B9xeKaQ%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第17節 | Cai Bihan | Wang Chenxing | W+R | 2015-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vFQL1uNZIjR%2B%2BSfOV6J6Zg%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第15節 | Zhou Hongyu | Cai Bihan | W+0.5 | 2015-11-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MWsrWbH8tOFI5kYgxkgDdw%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第13節 | Cai Bihan | missing | B+R | 2015-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uCw3Q5gKPChh25XktcYWXg%3D%3D) | 
-| 第13回建橋杯女子囲碁オープン戦予選 | Cai Bihan | missing | W+0.5 | 2015-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y9uimsV7ih6O55M1uWPXYQ%3D%3D) | 
-| 第13回建橋杯女子囲碁オープン戦予選 | Cai Bihan | Wang Jiaqi | B+R | 2015-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tItlUrBPcc4ewFhez47a0A%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第10節 | Gao Xing | Cai Bihan | B+R | 2015-10-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dalRqPy5OwSRnUvhBnQYaw%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第8節 | Yu Zhiying | Cai Bihan | B+R | 2015-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z7nz2DQV%2F6UAeJwm3yBFlw%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第7節 | missing | Cai Bihan | B+1.5 | 2015-09-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bOZ6G2eyVH4Szm3VGt8DRg%3D%3D) | 
-| 2015年全国囲棋個人戦女子組第8戦 | Lu Jia | Cai Bihan | W+R | 2015-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=awGqFtEmmUiC60NflhscbQ%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第6節 | Cai Bihan | Lu Minquan | B+R | 2015-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h%2FHHmstKOUhpFXpmNDLtaw%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第5節 | Cai Bihan | Wang Yubo | B+R | 2015-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fEgvJ6tI34sLP6Y3GALvxQ%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第4節 | missing | Cai Bihan | W+R | 2015-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DDqSZUyK9r3eTYUUXwGK3A%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第3節 | Cai Bihan | missing | B+R | 2015-06-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iIxlqOmSK4tfr2utEJvWvQ%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第1節 | Cai Bihan | Gao Xing | B+R | 2015-05-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7AAHz6XxLV2E%2FA4fC1w9Vg%3D%3D) | 
-| 第12回建橋杯女子囲碁オープン戦2回戦 | Cai Bihan | Cao Youyin | W+2.5 | 2014-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BhXbrbHJugTVnbCSntrxjg%3D%3D) | 
-| 第11回建橋杯女子囲碁オープン戦予選 | Cai Bihan | missing | B+1.5 | 2013-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n10Jw9TrVN5t36H%2FGIwT2A%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第7節 | Zhang Xuan | Cai Bihan | W+8.5 | 2013-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0FKiDKqkFg0cZt9hVpfEkg%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第4節 | Cai Bihan | Ye Gui | W+R | 2013-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UFkYsJOeORGj4wBtiOk1ig%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Cai Bihan | missing | B+1.5 | 2013-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bcpvt8cUgd8BWs3Nl6tuxw%3D%3D) | 
-| 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Cai Bihan | Li Weiqing | W+R | 2013-06-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C045MviUlz7hm3iFRikgmA%3D%3D) | 
-| 第9回建橋杯女子囲碁オープン戦1回戦 | Song Ronghui | Cai Bihan | B+R | 2011-09-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E1Q1QDB%2F9TXrYE0DmKxfRw%3D%3D) | 
-| 第8回建橋杯女子囲碁オープン戦1回戦 | Cai Bihan | Cao Youyin | W+R | 2010-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XV8VNoLHV%2B7EF1SuoVxAkA%3D%3D) | 
-| 第24期中国囲碁天元戦予選 | Cai Bihan | missing | W+R | 2010-01-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nm%2F9G%2Bzb3SKZYZ36smY9pg%3D%3D) | 
-| 第3期建橋杯女子新人王戦2回戦 | Song Ronghui | Cai Bihan | B+R | 2009-03-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sgr9QbkUi5DNWmS70uNogg%3D%3D) | 
-| 第3期建橋杯女子新人王戦1回戦 | Cai Bihan | missing | B+R | 2009-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hxcnrUvZozNdS00CImAOmw%3D%3D) | 
-| 第6回建橋杯女子囲碁オープン戦予選 | Cai Bihan | Zhang Xuan | B+3.5 | 2008-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kf7%2B00AjS44Gf043lPEznA%3D%3D) | 
-| 2007年中国段位戦 | Cai Bihan | missing | W+R | 2007-07-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i2e2yaAd74i6rP%2Bw%2FXGIAw%3D%3D) | 
-| 2007年中国段位戦 | Tang Jialong | Cai Bihan | B+R | 2007-07-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ztxI7XMjELkUSI9aYKzD%2BA%3D%3D) | 
-| 2007年中国段位戦 | Cai Bihan | Cao Xiaoyang | W+R | 2007-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sfwBfPFuwiqRdKHiqyfhVQ%3D%3D) | 
-| 2007年中国段位戦 | Cai Bihan | missing | W+6.5 | 2007-07-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=REXLl%2Fb1oTcMN9Z9z1Rt1A%3D%3D) | 
-| 2007年中国段位戦 | missing | Cai Bihan | W+R | 2007-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d%2BLiJi3a6uXhYQ91qv46iQ%3D%3D) | 
-| 第3回全国女子囲碁精英戦2回戦 | Tang Yi | Cai Bihan | B+3.5 | 2007-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KsgbKoAMH4H0KqSgznbDvA%3D%3D) | 
-| 第3回全国女子囲碁精英戦1回戦 | Song Ronghui | Cai Bihan | W+R | 2007-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FLNXMj01%2B3FMsRbbDGeMKA%3D%3D) | 
-| 第2回百霊杯中国女子囲碁オープン戦予選 | Huang Jia | Cai Bihan | B+R | 2006-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B5RtqsOORl7DErkfDPv7%2Bw%3D%3D) | 
-| 第4回建橋杯女子囲碁オープン戦予選 | Cai Bihan | Xu Ying | W+R | 2006-07-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a14VZqQ45oxc%2BL7bhhcW0Q%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 |  | Cai Bihan | Win | W+R | 7.5 | 2906 | -8 | 
+| 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Li He | Cai Bihan | Lose | B+R | 7.5 | 2914 | -3 | 
+| 2021-05-19 | 第9回中国女子囲碁甲級リーグ | Tang Yi | Cai Bihan | Win | W+R | 7.5 | 2917 | 2 | 
+| 2021-05-18 | 第9回中国女子囲碁甲級リーグ | Cai Bihan |  | Lose | W+¼ | 7.5 | 2915 | -21 | 
+| 2021-05-17 | 第9回中国女子囲碁甲級リーグ | Lu Jia | Cai Bihan | Lose | B+R | 7.5 | 2936 | -21 | 
+| 2021-05-15 | 第9回中国女子囲碁甲級リーグ | Cai Bihan | Pan Yang | Lose | W+R | 7.5 | 2957 | -34 | 
+| 2021-05-14 | 第9回中国女子囲碁甲級リーグ |  | Cai Bihan | Win | W+R | 7.5 | 2991 | 5 | 
+| 2021-04-03 | 第8回中国女子囲碁甲級リーグ | Yu Zhiying | Cai Bihan | Win | W+1¼ | 7.5 | 2986 | 31 | 
+| 2021-04-02 | 第8回中国女子囲碁甲級リーグ | Kim Cheayoung | Cai Bihan | Win | W+R | 7.5 | 2955 | 32 | 
+| 2021-04-01 | 第8回中国女子囲碁甲級リーグ | Cai Bihan | Tang Yi | Lose | W+R | 7.5 | 2923 | -23 | 
+| 2021-03-31 | 第8回中国女子囲碁甲級リーグ | Wang Shuang | Cai Bihan | Lose | B+2¾ | 7.5 | 2946 | -23 | 
+| 2021-03-29 | 第8回中国女子囲碁甲級リーグ |  | Cai Bihan | Win | W+R | 7.5 | 2969 | 26 | 
+| 2021-03-28 | 第8回中国女子囲碁甲級リーグ |  | Cai Bihan | Win | W+2.5 | 7.5 | 2943 | 5 | 
+| 2021-03-27 | 第8回中国女子囲碁甲級リーグ | Cai Bihan | Cho Seungah | Lose | W+R | 7.5 | 2938 | -9 | 
+| 2021-03-26 | 第8回中国女子囲碁甲級リーグ | Cai Bihan | Li He | Win | B+1¾ | 7.5 | 2947 | -137 | 
+| 2020-11-24 | 第8回中国女子囲碁甲級リーグ | Zhou Hongyu | Cai Bihan | Lose | B+R | 7.5 | 3084 | -21 | 
+| 2020-11-23 | 第8回中国女子囲碁甲級リーグ | Wang Chenxing | Cai Bihan | Win | W+R | 7.5 | 3105 | 69 | 
+| 2020-11-21 | 第8回中国女子囲碁甲級リーグ | Cai Bihan | Lu Jia | Win | B+R | 7.5 | 3036 | 49 | 
+| 2020-11-20 | 第8回中国女子囲碁甲級リーグ | Rui Naiwei | Cai Bihan | Lose | B+R | 7.5 | 2987 | 25 | 
+| 2020-11-18 | 第8回中国女子囲碁甲級リーグ | Cai Bihan | Wang Shuang | Lose | W+R | 7.5 | 2962 | -25 | 
+| 2020-11-17 | 第8回中国女子囲碁甲級リーグ |  | Cai Bihan | Win | W+R | 7.5 | 2987 | 336 | 
+| 2020-07-31 | 第8回中国女子囲碁甲級リーグ第4節 |  | Cai Bihan | Win | W+R | 7.5 | 2651 | 54 | 
+| 2020-07-30 | 第8回中国女子囲碁甲級リーグ第3節 | Cai Bihan | Cho Seungah | Lose | W+R | 7.5 | 2597 | 13 | 
+| 2020-07-29 | 第8回中国女子囲碁甲級リーグ第2節 | Cao Youyin | Cai Bihan | Lose | B+R | 7.5 | 2584 | -34 | 
+| 2020-07-28 | 第8回中国女子囲碁甲級リーグ第1節 |  | Cai Bihan | Win | W+R | 7.5 | 2618 | 60 | 
+| 2019-11-27 | 第7回中国女子囲碁甲級リーグ第18節 | Cai Bihan | Tao Ran | Lose | W+1¼ | 7.5 | 2558 | -28 | 
+| 2019-11-26 | 第7回中国女子囲碁甲級リーグ第17節 |  | Cai Bihan | Lose | B+R | 7.5 | 2586 | 2 | 
+| 2019-11-05 | 第7回中国女子囲碁甲級リーグ第16節 |  | Cai Bihan | Lose | B+R | 7.5 | 2584 | -28 | 
+| 2019-10-25 | 第7回中国女子囲碁甲級リーグ第15節 | Cho Hyeyeon | Cai Bihan | Win | W+R | 7.5 | 2612 | 104 | 
+| 2019-10-18 | 第7回中国女子囲碁甲級リーグ第14節 | Cao Youyin | Cai Bihan | Win | W+R | 7.5 | 2508 | -46 | 
+| 2019-09-08 | 第7回中国女子囲碁甲級リーグ第12節 |  | Cai Bihan | Lose | B+R | 7.5 | 2554 | -113 | 
+| 2019-08-28 | 第17回建橋杯女子囲碁オープン戦準決勝 | Wang Shuang | Cai Bihan | Lose | B+R | 7.5 | 2667 | -45 | 
+| 2019-08-27 | 第17回建橋杯女子囲碁オープン戦8強戦 | Yu Zhiying | Cai Bihan | Win | W+R | 7.5 | 2712 | -24 | 
+| 2019-08-12 | 第7回中国女子囲碁甲級リーグ第11節 | Cai Bihan | Song Ronghui | Lose | W+R | 7.5 | 2736 | -112 | 
+| 2019-07-19 | 第7回中国女子囲碁甲級リーグ第7節 | Lu Minquan | Cai Bihan | Win | W+R | 7.5 | 2848 | 149 | 
+| 2019-05-26 | 第7回中国女子囲碁甲級リーグ第3節 | Cai Bihan |  | Win | B+R | 7.5 | 2699 | 82 | 
+| 2018-11-10 | 第16回建橋杯女子囲碁オープン戦決勝三番勝負第2局 | Cai Bihan | Wang Chenxing | Lose | W+R | 7.5 | 2617 | -6 | 
+| 2018-11-09 | 第16回建橋杯女子囲碁オープン戦決勝三番勝負第1局 | Wang Chenxing | Cai Bihan | Lose | B+R | 7.5 | 2623 | -107 | 
+| 2018-10-19 | 第6回中国女子囲碁甲級リーグ第16節広東-浙江 | Cai Bihan | Wang Yubo | Lose | W+R | 7.5 | 2730 | -64 | 
+| 2018-10-11 | 第6回中国女子囲碁甲級リーグ第14節広東-河北 | Cai Bihan | Cao Youyin | Lose | W+R | 7.5 | 2794 | -30 | 
+| 2018-10-09 | 第6回中国女子囲碁甲級リーグ第15節廈門-広東 | Cai Bihan | Yin Qu | Win | B+R | 7.5 | 2824 | 2 | 
+| 2018-09-28 | 第6回中国女子囲碁甲級リーグ第13節上海-広東 | Rui Naiwei | Cai Bihan | Win | W+R | 7.5 | 2822 | 35 | 
+| 2018-09-02 | 第16回建橋杯女子囲碁オープン戦準決勝 | Gao Xing | Cai Bihan | Win | W+R | 7.5 | 2787 | 7 | 
+| 2018-09-01 | 第16回建橋杯女子囲碁オープン戦8強戦 |  | Cai Bihan | Win | W+R | 7.5 | 2780 | -9 | 
+| 2018-08-30 | 第16回建橋杯女子囲碁オープン戦16強戦 |  | Cai Bihan | Win | W+R | 7.5 | 2789 | 23 | 
+| 2018-08-29 | 第16回建橋杯女子囲碁オープン戦32強戦 |  | Cai Bihan | Win | W+R | 7.5 | 2766 | -2 | 
+| 2018-08-25 | 第6回中国女子囲碁甲級リーグ第12節 | Cai Bihan |  | Win | B+R | 7.5 | 2768 | 15 | 
+| 2018-08-24 | 第6回中国女子囲碁甲級リーグ第11節広東-武漢 | Cai Bihan | Oh Yujin | Lose | W+R | 7.5 | 2753 | -8 | 
+| 2018-08-14 | 第6回中国女子囲碁甲級リーグ第10節洛陽-広東 | Cai Bihan | Tao Ran | Win | B+¾ | 7.5 | 2761 | 32 | 
+| 2018-08-12 | 第6回中国女子囲碁甲級リーグ第9節蕪湖-広東 | Cai Bihan | Lee Sula | Win | B+R | 7.5 | 2729 | -14 | 
+| 2018-07-13 | 第6回中国女子囲碁甲級リーグ第8節広東-江蘇 | Wang Chenxing | Cai Bihan | Lose | B+¾ | 7.5 | 2743 | -76 | 
+| 2018-05-31 | 第6回中国女子囲碁甲級リーグ第6節広東-廈門 | Hei Jiajia | Cai Bihan | Lose | B+5¾ | 7.5 | 2819 | -93 | 
+| 2018-05-06 | 第6回中国女子囲碁甲級リーグ第4節広東-上海 | Tang Yi | Cai Bihan | Win | W+R | 7.5 | 2912 | -6 | 
+| 2018-03-24 | 第6回中国女子囲碁甲級リーグ第2節 | Cai Bihan | Lu Jia | Win | B+R | 7.5 | 2918 | 12 | 
+| 2017-12-17 | 第5回中国女子囲碁甲級リーグ戦17回戦 |  | Cai Bihan | Lose | B+2¾ | 7.5 | 2906 | 24 | 
+| 2017-11-20 | 第15期建橋杯女子囲棋公開戦準決勝 | Rui Naiwei | Cai Bihan | Lose | B+1¾ | 7.5 | 2882 | -12 | 
+| 2017-11-14 | 第5回中国女子囲碁甲級リーグ戦15回戦 | Cai Bihan | Yuan Tingyu | Lose | W+R | 7.5 | 2894 | -54 | 
+| 2017-11-12 | 第5回中国女子囲碁甲級リーグ戦14回戦 | Tang Yi | Cai Bihan | Win | W+R | 7.5 | 2948 | -40 | 
+| 2017-10-29 | 第5回中国女子囲碁甲級リーグ第12節 | Cai Bihan | Cao Youyin | Win | B+R | 7.5 | 2988 | 51 | 
+| 2017-10-27 | 第5回中国女子囲碁甲級リーグ第11節 | Cai Bihan | Song Ronghui | Win | B+R | 7.5 | 2937 | 56 | 
+| 2017-10-23 | 第15期建橋杯中国女子公開戦8強戦 | Cai Bihan | Li He | Win | B+R | 7.5 | 2881 | 123 | 
+| 2017-09-25 | 2017年全国囲棋個人戦女子組第8戦 |  | Cai Bihan | Win | W+R | 7.5 | 2758 | 31 | 
+| 2017-09-23 | 2017年全国囲棋個人戦女子組第7戦 | Cai Bihan | Pan Yang | Lose | W+4.5 | 7.5 | 2727 | -58 | 
+| 2017-09-16 | 2017年全国囲棋個人戦女子組第2戦 | Cai Bihan |  | Lose | W+0.5 | 7.5 | 2785 | -39 | 
+| 2017-09-12 | 第5回中国女子囲碁甲級リーグ第8節 | Cai Bihan |  | Win | B+R | 7.5 | 2824 | 27 | 
+| 2017-09-02 | 第15期建橋杯中国女子公開戦16強戦 | Cai Bihan | Wang Chenxing | Win | B+R | 7.5 | 2797 | 34 | 
+| 2017-09-01 | 第15期建橋杯中国女子公開戦本選2回戦 | Chen Yiming | Cai Bihan | Win | W+R | 7.5 | 2763 | 108 | 
+| 2017-08-11 | 第5回中国女子囲碁甲級リーグ第7節 | Tao Ran | Cai Bihan | Win | W+2.5 | 7.5 | 2655 | 23 | 
+| 2017-08-09 | 第5回中国女子囲碁甲級リーグ第6節 | Cai Bihan | Zhou Hongyu | Win | B+R | 7.5 | 2632 | 50 | 
+| 2017-07-18 | 嫘祖杯30回中国名人戦新浪網選1回戦 | Cai Bihan |  | Win | B+R | 7.5 | 2582 | 7 | 
+| 2017-07-16 | 第5回中国女子囲碁甲級リーグ第5節 | Cai Bihan | Tang Yi | Win | B+R | 7.5 | 2575 | 199 | 
+| 2017-05-06 | 第5回中国女子囲碁甲級リーグ第1節 | Yu Zhiying | Cai Bihan | Lose | B+7.5 | 7.5 | 2376 | -14 | 
+| 2017-02-16 | 第14期中国倡棋杯予選2回戦 | Cai Bihan | Chang Hao | Lose | W+0.5 | 7.5 | 2390 | -52 | 
+| 2016-12-05 | 第4回中国女子囲碁甲級リーグ第17節 | Cai Bihan | Fan Weijing | Lose | W+R | 7.5 | 2442 | -137 | 
+| 2016-11-02 | 第4回中国女子囲碁甲級リーグ第16節 | Ye Gui | Cai Bihan | Win | W+2.5 | 7.5 | 2579 | 2 | 
+| 2016-10-28 | 第4回中国女子囲碁甲級リーグ第14節 | Cai Bihan | Rui Naiwei | Lose | W+R | 7.5 | 2577 | -4 | 
+| 2016-10-20 | 第4回中国女子囲碁甲級リーグ第13節 | Wang Chenxing | Cai Bihan | Lose | B+R | 7.5 | 2581 | 52 | 
+| 2016-09-26 | 2016年全国囲棋個人戦女子組第9戦 | Cai Bihan | Li He | Lose | W+R | 7.5 | 2529 | -46 | 
+| 2016-09-23 | 2016年全国囲棋個人戦女子組第7戦 |  | Cai Bihan | Win | W+R | 7.5 | 2575 | -52 | 
+| 2016-09-22 | 2016年全国囲棋個人戦女子組第6戦 | Wang Chenxing | Cai Bihan | Lose | B+R | 7.5 | 2627 | -40 | 
+| 2016-09-20 | 2016年全国囲棋個人戦男子組第5戦 | Cai Bihan | Lu Minquan | Win | B+R | 7.5 | 2667 | 26 | 
+| 2016-09-19 | 2016年全国囲棋個人戦女子組第4戦 |  | Cai Bihan | Win | W+R | 7.5 | 2641 | 9 | 
+| 2016-09-17 | 2016年全国囲棋個人戦女子組第3戦 | Cai Bihan | Ye Gui | Win | B+R | 7.5 | 2632 | -76 | 
+| 2016-08-28 | 第14回建橋杯女子囲碁オープン戦予選 | Cai Bihan | Li Chunhua | Lose | W+R | 7.5 | 2708 | -22 | 
+| 2016-07-12 | 第4回中国女子囲碁甲級リーグ第8節 | Fan Weijing | Cai Bihan | Lose | B+R | 7.5 | 2730 | 25 | 
+| 2016-07-04 | 第4回中国女子囲碁甲級リーグ第6節 |  | Cai Bihan | Lose | B+1.5 | 7.5 | 2705 | -26 | 
+| 2016-05-22 | 第4回中国女子囲碁甲級リーグ第4節 | Cai Bihan | Yu Zhiying | Lose | W+R | 7.5 | 2731 | -27 | 
+| 2016-05-11 | 第4回中国女子囲碁甲級リーグ第3節 | Cai Bihan | Gao Xing | Lose | W+R | 7.5 | 2758 | -9 | 
+| 2016-04-23 | 第4回中国女子囲碁甲級リーグ第2節 | Cai Bihan | Cao Youyin | Win | B+R | 6.5 | 2767 | 26 | 
+| 2016-04-22 | 第4回中国女子囲碁甲級リーグ第1節 | Wang Xiangyun | Cai Bihan | Win | W+0.5 | 7.5 | 2741 | 13 | 
+| 2016-02-23 | 第13期倡棋杯中国プロ囲碁選手権戦予選 | Cai Bihan |  | Win | B+R | 7.5 | 2728 | -50 | 
+| 2015-12-03 | 第3回中国女子囲碁甲級リーグ第18節 | Cai Bihan | Rui Naiwei | Win | B+R | 7.5 | 2778 | 39 | 
+| 2015-12-02 | 第3回中国女子囲碁甲級リーグ第17節 | Cai Bihan | Wang Chenxing | Lose | W+R | 7.5 | 2739 | -32 | 
+| 2015-11-19 | 第3回中国女子囲碁甲級リーグ第15節 | Zhou Hongyu | Cai Bihan | Win | W+0.5 | 7.5 | 2771 | 44 | 
+| 2015-11-05 | 第3回中国女子囲碁甲級リーグ第13節 | Cai Bihan |  | Win | B+R | 7.5 | 2727 | 21 | 
+| 2015-10-24 | 第13回建橋杯女子囲碁オープン戦予選 | Cai Bihan |  | Lose | W+0.5 | 7.5 | 2706 | 9 | 
+| 2015-10-23 | 第13回建橋杯女子囲碁オープン戦予選 | Cai Bihan | Wang Jiaqi | Win | B+R | 7.5 | 2697 | -12 | 
+| 2015-10-15 | 第3回中国女子囲碁甲級リーグ第10節 | Gao Xing | Cai Bihan | Lose | B+R | 7.5 | 2709 | -43 | 
+| 2015-09-23 | 第3回中国女子囲碁甲級リーグ第8節 | Yu Zhiying | Cai Bihan | Lose | B+R | 7.5 | 2752 | -63 | 
+| 2015-09-03 | 第3回中国女子囲碁甲級リーグ第7節 |  | Cai Bihan | Lose | B+1.5 | 7.5 | 2815 | -103 | 
+| 2015-08-31 | 2015年全国囲棋個人戦女子組第8戦 | Lu Jia | Cai Bihan | Win | W+R | 7.5 | 2918 | 60 | 
+| 2015-07-04 | 第3回中国女子囲碁甲級リーグ第6節 | Cai Bihan | Lu Minquan | Win | B+R | 7.5 | 2858 | 0 | 
+| 2015-07-03 | 第3回中国女子囲碁甲級リーグ第5節 | Cai Bihan | Wang Yubo | Win | B+R | 7.5 | 2858 | -5 | 
+| 2015-06-25 | 第3回中国女子囲碁甲級リーグ第4節 |  | Cai Bihan | Win | W+R | 7.5 | 2863 | 82 | 
+| 2015-06-04 | 第3回中国女子囲碁甲級リーグ第3節 | Cai Bihan |  | Win | B+R | 7.5 | 2781 | -58 | 
+| 2015-05-01 | 第3回中国女子囲碁甲級リーグ第1節 | Cai Bihan | Gao Xing | Win | B+R | 7.5 | 2839 | 2839 | 
+| 2014-10-10 | 第12回建橋杯女子囲碁オープン戦2回戦 | Cai Bihan | Cao Youyin | Lose | W+2.5 | 7.5 | missing | -2863 | 
+| 2013-10-10 | 第11回建橋杯女子囲碁オープン戦予選 | Cai Bihan |  | Win | B+1.5 | 7.5 | 2863 | 124 | 
+| 2013-09-01 | 第1回中国女子囲碁甲級リーグ第7節 | Zhang Xuan | Cai Bihan | Win | W+8.5 | 7.5 | 2739 | 2739 | 
+| 2013-08-29 | 第1回中国女子囲碁甲級リーグ第4節 | Cai Bihan | Ye Gui | Lose | W+R | 7.5 | missing | 0 | 
+| 2013-07-02 | 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Cai Bihan |  | Win | B+1.5 | 7.5 | missing | 0 | 
+| 2013-06-29 | 2013年宏達杯全国囲碁星鋭最強戦第2ステージ | Cai Bihan | Li Weiqing | Lose | W+R | 7.5 | missing | 0 | 
+| 2011-09-09 | 第9回建橋杯女子囲碁オープン戦1回戦 | Song Ronghui | Cai Bihan | Lose | B+R | 7.5 | missing | 0 | 
+| 2010-09-04 | 第8回建橋杯女子囲碁オープン戦1回戦 | Cai Bihan | Cao Youyin | Lose | W+R | 7.5 | missing | -2495 | 
+| 2010-01-19 | 第24期中国囲碁天元戦予選 | Cai Bihan |  | Lose | W+R | 7.5 | 2495 | -17 | 
+| 2009-03-05 | 第3期建橋杯女子新人王戦2回戦 | Song Ronghui | Cai Bihan | Lose | B+R | 7.5 | 2512 | 2512 | 
+| 2009-03-04 | 第3期建橋杯女子新人王戦1回戦 | Cai Bihan |  | Win | B+R | 7.5 | missing | -2013 | 
+| 2008-06-19 | 第6回建橋杯女子囲碁オープン戦予選 | Cai Bihan | Zhang Xuan | Win | B+3.5 | 7.5 | 2013 | 590 | 
+| 2007-07-23 | 2007年中国段位戦 | Cai Bihan |  | Lose | W+R | 7.5 | 1423 | -242 | 
+| 2007-07-20 | 2007年中国段位戦 | Tang Jialong | Cai Bihan | Lose | B+R | 7.5 | 1665 | 1665 | 
+| 2007-07-13 | 2007年中国段位戦 | Cai Bihan | Cao Xiaoyang | Lose | W+R | 7.5 | missing | 0 | 
+| 2007-07-12 | 2007年中国段位戦 | Cai Bihan |  | Lose | W+6.5 | 7.5 | missing | 0 | 
+| 2007-07-11 | 2007年中国段位戦 |  | Cai Bihan | Win | W+R | 7.5 | missing | 0 | 
+| 2007-05-15 | 第3回全国女子囲碁精英戦2回戦 | Tang Yi | Cai Bihan | Lose | B+3.5 | 7.5 | missing | 0 | 
+| 2007-05-14 | 第3回全国女子囲碁精英戦1回戦 | Song Ronghui | Cai Bihan | Win | W+R | 7.5 | missing | 0 | 
+| 2006-10-10 | 第2回百霊杯中国女子囲碁オープン戦予選 | Huang Jia | Cai Bihan | Lose | B+R | 7.5 | missing | 0 | 
+| 2006-07-28 | 第4回建橋杯女子囲碁オープン戦予選 | Cai Bihan | Xu Ying | Lose | W+R | 7.5 | missing | missing |
 
 
 

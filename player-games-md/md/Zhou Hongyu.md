@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 | Zhou Hongyu |  | Win | B+R | 7.5 | 3179 | -9 | 
 | 2021-09-14 | 第12期中国竜星戦Bブロック3回戦 | Zhou Hongyu | Chen Haoxin | Lose | W+R | 7.5 | 3188 | 4 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Lu Minquan | Zhou Hongyu | Win | W+R | 7.5 | 3184 | 11 | 
 | 2021-09-01 | 第12期中国竜星戦予選 |  | Zhou Hongyu | Win | W+R | 7.5 | 3173 | 11 | 
@@ -109,7 +110,6 @@
 | 2019-06-09 | 第9回中国姜堰黄竜士精鍛科技杯世界女子団体戦第8戦 | Oh Yujin | Zhou Hongyu | Lose | B+R | 7.5 | 2857 | -12 | 
 | 2019-06-02 | 第7回中国女子囲碁甲級リーグ第5節 | Zhou Hongyu | Pan Yang | Win | B+R | 7.5 | 2869 | 20 | 
 | 2019-05-31 | 第7回中国女子囲碁甲級リーグ第4節 | Zhou Hongyu |  | Win | B+R | 7.5 | 2849 | 24 | 
-| 2019-05-26 | 第7回中国女子囲碁甲級リーグ第3節 | Zhou Hongyu | Gao Xing | Win | B+R | 7.5 | 2825 | 0 | 
 | 2019-05-26 | 第7回中国女子囲碁甲級リーグ第3節 | Zhou Hongyu | Gao Xing | Win | B+R | 7.5 | 2825 | 33 | 
 | 2019-05-07 | 第23期海克力斯杯中国囲碁新人王戦決勝三番勝負第2局 | Chen Haoxin | Zhou Hongyu | Win | W+R | 7.5 | 2792 | 14 | 
 | 2019-05-06 | 第23期海克力斯杯中国囲碁新人王戦決勝三番勝負第1局 | Zhou Hongyu | Chen Haoxin | Win | B+¾ | 7.5 | 2778 | -26 | 

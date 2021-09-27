@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 | Wang Shuang | Zhang Xuan | Lose | B+R | 7.5 | missing | 0 | 
 | 2021-09-14 | 第18回建橋杯女子囲碁オープン戦予選 |  | Zhang Xuan | Win | W+R | 7.5 | missing | -2486 | 
 | 2018-11-23 | 閬中古城杯第1期中国女子囲棋名人戦16強戦 | Chen Yiming | Zhang Xuan | Lose | B+R | 7.5 | 2486 | -106 | 
 | 2018-11-22 | 閬中古城杯第1期中国女子囲棋名人戦32強戦 |  | Zhang Xuan | Win | W+R | 7.5 | 2592 | -62 | 

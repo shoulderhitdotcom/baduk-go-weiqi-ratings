@@ -5,283 +5,284 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第9回中国女子囲碁甲級リーグ | Song Ronghui | Tang Yi | W+R | 2021-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FF7sBd2MQeIfEOr5ImT5nQ%3D%3D) | 
-| 第9回中国女子囲碁甲級リーグ | Tang Yi | Cai Bihan | W+R | 2021-05-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xRRb48nTNlZjC9lXVGjIOw%3D%3D) | 
-| 第9回中国女子囲碁甲級リーグ | missing | Tang Yi | B+¾ | 2021-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IKE1BvfyUDGHgLIuj9cYQw%3D%3D) | 
-| 第9回中国女子囲碁甲級リーグ | Tang Yi | Fang Ruoxi | B+R | 2021-05-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m%2B4%2FaiLXhrzVgK9WnqurRA%3D%3D) | 
-| 第9回中国女子囲碁甲級リーグ | Tang Yi | missing | B+R | 2021-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J7Uh8TDcQoc9tLLqqWiJlQ%3D%3D) | 
-| 第9回中国女子囲碁甲級リーグ | Wang Shuang | Tang Yi | B+1¾ | 2021-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RRGmb7drL%2FI6%2F90PuStIJA%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | missing | Tang Yi | B+R | 2021-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gwdE5qLCHDJ%2BoepSMri4Zw%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Tang Yi | Yu Zhiying | W+R | 2021-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U8Dlrx8Cd9rDC3eM8waGrg%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Cai Bihan | Tang Yi | W+R | 2021-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SyqmlkgYKH3co5g%2FmPZKkA%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Tang Yi | missing | W+R | 2021-03-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4uZu4M18CMCSoVW8Swlz3Q%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Tang Yi | Wang Shuang | W+R | 2021-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ezASLJdxDhwygkYIG79sWg%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | missing | Tang Yi | W+1¼ | 2021-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ofev11glC2QKFZZJRl33rQ%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Tang Yi | missing | W+R | 2021-03-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vkxXPCF3%2FS7BGNa2%2FHIJuA%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | missing | Tang Yi | W+R | 2021-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FMShTOFhfKgyZF4CoYMMvg%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | missing | Tang Yi | W+R | 2020-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YxaplEZ5VTIVL820iDWgVQ%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Zhou Hongyu | Tang Yi | B+R | 2020-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wvdPnu8YYkQc5yD5CZh42A%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Wang Chenxing | Tang Yi | W+R | 2020-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T7o%2B34q7VrH8KrLnu1QUaA%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Tang Yi | Tao Ran | W+R | 2020-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eVLE8G%2FqDvbn2QEEMAx9Eg%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Tang Yi | missing | B+R | 2020-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U0ymfEWHDIQaVM3RP%2F75Hg%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ | Pan Yang | Tang Yi | B+R | 2020-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xec9HKgOY6TIhi5I6e1ASQ%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ第4節 | Gao Xing | Tang Yi | W+R | 2020-07-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a4ybDIEs9LKYVWFSSgos%2Fg%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ第3節 | Lu Minquan | Tang Yi | B+R | 2020-07-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vGNvEeOekE8qKCQCssmBVQ%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ第2節 | Tang Yi | missing | B+1¾ | 2020-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wEdPBBFexVhxlxHfI7IC5g%3D%3D) | 
-| 第8回中国女子囲碁甲級リーグ第1節 | Li He | Tang Yi | W+R | 2020-07-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Al8WULqffUy2Xq7Cw0huew%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第18節 | Wang Xiangyun | Tang Yi | W+R | 2019-11-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1r35yabRck%2By9q9Za8cIZA%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第17節 | Lu Jia | Tang Yi | W+R | 2019-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OvdQXG6%2FXc%2BxFjAJ%2FZHcZw%3D%3D) | 
-| 閬中古城杯第2期中国女子囲棋名人戦16強戦 | Tang Yi | Rui Naiwei | W+3¼ | 2019-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3D3eS5d0PeLcgjZwEw25uA%3D%3D) | 
-| 第4回全国智力運動会プロ女子個人戦第1戦 | Tang Yi | Wang Chenxing | W+R | 2019-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z4mQJ7B2AqGGYsQO8I3R%2Bw%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第16節 | Tang Yi | missing | B+R | 2019-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D4CAXnHx7xlBQKmmVc5e3g%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第15節 | Lu Minquan | Tang Yi | W+¼ | 2019-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h9Y%2Br2Ubkkr0Gkw9LRNhFQ%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第14節 | Zhan Ying | Tang Yi | B+R | 2019-10-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cRP7SYE4Y0etFjM01a%2FvGA%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第13節 | Tang Yi | Huang Ziping | W+1¼ | 2019-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LLC3c67tN12z2umCDOYkhg%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第12節 | Tang Yi | missing | W+R | 2019-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R2kLcN7KTtSJrxi%2BlUx4CQ%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第11節 | Tang Yi | missing | B+R | 2019-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u1cGSnGRsDYO%2FM2sJn1hrg%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第10節 | Fang Ruoxi | Tang Yi | B+R | 2019-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tzA350t7EtL9e4%2F9MZVltQ%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第9節 | Tang Yi | Wang Chenxing | B+R | 2019-07-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=muHTTArnFpSKBbw%2FW3VXjA%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第8節 | Tang Yi | missing | B+R | 2019-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZF%2BMhTwH1I0AbsQ2jvH9dQ%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第7節 | missing | Tang Yi | W+R | 2019-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2hP1HKaEJp3aNQTXM%2F%2BA0w%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第6節 | missing | Tang Yi | B+R | 2019-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2vu3Qm3Kg%2F9TEr3A6s%2FdMQ%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第5節 | Zhan Ying | Tang Yi | W+R | 2019-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xl8L4wAxSjHTPOdefvg2Cw%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第4節 | Tang Yi | missing | W+R | 2019-05-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F8ehiOhMgVDtF2EQD8cprQ%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第3節 | Tang Yi | missing | B+R | 2019-05-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iZ0FZBkFAWBRRMkkMf%2BWfQ%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第2節山西-上海 | missing | Tang Yi | B+R | 2019-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6dkQ8fycDqUYWdvUjfnnzA%3D%3D) | 
-| 第7回中国女子囲碁甲級リーグ第1節上海-杭州 | Tang Yi | Fang Ruoxi | B+R | 2019-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2Nv31BdXrBDO%2FPY%2BT7dK2A%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第18節上海-江蘇 | Wang Xiangyun | Tang Yi | B+R | 2018-11-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yW857LocfsaQCLPSOSp4YQ%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第17節浙江-上海 | Tang Yi | Wang Yubo | W+1¼ | 2018-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=42lZ4s%2BcsKXQRVGpQcqV3A%3D%3D) | 
-| 閬中古城杯第1期中国女子囲棋名人戦16強戦 | Tang Yi | Wang Shuang | W+R | 2018-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ED2QE0Ks23NT%2FqJ2bmh4oQ%3D%3D) | 
-| 閬中古城杯第1期中国女子囲棋名人戦32強戦 | Song Ronghui | Tang Yi | W+R | 2018-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1k1SH4yOZjI4hw218l8YfQ%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第16節上海-廈門 | Hei Jiajia | Tang Yi | B+¾ | 2018-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=evWU43%2BAiFT7cWEZ0pzIbw%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第14節杭州-上海 | Tang Yi | Gao Xing | W+R | 2018-10-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RuUt8AIbRhksOFt0%2BPaHyg%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第15節河北-上海 | Tang Yi | Cao Youyin | W+R | 2018-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D7XzxmtNLdAqgCPj4Ej0KQ%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第13節上海-広東 | Chen Yiming | Tang Yi | B+R | 2018-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cTxRGxHXbWxnT9OkCdY0lQ%3D%3D) | 
-| 第16回建橋杯女子囲碁オープン戦16強戦 | Tang Yi | Yu Zhiying | W+R | 2018-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xQr%2BLYRYS%2FsDiI5uzReSuA%3D%3D) | 
-| 第16回建橋杯女子囲碁オープン戦32強戦 | Tang Yi | Lu Minquan | B+R | 2018-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Udp0FqiDbBW5SpbieXd4gA%3D%3D) | 
-| 第16回建橋杯女子囲碁オープン戦予選 | Tang Yi | missing | B+0.5 | 2018-08-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DyhROiSPXapY9Ffy%2FjCS6A%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第12節 | Tang Yi | missing | B+R | 2018-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8aZYhChdzn5pClz%2BNw8AbQ%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第11節上海-洛陽 | Li He | Tang Yi | W+R | 2018-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BV5KCxx27nBg9V7f%2FJ4Beg%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第10節蕪湖-上海 | Tang Yi | Lee Sula | W+R | 2018-08-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yf%2FuxpLaILDrEPvHSvcJHQ%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第9節江蘇-上海 | Tang Yi | Wang Chenxing | B+¾ | 2018-08-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZOezxLXK4KIWiqHueiDefg%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第8節上海-浙江 | Wang Yubo | Tang Yi | W+R | 2018-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bGsVCxetjTnFdG%2FwFSM2ag%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第7節廈門-上海 | Tang Yi | Hei Jiajia | W+R | 2018-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C6iu37P9MALm9LxjlSW2sQ%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第6節上海-河北 | Wang Shuang | Tang Yi | W+1¼ | 2018-05-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FCsisADOv6VOpQzlFIMFVg%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第5節上海-杭州 | Gao Xing | Tang Yi | B+R | 2018-05-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=muD20KsDlciVzRCZfJ33Qg%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第4節広東-上海 | Tang Yi | Cai Bihan | W+R | 2018-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O2gTHhWGbvN7Qg0Hll7rQA%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第3節上海-武漢 | missing | Tang Yi | B+R | 2018-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J2o6AvduIBKP17XtuRFPjQ%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第2節 | Tang Yi | Tao Ran | B+R | 2018-03-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KT80B1AilJXjLzM5cLrK4w%3D%3D) | 
-| 第6回中国女子囲碁甲級リーグ第1節 | Yuan Tingyu | Tang Yi | W+R | 2018-03-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2JKsWvN%2FchqjT0HrFRQJfQ%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ戦18回戦 | Tang Yi | Lu Jia | W+R | 2017-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4gfeVxWTBH%2B%2F%2FBN%2F7ypq7w%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ戦17回戦 | Pan Yang | Tang Yi | B+R | 2017-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vm2u0HMzhGyyDiatGxyBJg%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ戦16回戦 | Tang Yi | missing | B+R | 2017-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Igs8j4SPxRSYpeYPgTLlRw%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ戦15回戦 | Tao Ran | Tang Yi | W+R | 2017-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6dFf%2Bn0Yvjxxz6CrV%2B9Hng%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ戦14回戦 | Tang Yi | Cai Bihan | W+R | 2017-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hoBnWsXyCkWb52mPekss3w%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ戦13回戦 | Zhou Hongyu | Tang Yi | B+R | 2017-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DZu1rCKjXs6lcSfqGWrHnA%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第12節 | missing | Tang Yi | W+R | 2017-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JaWCVk2dN3dyVMjwVLDy9g%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第11節 | Tang Yi | Yin Qu | W+R | 2017-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kqdlUQS9hfcLoQQ9XpfOqA%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第10節 | missing | Tang Yi | W+R | 2017-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vsjfex3QliyuJHp7KcF44A%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第9節 | Lu Jia | Tang Yi | B+R | 2017-09-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nM81eDWsjdbR6WZpVJztvA%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第8節 | Tang Yi | Pan Yang | W+4.5 | 2017-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qBaVJtrpvL8rOiIgDUbSZw%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第7節 | missing | Tang Yi | W+R | 2017-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bhqj6J1T3zKMd7wNUQxMGg%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第6節 | Tang Yi | Tao Ran | W+R | 2017-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fjwZcw0JR1%2BaMXk21elH0w%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第5節 | Cai Bihan | Tang Yi | B+R | 2017-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1i909ZGdNlUmDFoziLUVlA%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第4節 | Tang Yi | Zhou Hongyu | B+R | 2017-07-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JOjK%2B0%2B9qMbJfn73L4Kv1A%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第3節 | Tang Yi | missing | W+R | 2017-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=frolbYzZivxXh1X8rodUOw%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第2節 | Yin Qu | Tang Yi | B+R | 2017-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wupFOoCs0ni0TzlYVsef4A%3D%3D) | 
-| 第5回中国女子囲碁甲級リーグ第1節 | Tang Yi | Gao Xing | W+R | 2017-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l36AO1aqSWA1DIz5nxtN5g%3D%3D) | 
-| 第19期中国阿含桐山杯本選1回戦 | Tong Mengcheng | Tang Yi | B+R | 2017-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YQ%2BOTAhwBy0%2FXP%2FNQKbkfw%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第18節 | Wang Chenxing | Tang Yi | B+R | 2016-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B9j4IgG3oeEOOrMQIYrWAw%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第17節 | Tang Yi | Wang Yubo | B+1.5 | 2016-12-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=84ViTSX0qhw3Ol2CA1H%2FYw%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第16節 | Zhou Hongyu | Tang Yi | B+R | 2016-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rOWTFPjusuXunk6FiphSFA%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第15節 | Tang Yi | Ye Gui | B+3.5 | 2016-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LDVOwjeB%2BtZ%2FwtjCRxbyHw%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第13節 | Gao Xing | Tang Yi | B+5.5 | 2016-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xrWlSJdNpAGA243c5M9hcQ%3D%3D) | 
-| 第14回建橋杯女子囲碁オープン戦予選 | missing | Tang Yi | B+3.5 | 2016-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XJXMafXtBsZlVP1Y8oO5yw%3D%3D) | 
-| 第14回建橋杯女子囲碁オープン戦予選 | Tang Yi | missing | B+R | 2016-08-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3mlyhbFJJ%2BFY7hO2r26aDQ%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第9節 | Yu Zhiying | Tang Yi | B+R | 2016-08-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VGAGGoP6cxhd3vv6ADO%2FWA%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第8節 | missing | Tang Yi | W+R | 2016-07-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gxvnm4uL4GwVt2%2BAHTfTWQ%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第7節 | Tang Yi | Li He | W+2.5 | 2016-07-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ic7EPucEQSQuZ83dB3xnzg%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第6節 | Li Chunhua | Tang Yi | W+R | 2016-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0TnMMaFeuMNa5DuWZ%2BjcJQ%3D%3D) | 
-| 第3回百霊杯世界オープン戦2回戦 | Tang Yi | Min Sangyoun | W+R | 2016-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BZz08JV2GNi%2FwtyIsGdT%2Bw%3D%3D) | 
-| 第3回百霊杯世界オープン戦1回戦 | Tang Yi | Ahn Kukhyun | B+R | 2016-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ds%2FC9yGHlpMCkeuOAXVrlg%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第5節 | Zheng Yan | Tang Yi | B+R | 2016-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3OqtxLxODiPdbfs1x0prJQ%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第4節 | Tang Yi | missing | B+R | 2016-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tc4t4uxFRL2Qasd0YdepTw%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第3節 | Wang Shuang | Tang Yi | W+R | 2016-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fAOr4fj1t2aM4jU4%2F53B1A%3D%3D) | 
-| 第18期阿含・桐山杯中国早碁オープン戦予選 | Tang Yi | missing | W+R | 2016-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FHW5HQZZQzkThTP8QE8Zvg%3D%3D) | 
-| 第18期阿含・桐山杯中国早碁オープン戦予選 | Chang Hao | Tang Yi | W+R | 2016-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6fQEauXsbMycemEZHeKOHw%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第2節 | Tang Yi | Pan Yang | W+0.5 | 2016-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0kuX4kjEUAEYrvpb1Pmohg%3D%3D) | 
-| 第4回中国女子囲碁甲級リーグ第1節 | missing | Tang Yi | B+R | 2016-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bd9v5G5c7Iy7IQmpIlgSYA%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第18節 | Tang Yi | Chen Yiming | W+0.5 | 2015-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9%2B2GIoudvLOqV%2FqNO1e9Jg%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第17節 | Tang Yi | Li He | W+R | 2015-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yzz8dTKUtyCGNbTMXj20IQ%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第16節 | Tang Yi | Lu Jia | B+3.5 | 2015-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r6P1BbGgGvp4O0Yrfd5ESA%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第15節 | Tang Yi | missing | B+R | 2015-11-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9GbyacDIOWNf8Hg7RoayCg%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第14節 | Wang Shuang | Tang Yi | W+R | 2015-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LbBlwltkjI4culGmK6CnTQ%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第13節 | Tang Yi | Gao Xing | B+R | 2015-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=phBEmfrRMb%2F19pPL2ZVCZg%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第12節 | Tang Yi | Fan Weijing | B+R | 2015-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lc0ykvk6ZOFnXSR%2F7OqEtQ%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第11節 | Tang Yi | Yu Zhiying | B+R | 2015-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6l0EXjvfjjr7UEgfUz6J0Q%3D%3D) | 
-| 第13回建橋杯女子囲碁オープン戦予選 | Tang Yi | Song Ronghui | W+R | 2015-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=evEl0TkvNe8tcA06Y5mQ8g%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第10節 | Tang Yi | missing | B+R | 2015-10-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s3I0XGlwA4Sbr0nVNayVhA%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第9節 | Tang Yi | Chen Yiming | W+R | 2015-09-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H2wayuHhD9LQUhKLjFzuFQ%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第8節 | Wang Yubo | Tang Yi | W+0.5 | 2015-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PbzGsEVwuVXK9PwK2iqEnw%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第7節 | Tang Yi | missing | W+6.5 | 2015-09-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3JfNKuB70pDjBcyXEpk7xw%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第6節 | Yuan Tingyu | Tang Yi | W+R | 2015-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pcw7CNraQHXLjSg7haWHqg%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第5節 | Tang Yi | Wang Shuang | B+R | 2015-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y%2BagvqlYjVifwZXS%2FqTq1Q%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第4節 | Gao Xing | Tang Yi | B+R | 2015-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GeMeA%2B22MfUuwzjQj%2FzO8w%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第3節 | Lu Minquan | Tang Yi | W+R | 2015-06-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t64lzxTwdL2J8fs%2BkK7%2Byg%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第2節 | Tang Yi | Wang Chenxing | B+R | 2015-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UnHCeAR9tD1IjRsYhMBuXw%3D%3D) | 
-| 第3回中国女子囲碁甲級リーグ第1節 | missing | Tang Yi | W+R | 2015-05-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BfNn2uuGBbo2SjJ1f62RiA%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦予選 | Zhang Qiang | Tang Yi | B+R | 2015-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zMMYxtSzuv5PJl6%2BRuq%2Fqw%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦予選 | missing | Tang Yi | W+R | 2015-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NSFpFFFVslRJJIQXmvD1Lw%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第14節 | missing | Tang Yi | B+1.5 | 2014-11-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lNQBBD%2FrCtOhdoSuryPU7Q%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第13節 | Tang Yi | missing | W+R | 2014-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qTjjzxsGfSIqDSZGs4irrw%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第12節 | Song Ronghui | Tang Yi | W+R | 2014-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1wv%2F3DGq6wP24zy2iaolsA%3D%3D) | 
-| 第10期威孚房開杯棋王戦1回戦 | Tang Yi | Gu Li | W+R | 2014-10-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2Cg21KZLFbRMlQeDhusFAQ%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第11節 | Tang Yi | missing | W+R | 2014-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lIZfIvSv6PpMEHHQUZMXZA%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第10節 | Yu Zhiying | Tang Yi | B+R | 2014-08-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tr8iuXoNDA7YvY2sJxfSYQ%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第9節 | Tang Yi | Wang Shuang | W+4.5 | 2014-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=88uHjc8dfk95m%2F5a6zAoKQ%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第8節 | Zheng Yan | Tang Yi | W+R | 2014-08-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=REpKugycFPWKcGCw0rR5OQ%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第7節 | Tang Yi | missing | W+4.5 | 2014-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xcNs8Gvtt%2F%2FSmUivPIPo1w%3D%3D) | 
-| 第19回三星火災杯統合予選女子枠決勝 | Tang Yi | Kim Yoonyoung | W+1.5 | 2014-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FneH1bHu2ubRehTh2AoiwA%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第6節 | missing | Tang Yi | W+R | 2014-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sfABdlSqqA5wdxOgJT3Qnw%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第5節 | Song Ronghui | Tang Yi | W+R | 2014-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TJGj9JNgzJjaAU97OmqSIQ%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第4節 | missing | Tang Yi | W+R | 2014-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CbvhcS2JbP6KcGKZTbbj4Q%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第3節 | Tang Yi | Yu Zhiying | W+R | 2014-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zI3BHKpWqc%2FxjNh%2BXGRwiw%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第2節 | Wang Shuang | Tang Yi | B+1.5 | 2014-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ls3HRTgPp%2BQhjcd7yiCqiA%3D%3D) | 
-| 第2回中国女子囲碁甲級リーグ第1節 | Tang Yi | Chen Yiming | B+R | 2014-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RDzfUoSJKmgY8FU%2BROzgSA%3D%3D) | 
-| 第14期リコー杯囲碁戦1回戦 | Tang Yi | Fan Yin | W+R | 2013-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pnKudli3nrqQMWtxY9CjGg%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第14節 | Tang Yi | missing | W+R | 2013-12-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WF%2BTjytVzMKBswNykZRbjQ%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第13節 | Wang Xiangyun | Tang Yi | B+9.5 | 2013-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZM%2BdUjpUozAuOxXAiGoqlg%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第12節 | Yu Zhiying | Tang Yi | B+R | 2013-12-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MofC%2BoIrGYyF3%2FHP4JiOKQ%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第11節 | Tang Yi | missing | B+R | 2013-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LFOe%2BJSieKbEM1vx8B0dwg%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第10節 | Zhan Ying | Tang Yi | W+R | 2013-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qQW0hfO7heKRBllEGCpKUA%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第9節 | Tang Yi | Chen Yiming | W+R | 2013-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3XjgTBjpC8j8e%2F%2Fim%2F6uSg%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第8節 | Tang Yi | Lu Jia | B+R | 2013-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qLvTK6YBjr7iOLnQPRaOxg%3D%3D) | 
-| 第11回建橋杯女子囲碁オープン戦1回戦 | Rui Naiwei | Tang Yi | B+R | 2013-10-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a%2BCOhLnTWUsUfR0CTdcXPQ%3D%3D) | 
-| 第11回建橋杯女子囲碁オープン戦予選 | Tang Yi | missing | B+R | 2013-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FWhcMlcaZnkQDVfOOsuhuQ%3D%3D) | 
-| 第4回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Tang Yi | Yu Zhiying | W+R | 2013-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g91BuM8n3rfkswEEMv29UQ%3D%3D) | 
-| 第5期中国竜星戦予選 | Chen Yiming | Tang Yi | B+R | 2013-09-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DFsZ50%2Fo7VH2ppp8L9BTRQ%3D%3D) | 
-| 第4回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Choi Jeong | Tang Yi | W+12.5 | 2013-09-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M89o8zQbA8gQqvsbT0TOnQ%3D%3D) | 
-| 第4回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Tang Yi | Oh Jeonga | B+R | 2013-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wXunMiuj56%2BUaMIpO%2BrWwg%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第7節 | missing | Tang Yi | W+0.5 | 2013-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5%2BM4kHIyp2AbKqAWo5pCHw%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第6節 | Tang Yi | Wang Xiangyun | B+R | 2013-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hjPPq9menvTJP1%2BSOrwGxA%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第5節 | Tang Yi | Yu Zhiying | W+R | 2013-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PxvLL%2BFWe470xD54UoprYA%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第4節 | missing | Tang Yi | W+R | 2013-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2Rs9u6XfK8YTcAtsaa%2FIxw%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第3節 | Tang Yi | Li Yirong | W+R | 2013-06-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BaekgkZi4aP%2F46Bi4jManQ%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第2節 | Chen Yiming | Tang Yi | B+R | 2013-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1vsX58RL9WDnCiDmHsZq9w%3D%3D) | 
-| 第1回中国女子囲碁甲級リーグ第1節 | Tang Yi | Lu Jia | W+R | 2013-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W13KIxrLGinEZcT8EeUjrQ%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Tang Yi | missing | W+2.5 | 2013-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=661HcCl04blBnDY4V7L4CA%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Tang Yi | missing | B+R | 2013-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RQIogf7FzQkKao9hkDND7w%3D%3D) | 
-| 第2期全国女子囲碁国手戦三位決定戦 | Wang Chenxing | Tang Yi | W+R | 2013-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W2gXAj40gqcu3k6dTyfbGg%3D%3D) | 
-| 第2期全国女子囲碁国手戦準決勝 | Tang Yi | Fan Weijing | W+R | 2013-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=olxltMSgNQf7sbZYj4Q7Cg%3D%3D) | 
-| 第2期全国女子囲碁国手戦2回戦 | Yu Zhiying | Tang Yi | W+R | 2013-05-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BlTwMVUl9nq1CAfGvoO43g%3D%3D) | 
-| 第2期全国女子囲碁国手戦1回戦 | Tang Yi | Wang Xiangyun | B+R | 2013-05-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SpIZEJmmsDtSC7x5Y2g7ng%3D%3D) | 
-| 第2回華頂茶業杯世界女子団体選手権第3戦 | Tang Yi | Okuda Aya | B+R | 2013-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F3L6FanGCro%2F%2BzhiDqDjTg%3D%3D) | 
-| 第2回華頂茶業杯世界女子団体選手権第2戦 | Su Shengfang | Tang Yi | W+R | 2013-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GYz6Q575VhAFChLVgWBxMA%3D%3D) | 
-| 第2回華頂茶業杯世界女子団体選手権第1戦 | Tang Yi | Kim Miri | W+R | 2013-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fRz0OSckhm4qUeJzN%2FaXzw%3D%3D) | 
-| 第26期中国囲碁名人戦予選 | Tang Yi | Qiu Jun | W+R | 2013-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P%2Fc6LBGVRgKklqikZMaeWg%3D%3D) | 
-| 第3回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Tang Yi | Rui Naiwei | W+4.5 | 2012-11-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nlmj%2BjtbHk1liV1V%2BVrY6g%3D%3D) | 
-| 第3回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Song Ronghui | Tang Yi | W+R | 2012-10-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rpICmzPIQA0j5XbWzEY03g%3D%3D) | 
-| 第3回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Tang Yi | Kim Hyeoimin | B+R | 2012-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FvNUFM%2Fnq87321pvI6n0hw%3D%3D) | 
-| 第10回建橋杯女子囲碁オープン戦2回戦 | Chen Yiming | Tang Yi | B+1.5 | 2012-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KBmMBWzUoHYD4wVB3EPyFw%3D%3D) | 
-| 第26期中国囲碁天元戦予選 | missing | Tang Yi | W+4.5 | 2012-02-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nrMWEusz%2FSOmXCYGVu54Eg%3D%3D) | 
-| 2011年国際新鋭囲碁対抗戦第1戦 | Xie Yimin | Tang Yi | B+5.5 | 2011-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=09%2FnpDrwLCm%2FNAtYxr%2BVLQ%3D%3D) | 
-| 第2回穹窿山兵聖杯世界女子囲碁選手権決勝 | Park Shiun | Tang Yi | B+R | 2011-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oCpvYA127tHjkS8bPi%2FgLw%3D%3D) | 
-| 第2回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Park Jiyeon | Tang Yi | W+R | 2011-10-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vjB7qHCwUrrQI6OdGBy%2BzQ%3D%3D) | 
-| 第2回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Tang Yi | Xie Yimin | B+R | 2011-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VCLE6nref8Bld8rcyYsKAQ%3D%3D) | 
-| 第2回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Tang Yi | Natalya Kovaleva | B+R | 2011-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=heDXEYih0xukCyllWjTWog%3D%3D) | 
-| 第9回建橋杯女子囲碁オープン戦1回戦 | Wang Chenxing | Tang Yi | B+1.5 | 2011-09-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3zniMbaTf3R1D74fLWJ8%2Fg%3D%3D) | 
-| 第7回百霊杯元老女子勝抜戦第10戦 | Tang Yi | Liu Xiaoguang | W+R | 2011-08-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5zOv%2BeVm0IXag7iEKhaCOw%3D%3D) | 
-| 第1回黄竜士佳源杯世界女子囲碁団体選手権第3戦 | Tang Yi | Cho Hyeyeon | B+R | 2011-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=myva969E1%2Bw2zSJdxDGlaw%3D%3D) | 
-| 第1回黄竜士佳源杯世界女子囲碁団体選手権第2戦 | Su Shengfang | Tang Yi | W+R | 2011-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7cCUaeEYl7Px1VV4%2FOt48A%3D%3D) | 
-| 第1回黄竜士佳源杯世界女子囲碁団体選手権第1戦 | Mukai Chiaki | Tang Yi | W+R | 2011-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9hmKxmTGglBSSP7zlPW5Sw%3D%3D) | 
-| 第9回正官庄杯世界女子囲碁最強戦第9戦 | Yoshida Mika | Tang Yi | B+1.5 | 2011-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YJcuzwe%2BD4J%2F%2B23iwk%2BuCg%3D%3D) | 
-| 第9回正官庄杯世界女子囲碁最強戦第8戦 | Tang Yi | Moon Dowon | B+R | 2011-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ir17p0zRR9TWSUC748yDpw%3D%3D) | 
-| 2011CCTV杯中国囲棋電視快棋戦1回戦 | Tang Yi | Ke Jie | W+R | 2011-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FqkY0qVTkDC66XDU2Hqp3g%3D%3D) | 
-| 第6回百霊杯元老女子対抗戦第8戦 | Chen Zude | Tang Yi | B+R | 2010-12-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6FFD20kCnnyYRwoYSkFKUg%3D%3D) | 
-| 第6回百霊杯元老女子対抗戦第7戦 | Ma Xiaochun | Tang Yi | W+R | 2010-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BbDU4oUqBNzz8n61N3xGRA%3D%3D) | 
-| 第11期リコー杯囲碁戦1回戦 | Yang Dingxin | Tang Yi | B+R | 2010-12-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yMW1FASwMGGGLhxvNQL16g%3D%3D) | 
-| 2010年アジア競技大会囲碁女子団体戦 | Tang Yi | Cho Hyeyeon | B+R | 2010-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NVHJy8S0K9pxPZyvLoQA0Q%3D%3D) | 
-| 2010年アジア競技大会囲碁女子団体戦 | Tang Yi | Mukai Chiaki | B+R | 2010-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JYDkajdPXn2ojHN9LhWxvw%3D%3D) | 
-| 第8回建橋杯女子囲碁オープン戦決勝三番勝負第3局 | Tang Yi | Wang Xiangyun | W+R | 2010-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SKMdvm1N9FkpEZQAQNw%2FYQ%3D%3D) | 
-| 第8回建橋杯女子囲碁オープン戦決勝三番勝負第2局 | Tang Yi | Wang Xiangyun | B+R | 2010-11-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m5pqhXLZ07NG9c1qJWGMmA%3D%3D) | 
-| 第8回建橋杯女子囲碁オープン戦決勝三番勝負第1局 | Wang Xiangyun | Tang Yi | B+R | 2010-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DafSlaLdqDPcH5N%2FkjUS9Q%3D%3D) | 
-| 第1回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Park Shiun | Tang Yi | B+R | 2010-09-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iyYN2FxrZWSZz8hEBYj%2Bhw%3D%3D) | 
-| 第1回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Tang Yi | Xie Yimin | B+3.5 | 2010-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NS7C8kKvndqnXKzGs7efBA%3D%3D) | 
-| 第1回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Tang Yi | Rui Naiwei | B+5.5 | 2010-09-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xdKVaLbJDM1quUnd4WYTyA%3D%3D) | 
-| 第8回建橋杯女子囲碁オープン戦準決勝 | Song Ronghui | Tang Yi | W+R | 2010-09-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SAW%2BI7nAiiinNSumitqLgg%3D%3D) | 
-| 第7期倡棋杯中国プロ囲碁選手権戦1回戦 | Li Zhe | Tang Yi | B+R | 2010-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cqH9LcuNLN7KOCP3RGqGtg%3D%3D) | 
-| 第24期中国囲碁天元戦予選 | Tang Yi | Wang Zheming | W+6.5 | 2010-01-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F%2FXdsvj05iPsWZ1LKIz%2Bzg%3D%3D) | 
-| 第3期建橋杯女子新人王戦決勝三番勝負第2局 | Tang Yi | Song Ronghui | B+R | 2009-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1AQOk0CUDEkGQf70xshnkw%3D%3D) | 
-| 第3期建橋杯女子新人王戦決勝三番勝負第1局 | Song Ronghui | Tang Yi | W+R | 2009-05-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pOuJpZeNJsdJZ8h2ONKTzg%3D%3D) | 
-| 第3期建橋杯女子新人王戦準決勝 | Wang Chenxing | Tang Yi | W+0.5 | 2009-03-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6EexN0RkZcmIxpR16QnWMA%3D%3D) | 
-| 第3期建橋杯女子新人王戦2回戦 | Lu Jia | Tang Yi | W+R | 2009-03-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FmlG73iWQWCKljPUybAw0g%3D%3D) | 
-| 第3期建橋杯女子新人王戦1回戦 | Tang Yi | missing | B+R | 2009-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DwE7iB3Vjn4r%2Bnnfm2ekjw%3D%3D) | 
-| 第22期中国囲碁名人戦予選 | Tang Yi | Guo Yuzheng | W+R | 2009-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DvMPHY03ZplF6nHrjntMmw%3D%3D) | 
-| 第22期中国囲碁名人戦予選 | Tang Yi | Lu Jia | B+R | 2009-03-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9BOarI1d805uanjh8RK5EA%3D%3D) | 
-| 第4回全国女子囲碁精英戦第1戦 | Zheng Yan | Tang Yi | B+R | 2008-11-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uzefMNf4vmc8%2FHqdVW580w%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁女子団体戦決勝 | Tang Yi | Park Jiyeon | B+5.5 | 2008-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HYOt8iOZD%2BS058K60bkStg%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁女子団体戦 | Tang Yi | Suzuki Ayumi | W+7.5 | 2008-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CruUahNSZBQLxcHy9%2BLUig%3D%3D) | 
-| 2008年中国段位戦 | Tang Yi | Zheng Yan | B+R | 2008-07-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yU66OaEWk4%2Fhum5E8IOtsg%3D%3D) | 
-| 2008年中国段位戦 | Tang Yi | Tang Jialong | B+R | 2008-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p0GnuLHbvWr20iROU2L1vQ%3D%3D) | 
-| 第6回建橋杯女子囲碁オープン戦2回戦 | Tang Yi | Lu Jia | W+2.5 | 2008-06-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hlFA9rZU5%2BzK4CZ7Rd8Zag%3D%3D) | 
-| 第6回建橋杯女子囲碁オープン戦1回戦 | Tang Yi | missing | B+R | 2008-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qzotrytYnKWXOppohXW4sw%3D%3D) | 
-| 第4回百霊杯戦特別対局 | Rui Naiwei | Tang Yi | B+R | 2008-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sUY4AHKPDjJe5BZ3Ui6YDA%3D%3D) | 
-| 第5期倡棋杯中国プロ囲碁選手権戦1回戦 | Chen Yaoye | Tang Yi | B+9 | 2008-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xzs8SjDqSafjxgQ%2Bi1LzYw%3D%3D) | 
-| 第6回正官庄杯世界女子囲碁最強戦第11戦 | Tang Yi | Lee Minjin | W+R | 2008-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ztMCnGyz4nmuXksWtQ4SAg%3D%3D) | 
-| 第6回正官庄杯世界女子囲碁最強戦第10戦 | Tang Yi | Yashiro Kumiko | B+R | 2008-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fF3EwfyspUst%2FWVVuxQM3g%3D%3D) | 
-| 第6回正官庄杯世界女子囲碁最強戦第9戦 | Lee Hajin | Tang Yi | W+7.5 | 2008-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P9j%2BQFRI9gbi6hlOGzfz9g%3D%3D) | 
-| 第14期NEC杯囲碁戦予選 | Tang Yi | missing | B+R | 2008-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KKAkCNTFCxJCy0fdZBTCFA%3D%3D) | 
-| 第14期NEC杯囲碁戦予選 | Tang Yi | Zhou Ruiyang | W+R | 2008-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SKiyHlxE%2BUU2%2BW%2FSVum52Q%3D%3D) | 
-| 第21期中国囲碁名人戦予選 | missing | Tang Yi | B+R | 2008-02-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1pk2XKVk2lrGglrk%2BXhX9w%3D%3D) | 
-| 第22期中国囲碁天元戦予選 | Tang Yi | Li Jie | W+R | 2008-01-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3uXJwF%2FOQeAWf%2Fp6LZUE9A%3D%3D) | 
-| 第8期リコー杯囲碁戦2回戦 | Wang Xi | Tang Yi | B+R | 2008-01-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OzeqL693d%2B3Xvq0gFBTzlg%3D%3D) | 
-| 第8期リコー杯囲碁戦1回戦 | Tang Yi | Gui Wenbo | B+1.5 | 2008-01-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iCWdBzgC4RAy1H1Iq8XW5w%3D%3D) | 
-| 2008CCTV杯中国囲棋電視快棋戦2回戦 | Wang Lei (b) | Tang Yi | B+R | 2007-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nMAUNMQT3S3gWfc4fVigdQ%3D%3D) | 
-| 第1回遠洋地産杯世界女子プロオープン戦2回戦 | Xie Yimin | Tang Yi | B+3.5 | 2007-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=35%2BcWgYwrrDZ874r8zORwA%3D%3D) | 
-| 第5回建橋杯女子囲碁オープン戦2回戦 | Cao Youyin | Tang Yi | B+R | 2007-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vY4%2BaOKaN%2Bz5xHy94%2FoEfw%3D%3D) | 
-| 2007年全国囲棋個人戦女子組第9戦 | missing | Tang Yi | W+R | 2007-09-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bNRM1ZRVdVO4nUWxanLMkA%3D%3D) | 
-| 2007年全国囲棋個人戦女子組第7戦 | Yin Mingming | Tang Yi | W+R | 2007-09-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X4AZ%2FfvS5EwgRe29FW%2Bu5w%3D%3D) | 
-| 2007年全国囲棋個人戦女子組第5戦 | Tang Yi | Wang Pan | B+R | 2007-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XUvay3yOBO6x0SqGpeNjIg%3D%3D) | 
-| 2007年全国囲棋個人戦女子組第4戦 | Wang Xiangyun | Tang Yi | W+R | 2007-09-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fkn1uOklwLzd18E3oYodFQ%3D%3D) | 
-| 2007年全国囲棋個人戦女子組第1戦 | Tang Yi | Zheng Yan | B+R | 2007-09-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OG7zlpOyF%2FLWcbYbSu00KA%3D%3D) | 
-| 第5回建橋杯女子囲碁オープン戦1回戦 | Tang Yi | Hua Xueming | B+R | 2007-08-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PGIRYIXPBkBfkIYLiBFa5g%3D%3D) | 
-| 第5回建橋杯女子囲碁オープン戦予選 | Tang Yi | Mao Yuheng | B+R | 2007-08-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BqT7b534FwUeDuGfgzn56Q%3D%3D) | 
-| 第5回建橋杯女子囲碁オープン戦予選 | Tang Ying | Tang Yi | W+0.5 | 2007-08-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w9MAp9ZU8mIL5gRQ%2FDZmDA%3D%3D) | 
-| 2007年中国段位戦 | Tang Yi | Zheng Yan | B+R | 2007-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G0OjxIAKuOyzQ5cynIKXkg%3D%3D) | 
-| 2007年中国段位戦 | Hu Lei | Tang Yi | W+R | 2007-07-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kNBHyt8VW8znW1JT64qVTg%3D%3D) | 
-| 2007年中国段位戦 | Bai Guangyuan | Tang Yi | B+1.5 | 2007-07-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1KR0s2%2Fe3anikKpMz%2FsCbw%3D%3D) | 
-| 2007年中国段位戦 | missing | Tang Yi | B+R | 2007-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VPdDKXFXicXtWHd64yaldw%3D%3D) | 
-| 2007年中国段位戦 | Tang Yi | missing | W+R | 2007-07-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4oNBfEof8632Lj1pyMNH%2Fw%3D%3D) | 
-| 2007年中国段位戦 | Wu Jun | Tang Yi | W+R | 2007-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kXc4hQ7p9a69wmeXP0Q2EA%3D%3D) | 
-| 第3回全国女子囲碁精英戦決勝三番勝負第3局 | Ye Gui | Tang Yi | W+R | 2007-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RcTGoLptOyVN3kj6juQSnA%3D%3D) | 
-| 第3回全国女子囲碁精英戦決勝三番勝負第2局 | Tang Yi | Ye Gui | B+5.5 | 2007-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8FXaH%2BZbXrTJgB28Ec2ShA%3D%3D) | 
-| 第3回全国女子囲碁精英戦決勝三番勝負第1局 | Ye Gui | Tang Yi | B+5.5 | 2007-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2kAs6nWXheVK%2BecZWHHBtA%3D%3D) | 
-| 第3回全国女子囲碁精英戦準決勝 | Tang Yi | missing | B+R | 2007-05-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pDczK05VuWbxEPNzdtx5qw%3D%3D) | 
-| 第3回全国女子囲碁精英戦2回戦 | Tang Yi | Cai Bihan | B+3.5 | 2007-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KsgbKoAMH4H0KqSgznbDvA%3D%3D) | 
-| 第3回全国女子囲碁精英戦1回戦 | Tang Yi | Meng Zhaoyu | B+7.5 | 2007-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cm5k%2B5sE9KNGMI56IS18Cw%3D%3D) | 
-| 第3回全国女子囲碁精英戦予選 | Tang Yi | Wang Rui | B+R | 2007-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bnxHOCuDD6c85gq5AEkZVw%3D%3D) | 
-| 第3回全国女子囲碁精英戦予選 | Tang Yi | Wang Pan | B+5.5 | 2007-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bHzDCkAf663N6Bte0HrAyA%3D%3D) | 
-| 第1期建橋杯女子新人王戦決勝三番勝負第3局 | Tang Yi | Cao Youyin | W+6.5 | 2007-03-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6DHxQmgL7S8lVkNaJlx1ww%3D%3D) | 
-| 第1期建橋杯女子新人王戦決勝三番勝負第2局 | Cao Youyin | Tang Yi | W+R | 2007-03-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BuQ%2BmCIsKE5epCG37HNfxA%3D%3D) | 
-| 第1期建橋杯女子新人王戦決勝三番勝負第1局 | Tang Yi | Cao Youyin | W+R | 2007-03-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ORPMJbCWb97E1wmDZ62V1w%3D%3D) | 
-| 第1期建橋杯女子新人王戦勝者組決勝 | Cao Youyin | Tang Yi | W+R | 2007-02-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LXhef6d%2Fp0jnvZc38atkKQ%3D%3D) | 
-| 第1期建橋杯女子新人王戦2回戦 | Tang Yi | missing | B+R | 2007-02-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zfpnrpUuyR2x5aUnt7GWKg%3D%3D) | 
-| 第1期建橋杯女子新人王戦1回戦 | Tang Yi | missing | B+R | 2007-02-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S5954Yt5YRPBixR%2Bb0cAIQ%3D%3D) | 
-| 第3回富士通杯U15少年囲碁戦第8戦 | Tang Yi | Tong Yulin | W+R | 2007-01-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cOV%2Fnsab1ehdJIBPZ35wyQ%3D%3D) | 
-| 第3回富士通杯U15少年囲碁戦第5戦 | missing | Tang Yi | W+0.5 | 2007-01-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uEZFIn25ukJqVmmUwioeuA%3D%3D) | 
-| 第2回百霊杯中国女子囲碁オープン戦予選 | Tang Yi | Song Ronghui | B+R | 2006-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1m1uyvGW%2BW7wY9%2FPTyJ1Fw%3D%3D) | 
-| 第5回正官庄杯世界女子囲碁最強戦中国予選 | Tang Yi | Xu Ying | W+R | 2006-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5%2BiRFch9uu9T5EF1IvTO1w%3D%3D) | 
-| 第4回建橋杯女子囲碁オープン戦1回戦 | Zheng Yan | Tang Yi | B+3.5 | 2006-07-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=njoSFdm1IEprXovgLLlymQ%3D%3D) | 
-| 第4回建橋杯女子囲碁オープン戦予選 | Tang Yi | Cao Youyin | B+3.5 | 2006-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CjE%2BFClEI3N3kBPx5Atpwg%3D%3D) | 
-| 第4回建橋杯女子囲碁オープン戦予選 | Yu Meiling | Tang Yi | W+R | 2006-07-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zgQGbMRdYmkPd9dAqd2U5Q%3D%3D) | 
-| 2005年中国段位戦 | Gui Wenbo | Tang Yi | B+R | 2005-07-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OlOd%2BNC%2Ff37KW2HnB7iWxA%3D%3D) | 
-| 2005年中国段位戦 | missing | Tang Yi | B+R | 2005-07-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LJdOdpu7xk0EkA7hShf%2FCA%3D%3D) | 
-| 第3期女子名人戦準決勝 | Li Chunhua | Tang Yi | B+R | 2005-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DydtiscClhP7cjroT6ecwA%3D%3D) | 
-| 第1回富士通杯U15少年囲碁戦 | Fan Weijing | Tang Yi | B+R | 2005-01-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mxwEYAUZLu9h5y%2BEb4jWUw%3D%3D) | 
-| 第2回建橋杯女子囲碁オープン戦2回戦 | Zhang Xuan | Tang Yi | B+R | 2004-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tfE7Up1E5RcRHq6vgY1glA%3D%3D) | 
-| 第2回建橋杯女子囲碁オープン戦1回戦 | Tang Yi | missing | B+R | 2004-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kKHQUbGPD%2FePgUMAzc3xBw%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 | Tang Yi | Yu Zhiying | Lose | W+R | 7.5 | 2813 | -53 | 
+| 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Song Ronghui | Tang Yi | Win | W+R | 7.5 | 2866 | 26 | 
+| 2021-05-19 | 第9回中国女子囲碁甲級リーグ | Tang Yi | Cai Bihan | Lose | W+R | 7.5 | 2840 | -32 | 
+| 2021-05-18 | 第9回中国女子囲碁甲級リーグ |  | Tang Yi | Lose | B+¾ | 7.5 | 2872 | -25 | 
+| 2021-05-17 | 第9回中国女子囲碁甲級リーグ | Tang Yi | Fang Ruoxi | Win | B+R | 7.5 | 2897 | 41 | 
+| 2021-05-15 | 第9回中国女子囲碁甲級リーグ | Tang Yi |  | Win | B+R | 7.5 | 2856 | -2 | 
+| 2021-05-14 | 第9回中国女子囲碁甲級リーグ | Wang Shuang | Tang Yi | Lose | B+1¾ | 7.5 | 2858 | -15 | 
+| 2021-04-03 | 第8回中国女子囲碁甲級リーグ |  | Tang Yi | Lose | B+R | 7.5 | 2873 | -30 | 
+| 2021-04-02 | 第8回中国女子囲碁甲級リーグ | Tang Yi | Yu Zhiying | Lose | W+R | 7.5 | 2903 | 3 | 
+| 2021-04-01 | 第8回中国女子囲碁甲級リーグ | Cai Bihan | Tang Yi | Win | W+R | 7.5 | 2900 | 30 | 
+| 2021-03-31 | 第8回中国女子囲碁甲級リーグ | Tang Yi |  | Lose | W+R | 7.5 | 2870 | -32 | 
+| 2021-03-29 | 第8回中国女子囲碁甲級リーグ | Tang Yi | Wang Shuang | Lose | W+R | 7.5 | 2902 | -22 | 
+| 2021-03-28 | 第8回中国女子囲碁甲級リーグ |  | Tang Yi | Win | W+1¼ | 7.5 | 2924 | 28 | 
+| 2021-03-27 | 第8回中国女子囲碁甲級リーグ | Tang Yi |  | Lose | W+R | 7.5 | 2896 | -61 | 
+| 2021-03-26 | 第8回中国女子囲碁甲級リーグ |  | Tang Yi | Win | W+R | 7.5 | 2957 | -270 | 
+| 2020-11-24 | 第8回中国女子囲碁甲級リーグ |  | Tang Yi | Win | W+R | 7.5 | 3227 | 25 | 
+| 2020-11-23 | 第8回中国女子囲碁甲級リーグ | Zhou Hongyu | Tang Yi | Lose | B+R | 7.5 | 3202 | -35 | 
+| 2020-11-21 | 第8回中国女子囲碁甲級リーグ | Wang Chenxing | Tang Yi | Win | W+R | 7.5 | 3237 | 78 | 
+| 2020-11-20 | 第8回中国女子囲碁甲級リーグ | Tang Yi | Tao Ran | Lose | W+R | 7.5 | 3159 | 47 | 
+| 2020-11-18 | 第8回中国女子囲碁甲級リーグ | Tang Yi |  | Win | B+R | 7.5 | 3112 | 33 | 
+| 2020-11-17 | 第8回中国女子囲碁甲級リーグ | Pan Yang | Tang Yi | Lose | B+R | 7.5 | 3079 | 337 | 
+| 2020-07-31 | 第8回中国女子囲碁甲級リーグ第4節 | Gao Xing | Tang Yi | Win | W+R | 7.5 | 2742 | 30 | 
+| 2020-07-30 | 第8回中国女子囲碁甲級リーグ第3節 | Lu Minquan | Tang Yi | Lose | B+R | 7.5 | 2712 | -14 | 
+| 2020-07-29 | 第8回中国女子囲碁甲級リーグ第2節 | Tang Yi |  | Win | B+1¾ | 7.5 | 2726 | -30 | 
+| 2020-07-28 | 第8回中国女子囲碁甲級リーグ第1節 | Li He | Tang Yi | Win | W+R | 7.5 | 2756 | 130 | 
+| 2019-11-27 | 第7回中国女子囲碁甲級リーグ第18節 | Wang Xiangyun | Tang Yi | Win | W+R | 7.5 | 2626 | 90 | 
+| 2019-11-26 | 第7回中国女子囲碁甲級リーグ第17節 | Lu Jia | Tang Yi | Win | W+R | 7.5 | 2536 | -17 | 
+| 2019-11-21 | 閬中古城杯第2期中国女子囲棋名人戦16強戦 | Tang Yi | Rui Naiwei | Lose | W+3¼ | 7.5 | 2553 | 0 | 
+| 2019-11-09 | 第4回全国智力運動会プロ女子個人戦第1戦 | Tang Yi | Wang Chenxing | Lose | W+R | 7.5 | 2553 | -11 | 
+| 2019-11-05 | 第7回中国女子囲碁甲級リーグ第16節 | Tang Yi |  | Win | B+R | 7.5 | 2564 | 59 | 
+| 2019-10-25 | 第7回中国女子囲碁甲級リーグ第15節 | Lu Minquan | Tang Yi | Win | W+¼ | 7.5 | 2505 | 88 | 
+| 2019-10-18 | 第7回中国女子囲碁甲級リーグ第14節 | Zhan Ying | Tang Yi | Lose | B+R | 7.5 | 2417 | -43 | 
+| 2019-10-17 | 第7回中国女子囲碁甲級リーグ第13節 | Tang Yi | Huang Ziping | Lose | W+1¼ | 7.5 | 2460 | 19 | 
+| 2019-09-08 | 第7回中国女子囲碁甲級リーグ第12節 | Tang Yi |  | Lose | W+R | 7.5 | 2441 | -156 | 
+| 2019-08-11 | 第7回中国女子囲碁甲級リーグ第11節 | Tang Yi |  | Win | B+R | 7.5 | 2597 | -40 | 
+| 2019-08-09 | 第7回中国女子囲碁甲級リーグ第10節 | Fang Ruoxi | Tang Yi | Lose | B+R | 7.5 | 2637 | -15 | 
+| 2019-07-30 | 第7回中国女子囲碁甲級リーグ第9節 | Tang Yi | Wang Chenxing | Win | B+R | 7.5 | 2652 | 26 | 
+| 2019-07-29 | 第7回中国女子囲碁甲級リーグ第8節 | Tang Yi |  | Win | B+R | 7.5 | 2626 | 12 | 
+| 2019-07-19 | 第7回中国女子囲碁甲級リーグ第7節 |  | Tang Yi | Win | W+R | 7.5 | 2614 | -5 | 
+| 2019-06-25 | 第7回中国女子囲碁甲級リーグ第6節 |  | Tang Yi | Lose | B+R | 7.5 | 2619 | -26 | 
+| 2019-06-02 | 第7回中国女子囲碁甲級リーグ第5節 | Zhan Ying | Tang Yi | Win | W+R | 7.5 | 2645 | 52 | 
+| 2019-05-31 | 第7回中国女子囲碁甲級リーグ第4節 | Tang Yi |  | Lose | W+R | 7.5 | 2593 | -11 | 
+| 2019-05-26 | 第7回中国女子囲碁甲級リーグ第3節 | Tang Yi |  | Win | B+R | 7.5 | 2604 | 65 | 
+| 2019-04-11 | 第7回中国女子囲碁甲級リーグ第2節山西-上海 |  | Tang Yi | Lose | B+R | 7.5 | 2539 | -22 | 
+| 2019-04-10 | 第7回中国女子囲碁甲級リーグ第1節上海-杭州 | Tang Yi | Fang Ruoxi | Win | B+R | 7.5 | 2561 | 67 | 
+| 2018-11-27 | 第6回中国女子囲碁甲級リーグ第18節上海-江蘇 | Wang Xiangyun | Tang Yi | Lose | B+R | 7.5 | 2494 | -32 | 
+| 2018-11-26 | 第6回中国女子囲碁甲級リーグ第17節浙江-上海 | Tang Yi | Wang Yubo | Lose | W+1¼ | 7.5 | 2526 | 23 | 
+| 2018-11-23 | 閬中古城杯第1期中国女子囲棋名人戦16強戦 | Tang Yi | Wang Shuang | Lose | W+R | 7.5 | 2503 | -5 | 
+| 2018-11-22 | 閬中古城杯第1期中国女子囲棋名人戦32強戦 | Song Ronghui | Tang Yi | Win | W+R | 7.5 | 2508 | -50 | 
+| 2018-10-19 | 第6回中国女子囲碁甲級リーグ第16節上海-廈門 | Hei Jiajia | Tang Yi | Lose | B+¾ | 7.5 | 2558 | -48 | 
+| 2018-10-11 | 第6回中国女子囲碁甲級リーグ第14節杭州-上海 | Tang Yi | Gao Xing | Lose | W+R | 7.5 | 2606 | -12 | 
+| 2018-10-09 | 第6回中国女子囲碁甲級リーグ第15節河北-上海 | Tang Yi | Cao Youyin | Lose | W+R | 7.5 | 2618 | -26 | 
+| 2018-09-28 | 第6回中国女子囲碁甲級リーグ第13節上海-広東 | Chen Yiming | Tang Yi | Lose | B+R | 7.5 | 2644 | -12 | 
+| 2018-08-30 | 第16回建橋杯女子囲碁オープン戦16強戦 | Tang Yi | Yu Zhiying | Lose | W+R | 7.5 | 2656 | -2 | 
+| 2018-08-29 | 第16回建橋杯女子囲碁オープン戦32強戦 | Tang Yi | Lu Minquan | Win | B+R | 7.5 | 2658 | 31 | 
+| 2018-08-28 | 第16回建橋杯女子囲碁オープン戦予選 | Tang Yi |  | Win | B+0.5 | 7.5 | 2627 | -10 | 
+| 2018-08-25 | 第6回中国女子囲碁甲級リーグ第12節 | Tang Yi |  | Win | B+R | 7.5 | 2637 | 19 | 
+| 2018-08-24 | 第6回中国女子囲碁甲級リーグ第11節上海-洛陽 | Li He | Tang Yi | Win | W+R | 7.5 | 2618 | 21 | 
+| 2018-08-14 | 第6回中国女子囲碁甲級リーグ第10節蕪湖-上海 | Tang Yi | Lee Sula | Lose | W+R | 7.5 | 2597 | 6 | 
+| 2018-08-12 | 第6回中国女子囲碁甲級リーグ第9節江蘇-上海 | Tang Yi | Wang Chenxing | Win | B+¾ | 7.5 | 2591 | 26 | 
+| 2018-07-13 | 第6回中国女子囲碁甲級リーグ第8節上海-浙江 | Wang Yubo | Tang Yi | Win | W+R | 7.5 | 2565 | -24 | 
+| 2018-06-02 | 第6回中国女子囲碁甲級リーグ第7節廈門-上海 | Tang Yi | Hei Jiajia | Lose | W+R | 7.5 | 2589 | -21 | 
+| 2018-05-31 | 第6回中国女子囲碁甲級リーグ第6節上海-河北 | Wang Shuang | Tang Yi | Win | W+1¼ | 7.5 | 2610 | -19 | 
+| 2018-05-24 | 第6回中国女子囲碁甲級リーグ第5節上海-杭州 | Gao Xing | Tang Yi | Lose | B+R | 7.5 | 2629 | -8 | 
+| 2018-05-06 | 第6回中国女子囲碁甲級リーグ第4節広東-上海 | Tang Yi | Cai Bihan | Lose | W+R | 7.5 | 2637 | 31 | 
+| 2018-04-25 | 第6回中国女子囲碁甲級リーグ第3節上海-武漢 |  | Tang Yi | Lose | B+R | 7.5 | 2606 | -82 | 
+| 2018-03-24 | 第6回中国女子囲碁甲級リーグ第2節 | Tang Yi | Tao Ran | Win | B+R | 7.5 | 2688 | 22 | 
+| 2018-03-22 | 第6回中国女子囲碁甲級リーグ第1節 | Yuan Tingyu | Tang Yi | Win | W+R | 7.5 | 2666 | 8 | 
+| 2017-12-18 | 第5回中国女子囲碁甲級リーグ戦18回戦 | Tang Yi | Lu Jia | Lose | W+R | 7.5 | 2658 | -17 | 
+| 2017-12-17 | 第5回中国女子囲碁甲級リーグ戦17回戦 | Pan Yang | Tang Yi | Lose | B+R | 7.5 | 2675 | 8 | 
+| 2017-11-18 | 第5回中国女子囲碁甲級リーグ戦16回戦 | Tang Yi |  | Win | B+R | 7.5 | 2667 | 30 | 
+| 2017-11-14 | 第5回中国女子囲碁甲級リーグ戦15回戦 | Tao Ran | Tang Yi | Win | W+R | 7.5 | 2637 | 4 | 
+| 2017-11-12 | 第5回中国女子囲碁甲級リーグ戦14回戦 | Tang Yi | Cai Bihan | Lose | W+R | 7.5 | 2633 | -8 | 
+| 2017-11-04 | 第5回中国女子囲碁甲級リーグ戦13回戦 | Zhou Hongyu | Tang Yi | Lose | B+R | 7.5 | 2641 | -41 | 
+| 2017-10-29 | 第5回中国女子囲碁甲級リーグ第12節 |  | Tang Yi | Win | W+R | 7.5 | 2682 | 15 | 
+| 2017-10-27 | 第5回中国女子囲碁甲級リーグ第11節 | Tang Yi | Yin Qu | Lose | W+R | 7.5 | 2667 | 7 | 
+| 2017-10-25 | 第5回中国女子囲碁甲級リーグ第10節 |  | Tang Yi | Win | W+R | 7.5 | 2660 | 197 | 
+| 2017-09-13 | 第5回中国女子囲碁甲級リーグ第9節 | Lu Jia | Tang Yi | Lose | B+R | 7.5 | 2463 | -41 | 
+| 2017-09-12 | 第5回中国女子囲碁甲級リーグ第8節 | Tang Yi | Pan Yang | Lose | W+4.5 | 7.5 | 2504 | 62 | 
+| 2017-08-11 | 第5回中国女子囲碁甲級リーグ第7節 |  | Tang Yi | Win | W+R | 7.5 | 2442 | 37 | 
+| 2017-08-09 | 第5回中国女子囲碁甲級リーグ第6節 | Tang Yi | Tao Ran | Lose | W+R | 7.5 | 2405 | 3 | 
+| 2017-07-16 | 第5回中国女子囲碁甲級リーグ第5節 | Cai Bihan | Tang Yi | Lose | B+R | 7.5 | 2402 | -4 | 
+| 2017-07-14 | 第5回中国女子囲碁甲級リーグ第4節 | Tang Yi | Zhou Hongyu | Win | B+R | 7.5 | 2406 | -66 | 
+| 2017-06-24 | 第5回中国女子囲碁甲級リーグ第3節 | Tang Yi |  | Lose | W+R | 7.5 | 2472 | -30 | 
+| 2017-05-07 | 第5回中国女子囲碁甲級リーグ第2節 | Yin Qu | Tang Yi | Lose | B+R | 7.5 | 2502 | -1 | 
+| 2017-05-06 | 第5回中国女子囲碁甲級リーグ第1節 | Tang Yi | Gao Xing | Lose | W+R | 7.5 | 2503 | -59 | 
+| 2017-04-17 | 第19期中国阿含桐山杯本選1回戦 | Tong Mengcheng | Tang Yi | Lose | B+R | 7.5 | 2562 | 83 | 
+| 2016-12-06 | 第4回中国女子囲碁甲級リーグ第18節 | Wang Chenxing | Tang Yi | Lose | B+R | 7.5 | 2479 | -29 | 
+| 2016-12-05 | 第4回中国女子囲碁甲級リーグ第17節 | Tang Yi | Wang Yubo | Win | B+1.5 | 7.5 | 2508 | -88 | 
+| 2016-11-02 | 第4回中国女子囲碁甲級リーグ第16節 | Zhou Hongyu | Tang Yi | Lose | B+R | 7.5 | 2596 | -32 | 
+| 2016-10-29 | 第4回中国女子囲碁甲級リーグ第15節 | Tang Yi | Ye Gui | Win | B+3.5 | 7.5 | 2628 | 2 | 
+| 2016-10-13 | 第4回中国女子囲碁甲級リーグ第13節 | Gao Xing | Tang Yi | Lose | B+5.5 | 7.5 | 2626 | -179 | 
+| 2016-08-29 | 第14回建橋杯女子囲碁オープン戦予選 |  | Tang Yi | Lose | B+3.5 | 7.5 | 2805 | -8 | 
+| 2016-08-28 | 第14回建橋杯女子囲碁オープン戦予選 | Tang Yi |  | Win | B+R | 7.5 | 2813 | 48 | 
+| 2016-08-14 | 第4回中国女子囲碁甲級リーグ第9節 | Yu Zhiying | Tang Yi | Lose | B+R | 7.5 | 2765 | -54 | 
+| 2016-07-12 | 第4回中国女子囲碁甲級リーグ第8節 |  | Tang Yi | Win | W+R | 7.5 | 2819 | 71 | 
+| 2016-07-05 | 第4回中国女子囲碁甲級リーグ第7節 | Tang Yi | Li He | Lose | W+2.5 | 7.5 | 2748 | -29 | 
+| 2016-07-04 | 第4回中国女子囲碁甲級リーグ第6節 | Li Chunhua | Tang Yi | Win | W+R | 7.5 | 2777 | -37 | 
+| 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Tang Yi | Min Sangyoun | Lose | W+R | 7.5 | 2814 | -16 | 
+| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Tang Yi | Ahn Kukhyun | Win | B+R | 7.5 | 2830 | 34 | 
+| 2016-06-22 | 第4回中国女子囲碁甲級リーグ第5節 | Zheng Yan | Tang Yi | Lose | B+R | 7.5 | 2796 | 47 | 
+| 2016-05-22 | 第4回中国女子囲碁甲級リーグ第4節 | Tang Yi |  | Win | B+R | 7.5 | 2749 | 7 | 
+| 2016-05-11 | 第4回中国女子囲碁甲級リーグ第3節 | Wang Shuang | Tang Yi | Win | W+R | 7.5 | 2742 | 11 | 
+| 2016-05-07 | 第18期阿含・桐山杯中国早碁オープン戦予選 | Tang Yi |  | Lose | W+R | 7.5 | 2731 | -18 | 
+| 2016-05-06 | 第18期阿含・桐山杯中国早碁オープン戦予選 | Chang Hao | Tang Yi | Win | W+R | 7.5 | 2749 | 69 | 
+| 2016-04-23 | 第4回中国女子囲碁甲級リーグ第2節 | Tang Yi | Pan Yang | Lose | W+0.5 | 6.5 | 2680 | -31 | 
+| 2016-04-22 | 第4回中国女子囲碁甲級リーグ第1節 |  | Tang Yi | Lose | B+R | 7.5 | 2711 | -118 | 
+| 2015-12-03 | 第3回中国女子囲碁甲級リーグ第18節 | Tang Yi | Chen Yiming | Lose | W+0.5 | 7.5 | 2829 | -25 | 
+| 2015-12-02 | 第3回中国女子囲碁甲級リーグ第17節 | Tang Yi | Li He | Lose | W+R | 7.5 | 2854 | 48 | 
+| 2015-11-26 | 第3回中国女子囲碁甲級リーグ第16節 | Tang Yi | Lu Jia | Win | B+3.5 | 7.5 | 2806 | 41 | 
+| 2015-11-19 | 第3回中国女子囲碁甲級リーグ第15節 | Tang Yi |  | Win | B+R | 7.5 | 2765 | 4 | 
+| 2015-11-12 | 第3回中国女子囲碁甲級リーグ第14節 | Wang Shuang | Tang Yi | Win | W+R | 7.5 | 2761 | 18 | 
+| 2015-11-05 | 第3回中国女子囲碁甲級リーグ第13節 | Tang Yi | Gao Xing | Win | B+R | 7.5 | 2743 | -2 | 
+| 2015-10-29 | 第3回中国女子囲碁甲級リーグ第12節 | Tang Yi | Fan Weijing | Win | B+R | 7.5 | 2745 | -13 | 
+| 2015-10-28 | 第3回中国女子囲碁甲級リーグ第11節 | Tang Yi | Yu Zhiying | Win | B+R | 7.5 | 2758 | 89 | 
+| 2015-10-23 | 第13回建橋杯女子囲碁オープン戦予選 | Tang Yi | Song Ronghui | Lose | W+R | 7.5 | 2669 | -28 | 
+| 2015-10-15 | 第3回中国女子囲碁甲級リーグ第10節 | Tang Yi |  | Win | B+R | 7.5 | 2697 | 47 | 
+| 2015-09-24 | 第3回中国女子囲碁甲級リーグ第9節 | Tang Yi | Chen Yiming | Lose | W+R | 7.5 | 2650 | -39 | 
+| 2015-09-23 | 第3回中国女子囲碁甲級リーグ第8節 | Wang Yubo | Tang Yi | Win | W+0.5 | 7.5 | 2689 | 11 | 
+| 2015-09-03 | 第3回中国女子囲碁甲級リーグ第7節 | Tang Yi |  | Lose | W+6.5 | 7.5 | 2678 | 65 | 
+| 2015-07-04 | 第3回中国女子囲碁甲級リーグ第6節 | Yuan Tingyu | Tang Yi | Win | W+R | 7.5 | 2613 | -10 | 
+| 2015-07-03 | 第3回中国女子囲碁甲級リーグ第5節 | Tang Yi | Wang Shuang | Win | B+R | 7.5 | 2623 | 36 | 
+| 2015-06-25 | 第3回中国女子囲碁甲級リーグ第4節 | Gao Xing | Tang Yi | Lose | B+R | 7.5 | 2587 | -140 | 
+| 2015-06-04 | 第3回中国女子囲碁甲級リーグ第3節 | Lu Minquan | Tang Yi | Win | W+R | 7.5 | 2727 | -69 | 
+| 2015-05-02 | 第3回中国女子囲碁甲級リーグ第2節 | Tang Yi | Wang Chenxing | Win | B+R | 7.5 | 2796 | 57 | 
+| 2015-05-01 | 第3回中国女子囲碁甲級リーグ第1節 |  | Tang Yi | Win | W+R | 7.5 | 2739 | 7 | 
+| 2015-03-19 | 第12期倡棋杯中国プロ囲碁選手権戦予選 | Zhang Qiang | Tang Yi | Lose | B+R | 7.5 | 2732 | 1 | 
+| 2015-03-18 | 第12期倡棋杯中国プロ囲碁選手権戦予選 |  | Tang Yi | Win | W+R | 7.5 | 2731 | -8 | 
+| 2014-11-29 | 第2回中国女子囲碁甲級リーグ第14節 |  | Tang Yi | Lose | B+1.5 | 7.5 | 2739 | 8 | 
+| 2014-11-28 | 第2回中国女子囲碁甲級リーグ第13節 | Tang Yi |  | Lose | W+R | 7.5 | 2731 | 20 | 
+| 2014-10-29 | 第2回中国女子囲碁甲級リーグ第12節 | Song Ronghui | Tang Yi | Win | W+R | 7.5 | 2711 | 39 | 
+| 2014-10-11 | 第10期威孚房開杯棋王戦1回戦 | Tang Yi | Gu Li | Lose | W+R | 7.5 | 2672 | -56 | 
+| 2014-09-12 | 第2回中国女子囲碁甲級リーグ第11節 | Tang Yi |  | Lose | W+R | 7.5 | 2728 | -107 | 
+| 2014-08-20 | 第2回中国女子囲碁甲級リーグ第10節 | Yu Zhiying | Tang Yi | Lose | B+R | 7.5 | 2835 | -10 | 
+| 2014-08-11 | 第2回中国女子囲碁甲級リーグ第9節 | Tang Yi | Wang Shuang | Lose | W+4.5 | 7.5 | 2845 | -26 | 
+| 2014-08-10 | 第2回中国女子囲碁甲級リーグ第8節 | Zheng Yan | Tang Yi | Win | W+R | 7.5 | 2871 | -1 | 
+| 2014-08-09 | 第2回中国女子囲碁甲級リーグ第7節 | Tang Yi |  | Lose | W+4.5 | 7.5 | 2872 | -10 | 
+| 2014-08-06 | 第19回三星火災杯統合予選女子枠決勝 | Tang Yi | Kim Yoonyoung | Lose | W+1.5 | 6.5 | 2882 | -91 | 
+| 2014-07-13 | 第2回中国女子囲碁甲級リーグ第6節 |  | Tang Yi | Win | W+R | 7.5 | 2973 | 97 | 
+| 2014-06-18 | 第2回中国女子囲碁甲級リーグ第5節 | Song Ronghui | Tang Yi | Win | W+R | 7.5 | 2876 | 21 | 
+| 2014-06-17 | 第2回中国女子囲碁甲級リーグ第4節 |  | Tang Yi | Win | W+R | 7.5 | 2855 | 35 | 
+| 2014-06-16 | 第2回中国女子囲碁甲級リーグ第3節 | Tang Yi | Yu Zhiying | Lose | W+R | 7.5 | 2820 | 4 | 
+| 2014-05-12 | 第2回中国女子囲碁甲級リーグ第2節 | Wang Shuang | Tang Yi | Lose | B+1.5 | 7.5 | 2816 | -10 | 
+| 2014-05-11 | 第2回中国女子囲碁甲級リーグ第1節 | Tang Yi | Chen Yiming | Win | B+R | 7.5 | 2826 | -66 | 
+| 2013-12-29 | 第14期リコー杯囲碁戦1回戦 | Tang Yi | Fan Yin | Lose | W+R | 7.5 | 2892 | 73 | 
+| 2013-12-07 | 第1回中国女子囲碁甲級リーグ第14節 | Tang Yi |  | Lose | W+R | 7.5 | 2819 | -12 | 
+| 2013-12-06 | 第1回中国女子囲碁甲級リーグ第13節 | Wang Xiangyun | Tang Yi | Lose | B+9.5 | 7.5 | 2831 | -26 | 
+| 2013-12-05 | 第1回中国女子囲碁甲級リーグ第12節 | Yu Zhiying | Tang Yi | Lose | B+R | 7.5 | 2857 | 77 | 
+| 2013-11-13 | 第1回中国女子囲碁甲級リーグ第11節 | Tang Yi |  | Win | B+R | 7.5 | 2780 | 12 | 
+| 2013-11-12 | 第1回中国女子囲碁甲級リーグ第10節 | Zhan Ying | Tang Yi | Win | W+R | 7.5 | 2768 | 15 | 
+| 2013-11-10 | 第1回中国女子囲碁甲級リーグ第9節 | Tang Yi | Chen Yiming | Lose | W+R | 7.5 | 2753 | -3 | 
+| 2013-11-09 | 第1回中国女子囲碁甲級リーグ第8節 | Tang Yi | Lu Jia | Win | B+R | 7.5 | 2756 | -27 | 
+| 2013-10-11 | 第11回建橋杯女子囲碁オープン戦1回戦 | Rui Naiwei | Tang Yi | Lose | B+R | 7.5 | 2783 | -15 | 
+| 2013-10-10 | 第11回建橋杯女子囲碁オープン戦予選 | Tang Yi |  | Win | B+R | 7.5 | 2798 | -150 | 
+| 2013-09-10 | 第4回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Tang Yi | Yu Zhiying | Lose | W+R | 7.5 | 2948 | 15 | 
+| 2013-09-09 | 第5期中国竜星戦予選 | Chen Yiming | Tang Yi | Lose | B+R | 7.5 | 2933 | 0 | 
+| 2013-09-09 | 第4回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Choi Jeong | Tang Yi | Win | W+12.5 | 7.5 | 2933 | 1 | 
+| 2013-09-08 | 第4回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Tang Yi | Oh Jeonga | Win | B+R | 7.5 | 2932 | 10 | 
+| 2013-09-01 | 第1回中国女子囲碁甲級リーグ第7節 |  | Tang Yi | Win | W+0.5 | 7.5 | 2922 | 1 | 
+| 2013-08-31 | 第1回中国女子囲碁甲級リーグ第6節 | Tang Yi | Wang Xiangyun | Win | B+R | 7.5 | 2921 | 18 | 
+| 2013-08-30 | 第1回中国女子囲碁甲級リーグ第5節 | Tang Yi | Yu Zhiying | Lose | W+R | 7.5 | 2903 | -30 | 
+| 2013-08-29 | 第1回中国女子囲碁甲級リーグ第4節 |  | Tang Yi | Win | W+R | 7.5 | 2933 | 56 | 
+| 2013-06-26 | 第1回中国女子囲碁甲級リーグ第3節 | Tang Yi | Li Yirong | Lose | W+R | 7.5 | 2877 | -12 | 
+| 2013-06-25 | 第1回中国女子囲碁甲級リーグ第2節 | Chen Yiming | Tang Yi | Lose | B+R | 7.5 | 2889 | -4 | 
+| 2013-06-24 | 第1回中国女子囲碁甲級リーグ第1節 | Tang Yi | Lu Jia | Lose | W+R | 7.5 | 2893 | -29 | 
+| 2013-06-06 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Tang Yi |  | Lose | W+2.5 | 7.5 | 2922 | -21 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Tang Yi |  | Win | B+R | 7.5 | 2943 | 115 | 
+| 2013-05-16 | 第2期全国女子囲碁国手戦三位決定戦 | Wang Chenxing | Tang Yi | Win | W+R | 7.5 | 2828 | 25 | 
+| 2013-05-14 | 第2期全国女子囲碁国手戦準決勝 | Tang Yi | Fan Weijing | Lose | W+R | 7.5 | 2803 | 82 | 
+| 2013-05-13 | 第2期全国女子囲碁国手戦2回戦 | Yu Zhiying | Tang Yi | Win | W+R | 7.5 | 2721 | 0 | 
+| 2013-05-13 | 第2期全国女子囲碁国手戦1回戦 | Tang Yi | Wang Xiangyun | Win | B+R | 7.5 | 2721 | 60 | 
+| 2013-04-28 | 第2回華頂茶業杯世界女子団体選手権第3戦 | Tang Yi | Okuda Aya | Win | B+R | 7.5 | 2661 | 6 | 
+| 2013-04-27 | 第2回華頂茶業杯世界女子団体選手権第2戦 | Su Shengfang | Tang Yi | Win | W+R | 7.5 | 2655 | -11 | 
+| 2013-04-26 | 第2回華頂茶業杯世界女子団体選手権第1戦 | Tang Yi | Kim Miri | Lose | W+R | 7.5 | 2666 | -59 | 
+| 2013-04-10 | 第26期中国囲碁名人戦予選 | Tang Yi | Qiu Jun | Lose | W+R | 7.5 | 2725 | -91 | 
+| 2012-11-01 | 第3回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Tang Yi | Rui Naiwei | Lose | W+4.5 | 7.5 | 2816 | -42 | 
+| 2012-10-31 | 第3回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Song Ronghui | Tang Yi | Win | W+R | 7.5 | 2858 | 103 | 
+| 2012-10-30 | 第3回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Tang Yi | Kim Hyeoimin | Win | B+R | 7.5 | 2755 | -178 | 
+| 2012-09-10 | 第10回建橋杯女子囲碁オープン戦2回戦 | Chen Yiming | Tang Yi | Lose | B+1.5 | 7.5 | 2933 | -123 | 
+| 2012-02-05 | 第26期中国囲碁天元戦予選 |  | Tang Yi | Win | W+4.5 | 7.5 | 3056 | 357 | 
+| 2011-11-22 | 2011年国際新鋭囲碁対抗戦第1戦 | Xie Yimin | Tang Yi | Lose | B+5.5 | 6.5 | 2699 | -35 | 
+| 2011-10-13 | 第2回穹窿山兵聖杯世界女子囲碁選手権決勝 | Park Shiun | Tang Yi | Lose | B+R | 7.5 | 2734 | -49 | 
+| 2011-10-11 | 第2回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Park Jiyeon | Tang Yi | Win | W+R | 7.5 | 2783 | 57 | 
+| 2011-10-10 | 第2回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Tang Yi | Xie Yimin | Win | B+R | 7.5 | 2726 | 48 | 
+| 2011-10-09 | 第2回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Tang Yi | Natalya Kovaleva | Win | B+R | 7.5 | 2678 | -47 | 
+| 2011-09-09 | 第9回建橋杯女子囲碁オープン戦1回戦 | Wang Chenxing | Tang Yi | Lose | B+1.5 | 7.5 | 2725 | -91 | 
+| 2011-08-19 | 第7回百霊杯元老女子勝抜戦第10戦 | Tang Yi | Liu Xiaoguang | Lose | W+R | 7.5 | 2816 | -195 | 
+| 2011-04-09 | 第1回黄竜士佳源杯世界女子囲碁団体選手権第3戦 | Tang Yi | Cho Hyeyeon | Win | B+R | 7.5 | 3011 | -4 | 
+| 2011-04-08 | 第1回黄竜士佳源杯世界女子囲碁団体選手権第2戦 | Su Shengfang | Tang Yi | Win | W+R | 7.5 | 3015 | 29 | 
+| 2011-04-07 | 第1回黄竜士佳源杯世界女子囲碁団体選手権第1戦 | Mukai Chiaki | Tang Yi | Win | W+R | 7.5 | 2986 | 38 | 
+| 2011-03-23 | 第9回正官庄杯世界女子囲碁最強戦第9戦 | Yoshida Mika | Tang Yi | Lose | B+1.5 | 6.5 | 2948 | -106 | 
+| 2011-03-22 | 第9回正官庄杯世界女子囲碁最強戦第8戦 | Tang Yi | Moon Dowon | Win | B+R | 6.5 | 3054 | -10 | 
+| 2011-03-14 | 2011CCTV杯中国囲棋電視快棋戦1回戦 | Tang Yi | Ke Jie | Lose | W+R | 7.5 | 3064 | 106 | 
+| 2010-12-21 | 第6回百霊杯元老女子対抗戦第8戦 | Chen Zude | Tang Yi | Lose | B+R | 7.5 | 2958 | -2 | 
+| 2010-12-20 | 第6回百霊杯元老女子対抗戦第7戦 | Ma Xiaochun | Tang Yi | Win | W+R | 7.5 | 2960 | 72 | 
+| 2010-12-07 | 第11期リコー杯囲碁戦1回戦 | Yang Dingxin | Tang Yi | Lose | B+R | 7.5 | 2888 | -37 | 
+| 2010-11-26 | 2010年アジア競技大会囲碁女子団体戦 | Tang Yi | Cho Hyeyeon | Win | B+R | 7.5 | 2925 | -53 | 
+| 2010-11-24 | 2010年アジア競技大会囲碁女子団体戦 | Tang Yi | Mukai Chiaki | Win | B+R | 7.5 | 2978 | 73 | 
+| 2010-11-02 | 第8回建橋杯女子囲碁オープン戦決勝三番勝負第3局 | Tang Yi | Wang Xiangyun | Lose | W+R | 7.5 | 2905 | -17 | 
+| 2010-11-01 | 第8回建橋杯女子囲碁オープン戦決勝三番勝負第2局 | Tang Yi | Wang Xiangyun | Win | B+R | 7.5 | 2922 | 37 | 
+| 2010-10-30 | 第8回建橋杯女子囲碁オープン戦決勝三番勝負第1局 | Wang Xiangyun | Tang Yi | Lose | B+R | 7.5 | 2885 | 121 | 
+| 2010-09-13 | 第1回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Park Shiun | Tang Yi | Lose | B+R | 7.5 | 2764 | -226 | 
+| 2010-09-12 | 第1回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Tang Yi | Xie Yimin | Win | B+3.5 | 7.5 | 2990 | -283 | 
+| 2010-09-11 | 第1回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Tang Yi | Rui Naiwei | Win | B+5.5 | 7.5 | 3273 | 510 | 
+| 2010-09-06 | 第8回建橋杯女子囲碁オープン戦準決勝 | Song Ronghui | Tang Yi | Win | W+R | 7.5 | 2763 | 2763 | 
+| 2010-06-22 | 第7期倡棋杯中国プロ囲碁選手権戦1回戦 | Li Zhe | Tang Yi | Lose | B+R | 7.5 | missing | -2890 | 
+| 2010-01-26 | 第24期中国囲碁天元戦予選 | Tang Yi | Wang Zheming | Lose | W+6.5 | 7.5 | 2890 | 287 | 
+| 2009-05-02 | 第3期建橋杯女子新人王戦決勝三番勝負第2局 | Tang Yi | Song Ronghui | Win | B+R | 7.5 | 2603 | 61 | 
+| 2009-05-01 | 第3期建橋杯女子新人王戦決勝三番勝負第1局 | Song Ronghui | Tang Yi | Win | W+R | 7.5 | 2542 | 89 | 
+| 2009-03-07 | 第3期建橋杯女子新人王戦準決勝 | Wang Chenxing | Tang Yi | Win | W+0.5 | 7.5 | 2453 | -6 | 
+| 2009-03-05 | 第3期建橋杯女子新人王戦2回戦 | Lu Jia | Tang Yi | Win | W+R | 7.5 | 2459 | 20 | 
+| 2009-03-04 | 第3期建橋杯女子新人王戦1回戦 | Tang Yi |  | Win | B+R | 7.5 | 2439 | 0 | 
+| 2009-03-04 | 第22期中国囲碁名人戦予選 | Tang Yi | Guo Yuzheng | Lose | W+R | 7.5 | 2439 | 14 | 
+| 2009-03-03 | 第22期中国囲碁名人戦予選 | Tang Yi | Lu Jia | Win | B+R | 7.5 | 2425 | 158 | 
+| 2008-11-29 | 第4回全国女子囲碁精英戦第1戦 | Zheng Yan | Tang Yi | Lose | B+R | 7.5 | 2267 | -633 | 
+| 2008-10-15 | 第1回ワールドマインドスポーツゲームズ囲碁女子団体戦決勝 | Tang Yi | Park Jiyeon | Win | B+5.5 | 6.5 | 2900 | 0 | 
+| 2008-10-15 | 第1回ワールドマインドスポーツゲームズ囲碁女子団体戦 | Tang Yi | Suzuki Ayumi | Lose | W+7.5 | 6.5 | 2900 | 321 | 
+| 2008-07-25 | 2008年中国段位戦 | Tang Yi | Zheng Yan | Win | B+R | 7.5 | 2579 | 0 | 
+| 2008-07-13 | 2008年中国段位戦 | Tang Yi | Tang Jialong | Win | B+R | 7.5 | 2579 | 8 | 
+| 2008-06-21 | 第6回建橋杯女子囲碁オープン戦2回戦 | Tang Yi | Lu Jia | Lose | W+2.5 | 7.5 | 2571 | 2571 | 
+| 2008-06-20 | 第6回建橋杯女子囲碁オープン戦1回戦 | Tang Yi |  | Win | B+R | 7.5 | missing | -2629 | 
+| 2008-06-14 | 第4回百霊杯戦特別対局 | Rui Naiwei | Tang Yi | Lose | B+R | 7.5 | 2629 | -4 | 
+| 2008-05-22 | 第5期倡棋杯中国プロ囲碁選手権戦1回戦 | Chen Yaoye | Tang Yi | Lose | B+9 | 7.5 | 2633 | 246 | 
+| 2008-04-01 | 第6回正官庄杯世界女子囲碁最強戦第11戦 | Tang Yi | Lee Minjin | Lose | W+R | 6.5 | 2387 | 59 | 
+| 2008-03-07 | 第6回正官庄杯世界女子囲碁最強戦第10戦 | Tang Yi | Yashiro Kumiko | Win | B+R | 6.5 | 2328 | 10 | 
+| 2008-03-06 | 第6回正官庄杯世界女子囲碁最強戦第9戦 | Lee Hajin | Tang Yi | Win | W+7.5 | 6.5 | 2318 | 40 | 
+| 2008-02-27 | 第14期NEC杯囲碁戦予選 | Tang Yi |  | Win | B+R | 7.5 | 2278 | 0 | 
+| 2008-02-27 | 第14期NEC杯囲碁戦予選 | Tang Yi | Zhou Ruiyang | Lose | W+R | 7.5 | 2278 | 71 | 
+| 2008-02-25 | 第21期中国囲碁名人戦予選 |  | Tang Yi | Lose | B+R | 7.5 | 2207 | -53 | 
+| 2008-01-28 | 第22期中国囲碁天元戦予選 | Tang Yi | Li Jie | Lose | W+R | 7.5 | 2260 | 31 | 
+| 2008-01-07 | 第8期リコー杯囲碁戦2回戦 | Wang Xi | Tang Yi | Lose | B+R | 7.5 | 2229 | -12 | 
+| 2008-01-06 | 第8期リコー杯囲碁戦1回戦 | Tang Yi | Gui Wenbo | Win | B+1.5 | 7.5 | 2241 | 116 | 
+| 2007-12-24 | 2008CCTV杯中国囲棋電視快棋戦2回戦 | Wang Lei (b) | Tang Yi | Lose | B+R | 7.5 | 2125 | -111 | 
+| 2007-10-30 | 第1回遠洋地産杯世界女子プロオープン戦2回戦 | Xie Yimin | Tang Yi | Lose | B+3.5 | 7.5 | 2236 | -46 | 
+| 2007-10-25 | 第5回建橋杯女子囲碁オープン戦2回戦 | Cao Youyin | Tang Yi | Lose | B+R | 7.5 | 2282 | -23 | 
+| 2007-09-25 | 2007年全国囲棋個人戦女子組第9戦 |  | Tang Yi | Win | W+R | 7.5 | 2305 | 3 | 
+| 2007-09-22 | 2007年全国囲棋個人戦女子組第7戦 | Yin Mingming | Tang Yi | Win | W+R | 7.5 | 2302 | -1312 | 
+| 2007-09-19 | 2007年全国囲棋個人戦女子組第5戦 | Tang Yi | Wang Pan | Win | B+R | 7.5 | 3614 | -7 | 
+| 2007-09-18 | 2007年全国囲棋個人戦女子組第4戦 | Wang Xiangyun | Tang Yi | Win | W+R | 7.5 | 3621 | -4 | 
+| 2007-09-14 | 2007年全国囲棋個人戦女子組第1戦 | Tang Yi | Zheng Yan | Win | B+R | 7.5 | 3625 | 1309 | 
+| 2007-08-15 | 第5回建橋杯女子囲碁オープン戦1回戦 | Tang Yi | Hua Xueming | Win | B+R | 7.5 | 2316 | 22 | 
+| 2007-08-14 | 第5回建橋杯女子囲碁オープン戦予選 | Tang Yi | Mao Yuheng | Win | B+R | 7.5 | 2294 | -251 | 
+| 2007-08-13 | 第5回建橋杯女子囲碁オープン戦予選 | Tang Ying | Tang Yi | Win | W+0.5 | 7.5 | 2545 | -47 | 
+| 2007-07-24 | 2007年中国段位戦 | Tang Yi | Zheng Yan | Win | B+R | 7.5 | 2592 | 39 | 
+| 2007-07-23 | 2007年中国段位戦 | Hu Lei | Tang Yi | Win | W+R | 7.5 | 2553 | 62 | 
+| 2007-07-20 | 2007年中国段位戦 | Bai Guangyuan | Tang Yi | Lose | B+1.5 | 7.5 | 2491 | 15 | 
+| 2007-07-13 | 2007年中国段位戦 |  | Tang Yi | Lose | B+R | 7.5 | 2476 | -48 | 
+| 2007-07-12 | 2007年中国段位戦 | Tang Yi |  | Lose | W+R | 7.5 | 2524 | -44 | 
+| 2007-07-11 | 2007年中国段位戦 | Wu Jun | Tang Yi | Win | W+R | 7.5 | 2568 | -134 | 
+| 2007-05-21 | 第3回全国女子囲碁精英戦決勝三番勝負第3局 | Ye Gui | Tang Yi | Win | W+R | 7.5 | 2702 | 37 | 
+| 2007-05-20 | 第3回全国女子囲碁精英戦決勝三番勝負第2局 | Tang Yi | Ye Gui | Win | B+5.5 | 7.5 | 2665 | 71 | 
+| 2007-05-18 | 第3回全国女子囲碁精英戦決勝三番勝負第1局 | Ye Gui | Tang Yi | Lose | B+5.5 | 7.5 | 2594 | -43 | 
+| 2007-05-17 | 第3回全国女子囲碁精英戦準決勝 | Tang Yi |  | Win | B+R | 7.5 | 2637 | 77 | 
+| 2007-05-15 | 第3回全国女子囲碁精英戦2回戦 | Tang Yi | Cai Bihan | Win | B+3.5 | 7.5 | 2560 | -44 | 
+| 2007-05-14 | 第3回全国女子囲碁精英戦1回戦 | Tang Yi | Meng Zhaoyu | Win | B+7.5 | 7.5 | 2604 | 11 | 
+| 2007-04-28 | 第3回全国女子囲碁精英戦予選 | Tang Yi | Wang Rui | Win | B+R | 7.5 | 2593 | -4 | 
+| 2007-04-27 | 第3回全国女子囲碁精英戦予選 | Tang Yi | Wang Pan | Win | B+5.5 | 7.5 | 2597 | 349 | 
+| 2007-03-09 | 第1期建橋杯女子新人王戦決勝三番勝負第3局 | Tang Yi | Cao Youyin | Lose | W+6.5 | 7.5 | 2248 | -84 | 
+| 2007-03-08 | 第1期建橋杯女子新人王戦決勝三番勝負第2局 | Cao Youyin | Tang Yi | Win | W+R | 7.5 | 2332 | 35 | 
+| 2007-03-06 | 第1期建橋杯女子新人王戦決勝三番勝負第1局 | Tang Yi | Cao Youyin | Lose | W+R | 7.5 | 2297 | -64 | 
+| 2007-02-08 | 第1期建橋杯女子新人王戦勝者組決勝 | Cao Youyin | Tang Yi | Win | W+R | 7.5 | 2361 | 118 | 
+| 2007-02-07 | 第1期建橋杯女子新人王戦2回戦 | Tang Yi |  | Win | B+R | 7.5 | 2243 | 0 | 
+| 2007-02-07 | 第1期建橋杯女子新人王戦1回戦 | Tang Yi |  | Win | B+R | 7.5 | 2243 | 226 | 
+| 2007-01-13 | 第3回富士通杯U15少年囲碁戦第8戦 | Tang Yi | Tong Yulin | Lose | W+R | 7.5 | 2017 | 32 | 
+| 2007-01-11 | 第3回富士通杯U15少年囲碁戦第5戦 |  | Tang Yi | Win | W+0.5 | 7.5 | 1985 | 1985 | 
+| 2006-10-10 | 第2回百霊杯中国女子囲碁オープン戦予選 | Tang Yi | Song Ronghui | Win | B+R | 7.5 | missing | 0 | 
+| 2006-08-31 | 第5回正官庄杯世界女子囲碁最強戦中国予選 | Tang Yi | Xu Ying | Lose | W+R | 6.5 | missing | 0 | 
+| 2006-07-31 | 第4回建橋杯女子囲碁オープン戦1回戦 | Zheng Yan | Tang Yi | Lose | B+3.5 | 7.5 | missing | 0 | 
+| 2006-07-29 | 第4回建橋杯女子囲碁オープン戦予選 | Tang Yi | Cao Youyin | Win | B+3.5 | 7.5 | missing | 0 | 
+| 2006-07-28 | 第4回建橋杯女子囲碁オープン戦予選 | Yu Meiling | Tang Yi | Win | W+R | 7.5 | missing | 0 | 
+| 2005-07-23 | 2005年中国段位戦 | Gui Wenbo | Tang Yi | Lose | B+R | 7.5 | missing | 0 | 
+| 2005-07-12 | 2005年中国段位戦 |  | Tang Yi | Lose | B+R | 7.5 | missing | 0 | 
+| 2005-06-28 | 第3期女子名人戦準決勝 | Li Chunhua | Tang Yi | Lose | B+R | 7.5 | missing | 0 | 
+| 2005-01-15 | 第1回富士通杯U15少年囲碁戦 | Fan Weijing | Tang Yi | Lose | B+R | 7.5 | missing | 0 | 
+| 2004-10-28 | 第2回建橋杯女子囲碁オープン戦2回戦 | Zhang Xuan | Tang Yi | Lose | B+R | 7.5 | missing | 0 | 
+| 2004-10-27 | 第2回建橋杯女子囲碁オープン戦1回戦 | Tang Yi |  | Win | B+R | 7.5 | missing | missing |
 
 
 

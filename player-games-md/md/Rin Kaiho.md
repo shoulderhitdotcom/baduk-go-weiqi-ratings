@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-27 | 第61期十段戦予選 | Rin Kaiho | Mannami Kana | Lose | W+R | 6.5 | missing | 0 | 
 | 2021-07-22 | 第48期天元戦予選 | Matsumoto Takehisa | Rin Kaiho | Lose | B+R | 6.5 | missing | -2352 | 
 | 2021-05-06 | 第70期王座戦予選 | Rin Kaiho | Kamimura Haruo | Lose | W+R | 6.5 | 2352 | 39 | 
 | 2021-04-15 | 第47期名人戦予選 | Rin Kaiho | Nishimura Keiji | Lose | W+2.5 | 6.5 | 2313 | -147 | 
@@ -51,25 +52,17 @@
 | 2018-01-18 | 第74期本因坊戦予選 | Rin Kaiho | Ito Masashi | Lose | W+R | 6.5 | 2092 | 3 | 
 | 2018-01-11 | 第44期碁聖戦予選 | Michael Redmond | Rin Kaiho | Lose | B+R | 6.5 | 2089 | 2089 | 
 | 2017-11-23 | 第43期棋聖戦ファーストトーナメント予選 | Rin Kaiho | Komatsu Fujio | Lose | W+3.5 | 6.5 | missing | -2519 | 
-| 2017-10-26 | 第43期棋聖戦ファーストトーナメント予選 | Mukai Kozue | Rin Kaiho | Win | W+R | 7.5 | 2519 | 239 | 
-| 2017-10-26 | 第43期棋聖戦ファーストトーナメント予選 | Mukai Kozue | Rin Kaiho | Win | W+R | 7.5 | 2280 | -151 | 
-| 2017-10-12 | 第57期十段戦予選B | Rin Kaiho | Mochizuki Kenichi | Lose | W+R | 6.5 | 2431 | 231 | 
-| 2017-10-12 | 第57期十段戦予選B | Rin Kaiho | Mochizuki Kenichi | Lose | W+R | 6.5 | 2200 | -65 | 
+| 2017-10-26 | 第43期棋聖戦ファーストトーナメント予選 | Mukai Kozue | Rin Kaiho | Win | W+R | 7.5 | 2519 | 88 | 
+| 2017-10-12 | 第57期十段戦予選B | Rin Kaiho | Mochizuki Kenichi | Lose | W+R | 6.5 | 2431 | 166 | 
 | 2017-09-28 | 57期十段戦予選 | Rin Kaiho |  | Win | B+R | 6.5 | 2265 | 102 | 
 | 2017-09-07 | 57期十段戦予選 | Rin Kaiho | Ueda Takashi | Win | B+R | 6.5 | 2163 | 11 | 
 | 2017-08-31 | 第44期天元戦　予選B決勝 | Terayama Rei | Rin Kaiho | Lose | B+R | 6.5 | 2152 | -161 | 
-| 2017-06-15 | 第44期天元戦　予選B | Nobuta Shigehito | Rin Kaiho | Win | W+R | 6.5 | 2313 | 237 | 
-| 2017-06-15 | 第44期天元戦　予選B | Nobuta Shigehito | Rin Kaiho | Win | W+R | 6.5 | 2076 | -331 | 
-| 2017-06-01 | 第44期天元戦　予選C決勝 | Rin Kaiho | Oki Keiji | Win | B+R | 6.5 | 2407 | 239 | 
-| 2017-06-01 | 第44期天元戦　予選C決勝 | Rin Kaiho | Oki Keiji | Win | B+R | 6.5 | 2168 | -255 | 
-| 2017-05-18 | 第7回囲碁マスターズカップ　本戦2回戦 | Rin Kaiho | Kobayashi Satoru | Lose | W+R | 6.5 | 2423 | 227 | 
-| 2017-05-18 | 第7回囲碁マスターズカップ　本戦2回戦 | Rin Kaiho | Kobayashi Satoru | Lose | W+R | 6.5 | 2196 | -292 | 
-| 2017-05-11 | 第44期天元戦　予選C | Rin Kaiho | Hagiya Kazuhiro | Win | B+R | 6.5 | 2488 | 436 | 
-| 2017-05-11 | 第44期天元戦　予選C | Rin Kaiho | Hagiya Kazuhiro | Win | B+R | 6.5 | 2052 | -350 | 
-| 2017-04-20 | 第66期王座戦　予選C | Rin Kaiho | Izumitani Hideo | Lose | W+11.5 | 6.5 | 2402 | 379 | 
-| 2017-04-20 | 第66期王座戦　予選C | Rin Kaiho | Izumitani Hideo | Lose | W+11.5 | 6.5 | 2023 | 11 | 
-| 2017-03-16 | 第43期名人戦　予選C | Mannami Nao | Rin Kaiho | Lose | B+R | 6.5 | 2012 | 189 | 
-| 2017-03-16 | 第43期名人戦　予選C | Mannami Nao | Rin Kaiho | Lose | B+R | 6.5 | 1823 | -222 | 
+| 2017-06-15 | 第44期天元戦　予選B | Nobuta Shigehito | Rin Kaiho | Win | W+R | 6.5 | 2313 | -94 | 
+| 2017-06-01 | 第44期天元戦　予選C決勝 | Rin Kaiho | Oki Keiji | Win | B+R | 6.5 | 2407 | -16 | 
+| 2017-05-18 | 第7回囲碁マスターズカップ　本戦2回戦 | Rin Kaiho | Kobayashi Satoru | Lose | W+R | 6.5 | 2423 | -65 | 
+| 2017-05-11 | 第44期天元戦　予選C | Rin Kaiho | Hagiya Kazuhiro | Win | B+R | 6.5 | 2488 | 86 | 
+| 2017-04-20 | 第66期王座戦　予選C | Rin Kaiho | Izumitani Hideo | Lose | W+11.5 | 6.5 | 2402 | 390 | 
+| 2017-03-16 | 第43期名人戦　予選C | Mannami Nao | Rin Kaiho | Lose | B+R | 6.5 | 2012 | -33 | 
 | 2017-03-02 | 第7回フマキラー囲碁マスターズカップ　本戦1回戦 | Rin Kaiho | Kudo Norio | Win | B+R | 6.5 | 2045 | 203 | 
 | 2016-12-15 | 第42期棋聖戦　ファーストトーナメント2回戦 | Rin Kaiho | Kobayashi Kenji | Lose | W+R | 6.5 | 1842 | 1842 | 
 | 2016-11-17 | 第73期本因坊戦　予選B決勝 | Rin Kaiho | Sakai Takeshi | Lose | W+11.5 | 6.5 | missing | 0 | 

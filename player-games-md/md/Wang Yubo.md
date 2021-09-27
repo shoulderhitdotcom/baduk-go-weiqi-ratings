@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 | Wang Yubo | Pan Yang | Win | B+R | 7.5 | 2933 | 20 | 
 | 2021-09-23 | 第14回中国全国運動会囲碁女子個人公開組 | Wang Yubo | Chen Yiming | Win | B+R | 7.5 | 2913 | 0 | 
 | 2021-09-23 | 第14回中国全国運動会囲碁女子個人公開組 | Wang Yubo | Rui Naiwei | Win | B+¾ | 7.5 | 2913 | 36 | 
 | 2021-09-22 | 第14回中国全国運動会囲碁女子個人公開組第5戦 | Chen Yiming | Wang Yubo | Lose | B+R | 7.5 | 2877 | -7 | 

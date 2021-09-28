@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-28 | 第18回建橋杯女子囲碁オープン戦2回戦 |  | Zhou Hongyu | Win | W+R | 7.5 | 3160 | -19 | 
 | 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 | Zhou Hongyu |  | Win | B+R | 7.5 | 3179 | -9 | 
 | 2021-09-14 | 第12期中国竜星戦Bブロック3回戦 | Zhou Hongyu | Chen Haoxin | Lose | W+R | 7.5 | 3188 | 4 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Lu Minquan | Zhou Hongyu | Win | W+R | 7.5 | 3184 | 11 | 

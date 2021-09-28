@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-28 | 2021環旭新人王戦1回戦 | Yang Bowei | Cai Chengwei | Lose | B+R | 7.5 | 2901 | -2 | 
 | 2021-09-27 | 第14期棋王戦（台湾）予選 | Chen Xi | Cai Chengwei | Win | W+R | 6.5 | 2903 | -4 | 
 | 2021-09-23 | 第14期棋王戦（台湾）予選 | Bai Xinhui | Cai Chengwei | Win | W+R | 6.5 | 2907 | -7 | 
 | 2021-09-22 | 第9期中環碁聖戦 | Cai Chengwei | Xu Yuqi | Lose | W+R | 6.5 | 2914 | -1 | 

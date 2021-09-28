@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-28 | 2021環旭新人王戦1回戦 | Li Wei | Yu Lijun | Lose | B+R | 7.5 | 2572 | -34 | 
 | 2021-09-14 | 2021環旭新人王戦予選 | Yu Lijun |  | Win | B+R | 7.5 | 2606 | 0 | 
 | 2021-09-14 | 2021環旭新人王戦予選 | Liu Yifang | Yu Lijun | Win | W+R | 7.5 | 2606 | 11 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Yu Lijun | Ding Shaojie | Lose | W+0.5 | 6.5 | 2595 | -13 | 
@@ -99,7 +100,6 @@
 | 2019-11-06 | 2019新人王戦（台湾）リーグA | Yu Lijun | Yang Bowei | Lose | W+R | 7.5 | 2246 | -21 | 
 | 2019-10-25 | 2019新人王戦（台湾）リーグA | Yu Lijun | Jian Jingting | Lose | W+R | 7.5 | 2267 | 0 | 
 | 2019-10-25 | 2019新人王戦（台湾）リーグA | Yu Lijun | Cai Chengwei | Lose | W+R | 7.5 | 2267 | 27 | 
-| 2019-10-23 | 2019新人王戦（台湾）リーグA | Yu Lijun |  | Lose | W+R | 7.5 | 2240 | 0 | 
 | 2019-10-23 | 2019新人王戦（台湾）リーグA | Yu Lijun |  | Lose | W+R | 7.5 | 2240 | -2 | 
 | 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Yu Lijun | Fujisawa Rina | Lose | W+R | 6.5 | 2242 | 0 | 
 | 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦第3戦 | Zhou Hongyu | Yu Lijun | Lose | B+R | 6.5 | 2242 | -7 | 

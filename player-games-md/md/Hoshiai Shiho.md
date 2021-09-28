@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-28 | 第40期女流本因坊戦挑戦手合五番勝負第1局  | Hoshiai Shiho | Fujisawa Rina | Lose | W+0.5 | 6.5 | 3111 | 182 | 
 | 2021-08-23 | 第40期女流本因坊戦挑戦者決定戦  | Hoshiai Shiho | Koyama Mitsuru | Win | B+R | 6.5 | 2929 | 126 | 
 | 2021-07-22 | 第40期女流本因坊戦準決勝  | Suzuki Ayumi | Hoshiai Shiho | Win | W+0.5 | 6.5 | 2803 | 30 | 
 | 2021-06-24 | 第40期女流本因坊戦3回戦  | Inori Yoko | Hoshiai Shiho | Win | W+10.5 | 6.5 | 2773 | 58 | 
@@ -36,7 +37,6 @@
 | 2019-01-17 | 第44期新人王戦1回戦 | Kan Minu | Hoshiai Shiho | Lose | B+R | 6.5 | 2115 | 104 | 
 | 2018-12-13 | 第38期女流本因坊戦予選 | Aoba Kaori | Hoshiai Shiho | Lose | B+2.5 | 6.5 | 2011 | -100 | 
 | 2018-11-12 | 第22期ドコモ杯女流棋聖戦2回戦 | Hoshiai Shiho | Xie Yimin | Lose | W+2.5 | 6.5 | 2111 | -82 | 
-| 2018-10-04 | 第22期ドコモ杯女流棋聖戦1回戦 | Hoshiai Shiho | Suzuki Ayumi | Win | B+19.5 | 6.5 | 2193 | 0 | 
 | 2018-10-04 | 第22期ドコモ杯女流棋聖戦1回戦 | Hoshiai Shiho | Suzuki Ayumi | Win | B+19.5 | 6.5 | 2193 | 135 | 
 | 2018-06-21 | 第37期女流名人戦予選 | Hoshiai Shiho | Sugiuchi Kazuko | Win | B+R | 6.5 | 2058 | -20 | 
 | 2018-05-24 | 第37期女流本因坊戦2回戦 | Hoshiai Shiho | Chinen Kaori | Lose | W+R | 6.5 | 2078 | -154 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-28 | 第15回GGオークション杯女流対シニア連勝対抗戦第20局 | Cho Seungah | Lee Changho | Win | W+R | 6.5 | 3180 | -11 | 
 | 2021-09-23 | 第3期ソパルコサノル最高棋士決定戦予選 | Hyun Yoobin | Lee Changho | Win | W+R | 6.5 | 3191 | -27 | 
 | 2021-09-22 | 2021電子ランドライバル対戦第8局 | Cho Hunhyun | Lee Changho | Win | W+R | 6.5 | 3218 | 23 | 
 | 2021-09-19 | 2021電子ランドライバル対戦第2局 | Lee Changho | Yoo Changhyuk | Win | B+R | 6.5 | 3195 | 5 | 

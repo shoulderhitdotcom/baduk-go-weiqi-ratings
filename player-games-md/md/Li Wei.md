@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-28 | 2021環旭新人王戦1回戦 | Li Wei | Yu Lijun | Win | B+R | 7.5 | 2996 | -12 | 
+| 2021-09-27 | 第14期棋王戦（台湾）予選 | Li Wei | Lin Shuyang | Win | B+R | 6.5 | 3008 | -4 | 
 | 2021-09-26 | 第9期中環碁聖戦 | Li Wei | Xu Yuqi | Win | B+R | 6.5 | 3012 | -4 | 
 | 2021-09-23 | 第14期棋王戦（台湾）予選 | Chen Qirui | Li Wei | Lose | B+0.5 | 6.5 | 3016 | -12 | 
 | 2021-09-16 | 第14期棋王戦（台湾）予選 | Bai Xinhui | Li Wei | Win | W+R | 6.5 | 3028 | 1 | 

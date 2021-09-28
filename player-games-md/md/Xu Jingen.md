@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-28 | 2021環旭新人王戦1回戦 | Xu Jingen |  | Win | B+R | 7.5 | 2943 | -17 | 
 | 2021-09-26 | 第9期中環碁聖戦 | Xu Jingen | Lin Lixiang | Lose | W+R | 6.5 | 2960 | -13 | 
 | 2021-09-23 | 第14期棋王戦（台湾）予選 | Xiao Zhenghao | Xu Jingen | Lose | B+R | 6.5 | 2973 | 5 | 
 | 2021-09-16 | 第14期棋王戦（台湾）予選 |  | Xu Jingen | Lose | B+1.5 | 6.5 | 2968 | -14 | 

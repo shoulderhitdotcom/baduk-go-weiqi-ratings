@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Zhao Chenyu | Zheng Xu | Lose | B+R | 7.5 | 3045 | -51 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Zheng Xu | Liao Yuanhe | Lose | W+R | 7.5 | 3096 | -11 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zheng Xu | Kou Zhengyan | Win | B+R | 7.5 | 3107 | 22 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Tong Mengcheng | Zheng Xu | Lose | B+R | 7.5 | 3085 | 42 | 

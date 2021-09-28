@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Tan Xiao | Chen Zijian | Win | W+R | 7.5 | 3347 | 8 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Chen Zijian | Win | W+R | 7.5 | 3339 | 25 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Chen Zijian | Lee Donghoon | Lose | W+R | 7.5 | 3314 | -3 | 
 | 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Yu Zhiying | Chen Zijian | Lose | B+¾ | 7.5 | 3317 | -50 | 

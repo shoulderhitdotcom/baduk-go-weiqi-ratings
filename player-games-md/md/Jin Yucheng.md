@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Jin Yucheng | Lose | B+R | 7.5 | 3423 | -42 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Jin Yucheng | Li Chengsen | Lose | W+R | 7.5 | 3465 | -37 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Mao Ruilong | Jin Yucheng | Win | W+R | 7.5 | 3502 | 32 | 
 | 2021-09-13 | 第12期中国竜星戦Bブロック1回戦 | Jin Yucheng | Chen Haoxin | Lose | W+R | 7.5 | 3470 | -71 | 

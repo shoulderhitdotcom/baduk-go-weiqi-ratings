@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Yunong | Xia Chenkun | Lose | W+R | 7.5 | 3425 | -23 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Chen Yunong | Huang Yunsong | Lose | W+R | 7.5 | 3448 | -23 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Chen Yunong | Li Xuanhao | Lose | W+R | 7.5 | 3471 | 3471 | 
 | 2021-08-25 | 第12期中国竜星戦予選 | Chen Yunong |  | Win | B+1¾ | 7.5 | missing | -3446 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Chen Yunong | Lose | B+R | 7.5 | 3446 | -31 | 
@@ -41,7 +43,7 @@
 | 2018-08-15 | 第20回中国囲碁甲級リーグ第13節蘇泊爾-杭州 |  | Chen Yunong | Lose | B+R | 7.5 | missing | 0 | 
 | 2018-08-06 | 第20回中国囲碁甲級リーグ第11節江蘇-杭州 | Zhao Chenyu | Chen Yunong | Lose | B+R | 7.5 | missing | 0 | 
 | 2018-06-28 | 第20期阿含・桐山杯中国早碁オープン戦本選1回戦 | Fan Yin | Chen Yunong | Lose | B+R | 7.5 | missing | -3027 | 
-| 2017-09-25 | 2017年全国囲棋個人戦男子組第12戦 |  | Chen Yunong | Lose | B+R | 7.5 | 3027 | -55 | 
+| 2017-09-25 | 2017年全国囲棋個人戦男子組第12戦 | Liu Zhaozhe | Chen Yunong | Lose | B+R | 7.5 | 3027 | -55 | 
 | 2017-09-23 | 2017年全国囲棋個人戦男子組第10戦 |  | Chen Yunong | Lose | B+R | 7.5 | 3082 | 289 | 
 | 2016-12-29 | 第31期中国囲碁天元戦予選 | Chen Yunong | Yang Kaiwen | Lose | W+0.5 | 7.5 | 2793 | -57 | 
 | 2016-12-28 | 第31期中国囲碁天元戦予選 | Chen Yunong | Chen Hao | Win | B+R | 7.5 | 2850 | 248 | 
@@ -56,7 +58,7 @@
 | 2015-09-18 | 第3回全国智力運動会囲碁男子団体戦 | Chen Yunong | Li Zhe | Lose | W+R | 7.5 | 2725 | -206 | 
 | 2015-07-29 | 第7期中国竜星戦予選 | Chen Yunong | Li Qincheng | Lose | W+R | 7.5 | 2931 | -7 | 
 | 2015-07-25 | 2015年中国段位戦 | Yi Lingtao | Chen Yunong | Lose | B+R | 7.5 | 2938 | -217 | 
-| 2015-07-01 | 第7期中国竜星戦予選 |  | Chen Yunong | Win | W+R | 7.5 | 3155 | 41 | 
+| 2015-07-01 | 第7期中国竜星戦予選 | Wang Shuo | Chen Yunong | Win | W+R | 7.5 | 3155 | 41 | 
 | 2015-06-28 | 第7期中国竜星戦予選 | Liao Yuanhe | Chen Yunong | Win | W+4.5 | 7.5 | 3114 | -108 | 
 | 2015-03-09 | 第14回西南棋王戦1回戦 | Chen Yunong | Gu Li | Lose | W+R | 7.5 | 3222 | 267 | 
 | 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 | Chen Yunong | Mi Yuting | Lose | W+R | 7.5 | 2955 | -43 | 

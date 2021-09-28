@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Shin Minjun | Fan Yin | Win | W+R | 7.5 | 3469 | 0 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Fan Yin | Yang Kaiwen | Lose | W+¼ | 7.5 | 3469 | 0 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Fan Yin | Zhou Hexi | Win | B+R | 7.5 | 3469 | -45 | 
 | 2021-09-03 | 第12期中国竜星戦予選 | Fan Yin | Zhang Tao | Lose | W+2¼ | 7.5 | 3514 | 1 | 

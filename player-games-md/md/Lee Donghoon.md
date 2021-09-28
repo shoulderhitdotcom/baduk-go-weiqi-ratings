@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Wu Guangya | Win | B+R | 7.5 | 3540 | -6 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Xie Erhao | Win | B+¾ | 7.5 | 3546 | 7 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Chen Zijian | Lee Donghoon | Win | W+R | 7.5 | 3539 | 3539 | 
 | 2021-08-25 | 第26回三星火災杯韓国予選 | Gang Woohyeok | Lee Donghoon | Win | W+R | 6.5 | missing | -3528 | 

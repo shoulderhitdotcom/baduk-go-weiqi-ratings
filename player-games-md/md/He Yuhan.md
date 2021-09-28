@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Shibano Toramaru | He Yuhan | Win | W+R | 7.5 | 3279 | 14 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | He Yuhan | Ding Shixiong | Lose | W+1¼ | 7.5 | 3265 | -77 | 
 | 2021-08-26 | 第12期中国竜星戦予選 | Jiang Qirun | He Yuhan | Lose | B+R | 7.5 | 3342 | 10 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | He Yuhan | Mao Ruilong | Lose | W+¼ | 7.5 | 3332 | -11 | 

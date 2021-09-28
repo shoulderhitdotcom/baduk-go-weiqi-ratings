@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Fan Tingyu | Lose | B+R | 7.5 | 3519 | -19 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Mi Yuting | Win | B+R | 7.5 | 3538 | 12 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Li Qincheng | Win | B+R | 7.5 | 3526 | 3526 | 
 | 2021-08-20 | 第26回三星火災杯中国予選 | Lian Xiao | Fan Tingyu | Lose | B+R | 6.5 | missing | -3521 | 

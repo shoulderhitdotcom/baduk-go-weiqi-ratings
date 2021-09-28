@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Jin Yucheng | Win | B+R | 7.5 | 3411 | 21 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Chen Hao | Chen Zhengxun | Win | W+R | 7.5 | 3390 | 9 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Li Xiangyu | Win | B+R | 7.5 | 3381 | 99 | 
 | 2021-08-24 | 第12期中国竜星戦予選 | Chen Zhengxun | Huang Yunsong | Lose | W+1¼ | 7.5 | 3282 | 69 | 

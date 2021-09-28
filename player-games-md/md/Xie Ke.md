@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Xie Ke | Xu Yidi | Win | B+R | 7.5 | 3529 | -16 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Huang Xin | Xie Ke | Lose | B+R | 7.5 | 3545 | -17 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Xie Ke | Zhou Ruiyang | Win | B+R | 7.5 | 3562 | -33 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Xie Ke | Fan Yin | Lose | W+R | 7.5 | 3595 | -5 | 

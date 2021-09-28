@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Ding Hao | Tuo Jiaxi | Win | B+2¾ | 7.5 | 3660 | -6 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Tang Weixing | Ding Hao | Win | W+R | 7.5 | 3666 | 2 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Ding Hao | Chen Yichun | Win | B+R | 7.5 | 3664 | 27 | 
 | 2021-09-16 | 第12期中国竜星戦Aブロック6回戦 | Ding Hao | Liao Yuanhe | Lose | W+1¼ | 7.5 | 3637 | 10 | 

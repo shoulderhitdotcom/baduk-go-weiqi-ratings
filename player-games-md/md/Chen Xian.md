@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Chen Xian | Wang Chunhui | Win | B+R | 7.5 | 3558 | 21 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Huang Xin | Chen Xian | Win | W+R | 7.5 | 3537 | -9 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Chen Xian | Jiang Weijie | Win | B+R | 7.5 | 3546 | 17 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Chen Xian | Win | W+R | 7.5 | 3529 | 20 | 

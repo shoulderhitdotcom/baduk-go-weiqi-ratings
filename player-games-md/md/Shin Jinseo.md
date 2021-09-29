@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Xu Jiayang | Shin Jinseo | Win | W+R | 7.5 | 3828 | 21 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Hu Yuhan | Win | B+R | 7.5 | 3807 | -7 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Guo Xinyi | Shin Jinseo | Win | W+R | 7.5 | 3814 | -2 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Jiang Weijie | Win | B+R | 7.5 | 3816 | -7 | 

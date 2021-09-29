@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第46期名人戦挑戦手合七番勝負第4局  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3499 | 21 | 
+| 2021-09-23 | 第60期十段戦予選 | Ohashi Hirofumi | Iyama Yuta | Win | W+R | 6.5 | 3478 | -18 | 
 | 2021-09-20 | 第69期王座戦挑戦者決定戦  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3496 | 6 | 
 | 2021-09-16 | 第46期名人戦挑戦手合七番勝負第3局  | Ichiriki Ryo | Iyama Yuta | Lose | B+R | 6.5 | 3490 | -39 | 
 | 2021-09-09 | 第46期名人戦挑戦手合七番勝負第2局  | Iyama Yuta | Ichiriki Ryo | Lose | W+0.5 | 6.5 | 3529 | 6 | 

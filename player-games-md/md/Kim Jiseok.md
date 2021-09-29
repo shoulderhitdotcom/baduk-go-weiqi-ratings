@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Kim Jiseok | Win | W+R | 7.5 | 3577 | 13 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Chen Zijian | Lose | W+R | 7.5 | 3564 | -13 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Li Xuanhao | Lose | W+1¼ | 7.5 | 3577 | -8 | 
 | 2021-09-21 | 2021電子ランドライバル対戦第6局 | Weon Seongjin | Kim Jiseok | Win | W+R | 6.5 | 3585 | 25 | 

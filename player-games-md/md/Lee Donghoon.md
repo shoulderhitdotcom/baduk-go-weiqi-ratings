@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Huang Mingyu | Lose | W+R | 7.5 | 3547 | 7 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Wu Guangya | Win | B+R | 7.5 | 3540 | -6 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Xie Erhao | Win | B+¾ | 7.5 | 3546 | 7 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Chen Zijian | Lee Donghoon | Win | W+R | 7.5 | 3539 | 3539 | 

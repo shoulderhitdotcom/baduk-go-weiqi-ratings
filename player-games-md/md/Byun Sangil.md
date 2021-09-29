@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Byun Sangil | Wang Shiyi | Win | B+R | 7.5 | 3698 | 19 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Byun Sangil | Shi Yue | Win | B+1¾ | 7.5 | 3679 | -3 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Liu Qifeng | Byun Sangil | Win | W+R | 7.5 | 3682 | 25 | 
 | 2021-08-28 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kim Jiseok | Byun Sangil | Lose | B+R | 6.5 | 3657 | 16 | 

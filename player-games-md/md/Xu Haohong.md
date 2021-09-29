@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Xu Haohong | Li Zerui | Lose | W+R | 7.5 | 3345 | 3 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Xu Haohong | Xie Erhao | Win | B+¾ | 7.5 | 3342 | -1 | 
 | 2021-09-26 | 第9期中環碁聖戦 | Lin Shuyang | Xu Haohong | Win | W+R | 6.5 | 3343 | -2 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Xu Haohong | Xu Jiayang | Lose | W+R | 7.5 | 3345 | -5 | 

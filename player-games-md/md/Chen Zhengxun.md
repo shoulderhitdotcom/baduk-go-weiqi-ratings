@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Tan Xiao | Lose | W+R | 7.5 | 3406 | -5 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Jin Yucheng | Win | B+R | 7.5 | 3411 | 21 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Chen Hao | Chen Zhengxun | Win | W+R | 7.5 | 3390 | 9 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Li Xiangyu | Win | B+R | 7.5 | 3381 | 99 | 

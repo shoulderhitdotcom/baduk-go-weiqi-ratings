@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Shin Minjun | Dang Yifei | Lose | W+R | 7.5 | 3523 | 12 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Shin Minjun | Fan Yin | Lose | W+R | 7.5 | 3511 | -16 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Shin Minjun | Lose | B+R | 7.5 | 3527 | -10 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Shin Minjun | Xie Erhao | Lose | W+R | 7.5 | 3537 | -13 | 

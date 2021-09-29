@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Shi Yue | Win | B+R | 7.5 | 3503 | 24 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tu Xiaoyu | Win | W+1¼ | 7.5 | 3479 | -3 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Ye Changxin | Win | B+1¾ | 7.5 | 3482 | 4 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Chen Yaoye | Lose | W+¼ | 7.5 | 3478 | -10 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Tan Xiao | Win | W+R | 7.5 | 3480 | 19 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Tan Xiao | Chen Zijian | Lose | W+R | 7.5 | 3461 | -25 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Meng Tailing | Tan Xiao | Lose | B+¾ | 7.5 | 3486 | -8 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Tan Xiao | Lose | B+R | 7.5 | 3494 | 1 | 

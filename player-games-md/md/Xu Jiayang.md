@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Xu Jiayang | Shin Jinseo | Lose | W+R | 7.5 | 3593 | 11 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Dang Yifei | Xu Jiayang | Win | W+R | 7.5 | 3582 | -3 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Xu Haohong | Xu Jiayang | Win | W+R | 7.5 | 3585 | 10 | 
 | 2021-09-17 | 第12期中国竜星戦Bブロック7回戦 | Huang Yunsong | Xu Jiayang | Lose | B+¾ | 7.5 | 3575 | 12 | 

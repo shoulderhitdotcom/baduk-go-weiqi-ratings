@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Kang Dongyun | Zhou Ruiyang | Win | B+¾ | 7.5 | 3459 | 28 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Zhang Tao | Kang Dongyun | Win | W+1¼ | 7.5 | 3431 | -1 | 
 | 2021-09-27 | 第7回国手山脈国際囲碁大会韓国予選 | Choi Cheolhan | Kang Dongyun | Lose | B+R | 6.5 | 3432 | -7 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Kang Dongyun | Lose | B+R | 7.5 | 3439 | -9 | 

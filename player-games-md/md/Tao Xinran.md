@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Tao Xinran | Park Junghwan | Lose | W+R | 7.5 | 3524 | 13 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Ke Jie | Tao Xinran | Lose | B+R | 7.5 | 3511 | -17 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Tao Xinran | Hu Yaoyu | Win | B+R | 7.5 | 3528 | 3 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Tang Weixing | Tao Xinran | Lose | B+2¾ | 7.5 | 3525 | -10 | 

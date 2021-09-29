@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Shin Minjun | Dang Yifei | Win | W+R | 7.5 | 3606 | 23 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Dang Yifei | Xu Jiayang | Lose | W+R | 7.5 | 3583 | -22 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Dang Yifei | Win | W+R | 7.5 | 3605 | -1 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Huang Xin | Dang Yifei | Win | W+R | 7.5 | 3606 | 5 | 

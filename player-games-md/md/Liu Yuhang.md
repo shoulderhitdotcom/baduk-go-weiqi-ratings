@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Wang Zejin | Liu Yuhang | Lose | B+R | 7.5 | 3457 | -13 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Rong Yi | Liu Yuhang | Win | W+R | 7.5 | 3470 | 10 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Peng Liyao | Lose | W+R | 7.5 | 3460 | -26 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Xu Yidi | Liu Yuhang | Win | W+R | 7.5 | 3486 | 1 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Meng Tailing | Chen Yaoye | Lose | W+R | 7.5 | 3459 | 16 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Meng Tailing | Win | W+R | 7.5 | 3443 | 3 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Meng Tailing | Tan Xiao | Win | B+¾ | 7.5 | 3440 | 95 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Meng Tailing | Chen Zijian | Win | B+R | 7.5 | 3345 | 42 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Ding Shixiong | Zhang Tao | Lose | W+R | 7.5 | 3340 | -13 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Shen Peiran | Ding Shixiong | Lose | B+R | 7.5 | 3353 | -43 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | He Yuhan | Ding Shixiong | Win | W+1¼ | 7.5 | 3396 | 10 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Huang Yunsong | Ding Shixiong | Lose | B+R | 7.5 | 3386 | -9 | 

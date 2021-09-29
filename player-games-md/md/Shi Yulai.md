@@ -7,7 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-11 | 第23回中国囲碁甲級リーグ | Peng Liyao | Shi Yulai | Lose | B+R | 7.5 | 3048 | -1 | 
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Shi Yulai | Lose | B+R | 7.5 | 3159 | 110 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Peng Liyao | Shi Yulai | Lose | B+R | 7.5 | 3049 | -70 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Shi Yulai | Win | W+¼ | 7.5 | 3119 | 3119 | 
 | 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Shi Yulai | Chen Zhengxun | Lose | W+R | 7.5 | missing | 0 | 

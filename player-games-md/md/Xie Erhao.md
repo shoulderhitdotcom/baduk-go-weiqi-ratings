@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Xie Erhao | Ke Jie | Lose | W+¼ | 7.5 | 3527 | 6 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Xu Haohong | Xie Erhao | Lose | B+¾ | 7.5 | 3521 | -26 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Xie Erhao | Lose | B+¾ | 7.5 | 3547 | -9 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Shin Minjun | Xie Erhao | Win | W+R | 7.5 | 3556 | 24 | 

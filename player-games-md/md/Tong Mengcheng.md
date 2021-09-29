@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Tuo Jiaxi | Lose | W+R | 7.5 | 3453 | 10 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Shen Peiran | Tong Mengcheng | Win | W+R | 7.5 | 3443 | -15 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Yang Dingxin | Lose | W+R | 7.5 | 3458 | -3 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Mi Yuting | Tong Mengcheng | Win | W+R | 7.5 | 3461 | 9 | 

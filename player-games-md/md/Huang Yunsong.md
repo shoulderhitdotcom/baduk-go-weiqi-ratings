@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Huang Yunsong | Lose | B+R | 7.5 | 3573 | 0 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Han Yizhou | Win | B+R | 7.5 | 3573 | -9 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Yi Lingtao | Win | B+R | 7.5 | 3582 | 7 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Tan Xiao | Win | B+R | 7.5 | 3575 | 15 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Mi Yuting | Zhou Hexi | Win | B+R | 7.5 | 3610 | 22 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Yaoye | Mi Yuting | Lose | B+R | 7.5 | 3588 | -22 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Mi Yuting | Lose | B+R | 7.5 | 3610 | -15 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Mi Yuting | Tong Mengcheng | Lose | W+R | 7.5 | 3625 | -23 | 

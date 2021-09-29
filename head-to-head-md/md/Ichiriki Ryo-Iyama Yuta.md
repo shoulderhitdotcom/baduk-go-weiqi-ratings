@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ichiriki Ryo vs Iyama Yuta** | **Ichiriki Ryo streak** | **Iyama Yuta streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-09-20 | 第69期王座戦挑戦者決定戦  | Iyama Yuta | Ichiriki Ryo | B+R | 6.5 | 0:1 | 0 | 1 | 
+| 2021-09-29 | 第46期名人戦挑戦手合七番勝負第4局  | Iyama Yuta | Ichiriki Ryo | B+R | 6.5 | 0:1 | 0 | 1 | 
+| 2021-09-20 | 第69期王座戦挑戦者決定戦  | Iyama Yuta | Ichiriki Ryo | B+R | 6.5 | 14:27 | 0 | 1 | 
 | 2021-09-16 | 第46期名人戦挑戦手合七番勝負第3局  | Ichiriki Ryo | Iyama Yuta | B+R | 6.5 | 14:26 | 2 | 0 | 
 | 2021-09-09 | 第46期名人戦挑戦手合七番勝負第2局  | Iyama Yuta | Ichiriki Ryo | W+0.5 | 6.5 | 13:26 | 1 | 0 | 
 | 2021-08-29 | 第46期碁聖戦挑戦手合五番勝負第5局  | Ichiriki Ryo | Iyama Yuta | W+R | 6.5 | 12:26 | 0 | 3 | 

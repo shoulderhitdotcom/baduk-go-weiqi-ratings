@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-30 | 第46期棋聖戦挑戦者決定トーナメント  | Shibano Toramaru | Sun Zhe | Lose | B+2.5 | 6.5 | 3020 | 6 | 
 | 2021-09-23 | 第46期棋聖戦挑戦者決定トーナメント  | Numadate Sakiya | Sun Zhe | Win | W+R | 6.5 | 3014 | 35 | 
 | 2021-09-02 | 第47期名人戦予選 | Sun Zhe | O Rissei | Win | B+R | 6.5 | 2979 | 2979 | 
 | 2021-08-12 | 第46期棋聖戦Bリーグ | Sun Zhe | Uchida Shuhei | Win | B+R | 6.5 | missing | -2994 | 

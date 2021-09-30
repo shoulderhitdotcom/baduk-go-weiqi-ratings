@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Chen Yunong | Win | W+R | 7.5 | 3454 | 29 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Yunong | Xia Chenkun | Lose | W+R | 7.5 | 3425 | -23 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Chen Yunong | Huang Yunsong | Lose | W+R | 7.5 | 3448 | -23 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Chen Yunong | Li Xuanhao | Lose | W+R | 7.5 | 3471 | 3471 | 

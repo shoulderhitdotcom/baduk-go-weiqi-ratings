@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Huang Xin | Chen Zijian | Win | W+R | 7.5 | 3384 | 6 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Chen Zijian | Win | W+2¼ | 7.5 | 3378 | 31 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Tan Xiao | Chen Zijian | Win | W+R | 7.5 | 3347 | 8 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Chen Zijian | Win | W+R | 7.5 | 3339 | 25 | 

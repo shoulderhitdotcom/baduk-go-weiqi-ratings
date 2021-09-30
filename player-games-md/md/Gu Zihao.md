@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Chen Xian | Gu Zihao | Win | W+R | 7.5 | 3632 | 4 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Gu Zihao | Xie Ke | Lose | W+R | 7.5 | 3628 | 10 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Park Junghwan | Gu Zihao | Lose | B+R | 7.5 | 3618 | -21 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Gu Zihao | Ke Jie | Lose | W+R | 7.5 | 3639 | -9 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Wu Guangya | Win | B+R | 7.5 | 3612 | 0 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Chen Xian | Jiang Weijie | Lose | B+R | 7.5 | 3612 | -15 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Jiang Weijie | Lose | B+R | 7.5 | 3627 | -7 | 
 | 2021-09-23 | 第14回中国全国運動会囲碁男子個人公開組 | Tao Xinran | Jiang Weijie | Lose | B+R | 7.5 | 3634 | 0 | 

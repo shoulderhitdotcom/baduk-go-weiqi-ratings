@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-30 | 第9期中環碁聖戦 |  | Jian Jingting | Win | W+R | 6.5 | 3152 | 10 | 
 | 2021-09-28 | 2021環旭新人王戦1回戦 | Jian Jingting |  | Win | B+4¾ | 7.5 | 3142 | 3142 | 
 | 2021-09-05 | 第9期中環碁聖戦 | Jian Jingting | Bai Xinhui | Win | B+R | 6.5 | missing | -3160 | 
 | 2021-09-03 | 第26回三星火災杯台湾予選 | Jian Jingting | Lin Shixun | Lose | W+0.5 | 6.5 | 3160 | -19 | 

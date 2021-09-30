@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Fan Tingyu | Lose | W+R | 7.5 | 3491 | -10 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Tuo Jiaxi | Win | W+R | 7.5 | 3501 | 28 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Ding Hao | Tuo Jiaxi | Lose | B+2¾ | 7.5 | 3473 | -21 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Kang Dongyun | Win | B+R | 7.5 | 3494 | 9 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Park Junghwan | Tang Weixing | Win | B+R | 7.5 | 3697 | 4 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Tao Xinran | Park Junghwan | Win | W+R | 7.5 | 3693 | 19 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Park Junghwan | Gu Zihao | Win | B+R | 7.5 | 3674 | -3 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Park Junghwan | Win | W+R | 7.5 | 3677 | -1 | 

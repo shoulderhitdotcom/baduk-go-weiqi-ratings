@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Wu Guangya | Lose | B+R | 7.5 | 3339 | 1 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Wu Guangya | Lose | B+R | 7.5 | 3338 | -20 | 
 | 2021-09-15 | 第12期中国竜星戦Aブロック5回戦 | Wu Guangya | Liao Yuanhe | Lose | W+1¼ | 7.5 | 3358 | -4 | 
 | 2021-09-14 | 第12期中国竜星戦Aブロック4回戦 | Wang Shuo | Wu Guangya | Win | W+R | 7.5 | 3362 | -6 | 

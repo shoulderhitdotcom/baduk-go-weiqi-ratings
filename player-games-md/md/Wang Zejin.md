@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Wang Zejin | Lose | B+1¾ | 7.5 | 3399 | -21 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Wang Zejin | Liu Yuhang | Win | B+R | 7.5 | 3420 | 41 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Wang Zejin | Huang Mingyu | Lose | W+R | 7.5 | 3379 | -31 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Wang Zejin | Xia Chenkun | Win | B+R | 7.5 | 3410 | 28 | 

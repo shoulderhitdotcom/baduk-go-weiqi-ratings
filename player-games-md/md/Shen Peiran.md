@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Shen Peiran | Chen Yaoye | Lose | W+R | 7.5 | 3042 | 3 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Shen Peiran | Tong Mengcheng | Lose | W+R | 7.5 | 3039 | -31 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Shen Peiran | Ding Shixiong | Win | B+R | 7.5 | 3070 | 263 | 
 | 2021-08-30 | 第12期中国竜星戦予選 | Wang Shuo | Shen Peiran | Lose | B+R | 7.5 | 2807 | 47 | 

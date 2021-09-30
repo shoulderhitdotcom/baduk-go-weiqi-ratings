@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Zhou Hexi | Win | B+R | 7.5 | 3527 | 0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Guo Xinyi | Win | B+R | 7.5 | 3527 | 22 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Yi Lingtao | Win | B+1¾ | 7.5 | 3505 | -6 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Li Xuanhao | Lose | B+R | 7.5 | 3511 | -11 | 

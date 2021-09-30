@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Hu Yuhan | Lose | W+R | 7.5 | 3674 | -14 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Han Yizhou | Yang Dingxin | Win | W+R | 7.5 | 3688 | 18 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Fan Tingyu | Win | B+R | 7.5 | 3670 | -8 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Yang Dingxin | Win | W+R | 7.5 | 3678 | -1 | 

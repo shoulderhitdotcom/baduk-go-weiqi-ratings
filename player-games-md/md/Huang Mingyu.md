@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Byun Sangil | Lose | W+R | 7.5 | 3444 | -12 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Huang Mingyu | Win | W+R | 7.5 | 3456 | 37 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Wang Zejin | Huang Mingyu | Win | W+R | 7.5 | 3419 | -1 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Rong Yi | Lose | W+R | 7.5 | 3420 | -11 | 

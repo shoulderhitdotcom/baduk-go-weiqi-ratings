@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Zhou Hexi | Lose | B+R | 7.5 | 3308 | -16 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Mi Yuting | Zhou Hexi | Lose | B+R | 7.5 | 3324 | 2 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Zhou Hexi | Li Qincheng | Lose | W+R | 7.5 | 3322 | -17 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Zhou Hexi | Win | W+R | 7.5 | 3339 | 42 | 

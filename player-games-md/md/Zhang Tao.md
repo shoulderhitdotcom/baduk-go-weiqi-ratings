@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhang Tao | Lee Donghoon | Lose | W+R | 7.5 | 3485 | -13 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Ding Shixiong | Zhang Tao | Win | W+R | 7.5 | 3498 | 21 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Zhang Tao | Kang Dongyun | Lose | W+1¼ | 7.5 | 3477 | -20 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Li Xiangyu | Zhang Tao | Win | W+¾ | 7.5 | 3497 | 9 | 

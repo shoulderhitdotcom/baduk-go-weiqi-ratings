@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Ye Changxin | Meng Tailing | Lose | W+R | 7.5 | 3159 | -25 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Ye Changxin | Lose | B+1¾ | 7.5 | 3184 | -65 | 
 | 2021-09-01 | 第12期中国竜星戦予選 | Ye Changxin | Lyu Liyan | Lose | W+R | 7.5 | 3249 | -96 | 
 | 2021-08-30 | 第12期中国竜星戦予選 |  | Ye Changxin | Win | W+4¼ | 7.5 | 3345 | 3345 | 

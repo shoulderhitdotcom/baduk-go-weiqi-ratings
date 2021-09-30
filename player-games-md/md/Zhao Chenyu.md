@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhao Chenyu | Xu Jiayang | Lose | W+R | 7.5 | 3433 | -10 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Xu Yidi | Zhao Chenyu | Win | W+R | 7.5 | 3443 | 22 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Zhao Chenyu | Zheng Xu | Win | B+R | 7.5 | 3421 | -10 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Zhao Chenyu | Win | W+R | 7.5 | 3431 | 8 | 

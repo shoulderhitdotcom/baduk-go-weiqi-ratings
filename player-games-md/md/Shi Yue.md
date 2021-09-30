@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Shi Yue | Li Qincheng | Win | B+R | 7.5 | 3471 | 10 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Shi Yue | Lose | B+R | 7.5 | 3461 | -6 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Byun Sangil | Shi Yue | Lose | B+1¾ | 7.5 | 3467 | -14 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Shi Yue | Li Weiqing | Lose | W+R | 7.5 | 3481 | -6 | 

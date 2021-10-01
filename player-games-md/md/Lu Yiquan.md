@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-01 | 2021新人王戦（台湾）2回戦 | Xu Jingen | Lu Yiquan | Win | W+R | 7.5 | 3032 | 15 | 
 | 2021-09-28 | 2021環旭新人王戦1回戦 |  | Lu Yiquan | Win | W+R | 7.5 | 3017 | -8 | 
 | 2021-09-26 | 第9期中環碁聖戦 | Lu Yiquan |  | Win | B+R | 6.5 | 3025 | 8 | 
 | 2021-09-16 | 第14期棋王戦（台湾）予選 | Lin Shuyang | Lu Yiquan | Lose | B+R | 6.5 | 3017 | -5 | 

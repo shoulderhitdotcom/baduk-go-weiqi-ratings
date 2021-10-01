@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-01 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第5局 | Wang Yuanjun | Lai Junfu | Win | W+R | 6.5 | 3165 | 11 | 
 | 2021-09-30 | 第9期中環碁聖戦 | Lai Junfu |  | Win | B+R | 6.5 | 3154 | 4 | 
 | 2021-09-28 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第4局 | Lai Junfu | Wang Yuanjun | Lose | W+2.5 | 6.5 | 3150 | -10 | 
 | 2021-09-24 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第3局 | Wang Yuanjun | Lai Junfu | Win | W+R | 6.5 | 3160 | 11 | 

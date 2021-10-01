@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-01 | 2021新人王戦（台湾）2回戦 | Chen Qirui | Yang Bowei | Win | B+R | 7.5 | 3235 | 11 | 
 | 2021-09-28 | 2021環旭新人王戦1回戦 |  | Chen Qirui | Win | W+R | 7.5 | 3224 | -10 | 
 | 2021-09-26 | 第9期中環碁聖戦 | Chen Xi | Chen Qirui | Win | W+R | 6.5 | 3234 | -1 | 
 | 2021-09-23 | 第14期棋王戦（台湾）予選 | Chen Qirui | Li Wei | Win | B+0.5 | 6.5 | 3235 | -7 | 

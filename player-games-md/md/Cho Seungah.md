@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-01 | 第26期女流国手戦2回戦 | Cho Seungah |  | Lose | W+0.5 | 6.5 | 3185 | 4 | 
 | 2021-09-28 | 第15回GGオークション杯女流対シニア連勝対抗戦第20局 | Cho Seungah | Lee Changho | Lose | W+R | 6.5 | 3181 | -5 | 
 | 2021-09-27 | 第15回GGオークション杯女流対シニア連勝対抗戦第19局 | Cho Seungah | Choi Myeonghun | Win | B+R | 6.5 | 3186 | -1 | 
 | 2021-09-21 | 第15回GGオークション杯女流対シニア連勝対抗戦第18局 | Cho Seungah | An Joyeong | Win | B+R | 6.5 | 3187 | 0 | 

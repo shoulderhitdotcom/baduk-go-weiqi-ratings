@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第2戦 | Shibano Toramaru | Lin Lixiang | Win | B+R | 6.5 | 3323 | 3 | 
 | 2021-09-30 | 第46期棋聖戦挑戦者決定トーナメント  | Shibano Toramaru | Sun Zhe | Win | B+2.5 | 6.5 | 3320 | 11 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Chen Yichun | Shibano Toramaru | Win | W+R | 7.5 | 3309 | 27 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Shibano Toramaru | He Yuhan | Lose | W+R | 7.5 | 3282 | -90 | 

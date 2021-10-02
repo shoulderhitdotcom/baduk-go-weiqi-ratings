@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第2戦 | Nakamura Sumire | Su Shengfang | Win | W+R | 6.5 | 2352 | 0 | 
+| 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第1戦 | Su Shengfang |  | Lose | W+T | 6.5 | 2352 | 92 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Su Shengfang |  | Lose | W+R | 6.5 | 2260 | -2 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 | Chen Shiyuan | Su Shengfang | Lose | B+R | 6.5 | 2262 | 2262 | 
 | 2021-09-05 | 第9期中環碁聖戦 | Su Shengfang | Chen Xi | Lose | W+R | 6.5 | missing | -2269 | 

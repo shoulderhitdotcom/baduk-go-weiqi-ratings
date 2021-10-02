@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-02 | 2021女子最高棋士決定戦（韓国）リーグ | Choi Jeong | Kim Cheayoung | Win | B+R | 6.5 | 3361 | 3 | 
 | 2021-09-30 | 第26期女流国手戦2回戦 | Choi Jeong |  | Win | B+R | 6.5 | 3358 | 21 | 
 | 2021-09-24 | 第7回韓国女子囲碁リーグ優勝決定戦第2戦 | Kim Cheayoung | Choi Jeong | Win | W+R | 6.5 | 3337 | 0 | 
 | 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Choi Jeong | Weon Seongjin | Lose | W+R | 6.5 | 3337 | -4 | 

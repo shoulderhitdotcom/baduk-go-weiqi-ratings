@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-02 | 2021女子最高棋士決定戦（韓国）リーグ | Choi Jeong | Kim Cheayoung | Lose | B+R | 6.5 | 2820 | 11 | 
+| 2021-09-29 | 第26期女流国手戦2回戦 | Kim Cheayoung | Kim Hyeoimin | Win | B+R | 6.5 | 2809 | -20 | 
 | 2021-09-24 | 第7回韓国女子囲碁リーグ優勝決定戦第2戦 | Kim Cheayoung | Choi Jeong | Lose | W+R | 6.5 | 2829 | 0 | 
 | 2021-09-23 | 第7回韓国女子囲碁リーグ優勝決定戦第1戦 |  | Kim Cheayoung | Win | W+R | 6.5 | 2829 | -6 | 
 | 2021-09-17 | 2021女子最高棋士決定戦（韓国）リーグ | Kim Eunseon | Kim Cheayoung | Win | W+R | 6.5 | 2835 | -70 | 

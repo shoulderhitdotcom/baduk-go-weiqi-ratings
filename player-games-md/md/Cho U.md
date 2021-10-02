@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第1戦 | Cho U | Chen Shiyuan | Lose | W+R | 6.5 | 3165 | -16 | 
+| 2021-09-23 | 第47期名人戦予選 | Cho U | Yokotsuka Riki | Lose | W+1.5 | 6.5 | 3181 | -7 | 
 | 2021-09-16 | 第47期碁聖戦予選 | Fujimura Yosuke | Cho U | Win | W+R | 6.5 | 3188 | -64 | 
 | 2021-09-02 | 第69期王座戦準決勝  | Cho U | Iyama Yuta | Lose | W+4.5 | 6.5 | 3252 | 19 | 
 | 2021-08-23 | 第46期棋聖戦Aリーグ | Cho U | Suzuki Shinji | Win | B+R | 6.5 | 3233 | 73 | 

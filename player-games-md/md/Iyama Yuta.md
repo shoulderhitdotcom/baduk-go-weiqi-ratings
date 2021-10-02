@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-02 | 第28期阿含・桐山杯全日本早碁オープン戦決勝  | Iyama Yuta | Hsu Chiayuan | Lose | W+R | 6.5 | 3502 | -14 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Ding Hao | Iyama Yuta | Win | W+R | 7.5 | 3516 | 17 | 
 | 2021-09-29 | 第46期名人戦挑戦手合七番勝負第4局  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3499 | 21 | 
 | 2021-09-23 | 第60期十段戦予選 | Ohashi Hirofumi | Iyama Yuta | Win | W+R | 6.5 | 3478 | -18 | 

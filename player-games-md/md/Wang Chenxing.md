@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-02 | 第18回建橋杯女子囲碁オープン戦準決勝 | Zhou Hongyu | Wang Chenxing | Lose | B+R | 7.5 | 3000 | -8 | 
 | 2021-09-29 | 第18回建橋杯女子囲碁オープン戦3回戦 | Wang Chenxing | Wang Yubo | Win | B+R | 7.5 | 3008 | 2 | 
 | 2021-09-28 | 第18回建橋杯女子囲碁オープン戦2回戦 |  | Wang Chenxing | Win | W+2¾ | 7.5 | 3006 | -30 | 
 | 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 |  | Wang Chenxing | Win | W+R | 7.5 | 3036 | 1 | 

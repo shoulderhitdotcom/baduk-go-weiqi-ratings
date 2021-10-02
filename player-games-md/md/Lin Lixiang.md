@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第2戦 | Shibano Toramaru | Lin Lixiang | Lose | B+R | 6.5 | 3049 | 0 | 
+| 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第1戦 | Hirose Yuichi | Lin Lixiang | Lose | B+R | 6.5 | 3049 | -15 | 
 | 2021-09-26 | 第9期中環碁聖戦 | Xu Jingen | Lin Lixiang | Win | W+R | 6.5 | 3064 | 0 | 
 | 2021-09-10 | 第26回三星火災杯台湾予選 | Lin Lixiang | Wang Yuanjun | Lose | W+R | 6.5 | 3064 | -17 | 
 | 2021-09-08 | 第26回三星火災杯台湾予選 | Chen Shiyuan | Lin Lixiang | Win | W+R | 6.5 | 3081 | 10 | 

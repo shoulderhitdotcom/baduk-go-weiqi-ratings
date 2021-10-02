@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-02 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Han Seungjoo | Lee Donghoon | Win | W+0.5 | 6.5 | 3556 | 4 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhang Tao | Lee Donghoon | Win | W+R | 7.5 | 3552 | 5 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Huang Mingyu | Lose | W+R | 7.5 | 3547 | 7 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Wu Guangya | Win | B+R | 7.5 | 3540 | -6 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-02 | 第28期阿含・桐山杯全日本早碁オープン戦決勝  | Iyama Yuta | Hsu Chiayuan | Win | W+R | 6.5 | 3384 | -2 | 
 | 2021-09-16 | 第47期碁聖戦予選 | Kato Atsushi | Hsu Chiayuan | Win | W+R | 6.5 | 3386 | -27 | 
 | 2021-08-26 | 第28期阿含・桐山杯全日本早碁オープン戦準決勝 | Motoki Katsuya | Hsu Chiayuan | Win | W+R | 6.5 | 3413 | 10 | 
 | 2021-08-19 | 第46期棋聖戦Aリーグ | Mutsuura Yuta | Hsu Chiayuan | Win | W+R | 6.5 | 3403 | 3403 | 

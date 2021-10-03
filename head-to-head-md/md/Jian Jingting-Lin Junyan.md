@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jian Jingting vs Lin Junyan** | **Jian Jingting streak** | **Lin Junyan streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-13 | 第2期聯電杯プロ囲碁戦敗部4回戦 | Lin Junyan | Jian Jingting | W+0.5 | 6.5 | 5:7 | 2 | 0 | 
 | 2021-02-19 | 第20期天元戦（台湾）リーグ | Lin Junyan | Jian Jingting | W+R | 6.5 | 4:7 | 1 | 0 | 
 | 2020-11-22 | 第8期中環碁聖戦準決勝 | Lin Junyan | Jian Jingting | B+R | 6.5 | 3:7 | 0 | 3 | 
 | 2020-11-02 | 第13期棋王戦（台湾）リーグ  | Jian Jingting | Lin Junyan | W+R | 6.5 | 3:6 | 0 | 2 | 

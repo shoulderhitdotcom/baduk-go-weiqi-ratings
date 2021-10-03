@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-03 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Byun Sangil | Weon Seongjin | Lose | B+R | 6.5 | 3641 | 9 | 
 | 2021-09-27 | 第7回国手山脈国際囲碁大会韓国予選 | Weon Seongjin | Lee Changseok | Win | B+R | 6.5 | 3632 | 6 | 
 | 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Choi Jeong | Weon Seongjin | Win | W+R | 6.5 | 3626 | -5 | 
 | 2021-09-21 | 2021電子ランドライバル対戦第6局 | Weon Seongjin | Kim Jiseok | Lose | W+R | 6.5 | 3631 | 3 | 

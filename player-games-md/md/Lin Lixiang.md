@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-03 | 第9期中環碁聖戦16強戦 | Yang Bowei | Lin Lixiang | Win | W+R | 6.5 | 3055 | 6 | 
 | 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第2戦 | Shibano Toramaru | Lin Lixiang | Lose | B+R | 6.5 | 3049 | 0 | 
 | 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第1戦 | Hirose Yuichi | Lin Lixiang | Lose | B+R | 6.5 | 3049 | -15 | 
 | 2021-09-26 | 第9期中環碁聖戦 | Xu Jingen | Lin Lixiang | Win | W+R | 6.5 | 3064 | 0 | 

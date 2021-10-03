@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-03 | 第9期中環碁聖戦16強戦 | Chen Qirui | Jian Jingting | Lose | B+R | 6.5 | 3149 | -5 | 
 | 2021-10-01 | 2021新人王戦（台湾）2回戦 | Jian Jingting |  | Win | B+R | 7.5 | 3154 | 2 | 
 | 2021-09-30 | 第9期中環碁聖戦 |  | Jian Jingting | Win | W+R | 6.5 | 3152 | 10 | 
 | 2021-09-28 | 2021環旭新人王戦1回戦 | Jian Jingting |  | Win | B+4¾ | 7.5 | 3142 | 3142 | 

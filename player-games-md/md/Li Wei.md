@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-03 | 第9期中環碁聖戦16強戦 | Li Wei | Lu Yiquan | Lose | W+R | 6.5 | 2984 | -9 | 
 | 2021-10-01 | 2021新人王戦（台湾）2回戦 | Li Wei | Lin Shixun | Lose | W+R | 7.5 | 2993 | -17 | 
 | 2021-09-30 | 第14期棋王戦（台湾）予選  | Xiao Zhenghao | Li Wei | Lose | B+R | 6.5 | 3010 | 14 | 
 | 2021-09-28 | 2021環旭新人王戦1回戦 | Li Wei | Yu Lijun | Win | B+R | 7.5 | 2996 | -12 | 

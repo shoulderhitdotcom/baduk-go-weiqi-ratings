@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-05 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Jimmy Cha | Lose | W+15.5 | 6.5 | 2601 | -53 | 
+| 2021-09-27 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Park Seungmun | Lose | W+R | 6.5 | 2654 | -25 | 
+| 2021-09-13 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Paek Seongho | Win | B+11.5 | 6.5 | 2679 | 92 | 
 | 2021-09-06 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Kang Hun | Lose | W+5.5 | 6.5 | 2587 | -46 | 
 | 2021-08-31 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Oh Kyuchul | Win | B+3.5 | 6.5 | 2633 | -139 | 
 | 2021-08-26 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Park Yeongchan | Lose | W+R | 6.5 | 2772 | 122 | 

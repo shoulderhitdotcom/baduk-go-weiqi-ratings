@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-05 | 第47期天元戦挑戦手合五番勝負第1局  | Ichiriki Ryo | Seki Kotaro | Lose | W+R | 6.5 | 3475 | -12 | 
 | 2021-09-29 | 第46期名人戦挑戦手合七番勝負第4局  | Iyama Yuta | Ichiriki Ryo | Lose | B+R | 6.5 | 3487 | -10 | 
 | 2021-09-23 | 第60期十段戦予選  | Fujisawa Rina | Ichiriki Ryo | Lose | B+R | 6.5 | 3497 | -31 | 
 | 2021-09-20 | 第69期王座戦挑戦者決定戦  | Iyama Yuta | Ichiriki Ryo | Lose | B+R | 6.5 | 3528 | -10 | 

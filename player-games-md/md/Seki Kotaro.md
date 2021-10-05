@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-05 | 第47期天元戦挑戦手合五番勝負第1局  | Ichiriki Ryo | Seki Kotaro | Win | W+R | 6.5 | 3151 | 188 | 
+| 2021-09-09 | 第47期天元戦挑戦者決定戦 | Shibano Toramaru | Seki Kotaro | Win | W+R | 6.5 | 2963 | -29 | 
 | 2021-08-26 | 第46期棋聖戦Cリーグ | Seki Kotaro | Fujisawa Rina | Lose | W+R | 6.5 | 2992 | -92 | 
 | 2021-08-19 | 第60期十段戦予選 | Yuki Satoshi | Seki Kotaro | Lose | B+R | 6.5 | 3084 | -91 | 
 | 2021-06-17 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Adachi Toshimasa | Seki Kotaro | Lose | B+R | 6.5 | 3175 | 5 | 

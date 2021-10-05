@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Choi Jaeyoung | An Sungjoon | Win | B+R | 6.5 | 3410 | 26 | 
 | 2021-09-08 | 第3期ソパルコサノル最高棋士決定戦予選 | Choi Jaeyoung | Na Hyun | Win | B+0.5 | 6.5 | 3384 | -28 | 
 | 2021-07-13 | 第23回農心杯韓国予選 | Oh Jeonga | Choi Jaeyoung | Win | W+R | 6.5 | 3412 | -220 | 
 | 2021-02-09 | 第4回クラウン・ヘテ杯準決勝 | Lee Changseok | Choi Jaeyoung | Lose | B+R | 6.5 | 3632 | 6 | 
@@ -90,7 +91,7 @@
 | 2017-01-20 | 第22期GSカルテックス杯プロ棋戦24強戦 | Choi Jaeyoung | Hong Seongji | Lose | W+R | 6.5 | 2934 | -30 | 
 | 2017-01-11 | 第2期未来の星新鋭最強戦準々決勝 | Han Seungjoo | Choi Jaeyoung | Lose | B+R | 6.5 | 2964 | -12 | 
 | 2017-01-08 | 第2期未来の星新鋭最強戦 | Choi Jaeyoung | Li Weiqing | Win | B+R | 6.5 | 2976 | 27 | 
-| 2017-01-07 | 第2期未来の星新鋭最強戦 | Choi Jaeyoung |  | Win | B+R | 6.5 | 2949 | -6 | 
+| 2017-01-07 | 第2期未来の星新鋭最強戦 | Choi Jaeyoung | Kim Changhoon | Win | B+R | 6.5 | 2949 | -6 | 
 | 2016-10-22 | 2016年韓国囲碁リーグ | Park Cheongsang | Choi Jaeyoung | Win | W+R | 6.5 | 2955 | -14 | 
 | 2016-10-15 | 2016年韓国囲碁リーグ | Choi Jaeyoung | Kang Dongyun | Win | B+R | 6.5 | 2969 | 43 | 
 | 2016-10-07 | 2016年韓国囲碁リーグ | Park Jinsol | Choi Jaeyoung | Win | W+R | 6.5 | 2926 | -66 | 

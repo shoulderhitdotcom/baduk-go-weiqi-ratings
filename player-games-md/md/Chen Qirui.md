@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-05 | 2021新人王戦（台湾）準決勝 | Lu Yiquan | Chen Qirui | Win | W+R | 7.5 | 3230 | 3230 | 
+| 2021-10-04 | 第14期棋王戦（台湾）リーグ | Chen Qirui | Lin Lixiang | Lose | W+R | 6.5 | missing | -3240 | 
 | 2021-10-03 | 第9期中環碁聖戦16強戦 | Chen Qirui | Jian Jingting | Win | B+R | 6.5 | 3240 | 5 | 
 | 2021-10-01 | 2021新人王戦（台湾）2回戦 | Chen Qirui | Yang Bowei | Win | B+R | 7.5 | 3235 | 11 | 
 | 2021-09-28 | 2021環旭新人王戦1回戦 |  | Chen Qirui | Win | W+R | 7.5 | 3224 | -10 | 

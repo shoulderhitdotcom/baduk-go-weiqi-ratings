@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 |  | Huang Shiyuan | Lose | B+R | 6.5 | 2685 | 0 | 
+| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 |  | Huang Shiyuan | Win | W+5.5 | 6.5 | 2685 | -4 | 
 | 2021-10-03 | 第9期中環碁聖戦16強戦 | Wang Yuanjun | Huang Shiyuan | Lose | B+R | 6.5 | 2689 | -9 | 
 | 2021-09-28 | 2021環旭新人王戦1回戦 |  | Huang Shiyuan | Lose | B+R | 7.5 | 2698 | 0 | 
 | 2021-09-24 | 第9期中環碁聖戦 | Huang Shiyuan | Lin Shimin | Win | B+R | 6.5 | 2698 | 20 | 

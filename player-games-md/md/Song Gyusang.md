@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Jiseok | Song Gyusang | Lose | B+R | 6.5 | 3294 | 64 | 
 | 2021-07-13 | 第23回農心杯韓国予選 | Lee Changho | Song Gyusang | Win | W+R | 6.5 | 3230 | -80 | 
 | 2021-03-05 | 2020-2021フューチャーズリーグ | Song Gyusang | Gon Jiwoo | Win | B+R | 6.5 | 3310 | 1 | 
 | 2021-02-20 | 2020-2021フューチャーズリーグ | Song Gyusang |  | Win | B+R | 6.5 | 3309 | -53 | 

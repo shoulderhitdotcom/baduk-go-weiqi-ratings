@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-06 | 2021韓国シニア囲碁リーグ | Oh Kyuchul | Yoo Changhyuk | Win | W+R | 6.5 | 2859 | -22 | 
+| 2021-09-27 | 2021韓国シニア囲碁リーグ | Kim Ilhwan | Yoo Changhyuk | Lose | B+10.5 | 6.5 | 2881 | -25 | 
 | 2021-09-22 | 2021電子ランドライバル対戦第7局 | Seo Bongsoo | Yoo Changhyuk | Lose | B+R | 6.5 | 2906 | -24 | 
 | 2021-09-19 | 2021電子ランドライバル対戦第2局 | Lee Changho | Yoo Changhyuk | Lose | B+R | 6.5 | 2930 | -12 | 
 | 2021-09-14 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第3ラウンド | Kobayashi Satoru | Yoo Changhyuk | Lose | B+R | 7.5 | 2942 | -120 | 

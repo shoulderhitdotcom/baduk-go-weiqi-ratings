@@ -7,6 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-06 | 第47期碁聖戦予選 | Yuki Satoshi |  | Win | B+R | 6.5 | 3037 | 10 | 
+| 2021-09-23 | 第60期十段戦予選 | Otake Yu | Yuki Satoshi | Lose | B+R | 6.5 | 3027 | 7 | 
+| 2021-09-09 | 第47期名人戦予選 | Yuki Satoshi |  | Lose | W+R | 6.5 | 3020 | -52 | 
+| 2021-09-02 | 第46期棋聖戦Cリーグ | Numadate Sakiya | Yuki Satoshi | Lose | B+R | 6.5 | 3072 | 3072 | 
+| 2021-08-25 | 第47期碁聖戦予選 | Yukawa Mitsuhisa | Yuki Satoshi | Win | W+1.5 | 6.5 | missing | -3064 | 
+| 2021-08-19 | 第60期十段戦予選 | Yuki Satoshi | Seki Kotaro | Win | B+R | 6.5 | 3064 | -10 | 
 | 2021-08-09 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Yuki Satoshi | Motoki Katsuya | Lose | W+R | 6.5 | 3074 | 12 | 
 | 2021-08-05 | 第46期棋聖戦Cリーグ | Otake Yu | Yuki Satoshi | Win | W+0.5 | 6.5 | 3062 | 6 | 
 | 2021-08-02 | 第69期王座戦2回戦 | Yuki Satoshi | Iyama Yuta | Lose | W+R | 6.5 | 3056 | 1 | 

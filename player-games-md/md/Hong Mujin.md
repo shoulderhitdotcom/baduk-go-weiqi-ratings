@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Ahn Kukhyun | Hong Mujin | Win | W+3.5 | 6.5 | 3262 | 3262 | 
+| 2021-08-25 | 第26回三星火災杯韓国予選 | Hong Mujin | Kim Seongjae | Lose | W+1.5 | 6.5 | missing | -3222 | 
 | 2021-08-04 | 第4期韓国竜星戦準決勝 | Hong Mujin | Park Junghwan | Lose | W+3.5 | 6.5 | 3222 | 9 | 
 | 2021-07-17 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Hong Mujin | Shin Minjun | Lose | W+R | 6.5 | 3213 | -124 | 
 | 2021-06-16 | 第4期韓国竜星戦3回戦 | Hong Mujin | Choi Cheolhan | Win | B+R | 6.5 | 3337 | 3337 | 
@@ -17,22 +19,14 @@
 | 2021-02-09 | 第4期韓国竜星戦1回戦 | Hong Mujin | Park Hamin | Win | B+R | 6.5 | missing | 0 | 
 | 2021-02-04 | 第4期韓国竜星戦予選 | Hong Mujin | Jin Siyoung | Win | B+R | 6.5 | missing | 0 | 
 | 2019-02-14 | 第24期GSカルテックス杯24強戦 | Cho Hanseung | Hong Mujin | Lose | B+0.5 | 6.5 | missing | -2992 | 
-| 2017-03-29 | 世界第三期Mlily夢百合杯予選準決勝 | Hong Mujin | Hu Yaoyu | Win | B+R | 7.5 | 2992 | -16 | 
-| 2017-03-29 | 世界第三期Mlily夢百合杯予選準決勝 | Hong Mujin | Hu Yaoyu | Win | B+R | 7.5 | 3008 | 285 | 
-| 2016-10-27 | 2016年フューチャーズリーグ | Hong Mujin | You Byungyong | Lose | W+4.5 | 6.5 | 2723 | 31 | 
-| 2016-10-27 | 2016年フューチャーズリーグ | Hong Mujin | You Byungyong | Lose | W+4.5 | 6.5 | 2692 | -32 | 
-| 2016-10-16 | 2016年フューチャーズリーグ | Hong Mujin | Park Kyuongkeun | Win | B+R | 6.5 | 2724 | 35 | 
-| 2016-10-16 | 2016年フューチャーズリーグ | Hong Mujin | Park Kyuongkeun | Win | B+R | 6.5 | 2689 | -34 | 
-| 2016-10-15 | 2016年韓国囲碁リーグ | Hong Mujin | Kim Kiyoung | Lose | W+R | 6.5 | 2723 | 103 | 
-| 2016-10-15 | 2016年韓国囲碁リーグ | Hong Mujin | Kim Kiyoung | Lose | W+R | 6.5 | 2620 | -110 | 
-| 2016-10-09 | 2016年フューチャーズリーグ | Hong Mujin |  | Win | B+R | 6.5 | 2730 | 21 | 
-| 2016-10-09 | 2016年フューチャーズリーグ | Hong Mujin |  | Win | B+R | 6.5 | 2709 | -34 | 
-| 2016-10-04 | 2016年フューチャーズリーグ | Hong Mujin | Kim Dongho | Win | B+R | 6.5 | 2743 | 66 | 
-| 2016-10-04 | 2016年フューチャーズリーグ | Hong Mujin | Kim Dongho | Win | B+R | 6.5 | 2677 | -61 | 
-| 2016-09-28 | 2016年フューチャーズリーグ | Hong Kipyo | Hong Mujin | Lose | B+R | 6.5 | 2738 | 207 | 
-| 2016-09-28 | 2016年フューチャーズリーグ | Hong Kipyo | Hong Mujin | Lose | B+R | 6.5 | 2531 | -333 | 
-| 2016-09-17 | 2016年フューチャーズリーグ |  | Hong Mujin | Win | W+R | 6.5 | 2864 | 161 | 
-| 2016-09-17 | 2016年フューチャーズリーグ |  | Hong Mujin | Win | W+R | 6.5 | 2703 | -164 | 
+| 2017-03-29 | 世界第三期Mlily夢百合杯予選準決勝 | Hong Mujin | Hu Yaoyu | Win | B+R | 7.5 | 2992 | 269 | 
+| 2016-10-27 | 2016年フューチャーズリーグ | Hong Mujin | You Byungyong | Lose | W+4.5 | 6.5 | 2723 | -1 | 
+| 2016-10-16 | 2016年フューチャーズリーグ | Hong Mujin | Park Kyuongkeun | Win | B+R | 6.5 | 2724 | 1 | 
+| 2016-10-15 | 2016年韓国囲碁リーグ | Hong Mujin | Kim Kiyoung | Lose | W+R | 6.5 | 2723 | -7 | 
+| 2016-10-09 | 2016年フューチャーズリーグ | Hong Mujin |  | Win | B+R | 6.5 | 2730 | -13 | 
+| 2016-10-04 | 2016年フューチャーズリーグ | Hong Mujin | Kim Dongho | Win | B+R | 6.5 | 2743 | 5 | 
+| 2016-09-28 | 2016年フューチャーズリーグ | Hong Kipyo | Hong Mujin | Lose | B+R | 6.5 | 2738 | -126 | 
+| 2016-09-17 | 2016年フューチャーズリーグ |  | Hong Mujin | Win | W+R | 6.5 | 2864 | -3 | 
 | 2016-09-14 | 2016年フューチャーズリーグ | Kim Minho | Hong Mujin | Lose | B+R | 6.5 | 2867 | -4 | 
 | 2016-08-31 | 2016年フューチャーズリーグ | Ko Keuntae | Hong Mujin | Lose | B+R | 6.5 | 2871 | 6 | 
 | 2016-08-17 | 2016年フューチャーズリーグ | You Byungyong | Hong Mujin | Lose | B+4.5 | 6.5 | 2865 | -7 | 

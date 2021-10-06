@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Xu Jingen | Ding Shaojie | Lose | B+R | 6.5 | 2430 | -16 | 
 | 2021-09-26 | 第9期中環碁聖戦 | Ding Shaojie | Liu Yaowen | Lose | W+R | 6.5 | 2446 | -52 | 
 | 2021-09-16 | 第14期棋王戦（台湾）予選 | Ding Shaojie | Chen Feng | Lose | W+R | 6.5 | 2498 | 55 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Yu Lijun | Ding Shaojie | Win | W+0.5 | 6.5 | 2443 | -17 | 

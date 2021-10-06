@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 |  | Su Shengfang | Lose | B+R | 6.5 | 2358 | 0 | 
+| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Su Shengfang | Zhang Kaixin | Win | B+R | 6.5 | 2358 | 6 | 
 | 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第2戦 | Nakamura Sumire | Su Shengfang | Win | W+R | 6.5 | 2352 | 0 | 
 | 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第1戦 | Su Shengfang |  | Lose | W+T | 6.5 | 2352 | 92 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Su Shengfang |  | Lose | W+R | 6.5 | 2260 | -2 | 

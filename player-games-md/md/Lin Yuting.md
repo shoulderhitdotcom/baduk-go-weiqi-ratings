@@ -7,12 +7,17 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Lin Yuting |  | Lose | W+R | 6.5 | 1932 | -222 | 
+| 2021-09-14 | 2021環旭新人王戦予選 | Lin Yuting |  | Lose | W+R | 7.5 | 2154 | 2154 | 
+| 2021-09-05 | 第9期中環碁聖戦 | Lin Yuting |  | Win | B+R | 6.5 | missing | 0 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 |  | Lin Yuting | Lose | B+R | 6.5 | missing | 0 | 
+| 2021-09-01 | 第26回三星火災杯台湾予選 | Lin Yuting | Chen Shiyuan | Lose | W+R | 6.5 | missing | 0 | 
+| 2021-08-30 | 第14期棋王戦（台湾）予選 | Lin Yuting | Zhang Zhehao | Lose | W+R | 6.5 | missing | -2086 | 
 | 2021-08-16 | 第7回健喬杯女子囲碁最強戦予選 |  | Lin Yuting | Lose | B+0.5 | 6.5 | 2086 | 2086 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Lin Yuting | Jian Jingting | Lose | W+R | 6.5 | missing | 0 | 
 | 2021-05-12 | 第4回呉清源杯台湾予選 | Lin Yuting | Zhang Kaixin | Lose | W+R | 6.5 | missing | 0 | 
 | 2021-05-12 | 第4回呉清源杯台湾予選 | Bai Xinhui | Lin Yuting | Win | W+R | 6.5 | missing | 0 | 
 | 2021-04-15 | 第8回グロービス杯台湾予選 | Lin Yuting | Yang Zixuan | Lose | W+R | 6.5 | missing | 0 | 
-| 2021-04-01 | 第11期友士杯十段戦予選 | Lin Yuting |  | Lose | W+R | 6.5 | missing | 0 | 
 | 2021-04-01 | 第11期友士杯十段戦予選 | Lin Yuting |  | Lose | W+R | 6.5 | missing | 0 | 
 | 2021-03-31 | 第26回LG杯台湾予選 | Lin Yuting |  | Lose | W+R | 6.5 | missing | 0 | 
 | 2021-03-19 | 第17期国手戦（台湾） | Lin Yuting | Zhou Pingqiang | Lose | W+R | 6.5 | missing | 0 | 

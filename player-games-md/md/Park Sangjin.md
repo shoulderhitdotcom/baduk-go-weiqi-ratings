@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Changho | Park Sangjin | Win | W+R | 6.5 | 3416 | 77 | 
 | 2021-08-01 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Sangjin | Lee Donghoon | Lose | W+R | 6.5 | 3339 | -12 | 
 | 2021-07-12 | 第23回農心杯韓国予選 | Park Sangjin | Yun Chanhee | Win | B+R | 6.5 | 3351 | 0 | 
 | 2021-07-02 | 第4期韓国竜星戦3回戦 | Park Sangjin | Park Junghwan | Lose | W+R | 6.5 | 3351 | -15 | 
@@ -35,7 +36,7 @@
 | 2020-12-04 | 2020-2021韓国囲碁リーグ | Kang Seungmin | Park Sangjin | Win | W+R | 6.5 | 3594 | -22 | 
 | 2020-11-27 | 2020-2021韓国囲碁リーグ | Park Sangjin | Paek Hongseok | Win | B+R | 6.5 | 3616 | 26 | 
 | 2020-11-22 | 2020年中国囲碁乙級リーグ | Park Sangjin | Iyama Yuta | Lose | W+R | 7.5 | 3590 | -27 | 
-| 2020-11-21 | 2020年中国囲碁乙級リーグ | Park Sangjin |  | Lose | W+R | 7.5 | 3617 | 25 | 
+| 2020-11-21 | 2020年中国囲碁乙級リーグ | Park Sangjin | Liu Zhaozhe | Lose | W+R | 7.5 | 3617 | 25 | 
 | 2020-11-20 | 2020年中国囲碁乙級リーグ | Kim Myounghoon | Park Sangjin | Win | W+R | 7.5 | 3592 | 42 | 
 | 2020-11-19 | 2020年中国囲碁乙級リーグ |  | Park Sangjin | Win | W+¼ | 7.5 | 3550 | 41 | 
 | 2020-11-17 | 2020年中国囲碁乙級リーグ | Wang Haoyang | Park Sangjin | Win | W+1¼ | 7.5 | 3509 | 49 | 

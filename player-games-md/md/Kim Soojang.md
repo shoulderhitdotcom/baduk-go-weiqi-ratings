@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-06 | 2021韓国シニア囲碁リーグ | Kim Soojang | Paek Seongho | Lose | W+4.5 | 6.5 | 2528 | 12 | 
+| 2021-09-27 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Soojang | Win | W+1.5 | 6.5 | 2516 | -64 | 
 | 2021-09-16 | 2021韓国シニア囲碁リーグ | Kim Soojang | Kim Ilhwan | Win | B+2.5 | 6.5 | 2580 | -8 | 
 | 2021-09-08 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Kim Soojang | Lose | B+R | 6.5 | 2588 | 21 | 
 | 2021-08-31 | 2021韓国シニア囲碁リーグ | Kim Soojang | Seo Nungwuk | Lose | W+R | 6.5 | 2567 | -15 | 

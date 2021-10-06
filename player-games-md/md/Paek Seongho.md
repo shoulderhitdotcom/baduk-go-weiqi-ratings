@@ -7,6 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-06 | 2021韓国シニア囲碁リーグ | Kim Soojang | Paek Seongho | Win | W+4.5 | 6.5 | 2561 | 54 | 
+| 2021-09-27 | 2021韓国シニア囲碁リーグ | Paek Seongho | An Kwanwuk | Lose | W+4.5 | 6.5 | 2507 | 19 | 
+| 2021-09-13 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Paek Seongho | Lose | B+11.5 | 6.5 | 2488 | 152 | 
+| 2021-09-07 | 2021韓国シニア囲碁リーグ | Paek Seongho | Park Yeongchan | Win | B+2.5 | 6.5 | 2336 | 48 | 
+| 2021-09-01 | 2021韓国シニア囲碁リーグ | Paek Seongho | Chang Suyeong | Win | B+R | 6.5 | 2288 | -151 | 
 | 2021-08-19 | 第26回三星火災杯韓国予選 |  | Paek Seongho | Lose | B+18.5 | 6.5 | 2439 | 2439 | 
 | 2021-08-12 | 2021韓国シニア囲碁リーグ | Paek Seongho | Park Seungmun | Lose | W+8.5 | 6.5 | missing | -2383 | 
 | 2021-08-03 | 2021韓国シニア囲碁リーグ | Paek Seongho | Oh Kyuchul | Win | B+4.5 | 6.5 | 2383 | -83 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-06 | 第47期碁聖戦予選 | Watanabe Yuu | Imamura Toshiya | Win | W+R | 6.5 | 2814 | 109 | 
+| 2021-09-02 | 第60期十段戦予選 | Imamura Toshiya | Yamashiro Hiroshi | Lose | W+3.5 | 6.5 | 2705 | 115 | 
 | 2021-06-23 | 第60期十段戦予選 | Imamura Toshiya | Watanabe Yuu | Win | B+R | 6.5 | 2590 | 52 | 
 | 2021-06-09 | 第60期十段戦予選 | Imamura Toshiya |  | Win | B+R | 6.5 | 2538 | -51 | 
 | 2021-04-07 | 第77期本因坊戦予選 | Yu Zhengqi | Imamura Toshiya | Lose | B+R | 6.5 | 2589 | -87 | 

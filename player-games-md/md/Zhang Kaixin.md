@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Su Shengfang | Zhang Kaixin | Lose | B+R | 6.5 | 2421 | -57 | 
 | 2021-09-22 | 第9期中環碁聖戦 | Lin Shimin | Zhang Kaixin | Lose | B+R | 6.5 | 2478 | -30 | 
 | 2021-09-06 | 第14期棋王戦（台湾）予選 | Zhang Kaixin | Chen Feng | Lose | W+5.5 | 6.5 | 2508 | 30 | 
 | 2021-09-02 | 第14期棋王戦（台湾）予選 |  | Zhang Kaixin | Win | W+T | 6.5 | 2478 | 0 | 

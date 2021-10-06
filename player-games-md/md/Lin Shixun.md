@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Lin Shixun | Yu Lijun | Win | B+R | 6.5 | 2918 | 0 | 
+| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Xu Yuqi | Lin Shixun | Win | W+R | 6.5 | 2918 | -6 | 
 | 2021-10-05 | 2021新人王戦（台湾）準決勝  | Jian Jingting | Lin Shixun | Win | W+R | 7.5 | 2924 | 12 | 
 | 2021-10-01 | 2021新人王戦（台湾）2回戦 | Li Wei | Lin Shixun | Win | W+R | 7.5 | 2912 | 31 | 
 | 2021-09-28 | 2021環旭新人王戦1回戦 | Lin Shixun | Yang Zixuan | Win | B+R | 7.5 | 2881 | -18 | 

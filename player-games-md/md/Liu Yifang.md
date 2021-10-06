@@ -7,7 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-09-14 | 2021環旭新人王戦予選 | Liu Yifang | Yu Lijun | Lose | W+R | 7.5 | 2268 | 27 | 
+| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Liu Yifang | Lin Shuyang | Lose | W+9.5 | 6.5 | 2265 | -3 | 
+| 2021-09-14 | 2021環旭新人王戦予選 | Liu Yifang | Yu Lijun | Lose | W+R | 7.5 | 2268 | 34 | 
+| 2021-09-13 | 第14期棋王戦（台湾）予選 | Liu Yifang | Lin Shixun | Lose | W+R | 6.5 | 2234 | -7 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 | Liu Yifang |  | Lose | W+R | 6.5 | 2241 | 2241 | 
 | 2021-09-07 | 第9期中環碁聖戦 | Liu Yifang | Li Wei | Lose | W+R | 6.5 | missing | 0 | 
 | 2021-09-02 | 第14期棋王戦（台湾）予選 |  | Liu Yifang | Win | W+R | 6.5 | missing | 0 | 

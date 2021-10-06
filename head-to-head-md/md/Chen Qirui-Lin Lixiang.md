@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Qirui vs Lin Lixiang** | **Chen Qirui streak** | **Lin Lixiang streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-04 | 第14期棋王戦（台湾）リーグ | Chen Qirui | Lin Lixiang | W+R | 6.5 | 8:11 | 0 | 1 | 
 | 2021-03-12 | 第20期天元戦（台湾）リーグ | Lin Lixiang | Chen Qirui | W+R | 6.5 | 8:10 | 2 | 0 | 
 | 2020-11-09 | 第13期棋王戦（台湾）リーグ | Lin Lixiang | Chen Qirui | W+R | 6.5 | 7:10 | 1 | 0 | 
 | 2020-03-27 | 第5回百霊杯台湾代表選抜戦 | Chen Qirui | Lin Lixiang | W+R | 7.5 | 6:10 | 0 | 1 | 

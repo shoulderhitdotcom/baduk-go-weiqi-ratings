@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-07 | 第14期棋王戦（台湾）リーグ | Cai Chengwei | Lai Junfu | Win | W+R | 6.5 | 3159 | 5 | 
 | 2021-10-05 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第6局 | Lai Junfu | Wang Yuanjun | Lose | W+R | 6.5 | 3154 | 3154 | 
 | 2021-10-04 | 第14期棋王戦（台湾）リーグ  | Lai Junfu | Wang Yuanjun | Lose | W+R | 6.5 | missing | -3165 | 
 | 2021-10-03 | 第9期中環碁聖戦16強戦 |  | Lai Junfu | Win | W+R | 6.5 | 3165 | 0 | 

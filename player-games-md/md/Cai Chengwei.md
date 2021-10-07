@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-07 | 第14期棋王戦（台湾）リーグ | Cai Chengwei | Lai Junfu | Lose | W+R | 6.5 | 2876 | -12 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 |  | Cai Chengwei | Win | W+R | 6.5 | 2888 | 2888 | 
 | 2021-10-04 | 第14期棋王戦（台湾）リーグ | Jian Jingting | Cai Chengwei | Lose | B+R | 6.5 | missing | -2899 | 
 | 2021-09-30 | 第14期棋王戦（台湾）予選 | Cai Chengwei |  | Win | B+R | 6.5 | 2899 | -2 | 

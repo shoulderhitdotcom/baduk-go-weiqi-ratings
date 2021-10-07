@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-07 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Kim Chongsu | Win | W+5.5 | 6.5 | 2645 | 2 | 
+| 2021-09-27 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Soojang | Lose | W+1.5 | 6.5 | 2643 | -42 | 
 | 2021-09-15 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Kim Chongsu | Lose | B+5.5 | 6.5 | 2685 | -7 | 
 | 2021-09-07 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Yoo Changhyuk | Lose | W+R | 6.5 | 2692 | -2 | 
 | 2021-08-30 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Chongsu | Win | W+6.5 | 6.5 | 2694 | 3 | 

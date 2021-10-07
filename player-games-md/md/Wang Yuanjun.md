@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-07 | 第14期棋王戦（台湾）リーグ  | Wang Yuanjun | Xiao Zhenghao | Lose | W+R | 6.5 | 3230 | -2 | 
 | 2021-10-05 | 第2期聯電杯プロ囲碁戦挑戦手合七番勝負第6局 | Lai Junfu | Wang Yuanjun | Win | W+R | 6.5 | 3232 | 3232 | 
 | 2021-10-04 | 第14期棋王戦（台湾）リーグ  | Lai Junfu | Wang Yuanjun | Win | W+R | 6.5 | missing | -3223 | 
 | 2021-10-03 | 第9期中環碁聖戦16強戦 | Wang Yuanjun | Huang Shiyuan | Win | B+R | 6.5 | 3223 | -1 | 

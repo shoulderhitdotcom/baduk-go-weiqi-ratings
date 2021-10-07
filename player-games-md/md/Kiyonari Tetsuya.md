@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-07 | 第47期名人戦予選 | Shida Tatsuya | Kiyonari Tetsuya | Lose | B+4.5 | 6.5 | 2847 | -31 | 
 | 2021-09-22 | 第47期碁聖戦予選 | Yu Zhengqi | Kiyonari Tetsuya | Lose | B+R | 6.5 | 2878 | -13 | 
 | 2021-09-15 | 第47期名人戦予選 | Kiyonari Tetsuya | Nakano Yasuhiro | Win | B+R | 6.5 | 2891 | 153 | 
 | 2021-09-08 | 第47期碁聖戦予選 | Kiyonari Tetsuya | Fujii Shuya | Win | B+R | 6.5 | 2738 | 139 | 

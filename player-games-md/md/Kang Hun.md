@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-07 | 2021韓国シニア囲碁リーグ | Kang Hun | Park Yeongchan | Lose | W+R | 6.5 | 2519 | -25 | 
+| 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Kang Hun | Cho Hanseung | Lose | W+R | 6.5 | 2544 | 16 | 
+| 2021-09-27 | 2021韓国シニア囲碁リーグ | Chang Suyeong | Kang Hun | Win | W+0.5 | 6.5 | 2528 | -24 | 
 | 2021-09-14 | 2021韓国シニア囲碁リーグ | Park Seungmun | Kang Hun | Win | W+R | 6.5 | 2552 | 223 | 
 | 2021-09-08 | 第3期ソパルコサノル最高棋士決定戦予選 | Kang Hun | Weon Seongjin | Win | B+R | 6.5 | 2329 | 8 | 
 | 2021-09-06 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Kang Hun | Win | W+5.5 | 6.5 | 2321 | 73 | 

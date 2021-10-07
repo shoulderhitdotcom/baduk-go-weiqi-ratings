@@ -7,11 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-07 | 第78期本因坊戦予選 | Chino Tadahiko | Yoda Norimoto | Win | W+18.5 | 6.5 | 3144 | -3 | 
+| 2021-09-30 | 第47期名人戦予選 | Ida Atsushi | Yoda Norimoto | Lose | B+1.5 | 6.5 | 3147 | -57 | 
 | 2021-09-07 | 第26回三星火災杯日本予選 | Yoda Norimoto | Mimura Tomoyasu | Win | B+2.5 | 6.5 | 3204 | -18 | 
 | 2021-08-26 | 第47期名人戦予選 | Yoda Norimoto | Terayama Rei | Win | B+3.5 | 6.5 | 3222 | -2 | 
 | 2021-08-19 | 第46期棋聖戦Aリーグ | Hane Naoki | Yoda Norimoto | Lose | B+R | 6.5 | 3224 | 38 | 
 | 2021-08-05 | 第47期名人戦予選  | Yoda Norimoto | Koyama Kuya | Win | B+R | 6.5 | 3186 | 26 | 
-| 2021-07-15 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Hsu Chiayuan | Lose | W+6.5 | 6.5 | 3160 | 0 | 
 | 2021-07-15 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Hsu Chiayuan | Lose | W+6.5 | 6.5 | 3160 | -40 | 
 | 2021-06-24 | 第60期十段戦予選 | Mochizuki Kenichi | Yoda Norimoto | Lose | B+3.5 | 6.5 | 3200 | 10 | 
 | 2021-06-10 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Mutsuura Yuta | Win | B+R | 6.5 | 3190 | 24 | 

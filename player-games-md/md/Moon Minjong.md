@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-07 | 第3期ソパルコサノル最高棋士決定戦予選 | Oh Yujin | Moon Minjong | Win | W+R | 6.5 | 3282 | 24 | 
 | 2021-09-24 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Yeongkyu | Moon Minjong | Win | W+R | 6.5 | 3258 | 61 | 
 | 2021-09-02 | 第3期ソパルコサノル最高棋士決定戦予選 | Moon Minjong | Jen Youngkyu | Win | B+R | 6.5 | 3197 | 3197 | 
 | 2021-07-26 | 2021陜川歴代英才vs女子頂上連勝対抗戦第7局 | Moon Minjong | Oh Yujin | Win | B+R | 6.5 | missing | -3256 | 

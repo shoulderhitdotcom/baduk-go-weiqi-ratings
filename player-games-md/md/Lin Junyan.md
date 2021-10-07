@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-07 | 第14期棋王戦（台湾）リーグ | Chen Qirui | Lin Junyan | Win | W+R | 6.5 | 3260 | 3260 | 
+| 2021-10-04 | 第14期棋王戦（台湾）リーグ | Lin Junyan | Xiao Zhenghao | Win | B+R | 6.5 | missing | -3229 | 
 | 2021-10-03 | 第9期中環碁聖戦16強戦 | Lin Xinwei | Lin Junyan | Win | W+R | 6.5 | 3229 | 1 | 
 | 2021-09-26 | 第9期中環碁聖戦 |  | Lin Junyan | Win | W+7.5 | 6.5 | 3228 | -15 | 
 | 2021-09-22 | 第9期中環碁聖戦 | Lin Junyan | Chen Yida | Win | B+R | 6.5 | 3243 | -4 | 

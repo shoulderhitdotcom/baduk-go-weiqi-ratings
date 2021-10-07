@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-07 | 第3期ソパルコサノル最高棋士決定戦予選 | Oh Yujin | Moon Minjong | Lose | W+R | 6.5 | 3067 | -9 | 
+| 2021-09-20 | 第15回GGオークション杯女流対シニア連勝対抗戦第17局 | Oh Yujin | An Joyeong | Lose | W+R | 6.5 | 3076 | 1 | 
 | 2021-09-17 | 第26期女流国手戦2回戦 | Oh Yujin | Cho Hyeyeon | Win | B+R | 6.5 | 3075 | 0 | 
 | 2021-09-14 | 第15回GGオークション杯女流対シニア連勝対抗戦第16局 | Jimmy Cha | Oh Yujin | Win | W+R | 6.5 | 3075 | 1 | 
 | 2021-09-13 | 第15回GGオークション杯女流対シニア連勝対抗戦第15局 | Choi Kyubyeong | Oh Yujin | Win | W+R | 6.5 | 3074 | 1 | 

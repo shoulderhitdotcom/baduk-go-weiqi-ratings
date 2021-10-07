@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-07 | 第47期名人戦予選 | Sada Atsushi | Takao Shinji | Lose | W+R | 6.5 | 3107 | 3107 | 
+| 2021-10-04 | 第77期本因坊戦リーグ | Shibano Toramaru | Sada Atsushi | Win | W+R | 6.5 | missing | -3070 | 
 | 2021-09-30 | 第65期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Sada Atsushi | Yu Zhengqi | Lose | W+R | 6.5 | 3070 | -14 | 
 | 2021-09-16 | 第46期棋聖戦Cリーグ |  | Sada Atsushi | Win | W+1.5 | 6.5 | 3084 | -40 | 
 | 2021-08-19 | 第65期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yu Zhengqi | Sada Atsushi | Lose | B+R | 6.5 | 3124 | -43 | 

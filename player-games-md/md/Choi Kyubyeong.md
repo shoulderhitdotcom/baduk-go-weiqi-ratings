@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-07 | 2021韓国シニア囲碁リーグ | Kim Dongmyeon | Choi Kyubyeong | Win | W+9.5 | 6.5 | 2872 | 67 | 
+| 2021-09-27 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Seo Bongsoo | Lose | W+R | 6.5 | 2805 | 24 | 
 | 2021-09-14 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Kim Kihun | Win | B+2.5 | 6.5 | 2781 | 1 | 
 | 2021-09-13 | 第15回GGオークション杯女流対シニア連勝対抗戦第15局 | Choi Kyubyeong | Oh Yujin | Lose | W+R | 6.5 | 2780 | 58 | 
 | 2021-09-06 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Seo Nungwuk | Win | B+33.5 | 6.5 | 2722 | 37 | 

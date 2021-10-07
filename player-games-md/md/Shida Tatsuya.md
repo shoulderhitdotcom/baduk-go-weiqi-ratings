@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-07 | 第47期名人戦予選 | Shida Tatsuya | Kiyonari Tetsuya | Win | B+4.5 | 6.5 | 3100 | 3100 | 
+| 2021-08-12 | 第46期棋聖戦Bリーグ | Shida Tatsuya | Fujita Akihiko | Lose | W+2.5 | 6.5 | missing | -2947 | 
+| 2021-08-05 | 第60期十段戦予選 | Shida Tatsuya | Mutsuura Yuta | Win | B+R | 6.5 | 2947 | 111 | 
 | 2021-06-17 | 第77期本因坊戦予選 | Shida Tatsuya | Seto Taiki | Win | B+4.5 | 6.5 | 2836 | 218 | 
 | 2021-05-27 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Hsu Chiayuan | Shida Tatsuya | Lose | B+0.5 | 6.5 | 2618 | 17 | 
 | 2021-04-12 | 第69期王座戦予選 | Shida Tatsuya | Koyama Kuya | Lose | W+R | 6.5 | 2601 | -361 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Ke Jie | Tang Weixing | Lose | B+R | 7.5 | 3527 | 2 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Park Junghwan | Tang Weixing | Lose | B+R | 7.5 | 3525 | -9 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Fan Yin | Tang Weixing | Win | W+R | 7.5 | 3534 | 22 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Li Weiqing | Tang Weixing | Lose | B+R | 7.5 | 3512 | -22 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Tan Xiao | Jiang Weijie | Win | B+R | 7.5 | 3495 | 17 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Li Zerui | Tan Xiao | Win | W+R | 7.5 | 3478 | -2 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Tan Xiao | Win | W+R | 7.5 | 3480 | 19 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Tan Xiao | Chen Zijian | Lose | W+R | 7.5 | 3461 | -25 | 

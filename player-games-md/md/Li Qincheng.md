@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Yang Dingxin | Li Qincheng | Win | W+R | 7.5 | 3625 | 18 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Shi Yue | Li Qincheng | Lose | B+R | 7.5 | 3607 | -22 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Li Qincheng | Yang Kaiwen | Win | B+R | 7.5 | 3629 | 26 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Zhou Hexi | Li Qincheng | Win | W+R | 7.5 | 3603 | -7 | 

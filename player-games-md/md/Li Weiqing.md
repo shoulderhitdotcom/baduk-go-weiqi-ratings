@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Li Weiqing | Shi Yue | Lose | W+R | 7.5 | 3590 | -7 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Ke Jie | Li Weiqing | Lose | B+R | 7.5 | 3597 | -12 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Li Weiqing | Ding Hao | Lose | W+R | 7.5 | 3609 | 9 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Li Weiqing | Tang Weixing | Win | B+R | 7.5 | 3600 | -5 | 

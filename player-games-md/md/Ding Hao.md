@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Ding Hao | Chen Yaoye | Win | B+1¾ | 7.5 | 3673 | 9 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Ding Hao | Iyama Yuta | Lose | W+R | 7.5 | 3664 | -18 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Li Weiqing | Ding Hao | Win | W+R | 7.5 | 3682 | 22 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Ding Hao | Tuo Jiaxi | Win | B+2¾ | 7.5 | 3660 | -6 | 

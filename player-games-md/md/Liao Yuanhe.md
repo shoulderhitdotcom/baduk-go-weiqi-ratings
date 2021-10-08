@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Xie Ke | Liao Yuanhe | Lose | B+R | 7.5 | 3576 | -3 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Xie Erhao | Liao Yuanhe | Lose | B+¾ | 7.5 | 3579 | -17 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Shi Yulai | Win | B+R | 7.5 | 3596 | 19 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Peng Liyao | Liao Yuanhe | Win | W+¼ | 7.5 | 3577 | -8 | 

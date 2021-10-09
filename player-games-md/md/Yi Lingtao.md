@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Yi Lingtao | Tan Xiao | Lose | W+R | 7.5 | 3494 | 0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Yi Lingtao | Win | W+R | 7.5 | 3494 | 6 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Chen Zijian | Lose | W+2¼ | 7.5 | 3488 | 16 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Yi Lingtao | Lose | B+1¾ | 7.5 | 3472 | -25 | 

@@ -7,10 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-09 | 第3回中国女子囲碁国手戦予選 |  | Fang Ruoxi | Win | W+R | 7.5 | 3016 | -13 | 
+| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Fang Ruoxi | Li Qincheng | Lose | W+R | 7.5 | 3029 | 52 | 
 | 2021-09-03 | 第9回中国女子囲碁甲級リーグ | Fang Ruoxi |  | Win | B+R | 7.5 | 2977 | 3 | 
 | 2021-08-27 | 第12期中国竜星戦予選 | Fang Ruoxi | Li He | Lose | W+R | 7.5 | 2974 | -25 | 
 | 2021-08-19 | 第26回三星火災杯中国予選 | Fang Ruoxi | Li He | Lose | W+R | 6.5 | 2999 | 2999 | 
-| 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 |  | Fang Ruoxi | Win | W+R | 7.5 | missing | -2945 | 
+| 2021-07-20 | 第4回呉清源杯世界女子囲碁選手権3回戦 | Cho Seungah | Fang Ruoxi | Win | W+R | 7.5 | missing | -2945 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Fang Ruoxi | Rui Naiwei | Win | B+R | 7.5 | 2945 | 9 | 
 | 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Fang Ruoxi | Yin Mingming | Win | B+R | 7.5 | 2936 | -20 | 
 | 2021-06-10 | 第4回呉清源杯中国予選 | Fang Ruoxi |  | Win | B+R | 7.5 | 2956 | 14 | 
@@ -48,7 +50,7 @@
 | 2020-07-31 | 第8回中国女子囲碁甲級リーグ第4節 | Rui Naiwei | Fang Ruoxi | Win | W+R | 7.5 | 2868 | 23 | 
 | 2020-07-29 | 第8回中国女子囲碁甲級リーグ第2節 | Lu Jia | Fang Ruoxi | Lose | B+1¾ | 7.5 | 2845 | -34 | 
 | 2020-07-28 | 第8回中国女子囲碁甲級リーグ第1節 | Fang Ruoxi | Lu Minquan | Lose | W+R | 7.5 | 2879 | -21 | 
-| 2020-05-13 | 第24期馬橋杯中国囲碁新人王戦2回戦 | Fang Ruoxi |  | Lose | W+R | 7.5 | 2900 | 21 | 
+| 2020-05-13 | 第24期馬橋杯中国囲碁新人王戦2回戦 | Fang Ruoxi | Wang Shuo | Lose | W+R | 7.5 | 2900 | 21 | 
 | 2020-05-12 | 第24期馬橋杯中国囲碁新人王戦1回戦 |  | Fang Ruoxi | Win | W+R | 7.5 | 2879 | 106 | 
 | 2019-12-15 | 第11期中国竜星戦予選 | Wang Chenxing | Fang Ruoxi | Lose | B+R | 7.5 | 2773 | -15 | 
 | 2019-12-06 | 閬中古城杯第2期中国女子囲棋名人戦8強戦 | Fang Ruoxi | Li He | Lose | W+R | 7.5 | 2788 | -17 | 

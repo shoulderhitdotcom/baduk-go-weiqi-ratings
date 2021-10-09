@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Li Xuanhao | Fan Tingyu | Lose | B+R | 7.5 | 3548 | -8 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Huang Yunsong | Fan Tingyu | Win | W+R | 7.5 | 3556 | 15 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Fan Tingyu | Win | W+R | 7.5 | 3541 | 4 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Chen Hao | Win | B+R | 7.5 | 3537 | 18 | 

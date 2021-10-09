@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Xie Ke | Ke Jie | Lose | W+R | 7.5 | 3578 | -1 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Xie Ke | Liao Yuanhe | Win | B+R | 7.5 | 3579 | 15 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Rong Yi | Xie Ke | Win | W+R | 7.5 | 3564 | 5 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Gu Zihao | Xie Ke | Win | W+R | 7.5 | 3559 | 30 | 

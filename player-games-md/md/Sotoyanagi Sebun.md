@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-09 | 第46期新人王戦決勝三番勝負第2局  | Ueno Asami | Sotoyanagi Sebun | Lose | B+R | 6.5 | 3268 | 3268 | 
 | 2021-09-20 | 第46期新人王戦決勝三番勝負第1局  | Sotoyanagi Sebun | Ueno Asami | Win | B+R | 6.5 | missing | -3004 | 
 | 2021-07-22 | 第46期新人王戦準決勝 | Koyama Kuya | Sotoyanagi Sebun | Win | W+0.5 | 6.5 | 3004 | 205 | 
 | 2021-05-03 | 第46期新人王戦3回戦 |  | Sotoyanagi Sebun | Win | W+R | 6.5 | 2799 | 113 | 

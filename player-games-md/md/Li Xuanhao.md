@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Li Xuanhao | Fan Tingyu | Win | B+R | 7.5 | 3553 | 11 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Li Xuanhao | Lian Xiao | Win | B+R | 7.5 | 3542 | 15 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Zhou Hexi | Win | B+R | 7.5 | 3527 | 0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Guo Xinyi | Win | B+R | 7.5 | 3527 | 22 | 

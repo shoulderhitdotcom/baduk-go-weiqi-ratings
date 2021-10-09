@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Xie Erhao | Tao Xinran | Win | W+R | 7.5 | 3533 | 17 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Tao Xinran | Lose | B+R | 7.5 | 3516 | -8 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Tao Xinran | Park Junghwan | Lose | W+R | 7.5 | 3524 | 13 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Ke Jie | Tao Xinran | Lose | B+R | 7.5 | 3511 | -17 | 

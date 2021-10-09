@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Yang Kaiwen | Shi Yue | Lose | W+R | 7.5 | 3529 | -6 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Li Qincheng | Yang Kaiwen | Lose | B+R | 7.5 | 3535 | 3 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tu Xiaoyu | Lose | W+1¼ | 7.5 | 3532 | -27 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Fan Yin | Yang Kaiwen | Win | W+¼ | 7.5 | 3559 | 10 | 

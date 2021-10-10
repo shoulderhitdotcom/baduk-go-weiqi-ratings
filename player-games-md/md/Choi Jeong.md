@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-10 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kim Jiseok | Choi Jeong | Lose | B+R | 6.5 | 3367 | 6 | 
 | 2021-10-05 | 第15回GGオークション杯女流対シニア連勝対抗戦第22局 | Lee Changho | Choi Jeong | Win | W+R | 6.5 | 3361 | 0 | 
 | 2021-10-02 | 2021女子最高棋士決定戦（韓国）リーグ | Choi Jeong | Kim Cheayoung | Win | B+R | 6.5 | 3361 | 3 | 
 | 2021-09-30 | 第26期女流国手戦2回戦 | Choi Jeong |  | Win | B+R | 6.5 | 3358 | 21 | 

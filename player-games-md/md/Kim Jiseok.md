@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-10 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kim Jiseok | Choi Jeong | Win | B+R | 6.5 | 3581 | 2 | 
 | 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Jiseok | Song Gyusang | Win | B+R | 6.5 | 3579 | 11 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Yi Lingtao | Lose | W+R | 7.5 | 3568 | -9 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Kim Jiseok | Win | W+R | 7.5 | 3577 | 13 | 

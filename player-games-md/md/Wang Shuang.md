@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-11 | 第9回中国女子囲碁甲級リーグ | Wang Shuang |  | Win | B+¾ | 7.5 | 2996 | 9 | 
 | 2021-10-09 | 第3回中国女子囲碁国手戦予選 | Wang Shuang |  | Win | B+R | 6.5 | 2987 | 23 | 
 | 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 | Wang Shuang | Zhang Xuan | Win | B+R | 7.5 | 2964 | -1 | 
 | 2021-06-07 | 第4回呉清源杯中国予選 | Li He | Wang Shuang | Lose | B+R | 7.5 | 2965 | -14 | 

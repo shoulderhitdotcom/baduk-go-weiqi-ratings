@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-11 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Rui Naiwei | Lose | B+R | 7.5 | 3007 | -40 | 
 | 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 |  | Rui Naiwei | Lose | B+R | 7.5 | 3047 | 3 | 
 | 2021-09-23 | 第14回中国全国運動会囲碁女子個人公開組 | Wang Yubo | Rui Naiwei | Lose | B+¾ | 7.5 | 3044 | 0 | 
 | 2021-09-23 | 第14回中国全国運動会囲碁女子個人公開組 | Wang Chenxing | Rui Naiwei | Win | W+¼ | 7.5 | 3044 | -14 | 

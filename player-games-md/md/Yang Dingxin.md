@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-11 | 第7回国手山脈国際囲碁大会中国予選 | Yang Dingxin | Xie Ke | Lose | W+R | 6.5 | 3684 | 11 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Yang Dingxin | Li Qincheng | Lose | W+R | 7.5 | 3673 | -1 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Hu Yuhan | Lose | W+R | 7.5 | 3674 | -14 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Han Yizhou | Yang Dingxin | Win | W+R | 7.5 | 3688 | 18 | 

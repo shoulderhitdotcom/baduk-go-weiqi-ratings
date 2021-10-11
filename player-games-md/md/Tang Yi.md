@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-11 | 第9回中国女子囲碁甲級リーグ | Tang Yi |  | Win | B+2¾ | 7.5 | 2829 | 16 | 
 | 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 | Tang Yi | Yu Zhiying | Lose | W+R | 7.5 | 2813 | -53 | 
 | 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Song Ronghui | Tang Yi | Win | W+R | 7.5 | 2866 | 26 | 
 | 2021-05-19 | 第9回中国女子囲碁甲級リーグ | Tang Yi | Cai Bihan | Lose | W+R | 7.5 | 2840 | -32 | 

@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-11 | 2021韓国シニア囲碁リーグ | Park Seungmun | Kim JongJoon | Lose | W+3.5 | 6.5 | 2596 | 2596 | 
+| 2021-10-04 | 2021韓国シニア囲碁リーグ | Park Seungmun | Chang Suyeong | Win | B+2.5 | 6.5 | missing | -2556 | 
+| 2021-09-27 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Park Seungmun | Win | W+R | 6.5 | 2556 | -9 | 
 | 2021-09-14 | 2021韓国シニア囲碁リーグ | Park Seungmun | Kang Hun | Lose | W+R | 6.5 | 2565 | -21 | 
 | 2021-09-09 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Park Seungmun | Lose | B+8.5 | 6.5 | 2586 | 28 | 
 | 2021-08-30 | 2021韓国シニア囲碁リーグ | Park Yeongchan | Park Seungmun | Win | W+11.5 | 6.5 | 2558 | 34 | 

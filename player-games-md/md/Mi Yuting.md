@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-11 | 第12期中国竜星戦Bブロック8回戦 | Mi Yuting | Huang Yunsong | Win | B+R | 7.5 | 3648 | 23 | 
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Mi Yuting | Chen Xian | Win | B+R | 7.5 | 3625 | 15 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Peng Liyao | Mi Yuting | Win | W+R | 7.5 | 3610 | 0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Mi Yuting | Zhou Hexi | Win | B+R | 7.5 | 3610 | 22 | 

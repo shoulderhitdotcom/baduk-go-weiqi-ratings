@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-11 | 第7回国手山脈国際囲碁大会中国予選 | Ding Hao | Chen Xian | Win | B+2.5 | 6.5 | 3710 | 29 | 
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Tuo Jiaxi | Ding Hao | Win | W+R | 7.5 | 3681 | 8 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Ding Hao | Chen Yaoye | Win | B+1¾ | 7.5 | 3673 | 9 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Ding Hao | Iyama Yuta | Lose | W+R | 7.5 | 3664 | -18 | 

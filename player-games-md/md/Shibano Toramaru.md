@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-11 | 第23回農心辛ラーメン杯世界囲碁最強戦第1戦  | Weon Seongjin | Shibano Toramaru | Lose | B+R | 6.5 | 3314 | 3314 | 
+| 2021-10-04 | 第77期本因坊戦リーグ | Shibano Toramaru | Sada Atsushi | Lose | W+R | 6.5 | missing | -3323 | 
 | 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第2戦 | Shibano Toramaru | Lin Lixiang | Win | B+R | 6.5 | 3323 | 3 | 
 | 2021-09-30 | 第46期棋聖戦挑戦者決定トーナメント  | Shibano Toramaru | Sun Zhe | Win | B+2.5 | 6.5 | 3320 | 11 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Chen Yichun | Shibano Toramaru | Win | W+R | 7.5 | 3309 | 27 | 

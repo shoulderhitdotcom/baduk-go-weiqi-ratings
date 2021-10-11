@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-11 | 第9回中国女子囲碁甲級リーグ |  | Lu Minquan | Win | W+R | 7.5 | 3154 | 18 | 
 | 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 | Lu Minquan | Yin Qu | Lose | W+1¼ | 7.5 | 3136 | -62 | 
 | 2021-09-02 | 第12期中国竜星戦予選 | Lu Minquan | Zhou Hongyu | Lose | W+R | 7.5 | 3198 | -16 | 
 | 2021-09-01 | 第12期中国竜星戦予選 | Lu Minquan | Cao Youyin | Win | B+2¾ | 7.5 | 3214 | 7 | 

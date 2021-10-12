@@ -1,6 +1,6 @@
 ## this script computes the ranking based on the latest data
-
-const PATH = "c:/git/baduk-go-weiqi-ratings/"
+const PATH = @__DIR__
+const WSPATH = "c:/weiqi/web-scraping/" # webscraping results path
 using Pkg; Pkg.activate(PATH); cd(PATH)
 using Revise: includet
 using DataFrames, DataFrameMacros
@@ -15,9 +15,12 @@ using Revise: includet
 
 includet("utils.jl")
 
+# rating offset
+const OFFSET = 3800-6.5/log(10)*400
+
 # the intended syntax
 # @target = tbl = @chain @watch_path "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
-tbl = @chain "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
+tbl = @chain joinpath(WSPATH, "kifu-depot-games-with-sgf.jdf/") begin
     JDF.load()
     DataFrame()
     @transform :date = parse(Date, :date)
@@ -79,7 +82,7 @@ end
     estimate_ratings_and_save_records(tbl);
 
 
-const OFFSET = 3800-6.5/log(10)*400
+
 #infrequent_threshold = 8
 
 # @target should allow the return of a path where things are stored
@@ -140,7 +143,7 @@ pings_for_md = select(
 
 JDF.save("pings_for_md.jdf", pings_for_md)
 
-CSV.write("c:/data/tmp.csv", pings_for_md)
+# CSV.write("c:/data/tmp.csv", pings_for_md)
 
 
 ## make a GLM solution

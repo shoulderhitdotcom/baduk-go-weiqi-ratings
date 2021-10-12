@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-12 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Huang Ziping | Lose | B+R | 7.5 | 2506 | 0 | 
 | 2021-10-11 | 第9回中国女子囲碁甲級リーグ | Huang Ziping |  | Lose | W+R | 7.5 | 2506 | 2 | 
 | 2021-10-08 | 第3回中国女子囲碁国手戦予選 |  | Huang Ziping | Lose | B+R | 7.5 | 2504 | -60 | 
 | 2021-09-29 | 第18回建橋杯女子囲碁オープン戦3回戦 |  | Huang Ziping | Lose | B+R | 7.5 | 2564 | -30 | 

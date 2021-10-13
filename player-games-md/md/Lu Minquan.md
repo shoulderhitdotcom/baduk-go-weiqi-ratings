@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-13 | 第9回中国女子囲碁甲級リーグ | Kim Hyeoimin | Lu Minquan | Win | W+R | 7.5 | 3161 | 7 | 
 | 2021-10-12 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Tang Yi | Win | B+1¾ | 7.5 | 3154 | 0 | 
 | 2021-10-11 | 第9回中国女子囲碁甲級リーグ |  | Lu Minquan | Win | W+R | 7.5 | 3154 | 18 | 
 | 2021-09-27 | 第18回建橋杯女子囲碁オープン戦1回戦 | Lu Minquan | Yin Qu | Lose | W+1¼ | 7.5 | 3136 | -62 | 

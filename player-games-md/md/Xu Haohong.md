@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-13 | 第7回国手山脈国際囲碁大会台湾予選 | Lin Lixiang | Xu Haohong | Win | W+R | 6.5 | 3358 | 6 | 
+| 2021-10-07 | 第9期中環碁聖戦16強戦 | Liu Yaowen | Xu Haohong | Win | W+R | 6.5 | 3352 | 13 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Fan Yin | Xu Haohong | Lose | B+R | 7.5 | 3339 | -6 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Xu Haohong | Li Zerui | Lose | W+R | 7.5 | 3345 | 3 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Xu Haohong | Xie Erhao | Win | B+¾ | 7.5 | 3342 | -1 | 

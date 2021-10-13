@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-13 | 第7回国手山脈国際囲碁大会台湾予選 | Wang Yuanjun | Chen Shiyuan | Lose | B+R | 6.5 | 3012 | 11 | 
+| 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 |  | Chen Shiyuan | Win | W+R | 6.5 | 3001 | 0 | 
+| 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Yang Zixuan | Chen Shiyuan | Win | W+R | 6.5 | 3001 | 15 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Chen Shiyuan |  | Win | B+R | 6.5 | 2986 | 6 | 
 | 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第2戦 | Hirose Yuichi | Chen Shiyuan | Win | W+R | 6.5 | 2980 | 0 | 
 | 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第1戦 | Cho U | Chen Shiyuan | Win | W+R | 6.5 | 2980 | 25 | 

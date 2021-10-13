@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-13 | 第7回国手山脈国際囲碁大会台湾予選 | Jian Jingting | Lin Junyan | Win | B+R | 6.5 | 3152 | 5 | 
+| 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Li Wei | Jian Jingting | Win | W+5.5 | 6.5 | 3147 | 0 | 
+| 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Lin Shuyang | Jian Jingting | Win | W+R | 6.5 | 3147 | 5 | 
 | 2021-10-07 | 第14期棋王戦（台湾）リーグ | Lin Lixiang | Jian Jingting | Lose | B+0.5 | 6.5 | 3142 | -10 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 |  | Jian Jingting | Win | W+R | 6.5 | 3152 | 8 | 
 | 2021-10-05 | 2021新人王戦（台湾）準決勝  | Jian Jingting | Lin Shixun | Lose | W+R | 7.5 | 3144 | 3144 | 

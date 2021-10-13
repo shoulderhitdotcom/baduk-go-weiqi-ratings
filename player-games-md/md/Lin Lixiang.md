@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-13 | 第7回国手山脈国際囲碁大会台湾予選 | Lin Lixiang | Xu Haohong | Lose | W+R | 6.5 | 3096 | 4 | 
+| 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Lin Shixun | Lin Lixiang | Win | W+R | 6.5 | 3092 | 5 | 
 | 2021-10-07 | 第14期棋王戦（台湾）リーグ | Lin Lixiang | Jian Jingting | Win | B+0.5 | 6.5 | 3087 | 6 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Xu Jingen | Lin Lixiang | Win | W+R | 6.5 | 3081 | 0 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Chen Xi | Lin Lixiang | Win | W+R | 6.5 | 3081 | 3081 | 

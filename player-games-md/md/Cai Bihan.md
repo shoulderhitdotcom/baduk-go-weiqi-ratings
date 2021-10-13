@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-13 | 第9回中国女子囲碁甲級リーグ |  | Cai Bihan | Lose | B+2¾ | 7.5 | 2923 | 13 | 
 | 2021-10-12 | 第9回中国女子囲碁甲級リーグ | Cai Bihan | Yin Qu | Win | B+R | 7.5 | 2910 | 0 | 
 | 2021-10-11 | 第9回中国女子囲碁甲級リーグ | Song Ronghui | Cai Bihan | Win | W+R | 7.5 | 2910 | 34 | 
 | 2021-09-29 | 第18回建橋杯女子囲碁オープン戦3回戦 | Li He | Cai Bihan | Lose | B+R | 7.5 | 2876 | -30 | 

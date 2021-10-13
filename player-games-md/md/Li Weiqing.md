@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-13 | 第23回農心辛ラーメン杯世界囲碁最強戦第3戦  | Hsu Chiayuan | Li Weiqing | Lose | B+R | 6.5 | 3601 | -15 | 
 | 2021-10-12 | 第23回農心辛ラーメン杯世界囲碁最強戦第2戦 | Weon Seongjin | Li Weiqing | Win | W+R | 6.5 | 3616 | 26 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Li Weiqing | Shi Yue | Lose | W+R | 7.5 | 3590 | -7 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Ke Jie | Li Weiqing | Lose | B+R | 7.5 | 3597 | -12 | 

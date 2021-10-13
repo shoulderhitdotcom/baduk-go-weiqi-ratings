@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-13 | 第7回国手山脈国際囲碁大会中国予選 | Huang Yunsong | Tu Xiaoyu | Win | B+R | 6.5 | 3570 | 8 | 
 | 2021-10-11 | 第12期中国竜星戦Bブロック8回戦 | Mi Yuting | Huang Yunsong | Lose | B+R | 7.5 | 3562 | 7 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Huang Yunsong | Fan Tingyu | Lose | W+R | 7.5 | 3555 | 0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Liu Qifeng | Huang Yunsong | Lose | B+R | 7.5 | 3555 | -18 | 

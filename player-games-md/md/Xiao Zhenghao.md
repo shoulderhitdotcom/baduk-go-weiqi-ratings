@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-14 | 第14期棋王戦（台湾）リーグ | Chen Qirui | Xiao Zhenghao | Lose | B+R | 6.5 | 3093 | -1 | 
 | 2021-10-07 | 第14期棋王戦（台湾）リーグ  | Wang Yuanjun | Xiao Zhenghao | Win | W+R | 6.5 | 3094 | 3094 | 
 | 2021-10-04 | 第14期棋王戦（台湾）リーグ | Lin Junyan | Xiao Zhenghao | Lose | B+R | 6.5 | missing | -3066 | 
 | 2021-09-30 | 第14期棋王戦（台湾）予選  | Xiao Zhenghao | Li Wei | Win | B+R | 6.5 | 3066 | 4 | 

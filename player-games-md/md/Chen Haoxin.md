@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-14 | 第12期中国竜星戦準決勝 | Chen Haoxin | Gu Zihao | Lose | W+R | 7.5 | 3488 | 17 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Chen Haoxin | Win | W+¼ | 7.5 | 3471 | 13 | 
 | 2021-09-15 | 第12期中国竜星戦Bブロック5回戦 | Chen Haoxin | Zhang Tao | Lose | W+R | 7.5 | 3458 | -28 | 
 | 2021-09-14 | 第12期中国竜星戦Bブロック4回戦 |  | Chen Haoxin | Win | W+R | 7.5 | 3486 | 0 | 

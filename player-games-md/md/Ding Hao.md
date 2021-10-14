@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-14 | 第7回国手山脈国際囲碁大会中国予選 | Ding Hao | Huang Yunsong | Lose | W+R | 6.5 | 3701 | -9 | 
 | 2021-10-11 | 第7回国手山脈国際囲碁大会中国予選 | Ding Hao | Chen Xian | Win | B+2.5 | 6.5 | 3710 | 29 | 
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Tuo Jiaxi | Ding Hao | Win | W+R | 7.5 | 3681 | 8 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Ding Hao | Chen Yaoye | Win | B+1¾ | 7.5 | 3673 | 9 | 

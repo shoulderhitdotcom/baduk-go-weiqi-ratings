@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-14 | 第12期中国竜星戦準決勝 | Mi Yuting | Liao Yuanhe | Win | B+R | 7.5 | 3673 | 8 | 
 | 2021-10-13 | 第12期中国竜星戦Bブロック10回戦 | Mi Yuting | Ke Jie | Win | B+R | 7.5 | 3665 | 10 | 
 | 2021-10-12 | 第12期中国竜星戦Bブロック9回戦 | Jiang Weijie | Mi Yuting | Win | W+R | 7.5 | 3655 | 7 | 
 | 2021-10-11 | 第12期中国竜星戦Bブロック8回戦 | Mi Yuting | Huang Yunsong | Win | B+R | 7.5 | 3648 | 23 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-14 | 第9回中国女子囲碁甲級リーグ | Song Ronghui |  | Win | B+1¾ | 7.5 | 2860 | -5 | 
 | 2021-10-13 | 第9回中国女子囲碁甲級リーグ | Song Ronghui |  | Lose | W+R | 7.5 | 2865 | 1 | 
 | 2021-10-11 | 第9回中国女子囲碁甲級リーグ | Song Ronghui | Cai Bihan | Lose | W+R | 7.5 | 2864 | -16 | 
 | 2021-10-09 | 第3回中国女子囲碁国手戦予選 | Song Ronghui |  | Lose | W+R | 7.5 | 2880 | -44 | 

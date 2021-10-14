@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-14 | 第47期碁聖戦予選 | Hong Seokui | Seto Taiki | Win | B+R | 6.5 | 3164 | 223 | 
+| 2021-09-09 | 第46期棋聖戦Bリーグ | Hong Seokui | Rin Kanketsu | Win | B+R | 6.5 | 2941 | -118 | 
 | 2021-09-01 | 第47期名人戦予選 | Hong Seokui | Murakawa Daisuke | Lose | W+1.5 | 6.5 | 3059 | 3 | 
 | 2021-07-14 | 第47期名人戦予選 | Yamazaki Yoshihiro | Hong Seokui | Win | W+R | 6.5 | 3056 | 5 | 
 | 2021-07-07 | 第46期棋聖戦Bリーグ | Hong Seokui |  | Win | B+4.5 | 6.5 | 3051 | 19 | 

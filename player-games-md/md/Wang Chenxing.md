@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-14 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing |  | Win | B+R | 7.5 | 3045 | 11 | 
 | 2021-10-13 | 第9回中国女子囲碁甲級リーグ | Gao Xing | Wang Chenxing | Win | W+R | 7.5 | 3034 | 8 | 
 | 2021-10-12 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Chen Yiming | Win | B+R | 7.5 | 3026 | 0 | 
 | 2021-10-11 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Rui Naiwei | Win | B+R | 7.5 | 3026 | 26 | 

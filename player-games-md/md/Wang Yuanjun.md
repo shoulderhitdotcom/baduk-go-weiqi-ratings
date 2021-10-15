@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-15 | 第7回国手山脈国際囲碁大会台湾予選 | Jian Jingting | Wang Yuanjun | Win | W+R | 6.5 | 3262 | 4 | 
 | 2021-10-14 | 第14期棋王戦（台湾）リーグ | Cai Chengwei | Wang Yuanjun | Win | W+R | 6.5 | 3258 | 11 | 
 | 2021-10-13 | 第7回国手山脈国際囲碁大会台湾予選 | Wang Yuanjun | Chen Shiyuan | Win | B+R | 6.5 | 3247 | 17 | 
 | 2021-10-07 | 第14期棋王戦（台湾）リーグ  | Wang Yuanjun | Xiao Zhenghao | Lose | W+R | 6.5 | 3230 | -2 | 

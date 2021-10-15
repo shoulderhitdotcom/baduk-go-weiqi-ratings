@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-15 | 2021女子最高棋士決定戦（韓国）リーグ | Cho Hyeyeon | Choi Jeong | Lose | W+R | 6.5 | 2946 | 12 | 
 | 2021-10-08 | 2021女子最高棋士決定戦（韓国）リーグ | Cho Hyeyeon | Lee Minjin | Win | B+4.5 | 6.5 | 2934 | -16 | 
 | 2021-09-24 | 第7回韓国女子囲碁リーグ優勝決定戦第2戦 | Cho Hyeyeon |  | Win | B+R | 6.5 | 2950 | -12 | 
 | 2021-09-17 | 第26期女流国手戦2回戦 | Oh Yujin | Cho Hyeyeon | Lose | B+R | 6.5 | 2962 | -45 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-16 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Yu Zhiying | Lose | W+1¾ | 7.5 | 3242 | 75 | 
 | 2021-10-14 | 第9回中国女子囲碁甲級リーグ | Gao Xing | Lu Minquan | Win | W+R | 7.5 | 3167 | 6 | 
 | 2021-10-13 | 第9回中国女子囲碁甲級リーグ | Kim Hyeoimin | Lu Minquan | Win | W+R | 7.5 | 3161 | 7 | 
 | 2021-10-12 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Tang Yi | Win | B+1¾ | 7.5 | 3154 | 0 | 

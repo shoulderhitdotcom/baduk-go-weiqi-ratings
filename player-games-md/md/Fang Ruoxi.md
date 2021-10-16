@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-16 | 第9回中国女子囲碁甲級リーグ | Fang Ruoxi |  | Win | B+R | 7.5 | 3096 | 90 | 
 | 2021-10-14 | 第9回中国女子囲碁甲級リーグ | Lu Jia | Fang Ruoxi | Win | W+4¼ | 7.5 | 3006 | 0 | 
 | 2021-10-13 | 第9回中国女子囲碁甲級リーグ | Fang Ruoxi | Wang Shuang | Lose | W+1¼ | 7.5 | 3006 | 8 | 
 | 2021-10-12 | 第9回中国女子囲碁甲級リーグ | Fang Ruoxi |  | Win | B+R | 7.5 | 2998 | 0 | 

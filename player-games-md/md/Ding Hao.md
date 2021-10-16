@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-16 | 第17回倡棋杯中国プロ囲碁選手権戦決勝三番勝負第1局 | Ding Hao | Yang Dingxin | Win | B+R | 7.5 | 3797 | 96 | 
 | 2021-10-14 | 第7回国手山脈国際囲碁大会中国予選 | Ding Hao | Huang Yunsong | Lose | W+R | 6.5 | 3701 | -9 | 
 | 2021-10-11 | 第7回国手山脈国際囲碁大会中国予選 | Ding Hao | Chen Xian | Win | B+2.5 | 6.5 | 3710 | 29 | 
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Tuo Jiaxi | Ding Hao | Win | W+R | 7.5 | 3681 | 8 | 

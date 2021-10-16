@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-16 | 第9回中国女子囲碁甲級リーグ | Chen Yiming | Pan Yang | Lose | W+R | 7.5 | 2972 | 75 | 
 | 2021-10-14 | 第9回中国女子囲碁甲級リーグ | Chen Yiming | Oh Yujin | Lose | W+R | 7.5 | 2897 | 4 | 
 | 2021-10-13 | 第9回中国女子囲碁甲級リーグ | Chen Yiming |  | Win | B+R | 7.5 | 2893 | -12 | 
 | 2021-10-12 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Chen Yiming | Lose | B+R | 7.5 | 2905 | 0 | 

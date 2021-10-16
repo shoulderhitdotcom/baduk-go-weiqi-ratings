@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-16 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Yu Zhiying | Win | W+1¾ | 7.5 | 3329 | 94 | 
 | 2021-10-14 | 第9回中国女子囲碁甲級リーグ | Li He | Yu Zhiying | Lose | B+1¾ | 7.5 | 3235 | -16 | 
 | 2021-10-13 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying |  | Win | B+R | 7.5 | 3251 | 0 | 
 | 2021-10-12 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Huang Ziping | Win | B+R | 7.5 | 3251 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-16 | 第9回中国女子囲碁甲級リーグ | Song Ronghui | Zhan Ying | Lose | B+R | 7.5 | 2686 | 67 | 
 | 2021-10-14 | 第9回中国女子囲碁甲級リーグ | Zhan Ying | Huang Ziping | Lose | W+R | 7.5 | 2619 | -40 | 
 | 2021-10-13 | 第9回中国女子囲碁甲級リーグ | Zhan Ying |  | Lose | W+R | 7.5 | 2659 | -4 | 
 | 2021-10-12 | 第9回中国女子囲碁甲級リーグ | Zhan Ying | Zhou Hongyu | Lose | W+R | 7.5 | 2663 | 0 | 

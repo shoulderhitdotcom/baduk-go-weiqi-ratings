@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-16 | 第17回倡棋杯中国プロ囲碁選手権戦決勝三番勝負第1局 | Ding Hao | Yang Dingxin | Lose | B+R | 7.5 | 3766 | 82 | 
 | 2021-10-13 | 第12期中国竜星戦Aブロック10回戦 | Gu Zihao | Yang Dingxin | Lose | B+R | 7.5 | 3684 | -7 | 
 | 2021-10-12 | 第12期中国竜星戦Aブロック9回戦 | Yang Dingxin | Lian Xiao | Win | B+R | 7.5 | 3691 | 7 | 
 | 2021-10-11 | 第7回国手山脈国際囲碁大会中国予選 | Yang Dingxin | Xie Ke | Lose | W+R | 6.5 | 3684 | 11 | 

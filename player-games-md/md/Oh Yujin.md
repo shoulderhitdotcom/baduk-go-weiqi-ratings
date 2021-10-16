@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-16 | 第9回中国女子囲碁甲級リーグ | Oh Yujin |  | Win | B+R | 7.5 | 3200 | 100 | 
 | 2021-10-14 | 第9回中国女子囲碁甲級リーグ | Chen Yiming | Oh Yujin | Win | W+R | 7.5 | 3100 | 8 | 
 | 2021-10-13 | 第9回中国女子囲碁甲級リーグ | Tang Yi | Oh Yujin | Win | W+R | 7.5 | 3092 | 25 | 
 | 2021-10-07 | 第3期ソパルコサノル最高棋士決定戦予選 | Oh Yujin | Moon Minjong | Lose | W+R | 6.5 | 3067 | -9 | 

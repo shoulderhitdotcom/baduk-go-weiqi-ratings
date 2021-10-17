@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-17 | 第9回中国女子囲碁甲級リーグ | Kim Hyeoimin | Cho Seungah | Lose | W+¼ | 7.5 | 2912 | 95 | 
 | 2021-10-14 | 第9回中国女子囲碁甲級リーグ | Kim Hyeoimin |  | Win | B+¾ | 7.5 | 2817 | 18 | 
 | 2021-10-13 | 第9回中国女子囲碁甲級リーグ | Kim Hyeoimin | Lu Minquan | Lose | W+R | 7.5 | 2799 | -36 | 
 | 2021-09-29 | 第26期女流国手戦2回戦 | Kim Cheayoung | Kim Hyeoimin | Lose | B+R | 6.5 | 2835 | -25 | 

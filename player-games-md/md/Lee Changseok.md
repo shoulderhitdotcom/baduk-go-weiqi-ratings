@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-17 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Changseok | Kim Jiseok | Lose | W+R | 6.5 | 3645 | 98 | 
 | 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Changseok | Kang Yootaek | Win | B+R | 6.5 | 3547 | 22 | 
 | 2021-09-27 | 第7回国手山脈国際囲碁大会韓国予選 | Weon Seongjin | Lee Changseok | Lose | B+R | 6.5 | 3525 | -13 | 
 | 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Lee Changseok | Park Geunho | Win | B+1.5 | 6.5 | 3538 | -21 | 

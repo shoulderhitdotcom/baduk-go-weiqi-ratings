@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-18 | 第14期棋王戦（台湾）リーグ  | Lai Junfu | Lin Junyan | Lose | W+R | 6.5 | 3290 | 93 | 
 | 2021-10-15 | 第7回国手山脈国際囲碁大会台湾予選 | Lai Junfu | Xu Haohong | Lose | W+2.5 | 6.5 | 3197 | -4 | 
 | 2021-10-14 | 第14期棋王戦（台湾）リーグ | Lai Junfu | Lin Lixiang | Win | B+R | 6.5 | 3201 | 22 | 
 | 2021-10-13 | 第7回国手山脈国際囲碁大会台湾予選 | Chen Qirui | Lai Junfu | Win | W+R | 6.5 | 3179 | 20 | 

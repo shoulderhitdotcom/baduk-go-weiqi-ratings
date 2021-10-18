@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Sedong | Baek Hyeonwoo | Lose | W+R | 6.5 | 3525 | 102 | 
+| 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Sedong | Park Jinyoung | Win | B+R | 6.5 | 3423 | 32 | 
+| 2021-07-12 | 第23回農心杯韓国予選 | Kim Sedong | An Joyeong | Lose | W+R | 6.5 | 3391 | -10 | 
 | 2021-06-24 | 第26回GSカルテックス杯プロ棋戦3回戦 | Kim Sedong | Byun Sangil | Lose | W+5.5 | 6.5 | 3401 | -30 | 
 | 2021-05-14 | 第26回GSカルテックス杯プロ棋戦2回戦 | Kang Dongyun | Kim Sedong | Win | W+R | 6.5 | 3431 | 16 | 
 | 2021-04-21 | 第4期韓国竜星戦2回戦 | Kim Sedong | Choi Cheolhan | Lose | W+9.5 | 6.5 | 3415 | -56 | 

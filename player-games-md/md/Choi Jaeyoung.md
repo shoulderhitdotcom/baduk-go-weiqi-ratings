@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Hong Mujin | Choi Jaeyoung | Lose | B+R | 6.5 | 3483 | 73 | 
 | 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Choi Jaeyoung | An Sungjoon | Win | B+R | 6.5 | 3410 | 26 | 
 | 2021-09-08 | 第3期ソパルコサノル最高棋士決定戦予選 | Choi Jaeyoung | Na Hyun | Win | B+0.5 | 6.5 | 3384 | -28 | 
 | 2021-07-13 | 第23回農心杯韓国予選 | Oh Jeonga | Choi Jaeyoung | Win | W+R | 6.5 | 3412 | -220 | 

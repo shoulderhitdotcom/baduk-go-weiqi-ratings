@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-18 | 第14期棋王戦（台湾）リーグ | Wang Yuanjun | Chen Qirui | Win | W+R | 6.5 | 3338 | 113 | 
 | 2021-10-14 | 第14期棋王戦（台湾）リーグ | Chen Qirui | Xiao Zhenghao | Win | B+R | 6.5 | 3225 | 5 | 
 | 2021-10-13 | 第7回国手山脈国際囲碁大会台湾予選 | Chen Qirui | Lai Junfu | Lose | W+R | 6.5 | 3220 | 0 | 
 | 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 |  | Chen Qirui | Win | W+R | 6.5 | 3220 | 10 | 

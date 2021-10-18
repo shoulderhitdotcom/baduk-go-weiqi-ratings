@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-18 | 第14期棋王戦（台湾）リーグ | Cai Chengwei | Lin Lixiang | Win | W+3.5 | 6.5 | 3201 | 106 | 
 | 2021-10-14 | 第14期棋王戦（台湾）リーグ | Lai Junfu | Lin Lixiang | Lose | B+R | 6.5 | 3095 | -1 | 
 | 2021-10-13 | 第7回国手山脈国際囲碁大会台湾予選 | Lin Lixiang | Xu Haohong | Lose | W+R | 6.5 | 3096 | 4 | 
 | 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Lin Shixun | Lin Lixiang | Win | W+R | 6.5 | 3092 | 5 | 

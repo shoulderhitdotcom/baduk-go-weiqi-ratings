@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-18 | 第48期天元戦予選 | Takemiya Masaki | Otake Hideo | Win | B+6.5 | 6.5 | 2734 | 103 | 
 | 2021-10-07 | 第61期十段戦予選 | Takemiya Masaki |  | Lose | W+2.5 | 6.5 | 2631 | 3 | 
 | 2021-09-09 | 第70期王座戦予選 | Shuto Shun | Takemiya Masaki | Lose | B+9.5 | 6.5 | 2628 | 2628 | 
 | 2021-08-12 | 第47期名人戦予選 | Takemiya Masaki | Cho Riyu | Lose | W+3.5 | 6.5 | missing | -2650 | 

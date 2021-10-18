@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-18 | 第9回中国女子囲碁甲級リーグ | Wang Yubo |  | Win | B+2¼ | 7.5 | 3035 | 10 | 
 | 2021-10-17 | 第9回中国女子囲碁甲級リーグ | Song Ronghui | Wang Yubo | Win | W+R | 7.5 | 3025 | 6 | 
 | 2021-10-16 | 第9回中国女子囲碁甲級リーグ | Wang Yubo | Cai Bihan | Win | B+R | 7.5 | 3019 | 94 | 
 | 2021-10-14 | 第9回中国女子囲碁甲級リーグ | Rui Naiwei | Wang Yubo | Win | W+2¼ | 7.5 | 2925 | 19 | 

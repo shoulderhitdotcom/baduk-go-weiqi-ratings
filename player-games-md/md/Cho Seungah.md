@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-18 | 第9回中国女子囲碁甲級リーグ | Cho Seungah |  | Win | B+R | 7.5 | 3278 | 5 | 
 | 2021-10-17 | 第9回中国女子囲碁甲級リーグ | Kim Hyeoimin | Cho Seungah | Win | W+¼ | 7.5 | 3273 | 79 | 
 | 2021-10-13 | 第9回中国女子囲碁甲級リーグ | Cho Seungah | Li He | Lose | W+R | 7.5 | 3194 | 9 | 
 | 2021-10-01 | 第26期女流国手戦2回戦 | Cho Seungah |  | Lose | W+0.5 | 6.5 | 3185 | 4 | 

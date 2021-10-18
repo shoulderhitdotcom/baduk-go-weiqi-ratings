@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-18 | 第14期棋王戦（台湾）リーグ | Cai Chengwei | Lin Lixiang | Lose | W+3.5 | 6.5 | 2944 | 64 | 
 | 2021-10-14 | 第14期棋王戦（台湾）リーグ | Cai Chengwei | Wang Yuanjun | Lose | W+R | 6.5 | 2880 | -3 | 
 | 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Cai Chengwei | Li Wei | Lose | W+R | 6.5 | 2883 | 7 | 
 | 2021-10-07 | 第14期棋王戦（台湾）リーグ | Cai Chengwei | Lai Junfu | Lose | W+R | 6.5 | 2876 | -12 | 

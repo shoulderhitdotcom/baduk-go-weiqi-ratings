@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-18 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu | Huang Ziping | Win | B+R | 7.5 | 3313 | 8 | 
 | 2021-10-17 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu | Tang Yi | Win | B+R | 7.5 | 3305 | -2 | 
 | 2021-10-16 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu | Li He | Win | B+R | 7.5 | 3307 | 90 | 
 | 2021-10-14 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu |  | Win | B+R | 7.5 | 3217 | 0 | 

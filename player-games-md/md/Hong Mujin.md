@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Hong Mujin | Choi Jaeyoung | Win | B+R | 6.5 | 3465 | 203 | 
 | 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Ahn Kukhyun | Hong Mujin | Win | W+3.5 | 6.5 | 3262 | 3262 | 
 | 2021-08-25 | 第26回三星火災杯韓国予選 | Hong Mujin | Kim Seongjae | Lose | W+1.5 | 6.5 | missing | -3222 | 
 | 2021-08-04 | 第4期韓国竜星戦準決勝 | Hong Mujin | Park Junghwan | Lose | W+3.5 | 6.5 | 3222 | 9 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Sedong | Baek Hyeonwoo | Win | W+R | 6.5 | 3531 | 3531 | 
+| 2021-10-04 | 第3期ソパルコサノル最高棋士決定戦予選 | Shin Jaeweon | Baek Hyeonwoo | Win | W+R | 6.5 | missing | -3386 | 
 | 2021-09-06 | 2021電子ランド杯新鋭トーナメント準決勝 | Gon Jiwoo | Baek Hyeonwoo | Lose | B+R | 6.5 | 3386 | 7 | 
 | 2021-05-07 | 第8回グロービス杯韓国予選 | Han Woojin | Baek Hyeonwoo | Lose | B+R | 6.5 | 3379 | -191 | 
 | 2021-02-27 | 2020-2021韓国囲碁リーグ | Choi Jeong | Baek Hyeonwoo | Win | W+R | 6.5 | 3570 | 4 | 
@@ -17,7 +19,7 @@
 | 2021-01-24 | 2020-2021韓国囲碁リーグ | Park Hamin | Baek Hyeonwoo | Lose | B+R | 6.5 | 3556 | -25 | 
 | 2021-01-15 | 2020-2021韓国囲碁リーグ | Kim Hyeongwoo | Baek Hyeonwoo | Win | W+2.5 | 6.5 | 3581 | 38 | 
 | 2020-12-31 | 2020-2021韓国囲碁リーグ | Baek Hyeonwoo | Kim Sedong | Win | B+R | 6.5 | 3543 | 8 | 
-| 2020-12-29 | 第4回クラウン・ヘテ杯1回戦 | Baek Hyeonwoo |  | Lose | W+2.5 | 6.5 | 3535 | -21 | 
+| 2020-12-29 | 第4回クラウン・ヘテ杯1回戦 | Baek Hyeonwoo | Kim Changhoon | Lose | W+2.5 | 6.5 | 3535 | -21 | 
 | 2020-12-24 | 2020-2021韓国囲碁リーグ | Shin Jinseo | Baek Hyeonwoo | Lose | B+R | 6.5 | 3556 | 17 | 
 | 2020-12-18 | 2020-2021韓国囲碁リーグ | Park Sangjin | Baek Hyeonwoo | Lose | B+R | 6.5 | 3539 | -59 | 
 | 2020-12-13 | 2020-2021韓国囲碁リーグ | Byun Sangil | Baek Hyeonwoo | Lose | B+R | 6.5 | 3598 | 19 | 

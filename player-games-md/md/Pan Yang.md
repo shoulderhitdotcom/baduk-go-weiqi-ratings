@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-18 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Pan Yang | Lose | B+1¾ | 7.5 | 2980 | -6 | 
 | 2021-10-17 | 第9回中国女子囲碁甲級リーグ | Pan Yang | Gao Xing | Lose | W+1¼ | 7.5 | 2986 | -14 | 
 | 2021-10-16 | 第9回中国女子囲碁甲級リーグ | Chen Yiming | Pan Yang | Win | W+R | 7.5 | 3000 | 98 | 
 | 2021-10-14 | 第9回中国女子囲碁甲級リーグ | Pan Yang | Tang Yi | Lose | W+¼ | 7.5 | 2902 | -27 | 

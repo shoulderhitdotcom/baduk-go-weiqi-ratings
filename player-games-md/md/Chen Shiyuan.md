@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-19 | 第9期中環碁聖戦8強戦 | Xu Haohong | Chen Shiyuan | Lose | B+R | 6.5 | 2963 | -49 | 
 | 2021-10-13 | 第7回国手山脈国際囲碁大会台湾予選 | Wang Yuanjun | Chen Shiyuan | Lose | B+R | 6.5 | 3012 | 11 | 
 | 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 |  | Chen Shiyuan | Win | W+R | 6.5 | 3001 | 0 | 
 | 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Yang Zixuan | Chen Shiyuan | Win | W+R | 6.5 | 3001 | 15 | 

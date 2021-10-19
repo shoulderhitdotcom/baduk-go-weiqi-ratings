@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-19 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing |  | Win | B+R | 7.5 | 3023 | -138 | 
 | 2021-10-18 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Pan Yang | Win | B+1¾ | 7.5 | 3161 | 11 | 
 | 2021-10-17 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing |  | Win | B+¾ | 7.5 | 3150 | 9 | 
 | 2021-10-16 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing |  | Win | B+R | 7.5 | 3141 | 96 | 

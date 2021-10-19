@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-19 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Kim JongJoon | Win | B+15.5 | 6.5 | 2067 | -72 | 
 | 2021-10-13 | 2021韓国シニア囲碁リーグ |  | Jeong Daesang | Win | W+6.5 | 6.5 | 2139 | -59 | 
 | 2021-10-07 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Kim Chongsu | Lose | W+5.5 | 6.5 | 2198 | 241 | 
 | 2021-09-27 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Kim Chuljung | Win | B+R | 6.5 | 1957 | -257 | 

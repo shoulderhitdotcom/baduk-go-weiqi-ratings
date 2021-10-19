@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-19 | 第9回中国女子囲碁甲級リーグ | Huang Ziping | Rui Naiwei | Lose | W+R | 7.5 | 2503 | -150 | 
 | 2021-10-18 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu | Huang Ziping | Lose | B+R | 7.5 | 2653 | -1 | 
 | 2021-10-16 | 第9回中国女子囲碁甲級リーグ | Wang Shuang | Huang Ziping | Lose | B+R | 7.5 | 2654 | 65 | 
 | 2021-10-14 | 第9回中国女子囲碁甲級リーグ | Zhan Ying | Huang Ziping | Win | W+R | 7.5 | 2589 | 83 | 

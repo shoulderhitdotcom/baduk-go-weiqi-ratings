@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-19 | 第9回中国女子囲碁甲級リーグ | Wang Shuang | Lu Minquan | Lose | B+R | 7.5 | 3093 | -165 | 
 | 2021-10-18 | 第9回中国女子囲碁甲級リーグ | Zhan Ying | Lu Minquan | Win | W+R | 7.5 | 3258 | 6 | 
 | 2021-10-17 | 第9回中国女子囲碁甲級リーグ | Li He | Lu Minquan | Win | W+R | 7.5 | 3252 | 10 | 
 | 2021-10-16 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Yu Zhiying | Lose | W+1¾ | 7.5 | 3242 | 75 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-19 | 2021韓国シニア囲碁リーグ | Kang Hun | Yoo Changhyuk | Win | W+24.5 | 6.5 | 2832 | -40 | 
 | 2021-10-11 | 2021韓国シニア囲碁リーグ | Kim Kihun | Yoo Changhyuk | Win | W+8.5 | 6.5 | 2872 | 13 | 
 | 2021-10-06 | 2021韓国シニア囲碁リーグ | Oh Kyuchul | Yoo Changhyuk | Win | W+R | 6.5 | 2859 | -22 | 
 | 2021-09-27 | 2021韓国シニア囲碁リーグ | Kim Ilhwan | Yoo Changhyuk | Lose | B+10.5 | 6.5 | 2881 | -25 | 

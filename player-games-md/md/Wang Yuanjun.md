@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-19 | 第9期中環碁聖戦8強戦 | Wang Yuanjun | Lu Yiquan | Win | B+R | 6.5 | 3220 | -136 | 
 | 2021-10-18 | 第14期棋王戦（台湾）リーグ | Wang Yuanjun | Chen Qirui | Lose | W+R | 6.5 | 3356 | 94 | 
 | 2021-10-15 | 第7回国手山脈国際囲碁大会台湾予選 | Jian Jingting | Wang Yuanjun | Win | W+R | 6.5 | 3262 | 4 | 
 | 2021-10-14 | 第14期棋王戦（台湾）リーグ | Cai Chengwei | Wang Yuanjun | Win | W+R | 6.5 | 3258 | 11 | 

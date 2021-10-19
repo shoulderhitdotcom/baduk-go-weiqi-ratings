@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-19 | 第9期中環碁聖戦8強戦 | Wang Yuanjun | Lu Yiquan | Lose | B+R | 6.5 | 2996 | -46 | 
+| 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Lu Yiquan |  | Lose | W+R | 6.5 | 3042 | -9 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 |  | Lu Yiquan | Win | W+R | 6.5 | 3051 | 18 | 
 | 2021-10-05 | 2021新人王戦（台湾）準決勝 | Lu Yiquan | Chen Qirui | Lose | W+R | 7.5 | 3033 | -4 | 
 | 2021-10-03 | 第9期中環碁聖戦16強戦 | Li Wei | Lu Yiquan | Win | W+R | 6.5 | 3037 | 6 | 

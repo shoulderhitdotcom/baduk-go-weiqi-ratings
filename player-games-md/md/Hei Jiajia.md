@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-19 | 第9回中国女子囲碁甲級リーグ | Hei Jiajia | Pan Yang | Win | B+R | 7.5 | 2671 | 0 | 
 | 2021-10-16 | 第9回中国女子囲碁甲級リーグ | Hei Jiajia |  | Lose | W+R | 7.5 | 2671 | 0 | 
 | 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Hei Jiajia | Cho Seungah | Lose | W+R | 7.5 | 2671 | 0 | 
 | 2021-05-20 | 第9回中国女子囲碁甲級リーグ | Lu Jia | Hei Jiajia | Lose | B+R | 7.5 | 2671 | 0 | 

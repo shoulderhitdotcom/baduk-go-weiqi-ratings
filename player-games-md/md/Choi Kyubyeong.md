@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-19 | 2021韓国シニア囲碁リーグ | Paek Seongho | Choi Kyubyeong | Win | W+9.5 | 6.5 | 2773 | -93 | 
 | 2021-10-13 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Kim Soojang | Lose | W+R | 6.5 | 2866 | -6 | 
 | 2021-10-07 | 2021韓国シニア囲碁リーグ | Kim Dongmyeon | Choi Kyubyeong | Win | W+9.5 | 6.5 | 2872 | 67 | 
 | 2021-09-27 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Seo Bongsoo | Lose | W+R | 6.5 | 2805 | 24 | 

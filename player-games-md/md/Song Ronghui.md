@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-19 | 第9回中国女子囲碁甲級リーグ | Song Ronghui | Zhou Hongyu | Lose | W+R | 7.5 | 2789 | -147 | 
 | 2021-10-17 | 第9回中国女子囲碁甲級リーグ | Song Ronghui | Wang Yubo | Lose | W+R | 7.5 | 2936 | -18 | 
 | 2021-10-16 | 第9回中国女子囲碁甲級リーグ | Song Ronghui | Zhan Ying | Win | B+R | 7.5 | 2954 | 94 | 
 | 2021-10-14 | 第9回中国女子囲碁甲級リーグ | Song Ronghui |  | Win | B+1¾ | 7.5 | 2860 | -5 | 

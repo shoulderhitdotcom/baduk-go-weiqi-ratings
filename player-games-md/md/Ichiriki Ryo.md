@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-20 | 第46期名人戦挑戦手合七番勝負第6局  | Iyama Yuta | Ichiriki Ryo | Lose | B+R | 6.5 | 3454 | -39 | 
 | 2021-10-13 | 第46期名人戦挑戦手合七番勝負第5局  | Ichiriki Ryo | Iyama Yuta | Win | B+R | 6.5 | 3493 | 21 | 
 | 2021-10-08 | 第77期本因坊戦リーグ | Tsuruyama Atsushi | Ichiriki Ryo | Win | W+R | 6.5 | 3472 | -3 | 
 | 2021-10-05 | 第47期天元戦挑戦手合五番勝負第1局  | Ichiriki Ryo | Seki Kotaro | Lose | W+R | 6.5 | 3475 | -12 | 

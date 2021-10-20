@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-20 | 2021韓国シニア囲碁リーグ | Jimmy Cha | Chang Suyeong | Win | B+3.5 | 6.5 | 2735 | 231 | 
+| 2021-10-12 | 2021韓国シニア囲碁リーグ | Jimmy Cha | Kim Chongsu | Win | B+0.5 | 6.5 | 2504 | -22 | 
 | 2021-10-05 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Jimmy Cha | Win | W+15.5 | 6.5 | 2526 | 213 | 
 | 2021-09-27 | 2021韓国シニア囲碁リーグ | Jimmy Cha | Kim JongJoon | Win | B+18.5 | 6.5 | 2313 | -133 | 
 | 2021-09-16 | 2021韓国シニア囲碁リーグ |  | Jimmy Cha | Win | W+13.5 | 6.5 | 2446 | -30 | 

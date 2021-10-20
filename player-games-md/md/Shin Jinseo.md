@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Xie Erhao | Shin Jinseo | Win | W+R | 6.5 | 3812 | -29 | 
 | 2021-10-09 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Dongyun | Shin Jinseo | Win | W+0.5 | 6.5 | 3841 | 11 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Tao Xinran | Win | B+R | 7.5 | 3830 | 2 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Xu Jiayang | Shin Jinseo | Win | W+R | 7.5 | 3828 | 21 | 

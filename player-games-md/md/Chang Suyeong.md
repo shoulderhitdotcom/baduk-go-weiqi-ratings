@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-20 | 2021韓国シニア囲碁リーグ | Jimmy Cha | Chang Suyeong | Lose | B+3.5 | 6.5 | 2307 | 14 | 
+| 2021-10-14 | 2021韓国シニア囲碁リーグ | Chang Suyeong | Seo Nungwuk | Win | B+R | 6.5 | 2293 | 2293 | 
+| 2021-10-04 | 2021韓国シニア囲碁リーグ | Park Seungmun | Chang Suyeong | Lose | B+2.5 | 6.5 | missing | -2339 | 
+| 2021-09-27 | 2021韓国シニア囲碁リーグ | Chang Suyeong | Kang Hun | Lose | W+0.5 | 6.5 | 2339 | -54 | 
 | 2021-09-15 | 2021韓国シニア囲碁リーグ | Park Yeongchan | Chang Suyeong | Lose | B+5.5 | 6.5 | 2393 | 81 | 
 | 2021-09-08 | 2021韓国シニア囲碁リーグ | Oh Kyuchul | Chang Suyeong | Lose | B+R | 6.5 | 2312 | -28 | 
 | 2021-09-01 | 2021韓国シニア囲碁リーグ | Paek Seongho | Chang Suyeong | Lose | B+R | 6.5 | 2340 | -63 | 

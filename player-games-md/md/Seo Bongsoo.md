@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-20 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Seo Bongsoo | Win | W+0.5 | 6.5 | 2953 | -38 | 
+| 2021-10-14 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Kim Dongyeop | Win | B+6.5 | 6.5 | 2991 | 2991 | 
+| 2021-10-04 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Cho Daehyeon | Win | B+8.5 | 6.5 | missing | -2922 | 
+| 2021-09-27 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Seo Bongsoo | Win | W+R | 6.5 | 2922 | -42 | 
 | 2021-09-22 | 2021電子ランドライバル対戦第7局 | Seo Bongsoo | Yoo Changhyuk | Win | B+R | 6.5 | 2964 | 6 | 
 | 2021-09-19 | 2021電子ランドライバル対戦第1局 | Seo Bongsoo | Cho Hunhyun | Lose | W+1.5 | 6.5 | 2958 | -31 | 
 | 2021-09-15 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Kim Chongsu | Win | B+5.5 | 6.5 | 2989 | -43 | 

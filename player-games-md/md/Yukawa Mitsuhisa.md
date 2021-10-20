@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-20 | 第66期関西棋院第一位決定戦本戦1回戦 | Yukawa Mitsuhisa | Utsumi Koki | Win | B+R | 6.5 | 2862 | 222 | 
 | 2021-10-13 | 第48期天元戦予選 | Yukawa Mitsuhisa | Nishi Takenobu | Win | B+R | 6.5 | 2640 | 2640 | 
 | 2021-08-25 | 第47期碁聖戦予選 | Yukawa Mitsuhisa | Yuki Satoshi | Lose | W+1.5 | 6.5 | missing | -2685 | 
 | 2021-05-26 | 第60期十段戦予選 | Yukawa Mitsuhisa |  | Lose | W+0.5 | 6.5 | 2685 | 1 | 

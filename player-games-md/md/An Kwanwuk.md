@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-20 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Seo Bongsoo | Lose | W+0.5 | 6.5 | 2577 | -9 | 
+| 2021-10-12 | 2021韓国シニア囲碁リーグ | Park Yeongchan | An Kwanwuk | Win | W+R | 6.5 | 2586 | 11 | 
 | 2021-10-05 | 2021韓国シニア囲碁リーグ | An Kwanwuk |  | Win | B+R | 6.5 | 2575 | 47 | 
 | 2021-09-27 | 2021韓国シニア囲碁リーグ | Paek Seongho | An Kwanwuk | Win | W+4.5 | 6.5 | 2528 | -48 | 
 | 2021-09-16 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Oh Kyuchul | Lose | W+2.5 | 6.5 | 2576 | 14 | 

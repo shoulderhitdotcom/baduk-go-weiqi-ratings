@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-20 | 第3期ソパルコサノル最高棋士決定戦予選 | An Joyeong |  | Win | B+R | 6.5 | 3225 | 108 | 
 | 2021-09-21 | 第15回GGオークション杯女流対シニア連勝対抗戦第18局 | Cho Seungah | An Joyeong | Lose | B+R | 6.5 | 3117 | -29 | 
 | 2021-09-20 | 第15回GGオークション杯女流対シニア連勝対抗戦第17局 | Oh Yujin | An Joyeong | Win | W+R | 6.5 | 3146 | -2 | 
 | 2021-07-12 | 第23回農心杯韓国予選 | Kim Sedong | An Joyeong | Win | W+R | 6.5 | 3148 | -68 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Fang Ruoxi | An Sungjoon | Lose | W+R | 6.5 | 2981 | -143 | 
 | 2021-10-18 | 第9回中国女子囲碁甲級リーグ | Cai Bihan | Fang Ruoxi | Win | W+R | 7.5 | 3124 | 13 | 
 | 2021-10-17 | 第9回中国女子囲碁甲級リーグ |  | Fang Ruoxi | Win | W+R | 7.5 | 3111 | 15 | 
 | 2021-10-16 | 第9回中国女子囲碁甲級リーグ | Fang Ruoxi |  | Win | B+R | 7.5 | 3096 | 90 | 

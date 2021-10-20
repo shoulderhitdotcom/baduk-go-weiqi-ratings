@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Kim Seongjae | Lian Xiao | Lose | W+R | 6.5 | 3358 | -7 | 
 | 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Kang Dongyun | Kim Seongjae | Lose | B+R | 6.5 | 3365 | -73 | 
 | 2021-09-23 | 第7回国手山脈国際囲碁大会韓国予選 | Song Jihoon | Kim Seongjae | Win | W+0.5 | 6.5 | 3438 | 3438 | 
 | 2021-08-25 | 第26回三星火災杯韓国予選 | Hong Mujin | Kim Seongjae | Win | W+1.5 | 6.5 | missing | -3255 | 

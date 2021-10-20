@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Zhao Chenyu | Lee Changho | Lose | B+R | 6.5 | 3207 | -33 | 
 | 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Changho | Park Sangjin | Lose | W+R | 6.5 | 3240 | 15 | 
 | 2021-10-05 | 第15回GGオークション杯女流対シニア連勝対抗戦第22局 | Lee Changho | Choi Jeong | Lose | W+R | 6.5 | 3225 | 3225 | 
 | 2021-10-04 | 第15回GGオークション杯女流対シニア連勝対抗戦第21局 | Lee Changho | Kim Cheayoung | Win | B+R | 6.5 | missing | -3180 | 

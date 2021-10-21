@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Junghwan vs Weon Seongjin** | **Park Junghwan streak** | **Weon Seongjin streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-20 | 2021電子ランドライバル対戦第4局 | Park Junghwan | Weon Seongjin | W+R | 6.5 | 8:6 | 0 | 2 | 
 | 2021-07-01 | 第26回GSカルテックス杯プロ棋戦3回戦 | Weon Seongjin | Park Junghwan | B+0.5 | 6.5 | 8:5 | 0 | 1 | 
 | 2021-02-08 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Park Junghwan | Weon Seongjin | B+R | 6.5 | 8:4 | 7 | 0 | 
 | 2018-02-12 | 韓国ナショナルチームリーグ戦 | Park Junghwan | Weon Seongjin | B+R | 6.5 | 7:4 | 6 | 0 | 

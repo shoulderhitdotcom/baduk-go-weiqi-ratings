@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-21 | 第61期十段戦予選 | Kato Atsushi | Kobayashi Koichi | Lose | B+1.5 | 6.5 | 2820 | 2820 | 
+| 2021-10-04 | 第70期王座戦予選 | Kobayashi Koichi | Nakamura Sumire | Win | B+5.5 | 6.5 | missing | -2760 | 
 | 2021-09-14 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第3ラウンド | Cho Hunhyun | Kobayashi Koichi | Win | W+2¼ | 7.5 | 2760 | 210 | 
 | 2021-09-13 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第2ラウンド | Kobayashi Koichi | Nie Weiping | Win | B+R | 7.5 | 2550 | -19 | 
 | 2021-07-01 | 第70期王座戦予選 | Kobayashi Koichi | Tahara Yasufumi | Win | B+R | 6.5 | 2569 | 61 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Seol Hyunjun | Xie Ke | Win | W+R | 6.5 | 3579 | -20 | 
 | 2021-10-15 | 第7回国手山脈国際囲碁大会中国予選 | Xie Ke | Fan Tingyu | Lose | W+R | 6.5 | 3599 | -2 | 
 | 2021-10-11 | 第7回国手山脈国際囲碁大会中国予選 | Yang Dingxin | Xie Ke | Win | W+R | 6.5 | 3601 | 23 | 
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Xie Ke | Ke Jie | Lose | W+R | 7.5 | 3578 | -1 | 

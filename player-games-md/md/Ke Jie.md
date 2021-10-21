@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Ke Jie | Kim Jiseok | Lose | W+0.5 | 6.5 | 3710 | -38 | 
 | 2021-10-13 | 第12期中国竜星戦Bブロック10回戦 | Mi Yuting | Ke Jie | Lose | B+R | 7.5 | 3748 | -13 | 
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Xie Ke | Ke Jie | Win | W+R | 7.5 | 3761 | 7 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Ke Jie | Tang Weixing | Win | B+R | 7.5 | 3754 | 10 | 

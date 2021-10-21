@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-21 | 第33期女流名人戦予選 | Kobayashi Chizu | Nakamura Sumire | Win | W+15.5 | 6.5 | 2658 | 2658 | 
+| 2021-10-04 | 第70期王座戦予選 | Kobayashi Koichi | Nakamura Sumire | Lose | B+5.5 | 6.5 | missing | -2691 | 
 | 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第2戦 | Nakamura Sumire | Su Shengfang | Lose | W+R | 6.5 | 2691 | 0 | 
 | 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第1戦 | Nakamura Sumire |  | Lose | W+R | 6.5 | 2691 | -82 | 
 | 2021-08-19 | 第46期棋聖戦Cリーグ | Nakamura Sumire | Abe Yoshiki | Lose | W+R | 6.5 | 2773 | 2773 | 

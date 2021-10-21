@@ -7,14 +7,15 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Cho Seungah | Yamashita Keigo | Win | W+R | 6.5 | 3135 | -23 | 
+| 2021-09-23 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Kono Rin | Lose | W+4.5 | 6.5 | 3158 | -49 | 
 | 2021-09-02 | 第60期十段戦予選 | Yamashita Keigo | Seto Taiki | Lose | W+4.5 | 6.5 | 3207 | 14 | 
 | 2021-08-16 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Murakawa Daisuke | Lose | W+R | 6.5 | 3193 | -32 | 
 | 2021-08-09 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Yamashita Keigo | Murakawa Daisuke | Lose | W+R | 6.5 | 3225 | -9 | 
 | 2021-08-06 | 第46期名人戦リーグ  | Yamashita Keigo | Ichiriki Ryo | Lose | W+R | 6.5 | 3234 | -15 | 
 | 2021-07-29 | 第77期本因坊戦予選 | Yamashita Keigo | Ko Iso | Lose | W+R | 6.5 | 3249 | 3 | 
 | 2021-07-22 | 第47期碁聖戦予選 | Kurotaki Masaki | Yamashita Keigo | Win | W+R | 6.5 | 3246 | 11 | 
-| 2021-07-15 | 第46期名人戦リーグ | Motoki Katsuya | Yamashita Keigo | Win | W+R | 6.5 | 3235 | -1 | 
-| 2021-07-15 | 第46期名人戦リーグ | Motoki Katsuya | Yamashita Keigo | Win | W+R | 6.5 | 3236 | 19 | 
+| 2021-07-15 | 第46期名人戦リーグ | Motoki Katsuya | Yamashita Keigo | Win | W+R | 6.5 | 3235 | 18 | 
 | 2021-07-08 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Yamashita Keigo | Yu Zhengqi | Win | B+0.5 | 6.5 | 3217 | 10 | 
 | 2021-07-01 | 第77期本因坊戦予選 | Hirata Tomoya | Yamashita Keigo | Win | W+R | 6.5 | 3207 | -31 | 
 | 2021-06-17 | 第46期棋聖戦Sリーグ | Takao Shinji | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3238 | -1 | 

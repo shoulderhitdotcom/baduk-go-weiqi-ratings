@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Hsu Chiayuan | Fan Tingyu | Lose | W+R | 6.5 | 3372 | -18 | 
 | 2021-10-14 | 第23回農心辛ラーメン杯世界囲碁最強戦第4戦  | Hsu Chiayuan | Park Junghwan | Lose | W+R | 6.5 | 3390 | -1 | 
 | 2021-10-13 | 第23回農心辛ラーメン杯世界囲碁最強戦第3戦  | Hsu Chiayuan | Li Weiqing | Win | B+R | 6.5 | 3391 | 11 | 
 | 2021-10-11 | 第77期本因坊戦リーグ | Yu Zhengqi | Hsu Chiayuan | Lose | B+0.5 | 6.5 | 3380 | -4 | 

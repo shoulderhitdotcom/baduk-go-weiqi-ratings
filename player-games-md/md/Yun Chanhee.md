@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Yun Chanhee | Peng Liyao | Lose | W+R | 6.5 | 3402 | -139 | 
+| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Han Seungjoo | Yun Chanhee | Win | W+R | 6.5 | 3541 | 3541 | 
+| 2021-10-04 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Myounghoon | Yun Chanhee | Win | W+0.5 | 6.5 | missing | 0 | 
+| 2021-08-25 | 第26回三星火災杯韓国予選 | Yun Chanhee | Park Hamin | Win | B+R | 6.5 | missing | -3304 | 
 | 2021-08-23 | 第26回三星火災杯韓国予選 | Weon Seongjin | Yun Chanhee | Win | W+R | 6.5 | 3304 | 55 | 
 | 2021-07-12 | 第23回農心杯韓国予選 | Park Sangjin | Yun Chanhee | Lose | B+R | 6.5 | 3249 | 7 | 
 | 2021-07-04 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | An Sungjoon | Yun Chanhee | Lose | B+R | 6.5 | 3242 | -42 | 

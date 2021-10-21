@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Yun Chanhee | Peng Liyao | Win | W+R | 6.5 | 3438 | 9 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Peng Liyao | Mi Yuting | Lose | W+R | 7.5 | 3429 | -13 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Lian Xiao | Peng Liyao | Win | W+R | 7.5 | 3442 | 31 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Peng Liyao | Liao Yuanhe | Lose | W+¼ | 7.5 | 3411 | -19 | 

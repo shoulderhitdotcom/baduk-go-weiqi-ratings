@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-21 | 第61期十段戦予選 | Kato Atsushi | Kobayashi Koichi | Win | B+1.5 | 6.5 | 3099 | 3099 | 
 | 2021-09-16 | 第47期碁聖戦予選 | Kato Atsushi | Hsu Chiayuan | Lose | W+R | 6.5 | missing | -2357 | 
 | 2019-11-21 | 第45期棋聖戦ファーストトーナメント予選 | Ishida Yoshio | Kato Atsushi | Win | W+3.5 | 6.5 | 2357 | 2357 | 
 | 2019-10-03 | 第76期本因坊戦予選 | Chino Tadahiko | Kato Atsushi | Win | W+R | 6.5 | missing | -1672 | 

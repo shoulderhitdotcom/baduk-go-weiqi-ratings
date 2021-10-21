@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-21 | 第14期棋王戦（台湾）リーグ | Jian Jingting | Chen Qirui | Win | W+R | 6.5 | 3211 | 3 | 
 | 2021-10-19 | 第9期中環碁聖戦8強戦 | Lin Lixiang | Chen Qirui | Win | W+R | 6.5 | 3208 | -130 | 
 | 2021-10-18 | 第14期棋王戦（台湾）リーグ | Wang Yuanjun | Chen Qirui | Win | W+R | 6.5 | 3338 | 113 | 
 | 2021-10-14 | 第14期棋王戦（台湾）リーグ | Chen Qirui | Xiao Zhenghao | Win | B+R | 6.5 | 3225 | 5 | 

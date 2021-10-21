@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-21 | 第46期棋聖戦挑戦者決定トーナメント | Yu Zhengqi | Shibano Toramaru | Lose | W+R | 6.5 | 3319 | -22 | 
 | 2021-10-11 | 第77期本因坊戦リーグ | Yu Zhengqi | Hsu Chiayuan | Win | B+0.5 | 6.5 | 3341 | 18 | 
 | 2021-10-07 | 第47期名人戦予選 | Muramatsu Hiroki | Yu Zhengqi | Win | W+R | 6.5 | 3323 | -1 | 
 | 2021-09-30 | 第65期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Sada Atsushi | Yu Zhengqi | Win | W+R | 6.5 | 3324 | -14 | 

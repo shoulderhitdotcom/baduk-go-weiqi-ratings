@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-22 | 第40期女流本因坊戦挑戦手合五番勝負第3局  | Hoshiai Shiho | Fujisawa Rina | Win | W+R | 6.5 | 3201 | -20 | 
 | 2021-10-11 | 第25期ドコモ杯女流棋聖戦1回戦 | Fujisawa Rina |  | Win | B+R | 6.5 | 3221 | 8 | 
 | 2021-10-08 | 第40期女流本因坊戦挑戦手合五番勝負第2局  | Fujisawa Rina | Hoshiai Shiho | Win | B+R | 6.5 | 3213 | 49 | 
 | 2021-09-28 | 第40期女流本因坊戦挑戦手合五番勝負第1局  | Hoshiai Shiho | Fujisawa Rina | Win | W+0.5 | 6.5 | 3164 | -10 | 

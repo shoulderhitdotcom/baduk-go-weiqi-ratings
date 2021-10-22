@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-22 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Han Seungjoo | Dang Yifei | Lose | B+R | 6.5 | 3588 | -9 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Shin Minjun | Dang Yifei | Win | W+R | 6.5 | 3597 | -7 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Wang Shiyi | Dang Yifei | Win | W+R | 7.5 | 3604 | -2 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Shin Minjun | Dang Yifei | Win | W+R | 7.5 | 3606 | 23 | 

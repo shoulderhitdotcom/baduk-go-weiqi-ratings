@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-22 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Peng Liyao | Lee Changseok | Win | W+0.5 | 6.5 | 3531 | 15 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Onishi Ryuhei | Lee Changseok | Win | W+R | 6.5 | 3516 | -129 | 
 | 2021-10-17 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Changseok | Kim Jiseok | Lose | W+R | 6.5 | 3645 | 98 | 
 | 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Changseok | Kang Yootaek | Win | B+R | 6.5 | 3547 | 22 | 

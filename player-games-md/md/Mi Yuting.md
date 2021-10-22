@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-22 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Mi Yuting | Park Junghwan | Lose | W+1.5 | 6.5 | 3644 | 1 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Byun Sangil | Mi Yuting | Win | W+1.5 | 6.5 | 3643 | -30 | 
 | 2021-10-14 | 第12期中国竜星戦準決勝 | Mi Yuting | Liao Yuanhe | Win | B+R | 7.5 | 3673 | 8 | 
 | 2021-10-13 | 第12期中国竜星戦Bブロック10回戦 | Mi Yuting | Ke Jie | Win | B+R | 7.5 | 3665 | 10 | 

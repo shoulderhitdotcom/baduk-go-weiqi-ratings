@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-22 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Han Seungjoo | Dang Yifei | Win | B+R | 6.5 | 3279 | 29 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Han Seungjoo | Yamashiro Hiroshi | Win | B+R | 6.5 | 3250 | -135 | 
 | 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Han Seungjoo | Yun Chanhee | Lose | W+R | 6.5 | 3385 | 7 | 
 | 2021-10-16 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Han Seungjoo | Shin Minjun | Win | B+R | 6.5 | 3378 | 127 | 

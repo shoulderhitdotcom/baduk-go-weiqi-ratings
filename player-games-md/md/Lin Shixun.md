@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-22 | 2021新人王戦（台湾）決勝三番勝負第2局  | Chen Qirui | Lin Shixun | Lose | B+R | 7.5 | 2941 | -10 | 
+| 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Lin Shixun | Lin Lixiang | Lose | W+R | 6.5 | 2951 | 11 | 
 | 2021-10-08 | 2021新人王戦（台湾）決勝三番勝負第1局  | Lin Shixun | Chen Qirui | Win | B+R | 7.5 | 2940 | 22 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Lin Shixun | Yu Lijun | Win | B+R | 6.5 | 2918 | 0 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Xu Yuqi | Lin Shixun | Win | W+R | 6.5 | 2918 | -6 | 

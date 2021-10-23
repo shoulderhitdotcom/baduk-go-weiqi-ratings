@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Yang Dingxin | Kim Jiseok | Lose | B+R | 6.5 | 3577 | -2 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Ke Jie | Kim Jiseok | Win | W+0.5 | 6.5 | 3579 | -111 | 
 | 2021-10-17 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Changseok | Kim Jiseok | Win | W+R | 6.5 | 3690 | 109 | 
 | 2021-10-10 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kim Jiseok | Choi Jeong | Win | B+R | 6.5 | 3581 | 2 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | An Sungjoon | Lian Xiao | Win | W+0.5 | 6.5 | 3557 | 15 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Kim Seongjae | Lian Xiao | Win | W+R | 6.5 | 3542 | -31 | 
 | 2021-10-12 | 第12期中国竜星戦Aブロック9回戦 | Yang Dingxin | Lian Xiao | Lose | B+R | 7.5 | 3573 | -4 | 
 | 2021-10-11 | 第12期中国竜星戦Aブロック8回戦 | Liao Yuanhe | Lian Xiao | Win | W+R | 7.5 | 3577 | 26 | 

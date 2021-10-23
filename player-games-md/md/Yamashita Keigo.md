@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Yamashita Keigo | Zhao Chenyu | Lose | W+R | 6.5 | 3103 | -32 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Cho Seungah | Yamashita Keigo | Win | W+R | 6.5 | 3135 | -23 | 
 | 2021-09-23 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Kono Rin | Lose | W+4.5 | 6.5 | 3158 | -49 | 
 | 2021-09-02 | 第60期十段戦予選 | Yamashita Keigo | Seto Taiki | Lose | W+4.5 | 6.5 | 3207 | 14 | 

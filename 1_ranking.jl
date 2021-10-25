@@ -36,6 +36,8 @@ tbl = @chain joinpath(WSPATH, "kifu-depot-games-with-sgf.jdf/") begin
 end
 
 
+
+
 ### the below two lines can be skipped under a target flow
 JDF.save("kifu-depot-games-for-ranking.jdf/", tbl)
 tbl = JDF.load("kifu-depot-games-for-ranking.jdf/") |> DataFrame
@@ -129,7 +131,24 @@ pings_for_md1[!, :date] .= Date.(to_date)
 pings_hist = JDF.load("pings_hist.jdf") |> DataFrame
 cols_to_keep = [:date, :name, :eng_name_old, :Rating, :Rank]
 pings_hist = unique(vcat(pings_hist, select(pings_for_md1, cols_to_keep)), [:date, :name, :eng_name_old])
+
 JDF.save("pings_hist.jdf", pings_hist)
+
+# normalized the ratings so that it's the average of thelast 365 days
+latest_date = maximum(pings_hist.date)
+mean_rating365 = @chain pings_hist begin
+   @subset :date >= latest_date - Day(364)
+   groupby(:date)
+   @combine(:mean_rating = mean(:Rating))
+   @combine(mean(:mean_rating))
+   _[1,1]
+end
+
+mean_raw_rating = mean(pings_for_md1.Rating)
+
+pings_for_md1 =  @chain pings_for_md1 begin
+    @transform :Rating = Int(round(:Rating * mean_rating365/mean_raw_rating, digits=0))
+end
 
 pings_for_md = select(
     pings_for_md1,

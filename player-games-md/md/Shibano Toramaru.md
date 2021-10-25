@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-25 | 第46期棋聖戦挑戦者決定戦第1局  | Ichiriki Ryo | Shibano Toramaru | Lose | B+R | 6.5 | 3313 | -1 | 
 | 2021-10-21 | 第46期棋聖戦挑戦者決定トーナメント | Yu Zhengqi | Shibano Toramaru | Win | W+R | 6.5 | 3314 | 0 | 
 | 2021-10-11 | 第23回農心辛ラーメン杯世界囲碁最強戦第1戦  | Weon Seongjin | Shibano Toramaru | Lose | B+R | 6.5 | 3314 | 3314 | 
 | 2021-10-04 | 第77期本因坊戦リーグ | Shibano Toramaru | Sada Atsushi | Lose | W+R | 6.5 | missing | -3323 | 

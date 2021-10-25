@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-25 | 2021韓国シニア囲碁リーグ | Kang Hun | Kim Ilhwan | Win | W+R | 6.5 | 2550 | 47 | 
 | 2021-10-20 | 2021韓国シニア囲碁リーグ | Kim Chuljung | Kim Ilhwan | Lose | B+7.5 | 6.5 | 2503 | -43 | 
 | 2021-10-12 | 2021韓国シニア囲碁リーグ | Kim Ilhwan | Kim Dongmyeon | Win | B+R | 6.5 | 2546 | 50 | 
 | 2021-10-05 | 2021韓国シニア囲碁リーグ | Seo Nungwuk | Kim Ilhwan | Win | W+17.5 | 6.5 | 2496 | 303 | 

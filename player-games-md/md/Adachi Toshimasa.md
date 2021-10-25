@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-25 | 第60期十段戦2回戦 | Adachi Toshimasa | Iyama Yuta | Win | B+R | 6.5 | 3357 | 88 | 
+| 2021-10-14 | 第60期十段戦1回戦 | Anzai Nobuaki | Adachi Toshimasa | Win | W+R | 6.5 | 3269 | 114 | 
+| 2021-09-23 | 第60期十段戦予選 | Hane Naoki | Adachi Toshimasa | Win | W+R | 6.5 | 3155 | -3 | 
 | 2021-09-16 | 第47期碁聖戦予選 | Kataoka Satoshi | Adachi Toshimasa | Win | W+R | 6.5 | 3158 | 3158 | 
 | 2021-08-20 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Iyama Yuta | Adachi Toshimasa | Lose | B+R | 6.5 | missing | -3027 | 
 | 2021-06-17 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Adachi Toshimasa | Seki Kotaro | Win | B+R | 6.5 | 3027 | 166 | 

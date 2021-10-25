@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-25 | 第14期棋王戦（台湾）リーグ | Wang Yuanjun | Jian Jingting | Lose | B+R | 6.5 | 3094 | -13 | 
 | 2021-10-21 | 第14期棋王戦（台湾）リーグ | Jian Jingting | Chen Qirui | Lose | W+R | 6.5 | 3107 | -139 | 
 | 2021-10-18 | 第14期棋王戦（台湾）リーグ | Xiao Zhenghao | Jian Jingting | Lose | B+R | 6.5 | 3246 | 87 | 
 | 2021-10-15 | 第7回国手山脈国際囲碁大会台湾予選 | Jian Jingting | Wang Yuanjun | Lose | W+R | 6.5 | 3159 | -4 | 

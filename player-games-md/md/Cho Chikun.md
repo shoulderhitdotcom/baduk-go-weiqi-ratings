@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-25 | 第78期本因坊予選 | Cho Chikun |  | Lose | W+0.5 | 6.5 | 2875 | -140 | 
 | 2021-10-07 | 第47期名人戦予選  | Xie Yimin | Cho Chikun | Lose | B+R | 6.5 | 3015 | -99 | 
 | 2021-09-23 | 第47期碁聖戦予選 | Terayama Rei | Cho Chikun | Lose | B+3.5 | 6.5 | 3114 | 52 | 
 | 2021-09-09 | 第61期十段戦予選 |  | Cho Chikun | Win | W+1.5 | 6.5 | 3062 | -26 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-25 | 第14期棋王戦（台湾）リーグ  | Lin Lixiang | Lin Junyan | Win | W+R | 6.5 | 3222 | 2 | 
 | 2021-10-21 | 第14期棋王戦（台湾）リーグ | Lin Junyan | Cai Chengwei | Win | B+R | 6.5 | 3220 | 5 | 
 | 2021-10-19 | 第9期中環碁聖戦8強戦 | Lai Junfu | Lin Junyan | Lose | B+R | 6.5 | 3215 | -153 | 
 | 2021-10-18 | 第14期棋王戦（台湾）リーグ  | Lai Junfu | Lin Junyan | Win | W+R | 6.5 | 3368 | 100 | 

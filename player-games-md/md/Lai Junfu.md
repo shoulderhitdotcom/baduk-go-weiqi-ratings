@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-25 | 第14期棋王戦（台湾）リーグ | Chen Qirui | Lai Junfu | Win | W+R | 6.5 | 3173 | 10 | 
 | 2021-10-21 | 第14期棋王戦（台湾）リーグ  | Xiao Zhenghao | Lai Junfu | Win | W+R | 6.5 | 3163 | 2 | 
 | 2021-10-19 | 第9期中環碁聖戦8強戦 | Lai Junfu | Lin Junyan | Win | B+R | 6.5 | 3161 | -129 | 
 | 2021-10-18 | 第14期棋王戦（台湾）リーグ  | Lai Junfu | Lin Junyan | Lose | W+R | 6.5 | 3290 | 93 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Zhao Chenyu | Lee Donghoon | Lose | B+R | 6.5 | 3550 | -4 | 
 | 2021-10-22 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Xie Ke | Lee Donghoon | Win | W+R | 6.5 | 3554 | 14 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Lee Donghoon | Wang Yuanjun | Win | B+R | 6.5 | 3540 | -16 | 
 | 2021-10-02 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Han Seungjoo | Lee Donghoon | Win | W+0.5 | 6.5 | 3556 | 4 | 

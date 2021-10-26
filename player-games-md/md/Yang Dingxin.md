@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Lee Changseok | Yang Dingxin | Win | W+R | 6.5 | 3665 | 6 | 
 | 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Yang Dingxin | Kim Jiseok | Win | B+R | 6.5 | 3659 | 6 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Weon Seongjin | Yang Dingxin | Win | W+R | 6.5 | 3653 | -117 | 
 | 2021-10-18 | 第17回倡棋杯中国プロ囲碁選手権戦決勝三番勝負第2局 | Yang Dingxin | Ding Hao | Lose | W+¼ | 7.5 | 3770 | 4 | 

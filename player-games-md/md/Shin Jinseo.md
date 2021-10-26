@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Han Seungjoo | Shin Jinseo | Win | W+R | 6.5 | 3825 | 4 | 
 | 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Fan Tingyu | Shin Jinseo | Win | W+R | 6.5 | 3821 | 9 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Xie Erhao | Shin Jinseo | Win | W+R | 6.5 | 3812 | -29 | 
 | 2021-10-09 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Dongyun | Shin Jinseo | Win | W+0.5 | 6.5 | 3841 | 11 | 

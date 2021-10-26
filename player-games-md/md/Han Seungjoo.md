@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Han Seungjoo | Shin Jinseo | Lose | W+R | 6.5 | 3278 | -1 | 
 | 2021-10-22 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Han Seungjoo | Dang Yifei | Win | B+R | 6.5 | 3279 | 29 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Han Seungjoo | Yamashiro Hiroshi | Win | B+R | 6.5 | 3250 | -135 | 
 | 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Han Seungjoo | Yun Chanhee | Lose | W+R | 6.5 | 3385 | 7 | 

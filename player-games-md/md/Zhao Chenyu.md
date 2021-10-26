@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Zhao Chenyu | Lee Donghoon | Win | B+R | 6.5 | 3458 | 16 | 
 | 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Yamashita Keigo | Zhao Chenyu | Win | W+R | 6.5 | 3442 | 14 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Zhao Chenyu | Lee Changho | Win | B+R | 6.5 | 3428 | -5 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhao Chenyu | Xu Jiayang | Lose | W+R | 7.5 | 3433 | -10 | 

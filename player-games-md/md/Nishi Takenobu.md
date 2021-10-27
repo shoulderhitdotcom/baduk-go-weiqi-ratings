@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-27 | 第66期関西棋院第一位決定戦1回戦 | Nishi Takenobu | Abe Yoshiki | Lose | W+0.5 | 6.5 | 2736 | -59 | 
 | 2021-10-13 | 第48期天元戦予選 | Yukawa Mitsuhisa | Nishi Takenobu | Lose | B+R | 6.5 | 2795 | -129 | 
 | 2021-08-18 | 第70期王座戦予選 | Nishi Takenobu | Nagasaki Yuji | Win | B+R | 6.5 | 2924 | 93 | 
 | 2021-08-09 | 第46期新人王戦準決勝 | Nishi Takenobu | Ueno Asami | Lose | W+4.5 | 6.5 | 2831 | -17 | 

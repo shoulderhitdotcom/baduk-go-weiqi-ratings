@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-27 | 第66期関西棋院第一位決定戦1回戦 | Nishi Takenobu | Abe Yoshiki | Win | W+0.5 | 6.5 | 2811 | -5 | 
 | 2021-10-20 | 第70期王座戦予選 | Abe Yoshiki | Hasegawa Sunao | Lose | W+0.5 | 6.5 | 2816 | -109 | 
 | 2021-08-19 | 第46期棋聖戦Cリーグ | Nakamura Sumire | Abe Yoshiki | Win | W+R | 6.5 | 2925 | 131 | 
 | 2021-06-09 | 第47期碁聖戦予選 | Abe Yoshiki | Murakawa Daisuke | Lose | W+R | 6.5 | 2794 | 7 | 

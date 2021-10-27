@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-27 | 第48期天元戦予選 | Fujiwara Katsuya | Murakawa Daisuke | Win | W+R | 6.5 | 3157 | -38 | 
+| 2021-10-21 | 第47期名人戦予選 | Fujita Akihiko | Murakawa Daisuke | Lose | B+R | 6.5 | 3195 | 6 | 
 | 2021-09-29 | 第48期天元戦予選 | Murakawa Daisuke | Fujii Shuya | Win | B+R | 6.5 | 3189 | -57 | 
 | 2021-09-16 | 第46期棋聖戦Sリーグ | Murakawa Daisuke | Yu Zhengqi | Lose | W+2.5 | 6.5 | 3246 | -62 | 
 | 2021-09-09 | 第47期碁聖戦予選 | Sato Yuta | Murakawa Daisuke | Win | W+R | 6.5 | 3308 | -10 | 

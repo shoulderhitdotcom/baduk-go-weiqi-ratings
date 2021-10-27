@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-27 | 第66期関西棋院第一位決定戦1回戦 | Nakano Yasuhiro | Sada Atsushi | Win | W+0.5 | 6.5 | 3140 | 31 | 
 | 2021-10-20 | 第47期碁聖戦予選 | Saito Tadashi | Sada Atsushi | Win | W+R | 6.5 | 3109 | 2 | 
 | 2021-10-07 | 第47期名人戦予選 | Sada Atsushi | Takao Shinji | Lose | W+R | 6.5 | 3107 | 3107 | 
 | 2021-10-04 | 第77期本因坊戦リーグ | Shibano Toramaru | Sada Atsushi | Win | W+R | 6.5 | missing | -3070 | 

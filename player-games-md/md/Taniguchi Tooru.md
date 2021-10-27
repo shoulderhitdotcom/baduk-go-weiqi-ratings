@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-27 | 第47期碁聖戦予選 | Imamura Toshiya | Taniguchi Tooru | Win | W+R | 6.5 | 3018 | 153 | 
 | 2021-09-16 | 第47期名人戦予選 | Taniguchi Tooru |  | Win | B+4.5 | 6.5 | 2865 | -42 | 
 | 2021-03-03 | 第77期本因坊戦予選 | Taniguchi Tooru | Ha Youngil | Win | B+R | 6.5 | 2907 | 34 | 
 | 2021-01-20 | 第77期本因坊戦予選 | Taniguchi Tooru | Utsumi Koki | Win | B+R | 6.5 | 2873 | 9 | 

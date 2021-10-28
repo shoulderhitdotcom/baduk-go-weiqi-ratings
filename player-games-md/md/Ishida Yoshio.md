@@ -7,6 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-28 | 第78期本因坊戦予選 | Ishida Yoshio | Kawai Shoji | Win | B+10.5 | 6.5 | 2703 | -51 | 
+| 2021-09-23 | 第48期天元戦予選 | Ishida Yoshio | So Kofuku | Lose | W+R | 6.5 | 2754 | 2754 | 
+| 2021-08-12 | 第70期王座戦予選 | Nyu Eiko | Ishida Yoshio | Lose | B+R | 6.5 | missing | -2855 | 
+| 2021-07-29 | 第47期名人戦予選 | Onishi Kenya | Ishida Yoshio | Lose | B+4.5 | 6.5 | 2855 | 10 | 
+| 2021-07-22 | 第70期王座戦予選 | Ishida Yoshio | Ishikura Noboru | Win | B+8.5 | 6.5 | 2845 | 21 | 
 | 2021-07-08 | 第46期棋聖戦Cリーグ | Ishida Yoshio | Mizokami Tomochika | Lose | W+12.5 | 6.5 | 2824 | -25 | 
 | 2021-07-01 | 第47期碁聖戦予選 | Aoki Kikuyo | Ishida Yoshio | Lose | B+5.5 | 6.5 | 2849 | -11 | 
 | 2021-06-21 | 第70期王座戦予選 | Hagiya Kazuhiro | Ishida Yoshio | Win | W+R | 6.5 | 2860 | -25 | 

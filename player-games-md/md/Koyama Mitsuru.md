@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-28 | 第25期女流棋聖戦1回戦 | Koyama Mitsuru |  | Lose | W+1.5 | 6.5 | 2682 | -99 | 
 | 2021-08-23 | 第40期女流本因坊戦挑戦者決定戦  | Hoshiai Shiho | Koyama Mitsuru | Lose | B+R | 6.5 | 2781 | 3 | 
 | 2021-08-02 | 第40期女流本因坊戦準決勝  | Xie Yimin | Koyama Mitsuru | Win | W+R | 6.5 | 2778 | 160 | 
 | 2021-07-05 | 第40期女流本因坊戦3回戦 | Koyama Mitsuru | Nakamura Sumire | Win | B+3.5 | 6.5 | 2618 | 155 | 

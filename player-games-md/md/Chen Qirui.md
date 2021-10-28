@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-28 | 第14期棋王戦（台湾）リーグ | Chen Qirui | Cai Chengwei | Win | B+R | 6.5 | 3225 | 3 | 
 | 2021-10-26 | 2021新人王戦（台湾）決勝三番勝負第3局  | Lin Shixun | Chen Qirui | Win | W+R | 7.5 | 3222 | 12 | 
 | 2021-10-25 | 第14期棋王戦（台湾）リーグ | Chen Qirui | Lai Junfu | Lose | W+R | 6.5 | 3210 | -5 | 
 | 2021-10-22 | 2021新人王戦（台湾）決勝三番勝負第2局  | Chen Qirui | Lin Shixun | Win | B+R | 7.5 | 3215 | 4 | 

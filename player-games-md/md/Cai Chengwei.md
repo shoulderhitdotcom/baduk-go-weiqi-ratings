@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-28 | 第14期棋王戦（台湾）リーグ | Chen Qirui | Cai Chengwei | Lose | B+R | 6.5 | 2786 | -8 | 
 | 2021-10-25 | 第14期棋王戦（台湾）リーグ | Cai Chengwei | Xiao Zhenghao | Lose | W+0.5 | 6.5 | 2794 | 1 | 
 | 2021-10-21 | 第14期棋王戦（台湾）リーグ | Lin Junyan | Cai Chengwei | Lose | B+R | 6.5 | 2793 | -151 | 
 | 2021-10-18 | 第14期棋王戦（台湾）リーグ | Cai Chengwei | Lin Lixiang | Lose | W+3.5 | 6.5 | 2944 | 64 | 

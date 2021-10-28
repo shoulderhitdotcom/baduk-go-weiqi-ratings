@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-28 | 第14期棋王戦（台湾）リーグ  | Lin Lixiang | Xiao Zhenghao | Win | B+0.5 | 6.5 | 3073 | -1 | 
 | 2021-10-25 | 第14期棋王戦（台湾）リーグ  | Lin Lixiang | Lin Junyan | Lose | W+R | 6.5 | 3074 | 0 | 
 | 2021-10-21 | 第14期棋王戦（台湾）リーグ | Wang Yuanjun | Lin Lixiang | Lose | B+3.5 | 6.5 | 3074 | 20 | 
 | 2021-10-19 | 第9期中環碁聖戦8強戦 | Lin Lixiang | Chen Qirui | Lose | W+R | 6.5 | 3054 | -147 | 

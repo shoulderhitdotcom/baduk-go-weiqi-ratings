@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-28 | 第14期棋王戦（台湾）リーグ | Lin Junyan | Wang Yuanjun | Lose | B+R | 6.5 | 3233 | -6 | 
 | 2021-10-25 | 第14期棋王戦（台湾）リーグ | Wang Yuanjun | Jian Jingting | Win | B+R | 6.5 | 3239 | 21 | 
 | 2021-10-21 | 第14期棋王戦（台湾）リーグ | Wang Yuanjun | Lin Lixiang | Win | B+3.5 | 6.5 | 3218 | 0 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Lee Donghoon | Wang Yuanjun | Lose | B+R | 6.5 | 3218 | -2 | 

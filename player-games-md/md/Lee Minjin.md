@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-29 | 2021女子最高棋士決定戦（韓国）リーグ | Lee Minjin | Kim Cheayoung | Win | B+R | 6.5 | 2775 | -46 | 
 | 2021-10-08 | 2021女子最高棋士決定戦（韓国）リーグ | Cho Hyeyeon | Lee Minjin | Lose | B+4.5 | 6.5 | 2821 | -97 | 
 | 2021-10-01 | 2021女子最高棋士決定戦（韓国）リーグ | Lee Minjin |  | Win | B+R | 6.5 | 2918 | -43 | 
 | 2021-09-19 | 第7回韓国女子囲碁リーグプレーオフ第3戦 | Choi Jeong | Lee Minjin | Lose | B+R | 6.5 | 2961 | -11 | 

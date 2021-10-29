@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-29 | 第69期王座戦挑戦手合五番勝負第1局  | Iyama Yuta | Shibano Toramaru | Win | B+R | 6.5 | 3480 | 1 | 
 | 2021-10-25 | 第60期十段戦2回戦 | Adachi Toshimasa | Iyama Yuta | Lose | B+R | 6.5 | 3479 | 6 | 
 | 2021-10-20 | 第46期名人戦挑戦手合七番勝負第6局  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3473 | -36 | 
 | 2021-10-13 | 第46期名人戦挑戦手合七番勝負第5局  | Ichiriki Ryo | Iyama Yuta | Lose | B+R | 6.5 | 3509 | 7 | 

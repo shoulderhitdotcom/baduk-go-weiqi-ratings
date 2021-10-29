@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-29 | 第9期中環碁聖戦準決勝 | Lai Junfu | Chen Qirui | Lose | W+R | 6.5 | 3149 | -13 | 
 | 2021-10-28 | 第14期棋王戦（台湾）リーグ | Lai Junfu | Jian Jingting | Lose | W+R | 6.5 | 3162 | -11 | 
 | 2021-10-25 | 第14期棋王戦（台湾）リーグ | Chen Qirui | Lai Junfu | Win | W+R | 6.5 | 3173 | 10 | 
 | 2021-10-21 | 第14期棋王戦（台湾）リーグ  | Xiao Zhenghao | Lai Junfu | Win | W+R | 6.5 | 3163 | 2 | 

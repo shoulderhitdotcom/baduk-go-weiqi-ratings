@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kono Rin vs Yamashita Keigo** | **Kono Rin streak** | **Yamashita Keigo streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-09-23 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Kono Rin | W+4.5 | 6.5 | 25:23 | 7 | 0 | 
 | 2020-12-10 | 第46期名人戦リーグ | Kono Rin | Yamashita Keigo | B+R | 6.5 | 24:23 | 6 | 0 | 
 | 2020-07-09 | 第45期名人戦リーグ | Yamashita Keigo | Kono Rin | W+1.5 | 6.5 | 23:23 | 5 | 0 | 
 | 2020-02-20 | 第75期本因坊戦リーグ | Kono Rin | Yamashita Keigo | B+R | 6.5 | 22:23 | 4 | 0 | 

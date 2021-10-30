@@ -5,1033 +5,1035 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 2021奉賢新城杯囲碁大師招待戦決勝 | Gu Li | Luo Xihe | W+¼ | 2021-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OWKOc1VefUtkJhoNvCcnxw%3D%3D) | 
-| 2021奉賢新城杯囲碁大師招待戦準決勝 | Ma Xiaochun | Gu Li | W+R | 2021-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=siaUTXq8NFkUCD79%2Fz3euw%3D%3D) | 
-| 2021奉賢新城杯囲碁大師招待戦1回戦 | Cao Dayuan | Gu Li | W+R | 2021-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hEerIu%2BO73x73q0nxBa2UA%3D%3D) | 
-| 第20回西南棋王戦2回戦 | Gu Li | Yang Dingxin | W+R | 2021-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Itt%2Bncf9VgmvBYgTG1y9g%3D%3D) | 
-| 第20回西南棋王戦1回戦 | Liu Qifeng | Gu Li | W+R | 2021-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hu0I8hht3ljJtQn4NqX6qA%3D%3D) | 
-| 2020中日韓聶衛平杯囲碁マスターズ3回戦 | Yun Junsang | Gu Li | W+R | 2020-12-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aYp7D1Ev5Q6VPnukOQw28Q%3D%3D) | 
-| 第22回中国囲碁甲級リーグプレーオフ | Gu Li | Huang Yunsong | W+¼ | 2020-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ypNTd0GdEskpBncNiFM5AA%3D%3D) | 
-| 2020中日韓聶衛平杯囲碁マスターズ1回戦  | Kono Rin | Gu Li | W+R | 2020-12-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YMQdqbcVmetSidDNCJXOIA%3D%3D) | 
-| 第19回西南棋王戦1回戦 | Liu Yuhang | Gu Li | B+R | 2020-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XUBG4u%2BSAGTdvA7sjtTa7A%3D%3D) | 
-| 第11期中国竜星戦Bブロック6回戦 | Zhao Chenyu | Gu Li | B+R | 2020-01-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CPHQWJDIfRPSh8jD7Yjz5w%3D%3D) | 
-| 第34期中国囲碁天元戦1回戦 | Fan Tingyu | Gu Li | B+R | 2020-01-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XMYKh1QSvpWCeHvLDUIkDg%3D%3D) | 
-| 第34期中国囲碁天元戦予選 | Xie He | Gu Li | W+R | 2020-01-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BJpWS7DsWnxyOZx2pIz8gA%3D%3D) | 
-| 第11期中国竜星戦予選 | Gu Li | Xie He | B+1¾ | 2019-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s6DKu1hVQSnRmEiElDiTUg%3D%3D) | 
-| 第11期中国竜星戦予選 | missing | Gu Li | W+R | 2019-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kCUBG9Awa1n6QpfN29qTRQ%3D%3D) | 
-| 第11期中国竜星戦予選 | Gu Li | missing | B+R | 2019-12-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F1W%2FHYYXYa1OhsotYYW4ww%3D%3D) | 
-| 2019扁康杯中韓囲棋国手友誼戦第2戦 | Gu Li | Cho Hanseung | B+R | 2019-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5T3hrGztkUyqSyYYfinnLw%3D%3D) | 
-| 2019扁康杯中韓囲棋国手友誼戦第1戦 | Lee Changho | Gu Li | W+R | 2019-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sRFUAqxLgmDtPguKg2HgVg%3D%3D) | 
-| 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Gu Li | missing | W+¼ | 2019-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CeWKWb4ag8jE7ckRzxYZ0w%3D%3D) | 
-| 第15期威孚房開杯棋王戦32強戦 | Gu Li | Ding Hao | W+R | 2019-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vpvhffkg0OoPlcr%2B0hfFYg%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第15節 | Gu Li | Dang Yifei | W+R | 2019-08-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6EI%2BOku6MYq0yJZUl0YEgQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第14節 | Tu Xiaoyu | Gu Li | B+R | 2019-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mw%2B19FfhVfO8J4px8GasCQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第9節 | Lian Xiao | Gu Li | B+R | 2019-07-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5A2tlK91ASAyUmsvxlesqw%3D%3D) | 
-| 2019年紹興国際囲棋精英戦国内組決勝 | Ma Xiaochun | Gu Li | B+¾ | 2019-07-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3dMh4iMSnLkkckT%2F1sQF7Q%3D%3D) | 
-| 2019年紹興国際囲棋精英戦国内組1回戦 | Gu Li | Luo Xihe | B+R | 2019-07-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YqpRw%2FmHn4lK437U2lEpYQ%3D%3D) | 
-| 第24回三星火災杯統合予選準決勝 | Kim Myounghoon | Gu Li | W+R | 2019-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bqJrkFNIblVq83Y9vlDZYQ%3D%3D) | 
-| 「天下第一蓋」龍虎超級戦 | Gu Li | Chang Hao | W+R | 2019-06-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5xNkSunCrRfs423Oxle5eQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第6節 | Yao Xiaotong | Gu Li | W+R | 2019-06-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R5OTK39HV2EkwcqssEe4TQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第5節 | Gu Li | Park Hamin | B+R | 2019-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l%2BG1LUmPrv%2FrChKfLxnzqQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第4節 | Lee Donghoon | Gu Li | B+R | 2019-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VxlkfMaafZPt4RfIFI3zDQ%3D%3D) | 
-| 第21回中国囲碁甲級リーグ第1節上海-重慶 | Gu Li | Hu Yaoyu | W+¼ | 2019-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5V62m%2B7er5ZF4hOp7QUxiQ%3D%3D) | 
-| 第24回LG杯統合予選3回戦 | Han Sanghoon | Gu Li | W+R | 2019-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VXH0rv6Z6JSnnLJGStNrrA%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦2回戦 | Xu Jiayang | Gu Li | B+R | 2019-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D28eoBVGx7Cgi7U91gzp8w%3D%3D) | 
-| 2019CCTV杯中国囲棋電視快棋戦1回戦 | Zhou Ruiyang | Gu Li | W+R | 2019-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gVj4KyneM0AChFt%2F4M%2Bljw%3D%3D) | 
-| 第18回西南棋王戦1回戦 | He Yuhan | Gu Li | B+R | 2019-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RkGrZ0Mwl%2BD0K4KvpbSrMw%3D%3D) | 
-| 第10期中国竜星戦予選 | Gu Li | Liu Xing | W+¼ | 2019-03-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GBgz%2F88zIPMIZ3gRddDYRQ%3D%3D) | 
-| 第10期中国竜星戦予選 | Gu Li | missing | B+R | 2019-03-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4LH9EEuuvjJ22PMAmUrflA%3D%3D) | 
-| 第10期中国竜星戦予選 | missing | Gu Li | W+R | 2019-03-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QMAITw8tTfNkgjmccPkfaA%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦予選準決勝 | Xia Chenkun | Gu Li | B+¾ | 2019-02-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S%2BiHAQWxDiVXopKeaGvbWg%3D%3D) | 
-| 第16期倡棋杯中国プロ囲棋選手権戦予選2回戦 | missing | Gu Li | W+R | 2019-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mkXwW6UdUHymSRvgVWW%2BoA%3D%3D) | 
-| 第33期中国囲碁天元戦予選 | Meng Tailing | Gu Li | B+R | 2019-01-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BYa9fdarh0M2LQGlN%2F0Nrw%3D%3D) | 
-| 第4期洛陽白雲山杯中国棋聖戦資格戦 | Gu Li | Fan Yunruo | W+R | 2018-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rNd1PBRVSUeY5C4051dZ5g%3D%3D) | 
-| 第4期洛陽白雲山杯中国棋聖戦資格戦 | Gu Li | Fan Yin | B+R | 2018-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zc5JKRGyAYQEJ6UVkzUxIA%3D%3D) | 
-| 第4期洛陽白雲山杯中国棋聖戦資格戦 | Pan Tingyu | Gu Li | W+1¼ | 2018-12-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D1h4VialW9Q5CVvcy1aohw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第26節重慶-廈門 | Gu Li | Fan Yin | B+5¾ | 2018-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VeO8NpdEpJEZosUeFfYbWw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第25節上海-重慶 | Lee Yeongkyu | Gu Li | B+R | 2018-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QZUFldDl72WqWsm9HxXyUw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第24節重慶-山東 | Gu Li | Chen Zijian | B+R | 2018-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZA%2FWfST1845IkNnaLWgGEw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第23節衢州-重慶 | Gu Li | Lee Sedol | B+R | 2018-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z9om1t%2BhgHVRKnUUlob07g%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第22節重慶-民生 | Gu Li | Shi Yulai | W+3¼ | 2018-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=87A%2BjlX2c9HiplVd3Gv%2BLw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第21節蘇泊爾-重慶 | Li Qincheng | Gu Li | W+R | 2018-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pf9yNrzhhFy6ls1xd9bO3Q%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第20節重慶-江蘇 | Gu Li | Huang Yunsong | B+R | 2018-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EpXqcke3SARTKuiaY9p2xA%3D%3D) | 
-| 第14期威孚房開杯棋王戦32強戦 | Gu Li | Li Qincheng | W+R | 2018-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zcZZOQijAnd4EkTraZCPWA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第19節浙江-重慶 | Qin Yuexin | Gu Li | B+¾ | 2018-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dDiQWaezyvcl7jcLIQL0Mw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第18節重慶-江西 | Gu Li | Yang Kaiwen | B+R | 2018-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9xkWIhOjtRWd4Kn01M3VSg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第17節成都-重慶 | missing | Gu Li | W+R | 2018-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kDyOUau8UGHavecvPN3CgA%3D%3D) | 
-| 第1回天府杯世界囲碁選手権A組2回戦 | Gu Li | Lian Xiao | W+R | 2018-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c6fJC36HJptA16S7ht3aMw%3D%3D) | 
-| 第1回天府杯世界囲碁選手権A組1回戦 | Kang Dongyun | Gu Li | W+R | 2018-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m5eZEoY77esIx62AMIAcWw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第16節杭州-重慶 | Gu Li | Xia Chenkun | W+R | 2018-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G%2BNUeHb3GIHqHPdL9nGtLQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第15節重慶-中信 | Gu Li | Han Yizhou | W+R | 2018-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DRmIO2hEr9Xzm2A1PCgRmQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第14節天津-重慶 | Meng Tailing | Gu Li | B+R | 2018-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yUMnO9Xnq0E7zJqmfb%2B8UA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第13節廈門-重慶 | Zhou Ruiyang | Gu Li | B+R | 2018-08-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5FmTV1mqMB0uyHoBU%2Ba%2B8A%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第12節重慶-上海 | Gu Li | Li Weiqing | W+R | 2018-08-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2hxw2b%2FAZbsK4e5bpqi5iQ%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第11節山東-重慶 | Gu Li | Chen Zijian | B+R | 2018-08-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0FtGCoDla0h1UDwExLyntg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第10節重慶-衢州 | Lee Sedol | Gu Li | B+2¾ | 2018-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g37N%2FJN7JtPsiTeJGTwilg%3D%3D) | 
-| 第20期阿含・桐山杯中国早碁オープン戦本選1回戦 | Gu Li | Wang Zejin | W+R | 2018-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5eKQ4ZdMchOYyRQnu9KP6g%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第9節民生-重慶 | Gu Li | Tao Xinran | B+R | 2018-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0%2BGm7x%2FqTS9R31R1uhn2qA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第8節重慶-蘇泊爾 | Gu Li | Lian Xiao | W+R | 2018-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y9%2FRgmmlU28xst5y36uz8A%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第7節江蘇-重慶 | Huang Yunsong | Gu Li | B+1¾ | 2018-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=96WtjwckZaOwJNhkcj%2BVhw%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第6節重慶-浙江 | Gu Li | Li Zhe | W+R | 2018-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Bfqlo7hGLWtnfqVuxcSiA%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第5節江西-重慶 | Gu Li | Tu Xiaoyu | B+R | 2018-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D9bOBHQQIlrAEHGnWpzDHg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第4節重慶-成都 | Liao Yuanhe | Gu Li | B+R | 2018-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2olMIJwZsoI3zW71oxZv%2FA%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦3回戦 | Gu Li | Lian Xiao | W+R | 2018-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tHYkmfzj%2FL8fgqEyZAScDw%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦2回戦 | Gu Li | Tao Xinran | B+1¾ | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fzs9AZV%2BNb1fRNePqVA5GA%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦1回戦 | Gu Li | Liao Yuanhe | B+R | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L1yLa11Gj%2FSflqzX1sA0pg%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第3節重慶-杭州 | Xia Chenkun | Gu Li | B+R | 2018-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hWg4bATDVoptLBeM0uhz3Q%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第2節中信-重慶 | Gu Li | Han Yizhou | B+R | 2018-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BWuonVLuEzqD%2BTWHJXVe3w%3D%3D) | 
-| 第20回中国囲碁甲級リーグ第1節重慶-天津 | Gu Li | Meng Tailing | W+R | 2018-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o0QfR5G5U%2FRSaa4RXB1jiw%3D%3D) | 
-| 第17回西南棋王戦1回戦 | Mao Ruilong | Gu Li | B+R | 2018-03-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3MEeR4%2FKuP7epSfiUbWiQA%3D%3D) | 
-| 第9期中国竜星戦予選 | Liu Xing | Gu Li | B+R | 2018-03-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GcZfKb4KY2jUJGAL1dfkCg%3D%3D) | 
-| 第9期中国竜星戦予選 | Gu Li | missing | B+R | 2018-03-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AevgnBsxLAga7jPz6LZQfg%3D%3D) | 
-| 第32期中国囲碁天元戦1回戦 | Gu Li | Zhao Chenyu | W+R | 2018-01-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q6Py4S8egL9gc1cCmiEm1g%3D%3D) | 
-| 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Tao Xinran | Gu Li | B+R | 2018-01-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6EZXJhyYh27jq08BPpE00g%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第26節 | Gu Li | Gu Lingyi | B+6¾ | 2017-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fa9XQBVE%2BMyyB2p5qAPbPA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第25節 | Gu Li | Yang Kaiwen | W+¼ | 2017-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xci6mh3a8Z%2BAPjiDrTcidw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第24節 | Meng Tailing | Gu Li | B+R | 2017-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sekiUI2LIkmDLd9GZjkT8Q%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第23節 | Gu Li | Tong Mengcheng | W+R | 2017-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2MRXq3g3niZ6L37umhvwJw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第22節 | Gu Li | Liu Xing | B+R | 2017-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=frpRLsOX6fajf1wtTd9lbQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第21節 | Gu Li | Zhou Ruiyang | W+R | 2017-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z96v6vfDF2hIlXy7%2FPruLQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第20節 | Jiang Qirun | Gu Li | B+R | 2017-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jUX5HdbhCvgeKHncBZBiiQ%3D%3D) | 
-| 第13期威孚房開杯棋王戦32強戦 | Gu Li | Lian Xiao | W+R | 2017-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XLJCHQTFvn9EZqPmcKLcpg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第19節 | Gu Li | Peng Liyao | W+R | 2017-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AS0ZgAZFdVw7l%2BMjlbSFjg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第18節 | Gu Li | Shin Minjun | B+R | 2017-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1967vUiH5lXpf%2BWII89LWQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第17節 | Gu Li | Li Xiangyu | B+R | 2017-09-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0fcsbg887YDhA%2BC3gBLSpg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第16節 | missing | Gu Li | B+R | 2017-09-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qrU16JztXUpFMm1xP%2Fj%2BqQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第15節 | Gu Li | Hu Yaoyu | B+R | 2017-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cWl0yJQY8DSePjbl7GW40Q%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第13節 | Gu Li | Liao Yuanhe | W+R | 2017-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ch%2FpDgn8m6e8DBP2VteLpw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第12節 | Sun Tengyu | Gu Li | W+R | 2017-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0GIAbgdqnEiyErkBKoy0bQ%3D%3D) | 
-| 嫘祖杯30回中国名人戦16強戦 | Gu Li | Li Qincheng | W+2.5 | 2017-08-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=meOJjpWp%2BOZuRA4syuoxiw%3D%3D) | 
-| 嫘祖杯30回中国名人戦32強戦 | Gu Li | Li Biqi | B+R | 2017-08-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=urpbky2dthmWhl7G8nzTgg%3D%3D) | 
-| 金立杯7回海峡世界冠軍争覇8強戦 | Gu Li | Chen Yaoye | W+R | 2017-07-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TTPC2BWMuG9UXT6Vc3bZ%2Bw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第11節 | Gu Li | Xie Erhao | B+R | 2017-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GJz3%2F0HoGP8BHFqxeseSCg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第10節 | Huang Yunsong | Gu Li | W+R | 2017-07-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YPA%2FNWTaZos31Fbf2T6vfw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第9節 | Gu Li | missing | B+R | 2017-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RQyg2TUZEYrz9sQ9mALh%2FQ%3D%3D) | 
-| 第1回巔峰夢想拉薩交通産業集団ラリー戦a6 | Gu Li | Chen Yaoye | B+R | 2017-06-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mDLvWYs5yzbNzUZjNk1Z7g%3D%3D) | 
-| 第1回巔峰夢想拉薩交通産業集団ラリー戦a5 | Ke Jie | Gu Li | B+R | 2017-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I9po3nGUkDdwrO3FeugaBQ%3D%3D) | 
-| 第1回巔峰夢想拉薩交通産業集団ラリー戦a3 | Chen Yaoye | Gu Li | B+R | 2017-06-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FRC8GShatcDFDKUfo7uzgg%3D%3D) | 
-| 第1回巔峰夢想拉薩交通産業集団ラリー戦2回戦 | Gu Li | Ke Jie | W+R | 2017-06-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mjTcBXQhBU3sltw%2Fb0lmKQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第7節 | Chen Haoxin | Gu Li | W+R | 2017-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V9sTbFnxCXoHkx1L3ls8uQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第6節 | Gu Li | Peng Liyao | W+R | 2017-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kA6%2F5v%2F8vv8kDQE%2FV7blWw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第5節 | Gu Li | Chen Yaoye | W+R | 2017-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YWoSaFi%2Fg4X2s6rlaRoi%2Bw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第4節 | Gu Li | Xia Chenkun | B+R | 2017-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IQlArJZYuSlZsl0Jij%2B%2F0w%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第3節 | missing | Gu Li | W+R | 2017-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=32X7qsOHQXuST6edt9y1sg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第2節 | Gu Li | Hu Yaoyu | B+R | 2017-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e1eDsU1x6NcG0MK059Vh4Q%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第1節 | Gu Li | Wu Guangya | W+0.5 | 2017-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FEp2RvVDIqY7g9vk5KBcNQ%3D%3D) | 
-| 世界第三期Mlily夢百合杯予選決勝 | An Joyeong | Gu Li | B+R | 2017-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dsF4Vs2kgrTdsSt0uULY7g%3D%3D) | 
-| 世界第三期Mlily夢百合杯予選2回戦 | Gu Li | Yi Lingtao | B+R | 2017-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9E8PW5FW56QnZSUR2pAYGQ%3D%3D) | 
-| 昌江棋子湾中国冠軍戦決勝 | Gu Li | Chang Hao | B+R | 2017-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n2hSAzMC2G0lMubq3IuLXw%3D%3D) | 
-| 昌江棋子湾中国冠軍戦1回戦 | Nie Weiping | Gu Li | W+R | 2017-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VGu7lYqRAG4vh3URApCC0w%3D%3D) | 
-| 第8期中国竜星戦Aブロック7回戦 | Li Qincheng | Gu Li | B+R | 2017-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dd4vP7RXuoVAmUVY9ckshA%3D%3D) | 
-| 第16回西南棋王戦1回戦 | Gu Li | Li Xiangyu | W+R | 2017-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FBIKHZFzK4F0YQEuW1sT6A%3D%3D) | 
-| 天元戦 | Zhou Ruiyang | Gu Li | B+5.5 | 2017-01-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LwZgYKV93fCE5RxhA2wffQ%3D%3D) | 
-| 第31期中国囲碁天元戦3回戦 | Gu Li | Chen Xian | B+1.5 | 2017-01-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OsE04np49WBDS4l5RLOuZg%3D%3D) | 
-| 第31期中国囲碁天元戦2回戦 | Gu Li | Hu Yaoyu | B+R | 2017-01-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2Lfhbbv%2F%2B%2B%2BNnnNvVRxBMQ%3D%3D) | 
-| 第31期中国囲碁天元戦1回戦 | Chen Zijian | Gu Li | W+R | 2017-01-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wxg3vBX%2BLDi1LBDNXieLnw%3D%3D) | 
-| Alphago Online Series on Tygem and Fox 60 | Gu Li | missing | W+2.5 | 2017-01-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0TpO1OVEGyokzj5OUvXR2g%3D%3D) | 
-| Alphago Online Series on Tygem and Fox 33 | missing | Gu Li | B+R | 2017-01-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FmS803vEVmaYtWQY93%2BphA%3D%3D) | 
-| Alphago Online Series on Tygem and Fox 32 | Gu Li | missing | W+R | 2017-01-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RIcHvQUoduZf%2B5dSQoAmCA%3D%3D) | 
-| 2016深圳竜華世界冠軍大師戦 | Luo Xihe | Gu Li | W+R | 2016-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nHn3qo2MbkoL8vu0eUicvg%3D%3D) | 
-| 嫘祖杯第29期中国名人戦32強戦 | Gu Li | Meng Tailing | W+R | 2016-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3tUwFWoIsxRfXswm%2Bwe6Nw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第22節 | Gu Li | Shin Jinseo | W+R | 2016-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cbwvt0iXSdyEZjeYuoWMoA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第21節 | Peng Liyao | Gu Li | B+1.5 | 2016-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mmvdDLQEjbNPl31TRTqWnw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第20節 | Gu Li | Ding Shixiong | B+R | 2016-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QWa%2F1A0sdfjpdMPwZbeZig%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第19節 | Sun Tengyu | Gu Li | W+R | 2016-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2yFCFLqwaQUII%2BkBmdY%2BJQ%3D%3D) | 
-| 第21期LG杯朝鮮日報棋王戦8強戦 | Gu Li | Park Junghwan | W+R | 2016-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OEN92lo6HpMQF6SOKaeKfQ%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦1回戦 | Gu Li | missing | W+R | 2016-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Coq8t%2FCdQEeGpaOUoaw8HQ%3D%3D) | 
-| 2016金立杯全国囲棋甲級聯戦第17回戦 | Gu Li | missing | B+R | 2016-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EmKs3xt5ndSjH5qmguYrfA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第16節 | missing | Gu Li | W+R | 2016-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tonan8mz%2B%2BWqFVjjFtvkBA%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Tuo Jiaxi | Gu Li | B+R | 2016-10-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0YnUvwWp56IKPaxHlVkt0w%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第15節 | Gu Li | Xie Ke | W+R | 2016-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r%2FVrxDKGukQexi5j2G57wQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第14節 | Gu Li | Meng Tailing | B+R | 2016-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zBcMpWBoYgJsVnPCLI9mCg%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦A2 | Gu Li | Tong Mengcheng | W+R | 2016-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eDYh4C4H7AB6oJBYjlhAVQ%3D%3D) | 
-| 第21回三星火災杯世界囲碁マスターズ1回戦A1 | Shi Yue | Gu Li | B+R | 2016-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hFIvJ6XNeOhu8cd4chslAA%3D%3D) | 
-| 第12期威孚房開杯棋王戦2回戦 | Xie Erhao | Gu Li | B+R | 2016-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mRV14pb%2FkHD8jL2fOMuh9Q%3D%3D) | 
-| 第12期威孚房開杯棋王戦1回戦 | Gu Li | Li Qincheng | B+R | 2016-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VS4qlXwS2QTar3aWpEOQVg%3D%3D) | 
-| 第18期阿含・桐山杯中国早碁オープン戦準決勝 | Gu Li | Chen Yaoye | W+6.5 | 2016-07-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q09prfNAeX5Vx9G16aaedA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第11節 | Gu Li | Niu Yutian | B+R | 2016-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tz0tB9ZQLKSIO3saAobHGw%3D%3D) | 
-| 第3回百霊杯世界オープン戦3回戦 | Gu Li | Park Junghwan | W+R | 2016-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DlEfJlzPWoIKIjuYdPHPuQ%3D%3D) | 
-| 第3回百霊杯世界オープン戦2回戦 | Gu Li | Qin Yuexin | B+1.5 | 2016-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QAoCAh6w%2BOWqbXmk7PE8xw%3D%3D) | 
-| 第3回百霊杯世界オープン戦1回戦 | Yu Zhiying | Gu Li | W+R | 2016-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ElGU1FxHZSsMP3yXqtPMEg%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第10節 | Xu Jiayang | Gu Li | W+R | 2016-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l07G80%2FBIGlbIx%2BMDxcC5A%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第8節 | Gu Li | missing | B+R | 2016-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nZDpzo5685uyTkRHgClGWw%3D%3D) | 
-| 第18期阿含・桐山杯中国早碁オープン戦2回戦 | Mi Yuting | Gu Li | W+R | 2016-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j%2BWgl9qK%2Fjj1FbmaaGyogg%3D%3D) | 
-| 第18期阿含・桐山杯中国早碁オープン戦1回戦 | Gu Zihao | Gu Li | W+R | 2016-06-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OtZ4w8kRwwhAHmrnGZ8vMQ%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第7節 | Gu Li | Tuo Jiaxi | W+R | 2016-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jMmNNYIJBq0a7SiVJ2TIhw%3D%3D) | 
-| 2016CCTV杯中国囲棋電視快棋戦1回戦 | Gu Li | missing | W+R | 2016-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lkv%2FaWmeV1yb4mIwKbn%2Fxw%3D%3D) | 
-| 第21回LG杯朝鮮日報棋王戦2回戦 | Lee Yeongkyu | Gu Li | W+R | 2016-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4qJK3rH%2Bp5DcuU3OCZyJeg%3D%3D) | 
-| 第21回LG杯朝鮮日報棋王戦1回戦 | Lee Sedol | Gu Li | W+R | 2016-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=syjEceaJ0j%2FDBKslqbt3Qw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第6節 | Park Junghwan | Gu Li | B+R | 2016-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sQzEg4vr7mn8GkLOTnFYxA%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Jiang Weijie | Gu Li | W+R | 2016-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y0GeUfryqdrs7%2FafIHo9Dw%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Fan Tingyu | Gu Li | W+R | 2016-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YFBPKriCOOHwuPFo4slI5A%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第5節 | Gu Lingyi | Gu Li | B+R | 2016-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kRjvdNPSJctbJYwHuytWAw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第4節 | Gu Li | Xie Ke | W+2.5 | 2016-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O8Ka7vO2MS6DcJEazGozwA%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第3節 | Gu Li | Meng Tailing | B+R | 2016-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bZLhZ%2BcQGHF8kXAuCgpphA%3D%3D) | 
-| 第8回応氏杯世界選手権1回戦 | Park Yeonghun | Gu Li | B+R | 2016-04-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pZEJu4AX2k5VurXZmW%2FCOw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第2節 | Gu Li | Tong Mengcheng | B+1.5 | 2016-04-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dSjm%2Fq9Z9aQy6xuqaMFQmw%3D%3D) | 
-| 第18回中国囲碁甲級リーグ第1節 | Gu Li | Zhou Hexi | B+R | 2016-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2uovBSr8REXmWh6o6khuMQ%3D%3D) | 
-| 第11回春蘭杯世界囲碁選手権2回戦 | Tuo Jiaxi | Gu Li | B+R | 2016-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4EGzZQQLAf%2FBKCVXCQbbPA%3D%3D) | 
-| 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Fan Yunruo | Gu Li | B+R | 2016-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FNVD%2F7wXTs%2FWdxO5NC4f3g%3D%3D) | 
-| 第15回西南棋王戦2回戦 | Yang Dingxin | Gu Li | B+R | 2016-03-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dbdWxeMn%2F76YtJOK3nn30g%3D%3D) | 
-| 第15回西南棋王戦1回戦 | Dang Yifei | Gu Li | W+R | 2016-03-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=evjPyny1VPGDip%2BDBi2%2BWQ%3D%3D) | 
-| 第17回農心辛ラーメン杯世界囲碁最強戦第10戦 | Murakawa Daisuke | Gu Li | B+R | 2016-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iGNIA%2BoYBxOIOYfrr9xZeg%3D%3D) | 
-| 第30期中国囲碁天元戦挑戦者決定戦 | Gu Li | Tang Weixing | W+R | 2016-01-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=igPghwnrjf6RiqvVXy9Dsg%3D%3D) | 
-| 第30期中国囲碁天元戦準決勝 | Xie Erhao | Gu Li | W+R | 2016-01-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ngQ374yQzITV3wzKwP2tlQ%3D%3D) | 
-| 第30期中国囲碁天元戦3回戦 | Gu Li | Zhou Hexi | B+R | 2016-01-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tCtIGHI%2BKShzXWa2vOGt6g%3D%3D) | 
-| 第7期中国竜星戦3回戦 | Gu Li | Huang Yunsong | W+R | 2016-01-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y7r7wzpsox2Wjx%2FW%2FX6zew%3D%3D) | 
-| 第30期中国囲碁天元戦2回戦 | Wang Haoyang | Gu Li | W+R | 2016-01-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0vS3ASTz0iDMjvCVgzmbrQ%3D%3D) | 
-| 第30期中国囲碁天元戦1回戦 | Xie Ke | Gu Li | W+R | 2016-01-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vkKqyJizGZElynyppsVyXQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第21節 | Qin Yuexin | Gu Li | W+2.5 | 2015-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O4KrznQuyQEw6O2PWk8FXQ%3D%3D) | 
-| 第17回農心辛ラーメン杯世界囲碁最強戦第9戦 | Park Junghwan | Gu Li | W+2.5 | 2015-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KNrw51fM6t45csyyX1qSjA%3D%3D) | 
-| 第17回農心辛ラーメン杯世界囲碁最強戦第8戦 | Kono Rin | Gu Li | W+R | 2015-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yxAKUvbiib4ug0SPze996w%3D%3D) | 
-| 第17回農心辛ラーメン杯世界囲碁最強戦第7戦 | Choi Cheolhan | Gu Li | W+R | 2015-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SwC7fY2Kq6gG4H6DD17Mcg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第20節 | Tao Xinran | Gu Li | W+R | 2015-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CeJsdGkw8yf2G5ctZj78ng%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第19節 | Gu Li | Xie Ke | W+2.5 | 2015-11-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a54Us7Qpksm8mDvnKjfHRQ%3D%3D) | 
-| 第11期威孚房開杯棋王戦3回戦 | Li Xuanhao | Gu Li | B+R | 2015-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nDsjFEEwKjAzzoYpmjnawA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第18節 | Gu Li | Lee Sedol | B+R | 2015-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oRI8u56P8Mv0r324lIlsmw%3D%3D) | 
-| 第7期中国竜星戦2回戦 | Gu Li | Liu Xing | B+R | 2015-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pjXZGQOndyQUwttT3pMIMA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第17節 | Ke Jie | Gu Li | B+R | 2015-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bnbKMctLE0RtmDEyAi3VzA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第15節 | Gu Li | Li Qincheng | W+R | 2015-10-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DKOiaxGt4wPqkfZ1zUbbRw%3D%3D) | 
-| 第11期威孚房開杯棋王戦2回戦 | Tan Xiao | Gu Li | W+0.5 | 2015-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4eA9SyUSr6AOKjNokN0liQ%3D%3D) | 
-| 第11期威孚房開杯棋王戦1回戦 | Huang Yunsong | Gu Li | W+R | 2015-10-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DgO8Tx%2BGLQyyKl6NGR61jw%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第16節 | Qiu Jun | Gu Li | B+R | 2015-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sM0WIou9%2B66flWam8TM3Qg%3D%3D) | 
-| 第7期中国竜星戦1回戦 | Tao Xinran | Gu Li | W+R | 2015-09-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IoHRAzFAhxRdkq6XHszVyg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第14節 | Fan Tingyu | Gu Li | W+R | 2015-09-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9qAg%2BZdlgbabYNVqV10Rsw%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Qiu Jun | Gu Li | B+R | 2015-09-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WPmy8PeubaPaaAjgz%2FeFKA%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Liao Xingwen | Gu Li | B+1.5 | 2015-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8KuWxWstDkMaxztezsSFgw%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Gu Li | Shi Yue | W+R | 2015-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CTXaNDqPzqEAouvvVn3dMw%3D%3D) | 
-| 第3回全国智力運動会囲碁男子団体戦 | Chen Xian | Gu Li | B+R | 2015-09-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q%2FzfVsQQei6AQr%2FRg39inQ%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦C2 | Gu Li | Shi Yue | W+R | 2015-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OCWJJX%2BC5ulRb%2Bn8cnCobA%3D%3D) | 
-| 第20回三星火災杯世界囲碁マスターズ1回戦C1 | Gu Li | Heo Yongho | W+R | 2015-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=45AonzN5MRSBO1CcPX7yFQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第13節 | Gu Li | Zhong Wenjing | B+R | 2015-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dG%2B%2Fc%2FKeFCpHCUp%2F1pIjbA%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第12節 | Yang Kaiwen | Gu Li | B+R | 2015-09-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=czdR1AqBu5x9q60AWmHi1w%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第11節 | Gu Li | Huang Yunsong | W+R | 2015-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F5IoydyhMKNqKA9kN15zrQ%3D%3D) | 
-| 第2回夢百合杯世界オープン戦1回戦 | Gu Li | Shi Yue | W+R | 2015-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hhPiYPlFA1d8df7ldQRjRg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第10節 | Zhang Tao | Gu Li | W+R | 2015-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p%2FVDYjA7i1wXsSv1eZvdqA%3D%3D) | 
-| 第17期阿含・桐山杯中国早碁オープン戦1回戦 | Tuo Jiaxi | Gu Li | B+R | 2015-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IpgdjPZOXY1oixVplf06kg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第9節 | Shi Yue | Gu Li | B+R | 2015-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=odJzNhOcZYQMClyBktUKGQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第8節 | Gu Li | Liu Xing | B+R | 2015-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iDdBHM%2BcdMXD3m2Z5Yj5mQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第7節 | Lee Sedol | Gu Li | W+R | 2015-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=puwyta9cHwgoTwmOEgQ1KQ%3D%3D) | 
-| 第20回LG杯朝鮮日報棋王戦2回戦 | Gu Li | Kim Jiseok | W+R | 2015-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SQGF6oxyT1nAd4lHoyVRSw%3D%3D) | 
-| 第20回LG杯朝鮮日報棋王戦1回戦 | Na Hyun | Gu Li | W+R | 2015-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GenSDD%2B2fgo%2FX8A6tEf46w%3D%3D) | 
-| 第10回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Gu Li | Zhou Ruiyang | B+1.5 | 2015-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GTKpCgwK1znjwbqelcHdnQ%3D%3D) | 
-| 第10回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Zhou Ruiyang | Gu Li | W+R | 2015-06-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=inwLex%2FVDVBuDo%2BaRyy32g%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第6節 | Gu Li | Ke Jie | W+R | 2015-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5vq5FyLhxoqFlMPHOkIuBQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第5節 | Gu Li | Fan Yunruo | B+R | 2015-05-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g0ylKhn4ztbOdP4FtKMf1A%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第4節 | Gu Li | Li Qincheng | B+R | 2015-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nL%2BgsE0mrXxmSSQHhSjVBg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第3節 | Gu Li | Ding Shixiong | B+R | 2015-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mr3V8OMOgGKhdQwHl6AVEA%3D%3D) | 
-| 第28期中国囲碁名人戦1回戦 | Guo Yuzheng | Gu Li | B+R | 2015-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=49aUqXWyuadcjZTHarGQEQ%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第2節 | Chen Yaoye | Gu Li | B+R | 2015-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3SgLTmyL5WziXBH%2F33UaDg%3D%3D) | 
-| 第17回中国囲碁甲級リーグ第1節 | Gu Li | Lee Donghoon | W+R | 2015-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8CdZIbC%2FS61o1%2B1ximpI0A%3D%3D) | 
-| 第12期倡棋杯中国プロ囲碁選手権戦1回戦 | Tong Mengcheng | Gu Li | B+R | 2015-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T8A0qWW0kAQ5ci82e27r%2Fw%3D%3D) | 
-| 第14回西南棋王戦2回戦 | Gu Li | Ke Jie | W+R | 2015-03-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IIhrEojmGYkmP%2Fjd2BDIuA%3D%3D) | 
-| 第14回西南棋王戦1回戦 | Chen Yunong | Gu Li | W+R | 2015-03-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RiRAvjj9Txzo3ToUZxxyEA%3D%3D) | 
-| 第10回春蘭杯世界囲碁選手権準決勝 | Kim Jiseok | Gu Li | W+R | 2014-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E%2BuY3AuRcMg5gMpCHcI0VQ%3D%3D) | 
-| 第10回春蘭杯世界囲碁選手権3回戦 | Cho U | Gu Li | W+0.5 | 2014-12-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UL6ENV0vHv7vJyd4GKqLiA%3D%3D) | 
-| 第1回日中竜星戦 | Gu Li | Kono Rin | B+R | 2014-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z2PaR8xYARRrOWgnqMaFuQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第22節 | Gu Li | Mao Ruilong | B+R | 2014-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n7FqHIu5JTraAWrE7qIgWw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第21節 | Gu Li | Mi Yuting | B+R | 2014-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y5dQyzubpdgg93zpoisbRQ%3D%3D) | 
-| 第10期威孚房開杯棋王戦3回戦 | Shi Yue | Gu Li | B+R | 2014-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hu3K2RgIBeoQ0G7mcwttBA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第20節 | Wu Guangya | Gu Li | B+R | 2014-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gMmOcuxzMrX5%2FEc2OSY5vQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第19節 | Gu Li | Hu Yuhan | W+R | 2014-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WXTRYW3APJ17Bmxj7nQf3Q%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第18節 | Ding Shixiong | Gu Li | W+0.5 | 2014-10-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WfmzbujaloAbK1yxbYhfhg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第17節 | Gu Li | Xie Erhao | B+R | 2014-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HsYWkGs4nvdZTYn%2B3CE%2BFg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第16節 | Fan Yunruo | Gu Li | B+R | 2014-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pWEsWfVgJ4KzCIBmLF%2B7rw%3D%3D) | 
-| 第10期威孚房開杯棋王戦2回戦 | Liao Xingwen | Gu Li | W+R | 2014-10-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Izknl8xFtFSl838rc0qFAQ%3D%3D) | 
-| 第10期威孚房開杯棋王戦1回戦 | Tang Yi | Gu Li | W+R | 2014-10-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2Cg21KZLFbRMlQeDhusFAQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第15節 | Gu Li | Li Zhe | B+R | 2014-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s9hTrcEyTAZkCvrHoEmJpA%3D%3D) | 
-| 第5回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Gu Li | Shi Yue | W+R | 2014-09-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5P5MWe6kMlVcYmh%2BdKFnwg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第13節 | Guo Yuzheng | Gu Li | W+R | 2014-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QnAeiyBGsGFgbO%2FZrBxl4Q%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第12節 | Gu Li | Tuo Jiaxi | B+R | 2014-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BBwVUAvZINIs%2BtUnKdUtQg%3D%3D) | 
-| 第6期中国竜星戦1回戦 | Gu Li | Sun Tengyu | W+R | 2014-08-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Pc8n7lGx0NqOJNz9ZoF3w%3D%3D) | 
-| 第19回三星火災杯統合予選3回戦 | Gu Li | Xiao Zhenghao | W+R | 2014-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CbrYlNupiz4KuAKnf9Q7fw%3D%3D) | 
-| 第16期阿含・桐山杯中国早碁オープン戦2回戦 | Ke Jie | Gu Li | B+1.5 | 2014-07-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wfG4KlDSZZPLZ%2FE7tr27%2FA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第11節 | missing | Gu Li | W+R | 2014-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XI5ymkRO7D%2Fdto1UnuT3Eg%3D%3D) | 
-| 第16期阿含・桐山杯中国早碁オープン戦1回戦 | Gu Li | Niu Yutian | B+R | 2014-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KzKmcMiEHG708XD6qHul2w%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第10節 | Gu Li | Ke Jie | W+R | 2014-07-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IjMNY%2BmIcms7D%2BlwWYRz0A%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第9節 | Shi Yue | Gu Li | W+0.5 | 2014-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z6J4oufjvpRWQQJ%2FkapJjA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第8節 | Gu Li | Zhang Tao | B+R | 2014-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BQZDGRQaxV2R%2BEPrth4qZg%3D%3D) | 
-| 第5回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Jiang Weijie | Gu Li | W+R | 2014-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Iq08ocN1fknzCAlW0mr50g%3D%3D) | 
-| 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Gu Li | Wang Haoyang | B+1.5 | 2014-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2XjLTYTyMrjJ%2FL49bZAktg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第7節 | Gu Li | Zhou Ruiyang | W+R | 2014-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p7jbUfIxHlTdubLLR2MKWA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第6節 | Gu Li | Xie Erhao | B+R | 2014-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yGVd6khQ9fQTJK6Vbzmeyw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第5節 | Na Hyun | Gu Li | B+R | 2014-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6c8Zqs2hkZg3GvRfqBZH%2FA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第3節 | Gu Li | Liao Xingwen | B+R | 2014-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=imYSLXeSb7z12AuQKPixsg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第2節 | Wang Haoyang | Gu Li | W+R | 2014-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K%2F1prsihEM6eooXXTMHgNg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第1節 | Gu Li | Zhong Wenjing | B+R | 2014-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nihmb%2F0PXBKz9sMfSYV8Ig%3D%3D) | 
-| 第19回LG杯予選 | Gu Li | Ahn Kukhyun | W+R | 2014-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8zo1xHec4E%2BL6K3twbXSkA%3D%3D) | 
-| 第19回LG杯予選 | Park Seunghwa | Gu Li | W+R | 2014-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KX0OI%2Bm0dHTCLukt4pXspA%3D%3D) | 
-| 第27期中国囲碁名人戦1回戦 | Gu Li | Jiang Weijie | W+R | 2014-04-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zP2buc1JwjG7HBdEzcVHbA%3D%3D) | 
-| 第10回春蘭杯世界囲碁選手権2回戦 | Gu Li | Lee Sedol | B+R | 2014-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kJV%2BHokkgBToyRxep9Z4zQ%3D%3D) | 
-| 第10回春蘭杯世界囲碁選手権1回戦 | Gu Li | Kim Junghyun | B+R | 2014-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JtVkOXLXEHhuiDi1cfSLAw%3D%3D) | 
-| 第4期招商地産杯中韓囲棋団体対抗戦第2戦 | Lee Sedol | Gu Li | W+R | 2014-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ITnBGt66IvqoH5s0jujdHA%3D%3D) | 
-| 第4期招商地産杯中韓囲棋団体対抗戦第1戦 | Byun Sangil | Gu Li | B+R | 2014-03-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EKCx0GyYi38l2H0q8DkD7w%3D%3D) | 
-| 第2回百霊杯世界オープン戦1回戦 | Meng Tailing | Gu Li | B+R | 2014-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JGGNexA6bV4NCxhkN4OUJQ%3D%3D) | 
-| 第5期中国竜星戦決勝三番勝負第3局 | Li Zhe | Gu Li | W+R | 2014-01-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vbmc8xnVm%2FdET2ryjU6Uug%3D%3D) | 
-| 第5期中国竜星戦決勝三番勝負第2局 | Gu Li | Li Zhe | B+R | 2014-01-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PjHq%2BYoS156FrcrPt27M7Q%3D%3D) | 
-| 第5期中国竜星戦決勝三番勝負第1局 | Li Zhe | Gu Li | B+R | 2014-01-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FIEzzRHXMXuuZpz9ks7b%2BQ%3D%3D) | 
-| 第14期リコー杯囲碁戦2回戦 | Xu Jiayang | Gu Li | B+R | 2013-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sTeH%2F8%2B9JG508JyndoliDg%3D%3D) | 
-| 第5期中国竜星戦準決勝 | Zhou Ruiyang | Gu Li | W+R | 2013-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1mnWJC756K4gbvOdaVUo5Q%3D%3D) | 
-| 第1回夢百合杯世界オープン戦決勝五番勝負第4局 | Mi Yuting | Gu Li | B+R | 2013-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qzEDOWFIyq%2BymCS8gPAlHA%3D%3D) | 
-| 第1回夢百合杯世界オープン戦決勝五番勝負第3局 | Gu Li | Mi Yuting | W+R | 2013-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KhQOmS2%2BQIWSDg5HTirG6w%3D%3D) | 
-| 第1回夢百合杯世界オープン戦決勝五番勝負第2局 | Mi Yuting | Gu Li | B+R | 2013-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3%2F8LF6HqVrl1VGkeDM0%2B2w%3D%3D) | 
-| 第1回夢百合杯世界オープン戦決勝五番勝負第1局 | Gu Li | Mi Yuting | B+1.5 | 2013-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UW%2BQ7RKA%2FIRtz6OomkqquQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第22節 | Gu Li | Tong Yulin | B+R | 2013-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MHxqQJpifLo3DZSg8qXK6Q%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第21節 | Huang Yunsong | Gu Li | B+R | 2013-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y9t7aBDdNtwWbVS%2B%2Fyd7FQ%3D%3D) | 
-| 第5期中国竜星戦3回戦 | Tang Weixing | Gu Li | W+2.5 | 2013-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UxXzgTPyWn%2BvUlj8pQ%2F7IA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第20節 | Gu Li | Lian Xiao | B+R | 2013-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TE%2FfNvCf%2FGvSJRjhn2BEhQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第19節（再対局） | Chen Yaoye | Gu Li | B+R | 2013-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bF4VmICo1aW6tuwvJc36ZQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第19節 | Chen Yaoye | Gu Li | Void | 2013-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YTpDOfzpMVL6DDvomFHkEQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第18節 | Gu Li | Fan Tingyu | B+R | 2013-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nX6tVrYS5KdWrJdt6LLFLQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第17節 | Lee Sedol | Gu Li | B+R | 2013-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fL6hgerkLjD6yLHsRm9YRA%3D%3D) | 
-| 第1回夢百合杯世界オープン戦準決勝第2局 | Gu Li | Zhou Ruiyang | B+R | 2013-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p9Fbb75MjFLZmSc1bukO%2FA%3D%3D) | 
-| 第1回夢百合杯世界オープン戦準決勝第1局 | Zhou Ruiyang | Gu Li | W+R | 2013-10-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1wc9boRgooYwkSRAQtVRlA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第16節 | Gu Li | Qiu Jun | B+R | 2013-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GFWmDBl911wXqZYZBaCCBQ%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ2回戦 | An Sungjoon | Gu Li | B+R | 2013-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WzlZxnP8b4pmu%2FjzgZRxOA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第15節 | Park Junghwan | Gu Li | W+R | 2013-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qkRouhd%2BeX4yStwuCJEPMg%3D%3D) | 
-| 第5期中国竜星戦2回戦 | Fan Yunruo | Gu Li | W+4.5 | 2013-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kXwFuRD80dNiak4VrUI4OA%3D%3D) | 
-| 第5期中国竜星戦1回戦 | Gu Lingyi | Gu Li | W+0.5 | 2013-09-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v4QWBGUZ4hpAZaN044R1ug%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ1回戦H3 | Liao Xingwen | Gu Li | W+R | 2013-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P%2FYZb3nl%2BhfYkW1%2F6lnBAA%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ1回戦H2 | Gu Li | Park Junghwan | W+R | 2013-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=btXLP9KqlKtsxGfOyNSNpQ%3D%3D) | 
-| 第18回三星火災杯世界囲碁マスターズ1回戦H1 | Yuki Satoshi | Gu Li | W+R | 2013-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FfUcJZMldf%2BkUSWpO8zdmA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第13節 | Wu Guangya | Gu Li | B+R | 2013-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q7N2fUXPrLDSa6WQEtQsQA%3D%3D) | 
-| 第9期威孚房開杯棋王戦1回戦 | Jiang Weijie | Gu Li | B+R | 2013-08-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JNwduskcz0HngZ7SZ%2FdATQ%3D%3D) | 
-| 第1回夢百合杯世界オープン戦4回戦 | Wang Lei (b) | Gu Li | W+R | 2013-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w9ChopybrMIR0K51cLxeBw%3D%3D) | 
-| 第1回夢百合杯世界オープン戦3回戦 | Hu Yaoyu | Gu Li | W+R | 2013-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rg24Fh%2BBNgipCOp7T3yuSQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第11節 | Park Yeonghun | Gu Li | W+R | 2013-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AhnoXOdL9VJ80wCx6ihj%2FQ%3D%3D) | 
-| 第1回夢百合杯世界オープン戦2回戦 | Na Hyun | Gu Li | W+R | 2013-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1PK7Ofj5N30v%2BsIUfpV6Ww%3D%3D) | 
-| 第1回夢百合杯世界オープン戦1回戦 | Kim Jiseok | Gu Li | W+R | 2013-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Drc2o796TT11159MB4tYsw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第10節 | Gu Li | Cho Hanseung | B+1.5 | 2013-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NgBDxXVBjAjs93xyJPH7KQ%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦1回戦 | Gu Li | Liu Xing | W+2.5 | 2013-06-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G6YvuVTc%2Bu3tbIXx5EGgRA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第9節 | Gu Li | Li Qincheng | B+R | 2013-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Psmr0hZi%2FjHwlgK21s2Ijg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第8節 | Gu Li | Zhong Wenjing | B+R | 2013-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rXbI40KxRdJQyFfaL5NhXA%3D%3D) | 
-| 第18回LG杯朝鮮日報棋王戦1回戦 | Gu Li | Kim Sonjin | W+R | 2013-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fJuv4Mxg4hbS01I2haJzHQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第7節 | Zhou Ruiyang | Gu Li | B+1.5 | 2013-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RQfrTgawvkPA6miS8kEO7Q%3D%3D) | 
-| 第10期倡棋杯中国プロ囲碁選手権戦2回戦 | Liu Xing | Gu Li | B+R | 2013-05-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GSiJm53pMrwfKjMWXBKFrA%3D%3D) | 
-| 第10期倡棋杯中国プロ囲碁選手権戦1回戦 | Gu Li | Niu Yutian | B+R | 2013-05-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L22cmWpEbFFzIgFwlssCZw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第6節 | missing | Gu Li | W+R | 2013-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PK1pzNkIHB5T63zoSWHh9A%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第5節 | Hu Yaoyu | Gu Li | W+R | 2013-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Ph7LDYINsnd35jgy%2FWaWA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第3節 | Qin Yuexin | Gu Li | W+R | 2013-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7NZyL4p7%2FEKu2ljfRBSAPg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第2節 | Gu Li | Shi Yue | W+R | 2013-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dFM9wn1Dw5cEZpPWNfGZDw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第1節 | Gu Li | Choi Cheolhan | W+R | 2013-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DNclWtq7yKkbNQgOIPfOpQ%3D%3D) | 
-| 第14回阿含・桐山杯日中決戦 | Cho U | Gu Li | W+4.5 | 2013-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mYoV6A80bMK32DQbk59BQQ%3D%3D) | 
-| 2013CCTV杯中国囲棋電視快棋戦1回戦 | Gu Li | missing | W+R | 2013-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J19WkHDPQu3TmifOazPtkQ%3D%3D) | 
-| 第12回西南棋王戦決勝 | Gu Li | Xie He | W+R | 2013-03-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1QO%2FGGK2r8hul1zzIMq8CQ%3D%3D) | 
-| 第12回西南棋王戦準決勝 | Dang Yifei | Gu Li | W+2.5 | 2013-03-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H%2Fb4I%2FOkYzjY2gT%2B%2F%2BkXXQ%3D%3D) | 
-| 第12回西南棋王戦2回戦 | Wang Xi | Gu Li | W+2.5 | 2013-03-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2nbCREK5EO7vWDInsgbxtw%3D%3D) | 
-| 第12回西南棋王戦1回戦 | Gu Li | Yang Dingxin | B+R | 2013-03-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4z%2BFlxUH2XNLS2lZTgMJBA%3D%3D) | 
-| 第13期リコー杯囲碁戦準決勝 | Zhou Ruiyang | Gu Li | B+R | 2013-02-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7%2Bl4GA7M9JnK0s2NNEpUCA%3D%3D) | 
-| 第13期リコー杯囲碁戦4回戦 | Jiang Weijie | Gu Li | W+R | 2013-02-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rgP8r1zRxrPGxx6yH2I6FA%3D%3D) | 
-| 第13期リコー杯囲碁戦3回戦 | Gu Li | Mao Ruilong | B+R | 2013-02-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yGJ39j%2F0o7OAkjofFBH9Mg%3D%3D) | 
-| 第27期中国囲碁天元戦準決勝 | Gu Li | Gu Lingyi | W+R | 2013-01-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qZdpbBm2Vnk8tCbQpX313g%3D%3D) | 
-| 第27期中国囲碁天元戦3回戦 | Liu Xing | Gu Li | W+R | 2013-01-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZKa6fUiAQ%2BNmNmNIqEquZA%3D%3D) | 
-| 第27期中国囲碁天元戦2回戦 | Gu Li | Peng Liyao | B+R | 2013-01-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jdOv9UAXmJuOJUiclpHSUg%3D%3D) | 
-| 第27期中国囲碁天元戦1回戦 | Wu Guangya | Gu Li | W+R | 2013-01-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sQ0RGEmC6ALD%2BrI3SB6omg%3D%3D) | 
-| 第13期リコー杯囲碁戦2回戦 | Wang Haoyang | Gu Li | W+R | 2013-01-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=10FrTpucixou5GCj1YY3hw%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Lee Sedol | Gu Li | B+0.5 | 2012-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4DccR0oJ7pocgNMNQumvHA%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Lee Sedol | Gu Li | W+R | 2012-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tZwQg2MbHrAaB9xwrQVIvQ%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Gu Li | Lee Sedol | W+0.5 | 2012-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MTn4zqA8uuHs%2BdwNS2Q%2BLw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第22節 | Gu Li | Mao Ruilong | B+R | 2012-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yyTl4qUmochK9ISRiGzUcw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第21節 | Fan Yunruo | Gu Li | W+0.5 | 2012-12-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yYSdBKOgDe5vYaP71XD5Sw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第20節 | Fan Tingyu | Gu Li | W+0.5 | 2012-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A9zQ%2FTkObLgEm5j2eqnLwA%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Park Junghwan | Gu Li | W+R | 2012-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LSh325RUu4zXwzezPZQmbA%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Gu Li | Park Junghwan | B+R | 2012-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0xAG3BQ7xH3CDuqmtf08nQ%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第18節 | Chen Yaoye | Gu Li | W+R | 2012-11-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ApOP1fXpsMKO4Y1KRo7gig%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第17節 | Gu Li | Shi Yue | B+R | 2012-10-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TI2JFWPojoAHhdnn5%2FfaNg%3D%3D) | 
-| 第4期中国竜星戦2回戦 | Peng Quan | Gu Li | B+3.5 | 2012-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BtVHxF1WSMruBHys7Ln7OA%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦決勝 | Gu Li | Zhou Ruiyang | B+1.5 | 2012-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=21c4s7xt7lzxjuokY0JQLQ%3D%3D) | 
-| 第4期中国竜星戦1回戦 | missing | Gu Li | W+R | 2012-10-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1IibdgPRYTgRyGhPrroCag%3D%3D) | 
-| 第8期威孚房開杯棋王戦予選 | Gu Li | Zhong Wenjing | W+0.5 | 2012-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BODdboZCbaq70jB399x2bA%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ3回戦 | Gu Li | Kang Dongyun | B+R | 2012-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Ffu1NdxBh8t6iYveq%2BJp0A%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ2回戦 | Ahn Kukhyun | Gu Li | W+R | 2012-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wPBc1JyDBZY50HApt%2FsOxw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第16節 | Kim Jiseok | Gu Li | B+R | 2012-09-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H72PgNQk2EYPikfunbQOAg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第15節 | Gu Li | Lian Xiao | B+R | 2012-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JldooR9AYiZj0r4VBFTHQQ%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第14節 | Tan Xiao | Gu Li | W+R | 2012-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HxPWHLqHmT%2FmqaKUKTHeSg%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ1回戦F2 | Gu Li | Lee Sedol | B+R | 2012-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e%2BH%2FwgNjqKlC00ySNtts1Q%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ1回戦F1 | Cho U | Gu Li | W+R | 2012-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1V7DuE1ykaB%2FgpcZRqPdlw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第13節 | Li Kang | Gu Li | W+R | 2012-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xk8yw8zGU%2FgU77dhm2Aftg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第12節 | Gu Li | Choi Cheolhan | W+R | 2012-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wyI7rdGahc3pFHqFfISoYQ%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦準決勝 | Gu Li | Xie He | B+R | 2012-08-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vgOUl4TQDuATa5zBK%2Fjk%2BQ%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦2回戦 | Gu Li | Piao Wenyao | B+R | 2012-08-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KHDmQFxgyX9TNLQsG9uliA%3D%3D) | 
-| 第14回農心杯中国選抜戦 | Gu Li | Shi Yue | W+R | 2012-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PeVBvzILjPrJQuGgOnv0qg%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦1回戦 | An Dongxu | Gu Li | W+R | 2012-08-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3n2EjFATj2i8GDG7VJXcbg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第11節 | Huang Yizhong | Gu Li | B+1.5 | 2012-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v0%2FLimaedxTdYgbpcVzYjg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第10節 | Gu Li | Hu Yaoyu | B+1.5 | 2012-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XD5d291f1mSl2wC0RrkVJA%3D%3D) | 
-| 2012CCTV杯中国囲棋電視快棋戦1回戦 | Gu Li | Mi Yuting | W+R | 2012-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wrrJEnm3oUc65Ktn4hzhBg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第9節 | Gu Li | Zhou Heyang | B+R | 2012-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FVOqAZxNgQCwUWJpccofBQ%3D%3D) | 
-| 第4回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Gu Li | Tuo Jiaxi | W+R | 2012-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TD8HBQ%2FWagdggpjVFfK%2FYg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第8節 | Gu Li | Peng Quan | B+R | 2012-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2aWr1rQM%2FXkU5N2RmO2NPA%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第7節 | Gu Li | Kong Jie | B+R | 2012-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q88iwqIFYlDhBr%2FvpvGkPQ%3D%3D) | 
-| 第17回LG杯世界棋王戦2回戦 | Gu Li | Choi Cheolhan | W+0.5 | 2012-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5gtnMM9wts%2FRGr%2Fzi9RLVQ%3D%3D) | 
-| 第17回LG杯世界棋王戦1回戦 | Park Seunghwa | Gu Li | W+R | 2012-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YU7KwG9bacwoXxt0cI7PAA%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第6節 | Shi Yue | Gu Li | B+5.5 | 2012-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ES043L7%2BpDF6qu1mtcroTA%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第5節 | Gu Li | Zhou Hexi | B+R | 2012-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0BIWw4dT3IRTCMcglHhSiw%3D%3D) | 
-| 第9期倡棋杯中国プロ囲碁選手権戦2回戦 | Chen Yaoye | Gu Li | B+R | 2012-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R2K3gh7u14yhn01y0NoshA%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第4節 | Gu Li | missing | B+R | 2012-05-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lh1zw66t9rPtGT2GfKsrlA%3D%3D) | 
-| 第7回応氏杯世界選手権3回戦 | Gu Li | Xie He | W+5 | 2012-05-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q1Gu%2FqRUDJbD2wdtNrtvNg%3D%3D) | 
-| 第7回応氏杯世界選手権2回戦 | Weon Seongjin | Gu Li | W+3 | 2012-05-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=48QZSa2xwNhtbXFSTuBmBQ%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第3節 | Sun Tengyu | Gu Li | W+R | 2012-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=odFpTdOeRYhtz6WgRtaXtA%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第2節 | Gu Li | Mi Yuting | W+R | 2012-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X5Ov1xL3GgMbZh45yWbqXw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第1節 | Gu Li | Choi Cheolhan | B+R | 2012-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vLpvFNive3hDl6bzq4i61A%3D%3D) | 
-| 第4回BCカード杯世界選手権3回戦 | Piao Wenyao | Gu Li | B+0.5 | 2012-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bjf7p%2FsDovpYdbzb%2F6L8Qw%3D%3D) | 
-| 第25期中国囲碁名人戦2回戦 | Gu Li | Meng Tailing | W+2.5 | 2012-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GskJuEzs9649Ni9vheOTLg%3D%3D) | 
-| 第25期中国囲碁名人戦1回戦 | Zhu Yuanhao | Gu Li | W+R | 2012-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EgJGIy1dpUFUURNPosAMzg%3D%3D) | 
-| 第9回春蘭杯世界囲碁選手権2回戦 | Gu Li | Kim Jiseok | W+R | 2012-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ecUnpD%2FiG%2FCr0lWf5rA3ng%3D%3D) | 
-| 第4回BCカード杯世界選手権2回戦 | Gu Li | Fan Tingyu | B+R | 2012-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VksWzGm7EfDSw2%2Bf2xOROA%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権1回戦 | Li Kang | Gu Li | B+1.5 | 2012-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wB4T8NTd6xqJfwZe4Ny1lA%3D%3D) | 
-| 第11回西南棋王戦準決勝 | Piao Wenyao | Gu Li | B+R | 2012-03-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2MZWTe1KVu8RC6T0IvNbUQ%3D%3D) | 
-| 第11回西南棋王戦2回戦 | Gu Li | Wang Xi | B+R | 2012-03-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HYGco7T%2Fr%2Bbw%2FRaWsqgEwg%3D%3D) | 
-| 第4回BCカード杯世界選手権1回戦 | Gu Li | Park Seunghyeon | B+R | 2012-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2KSEqp8m%2BuYbLW2DbD26Kg%3D%3D) | 
-| 第13回農心辛ラーメン杯世界囲碁最強戦第11戦 | Kim Jiseok | Gu Li | B+R | 2012-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SXoH0V4JHJuftNVnx7wcVQ%3D%3D) | 
-| 第26期中国囲碁天元戦1回戦 | Gu Li | Ding Wei | W+R | 2012-02-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uUdaqzk49Tx0cPSzsix5cg%3D%3D) | 
-| 第12期リコー杯囲碁戦3回戦 | Piao Wenyao | Gu Li | B+R | 2012-01-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZvtkOijR8sNPTT1cxaEdbQ%3D%3D) | 
-| 第12期リコー杯囲碁戦2回戦 | Zhong Wenjing | Gu Li | W+R | 2011-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pW3bDEly30yqjgdXRJA89w%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第22節 | Peng Quan | Gu Li | W+R | 2011-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WQnWpIw0bdXHpY9%2BYko47A%3D%3D) | 
-| 第1回スポーツアコードワールドマインドゲームズ囲碁団体戦 | Gu Li | Xiao Zhenghao | B+R | 2011-12-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Y8LFKVXTYm3DisQte3CPg%3D%3D) | 
-| 第1回スポーツアコードワールドマインドゲームズ囲碁団体戦 | Cristian Pop | Gu Li | W+R | 2011-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jzUPOHfA6ZuyGNvhQAdtkA%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Weon Seongjin | Gu Li | B+R | 2011-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BbXhuG1L8jsa9enR%2BNsEFQ%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Weon Seongjin | Gu Li | W+R | 2011-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EbleyeUVxCnz9VwYGcLnow%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Gu Li | Weon Seongjin | W+R | 2011-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ybfB1trgghYsnCv0Se5y%2BA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第21節 | Gu Li | Tong Mengcheng | W+R | 2011-11-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6ak3VqrrIXLAInuEJMtdGg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第20節 | Kong Jie | Gu Li | W+R | 2011-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VMzArTXmNcflSr4B%2FV2wEw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第19節 | Gu Li | Wu Guangya | W+R | 2011-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YzPMdIaBHW%2BbL3DrzWGoFg%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Na Hyun | Gu Li | W+R | 2011-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TiZAnen7VfSuZylz7r20Ug%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Gu Li | Na Hyun | B+R | 2011-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vT3W9fxg%2FdarhG48OqNEZQ%3D%3D) | 
-| 第8期倡棋杯中国プロ囲碁選手権戦決勝三番勝負第2局 | Gu Li | Liu Xing | B+R | 2011-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6ptaD0UzB8sEMcRH3tXecg%3D%3D) | 
-| 第8期倡棋杯中国プロ囲碁選手権戦決勝三番勝負第1局 | Liu Xing | Gu Li | W+R | 2011-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G9LHzjlsDyIZ3B0458NQ%2Bw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第17節 | Gu Li | Hu Yaoyu | B+R | 2011-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bPneUb3pvIuYl5peLKZKrw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第16節 | Wang Haoyang | Gu Li | W+0.5 | 2011-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=niGYNnJaSj6sFQqVe8j5Zw%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ2回戦 | Gu Li | Kim Jiseok | B+R | 2011-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=drcgdckofoC8l4poziP3cQ%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ1回戦 | Gu Li | Lee Changho | B+0.5 | 2011-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fylh4A2LY6AbpnpzIB70IQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第15節 | Gu Li | Luo Xihe | B+R | 2011-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1jWLsRR%2Fnp686eRZWNeI5g%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第14節 | Jiang Weijie | Gu Li | B+R | 2011-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UQV2rhklaAGzPgrdjdxh2w%3D%3D) | 
-| 第7期威孚房開杯棋王戦1回戦 | Gu Li | Meng Tailing | W+R | 2011-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TD8YMlOWM%2FvB6vVVhfHr2A%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第13節 | Gu Li | Ding Wei | B+R | 2011-09-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sy2h6APUWEEeHcab7Fh9UQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第12節 | Li Zhe | Gu Li | Void | 2011-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QyuH%2FBtUFTkCKJqvjNwRQQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第12節 | Li Zhe | Gu Li | W+R | 2011-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LuDZh12QxqiYgDt0Yqke0g%3D%3D) | 
-| 第8期倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Kong Jie | Gu Li | W+5 | 2011-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K5uD1Z2%2FqIdJacmLzSf8xA%3D%3D) | 
-| 第8期倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Gu Li | Kong Jie | B+1 | 2011-08-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lGlhptkQZiIBWhqXxcX%2B5A%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ1回戦F2 | Lee Yeongkyu | Gu Li | W+1.5 | 2011-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BJAiHnw1HKbIGQAHNpXd6A%3D%3D) | 
-| 第16回三星火災杯世界囲碁マスターズ1回戦F1 | Gu Li | Park Shiun | B+R | 2011-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HYlkbp%2BCpu0CuP1rNApAQg%3D%3D) | 
-| 第24回世界囲碁選手権富士通杯1回戦 | Gu Li | Iyama Yuta | W+R | 2011-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hvtknfw7jjPa%2BcsmEHRQVA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第11節 | Gu Li | Peng Quan | B+R | 2011-07-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KtfvV8YS5IwC19I82jOKzw%3D%3D) | 
-| 第13期阿含・桐山杯中国早碁オープン戦1回戦 | Gu Li | Xie He | W+R | 2011-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YaqoOxshmmtDd7AezBiiig%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第10節 | Fan Tingyu | Gu Li | B+R | 2011-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h12OphdkxXUGu3aox4wW0w%3D%3D) | 
-| 第24期中国囲碁名人戦3回戦 | Gu Li | Kong Jie | W+R | 2011-07-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lfC2NQj4NCQXNmv6UjdAZA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第9節 | Gu Li | Chen Yaoye | B+R | 2011-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jPKAsZQplv9tKbGbYQDcOQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第8節 | Wu Guangya | Gu Li | B+R | 2011-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q95p4xgDJ%2FmS4C6SFtQuUw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第7節 | Gu Li | Tan Xiao | W+R | 2011-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k5vUaIMH5btsPNRU%2B7QJmQ%3D%3D) | 
-| 第16回LG杯世界棋王戦1回戦 | Gu Li | Lee Changho | W+R | 2011-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ptu%2B8aLVvqZzA0w24Y9gnA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第6節 | Qiu Jun | Gu Li | W+R | 2011-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rcMA%2FmCYrGDoiOx1PtPZww%3D%3D) | 
-| 第8期倡棋杯中国プロ囲碁選手権戦3回戦 | Gu Li | Tuo Jiaxi | B+R | 2011-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tLEe3ZmV2dxCr%2BwJyBYiPg%3D%3D) | 
-| 第8期倡棋杯中国プロ囲碁選手権戦2回戦 | Gu Li | Hu Yaoyu | B+R | 2011-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EFvBOIMXfbYLRA2CyWg1LQ%3D%3D) | 
-| 第8期倡棋杯中国プロ囲碁選手権戦1回戦 | Zhou Hexi | Gu Li | W+R | 2011-06-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OHQutem%2ByurMztO3dqrNeQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第5節 | Gu Li | Choi Cheolhan | B+R | 2011-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nl2gWLPxDBhVNPG1ZdDEyg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第4節 | Mi Yuting | Gu Li | B+R | 2011-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SPqfp4Rg2MwvHg06plSXkA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第3節 | Gu Li | Zhou Ruiyang | B+R | 2011-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q5vJXyyLdJ%2BADMno3irr%2BQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第2節 | Ding Wei | Gu Li | B+R | 2011-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vlzQuqJ8DDFHiqB1yrBi7w%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第1節 | Gu Li | Li Zhe | B+R | 2011-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mySjMJaiX2TWJ%2BFiMUdz4g%3D%3D) | 
-| 第3回BCカード杯世界選手権決勝五番勝負第5局 | Lee Sedol | Gu Li | B+R | 2011-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KUUyW2K0Aw1WOI0fnzNVmg%3D%3D) | 
-| 第3回BCカード杯世界選手権決勝五番勝負第4局 | Gu Li | Lee Sedol | B+R | 2011-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ajHSsxsQjJnMG0naiGWgeg%3D%3D) | 
-| 第3回BCカード杯世界選手権決勝五番勝負第3局 | Lee Sedol | Gu Li | B+0.5 | 2011-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kXLREyF%2BX6SpidjdPlvfhQ%3D%3D) | 
-| 第3回BCカード杯世界選手権決勝五番勝負第2局 | Gu Li | Lee Sedol | W+R | 2011-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=87dNW1tKpbWMxH6cuJ4KHA%3D%3D) | 
-| 第3回BCカード杯世界選手権決勝五番勝負第1局 | Lee Sedol | Gu Li | W+R | 2011-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pKwZDX2UGHyi2QVAY764PQ%3D%3D) | 
-| 第3回BCカード杯世界選手権準決勝 | Heo Yongho | Gu Li | W+R | 2011-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JtpuNHtatvyS7azBSaToNA%3D%3D) | 
-| 2011CCTV杯中国囲棋電視快棋戦準決勝 | Zhong Wenjing | Gu Li | B+1.5 | 2011-04-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u6Lpo7uz1IpzAAJjivhpjA%3D%3D) | 
-| 2011CCTV杯中国囲棋電視快棋戦4回戦 | Tan Xiao | Gu Li | W+R | 2011-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jApgp%2BFO%2BMSqMF5XwI4kWQ%3D%3D) | 
-| 第3回BCカード杯世界選手権4回戦 | Kim Jiseok | Gu Li | W+R | 2011-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CkHnjeVx%2BoXzeTIh7PfD2A%3D%3D) | 
-| 第3期中国竜星戦3回戦 | Gu Li | Wang Lei (s) | W+R | 2011-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PYt47OFAuca4YMNsnH9CkQ%3D%3D) | 
-| 第24期中国囲碁名人戦2回戦 | Gu Li | Li Kang | B+R | 2011-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H9mkB7skgQOXrrrzYYPMuw%3D%3D) | 
-| 第24期中国囲碁名人戦1回戦 | Fang Jie | Gu Li | W+R | 2011-03-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BpIEiX9BGlZX2qol%2FrVRAQ%3D%3D) | 
-| 第3回BCカード杯世界選手権3回戦 | Cho Hanseung | Gu Li | W+R | 2011-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8KGSNz7n%2B16RqczkdRwFhw%3D%3D) | 
-| 第3期中国竜星戦2回戦 | missing | Gu Li | W+R | 2011-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3UzR3uHlF%2F2zhAyencj%2BiQ%3D%3D) | 
-| 2011CCTV杯中国囲棋電視快棋戦3回戦 | Niu Yutian | Gu Li | W+R | 2011-03-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lQNPFPLMdpYaz%2BTG8eB2dw%3D%3D) | 
-| 2011CCTV杯中国囲棋電視快棋戦2回戦 | Gu Li | Huang Chen | B+R | 2011-03-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HYsFYKSM4pBaAl5FVZFXmA%3D%3D) | 
-| 2011CCTV杯中国囲棋電視快棋戦1回戦 | Dong Yan | Gu Li | W+R | 2011-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NgFFuaABF91LhzAAVa%2BivQ%3D%3D) | 
-| 第1期招商地産杯中韓囲棋団体対抗戦第2戦 | Choi Cheolhan | Gu Li | B+3.5 | 2011-03-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BI07e67Zs7JZRwH8qJnGLw%3D%3D) | 
-| 第1期招商地産杯中韓囲棋団体対抗戦第1戦 | Heo Yongho | Gu Li | B+R | 2011-03-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=clGcj6r8ScNDkW4%2BH%2B%2BHBw%3D%3D) | 
-| 第3回BCカード杯世界選手権2回戦 | Dang Yifei | Gu Li | W+4.5 | 2011-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EOKwN%2Behiuey%2BAgBZoWalQ%3D%3D) | 
-| 第25期中国囲碁天元戦1回戦 | Gu Li | Hu Yaoyu | W+R | 2011-02-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6rV%2FhUtLcEJng1zPKeKy8g%3D%3D) | 
-| 第3回BCカード杯世界選手権1回戦 | Gu Li | Fan Yunruo | B+R | 2011-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ztz4oHkdmXTnrNJR6eJHLw%3D%3D) | 
-| 第11期リコー杯囲碁戦3回戦 | Jiang Weijie | Gu Li | B+R | 2011-01-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DKR0y6YxEJIdO3S9OwFHAg%3D%3D) | 
-| 第3期中国竜星戦1回戦 | Gu Li | Zhong Wenjing | B+R | 2011-01-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZW1Gb8UiGqHtqhYk5JQD%2Bg%3D%3D) | 
-| 第11期リコー杯囲碁戦2回戦 | Gu Li | Ding Wei | B+R | 2010-12-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uyKmb6eY6Mh0bAS5cBcC5A%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第22節 | Wang Haoyang | Gu Li | B+R | 2010-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X%2BYaAkPgHRSE8rMpu9R%2FJQ%3D%3D) | 
-| 第8回春蘭杯世界囲碁選手権3回戦 | Gu Lingyi | Gu Li | B+R | 2010-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PAsWGpH90anoTzYPJWW7gw%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Gu Li | Heo Yongho | B+R | 2010-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xLeQF48FE8%2BKRw2lAqfq1w%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Gu Li | Heo Yongho | W+R | 2010-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8qfMzhCrJ8bmzYFodgzE%2Bg%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Heo Yongho | Gu Li | W+2.5 | 2010-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uDx361%2FfyQ0Nx0KJtAJOvg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第20節 | Chen Yaoye | Gu Li | B+R | 2010-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xq5qDJtBtq4iwupb5stZ2A%3D%3D) | 
-| 第23期中国囲碁名人戦挑戦手合五番勝負第5局 | Gu Li | Jiang Weijie | W+R | 2010-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M8UIH51eGDFIEs7FUzwlJQ%3D%3D) | 
-| 第23期中国囲碁名人戦挑戦手合五番勝負第4局 | Gu Li | Jiang Weijie | B+R | 2010-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i6D01WBatqe2UIe3L7A%2BwQ%3D%3D) | 
-| 第23期中国囲碁名人戦挑戦手合五番勝負第3局 | Jiang Weijie | Gu Li | B+R | 2010-11-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5dYoVe%2BWEJNS%2B7CKliEbxg%3D%3D) | 
-| 2010年アジア競技大会囲碁男子団体戦 | Lee Changho | Gu Li | B+R | 2010-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZVYkfmyShyS45CZi3w5S5A%3D%3D) | 
-| 2010年アジア競技大会囲碁男子団体戦 | Yamashita Keigo | Gu Li | B+7.5 | 2010-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ooRw8kGgIki44Tg3dT0%2Fuw%3D%3D) | 
-| 2010年アジア競技大会囲碁男子団体戦 | Gu Li | O Meien | B+R | 2010-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=98URF7U75vec4NpLm0%2FYmA%3D%3D) | 
-| 2010年アジア競技大会囲碁男子団体戦 | Kang Dongyun | Gu Li | B+R | 2010-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pJnn21k9w7GQT9zOT4oXqQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第19節 | Gu Li | Tan Xiao | W+R | 2010-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IEdKFEDJCkZxWTBNCxMeaw%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第18節 | Lee Yeongkyu | Gu Li | B+R | 2010-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qyef1IKo3%2FnFnylfjuVrhg%3D%3D) | 
-| 第23期中国囲碁名人戦挑戦手合五番勝負第2局 | Gu Li | Jiang Weijie | W+R | 2010-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7AP5gv5od7mkhXnAgAL59w%3D%3D) | 
-| 第23期中国囲碁名人戦挑戦手合五番勝負第1局 | Jiang Weijie | Gu Li | W+R | 2010-11-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GthN3oTRRUGM0VbTELjVog%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Gu Li | Kim Jiseok | B+0.5 | 2010-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xkuZmmZUNT8o%2BNHjZejXIQ%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Kim Jiseok | Gu Li | W+R | 2010-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zJMMesbIfBYBRtPCo4VrMg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第17節 | Gu Li | Peng Quan | B+R | 2010-10-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=snDVJ6A5jh7UZk0FrMGXAQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第16節 | Gu Li | Tao Xin | B+R | 2010-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=53l9wNPT6POkW3bK0O36KQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第15節 | Gu Li | Ding Wei | W+R | 2010-10-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6azWU1uazr7OXxdF6EqyTw%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ3回戦 | Lee Sedol | Gu Li | W+R | 2010-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R2xg4hsupYH1EYD5x4Ckuw%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ2回戦 | Gu Li | Han Sanghoon | B+T | 2010-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JR6Bl7ndudMaWEmG1dPIMg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第14節 | Gu Li | Liu Xing | B+R | 2010-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VZwY0R5UpRkBafqIhp7B5w%3D%3D) | 
-| 第3回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Gu Li | Xie He | W+R | 2010-09-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iu9XujO7btp8g6zfdVThCA%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ1回戦D3 | Gu Li | Min Sangyoun | B+R | 2010-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BZtUUUXbMIUwRmIn9IXd%2BQ%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ1回戦D2 | Gu Li | Heo Yongho | W+R | 2010-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZyPZCYRMHUG3BiyvbNhgjA%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ1回戦D1 | Min Sangyoun | Gu Li | W+R | 2010-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zd78hiO%2FD9RQh1htrUt8mw%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第13節 | Chang Hao | Gu Li | W+R | 2010-09-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yTZGHysoh8kP4aHWa7%2Bptg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第12節 | Shi Yue | Gu Li | B+R | 2010-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OZM7J3bTY84g0n%2FTyKQeGA%3D%3D) | 
-| 第6期威孚房開杯棋王戦1回戦 | Tan Xiao | Gu Li | B+R | 2010-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=43RUREEOFtCyLbjlRfEJJQ%3D%3D) | 
-| 第12期阿含・桐山杯中国早碁オープン戦2回戦 | Gu Li | Chang Hao | W+R | 2010-08-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cFh6V7z%2BUe8V885MQIXMpA%3D%3D) | 
-| 第1回世界囲碁名人争覇戦決勝 | Gu Li | Lee Changho | B+1.5 | 2010-07-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j%2BErJpxgEkzKfQLtKYNOdQ%3D%3D) | 
-| 第1回世界囲碁名人争覇戦 | Iyama Yuta | Gu Li | W+4.5 | 2010-07-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lmv0SEqmxNkoRvpRvF9Vwg%3D%3D) | 
-| 第1回世界囲碁名人争覇戦 | Lee Changho | Gu Li | B+R | 2010-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pAeUxm3Yl9enHt3ozu66FA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第11節 | Gu Li | Choi Cheolhan | B+R | 2010-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BhgkHgVmrFRKAowdUtO3ng%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第10節 | Zhang Qiang | Gu Li | W+R | 2010-07-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JRO7fBuPt1wQ2NCahjNg5w%3D%3D) | 
-| 第12期阿含・桐山杯中国早碁オープン戦1回戦 | Gu Li | Cao Xiaoyang | B+R | 2010-07-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AWfOrHIwAajF%2B7yEqHhSSg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第9節 | Gu Li | Chen Yaoye | W+R | 2010-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pd2qSugkuGicUYvAJGLp9Q%3D%3D) | 
-| 第7期倡棋杯中国プロ囲碁選手権戦3回戦 | Wang Xi | Gu Li | B+R | 2010-06-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vfPANZu0A73Z4QpstvVhkQ%3D%3D) | 
-| 第7期倡棋杯中国プロ囲碁選手権戦2回戦 | Gu Lingyi | Gu Li | W+R | 2010-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x7DklDynC4YtnDxMWfvbzA%3D%3D) | 
-| 第7期倡棋杯中国プロ囲碁選手権戦1回戦 | Jiang Weijie | Gu Li | W+7 | 2010-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DPehWRwiBcIJAlTv1xBtSQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第8節 | Sun Tengyu | Gu Li | W+0.5 | 2010-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Uz7a%2Fc4633rOUawIumgKLQ%3D%3D) | 
-| 第3回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Gu Li | Tuo Jiaxi | B+5.5 | 2010-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TEsRZN0kmTW9e0ghBLAcVg%3D%3D) | 
-| 第3回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Zhong Wenjing | Gu Li | W+R | 2010-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AWVG9Cd%2BrwbvAjhPAuNo0A%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第7節 | Gu Li | Lee Yeongkyu | B+R | 2010-06-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=35iCKYhrU6jCrxyl021HTQ%3D%3D) | 
-| 第15回LG杯世界棋王戦2回戦 | Gu Li | An Joyeong | W+R | 2010-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0BJugfxH2PAJcY8tajr9tw%3D%3D) | 
-| 第15回LG杯世界棋王戦1回戦 | Gu Li | Lee Sedol | B+R | 2010-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4%2BTBSNRJuAYnwl8TgeuJxA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第6節 | Gu Li | Luo Xihe | W+R | 2010-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4gpwV5J8YCQxvsbK5uxtpA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第5節 | Gu Li | Zhou Ruiyang | W+R | 2010-05-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DsHBDAb%2BiCYrvfvQRrEpYQ%3D%3D) | 
-| 第4回中国全国体育大会囲碁戦第9戦 | Zhou Ruiyang | Gu Li | W+4.5 | 2010-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KPjwD2qElNquy%2FVwcePtoQ%3D%3D) | 
-| 第4回中国全国体育大会囲碁戦第8戦 | Gu Li | Wang Xi | B+R | 2010-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SyikvxJvch2x4DWGcJusoA%3D%3D) | 
-| 第4回中国全国体育大会囲碁戦第7戦 | Chen Yaoye | Gu Li | W+R | 2010-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fi2oUsWKUm7p3sxhvTlmCw%3D%3D) | 
-| 第4回中国全国体育大会囲碁戦第6戦 | Gu Li | Kong Jie | B+R | 2010-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Q9oBpfmDL%2BCM3jsqb86OA%3D%3D) | 
-| 第4回中国全国体育大会囲碁戦 | Piao Wenyao | Gu Li | W+R | 2010-05-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z43jwlVd0TsT2PPb4zD9TQ%3D%3D) | 
-| 第4回中国全国体育大会囲碁戦第2戦 | Gu Li | Gu Lingyi | W+R | 2010-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GZ%2FIlPOoTbKF0%2FynoXcQeQ%3D%3D) | 
-| 第4回中国全国体育大会囲碁戦第1戦 | Gu Li | missing | W+0.5 | 2010-05-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=urp%2BbmUP4RipdXqn8NG9kg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第4節 | Gu Li | Li Kang | W+10.5 | 2010-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pyP1geLmAsfzMIlkvYq6gQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第3節 | Liu Xing | Gu Li | B+1.5 | 2010-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jv3%2BegeRWdhS%2BDj8sedKBg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第2節 | Gu Li | Hu Yaoyu | B+R | 2010-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ERe4tUatW5kasWv3aTw8IQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第1節 | Li Zhe | Gu Li | B+R | 2010-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U98m%2F%2Bxgj2OnTBPfv0mXaQ%3D%3D) | 
-| 第24期中国囲碁天元戦挑戦手合三番勝負第3局 | Gu Li | Chen Yaoye | W+R | 2010-04-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qfX%2Bgw16m9hbKlZ8jSZPjA%3D%3D) | 
-| 第24期中国囲碁天元戦挑戦手合三番勝負第2局 | Gu Li | Chen Yaoye | W+R | 2010-04-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5v%2FsoNuBiwrfRYWysPPssQ%3D%3D) | 
-| 第24期中国囲碁天元戦挑戦手合三番勝負第1局 | Chen Yaoye | Gu Li | W+R | 2010-04-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JeDkwlRHk3rAE3dpB%2FLBFg%3D%3D) | 
-| 第23回世界囲碁選手権富士通杯3回戦 | Gu Li | Lee Sedol | W+R | 2010-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QacXMl6zxG2edyGUlEiDcw%3D%3D) | 
-| 第23回世界囲碁選手権富士通杯2回戦 | Park Junghwan | Gu Li | W+R | 2010-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xaqoT5ZToOuBAG%2FQo0CWZA%3D%3D) | 
-| 第8回春蘭杯世界囲碁選手権2回戦 | Gu Li | Yamashita Keigo | B+R | 2010-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FKpKMzrw0viPCnvAfRMdWA%3D%3D) | 
-| 第24期中国囲碁天元戦挑戦者決定戦 | Gu Li | Shi Yue | B+R | 2010-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cziHG6CKXL%2FV4GmTYNlDOg%3D%3D) | 
-| 第9回西南棋王戦1回戦 | Yu Ping | Gu Li | B+R | 2010-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mpO%2BSR0AqnQEVzoesQZOuQ%3D%3D) | 
-| 第11回農心辛ラーメン杯世界囲碁最強戦第13戦 | Lee Changho | Gu Li | B+R | 2010-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XajEUOV05SnhB1MCgj7w6A%3D%3D) | 
-| 第10期リコー杯囲碁戦4回戦 | Gu Lingyi | Gu Li | B+R | 2010-03-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dMKrrkw4F8JR8A4ufN5F2Q%3D%3D) | 
-| 2010CCTV杯中国囲棋電視快棋戦3回戦 | Gu Li | missing | W+R | 2010-03-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=40i%2BrbhdjUFGxSSgDxp1Cg%3D%3D) | 
-| 2010CCTV杯中国囲棋電視快棋戦2回戦 | Yang Dingxin | Gu Li | W+R | 2010-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SqvfofgBeFKalUpmvpWkqA%3D%3D) | 
-| 2010CCTV杯中国囲棋電視快棋戦1回戦 | Gu Li | missing | B+R | 2010-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0J%2BtJf12UaJ6tyRLBNKrQQ%3D%3D) | 
-| 第2回BCカード杯世界選手権3回戦 | Gu Li | An Joyeong | W+0.5 | 2010-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RbMGR2gfdQ5hjRNdwHdqgg%3D%3D) | 
-| 第10期リコー杯囲碁戦3回戦 | Gu Li | Li Zhe | B+5.5 | 2010-02-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6zy2odI%2FY9ztYkwvg0OLdA%3D%3D) | 
-| 第2回BCカード杯世界選手権2回戦 | Gu Li | missing | B+R | 2010-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VKleFvdnIuleYUGj5TSDIQ%3D%3D) | 
-| 第24期中国囲碁天元戦準決勝 | Wu Guangya | Gu Li | W+R | 2010-02-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dRwlqAqFIY%2Bc3Jo4X5ulDw%3D%3D) | 
-| 第24期中国囲碁天元戦3回戦 | missing | Gu Li | W+R | 2010-01-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=joS%2Bqcf46tyfGZNxiqJkGA%3D%3D) | 
-| 第24期中国囲碁天元戦2回戦 | Wang Lei (s) | Gu Li | W+R | 2010-01-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lOjkenz%2BvWcogVfxfuvHfQ%3D%3D) | 
-| 第24期中国囲碁天元戦1回戦 | Gu Li | Ding Wei | B+R | 2010-01-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q3EDzSIXeA1rAZfZtqPJXw%3D%3D) | 
-| 第2回BCカード杯世界選手権1回戦 | Choi Hyunjae | Gu Li | W+1.5 | 2010-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bUIcbzSXEC6M626OF3DwpQ%3D%3D) | 
-| 第22期中国囲碁名人戦挑戦手合五番勝負第4局 | Gu Li | Gu Lingyi | B+1.5 | 2010-01-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qRtcV6eDcsuQzIqFrLx%2BEA%3D%3D) | 
-| 第22期中国囲碁名人戦挑戦手合五番勝負第3局 | Gu Lingyi | Gu Li | W+2.5 | 2010-01-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BRLEjguEGIzzJbJ%2FQMINfg%3D%3D) | 
-| 第10期リコー杯囲碁戦2回戦 | Yang Dingxin | Gu Li | W+R | 2009-12-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zz8Ilgbx5%2BiyCXm4a9kdKA%3D%3D) | 
-| 第22期中国囲碁名人戦挑戦手合五番勝負第2局 | Gu Li | Gu Lingyi | B+R | 2009-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eEiPdd1hshirc2%2BnCx0qig%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第22節 | Kong Jie | Gu Li | B+1.5 | 2009-12-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A5b%2FERG4ysmcvUM0XCfDcg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第21節 | Qiu Jun | Gu Li | B+R | 2009-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M6wPKeh0obNBicwi6JPR9g%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第20節 | Gu Li | Zhou Ruiyang | W+R | 2009-12-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gH3dJg44TSKopm6HZYRdzA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第19節 | Piao Wenyao | Gu Li | W+R | 2009-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7o6wtvP%2BWBPRmo%2BqyK%2Fh%2BQ%3D%3D) | 
-| 第22期中国囲碁名人戦挑戦手合五番勝負第1局 | Gu Lingyi | Gu Li | B+R | 2009-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FRCy2YCByaJBSQReU0otmg%3D%3D) | 
-| 第1回全国智力運動会囲碁男子団体戦 | Zhou Ruiyang | Gu Li | W+R | 2009-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ne5Qf%2BGexCaWHb8igdUHMQ%3D%3D) | 
-| 第1回全国智力運動会囲碁男子団体戦 | Gu Lingyi | Gu Li | B+1.5 | 2009-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=25EBXzwtTdypE59l3dCqXw%3D%3D) | 
-| 第1回全国智力運動会囲碁男子団体戦 | Gu Li | Kong Jie | B+3.5 | 2009-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8S5qls1OV3rgEsfOWTQmOw%3D%3D) | 
-| 第1回全国智力運動会囲碁男子個人戦決勝 | Wang Lei (s) | Gu Li | W+8.5 | 2009-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nJJNriaJ9X%2BnO15tBoD21A%3D%3D) | 
-| 第1回全国智力運動会囲碁男子個人戦 | Gu Li | Wang Yuhui | B+R | 2009-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g6F%2FpziHpIbLF%2BGJ6ggbkA%3D%3D) | 
-| 第1回全国智力運動会囲碁男子個人戦 | Gu Li | missing | B+3.5 | 2009-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FXuYCgE3q16Y3QXb%2By3DkA%3D%3D) | 
-| 第1回全国智力運動会囲碁男子個人戦 | Li Zhe | Gu Li | W+0.5 | 2009-11-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3fOIgEqL8xE0mdtd3ACnaQ%3D%3D) | 
-| 第1回全国智力運動会囲碁男子個人戦 | Gu Li | Huang Chen | W+R | 2009-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w47nhh1yZM5Kq2aYyRZCQA%3D%3D) | 
-| 第14回LG杯世界棋王戦3回戦 | Gu Li | Piao Wenyao | W+R | 2009-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HUt8rF3ldf%2Fp5rzVXRzdEQ%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Kong Jie | Gu Li | B+2.5 | 2009-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4%2BTix1VELu7miaACNwuxIw%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Gu Li | Kong Jie | W+R | 2009-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W0XXavm9Znge51%2Bad8krhw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第17節 | Luo Xihe | Gu Li | B+R | 2009-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Cf8hazSnivm3r%2B9tI1RLQ%3D%3D) | 
-| 第5期威孚房開杯棋王戦1回戦 | Gu Li | Peng Quan | W+R | 2009-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ns%2B67J%2FcXTTc6BAdhRb8tw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第16節 | Gu Li | Meng Tailing | B+R | 2009-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rxfhPY9OZ%2FwL164xHAmFgw%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ3回戦 | Gu Li | Chen Yaoye | B+R | 2009-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SggMT3C692blSr0JipK9Rw%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ2回戦 | Chang Hao | Gu Li | W+R | 2009-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FTGJxaYz%2FKVGZlLVXrwBjg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第15節 | Gu Lingyi | Gu Li | W+6.5 | 2009-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Iu7nqI81CSiP2votNiTBeQ%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ1回戦F3 | Gu Li | Kang Dongyun | B+2.5 | 2009-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5p2GvbKoh7YVmkXCDR9C9w%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ1回戦F2 | Liu Xing | Gu Li | B+R | 2009-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6y97qlkmlQGTr%2F%2BBlz%2Fbkw%3D%3D) | 
-| 第14回三星火災杯世界囲碁マスターズ1回戦F1 | Wang Lei (s) | Gu Li | W+R | 2009-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=USV3s4bT61auJEvuwNa8Qg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第13節 | Wang Yao | Gu Li | W+R | 2009-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pt5sLnxgllFpBheNJB3kCQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第12節 | Liu Xing | Gu Li | W+R | 2009-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TGCNpn3YYp%2BBz4hYl0KXYg%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦2回戦 | Gu Li | Sun Tengyu | W+R | 2009-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p8QP%2BoI7CJOGrzNI0R0Y9A%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦1回戦 | Hu Yaoyu | Gu Li | W+R | 2009-08-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bwHmcZA8811etM0ztC676w%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第11節 | Kong Jie | Gu Li | B+R | 2009-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NRUm8JoIQJXupyAdIcPiiw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第10節 | Gu Li | Hu Yaoyu | B+R | 2009-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pMPIbb6m9gh4tYHrq2ITog%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第9節 | Zhou Ruiyang | Gu Li | W+R | 2009-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SSm95l5YJRuXYBVTBSsVFw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第8節 | Gu Li | Lee Sedol | W+R | 2009-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fkMZpdK6woheK%2FDpJ7q1PA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第7節 | Gu Li | Liao Xingwen | B+R | 2009-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h6af6zRsFB%2Bz86pXFtkaNg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第6節 | Gu Li | Peng Quan | W+0.5 | 2009-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kXqz2QOXkE3kytMvSC1GyQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第5節 | Wang Haoyang | Gu Li | W+R | 2009-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QcPGLY06%2FsiQAFPtfgrUEA%3D%3D) | 
-| 第6期倡棋杯中国プロ囲碁選手権戦3回戦 | Gu Li | Chang Hao | W+7 | 2009-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uz90A4rPOj70gvYqlDC2cg%3D%3D) | 
-| 第6期倡棋杯中国プロ囲碁選手権戦2回戦 | Zhang Xuan | Gu Li | W+R | 2009-06-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gwaw4c2GN8YUJUaS0Rm0%2Bg%3D%3D) | 
-| 第6期倡棋杯中国プロ囲碁選手権戦1回戦 | Zhu Yuanhao | Gu Li | W+1 | 2009-05-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G6wZhU2LUM%2FF63biiylbIg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第4節 | Gu Li | Sun Li | W+R | 2009-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QMXd5fpbIAKp95z4mvDbBQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第3節 | Gu Li | missing | B+R | 2009-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=65bDYiMNsZj02%2BoA%2F93SDw%3D%3D) | 
-| 第14回LG杯世界棋王戦2回戦 | Hane Naoki | Gu Li | W+R | 2009-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tt3hEaYSlZ%2BMf%2Fg9pROQmg%3D%3D) | 
-| 第14回LG杯世界棋王戦1回戦 | Gu Li | Mok Jinseok | B+R | 2009-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B72ymqke62ZOPU4%2FYcq%2FBw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第2節 | Gu Li | Wang Yao | B+R | 2009-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MM1111243s%2Baafkqjy%2FFoA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第1節 | Gu Li | Liu Xing | W+R | 2009-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5wm8%2BlC%2FOj7SB6BGh0Y2ug%3D%3D) | 
-| 第1回BCカード杯世界選手権決勝五番勝負第4局 | Gu Li | Cho Hanseung | B+R | 2009-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZkmPVmBD1Yc4HJzv2DYLpg%3D%3D) | 
-| 第1回BCカード杯世界選手権決勝五番勝負第3局 | Cho Hanseung | Gu Li | W+R | 2009-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uDn9c4qWX3GSBbr%2FqB4zyQ%3D%3D) | 
-| 第1回BCカード杯世界選手権決勝五番勝負第2局 | Gu Li | Cho Hanseung | W+R | 2009-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jDf1rjvHafYpYknnfaz9CQ%3D%3D) | 
-| 第1回BCカード杯世界選手権決勝五番勝負第1局 | Cho Hanseung | Gu Li | W+R | 2009-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bYxRXn9iA5t1e6%2FIGvHE4w%3D%3D) | 
-| 第1回BCカード杯世界選手権準決勝 | Cho Hunhyun | Gu Li | W+0.5 | 2009-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wOmKxC6lHS2uLdGNcxMNqw%3D%3D) | 
-| 第1回BCカード杯世界選手権4回戦 | Gu Li | Piao Wenyao | B+R | 2009-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DKVa8xf4jOo3eaDkP0l0ug%3D%3D) | 
-| 第23期中国囲碁天元戦挑戦手合三番勝負第2局 | Chen Yaoye | Gu Li | B+R | 2009-04-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KxeKuOXI2uCwegXF8uaFdA%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯2回戦 | Gu Li | Kono Rin | W+R | 2009-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fwDfqq58eTo1LaNie8mYiQ%3D%3D) | 
-| 第23期中国囲碁天元戦挑戦手合三番勝負第1局 | Gu Li | Chen Yaoye | W+R | 2009-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zSUzm4OlWcE4nPlu4lNiXw%3D%3D) | 
-| 第1回BCカード杯世界選手権3回戦 | Gu Li | Heo Yongho | B+R | 2009-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ebe%2Bgqoporuq6elDO2nkuQ%3D%3D) | 
-| 第1回BCカード杯世界選手権2回戦 | Gu Li | Lee Jungwoo | B+2.5 | 2009-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B6rEYyAvJSEitckqt34gCA%3D%3D) | 
-| 第8回西南棋王戦決勝 | Gu Lingyi | Gu Li | B+R | 2009-03-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=54S%2BYhWdsUDj2VaZYVIh0A%3D%3D) | 
-| 第8回西南棋王戦準決勝 | Gu Li | Ding Wei | B+R | 2009-03-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cbrikGRkWbW5TvoW%2BYr9hQ%3D%3D) | 
-| 第8回西南棋王戦2回戦 | Shi Yue | Gu Li | W+R | 2009-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K2%2BknSiEd8ZcDcUzWoFD3w%3D%3D) | 
-| 第8回西南棋王戦1回戦 | missing | Gu Li | W+4.5 | 2009-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZaWC4f53GXmQvPkCySWIMA%3D%3D) | 
-| 2009CCTV杯中国囲棋電視快棋戦1回戦 | Wu Guangya | Gu Li | B+R | 2009-03-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wCb96OgIkXnt3vZa6yZMbg%3D%3D) | 
-| 第1回BCカード杯世界選手権1回戦 | Lee Wondo | Gu Li | W+R | 2009-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Dzxm7jHA%2Fr7pjGIVNeonQ%3D%3D) | 
-| 第14期NEC杯囲碁戦決勝 | Kong Jie | Gu Li | W+R | 2009-02-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jlLOF1sCX7tgFMJ57V2QPQ%3D%3D) | 
-| 第13回LG杯世界棋王戦決勝三番勝負第2局 | Lee Sedol | Gu Li | W+R | 2009-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rynNmOiOLyN42qbBl6KFrw%3D%3D) | 
-| 第13回LG杯世界棋王戦決勝三番勝負第1局 | Gu Li | Lee Sedol | B+R | 2009-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JVmaSMvNcwqWvj%2B0ZwU%2BTA%3D%3D) | 
-| 第10回農心辛ラーメン杯世界囲碁最強戦第13戦 | Gu Li | Lee Sedol | W+3.5 | 2009-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dAylqWAnpT%2FL2VdHQOqC8w%3D%3D) | 
-| 第9期リコー杯囲碁戦3回戦 | Wang Yao | Gu Li | B+R | 2009-02-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qTYz2l7JzoZVR3xUta6nPA%3D%3D) | 
-| 第10回阿含・桐山杯日中決戦 | Cho U | Gu Li | W+R | 2009-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vIQ1c9UtxuPRrXh5sBWj5A%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦決勝三番勝負第2局 | Piao Wenyao | Gu Li | W+R | 2009-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1uQjQs3XPLAEd0ne77XB7g%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦決勝三番勝負第1局 | Gu Li | Piao Wenyao | B+R | 2009-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=altA4zLbKnx7xvwaGo1sXQ%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第22節 | Gu Li | Wang Lei (b) | B+R | 2008-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JnYbQJTSjla%2FUVxWcKJHTw%3D%3D) | 
-| 第9期リコー杯囲碁戦2回戦 | Gu Li | Wang Lei (s) | B+R | 2008-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XelEMI%2FFVNGV2EJrOkoK7Q%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第21節 | Gu Li | Ding Wei | B+R | 2008-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pzSO5HBy1roNVVMfSkBAUg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第20節 | Gu Li | Hu Yaoyu | B+R | 2008-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PqfJjSRGxUPzzAN%2FR%2FpYVA%3D%3D) | 
-| 第7回春蘭杯世界囲碁選手権3回戦 | Lee Changho | Gu Li | B+R | 2008-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uRuTz8mGVTqHgMnBcrrcBQ%3D%3D) | 
-| 第14期NEC杯囲碁戦準決勝 | Zhu Yuanhao | Gu Li | W+R | 2008-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bE%2BTkLZqwzneCXejxuPI5A%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第19節 | Liao Xingwen | Gu Li | B+R | 2008-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AzJBkLY5ToAlb%2BOmD1zZ9g%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第18節 | Gu Li | Gu Lingyi | B+R | 2008-11-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gNBeyIXomPz%2BHF5uImlJSw%3D%3D) | 
-| 第4期威孚房開杯棋王戦3回戦 | Gu Li | Li Kang | W+R | 2008-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0UwP5IyLdj6NTNf6EklDMA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第17節 | Gu Li | Meng Tailing | B+R | 2008-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I8x88gfEpn%2F%2BlPYGsJMZhg%3D%3D) | 
-| 第21期中国囲碁名人戦挑戦手合五番勝負第5局 | Gu Li | Piao Wenyao | B+R | 2008-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LTsugHysnJtN6ow%2F%2BiCrDw%3D%3D) | 
-| 第21期中国囲碁名人戦挑戦手合五番勝負第4局 | Gu Li | Piao Wenyao | B+R | 2008-11-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gmF5xNavxSX6Bopj%2F3lcYg%3D%3D) | 
-| 第21期中国囲碁名人戦挑戦手合五番勝負第3局 | Piao Wenyao | Gu Li | W+R | 2008-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ebd8bE9%2FfhtM0rGcDdhq6w%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第16節 | Gu Li | Zhong Wenjing | B+3.5 | 2008-11-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UCpy1gYEl%2F58ppjnq85l0w%3D%3D) | 
-| 第2回衢州・爛柯杯中国囲棋冠軍戦決勝 | Gu Li | Chang Hao | B+R | 2008-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q8eianQQDuKo3YtmzFn5GQ%3D%3D) | 
-| 第2回衢州・爛柯杯中国囲棋冠軍戦準決勝 | Wang Yao | Gu Li | W+1.5 | 2008-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cD7seMVcJCnUtj57Pm2FTg%3D%3D) | 
-| 第2回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Xie He | Gu Li | W+R | 2008-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=skivT3ACiaGoedmWLhmJLw%3D%3D) | 
-| 第14期NEC杯囲碁戦2回戦 | Zhou Ruiyang | Gu Li | W+R | 2008-11-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OyjbVPyN%2Fk3BdjztueDqtQ%3D%3D) | 
-| 第13回LG杯世界棋王戦準決勝 | Lee Changho | Gu Li | W+1.5 | 2008-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TeRinpTRlC8EhHLTfNcCQw%3D%3D) | 
-| 第13回LG杯世界棋王戦3回戦 | Gu Li | Kim Hyeongwoo | B+R | 2008-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=618BfYWMEXjjVsZB96ziCQ%3D%3D) | 
-| 第10期阿含・桐山杯中国早碁オープン戦決勝 | Gu Li | Chang Hao | B+7.5 | 2008-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V5mUS0f29k5fQEYg5Qxg%2BA%3D%3D) | 
-| 第21期中国囲碁名人戦挑戦手合五番勝負第2局 | Gu Li | Piao Wenyao | W+R | 2008-10-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HkpXbJY76FMjQn%2FuqlyctA%3D%3D) | 
-| 第21期中国囲碁名人戦挑戦手合五番勝負第1局 | Piao Wenyao | Gu Li | B+R | 2008-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F3itQ9GuNfEQaVsqP1YxCg%3D%3D) | 
-| 第10期阿含・桐山杯中国早碁オープン戦準決勝 | Shi Yue | Gu Li | W+4.5 | 2008-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XkKJl837ON14Ux%2FBaBCz5A%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Gu Li | Kang Dongyun | W+2.5 | 2008-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C5bRHS8MhMWT0WZq%2FnCTJw%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Cho Riyu | Gu Li | W+R | 2008-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kklH5GOpqdOy3W9C5y5NeA%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | O Rissei | Gu Li | W+R | 2008-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r%2FT1I45aSZgAXRD1YFEJ5A%3D%3D) | 
-| 第5期倡棋杯中国プロ囲碁選手権戦準決勝第3局 | Qiu Jun | Gu Li | B+R | 2008-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eq0tALHPZmecnvIdUvNZYw%3D%3D) | 
-| 第10期阿含・桐山杯中国早碁オープン戦2回戦 | missing | Gu Li | W+R | 2008-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pBylPGJvHfm4pqxlq9OpRw%3D%3D) | 
-| 第4期威孚房開杯棋王戦2回戦 | Liu Xiaoguang | Gu Li | W+R | 2008-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fu8UmMPRrNYKFDiH3ODRkg%3D%3D) | 
-| 第4期威孚房開杯棋王戦1回戦 | Gu Li | Zhong Wenjing | B+R | 2008-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HoZI06Z%2Fd5i0L%2BOxIWOylQ%3D%3D) | 
-| 第10期阿含・桐山杯中国早碁オープン戦1回戦 | Gu Li | Qiu Jun | B+R | 2008-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V%2FQEi1p8arW%2F%2B%2Fxjw6AeUA%3D%3D) | 
-| 第13回三星火災杯世界オープン囲碁選手権1回戦 | Jin Siyoung | Gu Li | B+0.5 | 2008-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OC3mc6dmfD5gSMn5njmczw%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦準決勝 | Gu Li | Cho U | B+R | 2008-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FhRN2VAl8i48MFuboi4pHA%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦3回戦 | Gu Li | Cho Hanseung | B+2.5 | 2008-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DbgY4rkGLtxh520TSHeq5A%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Park Yeonghun | Gu Li | W+R | 2008-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=srxYjLI%2FFkT5urR3C%2BUBPQ%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Gu Li | Hikosaka Naoto | B+R | 2008-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=52PDw38Za%2BCgXSPPESezhQ%3D%3D) | 
-| 第5期倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Qiu Jun | Gu Li | B+R | 2008-08-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fzc14o%2Ffn8hIoL7OuiByIQ%3D%3D) | 
-| 第5期倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Gu Li | Qiu Jun | B+R | 2008-07-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aKioOLmGhIpF66U8oBWH%2Bw%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯決勝 | Gu Li | Lee Changho | B+R | 2008-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=StuAkDjVWrtLEOddwDXS%2FA%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯準決勝 | Chang Hao | Gu Li | W+R | 2008-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BzDtmm13Qgg0jBfUEWqDPg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第12節 | Gu Li | Kong Jie | B+R | 2008-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T0S6XfAhh%2FnwcqlZV40agg%3D%3D) | 
-| 第12回中韓天元対抗戦第2局 | Gu Li | Weon Seongjin | W+R | 2008-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AOLuEF7nB77D8A2q2rDkmA%3D%3D) | 
-| 第12回中韓天元対抗戦第1局 | Weon Seongjin | Gu Li | B+R | 2008-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FsIuCJ8Wn527igg0%2FUbspw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第11節 | Gu Li | Lee Sedol | W+R | 2008-06-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ARTQ9%2BD8Tb%2BZ2qhU%2FCySTg%3D%3D) | 
-| 第5期倡棋杯中国プロ囲碁選手権戦3回戦 | Zhou Ruiyang | Gu Li | W+R | 2008-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=70Nr9xJP6FoE9l9zj5Qcgw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第10節 | Ding Wei | Gu Li | W+R | 2008-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WERUgOKA1JaC%2BRzKWCQQtA%3D%3D) | 
-| 第2回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Gu Li | Zhou Heyang | B+R | 2008-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Y8cN1ON8W9Sjzkcox6BEA%3D%3D) | 
-| 第2回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Gu Li | Peng Liyao | B+R | 2008-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NiEiquStC1OPW1ecJXzghw%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯3回戦 | Gu Li | Lee Sedol | B+R | 2008-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FqhY829CiLRwxGCCtoraLA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第9節 | Hu Yaoyu | Gu Li | B+R | 2008-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yKtVsUS2SexXhovKhOxTwA%3D%3D) | 
-| 第5期倡棋杯中国プロ囲碁選手権戦2回戦 | Gu Li | Luo Xihe | B+R | 2008-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cz4VRBL72ElB3gTv4ysegw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第8節 | Li Kang | Gu Li | W+R | 2008-05-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b4GUUPz6foRT2qbMyaTDgg%3D%3D) | 
-| 第13回LG杯世界棋王戦2回戦 | Gu Li | Weon Seongjin | B+2.5 | 2008-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CQIHOevGbCBNeOeGdtXXLQ%3D%3D) | 
-| 第13回LG杯世界棋王戦1回戦 | Gu Li | Mok Jinseok | B+R | 2008-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bYcfwyWPEe8gjltOeE4bTw%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第7節 | Gu Lingyi | Gu Li | W+R | 2008-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fWnWzjydvi9daSk%2F7oe2Rw%3D%3D) | 
-| 第1期中国竜星戦決勝 | Kong Jie | Gu Li | W+0.5 | 2008-05-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Aul9jpolECS0yfWU9kgqbA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第6節 | Meng Tailing | Gu Li | W+R | 2008-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xUNi41ZnjAU1dJQ3m8crbQ%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第5節 | Gu Li | Li Zhe | W+R | 2008-05-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FK63T2dBXLTjaRXrn79goQ%3D%3D) | 
-| 第6回応氏杯世界選手権2回戦 | Choi Cheolhan | Gu Li | B+R | 2008-05-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NmXYr9xDMOblYFKBqpE4Hw%3D%3D) | 
-| 第6回応氏杯世界選手権1回戦 | Yamashita Keigo | Gu Li | W+R | 2008-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oc6j5A2HwxmhbZQbZtgfFQ%3D%3D) | 
-| 第8期リコー杯囲碁戦決勝 | Qiu Jun | Gu Li | B+1.5 | 2008-04-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dKLzgIgAuEg8QfFHE5YV8w%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第4節 | Wang Lei (s) | Gu Li | W+R | 2008-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lG74jWK8nZmHoQ6k5F8r8w%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯2回戦 | Lee Yeongkyu | Gu Li | W+R | 2008-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yx%2BjAmiDjPPM6aGcFvbpTw%3D%3D) | 
-| 第22期中国囲碁天元戦挑戦手合三番勝負第3局 | Zhou Heyang | Gu Li | W+R | 2008-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qRLED3QrfJdevEReT7zORg%3D%3D) | 
-| 第22期中国囲碁天元戦挑戦手合三番勝負第2局 | Gu Li | Zhou Heyang | W+R | 2008-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I8P5N%2BWNRVRbxNoQgfqAEA%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第3節 | Zhou Heyang | Gu Li | W+R | 2008-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fw2NiU96Df0pZOdBrTf5Fg%3D%3D) | 
-| 2008CCTV杯中国囲棋電視快棋戦3回戦 | Gu Li | Kong Jie | W+R | 2008-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=357cGCSHyLv6KNwgSfw0Bg%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第2節 | Gu Li | Luo Xihe | B+R | 2008-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1pFgGVYtOapiJCXU0aXOAQ%3D%3D) | 
-| 第7回西南棋王戦2回戦 | Gu Li | Dang Yifei | W+R | 2008-03-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pPFDfPgmPKiBQV7zmaTvxg%3D%3D) | 
-| 第7回西南棋王戦1回戦 | Gu Li | Wang Yao | B+R | 2008-03-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JIwub6gj7kEY71JgrXbing%3D%3D) | 
-| 第10回中国囲碁甲級リーグ第1節 | Kong Jie | Gu Li | W+R | 2008-03-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EvHkerTUs7D6fTeEkrpPow%3D%3D) | 
-| 第22期中国囲碁天元戦挑戦手合三番勝負第1局 | Zhou Heyang | Gu Li | W+R | 2008-03-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6O%2BTsuEs1VIKOJJrsJ3byA%3D%3D) | 
-| 第7回春蘭杯世界囲碁選手権2回戦 | Gu Li | Weon Seongjin | B+R | 2008-03-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sO%2B4w5Rj25SaCN0BRDNiBw%3D%3D) | 
-| 第8期リコー杯囲碁戦準決勝 | Gu Li | Xie He | B+R | 2008-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=syLDIOTXXwKI8TPtJ4Jlew%3D%3D) | 
-| 第8期リコー杯囲碁戦4回戦 | Gu Li | Liu Xing | B+R | 2008-03-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nZVrWSctxNqEZbPe543wJA%3D%3D) | 
-| 第8期リコー杯囲碁戦3回戦 | Gu Li | Gu Lingyi | B+R | 2008-03-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a%2BTvAvXa2Ef2Lonwuv0SCQ%3D%3D) | 
-| 第4期倡棋杯中国プロ囲碁選手権戦決勝三番勝負第3局 | Liu Xing | Gu Li | W+R | 2008-01-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vZE4I%2BJSJfQaLIWUsSjOWA%3D%3D) | 
-| 第4期倡棋杯中国プロ囲碁選手権戦決勝三番勝負第2局 | Gu Li | Liu Xing | W+R | 2008-01-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O0VP%2BBs%2Fevg9GvFss4oTFA%3D%3D) | 
-| 第4期倡棋杯中国プロ囲碁選手権戦決勝三番勝負第1局 | Liu Xing | Gu Li | W+R | 2008-01-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d7QmtRzEKRMZmvaKu2%2BLWg%3D%3D) | 
-| 第13期NEC杯囲碁戦決勝 | Kong Jie | Gu Li | W+R | 2008-01-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lGTxnzNbBWW6wyJbInDT0Q%3D%3D) | 
-| 第8期リコー杯囲碁戦2回戦 | Gu Li | missing | B+R | 2008-01-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=67Da0JmNVwuibhQJh0dlzw%3D%3D) | 
-| 第20期中国囲碁名人戦挑戦手合五番勝負第3局 | Gu Li | Ding Wei | B+R | 2007-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7yyoYaJo7%2FMgTOShanaPeQ%3D%3D) | 
-| 2008CCTV杯中国囲棋電視快棋戦2回戦 | Gu Li | Tan Xiao | B+R | 2007-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d960Q9rosjKR4UXXZHoODA%3D%3D) | 
-| 2008CCTV杯中国囲棋電視快棋戦1回戦 | missing | Gu Li | W+R | 2007-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PSlpJZLEOXX7WBz93x%2BaoQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第22節 | Gu Li | Wang Haoyang | W+0.5 | 2007-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tYKprBosmaXCgKhu2O%2BadQ%3D%3D) | 
-| 第20期中国囲碁名人戦挑戦手合五番勝負第2局 | Ding Wei | Gu Li | W+R | 2007-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zmhjMix%2FZ8dDmNW3SVXL6A%3D%3D) | 
-| 第20期中国囲碁名人戦挑戦手合五番勝負第1局 | Gu Li | Ding Wei | B+3.5 | 2007-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hD4dVwnVrDsXKrNLmh50Qg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第21節 | Niu Yutian | Gu Li | B+R | 2007-12-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MIVcIOqowtHfDJqui30edw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第20節 | Gu Li | Wang Yao | B+R | 2007-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OlrcaWQaw5t9IrtO%2B8WVKg%3D%3D) | 
-| 第4期倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Qiu Jun | Gu Li | W+T | 2007-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PMS2jNbwlRvxjBvoTp3QJQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第19節 | Kong Jie | Gu Li | B+1.5 | 2007-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hhVWFdWLrN1P%2FMKt%2B6Viyg%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権準決勝三番勝負第3局 | Park Yeonghun | Gu Li | B+1.5 | 2007-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ZkVk9Vbs6XNkadza2v%2FFA%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権準決勝三番勝負第2局 | Gu Li | Park Yeonghun | W+1.5 | 2007-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rKN%2FaroBU9kOE2E7M2NHCg%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権準決勝三番勝負第1局 | Park Yeonghun | Gu Li | W+R | 2007-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=60RLmoZG%2BkD%2BNjSEqAAVcQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第17節 | Luo Xihe | Gu Li | B+R | 2007-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=55DHKytjGcpMgwrQcCvI9Q%3D%3D) | 
-| 第4期倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Gu Li | Qiu Jun | B+R | 2007-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IPp4ktuuuzvmkE0dTOnxgg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第16節 | Gu Li | missing | B+R | 2007-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AQKAyBQ30toquupGP01CVg%3D%3D) | 
-| 第13期NEC杯囲碁戦準決勝 | Qiu Jun | Gu Li | W+R | 2007-11-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MFOUaDkG45nfoOacPtStYA%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第15節 | Li Zhe | Gu Li | W+0.5 | 2007-11-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HuKJEXkGY3FtmJCqcQJ9%2Fw%3D%3D) | 
-| 第9期阿含・桐山杯中国早碁オープン戦準決勝 | Gu Li | Liu Xing | W+R | 2007-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lH3cGUdwE4eU0dgX%2FackKw%3D%3D) | 
-| 第4期倡棋杯中国プロ囲碁選手権戦3回戦 | Gu Li | Chen Yaoye | B+3 | 2007-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kopfJ6Z5xh0qxNfJU1y%2FXQ%3D%3D) | 
-| 第4期倡棋杯中国プロ囲碁選手権戦2回戦 | Gu Li | Luo Xihe | B+R | 2007-10-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rzls5pNoJ5Yil%2BGhL2DexQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第14節 | missing | Gu Li | W+R | 2007-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JM8at33YZEenZu01mrFQrg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第13節 | Lee Sedol | Gu Li | B+R | 2007-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LQoPoMKrGonkut%2FEsZmioQ%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権3回戦 | Gu Li | Yoo Changhyuk | B+9.5 | 2007-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vqQdJnKBBd2apaqppAu3QA%3D%3D) | 
-| 第9期阿含・桐山杯中国早碁オープン戦2回戦 | Liu Xiaoguang | Gu Li | W+R | 2007-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wZdPRShOLK5%2BvH9EGOlotQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第12節 | Xie He | Gu Li | B+R | 2007-09-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qyujgk6%2F5gEEM2B4NGnZXQ%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権2回戦 | Gu Li | Kang Dongyun | B+R | 2007-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=defSK%2F82MSkd9E4isw%2BNYg%3D%3D) | 
-| 第12回三星火災杯世界オープン囲碁選手権1回戦 | Gu Li | Cho Hyeyeon | B+R | 2007-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jnnTKI0y8H2WOw4T9JrLlQ%3D%3D) | 
-| 第11回中韓天元対抗戦第2局 | Cho Hanseung | Gu Li | W+0.5 | 2007-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aDlfPsTOxglMkrNSU9bTDA%3D%3D) | 
-| 第11回中韓天元対抗戦第1局 | Gu Li | Cho Hanseung | B+R | 2007-08-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MRjibRhq6mp7T6%2FiTzMWGw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第11節 | Wang Haoyang | Gu Li | W+R | 2007-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=97KUTfkVpalgCTqnL9cOqg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第10節 | Gu Li | Li Kang | B+R | 2007-08-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0hGKI%2F46OFAcMTX0RQuWOg%3D%3D) | 
-| 第13期NEC杯囲碁戦2回戦 | Gu Li | Tuo Jiaxi | B+R | 2007-08-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5N7Ugck4SSA5%2FYmEhNEg9g%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第9節 | Wang Yao | Gu Li | W+R | 2007-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e%2FNtDtIYrSBcJ8Oi95TVUg%3D%3D) | 
-| 第9期阿含・桐山杯中国早碁オープン戦1回戦 | Chang Hao | Gu Li | W+R | 2007-07-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5EOMjjN5%2BFMWIvJoirE9wA%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第8節 | Gu Li | Chen Yaoye | W+R | 2007-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GuI1mn8Y5Arqi6%2FnVCPgDA%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第7節 | Qiu Jun | Gu Li | B+R | 2007-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Czzpw9Uu8KaUnq8dbD%2Ba8w%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第6節 | Gu Li | Luo Xihe | W+R | 2007-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=im%2BO%2F6s0zIKLjZxBJ8Gr5Q%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第5節 | missing | Gu Li | W+R | 2007-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iruGSry1Gzafa%2FWIyKwcbg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第4節 | Gu Li | Li Zhe | W+R | 2007-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LPP7w1dLt2eZS0f1%2BVgcWw%3D%3D) | 
-| 第12回LG杯世界棋王戦2回戦 | Gu Li | Han Sanghoon | W+R | 2007-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aywDNSIIZtI4URBQ9%2B7vAA%3D%3D) | 
-| 第12回LG杯世界棋王戦1回戦 | Lee Yeongkyu | Gu Li | W+4.5 | 2007-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SDQmvJKOon4%2F%2B5%2FpFKieCg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第3節 | missing | Gu Li | W+R | 2007-05-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FdjdQV85HzDwaysCEcvDRg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第2節 | Gu Li | Shi Yue | W+R | 2007-05-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8B5MLwdIP%2FphjeF5ApKj3w%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第1節 | Gu Li | Xie He | W+R | 2007-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dcKAfgOa1PruQsFdpgDl3w%3D%3D) | 
-| 第21期中国囲碁天元戦挑戦手合三番勝負第3局 | Liu Shizhen | Gu Li | W+2.5 | 2007-04-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=448eg14SSjNHUkBb5fhYeg%3D%3D) | 
-| 第21期中国囲碁天元戦挑戦手合三番勝負第2局 | Gu Li | Liu Shizhen | W+R | 2007-04-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MMh060Bh1Yw5XEaVxKzJYg%3D%3D) | 
-| 第21期中国囲碁天元戦挑戦手合三番勝負第1局 | Liu Shizhen | Gu Li | W+R | 2007-04-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tM7bOxmgY1YjxRYa%2Bhcu3A%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯2回戦 | Yoda Norimoto | Gu Li | B+R | 2007-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1vSOulskwKPpA9wHWeUHPg%3D%3D) | 
-| 2007CCTV杯中国囲棋電視快棋戦3回戦 | Gu Li | missing | W+R | 2007-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yq2%2Bdc11so%2BUU14b8AUQnw%3D%3D) | 
-| 2007CCTV杯中国囲棋電視快棋戦2回戦 | Gu Li | Liu Jing | B+R | 2007-03-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nh%2BOtFq3LO60cvsyQgVwCw%3D%3D) | 
-| 第6回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Gu Li | Chang Hao | B+R | 2007-03-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sCxD%2FtQWRy2xTI4WShCSXw%3D%3D) | 
-| 第6回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Chang Hao | Gu Li | W+0.5 | 2007-03-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VUl5ALiFk%2Bp3c1c9GX184Q%3D%3D) | 
-| 第6回西南棋王戦1回戦 | Gu Li | Yu Ping | W+2.5 | 2007-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NvmnpGcWiWqCo66GWC3t%2Fw%3D%3D) | 
-| 第8回農心辛ラーメン杯世界囲碁最強戦第14戦 | Lee Changho | Gu Li | B+1.5 | 2007-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=moDs4k0LQZLGJn96QaT1qA%3D%3D) | 
-| 第3期倡棋杯中国プロ囲碁選手権戦決勝三番勝負第3局 | Kong Jie | Gu Li | B+R | 2007-01-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nXs91bD5NjMRX7yQxsPNag%3D%3D) | 
-| 第3期倡棋杯中国プロ囲碁選手権戦決勝三番勝負第2局 | Kong Jie | Gu Li | B+R | 2007-01-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0VX9w7O6kWOTRZw88w9xMw%3D%3D) | 
-| 第3期倡棋杯中国プロ囲碁選手権戦決勝三番勝負第1局 | Gu Li | Kong Jie | B+R | 2007-01-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rP94ICzfrEPNnwjKrkfP5Q%3D%3D) | 
-| 第19期中国囲碁名人戦挑戦手合五番勝負第3局 | Zhou Ruiyang | Gu Li | W+R | 2007-01-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LAAHurZP%2BU%2FuLQLbpmLwVQ%3D%3D) | 
-| 第19期中国囲碁名人戦挑戦手合五番勝負第2局 | Gu Li | Zhou Ruiyang | B+R | 2007-01-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BXug%2BypQo91phWbHSt%2FW2w%3D%3D) | 
-| 第19期中国囲碁名人戦挑戦手合五番勝負第1局 | Zhou Ruiyang | Gu Li | W+R | 2007-01-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j%2BpJXxMNhsTbRCtEw%2FgYdw%3D%3D) | 
-| 第7期リコー杯囲碁戦3回戦 | Gu Li | Wang Lei (b) | W+R | 2006-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A2vIC4WkVzCmdQu996bJCQ%3D%3D) | 
-| 第3期倡棋杯中国プロ囲碁選手権戦準決勝第3局 | Gu Li | Hu Yaoyu | B+R | 2006-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yYLp2EjKwokPdFeXAIdDpg%3D%3D) | 
-| 第3期倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Hu Yaoyu | Gu Li | B+R | 2006-12-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0e6txQ54mkfk2F6Z7ysxFQ%3D%3D) | 
-| 2007CCTV杯中国囲棋電視快棋戦1回戦 | Gu Li | Li Kang | B+R | 2006-12-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yecVacLPPMsAvlMC%2B92Cfw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第21節 | Gu Li | Nie Weiping | B+R | 2006-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pa5Mgh%2FLBx02TSVTJHY5ww%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第20節 | Gu Li | Ding Wei | W+R | 2006-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3BbBkbTs8asGKRjN9YhU%2Bg%3D%3D) | 
-| 第7期リコー杯囲碁戦2回戦 | Gu Li | Tan Xiao | B+R | 2006-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B837RHnHUpML0RIfMUihgA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第19節 | Zhou Heyang | Gu Li | W+2.5 | 2006-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q8X5CXRGs8yP7rG%2FFZ88tg%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第18節 | Gu Li | Zhou Ruiyang | B+R | 2006-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BOPtoxMoIunUfRjdm%2FAWdQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第17節 | Liu Xing | Gu Li | W+R | 2006-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9pgUhmnR8GhCVid%2FEQj5TQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第16節 | Gu Li | Lee Sedol | W+R | 2006-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zk%2F6Fp4kZQpUUA835jmMQQ%3D%3D) | 
-| 第3期倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Gu Li | Hu Yaoyu | B+1 | 2006-11-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FkVU6VHL%2BogU6PLiawzKXA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第15節 | Wang Haoyang | Gu Li | B+1.5 | 2006-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yh7Ucff%2BBQjBdGu4IJOFlw%3D%3D) | 
-| 第11回LG杯世界棋王戦3回戦 | Gu Li | Hong Minpyo | W+5.5 | 2006-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9fcAO4OdBE%2F4gp5Db6aLqw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第14節 | Gu Li | Hu Yaoyu | W+R | 2006-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Ubw2Rv6qVsXSZ0TXIrAvg%3D%3D) | 
-| 第3期倡棋杯中国プロ囲碁選手権戦3回戦 | Zhou Ruiyang | Gu Li | W+1 | 2006-10-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1F5Ck97x%2BPdaYfXv5HfRGw%3D%3D) | 
-| 第3期倡棋杯中国プロ囲碁選手権戦2回戦 | Luo Xihe | Gu Li | W+3 | 2006-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vWT86HU31nMbsV1iyBBn2w%3D%3D) | 
-| 第3期倡棋杯中国プロ囲碁選手権戦1回戦 | Gu Li | Ma Xiaochun | B+R | 2006-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WovQvAq4Qde2r2E8Mlo8eg%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第13節 | Kong Jie | Gu Li | W+R | 2006-10-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Py7%2B6e87%2FtplqG7yip2EBg%3D%3D) | 
-| 第12期NEC杯囲碁戦2回戦 | Gu Li | Huang Yizhong | W+4.5 | 2006-10-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZJMjlYU35nUCh1dpfRy78Q%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第12節 | Gu Li | Li Zhe | B+1.5 | 2006-10-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=la8yJUHGyDfGZbJugEnA%2Fg%3D%3D) | 
-| 第6回春蘭杯世界囲碁選手権準決勝 | Gu Li | Xie He | B+R | 2006-09-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3cZ7FerZkvJzqeMQiYKZeg%3D%3D) | 
-| 第6回春蘭杯世界囲碁選手権3回戦 | Gu Li | Lee Changho | B+R | 2006-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8R7GVJ%2BqBGF8fw0wVyedWg%3D%3D) | 
-| 第1回衢州・爛柯杯中国囲棋冠軍戦決勝 | Yu Bin | Gu Li | B+R | 2006-09-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hEuWNzjP4%2BjGeBn0JdlrbA%3D%3D) | 
-| 第1回衢州・爛柯杯中国囲棋冠軍戦準決勝 | Zhou Heyang | Gu Li | W+R | 2006-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0rpJsn5IMq6oj57xc1lHFA%3D%3D) | 
-| 第1回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Gu Li | Chen Zude | B+R | 2006-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8oqFaCkKf5bBlYfBU5Buqw%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権2回戦 | Gu Li | Choi Cheolhan | W+0.5 | 2006-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i0Yc0d8r4LJAqg5IQH217g%3D%3D) | 
-| 第11回三星火災杯世界オープン囲碁選手権1回戦 | Gu Li | Park Cheongsang | B+R | 2006-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hYml3wa5TSEcM%2Bd72JHG6A%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Lee Changho | Gu Li | B+R | 2006-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AObIwuy5X6Q6DcTvZL8c1g%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Gu Li | Ryu Shikun | B+1.5 | 2006-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uYpyIolrhvTPIIkb6VkEnw%3D%3D) | 
-| 第10回中韓天元対抗戦第3局 | Ko Keuntae | Gu Li | B+R | 2006-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5j6BP1PC08VNH9kGunvIgg%3D%3D) | 
-| 第10回中韓天元対抗戦第2局 | Ko Keuntae | Gu Li | B+R | 2006-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KhffAU9S35uarvYQsuX%2BuQ%3D%3D) | 
-| 第10回中韓天元対抗戦第1局 | Gu Li | Ko Keuntae | B+7.5 | 2006-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vf%2BHJUTpgn4H3agxUTas1Q%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第11節 | Wang Yuhui | Gu Li | W+R | 2006-08-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ewXHVH3WRYCh87lXHH191Q%3D%3D) | 
-| 第8期阿含・桐山杯中国早碁オープン戦1回戦 | Gu Li | Chen Yaoye | W+R | 2006-08-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b3W%2FNirVFHVKbVCl8Bb9JQ%3D%3D) | 
-| 第8回農心杯中国選抜戦 | Gu Li | Liu Xing | B+R | 2006-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mjd%2BaBwqZp9KpJkOgrPiOA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第10節 | Gu Li | missing | B+R | 2006-07-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F5QjxI5h5s%2FglAtHgOaGBQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第9節 | Wang Yao | Gu Li | W+R | 2006-07-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QOvUJlIDWVFEk9ML0B2kyA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第8節 | Gu Li | Xie He | B+R | 2006-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rebVjoWNlS%2B6ysO1QVGQAA%3D%3D) | 
-| 第8回農心杯中国選抜戦 | Li Zhe | Gu Li | W+R | 2006-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qYKTTImZN53Xy4IGkK9%2Brw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第7節 | Zhou Ruiyang | Gu Li | W+R | 2006-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fo59EicVhoI%2FxDOryz2s6A%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第6節 | Gu Li | Luo Xihe | B+9.5 | 2006-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xBjSUmEjmXNwgEPlGLuvHw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第5節 | Lee Sedol | Gu Li | W+R | 2006-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JZP6ZE0Rx36Wmr5riY4Msg%3D%3D) | 
-| 2006CCTV杯中国囲棋電視快棋戦3回戦 | Luo Xihe | Gu Li | B+1.5 | 2006-06-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qrh6legSPOTL1Hw%2BpmOyXw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第4節 | Gu Li | Wang Haoyang | B+3.5 | 2006-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MF7odiIacBb%2B%2BWQPd5SZaw%3D%3D) | 
-| 第20期中国囲碁天元戦挑戦手合三番勝負第3局 | Gu Li | Zhou Ruiyang | B+3.5 | 2006-05-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zLOzWlNlE1Kbjw2fA7st6A%3D%3D) | 
-| 第20期中国囲碁天元戦挑戦手合三番勝負第2局 | Gu Li | Zhou Ruiyang | B+R | 2006-05-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RunJEf1dy0pVeNCSwOefpg%3D%3D) | 
-| 第20期中国囲碁天元戦挑戦手合三番勝負第1局 | Zhou Ruiyang | Gu Li | B+R | 2006-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8pqZYyDpjYsHAnu5YBr4Kw%3D%3D) | 
-| 第3回中国全国体育大会囲碁戦第8戦 | Xie He | Gu Li | B+R | 2006-05-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xbiJy8gMp7e%2Bhon6jGsF0w%3D%3D) | 
-| 第3回中国全国体育大会囲碁戦第7戦 | Gu Li | Li Zhe | B+3.5 | 2006-05-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9W%2BSL8VvJiAUVS44M3DlYQ%3D%3D) | 
-| 第3回中国全国体育大会囲碁戦 | Zhou Heyang | Gu Li | W+R | 2006-05-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q1ak9z1bwJRcCuiXrEqKzw%3D%3D) | 
-| 第11回LG杯世界棋王戦2回戦 | Gu Li | Ko Keuntae | B+R | 2006-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=murs4%2BTqpeuDjW5p72ey4g%3D%3D) | 
-| 第11回LG杯世界棋王戦1回戦 | Park Yeonghun | Gu Li | W+R | 2006-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D4xDOQnhMRhBOZ5LSTmQAQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第3節 | Hu Yaoyu | Gu Li | W+R | 2006-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rWRF0B7WmNgG9%2FlxaxvrWQ%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第3戦 | Gu Li | Lee Sedol | B+R | 2006-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=37hF1Cr%2Bsj3%2BWdGq3aDvdg%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第2戦 | Gu Li | Yamashita Keigo | B+R | 2006-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qBdWAYsvyyPAjOOdQE%2BGgA%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦第1戦 | Cho U | Gu Li | B+5.5 | 2006-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Iubq4qgCS5%2F89L%2FABAJbag%3D%3D) | 
-| 第10回LG杯世界棋王戦決勝五番勝負第5局 | Gu Li | Chen Yaoye | B+R | 2006-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bYwt967kJiYNsavk5FnhrQ%3D%3D) | 
-| 第10回LG杯世界棋王戦決勝五番勝負第4局 | Gu Li | Chen Yaoye | W+R | 2006-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CFxppswefcQPdOQ4V09x9w%3D%3D) | 
-| 第10回LG杯世界棋王戦決勝五番勝負第3局 | Chen Yaoye | Gu Li | B+2.5 | 2006-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uCdOT1LMni2bNRtbWmEYmg%3D%3D) | 
-| 第19回世界囲碁選手権富士通杯2回戦 | Yuki Satoshi | Gu Li | B+R | 2006-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LdEO1T0zH8Ah7Z8LDH4CAw%3D%3D) | 
-| 2006CCTV杯中国囲棋電視快棋戦2回戦 | Chen Yaoye | Gu Li | W+R | 2006-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MC%2B18FYOl4nz33TcZHnEWQ%3D%3D) | 
-| 第5回西南棋王戦準決勝 | Wang Xi | Gu Li | B+R | 2006-03-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rNsNNKIDwLQY7O8%2BnRK3gw%3D%3D) | 
-| 第5回西南棋王戦2回戦 | Gu Li | Ding Wei | B+R | 2006-03-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FRc1P5iGbtJC3cgUZ%2BtSJg%3D%3D) | 
-| 第5回西南棋王戦1回戦 | missing | Gu Li | W+R | 2006-03-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ro5u5BIALljk2f2llfyyuQ%3D%3D) | 
-| 第6回春蘭杯世界囲碁選手権2回戦 | Kono Rin | Gu Li | W+R | 2006-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jdptc%2BYukpB4GaL8%2FH918A%3D%3D) | 
-| 第10回LG杯世界棋王戦決勝五番勝負第2局 | Gu Li | Chen Yaoye | B+R | 2006-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=veBmFcRdZCUwqOE%2F1IeY1w%3D%3D) | 
-| 第10回LG杯世界棋王戦決勝五番勝負第1局 | Chen Yaoye | Gu Li | W+R | 2006-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hwlRQeoeTzHpphmRVLIYGA%3D%3D) | 
-| 第6期リコー杯囲碁戦準決勝 | Gu Li | Wang Xi | W+R | 2006-03-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uWqMVWpR1CNfitXbaXUX4Q%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦中国選抜戦 | Gu Li | Piao Wenyao | B+R | 2006-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5iEKZFGoOylG%2FHIYmeDxFQ%3D%3D) | 
-| 第5回CSK杯囲碁アジア対抗戦中国選抜戦 | Luo Xihe | Gu Li | W+R | 2006-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AdVHk9cCFGGJLAEV75LKmA%3D%3D) | 
-| 第6期リコー杯囲碁戦4回戦 | Gu Li | Wang Lei (b) | B+1.5 | 2006-02-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TxpAyIBaOfAtDONqg8t0dw%3D%3D) | 
-| 2006CCTV杯中国囲棋電視快棋戦1回戦 | Sun Li | Gu Li | W+R | 2006-01-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pXLu798Wy%2FVzGYHtABvPug%3D%3D) | 
-| 第11期NEC杯囲碁戦決勝 | Gu Li | Liu Shizhen | B+R | 2006-01-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e43yUi%2FlVXgJ26PcfnEokw%3D%3D) | 
-| 第18期中国囲碁名人戦挑戦手合五番勝負第3局 | Yu Bin | Gu Li | W+R | 2006-01-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jSRGp7L2PRLZX%2B2udUvUTQ%3D%3D) | 
-| 第7回阿含・桐山杯日中決戦 | Iyama Yuta | Gu Li | W+R | 2006-01-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BzrN7hiCBktxy7ibRVZLRQ%3D%3D) | 
-| 第6期リコー杯囲碁戦3回戦 | Ma Xiaochun | Gu Li | W+R | 2006-01-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=01Qf%2BXoDUxTtFb4ZQbFreQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第22節 | missing | Gu Li | W+R | 2005-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BlH1XTuUtxIcx60vhl3hnw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第21節 | Gu Li | missing | B+R | 2005-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Khf4qZVN6pSr6Npde%2B%2Ftpg%3D%3D) | 
-| 第11期NEC杯囲碁戦準決勝 | Zhou Heyang | Gu Li | W+R | 2005-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v0iX7ybNssRII0n7l3tRMw%3D%3D) | 
-| 第18期中国囲碁名人戦挑戦手合五番勝負第2局 | Gu Li | Yu Bin | B+15.5 | 2005-12-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VjmL4VUoenWtL3lqRexCKQ%3D%3D) | 
-| 第18期中国囲碁名人戦挑戦手合五番勝負第1局 | Yu Bin | Gu Li | W+2.5 | 2005-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=02rdSfZS5KwY6Zpzv3JrDQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第20節 | Lee Sedol | Gu Li | W+R | 2005-12-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B8XV8erqoENVMYpff%2Bt9FA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第19節 | Gu Li | Luo Xihe | W+R | 2005-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6x%2FLjkEQe2ygsHk422CwCw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第18節 | Wang Yao | Gu Li | W+R | 2005-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UIeUKVkSqRp4yBq%2FHQMbSw%3D%3D) | 
-| 第7期阿含・桐山杯中国早碁オープン戦決勝 | Qiu Jun | Gu Li | W+R | 2005-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hOLyCeq7aQl3GBWg0tYS0w%3D%3D) | 
-| 第11期NEC杯囲碁戦2回戦 | Zhu Songli | Gu Li | W+R | 2005-11-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E94GS8AhfgXafWWNcaGHkg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第17節 | Gu Li | Piao Wenyao | B+R | 2005-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mcQ8bMDhv7LPDgPYbJ0PMw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第16節 | Gu Li | Chang Hao | W+R | 2005-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GfdXm71jVBwWY8997SVv1w%3D%3D) | 
-| 第7期阿含・桐山杯中国早碁オープン戦準決勝 | Liu Shizhen | Gu Li | W+R | 2005-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5xwVuqxET9HHHkiZAZtfJw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第15節 | Gu Li | Ding Wei | B+R | 2005-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bIX703CiV6kY1mOHW0fj8g%3D%3D) | 
-| 第2期倡棋杯中国プロ囲碁選手権戦2回戦 | Zhou Ruiyang | Gu Li | B+R | 2005-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=239Eczn5qASXEYyLmvnygw%3D%3D) | 
-| 第2期倡棋杯中国プロ囲碁選手権戦1回戦 | Huang Yizhong | Gu Li | W+R | 2005-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9I9apzQtYnpJwUEmLodxtw%3D%3D) | 
-| 第10回LG杯世界棋王戦準決勝 | Gu Li | Lee Sedol | B+R | 2005-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f0oY2m5NZrd%2FrYH7efaiHg%3D%3D) | 
-| 第10回LG杯世界棋王戦3回戦 | Gu Li | Zhou Heyang | B+R | 2005-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yUoNvZYmOwaaqeTN2J1EPQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第14節 | Gu Li | Ma Xiaochun | W+R | 2005-10-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FQLCiItBuY2%2BxIt5GxoaVA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第13節 | Kong Jie | Gu Li | B+R | 2005-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ut%2BZrKhRI8jzhJmeQJJaog%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第12節 | Gu Li | Yu Bin | B+R | 2005-10-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dbWOAHIfKZ5QcXejmLPf%2Fg%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権2回戦 | Lee Changho | Gu Li | B+0.5 | 2005-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=amz5OqIqFa6aP3xK5UFFdA%3D%3D) | 
-| 第10回三星火災杯世界オープン囲碁選手権1回戦 | Gu Li | Paek Hongseok | B+R | 2005-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TOksbxm27uo1fUBHnB2Chg%3D%3D) | 
-| 第7期阿含・桐山杯中国早碁オープン戦1回戦 | Gu Li | Yu Ping | B+7.5 | 2005-09-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RMlaM8%2BckHYHHpTKp4FsSA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第11節 | Yu Ping | Gu Li | B+R | 2005-08-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I%2BBwCkO6CZPBqsugdNfheQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第10節 | Gu Li | missing | B+R | 2005-08-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0y8ADeagl4VVJSZhvMYY%2FA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第9節 | Gu Li | Lee Sedol | W+0.5 | 2005-08-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6QIK98939grd5SSKw6JReQ%3D%3D) | 
-| 第9回中韓天元対抗戦第3局 | Gu Li | Choi Cheolhan | B+1.5 | 2005-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PTSoH0p%2FdvpHxauM4mhvGQ%3D%3D) | 
-| 第9回中韓天元対抗戦第2局 | Gu Li | Choi Cheolhan | B+1.5 | 2005-07-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a%2BSA3D7ikbb7kEpRxmz3lw%3D%3D) | 
-| 第9回中韓天元対抗戦第1局 | Choi Cheolhan | Gu Li | B+R | 2005-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5igti9LMFQRptHPv4D1Dvg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第8節 | Luo Xihe | Gu Li | B+R | 2005-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p1B5WcJSljBR12i4GLjaDw%3D%3D) | 
-| 第7回農心杯中国選抜戦 | Xie He | Gu Li | B+R | 2005-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0f89hOXBrXFvsQZL9hekpg%3D%3D) | 
-| 第7回農心杯中国選抜戦 | Gu Li | Hu Yaoyu | B+R | 2005-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V1uJ9jPTKC3vXwZ%2F3AesLw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第7節 | missing | Gu Li | W+R | 2005-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L6ixdyszMEnd%2BVsBSfybVw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第6節 | Gu Li | Piao Wenyao | W+2.5 | 2005-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RhXuX9sehcvnYmPDwb%2BRkQ%3D%3D) | 
-| 第17回テレビアジア選手権1回戦 | Gu Li | Yoda Norimoto | W+R | 2005-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H33GF7BjpUbxu9U8BL5uOg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第5節 | Liu Shizhen | Gu Li | W+R | 2005-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t1f2SOKQ9vNNk%2B3SSAMVXg%3D%3D) | 
-| 第18回世界囲碁選手権富士通杯3回戦 | Gu Li | Song Taekon | W+R | 2005-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5594T0h3qnCqJOmz2cr%2Fww%3D%3D) | 
-| 第8回中韓新人王対抗戦三番勝負第3局 | Park Yeonghun | Gu Li | W+R | 2005-05-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1kNQsqQGclsd3sAUKkPdVw%3D%3D) | 
-| 第8回中韓新人王対抗戦三番勝負第2局 | Gu Li | Park Yeonghun | B+1.5 | 2005-05-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=txG0P1WLdYG1qJV3w7rIaA%3D%3D) | 
-| 第8回中韓新人王対抗戦三番勝負第1局 | Park Yeonghun | Gu Li | B+3.5 | 2005-05-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u7rspF4iZJWhojSJwDhN%2Bg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第4節 | Gu Li | Ding Wei | W+R | 2005-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xyztwxu91o4rWhgS%2B44ZpQ%3D%3D) | 
-| 第10回LG杯世界棋王戦2回戦 | Kobayashi Koichi | Gu Li | W+R | 2005-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hELYQilNQ7AKZkgBf%2FxFXA%3D%3D) | 
-| 第10回LG杯世界棋王戦1回戦 | missing | Gu Li | W+15.5 | 2005-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OcnwCKKl5n0VK7%2BcLqNPVg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第3節 | Ma Xiaochun | Gu Li | B+5.5 | 2005-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ac9c1ea6qoJA%2BCpGMBCRRw%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第3戦 | Gu Li | Lee Sedol | W+2.5 | 2005-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6Fl965qCzi7eRWaH121nKA%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第2戦 | Cho U | Gu Li | W+R | 2005-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sH3ebsB7Vu11nil4L%2Bp7IQ%3D%3D) | 
-| 第4回CSK杯囲碁アジア対抗戦第1戦 | Gu Li | Yoda Norimoto | W+R | 2005-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jl%2BEQPDLIU6SdN7QH6oXbg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第2節 | Kong Jie | Gu Li | W+R | 2005-04-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZcExVxKbG1Dfq8FsE7BWnA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第1節 | Gu Li | missing | W+R | 2005-04-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5%2BOpDreRsQ92s7fLT%2FOeew%3D%3D) | 
-| 第18回世界囲碁選手権富士通杯2回戦 | Lee Changho | Gu Li | W+R | 2005-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8K2ce6gmBGuc3L0EL7jcdQ%3D%3D) | 
-| 第18回世界囲碁選手権富士通杯1回戦 | Gu Li | Catalin Taranu | B+R | 2005-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lPaB2z7XR29lcxGmyxwclg%3D%3D) | 
-| 第19期中国囲碁天元戦挑戦手合三番勝負第3局 | Zhou Heyang | Gu Li | W+2.5 | 2005-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GQ8wm5421vy9BW%2B58QoKmA%3D%3D) | 
-| 第19期中国囲碁天元戦挑戦手合三番勝負第2局 | Zhou Heyang | Gu Li | B+R | 2005-04-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y1brE0tHNWzI6WMXLNaH5A%3D%3D) | 
-| 第19期中国囲碁天元戦挑戦手合三番勝負第1局 | Gu Li | Zhou Heyang | B+R | 2005-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z%2FRmvQjUqYrWCX7jF4gdFg%3D%3D) | 
-| 第12期中国囲碁新人王戦決勝三番勝負第2局 | Gu Li | Yin Hang | B+R | 2005-02-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2uMFuZgBM0saXuLNfLTLPQ%3D%3D) | 
-| 第12期中国囲碁新人王戦決勝三番勝負第1局 | Yin Hang | Gu Li | W+2.5 | 2005-02-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v%2BdYeNzuLOgILfq3afnJhQ%3D%3D) | 
-| 第10期NEC杯囲碁戦決勝 | Gu Li | Chang Hao | W+R | 2005-01-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HFFDewdwaYJXlsCcYiXeMQ%3D%3D) | 
-| 第5期リコー杯囲碁戦3回戦 | Shao Weigang | Gu Li | B+1.5 | 2005-01-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MFwTPqI1gLHz%2FrJ8XrR%2FyA%3D%3D) | 
-| 第17期中国囲碁名人戦挑戦手合五番勝負第3局 | Qiu Jun | Gu Li | W+R | 2004-12-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BZgy8Xg3JCG3hDZDevKl9g%3D%3D) | 
-| 第17期中国囲碁名人戦挑戦手合五番勝負第2局 | Gu Li | Qiu Jun | B+R | 2004-12-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l4q84mrHnpRLPf35xgLWEQ%3D%3D) | 
-| 第17期中国囲碁名人戦挑戦手合五番勝負第1局 | Qiu Jun | Gu Li | W+R | 2004-12-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F98Ncfv2FI72qyNwoJQOHg%3D%3D) | 
-| 第10期NEC杯囲碁戦準決勝 | Gu Li | Zhou Heyang | B+5.5 | 2004-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x5GzkfniZtNUAqdE8lkZZQ%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第20節 | Gu Li | missing | B+R | 2004-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s9iM%2F04LDXihhcSSltb5tQ%3D%3D) | 
-| 第2期威孚房開杯棋王戦1回戦 | Zhou Heyang | Gu Li | B+R | 2004-11-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XrdAzIIpbuzeXwH%2BUir98g%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第19節 | Qiu Jun | Gu Li | W+R | 2004-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bw1ffdlhhsxYpNr7I3dIPQ%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第18節 | Gu Li | Zhou Bo | B+R | 2004-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5UxE7dKxhHDpV5XKP3YWfA%3D%3D) | 
-| 第9回三星火災杯世界オープン囲碁選手権準決勝三番勝負第3局 | Lee Sedol | Gu Li | B+R | 2004-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FQnzXbCr0gd1OiPMdOStuA%3D%3D) | 
-| 第9回三星火災杯世界オープン囲碁選手権準決勝三番勝負第2局 | Lee Sedol | Gu Li | W+R | 2004-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FY2lAvqJvyGWWO3COEEcRA%3D%3D) | 
-| 第9回三星火災杯世界オープン囲碁選手権準決勝三番勝負第1局 | Gu Li | Lee Sedol | W+R | 2004-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wzInsn8X5%2FXka43IT0crhw%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第17節 | Ma Xiaochun | Gu Li | W+R | 2004-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ftETVuZWa2wPvPjqn4lPlw%3D%3D) | 
-| 第1期倡棋杯中国プロ囲碁選手権戦3回戦 | Gu Li | Zhou Heyang | W+7 | 2004-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hc%2Fh4k0nh%2BGZVjIjo00V9w%3D%3D) | 
-| 第10期NEC杯囲碁戦2回戦 | Gu Li | Wang Lei (b) | B+R | 2004-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BTSMXdgSaXfN%2Bv4V1ejt6w%3D%3D) | 
-| 第1期倡棋杯中国プロ囲碁選手権戦2回戦 | Gu Li | Peng Quan | B+3 | 2004-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yDiIbhpXFqEIxENEgxgCWg%3D%3D) | 
-| 第6期阿含・桐山杯中国早碁オープン戦準決勝 | Gu Li | Zhou Heyang | W+R | 2004-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TxAlTWsSEh4HEEJlLaJxiA%3D%3D) | 
-| 第9回三星火災杯世界オープン囲碁選手権3回戦 | Choi Cheolhan | Gu Li | W+R | 2004-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zjWztLDJSObzrMDjzhjRdA%3D%3D) | 
-| 第17期中国囲碁名人戦挑戦者決定戦第2局 | Gu Li | Nie Weiping | B+R | 2004-09-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dwXGifBsxthM2FBZm0bY%2FA%3D%3D) | 
-| 第17期中国囲碁名人戦挑戦者決定戦第1局 | Nie Weiping | Gu Li | W+R | 2004-09-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dp5%2F%2BhLwnwz4U05z%2Be0NyA%3D%3D) | 
-| 第9回三星火災杯世界オープン囲碁選手権2回戦 | Cho Hunhyun | Gu Li | W+R | 2004-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1DIfa00GW8KAhjFvPw9grw%3D%3D) | 
-| 第9回三星火災杯世界オープン囲碁選手権1回戦 | Gu Li | Hong Minpyo | B+R | 2004-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0qaJJkksNLbwRESTIidgGQ%3D%3D) | 
-| 第2期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Lee Changho | Gu Li | B+R | 2004-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y%2BrrXXg8P%2FIDNQHIDT3kvA%3D%3D) | 
-| 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Yamashita Keigo | Gu Li | W+R | 2004-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sd8L9%2FjfEM9mqoVJPSV7zA%3D%3D) | 
-| 第8回中韓天元対抗戦第3局 | Choi Cheolhan | Gu Li | W+R | 2004-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LO4w6PKIPk0h7e20PoGcnw%3D%3D) | 
-| 第8回中韓天元対抗戦第2局 | Choi Cheolhan | Gu Li | B+R | 2004-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DbXmtY8I6w8I6AWmZJ97uw%3D%3D) | 
-| 第8回中韓天元対抗戦第1局 | Gu Li | Choi Cheolhan | B+R | 2004-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SOygISwMrzft4DspjcF62Q%3D%3D) | 
-| 第6回農心杯中国選抜戦 | Gu Li | Wang Xi | W+R | 2004-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m9vRUs0CXxecGT1zrevc2Q%3D%3D) | 
-| 第9回三星火災杯予選決勝 | Gu Li | missing | B+R | 2004-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9olR9Y6VocxCNX4G%2Ftlr8A%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第11節 | Gu Li | Gu Lingyi | W+R | 2004-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vhVGoHhaLf%2BqVUMSoR5vxQ%3D%3D) | 
-| 第17期中国囲碁名人戦準決勝 | Yu Bin | Gu Li | W+8.5 | 2004-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aPkBD%2F18xDupoH6a7FN5%2BQ%3D%3D) | 
-| 第17期中国囲碁名人戦3回戦 | Luo Xihe | Gu Li | W+R | 2004-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4%2BrDsp3ebc%2B4i9jdA08%2B2A%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第9節 | Gu Li | Lee Sedol | B+5.5 | 2004-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VV0pnCQfRjBgBsPFgnUAXA%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権3回戦 | Gu Li | Zhou Heyang | W+R | 2004-06-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F1oCl8SB6yZwAtcCFmeyPg%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第6節 | Yoo Changhyuk | Gu Li | W+0.5 | 2004-05-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fydz4R0MEWeAcDg2PwfwaQ%3D%3D) | 
-| 第9回LG杯世界棋王戦2回戦 | Yoo Changhyuk | Gu Li | B+2.5 | 2004-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BoDG83xLNG%2F6tiFudTGlSg%3D%3D) | 
-| 第16回テレビアジア選手権 | Gu Li | Cho Chikun | W+2.5 | 2004-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B3tVJj81zOq3fC9ZqU6X9w%3D%3D) | 
-| 第5回阿含・桐山杯日中決戦 | Gu Li | Kato Masao | B+R | 2004-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hpV%2Bvnrazf8zUecCvgSUcg%3D%3D) | 
-| 第17期中国囲碁名人戦1回戦 | Liu Xiaoguang | Gu Li | W+R | 2004-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AxgLrP1WDAV8Q3QK%2ByeuJA%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第2節 | Gu Li | missing | B+R | 2004-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V1q5dLOIG0%2FJYN6FF7Eiuw%3D%3D) | 
-| 第5回応氏杯世界選手権1回戦 | Gu Li | Yamashita Keigo | W+2 | 2004-04-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s5lI3UBMKKGxhi5UIvx46w%3D%3D) | 
-| 第6回中国囲碁甲級リーグ第1節 | Gu Li | Zhou Kui | B+7.5 | 2004-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=227q3SKqPAJ45JPKanMPpg%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯1回戦 | Gu Li | Zhou Junxun | W+R | 2004-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BO5hDgCDgXJGiTDBC%2BUCYw%3D%3D) | 
-| 第18期中国囲碁天元戦挑戦手合三番勝負第2局 | Gu Li | Xie He | B+3.5 | 2004-03-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IYMnCQFKuR%2FbnLUG5CFClw%3D%3D) | 
-| 第18期中国囲碁天元戦挑戦手合三番勝負第1局 | Xie He | Gu Li | W+R | 2004-03-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y5OIKli2ksig9iFllKLVsg%3D%3D) | 
-| 第9期NEC杯囲碁戦決勝 | Gu Li | Chang Hao | B+R | 2004-02-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BfAJxFZARD47T7iC%2FRac%2FQ%3D%3D) | 
-| 第3回西南棋王戦決勝 | Zhou Heyang | Gu Li | B+1.5 | 2004-02-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kQf4AO34xTJ26aMPI96nwg%3D%3D) | 
-| 第4期リコー杯囲碁戦4回戦 | Chang Hao | Gu Li | B+R | 2004-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=86UE8y1nRTjcxOL9rSbUOw%3D%3D) | 
-| 第5回農心辛ラーメン杯世界囲碁最強戦第12戦 | Gu Li | Kato Masao | W+R | 2004-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=phnI20c01UyaJmnjri2QCA%3D%3D) | 
-| 第5回農心辛ラーメン杯世界囲碁最強戦第11戦 | Gu Li | Weon Seongjin | B+2.5 | 2004-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VCiBMw3B2xWK1qC%2BgfYcVw%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権2回戦 | Yuki Satoshi | Gu Li | W+R | 2003-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8wAhKdngS%2FyE6KJq9B7FJw%3D%3D) | 
-| 第5回春蘭杯世界囲碁選手権1回戦 | Gu Li | Michael Redmond | B+R | 2003-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FDCWuHIM83ZecIcDJk4X3Q%3D%3D) | 
-| 2003年国際新鋭囲碁対抗戦第3戦 | Gu Li | An Joyeong | W+R | 2003-12-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gR6xVFNjxVirqXv%2BH%2Bxhsg%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第22節 | missing | Gu Li | W+R | 2003-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P4eRSbfgmoJ7E3K5WSE%2B8Q%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第21節 | Gu Lingyi | Gu Li | W+R | 2003-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u19qQOtG1BOwjdIr7V5Bzg%3D%3D) | 
-| 第9期NEC杯囲碁戦準決勝 | Gu Li | Wang Lei (b) | B+R | 2003-12-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I2iZLs7YZKrsekpnHdo1dg%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第20節 | Gu Li | missing | B+R | 2003-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xpkxP8aXthFxQmCxwNyz4w%3D%3D) | 
-| 第5期阿含・桐山杯中国早碁オープン戦決勝 | Gu Li | Kong Jie | B+R | 2003-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cnjltGak8vq%2FpBlIzG7gvw%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第19節 | Chang Hao | Gu Li | B+R | 2003-11-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yM6z%2FWA3t7%2Bc8TermYxUdw%3D%3D) | 
-| 第5期阿含・桐山杯中国早碁オープン戦準決勝 | Gu Li | Wang Lei (b) | B+R | 2003-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X9V6hkpJdHpdmvP4Rf1Y%2FA%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第18節 | Gu Li | Jing Shi | B+R | 2003-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iSFk3glph%2BkTPn2YtCO0Hg%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第17節 | Gu Li | Wang Lei (s) | B+R | 2003-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZsomqfnMV0fuVTIUEazmjw%3D%3D) | 
-| 第9期NEC杯囲碁戦2回戦 | Hu Yaoyu | Gu Li | W+4.5 | 2003-11-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X2AEs4apcw%2Bae78lvafQhw%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第15節 | Gu Li | Luo Xihe | B+R | 2003-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XErifR2jOa2qCCYCVT6Vgw%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第14節 | Gu Li | Wang Yang | W+2.5 | 2003-10-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kZMniBOsv83jTrwwoHQjlg%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第13節 | Gu Li | missing | B+R | 2003-10-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AmX0ngBbur4cHlFkxTXVEA%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第12節 | Gu Li | Wang Yao | B+R | 2003-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YUQZHP4TsrDVqLpSZvS%2FTQ%3D%3D) | 
-| 第1期威孚房開杯棋王戦1回戦 | Chang Hao | Gu Li | B+R | 2003-10-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oqr6NyTu9H8aA46NP2EX%2BQ%3D%3D) | 
-| 第5期阿含・桐山杯中国早碁オープン戦1回戦 | Yu Bin | Gu Li | W+R | 2003-10-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MJokaozPWjFGSHqBeAQ9%2BQ%3D%3D) | 
-| 2003年全国囲棋個人戦男子組第9戦 | Hu Yaoyu | Gu Li | W+R | 2003-09-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=un7ZShm5YVxMdwZlFoXVkw%3D%3D) | 
-| 2003年全国囲棋個人戦男子組第8戦 | Gu Li | Liu Shizhen | W+R | 2003-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x3YVTcKNKbvSn%2BIm7umHGg%3D%3D) | 
-| 2003年全国囲棋個人戦男子組 | Shao Weigang | Gu Li | W+R | 2003-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qYx21bGFp4KQHCT8ilVMiA%3D%3D) | 
-| 2003年全国囲棋個人戦男子組 | Wang Xi | Gu Li | W+R | 2003-09-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1h80dYElHOjDxo4caXquAg%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第9節 | Nie Weiping | Gu Li | W+R | 2003-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v%2BRTQ%2BMbjLcJELgqxNQZVA%3D%3D) | 
-| 第16期中国囲碁名人戦3回戦 | Gu Li | Qiu Jun | W+R | 2003-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0GJk2sMhVRf6lbtl%2FSndow%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第8節 | Gu Li | Hu Yaoyu | B+R | 2003-08-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xFLTkuIxv28l57ioAirrpA%3D%3D) | 
-| 第7回中韓天元対抗戦第2局 | Song Taekon | Gu Li | W+R | 2003-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H3NQ6XP%2BBhk0c7rvaYJrBQ%3D%3D) | 
-| 第7回中韓天元対抗戦第1局 | Gu Li | Song Taekon | B+R | 2003-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KcvuOp4cOeSlguJTCSa4lg%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第7節 | Kim Seungjun | Gu Li | W+R | 2003-08-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k4B3H2ItSjvDOu3dm1TFZw%3D%3D) | 
-| 第8期三星杯予選2回戦 | Sakakibara Fumiko | Gu Li | W+R | 2003-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iMS4WUP6k7l%2BpcqVj8enOg%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第5節 | Gu Li | Wang Yimin | B+5.5 | 2003-07-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FOI0Zmfp9J3JOwiE5rgT8g%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第4節 | Gu Li | Liu Xing | B+R | 2003-07-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zzczwlx35XC2ZEV%2Bhdymcw%3D%3D) | 
-| 第5回中国囲碁甲級リーグ第3節 | Gu Li | Kong Jie | B+R | 2003-04-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gW1bMgm%2BHEbx5WQ6DXoVvA%3D%3D) | 
-| 第16回世界囲碁選手権富士通杯2回戦 | Gu Li | Yoo Changhyuk | W+R | 2003-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eO%2BNzoX2rMXjsQUwn9m4Rg%3D%3D) | 
-| 第16回世界囲碁選手権富士通杯1回戦 | Gu Li | Cho Chikun | B+R | 2003-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NVRSswhwYcrq%2FfD2S3HFoA%3D%3D) | 
-| 第2回西南棋王戦決勝 | Gu Li | Ding Wei | B+1.5 | 2003-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MFV1HEcV47Ej%2FzN1%2B793Cg%3D%3D) | 
-| 第17期中国囲碁天元戦挑戦手合三番勝負第3局 | Huang Yizhong | Gu Li | W+R | 2003-03-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EJj5Csjn53M%2FmQo1nTKxUA%3D%3D) | 
-| 第17期中国囲碁天元戦挑戦手合三番勝負第2局 | Gu Li | Huang Yizhong | W+R | 2003-03-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mRpUQuC0TEZRfqFwBkLnVw%3D%3D) | 
-| 第17期中国囲碁天元戦挑戦手合三番勝負第1局 | Huang Yizhong | Gu Li | W+R | 2003-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v3Eb3bcPRXSdyIYMU0amLg%3D%3D) | 
-| 第17期中国囲碁天元戦挑戦者決定戦 | Liu Xing | Gu Li | W+R | 2003-03-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TmKoeSGoHATVXJmkJb2zXA%3D%3D) | 
-| 第17期中国囲碁天元戦準決勝 | Gu Li | Hu Yaoyu | B+1.5 | 2003-03-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6ZiF8kAmPj5RQvBGtwctXw%3D%3D) | 
-| 第17期中国囲碁天元戦3回戦 | Gu Li | Ding Wei | B+R | 2003-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H1uXuLKONfeLRQkDXQqS2Q%3D%3D) | 
-| 第17期中国囲碁天元戦2回戦 | Peng Quan | Gu Li | W+R | 2003-02-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4xK7xh15Vtcg3%2BrdZHxtIA%3D%3D) | 
-| 第2回CSK杯囲碁アジア対抗戦中国選抜戦 | Gu Li | Liu Jing | W+R | 2003-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hdxMUfZrWJuo5HRIl047sw%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第22節 | Gu Li | Yoo Changhyuk | W+R | 2002-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dmjos7fZPICa0Q%2BAeVzBXQ%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第21節 | Gu Li | Dong Yan | B+R | 2002-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nVaekssYsMvyX0xDAUa5vw%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第19節 | Gu Li | Qiu Jun | B+R | 2002-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bn%2B5hR%2FONFpW7pDoj057EA%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第18節 | missing | Gu Li | W+6.5 | 2002-11-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bOvRL531QwvoOy8RM1uitw%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第17節 | Gu Li | missing | B+R | 2002-10-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4BYRkRPIqq7uvMAC%2Bo5FZQ%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第16節 | Gu Li | Kong Jie | W+R | 2002-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=89Zit5T%2BaUrxikfzdHFOpw%3D%3D) | 
-| 第4回農心辛ラーメン杯世界囲碁最強戦第1戦 | Park Yeonghun | Gu Li | B+R | 2002-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KhrtBwatYjP%2B1Adl2ZDyZA%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第14節 | Lee Changho | Gu Li | W+4.5 | 2002-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K0tUBRC08xJlMX32euFrnA%3D%3D) | 
-| 2002年国際新鋭囲碁対抗戦第3戦 | Park Yeonghun | Gu Li | W+R | 2002-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sF2t6KWMMl90kJJrklVF%2Bg%3D%3D) | 
-| 2002年国際新鋭囲碁対抗戦第2戦 | Lee Jaeung | Gu Li | W+R | 2002-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E%2FMFwf%2Fm3cD2eqDCT3e3aw%3D%3D) | 
-| 2002年全国囲棋個人戦男子組第10戦 | Gu Li | missing | W+R | 2002-09-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ze37H13c8Uw%2BZ6uLDzU2OA%3D%3D) | 
-| 2002年全国囲棋個人戦男子組第9戦 | Gu Li | Hu Yaoyu | B+R | 2002-09-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ctbKOMbpbnvK1Advj1FkWQ%3D%3D) | 
-| 2002年全国囲棋個人戦男子組第8戦 | Huang Yizhong | Gu Li | B+1.5 | 2002-09-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GoTlNXTKdNEqol%2By3oMwyg%3D%3D) | 
-| 2002年全国囲棋個人戦男子組第7戦 | Gu Li | missing | B+R | 2002-09-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pYlGD5JkojPHPU2YYK6T0g%3D%3D) | 
-| 2002年全国囲棋個人戦男子組第6戦 | Wang Lei (s) | Gu Li | W+R | 2002-09-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PjGNuryw1KOOPwWXa07z3Q%3D%3D) | 
-| 2002年全国囲棋個人戦男子組第5戦 | Zhang Wendong | Gu Li | W+4.5 | 2002-09-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bv6D%2FIfaDWW%2BQud4gH51Dw%3D%3D) | 
-| 2002年全国囲棋個人戦男子組第4戦 | Gu Li | Xie He | B+R | 2002-09-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AWJFC9V6M7ie57bLVSiQfA%3D%3D) | 
-| 2002年全国囲棋個人戦男子組第3戦 | missing | Gu Li | W+2.5 | 2002-09-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YpGvSFvREsx88yM%2BMivi%2FQ%3D%3D) | 
-| 2002年全国囲棋個人戦男子組第2戦 | Gu Li | missing | B+R | 2002-09-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ucEBnxUECKu7vsiWJNDomA%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第13節 | Gu Li | Yue Liang | B+R | 2002-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0NjHGzCQC7DZJvvs7qKioA%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第12節 | missing | Gu Li | W+R | 2002-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OEArpIweDrKiCgvAN4MjTQ%3D%3D) | 
-| 第4回農心杯中国選抜戦 | Dong Yan | Gu Li | W+0.5 | 2002-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=spp%2F4O8KTfqFqiFZCHWL9w%3D%3D) | 
-| 第4回農心杯中国選抜戦 | Huang Yizhong | Gu Li | W+4.5 | 2002-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4heBisvFPXlvo8O51T81AQ%3D%3D) | 
-| 第4回農心杯中国選抜戦 | Liu Xiaoguang | Gu Li | W+3.5 | 2002-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oAJf9iI2YGRJMnjLPpHvyQ%3D%3D) | 
-| 第4期阿含・桐山杯中国早碁オープン戦1回戦 | Liu Jing | Gu Li | B+R | 2002-08-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bdwNoCJ24K7BUKGCIh8tdw%3D%3D) | 
-| 第7期三星杯予選決勝 | Qiu Jun | Gu Li | B+R | 2002-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hCj%2F1yqUPvoOnvgQX5c9yQ%3D%3D) | 
-| 2002年中国段位戦 | Gu Li | missing | B+1.5 | 2002-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0hjX%2Bj2gF4u7RFKH1Q636w%3D%3D) | 
-| 2002年中国段位戦 | Hu Yaoyu | Gu Li | B+R | 2002-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pc4weoq7VZoHHm2TCP0pZQ%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第11節 | Wang Yao | Gu Li | W+0.5 | 2002-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g4NLCJ%2BmOV%2BBvWJVbsaF%2FQ%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第9節 | Gu Li | Luo Xihe | B+R | 2002-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iq7e855kpo%2BJFWcK5lj2OQ%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第8節 | Shao Weigang | Gu Li | B+3.5 | 2002-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o17TX1lcuPyQJAFUmiGuQA%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第6節 | Gu Li | missing | W+R | 2002-05-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iiwCZtMPuCV1mPWMwQJhdA%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第5節 | Gu Li | Kong Jie | B+R | 2002-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AkMWx8lYjLILkr1el8Nflg%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第4節 | Nie Weiping | Gu Li | W+16.5 | 2002-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BXx9OHx3kYC899z0XKWDTg%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第3節 | Gu Li | Peng Quan | B+R | 2002-04-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2x8ixd%2BGWA0%2B7NonYGiKiQ%3D%3D) | 
-| 第4回中国囲碁甲級リーグ第2節 | Wang Xi | Gu Li | B+5.5 | 2002-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TBRrcgUuuDXDu52S1rplBA%3D%3D) | 
-| 第15期中国囲碁名人戦2回戦 | Gu Li | Luo Xihe | W+R | 2002-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NhBERt9uKIEbKdsfgRp%2B0A%3D%3D) | 
-| 第16期中国囲碁天元戦3回戦 | Wang Lei (b) | Gu Li | B+3.5 | 2002-01-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tdm4YT4OM7fGgqIgldVg3Q%3D%3D) | 
-| 第16期中国囲碁天元戦2回戦 | Gu Li | Kong Jie | B+R | 2002-01-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I4YpuVLzWoGQVO8Oew7NsA%3D%3D) | 
-| 第16期中国囲碁天元戦1回戦 | Nie Weiping | Gu Li | W+4.5 | 2002-01-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WNoKTY%2Bj2owIkNAM6C8Ejw%3D%3D) | 
-| 第6期三星杯2回戦 | Gu Li | Park Cheongsang | W+3.5 | 2001-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p0VHr9jKm3MQIpNlpvtdXw%3D%3D) | 
-| 第6期三星杯1回戦 | Mok Jinseok | Gu Li | W+R | 2001-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nxMaB00a6sVd1yYYjEt%2BSg%3D%3D) | 
-| 第6期三星杯予選決勝 | Kong Jie | Gu Li | W+1.5 | 2001-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MUtPyuGzSsf54esIv8YKNg%3D%3D) | 
-| 2000年国際新鋭囲碁対抗戦第3戦 | Yuki Satoshi | Gu Li | W+R | 2000-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vb8cEqEY2QekA8qYtmQimQ%3D%3D) | 
-| 2000年国際新鋭囲碁対抗戦第2戦 | An Joyeong | Gu Li | B+4.5 | 2000-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4gegSYagDWXoNgzXX%2FffHQ%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Kono Rin | Gu Li | Win | W+¼ | 7.5 | 3321 | 48 | 
+| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Gu Li | Cheng Jiaye | Lose | W+R | 7.5 | 3273 | 4 | 
+| 2021-05-16 | 2021奉賢新城杯囲碁大師招待戦決勝 | Gu Li | Luo Xihe | Lose | W+¼ | 7.5 | 3269 | 0 | 
+| 2021-05-15 | 2021奉賢新城杯囲碁大師招待戦準決勝 | Ma Xiaochun | Gu Li | Win | W+R | 7.5 | 3269 | 0 | 
+| 2021-05-15 | 2021奉賢新城杯囲碁大師招待戦1回戦 | Cao Dayuan | Gu Li | Win | W+R | 6.5 | 3269 | -37 | 
+| 2021-04-25 | 第20回西南棋王戦2回戦 | Gu Li | Yang Dingxin | Lose | W+R | 7.5 | 3306 | 0 | 
+| 2021-04-25 | 第20回西南棋王戦1回戦 | Liu Qifeng | Gu Li | Win | W+R | 7.5 | 3306 | -149 | 
+| 2020-12-23 | 2020中日韓聶衛平杯囲碁マスターズ3回戦 | Yun Junsang | Gu Li | Win | W+R | 7.5 | 3455 | 65 | 
+| 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Gu Li | Huang Yunsong | Lose | W+¼ | 7.5 | 3390 | -42 | 
+| 2020-12-21 | 2020中日韓聶衛平杯囲碁マスターズ1回戦  | Kono Rin | Gu Li | Win | W+R | 7.5 | 3432 | 270 | 
+| 2020-06-14 | 第19回西南棋王戦1回戦 | Liu Yuhang | Gu Li | Lose | B+R | 7.5 | 3162 | -151 | 
+| 2020-01-07 | 第11期中国竜星戦Bブロック6回戦 | Zhao Chenyu | Gu Li | Lose | B+R | 7.5 | 3313 | -20 | 
+| 2020-01-06 | 第34期中国囲碁天元戦1回戦 | Fan Tingyu | Gu Li | Lose | B+R | 7.5 | 3333 | -6 | 
+| 2020-01-05 | 第34期中国囲碁天元戦予選 | Xie He | Gu Li | Win | W+R | 7.5 | 3339 | 297 | 
+| 2019-12-16 | 第11期中国竜星戦予選 | Gu Li | Xie He | Win | B+1¾ | 7.5 | 3042 | 0 | 
+| 2019-12-16 | 第11期中国竜星戦予選 |  | Gu Li | Win | W+R | 7.5 | 3042 | 49 | 
+| 2019-12-15 | 第11期中国竜星戦予選 | Gu Li |  | Win | B+R | 7.5 | 2993 | -91 | 
+| 2019-10-24 | 2019扁康杯中韓囲棋国手友誼戦第2戦 | Gu Li | Cho Hanseung | Win | B+R | 7.5 | 3084 | 13 | 
+| 2019-10-23 | 2019扁康杯中韓囲棋国手友誼戦第1戦 | Lee Changho | Gu Li | Win | W+R | 7.5 | 3071 | 17 | 
+| 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Gu Li |  | Lose | W+¼ | 7.5 | 3054 | 30 | 
+| 2019-09-10 | 第15期威孚房開杯棋王戦32強戦 | Gu Li | Ding Hao | Lose | W+R | 7.5 | 3024 | 0 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Gu Li | Dang Yifei | Lose | W+R | 7.5 | 3024 | -1 | 
+| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Tu Xiaoyu | Gu Li | Lose | B+R | 7.5 | 3025 | -78 | 
+| 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Lian Xiao | Gu Li | Lose | B+R | 7.5 | 3103 | 16 | 
+| 2019-07-18 | 2019年紹興国際囲棋精英戦国内組決勝 | Ma Xiaochun | Gu Li | Lose | B+¾ | 7.5 | 3087 | -28 | 
+| 2019-07-17 | 2019年紹興国際囲棋精英戦国内組1回戦 | Gu Li | Luo Xihe | Win | B+R | 7.5 | 3115 | 10 | 
+| 2019-07-04 | 第24回三星火災杯統合予選準決勝 | Kim Myounghoon | Gu Li | Win | W+R | 6.5 | 3105 | 15 | 
+| 2019-06-26 | 「天下第一蓋」龍虎超級戦 | Gu Li | Chang Hao | Lose | W+R | 7.5 | 3090 | 0 | 
+| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Yao Xiaotong | Gu Li | Win | W+R | 7.5 | 3090 | 57 | 
+| 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Gu Li | Park Hamin | Win | B+R | 7.5 | 3033 | -19 | 
+| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Lee Donghoon | Gu Li | Lose | B+R | 7.5 | 3052 | -37 | 
+| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節上海-重慶 | Gu Li | Hu Yaoyu | Lose | W+¼ | 7.5 | 3089 | -32 | 
+| 2019-04-04 | 第24回LG杯統合予選3回戦 | Han Sanghoon | Gu Li | Win | W+R | 6.5 | 3121 | 39 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Xu Jiayang | Gu Li | Lose | B+R | 7.5 | 3082 | 0 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Zhou Ruiyang | Gu Li | Win | W+R | 7.5 | 3082 | 6 | 
+| 2019-03-23 | 第18回西南棋王戦1回戦 | He Yuhan | Gu Li | Lose | B+R | 7.5 | 3076 | 24 | 
+| 2019-03-07 | 第10期中国竜星戦予選 | Gu Li | Liu Xing | Lose | W+¼ | 7.5 | 3052 | 0 | 
+| 2019-03-07 | 第10期中国竜星戦予選 | Gu Li |  | Win | B+R | 7.5 | 3052 | -1 | 
+| 2019-03-06 | 第10期中国竜星戦予選 |  | Gu Li | Win | W+R | 7.5 | 3053 | 13 | 
+| 2019-02-28 | 第16期倡棋杯中国プロ囲棋選手権戦予選準決勝 | Xia Chenkun | Gu Li | Lose | B+¾ | 7.5 | 3040 | -12 | 
+| 2019-02-27 | 第16期倡棋杯中国プロ囲棋選手権戦予選2回戦 |  | Gu Li | Win | W+R | 7.5 | 3052 | -46 | 
+| 2019-01-03 | 第33期中国囲碁天元戦予選 | Meng Tailing | Gu Li | Lose | B+R | 7.5 | 3098 | -20 | 
+| 2018-12-28 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Gu Li | Fan Yunruo | Lose | W+R | 7.5 | 3118 | -6 | 
+| 2018-12-27 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Gu Li | Fan Yin | Win | B+R | 7.5 | 3124 | 8 | 
+| 2018-12-25 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Pan Tingyu | Gu Li | Win | W+1¼ | 7.5 | 3116 | -5 | 
+| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節重慶-廈門 | Gu Li | Fan Yin | Win | B+5¾ | 7.5 | 3121 | 15 | 
+| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節上海-重慶 | Lee Yeongkyu | Gu Li | Lose | B+R | 7.5 | 3106 | -48 | 
+| 2018-11-16 | 第20回中国囲碁甲級リーグ第24節重慶-山東 | Gu Li | Chen Zijian | Win | B+R | 7.5 | 3154 | 29 | 
+| 2018-11-09 | 第20回中国囲碁甲級リーグ第23節衢州-重慶 | Gu Li | Lee Sedol | Win | B+R | 7.5 | 3125 | 9 | 
+| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節重慶-民生 | Gu Li | Shi Yulai | Lose | W+3¼ | 7.5 | 3116 | -36 | 
+| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節蘇泊爾-重慶 | Li Qincheng | Gu Li | Win | W+R | 7.5 | 3152 | 29 | 
+| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節重慶-江蘇 | Gu Li | Huang Yunsong | Win | B+R | 7.5 | 3123 | 27 | 
+| 2018-10-13 | 第14期威孚房開杯棋王戦32強戦 | Gu Li | Li Qincheng | Lose | W+R | 7.5 | 3096 | -7 | 
+| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節浙江-重慶 | Qin Yuexin | Gu Li | Lose | B+¾ | 7.5 | 3103 | -18 | 
+| 2018-10-08 | 第20回中国囲碁甲級リーグ第18節重慶-江西 | Gu Li | Yang Kaiwen | Win | B+R | 7.5 | 3121 | -3 | 
+| 2018-09-28 | 第20回中国囲碁甲級リーグ第17節成都-重慶 | Ma Yichao | Gu Li | Win | W+R | 7.5 | 3124 | -11 | 
+| 2018-09-23 | 第1回天府杯世界囲碁選手権A組2回戦 | Gu Li | Lian Xiao | Lose | W+R | 7.5 | 3135 | -18 | 
+| 2018-09-21 | 第1回天府杯世界囲碁選手権A組1回戦 | Kang Dongyun | Gu Li | Win | W+R | 7.5 | 3153 | 17 | 
+| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節杭州-重慶 | Gu Li | Xia Chenkun | Lose | W+R | 7.5 | 3136 | -16 | 
+| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節重慶-中信 | Gu Li | Han Yizhou | Lose | W+R | 7.5 | 3152 | -3 | 
+| 2018-09-08 | 第20回中国囲碁甲級リーグ第14節天津-重慶 | Meng Tailing | Gu Li | Lose | B+R | 7.5 | 3155 | -16 | 
+| 2018-08-15 | 第20回中国囲碁甲級リーグ第13節廈門-重慶 | Zhou Ruiyang | Gu Li | Lose | B+R | 7.5 | 3171 | -14 | 
+| 2018-08-13 | 第20回中国囲碁甲級リーグ第12節重慶-上海 | Gu Li | Li Weiqing | Lose | W+R | 7.5 | 3185 | 18 | 
+| 2018-08-06 | 第20回中国囲碁甲級リーグ第11節山東-重慶 | Gu Li | Chen Zijian | Win | B+R | 7.5 | 3167 | -44 | 
+| 2018-07-16 | 第20回中国囲碁甲級リーグ第10節重慶-衢州 | Lee Sedol | Gu Li | Lose | B+2¾ | 7.5 | 3211 | 10 | 
+| 2018-06-28 | 第20期阿含・桐山杯中国早碁オープン戦本選1回戦 | Gu Li | Wang Zejin | Lose | W+R | 7.5 | 3201 | -15 | 
+| 2018-06-25 | 第20回中国囲碁甲級リーグ第9節民生-重慶 | Gu Li | Tao Xinran | Win | B+R | 7.5 | 3216 | -21 | 
+| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節重慶-蘇泊爾 | Gu Li | Lian Xiao | Lose | W+R | 7.5 | 3237 | -51 | 
+| 2018-05-21 | 第20回中国囲碁甲級リーグ第7節江蘇-重慶 | Huang Yunsong | Gu Li | Lose | B+1¾ | 7.5 | 3288 | 10 | 
+| 2018-05-14 | 第20回中国囲碁甲級リーグ第6節重慶-浙江 | Gu Li | Li Zhe | Lose | W+R | 7.5 | 3278 | -12 | 
+| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節江西-重慶 | Gu Li | Tu Xiaoyu | Win | B+R | 7.5 | 3290 | 9 | 
+| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節重慶-成都 | Liao Yuanhe | Gu Li | Lose | B+R | 7.5 | 3281 | -4 | 
+| 2018-04-10 | 2018CCTV杯中国囲棋電視快棋戦3回戦 | Gu Li | Lian Xiao | Lose | W+R | 7.5 | 3285 | -6 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦2回戦 | Gu Li | Tao Xinran | Win | B+1¾ | 7.5 | 3291 | 0 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Gu Li | Liao Yuanhe | Win | B+R | 7.5 | 3291 | 62 | 
+| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節重慶-杭州 | Xia Chenkun | Gu Li | Lose | B+R | 7.5 | 3229 | -21 | 
+| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節中信-重慶 | Gu Li | Han Yizhou | Win | B+R | 7.5 | 3250 | -25 | 
+| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節重慶-天津 | Gu Li | Meng Tailing | Lose | W+R | 7.5 | 3275 | -26 | 
+| 2018-03-09 | 第17回西南棋王戦1回戦 | Mao Ruilong | Gu Li | Lose | B+R | 7.5 | 3301 | -31 | 
+| 2018-03-06 | 第9期中国竜星戦予選 | Liu Xing | Gu Li | Lose | B+R | 7.5 | 3332 | -13 | 
+| 2018-03-05 | 第9期中国竜星戦予選 | Gu Li |  | Win | B+R | 7.5 | 3345 | 36 | 
+| 2018-01-23 | 第32期中国囲碁天元戦1回戦 | Gu Li | Zhao Chenyu | Lose | W+R | 7.5 | 3309 | -14 | 
+| 2018-01-08 | 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Tao Xinran | Gu Li | Lose | B+R | 7.5 | 3323 | 41 | 
+| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Gu Li | Gu Lingyi | Win | B+6¾ | 7.5 | 3282 | 22 | 
+| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Gu Li | Yang Kaiwen | Lose | W+¼ | 7.5 | 3260 | -1 | 
+| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Meng Tailing | Gu Li | Lose | B+R | 7.5 | 3261 | -28 | 
+| 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Gu Li | Tong Mengcheng | Lose | W+R | 7.5 | 3289 | -21 | 
+| 2017-10-30 | 第19回中国囲碁甲級リーグ第22節 | Gu Li | Liu Xing | Win | B+R | 7.5 | 3310 | 13 | 
+| 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Gu Li | Zhou Ruiyang | Lose | W+R | 7.5 | 3297 | -4 | 
+| 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Jiang Qirun | Gu Li | Lose | B+R | 7.5 | 3301 | 64 | 
+| 2017-10-10 | 第13期威孚房開杯棋王戦32強戦 | Gu Li | Lian Xiao | Lose | W+R | 7.5 | 3237 | -30 | 
+| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Gu Li | Peng Liyao | Lose | W+R | 7.5 | 3267 | -21 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Gu Li | Shin Minjun | Win | B+R | 7.5 | 3288 | 49 | 
+| 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Gu Li | Li Xiangyu | Win | B+R | 7.5 | 3239 | 28 | 
+| 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 |  | Gu Li | Lose | B+R | 7.5 | 3211 | -19 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Gu Li | Hu Yaoyu | Win | B+R | 7.5 | 3230 | 20 | 
+| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Gu Li | Liao Yuanhe | Lose | W+R | 7.5 | 3210 | -11 | 
+| 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Sun Tengyu | Gu Li | Win | W+R | 7.5 | 3221 | 20 | 
+| 2017-08-05 | 嫘祖杯30回中国名人戦16強戦 | Gu Li | Li Qincheng | Lose | W+2.5 | 7.5 | 3201 | -9 | 
+| 2017-08-03 | 嫘祖杯30回中国名人戦32強戦 | Gu Li | Li Biqi | Win | B+R | 7.5 | 3210 | 14 | 
+| 2017-07-21 | 金立杯7回海峡世界冠軍争覇8強戦 | Gu Li | Chen Yaoye | Lose | W+R | 7.5 | 3196 | -5 | 
+| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Gu Li | Xie Erhao | Win | B+R | 7.5 | 3201 | 18 | 
+| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Huang Yunsong | Gu Li | Win | W+R | 7.5 | 3183 | 14 | 
+| 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Gu Li |  | Win | B+R | 7.5 | 3169 | -54 | 
+| 2017-06-12 | 第1回巔峰夢想拉薩交通産業集団ラリー戦a6 | Gu Li | Chen Yaoye | Win | B+R | 7.5 | 3223 | 22 | 
+| 2017-06-10 | 第1回巔峰夢想拉薩交通産業集団ラリー戦a5 | Ke Jie | Gu Li | Lose | B+R | 7.5 | 3201 | 4 | 
+| 2017-06-08 | 第1回巔峰夢想拉薩交通産業集団ラリー戦a3 | Chen Yaoye | Gu Li | Lose | B+R | 7.5 | 3197 | -32 | 
+| 2017-06-07 | 第1回巔峰夢想拉薩交通産業集団ラリー戦2回戦 | Gu Li | Ke Jie | Lose | W+R | 7.5 | 3229 | -17 | 
+| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Chen Haoxin | Gu Li | Win | W+R | 7.5 | 3246 | -24 | 
+| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Gu Li | Peng Liyao | Lose | W+R | 7.5 | 3270 | -2 | 
+| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Gu Li | Chen Yaoye | Lose | W+R | 7.5 | 3272 | 21 | 
+| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Gu Li | Xia Chenkun | Win | B+R | 7.5 | 3251 | 6 | 
+| 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 |  | Gu Li | Win | W+R | 7.5 | 3245 | -21 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Gu Li | Hu Yaoyu | Win | B+R | 7.5 | 3266 | 5 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Gu Li | Wu Guangya | Lose | W+0.5 | 7.5 | 3261 | -15 | 
+| 2017-03-30 | 世界第三期Mlily夢百合杯予選決勝 | An Joyeong | Gu Li | Lose | B+R | 7.5 | 3276 | -9 | 
+| 2017-03-28 | 世界第三期Mlily夢百合杯予選2回戦 | Gu Li | Yi Lingtao | Win | B+R | 7.5 | 3285 | 180 | 
+| 2017-03-19 | 昌江棋子湾中国冠軍戦決勝 | Gu Li | Chang Hao | Win | B+R | 7.5 | 3105 | 14 | 
+| 2017-03-18 | 昌江棋子湾中国冠軍戦1回戦 | Nie Weiping | Gu Li | Win | W+R | 7.5 | 3091 | -20 | 
+| 2017-03-14 | 第8期中国竜星戦Aブロック7回戦 | Li Qincheng | Gu Li | Lose | B+R | 7.5 | 3111 | -13 | 
+| 2017-03-11 | 第16回西南棋王戦1回戦 | Gu Li | Li Xiangyu | Lose | W+R | 7.5 | 3124 | 66 | 
+| 2017-01-20 | 天元戦 | Zhou Ruiyang | Gu Li | Lose | B+5.5 | 7.5 | 3058 | -36 | 
+| 2017-01-18 | 第31期中国囲碁天元戦3回戦 | Gu Li | Chen Xian | Win | B+1.5 | 7.5 | 3094 | 10 | 
+| 2017-01-16 | 第31期中国囲碁天元戦2回戦 | Gu Li | Hu Yaoyu | Win | B+R | 7.5 | 3084 | 7 | 
+| 2017-01-14 | 第31期中国囲碁天元戦1回戦 | Chen Zijian | Gu Li | Win | W+R | 7.5 | 3077 | -4 | 
+| 2017-01-04 | Alphago Online Series on Tygem and Fox 60 | Gu Li |  | Lose | W+2.5 | 6.5 | 3081 | 1 | 
+| 2017-01-02 | Alphago Online Series on Tygem and Fox 33 |  | Gu Li | Lose | B+R | 6.5 | 3080 | 0 | 
+| 2017-01-02 | Alphago Online Series on Tygem and Fox 32 | Gu Li |  | Lose | W+R | 6.5 | 3080 | -5 | 
+| 2016-12-29 | 2016深圳竜華世界冠軍大師戦 | Luo Xihe | Gu Li | Win | W+R | 7.5 | 3085 | 5 | 
+| 2016-12-24 | 嫘祖杯第29期中国名人戦32強戦 | Gu Li | Meng Tailing | Lose | W+R | 7.5 | 3080 | -4 | 
+| 2016-12-03 | 第18回中国囲碁甲級リーグ第22節 | Gu Li | Shin Jinseo | Lose | W+R | 7.5 | 3084 | -6 | 
+| 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Peng Liyao | Gu Li | Lose | B+1.5 | 7.5 | 3090 | -28 | 
+| 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Gu Li | Ding Shixiong | Win | B+R | 7.5 | 3118 | 5 | 
+| 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 | Sun Tengyu | Gu Li | Win | W+R | 7.5 | 3113 | 16 | 
+| 2016-11-14 | 第21期LG杯朝鮮日報棋王戦8強戦 | Gu Li | Park Junghwan | Lose | W+R | 6.5 | 3097 | -78 | 
+| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Gu Li |  | Lose | W+R | 7.5 | 3175 | 4 | 
+| 2016-11-04 | 2016金立杯全国囲棋甲級聯戦第17回戦 | Gu Li |  | Win | B+R | 7.5 | 3171 | 27 | 
+| 2016-10-28 | 第18回中国囲碁甲級リーグ第16節 | Ma Yichao | Gu Li | Win | W+R | 7.5 | 3144 | 5 | 
+| 2016-10-12 | 第6回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Tuo Jiaxi | Gu Li | Lose | B+R | 7.5 | 3139 | -25 | 
+| 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Gu Li | Xie Ke | Lose | W+R | 7.5 | 3164 | -7 | 
+| 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Gu Li | Meng Tailing | Win | B+R | 7.5 | 3171 | -58 | 
+| 2016-09-07 | 第21回三星火災杯世界囲碁マスターズ1回戦A2 | Gu Li | Tong Mengcheng | Lose | W+R | 6.5 | 3229 | -4 | 
+| 2016-09-06 | 第21回三星火災杯世界囲碁マスターズ1回戦A1 | Shi Yue | Gu Li | Lose | B+R | 6.5 | 3233 | 0 | 
+| 2016-08-23 | 第12期威孚房開杯棋王戦2回戦 | Xie Erhao | Gu Li | Lose | B+R | 7.5 | 3233 | -7 | 
+| 2016-08-22 | 第12期威孚房開杯棋王戦1回戦 | Gu Li | Li Qincheng | Win | B+R | 7.5 | 3240 | 11 | 
+| 2016-07-29 | 第18期阿含・桐山杯中国早碁オープン戦準決勝 | Gu Li | Chen Yaoye | Lose | W+6.5 | 7.5 | 3229 | 48 | 
+| 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Gu Li | Niu Yutian | Win | B+R | 7.5 | 3181 | -3 | 
+| 2016-07-02 | 第3回百霊杯世界オープン戦3回戦 | Gu Li | Park Junghwan | Lose | W+R | 7.5 | 3184 | -5 | 
+| 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Gu Li | Qin Yuexin | Win | B+1.5 | 7.5 | 3189 | 3 | 
+| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Yu Zhiying | Gu Li | Win | W+R | 7.5 | 3186 | 15 | 
+| 2016-06-25 | 第18回中国囲碁甲級リーグ第10節 | Xu Jiayang | Gu Li | Win | W+R | 7.5 | 3171 | -3 | 
+| 2016-06-16 | 第18回中国囲碁甲級リーグ第8節 | Gu Li |  | Win | B+R | 7.5 | 3174 | 17 | 
+| 2016-06-13 | 第18期阿含・桐山杯中国早碁オープン戦2回戦 | Mi Yuting | Gu Li | Win | W+R | 7.5 | 3157 | 10 | 
+| 2016-06-08 | 第18期阿含・桐山杯中国早碁オープン戦1回戦 | Gu Zihao | Gu Li | Win | W+R | 7.5 | 3147 | 5 | 
+| 2016-06-06 | 第18回中国囲碁甲級リーグ第7節 | Gu Li | Tuo Jiaxi | Lose | W+R | 7.5 | 3142 | 2 | 
+| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Gu Li |  | Lose | W+R | 7.5 | 3140 | -6 | 
+| 2016-06-01 | 第21回LG杯朝鮮日報棋王戦2回戦 | Lee Yeongkyu | Gu Li | Win | W+R | 6.5 | 3146 | 11 | 
+| 2016-05-30 | 第21回LG杯朝鮮日報棋王戦1回戦 | Lee Sedol | Gu Li | Win | W+R | 6.5 | 3135 | 24 | 
+| 2016-05-22 | 第18回中国囲碁甲級リーグ第6節 | Park Junghwan | Gu Li | Lose | B+R | 7.5 | 3111 | -2 | 
+| 2016-05-20 | 第6回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Jiang Weijie | Gu Li | Win | W+R | 7.5 | 3113 | 55 | 
+| 2016-05-18 | 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Fan Tingyu | Gu Li | Win | W+R | 7.5 | 3058 | -1 | 
+| 2016-05-16 | 第18回中国囲碁甲級リーグ第5節 | Gu Lingyi | Gu Li | Lose | B+R | 7.5 | 3059 | -73 | 
+| 2016-05-09 | 第18回中国囲碁甲級リーグ第4節 | Gu Li | Xie Ke | Lose | W+2.5 | 7.5 | 3132 | -10 | 
+| 2016-04-30 | 第18回中国囲碁甲級リーグ第3節 | Gu Li | Meng Tailing | Win | B+R | 7.5 | 3142 | 65 | 
+| 2016-04-20 | 第8回応氏杯世界選手権1回戦 | Park Yeonghun | Gu Li | Lose | B+R | 7.5 | 3077 | -14 | 
+| 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Gu Li | Tong Mengcheng | Win | B+1.5 | 7.5 | 3091 | 10 | 
+| 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Gu Li | Zhou Hexi | Win | B+R | 7.5 | 3081 | -8 | 
+| 2016-03-28 | 第11回春蘭杯世界囲碁選手権2回戦 | Tuo Jiaxi | Gu Li | Lose | B+R | 7.5 | 3089 | 23 | 
+| 2016-03-19 | 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Fan Yunruo | Gu Li | Lose | B+R | 7.5 | 3066 | 3 | 
+| 2016-03-07 | 第15回西南棋王戦2回戦 | Yang Dingxin | Gu Li | Lose | B+R | 7.5 | 3063 | 0 | 
+| 2016-03-07 | 第15回西南棋王戦1回戦 | Dang Yifei | Gu Li | Win | W+R | 7.5 | 3063 | -26 | 
+| 2016-03-01 | 第17回農心辛ラーメン杯世界囲碁最強戦第10戦 | Murakawa Daisuke | Gu Li | Lose | B+R | 6.5 | 3089 | -86 | 
+| 2016-01-23 | 第30期中国囲碁天元戦挑戦者決定戦 | Gu Li | Tang Weixing | Lose | W+R | 7.5 | 3175 | -7 | 
+| 2016-01-21 | 第30期中国囲碁天元戦準決勝 | Xie Erhao | Gu Li | Win | W+R | 7.5 | 3182 | 4 | 
+| 2016-01-19 | 第30期中国囲碁天元戦3回戦 | Gu Li | Zhou Hexi | Win | B+R | 7.5 | 3178 | 8 | 
+| 2016-01-18 | 第7期中国竜星戦3回戦 | Gu Li | Huang Yunsong | Lose | W+R | 7.5 | 3170 | -13 | 
+| 2016-01-17 | 第30期中国囲碁天元戦2回戦 | Wang Haoyang | Gu Li | Win | W+R | 7.5 | 3183 | 0 | 
+| 2016-01-15 | 第30期中国囲碁天元戦1回戦 | Xie Ke | Gu Li | Win | W+R | 7.5 | 3183 | -19 | 
+| 2015-12-04 | 第17回中国囲碁甲級リーグ第21節 | Qin Yuexin | Gu Li | Win | W+2.5 | 7.5 | 3202 | 17 | 
+| 2015-12-01 | 第17回農心辛ラーメン杯世界囲碁最強戦第9戦 | Park Junghwan | Gu Li | Win | W+2.5 | 6.5 | 3185 | 11 | 
+| 2015-11-30 | 第17回農心辛ラーメン杯世界囲碁最強戦第8戦 | Kono Rin | Gu Li | Win | W+R | 6.5 | 3174 | 3 | 
+| 2015-11-29 | 第17回農心辛ラーメン杯世界囲碁最強戦第7戦 | Choi Cheolhan | Gu Li | Win | W+R | 6.5 | 3171 | 1 | 
+| 2015-11-13 | 第17回中国囲碁甲級リーグ第20節 | Tao Xinran | Gu Li | Win | W+R | 7.5 | 3170 | 27 | 
+| 2015-11-08 | 第17回中国囲碁甲級リーグ第19節 | Gu Li | Xie Ke | Lose | W+2.5 | 7.5 | 3143 | -17 | 
+| 2015-10-30 | 第11期威孚房開杯棋王戦3回戦 | Li Xuanhao | Gu Li | Lose | B+R | 7.5 | 3160 | -8 | 
+| 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 | Gu Li | Lee Sedol | Win | B+R | 7.5 | 3168 | 5 | 
+| 2015-10-24 | 第7期中国竜星戦2回戦 | Gu Li | Liu Xing | Win | B+R | 7.5 | 3163 | 18 | 
+| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Ke Jie | Gu Li | Lose | B+R | 7.5 | 3145 | -3 | 
+| 2015-10-15 | 第17回中国囲碁甲級リーグ第15節 | Gu Li | Li Qincheng | Lose | W+R | 7.5 | 3148 | -7 | 
+| 2015-10-13 | 第11期威孚房開杯棋王戦2回戦 | Tan Xiao | Gu Li | Win | W+0.5 | 7.5 | 3155 | 9 | 
+| 2015-10-12 | 第11期威孚房開杯棋王戦1回戦 | Huang Yunsong | Gu Li | Win | W+R | 7.5 | 3146 | 5 | 
+| 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Qiu Jun | Gu Li | Lose | B+R | 7.5 | 3141 | 7 | 
+| 2015-09-27 | 第7期中国竜星戦1回戦 | Tao Xinran | Gu Li | Win | W+R | 7.5 | 3134 | 13 | 
+| 2015-09-24 | 第17回中国囲碁甲級リーグ第14節 | Fan Tingyu | Gu Li | Win | W+R | 7.5 | 3121 | 21 | 
+| 2015-09-22 | 第3回全国智力運動会囲碁男子団体戦 | Qiu Jun | Gu Li | Lose | B+R | 7.5 | 3100 | -9 | 
+| 2015-09-21 | 第3回全国智力運動会囲碁男子団体戦 | Liao Xingwen | Gu Li | Lose | B+1.5 | 7.5 | 3109 | 0 | 
+| 2015-09-21 | 第3回全国智力運動会囲碁男子団体戦 | Gu Li | Shi Yue | Lose | W+R | 7.5 | 3109 | -22 | 
+| 2015-09-18 | 第3回全国智力運動会囲碁男子団体戦 | Chen Xian | Gu Li | Lose | B+R | 7.5 | 3131 | -44 | 
+| 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦C2 | Gu Li | Shi Yue | Lose | W+R | 6.5 | 3175 | 5 | 
+| 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦C1 | Gu Li | Heo Yongho | Lose | W+R | 6.5 | 3170 | -14 | 
+| 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Gu Li | Zhong Wenjing | Win | B+R | 7.5 | 3184 | -3 | 
+| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Yang Kaiwen | Gu Li | Lose | B+R | 7.5 | 3187 | -45 | 
+| 2015-07-11 | 第17回中国囲碁甲級リーグ第11節 | Gu Li | Huang Yunsong | Lose | W+R | 7.5 | 3232 | -14 | 
+| 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Gu Li | Shi Yue | Lose | W+R | 7.5 | 3246 | -10 | 
+| 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 | Zhang Tao | Gu Li | Win | W+R | 7.5 | 3256 | -2 | 
+| 2015-07-02 | 第17期阿含・桐山杯中国早碁オープン戦1回戦 | Tuo Jiaxi | Gu Li | Lose | B+R | 7.5 | 3258 | -12 | 
+| 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Shi Yue | Gu Li | Lose | B+R | 7.5 | 3270 | -37 | 
+| 2015-06-25 | 第17回中国囲碁甲級リーグ第8節 | Gu Li | Liu Xing | Win | B+R | 7.5 | 3307 | -100 | 
+| 2015-06-13 | 第17回中国囲碁甲級リーグ第7節 | Lee Sedol | Gu Li | Win | W+R | 7.5 | 3407 | 43 | 
+| 2015-06-10 | 第20回LG杯朝鮮日報棋王戦2回戦 | Gu Li | Kim Jiseok | Lose | W+R | 6.5 | 3364 | -17 | 
+| 2015-06-08 | 第20回LG杯朝鮮日報棋王戦1回戦 | Na Hyun | Gu Li | Win | W+R | 6.5 | 3381 | -28 | 
+| 2015-06-03 | 第10回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Gu Li | Zhou Ruiyang | Win | B+1.5 | 7.5 | 3409 | 18 | 
+| 2015-06-01 | 第10回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Zhou Ruiyang | Gu Li | Win | W+R | 7.5 | 3391 | 7 | 
+| 2015-05-28 | 第17回中国囲碁甲級リーグ第6節 | Gu Li | Ke Jie | Lose | W+R | 7.5 | 3384 | -6 | 
+| 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Gu Li | Fan Yunruo | Win | B+R | 7.5 | 3390 | -16 | 
+| 2015-05-16 | 第17回中国囲碁甲級リーグ第4節 | Gu Li | Li Qincheng | Win | B+R | 7.5 | 3406 | -2 | 
+| 2015-05-14 | 第17回中国囲碁甲級リーグ第3節 | Gu Li | Ding Shixiong | Win | B+R | 7.5 | 3408 | 18 | 
+| 2015-05-06 | 第28期中国囲碁名人戦1回戦 | Guo Yuzheng | Gu Li | Lose | B+R | 7.5 | 3390 | -4 | 
+| 2015-04-29 | 第17回中国囲碁甲級リーグ第2節 | Chen Yaoye | Gu Li | Lose | B+R | 7.5 | 3394 | 35 | 
+| 2015-04-22 | 第17回中国囲碁甲級リーグ第1節 | Gu Li | Lee Donghoon | Lose | W+R | 7.5 | 3359 | 0 | 
+| 2015-04-03 | 第12期倡棋杯中国プロ囲碁選手権戦1回戦 | Tong Mengcheng | Gu Li | Lose | B+R | 7.5 | 3359 | -262 | 
+| 2015-03-09 | 第14回西南棋王戦2回戦 | Gu Li | Ke Jie | Lose | W+R | 7.5 | 3621 | 0 | 
+| 2015-03-09 | 第14回西南棋王戦1回戦 | Chen Yunong | Gu Li | Win | W+R | 7.5 | 3621 | 100 | 
+| 2014-12-27 | 第10回春蘭杯世界囲碁選手権準決勝 | Kim Jiseok | Gu Li | Win | W+R | 7.5 | 3521 | 8 | 
+| 2014-12-25 | 第10回春蘭杯世界囲碁選手権3回戦 | Cho U | Gu Li | Win | W+0.5 | 7.5 | 3513 | 31 | 
+| 2014-12-06 | 第1回日中竜星戦 | Gu Li | Kono Rin | Win | B+R | 6.5 | 3482 | 19 | 
+| 2014-11-25 | 第16回中国囲碁甲級リーグ第22節 | Gu Li | Mao Ruilong | Win | B+R | 7.5 | 3463 | 13 | 
+| 2014-11-22 | 第16回中国囲碁甲級リーグ第21節 | Gu Li | Mi Yuting | Win | B+R | 7.5 | 3450 | 3 | 
+| 2014-11-13 | 第10期威孚房開杯棋王戦3回戦 | Shi Yue | Gu Li | Lose | B+R | 7.5 | 3447 | 6 | 
+| 2014-11-11 | 第16回中国囲碁甲級リーグ第20節 | Wu Guangya | Gu Li | Lose | B+R | 7.5 | 3441 | -17 | 
+| 2014-11-09 | 第16回中国囲碁甲級リーグ第19節 | Gu Li | Hu Yuhan | Lose | W+R | 7.5 | 3458 | 116 | 
+| 2014-10-31 | 第16回中国囲碁甲級リーグ第18節 | Ding Shixiong | Gu Li | Win | W+0.5 | 7.5 | 3342 | -15 | 
+| 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 | Gu Li | Xie Erhao | Win | B+R | 7.5 | 3357 | 6 | 
+| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Fan Yunruo | Gu Li | Lose | B+R | 7.5 | 3351 | -53 | 
+| 2014-10-12 | 第10期威孚房開杯棋王戦2回戦 | Liao Xingwen | Gu Li | Win | W+R | 7.5 | 3404 | 6 | 
+| 2014-10-11 | 第10期威孚房開杯棋王戦1回戦 | Tang Yi | Gu Li | Win | W+R | 7.5 | 3398 | -48 | 
+| 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Gu Li | Li Zhe | Win | B+R | 7.5 | 3446 | 12 | 
+| 2014-09-09 | 第5回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Gu Li | Shi Yue | Lose | W+R | 7.5 | 3434 | -6 | 
+| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Guo Yuzheng | Gu Li | Win | W+R | 7.5 | 3440 | -6 | 
+| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Gu Li | Tuo Jiaxi | Win | B+R | 7.5 | 3446 | 15 | 
+| 2014-08-15 | 第6期中国竜星戦1回戦 | Gu Li | Sun Tengyu | Lose | W+R | 7.5 | 3431 | -33 | 
+| 2014-08-04 | 第19回三星火災杯統合予選3回戦 | Gu Li | Xiao Zhenghao | Lose | W+R | 6.5 | 3464 | -47 | 
+| 2014-07-30 | 第16期阿含・桐山杯中国早碁オープン戦2回戦 | Ke Jie | Gu Li | Lose | B+1.5 | 7.5 | 3511 | 17 | 
+| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Ma Yichao | Gu Li | Win | W+R | 7.5 | 3494 | -19 | 
+| 2014-07-07 | 第16期阿含・桐山杯中国早碁オープン戦1回戦 | Gu Li | Niu Yutian | Win | B+R | 7.5 | 3513 | 2 | 
+| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Gu Li | Ke Jie | Lose | W+R | 7.5 | 3511 | 32 | 
+| 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Shi Yue | Gu Li | Win | W+0.5 | 7.5 | 3479 | 31 | 
+| 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Gu Li | Zhang Tao | Win | B+R | 7.5 | 3448 | -2 | 
+| 2014-06-20 | 第5回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Jiang Weijie | Gu Li | Win | W+R | 7.5 | 3450 | 1 | 
+| 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Gu Li | Wang Haoyang | Win | B+1.5 | 7.5 | 3449 | 3 | 
+| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Gu Li | Zhou Ruiyang | Lose | W+R | 7.5 | 3446 | 42 | 
+| 2014-06-05 | 第16回中国囲碁甲級リーグ第6節 | Gu Li | Xie Erhao | Win | B+R | 7.5 | 3404 | 0 | 
+| 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Na Hyun | Gu Li | Lose | B+R | 7.5 | 3404 | 83 | 
+| 2014-05-18 | 第16回中国囲碁甲級リーグ第3節 | Gu Li | Liao Xingwen | Win | B+R | 7.5 | 3321 | -2 | 
+| 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Wang Haoyang | Gu Li | Win | W+R | 7.5 | 3323 | -12 | 
+| 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Gu Li | Zhong Wenjing | Win | B+R | 7.5 | 3335 | -115 | 
+| 2014-04-19 | 第19回LG杯予選 | Gu Li | Ahn Kukhyun | Lose | W+R | 6.5 | 3450 | -17 | 
+| 2014-04-18 | 第19回LG杯予選 | Park Seunghwa | Gu Li | Win | W+R | 6.5 | 3467 | 23 | 
+| 2014-04-04 | 第27期中国囲碁名人戦1回戦 | Gu Li | Jiang Weijie | Lose | W+R | 7.5 | 3444 | 4 | 
+| 2014-03-28 | 第10回春蘭杯世界囲碁選手権2回戦 | Gu Li | Lee Sedol | Win | B+R | 7.5 | 3440 | 33 | 
+| 2014-03-26 | 第10回春蘭杯世界囲碁選手権1回戦 | Gu Li | Kim Junghyun | Win | B+R | 7.5 | 3407 | 3 | 
+| 2014-03-23 | 第4期招商地産杯中韓囲棋団体対抗戦第2戦 | Lee Sedol | Gu Li | Win | W+R | 7.5 | 3404 | 8 | 
+| 2014-03-21 | 第4期招商地産杯中韓囲棋団体対抗戦第1戦 | Byun Sangil | Gu Li | Lose | B+R | 7.5 | 3396 | -19 | 
+| 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Meng Tailing | Gu Li | Lose | B+R | 7.5 | 3415 | -117 | 
+| 2014-01-12 | 第5期中国竜星戦決勝三番勝負第3局 | Li Zhe | Gu Li | Win | W+R | 7.5 | 3532 | 3 | 
+| 2014-01-10 | 第5期中国竜星戦決勝三番勝負第2局 | Gu Li | Li Zhe | Win | B+R | 7.5 | 3529 | 5 | 
+| 2014-01-03 | 第5期中国竜星戦決勝三番勝負第1局 | Li Zhe | Gu Li | Lose | B+R | 7.5 | 3524 | -9 | 
+| 2013-12-30 | 第14期リコー杯囲碁戦2回戦 | Xu Jiayang | Gu Li | Lose | B+R | 7.5 | 3533 | 69 | 
+| 2013-12-09 | 第5期中国竜星戦準決勝 | Zhou Ruiyang | Gu Li | Win | W+R | 7.5 | 3464 | 1 | 
+| 2013-12-06 | 第1回夢百合杯世界オープン戦決勝五番勝負第4局 | Mi Yuting | Gu Li | Lose | B+R | 7.5 | 3463 | -4 | 
+| 2013-12-04 | 第1回夢百合杯世界オープン戦決勝五番勝負第3局 | Gu Li | Mi Yuting | Lose | W+R | 7.5 | 3467 | 0 | 
+| 2013-12-02 | 第1回夢百合杯世界オープン戦決勝五番勝負第2局 | Mi Yuting | Gu Li | Lose | B+R | 7.5 | 3467 | -6 | 
+| 2013-11-30 | 第1回夢百合杯世界オープン戦決勝五番勝負第1局 | Gu Li | Mi Yuting | Win | B+1.5 | 7.5 | 3473 | 1 | 
+| 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 | Gu Li | Tong Yulin | Win | B+R | 7.5 | 3472 | 18 | 
+| 2013-11-23 | 第15回中国囲碁甲級リーグ第21節 | Huang Yunsong | Gu Li | Lose | B+R | 7.5 | 3454 | -24 | 
+| 2013-11-20 | 第5期中国竜星戦3回戦 | Tang Weixing | Gu Li | Win | W+2.5 | 7.5 | 3478 | 3 | 
+| 2013-11-16 | 第15回中国囲碁甲級リーグ第20節 | Gu Li | Lian Xiao | Win | B+R | 7.5 | 3475 | 8 | 
+| 2013-11-02 | 第15回中国囲碁甲級リーグ第19節（再対局） | Chen Yaoye | Gu Li | Lose | B+R | 7.5 | 3467 | 0 | 
+| 2013-11-02 | 第15回中国囲碁甲級リーグ第19節 | Chen Yaoye | Gu Li | Lose | Void | 7.5 | 3467 | -4 | 
+| 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 | Gu Li | Fan Tingyu | Win | B+R | 7.5 | 3471 | 17 | 
+| 2013-10-20 | 第15回中国囲碁甲級リーグ第17節 | Lee Sedol | Gu Li | Lose | B+R | 7.5 | 3454 | -37 | 
+| 2013-10-17 | 第1回夢百合杯世界オープン戦準決勝第2局 | Gu Li | Zhou Ruiyang | Win | B+R | 7.5 | 3491 | 13 | 
+| 2013-10-15 | 第1回夢百合杯世界オープン戦準決勝第1局 | Zhou Ruiyang | Gu Li | Win | W+R | 7.5 | 3478 | 4 | 
+| 2013-10-13 | 第15回中国囲碁甲級リーグ第16節 | Gu Li | Qiu Jun | Win | B+R | 7.5 | 3474 | -10 | 
+| 2013-10-08 | 第18回三星火災杯世界囲碁マスターズ2回戦 | An Sungjoon | Gu Li | Lose | B+R | 6.5 | 3484 | -185 | 
+| 2013-09-12 | 第15回中国囲碁甲級リーグ第15節 | Park Junghwan | Gu Li | Win | W+R | 7.5 | 3669 | 39 | 
+| 2013-09-10 | 第5期中国竜星戦2回戦 | Fan Yunruo | Gu Li | Win | W+4.5 | 7.5 | 3630 | 4 | 
+| 2013-09-09 | 第5期中国竜星戦1回戦 | Gu Lingyi | Gu Li | Win | W+0.5 | 7.5 | 3626 | -2 | 
+| 2013-09-05 | 第18回三星火災杯世界囲碁マスターズ1回戦H3 | Liao Xingwen | Gu Li | Win | W+R | 6.5 | 3628 | 2 | 
+| 2013-09-04 | 第18回三星火災杯世界囲碁マスターズ1回戦H2 | Gu Li | Park Junghwan | Lose | W+R | 6.5 | 3626 | 2 | 
+| 2013-09-03 | 第18回三星火災杯世界囲碁マスターズ1回戦H1 | Yuki Satoshi | Gu Li | Win | W+R | 6.5 | 3624 | 14 | 
+| 2013-09-01 | 第15回中国囲碁甲級リーグ第13節 | Wu Guangya | Gu Li | Lose | B+R | 7.5 | 3610 | -6 | 
+| 2013-08-27 | 第9期威孚房開杯棋王戦1回戦 | Jiang Weijie | Gu Li | Lose | B+R | 7.5 | 3616 | -58 | 
+| 2013-08-11 | 第1回夢百合杯世界オープン戦4回戦 | Wang Lei (b) | Gu Li | Win | W+R | 7.5 | 3674 | 11 | 
+| 2013-08-09 | 第1回夢百合杯世界オープン戦3回戦 | Hu Yaoyu | Gu Li | Win | W+R | 7.5 | 3663 | 126 | 
+| 2013-07-15 | 第15回中国囲碁甲級リーグ第11節 | Park Yeonghun | Gu Li | Win | W+R | 7.5 | 3537 | 4 | 
+| 2013-07-11 | 第1回夢百合杯世界オープン戦2回戦 | Na Hyun | Gu Li | Win | W+R | 7.5 | 3533 | 55 | 
+| 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 | Kim Jiseok | Gu Li | Win | W+R | 7.5 | 3478 | 53 | 
+| 2013-07-07 | 第15回中国囲碁甲級リーグ第10節 | Gu Li | Cho Hanseung | Win | B+1.5 | 7.5 | 3425 | -11 | 
+| 2013-06-29 | 第15期阿含・桐山杯中国早碁オープン戦1回戦 | Gu Li | Liu Xing | Lose | W+2.5 | 7.5 | 3436 | 25 | 
+| 2013-06-22 | 第15回中国囲碁甲級リーグ第9節 | Gu Li | Li Qincheng | Win | B+R | 7.5 | 3411 | 7 | 
+| 2013-06-15 | 第15回中国囲碁甲級リーグ第8節 | Gu Li | Zhong Wenjing | Win | B+R | 7.5 | 3404 | 7 | 
+| 2013-06-10 | 第18回LG杯朝鮮日報棋王戦1回戦 | Gu Li | Kim Sonjin | Lose | W+R | 6.5 | 3397 | -49 | 
+| 2013-06-02 | 第15回中国囲碁甲級リーグ第7節 | Zhou Ruiyang | Gu Li | Lose | B+1.5 | 7.5 | 3446 | 72 | 
+| 2013-05-29 | 第10期倡棋杯中国プロ囲碁選手権戦2回戦 | Liu Xing | Gu Li | Lose | B+R | 7.5 | 3374 | 39 | 
+| 2013-05-27 | 第10期倡棋杯中国プロ囲碁選手権戦1回戦 | Gu Li | Niu Yutian | Win | B+R | 7.5 | 3335 | -48 | 
+| 2013-05-18 | 第15回中国囲碁甲級リーグ第6節 |  | Gu Li | Win | W+R | 7.5 | 3383 | 5 | 
+| 2013-05-11 | 第15回中国囲碁甲級リーグ第5節 | Hu Yaoyu | Gu Li | Win | W+R | 7.5 | 3378 | -4 | 
+| 2013-05-04 | 第15回中国囲碁甲級リーグ第3節 | Qin Yuexin | Gu Li | Win | W+R | 7.5 | 3382 | -30 | 
+| 2013-04-07 | 第15回中国囲碁甲級リーグ第2節 | Gu Li | Shi Yue | Lose | W+R | 7.5 | 3412 | 4 | 
+| 2013-04-05 | 第15回中国囲碁甲級リーグ第1節 | Gu Li | Choi Cheolhan | Lose | W+R | 7.5 | 3408 | -12 | 
+| 2013-03-30 | 第14回阿含・桐山杯日中決戦 | Cho U | Gu Li | Win | W+4.5 | 6.5 | 3420 | -38 | 
+| 2013-03-13 | 2013CCTV杯中国囲棋電視快棋戦1回戦 | Gu Li |  | Lose | W+R | 7.5 | 3458 | -7 | 
+| 2013-03-10 | 第12回西南棋王戦決勝 | Gu Li | Xie He | Lose | W+R | 7.5 | 3465 | 0 | 
+| 2013-03-10 | 第12回西南棋王戦準決勝 | Dang Yifei | Gu Li | Win | W+2.5 | 7.5 | 3465 | 9 | 
+| 2013-03-09 | 第12回西南棋王戦2回戦 | Wang Xi | Gu Li | Win | W+2.5 | 7.5 | 3456 | 0 | 
+| 2013-03-09 | 第12回西南棋王戦1回戦 | Gu Li | Yang Dingxin | Win | B+R | 7.5 | 3456 | 31 | 
+| 2013-02-23 | 第13期リコー杯囲碁戦準決勝 | Zhou Ruiyang | Gu Li | Lose | B+R | 7.5 | 3425 | -8 | 
+| 2013-02-22 | 第13期リコー杯囲碁戦4回戦 | Jiang Weijie | Gu Li | Win | W+R | 7.5 | 3433 | 31 | 
+| 2013-02-21 | 第13期リコー杯囲碁戦3回戦 | Gu Li | Mao Ruilong | Win | B+R | 7.5 | 3402 | 15 | 
+| 2013-01-30 | 第27期中国囲碁天元戦準決勝 | Gu Li | Gu Lingyi | Lose | W+R | 7.5 | 3387 | -17 | 
+| 2013-01-28 | 第27期中国囲碁天元戦3回戦 | Liu Xing | Gu Li | Win | W+R | 7.5 | 3404 | 7 | 
+| 2013-01-26 | 第27期中国囲碁天元戦2回戦 | Gu Li | Peng Liyao | Win | B+R | 7.5 | 3397 | 14 | 
+| 2013-01-24 | 第27期中国囲碁天元戦1回戦 | Wu Guangya | Gu Li | Win | W+R | 7.5 | 3383 | 2 | 
+| 2013-01-08 | 第13期リコー杯囲碁戦2回戦 | Wang Haoyang | Gu Li | Win | W+R | 7.5 | 3381 | 19 | 
+| 2012-12-13 | 第17回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Lee Sedol | Gu Li | Lose | B+0.5 | 6.5 | 3362 | -21 | 
+| 2012-12-12 | 第17回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Lee Sedol | Gu Li | Win | W+R | 6.5 | 3383 | 25 | 
+| 2012-12-11 | 第17回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Gu Li | Lee Sedol | Lose | W+0.5 | 6.5 | 3358 | -31 | 
+| 2012-12-08 | 第14回中国囲碁甲級リーグ第22節 | Gu Li | Mao Ruilong | Win | B+R | 7.5 | 3389 | 58 | 
+| 2012-12-05 | 第14回中国囲碁甲級リーグ第21節 | Fan Yunruo | Gu Li | Win | W+0.5 | 7.5 | 3331 | -224 | 
+| 2012-11-24 | 第14回中国囲碁甲級リーグ第20節 | Fan Tingyu | Gu Li | Win | W+0.5 | 7.5 | 3555 | 18 | 
+| 2012-11-14 | 第17回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Park Junghwan | Gu Li | Win | W+R | 6.5 | 3537 | 7 | 
+| 2012-11-12 | 第17回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Gu Li | Park Junghwan | Win | B+R | 6.5 | 3530 | 26 | 
+| 2012-11-03 | 第14回中国囲碁甲級リーグ第18節 | Chen Yaoye | Gu Li | Win | W+R | 7.5 | 3504 | -12 | 
+| 2012-10-21 | 第14回中国囲碁甲級リーグ第17節 | Gu Li | Shi Yue | Win | B+R | 7.5 | 3516 | 5 | 
+| 2012-10-19 | 第4期中国竜星戦2回戦 | Peng Quan | Gu Li | Lose | B+3.5 | 7.5 | 3511 | -1 | 
+| 2012-10-17 | 第14期阿含・桐山杯中国早碁オープン戦決勝 | Gu Li | Zhou Ruiyang | Win | B+1.5 | 7.5 | 3512 | 8 | 
+| 2012-10-15 | 第4期中国竜星戦1回戦 |  | Gu Li | Win | W+R | 7.5 | 3504 | 2 | 
+| 2012-10-13 | 第8期威孚房開杯棋王戦予選 | Gu Li | Zhong Wenjing | Lose | W+0.5 | 7.5 | 3502 | -3 | 
+| 2012-10-10 | 第17回三星火災杯世界囲碁マスターズ3回戦 | Gu Li | Kang Dongyun | Win | B+R | 6.5 | 3505 | 6 | 
+| 2012-10-09 | 第17回三星火災杯世界囲碁マスターズ2回戦 | Ahn Kukhyun | Gu Li | Win | W+R | 6.5 | 3499 | -12 | 
+| 2012-09-30 | 第14回中国囲碁甲級リーグ第16節 | Kim Jiseok | Gu Li | Lose | B+R | 7.5 | 3511 | -17 | 
+| 2012-09-28 | 第14回中国囲碁甲級リーグ第15節 | Gu Li | Lian Xiao | Win | B+R | 7.5 | 3528 | 2 | 
+| 2012-09-08 | 第14回中国囲碁甲級リーグ第14節 | Tan Xiao | Gu Li | Win | W+R | 7.5 | 3526 | 19 | 
+| 2012-09-05 | 第17回三星火災杯世界囲碁マスターズ1回戦F2 | Gu Li | Lee Sedol | Win | B+R | 6.5 | 3507 | 4 | 
+| 2012-09-04 | 第17回三星火災杯世界囲碁マスターズ1回戦F1 | Cho U | Gu Li | Win | W+R | 6.5 | 3503 | 3 | 
+| 2012-09-01 | 第14回中国囲碁甲級リーグ第13節 | Li Kang | Gu Li | Win | W+R | 7.5 | 3500 | -3 | 
+| 2012-08-30 | 第14回中国囲碁甲級リーグ第12節 | Gu Li | Choi Cheolhan | Lose | W+R | 7.5 | 3503 | 3 | 
+| 2012-08-27 | 第14期阿含・桐山杯中国早碁オープン戦準決勝 | Gu Li | Xie He | Win | B+R | 7.5 | 3500 | 30 | 
+| 2012-08-15 | 第14期阿含・桐山杯中国早碁オープン戦2回戦 | Gu Li | Piao Wenyao | Win | B+R | 7.5 | 3470 | 21 | 
+| 2012-08-10 | 第14回農心杯中国選抜戦 | Gu Li | Shi Yue | Lose | W+R | 6.5 | 3449 | -69 | 
+| 2012-08-01 | 第14期阿含・桐山杯中国早碁オープン戦1回戦 | An Dongxu | Gu Li | Win | W+R | 7.5 | 3518 | 43 | 
+| 2012-07-15 | 第14回中国囲碁甲級リーグ第11節 | Huang Yizhong | Gu Li | Lose | B+1.5 | 7.5 | 3475 | -13 | 
+| 2012-07-13 | 第14回中国囲碁甲級リーグ第10節 | Gu Li | Hu Yaoyu | Win | B+1.5 | 7.5 | 3488 | -30 | 
+| 2012-07-09 | 2012CCTV杯中国囲棋電視快棋戦1回戦 | Gu Li | Mi Yuting | Lose | W+R | 7.5 | 3518 | -9 | 
+| 2012-07-07 | 第14回中国囲碁甲級リーグ第9節 | Gu Li | Zhou Heyang | Win | B+R | 7.5 | 3527 | 48 | 
+| 2012-07-03 | 第4回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Gu Li | Tuo Jiaxi | Lose | W+R | 7.5 | 3479 | -9 | 
+| 2012-06-30 | 第14回中国囲碁甲級リーグ第8節 | Gu Li | Peng Quan | Win | B+R | 7.5 | 3488 | 31 | 
+| 2012-06-23 | 第14回中国囲碁甲級リーグ第7節 | Gu Li | Kong Jie | Win | B+R | 7.5 | 3457 | -11 | 
+| 2012-06-20 | 第17回LG杯世界棋王戦2回戦 | Gu Li | Choi Cheolhan | Lose | W+0.5 | 6.5 | 3468 | -5 | 
+| 2012-06-18 | 第17回LG杯世界棋王戦1回戦 | Park Seunghwa | Gu Li | Win | W+R | 6.5 | 3473 | -6 | 
+| 2012-06-14 | 第14回中国囲碁甲級リーグ第6節 | Shi Yue | Gu Li | Lose | B+5.5 | 7.5 | 3479 | -50 | 
+| 2012-06-09 | 第14回中国囲碁甲級リーグ第5節 | Gu Li | Zhou Hexi | Win | B+R | 7.5 | 3529 | 29 | 
+| 2012-06-03 | 第9期倡棋杯中国プロ囲碁選手権戦2回戦 | Chen Yaoye | Gu Li | Lose | B+R | 7.5 | 3500 | 8 | 
+| 2012-05-30 | 第14回中国囲碁甲級リーグ第4節 | Gu Li |  | Win | B+R | 7.5 | 3492 | 4 | 
+| 2012-05-27 | 第7回応氏杯世界選手権3回戦 | Gu Li | Xie He | Lose | W+5 | 7.5 | 3488 | -4 | 
+| 2012-05-25 | 第7回応氏杯世界選手権2回戦 | Weon Seongjin | Gu Li | Win | W+3 | 7.5 | 3492 | -111 | 
+| 2012-05-07 | 第14回中国囲碁甲級リーグ第3節 | Sun Tengyu | Gu Li | Win | W+R | 7.5 | 3603 | -41 | 
+| 2012-04-30 | 第14回中国囲碁甲級リーグ第2節 | Gu Li | Mi Yuting | Lose | W+R | 7.5 | 3644 | -13 | 
+| 2012-04-28 | 第14回中国囲碁甲級リーグ第1節 | Gu Li | Choi Cheolhan | Win | B+R | 7.5 | 3657 | 13 | 
+| 2012-04-12 | 第4回BCカード杯世界選手権3回戦 | Piao Wenyao | Gu Li | Lose | B+0.5 | 6.5 | 3644 | -2 | 
+| 2012-04-07 | 第25期中国囲碁名人戦2回戦 | Gu Li | Meng Tailing | Lose | W+2.5 | 7.5 | 3646 | 2 | 
+| 2012-04-05 | 第25期中国囲碁名人戦1回戦 | Zhu Yuanhao | Gu Li | Win | W+R | 7.5 | 3644 | -11 | 
+| 2012-03-30 | 第9回春蘭杯世界囲碁選手権2回戦 | Gu Li | Kim Jiseok | Lose | W+R | 7.5 | 3655 | 10 | 
+| 2012-03-17 | 第4回BCカード杯世界選手権2回戦 | Gu Li | Fan Tingyu | Win | B+R | 6.5 | 3645 | -3 | 
+| 2012-03-14 | 第1回百霊杯世界囲碁選手権1回戦 | Li Kang | Gu Li | Lose | B+1.5 | 7.5 | 3648 | -89 | 
+| 2012-03-07 | 第11回西南棋王戦準決勝 | Piao Wenyao | Gu Li | Lose | B+R | 7.5 | 3737 | -7 | 
+| 2012-03-06 | 第11回西南棋王戦2回戦 | Gu Li | Wang Xi | Win | B+R | 7.5 | 3744 | 21 | 
+| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Gu Li | Park Seunghyeon | Win | B+R | 6.5 | 3723 | -56 | 
+| 2012-02-21 | 第13回農心辛ラーメン杯世界囲碁最強戦第11戦 | Kim Jiseok | Gu Li | Lose | B+R | 6.5 | 3779 | 97 | 
+| 2012-02-10 | 第26期中国囲碁天元戦1回戦 | Gu Li | Ding Wei | Lose | W+R | 7.5 | 3682 | 36 | 
+| 2012-01-12 | 第12期リコー杯囲碁戦3回戦 | Piao Wenyao | Gu Li | Lose | B+R | 7.5 | 3646 | -33 | 
+| 2011-12-30 | 第12期リコー杯囲碁戦2回戦 | Zhong Wenjing | Gu Li | Win | W+R | 7.5 | 3679 | 6 | 
+| 2011-12-26 | 第13回中国囲碁甲級リーグ第22節 | Peng Quan | Gu Li | Win | W+R | 7.5 | 3673 | -42 | 
+| 2011-12-10 | 第1回スポーツアコードワールドマインドゲームズ囲碁団体戦 | Gu Li | Xiao Zhenghao | Win | B+R | 7.5 | 3715 | 1 | 
+| 2011-12-09 | 第1回スポーツアコードワールドマインドゲームズ囲碁団体戦 | Cristian Pop | Gu Li | Win | W+R | 7.5 | 3714 | 413 | 
+| 2011-12-07 | 第16回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Weon Seongjin | Gu Li | Lose | B+R | 6.5 | 3301 | -14 | 
+| 2011-12-06 | 第16回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Weon Seongjin | Gu Li | Win | W+R | 6.5 | 3315 | 6 | 
+| 2011-12-05 | 第16回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Gu Li | Weon Seongjin | Lose | W+R | 6.5 | 3309 | -2 | 
+| 2011-11-29 | 第13回中国囲碁甲級リーグ第21節 | Gu Li | Tong Mengcheng | Lose | W+R | 7.5 | 3311 | 11 | 
+| 2011-11-26 | 第13回中国囲碁甲級リーグ第20節 | Kong Jie | Gu Li | Win | W+R | 7.5 | 3300 | 58 | 
+| 2011-11-05 | 第13回中国囲碁甲級リーグ第19節 | Gu Li | Wu Guangya | Lose | W+R | 7.5 | 3242 | -18 | 
+| 2011-11-02 | 第16回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Na Hyun | Gu Li | Win | W+R | 6.5 | 3260 | -1 | 
+| 2011-10-31 | 第16回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Gu Li | Na Hyun | Win | B+R | 6.5 | 3261 | -3 | 
+| 2011-10-25 | 第8期倡棋杯中国プロ囲碁選手権戦決勝三番勝負第2局 | Gu Li | Liu Xing | Win | B+R | 7.5 | 3264 | 8 | 
+| 2011-10-23 | 第8期倡棋杯中国プロ囲碁選手権戦決勝三番勝負第1局 | Liu Xing | Gu Li | Win | W+R | 7.5 | 3256 | -18 | 
+| 2011-10-13 | 第13回中国囲碁甲級リーグ第17節 | Gu Li | Hu Yaoyu | Win | B+R | 7.5 | 3274 | -7 | 
+| 2011-10-08 | 第13回中国囲碁甲級リーグ第16節 | Wang Haoyang | Gu Li | Win | W+0.5 | 7.5 | 3281 | 2 | 
+| 2011-10-05 | 第16回三星火災杯世界囲碁マスターズ2回戦 | Gu Li | Kim Jiseok | Win | B+R | 6.5 | 3279 | 27 | 
+| 2011-10-04 | 第16回三星火災杯世界囲碁マスターズ1回戦 | Gu Li | Lee Changho | Win | B+0.5 | 6.5 | 3252 | -33 | 
+| 2011-09-29 | 第13回中国囲碁甲級リーグ第15節 | Gu Li | Luo Xihe | Win | B+R | 7.5 | 3285 | 58 | 
+| 2011-09-10 | 第13回中国囲碁甲級リーグ第14節 | Jiang Weijie | Gu Li | Lose | B+R | 7.5 | 3227 | 10 | 
+| 2011-09-08 | 第7期威孚房開杯棋王戦1回戦 | Gu Li | Meng Tailing | Lose | W+R | 7.5 | 3217 | 3 | 
+| 2011-09-06 | 第13回中国囲碁甲級リーグ第13節 | Gu Li | Ding Wei | Win | B+R | 7.5 | 3214 | -3 | 
+| 2011-09-04 | 第13回中国囲碁甲級リーグ第12節 | Li Zhe | Gu Li | Lose | Void | 7.5 | 3217 | 0 | 
+| 2011-09-04 | 第13回中国囲碁甲級リーグ第12節 | Li Zhe | Gu Li | Win | W+R | 7.5 | 3217 | 9 | 
+| 2011-08-30 | 第8期倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Kong Jie | Gu Li | Win | W+5 | 7.5 | 3208 | 0 | 
+| 2011-08-28 | 第8期倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Gu Li | Kong Jie | Win | B+1 | 7.5 | 3208 | 15 | 
+| 2011-08-25 | 第16回三星火災杯世界囲碁マスターズ1回戦F2 | Lee Yeongkyu | Gu Li | Win | W+1.5 | 6.5 | 3193 | 5 | 
+| 2011-08-24 | 第16回三星火災杯世界囲碁マスターズ1回戦F1 | Gu Li | Park Shiun | Win | B+R | 6.5 | 3188 | 6 | 
+| 2011-08-10 | 第24回世界囲碁選手権富士通杯1回戦 | Gu Li | Iyama Yuta | Lose | W+R | 6.5 | 3182 | -34 | 
+| 2011-07-14 | 第13回中国囲碁甲級リーグ第11節 | Gu Li | Peng Quan | Win | B+R | 7.5 | 3216 | 11 | 
+| 2011-07-11 | 第13期阿含・桐山杯中国早碁オープン戦1回戦 | Gu Li | Xie He | Lose | W+R | 7.5 | 3205 | -7 | 
+| 2011-07-09 | 第13回中国囲碁甲級リーグ第10節 | Fan Tingyu | Gu Li | Lose | B+R | 7.5 | 3212 | -45 | 
+| 2011-07-05 | 第24期中国囲碁名人戦3回戦 | Gu Li | Kong Jie | Lose | W+R | 7.5 | 3257 | 5 | 
+| 2011-07-02 | 第13回中国囲碁甲級リーグ第9節 | Gu Li | Chen Yaoye | Win | B+R | 7.5 | 3252 | -112 | 
+| 2011-06-25 | 第13回中国囲碁甲級リーグ第8節 | Wu Guangya | Gu Li | Lose | B+R | 7.5 | 3364 | -58 | 
+| 2011-06-18 | 第13回中国囲碁甲級リーグ第7節 | Gu Li | Tan Xiao | Lose | W+R | 7.5 | 3422 | -29 | 
+| 2011-06-13 | 第16回LG杯世界棋王戦1回戦 | Gu Li | Lee Changho | Lose | W+R | 6.5 | 3451 | -21 | 
+| 2011-06-09 | 第13回中国囲碁甲級リーグ第6節 | Qiu Jun | Gu Li | Win | W+R | 7.5 | 3472 | -14 | 
+| 2011-06-05 | 第8期倡棋杯中国プロ囲碁選手権戦3回戦 | Gu Li | Tuo Jiaxi | Win | B+R | 7.5 | 3486 | -2 | 
+| 2011-06-03 | 第8期倡棋杯中国プロ囲碁選手権戦2回戦 | Gu Li | Hu Yaoyu | Win | B+R | 7.5 | 3488 | 48 | 
+| 2011-06-01 | 第8期倡棋杯中国プロ囲碁選手権戦1回戦 | Zhou Hexi | Gu Li | Win | W+R | 7.5 | 3440 | 16 | 
+| 2011-05-28 | 第13回中国囲碁甲級リーグ第5節 | Gu Li | Choi Cheolhan | Win | B+R | 7.5 | 3424 | 7 | 
+| 2011-05-21 | 第13回中国囲碁甲級リーグ第4節 | Mi Yuting | Gu Li | Lose | B+R | 7.5 | 3417 | 4 | 
+| 2011-05-14 | 第13回中国囲碁甲級リーグ第3節 | Gu Li | Zhou Ruiyang | Win | B+R | 7.5 | 3413 | 9 | 
+| 2011-05-09 | 第13回中国囲碁甲級リーグ第2節 | Ding Wei | Gu Li | Lose | B+R | 7.5 | 3404 | 12 | 
+| 2011-05-07 | 第13回中国囲碁甲級リーグ第1節 | Gu Li | Li Zhe | Win | B+R | 7.5 | 3392 | -44 | 
+| 2011-04-28 | 第3回BCカード杯世界選手権決勝五番勝負第5局 | Lee Sedol | Gu Li | Lose | B+R | 6.5 | 3436 | -1 | 
+| 2011-04-27 | 第3回BCカード杯世界選手権決勝五番勝負第4局 | Gu Li | Lee Sedol | Win | B+R | 6.5 | 3437 | 6 | 
+| 2011-04-26 | 第3回BCカード杯世界選手権決勝五番勝負第3局 | Lee Sedol | Gu Li | Lose | B+0.5 | 6.5 | 3431 | 1 | 
+| 2011-04-24 | 第3回BCカード杯世界選手権決勝五番勝負第2局 | Gu Li | Lee Sedol | Lose | W+R | 6.5 | 3430 | -3 | 
+| 2011-04-23 | 第3回BCカード杯世界選手権決勝五番勝負第1局 | Lee Sedol | Gu Li | Win | W+R | 6.5 | 3433 | 11 | 
+| 2011-04-20 | 第3回BCカード杯世界選手権準決勝 | Heo Yongho | Gu Li | Win | W+R | 6.5 | 3422 | 20 | 
+| 2011-04-11 | 2011CCTV杯中国囲棋電視快棋戦準決勝 | Zhong Wenjing | Gu Li | Lose | B+1.5 | 7.5 | 3402 | -25 | 
+| 2011-04-08 | 2011CCTV杯中国囲棋電視快棋戦4回戦 | Tan Xiao | Gu Li | Win | W+R | 7.5 | 3427 | 46 | 
+| 2011-04-03 | 第3回BCカード杯世界選手権4回戦 | Kim Jiseok | Gu Li | Win | W+R | 6.5 | 3381 | 3 | 
+| 2011-03-30 | 第3期中国竜星戦3回戦 | Gu Li | Wang Lei (s) | Lose | W+R | 7.5 | 3378 | -16 | 
+| 2011-03-28 | 第24期中国囲碁名人戦2回戦 | Gu Li | Li Kang | Win | B+R | 7.5 | 3394 | 5 | 
+| 2011-03-25 | 第24期中国囲碁名人戦1回戦 | Fang Jie | Gu Li | Win | W+R | 7.5 | 3389 | -67 | 
+| 2011-03-20 | 第3回BCカード杯世界選手権3回戦 | Cho Hanseung | Gu Li | Win | W+R | 6.5 | 3456 | 7 | 
+| 2011-03-18 | 第3期中国竜星戦2回戦 |  | Gu Li | Win | W+R | 7.5 | 3449 | 1 | 
+| 2011-03-15 | 2011CCTV杯中国囲棋電視快棋戦3回戦 | Niu Yutian | Gu Li | Win | W+R | 7.5 | 3448 | 0 | 
+| 2011-03-15 | 2011CCTV杯中国囲棋電視快棋戦2回戦 | Gu Li | Huang Chen | Win | B+R | 7.5 | 3448 | 1 | 
+| 2011-03-14 | 2011CCTV杯中国囲棋電視快棋戦1回戦 | Dong Yan | Gu Li | Win | W+R | 7.5 | 3447 | 30 | 
+| 2011-03-07 | 第1期招商地産杯中韓囲棋団体対抗戦第2戦 | Choi Cheolhan | Gu Li | Lose | B+3.5 | 7.5 | 3417 | 6 | 
+| 2011-03-05 | 第1期招商地産杯中韓囲棋団体対抗戦第1戦 | Heo Yongho | Gu Li | Lose | B+R | 7.5 | 3411 | -3 | 
+| 2011-02-28 | 第3回BCカード杯世界選手権2回戦 | Dang Yifei | Gu Li | Win | W+4.5 | 6.5 | 3414 | 70 | 
+| 2011-02-13 | 第25期中国囲碁天元戦1回戦 | Gu Li | Hu Yaoyu | Lose | W+R | 7.5 | 3344 | -28 | 
+| 2011-01-29 | 第3回BCカード杯世界選手権1回戦 | Gu Li | Fan Yunruo | Win | B+R | 6.5 | 3372 | 96 | 
+| 2011-01-18 | 第11期リコー杯囲碁戦3回戦 | Jiang Weijie | Gu Li | Lose | B+R | 7.5 | 3276 | -7 | 
+| 2011-01-16 | 第3期中国竜星戦1回戦 | Gu Li | Zhong Wenjing | Win | B+R | 7.5 | 3283 | 68 | 
+| 2010-12-21 | 第11期リコー杯囲碁戦2回戦 | Gu Li | Ding Wei | Win | B+R | 7.5 | 3215 | 10 | 
+| 2010-12-18 | 第12回中国囲碁甲級リーグ第22節 | Wang Haoyang | Gu Li | Lose | B+R | 7.5 | 3205 | 5 | 
+| 2010-12-14 | 第8回春蘭杯世界囲碁選手権3回戦 | Gu Lingyi | Gu Li | Lose | B+R | 7.5 | 3200 | -2 | 
+| 2010-12-10 | 第15回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Gu Li | Heo Yongho | Win | B+R | 6.5 | 3202 | 13 | 
+| 2010-12-09 | 第15回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Gu Li | Heo Yongho | Lose | W+R | 6.5 | 3189 | 22 | 
+| 2010-12-07 | 第15回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Heo Yongho | Gu Li | Win | W+2.5 | 6.5 | 3167 | 24 | 
+| 2010-12-04 | 第12回中国囲碁甲級リーグ第20節 | Chen Yaoye | Gu Li | Lose | B+R | 7.5 | 3143 | -14 | 
+| 2010-12-02 | 第23期中国囲碁名人戦挑戦手合五番勝負第5局 | Gu Li | Jiang Weijie | Lose | W+R | 7.5 | 3157 | 36 | 
+| 2010-12-01 | 第23期中国囲碁名人戦挑戦手合五番勝負第4局 | Gu Li | Jiang Weijie | Win | B+R | 7.5 | 3121 | -75 | 
+| 2010-11-29 | 第23期中国囲碁名人戦挑戦手合五番勝負第3局 | Jiang Weijie | Gu Li | Lose | B+R | 7.5 | 3196 | -7 | 
+| 2010-11-26 | 2010年アジア競技大会囲碁男子団体戦 | Lee Changho | Gu Li | Lose | B+R | 7.5 | 3203 | -14 | 
+| 2010-11-25 | 2010年アジア競技大会囲碁男子団体戦 | Yamashita Keigo | Gu Li | Lose | B+7.5 | 7.5 | 3217 | -56 | 
+| 2010-11-24 | 2010年アジア競技大会囲碁男子団体戦 | Gu Li | O Meien | Win | B+R | 7.5 | 3273 | 0 | 
+| 2010-11-23 | 2010年アジア競技大会囲碁男子団体戦 | Kang Dongyun | Gu Li | Lose | B+R | 7.5 | 3273 | 31 | 
+| 2010-11-16 | 第12回中国囲碁甲級リーグ第19節 | Gu Li | Tan Xiao | Lose | W+R | 7.5 | 3242 | -5 | 
+| 2010-11-11 | 第12回中国囲碁甲級リーグ第18節 | Lee Yeongkyu | Gu Li | Lose | B+R | 7.5 | 3247 | -18 | 
+| 2010-11-09 | 第23期中国囲碁名人戦挑戦手合五番勝負第2局 | Gu Li | Jiang Weijie | Lose | W+R | 7.5 | 3265 | -1 | 
+| 2010-11-07 | 第23期中国囲碁名人戦挑戦手合五番勝負第1局 | Jiang Weijie | Gu Li | Win | W+R | 7.5 | 3266 | 14 | 
+| 2010-11-03 | 第15回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Gu Li | Kim Jiseok | Win | B+0.5 | 6.5 | 3252 | 9 | 
+| 2010-11-01 | 第15回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Kim Jiseok | Gu Li | Win | W+R | 6.5 | 3243 | 16 | 
+| 2010-10-27 | 第12回中国囲碁甲級リーグ第17節 | Gu Li | Peng Quan | Win | B+R | 7.5 | 3227 | -1 | 
+| 2010-10-23 | 第12回中国囲碁甲級リーグ第16節 | Gu Li | Tao Xin | Win | B+R | 7.5 | 3228 | -32 | 
+| 2010-10-16 | 第12回中国囲碁甲級リーグ第15節 | Gu Li | Ding Wei | Lose | W+R | 7.5 | 3260 | 2 | 
+| 2010-10-14 | 第15回三星火災杯世界囲碁マスターズ3回戦 | Lee Sedol | Gu Li | Win | W+R | 6.5 | 3258 | 11 | 
+| 2010-10-13 | 第15回三星火災杯世界囲碁マスターズ2回戦 | Gu Li | Han Sanghoon | Win | B+T | 6.5 | 3247 | -5 | 
+| 2010-10-09 | 第12回中国囲碁甲級リーグ第14節 | Gu Li | Liu Xing | Win | B+R | 7.5 | 3252 | 104 | 
+| 2010-09-27 | 第3回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Gu Li | Xie He | Lose | W+R | 7.5 | 3148 | 21 | 
+| 2010-09-10 | 第15回三星火災杯世界囲碁マスターズ1回戦D3 | Gu Li | Min Sangyoun | Win | B+R | 6.5 | 3127 | -11 | 
+| 2010-09-09 | 第15回三星火災杯世界囲碁マスターズ1回戦D2 | Gu Li | Heo Yongho | Lose | W+R | 6.5 | 3138 | -5 | 
+| 2010-09-08 | 第15回三星火災杯世界囲碁マスターズ1回戦D1 | Min Sangyoun | Gu Li | Win | W+R | 6.5 | 3143 | 4 | 
+| 2010-09-06 | 第12回中国囲碁甲級リーグ第13節 | Chang Hao | Gu Li | Win | W+R | 7.5 | 3139 | 0 | 
+| 2010-09-04 | 第12回中国囲碁甲級リーグ第12節 | Shi Yue | Gu Li | Lose | B+R | 7.5 | 3139 | -25 | 
+| 2010-09-01 | 第6期威孚房開杯棋王戦1回戦 | Tan Xiao | Gu Li | Lose | B+R | 7.5 | 3164 | 9 | 
+| 2010-08-22 | 第12期阿含・桐山杯中国早碁オープン戦2回戦 | Gu Li | Chang Hao | Lose | W+R | 7.5 | 3155 | -64 | 
+| 2010-07-27 | 第1回世界囲碁名人争覇戦決勝 | Gu Li | Lee Changho | Win | B+1.5 | 7.5 | 3219 | 11 | 
+| 2010-07-25 | 第1回世界囲碁名人争覇戦 | Iyama Yuta | Gu Li | Win | W+4.5 | 7.5 | 3208 | 6 | 
+| 2010-07-24 | 第1回世界囲碁名人争覇戦 | Lee Changho | Gu Li | Lose | B+R | 7.5 | 3202 | -30 | 
+| 2010-07-15 | 第12回中国囲碁甲級リーグ第11節 | Gu Li | Choi Cheolhan | Win | B+R | 7.5 | 3232 | 20 | 
+| 2010-07-10 | 第12回中国囲碁甲級リーグ第10節 | Zhang Qiang | Gu Li | Win | W+R | 7.5 | 3212 | -15 | 
+| 2010-07-08 | 第12期阿含・桐山杯中国早碁オープン戦1回戦 | Gu Li | Cao Xiaoyang | Win | B+R | 7.5 | 3227 | -12 | 
+| 2010-07-03 | 第12回中国囲碁甲級リーグ第9節 | Gu Li | Chen Yaoye | Lose | W+R | 7.5 | 3239 | -14 | 
+| 2010-06-26 | 第7期倡棋杯中国プロ囲碁選手権戦3回戦 | Wang Xi | Gu Li | Lose | B+R | 7.5 | 3253 | -7 | 
+| 2010-06-24 | 第7期倡棋杯中国プロ囲碁選手権戦2回戦 | Gu Lingyi | Gu Li | Win | W+R | 7.5 | 3260 | 3 | 
+| 2010-06-22 | 第7期倡棋杯中国プロ囲碁選手権戦1回戦 | Jiang Weijie | Gu Li | Win | W+7 | 7.5 | 3257 | 6 | 
+| 2010-06-19 | 第12回中国囲碁甲級リーグ第8節 | Sun Tengyu | Gu Li | Win | W+0.5 | 7.5 | 3251 | 63 | 
+| 2010-06-17 | 第3回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Gu Li | Tuo Jiaxi | Win | B+5.5 | 7.5 | 3188 | 14 | 
+| 2010-06-15 | 第3回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Zhong Wenjing | Gu Li | Win | W+R | 7.5 | 3174 | 11 | 
+| 2010-06-12 | 第12回中国囲碁甲級リーグ第7節 | Gu Li | Lee Yeongkyu | Win | B+R | 7.5 | 3163 | -34 | 
+| 2010-06-09 | 第15回LG杯世界棋王戦2回戦 | Gu Li | An Joyeong | Lose | W+R | 6.5 | 3197 | -9 | 
+| 2010-06-07 | 第15回LG杯世界棋王戦1回戦 | Gu Li | Lee Sedol | Win | B+R | 6.5 | 3206 | 37 | 
+| 2010-06-03 | 第12回中国囲碁甲級リーグ第6節 | Gu Li | Luo Xihe | Lose | W+R | 7.5 | 3169 | -24 | 
+| 2010-05-29 | 第12回中国囲碁甲級リーグ第5節 | Gu Li | Zhou Ruiyang | Lose | W+R | 7.5 | 3193 | 15 | 
+| 2010-05-23 | 第4回中国全国体育大会囲碁戦第9戦 | Zhou Ruiyang | Gu Li | Win | W+4.5 | 7.5 | 3178 | 1 | 
+| 2010-05-22 | 第4回中国全国体育大会囲碁戦第8戦 | Gu Li | Wang Xi | Win | B+R | 7.5 | 3177 | 6 | 
+| 2010-05-21 | 第4回中国全国体育大会囲碁戦第7戦 | Chen Yaoye | Gu Li | Win | W+R | 7.5 | 3171 | 0 | 
+| 2010-05-21 | 第4回中国全国体育大会囲碁戦第6戦 | Gu Li | Kong Jie | Win | B+R | 7.5 | 3171 | 18 | 
+| 2010-05-19 | 第4回中国全国体育大会囲碁戦 | Piao Wenyao | Gu Li | Win | W+R | 7.5 | 3153 | 5 | 
+| 2010-05-18 | 第4回中国全国体育大会囲碁戦第2戦 | Gu Li | Gu Lingyi | Lose | W+R | 7.5 | 3148 | 7 | 
+| 2010-05-17 | 第4回中国全国体育大会囲碁戦第1戦 | Gu Li |  | Lose | W+0.5 | 7.5 | 3141 | -5 | 
+| 2010-05-15 | 第12回中国囲碁甲級リーグ第4節 | Gu Li | Li Kang | Lose | W+10.5 | 7.5 | 3146 | 47 | 
+| 2010-05-08 | 第12回中国囲碁甲級リーグ第3節 | Liu Xing | Gu Li | Lose | B+1.5 | 7.5 | 3099 | -31 | 
+| 2010-04-29 | 第12回中国囲碁甲級リーグ第2節 | Gu Li | Hu Yaoyu | Win | B+R | 7.5 | 3130 | 15 | 
+| 2010-04-25 | 第12回中国囲碁甲級リーグ第1節 | Li Zhe | Gu Li | Lose | B+R | 7.5 | 3115 | -7 | 
+| 2010-04-23 | 第24期中国囲碁天元戦挑戦手合三番勝負第3局 | Gu Li | Chen Yaoye | Lose | W+R | 7.5 | 3122 | -8 | 
+| 2010-04-22 | 第24期中国囲碁天元戦挑戦手合三番勝負第2局 | Gu Li | Chen Yaoye | Lose | W+R | 7.5 | 3130 | -6 | 
+| 2010-04-20 | 第24期中国囲碁天元戦挑戦手合三番勝負第1局 | Chen Yaoye | Gu Li | Win | W+R | 7.5 | 3136 | -20 | 
+| 2010-04-14 | 第23回世界囲碁選手権富士通杯3回戦 | Gu Li | Lee Sedol | Lose | W+R | 6.5 | 3156 | 10 | 
+| 2010-04-12 | 第23回世界囲碁選手権富士通杯2回戦 | Park Junghwan | Gu Li | Win | W+R | 6.5 | 3146 | 33 | 
+| 2010-03-29 | 第8回春蘭杯世界囲碁選手権2回戦 | Gu Li | Yamashita Keigo | Win | B+R | 7.5 | 3113 | -54 | 
+| 2010-03-18 | 第24期中国囲碁天元戦挑戦者決定戦 | Gu Li | Shi Yue | Win | B+R | 7.5 | 3167 | 3167 | 
+| 2010-03-14 | 第9回西南棋王戦1回戦 | Yu Ping | Gu Li | Lose | B+R | 7.5 | missing | -3178 | 
+| 2010-03-11 | 第11回農心辛ラーメン杯世界囲碁最強戦第13戦 | Lee Changho | Gu Li | Lose | B+R | 6.5 | 3178 | -3 | 
+| 2010-03-07 | 第10期リコー杯囲碁戦4回戦 | Gu Lingyi | Gu Li | Lose | B+R | 7.5 | 3181 | -3 | 
+| 2010-03-05 | 2010CCTV杯中国囲棋電視快棋戦3回戦 | Gu Li |  | Lose | W+R | 7.5 | 3184 | -13 | 
+| 2010-03-04 | 2010CCTV杯中国囲棋電視快棋戦2回戦 | Yang Dingxin | Gu Li | Win | W+R | 7.5 | 3197 | 0 | 
+| 2010-03-04 | 2010CCTV杯中国囲棋電視快棋戦1回戦 | Gu Li |  | Win | B+R | 7.5 | 3197 | 21 | 
+| 2010-02-28 | 第2回BCカード杯世界選手権3回戦 | Gu Li | An Joyeong | Lose | W+0.5 | 6.5 | 3176 | 19 | 
+| 2010-02-22 | 第10期リコー杯囲碁戦3回戦 | Gu Li | Li Zhe | Win | B+5.5 | 7.5 | 3157 | 24 | 
+| 2010-02-07 | 第2回BCカード杯世界選手権2回戦 | Gu Li |  | Win | B+R | 6.5 | 3133 | 21 | 
+| 2010-02-02 | 第24期中国囲碁天元戦準決勝 | Wu Guangya | Gu Li | Win | W+R | 7.5 | 3112 | 10 | 
+| 2010-01-31 | 第24期中国囲碁天元戦3回戦 |  | Gu Li | Win | W+R | 7.5 | 3102 | 3 | 
+| 2010-01-29 | 第24期中国囲碁天元戦2回戦 | Wang Lei (s) | Gu Li | Win | W+R | 7.5 | 3099 | -9 | 
+| 2010-01-27 | 第24期中国囲碁天元戦1回戦 | Gu Li | Ding Wei | Win | B+R | 7.5 | 3108 | -77 | 
+| 2010-01-16 | 第2回BCカード杯世界選手権1回戦 | Choi Hyunjae | Gu Li | Win | W+1.5 | 6.5 | 3185 | -8 | 
+| 2010-01-07 | 第22期中国囲碁名人戦挑戦手合五番勝負第4局 | Gu Li | Gu Lingyi | Win | B+1.5 | 7.5 | 3193 | -13 | 
+| 2010-01-05 | 第22期中国囲碁名人戦挑戦手合五番勝負第3局 | Gu Lingyi | Gu Li | Win | W+2.5 | 7.5 | 3206 | 4 | 
+| 2009-12-30 | 第10期リコー杯囲碁戦2回戦 | Yang Dingxin | Gu Li | Win | W+R | 7.5 | 3202 | 5 | 
+| 2009-12-22 | 第22期中国囲碁名人戦挑戦手合五番勝負第2局 | Gu Li | Gu Lingyi | Win | B+R | 7.5 | 3197 | 4 | 
+| 2009-12-19 | 第11回中国囲碁甲級リーグ第22節 | Kong Jie | Gu Li | Lose | B+1.5 | 7.5 | 3193 | -16 | 
+| 2009-12-12 | 第11回中国囲碁甲級リーグ第21節 | Qiu Jun | Gu Li | Lose | B+R | 7.5 | 3209 | 10 | 
+| 2009-12-05 | 第11回中国囲碁甲級リーグ第20節 | Gu Li | Zhou Ruiyang | Lose | W+R | 7.5 | 3199 | 35 | 
+| 2009-11-30 | 第11回中国囲碁甲級リーグ第19節 | Piao Wenyao | Gu Li | Win | W+R | 7.5 | 3164 | -168 | 
+| 2009-11-26 | 第22期中国囲碁名人戦挑戦手合五番勝負第1局 | Gu Lingyi | Gu Li | Lose | B+R | 7.5 | 3332 | -2 | 
+| 2009-11-22 | 第1回全国智力運動会囲碁男子団体戦 | Zhou Ruiyang | Gu Li | Win | W+R | 7.5 | 3334 | 3 | 
+| 2009-11-21 | 第1回全国智力運動会囲碁男子団体戦 | Gu Lingyi | Gu Li | Lose | B+1.5 | 7.5 | 3331 | -7 | 
+| 2009-11-20 | 第1回全国智力運動会囲碁男子団体戦 | Gu Li | Kong Jie | Win | B+3.5 | 7.5 | 3338 | -35 | 
+| 2009-11-17 | 第1回全国智力運動会囲碁男子個人戦決勝 | Wang Lei (s) | Gu Li | Win | W+8.5 | 7.5 | 3373 | 0 | 
+| 2009-11-17 | 第1回全国智力運動会囲碁男子個人戦 | Gu Li | Wang Yuhui | Win | B+R | 7.5 | 3373 | 11 | 
+| 2009-11-16 | 第1回全国智力運動会囲碁男子個人戦 | Gu Li |  | Win | B+3.5 | 7.5 | 3362 | 1 | 
+| 2009-11-15 | 第1回全国智力運動会囲碁男子個人戦 | Li Zhe | Gu Li | Win | W+0.5 | 7.5 | 3361 | 13 | 
+| 2009-11-14 | 第1回全国智力運動会囲碁男子個人戦 | Gu Li | Huang Chen | Lose | W+R | 7.5 | 3348 | 0 | 
+| 2009-11-09 | 第14回LG杯世界棋王戦3回戦 | Gu Li | Piao Wenyao | Lose | W+R | 6.5 | 3348 | -19 | 
+| 2009-11-04 | 第14回三星火災杯世界囲碁マスターズ準決勝三番勝負第2局 | Kong Jie | Gu Li | Lose | B+2.5 | 6.5 | 3367 | -6 | 
+| 2009-11-02 | 第14回三星火災杯世界囲碁マスターズ準決勝三番勝負第1局 | Gu Li | Kong Jie | Lose | W+R | 6.5 | 3373 | -9 | 
+| 2009-10-29 | 第11回中国囲碁甲級リーグ第17節 | Luo Xihe | Gu Li | Lose | B+R | 7.5 | 3382 | 17 | 
+| 2009-10-20 | 第5期威孚房開杯棋王戦1回戦 | Gu Li | Peng Quan | Lose | W+R | 7.5 | 3365 | 1 | 
+| 2009-10-17 | 第11回中国囲碁甲級リーグ第16節 | Gu Li | Meng Tailing | Win | B+R | 7.5 | 3364 | -4 | 
+| 2009-10-14 | 第14回三星火災杯世界囲碁マスターズ3回戦 | Gu Li | Chen Yaoye | Win | B+R | 6.5 | 3368 | 5 | 
+| 2009-10-13 | 第14回三星火災杯世界囲碁マスターズ2回戦 | Chang Hao | Gu Li | Win | W+R | 6.5 | 3363 | -2 | 
+| 2009-10-10 | 第11回中国囲碁甲級リーグ第15節 | Gu Lingyi | Gu Li | Win | W+6.5 | 7.5 | 3365 | 21 | 
+| 2009-09-12 | 第14回三星火災杯世界囲碁マスターズ1回戦F3 | Gu Li | Kang Dongyun | Win | B+2.5 | 6.5 | 3344 | 6 | 
+| 2009-09-11 | 第14回三星火災杯世界囲碁マスターズ1回戦F2 | Liu Xing | Gu Li | Lose | B+R | 6.5 | 3338 | -3 | 
+| 2009-09-10 | 第14回三星火災杯世界囲碁マスターズ1回戦F1 | Wang Lei (s) | Gu Li | Win | W+R | 6.5 | 3341 | -5 | 
+| 2009-09-07 | 第11回中国囲碁甲級リーグ第13節 | Wang Yao | Gu Li | Win | W+R | 7.5 | 3346 | 6 | 
+| 2009-09-05 | 第11回中国囲碁甲級リーグ第12節 | Liu Xing | Gu Li | Win | W+R | 7.5 | 3340 | 37 | 
+| 2009-09-01 | 第11期阿含・桐山杯中国早碁オープン戦2回戦 | Gu Li | Sun Tengyu | Lose | W+R | 7.5 | 3303 | -1 | 
+| 2009-08-12 | 第11期阿含・桐山杯中国早碁オープン戦1回戦 | Hu Yaoyu | Gu Li | Win | W+R | 7.5 | 3304 | -30 | 
+| 2009-07-11 | 第11回中国囲碁甲級リーグ第11節 | Kong Jie | Gu Li | Lose | B+R | 7.5 | 3334 | 1 | 
+| 2009-07-09 | 第11回中国囲碁甲級リーグ第10節 | Gu Li | Hu Yaoyu | Win | B+R | 7.5 | 3333 | -1 | 
+| 2009-07-04 | 第11回中国囲碁甲級リーグ第9節 | Zhou Ruiyang | Gu Li | Win | W+R | 7.5 | 3334 | -6 | 
+| 2009-06-27 | 第11回中国囲碁甲級リーグ第8節 | Gu Li | Lee Sedol | Lose | W+R | 7.5 | 3340 | 87 | 
+| 2009-06-18 | 第11回中国囲碁甲級リーグ第7節 | Gu Li | Liao Xingwen | Win | B+R | 7.5 | 3253 | -6 | 
+| 2009-06-13 | 第11回中国囲碁甲級リーグ第6節 | Gu Li | Peng Quan | Lose | W+0.5 | 7.5 | 3259 | 28 | 
+| 2009-06-06 | 第11回中国囲碁甲級リーグ第5節 | Wang Haoyang | Gu Li | Win | W+R | 7.5 | 3231 | 7 | 
+| 2009-06-03 | 第6期倡棋杯中国プロ囲碁選手権戦3回戦 | Gu Li | Chang Hao | Lose | W+7 | 7.5 | 3224 | -35 | 
+| 2009-06-01 | 第6期倡棋杯中国プロ囲碁選手権戦2回戦 | Zhang Xuan | Gu Li | Win | W+R | 7.5 | 3259 | -1 | 
+| 2009-05-30 | 第6期倡棋杯中国プロ囲碁選手権戦1回戦 | Zhu Yuanhao | Gu Li | Win | W+1 | 7.5 | 3260 | -56 | 
+| 2009-05-28 | 第11回中国囲碁甲級リーグ第4節 | Gu Li | Sun Li | Lose | W+R | 7.5 | 3316 | -27 | 
+| 2009-05-23 | 第11回中国囲碁甲級リーグ第3節 | Gu Li |  | Win | B+R | 7.5 | 3343 | -11 | 
+| 2009-05-20 | 第14回LG杯世界棋王戦2回戦 | Hane Naoki | Gu Li | Win | W+R | 6.5 | 3354 | 3 | 
+| 2009-05-18 | 第14回LG杯世界棋王戦1回戦 | Gu Li | Mok Jinseok | Win | B+R | 6.5 | 3351 | 2 | 
+| 2009-05-14 | 第11回中国囲碁甲級リーグ第2節 | Gu Li | Wang Yao | Win | B+R | 7.5 | 3349 | 10 | 
+| 2009-05-09 | 第11回中国囲碁甲級リーグ第1節 | Gu Li | Liu Xing | Lose | W+R | 7.5 | 3339 | -7 | 
+| 2009-05-04 | 第1回BCカード杯世界選手権決勝五番勝負第4局 | Gu Li | Cho Hanseung | Win | B+R | 6.5 | 3346 | 1 | 
+| 2009-05-03 | 第1回BCカード杯世界選手権決勝五番勝負第3局 | Cho Hanseung | Gu Li | Win | W+R | 6.5 | 3345 | 4 | 
+| 2009-05-02 | 第1回BCカード杯世界選手権決勝五番勝負第2局 | Gu Li | Cho Hanseung | Lose | W+R | 6.5 | 3341 | 16 | 
+| 2009-05-01 | 第1回BCカード杯世界選手権決勝五番勝負第1局 | Cho Hanseung | Gu Li | Win | W+R | 6.5 | 3325 | 18 | 
+| 2009-04-29 | 第1回BCカード杯世界選手権準決勝 | Cho Hunhyun | Gu Li | Win | W+0.5 | 6.5 | 3307 | 5 | 
+| 2009-04-26 | 第1回BCカード杯世界選手権4回戦 | Gu Li | Piao Wenyao | Win | B+R | 6.5 | 3302 | 15 | 
+| 2009-04-16 | 第23期中国囲碁天元戦挑戦手合三番勝負第2局 | Chen Yaoye | Gu Li | Lose | B+R | 7.5 | 3287 | -9 | 
+| 2009-04-13 | 第22回世界囲碁選手権富士通杯2回戦 | Gu Li | Kono Rin | Lose | W+R | 6.5 | 3296 | 5 | 
+| 2009-04-01 | 第23期中国囲碁天元戦挑戦手合三番勝負第1局 | Gu Li | Chen Yaoye | Lose | W+R | 7.5 | 3291 | -3 | 
+| 2009-03-27 | 第1回BCカード杯世界選手権3回戦 | Gu Li | Heo Yongho | Win | B+R | 6.5 | 3294 | 14 | 
+| 2009-03-21 | 第1回BCカード杯世界選手権2回戦 | Gu Li | Lee Jungwoo | Win | B+2.5 | 6.5 | 3280 | -8 | 
+| 2009-03-16 | 第8回西南棋王戦決勝 | Gu Lingyi | Gu Li | Lose | B+R | 7.5 | 3288 | -10 | 
+| 2009-03-15 | 第8回西南棋王戦準決勝 | Gu Li | Ding Wei | Win | B+R | 7.5 | 3298 | 16 | 
+| 2009-03-14 | 第8回西南棋王戦2回戦 | Shi Yue | Gu Li | Win | W+R | 7.5 | 3282 | 0 | 
+| 2009-03-14 | 第8回西南棋王戦1回戦 |  | Gu Li | Win | W+4.5 | 7.5 | 3282 | -25 | 
+| 2009-03-09 | 2009CCTV杯中国囲棋電視快棋戦1回戦 | Wu Guangya | Gu Li | Lose | B+R | 7.5 | 3307 | -75 | 
+| 2009-03-02 | 第1回BCカード杯世界選手権1回戦 | Lee Wondo | Gu Li | Win | W+R | 6.5 | 3382 | -32 | 
+| 2009-02-28 | 第14期NEC杯囲碁戦決勝 | Kong Jie | Gu Li | Win | W+R | 7.5 | 3414 | 1 | 
+| 2009-02-25 | 第13回LG杯世界棋王戦決勝三番勝負第2局 | Lee Sedol | Gu Li | Win | W+R | 6.5 | 3413 | 75 | 
+| 2009-02-23 | 第13回LG杯世界棋王戦決勝三番勝負第1局 | Gu Li | Lee Sedol | Win | B+R | 6.5 | 3338 | 16 | 
+| 2009-02-19 | 第10回農心辛ラーメン杯世界囲碁最強戦第13戦 | Gu Li | Lee Sedol | Lose | W+3.5 | 6.5 | 3322 | 2 | 
+| 2009-02-08 | 第9期リコー杯囲碁戦3回戦 | Wang Yao | Gu Li | Lose | B+R | 7.5 | 3320 | -39 | 
+| 2009-01-17 | 第10回阿含・桐山杯日中決戦 | Cho U | Gu Li | Win | W+R | 6.5 | 3359 | -77 | 
+| 2009-01-08 | 第4期トヨタ＆デンソー杯囲碁世界王座戦決勝三番勝負第2局 | Piao Wenyao | Gu Li | Win | W+R | 6.5 | 3436 | 20 | 
+| 2009-01-06 | 第4期トヨタ＆デンソー杯囲碁世界王座戦決勝三番勝負第1局 | Gu Li | Piao Wenyao | Win | B+R | 6.5 | 3416 | 24 | 
+| 2008-12-27 | 第10回中国囲碁甲級リーグ第22節 | Gu Li | Wang Lei (b) | Win | B+R | 7.5 | 3392 | 10 | 
+| 2008-12-24 | 第9期リコー杯囲碁戦2回戦 | Gu Li | Wang Lei (s) | Win | B+R | 7.5 | 3382 | 50 | 
+| 2008-12-20 | 第10回中国囲碁甲級リーグ第21節 | Gu Li | Ding Wei | Win | B+R | 7.5 | 3332 | 110 | 
+| 2008-12-13 | 第10回中国囲碁甲級リーグ第20節 | Gu Li | Hu Yaoyu | Win | B+R | 7.5 | 3222 | -1 | 
+| 2008-12-09 | 第7回春蘭杯世界囲碁選手権3回戦 | Lee Changho | Gu Li | Lose | B+R | 7.5 | 3223 | -16 | 
+| 2008-12-06 | 第14期NEC杯囲碁戦準決勝 | Zhu Yuanhao | Gu Li | Win | W+R | 7.5 | 3239 | 2 | 
+| 2008-12-04 | 第10回中国囲碁甲級リーグ第19節 | Liao Xingwen | Gu Li | Lose | B+R | 7.5 | 3237 | 237 | 
+| 2008-11-29 | 第10回中国囲碁甲級リーグ第18節 | Gu Li | Gu Lingyi | Win | B+R | 7.5 | 3000 | -13 | 
+| 2008-11-24 | 第4期威孚房開杯棋王戦3回戦 | Gu Li | Li Kang | Lose | W+R | 7.5 | 3013 | -6 | 
+| 2008-11-22 | 第10回中国囲碁甲級リーグ第17節 | Gu Li | Meng Tailing | Win | B+R | 7.5 | 3019 | 29 | 
+| 2008-11-20 | 第21期中国囲碁名人戦挑戦手合五番勝負第5局 | Gu Li | Piao Wenyao | Win | B+R | 7.5 | 2990 | 4 | 
+| 2008-11-19 | 第21期中国囲碁名人戦挑戦手合五番勝負第4局 | Gu Li | Piao Wenyao | Win | B+R | 7.5 | 2986 | -9 | 
+| 2008-11-17 | 第21期中国囲碁名人戦挑戦手合五番勝負第3局 | Piao Wenyao | Gu Li | Win | W+R | 7.5 | 2995 | -25 | 
+| 2008-11-15 | 第10回中国囲碁甲級リーグ第16節 | Gu Li | Zhong Wenjing | Win | B+3.5 | 7.5 | 3020 | 0 | 
+| 2008-11-13 | 第2回衢州・爛柯杯中国囲棋冠軍戦決勝 | Gu Li | Chang Hao | Win | B+R | 7.5 | 3020 | 6 | 
+| 2008-11-11 | 第2回衢州・爛柯杯中国囲棋冠軍戦準決勝 | Wang Yao | Gu Li | Win | W+1.5 | 7.5 | 3014 | -5 | 
+| 2008-11-10 | 第2回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Xie He | Gu Li | Win | W+R | 7.5 | 3019 | 2 | 
+| 2008-11-08 | 第14期NEC杯囲碁戦2回戦 | Zhou Ruiyang | Gu Li | Win | W+R | 7.5 | 3017 | 18 | 
+| 2008-11-05 | 第13回LG杯世界棋王戦準決勝 | Lee Changho | Gu Li | Win | W+1.5 | 6.5 | 2999 | 12 | 
+| 2008-11-03 | 第13回LG杯世界棋王戦3回戦 | Gu Li | Kim Hyeongwoo | Win | B+R | 6.5 | 2987 | 5 | 
+| 2008-10-29 | 第10期阿含・桐山杯中国早碁オープン戦決勝 | Gu Li | Chang Hao | Win | B+7.5 | 7.5 | 2982 | -574 | 
+| 2008-10-26 | 第21期中国囲碁名人戦挑戦手合五番勝負第2局 | Gu Li | Piao Wenyao | Lose | W+R | 7.5 | 3556 | -5 | 
+| 2008-10-20 | 第21期中国囲碁名人戦挑戦手合五番勝負第1局 | Piao Wenyao | Gu Li | Lose | B+R | 7.5 | 3561 | 15 | 
+| 2008-10-10 | 第10期阿含・桐山杯中国早碁オープン戦準決勝 | Shi Yue | Gu Li | Win | W+4.5 | 7.5 | 3546 | 45 | 
+| 2008-10-07 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Gu Li | Kang Dongyun | Lose | W+2.5 | 6.5 | 3501 | 0 | 
+| 2008-10-07 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Cho Riyu | Gu Li | Win | W+R | 6.5 | 3501 | -30 | 
+| 2008-10-05 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | O Rissei | Gu Li | Win | W+R | 6.5 | 3531 | 11 | 
+| 2008-09-28 | 第5期倡棋杯中国プロ囲碁選手権戦準決勝第3局 | Qiu Jun | Gu Li | Lose | B+R | 7.5 | 3520 | -14 | 
+| 2008-09-12 | 第10期阿含・桐山杯中国早碁オープン戦2回戦 |  | Gu Li | Win | W+R | 7.5 | 3534 | 10 | 
+| 2008-09-10 | 第4期威孚房開杯棋王戦2回戦 | Liu Xiaoguang | Gu Li | Win | W+R | 7.5 | 3524 | 0 | 
+| 2008-09-10 | 第4期威孚房開杯棋王戦1回戦 | Gu Li | Zhong Wenjing | Win | B+R | 7.5 | 3524 | 1 | 
+| 2008-09-08 | 第10期阿含・桐山杯中国早碁オープン戦1回戦 | Gu Li | Qiu Jun | Win | B+R | 7.5 | 3523 | -23 | 
+| 2008-09-03 | 第13回三星火災杯世界オープン囲碁選手権1回戦 | Jin Siyoung | Gu Li | Lose | B+0.5 | 6.5 | 3546 | -3 | 
+| 2008-08-29 | 第4期トヨタ＆デンソー杯囲碁世界王座戦準決勝 | Gu Li | Cho U | Win | B+R | 6.5 | 3549 | 4 | 
+| 2008-08-27 | 第4期トヨタ＆デンソー杯囲碁世界王座戦3回戦 | Gu Li | Cho Hanseung | Win | B+2.5 | 6.5 | 3545 | -14 | 
+| 2008-08-25 | 第4期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Park Yeonghun | Gu Li | Win | W+R | 6.5 | 3559 | 5 | 
+| 2008-08-23 | 第4期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Gu Li | Hikosaka Naoto | Win | B+R | 6.5 | 3554 | 15 | 
+| 2008-08-19 | 第5期倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Qiu Jun | Gu Li | Lose | B+R | 7.5 | 3539 | 305 | 
+| 2008-07-25 | 第5期倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Gu Li | Qiu Jun | Win | B+R | 7.5 | 3234 | -21 | 
+| 2008-07-07 | 第21回世界囲碁選手権富士通杯決勝 | Gu Li | Lee Changho | Win | B+R | 6.5 | 3255 | 15 | 
+| 2008-07-05 | 第21回世界囲碁選手権富士通杯準決勝 | Chang Hao | Gu Li | Win | W+R | 6.5 | 3240 | 10 | 
+| 2008-07-01 | 第10回中国囲碁甲級リーグ第12節 | Gu Li | Kong Jie | Win | B+R | 7.5 | 3230 | 23 | 
+| 2008-06-26 | 第12回中韓天元対抗戦第2局 | Gu Li | Weon Seongjin | Lose | W+R | 6.5 | 3207 | -9 | 
+| 2008-06-24 | 第12回中韓天元対抗戦第1局 | Weon Seongjin | Gu Li | Lose | B+R | 6.5 | 3216 | -3 | 
+| 2008-06-21 | 第10回中国囲碁甲級リーグ第11節 | Gu Li | Lee Sedol | Lose | W+R | 7.5 | 3219 | -19 | 
+| 2008-06-19 | 第5期倡棋杯中国プロ囲碁選手権戦3回戦 | Zhou Ruiyang | Gu Li | Win | W+R | 7.5 | 3238 | 6 | 
+| 2008-06-14 | 第10回中国囲碁甲級リーグ第10節 | Ding Wei | Gu Li | Win | W+R | 7.5 | 3232 | -2 | 
+| 2008-06-11 | 第2回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Gu Li | Zhou Heyang | Win | B+R | 7.5 | 3234 | 5 | 
+| 2008-06-09 | 第2回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Gu Li | Peng Liyao | Win | B+R | 7.5 | 3229 | 14 | 
+| 2008-06-07 | 第21回世界囲碁選手権富士通杯3回戦 | Gu Li | Lee Sedol | Win | B+R | 6.5 | 3215 | 3 | 
+| 2008-06-05 | 第10回中国囲碁甲級リーグ第9節 | Hu Yaoyu | Gu Li | Lose | B+R | 7.5 | 3212 | 13 | 
+| 2008-06-02 | 第5期倡棋杯中国プロ囲碁選手権戦2回戦 | Gu Li | Luo Xihe | Win | B+R | 7.5 | 3199 | 18 | 
+| 2008-05-31 | 第10回中国囲碁甲級リーグ第8節 | Li Kang | Gu Li | Win | W+R | 7.5 | 3181 | -2 | 
+| 2008-05-28 | 第13回LG杯世界棋王戦2回戦 | Gu Li | Weon Seongjin | Win | B+2.5 | 6.5 | 3183 | -7 | 
+| 2008-05-26 | 第13回LG杯世界棋王戦1回戦 | Gu Li | Mok Jinseok | Win | B+R | 6.5 | 3190 | -5 | 
+| 2008-05-23 | 第10回中国囲碁甲級リーグ第7節 | Gu Lingyi | Gu Li | Win | W+R | 7.5 | 3195 | 23 | 
+| 2008-05-17 | 第1期中国竜星戦決勝 | Kong Jie | Gu Li | Win | W+0.5 | 7.5 | 3172 | 15 | 
+| 2008-05-15 | 第10回中国囲碁甲級リーグ第6節 | Meng Tailing | Gu Li | Win | W+R | 7.5 | 3157 | 10 | 
+| 2008-05-10 | 第10回中国囲碁甲級リーグ第5節 | Gu Li | Li Zhe | Lose | W+R | 7.5 | 3147 | 1 | 
+| 2008-05-02 | 第6回応氏杯世界選手権2回戦 | Choi Cheolhan | Gu Li | Lose | B+R | 7.5 | 3146 | -21 | 
+| 2008-04-30 | 第6回応氏杯世界選手権1回戦 | Yamashita Keigo | Gu Li | Win | W+R | 7.5 | 3167 | 211 | 
+| 2008-04-19 | 第8期リコー杯囲碁戦決勝 | Qiu Jun | Gu Li | Lose | B+1.5 | 7.5 | 2956 | 17 | 
+| 2008-04-17 | 第10回中国囲碁甲級リーグ第4節 | Wang Lei (s) | Gu Li | Win | W+R | 7.5 | 2939 | 13 | 
+| 2008-04-14 | 第21回世界囲碁選手権富士通杯2回戦 | Lee Yeongkyu | Gu Li | Win | W+R | 6.5 | 2926 | -6 | 
+| 2008-04-08 | 第22期中国囲碁天元戦挑戦手合三番勝負第3局 | Zhou Heyang | Gu Li | Win | W+R | 7.5 | 2932 | 4 | 
+| 2008-04-07 | 第22期中国囲碁天元戦挑戦手合三番勝負第2局 | Gu Li | Zhou Heyang | Lose | W+R | 7.5 | 2928 | -6 | 
+| 2008-04-05 | 第10回中国囲碁甲級リーグ第3節 | Zhou Heyang | Gu Li | Win | W+R | 7.5 | 2934 | 13 | 
+| 2008-04-01 | 2008CCTV杯中国囲棋電視快棋戦3回戦 | Gu Li | Kong Jie | Lose | W+R | 7.5 | 2921 | -6 | 
+| 2008-03-29 | 第10回中国囲碁甲級リーグ第2節 | Gu Li | Luo Xihe | Win | B+R | 7.5 | 2927 | 10 | 
+| 2008-03-25 | 第7回西南棋王戦2回戦 | Gu Li | Dang Yifei | Lose | W+R | 7.5 | 2917 | 0 | 
+| 2008-03-25 | 第7回西南棋王戦1回戦 | Gu Li | Wang Yao | Win | B+R | 7.5 | 2917 | -3 | 
+| 2008-03-22 | 第10回中国囲碁甲級リーグ第1節 | Kong Jie | Gu Li | Win | W+R | 7.5 | 2920 | 11 | 
+| 2008-03-19 | 第22期中国囲碁天元戦挑戦手合三番勝負第1局 | Zhou Heyang | Gu Li | Win | W+R | 7.5 | 2909 | 8 | 
+| 2008-03-17 | 第7回春蘭杯世界囲碁選手権2回戦 | Gu Li | Weon Seongjin | Win | B+R | 7.5 | 2901 | 56 | 
+| 2008-03-11 | 第8期リコー杯囲碁戦準決勝 | Gu Li | Xie He | Win | B+R | 7.5 | 2845 | 12 | 
+| 2008-03-08 | 第8期リコー杯囲碁戦4回戦 | Gu Li | Liu Xing | Win | B+R | 7.5 | 2833 | 8 | 
+| 2008-03-07 | 第8期リコー杯囲碁戦3回戦 | Gu Li | Gu Lingyi | Win | B+R | 7.5 | 2825 | 25 | 
+| 2008-01-18 | 第4期倡棋杯中国プロ囲碁選手権戦決勝三番勝負第3局 | Liu Xing | Gu Li | Win | W+R | 7.5 | 2800 | 1 | 
+| 2008-01-17 | 第4期倡棋杯中国プロ囲碁選手権戦決勝三番勝負第2局 | Gu Li | Liu Xing | Lose | W+R | 7.5 | 2799 | 4 | 
+| 2008-01-15 | 第4期倡棋杯中国プロ囲碁選手権戦決勝三番勝負第1局 | Liu Xing | Gu Li | Win | W+R | 7.5 | 2795 | 4 | 
+| 2008-01-12 | 第13期NEC杯囲碁戦決勝 | Kong Jie | Gu Li | Win | W+R | 7.5 | 2791 | 7 | 
+| 2008-01-07 | 第8期リコー杯囲碁戦2回戦 | Gu Li |  | Win | B+R | 7.5 | 2784 | -1 | 
+| 2007-12-28 | 第20期中国囲碁名人戦挑戦手合五番勝負第3局 | Gu Li | Ding Wei | Win | B+R | 7.5 | 2785 | 13 | 
+| 2007-12-24 | 2008CCTV杯中国囲棋電視快棋戦2回戦 | Gu Li | Tan Xiao | Win | B+R | 7.5 | 2772 | 0 | 
+| 2007-12-24 | 2008CCTV杯中国囲棋電視快棋戦1回戦 |  | Gu Li | Win | W+R | 7.5 | 2772 | 5 | 
+| 2007-12-22 | 第9回中国囲碁甲級リーグ第22節 | Gu Li | Wang Haoyang | Lose | W+0.5 | 7.5 | 2767 | -9 | 
+| 2007-12-20 | 第20期中国囲碁名人戦挑戦手合五番勝負第2局 | Ding Wei | Gu Li | Win | W+R | 7.5 | 2776 | -4 | 
+| 2007-12-18 | 第20期中国囲碁名人戦挑戦手合五番勝負第1局 | Gu Li | Ding Wei | Win | B+3.5 | 7.5 | 2780 | 2 | 
+| 2007-12-15 | 第9回中国囲碁甲級リーグ第21節 | Niu Yutian | Gu Li | Lose | B+R | 7.5 | 2778 | -6 | 
+| 2007-12-08 | 第9回中国囲碁甲級リーグ第20節 | Gu Li | Wang Yao | Win | B+R | 7.5 | 2784 | -8 | 
+| 2007-12-04 | 第4期倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Qiu Jun | Gu Li | Win | W+T | 7.5 | 2792 | 0 | 
+| 2007-12-01 | 第9回中国囲碁甲級リーグ第19節 | Kong Jie | Gu Li | Lose | B+1.5 | 7.5 | 2792 | -35 | 
+| 2007-11-23 | 第12回三星火災杯世界オープン囲碁選手権準決勝三番勝負第3局 | Park Yeonghun | Gu Li | Lose | B+1.5 | 6.5 | 2827 | -29 | 
+| 2007-11-22 | 第12回三星火災杯世界オープン囲碁選手権準決勝三番勝負第2局 | Gu Li | Park Yeonghun | Lose | W+1.5 | 6.5 | 2856 | -16 | 
+| 2007-11-20 | 第12回三星火災杯世界オープン囲碁選手権準決勝三番勝負第1局 | Park Yeonghun | Gu Li | Win | W+R | 6.5 | 2872 | 2 | 
+| 2007-11-17 | 第9回中国囲碁甲級リーグ第17節 | Luo Xihe | Gu Li | Lose | B+R | 7.5 | 2870 | 8 | 
+| 2007-11-13 | 第4期倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Gu Li | Qiu Jun | Win | B+R | 7.5 | 2862 | 18 | 
+| 2007-11-10 | 第9回中国囲碁甲級リーグ第16節 | Gu Li |  | Win | B+R | 7.5 | 2844 | 23 | 
+| 2007-11-03 | 第13期NEC杯囲碁戦準決勝 | Qiu Jun | Gu Li | Win | W+R | 7.5 | 2821 | 25 | 
+| 2007-11-01 | 第9回中国囲碁甲級リーグ第15節 | Li Zhe | Gu Li | Win | W+0.5 | 7.5 | 2796 | 24 | 
+| 2007-10-30 | 第9期阿含・桐山杯中国早碁オープン戦準決勝 | Gu Li | Liu Xing | Lose | W+R | 7.5 | 2772 | -5 | 
+| 2007-10-28 | 第4期倡棋杯中国プロ囲碁選手権戦3回戦 | Gu Li | Chen Yaoye | Win | B+3 | 7.5 | 2777 | 10 | 
+| 2007-10-26 | 第4期倡棋杯中国プロ囲碁選手権戦2回戦 | Gu Li | Luo Xihe | Win | B+R | 7.5 | 2767 | -32 | 
+| 2007-10-20 | 第9回中国囲碁甲級リーグ第14節 |  | Gu Li | Win | W+R | 7.5 | 2799 | -11 | 
+| 2007-10-13 | 第9回中国囲碁甲級リーグ第13節 | Lee Sedol | Gu Li | Lose | B+R | 7.5 | 2810 | -30 | 
+| 2007-10-09 | 第12回三星火災杯世界オープン囲碁選手権3回戦 | Gu Li | Yoo Changhyuk | Win | B+9.5 | 6.5 | 2840 | -19 | 
+| 2007-09-29 | 第9期阿含・桐山杯中国早碁オープン戦2回戦 | Liu Xiaoguang | Gu Li | Win | W+R | 7.5 | 2859 | -9 | 
+| 2007-09-27 | 第9回中国囲碁甲級リーグ第12節 | Xie He | Gu Li | Lose | B+R | 7.5 | 2868 | -34 | 
+| 2007-09-06 | 第12回三星火災杯世界オープン囲碁選手権2回戦 | Gu Li | Kang Dongyun | Win | B+R | 6.5 | 2902 | -24 | 
+| 2007-09-04 | 第12回三星火災杯世界オープン囲碁選手権1回戦 | Gu Li | Cho Hyeyeon | Win | B+R | 6.5 | 2926 | 34 | 
+| 2007-08-29 | 第11回中韓天元対抗戦第2局 | Cho Hanseung | Gu Li | Win | W+0.5 | 7.5 | 2892 | -9 | 
+| 2007-08-27 | 第11回中韓天元対抗戦第1局 | Gu Li | Cho Hanseung | Win | B+R | 7.5 | 2901 | -1 | 
+| 2007-08-25 | 第9回中国囲碁甲級リーグ第11節 | Wang Haoyang | Gu Li | Win | W+R | 7.5 | 2902 | 3 | 
+| 2007-08-18 | 第9回中国囲碁甲級リーグ第10節 | Gu Li | Li Kang | Win | B+R | 7.5 | 2899 | -251 | 
+| 2007-08-11 | 第13期NEC杯囲碁戦2回戦 | Gu Li | Tuo Jiaxi | Win | B+R | 7.5 | 3150 | 14 | 
+| 2007-08-09 | 第9回中国囲碁甲級リーグ第9節 | Wang Yao | Gu Li | Win | W+R | 7.5 | 3136 | -171 | 
+| 2007-07-28 | 第9期阿含・桐山杯中国早碁オープン戦1回戦 | Chang Hao | Gu Li | Win | W+R | 7.5 | 3307 | 96 | 
+| 2007-07-07 | 第9回中国囲碁甲級リーグ第8節 | Gu Li | Chen Yaoye | Lose | W+R | 7.5 | 3211 | -50 | 
+| 2007-06-30 | 第9回中国囲碁甲級リーグ第7節 | Qiu Jun | Gu Li | Lose | B+R | 7.5 | 3261 | -36 | 
+| 2007-06-23 | 第9回中国囲碁甲級リーグ第6節 | Gu Li | Luo Xihe | Lose | W+R | 7.5 | 3297 | -10 | 
+| 2007-06-16 | 第9回中国囲碁甲級リーグ第5節 |  | Gu Li | Win | W+R | 7.5 | 3307 | 4 | 
+| 2007-06-09 | 第9回中国囲碁甲級リーグ第4節 | Gu Li | Li Zhe | Lose | W+R | 7.5 | 3303 | 53 | 
+| 2007-06-06 | 第12回LG杯世界棋王戦2回戦 | Gu Li | Han Sanghoon | Lose | W+R | 6.5 | 3250 | -19 | 
+| 2007-06-04 | 第12回LG杯世界棋王戦1回戦 | Lee Yeongkyu | Gu Li | Win | W+4.5 | 6.5 | 3269 | 0 | 
+| 2007-05-24 | 第9回中国囲碁甲級リーグ第3節 |  | Gu Li | Win | W+R | 7.5 | 3269 | 34 | 
+| 2007-05-19 | 第9回中国囲碁甲級リーグ第2節 | Gu Li | Shi Yue | Lose | W+R | 7.5 | 3235 | -46 | 
+| 2007-05-12 | 第9回中国囲碁甲級リーグ第1節 | Gu Li | Xie He | Lose | W+R | 7.5 | 3281 | -31 | 
+| 2007-04-21 | 第21期中国囲碁天元戦挑戦手合三番勝負第3局 | Liu Shizhen | Gu Li | Win | W+2.5 | 7.5 | 3312 | -7 | 
+| 2007-04-20 | 第21期中国囲碁天元戦挑戦手合三番勝負第2局 | Gu Li | Liu Shizhen | Lose | W+R | 7.5 | 3319 | 21 | 
+| 2007-04-18 | 第21期中国囲碁天元戦挑戦手合三番勝負第1局 | Liu Shizhen | Gu Li | Win | W+R | 7.5 | 3298 | 3 | 
+| 2007-04-16 | 第20回世界囲碁選手権富士通杯2回戦 | Yoda Norimoto | Gu Li | Lose | B+R | 6.5 | 3295 | -16 | 
+| 2007-03-29 | 2007CCTV杯中国囲棋電視快棋戦3回戦 | Gu Li |  | Lose | W+R | 7.5 | 3311 | -1 | 
+| 2007-03-28 | 2007CCTV杯中国囲棋電視快棋戦2回戦 | Gu Li | Liu Jing | Win | B+R | 7.5 | 3312 | -15 | 
+| 2007-03-25 | 第6回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Gu Li | Chang Hao | Win | B+R | 7.5 | 3327 | 4 | 
+| 2007-03-23 | 第6回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Chang Hao | Gu Li | Win | W+0.5 | 7.5 | 3323 | -42 | 
+| 2007-03-13 | 第6回西南棋王戦1回戦 | Gu Li | Yu Ping | Lose | W+2.5 | 7.5 | 3365 | 372 | 
+| 2007-02-09 | 第8回農心辛ラーメン杯世界囲碁最強戦第14戦 | Lee Changho | Gu Li | Lose | B+1.5 | 6.5 | 2993 | -19 | 
+| 2007-01-23 | 第3期倡棋杯中国プロ囲碁選手権戦決勝三番勝負第3局 | Kong Jie | Gu Li | Lose | B+R | 7.5 | 3012 | -10 | 
+| 2007-01-21 | 第3期倡棋杯中国プロ囲碁選手権戦決勝三番勝負第2局 | Kong Jie | Gu Li | Lose | B+R | 7.5 | 3022 | 12 | 
+| 2007-01-19 | 第3期倡棋杯中国プロ囲碁選手権戦決勝三番勝負第1局 | Gu Li | Kong Jie | Win | B+R | 7.5 | 3010 | 43 | 
+| 2007-01-08 | 第19期中国囲碁名人戦挑戦手合五番勝負第3局 | Zhou Ruiyang | Gu Li | Win | W+R | 7.5 | 2967 | 5 | 
+| 2007-01-06 | 第19期中国囲碁名人戦挑戦手合五番勝負第2局 | Gu Li | Zhou Ruiyang | Win | B+R | 7.5 | 2962 | 2 | 
+| 2007-01-04 | 第19期中国囲碁名人戦挑戦手合五番勝負第1局 | Zhou Ruiyang | Gu Li | Win | W+R | 7.5 | 2960 | 5 | 
+| 2006-12-29 | 第7期リコー杯囲碁戦3回戦 | Gu Li | Wang Lei (b) | Lose | W+R | 7.5 | 2955 | -8 | 
+| 2006-12-27 | 第3期倡棋杯中国プロ囲碁選手権戦準決勝第3局 | Gu Li | Hu Yaoyu | Win | B+R | 7.5 | 2963 | 1 | 
+| 2006-12-25 | 第3期倡棋杯中国プロ囲碁選手権戦準決勝第2局 | Hu Yaoyu | Gu Li | Lose | B+R | 7.5 | 2962 | -1 | 
+| 2006-12-21 | 2007CCTV杯中国囲棋電視快棋戦1回戦 | Gu Li | Li Kang | Win | B+R | 7.5 | 2963 | -3 | 
+| 2006-12-16 | 第8回中国囲碁甲級リーグ第21節 | Gu Li | Nie Weiping | Win | B+R | 7.5 | 2966 | -12 | 
+| 2006-12-09 | 第8回中国囲碁甲級リーグ第20節 | Gu Li | Ding Wei | Lose | W+R | 7.5 | 2978 | -28 | 
+| 2006-12-03 | 第7期リコー杯囲碁戦2回戦 | Gu Li | Tan Xiao | Win | B+R | 7.5 | 3006 | 7 | 
+| 2006-11-30 | 第8回中国囲碁甲級リーグ第19節 | Zhou Heyang | Gu Li | Win | W+2.5 | 7.5 | 2999 | -7 | 
+| 2006-11-25 | 第8回中国囲碁甲級リーグ第18節 | Gu Li | Zhou Ruiyang | Win | B+R | 7.5 | 3006 | 11 | 
+| 2006-11-18 | 第8回中国囲碁甲級リーグ第17節 | Liu Xing | Gu Li | Win | W+R | 7.5 | 2995 | 44 | 
+| 2006-11-11 | 第8回中国囲碁甲級リーグ第16節 | Gu Li | Lee Sedol | Lose | W+R | 7.5 | 2951 | -41 | 
+| 2006-11-07 | 第3期倡棋杯中国プロ囲碁選手権戦準決勝第1局 | Gu Li | Hu Yaoyu | Win | B+1 | 7.5 | 2992 | 6 | 
+| 2006-11-02 | 第8回中国囲碁甲級リーグ第15節 | Wang Haoyang | Gu Li | Lose | B+1.5 | 7.5 | 2986 | -11 | 
+| 2006-10-31 | 第11回LG杯世界棋王戦3回戦 | Gu Li | Hong Minpyo | Lose | W+5.5 | 6.5 | 2997 | -28 | 
+| 2006-10-28 | 第8回中国囲碁甲級リーグ第14節 | Gu Li | Hu Yaoyu | Lose | W+R | 7.5 | 3025 | 11 | 
+| 2006-10-26 | 第3期倡棋杯中国プロ囲碁選手権戦3回戦 | Zhou Ruiyang | Gu Li | Win | W+1 | 7.5 | 3014 | -19 | 
+| 2006-10-25 | 第3期倡棋杯中国プロ囲碁選手権戦2回戦 | Luo Xihe | Gu Li | Win | W+3 | 7.5 | 3033 | 12 | 
+| 2006-10-23 | 第3期倡棋杯中国プロ囲碁選手権戦1回戦 | Gu Li | Ma Xiaochun | Win | B+R | 7.5 | 3021 | -11 | 
+| 2006-10-21 | 第8回中国囲碁甲級リーグ第13節 | Kong Jie | Gu Li | Win | W+R | 7.5 | 3032 | -59 | 
+| 2006-10-14 | 第12期NEC杯囲碁戦2回戦 | Gu Li | Huang Yizhong | Lose | W+4.5 | 7.5 | 3091 | -3 | 
+| 2006-10-12 | 第8回中国囲碁甲級リーグ第12節 | Gu Li | Li Zhe | Win | B+1.5 | 7.5 | 3094 | 26 | 
+| 2006-09-30 | 第6回春蘭杯世界囲碁選手権準決勝 | Gu Li | Xie He | Win | B+R | 7.5 | 3068 | 12 | 
+| 2006-09-28 | 第6回春蘭杯世界囲碁選手権3回戦 | Gu Li | Lee Changho | Win | B+R | 7.5 | 3056 | 2 | 
+| 2006-09-22 | 第1回衢州・爛柯杯中国囲棋冠軍戦決勝 | Yu Bin | Gu Li | Lose | B+R | 7.5 | 3054 | -10 | 
+| 2006-09-21 | 第1回衢州・爛柯杯中国囲棋冠軍戦準決勝 | Zhou Heyang | Gu Li | Win | W+R | 7.5 | 3064 | 20 | 
+| 2006-09-19 | 第1回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Gu Li | Chen Zude | Win | B+R | 7.5 | 3044 | -36 | 
+| 2006-09-08 | 第11回三星火災杯世界オープン囲碁選手権2回戦 | Gu Li | Choi Cheolhan | Lose | W+0.5 | 6.5 | 3080 | -4 | 
+| 2006-09-06 | 第11回三星火災杯世界オープン囲碁選手権1回戦 | Gu Li | Park Cheongsang | Win | B+R | 6.5 | 3084 | 13 | 
+| 2006-08-28 | 第3期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Lee Changho | Gu Li | Lose | B+R | 6.5 | 3071 | -9 | 
+| 2006-08-26 | 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Gu Li | Ryu Shikun | Win | B+1.5 | 6.5 | 3080 | -17 | 
+| 2006-08-21 | 第10回中韓天元対抗戦第3局 | Ko Keuntae | Gu Li | Lose | B+R | 6.5 | 3097 | -13 | 
+| 2006-08-20 | 第10回中韓天元対抗戦第2局 | Ko Keuntae | Gu Li | Lose | B+R | 6.5 | 3110 | 1 | 
+| 2006-08-18 | 第10回中韓天元対抗戦第1局 | Gu Li | Ko Keuntae | Win | B+7.5 | 6.5 | 3109 | -24 | 
+| 2006-08-05 | 第8回中国囲碁甲級リーグ第11節 | Wang Yuhui | Gu Li | Win | W+R | 7.5 | 3133 | 6 | 
+| 2006-08-03 | 第8期阿含・桐山杯中国早碁オープン戦1回戦 | Gu Li | Chen Yaoye | Lose | W+R | 7.5 | 3127 | 15 | 
+| 2006-07-31 | 第8回農心杯中国選抜戦 | Gu Li | Liu Xing | Win | B+R | 6.5 | 3112 | 6 | 
+| 2006-07-27 | 第8回中国囲碁甲級リーグ第10節 | Gu Li |  | Win | B+R | 7.5 | 3106 | -94 | 
+| 2006-07-08 | 第8回中国囲碁甲級リーグ第9節 | Wang Yao | Gu Li | Win | W+R | 7.5 | 3200 | 24 | 
+| 2006-07-01 | 第8回中国囲碁甲級リーグ第8節 | Gu Li | Xie He | Win | B+R | 7.5 | 3176 | 13 | 
+| 2006-06-29 | 第8回農心杯中国選抜戦 | Li Zhe | Gu Li | Win | W+R | 6.5 | 3163 | -206 | 
+| 2006-06-24 | 第8回中国囲碁甲級リーグ第7節 | Zhou Ruiyang | Gu Li | Win | W+R | 7.5 | 3369 | 47 | 
+| 2006-06-15 | 第8回中国囲碁甲級リーグ第6節 | Gu Li | Luo Xihe | Win | B+9.5 | 7.5 | 3322 | 10 | 
+| 2006-06-10 | 第8回中国囲碁甲級リーグ第5節 | Lee Sedol | Gu Li | Win | W+R | 7.5 | 3312 | 6 | 
+| 2006-06-08 | 2006CCTV杯中国囲棋電視快棋戦3回戦 | Luo Xihe | Gu Li | Lose | B+1.5 | 7.5 | 3306 | -3 | 
+| 2006-06-03 | 第8回中国囲碁甲級リーグ第4節 | Gu Li | Wang Haoyang | Win | B+3.5 | 7.5 | 3309 | 11 | 
+| 2006-05-31 | 第20期中国囲碁天元戦挑戦手合三番勝負第3局 | Gu Li | Zhou Ruiyang | Win | B+3.5 | 7.5 | 3298 | 6 | 
+| 2006-05-30 | 第20期中国囲碁天元戦挑戦手合三番勝負第2局 | Gu Li | Zhou Ruiyang | Win | B+R | 7.5 | 3292 | 7 | 
+| 2006-05-28 | 第20期中国囲碁天元戦挑戦手合三番勝負第1局 | Zhou Ruiyang | Gu Li | Lose | B+R | 7.5 | 3285 | -7 | 
+| 2006-05-25 | 第3回中国全国体育大会囲碁戦第8戦 | Xie He | Gu Li | Lose | B+R | 7.5 | 3292 | -7 | 
+| 2006-05-24 | 第3回中国全国体育大会囲碁戦第7戦 | Gu Li | Li Zhe | Win | B+3.5 | 7.5 | 3299 | 0 | 
+| 2006-05-24 | 第3回中国全国体育大会囲碁戦 | Zhou Heyang | Gu Li | Win | W+R | 7.5 | 3299 | 118 | 
+| 2006-05-17 | 第11回LG杯世界棋王戦2回戦 | Gu Li | Ko Keuntae | Win | B+R | 6.5 | 3181 | 2 | 
+| 2006-05-15 | 第11回LG杯世界棋王戦1回戦 | Park Yeonghun | Gu Li | Win | W+R | 6.5 | 3179 | 8 | 
+| 2006-05-11 | 第8回中国囲碁甲級リーグ第3節 | Hu Yaoyu | Gu Li | Win | W+R | 7.5 | 3171 | 6 | 
+| 2006-05-03 | 第5回CSK杯囲碁アジア対抗戦第3戦 | Gu Li | Lee Sedol | Win | B+R | 6.5 | 3165 | 12 | 
+| 2006-05-02 | 第5回CSK杯囲碁アジア対抗戦第2戦 | Gu Li | Yamashita Keigo | Win | B+R | 6.5 | 3153 | -5 | 
+| 2006-05-01 | 第5回CSK杯囲碁アジア対抗戦第1戦 | Cho U | Gu Li | Lose | B+5.5 | 6.5 | 3158 | -3 | 
+| 2006-04-21 | 第10回LG杯世界棋王戦決勝五番勝負第5局 | Gu Li | Chen Yaoye | Win | B+R | 6.5 | 3161 | -12 | 
+| 2006-04-19 | 第10回LG杯世界棋王戦決勝五番勝負第4局 | Gu Li | Chen Yaoye | Lose | W+R | 6.5 | 3173 | -4 | 
+| 2006-04-17 | 第10回LG杯世界棋王戦決勝五番勝負第3局 | Chen Yaoye | Gu Li | Lose | B+2.5 | 6.5 | 3177 | -10 | 
+| 2006-04-10 | 第19回世界囲碁選手権富士通杯2回戦 | Yuki Satoshi | Gu Li | Lose | B+R | 6.5 | 3187 | 2 | 
+| 2006-04-03 | 2006CCTV杯中国囲棋電視快棋戦2回戦 | Chen Yaoye | Gu Li | Win | W+R | 7.5 | 3185 | -4 | 
+| 2006-03-17 | 第5回西南棋王戦準決勝 | Wang Xi | Gu Li | Lose | B+R | 7.5 | 3189 | -8 | 
+| 2006-03-16 | 第5回西南棋王戦2回戦 | Gu Li | Ding Wei | Win | B+R | 7.5 | 3197 | 0 | 
+| 2006-03-16 | 第5回西南棋王戦1回戦 |  | Gu Li | Win | W+R | 7.5 | 3197 | 6 | 
+| 2006-03-13 | 第6回春蘭杯世界囲碁選手権2回戦 | Kono Rin | Gu Li | Win | W+R | 7.5 | 3191 | -3 | 
+| 2006-03-08 | 第10回LG杯世界棋王戦決勝五番勝負第2局 | Gu Li | Chen Yaoye | Win | B+R | 6.5 | 3194 | 6 | 
+| 2006-03-06 | 第10回LG杯世界棋王戦決勝五番勝負第1局 | Chen Yaoye | Gu Li | Win | W+R | 6.5 | 3188 | 9 | 
+| 2006-03-02 | 第6期リコー杯囲碁戦準決勝 | Gu Li | Wang Xi | Lose | W+R | 7.5 | 3179 | -12 | 
+| 2006-02-24 | 第5回CSK杯囲碁アジア対抗戦中国選抜戦 | Gu Li | Piao Wenyao | Win | B+R | 6.5 | 3191 | 6 | 
+| 2006-02-20 | 第5回CSK杯囲碁アジア対抗戦中国選抜戦 | Luo Xihe | Gu Li | Win | W+R | 6.5 | 3185 | -18 | 
+| 2006-02-14 | 第6期リコー杯囲碁戦4回戦 | Gu Li | Wang Lei (b) | Win | B+1.5 | 7.5 | 3203 | -41 | 
+| 2006-01-17 | 2006CCTV杯中国囲棋電視快棋戦1回戦 | Sun Li | Gu Li | Win | W+R | 7.5 | 3244 | -113 | 
+| 2006-01-14 | 第11期NEC杯囲碁戦決勝 | Gu Li | Liu Shizhen | Win | B+R | 7.5 | 3357 | 212 | 
+| 2006-01-12 | 第18期中国囲碁名人戦挑戦手合五番勝負第3局 | Yu Bin | Gu Li | Win | W+R | 7.5 | 3145 | 4 | 
+| 2006-01-10 | 第7回阿含・桐山杯日中決戦 | Iyama Yuta | Gu Li | Win | W+R | 7.5 | 3141 | -12 | 
+| 2006-01-04 | 第6期リコー杯囲碁戦3回戦 | Ma Xiaochun | Gu Li | Win | W+R | 7.5 | 3153 | 12 | 
+| 2005-12-31 | 第7回中国囲碁甲級リーグ第22節 |  | Gu Li | Win | W+R | 7.5 | 3141 | 3 | 
+| 2005-12-26 | 第7回中国囲碁甲級リーグ第21節 | Gu Li |  | Win | B+R | 7.5 | 3138 | -222 | 
+| 2005-12-17 | 第11期NEC杯囲碁戦準決勝 | Zhou Heyang | Gu Li | Win | W+R | 7.5 | 3360 | 2 | 
+| 2005-12-15 | 第18期中国囲碁名人戦挑戦手合五番勝負第2局 | Gu Li | Yu Bin | Win | B+15.5 | 7.5 | 3358 | 6 | 
+| 2005-12-13 | 第18期中国囲碁名人戦挑戦手合五番勝負第1局 | Yu Bin | Gu Li | Win | W+2.5 | 7.5 | 3352 | -6 | 
+| 2005-12-10 | 第7回中国囲碁甲級リーグ第20節 | Lee Sedol | Gu Li | Win | W+R | 7.5 | 3358 | -45 | 
+| 2005-12-03 | 第7回中国囲碁甲級リーグ第19節 | Gu Li | Luo Xihe | Lose | W+R | 7.5 | 3403 | 17 | 
+| 2005-11-26 | 第7回中国囲碁甲級リーグ第18節 | Wang Yao | Gu Li | Win | W+R | 7.5 | 3386 | 0 | 
+| 2005-11-22 | 第7期阿含・桐山杯中国早碁オープン戦決勝 | Qiu Jun | Gu Li | Win | W+R | 7.5 | 3386 | 6 | 
+| 2005-11-19 | 第11期NEC杯囲碁戦2回戦 | Zhu Songli | Gu Li | Win | W+R | 7.5 | 3380 | 70 | 
+| 2005-11-12 | 第7回中国囲碁甲級リーグ第17節 | Gu Li | Piao Wenyao | Win | B+R | 7.5 | 3310 | 287 | 
+| 2005-11-05 | 第7回中国囲碁甲級リーグ第16節 | Gu Li | Chang Hao | Lose | W+R | 7.5 | 3023 | 1 | 
+| 2005-11-02 | 第7期阿含・桐山杯中国早碁オープン戦準決勝 | Liu Shizhen | Gu Li | Win | W+R | 7.5 | 3022 | -242 | 
+| 2005-10-29 | 第7回中国囲碁甲級リーグ第15節 | Gu Li | Ding Wei | Win | B+R | 7.5 | 3264 | 21 | 
+| 2005-10-25 | 第2期倡棋杯中国プロ囲碁選手権戦2回戦 | Zhou Ruiyang | Gu Li | Lose | B+R | 7.5 | 3243 | -17 | 
+| 2005-10-23 | 第2期倡棋杯中国プロ囲碁選手権戦1回戦 | Huang Yizhong | Gu Li | Win | W+R | 7.5 | 3260 | 71 | 
+| 2005-10-19 | 第10回LG杯世界棋王戦準決勝 | Gu Li | Lee Sedol | Win | B+R | 6.5 | 3189 | 11 | 
+| 2005-10-17 | 第10回LG杯世界棋王戦3回戦 | Gu Li | Zhou Heyang | Win | B+R | 6.5 | 3178 | -17 | 
+| 2005-10-14 | 第7回中国囲碁甲級リーグ第14節 | Gu Li | Ma Xiaochun | Lose | W+R | 7.5 | 3195 | 13 | 
+| 2005-10-08 | 第7回中国囲碁甲級リーグ第13節 | Kong Jie | Gu Li | Lose | B+R | 7.5 | 3182 | -12 | 
+| 2005-10-06 | 第7回中国囲碁甲級リーグ第12節 | Gu Li | Yu Bin | Win | B+R | 7.5 | 3194 | 16 | 
+| 2005-09-30 | 第10回三星火災杯世界オープン囲碁選手権2回戦 | Lee Changho | Gu Li | Lose | B+0.5 | 6.5 | 3178 | -7 | 
+| 2005-09-28 | 第10回三星火災杯世界オープン囲碁選手権1回戦 | Gu Li | Paek Hongseok | Win | B+R | 6.5 | 3185 | 43 | 
+| 2005-09-06 | 第7期阿含・桐山杯中国早碁オープン戦1回戦 | Gu Li | Yu Ping | Win | B+7.5 | 7.5 | 3142 | -20 | 
+| 2005-08-20 | 第7回中国囲碁甲級リーグ第11節 | Yu Ping | Gu Li | Lose | B+R | 7.5 | 3162 | -35 | 
+| 2005-08-13 | 第7回中国囲碁甲級リーグ第10節 | Gu Li |  | Win | B+R | 7.5 | 3197 | 3 | 
+| 2005-08-06 | 第7回中国囲碁甲級リーグ第9節 | Gu Li | Lee Sedol | Lose | W+0.5 | 7.5 | 3194 | -30 | 
+| 2005-07-22 | 第9回中韓天元対抗戦第3局 | Gu Li | Choi Cheolhan | Win | B+1.5 | 7.5 | 3224 | 12 | 
+| 2005-07-21 | 第9回中韓天元対抗戦第2局 | Gu Li | Choi Cheolhan | Win | B+1.5 | 7.5 | 3212 | 7 | 
+| 2005-07-19 | 第9回中韓天元対抗戦第1局 | Choi Cheolhan | Gu Li | Lose | B+R | 7.5 | 3205 | 1 | 
+| 2005-07-09 | 第7回中国囲碁甲級リーグ第8節 | Luo Xihe | Gu Li | Lose | B+R | 7.5 | 3204 | 29 | 
+| 2005-07-07 | 第7回農心杯中国選抜戦 | Xie He | Gu Li | Lose | B+R | 6.5 | 3175 | -15 | 
+| 2005-07-05 | 第7回農心杯中国選抜戦 | Gu Li | Hu Yaoyu | Win | B+R | 6.5 | 3190 | 310 | 
+| 2005-06-25 | 第7回中国囲碁甲級リーグ第7節 |  | Gu Li | Win | W+R | 7.5 | 2880 | -23 | 
+| 2005-06-18 | 第7回中国囲碁甲級リーグ第6節 | Gu Li | Piao Wenyao | Lose | W+2.5 | 7.5 | 2903 | -22 | 
+| 2005-06-14 | 第17回テレビアジア選手権1回戦 | Gu Li | Yoda Norimoto | Lose | W+R | 7.5 | 2925 | -19 | 
+| 2005-06-11 | 第7回中国囲碁甲級リーグ第5節 | Liu Shizhen | Gu Li | Win | W+R | 7.5 | 2944 | 3 | 
+| 2005-06-04 | 第18回世界囲碁選手権富士通杯3回戦 | Gu Li | Song Taekon | Lose | W+R | 6.5 | 2941 | -3 | 
+| 2005-05-27 | 第8回中韓新人王対抗戦三番勝負第3局 | Park Yeonghun | Gu Li | Win | W+R | 7.5 | 2944 | -21 | 
+| 2005-05-26 | 第8回中韓新人王対抗戦三番勝負第2局 | Gu Li | Park Yeonghun | Win | B+1.5 | 7.5 | 2965 | 6 | 
+| 2005-05-24 | 第8回中韓新人王対抗戦三番勝負第1局 | Park Yeonghun | Gu Li | Lose | B+3.5 | 7.5 | 2959 | -33 | 
+| 2005-05-21 | 第7回中国囲碁甲級リーグ第4節 | Gu Li | Ding Wei | Lose | W+R | 7.5 | 2992 | 3 | 
+| 2005-05-18 | 第10回LG杯世界棋王戦2回戦 | Kobayashi Koichi | Gu Li | Win | W+R | 6.5 | 2989 | 12 | 
+| 2005-05-16 | 第10回LG杯世界棋王戦1回戦 |  | Gu Li | Win | W+15.5 | 6.5 | 2977 | -37 | 
+| 2005-05-07 | 第7回中国囲碁甲級リーグ第3節 | Ma Xiaochun | Gu Li | Lose | B+5.5 | 7.5 | 3014 | -13 | 
+| 2005-05-03 | 第4回CSK杯囲碁アジア対抗戦第3戦 | Gu Li | Lee Sedol | Lose | W+2.5 | 6.5 | 3027 | -4 | 
+| 2005-05-02 | 第4回CSK杯囲碁アジア対抗戦第2戦 | Cho U | Gu Li | Win | W+R | 6.5 | 3031 | 8 | 
+| 2005-05-01 | 第4回CSK杯囲碁アジア対抗戦第1戦 | Gu Li | Yoda Norimoto | Lose | W+R | 6.5 | 3023 | 37 | 
+| 2005-04-21 | 第7回中国囲碁甲級リーグ第2節 | Kong Jie | Gu Li | Win | W+R | 7.5 | 2986 | 5 | 
+| 2005-04-16 | 第7回中国囲碁甲級リーグ第1節 | Gu Li |  | Lose | W+R | 7.5 | 2981 | -84 | 
+| 2005-04-11 | 第18回世界囲碁選手権富士通杯2回戦 | Lee Changho | Gu Li | Win | W+R | 6.5 | 3065 | 40 | 
+| 2005-04-09 | 第18回世界囲碁選手権富士通杯1回戦 | Gu Li | Catalin Taranu | Win | B+R | 6.5 | 3025 | -17 | 
+| 2005-04-05 | 第19期中国囲碁天元戦挑戦手合三番勝負第3局 | Zhou Heyang | Gu Li | Win | W+2.5 | 7.5 | 3042 | 8 | 
+| 2005-04-04 | 第19期中国囲碁天元戦挑戦手合三番勝負第2局 | Zhou Heyang | Gu Li | Lose | B+R | 7.5 | 3034 | -10 | 
+| 2005-04-02 | 第19期中国囲碁天元戦挑戦手合三番勝負第1局 | Gu Li | Zhou Heyang | Win | B+R | 7.5 | 3044 | -289 | 
+| 2005-02-22 | 第12期中国囲碁新人王戦決勝三番勝負第2局 | Gu Li | Yin Hang | Win | B+R | 7.5 | 3333 | 15 | 
+| 2005-02-21 | 第12期中国囲碁新人王戦決勝三番勝負第1局 | Yin Hang | Gu Li | Win | W+2.5 | 7.5 | 3318 | -18 | 
+| 2005-01-22 | 第10期NEC杯囲碁戦決勝 | Gu Li | Chang Hao | Lose | W+R | 7.5 | 3336 | -96 | 
+| 2005-01-17 | 第5期リコー杯囲碁戦3回戦 | Shao Weigang | Gu Li | Lose | B+1.5 | 7.5 | 3432 | 135 | 
+| 2004-12-27 | 第17期中国囲碁名人戦挑戦手合五番勝負第3局 | Qiu Jun | Gu Li | Win | W+R | 7.5 | 3297 | 7 | 
+| 2004-12-25 | 第17期中国囲碁名人戦挑戦手合五番勝負第2局 | Gu Li | Qiu Jun | Win | B+R | 7.5 | 3290 | 7 | 
+| 2004-12-23 | 第17期中国囲碁名人戦挑戦手合五番勝負第1局 | Qiu Jun | Gu Li | Win | W+R | 7.5 | 3283 | 45 | 
+| 2004-12-11 | 第10期NEC杯囲碁戦準決勝 | Gu Li | Zhou Heyang | Win | B+5.5 | 7.5 | 3238 | 103 | 
+| 2004-12-02 | 第6回中国囲碁甲級リーグ第20節 | Gu Li |  | Win | B+R | 7.5 | 3135 | -18 | 
+| 2004-11-27 | 第2期威孚房開杯棋王戦1回戦 | Zhou Heyang | Gu Li | Lose | B+R | 7.5 | 3153 | -12 | 
+| 2004-11-25 | 第6回中国囲碁甲級リーグ第19節 | Qiu Jun | Gu Li | Win | W+R | 7.5 | 3165 | 60 | 
+| 2004-11-22 | 第6回中国囲碁甲級リーグ第18節 | Gu Li | Zhou Bo | Win | B+R | 7.5 | 3105 | -5 | 
+| 2004-11-19 | 第9回三星火災杯世界オープン囲碁選手権準決勝三番勝負第3局 | Lee Sedol | Gu Li | Lose | B+R | 6.5 | 3110 | -4 | 
+| 2004-11-18 | 第9回三星火災杯世界オープン囲碁選手権準決勝三番勝負第2局 | Lee Sedol | Gu Li | Win | W+R | 6.5 | 3114 | 19 | 
+| 2004-11-16 | 第9回三星火災杯世界オープン囲碁選手権準決勝三番勝負第1局 | Gu Li | Lee Sedol | Lose | W+R | 6.5 | 3095 | -11 | 
+| 2004-11-11 | 第6回中国囲碁甲級リーグ第17節 | Ma Xiaochun | Gu Li | Win | W+R | 7.5 | 3106 | 8 | 
+| 2004-11-09 | 第1期倡棋杯中国プロ囲碁選手権戦3回戦 | Gu Li | Zhou Heyang | Lose | W+7 | 7.5 | 3098 | -4 | 
+| 2004-11-06 | 第10期NEC杯囲碁戦2回戦 | Gu Li | Wang Lei (b) | Win | B+R | 7.5 | 3102 | -78 | 
+| 2004-10-25 | 第1期倡棋杯中国プロ囲碁選手権戦2回戦 | Gu Li | Peng Quan | Win | B+3 | 7.5 | 3180 | -102 | 
+| 2004-10-17 | 第6期阿含・桐山杯中国早碁オープン戦準決勝 | Gu Li | Zhou Heyang | Lose | W+R | 7.5 | 3282 | 24 | 
+| 2004-10-07 | 第9回三星火災杯世界オープン囲碁選手権3回戦 | Choi Cheolhan | Gu Li | Win | W+R | 6.5 | 3258 | -98 | 
+| 2004-09-21 | 第17期中国囲碁名人戦挑戦者決定戦第2局 | Gu Li | Nie Weiping | Win | B+R | 7.5 | 3356 | 161 | 
+| 2004-09-06 | 第17期中国囲碁名人戦挑戦者決定戦第1局 | Nie Weiping | Gu Li | Win | W+R | 7.5 | 3195 | 3 | 
+| 2004-09-03 | 第9回三星火災杯世界オープン囲碁選手権2回戦 | Cho Hunhyun | Gu Li | Win | W+R | 6.5 | 3192 | -2 | 
+| 2004-09-01 | 第9回三星火災杯世界オープン囲碁選手権1回戦 | Gu Li | Hong Minpyo | Win | B+R | 6.5 | 3194 | 14 | 
+| 2004-08-23 | 第2期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Lee Changho | Gu Li | Lose | B+R | 6.5 | 3180 | -4 | 
+| 2004-08-21 | 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Yamashita Keigo | Gu Li | Win | W+R | 6.5 | 3184 | 12 | 
+| 2004-08-13 | 第8回中韓天元対抗戦第3局 | Choi Cheolhan | Gu Li | Win | W+R | 6.5 | 3172 | 10 | 
+| 2004-08-12 | 第8回中韓天元対抗戦第2局 | Choi Cheolhan | Gu Li | Lose | B+R | 6.5 | 3162 | -30 | 
+| 2004-08-10 | 第8回中韓天元対抗戦第1局 | Gu Li | Choi Cheolhan | Win | B+R | 6.5 | 3192 | 33 | 
+| 2004-08-08 | 第6回農心杯中国選抜戦 | Gu Li | Wang Xi | Lose | W+R | 6.5 | 3159 | -32 | 
+| 2004-08-03 | 第9回三星火災杯予選決勝 | Gu Li |  | Win | B+R | 6.5 | 3191 | -38 | 
+| 2004-07-01 | 第6回中国囲碁甲級リーグ第11節 | Gu Li | Gu Lingyi | Lose | W+R | 7.5 | 3229 | 5 | 
+| 2004-06-22 | 第17期中国囲碁名人戦準決勝 | Yu Bin | Gu Li | Win | W+8.5 | 7.5 | 3224 | 11 | 
+| 2004-06-20 | 第17期中国囲碁名人戦3回戦 | Luo Xihe | Gu Li | Win | W+R | 7.5 | 3213 | 7 | 
+| 2004-06-17 | 第6回中国囲碁甲級リーグ第9節 | Gu Li | Lee Sedol | Win | B+5.5 | 7.5 | 3206 | -20 | 
+| 2004-06-08 | 第5回春蘭杯世界囲碁選手権3回戦 | Gu Li | Zhou Heyang | Lose | W+R | 7.5 | 3226 | 49 | 
+| 2004-05-27 | 第6回中国囲碁甲級リーグ第6節 | Yoo Changhyuk | Gu Li | Win | W+0.5 | 7.5 | 3177 | -57 | 
+| 2004-05-20 | 第9回LG杯世界棋王戦2回戦 | Yoo Changhyuk | Gu Li | Lose | B+2.5 | 6.5 | 3234 | 1 | 
+| 2004-05-11 | 第16回テレビアジア選手権 | Gu Li | Cho Chikun | Lose | W+2.5 | 6.5 | 3233 | 1 | 
+| 2004-05-08 | 第5回阿含・桐山杯日中決戦 | Gu Li | Kato Masao | Win | B+R | 7.5 | 3232 | 11 | 
+| 2004-05-06 | 第17期中国囲碁名人戦1回戦 | Liu Xiaoguang | Gu Li | Win | W+R | 7.5 | 3221 | 27 | 
+| 2004-04-29 | 第6回中国囲碁甲級リーグ第2節 | Gu Li |  | Win | B+R | 7.5 | 3194 | -56 | 
+| 2004-04-20 | 第5回応氏杯世界選手権1回戦 | Gu Li | Yamashita Keigo | Lose | W+2 | 7.5 | 3250 | -21 | 
+| 2004-04-15 | 第6回中国囲碁甲級リーグ第1節 | Gu Li | Zhou Kui | Win | B+7.5 | 7.5 | 3271 | -12 | 
+| 2004-04-10 | 第17回世界囲碁選手権富士通杯1回戦 | Gu Li | Zhou Junxun | Lose | W+R | 6.5 | 3283 | 8 | 
+| 2004-03-31 | 第18期中国囲碁天元戦挑戦手合三番勝負第2局 | Gu Li | Xie He | Win | B+3.5 | 7.5 | 3275 | 11 | 
+| 2004-03-29 | 第18期中国囲碁天元戦挑戦手合三番勝負第1局 | Xie He | Gu Li | Win | W+R | 7.5 | 3264 | -5 | 
+| 2004-02-28 | 第9期NEC杯囲碁戦決勝 | Gu Li | Chang Hao | Win | B+R | 7.5 | 3269 | -1 | 
+| 2004-02-25 | 第3回西南棋王戦決勝 | Zhou Heyang | Gu Li | Lose | B+1.5 | 7.5 | 3270 | 167 | 
+| 2004-02-18 | 第4期リコー杯囲碁戦4回戦 | Chang Hao | Gu Li | Lose | B+R | 6.5 | 3103 | -18 | 
+| 2004-02-12 | 第5回農心辛ラーメン杯世界囲碁最強戦第12戦 | Gu Li | Kato Masao | Lose | W+R | 6.5 | 3121 | -22 | 
+| 2004-02-11 | 第5回農心辛ラーメン杯世界囲碁最強戦第11戦 | Gu Li | Weon Seongjin | Win | B+2.5 | 6.5 | 3143 | -43 | 
+| 2003-12-31 | 第5回春蘭杯世界囲碁選手権2回戦 | Yuki Satoshi | Gu Li | Win | W+R | 7.5 | 3186 | 33 | 
+| 2003-12-29 | 第5回春蘭杯世界囲碁選手権1回戦 | Gu Li | Michael Redmond | Win | B+R | 7.5 | 3153 | 76 | 
+| 2003-12-25 | 2003年国際新鋭囲碁対抗戦第3戦 | Gu Li | An Joyeong | Lose | W+R | 7.5 | 3077 | -30 | 
+| 2003-12-18 | 第5回中国囲碁甲級リーグ第22節 |  | Gu Li | Win | W+R | 7.5 | 3107 | -37 | 
+| 2003-12-11 | 第5回中国囲碁甲級リーグ第21節 | Gu Lingyi | Gu Li | Win | W+R | 7.5 | 3144 | 10 | 
+| 2003-12-06 | 第9期NEC杯囲碁戦準決勝 | Gu Li | Wang Lei (b) | Win | B+R | 7.5 | 3134 | 12 | 
+| 2003-12-04 | 第5回中国囲碁甲級リーグ第20節 | Gu Li |  | Win | B+R | 7.5 | 3122 | -14 | 
+| 2003-11-30 | 第5期阿含・桐山杯中国早碁オープン戦決勝 | Gu Li | Kong Jie | Win | B+R | 7.5 | 3136 | 13 | 
+| 2003-11-27 | 第5回中国囲碁甲級リーグ第19節 | Chang Hao | Gu Li | Lose | B+R | 7.5 | 3123 | -13 | 
+| 2003-11-23 | 第5期阿含・桐山杯中国早碁オープン戦準決勝 | Gu Li | Wang Lei (b) | Win | B+R | 7.5 | 3136 | -5 | 
+| 2003-11-20 | 第5回中国囲碁甲級リーグ第18節 | Gu Li | Jing Shi | Win | B+R | 7.5 | 3141 | -13 | 
+| 2003-11-13 | 第5回中国囲碁甲級リーグ第17節 | Gu Li | Wang Lei (s) | Win | B+R | 7.5 | 3154 | -44 | 
+| 2003-11-01 | 第9期NEC杯囲碁戦2回戦 | Hu Yaoyu | Gu Li | Win | W+4.5 | 7.5 | 3198 | 16 | 
+| 2003-10-30 | 第5回中国囲碁甲級リーグ第15節 | Gu Li | Luo Xihe | Win | B+R | 7.5 | 3182 | -1 | 
+| 2003-10-23 | 第5回中国囲碁甲級リーグ第14節 | Gu Li | Wang Yang | Lose | W+2.5 | 7.5 | 3183 | -2925 | 
+| 2003-10-16 | 第5回中国囲碁甲級リーグ第13節 | Gu Li |  | Win | B+R | 7.5 | 6108 | 62 | 
+| 2003-10-09 | 第5回中国囲碁甲級リーグ第12節 | Gu Li | Wang Yao | Win | B+R | 7.5 | 6046 | 164 | 
+| 2003-10-04 | 第1期威孚房開杯棋王戦1回戦 | Chang Hao | Gu Li | Lose | B+R | 7.5 | 5882 | -29 | 
+| 2003-10-03 | 第5期阿含・桐山杯中国早碁オープン戦1回戦 | Yu Bin | Gu Li | Win | W+R | 7.5 | 5911 | 2906 | 
+| 2003-09-24 | 2003年全国囲棋個人戦男子組第9戦 | Hu Yaoyu | Gu Li | Win | W+R | 7.5 | 3005 | -53 | 
+| 2003-09-23 | 2003年全国囲棋個人戦男子組第8戦 | Gu Li | Liu Shizhen | Lose | W+R | 7.5 | 3058 | 55 | 
+| 2003-09-19 | 2003年全国囲棋個人戦男子組 | Shao Weigang | Gu Li | Win | W+R | 7.5 | 3003 | -18 | 
+| 2003-09-14 | 2003年全国囲棋個人戦男子組 | Wang Xi | Gu Li | Win | W+R | 7.5 | 3021 | 29 | 
+| 2003-09-04 | 第5回中国囲碁甲級リーグ第9節 | Nie Weiping | Gu Li | Win | W+R | 7.5 | 2992 | 17 | 
+| 2003-08-31 | 第16期中国囲碁名人戦3回戦 | Gu Li | Qiu Jun | Lose | W+R | 7.5 | 2975 | -7 | 
+| 2003-08-21 | 第5回中国囲碁甲級リーグ第8節 | Gu Li | Hu Yaoyu | Win | B+R | 7.5 | 2982 | 3 | 
+| 2003-08-13 | 第7回中韓天元対抗戦第2局 | Song Taekon | Gu Li | Win | W+R | 6.5 | 2979 | 36 | 
+| 2003-08-11 | 第7回中韓天元対抗戦第1局 | Gu Li | Song Taekon | Win | B+R | 6.5 | 2943 | 8 | 
+| 2003-08-07 | 第5回中国囲碁甲級リーグ第7節 | Kim Seungjun | Gu Li | Win | W+R | 7.5 | 2935 | 71 | 
+| 2003-07-31 | 第8期三星杯予選2回戦 | Sakakibara Fumiko | Gu Li | Win | W+R | 6.5 | 2864 | 45 | 
+| 2003-07-17 | 第5回中国囲碁甲級リーグ第5節 | Gu Li | Wang Yimin | Win | B+5.5 | 7.5 | 2819 | 12 | 
+| 2003-07-10 | 第5回中国囲碁甲級リーグ第4節 | Gu Li | Liu Xing | Win | B+R | 7.5 | 2807 | 29 | 
+| 2003-04-23 | 第5回中国囲碁甲級リーグ第3節 | Gu Li | Kong Jie | Win | B+R | 7.5 | 2778 | -8 | 
+| 2003-04-14 | 第16回世界囲碁選手権富士通杯2回戦 | Gu Li | Yoo Changhyuk | Lose | W+R | 6.5 | 2786 | -16 | 
+| 2003-04-12 | 第16回世界囲碁選手権富士通杯1回戦 | Gu Li | Cho Chikun | Win | B+R | 6.5 | 2802 | 27 | 
+| 2003-03-30 | 第2回西南棋王戦決勝 | Gu Li | Ding Wei | Win | B+1.5 | 7.5 | 2775 | 0 | 
+| 2003-03-16 | 第17期中国囲碁天元戦挑戦手合三番勝負第3局 | Huang Yizhong | Gu Li | Win | W+R | 7.5 | 2775 | 16 | 
+| 2003-03-15 | 第17期中国囲碁天元戦挑戦手合三番勝負第2局 | Gu Li | Huang Yizhong | Lose | W+R | 7.5 | 2759 | -29 | 
+| 2003-03-13 | 第17期中国囲碁天元戦挑戦手合三番勝負第1局 | Huang Yizhong | Gu Li | Win | W+R | 7.5 | 2788 | -6 | 
+| 2003-03-03 | 第17期中国囲碁天元戦挑戦者決定戦 | Liu Xing | Gu Li | Win | W+R | 7.5 | 2794 | 23 | 
+| 2003-03-01 | 第17期中国囲碁天元戦準決勝 | Gu Li | Hu Yaoyu | Win | B+1.5 | 7.5 | 2771 | 32 | 
+| 2003-02-27 | 第17期中国囲碁天元戦3回戦 | Gu Li | Ding Wei | Win | B+R | 7.5 | 2739 | 17 | 
+| 2003-02-25 | 第17期中国囲碁天元戦2回戦 | Peng Quan | Gu Li | Win | W+R | 7.5 | 2722 | 8 | 
+| 2003-02-16 | 第2回CSK杯囲碁アジア対抗戦中国選抜戦 | Gu Li | Liu Jing | Lose | W+R | 6.5 | 2714 | 64 | 
+| 2002-12-01 | 第4回中国囲碁甲級リーグ第22節 | Gu Li | Yoo Changhyuk | Lose | W+R | 7.5 | 2650 | -18 | 
+| 2002-11-28 | 第4回中国囲碁甲級リーグ第21節 | Gu Li | Dong Yan | Win | B+R | 7.5 | 2668 | 47 | 
+| 2002-11-14 | 第4回中国囲碁甲級リーグ第19節 | Gu Li | Qiu Jun | Win | B+R | 7.5 | 2621 | -3 | 
+| 2002-11-07 | 第4回中国囲碁甲級リーグ第18節 |  | Gu Li | Win | W+6.5 | 7.5 | 2624 | 2 | 
+| 2002-10-31 | 第4回中国囲碁甲級リーグ第17節 | Gu Li |  | Win | B+R | 7.5 | 2622 | 24 | 
+| 2002-10-24 | 第4回中国囲碁甲級リーグ第16節 | Gu Li | Kong Jie | Lose | W+R | 7.5 | 2598 | -13 | 
+| 2002-10-22 | 第4回農心辛ラーメン杯世界囲碁最強戦第1戦 | Park Yeonghun | Gu Li | Lose | B+R | 6.5 | 2611 | -35 | 
+| 2002-10-10 | 第4回中国囲碁甲級リーグ第14節 | Lee Changho | Gu Li | Win | W+4.5 | 7.5 | 2646 | 14 | 
+| 2002-10-05 | 2002年国際新鋭囲碁対抗戦第3戦 | Park Yeonghun | Gu Li | Win | W+R | 6.5 | 2632 | 17 | 
+| 2002-10-03 | 2002年国際新鋭囲碁対抗戦第2戦 | Lee Jaeung | Gu Li | Win | W+R | 6.5 | 2615 | 1 | 
+| 2002-09-26 | 2002年全国囲棋個人戦男子組第10戦 | Gu Li |  | Lose | W+R | 7.5 | 2614 | 14 | 
+| 2002-09-24 | 2002年全国囲棋個人戦男子組第9戦 | Gu Li | Hu Yaoyu | Win | B+R | 7.5 | 2600 | 22 | 
+| 2002-09-23 | 2002年全国囲棋個人戦男子組第8戦 | Huang Yizhong | Gu Li | Lose | B+1.5 | 7.5 | 2578 | -43 | 
+| 2002-09-22 | 2002年全国囲棋個人戦男子組第7戦 | Gu Li |  | Win | B+R | 7.5 | 2621 | -3 | 
+| 2002-09-20 | 2002年全国囲棋個人戦男子組第6戦 | Wang Lei (s) | Gu Li | Win | W+R | 7.5 | 2624 | 16 | 
+| 2002-09-19 | 2002年全国囲棋個人戦男子組第5戦 | Zhang Wendong | Gu Li | Win | W+4.5 | 7.5 | 2608 | 11 | 
+| 2002-09-18 | 2002年全国囲棋個人戦男子組第4戦 | Gu Li | Xie He | Win | B+R | 7.5 | 2597 | 32 | 
+| 2002-09-16 | 2002年全国囲棋個人戦男子組第3戦 |  | Gu Li | Win | W+2.5 | 7.5 | 2565 | -8 | 
+| 2002-09-15 | 2002年全国囲棋個人戦男子組第2戦 | Gu Li |  | Win | B+R | 7.5 | 2573 | 36 | 
+| 2002-09-12 | 第4回中国囲碁甲級リーグ第13節 | Gu Li | Yue Liang | Win | B+R | 7.5 | 2537 | 1 | 
+| 2002-09-05 | 第4回中国囲碁甲級リーグ第12節 |  | Gu Li | Win | W+R | 7.5 | 2536 | 63 | 
+| 2002-08-11 | 第4回農心杯中国選抜戦 | Dong Yan | Gu Li | Win | W+0.5 | 6.5 | 2473 | 35 | 
+| 2002-08-09 | 第4回農心杯中国選抜戦 | Huang Yizhong | Gu Li | Win | W+4.5 | 6.5 | 2438 | 167 | 
+| 2002-08-08 | 第4回農心杯中国選抜戦 | Liu Xiaoguang | Gu Li | Win | W+3.5 | 6.5 | 2271 | -3 | 
+| 2002-08-07 | 第4期阿含・桐山杯中国早碁オープン戦1回戦 | Liu Jing | Gu Li | Lose | B+R | 7.5 | 2274 | -49 | 
+| 2002-07-29 | 第7期三星杯予選決勝 | Qiu Jun | Gu Li | Lose | B+R | 6.5 | 2323 | 26 | 
+| 2002-07-13 | 2002年中国段位戦 | Gu Li |  | Win | B+1.5 | 7.5 | 2297 | 35 | 
+| 2002-07-11 | 2002年中国段位戦 | Hu Yaoyu | Gu Li | Lose | B+R | 7.5 | 2262 | -42 | 
+| 2002-06-27 | 第4回中国囲碁甲級リーグ第11節 | Wang Yao | Gu Li | Win | W+0.5 | 7.5 | 2304 | 91 | 
+| 2002-06-13 | 第4回中国囲碁甲級リーグ第9節 | Gu Li | Luo Xihe | Win | B+R | 7.5 | 2213 | 38 | 
+| 2002-06-06 | 第4回中国囲碁甲級リーグ第8節 | Shao Weigang | Gu Li | Lose | B+3.5 | 7.5 | 2175 | -40 | 
+| 2002-05-13 | 第4回中国囲碁甲級リーグ第6節 | Gu Li |  | Lose | W+R | 7.5 | 2215 | 51 | 
+| 2002-05-09 | 第4回中国囲碁甲級リーグ第5節 | Gu Li | Kong Jie | Win | B+R | 7.5 | 2164 | 151 | 
+| 2002-04-25 | 第4回中国囲碁甲級リーグ第4節 | Nie Weiping | Gu Li | Win | W+16.5 | 7.5 | 2013 | -15 | 
+| 2002-04-18 | 第4回中国囲碁甲級リーグ第3節 | Gu Li | Peng Quan | Win | B+R | 7.5 | 2028 | -66 | 
+| 2002-04-08 | 第4回中国囲碁甲級リーグ第2節 | Wang Xi | Gu Li | Lose | B+5.5 | 7.5 | 2094 | -635 | 
+| 2002-03-11 | 第15期中国囲碁名人戦2回戦 | Gu Li | Luo Xihe | Lose | W+R | 7.5 | 2729 | -221 | 
+| 2002-01-26 | 第16期中国囲碁天元戦3回戦 | Wang Lei (b) | Gu Li | Lose | B+3.5 | 7.5 | 2950 | 28 | 
+| 2002-01-24 | 第16期中国囲碁天元戦2回戦 | Gu Li | Kong Jie | Win | B+R | 7.5 | 2922 | 0 | 
+| 2002-01-22 | 第16期中国囲碁天元戦1回戦 | Nie Weiping | Gu Li | Win | W+4.5 | 7.5 | 2922 | -5667 | 
+| 2001-08-31 | 第6期三星杯2回戦 | Gu Li | Park Cheongsang | Lose | W+3.5 | 6.5 | 8589 | -178 | 
+| 2001-08-29 | 第6期三星杯1回戦 | Mok Jinseok | Gu Li | Win | W+R | 6.5 | 8767 | 8767 | 
+| 2001-07-30 | 第6期三星杯予選決勝 | Kong Jie | Gu Li | Win | W+1.5 | 6.5 | missing | 0 | 
+| 2000-12-06 | 2000年国際新鋭囲碁対抗戦第3戦 | Yuki Satoshi | Gu Li | Win | W+R | 6.5 | missing | 0 | 
+| 2000-12-05 | 2000年国際新鋭囲碁対抗戦第2戦 | An Joyeong | Gu Li | Lose | B+4.5 | 6.5 | missing | missing |
 
 
 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Takemiya Masaki | Nie Weiping | Lose | B+R | 7.5 | 2897 | -197 | 
 | 2021-09-13 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第2ラウンド | Kobayashi Koichi | Nie Weiping | Lose | B+R | 7.5 | 3094 | 2 | 
 | 2021-09-12 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第1ラウンド | Cho Hunhyun | Nie Weiping | Lose | B+R | 7.5 | 3092 | -205 | 
 | 2021-01-24 | 第22回農心杯特別イベント囲碁レジェンド国別対抗戦第2ラウンド | Nie Weiping | Cho Hunhyun | Lose | W+R | 6.5 | 3297 | -24 | 

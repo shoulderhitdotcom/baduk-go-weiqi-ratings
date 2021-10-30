@@ -7,9 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Kono Rin | Gu Li | Lose | W+¼ | 7.5 | 3031 | 8 | 
+| 2021-09-30 | 第47期名人戦予選 | Iida Junya | Kono Rin | Win | W+R | 6.5 | 3023 | 4 | 
+| 2021-09-23 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Kono Rin | Win | W+4.5 | 6.5 | 3019 | -70 | 
 | 2021-08-06 | 第46期名人戦リーグ  | Kono Rin | Hsu Chiayuan | Lose | W+0.5 | 6.5 | 3089 | -7 | 
-| 2021-07-15 | 第46期棋聖戦Sリーグ | Kono Rin | Takao Shinji | Lose | W+R | 6.5 | 3096 | 10 | 
-| 2021-07-15 | 第46期棋聖戦Sリーグ | Kono Rin | Takao Shinji | Lose | W+R | 6.5 | 3086 | -20 | 
+| 2021-07-15 | 第46期棋聖戦Sリーグ | Kono Rin | Takao Shinji | Lose | W+R | 6.5 | 3096 | -10 | 
 | 2021-07-01 | 第46期名人戦リーグ  | Ichiriki Ryo | Kono Rin | Lose | B+0.5 | 6.5 | 3106 | -44 | 
 | 2021-06-14 | 第46期名人戦リーグ | Kono Rin | Motoki Katsuya | Lose | W+R | 6.5 | 3150 | -4 | 
 | 2021-06-10 | 第46期棋聖戦Sリーグ | Kono Rin | Yu Zhengqi | Lose | W+R | 6.5 | 3154 | -35 | 

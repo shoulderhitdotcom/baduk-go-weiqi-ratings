@@ -5,207 +5,210 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第40期女流本因坊戦1回戦  | Yoshida Mika | Aoki Kikuyo | B+6.5 | 2021-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7jcXjRcgU458v5dOhmuvYQ%3D%3D) | 
-| 第40期女流本因坊戦予選 | Kato Keiko | Aoki Kikuyo | W+R | 2021-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mgbac%2FZwlOOolzby7V39pg%3D%3D) | 
-| 第24期ドコモ杯女流棋聖戦準決勝 | Aoki Kikuyo | Ueno Asami | W+3.5 | 2020-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CI4Qvn4kfjsRHtrquLuVTQ%3D%3D) | 
-| 第24期ドコモ杯女流棋聖戦2回戦 | Nakamura Sumire | Aoki Kikuyo | W+8.5 | 2020-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6SyQmqpF0uNBZ%2Fy47Wkdgg%3D%3D) | 
-| 第24期ドコモ杯女流棋聖戦1回戦 | Wang Jingyi | Aoki Kikuyo | W+R | 2020-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4O%2BptpTemMun1mwGeU91CQ%3D%3D) | 
-| 第46期碁聖戦予選 | Aoki Kikuyo | Kono Rin | W+R | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TOx3tCVv49UxyGFXVOlK6g%3D%3D) | 
-| 第5回扇興杯女流最強戦1回戦 | Fujisawa Rina | Aoki Kikuyo | B+0.5 | 2020-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BjtS%2BpGb8ZGqUMS%2Bpf4hPA%3D%3D) | 
-| 第39期女流本因坊戦2回戦 | Fujisawa Rina | Aoki Kikuyo | B+1.5 | 2020-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RWopZHXemwAeeQqNuDKnGA%3D%3D) | 
-| 第39期女流本因坊戦1回戦 | Mannami Nao | Aoki Kikuyo | W+R | 2020-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o9Ocf7OVKV3%2Fqw3%2BhmwnTw%3D%3D) | 
-| 第39期女流本因坊戦予選 | Izawa Akino | Aoki Kikuyo | W+R | 2019-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rG9msQpuEq9C%2BXA1XevVxw%3D%3D) | 
-| 第23期ドコモ杯女流棋聖戦1回戦 | Aoki Kikuyo | Nishiyama Shizuka | W+6.5 | 2019-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g2nEt1Gz39AG4UaPg4C2yA%3D%3D) | 
-| 第2回SGW杯中庸戦予選 | Aoki Kikuyo | Kanazawa Hideo | W+2.5 | 2019-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EpeMu2qcNXr5k3sbmfWJwA%3D%3D) | 
-| 第45期碁聖戦予選 | Aoki Kikuyo | Kanda Ei | B+R | 2019-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g9lsu8yA87AKkQL%2F%2FM3oZA%3D%3D) | 
-| 第45期名人戦予選 | Ryu Shikun | Aoki Kikuyo | B+R | 2019-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wmOvxJW%2BUTgqJ2HIBXnDlg%3D%3D) | 
-| 第4回扇興杯女流囲碁最強戦1回戦 | Aoki Kikuyo | Chinen Kaori | B+0.5 | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xZiYye3T%2FVzaCUIdzqWL3g%3D%3D) | 
-| 第31期女流名人戦準決勝 | Aoki Kikuyo | Koyama Mitsuru | W+R | 2018-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MbzfmU7IripW4wSo%2Bt4orw%3D%3D) | 
-| 第1回SGW杯中庸戦予選1回戦 | Aoki Kikuyo | Konagai Masaru | B+3.5 | 2018-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lISTSVvPI70sPArfaHHxIw%3D%3D) | 
-| 第1回SGW杯中庸戦予選2回戦 | Aoki Kikuyo | Yamamori Tadanao | W+5.5 | 2018-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VBsUMoyMjmZQvFo0E519Iw%3D%3D) | 
-| 第22期ドコモ杯女流棋聖戦2回戦 | Aoki Kikuyo | missing | W+11.5 | 2018-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LHejA3ITY8U4gsH0zSdeaQ%3D%3D) | 
-| 第31期女流名人戦2回戦 | Yashiro Kumiko | Aoki Kikuyo | W+1.5 | 2018-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wmHDRgQ2yhjW3HzoU37%2B9g%3D%3D) | 
-| 第31期ドコモ杯女流棋聖戦1回戦 | Aoki Kikuyo | Abe Yumiko | B+1.5 | 2018-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q19LB6Q6KUorpMexfvr6pg%3D%3D) | 
-| 第31期女流名人戦1回戦 | Wang Jingyi | Aoki Kikuyo | W+R | 2018-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DsUeopwkW0vMGnMZcxvp0A%3D%3D) | 
-| 第45期天元戦予選 | Aoki Kikuyo | Kobayashi Satoru | W+R | 2018-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O3XvXCu9EoMk8OEtqN9yxA%3D%3D) | 
-| 第37期女流本因坊戦準決勝 | Aoki Kikuyo | Ueno Asami | W+5.5 | 2018-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uKojPp3VbdhmrakatBqz5g%3D%3D) | 
-| 第37期女流本因坊戦3回戦 | Ishii Akane | Aoki Kikuyo | W+0.5 | 2018-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ttRvdhL4OofiGLN%2BiZffyg%3D%3D) | 
-| 第3回扇興杯女流囲碁最強戦2回戦 | Aoki Kikuyo | Tsukuda Akiko | W+R | 2018-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IzFFf7mxqRgO7x6bGnGJ1A%3D%3D) | 
-| 第67期王座戦予選 | Fujisawa Kazunari | Aoki Kikuyo | B+R | 2018-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a7dWVLjSg66Kmf5jtzjpqA%3D%3D) | 
-| 第37期女流本因坊戦2回戦 | Umezawa Yukari | Aoki Kikuyo | W+1.5 | 2018-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dy2AiYz4WowP0OT4HebExw%3D%3D) | 
-| 第3期扇興杯女流囲碁最強戦1回戦 | Aoki Kikuyo | Mukai Chiaki | B+4.5 | 2018-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I8zxXdDho5%2BbnxTwyjT9fw%3D%3D) | 
-| 第5期会津中央病院・女流立葵杯1回戦 | Hoshiai Shiho | Aoki Kikuyo | B+7.5 | 2018-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o7KIISLFA8EjbGGUrPhPdw%3D%3D) | 
-| 第37期女流本因坊戦1回戦 | Nishiyama Shizuka | Aoki Kikuyo | W+R | 2018-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bxbliQ2zgcOx9pX2e1CQTQ%3D%3D) | 
-| 第37期女流本因坊戦予選 | Aoki Kikuyo | Kato Tomoko | B+R | 2018-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UaIpgoATMTCNHA6Uqr29FQ%3D%3D) | 
-| 第21期ドコモ杯女流棋聖戦2回戦 | Ueno Asami | Aoki Kikuyo | B+R | 2017-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KNV9arVWV6fLBMbqqPDTuQ%3D%3D) | 
-| 第21期ドコモ杯女流棋聖戦1回戦 | Aoki Kikuyo | Osawa Narumi | B+15.5 | 2017-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wN5T8%2F3VLGK6ZQBg0Dj6Kw%3D%3D) | 
-| 第30期女流名人戦1回戦 | Aoki Kikuyo | Nyu Eiko | W+R | 2017-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5aUHIUQifYQ25ou%2Fxk89dA%3D%3D) | 
-| 第65回NHK杯テレビ囲碁トーナメント戦1回戦第13局 | Aoki Kikuyo | Cho Riyu | W+R | 2017-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tvk9nViSf9CQl9bs4aASHw%3D%3D) | 
-| 第2回扇興杯女流囲碁最強戦　本戦1回戦 | Aoki Kikuyo | Tsukuda Akiko | W+R | 2017-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nR8GW0tJDQsHrbShRjJWtA%3D%3D) | 
-| 第36期女流本因坊戦1回戦 | Kibe Natsuki | Aoki Kikuyo | B+7.5 | 2017-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KyCcw5%2FYtJANu0ZCfH1uiQ%3D%3D) | 
-| 第29期女流名人戦リーグ | Aoki Kikuyo | Fujisawa Rina | W+3.5 | 2017-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=baTGul2Hshs6cSwCH%2FE%2FlQ%3D%3D) | 
-| 第29期女流名人戦リーグ | Kato Keiko | Aoki Kikuyo | W+R | 2016-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5XbUA2vuMAj8NscJP6qtkQ%3D%3D) | 
-| 第29期女流名人戦リーグ | Aoki Kikuyo | Sakakibara Fumiko | B+R | 2016-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bir2cw048NqTDvHxwnnCeg%3D%3D) | 
-| 第29期女流名人戦リーグ | Aoki Kikuyo | Ishii Akane | B+R | 2016-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nbGPFtAgsgw%2BaT%2F40cbGew%3D%3D) | 
-| 第1回扇興杯女流最強戦準決勝 | Xie Yimin | Aoki Kikuyo | B+R | 2016-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qi%2F726t8oT1iMvYnZLPa%2Fw%3D%3D) | 
-| 第3回会津中央病院杯・女流囲碁トーナメント戦決勝 | Aoki Kikuyo | Xie Yimin | W+4.5 | 2016-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3kX3tLd72q2H9ElzqGKPGg%3D%3D) | 
-| 第1回扇興杯女流最強戦2回戦 | Aoki Kikuyo | Osawa Narumi | B+6.5 | 2016-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1pJhjqB%2BJE85c%2BCeLE6c0w%3D%3D) | 
-| 第3回会津中央病院杯・女流囲碁トーナメント戦準決勝 | Aoki Kikuyo | Wang Jingyi | B+R | 2016-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FoDdaUGOcQ%2BGttj%2BAic%2BqA%3D%3D) | 
-| 第3回会津中央病院杯・女流囲碁トーナメント戦1回戦 | Aoki Kikuyo | Fujisawa Rina | B+R | 2016-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hiqclA%2B67bvjeoq94j3VOw%3D%3D) | 
-| 第5回天台山農商銀行杯世界女子団体戦第3戦 | Aoki Kikuyo | Choi Jeong | W+4.5 | 2016-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NADDTckZ5EaOGLTbIcNE2A%3D%3D) | 
-| 第5回天台山農商銀行杯世界女子団体戦第2戦 | Hei Jiajia | Aoki Kikuyo | B+R | 2016-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=07y4uSSIxIPmAoPJpTqNdg%3D%3D) | 
-| 第5回天台山農商銀行杯世界女子団体戦第1戦 | Yu Zhiying | Aoki Kikuyo | B+R | 2016-05-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qLy4jRYShaU6UTniX0PSpw%3D%3D) | 
-| 第1回扇興杯女流最強戦1回戦 | Aoki Kikuyo | Ashida Isoko | B+R | 2016-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tz2EDR3acLOqg9QnDbZTtA%3D%3D) | 
-| 第6回黄竜士双登杯世界女子囲碁団体選手権第3戦 | Aoki Kikuyo | Kim Cheayoung | W+R | 2016-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9oVBI5M0Ap92VaWcfh8lbA%3D%3D) | 
-| 第28期女流名人戦挑戦手合三番勝負第3局 | Aoki Kikuyo | Xie Yimin | W+0.5 | 2016-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TiOYNDIttJFxyo5vLrhbiQ%3D%3D) | 
-| 第28期女流名人戦挑戦手合三番勝負第2局 | Aoki Kikuyo | Xie Yimin | B+R | 2016-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hi%2FYYLmmlcJaUali36Yi4w%3D%3D) | 
-| 第28期女流名人戦挑戦手合三番勝負第1局 | Xie Yimin | Aoki Kikuyo | B+R | 2016-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GMFFzk6srpB%2BSjccaIKjsg%3D%3D) | 
-| 第28期女流名人戦リーグ | Fujisawa Rina | Aoki Kikuyo | W+R | 2016-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MfEjl%2B%2BSDdZUeWDBdjZlvA%3D%3D) | 
-| 第28期女流名人戦リーグ | Mannami Nao | Aoki Kikuyo | W+R | 2015-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QLZqUdEkHMRKDEiKgNtyoA%3D%3D) | 
-| 第19期ドコモ杯女流棋聖戦準決勝 | Aoki Kikuyo | Kato Keiko | W+R | 2015-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t3xBDpNBmDgGjZZZzREp2w%3D%3D) | 
-| 第28期女流名人戦リーグ | Aoki Kikuyo | Suzuki Ayumi | B+1.5 | 2015-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iRY4fW32ca%2B2ELDGP6HSOA%3D%3D) | 
-| 第19期ドコモ杯女流棋聖戦2回戦 | Aoki Kikuyo | Chinen Kaori | B+R | 2015-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aA1O30ugcU35arfOoXTt%2FQ%3D%3D) | 
-| 第28期女流名人戦リーグ | Aoki Kikuyo | Kato Keiko | B+R | 2015-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T76rZNpXCnyRjPxOiTQZxw%3D%3D) | 
-| 第19期ドコモ杯女流棋聖戦1回戦 | Tamura Chiaki | Aoki Kikuyo | W+R | 2015-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KiDgarxzGPj%2FOBkBq9jG1w%3D%3D) | 
-| 第28期女流名人戦リーグ | Aoki Kikuyo | Chinen Kaori | B+R | 2015-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4n8gx8gHj%2FI2xCOAPduZeA%3D%3D) | 
-| 第28期女流名人戦リーグ | Okuda Aya | Aoki Kikuyo | W+7.5 | 2015-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z2LNvs8w5POiEF%2F1TDyVzw%3D%3D) | 
-| 第34期女流本因坊戦予選 | Aoki Kikuyo | Kato Tomoko | W+1.5 | 2015-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Idtr8H4vWzwvBxrcYNDZBA%3D%3D) | 
-| 第27期女流名人戦リーグ | Ishii Akane | Aoki Kikuyo | W+R | 2015-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PZCtK2%2FuNm6bpy%2BxIlFj8Q%3D%3D) | 
-| 第27期女流名人戦リーグ | Aoki Kikuyo | Kato Keiko | W+4.5 | 2014-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bz8WoLuMLMSX%2B%2BKYhDN7Ng%3D%3D) | 
-| 第27期女流名人戦リーグ | Aoki Kikuyo | Mannami Nao | B+4.5 | 2014-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EXY35zzJzHBUUQV99JU5ig%3D%3D) | 
-| 第18期ドコモ杯女流棋聖戦1回戦 | Koyama Mitsuru | Aoki Kikuyo | B+R | 2014-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rmrFYpAJc0Ot7N4XTTkP5g%3D%3D) | 
-| 第27期女流名人戦リーグ | Chinen Kaori | Aoki Kikuyo | W+3.5 | 2014-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ztxT22LhCI%2FRO5p2GXLvog%3D%3D) | 
-| 第27期女流名人戦リーグ | Aoki Kikuyo | Suzuki Ayumi | B+3.5 | 2014-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FXUzYX7NVsJaZKxucWBIDw%3D%3D) | 
-| 第27期女流名人戦リーグ | Mukai Chiaki | Aoki Kikuyo | B+4.5 | 2014-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FW5CMii%2FBLmb3ZMoYb4XAg%3D%3D) | 
-| 第40期名人戦予選 | Cho Chikun | Aoki Kikuyo | B+5.5 | 2014-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JV6V1TY6sCwT1QEam%2FF8FA%3D%3D) | 
-| 第27期女流名人戦予選 | Koyama Mitsuru | Aoki Kikuyo | W+R | 2014-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=agyxfQlm686TgN7BayQ3HQ%3D%3D) | 
-| 第33期女流本因坊戦2回戦 | Okuda Aya | Aoki Kikuyo | B+3.5 | 2014-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NGzPkZU8io0Bokp7i%2FtRyA%3D%3D) | 
-| 第27期女流名人戦予選 | Izawa Akino | Aoki Kikuyo | W+R | 2014-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LeBkq6QOtZM7Jf0chMTHwA%3D%3D) | 
-| 第3回天台山葛玄緑茶杯世界女子団体戦第3戦 | Yu Zhiying | Aoki Kikuyo | B+7.5 | 2014-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o16RiSrvqSgbCPMjC6WnDg%3D%3D) | 
-| 第3回天台山葛玄緑茶杯世界女子団体戦第2戦 | Aoki Kikuyo | Choi Jeong | W+2.5 | 2014-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y4HhLw1k3BUJP%2FzylUB2gQ%3D%3D) | 
-| 第3回天台山葛玄緑茶杯世界女子団体戦第1戦 | Zhang Zhengping | Aoki Kikuyo | W+R | 2014-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KsG7peMF7bMPr2mfNRbX%2FQ%3D%3D) | 
-| 第33期女流本因坊戦1回戦 | Aoki Kikuyo | Makihata Taeko | B+R | 2014-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3aTi4YLDMChXkfIOxfY%2Bcg%3D%3D) | 
-| 第70期本因坊戦予選 | Aoki Kikuyo | Oki Keiji | W+4.5 | 2014-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wa9S3Ktd4fSFAKSaTqd1mw%3D%3D) | 
-| 第17期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Xie Yimin | Aoki Kikuyo | B+R | 2014-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zouHJufM7lGbw4lySd3GUw%3D%3D) | 
-| 第17期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Aoki Kikuyo | Xie Yimin | W+R | 2014-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xp3s6kV3L%2F5jreGGny731g%3D%3D) | 
-| 第17期ドコモ杯女流棋聖戦挑戦者決定戦 | Ishii Akane | Aoki Kikuyo | W+R | 2013-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2LXi%2BY53ebe8mhbYBiqZ2Q%3D%3D) | 
-| 第40期天元戦予選 | Aoki Kikuyo | Takemiya Masaki | W+R | 2013-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CS%2F4BFuRbZyOomDROWt6KQ%3D%3D) | 
-| 第17期ドコモ杯女流棋聖戦準決勝 | Konishi Kazuko | Aoki Kikuyo | W+R | 2013-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=votb0wAlVUXApvGsfNNbzQ%3D%3D) | 
-| 第17期ドコモ杯女流棋聖戦2回戦 | Izawa Akino | Aoki Kikuyo | W+R | 2013-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aF7IEL%2FIiH9Ta6Aje%2F9r7g%3D%3D) | 
-| 第17期ドコモ杯女流棋聖戦1回戦 | Aoki Kikuyo | Shimosaka Miori | B+R | 2013-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kZh%2B5VmDPYxtgRSw73lLDQ%3D%3D) | 
-| 第32期女流本因坊戦2回戦 | Chinen Kaori | Aoki Kikuyo | B+R | 2013-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LbgAKVl4Dt9JZq0rWO%2BHzA%3D%3D) | 
-| 第32期女流本因坊戦1回戦 | Tanemura Sayuri | Aoki Kikuyo | W+R | 2013-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kpJ1WnpF39EUTfzG%2FMQyUg%3D%3D) | 
-| 第16期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Xie Yimin | Aoki Kikuyo | B+0.5 | 2013-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fdwVozyqmy%2FEK2H%2F%2Bifbkg%3D%3D) | 
-| 第16期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Aoki Kikuyo | Xie Yimin | W+R | 2013-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A6ZQJ8nF7GB2v%2BC7UHL20A%3D%3D) | 
-| 第38期碁聖戦予選 | Kono Rin | Aoki Kikuyo | B+R | 2012-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X2D9IqdDZxOd%2FbhMVdxeYw%3D%3D) | 
-| 第25期女流名人戦予選 | Kato Tomoko | Aoki Kikuyo | B+2.5 | 2012-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Da2ZxlZbXE3mpLJnf%2BBcNg%3D%3D) | 
-| 第1回華頂茶業杯世界女子団体選手権第3戦 | Cho Hyeyeon | Aoki Kikuyo | B+R | 2012-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ph7o1gR4th2M971HACSX4w%3D%3D) | 
-| 第1回華頂茶業杯世界女子団体選手権第2戦 | Aoki Kikuyo | Dang Xiyun | B+R | 2012-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=icb6A2CQJrBgQVTVamGUbw%3D%3D) | 
-| 第1回華頂茶業杯世界女子団体選手権第1戦 | Aoki Kikuyo | Rui Naiwei | W+R | 2012-04-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0SoQ5UCJJrySafS8WezBSA%3D%3D) | 
-| 第51期十段戦予選 | Aoki Kikuyo | O Rissei | B+R | 2012-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hWjiw%2FUxdb7XWaPhO%2F%2B2Zw%3D%3D) | 
-| 第31期女流本因坊戦予選 | Aoki Kikuyo | Fujisawa Rina | W+1.5 | 2012-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uSI%2BTdy9w%2BporCvuDm5%2FNw%3D%3D) | 
-| 第15期ドコモ杯女流棋聖戦挑戦手合三番勝負第3局 | Aoki Kikuyo | Xie Yimin | B+R | 2012-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=72GV5V5Jz4rZ4bad5vRxCQ%3D%3D) | 
-| 第15期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Xie Yimin | Aoki Kikuyo | W+9.5 | 2012-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t%2B89dz6G8ppdkIdCcl8mmw%3D%3D) | 
-| 第15期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Aoki Kikuyo | Xie Yimin | W+R | 2012-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ymIgW%2BZwbjM8mCLJIKN2BA%3D%3D) | 
-| 第15期ドコモ杯女流棋聖戦挑戦者決定戦 | Umezawa Yukari | Aoki Kikuyo | W+R | 2011-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rjHfodHBYpT%2Bf%2FGlzo%2Fmbw%3D%3D) | 
-| 第15期ドコモ杯女流棋聖戦準決勝 | Aoki Kikuyo | Yashiro Kumiko | B+4.5 | 2011-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qFlj1TXxDQcyI79kqvLMDA%3D%3D) | 
-| 第15期ドコモ杯女流棋聖戦2回戦 | Aoki Kikuyo | Kato Tomoko | B+8.5 | 2011-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QGa3r%2BONrQBJ7AtJU7Msdg%3D%3D) | 
-| 第15期ドコモ杯女流棋聖戦1回戦 | Mukai Chiaki | Aoki Kikuyo | W+R | 2011-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=78NIZmJsHvgiNjakziAprg%3D%3D) | 
-| 第37期碁聖戦予選 | Aoki Kikuyo | Otake Hideo | B+R | 2011-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Bk1Kg55z7o22iYtkJF9kw%3D%3D) | 
-| 第30期女流本因坊戦1回戦 | Ishii Akane | Aoki Kikuyo | B+R | 2011-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XvrhncvMqIXeh24lAXjolw%3D%3D) | 
-| 第30期女流本因坊戦予選 | Mukai Kozue | Aoki Kikuyo | W+R | 2011-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hhBFg%2BhQV3a7cYr3WnIQKQ%3D%3D) | 
-| 第9回正官庄杯世界女子囲碁最強戦第1戦 | Aoki Kikuyo | Moon Dowon | W+R | 2011-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I0RI1MucpLOgRtUDFKWXOQ%3D%3D) | 
-| 第1回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Hei Jiajia | Aoki Kikuyo | B+R | 2010-09-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FhqsxozzUanMWXLrPoQuZQ%3D%3D) | 
-| 第23期女流名人戦予選 | Aoki Kikuyo | Okuda Aya | W+R | 2010-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IVeNijwj3yqs%2B0TaWGI6rQ%3D%3D) | 
-| 第29期女流本因坊戦1回戦 | Mannami Nao | Aoki Kikuyo | B+9.5 | 2010-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dgzN9PuYbQDJWf%2FNrxRbMA%3D%3D) | 
-| 第8回正官庄杯世界女子囲碁最強戦第5戦 | Aoki Kikuyo | Park Sohyun | W+6.5 | 2009-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KqI%2BStfsBQl%2BLDBWvYmM7w%3D%3D) | 
-| 第28期女流本因坊戦挑戦手合五番勝負第4局 | Aoki Kikuyo | Xie Yimin | W+R | 2009-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ADk5c%2FIazt6UKpwapc%2BRlw%3D%3D) | 
-| 第28期女流本因坊戦挑戦手合五番勝負第3局 | Xie Yimin | Aoki Kikuyo | B+2.5 | 2009-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m%2BZUPBdCBp5NUXHX9hE5vg%3D%3D) | 
-| 第13期ドコモ杯女流棋聖戦2回戦 | Suzuki Ayumi | Aoki Kikuyo | B+R | 2009-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BgWo0Uoz6bwkI%2FYq4%2FTUVA%3D%3D) | 
-| 第28期女流本因坊戦挑戦手合五番勝負第2局 | Aoki Kikuyo | Xie Yimin | W+R | 2009-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o4mEHz8X1Ym6f7SjajS3uQ%3D%3D) | 
-| 第28期女流本因坊戦挑戦手合五番勝負第1局 | Xie Yimin | Aoki Kikuyo | W+R | 2009-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Gb5xDOaolj8KAMc7HJUWg%3D%3D) | 
-| 第8回正官庄杯世界女子囲碁最強戦第4戦 | Aoki Kikuyo | Wang Chenxing | B+R | 2009-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TWccfHqiLeNA2vGCfKmtZQ%3D%3D) | 
-| 第13期ドコモ杯女流棋聖戦1回戦 | Okuda Aya | Aoki Kikuyo | W+R | 2009-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dCp1PRrHrS%2FbgEZcFCtREw%3D%3D) | 
-| 第28期女流本因坊戦挑戦者決定戦 | Ishii Akane | Aoki Kikuyo | W+R | 2009-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6TTbxAQLRLcvc7IjFWmHmQ%3D%3D) | 
-| 第28期女流本因坊戦準決勝 | Aoki Kikuyo | Mukai Kaori | B+7.5 | 2009-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OLPvuGuEl%2FDUMd1%2B1V5bcA%3D%3D) | 
-| 第28期女流本因坊戦2回戦 | Yoshida Mika | Aoki Kikuyo | W+R | 2009-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EjbUTbZDt8rZWmkitC3nBg%3D%3D) | 
-| 第22期女流名人戦予選 | Aoki Kikuyo | Yashiro Kumiko | W+5.5 | 2009-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oDIKQqN3bt3jwqbblD9C3w%3D%3D) | 
-| 第28期女流本因坊戦1回戦 | Koyama Mitsuru | Aoki Kikuyo | W+R | 2009-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0D73GU7OXfuYgvMQ0Ludrw%3D%3D) | 
-| 第3回大和証券杯ネット囲碁レディース予選 | Aoki Kikuyo | Yashiro Kumiko | W+R | 2009-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sIrV8SDf7qhlmlSZAuskCw%3D%3D) | 
-| 第7回正官庄杯世界女子囲碁最強戦第6戦 | Aoki Kikuyo | Song Ronghui | W+R | 2009-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iB2ur%2FW1BZ7%2FaLkBwH87xg%3D%3D) | 
-| 第12期ドコモ杯女流棋聖戦準決勝 | Cho Chien | Aoki Kikuyo | B+0.5 | 2008-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=loDFJeBwK1CPjwXy3NwWyA%3D%3D) | 
-| 第12期ドコモ杯女流棋聖戦2回戦 | Mukai Chiaki | Aoki Kikuyo | W+R | 2008-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d%2BtarH4f1zTq4Pd6DM1p0Q%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁女子団体戦 | Zheng Yan | Aoki Kikuyo | B+6.5 | 2008-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=syV6LdcfLLXv0YXLCcdMsQ%3D%3D) | 
-| 第12期ドコモ杯女流棋聖戦1回戦 | Aoki Kikuyo | Makihata Taeko | B+R | 2008-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V459BZMg2vElDBuM0SH%2F7A%3D%3D) | 
-| 第27期女流本因坊戦準決勝 | Okuda Aya | Aoki Kikuyo | B+1.5 | 2008-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5w6itoxjJ3IjdJRIlbNN5w%3D%3D) | 
-| 第34期碁聖戦予選 | Kudo Norio | Aoki Kikuyo | B+R | 2008-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pgqTvD%2BkdMLmcgr%2BsFKesw%3D%3D) | 
-| 第27期女流本因坊戦2回戦 | Osawa Narumi | Aoki Kikuyo | W+10.5 | 2008-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dBZgxClvnDaBULUeoobBKA%3D%3D) | 
-| 第21期女流名人戦予選 | Mukai Chiaki | Aoki Kikuyo | B+2.5 | 2008-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z6V0Ngb6D1l58hnGwtIhQg%3D%3D) | 
-| 第10期東京精密杯女流プロ最強戦1回戦 | Aoki Kikuyo | Okuda Aya | W+9.5 | 2008-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6%2B%2BHi1ZaL4szrck22ETNPg%3D%3D) | 
-| 第27期女流本因坊戦1回戦 | Aoki Kikuyo | Yoshida Mika | B+7.5 | 2008-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AVOSazQeAYSR%2BzLPCMgQXA%3D%3D) | 
-| 第2回大和証券杯ネット囲碁レディース予選 | Aoki Kikuyo | Izawa Akino | W+17.5 | 2008-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wvFQ5MQZGQK5jwXR6Lpwkw%3D%3D) | 
-| 第21期女流名人戦予選 | Aoki Kikuyo | Aoba Kaori | B+R | 2008-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TCUv8OZEVFRnQUqokbukfA%3D%3D) | 
-| 第6回正官庄杯世界女子囲碁最強戦第6戦 | Fan Weijing | Aoki Kikuyo | B+6.5 | 2008-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=63q39iEZqfKyYNaBeHGYtA%3D%3D) | 
-| 第6回正官庄杯世界女子囲碁最強戦第5戦 | Aoki Kikuyo | missing | B+2.5 | 2008-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u7HUE4L%2B6boYyqxZOmtMSg%3D%3D) | 
-| 第27期女流本因坊戦予選 | Aoki Kikuyo | Ogawa Tomoko | B+R | 2008-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FfpRUqWfUZhs4YbTByLU7w%3D%3D) | 
-| 第6回正官庄杯世界女子囲碁最強戦第4戦 | Aoki Kikuyo | Song Ronghui | B+R | 2008-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KXldOzty0JylJO4k%2BLA7Sg%3D%3D) | 
-| 第6回正官庄杯世界女子囲碁最強戦第3戦 | Lee Sula | Aoki Kikuyo | W+9.5 | 2008-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4R0LC%2BY4vO0Oknxr0UEgBw%3D%3D) | 
-| 第9期東京精密杯女流プロ最強戦決勝 | Aoki Kikuyo | Suzuki Ayumi | W+1.5 | 2007-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=64cwVKq36x84URjXJSItLQ%3D%3D) | 
-| 第1回遠洋地産杯世界女子プロオープン戦2回戦 | Aoki Kikuyo | Kato Keiko | W+2.5 | 2007-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U%2BQOhhIJbNjDk5%2FUUuMBTg%3D%3D) | 
-| 第1回遠洋地産杯世界女子プロオープン戦1回戦 | Aoki Kikuyo | missing | B+R | 2007-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z%2FxbXpluO7XRp61fpWX%2FeA%3D%3D) | 
-| 第9期東京精密杯女流プロ最強戦準決勝 | Kato Keiko | Aoki Kikuyo | W+R | 2007-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CbZbVMHt3lIpPddIxbGLww%3D%3D) | 
-| 第11期ドコモ杯女流棋聖戦1回戦 | Kobayashi Izumi | Aoki Kikuyo | B+5.5 | 2007-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FpMFIwkW9pJvASQ5mW6bLQ%3D%3D) | 
-| 第20期女流名人戦敗者復活戦2回戦 | Mukai Chiaki | Aoki Kikuyo | B+8.5 | 2007-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0nDEVvdYTmHkj2tSAYpnWQ%3D%3D) | 
-| 第9期東京精密杯女流プロ最強戦3回戦 | Izawa Akino | Aoki Kikuyo | W+R | 2007-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bi0MPA9VQozDFEbIxYkkaA%3D%3D) | 
-| 第20期女流名人戦敗者復活戦1回戦 | Aoki Kikuyo | Mannami Kana | B+2.5 | 2007-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0MnD3Z99gA99LGj08XSk0w%3D%3D) | 
-| 第26期女流本因坊戦2回戦 | Aoki Kikuyo | Osawa Narumi | W+R | 2007-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TtGCi%2Fggdwzbago3c7fioA%3D%3D) | 
-| 第9期東京精密杯女流プロ最強戦2回戦 | Aoki Kikuyo | Kato Tomoko | B+1.5 | 2007-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9lDL6mEDDmU%2Fnvu6UA0IsA%3D%3D) | 
-| 第20期女流名人戦1回戦 | Xie Yimin | Aoki Kikuyo | B+R | 2007-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3%2FcyYueTJPUkMp%2B8s3dIvA%3D%3D) | 
-| 第26期女流本因坊戦1回戦 | Shigeno Yuki | Aoki Kikuyo | W+R | 2007-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IyOlsNAS1SYcZdhPFrN4ZA%3D%3D) | 
-| 第1回大和証券杯ネット囲碁レディース予選 | Tanemura Sayuri | Aoki Kikuyo | B+6.5 | 2007-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MCcYjYMo%2BXqTKFzJbyCH6A%3D%3D) | 
-| 第19期女流名人戦挑戦手合三番勝負第3局 | Kato Keiko | Aoki Kikuyo | B+R | 2007-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wHLsfG%2Fujb0HDGMVjgtx9w%3D%3D) | 
-| 第19期女流名人戦挑戦手合三番勝負第2局 | Aoki Kikuyo | Kato Keiko | B+R | 2007-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BT%2BQnI4Wla0DJPBqSRLGSA%3D%3D) | 
-| 第19期女流名人戦挑戦手合三番勝負第1局 | Kato Keiko | Aoki Kikuyo | B+6.5 | 2007-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PmyTpAytSUK9ZblC%2FycMeg%3D%3D) | 
-| 第5回正官庄杯世界女子囲碁最強戦第2戦 | Aoki Kikuyo | Lu Jia | W+14.5 | 2006-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QxlcJ0qE4N%2BYre%2B9V7nhbQ%3D%3D) | 
-| 第10期ドコモ杯女流棋聖戦1回戦 | Yoshida Mika | Aoki Kikuyo | B+14.5 | 2006-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MAI8wYHJL9UR7qaUFZzv%2FQ%3D%3D) | 
-| 第33期天元戦予選 | Kataoka Satoshi | Aoki Kikuyo | B+3.5 | 2006-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I0flcW9cWCTGpm38dmBzLw%3D%3D) | 
-| 第8期東京精密杯女流プロ最強戦2回戦 | Kobayashi Izumi | Aoki Kikuyo | B+R | 2006-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VjbdM2ZbQmRAGA6mG2PbuQ%3D%3D) | 
-| 第8期東京精密杯女流プロ最強戦1回戦 | Aoki Kikuyo | Osawa Narumi | B+R | 2006-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KdXON%2Fms93MkhlY3f1pYEQ%3D%3D) | 
-| 第18期女流名人戦挑戦手合三番勝負第2局 | Koyama Mitsuru | Aoki Kikuyo | W+1.5 | 2006-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pz91oulm6p1EOcnKxDe2fA%3D%3D) | 
-| 第18期女流名人戦挑戦手合三番勝負第1局 | Aoki Kikuyo | Koyama Mitsuru | B+0.5 | 2006-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a1S828vbyDqdwhoenFfVTw%3D%3D) | 
-| 第18期女流名人戦挑戦者決定戦 | Aoki Kikuyo | Yoshida Mika | B+R | 2006-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DZJ6qYQz5PDhPsqt%2BOmZqQ%3D%3D) | 
-| 第18期女流名人戦敗者復活戦決勝 | Inori Yoko | Aoki Kikuyo | W+R | 2005-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1jokJh5jkEaQrbtTmRIa%2Fw%3D%3D) | 
-| 第18期女流名人戦敗者復活戦4回戦 | Aoki Kikuyo | Kato Keiko | B+R | 2005-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kGNY6PCAidLKnV75e2XQtw%3D%3D) | 
-| 第18期女流名人戦敗者復活戦3回戦 | Aoki Kikuyo | Abe Yumiko | B+R | 2005-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aiURUst49jM6vR4tsGRWvQ%3D%3D) | 
-| 第18期女流名人戦3回戦 | Kobayashi Izumi | Aoki Kikuyo | B+R | 2005-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z32Qxbq2TP1nNmsF%2BAnyAw%3D%3D) | 
-| 第18期女流名人戦2回戦 | Kato Keiko | Aoki Kikuyo | W+R | 2005-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d1%2BiyVhfuqUd3c9hrxDbKA%3D%3D) | 
-| 第18期女流名人戦1回戦 | Aoba Kaori | Aoki Kikuyo | W+R | 2005-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SFSs1PYJ5OsnpThOEH%2Bgjg%3D%3D) | 
-| 第7期東京精密杯女流プロ最強戦1回戦 | Mannami Kana | Aoki Kikuyo | W+R | 2005-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EcrCj6gIFdlGOFZZ14fFVA%3D%3D) | 
-| 第17期女流名人戦挑戦者決定戦 | Koyama Mitsuru | Aoki Kikuyo | B+R | 2005-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZLtngENBG95NqaxaORUy6g%3D%3D) | 
-| 第17期女流名人戦敗者復活戦決勝 | Aoki Kikuyo | Chinen Kaori | B+R | 2005-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FhqcTUieTRN0aTwbWD3oKA%3D%3D) | 
-| 第17期女流名人戦敗者復活戦4回戦 | Abe Yumiko | Aoki Kikuyo | W+R | 2004-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ONtJ7HJpgZmi7J8vszlUSQ%3D%3D) | 
-| 第2期JAL女流早碁2回戦 | Konishi Kazuko | Aoki Kikuyo | B+R | 2004-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MQ1TK1GguxKLIXqXAJNQhA%3D%3D) | 
-| 第17期女流名人戦3回戦 | Aoki Kikuyo | Koyama Mitsuru | W+R | 2004-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ahL3NxvWygh%2FboikBPo3TA%3D%3D) | 
-| 第17期女流名人戦2回戦 | Abe Yumiko | Aoki Kikuyo | W+9.5 | 2004-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=45zgwruZV2tKS1x85c9xFA%3D%3D) | 
-| 第17期女流名人戦1回戦 | Aoki Kikuyo | Kobayashi Chizu | B+0.5 | 2004-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y7UQdPSQHemuO%2FD5W9ld6Q%3D%3D) | 
-| 第6期東京精密杯女流プロ最強戦1回戦 | Aoki Kikuyo | Sugiuchi Kazuko | W+9.5 | 2004-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7DKl8wFJX9FwZv1D319Vng%3D%3D) | 
-| 第7期ドコモ杯女流棋聖戦準決勝 | Mannami Kana | Aoki Kikuyo | B+6.5 | 2003-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U8Ufv0WYcRM5ViEp4qVOIg%3D%3D) | 
-| 第16期女流名人戦敗者復活戦4回戦 | Aoki Kikuyo | Chinen Kaori | W+R | 2003-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o4ok9dgCojEi3ziFqwylBA%3D%3D) | 
-| 第7期ドコモ杯女流棋聖戦2回戦 | Aoki Kikuyo | Osawa Narumi | B+R | 2003-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vgb8%2Ba7iaUg4mK121%2Fi%2FSw%3D%3D) | 
-| 第16期女流名人戦敗者復活戦3回戦 | Kato Tomoko | Aoki Kikuyo | W+4.5 | 2003-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6DmLwXvzH%2FCmtp1HeV4a7g%3D%3D) | 
-| 第7期ドコモ杯女流棋聖戦1回戦 | Abe Yumiko | Aoki Kikuyo | W+R | 2003-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5ghj8nEA1nE%2B3ZEbzlgIeA%3D%3D) | 
-| 第2回正官庄杯世界女子囲碁最強戦2回戦 | Aoki Kikuyo | Rui Naiwei | W+R | 2003-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1SO3OijJveKTpMPfJMa4DA%3D%3D) | 
-| 第2回正官庄杯世界女子囲碁最強戦1回戦 | Yu Meiling | Aoki Kikuyo | W+R | 2003-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RTuNNtTHuPs3DoBStx1x%2Bw%3D%3D) | 
-| 第29期碁聖戦予選 | Aoki Kikuyo | Rin Kaiho | W+R | 2003-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hn9lC%2BFYKA1SBZ2EgoODlg%3D%3D) | 
-| 第16期女流名人戦敗者復活戦2回戦 | Umezawa Yukari | Aoki Kikuyo | W+R | 2003-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZUCIoRuGTTkJTff6uNupLw%3D%3D) | 
-| 第16期女流名人戦敗者復活戦1回戦 | Osawa Narumi | Aoki Kikuyo | W+R | 2003-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YUnG0o47Pnpz5DAOGOS3nw%3D%3D) | 
-| 第16期女流名人戦1回戦 | Aoki Kikuyo | Inori Yoko | W+R | 2003-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zAMgj%2BiQki1ADMjf1kkCzA%3D%3D) | 
-| 坂井秀至　試練の十二番勝負　第九戦 | Aoki Kikuyo | Sakai Hideyuki | W+R | 2002-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ypeVvOhPdrhxnpw%2BIU6bFQ%3D%3D) | 
-| 第2回興倉杯世界女流囲碁選手権戦3回戦 | Aoki Kikuyo | Rui Naiwei | W+R | 2001-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s605GQhz81UddOn8%2Bk00Vg%3D%3D) | 
-| 第2回興倉杯世界女流囲碁選手権戦2回戦 | Lee Jihyun | Aoki Kikuyo | W+1.5 | 2000-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7KonmDOiOsE6lXhta0vy%2Bw%3D%3D) | 
-| 第2回興倉杯世界女流囲碁選手権戦1回戦 | Aoki Kikuyo | missing | B+R | 2000-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SbXLUOJ7%2BNmGL1aThL0rUg%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Aoki Kikuyo | Zhang Xuan | Win | B+R | 7.5 | 2668 | 137 | 
+| 2021-07-01 | 第47期碁聖戦予選 | Aoki Kikuyo | Ishida Yoshio | Win | B+5.5 | 6.5 | 2531 | -31 | 
+| 2021-06-14 | 第60期十段戦予選 | Aoki Kikuyo | Rin Kanketsu | Lose | W+R | 6.5 | 2562 | -6 | 
+| 2021-04-12 | 第40期女流本因坊戦1回戦  | Yoshida Mika | Aoki Kikuyo | Lose | B+6.5 | 6.5 | 2568 | -231 | 
+| 2021-02-04 | 第40期女流本因坊戦予選 | Kato Keiko | Aoki Kikuyo | Win | W+R | 6.5 | 2799 | -67 | 
+| 2020-11-19 | 第24期ドコモ杯女流棋聖戦準決勝 | Aoki Kikuyo | Ueno Asami | Lose | W+3.5 | 6.5 | 2866 | -26 | 
+| 2020-10-26 | 第24期ドコモ杯女流棋聖戦2回戦 | Nakamura Sumire | Aoki Kikuyo | Win | W+8.5 | 6.5 | 2892 | 170 | 
+| 2020-09-28 | 第24期ドコモ杯女流棋聖戦1回戦 | Wang Jingyi | Aoki Kikuyo | Win | W+R | 6.5 | 2722 | 241 | 
+| 2020-09-17 | 第46期碁聖戦予選 | Aoki Kikuyo | Kono Rin | Lose | W+R | 6.5 | 2481 | 350 | 
+| 2020-07-09 | 第5回扇興杯女流最強戦1回戦 | Fujisawa Rina | Aoki Kikuyo | Lose | B+0.5 | 6.5 | 2131 | -291 | 
+| 2020-04-02 | 第39期女流本因坊戦2回戦 | Fujisawa Rina | Aoki Kikuyo | Lose | B+1.5 | 6.5 | 2422 | -25 | 
+| 2020-03-05 | 第39期女流本因坊戦1回戦 | Mannami Nao | Aoki Kikuyo | Win | W+R | 6.5 | 2447 | -142 | 
+| 2019-12-26 | 第39期女流本因坊戦予選 | Izawa Akino | Aoki Kikuyo | Win | W+R | 6.5 | 2589 | 522 | 
+| 2019-10-03 | 第23期ドコモ杯女流棋聖戦1回戦 | Aoki Kikuyo | Nishiyama Shizuka | Lose | W+6.5 | 6.5 | 2067 | -56 | 
+| 2019-09-23 | 第2回SGW杯中庸戦予選 | Aoki Kikuyo | Kanazawa Hideo | Lose | W+2.5 | 6.5 | 2123 | -84 | 
+| 2019-06-13 | 第45期碁聖戦予選 | Aoki Kikuyo | Kanda Ei | Win | B+R | 6.5 | 2207 | -15 | 
+| 2019-04-11 | 第45期名人戦予選 | Ryu Shikun | Aoki Kikuyo | Lose | B+R | 6.5 | 2222 | 5 | 
+| 2019-04-08 | 第4回扇興杯女流囲碁最強戦1回戦 | Aoki Kikuyo | Chinen Kaori | Win | B+0.5 | 6.5 | 2217 | -47 | 
+| 2018-11-26 | 第31期女流名人戦準決勝 | Aoki Kikuyo | Koyama Mitsuru | Lose | W+R | 6.5 | 2264 | -50 | 
+| 2018-11-12 | 第1回SGW杯中庸戦予選1回戦 | Aoki Kikuyo | Konagai Masaru | Win | B+3.5 | 6.5 | 2314 | 0 | 
+| 2018-11-12 | 第1回SGW杯中庸戦予選2回戦 | Aoki Kikuyo | Yamamori Tadanao | Lose | W+5.5 | 6.5 | 2314 | -75 | 
+| 2018-11-08 | 第22期ドコモ杯女流棋聖戦2回戦 | Aoki Kikuyo |  | Lose | W+11.5 | 6.5 | 2389 | -47 | 
+| 2018-10-22 | 第31期女流名人戦2回戦 | Yashiro Kumiko | Aoki Kikuyo | Win | W+1.5 | 6.5 | 2436 | -3 | 
+| 2018-10-18 | 第31期ドコモ杯女流棋聖戦1回戦 | Aoki Kikuyo | Abe Yumiko | Win | B+1.5 | 6.5 | 2439 | 16 | 
+| 2018-09-24 | 第31期女流名人戦1回戦 | Wang Jingyi | Aoki Kikuyo | Win | W+R | 6.5 | 2423 | 24 | 
+| 2018-08-30 | 第45期天元戦予選 | Aoki Kikuyo | Kobayashi Satoru | Lose | W+R | 6.5 | 2399 | 21 | 
+| 2018-07-26 | 第37期女流本因坊戦準決勝 | Aoki Kikuyo | Ueno Asami | Lose | W+5.5 | 6.5 | 2378 | -95 | 
+| 2018-07-02 | 第37期女流本因坊戦3回戦 | Ishii Akane | Aoki Kikuyo | Win | W+0.5 | 6.5 | 2473 | 71 | 
+| 2018-06-07 | 第3回扇興杯女流囲碁最強戦2回戦 | Aoki Kikuyo | Tsukuda Akiko | Lose | W+R | 6.5 | 2402 | -4 | 
+| 2018-05-31 | 第67期王座戦予選 | Fujisawa Kazunari | Aoki Kikuyo | Lose | B+R | 6.5 | 2406 | -42 | 
+| 2018-05-17 | 第37期女流本因坊戦2回戦 | Umezawa Yukari | Aoki Kikuyo | Win | W+1.5 | 6.5 | 2448 | 86 | 
+| 2018-05-07 | 第3期扇興杯女流囲碁最強戦1回戦 | Aoki Kikuyo | Mukai Chiaki | Win | B+4.5 | 6.5 | 2362 | 181 | 
+| 2018-04-12 | 第5期会津中央病院・女流立葵杯1回戦 | Hoshiai Shiho | Aoki Kikuyo | Lose | B+7.5 | 6.5 | 2181 | 96 | 
+| 2018-04-05 | 第37期女流本因坊戦1回戦 | Nishiyama Shizuka | Aoki Kikuyo | Win | W+R | 6.5 | 2085 | 2085 | 
+| 2018-02-01 | 第37期女流本因坊戦予選 | Aoki Kikuyo | Kato Tomoko | Win | B+R | 6.5 | missing | -2106 | 
+| 2017-10-30 | 第21期ドコモ杯女流棋聖戦2回戦 | Ueno Asami | Aoki Kikuyo | Lose | B+R | 6.5 | 2106 | -140 | 
+| 2017-09-21 | 第21期ドコモ杯女流棋聖戦1回戦 | Aoki Kikuyo | Osawa Narumi | Win | B+15.5 | 6.5 | 2246 | 198 | 
+| 2017-09-07 | 第30期女流名人戦1回戦 | Aoki Kikuyo | Nyu Eiko | Lose | W+R | 6.5 | 2048 | -238 | 
+| 2017-06-25 | 第65回NHK杯テレビ囲碁トーナメント戦1回戦第13局 | Aoki Kikuyo | Cho Riyu | Lose | W+R | 6.5 | 2286 | -210 | 
+| 2017-04-13 | 第2回扇興杯女流囲碁最強戦　本戦1回戦 | Aoki Kikuyo | Tsukuda Akiko | Lose | W+R | 6.5 | 2496 | 0 | 
+| 2017-04-06 | 第36期女流本因坊戦1回戦 | Kibe Natsuki | Aoki Kikuyo | Lose | B+7.5 | 6.5 | 2496 | 179 | 
+| 2017-01-12 | 第29期女流名人戦リーグ | Aoki Kikuyo | Fujisawa Rina | Lose | W+3.5 | 6.5 | 2317 | -81 | 
+| 2016-12-01 | 第29期女流名人戦リーグ | Kato Keiko | Aoki Kikuyo | Win | W+R | 6.5 | 2398 | -62 | 
+| 2016-10-27 | 第29期女流名人戦リーグ | Aoki Kikuyo | Sakakibara Fumiko | Win | B+R | 6.5 | 2460 | -156 | 
+| 2016-08-18 | 第29期女流名人戦リーグ | Aoki Kikuyo | Ishii Akane | Win | B+R | 6.5 | 2616 | -58 | 
+| 2016-07-15 | 第1回扇興杯女流最強戦準決勝 | Xie Yimin | Aoki Kikuyo | Lose | B+R | 6.5 | 2674 | 48 | 
+| 2016-06-17 | 第3回会津中央病院杯・女流囲碁トーナメント戦決勝 | Aoki Kikuyo | Xie Yimin | Lose | W+4.5 | 6.5 | 2626 | 48 | 
+| 2016-05-26 | 第1回扇興杯女流最強戦2回戦 | Aoki Kikuyo | Osawa Narumi | Win | B+6.5 | 6.5 | 2578 | 1 | 
+| 2016-05-22 | 第3回会津中央病院杯・女流囲碁トーナメント戦準決勝 | Aoki Kikuyo | Wang Jingyi | Win | B+R | 6.5 | 2577 | 8 | 
+| 2016-05-21 | 第3回会津中央病院杯・女流囲碁トーナメント戦1回戦 | Aoki Kikuyo | Fujisawa Rina | Win | B+R | 6.5 | 2569 | 71 | 
+| 2016-05-15 | 第5回天台山農商銀行杯世界女子団体戦第3戦 | Aoki Kikuyo | Choi Jeong | Lose | W+4.5 | 7.5 | 2498 | -7 | 
+| 2016-05-14 | 第5回天台山農商銀行杯世界女子団体戦第2戦 | Hei Jiajia | Aoki Kikuyo | Lose | B+R | 7.5 | 2505 | -39 | 
+| 2016-05-13 | 第5回天台山農商銀行杯世界女子団体戦第1戦 | Yu Zhiying | Aoki Kikuyo | Lose | B+R | 7.5 | 2544 | -99 | 
+| 2016-04-28 | 第1回扇興杯女流最強戦1回戦 | Aoki Kikuyo | Ashida Isoko | Win | B+R | 6.5 | 2643 | 139 | 
+| 2016-04-09 | 第6回黄竜士双登杯世界女子囲碁団体選手権第3戦 | Aoki Kikuyo | Kim Cheayoung | Lose | W+R | 7.5 | 2504 | -61 | 
+| 2016-03-16 | 第28期女流名人戦挑戦手合三番勝負第3局 | Aoki Kikuyo | Xie Yimin | Lose | W+0.5 | 6.5 | 2565 | -59 | 
+| 2016-03-09 | 第28期女流名人戦挑戦手合三番勝負第2局 | Aoki Kikuyo | Xie Yimin | Win | B+R | 6.5 | 2624 | 81 | 
+| 2016-03-03 | 第28期女流名人戦挑戦手合三番勝負第1局 | Xie Yimin | Aoki Kikuyo | Lose | B+R | 6.5 | 2543 | -223 | 
+| 2016-01-07 | 第28期女流名人戦リーグ | Fujisawa Rina | Aoki Kikuyo | Win | W+R | 6.5 | 2766 | 39 | 
+| 2015-12-17 | 第28期女流名人戦リーグ | Mannami Nao | Aoki Kikuyo | Win | W+R | 6.5 | 2727 | 208 | 
+| 2015-11-30 | 第19期ドコモ杯女流棋聖戦準決勝 | Aoki Kikuyo | Kato Keiko | Lose | W+R | 6.5 | 2519 | -64 | 
+| 2015-11-19 | 第28期女流名人戦リーグ | Aoki Kikuyo | Suzuki Ayumi | Win | B+1.5 | 6.5 | 2583 | 93 | 
+| 2015-10-29 | 第19期ドコモ杯女流棋聖戦2回戦 | Aoki Kikuyo | Chinen Kaori | Win | B+R | 6.5 | 2490 | 134 | 
+| 2015-10-15 | 第28期女流名人戦リーグ | Aoki Kikuyo | Kato Keiko | Win | B+R | 6.5 | 2356 | -28 | 
+| 2015-10-01 | 第19期ドコモ杯女流棋聖戦1回戦 | Tamura Chiaki | Aoki Kikuyo | Win | W+R | 6.5 | 2384 | 98 | 
+| 2015-09-24 | 第28期女流名人戦リーグ | Aoki Kikuyo | Chinen Kaori | Win | B+R | 6.5 | 2286 | -177 | 
+| 2015-08-27 | 第28期女流名人戦リーグ | Okuda Aya | Aoki Kikuyo | Win | W+7.5 | 6.5 | 2463 | 44 | 
+| 2015-03-19 | 第34期女流本因坊戦予選 | Aoki Kikuyo | Kato Tomoko | Lose | W+1.5 | 6.5 | 2419 | -252 | 
+| 2015-01-08 | 第27期女流名人戦リーグ | Ishii Akane | Aoki Kikuyo | Win | W+R | 6.5 | 2671 | 41 | 
+| 2014-12-11 | 第27期女流名人戦リーグ | Aoki Kikuyo | Kato Keiko | Lose | W+4.5 | 6.5 | 2630 | -45 | 
+| 2014-10-09 | 第27期女流名人戦リーグ | Aoki Kikuyo | Mannami Nao | Win | B+4.5 | 6.5 | 2675 | 56 | 
+| 2014-09-29 | 第18期ドコモ杯女流棋聖戦1回戦 | Koyama Mitsuru | Aoki Kikuyo | Lose | B+R | 6.5 | 2619 | -70 | 
+| 2014-09-18 | 第27期女流名人戦リーグ | Chinen Kaori | Aoki Kikuyo | Win | W+3.5 | 6.5 | 2689 | 97 | 
+| 2014-08-28 | 第27期女流名人戦リーグ | Aoki Kikuyo | Suzuki Ayumi | Win | B+3.5 | 6.5 | 2592 | 26 | 
+| 2014-08-21 | 第27期女流名人戦リーグ | Mukai Chiaki | Aoki Kikuyo | Lose | B+4.5 | 6.5 | 2566 | -20 | 
+| 2014-07-17 | 第40期名人戦予選 | Cho Chikun | Aoki Kikuyo | Lose | B+5.5 | 6.5 | 2586 | 1 | 
+| 2014-07-10 | 第27期女流名人戦予選 | Koyama Mitsuru | Aoki Kikuyo | Win | W+R | 6.5 | 2585 | 20 | 
+| 2014-06-12 | 第33期女流本因坊戦2回戦 | Okuda Aya | Aoki Kikuyo | Lose | B+3.5 | 6.5 | 2565 | -26 | 
+| 2014-05-29 | 第27期女流名人戦予選 | Izawa Akino | Aoki Kikuyo | Win | W+R | 6.5 | 2591 | 16 | 
+| 2014-04-27 | 第3回天台山葛玄緑茶杯世界女子団体戦第3戦 | Yu Zhiying | Aoki Kikuyo | Lose | B+7.5 | 7.5 | 2575 | -78 | 
+| 2014-04-26 | 第3回天台山葛玄緑茶杯世界女子団体戦第2戦 | Aoki Kikuyo | Choi Jeong | Lose | W+2.5 | 7.5 | 2653 | -36 | 
+| 2014-04-25 | 第3回天台山葛玄緑茶杯世界女子団体戦第1戦 | Zhang Zhengping | Aoki Kikuyo | Win | W+R | 7.5 | 2689 | -29 | 
+| 2014-04-10 | 第33期女流本因坊戦1回戦 | Aoki Kikuyo | Makihata Taeko | Win | B+R | 6.5 | 2718 | 92 | 
+| 2014-02-13 | 第70期本因坊戦予選 | Aoki Kikuyo | Oki Keiji | Lose | W+4.5 | 6.5 | 2626 | 17 | 
+| 2014-01-30 | 第17期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Xie Yimin | Aoki Kikuyo | Lose | B+R | 6.5 | 2609 | 38 | 
+| 2014-01-23 | 第17期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Aoki Kikuyo | Xie Yimin | Lose | W+R | 6.5 | 2571 | -17 | 
+| 2013-12-16 | 第17期ドコモ杯女流棋聖戦挑戦者決定戦 | Ishii Akane | Aoki Kikuyo | Win | W+R | 6.5 | 2588 | 90 | 
+| 2013-12-05 | 第40期天元戦予選 | Aoki Kikuyo | Takemiya Masaki | Lose | W+R | 6.5 | 2498 | 0 | 
+| 2013-11-18 | 第17期ドコモ杯女流棋聖戦準決勝 | Konishi Kazuko | Aoki Kikuyo | Win | W+R | 6.5 | 2498 | 411 | 
+| 2013-10-31 | 第17期ドコモ杯女流棋聖戦2回戦 | Izawa Akino | Aoki Kikuyo | Win | W+R | 6.5 | 2087 | 2087 | 
+| 2013-10-14 | 第17期ドコモ杯女流棋聖戦1回戦 | Aoki Kikuyo | Shimosaka Miori | Win | B+R | 6.5 | missing | 0 | 
+| 2013-07-25 | 第32期女流本因坊戦2回戦 | Chinen Kaori | Aoki Kikuyo | Lose | B+R | 6.5 | missing | 0 | 
+| 2013-05-16 | 第32期女流本因坊戦1回戦 | Tanemura Sayuri | Aoki Kikuyo | Win | W+R | 6.5 | missing | -2473 | 
+| 2013-01-28 | 第16期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Xie Yimin | Aoki Kikuyo | Lose | B+0.5 | 6.5 | 2473 | 27 | 
+| 2013-01-24 | 第16期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Aoki Kikuyo | Xie Yimin | Lose | W+R | 6.5 | 2446 | -419 | 
+| 2012-06-28 | 第38期碁聖戦予選 | Kono Rin | Aoki Kikuyo | Lose | B+R | 6.5 | 2865 | -25 | 
+| 2012-05-10 | 第25期女流名人戦予選 | Kato Tomoko | Aoki Kikuyo | Lose | B+2.5 | 6.5 | 2890 | -216 | 
+| 2012-04-28 | 第1回華頂茶業杯世界女子団体選手権第3戦 | Cho Hyeyeon | Aoki Kikuyo | Lose | B+R | 7.5 | 3106 | -57 | 
+| 2012-04-27 | 第1回華頂茶業杯世界女子団体選手権第2戦 | Aoki Kikuyo | Dang Xiyun | Win | B+R | 7.5 | 3163 | 7 | 
+| 2012-04-26 | 第1回華頂茶業杯世界女子団体選手権第1戦 | Aoki Kikuyo | Rui Naiwei | Lose | W+R | 7.5 | 3156 | -73 | 
+| 2012-04-19 | 第51期十段戦予選 | Aoki Kikuyo | O Rissei | Win | B+R | 6.5 | 3229 | 184 | 
+| 2012-03-08 | 第31期女流本因坊戦予選 | Aoki Kikuyo | Fujisawa Rina | Lose | W+1.5 | 6.5 | 3045 | -187 | 
+| 2012-02-16 | 第15期ドコモ杯女流棋聖戦挑戦手合三番勝負第3局 | Aoki Kikuyo | Xie Yimin | Win | B+R | 6.5 | 3232 | 127 | 
+| 2012-02-09 | 第15期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Xie Yimin | Aoki Kikuyo | Win | W+9.5 | 6.5 | 3105 | 97 | 
+| 2012-01-26 | 第15期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Aoki Kikuyo | Xie Yimin | Lose | W+R | 6.5 | 3008 | 8 | 
+| 2011-12-22 | 第15期ドコモ杯女流棋聖戦挑戦者決定戦 | Umezawa Yukari | Aoki Kikuyo | Win | W+R | 6.5 | 3000 | 380 | 
+| 2011-11-28 | 第15期ドコモ杯女流棋聖戦準決勝 | Aoki Kikuyo | Yashiro Kumiko | Win | B+4.5 | 6.5 | 2620 | 58 | 
+| 2011-10-20 | 第15期ドコモ杯女流棋聖戦2回戦 | Aoki Kikuyo | Kato Tomoko | Win | B+8.5 | 6.5 | 2562 | -31 | 
+| 2011-09-15 | 第15期ドコモ杯女流棋聖戦1回戦 | Mukai Chiaki | Aoki Kikuyo | Win | W+R | 6.5 | 2593 | 193 | 
+| 2011-05-05 | 第37期碁聖戦予選 | Aoki Kikuyo | Otake Hideo | Win | B+R | 6.5 | 2400 | 2400 | 
+| 2011-04-14 | 第30期女流本因坊戦1回戦 | Ishii Akane | Aoki Kikuyo | Lose | B+R | 6.5 | missing | 0 | 
+| 2011-02-10 | 第30期女流本因坊戦予選 | Mukai Kozue | Aoki Kikuyo | Win | W+R | 6.5 | missing | 0 | 
+| 2011-01-08 | 第9回正官庄杯世界女子囲碁最強戦第1戦 | Aoki Kikuyo | Moon Dowon | Lose | W+R | 6.5 | missing | -2365 | 
+| 2010-09-11 | 第1回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Hei Jiajia | Aoki Kikuyo | Lose | B+R | 7.5 | 2365 | 85 | 
+| 2010-05-20 | 第23期女流名人戦予選 | Aoki Kikuyo | Okuda Aya | Lose | W+R | 6.5 | 2280 | -4 | 
+| 2010-04-01 | 第29期女流本因坊戦1回戦 | Mannami Nao | Aoki Kikuyo | Lose | B+9.5 | 6.5 | 2284 | -63 | 
+| 2009-12-20 | 第8回正官庄杯世界女子囲碁最強戦第5戦 | Aoki Kikuyo | Park Sohyun | Lose | W+6.5 | 6.5 | 2347 | -197 | 
+| 2009-10-28 | 第28期女流本因坊戦挑戦手合五番勝負第4局 | Aoki Kikuyo | Xie Yimin | Lose | W+R | 6.5 | 2544 | -54 | 
+| 2009-10-21 | 第28期女流本因坊戦挑戦手合五番勝負第3局 | Xie Yimin | Aoki Kikuyo | Lose | B+2.5 | 6.5 | 2598 | -19 | 
+| 2009-10-19 | 第13期ドコモ杯女流棋聖戦2回戦 | Suzuki Ayumi | Aoki Kikuyo | Lose | B+R | 6.5 | 2617 | -7 | 
+| 2009-10-09 | 第28期女流本因坊戦挑戦手合五番勝負第2局 | Aoki Kikuyo | Xie Yimin | Lose | W+R | 6.5 | 2624 | 4 | 
+| 2009-10-01 | 第28期女流本因坊戦挑戦手合五番勝負第1局 | Xie Yimin | Aoki Kikuyo | Win | W+R | 6.5 | 2620 | 47 | 
+| 2009-09-25 | 第8回正官庄杯世界女子囲碁最強戦第4戦 | Aoki Kikuyo | Wang Chenxing | Win | B+R | 6.5 | 2573 | 48 | 
+| 2009-09-10 | 第13期ドコモ杯女流棋聖戦1回戦 | Okuda Aya | Aoki Kikuyo | Win | W+R | 6.5 | 2525 | 181 | 
+| 2009-07-23 | 第28期女流本因坊戦挑戦者決定戦 | Ishii Akane | Aoki Kikuyo | Win | W+R | 6.5 | 2344 | 106 | 
+| 2009-06-25 | 第28期女流本因坊戦準決勝 | Aoki Kikuyo | Mukai Kaori | Win | B+7.5 | 6.5 | 2238 | 93 | 
+| 2009-06-04 | 第28期女流本因坊戦2回戦 | Yoshida Mika | Aoki Kikuyo | Win | W+R | 6.5 | 2145 | -44 | 
+| 2009-04-30 | 第22期女流名人戦予選 | Aoki Kikuyo | Yashiro Kumiko | Lose | W+5.5 | 6.5 | 2189 | 7 | 
+| 2009-04-16 | 第28期女流本因坊戦1回戦 | Koyama Mitsuru | Aoki Kikuyo | Win | W+R | 6.5 | 2182 | 50 | 
+| 2009-03-23 | 第3回大和証券杯ネット囲碁レディース予選 | Aoki Kikuyo | Yashiro Kumiko | Lose | W+R | 6.5 | 2132 | -111 | 
+| 2009-01-12 | 第7回正官庄杯世界女子囲碁最強戦第6戦 | Aoki Kikuyo | Song Ronghui | Lose | W+R | 6.5 | 2243 | -50 | 
+| 2008-12-01 | 第12期ドコモ杯女流棋聖戦準決勝 | Cho Chien | Aoki Kikuyo | Lose | B+0.5 | 6.5 | 2293 | -320 | 
+| 2008-10-23 | 第12期ドコモ杯女流棋聖戦2回戦 | Mukai Chiaki | Aoki Kikuyo | Win | W+R | 6.5 | 2613 | 33 | 
+| 2008-10-15 | 第1回ワールドマインドスポーツゲームズ囲碁女子団体戦 | Zheng Yan | Aoki Kikuyo | Lose | B+6.5 | 6.5 | 2580 | 179 | 
+| 2008-08-26 | 第12期ドコモ杯女流棋聖戦1回戦 | Aoki Kikuyo | Makihata Taeko | Win | B+R | 6.5 | 2401 | 259 | 
+| 2008-08-07 | 第27期女流本因坊戦準決勝 | Okuda Aya | Aoki Kikuyo | Lose | B+1.5 | 6.5 | 2142 | -3 | 
+| 2008-07-31 | 第34期碁聖戦予選 | Kudo Norio | Aoki Kikuyo | Lose | B+R | 6.5 | 2145 | -162 | 
+| 2008-06-12 | 第27期女流本因坊戦2回戦 | Osawa Narumi | Aoki Kikuyo | Win | W+10.5 | 6.5 | 2307 | 18 | 
+| 2008-05-22 | 第21期女流名人戦予選 | Mukai Chiaki | Aoki Kikuyo | Lose | B+2.5 | 6.5 | 2289 | -7 | 
+| 2008-05-19 | 第10期東京精密杯女流プロ最強戦1回戦 | Aoki Kikuyo | Okuda Aya | Lose | W+9.5 | 6.5 | 2296 | -27 | 
+| 2008-05-15 | 第27期女流本因坊戦1回戦 | Aoki Kikuyo | Yoshida Mika | Win | B+7.5 | 6.5 | 2323 | -22 | 
+| 2008-04-28 | 第2回大和証券杯ネット囲碁レディース予選 | Aoki Kikuyo | Izawa Akino | Lose | W+17.5 | 6.5 | 2345 | 265 | 
+| 2008-03-20 | 第21期女流名人戦予選 | Aoki Kikuyo | Aoba Kaori | Win | B+R | 6.5 | 2080 | 80 | 
+| 2008-03-03 | 第6回正官庄杯世界女子囲碁最強戦第6戦 | Fan Weijing | Aoki Kikuyo | Lose | B+6.5 | 6.5 | 2000 | 2000 | 
+| 2008-03-02 | 第6回正官庄杯世界女子囲碁最強戦第5戦 | Aoki Kikuyo |  | Win | B+2.5 | 6.5 | missing | -2078 | 
+| 2008-01-31 | 第27期女流本因坊戦予選 | Aoki Kikuyo | Ogawa Tomoko | Win | B+R | 6.5 | 2078 | -18 | 
+| 2008-01-11 | 第6回正官庄杯世界女子囲碁最強戦第4戦 | Aoki Kikuyo | Song Ronghui | Win | B+R | 6.5 | 2096 | 43 | 
+| 2008-01-10 | 第6回正官庄杯世界女子囲碁最強戦第3戦 | Lee Sula | Aoki Kikuyo | Win | W+9.5 | 6.5 | 2053 | 47 | 
+| 2007-11-26 | 第9期東京精密杯女流プロ最強戦決勝 | Aoki Kikuyo | Suzuki Ayumi | Lose | W+1.5 | 6.5 | 2006 | -64 | 
+| 2007-10-30 | 第1回遠洋地産杯世界女子プロオープン戦2回戦 | Aoki Kikuyo | Kato Keiko | Lose | W+2.5 | 7.5 | 2070 | -11 | 
+| 2007-10-29 | 第1回遠洋地産杯世界女子プロオープン戦1回戦 | Aoki Kikuyo |  | Win | B+R | 7.5 | 2081 | 13 | 
+| 2007-10-11 | 第9期東京精密杯女流プロ最強戦準決勝 | Kato Keiko | Aoki Kikuyo | Win | W+R | 6.5 | 2068 | -1174 | 
+| 2007-09-17 | 第11期ドコモ杯女流棋聖戦1回戦 | Kobayashi Izumi | Aoki Kikuyo | Lose | B+5.5 | 6.5 | 3242 | 1208 | 
+| 2007-09-06 | 第20期女流名人戦敗者復活戦2回戦 | Mukai Chiaki | Aoki Kikuyo | Lose | B+8.5 | 6.5 | 2034 | -43 | 
+| 2007-08-16 | 第9期東京精密杯女流プロ最強戦3回戦 | Izawa Akino | Aoki Kikuyo | Win | W+R | 6.5 | 2077 | -229 | 
+| 2007-06-28 | 第20期女流名人戦敗者復活戦1回戦 | Aoki Kikuyo | Mannami Kana | Win | B+2.5 | 6.5 | 2306 | 107 | 
+| 2007-06-21 | 第26期女流本因坊戦2回戦 | Aoki Kikuyo | Osawa Narumi | Lose | W+R | 6.5 | 2199 | -46 | 
+| 2007-06-11 | 第9期東京精密杯女流プロ最強戦2回戦 | Aoki Kikuyo | Kato Tomoko | Win | B+1.5 | 6.5 | 2245 | 275 | 
+| 2007-05-24 | 第20期女流名人戦1回戦 | Xie Yimin | Aoki Kikuyo | Lose | B+R | 6.5 | 1970 | -191 | 
+| 2007-04-26 | 第26期女流本因坊戦1回戦 | Shigeno Yuki | Aoki Kikuyo | Win | W+R | 6.5 | 2161 | -19 | 
+| 2007-04-24 | 第1回大和証券杯ネット囲碁レディース予選 | Tanemura Sayuri | Aoki Kikuyo | Lose | B+6.5 | 6.5 | 2180 | 97 | 
+| 2007-03-07 | 第19期女流名人戦挑戦手合三番勝負第3局 | Kato Keiko | Aoki Kikuyo | Lose | B+R | 6.5 | 2083 | -18 | 
+| 2007-02-28 | 第19期女流名人戦挑戦手合三番勝負第2局 | Aoki Kikuyo | Kato Keiko | Win | B+R | 6.5 | 2101 | 268 | 
+| 2007-02-21 | 第19期女流名人戦挑戦手合三番勝負第1局 | Kato Keiko | Aoki Kikuyo | Lose | B+6.5 | 6.5 | 1833 | -191 | 
+| 2006-12-12 | 第5回正官庄杯世界女子囲碁最強戦第2戦 | Aoki Kikuyo | Lu Jia | Lose | W+14.5 | 6.5 | 2024 | -519 | 
+| 2006-09-21 | 第10期ドコモ杯女流棋聖戦1回戦 | Yoshida Mika | Aoki Kikuyo | Lose | B+14.5 | 6.5 | 2543 | -172 | 
+| 2006-07-13 | 第33期天元戦予選 | Kataoka Satoshi | Aoki Kikuyo | Lose | B+3.5 | 6.5 | 2715 | -408 | 
+| 2006-06-22 | 第8期東京精密杯女流プロ最強戦2回戦 | Kobayashi Izumi | Aoki Kikuyo | Lose | B+R | 6.5 | 3123 | 47 | 
+| 2006-05-08 | 第8期東京精密杯女流プロ最強戦1回戦 | Aoki Kikuyo | Osawa Narumi | Win | B+R | 6.5 | 3076 | 178 | 
+| 2006-02-15 | 第18期女流名人戦挑戦手合三番勝負第2局 | Koyama Mitsuru | Aoki Kikuyo | Win | W+1.5 | 6.5 | 2898 | -27 | 
+| 2006-02-09 | 第18期女流名人戦挑戦手合三番勝負第1局 | Aoki Kikuyo | Koyama Mitsuru | Win | B+0.5 | 6.5 | 2925 | 278 | 
+| 2006-01-09 | 第18期女流名人戦挑戦者決定戦 | Aoki Kikuyo | Yoshida Mika | Win | B+R | 6.5 | 2647 | -137 | 
+| 2005-12-15 | 第18期女流名人戦敗者復活戦決勝 | Inori Yoko | Aoki Kikuyo | Win | W+R | 6.5 | 2784 | 192 | 
+| 2005-11-10 | 第18期女流名人戦敗者復活戦4回戦 | Aoki Kikuyo | Kato Keiko | Win | B+R | 6.5 | 2592 | 4173 | 
+| 2005-09-29 | 第18期女流名人戦敗者復活戦3回戦 | Aoki Kikuyo | Abe Yumiko | Win | B+R | 6.5 | -1581 | 41 | 
+| 2005-09-01 | 第18期女流名人戦3回戦 | Kobayashi Izumi | Aoki Kikuyo | Lose | B+R | 6.5 | -1622 | -62 | 
+| 2005-08-11 | 第18期女流名人戦2回戦 | Kato Keiko | Aoki Kikuyo | Win | W+R | 6.5 | -1560 | 7944 | 
+| 2005-05-26 | 第18期女流名人戦1回戦 | Aoba Kaori | Aoki Kikuyo | Win | W+R | 6.5 | -9504 | -2308 | 
+| 2005-05-09 | 第7期東京精密杯女流プロ最強戦1回戦 | Mannami Kana | Aoki Kikuyo | Win | W+R | 6.5 | -7196 | -9457 | 
+| 2005-01-19 | 第17期女流名人戦挑戦者決定戦 | Koyama Mitsuru | Aoki Kikuyo | Lose | B+R | 6.5 | 2261 | -54 | 
+| 2005-01-13 | 第17期女流名人戦敗者復活戦決勝 | Aoki Kikuyo | Chinen Kaori | Win | B+R | 6.5 | 2315 | 235 | 
+| 2004-12-23 | 第17期女流名人戦敗者復活戦4回戦 | Abe Yumiko | Aoki Kikuyo | Win | W+R | 6.5 | 2080 | -159 | 
+| 2004-10-09 | 第2期JAL女流早碁2回戦 | Konishi Kazuko | Aoki Kikuyo | Lose | B+R | 6.5 | 2239 | 163 | 
+| 2004-08-26 | 第17期女流名人戦3回戦 | Aoki Kikuyo | Koyama Mitsuru | Lose | W+R | 6.5 | 2076 | -153 | 
+| 2004-07-29 | 第17期女流名人戦2回戦 | Abe Yumiko | Aoki Kikuyo | Win | W+9.5 | 6.5 | 2229 | -134 | 
+| 2004-05-27 | 第17期女流名人戦1回戦 | Aoki Kikuyo | Kobayashi Chizu | Win | B+0.5 | 6.5 | 2363 | -47 | 
+| 2004-05-10 | 第6期東京精密杯女流プロ最強戦1回戦 | Aoki Kikuyo | Sugiuchi Kazuko | Lose | W+9.5 | 6.5 | 2410 | 9345 | 
+| 2003-12-19 | 第7期ドコモ杯女流棋聖戦準決勝 | Mannami Kana | Aoki Kikuyo | Lose | B+6.5 | 6.5 | -6935 | 10332 | 
+| 2003-11-20 | 第16期女流名人戦敗者復活戦4回戦 | Aoki Kikuyo | Chinen Kaori | Lose | W+R | 6.5 | -17267 | -33 | 
+| 2003-11-14 | 第7期ドコモ杯女流棋聖戦2回戦 | Aoki Kikuyo | Osawa Narumi | Win | B+R | 6.5 | -17234 | 1279 | 
+| 2003-10-23 | 第16期女流名人戦敗者復活戦3回戦 | Kato Tomoko | Aoki Kikuyo | Win | W+4.5 | 6.5 | -18513 | -2676 | 
+| 2003-10-17 | 第7期ドコモ杯女流棋聖戦1回戦 | Abe Yumiko | Aoki Kikuyo | Win | W+R | 6.5 | -15837 | -15837 | 
+| 2003-10-10 | 第2回正官庄杯世界女子囲碁最強戦2回戦 | Aoki Kikuyo | Rui Naiwei | Lose | W+R | 6.5 | missing | 0 | 
+| 2003-10-08 | 第2回正官庄杯世界女子囲碁最強戦1回戦 | Yu Meiling | Aoki Kikuyo | Win | W+R | 6.5 | missing | 0 | 
+| 2003-10-02 | 第29期碁聖戦予選 | Aoki Kikuyo | Rin Kaiho | Lose | W+R | 6.5 | missing | 0 | 
+| 2003-08-28 | 第16期女流名人戦敗者復活戦2回戦 | Umezawa Yukari | Aoki Kikuyo | Win | W+R | 6.5 | missing | 0 | 
+| 2003-06-19 | 第16期女流名人戦敗者復活戦1回戦 | Osawa Narumi | Aoki Kikuyo | Win | W+R | 6.5 | missing | 0 | 
+| 2003-05-08 | 第16期女流名人戦1回戦 | Aoki Kikuyo | Inori Yoko | Lose | W+R | 6.5 | missing | 0 | 
+| 2002-06-30 | 坂井秀至　試練の十二番勝負　第九戦 | Aoki Kikuyo | Sakai Hideyuki | Lose | W+R | 6.5 | missing | 0 | 
+| 2001-01-09 | 第2回興倉杯世界女流囲碁選手権戦3回戦 | Aoki Kikuyo | Rui Naiwei | Lose | W+R | 6.5 | missing | 0 | 
+| 2000-09-30 | 第2回興倉杯世界女流囲碁選手権戦2回戦 | Lee Jihyun | Aoki Kikuyo | Win | W+1.5 | 6.5 | missing | 0 | 
+| 2000-09-28 | 第2回興倉杯世界女流囲碁選手権戦1回戦 | Aoki Kikuyo |  | Win | B+R | 6.5 | missing | missing |
 
 
 

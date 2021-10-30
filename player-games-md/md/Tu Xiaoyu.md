@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Tu Xiaoyu | Fukuoka Kotaro | Lose | W+¼ | 7.5 | 3501 | -20 | 
 | 2021-10-13 | 第7回国手山脈国際囲碁大会中国予選 | Huang Yunsong | Tu Xiaoyu | Lose | B+R | 6.5 | 3521 | 14 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Wang Zejin | Win | B+1¾ | 7.5 | 3507 | 4 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Tu Xiaoyu | Shi Yue | Win | B+R | 7.5 | 3503 | 24 | 

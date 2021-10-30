@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Chang Hao | Yamashita Keigo | Lose | W+¼ | 7.5 | 3299 | -3 | 
 | 2021-09-13 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第2ラウンド | Takao Shinji | Chang Hao | Win | W+¼ | 7.5 | 3302 | 2 | 
 | 2021-09-12 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第1ラウンド | Lee Changho | Chang Hao | Lose | B+R | 7.5 | 3300 | -66 | 
 | 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Chang Hao | Hu Yuhan | Lose | W+1¼ | 7.5 | 3366 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Tu Xiaoyu | Fukuoka Kotaro | Win | W+¼ | 7.5 | 2860 | -9 | 
 | 2021-09-02 | 第47期名人戦予選  | Cho Chikun | Fukuoka Kotaro | Lose | B+1.5 | 6.5 | 2869 | -66 | 
 | 2021-08-02 | 第77期本因坊戦予選 | Sada Atsushi | Fukuoka Kotaro | Lose | B+3.5 | 6.5 | 2935 | 34 | 
 | 2021-07-08 | 第46期棋聖戦Cリーグ | Numadate Sakiya | Fukuoka Kotaro | Lose | B+1.5 | 6.5 | 2901 | -13 | 
@@ -43,7 +44,7 @@
 | 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第4戦 | Lin Jiehan | Fukuoka Kotaro | Win | W+R | 6.5 | 2557 | 0 | 
 | 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第3戦 | Fukuoka Kotaro |  | Lose | W+R | 6.5 | 2557 | 114 | 
 | 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第2戦 |  | Fukuoka Kotaro | Lose | B+T | 6.5 | 2443 | 0 | 
-| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第1戦 | Fukuoka Kotaro |  | Win | B+R | 6.5 | 2443 | -13 | 
+| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第1戦 | Fukuoka Kotaro | Bai Xinhui | Win | B+R | 6.5 | 2443 | -13 | 
 | 2020-01-09 | 第46期名人戦予選 | Fukuoka Kotaro | Rin Kaiho | Win | B+R | 6.5 | 2456 | 58 | 
 | 2019-12-26 | 第45期棋聖戦ファーストトーナメント予選 | Kim Sujun | Fukuoka Kotaro | Lose | B+R | 6.5 | 2398 | 358 | 
 | 2019-11-11 | 第45期新人王戦予選 |  | Fukuoka Kotaro | Lose | B+R | 6.5 | 2040 | -156 | 

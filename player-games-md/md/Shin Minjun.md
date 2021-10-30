@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-30 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Seungmin | Shin Minjun | Win | W+R | 6.5 | 3523 | 20 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Shin Minjun | Dang Yifei | Lose | W+R | 6.5 | 3503 | -129 | 
 | 2021-10-16 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Han Seungjoo | Shin Minjun | Lose | B+R | 6.5 | 3632 | 100 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Lian Xiao | Shin Minjun | Win | W+R | 7.5 | 3532 | 9 | 

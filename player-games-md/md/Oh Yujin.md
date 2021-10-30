@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-30 | 2021女子最高棋士決定戦（韓国）リーグ | Kim Eunseon | Oh Yujin | Win | W+R | 6.5 | 3086 | 12 | 
+| 2021-10-22 | 第26期女流国手戦準決勝 | Kim Cheayoung | Oh Yujin | Win | W+R | 6.5 | 3074 | 5 | 
 | 2021-10-19 | 第9回中国女子囲碁甲級リーグ | Li He | Oh Yujin | Win | W+R | 7.5 | 3069 | -131 | 
 | 2021-10-16 | 第9回中国女子囲碁甲級リーグ | Oh Yujin |  | Win | B+R | 7.5 | 3200 | 100 | 
 | 2021-10-14 | 第9回中国女子囲碁甲級リーグ | Chen Yiming | Oh Yujin | Win | W+R | 7.5 | 3100 | 8 | 

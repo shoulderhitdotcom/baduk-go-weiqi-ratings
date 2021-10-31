@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Cho Hunhyun | Takemiya Masaki | Win | W+2¼ | 7.5 | 2772 | 194 | 
 | 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Takemiya Masaki | Nie Weiping | Win | B+R | 7.5 | 2578 | -156 | 
 | 2021-10-18 | 第48期天元戦予選 | Takemiya Masaki | Otake Hideo | Win | B+6.5 | 6.5 | 2734 | 103 | 
 | 2021-10-07 | 第61期十段戦予選 | Takemiya Masaki |  | Lose | W+2.5 | 6.5 | 2631 | 3 | 

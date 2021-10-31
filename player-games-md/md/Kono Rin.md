@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Kono Rin | Cho Hanseung | Lose | W+2¼ | 7.5 | 3038 | 7 | 
 | 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Kono Rin | Gu Li | Lose | W+¼ | 7.5 | 3031 | 8 | 
 | 2021-09-30 | 第47期名人戦予選 | Iida Junya | Kono Rin | Win | W+R | 6.5 | 3023 | 4 | 
 | 2021-09-23 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Kono Rin | Win | W+4.5 | 6.5 | 3019 | -70 | 

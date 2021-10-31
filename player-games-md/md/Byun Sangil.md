@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-31 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Choi Jeong | Byun Sangil | Win | W+R | 6.5 | 3704 | 18 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Byun Sangil | Mi Yuting | Lose | W+1.5 | 6.5 | 3686 | -23 | 
 | 2021-10-03 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Byun Sangil | Weon Seongjin | Win | B+R | 6.5 | 3709 | 8 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Byun Sangil | Win | W+R | 7.5 | 3701 | 3 | 

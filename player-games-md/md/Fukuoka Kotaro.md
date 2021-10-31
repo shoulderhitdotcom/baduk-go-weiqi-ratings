@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Moon Minjong | Fukuoka Kotaro | Win | W+R | 7.5 | 3011 | 151 | 
 | 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Tu Xiaoyu | Fukuoka Kotaro | Win | W+¼ | 7.5 | 2860 | -9 | 
 | 2021-09-02 | 第47期名人戦予選  | Cho Chikun | Fukuoka Kotaro | Lose | B+1.5 | 6.5 | 2869 | -66 | 
 | 2021-08-02 | 第77期本因坊戦予選 | Sada Atsushi | Fukuoka Kotaro | Lose | B+3.5 | 6.5 | 2935 | 34 | 

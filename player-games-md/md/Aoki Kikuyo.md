@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 |  | Aoki Kikuyo | Win | W+4¼ | 7.5 | 2697 | 29 | 
 | 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Aoki Kikuyo | Zhang Xuan | Win | B+R | 7.5 | 2668 | 137 | 
 | 2021-07-01 | 第47期碁聖戦予選 | Aoki Kikuyo | Ishida Yoshio | Win | B+5.5 | 6.5 | 2531 | -31 | 
 | 2021-06-14 | 第60期十段戦予選 | Aoki Kikuyo | Rin Kanketsu | Lose | W+R | 6.5 | 2562 | -6 | 

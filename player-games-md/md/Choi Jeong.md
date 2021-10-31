@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-31 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Choi Jeong | Byun Sangil | Lose | W+R | 6.5 | 3346 | -7 | 
 | 2021-10-29 | 第26期女流国手戦準決勝 | Choi Jeong |  | Win | B+R | 6.5 | 3353 | 16 | 
 | 2021-10-19 | 第5期韓国製紙女子棋聖戦1回戦 |  | Choi Jeong | Win | W+R | 6.5 | 3337 | -41 | 
 | 2021-10-15 | 2021女子最高棋士決定戦（韓国）リーグ | Cho Hyeyeon | Choi Jeong | Win | W+R | 6.5 | 3378 | 11 | 

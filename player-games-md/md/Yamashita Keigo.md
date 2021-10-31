@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Lee Changho | Yamashita Keigo | Win | W+R | 7.5 | 3154 | 44 | 
 | 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Chang Hao | Yamashita Keigo | Win | W+¼ | 7.5 | 3110 | 7 | 
 | 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Yamashita Keigo | Zhao Chenyu | Lose | W+R | 6.5 | 3103 | -32 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Cho Seungah | Yamashita Keigo | Win | W+R | 6.5 | 3135 | -23 | 

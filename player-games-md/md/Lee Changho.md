@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-01 | 2021中日韓聶衛平杯囲碁マスターズ3回戦 | Lee Changho | Chang Hao | Win | B+R | 7.5 | 3199 | 11 | 
 | 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Lee Changho | Yamashita Keigo | Lose | W+R | 7.5 | 3188 | -19 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Zhao Chenyu | Lee Changho | Lose | B+R | 6.5 | 3207 | -33 | 
 | 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Changho | Park Sangjin | Lose | W+R | 6.5 | 3240 | 15 | 

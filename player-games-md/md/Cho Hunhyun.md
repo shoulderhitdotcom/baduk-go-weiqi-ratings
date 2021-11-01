@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-01 | 2021中日韓聶衛平杯囲碁マスターズ3回戦 | Cho Hunhyun | Nie Weiping | Win | B+R | 7.5 | 3083 | 1 | 
 | 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Cho Hunhyun | Takemiya Masaki | Lose | W+2¼ | 7.5 | 3082 | -121 | 
 | 2021-09-22 | 2021電子ランドライバル対戦第8局 | Cho Hunhyun | Lee Changho | Lose | W+R | 6.5 | 3203 | -31 | 
 | 2021-09-19 | 2021電子ランドライバル対戦第1局 | Seo Bongsoo | Cho Hunhyun | Win | W+1.5 | 6.5 | 3234 | 7 | 

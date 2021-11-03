@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-03 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Shin Jinseo | Park Junghwan | Lose | W+R | 6.5 | 3830 | 5 | 
 | 2021-11-02 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Park Junghwan | Shin Jinseo | Lose | B+R | 6.5 | 3825 | -1 | 
 | 2021-11-01 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Shin Jinseo | Park Junghwan | Win | B+R | 6.5 | 3826 | -2 | 
 | 2021-10-28 | 第26回三星火災杯世界囲碁マスターズ準決勝 | Shin Jinseo | Yang Dingxin | Win | B+R | 6.5 | 3828 | 3 | 

@@ -5,286 +5,289 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第47期天元戦予選 | So Yokoku | Hsu Chiayuan | W+R | 2020-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NZ9wtQA4Kdn9CknvcaOHDQ%3D%3D) | 
-| 第59期十段戦2回戦 | So Yokoku | Cho U | W+R | 2020-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5xRe%2BWsno1mmEsTRc42hQA%3D%3D) | 
-| 第46期碁聖戦予選 | O Meien | So Yokoku | B+R | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FvcseS1gS5PorVRMM5mZYA%3D%3D) | 
-| 第45期棋聖戦Aリーグ | So Yokoku | Adachi Toshimasa | W+R | 2020-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rRQvfWRAktyL%2F9pea5QbGg%3D%3D) | 
-| 第59期十段戦予選 | So Yokoku | Ko Iso | B+1.5 | 2020-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TbtJxEV510RZCvbLGDoBtQ%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Yamashita Keigo | So Yokoku | B+R | 2020-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fVJccLyEKUayq8qROQzmIQ%3D%3D) | 
-| 第27期阿含・桐山杯全日本早碁オープン戦1回戦 | Iyama Yuta | So Yokoku | B+R | 2020-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n7QcNMkcAudbY1sPw%2BMUgw%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Shida Tatsuya | So Yokoku | W+R | 2020-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jXpD0P3xMRtPtaqeHng2cA%3D%3D) | 
-| 第45期棋聖戦Aリーグ | So Yokoku | Yu Zhengqi | W+R | 2020-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LUZk3bi1g%2Ba01eB011k5GQ%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Onishi Ryuhei | So Yokoku | B+R | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2l%2B%2Blfkgf01o9H%2FNSOYPsw%3D%3D) | 
-| 第59期十段戦予選 | Takemiya Masaki | So Yokoku | W+R | 2020-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i5vJaSPMg0uXgxhyWRcVQg%3D%3D) | 
-| 第68期王座戦予選 | Akiyama Jiro | So Yokoku | B+R | 2020-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hi9pUZVlOpTjdX6CNgMqKA%3D%3D) | 
-| 第45期棋聖戦Aリーグ | So Yokoku | Motoki Katsuya | B+R | 2020-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8EUvIPDeF5121rKDw7vBgQ%3D%3D) | 
-| 第45期棋聖戦Aリーグ | Yoda Norimoto | So Yokoku | B+R | 2020-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K1acwUK62VZ7Y7U6OVqZ7A%3D%3D) | 
-| 第46期天元戦1回戦 | So Yokoku | Seto Taiki | W+R | 2020-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FLC%2FIUJWaXgJymdQx%2BXVkQ%3D%3D) | 
-| 第44期棋聖戦Sリーグ | Takao Shinji | So Yokoku | W+2.5 | 2019-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Z6Y3h%2F0uZvsW%2FV2m56aPQ%3D%3D) | 
-| 第58期十段戦予選 | So Yokoku | Adachi Toshimasa | W+R | 2019-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7TMRj80h7nR3RGSMiJDQ5Q%3D%3D) | 
-| 第44期棋聖戦Sリーグ | So Yokoku | Hsu Chiayuan | W+R | 2019-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o%2FOGoYggyMcm9VUZMFPE5A%3D%3D) | 
-| 第44期棋聖戦Sリーグ | So Yokoku | Kono Rin | W+R | 2019-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W54gXfsYlPbLF3AuravvCg%3D%3D) | 
-| 第44期棋聖戦Sリーグ | Murakawa Daisuke | So Yokoku | B+R | 2019-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ghVTLxx4doc4wnemwIbltg%3D%3D) | 
-| 第44期棋聖戦Sリーグ | Yamashita Keigo | So Yokoku | B+R | 2019-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WLEDWIjrMtIET7oPnJRydg%3D%3D) | 
-| 第45期天元戦1回戦 | So Yokoku | Yu Zhengqi | W+R | 2019-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r%2BkfW%2FefxunFHWHIaKdU6Q%3D%3D) | 
-| 第45期天元戦予選 | So Yokoku | Kataoka Satoshi | B+R | 2018-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PBoYk8Obccz38jZT2VQQ1g%3D%3D) | 
-| 第1回SGW杯中庸戦予選1回戦 | So Yokoku | Kubo Hideo | W+1.5 | 2018-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jDx7b9c%2B6%2B0IFhfMZxmHww%3D%3D) | 
-| 第57期十段戦2回戦 | O Meien | So Yokoku | B+1.5 | 2018-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KZZkE3w7YJ7wTfnUnY003g%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Kobayashi Satoru | So Yokoku | W+R | 2018-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1QYNukli1xzf8OXYZvPVzA%3D%3D) | 
-| 第67期王座戦予選 | O Meien | So Yokoku | W+R | 2018-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6EbwY3Y%2B1xaO1byPtRKK0w%3D%3D) | 
-| 第57期十段戦最終予選決勝 | O Rissei | So Yokoku | W+R | 2018-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BwpPGmh3wLbk6XJfD%2Bywsg%3D%3D) | 
-| 第43期棋聖戦Aリーグ | So Yokoku | Yoda Norimoto | W+R | 2018-08-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oR138jaZY525nZJD5ksOGg%3D%3D) | 
-| 第43期棋聖戦Aリーグ | So Yokoku | Ko Iso | B+R | 2018-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KG8cDDy6xILNPCYZ5yGIJQ%3D%3D) | 
-| 第57期十段戦予選 | So Yokoku | Nakano Yasuhiro | B+R | 2018-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=olX8sjVePHSBiU2p7afnSg%3D%3D) | 
-| 第43期棋聖戦Aリーグ | Cho Chikun | So Yokoku | W+R | 2018-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jp7obkrZwWQAkRCX8uTAXA%3D%3D) | 
-| 第74期本因坊戦予選 | So Yokoku | Kataoka Satoshi | W+R | 2018-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DJlvsUyhgK5RETcmxGMMsQ%3D%3D) | 
-| 第43期棋聖戦Aリーグ | So Yokoku | Shida Tatsuya | B+1.5 | 2018-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jH5JB15UDAoe0cR%2B3iE6oQ%3D%3D) | 
-| 第43期碁聖戦本戦1回戦 | Mitani Tetsuya | So Yokoku | B+R | 2017-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7BIA3260pGB1GCVkaCt19A%3D%3D) | 
-| 第56期十段戦2回戦 | So Yokoku | Hsu Chiayuan | W+R | 2017-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jWAzN5ndTlocibwSMtv5zQ%3D%3D) | 
-| 第43期碁聖戦予選 | So Yokoku | Yoda Norimoto | B+R | 2017-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uhll2Z%2FUJ5GvejjnC8DqGA%3D%3D) | 
-| 第42期棋聖戦　Sリーグ5回戦 | Cho U | So Yokoku | B+R | 2017-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w6oek9VdbHCwgp6wN7Nz4w%3D%3D) | 
-| 第42期棋聖戦　Sリーグ4回戦 | So Yokoku | Ichiriki Ryo | W+R | 2017-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5hLRkc1J5Teo8WpdDy1XQw%3D%3D) | 
-| 第56期十段戦　最終予選決勝 | So Yokoku | Seto Taiki | B+R | 2017-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OKwTqUxNXe7Zd%2B1vXLVSsQ%3D%3D) | 
-| 第42期棋聖戦　Sリーグ3回戦 | Kono Rin | So Yokoku | B+R | 2017-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rCK9WiyfJUl21%2FoRkJk6rQ%3D%3D) | 
-| 第73期本因坊戦　最終予選準決勝 | So Yokoku | Kobayashi Satoru | W+R | 2017-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RQeg3zphtsTLTyfAjG4bJg%3D%3D) | 
-| 第42期棋聖戦　Sリーグ2回戦 | Murakawa Daisuke | So Yokoku | B+R | 2017-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vu1IXkCWZgfrTdE%2FIJ%2FXDQ%3D%3D) | 
-| 第42期棋聖戦　Sリーグ1回戦 | So Yokoku | Yamashita Keigo | W+R | 2017-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aHLKmnP87%2BkPoljoFovCVA%3D%3D) | 
-| 第73期本因坊戦　予選A決勝 | Cho Chikun | So Yokoku | W+R | 2017-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CH3fskJGirBfn4%2FDeSvblg%3D%3D) | 
-| 第56期十段戦　予選A決勝 | So Yokoku | Kobayashi Satoru | B+R | 2017-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dQaL%2BJEqXr9UtYGWwQZ2fg%3D%3D) | 
-| 第41期棋聖戦Aリーグ | Awaji Shuzo | So Yokoku | W+R | 2016-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mNUZHhTgPcdf6AlmvHdg5A%3D%3D) | 
-| 第41期棋聖戦Aリーグ | So Yokoku | Ryu Shikun | B+0.5 | 2016-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lAoYrjm8txk%2F8P4T3x15Kw%3D%3D) | 
-| 第55期十段戦予選 | Chang Rueijie | So Yokoku | B+R | 2016-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SMQXl7fG4Zmh45VNfbEXDQ%3D%3D) | 
-| 第41期棋聖戦Aリーグ | So Yokoku | Cho Riyu | B+R | 2016-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q9VLSJ55BSB3hAd2ytXO1w%3D%3D) | 
-| 第21回LG杯朝鮮日報棋王戦1回戦 | So Yokoku | Ke Jie | W+R | 2016-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tQplFtxn8OqVYvRNqunnew%3D%3D) | 
-| 第41期棋聖戦Aリーグ | So Yokoku | Yamada Kimio | B+R | 2016-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ja%2F5zQJ2HEKGrkryrL9H2w%3D%3D) | 
-| 第41期棋聖戦Aリーグ | Kobayashi Satoru | So Yokoku | W+R | 2016-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H5AsTHWv41F%2FiES7ZY%2BjNA%3D%3D) | 
-| 第8回応氏杯世界選手権1回戦 | Huang Yunsong | So Yokoku | B+R | 2016-04-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gt9py2Z93zVfK3Tw8PzOhA%3D%3D) | 
-| 第65回NHK杯テレビ囲碁トーナメント戦1回戦第3局 | So Yokoku | Cho Chikun | B+4.5 | 2016-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3N09j5hWCZhbE11tZlOWxw%3D%3D) | 
-| 第41期棋聖戦Aリーグ | So Yokoku | Yamashiro Hiroshi | B+R | 2016-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CAFbRck%2BNJwuYes2b4l8YQ%3D%3D) | 
-| 第72期本因坊戦予選 | Otake Hideo | So Yokoku | W+R | 2016-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dx%2Bk94cSN%2FKoWW2rcgtEUQ%3D%3D) | 
-| 第41期名人戦予選 | So Yokoku | Hirata Tomoya | W+3.5 | 2015-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HQNKDmbbpZTex%2BUR2iTdJg%3D%3D) | 
-| 第41期名人戦予選 | Yuki Satoshi | So Yokoku | W+R | 2015-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m%2BDDLlZB4C2nEjmk0K6tCg%3D%3D) | 
-| 第54期十段戦予選 | So Yokoku | Yoda Norimoto | W+R | 2015-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wM7ge7sbASTohErjR%2Bl31A%3D%3D) | 
-| 第40期名人戦リーグ | Yamashita Keigo | So Yokoku | B+R | 2015-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S2Zv0ElJehGsvQYXL2Utsw%3D%3D) | 
-| 第40期棋聖戦Bリーグ | O Meien | So Yokoku | B+R | 2015-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G4ZZzigBW4AgCc0MIa83zg%3D%3D) | 
-| 第40期名人戦リーグ | Takao Shinji | So Yokoku | W+R | 2015-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ULsj8CdmQsOHAjN7UHTIeA%3D%3D) | 
-| 第40期名人戦リーグ | So Yokoku | Hane Naoki | W+R | 2015-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ex8%2Bb9PxQnQRergJjqrM1A%3D%3D) | 
-| 第40期棋聖戦Bリーグ | So Yokoku | Yamada Kimio | W+R | 2015-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FzdGJbivzL07545VsX3a%2BQ%3D%3D) | 
-| 第20回LG杯予選 | So Yokoku | Kang Jihoon | W+T | 2015-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PFO2tVTFup5q8LhKabrxHw%3D%3D) | 
-| 第40期名人戦リーグ | So Yokoku | Cho U | B+0.5 | 2015-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BW8sEgB4P9UByZIwYEU52Q%3D%3D) | 
-| 第40期名人戦リーグ | Murakawa Daisuke | So Yokoku | B+R | 2015-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I3W95Jvqc2ezeraCWCxbzg%3D%3D) | 
-| 第40期碁聖戦本戦2回戦 | So Yokoku | Shida Tatsuya | W+R | 2015-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ztN1JjeZvOhmlADPNataTA%3D%3D) | 
-| 第40期名人戦リーグ | So Yokoku | Ko Iso | B+R | 2015-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l1zcUsZk5ZSnGf4Pj7HYkQ%3D%3D) | 
-| 第40期名人戦リーグ | Kanazawa Makoto | So Yokoku | B+0.5 | 2015-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ihgJ9mpsBwSDtSAkSz%2BzdA%3D%3D) | 
-| 第40期名人戦リーグ | So Yokoku | Kono Rin | W+R | 2014-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SyqBWl6tW6jD75gTdXlLMw%3D%3D) | 
-| 第53期十段戦2回戦 | So Yokoku | Ida Atsushi | W+0.5 | 2014-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W226wQwPrXu%2FvJuP94lZnQ%3D%3D) | 
-| 第40期名人戦予選 | Yamada Noriyoshi | So Yokoku | W+R | 2014-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H2ubRLgSleSUc7dsjf%2FoMg%3D%3D) | 
-| 第40期名人戦予選 | Ryu Shikun | So Yokoku | W+2.5 | 2014-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tUaZXKjH8Xqw2NCFK7QUmA%3D%3D) | 
-| 第53期十段戦1回戦 | So Yokoku | Cho Sonjin | B+R | 2014-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9TheraU3eXHIXLhB7Vz3hg%3D%3D) | 
-| 第40期碁聖戦予選 | So Yokoku | Takemiya Masaki | B+3.5 | 2014-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gB8ueLeU6i60uWhDTvTByw%3D%3D) | 
-| 第70期本因坊戦予選 | Ryu Shikun | So Yokoku | B+R | 2014-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mw0GNptkkygTk5FyF%2FCTzA%3D%3D) | 
-| 第40期名人戦予選 | So Yokoku | O Rissei | B+11.5 | 2014-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BnmoEtmzaijG2zkQGokY4Q%3D%3D) | 
-| 第39期棋聖戦予選 | So Yokoku | Yuki Satoshi | W+R | 2014-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ojgfK8Lp8yX%2Bx6LZE%2FQ8mA%3D%3D) | 
-| 第39期碁聖戦本戦2回戦 | So Yokoku | Kono Rin | W+R | 2014-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UZ6VxfoVU9PHx4yt%2FrNdJQ%3D%3D) | 
-| 第52期十段戦2回戦 | So Yokoku | Ichiriki Ryo | W+R | 2013-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7QAYekX5WE0roChFF%2BvLFA%3D%3D) | 
-| 第39期名人戦予選 | So Yokoku | Cho Chikun | W+7.5 | 2013-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jJ3PEu9ZRmAdU2dTxHojQw%3D%3D) | 
-| 第39期天元戦本戦2回戦 | So Yokoku | Ryu Shikun | W+R | 2013-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RKfGDLPHhlZWDyvtUlCIWw%3D%3D) | 
-| 第38期碁聖戦本戦3回戦 | Cho Riyu | So Yokoku | B+R | 2013-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NaCug1cIPOLOdkIX4MI7QQ%3D%3D) | 
-| 第61期王座戦予選 | Mochizuki Kenichi | So Yokoku | B+R | 2013-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dCzwG69Wov%2FTL3BcMJG5%2Bg%3D%3D) | 
-| 第38期碁聖戦本戦2回戦 | Cho Chikun | So Yokoku | W+0.5 | 2013-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CZyeL%2F%2FnKiSu1SUmwZng0g%3D%3D) | 
-| 第39期天元戦本戦1回戦 | Oya Koichi | So Yokoku | W+1.5 | 2013-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RF98lVz8xZRdrLl0Eg%2B%2F4A%3D%3D) | 
-| 第61期王座戦予選 | Han Zenki | So Yokoku | W+R | 2013-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=68RPGRv06OYK1ArWVaYEJA%3D%3D) | 
-| 第38期碁聖戦本戦1回戦 | So Yokoku | Yu Zhengqi | B+R | 2012-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5j%2FTmJeC3Cn0Bf1WQBtfJg%3D%3D) | 
-| 第38期碁聖戦予選 | So Yokoku | Kim Sujun | B+R | 2012-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8uycp8VBqDEYBJUxCReCQA%3D%3D) | 
-| 第38期名人戦予選 | Sakai Hideyuki | So Yokoku | B+R | 2012-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n1oOkVTbeyyZhAeU3SDhiQ%3D%3D) | 
-| 第39期天元戦予選 | Ohashi Hirofumi | So Yokoku | W+R | 2012-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hqOXSvFQlKcRUM4DmTKIGQ%3D%3D) | 
-| 第19期阿含・桐山杯全日本早碁オープン戦1回戦 | Hane Naoki | So Yokoku | B+R | 2012-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eJUhFWHqBomAYC267fJjCw%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン予選 | So Yokoku | Xie Yimin | W+R | 2012-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nxeFx6hu0OlkGTCd6r0n5g%3D%3D) | 
-| 第51期十段戦予選 | So Yokoku | Kim Sujun | W+R | 2012-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yqDNxwzt5Caj6KUiSJRo1w%3D%3D) | 
-| 第37期棋聖戦予選 | Kobayashi Satoru | So Yokoku | B+R | 2012-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mvPxeGYCHGeQ80HCoRtfHg%3D%3D) | 
-| 第37期碁聖戦本戦1回戦 | So Yokoku | Yuki Satoshi | W+R | 2012-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bk8LDfCL%2Fl37Z9wD%2BBVueg%3D%3D) | 
-| 第60期王座戦予選 | Yamashiro Hiroshi | So Yokoku | B+R | 2012-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IN%2BB%2BXN9%2FkyPItBlfoGwtw%3D%3D) | 
-| 第37期名人戦予選 | Ryu Shikun | So Yokoku | W+5.5 | 2011-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u47so8BO8SsJZjrww8SEAg%3D%3D) | 
-| 第50期十段戦予選 | So Yokoku | Yoda Norimoto | W+R | 2011-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F%2F1cR8h0zfLbEImfQckxyQ%3D%3D) | 
-| 第67期本因坊戦予選 | Hikosaka Naoto | So Yokoku | B+R | 2011-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FFHJH4YY34RpvCkCDO83%2Fw%3D%3D) | 
-| 第59期王座戦1回戦 | So Yokoku | Murakawa Daisuke | W+R | 2011-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GqcAqtp1WwDAV5xUj6kzJw%3D%3D) | 
-| 第37期名人戦予選 | Aoki Shinichi | So Yokoku | W+R | 2011-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=77rMAcbrWmcYQ50AMlTJ4w%3D%3D) | 
-| 第67期本因坊戦予選 | So Yokoku | Oya Koichi | B+R | 2011-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VWu6xn74kBBAJM2kQUREjQ%3D%3D) | 
-| 第59期王座戦予選 | So Yokoku | Han Zenki | B+R | 2011-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4NrjpZak%2B00z%2BkExkg4vwQ%3D%3D) | 
-| 第37期天元戦予選 | So Yokoku | Kataoka Satoshi | W+R | 2010-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fr4ZNlG15sBcORHDOcqE8A%3D%3D) | 
-| 第36期碁聖戦予選 | So Yokoku | Shuto Shun | W+R | 2010-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KbggaNmobKHmC7q9hr9jZQ%3D%3D) | 
-| 第36期碁聖戦予選 | So Yokoku | O Rissei | B+R | 2010-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6l8kYAknn7CxnEjRAbXUgQ%3D%3D) | 
-| 第30期NECカップ囲碁トーナメント戦2回戦 | So Yokoku | Kono Rin | W+2.5 | 2010-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w93W61wk3cZe7VX1qSOY1g%3D%3D) | 
-| 第49期十段戦敗者復活戦2回戦 | So Yokoku | Hane Naoki | W+0.5 | 2010-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CghSun9isEawWMe3i1thrA%3D%3D) | 
-| 第6回大和証券杯ネット囲碁オープン1回戦 | So Yokoku | Hane Naoki | W+R | 2010-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d4bWidTRy7fRFXPZBG4kXg%3D%3D) | 
-| 第30期NECカップ囲碁トーナメント戦1回戦 | So Yokoku | Cho Chikun | B+0.5 | 2010-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sjGXVksByHLhWvq7dwnzOg%3D%3D) | 
-| 第49期十段戦本戦1回戦 | Takao Shinji | So Yokoku | W+R | 2010-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9c23C2d9znaNKnNCSjEALg%3D%3D) | 
-| 第15回LG杯予選 | So Yokoku | Lee Chungyu | W+0.5 | 2010-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AK%2Bke%2BwSbmXrkdmAvjTUqw%3D%3D) | 
-| 第35期棋聖戦予選 | So Yokoku | Yamashiro Hiroshi | W+R | 2010-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CIwE6R69Qoj9LZ5FkzPi7g%3D%3D) | 
-| 第36期天元戦本戦1回戦 | So Yokoku | Cho Chikun | W+10.5 | 2010-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X4otPcQEcV5%2FWpRFi0ihyA%3D%3D) | 
-| 第58期王座戦予選 | Cho Chikun | So Yokoku | B+R | 2010-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qsGfyuOsv%2BjG3Nk9BRD%2BPA%3D%3D) | 
-| 第35期碁聖戦本戦2回戦 | O Rissei | So Yokoku | B+R | 2009-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fc%2Fg6iSsQDzj7JKxdK5w%2FA%3D%3D) | 
-| 第35期碁聖戦本戦1回戦 | So Yokoku | Mizokami Tomochika | B+R | 2009-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7cbFiW1HNmI5%2FYcPLTBJHA%3D%3D) | 
-| 第48期十段戦敗者復活戦3回戦 | Shuto Shun | So Yokoku | B+R | 2009-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=umw33Tw3AnFF6RqHEodiJQ%3D%3D) | 
-| 第48期十段戦敗者復活戦2回戦 | So Yokoku | O Meien | B+1.5 | 2009-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qZQ8KB9zR0DI%2BIjCeDzkMw%3D%3D) | 
-| 第35期碁聖戦予選 | Cho Sonjin | So Yokoku | W+R | 2009-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7v0eR603bWEH%2FBCls2BpoQ%3D%3D) | 
-| 第48期十段戦本戦2回戦 | So Yokoku | Takao Shinji | W+R | 2009-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7FjNLGNaDi3mS%2BJaUdv5JQ%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン1回戦 | So Yokoku | Tsuruyama Atsushi | W+2.5 | 2009-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ALrc%2FUofKqsj0l5x0yYR6A%3D%3D) | 
-| 第57期王座戦2回戦 | So Yokoku | Yamada Kimio | W+R | 2009-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=owJyoQHaKqDhtzGmDi2cFQ%3D%3D) | 
-| 2009年中国囲碁乙級リーグ | Yun Junsang | So Yokoku | B+R | 2009-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2505vLDqPYRw4HotplPCsg%3D%3D) | 
-| 第48期十段戦本戦1回戦 | Cho Chikun | So Yokoku | W+R | 2009-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pSkbVrs8yDzpSQq8hxaCDw%3D%3D) | 
-| 第57期王座戦1回戦 | Seto Taiki | So Yokoku | W+3.5 | 2009-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m%2FwR%2BaLCvIm6NonlYaNdOw%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン予選 | Kurotaki Masanori | So Yokoku | W+R | 2009-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hJKvOyAf6FaNER2T8erw2g%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン予選 | So Yokoku | Ogaki Yusaku | B+1.5 | 2009-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uJQznmZzHhH4PT5YuwCDww%3D%3D) | 
-| 第64期本因坊戦残留プレーオフ | So Yokoku | Cho U | W+R | 2009-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TGToWGAHWgVsssV37NTluA%3D%3D) | 
-| 第34期碁聖戦本戦3回戦 | So Yokoku | Yuki Satoshi | W+R | 2009-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EcP6pYuq3gdJ0EdjAfhTzQ%3D%3D) | 
-| 第64期本因坊戦リーグ | Yoda Norimoto | So Yokoku | W+1.5 | 2009-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VNa2fBV6%2BdntWVY4vDdxjA%3D%3D) | 
-| 第35期名人戦予選 | Otake Hideo | So Yokoku | W+R | 2009-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U4ex8yxMNMsAfwMnf8XUEg%3D%3D) | 
-| 第34期碁聖戦本戦2回戦 | So Yokoku | Nakamura Shinya | B+R | 2009-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X%2Fk%2FTvY9iwIdTI7dvW9hEQ%3D%3D) | 
-| 第64期本因坊戦リーグ | So Yokoku | Nakaonoda Tomomi | B+R | 2009-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4MdFgvV8qf7LIxwRSnKtMw%3D%3D) | 
-| 第57期王座戦予選 | Yo Kagen | So Yokoku | W+R | 2009-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jtEIOkbpeIsEu5F5GjOm3g%3D%3D) | 
-| 第35期天元戦本戦0回戦 | Anzai Nobuaki | So Yokoku | B+R | 2009-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iFBmBfeEVqG5QDrm2cozBg%3D%3D) | 
-| 第64期本因坊戦リーグ | Kataoka Satoshi | So Yokoku | W+R | 2009-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qjoMdduKcYm%2FMN1u3H57ng%3D%3D) | 
-| 第64期本因坊戦リーグ | So Yokoku | Takao Shinji | W+R | 2009-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gf5unZPMTpGzweO2Am1S%2Bg%3D%3D) | 
-| 第35期天元戦予選 | Kataoka Satoshi | So Yokoku | W+R | 2009-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ezi4nEBMJQpP5ebcqVzYuA%3D%3D) | 
-| 第64期本因坊戦リーグ | So Yokoku | Cho U | W+R | 2008-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nRL9QTKstO9OcdPKiop09w%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | So Yokoku | Ohashi Naruya | B+4.5 | 2008-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o1NWqgsK%2BkizhwVva4w13g%3D%3D) | 
-| 第64期本因坊戦リーグ | So Yokoku | Yamashita Keigo | B+8.5 | 2008-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KWK3cSNYKAskSdx1n7gF1g%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Shida Tatsuya | So Yokoku | W+2.5 | 2008-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oXmp%2BzwBrGdNqBn6zmAqHA%3D%3D) | 
-| 第47期十段戦敗者復活戦3回戦 | Akiyama Jiro | So Yokoku | B+R | 2008-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=owZWcnLnNc4sRWWDJv%2BSIw%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯国内予選 | Takemiya Masaki | So Yokoku | B+3.5 | 2008-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h51zlaplMIVBETQ8UxuHxg%3D%3D) | 
-| 第64期本因坊戦リーグ | Yamada Kimio | So Yokoku | B+R | 2008-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y7n6miDLqBQghvRi9rg3sw%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | So Yokoku | Oda Teppei | B+R | 2008-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fn9XgC7P7FOb6WtChyYi2A%3D%3D) | 
-| 第34期棋聖戦予選 | So Yokoku | Kobayashi Koichi | B+12.5 | 2008-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DlAd%2BPXVvNZWt26zkE9yTQ%3D%3D) | 
-| 第28期NECカップ囲碁トーナメント戦1回戦 | So Yokoku | Takao Shinji | W+R | 2008-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ko%2F0e9uLjfwG4elZCoKwmQ%3D%3D) | 
-| 第47期十段戦本戦3回戦 | So Yokoku | Cho Chikun | W+1.5 | 2008-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N68JES05HOxi4AbVJHqQ1Q%3D%3D) | 
-| 第64期本因坊戦予選 | Ogata Masaki | So Yokoku | W+R | 2008-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bow8GSOWLyl7xD7y0dqW8A%3D%3D) | 
-| 第47期十段戦本戦2回戦 | Komatsu Hideki | So Yokoku | W+R | 2008-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B1rNYjBYxKiEoop%2B51wF5Q%3D%3D) | 
-| 第47期十段戦本戦1回戦 | Yasuda Yasutoshi | So Yokoku | W+R | 2008-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0UX6QVgQfseTyx9Ay6NhEw%3D%3D) | 
-| 第63期本因坊戦リーグ | So Yokoku | Yamashita Keigo | W+R | 2008-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4yyULs8Jbt1ZmP82130fyQ%3D%3D) | 
-| 第63期本因坊戦リーグ | So Yokoku | O Meien | W+R | 2008-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b5cIFsa3l5ec7SIdCybgSw%3D%3D) | 
-| 第56期王座戦予選 | Yuki Satoshi | So Yokoku | B+R | 2008-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uBW2%2FqzkeNmIYL4k9LOVyQ%3D%3D) | 
-| 第63期本因坊戦リーグ | Cho U | So Yokoku | B+2.5 | 2008-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lkXO3OE53c0eYBuFDqVyVg%3D%3D) | 
-| 第1期幽玄杯精鋭リーグ戦 | Yanagisawa Satoshi | So Yokoku | W+R | 2008-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i26JZdGiMRALZEWjHKkVOQ%3D%3D) | 
-| 第63期本因坊戦リーグ | Hane Naoki | So Yokoku | B+2.5 | 2008-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TROSS67gkWNa9qUN6sBDuA%3D%3D) | 
-| 第63期本因坊戦リーグ | So Yokoku | Yamada Kimio | B+3.5 | 2007-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vyTXPF0AcYnkammGbeYBqg%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯国内予選 | So Yokoku | Cho Sonjin | W+R | 2007-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=duNTfPQv6P8xGV7XP0NEnw%3D%3D) | 
-| 第33期棋聖戦予選 | Ishida Yoshio | So Yokoku | B+1.5 | 2007-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oqs4yORFBWDBaIXWktj3RA%3D%3D) | 
-| 第63期本因坊戦リーグ | Yoda Norimoto | So Yokoku | W+0.5 | 2007-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LQrkXGMruYd%2FNMJrAFEZow%3D%3D) | 
-| 第46期十段戦敗者復活戦3回戦 | Komatsu Hideki | So Yokoku | B+R | 2007-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BfTVQ6mBnyzuy2GY0IYw2A%3D%3D) | 
-| 第63期本因坊戦リーグ | Mizokami Tomochika | So Yokoku | B+R | 2007-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jgCQ%2F2yK15PrjvEh7R6zIw%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン1回戦 | Kanazawa Hideo | So Yokoku | B+T | 2007-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zc%2BZJT0je7VFeV%2BrzoWtDQ%3D%3D) | 
-| 第27期NECカップ囲碁トーナメント戦1回戦 | So Yokoku | Ko Iso | W+R | 2007-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gSGGoex9VfQwHavlJMHDYw%3D%3D) | 
-| 第33期碁聖戦予選 | Matsumoto Takehisa | So Yokoku | B+R | 2007-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mrcjVwr5zF1qOmgn5ssEFA%3D%3D) | 
-| 第46期十段戦本戦3回戦 | Cho U | So Yokoku | B+R | 2007-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VeThwt9X8FlswLWkLJrnyA%3D%3D) | 
-| 第33期碁聖戦予選 | So Yokoku | Rin Kaiho | B+4.5 | 2007-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F83%2FRZ%2FW64O%2BW%2Bqsa90RRQ%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン予選 | So Yokoku | Tajima Shingo | B+R | 2007-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HzR03NDAR6XqSLQTW0qmaw%3D%3D) | 
-| 第12回三星火災杯予選決勝 | So Yokoku | missing | W+R | 2007-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dEpLSGL5X%2F2JU4kozDtfTA%3D%3D) | 
-| 第12回三星火災杯予選準決勝 | Kang Changbae | So Yokoku | W+R | 2007-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iTcGfYCNG405d0ew1Arszw%3D%3D) | 
-| 第46期十段戦本戦2回戦 | Kobayashi Satoru | So Yokoku | W+R | 2007-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FAw%2Buky7oxFwse9I%2BjpMRQ%3D%3D) | 
-| 第55期王座戦準決勝 | So Yokoku | Imamura Toshiya | W+R | 2007-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gaSGkSn1LIullLnWrRexeg%3D%3D) | 
-| 2007年中国囲碁乙級リーグ | So Yokoku | Weon Seongjin | W+R | 2007-06-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nHAULBoICAjiY8%2Ffniacxw%3D%3D) | 
-| 2007年中国囲碁乙級リーグ | Yue Liang | So Yokoku | W+R | 2007-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vDKtrPpmCX1xo8jcBUfyIw%3D%3D) | 
-| 2007年中国囲碁乙級リーグ | So Yokoku | Cho Hanseung | W+R | 2007-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p7A3SWCUuEgowZ0Zxk7gjA%3D%3D) | 
-| 第46期十段戦本戦1回戦 | Mochizuki Kenichi | So Yokoku | W+R | 2007-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bSI3vSHrUGTB25wsNNT%2B7A%3D%3D) | 
-| 第55期王座戦2回戦 | So Yokoku | Nakamura Shinya | B+R | 2007-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W32HescEUPQe2144aXtCqQ%3D%3D) | 
-| 第46期十段戦予選 | Kudo Norio | So Yokoku | W+R | 2007-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d%2FkmVptxropGMfAOtwaP6g%3D%3D) | 
-| 第55期王座戦1回戦 | Cho Chikun | So Yokoku | W+R | 2007-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rI7BiLnjWOD8kG303kN0uw%3D%3D) | 
-| 第32期棋聖戦予選 | Takao Shinji | So Yokoku | B+R | 2007-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ppXxgh6p7oOxOUi92CnIDg%3D%3D) | 
-| 第14期阿含・桐山杯全日本早碁オープン戦予選 | So Yokoku | Cho Sonjin | W+R | 2007-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WSAxSo1bdnE5oVKZMGCKDg%3D%3D) | 
-| 第33期天元戦本戦2回戦 | So Yokoku | Cho Chikun | W+1.5 | 2007-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=onYLI2ovm5JHnpTrMwPHHg%3D%3D) | 
-| 第62期本因坊戦挑戦者決定プレーオフ | Yoda Norimoto | So Yokoku | B+R | 2007-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T%2FEJZTYRc%2Br80i8P%2FIfdzA%3D%3D) | 
-| 第62期本因坊戦リーグ | So Yokoku | Hane Naoki | B+R | 2007-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o7BRoDEGuiCxKVnY0j8BKA%3D%3D) | 
-| 第55期王座戦予選 | So Yokoku | Yuki Satoshi | B+0.5 | 2007-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FPeq7vLlfDas2j6tFhDaDg%3D%3D) | 
-| 第32期棋聖戦予選 | So Yokoku | Kudo Norio | B+R | 2007-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BxpR8gIq8%2FWH8XTk0f8vtg%3D%3D) | 
-| 第62期本因坊戦リーグ | Cho U | So Yokoku | W+0.5 | 2007-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kTn5ggUrrn5mST0qV679RQ%3D%3D) | 
-| 第33期天元戦本戦1回戦 | So Yokoku | Cho U | B+R | 2007-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TwViGQtte2NQpJhmderoGA%3D%3D) | 
-| 第62期本因坊戦リーグ | So Yokoku | Yamada Kimio | W+R | 2007-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SWltmnKIit1L%2BJuHTNHBYw%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープンDリーグ | Mimura Tomoyasu | So Yokoku | B+R | 2007-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BA4WnwjYZ8AjXswm6QVJRw%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープンDリーグ | Iyama Yuta | So Yokoku | B+R | 2007-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hsgu8y%2BIpqbU2uaWzEodrg%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープンDリーグ | So Yokoku | Michael Redmond | W+R | 2007-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=33ZhDLDwoa636RE9GH7IDQ%3D%3D) | 
-| 第62期本因坊戦リーグ | So Yokoku | Kobayashi Satoru | B+R | 2007-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4NbiHIJiCRoHKOiaEpGMkw%3D%3D) | 
-| 第62期本因坊戦リーグ | Yoda Norimoto | So Yokoku | W+2.5 | 2006-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nLHWgvzMc3BUghbzMoJMyQ%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープン予選 | Endo Yoshifumi | So Yokoku | W+R | 2006-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=btxdqopc%2Bk98mEIdNu%2FCUg%3D%3D) | 
-| 第62期本因坊戦リーグ | So Yokoku | Cho Sonjin | W+R | 2006-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VqB3tgvy9gObn9EHbagFIg%3D%3D) | 
-| 第62期本因坊戦リーグ | O Meien | So Yokoku | W+R | 2006-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SKP%2BN6g%2BqwnzrjT%2Fxzg0RA%3D%3D) | 
-| 第1回大和証券杯ネット囲碁オープンBリーグ | So Yokoku | Ryu Shikun | B+R | 2006-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=arEaZQp%2FaU7IqRIGRb6RLA%3D%3D) | 
-| 第26期NECカップ囲碁トーナメント戦1回戦 | Takao Shinji | So Yokoku | B+R | 2006-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DelWfbIOxquuQeoNQ7Pmtg%3D%3D) | 
-| 第1回大和証券杯ネット囲碁オープンBリーグ | Nakano Hironari | So Yokoku | B+R | 2006-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7gDEViBPR3NytW4Fn91nww%3D%3D) | 
-| 第1回大和証券杯ネット囲碁オープンBリーグ | Kobayashi Satoru | So Yokoku | B+R | 2006-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fb9eEAeC9l9j4li5K7duvQ%3D%3D) | 
-| 第62期本因坊戦予選 | So Yokoku | Sakai Hideyuki | B+6.5 | 2006-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yVEVPI6nhAOafjXDGVvNIA%3D%3D) | 
-| 第11回三星火災杯予選2回戦 | So Yokoku | Kim Seungjun | W+F | 2006-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0%2BpI%2Ba3NgUmmSONdhBjpuw%3D%3D) | 
-| 第45期十段戦敗者復活戦1回戦 | So Yokoku | Yamashiro Hiroshi | W+2.5 | 2006-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2psGKPqKx3lK2%2Bo60kpNuQ%3D%3D) | 
-| 第32期名人戦予選 | So Yokoku | Kobayashi Koichi | B+R | 2006-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bn6024IPthqU1MZVPLo4pw%3D%3D) | 
-| 第45期十段戦本戦1回戦 | So Yokoku | Kobayashi Satoru | W+5.5 | 2006-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=shm7GR1xWS5D42R%2FQTR4Lw%3D%3D) | 
-| 第11回LG杯世界棋王戦1回戦 | Lin Zhihan | So Yokoku | B+3.5 | 2006-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W1nmsAF3PUUef7PcXL8ZaA%3D%3D) | 
-| 第11回LG杯予選 | So Yokoku | Kim Hyeongwoo | B+R | 2006-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L5dRLYV1%2BgaMvFF1M16S6g%3D%3D) | 
-| 2006年中国囲碁乙級リーグ | Gu Lingyi | So Yokoku | W+R | 2006-04-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N6ELSYvgkqtP553VcfrCpQ%3D%3D) | 
-| 2006年中国囲碁乙級リーグ | Meng Lei | So Yokoku | W+R | 2006-04-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ioBfdm4UcnZH0SQnNl8P7Q%3D%3D) | 
-| 2006年中国囲碁乙級リーグ | So Yokoku | Zhu Songli | Void | 2006-04-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WXhUq9oFZas0YeekkpqLWQ%3D%3D) | 
-| 2006年中国囲碁乙級リーグ | Dong Yan | So Yokoku | W+R | 2006-04-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jWF82AxRemLHeV0UfqcJKQ%3D%3D) | 
-| 第61期本因坊戦リーグ | Cho U | So Yokoku | W+R | 2006-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VTIB%2BVc%2Bj8IqKHg57NU3sA%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | So Yokoku | Rin Kaiho | W+R | 2006-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tIBsfjtvVFzLA9YlskJdfQ%3D%3D) | 
-| 第13期阿含・桐山杯全日本早碁オープン戦予選 | So Yokoku | missing | B+R | 2006-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FHSRO%2FSDyrj35BLzlaVkcw%3D%3D) | 
-| 第61期本因坊戦リーグ | Hane Naoki | So Yokoku | B+R | 2006-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZvMoW6OlqjmJJsSmD9Q7tA%3D%3D) | 
-| 第61期本因坊戦リーグ | So Yokoku | O Meien | B+R | 2006-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rRg%2FHQSse%2FvDubQFvaInkQ%3D%3D) | 
-| 第61期本因坊戦リーグ | Yamada Kimio | So Yokoku | B+R | 2006-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=efdWpZED9rZ91ZU%2BxYBsDw%3D%3D) | 
-| 第31期碁聖戦本戦1回戦 | So Yokoku | Kiyonari Tetsuya | W+R | 2005-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0OplmzgkpnR4Vz8PAoikIw%3D%3D) | 
-| 第61期本因坊戦リーグ | So Yokoku | O Rissei | W+R | 2005-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rAkDJ4E8mEixn23vdVjWiA%3D%3D) | 
-| 第61期本因坊戦リーグ | So Yokoku | Cho Sonjin | B+0.5 | 2005-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6VhA6XaIJrE7p3Rl0yKxoQ%3D%3D) | 
-| 第44期十段戦敗者復活戦3回戦 | So Yokoku | Kobayashi Satoru | W+5.5 | 2005-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dlsDW7hyWdkbY2dxHRohmQ%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第3戦 | Xiao Zhenghao | So Yokoku | W+4.5 | 2005-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LUGpqICrURnSpwKGUGrt5Q%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第2戦 | So Yokoku | Wang Yao | B+R | 2005-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J7iNsotf0N%2Fn%2BCZBgPxjKw%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第1戦 | Lee Jungwoo | So Yokoku | B+2.5 | 2005-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h%2Fmy%2FxfcMbHD4g2%2FH2bg7w%3D%3D) | 
-| 第61期本因坊戦リーグ | Yoda Norimoto | So Yokoku | W+R | 2005-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F33QJdrA5vaVzuaI1kVdmw%3D%3D) | 
-| 第54期王座戦予選 | Ishida Yoshio | So Yokoku | B+1.5 | 2005-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DYNJHepFR185rv1nDuy1fw%3D%3D) | 
-| 第31期名人戦予選 | Kono Rin | So Yokoku | B+R | 2005-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FqW6kH6g%2Fu2WOcBFokeLJQ%3D%3D) | 
-| 第44期十段戦敗者復活戦2回戦 | Rin Kaiho | So Yokoku | W+4.5 | 2005-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4nl5xPLo53j%2FB6gJStcDTA%3D%3D) | 
-| 第12期阿含・桐山杯全日本早碁オープン戦準決勝 | So Yokoku | Kobayashi Satoru | W+2.5 | 2005-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rz0Ld%2F642Rzsj%2BJBq%2ByCOQ%3D%3D) | 
-| 第61期本因坊戦予選 | So Yokoku | Honda Kunihisa | B+R | 2005-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NtgfHfX9ILniwf10BkmVsg%3D%3D) | 
-| 第12期阿含・桐山杯全日本早碁オープン戦2回戦 | Yanaka Katsunori | So Yokoku | W+2.5 | 2005-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gsN65n1%2FdnI0Go5z1OkLJQ%3D%3D) | 
-| 第30期新人王戦準決勝 | So Yokoku | Kim Sujun | W+R | 2005-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=35q3bJOtq17X34pZkFsiHw%3D%3D) | 
-| 第44期十段戦本戦2回戦 | Takao Shinji | So Yokoku | B+R | 2005-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=muNIun5XUAJbpHA7Hp738w%3D%3D) | 
-| 第30期新人王戦3回戦 | So Yokoku | Kubo Hideo | B+R | 2005-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kadWxFKDrptzYnffpinmOQ%3D%3D) | 
-| 第12期阿含・桐山杯全日本早碁オープン戦1回戦 | So Yokoku | Mizokami Tomochika | B+1.5 | 2005-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pn75o1k33fx4WJnTVDl5WQ%3D%3D) | 
-| 2005年中国囲碁乙級リーグ | So Yokoku | missing | W+R | 2005-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6m%2BW7lG9u8GKkpgPaNimqg%3D%3D) | 
-| 2005年中国囲碁乙級リーグ | Song Taekon | So Yokoku | W+R | 2005-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uBgDo5lcVmHAcg3pdzEx7w%3D%3D) | 
-| 2005年中国囲碁乙級リーグ | Yun Junsang | So Yokoku | W+R | 2005-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pjVcScf28gcq6uaTTeYt2Q%3D%3D) | 
-| 第44期十段戦本戦1回戦 | So Yokoku | Ryu Shikun | B+2.5 | 2005-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=03M41SYUA8nKNc6H5%2BX76g%3D%3D) | 
-| 第10回LG杯世界棋王戦2回戦 | So Yokoku | Piao Wenyao | W+R | 2005-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CAQQ5pZYDD3E%2FrYPyjSktg%3D%3D) | 
-| 第10回LG杯世界棋王戦1回戦 | So Yokoku | Choi Cheolhan | B+R | 2005-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kPY2aY8nsN%2FdSwXr2KObRw%3D%3D) | 
-| 第30期新人王戦2回戦 | So Yokoku | Tsuruyama Atsushi | B+R | 2005-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zqMrpb4BWUozopc3RFu6Jg%3D%3D) | 
-| 第60期本因坊戦残留プレーオフ | So Yokoku | O Meien | W+R | 2005-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m7%2F6yJQGzpoZeHwuBS9h4w%3D%3D) | 
-| 第44期十段戦予選 | Suzuki Yoshimichi | So Yokoku | W+1.5 | 2005-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uL49%2BwO04FMKwisjnQkmOg%3D%3D) | 
-| 第60期本因坊戦リーグ | Yoda Norimoto | So Yokoku | W+R | 2005-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XVJ%2F7%2BY9YpMr%2Bdu8jOQlCg%3D%3D) | 
-| 第60期本因坊戦リーグ | So Yokoku | Takao Shinji | W+R | 2005-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PUU8r1951cLBzgb7ti2JdQ%3D%3D) | 
-| 第60期本因坊戦リーグ | Han Zenki | So Yokoku | W+R | 2005-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bFHFi82w8LTccyiJ3xx4sw%3D%3D) | 
-| 第60期本因坊戦リーグ | So Yokoku | Mimura Tomoyasu | W+R | 2005-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qfjt0QPSvdIYOust%2BWWMKw%3D%3D) | 
-| 第30期新人王戦1回戦 | So Yokoku | Takei Takashi | B+6.5 | 2004-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XHLbxB%2FcrOKa%2F7UYFNCgkQ%3D%3D) | 
-| 第60期本因坊戦リーグ | O Rissei | So Yokoku | W+R | 2004-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mny3idC2oJoEs9EcZ0xSQA%3D%3D) | 
-| 第60期本因坊戦リーグ | So Yokoku | Cho Sonjin | W+R | 2004-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ePb5hWM9MZLXPI1tD%2FvkHA%3D%3D) | 
-| 第60期本因坊戦リーグ | O Meien | So Yokoku | W+R | 2004-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GZajIlxyhkvgEJwdQl5e%2Bw%3D%3D) | 
-| 第2期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | So Yokoku | Chang Hao | W+0.5 | 2004-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MqULagVSm5v9vy4LAZJQbw%3D%3D) | 
-| 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | missing | So Yokoku | W+R | 2004-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F79GDEmFIT1DzYdz%2Bg0Q8g%3D%3D) | 
-| 第30期天元戦本戦3回戦 | Cho Chikun | So Yokoku | B+7.5 | 2004-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xh62Dxqb1hbEWKtTXTaj5A%3D%3D) | 
-| 第30期天元戦本戦2回戦 | So Yokoku | Yamada Kimio | B+R | 2004-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eQyhGrHShwnF8CoNcofH%2Bg%3D%3D) | 
-| 2004年中国囲碁乙級リーグ | So Yokoku | missing | B+R | 2004-03-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6lLXHLAwk23rgu%2Bj39hLow%3D%3D) | 
-| 第1期JAL新鋭早碁2回戦 | Mizokami Tomochika | So Yokoku | B+R | 2004-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iYg6XXTuWmB0GtqhT87TFA%3D%3D) | 
-| 第30期天元戦本戦1回戦 | Shiraishi Yutaka | So Yokoku | W+R | 2004-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YOow5Nsvx1yxmaRzX%2BQe2A%3D%3D) | 
-| 第30期天元戦本戦0回戦 | Nakano Yasuhiro | So Yokoku | W+R | 2003-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bW%2FasIyBdkfnnOA7Ye5ShQ%3D%3D) | 
-| 第28期新人王戦決勝三番勝負第2局 | Fujii Shuya | So Yokoku | W+R | 2003-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NtqBIyguz%2FqTMuOfOuGD0A%3D%3D) | 
-| 第28期新人王戦決勝三番勝負第1局 | So Yokoku | Fujii Shuya | B+3.5 | 2003-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D%2FGA6yZI8JZN0dIbyOjnXQ%3D%3D) | 
-| 第29期天元戦本戦2回戦 | So Yokoku | Kobayashi Satoru | W+R | 2003-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YMHStq5K9bzfMVam8R3paw%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | So Yokoku | Rui Naiwei | W+R | 2003-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wb9v6MQ26IjyiGXmCd0SoA%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | So Yokoku | missing | W+4.5 | 2003-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qR9N9RDqf1%2FW1Lkqn8pdwQ%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | So Yokoku | missing | B+R | 2003-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0ntvYWYxiOVjpyh%2Fz63PAQ%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | Jin Weibin | So Yokoku | W+R | 2003-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rgwPvIGcijFozTAo4qhYFA%3D%3D) | 
-| 第29期天元戦本戦1回戦 | Kataoka Satoshi | So Yokoku | W+R | 2003-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nz9y0k%2BUCXuNenBdnyY8Iw%3D%3D) | 
-| 第29期天元戦本戦0回戦 | So Yokoku | Rin Kaiho | B+2.5 | 2003-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0nxaEMv2lJsmd1OrPUw5Mg%3D%3D) | 
-| 2002年国際新鋭囲碁対抗戦第3戦 | Hong Seongji | So Yokoku | W+R | 2002-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RANk7IOKX2x%2BlTXmgrCe5w%3D%3D) | 
-| 坂井秀至　試練の十二番勝負　第四戦 | Sakai Hideyuki | So Yokoku | W+2.5 | 2002-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CKTX%2Bfu7h1%2BBSnc20XEB%2Bg%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-04 | 第60期十段戦2回戦 | So Yokoku | Murakawa Daisuke | Win | B+1.5 | 6.5 | 3233 | 3233 | 
+| 2021-09-23 | 第60期十段戦予選 | So Yokoku | Takao Shinji | Win | B+3.5 | 6.5 | missing | -2845 | 
+| 2021-08-19 | 第46期棋聖戦Bリーグ | Seto Taiki | So Yokoku | Lose | B+R | 6.5 | 2845 | -282 | 
+| 2020-11-26 | 第47期天元戦予選 | So Yokoku | Hsu Chiayuan | Lose | W+R | 6.5 | 3127 | 2 | 
+| 2020-10-22 | 第59期十段戦2回戦 | So Yokoku | Cho U | Lose | W+R | 6.5 | 3125 | 10 | 
+| 2020-09-17 | 第46期碁聖戦予選 | O Meien | So Yokoku | Lose | B+R | 6.5 | 3115 | -7 | 
+| 2020-09-07 | 第45期棋聖戦Aリーグ | So Yokoku | Adachi Toshimasa | Lose | W+R | 6.5 | 3122 | -31 | 
+| 2020-08-27 | 第59期十段戦予選 | So Yokoku | Ko Iso | Win | B+1.5 | 6.5 | 3153 | 57 | 
+| 2020-08-20 | 第45期棋聖戦Aリーグ | Yamashita Keigo | So Yokoku | Lose | B+R | 6.5 | 3096 | 123 | 
+| 2020-07-16 | 第27期阿含・桐山杯全日本早碁オープン戦1回戦 | Iyama Yuta | So Yokoku | Lose | B+R | 6.5 | 2973 | 5 | 
+| 2020-07-09 | 第45期棋聖戦Aリーグ | Shida Tatsuya | So Yokoku | Win | W+R | 6.5 | 2968 | 73 | 
+| 2020-06-29 | 第45期棋聖戦Aリーグ | So Yokoku | Yu Zhengqi | Lose | W+R | 6.5 | 2895 | 197 | 
+| 2020-03-19 | 第45期棋聖戦Aリーグ | Onishi Ryuhei | So Yokoku | Lose | B+R | 6.5 | 2698 | -28 | 
+| 2020-03-12 | 第59期十段戦予選 | Takemiya Masaki | So Yokoku | Win | W+R | 6.5 | 2726 | 51 | 
+| 2020-02-20 | 第68期王座戦予選 | Akiyama Jiro | So Yokoku | Lose | B+R | 6.5 | 2675 | -186 | 
+| 2020-02-13 | 第45期棋聖戦Aリーグ | So Yokoku | Motoki Katsuya | Win | B+R | 6.5 | 2861 | 46 | 
+| 2020-02-06 | 第45期棋聖戦Aリーグ | Yoda Norimoto | So Yokoku | Lose | B+R | 6.5 | 2815 | -62 | 
+| 2020-01-09 | 第46期天元戦1回戦 | So Yokoku | Seto Taiki | Lose | W+R | 6.5 | 2877 | 325 | 
+| 2019-09-05 | 第44期棋聖戦Sリーグ | Takao Shinji | So Yokoku | Win | W+2.5 | 6.5 | 2552 | 138 | 
+| 2019-08-29 | 第58期十段戦予選 | So Yokoku | Adachi Toshimasa | Lose | W+R | 6.5 | 2414 | -255 | 
+| 2019-08-05 | 第44期棋聖戦Sリーグ | So Yokoku | Hsu Chiayuan | Lose | W+R | 6.5 | 2669 | 9 | 
+| 2019-07-25 | 第44期棋聖戦Sリーグ | So Yokoku | Kono Rin | Lose | W+R | 6.5 | 2660 | -39 | 
+| 2019-05-30 | 第44期棋聖戦Sリーグ | Murakawa Daisuke | So Yokoku | Lose | B+R | 6.5 | 2699 | -73 | 
+| 2019-05-02 | 第44期棋聖戦Sリーグ | Yamashita Keigo | So Yokoku | Lose | B+R | 6.5 | 2772 | -112 | 
+| 2019-02-07 | 第45期天元戦1回戦 | So Yokoku | Yu Zhengqi | Lose | W+R | 6.5 | 2884 | 0 | 
+| 2018-11-15 | 第45期天元戦予選 | So Yokoku | Kataoka Satoshi | Win | B+R | 6.5 | 2884 | -1 | 
+| 2018-11-06 | 第1回SGW杯中庸戦予選1回戦 | So Yokoku | Kubo Hideo | Lose | W+1.5 | 6.5 | 2885 | 3 | 
+| 2018-10-11 | 第57期十段戦2回戦 | O Meien | So Yokoku | Lose | B+1.5 | 6.5 | 2882 | -68 | 
+| 2018-09-13 | 第43期棋聖戦Aリーグ | Kobayashi Satoru | So Yokoku | Win | W+R | 6.5 | 2950 | 14 | 
+| 2018-08-23 | 第67期王座戦予選 | O Meien | So Yokoku | Win | W+R | 7.5 | 2936 | 29 | 
+| 2018-08-09 | 第57期十段戦最終予選決勝 | O Rissei | So Yokoku | Win | W+R | 6.5 | 2907 | 34 | 
+| 2018-08-02 | 第43期棋聖戦Aリーグ | So Yokoku | Yoda Norimoto | Lose | W+R | 7.5 | 2873 | -28 | 
+| 2018-06-28 | 第43期棋聖戦Aリーグ | So Yokoku | Ko Iso | Win | B+R | 6.5 | 2901 | 15 | 
+| 2018-06-21 | 第57期十段戦予選 | So Yokoku | Nakano Yasuhiro | Win | B+R | 6.5 | 2886 | 47 | 
+| 2018-05-10 | 第43期棋聖戦Aリーグ | Cho Chikun | So Yokoku | Win | W+R | 6.5 | 2839 | 18 | 
+| 2018-05-03 | 第74期本因坊戦予選 | So Yokoku | Kataoka Satoshi | Lose | W+R | 6.5 | 2821 | -34 | 
+| 2018-04-12 | 第43期棋聖戦Aリーグ | So Yokoku | Shida Tatsuya | Win | B+1.5 | 6.5 | 2855 | -30 | 
+| 2017-11-23 | 第43期碁聖戦本戦1回戦 | Mitani Tetsuya | So Yokoku | Lose | B+R | 6.5 | 2885 | -75 | 
+| 2017-10-27 | 第56期十段戦2回戦 | So Yokoku | Hsu Chiayuan | Lose | W+R | 6.5 | 2960 | 32 | 
+| 2017-09-14 | 第43期碁聖戦予選 | So Yokoku | Yoda Norimoto | Win | B+R | 6.5 | 2928 | 48 | 
+| 2017-09-07 | 第42期棋聖戦　Sリーグ5回戦 | Cho U | So Yokoku | Lose | B+R | 6.5 | 2880 | 10 | 
+| 2017-08-03 | 第42期棋聖戦　Sリーグ4回戦 | So Yokoku | Ichiriki Ryo | Lose | W+R | 6.5 | 2870 | -44 | 
+| 2017-07-20 | 第56期十段戦　最終予選決勝 | So Yokoku | Seto Taiki | Win | B+R | 6.5 | 2914 | 41 | 
+| 2017-07-13 | 第42期棋聖戦　Sリーグ3回戦 | Kono Rin | So Yokoku | Lose | B+R | 6.5 | 2873 | -40 | 
+| 2017-07-06 | 第73期本因坊戦　最終予選準決勝 | So Yokoku | Kobayashi Satoru | Lose | W+R | 6.5 | 2913 | 12 | 
+| 2017-06-15 | 第42期棋聖戦　Sリーグ2回戦 | Murakawa Daisuke | So Yokoku | Lose | B+R | 6.5 | 2901 | -179 | 
+| 2017-04-27 | 第42期棋聖戦　Sリーグ1回戦 | So Yokoku | Yamashita Keigo | Lose | W+R | 6.5 | 3080 | -75 | 
+| 2017-03-30 | 第73期本因坊戦　予選A決勝 | Cho Chikun | So Yokoku | Win | W+R | 6.5 | 3155 | 239 | 
+| 2017-03-23 | 第56期十段戦　予選A決勝 | So Yokoku | Kobayashi Satoru | Win | B+R | 6.5 | 2916 | -32 | 
+| 2016-08-11 | 第41期棋聖戦Aリーグ | Awaji Shuzo | So Yokoku | Win | W+R | 6.5 | 2948 | -109 | 
+| 2016-07-21 | 第41期棋聖戦Aリーグ | So Yokoku | Ryu Shikun | Win | B+0.5 | 6.5 | 3057 | 286 | 
+| 2016-06-16 | 第55期十段戦予選 | Chang Rueijie | So Yokoku | Lose | B+R | 6.5 | 2771 | -23 | 
+| 2016-06-09 | 第41期棋聖戦Aリーグ | So Yokoku | Cho Riyu | Win | B+R | 6.5 | 2794 | -24 | 
+| 2016-05-30 | 第21回LG杯朝鮮日報棋王戦1回戦 | So Yokoku | Ke Jie | Lose | W+R | 6.5 | 2818 | 7 | 
+| 2016-05-26 | 第41期棋聖戦Aリーグ | So Yokoku | Yamada Kimio | Win | B+R | 6.5 | 2811 | 69 | 
+| 2016-05-05 | 第41期棋聖戦Aリーグ | Kobayashi Satoru | So Yokoku | Win | W+R | 6.5 | 2742 | 150 | 
+| 2016-04-20 | 第8回応氏杯世界選手権1回戦 | Huang Yunsong | So Yokoku | Lose | B+R | 7.5 | 2592 | 8 | 
+| 2016-04-16 | 第65回NHK杯テレビ囲碁トーナメント戦1回戦第3局 | So Yokoku | Cho Chikun | Win | B+4.5 | 6.5 | 2584 | 25 | 
+| 2016-03-10 | 第41期棋聖戦Aリーグ | So Yokoku | Yamashiro Hiroshi | Win | B+R | 6.5 | 2559 | 48 | 
+| 2016-02-25 | 第72期本因坊戦予選 | Otake Hideo | So Yokoku | Win | W+R | 6.5 | 2511 | -72 | 
+| 2015-10-29 | 第41期名人戦予選 | So Yokoku | Hirata Tomoya | Lose | W+3.5 | 6.5 | 2583 | -34 | 
+| 2015-10-19 | 第41期名人戦予選 | Yuki Satoshi | So Yokoku | Win | W+R | 6.5 | 2617 | -158 | 
+| 2015-07-16 | 第54期十段戦予選 | So Yokoku | Yoda Norimoto | Lose | W+R | 6.5 | 2775 | -42 | 
+| 2015-07-03 | 第40期名人戦リーグ | Yamashita Keigo | So Yokoku | Lose | B+R | 6.5 | 2817 | -172 | 
+| 2015-06-11 | 第40期棋聖戦Bリーグ | O Meien | So Yokoku | Lose | B+R | 6.5 | 2989 | 51 | 
+| 2015-06-04 | 第40期名人戦リーグ | Takao Shinji | So Yokoku | Win | W+R | 6.5 | 2938 | -19 | 
+| 2015-05-14 | 第40期名人戦リーグ | So Yokoku | Hane Naoki | Lose | W+R | 6.5 | 2957 | -31 | 
+| 2015-04-23 | 第40期棋聖戦Bリーグ | So Yokoku | Yamada Kimio | Lose | W+R | 6.5 | 2988 | -55 | 
+| 2015-04-14 | 第20回LG杯予選 | So Yokoku | Kang Jihoon | Lose | W+T | 6.5 | 3043 | 11 | 
+| 2015-04-09 | 第40期名人戦リーグ | So Yokoku | Cho U | Win | B+0.5 | 6.5 | 3032 | -73 | 
+| 2015-03-12 | 第40期名人戦リーグ | Murakawa Daisuke | So Yokoku | Lose | B+R | 6.5 | 3105 | -125 | 
+| 2015-02-26 | 第40期碁聖戦本戦2回戦 | So Yokoku | Shida Tatsuya | Lose | W+R | 6.5 | 3230 | 24 | 
+| 2015-02-12 | 第40期名人戦リーグ | So Yokoku | Ko Iso | Win | B+R | 6.5 | 3206 | 41 | 
+| 2015-01-15 | 第40期名人戦リーグ | Kanazawa Makoto | So Yokoku | Lose | B+0.5 | 6.5 | 3165 | 36 | 
+| 2014-12-11 | 第40期名人戦リーグ | So Yokoku | Kono Rin | Lose | W+R | 6.5 | 3129 | -28 | 
+| 2014-11-20 | 第53期十段戦2回戦 | So Yokoku | Ida Atsushi | Lose | W+0.5 | 6.5 | 3157 | 26 | 
+| 2014-11-06 | 第40期名人戦予選 | Yamada Noriyoshi | So Yokoku | Win | W+R | 6.5 | 3131 | 122 | 
+| 2014-10-23 | 第40期名人戦予選 | Ryu Shikun | So Yokoku | Win | W+2.5 | 6.5 | 3009 | 39 | 
+| 2014-10-13 | 第53期十段戦1回戦 | So Yokoku | Cho Sonjin | Win | B+R | 6.5 | 2970 | 28 | 
+| 2014-10-09 | 第40期碁聖戦予選 | So Yokoku | Takemiya Masaki | Win | B+3.5 | 6.5 | 2942 | 162 | 
+| 2014-08-07 | 第70期本因坊戦予選 | Ryu Shikun | So Yokoku | Lose | B+R | 6.5 | 2780 | -4 | 
+| 2014-06-12 | 第40期名人戦予選 | So Yokoku | O Rissei | Win | B+11.5 | 6.5 | 2784 | 2784 | 
+| 2014-03-31 | 第39期棋聖戦予選 | So Yokoku | Yuki Satoshi | Lose | W+R | 6.5 | missing | -2714 | 
+| 2014-02-20 | 第39期碁聖戦本戦2回戦 | So Yokoku | Kono Rin | Lose | W+R | 6.5 | 2714 | -256 | 
+| 2013-10-24 | 第52期十段戦2回戦 | So Yokoku | Ichiriki Ryo | Lose | W+R | 6.5 | 2970 | -89 | 
+| 2013-07-11 | 第39期名人戦予選 | So Yokoku | Cho Chikun | Lose | W+7.5 | 6.5 | 3059 | 315 | 
+| 2013-05-30 | 第39期天元戦本戦2回戦 | So Yokoku | Ryu Shikun | Lose | W+R | 6.5 | 2744 | -30 | 
+| 2013-05-09 | 第38期碁聖戦本戦3回戦 | Cho Riyu | So Yokoku | Lose | B+R | 6.5 | 2774 | -46 | 
+| 2013-03-07 | 第61期王座戦予選 | Mochizuki Kenichi | So Yokoku | Lose | B+R | 6.5 | 2820 | -7 | 
+| 2013-02-21 | 第38期碁聖戦本戦2回戦 | Cho Chikun | So Yokoku | Win | W+0.5 | 6.5 | 2827 | 56 | 
+| 2013-02-07 | 第39期天元戦本戦1回戦 | Oya Koichi | So Yokoku | Win | W+1.5 | 6.5 | 2771 | 143 | 
+| 2013-01-10 | 第61期王座戦予選 | Han Zenki | So Yokoku | Win | W+R | 6.5 | 2628 | -273 | 
+| 2012-11-29 | 第38期碁聖戦本戦1回戦 | So Yokoku | Yu Zhengqi | Win | B+R | 6.5 | 2901 | 178 | 
+| 2012-09-20 | 第38期碁聖戦予選 | So Yokoku | Kim Sujun | Win | B+R | 6.5 | 2723 | 164 | 
+| 2012-08-23 | 第38期名人戦予選 | Sakai Hideyuki | So Yokoku | Lose | B+R | 6.5 | 2559 | -5 | 
+| 2012-08-09 | 第39期天元戦予選 | Ohashi Hirofumi | So Yokoku | Win | W+R | 6.5 | 2564 | -145 | 
+| 2012-07-09 | 第19期阿含・桐山杯全日本早碁オープン戦1回戦 | Hane Naoki | So Yokoku | Lose | B+R | 6.5 | 2709 | 37 | 
+| 2012-06-25 | 第8回大和証券杯ネット囲碁オープン予選 | So Yokoku | Xie Yimin | Lose | W+R | 6.5 | 2672 | -145 | 
+| 2012-05-24 | 第51期十段戦予選 | So Yokoku | Kim Sujun | Lose | W+R | 6.5 | 2817 | -46 | 
+| 2012-03-08 | 第37期棋聖戦予選 | Kobayashi Satoru | So Yokoku | Lose | B+R | 6.5 | 2863 | -147 | 
+| 2012-01-26 | 第37期碁聖戦本戦1回戦 | So Yokoku | Yuki Satoshi | Lose | W+R | 6.5 | 3010 | -45 | 
+| 2012-01-19 | 第60期王座戦予選 | Yamashiro Hiroshi | So Yokoku | Lose | B+R | 6.5 | 3055 | 403 | 
+| 2011-07-21 | 第37期名人戦予選 | Ryu Shikun | So Yokoku | Win | W+5.5 | 6.5 | 2652 | -232 | 
+| 2011-06-02 | 第50期十段戦予選 | So Yokoku | Yoda Norimoto | Lose | W+R | 6.5 | 2884 | -92 | 
+| 2011-05-19 | 第67期本因坊戦予選 | Hikosaka Naoto | So Yokoku | Lose | B+R | 6.5 | 2976 | 50 | 
+| 2011-05-12 | 第59期王座戦1回戦 | So Yokoku | Murakawa Daisuke | Lose | W+R | 6.5 | 2926 | -118 | 
+| 2011-04-21 | 第37期名人戦予選 | Aoki Shinichi | So Yokoku | Win | W+R | 6.5 | 3044 | 63 | 
+| 2011-03-31 | 第67期本因坊戦予選 | So Yokoku | Oya Koichi | Win | B+R | 6.5 | 2981 | -13 | 
+| 2011-02-24 | 第59期王座戦予選 | So Yokoku | Han Zenki | Win | B+R | 6.5 | 2994 | 309 | 
+| 2010-11-11 | 第37期天元戦予選 | So Yokoku | Kataoka Satoshi | Lose | W+R | 6.5 | 2685 | -98 | 
+| 2010-10-21 | 第36期碁聖戦予選 | So Yokoku | Shuto Shun | Lose | W+R | 6.5 | 2783 | 14 | 
+| 2010-10-07 | 第36期碁聖戦予選 | So Yokoku | O Rissei | Win | B+R | 6.5 | 2769 | 107 | 
+| 2010-09-06 | 第30期NECカップ囲碁トーナメント戦2回戦 | So Yokoku | Kono Rin | Lose | W+2.5 | 6.5 | 2662 | -45 | 
+| 2010-08-26 | 第49期十段戦敗者復活戦2回戦 | So Yokoku | Hane Naoki | Lose | W+0.5 | 6.5 | 2707 | -49 | 
+| 2010-07-31 | 第6回大和証券杯ネット囲碁オープン1回戦 | So Yokoku | Hane Naoki | Lose | W+R | 6.5 | 2756 | 15 | 
+| 2010-07-12 | 第30期NECカップ囲碁トーナメント戦1回戦 | So Yokoku | Cho Chikun | Win | B+0.5 | 6.5 | 2741 | 120 | 
+| 2010-05-20 | 第49期十段戦本戦1回戦 | Takao Shinji | So Yokoku | Win | W+R | 6.5 | 2621 | 37 | 
+| 2010-04-19 | 第15回LG杯予選 | So Yokoku | Lee Chungyu | Lose | W+0.5 | 6.5 | 2584 | -103 | 
+| 2010-03-18 | 第35期棋聖戦予選 | So Yokoku | Yamashiro Hiroshi | Lose | W+R | 6.5 | 2687 | -79 | 
+| 2010-02-25 | 第36期天元戦本戦1回戦 | So Yokoku | Cho Chikun | Lose | W+10.5 | 6.5 | 2766 | 48 | 
+| 2010-02-11 | 第58期王座戦予選 | Cho Chikun | So Yokoku | Lose | B+R | 6.5 | 2718 | -66 | 
+| 2009-12-03 | 第35期碁聖戦本戦2回戦 | O Rissei | So Yokoku | Lose | B+R | 6.5 | 2784 | -244 | 
+| 2009-11-05 | 第35期碁聖戦本戦1回戦 | So Yokoku | Mizokami Tomochika | Win | B+R | 6.5 | 3028 | 74 | 
+| 2009-10-08 | 第48期十段戦敗者復活戦3回戦 | Shuto Shun | So Yokoku | Lose | B+R | 6.5 | 2954 | -38 | 
+| 2009-09-17 | 第48期十段戦敗者復活戦2回戦 | So Yokoku | O Meien | Win | B+1.5 | 6.5 | 2992 | 2 | 
+| 2009-09-10 | 第35期碁聖戦予選 | Cho Sonjin | So Yokoku | Win | W+R | 6.5 | 2990 | 61 | 
+| 2009-08-20 | 第48期十段戦本戦2回戦 | So Yokoku | Takao Shinji | Lose | W+R | 6.5 | 2929 | 20 | 
+| 2009-07-25 | 第5回大和証券杯ネット囲碁オープン1回戦 | So Yokoku | Tsuruyama Atsushi | Lose | W+2.5 | 6.5 | 2909 | -42 | 
+| 2009-07-02 | 第57期王座戦2回戦 | So Yokoku | Yamada Kimio | Lose | W+R | 6.5 | 2951 | 73 | 
+| 2009-06-10 | 2009年中国囲碁乙級リーグ | Yun Junsang | So Yokoku | Lose | B+R | 7.5 | 2878 | -80 | 
+| 2009-05-28 | 第48期十段戦本戦1回戦 | Cho Chikun | So Yokoku | Win | W+R | 6.5 | 2958 | -29 | 
+| 2009-05-14 | 第57期王座戦1回戦 | Seto Taiki | So Yokoku | Win | W+3.5 | 6.5 | 2987 | 14 | 
+| 2009-05-11 | 第5回大和証券杯ネット囲碁オープン予選 | Kurotaki Masanori | So Yokoku | Win | W+R | 6.5 | 2973 | 0 | 
+| 2009-05-11 | 第5回大和証券杯ネット囲碁オープン予選 | So Yokoku | Ogaki Yusaku | Win | B+1.5 | 6.5 | 2973 | 24 | 
+| 2009-04-30 | 第64期本因坊戦残留プレーオフ | So Yokoku | Cho U | Lose | W+R | 6.5 | 2949 | 22 | 
+| 2009-04-09 | 第34期碁聖戦本戦3回戦 | So Yokoku | Yuki Satoshi | Lose | W+R | 6.5 | 2927 | 8 | 
+| 2009-04-02 | 第64期本因坊戦リーグ | Yoda Norimoto | So Yokoku | Win | W+1.5 | 6.5 | 2919 | 12 | 
+| 2009-03-26 | 第35期名人戦予選 | Otake Hideo | So Yokoku | Win | W+R | 6.5 | 2907 | 55 | 
+| 2009-03-12 | 第34期碁聖戦本戦2回戦 | So Yokoku | Nakamura Shinya | Win | B+R | 6.5 | 2852 | -7 | 
+| 2009-03-05 | 第64期本因坊戦リーグ | So Yokoku | Nakaonoda Tomomi | Win | B+R | 6.5 | 2859 | -48 | 
+| 2009-02-26 | 第57期王座戦予選 | Yo Kagen | So Yokoku | Win | W+R | 6.5 | 2907 | 102 | 
+| 2009-02-12 | 第35期天元戦本戦0回戦 | Anzai Nobuaki | So Yokoku | Lose | B+R | 6.5 | 2805 | -30 | 
+| 2009-02-05 | 第64期本因坊戦リーグ | Kataoka Satoshi | So Yokoku | Win | W+R | 6.5 | 2835 | 20 | 
+| 2009-01-22 | 第64期本因坊戦リーグ | So Yokoku | Takao Shinji | Lose | W+R | 6.5 | 2815 | -17 | 
+| 2009-01-15 | 第35期天元戦予選 | Kataoka Satoshi | So Yokoku | Win | W+R | 6.5 | 2832 | -16 | 
+| 2008-12-18 | 第64期本因坊戦リーグ | So Yokoku | Cho U | Lose | W+R | 6.5 | 2848 | 35 | 
+| 2008-12-01 | 第2期幽玄杯精鋭リーグ戦 | So Yokoku | Ohashi Naruya | Win | B+4.5 | 6.5 | 2813 | 290 | 
+| 2008-11-27 | 第64期本因坊戦リーグ | So Yokoku | Yamashita Keigo | Win | B+8.5 | 6.5 | 2523 | 28 | 
+| 2008-11-24 | 第2期幽玄杯精鋭リーグ戦 | Shida Tatsuya | So Yokoku | Win | W+2.5 | 6.5 | 2495 | 65 | 
+| 2008-11-20 | 第47期十段戦敗者復活戦3回戦 | Akiyama Jiro | So Yokoku | Lose | B+R | 6.5 | 2430 | 26 | 
+| 2008-11-13 | 第22回世界囲碁選手権富士通杯国内予選 | Takemiya Masaki | So Yokoku | Lose | B+3.5 | 6.5 | 2404 | -83 | 
+| 2008-10-30 | 第64期本因坊戦リーグ | Yamada Kimio | So Yokoku | Lose | B+R | 6.5 | 2487 | -581 | 
+| 2008-10-13 | 第2期幽玄杯精鋭リーグ戦 | So Yokoku | Oda Teppei | Win | B+R | 6.5 | 3068 | 123 | 
+| 2008-09-18 | 第34期棋聖戦予選 | So Yokoku | Kobayashi Koichi | Win | B+12.5 | 6.5 | 2945 | 34 | 
+| 2008-09-13 | 第28期NECカップ囲碁トーナメント戦1回戦 | So Yokoku | Takao Shinji | Lose | W+R | 6.5 | 2911 | 49 | 
+| 2008-08-14 | 第47期十段戦本戦3回戦 | So Yokoku | Cho Chikun | Lose | W+1.5 | 6.5 | 2862 | 273 | 
+| 2008-07-17 | 第64期本因坊戦予選 | Ogata Masaki | So Yokoku | Win | W+R | 6.5 | 2589 | 27 | 
+| 2008-07-10 | 第47期十段戦本戦2回戦 | Komatsu Hideki | So Yokoku | Win | W+R | 6.5 | 2562 | -60 | 
+| 2008-06-05 | 第47期十段戦本戦1回戦 | Yasuda Yasutoshi | So Yokoku | Win | W+R | 6.5 | 2622 | 193 | 
+| 2008-04-03 | 第63期本因坊戦リーグ | So Yokoku | Yamashita Keigo | Lose | W+R | 6.5 | 2429 | -3 | 
+| 2008-03-20 | 第63期本因坊戦リーグ | So Yokoku | O Meien | Lose | W+R | 6.5 | 2432 | -30 | 
+| 2008-03-03 | 第56期王座戦予選 | Yuki Satoshi | So Yokoku | Lose | B+R | 6.5 | 2462 | -35 | 
+| 2008-02-21 | 第63期本因坊戦リーグ | Cho U | So Yokoku | Lose | B+2.5 | 6.5 | 2497 | -4 | 
+| 2008-02-04 | 第1期幽玄杯精鋭リーグ戦 | Yanagisawa Satoshi | So Yokoku | Win | W+R | 6.5 | 2501 | 41 | 
+| 2008-01-24 | 第63期本因坊戦リーグ | Hane Naoki | So Yokoku | Lose | B+2.5 | 6.5 | 2460 | -1 | 
+| 2007-12-06 | 第63期本因坊戦リーグ | So Yokoku | Yamada Kimio | Win | B+3.5 | 6.5 | 2461 | -25 | 
+| 2007-11-22 | 第21回世界囲碁選手権富士通杯国内予選 | So Yokoku | Cho Sonjin | Lose | W+R | 6.5 | 2486 | -14 | 
+| 2007-11-15 | 第33期棋聖戦予選 | Ishida Yoshio | So Yokoku | Lose | B+1.5 | 6.5 | 2500 | -1 | 
+| 2007-11-01 | 第63期本因坊戦リーグ | Yoda Norimoto | So Yokoku | Win | W+0.5 | 6.5 | 2501 | 3 | 
+| 2007-10-18 | 第46期十段戦敗者復活戦3回戦 | Komatsu Hideki | So Yokoku | Lose | B+R | 6.5 | 2498 | -76 | 
+| 2007-10-04 | 第63期本因坊戦リーグ | Mizokami Tomochika | So Yokoku | Lose | B+R | 6.5 | 2574 | 3 | 
+| 2007-09-23 | 第3回大和証券杯ネット囲碁オープン1回戦 | Kanazawa Hideo | So Yokoku | Lose | B+T | 6.5 | 2571 | -1346 | 
+| 2007-09-15 | 第27期NECカップ囲碁トーナメント戦1回戦 | So Yokoku | Ko Iso | Lose | W+R | 6.5 | 3917 | -10 | 
+| 2007-09-13 | 第33期碁聖戦予選 | Matsumoto Takehisa | So Yokoku | Lose | B+R | 6.5 | 3927 | 1239 | 
+| 2007-08-27 | 第46期十段戦本戦3回戦 | Cho U | So Yokoku | Lose | B+R | 6.5 | 2688 | -7 | 
+| 2007-08-23 | 第33期碁聖戦予選 | So Yokoku | Rin Kaiho | Win | B+4.5 | 6.5 | 2695 | -4 | 
+| 2007-08-21 | 第3回大和証券杯ネット囲碁オープン予選 | So Yokoku | Tajima Shingo | Win | B+R | 6.5 | 2699 | -345 | 
+| 2007-08-02 | 第12回三星火災杯予選決勝 | So Yokoku |  | Lose | W+R | 6.5 | 3044 | -17 | 
+| 2007-08-01 | 第12回三星火災杯予選準決勝 | Kang Changbae | So Yokoku | Win | W+R | 6.5 | 3061 | -41 | 
+| 2007-07-26 | 第46期十段戦本戦2回戦 | Kobayashi Satoru | So Yokoku | Win | W+R | 6.5 | 3102 | -12 | 
+| 2007-07-19 | 第55期王座戦準決勝 | So Yokoku | Imamura Toshiya | Lose | W+R | 6.5 | 3114 | 11 | 
+| 2007-06-26 | 2007年中国囲碁乙級リーグ | So Yokoku | Weon Seongjin | Lose | W+R | 7.5 | 3103 | -10 | 
+| 2007-06-25 | 2007年中国囲碁乙級リーグ | Yue Liang | So Yokoku | Win | W+R | 7.5 | 3113 | 12 | 
+| 2007-06-22 | 2007年中国囲碁乙級リーグ | So Yokoku | Cho Hanseung | Lose | W+R | 7.5 | 3101 | 12 | 
+| 2007-06-14 | 第46期十段戦本戦1回戦 | Mochizuki Kenichi | So Yokoku | Win | W+R | 6.5 | 3089 | 68 | 
+| 2007-06-07 | 第55期王座戦2回戦 | So Yokoku | Nakamura Shinya | Win | B+R | 6.5 | 3021 | 31 | 
+| 2007-05-24 | 第46期十段戦予選 | Kudo Norio | So Yokoku | Win | W+R | 6.5 | 2990 | 24 | 
+| 2007-05-10 | 第55期王座戦1回戦 | Cho Chikun | So Yokoku | Win | W+R | 6.5 | 2966 | 13 | 
+| 2007-05-03 | 第32期棋聖戦予選 | Takao Shinji | So Yokoku | Lose | B+R | 6.5 | 2953 | -13 | 
+| 2007-04-19 | 第14期阿含・桐山杯全日本早碁オープン戦予選 | So Yokoku | Cho Sonjin | Lose | W+R | 6.5 | 2966 | -31 | 
+| 2007-04-12 | 第33期天元戦本戦2回戦 | So Yokoku | Cho Chikun | Lose | W+1.5 | 6.5 | 2997 | -5 | 
+| 2007-04-08 | 第62期本因坊戦挑戦者決定プレーオフ | Yoda Norimoto | So Yokoku | Lose | B+R | 6.5 | 3002 | -10 | 
+| 2007-04-05 | 第62期本因坊戦リーグ | So Yokoku | Hane Naoki | Win | B+R | 6.5 | 3012 | -20 | 
+| 2007-03-29 | 第55期王座戦予選 | So Yokoku | Yuki Satoshi | Win | B+0.5 | 6.5 | 3032 | 22 | 
+| 2007-03-22 | 第32期棋聖戦予選 | So Yokoku | Kudo Norio | Win | B+R | 6.5 | 3010 | 2 | 
+| 2007-03-15 | 第62期本因坊戦リーグ | Cho U | So Yokoku | Win | W+0.5 | 6.5 | 3008 | 378 | 
+| 2007-03-01 | 第33期天元戦本戦1回戦 | So Yokoku | Cho U | Win | B+R | 6.5 | 2630 | 0 | 
+| 2007-02-08 | 第62期本因坊戦リーグ | So Yokoku | Yamada Kimio | Lose | W+R | 6.5 | 2630 | -9 | 
+| 2007-02-03 | 第2回大和証券杯ネット囲碁オープンDリーグ | Mimura Tomoyasu | So Yokoku | Lose | B+R | 6.5 | 2639 | -29 | 
+| 2007-01-27 | 第2回大和証券杯ネット囲碁オープンDリーグ | Iyama Yuta | So Yokoku | Lose | B+R | 6.5 | 2668 | -12 | 
+| 2007-01-21 | 第2回大和証券杯ネット囲碁オープンDリーグ | So Yokoku | Michael Redmond | Lose | W+R | 6.5 | 2680 | 41 | 
+| 2007-01-11 | 第62期本因坊戦リーグ | So Yokoku | Kobayashi Satoru | Win | B+R | 6.5 | 2639 | 66 | 
+| 2006-12-14 | 第62期本因坊戦リーグ | Yoda Norimoto | So Yokoku | Win | W+2.5 | 6.5 | 2573 | 26 | 
+| 2006-12-12 | 第2回大和証券杯ネット囲碁オープン予選 | Endo Yoshifumi | So Yokoku | Win | W+R | 6.5 | 2547 | -60 | 
+| 2006-11-02 | 第62期本因坊戦リーグ | So Yokoku | Cho Sonjin | Lose | W+R | 6.5 | 2607 | -74 | 
+| 2006-10-05 | 第62期本因坊戦リーグ | O Meien | So Yokoku | Win | W+R | 6.5 | 2681 | 29 | 
+| 2006-09-17 | 第1回大和証券杯ネット囲碁オープンBリーグ | So Yokoku | Ryu Shikun | Win | B+R | 6.5 | 2652 | 20 | 
+| 2006-09-16 | 第26期NECカップ囲碁トーナメント戦1回戦 | Takao Shinji | So Yokoku | Lose | B+R | 6.5 | 2632 | -24 | 
+| 2006-09-10 | 第1回大和証券杯ネット囲碁オープンBリーグ | Nakano Hironari | So Yokoku | Lose | B+R | 6.5 | 2656 | -24 | 
+| 2006-09-03 | 第1回大和証券杯ネット囲碁オープンBリーグ | Kobayashi Satoru | So Yokoku | Lose | B+R | 6.5 | 2680 | -14 | 
+| 2006-08-31 | 第62期本因坊戦予選 | So Yokoku | Sakai Hideyuki | Win | B+6.5 | 6.5 | 2694 | 9 | 
+| 2006-08-14 | 第11回三星火災杯予選2回戦 | So Yokoku | Kim Seungjun | Lose | W+F | 6.5 | 2685 | -14 | 
+| 2006-07-20 | 第45期十段戦敗者復活戦1回戦 | So Yokoku | Yamashiro Hiroshi | Lose | W+2.5 | 6.5 | 2699 | -95 | 
+| 2006-06-29 | 第32期名人戦予選 | So Yokoku | Kobayashi Koichi | Win | B+R | 6.5 | 2794 | -163 | 
+| 2006-06-15 | 第45期十段戦本戦1回戦 | So Yokoku | Kobayashi Satoru | Lose | W+5.5 | 6.5 | 2957 | 33 | 
+| 2006-05-15 | 第11回LG杯世界棋王戦1回戦 | Lin Zhihan | So Yokoku | Lose | B+3.5 | 6.5 | 2924 | -42 | 
+| 2006-04-28 | 第11回LG杯予選 | So Yokoku | Kim Hyeongwoo | Win | B+R | 6.5 | 2966 | -9 | 
+| 2006-04-20 | 2006年中国囲碁乙級リーグ | Gu Lingyi | So Yokoku | Win | W+R | 7.5 | 2975 | 5 | 
+| 2006-04-19 | 2006年中国囲碁乙級リーグ | Meng Lei | So Yokoku | Win | W+R | 7.5 | 2970 | 4 | 
+| 2006-04-17 | 2006年中国囲碁乙級リーグ | So Yokoku | Zhu Songli | Lose | Void | 7.5 | 2966 | -4 | 
+| 2006-04-16 | 2006年中国囲碁乙級リーグ | Dong Yan | So Yokoku | Win | W+R | 7.5 | 2970 | 11 | 
+| 2006-03-30 | 第61期本因坊戦リーグ | Cho U | So Yokoku | Win | W+R | 6.5 | 2959 | 18 | 
+| 2006-03-23 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | So Yokoku | Rin Kaiho | Lose | W+R | 6.5 | 2941 | -15 | 
+| 2006-03-20 | 第13期阿含・桐山杯全日本早碁オープン戦予選 | So Yokoku |  | Win | B+R | 6.5 | 2956 | 3 | 
+| 2006-03-08 | 第61期本因坊戦リーグ | Hane Naoki | So Yokoku | Lose | B+R | 6.5 | 2953 | -2 | 
+| 2006-02-23 | 第61期本因坊戦リーグ | So Yokoku | O Meien | Win | B+R | 6.5 | 2955 | 30 | 
+| 2006-01-12 | 第61期本因坊戦リーグ | Yamada Kimio | So Yokoku | Lose | B+R | 6.5 | 2925 | 8 | 
+| 2005-12-22 | 第31期碁聖戦本戦1回戦 | So Yokoku | Kiyonari Tetsuya | Lose | W+R | 6.5 | 2917 | -249 | 
+| 2005-12-08 | 第61期本因坊戦リーグ | So Yokoku | O Rissei | Lose | W+R | 6.5 | 3166 | 335 | 
+| 2005-11-03 | 第61期本因坊戦リーグ | So Yokoku | Cho Sonjin | Win | B+0.5 | 6.5 | 2831 | -243 | 
+| 2005-10-27 | 第44期十段戦敗者復活戦3回戦 | So Yokoku | Kobayashi Satoru | Lose | W+5.5 | 6.5 | 3074 | 40 | 
+| 2005-10-19 | 2005年国際新鋭囲碁対抗戦第3戦 | Xiao Zhenghao | So Yokoku | Win | W+4.5 | 6.5 | 3034 | -1 | 
+| 2005-10-18 | 2005年国際新鋭囲碁対抗戦第2戦 | So Yokoku | Wang Yao | Win | B+R | 6.5 | 3035 | 7 | 
+| 2005-10-17 | 2005年国際新鋭囲碁対抗戦第1戦 | Lee Jungwoo | So Yokoku | Lose | B+2.5 | 6.5 | 3028 | -50 | 
+| 2005-10-13 | 第61期本因坊戦リーグ | Yoda Norimoto | So Yokoku | Win | W+R | 6.5 | 3078 | 38 | 
+| 2005-10-06 | 第54期王座戦予選 | Ishida Yoshio | So Yokoku | Lose | B+1.5 | 6.5 | 3040 | -26 | 
+| 2005-09-29 | 第31期名人戦予選 | Kono Rin | So Yokoku | Lose | B+R | 6.5 | 3066 | 3 | 
+| 2005-09-22 | 第44期十段戦敗者復活戦2回戦 | Rin Kaiho | So Yokoku | Win | W+4.5 | 6.5 | 3063 | 30 | 
+| 2005-08-22 | 第12期阿含・桐山杯全日本早碁オープン戦準決勝 | So Yokoku | Kobayashi Satoru | Lose | W+2.5 | 6.5 | 3033 | -2 | 
+| 2005-08-18 | 第61期本因坊戦予選 | So Yokoku | Honda Kunihisa | Win | B+R | 6.5 | 3035 | -21 | 
+| 2005-08-11 | 第12期阿含・桐山杯全日本早碁オープン戦2回戦 | Yanaka Katsunori | So Yokoku | Win | W+2.5 | 6.5 | 3056 | 29 | 
+| 2005-08-04 | 第30期新人王戦準決勝 | So Yokoku | Kim Sujun | Lose | W+R | 6.5 | 3027 | -67 | 
+| 2005-07-28 | 第44期十段戦本戦2回戦 | Takao Shinji | So Yokoku | Lose | B+R | 6.5 | 3094 | 11 | 
+| 2005-07-14 | 第30期新人王戦3回戦 | So Yokoku | Kubo Hideo | Win | B+R | 6.5 | 3083 | -5 | 
+| 2005-07-11 | 第12期阿含・桐山杯全日本早碁オープン戦1回戦 | So Yokoku | Mizokami Tomochika | Win | B+1.5 | 6.5 | 3088 | 356 | 
+| 2005-06-16 | 2005年中国囲碁乙級リーグ | So Yokoku |  | Lose | W+R | 7.5 | 2732 | -42 | 
+| 2005-06-15 | 2005年中国囲碁乙級リーグ | Song Taekon | So Yokoku | Win | W+R | 7.5 | 2774 | 13 | 
+| 2005-06-11 | 2005年中国囲碁乙級リーグ | Yun Junsang | So Yokoku | Win | W+R | 7.5 | 2761 | -14 | 
+| 2005-05-26 | 第44期十段戦本戦1回戦 | So Yokoku | Ryu Shikun | Win | B+2.5 | 6.5 | 2775 | 27 | 
+| 2005-05-18 | 第10回LG杯世界棋王戦2回戦 | So Yokoku | Piao Wenyao | Lose | W+R | 6.5 | 2748 | 0 | 
+| 2005-05-16 | 第10回LG杯世界棋王戦1回戦 | So Yokoku | Choi Cheolhan | Win | B+R | 6.5 | 2748 | 57 | 
+| 2005-04-21 | 第30期新人王戦2回戦 | So Yokoku | Tsuruyama Atsushi | Win | B+R | 6.5 | 2691 | -3 | 
+| 2005-04-14 | 第60期本因坊戦残留プレーオフ | So Yokoku | O Meien | Lose | W+R | 6.5 | 2694 | -126 | 
+| 2005-04-07 | 第44期十段戦予選 | Suzuki Yoshimichi | So Yokoku | Win | W+1.5 | 6.5 | 2820 | 20 | 
+| 2005-03-31 | 第60期本因坊戦リーグ | Yoda Norimoto | So Yokoku | Win | W+R | 6.5 | 2800 | 49 | 
+| 2005-03-10 | 第60期本因坊戦リーグ | So Yokoku | Takao Shinji | Lose | W+R | 6.5 | 2751 | -411 | 
+| 2005-02-03 | 第60期本因坊戦リーグ | Han Zenki | So Yokoku | Win | W+R | 6.5 | 3162 | 132 | 
+| 2005-01-06 | 第60期本因坊戦リーグ | So Yokoku | Mimura Tomoyasu | Lose | W+R | 6.5 | 3030 | 15 | 
+| 2004-12-23 | 第30期新人王戦1回戦 | So Yokoku | Takei Takashi | Win | B+6.5 | 6.5 | 3015 | 110 | 
+| 2004-12-02 | 第60期本因坊戦リーグ | O Rissei | So Yokoku | Win | W+R | 6.5 | 2905 | 109 | 
+| 2004-11-11 | 第60期本因坊戦リーグ | So Yokoku | Cho Sonjin | Lose | W+R | 6.5 | 2796 | -297 | 
+| 2004-10-21 | 第60期本因坊戦リーグ | O Meien | So Yokoku | Win | W+R | 6.5 | 3093 | 273 | 
+| 2004-08-23 | 第2期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | So Yokoku | Chang Hao | Lose | W+0.5 | 6.5 | 2820 | -54 | 
+| 2004-08-21 | 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 |  | So Yokoku | Win | W+R | 6.5 | 2874 | -26 | 
+| 2004-06-24 | 第30期天元戦本戦3回戦 | Cho Chikun | So Yokoku | Lose | B+7.5 | 6.5 | 2900 | -43 | 
+| 2004-04-22 | 第30期天元戦本戦2回戦 | So Yokoku | Yamada Kimio | Win | B+R | 6.5 | 2943 | 516 | 
+| 2004-03-31 | 2004年中国囲碁乙級リーグ | So Yokoku |  | Win | B+R | 7.5 | 2427 | -234 | 
+| 2004-01-24 | 第1期JAL新鋭早碁2回戦 | Mizokami Tomochika | So Yokoku | Lose | B+R | 6.5 | 2661 | -80 | 
+| 2004-01-15 | 第30期天元戦本戦1回戦 | Shiraishi Yutaka | So Yokoku | Win | W+R | 6.5 | 2741 | 43 | 
+| 2003-12-18 | 第30期天元戦本戦0回戦 | Nakano Yasuhiro | So Yokoku | Win | W+R | 6.5 | 2698 | -2845 | 
+| 2003-10-09 | 第28期新人王戦決勝三番勝負第2局 | Fujii Shuya | So Yokoku | Win | W+R | 6.5 | 5543 | 95 | 
+| 2003-09-29 | 第28期新人王戦決勝三番勝負第1局 | So Yokoku | Fujii Shuya | Win | B+3.5 | 6.5 | 5448 | 3107 | 
+| 2003-04-17 | 第29期天元戦本戦2回戦 | So Yokoku | Kobayashi Satoru | Lose | W+R | 6.5 | 2341 | 122 | 
+| 2003-04-08 | 2003年中国囲碁乙級リーグ | So Yokoku | Rui Naiwei | Lose | W+R | 7.5 | 2219 | 2219 | 
+| 2003-04-05 | 2003年中国囲碁乙級リーグ | So Yokoku |  | Lose | W+4.5 | 7.5 | missing | 0 | 
+| 2003-04-02 | 2003年中国囲碁乙級リーグ | So Yokoku |  | Win | B+R | 7.5 | missing | 0 | 
+| 2003-04-01 | 2003年中国囲碁乙級リーグ | Jin Weibin | So Yokoku | Win | W+R | 7.5 | missing | 0 | 
+| 2003-02-27 | 第29期天元戦本戦1回戦 | Kataoka Satoshi | So Yokoku | Win | W+R | 6.5 | missing | 0 | 
+| 2003-01-30 | 第29期天元戦本戦0回戦 | So Yokoku | Rin Kaiho | Win | B+2.5 | 6.5 | missing | 0 | 
+| 2002-10-05 | 2002年国際新鋭囲碁対抗戦第3戦 | Hong Seongji | So Yokoku | Win | W+R | 6.5 | missing | 0 | 
+| 2002-01-13 | 坂井秀至　試練の十二番勝負　第四戦 | Sakai Hideyuki | So Yokoku | Win | W+2.5 | 6.5 | missing | missing |
 
 
 

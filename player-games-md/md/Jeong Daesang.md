@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-04 | 2021韓国シニア囲碁リーグ | Seo Nungwuk | Jeong Daesang | Lose | B+R | 6.5 | 2238 | -41 | 
 | 2021-10-25 | 2021韓国シニア囲碁リーグ | Jeong Daesang | An Kwanwuk | Win | B+R | 6.5 | 2279 | 212 | 
 | 2021-10-19 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Kim JongJoon | Win | B+15.5 | 6.5 | 2067 | -72 | 
 | 2021-10-13 | 2021韓国シニア囲碁リーグ |  | Jeong Daesang | Win | W+6.5 | 6.5 | 2139 | -59 | 

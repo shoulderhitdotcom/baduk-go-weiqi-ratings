@@ -5,152 +5,153 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第40期女流本因坊戦1回戦  | Umezawa Yukari | Nakamura Sumire | W+7.5 | 2021-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bk6mn%2Favhlo17wFjQcxAmA%3D%3D) | 
-| 第40期女流本因坊戦予選 | Umezawa Yukari | missing | B+R | 2021-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kRZuuOZFtKSWM6tT5fB9kw%3D%3D) | 
-| 第40期女流本因坊戦予選  | Nakajima Mieko | Umezawa Yukari | W+R | 2021-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y6Lz3h4k9uiQGkQj6Vut0Q%3D%3D) | 
-| 第5回扇興杯女流最強戦2回戦 | Fujisawa Rina | Umezawa Yukari | B+3.5 | 2020-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3s51SwDFD4ZFkwCx1U7qXw%3D%3D) | 
-| 第5回扇興杯女流最強戦1回戦 | Tsukuda Akiko | Umezawa Yukari | W+R | 2020-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WRvG%2BhlpsQY4d2DxCPeoSw%3D%3D) | 
-| 第46期碁聖戦予選 | Umezawa Yukari | Omori Yasushi | W+6.5 | 2020-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZWpGtkHxaNNx%2BkY0KNkA%2Fg%3D%3D) | 
-| 第38期女流本因坊戦2回戦 | Ueno Asami | Umezawa Yukari | B+3.5 | 2019-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EBO8%2B9pJIp6eED5mbFOzdQ%3D%3D) | 
-| 第38期女流本因坊戦1回戦 | Tobita Saki | Umezawa Yukari | W+6.5 | 2019-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hf1N%2FvM%2FznAbXA%2FIBd2y6w%3D%3D) | 
-| 第38期女流本因坊戦予選 | Umezawa Yukari | Kaneko Maki | B+R | 2019-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nUL%2BcRXjkTvNmnXWFWtWRg%3D%3D) | 
-| 第44期棋聖戦ファーストトーナメント予選 | Kobayashi Koichi | Umezawa Yukari | B+R | 2018-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yJTn87CVWF%2FX7mXN0McBvA%3D%3D) | 
-| 第22期ドコモ杯女流棋聖戦準決勝 | Umezawa Yukari | Xie Yimin | W+R | 2018-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MXiZ1s4fytFCwB7HwtxQsQ%3D%3D) | 
-| 第22期ドコモ杯女流棋聖戦2回戦 | Kobayashi Izumi | Umezawa Yukari | W+R | 2018-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eFjK3jH5cIKkYHmRhMJ68g%3D%3D) | 
-| 第31期ドコモ杯女流棋聖戦1回戦 | Kato Keiko | Umezawa Yukari | W+R | 2018-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HOjoGA3C5zdJ%2FwgVXMwcOQ%3D%3D) | 
-| 第31期女流名人戦1回戦 | Umezawa Yukari | Yashiro Kumiko | W+R | 2018-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5PZQtZDghubCdUw4OtuJ3Q%3D%3D) | 
-| 第67期王座戦予選 | missing | Umezawa Yukari | W+R | 2018-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BQjBRrg4cbswi4IFSf0UsQ%3D%3D) | 
-| 第45期天元戦予選 | Miyazawa Goro | Umezawa Yukari | W+R | 2018-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WDois6w2N1rr1ATmqUbj%2Bw%3D%3D) | 
-| 第37期女流本因坊戦2回戦 | Umezawa Yukari | Aoki Kikuyo | W+1.5 | 2018-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dy2AiYz4WowP0OT4HebExw%3D%3D) | 
-| 第3回扇興杯女流囲碁最強戦予選 | Mannami Nao | Umezawa Yukari | B+R | 2018-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kuAzc1jh1oK6yNvhoGXeyg%3D%3D) | 
-| 第74期本因坊戦予選 | Umezawa Yukari | Chino Tadahiko | B+1.5 | 2018-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NsqzTvNhnyCrZWHlSEjRWg%3D%3D) | 
-| 第5期会津中央病院・女流立葵杯予選 | Umezawa Yukari | missing | B+R | 2017-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t6vBKW1Vzp6NTS3%2BQHNrEQ%3D%3D) | 
-| 第21期ドコモ杯女流棋聖戦1回戦 | Kim Hyun Jung | Umezawa Yukari | B+R | 2017-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dV6AEac0tGSphx0qxVNM5Q%3D%3D) | 
-| 第36期女流本因坊戦挑戦者決定戦 | Umezawa Yukari | Xie Yimin | W+5.5 | 2017-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Kb5oSmrZY5XTC9tFokc4yA%3D%3D) | 
-| 第36期女流本因坊戦準決勝 | Inaba Karin | Umezawa Yukari | W+R | 2017-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gQPB%2BjGOLWHqOE98hpUyBA%3D%3D) | 
-| 第36期女流本因坊戦3回戦 | Suzuki Ayumi | Umezawa Yukari | W+R | 2017-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6tPSkDEeiUjRveOJRK1HbA%3D%3D) | 
-| 第36期女流本因坊戦2回戦 | Umezawa Yukari | Nyu Eiko | B+1.5 | 2017-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fknzSUkasO4EtRdTr7Ao6w%3D%3D) | 
-| 第2回扇興杯女流囲碁最強戦　本戦1回戦 | Umezawa Yukari | Nishiyama Shizuka | W+0.5 | 2017-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bv6J5ekqQEVrmVRZMd4VOg%3D%3D) | 
-| 第36期女流本因坊戦1回戦 | Hoshiai Shiho | Umezawa Yukari | W+R | 2017-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m7ssSyOd8MWUaPl0p9Alwg%3D%3D) | 
-| 第20期ドコモ杯女流棋聖戦1回戦 | Nyu Eiko | Umezawa Yukari | B+R | 2016-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MCtUssPV81nGeATnsJZP4w%3D%3D) | 
-| 第43期天元戦予選 | Umezawa Yukari | Kudo Norio | W+2.5 | 2016-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hk47AxZShAPWoRJtmtWm1g%3D%3D) | 
-| 第29期女流名人戦予選 | Umezawa Yukari | Ogawa Tomoko | B+5.5 | 2016-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GFs%2FpGllbbWxm2fnUr%2BjIg%3D%3D) | 
-| 第19期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Xie Yimin | Umezawa Yukari | B+2.5 | 2016-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JTDCQUn58l7bi2m3Kv0mfg%3D%3D) | 
-| 第19期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Umezawa Yukari | Xie Yimin | W+0.5 | 2016-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jGmzI2L7s1R3F5nHNOxkVA%3D%3D) | 
-| 第19期ドコモ杯女流棋聖戦挑戦者決定戦 | Kato Keiko | Umezawa Yukari | W+R | 2015-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qPcz25c7XHmwIkrCcX%2F%2Flw%3D%3D) | 
-| 第19期ドコモ杯女流棋聖戦準決勝 | Tanemura Sayuri | Umezawa Yukari | W+2.5 | 2015-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DltXhX0i3QvoAfFrho96Ng%3D%3D) | 
-| 第19期ドコモ杯女流棋聖戦2回戦 | Umezawa Yukari | Aoba Kaori | B+R | 2015-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dghagQoSF3JGJJarM85KcQ%3D%3D) | 
-| 第19期ドコモ杯女流棋聖戦1回戦 | Umezawa Yukari | Mukai Kaori | B+8.5 | 2015-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5Vn3VjBE9eTbuzPVM0%2BIzQ%3D%3D) | 
-| 第41期名人戦予選 | Otake Hideo | Umezawa Yukari | B+R | 2015-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xrl1wS8WO8xwvdnWaNvAfw%3D%3D) | 
-| 第28期女流名人戦予選 | Ogawa Tomoko | Umezawa Yukari | B+R | 2015-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Te6LdHAfRNt3dPbwYPCaXw%3D%3D) | 
-| 第34期女流本因坊戦予選 | Umezawa Yukari | Inori Yoko | B+R | 2014-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aybjHZ4h%2FM%2FMY%2F1GZjldDw%3D%3D) | 
-| 第18期ドコモ杯女流棋聖戦1回戦 | Inori Yoko | Umezawa Yukari | B+R | 2014-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zBHlKKZYZOMROykUZ%2F40uA%3D%3D) | 
-| 第27期女流名人戦予選 | Mannami Nao | Umezawa Yukari | B+R | 2014-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9mIQjpdvZhAIynr57tDVHw%3D%3D) | 
-| 第33期女流本因坊戦予選 | Umezawa Yukari | Kibe Natsuki | W+R | 2014-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RNzm6ezFsnz%2FC8HJlkvGNA%3D%3D) | 
-| 第17期ドコモ杯女流棋聖戦1回戦 | Ishii Akane | Umezawa Yukari | B+1.5 | 2013-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2bwbcftPc1XGpIQuZuifGw%3D%3D) | 
-| 第40期天元戦予選 | Suzuki Shinji | Umezawa Yukari | B+R | 2013-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SZxMVvT0KDk%2FHi1ZLgJrBQ%3D%3D) | 
-| 第26期女流名人戦予選 | Umezawa Yukari | Wang Jingyi | B+R | 2013-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HwMIMaPXk%2BuCKCBL73cREA%3D%3D) | 
-| 第32期女流本因坊戦予選 | Kouda Akiko | Umezawa Yukari | W+R | 2012-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BKHmc38M4yHF8QwNZcq1eA%3D%3D) | 
-| 第25期女流名人戦予選 | Umezawa Yukari | Osawa Narumi | W+R | 2012-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hFQCrOwWeQdqOaO4RIutwA%3D%3D) | 
-| 第31期女流本因坊戦予選 | Okuda Aya | Umezawa Yukari | B+R | 2012-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LhPGI4%2Brd3Ymaay6hANumw%3D%3D) | 
-| 第15期ドコモ杯女流棋聖戦挑戦者決定戦 | Umezawa Yukari | Aoki Kikuyo | W+R | 2011-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rjHfodHBYpT%2Bf%2FGlzo%2Fmbw%3D%3D) | 
-| 第38期名人戦予選 | Umezawa Yukari | Kuwamoto Shinpei | W+R | 2011-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BT1PBmvSpcsiAC%2Bu0QupvA%3D%3D) | 
-| 第15期ドコモ杯女流棋聖戦準決勝 | Umezawa Yukari | Kato Keiko | B+R | 2011-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pdyiQ1ILP%2FiEJlBEWv7LuA%3D%3D) | 
-| 第15期ドコモ杯女流棋聖戦2回戦 | Mukai Kaori | Umezawa Yukari | W+1.5 | 2011-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9vTptCTMu5Rye1YCz3pRhA%3D%3D) | 
-| 第37期棋聖戦予選 | Sugiuchi Masao | Umezawa Yukari | W+R | 2011-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QTSR4oJrIQTffT2XUGML%2Fg%3D%3D) | 
-| 第15期ドコモ杯女流棋聖戦1回戦 | Umezawa Yukari | Chinen Kaori | B+0.5 | 2011-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fFjs7JrSlMmGRAAUrDghGQ%3D%3D) | 
-| 第24期女流名人戦予選 | Inori Yoko | Umezawa Yukari | B+R | 2011-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fOA%2BNngEk8VkV1EAJnpq%2Bg%3D%3D) | 
-| 第24期女流名人戦予選 | Makihata Taeko | Umezawa Yukari | W+R | 2011-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JHT7Akhk7nEtIhw2aYtxOQ%3D%3D) | 
-| 第30期女流本因坊戦1回戦 | Umezawa Yukari | Suzuki Ayumi | W+R | 2011-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oFFDTw7FBfXsTjrFFiV%2BBQ%3D%3D) | 
-| 第14期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Xie Yimin | Umezawa Yukari | B+R | 2011-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8e5x5EtQOILwGCzEfllqdw%3D%3D) | 
-| 第14期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Umezawa Yukari | Xie Yimin | W+9.5 | 2011-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1%2FxnF45BTuGbOw6sbZR1og%3D%3D) | 
-| 第23期女流名人戦リーグ | Suzuki Ayumi | Umezawa Yukari | B+R | 2011-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WWRUI9Efp9HROBHSW7tzUw%3D%3D) | 
-| 第14期ドコモ杯女流棋聖戦挑戦者決定戦 | Yoshida Mika | Umezawa Yukari | W+3.5 | 2010-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8CcTg4iV1K9pA35MfsSvGw%3D%3D) | 
-| 第23期女流名人戦リーグ | Umezawa Yukari | Mukai Chiaki | W+R | 2010-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gUzvUapi1t1swyebu8Xeyg%3D%3D) | 
-| 第14期ドコモ杯女流棋聖戦準決勝 | Chinen Kaori | Umezawa Yukari | W+R | 2010-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t7B0y1VdYj9lZQ%2FESuHzcQ%3D%3D) | 
-| 第23期女流名人戦リーグ | Umezawa Yukari | Okuda Aya | W+R | 2010-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OkNW4bD5SVy%2B0ZtFZDrm%2BQ%3D%3D) | 
-| 第14期ドコモ杯女流棋聖戦2回戦 | Wang Jingyi | Umezawa Yukari | W+R | 2010-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jCB4Sjt5rP4b%2B%2BSsXHbjyg%3D%3D) | 
-| 第14期ドコモ杯女流棋聖戦1回戦 | Umezawa Yukari | Osawa Narumi | B+R | 2010-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ILopeKfwffZ8NYaOnQjIfg%3D%3D) | 
-| 第23期女流名人戦リーグ | Koyama Mitsuru | Umezawa Yukari | B+R | 2010-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gBi7bYfzDXtO6VcCy1aORQ%3D%3D) | 
-| 第36期棋聖戦予選 | Umezawa Yukari | Takemiya Masaki | B+1.5 | 2010-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JoPl8EP06U1IpXwmYPO66g%3D%3D) | 
-| 第29期女流本因坊戦挑戦者決定戦 | Mukai Chiaki | Umezawa Yukari | B+R | 2010-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sXQfYwutPt5no1Sz93dB3w%3D%3D) | 
-| 第23期女流名人戦リーグ | Mannami Nao | Umezawa Yukari | W+R | 2010-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ceuxmp8IMd1FsBMPL%2B00FQ%3D%3D) | 
-| 第23期女流名人戦リーグ | Umezawa Yukari | Yoshida Mika | W+7.5 | 2010-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=okIGqZo%2F3RqlvmDOqOq9ZA%3D%3D) | 
-| 第29期女流本因坊戦準決勝 | Umezawa Yukari | Kobayashi Izumi | B+R | 2010-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b68iacX2sRxNcHtD%2F%2B9GHQ%3D%3D) | 
-| 第29期女流本因坊戦2回戦 | Umezawa Yukari | Mannami Nao | B+R | 2010-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=afs%2FsOxIIW%2BSAmMWUF7ofg%3D%3D) | 
-| 第29期女流本因坊戦1回戦 | Abe Yumiko | Umezawa Yukari | W+R | 2010-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rVVvSv8kQZlCG6khFMmxGw%3D%3D) | 
-| 第13期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Umezawa Yukari | Xie Yimin | W+R | 2010-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EosMTTCwJXoRKboEYp8cig%3D%3D) | 
-| 第13期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Xie Yimin | Umezawa Yukari | B+R | 2010-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0ZLiNeukMtKqfnLY7%2BpBog%3D%3D) | 
-| 第22期女流名人戦リーグ | Umezawa Yukari | Mukai Chiaki | W+R | 2010-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gs74uyMn8MTp1A7Oc0obkA%3D%3D) | 
-| 第8回正官庄杯世界女子囲碁最強戦第7戦 | Cao Youyin | Umezawa Yukari | B+R | 2009-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8bEnepLJ8NrNsLluFituTw%3D%3D) | 
-| 第22期女流名人戦リーグ | Suzuki Ayumi | Umezawa Yukari | B+3.5 | 2009-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UQUptAfHwWf7FKIH2jN78A%3D%3D) | 
-| 第22期女流名人戦リーグ | Umezawa Yukari | Kato Keiko | B+1.5 | 2009-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MSFkfp9IUiS8tToPB9bXyA%3D%3D) | 
-| 第22期女流名人戦リーグ | Yoshida Mika | Umezawa Yukari | W+R | 2009-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X7RQ8F47DpNLov8AMiv8Fg%3D%3D) | 
-| 第36期天元戦予選 | O Meien | Umezawa Yukari | B+R | 2009-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ajlnek0Kk4spNg718dFpsg%3D%3D) | 
-| 第22期女流名人戦リーグ | Umezawa Yukari | Chinen Kaori | W+R | 2009-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fJQW3P4%2ByOTo5wycvLUr%2Fw%3D%3D) | 
-| 第22期女流名人戦リーグ | Okuda Aya | Umezawa Yukari | W+R | 2009-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DIHb7rmYSDvRv9prV%2BbAXw%3D%3D) | 
-| 第28期女流本因坊戦1回戦 | Umezawa Yukari | Suzuki Ayumi | W+R | 2009-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oS8wF74Wc7k4gPkY7nbrxg%3D%3D) | 
-| 第3回大和証券杯ネット囲碁レディース1回戦 | Inori Yoko | Umezawa Yukari | B+R | 2009-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5CJH8TW4hkU6mo3yL5nHdQ%3D%3D) | 
-| 第12期ドコモ杯女流棋聖戦挑戦手合三番勝負第3局 | Kato Keiko | Umezawa Yukari | W+R | 2009-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HvacEZQbSLH5nBbHjgIoWA%3D%3D) | 
-| 第12期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Kato Keiko | Umezawa Yukari | B+2.5 | 2009-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3zm9X5S1hU8VjrZX4nyvlw%3D%3D) | 
-| 第12期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Umezawa Yukari | Kato Keiko | B+2.5 | 2009-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fscyb5unTYyRTbNWyJt97w%3D%3D) | 
-| 第7回正官庄杯世界女子囲碁最強戦第10戦 | Li He | Umezawa Yukari | B+12.5 | 2009-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YrbzduOgncmV%2BBRb9Y2rig%3D%3D) | 
-| 第21期女流名人戦リーグ | Umezawa Yukari | Suzuki Ayumi | W+1.5 | 2009-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yM2x%2Fiv4cuJPp5oNi8pfmg%3D%3D) | 
-| 第21期女流名人戦リーグ | Kobayashi Izumi | Umezawa Yukari | W+R | 2008-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4zysAhQ7lZiomrp1ENIAQQ%3D%3D) | 
-| 第21期女流名人戦リーグ | Umezawa Yukari | Chinen Kaori | W+4.5 | 2008-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gnYzoXnEmdsu2%2BlNKWSZkQ%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Umezawa Yukari | Rui Naiwei | W+R | 2008-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NDHiBKSqQoU5FF1DF6PhXg%3D%3D) | 
-| 第21期女流名人戦リーグ | Umezawa Yukari | Kato Keiko | W+R | 2008-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9oo9wc2DzreALlpkKCCC0w%3D%3D) | 
-| 第21期女流名人戦リーグ | Mukai Chiaki | Umezawa Yukari | W+4.5 | 2008-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UPiDWZT25DI21B3X36uflA%3D%3D) | 
-| 第2回大和証券杯ネット囲碁レディース2回戦 | Kobayashi Izumi | Umezawa Yukari | B+R | 2008-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NcHYmf6mBrvw7%2Fd3tmBF%2BA%3D%3D) | 
-| 第21期女流名人戦リーグ | Yoshida Mika | Umezawa Yukari | W+R | 2008-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nnIhgYCryTEvXR%2FsyX9Pyw%3D%3D) | 
-| 第10期東京精密杯女流プロ最強戦2回戦 | Umezawa Yukari | Kato Keiko | W+15.5 | 2008-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vvWPQqXDKuKnTrSNuYoUKA%3D%3D) | 
-| 第27期女流本因坊戦2回戦 | Umezawa Yukari | Okuda Aya | W+R | 2008-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uGFa%2FM0PBmmkLDrhe%2BNUlg%3D%3D) | 
-| 第2回大和証券杯ネット囲碁レディース1回戦 | Abe Yumiko | Umezawa Yukari | W+R | 2008-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=szvyUSGQymLgV4Qdq7YLxQ%3D%3D) | 
-| 第21期女流名人戦予選 | Umezawa Yukari | Tamura Chiaki | B+4.5 | 2008-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0x052b2owgz3Ox3LkFxfJA%3D%3D) | 
-| 第21期女流名人戦予選 | Umezawa Yukari | Konishi Kazuko | B+R | 2008-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tgn%2FM9cPNoBpCMjFljUVBg%3D%3D) | 
-| 第10期東京精密杯女流プロ最強戦1回戦 | Yoshida Mika | Umezawa Yukari | W+4.5 | 2008-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TUeCQLWZz56hshuRF8sCdg%3D%3D) | 
-| 第27期女流本因坊戦1回戦 | Kato Tomoko | Umezawa Yukari | W+11.5 | 2008-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wtd1Fj%2F04wfgwLRQRu302w%3D%3D) | 
-| 第11期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Umezawa Yukari | Mukai Chiaki | B+11.5 | 2008-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CMwAnD035mtK7GREl7VT9Q%3D%3D) | 
-| 第11期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Mukai Chiaki | Umezawa Yukari | W+3.5 | 2008-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=obrwM4A4UxMwO9w%2BwRrBYg%3D%3D) | 
-| 第6回正官庄杯世界女子囲碁最強戦第1戦 | Lee Sula | Umezawa Yukari | B+0.5 | 2008-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7hVAJbf6PARSvdet1RnRkw%3D%3D) | 
-| 第1回遠洋地産杯世界女子プロオープン戦1回戦 | Xu Ying | Umezawa Yukari | B+R | 2007-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oPO00yrtXX%2FWYrGa%2BdN1CA%3D%3D) | 
-| 第33期碁聖戦予選 | Cho Sonjin | Umezawa Yukari | W+R | 2007-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PNeyLVinfcUyp3qbpdtnZw%3D%3D) | 
-| 第1回大和証券杯ネット囲碁レディース2回戦 | Kobayashi Izumi | Umezawa Yukari | B+R | 2007-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AFupOMPFOfyRJezp1xj7Rw%3D%3D) | 
-| 第26期女流本因坊戦1回戦 | Umezawa Yukari | Koyama Mitsuru | W+R | 2007-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iJAWVGgNv%2BbvFLtLBU79XA%3D%3D) | 
-| 第1回大和証券杯ネット囲碁レディース1回戦 | Umezawa Yukari | Suzuki Ayumi | B+R | 2007-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rSU%2BsbbQFDrbbpEhAcS0Zw%3D%3D) | 
-| 第9期東京精密杯女流プロ最強戦1回戦 | Chinen Kaori | Umezawa Yukari | B+2.5 | 2007-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p4VW2MM93U%2BUx0RzWo45gg%3D%3D) | 
-| 第26期女流本因坊戦予選 | Umezawa Yukari | Mannami Nao | B+R | 2007-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i%2FLEOt54oxMa3rJ2ipCvzQ%3D%3D) | 
-| 第20期女流名人戦予選 | Umezawa Yukari | missing | B+R | 2007-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2dIL3ina4sUPPmtsZc4hJQ%3D%3D) | 
-| 第10期ドコモ杯女流棋聖戦挑戦手合三番勝負第3局 | Mannami Kana | Umezawa Yukari | W+12.5 | 2007-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ib6MXDg1muTXtaHEFDbn6g%3D%3D) | 
-| 第10期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Umezawa Yukari | Mannami Kana | W+2.5 | 2007-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BFLi73Ko5X7IpeNmA8UDdg%3D%3D) | 
-| 第10期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Mannami Kana | Umezawa Yukari | W+0.5 | 2007-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HojD3w%2FUlcQbT16ti1ziAQ%3D%3D) | 
-| 第10期ドコモ杯女流棋聖戦挑戦者決定戦 | Umezawa Yukari | Yashiro Kumiko | B+R | 2006-12-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fg7axwPtQNplPenIfAAGMA%3D%3D) | 
-| 第10期ドコモ杯女流棋聖戦準決勝 | Umezawa Yukari | Xie Yimin | B+R | 2006-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rFdgINNlNPPd1BfczfFvyw%3D%3D) | 
-| 第10期ドコモ杯女流棋聖戦2回戦 | Umezawa Yukari | Abe Yumiko | B+R | 2006-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LhNO2MDqn5eRckWOTGzU7w%3D%3D) | 
-| 第10期ドコモ杯女流棋聖戦1回戦 | Umezawa Yukari | Mukai Chiaki | B+R | 2006-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NU0jXiMbivfCjbWq1mGLUw%3D%3D) | 
-| 第8期東京精密杯女流プロ最強戦3回戦 | Umezawa Yukari | Izawa Akino | W+R | 2006-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i%2FYrjDZTTp9UVuwRJepHXA%3D%3D) | 
-| 第8期東京精密杯女流プロ最強戦2回戦 | Umezawa Yukari | Kin En | B+0.5 | 2006-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vDH2T5yl7f4szGGccEg7gw%3D%3D) | 
-| 第25期女流本因坊戦1回戦 | Osawa Narumi | Umezawa Yukari | B+R | 2006-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0mt1Y2W4wka7aC%2BBS2NgGQ%3D%3D) | 
-| 第19期女流名人戦予選 | Kanno Naomi | Umezawa Yukari | B+6.5 | 2006-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y8LDkeTSuEQCTzjeynor5g%3D%3D) | 
-| 第7期東京精密杯女流プロ最強戦3回戦 | Umezawa Yukari | Xie Yimin | W+R | 2005-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4c6zUl7k8P6Gv4X83455sg%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Tamai Shin | Umezawa Yukari | W+R | 2005-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6vqVjOMsKuHbAgg8wdUOyA%3D%3D) | 
-| 第3回正官庄杯世界女子囲碁最強戦第3戦 | Ye Gui | Umezawa Yukari | B+R | 2004-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OuNei%2BTxhJyKolF6OOKF8A%3D%3D) | 
-| 第3回正官庄杯世界女子囲碁最強戦第2戦 | Lee Minjin | Umezawa Yukari | W+R | 2004-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UsV2Njm9SM7DJjgR%2B8gudA%3D%3D) | 
-| 第2期JAL女流早碁準決勝 | Inori Yoko | Umezawa Yukari | B+0.5 | 2004-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bi4UrAMnbjCXom6T22dC9A%3D%3D) | 
-| 第2期JAL女流早碁2回戦 | Ashida Isoko | Umezawa Yukari | W+R | 2004-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VzEi7F3qhzvwwbIXwHEy7w%3D%3D) | 
-| 第2期JAL女流早碁1回戦 | Umezawa Yukari | Mannami Kana | B+R | 2004-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZJG7%2B3Bo7Vrfog2j9aJO0Q%3D%3D) | 
-| 第29期新人王戦2回戦 | Umezawa Yukari | Sakai Hideyuki | W+R | 2004-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tCmN0YZ6Z%2B9KmayD0rwbeQ%3D%3D) | 
-| 第6期東京精密杯女流プロ最強戦1回戦 | Sakakibara Fumiko | Umezawa Yukari | B+2.5 | 2004-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dDx9egAJ4q2FKmUcKGY9Nw%3D%3D) | 
-| 第7期ドコモ杯女流棋聖戦挑戦者決定戦 | Mannami Kana | Umezawa Yukari | B+11.5 | 2003-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r3kDzCp7Kr5PP9yd8Flb2w%3D%3D) | 
-| 第7期ドコモ杯女流棋聖戦準決勝 | Kato Keiko | Umezawa Yukari | W+R | 2003-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CPKcW2dK26MPjUXS2xeubw%3D%3D) | 
-| 第7期ドコモ杯女流棋聖戦2回戦 | Kato Tomoko | Umezawa Yukari | W+1.5 | 2003-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3EDCKXvWMVzxaSIZZBlRxQ%3D%3D) | 
-| 第7期ドコモ杯女流棋聖戦1回戦 | Umezawa Yukari | Izawa Akino | B+R | 2003-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ELu%2FUUHu5YCcdL0DBAW3aA%3D%3D) | 
-| 第16期女流名人戦敗者復活戦2回戦 | Umezawa Yukari | Aoki Kikuyo | W+R | 2003-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZUCIoRuGTTkJTff6uNupLw%3D%3D) | 
-| 第16期女流名人戦敗者復活戦1回戦 | Umezawa Yukari | Kin En | B+R | 2003-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u8FY9uQxuzyRtKsKab9VMw%3D%3D) | 
-| 第5期東京精密杯女流プロ最強戦1回戦 | Abe Yumiko | Umezawa Yukari | B+2.5 | 2003-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4oasmQPXYN%2F1Sfbyt%2Fs8lw%3D%3D) | 
-| 第16期女流名人戦1回戦 | Umezawa Yukari | Chinen Kaori | W+6.5 | 2003-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bh3hB2kRWz18N6eC0stt%2FA%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-04 | 第1回テイケイ杯女流レジェンド戦2回戦 | Aoki Kikuyo | Umezawa Yukari | Lose | B+5.5 | 6.5 | missing | 0 | 
+| 2021-04-01 | 第40期女流本因坊戦1回戦  | Umezawa Yukari | Nakamura Sumire | Lose | W+7.5 | 6.5 | missing | 0 | 
+| 2021-02-18 | 第40期女流本因坊戦予選 | Umezawa Yukari |  | Win | B+R | 6.5 | missing | 0 | 
+| 2021-01-14 | 第40期女流本因坊戦予選  | Nakajima Mieko | Umezawa Yukari | Win | W+R | 6.5 | missing | -2141 | 
+| 2020-08-06 | 第5回扇興杯女流最強戦2回戦 | Fujisawa Rina | Umezawa Yukari | Lose | B+3.5 | 6.5 | 2141 | -43 | 
+| 2020-07-16 | 第5回扇興杯女流最強戦1回戦 | Tsukuda Akiko | Umezawa Yukari | Win | W+R | 6.5 | 2184 | 2184 | 
+| 2020-02-13 | 第46期碁聖戦予選 | Umezawa Yukari | Omori Yasushi | Lose | W+6.5 | 6.5 | missing | -2072 | 
+| 2019-06-24 | 第38期女流本因坊戦2回戦 | Ueno Asami | Umezawa Yukari | Lose | B+3.5 | 6.5 | 2072 | -116 | 
+| 2019-03-14 | 第38期女流本因坊戦1回戦 | Tobita Saki | Umezawa Yukari | Win | W+6.5 | 6.5 | 2188 | -67 | 
+| 2019-02-07 | 第38期女流本因坊戦予選 | Umezawa Yukari | Kaneko Maki | Win | B+R | 6.5 | 2255 | 70 | 
+| 2018-12-06 | 第44期棋聖戦ファーストトーナメント予選 | Kobayashi Koichi | Umezawa Yukari | Lose | B+R | 6.5 | 2185 | -19 | 
+| 2018-11-29 | 第22期ドコモ杯女流棋聖戦準決勝 | Umezawa Yukari | Xie Yimin | Lose | W+R | 6.5 | 2204 | -131 | 
+| 2018-11-08 | 第22期ドコモ杯女流棋聖戦2回戦 | Kobayashi Izumi | Umezawa Yukari | Win | W+R | 6.5 | 2335 | -55 | 
+| 2018-10-18 | 第31期ドコモ杯女流棋聖戦1回戦 | Kato Keiko | Umezawa Yukari | Win | W+R | 6.5 | 2390 | 1 | 
+| 2018-09-20 | 第31期女流名人戦1回戦 | Umezawa Yukari | Yashiro Kumiko | Lose | W+R | 6.5 | 2389 | -70 | 
+| 2018-06-28 | 第67期王座戦予選 |  | Umezawa Yukari | Win | W+R | 6.5 | 2459 | -54 | 
+| 2018-06-14 | 第45期天元戦予選 | Miyazawa Goro | Umezawa Yukari | Win | W+R | 6.5 | 2513 | 98 | 
+| 2018-05-17 | 第37期女流本因坊戦2回戦 | Umezawa Yukari | Aoki Kikuyo | Lose | W+1.5 | 6.5 | 2415 | -134 | 
+| 2018-03-08 | 第3回扇興杯女流囲碁最強戦予選 | Mannami Nao | Umezawa Yukari | Lose | B+R | 6.5 | 2549 | -29 | 
+| 2018-01-18 | 第74期本因坊戦予選 | Umezawa Yukari | Chino Tadahiko | Win | B+1.5 | 6.5 | 2578 | 75 | 
+| 2017-10-12 | 第5期会津中央病院・女流立葵杯予選 | Umezawa Yukari |  | Win | B+R | 6.5 | 2503 | 81 | 
+| 2017-09-28 | 第21期ドコモ杯女流棋聖戦1回戦 | Kim Hyun Jung | Umezawa Yukari | Lose | B+R | 6.5 | 2422 | -71 | 
+| 2017-08-17 | 第36期女流本因坊戦挑戦者決定戦 | Umezawa Yukari | Xie Yimin | Lose | W+5.5 | 6.5 | 2493 | -26 | 
+| 2017-07-24 | 第36期女流本因坊戦準決勝 | Inaba Karin | Umezawa Yukari | Win | W+R | 6.5 | 2519 | 55 | 
+| 2017-06-15 | 第36期女流本因坊戦3回戦 | Suzuki Ayumi | Umezawa Yukari | Win | W+R | 6.5 | 2464 | 166 | 
+| 2017-05-15 | 第36期女流本因坊戦2回戦 | Umezawa Yukari | Nyu Eiko | Win | B+1.5 | 6.5 | 2298 | 204 | 
+| 2017-04-17 | 第2回扇興杯女流囲碁最強戦　本戦1回戦 | Umezawa Yukari | Nishiyama Shizuka | Lose | W+0.5 | 6.5 | 2094 | 88 | 
+| 2017-03-16 | 第36期女流本因坊戦1回戦 | Hoshiai Shiho | Umezawa Yukari | Win | W+R | 6.5 | 2006 | -395 | 
+| 2016-10-06 | 第20期ドコモ杯女流棋聖戦1回戦 | Nyu Eiko | Umezawa Yukari | Lose | B+R | 6.5 | 2401 | 60 | 
+| 2016-06-02 | 第43期天元戦予選 | Umezawa Yukari | Kudo Norio | Lose | W+2.5 | 6.5 | 2341 | -142 | 
+| 2016-05-26 | 第29期女流名人戦予選 | Umezawa Yukari | Ogawa Tomoko | Win | B+5.5 | 6.5 | 2483 | 52 | 
+| 2016-02-01 | 第19期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Xie Yimin | Umezawa Yukari | Lose | B+2.5 | 6.5 | 2431 | -84 | 
+| 2016-01-21 | 第19期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Umezawa Yukari | Xie Yimin | Lose | W+0.5 | 6.5 | 2515 | 106 | 
+| 2015-12-07 | 第19期ドコモ杯女流棋聖戦挑戦者決定戦 | Kato Keiko | Umezawa Yukari | Win | W+R | 6.5 | 2409 | 201 | 
+| 2015-11-30 | 第19期ドコモ杯女流棋聖戦準決勝 | Tanemura Sayuri | Umezawa Yukari | Win | W+2.5 | 6.5 | 2208 | -41 | 
+| 2015-10-29 | 第19期ドコモ杯女流棋聖戦2回戦 | Umezawa Yukari | Aoba Kaori | Win | B+R | 6.5 | 2249 | 2249 | 
+| 2015-10-01 | 第19期ドコモ杯女流棋聖戦1回戦 | Umezawa Yukari | Mukai Kaori | Win | B+8.5 | 6.5 | missing | 5828 | 
+| 2015-06-11 | 第41期名人戦予選 | Otake Hideo | Umezawa Yukari | Lose | B+R | 6.5 | -5828 | -3851 | 
+| 2015-05-21 | 第28期女流名人戦予選 | Ogawa Tomoko | Umezawa Yukari | Lose | B+R | 6.5 | -1977 | -4208 | 
+| 2014-12-18 | 第34期女流本因坊戦予選 | Umezawa Yukari | Inori Yoko | Win | B+R | 6.5 | 2231 | 2231 | 
+| 2014-09-22 | 第18期ドコモ杯女流棋聖戦1回戦 | Inori Yoko | Umezawa Yukari | Lose | B+R | 6.5 | missing | 0 | 
+| 2014-06-12 | 第27期女流名人戦予選 | Mannami Nao | Umezawa Yukari | Lose | B+R | 6.5 | missing | 0 | 
+| 2014-02-06 | 第33期女流本因坊戦予選 | Umezawa Yukari | Kibe Natsuki | Lose | W+R | 6.5 | missing | -2222 | 
+| 2013-10-07 | 第17期ドコモ杯女流棋聖戦1回戦 | Ishii Akane | Umezawa Yukari | Lose | B+1.5 | 6.5 | 2222 | 2222 | 
+| 2013-08-29 | 第40期天元戦予選 | Suzuki Shinji | Umezawa Yukari | Lose | B+R | 6.5 | missing | 0 | 
+| 2013-06-06 | 第26期女流名人戦予選 | Umezawa Yukari | Wang Jingyi | Win | B+R | 6.5 | missing | 0 | 
+| 2012-11-15 | 第32期女流本因坊戦予選 | Kouda Akiko | Umezawa Yukari | Win | W+R | 6.5 | missing | -2630 | 
+| 2012-07-26 | 第25期女流名人戦予選 | Umezawa Yukari | Osawa Narumi | Lose | W+R | 6.5 | 2630 | -23 | 
+| 2012-03-22 | 第31期女流本因坊戦予選 | Okuda Aya | Umezawa Yukari | Lose | B+R | 6.5 | 2653 | -64 | 
+| 2011-12-22 | 第15期ドコモ杯女流棋聖戦挑戦者決定戦 | Umezawa Yukari | Aoki Kikuyo | Lose | W+R | 6.5 | 2717 | 272 | 
+| 2011-12-01 | 第38期名人戦予選 | Umezawa Yukari | Kuwamoto Shinpei | Lose | W+R | 6.5 | 2445 | 43 | 
+| 2011-11-07 | 第15期ドコモ杯女流棋聖戦準決勝 | Umezawa Yukari | Kato Keiko | Win | B+R | 6.5 | 2402 | 50 | 
+| 2011-10-20 | 第15期ドコモ杯女流棋聖戦2回戦 | Mukai Kaori | Umezawa Yukari | Win | W+1.5 | 6.5 | 2352 | 58 | 
+| 2011-10-06 | 第37期棋聖戦予選 | Sugiuchi Masao | Umezawa Yukari | Win | W+R | 6.5 | 2294 | 11 | 
+| 2011-09-22 | 第15期ドコモ杯女流棋聖戦1回戦 | Umezawa Yukari | Chinen Kaori | Win | B+0.5 | 6.5 | 2283 | 9 | 
+| 2011-07-07 | 第24期女流名人戦予選 | Inori Yoko | Umezawa Yukari | Lose | B+R | 6.5 | 2274 | -174 | 
+| 2011-06-09 | 第24期女流名人戦予選 | Makihata Taeko | Umezawa Yukari | Win | W+R | 6.5 | 2448 | -5 | 
+| 2011-05-26 | 第30期女流本因坊戦1回戦 | Umezawa Yukari | Suzuki Ayumi | Lose | W+R | 6.5 | 2453 | -59 | 
+| 2011-02-01 | 第14期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Xie Yimin | Umezawa Yukari | Lose | B+R | 6.5 | 2512 | 1 | 
+| 2011-01-27 | 第14期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Umezawa Yukari | Xie Yimin | Lose | W+9.5 | 6.5 | 2511 | 84 | 
+| 2011-01-20 | 第23期女流名人戦リーグ | Suzuki Ayumi | Umezawa Yukari | Lose | B+R | 6.5 | 2427 | -33 | 
+| 2010-12-23 | 第14期ドコモ杯女流棋聖戦挑戦者決定戦 | Yoshida Mika | Umezawa Yukari | Win | W+3.5 | 6.5 | 2460 | 85 | 
+| 2010-12-16 | 第23期女流名人戦リーグ | Umezawa Yukari | Mukai Chiaki | Lose | W+R | 6.5 | 2375 | -38 | 
+| 2010-12-09 | 第14期ドコモ杯女流棋聖戦準決勝 | Chinen Kaori | Umezawa Yukari | Win | W+R | 6.5 | 2413 | 121 | 
+| 2010-11-04 | 第23期女流名人戦リーグ | Umezawa Yukari | Okuda Aya | Lose | W+R | 6.5 | 2292 | -41 | 
+| 2010-09-27 | 第14期ドコモ杯女流棋聖戦2回戦 | Wang Jingyi | Umezawa Yukari | Win | W+R | 6.5 | 2333 | -8 | 
+| 2010-09-20 | 第14期ドコモ杯女流棋聖戦1回戦 | Umezawa Yukari | Osawa Narumi | Win | B+R | 6.5 | 2341 | 66 | 
+| 2010-09-09 | 第23期女流名人戦リーグ | Koyama Mitsuru | Umezawa Yukari | Lose | B+R | 6.5 | 2275 | -48 | 
+| 2010-09-02 | 第36期棋聖戦予選 | Umezawa Yukari | Takemiya Masaki | Win | B+1.5 | 6.5 | 2323 | 81 | 
+| 2010-08-26 | 第29期女流本因坊戦挑戦者決定戦 | Mukai Chiaki | Umezawa Yukari | Lose | B+R | 6.5 | 2242 | -20 | 
+| 2010-08-12 | 第23期女流名人戦リーグ | Mannami Nao | Umezawa Yukari | Win | W+R | 6.5 | 2262 | 10 | 
+| 2010-07-29 | 第23期女流名人戦リーグ | Umezawa Yukari | Yoshida Mika | Lose | W+7.5 | 6.5 | 2252 | -59 | 
+| 2010-07-22 | 第29期女流本因坊戦準決勝 | Umezawa Yukari | Kobayashi Izumi | Win | B+R | 6.5 | 2311 | -8 | 
+| 2010-07-01 | 第29期女流本因坊戦2回戦 | Umezawa Yukari | Mannami Nao | Win | B+R | 6.5 | 2319 | 231 | 
+| 2010-05-13 | 第29期女流本因坊戦1回戦 | Abe Yumiko | Umezawa Yukari | Win | W+R | 6.5 | 2088 | 61 | 
+| 2010-01-28 | 第13期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Umezawa Yukari | Xie Yimin | Lose | W+R | 6.5 | 2027 | -84 | 
+| 2010-01-21 | 第13期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Xie Yimin | Umezawa Yukari | Lose | B+R | 6.5 | 2111 | 16 | 
+| 2010-01-07 | 第22期女流名人戦リーグ | Umezawa Yukari | Mukai Chiaki | Lose | W+R | 6.5 | 2095 | -55 | 
+| 2009-12-22 | 第8回正官庄杯世界女子囲碁最強戦第7戦 | Cao Youyin | Umezawa Yukari | Lose | B+R | 6.5 | 2150 | -58 | 
+| 2009-12-03 | 第22期女流名人戦リーグ | Suzuki Ayumi | Umezawa Yukari | Lose | B+3.5 | 6.5 | 2208 | -235 | 
+| 2009-11-09 | 第22期女流名人戦リーグ | Umezawa Yukari | Kato Keiko | Win | B+1.5 | 6.5 | 2443 | 35 | 
+| 2009-10-19 | 第22期女流名人戦リーグ | Yoshida Mika | Umezawa Yukari | Win | W+R | 6.5 | 2408 | 77 | 
+| 2009-09-24 | 第36期天元戦予選 | O Meien | Umezawa Yukari | Lose | B+R | 6.5 | 2331 | -35 | 
+| 2009-09-08 | 第22期女流名人戦リーグ | Umezawa Yukari | Chinen Kaori | Lose | W+R | 6.5 | 2366 | -25 | 
+| 2009-08-13 | 第22期女流名人戦リーグ | Okuda Aya | Umezawa Yukari | Win | W+R | 6.5 | 2391 | 18 | 
+| 2009-05-07 | 第28期女流本因坊戦1回戦 | Umezawa Yukari | Suzuki Ayumi | Lose | W+R | 6.5 | 2373 | -43 | 
+| 2009-05-02 | 第3回大和証券杯ネット囲碁レディース1回戦 | Inori Yoko | Umezawa Yukari | Lose | B+R | 6.5 | 2416 | 52 | 
+| 2009-02-12 | 第12期ドコモ杯女流棋聖戦挑戦手合三番勝負第3局 | Kato Keiko | Umezawa Yukari | Win | W+R | 6.5 | 2364 | 58 | 
+| 2009-02-02 | 第12期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Kato Keiko | Umezawa Yukari | Lose | B+2.5 | 6.5 | 2306 | -105 | 
+| 2009-01-22 | 第12期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Umezawa Yukari | Kato Keiko | Win | B+2.5 | 6.5 | 2411 | 40 | 
+| 2009-01-16 | 第7回正官庄杯世界女子囲碁最強戦第10戦 | Li He | Umezawa Yukari | Lose | B+12.5 | 6.5 | 2371 | -100 | 
+| 2009-01-08 | 第21期女流名人戦リーグ | Umezawa Yukari | Suzuki Ayumi | Lose | W+1.5 | 6.5 | 2471 | 78 | 
+| 2008-12-18 | 第21期女流名人戦リーグ | Kobayashi Izumi | Umezawa Yukari | Win | W+R | 6.5 | 2393 | 361 | 
+| 2008-11-06 | 第21期女流名人戦リーグ | Umezawa Yukari | Chinen Kaori | Lose | W+4.5 | 6.5 | 2032 | -508 | 
+| 2008-10-07 | 第1回ワールドマインドスポーツゲームズ囲碁女子個人戦 | Umezawa Yukari | Rui Naiwei | Lose | W+R | 6.5 | 2540 | 10 | 
+| 2008-10-02 | 第21期女流名人戦リーグ | Umezawa Yukari | Kato Keiko | Lose | W+R | 6.5 | 2530 | -44 | 
+| 2008-09-04 | 第21期女流名人戦リーグ | Mukai Chiaki | Umezawa Yukari | Win | W+4.5 | 6.5 | 2574 | 343 | 
+| 2008-07-26 | 第2回大和証券杯ネット囲碁レディース2回戦 | Kobayashi Izumi | Umezawa Yukari | Lose | B+R | 6.5 | 2231 | -26 | 
+| 2008-07-17 | 第21期女流名人戦リーグ | Yoshida Mika | Umezawa Yukari | Win | W+R | 6.5 | 2257 | -127 | 
+| 2008-06-30 | 第10期東京精密杯女流プロ最強戦2回戦 | Umezawa Yukari | Kato Keiko | Lose | W+15.5 | 6.5 | 2384 | -102 | 
+| 2008-06-26 | 第27期女流本因坊戦2回戦 | Umezawa Yukari | Okuda Aya | Lose | W+R | 6.5 | 2486 | -117 | 
+| 2008-06-07 | 第2回大和証券杯ネット囲碁レディース1回戦 | Abe Yumiko | Umezawa Yukari | Win | W+R | 6.5 | 2603 | -3 | 
+| 2008-06-05 | 第21期女流名人戦予選 | Umezawa Yukari | Tamura Chiaki | Win | B+4.5 | 6.5 | 2606 | 82 | 
+| 2008-05-29 | 第21期女流名人戦予選 | Umezawa Yukari | Konishi Kazuko | Win | B+R | 6.5 | 2524 | -1 | 
+| 2008-05-19 | 第10期東京精密杯女流プロ最強戦1回戦 | Yoshida Mika | Umezawa Yukari | Win | W+4.5 | 6.5 | 2525 | -28 | 
+| 2008-05-08 | 第27期女流本因坊戦1回戦 | Kato Tomoko | Umezawa Yukari | Win | W+11.5 | 6.5 | 2553 | 426 | 
+| 2008-01-30 | 第11期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Umezawa Yukari | Mukai Chiaki | Win | B+11.5 | 6.5 | 2127 | 15 | 
+| 2008-01-24 | 第11期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Mukai Chiaki | Umezawa Yukari | Win | W+3.5 | 6.5 | 2112 | 25 | 
+| 2008-01-08 | 第6回正官庄杯世界女子囲碁最強戦第1戦 | Lee Sula | Umezawa Yukari | Lose | B+0.5 | 6.5 | 2087 | -219 | 
+| 2007-10-29 | 第1回遠洋地産杯世界女子プロオープン戦1回戦 | Xu Ying | Umezawa Yukari | Lose | B+R | 7.5 | 2306 | -389 | 
+| 2007-07-05 | 第33期碁聖戦予選 | Cho Sonjin | Umezawa Yukari | Win | W+R | 6.5 | 2695 | 68 | 
+| 2007-06-17 | 第1回大和証券杯ネット囲碁レディース2回戦 | Kobayashi Izumi | Umezawa Yukari | Lose | B+R | 6.5 | 2627 | -10 | 
+| 2007-05-31 | 第26期女流本因坊戦1回戦 | Umezawa Yukari | Koyama Mitsuru | Lose | W+R | 6.5 | 2637 | -60 | 
+| 2007-05-12 | 第1回大和証券杯ネット囲碁レディース1回戦 | Umezawa Yukari | Suzuki Ayumi | Win | B+R | 6.5 | 2697 | 13 | 
+| 2007-05-07 | 第9期東京精密杯女流プロ最強戦1回戦 | Chinen Kaori | Umezawa Yukari | Lose | B+2.5 | 6.5 | 2684 | -88 | 
+| 2007-05-03 | 第26期女流本因坊戦予選 | Umezawa Yukari | Mannami Nao | Win | B+R | 6.5 | 2772 | 404 | 
+| 2007-02-08 | 第20期女流名人戦予選 | Umezawa Yukari |  | Win | B+R | 6.5 | 2368 | 28 | 
+| 2007-02-05 | 第10期ドコモ杯女流棋聖戦挑戦手合三番勝負第3局 | Mannami Kana | Umezawa Yukari | Win | W+12.5 | 6.5 | 2340 | 54 | 
+| 2007-02-01 | 第10期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Umezawa Yukari | Mannami Kana | Lose | W+2.5 | 6.5 | 2286 | -94 | 
+| 2007-01-25 | 第10期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Mannami Kana | Umezawa Yukari | Win | W+0.5 | 6.5 | 2380 | 220 | 
+| 2006-12-28 | 第10期ドコモ杯女流棋聖戦挑戦者決定戦 | Umezawa Yukari | Yashiro Kumiko | Win | B+R | 6.5 | 2160 | -35 | 
+| 2006-11-13 | 第10期ドコモ杯女流棋聖戦準決勝 | Umezawa Yukari | Xie Yimin | Win | B+R | 6.5 | 2195 | 184 | 
+| 2006-10-19 | 第10期ドコモ杯女流棋聖戦2回戦 | Umezawa Yukari | Abe Yumiko | Win | B+R | 6.5 | 2011 | 99 | 
+| 2006-09-21 | 第10期ドコモ杯女流棋聖戦1回戦 | Umezawa Yukari | Mukai Chiaki | Win | B+R | 6.5 | 1912 | 1912 | 
+| 2006-08-31 | 第8期東京精密杯女流プロ最強戦3回戦 | Umezawa Yukari | Izawa Akino | Lose | W+R | 6.5 | missing | 0 | 
+| 2006-06-08 | 第8期東京精密杯女流プロ最強戦2回戦 | Umezawa Yukari | Kin En | Win | B+0.5 | 6.5 | missing | 0 | 
+| 2006-04-27 | 第25期女流本因坊戦1回戦 | Osawa Narumi | Umezawa Yukari | Lose | B+R | 6.5 | missing | 0 | 
+| 2006-01-19 | 第19期女流名人戦予選 | Kanno Naomi | Umezawa Yukari | Lose | B+6.5 | 6.5 | missing | 0 | 
+| 2005-10-20 | 第7期東京精密杯女流プロ最強戦3回戦 | Umezawa Yukari | Xie Yimin | Lose | W+R | 6.5 | missing | 0 | 
+| 2005-10-17 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Tamai Shin | Umezawa Yukari | Win | W+R | 6.5 | missing | -2366 | 
+| 2004-11-11 | 第3回正官庄杯世界女子囲碁最強戦第3戦 | Ye Gui | Umezawa Yukari | Lose | B+R | 6.5 | 2366 | -82 | 
+| 2004-11-10 | 第3回正官庄杯世界女子囲碁最強戦第2戦 | Lee Minjin | Umezawa Yukari | Win | W+R | 6.5 | 2448 | -104 | 
+| 2004-10-23 | 第2期JAL女流早碁準決勝 | Inori Yoko | Umezawa Yukari | Lose | B+0.5 | 6.5 | 2552 | -35 | 
+| 2004-09-18 | 第2期JAL女流早碁2回戦 | Ashida Isoko | Umezawa Yukari | Win | W+R | 6.5 | 2587 | 324 | 
+| 2004-07-14 | 第2期JAL女流早碁1回戦 | Umezawa Yukari | Mannami Kana | Win | B+R | 6.5 | 2263 | 195 | 
+| 2004-05-27 | 第29期新人王戦2回戦 | Umezawa Yukari | Sakai Hideyuki | Lose | W+R | 6.5 | 2068 | -53 | 
+| 2004-05-10 | 第6期東京精密杯女流プロ最強戦1回戦 | Sakakibara Fumiko | Umezawa Yukari | Lose | B+2.5 | 6.5 | 2121 | 9312 | 
+| 2003-12-26 | 第7期ドコモ杯女流棋聖戦挑戦者決定戦 | Mannami Kana | Umezawa Yukari | Lose | B+11.5 | 6.5 | -7191 | -8 | 
+| 2003-12-19 | 第7期ドコモ杯女流棋聖戦準決勝 | Kato Keiko | Umezawa Yukari | Win | W+R | 6.5 | -7183 | 61 | 
+| 2003-11-28 | 第7期ドコモ杯女流棋聖戦2回戦 | Kato Tomoko | Umezawa Yukari | Win | W+1.5 | 6.5 | -7244 | 11594 | 
+| 2003-10-24 | 第7期ドコモ杯女流棋聖戦1回戦 | Umezawa Yukari | Izawa Akino | Win | B+R | 6.5 | -18838 | -18838 | 
+| 2003-08-28 | 第16期女流名人戦敗者復活戦2回戦 | Umezawa Yukari | Aoki Kikuyo | Lose | W+R | 6.5 | missing | 0 | 
+| 2003-07-30 | 第16期女流名人戦敗者復活戦1回戦 | Umezawa Yukari | Kin En | Win | B+R | 6.5 | missing | 0 | 
+| 2003-06-04 | 第5期東京精密杯女流プロ最強戦1回戦 | Abe Yumiko | Umezawa Yukari | Lose | B+2.5 | 6.5 | missing | 0 | 
+| 2003-05-21 | 第16期女流名人戦1回戦 | Umezawa Yukari | Chinen Kaori | Lose | W+6.5 | 6.5 | missing | missing |
 
 
 

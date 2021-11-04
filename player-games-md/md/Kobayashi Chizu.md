@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-04 | 第1回テイケイ杯女流レジェンド戦1回戦 | Chinen Kaori | Kobayashi Chizu | Lose | B+R | 6.5 | missing | 0 | 
 | 2021-10-21 | 第33期女流名人戦予選 | Kobayashi Chizu | Nakamura Sumire | Lose | W+15.5 | 6.5 | missing | 0 | 
 | 2020-11-12 | 第77期本因坊戦予選 | Kobayashi Koichi | Kobayashi Chizu | Lose | B+4.5 | 6.5 | missing | 0 | 
 | 2019-10-17 | 第7期会津中央病院・女流立葵杯予選 | Sugiuchi Kazuko | Kobayashi Chizu | Win | W+R | 6.5 | missing | 0 | 

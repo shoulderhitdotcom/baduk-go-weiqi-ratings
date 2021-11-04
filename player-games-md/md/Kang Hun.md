@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-04 | 2021韓国シニア囲碁リーグ | Kang Hun |  | Win | B+R | 6.5 | 2376 | -30 | 
 | 2021-10-25 | 2021韓国シニア囲碁リーグ | Kang Hun | Kim Ilhwan | Lose | W+R | 6.5 | 2406 | -79 | 
 | 2021-10-19 | 2021韓国シニア囲碁リーグ | Kang Hun | Yoo Changhyuk | Lose | W+24.5 | 6.5 | 2485 | -91 | 
 | 2021-10-13 | 2021韓国シニア囲碁リーグ | Oh Kyuchul | Kang Hun | Lose | B+7.5 | 6.5 | 2576 | 57 | 

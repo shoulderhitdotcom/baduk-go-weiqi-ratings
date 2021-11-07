@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-07 | 第4回SGW杯中庸戦3回戦  | Tsuruyama Atsushi | Han Zenki | Lose | W+3.5 | 6.5 | 3118 | 4 | 
 | 2021-11-01 | 第77期本因坊戦リーグ | Tsuruyama Atsushi | Sada Atsushi | Win | B+3.5 | 6.5 | 3114 | 235 | 
 | 2021-10-08 | 第77期本因坊戦リーグ | Tsuruyama Atsushi | Ichiriki Ryo | Lose | W+R | 6.5 | 2879 | 56 | 
 | 2021-09-09 | 第77期本因坊戦予選 | Tsuruyama Atsushi | Anzai Nobuaki | Win | B+R | 6.5 | 2823 | -107 | 

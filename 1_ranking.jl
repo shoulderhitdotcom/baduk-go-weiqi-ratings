@@ -35,9 +35,6 @@ tbl = @chain joinpath(WSPATH, "kifu-depot-games-with-sgf.jdf/") begin
     select!(Not([:sgf, :comp, :result, :kifu_link, :win_by, :komi]))
 end
 
-
-
-
 ### the below two lines can be skipped under a target flow
 JDF.save("kifu-depot-games-for-ranking.jdf/", tbl)
 tbl = JDF.load("kifu-depot-games-for-ranking.jdf/") |> DataFrame

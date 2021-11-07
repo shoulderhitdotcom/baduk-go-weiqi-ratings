@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-07 | 第26回LG杯朝鮮日報棋王戦3回戦 | Park Junghwan | Ke Jie | Lose | W+R | 6.5 | 3739 | -1 | 
 | 2021-11-03 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Shin Jinseo | Park Junghwan | Win | W+R | 6.5 | 3740 | 9 | 
 | 2021-11-02 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Park Junghwan | Shin Jinseo | Win | B+R | 6.5 | 3731 | 5 | 
 | 2021-11-01 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第1局 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3726 | -7 | 

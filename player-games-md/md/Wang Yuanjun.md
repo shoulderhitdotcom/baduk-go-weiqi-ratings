@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-07 | 第9期中環碁聖戦決勝三番勝負第2局 | Wang Yuanjun | Chen Qirui | Lose | W+R | 6.5 | 3260 | 12 | 
 | 2021-10-31 | 第9期中環碁聖戦決勝三番勝負第1局 | Chen Qirui | Wang Yuanjun | Win | W+R | 6.5 | 3248 | 15 | 
 | 2021-10-29 | 第9期中環碁聖戦準決勝 | Wang Yuanjun | Xu Haohong | Win | B+R | 6.5 | 3233 | 0 | 
 | 2021-10-28 | 第14期棋王戦（台湾）リーグ | Lin Junyan | Wang Yuanjun | Lose | B+R | 6.5 | 3233 | -6 | 

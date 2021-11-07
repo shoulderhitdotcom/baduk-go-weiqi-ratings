@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-06 | 2021女子最高棋士決定戦（韓国）リーグ |  | Cho Seungah | Lose | B+R | 6.5 | 3110 | -21 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Cho Seungah | Yamashita Keigo | Lose | W+R | 6.5 | 3131 | -147 | 
 | 2021-10-18 | 第9回中国女子囲碁甲級リーグ | Cho Seungah |  | Win | B+R | 7.5 | 3278 | 5 | 
 | 2021-10-17 | 第9回中国女子囲碁甲級リーグ | Kim Hyeoimin | Cho Seungah | Win | W+¼ | 7.5 | 3273 | 79 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-08 | 第60期十段戦2回戦 | Onishi Ryuhei | Shibano Toramaru | Lose | W+R | 6.5 | 3155 | 10 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Onishi Ryuhei | Lee Changseok | Lose | W+R | 6.5 | 3145 | -61 | 
 | 2021-09-02 | 第60期十段戦予選 | Onishi Ryuhei | Yamada Kimio | Win | B+R | 6.5 | 3206 | 30 | 
 | 2021-08-16 | 第46期棋聖戦Aリーグ  | Onishi Ryuhei | Shibano Toramaru | Lose | W+R | 6.5 | 3176 | 14 | 

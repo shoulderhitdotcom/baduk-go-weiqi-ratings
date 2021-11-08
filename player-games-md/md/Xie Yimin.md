@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-08 | 第25期女流棋聖戦2回戦 | Xie Yimin | Mukai Chiaki | Lose | W+2.5 | 6.5 | 2835 | 4 | 
+| 2021-10-21 | 第47期名人戦予選  | Xie Yimin | Tsuneishi Takashi | Win | B+4.5 | 6.5 | 2831 | -36 | 
 | 2021-10-07 | 第47期名人戦予選  | Xie Yimin | Cho Chikun | Win | B+R | 6.5 | 2867 | 62 | 
 | 2021-09-10 | 第6回扇興杯女流最強戦準決勝  | Ueno Asami | Xie Yimin | Lose | B+R | 6.5 | 2805 | -18 | 
 | 2021-08-26 | 第46期棋聖戦Cリーグ | Mizokami Tomochika | Xie Yimin | Lose | B+R | 6.5 | 2823 | -37 | 

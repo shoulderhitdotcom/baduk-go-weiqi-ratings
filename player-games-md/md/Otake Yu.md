@@ -7,15 +7,16 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-08 | 第60期十段戦2回戦 | Cho U | Otake Yu | Win | W+3.5 | 6.5 | 3108 | 158 | 
+| 2021-09-23 | 第60期十段戦予選 | Otake Yu | Yuki Satoshi | Win | B+R | 6.5 | 2950 | 26 | 
+| 2021-08-19 | 第47期名人戦予選 | Yamada Kimio | Otake Yu | Win | W+R | 6.5 | 2924 | -20 | 
+| 2021-08-05 | 第46期棋聖戦Cリーグ | Otake Yu | Yuki Satoshi | Lose | W+0.5 | 6.5 | 2944 | 93 | 
+| 2021-07-08 | 第46期棋聖戦Cリーグ | O Meien | Otake Yu | Win | W+R | 6.5 | 2851 | 23 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20準々決勝 | Otake Yu | Tu Xiaoyu | Lose | W+1.5 | 6.5 | 2828 | -21 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第3戦 | Fukuoka Kotaro | Otake Yu | Win | W+R | 6.5 | 2849 | 0 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Otake Yu |  | Win | B+R | 6.5 | 2849 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Otake Yu | Moon Minjong | Lose | W+R | 6.5 | 2849 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  | Otake Yu | Moon Minjong | Lose | W+R | 6.5 | 2849 | -196 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第3戦 | Fukuoka Kotaro | Otake Yu | Win | W+R | 6.5 | 3045 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Otake Yu |  | Win | B+R | 6.5 | 3045 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Otake Yu | Moon Minjong | Lose | W+R | 6.5 | 3045 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  | Otake Yu | Moon Minjong | Lose | W+R | 6.5 | 3045 | 306 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  | Otake Yu | Moon Minjong | Lose | W+R | 6.5 | 2849 | 0 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Otake Yu | Moon Minjong | Lose | W+R | 6.5 | 2849 | 110 | 
 | 2021-05-31 | 第46期棋聖戦Cリーグ | Otake Yu |  | Win | B+0.5 | 6.5 | 2739 | -44 | 
 | 2021-03-08 | 第46期新人王戦1回戦 | Otake Yu | Ueno Asami | Lose | W+R | 6.5 | 2783 | -365 | 
 | 2020-11-26 | 第61期王冠戦挑戦手合一番勝負 | Ida Atsushi | Otake Yu | Lose | B+R | 6.5 | 3148 | -30 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-08 | 第26回LG杯朝鮮日報棋王戦3回戦  | Shin Jinseo | Ichiriki Ryo | Lose | B+R | 6.5 | 3486 | 3486 | 
+| 2021-11-05 | 第46期名人戦挑戦手合七番勝負第7局  | Iyama Yuta | Ichiriki Ryo | Lose | B+R | 6.5 | missing | -3484 | 
 | 2021-10-25 | 第46期棋聖戦挑戦者決定戦第1局  | Ichiriki Ryo | Shibano Toramaru | Win | B+R | 6.5 | 3484 | 30 | 
 | 2021-10-20 | 第46期名人戦挑戦手合七番勝負第6局  | Iyama Yuta | Ichiriki Ryo | Lose | B+R | 6.5 | 3454 | -39 | 
 | 2021-10-13 | 第46期名人戦挑戦手合七番勝負第5局  | Ichiriki Ryo | Iyama Yuta | Win | B+R | 6.5 | 3493 | 21 | 

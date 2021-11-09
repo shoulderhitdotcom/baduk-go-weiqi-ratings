@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-09 | 第26回LG杯朝鮮日報棋王戦準決勝 | Mi Yuting | Yang Dingxin | Win | W+R | 6.5 | 3673 | 4 | 
 | 2021-11-07 | 第26回LG杯朝鮮日報棋王戦3回戦 | Shin Minjun | Yang Dingxin | Win | W+R | 6.5 | 3669 | 6 | 
 | 2021-10-28 | 第26回三星火災杯世界囲碁マスターズ準決勝 | Shin Jinseo | Yang Dingxin | Lose | B+R | 6.5 | 3663 | -2 | 
 | 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Lee Changseok | Yang Dingxin | Win | W+R | 6.5 | 3665 | 6 | 

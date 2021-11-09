@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-09 | 第26回LG杯朝鮮日報棋王戦準決勝 | Mi Yuting | Yang Dingxin | Lose | W+R | 6.5 | 3650 | -12 | 
 | 2021-11-07 | 第26回LG杯朝鮮日報棋王戦3回戦 | Byun Sangil | Mi Yuting | Win | W+R | 6.5 | 3662 | 18 | 
 | 2021-10-22 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Mi Yuting | Park Junghwan | Lose | W+1.5 | 6.5 | 3644 | 1 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Byun Sangil | Mi Yuting | Win | W+1.5 | 6.5 | 3643 | -30 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-09 | 第3回大統領杯全国囲碁大会予選 | Lee Chungyu | Yun Junsang | Win | B+R | 6.5 | 3000 | 50 | 
 | 2021-09-07 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Chungyu | Han Seungjoo | Lose | W+R | 6.5 | 2950 | -117 | 
 | 2021-03-07 | 2020-2021フューチャーズリーグ | Lee Hyeonjun | Lee Chungyu | Lose | B+R | 6.5 | 3067 | -13 | 
 | 2021-02-27 | 2020-2021韓国囲碁リーグ | Lee Chungyu | Park Jinsol | Lose | W+2.5 | 6.5 | 3080 | -13 | 

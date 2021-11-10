@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Ke Jie vs Shin Jinseo** | **Ke Jie streak** | **Shin Jinseo streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-10 | 第26回LG杯朝鮮日報棋王戦準決勝 | Ke Jie | Shin Jinseo | W+3.5 | 6.5 | 11:6 | 0 | 1 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Ke Jie | Shin Jinseo | B+R | 7.5 | 11:5 | 1 | 0 | 
 | 2021-02-25 | 第22回農心辛ラーメン杯世界囲碁最強戦第13戦 | Shin Jinseo | Ke Jie | B+R | 6.5 | 10:5 | 0 | 2 | 
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Ke Jie | Shin Jinseo | W+R | 7.5 | 10:4 | 0 | 1 | 

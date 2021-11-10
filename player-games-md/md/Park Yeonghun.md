@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-10 | 第3回大統領杯全国囲碁大会予選 | Park Yeonghun | Seol Hyunjun | Lose | W+R | 6.5 | 3243 | -23 | 
 | 2021-09-07 | 第3期ソパルコサノル最高棋士決定戦予選 | Park Yeonghun |  | Lose | W+R | 6.5 | 3266 | 3266 | 
 | 2021-08-25 | 第26回三星火災杯韓国予選 | Park Yeonghun | An Sungjoon | Lose | W+0.5 | 6.5 | missing | -3286 | 
 | 2021-08-23 | 第26回三星火災杯韓国予選 | Ryu Minhyung | Park Yeonghun | Win | W+R | 6.5 | 3286 | 17 | 
@@ -83,7 +84,7 @@
 | 2019-08-04 | 第6回国手山脈韓国国内トーナメント準決勝 | Park Yeonghun | Kang Dongyun | Win | B+R | 6.5 | 3201 | 0 | 
 | 2019-08-04 | 第6回国手山脈韓国国内トーナメント8強戦 | Lee Changseok | Park Yeonghun | Win | W+T | 6.5 | 3201 | 30 | 
 | 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Song Gyusang | Park Yeonghun | Win | W+R | 6.5 | 3171 | 0 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 |  | Park Yeonghun | Win | W+R | 6.5 | 3171 | 10 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Kim Changhoon | Park Yeonghun | Win | W+R | 6.5 | 3171 | 10 | 
 | 2019-07-12 | 第21回農心杯韓国選抜戦 | Park Yeonghun | Ryu Suhang | Win | B+R | 6.5 | 3161 | 20 | 
 | 2019-07-02 | 第24回三星火災杯統合予選2回戦 | Park Yeonghun | Tu Xiaoyu | Win | B+R | 6.5 | 3141 | 28 | 
 | 2019-06-27 | 第12回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Park Yeonghun | Park Junghwan | Lose | W+R | 7.5 | 3113 | 7 | 

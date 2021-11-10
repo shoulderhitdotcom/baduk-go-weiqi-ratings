@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-10 | 第26回LG杯朝鮮日報棋王戦準決勝 | Ke Jie | Shin Jinseo | Lose | W+3.5 | 6.5 | 3673 | -16 | 
 | 2021-11-07 | 第26回LG杯朝鮮日報棋王戦3回戦 | Park Junghwan | Ke Jie | Win | W+R | 6.5 | 3689 | -21 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Ke Jie | Kim Jiseok | Lose | W+0.5 | 6.5 | 3710 | -38 | 
 | 2021-10-13 | 第12期中国竜星戦Bブロック10回戦 | Mi Yuting | Ke Jie | Lose | B+R | 7.5 | 3748 | -13 | 

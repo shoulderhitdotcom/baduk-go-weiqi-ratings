@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-10 | 第26回LG杯朝鮮日報棋王戦準決勝 | Ke Jie | Shin Jinseo | Win | W+3.5 | 6.5 | 3834 | 0 | 
 | 2021-11-08 | 第26回LG杯朝鮮日報棋王戦3回戦  | Shin Jinseo | Ichiriki Ryo | Win | B+R | 6.5 | 3834 | 4 | 
 | 2021-11-03 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | Shin Jinseo | Park Junghwan | Lose | W+R | 6.5 | 3830 | 5 | 
 | 2021-11-02 | 第26回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Park Junghwan | Shin Jinseo | Lose | B+R | 6.5 | 3825 | -1 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-10 | 第48期天元戦予選 | Kunisawa Hiroto | Yuki Satoshi | Win | W+R | 6.5 | 3124 | 68 | 
 | 2021-10-14 | 第48期天元戦予選 | Yuki Satoshi | Watanabe Yuu | Win | B+R | 6.5 | 3056 | 19 | 
 | 2021-10-06 | 第47期碁聖戦予選 | Yuki Satoshi |  | Win | B+R | 6.5 | 3037 | 10 | 
 | 2021-09-23 | 第60期十段戦予選 | Otake Yu | Yuki Satoshi | Lose | B+R | 6.5 | 3027 | 7 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-10 | 第66期関西棋院第一位決定戦1回戦 | Murakawa Daisuke | Kiyonari Tetsuya | Win | B+0.5 | 6.5 | 3206 | 28 | 
 | 2021-11-04 | 第60期十段戦2回戦 | So Yokoku | Murakawa Daisuke | Lose | B+1.5 | 6.5 | 3178 | 21 | 
 | 2021-10-27 | 第48期天元戦予選 | Fujiwara Katsuya | Murakawa Daisuke | Win | W+R | 6.5 | 3157 | -38 | 
 | 2021-10-21 | 第47期名人戦予選 | Fujita Akihiko | Murakawa Daisuke | Lose | B+R | 6.5 | 3195 | 6 | 

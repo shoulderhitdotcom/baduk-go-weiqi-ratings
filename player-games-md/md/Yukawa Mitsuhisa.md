@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-10 | 第70期王座戦予選 | Yukawa Mitsuhisa | Fujii Shuya | Lose | W+2.5 | 6.5 | 2806 | 22 | 
 | 2021-11-03 | 第48期天元戦予選 | Yukawa Mitsuhisa | Shintani Yousuke | Lose | W+0.5 | 6.5 | 2784 | -78 | 
 | 2021-10-20 | 第66期関西棋院第一位決定戦本戦1回戦 | Yukawa Mitsuhisa | Utsumi Koki | Win | B+R | 6.5 | 2862 | 222 | 
 | 2021-10-13 | 第48期天元戦予選 | Yukawa Mitsuhisa | Nishi Takenobu | Win | B+R | 6.5 | 2640 | 2640 | 

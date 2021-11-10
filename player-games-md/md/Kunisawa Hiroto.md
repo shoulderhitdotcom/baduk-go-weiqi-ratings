@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-10 | 第48期天元戦予選 | Kunisawa Hiroto | Yuki Satoshi | Lose | W+R | 6.5 | missing | -2723 | 
 | 2021-07-21 | 第47期名人戦予選 | Yuki Satoshi | Kunisawa Hiroto | Lose | B+1.5 | 6.5 | 2723 | -69 | 
 | 2020-11-25 | 第47期天元戦予選 | Yu Zhengqi | Kunisawa Hiroto | Lose | B+R | 6.5 | 2792 | 46 | 
 | 2020-11-04 | 第65期関西棋院第一位決定戦本戦1回戦 | Fujii Shuya | Kunisawa Hiroto | Lose | B+R | 6.5 | 2746 | -25 | 

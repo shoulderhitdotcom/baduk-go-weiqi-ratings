@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-14 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Park Junghwan | Lose | W+R | 6.5 | 3614 | 11 | 
 | 2021-11-08 | 第3回大統領杯全国囲碁大会予選 | Weon Seongjin | Yun Chanhee | Lose | W+R | 6.5 | 3603 | -3 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Weon Seongjin | Yang Dingxin | Lose | W+R | 6.5 | 3606 | -43 | 
 | 2021-10-12 | 第23回農心辛ラーメン杯世界囲碁最強戦第2戦 | Weon Seongjin | Li Weiqing | Lose | W+R | 6.5 | 3649 | -15 | 

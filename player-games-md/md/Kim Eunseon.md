@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-13 | 2021女子最高棋士決定戦（韓国）リーグ | Cho Seungah | Kim Eunseon | Lose | B+R | 6.5 | 2718 | -10 | 
+| 2021-11-09 | 第5期韓国製紙女子棋聖戦1回戦 | Oh Yujin | Kim Eunseon | Lose | B+R | 6.5 | 2728 | 17 | 
 | 2021-10-30 | 2021女子最高棋士決定戦（韓国）リーグ | Kim Eunseon | Oh Yujin | Lose | W+R | 6.5 | 2711 | -79 | 
 | 2021-09-24 | 第7回韓国女子囲碁リーグ優勝決定戦第2戦 | Kang Dajeong | Kim Eunseon | Win | W+R | 6.5 | 2790 | 16 | 
 | 2021-09-23 | 第7回韓国女子囲碁リーグ優勝決定戦第1戦 | Kim Eunseon | Kang Dajeong | Win | B+R | 6.5 | 2774 | 7 | 

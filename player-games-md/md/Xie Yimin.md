@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-13 | フマキラー囲碁女流ブレーンズマッチ決勝  | Xie Yimin | Nakamura Sumire | Win | B+R | 6.5 | 2853 | 2853 | 
+| 2021-11-11 | 第47期名人戦予選  | Ida Atsushi | Xie Yimin | Lose | B+2.5 | 6.5 | missing | -2835 | 
 | 2021-11-08 | 第25期女流棋聖戦2回戦 | Xie Yimin | Mukai Chiaki | Lose | W+2.5 | 6.5 | 2835 | 4 | 
 | 2021-10-21 | 第47期名人戦予選  | Xie Yimin | Tsuneishi Takashi | Win | B+4.5 | 6.5 | 2831 | -36 | 
 | 2021-10-07 | 第47期名人戦予選  | Xie Yimin | Cho Chikun | Win | B+R | 6.5 | 2867 | 62 | 

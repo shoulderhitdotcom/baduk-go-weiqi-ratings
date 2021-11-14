@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-13 | フマキラー囲碁女流ブレーンズマッチ決勝  | Xie Yimin | Nakamura Sumire | Lose | B+R | 6.5 | 2628 | 2628 | 
+| 2021-11-11 | 第25期女流棋聖戦2回戦 | Nakamura Sumire | Suzuki Ayumi | Lose | W+0.5 | 6.5 | missing | -2661 | 
 | 2021-10-28 | 第25期女流棋聖戦1回戦 | Nakamura Sumire | Wang Jingyi | Win | B+R | 6.5 | 2661 | 3 | 
 | 2021-10-21 | 第33期女流名人戦予選 | Kobayashi Chizu | Nakamura Sumire | Win | W+15.5 | 6.5 | 2658 | 2658 | 
 | 2021-10-04 | 第70期王座戦予選 | Kobayashi Koichi | Nakamura Sumire | Lose | B+5.5 | 6.5 | missing | -2691 | 

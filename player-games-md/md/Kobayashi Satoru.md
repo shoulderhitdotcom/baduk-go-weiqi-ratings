@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-15 | 第47期碁聖戦予選 | Nyu Eiko | Kobayashi Satoru | Lose | B+R | 6.5 | 2593 | -193 | 
 | 2021-09-14 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第3ラウンド | Kobayashi Satoru | Yoo Changhyuk | Win | B+R | 7.5 | 2786 | 117 | 
 | 2021-09-13 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第2ラウンド | Yu Bin | Kobayashi Satoru | Lose | B+R | 7.5 | 2669 | -98 | 
 | 2021-08-09 | 第47期名人戦予選 | Kobayashi Satoru | Mizokami Tomochika | Lose | W+R | 6.5 | 2767 | 5 | 

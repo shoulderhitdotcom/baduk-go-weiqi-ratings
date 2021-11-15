@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-15 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Kim Soojang | Win | W+R | 6.5 | 2622 | 92 | 
+| 2021-11-02 | 2021韓国シニア囲碁リーグ | Kim Chuljung | Kim Soojang | Win | W+R | 6.5 | 2530 | -31 | 
+| 2021-10-27 | 2021韓国シニア囲碁リーグ | Kim Soojang | Seo Nungwuk | Lose | W+5.5 | 6.5 | 2561 | 22 | 
+| 2021-10-21 | 2021韓国シニア囲碁リーグ | Kim Soojang | Kim Kihun | Win | B+7.5 | 6.5 | 2539 | -5 | 
 | 2021-10-13 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Kim Soojang | Win | W+R | 6.5 | 2544 | 16 | 
 | 2021-10-06 | 2021韓国シニア囲碁リーグ | Kim Soojang | Paek Seongho | Lose | W+4.5 | 6.5 | 2528 | 12 | 
 | 2021-09-27 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Soojang | Win | W+1.5 | 6.5 | 2516 | -64 | 

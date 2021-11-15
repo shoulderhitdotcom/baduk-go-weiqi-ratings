@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tuo Jiaxi | Tan Xiao | Win | W+R | 7.5 | 3499 | -11 | 
 | 2021-10-13 | 第7回国手山脈国際囲碁大会中国予選 | Tan Xiao | Fan Tingyu | Lose | W+R | 6.5 | 3510 | 6 | 
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Yi Lingtao | Tan Xiao | Win | W+R | 7.5 | 3504 | 9 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Tan Xiao | Jiang Weijie | Win | B+R | 7.5 | 3495 | 17 | 

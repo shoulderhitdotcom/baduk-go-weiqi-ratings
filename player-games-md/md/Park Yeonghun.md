@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-15 | 第7回国手山脈韓国国内トーナメント予選 | Park Kyuongkeun | Park Yeonghun | Lose | B+0.5 | 6.5 | 3249 | 6 | 
 | 2021-11-10 | 第3回大統領杯全国囲碁大会予選 | Park Yeonghun | Seol Hyunjun | Lose | W+R | 6.5 | 3243 | -23 | 
 | 2021-09-07 | 第3期ソパルコサノル最高棋士決定戦予選 | Park Yeonghun |  | Lose | W+R | 6.5 | 3266 | 3266 | 
 | 2021-08-25 | 第26回三星火災杯韓国予選 | Park Yeonghun | An Sungjoon | Lose | W+0.5 | 6.5 | missing | -3286 | 

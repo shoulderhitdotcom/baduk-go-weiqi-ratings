@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Dang Yifei | Li Weiqing | Lose | B+1¾ | 7.5 | 3574 | 3 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Li Weiqing | Park Junghwan | Lose | W+R | 6.5 | 3571 | -30 | 
 | 2021-10-13 | 第23回農心辛ラーメン杯世界囲碁最強戦第3戦  | Hsu Chiayuan | Li Weiqing | Lose | B+R | 6.5 | 3601 | -15 | 
 | 2021-10-12 | 第23回農心辛ラーメン杯世界囲碁最強戦第2戦 | Weon Seongjin | Li Weiqing | Win | W+R | 6.5 | 3616 | 26 | 

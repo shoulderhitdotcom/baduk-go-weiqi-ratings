@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Xu Jiayang | Gu Zihao | Win | W+R | 7.5 | 3658 | -9 | 
 | 2021-10-14 | 第12期中国竜星戦準決勝 | Chen Haoxin | Gu Zihao | Win | W+R | 7.5 | 3667 | 6 | 
 | 2021-10-13 | 第12期中国竜星戦Aブロック10回戦 | Gu Zihao | Yang Dingxin | Win | B+R | 7.5 | 3661 | 29 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Chen Xian | Gu Zihao | Win | W+R | 7.5 | 3632 | 4 | 

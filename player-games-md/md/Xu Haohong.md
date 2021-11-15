@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-15 | 第14期棋王戦（台湾）挑戦手合七番勝負第3局  | Lin Junyan | Xu Haohong | Win | W+R | 6.5 | 3323 | 3323 | 
+| 2021-11-11 | 第14期棋王戦（台湾）挑戦手合七番勝負第2局  | Xu Haohong | Lin Junyan | Win | B+R | 6.5 | missing | -3328 | 
 | 2021-11-08 | 第14期棋王戦（台湾）挑戦手合七番勝負第1局  | Lin Junyan | Xu Haohong | Lose | B+R | 6.5 | 3328 | 7 | 
 | 2021-10-29 | 第9期中環碁聖戦準決勝 | Wang Yuanjun | Xu Haohong | Lose | B+R | 6.5 | 3321 | -3 | 
 | 2021-10-19 | 第9期中環碁聖戦8強戦 | Xu Haohong | Chen Shiyuan | Win | B+R | 6.5 | 3324 | -44 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 | Zhang Zhehao | Huang Shiyuan | Win | W+6.5 | 6.5 | 2692 | 7 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 |  | Huang Shiyuan | Lose | B+R | 6.5 | 2685 | 0 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 |  | Huang Shiyuan | Win | W+5.5 | 6.5 | 2685 | -4 | 
 | 2021-10-03 | 第9期中環碁聖戦16強戦 | Wang Yuanjun | Huang Shiyuan | Lose | B+R | 6.5 | 2689 | -9 | 

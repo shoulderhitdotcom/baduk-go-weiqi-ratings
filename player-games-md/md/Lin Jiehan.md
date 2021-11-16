@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 |  | Lin Jiehan | Win | W+R | 6.5 | 2656 | 2656 | 
+| 2021-11-12 | 第2回UMC聯電杯早碁争覇戦予選 | Lin Jiehan |  | Win | B+0.5 | 6.5 | missing | -2701 | 
 | 2021-09-26 | 第9期中環碁聖戦 | Lin Jiehan | Wang Yuanjun | Lose | W+R | 6.5 | 2701 | 2701 | 
 | 2021-09-05 | 第9期中環碁聖戦 | Lin Jiehan |  | Win | B+R | 6.5 | missing | -2719 | 
 | 2021-09-02 | 第14期棋王戦（台湾）予選 | Lin Jiehan | Liu Jianchang | Lose | W+4.5 | 6.5 | 2719 | 0 | 

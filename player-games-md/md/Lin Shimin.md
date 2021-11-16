@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 | Lin Shimin | Gao Yun | Win | B+1.5 | 6.5 | 2587 | 2587 | 
+| 2021-11-12 | 第2回UMC聯電杯早碁争覇戦予選 | Lin Shimin | Ding Shaojie | Win | B+R | 6.5 | missing | -2599 | 
 | 2021-09-24 | 第9期中環碁聖戦 | Huang Shiyuan | Lin Shimin | Lose | B+R | 6.5 | 2599 | -18 | 
 | 2021-09-22 | 第9期中環碁聖戦 | Lin Shimin | Zhang Kaixin | Win | B+R | 6.5 | 2617 | -11 | 
 | 2021-09-16 | 第14期棋王戦（台湾）予選 | Lin Shimin |  | Lose | W+5.5 | 6.5 | 2628 | 13 | 

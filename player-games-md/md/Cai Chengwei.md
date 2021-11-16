@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 |  | Cai Chengwei | Win | W+R | 6.5 | 2810 | 24 | 
 | 2021-10-28 | 第14期棋王戦（台湾）リーグ | Chen Qirui | Cai Chengwei | Lose | B+R | 6.5 | 2786 | -8 | 
 | 2021-10-25 | 第14期棋王戦（台湾）リーグ | Cai Chengwei | Xiao Zhenghao | Lose | W+0.5 | 6.5 | 2794 | 1 | 
 | 2021-10-21 | 第14期棋王戦（台湾）リーグ | Lin Junyan | Cai Chengwei | Lose | B+R | 6.5 | 2793 | -151 | 

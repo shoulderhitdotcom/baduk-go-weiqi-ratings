@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 | Lin Shimin | Gao Yun | Lose | B+1.5 | 6.5 | 2463 | 2463 | 
+| 2021-11-12 | 第2回UMC聯電杯早碁争覇戦予選 | Gao Yun | Dai Jiashen | Win | B+R | 6.5 | missing | -2456 | 
 | 2021-09-26 | 第9期中環碁聖戦 | Chen Shiyuan | Gao Yun | Lose | B+R | 6.5 | 2456 | -21 | 
 | 2021-09-22 | 第9期中環碁聖戦 |  | Gao Yun | Win | W+R | 6.5 | 2477 | 84 | 
 | 2021-09-06 | 第14期棋王戦（台湾）予選 | Gao Yun | Huang Shiyuan | Lose | W+1.5 | 6.5 | 2393 | -34 | 

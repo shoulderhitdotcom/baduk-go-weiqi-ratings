@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 | Liu Yaowen |  | Win | B+R | 6.5 | 2698 | 2698 | 
+| 2021-11-12 | 第2回UMC聯電杯早碁争覇戦予選 | Liu Yaowen | Liu Jianchang | Win | B+R | 6.5 | missing | -2724 | 
+| 2021-10-07 | 第9期中環碁聖戦16強戦 | Liu Yaowen | Xu Haohong | Lose | W+R | 6.5 | 2724 | -8 | 
 | 2021-09-26 | 第9期中環碁聖戦 | Ding Shaojie | Liu Yaowen | Win | W+R | 6.5 | 2732 | 1 | 
 | 2021-09-19 | 第9期中環碁聖戦 | Liu Yaowen | Dai Jiashen | Win | B+2.5 | 6.5 | 2731 | 83 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Liu Yaowen | Xu Yuqi | Lose | W+R | 6.5 | 2648 | -10 | 

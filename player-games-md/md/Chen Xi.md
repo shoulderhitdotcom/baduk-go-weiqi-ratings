@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 |  | Chen Xi | Lose | B+0.5 | 6.5 | 2929 | 2 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Chen Xi | Lin Lixiang | Lose | W+R | 6.5 | 2927 | 40 | 
 | 2021-09-27 | 第14期棋王戦（台湾）予選 | Chen Xi | Cai Chengwei | Lose | W+R | 6.5 | 2887 | -18 | 
 | 2021-09-26 | 第9期中環碁聖戦 | Chen Xi | Chen Qirui | Lose | W+R | 6.5 | 2905 | -8 | 

@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 |  | Zhou Yinnan | Win | W+R | 6.5 | 2690 | 2690 | 
+| 2021-09-05 | 第9期中環碁聖戦 | Zhou Yinnan | Lin Xinwei | Lose | W+R | 6.5 | missing | -2784 | 
+| 2021-09-02 | 第14期棋王戦（台湾）予選 |  | Zhou Yinnan | Lose | B+R | 6.5 | 2784 | 7 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 | Xu Yuqi | Zhou Yinnan | Lose | B+R | 6.5 | 2777 | 8 | 
 | 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 | Xu Jingen | Zhou Yinnan | Lose | B+R | 6.5 | 2769 | 29 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 |  | Zhou Yinnan | Win | W+R | 6.5 | 2740 | 15 | 

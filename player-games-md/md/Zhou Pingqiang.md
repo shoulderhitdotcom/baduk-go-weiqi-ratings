@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 | Zhou Pingqiang | Lin Yuxiang | Lose | W+5.5 | 6.5 | 2476 | 2476 | 
+| 2021-11-12 | 第2回UMC聯電杯早碁争覇戦予選 |  | Zhou Pingqiang | Win | W+7.5 | 6.5 | missing | -2497 | 
 | 2021-09-22 | 第9期中環碁聖戦 | Zhou Pingqiang | Xiao Zhenghao | Lose | W+0.5 | 6.5 | 2497 | 75 | 
 | 2021-09-02 | 第14期棋王戦（台湾）予選 | Zhou Pingqiang |  | Lose | W+R | 6.5 | 2422 | 21 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 | Dai Jiashen | Zhou Pingqiang | Win | W+R | 6.5 | 2401 | 0 | 

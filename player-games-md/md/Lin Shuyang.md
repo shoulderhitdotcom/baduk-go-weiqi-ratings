@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 |  | Lin Shuyang | Lose | B+R | 6.5 | 2778 | 3 | 
+| 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Lin Shuyang | Jian Jingting | Lose | W+R | 6.5 | 2775 | 15 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Liu Yifang | Lin Shuyang | Win | W+9.5 | 6.5 | 2760 | 0 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 |  | Lin Shuyang | Win | W+R | 6.5 | 2760 | -2 | 
 | 2021-09-27 | 第14期棋王戦（台湾）予選 | Li Wei | Lin Shuyang | Lose | B+R | 6.5 | 2762 | -9 | 

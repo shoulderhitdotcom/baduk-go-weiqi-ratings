@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 | Zhou Pingqiang | Lin Yuxiang | Win | W+5.5 | 6.5 | 2545 | -57 | 
 | 2021-09-24 | 第9期中環碁聖戦 |  | Lin Yuxiang | Lose | B+R | 6.5 | 2602 | 25 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Lin Yuxiang | Lu Yiquan | Lose | W+R | 6.5 | 2577 | 14 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 | Xiao Zhenghao | Lin Yuxiang | Lose | B+R | 6.5 | 2563 | 2563 | 

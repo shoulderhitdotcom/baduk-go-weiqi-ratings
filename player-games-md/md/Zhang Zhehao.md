@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 | Zhang Zhehao | Huang Shiyuan | Lose | W+6.5 | 6.5 | 2672 | 2672 | 
+| 2021-11-12 | 第2回UMC聯電杯早碁争覇戦予選 | Su Shengfang | Zhang Zhehao | Win | W+R | 6.5 | missing | -2726 | 
 | 2021-09-16 | 第9期中環碁聖戦 | Lin Ziyuan | Zhang Zhehao | Lose | B+R | 6.5 | 2726 | -28 | 
 | 2021-09-06 | 第14期棋王戦（台湾）予選 |  | Zhang Zhehao | Lose | B+R | 6.5 | 2754 | -48 | 
 | 2021-09-02 | 第14期棋王戦（台湾）予選 | Lai Junfu | Zhang Zhehao | Lose | B+R | 6.5 | 2802 | 3 | 

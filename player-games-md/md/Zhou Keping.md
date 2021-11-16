@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 | Zhou Keping |  | Lose | W+R | 6.5 | 2310 | 2310 | 
+| 2021-11-12 | 第2回UMC聯電杯早碁争覇戦予選 | Zhou Keping |  | Win | B+R | 6.5 | missing | -2146 | 
+| 2021-09-09 | 第14期棋王戦（台湾）予選 | Lai Junfu | Zhou Keping | Lose | B+R | 6.5 | 2146 | -9 | 
 | 2021-09-06 | 第14期棋王戦（台湾）予選 | Zhou Keping | Liu Jianchang | Win | B+R | 6.5 | 2155 | 2155 | 
 | 2021-09-05 | 第9期中環碁聖戦 |  | Zhou Keping | Lose | B+T | 6.5 | missing | -2091 | 
 | 2021-09-02 | 第14期棋王戦（台湾）予選 | Zhou Keping |  | Lose | W+R | 6.5 | 2091 | -1 | 
@@ -39,7 +42,7 @@
 | 2019-09-08 | 第7期中環碁聖戦1回戦 | Zhou Keping |  | Lose | W+R | 6.5 | 2418 | -51 | 
 | 2019-09-05 | 第12期棋王戦（台湾）資格戦勝部決勝 | Zhou Keping | Chen Yida | Lose | W+T | 6.5 | 2469 | -82 | 
 | 2019-09-03 | 第15期国手戦（台湾）1回戦 | Zhou Keping | Lin Shengyi | Win | B+R | 6.5 | 2551 | 27 | 
-| 2019-09-02 | 第12期棋王戦（台湾）資格戦勝部1回戦 |  | Zhou Keping | Win | W+6.5 | 6.5 | 2524 | 10 | 
+| 2019-09-02 | 第12期棋王戦（台湾）資格戦勝部1回戦 | Bai Xinhui | Zhou Keping | Win | W+6.5 | 6.5 | 2524 | 10 | 
 | 2019-09-01 | 第7期中環碁聖戦1回戦 | Zhou Keping | Li Wei | Win | B+0.5 | 6.5 | 2514 | 24 | 
 | 2019-03-07 | 第11回海峰杯プロ囲碁戦32強戦 | Zhou Keping | Xiao Zhenghao | Lose | W+R | 6.5 | 2490 | -30 | 
 | 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 | Zhou Keping | Dang Xiyun | Win | B+0.5 | 6.5 | 2520 | 83 | 

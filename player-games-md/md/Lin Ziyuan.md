@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 |  | Lin Ziyuan | Win | W+R | 6.5 | 2604 | 2604 | 
+| 2021-11-12 | 第2回UMC聯電杯早碁争覇戦予選 | Lin Ziyuan |  | Win | B+R | 6.5 | missing | 0 | 
+| 2021-11-12 | 第2回UMC聯電杯早碁争覇戦予選 | Lin Ziyuan |  | Win | B+8.5 | 6.5 | missing | -2551 | 
 | 2021-10-01 | 第9期中環碁聖戦16強戦 | Lin Ziyuan | Chen Shiyuan | Lose | W+R | 6.5 | 2551 | -27 | 
 | 2021-09-26 | 第9期中環碁聖戦 | Lin Ziyuan |  | Win | B+8.5 | 6.5 | 2578 | 84 | 
 | 2021-09-16 | 第9期中環碁聖戦 | Lin Ziyuan | Zhang Zhehao | Win | B+R | 6.5 | 2494 | 306 | 

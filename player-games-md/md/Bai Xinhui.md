@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 | Bai Xinhui |  | Win | B+R | 6.5 | 2595 | 24 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Bai Xinhui |  | Lose | W+R | 6.5 | 2571 | 11 | 
 | 2021-09-23 | 第14期棋王戦（台湾）予選 | Bai Xinhui | Cai Chengwei | Lose | W+R | 6.5 | 2560 | -21 | 
 | 2021-09-16 | 第14期棋王戦（台湾）予選 | Bai Xinhui | Li Wei | Lose | W+R | 6.5 | 2581 | 5 | 

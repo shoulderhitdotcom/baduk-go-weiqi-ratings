@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 第7回国手山脈韓国国内トーナメント予選 | Kim Junghyun | Kim Sedong | Lose | B+R | 6.5 | 3393 | -132 | 
 | 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Sedong | Baek Hyeonwoo | Lose | W+R | 6.5 | 3525 | 102 | 
 | 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Sedong | Park Jinyoung | Win | B+R | 6.5 | 3423 | 32 | 
 | 2021-07-12 | 第23回農心杯韓国予選 | Kim Sedong | An Joyeong | Lose | W+R | 6.5 | 3391 | -10 | 

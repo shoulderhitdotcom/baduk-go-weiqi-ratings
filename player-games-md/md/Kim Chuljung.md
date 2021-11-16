@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Chuljung | Lose | B+13.5 | 6.5 | 2429 | -60 | 
+| 2021-11-02 | 2021韓国シニア囲碁リーグ | Kim Chuljung | Kim Soojang | Lose | W+R | 6.5 | 2489 | -38 | 
+| 2021-10-26 | 2021韓国シニア囲碁リーグ | Kim Chuljung | Yoo Changhyuk | Lose | W+R | 6.5 | 2527 | 72 | 
 | 2021-10-20 | 2021韓国シニア囲碁リーグ | Kim Chuljung | Kim Ilhwan | Win | B+7.5 | 6.5 | 2455 | 2455 | 
 | 2021-10-04 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Chuljung | Lose | B+9.5 | 6.5 | missing | -2563 | 
 | 2021-09-27 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Kim Chuljung | Lose | B+R | 6.5 | 2563 | 34 | 

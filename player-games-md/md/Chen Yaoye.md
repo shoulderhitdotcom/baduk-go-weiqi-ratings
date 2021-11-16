@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tang Weixing | Chen Yaoye | Lose | B+R | 7.5 | 3527 | 7 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Ding Hao | Chen Yaoye | Lose | B+1¾ | 7.5 | 3520 | -1 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Shen Peiran | Chen Yaoye | Win | W+R | 7.5 | 3521 | -3 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Meng Tailing | Chen Yaoye | Win | W+R | 7.5 | 3524 | 14 | 

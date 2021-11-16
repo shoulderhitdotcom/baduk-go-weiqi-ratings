@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 第7回国手山脈韓国国内トーナメント予選 | Kang Seungmin |  | Lose | W+R | 6.5 | 3355 | -18 | 
 | 2021-11-06 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Seungmin | Lee Donghoon | Lose | W+5.5 | 6.5 | 3373 | -6 | 
 | 2021-10-30 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Seungmin | Shin Minjun | Lose | W+R | 6.5 | 3379 | 3379 | 
 | 2021-09-05 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Seungmin | Shin Jinseo | Lose | W+R | 6.5 | missing | -3332 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Lian Xiao | Peng Liyao | Lose | W+¼ | 7.5 | 3570 | 13 | 
 | 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Lian Xiao | Park Junghwan | Lose | W+2.5 | 6.5 | 3557 | 0 | 
 | 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | An Sungjoon | Lian Xiao | Win | W+0.5 | 6.5 | 3557 | 15 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Kim Seongjae | Lian Xiao | Win | W+R | 6.5 | 3542 | -31 | 

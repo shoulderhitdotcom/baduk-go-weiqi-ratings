@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Xie Ke | Xie Erhao | Lose | W+1¼ | 7.5 | 3590 | 24 | 
 | 2021-10-22 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Xie Ke | Lee Donghoon | Lose | W+R | 6.5 | 3566 | -13 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Seol Hyunjun | Xie Ke | Win | W+R | 6.5 | 3579 | -20 | 
 | 2021-10-15 | 第7回国手山脈国際囲碁大会中国予選 | Xie Ke | Fan Tingyu | Lose | W+R | 6.5 | 3599 | -2 | 

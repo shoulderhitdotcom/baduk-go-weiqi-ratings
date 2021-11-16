@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Ding Hao | Liao Yuanhe | Lose | B+¾ | 7.5 | 3578 | -4 | 
 | 2021-10-14 | 第12期中国竜星戦準決勝 | Mi Yuting | Liao Yuanhe | Lose | B+R | 7.5 | 3582 | -1 | 
 | 2021-10-11 | 第12期中国竜星戦Aブロック8回戦 | Liao Yuanhe | Lian Xiao | Lose | W+R | 7.5 | 3583 | 7 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Xie Ke | Liao Yuanhe | Lose | B+R | 7.5 | 3576 | -3 | 

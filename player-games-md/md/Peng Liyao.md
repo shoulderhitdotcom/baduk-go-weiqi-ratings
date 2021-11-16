@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Lian Xiao | Peng Liyao | Win | W+¼ | 7.5 | 3468 | 42 | 
 | 2021-10-22 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Peng Liyao | Lee Changseok | Lose | W+0.5 | 6.5 | 3426 | -12 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Yun Chanhee | Peng Liyao | Win | W+R | 6.5 | 3438 | 9 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Peng Liyao | Mi Yuting | Lose | W+R | 7.5 | 3429 | -13 | 

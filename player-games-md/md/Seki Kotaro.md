@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 第47期天元戦挑戦手合五番勝負第2局  | Seki Kotaro | Ichiriki Ryo | Lose | W+R | 6.5 | 3088 | -4 | 
+| 2021-10-21 | 第47期碁聖戦予選 | Suzuki Shinji | Seki Kotaro | Lose | B+7.5 | 6.5 | 3092 | -59 | 
 | 2021-10-05 | 第47期天元戦挑戦手合五番勝負第1局  | Ichiriki Ryo | Seki Kotaro | Win | W+R | 6.5 | 3151 | 188 | 
 | 2021-09-09 | 第47期天元戦挑戦者決定戦 | Shibano Toramaru | Seki Kotaro | Win | W+R | 6.5 | 2963 | -29 | 
 | 2021-08-26 | 第46期棋聖戦Cリーグ | Seki Kotaro | Fujisawa Rina | Lose | W+R | 6.5 | 2992 | -92 | 

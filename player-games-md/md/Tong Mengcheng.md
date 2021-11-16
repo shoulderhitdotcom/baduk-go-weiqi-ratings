@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tong Mengcheng | Zhao Chenyu | Lose | W+1¼ | 7.5 | 3461 | 2 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Xia Chenkun | Win | B+R | 7.5 | 3459 | 6 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Tuo Jiaxi | Lose | W+R | 7.5 | 3453 | 10 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Shen Peiran | Tong Mengcheng | Win | W+R | 7.5 | 3443 | -15 | 

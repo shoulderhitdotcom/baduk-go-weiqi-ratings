@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 第3期ソパルコサノル最高棋士決定戦予選 | Moon Minjong | Lee Changseok | Lose | W+R | 6.5 | 3262 | 14 | 
 | 2021-11-01 | 2021中日韓聶衛平杯囲碁マスターズ3回戦 | Tu Xiaoyu | Moon Minjong | Lose | B+R | 7.5 | 3248 | -3 | 
 | 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Moon Minjong | Fukuoka Kotaro | Lose | W+R | 7.5 | 3251 | -31 | 
 | 2021-10-07 | 第3期ソパルコサノル最高棋士決定戦予選 | Oh Yujin | Moon Minjong | Win | W+R | 6.5 | 3282 | 24 | 

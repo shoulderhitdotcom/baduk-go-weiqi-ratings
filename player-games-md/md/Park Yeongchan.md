@@ -7,6 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Park Yeongchan | Lose | B+16.5 | 6.5 | 2474 | 8 | 
+| 2021-11-03 | 2021韓国シニア囲碁リーグ | Kim JongJoon | Park Yeongchan | Win | W+9.5 | 6.5 | 2466 | -37 | 
+| 2021-10-28 | 2021韓国シニア囲碁リーグ | Kim Kihun | Park Yeongchan | Lose | B+2.5 | 6.5 | 2503 | -175 | 
+| 2021-10-18 | 2021韓国シニア囲碁リーグ | Park Yeongchan | Seo Nungwuk | Lose | W+R | 6.5 | 2678 | 63 | 
+| 2021-10-12 | 2021韓国シニア囲碁リーグ | Park Yeongchan | An Kwanwuk | Lose | W+R | 6.5 | 2615 | 13 | 
 | 2021-10-07 | 2021韓国シニア囲碁リーグ | Kang Hun | Park Yeongchan | Win | W+R | 6.5 | 2602 | 70 | 
 | 2021-09-27 | 2021韓国シニア囲碁リーグ | Oh Kyuchul | Park Yeongchan | Win | W+T | 6.5 | 2532 | -31 | 
 | 2021-09-15 | 2021韓国シニア囲碁リーグ | Park Yeongchan | Chang Suyeong | Win | B+5.5 | 6.5 | 2563 | 57 | 

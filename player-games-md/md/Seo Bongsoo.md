@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-16 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Park Yeongchan | Win | B+16.5 | 6.5 | 2955 | 34 | 
+| 2021-11-02 | 2021韓国シニア囲碁リーグ | Seo Bongsoo |  | Win | B+11.5 | 6.5 | 2921 | -28 | 
+| 2021-10-26 | 2021韓国シニア囲碁リーグ | Kim JongJoon | Seo Bongsoo | Win | W+R | 6.5 | 2949 | -4 | 
 | 2021-10-20 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Seo Bongsoo | Win | W+0.5 | 6.5 | 2953 | -38 | 
 | 2021-10-14 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Kim Dongyeop | Win | B+6.5 | 6.5 | 2991 | 2991 | 
 | 2021-10-04 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Cho Daehyeon | Win | B+8.5 | 6.5 | missing | -2922 | 

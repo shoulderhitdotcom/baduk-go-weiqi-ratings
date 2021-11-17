@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Tao Xinran | Dang Yifei | Lose | W+R | 7.5 | 3523 | -7 | 
 | 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tao Xinran | Yang Kaiwen | Win | B+1¾ | 7.5 | 3530 | -3 | 
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Xie Erhao | Tao Xinran | Win | W+R | 7.5 | 3533 | 17 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Shin Jinseo | Tao Xinran | Lose | B+R | 7.5 | 3516 | -8 | 

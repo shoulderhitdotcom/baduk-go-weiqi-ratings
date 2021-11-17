@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-17 | 第66期関西棋院第一位決定戦1回戦 | Hong Seokui | Yata Naoki | Win | B+R | 6.5 | 3169 | 5 | 
 | 2021-10-14 | 第47期碁聖戦予選 | Hong Seokui | Seto Taiki | Win | B+R | 6.5 | 3164 | 223 | 
 | 2021-09-09 | 第46期棋聖戦Bリーグ | Hong Seokui | Rin Kanketsu | Win | B+R | 6.5 | 2941 | -118 | 
 | 2021-09-01 | 第47期名人戦予選 | Hong Seokui | Murakawa Daisuke | Lose | W+1.5 | 6.5 | 3059 | 3 | 

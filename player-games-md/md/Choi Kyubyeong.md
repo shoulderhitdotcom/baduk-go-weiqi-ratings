@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-17 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Park Seungmun | Lose | W+1.5 | 6.5 | 2757 | -10 | 
 | 2021-11-04 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Choi Kyubyeong | Win | W+0.5 | 6.5 | 2767 | -39 | 
 | 2021-10-25 | 2021韓国シニア囲碁リーグ | Jimmy Cha | Choi Kyubyeong | Win | W+R | 6.5 | 2806 | 33 | 
 | 2021-10-19 | 2021韓国シニア囲碁リーグ | Paek Seongho | Choi Kyubyeong | Win | W+9.5 | 6.5 | 2773 | -93 | 

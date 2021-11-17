@@ -5,91 +5,93 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第60期十段戦予選 | Yukawa Mitsuhisa | Kurahashi Masayuki | B+R | 2021-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HeQrT%2BiP29C6vivl6mvNcA%3D%3D) | 
-| 第69期王座戦予選 | Abe Yoshiki | Kurahashi Masayuki | B+2.5 | 2020-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K6F%2Bgdmu97%2B6n1Eoxdysnw%3D%3D) | 
-| 第69期王座戦予選 | Kurahashi Masayuki | missing | B+3.5 | 2020-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wLErTegX0ngvCn0hI8zi5w%3D%3D) | 
-| 第64期関西棋院第一位決定戦本戦1回戦 | Kurahashi Masayuki | Sato Yuta | W+R | 2020-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GJcPHd29h43bZ3PdTzKaUw%3D%3D) | 
-| 第59期十段戦予選A | Kurahashi Masayuki | Yuki Satoshi | W+R | 2020-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DPKkAenBDaISY9VCYQoduA%3D%3D) | 
-| 第45期棋聖戦ファーストトーナメント予選 | Nishi Takenobu | Kurahashi Masayuki | B+R | 2019-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3MnBgYK4uEoB1tQigparuQ%3D%3D) | 
-| 第46期天元戦予選B | Yukawa Mitsuhisa | Kurahashi Masayuki | B+3.5 | 2019-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PyJIDIE8cTdWcJj9mdc74w%3D%3D) | 
-| 第45期碁聖戦予選B | Kurahashi Masayuki | Kan Minu | W+1.5 | 2019-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3iXlqvSpg4AMGqySadcBkQ%3D%3D) | 
-| 第45期名人戦予選B | Kurahashi Masayuki | Kunisawa Hiroto | W+0.5 | 2019-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BPcWHntY0InchTc%2Bwsy4nA%3D%3D) | 
-| 第45期天元戦予選A準決勝 | Kurahashi Masayuki | Yuki Satoshi | W+5.5 | 2018-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sd94Gaxm9WQOajOOzjxClA%3D%3D) | 
-| 第44期碁聖戦予選A準決勝 | Yokota Shigeaki | Kurahashi Masayuki | B+1.5 | 2018-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kge48IZW9JJCvb53mgux2A%3D%3D) | 
-| 関西棋院日本棋院対抗戦 | missing | Kurahashi Masayuki | W+R | 2018-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jQ7MxtYvsBCL402k2ME0vw%3D%3D) | 
-| 第74期本因坊戦予選 | Kan Minu | Kurahashi Masayuki | B+R | 2018-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g7XfFVbeqzae8AoXfDngaQ%3D%3D) | 
-| 第43期碁聖戦本戦3回戦 | Kurahashi Masayuki | Seto Taiki | W+R | 2018-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZziC7A9ZQ5UJQlL9txMIkg%3D%3D) | 
-| 第43期碁聖戦本戦2回戦 | Kurahashi Masayuki | Ishida Atsushi | B+R | 2018-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hr3BmezvJIvii3RgLqaDLw%3D%3D) | 
-| 第43期碁聖戦本戦1回戦 | Kurahashi Masayuki | Hane Naoki | B+R | 2017-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WS8y%2FEbu9ZFJWzQm5EVvxA%3D%3D) | 
-| 第43期名人戦　予選A決勝 | Kurahashi Masayuki | Hong Maleunsaem | W+R | 2017-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H8wFugOcrARsyEyuT0Ni5Q%3D%3D) | 
-| 第43期碁聖戦　予選A決勝 | Yukawa Mitsuhisa | Kurahashi Masayuki | W+2.5 | 2017-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tHQG%2Fj5htrhl63G3H8J73A%3D%3D) | 
-| 2017年日本囲碁リーグ2nd開幕戦大阪-浪速三将戦 | Kurahashi Masayuki | Kubo Katsuaki | B+R | 2017-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iYYOydDIyhEYERSbTHTD7Q%3D%3D) | 
-| 第43期名人戦　予選A | Kurahashi Masayuki | Imai Kazuhiro | B+R | 2017-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SYBYATmvMOrYMNwgoQ8AKw%3D%3D) | 
-| 第56期十段戦　最終予選決勝 | Ichiriki Ryo | Kurahashi Masayuki | B+R | 2017-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V%2BFmgFJ2vl09Bb4plw%2FclQ%3D%3D) | 
-| 第56期十段戦　予選A決勝 | Kurahashi Masayuki | Sonoda Yuichi | B+R | 2017-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z83xHE6Sln632XRhYyiMaw%3D%3D) | 
-| 日本棋院vs関西棋院対抗戦 | Nyu Eiko | Kurahashi Masayuki | B+R | 2017-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eDggTK9G%2F%2BBsrFzYqeKwVg%3D%3D) | 
-| 2017年日本囲碁リーグ1st第3節浪速-古都三将戦 | Kurahashi Masayuki | Ishii Akane | B+R | 2017-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8jFUGjCpBeWo2eN6UoiPuA%3D%3D) | 
-| 第61期関西棋院第一位決定戦本戦2回戦 | Kurahashi Masayuki | Abe Yoshiki | W+5.5 | 2017-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=chmZwP4n9hyU1Q62Xb3zyg%3D%3D) | 
-| 第43期碁聖戦　予選B | Kurahashi Masayuki | Yahata Naoki | B+R | 2017-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I%2FZtjALTP9syXgHdo551Xw%3D%3D) | 
-| 2017年日本囲碁リーグ第1ステージ 開幕戦主将戦 | Yukawa Mitsuhisa | Kurahashi Masayuki | W+4.5 | 2017-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=548894AG2N2ycYFV8G89%2Fw%3D%3D) | 
-| 第73期本因坊戦予選B | Ha Youngil | Kurahashi Masayuki | B+R | 2017-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gKWgXXTbDgH8tV9p8Dx94A%3D%3D) | 
-| 第61期関西棋院第一位決定戦　本戦1回戦 | Kurahashi Masayuki | Nakano Yasuhiro | B+R | 2016-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EDpj%2FYJqMXKeTMgWecgBsg%3D%3D) | 
-| 第65期王座戦予選 | Hatanaka Hoshinobu | Kurahashi Masayuki | B+0.5 | 2016-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Thd4P6y86bu9TDc50cVnQg%3D%3D) | 
-| 第55期十段戦予選 | Kurahashi Masayuki | Ko Iso | W+0.5 | 2016-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OsqtarbxoD%2BH04ESgtOqOQ%3D%3D) | 
-| 第42期名人戦予選 | Kurahashi Masayuki | Utsumi Koki | W+5.5 | 2016-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D0qkQH39vVoGFzHMIbIRhw%3D%3D) | 
-| 第55期十段戦予選 | Hashimoto Kan | Kurahashi Masayuki | W+R | 2016-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ywLc4%2FG20YkhTbA%2FobcU6w%3D%3D) | 
-| 第55期十段戦予選 | Kiwada Kazuomi | Kurahashi Masayuki | W+R | 2016-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Czn%2Flg42JwTbkHTV%2B%2BXFtw%3D%3D) | 
-| 第72期本因坊戦予選 | Kurahashi Masayuki | Sekiyama Toshimichi | B+R | 2016-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=poBrLC4rh81Dv5jgI8nA4g%3D%3D) | 
-| 第60期関西棋院第一位決定戦本戦1回戦 | Kurahashi Masayuki | Ishii Akane | B+R | 2016-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8CFxQ7HRzbdCEnTTH4dbwQ%3D%3D) | 
-| 第41期名人戦予選 | Kurahashi Masayuki | Cho Sonjin | B+R | 2015-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8XDaf9bDT9A%2FMO9kZ4Ew1A%3D%3D) | 
-| 第54期十段戦予選 | Kurahashi Masayuki | Cho Chikun | W+R | 2015-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FkBqWfkcbSEzKRz96SwvBA%3D%3D) | 
-| 第64期王座戦予選 | Kurahashi Masayuki | Furuya Yutaka | W+4.5 | 2015-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X8zBAQJ9hZHXrNXpGpga0Q%3D%3D) | 
-| 第41期名人戦予選 | Kurahashi Masayuki | Aragaki Shun | B+R | 2015-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kGoW9rfNgvVf0zXnU2kYrw%3D%3D) | 
-| 第41期名人戦予選 | Kurahashi Masayuki | Yata Naoki | B+R | 2015-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H%2FKvP5Jrrllb7pH6vpVuXA%3D%3D) | 
-| 第59期関西棋院第一位決定戦本戦3回戦 | Kurahashi Masayuki | Nakano Yasuhiro | W+R | 2015-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FQpVeffdeuvXtvH0HZ3eMA%3D%3D) | 
-| 第71期本因坊戦予選 | Sakai Hideyuki | Kurahashi Masayuki | W+0.5 | 2015-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vh26j1DqQkC7YNWC%2BG17jA%3D%3D) | 
-| 第71期本因坊戦予選 | Kurahashi Masayuki | Nakano Yasuhiro | B+3.5 | 2015-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HGSeObRQDsN3D0VND%2FQV%2FA%3D%3D) | 
-| 第59期関西棋院第一位決定戦本戦2回戦 | Kurahashi Masayuki | Sada Atsushi | B+R | 2015-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DMQrSfRWTiE0EZO1byiZXw%3D%3D) | 
-| 第59期関西棋院第一位決定戦本戦1回戦 | Furuya Yutaka | Kurahashi Masayuki | W+2.5 | 2014-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VdslekOyraSf68X01JMhnA%3D%3D) | 
-| 第40期名人戦予選 | Fujii Shuya | Kurahashi Masayuki | W+R | 2014-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BSLRbN1NFnE%2F3p2%2Fe2G70w%3D%3D) | 
-| 第40期天元戦予選 | Sakai Hideyuki | Kurahashi Masayuki | B+2.5 | 2013-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aPE0BvO0NyhUs9qmFQVJzA%3D%3D) | 
-| 第39期碁聖戦予選 | Yu Zhengqi | Kurahashi Masayuki | B+R | 2013-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=12pu869ObbJB0bpgTsSr0g%3D%3D) | 
-| 第39期天元戦本戦2回戦 | Kurahashi Masayuki | Yuki Satoshi | W+16.5 | 2013-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nhJbzrBHVRH7cTK7%2FLsrDg%3D%3D) | 
-| 第39期名人戦予選 | Kurahashi Masayuki | Furuya Yutaka | B+R | 2013-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IbjbwDPikga20gCW9jP0fA%3D%3D) | 
-| 第57期関西棋院第一位決定戦本戦2回戦 | Inoue Naoki | Kurahashi Masayuki | B+R | 2013-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aRKLTRH76PfHueNDvRIoGw%3D%3D) | 
-| 第61期王座戦予選 | Kurahashi Masayuki | Ishida Yoshio | W+6.5 | 2013-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xyX43F2MYwqFAcorTpJATA%3D%3D) | 
-| 第39期天元戦本戦1回戦 | Kurahashi Masayuki | Shimojima Yohei | B+R | 2013-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I3sBk9Hkwd27Ez6zCwc8rQ%3D%3D) | 
-| 第38期棋聖戦予選 | Kurahashi Masayuki | Hikosaka Naoto | W+1.5 | 2012-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c%2ByeUYrsGxJUC3cCwmJbcQ%3D%3D) | 
-| 第38期碁聖戦予選 | Kurahashi Masayuki | Aragaki Shun | W+9.5 | 2012-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F3Ge9r6K5qOxvv2%2FpRTaxg%3D%3D) | 
-| 第51期十段戦予選 | Kurahashi Masayuki | Ishikura Noboru | B+8.5 | 2012-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HnYwyeq8%2B5R%2BPSFKWvFljw%3D%3D) | 
-| 第37期碁聖戦本戦3回戦 | Seto Taiki | Kurahashi Masayuki | B+R | 2012-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PcqSU%2FwPz1HmPTXjKt2anQ%3D%3D) | 
-| 第37期碁聖戦本戦2回戦 | Kurahashi Masayuki | Yuki Satoshi | B+R | 2012-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KzuHj72PzN8HdZMLb9pq0Q%3D%3D) | 
-| 第56期関西棋院第一位決定戦本戦1回戦 | Furuya Yutaka | Kurahashi Masayuki | B+5.5 | 2012-02-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G1rrPKk2dTB56PWQI2vcrA%3D%3D) | 
-| 第38期天元戦本戦1回戦 | Kurahashi Masayuki | Yamada Kimio | W+R | 2011-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HULieycp6gDafHE1pZsNxA%3D%3D) | 
-| 第37期碁聖戦本戦1回戦 | Kurahashi Masayuki | Ryu Shikun | B+0.5 | 2011-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2RBUYMBRFduikTUz1LzDZw%3D%3D) | 
-| 第37期碁聖戦予選 | Murakawa Daisuke | Kurahashi Masayuki | W+R | 2011-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CdmfQsKANaTWQemiQoExUw%3D%3D) | 
-| 第50期十段戦2回戦 | Kono Rin | Kurahashi Masayuki | B+R | 2011-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P%2FeDy42SYXlu66oe680M1A%3D%3D) | 
-| 第55期関西棋院第一位決定戦本戦2回戦 | Imamura Toshiya | Kurahashi Masayuki | B+R | 2011-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hlRNqua25jnfMfXVJYGMgw%3D%3D) | 
-| 第50期十段戦予選 | Kurahashi Masayuki | Chin Kaei | B+R | 2011-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FBEDmxRlqVu%2BKSZ5Mb6mdQ%3D%3D) | 
-| 第36期碁聖戦本戦1回戦 | Kurahashi Masayuki | Nakamura Hidehito | W+9.5 | 2010-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=abUZEViKRmhAX1bNGl1c%2Fg%3D%3D) | 
-| 第36期碁聖戦予選 | Kiyonari Tetsuya | Kurahashi Masayuki | W+R | 2010-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hNVzaLIZA89WDY6Tq6OcAw%3D%3D) | 
-| 第49期十段戦敗者復活戦1回戦 | Takao Shinji | Kurahashi Masayuki | B+R | 2010-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eKsyUvb1JqFlFLsjdUAAnA%3D%3D) | 
-| 第49期十段戦本戦1回戦 | Ko Iso | Kurahashi Masayuki | B+R | 2010-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OTXu1n8gXEOGHZmpq17THg%3D%3D) | 
-| 第35期碁聖戦本戦1回戦 | Kurahashi Masayuki | Takemiya Masaki | W+R | 2009-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tt6Sj%2FTm15u%2BzqzIQWNYEQ%3D%3D) | 
-| 第35期天元戦本戦2回戦 | Kobayashi Satoru | Kurahashi Masayuki | B+2.5 | 2009-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wOxosjJqWNXPJU0R8WnukQ%3D%3D) | 
-| 第48期十段戦予選 | Kurahashi Masayuki | O Meien | W+R | 2009-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uZ%2B8AuJzv1P1FELoxdVEiA%3D%3D) | 
-| 第35期天元戦本戦1回戦 | Kurahashi Masayuki | Ko Iso | B+R | 2009-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KjA18Sd7Wt2InUQxgBbXgA%3D%3D) | 
-| 第34期碁聖戦本戦1回戦 | Kurahashi Masayuki | Yamashita Keigo | W+R | 2008-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FIqvHqGje98U7mt7%2BmQTMQ%3D%3D) | 
-| 第33期碁聖戦本戦1回戦 | Yamada Takuji | Kurahashi Masayuki | B+0.5 | 2007-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QsJTQ3wiFMj2f1xZIYG%2BQg%3D%3D) | 
-| 第62期本因坊戦予選 | Yamashita Keigo | Kurahashi Masayuki | B+R | 2006-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=paX8fiNsH11AGh1Qgrcpuw%3D%3D) | 
-| 第32期天元戦本戦1回戦 | Ko Iso | Kurahashi Masayuki | B+R | 2006-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zm4HkM7hMnXrKbg6NuDIew%3D%3D) | 
-| 第30期天元戦本戦1回戦 | Kurahashi Masayuki | Takao Shinji | W+7.5 | 2004-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B30ifxk0cHrTLDfxuVnnEA%3D%3D) | 
-| 第29期碁聖戦本戦1回戦 | Kono Rin | Kurahashi Masayuki | B+3.5 | 2003-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JVxsCWdyykFJ9SQWDJeIcw%3D%3D) | 
-| 第29期名人戦予選 | Ishida Yoshio | Kurahashi Masayuki | W+R | 2003-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BGbUy2Tj54iBIEYvS0kwqw%3D%3D) | 
-| 第10期阿含・桐山杯全日本早碁オープン戦1回戦 | Kurahashi Masayuki | Hane Naoki | W+1.5 | 2003-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SythJ%2B1TbufAU7ODEf2mDw%3D%3D) | 
-| 第29期天元戦本戦1回戦 | Kurahashi Masayuki | Komatsu Hideki | W+3.5 | 2003-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gparlI6OOm0X39UmRMyH9w%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-17 | 第66期関西棋院第一位決定戦1回戦 | Kurahashi Masayuki | Seto Taiki | Lose | W+R | 6.5 | missing | -2655 | 
+| 2021-07-14 | 第47期碁聖戦予選 | Kurahashi Masayuki | Kan Minu | Win | B+R | 6.5 | 2655 | -16 | 
+| 2021-05-12 | 第60期十段戦予選 | Yukawa Mitsuhisa | Kurahashi Masayuki | Lose | B+R | 6.5 | 2671 | -41 | 
+| 2020-11-25 | 第69期王座戦予選 | Abe Yoshiki | Kurahashi Masayuki | Lose | B+2.5 | 6.5 | 2712 | -90 | 
+| 2020-09-30 | 第69期王座戦予選 | Kurahashi Masayuki |  | Win | B+3.5 | 6.5 | 2802 | 2802 | 
+| 2020-02-12 | 第64期関西棋院第一位決定戦本戦1回戦 | Kurahashi Masayuki | Sato Yuta | Lose | W+R | 6.5 | missing | 0 | 
+| 2020-01-15 | 第59期十段戦予選A | Kurahashi Masayuki | Yuki Satoshi | Lose | W+R | 6.5 | missing | 0 | 
+| 2019-12-04 | 第45期棋聖戦ファーストトーナメント予選 | Nishi Takenobu | Kurahashi Masayuki | Lose | B+R | 6.5 | missing | 0 | 
+| 2019-06-26 | 第46期天元戦予選B | Yukawa Mitsuhisa | Kurahashi Masayuki | Lose | B+3.5 | 6.5 | missing | -2147 | 
+| 2019-04-24 | 第45期碁聖戦予選B | Kurahashi Masayuki | Kan Minu | Lose | W+1.5 | 6.5 | 2147 | 158 | 
+| 2019-03-06 | 第45期名人戦予選B | Kurahashi Masayuki | Kunisawa Hiroto | Lose | W+0.5 | 6.5 | 1989 | -623 | 
+| 2018-10-17 | 第45期天元戦予選A準決勝 | Kurahashi Masayuki | Yuki Satoshi | Lose | W+5.5 | 6.5 | 2612 | -68 | 
+| 2018-09-12 | 第44期碁聖戦予選A準決勝 | Yokota Shigeaki | Kurahashi Masayuki | Lose | B+1.5 | 6.5 | 2680 | -193 | 
+| 2018-05-06 | 関西棋院日本棋院対抗戦 |  | Kurahashi Masayuki | Win | W+R | 6.5 | 2873 | 66 | 
+| 2018-04-18 | 第74期本因坊戦予選 | Kan Minu | Kurahashi Masayuki | Lose | B+R | 6.5 | 2807 | -94 | 
+| 2018-02-21 | 第43期碁聖戦本戦3回戦 | Kurahashi Masayuki | Seto Taiki | Lose | W+R | 6.5 | 2901 | 61 | 
+| 2018-01-25 | 第43期碁聖戦本戦2回戦 | Kurahashi Masayuki | Ishida Atsushi | Win | B+R | 6.5 | 2840 | 68 | 
+| 2017-12-21 | 第43期碁聖戦本戦1回戦 | Kurahashi Masayuki | Hane Naoki | Win | B+R | 6.5 | 2772 | 112 | 
+| 2017-08-30 | 第43期名人戦　予選A決勝 | Kurahashi Masayuki | Hong Maleunsaem | Lose | W+R | 6.5 | 2660 | 64 | 
+| 2017-08-02 | 第43期碁聖戦　予選A決勝 | Yukawa Mitsuhisa | Kurahashi Masayuki | Win | W+2.5 | 6.5 | 2596 | -13 | 
+| 2017-07-24 | 2017年日本囲碁リーグ2nd開幕戦大阪-浪速三将戦 | Kurahashi Masayuki | Kubo Katsuaki | Win | B+R | 6.5 | 2609 | 52 | 
+| 2017-07-12 | 第43期名人戦　予選A | Kurahashi Masayuki | Imai Kazuhiro | Win | B+R | 6.5 | 2557 | -4 | 
+| 2017-07-06 | 第56期十段戦　最終予選決勝 | Ichiriki Ryo | Kurahashi Masayuki | Lose | B+R | 6.5 | 2561 | 39 | 
+| 2017-05-17 | 第56期十段戦　予選A決勝 | Kurahashi Masayuki | Sonoda Yuichi | Win | B+R | 6.5 | 2522 | 122 | 
+| 2017-05-01 | 日本棋院vs関西棋院対抗戦 | Nyu Eiko | Kurahashi Masayuki | Lose | B+R | 6.5 | 2400 | -46 | 
+| 2017-04-24 | 2017年日本囲碁リーグ1st第3節浪速-古都三将戦 | Kurahashi Masayuki | Ishii Akane | Win | B+R | 6.5 | 2446 | -132 | 
+| 2017-03-29 | 第61期関西棋院第一位決定戦本戦2回戦 | Kurahashi Masayuki | Abe Yoshiki | Lose | W+5.5 | 6.5 | 2578 | 77 | 
+| 2017-03-22 | 第43期碁聖戦　予選B | Kurahashi Masayuki | Yahata Naoki | Win | B+R | 6.5 | 2501 | -2 | 
+| 2017-02-27 | 2017年日本囲碁リーグ第1ステージ 開幕戦主将戦 | Yukawa Mitsuhisa | Kurahashi Masayuki | Win | W+4.5 | 6.5 | 2503 | 320 | 
+| 2017-02-01 | 第73期本因坊戦予選B | Ha Youngil | Kurahashi Masayuki | Lose | B+R | 6.5 | 2183 | -234 | 
+| 2016-11-02 | 第61期関西棋院第一位決定戦　本戦1回戦 | Kurahashi Masayuki | Nakano Yasuhiro | Win | B+R | 6.5 | 2417 | 305 | 
+| 2016-08-10 | 第65期王座戦予選 | Hatanaka Hoshinobu | Kurahashi Masayuki | Lose | B+0.5 | 6.5 | 2112 | 41 | 
+| 2016-07-14 | 第55期十段戦予選 | Kurahashi Masayuki | Ko Iso | Lose | W+0.5 | 6.5 | 2071 | -366 | 
+| 2016-06-01 | 第42期名人戦予選 | Kurahashi Masayuki | Utsumi Koki | Lose | W+5.5 | 6.5 | 2437 | 7 | 
+| 2016-04-27 | 第55期十段戦予選 | Hashimoto Kan | Kurahashi Masayuki | Win | W+R | 6.5 | 2430 | -85 | 
+| 2016-03-30 | 第55期十段戦予選 | Kiwada Kazuomi | Kurahashi Masayuki | Win | W+R | 6.5 | 2515 | -99 | 
+| 2016-02-17 | 第72期本因坊戦予選 | Kurahashi Masayuki | Sekiyama Toshimichi | Win | B+R | 6.5 | 2614 | -55 | 
+| 2016-01-27 | 第60期関西棋院第一位決定戦本戦1回戦 | Kurahashi Masayuki | Ishii Akane | Win | B+R | 6.5 | 2669 | -159 | 
+| 2015-09-24 | 第41期名人戦予選 | Kurahashi Masayuki | Cho Sonjin | Win | B+R | 6.5 | 2828 | 77 | 
+| 2015-09-17 | 第54期十段戦予選 | Kurahashi Masayuki | Cho Chikun | Lose | W+R | 6.5 | 2751 | -113 | 
+| 2015-08-19 | 第64期王座戦予選 | Kurahashi Masayuki | Furuya Yutaka | Lose | W+4.5 | 6.5 | 2864 | -191 | 
+| 2015-07-22 | 第41期名人戦予選 | Kurahashi Masayuki | Aragaki Shun | Win | B+R | 6.5 | 3055 | -53 | 
+| 2015-06-24 | 第41期名人戦予選 | Kurahashi Masayuki | Yata Naoki | Win | B+R | 6.5 | 3108 | 16 | 
+| 2015-05-21 | 第59期関西棋院第一位決定戦本戦3回戦 | Kurahashi Masayuki | Nakano Yasuhiro | Lose | W+R | 6.5 | 3092 | 3092 | 
+| 2015-04-22 | 第71期本因坊戦予選 | Sakai Hideyuki | Kurahashi Masayuki | Win | W+0.5 | 6.5 | missing | 0 | 
+| 2015-04-01 | 第71期本因坊戦予選 | Kurahashi Masayuki | Nakano Yasuhiro | Win | B+3.5 | 6.5 | missing | 0 | 
+| 2015-03-11 | 第59期関西棋院第一位決定戦本戦2回戦 | Kurahashi Masayuki | Sada Atsushi | Win | B+R | 6.5 | missing | 0 | 
+| 2014-12-03 | 第59期関西棋院第一位決定戦本戦1回戦 | Furuya Yutaka | Kurahashi Masayuki | Win | W+2.5 | 6.5 | missing | 0 | 
+| 2014-07-23 | 第40期名人戦予選 | Fujii Shuya | Kurahashi Masayuki | Win | W+R | 6.5 | missing | -2588 | 
+| 2013-12-26 | 第40期天元戦予選 | Sakai Hideyuki | Kurahashi Masayuki | Lose | B+2.5 | 6.5 | 2588 | 4 | 
+| 2013-10-02 | 第39期碁聖戦予選 | Yu Zhengqi | Kurahashi Masayuki | Lose | B+R | 6.5 | 2584 | 574 | 
+| 2013-06-13 | 第39期天元戦本戦2回戦 | Kurahashi Masayuki | Yuki Satoshi | Lose | W+16.5 | 6.5 | 2010 | 4 | 
+| 2013-06-05 | 第39期名人戦予選 | Kurahashi Masayuki | Furuya Yutaka | Win | B+R | 6.5 | 2006 | 2006 | 
+| 2013-04-17 | 第57期関西棋院第一位決定戦本戦2回戦 | Inoue Naoki | Kurahashi Masayuki | Lose | B+R | 6.5 | missing | -2561 | 
+| 2013-03-07 | 第61期王座戦予選 | Kurahashi Masayuki | Ishida Yoshio | Lose | W+6.5 | 6.5 | 2561 | -75 | 
+| 2013-02-28 | 第39期天元戦本戦1回戦 | Kurahashi Masayuki | Shimojima Yohei | Win | B+R | 6.5 | 2636 | 228 | 
+| 2012-12-20 | 第38期棋聖戦予選 | Kurahashi Masayuki | Hikosaka Naoto | Lose | W+1.5 | 6.5 | 2408 | -573 | 
+| 2012-09-12 | 第38期碁聖戦予選 | Kurahashi Masayuki | Aragaki Shun | Lose | W+9.5 | 6.5 | 2981 | -78 | 
+| 2012-06-14 | 第51期十段戦予選 | Kurahashi Masayuki | Ishikura Noboru | Win | B+8.5 | 6.5 | 3059 | -106 | 
+| 2012-04-05 | 第37期碁聖戦本戦3回戦 | Seto Taiki | Kurahashi Masayuki | Lose | B+R | 6.5 | 3165 | -37 | 
+| 2012-03-19 | 第37期碁聖戦本戦2回戦 | Kurahashi Masayuki | Yuki Satoshi | Win | B+R | 6.5 | 3202 | -8 | 
+| 2012-02-29 | 第56期関西棋院第一位決定戦本戦1回戦 | Furuya Yutaka | Kurahashi Masayuki | Lose | B+5.5 | 6.5 | 3210 | -22 | 
+| 2011-12-22 | 第38期天元戦本戦1回戦 | Kurahashi Masayuki | Yamada Kimio | Lose | W+R | 6.5 | 3232 | 274 | 
+| 2011-12-01 | 第37期碁聖戦本戦1回戦 | Kurahashi Masayuki | Ryu Shikun | Win | B+0.5 | 6.5 | 2958 | 154 | 
+| 2011-10-26 | 第37期碁聖戦予選 | Murakawa Daisuke | Kurahashi Masayuki | Win | W+R | 6.5 | 2804 | 386 | 
+| 2011-09-08 | 第50期十段戦2回戦 | Kono Rin | Kurahashi Masayuki | Lose | B+R | 6.5 | 2418 | -272 | 
+| 2011-05-18 | 第55期関西棋院第一位決定戦本戦2回戦 | Imamura Toshiya | Kurahashi Masayuki | Lose | B+R | 6.5 | 2690 | 33 | 
+| 2011-05-12 | 第50期十段戦予選 | Kurahashi Masayuki | Chin Kaei | Win | B+R | 6.5 | 2657 | 54 | 
+| 2010-11-11 | 第36期碁聖戦本戦1回戦 | Kurahashi Masayuki | Nakamura Hidehito | Lose | W+9.5 | 6.5 | 2603 | 144 | 
+| 2010-07-22 | 第36期碁聖戦予選 | Kiyonari Tetsuya | Kurahashi Masayuki | Win | W+R | 6.5 | 2459 | 2459 | 
+| 2010-07-08 | 第49期十段戦敗者復活戦1回戦 | Takao Shinji | Kurahashi Masayuki | Lose | B+R | 6.5 | missing | 0 | 
+| 2010-05-27 | 第49期十段戦本戦1回戦 | Ko Iso | Kurahashi Masayuki | Lose | B+R | 6.5 | missing | -2703 | 
+| 2009-10-15 | 第35期碁聖戦本戦1回戦 | Kurahashi Masayuki | Takemiya Masaki | Lose | W+R | 6.5 | 2703 | 14 | 
+| 2009-04-23 | 第35期天元戦本戦2回戦 | Kobayashi Satoru | Kurahashi Masayuki | Lose | B+2.5 | 6.5 | 2689 | -99 | 
+| 2009-03-26 | 第48期十段戦予選 | Kurahashi Masayuki | O Meien | Lose | W+R | 6.5 | 2788 | -182 | 
+| 2009-01-22 | 第35期天元戦本戦1回戦 | Kurahashi Masayuki | Ko Iso | Win | B+R | 6.5 | 2970 | 2970 | 
+| 2008-10-30 | 第34期碁聖戦本戦1回戦 | Kurahashi Masayuki | Yamashita Keigo | Lose | W+R | 6.5 | missing | 0 | 
+| 2007-11-29 | 第33期碁聖戦本戦1回戦 | Yamada Takuji | Kurahashi Masayuki | Lose | B+0.5 | 6.5 | missing | 0 | 
+| 2006-05-29 | 第62期本因坊戦予選 | Yamashita Keigo | Kurahashi Masayuki | Lose | B+R | 6.5 | missing | 0 | 
+| 2006-01-19 | 第32期天元戦本戦1回戦 | Ko Iso | Kurahashi Masayuki | Lose | B+R | 6.5 | missing | 0 | 
+| 2004-01-22 | 第30期天元戦本戦1回戦 | Kurahashi Masayuki | Takao Shinji | Lose | W+7.5 | 6.5 | missing | 0 | 
+| 2003-11-20 | 第29期碁聖戦本戦1回戦 | Kono Rin | Kurahashi Masayuki | Lose | B+3.5 | 6.5 | missing | 0 | 
+| 2003-09-11 | 第29期名人戦予選 | Ishida Yoshio | Kurahashi Masayuki | Win | W+R | 6.5 | missing | 0 | 
+| 2003-07-09 | 第10期阿含・桐山杯全日本早碁オープン戦1回戦 | Kurahashi Masayuki | Hane Naoki | Lose | W+1.5 | 6.5 | missing | 0 | 
+| 2003-01-16 | 第29期天元戦本戦1回戦 | Kurahashi Masayuki | Komatsu Hideki | Lose | W+3.5 | 6.5 | missing | missing |
 
 
 

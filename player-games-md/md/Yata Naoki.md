@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-17 | 第66期関西棋院第一位決定戦1回戦 | Hong Seokui | Yata Naoki | Lose | B+R | 6.5 | 2638 | 2638 | 
+| 2021-08-23 | 第66期関西棋院第一位決定戦予選 | Yata Naoki | Sonoda Yuichi | Win | B+3.5 | 6.5 | missing | 0 | 
 | 2021-07-28 | 第47期名人戦予選 | Yata Naoki | Iida Junya | Lose | W+R | 6.5 | missing | 0 | 
 | 2021-01-27 | 第77期本因坊戦予選 | Yata Naoki | Murakawa Daisuke | Lose | W+R | 6.5 | missing | 0 | 
 | 2020-08-05 | 第46期名人戦予選 | Yata Naoki | Yuki Satoshi | Lose | W+R | 6.5 | missing | -2404 | 

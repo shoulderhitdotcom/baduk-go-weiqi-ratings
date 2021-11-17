@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-17 | 第3期ソパルコサノル最高棋士決定戦予選 | An Joyeong | Kim Jiseok | Win | W+R | 6.5 | 3585 | 7 | 
 | 2021-11-10 | 第3回大統領杯全国囲碁大会予選 | Kim Jiseok |  | Win | B+R | 6.5 | 3578 | 1 | 
 | 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Yang Dingxin | Kim Jiseok | Lose | B+R | 6.5 | 3577 | -2 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Ke Jie | Kim Jiseok | Win | W+0.5 | 6.5 | 3579 | -111 | 

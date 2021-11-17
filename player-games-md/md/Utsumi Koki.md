@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-17 | 第47期新人王戦予選 |  | Utsumi Koki | Lose | B+R | 6.5 | 2825 | 7 | 
 | 2021-10-20 | 第66期関西棋院第一位決定戦本戦1回戦 | Yukawa Mitsuhisa | Utsumi Koki | Lose | B+R | 6.5 | 2818 | 43 | 
 | 2021-06-10 | 第60期十段戦予選 | Sada Atsushi | Utsumi Koki | Lose | B+R | 6.5 | 2775 | -19 | 
 | 2021-05-20 | 第65期関西棋院第一位決定戦本戦準決勝 | Utsumi Koki | Sada Atsushi | Lose | W+R | 6.5 | 2794 | -155 | 

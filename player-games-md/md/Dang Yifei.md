@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Tao Xinran | Dang Yifei | Win | W+R | 7.5 | 3608 | 2 | 
 | 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Dang Yifei | Li Weiqing | Win | B+1¾ | 7.5 | 3606 | 18 | 
 | 2021-10-22 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Han Seungjoo | Dang Yifei | Lose | B+R | 6.5 | 3588 | -9 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Shin Minjun | Dang Yifei | Win | W+R | 6.5 | 3597 | -7 | 

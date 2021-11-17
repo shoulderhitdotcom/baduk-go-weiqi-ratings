@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-17 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Cho Daehyeon | Lose | B+R | 6.5 | 2327 | 77 | 
+| 2021-11-01 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Jimmy Cha | Win | B+12.5 | 6.5 | 2250 | -56 | 
+| 2021-10-28 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Kim Chongsu | Lose | W+R | 6.5 | 2306 | 41 | 
+| 2021-10-21 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Oh Kyuchul | Lose | W+R | 6.5 | 2265 | -60 | 
 | 2021-10-11 | 2021韓国シニア囲碁リーグ | Paek Seongho | Cho Daehyeon | Lose | B+8.5 | 6.5 | 2325 | 2325 | 
 | 2021-10-04 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Cho Daehyeon | Lose | B+8.5 | 6.5 | missing | -2432 | 
 | 2021-09-14 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Cho Daehyeon | Win | W+7.5 | 6.5 | 2432 | 31 | 

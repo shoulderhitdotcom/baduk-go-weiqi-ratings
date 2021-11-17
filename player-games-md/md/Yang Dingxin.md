@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Yang Dingxin | Fan Tingyu | Lose | W+R | 7.5 | 3672 | -9 | 
 | 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Yi Lingtao | Yang Dingxin | Win | W+R | 7.5 | 3681 | 8 | 
 | 2021-11-09 | 第26回LG杯朝鮮日報棋王戦準決勝 | Mi Yuting | Yang Dingxin | Win | W+R | 6.5 | 3673 | 4 | 
 | 2021-11-07 | 第26回LG杯朝鮮日報棋王戦3回戦 | Shin Minjun | Yang Dingxin | Win | W+R | 6.5 | 3669 | 6 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Tang Weixing | Mi Yuting | Lose | B+R | 7.5 | 3662 | -15 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yunsong | Mi Yuting | Win | W+R | 7.5 | 3677 | 27 | 
 | 2021-11-09 | 第26回LG杯朝鮮日報棋王戦準決勝 | Mi Yuting | Yang Dingxin | Lose | W+R | 6.5 | 3650 | -12 | 
 | 2021-11-07 | 第26回LG杯朝鮮日報棋王戦3回戦 | Byun Sangil | Mi Yuting | Win | W+R | 6.5 | 3662 | 18 | 

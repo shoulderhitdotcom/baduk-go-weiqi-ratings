@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-17 | 第47期新人王戦予選 | Hara Masakazu | Iida Junya | Win | B+R | 6.5 | 2962 | 60 | 
+| 2021-11-03 | 第66期関西棋院第一位決定戦1回戦 | Kiyonari Mao | Hara Masakazu | Win | W+R | 6.5 | 2902 | 0 | 
 | 2021-11-03 | 第66期関西棋院第一位決定戦本戦1回戦 | Kiyonari Mao | Hara Masakazu | Win | W+R | 6.5 | 2902 | 236 | 
 | 2021-07-21 | 第70期王座戦予選 | Yu Zhengqi | Hara Masakazu | Lose | B+R | 6.5 | 2666 | -93 | 
 | 2021-05-19 | 第47期碁聖戦予選 | Yu Zhengqi | Hara Masakazu | Lose | B+7.5 | 6.5 | 2759 | -18 | 

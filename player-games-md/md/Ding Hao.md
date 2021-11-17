@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Ding Hao | Peng Liyao | Lose | W+R | 7.5 | 3692 | -18 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Ding Hao | Liao Yuanhe | Win | B+¾ | 7.5 | 3710 | -102 | 
 | 2021-10-18 | 第17回倡棋杯中国プロ囲碁選手権戦決勝三番勝負第2局 | Yang Dingxin | Ding Hao | Win | W+¼ | 7.5 | 3812 | 15 | 
 | 2021-10-16 | 第17回倡棋杯中国プロ囲碁選手権戦決勝三番勝負第1局 | Ding Hao | Yang Dingxin | Win | B+R | 7.5 | 3797 | 96 | 

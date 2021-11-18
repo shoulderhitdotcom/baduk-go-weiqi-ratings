@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Zhang Tao | Ke Jie | Lose | W+R | 7.5 | 3488 | -18 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Zhang Tao | Zhao Chenyu | Win | B+R | 7.5 | 3506 | 6 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Zhang Tao | Shi Yue | Win | B+R | 7.5 | 3500 | 15 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhang Tao | Lee Donghoon | Lose | W+R | 7.5 | 3485 | -13 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 | Shen Zaiyi | Park Jinsol | Win | B+1.5 | 6.5 | 3416 | 7 | 
 | 2021-11-15 | 第7回国手山脈韓国国内トーナメント予選 | Cho Seungah | Shen Zaiyi | Win | W+R | 6.5 | 3409 | -49 | 
 | 2021-04-02 | 第26回GSカルテックス杯プロ棋戦1回戦 | Kim Jinhyu | Shen Zaiyi | Lose | B+R | 6.5 | 3458 | -119 | 
 | 2021-02-27 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Shen Zaiyi | Lose | B+R | 6.5 | 3577 | -54 | 

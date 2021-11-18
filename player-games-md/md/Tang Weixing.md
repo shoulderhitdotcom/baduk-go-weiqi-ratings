@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Peng Liyao | Tang Weixing | Lose | B+R | 7.5 | 3511 | -22 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Tang Weixing | Mi Yuting | Win | B+R | 7.5 | 3533 | 9 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tang Weixing | Chen Yaoye | Win | B+R | 7.5 | 3524 | -3 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Ke Jie | Tang Weixing | Lose | B+R | 7.5 | 3527 | 2 | 

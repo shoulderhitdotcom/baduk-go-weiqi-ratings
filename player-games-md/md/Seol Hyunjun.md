@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 | Seol Hyunjun | Lee Changho | Win | B+R | 6.5 | 3403 | -1 | 
 | 2021-11-10 | 第3回大統領杯全国囲碁大会予選 | Park Yeonghun | Seol Hyunjun | Win | W+R | 6.5 | 3404 | 0 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Seol Hyunjun | Xie Ke | Lose | W+R | 6.5 | 3404 | 3404 | 
 | 2021-10-04 | 第3期ソパルコサノル最高棋士決定戦予選 |  | Seol Hyunjun | Lose | B+R | 6.5 | missing | 0 | 

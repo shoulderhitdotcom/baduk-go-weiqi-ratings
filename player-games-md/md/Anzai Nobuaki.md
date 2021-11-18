@@ -7,6 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-18 | 第47期碁聖戦予選 | Anzai Nobuaki | Kono Rin | Lose | W+R | 6.5 | 3207 | -33 | 
+| 2021-10-14 | 第60期十段戦1回戦 | Anzai Nobuaki | Adachi Toshimasa | Lose | W+R | 6.5 | 3240 | 53 | 
+| 2021-09-23 | 第47期碁聖戦予選 | Cho Sonjin | Anzai Nobuaki | Win | W+R | 6.5 | 3187 | -76 | 
+| 2021-09-09 | 第77期本因坊戦予選 | Tsuruyama Atsushi | Anzai Nobuaki | Lose | B+R | 6.5 | 3263 | 44 | 
+| 2021-08-19 | 第60期十段戦予選 | Anzai Nobuaki | O Rissei | Win | B+R | 6.5 | 3219 | 22 | 
 | 2021-08-06 | 第46期名人戦リーグ | Anzai Nobuaki | Shibano Toramaru | Win | B+R | 6.5 | 3197 | 137 | 
 | 2021-07-05 | 第46期名人戦リーグ | Anzai Nobuaki | Yu Zhengqi | Win | B+5.5 | 6.5 | 3060 | 1 | 
 | 2021-05-06 | 第46期名人戦リーグ | Motoki Katsuya | Anzai Nobuaki | Lose | B+0.5 | 6.5 | 3059 | -42 | 

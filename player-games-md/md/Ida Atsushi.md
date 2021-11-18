@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-18 | 第60期十段戦2回戦 | Sada Atsushi | Ida Atsushi | Lose | B+R | 6.5 | 3322 | 3322 | 
+| 2021-11-11 | 第47期名人戦予選  | Ida Atsushi | Xie Yimin | Win | B+2.5 | 6.5 | missing | -3289 | 
+| 2021-10-21 | 第47期名人戦予選 | Ida Atsushi | Koike Yoshihiro | Win | B+R | 6.5 | 3289 | -6 | 
+| 2021-09-30 | 第47期名人戦予選 | Ida Atsushi | Yoda Norimoto | Win | B+1.5 | 6.5 | 3295 | 14 | 
 | 2021-09-16 | 第47期名人戦予選 | Seto Taiki | Ida Atsushi | Win | W+R | 6.5 | 3281 | 34 | 
 | 2021-09-09 | 第60期十段戦予選 | Mizokami Tomochika | Ida Atsushi | Win | W+R | 6.5 | 3247 | -39 | 
 | 2021-09-02 | 第46期棋聖戦Cリーグ | Ida Atsushi | Terayama Rei | Win | B+R | 6.5 | 3286 | 51 | 

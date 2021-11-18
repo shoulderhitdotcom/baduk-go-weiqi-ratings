@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-18 | 第47期碁聖戦予選 | Koyama Kuya | Hsu Chiayuan | Lose | W+1.5 | 6.5 | 3149 | -4 | 
 | 2021-11-01 | 第61期十段戦予選 | Koyama Kuya | Cho Chikun | Win | B+R | 6.5 | 3153 | 111 | 
 | 2021-08-05 | 第47期名人戦予選  | Yoda Norimoto | Koyama Kuya | Lose | B+R | 6.5 | 3042 | -13 | 
 | 2021-07-29 | 第77期本因坊戦予選 | Koyama Kuya | Hikosaka Naoto | Win | B+2.5 | 6.5 | 3055 | -64 | 

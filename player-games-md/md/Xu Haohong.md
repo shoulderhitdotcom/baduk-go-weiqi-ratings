@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-18 | 第14期棋王戦（台湾）挑戦手合七番勝負第4局  | Xu Haohong | Lin Junyan | Lose | W+R | 6.5 | 3334 | 11 | 
 | 2021-11-15 | 第14期棋王戦（台湾）挑戦手合七番勝負第3局  | Lin Junyan | Xu Haohong | Win | W+R | 6.5 | 3323 | 3323 | 
 | 2021-11-11 | 第14期棋王戦（台湾）挑戦手合七番勝負第2局  | Xu Haohong | Lin Junyan | Win | B+R | 6.5 | missing | -3328 | 
 | 2021-11-08 | 第14期棋王戦（台湾）挑戦手合七番勝負第1局  | Lin Junyan | Xu Haohong | Lose | B+R | 6.5 | 3328 | 7 | 

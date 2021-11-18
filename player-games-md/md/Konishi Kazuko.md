@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-18 | 第41期女流本因坊戦予選 |  | Konishi Kazuko | Win | W+R | 6.5 | missing | -2244 | 
 | 2021-07-07 | 第47期碁聖戦予選 | Konishi Kazuko | Yoshida Mika | Lose | W+R | 6.5 | 2244 | -57 | 
 | 2021-05-24 | 第40期女流本因坊戦2回戦 | Konishi Kazuko | Hoshiai Shiho | Lose | W+R | 6.5 | 2301 | -44 | 
 | 2021-04-28 | 第8期会津中央病院・女流立葵杯1回戦 | Nakamura Sumire | Konishi Kazuko | Lose | B+R | 6.5 | 2345 | -57 | 

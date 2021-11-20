@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦  | Yang Zixuan | Zhou Yinnan | Win | B+R | 6.5 | 2729 | -2 | 
+| 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Yang Zixuan | Chen Shiyuan | Lose | W+R | 6.5 | 2731 | 8 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 |  | Yang Zixuan | Win | W+R | 6.5 | 2723 | 17 | 
 | 2021-09-28 | 2021環旭新人王戦1回戦 | Lin Shixun | Yang Zixuan | Lose | B+R | 7.5 | 2706 | -15 | 
 | 2021-09-23 | 第14期棋王戦（台湾）予選 | Yang Zixuan | Chen Feng | Lose | W+R | 6.5 | 2721 | -8 | 

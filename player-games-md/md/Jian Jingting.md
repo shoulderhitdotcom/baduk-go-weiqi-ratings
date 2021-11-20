@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Bai Xinhui | Jian Jingting | Win | W+R | 6.5 | 3125 | 36 | 
 | 2021-10-28 | 第14期棋王戦（台湾）リーグ | Lai Junfu | Jian Jingting | Win | W+R | 6.5 | 3089 | -5 | 
 | 2021-10-25 | 第14期棋王戦（台湾）リーグ | Wang Yuanjun | Jian Jingting | Lose | B+R | 6.5 | 3094 | -13 | 
 | 2021-10-21 | 第14期棋王戦（台湾）リーグ | Jian Jingting | Chen Qirui | Lose | W+R | 6.5 | 3107 | -139 | 

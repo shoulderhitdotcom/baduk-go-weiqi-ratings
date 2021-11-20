@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-19 | 第69期王座戦挑戦手合五番勝負第3局  | Iyama Yuta | Shibano Toramaru | Lose | B+R | 6.5 | 3340 | 3340 | 
+| 2021-11-12 | 第69期王座戦挑戦手合五番勝負第2局  | Shibano Toramaru | Iyama Yuta | Win | B+R | 6.5 | missing | -3319 | 
 | 2021-11-08 | 第60期十段戦2回戦 | Onishi Ryuhei | Shibano Toramaru | Win | W+R | 6.5 | 3319 | 13 | 
 | 2021-10-29 | 第69期王座戦挑戦手合五番勝負第1局  | Iyama Yuta | Shibano Toramaru | Lose | B+R | 6.5 | 3306 | -7 | 
 | 2021-10-25 | 第46期棋聖戦挑戦者決定戦第1局  | Ichiriki Ryo | Shibano Toramaru | Lose | B+R | 6.5 | 3313 | -1 | 

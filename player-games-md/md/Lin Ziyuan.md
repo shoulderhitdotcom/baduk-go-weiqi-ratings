@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Lin Ziyuan | Chen Qirui | Lose | W+R | 6.5 | 2695 | 91 | 
 | 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 |  | Lin Ziyuan | Win | W+R | 6.5 | 2604 | 2604 | 
 | 2021-11-12 | 第2回UMC聯電杯早碁争覇戦予選 | Lin Ziyuan |  | Win | B+R | 6.5 | missing | 0 | 
 | 2021-11-12 | 第2回UMC聯電杯早碁争覇戦予選 | Lin Ziyuan |  | Win | B+8.5 | 6.5 | missing | -2551 | 

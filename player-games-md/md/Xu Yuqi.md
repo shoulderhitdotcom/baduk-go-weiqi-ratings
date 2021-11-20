@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Xu Jingen | Xu Yuqi | Win | W+1.5 | 6.5 | 2888 | 15 | 
 | 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 |  | Xu Yuqi | Win | W+R | 6.5 | 2873 | 10 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Xu Yuqi | Lin Shixun | Lose | W+R | 6.5 | 2863 | -31 | 
 | 2021-09-26 | 第9期中環碁聖戦 | Li Wei | Xu Yuqi | Lose | B+R | 6.5 | 2894 | -23 | 

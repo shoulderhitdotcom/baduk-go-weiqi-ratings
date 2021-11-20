@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦  | Yang Zixuan | Zhou Yinnan | Lose | B+R | 6.5 | 2658 | -32 | 
 | 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 |  | Zhou Yinnan | Win | W+R | 6.5 | 2690 | 2690 | 
 | 2021-09-05 | 第9期中環碁聖戦 | Zhou Yinnan | Lin Xinwei | Lose | W+R | 6.5 | missing | -2784 | 
 | 2021-09-02 | 第14期棋王戦（台湾）予選 |  | Zhou Yinnan | Lose | B+R | 6.5 | 2784 | 7 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Yang Bowei | Huang Shiyuan | Win | B+R | 6.5 | 2972 | -33 | 
 | 2021-10-03 | 第9期中環碁聖戦16強戦 | Yang Bowei | Lin Lixiang | Lose | W+R | 6.5 | 3005 | -11 | 
 | 2021-10-01 | 2021新人王戦（台湾）2回戦 | Chen Qirui | Yang Bowei | Lose | B+R | 7.5 | 3016 | 22 | 
 | 2021-09-28 | 2021新人王戦（台湾）1回戦 | Yang Bowei | Cai Chengwei | Win | B+R | 7.5 | 2994 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦  | Lin Xinwei | Yu Lijun | Lose | B+R | 6.5 | 2611 | 31 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Lin Shixun | Yu Lijun | Lose | B+R | 6.5 | 2580 | 0 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Yu Lijun |  | Win | B+R | 6.5 | 2580 | 8 | 
 | 2021-09-28 | 2021環旭新人王戦1回戦 | Li Wei | Yu Lijun | Lose | B+R | 7.5 | 2572 | -34 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Lin Yuxiang | Lai Junfu | Win | W+R | 6.5 | 3187 | 20 | 
 | 2021-11-01 | 第14期棋王戦（台湾）リーグ残留プレーオフ  | Chen Qirui | Lai Junfu | Win | W+R | 6.5 | 3167 | 18 | 
 | 2021-10-29 | 第9期中環碁聖戦準決勝 | Lai Junfu | Chen Qirui | Lose | W+R | 6.5 | 3149 | -13 | 
 | 2021-10-28 | 第14期棋王戦（台湾）リーグ | Lai Junfu | Jian Jingting | Lose | W+R | 6.5 | 3162 | -11 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Liu Yaowen | Xu Haohong | Lose | W+R | 6.5 | 2729 | 31 | 
 | 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 | Liu Yaowen |  | Win | B+R | 6.5 | 2698 | 2698 | 
 | 2021-11-12 | 第2回UMC聯電杯早碁争覇戦予選 | Liu Yaowen | Liu Jianchang | Win | B+R | 6.5 | missing | -2724 | 
 | 2021-10-07 | 第9期中環碁聖戦16強戦 | Liu Yaowen | Xu Haohong | Lose | W+R | 6.5 | 2724 | -8 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Xu Jingen | Xu Yuqi | Lose | W+1.5 | 6.5 | 2921 | -37 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Xu Jingen | Lin Lixiang | Lose | W+R | 6.5 | 2958 | 0 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Xu Jingen | Ding Shaojie | Win | B+R | 6.5 | 2958 | 9 | 
 | 2021-10-01 | 2021新人王戦（台湾）2回戦 | Xu Jingen | Lu Yiquan | Lose | W+R | 7.5 | 2949 | 6 | 

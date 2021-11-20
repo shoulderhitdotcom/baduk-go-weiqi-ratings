@@ -7,7 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Iyama Yuta vs Shibano Toramaru** | **Iyama Yuta streak** | **Shibano Toramaru streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-10-29 | 第69期王座戦挑戦手合五番勝負第1局  | Iyama Yuta | Shibano Toramaru | B+R | 6.5 | 1:0 | 1 | 0 | 
+| 2021-11-19 | 第69期王座戦挑戦手合五番勝負第3局  | Iyama Yuta | Shibano Toramaru | B+R | 6.5 | 1:0 | 1 | 0 | 
+| 2021-11-12 | 第69期王座戦挑戦手合五番勝負第2局  | Shibano Toramaru | Iyama Yuta | B+R | 6.5 | 17:13 | 0 | 1 | 
+| 2021-10-29 | 第69期王座戦挑戦手合五番勝負第1局  | Iyama Yuta | Shibano Toramaru | B+R | 6.5 | 17:12 | 4 | 0 | 
 | 2021-07-07 | 第76期本因坊戦挑戦手合七番勝負第7局  | Shibano Toramaru | Iyama Yuta | W+R | 6.5 | 16:12 | 3 | 0 | 
 | 2021-06-30 | 第76期本因坊戦挑戦手合七番勝負第6局  | Iyama Yuta | Shibano Toramaru | B+R | 6.5 | 15:12 | 2 | 0 | 
 | 2021-06-22 | 第76期本因坊戦挑戦手合七番勝負第5局  | Shibano Toramaru | Iyama Yuta | W+R | 6.5 | 14:12 | 1 | 0 | 

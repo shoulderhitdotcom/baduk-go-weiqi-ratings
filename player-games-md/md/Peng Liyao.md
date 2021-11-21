@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-21 | 2021CCTV杯中国囲棋電視快棋戦準決勝 | Peng Liyao | Ke Jie | Lose | W+R | 7.5 | 3501 | 5 | 
 | 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Peng Liyao | Tang Weixing | Win | B+R | 7.5 | 3496 | 11 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Ding Hao | Peng Liyao | Win | W+R | 7.5 | 3485 | 17 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Lian Xiao | Peng Liyao | Win | W+¼ | 7.5 | 3468 | 42 | 

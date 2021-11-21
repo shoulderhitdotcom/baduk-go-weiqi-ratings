@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-21 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Changseok | Byun Sangil | Win | B+R | 6.5 | 3558 | 11 | 
 | 2021-11-16 | 第3期ソパルコサノル最高棋士決定戦予選 | Moon Minjong | Lee Changseok | Win | W+R | 6.5 | 3547 | 19 | 
 | 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Lee Changseok | Yang Dingxin | Lose | W+R | 6.5 | 3528 | -3 | 
 | 2021-10-22 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Peng Liyao | Lee Changseok | Win | W+0.5 | 6.5 | 3531 | 15 | 

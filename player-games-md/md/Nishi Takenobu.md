@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-21 | 第16回広島アルミ杯・若鯉戦決勝  | Ueno Asami | Nishi Takenobu | Lose | B+R | 6.5 | 2818 | 0 | 
+| 2021-11-21 | 第16回広島アルミ杯・若鯉戦準決勝  | Nishi Takenobu | Seki Kotaro | Win | B+13.5 | 6.5 | 2818 | 82 | 
 | 2021-10-27 | 第66期関西棋院第一位決定戦1回戦 | Nishi Takenobu | Abe Yoshiki | Lose | W+0.5 | 6.5 | 2736 | -59 | 
 | 2021-10-13 | 第48期天元戦予選 | Yukawa Mitsuhisa | Nishi Takenobu | Lose | B+R | 6.5 | 2795 | -129 | 
 | 2021-08-18 | 第70期王座戦予選 | Nishi Takenobu | Nagasaki Yuji | Win | B+R | 6.5 | 2924 | 93 | 

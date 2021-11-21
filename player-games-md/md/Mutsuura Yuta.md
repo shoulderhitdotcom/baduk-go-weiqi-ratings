@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-21 | 第16回広島アルミ杯・若鯉戦準決勝  | Ueno Asami | Mutsuura Yuta | Lose | B+R | 6.5 | 2995 | -158 | 
 | 2021-08-19 | 第46期棋聖戦Aリーグ | Mutsuura Yuta | Hsu Chiayuan | Lose | W+R | 6.5 | 3153 | 34 | 
 | 2021-08-05 | 第60期十段戦予選 | Shida Tatsuya | Mutsuura Yuta | Lose | B+R | 6.5 | 3119 | 16 | 
 | 2021-07-29 | 第46期棋聖戦Aリーグ | Hane Naoki | Mutsuura Yuta | Win | W+R | 6.5 | 3103 | -15 | 
@@ -103,7 +104,6 @@
 | 2017-10-26 | 第44期天元戦予選 | Yamada Kimio | Mutsuura Yuta | Win | W+R | 7.5 | 2944 | 68 | 
 | 2017-10-07 | 第24期阿含・桐山杯全日本早碁オープン戦決勝戦 | Takao Shinji | Mutsuura Yuta | Win | W+R | 6.5 | 2876 | 93 | 
 | 2017-08-02 | 日本棋士強化対局 | Mutsuura Yuta | DeepZenGo | Lose | W+R | 6.5 | 2783 | -15 | 
-| 2017-07-27 | ナショナルチーム強化対局 | DeepZenGo | Mutsuura Yuta | Lose | B+R | 6.5 | 2798 | 0 | 
 | 2017-07-27 | ナショナルチーム強化対局 | DeepZenGo | Mutsuura Yuta | Lose | B+R | 6.5 | 2798 | -8 | 
 | 2017-07-26 | ナショナルチーム強化対局 | DeepZenGo | Mutsuura Yuta | Lose | B+R | 6.5 | 2806 | -10 | 
 | 2017-07-24 | ナショナルチーム強化対局 | DeepZenGo | Mutsuura Yuta | Lose | B+R | 6.5 | 2816 | -3 | 

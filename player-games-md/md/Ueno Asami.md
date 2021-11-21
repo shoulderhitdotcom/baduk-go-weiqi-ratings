@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-20 | 第16回広島アルミ杯・若鯉戦1回戦  | Otani Naoki | Ueno Asami | Win | W+R | 6.5 | 3127 | 14 | 
 | 2021-10-15 | 第46期新人王戦決勝三番勝負第3局  | Ueno Asami | Sotoyanagi Sebun | Lose | W+R | 6.5 | 3113 | 15 | 
 | 2021-10-09 | 第46期新人王戦決勝三番勝負第2局  | Ueno Asami | Sotoyanagi Sebun | Win | B+R | 6.5 | 3098 | 54 | 
 | 2021-09-27 | 第47期碁聖戦予選 | Ueno Asami | Takao Shinji | Lose | W+R | 6.5 | 3044 | -18 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-20 | 2021-2022韓国囲碁リーグ | Song Jihoon | Ahn Kukhyun | Win | W+R | 6.5 | 3175 | 150 | 
 | 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Ahn Kukhyun | Hong Mujin | Lose | W+3.5 | 6.5 | 3025 | -63 | 
 | 2021-09-23 | 第7回国手山脈国際囲碁大会韓国予選 | Ahn Kukhyun | Choi Jeong | Lose | W+R | 6.5 | 3088 | 3088 | 
 | 2021-07-20 | 第23回農心杯韓国予選 | Kim Changhoon | Ahn Kukhyun | Lose | B+R | 6.5 | missing | 0 | 

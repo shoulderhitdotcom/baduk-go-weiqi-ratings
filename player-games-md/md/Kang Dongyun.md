@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-20 | 2021-2022韓国囲碁リーグ | An Sungjoon | Kang Dongyun | Win | W+R | 6.5 | 3483 | 24 | 
 | 2021-11-13 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Han Seungjoo | Kang Dongyun | Lose | B+R | 6.5 | 3459 | -23 | 
 | 2021-10-09 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Dongyun | Shin Jinseo | Lose | W+0.5 | 6.5 | 3482 | 17 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Kang Dongyun | Han Yizhou | Win | B+R | 7.5 | 3465 | 6 | 

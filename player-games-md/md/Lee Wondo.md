@@ -5,142 +5,143 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第26回GSカルテックス杯プロ棋戦1回戦 | Lee Wonyoung | Lee Wondo | B+13.5 | 2021-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hBSfbH8OgSOyDmJRY%2Bzg%2Bg%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Lee Hobum | Lee Wondo | B+R | 2021-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GuvA6G40H2XePjmQaYtBiQ%3D%3D) | 
-| 第1回牛膝鳳爪韓国棋院選手権戦予選 | Paek Hongseok | Lee Wondo | B+R | 2021-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YcTfib98YQ4A%2F2KfdzctNQ%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Hyun Yoobin | Lee Wondo | W+R | 2021-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mF%2BmO4nIJuipZn74StXrBQ%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Park Younglong | Lee Wondo | B+R | 2021-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=87A8b%2BI2CdU850pgWwBr7A%3D%3D) | 
-| 第4期韓国竜星戦1回戦 | Park Minkyu | Lee Wondo | B+0.5 | 2021-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6DBehdSQSTltU3E%2FrnGdWA%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Lee Wondo | Shin Jaeweon | B+R | 2021-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uSHFGXKksNPtxUjdpQk4pg%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Lee Wondo | Oh Jeonga | B+R | 2021-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sqeeXGUStX8gCKxlq8T%2Fsg%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Kim Sonjin | Lee Wondo | W+R | 2021-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fcJF%2BUaE1%2FpsQGrf4L7eYw%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Lee Chungyu | Lee Wondo | W+R | 2021-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GuuTZYI0rhxtuKF0O3TkPg%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Lee Wondo | Lee Hobum | B+R | 2021-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AaIL607oc9%2FiVzNzr4bD5w%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Lee Wondo | Choi Cheolhan | W+R | 2021-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NyzvBkS4%2Fxx09%2BEADViXNw%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Kim Hyeongwoo | Lee Wondo | B+2.5 | 2021-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LS0mlZrcdx5EGOZJBZ5%2BKw%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Lee Wondo | Park Younglong | W+R | 2020-12-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y6gK0ffG7%2FY75kXBZfALHA%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Shin Jaeweon | Lee Wondo | W+R | 2020-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Aqghy6Y1AN2Lk%2FXXhkTlow%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Kim Jinhyu | Lee Wondo | B+R | 2020-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JUBGlBURQAVFCuAQZ6B%2BbQ%3D%3D) | 
-| 2020-2021フューチャーズリーグ | missing | Lee Wondo | W+R | 2020-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S8G3zCOm4EgSBVUfmJVDgg%3D%3D) | 
-| 2020-2021フューチャーズリーグ | Kim Sedong | Lee Wondo | B+R | 2020-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=194uBQL%2BabSjQN8bKqiRRw%3D%3D) | 
-| 第2回大統領杯全国囲碁大会予選 | Lee Wondo | An Sungjoon | W+R | 2020-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SZ8CiggD%2FEtaBG2Z4Rz%2Blw%3D%3D) | 
-| 第25回三星火災杯韓国一般枠予選 | Lee Donghoon | Lee Wondo | B+R | 2020-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ybUFTDOhJbMHV5Y9YrpCQQ%3D%3D) | 
-| 第25回LG杯韓国予選決勝 | Lee Wondo | Hong Kipyo | W+R | 2020-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DR52LOQ7pXX%2BscWWXTG2xQ%3D%3D) | 
-| 第25回LG杯韓国予選 | Lee Wondo | Shin Jaeweon | B+T | 2020-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L16WtPFQ7gjhnlp%2BmN1q7Q%3D%3D) | 
-| 第25回LG杯韓国予選 | Lee Wondo | Han Seungjoo | B+R | 2020-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9hLEuNDf8nW5aDUX5ZD6vw%3D%3D) | 
-| 第25回LG杯韓国予選 | Lee Wondo | Kim Dongho | B+4.5 | 2020-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=32LSAREzagqbz0KpdKLokQ%3D%3D) | 
-| 第25回LG杯韓国予選 | Lee Wondo | Oh Jeonga | B+R | 2020-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R%2F0PQTMXtCGPRzIaseEbIw%3D%3D) | 
-| 2019-2020韓国囲碁リーグ優勝決定戦第1戦第2局 | Lee Wondo | Shin Minjun | W+R | 2020-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fVzGsqZYrq4zr%2F8drpTq1g%3D%3D) | 
-| 2019-2020韓国囲碁リーグプレーオフ第2戦第1局 | Lee Wondo | Paek Hongseok | W+R | 2020-02-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gTNRsejeUmRGDfGunSdydA%3D%3D) | 
-| 2019-2020韓国囲碁リーグプレーオフ第1戦第1局 | Lee Wondo | Paek Hongseok | W+R | 2020-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hJ53JwP8INQcuScAGYoTXg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ準プレーオフ第3戦第1局 | Lee Wondo | Park Geunho | B+0.5 | 2020-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EP%2Fq6q2WOOw%2FtakCxmykzQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ準プレーオフ第2戦第1局 | Lee Wondo | Park Geunho | B+R | 2020-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6RmLf4u%2BuUICxj%2FlcL%2FTpw%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第17節第4試合第5局 | Lee Wondo | Park Seunghwa | W+R | 2020-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WowywRIFjJ8NPatP%2BZaqBg%3D%3D) | 
-| 第3期韓国竜星戦32強戦 | Lee Wondo | Choi Jeong | W+0.5 | 2020-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uBXETAR9QYS1cGPIf0FKcA%3D%3D) | 
-| 第3期韓国竜星戦32強戦 | Lee Wondo | Shin Jinseo | W+R | 2020-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NzCZ2ceLB%2B7ZtdNd77NZpA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第12節第4試合第4局 | Wen Rubin | Lee Wondo | B+R | 2019-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ThNWR5lJ7rZOE1bFG1bsIw%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第10節第3試合第4局 | Jin Siyoung | Lee Wondo | B+R | 2019-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LcorG%2BD%2FZ595LlAPOli6Xw%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第8節第1試合第3局 | Park Yeonghun | Lee Wondo | B+R | 2019-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KUF%2FOdqgHoMQdyHWTst4MA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第6節第4試合第5局 | Heo Yongho | Lee Wondo | B+R | 2019-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3nFru%2B%2FxEZNZNWJSeR3Qig%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第5節第3試合第4局 | Lee Wondo | Choi Jaeyoung | W+R | 2019-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NLXVcoerznWhlLJ%2FqO0K5w%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第4節第2試合第4局 | Lee Wondo | Lee Yeongkyu | W+4.5 | 2019-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A3V%2BtmtIon%2Fuyrt89%2BsP1A%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第3節第1試合第5局 | Hong Seongji | Lee Wondo | W+0.5 | 2019-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NmEA%2BeLqp5cbiqQY0ngodw%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第2節第2試合第5局 | Kim Sangcheon | Lee Wondo | W+R | 2019-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AheXFjQXbvt381tCx4fQUw%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第1節第2試合第2局 | Lee Donghoon | Lee Wondo | B+R | 2019-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HaLXNWSX0YBhkO7yqx9kYQ%3D%3D) | 
-| 第3回安東市真貯蓄銀行杯プロアマオープン戦64強戦 | missing | Lee Wondo | B+0.5 | 2019-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SKoN5lBMflQv6b9AIxkUHg%3D%3D) | 
-| 第6回国手山脈韓国国内トーナメント16強戦 | Park Jinyoung | Lee Wondo | B+0.5 | 2019-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ktFT5Ghw7zeMv71yL61pAA%3D%3D) | 
-| 第6回国手山脈韓国国内トーナメント32強戦 | Lee Wonyoung | Lee Wondo | W+R | 2019-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BRKxFlRpy2B9lmB87GidzQ%3D%3D) | 
-| 第24期GSカルテックス杯24強戦 | Lee Wondo | Lee Hoseong | W+R | 2019-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9Iqv9EjkKAH%2BpxUU2xN8kg%3D%3D) | 
-| 2018年フューチャーズリーグ | missing | Lee Wondo | W+5.5 | 2018-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cXxr4PO%2FyPbzLFvn%2F3bdXg%3D%3D) | 
-| 2018年フューチャーズリーグ | Lee Wondo | An Jungki | B+R | 2018-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Z4yBsqsBoXxYoofrM%2BfKg%3D%3D) | 
-| 2018年韓国囲碁リーグ第12節 | Lee Hyeonjun | Lee Wondo | W+0.5 | 2018-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vYWVTMeVDwmT33tu1ZHnWQ%3D%3D) | 
-| 2018年韓国囲碁リーグ第12節 | Kim Seongjae | Lee Wondo | W+R | 2018-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g7siYrKHBbdFSUYsODwkxw%3D%3D) | 
-| 2018年フューチャーズリーグ | missing | Lee Wondo | W+R | 2018-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yiHNwVTKHGtCI%2BNF%2FG%2BolQ%3D%3D) | 
-| 2018年フューチャーズリーグ | Park Sangjin | Lee Wondo | W+R | 2018-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gTbAdOe5GYo3EzvMsB28YA%3D%3D) | 
-| 2018年フューチャーズリーグ | missing | Lee Wondo | W+R | 2018-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6kUHgMo2Y7n%2BlbKIdoAsWw%3D%3D) | 
-| 2018年フューチャーズリーグ | Wi Taewoong | Lee Wondo | B+R | 2018-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k59PJ3VjsBBPg0uwJ0fRvQ%3D%3D) | 
-| 2018年フューチャーズリーグ | Lee Wondo | Choi Kyeongho | W+R | 2018-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sPzft62Ytkj57IeJjQQdUw%3D%3D) | 
-| 2018年韓国囲碁リーグ第7節 | Han Sanghoon | Lee Wondo | B+R | 2018-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q%2FK%2BspwYMgoT0MnQ7DZD8Q%3D%3D) | 
-| 2018年フューチャーズリーグ | Lee Wondo | An Jungki | B+R | 2018-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cXiEdrjxTHDLPk9viBQWlg%3D%3D) | 
-| 2018年フューチャーズリーグ | Lee Wondo | An Joyeong | B+R | 2018-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yy2R%2B3qFAiguZzrVhx%2BtCA%3D%3D) | 
-| 2018年フューチャーズリーグ | Lee Wondo | Kim Sedong | B+R | 2018-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cgx%2BrB67b3NFvKsTlm3X9A%3D%3D) | 
-| 第20回農心杯韓国選抜戦 | Lee Wondo | Kim Seongjae | W+R | 2018-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kGk6fbOp6U5gblbfgyBffA%3D%3D) | 
-| 2018年フューチャーズリーグ | Lee Wondo | Park Sangjin | B+R | 2018-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cs4gFpEn%2ByickBPIBKjh5w%3D%3D) | 
-| 2018年フューチャーズリーグ | Lee Chungyu | Lee Wondo | B+R | 2018-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MehnpOFXGojtlEKyG%2BukyA%3D%3D) | 
-| 2018年フューチャーズリーグ | Lee Wondo | Wi Taewoong | B+R | 2018-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y46BYaQBQXndBfisQZ92Hw%3D%3D) | 
-| 2017年フューチャーズリーグ | Oh Yujin | Lee Wondo | B+R | 2017-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sNiqKoJvRpGzva4esLZhyw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Lee Wondo | Lee Changseok | B+R | 2017-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aNMJODsOHIL6C7O7vafs4Q%3D%3D) | 
-| 2017年フューチャーズリーグ | Park Jaekeun | Lee Wondo | B+R | 2017-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VLdu33S7DkikgxG0Aji60A%3D%3D) | 
-| 2017年フューチャーズリーグ | missing | Lee Wondo | W+R | 2017-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z5own6FQY3m3m1%2F4fmy33Q%3D%3D) | 
-| 2017年フューチャーズリーグ | Park Hamin | Lee Wondo | W+R | 2017-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ajgZnNfv2IcL3NqVTsU1Hw%3D%3D) | 
-| 2017年フューチャーズリーグ | Lee Wondo | missing | B+3.5 | 2017-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jbi9CiYtFAXlrY9MmkNuQA%3D%3D) | 
-| 2017年フューチャーズリーグ | Park Junsuck | Lee Wondo | W+R | 2017-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0jKiZLyM2nOyVMsRANX9Pg%3D%3D) | 
-| 2017年フューチャーズリーグ | Wi Taewoong | Lee Wondo | W+R | 2017-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=43FUc2IkBP31%2B8FVdVTvjg%3D%3D) | 
-| 2017年韓国囲碁リーグ | Kang Yootaek | Lee Wondo | B+1.5 | 2017-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tm1ZadXoGMgvEoUB28eNuA%3D%3D) | 
-| 2017年フューチャーズリーグ | Lee Wondo | An Jungki | W+R | 2017-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AXxr46DUcOzgzsciukufqA%3D%3D) | 
-| 2017年韓国囲碁リーグ | Lee Wondo | Lee Donghoon | B+R | 2017-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yRhW9J4ef9CEK%2FxWJAuV7A%3D%3D) | 
-| 2017年フューチャーズリーグ | Lee Wondo | Park Jaekeun | B+R | 2017-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mvE7IRIuUNx3malBeYYp9A%3D%3D) | 
-| 2017年フューチャーズリーグ | missing | Lee Wondo | W+R | 2017-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=88QH3Hur9VInoOGxAmivOw%3D%3D) | 
-| 2017年フューチャーズリーグ | missing | Lee Wondo | W+R | 2017-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AuJgsj0AqcSjHBysalfiYQ%3D%3D) | 
-| 2017年フューチャーズリーグ | Lee Wondo | Lee Hoseong | B+1.5 | 2017-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=epG7N94Q%2B3MdB2fjO3H6NA%3D%3D) | 
-| 2017年フューチャーズリーグ | Lee Wondo | Kim Minho | B+R | 2017-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a6mymFDHSoYAkTYEEl0%2FnA%3D%3D) | 
-| 2017年フューチャーズリーグ | An Joyeong | Lee Wondo | W+T | 2017-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zoCW3aim6tCcHG8eI6pJWA%3D%3D) | 
-| 2017年フューチャーズリーグ | Lee Hyungjin | Lee Wondo | B+4.5 | 2017-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5jCHlsOsKKUA3TuJTcsdZw%3D%3D) | 
-| 2015年レッツランパーク杯オープントーナメント1回戦 | Lee Wondo | Kang Seungmin | W+R | 2015-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7gSadA%2B5W14OA4J0c0akgg%3D%3D) | 
-| 第20期GSカルテックス杯プロ棋戦1回戦 | Kim Junghyun | Lee Wondo | B+R | 2015-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D399I8WoEZYOwvW0kTF%2BZw%3D%3D) | 
-| 2013年韓国囲碁リーグ | An Sungjoon | Lee Wondo | B+R | 2013-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BxCbfgBqTTx0F1wGwzBmfw%3D%3D) | 
-| 第4期Olleh杯オープン選手権3回戦 | Lee Wondo | Park Yeonghun | W+R | 2013-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KAZUVw9Hq2LqvCLvwUDhVw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Park Junghwan | Lee Wondo | B+R | 2013-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mKxCk9DdT7byLQN9%2BpwpiQ%3D%3D) | 
-| 第15回農心杯韓国選抜戦 | Lee Wondo | missing | B+R | 2013-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vRzGnWf0PVD0N3s7IFynYw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Kim Junghyun | Lee Wondo | B+R | 2013-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q%2BpoSlDBcO4j%2FrvzEbJs4g%3D%3D) | 
-| 第18期GSカルテックス杯プロ棋戦2回戦 | Lee Wondo | Kim Seongjae | W+R | 2013-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ViabOen5NEL%2BFsLA0rH%2BoQ%3D%3D) | 
-| 第18期GSカルテックス杯プロ棋戦1回戦 | Lee Wondo | An Sungjoon | B+4.5 | 2013-01-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LLYhkcBx6MewD1g7j3djYA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Taehyun | Lee Wondo | B+R | 2012-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ss8XAcKGBxt1yb7ABWTxqw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Han Wonggyu | Lee Wondo | W+R | 2012-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IWatMVlI3jDUYN2fyv4weA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Wondo | Kang Yootaek | B+3.5 | 2012-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4iBzPuq6kFci2cmPbjCtPw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Wondo | Lee Wonyoung | W+R | 2012-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d%2B0JGI3%2BumlLZvsDKH52JA%3D%3D) | 
-| 第40期名人戦（韓国）予選 | Lee Wondo | Kim Jiseok | W+R | 2012-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6ihZ8A7acr2UvnkkBVavsg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Wondo | Kim Jiseok | W+R | 2012-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iQLlKZPAgAegsOC1bFK7Jg%3D%3D) | 
-| 2012年韓国囲碁リーグ | missing | Lee Wondo | B+R | 2012-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=grB%2FfAaYSlqrPOHjigybBg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Changho | Lee Wondo | B+R | 2012-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kRDB2TPxTuBx4TDMboCwGQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Wondo | Cho Hunhyun | W+R | 2012-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OrAHD4DLU%2B%2F4XrafbeNB2Q%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Wondo | Park Seunghyeon | W+R | 2012-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ovSEn%2Bc98Rxe3TMU5a0Iww%3D%3D) | 
-| 第4回BCカード杯世界選手権2回戦 | Tan Xiao | Lee Wondo | B+R | 2012-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lVRu69DL9fxigpii3TyjsQ%3D%3D) | 
-| 第4回BCカード杯世界選手権1回戦 | Lee Wondo | Hong Kipyo | B+R | 2012-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XGHV%2BxOVOnX6TQg3X99zPQ%3D%3D) | 
-| 第7期圓益杯十段戦1回戦 | Lee Wondo | Yang Wooseok | W+R | 2011-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Jyy%2BZvnp%2BWH4B31suhg%2FQ%3D%3D) | 
-| 第13回農心杯韓国選抜戦 | Lee Wondo | Weon Seongjin | W+R | 2011-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=udViuvRDXPALZahPeRC3Hg%3D%3D) | 
-| 2010年韓国囲碁リーグ | Lee Sedol | Lee Wondo | B+R | 2010-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lwCMDyFRVjekX8oeEFSo5g%3D%3D) | 
-| 第15回三星火災杯統合予選準決勝 | Lee Wondo | Lin Shuyang | Void | 2010-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2yw1h1zkrMYDZ2TwZktv7w%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Wondo | Jin Donggyu | B+2.5 | 2009-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qwXOAUSacI%2BgR58h%2FQP8Ng%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Wondo | Kang Yootaek | W+R | 2009-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XV2XZIfUCW2CnYJqADvGHg%3D%3D) | 
-| 2009年韓国囲碁リーグ | Hong Minpyo | Lee Wondo | W+R | 2009-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=szsEIHQHia%2B4%2FiRReYYM4w%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Wondo | Lee Yeongkyu | B+R | 2009-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Io563NMZ6NjeKWQWY3aNyw%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Wondo | An Sungjoon | B+5.5 | 2009-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=620jiTws%2FyEPyojsGsxGOA%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Wondo | missing | B+R | 2009-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xE6SRVVHlnrs2gT1TLJyoQ%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Wondo | Choi Myeonghun | W+1.5 | 2009-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jqYkE%2FNzFaLqWoD53oXjmA%3D%3D) | 
-| 2009年韓国囲碁リーグ | Kim Seongjae | Lee Wondo | B+0.5 | 2009-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DY0Qpq45sOo%2BqCn6Rrg29Q%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Wondo | Han Wonggyu | B+R | 2009-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YBQ79U8B8WvBbgDaO4DHLg%3D%3D) | 
-| 第1回BCカード杯世界選手権1回戦 | Lee Wondo | Gu Li | W+R | 2009-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7Dzxm7jHA%2Fr7pjGIVNeonQ%3D%3D) | 
-| 第12期SKガス杯新鋭プロ十傑戦九位決定戦 | missing | Lee Wondo | W+R | 2008-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x0YDfkSYbwwU8tJzC3d1qA%3D%3D) | 
-| 第12期SKガス杯新鋭プロ十傑戦リーグA | Kim Jiseok | Lee Wondo | B+5.5 | 2008-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PEUoXctkTAz5%2BbiUHaz9vg%3D%3D) | 
-| 2008年韓国囲碁リーグ | Hong Seongji | Lee Wondo | W+0.5 | 2008-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FG70mR%2FkwfdOE%2FiOBxImfw%3D%3D) | 
-| 2008年韓国囲碁リーグ | Park Cheongsang | Lee Wondo | B+R | 2008-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=335gMPK4OYOIV7LwiY7wkQ%3D%3D) | 
-| 2008年韓国囲碁リーグ | Lee Sedol | Lee Wondo | W+R | 2008-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kQ2v7hNsNuE4nLCCfB6CPg%3D%3D) | 
-| 2008年韓国囲碁リーグ | Kim Kiyoung | Lee Wondo | W+R | 2008-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=leDe6D3G9TFzQe7AwcfAvQ%3D%3D) | 
-| 第4期圓益杯十段戦2回戦 | Lee Wondo | Yue Liang | W+3.5 | 2008-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WeDqXlPWJr4B7W6C%2FfkVTA%3D%3D) | 
-| 2008年韓国囲碁リーグ | Lee Wondo | Han Sanghoon | W+R | 2008-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iMcYBMz9fz4Urc2q30%2FZmw%3D%3D) | 
-| 第12期SKガス杯新鋭プロ十傑戦リーグA | Park Junghwan | Lee Wondo | B+R | 2008-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TgogVfheitdZrPhZT25G6g%3D%3D) | 
-| 第4期圓益杯十段戦1回戦 | Jin Siyoung | Lee Wondo | W+0.5 | 2008-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sToiXn0LinBHxPPF4irT8w%3D%3D) | 
-| 第12期SKガス杯新鋭プロ十傑戦リーグA | missing | Lee Wondo | W+R | 2008-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DmLUp85S7Vp2EoMVvjAy2A%3D%3D) | 
-| 2008年韓国囲碁リーグ | Lee Wondo | On Sojin | W+R | 2008-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zmtip5khSNi3rqkI8E6hsQ%3D%3D) | 
-| 2008年韓国囲碁リーグ | Hong Minpyo | Lee Wondo | W+5.5 | 2008-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rwn4FnANH8uJB5WWw3tUhQ%3D%3D) | 
-| 第12期SKガス杯新鋭プロ十傑戦リーグA | Kim Sooyong | Lee Wondo | W+R | 2008-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gg366gIqGsqCR08THZSikg%3D%3D) | 
-| 2008年韓国囲碁リーグ | Lee Wondo | Yoo Changhyuk | B+1.5 | 2008-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cA5Xa6Ag7oTJXlqMzvawqQ%3D%3D) | 
-| 2008年韓国囲碁リーグ | Lee Wondo | missing | B+R | 2008-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MQjmxeIERNkyKmi0vloUSw%3D%3D) | 
-| 2008年韓国囲碁リーグ | Lee Wondo | Kim Hyeongwoo | B+R | 2008-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d3PjU%2FXc8voXcWdjw2tGfg%3D%3D) | 
-| 第12期SKガス杯新鋭プロ十傑戦リーグA | Lee Taehyun | Lee Wondo | B+R | 2008-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OjIuJX6WWv%2FRqf7yd86u7w%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-20 | 2021-2022フューチャーズリーグ | An Joyeong | Lee Wondo | Win | W+R | 6.5 | 3177 | -13 | 
+| 2021-04-09 | 第26回GSカルテックス杯プロ棋戦1回戦 | Lee Wonyoung | Lee Wondo | Lose | B+13.5 | 6.5 | 3190 | -87 | 
+| 2021-03-04 | 2020-2021フューチャーズリーグ | Lee Hobum | Lee Wondo | Lose | B+R | 6.5 | 3277 | 5 | 
+| 2021-02-26 | 第1回牛膝鳳爪韓国棋院選手権戦予選 | Paek Hongseok | Lee Wondo | Lose | B+R | 6.5 | 3272 | -52 | 
+| 2021-02-20 | 2020-2021フューチャーズリーグ | Hyun Yoobin | Lee Wondo | Win | W+R | 6.5 | 3324 | -52 | 
+| 2021-02-13 | 2020-2021フューチャーズリーグ | Park Younglong | Lee Wondo | Lose | B+R | 6.5 | 3376 | -5 | 
+| 2021-02-08 | 第4期韓国竜星戦1回戦 | Park Minkyu | Lee Wondo | Lose | B+0.5 | 6.5 | 3381 | -53 | 
+| 2021-02-07 | 2020-2021フューチャーズリーグ | Lee Wondo | Shin Jaeweon | Win | B+R | 6.5 | 3434 | -26 | 
+| 2021-02-03 | 2020-2021フューチャーズリーグ | Lee Wondo | Oh Jeonga | Win | B+R | 6.5 | 3460 | 33 | 
+| 2021-01-24 | 2020-2021フューチャーズリーグ | Kim Sonjin | Lee Wondo | Win | W+R | 6.5 | 3427 | -2 | 
+| 2021-01-17 | 2020-2021フューチャーズリーグ | Lee Chungyu | Lee Wondo | Win | W+R | 6.5 | 3429 | 60 | 
+| 2021-01-13 | 2020-2021フューチャーズリーグ | Lee Wondo | Lee Hobum | Win | B+R | 6.5 | 3369 | 0 | 
+| 2021-01-10 | 2020-2021韓国囲碁リーグ | Lee Wondo | Choi Cheolhan | Lose | W+R | 6.5 | 3369 | -18 | 
+| 2021-01-06 | 2020-2021フューチャーズリーグ | Kim Hyeongwoo | Lee Wondo | Lose | B+2.5 | 6.5 | 3387 | -2 | 
+| 2020-12-27 | 2020-2021フューチャーズリーグ | Lee Wondo | Park Younglong | Lose | W+R | 6.5 | 3389 | -24 | 
+| 2020-12-19 | 2020-2021フューチャーズリーグ | Shin Jaeweon | Lee Wondo | Win | W+R | 6.5 | 3413 | -29 | 
+| 2020-12-12 | 2020-2021フューチャーズリーグ | Kim Jinhyu | Lee Wondo | Lose | B+R | 6.5 | 3442 | 11 | 
+| 2020-12-05 | 2020-2021フューチャーズリーグ |  | Lee Wondo | Win | W+R | 6.5 | 3431 | 14 | 
+| 2020-11-28 | 2020-2021フューチャーズリーグ | Kim Sedong | Lee Wondo | Lose | B+R | 6.5 | 3417 | 133 | 
+| 2020-11-05 | 第2回大統領杯全国囲碁大会予選 | Lee Wondo | An Sungjoon | Lose | W+R | 6.5 | 3284 | 26 | 
+| 2020-09-02 | 第25回三星火災杯韓国一般枠予選 | Lee Donghoon | Lee Wondo | Lose | B+R | 6.5 | 3258 | 222 | 
+| 2020-04-28 | 第25回LG杯韓国予選決勝 | Lee Wondo | Hong Kipyo | Lose | W+R | 6.5 | 3036 | -11 | 
+| 2020-04-27 | 第25回LG杯韓国予選 | Lee Wondo | Shin Jaeweon | Win | B+T | 6.5 | 3047 | 36 | 
+| 2020-04-22 | 第25回LG杯韓国予選 | Lee Wondo | Han Seungjoo | Win | B+R | 6.5 | 3011 | 37 | 
+| 2020-04-20 | 第25回LG杯韓国予選 | Lee Wondo | Kim Dongho | Win | B+4.5 | 6.5 | 2974 | 2 | 
+| 2020-04-14 | 第25回LG杯韓国予選 | Lee Wondo | Oh Jeonga | Win | B+R | 6.5 | 2972 | 74 | 
+| 2020-03-06 | 2019-2020韓国囲碁リーグ優勝決定戦第1戦第2局 | Lee Wondo | Shin Minjun | Lose | W+R | 6.5 | 2898 | -15 | 
+| 2020-02-29 | 2019-2020韓国囲碁リーグプレーオフ第2戦第1局 | Lee Wondo | Paek Hongseok | Lose | W+R | 6.5 | 2913 | -11 | 
+| 2020-02-28 | 2019-2020韓国囲碁リーグプレーオフ第1戦第1局 | Lee Wondo | Paek Hongseok | Lose | W+R | 6.5 | 2924 | -228 | 
+| 2020-02-09 | 2019-2020韓国囲碁リーグ準プレーオフ第3戦第1局 | Lee Wondo | Park Geunho | Win | B+0.5 | 6.5 | 3152 | 57 | 
+| 2020-02-08 | 2019-2020韓国囲碁リーグ準プレーオフ第2戦第1局 | Lee Wondo | Park Geunho | Win | B+R | 6.5 | 3095 | 58 | 
+| 2020-01-26 | 2019-2020韓国囲碁リーグ第17節第4試合第5局 | Lee Wondo | Park Seunghwa | Lose | W+R | 6.5 | 3037 | -2 | 
+| 2020-01-17 | 第3期韓国竜星戦32強戦 | Lee Wondo | Choi Jeong | Lose | W+0.5 | 6.5 | 3039 | -9 | 
+| 2020-01-16 | 第3期韓国竜星戦32強戦 | Lee Wondo | Shin Jinseo | Lose | W+R | 6.5 | 3048 | 310 | 
+| 2019-12-22 | 2019-2020韓国囲碁リーグ第12節第4試合第4局 | Wen Rubin | Lee Wondo | Lose | B+R | 6.5 | 2738 | -32 | 
+| 2019-12-07 | 2019-2020韓国囲碁リーグ第10節第3試合第4局 | Jin Siyoung | Lee Wondo | Lose | B+R | 6.5 | 2770 | -54 | 
+| 2019-11-21 | 2019-2020韓国囲碁リーグ第8節第1試合第3局 | Park Yeonghun | Lee Wondo | Lose | B+R | 6.5 | 2824 | -1 | 
+| 2019-11-10 | 2019-2020韓国囲碁リーグ第6節第4試合第5局 | Heo Yongho | Lee Wondo | Lose | B+R | 6.5 | 2825 | -55 | 
+| 2019-11-02 | 2019-2020韓国囲碁リーグ第5節第3試合第4局 | Lee Wondo | Choi Jaeyoung | Lose | W+R | 6.5 | 2880 | -5 | 
+| 2019-10-25 | 2019-2020韓国囲碁リーグ第4節第2試合第4局 | Lee Wondo | Lee Yeongkyu | Lose | W+4.5 | 6.5 | 2885 | -11 | 
+| 2019-10-17 | 2019-2020韓国囲碁リーグ第3節第1試合第5局 | Hong Seongji | Lee Wondo | Win | W+0.5 | 6.5 | 2896 | 65 | 
+| 2019-10-04 | 2019-2020韓国囲碁リーグ第2節第2試合第5局 | Kim Sangcheon | Lee Wondo | Win | W+R | 6.5 | 2831 | 60 | 
+| 2019-09-27 | 2019-2020韓国囲碁リーグ第1節第2試合第2局 | Lee Donghoon | Lee Wondo | Lose | B+R | 6.5 | 2771 | -208 | 
+| 2019-09-09 | 第3回安東市真貯蓄銀行杯プロアマオープン戦64強戦 |  | Lee Wondo | Lose | B+0.5 | 6.5 | 2979 | -17 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Park Jinyoung | Lee Wondo | Lose | B+0.5 | 6.5 | 2996 | 0 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Lee Wonyoung | Lee Wondo | Win | W+R | 6.5 | 2996 | -4 | 
+| 2019-01-24 | 第24期GSカルテックス杯24強戦 | Lee Wondo | Lee Hoseong | Lose | W+R | 6.5 | 3000 | -48 | 
+| 2018-10-20 | 2018年フューチャーズリーグ |  | Lee Wondo | Win | W+5.5 | 6.5 | 3048 | -47 | 
+| 2018-10-03 | 2018年フューチャーズリーグ | Lee Wondo | An Jungki | Win | B+R | 6.5 | 3095 | -35 | 
+| 2018-09-26 | 2018年韓国囲碁リーグ第12節 | Lee Hyeonjun | Lee Wondo | Win | W+0.5 | 6.5 | 3130 | 0 | 
+| 2018-09-23 | 2018年韓国囲碁リーグ第12節 | Kim Seongjae | Lee Wondo | Win | W+R | 6.5 | 3130 | 30 | 
+| 2018-09-16 | 2018年フューチャーズリーグ |  | Lee Wondo | Win | W+R | 6.5 | 3100 | -61 | 
+| 2018-09-01 | 2018年フューチャーズリーグ | Park Sangjin | Lee Wondo | Win | W+R | 6.5 | 3161 | 31 | 
+| 2018-08-29 | 2018年フューチャーズリーグ |  | Lee Wondo | Win | W+R | 6.5 | 3130 | 52 | 
+| 2018-08-18 | 2018年フューチャーズリーグ | Wi Taewoong | Lee Wondo | Lose | B+R | 6.5 | 3078 | -56 | 
+| 2018-08-11 | 2018年フューチャーズリーグ | Lee Wondo | Choi Kyeongho | Lose | W+R | 6.5 | 3134 | -49 | 
+| 2018-08-10 | 2018年韓国囲碁リーグ第7節 | Han Sanghoon | Lee Wondo | Lose | B+R | 6.5 | 3183 | -18 | 
+| 2018-08-04 | 2018年フューチャーズリーグ | Lee Wondo | An Jungki | Win | B+R | 6.5 | 3201 | -7 | 
+| 2018-07-21 | 2018年フューチャーズリーグ | Lee Wondo | An Joyeong | Win | B+R | 6.5 | 3208 | -20 | 
+| 2018-07-14 | 2018年フューチャーズリーグ | Lee Wondo | Kim Sedong | Win | B+R | 6.5 | 3228 | 35 | 
+| 2018-07-13 | 第20回農心杯韓国選抜戦 | Lee Wondo | Kim Seongjae | Lose | W+R | 6.5 | 3193 | -18 | 
+| 2018-07-11 | 2018年フューチャーズリーグ | Lee Wondo | Park Sangjin | Win | B+R | 6.5 | 3211 | -20 | 
+| 2018-06-23 | 2018年フューチャーズリーグ | Lee Chungyu | Lee Wondo | Lose | B+R | 6.5 | 3231 | -40 | 
+| 2018-06-17 | 2018年フューチャーズリーグ | Lee Wondo | Wi Taewoong | Win | B+R | 6.5 | 3271 | -38 | 
+| 2017-10-29 | 2017年フューチャーズリーグ | Oh Yujin | Lee Wondo | Lose | B+R | 6.5 | 3309 | -50 | 
+| 2017-10-28 | 2017年韓国囲碁リーグ | Lee Wondo | Lee Changseok | Win | B+R | 6.5 | 3359 | -3 | 
+| 2017-10-21 | 2017年フューチャーズリーグ | Park Jaekeun | Lee Wondo | Lose | B+R | 6.5 | 3362 | 22 | 
+| 2017-10-11 | 2017年フューチャーズリーグ |  | Lee Wondo | Win | W+R | 6.5 | 3340 | -19 | 
+| 2017-09-30 | 2017年フューチャーズリーグ | Park Hamin | Lee Wondo | Win | W+R | 6.5 | 3359 | 105 | 
+| 2017-09-16 | 2017年フューチャーズリーグ | Lee Wondo |  | Win | B+3.5 | 6.5 | 3254 | 3 | 
+| 2017-09-13 | 2017年フューチャーズリーグ | Park Junsuck | Lee Wondo | Win | W+R | 6.5 | 3251 | 17 | 
+| 2017-08-26 | 2017年フューチャーズリーグ | Wi Taewoong | Lee Wondo | Win | W+R | 6.5 | 3234 | 16 | 
+| 2017-08-25 | 2017年韓国囲碁リーグ | Kang Yootaek | Lee Wondo | Lose | B+1.5 | 6.5 | 3218 | -37 | 
+| 2017-08-19 | 2017年フューチャーズリーグ | Lee Wondo | An Jungki | Lose | W+R | 6.5 | 3255 | -145 | 
+| 2017-08-18 | 2017年韓国囲碁リーグ | Lee Wondo | Lee Donghoon | Win | B+R | 6.5 | 3400 | 105 | 
+| 2017-08-13 | 2017年フューチャーズリーグ | Lee Wondo | Park Jaekeun | Win | B+R | 6.5 | 3295 | 3 | 
+| 2017-08-09 | 2017年フューチャーズリーグ |  | Lee Wondo | Win | W+R | 6.5 | 3292 | 50 | 
+| 2017-07-22 | 2017年フューチャーズリーグ |  | Lee Wondo | Win | W+R | 6.5 | 3242 | 82 | 
+| 2017-07-16 | 2017年フューチャーズリーグ | Lee Wondo | Lee Hoseong | Win | B+1.5 | 6.5 | 3160 | -5 | 
+| 2017-06-11 | 2017年フューチャーズリーグ | Lee Wondo | Kim Minho | Win | B+R | 6.5 | 3165 | 129 | 
+| 2017-06-03 | 2017年フューチャーズリーグ | An Joyeong | Lee Wondo | Win | W+T | 6.5 | 3036 | 3036 | 
+| 2017-05-21 | 2017年フューチャーズリーグ | Lee Hyungjin | Lee Wondo | Lose | B+4.5 | 6.5 | missing | 0 | 
+| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Lee Wondo | Kang Seungmin | Lose | W+R | 6.5 | missing | 0 | 
+| 2015-01-28 | 第20期GSカルテックス杯プロ棋戦1回戦 | Kim Junghyun | Lee Wondo | Lose | B+R | 6.5 | missing | -3083 | 
+| 2013-10-25 | 2013年韓国囲碁リーグ | An Sungjoon | Lee Wondo | Lose | B+R | 6.5 | 3083 | -55 | 
+| 2013-09-20 | 第4期Olleh杯オープン選手権3回戦 | Lee Wondo | Park Yeonghun | Lose | W+R | 6.5 | 3138 | -158 | 
+| 2013-07-21 | 2013年韓国囲碁リーグ | Park Junghwan | Lee Wondo | Lose | B+R | 6.5 | 3296 | -13 | 
+| 2013-07-19 | 第15回農心杯韓国選抜戦 | Lee Wondo |  | Win | B+R | 6.5 | 3309 | 173 | 
+| 2013-06-28 | 2013年韓国囲碁リーグ | Kim Junghyun | Lee Wondo | Lose | B+R | 6.5 | 3136 | 124 | 
+| 2013-02-06 | 第18期GSカルテックス杯プロ棋戦2回戦 | Lee Wondo | Kim Seongjae | Lose | W+R | 6.5 | 3012 | -17 | 
+| 2013-01-02 | 第18期GSカルテックス杯プロ棋戦1回戦 | Lee Wondo | An Sungjoon | Win | B+4.5 | 7.5 | 3029 | -74 | 
+| 2012-09-23 | 2012年韓国囲碁リーグ | Lee Taehyun | Lee Wondo | Lose | B+R | 6.5 | 3103 | -15 | 
+| 2012-09-14 | 2012年韓国囲碁リーグ | Han Wonggyu | Lee Wondo | Win | W+R | 6.5 | 3118 | 122 | 
+| 2012-09-01 | 2012年韓国囲碁リーグ | Lee Wondo | Kang Yootaek | Win | B+3.5 | 6.5 | 2996 | 240 | 
+| 2012-08-02 | 2012年韓国囲碁リーグ | Lee Wondo | Lee Wonyoung | Lose | W+R | 6.5 | 2756 | -116 | 
+| 2012-07-20 | 第40期名人戦（韓国）予選 | Lee Wondo | Kim Jiseok | Lose | W+R | 6.5 | 2872 | 11 | 
+| 2012-06-30 | 2012年韓国囲碁リーグ | Lee Wondo | Kim Jiseok | Lose | W+R | 6.5 | 2861 | -53 | 
+| 2012-05-10 | 2012年韓国囲碁リーグ |  | Lee Wondo | Lose | B+R | 6.5 | 2914 | -134 | 
+| 2012-05-05 | 2012年韓国囲碁リーグ | Lee Changho | Lee Wondo | Lose | B+R | 6.5 | 3048 | 12 | 
+| 2012-04-22 | 2012年韓国囲碁リーグ | Lee Wondo | Cho Hunhyun | Lose | W+R | 6.5 | 3036 | -159 | 
+| 2012-04-15 | 2012年韓国囲碁リーグ | Lee Wondo | Park Seunghyeon | Lose | W+R | 6.5 | 3195 | -128 | 
+| 2012-03-19 | 第4回BCカード杯世界選手権2回戦 | Tan Xiao | Lee Wondo | Lose | B+R | 6.5 | 3323 | -139 | 
+| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Lee Wondo | Hong Kipyo | Win | B+R | 6.5 | 3462 | 3462 | 
+| 2011-09-21 | 第7期圓益杯十段戦1回戦 | Lee Wondo | Yang Wooseok | Lose | W+R | 6.5 | missing | 0 | 
+| 2011-07-04 | 第13回農心杯韓国選抜戦 | Lee Wondo | Weon Seongjin | Lose | W+R | 6.5 | missing | 0 | 
+| 2010-12-19 | 2010年韓国囲碁リーグ | Lee Sedol | Lee Wondo | Lose | B+R | 6.5 | missing | -3197 | 
+| 2010-08-05 | 第15回三星火災杯統合予選準決勝 | Lee Wondo | Lin Shuyang | Lose | Void | 6.5 | 3197 | 26 | 
+| 2009-10-25 | 2009年韓国囲碁リーグ | Lee Wondo | Jin Donggyu | Win | B+2.5 | 6.5 | 3171 | 18 | 
+| 2009-10-15 | 2009年韓国囲碁リーグ | Lee Wondo | Kang Yootaek | Lose | W+R | 6.5 | 3153 | -29 | 
+| 2009-10-08 | 2009年韓国囲碁リーグ | Hong Minpyo | Lee Wondo | Win | W+R | 6.5 | 3182 | 6 | 
+| 2009-09-06 | 2009年韓国囲碁リーグ | Lee Wondo | Lee Yeongkyu | Win | B+R | 6.5 | 3176 | 98 | 
+| 2009-08-02 | 2009年韓国囲碁リーグ | Lee Wondo | An Sungjoon | Win | B+5.5 | 6.5 | 3078 | -7 | 
+| 2009-07-24 | 2009年韓国囲碁リーグ | Lee Wondo |  | Win | B+R | 6.5 | 3085 | -3 | 
+| 2009-07-05 | 2009年韓国囲碁リーグ | Lee Wondo | Choi Myeonghun | Lose | W+1.5 | 6.5 | 3088 | 1 | 
+| 2009-06-21 | 2009年韓国囲碁リーグ | Kim Seongjae | Lee Wondo | Lose | B+0.5 | 6.5 | 3087 | 58 | 
+| 2009-06-06 | 2009年韓国囲碁リーグ | Lee Wondo | Han Wonggyu | Win | B+R | 6.5 | 3029 | -146 | 
+| 2009-03-02 | 第1回BCカード杯世界選手権1回戦 | Lee Wondo | Gu Li | Lose | W+R | 6.5 | 3175 | 136 | 
+| 2008-12-04 | 第12期SKガス杯新鋭プロ十傑戦九位決定戦 |  | Lee Wondo | Win | W+R | 6.5 | 3039 | 205 | 
+| 2008-11-04 | 第12期SKガス杯新鋭プロ十傑戦リーグA | Kim Jiseok | Lee Wondo | Lose | B+5.5 | 6.5 | 2834 | -20 | 
+| 2008-11-02 | 2008年韓国囲碁リーグ | Hong Seongji | Lee Wondo | Win | W+0.5 | 6.5 | 2854 | -530 | 
+| 2008-10-16 | 2008年韓国囲碁リーグ | Park Cheongsang | Lee Wondo | Lose | B+R | 6.5 | 3384 | 15 | 
+| 2008-10-02 | 2008年韓国囲碁リーグ | Lee Sedol | Lee Wondo | Win | W+R | 6.5 | 3369 | 44 | 
+| 2008-09-28 | 2008年韓国囲碁リーグ | Kim Kiyoung | Lee Wondo | Win | W+R | 6.5 | 3325 | 10 | 
+| 2008-09-18 | 第4期圓益杯十段戦2回戦 | Lee Wondo | Yue Liang | Lose | W+3.5 | 6.5 | 3315 | 2 | 
+| 2008-09-11 | 2008年韓国囲碁リーグ | Lee Wondo | Han Sanghoon | Lose | W+R | 6.5 | 3313 | -47 | 
+| 2008-09-09 | 第12期SKガス杯新鋭プロ十傑戦リーグA | Park Junghwan | Lee Wondo | Lose | B+R | 6.5 | 3360 | -60 | 
+| 2008-08-14 | 第4期圓益杯十段戦1回戦 | Jin Siyoung | Lee Wondo | Win | W+0.5 | 6.5 | 3420 | 278 | 
+| 2008-07-10 | 第12期SKガス杯新鋭プロ十傑戦リーグA |  | Lee Wondo | Win | W+R | 6.5 | 3142 | -12 | 
+| 2008-07-05 | 2008年韓国囲碁リーグ | Lee Wondo | On Sojin | Lose | W+R | 6.5 | 3154 | -151 | 
+| 2008-06-07 | 2008年韓国囲碁リーグ | Hong Minpyo | Lee Wondo | Win | W+5.5 | 6.5 | 3305 | 3305 | 
+| 2008-05-20 | 第12期SKガス杯新鋭プロ十傑戦リーグA | Kim Sooyong | Lee Wondo | Win | W+R | 6.5 | missing | 0 | 
+| 2008-05-16 | 2008年韓国囲碁リーグ | Lee Wondo | Yoo Changhyuk | Win | B+1.5 | 6.5 | missing | 0 | 
+| 2008-05-02 | 2008年韓国囲碁リーグ | Lee Wondo |  | Win | B+R | 6.5 | missing | 0 | 
+| 2008-04-13 | 2008年韓国囲碁リーグ | Lee Wondo | Kim Hyeongwoo | Win | B+R | 6.5 | missing | 0 | 
+| 2008-02-18 | 第12期SKガス杯新鋭プロ十傑戦リーグA | Lee Taehyun | Lee Wondo | Lose | B+R | 6.5 | missing | missing |
 
 
 

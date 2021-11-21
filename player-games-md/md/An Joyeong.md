@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-20 | 2021-2022フューチャーズリーグ | An Joyeong | Lee Wondo | Lose | W+R | 6.5 | 3139 | -63 | 
 | 2021-11-17 | 第3期ソパルコサノル最高棋士決定戦予選 | An Joyeong | Kim Jiseok | Lose | W+R | 6.5 | 3202 | -23 | 
 | 2021-10-20 | 第3期ソパルコサノル最高棋士決定戦予選 | An Joyeong |  | Win | B+R | 6.5 | 3225 | 108 | 
 | 2021-09-21 | 第15回GGオークション杯女流対シニア連勝対抗戦第18局 | Cho Seungah | An Joyeong | Lose | B+R | 6.5 | 3117 | -29 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-20 | 2021-2022フューチャーズリーグ | Lee Hyeonjun | Hyun Yoobin | Win | W+R | 6.5 | 3143 | 39 | 
 | 2021-11-09 | 第3回大統領杯全国囲碁大会予選 | Hyun Yoobin | Song Gyusang | Win | B+1.5 | 6.5 | 3104 | 46 | 
 | 2021-09-23 | 第3期ソパルコサノル最高棋士決定戦予選 | Hyun Yoobin | Lee Changho | Lose | W+R | 6.5 | 3058 | -13 | 
 | 2021-09-08 | 第2期利鵬杯新鋭最高位戦決勝 | Hyun Yoobin | Kim Beomseo | Lose | W+R | 6.5 | 3071 | 35 | 

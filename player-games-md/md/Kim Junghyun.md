@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-20 | 2021-2022韓国囲碁リーグ | Lee Taehyun | Kim Junghyun | Lose | B+R | 6.5 | 3411 | -7 | 
 | 2021-11-17 | 第7回国手山脈韓国国内トーナメント予選 | Lee Yeongkyu | Kim Junghyun | Win | W+R | 6.5 | 3418 | -6 | 
 | 2021-11-16 | 第7回国手山脈韓国国内トーナメント予選 | Kim Junghyun | Kim Sedong | Win | B+R | 6.5 | 3424 | 87 | 
 | 2021-06-20 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Shin Minjun | Kim Junghyun | Lose | B+R | 6.5 | 3337 | -46 | 

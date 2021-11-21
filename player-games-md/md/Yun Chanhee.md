@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-20 | 2021-2022韓国囲碁リーグ | Yun Chanhee | Kim Hyeongwoo | Win | B+R | 6.5 | 3466 | 36 | 
 | 2021-11-08 | 第3回大統領杯全国囲碁大会予選 | Weon Seongjin | Yun Chanhee | Win | W+R | 6.5 | 3430 | 28 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Yun Chanhee | Peng Liyao | Lose | W+R | 6.5 | 3402 | -139 | 
 | 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Han Seungjoo | Yun Chanhee | Win | W+R | 6.5 | 3541 | 3541 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-20 | 2021-2022韓国囲碁リーグ | Song Jihoon | Ahn Kukhyun | Lose | W+R | 6.5 | 3171 | -44 | 
 | 2021-09-23 | 第7回国手山脈国際囲碁大会韓国予選 | Song Jihoon | Kim Seongjae | Lose | W+0.5 | 6.5 | 3215 | 17 | 
 | 2021-07-21 | 第23回農心杯韓国予選 | Lee Donghoon | Song Jihoon | Lose | B+R | 6.5 | 3198 | -31 | 
 | 2021-07-14 | 第23回農心杯韓国予選 | Song Jihoon | Lee Hyeonwuk | Win | B+R | 6.5 | 3229 | -171 | 

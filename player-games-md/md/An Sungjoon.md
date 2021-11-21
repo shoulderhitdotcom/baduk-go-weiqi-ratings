@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-20 | 2021-2022韓国囲碁リーグ | An Sungjoon | Kang Dongyun | Lose | W+R | 6.5 | 3390 | 11 | 
 | 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | An Sungjoon | Lian Xiao | Lose | W+0.5 | 6.5 | 3379 | 4 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Fang Ruoxi | An Sungjoon | Win | W+R | 6.5 | 3375 | -11 | 
 | 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Choi Jaeyoung | An Sungjoon | Lose | B+R | 6.5 | 3386 | 4 | 

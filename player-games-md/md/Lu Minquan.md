@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-22 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第1戦 |  | Lu Minquan | Lose | B+R | 7.5 | 3112 | 19 | 
 | 2021-10-19 | 第9回中国女子囲碁甲級リーグ | Wang Shuang | Lu Minquan | Lose | B+R | 7.5 | 3093 | -165 | 
 | 2021-10-18 | 第9回中国女子囲碁甲級リーグ | Zhan Ying | Lu Minquan | Win | W+R | 7.5 | 3258 | 6 | 
 | 2021-10-17 | 第9回中国女子囲碁甲級リーグ | Li He | Lu Minquan | Win | W+R | 7.5 | 3252 | 10 | 

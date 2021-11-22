@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Gu Zihao | Chen Xian | Lose | B+¾ | 7.5 | 3543 | 26 | 
 | 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Li Xuanhao | Chen Xian | Lose | B+R | 7.5 | 3517 | -29 | 
 | 2021-10-11 | 第7回国手山脈国際囲碁大会中国予選 | Ding Hao | Chen Xian | Lose | B+2.5 | 6.5 | 3546 | 5 | 
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Mi Yuting | Chen Xian | Lose | B+R | 7.5 | 3541 | -2 | 

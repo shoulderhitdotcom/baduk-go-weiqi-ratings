@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-22 | 第3期ソパルコサノル最高棋士決定戦予選 | Hong Mujin | Wi Taewoong | Win | B+R | 6.5 | 3439 | 41 | 
+| 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 | Hong Mujin | Park Hamin | Lose | W+R | 6.5 | 3398 | -1 | 
 | 2021-11-17 | 第7回国手山脈韓国国内トーナメント予選 | Hong Mujin | Cho Hanseung | Win | B+R | 6.5 | 3399 | -66 | 
 | 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Hong Mujin | Choi Jaeyoung | Win | B+R | 6.5 | 3465 | 203 | 
 | 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Ahn Kukhyun | Hong Mujin | Win | W+3.5 | 6.5 | 3262 | 3262 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-22 | 第47期新人王予選 | Nakamura Sumire |  | Win | B+4.5 | 6.5 | 2715 | 87 | 
 | 2021-11-13 | フマキラー囲碁女流ブレーンズマッチ決勝  | Xie Yimin | Nakamura Sumire | Lose | B+R | 6.5 | 2628 | 2628 | 
 | 2021-11-11 | 第25期女流棋聖戦2回戦 | Nakamura Sumire | Suzuki Ayumi | Lose | W+0.5 | 6.5 | missing | -2661 | 
 | 2021-10-28 | 第25期女流棋聖戦1回戦 | Nakamura Sumire | Wang Jingyi | Win | B+R | 6.5 | 2661 | 3 | 

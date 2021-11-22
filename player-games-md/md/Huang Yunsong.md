@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Tang Weixing | Huang Yunsong | Win | W+R | 7.5 | 3593 | 17 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yunsong | Mi Yuting | Lose | W+R | 7.5 | 3576 | 15 | 
 | 2021-11-01 | 第7回国手山脈国際囲碁大会中国予選 | Zhao Chenyu | Huang Yunsong | Win | W+R | 6.5 | 3561 | -21 | 
 | 2021-10-14 | 第7回国手山脈国際囲碁大会中国予選 | Ding Hao | Huang Yunsong | Win | W+R | 6.5 | 3582 | 12 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-22 | 2021韓国シニア囲碁リーグ | Oh Kyuchul | Park Yeongchan | Win | B+1.5 | 6.5 | 2506 | 84 | 
 | 2021-11-15 | 2021韓国シニア囲碁リーグ | Kim Ilhwan | Oh Kyuchul | Lose | B+1.5 | 6.5 | 2422 | 38 | 
 | 2021-11-02 | 2021韓国シニア囲碁リーグ | Oh Kyuchul | Chang Suyeong | Win | B+R | 6.5 | 2384 | -103 | 
 | 2021-10-27 | 2021韓国シニア囲碁リーグ |  | Oh Kyuchul | Lose | B+7.5 | 6.5 | 2487 | 19 | 

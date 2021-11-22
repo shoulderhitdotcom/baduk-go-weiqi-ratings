@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-22 | 第61期十段戦予選 | Kato Atsushi | Ryu Shikun | Win | B+R | 6.5 | 2794 | -313 | 
 | 2021-11-18 | 第78期本因坊戦予選 | Kato Atsushi | Takemiya Masaki | Lose | W+5.5 | 6.5 | 3107 | 8 | 
 | 2021-10-21 | 第61期十段戦予選 | Kato Atsushi | Kobayashi Koichi | Win | B+1.5 | 6.5 | 3099 | 3099 | 
 | 2021-09-16 | 第47期碁聖戦予選 | Kato Atsushi | Hsu Chiayuan | Lose | W+R | 6.5 | missing | -2357 | 

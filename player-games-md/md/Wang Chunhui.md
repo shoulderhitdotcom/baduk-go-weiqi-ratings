@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-22 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第1戦 | Fang Ruoxi | Wang Chunhui | Lose | B+R | 7.5 | 3193 | -46 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Wang Chunhui | He Yuhan | Lose | W+R | 7.5 | 3239 | -11 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Chen Xian | Wang Chunhui | Lose | B+R | 7.5 | 3250 | 2 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Lian Xiao | Lose | W+R | 7.5 | 3248 | -15 | 

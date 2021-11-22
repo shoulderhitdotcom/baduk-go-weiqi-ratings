@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-22 | 第3期ソパルコサノル最高棋士決定戦予選 | Hong Mujin | Wi Taewoong | Lose | B+R | 6.5 | 3704 | 3704 | 
 | 2021-11-20 | 2021-2022フューチャーズリーグ | Kim Daeyoung | Wi Taewoong | Win | W+R | 6.5 | missing | 0 | 
 | 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Park Sangjin | Wi Taewoong | Win | W+R | 6.5 | missing | 0 | 
 | 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Jin Siyoung | Wi Taewoong | Win | W+R | 6.5 | missing | 0 | 

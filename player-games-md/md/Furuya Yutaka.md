@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-24 | 第48期天元戦予選 | Yuki Satoshi | Furuya Yutaka | Lose | B+3.5 | 6.5 | 2781 | -53 | 
+| 2021-09-02 | 第46期棋聖戦Cリーグ | Furuya Yutaka | Shuto Shun | Lose | W+R | 6.5 | 2834 | 53 | 
 | 2021-07-28 | 第46期棋聖戦Cリーグ | Furuya Yutaka | Kubo Katsuaki | Lose | W+4.5 | 6.5 | 2781 | 132 | 
 | 2021-06-30 | 第46期棋聖戦Cリーグ |  | Furuya Yutaka | Win | W+6.5 | 6.5 | 2649 | 3 | 
 | 2021-05-27 | 第46期棋聖戦Cリーグ | Chang Rueijie | Furuya Yutaka | Lose | B+R | 6.5 | 2646 | -83 | 

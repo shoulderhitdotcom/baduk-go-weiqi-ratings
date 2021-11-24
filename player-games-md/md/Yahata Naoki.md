@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-24 | 第47期新人王戦予選 |  | Yahata Naoki | Lose | B+R | 6.5 | missing | 0 | 
 | 2021-08-11 | 第47期碁聖戦予選 | Yu Zhengqi | Yahata Naoki | Lose | B+6.5 | 6.5 | missing | -2598 | 
 | 2021-04-21 | 第60期十段戦予選 | Nishi Takenobu | Yahata Naoki | Lose | B+R | 6.5 | 2598 | 24 | 
 | 2021-03-17 | 第60期十段戦予選 | Hatanaka Hoshinobu | Yahata Naoki | Win | W+2.5 | 6.5 | 2574 | 51 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-24 | 第22期阿含・桐山杯中国早碁オープン戦準決勝 | Yang Dingxin | Huang Yunsong | Lose | W+R | 7.5 | 3625 | -4 | 
 | 2021-11-23 | 第22期阿含・桐山杯中国早碁オープン戦2回戦 | Tong Mengcheng | Yang Dingxin | Win | W+R | 7.5 | 3629 | -62 | 
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Yang Dingxin | Liu Yuhang | Win | B+R | 7.5 | 3691 | 19 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Yang Dingxin | Fan Tingyu | Lose | W+R | 7.5 | 3672 | -9 | 

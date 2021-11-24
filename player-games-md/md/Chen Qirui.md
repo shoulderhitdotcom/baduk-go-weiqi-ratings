@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-24 | 第2回UMC聯電杯早碁争覇戦4回戦  | Chen Qirui | Wang Yuanjun | Lose | W+R | 6.5 | 3218 | -4 | 
 | 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦  | Chen Qirui | Lin Lixiang | Win | B+R | 6.5 | 3222 | -27 | 
 | 2021-11-21 | 第9期中環碁聖戦決勝三番勝負第3局 | Chen Qirui | Wang Yuanjun | Lose | W+R | 6.5 | 3249 | 17 | 
 | 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Lin Ziyuan | Chen Qirui | Win | W+R | 6.5 | 3232 | -11 | 

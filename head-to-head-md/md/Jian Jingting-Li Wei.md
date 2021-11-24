@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jian Jingting vs Li Wei** | **Jian Jingting streak** | **Li Wei streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Li Wei | Jian Jingting | W+5.5 | 6.5 | 9:4 | 2 | 0 | 
 | 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 | Li Wei | Jian Jingting | W+R | 6.5 | 8:4 | 1 | 0 | 
 | 2021-04-26 | 第11期友士杯十段戦勝部1回戦 | Li Wei | Jian Jingting | B+0.5 | 6.5 | 7:4 | 0 | 1 | 
 | 2021-01-21 | 第13回海峰杯プロ囲碁戦3回戦 | Jian Jingting | Li Wei | B+R | 6.5 | 7:3 | 4 | 0 | 

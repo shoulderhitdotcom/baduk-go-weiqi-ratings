@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦 | Chen Shiyuan | Yang Zixuan | Lose | W+3.5 | 6.5 | 3026 | -16 | 
 | 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Chen Shiyuan | Lin Shimin | Win | B+4.5 | 6.5 | 3042 | 79 | 
 | 2021-10-19 | 第9期中環碁聖戦8強戦 | Xu Haohong | Chen Shiyuan | Lose | B+R | 6.5 | 2963 | -49 | 
 | 2021-10-13 | 第7回国手山脈国際囲碁大会台湾予選 | Wang Yuanjun | Chen Shiyuan | Lose | B+R | 6.5 | 3012 | 11 | 

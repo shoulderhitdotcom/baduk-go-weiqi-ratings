@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦 | Chen Shiyuan | Yang Zixuan | Win | W+3.5 | 6.5 | 2733 | 4 | 
 | 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦  | Yang Zixuan | Zhou Yinnan | Win | B+R | 6.5 | 2729 | -2 | 
 | 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Yang Zixuan | Chen Shiyuan | Lose | W+R | 6.5 | 2731 | 8 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 |  | Yang Zixuan | Win | W+R | 6.5 | 2723 | 17 | 

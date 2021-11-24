@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-23 | 第3期ソパルコサノル最高棋士決定戦予選 | Baek Hyeonwoo | Cho Hanseung | Lose | W+2.5 | 6.5 | 3334 | -197 | 
 | 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Sedong | Baek Hyeonwoo | Win | W+R | 6.5 | 3531 | 3531 | 
 | 2021-10-04 | 第3期ソパルコサノル最高棋士決定戦予選 | Shin Jaeweon | Baek Hyeonwoo | Win | W+R | 6.5 | missing | -3386 | 
 | 2021-09-06 | 2021電子ランド杯新鋭トーナメント準決勝 | Gon Jiwoo | Baek Hyeonwoo | Lose | B+R | 6.5 | 3386 | 7 | 

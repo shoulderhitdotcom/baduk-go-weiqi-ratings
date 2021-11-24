@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-23 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第2戦 | Fang Ruoxi | Xu Yidi | Lose | W+R | 7.5 | 2922 | -94 | 
 | 2021-11-22 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第1戦 | Fang Ruoxi | Wang Chunhui | Win | B+R | 7.5 | 3016 | 32 | 
 | 2021-10-25 | 第9回中国女子囲碁甲級リーグ |  | Fang Ruoxi | Win | W+R | 7.5 | 2984 | 3 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Fang Ruoxi | An Sungjoon | Lose | W+R | 6.5 | 2981 | -143 | 

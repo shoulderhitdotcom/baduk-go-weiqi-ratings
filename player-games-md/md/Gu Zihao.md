@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-23 | 第22期阿含・桐山杯中国早碁オープン戦2回戦 | Tuo Jiaxi | Gu Zihao | Win | W+R | 7.5 | 3633 | -60 | 
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Gu Zihao | Chen Xian | Win | B+¾ | 7.5 | 3693 | 48 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Tan Xiao | Gu Zihao | Lose | B+R | 7.5 | 3645 | -13 | 
 | 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Xu Jiayang | Gu Zihao | Win | W+R | 7.5 | 3658 | -9 | 

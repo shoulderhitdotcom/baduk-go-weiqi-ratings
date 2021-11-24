@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦 | Li Wei | Xiao Zhenghao | Lose | W+R | 6.5 | 2924 | -48 | 
+| 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Li Wei | Jian Jingting | Lose | W+5.5 | 6.5 | 2972 | 0 | 
+| 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Cai Chengwei | Li Wei | Win | W+R | 6.5 | 2972 | -9 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 |  | Li Wei | Win | W+R | 6.5 | 2981 | -3 | 
 | 2021-10-03 | 第9期中環碁聖戦16強戦 | Li Wei | Lu Yiquan | Lose | W+R | 6.5 | 2984 | -9 | 
 | 2021-10-01 | 2021新人王戦（台湾）2回戦 | Li Wei | Lin Shixun | Lose | W+R | 7.5 | 2993 | -17 | 

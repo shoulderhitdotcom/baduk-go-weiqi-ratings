@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦  | Lin Junyan | Zhou Junxun | Win | W+R | 6.5 | missing | 0 | 
 | 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 | Zhou Junxun |  | Win | B+R | 6.5 | missing | -3239 | 
 | 2020-11-07 | 第1回UMC聯電杯早碁争覇戦4回戦  | Wang Yuanjun | Zhou Junxun | Lose | B+R | 6.5 | 3239 | -74 | 
 | 2020-10-28 | 第1回UMC聯電杯早碁争覇戦3回戦 |  | Zhou Junxun | Win | W+R | 6.5 | 3313 | 7 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-23 | 第22期阿含・桐山杯中国早碁オープン戦2回戦 | Huang Yunsong | Fan Tingyu | Lose | B+R | 7.5 | 3540 | -72 | 
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Fan Tingyu | Zheng Xu | Win | B+1¾ | 7.5 | 3612 | 18 | 
 | 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Fan Tingyu | Dang Yifei | Lose | W+¼ | 7.5 | 3594 | 0 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Yang Dingxin | Fan Tingyu | Win | W+R | 7.5 | 3594 | 12 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦  | Chen Qirui | Lin Lixiang | Lose | B+R | 6.5 | 3082 | -31 | 
 | 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Lin Lixiang |  | Win | B+R | 6.5 | 3113 | 40 | 
 | 2021-10-28 | 第14期棋王戦（台湾）リーグ  | Lin Lixiang | Xiao Zhenghao | Win | B+0.5 | 6.5 | 3073 | -1 | 
 | 2021-10-25 | 第14期棋王戦（台湾）リーグ  | Lin Lixiang | Lin Junyan | Lose | W+R | 6.5 | 3074 | 0 | 

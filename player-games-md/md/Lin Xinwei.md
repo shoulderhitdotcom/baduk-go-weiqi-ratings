@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦 | Lin Xinwei | Jian Jingting | Lose | W+3.5 | 6.5 | 2731 | -16 | 
 | 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦  | Lin Xinwei | Yu Lijun | Win | B+R | 6.5 | 2747 | 28 | 
 | 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 | Lin Xinwei |  | Win | B+R | 6.5 | 2719 | -19 | 
 | 2021-10-03 | 第9期中環碁聖戦16強戦 | Lin Xinwei | Lin Junyan | Lose | W+R | 6.5 | 2738 | -18 | 

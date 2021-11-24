@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦  | Lin Junyan | Zhou Junxun | Lose | W+R | 6.5 | 3229 | -74 | 
 | 2021-11-22 | 第14期棋王戦（台湾）挑戦手合七番勝負第5局  | Lin Junyan | Xu Haohong | Win | B+2.5 | 6.5 | 3303 | 67 | 
 | 2021-11-18 | 第14期棋王戦（台湾）挑戦手合七番勝負第4局  | Xu Haohong | Lin Junyan | Win | W+R | 6.5 | 3236 | 1 | 
 | 2021-11-15 | 第14期棋王戦（台湾）挑戦手合七番勝負第3局  | Lin Junyan | Xu Haohong | Lose | W+R | 6.5 | 3235 | 3235 | 

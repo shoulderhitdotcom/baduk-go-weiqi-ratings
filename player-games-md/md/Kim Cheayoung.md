@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-23 | 第5回クラウン・ヘテ杯予選 |  | Kim Cheayoung | Lose | B+R | 6.5 | 2635 | 2635 | 
+| 2021-11-11 | 第3回大統領杯全国囲碁大会予選 | Kim Cheayoung |  | Lose | W+R | 6.5 | missing | -2747 | 
+| 2021-11-02 | 第5期韓国製紙女子棋聖戦1回戦 |  | Kim Cheayoung | Lose | B+R | 6.5 | 2747 | 3 | 
 | 2021-10-29 | 2021女子最高棋士決定戦（韓国）リーグ | Lee Minjin | Kim Cheayoung | Lose | B+R | 6.5 | 2744 | -38 | 
 | 2021-10-22 | 第26期女流国手戦準決勝 | Kim Cheayoung | Oh Yujin | Lose | W+R | 6.5 | 2782 | 2782 | 
 | 2021-10-04 | 第15回GGオークション杯女流対シニア連勝対抗戦第21局 | Lee Changho | Kim Cheayoung | Lose | B+R | 6.5 | missing | -2820 | 

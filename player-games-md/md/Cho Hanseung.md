@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-23 | 第3期ソパルコサノル最高棋士決定戦予選 | Baek Hyeonwoo | Cho Hanseung | Win | W+2.5 | 6.5 | 3326 | -14 | 
+| 2021-11-19 | 2021-2022韓国囲碁リーグ | Park Sangjin | Cho Hanseung | Win | W+R | 6.5 | 3340 | 5 | 
 | 2021-11-17 | 第7回国手山脈韓国国内トーナメント予選 | Hong Mujin | Cho Hanseung | Lose | B+R | 6.5 | 3335 | -14 | 
 | 2021-11-08 | 第3回大統領杯全国囲碁大会予選 | Cho Hanseung | Kim Beomseo | Win | B+R | 6.5 | 3349 | 4 | 
 | 2021-11-01 | 2021中日韓聶衛平杯囲碁マスターズ3回戦 | Cho Hanseung | Gu Li | Win | B+R | 7.5 | 3345 | 21 | 

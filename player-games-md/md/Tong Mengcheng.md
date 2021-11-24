@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-23 | 第22期阿含・桐山杯中国早碁オープン戦2回戦 | Tong Mengcheng | Yang Dingxin | Lose | W+R | 7.5 | 3425 | -66 | 
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Xie Ke | Tong Mengcheng | Win | W+¼ | 7.5 | 3491 | 30 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tong Mengcheng | Zhao Chenyu | Lose | W+1¼ | 7.5 | 3461 | 2 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Xia Chenkun | Win | B+R | 7.5 | 3459 | 6 | 

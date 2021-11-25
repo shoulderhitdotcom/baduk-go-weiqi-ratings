@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-24 | 2021韓国シニア囲碁リーグ | Seo Nungwuk | Park Seungmun | Lose | B+R | 6.5 | 2550 | -18 | 
 | 2021-11-17 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Park Seungmun | Win | W+1.5 | 6.5 | 2568 | 91 | 
 | 2021-11-01 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Park Seungmun | Lose | B+R | 6.5 | 2477 | -61 | 
 | 2021-10-28 | 2021韓国シニア囲碁リーグ | Kim Dongmyeon | Park Seungmun | Win | W+2.5 | 6.5 | 2538 | -26 | 

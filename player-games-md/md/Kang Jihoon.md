@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-24 | 2021-2022フューチャーズリーグ | Kang Jihoon |  | Lose | W+9.5 | 6.5 | 3155 | -341 | 
 | 2021-08-19 | 第26回三星火災杯韓国予選 | Park Yeonghun | Kang Jihoon | Lose | B+R | 6.5 | 3496 | -188 | 
 | 2021-01-15 | 第44期名人戦（韓国）予選 | Kang Jihoon | Cho Seungah | Win | B+R | 6.5 | 3684 | -14 | 
 | 2020-11-21 | 第2回大統領杯全国囲碁大会2回戦 | Kang Jihoon | Song Jihoon | Lose | W+R | 6.5 | 3698 | 0 | 

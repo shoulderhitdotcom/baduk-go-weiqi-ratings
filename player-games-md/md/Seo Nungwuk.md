@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-24 | 2021韓国シニア囲碁リーグ | Seo Nungwuk | Park Seungmun | Win | B+R | 6.5 | 2745 | 9 | 
 | 2021-11-04 | 2021韓国シニア囲碁リーグ | Seo Nungwuk | Jeong Daesang | Win | B+R | 6.5 | 2736 | 26 | 
 | 2021-10-27 | 2021韓国シニア囲碁リーグ | Kim Soojang | Seo Nungwuk | Win | W+5.5 | 6.5 | 2710 | -140 | 
 | 2021-10-18 | 2021韓国シニア囲碁リーグ | Park Yeongchan | Seo Nungwuk | Win | W+R | 6.5 | 2850 | -3 | 

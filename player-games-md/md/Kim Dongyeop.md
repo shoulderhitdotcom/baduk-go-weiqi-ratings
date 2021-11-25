@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-24 | 2021韓国シニア囲碁リーグ | Cho Daehyeon | Kim Dongyeop | Lose | B+3.5 | 6.5 | 2556 | 51 | 
 | 2021-11-04 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Choi Kyubyeong | Lose | W+0.5 | 6.5 | 2505 | -57 | 
 | 2021-10-27 | 2021韓国シニア囲碁リーグ | Kim Dongyeop |  | Win | B+5.5 | 6.5 | 2562 | -176 | 
 | 2021-10-18 | 2021韓国シニア囲碁リーグ | Kim Dongyeop | Kim Dongmyeon | Win | B+5.5 | 6.5 | 2738 | 70 | 

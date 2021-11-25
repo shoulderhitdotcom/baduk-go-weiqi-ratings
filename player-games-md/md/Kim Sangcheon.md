@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-24 | 2021-2022フューチャーズリーグ | Gang Woohyeok | Kim Sangcheon | Lose | B+R | 6.5 | 3058 | -65 | 
+| 2021-08-26 | 第2期利鵬杯新鋭最高位戦準決勝 | Kim Sangcheon | Kim Beomseo | Lose | W+R | 6.5 | 3123 | 75 | 
 | 2021-08-05 | 第2期利鵬杯新鋭最高位戦8強戦 | Kim Sangcheon | Choi Kyeongho | Win | B+R | 6.5 | 3048 | -292 | 
 | 2021-03-04 | 2020-2021フューチャーズリーグ |  | Kim Sangcheon | Win | W+R | 6.5 | 3340 | -24 | 
 | 2021-02-20 | 2020-2021フューチャーズリーグ | Kim Sangcheon | Kim Minho | Win | B+R | 6.5 | 3364 | -62 | 

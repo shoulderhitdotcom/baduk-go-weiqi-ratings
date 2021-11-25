@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-24 | 2021韓国シニア囲碁リーグ | Kim Kihun |  | Win | B+0.5 | 6.5 | 2555 | -33 | 
 | 2021-11-17 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kang Hun | Lose | W+0.5 | 6.5 | 2588 | -28 | 
 | 2021-11-01 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Ilhwan | Win | B+5.5 | 6.5 | 2616 | 36 | 
 | 2021-10-28 | 2021韓国シニア囲碁リーグ | Kim Kihun | Park Yeongchan | Win | B+2.5 | 6.5 | 2580 | -58 | 

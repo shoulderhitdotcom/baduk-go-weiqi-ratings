@@ -7,6 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-25 | 第25期女流棋聖戦準決勝 | Suzuki Ayumi | Mukai Chiaki | Win | B+R | 6.5 | 2953 | 2953 | 
+| 2021-11-11 | 第25期女流棋聖戦2回戦 | Nakamura Sumire | Suzuki Ayumi | Win | W+0.5 | 6.5 | missing | -2923 | 
+| 2021-10-21 | 第48期天元戦予選 | Suzuki Ayumi | Cho U | Lose | W+R | 6.5 | 2923 | 4 | 
+| 2021-09-10 | 第6回扇興杯女流最強戦準決勝  | Fujisawa Rina | Suzuki Ayumi | Lose | B+R | 6.5 | 2919 | 2919 | 
+| 2021-08-12 | 第6回扇興杯女流最強戦2回戦 | Nakamura Sumire | Suzuki Ayumi | Win | W+3.5 | 6.5 | missing | -2838 | 
 | 2021-07-22 | 第40期女流本因坊戦準決勝  | Suzuki Ayumi | Hoshiai Shiho | Lose | W+0.5 | 6.5 | 2838 | -31 | 
 | 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Suzuki Ayumi | Wang Chenxing | Lose | W+R | 7.5 | 2869 | -13 | 
 | 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Feng Yun | Suzuki Ayumi | Win | W+R | 7.5 | 2882 | 72 | 
@@ -68,7 +73,6 @@
 | 2018-11-13 | 第1回SGW杯中庸戦予選決勝 | Suzuki Ayumi | Wang Jingyi | Win | B+6.5 | 6.5 | 2317 | 0 | 
 | 2018-11-13 | 第1回SGW杯中庸戦予選2回戦 | Mochizuki Kenichi | Suzuki Ayumi | Win | W+5.5 | 6.5 | 2317 | 150 | 
 | 2018-10-11 | 第45期天元戦予選 | Suzuki Ayumi | Kim Sujun | Lose | W+R | 6.5 | 2167 | -5 | 
-| 2018-10-04 | 第22期ドコモ杯女流棋聖戦1回戦 | Hoshiai Shiho | Suzuki Ayumi | Lose | B+19.5 | 6.5 | 2172 | 0 | 
 | 2018-10-04 | 第22期ドコモ杯女流棋聖戦1回戦 | Hoshiai Shiho | Suzuki Ayumi | Lose | B+19.5 | 6.5 | 2172 | -375 | 
 | 2018-07-19 | 第37期女流本因坊戦3回戦 | Suzuki Ayumi | Wang Jingyi | Lose | W+0.5 | 6.5 | 2547 | 50 | 
 | 2018-05-31 | 第74期本因坊戦予選 | Suzuki Ayumi | O Meien | Lose | W+R | 6.5 | 2497 | -34 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-25 | 第78期本因坊戦予選 | Kataoka Satoshi | Endo Yoshifumi | Win | B+9.5 | 6.5 | 2750 | -25 | 
 | 2021-09-16 | 第47期碁聖戦予選 | Kataoka Satoshi | Adachi Toshimasa | Lose | W+R | 6.5 | 2775 | -18 | 
 | 2021-08-19 | 第70期王座戦予選 | Kataoka Satoshi | Xie Yimin | Lose | W+3.5 | 6.5 | 2793 | 2 | 
 | 2021-07-29 | 第70期王座戦予選 |  | Kataoka Satoshi | Win | W+R | 6.5 | 2791 | 32 | 

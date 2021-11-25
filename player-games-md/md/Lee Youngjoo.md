@@ -7,9 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-25 | 2021蘭雪軒杯全国女子囲碁大会予選 | Kim Cheayoung | Lee Youngjoo | Lose | B+2.5 | 6.5 | 2708 | -87 | 
+| 2021-08-26 | 第7回韓国女子囲碁リーグ | Lee Youngjoo |  | Win | B+2.5 | 6.5 | 2795 | -33 | 
 | 2021-08-24 | 第15回GGオークション杯女流対シニア連勝対抗戦第10局 | Lee Youngjoo | Han Chongjin | Lose | W+R | 6.5 | 2828 | 42 | 
-| 2021-08-13 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Kang Dajeong | Win | B+R | 6.5 | 2786 | -18 | 
-| 2021-08-13 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Kang Dajeong | Win | B+R | 6.5 | 2804 | -8 | 
+| 2021-08-13 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Kang Dajeong | Win | B+R | 6.5 | 2786 | -26 | 
 | 2021-08-11 | 第26期女流国手戦1回戦 | Lee Youngjoo |  | Lose | W+R | 6.5 | 2812 | -25 | 
 | 2021-08-06 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Park Taehee | Win | B+R | 6.5 | 2837 | -10 | 
 | 2021-07-30 | 第7回韓国女子囲碁リーグ | Lee Youngjoo | Cho Hyeyeon | Lose | W+1.5 | 6.5 | 2847 | -26 | 

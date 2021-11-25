@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-25 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第4戦 | Zhou Hongyu | Wang Chunhui | Lose | B+R | 7.5 | 3085 | -33 | 
 | 2021-11-24 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第3戦 | Wang Chunhui | Wang Chenxing | Lose | W+1¼ | 7.5 | 3118 | -39 | 
 | 2021-11-23 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第2戦 | Lu Minquan | Wang Chunhui | Win | W+R | 7.5 | 3157 | -36 | 
 | 2021-11-22 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第1戦 | Fang Ruoxi | Wang Chunhui | Lose | B+R | 7.5 | 3193 | -46 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-25 | 第78期本因坊戦予選 | Kataoka Satoshi | Endo Yoshifumi | Lose | B+9.5 | 6.5 | missing | 0 | 
 | 2021-07-22 | 第70期王座戦予選 | Nakamura Sumire | Endo Yoshifumi | Lose | B+2.5 | 6.5 | missing | -1768 | 
 | 2019-02-14 | 第45期碁聖戦予選 | Endo Yoshifumi | Rin Kaiho | Win | B+R | 6.5 | 1768 | 1768 | 
 | 2018-11-06 | 第1回SGW杯中庸戦予選決勝 | Endo Yoshifumi | Mitani Tetsuya | Lose | W+R | 6.5 | missing | 0 | 

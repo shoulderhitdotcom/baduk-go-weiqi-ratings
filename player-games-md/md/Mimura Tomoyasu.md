@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-25 | 第78期本因坊戦予選 | Mimura Tomoyasu | Yoda Norimoto | Win | B+R | 6.5 | 3010 | 93 | 
 | 2021-09-07 | 第26回三星火災杯日本予選 | Yoda Norimoto | Mimura Tomoyasu | Lose | B+2.5 | 6.5 | 2917 | -522 | 
 | 2021-03-22 | 第47期碁聖戦予選 | Mimura Tomoyasu | Rin Kaiho | Win | B+R | 6.5 | 3439 | 107 | 
 | 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦  | Mimura Tomoyasu | Choi Jaeyoung | Lose | W+R | 6.5 | 3332 | -28 | 

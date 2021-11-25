@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-25 | 2021蘭雪軒杯全国女子囲碁大会予選 | Kim Cheayoung | Lee Youngjoo | Win | B+2.5 | 6.5 | 2635 | 0 | 
 | 2021-11-23 | 第5回クラウン・ヘテ杯予選 |  | Kim Cheayoung | Lose | B+R | 6.5 | 2635 | 2635 | 
 | 2021-11-11 | 第3回大統領杯全国囲碁大会予選 | Kim Cheayoung |  | Lose | W+R | 6.5 | missing | -2747 | 
 | 2021-11-02 | 第5期韓国製紙女子棋聖戦1回戦 |  | Kim Cheayoung | Lose | B+R | 6.5 | 2747 | 3 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-25 | 第26期女流国手戦決勝三番勝負第3局 | Oh Yujin | Choi Jeong | Lose | B+R | 6.5 | 3259 | -16 | 
 | 2021-11-24 | 第26期女流国手戦決勝三番勝負第2局 | Choi Jeong | Oh Yujin | Win | B+R | 6.5 | 3275 | 6 | 
 | 2021-11-23 | 第26期女流国手戦決勝三番勝負第1局 | Oh Yujin | Choi Jeong | Lose | B+R | 6.5 | 3269 | -78 | 
 | 2021-11-21 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Choi Jeong | Lose | B+R | 6.5 | 3347 | 3 | 

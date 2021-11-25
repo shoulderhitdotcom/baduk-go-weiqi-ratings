@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-25 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第4戦 | Wang Chenxing | Xu Yidi | Win | B+R | 7.5 | 2984 | 10 | 
 | 2021-11-24 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第3戦 | Wang Chunhui | Wang Chenxing | Win | W+1¼ | 7.5 | 2974 | 21 | 
 | 2021-11-23 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第2戦 |  | Wang Chenxing | Lose | B+R | 7.5 | 2953 | -64 | 
 | 2021-11-22 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第1戦 | Wang Chenxing |  | Lose | W+R | 7.5 | 3017 | -6 | 

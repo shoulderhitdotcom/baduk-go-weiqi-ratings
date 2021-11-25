@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-25 | 第78期本因坊戦予選 | Mimura Tomoyasu | Yoda Norimoto | Lose | B+R | 6.5 | 3010 | -134 | 
 | 2021-10-07 | 第78期本因坊戦予選 | Chino Tadahiko | Yoda Norimoto | Win | W+18.5 | 6.5 | 3144 | -3 | 
 | 2021-09-30 | 第47期名人戦予選 | Ida Atsushi | Yoda Norimoto | Lose | B+1.5 | 6.5 | 3147 | -57 | 
 | 2021-09-07 | 第26回三星火災杯日本予選 | Yoda Norimoto | Mimura Tomoyasu | Win | B+2.5 | 6.5 | 3204 | -18 | 

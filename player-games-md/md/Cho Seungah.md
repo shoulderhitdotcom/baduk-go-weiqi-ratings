@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-25 | 2021蘭雪軒杯全国女子囲碁大会予選 | Cho Seungah |  | Win | B+5.5 | 6.5 | 3067 | -47 | 
 | 2021-11-15 | 第7回国手山脈韓国国内トーナメント予選 | Cho Seungah | Shen Zaiyi | Lose | W+R | 6.5 | 3114 | -1 | 
 | 2021-11-13 | 2021女子最高棋士決定戦（韓国）リーグ | Cho Seungah | Kim Eunseon | Win | B+R | 6.5 | 3115 | 5 | 
 | 2021-11-06 | 2021女子最高棋士決定戦（韓国）リーグ |  | Cho Seungah | Lose | B+R | 6.5 | 3110 | -21 | 

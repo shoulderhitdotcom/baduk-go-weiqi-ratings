@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-25 | 第47期天元戦挑戦手合五番勝負第3局  | Ichiriki Ryo | Seki Kotaro | Win | W+R | 6.5 | 3050 | 24 | 
 | 2021-11-21 | 第16回広島アルミ杯・若鯉戦準決勝  | Nishi Takenobu | Seki Kotaro | Lose | B+13.5 | 6.5 | 3026 | -96 | 
 | 2021-11-20 | 第16回広島アルミ杯・若鯉戦2回戦  |  | Seki Kotaro | Win | W+R | 6.5 | 3122 | 34 | 
 | 2021-11-16 | 第47期天元戦挑戦手合五番勝負第2局  | Seki Kotaro | Ichiriki Ryo | Lose | W+R | 6.5 | 3088 | -4 | 

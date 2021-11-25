@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-25 | 第25期女流棋聖戦準決勝 | Suzuki Ayumi | Mukai Chiaki | Lose | B+R | 6.5 | 2723 | -20 | 
 | 2021-11-08 | 第25期女流棋聖戦2回戦 | Xie Yimin | Mukai Chiaki | Win | W+2.5 | 6.5 | 2743 | 81 | 
 | 2021-10-14 | 第25期ドコモ杯女流棋聖戦1回戦 | Mukai Chiaki | Hoshiai Shiho | Win | B+R | 6.5 | 2662 | 80 | 
 | 2021-06-17 | 第40期女流本因坊戦3回戦 | Suzuki Ayumi | Mukai Chiaki | Lose | B+R | 6.5 | 2582 | 38 | 

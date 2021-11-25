@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-25 | 第41期女流本因坊戦予選 | Mannami Kana | Okuda Aya | Win | W+R | 6.5 | 2800 | 94 | 
 | 2021-11-07 | 第4回SGW杯中庸戦優勝決定戦  | Han Zenki | Okuda Aya | Lose | B+3.5 | 6.5 | 2706 | 0 | 
 | 2021-11-07 | 第4回SGW杯中庸戦3回戦  | Ogaki Yusaku | Okuda Aya | Win | W+R | 6.5 | 2706 | 342 | 
 | 2021-06-17 | 第60期十段戦予選 | Okuda Aya | Cho Sonjin | Win | B+R | 6.5 | 2364 | 86 | 

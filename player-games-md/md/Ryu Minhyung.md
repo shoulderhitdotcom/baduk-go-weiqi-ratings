@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-25 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Yun Chanhee | Win | B+R | 6.5 | 3142 | -86 | 
 | 2021-08-23 | 第26回三星火災杯韓国予選 | Ryu Minhyung | Park Yeonghun | Lose | W+R | 6.5 | 3228 | 3228 | 
 | 2021-05-01 | 第26回LG杯韓国予選 | Ryu Minhyung | Gon Jiwoo | Win | B+0.5 | 6.5 | missing | 0 | 
 | 2021-02-08 | 第4期韓国竜星戦1回戦 | Shin Jinseo | Ryu Minhyung | Lose | B+R | 6.5 | missing | 0 | 

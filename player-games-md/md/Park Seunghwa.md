@@ -5,246 +5,247 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第26回LG杯韓国予選 | Park Seunghwa | Hong Seongji | W+R | 2021-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tgczC%2BvPWpIosyrzukImJw%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Lee Donghoon | Park Seunghwa | B+R | 2021-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o1DbEVSDC%2FWCnGvqTmXL%2Fw%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Park Seunghwa | Shin Jinseo | W+R | 2021-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5VoM3asQeai2wzPVQruosg%3D%3D) | 
-| 第4期韓国竜星戦1回戦 | Park Seunghwa | Lee Changseok | W+R | 2021-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RIj1oP9y2HWfkpWB%2FD5g2Q%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Byun Sangil | Park Seunghwa | B+R | 2021-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ncTLDXDjHacF67zHd5O%2Bfg%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Park Seunghwa | Kang Yootaek | W+2.5 | 2021-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s%2BEyzOU2808yvN%2FhCUoFpA%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Lee Donghoon | Park Seunghwa | B+R | 2020-12-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fGbaYNQ8JqZItn7GyC%2BWEA%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Park Seunghwa | Weon Seongjin | W+1.5 | 2020-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BxbCqgEdj3k38y1%2BSXXBzQ%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Park Seunghwa | Kim Jiseok | W+1.5 | 2020-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IZ56KnUvCSDlkPxd3pPPaA%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Park Geunho | Park Seunghwa | B+R | 2020-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D6UMy2aENzJgrPlk5OAY3g%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Park Seunghwa | Park Hamin | W+R | 2020-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DlQ9m65GfEsGK9F%2BzhX6ng%3D%3D) | 
-| 2020-2021韓国囲碁リーグ | Park Seunghwa | Park Junghwan | W+R | 2020-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WBZ1Ol8ao1Ji5Pa4wE7q8A%3D%3D) | 
-| 第1回ORO30-40囲碁選手権リーグ | On Sojin | Park Seunghwa | B+1.5 | 2020-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mImXpulLQkcPvNnc9TFKnQ%3D%3D) | 
-| 第1回ORO30-40囲碁選手権リーグ | Paek Hongseok | Park Seunghwa | W+R | 2020-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8U3Q6gYghL78ZhxrWp71Wg%3D%3D) | 
-| 第1回ORO30-40囲碁選手権リーグ | Han Sanghoon | Park Seunghwa | W+R | 2020-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rMfbjMku6db8JviuhAbAtw%3D%3D) | 
-| 第22回農心杯韓国選抜戦 | Hong Kipyo | Park Seunghwa | B+R | 2020-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b%2BciBKsa2%2F77EbOUFwnzXw%3D%3D) | 
-| 第22回農心杯韓国選抜戦 | Park Seunghwa | Kang Seungmin | B+R | 2020-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z12nWU3Mlm2vnB0vtp23%2FA%3D%3D) | 
-| 第22回農心杯韓国選抜戦 | Park Geunho | Park Seunghwa | W+1.5 | 2020-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6tRX7iWXduvtVdUqUNMPdQ%3D%3D) | 
-| 第2期ソパルコサノル最高棋士決定戦予選 | Park Seunghwa | Kang Dongyun | W+R | 2020-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8oHkOYYA16hgvjQEztdK0A%3D%3D) | 
-| 第1回ORO30-40囲碁選手権リーグ | Park Seunghwa | Cho Hyeyeon | W+R | 2020-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y5kDck8ggxlNTFEjn%2Bhw5A%3D%3D) | 
-| 第1回ORO30-40囲碁選手権リーグ | Yun Chanhee | Park Seunghwa | W+4.5 | 2020-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uD9A4qQxcmSot2nIY5ZNgQ%3D%3D) | 
-| 第2期ソパルコサノル最高棋士決定戦予選 | An Sungjoon | Park Seunghwa | W+4.5 | 2020-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iXYgtdYbW3uqymFf5cT%2Fug%3D%3D) | 
-| 第1回ORO30-40囲碁選手権リーグ | Kim Sonjin | Park Seunghwa | B+R | 2020-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gvRYSENXdLKqvS2fRJSCfg%3D%3D) | 
-| 第25回三星火災杯韓国一般枠予選 | Park Seunghwa | Moon Minjong | W+R | 2020-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=baS05u8a65HGiyEDEKAM6g%3D%3D) | 
-| 第25回LG杯朝鮮日報棋王戦1回戦 | Park Seunghwa | Ding Hao | W+R | 2020-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nMDvIoV4CsC7uaP9T2zJdA%3D%3D) | 
-| 第25回LG杯韓国予選決勝 | Park Seunghwa | Baek Chanhee | B+0.5 | 2020-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=10n6gGlMP8OTiskLnua%2Bgg%3D%3D) | 
-| 第25回LG杯韓国予選 | Park Seunghwa | Gon Jiwoo | B+R | 2020-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BSJfKTTwRBjgrNaqELtJew%3D%3D) | 
-| 第25回LG杯韓国予選 | Lee Chungyu | Park Seunghwa | W+R | 2020-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n3KlsMNxZ1FqUEwZdPWt6Q%3D%3D) | 
-| 第25回LG杯韓国予選 | Kang Yootaek | Park Seunghwa | W+R | 2020-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2CPLD%2BUsgjHX9xmPAMh41g%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第18節第2試合第2局 | Park Seunghwa | Park Younglong | B+R | 2020-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zDP2zKWKEvG4Byxo8BQDSg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第17節第4試合第5局 | Lee Wondo | Park Seunghwa | W+R | 2020-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WowywRIFjJ8NPatP%2BZaqBg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第16節第3試合第4局 | Seol Hyunjun | Park Seunghwa | B+R | 2020-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BY2jFze9dFOTeTwZuxEZvA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第15節第4試合第2局 | Park Seunghwa | Song Jihoon | W+R | 2020-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CF8y1Mqm1bJAMfdefF4Snw%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第14節第3試合第4局 | Park Seunghwa | Lee Changseok | B+R | 2020-01-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=owEEsFtr2gpxWU6Ew%2BHIqw%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第13節第1試合第3局 | Park Seunghwa | Kim Jiseok | W+2.5 | 2019-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VQQE2SlbIBBJEjVQywLWOQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第11節第1試合第4局 | An Joyeong | Park Seunghwa | W+2.5 | 2019-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C3m%2B36oQQzf41rKfOxa49w%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第10節第1試合第1局 | Park Seunghwa | Han Seungjoo | W+R | 2019-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BJYZrpt2%2Buy%2FaQQglzVzxA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第9節第3試合第4局 | An Jungki | Park Seunghwa | W+3.5 | 2019-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z%2FqEpTGBMjm5ASUfImkm%2BQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第8節第1試合第4局 | Choi Jeong | Park Seunghwa | B+R | 2019-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A4LdpXdZdegvOi6fP90GbA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第7節第2試合第2局 | Park Seunghwa | Wen Rubin | B+R | 2019-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bZsYsWXmRdoGIbyR3%2B%2B29Q%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第6節第1試合第4局 | Choi Jaeyoung | Park Seunghwa | B+R | 2019-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C6wgTg1Z4MaAwSQIpNDjQQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第5節第2試合第3局 | Choi Cheolhan | Park Seunghwa | B+R | 2019-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4BkKciS0iW9HHuDMiTXXCw%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第4節第4試合第3局 | Park Seunghwa | Paek Hongseok | B+R | 2019-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FyyGVsBfh1yANTHDE%2FcKNQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第2節第4試合第5局 | Park Seunghwa | Park Jinsol | B+1.5 | 2019-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=muK5xGqcDflWHjEX57speA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第1節第4試合第3局 | Park Seunghwa | Lee Yeongkyu | B+R | 2019-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VYmaJpwSwcT6l1A7%2Bmt58g%3D%3D) | 
-| 第21回農心杯韓国選抜戦 | Park Seunghwa | Park Junghwan | W+R | 2019-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fh3wHsXQ8hoWchpRpIYYjQ%3D%3D) | 
-| 第4回夢百合杯統合予選 | Tan Xiao | Park Seunghwa | B+R | 2019-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dUa%2FCzqoCb0QeD2fUPz3AQ%3D%3D) | 
-| 第24回LG杯統合予選3回戦 | Fan Yunruo | Park Seunghwa | B+R | 2019-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wnnLPtChrjIkph%2BIb1mIzQ%3D%3D) | 
-| 2016年韓国囲碁リーグ | Min Sangyoun | Park Seunghwa | W+R | 2016-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ylRbn%2Flv3Tfz5bAAQ3uU8A%3D%3D) | 
-| 2016年韓国囲碁リーグ | Park Seunghwa | Choi Cheolhan | W+R | 2016-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=etmZrhyQl5qswIRyYGlj1g%3D%3D) | 
-| 2016年韓国囲碁リーグ第14節 | Park Junghwan | Park Seunghwa | B+R | 2016-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i%2Bd4XT%2BdH0emI6Try7BFJw%3D%3D) | 
-| 2016年韓国囲碁リーグ第11節 | Park Seunghwa | Heo Yongho | W+R | 2016-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vWHEeEyDTyYdzG854xq5EQ%3D%3D) | 
-| 2016年韓国囲碁リーグ第10節 | Cho Hanseung | Park Seunghwa | B+R | 2016-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9rQu3%2F07C5XExWQXypubAw%3D%3D) | 
-| 2016年韓国囲碁リーグ第9節 | Park Seunghwa | Kang Seungmin | B+R | 2016-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KMCztJgalbORTo%2FdlBcLgg%3D%3D) | 
-| 2016年韓国囲碁リーグ第8節 | Na Hyun | Park Seunghwa | B+R | 2016-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tDpFHuQabWl9NhTXH%2BcoJw%3D%3D) | 
-| 2016年韓国囲碁リーグ第7節 | Park Seunghwa | Choi Jeong | W+R | 2016-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oWzX38SCNvDKruXkZgea8w%3D%3D) | 
-| 第21回三星火災杯統合予選準決勝 | Park Seunghwa | Fan Tingyu | W+R | 2016-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d8zmvz%2BWPpJFn%2Bi7YtyPWg%3D%3D) | 
-| 第35回KBS杯囲碁王戦2回戦 | Lee Hobum | Park Seunghwa | B+R | 2016-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CsLLvRrG32VEYMDwYctIEw%3D%3D) | 
-| 2016年韓国囲碁リーグ第6節 | Park Cheongsang | Park Seunghwa | B+R | 2016-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qV5mZB2mf5fEclIZv7qwOA%3D%3D) | 
-| 2016年韓国囲碁リーグ第5節 | Lee Donghoon | Park Seunghwa | W+0.5 | 2016-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3D7qPt1az1%2F2%2B4dIhQsK6g%3D%3D) | 
-| 2016年韓国囲碁リーグ第4節 | Han Seungjoo | Park Seunghwa | B+R | 2016-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1ySQcK6CLz2zQ8HI7T0mFA%3D%3D) | 
-| 2016年韓国囲碁リーグ第2節 | Park Seunghwa | Kim Kiyoung | B+1.5 | 2016-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BmAhi1pPAXF5u2zZYiozAw%3D%3D) | 
-| 2016年韓国囲碁リーグ第1節 | Park Seunghwa | Cho Hanseung | W+R | 2016-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RCWP0gAofD7Y9m%2F9t9aHHA%3D%3D) | 
-| 第21回LG杯予選 | Meng Tailing | Park Seunghwa | B+R | 2016-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lDnHMIzmyrgM47uxGcYNng%3D%3D) | 
-| 第21回LG杯予選 | Park Seunghwa | Liu Xing | B+R | 2016-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=abMJhNB4DT%2Bixj1znhNOHw%3D%3D) | 
-| 第34回KBS杯囲碁王戦3回戦 | Lee Sedol | Park Seunghwa | B+R | 2015-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zbhGQ0UueEV5GOyoJOwqhg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Seunghwa | Mok Jinseok | W+R | 2015-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sIHfecsV3uUaMu%2FozlBUbg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Shin Minjun | Park Seunghwa | B+6.5 | 2015-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SnS0ZWH8YuwaHu2BbKAVYg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Cheongsang | Park Seunghwa | W+R | 2015-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j4NwHJGUPYs9dJBMwFbsYg%3D%3D) | 
-| 2015年レッツランパーク杯オープントーナメント1回戦 | Park Minkyu | Park Seunghwa | B+R | 2015-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tqC5HaYSX0e%2BA7U576u7Bg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Seunghwa | Shin Minjun | W+R | 2015-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d6oNUDz%2FUiehk5B6GM%2FDqA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Seunghwa | Kim Seongjae | B+R | 2015-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yJkF%2FHX5BX1ZyAYDxXe%2FiQ%3D%3D) | 
-| 2015年韓国囲碁リーグ | Han Seungjoo | Park Seunghwa | W+R | 2015-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2I7dCH4DleI2Uo3fGZ3gNA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Seunghwa | Song Jihoon | W+R | 2015-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qkc%2BLpQ7dWK%2F9iUqO9xU%2Bg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Sedong | Park Seunghwa | B+R | 2015-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iX4DdymvrhVUEhPtUdD6rg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Junghyun | Park Seunghwa | B+0.5 | 2015-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d8r5dpg5y7sT6CyZZfpuhg%3D%3D) | 
-| 第20回三星火災杯統合予選決勝 | Park Seunghwa | Shida Tatsuya | W+R | 2015-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qOySCTGLUIaqmkN6Rb4MEQ%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Seunghwa | Na Hyun | W+R | 2015-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9pj84GfxRZsZOY3k8tGbSw%3D%3D) | 
-| 第2回夢百合杯世界オープン戦1回戦 | Weon Seongjin | Park Seunghwa | B+R | 2015-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L2wr8dpXTD%2FgqvGsq%2FBAAg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Seunghwa | Choi Cheolhan | W+R | 2015-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yx95beb1S58Z3bqwgxZt%2BQ%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Seunghwa | Mok Jinseok | B+R | 2015-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5ow10YvEtjcSBdZdBhJhlg%3D%3D) | 
-| 第34回KBS杯囲碁王戦2回戦 | Park Seunghwa | Byun Sangil | B+R | 2015-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=izm%2BT93NKv63vel1tGkLrQ%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kang Yootaek | Park Seunghwa | B+R | 2015-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1He2ya4d2UKJEXlFta%2FNLw%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Seunghwa | Yun Junsang | W+R | 2015-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NuSEfUeyAfXtr7M8xFNPEQ%3D%3D) | 
-| 2015年韓国囲碁リーグ | Song Jihoon | Park Seunghwa | W+R | 2015-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Szr3zLOXyG11%2B9IdyxSVbg%3D%3D) | 
-| 第2回夢百合杯世界オープン戦予選 | Park Seunghwa | Liao Xingwen | B+R | 2015-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nPVhh09DmXp8RaCb4gisCQ%3D%3D) | 
-| 第2回夢百合杯世界オープン戦予選 | Wang Chenfan | Park Seunghwa | W+R | 2015-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vkr1Kh2c7SjV64BSrb5QZA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Seunghwa | Kim Sedong | B+R | 2015-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cY5bwVQrSaDAp73S7SvZ2w%3D%3D) | 
-| 2015年韓国囲碁リーグ | Park Seunghwa | Kim Junghyun | W+R | 2015-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JsSGhGEr0I%2BifwFVsIZlGQ%3D%3D) | 
-| 2015年韓国囲碁リーグ | Ryu Minhyung | Park Seunghwa | W+R | 2015-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OVH2JShBDwHm0KF03h1sbg%3D%3D) | 
-| 第20回LG杯予選 | Park Seunghwa | Mi Yuting | W+R | 2015-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rop3QEOmqxSTMhVWD9WqKA%3D%3D) | 
-| 第34回KBS杯囲碁王戦1回戦 | Park Seunghwa | Cho Hanseung | B+R | 2015-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M5%2F7xpVmTj2nBbd54HInBg%3D%3D) | 
-| 2014年韓国囲碁リーグ | Na Hyun | Park Seunghwa | B+R | 2014-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zYqiRnzgkApDUsznEPOzxw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Hong Minpyo | Park Seunghwa | W+R | 2014-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D7UVR9WIlSwxJZarV2TgrA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Cho Hanseung | Park Seunghwa | W+R | 2014-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b2S6dUldPs0cS3RJ8QAMgg%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Seunghwa | Lee Taehyun | W+R | 2014-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gFC8pAKlO%2FuRXwB4FuahsQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Ryu Minhyung | Park Seunghwa | W+0.5 | 2014-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wnA2GSMf0Bpy87HPj9KbHw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Seunghwa | An Sungjoon | W+R | 2014-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xsao52UXcMLKPkpOcTfx%2Bw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Jinsol | Park Seunghwa | B+3.5 | 2014-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aJI0jELz%2BuSwdQBzKSJANw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kim Minho | Park Seunghwa | W+R | 2014-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SeQTx0bOV1CN3VieUWPnaw%3D%3D) | 
-| 第19回三星火災杯統合予選3回戦 | Gu Lingyi | Park Seunghwa | W+R | 2014-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G9yV5b4xbAU%2BTNn3t7ktJQ%3D%3D) | 
-| 第16回農心杯韓国選抜戦 | missing | Park Seunghwa | W+R | 2014-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=03gT3sJzAh7TzAlpgGxyqQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Seunghwa | Mok Jinseok | B+R | 2014-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AsvDmgp24WPiiHMuTqMx2w%3D%3D) | 
-| 第42期名人戦（韓国）予選 | Park Seunghwa | Song Taekon | W+R | 2014-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5A9M%2FRahOxbJyUKAO63JEA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Seunghwa | Kim Jiseok | W+R | 2014-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tRUQ4MR%2FO5f6ZVgLaKR20w%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Seunghwa | Park Junghwan | W+R | 2014-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ttgM7Atpd4RB9R5Y53iZIQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Seunghwa | Park Yeonghun | B+R | 2014-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yw1s7uBmYbVGaZZAvvZ07g%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Seunghwa | Na Hyun | B+R | 2014-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iypWql%2FJZQzZ8S2vv8hvqQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Byun Sangil | Park Seunghwa | W+R | 2014-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BCqfDKtevMtEhzmKXVCelg%3D%3D) | 
-| 第19回LG杯予選 | Park Seunghwa | Gu Li | W+R | 2014-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KX0OI%2Bm0dHTCLukt4pXspA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Seunghwa | Lee Sedol | W+R | 2014-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gfAXMxfzZ8%2Bv%2F45edUy%2Ftw%3D%3D) | 
-| 第19期GSカルテックス杯プロ棋戦3回戦 | Park Junghwan | Park Seunghwa | B+R | 2014-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tGoKaM9deN95CMynMujoqQ%3D%3D) | 
-| 第19期GSカルテックス杯プロ棋戦2回戦 | Park Yeonghun | Park Seunghwa | W+R | 2014-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AVS49egcDYeNiIAHWCpnvg%3D%3D) | 
-| 第19期GSカルテックス杯プロ棋戦1回戦 | Park Seunghwa | Shin Yoonho | B+R | 2014-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1hogVe6yJ4vhgy6Fdx6cpA%3D%3D) | 
-| 2013年楽スターリーグ | Shin Minjun | Park Seunghwa | B+R | 2013-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mts%2Bwk9yKsJDMKDzn723AQ%3D%3D) | 
-| 2013年楽スターリーグ | Park Seunghwa | Kim Sonjin | W+R | 2013-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0xnM46AcSMr%2BUjJWTi8NAA%3D%3D) | 
-| 2013年韓国囲碁リーグ | Ahn Kukhyun | Park Seunghwa | B+R | 2013-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pmx5d5W1VnMio68FpU6whA%3D%3D) | 
-| 2013年楽スターリーグ | missing | Park Seunghwa | W+R | 2013-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VjXgly2K9%2BSVc%2BtwJ8RmHQ%3D%3D) | 
-| 2013年楽スターリーグ | Kang Seungmin | Park Seunghwa | B+1.5 | 2013-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BWvPscaThY6Ygf81peDq6A%3D%3D) | 
-| 2013年楽スターリーグ | Lee Hobum | Park Seunghwa | B+R | 2013-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rnpodkTP50vIxwb0QQKD9w%3D%3D) | 
-| 2013年韓国囲碁リーグ | An Joyeong | Park Seunghwa | W+0.5 | 2013-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9qGMttT%2FqeU10c2ggUV2Hg%3D%3D) | 
-| 第18回三星火災杯統合予選決勝 | Park Seunghwa | Park Yeonghun | W+R | 2013-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JZ%2FkPdRuiIq%2FaQOr4cxOrQ%3D%3D) | 
-| 第15回農心杯韓国選抜戦 | Kim Jiseok | Park Seunghwa | B+R | 2013-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sD6dRx4bsvXOaJVi18a7EQ%3D%3D) | 
-| 2013年韓国囲碁リーグ | Park Seunghwa | Park Cheongsang | W+R | 2013-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ocqmCamqykG7uiuJKdYZTA%3D%3D) | 
-| 2013年韓国囲碁リーグ | Park Seunghwa | On Sojin | W+R | 2013-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xJO5xtxOfcAjhy4BHwuMSg%3D%3D) | 
-| 2013年韓国囲碁リーグ | Park Seunghwa | Han Sanghoon | B+R | 2013-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l1A0zfji4vIsxz9QsaoRIw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Hong Kipyo | Park Seunghwa | W+R | 2012-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ct7nMPMC%2Fb6AmV0%2B2HozGQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Seunghwa | An Joyeong | W+0.5 | 2012-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V%2Fb1ZGu3bPcApD42EOWFAQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Seunghwa | Hong Kipyo | B+1.5 | 2012-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qWVjVTFpyCo3C7MJp6uK4w%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Seunghwa | Byun Sangil | W+R | 2012-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=naLMAckEQQyOXgV7ChBPyw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Kim Dongho | Park Seunghwa | B+3.5 | 2012-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZmseAnOGx8PXfYsOh9Jg6g%3D%3D) | 
-| 2012年韓国囲碁リーグ | Ryu Suhang | Park Seunghwa | W+R | 2012-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UUKAcSpdthaMOQmw9M8YgA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Seunghwa | Park Younglong | W+R | 2012-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fXKDJRZNrrKsPweREiRnWw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Seunghwa | Na Hyun | W+R | 2012-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dMFAx1iNzbWwRkKsvg0Lqg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Seunghwa | Lee Wonyoung | W+R | 2012-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rrWkICIZ8fmhlK5oMOhiOA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Yeonghun | Park Seunghwa | W+R | 2012-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fv19zq8aC9pKIptzQcrQtg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Seunghwa | Lee Donghoon | W+1.5 | 2012-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Rpxdl7MazEEKFVr1B%2FEeCQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Seunghwa | Hong Kipyo | W+R | 2012-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w9rz3mvB21zvOCmeAQok2g%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Seunghwa | Han Sanghoon | B+R | 2012-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AVitld%2Fp0qB3zEp3lj2rog%3D%3D) | 
-| 第17回LG杯世界棋王戦1回戦 | Park Seunghwa | Gu Li | W+R | 2012-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YU7KwG9bacwoXxt0cI7PAA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Jin Siyoung | Park Seunghwa | W+1.5 | 2012-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K5%2BiOnrVNqa7Fs%2FCwrVL3Q%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Jihyun | Park Seunghwa | B+0.5 | 2012-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7CBFwOjBMJyq4ycBtTTHtw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Seunghwa | Kim Hyeongwoo | B+R | 2012-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bhzl1UgTAMo9QDrF%2Fo66ew%3D%3D) | 
-| 第31回KBS杯囲碁王戦本戦1回戦 | Park Kyuongkeun | Park Seunghwa | B+R | 2012-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iDuge1wzzit9fkcjXavcRQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Na Hyun | Park Seunghwa | W+R | 2012-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xihd7vioYWY0eeWuDt30ng%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Junghwan | Park Seunghwa | B+R | 2012-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BmXBbb8MPG%2BzSCf9yFXyxA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Song Taekon | Park Seunghwa | B+0.5 | 2012-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F8a2%2FDwjTce2Z%2Bvn1uwYxQ%3D%3D) | 
-| 第17回LG杯予選 | Murakawa Daisuke | Park Seunghwa | W+R | 2012-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AymbYqLqdj8VACOryKhdiw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Seunghwa | Kim Jiseok | W+4.5 | 2012-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VLAkBceKfhPwB0Be9I7xmA%3D%3D) | 
-| 第1回百霊杯世界囲碁選手権予選 | Shi Yue | Park Seunghwa | B+R | 2012-03-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tz%2FISYjFFjVmlktSXTupAQ%3D%3D) | 
-| 第7期圓益杯十段戦2回戦 | Han Chongjin | Park Seunghwa | B+R | 2011-12-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F5nHUAW0kM1ZNV49PkD1nw%3D%3D) | 
-| 2011年韓国囲碁リーグ | An Sungjoon | Park Seunghwa | B+R | 2011-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0rhchw7hDSoCnKTm6nBfHQ%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Seunghwa | An Sungjoon | W+R | 2011-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nE2K8Tf9VzRYt5MecQy9UQ%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Seunghwa | Kim Hyeongwoo | W+2.5 | 2011-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1zFiFJZKnbFD3tgADIIUHQ%3D%3D) | 
-| 第7期圓益杯十段戦1回戦 | missing | Park Seunghwa | W+R | 2011-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ORhzy%2BpVf0mLUkWgVVrfUw%3D%3D) | 
-| 2011年韓国囲碁リーグ | Jin Donggyu | Park Seunghwa | W+R | 2011-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J4z5F1UGqBdbnRCTIhWtLA%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Seunghwa | Kang Yootaek | W+R | 2011-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HFwe2sCSSFZWFcD56yIY%2BQ%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Seunghwa | missing | W+R | 2011-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UlFril7d7bLPGu0gVph0Rg%3D%3D) | 
-| 2011年韓国囲碁リーグ | Paek Hongseok | Park Seunghwa | W+1.5 | 2011-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sb2e8p9ng0MI7TS39H0ZCA%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Seunghwa | Ahn Kukhyun | B+R | 2011-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BebWqqUQNSHeRqFiw6aXHw%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Seunghwa | missing | B+R | 2011-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2MprJuJ4NuKmz5%2FqutXwfg%3D%3D) | 
-| 第13回農心杯韓国選抜戦 | Cho Hunhyun | Park Seunghwa | B+R | 2011-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0yUCIMK89cNWIPlbvnRyUA%3D%3D) | 
-| 第13回農心杯韓国選抜戦 | Choi Cheolhan | Park Seunghwa | W+R | 2011-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D%2BmkZMFHnu7DH3gC27RWXA%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Seunghwa | Kim Dongho | W+1.5 | 2011-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P0iI6%2FdwnX%2B9GRmBGz9gTQ%3D%3D) | 
-| 2011年韓国囲碁リーグ | Kim Seongjae | Park Seunghwa | B+R | 2011-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iWl151e83AyuMxqaaid24w%3D%3D) | 
-| 第16回LG杯世界棋王戦2回戦 | Park Seunghwa | Chen Shiyuan | W+1.5 | 2011-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xTw7ojqMEWQSwAQNHmAzww%3D%3D) | 
-| 第16回LG杯世界棋王戦1回戦 | Chen Yaoye | Park Seunghwa | W+R | 2011-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sWJHaTXECehquTp8IjPb1g%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Cheongsang | Park Seunghwa | B+R | 2011-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tl3cYaB48TGiwDb05Gef4w%3D%3D) | 
-| 2011年韓国囲碁リーグ | missing | Park Seunghwa | W+R | 2011-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eCuqQFyCmt2SM52f2vEXpQ%3D%3D) | 
-| 第16期GSカルテックス杯プロ棋戦2回戦 | Park Seunghwa | Kim Jiseok | W+R | 2011-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rTNEYPGcY%2BOQOlvQCJssgQ%3D%3D) | 
-| 第16回LG杯予選 | Park Seunghwa | Sun Tengyu | B+R | 2011-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JhsAGe4xS4yaK8hXBYrr1g%3D%3D) | 
-| 第7期物価情報杯プロ棋戦予選 | Park Seunghwa | Kim Seongjae | W+R | 2011-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wuKv3pd3ynGHFENOOD%2FpBQ%3D%3D) | 
-| 第3回BCカード杯世界選手権3回戦 | Lee Sedol | Park Seunghwa | B+R | 2011-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zJjl3LidyFIuouGoSRDdzQ%3D%3D) | 
-| 第3回BCカード杯世界選手権2回戦 | Chen Shiyuan | Park Seunghwa | W+R | 2011-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=01q8fkYHgCPJFYGlAoZpVA%3D%3D) | 
-| 第16期GSカルテックス杯プロ棋戦1回戦 | Park Seunghwa | Park Cheongsang | B+R | 2011-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W4DkNxn2nUJLCziTB3ynJA%3D%3D) | 
-| 第3回BCカード杯世界選手権1回戦 | Park Seunghwa | Lee Hyungjin | B+R | 2011-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o%2B884pbqo0YGfETwi9Z6%2BA%3D%3D) | 
-| 第12回農心辛ラーメン杯世界囲碁最強戦第5戦 | Xie He | Park Seunghwa | B+R | 2010-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ptWZe0pe%2Be1EmtDXOvLRCg%3D%3D) | 
-| 第12回農心杯韓国選抜戦 | Park Seunghwa | Park Jiyeon | B+R | 2010-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SaEDxL9i7MmnJJpcmTDraQ%3D%3D) | 
-| 第12回農心杯韓国選抜戦 | Lee Chungyu | Park Seunghwa | W+R | 2010-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZKaUw7SBc651Hb%2FrhXMWIg%3D%3D) | 
-| 第15期バッカス杯天元戦1回戦 | Paek Hongseok | Park Seunghwa | B+R | 2010-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=08GxK9LI%2BUhcmF3wXwCUwQ%3D%3D) | 
-| 2009年韓国囲碁リーグ | Park Seunghwa | Choi Myeonghun | B+R | 2009-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s10Yxu0VwW9MtwgZ4f1SyQ%3D%3D) | 
-| 2009年韓国囲碁リーグ | Kim Juho | Park Seunghwa | B+R | 2009-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8WQrQXCKL%2BHYYV5IZ5y8Aw%3D%3D) | 
-| 2009年韓国囲碁リーグ | Choi Myeonghun | Park Seunghwa | W+R | 2009-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XZSnusKl%2FsZOSx4heJUciw%3D%3D) | 
-| 第14回三星火災杯統合予選2回戦 | Park Seunghwa | Weon Seongjin | W+R | 2009-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gtPsERrQP6N1SPMxa9Dffw%3D%3D) | 
-| 2009年韓国囲碁リーグ | Kim Jiseok | Park Seunghwa | B+R | 2009-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=idWB7EUCmNqH5RGPHBG3Yg%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Changho | Park Seunghwa | B+R | 2009-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=35FsqPjH8sQ2uoP3XRZRIQ%3D%3D) | 
-| 2009年韓国囲碁リーグ | Lee Yeongkyu | Park Seunghwa | W+R | 2009-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1XWAu6oILu7zX408fBjeLA%3D%3D) | 
-| 第12期SKガス杯新鋭プロ十傑戦五位決定戦 | Park Seunghwa | Lee Taehyun | W+R | 2008-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=axugZY0ye%2Bt4cZnsc2CMMw%3D%3D) | 
-| 第12期SKガス杯新鋭プロ十傑戦リーグB | Park Seunghwa | Kim Kiyoung | W+R | 2008-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m%2FbcEwJL84wFdRxPGXxrBg%3D%3D) | 
-| 2008年韓国囲碁リーグ | Park Seunghwa | Choi Cheolhan | W+1.5 | 2008-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BN57ZsUnwHhBK3C0owOsfg%3D%3D) | 
-| 2008年韓国囲碁リーグ | Park Seunghwa | Kim Kiyoung | W+7.5 | 2008-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dl47swHJzJKjeYr18zaOOg%3D%3D) | 
-| 第12期SKガス杯新鋭プロ十傑戦リーグB | Park Seunghwa | Han Sanghoon | W+1.5 | 2008-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bUdp7j2OsjA64%2BDSToefLA%3D%3D) | 
-| 2008年韓国囲碁リーグ | Park Seunghwa | Park Yeonghun | W+2.5 | 2008-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NOIInoyUv3gLAOl80ezcLQ%3D%3D) | 
-| 2008年韓国囲碁リーグ | Park Seunghwa | Kim Daehee | B+3.5 | 2008-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sHIWRSx11RmIBrUYReul8A%3D%3D) | 
-| 2008年韓国囲碁リーグ | Park Seunghwa | Kim Seonryong | B+3.5 | 2008-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V7UXDPvKotEeIaDinnYTwg%3D%3D) | 
-| 2008年韓国囲碁リーグ | Park Seunghwa | Kim Seungjun | B+1.5 | 2008-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pITRHgQ%2FOHC12T5HvkQCGQ%3D%3D) | 
-| 第4期圓益杯十段戦1回戦 | Hong Minpyo | Park Seunghwa | B+R | 2008-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e0bQ0hj3FRCP31q4LZW76w%3D%3D) | 
-| 第12期SKガス杯新鋭プロ十傑戦リーグB | Park Seunghwa | Kim Daehee | W+R | 2008-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8gWfhyTS6MFfOsTE5GJlRQ%3D%3D) | 
-| 2008年韓国囲碁リーグ | Park Seunghwa | Yun Junsang | B+0.5 | 2008-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xb0bwSrSPUrAg14YAq9YFQ%3D%3D) | 
-| 2008年韓国囲碁リーグ | Park Seunghwa | Kim Dongyeop | B+8.5 | 2008-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ag%2BE8aJ4ilAqaYVUpMsSoA%3D%3D) | 
-| 2008年韓国囲碁リーグ | Hong Seongji | Park Seunghwa | B+R | 2008-05-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k5zNndoYkZ%2BEKOmkq6J8Pw%3D%3D) | 
-| 2008年韓国囲碁リーグ | Heo Yongho | Park Seunghwa | B+3.5 | 2008-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mvJm3HGHrvZjYVkfY2oTXw%3D%3D) | 
-| 2008年韓国囲碁リーグ | Lee Sedol | Park Seunghwa | B+R | 2008-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bxfi1YGaQ9GNacfOViZTug%3D%3D) | 
-| 第12期SKガス杯新鋭プロ十傑戦リーグB | Kim Hyeoimin | Park Seunghwa | W+R | 2008-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vec%2FkkDiuvaxnaPgx%2FwcjA%3D%3D) | 
-| 第12期SKガス杯新鋭プロ十傑戦リーグB | Park Seunghwa | missing | B+R | 2008-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4B6zpedUsUsaAagPmHAHsQ%3D%3D) | 
-| 第18期BCカード杯新人王戦2回戦 | Kim Kiyoung | Park Seunghwa | B+R | 2008-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bI1UCM70v2uUu1ETeTGJSA%3D%3D) | 
-| 2007年韓国囲碁リーグ | Park Seunghwa | Kim Juho | W+R | 2007-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ny8aTh%2Fssv8mauVMxZgDaQ%3D%3D) | 
-| 2007年韓国囲碁リーグ | Park Seunghwa | Kim Hyeongwoo | B+R | 2007-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jhLksGYJD8gxctTKy8fZAw%3D%3D) | 
-| 2007年国際新鋭囲碁対抗戦第3戦 | Park Seunghwa | missing | W+R | 2007-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=51qfGATRk2bNoXXuh%2FNkoA%3D%3D) | 
-| 2007年国際新鋭囲碁対抗戦第2戦 | Murakawa Daisuke | Park Seunghwa | W+R | 2007-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QtoxPJspwSsDPHsx%2BoLeEg%3D%3D) | 
-| 2007年国際新鋭囲碁対抗戦第1戦 | Park Seunghwa | Zhang Kaixin | B+R | 2007-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FyvGQ6zoJA4Li1ZGsmuULA%3D%3D) | 
-| 第11期SKガス杯新鋭プロ十傑戦リーグAプレーオフ | Park Seunghwa | Heo Yongho | W+R | 2007-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nI5IE5%2FKXDj2bLL5%2BfEd6g%3D%3D) | 
-| 2007年韓国囲碁リーグ | Yun Junsang | Park Seunghwa | B+R | 2007-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B35GXAdo%2FE4aH5bfuP0qmQ%3D%3D) | 
-| 第11期SKガス杯新鋭プロ十傑戦リーグA | Kim Hyeoimin | Park Seunghwa | W+R | 2007-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d%2FIcYVI03vlG1LUykGSPWA%3D%3D) | 
-| 2007年韓国囲碁リーグ | Kim Kiyoung | Park Seunghwa | B+1.5 | 2007-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j1xX1g4t%2Bo2y3jw%2Fth3htQ%3D%3D) | 
-| 2007年韓国囲碁リーグ | Park Seunghwa | Hong Seongji | B+R | 2007-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cg%2FpsXmpPLLdc3%2BGkNcjHA%3D%3D) | 
-| 2007年韓国囲碁リーグ | Weon Seongjin | Park Seunghwa | W+R | 2007-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i2kZZiTNwQ%2Ft6PuBlCAMLw%3D%3D) | 
-| 第7期オスラムコリア杯新鋭連勝最強戦第21戦 | Han Sanghoon | Park Seunghwa | B+1.5 | 2007-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zEWQN9WWgGCv3rHP14Q%2BXw%3D%3D) | 
-| 2007年韓国囲碁リーグ | Park Seunghwa | missing | B+R | 2007-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2Rql6Pyy4NlQbx5zqLc98w%3D%3D) | 
-| 第7期オスラムコリア杯新鋭連勝最強戦第20戦 | Park Seunghwa | Jin Donggyu | B+3.5 | 2007-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BbTVgOJoW25Ku4xt33U9Hg%3D%3D) | 
-| 2007年韓国囲碁リーグ | Park Seunghwa | Kim Seungjun | B+5.5 | 2007-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NgnNY1bu3rGUgh5VQXgR%2BA%3D%3D) | 
-| 第11期SKガス杯新鋭プロ十傑戦リーグA | Park Seunghwa | On Sojin | B+2.5 | 2007-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y9DcKnx%2FN2DdaFXWyp6X4Q%3D%3D) | 
-| 2007年韓国囲碁リーグ | Park Seunghwa | Hong Minpyo | B+3.5 | 2007-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nQpsngkSN3zzvkl7u%2FPchA%3D%3D) | 
-| 第11期SKガス杯新鋭プロ十傑戦リーグA | Park Seunghwa | Heo Yongho | W+R | 2007-05-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pX8wkusSsj9BJQqAWI8SzQ%3D%3D) | 
-| 2007年韓国囲碁リーグ | Park Seunghwa | Lee Jungwoo | W+R | 2007-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E7QUbZ9hDjhPMMeiZW0AFQ%3D%3D) | 
-| 2007年韓国囲碁リーグ | Park Seunghwa | Hong Seongji | W+R | 2007-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bt0TT9G0yGwrBc%2Fzy8iGgg%3D%3D) | 
-| 第11期SKガス杯新鋭プロ十傑戦リーグA | Park Seunghwa | Jin Donggyu | B+R | 2007-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u4jwtMyAHhidgOLA8lT1GA%3D%3D) | 
-| 第41期王位戦2回戦 | Park Seunghwa | Heo Yongho | W+R | 2007-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R%2Bu0htA4eFYc%2BUevzFbJZw%3D%3D) | 
-| 第17期BCカード杯新人王戦準決勝 | Paek Hongseok | Park Seunghwa | B+R | 2007-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FQU%2FPZODjehO3FsjxP44Sg%3D%3D) | 
-| 第17期BCカード杯新人王戦3回戦 | Park Seunghwa | Hong Seongji | B+1.5 | 2007-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LJwWISXYSDaT5bBgKBYs7A%3D%3D) | 
-| 第11期SKガス杯新鋭プロ十傑戦リーグA | Yun Hyuk | Park Seunghwa | W+R | 2007-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=guR%2BiyonCrSOmI66oDgTCQ%3D%3D) | 
-| 第17期BCカード杯新人王戦2回戦 | Park Seunghwa | missing | B+R | 2007-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hqq8KbERid47TqbHoQa7%2Fw%3D%3D) | 
-| 第17期BCカード杯新人王戦1回戦 | Kim Hyeongwoo | Park Seunghwa | W+R | 2006-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aqTIsB2yb6A3IeSJLf0pfg%3D%3D) | 
-| 2006年国際新鋭囲碁対抗戦第3戦 | missing | Park Seunghwa | B+R | 2006-11-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HNnSgfMF0Kl0XZd47oFDWg%3D%3D) | 
-| 2006年国際新鋭囲碁対抗戦第2戦 | Yamada Shinji | Park Seunghwa | W+R | 2006-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dgyb7FAE%2Bgn4D1r3%2BtsRTQ%3D%3D) | 
-| 2006年国際新鋭囲碁対抗戦第1戦 | Zhou Yinnan | Park Seunghwa | W+R | 2006-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T6Jk6uBN1%2BdVI75W3mxoVA%3D%3D) | 
-| 第2期圓益杯十段戦2回戦 | Park Seunghwa | Park Cheongsang | W+R | 2006-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rmQCJ06d6%2FDjt8CkoFwY%2FA%3D%3D) | 
-| 第2期圓益杯十段戦1回戦 | Park Seunghwa | Lee Jaeung | B+R | 2006-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1wGKcOWH3PJ9V4AQKoYpwA%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-25 | 2021-2022韓国囲碁リーグ | Park Seunghwa | An Sungjoon | Win | B+1.5 | 6.5 | 2994 | -192 | 
+| 2021-05-05 | 第26回LG杯韓国予選 | Park Seunghwa | Hong Seongji | Lose | W+R | 6.5 | 3186 | -241 | 
+| 2021-02-21 | 2020-2021韓国囲碁リーグ | Lee Donghoon | Park Seunghwa | Lose | B+R | 6.5 | 3427 | -95 | 
+| 2021-02-14 | 2020-2021韓国囲碁リーグ | Park Seunghwa | Shin Jinseo | Lose | W+R | 6.5 | 3522 | 1 | 
+| 2021-02-08 | 第4期韓国竜星戦1回戦 | Park Seunghwa | Lee Changseok | Lose | W+R | 6.5 | 3521 | -12 | 
+| 2021-01-28 | 2020-2021韓国囲碁リーグ | Byun Sangil | Park Seunghwa | Lose | B+R | 6.5 | 3533 | 7 | 
+| 2021-01-15 | 2020-2021韓国囲碁リーグ | Park Seunghwa | Kang Yootaek | Lose | W+2.5 | 6.5 | 3526 | 13 | 
+| 2020-12-31 | 2020-2021韓国囲碁リーグ | Lee Donghoon | Park Seunghwa | Lose | B+R | 6.5 | 3513 | -8 | 
+| 2020-12-24 | 2020-2021韓国囲碁リーグ | Park Seunghwa | Weon Seongjin | Lose | W+1.5 | 6.5 | 3521 | 21 | 
+| 2020-12-18 | 2020-2021韓国囲碁リーグ | Park Seunghwa | Kim Jiseok | Lose | W+1.5 | 6.5 | 3500 | -43 | 
+| 2020-12-13 | 2020-2021韓国囲碁リーグ | Park Geunho | Park Seunghwa | Lose | B+R | 6.5 | 3543 | -18 | 
+| 2020-12-03 | 2020-2021韓国囲碁リーグ | Park Seunghwa | Park Hamin | Lose | W+R | 6.5 | 3561 | -20 | 
+| 2020-11-28 | 2020-2021韓国囲碁リーグ | Park Seunghwa | Park Junghwan | Lose | W+R | 6.5 | 3581 | 137 | 
+| 2020-10-26 | 第1回ORO30-40囲碁選手権リーグ | On Sojin | Park Seunghwa | Lose | B+1.5 | 6.5 | 3444 | -40 | 
+| 2020-10-15 | 第1回ORO30-40囲碁選手権リーグ | Paek Hongseok | Park Seunghwa | Win | W+R | 6.5 | 3484 | 15 | 
+| 2020-10-06 | 第1回ORO30-40囲碁選手権リーグ | Han Sanghoon | Park Seunghwa | Win | W+R | 6.5 | 3469 | -13 | 
+| 2020-09-29 | 第22回農心杯韓国選抜戦 | Hong Kipyo | Park Seunghwa | Lose | B+R | 6.5 | 3482 | -21 | 
+| 2020-09-28 | 第22回農心杯韓国選抜戦 | Park Seunghwa | Kang Seungmin | Win | B+R | 6.5 | 3503 | 50 | 
+| 2020-09-22 | 第22回農心杯韓国選抜戦 | Park Geunho | Park Seunghwa | Win | W+1.5 | 6.5 | 3453 | 16 | 
+| 2020-09-21 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Seunghwa | Kang Dongyun | Lose | W+R | 6.5 | 3437 | -23 | 
+| 2020-09-16 | 第1回ORO30-40囲碁選手権リーグ | Park Seunghwa | Cho Hyeyeon | Lose | W+R | 6.5 | 3460 | -13 | 
+| 2020-09-10 | 第1回ORO30-40囲碁選手権リーグ | Yun Chanhee | Park Seunghwa | Win | W+4.5 | 6.5 | 3473 | 32 | 
+| 2020-09-04 | 第2期ソパルコサノル最高棋士決定戦予選 | An Sungjoon | Park Seunghwa | Win | W+4.5 | 6.5 | 3441 | 18 | 
+| 2020-09-03 | 第1回ORO30-40囲碁選手権リーグ | Kim Sonjin | Park Seunghwa | Lose | B+R | 6.5 | 3423 | -22 | 
+| 2020-08-31 | 第25回三星火災杯韓国一般枠予選 | Park Seunghwa | Moon Minjong | Lose | W+R | 6.5 | 3445 | 105 | 
+| 2020-06-03 | 第25回LG杯朝鮮日報棋王戦1回戦 | Park Seunghwa | Ding Hao | Lose | W+R | 6.5 | 3340 | 87 | 
+| 2020-04-28 | 第25回LG杯韓国予選決勝 | Park Seunghwa | Baek Chanhee | Win | B+0.5 | 6.5 | 3253 | 16 | 
+| 2020-04-27 | 第25回LG杯韓国予選 | Park Seunghwa | Gon Jiwoo | Win | B+R | 6.5 | 3237 | 26 | 
+| 2020-04-22 | 第25回LG杯韓国予選 | Lee Chungyu | Park Seunghwa | Win | W+R | 6.5 | 3211 | 10 | 
+| 2020-04-21 | 第25回LG杯韓国予選 | Kang Yootaek | Park Seunghwa | Win | W+R | 6.5 | 3201 | -121 | 
+| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第2試合第2局 | Park Seunghwa | Park Younglong | Win | B+R | 6.5 | 3322 | -17 | 
+| 2020-01-26 | 2019-2020韓国囲碁リーグ第17節第4試合第5局 | Lee Wondo | Park Seunghwa | Win | W+R | 6.5 | 3339 | 8 | 
+| 2020-01-18 | 2019-2020韓国囲碁リーグ第16節第3試合第4局 | Seol Hyunjun | Park Seunghwa | Lose | B+R | 6.5 | 3331 | -22 | 
+| 2020-01-12 | 2019-2020韓国囲碁リーグ第15節第4試合第2局 | Park Seunghwa | Song Jihoon | Lose | W+R | 6.5 | 3353 | -29 | 
+| 2020-01-04 | 2019-2020韓国囲碁リーグ第14節第3試合第4局 | Park Seunghwa | Lee Changseok | Win | B+R | 6.5 | 3382 | 22 | 
+| 2019-12-26 | 2019-2020韓国囲碁リーグ第13節第1試合第3局 | Park Seunghwa | Kim Jiseok | Lose | W+2.5 | 6.5 | 3360 | 272 | 
+| 2019-12-12 | 2019-2020韓国囲碁リーグ第11節第1試合第4局 | An Joyeong | Park Seunghwa | Win | W+2.5 | 6.5 | 3088 | 14 | 
+| 2019-12-05 | 2019-2020韓国囲碁リーグ第10節第1試合第1局 | Park Seunghwa | Han Seungjoo | Lose | W+R | 6.5 | 3074 | -34 | 
+| 2019-11-30 | 2019-2020韓国囲碁リーグ第9節第3試合第4局 | An Jungki | Park Seunghwa | Win | W+3.5 | 6.5 | 3108 | 30 | 
+| 2019-11-21 | 2019-2020韓国囲碁リーグ第8節第1試合第4局 | Choi Jeong | Park Seunghwa | Lose | B+R | 6.5 | 3078 | -35 | 
+| 2019-11-15 | 2019-2020韓国囲碁リーグ第7節第2試合第2局 | Park Seunghwa | Wen Rubin | Win | B+R | 6.5 | 3113 | -2 | 
+| 2019-11-07 | 2019-2020韓国囲碁リーグ第6節第1試合第4局 | Choi Jaeyoung | Park Seunghwa | Lose | B+R | 6.5 | 3115 | -57 | 
+| 2019-11-01 | 2019-2020韓国囲碁リーグ第5節第2試合第3局 | Choi Cheolhan | Park Seunghwa | Lose | B+R | 6.5 | 3172 | -68 | 
+| 2019-10-27 | 2019-2020韓国囲碁リーグ第4節第4試合第3局 | Park Seunghwa | Paek Hongseok | Win | B+R | 6.5 | 3240 | 84 | 
+| 2019-10-06 | 2019-2020韓国囲碁リーグ第2節第4試合第5局 | Park Seunghwa | Park Jinsol | Win | B+1.5 | 6.5 | 3156 | 129 | 
+| 2019-09-29 | 2019-2020韓国囲碁リーグ第1節第4試合第3局 | Park Seunghwa | Lee Yeongkyu | Win | B+R | 6.5 | 3027 | 3027 | 
+| 2019-07-25 | 第21回農心杯韓国選抜戦 | Park Seunghwa | Park Junghwan | Lose | W+R | 6.5 | missing | 0 | 
+| 2019-05-22 | 第4回夢百合杯統合予選 | Tan Xiao | Park Seunghwa | Lose | B+R | 7.5 | missing | 0 | 
+| 2019-04-04 | 第24回LG杯統合予選3回戦 | Fan Yunruo | Park Seunghwa | Lose | B+R | 6.5 | missing | -2791 | 
+| 2016-10-21 | 2016年韓国囲碁リーグ | Min Sangyoun | Park Seunghwa | Win | W+R | 6.5 | 2791 | 12 | 
+| 2016-10-16 | 2016年韓国囲碁リーグ | Park Seunghwa | Choi Cheolhan | Lose | W+R | 6.5 | 2779 | -24 | 
+| 2016-09-24 | 2016年韓国囲碁リーグ第14節 | Park Junghwan | Park Seunghwa | Lose | B+R | 6.5 | 2803 | -140 | 
+| 2016-08-25 | 2016年韓国囲碁リーグ第11節 | Park Seunghwa | Heo Yongho | Lose | W+R | 6.5 | 2943 | 57 | 
+| 2016-08-18 | 2016年韓国囲碁リーグ第10節 | Cho Hanseung | Park Seunghwa | Lose | B+R | 6.5 | 2886 | -11 | 
+| 2016-08-13 | 2016年韓国囲碁リーグ第9節 | Park Seunghwa | Kang Seungmin | Win | B+R | 6.5 | 2897 | 54 | 
+| 2016-07-28 | 2016年韓国囲碁リーグ第8節 | Na Hyun | Park Seunghwa | Lose | B+R | 6.5 | 2843 | -96 | 
+| 2016-07-22 | 2016年韓国囲碁リーグ第7節 | Park Seunghwa | Choi Jeong | Lose | W+R | 6.5 | 2939 | -3 | 
+| 2016-07-19 | 第21回三星火災杯統合予選準決勝 | Park Seunghwa | Fan Tingyu | Lose | W+R | 6.5 | 2942 | 17 | 
+| 2016-07-11 | 第35回KBS杯囲碁王戦2回戦 | Lee Hobum | Park Seunghwa | Lose | B+R | 6.5 | 2925 | 44 | 
+| 2016-07-07 | 2016年韓国囲碁リーグ第6節 | Park Cheongsang | Park Seunghwa | Lose | B+R | 6.5 | 2881 | -53 | 
+| 2016-06-24 | 2016年韓国囲碁リーグ第5節 | Lee Donghoon | Park Seunghwa | Win | W+0.5 | 6.5 | 2934 | -20 | 
+| 2016-06-19 | 2016年韓国囲碁リーグ第4節 | Han Seungjoo | Park Seunghwa | Lose | B+R | 6.5 | 2954 | 25 | 
+| 2016-06-05 | 2016年韓国囲碁リーグ第2節 | Park Seunghwa | Kim Kiyoung | Win | B+1.5 | 6.5 | 2929 | 53 | 
+| 2016-05-22 | 2016年韓国囲碁リーグ第1節 | Park Seunghwa | Cho Hanseung | Lose | W+R | 6.5 | 2876 | -22 | 
+| 2016-04-05 | 第21回LG杯予選 | Meng Tailing | Park Seunghwa | Lose | B+R | 6.5 | 2898 | -20 | 
+| 2016-04-04 | 第21回LG杯予選 | Park Seunghwa | Liu Xing | Win | B+R | 6.5 | 2918 | -115 | 
+| 2015-10-30 | 第34回KBS杯囲碁王戦3回戦 | Lee Sedol | Park Seunghwa | Lose | B+R | 6.5 | 3033 | -18 | 
+| 2015-10-27 | 2015年韓国囲碁リーグ | Park Seunghwa | Mok Jinseok | Lose | W+R | 6.5 | 3051 | -4 | 
+| 2015-10-25 | 2015年韓国囲碁リーグ | Shin Minjun | Park Seunghwa | Lose | B+6.5 | 6.5 | 3055 | 21 | 
+| 2015-10-01 | 2015年韓国囲碁リーグ | Park Cheongsang | Park Seunghwa | Win | W+R | 6.5 | 3034 | 17 | 
+| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Park Minkyu | Park Seunghwa | Lose | B+R | 6.5 | 3017 | -11 | 
+| 2015-09-25 | 2015年韓国囲碁リーグ | Park Seunghwa | Shin Minjun | Lose | W+R | 6.5 | 3028 | 6 | 
+| 2015-09-20 | 2015年韓国囲碁リーグ | Park Seunghwa | Kim Seongjae | Win | B+R | 6.5 | 3022 | -5 | 
+| 2015-09-05 | 2015年韓国囲碁リーグ | Han Seungjoo | Park Seunghwa | Win | W+R | 6.5 | 3027 | -27 | 
+| 2015-08-27 | 2015年韓国囲碁リーグ | Park Seunghwa | Song Jihoon | Lose | W+R | 6.5 | 3054 | 2 | 
+| 2015-08-22 | 2015年韓国囲碁リーグ | Kim Sedong | Park Seunghwa | Lose | B+R | 6.5 | 3052 | -21 | 
+| 2015-08-13 | 2015年韓国囲碁リーグ | Kim Junghyun | Park Seunghwa | Lose | B+0.5 | 6.5 | 3073 | -7 | 
+| 2015-08-05 | 第20回三星火災杯統合予選決勝 | Park Seunghwa | Shida Tatsuya | Lose | W+R | 6.5 | 3080 | -111 | 
+| 2015-07-16 | 2015年韓国囲碁リーグ | Park Seunghwa | Na Hyun | Lose | W+R | 6.5 | 3191 | 7 | 
+| 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Weon Seongjin | Park Seunghwa | Lose | B+R | 7.5 | 3184 | -28 | 
+| 2015-07-05 | 2015年韓国囲碁リーグ | Park Seunghwa | Choi Cheolhan | Lose | W+R | 6.5 | 3212 | -23 | 
+| 2015-06-27 | 2015年韓国囲碁リーグ | Park Seunghwa | Mok Jinseok | Win | B+R | 6.5 | 3235 | -60 | 
+| 2015-06-22 | 第34回KBS杯囲碁王戦2回戦 | Park Seunghwa | Byun Sangil | Win | B+R | 6.5 | 3295 | 18 | 
+| 2015-06-18 | 2015年韓国囲碁リーグ | Kang Yootaek | Park Seunghwa | Lose | B+R | 6.5 | 3277 | -60 | 
+| 2015-06-12 | 2015年韓国囲碁リーグ | Park Seunghwa | Yun Junsang | Lose | W+R | 6.5 | 3337 | -26 | 
+| 2015-05-31 | 2015年韓国囲碁リーグ | Song Jihoon | Park Seunghwa | Win | W+R | 6.5 | 3363 | -34 | 
+| 2015-05-23 | 第2回夢百合杯世界オープン戦予選 | Park Seunghwa | Liao Xingwen | Win | B+R | 7.5 | 3397 | 15 | 
+| 2015-05-22 | 第2回夢百合杯世界オープン戦予選 | Wang Chenfan | Park Seunghwa | Win | W+R | 7.5 | 3382 | -34 | 
+| 2015-05-15 | 2015年韓国囲碁リーグ | Park Seunghwa | Kim Sedong | Win | B+R | 6.5 | 3416 | 39 | 
+| 2015-05-10 | 2015年韓国囲碁リーグ | Park Seunghwa | Kim Junghyun | Lose | W+R | 6.5 | 3377 | 26 | 
+| 2015-04-26 | 2015年韓国囲碁リーグ | Ryu Minhyung | Park Seunghwa | Win | W+R | 6.5 | 3351 | 47 | 
+| 2015-04-17 | 第20回LG杯予選 | Park Seunghwa | Mi Yuting | Lose | W+R | 6.5 | 3304 | -105 | 
+| 2015-03-16 | 第34回KBS杯囲碁王戦1回戦 | Park Seunghwa | Cho Hanseung | Win | B+R | 6.5 | 3409 | -41 | 
+| 2014-11-23 | 2014年韓国囲碁リーグ | Na Hyun | Park Seunghwa | Lose | B+R | 6.5 | 3450 | 17 | 
+| 2014-11-21 | 2014年韓国囲碁リーグ | Hong Minpyo | Park Seunghwa | Win | W+R | 6.5 | 3433 | 186 | 
+| 2014-10-31 | 2014年韓国囲碁リーグ | Cho Hanseung | Park Seunghwa | Win | W+R | 6.5 | 3247 | 29 | 
+| 2014-10-19 | 2014年韓国囲碁リーグ | Park Seunghwa | Lee Taehyun | Lose | W+R | 6.5 | 3218 | -107 | 
+| 2014-10-10 | 2014年韓国囲碁リーグ | Ryu Minhyung | Park Seunghwa | Win | W+0.5 | 6.5 | 3325 | 24 | 
+| 2014-09-28 | 2014年韓国囲碁リーグ | Park Seunghwa | An Sungjoon | Lose | W+R | 6.5 | 3301 | 27 | 
+| 2014-08-31 | 2014年韓国囲碁リーグ | Park Jinsol | Park Seunghwa | Lose | B+3.5 | 6.5 | 3274 | -13 | 
+| 2014-08-10 | 2014年韓国囲碁リーグ | Kim Minho | Park Seunghwa | Win | W+R | 6.5 | 3287 | 10 | 
+| 2014-08-04 | 第19回三星火災杯統合予選3回戦 | Gu Lingyi | Park Seunghwa | Win | W+R | 6.5 | 3277 | 11 | 
+| 2014-07-21 | 第16回農心杯韓国選抜戦 |  | Park Seunghwa | Win | W+R | 6.5 | 3266 | 10 | 
+| 2014-07-20 | 2014年韓国囲碁リーグ | Park Seunghwa | Mok Jinseok | Win | B+R | 6.5 | 3256 | 55 | 
+| 2014-07-11 | 第42期名人戦（韓国）予選 | Park Seunghwa | Song Taekon | Lose | W+R | 6.5 | 3201 | -12 | 
+| 2014-07-03 | 2014年韓国囲碁リーグ | Park Seunghwa | Kim Jiseok | Lose | W+R | 6.5 | 3213 | 62 | 
+| 2014-06-15 | 2014年韓国囲碁リーグ | Park Seunghwa | Park Junghwan | Lose | W+R | 6.5 | 3151 | 29 | 
+| 2014-05-30 | 2014年韓国囲碁リーグ | Park Seunghwa | Park Yeonghun | Win | B+R | 6.5 | 3122 | 47 | 
+| 2014-05-25 | 2014年韓国囲碁リーグ | Park Seunghwa | Na Hyun | Win | B+R | 6.5 | 3075 | 108 | 
+| 2014-05-09 | 2014年韓国囲碁リーグ | Byun Sangil | Park Seunghwa | Win | W+R | 6.5 | 2967 | -116 | 
+| 2014-04-18 | 第19回LG杯予選 | Park Seunghwa | Gu Li | Lose | W+R | 6.5 | 3083 | 27 | 
+| 2014-04-11 | 2014年韓国囲碁リーグ | Park Seunghwa | Lee Sedol | Lose | W+R | 6.5 | 3056 | -4 | 
+| 2014-03-06 | 第19期GSカルテックス杯プロ棋戦3回戦 | Park Junghwan | Park Seunghwa | Lose | B+R | 6.5 | 3060 | -13 | 
+| 2014-02-06 | 第19期GSカルテックス杯プロ棋戦2回戦 | Park Yeonghun | Park Seunghwa | Win | W+R | 6.5 | 3073 | -25 | 
+| 2014-01-09 | 第19期GSカルテックス杯プロ棋戦1回戦 | Park Seunghwa | Shin Yoonho | Win | B+R | 6.5 | 3098 | 139 | 
+| 2013-11-22 | 2013年楽スターリーグ | Shin Minjun | Park Seunghwa | Lose | B+R | 6.5 | 2959 | -67 | 
+| 2013-11-02 | 2013年楽スターリーグ | Park Seunghwa | Kim Sonjin | Lose | W+R | 6.5 | 3026 | -23 | 
+| 2013-10-24 | 2013年韓国囲碁リーグ | Ahn Kukhyun | Park Seunghwa | Lose | B+R | 6.5 | 3049 | -12 | 
+| 2013-10-19 | 2013年楽スターリーグ |  | Park Seunghwa | Win | W+R | 6.5 | 3061 | -40 | 
+| 2013-10-05 | 2013年楽スターリーグ | Kang Seungmin | Park Seunghwa | Lose | B+1.5 | 6.5 | 3101 | -100 | 
+| 2013-09-28 | 2013年楽スターリーグ | Lee Hobum | Park Seunghwa | Lose | B+R | 6.5 | 3201 | -93 | 
+| 2013-08-10 | 2013年韓国囲碁リーグ | An Joyeong | Park Seunghwa | Win | W+0.5 | 6.5 | 3294 | 73 | 
+| 2013-08-07 | 第18回三星火災杯統合予選決勝 | Park Seunghwa | Park Yeonghun | Lose | W+R | 6.5 | 3221 | 68 | 
+| 2013-07-22 | 第15回農心杯韓国選抜戦 | Kim Jiseok | Park Seunghwa | Lose | B+R | 6.5 | 3153 | 115 | 
+| 2013-06-30 | 2013年韓国囲碁リーグ | Park Seunghwa | Park Cheongsang | Lose | W+R | 6.5 | 3038 | 13 | 
+| 2013-05-12 | 2013年韓国囲碁リーグ | Park Seunghwa | On Sojin | Lose | W+R | 6.5 | 3025 | -61 | 
+| 2013-04-19 | 2013年韓国囲碁リーグ | Park Seunghwa | Han Sanghoon | Win | B+R | 6.5 | 3086 | -72 | 
+| 2012-10-14 | 2012年韓国囲碁リーグ | Hong Kipyo | Park Seunghwa | Win | W+R | 6.5 | 3158 | 18 | 
+| 2012-10-13 | 2012年韓国囲碁リーグ | Park Seunghwa | An Joyeong | Lose | W+0.5 | 6.5 | 3140 | 0 | 
+| 2012-09-21 | 2012年韓国囲碁リーグ | Park Seunghwa | Hong Kipyo | Win | B+1.5 | 6.5 | 3140 | -30 | 
+| 2012-09-16 | 2012年韓国囲碁リーグ | Park Seunghwa | Byun Sangil | Lose | W+R | 6.5 | 3170 | 25 | 
+| 2012-08-26 | 2012年韓国囲碁リーグ | Kim Dongho | Park Seunghwa | Lose | B+3.5 | 6.5 | 3145 | -20 | 
+| 2012-08-24 | 2012年韓国囲碁リーグ | Ryu Suhang | Park Seunghwa | Win | W+R | 6.5 | 3165 | 91 | 
+| 2012-08-12 | 2012年韓国囲碁リーグ | Park Seunghwa | Park Younglong | Lose | W+R | 6.5 | 3074 | -60 | 
+| 2012-08-09 | 2012年韓国囲碁リーグ | Park Seunghwa | Na Hyun | Lose | W+R | 6.5 | 3134 | -94 | 
+| 2012-07-22 | 2012年韓国囲碁リーグ | Park Seunghwa | Lee Wonyoung | Lose | W+R | 6.5 | 3228 | -17 | 
+| 2012-07-20 | 2012年韓国囲碁リーグ | Park Yeonghun | Park Seunghwa | Win | W+R | 6.5 | 3245 | 47 | 
+| 2012-07-08 | 2012年韓国囲碁リーグ | Park Seunghwa | Lee Donghoon | Lose | W+1.5 | 6.5 | 3198 | -11 | 
+| 2012-06-29 | 2012年韓国囲碁リーグ | Park Seunghwa | Hong Kipyo | Lose | W+R | 6.5 | 3209 | 10 | 
+| 2012-06-23 | 2012年韓国囲碁リーグ | Park Seunghwa | Han Sanghoon | Win | B+R | 6.5 | 3199 | 33 | 
+| 2012-06-18 | 第17回LG杯世界棋王戦1回戦 | Park Seunghwa | Gu Li | Lose | W+R | 6.5 | 3166 | -25 | 
+| 2012-06-02 | 2012年韓国囲碁リーグ | Jin Siyoung | Park Seunghwa | Win | W+1.5 | 6.5 | 3191 | 57 | 
+| 2012-05-31 | 2012年韓国囲碁リーグ | Lee Jihyun | Park Seunghwa | Lose | B+0.5 | 6.5 | 3134 | -58 | 
+| 2012-05-19 | 2012年韓国囲碁リーグ | Park Seunghwa | Kim Hyeongwoo | Win | B+R | 6.5 | 3192 | 20 | 
+| 2012-05-14 | 第31回KBS杯囲碁王戦本戦1回戦 | Park Kyuongkeun | Park Seunghwa | Lose | B+R | 6.5 | 3172 | 2 | 
+| 2012-05-13 | 2012年韓国囲碁リーグ | Na Hyun | Park Seunghwa | Win | W+R | 6.5 | 3170 | -127 | 
+| 2012-04-28 | 2012年韓国囲碁リーグ | Park Junghwan | Park Seunghwa | Lose | B+R | 6.5 | 3297 | 27 | 
+| 2012-04-26 | 2012年韓国囲碁リーグ | Song Taekon | Park Seunghwa | Lose | B+0.5 | 6.5 | 3270 | -37 | 
+| 2012-04-24 | 第17回LG杯予選 | Murakawa Daisuke | Park Seunghwa | Win | W+R | 6.5 | 3307 | -12 | 
+| 2012-04-14 | 2012年韓国囲碁リーグ | Park Seunghwa | Kim Jiseok | Lose | W+4.5 | 6.5 | 3319 | 13 | 
+| 2012-03-12 | 第1回百霊杯世界囲碁選手権予選 | Shi Yue | Park Seunghwa | Lose | B+R | 7.5 | 3306 | -118 | 
+| 2011-12-19 | 第7期圓益杯十段戦2回戦 | Han Chongjin | Park Seunghwa | Lose | B+R | 6.5 | 3424 | 416 | 
+| 2011-11-27 | 2011年韓国囲碁リーグ | An Sungjoon | Park Seunghwa | Lose | B+R | 6.5 | 3008 | 28 | 
+| 2011-11-06 | 2011年韓国囲碁リーグ | Park Seunghwa | An Sungjoon | Lose | W+R | 6.5 | 2980 | -53 | 
+| 2011-10-21 | 2011年韓国囲碁リーグ | Park Seunghwa | Kim Hyeongwoo | Lose | W+2.5 | 6.5 | 3033 | -74 | 
+| 2011-10-12 | 第7期圓益杯十段戦1回戦 |  | Park Seunghwa | Win | W+R | 6.5 | 3107 | -15 | 
+| 2011-09-21 | 2011年韓国囲碁リーグ | Jin Donggyu | Park Seunghwa | Win | W+R | 6.5 | 3122 | 103 | 
+| 2011-09-09 | 2011年韓国囲碁リーグ | Park Seunghwa | Kang Yootaek | Lose | W+R | 6.5 | 3019 | -37 | 
+| 2011-09-02 | 2011年韓国囲碁リーグ | Park Seunghwa |  | Lose | W+R | 6.5 | 3056 | -40 | 
+| 2011-08-12 | 2011年韓国囲碁リーグ | Paek Hongseok | Park Seunghwa | Win | W+1.5 | 6.5 | 3096 | 24 | 
+| 2011-07-28 | 2011年韓国囲碁リーグ | Park Seunghwa | Ahn Kukhyun | Win | B+R | 6.5 | 3072 | 17 | 
+| 2011-07-17 | 2011年韓国囲碁リーグ | Park Seunghwa |  | Win | B+R | 6.5 | 3055 | -27 | 
+| 2011-07-13 | 第13回農心杯韓国選抜戦 | Cho Hunhyun | Park Seunghwa | Lose | B+R | 6.5 | 3082 | -2 | 
+| 2011-07-05 | 第13回農心杯韓国選抜戦 | Choi Cheolhan | Park Seunghwa | Win | W+R | 6.5 | 3084 | -93 | 
+| 2011-06-24 | 2011年韓国囲碁リーグ | Park Seunghwa | Kim Dongho | Lose | W+1.5 | 6.5 | 3177 | -66 | 
+| 2011-06-18 | 2011年韓国囲碁リーグ | Kim Seongjae | Park Seunghwa | Lose | B+R | 6.5 | 3243 | -32 | 
+| 2011-06-15 | 第16回LG杯世界棋王戦2回戦 | Park Seunghwa | Chen Shiyuan | Lose | W+1.5 | 6.5 | 3275 | -41 | 
+| 2011-06-13 | 第16回LG杯世界棋王戦1回戦 | Chen Yaoye | Park Seunghwa | Win | W+R | 6.5 | 3316 | 97 | 
+| 2011-05-29 | 2011年韓国囲碁リーグ | Park Cheongsang | Park Seunghwa | Lose | B+R | 6.5 | 3219 | -54 | 
+| 2011-05-20 | 2011年韓国囲碁リーグ |  | Park Seunghwa | Win | W+R | 6.5 | 3273 | 28 | 
+| 2011-05-09 | 第16期GSカルテックス杯プロ棋戦2回戦 | Park Seunghwa | Kim Jiseok | Lose | W+R | 6.5 | 3245 | -68 | 
+| 2011-05-03 | 第16回LG杯予選 | Park Seunghwa | Sun Tengyu | Win | B+R | 6.5 | 3313 | 79 | 
+| 2011-04-05 | 第7期物価情報杯プロ棋戦予選 | Park Seunghwa | Kim Seongjae | Lose | W+R | 6.5 | 3234 | -128 | 
+| 2011-03-12 | 第3回BCカード杯世界選手権3回戦 | Lee Sedol | Park Seunghwa | Lose | B+R | 6.5 | 3362 | -24 | 
+| 2011-02-25 | 第3回BCカード杯世界選手権2回戦 | Chen Shiyuan | Park Seunghwa | Win | W+R | 6.5 | 3386 | 111 | 
+| 2011-02-14 | 第16期GSカルテックス杯プロ棋戦1回戦 | Park Seunghwa | Park Cheongsang | Win | B+R | 6.5 | 3275 | 53 | 
+| 2011-01-29 | 第3回BCカード杯世界選手権1回戦 | Park Seunghwa | Lee Hyungjin | Win | B+R | 6.5 | 3222 | 267 | 
+| 2010-11-29 | 第12回農心辛ラーメン杯世界囲碁最強戦第5戦 | Xie He | Park Seunghwa | Lose | B+R | 6.5 | 2955 | 79 | 
+| 2010-07-22 | 第12回農心杯韓国選抜戦 | Park Seunghwa | Park Jiyeon | Win | B+R | 6.5 | 2876 | 2 | 
+| 2010-07-19 | 第12回農心杯韓国選抜戦 | Lee Chungyu | Park Seunghwa | Win | W+R | 6.5 | 2874 | 51 | 
+| 2010-07-06 | 第15期バッカス杯天元戦1回戦 | Paek Hongseok | Park Seunghwa | Lose | B+R | 6.5 | 2823 | -76 | 
+| 2009-10-22 | 2009年韓国囲碁リーグ | Park Seunghwa | Choi Myeonghun | Win | B+R | 6.5 | 2899 | -61 | 
+| 2009-08-22 | 2009年韓国囲碁リーグ | Kim Juho | Park Seunghwa | Lose | B+R | 6.5 | 2960 | 27 | 
+| 2009-08-16 | 2009年韓国囲碁リーグ | Choi Myeonghun | Park Seunghwa | Win | W+R | 6.5 | 2933 | 34 | 
+| 2009-08-05 | 第14回三星火災杯統合予選2回戦 | Park Seunghwa | Weon Seongjin | Lose | W+R | 6.5 | 2899 | -46 | 
+| 2009-06-27 | 2009年韓国囲碁リーグ | Kim Jiseok | Park Seunghwa | Lose | B+R | 6.5 | 2945 | 89 | 
+| 2009-05-31 | 2009年韓国囲碁リーグ | Lee Changho | Park Seunghwa | Lose | B+R | 6.5 | 2856 | -54 | 
+| 2009-05-24 | 2009年韓国囲碁リーグ | Lee Yeongkyu | Park Seunghwa | Win | W+R | 6.5 | 2910 | 185 | 
+| 2008-12-10 | 第12期SKガス杯新鋭プロ十傑戦五位決定戦 | Park Seunghwa | Lee Taehyun | Lose | W+R | 6.5 | 2725 | 248 | 
+| 2008-11-21 | 第12期SKガス杯新鋭プロ十傑戦リーグB | Park Seunghwa | Kim Kiyoung | Lose | W+R | 6.5 | 2477 | -75 | 
+| 2008-11-15 | 2008年韓国囲碁リーグ | Park Seunghwa | Choi Cheolhan | Lose | W+1.5 | 6.5 | 2552 | -34 | 
+| 2008-11-06 | 2008年韓国囲碁リーグ | Park Seunghwa | Kim Kiyoung | Lose | W+7.5 | 6.5 | 2586 | -22 | 
+| 2008-10-30 | 第12期SKガス杯新鋭プロ十傑戦リーグB | Park Seunghwa | Han Sanghoon | Lose | W+1.5 | 6.5 | 2608 | -565 | 
+| 2008-10-23 | 2008年韓国囲碁リーグ | Park Seunghwa | Park Yeonghun | Lose | W+2.5 | 6.5 | 3173 | 11 | 
+| 2008-10-09 | 2008年韓国囲碁リーグ | Park Seunghwa | Kim Daehee | Win | B+3.5 | 6.5 | 3162 | 36 | 
+| 2008-09-25 | 2008年韓国囲碁リーグ | Park Seunghwa | Kim Seonryong | Win | B+3.5 | 6.5 | 3126 | 23 | 
+| 2008-09-12 | 2008年韓国囲碁リーグ | Park Seunghwa | Kim Seungjun | Win | B+1.5 | 6.5 | 3103 | 33 | 
+| 2008-09-08 | 第4期圓益杯十段戦1回戦 | Hong Minpyo | Park Seunghwa | Lose | B+R | 6.5 | 3070 | -51 | 
+| 2008-08-21 | 第12期SKガス杯新鋭プロ十傑戦リーグB | Park Seunghwa | Kim Daehee | Lose | W+R | 6.5 | 3121 | -96 | 
+| 2008-08-16 | 2008年韓国囲碁リーグ | Park Seunghwa | Yun Junsang | Win | B+0.5 | 6.5 | 3217 | 308 | 
+| 2008-07-11 | 2008年韓国囲碁リーグ | Park Seunghwa | Kim Dongyeop | Win | B+8.5 | 6.5 | 2909 | -94 | 
+| 2008-05-23 | 2008年韓国囲碁リーグ | Hong Seongji | Park Seunghwa | Lose | B+R | 6.5 | 3003 | 38 | 
+| 2008-05-05 | 2008年韓国囲碁リーグ | Heo Yongho | Park Seunghwa | Lose | B+3.5 | 6.5 | 2965 | 213 | 
+| 2008-04-19 | 2008年韓国囲碁リーグ | Lee Sedol | Park Seunghwa | Lose | B+R | 6.5 | 2752 | -3 | 
+| 2008-04-15 | 第12期SKガス杯新鋭プロ十傑戦リーグB | Kim Hyeoimin | Park Seunghwa | Win | W+R | 6.5 | 2755 | 83 | 
+| 2008-02-26 | 第12期SKガス杯新鋭プロ十傑戦リーグB | Park Seunghwa |  | Win | B+R | 6.5 | 2672 | 22 | 
+| 2008-01-10 | 第18期BCカード杯新人王戦2回戦 | Kim Kiyoung | Park Seunghwa | Lose | B+R | 6.5 | 2650 | -30 | 
+| 2007-12-08 | 2007年韓国囲碁リーグ | Park Seunghwa | Kim Juho | Lose | W+R | 6.5 | 2680 | -24 | 
+| 2007-11-14 | 2007年韓国囲碁リーグ | Park Seunghwa | Kim Hyeongwoo | Win | B+R | 6.5 | 2704 | 37 | 
+| 2007-11-08 | 2007年国際新鋭囲碁対抗戦第3戦 | Park Seunghwa |  | Lose | W+R | 6.5 | 2667 | -26 | 
+| 2007-11-07 | 2007年国際新鋭囲碁対抗戦第2戦 | Murakawa Daisuke | Park Seunghwa | Win | W+R | 6.5 | 2693 | 29 | 
+| 2007-11-05 | 2007年国際新鋭囲碁対抗戦第1戦 | Park Seunghwa | Zhang Kaixin | Win | B+R | 6.5 | 2664 | 19 | 
+| 2007-10-30 | 第11期SKガス杯新鋭プロ十傑戦リーグAプレーオフ | Park Seunghwa | Heo Yongho | Lose | W+R | 6.5 | 2645 | -34 | 
+| 2007-10-17 | 2007年韓国囲碁リーグ | Yun Junsang | Park Seunghwa | Lose | B+R | 6.5 | 2679 | -28 | 
+| 2007-10-10 | 第11期SKガス杯新鋭プロ十傑戦リーグA | Kim Hyeoimin | Park Seunghwa | Win | W+R | 6.5 | 2707 | -1316 | 
+| 2007-09-21 | 2007年韓国囲碁リーグ | Kim Kiyoung | Park Seunghwa | Lose | B+1.5 | 6.5 | 4023 | 1192 | 
+| 2007-08-22 | 2007年韓国囲碁リーグ | Park Seunghwa | Hong Seongji | Win | B+R | 6.5 | 2831 | -245 | 
+| 2007-08-12 | 2007年韓国囲碁リーグ | Weon Seongjin | Park Seunghwa | Win | W+R | 6.5 | 3076 | -34 | 
+| 2007-08-06 | 第7期オスラムコリア杯新鋭連勝最強戦第21戦 | Han Sanghoon | Park Seunghwa | Lose | B+1.5 | 6.5 | 3110 | -73 | 
+| 2007-07-26 | 2007年韓国囲碁リーグ | Park Seunghwa |  | Win | B+R | 6.5 | 3183 | 13 | 
+| 2007-07-25 | 第7期オスラムコリア杯新鋭連勝最強戦第20戦 | Park Seunghwa | Jin Donggyu | Win | B+3.5 | 6.5 | 3170 | 162 | 
+| 2007-07-12 | 2007年韓国囲碁リーグ | Park Seunghwa | Kim Seungjun | Win | B+5.5 | 6.5 | 3008 | -97 | 
+| 2007-06-19 | 第11期SKガス杯新鋭プロ十傑戦リーグA | Park Seunghwa | On Sojin | Win | B+2.5 | 6.5 | 3105 | 100 | 
+| 2007-05-27 | 2007年韓国囲碁リーグ | Park Seunghwa | Hong Minpyo | Win | B+3.5 | 6.5 | 3005 | 39 | 
+| 2007-05-22 | 第11期SKガス杯新鋭プロ十傑戦リーグA | Park Seunghwa | Heo Yongho | Lose | W+R | 6.5 | 2966 | 1 | 
+| 2007-05-20 | 2007年韓国囲碁リーグ | Park Seunghwa | Lee Jungwoo | Lose | W+R | 6.5 | 2965 | -80 | 
+| 2007-05-04 | 2007年韓国囲碁リーグ | Park Seunghwa | Hong Seongji | Lose | W+R | 6.5 | 3045 | -47 | 
+| 2007-05-01 | 第11期SKガス杯新鋭プロ十傑戦リーグA | Park Seunghwa | Jin Donggyu | Win | B+R | 6.5 | 3092 | 40 | 
+| 2007-04-04 | 第41期王位戦2回戦 | Park Seunghwa | Heo Yongho | Lose | W+R | 6.5 | 3052 | -84 | 
+| 2007-03-26 | 第17期BCカード杯新人王戦準決勝 | Paek Hongseok | Park Seunghwa | Lose | B+R | 6.5 | 3136 | 329 | 
+| 2007-03-09 | 第17期BCカード杯新人王戦3回戦 | Park Seunghwa | Hong Seongji | Win | B+1.5 | 6.5 | 2807 | 56 | 
+| 2007-02-13 | 第11期SKガス杯新鋭プロ十傑戦リーグA | Yun Hyuk | Park Seunghwa | Win | W+R | 6.5 | 2751 | 11 | 
+| 2007-02-01 | 第17期BCカード杯新人王戦2回戦 | Park Seunghwa |  | Win | B+R | 6.5 | 2740 | 39 | 
+| 2006-12-11 | 第17期BCカード杯新人王戦1回戦 | Kim Hyeongwoo | Park Seunghwa | Win | W+R | 6.5 | 2701 | 48 | 
+| 2006-11-15 | 2006年国際新鋭囲碁対抗戦第3戦 |  | Park Seunghwa | Lose | B+R | 7.5 | 2653 | -180 | 
+| 2006-11-14 | 2006年国際新鋭囲碁対抗戦第2戦 | Yamada Shinji | Park Seunghwa | Win | W+R | 7.5 | 2833 | 82 | 
+| 2006-11-13 | 2006年国際新鋭囲碁対抗戦第1戦 | Zhou Yinnan | Park Seunghwa | Win | W+R | 7.5 | 2751 | 60 | 
+| 2006-11-08 | 第2期圓益杯十段戦2回戦 | Park Seunghwa | Park Cheongsang | Lose | W+R | 6.5 | 2691 | 2691 | 
+| 2006-09-05 | 第2期圓益杯十段戦1回戦 | Park Seunghwa | Lee Jaeung | Win | B+R | 6.5 | missing | missing |
 
 
 

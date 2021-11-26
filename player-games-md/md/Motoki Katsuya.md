@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-25 | 第77期本因坊戦リーグ | Motoki Katsuya | Shibano Toramaru | Lose | W+R | 6.5 | 3232 | -51 | 
 | 2021-10-28 | 第60期十段戦2回戦 | Motoki Katsuya | Seto Taiki | Win | B+R | 6.5 | 3283 | -39 | 
 | 2021-10-14 | 第77期本因坊戦リーグ | Hane Naoki | Motoki Katsuya | Lose | B+R | 6.5 | 3322 | -1 | 
 | 2021-09-20 | 第47期碁聖戦予選 | Ryu Shikun | Motoki Katsuya | Win | W+R | 6.5 | 3323 | -45 | 

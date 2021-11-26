@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-25 | 2021-2022韓国囲碁リーグ | Lee Taehyun | Byun Sangil | Lose | W+R | 6.5 | 3100 | -109 | 
 | 2021-11-20 | 2021-2022韓国囲碁リーグ | Lee Taehyun | Kim Junghyun | Win | B+R | 6.5 | 3209 | -44 | 
 | 2021-05-02 | 第26回LG杯韓国予選 | Choi Jeong | Lee Taehyun | Lose | B+R | 6.5 | 3253 | -350 | 
 | 2021-02-14 | 2020-2021韓国囲碁リーグ | Lee Taehyun | An Sungjoon | Lose | W+R | 6.5 | 3603 | -7 | 

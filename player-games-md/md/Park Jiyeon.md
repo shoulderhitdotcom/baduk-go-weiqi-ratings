@@ -7,6 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-26 | 2021蘭雪軒杯全国女子囲碁大会予選 | Park Jiyeon |  | Win | B+R | 6.5 | 2608 | -17 | 
+| 2021-11-22 | 第5期韓国製紙女子棋聖戦2回戦 | Park Jiyeon | Kim Hyeoimin | Win | B+R | 6.5 | 2625 | -33 | 
+| 2021-10-25 | 第5期韓国製紙女子棋聖戦1回戦 |  | Park Jiyeon | Win | W+R | 6.5 | 2658 | -133 | 
+| 2021-09-09 | 第7回韓国女子囲碁リーグ準プレーオフ第1戦 | Choi Jeong | Park Jiyeon | Lose | B+R | 6.5 | 2791 | 5 | 
+| 2021-08-26 | 第7回韓国女子囲碁リーグ | Kim Cheayoung | Park Jiyeon | Win | W+2.5 | 6.5 | 2786 | -14 | 
+| 2021-08-24 | 第26回三星火災杯韓国予選 | Park Jiyeon | Cho Seungah | Lose | W+T | 6.5 | 2800 | 0 | 
 | 2021-08-24 | 第26回三星火災杯韓国予選 | Park Jiyeon | Cho Seungah | Lose | W+R | 6.5 | 2800 | 2800 | 
 | 2021-08-20 | 第26回三星火災杯韓国予選 | Kim Cheayoung | Park Jiyeon | Win | W+R | 6.5 | missing | 0 | 
 | 2021-08-12 | 第7回韓国女子囲碁リーグ | Oh Yujin | Park Jiyeon | Lose | B+R | 6.5 | missing | -2806 | 

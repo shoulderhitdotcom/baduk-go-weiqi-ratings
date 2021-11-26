@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-26 | 第2回UMC聯電杯早碁争覇戦4回戦  | Yang Bowei | Jian Jingting | Lose | W+R | 6.5 | 2984 | 2 | 
 | 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦 | Lai Junfu | Yang Bowei | Win | W+R | 6.5 | 2982 | 10 | 
 | 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Yang Bowei | Huang Shiyuan | Win | B+R | 6.5 | 2972 | -33 | 
 | 2021-10-03 | 第9期中環碁聖戦16強戦 | Yang Bowei | Lin Lixiang | Lose | W+R | 6.5 | 3005 | -11 | 

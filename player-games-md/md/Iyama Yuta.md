@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-27 | 第23回農心辛ラーメン杯世界囲碁最強戦第6戦  | Fan Tingyu | Iyama Yuta | Win | W+R | 6.5 | 3459 | -55 | 
 | 2021-11-19 | 第69期王座戦挑戦手合五番勝負第3局  | Iyama Yuta | Shibano Toramaru | Win | B+R | 6.5 | 3514 | 3514 | 
 | 2021-11-12 | 第69期王座戦挑戦手合五番勝負第2局  | Shibano Toramaru | Iyama Yuta | Lose | B+R | 6.5 | missing | 0 | 
 | 2021-11-05 | 第46期名人戦挑戦手合七番勝負第7局  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | missing | -3480 | 

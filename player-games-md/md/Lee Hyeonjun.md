@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-27 | 2021-2022フューチャーズリーグ |  | Lee Hyeonjun | Lose | B+R | 6.5 | 2998 | -61 | 
 | 2021-11-20 | 2021-2022フューチャーズリーグ | Lee Hyeonjun | Hyun Yoobin | Lose | W+R | 6.5 | 3059 | 8 | 
 | 2021-09-03 | 第3期ソパルコサノル最高棋士決定戦予選 | Cho Hanseung | Lee Hyeonjun | Lose | B+R | 6.5 | 3051 | -102 | 
 | 2021-03-07 | 2020-2021フューチャーズリーグ | Lee Hyeonjun | Lee Chungyu | Win | B+R | 6.5 | 3153 | -8 | 

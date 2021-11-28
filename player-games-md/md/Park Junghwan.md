@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-27 | 2021-2022韓国囲碁リーグ | Park Junghwan | Kim Hyeongwoo | Win | B+R | 6.5 | 3707 | 0 | 
 | 2021-11-26 | 第23回農心辛ラーメン杯世界囲碁最強戦第5戦 | Fan Tingyu | Park Junghwan | Lose | B+R | 6.5 | 3707 | -50 | 
 | 2021-11-18 | 2021-2022韓国囲碁リーグ | Hong Seongji | Park Junghwan | Win | W+R | 6.5 | 3757 | 0 | 
 | 2021-11-14 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Park Junghwan | Win | W+R | 6.5 | 3757 | 18 | 

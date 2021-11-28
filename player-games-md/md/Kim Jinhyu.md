@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-27 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Kim Jinhyu | Win | W+5.5 | 6.5 | 3176 | 7 | 
+| 2021-11-18 | 2021-2022韓国囲碁リーグ | Kim Jinhyu | Lee Donghoon | Win | B+R | 6.5 | 3169 | -10 | 
 | 2021-11-15 | 第3期ソパルコサノル最高棋士決定戦予選 |  | Kim Jinhyu | Lose | B+R | 6.5 | 3179 | 3179 | 
 | 2021-10-04 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Jinhyu | Park Jaekeun | Win | B+R | 6.5 | missing | 0 | 
 | 2021-08-25 | 第26回三星火災杯韓国予選 | Kim Jinhyu | Seol Hyunjun | Lose | W+R | 6.5 | missing | -3202 | 

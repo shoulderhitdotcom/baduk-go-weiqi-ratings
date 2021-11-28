@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-27 | 2021-2022フューチャーズリーグ | Kim Changhoon | Kim Daeyoung | Win | B+R | 6.5 | 3283 | -64 | 
 | 2021-11-20 | 2021-2022フューチャーズリーグ | Kim Changhoon | Lee Hyunho | Lose | W+R | 6.5 | 3347 | 37 | 
 | 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Changhoon | Han Seungjoo | Lose | W+R | 6.5 | 3310 | 3310 | 
 | 2021-09-03 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Changhoon | Choi Myeonghun | Win | B+R | 6.5 | missing | -3343 | 

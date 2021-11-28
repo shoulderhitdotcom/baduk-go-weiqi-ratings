@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-27 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Na Hyun | Lose | B+R | 6.5 | 3256 | -32 | 
+| 2021-11-18 | 2021-2022韓国囲碁リーグ | Song Gyusang | Na Hyun | Lose | B+R | 6.5 | 3288 | -35 | 
 | 2021-09-08 | 第3期ソパルコサノル最高棋士決定戦予選 | Choi Jaeyoung | Na Hyun | Lose | B+0.5 | 6.5 | 3323 | -30 | 
 | 2021-05-13 | 第26回GSカルテックス杯プロ棋戦2回戦 | Weon Seongjin | Na Hyun | Lose | B+0.5 | 6.5 | 3353 | -13 | 
 | 2021-05-01 | 第26回LG杯韓国予選 | Na Hyun | Park Joonhoon | Lose | W+R | 6.5 | 3366 | -55 | 
@@ -91,7 +93,7 @@
 | 2019-06-26 | 第2期韓国竜星戦16強戦 | Na Hyun | Choi Jeong | Win | B+R | 6.5 | 3185 | -4 | 
 | 2019-06-23 | 2019年中国囲碁乙級リーグ | Onishi Ryuhei | Na Hyun | Win | W+R | 7.5 | 3189 | 18 | 
 | 2019-06-21 | 2019年中国囲碁乙級リーグ | Weon Seongjin | Na Hyun | Lose | B+R | 7.5 | 3171 | -15 | 
-| 2019-06-19 | 2019年中国囲碁乙級リーグ | Na Hyun |  | Win | B+R | 7.5 | 3186 | 6 | 
+| 2019-06-19 | 2019年中国囲碁乙級リーグ | Na Hyun | Liu Zhaozhe | Win | B+R | 7.5 | 3186 | 6 | 
 | 2019-06-18 | 2019年中国囲碁乙級リーグ | Na Hyun |  | Win | B+R | 7.5 | 3180 | 5 | 
 | 2019-06-16 | 2019年中国囲碁乙級リーグ | Na Hyun | Tong Yulin | Win | B+R | 7.5 | 3175 | 15 | 
 | 2019-06-15 | 2019年中国囲碁乙級リーグ | Yun Junsang | Na Hyun | Win | W+R | 7.5 | 3160 | 1 | 

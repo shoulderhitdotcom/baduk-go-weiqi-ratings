@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-27 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Kim Jinhyu | Lose | W+5.5 | 6.5 | 3207 | -53 | 
 | 2021-11-20 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Lee Changho | Win | B+1.5 | 6.5 | 3260 | 47 | 
 | 2021-11-17 | 第7回国手山脈韓国国内トーナメント予選 | Lee Yeongkyu | Kim Junghyun | Lose | W+R | 6.5 | 3213 | -25 | 
 | 2021-11-16 | 第7回国手山脈韓国国内トーナメント予選 |  | Lee Yeongkyu | Win | W+R | 6.5 | 3238 | -37 | 

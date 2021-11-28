@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-27 | 2021-2022フューチャーズリーグ | Choi Kyeongho | Lee Wondo | Lose | W+R | 6.5 | 2781 | -200 | 
 | 2021-11-20 | 2021-2022フューチャーズリーグ | Choi Kyeongho | Park Jinyoung | Lose | W+0.5 | 6.5 | 2981 | 64 | 
 | 2021-08-05 | 第2期利鵬杯新鋭最高位戦8強戦 | Kim Sangcheon | Choi Kyeongho | Lose | B+R | 6.5 | 2917 | -38 | 
 | 2021-07-09 | 第2期利鵬杯新鋭最高位戦 | Choi Kyeongho |  | Win | B+R | 6.5 | 2955 | -97 | 

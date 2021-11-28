@@ -5,191 +5,194 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第26回LG杯韓国予選 | Jin Siyoung | Park Jinsol | W+R | 2021-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J44%2BYG2zIR1MRVxURIuK8g%3D%3D) | 
-| 第4期韓国竜星戦予選 | Hong Mujin | Jin Siyoung | B+R | 2021-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MoP6%2BlysLxWQu2Ckt%2B9igA%3D%3D) | 
-| 第25回LG杯韓国予選 | Jin Siyoung | missing | W+1.5 | 2020-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RTbGinIj9qJNjS0F5JH5dw%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第18節第3試合第4局 | Jin Siyoung | Choi Jaeyoung | B+R | 2020-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cV24FZmgxymyqnbvIDSeAg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第17節第3試合第4局 | Wen Rubin | Jin Siyoung | W+R | 2020-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qneWIiR72sok8SucyYNzmg%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第16節第2試合第3局 | Jin Siyoung | Park Hyunsoo | B+R | 2020-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h2eDQuyjSd9ww1puisvhDQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第14節第1試合第4局 | Lee Yeongkyu | Jin Siyoung | B+1.5 | 2020-01-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pc0RRp3RUBLhbVZJeC6ZxQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第13節第4試合第3局 | Jin Siyoung | Choi Cheolhan | W+R | 2019-12-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y6TPb9KbzQ3UUbMJQJUdpQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第12節第3試合第5局 | Jin Siyoung | Park Hamin | B+R | 2019-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GmZ%2BlAufWkbCw3eeMyJSLQ%3D%3D) | 
-| 第25期GSカルテックス杯プロ棋戦予選 | Jin Siyoung | Lee Donghoon | W+R | 2019-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UZvY1GIM%2BnSe129s%2F8KxaA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第11節第1試合第5局 | Park Sangjin | Jin Siyoung | W+R | 2019-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EFF934DN9sZ%2BXBIwBhI5ag%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第10節第3試合第4局 | Jin Siyoung | Lee Wondo | B+R | 2019-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LcorG%2BD%2FZ595LlAPOli6Xw%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第9節第2試合第2局 | Jin Siyoung | Weon Seongjin | B+R | 2019-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=doYPgHOhF4fMY%2BsQIYEgag%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第8節第2試合第4局 | Jin Siyoung | Hong Seongji | B+4.5 | 2019-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fh%2FBqcKBclTlR3HF%2FgUPuA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第7節第3試合第4局 | Paek Hongseok | Jin Siyoung | W+R | 2019-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EPfJBu2GtIq%2BHmQX%2FTcUoA%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第5節第4試合第5局 | Lee Yeongkyu | Jin Siyoung | B+R | 2019-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pOQxGeMv3UBw6YPeOZQAqQ%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第4節第1試合第1局 | Jin Siyoung | Choi Cheolhan | W+R | 2019-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q1EmyAQitECJKjcJ9Mj%2F3A%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第2節第4試合第4局 | Jin Siyoung | Lee Jihyun | W+R | 2019-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j6mT6NmJLGpncDXfnMi1ag%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第1節第2試合第4局 | Jin Siyoung | Han Sanghoon | B+R | 2019-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xgJUWRUm%2F81e9i7D9UkqZQ%3D%3D) | 
-| 第6回国手山脈韓国国内トーナメント予選 | Jin Siyoung | Weon Seongjin | W+R | 2019-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NjgabezzJfiNTbp3HRUdAQ%3D%3D) | 
-| 2019年囲碁テレビ杯早碁戦16強戦 | Shin Jinseo | Jin Siyoung | B+R | 2019-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1fio%2BZnn4CApsiP4H%2F5iAQ%3D%3D) | 
-| 第4回夢百合杯統合予選 | Jin Siyoung | Shi Yue | W+R | 2019-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=53BvW26%2BvURMw2yaHVG9Iw%3D%3D) | 
-| 2019年囲碁テレビ杯早碁戦32強戦 | Jin Siyoung | Han Wonggyu | B+2.5 | 2019-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZUXtRBLIJa4oJaXo2%2Bfufw%3D%3D) | 
-| 第38回KBS杯囲碁王戦1回戦 | Park Jinsol | Jin Siyoung | B+R | 2019-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fiyEHrZsAIFmatfoIRWGeA%3D%3D) | 
-| 2018年フューチャーズリーグ | missing | Jin Siyoung | B+R | 2018-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UoHO3pFoEAG7iqj5GNZ1Kg%3D%3D) | 
-| 2018年フューチャーズリーグ | Jin Siyoung | missing | B+R | 2018-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kWyHxvGhuvg9N%2F06Q4z1Cw%3D%3D) | 
-| 2018年韓国囲碁リーグ第12節 | Oh Yujin | Jin Siyoung | W+R | 2018-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J1dWovN2ajSq7tcrMNjyfg%3D%3D) | 
-| 2018年韓国囲碁リーグ第12節 | Kim Myounghoon | Jin Siyoung | B+R | 2018-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uQ0ib5THjZkFI8q4tbiQCw%3D%3D) | 
-| 2018年フューチャーズリーグ | Wi Taewoong | Jin Siyoung | W+R | 2018-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RU7MLC6lU8So1Q7bvjQOoA%3D%3D) | 
-| 2018年フューチャーズリーグ | Kang Hun | Jin Siyoung | W+R | 2018-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QgUvIxFVTh9Dy2jZ7%2BTXAA%3D%3D) | 
-| 2018年フューチャーズリーグ | Jin Siyoung | Kim Sedong | W+R | 2018-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kS5U%2FAmBeSuLnBd%2BHo%2FSxw%3D%3D) | 
-| 2018年韓国囲碁リーグ第9節 | Jin Siyoung | Hong Kipyo | B+R | 2018-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2eCDHHRm2E4kCfhES%2FRv9w%3D%3D) | 
-| 2018年フューチャーズリーグ | Jin Siyoung | Kim Kiyoung | B+R | 2018-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qUZR7p269lFSUsIR4Kmujw%3D%3D) | 
-| 2018年韓国囲碁リーグ第8節 | Jin Siyoung | Ryu Minhyung | B+R | 2018-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TLwptUe6BGYhaXKyAkNV9w%3D%3D) | 
-| 2018年フューチャーズリーグ | Jin Siyoung | Lee Chungyu | B+R | 2018-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zVV5mPBAuMC3VaVGNGF4iA%3D%3D) | 
-| 2018年フューチャーズリーグ | missing | Jin Siyoung | W+R | 2018-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0CjdFGHlItxHemyuefo62w%3D%3D) | 
-| 2018年フューチャーズリーグ | Jin Siyoung | Song Gyusang | W+R | 2018-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wmi9wrjkAdjO0jEM5pJcMg%3D%3D) | 
-| 2018年韓国囲碁リーグ第5節 | Jin Siyoung | Shin Jinseo | W+R | 2018-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n0VhdEyYJHokdbILyFiMtg%3D%3D) | 
-| 2018年フューチャーズリーグ | Wi Taewoong | Jin Siyoung | W+R | 2018-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oD8FTq4Xc6HCiZ1CQAbt6w%3D%3D) | 
-| 2018年フューチャーズリーグ | Kang Hun | Jin Siyoung | B+R | 2018-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YCg17olDn9b%2F%2Fzi2itn4Tg%3D%3D) | 
-| 2018年フューチャーズリーグ | missing | Jin Siyoung | W+R | 2018-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HJRLtug%2Bq8DChUzOp%2B4%2BGw%3D%3D) | 
-| 2018年フューチャーズリーグ | Park Sangjin | Jin Siyoung | B+R | 2018-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nbChsOL2dYzV1%2B8AxCrjbA%3D%3D) | 
-| 2018年韓国囲碁リーグ第1節 | Park Minkyu | Jin Siyoung | B+R | 2018-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z2wHt9l18moKgLGrr%2BUAAw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Jin Siyoung | missing | W+R | 2017-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=64zCITC%2B5IaCQntlJ%2BykZA%3D%3D) | 
-| 2017年韓国囲碁リーグ | Jin Siyoung | missing | W+R | 2017-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RSt5dFQ63fySaw1yVtCeEQ%3D%3D) | 
-| 2017年韓国囲碁リーグ | Jin Siyoung | Park Junghwan | W+R | 2017-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bqB4jMQL14G2sjne6mQUlw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Park Yeonghun | Jin Siyoung | B+R | 2017-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mZxJomxVJX9kx4%2FLKlfa%2BA%3D%3D) | 
-| 2017年韓国囲碁リーグ | Jin Siyoung | Yun Chanhee | W+R | 2017-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IjS%2BSlSQHCVmF%2FkCe1%2FvDw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Paek Hongseok | Jin Siyoung | B+2.5 | 2017-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7bzps98eUnGoBN1s%2FXLYsg%3D%3D) | 
-| 第19回農心杯韓国選抜戦 | Jin Siyoung | Lee Yeongkyu | B+R | 2017-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aOgkQbxzOQK386eGU4aVVQ%3D%3D) | 
-| 2017年韓国囲碁リーグ | Shin Minjun | Jin Siyoung | B+R | 2017-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D2YdA4uqfHmcfCJVygHjpQ%3D%3D) | 
-| 第22回三星火災杯統合予選2回戦 | Jin Siyoung | Koike Yoshihiro | B+R | 2017-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xDUeSEEVhNgvxZyd34XLCA%3D%3D) | 
-| 2017年韓国囲碁リーグ | Park Junghwan | Jin Siyoung | B+2.5 | 2017-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l4M5WDzLgdm6GS2FaTW8bw%3D%3D) | 
-| 2017年韓国囲碁リーグ | Lee Taehyun | Jin Siyoung | B+R | 2017-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P%2F13VZwPr9X8RdMlMSnK9Q%3D%3D) | 
-| 2017年韓国囲碁リーグ | Jin Siyoung | Han Seungjoo | B+1.5 | 2017-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6Yz5lvg6dQh2bQgB5Ob5xQ%3D%3D) | 
-| 2015年レッツランパーク杯オープントーナメント4回戦 | Kim Myounghoon | Jin Siyoung | B+R | 2015-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lAM1pAHpTuw7LBlsIh3jJQ%3D%3D) | 
-| 2015年レッツランパーク杯オープントーナメント3回戦 | Jin Siyoung | Park Yeonghun | B+R | 2015-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W8H7LJP6zyiHDGwdqXCOAw%3D%3D) | 
-| 2015年レッツランパーク杯オープントーナメント2回戦 | Jin Siyoung | Kim Kiyoung | B+R | 2015-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HBaln1K0rc8OrLLTmBZPFg%3D%3D) | 
-| 2015年レッツランパーク杯オープントーナメント1回戦 | Jin Siyoung | Ahn Kukhyun | B+R | 2015-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rbKM022UvCjl9Y41HfmjhQ%3D%3D) | 
-| 第20期GSカルテックス杯プロ棋戦3回戦 | Jin Siyoung | Kim Myounghoon | W+R | 2015-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HU1SHR4wOoWrfJLoHTqkjw%3D%3D) | 
-| 第20期GSカルテックス杯プロ棋戦2回戦 | Park Junghwan | Jin Siyoung | W+R | 2015-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8fzG4ckoZNek%2FrKbrne6Xw%3D%3D) | 
-| 第20期GSカルテックス杯プロ棋戦1回戦 | Jin Siyoung | Lee Hyungjin | B+R | 2015-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ECkcYe9wcJa9%2B5SMszIZKw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Ryu Minhyung | Jin Siyoung | W+R | 2014-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NflyhfRzJzcCYP3xJ2%2FURw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Jin Siyoung | Cho Insun | B+R | 2014-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rjvKL4wWNkVYqGASoEhXfQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Jin Siyoung | Park Yeonghun | B+R | 2014-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c5SdCWCqbC0T90MfuCcWOQ%3D%3D) | 
-| 第2回百霊杯世界オープン戦4回戦 | Jin Siyoung | Park Junghwan | W+R | 2014-09-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=km2ZbC5wyKdxOY0Xd985Kg%3D%3D) | 
-| 2014年韓国囲碁リーグ | missing | Jin Siyoung | W+R | 2014-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2YbYNlsEPbfs3QQX0RVlcA%3D%3D) | 
-| 第58期国手戦（韓国）1回戦 | Park Junghwan | Jin Siyoung | B+R | 2014-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O6TgbVjygmYEn9wDAcdI8A%3D%3D) | 
-| 2014年韓国囲碁リーグ | Jin Siyoung | Lee Jihyun | W+R | 2014-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CrwRSBaqJ7TSX4KpqGUNyg%3D%3D) | 
-| 第10期物価情報杯プロ棋戦リーグB | Jin Siyoung | An Sungjoon | W+R | 2014-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hWI2XJtZ58%2BMW1OcMwZV%2FA%3D%3D) | 
-| 第19回三星火災杯統合予選2回戦 | Jin Siyoung | Meng Tailing | W+0.5 | 2014-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b2MbDd%2FUJ%2F5DVP%2FQUhe%2BsQ%3D%3D) | 
-| 第2回百霊杯世界オープン戦3回戦 | Tuo Jiaxi | Jin Siyoung | W+R | 2014-07-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mj5rgwrPx8i3tkJMPBV1eA%3D%3D) | 
-| 第2回百霊杯世界オープン戦2回戦 | Jin Siyoung | Lee Taehyun | B+R | 2014-07-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SI8YjcaHMqDU869lYR9vkQ%3D%3D) | 
-| 第10期物価情報杯プロ棋戦リーグB | Choi Cheolhan | Jin Siyoung | W+R | 2014-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZbQlkdY8j3239PnrRvIaJA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Jin Siyoung | Kang Yootaek | W+R | 2014-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FCM9a2yBYtXk8bKLKUqwbQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Han Sanghoon | Jin Siyoung | B+R | 2014-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GCGxxnOlqLDDR2X1SC4TCw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Jin Siyoung | An Sungjoon | W+R | 2014-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x%2F7GYtZ2%2BZe1N%2Fg4xxGfLA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Jin Siyoung | Lee Changho | B+R | 2014-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RAu6DkURnP%2Bu0NJakGYR%2BQ%3D%3D) | 
-| 第10期物価情報杯プロ棋戦リーグB | An Sungjoon | Jin Siyoung | B+R | 2014-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aJ1bx9%2Bak6bHrp0MNz9oZA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Jin Siyoung | Kim Jiseok | B+R | 2014-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tsb9VO8K3wB%2B%2FmN4%2FeKamQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kim Jinhyu | Jin Siyoung | B+R | 2014-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=egvMxQy86v6Q%2BphjBVA3Ng%3D%3D) | 
-| 2014年韓国囲碁リーグ | Ko Keuntae | Jin Siyoung | W+R | 2014-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=La3noD9SXUrIbiQaGYG1qg%3D%3D) | 
-| 第19回LG杯予選 | Jin Siyoung | Kim Dongho | W+R | 2014-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3%2BDTDFC744%2F7H28gz%2FQh6A%3D%3D) | 
-| 第19回LG杯予選 | Jin Siyoung | Huang Yunsong | B+R | 2014-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hviNCh2OKsFkQRoAzuxzMQ%3D%3D) | 
-| 第10期物価情報杯プロ棋戦予選 | Jin Siyoung | Park Yeonghun | B+R | 2014-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xt8sENaPELw2M41pPN6N%2FA%3D%3D) | 
-| 第10期物価情報杯プロ棋戦予選 | Ryu Suhang | Jin Siyoung | W+R | 2014-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MtbukP6O4rwx4Nj4NJqyvg%3D%3D) | 
-| 第2回百霊杯世界オープン戦1回戦 | Jin Siyoung | Lee Sedol | B+R | 2014-03-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A44uzQJoVE34pEo%2FK3yf%2FA%3D%3D) | 
-| 2013年韓国囲碁リーグ | Lee Hobum | Jin Siyoung | B+R | 2013-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aSUbXQ%2BBPwsDuGrHQrdFbw%3D%3D) | 
-| 第57期国手戦（韓国）1回戦 | Kang Dongyun | Jin Siyoung | B+R | 2013-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k2rP48ltqAV1KTWF%2Bp1E5A%3D%3D) | 
-| 2013年韓国囲碁リーグ | Jin Siyoung | Min Sangyoun | W+R | 2013-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UX%2BZIqYzjfyOQP4l1%2BytSA%3D%3D) | 
-| 第32回KBS杯囲碁王戦本戦1回戦 | Jin Siyoung | Kang Hun | W+R | 2013-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y2pVx9bZ4CfKjB9zQbnotA%3D%3D) | 
-| 2013年韓国囲碁リーグ | Jin Siyoung | Kim Juho | W+R | 2013-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TBX%2Bi0U%2FZRsiqGpmXceC%2Bw%3D%3D) | 
-| 第8期圓益杯十段戦1回戦 | Yun Junsang | Jin Siyoung | B+R | 2012-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ghk7YzVu6ll0S478rs3cBQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Kim Hyeongwoo | Jin Siyoung | B+R | 2012-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WNP3RbGgZWsL3cqtdGg61w%3D%3D) | 
-| 2012年韓国囲碁リーグ | Jin Siyoung | Kim Junghyun | B+R | 2012-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nnkLDFpCfVNImPJM7XLMtg%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ1回戦G2 | Jin Siyoung | Kang Dongyun | W+R | 2012-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iiNaUYhXYOhjMjJbTQVYgg%3D%3D) | 
-| 第17回三星火災杯世界囲碁マスターズ1回戦G1 | Jin Siyoung | Mi Yuting | W+R | 2012-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1d1G3D6rwc%2Fqc8B7hFmEAg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Jin Siyoung | Hong Seongji | B+R | 2012-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tMyqMjLG7imzqKEYP1V2ZA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Jin Siyoung | Kang Yootaek | W+R | 2012-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ajk%2F%2ByLkvQRPZhs8Xr0rjQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Jin Siyoung | Lee Chungyu | B+R | 2012-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4AF9Ru09FrceNM%2Fi8AklCQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Jin Siyoung | Kim Seongjae | W+R | 2012-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qADK703MyBXFEjjgPaAmXw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Seunghyeon | Jin Siyoung | W+16.5 | 2012-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vwxyF8ylUqSVD1i13pUKJQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Jin Siyoung | Yun Junsang | B+R | 2012-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=13aipVZY%2F%2BpL%2FeRzyotl%2FQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Jin Siyoung | Park Junghwan | W+R | 2012-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TFseUb1GL3ch%2F32RppBTEw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Park Jinsol | Jin Siyoung | W+R | 2012-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o7zYQtUiM4KEI9UaYEBpvQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | missing | Jin Siyoung | B+R | 2012-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sylO87pld8fIR8ICD%2Fvmgw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Jin Siyoung | Park Seunghwa | W+1.5 | 2012-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K5%2BiOnrVNqa7Fs%2FCwrVL3Q%3D%3D) | 
-| 2012年韓国囲碁リーグ | Jin Siyoung | Park Minkyu | W+R | 2012-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cL3Cuf%2B%2BOq69QLAmD8olRA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Cho Hanseung | Jin Siyoung | B+R | 2012-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yI%2FXrolz6OCCZ7EUlYF2QA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Jin Siyoung | Kim Seongjae | W+R | 2012-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rZcQl%2B7mS7IQDt09V2O1Vg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Jin Siyoung | Lee Hobum | B+R | 2012-04-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2vOlnY9FooNCcgVNjG9%2Fzw%3D%3D) | 
-| 第17回LG杯予選 | Meng Tailing | Jin Siyoung | B+R | 2012-04-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yeofZDpw8JdHKl78awnAew%3D%3D) | 
-| 2012年韓国囲碁リーグ | Kim Jiseok | Jin Siyoung | W+0.5 | 2012-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uL0xSjspXNrcey7gEIcIKA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Jin Siyoung | An Sungjoon | B+R | 2012-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XiwjvL2YeJdhuDajrtOr3w%3D%3D) | 
-| 第4回BCカード杯世界選手権1回戦 | Tan Xiao | Jin Siyoung | B+R | 2012-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oyjY7Y7qgOl8zbYellyKcw%3D%3D) | 
-| 第7期圓益杯十段戦4回戦 | Jin Siyoung | Hong Kipyo | W+R | 2012-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FrA2n%2FYi6vtUvIkM5W8F2w%3D%3D) | 
-| 第7期圓益杯十段戦3回戦 | Jin Siyoung | Kim Junghyun | B+R | 2012-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MTsrPsjeL9z3LKePvLLNtQ%3D%3D) | 
-| 第7期圓益杯十段戦2回戦 | Jin Siyoung | missing | B+R | 2011-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QhMv9xPWGa2I0EoZcxH71g%3D%3D) | 
-| 2011年韓国囲碁リーグ | Lee Changho | Jin Siyoung | W+R | 2011-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y7yHx0YWxS2%2FpRQCc2pe4A%3D%3D) | 
-| 2011年韓国囲碁リーグ | Paek Hongseok | Jin Siyoung | B+R | 2011-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zpAkiE7nu1xAcBf%2FiegpJg%3D%3D) | 
-| 2011年韓国囲碁リーグ | An Joyeong | Jin Siyoung | W+R | 2011-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Gtv%2FglcJTphu9zvSkN1MQ%3D%3D) | 
-| 2011年韓国囲碁リーグ | Jin Siyoung | Choi Cheolhan | W+4.5 | 2011-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bCXxx48umWB0k1X5T1C1Mg%3D%3D) | 
-| 第7期圓益杯十段戦1回戦 | Jin Siyoung | Kim Cheayoung | B+R | 2011-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R2%2F1NnAacdTy7fnwC2f3Cw%3D%3D) | 
-| 2011年韓国囲碁リーグ | Lee Jihyun | Jin Siyoung | B+R | 2011-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zGbtya7VBK%2BcjflLtv0mVw%3D%3D) | 
-| 2011年韓国囲碁リーグ | Kim Seongjae | Jin Siyoung | B+1.5 | 2011-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F7up%2B%2FKJRBTAr8hm5jC2wA%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Junghwan | Jin Siyoung | W+R | 2011-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QA2ma9h3Y%2FBc6WxshsjRVw%3D%3D) | 
-| 2011年韓国囲碁リーグ | Weon Seongjin | Jin Siyoung | B+R | 2011-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5BJ%2Bu7j3%2BmQpH2i4xgV1gg%3D%3D) | 
-| 第16回三星火災杯統合予選1回戦 | Jin Siyoung | Murakawa Daisuke | W+R | 2011-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hwZ6Gtwp%2BiRgWObfcbLRiQ%3D%3D) | 
-| 2011年韓国囲碁リーグ | Ju Hyeongwuk | Jin Siyoung | B+R | 2011-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=05kKZvc2Jyl1bNfT3gdu5A%3D%3D) | 
-| 2011年韓国囲碁リーグ | Lee Sedol | Jin Siyoung | B+R | 2011-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RITJ466HkAWbe6mF%2F3fnVw%3D%3D) | 
-| 第13回農心杯韓国選抜戦 | Jin Siyoung | Ahn Kukhyun | W+R | 2011-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Z7kDi0haMNSUT%2FBtepVWg%3D%3D) | 
-| 2011年韓国囲碁リーグ | An Sungjoon | Jin Siyoung | B+2.5 | 2011-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TMR8yPQbTa8kaNI0eLuntg%3D%3D) | 
-| 2011年韓国囲碁リーグ | Park Cheongsang | Jin Siyoung | B+R | 2011-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SnC1fzoqkzoswK0xfEUhlg%3D%3D) | 
-| 2011年韓国囲碁リーグ | Jin Siyoung | Ko Keuntae | B+1.5 | 2011-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FvDLSb9pvgIa%2FjOvTQjIrw%3D%3D) | 
-| 2011年韓国囲碁リーグ | Kim Kiyoung | Jin Siyoung | W+R | 2011-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DCKz7j8RWWk0rMm8%2FA3SjQ%3D%3D) | 
-| 第3回BCカード杯世界選手権統合予選決勝 | Zhou Ruiyang | Jin Siyoung | B+1.5 | 2011-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z1v%2B%2FCLmpf685hybiqo7AA%3D%3D) | 
-| 2010年韓国囲碁リーグ | Lee Sedol | Jin Siyoung | B+R | 2011-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jZPMO1pgw0ClBA0KZxpt9Q%3D%3D) | 
-| 第6期圓益杯十段戦3回戦 | Jin Siyoung | Park Junghwan | W+R | 2010-12-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JnyU9V99ntSy7VeBgqlfgQ%3D%3D) | 
-| 第6期圓益杯十段戦2回戦 | Jin Siyoung | Park Cheongsang | B+R | 2010-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hy6y%2FaJWBdc4VRKxm4j7fg%3D%3D) | 
-| 2010年国際新鋭囲碁対抗戦第3戦 | Shi Yue | Jin Siyoung | W+R | 2010-10-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PS1uhIngeSEgmbT9S05hXw%3D%3D) | 
-| 2010年国際新鋭囲碁対抗戦第2戦 | Mitani Tetsuya | Jin Siyoung | W+R | 2010-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V%2FNxJtUAym353sInAp1pUA%3D%3D) | 
-| 2010年国際新鋭囲碁対抗戦第1戦 | Jin Siyoung | Xiao Zhenghao | B+R | 2010-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WpJEONTcAtuHL7oINZqt1w%3D%3D) | 
-| 2010年韓国囲碁リーグ | Mok Jinseok | Jin Siyoung | W+0.5 | 2010-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Np5twKrOadr%2Bm2nZ6JYmAQ%3D%3D) | 
-| 第38期名人戦（韓国）予選 | Cho Hanseung | Jin Siyoung | B+R | 2010-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=evpst%2FOXol0xS9lYDbRiqQ%3D%3D) | 
-| 第29回KBS杯囲碁王戦本戦1回戦 | Ju Hyeongwuk | Jin Siyoung | B+R | 2010-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e1WP5WI1xNzhHf12sWVDLw%3D%3D) | 
-| 2008年国際新鋭囲碁対抗戦第3戦 | Jin Siyoung | missing | B+R | 2008-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AbJlyPQN3PG3hjPzDZ3rQw%3D%3D) | 
-| 2008年国際新鋭囲碁対抗戦第2戦 | Lin Lixiang | Jin Siyoung | W+R | 2008-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jr4qgbuHgg1GjbcRzKXgkw%3D%3D) | 
-| 2008年国際新鋭囲碁対抗戦第1戦 | Rin Kanketsu | Jin Siyoung | B+R | 2008-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EoliOI8Oib%2BaKXr4EkwKGA%3D%3D) | 
-| 第13回三星火災杯世界オープン囲碁選手権2回戦 | Li Zhe | Jin Siyoung | B+0.5 | 2008-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cW8P5YbZRhiwd0772Ludtw%3D%3D) | 
-| 第13回三星火災杯世界オープン囲碁選手権1回戦 | Jin Siyoung | Gu Li | B+0.5 | 2008-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OC3mc6dmfD5gSMn5njmczw%3D%3D) | 
-| 第4期圓益杯十段戦1回戦 | Jin Siyoung | Lee Wondo | W+0.5 | 2008-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sToiXn0LinBHxPPF4irT8w%3D%3D) | 
-| 第13回三星火災杯予選2回戦 | Yu Bin | Jin Siyoung | W+9.5 | 2008-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v4%2FNcANGCtFRBj%2FratV%2FkQ%3D%3D) | 
-| 2007年国際新鋭囲碁対抗戦第3戦 | Tuo Jiaxi | Jin Siyoung | B+R | 2007-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8HLFj75qCZ%2FEiH5EObUxOw%3D%3D) | 
-| 2007年国際新鋭囲碁対抗戦第2戦 | Jin Siyoung | Anzai Nobuaki | W+0.5 | 2007-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x%2FTvNvo3yV7ZMCpGG26g9Q%3D%3D) | 
-| 2007年国際新鋭囲碁対抗戦第1戦 | Yang Mengyun | Jin Siyoung | W+R | 2007-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LVMX211Yp0Dj6QN0KqtZIg%3D%3D) | 
-| 第3期圓益杯十段戦1回戦 | Jin Siyoung | Lee Sedol | W+4.5 | 2007-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=USF2m3VOhEmArb8RbplPsw%3D%3D) | 
-| 第7期オスラムコリア杯新鋭連勝最強戦第1戦 | Jin Siyoung | Kang Dongyun | W+R | 2007-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=swhHyuN6ZBmuSGZsiVH6gg%3D%3D) | 
-| 第17期BCカード杯新人王戦2回戦 | Hong Seongji | Jin Siyoung | B+0.5 | 2007-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TeMIUQNBZtxmPpM4V6gmSQ%3D%3D) | 
-| 2006年国際新鋭囲碁対抗戦第3戦 | Jin Siyoung | Gu Lingyi | W+R | 2006-11-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pH05sVYROKIu%2BVEDt3jQPA%3D%3D) | 
-| 2006年国際新鋭囲碁対抗戦第2戦 | Jin Siyoung | Mitani Tetsuya | B+R | 2006-11-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pSh%2BTXc%2BBGntNlrMHZ7%2FVA%3D%3D) | 
-| 2006年国際新鋭囲碁対抗戦第1戦 | Jin Siyoung | Zhou Pingqiang | B+5.5 | 2006-11-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NFV2gYtbPqpIK9%2BD0zUcQA%3D%3D) | 
-| 第6期オスラムコリア杯新鋭連勝最強戦三位決定戦 | Jin Siyoung | Heo Yongho | W+R | 2006-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mGeYbDD0YPGqVeRlN08Atg%3D%3D) | 
-| 第6期オスラムコリア杯新鋭連勝最強戦準決勝 | Jin Siyoung | Park Cheongsang | W+R | 2006-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rLaGLwcT%2Be%2FyO0B7pmnheA%3D%3D) | 
-| 第50期国手戦（韓国）2回戦 | Yun Junsang | Jin Siyoung | B+R | 2006-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nyUzC9PWipcnP2%2Fp%2Fa57iw%3D%3D) | 
-| 第6期オスラムコリア杯新鋭連勝最強戦第24戦 | Jin Siyoung | Kang Dongyun | B+R | 2006-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gIYGArDwZdHVM2UsCHKcsA%3D%3D) | 
-| 第6期オスラムコリア杯新鋭連勝最強戦第23戦 | Jin Siyoung | Kim Daehee | B+R | 2006-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VUpMp%2FlUATDZA0gqrSBcNw%3D%3D) | 
-| 第6期オスラムコリア杯新鋭連勝最強戦第22戦 | missing | Jin Siyoung | W+R | 2006-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wW1WG%2Bjn2OCZnVU6BZN9Pw%3D%3D) | 
-| 第6期オスラムコリア杯新鋭連勝最強戦第21戦 | Jin Siyoung | Paek Hongseok | B+R | 2006-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZdQKEXNs2G%2Fs7P09Lf4dEQ%3D%3D) | 
-| 第6期オスラムコリア杯新鋭連勝最強戦第20戦 | Jin Siyoung | Kim Hyokon | B+R | 2006-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=URnNn2wjAfPraiYVX94lsQ%3D%3D) | 
-| 第6期オスラムコリア杯新鋭連勝最強戦第19戦 | Jin Siyoung | Kim Kiyoung | B+1.5 | 2006-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m4rjS%2Bw%2BJQJCMK%2B6NTcyrw%3D%3D) | 
-| 第50期国手戦（韓国）1回戦 | Kim Hyokon | Jin Siyoung | W+R | 2006-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eGJIPe3%2F6e0AJa9xtdInqg%3D%3D) | 
-| 第11回LG杯世界棋王戦1回戦 | Jin Siyoung | Xie He | W+R | 2006-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dRuqjRU25tzdc74jcx2T6w%3D%3D) | 
-| 第11回LG杯予選 | Kim Sujun | Jin Siyoung | W+1.5 | 2006-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=STn1CldleKNoFx9te1q4cA%3D%3D) | 
-| 第16期BCカード杯新人王戦準決勝 | Jin Siyoung | Heo Yongho | W+R | 2006-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q%2BzvMv6vAp0amR8s8o2f6g%3D%3D) | 
-| 第40期王位戦2回戦 | Jin Siyoung | Choi Cheolhan | W+R | 2006-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8JFHhPUvMIDsSunpue8HCA%3D%3D) | 
-| 第16期BCカード杯新人王戦3回戦 | Jin Siyoung | Kim Kiyoung | B+0.5 | 2006-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=laOdYJkA4HS6%2Bow4UXfmGA%3D%3D) | 
-| 第16期BCカード杯新人王戦2回戦 | Kim Donghee | Jin Siyoung | W+R | 2006-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bXmsqD%2FIGnB6ddQhoP0jUQ%3D%3D) | 
-| 第16期BCカード杯新人王戦1回戦 | Jin Siyoung | On Sojin | B+R | 2005-12-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QvZ64OoOWxsbsRcyzRo8%2Bw%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第3戦 | Gu Lingyi | Jin Siyoung | B+R | 2005-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M0unY9clLeb1mpbc1MfZuQ%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第2戦 | Jin Siyoung | Zhou Yinnan | B+R | 2005-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c7RCiH0TOo1%2BRH5QOFZ1bg%3D%3D) | 
-| 2005年国際新鋭囲碁対抗戦第1戦 | Iyama Yuta | Jin Siyoung | W+R | 2005-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lWpHFZsL6tXJjiQbyxRkIw%3D%3D) | 
-| 第1期圓益杯十段戦1回戦 | Lee Jaeung | Jin Siyoung | B+R | 2005-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DSl5lB3FRM7Zoqaa6g1HTQ%3D%3D) | 
-| 第10期GSカルテックス杯プロ棋戦1回戦 | Kang Jiseong | Jin Siyoung | B+R | 2005-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BuZYE%2BY%2FukGJXQ6Njb9O%2Fg%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-27 | 2021-2022フューチャーズリーグ | Jin Siyoung | Lee Hyungjin | Win | B+R | 6.5 | 3013 | 3013 | 
+| 2021-11-21 | 2021-2022フューチャーズリーグ | Jin Siyoung | Shin Jaeweon | Lose | W+R | 6.5 | missing | 0 | 
+| 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Jin Siyoung | Wi Taewoong | Lose | W+R | 6.5 | missing | 0 | 
+| 2021-04-28 | 第26回LG杯韓国予選 | Jin Siyoung | Park Jinsol | Lose | W+R | 6.5 | missing | 0 | 
+| 2021-02-04 | 第4期韓国竜星戦予選 | Hong Mujin | Jin Siyoung | Lose | B+R | 6.5 | missing | -3183 | 
+| 2020-04-13 | 第25回LG杯韓国予選 | Jin Siyoung |  | Lose | W+1.5 | 6.5 | 3183 | -189 | 
+| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第3試合第4局 | Jin Siyoung | Choi Jaeyoung | Win | B+R | 6.5 | 3372 | -7 | 
+| 2020-01-25 | 2019-2020韓国囲碁リーグ第17節第3試合第4局 | Wen Rubin | Jin Siyoung | Win | W+R | 6.5 | 3379 | 11 | 
+| 2020-01-17 | 2019-2020韓国囲碁リーグ第16節第2試合第3局 | Jin Siyoung | Park Hyunsoo | Win | B+R | 6.5 | 3368 | 34 | 
+| 2020-01-02 | 2019-2020韓国囲碁リーグ第14節第1試合第4局 | Lee Yeongkyu | Jin Siyoung | Lose | B+1.5 | 6.5 | 3334 | -25 | 
+| 2019-12-29 | 2019-2020韓国囲碁リーグ第13節第4試合第3局 | Jin Siyoung | Choi Cheolhan | Lose | W+R | 6.5 | 3359 | 280 | 
+| 2019-12-21 | 2019-2020韓国囲碁リーグ第12節第3試合第5局 | Jin Siyoung | Park Hamin | Win | B+R | 6.5 | 3079 | 31 | 
+| 2019-12-16 | 第25期GSカルテックス杯プロ棋戦予選 | Jin Siyoung | Lee Donghoon | Lose | W+R | 6.5 | 3048 | -14 | 
+| 2019-12-12 | 2019-2020韓国囲碁リーグ第11節第1試合第5局 | Park Sangjin | Jin Siyoung | Win | W+R | 6.5 | 3062 | 38 | 
+| 2019-12-07 | 2019-2020韓国囲碁リーグ第10節第3試合第4局 | Jin Siyoung | Lee Wondo | Win | B+R | 6.5 | 3024 | 11 | 
+| 2019-11-29 | 2019-2020韓国囲碁リーグ第9節第2試合第2局 | Jin Siyoung | Weon Seongjin | Win | B+R | 6.5 | 3013 | 39 | 
+| 2019-11-22 | 2019-2020韓国囲碁リーグ第8節第2試合第4局 | Jin Siyoung | Hong Seongji | Win | B+4.5 | 6.5 | 2974 | 63 | 
+| 2019-11-16 | 2019-2020韓国囲碁リーグ第7節第3試合第4局 | Paek Hongseok | Jin Siyoung | Win | W+R | 6.5 | 2911 | 49 | 
+| 2019-11-03 | 2019-2020韓国囲碁リーグ第5節第4試合第5局 | Lee Yeongkyu | Jin Siyoung | Lose | B+R | 6.5 | 2862 | -17 | 
+| 2019-10-24 | 2019-2020韓国囲碁リーグ第4節第1試合第1局 | Jin Siyoung | Choi Cheolhan | Lose | W+R | 6.5 | 2879 | 111 | 
+| 2019-10-06 | 2019-2020韓国囲碁リーグ第2節第4試合第4局 | Jin Siyoung | Lee Jihyun | Lose | W+R | 6.5 | 2768 | -85 | 
+| 2019-09-27 | 2019-2020韓国囲碁リーグ第1節第2試合第4局 | Jin Siyoung | Han Sanghoon | Win | B+R | 6.5 | 2853 | -59 | 
+| 2019-06-26 | 第6回国手山脈韓国国内トーナメント予選 | Jin Siyoung | Weon Seongjin | Lose | W+R | 6.5 | 2912 | 14 | 
+| 2019-06-15 | 2019年囲碁テレビ杯早碁戦16強戦 | Shin Jinseo | Jin Siyoung | Lose | B+R | 6.5 | 2898 | 98 | 
+| 2019-05-21 | 第4回夢百合杯統合予選 | Jin Siyoung | Shi Yue | Lose | W+R | 7.5 | 2800 | -79 | 
+| 2019-04-25 | 2019年囲碁テレビ杯早碁戦32強戦 | Jin Siyoung | Han Wonggyu | Win | B+2.5 | 6.5 | 2879 | -44 | 
+| 2019-01-15 | 第38回KBS杯囲碁王戦1回戦 | Park Jinsol | Jin Siyoung | Lose | B+R | 6.5 | 2923 | -60 | 
+| 2018-10-19 | 2018年フューチャーズリーグ |  | Jin Siyoung | Lose | B+R | 6.5 | 2983 | -43 | 
+| 2018-09-30 | 2018年フューチャーズリーグ | Jin Siyoung |  | Win | B+R | 6.5 | 3026 | -11 | 
+| 2018-09-26 | 2018年韓国囲碁リーグ第12節 | Oh Yujin | Jin Siyoung | Win | W+R | 6.5 | 3037 | 34 | 
+| 2018-09-23 | 2018年韓国囲碁リーグ第12節 | Kim Myounghoon | Jin Siyoung | Lose | B+R | 6.5 | 3003 | -11 | 
+| 2018-09-15 | 2018年フューチャーズリーグ | Wi Taewoong | Jin Siyoung | Win | W+R | 6.5 | 3014 | -18 | 
+| 2018-09-01 | 2018年フューチャーズリーグ | Kang Hun | Jin Siyoung | Win | W+R | 6.5 | 3032 | 27 | 
+| 2018-08-26 | 2018年フューチャーズリーグ | Jin Siyoung | Kim Sedong | Lose | W+R | 6.5 | 3005 | -17 | 
+| 2018-08-25 | 2018年韓国囲碁リーグ第9節 | Jin Siyoung | Hong Kipyo | Win | B+R | 6.5 | 3022 | 34 | 
+| 2018-08-22 | 2018年フューチャーズリーグ | Jin Siyoung | Kim Kiyoung | Win | B+R | 6.5 | 2988 | 19 | 
+| 2018-08-19 | 2018年韓国囲碁リーグ第8節 | Jin Siyoung | Ryu Minhyung | Win | B+R | 6.5 | 2969 | 104 | 
+| 2018-08-12 | 2018年フューチャーズリーグ | Jin Siyoung | Lee Chungyu | Win | B+R | 6.5 | 2865 | 113 | 
+| 2018-08-04 | 2018年フューチャーズリーグ |  | Jin Siyoung | Win | W+R | 6.5 | 2752 | 69 | 
+| 2018-07-21 | 2018年フューチャーズリーグ | Jin Siyoung | Song Gyusang | Lose | W+R | 6.5 | 2683 | -23 | 
+| 2018-07-19 | 2018年韓国囲碁リーグ第5節 | Jin Siyoung | Shin Jinseo | Lose | W+R | 6.5 | 2706 | -12 | 
+| 2018-07-18 | 2018年フューチャーズリーグ | Wi Taewoong | Jin Siyoung | Win | W+R | 6.5 | 2718 | 31 | 
+| 2018-07-01 | 2018年フューチャーズリーグ | Kang Hun | Jin Siyoung | Lose | B+R | 6.5 | 2687 | -163 | 
+| 2018-06-23 | 2018年フューチャーズリーグ |  | Jin Siyoung | Win | W+R | 6.5 | 2850 | 66 | 
+| 2018-06-16 | 2018年フューチャーズリーグ | Park Sangjin | Jin Siyoung | Lose | B+R | 6.5 | 2784 | -82 | 
+| 2018-06-14 | 2018年韓国囲碁リーグ第1節 | Park Minkyu | Jin Siyoung | Lose | B+R | 6.5 | 2866 | -63 | 
+| 2017-10-13 | 2017年韓国囲碁リーグ | Jin Siyoung |  | Lose | W+R | 6.5 | 2929 | -85 | 
+| 2017-09-24 | 2017年韓国囲碁リーグ | Jin Siyoung |  | Lose | W+R | 6.5 | 3014 | -13 | 
+| 2017-09-16 | 2017年韓国囲碁リーグ | Jin Siyoung | Park Junghwan | Lose | W+R | 6.5 | 3027 | -32 | 
+| 2017-08-18 | 2017年韓国囲碁リーグ | Park Yeonghun | Jin Siyoung | Lose | B+R | 6.5 | 3059 | -25 | 
+| 2017-08-11 | 2017年韓国囲碁リーグ | Jin Siyoung | Yun Chanhee | Lose | W+R | 6.5 | 3084 | -46 | 
+| 2017-07-16 | 2017年韓国囲碁リーグ | Paek Hongseok | Jin Siyoung | Lose | B+2.5 | 6.5 | 3130 | -80 | 
+| 2017-07-10 | 第19回農心杯韓国選抜戦 | Jin Siyoung | Lee Yeongkyu | Win | B+R | 6.5 | 3210 | 126 | 
+| 2017-07-06 | 2017年韓国囲碁リーグ | Shin Minjun | Jin Siyoung | Lose | B+R | 6.5 | 3084 | -83 | 
+| 2017-06-30 | 第22回三星火災杯統合予選2回戦 | Jin Siyoung | Koike Yoshihiro | Win | B+R | 6.5 | 3167 | 42 | 
+| 2017-06-09 | 2017年韓国囲碁リーグ | Park Junghwan | Jin Siyoung | Lose | B+2.5 | 6.5 | 3125 | -4 | 
+| 2017-06-04 | 2017年韓国囲碁リーグ | Lee Taehyun | Jin Siyoung | Lose | B+R | 6.5 | 3129 | 3129 | 
+| 2017-05-19 | 2017年韓国囲碁リーグ | Jin Siyoung | Han Seungjoo | Win | B+1.5 | 6.5 | missing | -3376 | 
+| 2015-10-30 | 2015年レッツランパーク杯オープントーナメント4回戦 | Kim Myounghoon | Jin Siyoung | Lose | B+R | 6.5 | 3376 | -126 | 
+| 2015-10-16 | 2015年レッツランパーク杯オープントーナメント3回戦 | Jin Siyoung | Park Yeonghun | Win | B+R | 6.5 | 3502 | 48 | 
+| 2015-10-14 | 2015年レッツランパーク杯オープントーナメント2回戦 | Jin Siyoung | Kim Kiyoung | Win | B+R | 6.5 | 3454 | -4 | 
+| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Jin Siyoung | Ahn Kukhyun | Win | B+R | 6.5 | 3458 | -130 | 
+| 2015-02-25 | 第20期GSカルテックス杯プロ棋戦3回戦 | Jin Siyoung | Kim Myounghoon | Lose | W+R | 6.5 | 3588 | 52 | 
+| 2015-02-04 | 第20期GSカルテックス杯プロ棋戦2回戦 | Park Junghwan | Jin Siyoung | Win | W+R | 6.5 | 3536 | 11 | 
+| 2015-01-28 | 第20期GSカルテックス杯プロ棋戦1回戦 | Jin Siyoung | Lee Hyungjin | Win | B+R | 6.5 | 3525 | 127 | 
+| 2014-11-08 | 2014年韓国囲碁リーグ | Ryu Minhyung | Jin Siyoung | Win | W+R | 6.5 | 3398 | 115 | 
+| 2014-10-17 | 2014年韓国囲碁リーグ | Jin Siyoung | Cho Insun | Win | B+R | 6.5 | 3283 | -48 | 
+| 2014-10-03 | 2014年韓国囲碁リーグ | Jin Siyoung | Park Yeonghun | Win | B+R | 6.5 | 3331 | -17 | 
+| 2014-09-16 | 第2回百霊杯世界オープン戦4回戦 | Jin Siyoung | Park Junghwan | Lose | W+R | 7.5 | 3348 | 31 | 
+| 2014-09-11 | 2014年韓国囲碁リーグ |  | Jin Siyoung | Win | W+R | 6.5 | 3317 | 48 | 
+| 2014-09-05 | 第58期国手戦（韓国）1回戦 | Park Junghwan | Jin Siyoung | Lose | B+R | 6.5 | 3269 | -23 | 
+| 2014-08-31 | 2014年韓国囲碁リーグ | Jin Siyoung | Lee Jihyun | Lose | W+R | 6.5 | 3292 | -27 | 
+| 2014-08-20 | 第10期物価情報杯プロ棋戦リーグB | Jin Siyoung | An Sungjoon | Lose | W+R | 6.5 | 3319 | -43 | 
+| 2014-08-03 | 第19回三星火災杯統合予選2回戦 | Jin Siyoung | Meng Tailing | Lose | W+0.5 | 6.5 | 3362 | -16 | 
+| 2014-07-24 | 第2回百霊杯世界オープン戦3回戦 | Tuo Jiaxi | Jin Siyoung | Win | W+R | 7.5 | 3378 | 17 | 
+| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Jin Siyoung | Lee Taehyun | Win | B+R | 7.5 | 3361 | 27 | 
+| 2014-07-16 | 第10期物価情報杯プロ棋戦リーグB | Choi Cheolhan | Jin Siyoung | Win | W+R | 6.5 | 3334 | 70 | 
+| 2014-07-10 | 2014年韓国囲碁リーグ | Jin Siyoung | Kang Yootaek | Lose | W+R | 6.5 | 3264 | -36 | 
+| 2014-07-05 | 2014年韓国囲碁リーグ | Han Sanghoon | Jin Siyoung | Lose | B+R | 6.5 | 3300 | 45 | 
+| 2014-06-22 | 2014年韓国囲碁リーグ | Jin Siyoung | An Sungjoon | Lose | W+R | 6.5 | 3255 | 10 | 
+| 2014-06-08 | 2014年韓国囲碁リーグ | Jin Siyoung | Lee Changho | Win | B+R | 6.5 | 3245 | 16 | 
+| 2014-06-04 | 第10期物価情報杯プロ棋戦リーグB | An Sungjoon | Jin Siyoung | Lose | B+R | 6.5 | 3229 | 50 | 
+| 2014-05-18 | 2014年韓国囲碁リーグ | Jin Siyoung | Kim Jiseok | Win | B+R | 6.5 | 3179 | 78 | 
+| 2014-05-08 | 2014年韓国囲碁リーグ | Kim Jinhyu | Jin Siyoung | Lose | B+R | 6.5 | 3101 | -155 | 
+| 2014-04-24 | 2014年韓国囲碁リーグ | Ko Keuntae | Jin Siyoung | Win | W+R | 6.5 | 3256 | 43 | 
+| 2014-04-19 | 第19回LG杯予選 | Jin Siyoung | Kim Dongho | Lose | W+R | 6.5 | 3213 | -86 | 
+| 2014-04-18 | 第19回LG杯予選 | Jin Siyoung | Huang Yunsong | Win | B+R | 6.5 | 3299 | 116 | 
+| 2014-04-02 | 第10期物価情報杯プロ棋戦予選 | Jin Siyoung | Park Yeonghun | Win | B+R | 6.5 | 3183 | 100 | 
+| 2014-03-31 | 第10期物価情報杯プロ棋戦予選 | Ryu Suhang | Jin Siyoung | Win | W+R | 6.5 | 3083 | 196 | 
+| 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Jin Siyoung | Lee Sedol | Win | B+R | 7.5 | 2887 | 2887 | 
+| 2013-11-23 | 2013年韓国囲碁リーグ | Lee Hobum | Jin Siyoung | Lose | B+R | 6.5 | missing | -3125 | 
+| 2013-08-12 | 第57期国手戦（韓国）1回戦 | Kang Dongyun | Jin Siyoung | Lose | B+R | 6.5 | 3125 | 110 | 
+| 2013-06-23 | 2013年韓国囲碁リーグ | Jin Siyoung | Min Sangyoun | Lose | W+R | 6.5 | 3015 | -9 | 
+| 2013-04-22 | 第32回KBS杯囲碁王戦本戦1回戦 | Jin Siyoung | Kang Hun | Lose | W+R | 6.5 | 3024 | -86 | 
+| 2013-04-12 | 2013年韓国囲碁リーグ | Jin Siyoung | Kim Juho | Lose | W+R | 6.5 | 3110 | 13 | 
+| 2012-12-03 | 第8期圓益杯十段戦1回戦 | Yun Junsang | Jin Siyoung | Lose | B+R | 6.5 | 3097 | -224 | 
+| 2012-09-22 | 2012年韓国囲碁リーグ | Kim Hyeongwoo | Jin Siyoung | Lose | B+R | 6.5 | 3321 | -47 | 
+| 2012-09-20 | 2012年韓国囲碁リーグ | Jin Siyoung | Kim Junghyun | Win | B+R | 6.5 | 3368 | 51 | 
+| 2012-09-05 | 第17回三星火災杯世界囲碁マスターズ1回戦G2 | Jin Siyoung | Kang Dongyun | Lose | W+R | 6.5 | 3317 | -12 | 
+| 2012-09-04 | 第17回三星火災杯世界囲碁マスターズ1回戦G1 | Jin Siyoung | Mi Yuting | Lose | W+R | 6.5 | 3329 | -27 | 
+| 2012-08-26 | 2012年韓国囲碁リーグ | Jin Siyoung | Hong Seongji | Win | B+R | 6.5 | 3356 | 69 | 
+| 2012-08-19 | 2012年韓国囲碁リーグ | Jin Siyoung | Kang Yootaek | Lose | W+R | 6.5 | 3287 | -6 | 
+| 2012-08-11 | 2012年韓国囲碁リーグ | Jin Siyoung | Lee Chungyu | Win | B+R | 6.5 | 3293 | 46 | 
+| 2012-08-03 | 2012年韓国囲碁リーグ | Jin Siyoung | Kim Seongjae | Lose | W+R | 6.5 | 3247 | -67 | 
+| 2012-07-26 | 2012年韓国囲碁リーグ | Park Seunghyeon | Jin Siyoung | Win | W+16.5 | 6.5 | 3314 | 40 | 
+| 2012-07-15 | 2012年韓国囲碁リーグ | Jin Siyoung | Yun Junsang | Win | B+R | 6.5 | 3274 | -18 | 
+| 2012-07-07 | 2012年韓国囲碁リーグ | Jin Siyoung | Park Junghwan | Lose | W+R | 6.5 | 3292 | 114 | 
+| 2012-06-28 | 2012年韓国囲碁リーグ | Park Jinsol | Jin Siyoung | Win | W+R | 6.5 | 3178 | 13 | 
+| 2012-06-24 | 2012年韓国囲碁リーグ |  | Jin Siyoung | Lose | B+R | 6.5 | 3165 | -89 | 
+| 2012-06-02 | 2012年韓国囲碁リーグ | Jin Siyoung | Park Seunghwa | Lose | W+1.5 | 6.5 | 3254 | 21 | 
+| 2012-05-26 | 2012年韓国囲碁リーグ | Jin Siyoung | Park Minkyu | Lose | W+R | 6.5 | 3233 | -69 | 
+| 2012-05-18 | 2012年韓国囲碁リーグ | Cho Hanseung | Jin Siyoung | Lose | B+R | 6.5 | 3302 | -72 | 
+| 2012-05-06 | 2012年韓国囲碁リーグ | Jin Siyoung | Kim Seongjae | Lose | W+R | 6.5 | 3374 | -56 | 
+| 2012-04-29 | 2012年韓国囲碁リーグ | Jin Siyoung | Lee Hobum | Win | B+R | 6.5 | 3430 | 31 | 
+| 2012-04-24 | 第17回LG杯予選 | Meng Tailing | Jin Siyoung | Lose | B+R | 6.5 | 3399 | -34 | 
+| 2012-04-21 | 2012年韓国囲碁リーグ | Kim Jiseok | Jin Siyoung | Win | W+0.5 | 6.5 | 3433 | 30 | 
+| 2012-04-12 | 2012年韓国囲碁リーグ | Jin Siyoung | An Sungjoon | Win | B+R | 6.5 | 3403 | -40 | 
+| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Tan Xiao | Jin Siyoung | Lose | B+R | 6.5 | 3443 | -53 | 
+| 2012-02-13 | 第7期圓益杯十段戦4回戦 | Jin Siyoung | Hong Kipyo | Lose | W+R | 6.5 | 3496 | 118 | 
+| 2012-01-24 | 第7期圓益杯十段戦3回戦 | Jin Siyoung | Kim Junghyun | Win | B+R | 6.5 | 3378 | -28 | 
+| 2011-12-20 | 第7期圓益杯十段戦2回戦 | Jin Siyoung |  | Win | B+R | 6.5 | 3406 | 463 | 
+| 2011-11-18 | 2011年韓国囲碁リーグ | Lee Changho | Jin Siyoung | Win | W+R | 6.5 | 2943 | -23 | 
+| 2011-11-04 | 2011年韓国囲碁リーグ | Paek Hongseok | Jin Siyoung | Lose | B+R | 6.5 | 2966 | -39 | 
+| 2011-10-14 | 2011年韓国囲碁リーグ | An Joyeong | Jin Siyoung | Win | W+R | 6.5 | 3005 | 16 | 
+| 2011-10-09 | 2011年韓国囲碁リーグ | Jin Siyoung | Choi Cheolhan | Lose | W+4.5 | 6.5 | 2989 | 0 | 
+| 2011-10-05 | 第7期圓益杯十段戦1回戦 | Jin Siyoung | Kim Cheayoung | Win | B+R | 6.5 | 2989 | -83 | 
+| 2011-09-21 | 2011年韓国囲碁リーグ | Lee Jihyun | Jin Siyoung | Lose | B+R | 6.5 | 3072 | -4 | 
+| 2011-09-16 | 2011年韓国囲碁リーグ | Kim Seongjae | Jin Siyoung | Lose | B+1.5 | 6.5 | 3076 | 32 | 
+| 2011-09-02 | 2011年韓国囲碁リーグ | Park Junghwan | Jin Siyoung | Win | W+R | 6.5 | 3044 | 43 | 
+| 2011-08-14 | 2011年韓国囲碁リーグ | Weon Seongjin | Jin Siyoung | Lose | B+R | 6.5 | 3001 | -13 | 
+| 2011-08-01 | 第16回三星火災杯統合予選1回戦 | Jin Siyoung | Murakawa Daisuke | Lose | W+R | 6.5 | 3014 | -28 | 
+| 2011-07-31 | 2011年韓国囲碁リーグ | Ju Hyeongwuk | Jin Siyoung | Lose | B+R | 6.5 | 3042 | -42 | 
+| 2011-07-07 | 2011年韓国囲碁リーグ | Lee Sedol | Jin Siyoung | Lose | B+R | 6.5 | 3084 | -36 | 
+| 2011-07-04 | 第13回農心杯韓国選抜戦 | Jin Siyoung | Ahn Kukhyun | Lose | W+R | 6.5 | 3120 | -31 | 
+| 2011-07-01 | 2011年韓国囲碁リーグ | An Sungjoon | Jin Siyoung | Lose | B+2.5 | 6.5 | 3151 | -264 | 
+| 2011-06-11 | 2011年韓国囲碁リーグ | Park Cheongsang | Jin Siyoung | Lose | B+R | 6.5 | 3415 | -85 | 
+| 2011-06-04 | 2011年韓国囲碁リーグ | Jin Siyoung | Ko Keuntae | Win | B+1.5 | 6.5 | 3500 | 52 | 
+| 2011-05-20 | 2011年韓国囲碁リーグ | Kim Kiyoung | Jin Siyoung | Win | W+R | 6.5 | 3448 | 137 | 
+| 2011-01-26 | 第3回BCカード杯世界選手権統合予選決勝 | Zhou Ruiyang | Jin Siyoung | Lose | B+1.5 | 6.5 | 3311 | 40 | 
+| 2011-01-23 | 2010年韓国囲碁リーグ | Lee Sedol | Jin Siyoung | Lose | B+R | 6.5 | 3271 | 65 | 
+| 2010-12-27 | 第6期圓益杯十段戦3回戦 | Jin Siyoung | Park Junghwan | Lose | W+R | 6.5 | 3206 | -28 | 
+| 2010-11-18 | 第6期圓益杯十段戦2回戦 | Jin Siyoung | Park Cheongsang | Win | B+R | 6.5 | 3234 | 0 | 
+| 2010-10-05 | 2010年国際新鋭囲碁対抗戦第3戦 | Shi Yue | Jin Siyoung | Win | W+R | 6.5 | 3234 | 71 | 
+| 2010-10-04 | 2010年国際新鋭囲碁対抗戦第2戦 | Mitani Tetsuya | Jin Siyoung | Win | W+R | 6.5 | 3163 | 109 | 
+| 2010-10-03 | 2010年国際新鋭囲碁対抗戦第1戦 | Jin Siyoung | Xiao Zhenghao | Win | B+R | 6.5 | 3054 | 150 | 
+| 2010-05-15 | 2010年韓国囲碁リーグ | Mok Jinseok | Jin Siyoung | Win | W+0.5 | 6.5 | 2904 | 2904 | 
+| 2010-04-07 | 第38期名人戦（韓国）予選 | Cho Hanseung | Jin Siyoung | Lose | B+R | 6.5 | missing | 0 | 
+| 2010-03-15 | 第29回KBS杯囲碁王戦本戦1回戦 | Ju Hyeongwuk | Jin Siyoung | Lose | B+R | 6.5 | missing | -2707 | 
+| 2008-11-19 | 2008年国際新鋭囲碁対抗戦第3戦 | Jin Siyoung |  | Win | B+R | 6.5 | 2707 | 28 | 
+| 2008-11-18 | 2008年国際新鋭囲碁対抗戦第2戦 | Lin Lixiang | Jin Siyoung | Win | W+R | 6.5 | 2679 | 3 | 
+| 2008-11-17 | 2008年国際新鋭囲碁対抗戦第1戦 | Rin Kanketsu | Jin Siyoung | Lose | B+R | 6.5 | 2676 | -510 | 
+| 2008-09-05 | 第13回三星火災杯世界オープン囲碁選手権2回戦 | Li Zhe | Jin Siyoung | Lose | B+0.5 | 6.5 | 3186 | -54 | 
+| 2008-09-03 | 第13回三星火災杯世界オープン囲碁選手権1回戦 | Jin Siyoung | Gu Li | Win | B+0.5 | 6.5 | 3240 | 241 | 
+| 2008-08-14 | 第4期圓益杯十段戦1回戦 | Jin Siyoung | Lee Wondo | Lose | W+0.5 | 6.5 | 2999 | 277 | 
+| 2008-07-29 | 第13回三星火災杯予選2回戦 | Yu Bin | Jin Siyoung | Win | W+9.5 | 6.5 | 2722 | 288 | 
+| 2007-11-08 | 2007年国際新鋭囲碁対抗戦第3戦 | Tuo Jiaxi | Jin Siyoung | Lose | B+R | 6.5 | 2434 | -45 | 
+| 2007-11-07 | 2007年国際新鋭囲碁対抗戦第2戦 | Jin Siyoung | Anzai Nobuaki | Lose | W+0.5 | 6.5 | 2479 | -75 | 
+| 2007-11-05 | 2007年国際新鋭囲碁対抗戦第1戦 | Yang Mengyun | Jin Siyoung | Win | W+R | 6.5 | 2554 | -36 | 
+| 2007-08-27 | 第3期圓益杯十段戦1回戦 | Jin Siyoung | Lee Sedol | Lose | W+4.5 | 6.5 | 2590 | -544 | 
+| 2007-06-08 | 第7期オスラムコリア杯新鋭連勝最強戦第1戦 | Jin Siyoung | Kang Dongyun | Lose | W+R | 6.5 | 3134 | 369 | 
+| 2007-02-01 | 第17期BCカード杯新人王戦2回戦 | Hong Seongji | Jin Siyoung | Lose | B+0.5 | 6.5 | 2765 | -6 | 
+| 2006-11-15 | 2006年国際新鋭囲碁対抗戦第3戦 | Jin Siyoung | Gu Lingyi | Lose | W+R | 7.5 | 2771 | -56 | 
+| 2006-11-14 | 2006年国際新鋭囲碁対抗戦第2戦 | Jin Siyoung | Mitani Tetsuya | Win | B+R | 7.5 | 2827 | 24 | 
+| 2006-11-13 | 2006年国際新鋭囲碁対抗戦第1戦 | Jin Siyoung | Zhou Pingqiang | Win | B+5.5 | 7.5 | 2803 | -1 | 
+| 2006-08-10 | 第6期オスラムコリア杯新鋭連勝最強戦三位決定戦 | Jin Siyoung | Heo Yongho | Lose | W+R | 6.5 | 2804 | -14 | 
+| 2006-08-02 | 第6期オスラムコリア杯新鋭連勝最強戦準決勝 | Jin Siyoung | Park Cheongsang | Lose | W+R | 6.5 | 2818 | -34 | 
+| 2006-08-01 | 第50期国手戦（韓国）2回戦 | Yun Junsang | Jin Siyoung | Lose | B+R | 6.5 | 2852 | -95 | 
+| 2006-07-18 | 第6期オスラムコリア杯新鋭連勝最強戦第24戦 | Jin Siyoung | Kang Dongyun | Win | B+R | 6.5 | 2947 | 0 | 
+| 2006-07-18 | 第6期オスラムコリア杯新鋭連勝最強戦第23戦 | Jin Siyoung | Kim Daehee | Win | B+R | 6.5 | 2947 | -24 | 
+| 2006-07-10 | 第6期オスラムコリア杯新鋭連勝最強戦第22戦 |  | Jin Siyoung | Win | W+R | 6.5 | 2971 | 0 | 
+| 2006-07-10 | 第6期オスラムコリア杯新鋭連勝最強戦第21戦 | Jin Siyoung | Paek Hongseok | Win | B+R | 6.5 | 2971 | 41 | 
+| 2006-07-05 | 第6期オスラムコリア杯新鋭連勝最強戦第20戦 | Jin Siyoung | Kim Hyokon | Win | B+R | 6.5 | 2930 | 0 | 
+| 2006-07-05 | 第6期オスラムコリア杯新鋭連勝最強戦第19戦 | Jin Siyoung | Kim Kiyoung | Win | B+1.5 | 6.5 | 2930 | -180 | 
+| 2006-06-15 | 第50期国手戦（韓国）1回戦 | Kim Hyokon | Jin Siyoung | Win | W+R | 6.5 | 3110 | 108 | 
+| 2006-05-15 | 第11回LG杯世界棋王戦1回戦 | Jin Siyoung | Xie He | Lose | W+R | 6.5 | 3002 | -8 | 
+| 2006-04-28 | 第11回LG杯予選 | Kim Sujun | Jin Siyoung | Win | W+1.5 | 6.5 | 3010 | 41 | 
+| 2006-04-17 | 第16期BCカード杯新人王戦準決勝 | Jin Siyoung | Heo Yongho | Lose | W+R | 6.5 | 2969 | -20 | 
+| 2006-03-31 | 第40期王位戦2回戦 | Jin Siyoung | Choi Cheolhan | Lose | W+R | 6.5 | 2989 | -21 | 
+| 2006-03-14 | 第16期BCカード杯新人王戦3回戦 | Jin Siyoung | Kim Kiyoung | Win | B+0.5 | 6.5 | 3010 | -18 | 
+| 2006-02-07 | 第16期BCカード杯新人王戦2回戦 | Kim Donghee | Jin Siyoung | Win | W+R | 6.5 | 3028 | 150 | 
+| 2005-12-30 | 第16期BCカード杯新人王戦1回戦 | Jin Siyoung | On Sojin | Win | B+R | 6.5 | 2878 | -43 | 
+| 2005-10-19 | 2005年国際新鋭囲碁対抗戦第3戦 | Gu Lingyi | Jin Siyoung | Lose | B+R | 6.5 | 2921 | -118 | 
+| 2005-10-18 | 2005年国際新鋭囲碁対抗戦第2戦 | Jin Siyoung | Zhou Yinnan | Win | B+R | 6.5 | 3039 | -41 | 
+| 2005-10-17 | 2005年国際新鋭囲碁対抗戦第1戦 | Iyama Yuta | Jin Siyoung | Win | W+R | 6.5 | 3080 | 3080 | 
+| 2005-08-03 | 第1期圓益杯十段戦1回戦 | Lee Jaeung | Jin Siyoung | Lose | B+R | 6.5 | missing | 0 | 
+| 2005-04-08 | 第10期GSカルテックス杯プロ棋戦1回戦 | Kang Jiseong | Jin Siyoung | Lose | B+R | 6.5 | missing | missing |
 
 
 

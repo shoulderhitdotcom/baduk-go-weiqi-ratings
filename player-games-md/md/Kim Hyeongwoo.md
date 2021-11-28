@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-27 | 2021-2022韓国囲碁リーグ | Park Junghwan | Kim Hyeongwoo | Lose | B+R | 6.5 | 3302 | -62 | 
 | 2021-11-20 | 2021-2022韓国囲碁リーグ | Yun Chanhee | Kim Hyeongwoo | Lose | B+R | 6.5 | 3364 | 49 | 
 | 2021-07-15 | 第23回農心杯韓国予選 | Kim Seongjae | Kim Hyeongwoo | Lose | B+R | 6.5 | 3315 | -71 | 
 | 2021-04-26 | 第26回LG杯韓国予選 | Park Hyunsoo | Kim Hyeongwoo | Lose | B+7.5 | 6.5 | 3386 | -132 | 

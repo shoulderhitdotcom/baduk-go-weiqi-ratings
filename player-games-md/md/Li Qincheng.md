@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-29 | 第23回農心辛ラーメン杯世界囲碁最強戦第8戦  | Li Qincheng | Iyama Yuta | Lose | W+R | 6.5 | 3544 | -76 | 
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Mi Yuting | Li Qincheng | Lose | B+1¾ | 7.5 | 3620 | 19 | 
 | 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Li Qincheng | Fan Tingyu | Lose | W+R | 7.5 | 3601 | -28 | 
 | 2021-10-13 | 第7回国手山脈国際囲碁大会中国予選 | Tuo Jiaxi | Li Qincheng | Win | W+R | 6.5 | 3629 | 18 | 

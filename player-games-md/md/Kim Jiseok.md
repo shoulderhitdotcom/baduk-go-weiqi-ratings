@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-28 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Choi Jeong | Win | B+R | 6.5 | 3548 | 6 | 
 | 2021-11-25 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Jiseok |  | Lose | W+R | 6.5 | 3542 | -43 | 
 | 2021-11-19 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Kim Jiseok | Lose | B+R | 6.5 | 3585 | 0 | 
 | 2021-11-17 | 第3期ソパルコサノル最高棋士決定戦予選 | An Joyeong | Kim Jiseok | Win | W+R | 6.5 | 3585 | 7 | 

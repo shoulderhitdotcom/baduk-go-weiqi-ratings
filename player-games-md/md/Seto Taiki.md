@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-28 | 第2回関西囲碁オープントーナメントトップクラス決勝  | Seto Taiki | Murakawa Daisuke | Win | B+0.5 | 6.5 | 3152 | -25 | 
 | 2021-11-17 | 第66期関西棋院第一位決定戦1回戦 | Kurahashi Masayuki | Seto Taiki | Win | W+R | 6.5 | 3177 | 39 | 
 | 2021-10-28 | 第60期十段戦2回戦 | Motoki Katsuya | Seto Taiki | Lose | B+R | 6.5 | 3138 | -56 | 
 | 2021-10-14 | 第47期碁聖戦予選 | Hong Seokui | Seto Taiki | Lose | B+R | 6.5 | 3194 | 61 | 

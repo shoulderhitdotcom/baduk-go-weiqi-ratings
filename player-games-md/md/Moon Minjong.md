@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-28 | 2021-2022韓国囲碁リーグ |  | Moon Minjong | Win | W+R | 6.5 | 3222 | 6 | 
 | 2021-11-24 | 第3期ソパルコサノル最高棋士決定戦予選 | Moon Minjong | Yun Chanhee | Lose | W+R | 6.5 | 3216 | -42 | 
 | 2021-11-19 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Moon Minjong | Lose | B+R | 6.5 | 3258 | -4 | 
 | 2021-11-16 | 第3期ソパルコサノル最高棋士決定戦予選 | Moon Minjong | Lee Changseok | Lose | W+R | 6.5 | 3262 | 14 | 

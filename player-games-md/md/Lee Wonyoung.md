@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-28 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Lee Wonyoung | Lose | B+R | 6.5 | 3314 | -72 | 
+| 2021-11-19 | 2021-2022韓国囲碁リーグ | Lee Wonyoung | Gon Jiwoo | Lose | W+R | 6.5 | 3386 | 22 | 
+| 2021-08-24 | 第26回三星火災杯韓国予選 | Lee Donghoon | Lee Wonyoung | Lose | B+T | 6.5 | 3364 | 0 | 
 | 2021-08-24 | 第26回三星火災杯韓国予選 | Lee Donghoon | Lee Wonyoung | Lose | B+R | 6.5 | 3364 | -39 | 
 | 2021-05-20 | 第26回GSカルテックス杯プロ棋戦2回戦 | Lee Wonyoung | Shin Jinseo | Lose | W+R | 6.5 | 3403 | -44 | 
 | 2021-04-09 | 第26回GSカルテックス杯プロ棋戦1回戦 | Lee Wonyoung | Lee Wondo | Win | B+13.5 | 6.5 | 3447 | -78 | 

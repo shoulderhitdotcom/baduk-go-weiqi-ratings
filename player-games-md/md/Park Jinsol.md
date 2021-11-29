@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-28 | 2021-2022韓国囲碁リーグ | Park Sangjin | Park Jinsol | Win | W+0.5 | 6.5 | 3268 | -69 | 
+| 2021-11-21 | 2021-2022韓国囲碁リーグ | Park Minkyu | Park Jinsol | Lose | B+R | 6.5 | 3337 | 21 | 
 | 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 | Shen Zaiyi | Park Jinsol | Lose | B+1.5 | 6.5 | 3316 | -23 | 
 | 2021-11-16 | 第7回国手山脈韓国国内トーナメント予選 | Han Wonggyu | Park Jinsol | Win | W+R | 6.5 | 3339 | 39 | 
 | 2021-07-18 | 第23回農心杯韓国予選 | Park Jinsol | Ahn Kukhyun | Lose | W+R | 6.5 | 3300 | -53 | 

@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-28 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | Park Hamin | Lose | B+R | 6.5 | 3280 | -5 | 
+| 2021-11-23 | 第5回クラウン・ヘテ杯予選 |  | Park Hamin | Win | W+R | 6.5 | 3285 | -54 | 
+| 2021-11-21 | 2021-2022韓国囲碁リーグ | Park Hamin | Kim Seongjae | Win | B+R | 6.5 | 3339 | 21 | 
+| 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 | Hong Mujin | Park Hamin | Win | W+R | 6.5 | 3318 | -48 | 
 | 2021-09-23 | 第7回国手山脈国際囲碁大会韓国予選 | Park Hamin | Park Geunho | Lose | W+R | 6.5 | 3366 | 3366 | 
 | 2021-08-25 | 第26回三星火災杯韓国予選 | Yun Chanhee | Park Hamin | Lose | B+R | 6.5 | missing | -3329 | 
 | 2021-07-16 | 第23回農心杯韓国予選 | Park Hamin | Cho Hanseung | Win | B+1.5 | 6.5 | 3329 | -94 | 

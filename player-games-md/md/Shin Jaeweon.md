@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-28 | 2021-2022フューチャーズリーグ | Hyun Yoobin | Shin Jaeweon | Lose | B+R | 6.5 | 3092 | -34 | 
+| 2021-11-21 | 2021-2022フューチャーズリーグ | Jin Siyoung | Shin Jaeweon | Win | W+R | 6.5 | 3126 | 3126 | 
+| 2021-10-04 | 第3期ソパルコサノル最高棋士決定戦予選 | Shin Jaeweon | Baek Hyeonwoo | Lose | W+R | 6.5 | missing | -3070 | 
 | 2021-08-27 | 第2期利鵬杯新鋭最高位戦準決勝 | Hyun Yoobin | Shin Jaeweon | Lose | B+R | 6.5 | 3070 | 3070 | 
 | 2021-08-12 | 第2期利鵬杯新鋭最高位戦8強戦 | Shin Jaeweon | Gon Jiwoo | Win | B+R | 6.5 | missing | -3076 | 
 | 2021-05-06 | 第26回LG杯韓国予選 | Shin Jaeweon | Kim Myounghoon | Lose | W+R | 6.5 | 3076 | -124 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-28 | 2021-2022フューチャーズリーグ |  | Lee Hyunho | Win | W+R | 6.5 | missing | 0 | 
 | 2021-11-20 | 2021-2022フューチャーズリーグ | Kim Changhoon | Lee Hyunho | Win | W+R | 6.5 | missing | -2974 | 
 | 2020-04-20 | 第25回LG杯韓国予選 | Lee Hyunho | Park Geunho | Lose | W+R | 6.5 | 2974 | -136 | 
 | 2020-02-02 | 2019-2020KBフューチャーズリーグ第18節第3試合第2局 |  | Lee Hyunho | Win | W+0.5 | 6.5 | 3110 | 4 | 

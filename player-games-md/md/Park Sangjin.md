@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-28 | 2021-2022韓国囲碁リーグ | Park Sangjin | Park Jinsol | Lose | W+0.5 | 6.5 | 3281 | -83 | 
+| 2021-11-19 | 2021-2022韓国囲碁リーグ | Park Sangjin | Cho Hanseung | Lose | W+R | 6.5 | 3364 | -156 | 
+| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Park Sangjin | Wi Taewoong | Lose | W+R | 6.5 | 3520 | 104 | 
 | 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Changho | Park Sangjin | Win | W+R | 6.5 | 3416 | 77 | 
 | 2021-08-01 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Sangjin | Lee Donghoon | Lose | W+R | 6.5 | 3339 | -12 | 
 | 2021-07-12 | 第23回農心杯韓国予選 | Park Sangjin | Yun Chanhee | Win | B+R | 6.5 | 3351 | 0 | 

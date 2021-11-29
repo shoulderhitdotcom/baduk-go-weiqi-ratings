@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-28 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | Park Hamin | Win | B+R | 6.5 | 3369 | -50 | 
+| 2021-11-19 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | Kang Seungmin | Win | B+0.5 | 6.5 | 3419 | 16 | 
 | 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 | Seol Hyunjun | Lee Changho | Win | B+R | 6.5 | 3403 | -1 | 
 | 2021-11-10 | 第3回大統領杯全国囲碁大会予選 | Park Yeonghun | Seol Hyunjun | Win | W+R | 6.5 | 3404 | 0 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Seol Hyunjun | Xie Ke | Lose | W+R | 6.5 | 3404 | 3404 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-28 | 2021-2022フューチャーズリーグ | Park Jinyoung |  | Win | B+3.5 | 6.5 | 3055 | -141 | 
 | 2021-11-20 | 2021-2022フューチャーズリーグ | Choi Kyeongho | Park Jinyoung | Win | W+0.5 | 6.5 | 3196 | 3196 | 
 | 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Sedong | Park Jinyoung | Lose | B+R | 6.5 | missing | -3207 | 
 | 2020-08-31 | 第25回三星火災杯韓国一般枠予選 | Park Jinyoung | Lee Yeongkyu | Lose | W+R | 6.5 | 3207 | 103 | 

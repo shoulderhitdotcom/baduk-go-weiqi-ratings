@@ -7,6 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-29 | 第3回大統領杯全国囲碁大会1回戦 | Hong Seongji | Lee Changseok | Lose | W+R | 6.5 | 3253 | 43 | 
+| 2021-11-26 | 2021-2022韓国囲碁リーグ | Hong Seongji | Cho Hanseung | Win | B+R | 6.5 | 3210 | -26 | 
+| 2021-11-18 | 2021-2022韓国囲碁リーグ | Hong Seongji | Park Junghwan | Lose | W+R | 6.5 | 3236 | 14 | 
+| 2021-11-14 | 第7回国手山脈韓国国内トーナメント予選 | An Jungki | Hong Seongji | Lose | B+0.5 | 6.5 | 3222 | 3222 | 
+| 2021-08-25 | 第26回三星火災杯韓国予選 | Han Seungjoo | Hong Seongji | Lose | B+R | 6.5 | missing | -3370 | 
 | 2021-08-23 | 第26回三星火災杯韓国予選 | Hong Seongji |  | Win | B+R | 6.5 | 3370 | 106 | 
 | 2021-07-16 | 第23回農心杯韓国予選 | Choi Cheolhan | Hong Seongji | Win | W+R | 6.5 | 3264 | 19 | 
 | 2021-07-10 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Han Seungjoo | Hong Seongji | Lose | B+R | 6.5 | 3245 | -57 | 

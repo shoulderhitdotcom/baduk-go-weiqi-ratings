@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-29 | 第48期天元戦予選 | O Rissei | Kono Rin | Win | W+R | 6.5 | 3009 | 3 | 
 | 2021-11-18 | 第47期碁聖戦予選 | Anzai Nobuaki | Kono Rin | Win | W+R | 6.5 | 3006 | 3006 | 
 | 2021-11-11 | 第47期名人戦予選 | Shida Tatsuya | Kono Rin | Lose | B+R | 6.5 | missing | -3038 | 
 | 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Kono Rin | Cho Hanseung | Lose | W+2¼ | 7.5 | 3038 | 7 | 

@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-29 | 第3回大統領杯全国囲碁大会2回戦 | Kim Jiseok | Park Minkyu | Lose | B+R | 6.5 | 3429 | 0 | 
+| 2021-11-29 | 第3回大統領杯全国囲碁大会1回戦 | Lee Yeongkyu | Park Minkyu | Win | W+0.5 | 6.5 | 3429 | -52 | 
+| 2021-11-21 | 2021-2022韓国囲碁リーグ | Park Minkyu | Park Jinsol | Win | B+R | 6.5 | 3481 | -55 | 
 | 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Park Minkyu | Cho Hanseung | Lose | W+1.5 | 6.5 | 3536 | 3536 | 
 | 2021-10-04 | 第3期ソパルコサノル最高棋士決定戦予選 |  | Park Minkyu | Win | W+R | 6.5 | missing | -3403 | 
 | 2021-07-11 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Minkyu | Weon Seongjin | Lose | W+R | 6.5 | 3403 | 11 | 

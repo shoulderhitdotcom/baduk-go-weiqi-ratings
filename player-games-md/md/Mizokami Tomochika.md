@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-29 | 第48期天元戦予選 | Kobayashi Satoru | Mizokami Tomochika | Win | W+R | 6.5 | 3121 | -49 | 
+| 2021-09-09 | 第60期十段戦予選 | Mizokami Tomochika | Ida Atsushi | Lose | W+R | 6.5 | 3170 | -29 | 
 | 2021-08-26 | 第46期棋聖戦Cリーグ | Mizokami Tomochika | Xie Yimin | Win | B+R | 6.5 | 3199 | 13 | 
 | 2021-08-19 | 第60期十段戦予選 | O Meien | Mizokami Tomochika | Win | W+R | 6.5 | 3186 | 8 | 
 | 2021-08-09 | 第47期名人戦予選 | Kobayashi Satoru | Mizokami Tomochika | Win | W+R | 6.5 | 3178 | -13 | 

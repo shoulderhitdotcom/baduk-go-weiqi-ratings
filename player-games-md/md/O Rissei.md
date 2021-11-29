@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-29 | 第48期天元戦予選 | O Rissei | Kono Rin | Lose | W+R | 6.5 | 3033 | 30 | 
 | 2021-09-16 | 第48期天元戦予選 | Ohashi Hirofumi | O Rissei | Win | W+R | 6.5 | 3003 | -34 | 
 | 2021-09-02 | 第47期名人戦予選 | Sun Zhe | O Rissei | Lose | B+R | 6.5 | 3037 | -52 | 
 | 2021-08-19 | 第60期十段戦予選 | Anzai Nobuaki | O Rissei | Lose | B+R | 6.5 | 3089 | 169 | 

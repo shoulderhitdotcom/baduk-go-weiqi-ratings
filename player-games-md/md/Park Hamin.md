@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-29 | 第3回大統領杯全国囲碁大会2回戦 | Han Seungjoo | Park Hamin | Lose | B+R | 6.5 | 3289 | 0 | 
+| 2021-11-29 | 第3回大統領杯全国囲碁大会1回戦 | Park Hamin |  | Win | B+R | 6.5 | 3289 | 9 | 
 | 2021-11-28 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | Park Hamin | Lose | B+R | 6.5 | 3280 | -5 | 
 | 2021-11-23 | 第5回クラウン・ヘテ杯予選 |  | Park Hamin | Win | W+R | 6.5 | 3285 | -54 | 
 | 2021-11-21 | 2021-2022韓国囲碁リーグ | Park Hamin | Kim Seongjae | Win | B+R | 6.5 | 3339 | 21 | 

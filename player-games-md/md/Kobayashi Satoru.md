@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-29 | 第48期天元戦予選 | Kobayashi Satoru | Mizokami Tomochika | Lose | W+R | 6.5 | 2565 | 17 | 
 | 2021-11-25 | 第61期十段戦予選 | Kobayashi Satoru | Okada Shinichiro | Win | B+R | 6.5 | 2548 | -45 | 
 | 2021-11-15 | 第47期碁聖戦予選 | Nyu Eiko | Kobayashi Satoru | Lose | B+R | 6.5 | 2593 | -193 | 
 | 2021-09-14 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第3ラウンド | Kobayashi Satoru | Yoo Changhyuk | Win | B+R | 7.5 | 2786 | 117 | 

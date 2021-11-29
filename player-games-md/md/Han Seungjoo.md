@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-29 | 第3回大統領杯全国囲碁大会2回戦 | Han Seungjoo | Park Hamin | Win | B+R | 6.5 | 3285 | 26 | 
 | 2021-11-28 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Lee Wonyoung | Win | B+R | 6.5 | 3259 | -48 | 
 | 2021-11-21 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Shin Minjun | Lose | W+R | 6.5 | 3307 | 13 | 
 | 2021-11-13 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Han Seungjoo | Kang Dongyun | Win | B+R | 6.5 | 3294 | 16 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-30 | 第23回農心辛ラーメン杯世界囲碁最強戦第9戦  | Iyama Yuta | Shin Minjun | Win | B+R | 6.5 | 3512 | 11 | 
 | 2021-11-29 | 第23回農心辛ラーメン杯世界囲碁最強戦第8戦  | Li Qincheng | Iyama Yuta | Win | W+R | 6.5 | 3501 | 18 | 
 | 2021-11-28 | 第23回農心辛ラーメン杯世界囲碁最強戦第7戦  | Byun Sangil | Iyama Yuta | Win | W+R | 6.5 | 3483 | 24 | 
 | 2021-11-27 | 第23回農心辛ラーメン杯世界囲碁最強戦第6戦  | Fan Tingyu | Iyama Yuta | Win | W+R | 6.5 | 3459 | -55 | 

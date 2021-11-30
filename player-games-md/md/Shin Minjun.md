@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-11-30 | 第23回農心辛ラーメン杯世界囲碁最強戦第9戦  | Iyama Yuta | Shin Minjun | Lose | B+R | 6.5 | 3457 | -77 | 
+| 2021-11-22 | 第5回クラウン・ヘテ杯予選 | Shin Minjun |  | Win | B+0.5 | 6.5 | 3534 | 27 | 
+| 2021-11-21 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Shin Minjun | Win | W+R | 6.5 | 3507 | -15 | 
 | 2021-11-20 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Shin Minjun | Shin Jinseo | Lose | W+R | 6.5 | 3522 | 2 | 
 | 2021-11-07 | 第26回LG杯朝鮮日報棋王戦3回戦 | Shin Minjun | Yang Dingxin | Lose | W+R | 6.5 | 3520 | -3 | 
 | 2021-10-30 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Seungmin | Shin Minjun | Win | W+R | 6.5 | 3523 | 20 | 

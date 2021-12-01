@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-01 | 第1回テイケイ杯レジェンド戦予選 | Sonoda Yuichi | Hasegawa Sunao | Win | B+R | 6.5 | 2751 | 89 | 
 | 2021-09-08 | 第70期王座戦予選 | Sonoda Yuichi | Seto Taiki | Lose | W+R | 6.5 | 2662 | 2662 | 
 | 2021-08-23 | 第66期関西棋院第一位決定戦予選 | Yata Naoki | Sonoda Yuichi | Lose | B+3.5 | 6.5 | missing | -2871 | 
 | 2021-03-03 | 第46期棋聖戦予選 |  | Sonoda Yuichi | Win | W+R | 6.5 | 2871 | 2871 | 

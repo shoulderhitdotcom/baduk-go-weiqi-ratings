@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-01 | 第66期関西棋院第一位決定戦1回戦 | Takatsu Masaaki | Imamura Toshiya | Lose | W+R | 6.5 | missing | 0 | 
 | 2021-11-03 | 第48期天元戦予選 | Takatsu Masaaki | Kiyonari Tetsuya | Lose | W+R | 6.5 | missing | 0 | 
 | 2020-12-10 | 第65期関西棋院第一位決定戦本戦1回戦 | Murakawa Daisuke | Takatsu Masaaki | Lose | B+R | 6.5 | missing | 0 | 
 | 2020-07-08 | 第46期碁聖戦予選 | Takatsu Masaaki | Muraoka Shigeyuki | Lose | W+6.5 | 6.5 | missing | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-01 | 第48期天元戦予選 | Sada Atsushi | Hoshikawa Takumi | Lose | B+R | 6.5 | missing | 0 | 
 | 2021-09-13 | 第66期関西棋院第一位決定戦予選 |  | Hoshikawa Takumi | Win | W+11.5 | 6.5 | missing | 0 | 
 | 2021-08-18 | 第47期碁聖戦予選 | Watanabe Yuu | Hoshikawa Takumi | Lose | B+R | 6.5 | missing | 0 | 
 | 2021-02-17 | 第77期本因坊戦予選 | Yuki Satoshi | Hoshikawa Takumi | Lose | B+R | 6.5 | missing | 0 | 

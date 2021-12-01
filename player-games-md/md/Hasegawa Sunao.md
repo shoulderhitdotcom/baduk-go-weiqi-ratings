@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-01 | 第1回テイケイ杯レジェンド戦予選 | Sonoda Yuichi | Hasegawa Sunao | Lose | B+R | 6.5 | 2709 | 2709 | 
 | 2021-10-20 | 第70期王座戦予選 | Abe Yoshiki | Hasegawa Sunao | Win | W+0.5 | 6.5 | missing | 0 | 
 | 2020-03-18 | 第59期十段戦予選 | Yuki Satoshi | Hasegawa Sunao | Lose | B+7.5 | 6.5 | missing | 0 | 
 | 2020-01-23 | 第45期棋聖戦ファーストトーナメント予選 | Hikosaka Naoto | Hasegawa Sunao | Lose | B+R | 6.5 | missing | 0 | 

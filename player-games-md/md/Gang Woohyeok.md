@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-01 | 2021-2022フューチャーズリーグ | Gang Woohyeok | Wi Taewoong | Lose | W+R | 6.5 | 3062 | -28 | 
 | 2021-11-24 | 2021-2022フューチャーズリーグ | Gang Woohyeok | Kim Sangcheon | Win | B+R | 6.5 | 3090 | 3090 | 
 | 2021-08-25 | 第26回三星火災杯韓国予選 | Gang Woohyeok | Lee Donghoon | Lose | W+R | 6.5 | missing | -3373 | 
 | 2020-12-08 | 第26期GSカルテックス杯プロ棋戦予選 | Gang Woohyeok | Lee Yeongkyu | Lose | W+R | 6.5 | 3373 | 346 | 

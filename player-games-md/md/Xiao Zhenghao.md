@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-01 | 第2回UMC聯電杯早碁争覇戦4回戦  | Xiao Zhenghao | Xu Haohong | Lose | W+R | 6.5 | 3111 | 7 | 
 | 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦 | Li Wei | Xiao Zhenghao | Win | W+R | 6.5 | 3104 | 52 | 
 | 2021-10-28 | 第14期棋王戦（台湾）リーグ  | Lin Lixiang | Xiao Zhenghao | Lose | B+0.5 | 6.5 | 3052 | -1 | 
 | 2021-10-25 | 第14期棋王戦（台湾）リーグ | Cai Chengwei | Xiao Zhenghao | Win | W+0.5 | 6.5 | 3053 | 1 | 

@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hsu Chiayuan vs Motoki Katsuya** | **Hsu Chiayuan streak** | **Motoki Katsuya streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-08-26 | 第28期阿含・桐山杯全日本早碁オープン戦準決勝 | Motoki Katsuya | Hsu Chiayuan | W+R | 6.5 | 1:0 | 1 | 0 | 
+| 2021-12-02 | 第77期本因坊戦リーグ | Hsu Chiayuan | Motoki Katsuya | B+R | 6.5 | 1:0 | 1 | 0 | 
+| 2021-08-26 | 第28期阿含・桐山杯全日本早碁オープン戦準決勝 | Motoki Katsuya | Hsu Chiayuan | W+R | 6.5 | 7:4 | 3 | 0 | 
 | 2021-06-04 | 第69期王座戦1回戦 | Motoki Katsuya | Hsu Chiayuan | W+R | 6.5 | 6:4 | 2 | 0 | 
 | 2021-03-18 | 第46期名人戦リーグ  | Motoki Katsuya | Hsu Chiayuan | W+R | 6.5 | 5:4 | 1 | 0 | 
 | 2018-10-04 | 第57期十段戦2回戦 | Motoki Katsuya | Hsu Chiayuan | B+2.5 | 6.5 | 4:4 | 0 | 2 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-03 | 第4回呉清源杯世界女子囲碁選手権決勝三番勝負第2局 | Choi Jeong | Yu Zhiying | Win | B+R | 7.5 | 3261 | 10 | 
 | 2021-12-02 | 第4回呉清源杯世界女子囲碁選手権決勝三番勝負第1局 | Yu Zhiying | Choi Jeong | Lose | B+R | 7.5 | 3251 | -6 | 
 | 2021-11-30 | 第4回呉清源杯世界女子囲碁選手権準決勝 | Choi Jeong | Fang Ruoxi | Win | B+R | 7.5 | 3257 | -1 | 
 | 2021-11-28 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Choi Jeong | Lose | B+R | 6.5 | 3258 | -1 | 

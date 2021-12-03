@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-03 | 第69期王座戦挑戦手合五番勝負第4局  | Shibano Toramaru | Iyama Yuta | Win | B+R | 6.5 | 3319 | 43 | 
 | 2021-11-25 | 第77期本因坊戦リーグ | Motoki Katsuya | Shibano Toramaru | Win | W+R | 6.5 | 3276 | -64 | 
 | 2021-11-19 | 第69期王座戦挑戦手合五番勝負第3局  | Iyama Yuta | Shibano Toramaru | Lose | B+R | 6.5 | 3340 | 3340 | 
 | 2021-11-12 | 第69期王座戦挑戦手合五番勝負第2局  | Shibano Toramaru | Iyama Yuta | Win | B+R | 6.5 | missing | -3319 | 

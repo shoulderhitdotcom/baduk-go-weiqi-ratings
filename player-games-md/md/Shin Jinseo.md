@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-02 | 2021-2022韓国囲碁リーグ | Park Seunghwa | Shin Jinseo | Win | W+R | 6.5 | 3783 | -7 | 
+| 2021-11-26 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Shin Jinseo | Win | W+R | 6.5 | 3790 | -64 | 
 | 2021-11-20 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Shin Minjun | Shin Jinseo | Win | W+R | 6.5 | 3854 | 17 | 
 | 2021-11-19 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Kim Jiseok | Win | B+R | 6.5 | 3837 | 3 | 
 | 2021-11-10 | 第26回LG杯朝鮮日報棋王戦準決勝 | Ke Jie | Shin Jinseo | Win | W+3.5 | 6.5 | 3834 | 0 | 

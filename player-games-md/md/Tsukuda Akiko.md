@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-02 | 第1回テイケイ杯女流レジェンド戦準決勝 | Tsukuda Akiko | Kato Tomoko | Lose | W+R | 6.5 | missing | 0 | 
 | 2021-11-25 | 第25期女流棋聖戦準決勝 | Tsukuda Akiko |  | Lose | W+R | 6.5 | missing | 0 | 
 | 2021-11-11 | 第1回テイケイ杯女流レジェンド戦2回戦 | Chinen Kaori | Tsukuda Akiko | Win | W+R | 6.5 | missing | 0 | 
 | 2021-10-14 | 第25期ドコモ杯女流棋聖戦1回戦 | Taguchi Misei | Tsukuda Akiko | Win | W+2.5 | 6.5 | missing | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-02 | 第48期天元戦予選 | Ueno Asami | Takemiya Masaki | Lose | B+4.5 | 6.5 | 2725 | -21 | 
 | 2021-11-18 | 第78期本因坊戦予選 | Kato Atsushi | Takemiya Masaki | Win | W+5.5 | 6.5 | 2746 | -26 | 
 | 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Cho Hunhyun | Takemiya Masaki | Win | W+2¼ | 7.5 | 2772 | 194 | 
 | 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Takemiya Masaki | Nie Weiping | Win | B+R | 7.5 | 2578 | -156 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-02 | 爛柯対弈·新千年爛柯譜第一局 | Lian Xiao | Ke Jie | Lose | W+R | 7.5 | 3505 | -71 | 
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Tuo Jiaxi | Lian Xiao | Lose | B+R | 7.5 | 3576 | 6 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Lian Xiao | Peng Liyao | Lose | W+¼ | 7.5 | 3570 | 13 | 
 | 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Lian Xiao | Park Junghwan | Lose | W+2.5 | 6.5 | 3557 | 0 | 

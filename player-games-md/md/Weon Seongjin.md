@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-02 | 2021-2022韓国囲碁リーグ | Byun Sangil | Weon Seongjin | Lose | B+0.5 | 6.5 | 3559 | -5 | 
+| 2021-11-26 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Choi Jaeyoung | Win | B+0.5 | 6.5 | 3564 | -45 | 
+| 2021-11-19 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Moon Minjong | Win | B+R | 6.5 | 3609 | -5 | 
 | 2021-11-14 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Park Junghwan | Lose | W+R | 6.5 | 3614 | 11 | 
 | 2021-11-08 | 第3回大統領杯全国囲碁大会予選 | Weon Seongjin | Yun Chanhee | Lose | W+R | 6.5 | 3603 | -3 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Weon Seongjin | Yang Dingxin | Lose | W+R | 6.5 | 3606 | -43 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-02 | 第33期女流名人戦予選 | Nakamura Sumire | Hoshiai Shiho | Win | B+R | 6.5 | 2689 | 28 | 
 | 2021-11-29 | 第78期本因坊戦予選 | Nakamura Sumire | Kim Sujun | Win | B+3.5 | 6.5 | 2661 | -54 | 
 | 2021-11-22 | 第47期新人王予選 | Nakamura Sumire |  | Win | B+4.5 | 6.5 | 2715 | 87 | 
 | 2021-11-13 | フマキラー囲碁女流ブレーンズマッチ決勝  | Xie Yimin | Nakamura Sumire | Lose | B+R | 6.5 | 2628 | 2628 | 

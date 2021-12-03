@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-02 | 第77期本因坊戦リーグ | Yu Zhengqi | Hane Naoki | Lose | B+R | 6.5 | 3236 | 3236 | 
+| 2021-11-11 | 第63期王冠戦予選 | Hane Naoki | Yamashiro Hiroshi | Win | B+5.5 | 6.5 | missing | -3241 | 
+| 2021-10-14 | 第77期本因坊戦リーグ | Hane Naoki | Motoki Katsuya | Win | B+R | 6.5 | 3241 | 1 | 
+| 2021-09-23 | 第60期十段戦予選 | Hane Naoki | Adachi Toshimasa | Lose | W+R | 6.5 | 3240 | -60 | 
 | 2021-08-19 | 第46期棋聖戦Aリーグ | Hane Naoki | Yoda Norimoto | Win | B+R | 6.5 | 3300 | 51 | 
 | 2021-07-29 | 第46期棋聖戦Aリーグ | Hane Naoki | Mutsuura Yuta | Lose | W+R | 6.5 | 3249 | -2 | 
 | 2021-07-22 | 第69期王座戦2回戦  | Hane Naoki | Cho U | Lose | W+1.5 | 6.5 | 3251 | 4 | 

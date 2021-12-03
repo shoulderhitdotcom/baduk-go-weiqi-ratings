@@ -5,504 +5,513 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第28期阿含・桐山杯全日本早碁オープン戦予選 | missing | Yamada Kimio | B+R | 2021-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lmQXBE8o1NtCM8eHOp7J%2FA%3D%3D) | 
-| 第77期本因坊戦予選 | Yamada Kimio | missing | W+R | 2021-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tt%2B1kgC2xmEuOUWX6Jc6ZQ%3D%3D) | 
-| 第69期王座戦予選 | Yamada Kimio | Ishii Kunio | W+0.5 | 2021-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T4Na%2Fv6NRwvAfdPJq%2FNk7A%3D%3D) | 
-| 第47期天元戦予選 | Muramatsu Hiroki | Yamada Kimio | W+R | 2020-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=w%2BCSAtsvFD1b9ve9eQiLAA%3D%3D) | 
-| 第69期王座戦予選 | Yanagawa Hiromasa | Yamada Kimio | W+R | 2020-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=34T%2BR3WvTeTVY0eiIV6fsQ%3D%3D) | 
-| 第47期天元戦予選 | missing | Yamada Kimio | W+R | 2020-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lQbDH2kpMWMQKFe5bDQsOg%3D%3D) | 
-| 第77期本因坊戦予選 | Tsukuda Akiko | Yamada Kimio | W+4.5 | 2020-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Z7kUdld%2FRdsCdnyWZo4nQ%3D%3D) | 
-| 第45期棋聖戦Bリーグ | Yamada Kimio | Shibano Toramaru | W+R | 2020-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UKxYHdxcGbyzwBrj2FTxiw%3D%3D) | 
-| 第46期名人戦予選 | Yamada Kimio | missing | W+R | 2020-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5AzEe3CEUoCZoyMap29%2Bvw%3D%3D) | 
-| 第45期棋聖戦Bリーグ | Yamada Kimio | Tsuruyama Atsushi | W+R | 2020-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fGJcgL%2FhQ9FPr61Hp6HGng%3D%3D) | 
-| 第46期名人戦予選 | Yamada Kimio | Tsuruta Kazushi | B+R | 2020-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HlIqZRizQMcXruIQ73ullQ%3D%3D) | 
-| 第45期棋聖戦Bリーグ | Yamada Kimio | Fujita Akihiko | W+R | 2020-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h3jGps15vcuV5qUYPdfPpA%3D%3D) | 
-| 第45期棋聖戦Bリーグ | Hirose Yuichi | Yamada Kimio | B+0.5 | 2020-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KTCJWwb%2BnhPkRMc1JpYxvQ%3D%3D) | 
-| 第27期阿含・桐山杯全日本早碁オープン戦予選 | Yamashita Keigo | Yamada Kimio | B+R | 2020-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bvPTo51Arn2us5XItdz4Fg%3D%3D) | 
-| 第59期十段戦予選 | Yamada Kimio | Mutsuura Yuta | W+R | 2020-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OHitIKqBkArQXxAThRmDyw%3D%3D) | 
-| 第46期名人戦予選 | Otani Naoki | Yamada Kimio | W+R | 2020-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wwxWvwk7QfVueiwEa5jlTQ%3D%3D) | 
-| 第27期阿含・桐山杯全日本早碁オープン戦予選 | Nakano Yasuhiro | Yamada Kimio | W+R | 2020-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o2bo9eBNTxchGetxHGSRCA%3D%3D) | 
-| 第46期名人戦予選 | Nakamura Shinya | Yamada Kimio | W+R | 2020-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3efXRLFON6swpMFcic08hQ%3D%3D) | 
-| 第45期棋聖戦Bリーグ | Yamashiro Hiroshi | Yamada Kimio | W+R | 2020-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=301PrGwn4zESWHnxLNdmlw%3D%3D) | 
-| 第59期十段戦予選 | Otake Yu | Yamada Kimio | W+R | 2020-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K%2BVef%2FO82S6IoilwIFHLQw%3D%3D) | 
-| 第45期棋聖戦Bリーグ | Ko Iso | Yamada Kimio | B+R | 2020-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fgwpl9rY6D9Ov2MSZjlnXQ%3D%3D) | 
-| 第45期棋聖戦Bリーグ | Yamada Kimio | Suzuki Shinji | B+1.5 | 2020-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hJItiPz1aQYiCvkuIS0VZA%3D%3D) | 
-| 第46期天元戦1回戦 | Murakawa Daisuke | Yamada Kimio | B+R | 2020-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mc1KRCIqwpHZAA0h9IYCIA%3D%3D) | 
-| 第68期王座戦予選 | missing | Yamada Kimio | B+R | 2019-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aAAMKaKBFNdi22SCjsPUJw%3D%3D) | 
-| 第76期本因坊戦予選 | Ishii Kunio | Yamada Kimio | B+0.5 | 2019-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wxLtCKgd2SOxh5ZKF94fCQ%3D%3D) | 
-| 第46期天元戦予選 | Yamada Kimio | Tajima Shingo | B+R | 2019-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uYvtpfEAbil1g3iqQ9WLng%3D%3D) | 
-| 第46期天元戦予選 | Yamada Kimio | missing | B+R | 2019-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=My%2FI7EsbEkSMgEmrbnPD3Q%3D%3D) | 
-| 第45期碁聖戦予選 | Muramatsu Hiroki | Yamada Kimio | W+R | 2019-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xOxmrRsdrIGwNxvNAxPb8Q%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Ko Iso | Yamada Kimio | W+1.5 | 2019-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NBeNG7i0O5vT%2Btj0BVaA6w%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Yamada Kimio | Terayama Rei | B+R | 2019-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WQrTxbSCSSZdIv5Qsky56g%3D%3D) | 
-| 第44期棋聖戦Bリーグ | O Meien | Yamada Kimio | W+R | 2019-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yRpTSpszch7BqNdnWMB5UQ%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Yamada Kimio | Motoki Katsuya | W+R | 2019-06-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sxjQodLAgvl6hGi6F5eqmA%3D%3D) | 
-| 第26期阿含・桐山杯全日本早碁オープン戦予選 | Yamada Kimio | Adachi Toshimasa | W+R | 2019-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xwi0SBebnXRWINPVCOYs8w%3D%3D) | 
-| 第58期十段戦予選 | Nakane Naoyuki | Yamada Kimio | B+R | 2019-05-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uXEG%2BgRPjK6ZLXrF6GMoRg%3D%3D) | 
-| 第45期名人戦予選 | Kikkawa Hajime | Yamada Kimio | W+R | 2019-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B1KYS9dWL1FYIHVFm9hjiQ%3D%3D) | 
-| 第58期十段戦予選 | Ito Kenryo | Yamada Kimio | W+R | 2019-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fwgxp1QCALrrFvKXmSydQg%3D%3D) | 
-| 第45期名人戦予選 | Kato Yuuki | Yamada Kimio | W+5.5 | 2019-04-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KjMs2rjMqV1Z0R65JcBBBQ%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Han Zenki | Yamada Kimio | B+R | 2019-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JiSKSaAb1x0jVkJCKA4qPA%3D%3D) | 
-| 第45期名人戦予選 | Kitano Ryo | Yamada Kimio | W+R | 2019-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ug11gBTW1mg4u%2BV%2F%2F0hsOA%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Yamada Kimio | Cho Chikun | B+R | 2019-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vWQokp39ENWa6j2HpIGBiA%3D%3D) | 
-| 第44期棋聖戦Bリーグ | Yamada Kimio | Adachi Toshimasa | W+R | 2019-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qAp6bTqvcQ6THC%2BDAcC5sg%3D%3D) | 
-| 第45期名人戦予選 | Miyamoto Chiharu | Yamada Kimio | W+R | 2019-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KfhsmJuNIYcEAEkYOlIfrg%3D%3D) | 
-| 第75期本因坊戦予選 | missing | Yamada Kimio | B+3.5 | 2019-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W38mKvnWeY7QEA0VI5%2BhgQ%3D%3D) | 
-| 第67期王座戦予選 | Yamada Kimio | Tsuruta Kazushi | W+R | 2018-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hRre12uBkYaWGE4hH7tJPA%3D%3D) | 
-| 第45期天元戦予選 | Hikosaka Naoto | Yamada Kimio | B+R | 2018-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ps3uDvg9G6la%2BFoigqu2BA%3D%3D) | 
-| 第45期天元戦予選 | Ogata Masaki | Yamada Kimio | W+R | 2018-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FWPCbIQONfwzxJq1gLXMdw%3D%3D) | 
-| 第67期王座戦予選 | Yamada Kimio | Ishii Kunio | B+1.5 | 2018-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A3OXH5cfWtTZBEfDRIXg7Q%3D%3D) | 
-| 第44期碁聖戦予選 | Yamada Kimio | Shida Tatsuya | W+6.5 | 2018-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0ZFBK9PT%2BQ%2F2ZtZU09mJqQ%3D%3D) | 
-| 第44期碁聖戦予選 | Shimojima Yohei | Yamada Kimio | W+R | 2018-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BaEHkaXNCbQ1sZHBNLRTmA%3D%3D) | 
-| 第43期棋聖戦Bリーグ | Yuki Satoshi | Yamada Kimio | B+R | 2018-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pCKPF9q3AqcHo8ari1NvQQ%3D%3D) | 
-| 第57期十段戦最終予選決勝 | Chang Rueijie | Yamada Kimio | B+R | 2018-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cx9anZMK4%2B3mEGHpW92zWA%3D%3D) | 
-| 第43期棋聖戦Bリーグ | Yamada Kimio | Motoki Katsuya | B+1.5 | 2018-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5fZJA%2Fd235iajs5bVSf6MQ%3D%3D) | 
-| 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Yamada Kimio | Yu Zhengqi | W+R | 2018-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BuhqNVURMX8zxsQc9cFrXA%3D%3D) | 
-| 第74期本因坊戦予選 | Goto Shungo | Yamada Kimio | B+R | 2018-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e8%2FOHmgUdioE6WSszuf4qg%3D%3D) | 
-| 第43期棋聖戦Bリーグ | Tsuruta Kazushi | Yamada Kimio | W+3.5 | 2018-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ux%2BugDAe6kZaoyWG%2FQtgNw%3D%3D) | 
-| 第57期十段戦予選 | Yamada Kimio | Nakamura Shinya | B+R | 2018-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G8TwRZjuDS3c9MO%2BhkC18w%3D%3D) | 
-| 第44期名人戦予選 | Yamada Kimio | Komatsu Daiki | W+R | 2018-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hqq2j%2BbthFgS0UVM%2Fl0SmQ%3D%3D) | 
-| 第44期名人戦予選 | Yamada Kimio | Kori Toshio | B+R | 2018-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y26vV91x5M6GVpvLds%2FdFA%3D%3D) | 
-| 第43期棋聖戦リーグB組 | Yamada Kimio | Ryu Shikun | B+0.5 | 2018-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cBLfmkAYtyqF2XE1wA%2Fc%2BQ%3D%3D) | 
-| 第43期棋聖戦Bリーグ | Yamada Kimio | Tsuruyama Atsushi | B+R | 2018-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QvowFJa2ob7H7CXkdzfhbg%3D%3D) | 
-| 第66期王座戦最終予選 | Yamada Kimio | Sun Zhe | W+R | 2018-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fL6VQBpDsM%2BrOq2BBzpPmQ%3D%3D) | 
-| 第66期王座戦予選 | Iwamaru Taira | Yamada Kimio | W+R | 2017-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OhIxXj5Xcedq98zDp%2FkkRA%3D%3D) | 
-| 第43期碁聖戦本戦1回戦 | Ichiriki Ryo | Yamada Kimio | B+R | 2017-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1nXCHd8rZH8nZpE2BvBEsg%3D%3D) | 
-| 第66期王座戦予選 | Yamada Kimio | Bian Wenkai | B+R | 2017-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oTcY90yn1OFspL4XKS91Cg%3D%3D) | 
-| 第44期天元戦予選 | Yamada Kimio | Mutsuura Yuta | W+R | 2017-10-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iSLjEpEuStLKq3JFLndq5g%3D%3D) | 
-| 第44期天元戦予選 | Ohashi Naruya | Yamada Kimio | W+3.5 | 2017-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=unXEd%2FcRJpWBRvMkQcvalQ%3D%3D) | 
-| 第42期棋聖戦　Bリーグ1組7回戦 | Shibano Toramaru | Yamada Kimio | W+3.5 | 2017-08-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HB0BSw22gqGbYGfIfdY75Q%3D%3D) | 
-| 第44期天元戦　予選B決勝 | Matsuoka Hideki | Yamada Kimio | W+R | 2017-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=76nfCrVEDJpORTQ3am1j2A%3D%3D) | 
-| 第42期棋聖戦　Bリーグ1組6回戦 | Yamada Kimio | Imamura Yoshiaki | W+R | 2017-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f1K8oUn%2B0NjCYBe3z%2BbAPQ%3D%3D) | 
-| 第43期碁聖戦　予選A | Muramatsu Hiroki | Yamada Kimio | W+1.5 | 2017-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XfkvsPTiZ1J9bO1cIEaUQw%3D%3D) | 
-| 第24期阿含・桐山杯　本戦1回戦 | Kono Rin | Yamada Kimio | W+R | 2017-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0g0N1YKBvWqeJfLsOCF4AA%3D%3D) | 
-| 第42期棋聖戦　Bリーグ1組5回戦 | Yamada Kimio | Awaji Shuzo | W+R | 2017-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FSJr%2Fze5D5g9jDXu73xsMQ%3D%3D) | 
-| 第73期本因坊戦　最終予選1回戦 | Takao Shinji | Yamada Kimio | B+R | 2017-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n%2FufXpT2yXze30nCFyTHtA%3D%3D) | 
-| 第43期名人戦　予選B | Yamamori Tadanao | Yamada Kimio | B+1.5 | 2017-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MXY7CI0CKVAOj8ZAfxFPvQ%3D%3D) | 
-| 第56期十段戦　最終予選 | Yamada Kimio | Cho Sonjin | W+R | 2017-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FCTPWwplyi1ugYpMfaZK5Q%3D%3D) | 
-| 第42期棋聖戦　Bリーグ1組4回戦 | Akiyama Jiro | Yamada Kimio | B+1.5 | 2017-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ijx%2BJLa83YJHRsghTSqMRg%3D%3D) | 
-| 第24期阿含・桐山杯　最終予選決勝 | Yamada Kimio | Otake Yu | B+R | 2017-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fiv28SBRYMk68IP%2FD5NuDg%3D%3D) | 
-| 第42期棋聖戦リーグ戦B組 | Yamada Kimio | Shida Tatsuya | B+2.5 | 2017-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i%2BqBtk2f88h45%2FqCAyVrqw%3D%3D) | 
-| 第43期名人戦　予選C決勝 | Sano Takatsugu | Yamada Kimio | W+R | 2017-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pIuq%2BQOOF4DhTUn8EVo8ww%3D%3D) | 
-| 第73期本因坊戦　予選A決勝 | Takei Takashi | Yamada Kimio | W+R | 2017-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NXRGjTdkyavljaAJCXDkUg%3D%3D) | 
-| 第42期棋聖戦　Bリーグ2回戦 | Yamada Kimio | Ida Atsushi | W+2.5 | 2017-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SxUSxEqABKeHk8EVW%2FH60g%3D%3D) | 
-| 第43期名人戦　予選C | Takabayashi Masahiro | Yamada Kimio | W+R | 2017-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A5MTr1HHPKxMIlqp2YGNsA%3D%3D) | 
-| 第42期棋聖戦　Bリーグ1回戦 | Ko Iso | Yamada Kimio | W+R | 2017-03-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1xd30QYmMpQZgnfr5So3cg%3D%3D) | 
-| 第56期十段戦　予選A決勝 | Yamada Kimio | Mutsuura Yuta | B+R | 2017-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KBeEawpxLT%2BPJxTuGPnT6Q%3D%3D) | 
-| 第73期本因坊戦　予選A | Yamada Kimio | Otani Naoki | B+3.5 | 2017-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q5u%2BbQ2uOqBcDvr5hN1p3A%3D%3D) | 
-| 第73期本因坊戦　予選B決勝 | Yamada Kimio | Ito Yoji | B+R | 2016-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cd5fApuoJNYjkJfqEdsuag%3D%3D) | 
-| 第43期天元戦予選 | Takei Takashi | Yamada Kimio | B+R | 2016-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b2qymPkytgqm71X2NzC8VQ%3D%3D) | 
-| 第65期王座戦予選 | Tsuruta Kazushi | Yamada Kimio | B+R | 2016-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eH4CZFWMXGqKODZNOmcBTA%3D%3D) | 
-| 第41期棋聖戦　Aリーグ6回戦 | Yamada Kimio | Kobayashi Satoru | B+R | 2016-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=USBkj9Zwl8Wx7a7p1tqosw%3D%3D) | 
-| 第42期碁聖戦予選 | Goto Shungo | Yamada Kimio | W+R | 2016-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IxOIzj0lLet7QpoTMdtGcA%3D%3D) | 
-| 第55期十段戦予選 | Yamada Kimio | Adachi Toshimasa | W+R | 2016-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aJlAG2bo%2FZktByHWi%2B%2FKlw%3D%3D) | 
-| 第41期棋聖戦Aリーグ | Yamashiro Hiroshi | Yamada Kimio | B+R | 2016-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4e0hn%2BIkCVYEx2iAWxZJCQ%3D%3D) | 
-| 第65期王座戦予選 | Tajima Shingo | Yamada Kimio | W+R | 2016-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wd0jCicsaudRycu2qtKloQ%3D%3D) | 
-| 第42期名人戦予選 | Yamada Kimio | Muramatsu Hiroki | W+R | 2016-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H77Nm96P%2FwIEqvoPXW3WoQ%3D%3D) | 
-| 第41期棋聖戦Aリーグ | Yamada Kimio | Cho U | W+R | 2016-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e%2FYcoi6uAxhXUPCTfMl%2FRQ%3D%3D) | 
-| 第42期碁聖戦予選 | Osawa Kenro | Yamada Kimio | W+R | 2016-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DZIIImJYA5xaEo%2FxuFch7Q%3D%3D) | 
-| 第41期棋聖戦Aリーグ | So Yokoku | Yamada Kimio | B+R | 2016-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ja%2F5zQJ2HEKGrkryrL9H2w%3D%3D) | 
-| 第55期十段戦予選 | Yamada Kimio | Tanaka Nobuyuki | B+R | 2016-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qmky0UZFQ83XBupfWwZNuw%3D%3D) | 
-| 第23期阿含・桐山杯全日本早碁オープン戦予選 | Motoki Katsuya | Yamada Kimio | B+0.5 | 2016-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dZXZJdISK2jNyG84WkNVSA%3D%3D) | 
-| 第41期棋聖戦Aリーグ | Awaji Shuzo | Yamada Kimio | B+R | 2016-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L%2FrOpcBdpklb6z2EhiAFgA%3D%3D) | 
-| 第42期碁聖戦予選 | Yamada Kimio | Okumura Yasushi | B+R | 2016-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bKmyRFyyg2QPsPxf%2FjKGfQ%3D%3D) | 
-| 第11回春蘭杯世界囲碁選手権1回戦 | Yamada Kimio | Lian Xiao | W+R | 2016-03-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1nQED6gS2V%2F%2BD%2FcfKbey5w%3D%3D) | 
-| 第42期碁聖戦予選 | Yamada Kimio | Takagi Junpei | B+R | 2016-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gF%2B6GtbfAonvganGsiQqPw%3D%3D) | 
-| 第41期棋聖戦Aリーグ | Yamada Kimio | Ryu Shikun | W+2.5 | 2016-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZzwKaNAmsGu3jQbJntDbcA%3D%3D) | 
-| 第72期本因坊戦予選 | Yamada Kimio | Iwamaru Taira | W+R | 2016-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OywKwUWz23m8iNWxjJQT2g%3D%3D) | 
-| 第55期十段戦予選 | Yamada Kimio | Ito Yoji | B+R | 2016-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NPMwt22iflE00pAnX0E6uA%3D%3D) | 
-| 第72期本因坊戦予選 | Kikkawa Hajime | Yamada Kimio | W+R | 2015-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k%2F%2BduHWTfUQyO2UcB5qtdQ%3D%3D) | 
-| 第42期碁聖戦予選 | Yamada Kimio | missing | B+R | 2015-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bMtkEJQscnNA%2BzKe60OnKw%3D%3D) | 
-| 第42期天元戦予選 | Ogata Masaki | Yamada Kimio | B+R | 2015-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xC5PZSXKepUhWl94nBmP1Q%3D%3D) | 
-| 第55期十段戦予選 | Yamada Kimio | Araki Issei | B+10.5 | 2015-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L9XQXSGYOgr3pdy0JVN7Xw%3D%3D) | 
-| 第40期棋聖戦挑戦者決定トーナメント | Murakawa Daisuke | Yamada Kimio | B+2.5 | 2015-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wno%2BwONLYKWCIKESQ32EFQ%3D%3D) | 
-| 第64期王座戦予選 | Yamada Kimio | Ohashi Naruya | W+2.5 | 2015-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sl8oSYk6AlcH0J2b0l0f8w%3D%3D) | 
-| 第40期棋聖戦挑戦者決定トーナメント | Yamada Kimio | Kono Rin | B+R | 2015-10-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kPpZf5eL36Zy5aknm%2Fvp%2FQ%3D%3D) | 
-| 第40期棋聖戦挑戦者決定トーナメント | Yamada Kimio | Hsu Chiayuan | B+R | 2015-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AfqlZvR8tYxJ%2FUBsoHGWOw%3D%3D) | 
-| 第42期天元戦予選 | Tsuruta Kazushi | Yamada Kimio | W+R | 2015-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2g%2FCjuDgFKC9NqOaNs9NVg%3D%3D) | 
-| 第40期棋聖戦挑戦者決定トーナメント | Awaji Shuzo | Yamada Kimio | W+8.5 | 2015-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F4jE11WH9uDGXgjXGh2wWQ%3D%3D) | 
-| 第40期棋聖戦Bリーグ | Yamada Kimio | Kim Sujun | W+R | 2015-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HttVROAmkYLPiNFe0Pitig%3D%3D) | 
-| 第40期棋聖戦Bリーグ | Yamada Kimio | O Meien | B+R | 2015-07-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mN4QXi8jcPFqjId%2FBk%2FK4A%3D%3D) | 
-| 第41期名人戦予選 | Yamada Kimio | Nakano Hironari | W+R | 2015-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1J8iFIeorIyyiHqYOzQKfg%3D%3D) | 
-| 第40期棋聖戦Bリーグ | Kiyonari Tetsuya | Yamada Kimio | B+R | 2015-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5OKV1Yq5uC5GFlfrpk8s9w%3D%3D) | 
-| 第40期棋聖戦Bリーグ | Yamada Kimio | Suzuki Yoshimichi | B+7.5 | 2015-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fGwweg%2B8m7fxaciCsqwzGA%3D%3D) | 
-| 第40期棋聖戦Bリーグ | Shida Tatsuya | Yamada Kimio | W+R | 2015-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8ctfjx6sWbR5Zvuf712Mbw%3D%3D) | 
-| 第22期阿含・桐山杯全日本早碁オープン戦予選 | Yamada Kimio | Matsumoto Takehisa | W+R | 2015-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uflD%2Fz6adoJoOlaOVJLKug%3D%3D) | 
-| 第71期本因坊戦予選 | Muramatsu Hiroki | Yamada Kimio | B+0.5 | 2015-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=miLdtFfRjIbzZgN84dVG%2Fw%3D%3D) | 
-| 第41期碁聖戦予選 | Yamamori Tadanao | Yamada Kimio | B+R | 2015-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yLRqVSsyq9r%2BDYuovJUuOg%3D%3D) | 
-| 第40期棋聖戦Bリーグ | Yamada Kimio | Sonoda Yuichi | B+1.5 | 2015-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G5Xe6WwTAYBBTXjQa1M2XA%3D%3D) | 
-| 第71期本因坊戦予選 | Yamada Kimio | Kim Hyun Jung | B+R | 2015-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aaFUSTVFaI9n3Zmwfsv14g%3D%3D) | 
-| 第40期棋聖戦Bリーグ | So Yokoku | Yamada Kimio | W+R | 2015-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FzdGJbivzL07545VsX3a%2BQ%3D%3D) | 
-| 第63期王座戦予選 | Hane Naoki | Yamada Kimio | B+R | 2015-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d7yk%2FdBtO4bfEjf95jJppA%3D%3D) | 
-| 第54期十段戦予選 | Kato Yuuki | Yamada Kimio | B+R | 2015-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dayqajWmFd4lt3rUNFmW%2FQ%3D%3D) | 
-| 第63期王座戦予選 | Ogata Masaki | Yamada Kimio | W+R | 2015-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IrIq4oioPFwNXcdZOtaAcg%3D%3D) | 
-| 第41期天元戦予選 | Yamada Kimio | Nakano Hironari | W+4.5 | 2014-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FTVBbwxXKlkpkDXMp076DQ%3D%3D) | 
-| 第40期碁聖戦予選 | Yamada Kimio | Nakane Naoyuki | W+R | 2014-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hoA2Q8X2lTF5HOjJ8LZ8ig%3D%3D) | 
-| 第41期天元戦予選 | Yamada Kimio | Matsuoka Hideki | B+R | 2014-09-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z2bvIs2QZYYvkT2By%2BZD5g%3D%3D) | 
-| 第40期名人戦予選 | Yamada Kimio | Yu Zhengqi | W+R | 2014-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d32RYUgD1Na3obxeb2maag%3D%3D) | 
-| 第40期名人戦予選 | Matsuoka Hideki | Yamada Kimio | W+R | 2014-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=czid9G6QiQDDMsOiNvUcww%3D%3D) | 
-| 第53期十段戦予選 | Yamada Kimio | Sun Zhe | W+R | 2014-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RDkMUQmHZKrKaxKqrvPXaw%3D%3D) | 
-| 第40期名人戦予選 | Yamada Kimio | Katayama Yasuo | B+1.5 | 2014-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D4vALcm7%2B9CPSVFTr2UBnQ%3D%3D) | 
-| 第21期阿含・桐山杯全日本早碁オープン戦予選 | Yamada Kimio | Adachi Toshimasa | B+2.5 | 2014-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BAJObTuTRisrtHaj0Tb%2Byw%3D%3D) | 
-| 第53期十段戦予選 | Yamada Kimio | Yamashiro Hiroshi | B+R | 2014-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qFsKKlYIbH48A%2B20j3KcQA%3D%3D) | 
-| 第53期十段戦予選 | Takahashi Masumi | Yamada Kimio | W+R | 2014-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WGyiibEOSZt7vHbm1c9ZSA%3D%3D) | 
-| 第62期王座戦予選 | Yamada Kimio | Anzai Nobuaki | W+R | 2014-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sTog19F%2BM9q15zwyB4lrzg%3D%3D) | 
-| 第39期棋聖戦予選 | Yamada Kimio | Kim Sujun | W+R | 2014-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HwrfuLbGo3bJJf8f4yFVwg%3D%3D) | 
-| 第62期王座戦予選 | Yamada Kimio | Ohashi Naruya | B+R | 2014-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xw3rFhl1cNXcAUd2wKs05g%3D%3D) | 
-| 第40期天元戦予選 | Nakano Hironari | Yamada Kimio | B+R | 2014-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CFlo%2F3ioc8fpxV2zpmPfoQ%3D%3D) | 
-| 第62期王座戦予選 | Yamada Kimio | Kitano Ryo | B+2.5 | 2013-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WmgcLcLKIyU5%2FlwLdMOtDA%3D%3D) | 
-| 第40期天元戦予選 | Yamada Kimio | Ida Atsushi | B+R | 2013-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nmvoW7XSjcMN%2F1oN3%2BU9%2BA%3D%3D) | 
-| 第39期棋聖戦予選 | Yamada Kimio | Tajima Shingo | B+R | 2013-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tgnzhNz%2F0AbktUJX0Ej3Fg%3D%3D) | 
-| 第39期棋聖戦予選 | Fujii Shuya | Yamada Kimio | W+R | 2013-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RCgg8GzgfUfP7goyW05Tkw%3D%3D) | 
-| 第39期碁聖戦予選 | Ida Atsushi | Yamada Kimio | B+R | 2013-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N5sd%2B5qH8M%2BzRaNqFPR50A%3D%3D) | 
-| 第40期天元戦予選 | Yamada Kimio | Wang Jingyi | B+R | 2013-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9E%2FpQS2iPRtBAutdxfmVeA%3D%3D) | 
-| 第39期名人戦予選 | Yuki Satoshi | Yamada Kimio | B+R | 2013-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qk5%2BI6zQ3uxznKaJ%2BTQpIQ%3D%3D) | 
-| 第39期碁聖戦予選 | Kato Yuuki | Yamada Kimio | W+7.5 | 2013-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rHNdvS6dW9SvmoxHECjH8w%3D%3D) | 
-| 第39期名人戦予選 | Takemiya Masaki | Yamada Kimio | W+2.5 | 2013-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b9eJm8htwlIkFA6UFomYvg%3D%3D) | 
-| 第52期十段戦予選 | Yamada Kimio | Imamura Yoshiaki | W+R | 2013-08-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AYFq6QI30GVKrk6LEdoETg%3D%3D) | 
-| 第39期名人戦予選 | Yamada Kimio | Goto Shungo | B+6.5 | 2013-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zQMPwKABSltHYlI%2Bdi8Xag%3D%3D) | 
-| 第39期名人戦予選 | Imamura Yoshiaki | Yamada Kimio | W+R | 2013-06-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QbD2rYHGWGB%2FzEkTpkXEZw%3D%3D) | 
-| 第52期十段戦予選 | Kato Yuuki | Yamada Kimio | W+R | 2013-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=La%2BGR%2F1gRe7C2v0TbPMxiA%3D%3D) | 
-| 第69期本因坊戦予選 | Yamada Kimio | Muramatsu Hiroki | W+R | 2013-04-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xRnsWAgTPmL7hf73gCpxxg%3D%3D) | 
-| 第61期王座戦予選 | Mimura Tomoyasu | Yamada Kimio | B+R | 2013-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n%2BVGM53L9f2fP3eMrCP0xQ%3D%3D) | 
-| 第69期本因坊戦予選 | Yamada Kimio | Baba Shigeru | B+0.5 | 2013-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FMD1Slf9%2B9iDvqo4IsAGvw%3D%3D) | 
-| 第38期棋聖戦予選 | Hikosaka Naoto | Yamada Kimio | W+0.5 | 2013-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZuEGJewsaOZrsg9juDuduw%3D%3D) | 
-| 第61期王座戦予選 | Sakai Hideyuki | Yamada Kimio | W+R | 2013-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2gxh881U1rtgCjjduCHQwg%3D%3D) | 
-| 第52期十段戦予選 | Yamada Kimio | Hane Yasumasa | B+R | 2013-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JjemrBflIkR027SD3wPO%2Bw%3D%3D) | 
-| 第38期棋聖戦予選 | Anzai Nobuaki | Yamada Kimio | W+R | 2013-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c2oLTPUeLeRQabWa7lh6kQ%3D%3D) | 
-| 第52期十段戦予選 | Takei Takashi | Yamada Kimio | W+R | 2013-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZOVpQUhcAzaf6Z9gmtXNIw%3D%3D) | 
-| 第38期棋聖戦予選 | Yun Chunho | Yamada Kimio | W+R | 2012-12-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hpm5MOSMrbn270kiJBnv0g%3D%3D) | 
-| 第38期棋聖戦予選 | Yamada Kimio | Goto Shungo | B+3.5 | 2012-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E3s8NDssolU4NPHQB%2BTofQ%3D%3D) | 
-| 第52期十段戦予選 | Sakaguchi Ryuzo | Yamada Kimio | W+R | 2012-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X%2B06KKjdGEV86yMR4AOvIA%3D%3D) | 
-| 第39期天元戦予選 | Iwamaru Taira | Yamada Kimio | B+R | 2012-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WwcZZdYgru7PkoVuov5jqQ%3D%3D) | 
-| 第38期碁聖戦予選 | Shida Tatsuya | Yamada Kimio | B+R | 2012-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ivhZPp7d1TBLVK8uJJSxAg%3D%3D) | 
-| 第52期十段戦予選 | Takagi Junpei | Yamada Kimio | W+R | 2012-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7%2FDeZnpIxXEiRcnxZPpL%2BA%3D%3D) | 
-| 第38期碁聖戦予選 | Sano Takatsugu | Yamada Kimio | W+R | 2012-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W4Qc9cj4IiT1SclmWhEMCQ%3D%3D) | 
-| 第68期本因坊戦予選 | Yamada Kimio | Imamura Toshiya | W+R | 2012-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t2weKUwvK7%2BtcjRlqIdbnQ%3D%3D) | 
-| 第60期王座戦2回戦 | Iyama Yuta | Yamada Kimio | B+R | 2012-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FRPaNyFpkZqav9CTlG047g%3D%3D) | 
-| 第38期名人戦予選 | Nakane Naoyuki | Yamada Kimio | B+R | 2012-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b3NU0cfAUobE4YvUT7p9TQ%3D%3D) | 
-| 第68期本因坊戦予選 | Yamada Kimio | Sakai Hideyuki | B+R | 2012-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TpDZJSjm4Y7crV%2Bocxrgog%3D%3D) | 
-| 第38期名人戦予選 | Ishii Kunio | Yamada Kimio | W+R | 2012-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EDMluoA2lALdFuUUU8%2Fm3Q%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン予選 | Ohashi Hirofumi | Yamada Kimio | W+R | 2012-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a2lmTzaUanyvqxt8fhNbPQ%3D%3D) | 
-| 第68期本因坊戦予選 | Kato Atsushi | Yamada Kimio | W+0.5 | 2012-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FTDloHSkp0zPUgON3LhUuw%3D%3D) | 
-| 第60期王座戦1回戦 | Yamada Kimio | Kiyonari Tetsuya | B+1.5 | 2012-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5OsYgBel3JlTB5oDoVMY0Q%3D%3D) | 
-| 第38期天元戦本戦3回戦 | Akiyama Jiro | Yamada Kimio | B+R | 2012-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l5rBKq1f0l1dw11vWtg1%2Bw%3D%3D) | 
-| 第68期本因坊戦予選 | Ohashi Naruya | Yamada Kimio | W+R | 2012-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6jYKxjRsCXeNa2GJ9h4ASA%3D%3D) | 
-| 第38期天元戦本戦2回戦 | Yamada Kimio | O Rissei | B+R | 2012-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FBFr19hPZ%2BpJOgevZxJktg%3D%3D) | 
-| 第68期本因坊戦予選 | Katayama Yasuo | Yamada Kimio | W+R | 2012-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cW%2BpvXziHCwC9aRmIL9cDA%3D%3D) | 
-| 第60期王座戦予選 | Yamada Kimio | Yamada Takuji | B+R | 2012-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6GuSpFPzsUZ9SpYUbD32Gg%3D%3D) | 
-| 第51期十段戦予選 | Imamura Yoshiaki | Yamada Kimio | B+R | 2012-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JL3N%2FV5P82TZSG8FVqs8Mg%3D%3D) | 
-| 第60期王座戦予選 | Murakawa Daisuke | Yamada Kimio | W+R | 2012-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x5fERkz7tjZMRbYC6lmhwg%3D%3D) | 
-| 第38期天元戦本戦1回戦 | Kurahashi Masayuki | Yamada Kimio | W+R | 2011-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HULieycp6gDafHE1pZsNxA%3D%3D) | 
-| 第37期棋聖戦予選 | Yamada Kimio | Hikosaka Naoto | W+2.5 | 2011-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2XSvCp1J5FdErKMP1yoGBg%3D%3D) | 
-| 第37期棋聖戦予選 | Yamada Kimio | Tajima Shingo | B+R | 2011-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E6zk9JSye2lhUPiyuR8sDQ%3D%3D) | 
-| 第38期天元戦予選 | Shimojima Yohei | Yamada Kimio | W+R | 2011-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HB5ik8anpTqUQUaBQ6cxKA%3D%3D) | 
-| 第37期碁聖戦予選 | Yamada Kimio | Ogata Masaki | W+R | 2011-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tULyg%2FP87%2FZShUGIULxEtQ%3D%3D) | 
-| 第37期名人戦予選 | Yoda Norimoto | Yamada Kimio | B+2.5 | 2011-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gsnVstnda86jDRv%2BVW38Yw%3D%3D) | 
-| 第38期天元戦予選 | Yamada Kimio | Kato Yuuki | B+0.5 | 2011-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vIBTk%2FP4hUsbf3DniozCXg%3D%3D) | 
-| 第7回大和証券杯ネット囲碁オープン1回戦 | Yamada Kimio | Anzai Nobuaki | W+R | 2011-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V38O8pFu9ZWbVjHjUgvAoQ%3D%3D) | 
-| 第37期名人戦予選 | Ha Youngil | Yamada Kimio | W+R | 2011-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xrmq%2BZi3Viof7l4fMrztWQ%3D%3D) | 
-| 第37期碁聖戦予選 | Yamada Kimio | Sakamoto Yasuo | B+R | 2011-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5YLoIUPSjSI1wY%2FdP2OdeA%3D%3D) | 
-| 第37期名人戦予選 | Ito Yoji | Yamada Kimio | W+3.5 | 2011-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UfNrUOsjU30jK0Mni0uHEg%3D%3D) | 
-| 第24回世界囲碁選手権富士通杯1回戦 | Fujii Shuya | Yamada Kimio | B+R | 2011-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zqDsnJjO3GOA4%2FafmqGESg%3D%3D) | 
-| 第18期阿含・桐山杯全日本早碁オープン戦準決勝 | Iyama Yuta | Yamada Kimio | B+R | 2011-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yYSeElzdGy15ZTUH2gCCAg%3D%3D) | 
-| 第31期NECカップ囲碁トーナメント戦1回戦 | Yamada Kimio | O Rissei | W+R | 2011-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EYE7UPcOeTk9n3rFz72Mag%3D%3D) | 
-| 第18期阿含・桐山杯全日本早碁オープン戦2回戦 | O Meien | Yamada Kimio | W+R | 2011-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=idwG9erDdmEcLUDF6rIw8g%3D%3D) | 
-| 第59期王座戦準決勝 | Yamada Kimio | Iyama Yuta | W+R | 2011-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qf8mpCL3xAUE0miO2FSbzg%3D%3D) | 
-| 第67期本因坊戦予選 | Yamada Kimio | Kobayashi Satoru | W+R | 2011-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aMnDtbkijD1FclzN2TCpjQ%3D%3D) | 
-| 第37期名人戦予選 | Sasaki Tsuyoshi | Yamada Kimio | W+10.5 | 2011-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m09nlqR%2FFFt0lAEV0V%2BHLA%3D%3D) | 
-| 第18期阿含・桐山杯全日本早碁オープン戦1回戦 | Ryu Shikun | Yamada Kimio | W+R | 2011-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7%2BHQsu4mLGqIF%2FHVNylTTA%3D%3D) | 
-| 第23回テレビアジア選手権準決勝 | Yamada Kimio | Kong Jie | W+R | 2011-06-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k%2F9wB5Q3JY5r6ZbhNZXZxg%3D%3D) | 
-| 第23回テレビアジア選手権1回戦 | Park Junghwan | Yamada Kimio | W+0.5 | 2011-06-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R3gxA1vG4sFvzfXqLuggew%3D%3D) | 
-| 第18期阿含・桐山杯全日本早碁オープン戦予選 | Yamada Kimio | Otake Hideo | B+R | 2011-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NSuRdGiRIwapn1TUMOh4NQ%3D%3D) | 
-| 第59期王座戦2回戦 | Yamashita Keigo | Yamada Kimio | W+R | 2011-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d9sRnrjR9n%2F2UYFBnkv4yQ%3D%3D) | 
-| 第67期本因坊戦予選 | Yamada Kimio | Mizokami Tomochika | B+R | 2011-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N91XxfzhhbWKn8fAkGxgsg%3D%3D) | 
-| 第59期王座戦1回戦 | Kono Rin | Yamada Kimio | W+R | 2011-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YLkClmJmUUBkaB20Dut1VA%3D%3D) | 
-| 第50期十段戦予選 | Ogata Masaki | Yamada Kimio | B+R | 2011-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=O85HwGN4%2BRGpl%2BWJh02Ijw%3D%3D) | 
-| 第36期棋聖戦予選 | Yamada Kimio | Nakane Naoyuki | W+R | 2011-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jSbfgE3gO1qjjiy6hVmOfg%3D%3D) | 
-| 第67期本因坊戦予選 | Sakaguchi Ryuzo | Yamada Kimio | W+R | 2011-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8PajE%2FACWSvkLDALtmMRTg%3D%3D) | 
-| 第36期棋聖戦予選 | Yamada Kimio | Mimura Tomoyasu | B+4.5 | 2011-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7c%2Bhs6a0DT5DQT0jQ7NCKg%3D%3D) | 
-| 2010年アジア競技大会囲碁男子団体戦 | Yamada Kimio | Zhou Ruiyang | W+T | 2010-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qX%2B8nIhtQPcb2o0Y9zs6sw%3D%3D) | 
-| 2010年アジア競技大会囲碁男子団体戦 | Choi Cheolhan | Yamada Kimio | B+R | 2010-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iLyPZwJ6rez5FnYk3SNGMQ%3D%3D) | 
-| 第37期天元戦予選 | Matsuoka Hideki | Yamada Kimio | B+R | 2010-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QFFdLgW8xwDJNZ0cNjZukQ%3D%3D) | 
-| 第58期王座戦挑戦手合五番勝負第3局 | Cho U | Yamada Kimio | B+R | 2010-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X6DOYAc3VeKnfOsE5WmVQQ%3D%3D) | 
-| 第58期王座戦挑戦手合五番勝負第2局 | Yamada Kimio | Cho U | W+3.5 | 2010-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u4pcCfpg4ezciosF%2BmHtHQ%3D%3D) | 
-| 第36期名人戦予選 | Yamada Kimio | Hane Naoki | W+R | 2010-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v9%2FuYHCbUAdcr1KIEwS1pg%3D%3D) | 
-| 第58期王座戦挑戦手合五番勝負第1局 | Cho U | Yamada Kimio | B+R | 2010-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k52QFuTdelcDqbo2lnw7EQ%3D%3D) | 
-| 第37期天元戦予選 | Imamura Yoshiaki | Yamada Kimio | W+R | 2010-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SVUReveGwe1u1P58cv%2Bbng%3D%3D) | 
-| 第36期名人戦予選 | Kobayashi Satoru | Yamada Kimio | W+4.5 | 2010-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=My%2BJfq0durCqb74C828SGA%3D%3D) | 
-| 第36期碁聖戦予選 | Yamada Kimio | Hikosaka Naoto | W+R | 2010-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nZcJ78IqRg12Wv2nzKKhDQ%3D%3D) | 
-| 第36期棋聖戦予選 | Yamada Kimio | Ito Yoji | B+1.5 | 2010-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T2IJj26AsJ8ce2b8tK0erQ%3D%3D) | 
-| 第36期名人戦予選 | Kataoka Satoshi | Yamada Kimio | W+R | 2010-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qpPKPsMxzzu0tNZTJHzLxg%3D%3D) | 
-| 第4期幽玄杯精鋭リーグ戦 | Yamada Kimio | Fujisawa Rina | B+R | 2010-09-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UbFQayiHimI55uTIG%2FDnpw%3D%3D) | 
-| 第58期王座戦挑戦者決定戦 | Yamada Kimio | Mochizuki Kenichi | B+R | 2010-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fg1qHDxBRbcHYQ9BuJB%2F1Q%3D%3D) | 
-| 第35期名人戦リーグ | Yamada Kimio | Cho Chikun | B+0.5 | 2010-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UjQXShiHe30PHBuZG2z08A%3D%3D) | 
-| 第36期碁聖戦予選 | Yamada Kimio | Nakao Jungo | B+R | 2010-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B57jkzjvwfVWPMQsplZtLw%3D%3D) | 
-| 第58期王座戦準決勝 | Iyama Yuta | Yamada Kimio | W+R | 2010-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0nbF%2FjKIemzyfgBabuXEcg%3D%3D) | 
-| 第35期名人戦リーグ | Takao Shinji | Yamada Kimio | B+R | 2010-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ShhSkke3hCMufC2V%2BounlQ%3D%3D) | 
-| 第58期王座戦2回戦 | Kobayashi Satoru | Yamada Kimio | W+0.5 | 2010-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kzX%2B%2Bu0gR1sERX3e7kyFrw%3D%3D) | 
-| 第30期NECカップ囲碁トーナメント戦1回戦 | Iyama Yuta | Yamada Kimio | B+R | 2010-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gvi4Whi93nx88a%2B66vFdiA%3D%3D) | 
-| 第35期名人戦リーグ | Yamada Kimio | Sakai Hideyuki | W+R | 2010-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BxpLwR1zaMTlNqDttTMotA%3D%3D) | 
-| 第15回LG杯世界棋王戦1回戦 | Yamada Kimio | Piao Wenyao | W+R | 2010-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F9VBH07ccBPvifOZM%2BzN7g%3D%3D) | 
-| 第66期本因坊戦予選 | Yamada Kimio | Cho Sonjin | W+R | 2010-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6gVGRn3saZF1MMfS1Hhsuw%3D%3D) | 
-| 第35期名人戦リーグ | Ogata Masaki | Yamada Kimio | W+R | 2010-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1Kej2GwRcEhEmBlCrs9uYQ%3D%3D) | 
-| 第58期王座戦1回戦 | Yamada Kimio | Kiyonari Tetsuya | B+R | 2010-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bdM0pFK7v0U8ildULtdq3w%3D%3D) | 
-| 第49期十段戦予選 | Yamada Kimio | Ko Iso | W+R | 2010-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=No1dpEyv%2FgS%2BUqEg6PVJQw%3D%3D) | 
-| 第35期名人戦リーグ | Mizokami Tomochika | Yamada Kimio | B+R | 2010-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sJ09V%2BvO8DAllYHBRmj%2Frw%3D%3D) | 
-| 第65期本因坊戦リーグ | Cho U | Yamada Kimio | B+R | 2010-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KGktNYVo6M6PHYXoN4MsQA%3D%3D) | 
-| 第49期十段戦予選 | Ishida Atsushi | Yamada Kimio | W+R | 2010-03-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7000GF%2F4rivGGBr4ximKhg%3D%3D) | 
-| 第35期碁聖戦本戦3回戦 | Iyama Yuta | Yamada Kimio | B+R | 2010-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TNk%2BB95SnwrOfdrcjaerAg%3D%3D) | 
-| 第35期名人戦リーグ | O Meien | Yamada Kimio | B+5.5 | 2010-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k%2FvndHCtSbQQdZsTfQwE5g%3D%3D) | 
-| 第36期天元戦本戦2回戦 | Kim Sujun | Yamada Kimio | B+R | 2010-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v4w5pg3Hr1IkBwrqtRdfTw%3D%3D) | 
-| 第65期本因坊戦リーグ | Yamada Kimio | Mimura Tomoyasu | B+R | 2010-02-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2UmZ%2BY8hDOOhYqeNC8TUIg%3D%3D) | 
-| 第65期本因坊戦リーグ | Takao Shinji | Yamada Kimio | B+R | 2010-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oRkxWWPD9ONhM7WjkSIuSA%3D%3D) | 
-| 第2回BCカード杯世界選手権2回戦 | Yoo Changhyuk | Yamada Kimio | B+R | 2010-02-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IOkxZv2LJ75iQZ%2FJ9itdAw%3D%3D) | 
-| 第35期碁聖戦本戦2回戦 | Yamada Kimio | Han Zenki | B+R | 2010-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BcOi%2BQiJEVncXGhgzfL5Xg%3D%3D) | 
-| 第11回農心辛ラーメン杯世界囲碁最強戦第7戦 | Xie He | Yamada Kimio | B+R | 2010-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2DqDDM4uth8i9ChtDDSCuQ%3D%3D) | 
-| 第2回BCカード杯世界選手権1回戦 | Zhong Wenjing | Yamada Kimio | W+1.5 | 2010-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o%2FgLT%2F4Wa8bX9JaAtYBqFw%3D%3D) | 
-| 第65期本因坊戦リーグ | Yuki Satoshi | Yamada Kimio | W+R | 2010-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6EWKCpRWvaRZJwgo3Kt9WQ%3D%3D) | 
-| 第35期名人戦リーグ | Yamada Kimio | Cho U | W+R | 2010-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TzWXc1RmvYvkPNBV%2FU4lzA%3D%3D) | 
-| 第65期本因坊戦リーグ | Iyama Yuta | Yamada Kimio | B+R | 2009-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J6R0Z923R5qGPXjE6%2Fp9Gg%3D%3D) | 
-| 第36期天元戦本戦1回戦 | Yamada Kimio | Sekiyama Toshimichi | B+R | 2009-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BPSsHBiqnpJUVburthzfhA%3D%3D) | 
-| 第35期名人戦リーグ | Yamada Kimio | Yuki Satoshi | W+R | 2009-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CDKGRtq2aEA9p3bjLYPuwg%3D%3D) | 
-| 第57期王座戦挑戦手合五番勝負第3局 | Yamada Kimio | Cho U | W+3.5 | 2009-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5nFhYUm%2F1lQUmtnquxHpnA%3D%3D) | 
-| 第57期王座戦挑戦手合五番勝負第2局 | Cho U | Yamada Kimio | B+R | 2009-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xDYZRcVjp7BN7D4zUPIMoA%3D%3D) | 
-| 第65期本因坊戦リーグ | Yamada Kimio | Takemiya Masaki | W+R | 2009-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rVezW3hjlq69k3uaSOyY5g%3D%3D) | 
-| 第23回世界囲碁選手権富士通杯国内予選 | Sakai Hideyuki | Yamada Kimio | B+3.5 | 2009-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DA%2BoU4d3Szhckwk87nkkuQ%3D%3D) | 
-| 第57期王座戦挑戦手合五番勝負第1局 | Yamada Kimio | Cho U | W+R | 2009-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6ImnE2%2BykgGIeSASiKwrMQ%3D%3D) | 
-| 第65期本因坊戦リーグ | Yamada Kimio | Yamashita Keigo | W+R | 2009-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bUn0NuQ%2BbtYxC5go%2By%2B65A%3D%3D) | 
-| 第57期王座戦挑戦者決定戦 | Yamada Kimio | Yoda Norimoto | B+R | 2009-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FA74zdJ2Dey7rj87BesfsA%3D%3D) | 
-| 第35期棋聖戦予選 | missing | Yamada Kimio | W+R | 2009-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9jb4P3nfs5QUPPxinAknBw%3D%3D) | 
-| 第36期天元戦予選 | Yamamori Tadanao | Yamada Kimio | W+R | 2009-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q3FjX17U95hTKc3odsDFqg%3D%3D) | 
-| 第34期名人戦リーグ | Yamada Kimio | Sakai Hideyuki | B+R | 2009-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gNwjtJf3niU7rgQfDv4Pgg%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン1回戦 | Yamada Kimio | Kato Atsushi | W+R | 2009-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OE15nUo9jK9e5xBWGGmP3g%3D%3D) | 
-| 第57期王座戦準決勝 | Kono Rin | Yamada Kimio | W+R | 2009-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q4pwBLj2a9Mni2qXCCBR4w%3D%3D) | 
-| 第48期十段戦敗者復活戦1回戦 | Yamada Kimio | Tsuruyama Atsushi | W+4.5 | 2009-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ji6zuPNwdkoRFGRGHWjPwg%3D%3D) | 
-| 第57期王座戦2回戦 | So Yokoku | Yamada Kimio | W+R | 2009-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=owJyoQHaKqDhtzGmDi2cFQ%3D%3D) | 
-| 第34期名人戦リーグ | Kobayashi Satoru | Yamada Kimio | B+R | 2009-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ckmK%2BnVS52KKJ5VB41Zjhw%3D%3D) | 
-| 第29期NECカップ囲碁トーナメント戦1回戦 | Yamada Kimio | Ko Iso | W+5.5 | 2009-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lYNs4FvfYe2VYxjURGP24Q%3D%3D) | 
-| 第48期十段戦本戦1回戦 | Yamada Kimio | Lee Ishu | W+1.5 | 2009-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BJo0HMtxayRCP7TlMroPHQ%3D%3D) | 
-| 第57期王座戦1回戦 | Yamada Kimio | Cho Chikun | B+0.5 | 2009-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BJaWOrCuztGYuT5G%2B%2FL6lw%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン予選 | Yamada Kimio | Takanashi Seiken | B+R | 2009-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CW7PFgKsBH7cGnpzvpeA6w%3D%3D) | 
-| 第34期名人戦リーグ | Yamada Kimio | Cho Chikun | B+0.5 | 2009-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6%2BzF0eG%2FFK4sXKHd22oKqA%3D%3D) | 
-| 第34期名人戦リーグ | Ogata Masaki | Yamada Kimio | W+R | 2009-04-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=28aOHuyV%2Fz6Z9yiGORCdog%3D%3D) | 
-| 第64期本因坊戦リーグ | Yamada Kimio | Takao Shinji | B+R | 2009-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d5Hh8dqJmHo9A%2BcJf9N3dw%3D%3D) | 
-| 第35期天元戦本戦1回戦 | Yamada Kimio | Hikosaka Naoto | W+R | 2009-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZSs06ViSHM9Ld5rkx1lZRw%3D%3D) | 
-| 第34期名人戦リーグ | Yamada Kimio | O Meien | B+0.5 | 2009-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n5PxwtgUYU0qCW%2BtrXC7Xw%3D%3D) | 
-| 第64期本因坊戦リーグ | Yamashita Keigo | Yamada Kimio | B+R | 2009-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iRUmejwm%2FLJOVqCoazl%2FXA%3D%3D) | 
-| 第34期名人戦リーグ | Takao Shinji | Yamada Kimio | W+R | 2009-02-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7NlGIHVRWPywS8N%2F4xD%2Fcw%3D%3D) | 
-| 第57期王座戦予選 | Yamada Kimio | Kobayashi Satoru | B+R | 2009-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aqSCkGXWXClOBsogcgwFfg%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯国内予選決勝 | Yamada Kimio | Takao Shinji | W+R | 2009-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ORZulU8RAOmkSo%2FcoC3vOg%3D%3D) | 
-| 第64期本因坊戦リーグ | Cho U | Yamada Kimio | W+R | 2009-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lq61w%2FjkoVKpsMUlLLs3Mw%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Yamada Kimio | Tamai Shin | B+R | 2009-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iTf6XJA2PrrjV16vDXGvNg%3D%3D) | 
-| 第48期十段戦予選 | Yanaka Katsunori | Yamada Kimio | W+R | 2009-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vigucBqDAI8GLavGdH9pMw%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Shiraishi Yuichi | Yamada Kimio | W+3.5 | 2009-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hwsa%2Bj%2Bg9Nxgf1aG%2BgYQUw%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯国内予選 | Yamada Kimio | Nakane Naoyuki | B+R | 2009-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LPjTOioZmIUgXdunzJjfCA%3D%3D) | 
-| 第34期名人戦リーグ | Iyama Yuta | Yamada Kimio | B+R | 2009-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YTrpCJg4XYiEkB%2FPpXfkUQ%3D%3D) | 
-| 第64期本因坊戦リーグ | Yamada Kimio | Yoda Norimoto | W+R | 2009-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FFv89dR80wiPavPZgsLwBA%3D%3D) | 
-| 第34期碁聖戦本戦1回戦 | Yamada Kimio | Iyama Yuta | W+R | 2008-12-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KdKMhMUgDHuAwqBOhXo8pQ%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Lee Ishu | Yamada Kimio | W+R | 2008-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AfgugbXFMmF5YdfBUbfI9g%3D%3D) | 
-| 第34期名人戦リーグ | Yamada Kimio | Cho Riyu | B+R | 2008-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G4%2FYgcwpxSiM%2BsTf%2FrN5EQ%3D%3D) | 
-| 第64期本因坊戦リーグ | Yamada Kimio | Kataoka Satoshi | B+R | 2008-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OakMBMTsCrc17BWjvHSfUw%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯国内予選 | Yamada Kimio | Rin Kanketsu | B+R | 2008-12-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eQ3efD3Q%2F4fchdYT9OHyKQ%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Mannami Nao | Yamada Kimio | W+R | 2008-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0wUHXCTNUVFHruckt4oP0g%3D%3D) | 
-| 第10回農心辛ラーメン杯世界囲碁最強戦第6戦 | Kang Dongyun | Yamada Kimio | B+R | 2008-11-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PfsxKAcrjW2x6MDxecHZMQ%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Yamada Kimio | Murakami Akihide | B+R | 2008-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZNlsj9x8bsMl12r6%2Bfdhdg%3D%3D) | 
-| 第64期本因坊戦リーグ | Nakaonoda Tomomi | Yamada Kimio | W+R | 2008-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sP0ieiF0Zh2tc5lv%2BblNdw%3D%3D) | 
-| 第64期本因坊戦リーグ | Yamada Kimio | So Yokoku | B+R | 2008-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y7n6miDLqBQghvRi9rg3sw%3D%3D) | 
-| 第34期棋聖戦予選 | Yamada Kimio | Seto Taiki | W+R | 2008-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7mKlQXqSruiBaOD8WJW3gQ%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Yamada Kimio | Osawa Kenro | B+R | 2008-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m%2F7QCa5L1PyQ4Y5jSVgg0Q%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Yamada Kimio | Li Zhe | W+R | 2008-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VNMMjb6MBZXYAPfpsRQJvA%3D%3D) | 
-| 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Paek Hongseok | Yamada Kimio | W+5.5 | 2008-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KXxWPKrCcYHPhyFOpT%2FPyg%3D%3D) | 
-| 第35期天元戦予選 | Yamada Kimio | Shida Tatsuya | B+R | 2008-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ktq6YYprEW%2FOyJ02seqX5A%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Ando Kazushige | Yamada Kimio | B+R | 2008-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IVxN%2BVhp4luoy1KQ51Ca%2FQ%3D%3D) | 
-| 第28期NECカップ囲碁トーナメント戦1回戦 | Hane Naoki | Yamada Kimio | B+23.5 | 2008-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jUkYDXPNWWYDUVfSRUoI4w%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Yamada Kimio | Xie Yimin | W+R | 2008-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WIdE3k9jCsxFmOL4itDrLQ%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Han Sanghoon | Yamada Kimio | B+1.5 | 2008-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0rYC3v1%2BLbBXKVOwbNNSNg%3D%3D) | 
-| 第33期名人戦リーグ | Yamada Kimio | Chin Kaei | B+R | 2008-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BNdVkeOLgLLsDz1immFZpQ%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Mukai Chiaki | Yamada Kimio | W+22.5 | 2008-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=275FH9UtYoIrdEPOjWQj4w%3D%3D) | 
-| 第15期阿含・桐山杯全日本早碁オープン戦2回戦 | Yuki Satoshi | Yamada Kimio | B+1.5 | 2008-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=32x6r53MvT%2FiUnYcIbsjWA%3D%3D) | 
-| 第4回大和証券杯ネット囲碁オープン1回戦 | Yamada Kimio | Ko Iso | W+R | 2008-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OOHDoAf5SVIvVYj4eyb30w%3D%3D) | 
-| 第33期名人戦リーグ | Cho Chikun | Yamada Kimio | B+2.5 | 2008-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rI%2Fpkj8bNtHLB3jl%2Bs4QAQ%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Yamada Kimio | Horimoto Mitsunari | B+R | 2008-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vg3NUXzFMx%2Fxv2zqPkOj6w%3D%3D) | 
-| 第15期阿含・桐山杯全日本早碁オープン戦1回戦 | Yamada Kimio | Komatsu Hideki | B+R | 2008-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QwYquaFfznG3Y0HYOEyZcA%3D%3D) | 
-| 第33期名人戦リーグ | Sakai Hideyuki | Yamada Kimio | W+0.5 | 2008-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CMVXpMv4efwbCUvQHIEXUw%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Yamada Kimio | Uchida Shuhei | B+R | 2008-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vElRRZvMpU8whZ8%2BVMh1hg%3D%3D) | 
-| 第56期王座戦1回戦 | Yamada Kimio | Hane Naoki | W+R | 2008-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TN4t55NSPGbwaJ6h6MJz6A%3D%3D) | 
-| 第33期碁聖戦本戦準決勝 | Takao Shinji | Yamada Kimio | B+R | 2008-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kFmdeNZQYqExb7fjihIWvw%3D%3D) | 
-| 第63期本因坊戦リーグ | O Meien | Yamada Kimio | W+R | 2008-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=By3JHhrqOF48sGxCTjUgVg%3D%3D) | 
-| 第33期名人戦リーグ | Yamada Kimio | Takao Shinji | W+R | 2008-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z1lEWay3PGvlwDTRvjqZ2g%3D%3D) | 
-| 第56期王座戦予選 | Yamada Kimio | Nakaonoda Tomomi | B+4.5 | 2008-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SpklKX6sx6hzru%2FbSPY0Vg%3D%3D) | 
-| 第33期碁聖戦本戦3回戦 | Hikosaka Naoto | Yamada Kimio | W+R | 2008-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X8CWAAtreStWhcpD3rqZ5g%3D%3D) | 
-| 第63期本因坊戦リーグ | Yamashita Keigo | Yamada Kimio | W+2.5 | 2008-03-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wRoAHL5WhTUo6MRPxEHh7A%3D%3D) | 
-| 第33期名人戦リーグ | Yoda Norimoto | Yamada Kimio | B+R | 2008-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U9B3iWmchYCfo%2F%2FNl5Fg3g%3D%3D) | 
-| 第33期名人戦リーグ | Yamada Kimio | Kobayashi Satoru | B+R | 2008-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ttAv%2F2IOniVAH4xGTqmsrg%3D%3D) | 
-| 第63期本因坊戦リーグ | Yamada Kimio | Yoda Norimoto | W+R | 2008-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wEgAIY9BRvROL4YowhD9vQ%3D%3D) | 
-| 第56期王座戦予選 | Mizokami Tomochika | Yamada Kimio | W+R | 2008-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NvrwLgyIZNGMNwOjd9poLQ%3D%3D) | 
-| 第33期名人戦リーグ | Iyama Yuta | Yamada Kimio | W+1.5 | 2008-01-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nwQDDu9b2YH6ovwB9xxeIw%3D%3D) | 
-| 第33期碁聖戦本戦2回戦 | Yamada Kimio | Ko Mosei | B+1.5 | 2008-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hdF8RFV3WTP5uYzLCZyzgg%3D%3D) | 
-| 第63期本因坊戦リーグ | Yamada Kimio | Mizokami Tomochika | W+R | 2008-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a4n6B6QWEQsIJT%2FyDW%2FdMg%3D%3D) | 
-| 第33期名人戦リーグ | Yamada Kimio | Ko Iso | B+3.5 | 2007-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e9YaRYY8GYTOfql7cZS%2BhA%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯国内予選 | Yamada Kimio | Honda Kunihisa | W+4.5 | 2007-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aD%2FPWMSjmtGeP02Kg1cArQ%3D%3D) | 
-| 第63期本因坊戦リーグ | So Yokoku | Yamada Kimio | B+3.5 | 2007-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vyTXPF0AcYnkammGbeYBqg%3D%3D) | 
-| 第9回農心辛ラーメン杯世界囲碁最強戦第7戦 | Yamada Kimio | Mok Jinseok | W+3.5 | 2007-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ztvxHpl3ikLF3YNSp0UvnA%3D%3D) | 
-| 第9回農心辛ラーメン杯世界囲碁最強戦第6戦 | Yamada Kimio | Wang Xi | B+0.5 | 2007-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A%2FYt%2FM03V2EpzKg%2BEeficg%3D%3D) | 
-| 第63期本因坊戦リーグ | Yamada Kimio | Cho U | B+1.5 | 2007-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3WCBgqddikfJyVhisPqK5g%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン3回戦 | Yamada Kimio | Rin Kanketsu | W+R | 2007-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VEKr6x%2BreEGnnAhWCSiL%2FQ%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯国内予選 | Obuchi Morito | Yamada Kimio | W+R | 2007-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MRI5oIgl1joqRxwwIYan0w%3D%3D) | 
-| 第33期碁聖戦本戦1回戦 | Imamura Toshiya | Yamada Kimio | W+R | 2007-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bm7jmL4q0culaeU4quaBgg%3D%3D) | 
-| 第63期本因坊戦リーグ | Yamada Kimio | Hane Naoki | B+R | 2007-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3fhQV%2B7U3uE4mq%2BGoRF8Ew%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン2回戦 | Yamada Kimio | O Meien | B+R | 2007-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YAvMQB77ieP%2Fselh24dYbA%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン1回戦 | Anzai Nobuaki | Yamada Kimio | W+R | 2007-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1QGGY4I3fOIn4gp5gyUlaA%3D%3D) | 
-| 第3回大和証券杯ネット囲碁オープン予選 | Ohashi Hirofumi | Yamada Kimio | W+0.5 | 2007-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AgrDBcNWLfwe%2Bv%2FIJEYRnA%3D%3D) | 
-| 第46期十段戦敗者復活戦1回戦 | Mochizuki Kenichi | Yamada Kimio | B+R | 2007-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sw6ZsHKobD6seCB3TazUdg%3D%3D) | 
-| 第32期名人戦リーグ | Sakai Hideyuki | Yamada Kimio | W+R | 2007-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y7QwCwXBkU4m8bWuUh1UEg%3D%3D) | 
-| 第27期NECカップ囲碁トーナメント戦1回戦 | Yamashita Keigo | Yamada Kimio | B+R | 2007-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vlxa601lAgbin5mqinBfIg%3D%3D) | 
-| 第32期名人戦リーグ | Yamada Kimio | Yamashita Keigo | B+5.5 | 2007-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G64fAgKpLtTqmYt3i51cjw%3D%3D) | 
-| 第46期十段戦本戦1回戦 | Yamada Kimio | Kobayashi Satoru | W+R | 2007-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U0d%2BcR6JdvPrc0Y5x8L9oQ%3D%3D) | 
-| 第32期名人戦リーグ | Cho U | Yamada Kimio | B+R | 2007-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fSx7zyj2HRm0aPvkJ8uRQw%3D%3D) | 
-| 第55期王座戦2回戦 | Yamada Kimio | Imamura Toshiya | W+R | 2007-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b6Aj%2Fq14SYiQFhioW5nCSw%3D%3D) | 
-| 第55期王座戦1回戦 | Takemiya Masaki | Yamada Kimio | W+R | 2007-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jUwf2zg%2F%2FhOQHc4YKV7ZTg%3D%3D) | 
-| 第32期棋聖戦予選 | Yamashiro Hiroshi | Yamada Kimio | B+R | 2007-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q9yNlXLDB5yq3u6G4mpx9A%3D%3D) | 
-| 第32期名人戦リーグ | Yamada Kimio | Kobayashi Satoru | W+R | 2007-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yzHQpRX09DHA98oNhaG4ag%3D%3D) | 
-| 第62期本因坊戦リーグ | Cho U | Yamada Kimio | W+0.5 | 2007-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1eSdwnPXsACHymGjIjzivQ%3D%3D) | 
-| 第32期碁聖戦本戦3回戦 | Yamada Kimio | Yokota Shigeaki | W+R | 2007-03-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n1CW41It7A9QaODo787hsA%3D%3D) | 
-| 第62期本因坊戦リーグ | Yamada Kimio | Hane Naoki | B+R | 2007-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9dfeLwFEvmX%2BRql9iOgT9g%3D%3D) | 
-| 第32期名人戦リーグ | Yamada Kimio | Hikosaka Naoto | W+R | 2007-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LNT6%2BR4L8S7UHUjLCRO0cA%3D%3D) | 
-| 第55期王座戦予選 | Yamada Kimio | Sakai Hideyuki | B+R | 2007-02-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dBqY%2B2XNkioRNS6cyA3tSA%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープンBリーグ | Yamada Kimio | O Meien | W+6.5 | 2007-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WpbzRFXdw1K2D1n4pbfY%2FQ%3D%3D) | 
-| 第62期本因坊戦リーグ | So Yokoku | Yamada Kimio | W+R | 2007-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SWltmnKIit1L%2BJuHTNHBYw%3D%3D) | 
-| 第32期名人戦リーグ | Mimura Tomoyasu | Yamada Kimio | W+R | 2007-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FAqk5QKW2%2BEvg%2BAG1PJCoA%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープンBリーグ | Matsumoto Takehisa | Yamada Kimio | W+R | 2007-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jgPXUUre1gYX67D%2F2YvlHQ%3D%3D) | 
-| 第32期碁聖戦本戦2回戦 | Nakamura Shinya | Yamada Kimio | W+R | 2007-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y9NYf4QFPPFXOnls07y6kw%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープンBリーグ | Komatsu Hideki | Yamada Kimio | B+R | 2007-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=llaLMG2oQwROA8HtE4gcWQ%3D%3D) | 
-| 第62期本因坊戦リーグ | O Meien | Yamada Kimio | B+R | 2007-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S8HXuEb8EhR1DICqGEpt3g%3D%3D) | 
-| 第32期名人戦リーグ | Yamada Kimio | Ko Iso | B+R | 2007-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HViR4XzatOOluA5rqwcESA%3D%3D) | 
-| 第62期本因坊戦リーグ | Yamada Kimio | Cho Sonjin | W+R | 2006-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VM%2B7cOqZDIAdCPKGH8th%2Bw%3D%3D) | 
-| 第2回大和証券杯ネット囲碁オープン予選 | Nakaonoda Tomomi | Yamada Kimio | W+R | 2006-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JMqIK94M1VkXuATNtIrBNA%3D%3D) | 
-| 第32期名人戦リーグ | Yoda Norimoto | Yamada Kimio | W+1.5 | 2006-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SNzFICmH%2FuOFoKQJSXYHnw%3D%3D) | 
-| 第8回農心辛ラーメン杯世界囲碁最強戦第7戦 | Yamada Kimio | Peng Quan | W+3.5 | 2006-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3P%2Fq2KutsqYxItTOl826dA%3D%3D) | 
-| 第32期碁聖戦本戦1回戦 | Takano Hideki | Yamada Kimio | W+R | 2006-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VYmrUVYhlLySsrF4er6wFg%3D%3D) | 
-| 第62期本因坊戦リーグ | Yoda Norimoto | Yamada Kimio | B+R | 2006-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=23eX0gbGMw2D3U8yfAvP0g%3D%3D) | 
-| 第62期本因坊戦リーグ | Yamada Kimio | Kobayashi Satoru | B+R | 2006-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FpR6IJSS%2BQaGREPVvXzxng%3D%3D) | 
-| 第45期十段戦敗者復活戦3回戦 | Yamada Kimio | Kobayashi Satoru | W+0.5 | 2006-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NVRnGGtdZn0nSkZniTbxgQ%3D%3D) | 
-| 第1回大和証券杯ネット囲碁オープンDリーグ | Yamada Takuji | Yamada Kimio | W+R | 2006-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QLXC4bd1RWlYLF2kzPzP5g%3D%3D) | 
-| 第1回大和証券杯ネット囲碁オープンDリーグ | Yamada Kimio | Kim Sujun | W+R | 2006-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Msux%2BXg6YNSMySvX3Qkpeg%3D%3D) | 
-| 第1回大和証券杯ネット囲碁オープンDリーグ | Yamada Kimio | O Rissei | W+R | 2006-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4hHW8t4V8iWcTbp24CAW%2FA%3D%3D) | 
-| 第45期十段戦本戦3回戦 | Yamada Kimio | Cho U | W+R | 2006-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kBaVK2OjneYQ%2F6Wq4o%2FbLw%3D%3D) | 
-| 第31期名人戦リーグ | Yamada Kimio | Sakai Hideyuki | W+R | 2006-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VlKx0l0cBHoyQ7OH8FIyJA%3D%3D) | 
-| 第45期十段戦本戦2回戦 | O Rissei | Yamada Kimio | W+R | 2006-07-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KasRZWQ61py2DFrudGaYUw%3D%3D) | 
-| 第61期本因坊戦挑戦手合七番勝負第6局 | Takao Shinji | Yamada Kimio | B+R | 2006-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gLJOus1hl68pq%2BfBKrcCKg%3D%3D) | 
-| 第31期名人戦リーグ | Han Zenki | Yamada Kimio | W+R | 2006-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PQW14inXJ8bjJG8%2F4p68WQ%3D%3D) | 
-| 第61期本因坊戦挑戦手合七番勝負第5局 | Yamada Kimio | Takao Shinji | B+R | 2006-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QgeCP6YSMwEHv9zDZci%2Bdg%3D%3D) | 
-| 第45期十段戦本戦1回戦 | Yamada Kimio | Mimura Tomoyasu | B+R | 2006-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZqOaV%2Fn6Uop%2B3M0HDFWD8w%3D%3D) | 
-| 第26期NECカップ囲碁トーナメント戦1回戦 | Hane Naoki | Yamada Kimio | B+R | 2006-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8JYrvsgEhgVXbZem8trZNA%3D%3D) | 
-| 第61期本因坊戦挑戦手合七番勝負第4局 | Takao Shinji | Yamada Kimio | B+R | 2006-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CNOplhQhFyTYa9THQUeL5w%3D%3D) | 
-| 第61期本因坊戦挑戦手合七番勝負第3局 | Yamada Kimio | Takao Shinji | W+R | 2006-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2B%2FGmCHmMNO3LQvQKJ769w%3D%3D) | 
-| 第61期本因坊戦挑戦手合七番勝負第2局 | Takao Shinji | Yamada Kimio | W+R | 2006-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zqZUIBvbuewqvgwlF7F6JQ%3D%3D) | 
-| 第45期十段戦予選 | Kono Rin | Yamada Kimio | W+R | 2006-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C0sWp7l6Wp%2F0n7yBxpI8%2Bg%3D%3D) | 
-| 第61期本因坊戦挑戦手合七番勝負第1局 | Yamada Kimio | Takao Shinji | W+R | 2006-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Io8miVDJ22qCwe43bdIS6g%3D%3D) | 
-| 第31期名人戦リーグ | Kobayashi Satoru | Yamada Kimio | W+R | 2006-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B0M9bKNYooJClGyFsD8vXQ%3D%3D) | 
-| 第31期名人戦リーグ | Yoda Norimoto | Yamada Kimio | B+0.5 | 2006-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TATmvZ5%2FuXA9gL999gOilQ%3D%3D) | 
-| 第61期本因坊戦挑戦者決定プレーオフ | Yamada Kimio | Yoda Norimoto | B+0.5 | 2006-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hldIFyvF%2BdqiBObVbwCG3Q%3D%3D) | 
-| 第61期本因坊戦挑戦者決定プレーオフ | Yamada Kimio | Hane Naoki | B+R | 2006-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ENpljtHf8CFJ017%2FMIsZVw%3D%3D) | 
-| 第61期本因坊戦リーグ | Yamada Kimio | Hane Naoki | B+0.5 | 2006-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6Ctdb3xz5U%2BbOePGxy9HpQ%3D%3D) | 
-| 第31期棋聖戦予選 | Yamada Kimio | Iyama Yuta | W+R | 2006-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0yJMD7tyoU7DnQM6swzhgA%3D%3D) | 
-| 第31期名人戦リーグ | Yamada Kimio | Yamashita Keigo | W+R | 2006-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Y2yHdjrstGsV%2BLDTQrqrw%3D%3D) | 
-| 第61期本因坊戦リーグ | Yamada Kimio | Cho U | B+R | 2006-03-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x7AWpSisYEyQIOAKPH%2FUtw%3D%3D) | 
-| 第25期NECカップ囲碁トーナメント戦準決勝 | Yamada Kimio | Kobayashi Satoru | W+6.5 | 2006-02-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D1EecsOwmU2kcwtLtobExw%3D%3D) | 
-| 第31期名人戦リーグ | Imamura Toshiya | Yamada Kimio | W+4.5 | 2006-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qjHtkZ9uruWA7frASo9NwA%3D%3D) | 
-| 第61期本因坊戦リーグ | Cho Sonjin | Yamada Kimio | B+2.5 | 2006-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tw6DR%2BzA1OQ7yIKFJ%2F7e%2Fw%3D%3D) | 
-| 第31期名人戦リーグ | Yamada Kimio | Takao Shinji | W+R | 2006-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sIxTwNc1GMweV3X36qEDGA%3D%3D) | 
-| 第25期NECカップ囲碁トーナメント戦2回戦 | Miyazawa Goro | Yamada Kimio | W+R | 2006-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kf%2Fj1w1S98R%2BY8vnuJsmlg%3D%3D) | 
-| 第61期本因坊戦リーグ | Yamada Kimio | So Yokoku | B+R | 2006-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=efdWpZED9rZ91ZU%2BxYBsDw%3D%3D) | 
-| 第61期本因坊戦リーグ | Yamada Kimio | Yoda Norimoto | W+1.5 | 2005-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MSjQI0qHQ5Y8LPgKhYu1lA%3D%3D) | 
-| 第54期王座戦予選 | Takao Shinji | Yamada Kimio | B+R | 2005-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1zRBW8nLm1RLKesTPVO2AQ%3D%3D) | 
-| 第31期名人戦リーグ | Yamada Kimio | Ko Iso | B+R | 2005-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BTcaUFDHGBlq8fKogiROUQ%3D%3D) | 
-| 第7回農心辛ラーメン杯世界囲碁最強戦第8戦 | Xie He | Yamada Kimio | B+R | 2005-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=17AIMZ4En8x2W%2B%2BgFJkYhA%3D%3D) | 
-| 第61期本因坊戦リーグ | O Meien | Yamada Kimio | W+5.5 | 2005-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3sRGeX3f6msmD5ePHm%2ByaQ%3D%3D) | 
-| 第31期碁聖戦本戦1回戦 | Yamada Kimio | Yuki Satoshi | W+R | 2005-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UApZEDWRJkR3GfyLm27Bdg%3D%3D) | 
-| 第61期本因坊戦リーグ | O Rissei | Yamada Kimio | W+R | 2005-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NetoZb0OgGeZiKp5CvEjbQ%3D%3D) | 
-| 第61期本因坊戦予選 | Kobayashi Satoru | Yamada Kimio | W+5.5 | 2005-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IFt%2BIoJn0Oe94YEa5u3v3A%3D%3D) | 
-| 第30期名人戦リーグ | Yoda Norimoto | Yamada Kimio | W+R | 2005-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bHxq8r72yG9da5%2BKwWIxjw%3D%3D) | 
-| 第61期本因坊戦予選 | Yamada Kimio | Kono Rin | B+R | 2005-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XcKp8RjUTeTPwPHwewX2jQ%3D%3D) | 
-| 第30期名人戦リーグ | Ogata Masaki | Yamada Kimio | W+R | 2005-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cQup4IDL3kT15tJWO7ZB8Q%3D%3D) | 
-| 第53期王座戦2回戦 | Yamada Kimio | Ryu Shikun | W+0.5 | 2005-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hB0KFi6%2Fa1OgeagfBHpDaA%3D%3D) | 
-| 第25期NECカップ囲碁トーナメント戦1回戦 | Yamada Kimio | Cho Chikun | B+18.5 | 2005-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BawaFLA1Lc4hWEiF9v5qwA%3D%3D) | 
-| 第30期名人戦リーグ | Yamada Kimio | Yamashita Keigo | W+R | 2005-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DttzmpMxbi6LhsRsxaVUhg%3D%3D) | 
-| 第30期名人戦リーグ | Yamada Kimio | Kobayashi Satoru | B+5.5 | 2005-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zaabAP2cz7Tt32pU2oZr%2BQ%3D%3D) | 
-| 第31期天元戦本戦2回戦 | Yamada Kimio | Ryu Shikun | W+R | 2005-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Luj3muS44Mmb9OKQl%2Bmvlg%3D%3D) | 
-| 第53期王座戦1回戦 | Kobayashi Satoru | Yamada Kimio | W+R | 2005-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=V53qr37E3El5iqHvl9XhXw%3D%3D) | 
-| 第30期名人戦リーグ | Imamura Toshiya | Yamada Kimio | B+R | 2005-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2FhMGsZsVlxzpf9OsImttA%3D%3D) | 
-| 第30期名人戦リーグ | Yamada Kimio | Cho Sonjin | B+R | 2005-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5G4O%2B%2FZezj%2BaYrJenUBuvw%3D%3D) | 
-| 第30期碁聖戦本戦3回戦 | Yamada Kimio | Cho Chikun | W+R | 2005-02-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WN%2BSZK%2FPDTjxOsuOn5UN2g%3D%3D) | 
-| 第30期名人戦リーグ | Yamada Kimio | Sakai Hideyuki | W+2.5 | 2005-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ya8qJLhvwfqKJBZRtYRp6w%3D%3D) | 
-| 第18回世界囲碁選手権富士通杯国内予選決勝 | Yamashiro Hiroshi | Yamada Kimio | B+0.5 | 2005-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u%2B8HQTBFTFicEl88qjBxhw%3D%3D) | 
-| 第30期碁聖戦本戦2回戦 | Yamada Kimio | Yokota Shigeaki | B+R | 2005-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LLSc5YOhmNB1DU1yNnFlyQ%3D%3D) | 
-| 第31期天元戦本戦1回戦 | Yamada Kimio | Hane Naoki | B+1.5 | 2004-12-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0vsSErAchdYWd%2BTxZA6cCQ%3D%3D) | 
-| 第30期碁聖戦本戦1回戦 | Yamada Kimio | Morita Michihiro | B+1.5 | 2004-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FdQzGKI0sml7hYPWaLKXAg%3D%3D) | 
-| 第30期名人戦リーグ | O Meien | Yamada Kimio | B+R | 2004-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KJFyQVhHJWpMj5%2BMPMwYmA%3D%3D) | 
-| 第43期十段戦敗者復活戦2回戦 | Cho U | Yamada Kimio | B+R | 2004-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ibjg%2Bq%2FBEebOcvqtsgYTDA%3D%3D) | 
-| 第43期十段戦本戦2回戦 | Yamada Kimio | Cho Chikun | W+0.5 | 2004-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5PrNeMzXLzxxfFQLJQLHnA%3D%3D) | 
-| 第29期碁聖戦挑戦手合五番勝負第4局 | Yamada Kimio | Yoda Norimoto | W+4.5 | 2004-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=brV4GC1cmnLjkmSF2n4YIw%3D%3D) | 
-| 第29期名人戦リーグ | Yamada Kimio | O Rissei | B+R | 2004-08-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BrouwfCMkE1r1FotVB%2FWng%3D%3D) | 
-| 第29期碁聖戦挑戦手合五番勝負第3局 | Yoda Norimoto | Yamada Kimio | B+R | 2004-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F0iJpD40ULwLyexzY1PDuQ%3D%3D) | 
-| 第43期十段戦本戦1回戦 | Yamada Kimio | Rin Kaiho | B+R | 2004-07-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yL%2BVP9RgfC38CCXUZdAONw%3D%3D) | 
-| 第29期碁聖戦挑戦手合五番勝負第2局 | Yamada Kimio | Yoda Norimoto | W+R | 2004-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MZG4uv6QYYnSzFuFbns1dQ%3D%3D) | 
-| 第29期名人戦リーグ | Yamada Kimio | Imamura Toshiya | W+R | 2004-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j5mM8ac0X6UWROnumyfBLw%3D%3D) | 
-| 第29期碁聖戦挑戦手合五番勝負第1局 | Yoda Norimoto | Yamada Kimio | W+0.5 | 2004-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WlcvWabDPYiLC9diR5RvGQ%3D%3D) | 
-| 第29期名人戦リーグ | Yamada Kimio | O Meien | W+2.5 | 2004-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7fq0oTQwXPkywo8HJDplxQ%3D%3D) | 
-| 第29期碁聖戦挑戦者決定戦 | Cho U | Yamada Kimio | W+0.5 | 2004-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3dtRf%2BBpV9goQcM1NzH4Vg%3D%3D) | 
-| 第29期名人戦リーグ | Yamada Kimio | Rin Kaiho | B+3.5 | 2004-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nzklLQYoyuaifgEcM%2F1S0A%3D%3D) | 
-| 第29期碁聖戦本戦準決勝 | O Rissei | Yamada Kimio | W+R | 2004-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3PhTaWY2KehiOxDcnyJVOw%3D%3D) | 
-| 第30期天元戦本戦2回戦 | So Yokoku | Yamada Kimio | B+R | 2004-04-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eQyhGrHShwnF8CoNcofH%2Bg%3D%3D) | 
-| 第29期碁聖戦本戦3回戦 | Yamada Kimio | Imamura Toshiya | B+R | 2004-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aQqC6NXumapaLJB4yOb7Qg%3D%3D) | 
-| 第29期碁聖戦本戦2回戦 | Yamada Kimio | Ogata Masaki | B+R | 2004-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bjs6WcY18RoAkk9gC6%2Ft1g%3D%3D) | 
-| 第29期名人戦リーグ | Cho Chikun | Yamada Kimio | W+0.5 | 2004-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y92rTEWDeJeFXLvQsmIHww%3D%3D) | 
-| 第30期天元戦本戦1回戦 | Yoda Norimoto | Yamada Kimio | W+R | 2004-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YYpTQxANMTm0hEdjMqIyPg%3D%3D) | 
-| 第29期名人戦リーグ | Yamashita Keigo | Yamada Kimio | W+R | 2004-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CzYFp0s9RGDa%2F1nbyb8Oew%3D%3D) | 
-| 第29期碁聖戦本戦1回戦 | Yamada Kimio | Mimura Tomoyasu | B+R | 2004-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lP0GwFwmOHQx9CrzS%2BJ2tQ%3D%3D) | 
-| 第42期十段戦敗者復活戦決勝 | O Meien | Yamada Kimio | B+R | 2004-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s72DXi5Rx7EoruY3plmfcA%3D%3D) | 
-| 第17回世界囲碁選手権富士通杯国内予選 | Hane Naoki | Yamada Kimio | B+R | 2003-12-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FEHTnDIHOBEjO4iL2g1I%2Fw%3D%3D) | 
-| 第29期名人戦リーグ | Cho U | Yamada Kimio | B+R | 2003-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Oqa3HmOg1xeV3yhZ26Essg%3D%3D) | 
-| 第42期十段戦敗者復活戦4回戦 | Yoda Norimoto | Yamada Kimio | W+R | 2003-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ryRtargwMumDwyPaqRXrBw%3D%3D) | 
-| 第42期十段戦敗者復活戦3回戦 | Yamashita Keigo | Yamada Kimio | W+R | 2003-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OtdlPZ%2F6bey5CoQBrLLAAQ%3D%3D) | 
-| 第29期名人戦予選 | Takao Shinji | Yamada Kimio | W+R | 2003-10-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eULzPhw9HfQaoAFvPFpPhw%3D%3D) | 
-| 第42期十段戦敗者復活戦2回戦 | Yamada Kimio | Mimura Tomoyasu | B+R | 2003-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qjg%2BAMcXafDji5iTx4OHrQ%3D%3D) | 
-| 第8期三星杯3回戦 | Park Yeonghun | Yamada Kimio | B+R | 2003-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UQClLPUq4jBglCn3AMiZmw%3D%3D) | 
-| 第23期NECカップ囲碁トーナメント戦2回戦 | Yamada Kimio | Kobayashi Koichi | W+2.5 | 2003-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=achG7qm5oXSnftCqx9kaSg%3D%3D) | 
-| 第23期NECカップ囲碁トーナメント戦1回戦 | Kato Masao | Yamada Kimio | W+13.5 | 2003-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iq0jiKYJXSnQAiPW8qlrDw%3D%3D) | 
-| 第8期三星杯2回戦 | Jiang Zhujiu | Yamada Kimio | W+1.5 | 2003-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6zicQpWbHTmsgdiSOkKjxg%3D%3D) | 
-| 第8期三星杯1回戦 | Yamada Kimio | Yu Bin | B+R | 2003-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jrzEL6gGNhd6AgvQRiWDVw%3D%3D) | 
-| 第42期十段戦1回戦 | Yamada Kimio | Cho Chikun | W+R | 2003-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T0kClThwe4isU56j1guSxg%3D%3D) | 
-| 第51期王座戦1回戦 | Yamada Kimio | Takao Shinji | W+0.5 | 2003-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rprmv0f3Xqf2biN9CtoSaA%3D%3D) | 
-| 第28期碁聖戦本戦3回戦 | Hane Naoki | Yamada Kimio | B+R | 2003-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rKuF8gJAAwzgGHe0HcoivQ%3D%3D) | 
-| 第28期碁聖戦本戦2回戦 | Ushikubo Yoshitaka | Yamada Kimio | W+R | 2003-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FJQkDKYzObl8hzlIo%2BCYQA%3D%3D) | 
-| 第28期碁聖戦本戦1回戦 | Takanashi Seiken | Yamada Kimio | W+R | 2002-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uK0Q%2Fq7WM1oap6Vh74RnJQ%3D%3D) | 
-| 第7期三星杯1回戦 | Peng Quan | Yamada Kimio | B+R | 2002-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ybklrtxa02dy5HU0uJNzkw%3D%3D) | 
-| 第57期本因坊戦リーグ | Hane Naoki | Yamada Kimio | B+R | 2002-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=87eY0ugj68E5mshasuDAPw%3D%3D) | 
-| 第6期三星杯2回戦 | Rui Naiwei | Yamada Kimio | B+0.5 | 2001-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8N0VBepU2RUBDcYd3sz8Vg%3D%3D) | 
-| 第6期三星杯1回戦 | Choi Kyubyeong | Yamada Kimio | W+3.5 | 2001-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b7ohntb6ylpGof6tJVW9yw%3D%3D) | 
-| 第5期三星杯決勝五番勝負第4局 | Yoo Changhyuk | Yamada Kimio | B+R | 2000-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xt4i9%2FyRREgppR9KpIM6XQ%3D%3D) | 
-| 第5期三星杯決勝五番勝負第3局 | Yamada Kimio | Yoo Changhyuk | B+R | 2000-12-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lVX7XvPCvbxHkbR52S4SyQ%3D%3D) | 
-| 第5期三星杯決勝五番勝負第2局 | Yoo Changhyuk | Yamada Kimio | B+R | 2000-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BaHY0NZVQ7IJ10JIgQe6ng%3D%3D) | 
-| 第5期三星杯決勝五番勝負第1局 | Yamada Kimio | Yoo Changhyuk | W+R | 2000-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UDsvv3bkK8E%2B6rm%2B1eQpBw%3D%3D) | 
-| 第5期三星杯準決勝 | Seo Bongsoo | Yamada Kimio | W+1.5 | 2000-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zTDgZagQ6hCqvGQnVRL4kA%3D%3D) | 
-| 第5期三星杯3回戦 | Rui Naiwei | Yamada Kimio | W+R | 2000-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VUH056YjMR%2FZVK53%2BWMibg%3D%3D) | 
-| 第5期三星杯2回戦 | Yamada Kimio | missing | B+R | 2000-09-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l1i7Y2%2FRYcWp7y7ebvq5kw%3D%3D) | 
-| 第5期三星杯1回戦 | Weon Seongjin | Yamada Kimio | W+2.5 | 2000-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rioACdtl2IHWWQPTJUZLgA%3D%3D) | 
-| 第1回農心辛ラーメン杯世界囲碁最強戦第10戦 | Chang Hao | Yamada Kimio | B+1.5 | 2000-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9nDcHMtYUJwT8%2Ba02lOuXQ%3D%3D) | 
-| 第4期三星杯準決勝 | Lee Changho | Yamada Kimio | B+R | 1999-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HnihaEiqItjebZGY%2FL6KtA%3D%3D) | 
-| 第4期三星杯3回戦 | Kim Seungjun | Yamada Kimio | W+4.5 | 1999-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WFeQRdxuFD2p3JISaEokVA%3D%3D) | 
-| 第4期三星杯2回戦 | Yoo Changhyuk | Yamada Kimio | W+R | 1999-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yhp87nJzt%2BGSd9CiUrhWqg%3D%3D) | 
-| 第4期三星杯1回戦 | Mok Jinseok | Yamada Kimio | W+R | 1999-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6nuM4o2Vgq%2BrI9xBIwLKYw%3D%3D) | 
-| 第3回LG杯世界棋王戦3回戦 | Shao Weigang | Yamada Kimio | B+R | 1998-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3b9Vo2G%2BefFnF2PJms%2FqHQ%3D%3D) | 
-| 第3回LG杯世界棋王戦2回戦 | Yang Jaeho | Yamada Kimio | W+R | 1998-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iehwqsKwU4e415a1gNR7sA%3D%3D) | 
-| 第3回LG杯世界棋王戦1回戦 | Yamada Kimio | missing | B+12.5 | 1998-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mulv7LXOyeaZ%2BlRzrx4lZQ%3D%3D) | 
-| 第35期十段戦挑戦者決定戦 | Yamada Kimio | Kato Masao | W+R | 1997-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QQ%2FbcBJwXVAqDW7YnZXquw%3D%3D) | 
-| 第35期十段戦本戦勝者組決勝 | Yamada Kimio | Kobayashi Koichi | B+R | 1996-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LWcLxTz06Tj4vlk1CIzhuQ%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-02 | 第48期天元戦予選 | Ito Kenryo | Yamada Kimio | Win | W+R | 6.5 | 2999 | 102 | 
+| 2021-09-16 | 第46期棋聖戦Cリーグ | Yamada Kimio | Tsuruta Kazushi | Win | B+3.5 | 6.5 | 2897 | -4 | 
+| 2021-09-02 | 第60期十段戦予選 | Onishi Ryuhei | Yamada Kimio | Lose | B+R | 6.5 | 2901 | -2 | 
+| 2021-08-19 | 第47期名人戦予選 | Yamada Kimio | Otake Yu | Lose | W+R | 6.5 | 2903 | 164 | 
+| 2021-07-22 | 第60期十段戦予選 | Ogata Masaki | Yamada Kimio | Win | W+R | 6.5 | 2739 | 117 | 
+| 2021-07-15 | 第46期棋聖戦Cリーグ | Yamada Kimio | Sada Atsushi | Win | B+2.5 | 6.5 | 2622 | -13 | 
+| 2021-06-24 | 第46期棋聖戦Cリーグ | Yamada Kimio |  | Win | B+R | 6.5 | 2635 | 57 | 
+| 2021-06-17 | 第60期十段戦予選 | Komatsu Daiki | Yamada Kimio | Win | W+11.5 | 6.5 | 2578 | -100 | 
+| 2021-05-27 | 第46期棋聖戦Cリーグ | Ko Iso | Yamada Kimio | Lose | B+R | 6.5 | 2678 | 9 | 
+| 2021-05-13 | 第28期阿含・桐山杯全日本早碁オープン戦予選 |  | Yamada Kimio | Lose | B+R | 6.5 | 2669 | -487 | 
+| 2021-01-14 | 第77期本因坊戦予選 | Yamada Kimio |  | Lose | W+R | 6.5 | 3156 | -4 | 
+| 2021-01-07 | 第69期王座戦予選 | Yamada Kimio | Ishii Kunio | Lose | W+0.5 | 6.5 | 3160 | 19 | 
+| 2020-12-17 | 第47期天元戦予選 | Muramatsu Hiroki | Yamada Kimio | Win | W+R | 6.5 | 3141 | 2 | 
+| 2020-11-30 | 第69期王座戦予選 | Yanagawa Hiromasa | Yamada Kimio | Win | W+R | 6.5 | 3139 | 11 | 
+| 2020-10-22 | 第47期天元戦予選 |  | Yamada Kimio | Win | W+R | 6.5 | 3128 | 5 | 
+| 2020-10-08 | 第77期本因坊戦予選 | Tsukuda Akiko | Yamada Kimio | Win | W+4.5 | 6.5 | 3123 | 17 | 
+| 2020-09-03 | 第45期棋聖戦Bリーグ | Yamada Kimio | Shibano Toramaru | Lose | W+R | 6.5 | 3106 | -73 | 
+| 2020-08-20 | 第46期名人戦予選 | Yamada Kimio |  | Lose | W+R | 6.5 | 3179 | 108 | 
+| 2020-08-06 | 第45期棋聖戦Bリーグ | Yamada Kimio | Tsuruyama Atsushi | Lose | W+R | 6.5 | 3071 | -21 | 
+| 2020-07-30 | 第46期名人戦予選 | Yamada Kimio | Tsuruta Kazushi | Win | B+R | 6.5 | 3092 | -7 | 
+| 2020-07-23 | 第45期棋聖戦Bリーグ | Yamada Kimio | Fujita Akihiko | Lose | W+R | 6.5 | 3099 | -39 | 
+| 2020-07-16 | 第45期棋聖戦Bリーグ | Hirose Yuichi | Yamada Kimio | Lose | B+0.5 | 6.5 | 3138 | -86 | 
+| 2020-07-03 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Yamashita Keigo | Yamada Kimio | Lose | B+R | 6.5 | 3224 | -10 | 
+| 2020-06-18 | 第59期十段戦予選 | Yamada Kimio | Mutsuura Yuta | Lose | W+R | 6.5 | 3234 | -61 | 
+| 2020-06-11 | 第46期名人戦予選 | Otani Naoki | Yamada Kimio | Win | W+R | 6.5 | 3295 | 139 | 
+| 2020-06-04 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Nakano Yasuhiro | Yamada Kimio | Win | W+R | 6.5 | 3156 | 330 | 
+| 2020-04-02 | 第46期名人戦予選 | Nakamura Shinya | Yamada Kimio | Win | W+R | 6.5 | 2826 | -5 | 
+| 2020-03-26 | 第45期棋聖戦Bリーグ | Yamashiro Hiroshi | Yamada Kimio | Win | W+R | 6.5 | 2831 | 26 | 
+| 2020-03-05 | 第59期十段戦予選 | Otake Yu | Yamada Kimio | Win | W+R | 6.5 | 2805 | 55 | 
+| 2020-02-27 | 第45期棋聖戦Bリーグ | Ko Iso | Yamada Kimio | Lose | B+R | 6.5 | 2750 | -139 | 
+| 2020-01-16 | 第45期棋聖戦Bリーグ | Yamada Kimio | Suzuki Shinji | Win | B+1.5 | 6.5 | 2889 | 47 | 
+| 2020-01-09 | 第46期天元戦1回戦 | Murakawa Daisuke | Yamada Kimio | Lose | B+R | 6.5 | 2842 | 308 | 
+| 2019-12-12 | 第68期王座戦予選 |  | Yamada Kimio | Lose | B+R | 6.5 | 2534 | 45 | 
+| 2019-10-24 | 第76期本因坊戦予選 | Ishii Kunio | Yamada Kimio | Lose | B+0.5 | 6.5 | 2489 | 1 | 
+| 2019-10-10 | 第46期天元戦予選 | Yamada Kimio | Tajima Shingo | Win | B+R | 6.5 | 2488 | 42 | 
+| 2019-09-19 | 第46期天元戦予選 | Yamada Kimio |  | Win | B+R | 6.5 | 2446 | 3 | 
+| 2019-09-05 | 第45期碁聖戦予選 | Muramatsu Hiroki | Yamada Kimio | Win | W+R | 6.5 | 2443 | 22 | 
+| 2019-08-29 | 第44期棋聖戦Bリーグ | Ko Iso | Yamada Kimio | Win | W+1.5 | 6.5 | 2421 | 10 | 
+| 2019-07-11 | 第44期棋聖戦Bリーグ | Yamada Kimio | Terayama Rei | Win | B+R | 6.5 | 2411 | 40 | 
+| 2019-06-20 | 第44期棋聖戦Bリーグ | O Meien | Yamada Kimio | Win | W+R | 6.5 | 2371 | 114 | 
+| 2019-06-06 | 第44期棋聖戦Bリーグ | Yamada Kimio | Motoki Katsuya | Lose | W+R | 6.5 | 2257 | -102 | 
+| 2019-05-30 | 第26期阿含・桐山杯全日本早碁オープン戦予選 | Yamada Kimio | Adachi Toshimasa | Lose | W+R | 6.5 | 2359 | -7 | 
+| 2019-05-23 | 第58期十段戦予選 | Nakane Naoyuki | Yamada Kimio | Lose | B+R | 6.5 | 2366 | -5 | 
+| 2019-05-16 | 第45期名人戦予選 | Kikkawa Hajime | Yamada Kimio | Win | W+R | 6.5 | 2371 | -105 | 
+| 2019-05-02 | 第58期十段戦予選 | Ito Kenryo | Yamada Kimio | Win | W+R | 6.5 | 2476 | -30 | 
+| 2019-04-25 | 第45期名人戦予選 | Kato Yuuki | Yamada Kimio | Win | W+5.5 | 6.5 | 2506 | -10 | 
+| 2019-04-18 | 第44期棋聖戦Bリーグ | Han Zenki | Yamada Kimio | Lose | B+R | 6.5 | 2516 | -58 | 
+| 2019-04-04 | 第45期名人戦予選 | Kitano Ryo | Yamada Kimio | Win | W+R | 6.5 | 2574 | 29 | 
+| 2019-03-28 | 第44期棋聖戦Bリーグ | Yamada Kimio | Cho Chikun | Win | B+R | 6.5 | 2545 | 72 | 
+| 2019-02-28 | 第44期棋聖戦Bリーグ | Yamada Kimio | Adachi Toshimasa | Lose | W+R | 6.5 | 2473 | -113 | 
+| 2019-02-21 | 第45期名人戦予選 | Miyamoto Chiharu | Yamada Kimio | Win | W+R | 6.5 | 2586 | -91 | 
+| 2019-01-31 | 第75期本因坊戦予選 |  | Yamada Kimio | Lose | B+3.5 | 6.5 | 2677 | -29 | 
+| 2018-12-20 | 第67期王座戦予選 | Yamada Kimio | Tsuruta Kazushi | Lose | W+R | 6.5 | 2706 | -58 | 
+| 2018-11-15 | 第45期天元戦予選 | Hikosaka Naoto | Yamada Kimio | Lose | B+R | 6.5 | 2764 | -39 | 
+| 2018-10-18 | 第45期天元戦予選 | Ogata Masaki | Yamada Kimio | Win | W+R | 6.5 | 2803 | -20 | 
+| 2018-09-20 | 第67期王座戦予選 | Yamada Kimio | Ishii Kunio | Win | B+1.5 | 6.5 | 2823 | -18 | 
+| 2018-09-13 | 第44期碁聖戦予選 | Yamada Kimio | Shida Tatsuya | Lose | W+6.5 | 6.5 | 2841 | -82 | 
+| 2018-08-09 | 第44期碁聖戦予選 | Shimojima Yohei | Yamada Kimio | Win | W+R | 6.5 | 2923 | 39 | 
+| 2018-07-05 | 第43期棋聖戦Bリーグ | Yuki Satoshi | Yamada Kimio | Lose | B+R | 6.5 | 2884 | -2 | 
+| 2018-06-14 | 第57期十段戦最終予選決勝 | Chang Rueijie | Yamada Kimio | Lose | B+R | 6.5 | 2886 | 41 | 
+| 2018-05-31 | 第43期棋聖戦Bリーグ | Yamada Kimio | Motoki Katsuya | Win | B+1.5 | 6.5 | 2845 | 48 | 
+| 2018-05-24 | 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Yamada Kimio | Yu Zhengqi | Lose | W+R | 6.5 | 2797 | 4 | 
+| 2018-05-17 | 第74期本因坊戦予選 | Goto Shungo | Yamada Kimio | Lose | B+R | 6.5 | 2793 | -118 | 
+| 2018-05-03 | 第43期棋聖戦Bリーグ | Tsuruta Kazushi | Yamada Kimio | Win | W+3.5 | 6.5 | 2911 | 6 | 
+| 2018-04-19 | 第57期十段戦予選 | Yamada Kimio | Nakamura Shinya | Win | B+R | 6.5 | 2905 | 17 | 
+| 2018-04-12 | 第44期名人戦予選 | Yamada Kimio | Komatsu Daiki | Lose | W+R | 6.5 | 2888 | -53 | 
+| 2018-03-08 | 第44期名人戦予選 | Yamada Kimio | Kori Toshio | Win | B+R | 6.5 | 2941 | -46 | 
+| 2018-03-01 | 第43期棋聖戦リーグB組 | Yamada Kimio | Ryu Shikun | Win | B+0.5 | 6.5 | 2987 | 53 | 
+| 2018-02-01 | 第43期棋聖戦Bリーグ | Yamada Kimio | Tsuruyama Atsushi | Win | B+R | 6.5 | 2934 | -1 | 
+| 2018-01-18 | 第66期王座戦最終予選 | Yamada Kimio | Sun Zhe | Lose | W+R | 6.5 | 2935 | -37 | 
+| 2017-12-21 | 第66期王座戦予選 | Iwamaru Taira | Yamada Kimio | Win | W+R | 6.5 | 2972 | 29 | 
+| 2017-12-04 | 第43期碁聖戦本戦1回戦 | Ichiriki Ryo | Yamada Kimio | Lose | B+R | 6.5 | 2943 | 23 | 
+| 2017-11-16 | 第66期王座戦予選 | Yamada Kimio | Bian Wenkai | Win | B+R | 6.5 | 2920 | -50 | 
+| 2017-10-26 | 第44期天元戦予選 | Yamada Kimio | Mutsuura Yuta | Lose | W+R | 7.5 | 2970 | 77 | 
+| 2017-09-14 | 第44期天元戦予選 | Ohashi Naruya | Yamada Kimio | Win | W+3.5 | 6.5 | 2893 | 23 | 
+| 2017-08-17 | 第42期棋聖戦　Bリーグ1組7回戦 | Shibano Toramaru | Yamada Kimio | Win | W+3.5 | 6.5 | 2870 | 55 | 
+| 2017-08-03 | 第44期天元戦　予選B決勝 | Matsuoka Hideki | Yamada Kimio | Win | W+R | 6.5 | 2815 | 7 | 
+| 2017-07-20 | 第42期棋聖戦　Bリーグ1組6回戦 | Yamada Kimio | Imamura Yoshiaki | Lose | W+R | 6.5 | 2808 | -8 | 
+| 2017-07-13 | 第43期碁聖戦　予選A | Muramatsu Hiroki | Yamada Kimio | Win | W+1.5 | 6.5 | 2816 | 36 | 
+| 2017-06-29 | 第24期阿含・桐山杯　本戦1回戦 | Kono Rin | Yamada Kimio | Win | W+R | 6.5 | 2780 | 59 | 
+| 2017-06-22 | 第42期棋聖戦　Bリーグ1組5回戦 | Yamada Kimio | Awaji Shuzo | Lose | W+R | 6.5 | 2721 | 4 | 
+| 2017-06-15 | 第73期本因坊戦　最終予選1回戦 | Takao Shinji | Yamada Kimio | Lose | B+R | 6.5 | 2717 | -19 | 
+| 2017-06-08 | 第43期名人戦　予選B | Yamamori Tadanao | Yamada Kimio | Lose | B+1.5 | 6.5 | 2736 | -19 | 
+| 2017-06-01 | 第56期十段戦　最終予選 | Yamada Kimio | Cho Sonjin | Lose | W+R | 6.5 | 2755 | -30 | 
+| 2017-05-25 | 第42期棋聖戦　Bリーグ1組4回戦 | Akiyama Jiro | Yamada Kimio | Lose | B+1.5 | 6.5 | 2785 | -30 | 
+| 2017-05-04 | 第24期阿含・桐山杯　最終予選決勝 | Yamada Kimio | Otake Yu | Win | B+R | 6.5 | 2815 | 12 | 
+| 2017-04-27 | 第42期棋聖戦リーグ戦B組 | Yamada Kimio | Shida Tatsuya | Win | B+2.5 | 6.5 | 2803 | 122 | 
+| 2017-04-20 | 第43期名人戦　予選C決勝 | Sano Takatsugu | Yamada Kimio | Win | W+R | 6.5 | 2681 | -14 | 
+| 2017-04-13 | 第73期本因坊戦　予選A決勝 | Takei Takashi | Yamada Kimio | Win | W+R | 6.5 | 2695 | 6 | 
+| 2017-04-06 | 第42期棋聖戦　Bリーグ2回戦 | Yamada Kimio | Ida Atsushi | Lose | W+2.5 | 6.5 | 2689 | -19 | 
+| 2017-03-30 | 第43期名人戦　予選C | Takabayashi Masahiro | Yamada Kimio | Win | W+R | 6.5 | 2708 | 177 | 
+| 2017-03-16 | 第42期棋聖戦　Bリーグ1回戦 | Ko Iso | Yamada Kimio | Win | W+R | 6.5 | 2531 | 127 | 
+| 2017-02-16 | 第56期十段戦　予選A決勝 | Yamada Kimio | Mutsuura Yuta | Win | B+R | 6.5 | 2404 | 147 | 
+| 2017-02-02 | 第73期本因坊戦　予選A | Yamada Kimio | Otani Naoki | Win | B+3.5 | 6.5 | 2257 | 16 | 
+| 2016-11-17 | 第73期本因坊戦　予選B決勝 | Yamada Kimio | Ito Yoji | Win | B+R | 6.5 | 2241 | 12 | 
+| 2016-10-20 | 第43期天元戦予選 | Takei Takashi | Yamada Kimio | Lose | B+R | 6.5 | 2229 | -169 | 
+| 2016-10-13 | 第65期王座戦予選 | Tsuruta Kazushi | Yamada Kimio | Lose | B+R | 6.5 | 2398 | -226 | 
+| 2016-08-25 | 第41期棋聖戦　Aリーグ6回戦 | Yamada Kimio | Kobayashi Satoru | Win | B+R | 6.5 | 2624 | 59 | 
+| 2016-08-04 | 第42期碁聖戦予選 | Goto Shungo | Yamada Kimio | Win | W+R | 6.5 | 2565 | -74 | 
+| 2016-07-28 | 第55期十段戦予選 | Yamada Kimio | Adachi Toshimasa | Lose | W+R | 6.5 | 2639 | 108 | 
+| 2016-07-07 | 第41期棋聖戦Aリーグ | Yamashiro Hiroshi | Yamada Kimio | Lose | B+R | 6.5 | 2531 | -37 | 
+| 2016-06-30 | 第65期王座戦予選 | Tajima Shingo | Yamada Kimio | Win | W+R | 6.5 | 2568 | -40 | 
+| 2016-06-16 | 第42期名人戦予選 | Yamada Kimio | Muramatsu Hiroki | Lose | W+R | 6.5 | 2608 | -62 | 
+| 2016-06-09 | 第41期棋聖戦Aリーグ | Yamada Kimio | Cho U | Lose | W+R | 6.5 | 2670 | 6 | 
+| 2016-06-02 | 第42期碁聖戦予選 | Osawa Kenro | Yamada Kimio | Win | W+R | 6.5 | 2664 | 50 | 
+| 2016-05-26 | 第41期棋聖戦Aリーグ | So Yokoku | Yamada Kimio | Lose | B+R | 6.5 | 2614 | 34 | 
+| 2016-05-05 | 第55期十段戦予選 | Yamada Kimio | Tanaka Nobuyuki | Win | B+R | 6.5 | 2580 | 13 | 
+| 2016-04-28 | 第23期阿含・桐山杯全日本早碁オープン戦予選 | Motoki Katsuya | Yamada Kimio | Lose | B+0.5 | 6.5 | 2567 | 39 | 
+| 2016-04-21 | 第41期棋聖戦Aリーグ | Awaji Shuzo | Yamada Kimio | Lose | B+R | 6.5 | 2528 | 14 | 
+| 2016-03-31 | 第42期碁聖戦予選 | Yamada Kimio | Okumura Yasushi | Win | B+R | 6.5 | 2514 | 17 | 
+| 2016-03-26 | 第11回春蘭杯世界囲碁選手権1回戦 | Yamada Kimio | Lian Xiao | Lose | W+R | 7.5 | 2497 | -7 | 
+| 2016-03-17 | 第42期碁聖戦予選 | Yamada Kimio | Takagi Junpei | Win | B+R | 6.5 | 2504 | 23 | 
+| 2016-03-03 | 第41期棋聖戦Aリーグ | Yamada Kimio | Ryu Shikun | Lose | W+2.5 | 6.5 | 2481 | -35 | 
+| 2016-02-18 | 第72期本因坊戦予選 | Yamada Kimio | Iwamaru Taira | Lose | W+R | 6.5 | 2516 | -132 | 
+| 2016-01-21 | 第55期十段戦予選 | Yamada Kimio | Ito Yoji | Win | B+R | 6.5 | 2648 | -10 | 
+| 2015-12-24 | 第72期本因坊戦予選 | Kikkawa Hajime | Yamada Kimio | Win | W+R | 6.5 | 2658 | 24 | 
+| 2015-12-17 | 第42期碁聖戦予選 | Yamada Kimio |  | Win | B+R | 6.5 | 2634 | -10 | 
+| 2015-11-30 | 第42期天元戦予選 | Ogata Masaki | Yamada Kimio | Lose | B+R | 6.5 | 2644 | -5 | 
+| 2015-11-05 | 第55期十段戦予選 | Yamada Kimio | Araki Issei | Win | B+10.5 | 6.5 | 2649 | 54 | 
+| 2015-10-29 | 第40期棋聖戦挑戦者決定トーナメント | Murakawa Daisuke | Yamada Kimio | Lose | B+2.5 | 6.5 | 2595 | 1 | 
+| 2015-10-22 | 第64期王座戦予選 | Yamada Kimio | Ohashi Naruya | Lose | W+2.5 | 6.5 | 2594 | -12 | 
+| 2015-10-15 | 第40期棋聖戦挑戦者決定トーナメント | Yamada Kimio | Kono Rin | Win | B+R | 7.5 | 2606 | 51 | 
+| 2015-10-01 | 第40期棋聖戦挑戦者決定トーナメント | Yamada Kimio | Hsu Chiayuan | Win | B+R | 6.5 | 2555 | 30 | 
+| 2015-09-24 | 第42期天元戦予選 | Tsuruta Kazushi | Yamada Kimio | Win | W+R | 6.5 | 2525 | -2 | 
+| 2015-09-17 | 第40期棋聖戦挑戦者決定トーナメント | Awaji Shuzo | Yamada Kimio | Win | W+8.5 | 6.5 | 2527 | -65 | 
+| 2015-08-06 | 第40期棋聖戦Bリーグ | Yamada Kimio | Kim Sujun | Lose | W+R | 6.5 | 2592 | -20 | 
+| 2015-07-30 | 第40期棋聖戦Bリーグ | Yamada Kimio | O Meien | Win | B+R | 7.5 | 2612 | 31 | 
+| 2015-07-23 | 第41期名人戦予選 | Yamada Kimio | Nakano Hironari | Lose | W+R | 6.5 | 2581 | -33 | 
+| 2015-07-09 | 第40期棋聖戦Bリーグ | Kiyonari Tetsuya | Yamada Kimio | Lose | B+R | 6.5 | 2614 | -123 | 
+| 2015-06-25 | 第40期棋聖戦Bリーグ | Yamada Kimio | Suzuki Yoshimichi | Win | B+7.5 | 6.5 | 2737 | -121 | 
+| 2015-06-11 | 第40期棋聖戦Bリーグ | Shida Tatsuya | Yamada Kimio | Win | W+R | 6.5 | 2858 | 146 | 
+| 2015-06-04 | 第22期阿含・桐山杯全日本早碁オープン戦予選 | Yamada Kimio | Matsumoto Takehisa | Lose | W+R | 6.5 | 2712 | -124 | 
+| 2015-05-28 | 第71期本因坊戦予選 | Muramatsu Hiroki | Yamada Kimio | Lose | B+0.5 | 6.5 | 2836 | -23 | 
+| 2015-05-21 | 第41期碁聖戦予選 | Yamamori Tadanao | Yamada Kimio | Lose | B+R | 6.5 | 2859 | -87 | 
+| 2015-05-14 | 第40期棋聖戦Bリーグ | Yamada Kimio | Sonoda Yuichi | Win | B+1.5 | 6.5 | 2946 | -111 | 
+| 2015-04-30 | 第71期本因坊戦予選 | Yamada Kimio | Kim Hyun Jung | Win | B+R | 6.5 | 3057 | 55 | 
+| 2015-04-23 | 第40期棋聖戦Bリーグ | So Yokoku | Yamada Kimio | Win | W+R | 6.5 | 3002 | -159 | 
+| 2015-03-05 | 第63期王座戦予選 | Hane Naoki | Yamada Kimio | Lose | B+R | 6.5 | 3161 | 18 | 
+| 2015-02-26 | 第54期十段戦予選 | Kato Yuuki | Yamada Kimio | Lose | B+R | 6.5 | 3143 | 114 | 
+| 2015-02-05 | 第63期王座戦予選 | Ogata Masaki | Yamada Kimio | Win | W+R | 6.5 | 3029 | 225 | 
+| 2014-10-23 | 第41期天元戦予選 | Yamada Kimio | Nakano Hironari | Lose | W+4.5 | 6.5 | 2804 | -72 | 
+| 2014-10-02 | 第40期碁聖戦予選 | Yamada Kimio | Nakane Naoyuki | Lose | W+R | 6.5 | 2876 | -60 | 
+| 2014-09-18 | 第41期天元戦予選 | Yamada Kimio | Matsuoka Hideki | Win | B+R | 6.5 | 2936 | 24 | 
+| 2014-09-11 | 第40期名人戦予選 | Yamada Kimio | Yu Zhengqi | Lose | W+R | 6.5 | 2912 | 14 | 
+| 2014-07-24 | 第40期名人戦予選 | Matsuoka Hideki | Yamada Kimio | Win | W+R | 6.5 | 2898 | -32 | 
+| 2014-07-03 | 第53期十段戦予選 | Yamada Kimio | Sun Zhe | Lose | W+R | 6.5 | 2930 | -41 | 
+| 2014-06-12 | 第40期名人戦予選 | Yamada Kimio | Katayama Yasuo | Win | B+1.5 | 6.5 | 2971 | -2 | 
+| 2014-05-29 | 第21期阿含・桐山杯全日本早碁オープン戦予選 | Yamada Kimio | Adachi Toshimasa | Win | B+2.5 | 6.5 | 2973 | 115 | 
+| 2014-05-01 | 第53期十段戦予選 | Yamada Kimio | Yamashiro Hiroshi | Win | B+R | 6.5 | 2858 | 34 | 
+| 2014-03-27 | 第53期十段戦予選 | Takahashi Masumi | Yamada Kimio | Win | W+R | 6.5 | 2824 | -86 | 
+| 2014-02-27 | 第62期王座戦予選 | Yamada Kimio | Anzai Nobuaki | Lose | W+R | 6.5 | 2910 | 17 | 
+| 2014-02-06 | 第39期棋聖戦予選 | Yamada Kimio | Kim Sujun | Lose | W+R | 6.5 | 2893 | -145 | 
+| 2014-01-16 | 第62期王座戦予選 | Yamada Kimio | Ohashi Naruya | Win | B+R | 6.5 | 3038 | -54 | 
+| 2014-01-09 | 第40期天元戦予選 | Nakano Hironari | Yamada Kimio | Lose | B+R | 6.5 | 3092 | -13 | 
+| 2013-12-26 | 第62期王座戦予選 | Yamada Kimio | Kitano Ryo | Win | B+2.5 | 6.5 | 3105 | 25 | 
+| 2013-12-12 | 第40期天元戦予選 | Yamada Kimio | Ida Atsushi | Win | B+R | 6.5 | 3080 | 48 | 
+| 2013-11-28 | 第39期棋聖戦予選 | Yamada Kimio | Tajima Shingo | Win | B+R | 6.5 | 3032 | 62 | 
+| 2013-11-07 | 第39期棋聖戦予選 | Fujii Shuya | Yamada Kimio | Win | W+R | 6.5 | 2970 | 10 | 
+| 2013-10-31 | 第39期碁聖戦予選 | Ida Atsushi | Yamada Kimio | Lose | B+R | 6.5 | 2960 | -58 | 
+| 2013-10-10 | 第40期天元戦予選 | Yamada Kimio | Wang Jingyi | Win | B+R | 6.5 | 3018 | -74 | 
+| 2013-10-03 | 第39期名人戦予選 | Yuki Satoshi | Yamada Kimio | Lose | B+R | 6.5 | 3092 | -76 | 
+| 2013-09-05 | 第39期碁聖戦予選 | Kato Yuuki | Yamada Kimio | Win | W+7.5 | 6.5 | 3168 | 31 | 
+| 2013-08-29 | 第39期名人戦予選 | Takemiya Masaki | Yamada Kimio | Win | W+2.5 | 6.5 | 3137 | 18 | 
+| 2013-08-08 | 第52期十段戦予選 | Yamada Kimio | Imamura Yoshiaki | Lose | W+R | 6.5 | 3119 | 274 | 
+| 2013-07-09 | 第39期名人戦予選 | Yamada Kimio | Goto Shungo | Win | B+6.5 | 6.5 | 2845 | 80 | 
+| 2013-06-20 | 第39期名人戦予選 | Imamura Yoshiaki | Yamada Kimio | Win | W+R | 6.5 | 2765 | -14 | 
+| 2013-05-09 | 第52期十段戦予選 | Kato Yuuki | Yamada Kimio | Win | W+R | 6.5 | 2779 | -16 | 
+| 2013-04-11 | 第69期本因坊戦予選 | Yamada Kimio | Muramatsu Hiroki | Lose | W+R | 6.5 | 2795 | -33 | 
+| 2013-04-04 | 第61期王座戦予選 | Mimura Tomoyasu | Yamada Kimio | Lose | B+R | 6.5 | 2828 | -58 | 
+| 2013-03-21 | 第69期本因坊戦予選 | Yamada Kimio | Baba Shigeru | Win | B+0.5 | 6.5 | 2886 | -4 | 
+| 2013-03-07 | 第38期棋聖戦予選 | Hikosaka Naoto | Yamada Kimio | Win | W+0.5 | 6.5 | 2890 | -7 | 
+| 2013-02-28 | 第61期王座戦予選 | Sakai Hideyuki | Yamada Kimio | Win | W+R | 6.5 | 2897 | 26 | 
+| 2013-02-14 | 第52期十段戦予選 | Yamada Kimio | Hane Yasumasa | Win | B+R | 6.5 | 2871 | 38 | 
+| 2013-01-31 | 第38期棋聖戦予選 | Anzai Nobuaki | Yamada Kimio | Win | W+R | 6.5 | 2833 | 51 | 
+| 2013-01-17 | 第52期十段戦予選 | Takei Takashi | Yamada Kimio | Win | W+R | 6.5 | 2782 | -93 | 
+| 2012-12-27 | 第38期棋聖戦予選 | Yun Chunho | Yamada Kimio | Win | W+R | 6.5 | 2875 | 41 | 
+| 2012-12-13 | 第38期棋聖戦予選 | Yamada Kimio | Goto Shungo | Win | B+3.5 | 6.5 | 2834 | -202 | 
+| 2012-11-15 | 第52期十段戦予選 | Sakaguchi Ryuzo | Yamada Kimio | Win | W+R | 6.5 | 3036 | 21 | 
+| 2012-10-25 | 第39期天元戦予選 | Iwamaru Taira | Yamada Kimio | Lose | B+R | 6.5 | 3015 | 38 | 
+| 2012-09-27 | 第38期碁聖戦予選 | Shida Tatsuya | Yamada Kimio | Lose | B+R | 6.5 | 2977 | -5 | 
+| 2012-09-20 | 第52期十段戦予選 | Takagi Junpei | Yamada Kimio | Win | W+R | 6.5 | 2982 | -38 | 
+| 2012-09-06 | 第38期碁聖戦予選 | Sano Takatsugu | Yamada Kimio | Win | W+R | 6.5 | 3020 | 77 | 
+| 2012-08-02 | 第68期本因坊戦予選 | Yamada Kimio | Imamura Toshiya | Lose | W+R | 6.5 | 2943 | -136 | 
+| 2012-07-30 | 第60期王座戦2回戦 | Iyama Yuta | Yamada Kimio | Lose | B+R | 6.5 | 3079 | 24 | 
+| 2012-07-26 | 第38期名人戦予選 | Nakane Naoyuki | Yamada Kimio | Lose | B+R | 6.5 | 3055 | 18 | 
+| 2012-06-28 | 第68期本因坊戦予選 | Yamada Kimio | Sakai Hideyuki | Win | B+R | 6.5 | 3037 | -38 | 
+| 2012-06-14 | 第38期名人戦予選 | Ishii Kunio | Yamada Kimio | Win | W+R | 6.5 | 3075 | -66 | 
+| 2012-06-11 | 第8回大和証券杯ネット囲碁オープン予選 | Ohashi Hirofumi | Yamada Kimio | Win | W+R | 6.5 | 3141 | 5 | 
+| 2012-05-31 | 第68期本因坊戦予選 | Kato Atsushi | Yamada Kimio | Win | W+0.5 | 6.5 | 3136 | -70 | 
+| 2012-05-17 | 第60期王座戦1回戦 | Yamada Kimio | Kiyonari Tetsuya | Win | B+1.5 | 6.5 | 3206 | -71 | 
+| 2012-04-26 | 第38期天元戦本戦3回戦 | Akiyama Jiro | Yamada Kimio | Lose | B+R | 6.5 | 3277 | -58 | 
+| 2012-04-05 | 第68期本因坊戦予選 | Ohashi Naruya | Yamada Kimio | Win | W+R | 6.5 | 3335 | 46 | 
+| 2012-03-22 | 第38期天元戦本戦2回戦 | Yamada Kimio | O Rissei | Win | B+R | 6.5 | 3289 | -102 | 
+| 2012-03-01 | 第68期本因坊戦予選 | Katayama Yasuo | Yamada Kimio | Win | W+R | 6.5 | 3391 | -53 | 
+| 2012-02-23 | 第60期王座戦予選 | Yamada Kimio | Yamada Takuji | Win | B+R | 6.5 | 3444 | 146 | 
+| 2012-02-02 | 第51期十段戦予選 | Imamura Yoshiaki | Yamada Kimio | Lose | B+R | 6.5 | 3298 | 18 | 
+| 2012-01-12 | 第60期王座戦予選 | Murakawa Daisuke | Yamada Kimio | Win | W+R | 6.5 | 3280 | -10 | 
+| 2011-12-22 | 第38期天元戦本戦1回戦 | Kurahashi Masayuki | Yamada Kimio | Win | W+R | 6.5 | 3290 | 5 | 
+| 2011-12-08 | 第37期棋聖戦予選 | Yamada Kimio | Hikosaka Naoto | Lose | W+2.5 | 6.5 | 3285 | 445 | 
+| 2011-11-17 | 第37期棋聖戦予選 | Yamada Kimio | Tajima Shingo | Win | B+R | 6.5 | 2840 | -45 | 
+| 2011-10-06 | 第38期天元戦予選 | Shimojima Yohei | Yamada Kimio | Win | W+R | 6.5 | 2885 | -28 | 
+| 2011-09-29 | 第37期碁聖戦予選 | Yamada Kimio | Ogata Masaki | Lose | W+R | 6.5 | 2913 | -17 | 
+| 2011-09-22 | 第37期名人戦予選 | Yoda Norimoto | Yamada Kimio | Lose | B+2.5 | 6.5 | 2930 | 69 | 
+| 2011-09-08 | 第38期天元戦予選 | Yamada Kimio | Kato Yuuki | Win | B+0.5 | 6.5 | 2861 | -3 | 
+| 2011-09-03 | 第7回大和証券杯ネット囲碁オープン1回戦 | Yamada Kimio | Anzai Nobuaki | Lose | W+R | 6.5 | 2864 | -7 | 
+| 2011-09-01 | 第37期名人戦予選 | Ha Youngil | Yamada Kimio | Win | W+R | 6.5 | 2871 | 3 | 
+| 2011-08-25 | 第37期碁聖戦予選 | Yamada Kimio | Sakamoto Yasuo | Win | B+R | 6.5 | 2868 | -1 | 
+| 2011-08-18 | 第37期名人戦予選 | Ito Yoji | Yamada Kimio | Win | W+3.5 | 6.5 | 2869 | 1 | 
+| 2011-08-10 | 第24回世界囲碁選手権富士通杯1回戦 | Fujii Shuya | Yamada Kimio | Lose | B+R | 6.5 | 2868 | -66 | 
+| 2011-08-04 | 第18期阿含・桐山杯全日本早碁オープン戦準決勝 | Iyama Yuta | Yamada Kimio | Lose | B+R | 6.5 | 2934 | 22 | 
+| 2011-07-28 | 第31期NECカップ囲碁トーナメント戦1回戦 | Yamada Kimio | O Rissei | Lose | W+R | 6.5 | 2912 | -33 | 
+| 2011-07-21 | 第18期阿含・桐山杯全日本早碁オープン戦2回戦 | O Meien | Yamada Kimio | Win | W+R | 6.5 | 2945 | -12 | 
+| 2011-07-14 | 第59期王座戦準決勝 | Yamada Kimio | Iyama Yuta | Lose | W+R | 6.5 | 2957 | -27 | 
+| 2011-07-07 | 第67期本因坊戦予選 | Yamada Kimio | Kobayashi Satoru | Lose | W+R | 6.5 | 2984 | -18 | 
+| 2011-06-30 | 第37期名人戦予選 | Sasaki Tsuyoshi | Yamada Kimio | Win | W+10.5 | 6.5 | 3002 | -143 | 
+| 2011-06-23 | 第18期阿含・桐山杯全日本早碁オープン戦1回戦 | Ryu Shikun | Yamada Kimio | Win | W+R | 6.5 | 3145 | -26 | 
+| 2011-06-08 | 第23回テレビアジア選手権準決勝 | Yamada Kimio | Kong Jie | Lose | W+R | 7.5 | 3171 | -10 | 
+| 2011-06-07 | 第23回テレビアジア選手権1回戦 | Park Junghwan | Yamada Kimio | Win | W+0.5 | 7.5 | 3181 | 111 | 
+| 2011-05-26 | 第18期阿含・桐山杯全日本早碁オープン戦予選 | Yamada Kimio | Otake Hideo | Win | B+R | 6.5 | 3070 | 7 | 
+| 2011-05-19 | 第59期王座戦2回戦 | Yamashita Keigo | Yamada Kimio | Win | W+R | 6.5 | 3063 | -9 | 
+| 2011-04-28 | 第67期本因坊戦予選 | Yamada Kimio | Mizokami Tomochika | Win | B+R | 6.5 | 3072 | 8 | 
+| 2011-04-21 | 第59期王座戦1回戦 | Kono Rin | Yamada Kimio | Win | W+R | 6.5 | 3064 | 72 | 
+| 2011-02-10 | 第50期十段戦予選 | Ogata Masaki | Yamada Kimio | Lose | B+R | 6.5 | 2992 | -21 | 
+| 2011-02-03 | 第36期棋聖戦予選 | Yamada Kimio | Nakane Naoyuki | Lose | W+R | 6.5 | 3013 | -18 | 
+| 2011-01-27 | 第67期本因坊戦予選 | Sakaguchi Ryuzo | Yamada Kimio | Win | W+R | 6.5 | 3031 | 68 | 
+| 2011-01-13 | 第36期棋聖戦予選 | Yamada Kimio | Mimura Tomoyasu | Win | B+4.5 | 6.5 | 2963 | 124 | 
+| 2010-11-25 | 2010年アジア競技大会囲碁男子団体戦 | Yamada Kimio | Zhou Ruiyang | Lose | W+T | 7.5 | 2839 | 0 | 
+| 2010-11-25 | 2010年アジア競技大会囲碁男子団体戦 | Choi Cheolhan | Yamada Kimio | Lose | B+R | 7.5 | 2839 | 24 | 
+| 2010-11-18 | 第37期天元戦予選 | Matsuoka Hideki | Yamada Kimio | Lose | B+R | 6.5 | 2815 | 4 | 
+| 2010-11-11 | 第58期王座戦挑戦手合五番勝負第3局 | Cho U | Yamada Kimio | Lose | B+R | 6.5 | 2811 | -15 | 
+| 2010-11-04 | 第58期王座戦挑戦手合五番勝負第2局 | Yamada Kimio | Cho U | Lose | W+3.5 | 6.5 | 2826 | 0 | 
+| 2010-10-28 | 第36期名人戦予選 | Yamada Kimio | Hane Naoki | Lose | W+R | 6.5 | 2826 | -15 | 
+| 2010-10-21 | 第58期王座戦挑戦手合五番勝負第1局 | Cho U | Yamada Kimio | Lose | B+R | 6.5 | 2841 | -6 | 
+| 2010-10-14 | 第37期天元戦予選 | Imamura Yoshiaki | Yamada Kimio | Win | W+R | 6.5 | 2847 | 114 | 
+| 2010-09-30 | 第36期名人戦予選 | Kobayashi Satoru | Yamada Kimio | Win | W+4.5 | 6.5 | 2733 | 16 | 
+| 2010-09-23 | 第36期碁聖戦予選 | Yamada Kimio | Hikosaka Naoto | Lose | W+R | 6.5 | 2717 | -33 | 
+| 2010-09-16 | 第36期棋聖戦予選 | Yamada Kimio | Ito Yoji | Win | B+1.5 | 6.5 | 2750 | 23 | 
+| 2010-09-09 | 第36期名人戦予選 | Kataoka Satoshi | Yamada Kimio | Win | W+R | 6.5 | 2727 | 16 | 
+| 2010-09-06 | 第4期幽玄杯精鋭リーグ戦 | Yamada Kimio | Fujisawa Rina | Win | B+R | 6.5 | 2711 | -26 | 
+| 2010-08-26 | 第58期王座戦挑戦者決定戦 | Yamada Kimio | Mochizuki Kenichi | Win | B+R | 6.5 | 2737 | -14 | 
+| 2010-08-05 | 第35期名人戦リーグ | Yamada Kimio | Cho Chikun | Win | B+0.5 | 6.5 | 2751 | 11 | 
+| 2010-07-29 | 第36期碁聖戦予選 | Yamada Kimio | Nakao Jungo | Win | B+R | 6.5 | 2740 | -50 | 
+| 2010-07-15 | 第58期王座戦準決勝 | Iyama Yuta | Yamada Kimio | Win | W+R | 6.5 | 2790 | 17 | 
+| 2010-07-01 | 第35期名人戦リーグ | Takao Shinji | Yamada Kimio | Lose | B+R | 6.5 | 2773 | -15 | 
+| 2010-06-24 | 第58期王座戦2回戦 | Kobayashi Satoru | Yamada Kimio | Win | W+0.5 | 6.5 | 2788 | 10 | 
+| 2010-06-21 | 第30期NECカップ囲碁トーナメント戦1回戦 | Iyama Yuta | Yamada Kimio | Lose | B+R | 6.5 | 2778 | 63 | 
+| 2010-06-17 | 第35期名人戦リーグ | Yamada Kimio | Sakai Hideyuki | Lose | W+R | 6.5 | 2715 | -10 | 
+| 2010-06-07 | 第15回LG杯世界棋王戦1回戦 | Yamada Kimio | Piao Wenyao | Lose | W+R | 6.5 | 2725 | 50 | 
+| 2010-05-27 | 第66期本因坊戦予選 | Yamada Kimio | Cho Sonjin | Lose | W+R | 6.5 | 2675 | 28 | 
+| 2010-05-13 | 第35期名人戦リーグ | Ogata Masaki | Yamada Kimio | Win | W+R | 6.5 | 2647 | -16 | 
+| 2010-04-22 | 第58期王座戦1回戦 | Yamada Kimio | Kiyonari Tetsuya | Win | B+R | 6.5 | 2663 | -11 | 
+| 2010-04-15 | 第49期十段戦予選 | Yamada Kimio | Ko Iso | Lose | W+R | 6.5 | 2674 | -48 | 
+| 2010-04-08 | 第35期名人戦リーグ | Mizokami Tomochika | Yamada Kimio | Lose | B+R | 6.5 | 2722 | -20 | 
+| 2010-04-01 | 第65期本因坊戦リーグ | Cho U | Yamada Kimio | Lose | B+R | 6.5 | 2742 | 17 | 
+| 2010-03-25 | 第49期十段戦予選 | Ishida Atsushi | Yamada Kimio | Win | W+R | 6.5 | 2725 | -22 | 
+| 2010-03-18 | 第35期碁聖戦本戦3回戦 | Iyama Yuta | Yamada Kimio | Lose | B+R | 6.5 | 2747 | -24 | 
+| 2010-03-11 | 第35期名人戦リーグ | O Meien | Yamada Kimio | Lose | B+5.5 | 6.5 | 2771 | -14 | 
+| 2010-03-04 | 第36期天元戦本戦2回戦 | Kim Sujun | Yamada Kimio | Lose | B+R | 6.5 | 2785 | -29 | 
+| 2010-02-25 | 第65期本因坊戦リーグ | Yamada Kimio | Mimura Tomoyasu | Win | B+R | 6.5 | 2814 | 57 | 
+| 2010-02-11 | 第65期本因坊戦リーグ | Takao Shinji | Yamada Kimio | Lose | B+R | 6.5 | 2757 | -20 | 
+| 2010-02-04 | 第2回BCカード杯世界選手権2回戦 | Yoo Changhyuk | Yamada Kimio | Lose | B+R | 6.5 | 2777 | -23 | 
+| 2010-01-28 | 第35期碁聖戦本戦2回戦 | Yamada Kimio | Han Zenki | Win | B+R | 6.5 | 2800 | -37 | 
+| 2010-01-20 | 第11回農心辛ラーメン杯世界囲碁最強戦第7戦 | Xie He | Yamada Kimio | Lose | B+R | 6.5 | 2837 | -7 | 
+| 2010-01-16 | 第2回BCカード杯世界選手権1回戦 | Zhong Wenjing | Yamada Kimio | Win | W+1.5 | 6.5 | 2844 | 28 | 
+| 2010-01-14 | 第65期本因坊戦リーグ | Yuki Satoshi | Yamada Kimio | Win | W+R | 6.5 | 2816 | 63 | 
+| 2010-01-07 | 第35期名人戦リーグ | Yamada Kimio | Cho U | Lose | W+R | 6.5 | 2753 | -19 | 
+| 2009-12-24 | 第65期本因坊戦リーグ | Iyama Yuta | Yamada Kimio | Lose | B+R | 6.5 | 2772 | -30 | 
+| 2009-12-17 | 第36期天元戦本戦1回戦 | Yamada Kimio | Sekiyama Toshimichi | Win | B+R | 6.5 | 2802 | 5 | 
+| 2009-12-03 | 第35期名人戦リーグ | Yamada Kimio | Yuki Satoshi | Lose | W+R | 6.5 | 2797 | -192 | 
+| 2009-11-26 | 第57期王座戦挑戦手合五番勝負第3局 | Yamada Kimio | Cho U | Lose | W+3.5 | 6.5 | 2989 | -7 | 
+| 2009-11-24 | 第57期王座戦挑戦手合五番勝負第2局 | Cho U | Yamada Kimio | Lose | B+R | 6.5 | 2996 | -51 | 
+| 2009-11-12 | 第65期本因坊戦リーグ | Yamada Kimio | Takemiya Masaki | Lose | W+R | 6.5 | 3047 | -28 | 
+| 2009-10-29 | 第23回世界囲碁選手権富士通杯国内予選 | Sakai Hideyuki | Yamada Kimio | Lose | B+3.5 | 6.5 | 3075 | 23 | 
+| 2009-10-23 | 第57期王座戦挑戦手合五番勝負第1局 | Yamada Kimio | Cho U | Lose | W+R | 6.5 | 3052 | 21 | 
+| 2009-10-01 | 第65期本因坊戦リーグ | Yamada Kimio | Yamashita Keigo | Lose | W+R | 6.5 | 3031 | -20 | 
+| 2009-09-10 | 第57期王座戦挑戦者決定戦 | Yamada Kimio | Yoda Norimoto | Win | B+R | 6.5 | 3051 | 56 | 
+| 2009-09-03 | 第35期棋聖戦予選 |  | Yamada Kimio | Win | W+R | 6.5 | 2995 | -8 | 
+| 2009-08-27 | 第36期天元戦予選 | Yamamori Tadanao | Yamada Kimio | Win | W+R | 6.5 | 3003 | 63 | 
+| 2009-08-06 | 第34期名人戦リーグ | Yamada Kimio | Sakai Hideyuki | Win | B+R | 6.5 | 2940 | 29 | 
+| 2009-08-01 | 第5回大和証券杯ネット囲碁オープン1回戦 | Yamada Kimio | Kato Atsushi | Lose | W+R | 6.5 | 2911 | -29 | 
+| 2009-07-23 | 第57期王座戦準決勝 | Kono Rin | Yamada Kimio | Win | W+R | 6.5 | 2940 | 25 | 
+| 2009-07-09 | 第48期十段戦敗者復活戦1回戦 | Yamada Kimio | Tsuruyama Atsushi | Lose | W+4.5 | 6.5 | 2915 | -10 | 
+| 2009-07-02 | 第57期王座戦2回戦 | So Yokoku | Yamada Kimio | Win | W+R | 6.5 | 2925 | 79 | 
+| 2009-06-11 | 第34期名人戦リーグ | Kobayashi Satoru | Yamada Kimio | Lose | B+R | 6.5 | 2846 | 4 | 
+| 2009-06-04 | 第29期NECカップ囲碁トーナメント戦1回戦 | Yamada Kimio | Ko Iso | Lose | W+5.5 | 6.5 | 2842 | -90 | 
+| 2009-05-28 | 第48期十段戦本戦1回戦 | Yamada Kimio | Lee Ishu | Lose | W+1.5 | 6.5 | 2932 | -55 | 
+| 2009-05-14 | 第57期王座戦1回戦 | Yamada Kimio | Cho Chikun | Win | B+0.5 | 6.5 | 2987 | 12 | 
+| 2009-05-11 | 第5回大和証券杯ネット囲碁オープン予選 | Yamada Kimio | Takanashi Seiken | Win | B+R | 6.5 | 2975 | 27 | 
+| 2009-05-07 | 第34期名人戦リーグ | Yamada Kimio | Cho Chikun | Win | B+0.5 | 6.5 | 2948 | 48 | 
+| 2009-04-16 | 第34期名人戦リーグ | Ogata Masaki | Yamada Kimio | Win | W+R | 6.5 | 2900 | 22 | 
+| 2009-04-02 | 第64期本因坊戦リーグ | Yamada Kimio | Takao Shinji | Win | B+R | 6.5 | 2878 | 14 | 
+| 2009-03-26 | 第35期天元戦本戦1回戦 | Yamada Kimio | Hikosaka Naoto | Lose | W+R | 6.5 | 2864 | -2 | 
+| 2009-03-12 | 第34期名人戦リーグ | Yamada Kimio | O Meien | Win | B+0.5 | 6.5 | 2866 | -18 | 
+| 2009-03-05 | 第64期本因坊戦リーグ | Yamashita Keigo | Yamada Kimio | Lose | B+R | 6.5 | 2884 | -76 | 
+| 2009-02-26 | 第34期名人戦リーグ | Takao Shinji | Yamada Kimio | Win | W+R | 6.5 | 2960 | 84 | 
+| 2009-02-19 | 第57期王座戦予選 | Yamada Kimio | Kobayashi Satoru | Win | B+R | 6.5 | 2876 | 23 | 
+| 2009-02-12 | 第22回世界囲碁選手権富士通杯国内予選決勝 | Yamada Kimio | Takao Shinji | Lose | W+R | 6.5 | 2853 | -6 | 
+| 2009-02-05 | 第64期本因坊戦リーグ | Cho U | Yamada Kimio | Win | W+R | 6.5 | 2859 | 10 | 
+| 2009-02-02 | 第2期幽玄杯精鋭リーグ戦 | Yamada Kimio | Tamai Shin | Win | B+R | 6.5 | 2849 | -13 | 
+| 2009-01-29 | 第48期十段戦予選 | Yanaka Katsunori | Yamada Kimio | Win | W+R | 6.5 | 2862 | 4 | 
+| 2009-01-26 | 第2期幽玄杯精鋭リーグ戦 | Shiraishi Yuichi | Yamada Kimio | Win | W+3.5 | 6.5 | 2858 | -18 | 
+| 2009-01-22 | 第22回世界囲碁選手権富士通杯国内予選 | Yamada Kimio | Nakane Naoyuki | Win | B+R | 6.5 | 2876 | -15 | 
+| 2009-01-15 | 第34期名人戦リーグ | Iyama Yuta | Yamada Kimio | Lose | B+R | 6.5 | 2891 | -102 | 
+| 2009-01-08 | 第64期本因坊戦リーグ | Yamada Kimio | Yoda Norimoto | Lose | W+R | 6.5 | 2993 | 26 | 
+| 2008-12-25 | 第34期碁聖戦本戦1回戦 | Yamada Kimio | Iyama Yuta | Lose | W+R | 6.5 | 2967 | -23 | 
+| 2008-12-22 | 第2期幽玄杯精鋭リーグ戦 | Lee Ishu | Yamada Kimio | Win | W+R | 6.5 | 2990 | 42 | 
+| 2008-12-18 | 第34期名人戦リーグ | Yamada Kimio | Cho Riyu | Win | B+R | 6.5 | 2948 | 120 | 
+| 2008-12-11 | 第64期本因坊戦リーグ | Yamada Kimio | Kataoka Satoshi | Win | B+R | 6.5 | 2828 | 20 | 
+| 2008-12-04 | 第22回世界囲碁選手権富士通杯国内予選 | Yamada Kimio | Rin Kanketsu | Win | B+R | 6.5 | 2808 | -28 | 
+| 2008-12-01 | 第2期幽玄杯精鋭リーグ戦 | Mannami Nao | Yamada Kimio | Win | W+R | 6.5 | 2836 | 264 | 
+| 2008-11-25 | 第10回農心辛ラーメン杯世界囲碁最強戦第6戦 | Kang Dongyun | Yamada Kimio | Lose | B+R | 6.5 | 2572 | -11 | 
+| 2008-11-17 | 第2期幽玄杯精鋭リーグ戦 | Yamada Kimio | Murakami Akihide | Win | B+R | 6.5 | 2583 | 1 | 
+| 2008-11-13 | 第64期本因坊戦リーグ | Nakaonoda Tomomi | Yamada Kimio | Win | W+R | 6.5 | 2582 | -20 | 
+| 2008-10-30 | 第64期本因坊戦リーグ | Yamada Kimio | So Yokoku | Win | B+R | 6.5 | 2602 | -589 | 
+| 2008-10-16 | 第34期棋聖戦予選 | Yamada Kimio | Seto Taiki | Lose | W+R | 6.5 | 3191 | -21 | 
+| 2008-10-13 | 第2期幽玄杯精鋭リーグ戦 | Yamada Kimio | Osawa Kenro | Win | B+R | 6.5 | 3212 | 70 | 
+| 2008-10-07 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Yamada Kimio | Li Zhe | Lose | W+R | 6.5 | 3142 | -13 | 
+| 2008-10-06 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Paek Hongseok | Yamada Kimio | Win | W+5.5 | 6.5 | 3155 | 18 | 
+| 2008-09-25 | 第35期天元戦予選 | Yamada Kimio | Shida Tatsuya | Win | B+R | 6.5 | 3137 | 2 | 
+| 2008-09-22 | 第2期幽玄杯精鋭リーグ戦 | Ando Kazushige | Yamada Kimio | Lose | B+R | 6.5 | 3135 | -38 | 
+| 2008-09-13 | 第28期NECカップ囲碁トーナメント戦1回戦 | Hane Naoki | Yamada Kimio | Lose | B+23.5 | 6.5 | 3173 | 4 | 
+| 2008-09-08 | 第2期幽玄杯精鋭リーグ戦 | Yamada Kimio | Xie Yimin | Lose | W+R | 6.5 | 3169 | -23 | 
+| 2008-08-23 | 第4期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Han Sanghoon | Yamada Kimio | Lose | B+1.5 | 6.5 | 3192 | 327 | 
+| 2008-08-07 | 第33期名人戦リーグ | Yamada Kimio | Chin Kaei | Win | B+R | 6.5 | 2865 | 3 | 
+| 2008-08-04 | 第2期幽玄杯精鋭リーグ戦 | Mukai Chiaki | Yamada Kimio | Win | W+22.5 | 6.5 | 2862 | -2 | 
+| 2008-07-17 | 第15期阿含・桐山杯全日本早碁オープン戦2回戦 | Yuki Satoshi | Yamada Kimio | Lose | B+1.5 | 6.5 | 2864 | -6 | 
+| 2008-07-12 | 第4回大和証券杯ネット囲碁オープン1回戦 | Yamada Kimio | Ko Iso | Lose | W+R | 6.5 | 2870 | -35 | 
+| 2008-07-10 | 第33期名人戦リーグ | Cho Chikun | Yamada Kimio | Lose | B+2.5 | 6.5 | 2905 | 13 | 
+| 2008-06-30 | 第2期幽玄杯精鋭リーグ戦 | Yamada Kimio | Horimoto Mitsunari | Win | B+R | 6.5 | 2892 | -4 | 
+| 2008-06-19 | 第15期阿含・桐山杯全日本早碁オープン戦1回戦 | Yamada Kimio | Komatsu Hideki | Win | B+R | 6.5 | 2896 | 21 | 
+| 2008-06-12 | 第33期名人戦リーグ | Sakai Hideyuki | Yamada Kimio | Win | W+0.5 | 6.5 | 2875 | -12 | 
+| 2008-06-02 | 第2期幽玄杯精鋭リーグ戦 | Yamada Kimio | Uchida Shuhei | Win | B+R | 6.5 | 2887 | 246 | 
+| 2008-04-17 | 第56期王座戦1回戦 | Yamada Kimio | Hane Naoki | Lose | W+R | 6.5 | 2641 | 6 | 
+| 2008-04-07 | 第33期碁聖戦本戦準決勝 | Takao Shinji | Yamada Kimio | Lose | B+R | 6.5 | 2635 | -25 | 
+| 2008-04-03 | 第63期本因坊戦リーグ | O Meien | Yamada Kimio | Win | W+R | 6.5 | 2660 | 42 | 
+| 2008-03-24 | 第33期名人戦リーグ | Yamada Kimio | Takao Shinji | Lose | W+R | 6.5 | 2618 | -4 | 
+| 2008-03-20 | 第56期王座戦予選 | Yamada Kimio | Nakaonoda Tomomi | Win | B+4.5 | 6.5 | 2622 | 7 | 
+| 2008-03-13 | 第33期碁聖戦本戦3回戦 | Hikosaka Naoto | Yamada Kimio | Win | W+R | 6.5 | 2615 | 5 | 
+| 2008-03-06 | 第63期本因坊戦リーグ | Yamashita Keigo | Yamada Kimio | Win | W+2.5 | 6.5 | 2610 | 16 | 
+| 2008-02-28 | 第33期名人戦リーグ | Yoda Norimoto | Yamada Kimio | Lose | B+R | 6.5 | 2594 | -6 | 
+| 2008-02-21 | 第33期名人戦リーグ | Yamada Kimio | Kobayashi Satoru | Win | B+R | 6.5 | 2600 | -7 | 
+| 2008-02-07 | 第63期本因坊戦リーグ | Yamada Kimio | Yoda Norimoto | Lose | W+R | 6.5 | 2607 | -36 | 
+| 2008-01-31 | 第56期王座戦予選 | Mizokami Tomochika | Yamada Kimio | Win | W+R | 6.5 | 2643 | 32 | 
+| 2008-01-24 | 第33期名人戦リーグ | Iyama Yuta | Yamada Kimio | Win | W+1.5 | 6.5 | 2611 | 64 | 
+| 2008-01-17 | 第33期碁聖戦本戦2回戦 | Yamada Kimio | Ko Mosei | Win | B+1.5 | 6.5 | 2547 | 22 | 
+| 2008-01-10 | 第63期本因坊戦リーグ | Yamada Kimio | Mizokami Tomochika | Lose | W+R | 6.5 | 2525 | -8 | 
+| 2007-12-20 | 第33期名人戦リーグ | Yamada Kimio | Ko Iso | Win | B+3.5 | 6.5 | 2533 | 17 | 
+| 2007-12-13 | 第21回世界囲碁選手権富士通杯国内予選 | Yamada Kimio | Honda Kunihisa | Lose | W+4.5 | 6.5 | 2516 | -34 | 
+| 2007-12-06 | 第63期本因坊戦リーグ | So Yokoku | Yamada Kimio | Lose | B+3.5 | 6.5 | 2550 | -28 | 
+| 2007-11-28 | 第9回農心辛ラーメン杯世界囲碁最強戦第7戦 | Yamada Kimio | Mok Jinseok | Lose | W+3.5 | 6.5 | 2578 | -8 | 
+| 2007-11-27 | 第9回農心辛ラーメン杯世界囲碁最強戦第6戦 | Yamada Kimio | Wang Xi | Win | B+0.5 | 6.5 | 2586 | 3 | 
+| 2007-11-22 | 第63期本因坊戦リーグ | Yamada Kimio | Cho U | Win | B+1.5 | 6.5 | 2583 | 19 | 
+| 2007-11-16 | 第3回大和証券杯ネット囲碁オープン3回戦 | Yamada Kimio | Rin Kanketsu | Lose | W+R | 6.5 | 2564 | -24 | 
+| 2007-11-08 | 第21回世界囲碁選手権富士通杯国内予選 | Obuchi Morito | Yamada Kimio | Win | W+R | 6.5 | 2588 | 28 | 
+| 2007-11-01 | 第33期碁聖戦本戦1回戦 | Imamura Toshiya | Yamada Kimio | Win | W+R | 6.5 | 2560 | -5 | 
+| 2007-10-25 | 第63期本因坊戦リーグ | Yamada Kimio | Hane Naoki | Win | B+R | 6.5 | 2565 | -19 | 
+| 2007-09-29 | 第3回大和証券杯ネット囲碁オープン2回戦 | Yamada Kimio | O Meien | Win | B+R | 6.5 | 2584 | -1299 | 
+| 2007-09-15 | 第3回大和証券杯ネット囲碁オープン1回戦 | Anzai Nobuaki | Yamada Kimio | Win | W+R | 6.5 | 3883 | 1229 | 
+| 2007-08-21 | 第3回大和証券杯ネット囲碁オープン予選 | Ohashi Hirofumi | Yamada Kimio | Win | W+0.5 | 6.5 | 2654 | -254 | 
+| 2007-08-09 | 第46期十段戦敗者復活戦1回戦 | Mochizuki Kenichi | Yamada Kimio | Lose | B+R | 6.5 | 2908 | -104 | 
+| 2007-08-02 | 第32期名人戦リーグ | Sakai Hideyuki | Yamada Kimio | Win | W+R | 6.5 | 3012 | -115 | 
+| 2007-07-21 | 第27期NECカップ囲碁トーナメント戦1回戦 | Yamashita Keigo | Yamada Kimio | Lose | B+R | 6.5 | 3127 | 189 | 
+| 2007-07-12 | 第32期名人戦リーグ | Yamada Kimio | Yamashita Keigo | Win | B+5.5 | 6.5 | 2938 | -63 | 
+| 2007-07-05 | 第46期十段戦本戦1回戦 | Yamada Kimio | Kobayashi Satoru | Lose | W+R | 6.5 | 3001 | -92 | 
+| 2007-06-21 | 第32期名人戦リーグ | Cho U | Yamada Kimio | Lose | B+R | 6.5 | 3093 | 2 | 
+| 2007-06-14 | 第55期王座戦2回戦 | Yamada Kimio | Imamura Toshiya | Lose | W+R | 6.5 | 3091 | 54 | 
+| 2007-05-10 | 第55期王座戦1回戦 | Takemiya Masaki | Yamada Kimio | Win | W+R | 6.5 | 3037 | 30 | 
+| 2007-04-19 | 第32期棋聖戦予選 | Yamashiro Hiroshi | Yamada Kimio | Lose | B+R | 6.5 | 3007 | -36 | 
+| 2007-04-12 | 第32期名人戦リーグ | Yamada Kimio | Kobayashi Satoru | Lose | W+R | 6.5 | 3043 | -2 | 
+| 2007-04-05 | 第62期本因坊戦リーグ | Cho U | Yamada Kimio | Win | W+0.5 | 6.5 | 3045 | -17 | 
+| 2007-03-29 | 第32期碁聖戦本戦3回戦 | Yamada Kimio | Yokota Shigeaki | Lose | W+R | 6.5 | 3062 | 306 | 
+| 2007-03-08 | 第62期本因坊戦リーグ | Yamada Kimio | Hane Naoki | Win | B+R | 6.5 | 2756 | 2 | 
+| 2007-03-01 | 第32期名人戦リーグ | Yamada Kimio | Hikosaka Naoto | Lose | W+R | 6.5 | 2754 | 22 | 
+| 2007-02-15 | 第55期王座戦予選 | Yamada Kimio | Sakai Hideyuki | Win | B+R | 6.5 | 2732 | 7 | 
+| 2007-02-10 | 第2回大和証券杯ネット囲碁オープンBリーグ | Yamada Kimio | O Meien | Lose | W+6.5 | 6.5 | 2725 | -39 | 
+| 2007-02-08 | 第62期本因坊戦リーグ | So Yokoku | Yamada Kimio | Win | W+R | 6.5 | 2764 | 35 | 
+| 2007-02-01 | 第32期名人戦リーグ | Mimura Tomoyasu | Yamada Kimio | Win | W+R | 6.5 | 2729 | -12 | 
+| 2007-01-27 | 第2回大和証券杯ネット囲碁オープンBリーグ | Matsumoto Takehisa | Yamada Kimio | Win | W+R | 6.5 | 2741 | 18 | 
+| 2007-01-25 | 第32期碁聖戦本戦2回戦 | Nakamura Shinya | Yamada Kimio | Win | W+R | 6.5 | 2723 | 16 | 
+| 2007-01-20 | 第2回大和証券杯ネット囲碁オープンBリーグ | Komatsu Hideki | Yamada Kimio | Lose | B+R | 6.5 | 2707 | 11 | 
+| 2007-01-18 | 第62期本因坊戦リーグ | O Meien | Yamada Kimio | Lose | B+R | 6.5 | 2696 | -4 | 
+| 2007-01-11 | 第32期名人戦リーグ | Yamada Kimio | Ko Iso | Win | B+R | 6.5 | 2700 | 55 | 
+| 2006-12-14 | 第62期本因坊戦リーグ | Yamada Kimio | Cho Sonjin | Lose | W+R | 6.5 | 2645 | -10 | 
+| 2006-12-12 | 第2回大和証券杯ネット囲碁オープン予選 | Nakaonoda Tomomi | Yamada Kimio | Win | W+R | 6.5 | 2655 | -36 | 
+| 2006-12-07 | 第32期名人戦リーグ | Yoda Norimoto | Yamada Kimio | Win | W+1.5 | 6.5 | 2691 | -1 | 
+| 2006-11-24 | 第8回農心辛ラーメン杯世界囲碁最強戦第7戦 | Yamada Kimio | Peng Quan | Lose | W+3.5 | 6.5 | 2692 | -24 | 
+| 2006-11-16 | 第32期碁聖戦本戦1回戦 | Takano Hideki | Yamada Kimio | Win | W+R | 6.5 | 2716 | 28 | 
+| 2006-11-02 | 第62期本因坊戦リーグ | Yoda Norimoto | Yamada Kimio | Lose | B+R | 6.5 | 2688 | 7 | 
+| 2006-10-26 | 第62期本因坊戦リーグ | Yamada Kimio | Kobayashi Satoru | Win | B+R | 6.5 | 2681 | -50 | 
+| 2006-10-12 | 第45期十段戦敗者復活戦3回戦 | Yamada Kimio | Kobayashi Satoru | Lose | W+0.5 | 6.5 | 2731 | 1 | 
+| 2006-09-22 | 第1回大和証券杯ネット囲碁オープンDリーグ | Yamada Takuji | Yamada Kimio | Win | W+R | 6.5 | 2730 | 22 | 
+| 2006-09-16 | 第1回大和証券杯ネット囲碁オープンDリーグ | Yamada Kimio | Kim Sujun | Lose | W+R | 6.5 | 2708 | -51 | 
+| 2006-09-07 | 第1回大和証券杯ネット囲碁オープンDリーグ | Yamada Kimio | O Rissei | Lose | W+R | 6.5 | 2759 | -15 | 
+| 2006-09-04 | 第45期十段戦本戦3回戦 | Yamada Kimio | Cho U | Lose | W+R | 6.5 | 2774 | -84 | 
+| 2006-08-03 | 第31期名人戦リーグ | Yamada Kimio | Sakai Hideyuki | Lose | W+R | 6.5 | 2858 | 3 | 
+| 2006-07-27 | 第45期十段戦本戦2回戦 | O Rissei | Yamada Kimio | Win | W+R | 6.5 | 2855 | -78 | 
+| 2006-07-12 | 第61期本因坊戦挑戦手合七番勝負第6局 | Takao Shinji | Yamada Kimio | Lose | B+R | 6.5 | 2933 | -9 | 
+| 2006-07-06 | 第31期名人戦リーグ | Han Zenki | Yamada Kimio | Win | W+R | 6.5 | 2942 | 37 | 
+| 2006-06-27 | 第61期本因坊戦挑戦手合七番勝負第5局 | Yamada Kimio | Takao Shinji | Win | B+R | 6.5 | 2905 | -202 | 
+| 2006-06-22 | 第45期十段戦本戦1回戦 | Yamada Kimio | Mimura Tomoyasu | Win | B+R | 6.5 | 3107 | 25 | 
+| 2006-06-17 | 第26期NECカップ囲碁トーナメント戦1回戦 | Hane Naoki | Yamada Kimio | Lose | B+R | 6.5 | 3082 | -42 | 
+| 2006-06-13 | 第61期本因坊戦挑戦手合七番勝負第4局 | Takao Shinji | Yamada Kimio | Lose | B+R | 6.5 | 3124 | 7 | 
+| 2006-06-08 | 第61期本因坊戦挑戦手合七番勝負第3局 | Yamada Kimio | Takao Shinji | Lose | W+R | 6.5 | 3117 | -9 | 
+| 2006-05-30 | 第61期本因坊戦挑戦手合七番勝負第2局 | Takao Shinji | Yamada Kimio | Win | W+R | 6.5 | 3126 | 29 | 
+| 2006-05-25 | 第45期十段戦予選 | Kono Rin | Yamada Kimio | Win | W+R | 6.5 | 3097 | 78 | 
+| 2006-05-09 | 第61期本因坊戦挑戦手合七番勝負第1局 | Yamada Kimio | Takao Shinji | Lose | W+R | 6.5 | 3019 | -23 | 
+| 2006-05-04 | 第31期名人戦リーグ | Kobayashi Satoru | Yamada Kimio | Win | W+R | 6.5 | 3042 | -1 | 
+| 2006-04-20 | 第31期名人戦リーグ | Yoda Norimoto | Yamada Kimio | Lose | B+0.5 | 6.5 | 3043 | -4 | 
+| 2006-04-13 | 第61期本因坊戦挑戦者決定プレーオフ | Yamada Kimio | Yoda Norimoto | Win | B+0.5 | 6.5 | 3047 | 11 | 
+| 2006-04-03 | 第61期本因坊戦挑戦者決定プレーオフ | Yamada Kimio | Hane Naoki | Win | B+R | 6.5 | 3036 | 17 | 
+| 2006-03-30 | 第61期本因坊戦リーグ | Yamada Kimio | Hane Naoki | Win | B+0.5 | 6.5 | 3019 | 14 | 
+| 2006-03-23 | 第31期棋聖戦予選 | Yamada Kimio | Iyama Yuta | Lose | W+R | 6.5 | 3005 | -25 | 
+| 2006-03-13 | 第31期名人戦リーグ | Yamada Kimio | Yamashita Keigo | Lose | W+R | 6.5 | 3030 | -31 | 
+| 2006-03-09 | 第61期本因坊戦リーグ | Yamada Kimio | Cho U | Win | B+R | 6.5 | 3061 | 55 | 
+| 2006-02-18 | 第25期NECカップ囲碁トーナメント戦準決勝 | Yamada Kimio | Kobayashi Satoru | Lose | W+6.5 | 6.5 | 3006 | 11 | 
+| 2006-02-09 | 第31期名人戦リーグ | Imamura Toshiya | Yamada Kimio | Win | W+4.5 | 6.5 | 2995 | -2 | 
+| 2006-02-02 | 第61期本因坊戦リーグ | Cho Sonjin | Yamada Kimio | Lose | B+2.5 | 6.5 | 2997 | -32 | 
+| 2006-01-19 | 第31期名人戦リーグ | Yamada Kimio | Takao Shinji | Lose | W+R | 6.5 | 3029 | -188 | 
+| 2006-01-14 | 第25期NECカップ囲碁トーナメント戦2回戦 | Miyazawa Goro | Yamada Kimio | Win | W+R | 6.5 | 3217 | 212 | 
+| 2006-01-12 | 第61期本因坊戦リーグ | Yamada Kimio | So Yokoku | Win | B+R | 6.5 | 3005 | -11 | 
+| 2005-12-22 | 第61期本因坊戦リーグ | Yamada Kimio | Yoda Norimoto | Lose | W+1.5 | 6.5 | 3016 | -242 | 
+| 2005-12-15 | 第54期王座戦予選 | Takao Shinji | Yamada Kimio | Lose | B+R | 6.5 | 3258 | 1 | 
+| 2005-12-08 | 第31期名人戦リーグ | Yamada Kimio | Ko Iso | Win | B+R | 6.5 | 3257 | -36 | 
+| 2005-11-26 | 第7回農心辛ラーメン杯世界囲碁最強戦第8戦 | Xie He | Yamada Kimio | Lose | B+R | 6.5 | 3293 | -27 | 
+| 2005-11-17 | 第61期本因坊戦リーグ | O Meien | Yamada Kimio | Win | W+5.5 | 6.5 | 3320 | 162 | 
+| 2005-11-10 | 第31期碁聖戦本戦1回戦 | Yamada Kimio | Yuki Satoshi | Lose | W+R | 6.5 | 3158 | -18 | 
+| 2005-10-27 | 第61期本因坊戦リーグ | O Rissei | Yamada Kimio | Win | W+R | 6.5 | 3176 | 111 | 
+| 2005-09-12 | 第61期本因坊戦予選 | Kobayashi Satoru | Yamada Kimio | Win | W+5.5 | 6.5 | 3065 | 23 | 
+| 2005-08-04 | 第30期名人戦リーグ | Yoda Norimoto | Yamada Kimio | Win | W+R | 6.5 | 3042 | 0 | 
+| 2005-07-28 | 第61期本因坊戦予選 | Yamada Kimio | Kono Rin | Win | B+R | 6.5 | 3042 | 18 | 
+| 2005-07-21 | 第30期名人戦リーグ | Ogata Masaki | Yamada Kimio | Win | W+R | 6.5 | 3024 | 34 | 
+| 2005-07-14 | 第53期王座戦2回戦 | Yamada Kimio | Ryu Shikun | Lose | W+0.5 | 6.5 | 2990 | 282 | 
+| 2005-06-17 | 第25期NECカップ囲碁トーナメント戦1回戦 | Yamada Kimio | Cho Chikun | Win | B+18.5 | 6.5 | 2708 | 21 | 
+| 2005-06-09 | 第30期名人戦リーグ | Yamada Kimio | Yamashita Keigo | Lose | W+R | 6.5 | 2687 | -91 | 
+| 2005-05-12 | 第30期名人戦リーグ | Yamada Kimio | Kobayashi Satoru | Win | B+5.5 | 6.5 | 2778 | -7 | 
+| 2005-04-28 | 第31期天元戦本戦2回戦 | Yamada Kimio | Ryu Shikun | Lose | W+R | 6.5 | 2785 | 86 | 
+| 2005-04-21 | 第53期王座戦1回戦 | Kobayashi Satoru | Yamada Kimio | Win | W+R | 6.5 | 2699 | 13 | 
+| 2005-04-14 | 第30期名人戦リーグ | Imamura Toshiya | Yamada Kimio | Lose | B+R | 6.5 | 2686 | -98 | 
+| 2005-03-10 | 第30期名人戦リーグ | Yamada Kimio | Cho Sonjin | Win | B+R | 6.5 | 2784 | -233 | 
+| 2005-02-24 | 第30期碁聖戦本戦3回戦 | Yamada Kimio | Cho Chikun | Lose | W+R | 6.5 | 3017 | -112 | 
+| 2005-02-17 | 第30期名人戦リーグ | Yamada Kimio | Sakai Hideyuki | Lose | W+2.5 | 6.5 | 3129 | -33 | 
+| 2005-02-10 | 第18回世界囲碁選手権富士通杯国内予選決勝 | Yamashiro Hiroshi | Yamada Kimio | Lose | B+0.5 | 6.5 | 3162 | -27 | 
+| 2005-02-03 | 第30期碁聖戦本戦2回戦 | Yamada Kimio | Yokota Shigeaki | Win | B+R | 6.5 | 3189 | 118 | 
+| 2004-12-23 | 第31期天元戦本戦1回戦 | Yamada Kimio | Hane Naoki | Win | B+1.5 | 6.5 | 3071 | 76 | 
+| 2004-12-16 | 第30期碁聖戦本戦1回戦 | Yamada Kimio | Morita Michihiro | Win | B+1.5 | 6.5 | 2995 | -55 | 
+| 2004-12-09 | 第30期名人戦リーグ | O Meien | Yamada Kimio | Lose | B+R | 6.5 | 3050 | -167 | 
+| 2004-10-18 | 第43期十段戦敗者復活戦2回戦 | Cho U | Yamada Kimio | Lose | B+R | 6.5 | 3217 | 96 | 
+| 2004-08-23 | 第43期十段戦本戦2回戦 | Yamada Kimio | Cho Chikun | Lose | W+0.5 | 6.5 | 3121 | -9 | 
+| 2004-08-12 | 第29期碁聖戦挑戦手合五番勝負第4局 | Yamada Kimio | Yoda Norimoto | Lose | W+4.5 | 6.5 | 3130 | -18 | 
+| 2004-08-05 | 第29期名人戦リーグ | Yamada Kimio | O Rissei | Win | B+R | 6.5 | 3148 | 37 | 
+| 2004-07-26 | 第29期碁聖戦挑戦手合五番勝負第3局 | Yoda Norimoto | Yamada Kimio | Lose | B+R | 6.5 | 3111 | -13 | 
+| 2004-07-22 | 第43期十段戦本戦1回戦 | Yamada Kimio | Rin Kaiho | Win | B+R | 6.5 | 3124 | -17 | 
+| 2004-07-15 | 第29期碁聖戦挑戦手合五番勝負第2局 | Yamada Kimio | Yoda Norimoto | Lose | W+R | 6.5 | 3141 | -3 | 
+| 2004-07-08 | 第29期名人戦リーグ | Yamada Kimio | Imamura Toshiya | Lose | W+R | 6.5 | 3144 | -69 | 
+| 2004-06-29 | 第29期碁聖戦挑戦手合五番勝負第1局 | Yoda Norimoto | Yamada Kimio | Win | W+0.5 | 6.5 | 3213 | 3 | 
+| 2004-06-10 | 第29期名人戦リーグ | Yamada Kimio | O Meien | Lose | W+2.5 | 6.5 | 3210 | 34 | 
+| 2004-05-28 | 第29期碁聖戦挑戦者決定戦 | Cho U | Yamada Kimio | Win | W+0.5 | 6.5 | 3176 | -19 | 
+| 2004-05-20 | 第29期名人戦リーグ | Yamada Kimio | Rin Kaiho | Win | B+3.5 | 6.5 | 3195 | 80 | 
+| 2004-05-06 | 第29期碁聖戦本戦準決勝 | O Rissei | Yamada Kimio | Win | W+R | 6.5 | 3115 | -65 | 
+| 2004-04-22 | 第30期天元戦本戦2回戦 | So Yokoku | Yamada Kimio | Lose | B+R | 6.5 | 3180 | -77 | 
+| 2004-04-08 | 第29期碁聖戦本戦3回戦 | Yamada Kimio | Imamura Toshiya | Win | B+R | 6.5 | 3257 | 15 | 
+| 2004-03-04 | 第29期碁聖戦本戦2回戦 | Yamada Kimio | Ogata Masaki | Win | B+R | 6.5 | 3242 | 202 | 
+| 2004-02-05 | 第29期名人戦リーグ | Cho Chikun | Yamada Kimio | Win | W+0.5 | 6.5 | 3040 | 26 | 
+| 2004-01-29 | 第30期天元戦本戦1回戦 | Yoda Norimoto | Yamada Kimio | Win | W+R | 6.5 | 3014 | 18 | 
+| 2004-01-22 | 第29期名人戦リーグ | Yamashita Keigo | Yamada Kimio | Win | W+R | 6.5 | 2996 | 12 | 
+| 2004-01-15 | 第29期碁聖戦本戦1回戦 | Yamada Kimio | Mimura Tomoyasu | Win | B+R | 6.5 | 2984 | 28 | 
+| 2004-01-08 | 第42期十段戦敗者復活戦決勝 | O Meien | Yamada Kimio | Lose | B+R | 6.5 | 2956 | -11 | 
+| 2003-12-25 | 第17回世界囲碁選手権富士通杯国内予選 | Hane Naoki | Yamada Kimio | Lose | B+R | 6.5 | 2967 | -33 | 
+| 2003-12-18 | 第29期名人戦リーグ | Cho U | Yamada Kimio | Lose | B+R | 6.5 | 3000 | -69 | 
+| 2003-12-11 | 第42期十段戦敗者復活戦4回戦 | Yoda Norimoto | Yamada Kimio | Win | W+R | 6.5 | 3069 | 1 | 
+| 2003-11-06 | 第42期十段戦敗者復活戦3回戦 | Yamashita Keigo | Yamada Kimio | Win | W+R | 6.5 | 3068 | 83 | 
+| 2003-10-30 | 第29期名人戦予選 | Takao Shinji | Yamada Kimio | Win | W+R | 6.5 | 2985 | -2735 | 
+| 2003-10-20 | 第42期十段戦敗者復活戦2回戦 | Yamada Kimio | Mimura Tomoyasu | Win | B+R | 6.5 | 5720 | 14 | 
+| 2003-10-15 | 第8期三星杯3回戦 | Park Yeonghun | Yamada Kimio | Lose | B+R | 6.5 | 5706 | -132 | 
+| 2003-10-11 | 第23期NECカップ囲碁トーナメント戦2回戦 | Yamada Kimio | Kobayashi Koichi | Lose | W+2.5 | 6.5 | 5838 | 3024 | 
+| 2003-09-05 | 第23期NECカップ囲碁トーナメント戦1回戦 | Kato Masao | Yamada Kimio | Win | W+13.5 | 6.5 | 2814 | 72 | 
+| 2003-08-29 | 第8期三星杯2回戦 | Jiang Zhujiu | Yamada Kimio | Win | W+1.5 | 6.5 | 2742 | 135 | 
+| 2003-08-27 | 第8期三星杯1回戦 | Yamada Kimio | Yu Bin | Win | B+R | 6.5 | 2607 | 212 | 
+| 2003-05-29 | 第42期十段戦1回戦 | Yamada Kimio | Cho Chikun | Lose | W+R | 6.5 | 2395 | -80 | 
+| 2003-05-15 | 第51期王座戦1回戦 | Yamada Kimio | Takao Shinji | Lose | W+0.5 | 6.5 | 2475 | -26 | 
+| 2003-02-27 | 第28期碁聖戦本戦3回戦 | Hane Naoki | Yamada Kimio | Lose | B+R | 6.5 | 2501 | 61 | 
+| 2003-01-30 | 第28期碁聖戦本戦2回戦 | Ushikubo Yoshitaka | Yamada Kimio | Win | W+R | 6.5 | 2440 | 2440 | 
+| 2002-12-12 | 第28期碁聖戦本戦1回戦 | Takanashi Seiken | Yamada Kimio | Win | W+R | 6.5 | missing | 0 | 
+| 2002-08-28 | 第7期三星杯1回戦 | Peng Quan | Yamada Kimio | Lose | B+R | 6.5 | missing | -2472 | 
+| 2002-03-07 | 第57期本因坊戦リーグ | Hane Naoki | Yamada Kimio | Lose | B+R | 6.5 | 2472 | -6244 | 
+| 2001-08-31 | 第6期三星杯2回戦 | Rui Naiwei | Yamada Kimio | Lose | B+0.5 | 6.5 | 8716 | -210 | 
+| 2001-08-29 | 第6期三星杯1回戦 | Choi Kyubyeong | Yamada Kimio | Win | W+3.5 | 6.5 | 8926 | 8926 | 
+| 2000-12-14 | 第5期三星杯決勝五番勝負第4局 | Yoo Changhyuk | Yamada Kimio | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-12-12 | 第5期三星杯決勝五番勝負第3局 | Yamada Kimio | Yoo Changhyuk | Win | B+R | 6.5 | missing | 0 | 
+| 2000-12-11 | 第5期三星杯決勝五番勝負第2局 | Yoo Changhyuk | Yamada Kimio | Lose | B+R | 6.5 | missing | 0 | 
+| 2000-11-23 | 第5期三星杯決勝五番勝負第1局 | Yamada Kimio | Yoo Changhyuk | Lose | W+R | 6.5 | missing | 0 | 
+| 2000-10-26 | 第5期三星杯準決勝 | Seo Bongsoo | Yamada Kimio | Win | W+1.5 | 6.5 | missing | 0 | 
+| 2000-10-04 | 第5期三星杯3回戦 | Rui Naiwei | Yamada Kimio | Win | W+R | 6.5 | missing | 0 | 
+| 2000-09-01 | 第5期三星杯2回戦 | Yamada Kimio |  | Win | B+R | 6.5 | missing | 0 | 
+| 2000-08-30 | 第5期三星杯1回戦 | Weon Seongjin | Yamada Kimio | Win | W+2.5 | 6.5 | missing | 0 | 
+| 2000-03-23 | 第1回農心辛ラーメン杯世界囲碁最強戦第10戦 | Chang Hao | Yamada Kimio | Lose | B+1.5 | 6.5 | missing | 0 | 
+| 1999-10-28 | 第4期三星杯準決勝 | Lee Changho | Yamada Kimio | Lose | B+R | 6.5 | missing | 0 | 
+| 1999-10-07 | 第4期三星杯3回戦 | Kim Seungjun | Yamada Kimio | Win | W+4.5 | 6.5 | missing | 0 | 
+| 1999-09-09 | 第4期三星杯2回戦 | Yoo Changhyuk | Yamada Kimio | Win | W+R | 6.5 | missing | 0 | 
+| 1999-09-07 | 第4期三星杯1回戦 | Mok Jinseok | Yamada Kimio | Win | W+R | 6.5 | missing | 0 | 
+| 1998-10-26 | 第3回LG杯世界棋王戦3回戦 | Shao Weigang | Yamada Kimio | Lose | B+R | 6.5 | missing | 0 | 
+| 1998-06-18 | 第3回LG杯世界棋王戦2回戦 | Yang Jaeho | Yamada Kimio | Win | W+R | 6.5 | missing | 0 | 
+| 1998-06-16 | 第3回LG杯世界棋王戦1回戦 | Yamada Kimio |  | Win | B+12.5 | 6.5 | missing | 0 | 
+| 1997-02-06 | 第35期十段戦挑戦者決定戦 | Yamada Kimio | Kato Masao | Lose | W+R | 6.5 | missing | 0 | 
+| 1996-11-07 | 第35期十段戦本戦勝者組決勝 | Yamada Kimio | Kobayashi Koichi | Win | B+R | 6.5 | missing | missing |
 
 
 

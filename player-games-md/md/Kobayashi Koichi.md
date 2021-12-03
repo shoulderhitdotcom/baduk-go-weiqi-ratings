@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-02 | 第48期天元戦予選 | Kobayashi Koichi | Terayama Rei | Win | B+R | 6.5 | 2758 | 43 | 
 | 2021-11-25 | 第70期王座戦予選 | Kobayashi Koichi | Oomote Takuto | Lose | W+R | 6.5 | 2715 | -105 | 
 | 2021-10-21 | 第61期十段戦予選 | Kato Atsushi | Kobayashi Koichi | Lose | B+1.5 | 6.5 | 2820 | 2820 | 
 | 2021-10-04 | 第70期王座戦予選 | Kobayashi Koichi | Nakamura Sumire | Win | B+5.5 | 6.5 | missing | -2760 | 

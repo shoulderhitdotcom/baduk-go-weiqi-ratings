@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-02 | 第48期天元戦予選 | Kobayashi Koichi | Terayama Rei | Lose | B+R | 6.5 | 2699 | -337 | 
+| 2021-10-14 | 第47期碁聖戦予選 | Terayama Rei | Takao Shinji | Lose | W+R | 6.5 | 3036 | 247 | 
+| 2021-09-23 | 第47期碁聖戦予選 | Terayama Rei | Cho Chikun | Win | B+3.5 | 6.5 | 2789 | -195 | 
+| 2021-09-02 | 第46期棋聖戦Cリーグ | Ida Atsushi | Terayama Rei | Lose | B+R | 6.5 | 2984 | -3 | 
 | 2021-08-26 | 第47期名人戦予選 | Yoda Norimoto | Terayama Rei | Lose | B+3.5 | 6.5 | 2987 | -444 | 
 | 2020-10-01 | 第45期棋聖戦Cリーグ | Terayama Rei | Hikosaka Naoto | Win | B+1.5 | 6.5 | 3431 | 504 | 
 | 2020-07-20 | 第27期阿含・桐山杯全日本早碁オープン戦1回戦 | Seto Taiki | Terayama Rei | Lose | B+R | 6.5 | 2927 | -39 | 

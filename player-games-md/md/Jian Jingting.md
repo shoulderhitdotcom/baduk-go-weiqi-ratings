@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-02 | 第2回UMC聯電杯早碁争覇戦準決勝  | Wang Yuanjun | Jian Jingting | Win | W+R | 6.5 | 3135 | 18 | 
 | 2021-11-26 | 第2回UMC聯電杯早碁争覇戦4回戦  | Yang Bowei | Jian Jingting | Win | W+R | 6.5 | 3117 | 2 | 
 | 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦 | Lin Xinwei | Jian Jingting | Win | W+3.5 | 6.5 | 3115 | -10 | 
 | 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Bai Xinhui | Jian Jingting | Win | W+R | 6.5 | 3125 | 36 | 

@@ -5,23 +5,24 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第27期阿含・桐山杯全日本早碁オープン戦予選 | Ito Kenryo | missing | W+R | 2020-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=99fUlhYCzOyAzM3oxhJKrw%3D%3D) | 
-| 第45期新人王戦1回戦 | missing | Ito Kenryo | B+R | 2020-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dy4UEu7syIeDcZ5fxL2mEw%3D%3D) | 
-| 第58期十段戦予選 | Ito Kenryo | Yamada Kimio | W+R | 2019-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fwgxp1QCALrrFvKXmSydQg%3D%3D) | 
-| 第44期新人王戦1回戦 | missing | Ito Kenryo | B+3.5 | 2019-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LgCDpwsqqgo2xCBBYr%2BUXQ%3D%3D) | 
-| 第44期棋聖戦予選 | Ito Kenryo | Sakai Hideyuki | W+R | 2018-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RZTDAtML2YrxGhcQ20RySw%3D%3D) | 
-| 第45期天元戦予選 | Ida Atsushi | Ito Kenryo | B+7.5 | 2018-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SH%2FZ9DLIPGBRDu88ZqLW0g%3D%3D) | 
-| 第43期新人王戦3回戦 | Yao Zhiteng | Ito Kenryo | B+R | 2018-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b4tMSs1F%2FoxGnBY8DxBTiA%3D%3D) | 
-| 第43期新人王戦1回戦 | Mutsuura Yuta | Ito Kenryo | W+0.5 | 2018-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E3IBB4H%2FgPRh6jhL%2BXtJjQ%3D%3D) | 
-| 第43期新人王戦1回戦 | Takeuchi Kousuke | Ito Kenryo | W+R | 2018-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EzNY1b%2FJ8T7RLsRERbrSkA%3D%3D) | 
-| 第8回おかげ杯囲碁トーナメント戦予選 | Ito Kenryo | Otani Naoki | W+R | 2017-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fJn45Py8Wz3H66LO3xFQjw%3D%3D) | 
-| 第8回おかげ杯囲碁トーナメント戦予選 | Ito Kenryo | Adachi Toshimasa | B+3.5 | 2017-02-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lGnUJbUjmc93nx2EROVHUw%3D%3D) | 
-| 第42期新人王戦　予選決勝 | Kuwabara Shun | Ito Kenryo | B+1.5 | 2016-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=65F9%2FvyUIWbZZo66LtWs0A%3D%3D) | 
-| 第7回おかげ杯囲碁トーナメント戦予選 | Ito Kenryo | Fujita Akihiko | W+R | 2016-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F7aF7Xc%2BIa4ZSLQNgGssvA%3D%3D) | 
-| 第41期新人王戦予選 | Utani Syunta | Ito Kenryo | W+R | 2015-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TpEvjsfK%2F9IuKwCUrsJQYw%3D%3D) | 
-| 第2回ゆうちょ杯囲碁ユース選手権1回戦 | Ito Kenryo | Kibe Natsuki | W+2.5 | 2015-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jeGeAgVAm7m9F3BdGBLuPw%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-02 | 第48期天元戦予選 | Ito Kenryo | Yamada Kimio | Lose | W+R | 6.5 | missing | 0 | 
+| 2020-03-02 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Ito Kenryo |  | Lose | W+R | 6.5 | missing | 0 | 
+| 2020-01-20 | 第45期新人王戦1回戦 |  | Ito Kenryo | Lose | B+R | 6.5 | missing | 0 | 
+| 2019-05-02 | 第58期十段戦予選 | Ito Kenryo | Yamada Kimio | Lose | W+R | 6.5 | missing | -2686 | 
+| 2019-01-10 | 第44期新人王戦1回戦 |  | Ito Kenryo | Lose | B+3.5 | 6.5 | 2686 | -164 | 
+| 2018-11-29 | 第44期棋聖戦予選 | Ito Kenryo | Sakai Hideyuki | Lose | W+R | 6.5 | 2850 | -94 | 
+| 2018-10-04 | 第45期天元戦予選 | Ida Atsushi | Ito Kenryo | Lose | B+7.5 | 6.5 | 2944 | -87 | 
+| 2018-07-02 | 第43期新人王戦3回戦 | Yao Zhiteng | Ito Kenryo | Lose | B+R | 6.5 | 3031 | 3031 | 
+| 2018-04-12 | 第43期新人王戦1回戦 | Mutsuura Yuta | Ito Kenryo | Win | W+0.5 | 6.5 | missing | 0 | 
+| 2018-03-12 | 第43期新人王戦1回戦 | Takeuchi Kousuke | Ito Kenryo | Win | W+R | 6.5 | missing | -2553 | 
+| 2017-02-21 | 第8回おかげ杯囲碁トーナメント戦予選 | Ito Kenryo | Otani Naoki | Lose | W+R | 6.5 | 2553 | 0 | 
+| 2017-02-21 | 第8回おかげ杯囲碁トーナメント戦予選 | Ito Kenryo | Adachi Toshimasa | Win | B+3.5 | 6.5 | 2553 | 2553 | 
+| 2016-12-15 | 第42期新人王戦　予選決勝 | Kuwabara Shun | Ito Kenryo | Lose | B+1.5 | 6.5 | missing | 0 | 
+| 2016-02-09 | 第7回おかげ杯囲碁トーナメント戦予選 | Ito Kenryo | Fujita Akihiko | Lose | W+R | 6.5 | missing | 0 | 
+| 2015-10-15 | 第41期新人王戦予選 | Utani Syunta | Ito Kenryo | Win | W+R | 6.5 | missing | 0 | 
+| 2015-08-18 | 第2回ゆうちょ杯囲碁ユース選手権1回戦 | Ito Kenryo | Kibe Natsuki | Lose | W+2.5 | 6.5 | missing | missing |
 
 
 

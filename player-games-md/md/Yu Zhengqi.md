@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-02 | 第77期本因坊戦リーグ | Yu Zhengqi | Hane Naoki | Win | B+R | 6.5 | 3303 | 3303 | 
+| 2021-11-11 | 第47期名人戦予選 | Yu Zhengqi | Fujita Akihiko | Win | B+R | 6.5 | missing | -3319 | 
 | 2021-10-21 | 第46期棋聖戦挑戦者決定トーナメント | Yu Zhengqi | Shibano Toramaru | Lose | W+R | 6.5 | 3319 | -22 | 
 | 2021-10-11 | 第77期本因坊戦リーグ | Yu Zhengqi | Hsu Chiayuan | Win | B+0.5 | 6.5 | 3341 | 18 | 
 | 2021-10-07 | 第47期名人戦予選 | Muramatsu Hiroki | Yu Zhengqi | Win | W+R | 6.5 | 3323 | -1 | 

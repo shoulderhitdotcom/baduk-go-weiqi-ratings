@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-02 | 第33期女流名人戦予選 | Nakamura Sumire | Hoshiai Shiho | Lose | B+R | 6.5 | 2818 | -53 | 
 | 2021-10-22 | 第40期女流本因坊戦挑戦手合五番勝負第3局  | Hoshiai Shiho | Fujisawa Rina | Lose | W+R | 6.5 | 2871 | -182 | 
 | 2021-10-14 | 第25期ドコモ杯女流棋聖戦1回戦 | Mukai Chiaki | Hoshiai Shiho | Lose | B+R | 6.5 | 3053 | 20 | 
 | 2021-10-08 | 第40期女流本因坊戦挑戦手合五番勝負第2局  | Fujisawa Rina | Hoshiai Shiho | Lose | B+R | 6.5 | 3033 | -78 | 

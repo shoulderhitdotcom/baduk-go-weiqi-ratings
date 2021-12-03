@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-02 | 第70期王座戦予選 | Watanabe Yuu | Hong Seokui | Lose | W+5.5 | 6.5 | missing | -2390 | 
 | 2021-10-14 | 第48期天元戦予選 | Yuki Satoshi | Watanabe Yuu | Lose | B+R | 6.5 | 2390 | -375 | 
 | 2021-10-06 | 第47期碁聖戦予選 | Watanabe Yuu | Imamura Toshiya | Lose | W+R | 6.5 | 2765 | -32 | 
 | 2021-08-18 | 第47期碁聖戦予選 | Watanabe Yuu | Hoshikawa Takumi | Win | B+R | 6.5 | 2797 | 142 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-02 | 第77期本因坊戦リーグ | Hsu Chiayuan | Motoki Katsuya | Win | B+R | 6.5 | 3371 | -30 | 
 | 2021-11-18 | 第47期碁聖戦予選 | Koyama Kuya | Hsu Chiayuan | Win | W+1.5 | 6.5 | 3401 | 3401 | 
 | 2021-11-12 | 第77期本因坊戦リーグ | Hsu Chiayuan | Ichiriki Ryo | Lose | W+R | 6.5 | missing | -3372 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Hsu Chiayuan | Fan Tingyu | Lose | W+R | 6.5 | 3372 | -18 | 

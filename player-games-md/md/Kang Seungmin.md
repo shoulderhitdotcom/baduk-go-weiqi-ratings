@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-02 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Lee Changseok | Lose | W+R | 6.5 | 3299 | -16 | 
+| 2021-11-26 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Kim Myounghoon | Lose | W+R | 6.5 | 3315 | -34 | 
+| 2021-11-19 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | Kang Seungmin | Lose | B+0.5 | 6.5 | 3349 | -6 | 
 | 2021-11-16 | 第7回国手山脈韓国国内トーナメント予選 | Kang Seungmin |  | Lose | W+R | 6.5 | 3355 | -18 | 
 | 2021-11-06 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Seungmin | Lee Donghoon | Lose | W+5.5 | 6.5 | 3373 | -6 | 
 | 2021-10-30 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Seungmin | Shin Minjun | Lose | W+R | 6.5 | 3379 | 3379 | 

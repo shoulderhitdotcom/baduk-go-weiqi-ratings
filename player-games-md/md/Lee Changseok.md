@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-02 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Lee Changseok | Win | W+R | 6.5 | 3507 | -4 | 
 | 2021-11-29 | 第3回大統領杯全国囲碁大会2回戦 | Hong Mujin | Lee Changseok | Lose | B+R | 6.5 | 3511 | 0 | 
 | 2021-11-29 | 第3回大統領杯全国囲碁大会1回戦 | Hong Seongji | Lee Changseok | Win | W+R | 6.5 | 3511 | 11 | 
 | 2021-11-25 | 2021-2022韓国囲碁リーグ | Lee Changho | Lee Changseok | Win | W+3.5 | 6.5 | 3500 | -58 | 

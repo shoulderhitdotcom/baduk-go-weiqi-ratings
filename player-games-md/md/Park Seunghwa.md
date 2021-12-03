@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-02 | 2021-2022韓国囲碁リーグ | Park Seunghwa | Shin Jinseo | Lose | W+R | 6.5 | 3010 | 16 | 
 | 2021-11-25 | 2021-2022韓国囲碁リーグ | Park Seunghwa | An Sungjoon | Win | B+1.5 | 6.5 | 2994 | -192 | 
 | 2021-05-05 | 第26回LG杯韓国予選 | Park Seunghwa | Hong Seongji | Lose | W+R | 6.5 | 3186 | -241 | 
 | 2021-02-21 | 2020-2021韓国囲碁リーグ | Lee Donghoon | Park Seunghwa | Lose | B+R | 6.5 | 3427 | -95 | 

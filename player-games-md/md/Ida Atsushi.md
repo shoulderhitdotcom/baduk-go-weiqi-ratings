@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-03 | 第47期名人戦リーグ  | Ida Atsushi | Ichiriki Ryo | Lose | W+R | 6.5 | 3299 | 41 | 
+| 2021-11-30 | 第62期王冠戦挑戦手合一番勝負 | Ida Atsushi | Otake Yu | Win | B+R | 6.5 | 3258 | -64 | 
 | 2021-11-18 | 第60期十段戦2回戦 | Sada Atsushi | Ida Atsushi | Lose | B+R | 6.5 | 3322 | 3322 | 
 | 2021-11-11 | 第47期名人戦予選  | Ida Atsushi | Xie Yimin | Win | B+2.5 | 6.5 | missing | -3289 | 
 | 2021-10-21 | 第47期名人戦予選 | Ida Atsushi | Koike Yoshihiro | Win | B+R | 6.5 | 3289 | -6 | 

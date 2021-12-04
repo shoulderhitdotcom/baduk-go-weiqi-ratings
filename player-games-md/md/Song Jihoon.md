@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-03 | 2021-2022韓国囲碁リーグ | Park Sangjin | Song Jihoon | Win | W+2.5 | 6.5 | 2940 | -12 | 
 | 2021-11-27 | 2021-2022韓国囲碁リーグ | Park Yeonghun | Song Jihoon | Lose | B+R | 6.5 | 2952 | -219 | 
 | 2021-11-20 | 2021-2022韓国囲碁リーグ | Song Jihoon | Ahn Kukhyun | Lose | W+R | 6.5 | 3171 | -44 | 
 | 2021-09-23 | 第7回国手山脈国際囲碁大会韓国予選 | Song Jihoon | Kim Seongjae | Lose | W+0.5 | 6.5 | 3215 | 17 | 

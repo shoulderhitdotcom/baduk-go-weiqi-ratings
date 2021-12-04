@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-03 | 2021-2022韓国囲碁リーグ | Park Sangjin | Song Jihoon | Lose | W+2.5 | 6.5 | 3273 | -8 | 
 | 2021-11-28 | 2021-2022韓国囲碁リーグ | Park Sangjin | Park Jinsol | Lose | W+0.5 | 6.5 | 3281 | -83 | 
 | 2021-11-19 | 2021-2022韓国囲碁リーグ | Park Sangjin | Cho Hanseung | Lose | W+R | 6.5 | 3364 | -156 | 
 | 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Park Sangjin | Wi Taewoong | Lose | W+R | 6.5 | 3520 | 104 | 

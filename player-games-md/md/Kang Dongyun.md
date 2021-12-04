@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-03 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Seol Hyunjun | Lose | W+R | 6.5 | 3440 | 8 | 
 | 2021-11-27 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Na Hyun | Win | B+R | 6.5 | 3432 | -51 | 
 | 2021-11-20 | 2021-2022韓国囲碁リーグ | An Sungjoon | Kang Dongyun | Win | W+R | 6.5 | 3483 | 24 | 
 | 2021-11-13 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Han Seungjoo | Kang Dongyun | Lose | B+R | 6.5 | 3459 | -23 | 

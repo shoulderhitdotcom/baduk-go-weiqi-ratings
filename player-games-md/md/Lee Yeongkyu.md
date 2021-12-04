@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-03 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Kim Jiseok | Lose | W+1.5 | 6.5 | 3138 | -10 | 
 | 2021-11-29 | 第3回大統領杯全国囲碁大会1回戦 | Lee Yeongkyu | Park Minkyu | Lose | W+0.5 | 6.5 | 3148 | -59 | 
 | 2021-11-27 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Kim Jinhyu | Lose | W+5.5 | 6.5 | 3207 | -53 | 
 | 2021-11-20 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Lee Changho | Win | B+1.5 | 6.5 | 3260 | 47 | 

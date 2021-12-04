@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-03 | 第47期名人戦リーグ  | Ida Atsushi | Ichiriki Ryo | Win | W+R | 6.5 | 3470 | 47 | 
 | 2021-11-25 | 第47期天元戦挑戦手合五番勝負第3局  | Ichiriki Ryo | Seki Kotaro | Lose | W+R | 6.5 | 3423 | -59 | 
 | 2021-11-16 | 第47期天元戦挑戦手合五番勝負第2局  | Seki Kotaro | Ichiriki Ryo | Win | W+R | 6.5 | 3482 | 3482 | 
 | 2021-11-12 | 第77期本因坊戦リーグ | Hsu Chiayuan | Ichiriki Ryo | Win | W+R | 6.5 | missing | -3486 | 

@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-05 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Donghoon | Kang Dongyun | Win | B+R | 6.5 | 3525 | 13 | 
+| 2021-12-04 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Yun Chanhee | Win | B+R | 6.5 | 3512 | 0 | 
+| 2021-11-26 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Shin Jinseo | Lose | W+R | 6.5 | 3512 | -52 | 
+| 2021-11-18 | 2021-2022韓国囲碁リーグ | Kim Jinhyu | Lee Donghoon | Lose | B+R | 6.5 | 3564 | 2 | 
 | 2021-11-06 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Seungmin | Lee Donghoon | Win | W+5.5 | 6.5 | 3562 | 12 | 
 | 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Zhao Chenyu | Lee Donghoon | Lose | B+R | 6.5 | 3550 | -4 | 
 | 2021-10-22 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Xie Ke | Lee Donghoon | Win | W+R | 6.5 | 3554 | 14 | 

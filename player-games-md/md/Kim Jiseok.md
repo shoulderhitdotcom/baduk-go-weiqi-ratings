@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Jiseok | Wi Taewoong | Lose | W+0.5 | 6.5 | 3537 | -13 | 
 | 2021-12-03 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Kim Jiseok | Win | W+1.5 | 6.5 | 3550 | 1 | 
 | 2021-11-30 | 第3回大統領杯全国囲碁大会決勝 | Kim Jiseok | Han Seungjoo | Lose | W+2.5 | 6.5 | 3549 | 0 | 
 | 2021-11-30 | 第3回大統領杯全国囲碁大会準決勝 | Kim Jiseok | Seol Hyunjun | Win | B+R | 6.5 | 3549 | 0 | 

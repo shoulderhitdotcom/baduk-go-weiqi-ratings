@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-06 | 第48期天元戦予選 | O Meien | Hirose Yuichi | Lose | B+R | 6.5 | 2997 | -20 | 
+| 2021-12-04 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦 |  | Hirose Yuichi | Win | W+R | 6.5 | 3017 | 101 | 
 | 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第2戦 | Hirose Yuichi | Chen Shiyuan | Lose | W+R | 6.5 | 2916 | 0 | 
 | 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第1戦 | Hirose Yuichi | Lin Lixiang | Win | B+R | 6.5 | 2916 | -15 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Park Sangjin | Hirose Yuichi | Lose | B+R | 6.5 | 2931 | 0 | 

@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-06 | 第48期天元戦予選 | O Meien | Hirose Yuichi | Win | B+R | 6.5 | 3016 | 318 | 
+| 2021-09-23 | 第46期棋聖戦Cリーグ | O Meien | Ko Iso | Win | B+R | 6.5 | 2698 | -205 | 
+| 2021-08-19 | 第60期十段戦予選 | O Meien | Mizokami Tomochika | Lose | W+R | 6.5 | 2903 | 3 | 
 | 2021-07-15 | 第47期名人戦予選 | Ueno Asami | O Meien | Lose | B+5.5 | 6.5 | 2900 | -38 | 
 | 2021-07-08 | 第46期棋聖戦Cリーグ | O Meien | Otake Yu | Lose | W+R | 6.5 | 2938 | -12 | 
 | 2021-06-24 | 第46期棋聖戦Cリーグ | Xie Yimin | O Meien | Win | W+R | 6.5 | 2950 | 67 | 
@@ -71,94 +74,50 @@
 | 2018-10-11 | 第57期十段戦2回戦 | O Meien | So Yokoku | Win | B+1.5 | 6.5 | 2716 | 16 | 
 | 2018-10-04 | 第45期天元戦予選 | Miyazaki Ryutaro | O Meien | Win | W+R | 6.5 | 2700 | -52 | 
 | 2018-08-23 | 第67期王座戦予選 | O Meien | So Yokoku | Lose | W+R | 7.5 | 2752 | 5 | 
-| 2018-08-11 | 阪急納涼囲碁まつり盤上のスターウォーズ | Takemiya Masaki | O Meien | Lose | B+R | 6.5 | 2747 | -9 | 
-| 2018-08-11 | 阪急納涼囲碁まつり盤上のスターウォーズ | Takemiya Masaki | O Meien | Lose | B+R | 6.5 | 2756 | -13 | 
-| 2018-08-09 | 第74期本因坊戦最終予選 | Mutsuura Yuta | O Meien | Lose | B+R | 6.5 | 2769 | -160 | 
-| 2018-08-09 | 第74期本因坊戦最終予選 | Mutsuura Yuta | O Meien | Lose | B+R | 6.5 | 2929 | 148 | 
-| 2018-07-26 | 第57期十段戦最終予選決勝 | Yuki Satoshi | O Meien | Win | W+R | 6.5 | 2781 | -132 | 
-| 2018-07-26 | 第57期十段戦最終予選決勝 | Yuki Satoshi | O Meien | Win | W+R | 6.5 | 2913 | 179 | 
-| 2018-07-12 | 第44期碁聖戦予選 | Hirose Yuichi | O Meien | Lose | B+R | 6.5 | 2734 | -101 | 
-| 2018-07-12 | 第44期碁聖戦予選 | Hirose Yuichi | O Meien | Lose | B+R | 6.5 | 2835 | -115 | 
-| 2018-07-05 | 第74期本因坊戦最終予選 | Nakamura Shinya | O Meien | Win | W+1.5 | 6.5 | 2950 | 199 | 
-| 2018-07-05 | 第74期本因坊戦最終予選 | Nakamura Shinya | O Meien | Win | W+1.5 | 6.5 | 2751 | -215 | 
-| 2018-06-28 | 第43期棋聖戦Bリーグ | Ishida Atsushi | O Meien | Win | W+R | 6.5 | 2966 | 245 | 
-| 2018-06-28 | 第43期棋聖戦Bリーグ | Ishida Atsushi | O Meien | Win | W+R | 6.5 | 2721 | -256 | 
-| 2018-06-14 | 第44期名人戦予選 | O Meien | Oomote Takuto | Lose | W+R | 6.5 | 2977 | 292 | 
-| 2018-06-14 | 第44期名人戦予選 | O Meien | Oomote Takuto | Lose | W+R | 6.5 | 2685 | -228 | 
-| 2018-06-07 | 第8回フマキラー囲碁マスターズカップ2回戦  | Cho Chikun | O Meien | Lose | B+2.5 | 6.5 | 2913 | 213 | 
-| 2018-06-07 | 第8回フマキラー囲碁マスターズカップ2回戦  | Cho Chikun | O Meien | Lose | B+2.5 | 6.5 | 2700 | -212 | 
-| 2018-06-04 | 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | O Meien | Mochizuki Kenichi | Lose | W+R | 6.5 | 2912 | 172 | 
-| 2018-06-04 | 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | O Meien | Mochizuki Kenichi | Lose | W+R | 6.5 | 2740 | -148 | 
-| 2018-05-31 | 第74期本因坊戦予選 | Suzuki Ayumi | O Meien | Win | W+R | 6.5 | 2888 | 95 | 
-| 2018-05-31 | 第74期本因坊戦予選 | Suzuki Ayumi | O Meien | Win | W+R | 6.5 | 2793 | -116 | 
-| 2018-05-24 | 第43期棋聖戦Bリーグ | O Meien | Cho Riyu | Win | B+R | 6.5 | 2909 | 101 | 
-| 2018-05-24 | 第43期棋聖戦Bリーグ | O Meien | Cho Riyu | Win | B+R | 6.5 | 2808 | -111 | 
-| 2018-05-03 | 第74期本因坊戦予選 | O Meien | Kaneko Maki | Win | B+R | 6.5 | 2919 | 153 | 
-| 2018-05-03 | 第74期本因坊戦予選 | O Meien | Kaneko Maki | Win | B+R | 6.5 | 2766 | -144 | 
-| 2018-04-05 | 第8回フマキラー囲碁マスターズカップ1回戦 | O Meien | Hane Yasumasa | Win | B+R | 6.5 | 2910 | 166 | 
-| 2018-04-05 | 第8回フマキラー囲碁マスターズカップ1回戦 | O Meien | Hane Yasumasa | Win | B+R | 6.5 | 2744 | -184 | 
-| 2018-03-29 | 第43期棋聖戦Bリーグ | Hane Naoki | O Meien | Win | W+0.5 | 6.5 | 2928 | 193 | 
-| 2018-03-29 | 第43期棋聖戦Bリーグ | Hane Naoki | O Meien | Win | W+0.5 | 6.5 | 2735 | -288 | 
-| 2018-03-08 | 第43期棋聖戦Bリーグ | Imamura Toshiya | O Meien | Win | W+R | 6.5 | 3023 | 408 | 
-| 2018-03-08 | 第43期棋聖戦Bリーグ | Imamura Toshiya | O Meien | Win | W+R | 6.5 | 2615 | -425 | 
-| 2018-02-01 | 第43期棋聖戦Bリーグ | O Meien | Yamashiro Hiroshi | Lose | W+R | 6.5 | 3040 | 551 | 
-| 2018-02-01 | 第43期棋聖戦Bリーグ | O Meien | Yamashiro Hiroshi | Lose | W+R | 6.5 | 2489 | -524 | 
-| 2017-12-07 | 第56期十段戦3回戦 | O Meien | Shida Tatsuya | Lose | W+3.5 | 6.5 | 3013 | 442 | 
-| 2017-12-07 | 第56期十段戦3回戦 | O Meien | Shida Tatsuya | Lose | W+3.5 | 6.5 | 2571 | -422 | 
-| 2017-11-23 | 第66期王座戦予選 | O Meien | Horimoto Mitsunari | Lose | W+R | 6.5 | 2993 | 454 | 
-| 2017-11-23 | 第66期王座戦予選 | O Meien | Horimoto Mitsunari | Lose | W+R | 6.5 | 2539 | -410 | 
-| 2017-10-12 | 第44期天元戦予選A | O Meien | Ko Iso | Lose | W+1.5 | 6.5 | 2949 | 324 | 
-| 2017-10-12 | 第44期天元戦予選A | O Meien | Ko Iso | Lose | W+1.5 | 6.5 | 2625 | -356 | 
-| 2017-10-05 | 第56期十段戦2回戦 | O Meien | Hatanaka Hoshinobu | Win | B+0.5 | 6.5 | 2981 | 365 | 
-| 2017-10-05 | 第56期十段戦2回戦 | O Meien | Hatanaka Hoshinobu | Win | B+0.5 | 6.5 | 2616 | -378 | 
-| 2017-09-28 | 第44期天元戦予選 | O Meien | Hoshino Masaki | Win | B+R | 6.5 | 2994 | 456 | 
-| 2017-09-28 | 第44期天元戦予選 | O Meien | Hoshino Masaki | Win | B+R | 6.5 | 2538 | -444 | 
-| 2017-08-31 | 第43期碁聖戦　予選A | Matsumoto Takehisa | O Meien | Lose | B+R | 6.5 | 2982 | 486 | 
-| 2017-08-31 | 第43期碁聖戦　予選A | Matsumoto Takehisa | O Meien | Lose | B+R | 6.5 | 2496 | -507 | 
-| 2017-08-24 | 第66期王座戦　予選B決勝 | Ogaki Yusaku | O Meien | Win | W+R | 6.5 | 3003 | 490 | 
-| 2017-08-24 | 第66期王座戦　予選B決勝 | Ogaki Yusaku | O Meien | Win | W+R | 6.5 | 2513 | -474 | 
-| 2017-08-17 | 第42期棋聖戦　Bリーグ2組7回戦 | O Meien | Kim Sujun | Win | B+R | 6.5 | 2987 | 482 | 
-| 2017-08-17 | 第42期棋聖戦　Bリーグ2組7回戦 | O Meien | Kim Sujun | Win | B+R | 6.5 | 2505 | -434 | 
-| 2017-08-10 | 第56期十段戦　最終予選決勝 | Koyama Kuya | O Meien | Win | W+1.5 | 6.5 | 2939 | 290 | 
-| 2017-08-10 | 第56期十段戦　最終予選決勝 | Koyama Kuya | O Meien | Win | W+1.5 | 6.5 | 2649 | -270 | 
-| 2017-07-27 | 第43期名人戦　予選A | O Meien | Akiyama Jiro | Lose | W+R | 6.5 | 2919 | 184 | 
-| 2017-07-27 | 第43期名人戦　予選A | O Meien | Akiyama Jiro | Lose | W+R | 6.5 | 2735 | -207 | 
-| 2017-07-20 | 第42期棋聖戦　Bリーグ2組6回戦 | Lee Ishu | O Meien | Lose | B+2.5 | 6.5 | 2942 | 227 | 
-| 2017-07-20 | 第42期棋聖戦　Bリーグ2組6回戦 | Lee Ishu | O Meien | Lose | B+2.5 | 6.5 | 2715 | -234 | 
-| 2017-07-13 | 第43期名人戦　予選B決勝 | Kato Atsushi | O Meien | Win | W+R | 6.5 | 2949 | 163 | 
-| 2017-07-13 | 第43期名人戦　予選B決勝 | Kato Atsushi | O Meien | Win | W+R | 6.5 | 2786 | -148 | 
-| 2017-07-06 | 第43期碁聖戦　予選B決勝 | Suzuki Shinji | O Meien | Win | W+R | 6.5 | 2934 | 164 | 
-| 2017-07-06 | 第43期碁聖戦　予選B決勝 | Suzuki Shinji | O Meien | Win | W+R | 6.5 | 2770 | -139 | 
-| 2017-07-03 | 第42期棋聖戦　Bリーグ2組5回戦 | Yu Zhengqi | O Meien | Win | W+R | 6.5 | 2909 | 133 | 
-| 2017-07-03 | 第42期棋聖戦　Bリーグ2組5回戦 | Yu Zhengqi | O Meien | Win | W+R | 6.5 | 2776 | -100 | 
-| 2017-06-29 | 第73期本因坊戦　最終予選第4局 | O Meien | Ichiriki Ryo | Lose | W+R | 6.5 | 2876 | 89 | 
-| 2017-06-29 | 第73期本因坊戦　最終予選第4局 | O Meien | Ichiriki Ryo | Lose | W+R | 6.5 | 2787 | -74 | 
-| 2017-06-15 | 第56期十段戦　最終予選 | Takei Takashi | O Meien | Win | W+R | 6.5 | 2861 | 183 | 
-| 2017-06-15 | 第56期十段戦　最終予選 | Takei Takashi | O Meien | Win | W+R | 6.5 | 2678 | -155 | 
-| 2017-06-08 | 第42期棋聖戦　Bリーグ2組4回戦 | O Meien | Han Zenki | Lose | W+R | 6.5 | 2833 | 152 | 
-| 2017-06-08 | 第42期棋聖戦　Bリーグ2組4回戦 | O Meien | Han Zenki | Lose | W+R | 6.5 | 2681 | -182 | 
-| 2017-05-18 | 第24期阿含・桐山杯　最終予選決勝 | O Meien | Rin Kanketsu | Lose | W+R | 6.5 | 2863 | 90 | 
-| 2017-05-18 | 第24期阿含・桐山杯　最終予選決勝 | O Meien | Rin Kanketsu | Lose | W+R | 6.5 | 2773 | -148 | 
-| 2017-05-04 | 第42期棋聖戦　Bリーグ2組3回戦 | Kobayashi Satoru | O Meien | Win | W+5.5 | 6.5 | 2921 | 133 | 
-| 2017-05-04 | 第42期棋聖戦　Bリーグ2組3回戦 | Kobayashi Satoru | O Meien | Win | W+5.5 | 6.5 | 2788 | -30 | 
-| 2017-04-20 | 第73期本因坊戦　予選A決勝 | O Meien | Koike Yoshihiro | Win | B+R | 6.5 | 2818 | -55 | 
-| 2017-04-20 | 第73期本因坊戦　予選A決勝 | O Meien | Koike Yoshihiro | Win | B+R | 6.5 | 2873 | 25 | 
-| 2017-04-13 | 第43期碁聖戦　予選B | Sotoyanagi Sebun | O Meien | Win | W+R | 6.5 | 2848 | 6 | 
-| 2017-04-13 | 第43期碁聖戦　予選B | Sotoyanagi Sebun | O Meien | Win | W+R | 6.5 | 2842 | -2 | 
-| 2017-04-06 | 第42期棋聖戦　Bリーグ2回戦 | Rin Kanketsu | O Meien | Lose | B+4.5 | 6.5 | 2844 | 60 | 
-| 2017-04-06 | 第42期棋聖戦　Bリーグ2回戦 | Rin Kanketsu | O Meien | Lose | B+4.5 | 6.5 | 2784 | -59 | 
-| 2017-03-30 | 第43期碁聖戦　予選C決勝 | O Meien | Anzai Nobuaki | Win | B+R | 6.5 | 2843 | 18 | 
-| 2017-03-30 | 第43期碁聖戦　予選C決勝 | O Meien | Anzai Nobuaki | Win | B+R | 6.5 | 2825 | 121 | 
-| 2017-03-09 | 第7回マスターズカップ　本戦1回戦 | O Rissei | O Meien | Lose | B+R | 6.5 | 2704 | 128 | 
-| 2017-03-09 | 第7回マスターズカップ　本戦1回戦 | O Rissei | O Meien | Lose | B+R | 6.5 | 2576 | -174 | 
-| 2017-03-02 | 第42期棋聖戦　Bリーグ1回戦 | O Meien | Cho Riyu | Win | B+1.5 | 6.5 | 2750 | 180 | 
-| 2017-03-02 | 第42期棋聖戦　Bリーグ1回戦 | O Meien | Cho Riyu | Win | B+1.5 | 6.5 | 2570 | -139 | 
-| 2017-02-16 | 第43期天元戦　本戦1回戦第16局 | Lee Ishu | O Meien | Lose | B+R | 6.5 | 2709 | 277 | 
-| 2017-02-16 | 第43期天元戦　本戦1回戦第16局 | Lee Ishu | O Meien | Lose | B+R | 6.5 | 2432 | -241 | 
-| 2017-01-26 | 第73期本因坊戦　予選A | O Meien | Kazama Jun | Win | B+R | 6.5 | 2673 | 260 | 
-| 2017-01-26 | 第73期本因坊戦　予選A | O Meien | Kazama Jun | Win | B+R | 6.5 | 2413 | -231 | 
-| 2017-01-19 | 第43期碁聖戦　予選C | O Meien | Takanashi Seiken | Win | B+R | 6.5 | 2644 | 411 | 
-| 2017-01-19 | 第43期碁聖戦　予選C | O Meien | Takanashi Seiken | Win | B+R | 6.5 | 2233 | -400 | 
+| 2018-08-11 | 阪急納涼囲碁まつり盤上のスターウォーズ | Takemiya Masaki | O Meien | Lose | B+R | 6.5 | 2747 | -22 | 
+| 2018-08-09 | 第74期本因坊戦最終予選 | Mutsuura Yuta | O Meien | Lose | B+R | 6.5 | 2769 | -12 | 
+| 2018-07-26 | 第57期十段戦最終予選決勝 | Yuki Satoshi | O Meien | Win | W+R | 6.5 | 2781 | 47 | 
+| 2018-07-12 | 第44期碁聖戦予選 | Hirose Yuichi | O Meien | Lose | B+R | 6.5 | 2734 | -216 | 
+| 2018-07-05 | 第74期本因坊戦最終予選 | Nakamura Shinya | O Meien | Win | W+1.5 | 6.5 | 2950 | -16 | 
+| 2018-06-28 | 第43期棋聖戦Bリーグ | Ishida Atsushi | O Meien | Win | W+R | 6.5 | 2966 | -11 | 
+| 2018-06-14 | 第44期名人戦予選 | O Meien | Oomote Takuto | Lose | W+R | 6.5 | 2977 | 64 | 
+| 2018-06-07 | 第8回フマキラー囲碁マスターズカップ2回戦  | Cho Chikun | O Meien | Lose | B+2.5 | 6.5 | 2913 | 1 | 
+| 2018-06-04 | 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | O Meien | Mochizuki Kenichi | Lose | W+R | 6.5 | 2912 | 24 | 
+| 2018-05-31 | 第74期本因坊戦予選 | Suzuki Ayumi | O Meien | Win | W+R | 6.5 | 2888 | -21 | 
+| 2018-05-24 | 第43期棋聖戦Bリーグ | O Meien | Cho Riyu | Win | B+R | 6.5 | 2909 | -10 | 
+| 2018-05-03 | 第74期本因坊戦予選 | O Meien | Kaneko Maki | Win | B+R | 6.5 | 2919 | 9 | 
+| 2018-04-05 | 第8回フマキラー囲碁マスターズカップ1回戦 | O Meien | Hane Yasumasa | Win | B+R | 6.5 | 2910 | -18 | 
+| 2018-03-29 | 第43期棋聖戦Bリーグ | Hane Naoki | O Meien | Win | W+0.5 | 6.5 | 2928 | -95 | 
+| 2018-03-08 | 第43期棋聖戦Bリーグ | Imamura Toshiya | O Meien | Win | W+R | 6.5 | 3023 | -17 | 
+| 2018-02-01 | 第43期棋聖戦Bリーグ | O Meien | Yamashiro Hiroshi | Lose | W+R | 6.5 | 3040 | 27 | 
+| 2017-12-07 | 第56期十段戦3回戦 | O Meien | Shida Tatsuya | Lose | W+3.5 | 6.5 | 3013 | 20 | 
+| 2017-11-23 | 第66期王座戦予選 | O Meien | Horimoto Mitsunari | Lose | W+R | 6.5 | 2993 | 44 | 
+| 2017-10-12 | 第44期天元戦予選A | O Meien | Ko Iso | Lose | W+1.5 | 6.5 | 2949 | -32 | 
+| 2017-10-05 | 第56期十段戦2回戦 | O Meien | Hatanaka Hoshinobu | Win | B+0.5 | 6.5 | 2981 | -13 | 
+| 2017-09-28 | 第44期天元戦予選 | O Meien | Hoshino Masaki | Win | B+R | 6.5 | 2994 | 12 | 
+| 2017-08-31 | 第43期碁聖戦　予選A | Matsumoto Takehisa | O Meien | Lose | B+R | 6.5 | 2982 | -21 | 
+| 2017-08-24 | 第66期王座戦　予選B決勝 | Ogaki Yusaku | O Meien | Win | W+R | 6.5 | 3003 | 16 | 
+| 2017-08-17 | 第42期棋聖戦　Bリーグ2組7回戦 | O Meien | Kim Sujun | Win | B+R | 6.5 | 2987 | 48 | 
+| 2017-08-10 | 第56期十段戦　最終予選決勝 | Koyama Kuya | O Meien | Win | W+1.5 | 6.5 | 2939 | 20 | 
+| 2017-07-27 | 第43期名人戦　予選A | O Meien | Akiyama Jiro | Lose | W+R | 6.5 | 2919 | -23 | 
+| 2017-07-20 | 第42期棋聖戦　Bリーグ2組6回戦 | Lee Ishu | O Meien | Lose | B+2.5 | 6.5 | 2942 | -7 | 
+| 2017-07-13 | 第43期名人戦　予選B決勝 | Kato Atsushi | O Meien | Win | W+R | 6.5 | 2949 | 15 | 
+| 2017-07-06 | 第43期碁聖戦　予選B決勝 | Suzuki Shinji | O Meien | Win | W+R | 6.5 | 2934 | 25 | 
+| 2017-07-03 | 第42期棋聖戦　Bリーグ2組5回戦 | Yu Zhengqi | O Meien | Win | W+R | 6.5 | 2909 | 33 | 
+| 2017-06-29 | 第73期本因坊戦　最終予選第4局 | O Meien | Ichiriki Ryo | Lose | W+R | 6.5 | 2876 | 15 | 
+| 2017-06-15 | 第56期十段戦　最終予選 | Takei Takashi | O Meien | Win | W+R | 6.5 | 2861 | 28 | 
+| 2017-06-08 | 第42期棋聖戦　Bリーグ2組4回戦 | O Meien | Han Zenki | Lose | W+R | 6.5 | 2833 | -30 | 
+| 2017-05-18 | 第24期阿含・桐山杯　最終予選決勝 | O Meien | Rin Kanketsu | Lose | W+R | 6.5 | 2863 | -58 | 
+| 2017-05-04 | 第42期棋聖戦　Bリーグ2組3回戦 | Kobayashi Satoru | O Meien | Win | W+5.5 | 6.5 | 2921 | 103 | 
+| 2017-04-20 | 第73期本因坊戦　予選A決勝 | O Meien | Koike Yoshihiro | Win | B+R | 6.5 | 2818 | -30 | 
+| 2017-04-13 | 第43期碁聖戦　予選B | Sotoyanagi Sebun | O Meien | Win | W+R | 6.5 | 2848 | 4 | 
+| 2017-04-06 | 第42期棋聖戦　Bリーグ2回戦 | Rin Kanketsu | O Meien | Lose | B+4.5 | 6.5 | 2844 | 1 | 
+| 2017-03-30 | 第43期碁聖戦　予選C決勝 | O Meien | Anzai Nobuaki | Win | B+R | 6.5 | 2843 | 139 | 
+| 2017-03-09 | 第7回マスターズカップ　本戦1回戦 | O Rissei | O Meien | Lose | B+R | 6.5 | 2704 | -46 | 
+| 2017-03-02 | 第42期棋聖戦　Bリーグ1回戦 | O Meien | Cho Riyu | Win | B+1.5 | 6.5 | 2750 | 41 | 
+| 2017-02-16 | 第43期天元戦　本戦1回戦第16局 | Lee Ishu | O Meien | Lose | B+R | 6.5 | 2709 | 36 | 
+| 2017-01-26 | 第73期本因坊戦　予選A | O Meien | Kazama Jun | Win | B+R | 6.5 | 2673 | 29 | 
+| 2017-01-19 | 第43期碁聖戦　予選C | O Meien | Takanashi Seiken | Win | B+R | 6.5 | 2644 | 11 | 
 | 2016-10-20 | 第65期王座戦予選 | O Meien | Suzuki Shinji | Lose | W+3.5 | 6.5 | 2633 | -28 | 
 | 2016-10-13 | 第43期天元戦予選 | O Meien | Takeuchi Kousuke | Win | B+R | 6.5 | 2661 | 11 | 
 | 2016-10-06 | 第55期十段戦1R | Hikosaka Naoto | O Meien | Lose | B+R | 6.5 | 2650 | -84 | 

@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-06 | 第25期女流棋聖戦挑戦者決定戦 | Suzuki Ayumi |  | Win | B+4.5 | 6.5 | 2978 | 14 | 
+| 2021-12-04 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦 | Suzuki Ayumi | Lin Yuting | Win | B+R | 6.5 | 2964 | 0 | 
+| 2021-12-04 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦 | Suzuki Ayumi | Bai Xinhui | Win | B+R | 6.5 | 2964 | 11 | 
 | 2021-11-25 | 第25期女流棋聖戦準決勝 | Suzuki Ayumi | Mukai Chiaki | Win | B+R | 6.5 | 2953 | 2953 | 
 | 2021-11-11 | 第25期女流棋聖戦2回戦 | Nakamura Sumire | Suzuki Ayumi | Win | W+0.5 | 6.5 | missing | -2923 | 
 | 2021-10-21 | 第48期天元戦予選 | Suzuki Ayumi | Cho U | Lose | W+R | 6.5 | 2923 | 4 | 

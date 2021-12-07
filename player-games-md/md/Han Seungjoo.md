@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-06 | 第27回GSカルテックス杯プロ棋戦予選 | Hong Mujin | Han Seungjoo | Lose | B+R | 6.5 | 3323 | 31 | 
+| 2021-11-30 | 第3回大統領杯全国囲碁大会決勝 | Kim Jiseok | Han Seungjoo | Win | W+2.5 | 6.5 | 3292 | 0 | 
+| 2021-11-30 | 第3回大統領杯全国囲碁大会準決勝 | Han Seungjoo | Hong Mujin | Win | B+R | 6.5 | 3292 | 7 | 
 | 2021-11-29 | 第3回大統領杯全国囲碁大会2回戦 | Han Seungjoo | Park Hamin | Win | B+R | 6.5 | 3285 | 26 | 
 | 2021-11-28 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Lee Wonyoung | Win | B+R | 6.5 | 3259 | -48 | 
 | 2021-11-21 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Shin Minjun | Lose | W+R | 6.5 | 3307 | 13 | 

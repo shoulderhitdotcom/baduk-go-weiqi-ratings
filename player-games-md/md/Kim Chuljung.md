@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-06 | 2021韓国シニア囲碁リーグ準プレーオフ | Kim Chuljung | Jimmy Cha | Lose | W+3.5 | 6.5 | 2473 | 94 | 
+| 2021-11-23 | 2021韓国シニア囲碁リーグ | Kim Chuljung | Choi Kyubyeong | Win | B+0.5 | 6.5 | 2379 | -50 | 
 | 2021-11-16 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Chuljung | Lose | B+13.5 | 6.5 | 2429 | -60 | 
 | 2021-11-02 | 2021韓国シニア囲碁リーグ | Kim Chuljung | Kim Soojang | Lose | W+R | 6.5 | 2489 | -38 | 
 | 2021-10-26 | 2021韓国シニア囲碁リーグ | Kim Chuljung | Yoo Changhyuk | Lose | W+R | 6.5 | 2527 | 72 | 

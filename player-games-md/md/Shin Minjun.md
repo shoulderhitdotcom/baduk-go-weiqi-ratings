@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-06 | 第27回GSカルテックス杯プロ棋戦予選 | Shin Minjun | Park Jaekeun | Win | B+R | 6.5 | 3465 | -4 | 
+| 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Junghwan | Shin Minjun | Lose | B+R | 6.5 | 3469 | 12 | 
 | 2021-11-30 | 第23回農心辛ラーメン杯世界囲碁最強戦第9戦  | Iyama Yuta | Shin Minjun | Lose | B+R | 6.5 | 3457 | -77 | 
 | 2021-11-22 | 第5回クラウン・ヘテ杯予選 | Shin Minjun |  | Win | B+0.5 | 6.5 | 3534 | 27 | 
 | 2021-11-21 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Shin Minjun | Win | W+R | 6.5 | 3507 | -15 | 

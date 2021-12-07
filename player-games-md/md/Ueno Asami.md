@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-06 | 第60期十段戦2回戦 | Yu Zhengqi | Ueno Asami | Lose | B+R | 6.5 | 3098 | -5 | 
 | 2021-12-02 | 第48期天元戦予選 | Ueno Asami | Takemiya Masaki | Win | B+4.5 | 6.5 | 3103 | -48 | 
 | 2021-11-21 | 第16回広島アルミ杯・若鯉戦決勝  | Ueno Asami | Nishi Takenobu | Win | B+R | 6.5 | 3151 | 0 | 
 | 2021-11-21 | 第16回広島アルミ杯・若鯉戦準決勝  | Ueno Asami | Mutsuura Yuta | Win | B+R | 6.5 | 3151 | 24 | 

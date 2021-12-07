@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-07 | 第27回GSカルテックス杯プロ棋戦予選 | Kim Seungjun | Lee Changseok | Lose | W+5.5 | 6.5 | 2873 | -19 | 
 | 2021-11-24 | 2021-2022フューチャーズリーグ | Kim Seungjun | Kim Miri | Win | B+0.5 | 6.5 | 2892 | 2892 | 
 | 2021-09-07 | 第15回GGオークション杯女流対シニア連勝対抗戦第14局 | Oh Yujin | Kim Seungjun | Lose | B+R | 6.5 | missing | -2882 | 
 | 2020-04-29 | 第3期韓国竜星戦8強戦 | Park Junghwan | Kim Seungjun | Lose | B+R | 6.5 | 2882 | 53 | 

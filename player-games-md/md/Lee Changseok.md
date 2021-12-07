@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-07 | 第27回GSカルテックス杯プロ棋戦予選 | Kim Seungjun | Lee Changseok | Win | W+5.5 | 6.5 | 3517 | -3 | 
 | 2021-12-06 | 第5回クラウン・ヘテ杯1回戦 | Lee Changseok |  | Win | B+R | 6.5 | 3520 | 13 | 
 | 2021-12-02 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Lee Changseok | Win | W+R | 6.5 | 3507 | -4 | 
 | 2021-11-29 | 第3回大統領杯全国囲碁大会2回戦 | Hong Mujin | Lee Changseok | Lose | B+R | 6.5 | 3511 | 0 | 

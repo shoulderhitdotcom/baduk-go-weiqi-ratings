@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-07 | 第5回クラウン・ヘテ杯1回戦 | Song Gyusang |  | Win | B+R | 6.5 | 3201 | -53 | 
+| 2021-12-04 | 2021-2022韓国囲碁リーグ | Song Gyusang | Ahn Kukhyun | Lose | W+R | 6.5 | 3254 | 9 | 
+| 2021-11-26 | 2021-2022韓国囲碁リーグ | Gon Jiwoo | Song Gyusang | Lose | B+5.5 | 6.5 | 3245 | 21 | 
+| 2021-11-18 | 2021-2022韓国囲碁リーグ | Song Gyusang | Na Hyun | Win | B+R | 6.5 | 3224 | -16 | 
 | 2021-11-09 | 第3回大統領杯全国囲碁大会予選 | Hyun Yoobin | Song Gyusang | Lose | B+1.5 | 6.5 | 3240 | -54 | 
 | 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Jiseok | Song Gyusang | Lose | B+R | 6.5 | 3294 | 64 | 
 | 2021-07-13 | 第23回農心杯韓国予選 | Lee Changho | Song Gyusang | Win | W+R | 6.5 | 3230 | -80 | 

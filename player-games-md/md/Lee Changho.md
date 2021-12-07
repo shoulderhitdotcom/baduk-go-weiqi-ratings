@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-07 | 第27回GSカルテックス杯プロ棋戦予選 | Lee Changho | Ko Keuntae | Win | B+R | 6.5 | 3159 | 10 | 
+| 2021-12-04 | 2021-2022韓国囲碁リーグ | Lee Changho | Kim Myounghoon | Win | B+R | 6.5 | 3149 | 16 | 
 | 2021-11-25 | 2021-2022韓国囲碁リーグ | Lee Changho | Lee Changseok | Lose | W+3.5 | 6.5 | 3133 | -68 | 
 | 2021-11-20 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Lee Changho | Lose | B+1.5 | 6.5 | 3201 | 9 | 
 | 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 | Seol Hyunjun | Lee Changho | Lose | B+R | 6.5 | 3192 | -7 | 

@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-08 | 2021韓国シニア囲碁リーグプレーオフ | An Kwanwuk | Paek Seongho | Lose | B+15.5 | 6.5 | 2493 | 40 | 
+| 2021-11-03 | 2021韓国シニア囲碁リーグ | Paek Seongho | Kim Dongmyeon | Win | B+R | 6.5 | 2453 | -122 | 
+| 2021-10-26 | 2021韓国シニア囲碁リーグ | Paek Seongho | Chang Suyeong | Lose | W+14.5 | 6.5 | 2575 | 14 | 
 | 2021-10-19 | 2021韓国シニア囲碁リーグ | Paek Seongho | Choi Kyubyeong | Lose | W+9.5 | 6.5 | 2561 | -17 | 
 | 2021-10-11 | 2021韓国シニア囲碁リーグ | Paek Seongho | Cho Daehyeon | Win | B+8.5 | 6.5 | 2578 | 17 | 
 | 2021-10-06 | 2021韓国シニア囲碁リーグ | Kim Soojang | Paek Seongho | Win | W+4.5 | 6.5 | 2561 | 54 | 

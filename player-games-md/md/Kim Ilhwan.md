@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-08 | 2021韓国シニア囲碁リーグプレーオフ | Yoo Changhyuk | Kim Ilhwan | Lose | B+14.5 | 6.5 | 2562 | 3 | 
+| 2021-12-07 | 2021韓国シニア囲碁リーグ準プレーオフ | Kim Ilhwan | Kim Chuljung | Win | B+R | 6.5 | 2559 | 3 | 
 | 2021-12-06 | 2021韓国シニア囲碁リーグ準プレーオフ | Seo Bongsoo | Kim Ilhwan | Lose | B+R | 6.5 | 2556 | -31 | 
 | 2021-11-15 | 2021韓国シニア囲碁リーグ | Kim Ilhwan | Oh Kyuchul | Win | B+1.5 | 6.5 | 2587 | 17 | 
 | 2021-11-01 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kim Ilhwan | Lose | B+5.5 | 6.5 | 2570 | 20 | 

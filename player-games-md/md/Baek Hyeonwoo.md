@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-08 | 第3期ソパルコサノル最高棋士決定戦予選 | Baek Hyeonwoo | Moon Minjong | Win | B+R | 6.5 | 3314 | -3 | 
+| 2021-12-05 | 第14回金寅国手杯プロ新鋭戦第3戦 |  | Baek Hyeonwoo | Win | W+R | 6.5 | 3317 | -4 | 
+| 2021-12-04 | 第14回金寅国手杯プロ新鋭戦第2戦 | Baek Hyeonwoo | Gon Jiwoo | Win | B+R | 6.5 | 3321 | 0 | 
+| 2021-12-04 | 第14回金寅国手杯プロ新鋭戦第1戦 |  | Baek Hyeonwoo | Lose | B+1.5 | 6.5 | 3321 | -13 | 
 | 2021-11-23 | 第3期ソパルコサノル最高棋士決定戦予選 | Baek Hyeonwoo | Cho Hanseung | Lose | W+2.5 | 6.5 | 3334 | -197 | 
 | 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Sedong | Baek Hyeonwoo | Win | W+R | 6.5 | 3531 | 3531 | 
 | 2021-10-04 | 第3期ソパルコサノル最高棋士決定戦予選 | Shin Jaeweon | Baek Hyeonwoo | Win | W+R | 6.5 | missing | -3386 | 

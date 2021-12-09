@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-08 | 第70期王座戦予選 | Seto Taiki | Fujii Shuya | Win | B+R | 6.5 | 3231 | 35 | 
 | 2021-12-02 | 第48期天元戦予選 | Seto Taiki |  | Win | B+R | 6.5 | 3196 | 44 | 
 | 2021-11-28 | 第2回関西囲碁オープントーナメントトップクラス決勝  | Seto Taiki | Murakawa Daisuke | Win | B+0.5 | 6.5 | 3152 | -25 | 
 | 2021-11-17 | 第66期関西棋院第一位決定戦1回戦 | Kurahashi Masayuki | Seto Taiki | Win | W+R | 6.5 | 3177 | 39 | 

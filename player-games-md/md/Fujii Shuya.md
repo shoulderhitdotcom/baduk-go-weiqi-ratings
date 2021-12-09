@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-08 | 第70期王座戦予選 | Seto Taiki | Fujii Shuya | Lose | B+R | 6.5 | 2832 | 19 | 
 | 2021-11-10 | 第70期王座戦予選 | Yukawa Mitsuhisa | Fujii Shuya | Win | W+2.5 | 6.5 | 2813 | 16 | 
 | 2021-09-29 | 第48期天元戦予選 | Murakawa Daisuke | Fujii Shuya | Lose | B+R | 6.5 | 2797 | -15 | 
 | 2021-09-08 | 第47期碁聖戦予選 | Kiyonari Tetsuya | Fujii Shuya | Lose | B+R | 6.5 | 2812 | -127 | 

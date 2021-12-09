@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-08 | 2021韓国シニア囲碁リーグプレーオフ | An Kwanwuk | Paek Seongho | Win | B+15.5 | 6.5 | 2646 | 70 | 
+| 2021-12-07 | 2021韓国シニア囲碁リーグ準プレーオフ | Seo Bongsoo | An Kwanwuk | Win | W+R | 6.5 | 2576 | 2 | 
 | 2021-12-06 | 2021韓国シニア囲碁リーグ準プレーオフ | An Kwanwuk | Chang Suyeong | Win | B+R | 6.5 | 2574 | 20 | 
 | 2021-11-15 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Kim Soojang | Lose | W+R | 6.5 | 2554 | 77 | 
 | 2021-11-01 | 2021韓国シニア囲碁リーグ | An Kwanwuk | Park Seungmun | Win | B+R | 6.5 | 2477 | -35 | 

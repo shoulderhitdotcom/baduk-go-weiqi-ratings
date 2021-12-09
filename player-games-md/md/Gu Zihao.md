@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-08 | 第22期阿含・桐山杯日中決戦  | Gu Zihao | Hsu Chiayuan | Win | B+R | 7.5 | 3689 | 34 | 
 | 2021-12-06 | 第22期阿含・桐山杯中国早碁オープン戦決勝 | Huang Yunsong | Gu Zihao | Win | W+R | 7.5 | 3655 | 16 | 
 | 2021-11-24 | 第22期阿含・桐山杯中国早碁オープン戦準決勝 | Gu Zihao | Zhao Chenyu | Win | B+R | 7.5 | 3639 | 6 | 
 | 2021-11-23 | 第22期阿含・桐山杯中国早碁オープン戦2回戦 | Tuo Jiaxi | Gu Zihao | Win | W+R | 7.5 | 3633 | -60 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-08 | 第27回GSカルテックス杯プロ棋戦予選 | Park Hamin | Ahn Kukhyun | Lose | B+R | 6.5 | 3157 | 30 | 
+| 2021-12-04 | 2021-2022韓国囲碁リーグ | Song Gyusang | Ahn Kukhyun | Win | W+R | 6.5 | 3127 | 50 | 
 | 2021-11-25 | 2021-2022韓国囲碁リーグ | Ahn Kukhyun | Park Geunho | Lose | W+R | 6.5 | 3077 | -98 | 
 | 2021-11-20 | 2021-2022韓国囲碁リーグ | Song Jihoon | Ahn Kukhyun | Win | W+R | 6.5 | 3175 | 150 | 
 | 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Ahn Kukhyun | Hong Mujin | Lose | W+3.5 | 6.5 | 3025 | -63 | 

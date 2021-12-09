@@ -7,6 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-09 | 第27回GSカルテックス杯プロ棋戦予選 | Kang Dongyun | Choi Jaeyoung | Win | W+R | 6.5 | 3421 | 53 | 
+| 2021-12-04 | 2021-2022韓国囲碁リーグ | An Sungjoon | Choi Jaeyoung | Win | W+R | 6.5 | 3368 | -9 | 
+| 2021-11-26 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Choi Jaeyoung | Lose | B+0.5 | 6.5 | 3377 | -8 | 
+| 2021-11-18 | 2021-2022韓国囲碁リーグ | Choi Jaeyoung | Park Yeonghun | Lose | W+R | 6.5 | 3385 | -98 | 
 | 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Hong Mujin | Choi Jaeyoung | Lose | B+R | 6.5 | 3483 | 73 | 
 | 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Choi Jaeyoung | An Sungjoon | Win | B+R | 6.5 | 3410 | 26 | 
 | 2021-09-08 | 第3期ソパルコサノル最高棋士決定戦予選 | Choi Jaeyoung | Na Hyun | Win | B+0.5 | 6.5 | 3384 | -28 | 

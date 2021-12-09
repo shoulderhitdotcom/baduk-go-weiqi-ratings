@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-09 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第6戦 | Xu Yidi | Yu Zhiying | Win | W+R | 7.5 | 3197 | 3 | 
 | 2021-12-04 | 第4回呉清源杯世界女子囲碁選手権決勝三番勝負第3局 | Yu Zhiying | Choi Jeong | Lose | W+R | 7.5 | 3194 | 6 | 
 | 2021-12-03 | 第4回呉清源杯世界女子囲碁選手権決勝三番勝負第2局 | Choi Jeong | Yu Zhiying | Lose | B+R | 7.5 | 3188 | 3 | 
 | 2021-12-02 | 第4回呉清源杯世界女子囲碁選手権決勝三番勝負第1局 | Yu Zhiying | Choi Jeong | Win | B+R | 7.5 | 3185 | 20 | 

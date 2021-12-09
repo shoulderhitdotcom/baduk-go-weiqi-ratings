@@ -5,423 +5,428 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第77期本因坊戦予選 | Cho Sonjin | Fujita Akihiko | B+1.5 | 2021-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GIDYwW%2ByCQHlI%2FdE76qfsw%3D%3D) | 
-| 第46期棋聖戦予選 | Mizokami Tomochika | Cho Sonjin | B+3.5 | 2021-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kqngI61HAeoLEW2OX62IYg%3D%3D) | 
-| 第77期本因坊戦予選 | Cho Sonjin | Ryu Shikun | B+3.5 | 2021-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KCQuKX1D3YJKbBMB6bJ%2BjQ%3D%3D) | 
-| 第69期王座戦予選 | Cho Sonjin | Chang Rueijie | W+R | 2021-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LsmA40Y07yWZ5VEx4ycPeg%3D%3D) | 
-| 第69期王座戦予選 | Kobayashi Satoru | Cho Sonjin | W+1.5 | 2021-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1kX9cZ6EDxzswwRXmXjC6w%3D%3D) | 
-| 第47期天元戦予選 | Cho Sonjin | Suzuki Shinji | W+1.5 | 2020-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uJI93reG8Y6qye0fAgp2OA%3D%3D) | 
-| 第47期天元戦予選 | Cho Sonjin | Uchida Shuhei | B+R | 2020-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JX%2Bj%2FrTdMOEPWfJukDaZ6g%3D%3D) | 
-| 第46期碁聖戦予選 | Hirata Tomoya | Cho Sonjin | W+1.5 | 2020-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NTt9Ero%2BvP8fLdcF%2FqQFiQ%3D%3D) | 
-| 第46期碁聖戦予選 | Yao Zhiteng | Cho Sonjin | W+0.5 | 2020-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M9tG5teDgpeI5ePDk6vbcA%3D%3D) | 
-| 第59期十段戦予選 | Cho Sonjin | Sun Zhe | W+R | 2020-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mHATaGDN0gPjnxmlGYoO6A%3D%3D) | 
-| 第46期碁聖戦予選 | Cho Sonjin | Lee Ishu | B+R | 2020-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=93B4b5SbOdrsvktiQLKOcw%3D%3D) | 
-| 第59期十段戦予選 | Cho Sonjin | Miyazawa Goro | B+R | 2020-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hrpekNZvT1HI%2FjdIZ5UZTg%3D%3D) | 
-| 第59期十段戦予選 | Cho Sonjin | Ogaki Yusaku | B+R | 2020-06-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yeICpXiW6Yy4Siq4sU9cNQ%3D%3D) | 
-| 第46期名人戦予選 | Cho Sonjin | Yoda Norimoto | W+R | 2020-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HiEU%2FohO2YNXE99fieKwnQ%3D%3D) | 
-| 第46期天元戦2回戦 | Nishi Takenobu | Cho Sonjin | B+0.5 | 2020-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i2P%2FO4KjakYoYFCniW%2F42A%3D%3D) | 
-| 第46期名人戦予選 | Cho Sonjin | Tajiri Yuto | B+R | 2020-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0G8p%2FPUpTpa52kOOIGzlIg%3D%3D) | 
-| 第76期本因坊戦予選 | Tsuruyama Atsushi | Cho Sonjin | B+5.5 | 2020-02-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gcK2UmO8nw%2Fga7baqwqA1g%3D%3D) | 
-| 第46期天元戦1回戦 | Anzai Nobuaki | Cho Sonjin | W+R | 2020-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HQ8VUbPcw72P%2FkI76P6VUQ%3D%3D) | 
-| 第45期棋聖戦ファーストトーナメント予選 | missing | Cho Sonjin | B+0.5 | 2019-12-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sc99q4aHGCFs%2BboIchRt0g%3D%3D) | 
-| 第76期本因坊戦予選 | Kenmochi Joe | Cho Sonjin | W+R | 2019-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G1fX4NLZ9ombLUTRHQTUhQ%3D%3D) | 
-| 第46期天元戦予選 | Ko Iso | Cho Sonjin | W+R | 2019-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P%2Bx0efQk6MinM5P6cVMauA%3D%3D) | 
-| 第45期棋聖戦ファーストトーナメント予選 | Cho Sonjin | Nishimura Keiji | B+R | 2019-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cKlyTiaJtzqiVXy2GyOhfA%3D%3D) | 
-| 第46期天元戦予選 | Cho Sonjin | Ryu Shikun | B+R | 2019-10-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LahF7J%2FSBnOFvxSyFvN5Yg%3D%3D) | 
-| 第68期王座戦予選 | Cho Sonjin | Ryu Shikun | W+R | 2019-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fp2KXNNovuNFqc6oVDzNUw%3D%3D) | 
-| 第68期王座戦予選 | Shiraishi Yuichi | Cho Sonjin | W+R | 2019-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=phXzxXV696PIgPx54f1Y9A%3D%3D) | 
-| 第24回三星火災杯世界囲碁マスターズ1回戦 | Cho Sonjin | Tao Xinran | W+R | 2019-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p8kxyHD3tlVh0g41Zaudrg%3D%3D) | 
-| 第45期碁聖戦予選 | Cho Sonjin | Cho Riyu | W+R | 2019-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yGtWSeEmAhtVVltyDKlRLw%3D%3D) | 
-| 第45期名人戦予選 | Koyama Kuya | Cho Sonjin | B+R | 2019-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=d6KsMHmM2j1OIJTPD6hWWw%3D%3D) | 
-| 第68期王座戦予選 | Izawa Akino | Cho Sonjin | W+R | 2019-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6bFYzOZElvESUCOwkXVNRA%3D%3D) | 
-| 第58期十段戦予選 | Cho Sonjin | Ohashi Hirofumi | W+R | 2019-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bMnYSUCM5owJ8C%2FCxkbxMg%3D%3D) | 
-| 第45期名人戦予選 | Cho Sonjin | Mizuma Toshifumi | B+3.5 | 2019-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7x7OpM0Gt1tkv8m7Y8hW4g%3D%3D) | 
-| 第45期名人戦予選 | Cho Sonjin | Tsuruyama Atsushi | B+R | 2019-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UNWbxzPnoqKUfNFMSbvQ5w%3D%3D) | 
-| 第75期本因坊戦予選 | Yokotsuka Riki | Cho Sonjin | B+R | 2019-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l3RNPbgXFH9olMYWKDdq%2BQ%3D%3D) | 
-| 第45期名人戦予選 | Cho Sonjin | Ando Kazushige | B+R | 2019-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kpqAnQWvEB%2FzX8k9StawZQ%3D%3D) | 
-| 第44期棋聖戦ファーストトーナメント予選 | Cho Sonjin | Mochizuki Kenichi | W+R | 2019-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=faeQyDuoN61YBumu84BuDg%3D%3D) | 
-| 第44期棋聖戦予選 | Cho Sonjin | Mitani Tetsuya | B+R | 2019-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oGrhNOwx5nNsLbwixba9ng%3D%3D) | 
-| 第3回ワールド碁チャンピオンシップ国際予選準決勝 | Cho Sonjin | Yuki Satoshi | W+6.5 | 2019-01-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EvbpX2h7SF7CV0fDFQfaIw%3D%3D) | 
-| 第44期棋聖戦ファーストトーナメント予選 | Cho Sonjin | Kuo Chyoching | B+R | 2019-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hrvrsU%2FYPqOteIqnRtgF0g%3D%3D) | 
-| 第44期棋聖戦ファーストトーナメント予選 | Cho Sonjin | Kato Atsushi | B+0.5 | 2018-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qfXaYWtGSMHDCQsc56D6Jg%3D%3D) | 
-| 第45期天元戦予選 | Takeuchi Kousuke | Cho Sonjin | B+2.5 | 2018-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nLfjX%2FTHjZ5uogXPanJlgw%3D%3D) | 
-| 第67期王座戦予選 | Cho Sonjin | Tsuruyama Atsushi | W+R | 2018-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mHsgg7X5FxtexnUuvqIRVg%3D%3D) | 
-| 第45期天元戦予選 | Cho Sonjin | Koyama Mitsuru | B+R | 2018-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xA%2Bv6HW24hwOtUO12Ug%2BHQ%3D%3D) | 
-| 第44期碁聖戦予選 | Cho Sonjin | Kim Sujun | W+3.5 | 2018-09-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0uM9hR%2FPzEOEauhEW47fsQ%3D%3D) | 
-| 第44期碁聖戦予選 | Cho Sonjin | Mitani Tetsuya | B+R | 2018-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zrEFuPxcMmJf4enCAyF%2FTw%3D%3D) | 
-| 第43期棋聖戦Cリーグ | Komatsu Hideki | Cho Sonjin | B+R | 2018-08-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AJJQcmDqS9eDS4tvOuPKkg%3D%3D) | 
-| 第44期碁聖戦予選 | Komatsu Hideki | Cho Sonjin | W+R | 2018-08-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j0hZIevCGXuAhMqfSRUNiw%3D%3D) | 
-| 第43期棋聖戦Cリーグ | Nishi Takenobu | Cho Sonjin | B+R | 2018-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n9SsHJKidMfOlrZUGx8%2Bog%3D%3D) | 
-| 第74期本因坊戦予選 | Cho Sonjin | Ichiriki Ryo | W+R | 2018-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mw%2ButS7OfBqdgZMorQzKpw%3D%3D) | 
-| 第44期名人戦予選 | Cho Sonjin | Koike Yoshihiro | W+9.5 | 2018-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=prwx3ahzfPh9M31msGEh%2Bg%3D%3D) | 
-| 第57期十段戦最終予選 | Adachi Toshimasa | Cho Sonjin | B+7.5 | 2018-05-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ltUDo5UkchnvhFDrxabbfw%3D%3D) | 
-| 第43期棋聖戦Cリーグ | Cho Sonjin | Han Zenki | W+R | 2018-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JUBVsMw8saPiESt8rUbAGQ%3D%3D) | 
-| 第74期本因坊戦予選 | Cho Sonjin | Horimoto Mitsunari | B+R | 2018-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z6qi1LcR%2B6c1ac9lIIdIEg%3D%3D) | 
-| 第43期棋聖戦Cリーグ | Takashima Yugo | Cho Sonjin | W+R | 2018-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r4wKOcK3bX7R9mjJvt%2BMuA%3D%3D) | 
-| 第57期十段戦予選 | Yao Zhiteng | Cho Sonjin | W+R | 2018-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yPmg92TniVW4zqJQ6JWCag%3D%3D) | 
-| 第43期棋聖戦ファーストトーナメント予選 | Kono Takashi | Cho Sonjin | W+R | 2018-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iDO6suna2624S0rmvEDm9w%3D%3D) | 
-| 第66期王座戦予選 | Cho Sonjin | Kobayashi Satoru | W+R | 2018-02-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uhTNDXM6Q5vv9Rzy2aIsOw%3D%3D) | 
-| 第43期棋聖戦ファーストトーナメント予選 | Cho Sonjin | Takanashi Seiken | B+R | 2018-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kUD9GQ2pjTPP6c0qQtr%2FKQ%3D%3D) | 
-| 第57期十段戦予選 | Cho Sonjin | Obuchi Kotaro | B+R | 2018-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=el866qG%2BfHOHgvcis%2Boczw%3D%3D) | 
-| 第66期王座戦予選 | Cho Sonjin | Cho Chikun | B+R | 2017-12-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S%2BMWZR6pCc7QhcalX%2FrRMw%3D%3D) | 
-| 第43期棋聖戦ファーストトーナメント予選 | Nobuta Shigehito | Cho Sonjin | W+R | 2017-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zFLu4%2BeKLGh%2FeJJk1a1zmg%3D%3D) | 
-| 第43期棋聖戦ファーストトーナメント予選 | Izumitani Hideo | Cho Sonjin | W+R | 2017-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UXRjH%2BwGPEKr1542JgOgHA%3D%3D) | 
-| 第44期天元戦予選 | Tsuneishi Takashi | Cho Sonjin | B+R | 2017-10-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wDr5UK5Nm2E9iHM0cMWuyw%3D%3D) | 
-| 第44期天元戦予選 | Yo Kaei | Cho Sonjin | W+R | 2017-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dvQraL6QKpnC82TuZW4YUA%3D%3D) | 
-| 56期十段戦予選決勝 | Cho Sonjin | Ida Atsushi | W+R | 2017-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eRVI%2FaybV5YakPS6gtJ0MQ%3D%3D) | 
-| 第43期碁聖戦　予選A | Kim Sujun | Cho Sonjin | B+R | 2017-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7r%2FTJxayHbaTE9ipl%2BPQlQ%3D%3D) | 
-| 第43期名人戦　予選A | Cho Sonjin | Anzai Nobuaki | W+13.5 | 2017-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AVSByM1FpEhlJQh%2FrwIHGQ%3D%3D) | 
-| 第73期本因坊戦　最終予選第3局 | Hsu Chiayuan | Cho Sonjin | B+2.5 | 2017-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W9dd%2FiLsMAyup8TW79WNYg%3D%3D) | 
-| 第42期棋聖戦　Cリーグ3回戦 | Cho Sonjin | Suzuki Shinji | W+R | 2017-06-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mX%2Bmo5cDnrwQrLRacUTrCg%3D%3D) | 
-| 第56期十段戦　最終予選 | Yamada Kimio | Cho Sonjin | W+R | 2017-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FCTPWwplyi1ugYpMfaZK5Q%3D%3D) | 
-| 第24期阿含・桐山杯　最終予選決勝 | Cho Sonjin | Shibano Toramaru | W+2.5 | 2017-05-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zlr9PZw9v6kOfNw%2F80p2wQ%3D%3D) | 
-| 第42期棋聖戦　Cリーグ2回戦 | Onishi Ryuhei | Cho Sonjin | B+R | 2017-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j9irE%2FbKsCgqWmVvKLypnA%3D%3D) | 
-| 第65回NHK杯テレビ囲碁トーナメント戦1回戦第7局 | Cho Sonjin | Fujisawa Rina | B+R | 2017-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F3z2MwAXISNOV9krGJhwFw%3D%3D) | 
-| 第42期棋聖戦リーグ戦C組 | missing | Cho Sonjin | B+3.5 | 2017-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AkDxMyFYG1r%2FogchW2mE2A%3D%3D) | 
-| 第73期本因坊戦　予選A決勝 | Ogaki Yusaku | Cho Sonjin | W+R | 2017-04-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GG%2Brxmt4RphtOuWj4SaXTA%3D%3D) | 
-| 第56期十段戦　予選A決勝 | Cho Sonjin | Numadate Sakiya | B+2.5 | 2017-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8iHMtSEtNviaWjKQTF74Fw%3D%3D) | 
-| 第73期本因坊戦　予選A | Numadate Sakiya | Cho Sonjin | W+R | 2017-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wjhUD%2BkN8ZTab94b1MAqwg%3D%3D) | 
-| 第65期王座戦　最終予選 | Ishii Kunio | Cho Sonjin | B+4.5 | 2017-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tX43sEfWkEz36ss%2Bg3J7kA%3D%3D) | 
-| 第56期十段戦　予選A | Cho Sonjin | Ito Masashi | B+5.5 | 2017-01-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k30NaK2UtxqOp1rXxOWaPA%3D%3D) | 
-| 第65期王座戦　予選A決勝 | Yamada Shinji | Cho Sonjin | W+R | 2016-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7jzwCu4eCGcpnFbfFzv2cA%3D%3D) | 
-| 第43期天元戦　予選A決勝 | Cho Sonjin | Motoki Katsuya | W+R | 2016-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FBxYykSfZ7uR2igoqvpbZw%3D%3D) | 
-| 第65期王座戦予選 | Anzai Nobuaki | Cho Sonjin | W+R | 2016-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L9piKXiWmddalsyp4I1vCw%3D%3D) | 
-| 第43期天元戦予選 | Mochizuki Kenichi | Cho Sonjin | W+R | 2016-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K0cnmPQbe5WDb9N4TDGf1A%3D%3D) | 
-| 第42期碁聖戦予選 | Cho Sonjin | Matsumoto Takehisa | B+R | 2016-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BJalySNhWbRGdgjpAER4%2Bw%3D%3D) | 
-| 第42期名人戦最終予選 | Muramatsu Hiroki | Cho Sonjin | B+2.5 | 2016-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sw7cRjBg%2BlKAMX7AKyqiLA%3D%3D) | 
-| 第65期王座戦予選 | Cho Sonjin | Yokotsuka Riki | B+R | 2016-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yiy39esnLacl2jm5pJnhDA%3D%3D) | 
-| 第72期本因坊戦　最終予選決勝第2局 | Yuki Satoshi | Cho Sonjin | B+R | 2016-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tXITQclQzFc5YmThooUBUg%3D%3D) | 
-| 第42期名人戦予選 | Cho Sonjin | Hashimoto Yujiro | B+R | 2016-08-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kVWSzQsOwKlYcAS8Uf9X3w%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Seto Taiki | Cho Sonjin | W+1.5 | 2016-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nhiDb1N%2B4w9siNWgn92wAQ%3D%3D) | 
-| 第72期本因坊戦予選 | Cho Sonjin | Yu Zhengqi | B+R | 2016-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=06iM0W5m%2FBnzqCdHP4IISA%3D%3D) | 
-| 第21回三星火災杯統合予選シニア枠決勝 | Cho Sonjin | Jeong Daesang | W+0.5 | 2016-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rwkojg352OnywfYs9q3ceQ%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Cho Sonjin | Hane Naoki | W+R | 2016-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nAZUAvl%2Bn%2BNiii8SebTbNA%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Cho Sonjin | Kiyonari Tetsuya | B+R | 2016-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tl%2BQmnOs1TmeMWWM4i3gHA%3D%3D) | 
-| 第72期本因坊戦予選 | Cho Sonjin | Nakamura Shinya | B+5.5 | 2016-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qcfyk8K9upexwgcdgdGZyQ%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Cho Sonjin | Akiyama Jiro | W+R | 2016-05-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MSsHO5Sfca5upIsHKWAFmw%3D%3D) | 
-| 第55期十段戦予選 | Cho Sonjin | Kurotaki Masanori | W+R | 2016-04-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LNL2Ap58sadRv7SujcsSpw%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Ko Iso | Cho Sonjin | B+R | 2016-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mW5oCSTuDL06FrU1FgDbUQ%3D%3D) | 
-| 第72期本因坊戦予選 | Cho Sonjin | Kurotaki Masanori | B+R | 2016-03-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k9LInE8lxW3g%2BilnBjH8kg%3D%3D) | 
-| 第41期棋聖戦Bリーグ | Yuki Satoshi | Cho Sonjin | B+0.5 | 2016-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l3A5H52tnG1Kx5Bm3fb%2FQQ%3D%3D) | 
-| 第72期本因坊戦予選 | Awaji Shuzo | Cho Sonjin | W+R | 2016-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QQEGlnChbyF8xz%2BhHBoZCA%3D%3D) | 
-| 第55期十段戦予選 | Cho Sonjin | Aoki Shinichi | B+6.5 | 2016-01-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4w9g%2B4SHC1AKlIl4G6AHig%3D%3D) | 
-| 第42期天元戦本戦1回戦 | Cho Sonjin | Murakawa Daisuke | W+1.5 | 2015-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aLO1UpUC0ko4IprTWpF4dw%3D%3D) | 
-| 第72期本因坊戦予選 | Cho Sonjin | Fujisawa Kazunari | B+R | 2015-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yn8kfusJemWSfCe5i1uBXQ%3D%3D) | 
-| 第64期王座戦予選 | Cho Sonjin | Kono Mitsuki | W+R | 2015-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3Km3F62dmukUhr8bbcZBHA%3D%3D) | 
-| 第42期天元戦予選 | Tsuruyama Atsushi | Cho Sonjin | W+R | 2015-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2i3f4tNby%2BloqN3tLayZfA%3D%3D) | 
-| 第42期天元戦予選 | Ko Reibun | Cho Sonjin | W+5.5 | 2015-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lhA9UySyfyyUp0YumbwUXg%3D%3D) | 
-| 第41期名人戦予選 | Kurahashi Masayuki | Cho Sonjin | B+R | 2015-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8XDaf9bDT9A%2FMO9kZ4Ew1A%3D%3D) | 
-| 第40期棋聖戦Cリーグ | Sakai Maki | Cho Sonjin | W+7.5 | 2015-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zAIT%2FHjp7KLOM2bVyDvvIw%3D%3D) | 
-| 第41期名人戦予選 | Cho Sonjin | Imamura Yoshiaki | B+R | 2015-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Tf7vcCN668r%2BAN6Exc2hwQ%3D%3D) | 
-| 第40期棋聖戦Cリーグ | Cho Sonjin | Ohba Junya | B+R | 2015-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Sy2xai4WI8nWcbo3vYHzRQ%3D%3D) | 
-| 第41期名人戦予選 | Cho Sonjin | Rin Shien | B+R | 2015-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mqdlHuS50XWjb5jlVpd1Dg%3D%3D) | 
-| 第54期十段戦予選 | Ichiriki Ryo | Cho Sonjin | B+R | 2015-07-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nn1%2BcS%2FKZHPRCTlRIABqMw%3D%3D) | 
-| 第40期棋聖戦Cリーグ | Cho Sonjin | Nakano Hironari | B+1.5 | 2015-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0q9yg5MDl3Gysi6kM7xFYg%3D%3D) | 
-| 第41期名人戦予選 | Kato Atsushi | Cho Sonjin | W+R | 2015-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FGtX%2FWJ32KZiDdimD8iZ9w%3D%3D) | 
-| 第40期棋聖戦Cリーグ | Cho Sonjin | Yu Zhengqi | W+1.5 | 2015-07-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=U8iowJoW3y6RK1RW45dujg%3D%3D) | 
-| 第40期棋聖戦Cリーグ | Imamura Toshiya | Cho Sonjin | W+R | 2015-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZdNnHm8jfsFp5xRXOsXXWA%3D%3D) | 
-| 第71期本因坊戦予選 | Kim Sujun | Cho Sonjin | B+R | 2015-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Wl00ZSCMs8XGwqhhQaTJeA%3D%3D) | 
-| 第20回LG杯予選 | Cho Sonjin | Park Younglong | W+R | 2015-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ok8S6cp6orViaDoilopjUw%3D%3D) | 
-| 第63期王座戦予選 | Sun Zhe | Cho Sonjin | B+R | 2015-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=y01kklVJYcFduaTD3cX%2BjA%3D%3D) | 
-| 第71期本因坊戦予選 | Chino Tadahiko | Cho Sonjin | W+R | 2015-04-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P9uq6um4%2B2UsPTDFABq01Q%3D%3D) | 
-| 第40期棋聖戦予選 | Morita Michihiro | Cho Sonjin | W+3.5 | 2015-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AecscXSovDPBEOrGu6BO4A%3D%3D) | 
-| 第40期棋聖戦予選 | Suzuki Shinji | Cho Sonjin | W+R | 2015-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oBCV8Hv3xihs0W6d7PFUxA%3D%3D) | 
-| 第1回OVER40早碁トーナメント戦決勝 | Aoki Shinichi | Cho Sonjin | W+0.5 | 2015-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=db9VHj0miEEFCuhoPBAODA%3D%3D) | 
-| 第1回OVER40早碁トーナメント戦準決勝 | Kato Atsushi | Cho Sonjin | W+R | 2015-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MO3c2bgN8Z1UdldaRsSP4g%3D%3D) | 
-| 第63期王座戦予選 | Yo Kagen | Cho Sonjin | W+R | 2015-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FtNOWhGjJSsGV%2BgvZqoRIA%3D%3D) | 
-| 第40期棋聖戦予選 | Ikeda Ayako | Cho Sonjin | W+R | 2015-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hHEC0gcoCaX70bIgA43UdQ%3D%3D) | 
-| 第63期王座戦予選 | Cho Sonjin | Ishikura Noboru | B+R | 2014-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9edbW4X%2BUdInRYCJhRkalQ%3D%3D) | 
-| 第40期碁聖戦本戦1回戦 | Hane Naoki | Cho Sonjin | B+R | 2014-12-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QejdJ3VOHBeNIFas8oZY9Q%3D%3D) | 
-| 第41期天元戦予選 | Cho Sonjin | Yamashita Keigo | W+R | 2014-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XQmCyxgopnriE3UeCSYO6w%3D%3D) | 
-| 第53期十段戦1回戦 | So Yokoku | Cho Sonjin | B+R | 2014-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9TheraU3eXHIXLhB7Vz3hg%3D%3D) | 
-| 第41期天元戦予選 | Cho Sonjin | Otake Hideo | B+R | 2014-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XPYzAySS9h0%2BVYd43PBiMw%3D%3D) | 
-| 第53期十段戦予選 | Cho Sonjin | Cho U | B+1.5 | 2014-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=in6EEHifYs0cFhZhtN5u6w%3D%3D) | 
-| 第40期名人戦予選 | Shuto Shun | Cho Sonjin | B+R | 2014-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RAcvczkyIX%2F1BhZW1SJTiw%3D%3D) | 
-| 第40期名人戦予選 | Kamimura Haruo | Cho Sonjin | W+R | 2014-06-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0g3GgF3qPsAikiSxW7PP3g%3D%3D) | 
-| 第53期十段戦予選 | Kato Atsushi | Cho Sonjin | W+R | 2014-05-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bzdXY0h8MQB%2FLI5nP1g1pA%3D%3D) | 
-| 第39期碁聖戦本戦準決勝 | Cho Sonjin | Kono Rin | W+R | 2014-05-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xp75A9JlGSYfxNqV%2FERLVQ%3D%3D) | 
-| 第19回LG杯予選 | Kang Dajeong | Cho Sonjin | W+R | 2014-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mU5vjrzRrZBdT0mwdx1%2Big%3D%3D) | 
-| 第62期王座戦予選 | Cho Sonjin | Nakano Hironari | W+R | 2014-04-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rihN%2BMFtQA4GL7jIz82yBA%3D%3D) | 
-| 第53期十段戦予選 | Cho Sonjin | Kenmochi Joe | B+R | 2014-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HQGfamqJozBp9jtMJmw7tQ%3D%3D) | 
-| 第39期碁聖戦本戦3回戦 | Yamashiro Hiroshi | Cho Sonjin | W+R | 2014-03-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GqDsjQun4GpwceFJR5CsWQ%3D%3D) | 
-| 第70期本因坊戦予選 | Endo Yoshifumi | Cho Sonjin | B+R | 2014-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NCntq9VnB60Fu3O7c%2FzeXQ%3D%3D) | 
-| 第62期王座戦予選 | Cho Sonjin | Takeuchi Kousuke | B+R | 2014-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZIjfdXk%2F6J0IKB7UZN7B1A%3D%3D) | 
-| 第39期碁聖戦本戦2回戦 | Cho Sonjin | Ida Atsushi | B+R | 2014-01-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=em1Eo0P3b976L%2BAK2brPhA%3D%3D) | 
-| 第62期王座戦予選 | Cho Sonjin | Yao Zhiteng | B+R | 2014-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eR9KaVfdU29shnLc%2Fj%2BZ%2Fw%3D%3D) | 
-| 第40期天元戦予選 | Takemiya Masaki | Cho Sonjin | B+R | 2014-01-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0iNuxIJcUazgHGbuW%2B4Fvg%3D%3D) | 
-| 第62期王座戦予選 | Otake Hideo | Cho Sonjin | W+0.5 | 2013-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NRQuu8YAqcThuDL1CaUFPQ%3D%3D) | 
-| 第40期天元戦予選 | Cho Sonjin | Hoshino Masaki | B+7.5 | 2013-11-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=elA9nVpn7OAPKGc7%2B4Degg%3D%3D) | 
-| 第39期碁聖戦本戦1回戦 | Cho Sonjin | Aragaki Shun | B+R | 2013-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GNh3MWNKFeIgw%2Ftk5rCTmA%3D%3D) | 
-| 第39期棋聖戦予選 | Cho Sonjin | Ogaki Yusaku | W+3.5 | 2013-11-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UVb3fBFNArU6sNIv2wc8Cw%3D%3D) | 
-| 第39期名人戦予選 | Yuki Satoshi | Cho Sonjin | B+R | 2013-10-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0cxyqI%2Bze4r2AV2ybJknxw%3D%3D) | 
-| 第39期名人戦予選 | Hirata Tomoya | Cho Sonjin | W+4.5 | 2013-10-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xGVZ%2FZDWcK1jqJcAsyufNw%3D%3D) | 
-| 第39期名人戦予選 | Yu Zhengqi | Cho Sonjin | W+R | 2013-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9KtAiD0ITi7dBNSQxSMJ9g%3D%3D) | 
-| 第39期碁聖戦予選 | Cho Sonjin | Otake Hideo | B+R | 2013-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LW41BGxef5h7QcBT%2FFuzWw%3D%3D) | 
-| 第69期本因坊戦予選 | Ida Atsushi | Cho Sonjin | B+0.5 | 2013-09-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KXYEjnwMk63BgMCKIszLQg%3D%3D) | 
-| 第39期名人戦予選 | Mimura Tomoyasu | Cho Sonjin | W+1.5 | 2013-08-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XAlIWvrmSdhrS6Wh2PkqgA%3D%3D) | 
-| 第39期碁聖戦予選 | Cho Sonjin | Han Zenki | B+R | 2013-08-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ggp1j8nIBnknNsTEQcirzQ%3D%3D) | 
-| 第69期本因坊戦予選 | Cho Sonjin | Yo Kagen | B+R | 2013-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q61FA9%2BvXQ6b37jGxobl6w%3D%3D) | 
-| 第52期十段戦予選 | Ogata Masaki | Cho Sonjin | B+R | 2013-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u9JCrj%2F6HBy5ITHeIrcwVw%3D%3D) | 
-| 第39期名人戦予選 | Cho Sonjin | Shuto Shun | B+R | 2013-07-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=paPSYf9sPeboag5Q1LbE0A%3D%3D) | 
-| 第69期本因坊戦予選 | Hane Yasumasa | Cho Sonjin | W+R | 2013-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zb%2Bn%2FyCKVYUmH5hax06%2B4Q%3D%3D) | 
-| 第39期名人戦予選 | Cho Riyu | Cho Sonjin | W+R | 2013-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JijL%2Bruu1QhqS%2FFSjhFO1w%3D%3D) | 
-| 第39期碁聖戦予選 | Cho Sonjin | Motoki Katsuya | B+0.5 | 2013-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jSkLOv7sMq3Ncoappw4kug%3D%3D) | 
-| 第39期天元戦本戦2回戦 | Cho Sonjin | Akiyama Jiro | W+5.5 | 2013-05-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h8Wh2kUOo6%2B42MMRWJYShg%3D%3D) | 
-| 第68期本因坊戦リーグ | Ko Iso | Cho Sonjin | B+R | 2013-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H%2Fii0DJAwD89Yd8QhugblA%3D%3D) | 
-| 第68期本因坊戦リーグ | Yuki Satoshi | Cho Sonjin | W+R | 2013-03-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=01CUM4kZ6mPSvh72YAKSyQ%3D%3D) | 
-| 第39期天元戦本戦1回戦 | Cho Sonjin | Ida Atsushi | B+R | 2013-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mvtx%2FewVmhyvQaces%2BQnvg%3D%3D) | 
-| 第68期本因坊戦リーグ | Cho Sonjin | Seto Taiki | W+0.5 | 2013-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WGf4U7tUl%2FLiQVFkxNaJzg%3D%3D) | 
-| 第61期王座戦予選 | Cho Sonjin | Morita Michihiro | W+5.5 | 2013-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MBC1882mR8fsdvqhSYZJRA%3D%3D) | 
-| 第68期本因坊戦リーグ | Cho Sonjin | Cho U | W+R | 2013-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sErOeBrzppZBBLSVKJlBZA%3D%3D) | 
-| 第38期棋聖戦予選 | Yamada Takuji | Cho Sonjin | B+R | 2012-12-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QNz4Kb5sKWj2FuAE4%2BM%2FOw%3D%3D) | 
-| 第61期王座戦予選 | Cho Sonjin | Ko Mosei | B+R | 2012-12-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=njatWZIEFlU%2Fn0FXrq98TQ%3D%3D) | 
-| 第39期天元戦予選 | Kubo Hideo | Cho Sonjin | W+1.5 | 2012-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dKIWEKN0ZWev6QMksEYbIA%3D%3D) | 
-| 第38期棋聖戦予選 | Kato Keiko | Cho Sonjin | W+R | 2012-12-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tsIO9lFDoNImu5g2ffZA2w%3D%3D) | 
-| 第51期十段戦3回戦 | Cho Sonjin | Yuki Satoshi | W+R | 2012-12-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IQnHM4lFnjIG8xsghHYxfA%3D%3D) | 
-| 第68期本因坊戦リーグ | Takao Shinji | Cho Sonjin | B+R | 2012-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hoLTbjvmbgQl2MKwrAKLcg%3D%3D) | 
-| 第61期王座戦予選 | Cho Sonjin | Ogaki Yusaku | B+R | 2012-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f8kLg6i%2Bem4nUAkWUOMCDQ%3D%3D) | 
-| 第68期本因坊戦リーグ | Cho Sonjin | Imamura Toshiya | W+R | 2012-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4zvJ4uQkjLLZdq6BVddkQg%3D%3D) | 
-| 第68期本因坊戦リーグ | Cho Sonjin | Yamashita Keigo | W+0.5 | 2012-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qWvcPdH%2Fk1%2FIM1gN30TpJg%3D%3D) | 
-| 第39期天元戦予選 | Cho Sonjin | Kono Takashi | B+R | 2012-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RyO83X%2B86c9lDgYRvkmxpw%3D%3D) | 
-| 第51期十段戦2回戦 | Cho Sonjin | Kato Atsushi | B+R | 2012-10-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TujR1OFN5djYIy9dnR%2BiFQ%3D%3D) | 
-| 第61期王座戦予選 | Cho Sonjin | Tsuneishi Takashi | B+R | 2012-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kwT4KLRt%2BFmBzxgKhLPrSQ%3D%3D) | 
-| 第68期本因坊戦予選 | Imamura Yoshiaki | Cho Sonjin | W+14.5 | 2012-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e1uEawPHd2VmnprUn2RG9Q%3D%3D) | 
-| 第38期碁聖戦予選 | Nakamura Shinya | Cho Sonjin | B+4.5 | 2012-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=frCHEPHXesilP2lBt9FY9A%3D%3D) | 
-| 第19期阿含・桐山杯全日本早碁オープン戦2回戦 | Cho Sonjin | Hane Naoki | W+2.5 | 2012-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UgzpcSJfkAJdaFj4BxE0Ag%3D%3D) | 
-| 第68期本因坊戦予選 | Cho Sonjin | Fujii Shuya | B+R | 2012-08-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6E4zSrkOwatsw1rYuJ0njQ%3D%3D) | 
-| 第19期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Sonjin | Kanazawa Makoto | B+5.5 | 2012-07-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=udL1266m4ABQQ6d0j1mdyg%3D%3D) | 
-| 第68期本因坊戦予選 | Cho Sonjin | Iwamaru Taira | B+0.5 | 2012-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WNKufHiRHssjr6Z7ZFkYSw%3D%3D) | 
-| 第51期十段戦予選 | Cho Sonjin | Imamura Toshiya | B+R | 2012-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P%2FP7msgWVNx%2B3bkZFmJyaA%3D%3D) | 
-| 第8回大和証券杯ネット囲碁オープン予選 | Cho Sonjin | Kim Sujun | W+0.5 | 2012-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hjGT4nbO1Mc1OXZsxpI%2Fvg%3D%3D) | 
-| 第19期阿含・桐山杯全日本早碁オープン戦予選 | Imamura Toshiya | Cho Sonjin | W+R | 2012-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5K8hEaQqIIXuHj6iZMoguw%3D%3D) | 
-| 第38期名人戦予選 | Komatsu Hideki | Cho Sonjin | B+11.5 | 2012-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e0hjQyKvY8vJwv%2B2b5Zk%2FA%3D%3D) | 
-| 第68期本因坊戦予選 | Cho Sonjin | Matsumoto Takehisa | B+3.5 | 2012-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bB%2FTenT1mqugvqVCDWbuUg%3D%3D) | 
-| 第17回LG杯予選 | Wang Tao | Cho Sonjin | B+R | 2012-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hScl7HsNdSup4g0kkf1cEQ%3D%3D) | 
-| 第68期本因坊戦予選 | Sakai Takeshi | Cho Sonjin | W+R | 2012-03-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Tyrwa%2BvQpoVcEe4J44Vcw%3D%3D) | 
-| 第37期碁聖戦本戦2回戦 | Cho Sonjin | Yamada Noriyoshi | W+2.5 | 2012-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZSRV8YiIbLBODtw%2FmlOTYg%3D%3D) | 
-| 第37期棋聖戦予選 | Rin Kanketsu | Cho Sonjin | B+R | 2011-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u6bdxEOYzclECAb38eq1rg%3D%3D) | 
-| 第37期棋聖戦予選 | Cho Sonjin | Han Zenki | B+R | 2011-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FDV%2BZsNJ8U8op%2F9zWrWubg%3D%3D) | 
-| 第37期碁聖戦本戦1回戦 | Cho Sonjin | Yokota Shigeaki | B+R | 2011-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AG3XgZA9tttI9eucBZWGqw%3D%3D) | 
-| 第37期棋聖戦予選 | Ueda Takashi | Cho Sonjin | W+R | 2011-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KfohGsDQnxlHhLKiENkp6A%3D%3D) | 
-| 第38期天元戦予選 | Cho Sonjin | Ryu Shikun | W+R | 2011-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eiVxqSwPWZyJxfS1DL7MWQ%3D%3D) | 
-| 第37期名人戦予選 | Cho Sonjin | Yoda Norimoto | W+1.5 | 2011-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9CbWb9hG5Dodxgr%2BcwfYAA%3D%3D) | 
-| 第37期碁聖戦予選 | Cho Sonjin | O Meien | B+R | 2011-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dXr43%2BbAUqF7ohOxQ8pWJA%3D%3D) | 
-| 第38期天元戦予選 | Takemiya Masaki | Cho Sonjin | W+0.5 | 2011-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3NHsD6QhO8Z57zvJLq5YHw%3D%3D) | 
-| 第37期名人戦予選 | Cho Sonjin | Ohba Junya | B+R | 2011-08-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KcXWgDmQy2qnaEg%2Bdj8ZHg%3D%3D) | 
-| 第37期碁聖戦予選 | Cho Sonjin | Rin Kaiho | B+R | 2011-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1y0S1DobgC3E%2BEfn6DPbLA%3D%3D) | 
-| 第37期名人戦予選 | Mukai Chiaki | Cho Sonjin | W+R | 2011-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MGlqgW2E5TEUHUU9KaIT%2FQ%3D%3D) | 
-| 第50期十段戦1回戦 | Cho Sonjin | Yoda Norimoto | W+R | 2011-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wGwRCllOLxYRKcysGzAWgw%3D%3D) | 
-| 第60期王座戦予選 | Cho Sonjin | Kono Mitsuki | W+4.5 | 2011-07-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TBKhD5s3lqLDAnQCRmScAA%3D%3D) | 
-| 第37期碁聖戦予選 | Mannami Kana | Cho Sonjin | W+R | 2011-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z9toY6cf8bAW46R0EOESZQ%3D%3D) | 
-| 第37期名人戦予選 | Cho Sonjin | Sugimoto Akira | B+R | 2011-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HCrxLHkyABxdaSBaTzZuLA%3D%3D) | 
-| 第67期本因坊戦予選 | Cho Sonjin | Kono Rin | W+4.5 | 2011-06-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q9hCQskVG6P2BgdCarLchQ%3D%3D) | 
-| 第18期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Sonjin | Yuki Satoshi | W+1.5 | 2011-06-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fx5PDtEjIZKQgajYC78hPA%3D%3D) | 
-| 第60期王座戦予選 | Shiraishi Yuichi | Cho Sonjin | W+R | 2011-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uZF25JPQnVhl0crwE7aFbQ%3D%3D) | 
-| 第50期十段戦予選 | Cho Sonjin | Ha Youngil | B+R | 2011-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0p5IRBIDXJbwMnC%2FKdXr4w%3D%3D) | 
-| 第18期阿含・桐山杯全日本早碁オープン戦予選 | Awaji Shuzo | Cho Sonjin | W+R | 2011-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c6Dwn245kJ0UNsqocOClPg%3D%3D) | 
-| 第16回LG杯予選 | Paek Hongseok | Cho Sonjin | B+R | 2011-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GvbjUa8NhLYjzqOlVm%2BSKg%3D%3D) | 
-| 第50期十段戦予選 | Cho Sonjin | Kobayashi Satoru | B+R | 2011-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qLkLO9YYNbpwKTyL1Vok2A%3D%3D) | 
-| 第60期王座戦予選 | Cho Sonjin | Ohashi Hirofumi | B+R | 2011-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yIqWSXbhKvtAmWpp%2Bz5s1A%3D%3D) | 
-| 第66期本因坊戦リーグ | Kobayashi Satoru | Cho Sonjin | W+11.5 | 2011-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DDK85cIBm%2FSiNDQQ2Dhosw%3D%3D) | 
-| 第66期本因坊戦リーグ | Cho Sonjin | Takao Shinji | W+R | 2011-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kPEeG0H1vJkJuSPZYQYZEw%3D%3D) | 
-| 第50期十段戦予選 | Miyazawa Goro | Cho Sonjin | W+R | 2011-03-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t0i59bo0EsTltSNk9AD9Tg%3D%3D) | 
-| 第66期本因坊戦リーグ | Iyama Yuta | Cho Sonjin | B+R | 2011-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jdvOfUSwo1LmSPhrslwW3Q%3D%3D) | 
-| 第50期十段戦予選 | Tsuruyama Atsushi | Cho Sonjin | W+R | 2011-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YcS%2FSSkVdVGUUU3GFHZNdw%3D%3D) | 
-| 第66期本因坊戦リーグ | Cho U | Cho Sonjin | B+R | 2011-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LA5N77cu6AJ%2BPPZeexxAHQ%3D%3D) | 
-| 第60期王座戦予選 | Cho Sonjin | Sato Fumitoshi | B+R | 2011-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CW8bgoHFwOk3sZGJAVqf%2Bg%3D%3D) | 
-| 第66期本因坊戦リーグ | Cho Sonjin | O Rissei | B+R | 2010-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eIZ0V2Y1kJJCrpke0usmyg%3D%3D) | 
-| 第50期十段戦予選 | Yo Kaei | Cho Sonjin | W+R | 2010-12-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TH9azgiIdvfibICWNlXHAQ%3D%3D) | 
-| 第37期天元戦予選 | Nakamura Shinya | Cho Sonjin | B+2.5 | 2010-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nBJcAZ1SIS%2BgA2Q0TPM%2FWQ%3D%3D) | 
-| 第66期本因坊戦リーグ | Cho Sonjin | Hane Naoki | W+R | 2010-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GNn0CW%2FqZGg%2F%2BebEG2LPIg%3D%3D) | 
-| 第37期天元戦予選 | Han Zenki | Cho Sonjin | W+2.5 | 2010-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FcVrZOzUlXlxNl3QDGAvfA%3D%3D) | 
-| 第66期本因坊戦リーグ | Cho Sonjin | Seto Taiki | W+R | 2010-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XFPE5ndWjCPuEU2rZp%2Bpkg%3D%3D) | 
-| 第36期棋聖戦予選 | Kanazawa Makoto | Cho Sonjin | B+R | 2010-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yEqT2dgo%2Fwt6U8ASMY8k0A%3D%3D) | 
-| 第59期王座戦予選 | Kono Mitsuki | Cho Sonjin | B+3.5 | 2010-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5kCDwVH8WNCo2V%2B1drjHUQ%3D%3D) | 
-| 第36期碁聖戦予選 | Cho Sonjin | Rin Shien | W+R | 2010-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ACw%2BAJib3ccPKSvLh2JmTA%3D%3D) | 
-| 第66期本因坊戦予選 | Cho Sonjin | Yamashiro Hiroshi | B+2.5 | 2010-08-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BVONhsal57JhRl%2BBBajOsQ%3D%3D) | 
-| 第6回大和証券杯ネット囲碁オープン1回戦 | Tsuruyama Atsushi | Cho Sonjin | B+R | 2010-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x%2F3vhCA6vAdglBpKbwEglw%3D%3D) | 
-| 第36期名人戦予選 | Cho Sonjin | Tsuruyama Atsushi | W+3.5 | 2010-07-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DPKsX4SI2rKwC9mzdFd9pA%3D%3D) | 
-| 第66期本因坊戦予選 | Cho Sonjin | Uchida Shuhei | B+R | 2010-07-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qz5qxO5KPCUjbovR%2BtVYKQ%3D%3D) | 
-| 第17期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Sonjin | Imamura Toshiya | W+6.5 | 2010-06-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5XgyCDaeoofoj5MpLhYssA%3D%3D) | 
-| 第66期本因坊戦予選 | Yamada Kimio | Cho Sonjin | W+R | 2010-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6gVGRn3saZF1MMfS1Hhsuw%3D%3D) | 
-| 第17期阿含・桐山杯全日本早碁オープン戦予選 | Cho Sonjin | Takanashi Seiken | B+R | 2010-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lk66yTUbHWP42x7sNvJEQA%3D%3D) | 
-| 第17期阿含・桐山杯全日本早碁オープン戦予選 | Cho Sonjin | O Meien | B+R | 2010-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=idfsxIFdywisfBT%2BCX114Q%3D%3D) | 
-| 第36期名人戦予選 | Yo Kagen | Cho Sonjin | W+R | 2010-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LBrcMCoQei0m4uNI9quZFg%3D%3D) | 
-| 第36期天元戦本戦2回戦 | Cho Sonjin | Akiyama Jiro | W+R | 2010-03-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FL306tuVgZyYv3p2BT%2FjFg%3D%3D) | 
-| 第66期本因坊戦予選 | Cho Sonjin | Suzuki Ayumi | B+R | 2010-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2qUI%2FDNrl0jMXl8%2FoeXh4w%3D%3D) | 
-| 第66期本因坊戦予選 | Shuto Shun | Cho Sonjin | W+R | 2010-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k4VvDDmLw2i4YGTYGkC3qg%3D%3D) | 
-| 第35期棋聖戦予選 | Ko Iso | Cho Sonjin | B+R | 2010-01-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NaEmCtXSh3uoKPB745Mdeg%3D%3D) | 
-| 第49期十段戦予選 | Komatsu Hideki | Cho Sonjin | B+2.5 | 2009-12-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9IKZh8hJwYaR6d9Sgid3tA%3D%3D) | 
-| 第36期天元戦本戦1回戦 | Cho Sonjin | Nakane Naoyuki | B+R | 2009-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v4gPAHdypEgSABr96YixlA%3D%3D) | 
-| 第66期本因坊戦予選 | Terayama Rei | Cho Sonjin | W+5.5 | 2009-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PQCwakjNzYEnPjH6c0BAOA%3D%3D) | 
-| 第35期棋聖戦予選 | Rin Kanketsu | Cho Sonjin | W+R | 2009-11-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AoP5uUjTaYn%2BKK5B3MC0gQ%3D%3D) | 
-| 第58期王座戦予選 | Cho Sonjin | Omori Yasushi | W+0.5 | 2009-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AvOfui3VIkXQua8yVNdApg%3D%3D) | 
-| 第23回世界囲碁選手権富士通杯国内予選 | Anzai Nobuaki | Cho Sonjin | B+13.5 | 2009-10-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pU6IkMuVYoHlc6sMDKwPqw%3D%3D) | 
-| 第58期王座戦予選 | Cho Sonjin | Kato Keiko | B+R | 2009-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bl%2FyTA%2BC1KwfLs0sZnlydQ%3D%3D) | 
-| 第36期天元戦予選 | O Rissei | Cho Sonjin | W+15.5 | 2009-10-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PcQ3vzaFCQfq0YupCdrL0w%3D%3D) | 
-| 第35期棋聖戦予選 | Sakai Takeshi | Cho Sonjin | W+R | 2009-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UQydXIhnw9AnlHP7whwk6Q%3D%3D) | 
-| 第35期碁聖戦予選 | Cho Sonjin | So Yokoku | W+R | 2009-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7v0eR603bWEH%2FBCls2BpoQ%3D%3D) | 
-| 第35期棋聖戦予選 | Osawa Narumi | Cho Sonjin | W+R | 2009-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JH9HyQg1J40EGEG%2BT42tYA%3D%3D) | 
-| 第36期天元戦予選 | Cho Sonjin | Rin Shien | B+R | 2009-08-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PFGUP46tQG%2BxecJameqf1w%3D%3D) | 
-| 第35期碁聖戦予選 | Kono Rin | Cho Sonjin | W+R | 2009-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M8PM06%2BnaFisBHV2Fgf4mA%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン2回戦 | Kono Rin | Cho Sonjin | B+R | 2009-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=54iPl1jY8gL0XCZpVEb1lw%3D%3D) | 
-| 第35期碁聖戦予選 | Kuwamoto Shinpei | Cho Sonjin | W+R | 2009-07-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aEW2UUMmVtlk6JBxlhih7Q%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン1回戦 | Cho Sonjin | Hikosaka Naoto | B+3.5 | 2009-06-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DzzpFHXXPDOnN01lUSBSBg%3D%3D) | 
-| 第36期天元戦予選 | Cho Sonjin | So Kofuku | B+R | 2009-06-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hVBfZT1tMVWZPihsGm0ZCg%3D%3D) | 
-| 第35期名人戦予選 | Mimura Tomoyasu | Cho Sonjin | B+R | 2009-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AT7mkNdWMxzAz5nseuhJeQ%3D%3D) | 
-| 第36期天元戦予選 | Cho Sonjin | Taniguchi Toshinori | B+R | 2009-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DCtGlST%2BIJjzLeG1B3QXwA%3D%3D) | 
-| 第35期碁聖戦予選 | Cho Sonjin | Haruyama Isamu | B+R | 2009-05-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZyQYujHNgXub76dH77DY7A%3D%3D) | 
-| 第35期名人戦予選 | Cho Sonjin | Takagi Shoichi | B+8.5 | 2009-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hPVr7V2Yvr4xA74PPwp1BA%3D%3D) | 
-| 第5回大和証券杯ネット囲碁オープン予選 | Cho Sonjin | Akiyama Jiro | B+R | 2009-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yDOmK8Fy%2F5EjeF5kNBMmSg%3D%3D) | 
-| 第36期天元戦予選 | Cho Sonjin | Rin Kanketsu | B+4.5 | 2009-03-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M71pdjwajyIhtBZqHry5xw%3D%3D) | 
-| 第65期本因坊戦予選 | Cho Sonjin | Ishigure Ikuro | W+5.5 | 2009-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pvKVzaI4r%2FK%2FgCN3DnBYuA%3D%3D) | 
-| 第36期天元戦予選 | Cho Sonjin | Nagahara Yoshiaki | B+R | 2009-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cnc6LxPG%2FoQiMTi0uykIew%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Osawa Kenro | Cho Sonjin | W+R | 2009-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oPup6znPbO6SixZCKAzooQ%3D%3D) | 
-| 第48期十段戦予選 | Cho Sonjin | Takagi Shoichi | W+1.5 | 2009-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s9EZuOYRCBjIT3NhFOAVdg%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯国内予選 | Cho Sonjin | Iyama Yuta | W+2.5 | 2008-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1ek%2BOUvQBQ3M2ZQIDDVzEA%3D%3D) | 
-| 第48期十段戦予選 | Cho Sonjin | Mitani Tetsuya | B+R | 2008-11-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jQN1oBqTmyOAF1H%2FKHfHkQ%3D%3D) | 
-| 第22回世界囲碁選手権富士通杯国内予選 | Cho Chikun | Cho Sonjin | W+3.5 | 2008-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WP3rzY9ARqASkTDPDO8F0w%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Kumamoto Syusei | Cho Sonjin | B+6.5 | 2008-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RiMB7Nfgt1ObNn4DAvOB%2Bw%3D%3D) | 
-| 第34期棋聖戦予選 | Cho Sonjin | Anzai Nobuaki | W+5.5 | 2008-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zN28Lb4eHJ%2FUIkiq5I0oeQ%3D%3D) | 
-| 第57期王座戦予選 | Cho Sonjin | Kamimura Haruo | W+R | 2008-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=P%2BjkVYdaO20wgnV3%2FDFFYA%3D%3D) | 
-| 第35期天元戦予選 | Takemiya Youkou | Cho Sonjin | B+0.5 | 2008-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QT2z2HeKPGL1t46LeoXBdA%3D%3D) | 
-| 第34期棋聖戦予選 | Cho Sonjin | Xie Yimin | B+R | 2008-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EmckDbzJhILiDlG3EYVP5w%3D%3D) | 
-| 第34期棋聖戦予選 | Cho Sonjin | Kato Keiko | B+R | 2008-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BI2LlN2WOb%2BI1H93CCR42w%3D%3D) | 
-| 第34期名人戦予選 | Cho Sonjin | O Meien | W+R | 2008-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m8CodDR1UqLIqfsynJrqOQ%3D%3D) | 
-| 第57期王座戦予選 | Mitsunaga Junzo | Cho Sonjin | W+R | 2008-08-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1%2Fj1UJxC7IAlpdwohx9M3Q%3D%3D) | 
-| 第13回三星火災杯予選2回戦 | Cho Sonjin | On Sojin | W+R | 2008-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NuGiENvmpYNBbz6uLkOBzQ%3D%3D) | 
-| 第34期碁聖戦予選 | Cho Sonjin | Komatsu Hideki | W+3.5 | 2008-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=335X%2B24ykrU4dAd3XfpUFA%3D%3D) | 
-| 第34期名人戦予選 | Kataoka Satoshi | Cho Sonjin | W+4.5 | 2008-07-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aGGwHlgcBszu6oVOgqG8SA%3D%3D) | 
-| 第34期棋聖戦予選 | Cho Sonjin | Ohashi Hirofumi | B+R | 2008-07-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J6sOr1I35xZS%2FX5LiBMdNw%3D%3D) | 
-| 第34期碁聖戦予選 | Cho Sonjin | Endo Yoshifumi | B+3.5 | 2008-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B6%2F0gcXePskk6vnj9CjRQQ%3D%3D) | 
-| 第4回大和証券杯ネット囲碁オープン1回戦 | Kobayashi Koichi | Cho Sonjin | B+R | 2008-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TNfbJT64C%2BfDWTg9LNx3dw%3D%3D) | 
-| 第34期名人戦予選 | Uchida Shuhei | Cho Sonjin | W+7.5 | 2008-06-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3msSY%2By3MLqKwnZOIc8d4A%3D%3D) | 
-| 第34期碁聖戦予選 | Cho Sonjin | Sugiuchi Masao | B+R | 2008-05-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7mMv9kY4SuiI%2BsUUlIuHOQ%3D%3D) | 
-| 第4回大和証券杯ネット囲碁オープン予選 | Cho Sonjin | Kamimura Haruo | B+R | 2008-05-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rym%2Bk0xsQMJN1WyJ%2FXRNOg%3D%3D) | 
-| 第64期本因坊戦予選 | O Rissei | Cho Sonjin | B+3.5 | 2008-04-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NMPNNWNy5I2L%2FKEn2maPCg%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯1回戦 | Kang Dongyun | Cho Sonjin | B+9.5 | 2008-04-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sB3LKOP7bWVmu%2BbqInSD5Q%3D%3D) | 
-| 第34期碁聖戦予選 | Sonoda Yasutaka | Cho Sonjin | W+R | 2008-04-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K0v9pjs7h5AKFOPYRWO7KA%3D%3D) | 
-| 第64期本因坊戦予選 | Miyazawa Goro | Cho Sonjin | W+R | 2008-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Xu9PAlIp5o%2FExKtsUJlFRA%3D%3D) | 
-| 第27期NECカップ囲碁トーナメント戦決勝 | Kono Rin | Cho Sonjin | B+R | 2008-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W2TQyqpLmvvcsxP2WATPPQ%3D%3D) | 
-| 第4期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Aoki Shinichi | Cho Sonjin | B+R | 2008-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EE6FLQpcqmSAGJzohpSg%2Fg%3D%3D) | 
-| 第27期NECカップ囲碁トーナメント戦準決勝 | Takao Shinji | Cho Sonjin | W+R | 2008-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yeeZq%2Bl%2BE1KMiHrZf8LtcQ%3D%3D) | 
-| 第64期本因坊戦予選 | Cho Sonjin | Yo Kagen | B+R | 2008-01-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jXk83zJblw2I9uPcb1sCsg%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯国内予選決勝 | Oya Koichi | Cho Sonjin | W+R | 2008-01-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BcSJ5SxYog%2F7LroV%2BrD04Q%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯国内予選 | So Yokoku | Cho Sonjin | W+R | 2007-11-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=duNTfPQv6P8xGV7XP0NEnw%3D%3D) | 
-| 第47期十段戦予選 | Cho Sonjin | Mizokami Tomochika | W+R | 2007-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yNB%2B7dleUjXm9uKWjn9qlg%3D%3D) | 
-| 第21回世界囲碁選手権富士通杯国内予選 | Cho U | Cho Sonjin | W+R | 2007-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zyjRM7gXou2Ltq3RW%2F5tfg%3D%3D) | 
-| 第33期名人戦予選 | Cho Sonjin | Cho Chikun | W+R | 2007-09-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M7cYqtnatjJoRK2TpZnnig%3D%3D) | 
-| 第27期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Cho Sonjin | W+6.5 | 2007-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gzu3UYSUD53zpxJFIHyAPQ%3D%3D) | 
-| 第33期棋聖戦予選 | Cho Sonjin | Mitsunaga Junzo | W+R | 2007-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lk8TUete6FdYgRYVinFwvQ%3D%3D) | 
-| 第56期王座戦予選 | Cho Sonjin | Aoki Shinichi | W+R | 2007-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nbj4vTsIQR34Z32YO6hw%2BA%3D%3D) | 
-| 第34期天元戦予選 | Ishida Yoshio | Cho Sonjin | B+R | 2007-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PtRHa0SlHeU4VRDyfO2NTA%3D%3D) | 
-| 第63期本因坊戦予選 | Mizokami Tomochika | Cho Sonjin | B+R | 2007-08-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mr%2FbuWHeQO4hTgeZaMuxxg%3D%3D) | 
-| 第27期NECカップ囲碁トーナメント戦1回戦 | O Rissei | Cho Sonjin | W+3.5 | 2007-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SeW8AMIuvw5srAyw%2BTGT9g%3D%3D) | 
-| 第56期王座戦予選 | Cho Sonjin | Uchida Shuhei | B+R | 2007-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oxQ0Jez1V3djQA%2Bz7BGcIw%3D%3D) | 
-| 第33期名人戦予選 | Cho Sonjin | Rin Kaiho | B+11.5 | 2007-07-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RR8XCpLiOpoRiCYr7wJQxA%3D%3D) | 
-| 第33期碁聖戦予選 | Cho Sonjin | Umezawa Yukari | W+R | 2007-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PNeyLVinfcUyp3qbpdtnZw%3D%3D) | 
-| 第63期本因坊戦予選 | Cho Sonjin | Awaji Shuzo | B+1.5 | 2007-06-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MGjCXy1s3NTyNynVppLzZA%3D%3D) | 
-| 第33期名人戦予選 | Takemiya Youkou | Cho Sonjin | W+5.5 | 2007-06-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=za5uMRsca0yOkzRYZlGwuA%3D%3D) | 
-| 第63期本因坊戦予選 | Cho Riyu | Cho Sonjin | W+R | 2007-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vzSul3xTAGtHxBlSO7U8YQ%3D%3D) | 
-| 第14期阿含・桐山杯全日本早碁オープン戦予選 | Cho Sonjin | Akiyama Jiro | W+R | 2007-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yHz4M%2B0sGeyuO2nfDeKAPQ%3D%3D) | 
-| 第14期阿含・桐山杯全日本早碁オープン戦予選 | So Yokoku | Cho Sonjin | W+R | 2007-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WSAxSo1bdnE5oVKZMGCKDg%3D%3D) | 
-| 第62期本因坊戦リーグ | Cho Sonjin | O Meien | W+R | 2007-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6tW8JYbFlYPTWZNaR%2FTfTg%3D%3D) | 
-| 第46期十段戦予選 | Cho Sonjin | Honda Kunihisa | W+0.5 | 2007-03-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EMY2droCxzMAv4U0Hrvx7w%3D%3D) | 
-| 第62期本因坊戦リーグ | Kobayashi Satoru | Cho Sonjin | B+R | 2007-03-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=07FdvG3n0vw3uv2t6vGzxA%3D%3D) | 
-| 第62期本因坊戦リーグ | Cho Sonjin | Yoda Norimoto | W+R | 2007-02-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H5zRtYc35cH6RYHKDjGztg%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯国内予選決勝 | Nakamura Shinya | Cho Sonjin | B+R | 2007-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3ry0%2Bx4TTOAsCk4UqemnAw%3D%3D) | 
-| 第33期天元戦本戦1回戦 | Cho Sonjin | Iyama Yuta | W+R | 2007-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cd%2BEa3po6ftee%2BmAyLiAbw%3D%3D) | 
-| 第62期本因坊戦リーグ | Cho Sonjin | Cho U | W+R | 2007-01-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PHbf%2Fuy%2Fe%2BhmcG4Zt7NoGQ%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯国内予選 | Sakai Hideyuki | Cho Sonjin | W+R | 2007-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jLvuRPNj1DfAIZx0AiHZKg%3D%3D) | 
-| 第62期本因坊戦リーグ | Yamada Kimio | Cho Sonjin | W+R | 2006-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VM%2B7cOqZDIAdCPKGH8th%2Bw%3D%3D) | 
-| 第32期棋聖戦予選 | Shuto Shun | Cho Sonjin | B+4.5 | 2006-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nWe73l4Vq4foBI1n50cSdw%3D%3D) | 
-| 第20回世界囲碁選手権富士通杯国内予選 | Cho Sonjin | Kobayashi Koichi | B+R | 2006-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y8CcEBOolQC8YS%2BeoLhG0g%3D%3D) | 
-| 第46期十段戦予選 | Cho Sonjin | Ko Iun | B+R | 2006-11-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9d2sJhWKiwsP3TjVFuNcjg%3D%3D) | 
-| 第62期本因坊戦リーグ | So Yokoku | Cho Sonjin | W+R | 2006-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VqB3tgvy9gObn9EHbagFIg%3D%3D) | 
-| 第62期本因坊戦リーグ | Hane Naoki | Cho Sonjin | W+R | 2006-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FzhoH%2FWSgSarajf0dzJ1XQ%3D%3D) | 
-| 第33期天元戦予選 | Ko Mosei | Cho Sonjin | W+R | 2006-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=weVz0mgBeLjEpmSCNteuuw%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Cho Sonjin | Lee Sedol | W+5.5 | 2006-08-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CDn6hiwjJnOYJzTnJ7t0Lg%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Cho Sonjin | Jiang Mingjiu | B+3.5 | 2006-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F%2BikdGojQj9IlyIgbNJreg%3D%3D) | 
-| 第55期王座戦予選 | Anzai Nobuaki | Cho Sonjin | B+R | 2006-08-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ilfOvNm8ZGKG7wzPn1ziKQ%3D%3D) | 
-| 第62期本因坊戦予選 | Iyama Yuta | Cho Sonjin | W+R | 2006-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bWS4UUYhL7jr88ESdgbZeA%3D%3D) | 
-| 第32期名人戦予選 | O Meien | Cho Sonjin | B+R | 2006-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YfN9Ybdy6judtSDycXsAPw%3D%3D) | 
-| 第62期本因坊戦予選 | Cho Sonjin | Ryu Shikun | B+R | 2006-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BU%2BJwcyTONIZf9tp2%2FdeiQ%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Cho Sonjin | Ushinohama Satsuo | B+R | 2006-06-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Br9jnEZypeVTaRdtO%2BG9w%3D%3D) | 
-| 第32期名人戦予選 | Cho Sonjin | Cho Riyu | B+R | 2006-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YouGMxnrZUWREUyyW4pMWQ%3D%3D) | 
-| 第26期NECカップ囲碁トーナメント戦1回戦 | O Meien | Cho Sonjin | B+0.5 | 2006-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LbLwsms7Pp4kKYvQqxQs3Q%3D%3D) | 
-| 第62期本因坊戦予選 | Hashimoto Yujiro | Cho Sonjin | W+R | 2006-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6Mk31ROL394QEQmKH3CCmA%3D%3D) | 
-| 第11回LG杯予選 | Yun Junsang | Cho Sonjin | B+3.5 | 2006-04-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WaClQIwXT9GpE1NFJacCCA%3D%3D) | 
-| 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Imamura Toshiya | Cho Sonjin | W+0.5 | 2006-04-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fE91yjIkmqKLZjgz1Ojffw%3D%3D) | 
-| 第61期本因坊戦リーグ | O Rissei | Cho Sonjin | W+R | 2006-03-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vyA083o7rCf9NXo7r1z7PQ%3D%3D) | 
-| 第32期天元戦本戦1回戦 | Sakai Hideyuki | Cho Sonjin | B+R | 2006-03-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5vnOBInmxYAAoHNZ766ZqQ%3D%3D) | 
-| 第25期NECカップ囲碁トーナメント戦決勝 | Cho Sonjin | Kobayashi Satoru | B+5.5 | 2006-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BiK%2FXGj8z22F1xkMdwxoDA%3D%3D) | 
-| 第61期本因坊戦リーグ | Cho Sonjin | Yoda Norimoto | W+6.5 | 2006-03-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7ifuHyQhrOHSoK0eqXeN7g%3D%3D) | 
-| 第54期王座戦予選 | Takao Shinji | Cho Sonjin | B+R | 2006-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n2GXqU6ec2FIZ24gSxmakw%3D%3D) | 
-| 第61期本因坊戦リーグ | Cho Sonjin | Yamada Kimio | B+2.5 | 2006-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tw6DR%2BzA1OQ7yIKFJ%2F7e%2Fw%3D%3D) | 
-| 第25期NECカップ囲碁トーナメント戦準決勝 | Takao Shinji | Cho Sonjin | W+R | 2006-01-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HTsm%2FObQHouLb0SodxDW8w%3D%3D) | 
-| 第61期本因坊戦リーグ | O Meien | Cho Sonjin | W+8.5 | 2006-01-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ItVMIBtDDCO4tc1HR5BgQ%3D%3D) | 
-| 第61期本因坊戦リーグ | Cho U | Cho Sonjin | B+1.5 | 2005-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tox8H%2BMONwFI%2FpbgpM56zw%3D%3D) | 
-| 第31期棋聖戦予選 | Cho Sonjin | Awaji Shuzo | W+3.5 | 2005-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WRwqstPIDSUXIZQkyQb41w%3D%3D) | 
-| 第32期天元戦予選 | Cho Sonjin | Anzai Nobuaki | B+2.5 | 2005-12-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oz5aPzSIbjXw6TsMeanDLA%3D%3D) | 
-| 第45期十段戦予選 | Cho Sonjin | Lee Ishu | B+R | 2005-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E8TxfB5kequvL4fZjO6QCA%3D%3D) | 
-| 第31期棋聖戦予選 | Cho Sonjin | Muramatsu Ryuichi | B+11.5 | 2005-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ji22CoQqzu1hno9g0sAOPQ%3D%3D) | 
-| 第32期天元戦予選 | Ko Reibun | Cho Sonjin | W+0.5 | 2005-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6L8blMPWbqf08WHYLPFmSw%3D%3D) | 
-| 第54期王座戦予選 | Cho Sonjin | Ishikura Noboru | B+9.5 | 2005-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rTVQOxpG3%2FdsI%2BMLkaFXtQ%3D%3D) | 
-| 第61期本因坊戦リーグ | So Yokoku | Cho Sonjin | B+0.5 | 2005-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6VhA6XaIJrE7p3Rl0yKxoQ%3D%3D) | 
-| 第45期十段戦予選 | Cho Sonjin | Akiyama Jiro | B+4.5 | 2005-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OnAMwg1sHAPAKtoqWGcnZw%3D%3D) | 
-| 第25期NECカップ囲碁トーナメント戦2回戦 | O Meien | Cho Sonjin | W+R | 2005-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wWRdaajg%2B4Gl1kAUHzQN0Q%3D%3D) | 
-| 第61期本因坊戦リーグ | Cho Sonjin | Hane Naoki | W+R | 2005-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UFcbsi2BiqdiHJuUasAkOQ%3D%3D) | 
-| 第25期NECカップ囲碁トーナメント戦1回戦 | Rin Kaiho | Cho Sonjin | W+4.5 | 2005-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rLrBM5%2FdCOTu0l5wToPEZQ%3D%3D) | 
-| 第30期名人戦リーグ | Cho Sonjin | Imamura Toshiya | W+4.5 | 2005-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nVqMsRTHqzqQc93UVnFMRg%3D%3D) | 
-| 第12期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Sonjin | Cho Chikun | W+R | 2005-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Mxdr4WayDY0m6TQb5Cs0eg%3D%3D) | 
-| 第30期名人戦リーグ | Yamashita Keigo | Cho Sonjin | B+R | 2005-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m67p2r0222MDWSqO4nQ%2FiA%3D%3D) | 
-| 第30期名人戦リーグ | Sakai Hideyuki | Cho Sonjin | W+R | 2005-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lo7RCw41Q5R8e7W6lXaQqA%3D%3D) | 
-| 第30期名人戦リーグ | Cho Sonjin | O Meien | W+R | 2005-04-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i4WBKWLePZOu91dO6MEKHA%3D%3D) | 
-| 第60期本因坊戦挑戦者決定プレーオフ | Takao Shinji | Cho Sonjin | B+R | 2005-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2bXXpFYR6yXtLT%2BQj49LDQ%3D%3D) | 
-| 第60期本因坊戦リーグ | Cho Sonjin | Takao Shinji | B+0.5 | 2005-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TJCfMKgprZ3I%2Be6wvW9KwQ%3D%3D) | 
-| 第60期本因坊戦リーグ | Cho Sonjin | Yoda Norimoto | W+R | 2005-03-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0fxLCLdmjv6kuWJpo6DE2w%3D%3D) | 
-| 第30期名人戦リーグ | Yamada Kimio | Cho Sonjin | B+R | 2005-03-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5G4O%2B%2FZezj%2BaYrJenUBuvw%3D%3D) | 
-| 第24期NECカップ囲碁トーナメント戦準決勝 | Ryu Shikun | Cho Sonjin | B+0.5 | 2005-02-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G%2B8x33ZWUHRu9BzjQuVABw%3D%3D) | 
-| 第30期名人戦リーグ | Cho Sonjin | Ogata Masaki | W+R | 2005-02-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QuLmq5ytHjcZJv%2FnfPvO5A%3D%3D) | 
-| 第60期本因坊戦リーグ | Mimura Tomoyasu | Cho Sonjin | W+R | 2005-02-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ar29KR2pdnBz%2BLhc1JDA8g%3D%3D) | 
-| 第60期本因坊戦リーグ | Cho Sonjin | Han Zenki | B+R | 2005-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S%2FW1peXvT2Gx0lmOHJDK9A%3D%3D) | 
-| 第30期名人戦リーグ | Kobayashi Satoru | Cho Sonjin | B+R | 2005-01-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q0lOBCJvSIa5hWyQL%2FE4Pw%3D%3D) | 
-| 第60期本因坊戦リーグ | O Meien | Cho Sonjin | W+R | 2004-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q284y35LCtVOEFVEs9NYiA%3D%3D) | 
-| 第30期名人戦リーグ | Cho Sonjin | Yoda Norimoto | W+R | 2004-12-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mXJDcIUxoctARU9QId1WBw%3D%3D) | 
-| 第60期本因坊戦リーグ | So Yokoku | Cho Sonjin | W+R | 2004-11-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ePb5hWM9MZLXPI1tD%2FvkHA%3D%3D) | 
-| 第30期名人戦予選 | Komatsu Hideki | Cho Sonjin | W+R | 2004-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WtnoK3WztSspSNjcTkEKTg%3D%3D) | 
-| 第24期NECカップ囲碁トーナメント戦2回戦 | Hane Naoki | Cho Sonjin | W+R | 2004-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BsYJzXsOWq8SUFw%2FhLxsEw%3D%3D) | 
-| 第60期本因坊戦リーグ | Cho Sonjin | O Rissei | B+R | 2004-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pMHH%2BGbkt6D%2BvrDL0E14%2FA%3D%3D) | 
-| 第30期碁聖戦予選 | Cho Chikun | Cho Sonjin | B+0.5 | 2004-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3qPWczfhX5cgGVUCwywp7Q%3D%3D) | 
-| 第24期NECカップ囲碁トーナメント戦1回戦 | O Meien | Cho Sonjin | W+R | 2004-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jTQsPOFRFIGViLiEuqMg9Q%3D%3D) | 
-| 第59期本因坊戦リーグ | Cho Sonjin | Kato Masao | B+3.5 | 2004-04-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=s0GioVJD2lISCGLWD%2B6LHQ%3D%3D) | 
-| 第59期本因坊戦リーグ | Cho Sonjin | Mimura Tomoyasu | W+R | 2004-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rAhyrj9Gocfkyid74%2FLZSA%3D%3D) | 
-| 第30期天元戦本戦2回戦 | Cho Chikun | Cho Sonjin | B+3.5 | 2004-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1qCZS75fpojV4fT5vrWoWw%3D%3D) | 
-| 第30期天元戦本戦1回戦 | Ishii Shinzo | Cho Sonjin | W+0.5 | 2004-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=baS2UgxtKbTsxl0yv7n6og%3D%3D) | 
-| 第59期本因坊戦リーグ | Cho Sonjin | Yoda Norimoto | W+1.5 | 2004-02-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RXl07u6xjyn14enwkWDT8w%3D%3D) | 
-| 第59期本因坊戦リーグ | O Rissei | Cho Sonjin | W+R | 2004-01-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1%2FgBp98pMtaMjFIDb%2BNJmQ%3D%3D) | 
-| 第52期王座戦予選 | Yuki Satoshi | Cho Sonjin | B+R | 2004-01-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4gmgqGJ7nBlnav70D3hSag%3D%3D) | 
-| 第59期本因坊戦リーグ | O Meien | Cho Sonjin | W+2.5 | 2003-12-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uv9RBzbIEOZoJQMiFZHeHw%3D%3D) | 
-| 第23期NECカップ囲碁トーナメント戦2回戦 | Cho Sonjin | Yamashita Keigo | W+R | 2003-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UYUTu4BgRbLNhFz1BIM9%2Bw%3D%3D) | 
-| 第59期本因坊戦リーグ | Kobayashi Koichi | Cho Sonjin | B+R | 2003-11-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CQ7K3mnHVQAFEQdMem0eWg%3D%3D) | 
-| 第59期本因坊戦リーグ | Cho Sonjin | Yamashita Keigo | B+6.5 | 2003-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mRogLb0DCf7Pgp%2BwPUISoQ%3D%3D) | 
-| 第29期天元戦本戦3回戦 | Kono Rin | Cho Sonjin | B+0.5 | 2003-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LUd564J%2B7CodG7AYfiXyMg%3D%3D) | 
-| 第23期NECカップ囲碁トーナメント戦1回戦 | Ryu Shikun | Cho Sonjin | W+R | 2003-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o%2FydfOBB%2FmjPpQCDe6267w%3D%3D) | 
-| 第29期天元戦本戦2回戦 | Cho Sonjin | Yokota Shigeaki | B+6.5 | 2003-03-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vGLmJuSk6d5pXBXcK8N%2Fkw%3D%3D) | 
-| 第29期天元戦本戦1回戦 | Michael Redmond | Cho Sonjin | W+R | 2003-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oKOnbO2F2fujncHVa5uvmQ%3D%3D) | 
-| 第28期碁聖戦本戦1回戦 | Cho Sonjin | Sasaka Shiro | W+3.5 | 2002-12-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KWgTm5f4XT82K%2Fc8pZ%2BBVQ%3D%3D) | 
-| 第5期三星杯1回戦 | missing | Cho Sonjin | B+2.5 | 2000-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PbKVsEnAFetXD49AuVjy2Q%3D%3D) | 
-| 第1回農心辛ラーメン杯世界囲碁最強戦第13戦 | Cho Sonjin | Lee Changho | W+R | 2000-03-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dmtZk%2B4XsX6KDUUpj1RX%2FA%3D%3D) | 
-| 第1回農心辛ラーメン杯世界囲碁最強戦第12戦 | Cho Sonjin | Chang Hao | B+2.5 | 2000-03-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vFmnCBFxgs6pmn27bNmppw%3D%3D) | 
-| 第4期三星杯決勝五番勝負第3局 | Cho Sonjin | Lee Changho | W+4.5 | 1999-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yhqgJUb300GMBj2d9Ke16g%3D%3D) | 
-| 第4期三星杯決勝五番勝負第2局 | Lee Changho | Cho Sonjin | B+R | 1999-12-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F92JEm8TgbnE6JhTP7YqAg%3D%3D) | 
-| 第4期三星杯決勝五番勝負第1局 | Cho Sonjin | Lee Changho | W+R | 1999-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LB9nSW3W97UUTMyqkjNtvg%3D%3D) | 
-| 第4期三星杯準決勝 | Cho Sonjin | Hikosaka Naoto | B+R | 1999-10-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HZ7UcgCcwJ%2FxvGqxxIRz2A%3D%3D) | 
-| 第4期三星杯3回戦 | Wang Lei (b) | Cho Sonjin | W+R | 1999-10-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dHdN3l00tpM2nghYpQWesw%3D%3D) | 
-| 第4期三星杯2回戦 | Cho Sonjin | missing | B+R | 1999-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FFwm%2BhNwTl9GB2I0J8eBRw%3D%3D) | 
-| 第4期三星杯1回戦 | Cho Sonjin | Cao Dayuan | B+3.5 | 1999-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=74Vjp%2BGSNKT%2BmOuStR%2BkIQ%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-09 | 第48期天元戦予選 | Cho Sonjin | Cho U | Lose | W+4.5 | 6.5 | 2757 | -182 | 
+| 2021-09-23 | 第47期碁聖戦予選 | Cho Sonjin | Anzai Nobuaki | Lose | W+R | 6.5 | 2939 | -51 | 
+| 2021-07-29 | 第47期名人戦予選 | Takao Shinji | Cho Sonjin | Lose | B+R | 6.5 | 2990 | 13 | 
+| 2021-06-24 | 第47期名人戦予選 | Michael Redmond | Cho Sonjin | Win | W+1.5 | 6.5 | 2977 | -99 | 
+| 2021-06-17 | 第60期十段戦予選 | Okuda Aya | Cho Sonjin | Lose | B+R | 6.5 | 3076 | -15 | 
+| 2021-04-19 | 第77期本因坊戦予選 | Cho Sonjin | Fujita Akihiko | Win | B+1.5 | 6.5 | 3091 | 6 | 
+| 2021-04-05 | 第46期棋聖戦予選 | Mizokami Tomochika | Cho Sonjin | Lose | B+3.5 | 6.5 | 3085 | 20 | 
+| 2021-04-01 | 第77期本因坊戦予選 | Cho Sonjin | Ryu Shikun | Win | B+3.5 | 6.5 | 3065 | -15 | 
+| 2021-03-08 | 第69期王座戦予選 | Cho Sonjin | Chang Rueijie | Lose | W+R | 6.5 | 3080 | -86 | 
+| 2021-01-28 | 第69期王座戦予選 | Kobayashi Satoru | Cho Sonjin | Win | W+1.5 | 6.5 | 3166 | -68 | 
+| 2020-11-19 | 第47期天元戦予選 | Cho Sonjin | Suzuki Shinji | Lose | W+1.5 | 6.5 | 3234 | -75 | 
+| 2020-10-22 | 第47期天元戦予選 | Cho Sonjin | Uchida Shuhei | Win | B+R | 6.5 | 3309 | -3 | 
+| 2020-10-15 | 第46期碁聖戦予選 | Hirata Tomoya | Cho Sonjin | Win | W+1.5 | 6.5 | 3312 | 104 | 
+| 2020-09-24 | 第46期碁聖戦予選 | Yao Zhiteng | Cho Sonjin | Win | W+0.5 | 6.5 | 3208 | 84 | 
+| 2020-08-31 | 第59期十段戦予選 | Cho Sonjin | Sun Zhe | Lose | W+R | 6.5 | 3124 | 9 | 
+| 2020-08-27 | 第46期碁聖戦予選 | Cho Sonjin | Lee Ishu | Win | B+R | 6.5 | 3115 | 174 | 
+| 2020-07-30 | 第59期十段戦予選 | Cho Sonjin | Miyazawa Goro | Win | B+R | 6.5 | 2941 | 19 | 
+| 2020-06-11 | 第59期十段戦予選 | Cho Sonjin | Ogaki Yusaku | Win | B+R | 6.5 | 2922 | 211 | 
+| 2020-04-02 | 第46期名人戦予選 | Cho Sonjin | Yoda Norimoto | Lose | W+R | 6.5 | 2711 | -22 | 
+| 2020-03-26 | 第46期天元戦2回戦 | Nishi Takenobu | Cho Sonjin | Lose | B+0.5 | 6.5 | 2733 | -43 | 
+| 2020-03-05 | 第46期名人戦予選 | Cho Sonjin | Tajiri Yuto | Win | B+R | 6.5 | 2776 | 80 | 
+| 2020-02-20 | 第76期本因坊戦予選 | Tsuruyama Atsushi | Cho Sonjin | Lose | B+5.5 | 6.5 | 2696 | -162 | 
+| 2020-01-23 | 第46期天元戦1回戦 | Anzai Nobuaki | Cho Sonjin | Win | W+R | 6.5 | 2858 | 47 | 
+| 2019-12-26 | 第45期棋聖戦ファーストトーナメント予選 |  | Cho Sonjin | Lose | B+0.5 | 6.5 | 2811 | 239 | 
+| 2019-11-28 | 第76期本因坊戦予選 | Kenmochi Joe | Cho Sonjin | Win | W+R | 6.5 | 2572 | -47 | 
+| 2019-11-21 | 第46期天元戦予選 | Ko Iso | Cho Sonjin | Win | W+R | 6.5 | 2619 | 110 | 
+| 2019-11-14 | 第45期棋聖戦ファーストトーナメント予選 | Cho Sonjin | Nishimura Keiji | Win | B+R | 6.5 | 2509 | 39 | 
+| 2019-10-24 | 第46期天元戦予選 | Cho Sonjin | Ryu Shikun | Win | B+R | 6.5 | 2470 | 99 | 
+| 2019-10-10 | 第68期王座戦予選 | Cho Sonjin | Ryu Shikun | Lose | W+R | 6.5 | 2371 | 56 | 
+| 2019-09-19 | 第68期王座戦予選 | Shiraishi Yuichi | Cho Sonjin | Win | W+R | 6.5 | 2315 | -1 | 
+| 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Cho Sonjin | Tao Xinran | Lose | W+R | 6.5 | 2316 | -15 | 
+| 2019-08-22 | 第45期碁聖戦予選 | Cho Sonjin | Cho Riyu | Lose | W+R | 6.5 | 2331 | -91 | 
+| 2019-06-27 | 第45期名人戦予選 | Koyama Kuya | Cho Sonjin | Lose | B+R | 6.5 | 2422 | -77 | 
+| 2019-06-13 | 第68期王座戦予選 | Izawa Akino | Cho Sonjin | Win | W+R | 6.5 | 2499 | 56 | 
+| 2019-05-30 | 第58期十段戦予選 | Cho Sonjin | Ohashi Hirofumi | Lose | W+R | 6.5 | 2443 | -20 | 
+| 2019-05-16 | 第45期名人戦予選 | Cho Sonjin | Mizuma Toshifumi | Win | B+3.5 | 6.5 | 2463 | -69 | 
+| 2019-04-18 | 第45期名人戦予選 | Cho Sonjin | Tsuruyama Atsushi | Win | B+R | 6.5 | 2532 | 32 | 
+| 2019-03-28 | 第75期本因坊戦予選 | Yokotsuka Riki | Cho Sonjin | Lose | B+R | 6.5 | 2500 | -16 | 
+| 2019-03-21 | 第45期名人戦予選 | Cho Sonjin | Ando Kazushige | Win | B+R | 6.5 | 2516 | -18 | 
+| 2019-02-14 | 第44期棋聖戦ファーストトーナメント予選 | Cho Sonjin | Mochizuki Kenichi | Lose | W+R | 6.5 | 2534 | -20 | 
+| 2019-01-31 | 第44期棋聖戦予選 | Cho Sonjin | Mitani Tetsuya | Win | B+R | 6.5 | 2554 | 7 | 
+| 2019-01-27 | 第3回ワールド碁チャンピオンシップ国際予選準決勝 | Cho Sonjin | Yuki Satoshi | Lose | W+6.5 | 6.5 | 2547 | -56 | 
+| 2019-01-10 | 第44期棋聖戦ファーストトーナメント予選 | Cho Sonjin | Kuo Chyoching | Win | B+R | 6.5 | 2603 | -149 | 
+| 2018-11-15 | 第44期棋聖戦ファーストトーナメント予選 | Cho Sonjin | Kato Atsushi | Win | B+0.5 | 6.5 | 2752 | -48 | 
+| 2018-11-01 | 第45期天元戦予選 | Takeuchi Kousuke | Cho Sonjin | Lose | B+2.5 | 6.5 | 2800 | 27 | 
+| 2018-10-18 | 第67期王座戦予選 | Cho Sonjin | Tsuruyama Atsushi | Lose | W+R | 6.5 | 2773 | 0 | 
+| 2018-10-11 | 第45期天元戦予選 | Cho Sonjin | Koyama Mitsuru | Win | B+R | 6.5 | 2773 | -7 | 
+| 2018-09-20 | 第44期碁聖戦予選 | Cho Sonjin | Kim Sujun | Lose | W+3.5 | 6.5 | 2780 | -15 | 
+| 2018-08-30 | 第44期碁聖戦予選 | Cho Sonjin | Mitani Tetsuya | Win | B+R | 6.5 | 2795 | 58 | 
+| 2018-08-23 | 第43期棋聖戦Cリーグ | Komatsu Hideki | Cho Sonjin | Lose | B+R | 7.5 | 2737 | 8 | 
+| 2018-08-02 | 第44期碁聖戦予選 | Komatsu Hideki | Cho Sonjin | Win | W+R | 7.5 | 2729 | 65 | 
+| 2018-06-28 | 第43期棋聖戦Cリーグ | Nishi Takenobu | Cho Sonjin | Lose | B+R | 6.5 | 2664 | -48 | 
+| 2018-06-21 | 第74期本因坊戦予選 | Cho Sonjin | Ichiriki Ryo | Lose | W+R | 6.5 | 2712 | 12 | 
+| 2018-06-14 | 第44期名人戦予選 | Cho Sonjin | Koike Yoshihiro | Lose | W+9.5 | 6.5 | 2700 | -83 | 
+| 2018-05-31 | 第57期十段戦最終予選 | Adachi Toshimasa | Cho Sonjin | Lose | B+7.5 | 6.5 | 2783 | -36 | 
+| 2018-05-24 | 第43期棋聖戦Cリーグ | Cho Sonjin | Han Zenki | Lose | W+R | 6.5 | 2819 | 22 | 
+| 2018-05-17 | 第74期本因坊戦予選 | Cho Sonjin | Horimoto Mitsunari | Win | B+R | 6.5 | 2797 | 31 | 
+| 2018-04-19 | 第43期棋聖戦Cリーグ | Takashima Yugo | Cho Sonjin | Win | W+R | 6.5 | 2766 | 35 | 
+| 2018-04-12 | 第57期十段戦予選 | Yao Zhiteng | Cho Sonjin | Win | W+R | 6.5 | 2731 | -93 | 
+| 2018-03-01 | 第43期棋聖戦ファーストトーナメント予選 | Kono Takashi | Cho Sonjin | Win | W+R | 6.5 | 2824 | 88 | 
+| 2018-02-08 | 第66期王座戦予選 | Cho Sonjin | Kobayashi Satoru | Lose | W+R | 6.5 | 2736 | -11 | 
+| 2018-01-25 | 第43期棋聖戦ファーストトーナメント予選 | Cho Sonjin | Takanashi Seiken | Win | B+R | 6.5 | 2747 | -30 | 
+| 2018-01-18 | 第57期十段戦予選 | Cho Sonjin | Obuchi Kotaro | Win | B+R | 6.5 | 2777 | 32 | 
+| 2017-12-21 | 第66期王座戦予選 | Cho Sonjin | Cho Chikun | Win | B+R | 6.5 | 2745 | 132 | 
+| 2017-11-30 | 第43期棋聖戦ファーストトーナメント予選 | Nobuta Shigehito | Cho Sonjin | Win | W+R | 6.5 | 2613 | -2 | 
+| 2017-11-16 | 第43期棋聖戦ファーストトーナメント予選 | Izumitani Hideo | Cho Sonjin | Win | W+R | 6.5 | 2615 | -19 | 
+| 2017-10-26 | 第44期天元戦予選 | Tsuneishi Takashi | Cho Sonjin | Lose | B+R | 7.5 | 2634 | -96 | 
+| 2017-09-14 | 第44期天元戦予選 | Yo Kaei | Cho Sonjin | Win | W+R | 6.5 | 2730 | 3 | 
+| 2017-09-07 | 56期十段戦予選決勝 | Cho Sonjin | Ida Atsushi | Lose | W+R | 6.5 | 2727 | 53 | 
+| 2017-08-10 | 第43期碁聖戦　予選A | Kim Sujun | Cho Sonjin | Lose | B+R | 6.5 | 2674 | -98 | 
+| 2017-07-20 | 第43期名人戦　予選A | Cho Sonjin | Anzai Nobuaki | Lose | W+13.5 | 6.5 | 2772 | -48 | 
+| 2017-06-22 | 第73期本因坊戦　最終予選第3局 | Hsu Chiayuan | Cho Sonjin | Lose | B+2.5 | 6.5 | 2820 | -3 | 
+| 2017-06-15 | 第42期棋聖戦　Cリーグ3回戦 | Cho Sonjin | Suzuki Shinji | Lose | W+R | 6.5 | 2823 | -67 | 
+| 2017-06-01 | 第56期十段戦　最終予選 | Yamada Kimio | Cho Sonjin | Win | W+R | 6.5 | 2890 | -10 | 
+| 2017-05-25 | 第24期阿含・桐山杯　最終予選決勝 | Cho Sonjin | Shibano Toramaru | Lose | W+2.5 | 6.5 | 2900 | 18 | 
+| 2017-05-18 | 第42期棋聖戦　Cリーグ2回戦 | Onishi Ryuhei | Cho Sonjin | Lose | B+R | 6.5 | 2882 | -17 | 
+| 2017-05-14 | 第65回NHK杯テレビ囲碁トーナメント戦1回戦第7局 | Cho Sonjin | Fujisawa Rina | Win | B+R | 6.5 | 2899 | 42 | 
+| 2017-04-27 | 第42期棋聖戦リーグ戦C組 |  | Cho Sonjin | Lose | B+3.5 | 6.5 | 2857 | -19 | 
+| 2017-04-06 | 第73期本因坊戦　予選A決勝 | Ogaki Yusaku | Cho Sonjin | Win | W+R | 6.5 | 2876 | 218 | 
+| 2017-03-23 | 第56期十段戦　予選A決勝 | Cho Sonjin | Numadate Sakiya | Win | B+2.5 | 6.5 | 2658 | 4 | 
+| 2017-02-16 | 第73期本因坊戦　予選A | Numadate Sakiya | Cho Sonjin | Win | W+R | 6.5 | 2654 | -1 | 
+| 2017-02-09 | 第65期王座戦　最終予選 | Ishii Kunio | Cho Sonjin | Lose | B+4.5 | 6.5 | 2655 | 2 | 
+| 2017-01-26 | 第56期十段戦　予選A | Cho Sonjin | Ito Masashi | Win | B+5.5 | 6.5 | 2653 | -8 | 
+| 2016-11-10 | 第65期王座戦　予選A決勝 | Yamada Shinji | Cho Sonjin | Win | W+R | 6.5 | 2661 | -3 | 
+| 2016-11-03 | 第43期天元戦　予選A決勝 | Cho Sonjin | Motoki Katsuya | Lose | W+R | 6.5 | 2664 | -1 | 
+| 2016-10-20 | 第65期王座戦予選 | Anzai Nobuaki | Cho Sonjin | Win | W+R | 6.5 | 2665 | 2 | 
+| 2016-10-13 | 第43期天元戦予選 | Mochizuki Kenichi | Cho Sonjin | Win | W+R | 6.5 | 2663 | -3 | 
+| 2016-10-06 | 第42期碁聖戦予選 | Cho Sonjin | Matsumoto Takehisa | Win | B+R | 6.5 | 2666 | -1 | 
+| 2016-09-29 | 第42期名人戦最終予選 | Muramatsu Hiroki | Cho Sonjin | Lose | B+2.5 | 6.5 | 2667 | 4 | 
+| 2016-09-22 | 第65期王座戦予選 | Cho Sonjin | Yokotsuka Riki | Win | B+R | 6.5 | 2663 | 4 | 
+| 2016-08-25 | 第72期本因坊戦　最終予選決勝第2局 | Yuki Satoshi | Cho Sonjin | Lose | B+R | 6.5 | 2659 | -5 | 
+| 2016-08-11 | 第42期名人戦予選 | Cho Sonjin | Hashimoto Yujiro | Win | B+R | 6.5 | 2664 | -2 | 
+| 2016-08-04 | 第41期棋聖戦Bリーグ | Seto Taiki | Cho Sonjin | Win | W+1.5 | 6.5 | 2666 | -4 | 
+| 2016-07-28 | 第72期本因坊戦予選 | Cho Sonjin | Yu Zhengqi | Win | B+R | 6.5 | 2670 | 1 | 
+| 2016-07-20 | 第21回三星火災杯統合予選シニア枠決勝 | Cho Sonjin | Jeong Daesang | Lose | W+0.5 | 6.5 | 2669 | 0 | 
+| 2016-07-07 | 第41期棋聖戦Bリーグ | Cho Sonjin | Hane Naoki | Lose | W+R | 6.5 | 2669 | -7 | 
+| 2016-06-23 | 第41期棋聖戦Bリーグ | Cho Sonjin | Kiyonari Tetsuya | Win | B+R | 6.5 | 2676 | -3 | 
+| 2016-06-09 | 第72期本因坊戦予選 | Cho Sonjin | Nakamura Shinya | Win | B+5.5 | 6.5 | 2679 | 2 | 
+| 2016-05-19 | 第41期棋聖戦Bリーグ | Cho Sonjin | Akiyama Jiro | Lose | W+R | 6.5 | 2677 | -1 | 
+| 2016-04-28 | 第55期十段戦予選 | Cho Sonjin | Kurotaki Masanori | Lose | W+R | 6.5 | 2678 | 74 | 
+| 2016-04-21 | 第41期棋聖戦Bリーグ | Ko Iso | Cho Sonjin | Lose | B+R | 6.5 | 2604 | 54 | 
+| 2016-03-24 | 第72期本因坊戦予選 | Cho Sonjin | Kurotaki Masanori | Win | B+R | 6.5 | 2550 | -12 | 
+| 2016-03-03 | 第41期棋聖戦Bリーグ | Yuki Satoshi | Cho Sonjin | Lose | B+0.5 | 6.5 | 2562 | -90 | 
+| 2016-02-11 | 第72期本因坊戦予選 | Awaji Shuzo | Cho Sonjin | Win | W+R | 6.5 | 2652 | -108 | 
+| 2016-01-14 | 第55期十段戦予選 | Cho Sonjin | Aoki Shinichi | Win | B+6.5 | 6.5 | 2760 | 51 | 
+| 2015-12-10 | 第42期天元戦本戦1回戦 | Cho Sonjin | Murakawa Daisuke | Lose | W+1.5 | 6.5 | 2709 | -23 | 
+| 2015-11-26 | 第72期本因坊戦予選 | Cho Sonjin | Fujisawa Kazunari | Win | B+R | 6.5 | 2732 | 24 | 
+| 2015-11-12 | 第64期王座戦予選 | Cho Sonjin | Kono Mitsuki | Lose | W+R | 6.5 | 2708 | 0 | 
+| 2015-10-29 | 第42期天元戦予選 | Tsuruyama Atsushi | Cho Sonjin | Win | W+R | 6.5 | 2708 | 63 | 
+| 2015-10-08 | 第42期天元戦予選 | Ko Reibun | Cho Sonjin | Win | W+5.5 | 6.5 | 2645 | -24 | 
+| 2015-09-24 | 第41期名人戦予選 | Kurahashi Masayuki | Cho Sonjin | Lose | B+R | 6.5 | 2669 | -45 | 
+| 2015-09-10 | 第40期棋聖戦Cリーグ | Sakai Maki | Cho Sonjin | Win | W+7.5 | 6.5 | 2714 | -1 | 
+| 2015-09-03 | 第41期名人戦予選 | Cho Sonjin | Imamura Yoshiaki | Win | B+R | 6.5 | 2715 | -127 | 
+| 2015-08-13 | 第40期棋聖戦Cリーグ | Cho Sonjin | Ohba Junya | Win | B+R | 6.5 | 2842 | -35 | 
+| 2015-08-06 | 第41期名人戦予選 | Cho Sonjin | Rin Shien | Win | B+R | 6.5 | 2877 | 23 | 
+| 2015-07-30 | 第54期十段戦予選 | Ichiriki Ryo | Cho Sonjin | Lose | B+R | 6.5 | 2854 | -9 | 
+| 2015-07-16 | 第40期棋聖戦Cリーグ | Cho Sonjin | Nakano Hironari | Win | B+1.5 | 6.5 | 2863 | 19 | 
+| 2015-07-09 | 第41期名人戦予選 | Kato Atsushi | Cho Sonjin | Win | W+R | 6.5 | 2844 | -12 | 
+| 2015-07-02 | 第40期棋聖戦Cリーグ | Cho Sonjin | Yu Zhengqi | Lose | W+1.5 | 6.5 | 2856 | -88 | 
+| 2015-05-21 | 第40期棋聖戦Cリーグ | Imamura Toshiya | Cho Sonjin | Win | W+R | 6.5 | 2944 | -37 | 
+| 2015-05-14 | 第71期本因坊戦予選 | Kim Sujun | Cho Sonjin | Lose | B+R | 6.5 | 2981 | -65 | 
+| 2015-04-14 | 第20回LG杯予選 | Cho Sonjin | Park Younglong | Lose | W+R | 6.5 | 3046 | 23 | 
+| 2015-04-09 | 第63期王座戦予選 | Sun Zhe | Cho Sonjin | Lose | B+R | 6.5 | 3023 | -37 | 
+| 2015-04-02 | 第71期本因坊戦予選 | Chino Tadahiko | Cho Sonjin | Win | W+R | 6.5 | 3060 | -40 | 
+| 2015-03-26 | 第40期棋聖戦予選 | Morita Michihiro | Cho Sonjin | Win | W+3.5 | 6.5 | 3100 | -155 | 
+| 2015-02-19 | 第40期棋聖戦予選 | Suzuki Shinji | Cho Sonjin | Win | W+R | 6.5 | 3255 | -29 | 
+| 2015-01-25 | 第1回OVER40早碁トーナメント戦決勝 | Aoki Shinichi | Cho Sonjin | Win | W+0.5 | 6.5 | 3284 | 0 | 
+| 2015-01-25 | 第1回OVER40早碁トーナメント戦準決勝 | Kato Atsushi | Cho Sonjin | Win | W+R | 6.5 | 3284 | 50 | 
+| 2015-01-22 | 第63期王座戦予選 | Yo Kagen | Cho Sonjin | Win | W+R | 6.5 | 3234 | 59 | 
+| 2015-01-15 | 第40期棋聖戦予選 | Ikeda Ayako | Cho Sonjin | Win | W+R | 6.5 | 3175 | 30 | 
+| 2014-12-18 | 第63期王座戦予選 | Cho Sonjin | Ishikura Noboru | Win | B+R | 6.5 | 3145 | 30 | 
+| 2014-12-11 | 第40期碁聖戦本戦1回戦 | Hane Naoki | Cho Sonjin | Lose | B+R | 6.5 | 3115 | 145 | 
+| 2014-10-23 | 第41期天元戦予選 | Cho Sonjin | Yamashita Keigo | Lose | W+R | 6.5 | 2970 | -22 | 
+| 2014-10-13 | 第53期十段戦1回戦 | So Yokoku | Cho Sonjin | Lose | B+R | 6.5 | 2992 | -101 | 
+| 2014-09-25 | 第41期天元戦予選 | Cho Sonjin | Otake Hideo | Win | B+R | 6.5 | 3093 | 63 | 
+| 2014-08-07 | 第53期十段戦予選 | Cho Sonjin | Cho U | Win | B+1.5 | 6.5 | 3030 | 51 | 
+| 2014-07-17 | 第40期名人戦予選 | Shuto Shun | Cho Sonjin | Lose | B+R | 6.5 | 2979 | -83 | 
+| 2014-06-12 | 第40期名人戦予選 | Kamimura Haruo | Cho Sonjin | Win | W+R | 6.5 | 3062 | 60 | 
+| 2014-05-15 | 第53期十段戦予選 | Kato Atsushi | Cho Sonjin | Win | W+R | 6.5 | 3002 | 40 | 
+| 2014-05-01 | 第39期碁聖戦本戦準決勝 | Cho Sonjin | Kono Rin | Lose | W+R | 6.5 | 2962 | -134 | 
+| 2014-04-15 | 第19回LG杯予選 | Kang Dajeong | Cho Sonjin | Win | W+R | 6.5 | 3096 | -17 | 
+| 2014-04-10 | 第62期王座戦予選 | Cho Sonjin | Nakano Hironari | Lose | W+R | 6.5 | 3113 | 40 | 
+| 2014-03-27 | 第53期十段戦予選 | Cho Sonjin | Kenmochi Joe | Win | B+R | 6.5 | 3073 | -29 | 
+| 2014-03-20 | 第39期碁聖戦本戦3回戦 | Yamashiro Hiroshi | Cho Sonjin | Win | W+R | 6.5 | 3102 | 28 | 
+| 2014-03-13 | 第70期本因坊戦予選 | Endo Yoshifumi | Cho Sonjin | Lose | B+R | 6.5 | 3074 | -63 | 
+| 2014-02-27 | 第62期王座戦予選 | Cho Sonjin | Takeuchi Kousuke | Win | B+R | 6.5 | 3137 | 51 | 
+| 2014-01-30 | 第39期碁聖戦本戦2回戦 | Cho Sonjin | Ida Atsushi | Win | B+R | 6.5 | 3086 | 0 | 
+| 2014-01-23 | 第62期王座戦予選 | Cho Sonjin | Yao Zhiteng | Win | B+R | 6.5 | 3086 | 81 | 
+| 2014-01-16 | 第40期天元戦予選 | Takemiya Masaki | Cho Sonjin | Lose | B+R | 6.5 | 3005 | -24 | 
+| 2013-12-05 | 第62期王座戦予選 | Otake Hideo | Cho Sonjin | Win | W+0.5 | 6.5 | 3029 | 48 | 
+| 2013-11-28 | 第40期天元戦予選 | Cho Sonjin | Hoshino Masaki | Win | B+7.5 | 6.5 | 2981 | 9 | 
+| 2013-11-21 | 第39期碁聖戦本戦1回戦 | Cho Sonjin | Aragaki Shun | Win | B+R | 6.5 | 2972 | -27 | 
+| 2013-11-14 | 第39期棋聖戦予選 | Cho Sonjin | Ogaki Yusaku | Lose | W+3.5 | 6.5 | 2999 | 55 | 
+| 2013-10-31 | 第39期名人戦予選 | Yuki Satoshi | Cho Sonjin | Lose | B+R | 6.5 | 2944 | -38 | 
+| 2013-10-10 | 第39期名人戦予選 | Hirata Tomoya | Cho Sonjin | Win | W+4.5 | 6.5 | 2982 | -84 | 
+| 2013-09-19 | 第39期名人戦予選 | Yu Zhengqi | Cho Sonjin | Win | W+R | 6.5 | 3066 | -74 | 
+| 2013-09-12 | 第39期碁聖戦予選 | Cho Sonjin | Otake Hideo | Win | B+R | 6.5 | 3140 | 62 | 
+| 2013-09-05 | 第69期本因坊戦予選 | Ida Atsushi | Cho Sonjin | Lose | B+0.5 | 6.5 | 3078 | -43 | 
+| 2013-08-29 | 第39期名人戦予選 | Mimura Tomoyasu | Cho Sonjin | Win | W+1.5 | 6.5 | 3121 | 19 | 
+| 2013-08-22 | 第39期碁聖戦予選 | Cho Sonjin | Han Zenki | Win | B+R | 6.5 | 3102 | 84 | 
+| 2013-08-01 | 第69期本因坊戦予選 | Cho Sonjin | Yo Kagen | Win | B+R | 6.5 | 3018 | 8 | 
+| 2013-07-25 | 第52期十段戦予選 | Ogata Masaki | Cho Sonjin | Lose | B+R | 6.5 | 3010 | 57 | 
+| 2013-07-04 | 第39期名人戦予選 | Cho Sonjin | Shuto Shun | Win | B+R | 6.5 | 2953 | 23 | 
+| 2013-06-27 | 第69期本因坊戦予選 | Hane Yasumasa | Cho Sonjin | Win | W+R | 6.5 | 2930 | 115 | 
+| 2013-06-13 | 第39期名人戦予選 | Cho Riyu | Cho Sonjin | Win | W+R | 6.5 | 2815 | 70 | 
+| 2013-05-16 | 第39期碁聖戦予選 | Cho Sonjin | Motoki Katsuya | Win | B+0.5 | 6.5 | 2745 | -30 | 
+| 2013-05-02 | 第39期天元戦本戦2回戦 | Cho Sonjin | Akiyama Jiro | Lose | W+5.5 | 6.5 | 2775 | -48 | 
+| 2013-04-08 | 第68期本因坊戦リーグ | Ko Iso | Cho Sonjin | Lose | B+R | 6.5 | 2823 | -55 | 
+| 2013-03-21 | 第68期本因坊戦リーグ | Yuki Satoshi | Cho Sonjin | Win | W+R | 6.5 | 2878 | -8 | 
+| 2013-02-28 | 第39期天元戦本戦1回戦 | Cho Sonjin | Ida Atsushi | Win | B+R | 6.5 | 2886 | 70 | 
+| 2013-02-14 | 第68期本因坊戦リーグ | Cho Sonjin | Seto Taiki | Lose | W+0.5 | 6.5 | 2816 | 22 | 
+| 2013-01-17 | 第61期王座戦予選 | Cho Sonjin | Morita Michihiro | Lose | W+5.5 | 6.5 | 2794 | -54 | 
+| 2013-01-10 | 第68期本因坊戦リーグ | Cho Sonjin | Cho U | Lose | W+R | 6.5 | 2848 | -26 | 
+| 2012-12-27 | 第38期棋聖戦予選 | Yamada Takuji | Cho Sonjin | Lose | B+R | 6.5 | 2874 | 19 | 
+| 2012-12-20 | 第61期王座戦予選 | Cho Sonjin | Ko Mosei | Win | B+R | 6.5 | 2855 | 9 | 
+| 2012-12-17 | 第39期天元戦予選 | Kubo Hideo | Cho Sonjin | Win | W+1.5 | 6.5 | 2846 | 21 | 
+| 2012-12-13 | 第38期棋聖戦予選 | Kato Keiko | Cho Sonjin | Win | W+R | 6.5 | 2825 | 19 | 
+| 2012-12-03 | 第51期十段戦3回戦 | Cho Sonjin | Yuki Satoshi | Lose | W+R | 6.5 | 2806 | -367 | 
+| 2012-11-29 | 第68期本因坊戦リーグ | Takao Shinji | Cho Sonjin | Lose | B+R | 6.5 | 3173 | 108 | 
+| 2012-11-15 | 第61期王座戦予選 | Cho Sonjin | Ogaki Yusaku | Win | B+R | 6.5 | 3065 | 3 | 
+| 2012-11-01 | 第68期本因坊戦リーグ | Cho Sonjin | Imamura Toshiya | Lose | W+R | 6.5 | 3062 | -29 | 
+| 2012-10-25 | 第68期本因坊戦リーグ | Cho Sonjin | Yamashita Keigo | Lose | W+0.5 | 6.5 | 3091 | 39 | 
+| 2012-10-18 | 第39期天元戦予選 | Cho Sonjin | Kono Takashi | Win | B+R | 6.5 | 3052 | 38 | 
+| 2012-10-11 | 第51期十段戦2回戦 | Cho Sonjin | Kato Atsushi | Win | B+R | 6.5 | 3014 | 54 | 
+| 2012-10-04 | 第61期王座戦予選 | Cho Sonjin | Tsuneishi Takashi | Win | B+R | 6.5 | 2960 | -93 | 
+| 2012-08-30 | 第68期本因坊戦予選 | Imamura Yoshiaki | Cho Sonjin | Win | W+14.5 | 6.5 | 3053 | 77 | 
+| 2012-08-16 | 第38期碁聖戦予選 | Nakamura Shinya | Cho Sonjin | Lose | B+4.5 | 6.5 | 2976 | 7 | 
+| 2012-08-09 | 第19期阿含・桐山杯全日本早碁オープン戦2回戦 | Cho Sonjin | Hane Naoki | Lose | W+2.5 | 6.5 | 2969 | -48 | 
+| 2012-08-02 | 第68期本因坊戦予選 | Cho Sonjin | Fujii Shuya | Win | B+R | 6.5 | 3017 | -20 | 
+| 2012-07-16 | 第19期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Sonjin | Kanazawa Makoto | Win | B+5.5 | 6.5 | 3037 | 40 | 
+| 2012-07-12 | 第68期本因坊戦予選 | Cho Sonjin | Iwamaru Taira | Win | B+0.5 | 6.5 | 2997 | 10 | 
+| 2012-07-05 | 第51期十段戦予選 | Cho Sonjin | Imamura Toshiya | Win | B+R | 6.5 | 2987 | 57 | 
+| 2012-06-25 | 第8回大和証券杯ネット囲碁オープン予選 | Cho Sonjin | Kim Sujun | Lose | W+0.5 | 6.5 | 2930 | -32 | 
+| 2012-06-21 | 第19期阿含・桐山杯全日本早碁オープン戦予選 | Imamura Toshiya | Cho Sonjin | Win | W+R | 6.5 | 2962 | -5 | 
+| 2012-06-14 | 第38期名人戦予選 | Komatsu Hideki | Cho Sonjin | Lose | B+11.5 | 6.5 | 2967 | -156 | 
+| 2012-05-03 | 第68期本因坊戦予選 | Cho Sonjin | Matsumoto Takehisa | Win | B+3.5 | 6.5 | 3123 | -14 | 
+| 2012-04-19 | 第17回LG杯予選 | Wang Tao | Cho Sonjin | Lose | B+R | 6.5 | 3137 | -156 | 
+| 2012-03-01 | 第68期本因坊戦予選 | Sakai Takeshi | Cho Sonjin | Win | W+R | 6.5 | 3293 | 64 | 
+| 2012-01-19 | 第37期碁聖戦本戦2回戦 | Cho Sonjin | Yamada Noriyoshi | Lose | W+2.5 | 6.5 | 3229 | -60 | 
+| 2011-12-15 | 第37期棋聖戦予選 | Rin Kanketsu | Cho Sonjin | Lose | B+R | 6.5 | 3289 | 381 | 
+| 2011-11-24 | 第37期棋聖戦予選 | Cho Sonjin | Han Zenki | Win | B+R | 6.5 | 2908 | 27 | 
+| 2011-11-17 | 第37期碁聖戦本戦1回戦 | Cho Sonjin | Yokota Shigeaki | Win | B+R | 6.5 | 2881 | -16 | 
+| 2011-11-03 | 第37期棋聖戦予選 | Ueda Takashi | Cho Sonjin | Win | W+R | 6.5 | 2897 | -17 | 
+| 2011-10-20 | 第38期天元戦予選 | Cho Sonjin | Ryu Shikun | Lose | W+R | 6.5 | 2914 | -27 | 
+| 2011-10-13 | 第37期名人戦予選 | Cho Sonjin | Yoda Norimoto | Lose | W+1.5 | 6.5 | 2941 | -53 | 
+| 2011-09-22 | 第37期碁聖戦予選 | Cho Sonjin | O Meien | Win | B+R | 6.5 | 2994 | 56 | 
+| 2011-09-15 | 第38期天元戦予選 | Takemiya Masaki | Cho Sonjin | Win | W+0.5 | 6.5 | 2938 | 102 | 
+| 2011-08-18 | 第37期名人戦予選 | Cho Sonjin | Ohba Junya | Win | B+R | 6.5 | 2836 | -45 | 
+| 2011-08-04 | 第37期碁聖戦予選 | Cho Sonjin | Rin Kaiho | Win | B+R | 6.5 | 2881 | 38 | 
+| 2011-07-28 | 第37期名人戦予選 | Mukai Chiaki | Cho Sonjin | Win | W+R | 6.5 | 2843 | 28 | 
+| 2011-07-14 | 第50期十段戦1回戦 | Cho Sonjin | Yoda Norimoto | Lose | W+R | 6.5 | 2815 | -11 | 
+| 2011-07-07 | 第60期王座戦予選 | Cho Sonjin | Kono Mitsuki | Lose | W+4.5 | 6.5 | 2826 | -39 | 
+| 2011-06-30 | 第37期碁聖戦予選 | Mannami Kana | Cho Sonjin | Win | W+R | 6.5 | 2865 | -110 | 
+| 2011-06-23 | 第37期名人戦予選 | Cho Sonjin | Sugimoto Akira | Win | B+R | 6.5 | 2975 | -24 | 
+| 2011-06-16 | 第67期本因坊戦予選 | Cho Sonjin | Kono Rin | Lose | W+4.5 | 6.5 | 2999 | -21 | 
+| 2011-06-09 | 第18期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Sonjin | Yuki Satoshi | Lose | W+1.5 | 6.5 | 3020 | -10 | 
+| 2011-06-02 | 第60期王座戦予選 | Shiraishi Yuichi | Cho Sonjin | Win | W+R | 6.5 | 3030 | 28 | 
+| 2011-05-26 | 第50期十段戦予選 | Cho Sonjin | Ha Youngil | Win | B+R | 6.5 | 3002 | 71 | 
+| 2011-05-12 | 第18期阿含・桐山杯全日本早碁オープン戦予選 | Awaji Shuzo | Cho Sonjin | Win | W+R | 6.5 | 2931 | -98 | 
+| 2011-04-30 | 第16回LG杯予選 | Paek Hongseok | Cho Sonjin | Lose | B+R | 6.5 | 3029 | -12 | 
+| 2011-04-14 | 第50期十段戦予選 | Cho Sonjin | Kobayashi Satoru | Win | B+R | 6.5 | 3041 | 4 | 
+| 2011-04-07 | 第60期王座戦予選 | Cho Sonjin | Ohashi Hirofumi | Win | B+R | 6.5 | 3037 | 26 | 
+| 2011-03-31 | 第66期本因坊戦リーグ | Kobayashi Satoru | Cho Sonjin | Win | W+11.5 | 6.5 | 3011 | -28 | 
+| 2011-03-10 | 第66期本因坊戦リーグ | Cho Sonjin | Takao Shinji | Lose | W+R | 6.5 | 3039 | -12 | 
+| 2011-03-03 | 第50期十段戦予選 | Miyazawa Goro | Cho Sonjin | Win | W+R | 6.5 | 3051 | 57 | 
+| 2011-02-07 | 第66期本因坊戦リーグ | Iyama Yuta | Cho Sonjin | Lose | B+R | 6.5 | 2994 | -16 | 
+| 2011-02-03 | 第50期十段戦予選 | Tsuruyama Atsushi | Cho Sonjin | Win | W+R | 6.5 | 3010 | 147 | 
+| 2011-01-20 | 第66期本因坊戦リーグ | Cho U | Cho Sonjin | Lose | B+R | 6.5 | 2863 | -50 | 
+| 2011-01-13 | 第60期王座戦予選 | Cho Sonjin | Sato Fumitoshi | Win | B+R | 6.5 | 2913 | 110 | 
+| 2010-12-09 | 第66期本因坊戦リーグ | Cho Sonjin | O Rissei | Win | B+R | 6.5 | 2803 | 54 | 
+| 2010-12-02 | 第50期十段戦予選 | Yo Kaei | Cho Sonjin | Win | W+R | 6.5 | 2749 | -23 | 
+| 2010-11-18 | 第37期天元戦予選 | Nakamura Shinya | Cho Sonjin | Lose | B+2.5 | 6.5 | 2772 | -11 | 
+| 2010-11-11 | 第66期本因坊戦リーグ | Cho Sonjin | Hane Naoki | Lose | W+R | 6.5 | 2783 | -30 | 
+| 2010-10-21 | 第37期天元戦予選 | Han Zenki | Cho Sonjin | Win | W+2.5 | 6.5 | 2813 | 34 | 
+| 2010-10-14 | 第66期本因坊戦リーグ | Cho Sonjin | Seto Taiki | Lose | W+R | 6.5 | 2779 | 67 | 
+| 2010-09-23 | 第36期棋聖戦予選 | Kanazawa Makoto | Cho Sonjin | Lose | B+R | 6.5 | 2712 | -23 | 
+| 2010-09-16 | 第59期王座戦予選 | Kono Mitsuki | Cho Sonjin | Lose | B+3.5 | 6.5 | 2735 | -22 | 
+| 2010-08-19 | 第36期碁聖戦予選 | Cho Sonjin | Rin Shien | Lose | W+R | 6.5 | 2757 | -23 | 
+| 2010-08-12 | 第66期本因坊戦予選 | Cho Sonjin | Yamashiro Hiroshi | Win | B+2.5 | 6.5 | 2780 | 14 | 
+| 2010-07-24 | 第6回大和証券杯ネット囲碁オープン1回戦 | Tsuruyama Atsushi | Cho Sonjin | Lose | B+R | 6.5 | 2766 | -35 | 
+| 2010-07-08 | 第36期名人戦予選 | Cho Sonjin | Tsuruyama Atsushi | Lose | W+3.5 | 6.5 | 2801 | -24 | 
+| 2010-07-01 | 第66期本因坊戦予選 | Cho Sonjin | Uchida Shuhei | Win | B+R | 6.5 | 2825 | 3 | 
+| 2010-06-24 | 第17期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Sonjin | Imamura Toshiya | Lose | W+6.5 | 6.5 | 2822 | 62 | 
+| 2010-05-27 | 第66期本因坊戦予選 | Yamada Kimio | Cho Sonjin | Win | W+R | 6.5 | 2760 | 96 | 
+| 2010-05-06 | 第17期阿含・桐山杯全日本早碁オープン戦予選 | Cho Sonjin | Takanashi Seiken | Win | B+R | 6.5 | 2664 | -62 | 
+| 2010-04-15 | 第17期阿含・桐山杯全日本早碁オープン戦予選 | Cho Sonjin | O Meien | Win | B+R | 6.5 | 2726 | 6 | 
+| 2010-04-08 | 第36期名人戦予選 | Yo Kagen | Cho Sonjin | Win | W+R | 6.5 | 2720 | 25 | 
+| 2010-03-25 | 第36期天元戦本戦2回戦 | Cho Sonjin | Akiyama Jiro | Lose | W+R | 6.5 | 2695 | -63 | 
+| 2010-03-04 | 第66期本因坊戦予選 | Cho Sonjin | Suzuki Ayumi | Win | B+R | 6.5 | 2758 | 20 | 
+| 2010-01-21 | 第66期本因坊戦予選 | Shuto Shun | Cho Sonjin | Win | W+R | 6.5 | 2738 | 123 | 
+| 2010-01-07 | 第35期棋聖戦予選 | Ko Iso | Cho Sonjin | Lose | B+R | 6.5 | 2615 | -61 | 
+| 2009-12-24 | 第49期十段戦予選 | Komatsu Hideki | Cho Sonjin | Lose | B+2.5 | 6.5 | 2676 | -72 | 
+| 2009-12-17 | 第36期天元戦本戦1回戦 | Cho Sonjin | Nakane Naoyuki | Win | B+R | 6.5 | 2748 | -156 | 
+| 2009-11-26 | 第66期本因坊戦予選 | Terayama Rei | Cho Sonjin | Win | W+5.5 | 6.5 | 2904 | -9 | 
+| 2009-11-19 | 第35期棋聖戦予選 | Rin Kanketsu | Cho Sonjin | Win | W+R | 6.5 | 2913 | -36 | 
+| 2009-11-12 | 第58期王座戦予選 | Cho Sonjin | Omori Yasushi | Lose | W+0.5 | 6.5 | 2949 | -37 | 
+| 2009-10-29 | 第23回世界囲碁選手権富士通杯国内予選 | Anzai Nobuaki | Cho Sonjin | Lose | B+13.5 | 6.5 | 2986 | 57 | 
+| 2009-10-22 | 第58期王座戦予選 | Cho Sonjin | Kato Keiko | Win | B+R | 6.5 | 2929 | 81 | 
+| 2009-10-08 | 第36期天元戦予選 | O Rissei | Cho Sonjin | Win | W+15.5 | 6.5 | 2848 | 68 | 
+| 2009-09-24 | 第35期棋聖戦予選 | Sakai Takeshi | Cho Sonjin | Win | W+R | 6.5 | 2780 | -54 | 
+| 2009-09-10 | 第35期碁聖戦予選 | Cho Sonjin | So Yokoku | Lose | W+R | 6.5 | 2834 | -40 | 
+| 2009-09-03 | 第35期棋聖戦予選 | Osawa Narumi | Cho Sonjin | Win | W+R | 6.5 | 2874 | -11 | 
+| 2009-08-27 | 第36期天元戦予選 | Cho Sonjin | Rin Shien | Win | B+R | 6.5 | 2885 | 40 | 
+| 2009-08-20 | 第35期碁聖戦予選 | Kono Rin | Cho Sonjin | Win | W+R | 6.5 | 2845 | 62 | 
+| 2009-08-15 | 第5回大和証券杯ネット囲碁オープン2回戦 | Kono Rin | Cho Sonjin | Lose | B+R | 6.5 | 2783 | 53 | 
+| 2009-07-09 | 第35期碁聖戦予選 | Kuwamoto Shinpei | Cho Sonjin | Win | W+R | 6.5 | 2730 | -23 | 
+| 2009-06-27 | 第5回大和証券杯ネット囲碁オープン1回戦 | Cho Sonjin | Hikosaka Naoto | Win | B+3.5 | 6.5 | 2753 | 32 | 
+| 2009-06-25 | 第36期天元戦予選 | Cho Sonjin | So Kofuku | Win | B+R | 6.5 | 2721 | 52 | 
+| 2009-06-04 | 第35期名人戦予選 | Mimura Tomoyasu | Cho Sonjin | Lose | B+R | 6.5 | 2669 | -135 | 
+| 2009-05-21 | 第36期天元戦予選 | Cho Sonjin | Taniguchi Toshinori | Win | B+R | 6.5 | 2804 | -6 | 
+| 2009-05-14 | 第35期碁聖戦予選 | Cho Sonjin | Haruyama Isamu | Win | B+R | 6.5 | 2810 | 13 | 
+| 2009-05-07 | 第35期名人戦予選 | Cho Sonjin | Takagi Shoichi | Win | B+8.5 | 6.5 | 2797 | 25 | 
+| 2009-04-27 | 第5回大和証券杯ネット囲碁オープン予選 | Cho Sonjin | Akiyama Jiro | Win | B+R | 6.5 | 2772 | 58 | 
+| 2009-03-12 | 第36期天元戦予選 | Cho Sonjin | Rin Kanketsu | Win | B+4.5 | 6.5 | 2714 | 38 | 
+| 2009-02-12 | 第65期本因坊戦予選 | Cho Sonjin | Ishigure Ikuro | Lose | W+5.5 | 6.5 | 2676 | -7 | 
+| 2009-02-05 | 第36期天元戦予選 | Cho Sonjin | Nagahara Yoshiaki | Win | B+R | 6.5 | 2683 | -13 | 
+| 2009-02-02 | 第2期幽玄杯精鋭リーグ戦 | Osawa Kenro | Cho Sonjin | Win | W+R | 6.5 | 2696 | -9 | 
+| 2009-01-15 | 第48期十段戦予選 | Cho Sonjin | Takagi Shoichi | Lose | W+1.5 | 6.5 | 2705 | 246 | 
+| 2008-11-27 | 第22回世界囲碁選手権富士通杯国内予選 | Cho Sonjin | Iyama Yuta | Lose | W+2.5 | 6.5 | 2459 | -9 | 
+| 2008-11-20 | 第48期十段戦予選 | Cho Sonjin | Mitani Tetsuya | Win | B+R | 6.5 | 2468 | 29 | 
+| 2008-11-06 | 第22回世界囲碁選手権富士通杯国内予選 | Cho Chikun | Cho Sonjin | Win | W+3.5 | 6.5 | 2439 | -548 | 
+| 2008-10-27 | 第2期幽玄杯精鋭リーグ戦 | Kumamoto Syusei | Cho Sonjin | Lose | B+6.5 | 6.5 | 2987 | -45 | 
+| 2008-10-16 | 第34期棋聖戦予選 | Cho Sonjin | Anzai Nobuaki | Lose | W+5.5 | 6.5 | 3032 | 1 | 
+| 2008-10-09 | 第57期王座戦予選 | Cho Sonjin | Kamimura Haruo | Lose | W+R | 6.5 | 3031 | 27 | 
+| 2008-10-02 | 第35期天元戦予選 | Takemiya Youkou | Cho Sonjin | Lose | B+0.5 | 6.5 | 3004 | -47 | 
+| 2008-09-11 | 第34期棋聖戦予選 | Cho Sonjin | Xie Yimin | Win | B+R | 6.5 | 3051 | 52 | 
+| 2008-08-28 | 第34期棋聖戦予選 | Cho Sonjin | Kato Keiko | Win | B+R | 6.5 | 2999 | 34 | 
+| 2008-08-14 | 第34期名人戦予選 | Cho Sonjin | O Meien | Lose | W+R | 6.5 | 2965 | 307 | 
+| 2008-08-07 | 第57期王座戦予選 | Mitsunaga Junzo | Cho Sonjin | Win | W+R | 6.5 | 2658 | 42 | 
+| 2008-07-29 | 第13回三星火災杯予選2回戦 | Cho Sonjin | On Sojin | Lose | W+R | 6.5 | 2616 | -27 | 
+| 2008-07-24 | 第34期碁聖戦予選 | Cho Sonjin | Komatsu Hideki | Lose | W+3.5 | 6.5 | 2643 | -58 | 
+| 2008-07-17 | 第34期名人戦予選 | Kataoka Satoshi | Cho Sonjin | Win | W+4.5 | 6.5 | 2701 | 59 | 
+| 2008-07-03 | 第34期棋聖戦予選 | Cho Sonjin | Ohashi Hirofumi | Win | B+R | 6.5 | 2642 | -2 | 
+| 2008-06-26 | 第34期碁聖戦予選 | Cho Sonjin | Endo Yoshifumi | Win | B+3.5 | 6.5 | 2644 | -8 | 
+| 2008-06-21 | 第4回大和証券杯ネット囲碁オープン1回戦 | Kobayashi Koichi | Cho Sonjin | Lose | B+R | 6.5 | 2652 | -85 | 
+| 2008-06-05 | 第34期名人戦予選 | Uchida Shuhei | Cho Sonjin | Win | W+7.5 | 6.5 | 2737 | 2 | 
+| 2008-05-29 | 第34期碁聖戦予選 | Cho Sonjin | Sugiuchi Masao | Win | B+R | 6.5 | 2735 | -6 | 
+| 2008-05-26 | 第4回大和証券杯ネット囲碁オープン予選 | Cho Sonjin | Kamimura Haruo | Win | B+R | 6.5 | 2741 | 225 | 
+| 2008-04-17 | 第64期本因坊戦予選 | O Rissei | Cho Sonjin | Lose | B+3.5 | 6.5 | 2516 | -23 | 
+| 2008-04-12 | 第21回世界囲碁選手権富士通杯1回戦 | Kang Dongyun | Cho Sonjin | Lose | B+9.5 | 6.5 | 2539 | 8 | 
+| 2008-04-03 | 第34期碁聖戦予選 | Sonoda Yasutaka | Cho Sonjin | Win | W+R | 6.5 | 2531 | 50 | 
+| 2008-03-13 | 第64期本因坊戦予選 | Miyazawa Goro | Cho Sonjin | Win | W+R | 6.5 | 2481 | 16 | 
+| 2008-03-08 | 第27期NECカップ囲碁トーナメント戦決勝 | Kono Rin | Cho Sonjin | Lose | B+R | 6.5 | 2465 | -7 | 
+| 2008-02-28 | 第4期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Aoki Shinichi | Cho Sonjin | Lose | B+R | 6.5 | 2472 | 1 | 
+| 2008-02-16 | 第27期NECカップ囲碁トーナメント戦準決勝 | Takao Shinji | Cho Sonjin | Win | W+R | 6.5 | 2471 | 90 | 
+| 2008-01-17 | 第64期本因坊戦予選 | Cho Sonjin | Yo Kagen | Win | B+R | 6.5 | 2381 | -15 | 
+| 2008-01-10 | 第21回世界囲碁選手権富士通杯国内予選決勝 | Oya Koichi | Cho Sonjin | Win | W+R | 6.5 | 2396 | -70 | 
+| 2007-11-22 | 第21回世界囲碁選手権富士通杯国内予選 | So Yokoku | Cho Sonjin | Win | W+R | 6.5 | 2466 | 19 | 
+| 2007-11-15 | 第47期十段戦予選 | Cho Sonjin | Mizokami Tomochika | Lose | W+R | 6.5 | 2447 | -38 | 
+| 2007-10-25 | 第21回世界囲碁選手権富士通杯国内予選 | Cho U | Cho Sonjin | Win | W+R | 6.5 | 2485 | -23 | 
+| 2007-09-27 | 第33期名人戦予選 | Cho Sonjin | Cho Chikun | Lose | W+R | 6.5 | 2508 | 2 | 
+| 2007-09-22 | 第27期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Cho Sonjin | Win | W+6.5 | 6.5 | 2506 | -1301 | 
+| 2007-09-13 | 第33期棋聖戦予選 | Cho Sonjin | Mitsunaga Junzo | Lose | W+R | 6.5 | 3807 | 1212 | 
+| 2007-08-30 | 第56期王座戦予選 | Cho Sonjin | Aoki Shinichi | Lose | W+R | 6.5 | 2595 | -42 | 
+| 2007-08-16 | 第34期天元戦予選 | Ishida Yoshio | Cho Sonjin | Lose | B+R | 6.5 | 2637 | -253 | 
+| 2007-08-09 | 第63期本因坊戦予選 | Mizokami Tomochika | Cho Sonjin | Lose | B+R | 6.5 | 2890 | -239 | 
+| 2007-07-21 | 第27期NECカップ囲碁トーナメント戦1回戦 | O Rissei | Cho Sonjin | Win | W+3.5 | 6.5 | 3129 | 50 | 
+| 2007-07-19 | 第56期王座戦予選 | Cho Sonjin | Uchida Shuhei | Win | B+R | 6.5 | 3079 | 174 | 
+| 2007-07-12 | 第33期名人戦予選 | Cho Sonjin | Rin Kaiho | Win | B+11.5 | 6.5 | 2905 | -49 | 
+| 2007-07-05 | 第33期碁聖戦予選 | Cho Sonjin | Umezawa Yukari | Lose | W+R | 6.5 | 2954 | -82 | 
+| 2007-06-21 | 第63期本因坊戦予選 | Cho Sonjin | Awaji Shuzo | Win | B+1.5 | 6.5 | 3036 | 65 | 
+| 2007-06-07 | 第33期名人戦予選 | Takemiya Youkou | Cho Sonjin | Win | W+5.5 | 6.5 | 2971 | 31 | 
+| 2007-05-24 | 第63期本因坊戦予選 | Cho Riyu | Cho Sonjin | Win | W+R | 6.5 | 2940 | 8 | 
+| 2007-05-17 | 第14期阿含・桐山杯全日本早碁オープン戦予選 | Cho Sonjin | Akiyama Jiro | Lose | W+R | 6.5 | 2932 | 6 | 
+| 2007-04-19 | 第14期阿含・桐山杯全日本早碁オープン戦予選 | So Yokoku | Cho Sonjin | Win | W+R | 6.5 | 2926 | 9 | 
+| 2007-04-05 | 第62期本因坊戦リーグ | Cho Sonjin | O Meien | Lose | W+R | 6.5 | 2917 | -67 | 
+| 2007-03-15 | 第46期十段戦予選 | Cho Sonjin | Honda Kunihisa | Lose | W+0.5 | 6.5 | 2984 | 324 | 
+| 2007-03-08 | 第62期本因坊戦リーグ | Kobayashi Satoru | Cho Sonjin | Lose | B+R | 6.5 | 2660 | -13 | 
+| 2007-02-22 | 第62期本因坊戦リーグ | Cho Sonjin | Yoda Norimoto | Lose | W+R | 6.5 | 2673 | -16 | 
+| 2007-02-01 | 第20回世界囲碁選手権富士通杯国内予選決勝 | Nakamura Shinya | Cho Sonjin | Lose | B+R | 6.5 | 2689 | -56 | 
+| 2007-01-25 | 第33期天元戦本戦1回戦 | Cho Sonjin | Iyama Yuta | Lose | W+R | 6.5 | 2745 | 2 | 
+| 2007-01-18 | 第62期本因坊戦リーグ | Cho Sonjin | Cho U | Lose | W+R | 6.5 | 2743 | 3 | 
+| 2007-01-11 | 第20回世界囲碁選手権富士通杯国内予選 | Sakai Hideyuki | Cho Sonjin | Win | W+R | 6.5 | 2740 | 83 | 
+| 2006-12-14 | 第62期本因坊戦リーグ | Yamada Kimio | Cho Sonjin | Win | W+R | 6.5 | 2657 | -29 | 
+| 2006-11-30 | 第32期棋聖戦予選 | Shuto Shun | Cho Sonjin | Lose | B+4.5 | 6.5 | 2686 | -46 | 
+| 2006-11-23 | 第20回世界囲碁選手権富士通杯国内予選 | Cho Sonjin | Kobayashi Koichi | Win | B+R | 6.5 | 2732 | 30 | 
+| 2006-11-09 | 第46期十段戦予選 | Cho Sonjin | Ko Iun | Win | B+R | 6.5 | 2702 | 0 | 
+| 2006-11-02 | 第62期本因坊戦リーグ | So Yokoku | Cho Sonjin | Win | W+R | 6.5 | 2702 | -50 | 
+| 2006-10-12 | 第62期本因坊戦リーグ | Hane Naoki | Cho Sonjin | Win | W+R | 6.5 | 2752 | 52 | 
+| 2006-09-07 | 第33期天元戦予選 | Ko Mosei | Cho Sonjin | Win | W+R | 6.5 | 2700 | 15 | 
+| 2006-08-28 | 第3期トヨタ＆デンソー杯囲碁世界王座戦2回戦 | Cho Sonjin | Lee Sedol | Lose | W+5.5 | 6.5 | 2685 | -5 | 
+| 2006-08-26 | 第3期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Cho Sonjin | Jiang Mingjiu | Win | B+3.5 | 6.5 | 2690 | -52 | 
+| 2006-08-10 | 第55期王座戦予選 | Anzai Nobuaki | Cho Sonjin | Lose | B+R | 6.5 | 2742 | -30 | 
+| 2006-08-03 | 第62期本因坊戦予選 | Iyama Yuta | Cho Sonjin | Win | W+R | 6.5 | 2772 | -34 | 
+| 2006-07-06 | 第32期名人戦予選 | O Meien | Cho Sonjin | Lose | B+R | 6.5 | 2806 | -210 | 
+| 2006-06-22 | 第62期本因坊戦予選 | Cho Sonjin | Ryu Shikun | Win | B+R | 6.5 | 3016 | 19 | 
+| 2006-06-08 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Cho Sonjin | Ushinohama Satsuo | Win | B+R | 6.5 | 2997 | 111 | 
+| 2006-05-18 | 第32期名人戦予選 | Cho Sonjin | Cho Riyu | Win | B+R | 6.5 | 2886 | 7 | 
+| 2006-05-13 | 第26期NECカップ囲碁トーナメント戦1回戦 | O Meien | Cho Sonjin | Lose | B+0.5 | 6.5 | 2879 | -43 | 
+| 2006-05-04 | 第62期本因坊戦予選 | Hashimoto Yujiro | Cho Sonjin | Win | W+R | 6.5 | 2922 | -12 | 
+| 2006-04-26 | 第11回LG杯予選 | Yun Junsang | Cho Sonjin | Lose | B+3.5 | 6.5 | 2934 | -23 | 
+| 2006-04-13 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Imamura Toshiya | Cho Sonjin | Win | W+0.5 | 6.5 | 2957 | -10 | 
+| 2006-03-30 | 第61期本因坊戦リーグ | O Rissei | Cho Sonjin | Win | W+R | 6.5 | 2967 | 16 | 
+| 2006-03-23 | 第32期天元戦本戦1回戦 | Sakai Hideyuki | Cho Sonjin | Lose | B+R | 6.5 | 2951 | -12 | 
+| 2006-03-04 | 第25期NECカップ囲碁トーナメント戦決勝 | Cho Sonjin | Kobayashi Satoru | Win | B+5.5 | 6.5 | 2963 | 25 | 
+| 2006-03-02 | 第61期本因坊戦リーグ | Cho Sonjin | Yoda Norimoto | Lose | W+6.5 | 6.5 | 2938 | 47 | 
+| 2006-02-09 | 第54期王座戦予選 | Takao Shinji | Cho Sonjin | Lose | B+R | 6.5 | 2891 | -30 | 
+| 2006-02-02 | 第61期本因坊戦リーグ | Cho Sonjin | Yamada Kimio | Win | B+2.5 | 6.5 | 2921 | 22 | 
+| 2006-01-28 | 第25期NECカップ囲碁トーナメント戦準決勝 | Takao Shinji | Cho Sonjin | Win | W+R | 6.5 | 2899 | 39 | 
+| 2006-01-12 | 第61期本因坊戦リーグ | O Meien | Cho Sonjin | Win | W+8.5 | 6.5 | 2860 | 15 | 
+| 2005-12-22 | 第61期本因坊戦リーグ | Cho U | Cho Sonjin | Lose | B+1.5 | 6.5 | 2845 | -257 | 
+| 2005-12-15 | 第31期棋聖戦予選 | Cho Sonjin | Awaji Shuzo | Lose | W+3.5 | 6.5 | 3102 | 18 | 
+| 2005-12-08 | 第32期天元戦予選 | Cho Sonjin | Anzai Nobuaki | Win | B+2.5 | 6.5 | 3084 | -62 | 
+| 2005-12-01 | 第45期十段戦予選 | Cho Sonjin | Lee Ishu | Win | B+R | 6.5 | 3146 | 28 | 
+| 2005-11-24 | 第31期棋聖戦予選 | Cho Sonjin | Muramatsu Ryuichi | Win | B+11.5 | 6.5 | 3118 | -24 | 
+| 2005-11-17 | 第32期天元戦予選 | Ko Reibun | Cho Sonjin | Win | W+0.5 | 6.5 | 3142 | 129 | 
+| 2005-11-10 | 第54期王座戦予選 | Cho Sonjin | Ishikura Noboru | Win | B+9.5 | 6.5 | 3013 | 234 | 
+| 2005-11-03 | 第61期本因坊戦リーグ | So Yokoku | Cho Sonjin | Lose | B+0.5 | 6.5 | 2779 | -272 | 
+| 2005-10-27 | 第45期十段戦予選 | Cho Sonjin | Akiyama Jiro | Win | B+4.5 | 6.5 | 3051 | -9 | 
+| 2005-10-15 | 第25期NECカップ囲碁トーナメント戦2回戦 | O Meien | Cho Sonjin | Win | W+R | 6.5 | 3060 | 28 | 
+| 2005-10-06 | 第61期本因坊戦リーグ | Cho Sonjin | Hane Naoki | Lose | W+R | 6.5 | 3032 | 14 | 
+| 2005-08-26 | 第25期NECカップ囲碁トーナメント戦1回戦 | Rin Kaiho | Cho Sonjin | Win | W+4.5 | 6.5 | 3018 | 25 | 
+| 2005-08-04 | 第30期名人戦リーグ | Cho Sonjin | Imamura Toshiya | Lose | W+4.5 | 6.5 | 2993 | -24 | 
+| 2005-07-21 | 第12期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Sonjin | Cho Chikun | Lose | W+R | 6.5 | 3017 | -1 | 
+| 2005-07-14 | 第30期名人戦リーグ | Yamashita Keigo | Cho Sonjin | Lose | B+R | 6.5 | 3018 | 309 | 
+| 2005-06-02 | 第30期名人戦リーグ | Sakai Hideyuki | Cho Sonjin | Win | W+R | 6.5 | 2709 | 8 | 
+| 2005-04-21 | 第30期名人戦リーグ | Cho Sonjin | O Meien | Lose | W+R | 6.5 | 2701 | -99 | 
+| 2005-04-04 | 第60期本因坊戦挑戦者決定プレーオフ | Takao Shinji | Cho Sonjin | Lose | B+R | 6.5 | 2800 | -18 | 
+| 2005-03-31 | 第60期本因坊戦リーグ | Cho Sonjin | Takao Shinji | Win | B+0.5 | 6.5 | 2818 | 40 | 
+| 2005-03-17 | 第60期本因坊戦リーグ | Cho Sonjin | Yoda Norimoto | Lose | W+R | 6.5 | 2778 | 16 | 
+| 2005-03-10 | 第30期名人戦リーグ | Yamada Kimio | Cho Sonjin | Lose | B+R | 6.5 | 2762 | -367 | 
+| 2005-02-19 | 第24期NECカップ囲碁トーナメント戦準決勝 | Ryu Shikun | Cho Sonjin | Lose | B+0.5 | 6.5 | 3129 | -60 | 
+| 2005-02-10 | 第30期名人戦リーグ | Cho Sonjin | Ogata Masaki | Lose | W+R | 6.5 | 3189 | -7 | 
+| 2005-02-03 | 第60期本因坊戦リーグ | Mimura Tomoyasu | Cho Sonjin | Win | W+R | 6.5 | 3196 | 91 | 
+| 2005-01-20 | 第60期本因坊戦リーグ | Cho Sonjin | Han Zenki | Win | B+R | 6.5 | 3105 | -1 | 
+| 2005-01-06 | 第30期名人戦リーグ | Kobayashi Satoru | Cho Sonjin | Lose | B+R | 6.5 | 3106 | 71 | 
+| 2004-12-16 | 第60期本因坊戦リーグ | O Meien | Cho Sonjin | Win | W+R | 6.5 | 3035 | -20 | 
+| 2004-12-09 | 第30期名人戦リーグ | Cho Sonjin | Yoda Norimoto | Lose | W+R | 6.5 | 3055 | 155 | 
+| 2004-11-11 | 第60期本因坊戦リーグ | So Yokoku | Cho Sonjin | Win | W+R | 6.5 | 2900 | 39 | 
+| 2004-11-04 | 第30期名人戦予選 | Komatsu Hideki | Cho Sonjin | Win | W+R | 6.5 | 2861 | -205 | 
+| 2004-10-16 | 第24期NECカップ囲碁トーナメント戦2回戦 | Hane Naoki | Cho Sonjin | Win | W+R | 6.5 | 3066 | 54 | 
+| 2004-10-14 | 第60期本因坊戦リーグ | Cho Sonjin | O Rissei | Win | B+R | 6.5 | 3012 | 50 | 
+| 2004-09-30 | 第30期碁聖戦予選 | Cho Chikun | Cho Sonjin | Lose | B+0.5 | 6.5 | 2962 | 11 | 
+| 2004-05-28 | 第24期NECカップ囲碁トーナメント戦1回戦 | O Meien | Cho Sonjin | Win | W+R | 6.5 | 2951 | -100 | 
+| 2004-04-01 | 第59期本因坊戦リーグ | Cho Sonjin | Kato Masao | Win | B+3.5 | 6.5 | 3051 | -29 | 
+| 2004-03-11 | 第59期本因坊戦リーグ | Cho Sonjin | Mimura Tomoyasu | Lose | W+R | 6.5 | 3080 | -19 | 
+| 2004-03-04 | 第30期天元戦本戦2回戦 | Cho Chikun | Cho Sonjin | Lose | B+3.5 | 6.5 | 3099 | 130 | 
+| 2004-02-12 | 第30期天元戦本戦1回戦 | Ishii Shinzo | Cho Sonjin | Win | W+0.5 | 6.5 | 2969 | -33 | 
+| 2004-02-05 | 第59期本因坊戦リーグ | Cho Sonjin | Yoda Norimoto | Lose | W+1.5 | 6.5 | 3002 | -50 | 
+| 2004-01-15 | 第59期本因坊戦リーグ | O Rissei | Cho Sonjin | Win | W+R | 6.5 | 3052 | 22 | 
+| 2004-01-08 | 第52期王座戦予選 | Yuki Satoshi | Cho Sonjin | Lose | B+R | 6.5 | 3030 | -16 | 
+| 2003-12-18 | 第59期本因坊戦リーグ | O Meien | Cho Sonjin | Win | W+2.5 | 6.5 | 3046 | 55 | 
+| 2003-11-29 | 第23期NECカップ囲碁トーナメント戦2回戦 | Cho Sonjin | Yamashita Keigo | Lose | W+R | 6.5 | 2991 | -84 | 
+| 2003-11-06 | 第59期本因坊戦リーグ | Kobayashi Koichi | Cho Sonjin | Lose | B+R | 6.5 | 3075 | -28 | 
+| 2003-10-27 | 第59期本因坊戦リーグ | Cho Sonjin | Yamashita Keigo | Win | B+6.5 | 6.5 | 3103 | 491 | 
+| 2003-06-19 | 第29期天元戦本戦3回戦 | Kono Rin | Cho Sonjin | Lose | B+0.5 | 6.5 | 2612 | -297 | 
+| 2003-06-13 | 第23期NECカップ囲碁トーナメント戦1回戦 | Ryu Shikun | Cho Sonjin | Win | W+R | 6.5 | 2909 | 357 | 
+| 2003-03-13 | 第29期天元戦本戦2回戦 | Cho Sonjin | Yokota Shigeaki | Win | B+6.5 | 6.5 | 2552 | 2552 | 
+| 2003-01-09 | 第29期天元戦本戦1回戦 | Michael Redmond | Cho Sonjin | Win | W+R | 6.5 | missing | 0 | 
+| 2002-12-05 | 第28期碁聖戦本戦1回戦 | Cho Sonjin | Sasaka Shiro | Lose | W+3.5 | 6.5 | missing | 0 | 
+| 2000-08-30 | 第5期三星杯1回戦 |  | Cho Sonjin | Lose | B+2.5 | 6.5 | missing | 0 | 
+| 2000-03-27 | 第1回農心辛ラーメン杯世界囲碁最強戦第13戦 | Cho Sonjin | Lee Changho | Lose | W+R | 6.5 | missing | 0 | 
+| 2000-03-26 | 第1回農心辛ラーメン杯世界囲碁最強戦第12戦 | Cho Sonjin | Chang Hao | Win | B+2.5 | 6.5 | missing | 0 | 
+| 1999-12-07 | 第4期三星杯決勝五番勝負第3局 | Cho Sonjin | Lee Changho | Lose | W+4.5 | 6.5 | missing | 0 | 
+| 1999-12-06 | 第4期三星杯決勝五番勝負第2局 | Lee Changho | Cho Sonjin | Lose | B+R | 6.5 | missing | 0 | 
+| 1999-11-23 | 第4期三星杯決勝五番勝負第1局 | Cho Sonjin | Lee Changho | Lose | W+R | 6.5 | missing | 0 | 
+| 1999-10-28 | 第4期三星杯準決勝 | Cho Sonjin | Hikosaka Naoto | Win | B+R | 6.5 | missing | 0 | 
+| 1999-10-07 | 第4期三星杯3回戦 | Wang Lei (b) | Cho Sonjin | Win | W+R | 6.5 | missing | 0 | 
+| 1999-09-09 | 第4期三星杯2回戦 | Cho Sonjin |  | Win | B+R | 6.5 | missing | 0 | 
+| 1999-09-07 | 第4期三星杯1回戦 | Cho Sonjin | Cao Dayuan | Win | B+3.5 | 6.5 | missing | missing |
 
 
 

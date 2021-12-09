@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-09 | 第27回GSカルテックス杯プロ棋戦予選 | Kang Dongyun | Choi Jaeyoung | Lose | W+R | 6.5 | 3392 | -43 | 
 | 2021-12-05 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Donghoon | Kang Dongyun | Lose | B+R | 6.5 | 3435 | -5 | 
 | 2021-12-03 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Seol Hyunjun | Lose | W+R | 6.5 | 3440 | 8 | 
 | 2021-11-27 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Na Hyun | Win | B+R | 6.5 | 3432 | -51 | 

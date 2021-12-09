@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-09 | 第61期十段戦予選 | Kudo Norio | Mannami Kana | Win | B+R | 6.5 | 2805 | 36 | 
+| 2021-09-23 | 第48期天元戦予選 | Kudo Norio | Omori Yasushi | Lose | W+1.5 | 6.5 | 2769 | -14 | 
+| 2021-09-02 | 第48期天元戦予選 | Kudo Norio |  | Win | B+R | 6.5 | 2783 | -80 | 
 | 2021-08-19 | 第48期天元戦予選 | Takemiya Youkou | Kudo Norio | Win | W+R | 6.5 | 2863 | 98 | 
 | 2021-06-03 | 第47期名人戦予選 | Kudo Norio | Hirose Yuichi | Lose | W+R | 6.5 | 2765 | -81 | 
 | 2021-04-29 | 第77期本因坊戦予選 | Kudo Norio | Takao Shinji | Lose | W+13.5 | 6.5 | 2846 | 64 | 

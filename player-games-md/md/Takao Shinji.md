@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-09 | 第48期天元戦予選 | Sun Zhe | Takao Shinji | Lose | B+R | 6.5 | 3150 | -40 | 
+| 2021-10-14 | 第47期碁聖戦予選 | Terayama Rei | Takao Shinji | Win | W+R | 6.5 | 3190 | 14 | 
 | 2021-10-07 | 第47期名人戦予選 | Sada Atsushi | Takao Shinji | Win | W+R | 6.5 | 3176 | 35 | 
 | 2021-09-27 | 第47期碁聖戦予選 | Ueno Asami | Takao Shinji | Win | W+R | 6.5 | 3141 | -32 | 
 | 2021-09-23 | 第60期十段戦予選 | So Yokoku | Takao Shinji | Lose | B+3.5 | 6.5 | 3173 | 7 | 

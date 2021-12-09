@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-09 | 第60期十段戦3回戦 | Fujisawa Rina | Sada Atsushi | Lose | W+R | 6.5 | 3178 | 3178 | 
+| 2021-11-11 | 第25期女流棋聖戦2回戦 | Fujisawa Rina |  | Lose | W+R | 6.5 | missing | -3203 | 
 | 2021-10-28 | 第60期十段戦2回戦  | Sun Zhe | Fujisawa Rina | Win | W+4.5 | 6.5 | 3203 | 2 | 
 | 2021-10-22 | 第40期女流本因坊戦挑戦手合五番勝負第3局  | Hoshiai Shiho | Fujisawa Rina | Win | W+R | 6.5 | 3201 | -20 | 
 | 2021-10-11 | 第25期ドコモ杯女流棋聖戦1回戦 | Fujisawa Rina |  | Win | B+R | 6.5 | 3221 | 8 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-09 | 第47期名人戦リーグ | Motoki Katsuya | Hane Naoki | Win | W+0.5 | 6.5 | 3255 | 13 | 
 | 2021-12-06 | 第48期天元戦予選 | Oda Teppei | Hane Naoki | Win | W+15.5 | 6.5 | 3242 | 6 | 
 | 2021-12-02 | 第77期本因坊戦リーグ | Yu Zhengqi | Hane Naoki | Lose | B+R | 6.5 | 3236 | 3236 | 
 | 2021-11-11 | 第63期王冠戦予選 | Hane Naoki | Yamashiro Hiroshi | Win | B+5.5 | 6.5 | missing | -3241 | 

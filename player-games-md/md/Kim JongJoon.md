@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-09 | 2021韓国シニア囲碁リーグプレーオフ | An Kwanwuk | Kim JongJoon | Lose | B+R | 6.5 | 2433 | -27 | 
 | 2021-12-08 | 2021韓国シニア囲碁リーグプレーオフ | Kim JongJoon | Jimmy Cha | Win | B+9.5 | 6.5 | 2460 | 104 | 
 | 2021-11-03 | 2021韓国シニア囲碁リーグ | Kim JongJoon | Park Yeongchan | Lose | W+9.5 | 6.5 | 2356 | -66 | 
 | 2021-10-26 | 2021韓国シニア囲碁リーグ | Kim JongJoon | Seo Bongsoo | Lose | W+R | 6.5 | 2422 | 204 | 

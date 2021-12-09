@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-09 | 第47期名人戦リーグ | Motoki Katsuya | Hane Naoki | Lose | W+0.5 | 6.5 | 3204 | -20 | 
 | 2021-12-06 | 第60期十段戦3回戦 | Shibano Toramaru | Motoki Katsuya | Lose | B+R | 6.5 | 3224 | -5 | 
 | 2021-12-02 | 第77期本因坊戦リーグ | Hsu Chiayuan | Motoki Katsuya | Lose | B+R | 6.5 | 3229 | -3 | 
 | 2021-11-25 | 第77期本因坊戦リーグ | Motoki Katsuya | Shibano Toramaru | Lose | W+R | 6.5 | 3232 | -51 | 

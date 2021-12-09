@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-09 | 第5回クラウン・ヘテ杯1回戦 | Kim Dayoung | Gang Woohyeok | Lose | W+3.5 | 6.5 | 2686 | -290 | 
+| 2021-10-18 | 第5期韓国製紙女子棋聖戦1回戦 | Kim Dayoung |  | Lose | W+0.5 | 6.5 | 2976 | 76 | 
+| 2021-08-26 | 第7回韓国女子囲碁リーグ | Kim Miri | Kim Dayoung | Lose | B+6.5 | 6.5 | 2900 | 43 | 
 | 2021-08-14 | 第7回韓国女子囲碁リーグ |  | Kim Dayoung | Win | W+R | 6.5 | 2857 | -6 | 
 | 2021-08-05 | 第7回韓国女子囲碁リーグ |  | Kim Dayoung | Win | W+R | 6.5 | 2863 | 7 | 
 | 2021-08-01 | 第7回韓国女子囲碁リーグ | Kim Dayoung |  | Win | B+R | 6.5 | 2856 | 12 | 

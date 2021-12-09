@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Sada Atsushi vs Shibano Toramaru** | **Sada Atsushi streak** | **Shibano Toramaru streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-10-04 | 第77期本因坊戦リーグ | Shibano Toramaru | Sada Atsushi | W+R | 6.5 | 1:1 | 1 | 0 | 
 | 2020-10-08 | 第76期本因坊戦リーグ | Sada Atsushi | Shibano Toramaru | W+0.5 | 6.5 | 0:1 | 0 | 1 |
 
 

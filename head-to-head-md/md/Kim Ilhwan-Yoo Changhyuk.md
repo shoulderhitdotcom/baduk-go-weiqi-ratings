@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Kim Ilhwan vs Yoo Changhyuk** | **Kim Ilhwan streak** | **Yoo Changhyuk streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-12-08 | 2021韓国シニア囲碁リーグプレーオフ | Yoo Changhyuk | Kim Ilhwan | B+14.5 | 6.5 | 0:1 | 0 | 1 | 
+| 2021-12-09 | 2021韓国シニア囲碁リーグプレーオフ | Yoo Changhyuk | Kim Ilhwan | B+R | 6.5 | 0:1 | 0 | 1 | 
+| 2021-12-08 | 2021韓国シニア囲碁リーグプレーオフ | Yoo Changhyuk | Kim Ilhwan | B+14.5 | 6.5 | 1:9 | 0 | 1 | 
 | 2021-09-27 | 2021韓国シニア囲碁リーグ | Kim Ilhwan | Yoo Changhyuk | B+10.5 | 6.5 | 1:8 | 1 | 0 | 
 | 2020-08-11 | 2020NHシニア囲碁リーグ第5節第2試合第1局 | Yoo Changhyuk | Kim Ilhwan | B+10.5 | 6.5 | 0:8 | 0 | 8 | 
 | 2016-05-16 | 第1回韓国シニア囲碁リーグ | Yoo Changhyuk | Kim Ilhwan | B+R | 6.5 | 0:7 | 0 | 7 | 

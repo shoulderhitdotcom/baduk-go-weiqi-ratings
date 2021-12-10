@@ -7,7 +7,6 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Shin Jinseo | Wang Yuanjun | Lose | B+8.5 | 6.5 | 3264 | 0 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦  | Shin Jinseo | Wang Yuanjun | Lose | B+8.5 | 6.5 | 3264 | 0 | 
 | 2021-12-04 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦 | Wang Yuanjun | Onishi Ryuhei | Win | B+R | 6.5 | 3264 | 0 | 
 | 2021-12-04 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦 | Wang Yuanjun | Kono Rin | Win | B+R | 6.5 | 3264 | 3 | 

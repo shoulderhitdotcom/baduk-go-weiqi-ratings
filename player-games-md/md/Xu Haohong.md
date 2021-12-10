@@ -7,7 +7,6 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Park Junghwan | Xu Haohong | Win | W+R | 6.5 | 3350 | 0 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦  | Xu Haohong | Xu Jiayang | Lose | W+R | 6.5 | 3350 | 0 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦  | Park Junghwan | Xu Haohong | Win | W+R | 6.5 | 3350 | 21 | 
 | 2021-12-03 | 第2回UMC聯電杯早碁争覇戦準決勝  | Xu Haohong | Zhou Junxun | Win | B+R | 6.5 | 3329 | 10 | 

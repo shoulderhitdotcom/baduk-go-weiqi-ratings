@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Kono Rin | Byun Sangil | Lose | W+R | 6.5 | 3039 | 1 | 
+| 2021-12-04 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦 | Lai Junfu | Kono Rin | Win | W+1.5 | 6.5 | 3038 | 0 | 
+| 2021-12-04 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦 | Wang Yuanjun | Kono Rin | Lose | B+R | 6.5 | 3038 | 29 | 
 | 2021-11-29 | 第48期天元戦予選 | O Rissei | Kono Rin | Win | W+R | 6.5 | 3009 | 3 | 
 | 2021-11-18 | 第47期碁聖戦予選 | Anzai Nobuaki | Kono Rin | Win | W+R | 6.5 | 3006 | 3006 | 
 | 2021-11-11 | 第47期名人戦予選 | Shida Tatsuya | Kono Rin | Lose | B+R | 6.5 | missing | -3038 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦  | Yamashita Keigo | Choi Jeong | Lose | B+1.5 | 6.5 | 3252 | -23 | 
+| 2021-12-06 | 第5期韓国製紙女子棋聖戦準決勝 | Choi Jeong | Park Jiyeon | Win | B+R | 6.5 | 3275 | 4 | 
 | 2021-12-04 | 第4回呉清源杯世界女子囲碁選手権決勝三番勝負第3局 | Yu Zhiying | Choi Jeong | Win | W+R | 7.5 | 3271 | 10 | 
 | 2021-12-03 | 第4回呉清源杯世界女子囲碁選手権決勝三番勝負第2局 | Choi Jeong | Yu Zhiying | Win | B+R | 7.5 | 3261 | 10 | 
 | 2021-12-02 | 第4回呉清源杯世界女子囲碁選手権決勝三番勝負第1局 | Yu Zhiying | Choi Jeong | Lose | B+R | 7.5 | 3251 | -6 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Park Junghwan | Xu Haohong | Lose | W+R | 6.5 | 3683 | -23 | 
 | 2021-12-08 | 第27回GSカルテックス杯プロ棋戦予選 | Park Junghwan | Baek Chanhee | Win | B+R | 6.5 | 3706 | -17 | 
 | 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Junghwan | Shin Minjun | Win | B+R | 6.5 | 3723 | 16 | 
 | 2021-11-27 | 2021-2022韓国囲碁リーグ | Park Junghwan | Kim Hyeongwoo | Win | B+R | 6.5 | 3707 | 0 | 

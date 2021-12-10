@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Fan Tingyu | Choi Cheolhan | Lose | B+R | 6.5 | 3333 | -36 | 
 | 2021-12-02 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Choi Cheolhan | Lose | B+R | 6.5 | 3369 | -10 | 
 | 2021-09-27 | 第7回国手山脈国際囲碁大会韓国予選 | Choi Cheolhan | Kang Dongyun | Win | B+R | 6.5 | 3379 | 5 | 
 | 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Choi Cheolhan | An Sungjoon | Win | B+R | 6.5 | 3374 | 16 | 

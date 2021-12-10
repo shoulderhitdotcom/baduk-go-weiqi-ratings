@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Weon Seongjin | Xu Jiayang | Lose | W+R | 6.5 | 3530 | -29 | 
 | 2021-12-02 | 2021-2022韓国囲碁リーグ | Byun Sangil | Weon Seongjin | Lose | B+0.5 | 6.5 | 3559 | -5 | 
 | 2021-11-26 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Choi Jaeyoung | Win | B+0.5 | 6.5 | 3564 | -45 | 
 | 2021-11-19 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Moon Minjong | Win | B+R | 6.5 | 3609 | -5 | 

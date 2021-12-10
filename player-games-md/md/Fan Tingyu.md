@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Fan Tingyu | Choi Cheolhan | Win | B+R | 6.5 | 3547 | 3 | 
 | 2021-11-27 | 第23回農心辛ラーメン杯世界囲碁最強戦第6戦  | Fan Tingyu | Iyama Yuta | Lose | W+R | 6.5 | 3544 | -10 | 
 | 2021-11-26 | 第23回農心辛ラーメン杯世界囲碁最強戦第5戦 | Fan Tingyu | Park Junghwan | Win | B+R | 6.5 | 3554 | 14 | 
 | 2021-11-23 | 第22期阿含・桐山杯中国早碁オープン戦2回戦 | Huang Yunsong | Fan Tingyu | Lose | B+R | 7.5 | 3540 | -72 | 

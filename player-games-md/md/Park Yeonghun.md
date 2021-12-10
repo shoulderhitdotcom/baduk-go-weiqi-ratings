@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Park Yeonghun | Han Seungjoo | Win | B+R | 6.5 | 3275 | 17 | 
+| 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Minkyu | Park Yeonghun | Win | W+R | 6.5 | 3258 | 15 | 
 | 2021-11-27 | 2021-2022韓国囲碁リーグ | Park Yeonghun | Song Jihoon | Win | B+R | 6.5 | 3243 | -3 | 
 | 2021-11-18 | 2021-2022韓国囲碁リーグ | Choi Jaeyoung | Park Yeonghun | Win | W+R | 6.5 | 3246 | -3 | 
 | 2021-11-15 | 第7回国手山脈韓国国内トーナメント予選 | Park Kyuongkeun | Park Yeonghun | Lose | B+0.5 | 6.5 | 3249 | 6 | 

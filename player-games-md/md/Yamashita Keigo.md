@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦  | Yamashita Keigo | Choi Jeong | Win | B+1.5 | 6.5 | 3174 | 20 | 
 | 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Lee Changho | Yamashita Keigo | Win | W+R | 7.5 | 3154 | 44 | 
 | 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Chang Hao | Yamashita Keigo | Win | W+¼ | 7.5 | 3110 | 7 | 
 | 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Yamashita Keigo | Zhao Chenyu | Lose | W+R | 6.5 | 3103 | -32 | 

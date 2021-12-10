@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Kim Myounghoon | Hsu Chiayuan | Win | W+R | 6.5 | 3407 | 20 | 
 | 2021-12-08 | 第22期阿含・桐山杯日中決戦  | Gu Zihao | Hsu Chiayuan | Lose | B+R | 7.5 | 3387 | -1 | 
 | 2021-12-06 | 第48期天元戦予選 | Hsu Chiayuan | So Kofuku | Win | B+R | 6.5 | 3388 | 17 | 
 | 2021-12-02 | 第77期本因坊戦リーグ | Hsu Chiayuan | Motoki Katsuya | Win | B+R | 6.5 | 3371 | -30 | 

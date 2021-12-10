@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Park Yeonghun | Han Seungjoo | Lose | B+R | 6.5 | 3287 | -36 | 
 | 2021-12-06 | 第27回GSカルテックス杯プロ棋戦予選 | Hong Mujin | Han Seungjoo | Lose | B+R | 6.5 | 3323 | 31 | 
 | 2021-11-30 | 第3回大統領杯全国囲碁大会決勝 | Kim Jiseok | Han Seungjoo | Win | W+2.5 | 6.5 | 3292 | 0 | 
 | 2021-11-30 | 第3回大統領杯全国囲碁大会準決勝 | Han Seungjoo | Hong Mujin | Win | B+R | 6.5 | 3292 | 7 | 

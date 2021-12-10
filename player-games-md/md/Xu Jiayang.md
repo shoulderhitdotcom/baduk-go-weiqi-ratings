@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Weon Seongjin | Xu Jiayang | Win | W+R | 6.5 | 3588 | -9 | 
 | 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Xu Jiayang | Gu Zihao | Lose | W+R | 7.5 | 3597 | 3 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhao Chenyu | Xu Jiayang | Win | W+R | 7.5 | 3594 | 1 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Xu Jiayang | Shin Jinseo | Lose | W+R | 7.5 | 3593 | 11 | 

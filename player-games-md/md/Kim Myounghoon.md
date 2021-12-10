@@ -7,6 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Kim Myounghoon | Hsu Chiayuan | Lose | W+R | 6.5 | 3355 | -50 | 
+| 2021-12-04 | 2021-2022韓国囲碁リーグ | Lee Changho | Kim Myounghoon | Lose | B+R | 6.5 | 3405 | 3 | 
+| 2021-11-26 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Kim Myounghoon | Win | W+R | 6.5 | 3402 | -27 | 
+| 2021-11-18 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Kim Myounghoon | Lose | B+2.5 | 6.5 | 3429 | 3429 | 
+| 2021-10-04 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Myounghoon | Yun Chanhee | Lose | W+0.5 | 6.5 | missing | -3430 | 
 | 2021-08-21 | 第26回三星火災杯韓国予選 | Han Wonggyu | Kim Myounghoon | Win | W+R | 6.5 | 3430 | 3430 | 
 | 2021-07-20 | 第23回農心杯韓国予選 | Kim Myounghoon | An Sungjoon | Lose | W+R | 6.5 | missing | -3372 | 
 | 2021-07-19 | 第23回農心杯韓国予選 | Kim Myounghoon | Kang Seungmin | Win | B+R | 6.5 | 3372 | -32 | 
@@ -89,7 +94,7 @@
 | 2019-06-05 | 第6回国手山脈杯韓国選抜戦1回戦 | Choi Cheolhan | Kim Myounghoon | Lose | B+1.5 | 6.5 | 3125 | -12 | 
 | 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Li Xiangyu | Kim Myounghoon | Lose | B+R | 7.5 | 3137 | 2 | 
 | 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Kim Myounghoon | Xie Ke | Lose | W+R | 7.5 | 3135 | 30 | 
-| 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 |  | Kim Myounghoon | Win | W+1¼ | 7.5 | 3105 | -40 | 
+| 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Wang Shuo | Kim Myounghoon | Win | W+1¼ | 7.5 | 3105 | -40 | 
 | 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Peng Liyao | Kim Myounghoon | Win | W+R | 7.5 | 3145 | 12 | 
 | 2019-04-15 | 第21回中国囲碁甲級リーグ第1節杭州-北京 | Kim Myounghoon | Xia Chenkun | Lose | W+R | 7.5 | 3133 | 4 | 
 | 2019-04-06 | 第24回LG杯統合予選決勝 | Kim Myounghoon | Tao Xinran | Lose | W+R | 6.5 | 3129 | -4 | 

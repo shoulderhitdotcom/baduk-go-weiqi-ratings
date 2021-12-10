@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Park Junghwan vs Shin Minjun** | **Park Junghwan streak** | **Shin Minjun streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Junghwan | Shin Minjun | B+R | 6.5 | 8:5 | 2 | 0 | 
 | 2021-03-11 | 第2期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Park Junghwan | W+R | 6.5 | 7:5 | 1 | 0 | 
 | 2021-01-30 | 2020-2021韓国囲碁リーグ | Park Junghwan | Shin Minjun | W+R | 6.5 | 6:5 | 0 | 2 | 
 | 2020-11-11 | 第25回LG杯朝鮮日報棋王戦準決勝 | Park Junghwan | Shin Minjun | W+R | 6.5 | 6:4 | 0 | 1 | 

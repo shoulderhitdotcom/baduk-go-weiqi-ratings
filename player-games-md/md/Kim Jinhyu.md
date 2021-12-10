@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Kim Jinhyu | Lee Jihyun | Win | B+R | 6.5 | 3259 | 72 | 
+| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Kim Jinhyu | Lee Jihyun | Win | B+R | 6.5 | 3259 | 0 | 
+| 2021-12-10 | 第7回国手山脈韓国国内トーナメント2回戦 | Kim Junghyun | Kim Jinhyu | Lose | B+R | 6.5 | 3259 | 72 | 
 | 2021-12-05 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Kim Jinhyu | Win | W+3.5 | 6.5 | 3187 | 11 | 
 | 2021-11-27 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Kim Jinhyu | Win | W+5.5 | 6.5 | 3176 | 7 | 
 | 2021-11-18 | 2021-2022韓国囲碁リーグ | Kim Jinhyu | Lee Donghoon | Win | B+R | 6.5 | 3169 | -10 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-10 | 第27回GSカルテックス杯プロ棋戦予選 | Heo Yongho | Seo Bongsoo | Lose | B+4.5 | 6.5 | 2811 | -41 | 
+| 2021-12-07 | 2021韓国シニア囲碁リーグ準プレーオフ | Seo Bongsoo | An Kwanwuk | Lose | W+R | 6.5 | 2852 | 3 | 
 | 2021-12-06 | 2021韓国シニア囲碁リーグ準プレーオフ | Seo Bongsoo | Kim Ilhwan | Win | B+R | 6.5 | 2849 | -46 | 
 | 2021-11-23 | 2021韓国シニア囲碁リーグ | Jeong Daesang | Seo Bongsoo | Lose | B+R | 6.5 | 2895 | -60 | 
 | 2021-11-16 | 2021韓国シニア囲碁リーグ | Seo Bongsoo | Park Yeongchan | Win | B+16.5 | 6.5 | 2955 | 34 | 

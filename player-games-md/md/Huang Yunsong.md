@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Huang Yunsong | Shin Minjun | Win | B+R | 6.5 | 3555 | 14 | 
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Huang Yunsong | Shin Minjun | Win | B+R | 6.5 | 3555 | 0 | 
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦 | Hsu Chiayuan | Huang Yunsong | Lose | B+R | 6.5 | 3555 | 14 | 
 | 2021-12-06 | 第22期阿含・桐山杯中国早碁オープン戦決勝 | Huang Yunsong | Gu Zihao | Lose | W+R | 7.5 | 3541 | -8 | 
 | 2021-11-24 | 第22期阿含・桐山杯中国早碁オープン戦準決勝 | Yang Dingxin | Huang Yunsong | Win | W+R | 7.5 | 3549 | 10 | 
 | 2021-11-23 | 第22期阿含・桐山杯中国早碁オープン戦2回戦 | Huang Yunsong | Fan Tingyu | Win | B+R | 7.5 | 3539 | -54 | 

@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-09-02 | 第3期ソパルコサノル最高棋士決定戦予選 | Heo Yongho |  | Win | B+R | 6.5 | 3418 | 5 | 
+| 2021-12-10 | 第27回GSカルテックス杯プロ棋戦予選 | Heo Yongho | Seo Bongsoo | Win | B+4.5 | 6.5 | 3373 | -45 | 
+| 2021-09-02 | 第3期ソパルコサノル最高棋士決定戦予選 | Heo Yongho | Cho Seungah | Win | B+R | 6.5 | 3418 | 5 | 
 | 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Heo Yongho | Tao Xinran | Lose | W+R | 6.5 | 3413 | -32 | 
 | 2021-05-06 | 第26回LG杯韓国予選 | An Sungjoon | Heo Yongho | Win | W+R | 6.5 | 3445 | 14 | 
 | 2021-05-05 | 第26回LG杯韓国予選 | Heo Yongho | Lee Changho | Win | B+R | 6.5 | 3431 | 12 | 

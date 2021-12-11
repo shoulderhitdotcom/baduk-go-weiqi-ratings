@@ -2,6 +2,8 @@
 
 The ratings are based on {{ngames}} games from {{from_date}} to {{to_date}}.
 
+Note that players with fewer than 10 games are not in the list
+
 ```{julia; echo=false; line_width=888}
 using JDF
 using DataFrames: DataFrame
@@ -22,6 +24,19 @@ Black 6.5 komi advantage is estimated to be {{elo_black65_adv}} in Elo
 Using the **Elo Rating** it is
 
 Probability that player with rating `r1` wins over someone with rating `r2` is `1/(1 + 10^((r2-r1)/400))`
+
+# Ratings of players with fewer than 10 games (rating not reliable)
+
+```{julia; echo=false; line_width=888}
+using JDF
+using DataFrames: DataFrame
+
+include("c:/weiqi/simulation/utils.jl")
+
+pings_for_mdbs = JDF.load("below_threshold_pings_for_md.jdf") |> DataFrame
+
+df_to_md(pings_for_mdbs)
+```
 
 [Head-to-head](head-to-head-md/md/Ke Jie-Shin Jinseo.md)
 [Head-to-head](head-to-head-md/md/Lee Changseok-Tao Xinran.md)

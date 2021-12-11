@@ -94,12 +94,12 @@ function turn_records_into_md(pings)
         @transform :name = @c Vector{String}(:name) # avoid weird SentinelArray Bug
         @transform :eng_name_old = coalesce(eng_name(:name), "")
         @transform :eng_name = "[" * :eng_name_old * "](./player-games-md/md/" * :eng_name_old * ".md)"
-        @transform :estimate_for_ranking = :estimate - 1.97 * :std_error
+        # @transform :estimate_for_ranking = :estimate - 1.97 * :std_error
         @transform :Rating = round(Int, :estimate * 400 / log(10) + OFFSET)
-        @transform :rating_for_ranking = round(Int, :estimate_for_ranking * 400 / log(10) + OFFSET)
+        # @transform :rating_for_ranking = round(Int, :estimate_for_ranking * 400 / log(10) + OFFSET)
         @transform :rating_uncertainty = "±" * string(round(Int, :std_error * 400 / log(10)))
-        sort!(:estimate_for_ranking, rev = true)
-        @transform :Rank = @c 1:length(:estimate_for_ranking)
+        sort!(:Rating, rev = true)
+        # @transform :Rank = @c 1:length(:Rating)
     end
 end
 
@@ -110,7 +110,7 @@ if false# run only once to generate the historical ratings
         if isfile("records/$(string(date)) pings.csv")
             pings_old = CSV.read("records/$(string(date)) pings.csv", DataFrame; select = [:name, :estimate, :std_error])
             pings_old[!, :date] .= date
-            return select!(turn_records_into_md(pings_old), :date, :name, :eng_name_old, :Rating, :Rank)
+            return select!(turn_records_into_md(pings_old), :date, :name, :eng_name_old, :Rating)
         else
             return DataFrame()
         end
@@ -128,12 +128,12 @@ pings_for_md1[!, :date] .= Date.(to_date)
 # load the hitorical ratings
 # and append the latest record onto it
 pings_hist = JDF.load("pings_hist.jdf") |> DataFrame
-cols_to_keep = [:date, :name, :eng_name_old, :Rating, :Rank]
+cols_to_keep = [:date, :name, :eng_name_old, :Rating]
 pings_hist = unique(vcat(pings_hist, select(pings_for_md1, cols_to_keep)), [:date, :name, :eng_name_old])
 
 JDF.save("pings_hist.jdf", pings_hist)
 
-# normalized the ratings so that it's the average of thelast 365 days
+# normalized the ratings so that it's the average of the last 365 days
 latest_date = maximum(pings_hist.date)
 mean_rating365 = @chain pings_hist begin
     @subset :date >= latest_date - Day(364)
@@ -146,20 +146,35 @@ end
 mean_raw_rating = mean(pings_for_md1.Rating)
 
 pings_for_md1 = @chain pings_for_md1 begin
-    @transform :Rating = Int(round(:Rating * mean_rating365 / mean_raw_rating, digits = 0))
+    @transform :Rating = Int(round(:Rating + mean_rating365 - mean_raw_rating, digits = 0))
 end
 
-pings_for_md = select(
+pings_for_md_tmp = select(
     pings_for_md1,
     :Rank,
     :eng_name => "Name",
     :Rating,
     :rating_uncertainty => Symbol("Uncertainty"),
-    :rating_for_ranking => Symbol("5% CI Lower Bound Rating for ranking"),
     :n => "Games Played",
     :name => "Hanzi (汉字) Name")
 
+
+const NGAME_THRESHOLD = 10
+
+below_threshold_pings_for_md = @chain pings_for_md_tmp begin
+    @subset $"Games Played" < NGAME_THRESHOLD
+    sort!(:Rating, rev = true)
+    @transform :Rank = @c 1:length(:Rating)
+end
+
+pings_for_md = @chain pings_for_md_tmp begin
+    @subset $"Games Played" >= NGAME_THRESHOLD
+    sort!(:Rating, rev = true)
+    @transform :Rank = @c 1:length(:Rating)
+end
+
 JDF.save("pings_for_md.jdf", pings_for_md)
+JDF.save("below_threshold_pings_for_md.jdf", below_threshold_pings_for_md)
 
 # CSV.write("c:/data/tmp.csv", pings_for_md)
 

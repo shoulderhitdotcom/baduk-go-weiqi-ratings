@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-11 | 第1回テイケイ杯女流レジェンド戦決勝 | Kato Tomoko | Aoki Kikuyo | Win | W+4.5 | 6.5 | 2682 | -13 | 
 | 2021-11-25 | 第1回テイケイ杯女流レジェンド戦準決勝 | Aoki Kikuyo | Hosaka Mayu | Win | B+4.5 | 6.5 | 2695 | 10 | 
 | 2021-11-04 | 第1回テイケイ杯女流レジェンド戦2回戦 | Aoki Kikuyo | Umezawa Yukari | Win | B+5.5 | 6.5 | 2685 | -12 | 
 | 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 |  | Aoki Kikuyo | Win | W+4¼ | 7.5 | 2697 | 29 | 
@@ -29,8 +30,8 @@
 | 2019-04-11 | 第45期名人戦予選 | Ryu Shikun | Aoki Kikuyo | Lose | B+R | 6.5 | 2222 | 5 | 
 | 2019-04-08 | 第4回扇興杯女流囲碁最強戦1回戦 | Aoki Kikuyo | Chinen Kaori | Win | B+0.5 | 6.5 | 2217 | -47 | 
 | 2018-11-26 | 第31期女流名人戦準決勝 | Aoki Kikuyo | Koyama Mitsuru | Lose | W+R | 6.5 | 2264 | -50 | 
-| 2018-11-12 | 第1回SGW杯中庸戦予選1回戦 | Aoki Kikuyo | Konagai Masaru | Win | B+3.5 | 6.5 | 2314 | 0 | 
-| 2018-11-12 | 第1回SGW杯中庸戦予選2回戦 | Aoki Kikuyo | Yamamori Tadanao | Lose | W+5.5 | 6.5 | 2314 | -75 | 
+| 2018-11-12 | 第1回SGW杯中庸戦予選2回戦 | Aoki Kikuyo | Yamamori Tadanao | Lose | W+5.5 | 6.5 | 2314 | 0 | 
+| 2018-11-12 | 第1回SGW杯中庸戦予選1回戦 | Aoki Kikuyo | Konagai Masaru | Win | B+3.5 | 6.5 | 2314 | -75 | 
 | 2018-11-08 | 第22期ドコモ杯女流棋聖戦2回戦 | Aoki Kikuyo |  | Lose | W+11.5 | 6.5 | 2389 | -47 | 
 | 2018-10-22 | 第31期女流名人戦2回戦 | Yashiro Kumiko | Aoki Kikuyo | Win | W+1.5 | 6.5 | 2436 | -3 | 
 | 2018-10-18 | 第31期ドコモ杯女流棋聖戦1回戦 | Aoki Kikuyo | Abe Yumiko | Win | B+1.5 | 6.5 | 2439 | 16 | 

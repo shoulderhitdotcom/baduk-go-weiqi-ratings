@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-11 | 第1回テイケイ杯女流レジェンド戦決勝 | Kato Tomoko | Aoki Kikuyo | Lose | W+4.5 | 6.5 | 2835 | 2835 | 
 | 2021-12-02 | 第1回テイケイ杯女流レジェンド戦準決勝 | Tsukuda Akiko | Kato Tomoko | Win | W+R | 6.5 | missing | 0 | 
 | 2021-11-11 | 第1回テイケイ杯女流レジェンド戦2回戦 | Inori Yoko | Kato Tomoko | Win | W+4.5 | 6.5 | missing | 0 | 
 | 2021-10-21 | 第1回テイケイ杯女流レジェンド戦1回戦 | Kato Tomoko | Yoshida Mika | Win | B+1.5 | 6.5 | missing | -2397 | 

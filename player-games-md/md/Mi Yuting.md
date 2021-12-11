@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-11 | 第1回文投杯中国囲碁国手戦準決勝 | Ding Hao | Mi Yuting | Lose | B+R | 7.5 | 3605 | -4 | 
+| 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Mi Yuting | Shi Yue | Win | B+R | 7.5 | 3609 | -5 | 
 | 2021-11-23 | 第22期阿含・桐山杯中国早碁オープン戦2回戦 | Mi Yuting | Zhao Chenyu | Lose | W+R | 7.5 | 3614 | -72 | 
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Mi Yuting | Li Qincheng | Win | B+1¾ | 7.5 | 3686 | 24 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Tang Weixing | Mi Yuting | Lose | B+R | 7.5 | 3662 | -15 | 
@@ -86,8 +88,8 @@
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Mi Yuting | Yang Dingxin | Lose | W+R | 7.5 | 3813 | -5 | 
 | 2020-08-19 | 第21回農心辛ラーメン杯世界囲碁最強戦第11戦 | Park Junghwan | Mi Yuting | Lose | B+R | 6.5 | 3818 | 146 | 
 | 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Mi Yuting | Byun Sangil | Lose | W+R | 7.5 | 3672 | 21 | 
-| 2020-06-15 | 第19回西南棋王戦決勝 | Mi Yuting | Tuo Jiaxi | Win | B+3¾ | 7.5 | 3651 | 0 | 
-| 2020-06-15 | 第19回西南棋王戦準決勝 | Li Xuanhao | Mi Yuting | Win | W+R | 7.5 | 3651 | 2 | 
+| 2020-06-15 | 第19回西南棋王戦準決勝 | Li Xuanhao | Mi Yuting | Win | W+R | 7.5 | 3651 | 0 | 
+| 2020-06-15 | 第19回西南棋王戦決勝 | Mi Yuting | Tuo Jiaxi | Win | B+3¾ | 7.5 | 3651 | 2 | 
 | 2020-06-14 | 第19回西南棋王戦2回戦 | Mi Yuting | Tang Weixing | Win | B+¾ | 7.5 | 3649 | 0 | 
 | 2020-06-14 | 第19回西南棋王戦1回戦 | He Yuhan | Mi Yuting | Win | W+R | 7.5 | 3649 | 1 | 
 | 2020-06-11 | 第11期中国竜星戦Aブロック10回戦 | Mi Yuting | Ke Jie | Lose | W+R | 7.5 | 3648 | -19 | 
@@ -152,8 +154,8 @@
 | 2019-04-12 | 第10期中国竜星戦Bブロック9回戦 | Mi Yuting | Gu Zihao | Lose | W+R | 7.5 | 3413 | 8 | 
 | 2019-04-06 | 第24回LG杯統合予選決勝 | Mi Yuting |  | Win | B+1.5 | 6.5 | 3405 | 5 | 
 | 2019-04-05 | 第24回LG杯統合予選4回戦 | Hong Seongji | Mi Yuting | Win | W+R | 6.5 | 3400 | 14 | 
-| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Mi Yuting | Zhang Tao | Win | B+R | 7.5 | 3386 | 0 | 
-| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Yi Lingtao | Mi Yuting | Lose | B+R | 7.5 | 3386 | -9 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Yi Lingtao | Mi Yuting | Lose | B+R | 7.5 | 3386 | 0 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Mi Yuting | Zhang Tao | Win | B+R | 7.5 | 3386 | -9 | 
 | 2019-03-23 | 第18回西南棋王戦2回戦 | Mi Yuting | Dang Yifei | Lose | W+R | 7.5 | 3395 | 0 | 
 | 2019-03-23 | 第18回西南棋王戦1回戦 | Mi Yuting | Gu Lingyi | Win | B+R | 7.5 | 3395 | 4 | 
 | 2019-03-11 | 第1回王中王囲棋争覇戦敗者組2回戦 | Mi Yuting | Tan Xiao | Lose | W+R | 7.5 | 3391 | -7 | 
@@ -216,8 +218,8 @@
 | 2018-03-28 | 第20回中国囲碁甲級リーグ第2節山東-江蘇 | Mi Yuting | Jiang Weijie | Win | B+R | 7.5 | 3450 | -22 | 
 | 2018-03-26 | 第20回中国囲碁甲級リーグ第1節江蘇-衢州 | Lee Sedol | Mi Yuting | Lose | B+R | 7.5 | 3472 | -3 | 
 | 2018-03-24 | 囲碁電王戦FINAL第1局 | Mi Yuting | DeepZenGo | Win | B+R | 6.5 | 3475 | -29 | 
-| 2018-03-10 | 第17回西南棋王戦決勝 | Mi Yuting | Tang Weixing | Win | B+R | 7.5 | 3504 | 0 | 
-| 2018-03-10 | 第17回西南棋王戦準決勝 | Choi Cheolhan | Mi Yuting | Win | W+¼ | 7.5 | 3504 | 15 | 
+| 2018-03-10 | 第17回西南棋王戦準決勝 | Choi Cheolhan | Mi Yuting | Win | W+¼ | 7.5 | 3504 | 0 | 
+| 2018-03-10 | 第17回西南棋王戦決勝 | Mi Yuting | Tang Weixing | Win | B+R | 7.5 | 3504 | 15 | 
 | 2018-03-09 | 第17回西南棋王戦2回戦 | Mi Yuting | Yang Dingxin | Win | B+R | 7.5 | 3489 | 0 | 
 | 2018-03-09 | 第17回西南棋王戦1回戦 | Tan Xiao | Mi Yuting | Win | W+R | 7.5 | 3489 | 30 | 
 | 2018-01-23 | 第32期中国囲碁天元戦1回戦 | Tu Xiaoyu | Mi Yuting | Lose | B+3.5 | 7.5 | 3459 | -6 | 
@@ -276,8 +278,8 @@
 | 2017-03-22 | 第1回ワールド碁チャンピオンシップ2回戦 | Iyama Yuta | Mi Yuting | Win | W+2.5 | 6.5 | 3286 | 3 | 
 | 2017-03-21 | 第1回ワールド碁チャンピオンシップ1回戦 | Mi Yuting | DeepZenGo | Win | B+R | 6.5 | 3283 | -8 | 
 | 2017-03-15 | 第8期中国竜星戦Bブロック8回戦 | Gu Zihao | Mi Yuting | Lose | B+R | 7.5 | 3291 | -14 | 
-| 2017-03-11 | 第16回西南棋王戦1回戦 | Liu Yuhang | Mi Yuting | Win | W+R | 7.5 | 3305 | 0 | 
-| 2017-03-11 | 第16回西南棋王戦2回戦 | Yang Dingxin | Mi Yuting | Lose | B+R | 7.5 | 3305 | 31 | 
+| 2017-03-11 | 第16回西南棋王戦2回戦 | Yang Dingxin | Mi Yuting | Lose | B+R | 7.5 | 3305 | 0 | 
+| 2017-03-11 | 第16回西南棋王戦1回戦 | Liu Yuhang | Mi Yuting | Win | W+R | 7.5 | 3305 | 31 | 
 | 2017-01-20 | 第31期中国囲碁天元戦準決勝 | Lian Xiao | Mi Yuting | Lose | B+R | 7.5 | 3274 | -33 | 
 | 2017-01-18 | 第31期中国囲碁天元戦3回戦 | Mi Yuting | Shi Yue | Win | B+R | 7.5 | 3307 | 1 | 
 | 2017-01-16 | 第31期中国囲碁天元戦2回戦 | Fan Tingyu | Mi Yuting | Win | W+R | 7.5 | 3306 | 14 | 
@@ -438,8 +440,8 @@
 | 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Zhou Ruiyang | Mi Yuting | Win | W+R | 7.5 | 3369 | -7 | 
 | 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Peng Quan | Mi Yuting | Win | W+2.5 | 7.5 | 3376 | 23 | 
 | 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Peng Quan | Mi Yuting | Lose | B+R | 7.5 | 3353 | -15 | 
-| 2014-05-03 | 2014年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Mi Yuting | Xia Chenkun | Lose | W+R | 7.5 | 3368 | 0 | 
-| 2014-05-03 | 2014年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Mi Yuting | Dang Yifei | Win | B+R | 7.5 | 3368 | -139 | 
+| 2014-05-03 | 2014年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Mi Yuting | Dang Yifei | Win | B+R | 7.5 | 3368 | 0 | 
+| 2014-05-03 | 2014年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Mi Yuting | Xia Chenkun | Lose | W+R | 7.5 | 3368 | -139 | 
 | 2014-04-19 | 第19回LG杯予選 | Mi Yuting | Choi Myeonghun | Win | B+9.5 | 6.5 | 3507 | 7 | 
 | 2014-04-17 | 第19回LG杯予選 | Mi Yuting | Kim Junghyun | Win | B+R | 6.5 | 3500 | 17 | 
 | 2014-04-14 | 第19回LG杯予選 | Mi Yuting | Min Sangyoun | Win | B+R | 6.5 | 3483 | -19 | 
@@ -498,8 +500,8 @@
 | 2013-04-07 | 第15回中国囲碁甲級リーグ第2節 | Mi Yuting | Tong Yulin | Win | B+R | 7.5 | 3302 | 6 | 
 | 2013-04-05 | 第15回中国囲碁甲級リーグ第1節 | Mi Yuting | Tang Weixing | Lose | W+R | 7.5 | 3296 | -2 | 
 | 2013-03-31 | 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | Tan Xiao | Mi Yuting | Win | W+R | 7.5 | 3298 | 9 | 
-| 2013-03-30 | 2013年宏達杯全国囲碁星鋭最強戦第1ステージ |  | Mi Yuting | Win | W+R | 7.5 | 3289 | 0 | 
-| 2013-03-30 | 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | Mi Yuting | Wang Zejin | Win | B+R | 7.5 | 3289 | -1 | 
+| 2013-03-30 | 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | Mi Yuting | Wang Zejin | Win | B+R | 7.5 | 3289 | 0 | 
+| 2013-03-30 | 2013年宏達杯全国囲碁星鋭最強戦第1ステージ |  | Mi Yuting | Win | W+R | 7.5 | 3289 | -1 | 
 | 2013-03-29 | 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | Mi Yuting | Ding Shixiong | Win | B+R | 7.5 | 3290 | -16 | 
 | 2013-03-27 | 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | Mi Yuting | Zhang Tao | Lose | W+R | 7.5 | 3306 | -16 | 
 | 2013-03-26 | 2013年宏達杯全国囲碁星鋭最強戦第1ステージ | Mi Yuting | Mao Ruilong | Win | B+R | 7.5 | 3322 | -7 | 

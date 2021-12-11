@@ -19,6 +19,7 @@ includet("utils.jl")
 
 # rating offset
 const OFFSET = 3800 - 6.5 / log(10) * 400
+const NGAME_THRESHOLD = 11
 
 # the intended syntax
 # @target = tbl = @chain @watch_path "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
@@ -157,9 +158,6 @@ pings_for_md_tmp = select(
     :rating_uncertainty => Symbol("Uncertainty"),
     :n => "Games Played",
     :name => "Hanzi (汉字) Name")
-
-
-const NGAME_THRESHOLD = 10
 
 below_threshold_pings_for_md = @chain pings_for_md_tmp begin
     @subset $"Games Played" < NGAME_THRESHOLD

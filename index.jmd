@@ -2,7 +2,7 @@
 
 The ratings are based on {{ngames}} games from {{from_date}} to {{to_date}}.
 
-Note that players with fewer than 10 games are not in the list
+Note that players with fewer than 11 games are not in the list
 
 ```{julia; echo=false; line_width=888}
 using JDF

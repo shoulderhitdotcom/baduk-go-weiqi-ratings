@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-11 | 第7回国手山脈韓国国内トーナメント準決勝 | Park Yeonghun | Kang Jihoon | Win | B+R | 6.5 | 3310 | 35 | 
+| 2021-12-10 | 第7回国手山脈韓国国内トーナメント2回戦 | An Jungki | Park Yeonghun | Win | W+R | 6.5 | 3275 | 0 | 
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Park Yeonghun | Han Seungjoo | Win | B+R | 6.5 | 3275 | 17 | 
 | 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Minkyu | Park Yeonghun | Win | W+R | 6.5 | 3258 | 15 | 
 | 2021-11-27 | 2021-2022韓国囲碁リーグ | Park Yeonghun | Song Jihoon | Win | B+R | 6.5 | 3243 | -3 | 
@@ -88,8 +90,8 @@
 | 2019-08-05 | 第6回国手山脈韓国国内トーナメント決勝 | Han Seungjoo | Park Yeonghun | Win | W+R | 6.5 | 3219 | 18 | 
 | 2019-08-04 | 第6回国手山脈韓国国内トーナメント準決勝 | Park Yeonghun | Kang Dongyun | Win | B+R | 6.5 | 3201 | 0 | 
 | 2019-08-04 | 第6回国手山脈韓国国内トーナメント8強戦 | Lee Changseok | Park Yeonghun | Win | W+T | 6.5 | 3201 | 30 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Song Gyusang | Park Yeonghun | Win | W+R | 6.5 | 3171 | 0 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Kim Changhoon | Park Yeonghun | Win | W+R | 6.5 | 3171 | 10 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Kim Changhoon | Park Yeonghun | Win | W+R | 6.5 | 3171 | 0 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Song Gyusang | Park Yeonghun | Win | W+R | 6.5 | 3171 | 10 | 
 | 2019-07-12 | 第21回農心杯韓国選抜戦 | Park Yeonghun | Ryu Suhang | Win | B+R | 6.5 | 3161 | 20 | 
 | 2019-07-02 | 第24回三星火災杯統合予選2回戦 | Park Yeonghun | Tu Xiaoyu | Win | B+R | 6.5 | 3141 | 28 | 
 | 2019-06-27 | 第12回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Park Yeonghun | Park Junghwan | Lose | W+R | 7.5 | 3113 | 7 | 
@@ -632,8 +634,8 @@
 | 2008-10-27 | 第10回マキシムコーヒー杯入神最強戦2回戦 | Park Yeonghun | An Joyeong | Win | B+R | 6.5 | 3461 | -3 | 
 | 2008-10-23 | 2008年韓国囲碁リーグ | Park Seunghwa | Park Yeonghun | Win | W+2.5 | 6.5 | 3464 | 17 | 
 | 2008-10-12 | 2008年韓国囲碁リーグ | Choi Wongyong | Park Yeonghun | Win | W+T | 6.5 | 3447 | 43 | 
-| 2008-10-07 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Park Yeonghun | Mimura Tomoyasu | Win | B+R | 6.5 | 3404 | 0 | 
-| 2008-10-07 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Park Yeonghun | Park Cheongsang | Lose | W+R | 6.5 | 3404 | -14 | 
+| 2008-10-07 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Park Yeonghun | Park Cheongsang | Lose | W+R | 6.5 | 3404 | 0 | 
+| 2008-10-07 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Park Yeonghun | Mimura Tomoyasu | Win | B+R | 6.5 | 3404 | -14 | 
 | 2008-10-06 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Sakai Hideyuki | Park Yeonghun | Win | W+R | 6.5 | 3418 | -6 | 
 | 2008-09-21 | 2008年韓国囲碁リーグ | Park Cheongsang | Park Yeonghun | Win | W+1.5 | 6.5 | 3424 | -16 | 
 | 2008-09-03 | 第13回三星火災杯世界オープン囲碁選手権1回戦 | Kong Jie | Park Yeonghun | Lose | B+R | 6.5 | 3440 | -14 | 
@@ -699,8 +701,8 @@
 | 2007-08-15 | 第3回中環杯世界囲碁選手権準決勝 | Park Yeonghun | Park Cheongsang | Lose | W+0.5 | 6.5 | 2919 | -270 | 
 | 2007-08-13 | 第3回中環杯世界囲碁選手権2回戦 | Park Yeonghun | Kono Rin | Win | B+R | 6.5 | 3189 | 7 | 
 | 2007-08-12 | 第3回中環杯世界囲碁選手権1回戦 | O Rissei | Park Yeonghun | Win | W+R | 6.5 | 3182 | 6 | 
-| 2007-08-09 | 2007年韓国囲碁リーグ | Park Yeonghun | Choi Wongyong | Lose | W+R | 6.5 | 3176 | 0 | 
-| 2007-08-09 | 第9回農心杯韓国選抜戦 | Kim Seungjun | Park Yeonghun | Win | W+R | 6.5 | 3176 | -11 | 
+| 2007-08-09 | 第9回農心杯韓国選抜戦 | Kim Seungjun | Park Yeonghun | Win | W+R | 6.5 | 3176 | 0 | 
+| 2007-08-09 | 2007年韓国囲碁リーグ | Park Yeonghun | Choi Wongyong | Lose | W+R | 6.5 | 3176 | -11 | 
 | 2007-08-08 | 第9回農心杯韓国選抜戦 | Park Yeonghun | Lee Yeongkyu | Win | B+4.5 | 6.5 | 3187 | -54 | 
 | 2007-08-06 | 第12期GSカルテックス杯プロ棋戦リーグ | Park Yeonghun | Hong Seongji | Win | B+2.5 | 6.5 | 3241 | -30 | 
 | 2007-08-02 | 第12期GSカルテックス杯プロ棋戦リーグ | Park Yeonghun | Choi Cheolhan | Win | B+1.5 | 6.5 | 3271 | -105 | 
@@ -919,8 +921,8 @@
 | 2003-05-28 | 第3回KAT杯韓国囲碁最強戦 | Park Yeonghun | Lee Changho | Win | B+R | 6.5 | 2645 | 6 | 
 | 2003-05-22 | 第3期オスラムコリア杯新鋭連勝最強戦 | Chen Shiyuan | Park Yeonghun | Lose | B+R | 6.5 | 2639 | -15 | 
 | 2003-05-20 | 第8期LG精油杯プロ棋戦1回戦 | Lee Changho | Park Yeonghun | Lose | B+1.5 | 6.5 | 2654 | 6 | 
-| 2003-05-15 | 第3期オスラムコリア杯新鋭連勝最強戦 | Park Yeonghun |  | Win | B+R | 6.5 | 2648 | 0 | 
-| 2003-05-15 | 第3期オスラムコリア杯新鋭連勝最強戦 | Kim Hyeongwan | Park Yeonghun | Win | W+R | 6.5 | 2648 | 13 | 
+| 2003-05-15 | 第3期オスラムコリア杯新鋭連勝最強戦 | Kim Hyeongwan | Park Yeonghun | Win | W+R | 6.5 | 2648 | 0 | 
+| 2003-05-15 | 第3期オスラムコリア杯新鋭連勝最強戦 | Park Yeonghun |  | Win | B+R | 6.5 | 2648 | 13 | 
 | 2003-05-13 | 第3期オスラムコリア杯新鋭連勝最強戦 | Park Yeonghun | Lee Yungsoo | Win | B+R | 6.5 | 2635 | 0 | 
 | 2003-05-13 | 第3期オスラムコリア杯新鋭連勝最強戦 | Park Yeonghun |  | Win | B+R | 6.5 | 2635 | -6 | 
 | 2003-04-29 | 第3期オスラムコリア杯新鋭連勝最強戦 | Kim Juho | Park Yeonghun | Win | W+1.5 | 6.5 | 2641 | 6 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-11 | 第7回国手山脈世界プロ最強戦準決勝 | Xu Jiayang | Shin Jinseo | Win | W+R | 6.5 | 3766 | -13 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦  | Yamashita Keigo | Shin Jinseo | Win | W+R | 6.5 | 3779 | 0 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦  | Shin Jinseo | Wang Yuanjun | Win | B+8.5 | 6.5 | 3779 | -4 | 
 | 2021-12-02 | 2021-2022韓国囲碁リーグ | Park Seunghwa | Shin Jinseo | Win | W+R | 6.5 | 3783 | -7 | 
@@ -101,8 +102,8 @@
 | 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Shin Jinseo | Gu Lingyi | Win | B+2¾ | 7.5 | 4133 | 7 | 
 | 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Dang Yifei | Shin Jinseo | Win | W+1¼ | 7.5 | 4126 | 12 | 
 | 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Shin Jinseo | Xu Jiayang | Win | B+R | 7.5 | 4114 | 5 | 
-| 2020-12-20 | 2020-2021韓国囲碁リーグ | Shin Jinseo | Park Junghwan | Lose | W+R | 6.5 | 4109 | 0 | 
-| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Shin Jinseo | Xu Jiayang | Lose | W+R | 7.5 | 4109 | -69 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Shin Jinseo | Xu Jiayang | Lose | W+R | 7.5 | 4109 | 0 | 
+| 2020-12-20 | 2020-2021韓国囲碁リーグ | Shin Jinseo | Park Junghwan | Lose | W+R | 6.5 | 4109 | -69 | 
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Ke Jie | Shin Jinseo | Win | W+R | 7.5 | 4178 | -5 | 
 | 2020-12-12 | 2020-2021韓国囲碁リーグ | Wen Rubin | Shin Jinseo | Win | W+R | 6.5 | 4183 | -1 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Jiang Qirun | Shin Jinseo | Win | W+R | 7.5 | 4184 | 4 | 
@@ -247,11 +248,11 @@
 | 2019-04-27 | 第20回マキシムコーヒー杯入神最強戦決勝三番勝負第3局 | Shin Jinseo | Lee Donghoon | Win | B+R | 6.5 | 3426 | -2 | 
 | 2019-04-26 | 第24期GSカルテックス杯準決勝 | Byun Sangil | Shin Jinseo | Win | W+R | 6.5 | 3428 | 1 | 
 | 2019-04-22 | 第20回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Shin Jinseo | Lee Donghoon | Lose | W+R | 6.5 | 3427 | -3 | 
-| 2019-04-21 | 第6回グロービス杯世界囲碁U-20三位決定戦 | Ding Hao | Shin Jinseo | Lose | B+R | 6.5 | 3430 | 0 | 
-| 2019-04-21 | 第6回グロービス杯世界囲碁U-20準決勝 | Wang Zejin | Shin Jinseo | Lose | B+R | 6.5 | 3430 | -13 | 
+| 2019-04-21 | 第6回グロービス杯世界囲碁U-20準決勝 | Wang Zejin | Shin Jinseo | Lose | B+R | 6.5 | 3430 | 0 | 
+| 2019-04-21 | 第6回グロービス杯世界囲碁U-20三位決定戦 | Ding Hao | Shin Jinseo | Lose | B+R | 6.5 | 3430 | -13 | 
 | 2019-04-20 | 第6回グロービス杯世界囲碁U-20 1回戦 | Shin Jinseo | Chen Zijian | Win | B+R | 6.5 | 3443 | -2 | 
-| 2019-04-19 | 第6回グロービス杯世界囲碁U-20グループリーグB | Mutsuura Yuta | Shin Jinseo | Win | W+R | 6.5 | 3445 | 0 | 
-| 2019-04-19 | 第6回グロービス杯世界囲碁U-20グループリーグB | Shin Jinseo | Ding Hao | Win | B+R | 6.5 | 3445 | 5 | 
+| 2019-04-19 | 第6回グロービス杯世界囲碁U-20グループリーグB | Shin Jinseo | Ding Hao | Win | B+R | 6.5 | 3445 | 0 | 
+| 2019-04-19 | 第6回グロービス杯世界囲碁U-20グループリーグB | Mutsuura Yuta | Shin Jinseo | Win | W+R | 6.5 | 3445 | 5 | 
 | 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Xie Erhao | Shin Jinseo | Win | W+R | 7.5 | 3440 | 5 | 
 | 2019-04-15 | 第21回中国囲碁甲級リーグ第1節濰坊-蘇泊爾 | Shin Jinseo | Fan Tingyu | Win | B+R | 7.5 | 3435 | 6 | 
 | 2019-04-12 | 第24期GSカルテックス杯8強戦 | Cho Hanseung | Shin Jinseo | Win | W+R | 6.5 | 3429 | 7 | 
@@ -285,10 +286,10 @@
 | 2018-11-02 | 第20回中国囲碁甲級リーグ第22節杭州-浙江 | Qin Yuexin | Shin Jinseo | Win | W+R | 7.5 | 3445 | -9 | 
 | 2018-10-27 | 第20回中国囲碁甲級リーグ第20節杭州-江西 | Gu Zihao | Shin Jinseo | Lose | B+R | 7.5 | 3454 | -3 | 
 | 2018-10-23 | 第37回KBS杯囲碁王戦16強戦 | Park Minkyu | Shin Jinseo | Win | W+R | 6.5 | 3457 | -12 | 
-| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦決勝  | Fan Yunruo | Shin Jinseo | Win | W+R | 6.5 | 3469 | 0 | 
-| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦第3戦  | Wang Yuanjun | Shin Jinseo | Win | W+4.5 | 6.5 | 3469 | 17 | 
-| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第1戦  | Hsu Chiayuan | Shin Jinseo | Win | W+R | 6.5 | 3452 | 0 | 
-| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第2戦  | Shin Jinseo | Fan Yunruo | Win | B+R | 6.5 | 3452 | 2 | 
+| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦第3戦  | Wang Yuanjun | Shin Jinseo | Win | W+4.5 | 6.5 | 3469 | 0 | 
+| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦決勝  | Fan Yunruo | Shin Jinseo | Win | W+R | 6.5 | 3469 | 17 | 
+| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第2戦  | Shin Jinseo | Fan Yunruo | Win | B+R | 6.5 | 3452 | 0 | 
+| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第1戦  | Hsu Chiayuan | Shin Jinseo | Win | W+R | 6.5 | 3452 | 2 | 
 | 2018-10-10 | 第20回中国囲碁甲級リーグ第19節山東-杭州 | Shin Jinseo | Fan Tingyu | Win | B+R | 7.5 | 3450 | 7 | 
 | 2018-10-08 | 第20回中国囲碁甲級リーグ第18節杭州-成都 | Liao Yuanhe | Shin Jinseo | Win | W+R | 7.5 | 3443 | 6 | 
 | 2018-10-06 | 2018年韓国囲碁リーグ第14節 | Shin Jinseo | Lee Sedol | Win | B+R | 6.5 | 3437 | -12 | 
@@ -318,8 +319,8 @@
 | 2018-07-28 | 第5回国手山脈杯世界プロ最強戦1回戦 | Yuki Satoshi | Shin Jinseo | Win | W+R | 6.5 | 3424 | -14 | 
 | 2018-07-26 | 第4回百霊杯世界オープン戦2回戦 | Shin Jinseo | Dang Yifei | Win | B+R | 7.5 | 3438 | 8 | 
 | 2018-07-24 | 第4回百霊杯世界オープン戦1回戦 | Wang Yuanjun | Shin Jinseo | Win | W+¼ | 7.5 | 3430 | 8 | 
-| 2018-07-19 | 2018年韓国囲碁リーグ第5節 | Jin Siyoung | Shin Jinseo | Win | W+R | 6.5 | 3422 | 0 | 
-| 2018-07-19 | 第20回農心杯韓国選抜戦 | Kang Dongyun | Shin Jinseo | Lose | B+R | 6.5 | 3422 | -25 | 
+| 2018-07-19 | 第20回農心杯韓国選抜戦 | Kang Dongyun | Shin Jinseo | Lose | B+R | 6.5 | 3422 | 0 | 
+| 2018-07-19 | 2018年韓国囲碁リーグ第5節 | Jin Siyoung | Shin Jinseo | Win | W+R | 6.5 | 3422 | -25 | 
 | 2018-07-17 | 第20回農心杯韓国選抜戦 | Shin Jinseo | Yun Chanhee | Win | B+R | 6.5 | 3447 | 7 | 
 | 2018-07-16 | 第20回農心杯韓国選抜戦 | Na Hyun | Shin Jinseo | Win | W+R | 6.5 | 3440 | 15 | 
 | 2018-07-13 | 2018年韓国囲碁リーグ第4節 | Kim Jiseok | Shin Jinseo | Lose | B+R | 6.5 | 3425 | 2 | 
@@ -337,11 +338,11 @@
 | 2018-05-14 | 第23期GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Lee Sedol | Shin Jinseo | Win | W+R | 6.5 | 3506 | 22 | 
 | 2018-04-27 | 第23期GSカルテックス杯プロ棋戦準決勝 | Kim Jiseok | Shin Jinseo | Win | W+R | 6.5 | 3484 | 12 | 
 | 2018-04-25 | 第20回中国囲碁甲級リーグ第4節杭州-衢州 | Ding Shixiong | Shin Jinseo | Win | W+R | 7.5 | 3472 | -12 | 
-| 2018-04-22 | 第5回グロービス杯世界囲碁U-20三位決定戦 | Lee Donghoon | Shin Jinseo | Win | W+R | 6.5 | 3484 | 0 | 
-| 2018-04-22 | 第5回グロービス杯世界囲碁U-20準決勝 | Shin Jinseo | Shin Minjun | Lose | W+0.5 | 6.5 | 3484 | 1 | 
+| 2018-04-22 | 第5回グロービス杯世界囲碁U-20準決勝 | Shin Jinseo | Shin Minjun | Lose | W+0.5 | 6.5 | 3484 | 0 | 
+| 2018-04-22 | 第5回グロービス杯世界囲碁U-20三位決定戦 | Lee Donghoon | Shin Jinseo | Win | W+R | 6.5 | 3484 | 1 | 
 | 2018-04-21 | 第5回グロービス杯世界囲碁U-20準々決勝 | Fujisawa Rina | Shin Jinseo | Win | W+R | 6.5 | 3483 | -1 | 
-| 2018-04-20 | 第5回グロービス杯世界囲碁U-20グループリーグD | Shin Jinseo | Mutsuura Yuta | Win | B+R | 6.5 | 3484 | 0 | 
-| 2018-04-20 | 第5回グロービス杯世界囲碁U-20グループリーグD | Xu Haohong | Shin Jinseo | Win | W+R | 6.5 | 3484 | 9 | 
+| 2018-04-20 | 第5回グロービス杯世界囲碁U-20グループリーグD | Xu Haohong | Shin Jinseo | Win | W+R | 6.5 | 3484 | 0 | 
+| 2018-04-20 | 第5回グロービス杯世界囲碁U-20グループリーグD | Shin Jinseo | Mutsuura Yuta | Win | B+R | 6.5 | 3484 | 9 | 
 | 2018-04-18 | 第1回韓国竜星戦16強戦 | Shin Jinseo | Lee Yeongkyu | Lose | W+R | 6.5 | 3475 | -22 | 
 | 2018-04-13 | 第23期GSカルテックス杯プロ棋戦8強戦 | Heo Yongho | Shin Jinseo | Win | W+R | 6.5 | 3497 | 44 | 
 | 2018-04-02 | 第1回韓国竜星戦32強ダブルエリミネーションF2 | Shin Jinseo | Choi Jeong | Win | B+R | 6.5 | 3453 | -8 | 
@@ -411,16 +412,16 @@
 | 2017-05-07 | 第1回新奥杯世界囲碁オープン戦4回戦 | Zhou Ruiyang | Shin Jinseo | Lose | B+R | 7.5 | 3465 | -20 | 
 | 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Dang Yifei | Shin Jinseo | Win | W+0.5 | 7.5 | 3485 | 6 | 
 | 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Sun Tengyu | Shin Jinseo | Win | W+R | 7.5 | 3479 | 29 | 
-| 2017-04-23 | 第4回グロービス杯世界囲碁U-20決勝 | Byun Sangil | Shin Jinseo | Win | W+R | 6.5 | 3450 | 0 | 
-| 2017-04-23 | 第4回グロービス杯世界囲碁U-20準決勝 | Shin Jinseo | Shibano Toramaru | Win | B+R | 6.5 | 3450 | 24 | 
+| 2017-04-23 | 第4回グロービス杯世界囲碁U-20準決勝 | Shin Jinseo | Shibano Toramaru | Win | B+R | 6.5 | 3450 | 0 | 
+| 2017-04-23 | 第4回グロービス杯世界囲碁U-20決勝 | Byun Sangil | Shin Jinseo | Win | W+R | 6.5 | 3450 | 24 | 
 | 2017-04-22 | 第4回グロービス杯世界囲碁U-20準々決勝 | Xie Erhao | Shin Jinseo | Win | W+T | 6.5 | 3426 | 0 | 
 | 2017-04-22 | 第4回グロービス杯世界囲碁U-20グループリーグB | Mutsuura Yuta | Shin Jinseo | Win | W+R | 6.5 | 3426 | 1 | 
-| 2017-04-21 | 第4回グロービス杯世界囲碁U-20グループリーグB | Mutsuura Yuta | Shin Jinseo | Win | W+R | 6.5 | 3425 | 0 | 
-| 2017-04-21 | 第4回グロービス杯世界囲碁U-20グループリーグB | Shin Jinseo | Huang Yunsong | Lose | W+R | 6.5 | 3425 | 187 | 
+| 2017-04-21 | 第4回グロービス杯世界囲碁U-20グループリーグB | Shin Jinseo | Huang Yunsong | Lose | W+R | 6.5 | 3425 | 0 | 
+| 2017-04-21 | 第4回グロービス杯世界囲碁U-20グループリーグB | Mutsuura Yuta | Shin Jinseo | Win | W+R | 6.5 | 3425 | 187 | 
 | 2017-03-17 | 第22期GSカルテックス杯プロ棋戦8強戦 | Shin Jinseo | Kim Jiseok | Lose | W+R | 6.5 | 3238 | 13 | 
 | 2017-02-16 | 第22期GSカルテックス杯プロ棋戦16強戦 | Kim Seongjae | Shin Jinseo | Win | W+R | 6.5 | 3225 | 20 | 
-| 2017-01-04 | 2016年利民杯世界囲碁星鋭最強戦決勝 | Mi Yuting | Shin Jinseo | Lose | B+R | 7.5 | 3205 | 0 | 
-| 2017-01-04 | Alphago Online Series on Tygem and Fox 57 |  | Shin Jinseo | Lose | B+R | 6.5 | 3205 | -6 | 
+| 2017-01-04 | Alphago Online Series on Tygem and Fox 57 |  | Shin Jinseo | Lose | B+R | 6.5 | 3205 | 0 | 
+| 2017-01-04 | 2016年利民杯世界囲碁星鋭最強戦決勝 | Mi Yuting | Shin Jinseo | Lose | B+R | 7.5 | 3205 | -6 | 
 | 2017-01-03 | 2016年利民杯世界囲碁星鋭最強戦準決勝 | Shin Jinseo | Byun Sangil | Win | B+R | 7.5 | 3211 | 7 | 
 | 2017-01-02 | 2016年利民杯世界囲碁星鋭最強戦3回戦 | Shin Minjun | Shin Jinseo | Win | W+R | 7.5 | 3204 | 4 | 
 | 2017-01-01 | 2016年利民杯世界囲碁星鋭最強戦2回戦 | Hsu Chiayuan | Shin Jinseo | Win | W+R | 7.5 | 3200 | 2 | 
@@ -512,8 +513,8 @@
 | 2015-08-22 | 2015年韓国囲碁リーグ | An Sungjoon | Shin Jinseo | Win | W+R | 6.5 | 3108 | -5 | 
 | 2015-08-13 | 2015年韓国囲碁リーグ | Shin Jinseo | Park Siyeol | Win | B+R | 6.5 | 3113 | -38 | 
 | 2015-07-20 | 第17回農心杯韓国選抜戦 | Choi Cheolhan | Shin Jinseo | Lose | B+R | 6.5 | 3151 | -23 | 
-| 2015-07-16 | 2015年韓国囲碁リーグ | Shin Jinseo | Ryu Minhyung | Win | B+R | 6.5 | 3174 | 0 | 
 | 2015-07-16 | 第17回農心杯韓国選抜戦 | Shin Jinseo | Seo Bongsoo | Win | B+R | 6.5 | 3174 | 0 | 
+| 2015-07-16 | 2015年韓国囲碁リーグ | Shin Jinseo | Ryu Minhyung | Win | B+R | 6.5 | 3174 | 0 | 
 | 2015-07-15 | 第17回農心杯韓国選抜戦 | An Joyeong | Shin Jinseo | Win | W+R | 6.5 | 3174 | 3 | 
 | 2015-07-05 | 2015年韓国囲碁リーグ | Min Sangyoun | Shin Jinseo | Win | W+0.5 | 6.5 | 3171 | -1 | 
 | 2015-06-27 | 2015年韓国囲碁リーグ | Shin Jinseo | Lee Hobum | Win | B+R | 6.5 | 3172 | -65 | 
@@ -529,8 +530,8 @@
 | 2015-05-12 | 2015年中国囲碁乙級リーグ | Murakawa Daisuke | Shin Jinseo | Win | W+R | 7.5 | 3361 | 49 | 
 | 2015-05-09 | 第2回グロービス杯世界囲碁U-20準々決勝 | Shin Jinseo | Huang Yunsong | Lose | W+R | 6.5 | 3312 | 0 | 
 | 2015-05-09 | 第2回グロービス杯世界囲碁U-20グループリーグC | Motoki Katsuya | Shin Jinseo | Win | W+R | 6.5 | 3312 | -28 | 
-| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグC | Lionel Zhang | Shin Jinseo | Win | W+12.5 | 6.5 | 3340 | 0 | 
-| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグC | Shin Jinseo | Li Qincheng | Lose | W+R | 6.5 | 3340 | 67 | 
+| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグC | Shin Jinseo | Li Qincheng | Lose | W+R | 6.5 | 3340 | 0 | 
+| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグC | Lionel Zhang | Shin Jinseo | Win | W+12.5 | 6.5 | 3340 | 67 | 
 | 2015-04-26 | 2015年韓国囲碁リーグ | Shin Jinseo | Na Hyun | Lose | W+0.5 | 6.5 | 3273 | 9 | 
 | 2015-04-14 | 第20回LG杯予選 | Shin Jinseo | Jiang Weijie | Lose | W+R | 6.5 | 3264 | -23 | 
 | 2015-03-26 | 第3期メジオン杯オープン新人王戦決勝三番勝負第3局 | Shin Jinseo | Kim Jinhyu | Win | B+R | 6.5 | 3287 | 9 | 
@@ -582,8 +583,8 @@
 | 2014-05-14 | 第58期国手戦（韓国）1回戦 | Shin Jinseo | Lee Chungyu | Win | B+R | 6.5 | 3047 | -1 | 
 | 2014-05-10 | 第1回グロービス杯世界囲碁U-20準々決勝 | Lian Xiao | Shin Jinseo | Lose | B+R | 6.5 | 3048 | 0 | 
 | 2014-05-10 | 第1回グロービス杯世界囲碁U-20グループリーグC | Sun Zhe | Shin Jinseo | Win | W+R | 6.5 | 3048 | 3 | 
-| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグC | Li Qincheng | Shin Jinseo | Lose | B+R | 6.5 | 3045 | 0 | 
-| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグC | Shin Jinseo | Koyama Kuya | Win | B+R | 6.5 | 3045 | 22 | 
+| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグC | Shin Jinseo | Koyama Kuya | Win | B+R | 6.5 | 3045 | 0 | 
+| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグC | Li Qincheng | Shin Jinseo | Lose | B+R | 6.5 | 3045 | 22 | 
 | 2014-05-03 | 2014年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Shin Jinseo | Tao Xinran | Lose | W+R | 7.5 | 3023 | -9 | 
 | 2014-05-02 | 2014年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Tao Xinran | Shin Jinseo | Win | W+R | 7.5 | 3032 | 0 | 
 | 2014-05-02 | 2014年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Shin Jinseo | Ke Jie | Lose | W+R | 7.5 | 3032 | -132 | 

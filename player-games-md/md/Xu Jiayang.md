@@ -7,8 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Weon Seongjin | Xu Jiayang | Win | W+R | 6.5 | 3588 | 0 | 
-| 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦  | Xu Haohong | Xu Jiayang | Win | W+R | 6.5 | 3588 | -9 | 
+| 2021-12-11 | 第7回国手山脈世界プロ最強戦準決勝 | Xu Jiayang | Shin Jinseo | Lose | W+R | 6.5 | 3579 | -9 | 
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦  | Xu Haohong | Xu Jiayang | Win | W+R | 6.5 | 3588 | 0 | 
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Weon Seongjin | Xu Jiayang | Win | W+R | 6.5 | 3588 | -9 | 
 | 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Xu Jiayang | Gu Zihao | Lose | W+R | 7.5 | 3597 | 3 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhao Chenyu | Xu Jiayang | Win | W+R | 7.5 | 3594 | 1 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Xu Jiayang | Shin Jinseo | Lose | W+R | 7.5 | 3593 | 11 | 
@@ -72,8 +73,8 @@
 | 2019-11-15 | 第4回全国智力運動会男子団体戦第4戦 | Xu Jiayang | Gu Lingyi | Lose | W+R | 7.5 | 3344 | -15 | 
 | 2019-11-14 | 第4回全国智力運動会男子団体戦第1戦 | Zhou Ruiyang | Xu Jiayang | Win | W+R | 7.5 | 3359 | 1 | 
 | 2019-10-28 | 第24回LG杯朝鮮日報棋王戦3回戦 | Xu Jiayang | Shin Jinseo | Lose | W+R | 6.5 | 3358 | 6 | 
-| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦決勝 | Lee Jihyun | Xu Jiayang | Win | W+R | 6.5 | 3352 | 0 | 
 | 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦第3戦 | Xu Jiayang | Xu Haohong | Win | B+R | 6.5 | 3352 | 0 | 
+| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦決勝 | Lee Jihyun | Xu Jiayang | Win | W+R | 6.5 | 3352 | 0 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第2戦 | Lee Jihyun | Xu Jiayang | Win | W+0.5 | 6.5 | 3352 | 0 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第1戦 | Adachi Toshimasa | Xu Jiayang | Win | W+R | 6.5 | 3352 | 4 | 
 | 2019-10-12 | 第4回Mlily夢百合杯世界囲碁オープン戦16強戦 | Xu Jiayang | Tong Mengcheng | Win | B+R | 7.5 | 3348 | 0 | 
@@ -118,8 +119,8 @@
 | 2019-04-06 | 第24回LG杯統合予選決勝 | Xu Jiayang | Mok Jinseok | Win | B+R | 6.5 | 3406 | 14 | 
 | 2019-03-30 | 2019CCTV杯中国囲棋電視快棋戦4回戦 | Xu Jiayang | Xie Erhao | Win | B+R | 7.5 | 3392 | 5 | 
 | 2019-03-29 | 2019CCTV杯中国囲棋電視快棋戦3回戦 | Chen Zijian | Xu Jiayang | Win | W+R | 7.5 | 3387 | 11 | 
-| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Xu Jiayang | Huang Yunsong | Win | B+R | 7.5 | 3376 | 0 | 
-| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Xu Jiayang | Gu Li | Win | B+R | 7.5 | 3376 | 27 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Xu Jiayang | Gu Li | Win | B+R | 7.5 | 3376 | 0 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Xu Jiayang | Huang Yunsong | Win | B+R | 7.5 | 3376 | 27 | 
 | 2019-03-26 | 第10期中国竜星戦Bブロック7回戦 | Fan Tingyu | Xu Jiayang | Lose | B+R | 7.5 | 3349 | -3 | 
 | 2019-03-13 | 第10期中国竜星戦Bブロック6回戦 | Yu Bin | Xu Jiayang | Win | W+R | 7.5 | 3352 | 1 | 
 | 2019-03-12 | 第10期中国竜星戦Bブロック5回戦 | Meng Tailing | Xu Jiayang | Win | W+R | 7.5 | 3351 | 21 | 
@@ -163,8 +164,8 @@
 | 2018-05-11 | 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Xu Jiayang | Fan Tingyu | Lose | W+R | 7.5 | 3398 | -24 | 
 | 2018-05-09 | 第20回中国囲碁甲級リーグ第5節江西-重慶 | Xu Jiayang | Yang Dingxin | Lose | W+R | 7.5 | 3422 | 0 | 
 | 2018-04-25 | 第20回中国囲碁甲級リーグ第4節中信-江西 | Xu Jiayang | Tuo Jiaxi | Win | B+R | 7.5 | 3422 | -1 | 
-| 2018-04-22 | 第5回グロービス杯世界囲碁U-20決勝 | Shin Minjun | Xu Jiayang | Win | W+1.5 | 6.5 | 3423 | 0 | 
-| 2018-04-22 | 第5回グロービス杯世界囲碁U-20準決勝 | Xu Jiayang | Lee Donghoon | Win | B+2.5 | 6.5 | 3423 | 26 | 
+| 2018-04-22 | 第5回グロービス杯世界囲碁U-20準決勝 | Xu Jiayang | Lee Donghoon | Win | B+2.5 | 6.5 | 3423 | 0 | 
+| 2018-04-22 | 第5回グロービス杯世界囲碁U-20決勝 | Shin Minjun | Xu Jiayang | Win | W+1.5 | 6.5 | 3423 | 26 | 
 | 2018-04-21 | 第5回グロービス杯世界囲碁U-20準々決勝 | Xu Haohong | Xu Jiayang | Win | W+R | 6.5 | 3397 | -10 | 
 | 2018-04-20 | 第5回グロービス杯世界囲碁U-20グループリーグC | Xu Jiayang | Shibano Toramaru | Win | B+R | 6.5 | 3407 | 0 | 
 | 2018-04-20 | 第5回グロービス杯世界囲碁U-20グループリーグC | Xu Jiayang | Lee Donghoon | Win | B+R | 6.5 | 3407 | 2 | 

@@ -1,7 +1,9 @@
 ## this script computes the ranking based on the latest data
 const PATH = @__DIR__
 const WSPATH = "c:/weiqi/web-scraping/" # webscraping results path
-using Pkg; Pkg.activate(PATH); cd(PATH)
+using Pkg;
+Pkg.activate(PATH);
+cd(PATH);
 using Revise: includet
 using DataFrames, DataFrameMacros
 using Chain: @chain
@@ -16,7 +18,7 @@ using Revise: includet
 includet("utils.jl")
 
 # rating offset
-const OFFSET = 3800-6.5/log(10)*400
+const OFFSET = 3800 - 6.5 / log(10) * 400
 
 # the intended syntax
 # @target = tbl = @chain @watch_path "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
@@ -42,9 +44,9 @@ tbl = JDF.load("kifu-depot-games-for-ranking.jdf/") |> DataFrame
 function estimate_ratings_and_save_records(tbl)
     # for easy testing
     to_date = maximum(tbl.date)
-    from_date = to_date-Day(364)
+    from_date = to_date - Day(364)
 
-    pings, games, white75_advantage, black65_advantage, abnormal_players = estimate_rating(from_date, to_date; tbl);
+    pings, games, white75_advantage, black65_advantage, abnormal_players = estimate_rating(from_date, to_date; tbl)
 
     from_date, to_date = string.(extrema(games.date))
 
@@ -62,7 +64,7 @@ missing_dates = setdiff(
     dates_in_files)
 
 # back fill the missing dates in the last 365 days
-for date_filter in filter(x-> x >=  maximum(tbl.date)-Day(364), missing_dates)
+for date_filter in filter(x -> x >= maximum(tbl.date) - Day(364), missing_dates)
     println(date_filter)
     tbl_earlier = @subset(tbl, :date <= date_filter)
     @time estimate_ratings_and_save_records(tbl_earlier)
@@ -70,7 +72,7 @@ end
 
 # for creating previous records
 if false
-    for date_filter in filter(x-> x <= Date("2021-09-01"), sort!(unique(tbl.date), rev=true))
+    for date_filter in filter(x -> x <= Date("2021-09-01"), sort!(unique(tbl.date), rev = true))
         println(date_filter)
         tbl_earlier = @subset(tbl, :date <= date_filter)
         @time estimate_ratings_and_save_records(tbl_earlier)
@@ -90,23 +92,23 @@ end
 function turn_records_into_md(pings)
     @chain pings begin
         @transform :name = @c Vector{String}(:name) # avoid weird SentinelArray Bug
-        @transform :eng_name_old = coalesce(eng_name(:name), "");
+        @transform :eng_name_old = coalesce(eng_name(:name), "")
         @transform :eng_name = "[" * :eng_name_old * "](./player-games-md/md/" * :eng_name_old * ".md)"
         @transform :estimate_for_ranking = :estimate - 1.97 * :std_error
         @transform :Rating = round(Int, :estimate * 400 / log(10) + OFFSET)
         @transform :rating_for_ranking = round(Int, :estimate_for_ranking * 400 / log(10) + OFFSET)
         @transform :rating_uncertainty = "±" * string(round(Int, :std_error * 400 / log(10)))
-        sort!(:estimate_for_ranking, rev=true)
+        sort!(:estimate_for_ranking, rev = true)
         @transform :Rank = @c 1:length(:estimate_for_ranking)
     end
 end
 
 # make ratings database
 if false# run only once to generate the historical ratings
-    @time pings_hist = mapreduce(vcat, Date(2001, 1, 1):Day(1):Date(2021,7,5)) do date
-    # @time pings_hist = mapreduce(vcat, missing_dates) do date
+    @time pings_hist = mapreduce(vcat, Date(2001, 1, 1):Day(1):Date(2021, 7, 5)) do date
+        # @time pings_hist = mapreduce(vcat, missing_dates) do date
         if isfile("records/$(string(date)) pings.csv")
-            pings_old = CSV.read("records/$(string(date)) pings.csv", DataFrame; select=[:name, :estimate, :std_error])
+            pings_old = CSV.read("records/$(string(date)) pings.csv", DataFrame; select = [:name, :estimate, :std_error])
             pings_old[!, :date] .= date
             return select!(turn_records_into_md(pings_old), :date, :name, :eng_name_old, :Rating, :Rank)
         else
@@ -134,28 +136,28 @@ JDF.save("pings_hist.jdf", pings_hist)
 # normalized the ratings so that it's the average of thelast 365 days
 latest_date = maximum(pings_hist.date)
 mean_rating365 = @chain pings_hist begin
-   @subset :date >= latest_date - Day(364)
-   groupby(:date)
-   @combine(:mean_rating = mean(:Rating))
-   @combine(mean(:mean_rating))
-   _[1,1]
+    @subset :date >= latest_date - Day(364)
+    groupby(:date)
+    @combine(:mean_rating = mean(:Rating))
+    @combine(mean(:mean_rating))
+    _[1, 1]
 end
 
 mean_raw_rating = mean(pings_for_md1.Rating)
 
-pings_for_md1 =  @chain pings_for_md1 begin
-    @transform :Rating = Int(round(:Rating * mean_rating365/mean_raw_rating, digits=0))
+pings_for_md1 = @chain pings_for_md1 begin
+    @transform :Rating = Int(round(:Rating * mean_rating365 / mean_raw_rating, digits = 0))
 end
 
 pings_for_md = select(
     pings_for_md1,
     :Rank,
-    :eng_name=>"Name",
+    :eng_name => "Name",
     :Rating,
-    :rating_uncertainty=>Symbol("Uncertainty"),
+    :rating_uncertainty => Symbol("Uncertainty"),
     :rating_for_ranking => Symbol("5% CI Lower Bound Rating for ranking"),
-    :n=>"Games Played",
-    :name=>"Hanzi (汉字) Name")
+    :n => "Games Played",
+    :name => "Hanzi (汉字) Name")
 
 JDF.save("pings_for_md.jdf", pings_for_md)
 

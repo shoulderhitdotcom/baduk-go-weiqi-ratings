@@ -53,9 +53,10 @@ for name in names_to_update
     if !ismissing(name)
         if name != ""
             ratings_to_merge_on = @chain pings_hist begin
-                select(:date , :eng_name_old, :Rating)
+                select(:date, :eng_name_old, :Rating)
                 @subset :eng_name_old == name
                 select!(Not(:eng_name_old))
+                unique(:date)
             end
             #there could be missing ratings
 
@@ -63,28 +64,29 @@ for name in names_to_update
                 @subset (:black == name) | (:white == name)
                 @transform :Result = ifelse(
                     ((:who_win == "W") & (:white == name)) |
-                    ((:who_win == "B") & (:black == name))
-                    , "Win", "Lose")
+                    ((:who_win == "B") & (:black == name)), "Win", "Lose")
                 select!(
-                    :date=>:Date,
-                    :comp=>:Comp,
-                    :black=>:Black,
-                    :white=>:White,
+                    :date => :Date,
+                    :comp => :Comp,
+                    :black => :Black,
+                    :white => :White,
                     :Result,
-                    :result=>Symbol("Game result"),
-                    :komi_fixed=>:Komi
-                    )
-                leftjoin(ratings_to_merge_on, on = :Date=>:date)
-                sort!(:Date, rev=true)
+                    :result => Symbol("Game result"),
+                    :komi_fixed => :Komi
+                )
+                leftjoin(ratings_to_merge_on, on = :Date => :date)
+                sort!(:Date, rev = true)
                 unique([:Date, :Comp, :Black, :White, :Result, Symbol("Game result"), :Komi])
                 @transform :Rating_diff = @c vcat(
                     diff(
                         coalesce.(:Rating, 0) |> reverse
                     ) |> reverse,
                     missing)
-                rename!(:Rating_diff=>Symbol("Diff"))
-                JDF.save("./player-games-md/jdf/$name.jdf", _)
+                rename!(:Rating_diff => Symbol("Diff"))
             end
+
+            JDF.save("./player-games-md/jdf/$name.jdf", tmp)
+
         end
     end
 end

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-12 | 第7回国手山脈世界プロ最強戦決勝 | Byun Sangil | Shin Jinseo | Lose | B+R | 6.5 | 3762 | -4 | 
 | 2021-12-11 | 第7回国手山脈世界プロ最強戦準決勝 | Xu Jiayang | Shin Jinseo | Win | W+R | 6.5 | 3766 | -13 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦  | Yamashita Keigo | Shin Jinseo | Win | W+R | 6.5 | 3779 | 0 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦  | Shin Jinseo | Wang Yuanjun | Win | B+8.5 | 6.5 | 3779 | -4 | 

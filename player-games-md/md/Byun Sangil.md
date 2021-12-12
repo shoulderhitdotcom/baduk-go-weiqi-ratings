@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-12 | 第7回国手山脈世界プロ最強戦決勝 | Byun Sangil | Shin Jinseo | Win | B+R | 6.5 | 3664 | 18 | 
 | 2021-12-11 | 第7回国手山脈世界プロ最強戦準決勝  | Byun Sangil | Hsu Chiayuan | Win | B+R | 6.5 | 3646 | -5 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦 | Byun Sangil | Fan Tingyu | Win | B+10.5 | 6.5 | 3651 | 0 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Kono Rin | Byun Sangil | Win | W+R | 6.5 | 3651 | -10 | 

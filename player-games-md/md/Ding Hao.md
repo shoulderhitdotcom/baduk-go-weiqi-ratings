@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-12 | 第1回文投杯中国囲碁国手戦決勝 | Ke Jie | Ding Hao | Win | W+R | 7.5 | 3644 | 12 | 
 | 2021-12-11 | 第1回文投杯中国囲碁国手戦準決勝 | Ding Hao | Mi Yuting | Win | B+R | 7.5 | 3632 | -20 | 
 | 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Tan Xiao | Ding Hao | Win | W+R | 7.5 | 3652 | -40 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Ding Hao | Peng Liyao | Lose | W+R | 7.5 | 3692 | -18 | 

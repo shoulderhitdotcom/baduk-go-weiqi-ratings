@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-13 | 第48期天元戦予選 | Ryu Shikun |  | Win | B+R | 6.5 | 2399 | 2399 | 
 | 2021-11-22 | 第61期十段戦予選 | Kato Atsushi | Ryu Shikun | Lose | B+R | 6.5 | missing | -2602 | 
 | 2021-10-21 | 第61期十段戦予選 | Ryu Shikun | Kono Mitsuki | Win | B+R | 6.5 | 2602 | -51 | 
 | 2021-09-20 | 第47期碁聖戦予選 | Ryu Shikun | Motoki Katsuya | Lose | W+R | 6.5 | 2653 | 35 | 

@@ -7,6 +7,12 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-13 | 第48期天元戦予選 | Otake Yu | Hikosaka Naoto | Lose | B+R | 6.5 | 2893 | 117 | 
+| 2021-10-28 | 第63期王冠戦予選 | Hikosaka Naoto | Imamura Yoshiaki | Lose | W+5.5 | 6.5 | 2776 | 71 | 
+| 2021-10-14 | 第48期天元戦予選 | Hikosaka Naoto | Nakano Hironari | Win | B+1.5 | 6.5 | 2705 | 177 | 
+| 2021-09-23 | 第48期天元戦予選 | Hikosaka Naoto | Imamura Yoshiaki | Win | B+R | 6.5 | 2528 | -222 | 
+| 2021-09-09 | 第48期天元戦予選 |  | Hikosaka Naoto | Win | W+R | 6.5 | 2750 | 196 | 
+| 2021-07-29 | 第77期本因坊戦予選 | Koyama Kuya | Hikosaka Naoto | Lose | B+2.5 | 6.5 | 2554 | 140 | 
 | 2021-07-08 | 第47期名人戦予選 | Nakamura Shinya | Hikosaka Naoto | Lose | B+R | 6.5 | 2414 | -320 | 
 | 2021-04-12 | 第77期本因坊戦予選 |  | Hikosaka Naoto | Win | W+0.5 | 6.5 | 2734 | 54 | 
 | 2021-04-01 | 第69期王座戦予選 | Hikosaka Naoto | Takao Shinji | Lose | W+R | 6.5 | 2680 | -70 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-13 | 第77期本因坊戦リーグ  | Tsuruyama Atsushi | Shibano Toramaru | Win | W+R | 6.5 | 3313 | -16 | 
 | 2021-12-09 | 第69期王座戦挑戦手合五番勝負第5局  | Iyama Yuta | Shibano Toramaru | Lose | B+R | 6.5 | 3329 | 2 | 
 | 2021-12-06 | 第60期十段戦3回戦 | Shibano Toramaru | Motoki Katsuya | Win | B+R | 6.5 | 3327 | 8 | 
 | 2021-12-03 | 第69期王座戦挑戦手合五番勝負第4局  | Shibano Toramaru | Iyama Yuta | Win | B+R | 6.5 | 3319 | 43 | 
@@ -120,8 +121,8 @@
 | 2019-10-31 | 第75期本因坊戦リーグ | Ichiriki Ryo | Shibano Toramaru | Win | W+R | 6.5 | 3115 | 12 | 
 | 2019-10-28 | 第58期十段戦2回戦 | Motoki Katsuya | Shibano Toramaru | Win | W+R | 6.5 | 3103 | 3 | 
 | 2019-10-25 | 第67期王座戦挑戦手合五番勝負第1局 | Shibano Toramaru | Iyama Yuta | Win | B+0.5 | 6.5 | 3100 | 7 | 
-| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Lin Junyan | Shibano Toramaru | Win | W+R | 6.5 | 3093 | 0 | 
-| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦第3戦 | Shibano Toramaru | Shin Minjun | Win | B+R | 6.5 | 3093 | 18 | 
+| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦第3戦 | Shibano Toramaru | Shin Minjun | Win | B+R | 6.5 | 3093 | 0 | 
+| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Lin Junyan | Shibano Toramaru | Win | W+R | 6.5 | 3093 | 18 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第2戦 | Wang Yuanjun | Shibano Toramaru | Win | W+R | 6.5 | 3075 | 0 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第1戦 | Shibano Toramaru | Fan Yunruo | Lose | W+R | 6.5 | 3075 | 21 | 
 | 2019-10-10 | 第45期碁聖戦予選 | Shibano Toramaru | Shuto Shun | Win | B+R | 6.5 | 3054 | -3 | 
@@ -150,19 +151,19 @@
 | 2019-06-06 | 第58期十段戦予選 | Shibano Toramaru | Numadate Sakiya | Win | B+R | 6.5 | 3098 | 6 | 
 | 2019-06-03 | 第67期王座戦1回戦 | Shibano Toramaru | Yuki Satoshi | Win | B+R | 6.5 | 3092 | 47 | 
 | 2019-05-30 | 第44期棋聖戦Aリーグ | Ichiriki Ryo | Shibano Toramaru | Lose | B+R | 6.5 | 3045 | -14 | 
-| 2019-05-15 | 第10回おかげ杯囲碁トーナメント戦決勝  | Adachi Toshimasa | Shibano Toramaru | Win | W+R | 6.5 | 3059 | 0 | 
-| 2019-05-15 | 第10回おかげ杯囲碁トーナメント戦準決勝  | Shibano Toramaru | Ichiriki Ryo | Win | B+R | 6.5 | 3059 | 30 | 
+| 2019-05-15 | 第10回おかげ杯囲碁トーナメント戦準決勝  | Shibano Toramaru | Ichiriki Ryo | Win | B+R | 6.5 | 3059 | 0 | 
+| 2019-05-15 | 第10回おかげ杯囲碁トーナメント戦決勝  | Adachi Toshimasa | Shibano Toramaru | Win | W+R | 6.5 | 3059 | 30 | 
 | 2019-05-14 | 第10回おかげ杯囲碁トーナメント戦2回戦 |  | Shibano Toramaru | Win | W+R | 6.5 | 3029 | 0 | 
 | 2019-05-14 | 第10回おかげ杯囲碁トーナメント戦1回戦 | Onishi Ryuhei | Shibano Toramaru | Win | W+1.5 | 6.5 | 3029 | -28 | 
 | 2019-05-09 | 第58期十段戦予選 | Ishida Yoshio | Shibano Toramaru | Win | W+12.5 | 6.5 | 3057 | -5 | 
-| 2019-05-06 | 第6回グランドチャンピオン戦決勝 | Iyama Yuta | Shibano Toramaru | Win | W+R | 6.5 | 3062 | 0 | 
-| 2019-05-06 | 第6回グランドチャンピオン戦準決勝 | Shibano Toramaru | Hsu Chiayuan | Win | B+R | 6.5 | 3062 | 30 | 
+| 2019-05-06 | 第6回グランドチャンピオン戦準決勝 | Shibano Toramaru | Hsu Chiayuan | Win | B+R | 6.5 | 3062 | 0 | 
+| 2019-05-06 | 第6回グランドチャンピオン戦決勝 | Iyama Yuta | Shibano Toramaru | Win | W+R | 6.5 | 3062 | 30 | 
 | 2019-05-02 | 第44期名人戦リーグ | Shibano Toramaru | Mutsuura Yuta | Win | B+R | 6.5 | 3032 | -34 | 
 | 2019-04-25 | 第44期名人戦リーグ | Shibano Toramaru | Hane Naoki | Lose | W+R | 6.5 | 3066 | -9 | 
 | 2019-04-20 | 第6回グロービス杯世界囲碁U-20グループリーグD | Ueno Asami | Shibano Toramaru | Win | W+R | 6.5 | 3075 | 0 | 
 | 2019-04-20 | 第6回グロービス杯世界囲碁U-20 1回戦 | Shibano Toramaru | Shin Minjun | Lose | W+3.5 | 6.5 | 3075 | -2 | 
-| 2019-04-19 | 第6回グロービス杯世界囲碁U-20グループリーグD |  | Shibano Toramaru | Win | W+R | 6.5 | 3077 | 0 | 
-| 2019-04-19 | 第6回グロービス杯世界囲碁U-20グループリーグD | Park Sangjin | Shibano Toramaru | Lose | B+R | 6.5 | 3077 | -19 | 
+| 2019-04-19 | 第6回グロービス杯世界囲碁U-20グループリーグD | Park Sangjin | Shibano Toramaru | Lose | B+R | 6.5 | 3077 | 0 | 
+| 2019-04-19 | 第6回グロービス杯世界囲碁U-20グループリーグD |  | Shibano Toramaru | Win | W+R | 6.5 | 3077 | -19 | 
 | 2019-04-18 | 第6回グランドチャンピオン戦3回戦 | Fujisawa Rina | Shibano Toramaru | Win | W+R | 6.5 | 3096 | 0 | 
 | 2019-04-18 | 第6回グランドチャンピオン戦2回戦 | Yu Zhengqi | Shibano Toramaru | Win | W+R | 6.5 | 3096 | 15 | 
 | 2019-04-15 | 第67期王座戦予選 | Shida Tatsuya | Shibano Toramaru | Win | W+R | 6.5 | 3081 | 0 | 
@@ -200,8 +201,8 @@
 | 2018-09-05 | 第23回三星火災杯世界囲碁マスターズ1回戦A2 | Park Junghwan | Shibano Toramaru | Lose | B+R | 6.5 | 3203 | -15 | 
 | 2018-09-04 | 第23回三星火災杯世界囲碁マスターズ1回戦A1 | Chen Yaoye | Shibano Toramaru | Win | W+3.5 | 6.5 | 3218 | 36 | 
 | 2018-08-23 | 第25期阿含・桐山杯全日本早碁オープン戦準決勝 | Yu Zhengqi | Shibano Toramaru | Win | W+4.5 | 6.5 | 3182 | 11 | 
-| 2018-08-14 | 阪急納涼囲碁まつり納涼トーナメント決勝戦 | Seto Taiki | Shibano Toramaru | Win | W+R | 6.5 | 3171 | 0 | 
-| 2018-08-14 | 阪急納涼囲碁まつり納涼トーナメント第2局 | Iyama Yuta | Shibano Toramaru | Win | W+R | 6.5 | 3171 | 15 | 
+| 2018-08-14 | 阪急納涼囲碁まつり納涼トーナメント第2局 | Iyama Yuta | Shibano Toramaru | Win | W+R | 6.5 | 3171 | 0 | 
+| 2018-08-14 | 阪急納涼囲碁まつり納涼トーナメント決勝戦 | Seto Taiki | Shibano Toramaru | Win | W+R | 6.5 | 3171 | 15 | 
 | 2018-08-13 | 阪急納涼囲碁まつり阪急杯新鋭トーナメント決勝戦 | Shibano Toramaru | Mutsuura Yuta | Lose | W+R | 6.5 | 3156 | 16 | 
 | 2018-08-11 | 阪急納涼囲碁まつり竜星クエスト1回戦 | Shibano Toramaru | Ichiriki Ryo | Lose | W+R | 6.5 | 3140 | 12 | 
 | 2018-08-09 | 第44期碁聖戦予選 | Shibano Toramaru | Yamada Takuji | Win | B+R | 6.5 | 3128 | -12 | 
@@ -289,38 +290,38 @@
 | 2017-05-25 | 第24期阿含・桐山杯　最終予選決勝 | Cho Sonjin | Shibano Toramaru | Win | W+2.5 | 6.5 | 3121 | 7 | 
 | 2017-05-22 | 第42期新人王戦　本戦2回戦 | Terayama Rei | Shibano Toramaru | Win | W+R | 6.5 | 3114 | 12 | 
 | 2017-05-18 | 第65期王座戦　本戦1回戦第3局 | Mizokami Tomochika | Shibano Toramaru | Win | W+0.5 | 6.5 | 3102 | 12 | 
-| 2017-04-30 | 関西合宿個人戦決勝 | Murakawa Daisuke | Shibano Toramaru | Win | W+R | 6.5 | 3090 | 0 | 
 | 2017-04-30 | 関西合宿個人戦順位決定戦 | Yuki Satoshi | Shibano Toramaru | Win | W+1.5 | 6.5 | 3090 | 0 | 
+| 2017-04-30 | 関西合宿個人戦決勝 | Murakawa Daisuke | Shibano Toramaru | Win | W+R | 6.5 | 3090 | 0 | 
 | 2017-04-30 | 関西合宿個人戦1回戦 | Ha Youngil | Shibano Toramaru | Win | W+R | 6.5 | 3090 | 34 | 
-| 2017-04-23 | 第4回グロービス杯世界囲碁U-20三位決定戦 | Shibano Toramaru | Ichiriki Ryo | Lose | W+R | 6.5 | 3056 | 0 | 
-| 2017-04-23 | 第4回グロービス杯世界囲碁U-20準決勝 | Shin Jinseo | Shibano Toramaru | Lose | B+R | 6.5 | 3056 | -12 | 
+| 2017-04-23 | 第4回グロービス杯世界囲碁U-20準決勝 | Shin Jinseo | Shibano Toramaru | Lose | B+R | 6.5 | 3056 | 0 | 
+| 2017-04-23 | 第4回グロービス杯世界囲碁U-20三位決定戦 | Shibano Toramaru | Ichiriki Ryo | Lose | W+R | 6.5 | 3056 | -12 | 
 | 2017-04-22 | 第4回グロービス杯世界囲碁U-20準々決勝 | Shibano Toramaru | Gu Zihao | Win | B+3.5 | 6.5 | 3068 | 0 | 
 | 2017-04-22 | 第4回グロービス杯世界囲碁U-20グループリーグD | Shibano Toramaru | Jian Jingting | Win | B+R | 6.5 | 3068 | 17 | 
-| 2017-04-21 | 第4回グロービス杯世界囲碁U-20グループリーグD | Byun Sangil | Shibano Toramaru | Lose | B+R | 6.5 | 3051 | 0 | 
-| 2017-04-21 | 第4回グロービス杯世界囲碁U-20グループリーグD | Jian Jingting | Shibano Toramaru | Win | W+R | 6.5 | 3051 | 16 | 
+| 2017-04-21 | 第4回グロービス杯世界囲碁U-20グループリーグD | Jian Jingting | Shibano Toramaru | Win | W+R | 6.5 | 3051 | 0 | 
+| 2017-04-21 | 第4回グロービス杯世界囲碁U-20グループリーグD | Byun Sangil | Shibano Toramaru | Lose | B+R | 6.5 | 3051 | 16 | 
 | 2017-03-26 | 世界第三期Mlily夢百合杯予選1回戦 | Shibano Toramaru | An Dongxu | Lose | W+R | 7.5 | 3035 | 120 | 
 | 2017-03-20 | 第42期新人王戦　本戦1回戦 | Shibano Toramaru | Mutsuura Yuta | Win | B+R | 6.5 | 2915 | 14 | 
 | 2017-03-16 | 第65期王座戦　最終予選特選譜第7局 | Yamashita Keigo | Shibano Toramaru | Win | W+4.5 | 6.5 | 2901 | 6 | 
 | 2017-03-14 | 第4回グロービス杯国内予選 | Shibano Toramaru | Nishi Takenobu | Win | B+T | 6.5 | 2895 | -2 | 
 | 2017-03-08 | 第8回おかげ杯囲碁トーナメント戦予選 |  | Shibano Toramaru | Win | W+13.5 | 6.5 | 2897 | 7 | 
 | 2017-02-23 | 第42期棋聖戦　Bリーグ1組1回戦 | Shibano Toramaru | Ida Atsushi | Win | B+R | 6.5 | 2890 | 33 | 
-| 2017-01-21 | 台湾精鋭日本精鋭交流戦5回戦 | Shibano Toramaru | Li Wei | Win | B+R | 6.5 | 2857 | 0 | 
-| 2017-01-21 | 台湾精鋭日本精鋭交流戦6回戦 | Shibano Toramaru | Lin Shuyang | Win | B+R | 6.5 | 2857 | 11 | 
+| 2017-01-21 | 台湾精鋭日本精鋭交流戦6回戦 | Shibano Toramaru | Lin Shuyang | Win | B+R | 6.5 | 2857 | 0 | 
+| 2017-01-21 | 台湾精鋭日本精鋭交流戦5回戦 | Shibano Toramaru | Li Wei | Win | B+R | 6.5 | 2857 | 11 | 
 | 2017-01-20 | 台湾精鋭日本精鋭交流戦4回戦 | Lin Lixiang | Shibano Toramaru | Win | W+R | 6.5 | 2846 | 0 | 
 | 2017-01-20 | 台湾精鋭日本精鋭交流戦3回戦 | Xiao Zhenghao | Shibano Toramaru | Lose | B+R | 6.5 | 2846 | -14 | 
-| 2017-01-19 | 台湾精鋭日本精鋭交流戦1回戦 | Shibano Toramaru | Chen Shiyuan | Win | B+2.5 | 6.5 | 2860 | 0 | 
-| 2017-01-19 | 台湾精鋭日本精鋭交流戦2回戦 | Wang Yuanjun | Shibano Toramaru | Win | W+R | 6.5 | 2860 | 40 | 
+| 2017-01-19 | 台湾精鋭日本精鋭交流戦2回戦 | Wang Yuanjun | Shibano Toramaru | Win | W+R | 6.5 | 2860 | 0 | 
+| 2017-01-19 | 台湾精鋭日本精鋭交流戦1回戦 | Shibano Toramaru | Chen Shiyuan | Win | B+2.5 | 6.5 | 2860 | 40 | 
 | 2017-01-01 | 2016年利民杯世界囲碁星鋭最強戦2回戦 | Mi Yuting | Shibano Toramaru | Lose | B+R | 7.5 | 2820 | -1 | 
 | 2016-12-31 | 2016年利民杯世界囲碁星鋭最強戦1回戦 | Shibano Toramaru | Ryan Li | Win | B+R | 7.5 | 2821 | 1 | 
-| 2016-12-26 | 日本国家隊冬季合宿訓練戦 | Iyama Yuta | Shibano Toramaru | Lose | B+R | 6.5 | 2820 | 0 | 
-| 2016-12-26 | 日本国家隊冬季合宿訓練戦 | Hsu Chiayuan | Shibano Toramaru | Win | W+R | 6.5 | 2820 | 18 | 
+| 2016-12-26 | 日本国家隊冬季合宿訓練戦 | Hsu Chiayuan | Shibano Toramaru | Win | W+R | 6.5 | 2820 | 0 | 
+| 2016-12-26 | 日本国家隊冬季合宿訓練戦 | Iyama Yuta | Shibano Toramaru | Lose | B+R | 6.5 | 2820 | 18 | 
 | 2016-10-13 | 第41期棋聖戦C組リーグ戦 | Sakai Hideyuki | Shibano Toramaru | Win | W+2.5 | 6.5 | 2802 | 27 | 
 | 2016-09-25 | 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Shibano Toramaru | Xie Ke | Win | B+R | 6.5 | 2775 | 12 | 
 | 2016-09-24 | 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Shibano Toramaru | Yang Bowei | Win | B+R | 6.5 | 2763 | 16 | 
 | 2016-09-23 | 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Seol Hyunjun | Shibano Toramaru | Lose | B+R | 6.5 | 2747 | -70 | 
 | 2016-09-18 | 第64期NHK杯テレビ囲碁トーナメント2回戦 | Ko Iso | Shibano Toramaru | Lose | B+R | 6.5 | 2817 | -29 | 
-| 2016-09-11 | 第3回ゆうちょ杯囲碁ユース選手権決勝 |  | Shibano Toramaru | Lose | B+5.5 | 6.5 | 2846 | 0 | 
 | 2016-09-11 | 第3回ゆうちょ杯囲碁ユース選手権準決勝 | Shibano Toramaru | Koike Yoshihiro | Win | B+R | 6.5 | 2846 | 0 | 
+| 2016-09-11 | 第3回ゆうちょ杯囲碁ユース選手権決勝 |  | Shibano Toramaru | Lose | B+5.5 | 6.5 | 2846 | 0 | 
 | 2016-09-08 | 第72期本因坊戦最終予選決勝 | Mitani Tetsuya | Shibano Toramaru | Lose | B+R | 6.5 | 2846 | 6 | 
 | 2016-08-15 | 第42期名人戦予選 | Ryu Shikun | Shibano Toramaru | Lose | B+0.5 | 6.5 | 2840 | -22 | 
 | 2016-08-09 | 第3回ゆうちょ杯囲碁ユース選手権2回戦 | Shibano Toramaru | Yu Zhengqi | Win | B+9.5 | 6.5 | 2862 | 12 | 
@@ -330,12 +331,12 @@
 | 2016-07-16 | 第21回三星火災杯統合予選2回戦 | Shibano Toramaru | Park Jinyoung | Win | B+R | 6.5 | 2909 | 144 | 
 | 2016-05-09 | 第42期天元戦本戦2回戦 | Murakawa Daisuke | Shibano Toramaru | Lose | B+0.5 | 6.5 | 2765 | 39 | 
 | 2016-04-23 | 第3回グロービス杯世界囲碁U-20準々決勝 | Shibano Toramaru | Li Qincheng | Lose | W+R | 6.5 | 2726 | 5 | 
-| 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグA | Krit Jamkachornkiat | Shibano Toramaru | Win | W+T | 6.5 | 2721 | 0 | 
-| 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグA | Shibano Toramaru | Ichiriki Ryo | Win | B+R | 6.5 | 2721 | 74 | 
-| 2016-03-22 | 第3回グロービス杯国内予選 | Koyama Kuya | Shibano Toramaru | Win | W+R | 6.5 | 2647 | 0 | 
-| 2016-03-22 | 第3回グロービス杯国内予選 | Takashima Yugo | Shibano Toramaru | Win | W+R | 6.5 | 2647 | 28 | 
-| 2016-03-18 | 第2回イベロジャパン杯決勝 | Shibano Toramaru | Fujisawa Rina | Lose | W+R | 6.5 | 2619 | 0 | 
-| 2016-03-18 | 第2回イベロジャパン杯準決勝 | Yao Zhiteng | Shibano Toramaru | Win | W+R | 6.5 | 2619 | -45 | 
+| 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグA | Shibano Toramaru | Ichiriki Ryo | Win | B+R | 6.5 | 2721 | 0 | 
+| 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグA | Krit Jamkachornkiat | Shibano Toramaru | Win | W+T | 6.5 | 2721 | 74 | 
+| 2016-03-22 | 第3回グロービス杯国内予選 | Takashima Yugo | Shibano Toramaru | Win | W+R | 6.5 | 2647 | 0 | 
+| 2016-03-22 | 第3回グロービス杯国内予選 | Koyama Kuya | Shibano Toramaru | Win | W+R | 6.5 | 2647 | 28 | 
+| 2016-03-18 | 第2回イベロジャパン杯準決勝 | Yao Zhiteng | Shibano Toramaru | Win | W+R | 6.5 | 2619 | 0 | 
+| 2016-03-18 | 第2回イベロジャパン杯決勝 | Shibano Toramaru | Fujisawa Rina | Lose | W+R | 6.5 | 2619 | -45 | 
 | 2016-03-01 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Shibano Toramaru | Eric Lui | Win | B+R | 7.5 | 2664 | 6 | 
 | 2016-02-29 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Shi Yue | Shibano Toramaru | Lose | B+R | 7.5 | 2658 | -14 | 
 | 2016-02-28 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Shibano Toramaru | Kim Jiseok | Lose | W+R | 7.5 | 2672 | -4 | 

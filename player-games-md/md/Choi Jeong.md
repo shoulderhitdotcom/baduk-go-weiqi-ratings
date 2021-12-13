@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-13 | 第5期韓国製紙女子棋聖戦決勝三番勝負第1局 | Choi Jeong | Oh Yujin | Lose | W+R | 6.5 | 3239 | -13 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦  | Yamashita Keigo | Choi Jeong | Lose | B+1.5 | 6.5 | 3252 | -23 | 
 | 2021-12-06 | 第5期韓国製紙女子棋聖戦準決勝 | Choi Jeong | Park Jiyeon | Win | B+R | 6.5 | 3275 | 4 | 
 | 2021-12-04 | 第4回呉清源杯世界女子囲碁選手権決勝三番勝負第3局 | Yu Zhiying | Choi Jeong | Win | W+R | 7.5 | 3271 | 10 | 
@@ -195,8 +196,8 @@
 | 2019-10-25 | 2019-2020韓国囲碁リーグ第4節第2試合第2局 | Choi Jeong | Kim Myounghoon | Lose | W+R | 6.5 | 3109 | -4 | 
 | 2019-10-24 | 第24期女流国手戦準決勝 | Lee Youngjoo | Choi Jeong | Win | W+R | 6.5 | 3113 | 11 | 
 | 2019-10-17 | 2019-2020韓国囲碁リーグ第3節第1試合第2局 | Choi Jeong | Han Wonggyu | Win | B+0.5 | 6.5 | 3102 | -2 | 
-| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦決勝 | Yu Zhiying | Choi Jeong | Win | W+R | 6.5 | 3104 | 0 | 
-| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦第3戦 | Choi Jeong | Fujisawa Rina | Lose | W+R | 6.5 | 3104 | -27 | 
+| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦第3戦 | Choi Jeong | Fujisawa Rina | Lose | W+R | 6.5 | 3104 | 0 | 
+| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦決勝 | Yu Zhiying | Choi Jeong | Win | W+R | 6.5 | 3104 | -27 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhiying | Choi Jeong | Win | W+2.5 | 6.5 | 3131 | 0 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yang Zixuan | Choi Jeong | Lose | B+R | 6.5 | 3131 | -12 | 
 | 2019-10-04 | 2019-2020韓国囲碁リーグ第2節第2試合第1局 | Paek Hongseok | Choi Jeong | Lose | B+0.5 | 6.5 | 3143 | -10 | 
@@ -228,16 +229,16 @@
 | 2019-06-12 | 第9回中国姜堰黄竜士精鍛科技杯世界女子団体戦第14戦 | Choi Jeong | Yu Zhiying | Win | B+2¾ | 7.5 | 3169 | 0 | 
 | 2019-06-12 | 第9回中国姜堰黄竜士精鍛科技杯世界女子団体戦第13戦 | Choi Jeong | Lu Minquan | Win | B+R | 7.5 | 3169 | 26 | 
 | 2019-06-05 | 2019年陜川歴代英才vs女性頂上連勝対抗戦第9局 | Choi Jeong | Seol Hyunjun | Win | B+R | 6.5 | 3143 | 10 | 
-| 2019-06-04 | 2019年陜川歴代英才vs女性頂上連勝対抗戦第8局 | Choi Jeong | Park Sangjin | Win | B+2.5 | 6.5 | 3133 | 0 | 
-| 2019-06-04 | 第5回韓国女子囲碁リーグ第4節第2試合第3局 | Kim Cheayoung | Choi Jeong | Win | W+R | 6.5 | 3133 | 4 | 
+| 2019-06-04 | 第5回韓国女子囲碁リーグ第4節第2試合第3局 | Kim Cheayoung | Choi Jeong | Win | W+R | 6.5 | 3133 | 0 | 
+| 2019-06-04 | 2019年陜川歴代英才vs女性頂上連勝対抗戦第8局 | Choi Jeong | Park Sangjin | Win | B+2.5 | 6.5 | 3133 | 4 | 
 | 2019-06-03 | 2019年陜川歴代英才vs女性頂上連勝対抗戦第7局 | Choi Jeong | Moon Minjong | Win | B+R | 6.5 | 3129 | 4 | 
 | 2019-06-02 | 2019年陜川歴代英才vs女性頂上連勝対抗戦第6局 | Choi Jeong | Park Hyunsoo | Win | B+R | 6.5 | 3125 | 44 | 
 | 2019-05-29 | 第24回LG杯朝鮮日報棋王戦2回戦 | Choi Jeong | Peng Liyao | Lose | W+R | 6.5 | 3081 | 2 | 
 | 2019-05-27 | 第24回LG杯朝鮮日報棋王戦1回戦 | Shi Yue | Choi Jeong | Win | W+R | 6.5 | 3079 | -8 | 
 | 2019-05-16 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦5回戦 | Hei Jiajia | Choi Jeong | Win | W+R | 7.5 | 3087 | 5 | 
 | 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦3回戦 |  | Choi Jeong | Win | W+R | 7.5 | 3082 | 21 | 
-| 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦1回戦 | Choi Jeong | Yu Zhiying | Win | B+R | 7.5 | 3061 | 0 | 
-| 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦2回戦 | Mukai Chiaki | Choi Jeong | Lose | B+R | 7.5 | 3061 | -45 | 
+| 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦2回戦 | Mukai Chiaki | Choi Jeong | Lose | B+R | 7.5 | 3061 | 0 | 
+| 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦1回戦 | Choi Jeong | Yu Zhiying | Win | B+R | 7.5 | 3061 | -45 | 
 | 2019-05-12 | 第8回天台山体彩杯世界女子囲碁団体戦第3戦 | Choi Jeong | Fujisawa Rina | Win | B+R | 7.5 | 3106 | 13 | 
 | 2019-05-11 | 第8回天台山体彩杯世界女子囲碁団体戦第2戦 | Hei Jiajia | Choi Jeong | Win | W+R | 7.5 | 3093 | -6 | 
 | 2019-05-10 | 第8回天台山体彩杯世界女子囲碁団体戦第1戦 | Choi Jeong | Yu Zhiying | Win | B+R | 7.5 | 3099 | 21 | 
@@ -263,10 +264,10 @@
 | 2018-10-31 | 第9回穹窿山兵聖杯世界女子囲碁選手権1回戦  | Choi Jeong | Yu Zhiying | Win | B+R | 7.5 | 3025 | -4 | 
 | 2018-10-25 | 第23期女流国手戦決勝三番勝負第3局 | Lee Sula | Choi Jeong | Win | W+R | 6.5 | 3029 | 7 | 
 | 2018-10-22 | 第2期韓国製紙女子棋聖戦16強 |  | Choi Jeong | Win | W+R | 6.5 | 3022 | -9 | 
-| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦決勝 | Choi Jeong | Yu Zhiying | Win | B+R | 6.5 | 3031 | 0 | 
-| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦第3戦 | Choi Jeong | Yang Zixuan | Win | B+R | 6.5 | 3031 | 27 | 
-| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第1戦 | Choi Jeong | Fujisawa Rina | Win | B+R | 6.5 | 3004 | 0 | 
-| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhiying | Choi Jeong | Lose | B+R | 6.5 | 3004 | 3 | 
+| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦第3戦 | Choi Jeong | Yang Zixuan | Win | B+R | 6.5 | 3031 | 0 | 
+| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦決勝 | Choi Jeong | Yu Zhiying | Win | B+R | 6.5 | 3031 | 27 | 
+| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhiying | Choi Jeong | Lose | B+R | 6.5 | 3004 | 0 | 
+| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第1戦 | Choi Jeong | Fujisawa Rina | Win | B+R | 6.5 | 3004 | 3 | 
 | 2018-10-11 | 第23期女流国手戦決勝三番勝負第2局 | Choi Jeong | Lee Sula | Win | B+R | 6.5 | 3001 | 2 | 
 | 2018-10-04 | 第23期女流国手戦決勝三番勝負第1局 | Lee Sula | Choi Jeong | Lose | B+R | 6.5 | 2999 | -17 | 
 | 2018-10-01 | 第23回三星火災杯世界囲碁マスターズ2回戦 | Choi Jeong | Lian Xiao | Lose | W+R | 6.5 | 3016 | 5 | 
@@ -333,8 +334,8 @@
 | 2017-10-21 | 2017年韓国囲碁リーグ | Choi Cheolhan | Choi Jeong | Lose | B+R | 6.5 | 3075 | 6 | 
 | 2017-10-15 | 第4回おかげ杯国際精鋭囲碁対抗戦決勝 | Li He | Choi Jeong | Lose | B+R | 6.5 | 3069 | 0 | 
 | 2017-10-15 | 第4回おかげ杯国際精鋭囲碁対抗戦3回戦 | Su Shengfang | Choi Jeong | Win | W+R | 6.5 | 3069 | -7 | 
-| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦1回戦 | Choi Jeong | Li He | Win | B+R | 6.5 | 3076 | 0 | 
-| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦2回戦 | Choi Jeong | Fujisawa Rina | Lose | W+R | 6.5 | 3076 | 15 | 
+| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦2回戦 | Choi Jeong | Fujisawa Rina | Lose | W+R | 6.5 | 3076 | 0 | 
+| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦1回戦 | Choi Jeong | Li He | Win | B+R | 6.5 | 3076 | 15 | 
 | 2017-10-09 | 第1期韓国製紙女子棋聖戦16強戦 |  | Choi Jeong | Win | W+R | 6.5 | 3061 | -34 | 
 | 2017-09-28 | 2017年韓国囲碁リーグ | Choi Jeong | Hong Kipyo | Lose | W+4.5 | 6.5 | 3095 | -12 | 
 | 2017-09-26 | 第11回GGオークション杯特別対局 | Lee Changho | Choi Jeong | Lose | B+R | 6.5 | 3107 | 68 | 
@@ -392,8 +393,8 @@
 | 2016-08-23 | 第10回GGオークション杯女流対シニア連勝対抗戦第14戦 | Choi Jeong | Seo Nungwuk | Win | B+11.5 | 6.5 | 3128 | 0 | 
 | 2016-08-22 | 第21期女流国手戦1回戦 | Kim Soojin | Choi Jeong | Win | W+R | 6.5 | 3128 | 17 | 
 | 2016-08-14 | 2016年韓国囲碁リーグ第9節 | Cho Hanseung | Choi Jeong | Lose | B+6.5 | 6.5 | 3111 | -17 | 
-| 2016-08-09 | 2016年利民杯世界囲碁星鋭最強戦第2ステージ決勝 | Choi Jeong | Park Hamin | Win | B+R | 7.5 | 3128 | 0 | 
-| 2016-08-09 | 2016年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 | Chen Zijian | Choi Jeong | Win | W+R | 7.5 | 3128 | 24 | 
+| 2016-08-09 | 2016年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 | Chen Zijian | Choi Jeong | Win | W+R | 7.5 | 3128 | 0 | 
+| 2016-08-09 | 2016年利民杯世界囲碁星鋭最強戦第2ステージ決勝 | Choi Jeong | Park Hamin | Win | B+R | 7.5 | 3128 | 24 | 
 | 2016-08-08 | 2016年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Choi Jeong | Chen Yunong | Win | B+3.5 | 7.5 | 3104 | -1 | 
 | 2016-08-07 | 2016年利民杯世界囲碁星鋭最強戦第2ステージリーグ |  | Choi Jeong | Win | W+R | 7.5 | 3105 | 0 | 
 | 2016-08-07 | 2016年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Choi Jeong | Wang Zejin | Win | B+R | 7.5 | 3105 | 27 | 
@@ -401,8 +402,8 @@
 | 2016-07-29 | 2016年韓国囲碁リーグ第8節 | Yun Junsang | Choi Jeong | Win | W+0.5 | 6.5 | 3089 | -77 | 
 | 2016-07-22 | 2016年韓国囲碁リーグ第7節 | Park Seunghwa | Choi Jeong | Win | W+R | 6.5 | 3166 | 141 | 
 | 2016-06-10 | 第6回黄竜士双登杯世界女子囲碁団体選手権第14戦 | Choi Jeong | Yu Zhiying | Lose | W+R | 7.5 | 3025 | 11 | 
-| 2016-06-02 | 2016年韓国囲碁リーグ第2節 | Choi Jeong | Park Cheongsang | Lose | W+R | 6.5 | 3014 | 0 | 
-| 2016-06-02 | 第2回韓国女子囲碁リーグ優勝決定戦第2戦 | Choi Jeong | Oh Yujin | Win | B+R | 6.5 | 3014 | -5 | 
+| 2016-06-02 | 第2回韓国女子囲碁リーグ優勝決定戦第2戦 | Choi Jeong | Oh Yujin | Win | B+R | 6.5 | 3014 | 0 | 
+| 2016-06-02 | 2016年韓国囲碁リーグ第2節 | Choi Jeong | Park Cheongsang | Lose | W+R | 6.5 | 3014 | -5 | 
 | 2016-06-01 | 第21回LG杯朝鮮日報棋王戦2回戦 | Choi Jeong | Peng Liyao | Lose | W+R | 6.5 | 3019 | 4 | 
 | 2016-05-30 | 第21回LG杯朝鮮日報棋王戦1回戦 | Choi Jeong | Fan Yunruo | Win | B+R | 6.5 | 3015 | 61 | 
 | 2016-05-21 | 第2回韓国女子囲碁リーグ優勝決定戦第1戦 | Oh Yujin | Choi Jeong | Win | W+R | 6.5 | 2954 | 42 | 
@@ -418,8 +419,8 @@
 | 2016-04-05 | 第21回LG杯予選 | Zhou Hexi | Choi Jeong | Win | W+R | 6.5 | 2920 | 16 | 
 | 2016-04-04 | 第21回LG杯予選 | Choi Jeong | Ahn Kukhyun | Win | B+R | 6.5 | 2904 | 17 | 
 | 2016-04-03 | 第21回LG杯予選 |  | Choi Jeong | Win | W+R | 6.5 | 2887 | 9 | 
-| 2016-04-01 | 第21回LG杯予選 | Choi Jeong | Wang Yuanjun | Win | B+R | 6.5 | 2878 | 0 | 
-| 2016-04-01 | 第2回韓国女子囲碁リーグ第8節 | Oh Jeonga | Choi Jeong | Win | W+R | 6.5 | 2878 | 15 | 
+| 2016-04-01 | 第2回韓国女子囲碁リーグ第8節 | Oh Jeonga | Choi Jeong | Win | W+R | 6.5 | 2878 | 0 | 
+| 2016-04-01 | 第21回LG杯予選 | Choi Jeong | Wang Yuanjun | Win | B+R | 6.5 | 2878 | 15 | 
 | 2016-03-29 | 第2回韓国女子囲碁リーグ第7節 | Choi Jeong | Fujisawa Rina | Lose | W+R | 6.5 | 2863 | -42 | 
 | 2016-03-24 | 第2回韓国女子囲碁リーグ第6節 | Kim Cheayoung | Choi Jeong | Win | W+0.5 | 6.5 | 2905 | -10 | 
 | 2016-03-17 | 第2回韓国女子囲碁リーグ第5節 | Choi Jeong | Rui Naiwei | Lose | W+1.5 | 6.5 | 2915 | -25 | 
@@ -428,8 +429,8 @@
 | 2016-03-06 | 第2回韓国女子囲碁リーグ第3節 | Choi Jeong | Kim Dayoung | Win | B+R | 6.5 | 2931 | -25 | 
 | 2016-03-01 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦決勝 | Yu Zhiying | Choi Jeong | Lose | B+R | 7.5 | 2956 | -33 | 
 | 2016-02-28 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Choi Jeong | Win | W+R | 7.5 | 2989 | 10 | 
-| 2016-02-27 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Yu Lijun | Choi Jeong | Win | W+R | 7.5 | 2979 | 0 | 
-| 2016-02-27 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Choi Jeong | Cao Youyin | Win | B+R | 7.5 | 2979 | -12 | 
+| 2016-02-27 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Choi Jeong | Cao Youyin | Win | B+R | 7.5 | 2979 | 0 | 
+| 2016-02-27 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Yu Lijun | Choi Jeong | Win | W+R | 7.5 | 2979 | -12 | 
 | 2016-02-23 | 第2回韓国女子囲碁リーグ第2節 | Choi Jeong | Kim Yoonyoung | Win | B+R | 6.5 | 2991 | 9 | 
 | 2016-02-20 | 第2回韓国女子囲碁リーグ第1節 | Moon Dowon | Choi Jeong | Win | W+R | 6.5 | 2982 | 30 | 
 | 2016-02-12 | 第17期女流名人戦（韓国）挑戦手合三番勝負第2局 | Oh Yujin | Choi Jeong | Win | W+R | 6.5 | 2952 | 6 | 
@@ -438,8 +439,8 @@
 | 2015-10-19 | 第6回穹窿山兵聖杯世界女子囲碁選手権準決勝 | Yu Zhiying | Choi Jeong | Lose | B+R | 7.5 | 2945 | -23 | 
 | 2015-10-18 | 第6回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Chen Yiming | Choi Jeong | Win | W+R | 7.5 | 2968 | 7 | 
 | 2015-10-17 | 第6回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Choi Jeong | Hei Jiajia | Win | B+R | 7.5 | 2961 | -31 | 
-| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦決勝 | Xie Yimin | Choi Jeong | Win | W+R | 6.5 | 2992 | 0 | 
-| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Choi Jeong | Yu Zhiying | Win | B+R | 6.5 | 2992 | 66 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Choi Jeong | Yu Zhiying | Win | B+R | 6.5 | 2992 | 0 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦決勝 | Xie Yimin | Choi Jeong | Win | W+R | 6.5 | 2992 | 66 | 
 | 2015-10-02 | 第2回おかげ杯国際精鋭囲碁対抗戦第2戦 | Choi Jeong | Hei Jiajia | Win | B+R | 6.5 | 2926 | -42 | 
 | 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Byun Sangil | Choi Jeong | Lose | B+R | 6.5 | 2968 | -19 | 
 | 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦E2 | Ida Atsushi | Choi Jeong | Lose | B+R | 6.5 | 2987 | -17 | 
@@ -538,8 +539,8 @@
 | 2012-12-15 | 第2回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Hei Jiajia | Choi Jeong | Win | W+4.5 | 7.5 | 2738 | 0 | 
 | 2012-12-15 | 第2回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Rui Naiwei | Choi Jeong | Lose | B+R | 7.5 | 2738 | 11 | 
 | 2012-12-14 | 第2回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Mukai Chiaki | Choi Jeong | Win | W+R | 7.5 | 2727 | -30 | 
-| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Choi Jeong | Hei Jiajia | Win | B+R | 7.5 | 2757 | 0 | 
-| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Li He | Choi Jeong | Lose | B+R | 7.5 | 2757 | 14 | 
+| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Li He | Choi Jeong | Lose | B+R | 7.5 | 2757 | 0 | 
+| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Choi Jeong | Hei Jiajia | Win | B+R | 7.5 | 2757 | 14 | 
 | 2012-12-12 | 第2回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Vanessa Wong | Choi Jeong | Win | W+R | 7.5 | 2743 | -221 | 
 | 2012-10-30 | 第3回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Li He | Choi Jeong | Lose | B+1.5 | 7.5 | 2964 | -86 | 
 | 2012-09-24 | 第1期女流十段戦2回戦 | Choi Jeong | Park Shiun | Lose | W+R | 6.5 | 3050 | -55 | 

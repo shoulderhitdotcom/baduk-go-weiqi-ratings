@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-13 | 2021韓国シニア囲碁リーグプレーオフ | Kim JongJoon | Jimmy Cha | Win | W+3.5 | 6.5 | 2581 | 8 | 
 | 2021-12-09 | 2021韓国シニア囲碁リーグプレーオフ | Paek Seongho | Jimmy Cha | Win | W+4.5 | 6.5 | 2573 | 10 | 
 | 2021-12-08 | 2021韓国シニア囲碁リーグプレーオフ | Kim JongJoon | Jimmy Cha | Lose | B+9.5 | 6.5 | 2563 | -43 | 
 | 2021-12-06 | 2021韓国シニア囲碁リーグ準プレーオフ | Kim Chuljung | Jimmy Cha | Win | W+3.5 | 6.5 | 2606 | 39 | 

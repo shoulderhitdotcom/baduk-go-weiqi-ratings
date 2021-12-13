@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-13 | 第47期新人王戦予選 | Fujisawa Rina |  | Win | B+R | 6.5 | 3161 | -17 | 
 | 2021-12-09 | 第60期十段戦3回戦 | Fujisawa Rina | Sada Atsushi | Lose | W+R | 6.5 | 3178 | 3178 | 
 | 2021-11-11 | 第25期女流棋聖戦2回戦 | Fujisawa Rina |  | Lose | W+R | 6.5 | missing | -3203 | 
 | 2021-10-28 | 第60期十段戦2回戦  | Sun Zhe | Fujisawa Rina | Win | W+4.5 | 6.5 | 3203 | 2 | 
@@ -78,8 +79,8 @@
 | 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第5戦 | Lin Junyan | Fujisawa Rina | Win | W+R | 6.5 | 3035 | 17 | 
 | 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第4戦 | Lin Shixun | Fujisawa Rina | Win | W+0.5 | 6.5 | 3018 | 0 | 
 | 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第3戦 | Jian Jingting | Fujisawa Rina | Win | W+1.5 | 6.5 | 3018 | 24 | 
-| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第1戦 | Xu Haohong | Fujisawa Rina | Lose | B+R | 6.5 | 2994 | 0 | 
-| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第2戦 | Fujisawa Rina | Xu Jingen | Lose | W+R | 6.5 | 2994 | 303 | 
+| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第2戦 | Fujisawa Rina | Xu Jingen | Lose | W+R | 6.5 | 2994 | 0 | 
+| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第1戦 | Xu Haohong | Fujisawa Rina | Lose | B+R | 6.5 | 2994 | 303 | 
 | 2019-11-23 | 第14回広島アルミ杯・若鯉戦1回戦 | Fujisawa Rina | Otake Yu | Lose | W+R | 6.5 | 2691 | -4 | 
 | 2019-11-18 | 第45期名人戦予選決勝  | Ichiriki Ryo | Fujisawa Rina | Lose | B+R | 6.5 | 2695 | -9 | 
 | 2019-11-15 | 第38期女流本因坊戦挑戦手合五番勝負第4局  | Fujisawa Rina | Ueno Asami | Lose | W+R | 6.5 | 2704 | -19 | 
@@ -90,8 +91,8 @@
 | 2019-10-27 | 第38期女流本因坊戦挑戦手合五番勝負第2局  | Fujisawa Rina | Ueno Asami | Lose | W+R | 6.5 | 2712 | -2 | 
 | 2019-10-24 | 第45期名人戦予選 | Fujisawa Rina | Nakano Yasuhiro | Win | B+R | 6.5 | 2714 | 3 | 
 | 2019-10-17 | 第23期ドコモ杯女流棋聖戦2回戦 | Fujisawa Rina | Suzuki Ayumi | Lose | W+8.5 | 6.5 | 2711 | -13 | 
-| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Yu Lijun | Fujisawa Rina | Win | W+R | 6.5 | 2724 | 0 | 
-| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦第3戦 | Choi Jeong | Fujisawa Rina | Win | W+R | 6.5 | 2724 | 50 | 
+| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦第3戦 | Choi Jeong | Fujisawa Rina | Win | W+R | 6.5 | 2724 | 0 | 
+| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Yu Lijun | Fujisawa Rina | Win | W+R | 6.5 | 2724 | 50 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第2戦 | Fujisawa Rina | Yang Zixuan | Win | B+R | 6.5 | 2674 | 0 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yu Zhiying | Fujisawa Rina | Lose | B+R | 6.5 | 2674 | -3 | 
 | 2019-10-09 | 第38期女流本因坊戦挑戦手合五番勝負第1局  | Ueno Asami | Fujisawa Rina | Win | W+3.5 | 6.5 | 2677 | -1 | 
@@ -115,8 +116,8 @@
 | 2019-06-05 | 第5回韓国女子囲碁リーグ第4節第3試合第3局 | Cho Hyeyeon | Fujisawa Rina | Lose | B+R | 6.5 | 2662 | 46 | 
 | 2019-05-28 | 第5回韓国女子囲碁リーグ第3節第2試合第1局 | Fujisawa Rina | Kim Hyeoimin | Lose | W+0.5 | 6.5 | 2616 | 4 | 
 | 2019-05-23 | 第4回扇興杯女流最強戦2回戦 | Okuda Aya | Fujisawa Rina | Win | W+11.5 | 6.5 | 2612 | 0 | 
-| 2019-05-14 | 第10回おかげ杯囲碁トーナメント戦1回戦 | Fujisawa Rina |  | Win | B+11.5 | 6.5 | 2612 | 0 | 
-| 2019-05-14 | 第10回おかげ杯囲碁トーナメント戦2回戦 | Hsu Chiayuan | Fujisawa Rina | Lose | B+R | 6.5 | 2612 | -13 | 
+| 2019-05-14 | 第10回おかげ杯囲碁トーナメント戦2回戦 | Hsu Chiayuan | Fujisawa Rina | Lose | B+R | 6.5 | 2612 | 0 | 
+| 2019-05-14 | 第10回おかげ杯囲碁トーナメント戦1回戦 | Fujisawa Rina |  | Win | B+11.5 | 6.5 | 2612 | -13 | 
 | 2019-05-12 | 第8回天台山体彩杯世界女子囲碁団体戦第3戦 | Choi Jeong | Fujisawa Rina | Lose | B+R | 7.5 | 2625 | -14 | 
 | 2019-05-11 | 第8回天台山体彩杯世界女子囲碁団体戦第2戦 | Fujisawa Rina | Yu Zhiying | Lose | W+R | 7.5 | 2639 | -7 | 
 | 2019-05-10 | 第8回天台山体彩杯世界女子囲碁団体戦第1戦 | Hei Jiajia | Fujisawa Rina | Lose | B+1¾ | 7.5 | 2646 | -4 | 
@@ -150,10 +151,10 @@
 | 2018-11-09 | 第37期女流本因坊戦挑戦手合五番勝負第2局 | Xie Yimin | Fujisawa Rina | Win | W+R | 6.5 | 2712 | -11 | 
 | 2018-10-31 | 第9回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Fujisawa Rina | Zhou Hongyu | Lose | W+R | 7.5 | 2723 | -1 | 
 | 2018-10-18 | 第58期十段戦予選 | Fujisawa Rina | Ohba Junya | Win | B+R | 6.5 | 2724 | -1 | 
-| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Yang Zixuan | Fujisawa Rina | Lose | B+R | 6.5 | 2725 | 0 | 
-| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yu Zhiying | Fujisawa Rina | Lose | B+R | 6.5 | 2725 | -2 | 
-| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第1戦 | Choi Jeong | Fujisawa Rina | Lose | B+R | 6.5 | 2727 | 0 | 
-| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yang Zixuan | Fujisawa Rina | Win | W+0.5 | 6.5 | 2727 | -12 | 
+| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yu Zhiying | Fujisawa Rina | Lose | B+R | 6.5 | 2725 | 0 | 
+| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Yang Zixuan | Fujisawa Rina | Lose | B+R | 6.5 | 2725 | -2 | 
+| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yang Zixuan | Fujisawa Rina | Win | W+0.5 | 6.5 | 2727 | 0 | 
+| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第1戦 | Choi Jeong | Fujisawa Rina | Lose | B+R | 6.5 | 2727 | -12 | 
 | 2018-10-10 | 第37期女流本因坊戦挑戦手合五番勝負第1局 | Fujisawa Rina | Xie Yimin | Win | B+R | 6.5 | 2739 | 5 | 
 | 2018-10-08 | 第22期ドコモ杯女流棋聖戦1回戦 | Okuda Aya | Fujisawa Rina | Win | W+R | 6.5 | 2734 | 1 | 
 | 2018-10-04 | 第45期天元戦予選 | Akiyama Jiro | Fujisawa Rina | Win | W+2.5 | 6.5 | 2733 | 11 | 
@@ -183,8 +184,8 @@
 | 2018-04-28 | 第1回呉清源杯世界女流囲碁選手権16強戦 | Fujisawa Rina | Lu Minquan | Lose | W+R | 7.5 | 2750 | 8 | 
 | 2018-04-21 | 第5回グロービス杯世界囲碁U-20準々決勝 | Fujisawa Rina | Shin Jinseo | Lose | W+R | 6.5 | 2742 | 0 | 
 | 2018-04-21 | 第5回グロービス杯世界囲碁U-20グループリーグB | Fujisawa Rina | Xie Ke | Win | B+R | 6.5 | 2742 | 16 | 
-| 2018-04-20 | 第5回グロービス杯世界囲碁U-20グループリーグB |  | Fujisawa Rina | Win | W+R | 6.5 | 2726 | 0 | 
-| 2018-04-20 | 第5回グロービス杯世界囲碁U-20グループリーグB | Fujisawa Rina | Shin Minjun | Lose | W+R | 6.5 | 2726 | -10 | 
+| 2018-04-20 | 第5回グロービス杯世界囲碁U-20グループリーグB | Fujisawa Rina | Shin Minjun | Lose | W+R | 6.5 | 2726 | 0 | 
+| 2018-04-20 | 第5回グロービス杯世界囲碁U-20グループリーグB |  | Fujisawa Rina | Win | W+R | 6.5 | 2726 | -10 | 
 | 2018-04-07 | 第4回韓国女子囲碁リーグ第9節 | Fujisawa Rina | Pan Yang | Win | B+R | 6.5 | 2736 | 12 | 
 | 2018-04-01 | 第4回韓国女子囲碁リーグ第8節 | Fujisawa Rina | Choi Jeong | Lose | W+R | 6.5 | 2724 | -49 | 
 | 2018-03-25 | 第4回韓国女子囲碁リーグ第6節 | Park Jiyeon | Fujisawa Rina | Lose | B+R | 6.5 | 2773 | -2 | 
@@ -197,8 +198,8 @@
 | 2018-02-22 | 第43期新人王戦1回戦 | Fujisawa Rina | Seki Kotaro | Lose | W+R | 6.5 | 2837 | -19 | 
 | 2018-02-05 | 第5回グランドチャンピオン戦1回戦 | Murakawa Daisuke | Fujisawa Rina | Lose | B+R | 6.5 | 2856 | -1 | 
 | 2018-02-01 | 第57期十段戦予選 | Fujisawa Rina | Mimura Tomoyasu | Lose | W+5.5 | 6.5 | 2857 | -2 | 
-| 2018-01-29 | 第5回グロービス杯国内予選 | Fujisawa Rina |  | Win | B+5.5 | 6.5 | 2859 | 0 | 
-| 2018-01-29 | 第5回グロービス杯国内予選 | Fujisawa Rina |  | Win | B+R | 6.5 | 2859 | -1 | 
+| 2018-01-29 | 第5回グロービス杯国内予選 | Fujisawa Rina |  | Win | B+R | 6.5 | 2859 | 0 | 
+| 2018-01-29 | 第5回グロービス杯国内予選 | Fujisawa Rina |  | Win | B+5.5 | 6.5 | 2859 | -1 | 
 | 2018-01-23 | 2018台湾精鋭vs日本精鋭交流戦第6戦 | Xu Haohong | Fujisawa Rina | Lose | B+R | 6.5 | 2860 | 0 | 
 | 2018-01-23 | 2018台湾精鋭vs日本精鋭交流戦第5戦 | Yu Lijun | Fujisawa Rina | Win | W+R | 6.5 | 2860 | -4 | 
 | 2018-01-22 | 2018台湾精鋭vs日本精鋭交流戦第4戦  | Jian Jingting | Fujisawa Rina | Lose | B+R | 6.5 | 2864 | 0 | 
@@ -223,8 +224,8 @@
 | 2017-10-19 | 第21期ドコモ杯女流棋聖戦2回戦 | Mukai Chiaki | Fujisawa Rina | Lose | B+R | 6.5 | 2912 | -18 | 
 | 2017-10-15 | 第4回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Fujisawa Rina | Yu Lijun | Win | B+R | 6.5 | 2930 | 0 | 
 | 2017-10-15 | 第4回おかげ杯国際精鋭囲碁対抗戦3回戦 | Fujisawa Rina | Li He | Lose | W+1.5 | 6.5 | 2930 | 26 | 
-| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦1回戦 | Fujisawa Rina | Su Shengfang | Win | B+R | 6.5 | 2904 | 0 | 
-| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦2回戦 | Choi Jeong | Fujisawa Rina | Win | W+R | 6.5 | 2904 | 15 | 
+| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦2回戦 | Choi Jeong | Fujisawa Rina | Win | W+R | 6.5 | 2904 | 0 | 
+| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦1回戦 | Fujisawa Rina | Su Shengfang | Win | B+R | 6.5 | 2904 | 15 | 
 | 2017-10-02 | 第21期ドコモ杯女流棋聖戦1回戦 | Fujisawa Rina | Mukai Kaori | Win | B+R | 6.5 | 2889 | -8 | 
 | 2017-09-27 | 第36期女流本因坊戦挑戦手合五番勝負第1局 | Xie Yimin | Fujisawa Rina | Lose | B+R | 6.5 | 2897 | -19 | 
 | 2017-09-21 | 第43期碁聖戦　予選A決勝 | Fujisawa Rina | Koyama Kuya | Win | B+R | 6.5 | 2916 | 50 | 
@@ -261,8 +262,8 @@
 | 2017-04-01 | 3期韓国女子連戦8回戦京畿湖畔-麟蹄 | Fujisawa Rina |  | Lose | W+3.5 | 6.5 | 2817 | -29 | 
 | 2017-03-27 | 第42期新人王戦　本戦1回戦 | Fujisawa Rina | Yahata Naoki | Win | B+R | 6.5 | 2846 | 166 | 
 | 2017-03-23 | 第2回扇興杯女流囲碁最強戦　本戦1回戦 | Fujisawa Rina | Taguchi Misei | Win | B+R | 6.5 | 2680 | 26 | 
-| 2017-03-21 | 第4回グロービス杯国内予選 | Hara Masakazu | Fujisawa Rina | Win | W+R | 6.5 | 2654 | 0 | 
-| 2017-03-21 | 第4回グロービス杯国内予選 | Fujisawa Rina | Chang Rueijie | Lose | W+R | 6.5 | 2654 | -86 | 
+| 2017-03-21 | 第4回グロービス杯国内予選 | Fujisawa Rina | Chang Rueijie | Lose | W+R | 6.5 | 2654 | 0 | 
+| 2017-03-21 | 第4回グロービス杯国内予選 | Hara Masakazu | Fujisawa Rina | Win | W+R | 6.5 | 2654 | -86 | 
 | 2017-03-14 | 第8回おかげ杯囲碁トーナメント戦予選 | Fujisawa Rina | Nyu Eiko | Win | B+5.5 | 6.5 | 2740 | 3 | 
 | 2017-03-08 | 第29期女流名人戦挑戦手合三番勝負第2局 | Xie Yimin | Fujisawa Rina | Win | W+1.5 | 6.5 | 2737 | 6 | 
 | 2017-03-01 | 第29期女流名人戦挑戦手合三番勝負第1局 | Fujisawa Rina | Xie Yimin | Win | B+R | 6.5 | 2731 | 35 | 
@@ -303,8 +304,8 @@
 | 2016-03-29 | 第2回韓国女子囲碁リーグ第7節 | Choi Jeong | Fujisawa Rina | Win | W+R | 6.5 | 2574 | 29 | 
 | 2016-03-25 | 第2回韓国女子囲碁リーグ第6節 | Fujisawa Rina | Kang Dajeong | Win | B+R | 6.5 | 2545 | 4 | 
 | 2016-03-22 | 第3回グロービス杯国内予選 | Fujisawa Rina | Watanabe Kouki | Lose | W+R | 6.5 | 2541 | -2 | 
-| 2016-03-18 | 第2回イベロジャパン杯決勝 | Shibano Toramaru | Fujisawa Rina | Win | W+R | 6.5 | 2543 | 0 | 
-| 2016-03-18 | 第2回イベロジャパン杯準決勝 | Fujisawa Rina | Hirose Yuichi | Win | B+R | 6.5 | 2543 | 56 | 
+| 2016-03-18 | 第2回イベロジャパン杯準決勝 | Fujisawa Rina | Hirose Yuichi | Win | B+R | 6.5 | 2543 | 0 | 
+| 2016-03-18 | 第2回イベロジャパン杯決勝 | Shibano Toramaru | Fujisawa Rina | Win | W+R | 6.5 | 2543 | 56 | 
 | 2016-03-03 | 第2回韓国女子囲碁リーグ第3節 |  | Fujisawa Rina | Win | W+R | 6.5 | 2487 | -55 | 
 | 2016-01-30 | 2016年日台精鋭交流戦第6戦 | Lin Shixun | Fujisawa Rina | Win | W+R | 6.5 | 2542 | 0 | 
 | 2016-01-30 | 2016年日台精鋭交流戦第5戦 | Fujisawa Rina | Su Shengfang | Win | B+9.5 | 6.5 | 2542 | 15 | 
@@ -326,8 +327,8 @@
 | 2015-10-18 | 第34期女流本因坊戦挑戦手合五番勝負第2局 | Fujisawa Rina | Xie Yimin | Win | B+5.5 | 6.5 | 2624 | 26 | 
 | 2015-10-15 | 第19期ドコモ杯女流棋聖戦1回戦 | Yashiro Kumiko | Fujisawa Rina | Win | W+R | 6.5 | 2598 | -2 | 
 | 2015-10-08 | 第34期女流本因坊戦挑戦手合五番勝負第1局 | Xie Yimin | Fujisawa Rina | Win | W+2.5 | 6.5 | 2600 | 16 | 
-| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦決勝 | Oh Yujin | Fujisawa Rina | Lose | B+R | 6.5 | 2584 | 0 | 
-| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Fujisawa Rina | Yu Lijun | Win | B+R | 6.5 | 2584 | 27 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Fujisawa Rina | Yu Lijun | Win | B+R | 6.5 | 2584 | 0 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦決勝 | Oh Yujin | Fujisawa Rina | Lose | B+R | 6.5 | 2584 | 27 | 
 | 2015-10-02 | 第2回おかげ杯国際精鋭囲碁対抗戦第2戦 | Fujisawa Rina | Wang Chenxing | Win | B+R | 6.5 | 2557 | -42 | 
 | 2015-09-10 | 第28期女流名人戦リーグ | Chinen Kaori | Fujisawa Rina | Win | W+7.5 | 6.5 | 2599 | -76 | 
 | 2015-08-20 | 第28期女流名人戦リーグ | Fujisawa Rina | Kato Keiko | Win | B+R | 6.5 | 2675 | -4 | 
@@ -344,8 +345,8 @@
 | 2015-05-08 | 第4回天台山農商銀行杯世界女子団体戦第1戦 | Fujisawa Rina | Yu Zhiying | Lose | W+R | 7.5 | 2925 | -26 | 
 | 2015-04-30 | 第40期新人王戦2回戦 | Taniguchi Tooru | Fujisawa Rina | Win | W+7.5 | 6.5 | 2951 | 59 | 
 | 2015-04-15 | 第20回LG杯予選 | Fujisawa Rina | Cho Hanseung | Lose | W+9.5 | 6.5 | 2892 | -77 | 
-| 2015-03-17 | 第2回グロービス杯国内予選 | Fujisawa Rina | Koyama Kuya | Lose | W+3.5 | 6.5 | 2969 | 0 | 
-| 2015-03-17 | 第2回グロービス杯国内予選 | Fujisawa Rina | Taniguchi Tooru | Win | B+5.5 | 6.5 | 2969 | -195 | 
+| 2015-03-17 | 第2回グロービス杯国内予選 | Fujisawa Rina | Taniguchi Tooru | Win | B+5.5 | 6.5 | 2969 | 0 | 
+| 2015-03-17 | 第2回グロービス杯国内予選 | Fujisawa Rina | Koyama Kuya | Lose | W+3.5 | 6.5 | 2969 | -195 | 
 | 2015-03-05 | 第5回黄竜士双登杯世界女子囲碁団体選手権第5戦 | Fujisawa Rina | Oh Jeonga | Lose | W+R | 7.5 | 3164 | 203 | 
 | 2014-11-16 | 第9回広島アルミ杯・若鯉戦準決勝 | Fujisawa Rina | Motoki Katsuya | Lose | W+R | 6.5 | 2961 | -31 | 
 | 2014-11-15 | 第9回広島アルミ杯・若鯉戦2回戦 | Fujisawa Rina | Fujimura Yosuke | Win | B+R | 6.5 | 2992 | 0 | 
@@ -380,8 +381,8 @@
 | 2014-02-20 | 第4回黄竜士双登杯世界女子囲碁団体選手権第5戦 | Kim Hyeoimin | Fujisawa Rina | Lose | B+R | 7.5 | 2700 | -32 | 
 | 2014-02-19 | 第4回黄竜士双登杯世界女子囲碁団体選手権第4戦 | Song Ronghui | Fujisawa Rina | Win | W+R | 7.5 | 2732 | 77 | 
 | 2014-02-04 | 第5回おかげ杯囲碁トーナメント戦予選 | Fujisawa Rina | Kumamoto Syusei | Lose | W+2.5 | 6.5 | 2655 | -59 | 
-| 2013-12-13 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Wang Chenxing | Fujisawa Rina | Lose | B+9.5 | 7.5 | 2714 | 0 | 
-| 2013-12-13 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Fujisawa Rina | Oh Jeonga | Lose | W+R | 7.5 | 2714 | -72 | 
+| 2013-12-13 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Fujisawa Rina | Oh Jeonga | Lose | W+R | 7.5 | 2714 | 0 | 
+| 2013-12-13 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Wang Chenxing | Fujisawa Rina | Lose | B+9.5 | 7.5 | 2714 | -72 | 
 | 2013-12-12 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Fujisawa Rina | Svetlana Shikshina | Win | B+13.5 | 7.5 | 2786 | 23 | 
 | 2013-11-17 | 第8回広島アルミ杯・若鯉戦準決勝 | Ichiriki Ryo | Fujisawa Rina | Lose | B+R | 6.5 | 2763 | 31 | 
 | 2013-11-16 | 第8回広島アルミ杯・若鯉戦2回戦 | Hirata Tomoya | Fujisawa Rina | Win | W+R | 6.5 | 2732 | 14 | 

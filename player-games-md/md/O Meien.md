@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-13 | 第48期名人戦予選 | Muramatsu Ryuichi | O Meien | Lose | B+1.5 | 6.5 | 3015 | -1 | 
 | 2021-12-06 | 第48期天元戦予選 | O Meien | Hirose Yuichi | Win | B+R | 6.5 | 3016 | 318 | 
 | 2021-09-23 | 第46期棋聖戦Cリーグ | O Meien | Ko Iso | Win | B+R | 6.5 | 2698 | -205 | 
 | 2021-08-19 | 第60期十段戦予選 | O Meien | Mizokami Tomochika | Lose | W+R | 6.5 | 2903 | 3 | 
@@ -51,8 +52,8 @@
 | 2019-06-20 | 第44期棋聖戦Bリーグ | O Meien | Yamada Kimio | Lose | W+R | 6.5 | 2542 | -15 | 
 | 2019-06-12 | 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | O Meien | Yoo Changhyuk | Lose | W+R | 6.5 | 2557 | -9 | 
 | 2019-06-11 | 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | Yu Bin | O Meien | Lose | B+1.5 | 6.5 | 2566 | -5 | 
-| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | O Meien | Seo Bongsoo | Lose | W+R | 6.5 | 2571 | 0 | 
-| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | O Meien | Yoda Norimoto | Lose | W+4.5 | 6.5 | 2571 | -36 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | O Meien | Yoda Norimoto | Lose | W+4.5 | 6.5 | 2571 | 0 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | O Meien | Seo Bongsoo | Lose | W+R | 6.5 | 2571 | -36 | 
 | 2019-06-08 | 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Kim Chongsu | O Meien | Win | W+1.5 | 6.5 | 2607 | 40 | 
 | 2019-06-06 | 第44期棋聖戦Bリーグ | Adachi Toshimasa | O Meien | Lose | B+7.5 | 6.5 | 2567 | 56 | 
 | 2019-05-17 | 第45期天元戦2回戦 | O Meien | Onishi Ryuhei | Lose | W+R | 6.5 | 2511 | -59 | 
@@ -146,8 +147,8 @@
 | 2015-12-17 | 第64期王座戦予選 | O Meien | Ohba Junya | Lose | W+R | 6.5 | 2638 | -29 | 
 | 2015-11-30 | 第64期王座戦予選 | Michael Redmond | O Meien | Win | W+3.5 | 6.5 | 2667 | 32 | 
 | 2015-11-12 | 第42期天元戦予選 | Takeuchi Kousuke | O Meien | Win | W+13.5 | 6.5 | 2635 | 7 | 
-| 2015-11-07 | 第2回OVER40早碁トーナメント戦決勝 | O Meien | O Rissei | Lose | W+R | 6.5 | 2628 | 0 | 
-| 2015-11-07 | 第2回OVER40早碁トーナメント戦準決勝 | O Meien | Oya Koichi | Win | B+R | 6.5 | 2628 | 9 | 
+| 2015-11-07 | 第2回OVER40早碁トーナメント戦準決勝 | O Meien | Oya Koichi | Win | B+R | 6.5 | 2628 | 0 | 
+| 2015-11-07 | 第2回OVER40早碁トーナメント戦決勝 | O Meien | O Rissei | Lose | W+R | 6.5 | 2628 | 9 | 
 | 2015-11-05 | 第54期十段戦2回戦 | O Meien | Ichiriki Ryo | Lose | W+R | 6.5 | 2619 | -44 | 
 | 2015-10-01 | 第42期天元戦予選 | O Meien | Fujisawa Kazunari | Win | B+R | 6.5 | 2663 | -91 | 
 | 2015-08-27 | 第54期十段戦予選 | O Meien | Seto Taiki | Win | B+R | 6.5 | 2754 | -6 | 
@@ -328,8 +329,8 @@
 | 2009-06-17 | 第29期NECカップ囲碁トーナメント戦1回戦 | O Meien | Kataoka Satoshi | Lose | W+R | 6.5 | 2907 | 12 | 
 | 2009-06-04 | 第34期名人戦リーグ | O Meien | Sakai Hideyuki | Lose | W+3.5 | 6.5 | 2895 | -80 | 
 | 2009-05-14 | 第48期十段戦本戦1回戦 | O Meien | Tsuruyama Atsushi | Win | B+R | 6.5 | 2975 | 12 | 
-| 2009-05-11 | 第5回大和証券杯ネット囲碁オープン予選 | O Meien | Ko Reibun | Win | B+7.5 | 6.5 | 2963 | 0 | 
-| 2009-05-11 | 第5回大和証券杯ネット囲碁オープン予選 | O Meien | Xie Yimin | Win | B+R | 6.5 | 2963 | 63 | 
+| 2009-05-11 | 第5回大和証券杯ネット囲碁オープン予選 | O Meien | Xie Yimin | Win | B+R | 6.5 | 2963 | 0 | 
+| 2009-05-11 | 第5回大和証券杯ネット囲碁オープン予選 | O Meien | Ko Reibun | Win | B+7.5 | 6.5 | 2963 | 63 | 
 | 2009-04-16 | 第48期十段戦予選 | O Meien | Ishida Atsushi | Win | B+R | 6.5 | 2900 | 23 | 
 | 2009-04-09 | 第34期名人戦リーグ | Cho Riyu | O Meien | Win | W+R | 6.5 | 2877 | 39 | 
 | 2009-04-02 | 第65期本因坊戦予選 | Kanda Ei | O Meien | Lose | B+2.5 | 6.5 | 2838 | -11 | 

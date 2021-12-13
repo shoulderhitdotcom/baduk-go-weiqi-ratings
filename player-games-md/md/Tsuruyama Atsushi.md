@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-13 | 第77期本因坊戦リーグ  | Tsuruyama Atsushi | Shibano Toramaru | Lose | W+R | 6.5 | 2994 | -124 | 
 | 2021-11-07 | 第4回SGW杯中庸戦3回戦  | Tsuruyama Atsushi | Han Zenki | Lose | W+3.5 | 6.5 | 3118 | 4 | 
 | 2021-11-01 | 第77期本因坊戦リーグ | Tsuruyama Atsushi | Sada Atsushi | Win | B+3.5 | 6.5 | 3114 | 235 | 
 | 2021-10-08 | 第77期本因坊戦リーグ | Tsuruyama Atsushi | Ichiriki Ryo | Lose | W+R | 6.5 | 2879 | 56 | 
@@ -37,8 +38,8 @@
 | 2019-11-03 | 第2回SGW杯中庸戦1回戦 | Tsuruyama Atsushi | Mimura Tomoyasu | Lose | W+R | 6.5 | 2768 | -31 | 
 | 2019-10-10 | 第46期天元戦予選 | Takao Shinji | Tsuruyama Atsushi | Win | W+0.5 | 6.5 | 2799 | 68 | 
 | 2019-09-30 | 第2回SGW杯中庸戦予選決勝 | Mukai Kaori | Tsuruyama Atsushi | Win | W+R | 6.5 | 2731 | 0 | 
-| 2019-09-30 | 第2回SGW杯中庸戦予選 | Matsumoto Takehisa | Tsuruyama Atsushi | Win | W+R | 6.5 | 2731 | 0 | 
-| 2019-09-30 | 第2回SGW杯中庸戦予選 | Takanashi Seiken | Tsuruyama Atsushi | Win | W+T | 6.5 | 2731 | -76 | 
+| 2019-09-30 | 第2回SGW杯中庸戦予選 | Takanashi Seiken | Tsuruyama Atsushi | Win | W+T | 6.5 | 2731 | 0 | 
+| 2019-09-30 | 第2回SGW杯中庸戦予選 | Matsumoto Takehisa | Tsuruyama Atsushi | Win | W+R | 6.5 | 2731 | -76 | 
 | 2019-08-01 | 第58期十段戦予選 | Tsuruyama Atsushi | Ko Iso | Lose | W+0.5 | 6.5 | 2807 | -11 | 
 | 2019-07-18 | 第44期棋聖戦Bリーグ | Onishi Ryuhei | Tsuruyama Atsushi | Lose | B+R | 6.5 | 2818 | -43 | 
 | 2019-07-04 | 第44期棋聖戦Bリーグ | Yoda Norimoto | Tsuruyama Atsushi | Win | W+4.5 | 6.5 | 2861 | 75 | 

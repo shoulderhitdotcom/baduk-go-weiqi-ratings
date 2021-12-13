@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-12 | 第7回国手山脈韓国国内トーナメント決勝 | An Sungjoon | Park Yeonghun | Win | W+R | 6.5 | 3318 | 8 | 
 | 2021-12-11 | 第7回国手山脈韓国国内トーナメント準決勝 | Park Yeonghun | Kang Jihoon | Win | B+R | 6.5 | 3310 | 35 | 
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント2回戦 | An Jungki | Park Yeonghun | Win | W+R | 6.5 | 3275 | 0 | 
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Park Yeonghun | Han Seungjoo | Win | B+R | 6.5 | 3275 | 17 | 

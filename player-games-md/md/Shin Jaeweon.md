@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-14 | 第5回クラウン・ヘテ杯1回戦 |  | Shin Jaeweon | Lose | B+R | 6.5 | 3036 | -30 | 
+| 2021-12-04 | 2021-2022フューチャーズリーグ |  | Shin Jaeweon | Win | W+R | 6.5 | 3066 | -26 | 
 | 2021-11-28 | 2021-2022フューチャーズリーグ | Hyun Yoobin | Shin Jaeweon | Lose | B+R | 6.5 | 3092 | -34 | 
 | 2021-11-21 | 2021-2022フューチャーズリーグ | Jin Siyoung | Shin Jaeweon | Win | W+R | 6.5 | 3126 | 3126 | 
 | 2021-10-04 | 第3期ソパルコサノル最高棋士決定戦予選 | Shin Jaeweon | Baek Hyeonwoo | Lose | W+R | 6.5 | missing | -3070 | 

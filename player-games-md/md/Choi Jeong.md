@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-14 | 第5期韓国製紙女子棋聖戦決勝三番勝負第2局 | Oh Yujin | Choi Jeong | Lose | B+R | 6.5 | 3225 | -14 | 
 | 2021-12-13 | 第5期韓国製紙女子棋聖戦決勝三番勝負第1局 | Choi Jeong | Oh Yujin | Lose | W+R | 6.5 | 3239 | -13 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦  | Yamashita Keigo | Choi Jeong | Lose | B+1.5 | 6.5 | 3252 | -23 | 
 | 2021-12-06 | 第5期韓国製紙女子棋聖戦準決勝 | Choi Jeong | Park Jiyeon | Win | B+R | 6.5 | 3275 | 4 | 

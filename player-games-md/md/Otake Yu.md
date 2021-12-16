@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-16 | 第60期十段戦3回戦 | Adachi Toshimasa | Otake Yu | Lose | B+1.5 | 6.5 | 3149 | -18 | 
 | 2021-12-13 | 第48期天元戦予選 | Otake Yu | Hikosaka Naoto | Win | B+R | 6.5 | 3167 | 22 | 
 | 2021-11-30 | 第62期王冠戦挑戦手合一番勝負 | Ida Atsushi | Otake Yu | Lose | B+R | 6.5 | 3145 | 37 | 
 | 2021-11-08 | 第60期十段戦2回戦 | Cho U | Otake Yu | Win | W+3.5 | 6.5 | 3108 | 158 | 

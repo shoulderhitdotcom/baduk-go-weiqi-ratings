@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-16 | 2021-2022韓国囲碁リーグ | Moon Minjong | Kim Jinhyu | Win | B+4.5 | 6.5 | 3208 | -6 | 
 | 2021-12-08 | 第3期ソパルコサノル最高棋士決定戦予選 | Baek Hyeonwoo | Moon Minjong | Lose | B+R | 6.5 | 3214 | -11 | 
 | 2021-12-03 | 2021-2022韓国囲碁リーグ | Moon Minjong | Kim Junghyun | Win | B+R | 6.5 | 3225 | 3 | 
 | 2021-11-28 | 2021-2022韓国囲碁リーグ |  | Moon Minjong | Win | W+R | 6.5 | 3222 | 6 | 
@@ -24,13 +25,11 @@
 | 2021-07-12 | 2021陜川歴代英才vs女子頂上連勝対抗戦第5局 | Kim Hyeoimin | Moon Minjong | Win | W+4.5 | 6.5 | 3253 | 29 | 
 | 2021-07-06 | 2021陜川歴代英才vs女子頂上連勝対抗戦第4局 | Moon Minjong | Oh Jeonga | Win | B+R | 6.5 | 3224 | 4 | 
 | 2021-07-05 | 2021陜川歴代英才vs女子頂上連勝対抗戦第3局 | Moon Minjong | Cho Seungah | Win | B+0.5 | 6.5 | 3220 | -6 | 
-| 2021-06-06 | 第8回グロービス杯世界囲碁U-20三位決定戦 | Park Sangjin | Moon Minjong | Lose | B+5.5 | 6.5 | 3226 | 0 | 
 | 2021-06-06 | 第8回グロービス杯世界囲碁U-20準決勝 | Wang Xinghao | Moon Minjong | Lose | B+R | 6.5 | 3226 | 0 | 
-| 2021-06-06 | 第8回グロービス杯世界囲碁U-20準々決勝  | Ueno Asami | Moon Minjong | Win | W+R | 6.5 | 3226 | -9 | 
+| 2021-06-06 | 第8回グロービス杯世界囲碁U-20準々決勝  | Ueno Asami | Moon Minjong | Win | W+R | 6.5 | 3226 | 0 | 
+| 2021-06-06 | 第8回グロービス杯世界囲碁U-20三位決定戦 | Park Sangjin | Moon Minjong | Lose | B+5.5 | 6.5 | 3226 | -9 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦  | Moon Minjong | Fukuoka Kotaro | Win | B+R | 6.5 | 3235 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  | Otake Yu | Moon Minjong | Win | W+R | 6.5 | 3235 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Moon Minjong | Fukuoka Kotaro | Win | B+R | 6.5 | 3235 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Otake Yu | Moon Minjong | Win | W+R | 6.5 | 3235 | -10 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  | Otake Yu | Moon Minjong | Win | W+R | 6.5 | 3235 | -10 | 
 | 2021-05-24 | 第9回河燦錫国手杯英才最強戦記念対局 | Moon Minjong | Shin Jinseo | Lose | W+R | 6.5 | 3245 | 7 | 
 | 2021-05-18 | 第9回河燦錫国手杯英才最強戦決勝三番勝負第2局 | Moon Minjong |  | Win | B+R | 6.5 | 3238 | 7 | 
 | 2021-05-17 | 第9回河燦錫国手杯英才最強戦決勝三番勝負第1局 |  | Moon Minjong | Win | W+2.5 | 6.5 | 3231 | -27 | 
@@ -66,8 +65,8 @@
 | 2020-08-19 | 第1期利鵬杯新鋭最高位戦準決勝三番勝負第1局 | Kim Sangcheon | Moon Minjong | Win | W+R | 6.5 | 3637 | 173 | 
 | 2020-08-05 | 第1期利鵬杯新鋭最高位戦8強戦三番勝負第2局 | Moon Minjong |  | Win | B+R | 6.5 | 3464 | 0 | 
 | 2020-08-05 | 第1期利鵬杯新鋭最高位戦8強戦三番勝負第1局 |  | Moon Minjong | Win | W+R | 6.5 | 3464 | 7 | 
-| 2020-08-02 | 第7回グロービス杯世界囲碁U-20決勝 | Li Weiqing | Moon Minjong | Win | W+R | 6.5 | 3457 | 0 | 
-| 2020-08-02 | 第7回グロービス杯世界囲碁U-20準決勝 | Moon Minjong | Liao Yuanhe | Win | B+R | 6.5 | 3457 | 188 | 
+| 2020-08-02 | 第7回グロービス杯世界囲碁U-20準決勝 | Moon Minjong | Liao Yuanhe | Win | B+R | 6.5 | 3457 | 0 | 
+| 2020-08-02 | 第7回グロービス杯世界囲碁U-20決勝 | Li Weiqing | Moon Minjong | Win | W+R | 6.5 | 3457 | 188 | 
 | 2020-08-01 | 第7回グロービス杯世界囲碁U-20 2回戦 | Xie Ke | Moon Minjong | Win | W+R | 6.5 | 3269 | 83 | 
 | 2020-07-07 | 2020陜川歴代英才vs女性頂上連勝対抗戦第4局 | Moon Minjong | Kim Cheayoung | Lose | W+0.5 | 6.5 | 3186 | -114 | 
 | 2020-07-01 | 2020陜川歴代英才vs女性頂上連勝対抗戦第3局 | Moon Minjong | Cho Seungah | Win | B+R | 6.5 | 3300 | 142 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-16 | 第48期天元戦予選 | Cho Chikun | Mimura Tomoyasu | Lose | B+R | 6.5 | 2820 | -190 | 
 | 2021-11-25 | 第78期本因坊戦予選 | Mimura Tomoyasu | Yoda Norimoto | Win | B+R | 6.5 | 3010 | 93 | 
 | 2021-09-07 | 第26回三星火災杯日本予選 | Yoda Norimoto | Mimura Tomoyasu | Lose | B+2.5 | 6.5 | 2917 | -522 | 
 | 2021-03-22 | 第47期碁聖戦予選 | Mimura Tomoyasu | Rin Kaiho | Win | B+R | 6.5 | 3439 | 107 | 
@@ -23,8 +24,8 @@
 | 2019-11-03 | 第2回SGW杯中庸戦1回戦 | Tsuruyama Atsushi | Mimura Tomoyasu | Win | W+R | 6.5 | 2887 | 109 | 
 | 2019-10-31 | 第45期名人戦予選 | Hsu Chiayuan | Mimura Tomoyasu | Lose | B+R | 6.5 | 2778 | -5 | 
 | 2019-10-17 | 第2回SGW杯中庸戦予選決勝  | Yamamori Tadanao | Mimura Tomoyasu | Win | W+4.5 | 6.5 | 2783 | 0 | 
-| 2019-10-17 | 第2回SGW杯中庸戦予選 | Mimura Tomoyasu | Nakane Naoyuki | Win | B+5.5 | 6.5 | 2783 | 0 | 
-| 2019-10-17 | 第2回SGW杯中庸戦予選 |  | Mimura Tomoyasu | Win | W+5.5 | 6.5 | 2783 | 103 | 
+| 2019-10-17 | 第2回SGW杯中庸戦予選 |  | Mimura Tomoyasu | Win | W+5.5 | 6.5 | 2783 | 0 | 
+| 2019-10-17 | 第2回SGW杯中庸戦予選 | Mimura Tomoyasu | Nakane Naoyuki | Win | B+5.5 | 6.5 | 2783 | 103 | 
 | 2019-08-08 | 第44期棋聖戦Cリーグ | Mimura Tomoyasu | Yuki Satoshi | Win | B+R | 6.5 | 2680 | 251 | 
 | 2019-05-09 | 第75期本因坊戦予選 | Mimura Tomoyasu | Cho U | Lose | W+R | 6.5 | 2429 | -200 | 
 | 2018-12-09 | 第1回SGW杯中庸戦4回戦 | Mimura Tomoyasu | Shuto Shun | Lose | W+R | 6.5 | 2629 | 0 | 

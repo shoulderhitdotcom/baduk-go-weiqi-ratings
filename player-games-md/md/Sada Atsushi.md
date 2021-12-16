@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-16 | 第77期本因坊戦リーグ | Sada Atsushi | Hane Naoki | Lose | W+R | 6.5 | 3123 | -45 | 
 | 2021-12-09 | 第60期十段戦3回戦 | Fujisawa Rina | Sada Atsushi | Win | W+R | 6.5 | 3168 | 22 | 
 | 2021-12-01 | 第48期天元戦予選 | Sada Atsushi | Hoshikawa Takumi | Win | B+R | 6.5 | 3146 | -5 | 
 | 2021-11-18 | 第60期十段戦2回戦 | Sada Atsushi | Ida Atsushi | Win | B+R | 6.5 | 3151 | 12 | 
@@ -85,11 +86,11 @@
 | 2019-02-27 | 第44期棋聖戦ファーストトーナメント決勝 | Nakano Yasuhiro | Sada Atsushi | Lose | B+R | 6.5 | 2580 | -88 | 
 | 2019-02-20 | 第75期本因坊戦予選B | Hatanaka Hoshinobu | Sada Atsushi | Win | W+R | 6.5 | 2668 | -61 | 
 | 2018-12-12 | 第44期新人王戦予選 |  | Sada Atsushi | Lose | B+4.5 | 6.5 | 2729 | -61 | 
-| 2018-11-25 | 国民文化祭大分囲碁祭りプロアマトーナメント戦三位決定戦 | Sada Atsushi | Ohashi Naruya | Win | B+R | 6.5 | 2790 | 0 | 
-| 2018-11-25 | 国民文化祭大分囲碁祭りプロアマトーナメント戦準決勝 | Sada Atsushi | Yuki Satoshi | Lose | W+5.5 | 6.5 | 2790 | -41 | 
+| 2018-11-25 | 国民文化祭大分囲碁祭りプロアマトーナメント戦準決勝 | Sada Atsushi | Yuki Satoshi | Lose | W+5.5 | 6.5 | 2790 | 0 | 
+| 2018-11-25 | 国民文化祭大分囲碁祭りプロアマトーナメント戦三位決定戦 | Sada Atsushi | Ohashi Naruya | Win | B+R | 6.5 | 2790 | -41 | 
 | 2018-11-17 | 第13回広島アルミ杯・若鯉戦1回戦 | Koike Yoshihiro | Sada Atsushi | Lose | B+2.5 | 6.5 | 2831 | -69 | 
-| 2018-11-09 | 第3回谷口杯トーナメント本戦決勝 | Taniguchi Tooru | Sada Atsushi | Win | W+0.5 | 6.5 | 2900 | 0 | 
-| 2018-11-09 | 第3回谷口杯トーナメント本戦準決勝 |  | Sada Atsushi | Win | W+3.5 | 6.5 | 2900 | -62 | 
+| 2018-11-09 | 第3回谷口杯トーナメント本戦準決勝 |  | Sada Atsushi | Win | W+3.5 | 6.5 | 2900 | 0 | 
+| 2018-11-09 | 第3回谷口杯トーナメント本戦決勝 | Taniguchi Tooru | Sada Atsushi | Win | W+0.5 | 6.5 | 2900 | -62 | 
 | 2018-08-30 | 第43期棋聖戦Cリーグ | Ida Atsushi | Sada Atsushi | Lose | B+R | 6.5 | 2962 | -14 | 
 | 2018-05-05 | 関西合宿団体戦決勝 | Sada Atsushi | Seki Kotaro | Win | B+R | 6.5 | 2976 | -22 | 
 | 2018-03-07 | 第62期関西棋院第一位決定戦本戦2回戦 | Sada Atsushi | Nishi Takenobu | Win | B+2.5 | 6.5 | 2998 | 52 | 
@@ -146,12 +147,12 @@
 | 2015-06-04 | 第71期本因坊戦予選 | Seto Taiki | Sada Atsushi | Lose | B+1.5 | 6.5 | 2770 | -129 | 
 | 2015-05-09 | 第2回グロービス杯世界囲碁U-20準々決勝 | Sada Atsushi | Li Qincheng | Lose | W+6.5 | 6.5 | 2899 | 0 | 
 | 2015-05-09 | 第2回グロービス杯世界囲碁U-20グループリーグD | Sada Atsushi | Koyama Kuya | Win | B+2.5 | 6.5 | 2899 | -4 | 
-| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグD | Sada Atsushi | Krit Jamkachornkiat | Win | B+T | 6.5 | 2903 | 0 | 
-| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグD | Sada Atsushi | Na Hyun | Lose | W+R | 6.5 | 2903 | 104 | 
+| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグD | Sada Atsushi | Na Hyun | Lose | W+R | 6.5 | 2903 | 0 | 
+| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグD | Sada Atsushi | Krit Jamkachornkiat | Win | B+T | 6.5 | 2903 | 104 | 
 | 2015-04-09 | 第63期王座戦予選 | Tsuruta Kazushi | Sada Atsushi | Lose | B+0.5 | 6.5 | 2799 | -84 | 
 | 2015-04-01 | 第71期本因坊戦予選 | Aragaki Shun | Sada Atsushi | Win | W+R | 6.5 | 2883 | -101 | 
-| 2015-03-17 | 第2回グロービス杯国内予選 | Yao Zhiteng | Sada Atsushi | Win | W+R | 6.5 | 2984 | 0 | 
 | 2015-03-17 | 第2回グロービス杯国内予選 | Hoshiai Shiho | Sada Atsushi | Win | W+R | 6.5 | 2984 | 0 | 
+| 2015-03-17 | 第2回グロービス杯国内予選 | Yao Zhiteng | Sada Atsushi | Win | W+R | 6.5 | 2984 | 0 | 
 | 2015-03-17 | 第2回グロービス杯国内予選 | Sada Atsushi | Hsu Chiayuan | Win | B+1.5 | 6.5 | 2984 | 281 | 
 | 2015-03-11 | 第59期関西棋院第一位決定戦本戦2回戦 | Kurahashi Masayuki | Sada Atsushi | Lose | B+R | 6.5 | 2703 | -213 | 
 | 2015-02-19 | 第40期新人王戦1回戦 | Sada Atsushi | Motoki Katsuya | Lose | W+R | 6.5 | 2916 | -90 | 

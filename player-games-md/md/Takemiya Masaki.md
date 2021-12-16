@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-16 | 第78期本因坊戦予選 | Takemiya Masaki | O Meien | Lose | W+10.5 | 6.5 | 2715 | -10 | 
 | 2021-12-02 | 第48期天元戦予選 | Ueno Asami | Takemiya Masaki | Lose | B+4.5 | 6.5 | 2725 | -21 | 
 | 2021-11-18 | 第78期本因坊戦予選 | Kato Atsushi | Takemiya Masaki | Win | W+5.5 | 6.5 | 2746 | -26 | 
 | 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Cho Hunhyun | Takemiya Masaki | Win | W+2¼ | 7.5 | 2772 | 194 | 
@@ -46,8 +47,8 @@
 | 2019-07-25 | 第45期名人戦予選 | Onishi Ryuhei | Takemiya Masaki | Lose | B+2.5 | 6.5 | 2372 | -7 | 
 | 2019-06-12 | 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | Liu Xiaoguang | Takemiya Masaki | Lose | B+R | 6.5 | 2379 | -42 | 
 | 2019-06-11 | 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | Takemiya Masaki | Yang Jaeho | Lose | W+1.5 | 6.5 | 2421 | -19 | 
-| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | Yoda Norimoto | Takemiya Masaki | Lose | B+T | 6.5 | 2440 | 0 | 
-| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | Takemiya Masaki | Rin Kaiho | Win | B+T | 6.5 | 2440 | -15 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | Takemiya Masaki | Rin Kaiho | Win | B+T | 6.5 | 2440 | 0 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | Yoda Norimoto | Takemiya Masaki | Lose | B+T | 6.5 | 2440 | -15 | 
 | 2019-06-08 | 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Takemiya Masaki | Cho Chikun | Win | B+R | 6.5 | 2455 | 90 | 
 | 2019-05-09 | 第68期王座戦予選 | Ko Reibun | Takemiya Masaki | Win | W+R | 6.5 | 2365 | 3 | 
 | 2019-05-02 | 第58期十段戦予選 | Morita Michihiro | Takemiya Masaki | Lose | B+1.5 | 6.5 | 2362 | -35 | 

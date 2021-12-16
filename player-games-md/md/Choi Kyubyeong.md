@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-16 | 2021韓国シニア囲碁リーグ優勝決定戦第2戦 | Choi Kyubyeong | Kim Ilhwan | Win | B+7.5 | 6.5 | 2686 | 11 | 
 | 2021-12-15 | 2021韓国シニア囲碁リーグ優勝決定戦第1戦 | Choi Kyubyeong | Kim Ilhwan | Win | B+11.5 | 6.5 | 2675 | -30 | 
 | 2021-11-23 | 2021韓国シニア囲碁リーグ | Kim Chuljung | Choi Kyubyeong | Lose | B+0.5 | 6.5 | 2705 | -52 | 
 | 2021-11-17 | 2021韓国シニア囲碁リーグ | Choi Kyubyeong | Park Seungmun | Lose | W+1.5 | 6.5 | 2757 | -10 | 

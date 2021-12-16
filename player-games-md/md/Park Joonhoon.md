@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-16 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Lee Wonyoung | Lose | W+R | 6.5 | 3411 | -44 | 
+| 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Han Sanghoon | Win | B+R | 6.5 | 3455 | 53 | 
 | 2021-11-27 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Park Joonhoon | Win | W+R | 6.5 | 3402 | 71 | 
 | 2021-11-18 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Kim Myounghoon | Win | B+2.5 | 6.5 | 3331 | -144 | 
 | 2021-05-01 | 第26回LG杯韓国予選 | Na Hyun | Park Joonhoon | Win | W+R | 6.5 | 3475 | -27 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-16 | 第48期天元戦予選 | Cho Chikun | Mimura Tomoyasu | Win | B+R | 6.5 | 2807 | -21 | 
 | 2021-11-29 | 第48期天元戦予選 | Oya Koichi | Cho Chikun | Win | W+R | 6.5 | 2828 | -62 | 
 | 2021-11-01 | 第61期十段戦予選 | Koyama Kuya | Cho Chikun | Lose | B+R | 6.5 | 2890 | 15 | 
 | 2021-10-25 | 第78期本因坊予選 | Cho Chikun |  | Lose | W+0.5 | 6.5 | 2875 | -140 | 

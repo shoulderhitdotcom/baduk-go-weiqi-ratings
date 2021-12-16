@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-16 | 2021-2022韓国囲碁リーグ | Na Hyun | Kim Jiseok | Lose | W+3.5 | 6.5 | 3168 | -81 | 
+| 2021-12-05 | 2021-2022韓国囲碁リーグ | Na Hyun | Kim Sedong | Lose | W+R | 6.5 | 3249 | -7 | 
 | 2021-11-27 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Na Hyun | Lose | B+R | 6.5 | 3256 | -32 | 
 | 2021-11-18 | 2021-2022韓国囲碁リーグ | Song Gyusang | Na Hyun | Lose | B+R | 6.5 | 3288 | -35 | 
 | 2021-09-08 | 第3期ソパルコサノル最高棋士決定戦予選 | Choi Jaeyoung | Na Hyun | Lose | B+0.5 | 6.5 | 3323 | -30 | 
@@ -29,8 +31,8 @@
 | 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Na Hyun | Chen Zijian | Lose | W+R | 7.5 | 3598 | -3 | 
 | 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Chen Zijian | Na Hyun | Lose | B+R | 7.5 | 3601 | 0 | 
 | 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Na Hyun | Ke Jie | Lose | W+R | 7.5 | 3601 | 4 | 
-| 2020-12-17 | 2020-2021韓国囲碁リーグ | Na Hyun | Byun Sangil | Lose | W+R | 6.5 | 3597 | 0 | 
-| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Na Hyun | Tu Xiaoyu | Win | B+R | 7.5 | 3597 | -49 | 
+| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Na Hyun | Tu Xiaoyu | Win | B+R | 7.5 | 3597 | 0 | 
+| 2020-12-17 | 2020-2021韓国囲碁リーグ | Na Hyun | Byun Sangil | Lose | W+R | 6.5 | 3597 | -49 | 
 | 2020-12-12 | 第22回中国囲碁甲級リーグ | Wang Shiyi | Na Hyun | Win | W+R | 7.5 | 3646 | 3 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Rong Yi | Na Hyun | Lose | B+R | 7.5 | 3643 | -3 | 
 | 2020-12-10 | 2020-2021韓国囲碁リーグ | Na Hyun | Lee Wonyoung | Lose | W+R | 6.5 | 3646 | -18 | 
@@ -170,8 +172,8 @@
 | 2017-10-06 | 2017年韓国囲碁リーグ | Na Hyun | Kang Dongyun | Win | B+R | 6.5 | 3361 | 6 | 
 | 2017-10-01 | 2017年韓国囲碁リーグ | Na Hyun | Mok Jinseok | Win | B+R | 6.5 | 3355 | 29 | 
 | 2017-09-22 | 2017年韓国囲碁リーグ | Kang Yootaek | Na Hyun | Lose | B+0.5 | 6.5 | 3326 | -7 | 
-| 2017-09-17 | 第29回テレビアジア選手権決勝 | Lee Sedol | Na Hyun | Win | W+R | 7.5 | 3333 | 0 | 
-| 2017-09-17 | 第29回テレビアジア選手権準決勝 | Na Hyun | Ichiriki Ryo | Win | B+R | 7.5 | 3333 | 34 | 
+| 2017-09-17 | 第29回テレビアジア選手権準決勝 | Na Hyun | Ichiriki Ryo | Win | B+R | 7.5 | 3333 | 0 | 
+| 2017-09-17 | 第29回テレビアジア選手権決勝 | Lee Sedol | Na Hyun | Win | W+R | 7.5 | 3333 | 34 | 
 | 2017-09-16 | 第29回テレビアジア選手権1回戦 | Li Xuanhao | Na Hyun | Win | W+4.5 | 7.5 | 3299 | 12 | 
 | 2017-09-03 | 2017年韓国囲碁リーグ | Na Hyun | Ahn Kukhyun | Win | B+R | 6.5 | 3287 | -12 | 
 | 2017-08-20 | 2017年韓国囲碁リーグ | Na Hyun | Kim Jiseok | Lose | W+R | 6.5 | 3299 | -6 | 
@@ -253,8 +255,8 @@
 | 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Na Hyun | Wang Xi | Win | B+R | 7.5 | 3459 | -7 | 
 | 2015-05-17 | 2015年韓国囲碁リーグ | Kim Jiseok | Na Hyun | Win | W+R | 6.5 | 3466 | 10 | 
 | 2015-05-16 | 第17回中国囲碁甲級リーグ第4節 | Zhou Hexi | Na Hyun | Lose | B+R | 7.5 | 3456 | 13 | 
-| 2015-05-10 | 第2回グロービス杯世界囲碁U-20決勝 | Na Hyun | Huang Yunsong | Lose | W+R | 6.5 | 3443 | 0 | 
-| 2015-05-10 | 第2回グロービス杯世界囲碁U-20準決勝 | Na Hyun | Li Qincheng | Win | B+R | 6.5 | 3443 | 15 | 
+| 2015-05-10 | 第2回グロービス杯世界囲碁U-20準決勝 | Na Hyun | Li Qincheng | Win | B+R | 6.5 | 3443 | 0 | 
+| 2015-05-10 | 第2回グロービス杯世界囲碁U-20決勝 | Na Hyun | Huang Yunsong | Lose | W+R | 6.5 | 3443 | 15 | 
 | 2015-05-09 | 第2回グロービス杯世界囲碁U-20準々決勝 | Yang Dingxin | Na Hyun | Win | W+R | 6.5 | 3428 | -11 | 
 | 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグD | Koyama Kuya | Na Hyun | Win | W+R | 6.5 | 3439 | 0 | 
 | 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグD | Sada Atsushi | Na Hyun | Win | W+R | 6.5 | 3439 | 11 | 
@@ -316,8 +318,8 @@
 | 2014-05-14 | 第10期物価情報杯プロ棋戦リーグA | Na Hyun | Lee Sedol | Lose | W+R | 6.5 | 3166 | 9 | 
 | 2014-05-10 | 第1回グロービス杯世界囲碁U-20準々決勝 | Na Hyun | Ichiriki Ryo | Lose | W+R | 6.5 | 3157 | 0 | 
 | 2014-05-10 | 第1回グロービス杯世界囲碁U-20グループリーグA | Ida Atsushi | Na Hyun | Win | W+R | 6.5 | 3157 | -8 | 
-| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグA | Ida Atsushi | Na Hyun | Win | W+1.5 | 6.5 | 3165 | 0 | 
-| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグA | Xia Chenkun | Na Hyun | Lose | B+R | 6.5 | 3165 | -5 | 
+| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグA | Xia Chenkun | Na Hyun | Lose | B+R | 6.5 | 3165 | 0 | 
+| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグA | Ida Atsushi | Na Hyun | Win | W+1.5 | 6.5 | 3165 | -5 | 
 | 2014-05-01 | 2014年韓国囲碁リーグ | Na Hyun | Kim Sedong | Lose | W+T | 6.5 | 3170 | -137 | 
 | 2014-04-24 | 2014年韓国囲碁リーグ | Kim Sonjin | Na Hyun | Lose | B+R | 6.5 | 3307 | 7 | 
 | 2014-03-23 | 第4期招商地産杯中韓囲棋団体対抗戦第2戦 | Na Hyun | Fan Tingyu | Win | B+R | 7.5 | 3300 | 15 | 

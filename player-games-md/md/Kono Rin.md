@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-16 | 第48期天元戦予選 | Suzuki Shinji | Kono Rin | Lose | B+R | 6.5 | 3002 | -37 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Kono Rin | Byun Sangil | Lose | W+R | 6.5 | 3039 | 1 | 
 | 2021-12-04 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦 | Lai Junfu | Kono Rin | Win | W+1.5 | 6.5 | 3038 | 0 | 
 | 2021-12-04 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦 | Wang Yuanjun | Kono Rin | Lose | B+R | 6.5 | 3038 | 29 | 
@@ -154,8 +155,8 @@
 | 2018-05-03 | 第43期名人戦リーグ | Kono Rin | Yu Zhengqi | Win | B+R | 7.5 | 3106 | 40 | 
 | 2018-04-19 | 第43期棋聖戦Sリーグ | Kono Rin | Ichiriki Ryo | Win | B+R | 7.5 | 3066 | 33 | 
 | 2018-04-05 | 第43期名人戦リーグ | Cho U | Kono Rin | Lose | B+R | 6.5 | 3033 | -11 | 
-| 2018-03-31 | 第5回グランドチャンピオン戦決勝 | Iyama Yuta | Kono Rin | Lose | B+R | 6.5 | 3044 | 0 | 
-| 2018-03-31 | 第5回グランドチャンピオン戦準決勝  | Ichiriki Ryo | Kono Rin | Win | W+0.5 | 6.5 | 3044 | -1 | 
+| 2018-03-31 | 第5回グランドチャンピオン戦準決勝  | Ichiriki Ryo | Kono Rin | Win | W+0.5 | 6.5 | 3044 | 0 | 
+| 2018-03-31 | 第5回グランドチャンピオン戦決勝 | Iyama Yuta | Kono Rin | Lose | B+R | 6.5 | 3044 | -1 | 
 | 2018-03-15 | 第44期天元戦2回戦 | Kono Rin | Akiyama Jiro | Win | B+R | 6.5 | 3045 | -14 | 
 | 2018-03-12 | 第5回グランドチャンピオン戦3回戦 | Kono Rin | Takao Shinji | Win | B+6.5 | 6.5 | 3059 | 0 | 
 | 2018-03-12 | 第5回グランドチャンピオン戦2回戦 | Kono Rin | Shibano Toramaru | Win | B+R | 6.5 | 3059 | 52 | 

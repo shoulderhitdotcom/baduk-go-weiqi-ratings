@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-16 | 2021韓国シニア囲碁リーグ優勝決定戦第2戦 | An Kwanwuk | Kang Hun | Win | W+1.5 | 6.5 | 2567 | 28 | 
 | 2021-12-15 | 2021韓国シニア囲碁リーグ優勝決定戦第1戦 | An Kwanwuk | Kang Hun | Win | W+3.5 | 6.5 | 2539 | 69 | 
 | 2021-11-23 | 2021韓国シニア囲碁リーグ | Chang Suyeong | Kang Hun | Win | W+6.5 | 6.5 | 2470 | -47 | 
 | 2021-11-17 | 2021韓国シニア囲碁リーグ | Kim Kihun | Kang Hun | Win | W+0.5 | 6.5 | 2517 | 141 | 

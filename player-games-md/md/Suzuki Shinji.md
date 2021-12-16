@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-16 | 第48期天元戦予選 | Suzuki Shinji | Kono Rin | Win | B+R | 6.5 | 3281 | 1 | 
+| 2021-10-21 | 第47期碁聖戦予選 | Suzuki Shinji | Seki Kotaro | Win | B+7.5 | 6.5 | 3280 | -64 | 
 | 2021-08-23 | 第46期棋聖戦Aリーグ | Cho U | Suzuki Shinji | Lose | B+R | 6.5 | 3344 | 8 | 
 | 2021-07-22 | 第46期棋聖戦Aリーグ | Suzuki Shinji | Shibano Toramaru | Lose | W+R | 6.5 | 3336 | 79 | 
 | 2021-05-06 | 第46期棋聖戦Aリーグ | Mutsuura Yuta | Suzuki Shinji | Win | W+R | 6.5 | 3257 | 23 | 
@@ -64,12 +66,12 @@
 | 2017-04-03 | 第42期新人王戦　本戦2回戦 | Bian Wenkai | Suzuki Shinji | Win | W+R | 6.5 | 2828 | 163 | 
 | 2017-03-06 | 第42期新人王戦　本戦1回戦 | Obuchi Kotaro | Suzuki Shinji | Win | W+R | 6.5 | 2665 | 41 | 
 | 2017-02-16 | 第56期十段戦　予選A | Kobayashi Satoru | Suzuki Shinji | Lose | B+R | 6.5 | 2624 | -2 | 
-| 2017-01-21 | 台湾精鋭日本精鋭交流戦5回戦 | Suzuki Shinji | Chen Qirui | Lose | W+9.5 | 6.5 | 2626 | 0 | 
-| 2017-01-21 | 台湾精鋭日本精鋭交流戦6回戦 | Suzuki Shinji | Xu Haohong | Win | B+1.5 | 6.5 | 2626 | 10 | 
+| 2017-01-21 | 台湾精鋭日本精鋭交流戦6回戦 | Suzuki Shinji | Xu Haohong | Win | B+1.5 | 6.5 | 2626 | 0 | 
+| 2017-01-21 | 台湾精鋭日本精鋭交流戦5回戦 | Suzuki Shinji | Chen Qirui | Lose | W+9.5 | 6.5 | 2626 | 10 | 
 | 2017-01-20 | 台湾精鋭日本精鋭交流戦4回戦 | Suzuki Shinji | Jian Jingting | Win | B+R | 6.5 | 2616 | 0 | 
 | 2017-01-20 | 台湾精鋭日本精鋭交流戦3回戦 | Suzuki Shinji | Lin Shixun | Win | B+R | 6.5 | 2616 | 74 | 
-| 2017-01-19 | 台湾精鋭日本精鋭交流戦1回戦 | Suzuki Shinji | Lin Shuyang | Lose | W+R | 6.5 | 2542 | 0 | 
-| 2017-01-19 | 台湾精鋭日本精鋭交流戦2回戦 | Chen Shiyuan | Suzuki Shinji | Win | W+R | 6.5 | 2542 | -112 | 
+| 2017-01-19 | 台湾精鋭日本精鋭交流戦2回戦 | Chen Shiyuan | Suzuki Shinji | Win | W+R | 6.5 | 2542 | 0 | 
+| 2017-01-19 | 台湾精鋭日本精鋭交流戦1回戦 | Suzuki Shinji | Lin Shuyang | Lose | W+R | 6.5 | 2542 | -112 | 
 | 2016-11-03 | 第43期天元戦　予選A第2局 | Suzuki Shinji | Kono Rin | Lose | W+R | 6.5 | 2654 | 25 | 
 | 2016-10-20 | 第65期王座戦予選 | O Meien | Suzuki Shinji | Win | W+3.5 | 6.5 | 2629 | 34 | 
 | 2016-08-11 | 第42期碁聖戦予選 | O Rissei | Suzuki Shinji | Lose | B+R | 6.5 | 2595 | -63 | 
@@ -119,8 +121,8 @@
 | 2013-05-23 | 第38期新人王戦2回戦 | Suzuki Shinji | Mukai Chiaki | Win | B+R | 6.5 | 2799 | 118 | 
 | 2013-03-07 | 第69期本因坊戦予選 | Fujisawa Rina | Suzuki Shinji | Lose | B+R | 6.5 | 2681 | -33 | 
 | 2013-01-24 | 第38期新人王戦1回戦 | Suzuki Shinji | Sada Atsushi | Win | B+R | 6.5 | 2714 | -166 | 
-| 2012-11-18 | 第7回広島アルミ杯・若鯉戦決勝 | Suzuki Shinji | Ichiriki Ryo | Win | B+R | 6.5 | 2880 | 0 | 
-| 2012-11-18 | 第7回広島アルミ杯・若鯉戦準決勝 | Shida Tatsuya | Suzuki Shinji | Win | W+R | 6.5 | 2880 | 288 | 
+| 2012-11-18 | 第7回広島アルミ杯・若鯉戦準決勝 | Shida Tatsuya | Suzuki Shinji | Win | W+R | 6.5 | 2880 | 0 | 
+| 2012-11-18 | 第7回広島アルミ杯・若鯉戦決勝 | Suzuki Shinji | Ichiriki Ryo | Win | B+R | 6.5 | 2880 | 288 | 
 | 2012-11-17 | 第7回広島アルミ杯・若鯉戦2回戦 | Muramatsu Hiroki | Suzuki Shinji | Win | W+R | 6.5 | 2592 | 0 | 
 | 2012-11-17 | 第7回広島アルミ杯・若鯉戦1回戦 | Fujisawa Rina | Suzuki Shinji | Win | W+R | 6.5 | 2592 | 193 | 
 | 2012-09-13 | 第38期碁聖戦予選 | Kobayashi Satoru | Suzuki Shinji | Lose | B+0.5 | 6.5 | 2399 | -25 | 

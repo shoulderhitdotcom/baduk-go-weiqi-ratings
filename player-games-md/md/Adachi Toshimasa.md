@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-16 | 第60期十段戦3回戦 | Adachi Toshimasa | Otake Yu | Win | B+1.5 | 6.5 | 3450 | 93 | 
 | 2021-10-25 | 第60期十段戦2回戦 | Adachi Toshimasa | Iyama Yuta | Win | B+R | 6.5 | 3357 | 88 | 
 | 2021-10-14 | 第60期十段戦1回戦 | Anzai Nobuaki | Adachi Toshimasa | Win | W+R | 6.5 | 3269 | 114 | 
 | 2021-09-23 | 第60期十段戦予選 | Hane Naoki | Adachi Toshimasa | Win | W+R | 6.5 | 3155 | -3 | 
@@ -36,8 +37,8 @@
 | 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第1戦 |  | Adachi Toshimasa | Win | W+R | 6.5 | 3192 | 314 | 
 | 2019-12-05 | 第46期天元戦予選 | Adachi Toshimasa | Tsuruyama Atsushi | Win | B+R | 6.5 | 2878 | 22 | 
 | 2019-11-07 | 第45期名人戦予選 | Adachi Toshimasa | Rin Kanketsu | Lose | W+2.5 | 6.5 | 2856 | 10 | 
-| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Xu Haohong | Adachi Toshimasa | Lose | B+1.5 | 6.5 | 2846 | 0 | 
-| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦第3戦 | Adachi Toshimasa | Lee Jihyun | Lose | W+R | 6.5 | 2846 | -15 | 
+| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦第3戦 | Adachi Toshimasa | Lee Jihyun | Lose | W+R | 6.5 | 2846 | 0 | 
+| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Xu Haohong | Adachi Toshimasa | Lose | B+1.5 | 6.5 | 2846 | -15 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第2戦 | Xu Haohong | Adachi Toshimasa | Lose | B+R | 6.5 | 2861 | 0 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第1戦 | Adachi Toshimasa | Xu Jiayang | Lose | W+R | 6.5 | 2861 | 8 | 
 | 2019-10-10 | 第68期王座戦予選 | Akiyama Jiro | Adachi Toshimasa | Lose | B+R | 6.5 | 2853 | -53 | 
@@ -49,8 +50,8 @@
 | 2019-06-20 | 第26期阿含・桐山杯全日本早碁オープン戦1回戦 | Adachi Toshimasa | Cho U | Lose | W+R | 6.5 | 2933 | -18 | 
 | 2019-06-06 | 第44期棋聖戦Bリーグ | Adachi Toshimasa | O Meien | Win | B+7.5 | 6.5 | 2951 | 44 | 
 | 2019-05-30 | 第26期阿含・桐山杯全日本早碁オープン戦予選 | Yamada Kimio | Adachi Toshimasa | Win | W+R | 6.5 | 2907 | -11 | 
-| 2019-05-15 | 第10回おかげ杯囲碁トーナメント戦決勝  | Adachi Toshimasa | Shibano Toramaru | Lose | W+R | 6.5 | 2918 | 0 | 
-| 2019-05-15 | 第10回おかげ杯囲碁トーナメント戦準決勝  | Adachi Toshimasa | Hsu Chiayuan | Win | B+R | 6.5 | 2918 | 46 | 
+| 2019-05-15 | 第10回おかげ杯囲碁トーナメント戦準決勝  | Adachi Toshimasa | Hsu Chiayuan | Win | B+R | 6.5 | 2918 | 0 | 
+| 2019-05-15 | 第10回おかげ杯囲碁トーナメント戦決勝  | Adachi Toshimasa | Shibano Toramaru | Lose | W+R | 6.5 | 2918 | 46 | 
 | 2019-05-14 | 第10回おかげ杯囲碁トーナメント戦2回戦 | Adachi Toshimasa | Ueno Asami | Win | B+R | 6.5 | 2872 | 0 | 
 | 2019-05-14 | 第10回おかげ杯囲碁トーナメント戦1回戦 | Tsuruta Kazushi | Adachi Toshimasa | Win | W+R | 6.5 | 2872 | 98 | 
 | 2019-02-28 | 第44期棋聖戦Bリーグ | Yamada Kimio | Adachi Toshimasa | Win | W+R | 6.5 | 2774 | -158 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-16 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | Park Junghwan | Lose | B+2.5 | 6.5 | 3655 | -28 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦  | Park Junghwan | Xu Haohong | Lose | W+R | 6.5 | 3683 | -23 | 
 | 2021-12-08 | 第27回GSカルテックス杯プロ棋戦予選 | Park Junghwan | Baek Chanhee | Win | B+R | 6.5 | 3706 | -17 | 
 | 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Junghwan | Shin Minjun | Win | B+R | 6.5 | 3723 | 16 | 
@@ -90,12 +91,12 @@
 | 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Park Junghwan | Li Qincheng | Win | B+R | 7.5 | 3908 | 8 | 
 | 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Lian Xiao | Park Junghwan | Lose | B+R | 7.5 | 3900 | 5 | 
 | 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Weijie | Park Junghwan | Lose | B+R | 7.5 | 3895 | -3 | 
-| 2020-12-20 | 2020-2021韓国囲碁リーグ | Shin Jinseo | Park Junghwan | Win | W+R | 6.5 | 3898 | 0 | 
-| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Park Junghwan | Win | W+R | 7.5 | 3898 | -31 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Park Junghwan | Win | W+R | 7.5 | 3898 | 0 | 
+| 2020-12-20 | 2020-2021韓国囲碁リーグ | Shin Jinseo | Park Junghwan | Win | W+R | 6.5 | 3898 | -31 | 
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Park Junghwan | Shi Yue | Win | B+¾ | 7.5 | 3929 | -9 | 
 | 2020-12-12 | 第22回中国囲碁甲級リーグ | Zhao Chenyu | Park Junghwan | Win | W+R | 7.5 | 3938 | 0 | 
-| 2020-12-11 | 2020-2021韓国囲碁リーグ | Park Junghwan | Kang Dongyun | Win | B+R | 6.5 | 3938 | 0 | 
-| 2020-12-11 | 第22回中国囲碁甲級リーグ | Zhang Qiang | Park Junghwan | Win | W+R | 7.5 | 3938 | 13 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Zhang Qiang | Park Junghwan | Win | W+R | 7.5 | 3938 | 0 | 
+| 2020-12-11 | 2020-2021韓国囲碁リーグ | Park Junghwan | Kang Dongyun | Win | B+R | 6.5 | 3938 | 13 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Fan Tingyu | Park Junghwan | Win | W+R | 7.5 | 3925 | -7 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Park Junghwan | Li Weiqing | Win | B+R | 7.5 | 3932 | 12 | 
 | 2020-12-07 | 第22回中国囲碁甲級リーグ | Lian Xiao | Park Junghwan | Win | W+R | 7.5 | 3920 | 2 | 
@@ -160,8 +161,8 @@
 | 2020-01-24 | 2019-2020韓国囲碁リーグ第17節第2試合第2局 | Lee Yeongkyu | Park Junghwan | Lose | B+R | 6.5 | 3747 | -5 | 
 | 2020-01-22 | 第8回CCTV賀歳杯中日韓新春囲碁争覇戦決勝 | Park Junghwan | Ke Jie | Win | B+R | 7.5 | 3752 | -5 | 
 | 2020-01-20 | 第8回CCTV賀歳杯中日韓新春囲碁争覇戦第1戦 | Ke Jie | Park Junghwan | Win | W+¼ | 7.5 | 3757 | -1 | 
-| 2020-01-16 | 2019-2020韓国囲碁リーグ第16節第1試合第5局 | Lee Changseok | Park Junghwan | Win | W+0.5 | 6.5 | 3758 | 0 | 
 | 2020-01-16 | 第3期韓国竜星戦32強戦 | Kim Seungjun | Park Junghwan | Win | W+R | 6.5 | 3758 | 0 | 
+| 2020-01-16 | 2019-2020韓国囲碁リーグ第16節第1試合第5局 | Lee Changseok | Park Junghwan | Win | W+0.5 | 6.5 | 3758 | 0 | 
 | 2020-01-15 | 第3期韓国竜星戦32強戦 | Lee Changho | Park Junghwan | Win | W+R | 6.5 | 3758 | 6 | 
 | 2020-01-12 | 2019-2020韓国囲碁リーグ第15節第4試合第3局 | Park Junghwan | Park Sangjin | Win | B+R | 6.5 | 3752 | 0 | 
 | 2020-01-03 | 2019-2020韓国囲碁リーグ第14節第2試合第3局 | Choi Jeong | Park Junghwan | Win | W+R | 6.5 | 3752 | 335 | 
@@ -342,8 +343,8 @@
 | 2017-12-24 | 第1回クラウン・ヘテ杯2回戦 | Park Junghwan | Park Geunho | Win | B+R | 6.5 | 3614 | 0 | 
 | 2017-12-23 | 第1回クラウン・ヘテ杯1回戦 | Park Junghwan |  | Win | B+R | 6.5 | 3614 | 3 | 
 | 2017-12-19 | 第36回KBS杯囲碁王戦16強戦 | Park Junghwan | Lee Yeongkyu | Win | B+R | 6.5 | 3611 | 2 | 
-| 2017-12-15 | 第2回IMSAエリートマインドゲームズ個人早碁戦決勝 | Park Junghwan | Ke Jie | Lose | W+R | 7.5 | 3609 | 0 | 
-| 2017-12-15 | 第2回IMSAエリートマインドゲームズ個人早碁戦準決勝 | Park Junghwan | Shibano Toramaru | Win | B+R | 7.5 | 3609 | 14 | 
+| 2017-12-15 | 第2回IMSAエリートマインドゲームズ個人早碁戦準決勝 | Park Junghwan | Shibano Toramaru | Win | B+R | 7.5 | 3609 | 0 | 
+| 2017-12-15 | 第2回IMSAエリートマインドゲームズ個人早碁戦決勝 | Park Junghwan | Ke Jie | Lose | W+R | 7.5 | 3609 | 14 | 
 | 2017-12-14 | 第2回IMSAエリートマインドゲームズ個人早碁戦予選 | Chen Shiyuan | Park Junghwan | Win | W+R | 7.5 | 3595 | 0 | 
 | 2017-12-14 | 第2回IMSAエリートマインドゲームズ個人早碁戦予選 |  | Park Junghwan | Win | W+R | 7.5 | 3595 | 2 | 
 | 2017-12-13 | 第2回IMSAエリートマインドゲームズ男子団体戦第4節 | Park Junghwan | Wang Yuanjun | Win | B+R | 7.5 | 3593 | -4 | 
@@ -411,8 +412,8 @@
 | 2017-01-03 | Alphago Online Series on Tygem and Fox 48 | Park Junghwan |  | Lose | W+1.5 | 6.5 | 3246 | 0 | 
 | 2016-12-31 | Alphago Online Series on Tygem and Fox 25 | Park Junghwan |  | Lose | W+0.5 | 6.5 | 3246 | 0 | 
 | 2016-12-31 | Alphago Online Series on Tygem and Fox 24 |  | Park Junghwan | Lose | B+R | 6.5 | 3246 | -2 | 
-| 2016-12-30 | Alphago Online Series on Tygem and Fox 15 | Park Junghwan |  | Lose | W+T | 6.5 | 3248 | 0 | 
-| 2016-12-30 | Alphago Online Series on Tygem and Fox 20 |  | Park Junghwan | Lose | B+5.5 | 6.5 | 3248 | 14 | 
+| 2016-12-30 | Alphago Online Series on Tygem and Fox 20 |  | Park Junghwan | Lose | B+5.5 | 6.5 | 3248 | 0 | 
+| 2016-12-30 | Alphago Online Series on Tygem and Fox 15 | Park Junghwan |  | Lose | W+T | 6.5 | 3248 | 14 | 
 | 2016-12-10 | 2016年韓国囲碁リーグ | Park Junghwan | Byun Sangil | Win | B+R | 6.5 | 3234 | -8 | 
 | 2016-12-04 | 2016年韓国囲碁リーグ | Park Junghwan | Na Hyun | Win | B+R | 6.5 | 3242 | 4 | 
 | 2016-12-02 | 2016年韓国囲碁リーグ | Park Junghwan |  | Win | B+R | 6.5 | 3238 | 2 | 
@@ -746,8 +747,8 @@
 | 2012-12-15 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Chen Yaoye | Park Junghwan | Lose | B+R | 7.5 | 3352 | 0 | 
 | 2012-12-15 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Kang Dongyun | Park Junghwan | Lose | B+R | 7.5 | 3352 | -10 | 
 | 2012-12-14 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Jiang Weijie | Park Junghwan | Win | W+R | 7.5 | 3362 | -24 | 
-| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Park Junghwan | Uchida Shuhei | Win | B+R | 7.5 | 3386 | 0 | 
-| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Park Junghwan | Chen Yaoye | Lose | W+R | 7.5 | 3386 | -18 | 
+| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Park Junghwan | Chen Yaoye | Lose | W+R | 7.5 | 3386 | 0 | 
+| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Park Junghwan | Uchida Shuhei | Win | B+R | 7.5 | 3386 | -18 | 
 | 2012-12-12 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Csaba Mero | Park Junghwan | Win | W+R | 7.5 | 3404 | 16 | 
 | 2012-12-10 | 第31回KBS杯囲碁王戦本戦4回戦 | Park Junghwan | Weon Seongjin | Win | B+1.5 | 6.5 | 3388 | 22 | 
 | 2012-12-04 | 第9回春蘭杯世界囲碁選手権3回戦 | Park Junghwan | Chen Yaoye | Lose | W+R | 7.5 | 3366 | -348 | 

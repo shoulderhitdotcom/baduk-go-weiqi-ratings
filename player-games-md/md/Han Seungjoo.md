@@ -7,10 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-16 | 第5回クラウン・ヘテ杯1回戦 | Han Woojin | Han Seungjoo | Win | W+R | 6.5 | 3297 | 10 | 
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Park Yeonghun | Han Seungjoo | Lose | B+R | 6.5 | 3287 | -36 | 
 | 2021-12-06 | 第27回GSカルテックス杯プロ棋戦予選 | Hong Mujin | Han Seungjoo | Lose | B+R | 6.5 | 3323 | 31 | 
-| 2021-11-30 | 第3回大統領杯全国囲碁大会決勝 | Kim Jiseok | Han Seungjoo | Win | W+2.5 | 6.5 | 3292 | 0 | 
-| 2021-11-30 | 第3回大統領杯全国囲碁大会準決勝 | Han Seungjoo | Hong Mujin | Win | B+R | 6.5 | 3292 | 7 | 
+| 2021-11-30 | 第3回大統領杯全国囲碁大会準決勝 | Han Seungjoo | Hong Mujin | Win | B+R | 6.5 | 3292 | 0 | 
+| 2021-11-30 | 第3回大統領杯全国囲碁大会決勝 | Kim Jiseok | Han Seungjoo | Win | W+2.5 | 6.5 | 3292 | 7 | 
 | 2021-11-29 | 第3回大統領杯全国囲碁大会2回戦 | Han Seungjoo | Park Hamin | Win | B+R | 6.5 | 3285 | 26 | 
 | 2021-11-28 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Lee Wonyoung | Win | B+R | 6.5 | 3259 | -48 | 
 | 2021-11-21 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Shin Minjun | Lose | W+R | 6.5 | 3307 | 13 | 
@@ -81,8 +82,8 @@
 | 2019-08-05 | 第6回国手山脈韓国国内トーナメント決勝 | Han Seungjoo | Park Yeonghun | Lose | W+R | 6.5 | 3139 | -26 | 
 | 2019-08-04 | 第6回国手山脈韓国国内トーナメント準決勝 | Oh Jeonga | Han Seungjoo | Win | W+R | 6.5 | 3165 | 0 | 
 | 2019-08-04 | 第6回国手山脈韓国国内トーナメント8強戦 | Han Seungjoo | Park Jinyoung | Win | B+R | 6.5 | 3165 | 26 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Han Seungjoo | Choi Cheolhan | Win | B+R | 6.5 | 3139 | 0 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Han Seungjoo | Lee Yeongkyu | Win | B+R | 6.5 | 3139 | 3139 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Han Seungjoo | Lee Yeongkyu | Win | B+R | 6.5 | 3139 | 0 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Han Seungjoo | Choi Cheolhan | Win | B+R | 6.5 | 3139 | 3139 | 
 | 2019-04-30 | 第38回KBS杯囲碁王戦2回戦 | Han Seungjoo | Park Jaekeun | Lose | W+R | 6.5 | missing | -3048 | 
 | 2019-04-09 | 2019年囲碁テレビ杯早碁戦予選2回戦 | Han Seungjoo | Kim Sedong | Win | B+R | 6.5 | 3048 | 9 | 
 | 2018-12-22 | 第2回クラウン・ヘテ杯1回戦 | Han Seungjoo | Na Hyun | Lose | W+0.5 | 6.5 | 3039 | -17 | 
@@ -155,8 +156,8 @@
 | 2016-06-11 | 2016年韓国囲碁リーグ第3節 | Hong Seongji | Han Seungjoo | Lose | B+2.5 | 6.5 | 2715 | 43 | 
 | 2016-06-03 | 2016年韓国囲碁リーグ第2節 | Byun Sangil | Han Seungjoo | Lose | B+R | 6.5 | 2672 | -39 | 
 | 2016-05-19 | 2016年韓国囲碁リーグ第1節 | Han Seungjoo | Kim Seongjae | Lose | W+1.5 | 6.5 | 2711 | 25 | 
-| 2016-04-27 | 2016年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Chen Xian | Han Seungjoo | Lose | B+R | 7.5 | 2686 | 0 | 
-| 2016-04-27 | 2016年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Han Seungjoo |  | Lose | W+R | 7.5 | 2686 | -23 | 
+| 2016-04-27 | 2016年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Han Seungjoo |  | Lose | W+R | 7.5 | 2686 | 0 | 
+| 2016-04-27 | 2016年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Chen Xian | Han Seungjoo | Lose | B+R | 7.5 | 2686 | -23 | 
 | 2016-03-17 | 第3回グロービス杯韓国予選 | Han Seungjoo | Byun Sangil | Lose | W+R | 6.5 | 2709 | -162 | 
 | 2015-09-18 | 2015年韓国囲碁リーグ |  | Han Seungjoo | Win | W+R | 6.5 | 2871 | -40 | 
 | 2015-09-05 | 2015年韓国囲碁リーグ | Han Seungjoo | Park Seunghwa | Lose | W+R | 6.5 | 2911 | -13 | 

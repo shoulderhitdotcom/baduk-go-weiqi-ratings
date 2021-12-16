@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-16 | 2021韓国シニア囲碁リーグ優勝決定戦第2戦 | An Kwanwuk | Kang Hun | Lose | W+1.5 | 6.5 | 2598 | -23 | 
 | 2021-12-15 | 2021韓国シニア囲碁リーグ優勝決定戦第1戦 | An Kwanwuk | Kang Hun | Lose | W+3.5 | 6.5 | 2621 | -27 | 
 | 2021-12-13 | 2021韓国シニア囲碁リーグプレーオフ | Paek Seongho | An Kwanwuk | Win | W+R | 6.5 | 2648 | 5 | 
 | 2021-12-09 | 2021韓国シニア囲碁リーグプレーオフ | An Kwanwuk | Kim JongJoon | Win | B+R | 6.5 | 2643 | -3 | 

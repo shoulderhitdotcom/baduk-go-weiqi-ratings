@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-15 | 第5回クラウン・ヘテ杯1回戦 |  | Baek Hyeonwoo | Win | W+6.5 | 6.5 | 3305 | -2 | 
+| 2021-12-10 | 第7回国手山脈韓国国内トーナメント2回戦 | Kang Jihoon | Baek Hyeonwoo | Lose | B+5.5 | 6.5 | 3307 | 0 | 
+| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Baek Hyeonwoo | Lee Changseok | Win | B+4.5 | 6.5 | 3307 | -7 | 
 | 2021-12-08 | 第3期ソパルコサノル最高棋士決定戦予選 | Baek Hyeonwoo | Moon Minjong | Win | B+R | 6.5 | 3314 | -3 | 
 | 2021-12-05 | 第14回金寅国手杯プロ新鋭戦第3戦 |  | Baek Hyeonwoo | Win | W+R | 6.5 | 3317 | -4 | 
 | 2021-12-04 | 第14回金寅国手杯プロ新鋭戦第2戦 | Baek Hyeonwoo | Gon Jiwoo | Win | B+R | 6.5 | 3321 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-15 | 第66期関西棋院第一位決定戦1回戦 | Kim Pyonmin | Suzuki Keiji | Win | B+12.5 | 6.5 | missing | 0 | 
 | 2021-09-13 | 第66期関西棋院第一位決定戦予選 |  | Kim Pyonmin | Win | W+R | 6.5 | missing | 0 | 
 | 2020-03-18 | 第59期十段戦予選 | Kim Pyonmin | Kiyonari Tetsuya | Lose | W+R | 6.5 | missing | 0 | 
 | 2019-06-05 | 第68期王座戦予選B | Kim Pyonmin |  | Lose | W+R | 6.5 | missing | 0 | 

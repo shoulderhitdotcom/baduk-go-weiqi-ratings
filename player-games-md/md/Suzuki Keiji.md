@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-15 | 第66期関西棋院第一位決定戦1回戦 | Kim Pyonmin | Suzuki Keiji | Lose | B+12.5 | 6.5 | missing | 0 | 
 | 2021-09-29 | 第48期天元戦予選 | Fujiwara Katsuya | Suzuki Keiji | Lose | B+5.5 | 6.5 | missing | 0 | 
 | 2021-02-03 | 第46期棋聖戦予選 | Imamura Toshiya | Suzuki Keiji | Lose | B+2.5 | 6.5 | missing | 0 | 
 | 2020-08-26 | 第46期碁聖戦予選 | Seto Taiki | Suzuki Keiji | Lose | B+R | 6.5 | missing | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-15 | 第48期天元戦予選 | Shintani Yousuke | Imamura Toshiya | Lose | W+2.5 | 6.5 | 2581 | -276 | 
 | 2021-11-03 | 第48期天元戦予選 | Yukawa Mitsuhisa | Shintani Yousuke | Win | W+0.5 | 6.5 | 2857 | 2857 | 
 | 2021-06-02 | 第47期名人戦予選 | Murakawa Daisuke | Shintani Yousuke | Lose | B+R | 6.5 | missing | 0 | 
 | 2021-03-10 | 第77期本因坊戦予選 | Shintani Yousuke | Seto Taiki | Lose | W+R | 6.5 | missing | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-15 | 第47期新人王戦予選 | Taniguchi Tooru | Nishi Takenobu | Lose | W+4.5 | 6.5 | 2786 | 21 | 
 | 2021-11-24 | 第66期関西棋院第一位決定戦1回戦 | Taniguchi Tooru |  | Lose | W+R | 6.5 | 2765 | -253 | 
 | 2021-10-27 | 第47期碁聖戦予選 | Imamura Toshiya | Taniguchi Tooru | Win | W+R | 6.5 | 3018 | 153 | 
 | 2021-09-16 | 第47期名人戦予選 | Taniguchi Tooru |  | Win | B+4.5 | 6.5 | 2865 | -42 | 
@@ -37,8 +38,8 @@
 | 2019-03-07 | 第44期新人王戦1回戦 | Otani Naoki | Taniguchi Tooru | Win | W+R | 6.5 | 2393 | -50 | 
 | 2019-02-07 | 第45期天元戦1回戦 | Taniguchi Tooru | Kono Rin | Lose | W+R | 6.5 | 2443 | -35 | 
 | 2018-12-19 | 第45期天元戦予選A決勝 | Fujii Shuya | Taniguchi Tooru | Win | W+R | 6.5 | 2478 | -91 | 
-| 2018-11-09 | 第3回谷口杯トーナメント本戦決勝 | Taniguchi Tooru | Sada Atsushi | Lose | W+0.5 | 6.5 | 2569 | 0 | 
-| 2018-11-09 | 第3回谷口杯トーナメント本戦準決勝 |  | Taniguchi Tooru | Win | W+2.5 | 6.5 | 2569 | 21 | 
+| 2018-11-09 | 第3回谷口杯トーナメント本戦準決勝 |  | Taniguchi Tooru | Win | W+2.5 | 6.5 | 2569 | 0 | 
+| 2018-11-09 | 第3回谷口杯トーナメント本戦決勝 | Taniguchi Tooru | Sada Atsushi | Lose | W+0.5 | 6.5 | 2569 | 21 | 
 | 2018-05-02 | 第57期十段戦予選A決勝 | Sakai Hideyuki | Taniguchi Tooru | Lose | B+R | 6.5 | 2548 | -72 | 
 | 2018-04-25 | 第74期本因坊戦予選A |  | Taniguchi Tooru | Lose | B+R | 6.5 | 2620 | -140 | 
 | 2017-12-19 | 2017年関西棋院VS台湾棋院交流戦第2戦 | Lai Junfu | Taniguchi Tooru | Win | W+R | 6.5 | 2760 | 74 | 

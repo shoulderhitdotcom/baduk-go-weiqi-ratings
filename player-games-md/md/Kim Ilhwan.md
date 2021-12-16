@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-15 | 2021韓国シニア囲碁リーグ優勝決定戦第1戦 | Choi Kyubyeong | Kim Ilhwan | Lose | B+11.5 | 6.5 | 2516 | -10 | 
 | 2021-12-13 | 2021韓国シニア囲碁リーグプレーオフ | Kim Ilhwan | Yoo Changhyuk | Lose | W+15.5 | 6.5 | 2526 | -14 | 
 | 2021-12-09 | 2021韓国シニア囲碁リーグプレーオフ | Yoo Changhyuk | Kim Ilhwan | Lose | B+R | 6.5 | 2540 | -22 | 
 | 2021-12-08 | 2021韓国シニア囲碁リーグプレーオフ | Yoo Changhyuk | Kim Ilhwan | Lose | B+14.5 | 6.5 | 2562 | 3 | 

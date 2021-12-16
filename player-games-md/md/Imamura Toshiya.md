@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-15 | 第48期天元戦予選 | Shintani Yousuke | Imamura Toshiya | Win | W+2.5 | 6.5 | 2607 | 77 | 
 | 2021-12-01 | 第66期関西棋院第一位決定戦1回戦 | Takatsu Masaaki | Imamura Toshiya | Win | W+R | 6.5 | 2530 | 32 | 
 | 2021-10-27 | 第47期碁聖戦予選 | Imamura Toshiya | Taniguchi Tooru | Lose | W+R | 6.5 | 2498 | -316 | 
 | 2021-10-06 | 第47期碁聖戦予選 | Watanabe Yuu | Imamura Toshiya | Win | W+R | 6.5 | 2814 | 109 | 

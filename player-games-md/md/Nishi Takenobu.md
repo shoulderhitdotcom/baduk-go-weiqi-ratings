@@ -7,8 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-11-21 | 第16回広島アルミ杯・若鯉戦決勝  | Ueno Asami | Nishi Takenobu | Lose | B+R | 6.5 | 2818 | 0 | 
-| 2021-11-21 | 第16回広島アルミ杯・若鯉戦準決勝  | Nishi Takenobu | Seki Kotaro | Win | B+13.5 | 6.5 | 2818 | 82 | 
+| 2021-12-15 | 第47期新人王戦予選 | Taniguchi Tooru | Nishi Takenobu | Win | W+4.5 | 6.5 | 2775 | -43 | 
+| 2021-11-21 | 第16回広島アルミ杯・若鯉戦準決勝  | Nishi Takenobu | Seki Kotaro | Win | B+13.5 | 6.5 | 2818 | 0 | 
+| 2021-11-21 | 第16回広島アルミ杯・若鯉戦決勝  | Ueno Asami | Nishi Takenobu | Lose | B+R | 6.5 | 2818 | 82 | 
 | 2021-10-27 | 第66期関西棋院第一位決定戦1回戦 | Nishi Takenobu | Abe Yoshiki | Lose | W+0.5 | 6.5 | 2736 | -59 | 
 | 2021-10-13 | 第48期天元戦予選 | Yukawa Mitsuhisa | Nishi Takenobu | Lose | B+R | 6.5 | 2795 | -129 | 
 | 2021-08-18 | 第70期王座戦予選 | Nishi Takenobu | Nagasaki Yuji | Win | B+R | 6.5 | 2924 | 93 | 
@@ -41,8 +42,8 @@
 | 2019-10-10 | 第45期碁聖戦予選 | Nishi Takenobu | Yuki Satoshi | Lose | W+R | 6.5 | 2349 | -22 | 
 | 2019-07-31 | 第68期王座戦予選B | Nishi Takenobu | Taniguchi Tooru | Lose | W+R | 6.5 | 2371 | -57 | 
 | 2019-02-28 | 第44期新人王戦1回戦 | Ueno Asami | Nishi Takenobu | Lose | B+4.5 | 6.5 | 2428 | -166 | 
-| 2019-01-14 | 第6回グロービス杯国内予選 | Ueno Asami | Nishi Takenobu | Lose | B+R | 6.5 | 2594 | 0 | 
-| 2019-01-14 | 第6回グロービス杯国内予選 | Nishi Takenobu |  | Win | B+R | 6.5 | 2594 | -164 | 
+| 2019-01-14 | 第6回グロービス杯国内予選 | Nishi Takenobu |  | Win | B+R | 6.5 | 2594 | 0 | 
+| 2019-01-14 | 第6回グロービス杯国内予選 | Ueno Asami | Nishi Takenobu | Lose | B+R | 6.5 | 2594 | -164 | 
 | 2018-11-14 | 第67期王座戦予選A | Nishi Takenobu | Nakano Yasuhiro | Win | B+0.5 | 6.5 | 2758 | -11 | 
 | 2018-09-19 | 第44期碁聖戦予選A決勝 | Nishi Takenobu | Kiyonari Tetsuya | Lose | W+R | 6.5 | 2769 | 27 | 
 | 2018-08-08 | 第45期天元戦予選A | Nishi Takenobu | Yahata Naoki | Win | B+R | 6.5 | 2742 | 29 | 
@@ -84,8 +85,8 @@
 | 2017-05-22 | 2017年日本囲碁リーグ1st第4節兵庫-大阪三将戦 | Takashima Yugo | Nishi Takenobu | Win | W+R | 6.5 | 2789 | 61 | 
 | 2017-04-24 | 2017年日本囲碁リーグ1st第3節瀬戸内-兵庫主将戦 | Nishi Takenobu | Utsumi Koki | Win | B+R | 6.5 | 2728 | 15 | 
 | 2017-04-17 | 第42期新人王戦　本戦2回戦 | Sotoyanagi Sebun | Nishi Takenobu | Win | W+5.5 | 6.5 | 2713 | -7 | 
-| 2017-04-12 | 第43期名人戦予選 | Moriyama Naoki | Nishi Takenobu | Win | W+R | 6.5 | 2720 | 0 | 
-| 2017-04-12 | 第43期名人戦予選B | Moriyama Naoki | Nishi Takenobu | Win | W+R | 6.5 | 2720 | 183 | 
+| 2017-04-12 | 第43期名人戦予選B | Moriyama Naoki | Nishi Takenobu | Win | W+R | 6.5 | 2720 | 0 | 
+| 2017-04-12 | 第43期名人戦予選 | Moriyama Naoki | Nishi Takenobu | Win | W+R | 6.5 | 2720 | 183 | 
 | 2017-03-14 | 第4回グロービス杯国内予選 | Nishi Takenobu | Ueno Asami | Win | B+R | 6.5 | 2537 | 0 | 
 | 2017-03-14 | 第4回グロービス杯国内予選 | Shibano Toramaru | Nishi Takenobu | Lose | B+T | 6.5 | 2537 | 8 | 
 | 2017-03-09 | 第43期名人戦予選B | Watanabe Yuu | Nishi Takenobu | Win | W+R | 6.5 | 2529 | 16 | 

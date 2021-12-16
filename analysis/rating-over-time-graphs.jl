@@ -1,196 +1,124 @@
 # this script tries to get the data to estimate the latest games
 const PATH = @__DIR__
 const WSPATH = "c:/weiqi/web-scraping/" # webscraping results path
-using Pkg; Pkg.activate(PATH); cd(PATH)
+using Pkg;
+Pkg.activate(PATH);
+cd(PATH);
 using Revise: includet
 using DataFrames, DataFrameMacros
 using Chain: @chain
 using Serialization: deserialize
 using Dates: Date, Day
 using StatsBase
+# using TimeZones; TimeZones.build()
 using JDF
 using CSV
 using Alert
 using Revise: includet
 
 using BadukGoWeiqiTools: load_namesdb
-const NAMESDB=load_namesdb()
+const NAMESDB = load_namesdb()
 
-includet("utils.jl")
+includet("../utils.jl")
 
 # rating offset
-const OFFSET = 3800-6.5/log(10)*400
+const OFFSET = 3800 - 6.5 / log(10) * 400
 
 using CSV, Statistics, DataFrames, DataFrameMacros, Chain, Dates
 
-pings = JDF.load("pings_hist.jdf") |> DataFrame
+pings = JDF.load("../pings_hist.jdf") |> DataFrame
 
-mtd = maximum(pings.date)
-fromdate = mtd - Dates.Day(364)
-
-@chain pings begin
-    @subset fromdate <= :date <= mtd
-    groupby([:name, :eng_name_old])
-    @combine minimum(:Rank) maximum(:Rank)
-    sort!([:Rank_minimum, :Rank_maximum])
-end
-
-tblw = @chain tbl begin
-    @subset fromdate <= :date <= mtd
-    @transform :winner = ifelse(:who_win == "B", :black, :white)
-    @transform :loser = ifelse(:who_win == "B", :white, :black)
-    groupby(:winner)
-    combine(nrow)
-    @subset :nrow >= 2
-end
-
-tblb = @chain tbl begin
-    @subset fromdate <= :date <= mtd
-    @transform :winner = ifelse(:who_win == "B", :black, :white)
-    @transform :loser = ifelse(:who_win == "B", :white, :black)
-    groupby(:loser)
-    combine(nrow)
-    @subset :nrow >= 2
-end
-
-tbl = @chain tbl begin
-    @subset :white in intersect(tblw.winner, tblb.loser)
-    @subset :black in intersect(tblw.winner, tblb.loser)
-end
-
-# for easy testing
-using Dates
-to_date = maximum(tbl.date) - Dates.Day(1)
-from_date = to_date-Day(364)
-
-pings, games, white75_advantage, black65_advantage, abnormal_players = estimate_rating(from_date, to_date; tbl);
-
-
-using FloatingTableView
-browse(pings)
-
-
-# normal every group
-
-ping_normal_coefs = @chain pings begin
-    @subset :Rank <= 100
+# mtd = maximum(pings.date)
+# fromdate = mtd - Dates.Day(364)
+avg_pings = @chain pings begin
+    # @subset fromdate <= :date <= mtd
+    @subset :Rating > 0
     groupby(:date)
-    @combine(:mean_rating = mean(:Rating), :std_rating = std(:Rating))
+    @combine(mean(log, :Rating))
+    sort!(:date)
 end
-
 
 using Plots, StatsPlots
+gr()
 
-ping_normal_coefs1 = @chain ping_normal_coefs begin
-    @subset Dates.year(:date) > 2010
+@chain avg_pings begin
+    @subset year(:date) >= 2013
+    plot(_.date, _.Rating_function)
+end
+# @df avg_pings plot(:date, :Rating_function)
+
+a = @chain avg_pings begin
+    @transform :rating_csum = @c accumulate(+, :Rating_function)
+    @transform :rating_mean = @c :rating_csum ./ (1:length(:rating_csum))
+    select([:date, :Rating_function, :rating_mean])
 end
 
-sjs_rating = @chain pings begin
-    @subset Dates.year(:date) >= 2015
+true_mean = a[end, :].rating_mean
+
+@chain pings begin
+    @subset :date >= Date(2019, 6, 1)
+    leftjoin(a, on = :date)
+    @transform :log_rating = log(max(:Rating, 1)) - :Rating_function + true_mean
     @subset :eng_name_old == "Shin Jinseo"
-    leftjoin(ping_normal_coefs, on=:date)
-    @transform(:normalised_rating = (:Rating - :mean_rating)/:std_rating)
+    plot(_.date, _.log_rating)
 end
 
-# impute the ratings
-# mindate, maxdate = extrema(sjs_rating.date)
+games = JDF.load("../kifu-depot-games-for-ranking.jdf/") |> DataFrame
 
-# using DataFrames, Dates
-# sjs_rating_imputed = @chain DataFrame(date = mindate:Dates.Day(1):maxdate) begin
-#     leftjoin(sjs_rating, on=:date)
-#     unique(:date)
-#     sort!(:date)
-# end
-
-# for i in 2:nrow(sjs_rating_imputed)-1
-#     if ismissing(sjs_rating_imputed.normalised_rating[i])
-#         if !ismissing(sjs_rating_imputed.normalised_rating[i-1]) & !ismissing(sjs_rating_imputed.normalised_rating[i+1])
-#             sjs_rating_imputed.normalised_rating[i] = (sjs_rating_imputed.normalised_rating[i-1]+sjs_rating_imputed.normalised_rating[i+1])
-#         else
-#             sjs_rating_imputed.normalised_rating[i] = sjs_rating_imputed.normalised_rating[i-1]
-#         end
-#     end
-# end
-
-# using CSV
-
-# CSV.write("c:/data/sjs_rating.csv", sjs_rating_imputed)
-
-# using RCall
-
-# @rput sjs_rating_imputed
-# R"""
-# l = length(sjs_rating$normalised_rating)
-# x = ts(sjs_rating$normalised_rating, frequency=365)
-# xx = decompose(x)
-# """;
-
-# @rget xx
-
-# plot(xx[:trend])
-# plot!(xx[:seasonal])
-# plot!(xx[:random])
-
-# Vector(xx[:trend])
-
-# xx[:trend][365:700]
-
-# xx[:trend][end-365:end]
-
-# countmap(xx[:trend])
+function ma(v::AbstractVector, n::Int)
+    s = sum(@view v[1:n])
+    vcat(accumulate(+, @view v[1:n]), accumulate(+, v[n+1:end]) .+ s .- accumulate(+, v[1:end-n]))
+end
 
 
-plot(sjs_rating.date, sjs_rating.normalised_rating, label="Shin Jinseo", legend=:bottomright)
+b = @chain games begin
+    @transform :dummy = 1
+    stack([:black, :white], :date)
+    groupby([:date, :value])
+    combine(nrow)
+    unstack(:date, :value, :nrow)
+    coalesce.(0)
+    sort!(:date)
+    @aside cnames = setdiff(Symbol.(names(_)), [:date])
+    # select([:date, Symbol("申眞諝")])
+    transform(_, cnames .=> (col -> ma(col, 365)) .=> cnames)
+    stack(cnames, :date)
+    @subset :value > 11
+end
 
-kj_rating = @chain pings begin
-    @subset Dates.year(:date) >= 2015
+@chain pings begin
+    innerjoin(select(b, [:date, :variable]), on = [:date => :date, :name => :variable])
+    # @subset :date >= Date(2019, 6, 1)
+    leftjoin(a, on = :date)
+    @transform :log_rating = log(max(:Rating, 1)) - :Rating_function + true_mean
     @subset :eng_name_old == "Ke Jie"
-    leftjoin(ping_normal_coefs, on=:date)
-    @transform(:normalised_rating = (:Rating - :mean_rating)/:std_rating)
+    plot(_.date, _.log_rating)
 end
 
-plot!(kj_rating.date, kj_rating.normalised_rating, label="Ke Jie")
+@chain pings begin
+    innerjoin(select(b, [:date, :variable]), on = [:date => :date, :name => :variable])
+    # @subset :date >= Date(2019, 6, 1)
+    leftjoin(a, on = :date)
+    @transform :log_rating = log(max(:Rating, 1)) - :Rating_function + true_mean
+    @subset :eng_name_old == "Shin Jinseo"
+    plot!(_.date, _.log_rating)
+end
 
-pjh_rating = @chain pings begin
-    @subset Dates.year(:date) >= 2015
+@chain pings begin
+    innerjoin(select(b, [:date, :variable]), on = [:date => :date, :name => :variable])
+    # @subset :date >= Date(2019, 6, 1)
+    leftjoin(a, on = :date)
+    @transform :log_rating = log(max(:Rating, 1)) - :Rating_function + true_mean
     @subset :eng_name_old == "Park Junghwan"
-    leftjoin(ping_normal_coefs, on=:date)
-    @transform(:normalised_rating = (:Rating - :mean_rating)/:std_rating)
+    plot!(_.date, _.log_rating)
 end
 
-
-plot!(pjh_rating.date, pjh_rating.normalised_rating, label="Park Junghwan")
-
-pjh_rating = @chain pings begin
-    @subset Dates.year(:date) >= 2015
-    @subset :eng_name_old == "Byun Sangil"
-    leftjoin(ping_normal_coefs, on=:date)
-    @transform(:normalised_rating = (:Rating - :mean_rating)/:std_rating)
-end
-
-plot!(pjh_rating.date, pjh_rating.normalised_rating, label="Byun Sangil")
-
-pjh_rating = @chain pings begin
-    @subset Dates.year(:date) >= 2015
-    @subset :eng_name_old == "Ding Hao"
-    leftjoin(ping_normal_coefs, on=:date)
-    @transform(:normalised_rating = (:Rating - :mean_rating)/:std_rating)
-end
-
-plot!(pjh_rating.date, pjh_rating.normalised_rating, label="Ding Hao")
+# using FloatingTableView
+# browse(avg_pings)
+# browse(a)
 
 
+mar = ma(avg_pings.Rating_function, 365)
+avg_pings.ma_ratings = vcat(1:365, mar)
 
-# plot all those who has achieved number 1 ever
-
-@chain pings begin
-    @subset :Rank == 1
-    _.eng_name_old
-    unique
-end
-
-@chain pings begin
-    @subset :Rank == 1
-    _.eng_name_old
-    unique
-end
+plot(mar)

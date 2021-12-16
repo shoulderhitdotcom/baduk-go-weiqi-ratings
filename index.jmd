@@ -25,7 +25,7 @@ Using the **Elo Rating** it is
 
 Probability that player with rating `r1` wins over someone with rating `r2` is `1/(1 + 10^((r2-r1)/400))`
 
-# Ratings of players with fewer than 10 games (rating not reliable)
+# Ratings of players with fewer than 12 games (rating not reliable)
 
 ```{julia; echo=false; line_width=888}
 using JDF

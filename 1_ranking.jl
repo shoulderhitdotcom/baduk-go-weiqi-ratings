@@ -36,7 +36,12 @@ tbl = @chain joinpath(WSPATH, "kifu-depot-games-with-sgf.jdf/") begin
     )
     @subset :komi_fixed in (6.5, 7.5)
     select!(Not([:sgf, :comp, :result, :kifu_link, :win_by, :komi]))
+    @transform :black = replace(:black, "羋昱廷" => "芈昱廷")
+    @transform :white = replace(:white, "羋昱廷" => "芈昱廷")
 end
+
+@assert !("羋昱廷" in tbl.black)
+@assert !("羋昱廷" in tbl.white)
 
 ### the below two lines can be skipped under a target flow
 JDF.save("kifu-depot-games-for-ranking.jdf/", tbl)

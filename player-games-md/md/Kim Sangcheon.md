@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-18 | 2021-2022フューチャーズリーグ |  | Kim Sangcheon | Lose | B+R | 6.5 | 2929 | -129 | 
 | 2021-11-24 | 2021-2022フューチャーズリーグ | Gang Woohyeok | Kim Sangcheon | Lose | B+R | 6.5 | 3058 | -65 | 
 | 2021-08-26 | 第2期利鵬杯新鋭最高位戦準決勝 | Kim Sangcheon | Kim Beomseo | Lose | W+R | 6.5 | 3123 | 75 | 
 | 2021-08-05 | 第2期利鵬杯新鋭最高位戦8強戦 | Kim Sangcheon | Choi Kyeongho | Win | B+R | 6.5 | 3048 | -292 | 
@@ -55,8 +56,8 @@
 | 2019-10-04 | 2019-2020韓国囲碁リーグ第2節第2試合第5局 | Kim Sangcheon | Lee Wondo | Lose | W+R | 6.5 | 2821 | -180 | 
 | 2019-09-28 | 2019-2020フューチャーズリーグ第1節第1試合第3局 | Kim Sangcheon | Kim Sedong | Win | B+R | 6.5 | 3001 | 84 | 
 | 2019-08-04 | 第6回国手山脈韓国国内トーナメント8強戦 | Kim Sangcheon | Oh Jeonga | Lose | W+6.5 | 6.5 | 2917 | 2917 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Kim Sangcheon | An Joyeong | Win | B+R | 6.5 | missing | 0 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Yun Junsang | Kim Sangcheon | Win | W+R | 6.5 | missing | missing |
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Yun Junsang | Kim Sangcheon | Win | W+R | 6.5 | missing | 0 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Kim Sangcheon | An Joyeong | Win | B+R | 6.5 | missing | missing |
 
 
 

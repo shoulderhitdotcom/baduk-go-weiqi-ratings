@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-18 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Kim Junghyun | Lose | B+R | 6.5 | 3234 | -57 | 
 | 2021-12-11 | 第7回国手山脈韓国国内トーナメント準決勝 | Kim Junghyun | An Sungjoon | Lose | W+R | 6.5 | 3291 | 20 | 
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント2回戦 | Kim Junghyun | Kim Jinhyu | Win | B+R | 6.5 | 3271 | 0 | 
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Han Woojin | Kim Junghyun | Win | W+2.5 | 6.5 | 3271 | -63 | 

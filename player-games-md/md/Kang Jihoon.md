@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-18 | 2021-2022フューチャーズリーグ | Lee Wondo | Kang Jihoon | Lose | B+R | 6.5 | 3162 | -128 | 
 | 2021-12-11 | 第7回国手山脈韓国国内トーナメント準決勝 | Park Yeonghun | Kang Jihoon | Lose | B+R | 6.5 | 3290 | 264 | 
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント2回戦 | Kang Jihoon | Baek Hyeonwoo | Win | B+5.5 | 6.5 | 3026 | 0 | 
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Kang Jihoon | Shen Zaiyi | Win | B+2.5 | 6.5 | 3026 | -129 | 

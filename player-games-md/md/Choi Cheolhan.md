@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-18 | 2021-2022韓国囲碁リーグ | Song Jihoon | Choi Cheolhan | Win | W+R | 6.5 | 3330 | -3 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Fan Tingyu | Choi Cheolhan | Lose | B+R | 6.5 | 3333 | -36 | 
 | 2021-12-02 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Choi Cheolhan | Lose | B+R | 6.5 | 3369 | -10 | 
 | 2021-09-27 | 第7回国手山脈国際囲碁大会韓国予選 | Choi Cheolhan | Kang Dongyun | Win | B+R | 6.5 | 3379 | 5 | 
@@ -83,8 +84,8 @@
 | 2019-10-05 | 2019-2020韓国囲碁リーグ第2節第3試合第4局 | Kang Dongyun | Choi Cheolhan | Lose | B+5.5 | 6.5 | 3070 | 15 | 
 | 2019-09-26 | 2019-2020韓国囲碁リーグ第1節第1試合第3局 | Choi Cheolhan |  | Win | B+R | 6.5 | 3055 | 81 | 
 | 2019-09-09 | 第3回安東市真貯蓄銀行杯プロアマオープン戦32強戦 | An Jungki | Choi Cheolhan | Lose | B+R | 6.5 | 2974 | -113 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Han Seungjoo | Choi Cheolhan | Lose | B+R | 6.5 | 3087 | 0 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Choi Cheolhan | Kim Hyeongwoo | Win | B+R | 6.5 | 3087 | 21 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Choi Cheolhan | Kim Hyeongwoo | Win | B+R | 6.5 | 3087 | 0 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Han Seungjoo | Choi Cheolhan | Lose | B+R | 6.5 | 3087 | 21 | 
 | 2019-07-18 | 第21回農心杯韓国選抜戦 | Choi Cheolhan | Lee Jihyun | Lose | W+R | 6.5 | 3066 | -18 | 
 | 2019-07-16 | 第21回農心杯韓国選抜戦 | Choi Cheolhan | Seol Hyunjun | Win | B+R | 6.5 | 3084 | -37 | 
 | 2019-06-27 | 第6回国手山脈韓国国内トーナメント予選 | Park Minkyu | Choi Cheolhan | Win | W+R | 6.5 | 3121 | -2 | 
@@ -142,8 +143,8 @@
 | 2018-03-09 | 第17回西南棋王戦2回戦 | Mao Ruilong | Choi Cheolhan | Win | W+2¼ | 7.5 | 3446 | 0 | 
 | 2018-03-09 | 第17回西南棋王戦1回戦 | Choi Cheolhan | Dang Yifei | Win | B+R | 7.5 | 3446 | 8 | 
 | 2018-02-13 | 韓国ナショナルチームリーグ戦 | Kang Dongyun | Choi Cheolhan | Lose | B+R | 6.5 | 3438 | -15 | 
-| 2018-02-06 | 第19回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Kang Dongyun | Win | B+R | 6.5 | 3453 | 0 | 
-| 2018-02-06 | 韓国ナショナルチームリーグ戦 | Choi Cheolhan | Shin Jinseo | Lose | W+R | 6.5 | 3453 | 4 | 
+| 2018-02-06 | 韓国ナショナルチームリーグ戦 | Choi Cheolhan | Shin Jinseo | Lose | W+R | 6.5 | 3453 | 0 | 
+| 2018-02-06 | 第19回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Kang Dongyun | Win | B+R | 6.5 | 3453 | 4 | 
 | 2018-02-05 | 第19回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Kang Dongyun | Win | B+R | 6.5 | 3449 | 39 | 
 | 2018-01-09 | 第19回マキシムコーヒー杯入神最強戦1回戦 | Choi Cheolhan | Kim Juho | Win | B+1.5 | 6.5 | 3410 | 7 | 
 | 2018-01-05 | 韓国ナショナルチームリーグ戦 | Choi Cheolhan | Shin Minjun | Win | B+R | 6.5 | 3403 | 24 | 

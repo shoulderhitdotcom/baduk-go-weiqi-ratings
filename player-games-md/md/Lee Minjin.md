@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-18 | 2021蘭雪軒杯全国女子囲碁大会1回戦 | Lee Minjin | Cho Seungah | Lose | W+10.5 | 6.5 | 2740 | -35 | 
 | 2021-10-29 | 2021女子最高棋士決定戦（韓国）リーグ | Lee Minjin | Kim Cheayoung | Win | B+R | 6.5 | 2775 | -46 | 
 | 2021-10-08 | 2021女子最高棋士決定戦（韓国）リーグ | Cho Hyeyeon | Lee Minjin | Lose | B+4.5 | 6.5 | 2821 | -97 | 
 | 2021-10-01 | 2021女子最高棋士決定戦（韓国）リーグ | Lee Minjin |  | Win | B+R | 6.5 | 2918 | -43 | 

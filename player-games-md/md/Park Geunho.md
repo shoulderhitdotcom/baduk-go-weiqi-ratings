@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-18 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Park Geunho | Win | W+R | 6.5 | 3390 | 0 | 
 | 2021-12-02 | 2021-2022韓国囲碁リーグ | Park Geunho | Gon Jiwoo | Win | B+R | 6.5 | 3390 | 49 | 
 | 2021-11-25 | 2021-2022韓国囲碁リーグ | Ahn Kukhyun | Park Geunho | Win | W+R | 6.5 | 3341 | -25 | 
 | 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Lee Changseok | Park Geunho | Lose | B+1.5 | 6.5 | 3366 | -12 | 
@@ -77,8 +78,8 @@
 | 2019-10-05 | 2019-2020韓国囲碁リーグ第2節第3試合第1局 | Park Geunho | Park Hamin | Lose | W+R | 6.5 | 3145 | 13 | 
 | 2019-09-26 | 2019-2020韓国囲碁リーグ第1節第1試合第1局 | Park Geunho | Kim Jiseok | Win | B+R | 6.5 | 3132 | 55 | 
 | 2019-08-22 | 第6回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Park Geunho | Byun Sangil | Lose | W+R | 6.5 | 3077 | -19 | 
-| 2019-08-21 | 第6回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Park Geunho | Na Hyun | Win | B+2.5 | 6.5 | 3096 | 0 | 
-| 2019-08-21 | 第6回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Kim Myounghoon | Park Geunho | Win | W+R | 6.5 | 3096 | -19 | 
+| 2019-08-21 | 第6回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Kim Myounghoon | Park Geunho | Win | W+R | 6.5 | 3096 | 0 | 
+| 2019-08-21 | 第6回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Park Geunho | Na Hyun | Win | B+2.5 | 6.5 | 3096 | -19 | 
 | 2019-07-24 | 第21回農心杯韓国選抜戦 | Park Geunho | Park Junghwan | Lose | W+R | 6.5 | 3115 | 17 | 
 | 2019-07-12 | 第21回農心杯韓国選抜戦 | Byun Sangil | Park Geunho | Win | W+R | 6.5 | 3098 | 35 | 
 | 2019-07-11 | 第21回農心杯韓国選抜戦 | Park Geunho | Cho Hanseung | Win | B+R | 6.5 | 3063 | 124 | 
@@ -131,8 +132,8 @@
 | 2017-05-21 | 2017年フューチャーズリーグ | Park Geunho | Wi Taewoong | Lose | W+R | 6.5 | 2897 | 53 | 
 | 2017-03-04 | 2017年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Park Geunho | Fan Yin | Lose | W+R | 7.5 | 2844 | -36 | 
 | 2017-03-03 | 2017年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Yu Zhiying | Park Geunho | Win | W+R | 7.5 | 2880 | 94 | 
-| 2016-08-09 | 2016年利民杯世界囲碁星鋭最強戦第2ステージ決勝 | Xie Ke | Park Geunho | Lose | B+R | 7.5 | 2786 | 0 | 
-| 2016-08-09 | 2016年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 |  | Park Geunho | Win | W+R | 7.5 | 2786 | 132 | 
+| 2016-08-09 | 2016年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 |  | Park Geunho | Win | W+R | 7.5 | 2786 | 0 | 
+| 2016-08-09 | 2016年利民杯世界囲碁星鋭最強戦第2ステージ決勝 | Xie Ke | Park Geunho | Lose | B+R | 7.5 | 2786 | 132 | 
 | 2016-04-28 | 2016年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Park Geunho | Xie Ke | Lose | W+T | 7.5 | 2654 | -27 | 
 | 2015-10-09 | 2015年フューチャーズリーグ | Park Geunho |  | Lose | W+R | 6.5 | 2681 | -17 | 
 | 2015-10-05 | 第34回KBS杯囲碁王戦3回戦 | Shin Jinseo | Park Geunho | Lose | B+R | 6.5 | 2698 | 19 | 
@@ -143,8 +144,8 @@
 | 2015-08-29 | 2015年韓国囲碁リーグ | Lee Changho | Park Geunho | Lose | B+R | 6.5 | 2736 | -23 | 
 | 2015-08-22 | 2015年フューチャーズリーグ | Park Geunho | You Byungyong | Win | B+R | 6.5 | 2759 | 44 | 
 | 2015-08-20 | 2015年韓国囲碁リーグ | Park Geunho | Yun Junsang | Lose | W+R | 6.5 | 2715 | -29 | 
-| 2015-08-16 | 2015年利民杯世界囲碁星鋭最強戦第2ステージ決勝 |  | Park Geunho | Lose | B+1.5 | 7.5 | 2744 | 0 | 
-| 2015-08-16 | 2015年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 | Park Geunho |  | Win | B+R | 7.5 | 2744 | -19 | 
+| 2015-08-16 | 2015年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 | Park Geunho |  | Win | B+R | 7.5 | 2744 | 0 | 
+| 2015-08-16 | 2015年利民杯世界囲碁星鋭最強戦第2ステージ決勝 |  | Park Geunho | Lose | B+1.5 | 7.5 | 2744 | -19 | 
 | 2015-07-25 | 2015年フューチャーズリーグ | Seol Hyunjun | Park Geunho | Lose | B+R | 6.5 | 2763 | -70 | 
 | 2015-07-18 | 2015年フューチャーズリーグ | Park Jaekeun | Park Geunho | Win | W+2.5 | 6.5 | 2833 | 86 | 
 | 2015-07-05 | 2015年フューチャーズリーグ | Park Younglong | Park Geunho | Win | W+R | 6.5 | 2747 | 2747 | 

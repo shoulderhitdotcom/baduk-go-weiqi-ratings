@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-18 | 2021-2022フューチャーズリーグ | Lee Wondo | Kang Jihoon | Win | B+R | 6.5 | 3122 | 0 | 
+| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | An Sungjoon | Lee Wondo | Lose | B+R | 6.5 | 3122 | -41 | 
+| 2021-12-04 | 2021-2022フューチャーズリーグ | Kim Sonjin | Lee Wondo | Lose | B+R | 6.5 | 3163 | 42 | 
 | 2021-11-27 | 2021-2022フューチャーズリーグ | Choi Kyeongho | Lee Wondo | Win | W+R | 6.5 | 3121 | -56 | 
 | 2021-11-20 | 2021-2022フューチャーズリーグ | An Joyeong | Lee Wondo | Win | W+R | 6.5 | 3177 | -13 | 
 | 2021-04-09 | 第26回GSカルテックス杯プロ棋戦1回戦 | Lee Wonyoung | Lee Wondo | Lose | B+13.5 | 6.5 | 3190 | -87 | 
@@ -52,8 +55,8 @@
 | 2019-10-04 | 2019-2020韓国囲碁リーグ第2節第2試合第5局 | Kim Sangcheon | Lee Wondo | Win | W+R | 6.5 | 2831 | 60 | 
 | 2019-09-27 | 2019-2020韓国囲碁リーグ第1節第2試合第2局 | Lee Donghoon | Lee Wondo | Lose | B+R | 6.5 | 2771 | -208 | 
 | 2019-09-09 | 第3回安東市真貯蓄銀行杯プロアマオープン戦64強戦 |  | Lee Wondo | Lose | B+0.5 | 6.5 | 2979 | -17 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Park Jinyoung | Lee Wondo | Lose | B+0.5 | 6.5 | 2996 | 0 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Lee Wonyoung | Lee Wondo | Win | W+R | 6.5 | 2996 | -4 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Lee Wonyoung | Lee Wondo | Win | W+R | 6.5 | 2996 | 0 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Park Jinyoung | Lee Wondo | Lose | B+0.5 | 6.5 | 2996 | -4 | 
 | 2019-01-24 | 第24期GSカルテックス杯24強戦 | Lee Wondo | Lee Hoseong | Lose | W+R | 6.5 | 3000 | -48 | 
 | 2018-10-20 | 2018年フューチャーズリーグ |  | Lee Wondo | Win | W+5.5 | 6.5 | 3048 | -47 | 
 | 2018-10-03 | 2018年フューチャーズリーグ | Lee Wondo | An Jungki | Win | B+R | 6.5 | 3095 | -35 | 

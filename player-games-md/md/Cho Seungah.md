@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-18 | 2021蘭雪軒杯全国女子囲碁大会準決勝 | Park Jiyeon | Cho Seungah | Win | W+R | 6.5 | 3086 | 0 | 
+| 2021-12-18 | 2021蘭雪軒杯全国女子囲碁大会1回戦 | Lee Minjin | Cho Seungah | Win | W+10.5 | 6.5 | 3086 | 19 | 
 | 2021-11-25 | 2021蘭雪軒杯全国女子囲碁大会予選 | Cho Seungah |  | Win | B+5.5 | 6.5 | 3067 | -47 | 
 | 2021-11-15 | 第7回国手山脈韓国国内トーナメント予選 | Cho Seungah | Shen Zaiyi | Lose | W+R | 6.5 | 3114 | -1 | 
 | 2021-11-13 | 2021女子最高棋士決定戦（韓国）リーグ | Cho Seungah | Kim Eunseon | Win | B+R | 6.5 | 3115 | 5 | 
@@ -55,8 +57,8 @@
 | 2021-05-28 | 第7回韓国女子囲碁リーグ | Oh Yujin | Cho Seungah | Win | W+1.5 | 6.5 | missing | 0 | 
 | 2021-05-26 | 第4回呉清源杯韓国予選 | Cho Seungah | Oh Jeonga | Win | B+R | 7.5 | missing | 0 | 
 | 2021-05-25 | 第4回呉清源杯韓国予選 | Cho Seungah | Kim Dayoung | Win | B+R | 7.5 | missing | 0 | 
-| 2021-05-20 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Cho Seungah | Win | W+R | 6.5 | missing | 0 | 
 | 2021-05-20 | 第9回中国女子囲碁甲級リーグ |  | Cho Seungah | Win | W+R | 7.5 | missing | 0 | 
+| 2021-05-20 | 第7回韓国女子囲碁リーグ | Kang Dajeong | Cho Seungah | Win | W+R | 6.5 | missing | 0 | 
 | 2021-05-18 | 第9回中国女子囲碁甲級リーグ |  | Cho Seungah | Win | W+R | 7.5 | missing | 0 | 
 | 2021-05-17 | 第9回中国女子囲碁甲級リーグ | Cho Seungah | Chen Yiming | Lose | W+R | 7.5 | missing | 0 | 
 | 2021-04-03 | 第8回中国女子囲碁甲級リーグ |  | Cho Seungah | Win | W+R | 7.5 | missing | 0 | 
@@ -100,8 +102,8 @@
 | 2019-11-13 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第5戦 | Cho Seungah |  | Lose | W+R | 6.5 | missing | 0 | 
 | 2019-11-12 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第4戦 | Cho Seungah | Li Wei | Win | B+R | 6.5 | missing | 0 | 
 | 2019-11-12 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第3戦 | Lu Yiquan | Cho Seungah | Win | W+R | 6.5 | missing | 0 | 
-| 2019-11-11 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第1戦 | Cho Seungah | Lin Shixun | Win | B+R | 6.5 | missing | 0 | 
 | 2019-11-11 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第2戦 | Lin Jiehan | Cho Seungah | Lose | B+R | 6.5 | missing | 0 | 
+| 2019-11-11 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第1戦 | Cho Seungah | Lin Shixun | Win | B+R | 6.5 | missing | 0 | 
 | 2019-10-30 | 第10回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Cho Seungah | Wang Chenxing | Lose | W+R | 7.5 | missing | 0 | 
 | 2019-10-28 | 第3期韓国製紙女子棋聖戦16強戦 | Choi Jeong | Cho Seungah | Lose | B+5.5 | 6.5 | missing | 0 | 
 | 2019-09-30 | 第10回穹窿山兵聖杯韓国選抜戦 | Cho Seungah | Kim Hyeoimin | Win | B+R | 7.5 | missing | 0 | 
@@ -131,8 +133,8 @@
 | 2019-04-20 | 第9回中国姜堰黄竜士精鍛科技杯世界女子団体戦第1戦 | Cho Seungah | Gao Xing | Lose | W+R | 7.5 | missing | 0 | 
 | 2019-03-19 | 第8回天台山杯世界女子囲碁団体戦韓国選抜戦 | Oh Jeonga | Cho Seungah | Lose | B+R | 7.5 | missing | 0 | 
 | 2019-03-18 | 第8回天台山杯世界女子囲碁団体戦韓国選抜戦 | Kim Hyeoimin | Cho Seungah | Win | W+R | 7.5 | missing | 0 | 
-| 2019-03-15 | 第9回中国姜堰黄竜士精鍛科技杯韓国選抜戦 | Kim Dayoung | Cho Seungah | Win | W+R | 7.5 | missing | 0 | 
 | 2019-03-15 | 第9回中国姜堰黄竜士精鍛科技杯韓国選抜戦 | Kim Hyeoimin | Cho Seungah | Win | W+R | 7.5 | missing | 0 | 
+| 2019-03-15 | 第9回中国姜堰黄竜士精鍛科技杯韓国選抜戦 | Kim Dayoung | Cho Seungah | Win | W+R | 7.5 | missing | 0 | 
 | 2019-03-14 | 第9回中国姜堰黄竜士精鍛科技杯韓国選抜戦 | Park Jiyeon | Cho Seungah | Win | W+0.5 | 7.5 | missing | 0 | 
 | 2018-12-08 | 第2回クラウン・ヘテ杯1回戦 | Park Sangjin | Cho Seungah | Lose | B+R | 6.5 | missing | 0 | 
 | 2018-11-12 | 第2期韓国製紙女子棋聖戦準決勝 | Kim Hyeoimin | Cho Seungah | Lose | B+2.5 | 6.5 | missing | 0 | 

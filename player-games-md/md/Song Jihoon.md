@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-18 | 2021-2022韓国囲碁リーグ | Song Jihoon | Choi Cheolhan | Lose | W+R | 6.5 | 3008 | 68 | 
 | 2021-12-03 | 2021-2022韓国囲碁リーグ | Park Sangjin | Song Jihoon | Win | W+2.5 | 6.5 | 2940 | -12 | 
 | 2021-11-27 | 2021-2022韓国囲碁リーグ | Park Yeonghun | Song Jihoon | Lose | B+R | 6.5 | 2952 | -219 | 
 | 2021-11-20 | 2021-2022韓国囲碁リーグ | Song Jihoon | Ahn Kukhyun | Lose | W+R | 6.5 | 3171 | -44 | 
@@ -25,8 +26,8 @@
 | 2020-12-11 | 2020-2021韓国囲碁リーグ | An Jungki | Song Jihoon | Lose | B+R | 6.5 | 3596 | 7 | 
 | 2020-12-05 | 2020-2021韓国囲碁リーグ | Song Jihoon | Park Geunho | Lose | W+R | 6.5 | 3589 | -45 | 
 | 2020-11-28 | 2020-2021韓国囲碁リーグ | Song Jihoon | An Sungjoon | Lose | W+R | 6.5 | 3634 | 22 | 
-| 2020-11-22 | 第2回大統領杯全国囲碁大会決勝 | Park Hamin | Song Jihoon | Lose | B+1.5 | 6.5 | 3612 | 0 | 
-| 2020-11-22 | 第2回大統領杯全国囲碁大会準決勝 | Song Jihoon | Wen Rubin | Win | B+R | 6.5 | 3612 | -41 | 
+| 2020-11-22 | 第2回大統領杯全国囲碁大会準決勝 | Song Jihoon | Wen Rubin | Win | B+R | 6.5 | 3612 | 0 | 
+| 2020-11-22 | 第2回大統領杯全国囲碁大会決勝 | Park Hamin | Song Jihoon | Lose | B+1.5 | 6.5 | 3612 | -41 | 
 | 2020-11-21 | 第2回大統領杯全国囲碁大会2回戦 | Kang Jihoon | Song Jihoon | Win | W+R | 6.5 | 3653 | 0 | 
 | 2020-11-21 | 第2回大統領杯全国囲碁大会1回戦 | Song Jihoon | Yun Chanhee | Win | B+R | 6.5 | 3653 | 193 | 
 | 2020-11-05 | 第2回大統領杯全国囲碁大会予選 | Lee Wonyoung | Song Jihoon | Win | W+R | 6.5 | 3460 | 264 | 
@@ -62,10 +63,10 @@
 | 2019-10-03 | 2019-2020韓国囲碁リーグ第2節第1試合第2局 | Song Gyusang | Song Jihoon | Win | W+4.5 | 6.5 | 3077 | 22 | 
 | 2019-09-28 | 2019-2020韓国囲碁リーグ第1節第3試合第3局 | Shin Minjun | Song Jihoon | Win | W+R | 6.5 | 3055 | 27 | 
 | 2019-09-10 | 第3回安東市真貯蓄銀行杯プロアマオープン戦16強戦 | Song Jihoon | Kim Jiseok | Lose | W+R | 6.5 | 3028 | 5 | 
-| 2019-08-21 | 第6回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Byun Sangil | Song Jihoon | Lose | B+3.5 | 6.5 | 3023 | 0 | 
-| 2019-08-21 | 第6回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Song Jihoon | Kang Seungmin | Win | B+R | 6.5 | 3023 | -88 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Song Jihoon | Lee Changseok | Lose | W+0.5 | 6.5 | 3111 | 0 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Choi Jeong | Song Jihoon | Win | W+R | 6.5 | 3111 | 41 | 
+| 2019-08-21 | 第6回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Song Jihoon | Kang Seungmin | Win | B+R | 6.5 | 3023 | 0 | 
+| 2019-08-21 | 第6回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Byun Sangil | Song Jihoon | Lose | B+3.5 | 6.5 | 3023 | -88 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Choi Jeong | Song Jihoon | Win | W+R | 6.5 | 3111 | 0 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Song Jihoon | Lee Changseok | Lose | W+0.5 | 6.5 | 3111 | 41 | 
 | 2019-07-06 | 2019年囲碁テレビ杯早碁戦8強戦 | Lee Jihyun | Song Jihoon | Lose | B+R | 6.5 | 3070 | 6 | 
 | 2019-06-26 | 第6回国手山脈韓国国内トーナメント予選 | Song Jihoon | Song Taekon | Win | B+R | 6.5 | 3064 | 19 | 
 | 2019-06-12 | 2019年囲碁テレビ杯早碁戦16強戦 | Song Jihoon | Weon Seongjin | Win | B+R | 6.5 | 3045 | 24 | 

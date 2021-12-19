@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-18 | 2021-2022フューチャーズリーグ | Kim Seungjun | Kim Daeyoung | Lose | B+R | 6.5 | missing | 0 | 
+| 2021-12-04 | 2021-2022フューチャーズリーグ | Kim Daeyoung | Lee Hyungjin | Lose | W+4.5 | 6.5 | missing | 0 | 
 | 2021-11-27 | 2021-2022フューチャーズリーグ | Kim Changhoon | Kim Daeyoung | Lose | B+R | 6.5 | missing | 0 | 
 | 2021-11-20 | 2021-2022フューチャーズリーグ | Kim Daeyoung | Wi Taewoong | Lose | W+R | 6.5 | missing | 0 | 
 | 2020-04-22 | 第25回LG杯韓国予選 | Han Wonggyu | Kim Daeyoung | Lose | B+R | 6.5 | missing | 0 | 

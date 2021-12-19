@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-18 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Byun Sangil | Lose | W+R | 6.5 | 3371 | -21 | 
 | 2021-12-09 | 第27回GSカルテックス杯プロ棋戦予選 | Kang Dongyun | Choi Jaeyoung | Lose | W+R | 6.5 | 3392 | -43 | 
 | 2021-12-05 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Donghoon | Kang Dongyun | Lose | B+R | 6.5 | 3435 | -5 | 
 | 2021-12-03 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Seol Hyunjun | Lose | W+R | 6.5 | 3440 | 8 | 
@@ -74,8 +75,8 @@
 | 2020-12-14 | 第22回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Li Xiangyu | Win | B+R | 7.5 | 3753 | 7 | 
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Kang Dongyun | He Yuhan | Win | B+R | 7.5 | 3746 | -2 | 
 | 2020-12-12 | 第22回中国囲碁甲級リーグ | Wang Zejin | Kang Dongyun | Win | W+R | 7.5 | 3748 | -7 | 
-| 2020-12-11 | 2020-2021韓国囲碁リーグ | Park Junghwan | Kang Dongyun | Lose | B+R | 6.5 | 3755 | 0 | 
-| 2020-12-11 | 第22回中国囲碁甲級リーグ | Dang Yifei | Kang Dongyun | Lose | B+R | 7.5 | 3755 | -16 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Dang Yifei | Kang Dongyun | Lose | B+R | 7.5 | 3755 | 0 | 
+| 2020-12-11 | 2020-2021韓国囲碁リーグ | Park Junghwan | Kang Dongyun | Lose | B+R | 6.5 | 3755 | -16 | 
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Chen Zijian | Kang Dongyun | Win | W+¼ | 7.5 | 3771 | -2 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Kang Dongyun | Cheng Jiaye | Win | B+R | 7.5 | 3773 | -1 | 
 | 2020-12-07 | 第22回中国囲碁甲級リーグ | Peng Liyao | Kang Dongyun | Win | W+R | 7.5 | 3774 | 10 | 
@@ -142,8 +143,8 @@
 | 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Tong Mengcheng | Kang Dongyun | Win | W+R | 7.5 | 3166 | -12 | 
 | 2019-08-04 | 第6回国手山脈韓国国内トーナメント準決勝 | Park Yeonghun | Kang Dongyun | Lose | B+R | 6.5 | 3178 | 0 | 
 | 2019-08-04 | 第6回国手山脈韓国国内トーナメント8強戦 | Kang Dongyun | Park Jinsol | Win | B+R | 6.5 | 3178 | 2 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Kang Dongyun | Cho Hanseung | Win | B+R | 6.5 | 3176 | 0 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Kang Dongyun | Oh Yujin | Win | B+R | 6.5 | 3176 | 18 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Kang Dongyun | Oh Yujin | Win | B+R | 6.5 | 3176 | 0 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Kang Dongyun | Cho Hanseung | Win | B+R | 6.5 | 3176 | 18 | 
 | 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Kang Dongyun | Xie Erhao | Lose | W+R | 7.5 | 3158 | 34 | 
 | 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Kang Dongyun | Li Xiangyu | Win | B+R | 7.5 | 3124 | 15 | 
 | 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Kang Dongyun | Yi Lingtao | Lose | W+R | 7.5 | 3109 | -39 | 
@@ -419,8 +420,8 @@
 | 2013-08-30 | 2013年韓国囲碁リーグ | Kang Dongyun | Lee Jihyun | Lose | W+R | 6.5 | 3440 | -67 | 
 | 2013-08-18 | 2013年韓国囲碁リーグ | Kang Dongyun | Park Junsuck | Win | B+R | 6.5 | 3507 | 0 | 
 | 2013-08-12 | 第57期国手戦（韓国）1回戦 | Kang Dongyun | Jin Siyoung | Win | B+R | 6.5 | 3507 | 71 | 
-| 2013-08-01 | 2013年韓国囲碁リーグ | Lee Sedol | Kang Dongyun | Win | W+0.5 | 6.5 | 3436 | 0 | 
-| 2013-08-01 | 第15回農心杯韓国選抜戦 | Choi Cheolhan | Kang Dongyun | Win | W+R | 6.5 | 3436 | 24 | 
+| 2013-08-01 | 第15回農心杯韓国選抜戦 | Choi Cheolhan | Kang Dongyun | Win | W+R | 6.5 | 3436 | 0 | 
+| 2013-08-01 | 2013年韓国囲碁リーグ | Lee Sedol | Kang Dongyun | Win | W+0.5 | 6.5 | 3436 | 24 | 
 | 2013-07-31 | 第41期名人戦（韓国）予選 | Kang Dongyun | Byun Sangil | Lose | W+R | 6.5 | 3412 | -8 | 
 | 2013-07-26 | 第4期Olleh杯オープン選手権3回戦 | Kang Seungmin | Kang Dongyun | Win | W+R | 6.5 | 3420 | -18 | 
 | 2013-07-24 | 第15回農心杯韓国選抜戦 | Shin Yoonho | Kang Dongyun | Win | W+R | 6.5 | 3438 | 14 | 
@@ -673,8 +674,8 @@
 | 2008-10-16 | 第13期バッカス杯天元戦2回戦 | Kang Dongyun |  | Win | B+R | 6.5 | 3543 | -11 | 
 | 2008-10-13 | 第27回KBS杯囲碁王戦本戦3回戦 | Kang Dongyun | Mok Jinseok | Win | B+R | 6.5 | 3554 | 10 | 
 | 2008-10-08 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Kang Dongyun | Li Zhe | Win | B+R | 6.5 | 3544 | 80 | 
-| 2008-10-07 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Gu Li | Kang Dongyun | Win | W+2.5 | 6.5 | 3464 | 0 | 
-| 2008-10-07 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Yamashiro Hiroshi | Kang Dongyun | Win | W+5.5 | 6.5 | 3464 | -11 | 
+| 2008-10-07 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Yamashiro Hiroshi | Kang Dongyun | Win | W+5.5 | 6.5 | 3464 | 0 | 
+| 2008-10-07 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Gu Li | Kang Dongyun | Win | W+2.5 | 6.5 | 3464 | -11 | 
 | 2008-10-05 | 第1回ワールドマインドスポーツゲームズ囲碁男子個人戦 | Kang Dongyun | Mimura Tomoyasu | Win | B+10.5 | 6.5 | 3475 | 9 | 
 | 2008-09-30 | 第36期名人戦（韓国）リーグ | Park Cheongsang | Kang Dongyun | Win | W+2.5 | 6.5 | 3466 | -8 | 
 | 2008-09-17 | 第13期バッカス杯天元戦1回戦 | Kang Dongyun |  | Win | B+R | 6.5 | 3474 | -11 | 

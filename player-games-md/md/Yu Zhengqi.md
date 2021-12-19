@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-18 | 第47期名人戦リーグ  | Hsu Chiayuan | Yu Zhengqi | Win | W+R | 6.5 | 3287 | -30 | 
+| 2021-12-10 | 第77期本因坊戦リーグ | Ichiriki Ryo | Yu Zhengqi | Win | W+R | 6.5 | 3317 | 14 | 
 | 2021-12-06 | 第60期十段戦2回戦 | Yu Zhengqi | Ueno Asami | Win | B+R | 6.5 | 3303 | 0 | 
 | 2021-12-02 | 第77期本因坊戦リーグ | Yu Zhengqi | Hane Naoki | Win | B+R | 6.5 | 3303 | 3303 | 
 | 2021-11-11 | 第47期名人戦予選 | Yu Zhengqi | Fujita Akihiko | Win | B+R | 6.5 | missing | -3319 | 
@@ -120,10 +122,10 @@
 | 2018-11-15 | 第74期本因坊戦リーグ | Yu Zhengqi | Ko Iso | Win | B+R | 6.5 | 3016 | -7 | 
 | 2018-10-25 | 第57期十段戦2回戦 | Onishi Ryuhei | Yu Zhengqi | Lose | B+R | 6.5 | 3023 | -14 | 
 | 2018-10-18 | 第62期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Yu Zhengqi | Yokota Shigeaki | Win | B+R | 6.5 | 3037 | 6 | 
-| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Yu Zhengqi | Lin Shixun | Win | B+R | 6.5 | 3031 | 0 | 
-| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yu Zhengqi | Tao Xinran | Lose | W+R | 6.5 | 3031 | 15 | 
-| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yu Zhengqi | Kim Myounghoon | Lose | W+R | 6.5 | 3016 | 0 | 
-| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhengqi | Lin Shixun | Lose | W+1.5 | 6.5 | 3016 | -30 | 
+| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yu Zhengqi | Tao Xinran | Lose | W+R | 6.5 | 3031 | 0 | 
+| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Yu Zhengqi | Lin Shixun | Win | B+R | 6.5 | 3031 | 15 | 
+| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhengqi | Lin Shixun | Lose | W+1.5 | 6.5 | 3016 | 0 | 
+| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yu Zhengqi | Kim Myounghoon | Lose | W+R | 6.5 | 3016 | -30 | 
 | 2018-10-11 | 第74期本因坊戦リーグ | Yamashita Keigo | Yu Zhengqi | Win | W+0.5 | 6.5 | 3046 | 32 | 
 | 2018-10-01 | 第62期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Yokota Shigeaki | Yu Zhengqi | Win | W+R | 6.5 | 3014 | -11 | 
 | 2018-09-21 | 第1回天府杯世界囲碁選手権B組1回戦 | Tang Weixing | Yu Zhengqi | Lose | B+R | 7.5 | 3025 | -12 | 
@@ -246,8 +248,8 @@
 | 2015-11-12 | 第71期本因坊戦リーグ | Yu Zhengqi | Ichiriki Ryo | Lose | W+R | 6.5 | 2941 | -17 | 
 | 2015-10-29 | 第54期十段戦2回戦 | Yamashita Keigo | Yu Zhengqi | Win | W+1.5 | 6.5 | 2958 | 30 | 
 | 2015-10-10 | 第71期本因坊戦リーグ | Takao Shinji | Yu Zhengqi | Win | W+R | 6.5 | 2928 | 10 | 
-| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦決勝 | Ahn Kukhyun | Yu Zhengqi | Lose | B+R | 6.5 | 2918 | 0 | 
-| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yu Zhengqi | Lin Lixiang | Lose | W+R | 6.5 | 2918 | 7 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yu Zhengqi | Lin Lixiang | Lose | W+R | 6.5 | 2918 | 0 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦決勝 | Ahn Kukhyun | Yu Zhengqi | Lose | B+R | 6.5 | 2918 | 7 | 
 | 2015-10-02 | 第2回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhengqi | Huang Yunsong | Lose | W+R | 6.5 | 2911 | -30 | 
 | 2015-09-13 | 第2回ゆうちょ杯囲碁ユース選手権準決勝 | Yu Zhengqi | Hsu Chiayuan | Lose | W+R | 6.5 | 2941 | -43 | 
 | 2015-09-10 | 第41期名人戦予選 | Kanazawa Makoto | Yu Zhengqi | Lose | B+0.5 | 6.5 | 2984 | -33 | 
@@ -268,12 +270,12 @@
 | 2015-06-10 | 第20回LG杯朝鮮日報棋王戦2回戦 | Lee Donghoon | Yu Zhengqi | Win | W+R | 6.5 | 3204 | 37 | 
 | 2015-06-08 | 第20回LG杯朝鮮日報棋王戦1回戦 | Peng Liyao | Yu Zhengqi | Win | W+R | 6.5 | 3167 | 33 | 
 | 2015-06-04 | 第22期阿含・桐山杯全日本早碁オープン戦予選 | Yu Zhengqi | Otake Hideo | Win | B+R | 6.5 | 3134 | -29 | 
-| 2015-05-16 | 第6回おかげ杯囲碁トーナメント戦決勝 | Ichiriki Ryo | Yu Zhengqi | Win | W+R | 6.5 | 3163 | 0 | 
-| 2015-05-16 | 第6回おかげ杯囲碁トーナメント戦準決勝 | Mitani Tetsuya | Yu Zhengqi | Win | W+9.5 | 6.5 | 3163 | -13 | 
+| 2015-05-16 | 第6回おかげ杯囲碁トーナメント戦準決勝 | Mitani Tetsuya | Yu Zhengqi | Win | W+9.5 | 6.5 | 3163 | 0 | 
+| 2015-05-16 | 第6回おかげ杯囲碁トーナメント戦決勝 | Ichiriki Ryo | Yu Zhengqi | Win | W+R | 6.5 | 3163 | -13 | 
 | 2015-05-09 | 第2回グロービス杯世界囲碁U-20準々決勝 | Yu Zhengqi | Lee Donghoon | Lose | W+R | 6.5 | 3176 | 0 | 
 | 2015-05-09 | 第2回グロービス杯世界囲碁U-20グループリーグA | Yu Zhengqi | Ichiriki Ryo | Win | B+R | 6.5 | 3176 | -34 | 
-| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグA | Yu Zhengqi | Lin Junyan | Win | B+0.5 | 6.5 | 3210 | 0 | 
-| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグA | Huang Yunsong | Yu Zhengqi | Lose | B+R | 6.5 | 3210 | 55 | 
+| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグA | Huang Yunsong | Yu Zhengqi | Lose | B+R | 6.5 | 3210 | 0 | 
+| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグA | Yu Zhengqi | Lin Junyan | Win | B+0.5 | 6.5 | 3210 | 55 | 
 | 2015-04-09 | 第63期王座戦予選 | Imamura Toshiya | Yu Zhengqi | Win | W+1.5 | 6.5 | 3155 | -24 | 
 | 2015-04-02 | 第70期本因坊戦リーグ | Ida Atsushi | Yu Zhengqi | Win | W+R | 6.5 | 3179 | -63 | 
 | 2015-03-19 | 第70期本因坊戦リーグ | Yu Zhengqi | Mimura Tomoyasu | Win | B+R | 6.5 | 3242 | -1 | 
@@ -343,8 +345,8 @@
 | 2012-09-12 | 2012ジャステック杯国際新鋭囲碁対抗戦第2戦 | Yu Zhengqi | Shin Jinseo | Lose | W+R | 6.5 | 3083 | -115 | 
 | 2012-09-11 | 2012ジャステック杯国際新鋭囲碁対抗戦第1戦 | Yu Zhengqi | Xia Chenkun | Lose | W+R | 6.5 | 3198 | 51 | 
 | 2012-08-16 | 第38期碁聖戦予選 | Imamura Toshiya | Yu Zhengqi | Win | W+R | 6.5 | 3147 | -34 | 
-| 2012-06-25 | 第8回大和証券杯ネット囲碁オープン予選 | Yoda Norimoto | Yu Zhengqi | Win | W+0.5 | 6.5 | 3181 | 0 | 
-| 2012-06-25 | 第8回大和証券杯ネット囲碁オープン予選 | Ishii Kunio | Yu Zhengqi | Win | W+11.5 | 6.5 | 3181 | 156 | 
+| 2012-06-25 | 第8回大和証券杯ネット囲碁オープン予選 | Ishii Kunio | Yu Zhengqi | Win | W+11.5 | 6.5 | 3181 | 0 | 
+| 2012-06-25 | 第8回大和証券杯ネット囲碁オープン予選 | Yoda Norimoto | Yu Zhengqi | Win | W+0.5 | 6.5 | 3181 | 156 | 
 | 2012-06-20 | 第38期名人戦予選 | Yu Zhengqi | Yamada Noriyoshi | Win | B+5.5 | 6.5 | 3025 | 3025 | 
 | 2012-02-02 | 第37期新人王戦1回戦 | Yu Zhengqi | Fujita Akihiko | Lose | W+R | 6.5 | missing | -2574 | 
 | 2010-09-08 | 第36期碁聖戦予選 | Yu Zhengqi | Seto Taiki | Lose | W+R | 6.5 | 2574 | 2574 | 

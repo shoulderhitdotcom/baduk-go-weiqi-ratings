@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-18 | 2021-2022韓国囲碁リーグ | Lee Changseok | Lee Yeongkyu | Lose | B+R | 6.5 | 3098 | -40 | 
 | 2021-12-03 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Kim Jiseok | Lose | W+1.5 | 6.5 | 3138 | -10 | 
 | 2021-11-29 | 第3回大統領杯全国囲碁大会1回戦 | Lee Yeongkyu | Park Minkyu | Lose | W+0.5 | 6.5 | 3148 | -59 | 
 | 2021-11-27 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Kim Jinhyu | Lose | W+5.5 | 6.5 | 3207 | -53 | 
@@ -129,8 +130,8 @@
 | 2017-10-22 | 2017年韓国囲碁リーグ | Shin Jinseo | Lee Yeongkyu | Win | W+R | 6.5 | 3361 | 5 | 
 | 2017-10-15 | 第4回おかげ杯国際精鋭囲碁対抗戦決勝 | Lee Yeongkyu | Tong Mengcheng | Lose | W+R | 6.5 | 3356 | 0 | 
 | 2017-10-15 | 第4回おかげ杯国際精鋭囲碁対抗戦3回戦 | Lee Yeongkyu | Xiao Zhenghao | Win | B+R | 6.5 | 3356 | 22 | 
-| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦1回戦 | Fan Yunruo | Lee Yeongkyu | Win | W+R | 6.5 | 3334 | 0 | 
-| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦2回戦 | Murakawa Daisuke | Lee Yeongkyu | Lose | B+R | 6.5 | 3334 | -27 | 
+| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦2回戦 | Murakawa Daisuke | Lee Yeongkyu | Lose | B+R | 6.5 | 3334 | 0 | 
+| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦1回戦 | Fan Yunruo | Lee Yeongkyu | Win | W+R | 6.5 | 3334 | -27 | 
 | 2017-10-08 | 2017年韓国囲碁リーグ | Lee Yeongkyu | Seol Hyunjun | Win | B+R | 6.5 | 3361 | 28 | 
 | 2017-09-30 | 2017年韓国囲碁リーグ | Lee Yeongkyu | Shin Minjun | Win | B+7.5 | 6.5 | 3333 | 10 | 
 | 2017-09-21 | 2017年韓国囲碁リーグ | Lee Yeongkyu |  | Win | B+R | 6.5 | 3323 | 44 | 
@@ -320,8 +321,8 @@
 | 2011-07-12 | 第16期GSカルテックス杯プロ棋戦準決勝 | Park Junghwan | Lee Yeongkyu | Lose | B+0.5 | 6.5 | 3369 | 1 | 
 | 2011-07-11 | 第13回農心杯韓国選抜戦 | Lee Yeongkyu | Kang Seungmin | Win | B+0.5 | 6.5 | 3368 | 16 | 
 | 2011-07-09 | 第13回中国囲碁甲級リーグ第10節 | Tao Xinran | Lee Yeongkyu | Win | W+R | 7.5 | 3352 | -10 | 
-| 2011-07-07 | 2011年韓国囲碁リーグ | Lee Yeongkyu | Han Sanghoon | Win | B+R | 6.5 | 3362 | 0 | 
-| 2011-07-07 | 第7期物価情報杯プロ棋戦決勝トーナメント1回戦 | Hong Seongji | Lee Yeongkyu | Win | W+R | 6.5 | 3362 | -22 | 
+| 2011-07-07 | 第7期物価情報杯プロ棋戦決勝トーナメント1回戦 | Hong Seongji | Lee Yeongkyu | Win | W+R | 6.5 | 3362 | 0 | 
+| 2011-07-07 | 2011年韓国囲碁リーグ | Lee Yeongkyu | Han Sanghoon | Win | B+R | 6.5 | 3362 | -22 | 
 | 2011-06-30 | 2011年韓国囲碁リーグ | Lee Yeongkyu | Choi Cheolhan | Lose | W+R | 6.5 | 3384 | -141 | 
 | 2011-06-25 | 第13回中国囲碁甲級リーグ第8節 | Lee Yeongkyu | Piao Wenyao | Lose | W+R | 7.5 | 3525 | -69 | 
 | 2011-06-18 | 第13回中国囲碁甲級リーグ第7節 | Fan Tingyu | Lee Yeongkyu | Win | W+R | 7.5 | 3594 | -19 | 
@@ -399,8 +400,8 @@
 | 2009-07-04 | 第11回中国囲碁甲級リーグ第9節 | Li Kang | Lee Yeongkyu | Win | W+R | 7.5 | 3197 | 8 | 
 | 2009-07-02 | 2009年韓国囲碁リーグ | Lee Yeongkyu | Cho Hunhyun | Win | B+4.5 | 6.5 | 3189 | 2 | 
 | 2009-06-27 | 第11回中国囲碁甲級リーグ第8節 | Lee Yeongkyu | Huang Yizhong | Win | B+7.5 | 7.5 | 3187 | 50 | 
-| 2009-06-25 | 2009年韓国囲碁リーグ | Mok Jinseok | Lee Yeongkyu | Lose | B+R | 6.5 | 3137 | 0 | 
-| 2009-06-25 | 第5期物価情報杯プロ棋戦決勝トーナメント1回戦 | Kim Jiseok | Lee Yeongkyu | Lose | B+R | 6.5 | 3137 | 5 | 
+| 2009-06-25 | 第5期物価情報杯プロ棋戦決勝トーナメント1回戦 | Kim Jiseok | Lee Yeongkyu | Lose | B+R | 6.5 | 3137 | 0 | 
+| 2009-06-25 | 2009年韓国囲碁リーグ | Mok Jinseok | Lee Yeongkyu | Lose | B+R | 6.5 | 3137 | 5 | 
 | 2009-06-18 | 第11回中国囲碁甲級リーグ第7節 | Lee Yeongkyu | Wang Haoyang | Lose | W+R | 7.5 | 3132 | 11 | 
 | 2009-06-12 | 第5期物価情報杯プロ棋戦リーグD | Park Cheongsang | Lee Yeongkyu | Lose | B+R | 6.5 | 3121 | 11 | 
 | 2009-06-07 | 2009年韓国囲碁リーグ | Lee Yeongkyu |  | Win | B+R | 6.5 | 3110 | 1 | 
@@ -607,13 +608,13 @@
 | 2003-08-11 | 第14期BCカード杯新人王戦 | Lee Yeongkyu | Yun Jaewung | Win | B+R | 6.5 | 2658 | 64 | 
 | 2003-08-06 | 第14期BCカード杯新人王戦 | An Younggil | Lee Yeongkyu | Win | W+R | 6.5 | 2594 | 17 | 
 | 2003-08-04 | 第8期三星杯予選決勝 | Lee Yeongkyu | Zhang Wendong | Lose | W+T | 6.5 | 2577 | 34 | 
-| 2003-07-24 | 第3期オスラムコリア杯新鋭連勝最強戦 | Lee Yeongkyu | Song Taekon | Lose | W+2.5 | 6.5 | 2543 | 0 | 
-| 2003-07-24 | 第3期オスラムコリア杯新鋭連勝最強戦 | Heo Yongho | Lee Yeongkyu | Win | W+R | 6.5 | 2543 | 29 | 
+| 2003-07-24 | 第3期オスラムコリア杯新鋭連勝最強戦 | Heo Yongho | Lee Yeongkyu | Win | W+R | 6.5 | 2543 | 0 | 
+| 2003-07-24 | 第3期オスラムコリア杯新鋭連勝最強戦 | Lee Yeongkyu | Song Taekon | Lose | W+2.5 | 6.5 | 2543 | 29 | 
 | 2003-07-18 | 第15期棋聖戦（韓国）1回戦 | Lee Yeongkyu | Mok Jinseok | Lose | W+R | 6.5 | 2514 | 19 | 
 | 2003-06-18 | 第3期オスラムコリア杯新鋭連勝最強戦 | Lee Yeongkyu | Kim Daeyoung | Win | B+R | 6.5 | 2495 | 0 | 
 | 2003-06-18 | 第3期オスラムコリア杯新鋭連勝最強戦 | Lee Yeongkyu | An Younggil | Win | B+R | 6.5 | 2495 | 21 | 
-| 2003-06-11 | 第3期オスラムコリア杯新鋭連勝最強戦 | Park Seunghyeon | Lee Yeongkyu | Win | W+R | 6.5 | 2474 | 0 | 
-| 2003-06-11 | 第3期オスラムコリア杯新鋭連勝最強戦 |  | Lee Yeongkyu | Win | W+R | 6.5 | 2474 | 8 | 
+| 2003-06-11 | 第3期オスラムコリア杯新鋭連勝最強戦 |  | Lee Yeongkyu | Win | W+R | 6.5 | 2474 | 0 | 
+| 2003-06-11 | 第3期オスラムコリア杯新鋭連勝最強戦 | Park Seunghyeon | Lee Yeongkyu | Win | W+R | 6.5 | 2474 | 8 | 
 | 2003-04-10 | 第3期オスラムコリア杯新鋭連勝最強戦予選 | Weon Seongjin | Lee Yeongkyu | Win | W+R | 6.5 | 2466 | -9 | 
 | 2003-03-13 | 第13期BCカード杯新人王戦決勝三番勝負第2局 | Song Taekon | Lee Yeongkyu | Lose | B+R | 6.5 | 2475 | -50 | 
 | 2003-03-03 | 第13期BCカード杯新人王戦決勝三番勝負第1局 | Lee Yeongkyu | Song Taekon | Lose | W+7.5 | 6.5 | 2525 | 27 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-18 | 2021-2022フューチャーズリーグ | An Joyeong | Hyun Yoobin | Lose | W+R | 6.5 | 3052 | -122 | 
+| 2021-12-04 | 2021-2022フューチャーズリーグ | An Joyeong |  | Lose | W+R | 6.5 | 3174 | 88 | 
 | 2021-12-01 | 2021-2022フューチャーズリーグ | An Joyeong |  | Win | B+0.5 | 6.5 | 3086 | -53 | 
 | 2021-11-20 | 2021-2022フューチャーズリーグ | An Joyeong | Lee Wondo | Lose | W+R | 6.5 | 3139 | -63 | 
 | 2021-11-17 | 第3期ソパルコサノル最高棋士決定戦予選 | An Joyeong | Kim Jiseok | Lose | W+R | 6.5 | 3202 | -23 | 
@@ -45,8 +47,8 @@
 | 2019-10-16 | 2019フューチャーズリーグ第2節第4試合第1局 | Gang Woohyeok | An Joyeong | Lose | B+0.5 | 6.5 | 2844 | -53 | 
 | 2019-10-06 | 2019-2020韓国囲碁リーグ第2節第4試合第1局 | Park Joonhoon | An Joyeong | Lose | B+R | 6.5 | 2897 | 7 | 
 | 2019-09-28 | 2019-2020フューチャーズリーグ第1節第2試合第2局 |  | An Joyeong | Win | W+R | 6.5 | 2890 | 89 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Kim Sangcheon | An Joyeong | Lose | B+R | 6.5 | 2801 | 0 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | An Joyeong | Heo Yongho | Win | B+R | 6.5 | 2801 | 87 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | An Joyeong | Heo Yongho | Win | B+R | 6.5 | 2801 | 0 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Kim Sangcheon | An Joyeong | Lose | B+R | 6.5 | 2801 | 87 | 
 | 2019-07-15 | 第21回農心杯韓国選抜戦 | Lee Jihyun | An Joyeong | Lose | B+R | 6.5 | 2714 | -30 | 
 | 2019-04-08 | 2019年囲碁テレビ杯早碁戦予選1回戦 | Lee Chungyu | An Joyeong | Win | W+R | 6.5 | 2744 | 4 | 
 | 2019-04-03 | 第24回LG杯統合予選2回戦 | An Joyeong | Tong Mengcheng | Lose | W+1.5 | 6.5 | 2740 | -47 | 

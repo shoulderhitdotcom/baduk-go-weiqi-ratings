@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-18 | 2021-2022韓国囲碁リーグ | Lee Changseok | Lee Yeongkyu | Win | B+R | 6.5 | 3476 | -27 | 
+| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Baek Hyeonwoo | Lee Changseok | Lose | B+4.5 | 6.5 | 3503 | -14 | 
 | 2021-12-07 | 第27回GSカルテックス杯プロ棋戦予選 | Kim Seungjun | Lee Changseok | Win | W+5.5 | 6.5 | 3517 | -3 | 
 | 2021-12-06 | 第5回クラウン・ヘテ杯1回戦 | Lee Changseok |  | Win | B+R | 6.5 | 3520 | 13 | 
 | 2021-12-02 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Lee Changseok | Win | W+R | 6.5 | 3507 | -4 | 
@@ -118,8 +120,8 @@
 | 2019-10-05 | 2019-2020韓国囲碁リーグ第2節第3試合第2局 | Shin Minjun | Lee Changseok | Lose | B+R | 6.5 | 3068 | 60 | 
 | 2019-09-26 | 2019-2020韓国囲碁リーグ第1節第1試合第5局 | Lee Changseok | Yun Junsang | Lose | W+R | 6.5 | 3008 | -48 | 
 | 2019-08-04 | 第6回国手山脈韓国国内トーナメント8強戦 | Lee Changseok | Park Yeonghun | Lose | W+T | 6.5 | 3056 | -24 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Song Jihoon | Lee Changseok | Win | W+0.5 | 6.5 | 3080 | 0 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Kang Changbae | Lee Changseok | Win | W+R | 6.5 | 3080 | 44 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Kang Changbae | Lee Changseok | Win | W+R | 6.5 | 3080 | 0 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Song Jihoon | Lee Changseok | Win | W+0.5 | 6.5 | 3080 | 44 | 
 | 2019-07-12 | 第21回農心杯韓国選抜戦 | Park Hamin | Lee Changseok | Lose | B+R | 6.5 | 3036 | -51 | 
 | 2019-06-26 | 第6回国手山脈韓国国内トーナメント予選 | Park Hamin | Lee Changseok | Win | W+1.5 | 6.5 | 3087 | 60 | 
 | 2019-01-12 | 第2回クラウン・ヘテ杯3回戦 | Park Hamin | Lee Changseok | Lose | B+0.5 | 6.5 | 3027 | -22 | 

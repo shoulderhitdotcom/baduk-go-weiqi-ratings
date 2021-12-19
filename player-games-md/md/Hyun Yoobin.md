@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-18 | 2021-2022フューチャーズリーグ | An Joyeong | Hyun Yoobin | Win | W+R | 6.5 | 3099 | 11 | 
 | 2021-11-28 | 2021-2022フューチャーズリーグ | Hyun Yoobin | Shin Jaeweon | Win | B+R | 6.5 | 3088 | -55 | 
 | 2021-11-20 | 2021-2022フューチャーズリーグ | Lee Hyeonjun | Hyun Yoobin | Win | W+R | 6.5 | 3143 | 39 | 
 | 2021-11-09 | 第3回大統領杯全国囲碁大会予選 | Hyun Yoobin | Song Gyusang | Win | B+1.5 | 6.5 | 3104 | 46 | 
@@ -68,8 +69,8 @@
 | 2019-12-29 | 2019CHO-A BITONE杯ルーキーリーグ第14節第4試合第1局 |  | Hyun Yoobin | Lose | B+R | 6.5 | 2675 | 249 | 
 | 2019-12-14 | 2019CHO-A BITONE杯ルーキーリーグ第10節第3試合第2局 | Hyun Yoobin |  | Win | B+2.5 | 6.5 | 2426 | 2426 | 
 | 2019-12-05 | 第3回クラウン・ヘテ杯1回戦 | Shin Minjun | Hyun Yoobin | Lose | B+R | 6.5 | missing | 0 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Oh Jeonga | Hyun Yoobin | Lose | B+R | 6.5 | missing | 0 | 
 | 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Kang Jihoon | Hyun Yoobin | Win | W+R | 6.5 | missing | 0 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Oh Jeonga | Hyun Yoobin | Lose | B+R | 6.5 | missing | 0 | 
 | 2019-04-30 | 第38回KBS杯囲碁王戦2回戦 | Park Yeonghun | Hyun Yoobin | Lose | B+R | 6.5 | missing | 0 | 
 | 2019-02-12 | 第38回KBS杯囲碁王戦1回戦 | Hyun Yoobin |  | Win | B+2.5 | 6.5 | missing | 0 | 
 | 2019-01-15 | 第7回河燦錫国手杯英才囲碁大会24強戦 | Hyun Yoobin |  | Lose | W+R | 6.5 | missing | -2817 | 

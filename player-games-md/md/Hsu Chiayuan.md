@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-18 | 第47期名人戦リーグ  | Hsu Chiayuan | Yu Zhengqi | Lose | W+R | 6.5 | 3378 | -22 | 
 | 2021-12-11 | 第7回国手山脈世界プロ最強戦準決勝  | Byun Sangil | Hsu Chiayuan | Lose | B+R | 6.5 | 3400 | -7 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦 | Hsu Chiayuan | Huang Yunsong | Win | B+R | 6.5 | 3407 | 0 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Kim Myounghoon | Hsu Chiayuan | Win | W+R | 6.5 | 3407 | 20 | 

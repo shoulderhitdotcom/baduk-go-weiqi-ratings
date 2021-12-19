@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-18 | 2021蘭雪軒杯全国女子囲碁大会準決勝 |  | Kim Cheayoung | Lose | B+R | 6.5 | 2614 | 0 | 
+| 2021-12-18 | 2021蘭雪軒杯全国女子囲碁大会1回戦 | Kim Cheayoung |  | Win | B+R | 6.5 | 2614 | -21 | 
 | 2021-11-25 | 2021蘭雪軒杯全国女子囲碁大会予選 | Kim Cheayoung | Lee Youngjoo | Win | B+2.5 | 6.5 | 2635 | 0 | 
 | 2021-11-23 | 第5回クラウン・ヘテ杯予選 |  | Kim Cheayoung | Lose | B+R | 6.5 | 2635 | 2635 | 
 | 2021-11-11 | 第3回大統領杯全国囲碁大会予選 | Kim Cheayoung |  | Lose | W+R | 6.5 | missing | -2747 | 
@@ -217,8 +219,8 @@
 | 2017-02-16 | 3期韓国女子連戦1回戦首尓-浦項 | Moon Dowon | Kim Cheayoung | Win | W+R | 6.5 | 2606 | -27 | 
 | 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦第3戦 | Kim Cheayoung | Okuda Aya | Win | B+4.5 | 6.5 | 2633 | 0 | 
 | 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦決勝 | Kim Cheayoung | Chen Yiming | Lose | W+1.5 | 6.5 | 2633 | -6 | 
-| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Kim Cheayoung | Chen Yiming | Lose | W+R | 6.5 | 2639 | 0 | 
-| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Su Shengfang | Kim Cheayoung | Win | W+R | 6.5 | 2639 | -24 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Su Shengfang | Kim Cheayoung | Win | W+R | 6.5 | 2639 | 0 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Kim Cheayoung | Chen Yiming | Lose | W+R | 6.5 | 2639 | -24 | 
 | 2016-09-25 | 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Yang Zixuan | Kim Cheayoung | Win | W+R | 6.5 | 2663 | -15 | 
 | 2016-09-24 | 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Song Ronghui | Kim Cheayoung | Win | W+1.5 | 6.5 | 2678 | 13 | 
 | 2016-09-23 | 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Kim Cheayoung | Ueno Asami | Win | B+R | 6.5 | 2665 | -79 | 

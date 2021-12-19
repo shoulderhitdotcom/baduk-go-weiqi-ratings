@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-18 | 2021-2022フューチャーズリーグ |  | Park Jinyoung | Win | W+R | 6.5 | 3303 | 248 | 
 | 2021-11-28 | 2021-2022フューチャーズリーグ | Park Jinyoung |  | Win | B+3.5 | 6.5 | 3055 | -141 | 
 | 2021-11-20 | 2021-2022フューチャーズリーグ | Choi Kyeongho | Park Jinyoung | Win | W+0.5 | 6.5 | 3196 | 3196 | 
 | 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Sedong | Park Jinyoung | Lose | B+R | 6.5 | missing | -3207 | 
@@ -17,8 +18,8 @@
 | 2020-01-04 | 第3回クラウン・ヘテ杯2回戦 | Park Jinyoung | Kang Seungmin | Win | B+R | 6.5 | 3301 | 337 | 
 | 2019-12-14 | 第3回クラウン・ヘテ杯1回戦 | Park Jinyoung | Baek Hyeonwoo | Win | B+R | 6.5 | 2964 | 2 | 
 | 2019-08-04 | 第6回国手山脈韓国国内トーナメント8強戦 | Han Seungjoo | Park Jinyoung | Lose | B+R | 6.5 | 2962 | -29 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Park Jinyoung | Lee Wondo | Win | B+0.5 | 6.5 | 2991 | 0 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Park Jinyoung |  | Win | B+R | 6.5 | 2991 | 109 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Park Jinyoung |  | Win | B+R | 6.5 | 2991 | 0 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Park Jinyoung | Lee Wondo | Win | B+0.5 | 6.5 | 2991 | 109 | 
 | 2019-07-10 | 第21回農心杯韓国選抜戦 | Seol Hyunjun | Park Jinyoung | Lose | B+R | 6.5 | 2882 | 79 | 
 | 2019-04-08 | 2019年囲碁テレビ杯早碁戦予選1回戦 | Lee Changho | Park Jinyoung | Lose | B+2.5 | 6.5 | 2803 | -71 | 
 | 2019-03-12 | 第2期韓国竜星戦32強戦-1 | Shin Minjun | Park Jinyoung | Lose | B+R | 6.5 | 2874 | -81 | 

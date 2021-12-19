@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-19 | 第12期中国竜星戦決勝三番勝負第1局 | Gu Zihao | Mi Yuting | Win | B+R | 7.5 | 3713 | 24 | 
 | 2021-12-08 | 第22期阿含・桐山杯日中決戦  | Gu Zihao | Hsu Chiayuan | Win | B+R | 7.5 | 3689 | 34 | 
 | 2021-12-06 | 第22期阿含・桐山杯中国早碁オープン戦決勝 | Huang Yunsong | Gu Zihao | Win | W+R | 7.5 | 3655 | 16 | 
 | 2021-11-24 | 第22期阿含・桐山杯中国早碁オープン戦準決勝 | Gu Zihao | Zhao Chenyu | Win | B+R | 7.5 | 3639 | 6 | 
@@ -258,15 +259,15 @@
 | 2017-04-08 | 第22期LG杯世界予選決勝 | Gu Zihao | Park Yeonghun | Lose | W+R | 6.5 | 3318 | 141 | 
 | 2017-03-17 | 第8期中国竜星戦Bブロック9回戦 | Gu Zihao | Shi Yue | Win | B+1.5 | 7.5 | 3177 | 0 | 
 | 2017-03-17 | 第8期中国竜星戦Bブロック10回戦 | Zhou Ruiyang | Gu Zihao | Win | W+2.5 | 7.5 | 3177 | 0 | 
-| 2017-03-15 | 第8期中国竜星戦Bブロック7回戦 | Gu Zihao | Wang Xi | Win | B+R | 7.5 | 3177 | 0 | 
-| 2017-03-15 | 第8期中国竜星戦Bブロック8回戦 | Gu Zihao | Mi Yuting | Win | B+R | 7.5 | 3177 | 25 | 
-| 2017-02-28 | 第8期中国竜星戦Bブロック5回戦 | Chang Hao | Gu Zihao | Win | W+R | 7.5 | 3152 | 0 | 
-| 2017-02-28 | 第8期中国竜星戦Bブロック6回戦 | Xie He | Gu Zihao | Win | W+R | 7.5 | 3152 | 39 | 
+| 2017-03-15 | 第8期中国竜星戦Bブロック8回戦 | Gu Zihao | Mi Yuting | Win | B+R | 7.5 | 3177 | 0 | 
+| 2017-03-15 | 第8期中国竜星戦Bブロック7回戦 | Gu Zihao | Wang Xi | Win | B+R | 7.5 | 3177 | 25 | 
+| 2017-02-28 | 第8期中国竜星戦Bブロック6回戦 | Xie He | Gu Zihao | Win | W+R | 7.5 | 3152 | 0 | 
+| 2017-02-28 | 第8期中国竜星戦Bブロック5回戦 | Chang Hao | Gu Zihao | Win | W+R | 7.5 | 3152 | 39 | 
 | 2017-01-13 | 第31期中国囲碁天元戦予選 | Gu Zihao | Chen Xian | Lose | W+R | 7.5 | 3113 | -3 | 
 | 2017-01-02 | Alphago Online Series on Tygem and Fox 36 |  | Gu Zihao | Lose | B+R | 6.5 | 3116 | 0 | 
 | 2016-12-31 | 2016年利民杯世界囲碁星鋭最強戦1回戦 | Seol Hyunjun | Gu Zihao | Lose | B+1.5 | 7.5 | 3116 | -11 | 
-| 2016-12-28 | 第8期中国竜星戦Bブロック3回戦 | Gu Zihao | Yang Dingxin | Win | B+R | 7.5 | 3127 | 0 | 
-| 2016-12-28 | 第8期中国竜星戦Bブロック4回戦 | Gu Zihao | Sun Tengyu | Win | B+R | 7.5 | 3127 | 20 | 
+| 2016-12-28 | 第8期中国竜星戦Bブロック4回戦 | Gu Zihao | Sun Tengyu | Win | B+R | 7.5 | 3127 | 0 | 
+| 2016-12-28 | 第8期中国竜星戦Bブロック3回戦 | Gu Zihao | Yang Dingxin | Win | B+R | 7.5 | 3127 | 20 | 
 | 2016-12-24 | 嫘祖杯第29期中国名人戦32強戦 | Gu Zihao | Fan Yunruo | Lose | W+R | 7.5 | 3107 | 0 | 
 | 2016-12-22 | 第11回春蘭杯世界囲碁選手権準決勝 | Tan Xiao | Gu Zihao | Lose | B+R | 7.5 | 3107 | -5 | 
 | 2016-12-20 | 第11回春蘭杯世界囲碁選手権3回戦 | Gu Zihao | Kim Jiseok | Win | B+1.5 | 7.5 | 3112 | -2 | 
@@ -389,8 +390,8 @@
 | 2012-09-08 | 第14回中国囲碁甲級リーグ第14節 | Gu Zihao | Yang Dingxin | Lose | W+R | 7.5 | 3463 | -49 | 
 | 2012-09-01 | 第14回中国囲碁甲級リーグ第13節 | Jiang Weijie | Gu Zihao | Win | W+2.5 | 7.5 | 3512 | 35 | 
 | 2012-08-30 | 第14回中国囲碁甲級リーグ第12節 | Gu Zihao | Tang Weixing | Win | B+R | 7.5 | 3477 | 249 | 
-| 2012-06-28 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Zhou Heyang | Gu Zihao | Win | W+8.5 | 7.5 | 3228 | 0 | 
-| 2012-06-28 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Gu Zihao | Sun Tengyu | Lose | W+R | 7.5 | 3228 | 42 | 
+| 2012-06-28 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Gu Zihao | Sun Tengyu | Lose | W+R | 7.5 | 3228 | 0 | 
+| 2012-06-28 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Zhou Heyang | Gu Zihao | Win | W+8.5 | 7.5 | 3228 | 42 | 
 | 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Gu Zihao | Li Xing | Win | B+R | 7.5 | 3186 | 0 | 
 | 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Gu Zihao | Tang Weixing | Win | B+1.5 | 7.5 | 3186 | 238 | 
 | 2012-06-23 | 第14回中国囲碁甲級リーグ第7節 | Gu Zihao | Chang Hao | Lose | W+R | 7.5 | 2948 | -81 | 

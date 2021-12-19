@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-19 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Kim Jiseok | Lose | B+R | 6.5 | 3484 | -12 | 
 | 2021-12-16 | 2021-2022韓国囲碁リーグ | Na Hyun | Kim Jiseok | Win | W+3.5 | 6.5 | 3496 | -41 | 
 | 2021-12-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Jiseok | Wi Taewoong | Lose | W+0.5 | 6.5 | 3537 | -13 | 
 | 2021-12-03 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Kim Jiseok | Win | W+1.5 | 6.5 | 3550 | 1 | 

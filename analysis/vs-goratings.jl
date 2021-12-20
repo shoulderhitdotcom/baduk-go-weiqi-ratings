@@ -30,6 +30,10 @@ using DataFrames, DataFrameMacros, Chain, Dates, JDF
 
 grdata1 = JDF.load("grdata.jdf") |> DataFrame
 
+grdata2 = @chain grdata1 begin
+    @transform :Date = :Date
+end
+
 # load the data from the dataset
 tbl = JDF.load("../kifu-depot-games-for-ranking.jdf/") |> DataFrame
 using BadukGoWeiqiTools: load_namesdb
@@ -37,10 +41,11 @@ const NAMESDB = load_namesdb()
 
 pings = @chain JDF.load("../pings_hist.jdf/") begin
     DataFrame
-    @transform :date = :date - Day(1)
+    @transform :date = :date
     select([:date, :eng_name_old, :Rating])
 end
 
+japs = ("Iyama Yuta", "Shibano Toramaru", "Ichiriki Ryo", "Yu Zhengqi", "Hsu Chiayuan")
 tbl1 = @chain tbl begin
     @transform begin
         :black = get(NAMESDB, :black, "")
@@ -48,10 +53,11 @@ tbl1 = @chain tbl begin
     end
     @subset :black != ""
     @subset :white != ""
+    @subset ((:black in japs) | (:white in japs))
     innerjoin(rename(pings, :Rating => :br), on = [:black => :eng_name_old, :date => :date])
     innerjoin(rename(pings, :Rating => :wr), on = [:white => :eng_name_old, :date => :date])
-    innerjoin(rename(grdata1, :Rating => :gbr), on = [:black => :name, :date => :Date])
-    innerjoin(rename(grdata1, :Rating => :gwr), on = [:white => :name, :date => :Date])
+    innerjoin(rename(grdata2, :Rating => :gbr), on = [:black => :name, :date => :Date])
+    innerjoin(rename(grdata2, :Rating => :gwr), on = [:white => :name, :date => :Date])
 end
 
 function wp(r1, r2)
@@ -73,7 +79,7 @@ tbl2 = @chain tbl1 begin
         :yr = year(:date)
     end
     groupby(:yr)
-    @combine(:myll = sum(:myll), :goll = sum(:goll))
+    @combine(:myll = sum(:myll), :goll = sum(:goll), :n = length(:goll))
     @transform :mine_better = :myll < :goll
 end
 

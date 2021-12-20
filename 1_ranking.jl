@@ -19,7 +19,7 @@ includet("utils.jl")
 
 # rating offset
 const OFFSET = 3800 - 6.5 / log(10) * 400
-const NGAME_THRESHOLD = 11
+const NGAME_THRESHOLD = 10
 
 # the intended syntax
 # @target = tbl = @chain @watch_path "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
@@ -139,24 +139,58 @@ pings_hist = unique(vcat(pings_hist, select(pings_for_md1, cols_to_keep)), [:dat
 
 JDF.save("pings_hist.jdf", pings_hist)
 
-# normalized the ratings so that it's the average of the last 365 days
-latest_date = maximum(pings_hist.date)
-mean_rating365 = @chain pings_hist begin
-    @subset :date >= latest_date - Day(364)
-    groupby(:date)
-    @combine(:mean_rating = mean(:Rating))
-    @combine(mean(:mean_rating))
-    _[1, 1]
+# to make sure that the ratings don't slide crazily up and down we need to smooth it over time
+# we smooth by picking out players who've played more than 10 games
+
+# find out the number of games played in last 365 days
+function ma365(col::AbstractVector)
+    s = sum(@view col[1:365])
+    a = accumulate(+, @view col[1:365])
+    vcat(a, s .- accumulate(+, col[1:end-365]) .+ accumulate(+, col[366:end]))
 end
 
-mean_raw_rating = mean(pings_for_md1.Rating)
+games_played_hist = @chain tbl begin
+    select(:date, :black, :white)
+    stack([:black, :white], :date)
+    select(:date, :value)
+    groupby([:date, :value])
+    combine(nrow => :n)
+    groupby(:value)
+    combine(df -> begin
+        if nrow(df) >= 366
+            return @chain df begin
+                sort(:date)
+                @transform :n = @c ma365(:n)
+            end
+        else
+            return DataFrame()
+        end
+    end)
+    @subset :n >= NGAME_THRESHOLD
+    select(:value => :name, :date)
+    sort!(:date)
+end
 
-pings_for_md1 = @chain pings_for_md1 begin
-    @transform :Rating = Int(round(:Rating + mean_rating365 - mean_raw_rating, digits = 0))
+pings_hist_smoothed = @chain pings_hist begin
+    innerjoin(games_played_hist, on = [:date, :name])
+    groupby(:date)
+    @combine(:mean_lr = mean(log.(:Rating)))
+    sort!(:date)
+    @transform :clr = @c accumulate(+, :mean_lr) ./ (1:length(:mean_lr))
+end
+
+const LATEST_LOG_R = pings_hist_smoothed.clr[end]
+
+# normalized the ratings so that it's the average of the last 365 days
+latest_date = maximum(pings_hist.date)
+pings_for_md2 = @chain pings_for_md1 begin
+    leftjoin(pings_hist_smoothed, on = [:date])
+    @transform :Rating = round(Int, exp(log(:Rating) - :mean_lr + LATEST_LOG_R))
+    sort!(:Rating)
 end
 
 pings_for_md_tmp = select(
-    pings_for_md1,
+    pings_for_md2,
     :Rank,
     :eng_name => "Name",
     :Rating,

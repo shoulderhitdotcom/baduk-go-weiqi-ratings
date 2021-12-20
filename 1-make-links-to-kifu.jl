@@ -48,6 +48,8 @@ if false
             return select!(turn_records_into_md(pings_old), :date, :name, :eng_name_old, :Rating, :Rank)
 end
 
+
+
 # for each player create the players's page
 for name in names_to_update
     if !ismissing(name)

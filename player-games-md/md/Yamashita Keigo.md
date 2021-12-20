@@ -7,8 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦  | Yamashita Keigo | Choi Jeong | Win | B+1.5 | 6.5 | 3174 | 0 | 
-| 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦  | Yamashita Keigo | Shin Jinseo | Lose | W+R | 6.5 | 3174 | 20 | 
+| 2021-12-20 | 第47期名人戦リーグ  | Shida Tatsuya | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3117 | -57 | 
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦  | Yamashita Keigo | Shin Jinseo | Lose | W+R | 6.5 | 3174 | 0 | 
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦  | Yamashita Keigo | Choi Jeong | Win | B+1.5 | 6.5 | 3174 | 20 | 
 | 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Lee Changho | Yamashita Keigo | Win | W+R | 7.5 | 3154 | 44 | 
 | 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Chang Hao | Yamashita Keigo | Win | W+¼ | 7.5 | 3110 | 7 | 
 | 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Yamashita Keigo | Zhao Chenyu | Lose | W+R | 6.5 | 3103 | -32 | 
@@ -204,8 +205,8 @@
 | 2017-04-13 | 第42期名人戦リーグ | Cho U | Yamashita Keigo | Win | W+R | 6.5 | 3109 | -9 | 
 | 2017-04-06 | 第72期本因坊戦　挑戦者決定リーグ最終戦 | Takao Shinji | Yamashita Keigo | Win | W+R | 6.5 | 3118 | 2 | 
 | 2017-03-27 | 第42期名人戦リーグ | Yamashita Keigo | Kono Rin | Win | B+R | 6.5 | 3116 | 162 | 
-| 2017-03-18 | 第4回グランドチャンピオン戦　決勝 | Ichiriki Ryo | Yamashita Keigo | Lose | B+R | 6.5 | 2954 | 0 | 
-| 2017-03-18 | 第4回グランドチャンピオン戦　準決勝 | Iyama Yuta | Yamashita Keigo | Win | W+R | 6.5 | 2954 | -12 | 
+| 2017-03-18 | 第4回グランドチャンピオン戦　準決勝 | Iyama Yuta | Yamashita Keigo | Win | W+R | 6.5 | 2954 | 0 | 
+| 2017-03-18 | 第4回グランドチャンピオン戦　決勝 | Ichiriki Ryo | Yamashita Keigo | Lose | B+R | 6.5 | 2954 | -12 | 
 | 2017-03-16 | 第65期王座戦　最終予選特選譜第7局 | Yamashita Keigo | Shibano Toramaru | Lose | W+4.5 | 6.5 | 2966 | -42 | 
 | 2017-03-02 | 第72期本因坊戦　挑戦者決定リーグ第22局 | Yuki Satoshi | Yamashita Keigo | Win | W+5.5 | 6.5 | 3008 | 9 | 
 | 2017-02-20 | 第4回グランドチャンピオン戦　3回戦 | Onishi Ryuhei | Yamashita Keigo | Win | W+R | 6.5 | 2999 | 0 | 
@@ -485,10 +486,10 @@
 | 2010-12-23 | 第12回阿含・桐山杯日中決戦 | Yamashita Keigo | Qiu Jun | Lose | W+R | 6.5 | 3133 | 1 | 
 | 2010-12-16 | 第49期十段戦敗者復活戦4回戦 | Yamashita Keigo | Takao Shinji | Lose | W+R | 6.5 | 3132 | 7 | 
 | 2010-12-09 | 第36期名人戦リーグ | Mizokami Tomochika | Yamashita Keigo | Win | W+4.5 | 6.5 | 3125 | 22 | 
-| 2010-11-26 | 2010年アジア競技大会囲碁男子団体戦 | Yamashita Keigo | Cho U | Lose | W+2.5 | 7.5 | 3103 | 0 | 
-| 2010-11-26 | 2010年アジア競技大会囲碁男子団体戦 | Cho U | Yamashita Keigo | Lose | B+1.5 | 7.5 | 3103 | -21 | 
-| 2010-11-25 | 2010年アジア競技大会囲碁男子団体戦 | Yamashita Keigo | Gu Li | Win | B+7.5 | 7.5 | 3124 | 0 | 
-| 2010-11-25 | 2010年アジア競技大会囲碁男子団体戦 | Lee Changho | Yamashita Keigo | Win | W+R | 7.5 | 3124 | 50 | 
+| 2010-11-26 | 2010年アジア競技大会囲碁男子団体戦 | Cho U | Yamashita Keigo | Lose | B+1.5 | 7.5 | 3103 | 0 | 
+| 2010-11-26 | 2010年アジア競技大会囲碁男子団体戦 | Yamashita Keigo | Cho U | Lose | W+2.5 | 7.5 | 3103 | -21 | 
+| 2010-11-25 | 2010年アジア競技大会囲碁男子団体戦 | Lee Changho | Yamashita Keigo | Win | W+R | 7.5 | 3124 | 0 | 
+| 2010-11-25 | 2010年アジア競技大会囲碁男子団体戦 | Yamashita Keigo | Gu Li | Win | B+7.5 | 7.5 | 3124 | 50 | 
 | 2010-11-16 | 第36期天元戦挑戦手合五番勝負第3局 | Yuki Satoshi | Yamashita Keigo | Lose | B+2.5 | 6.5 | 3074 | -29 | 
 | 2010-11-09 | 第36期天元戦挑戦手合五番勝負第2局 | Yamashita Keigo | Yuki Satoshi | Lose | W+2.5 | 6.5 | 3103 | -11 | 
 | 2010-11-04 | 第36期碁聖戦本戦1回戦 | Yamashita Keigo | Hikosaka Naoto | Win | B+R | 6.5 | 3114 | 12 | 

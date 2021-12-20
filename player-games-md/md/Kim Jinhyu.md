@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-20 | 第5回クラウン・ヘテ杯1回戦 | Park Joonhoon | Kim Jinhyu | Lose | B+3.5 | 6.5 | 3155 | -42 | 
 | 2021-12-16 | 2021-2022韓国囲碁リーグ | Moon Minjong | Kim Jinhyu | Lose | B+4.5 | 6.5 | 3197 | -62 | 
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント2回戦 | Kim Junghyun | Kim Jinhyu | Lose | B+R | 6.5 | 3259 | 0 | 
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Kim Jinhyu | Lee Jihyun | Win | B+R | 6.5 | 3259 | 72 | 

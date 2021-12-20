@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-20 | 第5回クラウン・ヘテ杯1回戦 | Park Joonhoon | Kim Jinhyu | Win | B+3.5 | 6.5 | 3415 | 4 | 
 | 2021-12-16 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Lee Wonyoung | Lose | W+R | 6.5 | 3411 | -44 | 
 | 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Han Sanghoon | Win | B+R | 6.5 | 3455 | 53 | 
 | 2021-11-27 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Park Joonhoon | Win | W+R | 6.5 | 3402 | 71 | 

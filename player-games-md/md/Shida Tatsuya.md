@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-20 | 第47期名人戦リーグ  | Shida Tatsuya | Yamashita Keigo | Win | B+3.5 | 6.5 | 3119 | 3119 | 
+| 2021-11-11 | 第47期名人戦予選 | Shida Tatsuya | Kono Rin | Win | B+R | 6.5 | missing | -3106 | 
+| 2021-10-14 | 第60期十段戦1回戦 | Sun Zhe | Shida Tatsuya | Lose | B+4.5 | 6.5 | 3106 | 6 | 
 | 2021-10-07 | 第47期名人戦予選 | Shida Tatsuya | Kiyonari Tetsuya | Win | B+4.5 | 6.5 | 3100 | 3100 | 
 | 2021-08-12 | 第46期棋聖戦Bリーグ | Shida Tatsuya | Fujita Akihiko | Lose | W+2.5 | 6.5 | missing | -2947 | 
 | 2021-08-05 | 第60期十段戦予選 | Shida Tatsuya | Mutsuura Yuta | Win | B+R | 6.5 | 2947 | 111 | 
@@ -114,8 +117,8 @@
 | 2016-01-07 | 第54期十段戦準決勝 | Shida Tatsuya | Yu Zhengqi | Lose | W+R | 6.5 | 2847 | -18 | 
 | 2015-12-24 | 第41期碁聖戦本戦1回戦 | Ida Atsushi | Shida Tatsuya | Win | W+R | 6.5 | 2865 | 11 | 
 | 2015-11-26 | 第54期十段戦3回戦 | Kobayashi Satoru | Shida Tatsuya | Win | W+R | 6.5 | 2854 | 32 | 
-| 2015-11-22 | 第10回広島アルミ杯・若鯉戦決勝 | Terayama Rei | Shida Tatsuya | Lose | B+R | 6.5 | 2822 | 0 | 
-| 2015-11-22 | 第10回広島アルミ杯・若鯉戦準決勝 | Shida Tatsuya | Yu Zhengqi | Win | B+2.5 | 7.5 | 2822 | -5 | 
+| 2015-11-22 | 第10回広島アルミ杯・若鯉戦準決勝 | Shida Tatsuya | Yu Zhengqi | Win | B+2.5 | 7.5 | 2822 | 0 | 
+| 2015-11-22 | 第10回広島アルミ杯・若鯉戦決勝 | Terayama Rei | Shida Tatsuya | Lose | B+R | 6.5 | 2822 | -5 | 
 | 2015-11-21 | 第10回広島アルミ杯・若鯉戦2回戦 | Shida Tatsuya | Ohashi Hirofumi | Win | B+R | 6.5 | 2827 | 0 | 
 | 2015-11-21 | 第10回広島アルミ杯・若鯉戦1回戦 | Shibano Toramaru | Shida Tatsuya | Win | W+0.5 | 6.5 | 2827 | 9 | 
 | 2015-10-01 | 第54期十段戦2回戦 | Shida Tatsuya | Mizokami Tomochika | Win | B+1.5 | 6.5 | 2818 | -65 | 
@@ -186,15 +189,15 @@
 | 2012-01-14 | 第7回大和証券杯ネット囲碁オープン3回戦 | Shida Tatsuya | Akiyama Jiro | Lose | W+1.5 | 6.5 | 3132 | -30 | 
 | 2011-12-22 | 第37期新人王戦1回戦 | Shida Tatsuya | Motoki Katsuya | Win | B+R | 6.5 | 3162 | -8 | 
 | 2011-12-10 | 第7回大和証券杯ネット囲碁オープン2回戦 | Shuto Shun | Shida Tatsuya | Win | W+R | 6.5 | 3170 | 490 | 
-| 2011-11-20 | 第6回広島アルミ杯・若鯉戦決勝 | Shida Tatsuya | Uchida Shuhei | Lose | W+R | 6.5 | 2680 | 0 | 
-| 2011-11-20 | 第6回広島アルミ杯・若鯉戦準決勝 | Shida Tatsuya | Terayama Rei | Win | B+R | 6.5 | 2680 | -8 | 
+| 2011-11-20 | 第6回広島アルミ杯・若鯉戦準決勝 | Shida Tatsuya | Terayama Rei | Win | B+R | 6.5 | 2680 | 0 | 
+| 2011-11-20 | 第6回広島アルミ杯・若鯉戦決勝 | Shida Tatsuya | Uchida Shuhei | Lose | W+R | 6.5 | 2680 | -8 | 
 | 2011-11-19 | 第6回広島アルミ杯・若鯉戦2回戦 | Shida Tatsuya | Ohashi Hirofumi | Win | B+6.5 | 6.5 | 2688 | 11 | 
 | 2011-10-20 | 第53期王冠戦予選 | Shida Tatsuya | Hikosaka Naoto | Win | B+R | 6.5 | 2677 | -40 | 
 | 2011-09-24 | 第7回大和証券杯ネット囲碁オープン1回戦 | Shida Tatsuya | Obuchi Morito | Win | B+R | 6.5 | 2717 | -9 | 
 | 2011-09-15 | 第60期王座戦予選 | Shida Tatsuya | Hikosaka Naoto | Lose | W+R | 6.5 | 2726 | -91 | 
 | 2011-06-23 | 第18期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho U | Shida Tatsuya | Lose | B+1.5 | 6.5 | 2817 | -49 | 
-| 2011-05-14 | 第2回おかげ杯囲碁トーナメント戦決勝 | Shida Tatsuya | Anzai Nobuaki | Lose | W+R | 6.5 | 2866 | 0 | 
-| 2011-05-14 | 第2回おかげ杯囲碁トーナメント戦準決勝 | Shida Tatsuya | Rin Kanketsu | Win | B+0.5 | 6.5 | 2866 | 42 | 
+| 2011-05-14 | 第2回おかげ杯囲碁トーナメント戦準決勝 | Shida Tatsuya | Rin Kanketsu | Win | B+0.5 | 6.5 | 2866 | 0 | 
+| 2011-05-14 | 第2回おかげ杯囲碁トーナメント戦決勝 | Shida Tatsuya | Anzai Nobuaki | Lose | W+R | 6.5 | 2866 | 42 | 
 | 2011-03-24 | 第36期新人王戦2回戦 | Numadate Sakiya | Shida Tatsuya | Lose | B+3.5 | 6.5 | 2824 | -70 | 
 | 2011-03-17 | 第59期王座戦予選 | Nakano Yasuhiro | Shida Tatsuya | Lose | B+R | 6.5 | 2894 | 99 | 
 | 2011-02-03 | 第36期新人王戦1回戦 | Hatanaka Hoshinobu | Shida Tatsuya | Win | W+R | 6.5 | 2795 | -2 | 
@@ -210,8 +213,8 @@
 | 2010-02-18 | 第35期新人王戦1回戦 | Shida Tatsuya | Mannami Kana | Lose | W+R | 6.5 | 2422 | -171 | 
 | 2010-01-21 | 第36期天元戦本戦1回戦 | Shida Tatsuya | Imamura Toshiya | Lose | W+R | 6.5 | 2593 | -201 | 
 | 2009-08-27 | 第35期名人戦予選 | Cho Riyu | Shida Tatsuya | Win | W+2.5 | 6.5 | 2794 | 90 | 
-| 2009-07-14 | 第6回中野杯U20選手権決勝 | Shida Tatsuya | Murakawa Daisuke | Lose | W+R | 6.5 | 2704 | 0 | 
-| 2009-07-14 | 第6回中野杯U20選手権準決勝 | Shida Tatsuya | Lee Ishu | Win | B+R | 6.5 | 2704 | 30 | 
+| 2009-07-14 | 第6回中野杯U20選手権準決勝 | Shida Tatsuya | Lee Ishu | Win | B+R | 6.5 | 2704 | 0 | 
+| 2009-07-14 | 第6回中野杯U20選手権決勝 | Shida Tatsuya | Murakawa Daisuke | Lose | W+R | 6.5 | 2704 | 30 | 
 | 2009-07-02 | 第34期新人王戦3回戦 | Seto Taiki | Shida Tatsuya | Lose | B+R | 6.5 | 2674 | -29 | 
 | 2009-04-30 | 第34期新人王戦2回戦 | Shida Tatsuya | Obuchi Kotaro | Win | B+0.5 | 6.5 | 2703 | -9 | 
 | 2009-02-26 | 第34期新人王戦1回戦 | Shida Tatsuya | Suzuki Ayumi | Win | B+R | 6.5 | 2712 | 78 | 
@@ -239,8 +242,8 @@
 | 2008-01-10 | 第33期新人王戦1回戦 | Shida Tatsuya | Ohba Junya | Win | B+R | 6.5 | missing | 0 | 
 | 2007-12-17 | 第1期幽玄杯精鋭リーグ戦 | Shida Tatsuya | Terayama Rei | Win | B+1.5 | 6.5 | missing | 0 | 
 | 2007-12-03 | 第1期幽玄杯精鋭リーグ戦 | Shida Tatsuya | Nakajima Mieko | Win | B+R | 6.5 | missing | 0 | 
-| 2007-11-18 | 第2回広島アルミ杯・若鯉戦決勝 | Mitani Tetsuya | Shida Tatsuya | Win | W+3.5 | 6.5 | missing | 0 | 
 | 2007-11-18 | 第2回広島アルミ杯・若鯉戦準決勝 | Xie Yimin | Shida Tatsuya | Win | W+R | 6.5 | missing | 0 | 
+| 2007-11-18 | 第2回広島アルミ杯・若鯉戦決勝 | Mitani Tetsuya | Shida Tatsuya | Win | W+3.5 | 6.5 | missing | 0 | 
 | 2007-11-17 | 第2回広島アルミ杯・若鯉戦2回戦 | Shida Tatsuya | Takekiyo Isamu | Win | B+0.5 | 6.5 | missing | 0 | 
 | 2007-10-25 | 第33期新人王戦予選 | Kato Yuuki | Shida Tatsuya | Win | W+R | 6.5 | missing | 0 | 
 | 2007-05-28 | 第4回中野杯U20選手権 | Horimoto Mitsunari | Shida Tatsuya | Win | W+R | 6.5 | missing | 0 | 

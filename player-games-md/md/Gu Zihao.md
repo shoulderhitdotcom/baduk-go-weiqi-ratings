@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-20 | 第12期中国竜星戦決勝三番勝負第2局 | Mi Yuting | Gu Zihao | Lose | B+¾ | 7.5 | 3714 | 1 | 
 | 2021-12-19 | 第12期中国竜星戦決勝三番勝負第1局 | Gu Zihao | Mi Yuting | Win | B+R | 7.5 | 3713 | 24 | 
 | 2021-12-08 | 第22期阿含・桐山杯日中決戦  | Gu Zihao | Hsu Chiayuan | Win | B+R | 7.5 | 3689 | 34 | 
 | 2021-12-06 | 第22期阿含・桐山杯中国早碁オープン戦決勝 | Huang Yunsong | Gu Zihao | Win | W+R | 7.5 | 3655 | 16 | 

@@ -7,13 +7,13 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-20 | 第1回テイケイ杯俊英戦Bリーグ | Onishi Kenya | Hirose Yuichi | Win | W+1.5 | 6.5 | 3012 | 15 | 
 | 2021-12-06 | 第48期天元戦予選 | O Meien | Hirose Yuichi | Lose | B+R | 6.5 | 2997 | -20 | 
 | 2021-12-04 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦 |  | Hirose Yuichi | Win | W+R | 6.5 | 3017 | 101 | 
 | 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第2戦 | Hirose Yuichi | Chen Shiyuan | Lose | W+R | 6.5 | 2916 | 0 | 
 | 2021-10-02 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦第1戦 | Hirose Yuichi | Lin Lixiang | Win | B+R | 6.5 | 2916 | -15 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Park Sangjin | Hirose Yuichi | Lose | B+R | 6.5 | 2931 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  | Hirose Yuichi | Tu Xiaoyu | Lose | W+R | 6.5 | 2931 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Hirose Yuichi | Tu Xiaoyu | Lose | W+R | 6.5 | 2931 | -40 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦  | Hirose Yuichi | Tu Xiaoyu | Lose | W+R | 6.5 | 2931 | -40 | 
 | 2021-06-03 | 第47期名人戦予選 | Kudo Norio | Hirose Yuichi | Win | W+R | 6.5 | 2971 | -246 | 
 | 2020-11-21 | 第15回広島アルミ杯・若鯉戦1回戦 | Hirata Tomoya | Hirose Yuichi | Lose | B+1.5 | 6.5 | 3217 | 56 | 
 | 2020-08-17 | 第59期十段戦予選 | Yamashita Keigo | Hirose Yuichi | Lose | B+R | 6.5 | 3161 | 36 | 
@@ -30,13 +30,13 @@
 | 2019-10-03 | 第44期棋聖戦Cリーグ | Hirose Yuichi | Ida Atsushi | Win | B+R | 6.5 | 2918 | 54 | 
 | 2019-09-12 | 第46期天元戦予選 | Hirose Yuichi | Ichiriki Ryo | Lose | W+R | 6.5 | 2864 | -36 | 
 | 2019-08-29 | 第44期棋聖戦Cリーグ | Seto Taiki | Hirose Yuichi | Win | W+2.5 | 6.5 | 2900 | 18 | 
-| 2019-05-11 | ナショナルチーム研究会 | Hirose Yuichi | Ichiriki Ryo | Lose | W+R | 6.5 | 2882 | 0 | 
-| 2019-05-11 | ナショナルチーム研究会 | Hirose Yuichi | Sun Zhe | Win | B+R | 6.5 | 2882 | -20 | 
+| 2019-05-11 | ナショナルチーム研究会 | Hirose Yuichi | Sun Zhe | Win | B+R | 6.5 | 2882 | 0 | 
+| 2019-05-11 | ナショナルチーム研究会 | Hirose Yuichi | Ichiriki Ryo | Lose | W+R | 6.5 | 2882 | -20 | 
 | 2019-05-06 | 関西合宿　日本棋院vs関西棋院 | Hirose Yuichi | Taniguchi Tooru | Win | B+1.5 | 6.5 | 2902 | -14 | 
 | 2019-05-02 | 第45期名人戦予選 | Hirose Yuichi | Rin Kaiho | Win | B+13.5 | 6.5 | 2916 | -37 | 
 | 2019-04-20 | 第6回グロービス杯世界囲碁U-20グループリーグC | Wang Zejin | Hirose Yuichi | Lose | B+R | 6.5 | 2953 | -13 | 
-| 2019-04-19 | 第6回グロービス杯世界囲碁U-20グループリーグC | Hirose Yuichi | Wang Zejin | Win | B+R | 6.5 | 2966 | 0 | 
-| 2019-04-19 | 第6回グロービス杯世界囲碁U-20グループリーグC | Shin Minjun | Hirose Yuichi | Lose | B+R | 6.5 | 2966 | 34 | 
+| 2019-04-19 | 第6回グロービス杯世界囲碁U-20グループリーグC | Shin Minjun | Hirose Yuichi | Lose | B+R | 6.5 | 2966 | 0 | 
+| 2019-04-19 | 第6回グロービス杯世界囲碁U-20グループリーグC | Hirose Yuichi | Wang Zejin | Win | B+R | 6.5 | 2966 | 34 | 
 | 2019-04-18 | 第6回グランドチャンピオン戦2回戦 | Hsu Chiayuan | Hirose Yuichi | Lose | B+R | 6.5 | 2932 | 53 | 
 | 2019-01-21 | 2019台湾精鋭vs日本精鋭交流戦第6戦 | Hirose Yuichi | Lin Shixun | Lose | W+R | 6.5 | 2879 | 0 | 
 | 2019-01-21 | 2019台湾精鋭vs日本精鋭交流戦第5戦 | Hirose Yuichi | Chen Shiyuan | Win | B+R | 6.5 | 2879 | 8 | 
@@ -68,23 +68,23 @@
 | 2017-06-30 | ナショナルチーム強化対局 | Hirose Yuichi | DeepZenGo | Lose | W+R | 6.5 | 2823 | -8 | 
 | 2017-06-24 | ナショナルチーム強化対局 | Hirose Yuichi | DeepZenGo | Win | B+R | 6.5 | 2831 | 74 | 
 | 2017-06-22 | ナショナルチーム強化対局 | DeepZenGo | Hirose Yuichi | Lose | B+R | 6.5 | 2757 | -12 | 
-| 2017-04-24 | 第3回イベロジャパン杯決勝 | Onishi Ryuhei | Hirose Yuichi | Lose | B+3.5 | 6.5 | 2769 | 0 | 
-| 2017-04-24 | 第3回イベロジャパン杯準決勝 | Kuwabara Shun | Hirose Yuichi | Win | W+R | 6.5 | 2769 | 57 | 
+| 2017-04-24 | 第3回イベロジャパン杯準決勝 | Kuwabara Shun | Hirose Yuichi | Win | W+R | 6.5 | 2769 | 0 | 
+| 2017-04-24 | 第3回イベロジャパン杯決勝 | Onishi Ryuhei | Hirose Yuichi | Lose | B+3.5 | 6.5 | 2769 | 57 | 
 | 2017-04-11 | 第3回イベロジャパン杯2回戦 | Mutsuura Yuta | Hirose Yuichi | Win | W+R | 6.5 | 2712 | 226 | 
-| 2017-03-21 | 第4回グロービス杯国内予選 | Ichiriki Ryo | Hirose Yuichi | Lose | B+R | 6.5 | 2486 | 0 | 
-| 2017-03-21 | 第4回グロービス杯国内予選 | Hirose Yuichi | Inaba Karin | Win | B+R | 6.5 | 2486 | -63 | 
+| 2017-03-21 | 第4回グロービス杯国内予選 | Hirose Yuichi | Inaba Karin | Win | B+R | 6.5 | 2486 | 0 | 
+| 2017-03-21 | 第4回グロービス杯国内予選 | Ichiriki Ryo | Hirose Yuichi | Lose | B+R | 6.5 | 2486 | -63 | 
 | 2017-03-15 | 陝川郡5期中日韓英才戦2局 | Seol Hyunjun | Hirose Yuichi | Lose | B+R | 6.5 | 2549 | -6 | 
 | 2017-03-14 | 韓国陝川郡第5期中日韓英才戦1局 | Hirose Yuichi | Xu Jiayang | Lose | W+0.5 | 6.5 | 2555 | 77 | 
-| 2017-01-21 | 台湾精鋭日本精鋭交流戦5回戦 | Hirose Yuichi | Cai Chengwei | Win | B+R | 6.5 | 2478 | 0 | 
-| 2017-01-21 | 台湾精鋭日本精鋭交流戦6回戦 | Hirose Yuichi | Yang Zixuan | Win | B+R | 6.5 | 2478 | 116 | 
+| 2017-01-21 | 台湾精鋭日本精鋭交流戦6回戦 | Hirose Yuichi | Yang Zixuan | Win | B+R | 6.5 | 2478 | 0 | 
+| 2017-01-21 | 台湾精鋭日本精鋭交流戦5回戦 | Hirose Yuichi | Cai Chengwei | Win | B+R | 6.5 | 2478 | 116 | 
 | 2017-01-20 | 台湾精鋭日本精鋭交流戦4回戦 | Lai Junfu | Hirose Yuichi | Lose | B+11.5 | 6.5 | 2362 | 0 | 
 | 2017-01-20 | 台湾精鋭日本精鋭交流戦3回戦 |  | Hirose Yuichi | Win | W+7.5 | 6.5 | 2362 | -74 | 
-| 2017-01-19 | 2017年日台精鋭交流戦第1戦 | Hirose Yuichi | Lu Yiquan | Win | B+0.5 | 6.5 | 2436 | 0 | 
-| 2017-01-19 | 台湾精鋭日本精鋭交流戦2回戦 | Hirose Yuichi |  | Lose | W+4.5 | 6.5 | 2436 | -213 | 
+| 2017-01-19 | 台湾精鋭日本精鋭交流戦2回戦 | Hirose Yuichi |  | Lose | W+4.5 | 6.5 | 2436 | 0 | 
+| 2017-01-19 | 2017年日台精鋭交流戦第1戦 | Hirose Yuichi | Lu Yiquan | Win | B+0.5 | 6.5 | 2436 | -213 | 
 | 2016-12-05 | 第42期新人王戦　予選決勝 | Fujisawa Rina | Hirose Yuichi | Lose | B+4.5 | 6.5 | 2649 | -142 | 
 | 2016-11-10 | 第42期新人王戦　予選 | Hirose Yuichi | Tanaka Nobuyuki | Win | B+R | 6.5 | 2791 | 171 | 
-| 2016-03-18 | 第2回イベロジャパン杯三位決定戦 | Hirose Yuichi | Yao Zhiteng | Win | B+10.5 | 6.5 | 2620 | 0 | 
-| 2016-03-18 | 第2回イベロジャパン杯準決勝 | Fujisawa Rina | Hirose Yuichi | Lose | B+R | 6.5 | 2620 | 2620 | 
+| 2016-03-18 | 第2回イベロジャパン杯準決勝 | Fujisawa Rina | Hirose Yuichi | Lose | B+R | 6.5 | 2620 | 0 | 
+| 2016-03-18 | 第2回イベロジャパン杯三位決定戦 | Hirose Yuichi | Yao Zhiteng | Win | B+10.5 | 6.5 | 2620 | 2620 | 
 | 2016-01-15 | 第2回イベロジャパン杯2回戦 | Hirose Yuichi | Chang Rueijie | Win | B+4.5 | 6.5 | missing | 0 | 
 | 2016-01-08 | 第2回イベロジャパン杯1回戦 | Hirose Yuichi | Nyu Eiko | Win | B+R | 6.5 | missing | 0 | 
 | 2014-04-09 | 第1回イベロジャパン杯1回戦 | Hsu Chiayuan | Hirose Yuichi | Lose | B+R | 6.5 | missing | missing |

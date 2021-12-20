@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-20 | 第1回テイケイ杯俊英戦Aリーグ | Koyama Kuya | Shibano Toramaru | Win | B+R | 6.5 | 3194 | 45 | 
 | 2021-11-18 | 第47期碁聖戦予選 | Koyama Kuya | Hsu Chiayuan | Lose | W+1.5 | 6.5 | 3149 | -4 | 
 | 2021-11-01 | 第61期十段戦予選 | Koyama Kuya | Cho Chikun | Win | B+R | 6.5 | 3153 | 111 | 
 | 2021-08-05 | 第47期名人戦予選  | Yoda Norimoto | Koyama Kuya | Lose | B+R | 6.5 | 3042 | -13 | 
@@ -56,8 +57,8 @@
 | 2016-10-20 | 第65期王座戦予選 | Koyama Kuya | Kobayashi Satoru | Win | B+R | 6.5 | 2470 | -47 | 
 | 2016-08-30 | 第3回ゆうちょ杯囲碁ユース選手権1回戦 | Koyama Kuya | Ichiriki Ryo | Lose | W+R | 6.5 | 2517 | 70 | 
 | 2016-06-27 | 第23期阿含・桐山杯全日本早碁オープン戦1回戦 | Murakawa Daisuke | Koyama Kuya | Lose | B+R | 6.5 | 2447 | 417 | 
-| 2016-03-22 | 第3回グロービス杯国内予選 | Koyama Kuya | Utsumi Koki | Win | B+R | 6.5 | 2030 | 0 | 
-| 2016-03-22 | 第3回グロービス杯国内予選 | Koyama Kuya | Shibano Toramaru | Lose | W+R | 6.5 | 2030 | -290 | 
+| 2016-03-22 | 第3回グロービス杯国内予選 | Koyama Kuya | Shibano Toramaru | Lose | W+R | 6.5 | 2030 | 0 | 
+| 2016-03-22 | 第3回グロービス杯国内予選 | Koyama Kuya | Utsumi Koki | Win | B+R | 6.5 | 2030 | -290 | 
 | 2016-02-25 | 第41期新人王戦1回戦 | Koyama Kuya | Bian Wenkai | Lose | W+4.5 | 6.5 | 2320 | -159 | 
 | 2016-02-09 | 第7回おかげ杯囲碁トーナメント戦予選 | Koyama Kuya | Komatsu Daiki | Win | B+R | 6.5 | 2479 | 10 | 
 | 2016-01-28 | 2016年日台精鋭交流戦第2戦 | Koyama Kuya | Li Wei | Lose | W+R | 6.5 | 2469 | 51 | 
@@ -67,8 +68,8 @@
 | 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグD | Koyama Kuya | Na Hyun | Lose | W+R | 6.5 | 2836 | 0 | 
 | 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグD | Koyama Kuya | Krit Jamkachornkiat | Win | B+R | 6.5 | 2836 | 33 | 
 | 2015-04-13 | 第40期新人王戦2回戦 | Koyama Kuya | Motoki Katsuya | Lose | W+R | 6.5 | 2803 | -72 | 
-| 2015-03-17 | 第2回グロービス杯国内予選 | Watanabe Yuu | Koyama Kuya | Win | W+2.5 | 6.5 | 2875 | 0 | 
-| 2015-03-17 | 第2回グロービス杯国内予選 | Fujisawa Rina | Koyama Kuya | Win | W+3.5 | 6.5 | 2875 | -123 | 
+| 2015-03-17 | 第2回グロービス杯国内予選 | Fujisawa Rina | Koyama Kuya | Win | W+3.5 | 6.5 | 2875 | 0 | 
+| 2015-03-17 | 第2回グロービス杯国内予選 | Watanabe Yuu | Koyama Kuya | Win | W+2.5 | 6.5 | 2875 | -123 | 
 | 2015-02-26 | 第40期棋聖戦予選 | Rin Kaiho | Koyama Kuya | Win | W+R | 6.5 | 2998 | 55 | 
 | 2015-01-29 | 第40期新人王戦1回戦 | Koyama Kuya | Utsumi Koki | Win | B+R | 6.5 | 2943 | 112 | 
 | 2014-12-04 | 第41期天元戦本戦1回戦第1局 | Takeuchi Kousuke | Koyama Kuya | Lose | B+R | 6.5 | 2831 | 6 | 
@@ -80,8 +81,8 @@
 | 2014-07-14 | 第1回ゆうちょ杯囲碁ユース選手権1回戦 | Hsu Chiayuan | Koyama Kuya | Lose | B+R | 6.5 | 2964 | 3 | 
 | 2014-05-29 | 第40期碁聖戦予選 | Xie Yimin | Koyama Kuya | Win | W+R | 6.5 | 2961 | 108 | 
 | 2014-05-22 | 第40期名人戦予選 | Koyama Kuya | Kobayashi Koichi | Win | B+R | 6.5 | 2853 | 102 | 
-| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグC | Koyama Kuya | Sun Zhe | Lose | W+R | 6.5 | 2751 | 0 | 
-| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグC | Shin Jinseo | Koyama Kuya | Lose | B+R | 6.5 | 2751 | 2751 | 
+| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグC | Shin Jinseo | Koyama Kuya | Lose | B+R | 6.5 | 2751 | 0 | 
+| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグC | Koyama Kuya | Sun Zhe | Lose | W+R | 6.5 | 2751 | 2751 | 
 | 2014-03-20 | 第40期名人戦予選 | Koyama Kuya | Endo Yoshifumi | Win | B+R | 6.5 | missing | 0 | 
 | 2014-02-27 | 第40期碁聖戦予選 | Koyama Kuya | Doi Makoto | Win | B+R | 6.5 | missing | missing |
 

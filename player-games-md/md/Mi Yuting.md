@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-20 | 第12期中国竜星戦決勝三番勝負第2局 | Mi Yuting | Gu Zihao | Win | B+¾ | 7.5 | 3623 | 10 | 
 | 2021-12-19 | 第12期中国竜星戦決勝三番勝負第1局 | Gu Zihao | Mi Yuting | Lose | B+R | 7.5 | 3613 | 8 | 
 | 2021-12-11 | 第1回文投杯中国囲碁国手戦準決勝 | Ding Hao | Mi Yuting | Lose | B+R | 7.5 | 3605 | -4 | 
 | 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Mi Yuting | Shi Yue | Win | B+R | 7.5 | 3609 | -5 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-20 | 第5回クラウン・ヘテ杯1回戦 | Choi Jaeyoung |  | Win | B+R | 6.5 | 3430 | 18 | 
+| 2021-12-19 | 2021-2022韓国囲碁リーグ | Choi Jeong | Choi Jaeyoung | Win | W+R | 6.5 | 3412 | -9 | 
 | 2021-12-09 | 第27回GSカルテックス杯プロ棋戦予選 | Kang Dongyun | Choi Jaeyoung | Win | W+R | 6.5 | 3421 | 53 | 
 | 2021-12-04 | 2021-2022韓国囲碁リーグ | An Sungjoon | Choi Jaeyoung | Win | W+R | 6.5 | 3368 | -9 | 
 | 2021-11-26 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Choi Jaeyoung | Lose | B+0.5 | 6.5 | 3377 | -8 | 

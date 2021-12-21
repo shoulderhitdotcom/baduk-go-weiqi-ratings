@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-21 | 第1回テイケイ杯俊英戦Aリーグ | Ichiriki Ryo | Abe Yoshiki | Lose | B+R | 6.5 | 2617 | -11 | 
 | 2021-12-20 | 第1回テイケイ杯俊英戦Aリーグ | Ueno Asami | Abe Yoshiki | Lose | B+0.5 | 6.5 | 2628 | -183 | 
 | 2021-10-27 | 第66期関西棋院第一位決定戦1回戦 | Nishi Takenobu | Abe Yoshiki | Win | W+0.5 | 6.5 | 2811 | -5 | 
 | 2021-10-20 | 第70期王座戦予選 | Abe Yoshiki | Hasegawa Sunao | Lose | W+0.5 | 6.5 | 2816 | -109 | 

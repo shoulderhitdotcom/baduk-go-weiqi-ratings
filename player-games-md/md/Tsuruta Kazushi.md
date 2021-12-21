@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-21 | 第1回テイケイ杯俊英戦Bリーグ | Tsuruta Kazushi | Onishi Kenya | Win | B+6.5 | 6.5 | 2910 | 39 | 
 | 2021-12-20 | 第1回テイケイ杯俊英戦Bリーグ | Sada Atsushi | Tsuruta Kazushi | Lose | B+3.5 | 6.5 | 2871 | -82 | 
 | 2021-09-16 | 第46期棋聖戦Cリーグ | Yamada Kimio | Tsuruta Kazushi | Lose | B+3.5 | 6.5 | 2953 | 141 | 
 | 2021-05-13 | 第69期王座戦1回戦 | Tsuruta Kazushi | Ichiriki Ryo | Lose | W+3.5 | 6.5 | 2812 | -158 | 

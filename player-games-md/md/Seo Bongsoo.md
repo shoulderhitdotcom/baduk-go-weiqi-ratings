@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-21 | 2021年1004島新安国際シニア囲碁大会2回戦 | Seo Bongsoo | Nie Weiping | Win | B+R | 6.5 | 2847 | 0 | 
+| 2021-12-21 | 2021年1004島新安国際シニア囲碁大会1回戦 | Seo Bongsoo | Takemiya Masaki | Win | B+6.5 | 6.5 | 2847 | 36 | 
 | 2021-12-10 | 第27回GSカルテックス杯プロ棋戦予選 | Heo Yongho | Seo Bongsoo | Lose | B+4.5 | 6.5 | 2811 | -41 | 
 | 2021-12-07 | 2021韓国シニア囲碁リーグ準プレーオフ | Seo Bongsoo | An Kwanwuk | Lose | W+R | 6.5 | 2852 | 3 | 
 | 2021-12-06 | 2021韓国シニア囲碁リーグ準プレーオフ | Seo Bongsoo | Kim Ilhwan | Win | B+R | 6.5 | 2849 | -46 | 
@@ -79,10 +81,10 @@
 | 2019-07-05 | 第24回三星火災杯統合予選決勝 | Seo Bongsoo | Yoo Changhyuk | Win | B+5.5 | 6.5 | 2611 | 42 | 
 | 2019-07-04 | 第24回三星火災杯統合予選準決勝 | Seo Bongsoo | Yu Bin | Win | B+R | 6.5 | 2569 | 22 | 
 | 2019-06-12 | 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | O Rissei | Seo Bongsoo | Win | W+R | 6.5 | 2547 | 53 | 
-| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会個人戦準決勝 | Seo Bongsoo | O Rissei | Lose | W+R | 6.5 | 2494 | 0 | 
-| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | Kobayashi Koichi | Seo Bongsoo | Lose | B+0.5 | 6.5 | 2494 | -33 | 
-| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | O Meien | Seo Bongsoo | Win | W+R | 6.5 | 2527 | 0 | 
-| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | Rui Naiwei | Seo Bongsoo | Lose | B+T | 6.5 | 2527 | 19 | 
+| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | Kobayashi Koichi | Seo Bongsoo | Lose | B+0.5 | 6.5 | 2494 | 0 | 
+| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会個人戦準決勝 | Seo Bongsoo | O Rissei | Lose | W+R | 6.5 | 2494 | -33 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | Rui Naiwei | Seo Bongsoo | Lose | B+T | 6.5 | 2527 | 0 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | O Meien | Seo Bongsoo | Win | W+R | 6.5 | 2527 | 19 | 
 | 2019-06-08 | 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Seo Bongsoo | Liu Xiaoguang | Win | B+1.5 | 6.5 | 2508 | 60 | 
 | 2019-05-13 | 第6回大舟杯プロシニア最強者戦準決勝 | Seo Bongsoo | Cho Hyeyeon | Lose | W+1.5 | 6.5 | 2448 | -91 | 
 | 2019-04-16 | 第3回中日韓囲碁元老戦準決勝 | Yu Bin | Seo Bongsoo | Lose | B+1¾ | 7.5 | 2539 | -21 | 

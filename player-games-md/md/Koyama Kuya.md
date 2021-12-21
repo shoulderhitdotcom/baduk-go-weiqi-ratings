@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-21 | 第1回テイケイ杯俊英戦Aリーグ | Koyama Kuya | Ueno Asami | Win | B+0.5 | 6.5 | 3222 | 28 | 
 | 2021-12-20 | 第1回テイケイ杯俊英戦Aリーグ | Koyama Kuya | Shibano Toramaru | Win | B+R | 6.5 | 3194 | 45 | 
 | 2021-11-18 | 第47期碁聖戦予選 | Koyama Kuya | Hsu Chiayuan | Lose | W+1.5 | 6.5 | 3149 | -4 | 
 | 2021-11-01 | 第61期十段戦予選 | Koyama Kuya | Cho Chikun | Win | B+R | 6.5 | 3153 | 111 | 

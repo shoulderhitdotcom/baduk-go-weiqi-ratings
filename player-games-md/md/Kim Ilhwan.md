@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-21 | 2021年1004島新安国際シニア囲碁大会1回戦 | Rui Naiwei | Kim Ilhwan | Lose | B+6.5 | 6.5 | 2521 | 14 | 
 | 2021-12-16 | 2021韓国シニア囲碁リーグ優勝決定戦第2戦 | Choi Kyubyeong | Kim Ilhwan | Lose | B+7.5 | 6.5 | 2507 | -9 | 
 | 2021-12-15 | 2021韓国シニア囲碁リーグ優勝決定戦第1戦 | Choi Kyubyeong | Kim Ilhwan | Lose | B+11.5 | 6.5 | 2516 | -10 | 
 | 2021-12-13 | 2021韓国シニア囲碁リーグプレーオフ | Kim Ilhwan | Yoo Changhyuk | Lose | W+15.5 | 6.5 | 2526 | -14 | 

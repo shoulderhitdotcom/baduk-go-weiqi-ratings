@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-21 | 2021年1004島新安国際シニア囲碁大会1回戦 |  | Kobayashi Koichi | Lose | B+5.5 | 6.5 | 2721 | -37 | 
 | 2021-12-02 | 第48期天元戦予選 | Kobayashi Koichi | Terayama Rei | Win | B+R | 6.5 | 2758 | 43 | 
 | 2021-11-25 | 第70期王座戦予選 | Kobayashi Koichi | Oomote Takuto | Lose | W+R | 6.5 | 2715 | -105 | 
 | 2021-10-21 | 第61期十段戦予選 | Kato Atsushi | Kobayashi Koichi | Lose | B+1.5 | 6.5 | 2820 | 2820 | 
@@ -54,8 +55,8 @@
 | 2019-06-29 | 第9回フマキラー囲碁マスターズカップ準決勝  | Kobayashi Koichi | Cho Chikun | Lose | W+R | 6.5 | 2541 | 31 | 
 | 2019-06-12 | 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | Rui Naiwei | Kobayashi Koichi | Lose | B+R | 6.5 | 2510 | -12 | 
 | 2019-06-11 | 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | Kobayashi Koichi | Seo Bongsoo | Win | B+0.5 | 6.5 | 2522 | 34 | 
-| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | Kobayashi Koichi | O Rissei | Lose | W+R | 6.5 | 2488 | 0 | 
-| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | O Rissei | Kobayashi Koichi | Lose | B+9.5 | 6.5 | 2488 | -29 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | O Rissei | Kobayashi Koichi | Lose | B+9.5 | 6.5 | 2488 | 0 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | Kobayashi Koichi | O Rissei | Lose | W+R | 6.5 | 2488 | -29 | 
 | 2019-06-08 | 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Kobayashi Koichi | Seo Nungwuk | Win | B+R | 6.5 | 2517 | 58 | 
 | 2019-06-06 | 第58期十段戦予選 | Anzai Nobuaki | Kobayashi Koichi | Lose | B+10.5 | 6.5 | 2459 | 28 | 
 | 2019-05-30 | 第9回フマキラー囲碁マスターズカップ2回戦 | Ishida Yoshio | Kobayashi Koichi | Win | W+3.5 | 6.5 | 2431 | -39 | 

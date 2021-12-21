@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-21 | 2021年1004島新安国際シニア囲碁大会1回戦  | Cho Hunhyun | O Meien | Lose | W+R | 6.5 | 2956 | -84 | 
+| 2021-12-15 | 2021統営レジェンドマッチ | Lee Changho | Cho Hunhyun | Lose | B+R | 6.5 | 3040 | -43 | 
 | 2021-11-01 | 2021中日韓聶衛平杯囲碁マスターズ3回戦 | Cho Hunhyun | Nie Weiping | Win | B+R | 7.5 | 3083 | 1 | 
 | 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Cho Hunhyun | Takemiya Masaki | Lose | W+2¼ | 7.5 | 3082 | -121 | 
 | 2021-09-22 | 2021電子ランドライバル対戦第8局 | Cho Hunhyun | Lee Changho | Lose | W+R | 6.5 | 3203 | -31 | 
@@ -40,8 +42,8 @@
 | 2014-12-01 | 2014-2015年シニア囲碁クラシック棋王戦決勝 | Cho Hunhyun | Seo Bongsoo | Win | B+2.5 | 6.5 | 2662 | 213 | 
 | 2014-11-28 | 2014-2015年シニア囲碁クラシック棋王戦準決勝 | Cho Hunhyun | Kim Ilhwan | Win | B+14.5 | 6.5 | 2449 | 29 | 
 | 2014-11-27 | 2014-2015年シニア囲碁クラシック棋王戦準々決勝 | Cho Hunhyun | Oh Kyuchul | Win | B+R | 6.5 | 2420 | -465 | 
-| 2014-08-26 | 第19期バッカス杯天元戦1回戦 | Shin Minjun | Cho Hunhyun | Lose | B+R | 6.5 | 2885 | 0 | 
-| 2014-08-26 | 第8回GGオークション杯女流対シニア連勝対抗戦第16戦 | Cho Hunhyun | Oh Jeonga | Lose | W+0.5 | 6.5 | 2885 | -244 | 
+| 2014-08-26 | 第8回GGオークション杯女流対シニア連勝対抗戦第16戦 | Cho Hunhyun | Oh Jeonga | Lose | W+0.5 | 6.5 | 2885 | 0 | 
+| 2014-08-26 | 第19期バッカス杯天元戦1回戦 | Shin Minjun | Cho Hunhyun | Lose | B+R | 6.5 | 2885 | -244 | 
 | 2014-07-30 | 2014-2015年シニア囲碁クラシック国手戦準決勝 | Cho Hunhyun | Kim Ilhwan | Lose | W+2.5 | 6.5 | 3129 | -144 | 
 | 2014-05-28 | 第19期バッカス杯天元戦予選 | Cho Hunhyun |  | Win | B+R | 6.5 | 3273 | -46 | 
 | 2014-01-06 | 第15回マキシムコーヒー杯入神最強戦1回戦 | Park Cheongsang | Cho Hunhyun | Lose | B+R | 6.5 | 3319 | -49 | 

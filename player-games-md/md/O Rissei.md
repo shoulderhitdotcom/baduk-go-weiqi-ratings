@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-21 | 2021年1004島新安国際シニア囲碁大会1回戦 | O Rissei | Yoo Changhyuk | Lose | W+5.5 | 6.5 | 2907 | -126 | 
 | 2021-11-29 | 第48期天元戦予選 | O Rissei | Kono Rin | Lose | W+R | 6.5 | 3033 | 30 | 
 | 2021-09-16 | 第48期天元戦予選 | Ohashi Hirofumi | O Rissei | Win | W+R | 6.5 | 3003 | -34 | 
 | 2021-09-02 | 第47期名人戦予選 | Sun Zhe | O Rissei | Lose | B+R | 6.5 | 3037 | -52 | 
@@ -40,12 +41,12 @@
 | 2019-09-19 | 第45期碁聖戦予選 | Kim Sujun | O Rissei | Win | W+R | 6.5 | 2786 | 105 | 
 | 2019-08-29 | 第45期碁聖戦予選 | O Rissei | Komatsu Hideki | Win | B+R | 6.5 | 2681 | -60 | 
 | 2019-07-18 | 第58期十段戦予選 | Akiyama Jiro | O Rissei | Win | W+R | 6.5 | 2741 | 0 | 
-| 2019-06-12 | 2019年1004島新安国際シニア囲碁大会個人戦決勝 | Yu Bin | O Rissei | Win | W+5.5 | 6.5 | 2741 | 0 | 
-| 2019-06-12 | 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | O Rissei | Seo Bongsoo | Lose | W+R | 6.5 | 2741 | -7 | 
-| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会個人戦準決勝 | Seo Bongsoo | O Rissei | Win | W+R | 6.5 | 2748 | 0 | 
-| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | O Rissei | Rui Naiwei | Win | B+R | 6.5 | 2748 | 40 | 
-| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | Kobayashi Koichi | O Rissei | Win | W+R | 6.5 | 2708 | 0 | 
-| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | O Rissei | Kobayashi Koichi | Win | B+9.5 | 6.5 | 2708 | 26 | 
+| 2019-06-12 | 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | O Rissei | Seo Bongsoo | Lose | W+R | 6.5 | 2741 | 0 | 
+| 2019-06-12 | 2019年1004島新安国際シニア囲碁大会個人戦決勝 | Yu Bin | O Rissei | Win | W+5.5 | 6.5 | 2741 | -7 | 
+| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | O Rissei | Rui Naiwei | Win | B+R | 6.5 | 2748 | 0 | 
+| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会個人戦準決勝 | Seo Bongsoo | O Rissei | Win | W+R | 6.5 | 2748 | 40 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | O Rissei | Kobayashi Koichi | Win | B+9.5 | 6.5 | 2708 | 0 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | Kobayashi Koichi | O Rissei | Win | W+R | 6.5 | 2708 | 26 | 
 | 2019-06-08 | 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Yoo Changhyuk | O Rissei | Win | W+R | 6.5 | 2682 | 64 | 
 | 2019-06-06 | 第9回フマキラー囲碁マスターズカップ2回戦 | Yoda Norimoto | O Rissei | Lose | B+3.5 | 6.5 | 2618 | 21 | 
 | 2019-05-23 | 第46期天元戦予選 |  | O Rissei | Lose | B+1.5 | 6.5 | 2597 | -28 | 
@@ -125,8 +126,8 @@
 | 2016-01-14 | 第55期十段戦予選 | O Rissei | Ko Reibun | Win | B+R | 6.5 | 2708 | 53 | 
 | 2015-11-19 | 第72期本因坊戦予選 | O Rissei | Han Zenki | Win | B+R | 6.5 | 2655 | 8 | 
 | 2015-11-12 | 第64期王座戦予選 | Koyama Kuya | O Rissei | Win | W+R | 6.5 | 2647 | 12 | 
-| 2015-11-07 | 第2回OVER40早碁トーナメント戦決勝 | O Meien | O Rissei | Win | W+R | 6.5 | 2635 | 0 | 
-| 2015-11-07 | 第2回OVER40早碁トーナメント戦準決勝 | O Rissei | Nakaonoda Tomomi | Win | B+R | 6.5 | 2635 | 45 | 
+| 2015-11-07 | 第2回OVER40早碁トーナメント戦準決勝 | O Rissei | Nakaonoda Tomomi | Win | B+R | 6.5 | 2635 | 0 | 
+| 2015-11-07 | 第2回OVER40早碁トーナメント戦決勝 | O Meien | O Rissei | Win | W+R | 6.5 | 2635 | 45 | 
 | 2015-10-29 | 第72期本因坊戦予選 | O Rissei | Yasuda Yasutoshi | Win | B+2.5 | 6.5 | 2590 | 60 | 
 | 2015-10-08 | 第72期本因坊戦予選 | Kono Yukio | O Rissei | Win | W+R | 6.5 | 2530 | -34 | 
 | 2015-10-01 | 第42期天元戦予選 | Shibano Toramaru | O Rissei | Lose | B+R | 6.5 | 2564 | -43 | 
@@ -198,8 +199,8 @@
 | 2012-10-11 | 第38期碁聖戦予選 | Mizokami Tomochika | O Rissei | Lose | B+R | 6.5 | 2739 | -108 | 
 | 2012-08-16 | 第38期碁聖戦予選 | O Rissei | Hashimoto Yujiro | Win | B+R | 6.5 | 2847 | -168 | 
 | 2012-07-05 | 第38期名人戦予選 | O Rissei | Mimura Tomoyasu | Lose | W+2.5 | 6.5 | 3015 | 35 | 
-| 2012-06-25 | 第8回大和証券杯ネット囲碁オープン予選 | Mochizuki Kenichi | O Rissei | Lose | B+5.5 | 6.5 | 2980 | 0 | 
-| 2012-06-25 | 第8回大和証券杯ネット囲碁オープン予選 | O Rissei | Lee Ishu | Win | B+R | 6.5 | 2980 | -24 | 
+| 2012-06-25 | 第8回大和証券杯ネット囲碁オープン予選 | O Rissei | Lee Ishu | Win | B+R | 6.5 | 2980 | 0 | 
+| 2012-06-25 | 第8回大和証券杯ネット囲碁オープン予選 | Mochizuki Kenichi | O Rissei | Lose | B+5.5 | 6.5 | 2980 | -24 | 
 | 2012-06-21 | 第68期本因坊戦予選 | Seto Taiki | O Rissei | Lose | B+R | 6.5 | 3004 | -94 | 
 | 2012-05-31 | 第68期本因坊戦予選 | Rin Kaiho | O Rissei | Win | W+1.5 | 6.5 | 3098 | 1 | 
 | 2012-05-24 | 第19期阿含・桐山杯全日本早碁オープン戦予選 | O Rissei | Seto Taiki | Lose | W+3.5 | 6.5 | 3097 | -15 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-21 | 2021年1004島新安国際シニア囲碁大会2回戦 | O Meien | Rui Naiwei | Win | B+R | 6.5 | 3064 | 0 | 
+| 2021-12-21 | 2021年1004島新安国際シニア囲碁大会1回戦  | Cho Hunhyun | O Meien | Win | W+R | 6.5 | 3064 | 49 | 
 | 2021-12-16 | 第78期本因坊戦予選 | Takemiya Masaki | O Meien | Win | W+10.5 | 6.5 | 3015 | 0 | 
 | 2021-12-13 | 第48期名人戦予選 | Muramatsu Ryuichi | O Meien | Lose | B+1.5 | 6.5 | 3015 | -1 | 
 | 2021-12-06 | 第48期天元戦予選 | O Meien | Hirose Yuichi | Win | B+R | 6.5 | 3016 | 318 | 

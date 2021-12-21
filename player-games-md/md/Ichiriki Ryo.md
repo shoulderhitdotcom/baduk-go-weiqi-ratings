@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-21 | 第1回テイケイ杯俊英戦Aリーグ | Ichiriki Ryo | Abe Yoshiki | Win | B+R | 6.5 | 3409 | -14 | 
 | 2021-12-20 | 第1回テイケイ杯俊英戦Aリーグ |  | Ichiriki Ryo | Win | W+1.5 | 6.5 | 3423 | -45 | 
 | 2021-12-10 | 第77期本因坊戦リーグ | Ichiriki Ryo | Yu Zhengqi | Lose | W+R | 6.5 | 3468 | 2 | 
 | 2021-12-06 | 第47期天元戦挑戦手合五番勝負第4局  | Seki Kotaro | Ichiriki Ryo | Lose | B+R | 6.5 | 3466 | -4 | 

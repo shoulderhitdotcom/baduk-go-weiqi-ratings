@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-21 | 第1回テイケイ杯俊英戦Bリーグ | Hirose Yuichi | Otake Yu | Lose | B+R | 6.5 | 3100 | -33 | 
 | 2021-12-20 | 第1回テイケイ杯俊英戦Bリーグ  | Otake Yu | Hsu Chiayuan | Lose | W+R | 6.5 | 3133 | -16 | 
 | 2021-12-16 | 第60期十段戦3回戦 | Adachi Toshimasa | Otake Yu | Lose | B+1.5 | 6.5 | 3149 | -18 | 
 | 2021-12-13 | 第48期天元戦予選 | Otake Yu | Hikosaka Naoto | Win | B+R | 6.5 | 3167 | 22 | 

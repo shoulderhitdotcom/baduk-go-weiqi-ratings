@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-21 | 2021年1004島新安国際シニア囲碁大会2回戦 | Yu Bin | Yoo Changhyuk | Win | W+2.5 | 6.5 | 2827 | 0 | 
+| 2021-12-21 | 2021年1004島新安国際シニア囲碁大会1回戦 | O Rissei | Yoo Changhyuk | Win | W+5.5 | 6.5 | 2827 | 57 | 
 | 2021-12-13 | 2021韓国シニア囲碁リーグプレーオフ | Kim Ilhwan | Yoo Changhyuk | Win | W+15.5 | 6.5 | 2770 | 5 | 
 | 2021-12-09 | 2021韓国シニア囲碁リーグプレーオフ | Yoo Changhyuk | Kim Ilhwan | Win | B+R | 6.5 | 2765 | -3 | 
 | 2021-12-08 | 2021韓国シニア囲碁リーグプレーオフ | Yoo Changhyuk | Kim Ilhwan | Win | B+14.5 | 6.5 | 2768 | -32 | 

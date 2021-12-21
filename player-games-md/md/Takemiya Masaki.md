@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-21 | 2021年1004島新安国際シニア囲碁大会1回戦 | Seo Bongsoo | Takemiya Masaki | Lose | B+6.5 | 6.5 | 2707 | -8 | 
 | 2021-12-16 | 第78期本因坊戦予選 | Takemiya Masaki | O Meien | Lose | W+10.5 | 6.5 | 2715 | -10 | 
 | 2021-12-02 | 第48期天元戦予選 | Ueno Asami | Takemiya Masaki | Lose | B+4.5 | 6.5 | 2725 | -21 | 
 | 2021-11-18 | 第78期本因坊戦予選 | Kato Atsushi | Takemiya Masaki | Win | W+5.5 | 6.5 | 2746 | -26 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-21 | 2021年1004島新安国際シニア囲碁大会2回戦  | Yoda Norimoto |  | Win | B+R | 6.5 | 3034 | 0 | 
+| 2021-12-21 | 2021年1004島新安国際シニア囲碁大会1回戦 | Yoda Norimoto | Kim Chongsu | Win | B+4.5 | 6.5 | 3034 | -25 | 
 | 2021-12-06 | 第48期天元戦予選 | Yoda Norimoto | Ko Iso | Win | B+0.5 | 6.5 | 3059 | 49 | 
 | 2021-11-25 | 第78期本因坊戦予選 | Mimura Tomoyasu | Yoda Norimoto | Lose | B+R | 6.5 | 3010 | -134 | 
 | 2021-10-07 | 第78期本因坊戦予選 | Chino Tadahiko | Yoda Norimoto | Win | W+18.5 | 6.5 | 3144 | -3 | 
@@ -57,10 +59,10 @@
 | 2019-07-11 | 第45期名人戦予選 | Yoda Norimoto | Ogaki Yusaku | Lose | W+4.5 | 6.5 | 2795 | -7 | 
 | 2019-07-04 | 第44期棋聖戦Bリーグ | Yoda Norimoto | Tsuruyama Atsushi | Lose | W+4.5 | 6.5 | 2802 | 10 | 
 | 2019-06-12 | 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | Yu Bin | Yoda Norimoto | Lose | B+6.5 | 6.5 | 2792 | -18 | 
-| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会個人戦準決勝 | Yoda Norimoto | Yu Bin | Lose | W+3.5 | 6.5 | 2810 | 0 | 
-| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | Yoo Changhyuk | Yoda Norimoto | Win | W+R | 6.5 | 2810 | 17 | 
-| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | Yoda Norimoto | Takemiya Masaki | Win | B+T | 6.5 | 2793 | 0 | 
-| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | O Meien | Yoda Norimoto | Win | W+4.5 | 6.5 | 2793 | 13 | 
+| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | Yoo Changhyuk | Yoda Norimoto | Win | W+R | 6.5 | 2810 | 0 | 
+| 2019-06-11 | 2019年1004島新安国際シニア囲碁大会個人戦準決勝 | Yoda Norimoto | Yu Bin | Lose | W+3.5 | 6.5 | 2810 | 17 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会団体戦第1戦 | O Meien | Yoda Norimoto | Win | W+4.5 | 6.5 | 2793 | 0 | 
+| 2019-06-09 | 2019年1004島新安国際シニア囲碁大会個人戦8強戦 | Yoda Norimoto | Takemiya Masaki | Win | B+T | 6.5 | 2793 | 13 | 
 | 2019-06-08 | 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Yoda Norimoto | Kim Kihun | Win | B+3.5 | 6.5 | 2780 | 28 | 
 | 2019-06-06 | 第9回フマキラー囲碁マスターズカップ2回戦 | Yoda Norimoto | O Rissei | Win | B+3.5 | 6.5 | 2752 | 53 | 
 | 2019-05-30 | 第44期棋聖戦Bリーグ | Koike Yoshihiro | Yoda Norimoto | Lose | B+0.5 | 6.5 | 2699 | 4 | 
@@ -213,8 +215,8 @@
 | 2012-07-26 | 第37期棋聖戦Bリーグ | Iyama Yuta | Yoda Norimoto | Lose | B+7.5 | 6.5 | 3100 | -16 | 
 | 2012-07-12 | 第38期名人戦予選 | Yoda Norimoto | Nakaonoda Tomomi | Win | B+3.5 | 6.5 | 3116 | 27 | 
 | 2012-06-28 | 第68期本因坊戦予選 | Yoda Norimoto | Ryu Shikun | Lose | W+1.5 | 6.5 | 3089 | -16 | 
-| 2012-06-25 | 第8回大和証券杯ネット囲碁オープン予選 | Yoda Norimoto | Yu Zhengqi | Lose | W+0.5 | 6.5 | 3105 | 0 | 
-| 2012-06-25 | 第8回大和証券杯ネット囲碁オープン予選 | Tajiri Yuto | Yoda Norimoto | Win | W+7.5 | 6.5 | 3105 | -26 | 
+| 2012-06-25 | 第8回大和証券杯ネット囲碁オープン予選 | Tajiri Yuto | Yoda Norimoto | Win | W+7.5 | 6.5 | 3105 | 0 | 
+| 2012-06-25 | 第8回大和証券杯ネット囲碁オープン予選 | Yoda Norimoto | Yu Zhengqi | Lose | W+0.5 | 6.5 | 3105 | -26 | 
 | 2012-06-18 | 第17回LG杯世界棋王戦1回戦 | Li Kang | Yoda Norimoto | Lose | B+4.5 | 6.5 | 3131 | -34 | 
 | 2012-06-14 | 第37期棋聖戦Bリーグ | Yamashiro Hiroshi | Yoda Norimoto | Win | W+0.5 | 6.5 | 3165 | -54 | 
 | 2012-06-07 | 第68期本因坊戦予選 | Yoda Norimoto | Kono Takashi | Win | B+R | 6.5 | 3219 | 31 | 

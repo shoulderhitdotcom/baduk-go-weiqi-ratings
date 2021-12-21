@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-21 | 2021年1004島新安国際シニア囲碁大会1回戦 | Yoda Norimoto | Kim Chongsu | Lose | B+4.5 | 6.5 | 2494 | -29 | 
 | 2021-11-22 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Soojang | Lose | W+R | 6.5 | 2523 | -13 | 
 | 2021-11-16 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Kim Chuljung | Win | B+13.5 | 6.5 | 2536 | 37 | 
 | 2021-11-03 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Yoo Changhyuk | Lose | W+4.5 | 6.5 | 2499 | 5 | 

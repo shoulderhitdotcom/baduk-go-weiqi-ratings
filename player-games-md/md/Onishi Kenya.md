@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-21 | 第1回テイケイ杯俊英戦Bリーグ | Tsuruta Kazushi | Onishi Kenya | Lose | B+6.5 | 6.5 | 2629 | -39 | 
 | 2021-12-20 | 第1回テイケイ杯俊英戦Bリーグ | Onishi Kenya | Hirose Yuichi | Lose | W+1.5 | 6.5 | 2668 | -234 | 
 | 2021-07-29 | 第47期名人戦予選 | Onishi Kenya | Ishida Yoshio | Win | B+4.5 | 6.5 | 2902 | 11 | 
 | 2021-05-27 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Yamashita Keigo | Onishi Kenya | Lose | B+6.5 | 6.5 | 2891 | -23 | 

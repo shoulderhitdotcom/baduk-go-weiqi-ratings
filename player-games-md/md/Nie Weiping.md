@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-21 | 2021年1004島新安国際シニア囲碁大会2回戦 | Seo Bongsoo | Nie Weiping | Lose | B+R | 6.5 | 2673 | 0 | 
+| 2021-12-21 | 2021年1004島新安国際シニア囲碁大会1回戦 | Choi Kyubyeong | Nie Weiping | Win | W+0.5 | 6.5 | 2673 | -102 | 
 | 2021-11-01 | 2021中日韓聶衛平杯囲碁マスターズ3回戦 | Cho Hunhyun | Nie Weiping | Lose | B+R | 7.5 | 2775 | -122 | 
 | 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Takemiya Masaki | Nie Weiping | Lose | B+R | 7.5 | 2897 | -197 | 
 | 2021-09-13 | 2021葫芦島囲碁文化祭中日韓囲碁対抗戦第2ラウンド | Kobayashi Koichi | Nie Weiping | Lose | B+R | 7.5 | 3094 | 2 | 
@@ -41,8 +43,8 @@
 | 2018-03-29 | 第2回中日韓囲碁元老戦決勝 | Cao Dayuan | Nie Weiping | Lose | B+R | 7.5 | 3055 | -25 | 
 | 2018-03-28 | 第2回中日韓囲碁元老戦準決勝 | Seo Bongsoo | Nie Weiping | Win | W+1¼ | 7.5 | 3080 | 43 | 
 | 2018-03-27 | 第2回中日韓囲碁元老戦1回戦 | Kobayashi Koichi | Nie Weiping | Win | W+7¼ | 7.5 | 3037 | 367 | 
-| 2017-04-25 | 第1回中日韓囲碁元老戦1回戦 | Nie Weiping | Seo Bongsoo | Win | B+R | 7.5 | 2670 | 0 | 
-| 2017-04-25 | 第1回中日韓囲碁元老戦2回戦 | Kobayashi Koichi | Nie Weiping | Lose | B+R | 7.5 | 2670 | 2670 | 
+| 2017-04-25 | 第1回中日韓囲碁元老戦2回戦 | Kobayashi Koichi | Nie Weiping | Lose | B+R | 7.5 | 2670 | 0 | 
+| 2017-04-25 | 第1回中日韓囲碁元老戦1回戦 | Nie Weiping | Seo Bongsoo | Win | B+R | 7.5 | 2670 | 2670 | 
 | 2017-03-18 | 昌江棋子湾中国冠軍戦1回戦 | Nie Weiping | Gu Li | Lose | W+R | 7.5 | missing | 0 | 
 | 2017-01-04 | Alphago Online Series on Tygem and Fox 54 |  | Nie Weiping | Lose | B+7.5 | 6.5 | missing | 0 | 
 | 2016-11-15 | 相城区第1期太平書鎮杯中国元老決勝 | Nie Weiping | Hua Yigang | Win | B+R | 7.5 | missing | 0 | 
@@ -86,16 +88,16 @@
 | 2008-03-25 | 第7回西南棋王戦2回戦 | Wang Lei (b) | Nie Weiping | Lose | B+R | 7.5 | 2639 | 0 | 
 | 2008-03-25 | 第7回西南棋王戦1回戦 | Shi Yue | Nie Weiping | Win | W+R | 7.5 | 2639 | 38 | 
 | 2008-03-05 | 第14期NEC杯囲碁戦予選 | Nie Weiping | Li Zhe | Lose | W+R | 7.5 | 2601 | -3 | 
-| 2008-02-27 | 第14期NEC杯囲碁戦予選 |  | Nie Weiping | Win | W+R | 7.5 | 2604 | 0 | 
-| 2008-02-27 | 第14期NEC杯囲碁戦予選 | Niu Yutian | Nie Weiping | Win | W+R | 7.5 | 2604 | 75 | 
+| 2008-02-27 | 第14期NEC杯囲碁戦予選 | Niu Yutian | Nie Weiping | Win | W+R | 7.5 | 2604 | 0 | 
+| 2008-02-27 | 第14期NEC杯囲碁戦予選 |  | Nie Weiping | Win | W+R | 7.5 | 2604 | 75 | 
 | 2008-02-26 | 2008CCTV杯中国囲棋電視快棋戦3回戦 | Nie Weiping |  | Win | B+1.5 | 7.5 | 2529 | 62 | 
 | 2008-02-25 | 第21期中国囲碁名人戦予選 | Nie Weiping |  | Lose | W+R | 7.5 | 2467 | -65 | 
 | 2008-01-28 | 第22期中国囲碁天元戦予選 | Tan Xiao | Nie Weiping | Lose | B+R | 7.5 | 2532 | 42 | 
 | 2008-01-06 | 2008CCTV杯中国囲棋電視快棋戦2回戦 | Fan Weijing | Nie Weiping | Win | W+R | 7.5 | 2490 | 38 | 
 | 2007-11-03 | 第3期威孚房開杯棋王戦1回戦 | Wang Yuhui | Nie Weiping | Lose | B+R | 7.5 | 2452 | -399 | 
 | 2007-05-10 | 第9期阿含・桐山杯中国早碁オープン戦予選 | Nie Weiping |  | Lose | W+R | 7.5 | 2851 | 4 | 
-| 2007-05-09 | 第9期阿含・桐山杯中国早碁オープン戦予選 | Li Jie | Nie Weiping | Win | W+10.5 | 7.5 | 2847 | 0 | 
-| 2007-05-09 | 第9期阿含・桐山杯中国早碁オープン戦予選 | Nie Weiping |  | Win | B+R | 7.5 | 2847 | 87 | 
+| 2007-05-09 | 第9期阿含・桐山杯中国早碁オープン戦予選 | Nie Weiping |  | Win | B+R | 7.5 | 2847 | 0 | 
+| 2007-05-09 | 第9期阿含・桐山杯中国早碁オープン戦予選 | Li Jie | Nie Weiping | Win | W+10.5 | 7.5 | 2847 | 87 | 
 | 2007-04-07 | 第20期中国囲碁名人戦予選 | Nie Weiping | Gu Lingyi | Lose | W+R | 7.5 | 2760 | -16 | 
 | 2007-04-02 | 第20期中国囲碁名人戦予選 | Li Jie | Nie Weiping | Win | W+R | 7.5 | 2776 | 25 | 
 | 2007-03-13 | 第6回西南棋王戦2回戦 | Ding Wei | Nie Weiping | Lose | B+R | 7.5 | 2751 | 0 | 

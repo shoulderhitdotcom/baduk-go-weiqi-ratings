@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-21 | 2021年1004島新安国際シニア囲碁大会1回戦 | Yu Bin | Seo Nungwuk | Lose | B+R | 6.5 | 2739 | -6 | 
 | 2021-11-24 | 2021韓国シニア囲碁リーグ | Seo Nungwuk | Park Seungmun | Win | B+R | 6.5 | 2745 | 9 | 
 | 2021-11-04 | 2021韓国シニア囲碁リーグ | Seo Nungwuk | Jeong Daesang | Win | B+R | 6.5 | 2736 | 26 | 
 | 2021-10-27 | 2021韓国シニア囲碁リーグ | Kim Soojang | Seo Nungwuk | Win | W+5.5 | 6.5 | 2710 | -140 | 
@@ -20,8 +21,8 @@
 | 2021-08-26 | 2021韓国シニア囲碁リーグ | Kim Chongsu | Seo Nungwuk | Win | W+R | 6.5 | 2658 | 22 | 
 | 2021-08-04 | 2021韓国シニア囲碁リーグ | Kim Ilhwan | Seo Nungwuk | Win | W+28.5 | 6.5 | 2636 | -150 | 
 | 2021-02-15 | 第4期韓国竜星戦1回戦 | Park Sangjin | Seo Nungwuk | Lose | B+29.5 | 6.5 | 2786 | -77 | 
-| 2021-01-18 | 2021年韓国棋院杯シニア囲碁大会決勝 |  | Seo Nungwuk | Win | W+R | 6.5 | 2863 | 0 | 
-| 2021-01-18 | 2021年韓国棋院杯シニア囲碁大会準決勝 | Chang Suyeong | Seo Nungwuk | Win | W+R | 6.5 | 2863 | 176 | 
+| 2021-01-18 | 2021年韓国棋院杯シニア囲碁大会準決勝 | Chang Suyeong | Seo Nungwuk | Win | W+R | 6.5 | 2863 | 0 | 
+| 2021-01-18 | 2021年韓国棋院杯シニア囲碁大会決勝 |  | Seo Nungwuk | Win | W+R | 6.5 | 2863 | 176 | 
 | 2020-10-26 | 2020NHシニア囲碁リーグ第14節第3試合第1局 | Kang Hun | Seo Nungwuk | Win | W+10.5 | 6.5 | 2687 | 32 | 
 | 2020-10-22 | 2020NHシニア囲碁リーグ第13節第4試合第2局 | Seo Nungwuk | Yoo Changhyuk | Lose | W+12.5 | 6.5 | 2655 | -49 | 
 | 2020-10-15 | 2020NHシニア囲碁リーグ第12節第4試合第1局 | Seo Nungwuk | Kim Kihun | Win | B+15.5 | 6.5 | 2704 | 17 | 

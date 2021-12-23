@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-23 | 第47期棋聖戦予選 | Rin Kaiho | Mukai Kaori | Lose | W+14.5 | 6.5 | missing | 0 | 
+| 2021-11-11 | 第78期本因坊戦予選 | Rin Kaiho | Ishigure Ikuro | Lose | W+8.5 | 6.5 | missing | 0 | 
 | 2021-09-27 | 第61期十段戦予選 | Rin Kaiho | Mannami Kana | Lose | W+R | 6.5 | missing | 0 | 
 | 2021-07-22 | 第48期天元戦予選 | Matsumoto Takehisa | Rin Kaiho | Lose | B+R | 6.5 | missing | -2352 | 
 | 2021-05-06 | 第70期王座戦予選 | Rin Kaiho | Kamimura Haruo | Lose | W+R | 6.5 | 2352 | 39 | 

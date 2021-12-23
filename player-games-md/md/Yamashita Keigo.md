@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-23 | 第48期天元戦予選 | Adachi Toshimasa | Yamashita Keigo | Win | W+R | 6.5 | 3160 | 43 | 
 | 2021-12-20 | 第47期名人戦リーグ  | Shida Tatsuya | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3117 | -57 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦  | Yamashita Keigo | Shin Jinseo | Lose | W+R | 6.5 | 3174 | 0 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦  | Yamashita Keigo | Choi Jeong | Win | B+1.5 | 6.5 | 3174 | 20 | 

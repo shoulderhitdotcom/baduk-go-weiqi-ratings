@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-23 | 第48期名人戦予選 | Shimoji Gensho | Nakamura Sumire | Win | W+R | 6.5 | 2644 | -45 | 
 | 2021-12-02 | 第33期女流名人戦予選 | Nakamura Sumire | Hoshiai Shiho | Win | B+R | 6.5 | 2689 | 28 | 
 | 2021-11-29 | 第78期本因坊戦予選 | Nakamura Sumire | Kim Sujun | Win | B+3.5 | 6.5 | 2661 | -54 | 
 | 2021-11-22 | 第47期新人王予選 | Nakamura Sumire |  | Win | B+4.5 | 6.5 | 2715 | 87 | 
@@ -69,9 +70,9 @@
 | 2020-07-11 | 仲邑菫初段のオロチャレンジ第1回第2局 | Nakamura Sumire | Kim Cheayoung | Lose | W+7.5 | 6.5 | 2039 | -6 | 
 | 2020-07-10 | 仲邑菫初段のオロチャレンジ第1回第1局 | Kim Cheayoung | Nakamura Sumire | Lose | B+R | 6.5 | 2045 | 54 | 
 | 2020-06-18 | 第69期王座戦予選 | Nakamura Sumire | Sano Takatsugu | Win | B+R | 6.5 | 1991 | 64 | 
-| 2020-04-06 | 第11回おかげ杯囲碁トーナメント戦予選 | Nakamura Sumire |  | Win | B+R | 6.5 | 1927 | 0 | 
 | 2020-04-06 | 第11回おかげ杯囲碁トーナメント戦予選 | Nakamura Sumire | Xie Yimin | Lose | W+R | 6.5 | 1927 | 0 | 
-| 2020-04-06 | 第11回おかげ杯囲碁トーナメント戦予選 | Nakamura Sumire | Nyu Eiko | Win | B+4.5 | 6.5 | 1927 | 224 | 
+| 2020-04-06 | 第11回おかげ杯囲碁トーナメント戦予選 | Nakamura Sumire | Nyu Eiko | Win | B+4.5 | 6.5 | 1927 | 0 | 
+| 2020-04-06 | 第11回おかげ杯囲碁トーナメント戦予選 | Nakamura Sumire |  | Win | B+R | 6.5 | 1927 | 224 | 
 | 2020-04-02 | 第47期天元戦予選 | Takei Takashi | Nakamura Sumire | Lose | B+R | 6.5 | 1703 | -18 | 
 | 2020-03-26 | 第46期碁聖戦予選 |  | Nakamura Sumire | Lose | B+4.5 | 6.5 | 1721 | -43 | 
 | 2020-03-12 | 第59期十段戦予選 | Kikkawa Hajime | Nakamura Sumire | Win | W+R | 6.5 | 1764 | -9 | 
@@ -79,8 +80,8 @@
 | 2020-02-13 | 第5回扇興杯女流最強戦予選 |  | Nakamura Sumire | Win | W+R | 6.5 | 1914 | -110 | 
 | 2020-02-10 | 第46期名人戦予選 | Furuta Naoyoshi | Nakamura Sumire | Win | W+R | 6.5 | 2024 | 252 | 
 | 2020-01-30 | 第7期会津中央病院・女流立葵杯予選 | Wang Jingyi | Nakamura Sumire | Lose | B+R | 6.5 | 1772 | -200 | 
-| 2020-01-27 | 第7回グロービス杯国内予選 | Yahata Naoki | Nakamura Sumire | Lose | B+R | 6.5 | 1972 | 0 | 
-| 2020-01-27 | 第7回グロービス杯国内予選 |  | Nakamura Sumire | Win | W+R | 6.5 | 1972 | 6372 | 
+| 2020-01-27 | 第7回グロービス杯国内予選 |  | Nakamura Sumire | Win | W+R | 6.5 | 1972 | 0 | 
+| 2020-01-27 | 第7回グロービス杯国内予選 | Yahata Naoki | Nakamura Sumire | Lose | B+R | 6.5 | 1972 | 6372 | 
 | 2020-01-23 | 第45期棋聖戦ファーストトーナメント予選 | Iwamaru Taira | Nakamura Sumire | Lose | B+10.5 | 6.5 | -4400 | -6202 | 
 | 2020-01-16 | 第76期本因坊戦予選 | Nakamura Sumire | Hane Yasumasa | Lose | W+5.5 | 6.5 | 1802 | -48 | 
 | 2020-01-13 | 第1回博多・カマチ杯女流オープン戦予選 | Miyamoto Chiharu | Nakamura Sumire | Lose | B+R | 6.5 | 1850 | -42 | 
@@ -112,8 +113,8 @@
 | 2019-07-10 | AI強化学習1日目vsプロ1年目 |  | Nakamura Sumire | Lose | B+R | 6.5 | 2305 | 6 | 
 | 2019-07-08 | 第23期ドコモ杯女流棋聖戦予選 |  | Nakamura Sumire | Win | W+R | 6.5 | 2299 | 15 | 
 | 2019-05-21 | 第4回夢百合杯統合予選 | Wang Chenxing | Nakamura Sumire | Lose | B+R | 7.5 | 2284 | -68 | 
-| 2019-05-11 | ナショナルチーム研究会 | Nakamura Sumire |  | Win | B+R | 6.5 | 2352 | 0 | 
-| 2019-05-11 | ナショナルチーム研究会 | Nakamura Sumire | Takao Shinji | Lose | W+R | 6.5 | 2352 | 2352 | 
+| 2019-05-11 | ナショナルチーム研究会 | Nakamura Sumire | Takao Shinji | Lose | W+R | 6.5 | 2352 | 0 | 
+| 2019-05-11 | ナショナルチーム研究会 | Nakamura Sumire |  | Win | B+R | 6.5 | 2352 | 2352 | 
 | 2019-05-06 | 関西合宿　日本棋院vs関西棋院 | Nakamura Sumire | Sakai Hideyuki | Lose | W+R | 6.5 | missing | 0 | 
 | 2019-04-22 | 第29期竜星戦予選 | Nakamura Sumire |  | Lose | W+R | 6.5 | missing | 0 | 
 | 2019-01-30 | 2019年K바둑旧正月特集シニアvs女流第1局  | Nakamura Sumire | Cho Hunhyun | Lose | W+R | 6.5 | missing | missing |

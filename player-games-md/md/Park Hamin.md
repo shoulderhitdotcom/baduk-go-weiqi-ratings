@@ -7,7 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-12-10 | 第7回国手山脈韓国国内トーナメント2回戦 | An Sungjoon | Park Hamin | Lose | B+R | 6.5 | 3281 | 8 | 
+| 2021-12-23 | 第5回クラウン・ヘテ杯1回戦 | Park Hamin |  | Win | B+R | 6.5 | 3217 | -21 | 
+| 2021-12-19 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Park Hamin | Lose | B+R | 6.5 | 3238 | -43 | 
+| 2021-12-10 | 第7回国手山脈韓国国内トーナメント2回戦 | An Sungjoon | Park Hamin | Lose | B+R | 6.5 | 3281 | 0 | 
+| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Park Hamin | Seol Hyunjun | Win | B+R | 6.5 | 3281 | 8 | 
 | 2021-12-08 | 第27回GSカルテックス杯プロ棋戦予選 | Park Hamin | Ahn Kukhyun | Win | B+R | 6.5 | 3273 | -16 | 
 | 2021-11-29 | 第3回大統領杯全国囲碁大会2回戦 | Han Seungjoo | Park Hamin | Lose | B+R | 6.5 | 3289 | 0 | 
 | 2021-11-29 | 第3回大統領杯全国囲碁大会1回戦 | Park Hamin |  | Win | B+R | 6.5 | 3289 | 9 | 
@@ -40,8 +43,8 @@
 | 2020-12-09 | 第26期GSカルテックス杯プロ棋戦予選 | Park Jinsol | Park Hamin | Lose | B+R | 6.5 | 3622 | -5 | 
 | 2020-12-03 | 2020-2021韓国囲碁リーグ | Park Seunghwa | Park Hamin | Win | W+R | 6.5 | 3627 | 22 | 
 | 2020-11-29 | 2020-2021韓国囲碁リーグ | Lee Yeongkyu | Park Hamin | Lose | B+R | 6.5 | 3605 | 27 | 
-| 2020-11-22 | 第2回大統領杯全国囲碁大会決勝 | Park Hamin | Song Jihoon | Win | B+1.5 | 6.5 | 3578 | 0 | 
-| 2020-11-22 | 第2回大統領杯全国囲碁大会準決勝 | An Sungjoon | Park Hamin | Win | W+R | 6.5 | 3578 | 22 | 
+| 2020-11-22 | 第2回大統領杯全国囲碁大会準決勝 | An Sungjoon | Park Hamin | Win | W+R | 6.5 | 3578 | 0 | 
+| 2020-11-22 | 第2回大統領杯全国囲碁大会決勝 | Park Hamin | Song Jihoon | Win | B+1.5 | 6.5 | 3578 | 22 | 
 | 2020-11-21 | 第2回大統領杯全国囲碁大会2回戦 |  | Park Hamin | Win | W+R | 6.5 | 3556 | 0 | 
 | 2020-11-21 | 第2回大統領杯全国囲碁大会1回戦 | Song Gyusang | Park Hamin | Win | W+R | 6.5 | 3556 | 83 | 
 | 2020-11-05 | 第2回大統領杯全国囲碁大会予選 | Park Hamin | Park Minkyu | Win | B+R | 6.5 | 3473 | 32 | 
@@ -163,8 +166,8 @@
 | 2016-08-31 | 2016年フューチャーズリーグ | Lee Changseok | Park Hamin | Lose | B+R | 6.5 | 2877 | -54 | 
 | 2016-08-20 | 2016年フューチャーズリーグ | Park Hamin | Park Siyeol | Win | B+0.5 | 6.5 | 2931 | 17 | 
 | 2016-08-13 | 2016年フューチャーズリーグ | Song Jihoon | Park Hamin | Lose | B+R | 6.5 | 2914 | -29 | 
-| 2016-08-09 | 2016年利民杯世界囲碁星鋭最強戦第2ステージ決勝 | Choi Jeong | Park Hamin | Lose | B+R | 7.5 | 2943 | 0 | 
-| 2016-08-09 | 2016年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 | Baek Hyeonwoo | Park Hamin | Win | W+R | 7.5 | 2943 | -14 | 
+| 2016-08-09 | 2016年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 | Baek Hyeonwoo | Park Hamin | Win | W+R | 7.5 | 2943 | 0 | 
+| 2016-08-09 | 2016年利民杯世界囲碁星鋭最強戦第2ステージ決勝 | Choi Jeong | Park Hamin | Lose | B+R | 7.5 | 2943 | -14 | 
 | 2016-08-07 | 2016年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Park Hamin | Fan Yin | Lose | W+R | 7.5 | 2957 | -8 | 
 | 2016-08-06 | 2016年利民杯世界囲碁星鋭最強戦第2ステージリーグ |  | Park Hamin | Win | W+0.5 | 7.5 | 2965 | 3 | 
 | 2016-07-31 | 2016年フューチャーズリーグ | You Byungyong | Park Hamin | Lose | B+R | 6.5 | 2962 | -116 | 

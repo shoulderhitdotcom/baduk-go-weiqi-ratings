@@ -7,6 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-23 | 第5回クラウン・ヘテ杯1回戦 | Gon Jiwoo | Cho Seungah | Lose | W+R | 6.5 | 3149 | 3149 | 
+| 2021-12-17 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Gon Jiwoo | Lose | B+R | 6.5 | missing | -3252 | 
+| 2021-12-05 | 第14回金寅国手杯プロ新鋭戦第3戦 |  | Gon Jiwoo | Lose | B+R | 6.5 | 3252 | 8 | 
+| 2021-12-04 | 第14回金寅国手杯プロ新鋭戦第2戦 | Baek Hyeonwoo | Gon Jiwoo | Lose | B+R | 6.5 | 3244 | 0 | 
+| 2021-12-04 | 第14回金寅国手杯プロ新鋭戦 |  | Gon Jiwoo | Lose | B+R | 6.5 | 3244 | 9 | 
 | 2021-12-02 | 2021-2022韓国囲碁リーグ | Park Geunho | Gon Jiwoo | Lose | B+R | 6.5 | 3235 | -11 | 
 | 2021-11-26 | 2021-2022韓国囲碁リーグ | Gon Jiwoo | Song Gyusang | Win | B+5.5 | 6.5 | 3246 | -18 | 
 | 2021-11-19 | 2021-2022韓国囲碁リーグ | Lee Wonyoung | Gon Jiwoo | Win | W+R | 6.5 | 3264 | 11 | 
@@ -16,8 +21,7 @@
 | 2021-07-22 | 第2期利鵬杯新鋭最高位戦 |  | Gon Jiwoo | Win | W+0.5 | 6.5 | 3171 | -35 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第3戦  | Ueno Asami | Gon Jiwoo | Lose | B+R | 6.5 | 3206 | 0 | 
 | 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第2戦 | Gon Jiwoo | Wang Xinghao | Lose | W+R | 6.5 | 3206 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Ueno Asami | Gon Jiwoo | Win | W+R | 6.5 | 3206 | 0 | 
-| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第3戦 | Ueno Asami | Gon Jiwoo | Lose | B+R | 6.5 | 3206 | -62 | 
+| 2021-06-05 | 第8回グロービス杯世界囲碁U-20グループリーグ第1戦 | Ueno Asami | Gon Jiwoo | Win | W+R | 6.5 | 3206 | -62 | 
 | 2021-05-07 | 第8回グロービス杯韓国予選 | Gon Jiwoo |  | Win | B+3.5 | 6.5 | 3268 | -3 | 
 | 2021-05-01 | 第26回LG杯韓国予選 | Ryu Minhyung | Gon Jiwoo | Lose | B+0.5 | 6.5 | 3271 | -33 | 
 | 2021-03-27 | 2020-2021韓国囲碁リーグ優勝決定戦第2戦 | Park Hamin | Gon Jiwoo | Lose | B+R | 6.5 | 3304 | -87 | 

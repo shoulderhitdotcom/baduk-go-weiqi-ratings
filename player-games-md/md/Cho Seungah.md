@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-23 | 第5回クラウン・ヘテ杯1回戦 | Gon Jiwoo | Cho Seungah | Win | W+R | 6.5 | 3094 | 8 | 
 | 2021-12-19 | 2021蘭雪軒杯全国女子囲碁大会決勝 |  | Cho Seungah | Win | W+R | 6.5 | 3086 | 0 | 
 | 2021-12-18 | 2021蘭雪軒杯全国女子囲碁大会準決勝 | Park Jiyeon | Cho Seungah | Win | W+R | 6.5 | 3086 | 0 | 
 | 2021-12-18 | 2021蘭雪軒杯全国女子囲碁大会1回戦 | Lee Minjin | Cho Seungah | Win | W+10.5 | 6.5 | 3086 | 19 | 

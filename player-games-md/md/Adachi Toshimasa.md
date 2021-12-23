@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-23 | 第48期天元戦予選 | Adachi Toshimasa | Yamashita Keigo | Lose | W+R | 6.5 | 3391 | -59 | 
 | 2021-12-16 | 第60期十段戦3回戦 | Adachi Toshimasa | Otake Yu | Win | B+1.5 | 6.5 | 3450 | 93 | 
 | 2021-10-25 | 第60期十段戦2回戦 | Adachi Toshimasa | Iyama Yuta | Win | B+R | 6.5 | 3357 | 88 | 
 | 2021-10-14 | 第60期十段戦1回戦 | Anzai Nobuaki | Adachi Toshimasa | Win | W+R | 6.5 | 3269 | 114 | 

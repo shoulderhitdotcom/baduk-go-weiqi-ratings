@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-23 | 第48期天元戦予選 | Hane Naoki | Yamada Kimio | Win | W+R | 6.5 | 3038 | 39 | 
 | 2021-12-02 | 第48期天元戦予選 | Ito Kenryo | Yamada Kimio | Win | W+R | 6.5 | 2999 | 102 | 
 | 2021-09-16 | 第46期棋聖戦Cリーグ | Yamada Kimio | Tsuruta Kazushi | Win | B+3.5 | 6.5 | 2897 | -4 | 
 | 2021-09-02 | 第60期十段戦予選 | Onishi Ryuhei | Yamada Kimio | Lose | B+R | 6.5 | 2901 | -2 | 
@@ -233,8 +234,8 @@
 | 2011-02-03 | 第36期棋聖戦予選 | Yamada Kimio | Nakane Naoyuki | Lose | W+R | 6.5 | 3013 | -18 | 
 | 2011-01-27 | 第67期本因坊戦予選 | Sakaguchi Ryuzo | Yamada Kimio | Win | W+R | 6.5 | 3031 | 68 | 
 | 2011-01-13 | 第36期棋聖戦予選 | Yamada Kimio | Mimura Tomoyasu | Win | B+4.5 | 6.5 | 2963 | 124 | 
-| 2010-11-25 | 2010年アジア競技大会囲碁男子団体戦 | Yamada Kimio | Zhou Ruiyang | Lose | W+T | 7.5 | 2839 | 0 | 
-| 2010-11-25 | 2010年アジア競技大会囲碁男子団体戦 | Choi Cheolhan | Yamada Kimio | Lose | B+R | 7.5 | 2839 | 24 | 
+| 2010-11-25 | 2010年アジア競技大会囲碁男子団体戦 | Choi Cheolhan | Yamada Kimio | Lose | B+R | 7.5 | 2839 | 0 | 
+| 2010-11-25 | 2010年アジア競技大会囲碁男子団体戦 | Yamada Kimio | Zhou Ruiyang | Lose | W+T | 7.5 | 2839 | 24 | 
 | 2010-11-18 | 第37期天元戦予選 | Matsuoka Hideki | Yamada Kimio | Lose | B+R | 6.5 | 2815 | 4 | 
 | 2010-11-11 | 第58期王座戦挑戦手合五番勝負第3局 | Cho U | Yamada Kimio | Lose | B+R | 6.5 | 2811 | -15 | 
 | 2010-11-04 | 第58期王座戦挑戦手合五番勝負第2局 | Yamada Kimio | Cho U | Lose | W+3.5 | 6.5 | 2826 | 0 | 

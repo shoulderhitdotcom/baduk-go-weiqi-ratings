@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-23 | 第48期天元戦予選 | Anzai Nobuaki | Cho U | Win | W+4.5 | 6.5 | 3111 | -15 | 
 | 2021-12-09 | 第48期天元戦予選 | Cho Sonjin | Cho U | Win | W+4.5 | 6.5 | 3126 | -36 | 
 | 2021-11-08 | 第60期十段戦2回戦 | Cho U | Otake Yu | Lose | W+3.5 | 6.5 | 3162 | -21 | 
 | 2021-10-21 | 第48期天元戦予選 | Suzuki Ayumi | Cho U | Win | W+R | 6.5 | 3183 | 1 | 
@@ -418,8 +419,8 @@
 | 2010-12-16 | 第37期天元戦本戦1回戦 | Sekiyama Toshimichi | Cho U | Win | W+11.5 | 6.5 | 3182 | 5 | 
 | 2010-12-09 | 第36期碁聖戦本戦2回戦 | Nakamura Hidehito | Cho U | Win | W+R | 6.5 | 3177 | 43 | 
 | 2010-12-02 | 第36期名人戦リーグ | Cho U | Sakai Hideyuki | Lose | W+0.5 | 6.5 | 3134 | -14 | 
-| 2010-11-26 | 2010年アジア競技大会囲碁男子団体戦 | Yamashita Keigo | Cho U | Win | W+2.5 | 7.5 | 3148 | 0 | 
-| 2010-11-26 | 2010年アジア競技大会囲碁男子団体戦 | Cho U | Yamashita Keigo | Win | B+1.5 | 7.5 | 3148 | -29 | 
+| 2010-11-26 | 2010年アジア競技大会囲碁男子団体戦 | Cho U | Yamashita Keigo | Win | B+1.5 | 7.5 | 3148 | 0 | 
+| 2010-11-26 | 2010年アジア競技大会囲碁男子団体戦 | Yamashita Keigo | Cho U | Win | W+2.5 | 7.5 | 3148 | -29 | 
 | 2010-11-24 | 2010年アジア競技大会囲碁男子団体戦 | Cho U | Chang Hao | Win | B+T | 7.5 | 3177 | 0 | 
 | 2010-11-24 | 2010年アジア競技大会囲碁男子団体戦 | Kang Dongyun | Cho U | Win | W+R | 7.5 | 3177 | 86 | 
 | 2010-11-11 | 第58期王座戦挑戦手合五番勝負第3局 | Cho U | Yamada Kimio | Win | B+R | 6.5 | 3091 | -18 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-23 | 第48期天元戦予選 | Anzai Nobuaki | Cho U | Lose | W+4.5 | 6.5 | 3081 | -126 | 
 | 2021-11-18 | 第47期碁聖戦予選 | Anzai Nobuaki | Kono Rin | Lose | W+R | 6.5 | 3207 | -33 | 
 | 2021-10-14 | 第60期十段戦1回戦 | Anzai Nobuaki | Adachi Toshimasa | Lose | W+R | 6.5 | 3240 | 53 | 
 | 2021-09-23 | 第47期碁聖戦予選 | Cho Sonjin | Anzai Nobuaki | Win | W+R | 6.5 | 3187 | -76 | 
@@ -74,10 +75,10 @@
 | 2016-10-20 | 第65期王座戦予選 | Anzai Nobuaki | Cho Sonjin | Lose | W+R | 6.5 | 2685 | -79 | 
 | 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦第3戦 | Park Minkyu | Anzai Nobuaki | Lose | B+R | 6.5 | 2764 | 0 | 
 | 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Anzai Nobuaki | Yang Bowei | Lose | W+R | 6.5 | 2764 | -85 | 
-| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yang Bowei | Anzai Nobuaki | Win | W+R | 6.5 | 2849 | 0 | 
-| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Anzai Nobuaki | Tong Mengcheng | Lose | W+R | 6.5 | 2849 | 240 | 
-| 2016-05-15 | 第7回おかげ杯囲碁トーナメント戦決勝 | Ichiriki Ryo | Anzai Nobuaki | Lose | B+R | 6.5 | 2609 | 0 | 
-| 2016-05-15 | 第7回おかげ杯囲碁トーナメント戦準決勝 | Yu Zhengqi | Anzai Nobuaki | Win | W+R | 6.5 | 2609 | 61 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Anzai Nobuaki | Tong Mengcheng | Lose | W+R | 6.5 | 2849 | 0 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yang Bowei | Anzai Nobuaki | Win | W+R | 6.5 | 2849 | 240 | 
+| 2016-05-15 | 第7回おかげ杯囲碁トーナメント戦準決勝 | Yu Zhengqi | Anzai Nobuaki | Win | W+R | 6.5 | 2609 | 0 | 
+| 2016-05-15 | 第7回おかげ杯囲碁トーナメント戦決勝 | Ichiriki Ryo | Anzai Nobuaki | Lose | B+R | 6.5 | 2609 | 61 | 
 | 2016-04-11 | 第64期王座戦予選 | Numadate Sakiya | Anzai Nobuaki | Lose | B+R | 6.5 | 2548 | -87 | 
 | 2016-03-07 | 第64期王座戦予選 | Cho U | Anzai Nobuaki | Win | W+1.5 | 6.5 | 2635 | 50 | 
 | 2016-02-11 | 第42期天元戦本戦1回戦 | Shibano Toramaru | Anzai Nobuaki | Lose | B+R | 6.5 | 2585 | -61 | 
@@ -108,8 +109,8 @@
 | 2013-08-29 | 第15回農心杯選抜戦 | Ichiriki Ryo | Anzai Nobuaki | Lose | B+R | 6.5 | 2963 | 4 | 
 | 2013-08-24 | 第15回農心杯選抜戦 | Fujita Akihiko | Anzai Nobuaki | Win | W+R | 6.5 | 2959 | 268 | 
 | 2013-06-22 | 第20期阿含・桐山杯全日本早碁オープン戦1回戦 | Takao Shinji | Anzai Nobuaki | Lose | B+R | 6.5 | 2691 | -72 | 
-| 2013-05-16 | 第4回おかげ杯囲碁トーナメント戦決勝 | Ichiriki Ryo | Anzai Nobuaki | Lose | B+R | 7.5 | 2763 | 0 | 
-| 2013-05-16 | 第4回おかげ杯囲碁トーナメント戦準決勝 | Anzai Nobuaki | Xie Yimin | Win | B+R | 6.5 | 2763 | -106 | 
+| 2013-05-16 | 第4回おかげ杯囲碁トーナメント戦準決勝 | Anzai Nobuaki | Xie Yimin | Win | B+R | 6.5 | 2763 | 0 | 
+| 2013-05-16 | 第4回おかげ杯囲碁トーナメント戦決勝 | Ichiriki Ryo | Anzai Nobuaki | Lose | B+R | 7.5 | 2763 | -106 | 
 | 2013-04-11 | 第39期天元戦本戦2回戦 | Yu Zhengqi | Anzai Nobuaki | Lose | B+R | 6.5 | 2869 | 20 | 
 | 2013-02-07 | 第39期天元戦本戦1回戦 | Chin Kaei | Anzai Nobuaki | Win | W+R | 6.5 | 2849 | 12 | 
 | 2013-01-31 | 第38期棋聖戦予選 | Anzai Nobuaki | Yamada Kimio | Lose | W+R | 6.5 | 2837 | -360 | 
@@ -121,8 +122,8 @@
 | 2012-09-11 | 2012ジャステック杯国際新鋭囲碁対抗戦第1戦 | Anzai Nobuaki | Lian Xiao | Lose | W+R | 6.5 | 3072 | -69 | 
 | 2012-07-12 | 第38期天元戦本戦準決勝 | O Meien | Anzai Nobuaki | Win | W+R | 6.5 | 3141 | -1 | 
 | 2012-05-31 | 第37期新人王戦3回戦 | Anzai Nobuaki | Hatanaka Hoshinobu | Lose | W+0.5 | 6.5 | 3142 | -71 | 
-| 2012-05-17 | 第3回おかげ杯囲碁トーナメント戦決勝 | Seto Taiki | Anzai Nobuaki | Win | W+R | 6.5 | 3213 | 0 | 
-| 2012-05-17 | 第3回おかげ杯囲碁トーナメント戦準決勝 | Shida Tatsuya | Anzai Nobuaki | Win | W+0.5 | 6.5 | 3213 | -66 | 
+| 2012-05-17 | 第3回おかげ杯囲碁トーナメント戦準決勝 | Shida Tatsuya | Anzai Nobuaki | Win | W+0.5 | 6.5 | 3213 | 0 | 
+| 2012-05-17 | 第3回おかげ杯囲碁トーナメント戦決勝 | Seto Taiki | Anzai Nobuaki | Win | W+R | 6.5 | 3213 | -66 | 
 | 2012-05-03 | 第38期天元戦本戦3回戦 | Anzai Nobuaki | Yamashita Keigo | Win | B+R | 6.5 | 3279 | -12 | 
 | 2012-04-12 | 第37期新人王戦2回戦 | Anzai Nobuaki | Obuchi Kotaro | Win | B+R | 6.5 | 3291 | 39 | 
 | 2012-03-08 | 第38期天元戦本戦2回戦 | Yamashiro Hiroshi | Anzai Nobuaki | Win | W+R | 6.5 | 3252 | -129 | 
@@ -145,8 +146,8 @@
 | 2011-07-07 | 第37期碁聖戦予選 | Sugimoto Akira | Anzai Nobuaki | Win | W+R | 6.5 | 2887 | -128 | 
 | 2011-06-23 | 第36期新人王戦3回戦 | Anzai Nobuaki | Numadate Sakiya | Win | B+R | 6.5 | 3015 | -29 | 
 | 2011-06-16 | 第37期名人戦予選 | Anzai Nobuaki | O Meien | Lose | W+0.5 | 6.5 | 3044 | -19 | 
-| 2011-05-14 | 第2回おかげ杯囲碁トーナメント戦決勝 | Shida Tatsuya | Anzai Nobuaki | Win | W+R | 6.5 | 3063 | 0 | 
-| 2011-05-14 | 第2回おかげ杯囲碁トーナメント戦準決勝 | Uchida Shuhei | Anzai Nobuaki | Win | W+4.5 | 6.5 | 3063 | 9 | 
+| 2011-05-14 | 第2回おかげ杯囲碁トーナメント戦準決勝 | Uchida Shuhei | Anzai Nobuaki | Win | W+4.5 | 6.5 | 3063 | 0 | 
+| 2011-05-14 | 第2回おかげ杯囲碁トーナメント戦決勝 | Shida Tatsuya | Anzai Nobuaki | Win | W+R | 6.5 | 3063 | 9 | 
 | 2011-03-31 | 第36期新人王戦2回戦 | Anzai Nobuaki | Fujita Akihiko | Win | B+0.5 | 6.5 | 3054 | 140 | 
 | 2011-01-20 | 第59期王座戦予選 | Han Zenki | Anzai Nobuaki | Lose | B+R | 6.5 | 2914 | -19 | 
 | 2010-12-23 | 第36期新人王戦1回戦 | Kim Byeongjun | Anzai Nobuaki | Win | W+R | 6.5 | 2933 | 18 | 
@@ -185,8 +186,8 @@
 | 2009-03-12 | 第35期天元戦本戦1回戦 | Imamura Toshiya | Anzai Nobuaki | Lose | B+2.5 | 6.5 | 2842 | 4 | 
 | 2009-02-12 | 第35期天元戦本戦0回戦 | Anzai Nobuaki | So Yokoku | Win | B+R | 6.5 | 2838 | 42 | 
 | 2009-01-29 | 第34期新人王戦1回戦 | Kubota Masaru | Anzai Nobuaki | Win | W+R | 6.5 | 2796 | 265 | 
-| 2008-11-02 | 第3回広島アルミ杯・若鯉戦決勝 | Mitani Tetsuya | Anzai Nobuaki | Lose | B+6.5 | 6.5 | 2531 | 0 | 
-| 2008-11-02 | 第3回広島アルミ杯・若鯉戦準決勝 | Ohba Junya | Anzai Nobuaki | Win | W+R | 6.5 | 2531 | -6 | 
+| 2008-11-02 | 第3回広島アルミ杯・若鯉戦準決勝 | Ohba Junya | Anzai Nobuaki | Win | W+R | 6.5 | 2531 | 0 | 
+| 2008-11-02 | 第3回広島アルミ杯・若鯉戦決勝 | Mitani Tetsuya | Anzai Nobuaki | Lose | B+6.5 | 6.5 | 2531 | -6 | 
 | 2008-11-01 | 第3回広島アルミ杯・若鯉戦2回戦 | Anzai Nobuaki | Araki Issei | Win | B+R | 6.5 | 2537 | -586 | 
 | 2008-10-16 | 第34期棋聖戦予選 | Cho Sonjin | Anzai Nobuaki | Win | W+5.5 | 6.5 | 3123 | 117 | 
 | 2008-08-21 | 第47期十段戦敗者復活戦2回戦 | Ko Iso | Anzai Nobuaki | Lose | B+R | 6.5 | 3006 | 306 | 

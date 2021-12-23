@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-23 | 第66期関西棋院第一位決定戦1回戦 | Takashima Yugo | Furuya Yutaka | Win | B+R | 6.5 | 2300 | 2300 | 
 | 2021-07-29 | 第70期王座戦予選 | Takashima Yugo | Nakano Yasuhiro | Lose | W+2.5 | 6.5 | missing | -2484 | 
 | 2021-06-10 | 第60期十段戦予選 | Watanabe Yuu | Takashima Yugo | Lose | B+3.5 | 6.5 | 2484 | -271 | 
 | 2021-01-28 | 第46期新人王戦1回戦 |  | Takashima Yugo | Lose | B+0.5 | 6.5 | 2755 | -131 | 
@@ -46,8 +47,8 @@
 | 2016-02-25 | 第41期新人王戦1回戦 | Yokotsuka Riki | Takashima Yugo | Win | W+R | 6.5 | 2315 | 2315 | 
 | 2016-01-20 | 第64期王座戦予選 | Takashima Yugo | Sada Atsushi | Lose | W+4.5 | 6.5 | missing | -2603 | 
 | 2015-03-19 | 第40期棋聖戦予選 | Takashima Yugo | Hikosaka Naoto | Lose | W+R | 6.5 | 2603 | -183 | 
-| 2015-03-17 | 第2回グロービス杯国内予選 | Sun Zhe | Takashima Yugo | Lose | B+4.5 | 6.5 | 2786 | 0 | 
-| 2015-03-17 | 第2回グロービス杯国内予選 | Takashima Yugo | Chang Rueijie | Win | B+11.5 | 6.5 | 2786 | 2786 | 
+| 2015-03-17 | 第2回グロービス杯国内予選 | Takashima Yugo | Chang Rueijie | Win | B+11.5 | 6.5 | 2786 | 0 | 
+| 2015-03-17 | 第2回グロービス杯国内予選 | Sun Zhe | Takashima Yugo | Lose | B+4.5 | 6.5 | 2786 | 2786 | 
 | 2014-07-14 | 第1回ゆうちょ杯囲碁ユース選手権1回戦 | Takashima Yugo | Motoki Katsuya | Lose | W+R | 6.5 | missing | missing |
 
 

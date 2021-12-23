@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-23 | 第66期関西棋院第一位決定戦1回戦 | Takashima Yugo | Furuya Yutaka | Lose | B+R | 6.5 | 2560 | -221 | 
 | 2021-11-24 | 第48期天元戦予選 | Yuki Satoshi | Furuya Yutaka | Lose | B+3.5 | 6.5 | 2781 | -53 | 
 | 2021-09-02 | 第46期棋聖戦Cリーグ | Furuya Yutaka | Shuto Shun | Lose | W+R | 6.5 | 2834 | 53 | 
 | 2021-07-28 | 第46期棋聖戦Cリーグ | Furuya Yutaka | Kubo Katsuaki | Lose | W+4.5 | 6.5 | 2781 | 132 | 

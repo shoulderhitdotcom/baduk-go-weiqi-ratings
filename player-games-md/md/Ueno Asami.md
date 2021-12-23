@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-22 | 第1回テイケイ杯俊英戦Aリーグ  | Shibano Toramaru | Ueno Asami | Lose | B+R | 6.5 | 3044 | -8 | 
 | 2021-12-21 | 第1回テイケイ杯俊英戦Aリーグ | Koyama Kuya | Ueno Asami | Lose | B+0.5 | 6.5 | 3052 | -8 | 
 | 2021-12-20 | 第1回テイケイ杯俊英戦Aリーグ | Ueno Asami | Abe Yoshiki | Win | B+0.5 | 6.5 | 3060 | -38 | 
 | 2021-12-06 | 第60期十段戦2回戦 | Yu Zhengqi | Ueno Asami | Lose | B+R | 6.5 | 3098 | -5 | 

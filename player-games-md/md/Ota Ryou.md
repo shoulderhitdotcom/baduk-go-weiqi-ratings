@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-22 | 第47期棋聖戦予選 | Ota Ryou |  | Lose | W+R | 6.5 | missing | -2400 | 
 | 2021-09-15 | 第48期天元戦予選 | Ota Ryou | Yokota Shigeaki | Lose | W+R | 6.5 | 2400 | 2400 | 
 | 2020-11-04 | 第47期天元戦予選 | Ota Ryou | Maeda Ryo | Win | B+R | 6.5 | missing | -2969 | 
 | 2020-09-23 | 第47期天元戦 | Ota Ryou | Sonoda Yuichi | Win | B+R | 6.5 | 2969 | 208 | 
@@ -20,8 +21,8 @@
 | 2017-05-31 | 第44期天元戦予選B | Fujii Shuya | Ota Ryou | Lose | B+R | 6.5 | missing | 0 | 
 | 2017-03-27 | 2017年日本囲碁リーグ1st2回戦瀬戸内-大阪三将戦 | Ota Ryou |  | Lose | W+R | 6.5 | missing | 0 | 
 | 2016-12-01 | 第42期棋聖戦FT | Kumamoto Syusei | Ota Ryou | Lose | B+R | 6.5 | missing | 0 | 
-| 2016-10-19 | 第56期十段戦予選 | Yokota Shigeaki | Ota Ryou | Lose | B+0.5 | 6.5 | missing | 0 | 
 | 2016-10-19 | 第56期十段戦予選B | Yokota Shigeaki | Ota Ryou | Lose | B+0.5 | 6.5 | missing | 0 | 
+| 2016-10-19 | 第56期十段戦予選 | Yokota Shigeaki | Ota Ryou | Lose | B+0.5 | 6.5 | missing | 0 | 
 | 2015-01-21 | 第54期十段戦予選 | Ota Ryou |  | Lose | W+R | 6.5 | missing | 0 | 
 | 2014-11-19 | 第54期十段戦予選 | Kim Pyonmin | Ota Ryou | Win | W+R | 6.5 | missing | 0 | 
 | 2014-11-05 | 第54期十段戦予選 | Ota Ryou | Yoshida Mika | Win | B+R | 6.5 | missing | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-22 | 2021年1004島新安国際シニア囲碁大会準決勝 | Seo Bongsoo | O Meien | Lose | W+T | 6.5 | 2850 | 3 | 
 | 2021-12-21 | 2021年1004島新安国際シニア囲碁大会2回戦 | Seo Bongsoo | Nie Weiping | Win | B+R | 6.5 | 2847 | 0 | 
 | 2021-12-21 | 2021年1004島新安国際シニア囲碁大会1回戦 | Seo Bongsoo | Takemiya Masaki | Win | B+6.5 | 6.5 | 2847 | 36 | 
 | 2021-12-10 | 第27回GSカルテックス杯プロ棋戦予選 | Heo Yongho | Seo Bongsoo | Lose | B+4.5 | 6.5 | 2811 | -41 | 

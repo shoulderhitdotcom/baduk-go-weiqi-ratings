@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-22 | 2021女子最高棋士決定戦（韓国）リーグ | Kim Eunseon | Choi Jeong | Win | W+R | 6.5 | 3215 | 1 | 
+| 2021-12-19 | 2021-2022韓国囲碁リーグ | Choi Jeong | Choi Jaeyoung | Lose | W+R | 6.5 | 3214 | -11 | 
 | 2021-12-14 | 第5期韓国製紙女子棋聖戦決勝三番勝負第2局 | Oh Yujin | Choi Jeong | Lose | B+R | 6.5 | 3225 | -14 | 
 | 2021-12-13 | 第5期韓国製紙女子棋聖戦決勝三番勝負第1局 | Choi Jeong | Oh Yujin | Lose | W+R | 6.5 | 3239 | -13 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦  | Yamashita Keigo | Choi Jeong | Lose | B+1.5 | 6.5 | 3252 | -23 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-22 | 第1回テイケイ杯俊英戦Bリーグ | Hsu Chiayuan | Hirose Yuichi | Lose | B+R | 6.5 | 3058 | -26 | 
 | 2021-12-21 | 第1回テイケイ杯俊英戦Bリーグ | Hirose Yuichi | Otake Yu | Win | B+R | 6.5 | 3084 | 72 | 
 | 2021-12-20 | 第1回テイケイ杯俊英戦Bリーグ | Onishi Kenya | Hirose Yuichi | Win | W+1.5 | 6.5 | 3012 | 15 | 
 | 2021-12-06 | 第48期天元戦予選 | O Meien | Hirose Yuichi | Lose | B+R | 6.5 | 2997 | -20 | 

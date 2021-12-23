@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-22 | 第48期天元戦予選 | Hong Seokui | Taniguchi Tooru | Lose | B+2.5 | 6.5 | 2784 | -2 | 
 | 2021-12-15 | 第47期新人王戦予選 | Taniguchi Tooru | Nishi Takenobu | Lose | W+4.5 | 6.5 | 2786 | 21 | 
 | 2021-11-24 | 第66期関西棋院第一位決定戦1回戦 | Taniguchi Tooru |  | Lose | W+R | 6.5 | 2765 | -253 | 
 | 2021-10-27 | 第47期碁聖戦予選 | Imamura Toshiya | Taniguchi Tooru | Win | W+R | 6.5 | 3018 | 153 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-22 | 第48期天元戦予選 | Hong Seokui | Taniguchi Tooru | Win | B+2.5 | 6.5 | 3092 | -83 | 
 | 2021-12-02 | 第70期王座戦予選 | Watanabe Yuu | Hong Seokui | Win | W+5.5 | 6.5 | 3175 | 6 | 
 | 2021-11-17 | 第66期関西棋院第一位決定戦1回戦 | Hong Seokui | Yata Naoki | Win | B+R | 6.5 | 3169 | 5 | 
 | 2021-10-14 | 第47期碁聖戦予選 | Hong Seokui | Seto Taiki | Win | B+R | 6.5 | 3164 | 223 | 
@@ -66,8 +67,8 @@
 | 2013-04-15 | 第20期阿含・桐山杯全日本早碁オープン戦予選 | Hong Seokui | Sakamoto Yasuo | Win | B+R | 6.5 | missing | 0 | 
 | 2013-03-25 | 第20期阿含・桐山杯全日本早碁オープン戦予選 | Ishida Atsushi | Hong Seokui | Win | W+2.5 | 6.5 | missing | 0 | 
 | 2013-03-25 | 第20期阿含・桐山杯全日本早碁オープン戦予選 | Hong Seokui | Ueki Yoshio | Win | B+R | 6.5 | missing | 0 | 
-| 2013-03-11 | 第20期阿含・桐山杯全日本早碁オープン戦予選 | Oda Teppei | Hong Seokui | Win | W+R | 6.5 | missing | 0 | 
 | 2013-03-11 | 第20期阿含・桐山杯全日本早碁オープン戦予選 |  | Hong Seokui | Win | W+R | 6.5 | missing | 0 | 
+| 2013-03-11 | 第20期阿含・桐山杯全日本早碁オープン戦予選 | Oda Teppei | Hong Seokui | Win | W+R | 6.5 | missing | 0 | 
 | 2013-02-25 | 第20期阿含・桐山杯全日本早碁オープン戦予選 | Hong Seokui | Tanemura Sayuri | Win | B+R | 6.5 | missing | 0 | 
 | 2009-03-01 | 第1回BCカード杯世界選手権1回戦 |  | Hong Seokui | Lose | B+0.5 | 6.5 | missing | missing |
 

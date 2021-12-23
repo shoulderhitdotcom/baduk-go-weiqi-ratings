@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-22 | 第1回テイケイ杯俊英戦Bリーグ | Onishi Kenya | Sada Atsushi | Win | W+R | 6.5 | 3140 | 15 | 
 | 2021-12-21 | 第1回テイケイ杯俊英戦Bリーグ  | Hsu Chiayuan | Sada Atsushi | Lose | B+R | 6.5 | 3125 | -6 | 
 | 2021-12-20 | 第1回テイケイ杯俊英戦Bリーグ | Sada Atsushi | Tsuruta Kazushi | Win | B+3.5 | 6.5 | 3131 | 8 | 
 | 2021-12-16 | 第77期本因坊戦リーグ | Sada Atsushi | Hane Naoki | Lose | W+R | 6.5 | 3123 | -45 | 

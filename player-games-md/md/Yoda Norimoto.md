@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-22 | 2021年1004島新安国際シニア囲碁大会準決勝  | Yoo Changhyuk | Yoda Norimoto | Lose | B+2.5 | 6.5 | 3005 | -29 | 
+| 2021-12-21 | 2021年1004島新安国際シニア囲碁大会2回戦  | Yoda Norimoto |  | Win | B+T | 6.5 | 3034 | 0 | 
 | 2021-12-21 | 2021年1004島新安国際シニア囲碁大会2回戦  | Yoda Norimoto |  | Win | B+R | 6.5 | 3034 | 0 | 
 | 2021-12-21 | 2021年1004島新安国際シニア囲碁大会1回戦 | Yoda Norimoto | Kim Chongsu | Win | B+4.5 | 6.5 | 3034 | -25 | 
 | 2021-12-06 | 第48期天元戦予選 | Yoda Norimoto | Ko Iso | Win | B+0.5 | 6.5 | 3059 | 49 | 

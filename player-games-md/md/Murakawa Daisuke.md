@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-24 | 2021年関西棋院台湾棋院対抗戦 | Murakawa Daisuke | Lai Junfu | Lose | W+R | 6.5 | 3116 | -81 | 
 | 2021-11-28 | 第2回関西囲碁オープントーナメントトップクラス決勝  | Seto Taiki | Murakawa Daisuke | Lose | B+0.5 | 6.5 | 3197 | -9 | 
 | 2021-11-10 | 第66期関西棋院第一位決定戦1回戦 | Murakawa Daisuke | Kiyonari Tetsuya | Win | B+0.5 | 6.5 | 3206 | 28 | 
 | 2021-11-04 | 第60期十段戦2回戦 | So Yokoku | Murakawa Daisuke | Lose | B+1.5 | 6.5 | 3178 | 21 | 
@@ -33,8 +34,8 @@
 | 2021-02-03 | 第65期関西棋院第一位決定戦本戦2回戦 | Hoshikawa Koyo | Murakawa Daisuke | Lose | B+0.5 | 6.5 | 3377 | -7 | 
 | 2021-01-27 | 第77期本因坊戦予選 | Yata Naoki | Murakawa Daisuke | Win | W+R | 6.5 | 3384 | -23 | 
 | 2021-01-14 | 第59期十段戦準決勝 | Murakawa Daisuke | Yu Zhengqi | Lose | W+4.5 | 6.5 | 3407 | -4 | 
-| 2020-12-22 | 第11回おかげ杯囲碁トーナメント戦三位決定戦 | Muramatsu Hiroki | Murakawa Daisuke | Lose | B+R | 6.5 | 3411 | 0 | 
-| 2020-12-22 | 第11回おかげ杯囲碁トーナメント戦準決勝  | Murakawa Daisuke | Ichiriki Ryo | Lose | W+R | 6.5 | 3411 | -22 | 
+| 2020-12-22 | 第11回おかげ杯囲碁トーナメント戦準決勝  | Murakawa Daisuke | Ichiriki Ryo | Lose | W+R | 6.5 | 3411 | 0 | 
+| 2020-12-22 | 第11回おかげ杯囲碁トーナメント戦三位決定戦 | Muramatsu Hiroki | Murakawa Daisuke | Lose | B+R | 6.5 | 3411 | -22 | 
 | 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦2回戦 | Onishi Ryuhei | Murakawa Daisuke | Win | W+5.5 | 6.5 | 3433 | 0 | 
 | 2020-12-21 | 第11回おかげ杯囲碁トーナメント戦1回戦 | Murakawa Daisuke | Seki Kotaro | Win | B+R | 6.5 | 3433 | 12 | 
 | 2020-12-10 | 第65期関西棋院第一位決定戦本戦1回戦 | Murakawa Daisuke | Takatsu Masaaki | Win | B+R | 6.5 | 3421 | -14 | 
@@ -167,8 +168,8 @@
 | 2017-10-19 | 第56期十段戦2回戦 | Yamashita Keigo | Murakawa Daisuke | Win | W+5.5 | 6.5 | 2985 | 18 | 
 | 2017-10-15 | 第4回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Wang Yuanjun | Murakawa Daisuke | Lose | B+R | 6.5 | 2967 | 0 | 
 | 2017-10-15 | 第4回おかげ杯国際精鋭囲碁対抗戦3回戦 | Fan Yunruo | Murakawa Daisuke | Lose | B+2.5 | 6.5 | 2967 | 29 | 
-| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦1回戦 | Xiao Zhenghao | Murakawa Daisuke | Win | W+R | 6.5 | 2938 | 0 | 
-| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦2回戦 | Murakawa Daisuke | Lee Yeongkyu | Win | B+R | 6.5 | 2938 | 39 | 
+| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦2回戦 | Murakawa Daisuke | Lee Yeongkyu | Win | B+R | 6.5 | 2938 | 0 | 
+| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦1回戦 | Xiao Zhenghao | Murakawa Daisuke | Win | W+R | 6.5 | 2938 | 39 | 
 | 2017-10-04 | 第44期天元戦予選A準決勝 | Murakawa Daisuke | Sato Yuta | Lose | W+R | 6.5 | 2899 | -22 | 
 | 2017-09-28 | 第56期十段戦1回戦 | Motoki Katsuya | Murakawa Daisuke | Win | W+R | 6.5 | 2921 | -16 | 
 | 2017-09-20 | 第66期王座戦予選A | Onoda Takuya | Murakawa Daisuke | Win | W+R | 6.5 | 2937 | 28 | 
@@ -189,13 +190,13 @@
 | 2017-06-08 | 第56期十段戦　最終予選 | Murakawa Daisuke | Kato Atsushi | Win | B+R | 6.5 | 2955 | 3 | 
 | 2017-06-01 | 第42期名人戦リーグ | Kono Rin | Murakawa Daisuke | Win | W+R | 6.5 | 2952 | -13 | 
 | 2017-05-18 | 第24期阿含・桐山杯　最終予選決勝 | Murakawa Daisuke | Mutsuura Yuta | Lose | W+R | 6.5 | 2965 | -45 | 
-| 2017-05-15 | 第8回おかげ杯囲碁トーナメント戦決勝 | Lee Ishu | Murakawa Daisuke | Win | W+R | 6.5 | 3010 | 0 | 
-| 2017-05-15 | 第8回おかげ杯囲碁トーナメント戦準決勝 | Murakawa Daisuke | Terayama Rei | Win | B+R | 6.5 | 3010 | 22 | 
+| 2017-05-15 | 第8回おかげ杯囲碁トーナメント戦準決勝 | Murakawa Daisuke | Terayama Rei | Win | B+R | 6.5 | 3010 | 0 | 
+| 2017-05-15 | 第8回おかげ杯囲碁トーナメント戦決勝 | Lee Ishu | Murakawa Daisuke | Win | W+R | 6.5 | 3010 | 22 | 
 | 2017-05-14 | 第8回おかげ杯囲碁トーナメント戦1回戦 | Ichiriki Ryo | Murakawa Daisuke | Win | W+0.5 | 6.5 | 2988 | 6 | 
 | 2017-05-11 | 第42期棋聖戦　Sリーグ1回戦 | Murakawa Daisuke | Kono Rin | Lose | W+R | 6.5 | 2982 | 1 | 
 | 2017-05-01 | 日本棋院vs関西棋院対抗戦 | Murakawa Daisuke | Onishi Ryuhei | Win | B+R | 6.5 | 2981 | 10 | 
-| 2017-04-30 | 関西合宿個人戦決勝 | Murakawa Daisuke | Shibano Toramaru | Lose | W+R | 6.5 | 2971 | 0 | 
 | 2017-04-30 | 関西合宿個人戦準決勝 | Mutsuura Yuta | Murakawa Daisuke | Win | W+R | 6.5 | 2971 | 0 | 
+| 2017-04-30 | 関西合宿個人戦決勝 | Murakawa Daisuke | Shibano Toramaru | Lose | W+R | 6.5 | 2971 | 0 | 
 | 2017-04-30 | 関西合宿個人戦1回戦 | Murakawa Daisuke | Numadate Sakiya | Win | B+R | 6.5 | 2971 | -10 | 
 | 2017-04-27 | 第42期名人戦リーグ | Murakawa Daisuke | Sakai Hideyuki | Win | B+R | 6.5 | 2981 | 16 | 
 | 2017-04-13 | 第73期本因坊戦予選A | Yu Zhengqi | Murakawa Daisuke | Lose | B+R | 6.5 | 2965 | 129 | 

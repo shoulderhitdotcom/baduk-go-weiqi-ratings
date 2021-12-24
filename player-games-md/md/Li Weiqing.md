@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Li Weiqing | Tong Mengcheng | Lose | W+R | 7.5 | 3463 | -111 | 
 | 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Dang Yifei | Li Weiqing | Lose | B+1¾ | 7.5 | 3574 | 3 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Li Weiqing | Park Junghwan | Lose | W+R | 6.5 | 3571 | -30 | 
 | 2021-10-13 | 第23回農心辛ラーメン杯世界囲碁最強戦第3戦  | Hsu Chiayuan | Li Weiqing | Lose | B+R | 6.5 | 3601 | -15 | 
@@ -65,8 +66,8 @@
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Jiang Weijie | Li Weiqing | Lose | Void | 7.5 | 3608 | 29 | 
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Li Weiqing | Ke Jie | Lose | W+R | 7.5 | 3579 | -20 | 
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Li Weiqing | Shin Jinseo | Lose | W+R | 7.5 | 3599 | 119 | 
-| 2020-08-02 | 第7回グロービス杯世界囲碁U-20決勝 | Li Weiqing | Moon Minjong | Lose | W+R | 6.5 | 3480 | 0 | 
-| 2020-08-02 | 第7回グロービス杯世界囲碁U-20準決勝 | Park Sangjin | Li Weiqing | Win | W+R | 6.5 | 3480 | -10 | 
+| 2020-08-02 | 第7回グロービス杯世界囲碁U-20準決勝 | Park Sangjin | Li Weiqing | Win | W+R | 6.5 | 3480 | 0 | 
+| 2020-08-02 | 第7回グロービス杯世界囲碁U-20決勝 | Li Weiqing | Moon Minjong | Lose | W+R | 6.5 | 3480 | -10 | 
 | 2020-08-01 | 第7回グロービス杯世界囲碁U-20 2回戦 | Li Weiqing | Park Joonhoon | Win | B+R | 6.5 | 3490 | 0 | 
 | 2020-08-01 | 第7回グロービス杯世界囲碁U-20 1回戦 | Ueno Asami | Li Weiqing | Win | W+R | 6.5 | 3490 | 28 | 
 | 2020-05-27 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Shi Yue | Li Weiqing | Lose | B+R | 7.5 | 3462 | 52 | 

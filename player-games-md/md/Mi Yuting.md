@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Mi Yuting | Yang Kaiwen | Win | B+R | 7.5 | 3623 | 5 | 
 | 2021-12-21 | 第12期中国竜星戦決勝三番勝負第3局 | Mi Yuting | Gu Zihao | Lose | W+R | 7.5 | 3618 | -5 | 
 | 2021-12-20 | 第12期中国竜星戦決勝三番勝負第2局 | Mi Yuting | Gu Zihao | Win | B+¾ | 7.5 | 3623 | 10 | 
 | 2021-12-19 | 第12期中国竜星戦決勝三番勝負第1局 | Gu Zihao | Mi Yuting | Lose | B+R | 7.5 | 3613 | 8 | 

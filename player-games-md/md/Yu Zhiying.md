@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Fang Ruoxi | Yu Zhiying | Win | W+¼ | 7.5 | 3168 | -28 | 
 | 2021-12-10 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第7戦 |  | Yu Zhiying | Lose | B+R | 7.5 | 3196 | -1 | 
 | 2021-12-09 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第6戦 | Xu Yidi | Yu Zhiying | Win | W+R | 7.5 | 3197 | 3 | 
 | 2021-12-04 | 第4回呉清源杯世界女子囲碁選手権決勝三番勝負第3局 | Yu Zhiying | Choi Jeong | Lose | W+R | 7.5 | 3194 | 6 | 
@@ -89,8 +90,8 @@
 | 2019-10-25 | 第7回中国女子囲碁甲級リーグ第15節 | Yu Zhiying | Wang Shuang | Win | B+1¾ | 7.5 | 2742 | 30 | 
 | 2019-10-19 | 第7回中国女子囲碁甲級リーグ第13節 | Li He | Yu Zhiying | Win | W+R | 7.5 | 2712 | 21 | 
 | 2019-10-18 | 第7回中国女子囲碁甲級リーグ第14節 | Yu Zhiying | Lu Jia | Win | B+R | 7.5 | 2691 | 12 | 
-| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦決勝 | Yu Zhiying | Choi Jeong | Lose | W+R | 6.5 | 2679 | 0 | 
-| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yang Zixuan | Yu Zhiying | Win | W+R | 6.5 | 2679 | -7 | 
+| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yang Zixuan | Yu Zhiying | Win | W+R | 6.5 | 2679 | 0 | 
+| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦決勝 | Yu Zhiying | Choi Jeong | Lose | W+R | 6.5 | 2679 | -7 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhiying | Choi Jeong | Lose | W+2.5 | 6.5 | 2686 | 0 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yu Zhiying | Fujisawa Rina | Win | B+R | 6.5 | 2686 | -46 | 
 | 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Yu Zhiying | Ichiriki Ryo | Lose | W+R | 7.5 | 2732 | -38 | 
@@ -120,8 +121,8 @@
 | 2019-05-22 | 第4回夢百合杯統合予選 |  | Yu Zhiying | Win | W+R | 7.5 | 2896 | -25 | 
 | 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦4回戦 | Yu Zhiying | Hei Jiajia | Win | B+R | 7.5 | 2921 | 0 | 
 | 2019-05-15 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦3回戦 | Mukai Chiaki | Yu Zhiying | Win | W+R | 7.5 | 2921 | 35 | 
-| 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦1回戦 | Choi Jeong | Yu Zhiying | Lose | B+R | 7.5 | 2886 | 0 | 
-| 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦2回戦 | Yu Zhiying | Lin Xuefen | Win | B+R | 7.5 | 2886 | -31 | 
+| 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦2回戦 | Yu Zhiying | Lin Xuefen | Win | B+R | 7.5 | 2886 | 0 | 
+| 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019女子団体戦1回戦 | Choi Jeong | Yu Zhiying | Lose | B+R | 7.5 | 2886 | -31 | 
 | 2019-05-12 | 第8回天台山体彩杯世界女子囲碁団体戦第3戦 | Yu Zhiying | Hei Jiajia | Win | B+R | 7.5 | 2917 | 16 | 
 | 2019-05-11 | 第8回天台山体彩杯世界女子囲碁団体戦第2戦 | Fujisawa Rina | Yu Zhiying | Win | W+R | 7.5 | 2901 | -6 | 
 | 2019-05-10 | 第8回天台山体彩杯世界女子囲碁団体戦第1戦 | Choi Jeong | Yu Zhiying | Lose | B+R | 7.5 | 2907 | -22 | 
@@ -141,10 +142,10 @@
 | 2018-11-22 | 閬中古城杯第1期中国女子囲棋名人戦32強戦 | Yu Zhiying | Wang Shuang | Lose | W+¼ | 7.5 | 2976 | 12 | 
 | 2018-10-31 | 第9回穹窿山兵聖杯世界女子囲碁選手権1回戦  | Choi Jeong | Yu Zhiying | Lose | B+R | 7.5 | 2964 | -6 | 
 | 2018-10-19 | 第6回中国女子囲碁甲級リーグ第16節武漢-江蘇 | Lu Jia | Yu Zhiying | Win | W+R | 7.5 | 2970 | -13 | 
-| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦決勝 | Choi Jeong | Yu Zhiying | Lose | B+R | 6.5 | 2983 | 0 | 
-| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yu Zhiying | Fujisawa Rina | Win | B+R | 6.5 | 2983 | -3 | 
-| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yu Zhiying | Yang Zixuan | Win | B+R | 6.5 | 2986 | 0 | 
-| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhiying | Choi Jeong | Win | B+R | 6.5 | 2986 | 11 | 
+| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yu Zhiying | Fujisawa Rina | Win | B+R | 6.5 | 2983 | 0 | 
+| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦決勝 | Choi Jeong | Yu Zhiying | Lose | B+R | 6.5 | 2983 | -3 | 
+| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhiying | Choi Jeong | Win | B+R | 6.5 | 2986 | 0 | 
+| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yu Zhiying | Yang Zixuan | Win | B+R | 6.5 | 2986 | 11 | 
 | 2018-10-11 | 第6回中国女子囲碁甲級リーグ第14節蕪湖-江蘇 | Zhou Hongyu | Yu Zhiying | Win | W+R | 7.5 | 2975 | 5 | 
 | 2018-10-09 | 第6回中国女子囲碁甲級リーグ第15節江蘇-洛陽 | Yu Zhiying | Li He | Win | B+1¾ | 7.5 | 2970 | 10 | 
 | 2018-09-28 | 第6回中国女子囲碁甲級リーグ第13節江蘇-杭州 | Yu Zhiying | Fang Ruoxi | Win | B+R | 7.5 | 2960 | -2 | 
@@ -195,8 +196,8 @@
 | 2018-01-22 | 第32期中国囲碁天元戦予選 | Huang Yunsong | Yu Zhiying | Lose | B+R | 7.5 | 3013 | 7 | 
 | 2017-12-18 | 第5回中国女子囲碁甲級リーグ戦18回戦 | Yu Zhiying | Rui Naiwei | Lose | W+R | 7.5 | 3006 | -4 | 
 | 2017-12-17 | 第5回中国女子囲碁甲級リーグ戦17回戦 | Lu Minquan | Yu Zhiying | Lose | B+R | 7.5 | 3010 | -8 | 
-| 2017-12-15 | 第2回IMSAエリートマインドゲームズ個人早碁戦決勝 | Oh Yujin | Yu Zhiying | Lose | B+R | 7.5 | 3018 | 0 | 
-| 2017-12-15 | 第2回IMSAエリートマインドゲームズ個人早碁戦準決勝 | Fujisawa Rina | Yu Zhiying | Win | W+R | 7.5 | 3018 | 8 | 
+| 2017-12-15 | 第2回IMSAエリートマインドゲームズ個人早碁戦準決勝 | Fujisawa Rina | Yu Zhiying | Win | W+R | 7.5 | 3018 | 0 | 
+| 2017-12-15 | 第2回IMSAエリートマインドゲームズ個人早碁戦決勝 | Oh Yujin | Yu Zhiying | Lose | B+R | 7.5 | 3018 | 8 | 
 | 2017-12-14 | 第2回IMSAエリートマインドゲームズ個人早碁戦予選 | Hei Jiajia | Yu Zhiying | Win | W+R | 7.5 | 3010 | 0 | 
 | 2017-12-14 | 第2回IMSAエリートマインドゲームズ個人早碁戦予選 | Yu Zhiying |  | Win | B+R | 7.5 | 3010 | 2 | 
 | 2017-12-13 | 第2回IMSAエリートマインドゲームズ女子団体戦第4節 | Yu Zhiying | Fujisawa Rina | Lose | W+R | 7.5 | 3008 | -17 | 
@@ -273,8 +274,8 @@
 | 2016-10-20 | 第4回中国女子囲碁甲級リーグ第13節 | Chen Yiming | Yu Zhiying | Win | W+R | 7.5 | 2961 | -27 | 
 | 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yu Zhiying | Hei Jiajia | Win | B+R | 6.5 | 2988 | 0 | 
 | 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦決勝 | Yu Zhiying | Oh Yujin | Lose | W+R | 6.5 | 2988 | -4 | 
-| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yu Zhiying | Oh Yujin | Win | B+R | 6.5 | 2992 | 0 | 
-| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhiying | Xie Yimin | Win | B+R | 6.5 | 2992 | 56 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhiying | Xie Yimin | Win | B+R | 6.5 | 2992 | 0 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yu Zhiying | Oh Yujin | Win | B+R | 6.5 | 2992 | 56 | 
 | 2016-09-25 | 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Yu Zhiying | Nyu Eiko | Win | B+3.5 | 6.5 | 2936 | -27 | 
 | 2016-09-24 | 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Oh Yujin | Yu Zhiying | Win | W+R | 6.5 | 2963 | 4 | 
 | 2016-09-23 | 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Yu Zhiying | Su Shengfang | Win | B+R | 6.5 | 2959 | -107 | 
@@ -315,11 +316,11 @@
 | 2016-03-08 | 第2回韓国女子囲碁リーグ第4節 |  | Yu Zhiying | Win | W+R | 6.5 | 2848 | -14 | 
 | 2016-03-06 | 第2回韓国女子囲碁リーグ第3節 | Lee Sula | Yu Zhiying | Win | W+R | 6.5 | 2862 | -25 | 
 | 2016-03-01 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦決勝 | Yu Zhiying | Choi Jeong | Win | B+R | 7.5 | 2887 | 6 | 
-| 2016-02-29 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Yu Jin | Win | B+R | 7.5 | 2881 | 0 | 
-| 2016-02-29 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Hei Jiajia | Yu Zhiying | Win | W+R | 7.5 | 2881 | -9 | 
+| 2016-02-29 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Hei Jiajia | Yu Zhiying | Win | W+R | 7.5 | 2881 | 0 | 
+| 2016-02-29 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Yu Jin | Win | B+R | 7.5 | 2881 | -9 | 
 | 2016-02-28 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Choi Jeong | Lose | W+R | 7.5 | 2890 | -4 | 
-| 2016-02-27 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Hei Jiajia | Win | B+R | 7.5 | 2894 | 0 | 
-| 2016-02-27 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Nyu Eiko | Yu Zhiying | Win | W+R | 7.5 | 2894 | -22 | 
+| 2016-02-27 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Nyu Eiko | Yu Zhiying | Win | W+R | 7.5 | 2894 | 0 | 
+| 2016-02-27 | 第1回IMSAエリートマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Hei Jiajia | Win | B+R | 7.5 | 2894 | -22 | 
 | 2016-02-23 | 第2回韓国女子囲碁リーグ第2節 | Yu Zhiying | Park Jiyeon | Win | B+R | 6.5 | 2916 | 11 | 
 | 2016-02-20 | 第2回韓国女子囲碁リーグ第1節 | Kim Miri | Yu Zhiying | Win | W+R | 6.5 | 2905 | -48 | 
 | 2015-12-03 | 第3回中国女子囲碁甲級リーグ第18節 |  | Yu Zhiying | Win | W+R | 7.5 | 2953 | 14 | 
@@ -377,8 +378,8 @@
 | 2015-06-23 | 2015年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Yu Zhiying | Wang Yanhao | Win | B+R | 7.5 | 2986 | 3 | 
 | 2015-06-22 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Yu Zhiying | Li Xuanhao | Lose | W+R | 7.5 | 2983 | -7 | 
 | 2015-06-21 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | He Yuhan | Yu Zhiying | Win | W+8.5 | 7.5 | 2990 | 1 | 
-| 2015-06-20 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Yu Zhiying | Park Geunho | Win | B+R | 7.5 | 2989 | 0 | 
-| 2015-06-20 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Chen Qirui | Yu Zhiying | Win | W+3.5 | 7.5 | 2989 | 6 | 
+| 2015-06-20 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Chen Qirui | Yu Zhiying | Win | W+3.5 | 7.5 | 2989 | 0 | 
+| 2015-06-20 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Yu Zhiying | Park Geunho | Win | B+R | 7.5 | 2989 | 6 | 
 | 2015-06-18 | 宝佳適杯中韓新鋭天元戦第2戦 | Oh Yujin | Yu Zhiying | Win | W+R | 6.5 | 2983 | -15 | 
 | 2015-06-17 | 宝佳適杯中韓新鋭天元戦第1戦 | Yu Zhiying | Shin Jinseo | Lose | W+R | 6.5 | 2998 | -21 | 
 | 2015-06-15 | 第17期阿含・桐山杯中国早碁オープン戦予選 | Yu Zhiying | Zhong Wenjing | Win | B+1.5 | 7.5 | 3019 | 0 | 
@@ -392,8 +393,8 @@
 | 2015-05-02 | 第3回中国女子囲碁甲級リーグ第2節 | Yu Zhiying | Rui Naiwei | Lose | W+0.5 | 7.5 | 3015 | -3 | 
 | 2015-05-01 | 第3回中国女子囲碁甲級リーグ第1節 | Lu Minquan | Yu Zhiying | Win | W+R | 7.5 | 3018 | 63 | 
 | 2015-04-10 | 第5回黄竜士双登杯世界女子囲碁団体選手権第13戦 | Choi Jeong | Yu Zhiying | Lose | B+R | 7.5 | 2955 | -31 | 
-| 2015-04-03 | 第12期倡棋杯中国プロ囲碁選手権戦1回戦 | Ke Jie | Yu Zhiying | Lose | B+1 | 7.5 | 2986 | 0 | 
-| 2015-04-03 | 第4回天台山農商銀行杯中国選抜戦 | Wang Xiangyun | Yu Zhiying | Win | W+2.5 | 7.5 | 2986 | -86 | 
+| 2015-04-03 | 第4回天台山農商銀行杯中国選抜戦 | Wang Xiangyun | Yu Zhiying | Win | W+2.5 | 7.5 | 2986 | 0 | 
+| 2015-04-03 | 第12期倡棋杯中国プロ囲碁選手権戦1回戦 | Ke Jie | Yu Zhiying | Lose | B+1 | 7.5 | 2986 | -86 | 
 | 2015-03-19 | 第1回韓国女子囲碁リーグ第11節 | Yu Zhiying | Park Taehee | Lose | W+4.5 | 6.5 | 3072 | -189 | 
 | 2015-02-27 | 第1回韓国女子囲碁リーグ第10節 | Kang Dajeong | Yu Zhiying | Win | W+1.5 | 6.5 | 3261 | -10 | 
 | 2015-02-24 | 第1回韓国女子囲碁リーグ第9節 | Kim Yoonyoung | Yu Zhiying | Lose | B+8.5 | 6.5 | 3271 | 14 | 
@@ -416,8 +417,8 @@
 | 2014-08-31 | 第5回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Wang Chenxing | Yu Zhiying | Win | W+R | 7.5 | 3208 | 39 | 
 | 2014-08-30 | 第5回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Yu Zhiying | Okuda Aya | Win | B+R | 7.5 | 3169 | -6 | 
 | 2014-08-20 | 第2回中国女子囲碁甲級リーグ第10節 | Yu Zhiying | Tang Yi | Win | B+R | 7.5 | 3175 | 1 | 
-| 2014-08-18 | 2014年利民杯世界囲碁星鋭最強戦第2ステージ決勝 | Shin Jinseo | Yu Zhiying | Lose | B+R | 7.5 | 3174 | 0 | 
-| 2014-08-18 | 2014年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 | Lee Donghoon | Yu Zhiying | Win | W+T | 7.5 | 3174 | -8 | 
+| 2014-08-18 | 2014年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 | Lee Donghoon | Yu Zhiying | Win | W+T | 7.5 | 3174 | 0 | 
+| 2014-08-18 | 2014年利民杯世界囲碁星鋭最強戦第2ステージ決勝 | Shin Jinseo | Yu Zhiying | Lose | B+R | 7.5 | 3174 | -8 | 
 | 2014-08-17 | 2014年利民杯世界囲碁星鋭最強戦第2ステージリーグ |  | Yu Zhiying | Lose | B+R | 7.5 | 3182 | -13 | 
 | 2014-08-15 | 2014年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Yang Kaiwen | Yu Zhiying | Lose | B+R | 7.5 | 3195 | 2 | 
 | 2014-08-11 | 第2回中国女子囲碁甲級リーグ第9節 | Zheng Yan | Yu Zhiying | Win | W+R | 7.5 | 3193 | -1 | 

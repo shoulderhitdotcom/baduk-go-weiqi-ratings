@@ -7,8 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Huang Yunsong | Shin Minjun | Win | B+R | 6.5 | 3555 | 0 | 
-| 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦 | Hsu Chiayuan | Huang Yunsong | Lose | B+R | 6.5 | 3555 | 14 | 
+| 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Tuo Jiaxi | Huang Yunsong | Lose | B+R | 7.5 | 3520 | -35 | 
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦 | Hsu Chiayuan | Huang Yunsong | Lose | B+R | 6.5 | 3555 | 0 | 
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Huang Yunsong | Shin Minjun | Win | B+R | 6.5 | 3555 | 14 | 
 | 2021-12-06 | 第22期阿含・桐山杯中国早碁オープン戦決勝 | Huang Yunsong | Gu Zihao | Lose | W+R | 7.5 | 3541 | -8 | 
 | 2021-11-24 | 第22期阿含・桐山杯中国早碁オープン戦準決勝 | Yang Dingxin | Huang Yunsong | Win | W+R | 7.5 | 3549 | 10 | 
 | 2021-11-23 | 第22期阿含・桐山杯中国早碁オープン戦2回戦 | Huang Yunsong | Fan Tingyu | Win | B+R | 7.5 | 3539 | -54 | 
@@ -215,8 +216,8 @@
 | 2016-10-18 | 第12期威孚房開杯中国囲棋争覇戦8強戦 | Tan Xiao | Huang Yunsong | Win | W+R | 7.5 | 3218 | 11 | 
 | 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦第3戦 | Xiao Zhenghao | Huang Yunsong | Win | W+R | 6.5 | 3207 | 0 | 
 | 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦決勝 | Park Minkyu | Huang Yunsong | Win | W+R | 6.5 | 3207 | 12 | 
-| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Lee Donghoon | Huang Yunsong | Win | W+R | 6.5 | 3195 | 0 | 
-| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Ida Atsushi | Huang Yunsong | Lose | B+2.5 | 6.5 | 3195 | 14 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Ida Atsushi | Huang Yunsong | Lose | B+2.5 | 6.5 | 3195 | 0 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Lee Donghoon | Huang Yunsong | Win | W+R | 6.5 | 3195 | 14 | 
 | 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Meng Tailing | Huang Yunsong | Lose | B+R | 7.5 | 3181 | -25 | 
 | 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Huang Yunsong | Kim Jiseok | Lose | W+R | 7.5 | 3206 | 30 | 
 | 2016-09-25 | 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Huang Yunsong | Ida Atsushi | Win | B+R | 6.5 | 3176 | -25 | 
@@ -269,8 +270,8 @@
 | 2015-10-15 | 第17回中国囲碁甲級リーグ第15節 | Huang Yunsong |  | Lose | W+R | 7.5 | 3239 | -11 | 
 | 2015-10-12 | 第11期威孚房開杯棋王戦1回戦 | Huang Yunsong | Gu Li | Lose | W+R | 7.5 | 3250 | -7 | 
 | 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Huang Yunsong | Liu Xing | Win | B+R | 7.5 | 3257 | -1 | 
-| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Huang Yunsong | Lin Lixiang | Win | B+R | 6.5 | 3258 | 0 | 
-| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Huang Yunsong | Yun Junsang | Lose | W+R | 6.5 | 3258 | 51 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Huang Yunsong | Yun Junsang | Lose | W+R | 6.5 | 3258 | 0 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Huang Yunsong | Lin Lixiang | Win | B+R | 6.5 | 3258 | 51 | 
 | 2015-10-02 | 第2回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yu Zhengqi | Huang Yunsong | Win | W+R | 6.5 | 3207 | -41 | 
 | 2015-09-27 | 第7期中国竜星戦1回戦 | Jiang Weijie | Huang Yunsong | Win | W+R | 7.5 | 3248 | 9 | 
 | 2015-09-24 | 第17回中国囲碁甲級リーグ第14節 | Huang Yunsong | Liao Xingwen | Win | B+R | 7.5 | 3239 | 12 | 
@@ -303,8 +304,8 @@
 | 2015-05-28 | 第17回中国囲碁甲級リーグ第6節 | Huang Yunsong | Jiang Weijie | Lose | W+R | 7.5 | 3353 | -11 | 
 | 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Huang Yunsong | Mao Ruilong | Lose | W+R | 7.5 | 3364 | -28 | 
 | 2015-05-16 | 第17回中国囲碁甲級リーグ第4節 | Huang Yunsong | Han Yizhou | Win | B+R | 7.5 | 3392 | 47 | 
-| 2015-05-10 | 第2回グロービス杯世界囲碁U-20決勝 | Na Hyun | Huang Yunsong | Win | W+R | 6.5 | 3345 | 0 | 
-| 2015-05-10 | 第2回グロービス杯世界囲碁U-20準決勝 | Lee Donghoon | Huang Yunsong | Win | W+R | 6.5 | 3345 | 43 | 
+| 2015-05-10 | 第2回グロービス杯世界囲碁U-20準決勝 | Lee Donghoon | Huang Yunsong | Win | W+R | 6.5 | 3345 | 0 | 
+| 2015-05-10 | 第2回グロービス杯世界囲碁U-20決勝 | Na Hyun | Huang Yunsong | Win | W+R | 6.5 | 3345 | 43 | 
 | 2015-05-09 | 第2回グロービス杯世界囲碁U-20準々決勝 | Shin Jinseo | Huang Yunsong | Win | W+R | 6.5 | 3302 | -13 | 
 | 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグA | Huang Yunsong | Yu Zhengqi | Win | B+R | 6.5 | 3315 | 0 | 
 | 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグA | Ichiriki Ryo | Huang Yunsong | Win | W+R | 6.5 | 3315 | 33 | 
@@ -330,8 +331,8 @@
 | 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Huang Yunsong |  | Win | B+R | 7.5 | 3342 | 63 | 
 | 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Huang Yunsong | Mao Ruilong | Win | B+R | 7.5 | 3279 | -16 | 
 | 2014-08-06 | 第19回三星火災杯統合予選決勝 | Huang Yunsong | Lian Xiao | Lose | W+R | 6.5 | 3295 | -33 | 
-| 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Huang Yunsong | Niu Yutian | Lose | W+R | 7.5 | 3328 | 0 | 
-| 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Huang Yunsong | Bai Baoxiang | Win | B+R | 7.5 | 3328 | 32 | 
+| 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Huang Yunsong | Bai Baoxiang | Win | B+R | 7.5 | 3328 | 0 | 
+| 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Huang Yunsong | Niu Yutian | Lose | W+R | 7.5 | 3328 | 32 | 
 | 2014-06-26 | 第6期中国竜星戦予選 | Huang Yunsong | Qin Yuexin | Lose | W+4.5 | 7.5 | 3296 | -22 | 
 | 2014-06-25 | 第6期中国竜星戦予選 | Huang Yunsong | Chen Xian | Win | B+R | 7.5 | 3318 | 58 | 
 | 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Huang Yunsong | Chang Hao | Lose | W+R | 7.5 | 3260 | 3 | 

@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Li He | Kim Hyeoimin | Lose | B+R | 7.5 | 2687 | -72 | 
+| 2021-11-22 | 第5期韓国製紙女子棋聖戦2回戦 | Park Jiyeon | Kim Hyeoimin | Lose | B+R | 6.5 | 2759 | 9 | 
+| 2021-11-01 | 第5期韓国製紙女子棋聖戦1回戦 |  | Kim Hyeoimin | Win | W+R | 6.5 | 2750 | -162 | 
 | 2021-10-17 | 第9回中国女子囲碁甲級リーグ | Kim Hyeoimin | Cho Seungah | Lose | W+¼ | 7.5 | 2912 | 95 | 
 | 2021-10-14 | 第9回中国女子囲碁甲級リーグ | Kim Hyeoimin |  | Win | B+¾ | 7.5 | 2817 | 18 | 
 | 2021-10-13 | 第9回中国女子囲碁甲級リーグ | Kim Hyeoimin | Lu Minquan | Lose | W+R | 7.5 | 2799 | -36 | 
@@ -181,8 +184,8 @@
 | 2016-02-26 | 第2回韓国女子囲碁リーグ第2節 | Kim Hyeoimin |  | Win | B+R | 6.5 | 2634 | 48 | 
 | 2016-02-19 | 第2回韓国女子囲碁リーグ第1節 | Kim Hyeoimin | Wang Chenxing | Lose | W+R | 6.5 | 2586 | -81 | 
 | 2015-10-09 | 2015年フューチャーズリーグ | Yun Chanhee | Kim Hyeoimin | Lose | B+R | 6.5 | 2667 | 29 | 
-| 2015-09-30 | 2015年フューチャーズリーグ | Kim Hyeoimin |  | Win | B+R | 6.5 | 2638 | 0 | 
-| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Kim Hyeoimin | Weon Seongjin | Lose | W+0.5 | 6.5 | 2638 | 36 | 
+| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Kim Hyeoimin | Weon Seongjin | Lose | W+0.5 | 6.5 | 2638 | 0 | 
+| 2015-09-30 | 2015年フューチャーズリーグ | Kim Hyeoimin |  | Win | B+R | 6.5 | 2638 | 36 | 
 | 2015-09-20 | 2015年フューチャーズリーグ |  | Kim Hyeoimin | Win | W+0.5 | 6.5 | 2602 | 6 | 
 | 2015-09-18 | 第17期女流名人戦（韓国）2回戦 | Kim Hyeoimin | Oh Jeonga | Lose | W+R | 6.5 | 2596 | -7 | 
 | 2015-09-16 | 2015年フューチャーズリーグ | Kim Hyeoimin | Choi Jaeyoung | Lose | W+R | 6.5 | 2603 | -91 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Rui Naiwei | Song Ronghui | Win | B+R | 7.5 | 2878 | 8 | 
 | 2021-12-21 | 2021年1004島新安国際シニア囲碁大会2回戦 | O Meien | Rui Naiwei | Lose | B+R | 6.5 | 2870 | 0 | 
 | 2021-12-21 | 2021年1004島新安国際シニア囲碁大会1回戦 | Rui Naiwei | Kim Ilhwan | Win | B+6.5 | 6.5 | 2870 | -51 | 
 | 2021-10-19 | 第9回中国女子囲碁甲級リーグ | Huang Ziping | Rui Naiwei | Win | W+R | 7.5 | 2921 | -139 | 

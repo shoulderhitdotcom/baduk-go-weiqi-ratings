@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing |  | Win | B+R | 7.5 | 2978 | -5 | 
+| 2021-11-30 | 第4回呉清源杯世界女子囲碁選手権準決勝 | Yu Zhiying | Wang Chenxing | Lose | B+R | 7.5 | 2983 | 3 | 
 | 2021-11-26 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第5戦 |  | Wang Chenxing | Lose | B+¾ | 7.5 | 2980 | -4 | 
 | 2021-11-25 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第4戦 | Wang Chenxing | Xu Yidi | Win | B+R | 7.5 | 2984 | 10 | 
 | 2021-11-24 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第3戦 | Wang Chunhui | Wang Chenxing | Win | W+1¼ | 7.5 | 2974 | 21 | 
@@ -220,8 +222,8 @@
 | 2015-10-18 | 第6回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Park Shiun | Wang Chenxing | Lose | B+R | 7.5 | 2766 | -10 | 
 | 2015-10-17 | 第6回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Oh Yujin | Wang Chenxing | Win | W+0.5 | 7.5 | 2776 | 11 | 
 | 2015-10-15 | 第3回中国女子囲碁甲級リーグ第10節 | Wang Chenxing | Zhou Hongyu | Win | B+R | 7.5 | 2765 | 0 | 
-| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Wang Chenxing | Hei Jiajia | Win | B+R | 6.5 | 2765 | 0 | 
-| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Wang Chenxing | Oh Yujin | Lose | W+R | 6.5 | 2765 | 55 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Wang Chenxing | Oh Yujin | Lose | W+R | 6.5 | 2765 | 0 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Wang Chenxing | Hei Jiajia | Win | B+R | 6.5 | 2765 | 55 | 
 | 2015-10-02 | 第2回おかげ杯国際精鋭囲碁対抗戦第2戦 | Fujisawa Rina | Wang Chenxing | Lose | B+R | 6.5 | 2710 | -56 | 
 | 2015-09-24 | 第3回中国女子囲碁甲級リーグ第9節 | Wang Chenxing |  | Win | B+R | 7.5 | 2766 | 13 | 
 | 2015-09-23 | 第3回中国女子囲碁甲級リーグ第8節 | Zheng Yan | Wang Chenxing | Win | W+R | 7.5 | 2753 | -30 | 
@@ -292,11 +294,11 @@
 | 2014-04-12 | 第4回黄竜士双登杯世界女子囲碁団体選手権第14戦 | Park Shiun | Wang Chenxing | Win | W+R | 7.5 | 2995 | 72 | 
 | 2014-03-16 | 第2回百霊杯世界オープン戦予選 | Wang Chenxing | Choi Jeong | Lose | W+R | 7.5 | 2923 | 12 | 
 | 2013-12-16 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Yu Zhiying | Wang Chenxing | Lose | B+R | 7.5 | 2911 | -14 | 
-| 2013-12-15 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Svetlana Shikshina | Wang Chenxing | Win | W+10.5 | 7.5 | 2925 | 0 | 
-| 2013-12-15 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Wang Chenxing | Park Shiun | Win | B+R | 7.5 | 2925 | 8 | 
+| 2013-12-15 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Wang Chenxing | Park Shiun | Win | B+R | 7.5 | 2925 | 0 | 
+| 2013-12-15 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Svetlana Shikshina | Wang Chenxing | Win | W+10.5 | 7.5 | 2925 | 8 | 
 | 2013-12-14 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Wang Chenxing | Yu Zhiying | Lose | W+4.5 | 7.5 | 2917 | -13 | 
-| 2013-12-13 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Wang Chenxing | Fujisawa Rina | Win | B+9.5 | 7.5 | 2930 | 0 | 
-| 2013-12-13 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Hei Jiajia | Wang Chenxing | Win | W+4.5 | 7.5 | 2930 | 31 | 
+| 2013-12-13 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Hei Jiajia | Wang Chenxing | Win | W+4.5 | 7.5 | 2930 | 0 | 
+| 2013-12-13 | 第3回スポーツアコードワールドマインドゲームズ囲碁女子個人戦 | Wang Chenxing | Fujisawa Rina | Win | B+9.5 | 7.5 | 2930 | 31 | 
 | 2013-12-07 | 第1回中国女子囲碁甲級リーグ第14節 | Li Chunhua | Wang Chenxing | Win | W+R | 7.5 | 2899 | -2 | 
 | 2013-12-06 | 第1回中国女子囲碁甲級リーグ第13節 |  | Wang Chenxing | Win | W+6.5 | 7.5 | 2901 | 1 | 
 | 2013-12-05 | 第1回中国女子囲碁甲級リーグ第12節 | Rui Naiwei | Wang Chenxing | Lose | B+R | 7.5 | 2900 | 54 | 
@@ -351,8 +353,8 @@
 | 2012-03-11 | 第1回百霊杯世界囲碁選手権予選 | Park Cheongsang | Wang Chenxing | Lose | B+1.5 | 7.5 | 3104 | -53 | 
 | 2012-02-07 | 第2回黄竜士双登杯世界女子囲碁団体選手権第7戦 | Wang Chenxing | Kim Hyeoimin | Win | B+R | 7.5 | 3157 | 17 | 
 | 2012-02-06 | 第2回黄竜士双登杯世界女子囲碁団体選手権第6戦 | Wang Chenxing | Yashiro Kumiko | Win | B+R | 7.5 | 3140 | -7 | 
-| 2012-02-05 | 第26期中国囲碁天元戦予選 | Wang Chenxing | Mi Yuting | Lose | W+R | 7.5 | 3147 | 0 | 
-| 2012-02-05 | 第2回黄竜士双登杯世界女子囲碁団体選手権第5戦 | Park Jiyeon | Wang Chenxing | Win | W+R | 7.5 | 3147 | 66 | 
+| 2012-02-05 | 第2回黄竜士双登杯世界女子囲碁団体選手権第5戦 | Park Jiyeon | Wang Chenxing | Win | W+R | 7.5 | 3147 | 0 | 
+| 2012-02-05 | 第26期中国囲碁天元戦予選 | Wang Chenxing | Mi Yuting | Lose | W+R | 7.5 | 3147 | 66 | 
 | 2012-02-04 | 第2回黄竜士双登杯世界女子囲碁団体選手権第4戦 | Mukai Chiaki | Wang Chenxing | Win | W+R | 7.5 | 3081 | 44 | 
 | 2012-02-03 | 第2回黄竜士双登杯世界女子囲碁団体選手権第3戦 | Wang Chenxing | Lee Sula | Win | B+R | 7.5 | 3037 | 12 | 
 | 2012-02-02 | 第2回黄竜士双登杯世界女子囲碁団体選手権第2戦 | Yoshida Mika | Wang Chenxing | Win | W+R | 7.5 | 3025 | 134 | 

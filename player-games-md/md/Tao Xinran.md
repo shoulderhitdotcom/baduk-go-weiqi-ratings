@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Tao Xinran | Yang Dingxin | Lose | W+¼ | 7.5 | 3376 | -71 | 
+| 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Ke Jie | Tao Xinran | Lose | B+R | 7.5 | 3447 | -76 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Tao Xinran | Dang Yifei | Lose | W+R | 7.5 | 3523 | -7 | 
 | 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tao Xinran | Yang Kaiwen | Win | B+1¾ | 7.5 | 3530 | -3 | 
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Xie Erhao | Tao Xinran | Win | W+R | 7.5 | 3533 | 17 | 
@@ -113,10 +115,10 @@
 | 2018-11-02 | 第20回中国囲碁甲級リーグ第22節重慶-民生 | Tao Xinran | Tan Xiao | Lose | W+R | 7.5 | 3247 | -14 | 
 | 2018-10-29 | 第20回中国囲碁甲級リーグ第21節民生-中信 | Kim Myounghoon | Tao Xinran | Lose | B+R | 7.5 | 3261 | -2 | 
 | 2018-10-27 | 第20回中国囲碁甲級リーグ第20節天津-民生 | Tao Xinran | Tang Weixing | Win | B+R | 7.5 | 3263 | 9 | 
-| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦決勝 | Tao Xinran | Lee Jihyun | Lose | W+1.5 | 6.5 | 3254 | 0 | 
-| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yu Zhengqi | Tao Xinran | Win | W+R | 6.5 | 3254 | -2 | 
-| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第1戦 | Lin Shixun | Tao Xinran | Lose | B+R | 6.5 | 3256 | 0 | 
-| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第2戦 | Kim Myounghoon | Tao Xinran | Win | W+0.5 | 6.5 | 3256 | -21 | 
+| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yu Zhengqi | Tao Xinran | Win | W+R | 6.5 | 3254 | 0 | 
+| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦決勝 | Tao Xinran | Lee Jihyun | Lose | W+1.5 | 6.5 | 3254 | -2 | 
+| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第2戦 | Kim Myounghoon | Tao Xinran | Win | W+0.5 | 6.5 | 3256 | 0 | 
+| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第1戦 | Lin Shixun | Tao Xinran | Lose | B+R | 6.5 | 3256 | -21 | 
 | 2018-10-10 | 第20回中国囲碁甲級リーグ第19節民生-廈門 | Peng Liyao | Tao Xinran | Win | W+¼ | 7.5 | 3277 | -6 | 
 | 2018-10-08 | 第20回中国囲碁甲級リーグ第18節上海-民生 | Tao Xinran | Li Weiqing | Lose | W+R | 7.5 | 3283 | -6 | 
 | 2018-10-01 | 第23回三星火災杯世界囲碁マスターズ2回戦 | Tang Weixing | Tao Xinran | Lose | B+R | 6.5 | 3289 | -2 | 
@@ -221,8 +223,8 @@
 | 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Tao Xinran | Ding Hao | Lose | W+0.5 | 7.5 | 3134 | -6 | 
 | 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Xie Erhao | Tao Xinran | Lose | B+3.5 | 7.5 | 3140 | 1 | 
 | 2016-03-19 | 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Tao Xinran | Wang Xi | Lose | W+1 | 7.5 | 3139 | 24 | 
-| 2016-03-08 | 第15回西南棋王戦決勝 | Yang Dingxin | Tao Xinran | Lose | B+R | 7.5 | 3115 | 0 | 
-| 2016-03-08 | 第15回西南棋王戦準決勝 | Tan Xiao | Tao Xinran | Win | W+R | 7.5 | 3115 | -24 | 
+| 2016-03-08 | 第15回西南棋王戦準決勝 | Tan Xiao | Tao Xinran | Win | W+R | 7.5 | 3115 | 0 | 
+| 2016-03-08 | 第15回西南棋王戦決勝 | Yang Dingxin | Tao Xinran | Lose | B+R | 7.5 | 3115 | -24 | 
 | 2016-03-07 | 第15回西南棋王戦2回戦 | Tao Xinran |  | Win | B+R | 7.5 | 3139 | 0 | 
 | 2016-03-07 | 第15回西南棋王戦1回戦 | Tao Xinran | Shi Yue | Win | B+R | 7.5 | 3139 | -8 | 
 | 2016-02-29 | 第13期倡棋杯中国プロ囲碁選手権戦予選 | Dang Yifei | Tao Xinran | Win | W+R | 7.5 | 3147 | -70 | 
@@ -302,8 +304,8 @@
 | 2014-05-18 | 第16回中国囲碁甲級リーグ第3節 | Hu Yaoyu | Tao Xinran | Win | W+R | 7.5 | 3217 | -9 | 
 | 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Xie He | Tao Xinran | Win | W+2.5 | 7.5 | 3226 | 3 | 
 | 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Liao Xingwen | Tao Xinran | Lose | B+1.5 | 7.5 | 3223 | 0 | 
-| 2014-05-07 | 2014CCTV杯中国囲棋電視快棋戦決勝 | Li Qincheng | Tao Xinran | Lose | B+R | 7.5 | 3223 | 0 | 
 | 2014-05-07 | 2014CCTV杯中国囲棋電視快棋戦準決勝 | Tao Xinran | Li Zhe | Win | B+R | 7.5 | 3223 | 0 | 
+| 2014-05-07 | 2014CCTV杯中国囲棋電視快棋戦決勝 | Li Qincheng | Tao Xinran | Lose | B+R | 7.5 | 3223 | 0 | 
 | 2014-05-06 | 2014CCTV杯中国囲棋電視快棋戦4回戦 | Tao Xinran | Kong Jie | Win | B+R | 7.5 | 3223 | 0 | 
 | 2014-05-06 | 2014CCTV杯中国囲棋電視快棋戦3回戦 | Tao Xinran |  | Win | B+R | 7.5 | 3223 | 26 | 
 | 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦2回戦 | Tao Xinran | Peng Quan | Win | B+3.5 | 7.5 | 3197 | 0 | 
@@ -324,8 +326,8 @@
 | 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 | Zhong Wenjing | Tao Xinran | Win | W+R | 7.5 | 3232 | 34 | 
 | 2013-10-20 | 第15回中国囲碁甲級リーグ第17節 | Tao Xinran | Zhou Ruiyang | Lose | W+R | 7.5 | 3198 | -38 | 
 | 2013-10-13 | 第15回中国囲碁甲級リーグ第16節 | Liao Xingwen | Tao Xinran | Win | W+R | 7.5 | 3236 | -164 | 
-| 2013-09-09 | 第5期中国竜星戦1回戦 | Lian Xiao | Tao Xinran | Lose | B+R | 7.5 | 3400 | 0 | 
 | 2013-09-09 | 第5期中国竜星戦予選 | Li Xuanhao | Tao Xinran | Win | W+4.5 | 7.5 | 3400 | 0 | 
+| 2013-09-09 | 第5期中国竜星戦1回戦 | Lian Xiao | Tao Xinran | Lose | B+R | 7.5 | 3400 | 0 | 
 | 2013-09-07 | 第15回中国囲碁甲級リーグ第14節 | Xie Erhao | Tao Xinran | Lose | B+R | 7.5 | 3400 | 23 | 
 | 2013-09-01 | 第15回中国囲碁甲級リーグ第13節 | Tao Xinran | Tong Mengcheng | Lose | W+R | 7.5 | 3377 | -17 | 
 | 2013-08-30 | 第15回中国囲碁甲級リーグ第12節 | Tao Xinran | Li Xuanhao | Lose | W+R | 7.5 | 3394 | 15 | 
@@ -374,8 +376,8 @@
 | 2012-07-09 | 2012CCTV杯中国囲棋電視快棋戦1回戦 | Tao Xinran | Wang Lei (s) | Win | B+R | 7.5 | 3536 | 6 | 
 | 2012-07-07 | 第14回中国囲碁甲級リーグ第9節 | Zhong Wenjing | Tao Xinran | Lose | B+1.5 | 7.5 | 3530 | 47 | 
 | 2012-06-30 | 第14回中国囲碁甲級リーグ第8節 | Tao Xinran | Piao Wenyao | Win | B+R | 7.5 | 3483 | 48 | 
-| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Tao Xinran |  | Win | B+R | 7.5 | 3435 | 0 | 
-| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Tao Xinran |  | Lose | W+R | 7.5 | 3435 | -14 | 
+| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Tao Xinran |  | Lose | W+R | 7.5 | 3435 | 0 | 
+| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Tao Xinran |  | Win | B+R | 7.5 | 3435 | -14 | 
 | 2012-06-23 | 第14回中国囲碁甲級リーグ第7節 | Tao Xinran | Zhang Tao | Win | B+5.5 | 7.5 | 3449 | -35 | 
 | 2012-06-14 | 第14回中国囲碁甲級リーグ第6節 | Tao Xinran | Lian Xiao | Lose | W+R | 7.5 | 3484 | -57 | 
 | 2012-06-09 | 第14回中国囲碁甲級リーグ第5節 | Tao Xinran | Tan Xiao | Win | B+R | 7.5 | 3541 | 79 | 
@@ -431,8 +433,8 @@
 | 2009-12-29 | 第4期リコー杯新秀戦1回戦 | Tao Xinran | Dang Yifei | Win | B+1.5 | 7.5 | 3005 | 61 | 
 | 2009-12-28 | 第10期リコー杯囲碁戦1回戦 | Tao Xinran | Luo Xihe | Win | B+1.5 | 7.5 | 2944 | -100 | 
 | 2009-12-20 | 第4期リコー杯新秀戦予選 | Tao Xinran |  | Win | B+R | 7.5 | 3044 | -22 | 
-| 2009-06-30 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Shao Weigang | Tao Xinran | Win | W+8.5 | 7.5 | 3066 | 0 | 
-| 2009-06-30 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Tao Xinran |  | Lose | W+R | 7.5 | 3066 | 38 | 
+| 2009-06-30 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Tao Xinran |  | Lose | W+R | 7.5 | 3066 | 0 | 
+| 2009-06-30 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Shao Weigang | Tao Xinran | Win | W+8.5 | 7.5 | 3066 | 38 | 
 | 2009-06-18 | 第11回中国囲碁甲級リーグ第7節 | Tao Xinran | Sun Li | Lose | W+R | 7.5 | 3028 | -44 | 
 | 2009-05-23 | 第11回中国囲碁甲級リーグ第3節 | Chen Yaoye | Tao Xinran | Lose | B+R | 7.5 | 3072 | 5 | 
 | 2009-04-03 | 第22期中国囲碁名人戦予選 | Yin Hang | Tao Xinran | Lose | B+1.5 | 7.5 | 3067 | -63 | 

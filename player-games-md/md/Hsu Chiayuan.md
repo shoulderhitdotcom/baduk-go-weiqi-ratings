@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-24 | 第1回テイケイ杯俊英戦Bリーグ | Hsu Chiayuan | Onishi Kenya | Win | B+R | 6.5 | 3386 | -19 | 
 | 2021-12-22 | 第1回テイケイ杯俊英戦Bリーグ | Hsu Chiayuan | Hirose Yuichi | Win | B+R | 6.5 | 3405 | 7 | 
 | 2021-12-21 | 第1回テイケイ杯俊英戦Bリーグ  | Hsu Chiayuan | Sada Atsushi | Win | B+R | 6.5 | 3398 | 12 | 
 | 2021-12-20 | 第1回テイケイ杯俊英戦Bリーグ  | Otake Yu | Hsu Chiayuan | Win | W+R | 6.5 | 3386 | 8 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Li Weiqing | Tong Mengcheng | Win | W+R | 7.5 | 3431 | 6 | 
 | 2021-11-23 | 第22期阿含・桐山杯中国早碁オープン戦2回戦 | Tong Mengcheng | Yang Dingxin | Lose | W+R | 7.5 | 3425 | -66 | 
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Xie Ke | Tong Mengcheng | Win | W+¼ | 7.5 | 3491 | 30 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tong Mengcheng | Zhao Chenyu | Lose | W+1¼ | 7.5 | 3461 | 2 | 
@@ -186,8 +187,8 @@
 | 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Sun Tengyu | Tong Mengcheng | Lose | B+R | 7.5 | 3371 | -13 | 
 | 2017-10-15 | 第4回おかげ杯国際精鋭囲碁対抗戦決勝 | Lee Yeongkyu | Tong Mengcheng | Win | W+R | 6.5 | 3384 | 0 | 
 | 2017-10-15 | 第4回おかげ杯国際精鋭囲碁対抗戦3回戦 | Tong Mengcheng | Terayama Rei | Win | B+R | 6.5 | 3384 | 53 | 
-| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦1回戦 | Tong Mengcheng | Kim Myounghoon | Lose | W+R | 6.5 | 3331 | 0 | 
-| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦2回戦 | Xu Haohong | Tong Mengcheng | Win | W+2.5 | 6.5 | 3331 | 16 | 
+| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦2回戦 | Xu Haohong | Tong Mengcheng | Win | W+2.5 | 6.5 | 3331 | 0 | 
+| 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦1回戦 | Tong Mengcheng | Kim Myounghoon | Lose | W+R | 6.5 | 3331 | 16 | 
 | 2017-10-11 | 第13期威孚房開杯棋王戦16強戦 | Tong Mengcheng | Mi Yuting | Lose | W+R | 7.5 | 3315 | -3 | 
 | 2017-10-10 | 第13期威孚房開杯棋王戦32強戦 | Tong Mengcheng | Zhao Chenyu | Win | B+R | 7.5 | 3318 | -15 | 
 | 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Xie Erhao | Tong Mengcheng | Lose | B+R | 7.5 | 3333 | -10 | 
@@ -227,8 +228,8 @@
 | 2016-12-12 | 第8期中国竜星戦Aブロック2回戦 | Zhou Hexi | Tong Mengcheng | Win | W+R | 7.5 | 3135 | -2 | 
 | 2016-12-03 | 第18回中国囲碁甲級リーグ第22節 | Tong Mengcheng | Peng Liyao | Lose | W+R | 7.5 | 3137 | -16 | 
 | 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Yi Lingtao | Tong Mengcheng | Win | W+R | 7.5 | 3153 | 11 | 
-| 2016-11-24 | 第8期中国竜星戦予選 | Tang Weixing | Tong Mengcheng | Win | W+R | 7.5 | 3142 | 0 | 
-| 2016-11-24 | 第8期中国竜星戦予選 | Li Xuanhao | Tong Mengcheng | Win | W+R | 7.5 | 3142 | 16 | 
+| 2016-11-24 | 第8期中国竜星戦予選 | Li Xuanhao | Tong Mengcheng | Win | W+R | 7.5 | 3142 | 0 | 
+| 2016-11-24 | 第8期中国竜星戦予選 | Tang Weixing | Tong Mengcheng | Win | W+R | 7.5 | 3142 | 16 | 
 | 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Yang Kaiwen | Tong Mengcheng | Win | W+R | 7.5 | 3126 | 4 | 
 | 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 | Han Yizhou | Tong Mengcheng | Win | W+R | 7.5 | 3122 | 10 | 
 | 2016-11-12 | 第18回中国囲碁甲級リーグ第18節 | Tong Mengcheng | Lian Xiao | Lose | W+R | 7.5 | 3112 | -78 | 
@@ -238,8 +239,8 @@
 | 2016-10-18 | 第12期威孚房開杯中国囲棋争覇戦8強戦 | Tong Mengcheng | Tao Xinran | Win | B+R | 7.5 | 3216 | 14 | 
 | 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yang Bowei | Tong Mengcheng | Win | W+R | 6.5 | 3202 | 0 | 
 | 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦決勝 | Tong Mengcheng | Lee Jihyun | Lose | W+R | 6.5 | 3202 | -1 | 
-| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Park Minkyu | Tong Mengcheng | Win | W+R | 6.5 | 3203 | 0 | 
-| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Anzai Nobuaki | Tong Mengcheng | Win | W+R | 6.5 | 3203 | 17 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Anzai Nobuaki | Tong Mengcheng | Win | W+R | 6.5 | 3203 | 0 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Park Minkyu | Tong Mengcheng | Win | W+R | 6.5 | 3203 | 17 | 
 | 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Tang Weixing | Tong Mengcheng | Lose | B+R | 7.5 | 3186 | -23 | 
 | 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Qin Yuexin | Tong Mengcheng | Win | W+0.5 | 7.5 | 3209 | 6 | 
 | 2016-10-04 | 第21回三星火災杯世界囲碁マスターズ2回戦 | Lee Sedol | Tong Mengcheng | Lose | B+R | 6.5 | 3203 | 44 | 
@@ -339,8 +340,8 @@
 | 2014-09-02 | 第6期中国竜星戦1回戦 | Tong Mengcheng | Chen Yaoye | Lose | W+0.5 | 7.5 | 3297 | -90 | 
 | 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Shi Yue | Tong Mengcheng | Lose | B+R | 7.5 | 3387 | -27 | 
 | 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Tong Mengcheng | Kim Jiseok | Lose | W+R | 7.5 | 3414 | -4 | 
-| 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Peng Liyao | Tong Mengcheng | Win | W+R | 7.5 | 3418 | 0 | 
-| 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Tong Mengcheng | Meng Tailing | Lose | W+0.5 | 7.5 | 3418 | 32 | 
+| 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Tong Mengcheng | Meng Tailing | Lose | W+0.5 | 7.5 | 3418 | 0 | 
+| 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Peng Liyao | Tong Mengcheng | Win | W+R | 7.5 | 3418 | 32 | 
 | 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Jiang Weijie | Tong Mengcheng | Win | W+R | 7.5 | 3386 | 26 | 
 | 2014-06-26 | 第6期中国竜星戦予選 | Tong Mengcheng |  | Win | B+R | 7.5 | 3360 | 10 | 
 | 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Tong Mengcheng | Tan Xiao | Lose | W+R | 7.5 | 3350 | -19 | 
@@ -369,8 +370,8 @@
 | 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 | Ding Wei | Tong Mengcheng | Win | W+R | 7.5 | 3303 | 3 | 
 | 2013-10-13 | 第15回中国囲碁甲級リーグ第16節 | Xie Erhao | Tong Mengcheng | Lose | B+R | 7.5 | 3300 | -205 | 
 | 2013-09-12 | 第15回中国囲碁甲級リーグ第15節 | Tong Mengcheng | Wu Guangya | Win | B+R | 7.5 | 3505 | 36 | 
-| 2013-09-09 | 第5期中国竜星戦1回戦 | Liu Xing | Tong Mengcheng | Lose | B+R | 7.5 | 3469 | 0 | 
-| 2013-09-09 | 第5期中国竜星戦予選 | Mao Ruilong | Tong Mengcheng | Win | W+R | 7.5 | 3469 | -5 | 
+| 2013-09-09 | 第5期中国竜星戦予選 | Mao Ruilong | Tong Mengcheng | Win | W+R | 7.5 | 3469 | 0 | 
+| 2013-09-09 | 第5期中国竜星戦1回戦 | Liu Xing | Tong Mengcheng | Lose | B+R | 7.5 | 3469 | -5 | 
 | 2013-09-07 | 第15回中国囲碁甲級リーグ第14節 | Li Xuanhao | Tong Mengcheng | Lose | B+R | 7.5 | 3474 | 20 | 
 | 2013-09-01 | 第15回中国囲碁甲級リーグ第13節 | Tao Xinran | Tong Mengcheng | Win | W+R | 7.5 | 3454 | -2 | 
 | 2013-08-30 | 第15回中国囲碁甲級リーグ第12節 | Tong Mengcheng | Rong Yi | Win | B+R | 7.5 | 3456 | 3 | 
@@ -422,10 +423,10 @@
 | 2012-07-13 | 第14回中国囲碁甲級リーグ第10節 | Liu Xing | Tong Mengcheng | Win | W+R | 7.5 | 3351 | -45 | 
 | 2012-07-07 | 第14回中国囲碁甲級リーグ第9節 | Tong Mengcheng | Sun Li | Win | B+R | 7.5 | 3396 | 75 | 
 | 2012-06-30 | 第14回中国囲碁甲級リーグ第8節 | Tong Mengcheng | Park Junghwan | Lose | W+R | 7.5 | 3321 | 39 | 
-| 2012-06-28 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Tong Mengcheng | Tong Yulin | Win | B+R | 7.5 | 3282 | 0 | 
-| 2012-06-28 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Tong Mengcheng | Tan Xiao | Win | B+R | 7.5 | 3282 | 38 | 
-| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Tong Mengcheng | Rong Yi | Win | B+R | 7.5 | 3244 | 0 | 
-| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Tong Mengcheng | Huang Yunsong | Win | B+R | 7.5 | 3244 | -18 | 
+| 2012-06-28 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Tong Mengcheng | Tan Xiao | Win | B+R | 7.5 | 3282 | 0 | 
+| 2012-06-28 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Tong Mengcheng | Tong Yulin | Win | B+R | 7.5 | 3282 | 38 | 
+| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Tong Mengcheng | Huang Yunsong | Win | B+R | 7.5 | 3244 | 0 | 
+| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Tong Mengcheng | Rong Yi | Win | B+R | 7.5 | 3244 | -18 | 
 | 2012-06-14 | 第14回中国囲碁甲級リーグ第6節 | Tong Mengcheng | Mao Ruilong | Lose | W+R | 7.5 | 3262 | -61 | 
 | 2012-06-09 | 第14回中国囲碁甲級リーグ第5節 | Tong Mengcheng | Wang Xi | Lose | W+R | 7.5 | 3323 | 56 | 
 | 2012-05-30 | 第14回中国囲碁甲級リーグ第4節 | Zhou Ruiyang | Tong Mengcheng | Win | W+0.5 | 7.5 | 3267 | -97 | 

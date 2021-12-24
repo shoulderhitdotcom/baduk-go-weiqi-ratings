@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Tan Xiao | Liao Yuanhe | Lose | W+R | 7.5 | 3384 | -44 | 
+| 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Tan Xiao | Ding Hao | Lose | W+R | 7.5 | 3428 | -78 | 
 | 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Li Xuanhao | Tan Xiao | Lose | B+R | 7.5 | 3506 | -1 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Tan Xiao | Gu Zihao | Win | B+R | 7.5 | 3507 | 8 | 
 | 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tuo Jiaxi | Tan Xiao | Win | W+R | 7.5 | 3499 | -11 | 
@@ -221,13 +223,13 @@
 | 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Li Weiqing | Tan Xiao | Win | W+R | 7.5 | 3397 | 0 | 
 | 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Tan Xiao | Lian Xiao | Lose | W+R | 7.5 | 3397 | 36 | 
 | 2017-04-18 | 第19期中国阿含桐山杯本選決勝 | Tan Xiao |  | Win | B+1.5 | 7.5 | 3361 | 1 | 
-| 2017-04-17 | 第19期中国阿含桐山杯本選1回戦 | Tan Xiao | Chang Hao | Win | B+R | 7.5 | 3360 | 0 | 
-| 2017-04-17 | 第19期中国阿含桐山杯本選2回戦 | Tan Xiao | Ding Hao | Win | B+R | 7.5 | 3360 | 10 | 
+| 2017-04-17 | 第19期中国阿含桐山杯本選2回戦 | Tan Xiao | Ding Hao | Win | B+R | 7.5 | 3360 | 0 | 
+| 2017-04-17 | 第19期中国阿含桐山杯本選1回戦 | Tan Xiao | Chang Hao | Win | B+R | 7.5 | 3360 | 10 | 
 | 2017-04-07 | 第22期LG杯世界予選準決勝 | Tan Xiao | Kim Junghyun | Lose | W+0.5 | 6.5 | 3350 | 119 | 
 | 2017-03-12 | 第16回西南棋王戦準決勝 | Tan Xiao | Ke Jie | Win | B+R | 7.5 | 3231 | 0 | 
 | 2017-03-12 | 第16回西南棋王戦決勝 | Yang Dingxin | Tan Xiao | Lose | B+R | 7.5 | 3231 | -1 | 
-| 2017-03-11 | 第16回西南棋王戦1回戦 | Gu Lingyi | Tan Xiao | Win | W+4.5 | 7.5 | 3232 | 0 | 
-| 2017-03-11 | 第16回西南棋王戦2回戦 | Tan Xiao | Li Xiangyu | Win | B+R | 7.5 | 3232 | 53 | 
+| 2017-03-11 | 第16回西南棋王戦2回戦 | Tan Xiao | Li Xiangyu | Win | B+R | 7.5 | 3232 | 0 | 
+| 2017-03-11 | 第16回西南棋王戦1回戦 | Gu Lingyi | Tan Xiao | Win | W+4.5 | 7.5 | 3232 | 53 | 
 | 2017-01-14 | 第31期中国囲碁天元戦1回戦 | Zhang Tao | Tan Xiao | Lose | B+R | 7.5 | 3179 | -5 | 
 | 2017-01-09 | 嫘祖杯第29期中国名人戦8強戦 | Zhou Ruiyang | Tan Xiao | Lose | B+R | 7.5 | 3184 | -2 | 
 | 2017-01-03 | Alphago Online Series on Tygem and Fox 47 |  | Tan Xiao | Lose | B+R | 6.5 | 3186 | 4 | 
@@ -483,8 +485,8 @@
 | 2011-11-05 | 第13回中国囲碁甲級リーグ第19節 | Chen Yaoye | Tan Xiao | Lose | B+R | 7.5 | 3294 | -15 | 
 | 2011-10-29 | 第13回中国囲碁甲級リーグ第18節 | Tan Xiao | Xie He | Lose | W+0.5 | 7.5 | 3309 | 26 | 
 | 2011-10-18 | 第13回中国囲碁甲級リーグ第17節 | Wang Haoyang | Tan Xiao | Win | W+R | 7.5 | 3283 | -10 | 
-| 2011-10-16 | 第7期威孚房開杯棋王戦決勝 | Tan Xiao | Wang Lei (s) | Win | B+3.5 | 7.5 | 3293 | 0 | 
-| 2011-10-16 | 第7期威孚房開杯棋王戦準決勝 | Tan Xiao | Zhou Heyang | Win | B+R | 7.5 | 3293 | 15 | 
+| 2011-10-16 | 第7期威孚房開杯棋王戦準決勝 | Tan Xiao | Zhou Heyang | Win | B+R | 7.5 | 3293 | 0 | 
+| 2011-10-16 | 第7期威孚房開杯棋王戦決勝 | Tan Xiao | Wang Lei (s) | Win | B+3.5 | 7.5 | 3293 | 15 | 
 | 2011-10-15 | 第7期威孚房開杯棋王戦3回戦 | Hu Yaoyu | Tan Xiao | Win | W+R | 7.5 | 3278 | 0 | 
 | 2011-10-14 | 第13回農心辛ラーメン杯世界囲碁最強戦第4戦 | Ahn Kukhyun | Tan Xiao | Win | W+R | 6.5 | 3278 | -16 | 
 | 2011-10-08 | 第13回中国囲碁甲級リーグ第16節 | Tan Xiao | Jiang Weijie | Win | B+R | 7.5 | 3294 | 28 | 

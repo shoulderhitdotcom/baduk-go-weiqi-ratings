@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Tuo Jiaxi | Huang Yunsong | Win | B+R | 7.5 | 3418 | -32 | 
 | 2021-11-23 | 第22期阿含・桐山杯中国早碁オープン戦2回戦 | Tuo Jiaxi | Gu Zihao | Lose | W+R | 7.5 | 3450 | -68 | 
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Tuo Jiaxi | Lian Xiao | Win | B+R | 7.5 | 3518 | 43 | 
 | 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tuo Jiaxi | Tan Xiao | Lose | W+R | 7.5 | 3475 | -28 | 
@@ -64,8 +65,8 @@
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Tuo Jiaxi | Xie Ke | Win | B+3¾ | 7.5 | 3655 | 25 | 
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Ding Hao | Tuo Jiaxi | Lose | B+R | 7.5 | 3630 | -19 | 
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Zhang Tao | Tuo Jiaxi | Win | W+R | 7.5 | 3649 | 139 | 
-| 2020-06-15 | 第19回西南棋王戦決勝 | Mi Yuting | Tuo Jiaxi | Lose | B+3¾ | 7.5 | 3510 | 0 | 
-| 2020-06-15 | 第19回西南棋王戦準決勝 | Tuo Jiaxi | Liu Yuhang | Win | B+¾ | 7.5 | 3510 | -8 | 
+| 2020-06-15 | 第19回西南棋王戦準決勝 | Tuo Jiaxi | Liu Yuhang | Win | B+¾ | 7.5 | 3510 | 0 | 
+| 2020-06-15 | 第19回西南棋王戦決勝 | Mi Yuting | Tuo Jiaxi | Lose | B+3¾ | 7.5 | 3510 | -8 | 
 | 2020-06-14 | 第19回西南棋王戦2回戦 | Shi Yue | Tuo Jiaxi | Win | W+R | 7.5 | 3518 | 0 | 
 | 2020-06-14 | 第19回西南棋王戦1回戦 | Ma Yichao | Tuo Jiaxi | Win | W+R | 7.5 | 3518 | -21 | 
 | 2020-05-26 | 第5期洛陽白雲山杯中国棋聖戦16強戦 | Jiang Weijie | Tuo Jiaxi | Lose | B+R | 7.5 | 3539 | 81 | 
@@ -94,8 +95,8 @@
 | 2019-09-12 | 第21期阿含・桐山杯中国早碁オープン戦決勝 | Tuo Jiaxi | Fan Tingyu | Lose | W+R | 7.5 | 3299 | -43 | 
 | 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Tuo Jiaxi | Wang Zejin | Win | B+R | 7.5 | 3342 | 13 | 
 | 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Chen Zijian | Tuo Jiaxi | Lose | B+R | 7.5 | 3329 | -28 | 
-| 2019-08-15 | 第9回世界囲棋巓峰対決決勝 | Jiang Weijie | Tuo Jiaxi | Win | W+R | 7.5 | 3357 | 0 | 
-| 2019-08-15 | 第9回世界囲棋巓峰対決準決勝 | Park Junghwan | Tuo Jiaxi | Win | W+R | 7.5 | 3357 | 27 | 
+| 2019-08-15 | 第9回世界囲棋巓峰対決準決勝 | Park Junghwan | Tuo Jiaxi | Win | W+R | 7.5 | 3357 | 0 | 
+| 2019-08-15 | 第9回世界囲棋巓峰対決決勝 | Jiang Weijie | Tuo Jiaxi | Win | W+R | 7.5 | 3357 | 27 | 
 | 2019-08-14 | 第9回世界囲棋巓峰対決8強戦 | Tuo Jiaxi | Park Yeonghun | Win | B+1¾ | 7.5 | 3330 | -44 | 
 | 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Tuo Jiaxi | Wang Xinghao | Lose | W+R | 7.5 | 3374 | -40 | 
 | 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Liao Yuanhe | Tuo Jiaxi | Win | W+R | 7.5 | 3414 | -7 | 
@@ -156,8 +157,8 @@
 | 2018-04-25 | 第20回中国囲碁甲級リーグ第4節中信-江西 | Xu Jiayang | Tuo Jiaxi | Lose | B+R | 7.5 | 3403 | 5 | 
 | 2018-04-18 | 第9期中国竜星戦Bブロック第8局 | Yang Dingxin | Tuo Jiaxi | Win | W+R | 7.5 | 3398 | -3 | 
 | 2018-04-10 | 2018CCTV杯中国囲棋電視快棋戦3回戦 | Xie Erhao | Tuo Jiaxi | Lose | B+R | 7.5 | 3401 | -9 | 
-| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Tuo Jiaxi | Li Qincheng | Win | B+R | 7.5 | 3410 | 0 | 
-| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦2回戦 | Tuo Jiaxi | Jiang Weijie | Win | B+R | 7.5 | 3410 | 21 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦2回戦 | Tuo Jiaxi | Jiang Weijie | Win | B+R | 7.5 | 3410 | 0 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Tuo Jiaxi | Li Qincheng | Win | B+R | 7.5 | 3410 | 21 | 
 | 2018-04-07 | 第23回LG杯予選決勝 | Tuo Jiaxi | Choi Cheolhan | Lose | W+R | 6.5 | 3389 | 22 | 
 | 2018-03-30 | 第20回中国囲碁甲級リーグ第3節成都-中信 | Gu Lingyi | Tuo Jiaxi | Win | W+1¼ | 7.5 | 3367 | -21 | 
 | 2018-03-28 | 第20回中国囲碁甲級リーグ第2節中信-重慶 | Tuo Jiaxi | Yang Dingxin | Lose | W+R | 7.5 | 3388 | -37 | 
@@ -415,10 +416,10 @@
 | 2013-06-12 | 第18回LG杯朝鮮日報棋王戦2回戦 | Tuo Jiaxi | Lee Sedol | Win | B+R | 6.5 | 3396 | 1 | 
 | 2013-06-10 | 第18回LG杯朝鮮日報棋王戦1回戦 | Tuo Jiaxi | Lee Changho | Win | B+R | 6.5 | 3395 | -4 | 
 | 2013-06-07 | 第26期中国囲碁名人戦2回戦 | Liu Xing | Tuo Jiaxi | Win | W+R | 7.5 | 3399 | -4 | 
-| 2013-06-06 | 第15期阿含・桐山杯中国早碁オープン戦予選 |  | Tuo Jiaxi | Win | W+R | 7.5 | 3403 | 0 | 
-| 2013-06-06 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Tuo Jiaxi | Qiu Jun | Lose | W+R | 7.5 | 3403 | -7 | 
-| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 |  | Tuo Jiaxi | Win | W+R | 7.5 | 3410 | 0 | 
-| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Tuo Jiaxi | Xia Chenkun | Win | B+R | 7.5 | 3410 | -28 | 
+| 2013-06-06 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Tuo Jiaxi | Qiu Jun | Lose | W+R | 7.5 | 3403 | 0 | 
+| 2013-06-06 | 第15期阿含・桐山杯中国早碁オープン戦予選 |  | Tuo Jiaxi | Win | W+R | 7.5 | 3403 | -7 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Tuo Jiaxi | Xia Chenkun | Win | B+R | 7.5 | 3410 | 0 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 |  | Tuo Jiaxi | Win | W+R | 7.5 | 3410 | -28 | 
 | 2013-06-02 | 第15回中国囲碁甲級リーグ第7節 | Tao Xinran | Tuo Jiaxi | Win | W+R | 7.5 | 3438 | 9 | 
 | 2013-05-31 | 第10期倡棋杯中国プロ囲碁選手権戦3回戦 | Tuo Jiaxi | Lian Xiao | Lose | W+R | 7.5 | 3429 | 65 | 
 | 2013-05-29 | 第10期倡棋杯中国プロ囲碁選手権戦2回戦 | Mi Yuting | Tuo Jiaxi | Win | W+R | 7.5 | 3364 | 8 | 
@@ -483,8 +484,8 @@
 | 2012-07-24 | 第14期阿含・桐山杯中国早碁オープン戦1回戦 | Tuo Jiaxi | Xie He | Lose | W+4.5 | 7.5 | 3583 | 13 | 
 | 2012-07-15 | 第14回中国囲碁甲級リーグ第11節 | Tuo Jiaxi | Wang Lei (s) | Win | B+R | 7.5 | 3570 | 5 | 
 | 2012-07-13 | 第14回中国囲碁甲級リーグ第10節 | Mi Yuting | Tuo Jiaxi | Lose | B+3.5 | 7.5 | 3565 | -35 | 
-| 2012-07-11 | 2012CCTV杯中国囲棋電視快棋戦決勝 | Tuo Jiaxi | Lian Xiao | Win | B+R | 7.5 | 3600 | 0 | 
-| 2012-07-11 | 2012CCTV杯中国囲棋電視快棋戦準決勝 | Tan Xiao | Tuo Jiaxi | Win | W+R | 7.5 | 3600 | 39 | 
+| 2012-07-11 | 2012CCTV杯中国囲棋電視快棋戦準決勝 | Tan Xiao | Tuo Jiaxi | Win | W+R | 7.5 | 3600 | 0 | 
+| 2012-07-11 | 2012CCTV杯中国囲棋電視快棋戦決勝 | Tuo Jiaxi | Lian Xiao | Win | B+R | 7.5 | 3600 | 39 | 
 | 2012-07-10 | 2012CCTV杯中国囲棋電視快棋戦4回戦 | Peng Liyao | Tuo Jiaxi | Win | W+R | 7.5 | 3561 | 0 | 
 | 2012-07-10 | 2012CCTV杯中国囲棋電視快棋戦3回戦 | Tuo Jiaxi | Li Xuanhao | Win | B+R | 7.5 | 3561 | 6 | 
 | 2012-07-09 | 2012CCTV杯中国囲棋電視快棋戦2回戦 | Tuo Jiaxi | Chang Hao | Win | B+R | 7.5 | 3555 | 0 | 
@@ -493,10 +494,10 @@
 | 2012-07-05 | 第4回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Liu Xing | Tuo Jiaxi | Win | W+R | 7.5 | 3541 | 31 | 
 | 2012-07-03 | 第4回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Gu Li | Tuo Jiaxi | Win | W+R | 7.5 | 3510 | 24 | 
 | 2012-06-30 | 第14回中国囲碁甲級リーグ第8節 |  | Tuo Jiaxi | Win | W+R | 7.5 | 3486 | 48 | 
-| 2012-06-28 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Tuo Jiaxi |  | Win | B+R | 7.5 | 3438 | 0 | 
-| 2012-06-28 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Mao Ruilong | Tuo Jiaxi | Win | W+R | 7.5 | 3438 | 16 | 
-| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Guo Yuzheng | Tuo Jiaxi | Win | W+R | 7.5 | 3422 | 0 | 
-| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Tuo Jiaxi | Liao Xingwen | Win | B+R | 7.5 | 3422 | -7 | 
+| 2012-06-28 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Mao Ruilong | Tuo Jiaxi | Win | W+R | 7.5 | 3438 | 0 | 
+| 2012-06-28 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Tuo Jiaxi |  | Win | B+R | 7.5 | 3438 | 16 | 
+| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Tuo Jiaxi | Liao Xingwen | Win | B+R | 7.5 | 3422 | 0 | 
+| 2012-06-27 | 第14期阿含・桐山杯中国早碁オープン戦予選 | Guo Yuzheng | Tuo Jiaxi | Win | W+R | 7.5 | 3422 | -7 | 
 | 2012-06-23 | 第14回中国囲碁甲級リーグ第7節 | Tuo Jiaxi | Li Xuanhao | Win | B+3.5 | 7.5 | 3429 | -24 | 
 | 2012-06-14 | 第14回中国囲碁甲級リーグ第6節 | Zhang Qiang | Tuo Jiaxi | Win | W+R | 7.5 | 3453 | -47 | 
 | 2012-06-09 | 第14回中国囲碁甲級リーグ第5節 | Tuo Jiaxi | Peng Quan | Win | B+R | 7.5 | 3500 | 33 | 

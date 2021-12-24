@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-24 | 2021年関西棋院台湾棋院対抗戦 | Taguchi Misei | Yang Zixuan | Win | W+5.5 | 6.5 | 2760 | 23 | 
+| 2021-11-30 | 第2回UMC聯電杯早碁争覇戦4回戦  | Zhou Junxun | Yang Zixuan | Lose | B+R | 6.5 | 2737 | 4 | 
 | 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦 | Chen Shiyuan | Yang Zixuan | Win | W+3.5 | 6.5 | 2733 | 4 | 
 | 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦  | Yang Zixuan | Zhou Yinnan | Win | B+R | 6.5 | 2729 | -2 | 
 | 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Yang Zixuan | Chen Shiyuan | Lose | W+R | 6.5 | 2731 | 8 | 
@@ -20,8 +22,8 @@
 | 2021-09-05 | 第9期中環碁聖戦 |  | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 
 | 2021-09-03 | 第26回三星火災杯台湾予選 | Yang Zixuan | Chen Shiyuan | Lose | W+R | 6.5 | missing | 0 | 
 | 2021-09-02 | 第14期棋王戦（台湾）予選 | Chen Yida | Yang Zixuan | Win | W+9.5 | 6.5 | missing | 0 | 
-| 2021-09-01 | 第26回三星火災杯台湾予選 | Yang Zixuan |  | Win | B+T | 6.5 | missing | 0 | 
 | 2021-09-01 | 第26回三星火災杯台湾予選 | Yang Zixuan | Su Shengfang | Win | B+R | 6.5 | missing | 0 | 
+| 2021-09-01 | 第26回三星火災杯台湾予選 | Yang Zixuan |  | Win | B+T | 6.5 | missing | 0 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 | Chen Shiyuan | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 
 | 2021-08-25 | 第7回健喬杯女子囲碁最強戦敗部3回戦 | Yang Zixuan | Yu Lijun | Lose | W+R | 6.5 | missing | -2772 | 
 | 2021-08-23 | 第7回健喬杯女子囲碁最強戦敗部2回戦 | Yang Zixuan | Zhang Kaixin | Win | B+3.5 | 6.5 | 2772 | 2772 | 
@@ -37,12 +39,12 @@
 | 2021-04-28 | 第8回グロービス杯台湾予選 |  | Yang Zixuan | Win | W+R | 6.5 | missing | 0 | 
 | 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第2戦 | Yang Zixuan | Nyu Eiko | Lose | W+1.5 | 6.5 | missing | 0 | 
 | 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第1戦 | Yang Zixuan | Nakamura Sumire | Lose | W+R | 6.5 | missing | 0 | 
-| 2021-04-15 | 第8回グロービス杯台湾予選 | Lin Yuting | Yang Zixuan | Win | W+R | 6.5 | missing | 0 | 
 | 2021-04-15 | 第8回グロービス杯台湾予選 | Yang Zixuan | Xu Jingen | Win | B+R | 6.5 | missing | 0 | 
-| 2021-04-12 | 第11期友士杯十段戦予選 | Yang Bowei | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 
+| 2021-04-15 | 第8回グロービス杯台湾予選 | Lin Yuting | Yang Zixuan | Win | W+R | 6.5 | missing | 0 | 
 | 2021-04-12 | 第11期友士杯十段戦予選 | Chen Feng | Yang Zixuan | Win | W+2.5 | 6.5 | missing | 0 | 
-| 2021-04-01 | 第11期友士杯十段戦予選 | Yang Zixuan | Lin Xinwei | Lose | W+R | 6.5 | missing | 0 | 
+| 2021-04-12 | 第11期友士杯十段戦予選 | Yang Bowei | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 
 | 2021-04-01 | 第11期友士杯十段戦予選 | Yang Zixuan |  | Win | B+R | 6.5 | missing | 0 | 
+| 2021-04-01 | 第11期友士杯十段戦予選 | Yang Zixuan | Lin Xinwei | Lose | W+R | 6.5 | missing | 0 | 
 | 2021-03-19 | 第17期国手戦（台湾） | Yang Zixuan | Huang Xiangren | Lose | W+R | 6.5 | missing | 0 | 
 | 2021-03-11 | 第2期名人冠軍戦2回戦  | Yang Zixuan | Lin Junyan | Lose | W+R | 6.5 | missing | 0 | 
 | 2021-03-08 | 第2期名人冠軍戦1回戦 |  | Yang Zixuan | Win | W+R | 6.5 | missing | 0 | 
@@ -70,8 +72,8 @@
 | 2020-09-14 | 第13期棋王戦（台湾）予選 | Yang Zixuan |  | Lose | W+R | 6.5 | missing | 0 | 
 | 2020-09-06 | 第8期中環碁聖戦1回戦 | Lin Xiuping | Yang Zixuan | Win | W+R | 6.5 | missing | 0 | 
 | 2020-09-03 | 第13期棋王戦（台湾）予選 | Yang Bowei | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 
-| 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 | Yang Zixuan | Chen Qirui | Lose | W+R | 6.5 | missing | 0 | 
 | 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 |  | Yang Zixuan | Win | W+R | 6.5 | missing | 0 | 
+| 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 | Yang Zixuan | Chen Qirui | Lose | W+R | 6.5 | missing | 0 | 
 | 2020-08-17 | 第6回健喬杯女子囲碁最強戦敗部3回戦  | Hei Jiajia | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 
 | 2020-08-14 | 第6回健喬杯女子囲碁最強戦敗部2回戦 | Yang Zixuan | Bai Xinhui | Win | B+R | 6.5 | missing | 0 | 
 | 2020-08-12 | 第6回健喬杯女子囲碁最強戦敗部1回戦 | Yang Zixuan | Liu Yifang | Win | B+R | 6.5 | missing | 0 | 
@@ -82,10 +84,10 @@
 | 2020-06-11 | 2020新人王戦（台湾）リーグB | Lin Shimin | Yang Zixuan | Win | W+R | 7.5 | missing | 0 | 
 | 2020-06-11 | 2020新人王戦（台湾）リーグB | Li Wei | Yang Zixuan | Win | W+R | 7.5 | missing | 0 | 
 | 2020-06-09 | 第1期聯電杯プロ囲碁戦予選勝部1回戦 | Lai Junfu | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 
-| 2020-06-08 | 2020新人王戦（台湾）リーグB | Lin Shixun | Yang Zixuan | Lose | B+R | 7.5 | missing | 0 | 
 | 2020-06-08 | 2020新人王戦（台湾）リーグB | Lai Junfu | Yang Zixuan | Lose | B+R | 7.5 | missing | 0 | 
-| 2020-06-04 | 2020新人王戦（台湾）リーグB | Yang Zixuan | Yu Lijun | Win | B+R | 7.5 | missing | 0 | 
+| 2020-06-08 | 2020新人王戦（台湾）リーグB | Lin Shixun | Yang Zixuan | Lose | B+R | 7.5 | missing | 0 | 
 | 2020-06-04 | 2020新人王戦（台湾）リーグB | Huang Shiyuan | Yang Zixuan | Lose | B+T | 7.5 | missing | 0 | 
+| 2020-06-04 | 2020新人王戦（台湾）リーグB | Yang Zixuan | Yu Lijun | Win | B+R | 7.5 | missing | 0 | 
 | 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Lin Xinwei | Yang Zixuan | Win | W+R | 6.5 | missing | 0 | 
 | 2020-05-25 | 2020新人王戦（台湾）予選勝部準決勝 | Yang Zixuan |  | Lose | W+R | 7.5 | missing | 0 | 
 | 2020-05-25 | 2020新人王戦（台湾）予選勝部1回戦 | Yang Zixuan |  | Win | B+R | 7.5 | missing | 0 | 
@@ -113,8 +115,8 @@
 | 2020-01-13 | 第19期天元戦（台湾）予選 | Yang Zixuan |  | Lose | W+R | 6.5 | missing | 0 | 
 | 2020-01-02 | 第9回応氏杯世界選手権台湾代表選抜戦 | Yang Zixuan | Li Wei | Lose | W+R | 7.5 | missing | 0 | 
 | 2019-12-30 | 第9回天台山体彩杯世界女子囲碁団体戦台湾代表選抜戦 | Dang Xiyun | Yang Zixuan | Win | W+R | 7.5 | missing | 0 | 
-| 2019-12-27 | 第9回天台山体彩杯世界女子囲碁団体戦台湾代表選抜戦 | Yu Lijun | Yang Zixuan | Win | W+R | 7.5 | missing | 0 | 
 | 2019-12-27 | 第9回天台山体彩杯世界女子囲碁団体戦台湾代表選抜戦 | Yang Zixuan | Zhang Kaixin | Win | B+R | 7.5 | missing | 0 | 
+| 2019-12-27 | 第9回天台山体彩杯世界女子囲碁団体戦台湾代表選抜戦 | Yu Lijun | Yang Zixuan | Win | W+R | 7.5 | missing | 0 | 
 | 2019-12-20 | 第13回春蘭杯台湾予選 | Chen Qirui | Yang Zixuan | Lose | B+R | 7.5 | missing | 0 | 
 | 2019-12-19 | 第3回呉清源杯世界女子囲碁選手権台湾代表選抜戦決勝 |  | Yang Zixuan | Win | W+R | 7.5 | missing | 0 | 
 | 2019-12-16 | 第3回呉清源杯世界女子囲碁選手権台湾代表選抜戦 | Yang Zixuan | Bai Xinhui | Win | B+R | 7.5 | missing | 0 | 
@@ -124,15 +126,15 @@
 | 2019-11-12 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第3戦 | Yang Zixuan | Oh Jeonga | Lose | W+R | 6.5 | missing | 0 | 
 | 2019-11-11 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第2戦 | Yang Zixuan |  | Lose | W+2.5 | 6.5 | missing | 0 | 
 | 2019-11-08 | 2019新人王戦（台湾）リーグB | Yang Zixuan | Xu Jingen | Lose | W+R | 7.5 | missing | 0 | 
-| 2019-11-06 | 2019新人王戦（台湾）リーグB | Lin Shixun | Yang Zixuan | Lose | B+R | 7.5 | missing | 0 | 
 | 2019-11-06 | 2019新人王戦（台湾）リーグB |  | Yang Zixuan | Win | W+R | 7.5 | missing | 0 | 
+| 2019-11-06 | 2019新人王戦（台湾）リーグB | Lin Shixun | Yang Zixuan | Lose | B+R | 7.5 | missing | 0 | 
 | 2019-10-30 | 第10回穹窿山兵聖杯世界女子囲碁選手権1回戦 | Lu Minquan | Yang Zixuan | Lose | B+R | 7.5 | missing | 0 | 
 | 2019-10-25 | 2019新人王戦（台湾）リーグB | Huang Shiyuan | Yang Zixuan | Win | W+1¼ | 7.5 | missing | 0 | 
 | 2019-10-25 | 2019新人王戦（台湾）リーグB | Lai Junfu | Yang Zixuan | Lose | B+R | 7.5 | missing | 0 | 
 | 2019-10-23 | 2019新人王戦（台湾）リーグB | Yang Zixuan | Chen Qirui | Lose | W+R | 7.5 | missing | 0 | 
 | 2019-10-23 | 2019新人王戦（台湾）リーグB | Yang Zixuan | Lin Shimin | Lose | W+R | 7.5 | missing | 0 | 
-| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Ueno Asami | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 
 | 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yang Zixuan | Yu Zhiying | Lose | W+R | 6.5 | missing | 0 | 
+| 2019-10-15 | 第6回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Ueno Asami | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第2戦 | Fujisawa Rina | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yang Zixuan | Choi Jeong | Win | B+R | 6.5 | missing | 0 | 
 | 2019-10-09 | 2019新人王戦（台湾）予選勝部決勝 | Yang Zixuan | Yu Lijun | Lose | W+R | 7.5 | missing | 0 | 
@@ -160,11 +162,11 @@
 | 2019-04-08 | 第9期友士杯十段戦予選勝部1回戦 | Yang Zixuan | Xia Daming | Win | B+R | 6.5 | missing | 0 | 
 | 2019-03-07 | 第11回海峰杯プロ囲碁戦32強戦 | Lu Yiquan | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 
 | 2019-03-06 | 第7回河燦錫国手杯韓中日台英才戦台湾代表選抜戦 | Yang Zixuan | Lai Junfu | Lose | W+R | 6.5 | missing | 0 | 
-| 2019-03-05 | 第7回河燦錫国手杯韓中日台英才戦台湾代表選抜戦 |  | Yang Zixuan | Win | W+0.5 | 6.5 | missing | 0 | 
 | 2019-03-05 | 第7回河燦錫国手杯韓中日台英才戦台湾代表選抜戦 |  | Yang Zixuan | Win | W+R | 6.5 | missing | 0 | 
+| 2019-03-05 | 第7回河燦錫国手杯韓中日台英才戦台湾代表選抜戦 |  | Yang Zixuan | Win | W+0.5 | 6.5 | missing | 0 | 
 | 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 |  | Yang Zixuan | Win | W+R | 6.5 | missing | 0 | 
-| 2019-02-27 | 第6回グロービス杯台湾予選 | Yang Zixuan | Lai Junfu | Lose | W+R | 6.5 | missing | 0 | 
 | 2019-02-27 | 第6回グロービス杯台湾予選 | Xu Haohong | Yang Zixuan | Win | W+R | 6.5 | missing | 0 | 
+| 2019-02-27 | 第6回グロービス杯台湾予選 | Yang Zixuan | Lai Junfu | Lose | W+R | 6.5 | missing | 0 | 
 | 2019-02-25 | 第6回グロービス杯台湾予選 |  | Yang Zixuan | Win | W+R | 6.5 | missing | 0 | 
 | 2019-01-22 | 第18期天元戦（台湾）予選3回戦 | Yang Zixuan |  | Lose | W+R | 6.5 | missing | 0 | 
 | 2019-01-21 | 2019台湾精鋭vs日本精鋭交流戦第5戦 |  | Yang Zixuan | Win | W+R | 6.5 | missing | 0 | 
@@ -172,30 +174,30 @@
 | 2019-01-18 | 2019台湾精鋭vs日本精鋭交流戦第1戦 | Yang Zixuan |  | Win | B+R | 6.5 | missing | 0 | 
 | 2019-01-15 | 第18期天元戦（台湾）予選2回戦 | Yang Zixuan | Zhang Kaixin | Win | B+R | 6.5 | missing | 0 | 
 | 2018-11-30 | 2018年新人王戦（台湾）リーグB | Yang Zixuan | Chen Qirui | Lose | W+R | 7.5 | missing | 0 | 
-| 2018-11-28 | 2018年新人王戦（台湾）リーグB | Yu Lijun | Yang Zixuan | Win | W+R | 7.5 | missing | 0 | 
 | 2018-11-28 | 2018年新人王戦（台湾）リーグB |  | Yang Zixuan | Lose | B+R | 7.5 | missing | 0 | 
+| 2018-11-28 | 2018年新人王戦（台湾）リーグB | Yu Lijun | Yang Zixuan | Win | W+R | 7.5 | missing | 0 | 
 | 2018-11-23 | 2018年新人王戦（台湾）リーグB | Yang Zixuan | Li Wei | Lose | W+R | 7.5 | missing | 0 | 
 | 2018-11-23 | 2018年新人王戦（台湾）リーグB | Lin Shimin | Yang Zixuan | Win | W+R | 7.5 | missing | 0 | 
-| 2018-11-22 | 2018年新人王戦（台湾）リーグB |  | Yang Zixuan | Lose | B+R | 7.5 | missing | 0 | 
 | 2018-11-22 | 2018年新人王戦（台湾）リーグB | Yang Bowei | Yang Zixuan | Lose | B+R | 7.5 | missing | 0 | 
+| 2018-11-22 | 2018年新人王戦（台湾）リーグB |  | Yang Zixuan | Lose | B+R | 7.5 | missing | 0 | 
 | 2018-11-14 | 2018年台湾精鋭vs韓国交流戦第5戦 | Yang Zixuan |  | Win | B+2.5 | 6.5 | missing | 0 | 
 | 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第3戦 | Yang Zixuan |  | Lose | W+R | 6.5 | missing | 0 | 
 | 2018-11-12 | 2018年台湾精鋭vs韓国交流戦第2戦 | Moon Minjong | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 
 | 2018-11-01 | 第9回穹窿山兵聖杯世界女子囲碁選手権2回戦 | Oh Jeonga | Yang Zixuan | Lose | B+R | 7.5 | missing | 0 | 
 | 2018-10-31 | 第9回穹窿山兵聖杯世界女子囲碁選手権1回戦  | Gao Xing | Yang Zixuan | Win | W+R | 7.5 | missing | 0 | 
 | 2018-10-24 | 第1回IWMC台湾代表女子選抜戦1回戦 | Yang Zixuan | Dang Xiyun | Lose | W+R | 7.5 | missing | 0 | 
-| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Yang Zixuan | Fujisawa Rina | Win | B+R | 6.5 | missing | 0 | 
 | 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦第3戦 | Choi Jeong | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 
-| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yu Zhiying | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 
+| 2018-10-15 | 第5回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Yang Zixuan | Fujisawa Rina | Win | B+R | 6.5 | missing | 0 | 
 | 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第2戦 | Yang Zixuan | Fujisawa Rina | Lose | W+0.5 | 6.5 | missing | 0 | 
+| 2018-10-14 | 第5回おかげ杯国際精鋭囲碁対抗戦第1戦 | Yu Zhiying | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 
 | 2018-10-09 | 第14期国手戦（台湾）16強戦 | Yang Zixuan | Lin Shixun | Lose | W+R | 6.5 | missing | 0 | 
 | 2018-10-02 | 第14期国手戦（台湾）2回戦 |  | Yang Zixuan | Win | W+R | 6.5 | missing | 0 | 
 | 2018-09-30 | 第9回穹窿山兵聖杯台湾代表決定戦 | Zhang Kaixin | Yang Zixuan | Win | W+1¼ | 7.5 | missing | 0 | 
 | 2018-09-09 | 第6期中環碁聖戦1回戦下半区 | Yang Zixuan | Bai Xinhui | Lose | W+R | 6.5 | missing | 0 | 
 | 2018-08-13 | 第4回女子囲碁最強戦敗部準決勝  | Wang Jingyi | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 
 | 2018-08-11 | 第4回女子囲碁最強戦勝部決勝  | Yang Zixuan | Bai Xinhui | Lose | W+R | 6.5 | missing | 0 | 
-| 2018-08-10 | 第4回女子囲碁最強戦勝部2回戦 | Dang Xiyun | Yang Zixuan | Win | W+R | 6.5 | missing | 0 | 
 | 2018-08-10 | 第4回女子囲碁最強戦勝部準決勝  | Yang Zixuan | Hei Jiajia | Win | B+1.5 | 6.5 | missing | 0 | 
+| 2018-08-10 | 第4回女子囲碁最強戦勝部2回戦 | Dang Xiyun | Yang Zixuan | Win | W+R | 6.5 | missing | 0 | 
 | 2018-08-09 | 第4回女子囲碁最強戦勝部1回戦 | Yang Zixuan |  | Win | B+R | 6.5 | missing | 0 | 
 | 2018-05-12 | 第7回天台山森然楊帆杯世界女子囲碁団体選手権第3戦 | Oh Yujin | Yang Zixuan | Lose | B+R | 7.5 | missing | 0 | 
 | 2018-05-11 | 第7回天台山森然楊帆杯世界女子囲碁団体選手権第2戦 | Yang Zixuan | Rui Naiwei | Lose | W+R | 7.5 | missing | 0 | 
@@ -229,10 +231,10 @@
 | 2017-02-23 | 第十四期倡棋盃台湾代表選抜戦決勝第二局 | Wang Yuanjun | Yang Zixuan | Lose | B+R | 7.5 | missing | 0 | 
 | 2017-02-19 | 第十四期倡棋盃台湾代表選抜戦初戦第二局 | Yang Zixuan | Zhang Zhehao | Win | B+R | 7.5 | missing | 0 | 
 | 2017-02-10 | 第22期LG盃台湾代表選抜戦初戦第一局 | Yang Zixuan | Lai Junfu | Lose | W+R | 6.5 | missing | 0 | 
-| 2017-01-21 | 台湾精鋭日本精鋭交流戦5回戦 | Yang Zixuan | Kuwabara Shun | Lose | W+R | 6.5 | missing | 0 | 
 | 2017-01-21 | 台湾精鋭日本精鋭交流戦6回戦 | Hirose Yuichi | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 
-| 2017-01-19 | 台湾精鋭日本精鋭交流戦1回戦 | Yang Zixuan | Kaneko Maki | Win | B+R | 6.5 | missing | 0 | 
+| 2017-01-21 | 台湾精鋭日本精鋭交流戦5回戦 | Yang Zixuan | Kuwabara Shun | Lose | W+R | 6.5 | missing | 0 | 
 | 2017-01-19 | 台湾精鋭日本精鋭交流戦2回戦 | Ueno Asami | Yang Zixuan | Lose | B+R | 6.5 | missing | 0 | 
+| 2017-01-19 | 台湾精鋭日本精鋭交流戦1回戦 | Yang Zixuan | Kaneko Maki | Win | B+R | 6.5 | missing | 0 | 
 | 2017-01-18 | 第三期MLILIY夢百合杯台湾代表選抜戦 初戦第一局 | Yang Zixuan |  | Lose | w+r | 7.5 | missing | 0 | 
 | 2017-01-10 | 第十六期天元戦初戦第二回戦 | Yang Zixuan | Lin Xiuping | Lose | W+R | 6.5 | missing | 0 | 
 | 2016-09-25 | 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Yang Zixuan | Kim Cheayoung | Lose | W+R | 6.5 | missing | 0 | 

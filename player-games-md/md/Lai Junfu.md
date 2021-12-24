@@ -7,6 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-24 | 2021年関西棋院台湾棋院対抗戦 | Murakawa Daisuke | Lai Junfu | Win | W+R | 6.5 | 3205 | 43 | 
+| 2021-12-04 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦 | Lai Junfu | Kono Rin | Lose | W+1.5 | 6.5 | 3162 | 0 | 
+| 2021-12-04 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦 | Lai Junfu | Onishi Ryuhei | Win | B+1.5 | 6.5 | 3162 | 5 | 
 | 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦 | Lai Junfu | Yang Bowei | Lose | W+R | 6.5 | 3157 | -30 | 
 | 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Lin Yuxiang | Lai Junfu | Win | W+R | 6.5 | 3187 | 20 | 
 | 2021-11-01 | 第14期棋王戦（台湾）リーグ残留プレーオフ  | Chen Qirui | Lai Junfu | Win | W+R | 6.5 | 3167 | 18 | 
@@ -139,8 +142,8 @@
 | 2020-03-17 | 第19期天元戦（台湾）リーグ | Lin Shixun | Lai Junfu | Win | W+R | 6.5 | 2863 | 5 | 
 | 2020-03-13 | 第7回グロービス杯台湾予選 | Lai Junfu | Xu Haohong | Win | B+R | 6.5 | 2858 | 25 | 
 | 2020-03-09 | 第12回海峰杯プロ囲碁戦準決勝 | Lai Junfu | Xiao Zhenghao | Win | B+R | 6.5 | 2833 | 9 | 
-| 2020-03-06 | 第7回グロービス杯台湾予選 | Lai Junfu | Xu Jingen | Win | B+R | 6.5 | 2824 | 0 | 
-| 2020-03-06 | 第7回グロービス杯台湾予選 | Lai Junfu |  | Win | B+R | 6.5 | 2824 | -1 | 
+| 2020-03-06 | 第7回グロービス杯台湾予選 | Lai Junfu |  | Win | B+R | 6.5 | 2824 | 0 | 
+| 2020-03-06 | 第7回グロービス杯台湾予選 | Lai Junfu | Xu Jingen | Win | B+R | 6.5 | 2824 | -1 | 
 | 2020-03-05 | 第12回海峰杯プロ囲碁戦8強戦 | Lai Junfu | Jian Jingting | Win | B+0.5 | 6.5 | 2825 | 3 | 
 | 2020-03-02 | 第12回海峰杯プロ囲碁戦16強戦 | Li Wei | Lai Junfu | Win | W+R | 6.5 | 2822 | 1 | 
 | 2020-03-01 | 第7回グロービス杯台湾予選 | Huang Shiyuan | Lai Junfu | Win | W+R | 6.5 | 2821 | 7 | 
@@ -161,24 +164,24 @@
 | 2020-01-22 | 第17期倡棋杯台湾代表選抜戦 | Lai Junfu | Liu Yifang | Win | B+R | 7.5 | 3053 | -2 | 
 | 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第6戦 | Lai Junfu |  | Lose | W+R | 6.5 | 3055 | -16 | 
 | 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第4戦 | Seki Kotaro | Lai Junfu | Win | W+R | 6.5 | 3071 | -20 | 
-| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第1戦 | Lai Junfu | Hsu Chiayuan | Win | B+R | 6.5 | 3091 | 0 | 
-| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第2戦 | Lai Junfu | Murakawa Daisuke | Lose | W+R | 6.5 | 3091 | 3 | 
+| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第2戦 | Lai Junfu | Murakawa Daisuke | Lose | W+R | 6.5 | 3091 | 0 | 
+| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第1戦 | Lai Junfu | Hsu Chiayuan | Win | B+R | 6.5 | 3091 | 3 | 
 | 2020-01-15 | 第9回応氏杯世界選手権台湾代表選抜戦 | Li Wei | Lai Junfu | Lose | B+R | 7.5 | 3088 | -7 | 
 | 2020-01-14 | 第19期天元戦（台湾）予選 | Su Shengfang | Lai Junfu | Win | W+R | 6.5 | 3095 | 8 | 
-| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Huang Shiyuan | Lai Junfu | Win | W+R | 7.5 | 3087 | 0 | 
-| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 |  | Lai Junfu | Win | W+R | 7.5 | 3087 | 301 | 
+| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 |  | Lai Junfu | Win | W+R | 7.5 | 3087 | 0 | 
+| 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Huang Shiyuan | Lai Junfu | Win | W+R | 7.5 | 3087 | 301 | 
 | 2019-12-20 | 第13回春蘭杯台湾予選 | Lai Junfu | Xu Jingen | Lose | W+2.5 | 7.5 | 2786 | -28 | 
 | 2019-11-20 | 2019年関西棋院VS台湾棋院交流戦第2戦 | Takashima Yugo | Lai Junfu | Win | W+R | 6.5 | 2814 | -3 | 
 | 2019-11-13 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第6戦 | Weon Seongjin | Lai Junfu | Lose | B+R | 6.5 | 2817 | 0 | 
 | 2019-11-13 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第5戦 | Lai Junfu | Park Junghwan | Lose | W+R | 6.5 | 2817 | -14 | 
 | 2019-11-12 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第4戦 | Lai Junfu | Park Geunho | Lose | W+R | 6.5 | 2831 | -5 | 
 | 2019-11-08 | 2019新人王戦（台湾）リーグB | Lai Junfu | Huang Shiyuan | Lose | W+1¼ | 7.5 | 2836 | -9 | 
-| 2019-11-06 | 2019新人王戦（台湾）リーグB | Lai Junfu | Lin Shimin | Lose | W+R | 7.5 | 2845 | 0 | 
-| 2019-11-06 | 2019新人王戦（台湾）リーグB | Chen Qirui | Lai Junfu | Lose | B+R | 7.5 | 2845 | -5 | 
+| 2019-11-06 | 2019新人王戦（台湾）リーグB | Chen Qirui | Lai Junfu | Lose | B+R | 7.5 | 2845 | 0 | 
+| 2019-11-06 | 2019新人王戦（台湾）リーグB | Lai Junfu | Lin Shimin | Lose | W+R | 7.5 | 2845 | -5 | 
 | 2019-10-25 | 2019新人王戦（台湾）リーグB | Lai Junfu | Yang Zixuan | Win | B+R | 7.5 | 2850 | 0 | 
 | 2019-10-25 | 2019新人王戦（台湾）リーグB | Lin Shixun | Lai Junfu | Lose | B+R | 7.5 | 2850 | -1 | 
-| 2019-10-23 | 2019新人王戦（台湾）リーグB | Lai Junfu | Xu Jingen | Win | B+T | 7.5 | 2851 | 0 | 
-| 2019-10-23 | 2019新人王戦（台湾）リーグB |  | Lai Junfu | Win | W+R | 7.5 | 2851 | 26 | 
+| 2019-10-23 | 2019新人王戦（台湾）リーグB |  | Lai Junfu | Win | W+R | 7.5 | 2851 | 0 | 
+| 2019-10-23 | 2019新人王戦（台湾）リーグB | Lai Junfu | Xu Jingen | Win | B+T | 7.5 | 2851 | 26 | 
 | 2019-10-14 | 第12期棋王戦（台湾）予選敗部決勝 | Chen Qirui | Lai Junfu | Lose | B+5.5 | 6.5 | 2825 | -7 | 
 | 2019-10-07 | 第12期棋王戦（台湾）予選敗部準決勝 |  | Lai Junfu | Win | W+R | 6.5 | 2832 | 1 | 
 | 2019-10-06 | 第7期中環碁聖戦準決勝 | Xu Haohong | Lai Junfu | Lose | B+R | 6.5 | 2831 | 4 | 
@@ -211,8 +214,8 @@
 | 2019-05-09 | 第9期友士杯十段戦勝部準決勝 | Chen Qirui | Lai Junfu | Win | W+R | 6.5 | 2797 | -3 | 
 | 2019-05-06 | 第9期友士杯十段戦勝部2回戦 | Lai Junfu | Chen Shiyuan | Win | B+R | 6.5 | 2800 | 8 | 
 | 2019-05-02 | 第9期友士杯十段戦勝部1回戦 | Lai Junfu | Wang Yuanjun | Win | B+1.5 | 6.5 | 2792 | -18 | 
-| 2019-04-11 | 第9期友士杯十段戦予選敗部決勝 | Lin Shimin | Lai Junfu | Win | W+R | 6.5 | 2810 | 0 | 
-| 2019-04-11 | 第9期友士杯十段戦予選敗部準決勝 | Chen Feng | Lai Junfu | Win | W+R | 6.5 | 2810 | 1 | 
+| 2019-04-11 | 第9期友士杯十段戦予選敗部準決勝 | Chen Feng | Lai Junfu | Win | W+R | 6.5 | 2810 | 0 | 
+| 2019-04-11 | 第9期友士杯十段戦予選敗部決勝 | Lin Shimin | Lai Junfu | Win | W+R | 6.5 | 2810 | 1 | 
 | 2019-04-10 | 第9期友士杯十段戦予選勝部決勝 | Lai Junfu | Zhang Zhehao | Lose | W+4.5 | 6.5 | 2809 | -8 | 
 | 2019-04-08 | 第9期友士杯十段戦予選勝部準決勝 | Zhang Kaixin | Lai Junfu | Win | W+R | 6.5 | 2817 | 20 | 
 | 2019-03-27 | 第7回陜川郡招待韓日中台英才戦第3戦 | Seki Kotaro | Lai Junfu | Lose | B+1.5 | 6.5 | 2797 | -10 | 
@@ -222,12 +225,12 @@
 | 2019-03-11 | 第11回海峰杯プロ囲碁戦16強戦 | Jian Jingting | Lai Junfu | Lose | B+R | 6.5 | 2827 | 4 | 
 | 2019-03-07 | 第11回海峰杯プロ囲碁戦32強戦 | Lai Junfu | Gao Yun | Win | B+R | 6.5 | 2823 | -2 | 
 | 2019-03-06 | 第7回河燦錫国手杯韓中日台英才戦台湾代表選抜戦 | Yang Zixuan | Lai Junfu | Win | W+R | 6.5 | 2825 | -13 | 
-| 2019-03-05 | 第7回河燦錫国手杯韓中日台英才戦台湾代表選抜戦 | Lu Yiquan | Lai Junfu | Win | W+R | 6.5 | 2838 | 0 | 
-| 2019-03-05 | 第7回河燦錫国手杯韓中日台英才戦台湾代表選抜戦 | Lai Junfu | Bai Xinhui | Win | B+R | 6.5 | 2838 | -2 | 
+| 2019-03-05 | 第7回河燦錫国手杯韓中日台英才戦台湾代表選抜戦 | Lai Junfu | Bai Xinhui | Win | B+R | 6.5 | 2838 | 0 | 
+| 2019-03-05 | 第7回河燦錫国手杯韓中日台英才戦台湾代表選抜戦 | Lu Yiquan | Lai Junfu | Win | W+R | 6.5 | 2838 | -2 | 
 | 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 | Lai Junfu |  | Win | B+R | 6.5 | 2840 | 6 | 
 | 2019-03-01 | 第6回グロービス杯台湾予選 | Lai Junfu | Chen Qirui | Lose | W+R | 6.5 | 2834 | -3 | 
-| 2019-02-27 | 第6回グロービス杯台湾予選 | Yang Zixuan | Lai Junfu | Win | W+R | 6.5 | 2837 | 0 | 
 | 2019-02-27 | 第6回グロービス杯台湾予選 | Lu Yiquan | Lai Junfu | Win | W+R | 6.5 | 2837 | 0 | 
+| 2019-02-27 | 第6回グロービス杯台湾予選 | Yang Zixuan | Lai Junfu | Win | W+R | 6.5 | 2837 | 0 | 
 | 2019-02-26 | 第18期天元戦（台湾）勝部3回戦 | Lai Junfu | Jian Jingting | Lose | W+R | 6.5 | 2837 | -36 | 
 | 2019-02-19 | 第18期天元戦（台湾）勝部2回戦 | Lai Junfu | Li Wei | Win | B+R | 6.5 | 2873 | 7 | 
 | 2019-02-12 | 第18期天元戦（台湾）勝部1回戦 | Lai Junfu | Xu Yuqi | Win | B+R | 6.5 | 2866 | 11 | 
@@ -243,10 +246,10 @@
 | 2018-11-30 | 2018年新人王戦（台湾）リーグA | Jian Jingting | Lai Junfu | Win | W+1¼ | 7.5 | 2824 | 12 | 
 | 2018-11-28 | 2018年新人王戦（台湾）リーグA | Huang Shiyuan | Lai Junfu | Win | W+R | 7.5 | 2812 | 0 | 
 | 2018-11-28 | 2018年新人王戦（台湾）リーグA | Lai Junfu | Lu Yiquan | Win | B+R | 7.5 | 2812 | 23 | 
-| 2018-11-23 | 2018年新人王戦（台湾）リーグA | Xu Yuqi | Lai Junfu | Win | W+2¼ | 7.5 | 2789 | 0 | 
 | 2018-11-23 | 2018年新人王戦（台湾）リーグA |  | Lai Junfu | Win | W+R | 7.5 | 2789 | 0 | 
-| 2018-11-22 | 2018年新人王戦（台湾）リーグA | Cai Chengwei | Lai Junfu | Win | W+T | 7.5 | 2789 | 0 | 
-| 2018-11-22 | 2018年新人王戦（台湾）リーグA | Lai Junfu |  | Lose | W+R | 7.5 | 2789 | -26 | 
+| 2018-11-23 | 2018年新人王戦（台湾）リーグA | Xu Yuqi | Lai Junfu | Win | W+2¼ | 7.5 | 2789 | 0 | 
+| 2018-11-22 | 2018年新人王戦（台湾）リーグA | Lai Junfu |  | Lose | W+R | 7.5 | 2789 | 0 | 
+| 2018-11-22 | 2018年新人王戦（台湾）リーグA | Cai Chengwei | Lai Junfu | Win | W+T | 7.5 | 2789 | -26 | 
 | 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第3戦 | Park Sangjin | Lai Junfu | Win | W+R | 6.5 | 2815 | 31 | 
 | 2018-11-12 | 2018年台湾精鋭vs韓国交流戦第2戦 | Song Jihoon | Lai Junfu | Lose | B+R | 6.5 | 2784 | 2 | 
 | 2018-10-26 | 第1回IWMC台湾代表男子選抜戦予選決勝 | Lai Junfu | Lin Lixiang | Lose | W+R | 7.5 | 2782 | -3 | 
@@ -285,16 +288,16 @@
 | 2018-01-20 | 2018台湾精鋭vs日本精鋭交流戦第2戦 | Mutsuura Yuta | Lai Junfu | Lose | B+R | 6.5 | 2794 | -61 | 
 | 2018-01-10 | 第十五回倡棋杯台湾代表選抜戦予選第三局 |  | Lai Junfu | Win | W+R | 7.5 | 2855 | 10 | 
 | 2017-12-19 | 2017年関西棋院VS台湾棋院交流戦第2戦 | Lai Junfu | Taniguchi Tooru | Lose | W+R | 6.5 | 2845 | 38 | 
-| 2017-11-27 | 第3期未来の星新鋭最強戦台湾予選 | Jian Jingting | Lai Junfu | Lose | B+R | 6.5 | 2807 | 0 | 
-| 2017-11-27 | 第3期未来の星新鋭最強戦台湾予選 | Lai Junfu |  | Win | B+R | 6.5 | 2807 | -19 | 
+| 2017-11-27 | 第3期未来の星新鋭最強戦台湾予選 | Lai Junfu |  | Win | B+R | 6.5 | 2807 | 0 | 
+| 2017-11-27 | 第3期未来の星新鋭最強戦台湾予選 | Jian Jingting | Lai Junfu | Lose | B+R | 6.5 | 2807 | -19 | 
 | 2017-09-19 | 第13期国手戦（台湾）第二回戦 | Chen Qirui | Lai Junfu | Lose | B+R | 6.5 | 2826 | 12 | 
 | 2017-09-17 | 第5期中環碁聖戦第二回戦 | Lai Junfu | Chen Qirui | Lose | W+0.5(W+0.5) | 6.5 | 2814 | 0 | 
 | 2017-09-12 | 第13期国手戦（台湾）首輪下半区 |  | Lai Junfu | Win | W+R | 6.5 | 2814 | 13 | 
 | 2017-09-10 | 第5期中環碁聖戦首輪下半区 | Lai Junfu | Lin Shimin | Win | B+R | 6.5 | 2801 | 11 | 
 | 2017-08-25 | 第四回福蔭杯国際精鋭囲棋対抗戦代表選抜戦初戦第一局 | Lai Junfu | Cai Chengwei | Lose | W+4.5 | 6.5 | 2790 | -29 | 
 | 2017-05-26 | 2017年利民杯台湾選抜戦 | Lin Junyan | Lai Junfu | Lose | B+R | 7.5 | 2819 | -7 | 
-| 2017-05-23 | 2017年利民杯台湾選抜戦 | Cai Chengwei | Lai Junfu | Win | W+R | 7.5 | 2826 | 0 | 
-| 2017-05-23 | 2017年利民杯台湾選抜戦 | Lai Junfu | Lu Yiquan | Win | B+R | 7.5 | 2826 | 11 | 
+| 2017-05-23 | 2017年利民杯台湾選抜戦 | Lai Junfu | Lu Yiquan | Win | B+R | 7.5 | 2826 | 0 | 
+| 2017-05-23 | 2017年利民杯台湾選抜戦 | Cai Chengwei | Lai Junfu | Win | W+R | 7.5 | 2826 | 11 | 
 | 2017-05-05 | 第十六期天元戦リーグ戦第七局 | Lai Junfu | Cai Chengwei | Win | B+R | 6.5 | 2815 | 0 | 
 | 2017-05-02 | 第十六期天元戦リーグ戦第六局 | Lin Junyan | Lai Junfu | Lose | B+R | 6.5 | 2815 | -16 | 
 | 2017-04-28 | 第十六期天元戦リーグ戦第五局 | Lai Junfu | Xu Yuqi | Lose | W+R | 6.5 | 2831 | -23 | 
@@ -315,8 +318,8 @@
 | 2017-02-10 | 第22期LG盃台湾代表選抜戦初戦第一局 | Yang Zixuan | Lai Junfu | Win | W+R | 6.5 | 2642 | 59 | 
 | 2017-02-07 | 第十六期天元戦複戦第一回戦 | Chen  Qingyu | Lai Junfu | Win | W+R | 6.5 | 2583 | -7 | 
 | 2017-02-02 | 第三期MLILIY夢百合杯台湾代表選抜戦 初戦 | Lai Junfu | Cai Chengwei | Win | B+R | 7.5 | 2590 | -59 | 
-| 2017-01-21 | 台湾精鋭日本精鋭交流戦5回戦 | Lai Junfu | Ueno Asami | Lose | W+R | 6.5 | 2649 | 0 | 
-| 2017-01-21 | 台湾精鋭日本精鋭交流戦6回戦 | Lai Junfu | Chang Rueijie | Win | B+R | 6.5 | 2649 | -14 | 
+| 2017-01-21 | 台湾精鋭日本精鋭交流戦6回戦 | Lai Junfu | Chang Rueijie | Win | B+R | 6.5 | 2649 | 0 | 
+| 2017-01-21 | 台湾精鋭日本精鋭交流戦5回戦 | Lai Junfu | Ueno Asami | Lose | W+R | 6.5 | 2649 | -14 | 
 | 2017-01-20 | 台湾精鋭日本精鋭交流戦4回戦 | Lai Junfu | Hirose Yuichi | Win | B+11.5 | 6.5 | 2663 | 0 | 
 | 2017-01-20 | 台湾精鋭日本精鋭交流戦3回戦 | Lai Junfu | Kuwabara Shun | Win | B+9.5 | 6.5 | 2663 | -44 | 
 | 2017-01-18 | 第三期MLILIY夢百合杯台湾代表選抜戦 初戦第二局 | Lai Junfu | Lin Shuyang | Win | B+R | 7.5 | 2707 | 26 | 
@@ -337,8 +340,8 @@
 | 2016-06-06 | 第6期友士杯十段戦2回戦 | Zhou Junxun | Lai Junfu | Lose | B+R | 6.5 | 2745 | -27 | 
 | 2016-06-03 | 第6期友士杯十段戦1回戦 | Lin Lixiang | Lai Junfu | Win | W+R | 6.5 | 2772 | 114 | 
 | 2016-05-20 | 第6期友士杯十段戦予選 | Lin Xiuping | Lai Junfu | Win | W+15.5 | 6.5 | 2658 | 199 | 
-| 2016-05-18 | 第6期友士杯十段戦予選 | Lai Junfu | Chen  Qingyu | Win | B+R | 6.5 | 2459 | 0 | 
-| 2016-05-18 | 第6期友士杯十段戦予選 | Lai Junfu | Huang Xiangren | Win | B+R | 6.5 | 2459 | 76 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Lai Junfu | Huang Xiangren | Win | B+R | 6.5 | 2459 | 0 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Lai Junfu | Chen  Qingyu | Win | B+R | 6.5 | 2459 | 76 | 
 | 2016-03-21 | 第8回海峰杯プロ囲碁戦32強戦 | Cai Chengwei | Lai Junfu | Lose | B+R | 6.5 | 2383 | -60 | 
 | 2016-03-07 | 第8回海峰杯プロ囲碁戦64強戦 | Lai Junfu | Zhou Junxun | Win | B+3.5 | 6.5 | 2443 | -11 | 
 | 2016-03-03 | 第8回海峰杯プロ囲碁戦64強決定戦 |  | Lai Junfu | Win | W+R | 6.5 | 2454 | -100 | 

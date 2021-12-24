@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-24 | 第1回テイケイ杯俊英戦Bリーグ | Sada Atsushi | Otake Yu | Lose | B+1.5 | 6.5 | 3035 | -21 | 
 | 2021-12-22 | 第1回テイケイ杯俊英戦Bリーグ | Otake Yu | Tsuruta Kazushi | Lose | W+R | 6.5 | 3056 | -44 | 
 | 2021-12-21 | 第1回テイケイ杯俊英戦Bリーグ | Hirose Yuichi | Otake Yu | Lose | B+R | 6.5 | 3100 | -33 | 
 | 2021-12-20 | 第1回テイケイ杯俊英戦Bリーグ  | Otake Yu | Hsu Chiayuan | Lose | W+R | 6.5 | 3133 | -16 | 

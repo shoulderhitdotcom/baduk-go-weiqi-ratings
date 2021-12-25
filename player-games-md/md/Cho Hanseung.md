@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 2021-2022韓国囲碁リーグ | An Sungjoon | Cho Hanseung | Lose | B+0.5 | 6.5 | 3336 | 3336 | 
+| 2021-12-17 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Han Sanghoon | Lose | W+1.5 | 6.5 | missing | -3334 | 
 | 2021-12-07 | 第3期ソパルコサノル最高棋士決定戦予選 | Yun Chanhee | Cho Hanseung | Win | W+R | 6.5 | 3334 | 33 | 
 | 2021-12-02 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Choi Cheolhan | Win | B+R | 6.5 | 3301 | -10 | 
 | 2021-11-26 | 2021-2022韓国囲碁リーグ | Hong Seongji | Cho Hanseung | Lose | B+R | 6.5 | 3311 | -15 | 
@@ -71,8 +73,8 @@
 | 2019-10-17 | 2019-2020韓国囲碁リーグ第3節第1試合第1局 | Choi Kyeongho | Cho Hanseung | Win | W+R | 6.5 | 3049 | -39 | 
 | 2019-10-04 | 2019-2020韓国囲碁リーグ第2節第2試合第4局 | Cho Hanseung | Kang Seungmin | Lose | W+R | 6.5 | 3088 | -85 | 
 | 2019-09-27 | 2019-2020韓国囲碁リーグ第1節第2試合第1局 | Cho Hanseung | Lee Changho | Win | B+R | 6.5 | 3173 | 84 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Kang Dongyun | Cho Hanseung | Lose | B+R | 6.5 | 3089 | 0 | 
-| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Kim Seongjae | Cho Hanseung | Win | W+5.5 | 6.5 | 3089 | 58 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Kim Seongjae | Cho Hanseung | Win | W+5.5 | 6.5 | 3089 | 0 | 
+| 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Kang Dongyun | Cho Hanseung | Lose | B+R | 6.5 | 3089 | 58 | 
 | 2019-07-11 | 第21回農心杯韓国選抜戦 | Park Geunho | Cho Hanseung | Lose | B+R | 6.5 | 3031 | 28 | 
 | 2019-06-06 | 2019年囲碁テレビ杯早碁戦32強戦 | Cho Hanseung | Park Junghwan | Lose | W+R | 6.5 | 3003 | -82 | 
 | 2019-04-12 | 第24期GSカルテックス杯8強戦 | Cho Hanseung | Shin Jinseo | Lose | W+R | 6.5 | 3085 | 16 | 
@@ -329,8 +331,8 @@
 | 2012-08-21 | 第1回百霊杯世界囲碁選手権3回戦 | Cho Hanseung | Chen Yaoye | Lose | W+R | 7.5 | 3427 | -15 | 
 | 2012-08-19 | 第1回百霊杯世界囲碁選手権2回戦 |  | Cho Hanseung | Win | W+6.5 | 7.5 | 3442 | 24 | 
 | 2012-08-11 | 2012年韓国囲碁リーグ | Choi Cheolhan | Cho Hanseung | Lose | B+R | 6.5 | 3418 | 23 | 
-| 2012-08-02 | 2012年韓国囲碁リーグ | Park Junghwan | Cho Hanseung | Win | W+R | 6.5 | 3395 | 0 | 
-| 2012-08-02 | 第17回三星火災杯統合予選1回戦 | Lian Xiao | Cho Hanseung | Lose | B+R | 6.5 | 3395 | -88 | 
+| 2012-08-02 | 第17回三星火災杯統合予選1回戦 | Lian Xiao | Cho Hanseung | Lose | B+R | 6.5 | 3395 | 0 | 
+| 2012-08-02 | 2012年韓国囲碁リーグ | Park Junghwan | Cho Hanseung | Win | W+R | 6.5 | 3395 | -88 | 
 | 2012-07-29 | 2012年韓国囲碁リーグ | Cho Hanseung | Kang Seungmin | Win | B+R | 6.5 | 3483 | -1 | 
 | 2012-07-25 | 第40期名人戦（韓国）予選 | Mok Jinseok | Cho Hanseung | Lose | B+R | 6.5 | 3484 | 1 | 
 | 2012-07-20 | 第40期名人戦（韓国）予選 | Park Cheongsang | Cho Hanseung | Win | W+R | 6.5 | 3483 | 23 | 
@@ -566,8 +568,8 @@
 | 2007-07-13 | 第12期GSカルテックス杯プロ棋戦リーグ | On Sojin | Cho Hanseung | Win | W+4.5 | 6.5 | 3245 | 6 | 
 | 2007-07-09 | 第9回農心杯韓国選抜戦 | Cho Hanseung | Hong Kipyo | Win | B+3.5 | 6.5 | 3239 | -13 | 
 | 2007-07-06 | 第9回農心杯韓国選抜戦 | Cho Hanseung | Paek Daehyun | Win | B+5.5 | 6.5 | 3252 | -3 | 
-| 2007-07-05 | 2007年韓国囲碁リーグ | Cho Hanseung | Han Sanghoon | Win | B+R | 6.5 | 3255 | 0 | 
-| 2007-07-05 | 第9回農心杯韓国選抜戦 | An Joyeong | Cho Hanseung | Win | W+R | 6.5 | 3255 | -18 | 
+| 2007-07-05 | 第9回農心杯韓国選抜戦 | An Joyeong | Cho Hanseung | Win | W+R | 6.5 | 3255 | 0 | 
+| 2007-07-05 | 2007年韓国囲碁リーグ | Cho Hanseung | Han Sanghoon | Win | B+R | 6.5 | 3255 | -18 | 
 | 2007-07-04 | 第9回農心杯韓国選抜戦 | Cho Hanseung | Lee Sedol | Win | B+R | 6.5 | 3273 | 11 | 
 | 2007-07-03 | 第35期名人戦（韓国）リーグ | Lee Sedol | Cho Hanseung | Lose | B+R | 6.5 | 3262 | -7 | 
 | 2007-06-30 | 2007年韓国囲碁リーグ | Cho Hanseung | On Sojin | Win | B+R | 6.5 | 3269 | 16 | 

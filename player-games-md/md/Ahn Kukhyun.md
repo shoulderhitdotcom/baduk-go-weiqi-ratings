@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 2021-2022韓国囲碁リーグ | Ahn Kukhyun | Weon Seongjin | Win | B+0.5 | 6.5 | 3142 | -15 | 
 | 2021-12-08 | 第27回GSカルテックス杯プロ棋戦予選 | Park Hamin | Ahn Kukhyun | Lose | B+R | 6.5 | 3157 | 30 | 
 | 2021-12-04 | 2021-2022韓国囲碁リーグ | Song Gyusang | Ahn Kukhyun | Win | W+R | 6.5 | 3127 | 50 | 
 | 2021-11-25 | 2021-2022韓国囲碁リーグ | Ahn Kukhyun | Park Geunho | Lose | W+R | 6.5 | 3077 | -98 | 
@@ -45,8 +46,8 @@
 | 2018-06-19 | 2018年中国囲碁乙級リーグ | Shibano Toramaru | Ahn Kukhyun | Win | W+R | 7.5 | 3210 | 47 | 
 | 2018-06-18 | 2018年中国囲碁乙級リーグ | Ahn Kukhyun | Seol Hyunjun | Lose | W+¼ | 7.5 | 3163 | -21 | 
 | 2018-06-16 | 2018年中国囲碁乙級リーグ |  | Ahn Kukhyun | Win | W+R | 7.5 | 3184 | -5 | 
-| 2018-06-13 | 2018年中国囲碁乙級リーグ | Ahn Kukhyun |  | Lose | W+R | 7.5 | 3189 | 0 | 
-| 2018-06-13 | 2018年中国囲碁乙級リーグ |  | Ahn Kukhyun | Win | W+R | 7.5 | 3189 | -30 | 
+| 2018-06-13 | 2018年中国囲碁乙級リーグ |  | Ahn Kukhyun | Win | W+R | 7.5 | 3189 | 0 | 
+| 2018-06-13 | 2018年中国囲碁乙級リーグ | Ahn Kukhyun |  | Lose | W+R | 7.5 | 3189 | -30 | 
 | 2018-05-14 | 第37回KBS杯囲碁王戦32強戦 | Ahn Kukhyun | Ryu Suhang | Lose | W+0.5 | 6.5 | 3219 | -51 | 
 | 2018-04-30 | 第5回国手山脈杯韓国選抜戦 | Lee Yeongkyu | Ahn Kukhyun | Lose | B+R | 6.5 | 3270 | -6 | 
 | 2018-04-20 | 第23期GSカルテックス杯プロ棋戦8強戦 | Ahn Kukhyun | Yun Junsang | Lose | W+R | 6.5 | 3276 | -4 | 
@@ -112,8 +113,8 @@
 | 2016-06-05 | 2016年韓国囲碁リーグ第2節 | Ahn Kukhyun | Choi Jaeyoung | Lose | W+2.5 | 6.5 | 3122 | 48 | 
 | 2016-05-22 | 2016年韓国囲碁リーグ第1節 | Mok Jinseok | Ahn Kukhyun | Lose | B+R | 6.5 | 3074 | 52 | 
 | 2016-04-04 | 第21回LG杯予選 | Choi Jeong | Ahn Kukhyun | Lose | B+R | 6.5 | 3022 | -107 | 
-| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦決勝 | Ahn Kukhyun | Yu Zhengqi | Win | B+R | 6.5 | 3129 | 0 | 
-| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yang Dingxin | Ahn Kukhyun | Lose | B+R | 6.5 | 3129 | 56 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦第3戦 | Yang Dingxin | Ahn Kukhyun | Lose | B+R | 6.5 | 3129 | 0 | 
+| 2015-10-03 | 第2回おかげ杯国際精鋭囲碁対抗戦決勝 | Ahn Kukhyun | Yu Zhengqi | Win | B+R | 6.5 | 3129 | 56 | 
 | 2015-10-02 | 第2回おかげ杯国際精鋭囲碁対抗戦第2戦 | Lin Lixiang | Ahn Kukhyun | Win | W+R | 6.5 | 3073 | -37 | 
 | 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Jin Siyoung | Ahn Kukhyun | Lose | B+R | 6.5 | 3110 | 9 | 
 | 2015-09-26 | 2015年韓国囲碁リーグ | Ahn Kukhyun | Park Cheongsang | Win | B+3.5 | 6.5 | 3101 | 15 | 

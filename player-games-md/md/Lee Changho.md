@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 2021-2022韓国囲碁リーグ | Lee Changho | Lee Wondo | Win | B+R | 6.5 | 3129 | 9 | 
+| 2021-12-15 | 2021統営レジェンドマッチ | Lee Changho | Cho Hunhyun | Win | B+R | 6.5 | 3120 | -39 | 
 | 2021-12-07 | 第27回GSカルテックス杯プロ棋戦予選 | Lee Changho | Ko Keuntae | Win | B+R | 6.5 | 3159 | 10 | 
 | 2021-12-04 | 2021-2022韓国囲碁リーグ | Lee Changho | Kim Myounghoon | Win | B+R | 6.5 | 3149 | 16 | 
 | 2021-11-25 | 2021-2022韓国囲碁リーグ | Lee Changho | Lee Changseok | Lose | W+3.5 | 6.5 | 3133 | -68 | 
@@ -454,8 +456,8 @@
 | 2010-02-10 | 第53期国手戦（韓国）準決勝 | Ju Hyeongwuk | Lee Changho | Win | W+R | 6.5 | 3101 | 9 | 
 | 2010-02-01 | 第28回KBS杯囲碁王戦決勝三番勝負第1局 | Lee Changho | Kang Dongyun | Win | B+R | 6.5 | 3092 | -80 | 
 | 2010-01-20 | 第53期国手戦（韓国）2回戦 | Lee Changho | Mok Jinseok | Win | B+R | 6.5 | 3172 | -7 | 
-| 2010-01-18 | 第28回KBS杯囲碁王戦敗者復活戦決勝 | Lee Changho | Choi Cheolhan | Win | B+R | 6.5 | 3179 | 0 | 
-| 2010-01-18 | 第28回KBS杯囲碁王戦敗者復活戦準決勝 | Lee Changho | Yun Chanhee | Win | B+R | 6.5 | 3179 | 10 | 
+| 2010-01-18 | 第28回KBS杯囲碁王戦敗者復活戦準決勝 | Lee Changho | Yun Chanhee | Win | B+R | 6.5 | 3179 | 0 | 
+| 2010-01-18 | 第28回KBS杯囲碁王戦敗者復活戦決勝 | Lee Changho | Choi Cheolhan | Win | B+R | 6.5 | 3179 | 10 | 
 | 2010-01-16 | 第2回BCカード杯世界選手権1回戦 | Lee Changho |  | Lose | W+R | 6.5 | 3169 | -31 | 
 | 2010-01-10 | 第5期圓益杯十段戦決勝三番勝負第3局 | Lee Changho | Park Junghwan | Lose | W+0.5 | 6.5 | 3200 | -1 | 
 | 2010-01-09 | 第5期圓益杯十段戦決勝三番勝負第2局 | Lee Changho | Park Junghwan | Lose | W+R | 6.5 | 3201 | 32 | 

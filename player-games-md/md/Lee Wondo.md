@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 2021-2022韓国囲碁リーグ | Lee Changho | Lee Wondo | Lose | B+R | 6.5 | 3108 | -14 | 
 | 2021-12-18 | 2021-2022フューチャーズリーグ | Lee Wondo | Kang Jihoon | Win | B+R | 6.5 | 3122 | 0 | 
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | An Sungjoon | Lee Wondo | Lose | B+R | 6.5 | 3122 | -41 | 
 | 2021-12-04 | 2021-2022フューチャーズリーグ | Kim Sonjin | Lee Wondo | Lose | B+R | 6.5 | 3163 | 42 | 

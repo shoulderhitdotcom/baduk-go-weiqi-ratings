@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 2021-2022韓国囲碁リーグ | An Sungjoon | Cho Hanseung | Win | B+0.5 | 6.5 | 3323 | 12 | 
 | 2021-12-12 | 第7回国手山脈韓国国内トーナメント決勝 | An Sungjoon | Park Yeonghun | Lose | W+R | 6.5 | 3311 | 16 | 
 | 2021-12-11 | 第7回国手山脈韓国国内トーナメント準決勝 | Kim Junghyun | An Sungjoon | Win | W+R | 6.5 | 3295 | 10 | 
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント2回戦 | An Sungjoon | Park Hamin | Win | B+R | 6.5 | 3285 | 0 | 

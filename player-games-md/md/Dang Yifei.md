@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Zhang Tao | Dang Yifei | Win | W+R | 7.5 | 3530 | -47 | 
 | 2021-12-05 | 2021CCTV杯中国囲棋電視快棋戦決勝 | Dang Yifei | Ke Jie | Lose | W+R | 7.5 | 3577 | -47 | 
 | 2021-11-21 | 2021CCTV杯中国囲棋電視快棋戦準決勝 | Dang Yifei | Li Xuanhao | Win | B+R | 7.5 | 3624 | 14 | 
 | 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Fan Tingyu | Dang Yifei | Win | W+¼ | 7.5 | 3610 | 2 | 
@@ -109,8 +110,8 @@
 | 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Dang Yifei | Zhao Chenyu | Lose | W+R | 7.5 | 3191 | -62 | 
 | 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Jiang Qirun | Dang Yifei | Lose | B+R | 7.5 | 3253 | -12 | 
 | 2019-04-15 | 第21回中国囲碁甲級リーグ第1節成都-浙江 | Dang Yifei | Zhang Tao | Win | B+R | 7.5 | 3265 | 57 | 
-| 2019-03-24 | 第18回西南棋王戦決勝 | Dang Yifei | Ke Jie | Lose | W+R | 7.5 | 3208 | 0 | 
-| 2019-03-24 | 第18回西南棋王戦準決勝 | Dang Yifei | He Yuhan | Win | B+R | 7.5 | 3208 | -1 | 
+| 2019-03-24 | 第18回西南棋王戦準決勝 | Dang Yifei | He Yuhan | Win | B+R | 7.5 | 3208 | 0 | 
+| 2019-03-24 | 第18回西南棋王戦決勝 | Dang Yifei | Ke Jie | Lose | W+R | 7.5 | 3208 | -1 | 
 | 2019-03-23 | 第18回西南棋王戦2回戦 | Mi Yuting | Dang Yifei | Win | W+R | 7.5 | 3209 | 0 | 
 | 2019-03-23 | 第18回西南棋王戦1回戦 | Dang Yifei | Zhou Ruiyang | Win | B+R | 7.5 | 3209 | 35 | 
 | 2019-03-06 | 第10期中国竜星戦予選 | Fan Tingyu | Dang Yifei | Lose | B+R | 7.5 | 3174 | -3 | 
@@ -307,8 +308,8 @@
 | 2013-12-29 | 第14期リコー杯囲碁戦1回戦 | Dang Yifei | Xie Erhao | Lose | W+R | 7.5 | 3397 | 135 | 
 | 2013-10-15 | 2013年国際新鋭囲碁対抗戦第1戦 | Dang Yifei | Han Seungjoo | Lose | W+4.5 | 7.5 | 3262 | -167 | 
 | 2013-09-10 | 第5期中国竜星戦2回戦 | Dang Yifei | Kong Jie | Lose | W+2.5 | 7.5 | 3429 | -12 | 
-| 2013-09-09 | 第5期中国竜星戦1回戦 | Tuo Jiaxi | Dang Yifei | Win | W+R | 7.5 | 3441 | 0 | 
-| 2013-09-09 | 第5期中国竜星戦予選 | Meng Tailing | Dang Yifei | Win | W+R | 7.5 | 3441 | 57 | 
+| 2013-09-09 | 第5期中国竜星戦予選 | Meng Tailing | Dang Yifei | Win | W+R | 7.5 | 3441 | 0 | 
+| 2013-09-09 | 第5期中国竜星戦1回戦 | Tuo Jiaxi | Dang Yifei | Win | W+R | 7.5 | 3441 | 57 | 
 | 2013-08-28 | 第9期威孚房開杯棋王戦2回戦 | Dang Yifei | Chen Yaoye | Lose | W+R | 7.5 | 3384 | -7 | 
 | 2013-08-27 | 第9期威孚房開杯棋王戦1回戦 | Chang Hao | Dang Yifei | Win | W+R | 7.5 | 3391 | -61 | 
 | 2013-08-11 | 第1回夢百合杯世界オープン戦4回戦 | Dang Yifei | Mi Yuting | Lose | W+R | 7.5 | 3452 | -9 | 
@@ -319,8 +320,8 @@
 | 2013-06-17 | 2013年中国囲碁乙級リーグ | Dang Yifei | Lee Donghoon | Lose | W+R | 7.5 | 3229 | -15 | 
 | 2013-06-06 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Dang Yifei | An Dongxu | Win | B+R | 7.5 | 3244 | 0 | 
 | 2013-06-06 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Dang Yifei | Liu Xing | Lose | W+0.5 | 7.5 | 3244 | 2 | 
-| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Dang Yifei | Chen Xian | Win | B+3.5 | 7.5 | 3242 | 0 | 
-| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Fang Hao | Dang Yifei | Win | W+R | 7.5 | 3242 | 49 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Fang Hao | Dang Yifei | Win | W+R | 7.5 | 3242 | 0 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Dang Yifei | Chen Xian | Win | B+3.5 | 7.5 | 3242 | 49 | 
 | 2013-05-07 | 第10期倡棋杯中国プロ囲碁選手権戦予選 | Dang Yifei | Chang Hao | Lose | W+3 | 7.5 | 3193 | -86 | 
 | 2013-04-13 | 第26期中国囲碁名人戦1回戦 | Zhang Tao | Dang Yifei | Lose | B+R | 7.5 | 3279 | -18 | 
 | 2013-04-02 | 2013CCTV杯中国囲棋電視快棋戦4回戦 | Xie He | Dang Yifei | Lose | B+R | 7.5 | 3297 | -19 | 
@@ -418,10 +419,10 @@
 | 2009-07-11 | 第11回中国囲碁甲級リーグ第11節 | Dang Yifei | Zhou Heyang | Lose | W+R | 7.5 | 3015 | -7 | 
 | 2009-07-09 | 第11回中国囲碁甲級リーグ第10節 | Wang Lei (b) | Dang Yifei | Lose | B+3.5 | 7.5 | 3022 | -18 | 
 | 2009-07-04 | 第11回中国囲碁甲級リーグ第9節 | Dang Yifei | Liao Xingwen | Win | B+R | 7.5 | 3040 | 29 | 
-| 2009-07-01 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Dang Yifei | Luo Xihe | Win | B+R | 7.5 | 3011 | 0 | 
-| 2009-07-01 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Liao Xingwen | Dang Yifei | Lose | B+R | 7.5 | 3011 | -28 | 
-| 2009-06-30 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Zhu Yuanhao | Dang Yifei | Win | W+R | 7.5 | 3039 | 0 | 
-| 2009-06-30 | 第11期阿含・桐山杯中国早碁オープン戦予選 |  | Dang Yifei | Win | W+R | 7.5 | 3039 | 33 | 
+| 2009-07-01 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Liao Xingwen | Dang Yifei | Lose | B+R | 7.5 | 3011 | 0 | 
+| 2009-07-01 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Dang Yifei | Luo Xihe | Win | B+R | 7.5 | 3011 | -28 | 
+| 2009-06-30 | 第11期阿含・桐山杯中国早碁オープン戦予選 |  | Dang Yifei | Win | W+R | 7.5 | 3039 | 0 | 
+| 2009-06-30 | 第11期阿含・桐山杯中国早碁オープン戦予選 | Zhu Yuanhao | Dang Yifei | Win | W+R | 7.5 | 3039 | 33 | 
 | 2009-06-27 | 第11回中国囲碁甲級リーグ第8節 | Dang Yifei | Tong Yulin | Win | B+R | 7.5 | 3006 | 111 | 
 | 2009-06-18 | 第11回中国囲碁甲級リーグ第7節 | Dang Yifei | Meng Tailing | Lose | W+R | 7.5 | 2895 | -24 | 
 | 2009-06-13 | 第11回中国囲碁甲級リーグ第6節 |  | Dang Yifei | Win | W+R | 7.5 | 2919 | 96 | 

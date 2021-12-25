@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 第9回中国女子囲碁甲級リーグ |  | Pan Yang | Win | W+R | 7.5 | 2748 | -63 | 
 | 2021-10-19 | 第9回中国女子囲碁甲級リーグ | Hei Jiajia | Pan Yang | Lose | B+R | 7.5 | 2811 | -169 | 
 | 2021-10-18 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Pan Yang | Lose | B+1¾ | 7.5 | 2980 | -6 | 
 | 2021-10-17 | 第9回中国女子囲碁甲級リーグ | Pan Yang | Gao Xing | Lose | W+1¼ | 7.5 | 2986 | -14 | 

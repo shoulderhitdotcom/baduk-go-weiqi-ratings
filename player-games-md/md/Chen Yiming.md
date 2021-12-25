@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 第9回中国女子囲碁甲級リーグ |  | Chen Yiming | Win | W+1¼ | 7.5 | 2746 | -74 | 
 | 2021-10-19 | 第9回中国女子囲碁甲級リーグ | Chen Yiming | Tang Yi | Win | B+R | 7.5 | 2820 | -131 | 
 | 2021-10-18 | 第9回中国女子囲碁甲級リーグ |  | Chen Yiming | Lose | B+R | 7.5 | 2951 | -10 | 
 | 2021-10-17 | 第9回中国女子囲碁甲級リーグ | Lu Jia | Chen Yiming | Lose | B+2¾ | 7.5 | 2961 | -11 | 
@@ -140,8 +141,8 @@
 | 2016-10-20 | 第4回中国女子囲碁甲級リーグ第13節 | Chen Yiming | Yu Zhiying | Lose | W+R | 7.5 | 2591 | -3 | 
 | 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦第3戦 | Su Shengfang | Chen Yiming | Win | W+R | 6.5 | 2594 | 0 | 
 | 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦決勝 | Kim Cheayoung | Chen Yiming | Win | W+1.5 | 6.5 | 2594 | 35 | 
-| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Kim Cheayoung | Chen Yiming | Win | W+R | 6.5 | 2559 | 0 | 
-| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Okuda Aya | Chen Yiming | Win | W+R | 6.5 | 2559 | -119 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Okuda Aya | Chen Yiming | Win | W+R | 6.5 | 2559 | 0 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Kim Cheayoung | Chen Yiming | Win | W+R | 6.5 | 2559 | -119 | 
 | 2016-09-13 | 第4回中国女子囲碁甲級リーグ第12節 | Chen Yiming | Song Ronghui | Lose | W+0.5 | 7.5 | 2678 | -55 | 
 | 2016-08-29 | 第14回建橋杯女子囲碁オープン戦予選 | Chen Yiming | Yin Qu | Win | B+R | 7.5 | 2733 | 22 | 
 | 2016-08-28 | 第14回建橋杯女子囲碁オープン戦予選 | Chen Yiming | Zheng Yan | Win | B+R | 7.5 | 2711 | 67 | 
@@ -206,16 +207,16 @@
 | 2013-11-09 | 第1回中国女子囲碁甲級リーグ第8節 | Chen Yiming | Yu Zhiying | Lose | W+R | 7.5 | 2622 | -20 | 
 | 2013-10-13 | 第11回建橋杯女子囲碁オープン戦準決勝 | Rui Naiwei | Chen Yiming | Lose | B+R | 7.5 | 2642 | -48 | 
 | 2013-10-12 | 第11回建橋杯女子囲碁オープン戦2回戦 |  | Chen Yiming | Win | W+R | 7.5 | 2690 | -179 | 
-| 2013-09-09 | 第5期中国竜星戦1回戦 | Mi Yuting | Chen Yiming | Lose | B+R | 7.5 | 2869 | 0 | 
-| 2013-09-09 | 第5期中国竜星戦予選 | Chen Yiming | Tang Yi | Win | B+R | 7.5 | 2869 | -37 | 
+| 2013-09-09 | 第5期中国竜星戦予選 | Chen Yiming | Tang Yi | Win | B+R | 7.5 | 2869 | 0 | 
+| 2013-09-09 | 第5期中国竜星戦1回戦 | Mi Yuting | Chen Yiming | Lose | B+R | 7.5 | 2869 | -37 | 
 | 2013-08-31 | 第1回中国女子囲碁甲級リーグ第6節 | Li Yirong | Chen Yiming | Lose | B+R | 7.5 | 2906 | -9 | 
 | 2013-08-30 | 第1回中国女子囲碁甲級リーグ第5節 | Chen Yiming | Li He | Lose | W+0.5 | 7.5 | 2915 | -12 | 
 | 2013-08-29 | 第1回中国女子囲碁甲級リーグ第4節 | Lu Jia | Chen Yiming | Lose | B+R | 7.5 | 2927 | 123 | 
 | 2013-06-26 | 第1回中国女子囲碁甲級リーグ第3節 |  | Chen Yiming | Lose | B+R | 7.5 | 2804 | -22 | 
 | 2013-06-25 | 第1回中国女子囲碁甲級リーグ第2節 | Chen Yiming | Tang Yi | Win | B+R | 7.5 | 2826 | 111 | 
 | 2013-06-24 | 第1回中国女子囲碁甲級リーグ第1節 | Yu Zhiying | Chen Yiming | Lose | B+R | 7.5 | 2715 | -33 | 
-| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 |  | Chen Yiming | Win | W+R | 7.5 | 2748 | 0 | 
-| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Chen Yiming | Ding Wei | Lose | W+R | 7.5 | 2748 | 34 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Chen Yiming | Ding Wei | Lose | W+R | 7.5 | 2748 | 0 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 |  | Chen Yiming | Win | W+R | 7.5 | 2748 | 34 | 
 | 2013-05-16 | 第2期全国女子囲碁国手戦順位戦 | Chen Yiming | Song Ronghui | Win | B+R | 7.5 | 2714 | 33 | 
 | 2013-05-14 | 第2期全国女子囲碁国手戦順位戦 | Yu Zhiying | Chen Yiming | Win | W+R | 7.5 | 2681 | 166 | 
 | 2013-05-13 | 第2期全国女子囲碁国手戦1回戦 | Yu Zhiying | Chen Yiming | Lose | B+R | 7.5 | 2515 | -119 | 

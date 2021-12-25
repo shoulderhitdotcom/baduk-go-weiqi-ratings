@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 第1回テイケイ杯俊英戦Aリーグ | Abe Yoshiki | Shibano Toramaru | Win | W+R | 6.5 | 3334 | 9 | 
 | 2021-12-24 | 第1回テイケイ杯俊英戦Aリーグ  | Shibano Toramaru | Ichiriki Ryo | Win | B+R | 6.5 | 3325 | 6 | 
 | 2021-12-22 | 第1回テイケイ杯俊英戦Aリーグ  | Shibano Toramaru | Ueno Asami | Win | B+R | 6.5 | 3319 | 9 | 
 | 2021-12-21 | 第1回テイケイ杯俊英戦Aリーグ | Shibano Toramaru |  | Win | B+R | 6.5 | 3310 | 2 | 

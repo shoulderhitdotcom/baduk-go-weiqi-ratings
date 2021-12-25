@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Zhang Tao | Dang Yifei | Lose | W+R | 7.5 | 3475 | -13 | 
 | 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Zhang Tao | Ke Jie | Lose | W+R | 7.5 | 3488 | -18 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Zhang Tao | Zhao Chenyu | Win | B+R | 7.5 | 3506 | 6 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Zhang Tao | Shi Yue | Win | B+R | 7.5 | 3500 | 15 | 
@@ -131,8 +132,8 @@
 | 2017-10-11 | 第13期威孚房開杯棋王戦16強戦 | Zhang Tao | Li Qincheng | Win | B+R | 7.5 | 3397 | 20 | 
 | 2017-10-10 | 第13期威孚房開杯棋王戦32強戦 | Zhang Tao | Chen Yaoye | Win | B+R | 7.5 | 3377 | 87 | 
 | 2017-09-15 | 第29回テレビアジア選手権1回戦 | Zhang Tao | Ichiriki Ryo | Lose | W+2.5 | 7.5 | 3290 | -3 | 
-| 2017-08-15 | 中国浙江平湖当湖十局杯CCTV8強 | Li Qincheng | Zhang Tao | Win | W+R | 7.5 | 3293 | 0 | 
-| 2017-08-15 | 中国浙江平湖当湖十局杯CCTV準決勝 | Zhang Tao | Ke Jie | Win | B+R | 7.5 | 3293 | 81 | 
+| 2017-08-15 | 中国浙江平湖当湖十局杯CCTV準決勝 | Zhang Tao | Ke Jie | Win | B+R | 7.5 | 3293 | 0 | 
+| 2017-08-15 | 中国浙江平湖当湖十局杯CCTV8強 | Li Qincheng | Zhang Tao | Win | W+R | 7.5 | 3293 | 81 | 
 | 2017-06-16 | 2017年中国囲碁乙級リーグ | Kim Dongho | Zhang Tao | Win | W+R | 7.5 | 3212 | 24 | 
 | 2017-06-15 | 2017年中国囲碁乙級リーグ | Zhang Tao | Cao Xiaoyang | Lose | W+R | 7.5 | 3188 | -20 | 
 | 2017-06-13 | 2017年中国囲碁乙級リーグ | Wang Xi | Zhang Tao | Lose | B+R | 7.5 | 3208 | -12 | 

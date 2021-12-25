@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Ke Jie | Chen Yaoye | Win | W+R | 7.5 | 3494 | -33 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tang Weixing | Chen Yaoye | Lose | B+R | 7.5 | 3527 | 7 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Ding Hao | Chen Yaoye | Lose | B+1¾ | 7.5 | 3520 | -1 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Shen Peiran | Chen Yaoye | Win | W+R | 7.5 | 3521 | -3 | 
@@ -103,8 +104,8 @@
 | 2019-04-19 | 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Tan Xiao | Chen Yaoye | Win | W+R | 7.5 | 3287 | -7 | 
 | 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Ke Jie | Chen Yaoye | Lose | B+1¾ | 7.5 | 3294 | -2 | 
 | 2019-04-15 | 第21回中国囲碁甲級リーグ第1節杭州-北京 | Chen Yaoye | Lee Donghoon | Win | B+R | 7.5 | 3296 | 36 | 
-| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Chen Yaoye | An Dongxu | Win | B+R | 7.5 | 3260 | 0 | 
 | 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Chen Yaoye | Wu Guangya | Lose | W+R | 7.5 | 3260 | 0 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Chen Yaoye | An Dongxu | Win | B+R | 7.5 | 3260 | 0 | 
 | 2019-03-11 | 第1回王中王囲棋争覇戦敗者組2回戦 | Xie Erhao | Chen Yaoye | Lose | B+1¾ | 7.5 | 3260 | -4 | 
 | 2019-03-10 | 第1回王中王囲棋争覇戦敗者組1回戦 | Chen Yaoye | Ke Jie | Win | B+R | 7.5 | 3264 | 9 | 
 | 2019-03-09 | 第1回王中王囲棋争覇戦1回戦 | Fan Tingyu | Chen Yaoye | Lose | B+R | 7.5 | 3255 | 10 | 
@@ -473,8 +474,8 @@
 | 2012-12-15 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Chen Yaoye | Lin Zhihan | Lose | W+R | 7.5 | 3387 | 0 | 
 | 2012-12-15 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Chen Yaoye | Park Junghwan | Win | B+R | 7.5 | 3387 | -6 | 
 | 2012-12-14 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Chen Yaoye | Choi Cheolhan | Lose | W+R | 7.5 | 3393 | -34 | 
-| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Fujita Akihiko | Chen Yaoye | Win | W+12.5 | 7.5 | 3427 | 0 | 
-| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Park Junghwan | Chen Yaoye | Win | W+R | 7.5 | 3427 | -9 | 
+| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Park Junghwan | Chen Yaoye | Win | W+R | 7.5 | 3427 | 0 | 
+| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Fujita Akihiko | Chen Yaoye | Win | W+12.5 | 7.5 | 3427 | -9 | 
 | 2012-12-12 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Fernand Aguilar | Chen Yaoye | Win | W+R | 7.5 | 3436 | -6 | 
 | 2012-12-08 | 第14回中国囲碁甲級リーグ第22節 | Chen Yaoye | Tan Xiao | Lose | W+R | 7.5 | 3442 | 34 | 
 | 2012-12-06 | 第9回春蘭杯世界囲碁選手権準決勝 | Chen Yaoye | Jiang Weijie | Win | B+R | 7.5 | 3408 | 3 | 
@@ -653,8 +654,8 @@
 | 2010-03-04 | 2010CCTV杯中国囲棋電視快棋戦1回戦 | Chen Yaoye | Cao Dayuan | Win | B+R | 7.5 | 3198 | 67 | 
 | 2010-02-22 | 第10期リコー杯囲碁戦3回戦 | Xie He | Chen Yaoye | Lose | B+R | 7.5 | 3131 | -100 | 
 | 2009-12-30 | 第10期リコー杯囲碁戦2回戦 | Chen Yaoye | Ke Jie | Win | B+R | 7.5 | 3231 | 12 | 
-| 2009-12-27 | 第5期威孚房開杯棋王戦決勝 | Chen Yaoye | Kong Jie | Lose | W+R | 7.5 | 3219 | 0 | 
-| 2009-12-27 | 第5期威孚房開杯棋王戦準決勝 | Chen Yaoye | Niu Yutian | Win | B+R | 7.5 | 3219 | 12 | 
+| 2009-12-27 | 第5期威孚房開杯棋王戦準決勝 | Chen Yaoye | Niu Yutian | Win | B+R | 7.5 | 3219 | 0 | 
+| 2009-12-27 | 第5期威孚房開杯棋王戦決勝 | Chen Yaoye | Kong Jie | Lose | W+R | 7.5 | 3219 | 12 | 
 | 2009-12-19 | 第11回中国囲碁甲級リーグ第22節 | Wang Xi | Chen Yaoye | Win | W+0.5 | 7.5 | 3207 | -5 | 
 | 2009-12-12 | 第11回中国囲碁甲級リーグ第21節 | Wang Lei (s) | Chen Yaoye | Lose | B+3.5 | 7.5 | 3212 | 0 | 
 | 2009-12-05 | 第11回中国囲碁甲級リーグ第20節 | Wang Yao | Chen Yaoye | Win | W+R | 7.5 | 3212 | 16 | 

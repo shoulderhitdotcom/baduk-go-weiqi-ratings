@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 第9回中国女子囲碁甲級リーグ |  | Wang Chenxing | Lose | B+R | 7.5 | 2969 | -9 | 
 | 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing |  | Win | B+R | 7.5 | 2978 | -5 | 
 | 2021-11-30 | 第4回呉清源杯世界女子囲碁選手権準決勝 | Yu Zhiying | Wang Chenxing | Lose | B+R | 7.5 | 2983 | 3 | 
 | 2021-11-26 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第5戦 |  | Wang Chenxing | Lose | B+¾ | 7.5 | 2980 | -4 | 

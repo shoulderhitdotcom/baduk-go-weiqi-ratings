@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Ke Jie | Chen Yaoye | Lose | W+R | 7.5 | 3630 | 1 | 
 | 2021-12-12 | 第1回文投杯中国囲碁国手戦決勝 | Ke Jie | Ding Hao | Lose | W+R | 7.5 | 3629 | -12 | 
 | 2021-12-11 | 第1回文投杯中国囲碁国手戦準決勝 | Fan Yin | Ke Jie | Win | W+R | 7.5 | 3641 | -3 | 
 | 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Ke Jie | Tao Xinran | Win | B+R | 7.5 | 3644 | -15 | 

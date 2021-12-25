@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Jiang Weijie | Tang Weixing | Win | W+¼ | 7.5 | 3465 | -54 | 
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Tang Weixing | Huang Yunsong | Lose | W+R | 7.5 | 3519 | 8 | 
 | 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Peng Liyao | Tang Weixing | Lose | B+R | 7.5 | 3511 | -22 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Tang Weixing | Mi Yuting | Win | B+R | 7.5 | 3533 | 9 | 
@@ -174,8 +175,8 @@
 | 2018-03-28 | 第20回中国囲碁甲級リーグ第2節天津-成都 | Dang Yifei | Tang Weixing | Win | W+R | 7.5 | 3429 | -25 | 
 | 2018-03-26 | 第20回中国囲碁甲級リーグ第1節重慶-天津 | Tang Weixing | Yang Dingxin | Win | B+R | 7.5 | 3454 | 14 | 
 | 2018-03-23 | 第12回春蘭杯世界囲碁選手権2回戦 | Tang Weixing | Xie Ke | Lose | W+R | 7.5 | 3440 | -46 | 
-| 2018-03-10 | 第17回西南棋王戦決勝 | Mi Yuting | Tang Weixing | Lose | B+R | 7.5 | 3486 | 0 | 
-| 2018-03-10 | 第17回西南棋王戦準決勝 | Tang Weixing | Shi Yue | Win | B+R | 7.5 | 3486 | 2 | 
+| 2018-03-10 | 第17回西南棋王戦準決勝 | Tang Weixing | Shi Yue | Win | B+R | 7.5 | 3486 | 0 | 
+| 2018-03-10 | 第17回西南棋王戦決勝 | Mi Yuting | Tang Weixing | Lose | B+R | 7.5 | 3486 | 2 | 
 | 2018-03-09 | 第17回西南棋王戦2回戦 | Ke Jie | Tang Weixing | Win | W+R | 7.5 | 3484 | 0 | 
 | 2018-03-09 | 第17回西南棋王戦1回戦 | Tang Weixing | Li Xiangyu | Win | B+R | 7.5 | 3484 | -9 | 
 | 2018-03-05 | 第9期中国竜星戦予選 | Tong Yulin | Tang Weixing | Lose | B+¾ | 7.5 | 3493 | 18 | 
@@ -341,8 +342,8 @@
 | 2015-04-16 | 第20回LG杯予選 | Tang Weixing | Cho Hanseung | Win | B+0.5 | 6.5 | 3392 | 15 | 
 | 2015-04-05 | 第12期倡棋杯中国プロ囲碁選手権戦2回戦 | Yang Dingxin | Tang Weixing | Lose | B+R | 7.5 | 3377 | -14 | 
 | 2015-04-03 | 第12期倡棋杯中国プロ囲碁選手権戦1回戦 | Tang Weixing | Xiao Zhenghao | Win | B+R | 7.5 | 3391 | -147 | 
-| 2015-03-10 | 第14回西南棋王戦決勝 | Tang Weixing | Shi Yue | Win | B+R | 7.5 | 3538 | 0 | 
-| 2015-03-10 | 第14回西南棋王戦準決勝 | Tang Weixing | Gu Lingyi | Win | B+R | 7.5 | 3538 | -85 | 
+| 2015-03-10 | 第14回西南棋王戦準決勝 | Tang Weixing | Gu Lingyi | Win | B+R | 7.5 | 3538 | 0 | 
+| 2015-03-10 | 第14回西南棋王戦決勝 | Tang Weixing | Shi Yue | Win | B+R | 7.5 | 3538 | -85 | 
 | 2015-03-09 | 第14回西南棋王戦2回戦 | Yang Dingxin | Tang Weixing | Win | W+T | 7.5 | 3623 | 59 | 
 | 2015-02-02 | 第29期中国囲碁天元戦準決勝 | Li Qincheng | Tang Weixing | Lose | B+R | 7.5 | 3564 | -20 | 
 | 2015-01-30 | 第29期中国囲碁天元戦3回戦 | Tang Weixing | Yang Dingxin | Win | B+R | 7.5 | 3584 | 14 | 
@@ -407,8 +408,8 @@
 | 2014-03-23 | 第4期招商地産杯中韓囲棋団体対抗戦第2戦 | Choi Cheolhan | Tang Weixing | Win | W+R | 7.5 | 3421 | 6 | 
 | 2014-03-21 | 第4期招商地産杯中韓囲棋団体対抗戦第1戦 | Lee Jihyun | Tang Weixing | Win | W+R | 7.5 | 3415 | -1 | 
 | 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Tang Weixing | Mao Ruilong | Lose | W+R | 7.5 | 3416 | 12 | 
-| 2014-03-08 | 第13回西南棋王戦決勝 | Tang Weixing | Chang Hao | Win | B+R | 7.5 | 3404 | 0 | 
-| 2014-03-08 | 第13回西南棋王戦準決勝 | Wang Yao | Tang Weixing | Win | W+R | 7.5 | 3404 | 3 | 
+| 2014-03-08 | 第13回西南棋王戦準決勝 | Wang Yao | Tang Weixing | Win | W+R | 7.5 | 3404 | 0 | 
+| 2014-03-08 | 第13回西南棋王戦決勝 | Tang Weixing | Chang Hao | Win | B+R | 7.5 | 3404 | 3 | 
 | 2014-03-07 | 第13回西南棋王戦1回戦 | Tang Weixing | Mao Ruilong | Win | B+R | 7.5 | 3401 | -116 | 
 | 2013-12-30 | 第14期リコー杯囲碁戦2回戦 | Tang Weixing |  | Lose | W+0.5 | 7.5 | 3517 | 48 | 
 | 2013-12-11 | 第18回三星火災杯世界囲碁マスターズ決勝三番勝負第2局 | Lee Sedol | Tang Weixing | Win | W+R | 6.5 | 3469 | 6 | 
@@ -427,15 +428,15 @@
 | 2013-10-08 | 第18回三星火災杯世界囲碁マスターズ2回戦 | Park Yeonghun | Tang Weixing | Win | W+R | 6.5 | 3379 | -180 | 
 | 2013-09-12 | 第15回中国囲碁甲級リーグ第15節 | Jiang Weijie | Tang Weixing | Win | W+R | 7.5 | 3559 | 38 | 
 | 2013-09-10 | 第5期中国竜星戦2回戦 | Lian Xiao | Tang Weixing | Win | W+R | 7.5 | 3521 | 9 | 
-| 2013-09-09 | 第5期中国竜星戦1回戦 | Tang Weixing | Tan Xiao | Win | B+R | 7.5 | 3512 | 0 | 
-| 2013-09-09 | 第5期中国竜星戦予選 | Ke Jie | Tang Weixing | Win | W+R | 7.5 | 3512 | 21 | 
+| 2013-09-09 | 第5期中国竜星戦予選 | Ke Jie | Tang Weixing | Win | W+R | 7.5 | 3512 | 0 | 
+| 2013-09-09 | 第5期中国竜星戦1回戦 | Tang Weixing | Tan Xiao | Win | B+R | 7.5 | 3512 | 21 | 
 | 2013-09-07 | 第15回中国囲碁甲級リーグ第14節 | Tang Weixing |  | Lose | W+R | 7.5 | 3491 | 8 | 
 | 2013-09-04 | 第18回三星火災杯世界囲碁マスターズ1回戦A2 | Tang Weixing | Wu Guangya | Win | B+1.5 | 6.5 | 3483 | 37 | 
 | 2013-09-01 | 第15回中国囲碁甲級リーグ第13節 | Qiu Jun | Tang Weixing | Lose | B+R | 7.5 | 3446 | 6 | 
 | 2013-08-30 | 第15回中国囲碁甲級リーグ第12節 | Tang Weixing | Mi Yuting | Lose | W+0.5 | 7.5 | 3440 | -2 | 
 | 2013-08-27 | 第9期威孚房開杯棋王戦1回戦 | Shi Yue | Tang Weixing | Lose | B+R | 7.5 | 3442 | -34 | 
-| 2013-08-17 | 2013年宏達杯全国囲碁星鋭最強戦第3ステージ | Tang Weixing | Jiang Weijie | Lose | W+R | 7.5 | 3476 | 0 | 
-| 2013-08-17 | 2013年宏達杯全国囲碁星鋭最強戦第3ステージ | Tong Mengcheng | Tang Weixing | Win | W+R | 7.5 | 3476 | -21 | 
+| 2013-08-17 | 2013年宏達杯全国囲碁星鋭最強戦第3ステージ | Tong Mengcheng | Tang Weixing | Win | W+R | 7.5 | 3476 | 0 | 
+| 2013-08-17 | 2013年宏達杯全国囲碁星鋭最強戦第3ステージ | Tang Weixing | Jiang Weijie | Lose | W+R | 7.5 | 3476 | -21 | 
 | 2013-08-14 | 2013年宏達杯全国囲碁星鋭最強戦第3ステージ | Tang Weixing | Xie Ke | Win | B+5.5 | 7.5 | 3497 | -3 | 
 | 2013-08-09 | 第1回夢百合杯世界オープン戦3回戦 | Dang Yifei | Tang Weixing | Lose | B+1.5 | 7.5 | 3500 | 1 | 
 | 2013-08-07 | 第18回三星火災杯統合予選決勝 | Kim Seongjae | Tang Weixing | Win | W+R | 6.5 | 3499 | 117 | 

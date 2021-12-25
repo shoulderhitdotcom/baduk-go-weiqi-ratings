@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Li Qincheng | Lian Xiao | Win | W+R | 7.5 | 3514 | 9 | 
 | 2021-12-02 | 爛柯対弈·新千年爛柯譜第一局 | Lian Xiao | Ke Jie | Lose | W+R | 7.5 | 3505 | -71 | 
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Tuo Jiaxi | Lian Xiao | Lose | B+R | 7.5 | 3576 | 6 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Lian Xiao | Peng Liyao | Lose | W+¼ | 7.5 | 3570 | 13 | 
@@ -21,8 +22,8 @@
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Lian Xiao | Win | W+R | 7.5 | 3557 | -11 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Lian Xiao | Han Yizhou | Lose | W+R | 7.5 | 3568 | -11 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Lian Xiao | Win | W+R | 7.5 | 3579 | -7 | 
-| 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組 | Lian Xiao | Li Xuanhao | Win | B+R | 7.5 | 3586 | 0 | 
-| 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組第4戦 | Lian Xiao | Mi Yuting | Lose | W+R | 7.5 | 3586 | 1 | 
+| 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組第4戦 | Lian Xiao | Mi Yuting | Lose | W+R | 7.5 | 3586 | 0 | 
+| 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組 | Lian Xiao | Li Xuanhao | Win | B+R | 7.5 | 3586 | 1 | 
 | 2021-09-21 | 第14回中国全国運動会囲碁男子個人公開組第1戦 | Lian Xiao | Tang Weixing | Win | B+R | 7.5 | 3585 | 2 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Tan Xiao | Lian Xiao | Win | W+R | 7.5 | 3583 | 0 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Yu Zhiying | Lian Xiao | Win | W+R | 7.5 | 3583 | 4 | 
@@ -108,8 +109,8 @@
 | 2019-11-16 | 第4回全国智力運動会男子団体戦第5戦 | Mi Yuting | Lian Xiao | Lose | B+R | 7.5 | 3364 | 0 | 
 | 2019-11-15 | 第4回全国智力運動会男子団体戦第4戦 | Yang Dingxin | Lian Xiao | Win | W+R | 7.5 | 3364 | 0 | 
 | 2019-11-15 | 第4回全国智力運動会男子団体戦第3戦 | Lian Xiao | Gu Zihao | Lose | W+R | 7.5 | 3364 | -19 | 
-| 2019-11-10 | 第4回全国智力運動会プロ男子個人早碁戦決勝 | Chen Yaoye | Lian Xiao | Win | W+1¼ | 7.5 | 3383 | 0 | 
-| 2019-11-10 | 第4回全国智力運動会プロ男子個人早碁戦準決勝 | Lian Xiao | Huang Yunsong | Win | B+R | 7.5 | 3383 | 9 | 
+| 2019-11-10 | 第4回全国智力運動会プロ男子個人早碁戦準決勝 | Lian Xiao | Huang Yunsong | Win | B+R | 7.5 | 3383 | 0 | 
+| 2019-11-10 | 第4回全国智力運動会プロ男子個人早碁戦決勝 | Chen Yaoye | Lian Xiao | Win | W+1¼ | 7.5 | 3383 | 9 | 
 | 2019-11-06 | 第21回中国囲碁甲級リーグプレーオフ3回戦第2戦 | Lian Xiao | Huang Yunsong | Lose | W+R | 7.5 | 3374 | -12 | 
 | 2019-11-04 | 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 | Lian Xiao | Huang Yunsong | Lose | W+R | 7.5 | 3386 | 70 | 
 | 2019-09-18 | 第15期威孚房開杯棋王戦16強戦 | Lian Xiao | Tuo Jiaxi | Lose | W+R | 7.5 | 3316 | 21 | 
@@ -209,8 +210,8 @@
 | 2018-04-12 | 2018CCTV杯中国囲棋電視快棋戦準決勝 | Lian Xiao | Fan Tingyu | Lose | W+¼ | 7.5 | 3424 | -7 | 
 | 2018-04-11 | 2018CCTV杯中国囲棋電視快棋戦4回戦 | Peng Liyao | Lian Xiao | Win | W+R | 7.5 | 3431 | -2 | 
 | 2018-04-10 | 2018CCTV杯中国囲棋電視快棋戦3回戦 | Gu Li | Lian Xiao | Win | W+R | 7.5 | 3433 | 3 | 
-| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yunsong | Lian Xiao | Win | W+R | 7.5 | 3430 | 0 | 
-| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦2回戦 | Lian Xiao |  | Win | B+R | 7.5 | 3430 | 45 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦2回戦 | Lian Xiao |  | Win | B+R | 7.5 | 3430 | 0 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Huang Yunsong | Lian Xiao | Win | W+R | 7.5 | 3430 | 45 | 
 | 2018-03-30 | 第20回中国囲碁甲級リーグ第3節蘇泊爾-山東 | Jiang Weijie | Lian Xiao | Win | W+R | 7.5 | 3385 | -32 | 
 | 2018-03-28 | 第20回中国囲碁甲級リーグ第2節衢州-蘇泊爾 | Lian Xiao | Lee Sedol | Win | B+R | 7.5 | 3417 | -19 | 
 | 2018-03-26 | 第20回中国囲碁甲級リーグ第1節蘇泊爾-民生 | Shi Yue | Lian Xiao | Win | W+R | 7.5 | 3436 | 16 | 
@@ -306,8 +307,8 @@
 | 2016-05-18 | 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Lian Xiao | Chang Hao | Lose | W+R | 7.5 | 3180 | -18 | 
 | 2016-05-16 | 第18回中国囲碁甲級リーグ第5節 | Lian Xiao | Li Kang | Win | B+R | 7.5 | 3198 | -61 | 
 | 2016-05-09 | 第18回中国囲碁甲級リーグ第4節 | Lian Xiao | Piao Wenyao | Lose | W+R | 7.5 | 3259 | -27 | 
-| 2016-05-06 | 第18期阿含・桐山杯中国早碁オープン戦予選 |  | Lian Xiao | Win | W+R | 7.5 | 3286 | 0 | 
-| 2016-05-06 | 第18期阿含・桐山杯中国早碁オープン戦予選 |  | Lian Xiao | Win | W+2.5 | 7.5 | 3286 | 9 | 
+| 2016-05-06 | 第18期阿含・桐山杯中国早碁オープン戦予選 |  | Lian Xiao | Win | W+2.5 | 7.5 | 3286 | 0 | 
+| 2016-05-06 | 第18期阿含・桐山杯中国早碁オープン戦予選 |  | Lian Xiao | Win | W+R | 7.5 | 3286 | 9 | 
 | 2016-04-30 | 第18回中国囲碁甲級リーグ第3節 | Ding Shixiong | Lian Xiao | Win | W+R | 7.5 | 3277 | 56 | 
 | 2016-04-20 | 第8回応氏杯世界選手権1回戦 | Lian Xiao | Kim Jiseok | Lose | W+R | 7.5 | 3221 | -7 | 
 | 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Lian Xiao | Gu Zihao | Win | B+R | 7.5 | 3228 | 8 | 
@@ -398,8 +399,8 @@
 | 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Yang Dingxin | Lian Xiao | Win | W+R | 7.5 | 3395 | 38 | 
 | 2014-05-30 | 第11期倡棋杯中国プロ囲碁選手権戦2回戦 | Lian Xiao |  | Lose | W+R | 7.5 | 3357 | -10 | 
 | 2014-05-26 | 第27期中国囲碁名人戦準決勝 | Jiang Weijie | Lian Xiao | Win | W+R | 7.5 | 3367 | 71 | 
-| 2014-05-11 | 第1回グロービス杯世界囲碁U-20三位決定戦 | Lian Xiao | Xia Chenkun | Win | B+3.5 | 6.5 | 3296 | 0 | 
-| 2014-05-11 | 第1回グロービス杯世界囲碁U-20準決勝 | Ichiriki Ryo | Lian Xiao | Lose | B+R | 6.5 | 3296 | -6 | 
+| 2014-05-11 | 第1回グロービス杯世界囲碁U-20準決勝 | Ichiriki Ryo | Lian Xiao | Lose | B+R | 6.5 | 3296 | 0 | 
+| 2014-05-11 | 第1回グロービス杯世界囲碁U-20三位決定戦 | Lian Xiao | Xia Chenkun | Win | B+3.5 | 6.5 | 3296 | -6 | 
 | 2014-05-10 | 第1回グロービス杯世界囲碁U-20準々決勝 | Lian Xiao | Shin Jinseo | Win | B+R | 6.5 | 3302 | 1 | 
 | 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグD | Lian Xiao | Lukas Podpera | Win | B+R | 6.5 | 3301 | 0 | 
 | 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグD | Hsu Chiayuan | Lian Xiao | Win | W+3.5 | 6.5 | 3301 | 16 | 
@@ -505,8 +506,8 @@
 | 2012-08-02 | 第17回三星火災杯統合予選1回戦 | Lian Xiao | Cho Hanseung | Win | B+R | 6.5 | 3523 | -62 | 
 | 2012-07-15 | 第14回中国囲碁甲級リーグ第11節 | Lian Xiao | Shi Yue | Win | B+R | 7.5 | 3585 | 22 | 
 | 2012-07-13 | 第14回中国囲碁甲級リーグ第10節 | Zhou Hexi | Lian Xiao | Win | W+R | 7.5 | 3563 | -21 | 
-| 2012-07-11 | 2012CCTV杯中国囲棋電視快棋戦決勝 | Tuo Jiaxi | Lian Xiao | Lose | B+R | 7.5 | 3584 | 0 | 
-| 2012-07-11 | 2012CCTV杯中国囲棋電視快棋戦準決勝 | Luo Xihe | Lian Xiao | Win | W+T | 7.5 | 3584 | -19 | 
+| 2012-07-11 | 2012CCTV杯中国囲棋電視快棋戦準決勝 | Luo Xihe | Lian Xiao | Win | W+T | 7.5 | 3584 | 0 | 
+| 2012-07-11 | 2012CCTV杯中国囲棋電視快棋戦決勝 | Tuo Jiaxi | Lian Xiao | Lose | B+R | 7.5 | 3584 | -19 | 
 | 2012-07-10 | 2012CCTV杯中国囲棋電視快棋戦4回戦 | Zhu Yuanhao | Lian Xiao | Win | W+R | 7.5 | 3603 | 0 | 
 | 2012-07-10 | 2012CCTV杯中国囲棋電視快棋戦3回戦 | Lian Xiao | Hu Yuqing | Win | B+5.5 | 7.5 | 3603 | 23 | 
 | 2012-07-09 | 2012CCTV杯中国囲棋電視快棋戦2回戦 | Lian Xiao | Mi Yuting | Win | B+R | 7.5 | 3580 | 0 | 

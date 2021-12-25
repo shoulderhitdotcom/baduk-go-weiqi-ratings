@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 第1回テイケイ杯俊英戦Aリーグ | Abe Yoshiki | Shibano Toramaru | Lose | W+R | 6.5 | 2536 | 39 | 
 | 2021-12-24 | 第1回テイケイ杯俊英戦Aリーグ | Abe Yoshiki | Koyama Kuya | Lose | W+R | 6.5 | 2497 | -86 | 
 | 2021-12-22 | 第1回テイケイ杯俊英戦Aリーグ | Abe Yoshiki |  | Lose | W+0.5 | 6.5 | 2583 | -34 | 
 | 2021-12-21 | 第1回テイケイ杯俊英戦Aリーグ | Ichiriki Ryo | Abe Yoshiki | Lose | B+R | 6.5 | 2617 | -11 | 

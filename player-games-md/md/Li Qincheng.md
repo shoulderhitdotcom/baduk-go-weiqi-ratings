@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Li Qincheng | Lian Xiao | Lose | W+R | 7.5 | 3591 | 47 | 
 | 2021-11-29 | 第23回農心辛ラーメン杯世界囲碁最強戦第8戦  | Li Qincheng | Iyama Yuta | Lose | W+R | 6.5 | 3544 | -76 | 
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Mi Yuting | Li Qincheng | Lose | B+1¾ | 7.5 | 3620 | 19 | 
 | 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Li Qincheng | Fan Tingyu | Lose | W+R | 7.5 | 3601 | -28 | 
@@ -74,8 +75,8 @@
 | 2019-11-17 | 第4回全国智力運動会男子団体戦第8戦 | Li Qincheng | Yi Lingtao | Lose | W+1¼ | 7.5 | 3212 | -4 | 
 | 2019-11-16 | 第4回全国智力運動会男子団体戦第6戦 | Chen Yunong | Li Qincheng | Lose | B+R | 7.5 | 3216 | -24 | 
 | 2019-11-15 | 第4回全国智力運動会男子団体戦第4戦 | Li Qincheng | He Yuhan | Win | B+¾ | 7.5 | 3240 | 3 | 
-| 2019-11-12 | 第4回全国智力運動会プロ男子個人戦優勝決定戦 | Li Qincheng | Jiang Weijie | Lose | W+R | 7.5 | 3237 | 0 | 
-| 2019-11-12 | 第4回全国智力運動会プロ男子個人戦第7戦 | Li Xuanhao | Li Qincheng | Win | W+R | 7.5 | 3237 | -13 | 
+| 2019-11-12 | 第4回全国智力運動会プロ男子個人戦第7戦 | Li Xuanhao | Li Qincheng | Win | W+R | 7.5 | 3237 | 0 | 
+| 2019-11-12 | 第4回全国智力運動会プロ男子個人戦優勝決定戦 | Li Qincheng | Jiang Weijie | Lose | W+R | 7.5 | 3237 | -13 | 
 | 2019-11-11 | 第4回全国智力運動会プロ男子個人戦第6戦 | Li Qincheng | Fan Tingyu | Win | B+R | 7.5 | 3250 | 0 | 
 | 2019-11-11 | 第4回全国智力運動会プロ男子個人戦第5戦 | Han Yizhou | Li Qincheng | Win | W+R | 7.5 | 3250 | 31 | 
 | 2019-11-10 | 第4回全国智力運動会プロ男子個人戦第4戦 | Li Qincheng | Tuo Jiaxi | Win | B+R | 7.5 | 3219 | 13 | 
@@ -135,8 +136,8 @@
 | 2018-06-02 | 第20回中国囲碁甲級リーグ第8節重慶-蘇泊爾 | Tan Xiao | Li Qincheng | Lose | B+R | 7.5 | 3374 | -57 | 
 | 2018-05-21 | 第20回中国囲碁甲級リーグ第7節蘇泊爾-中信 | Li Qincheng | Tuo Jiaxi | Lose | W+1¼ | 7.5 | 3431 | 36 | 
 | 2018-05-17 | 嫘祖杯第31回中国囲棋名人戦16強戦 | Peng Liyao | Li Qincheng | Lose | B+R | 7.5 | 3395 | -9 | 
-| 2018-05-16 | 嫘祖杯第31回中国囲棋名人戦32強戦 | Li Qincheng | Chen Xian | Lose | Void | 7.5 | 3404 | 0 | 
-| 2018-05-16 | 嫘祖杯第31回中国囲棋名人戦32強戦 | Chen Xian | Li Qincheng | Win | W+R | 7.5 | 3404 | -20 | 
+| 2018-05-16 | 嫘祖杯第31回中国囲棋名人戦32強戦 | Chen Xian | Li Qincheng | Win | W+R | 7.5 | 3404 | 0 | 
+| 2018-05-16 | 嫘祖杯第31回中国囲棋名人戦32強戦 | Li Qincheng | Chen Xian | Lose | Void | 7.5 | 3404 | -20 | 
 | 2018-05-14 | 第20回中国囲碁甲級リーグ第6節天津-蘇泊爾 | Meng Tailing | Li Qincheng | Lose | B+R | 7.5 | 3424 | -4 | 
 | 2018-05-11 | 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Ke Jie | Li Qincheng | Lose | B+R | 7.5 | 3428 | -28 | 
 | 2018-05-09 | 第20回中国囲碁甲級リーグ第5節蘇泊爾-廈門 | Li Qincheng | Zhou Ruiyang | Lose | W+R | 7.5 | 3456 | -5 | 
@@ -196,8 +197,8 @@
 | 2017-04-17 | 第19期中国阿含桐山杯本選2回戦 | Rui Naiwei | Li Qincheng | Win | W+R | 7.5 | 3329 | -13 | 
 | 2017-04-12 | 第8期中国竜星戦準決勝 | Gu Zihao | Li Qincheng | Win | W+R | 7.5 | 3342 | 186 | 
 | 2017-03-16 | 第8期中国竜星戦Aブロック9回戦 | Chen Yaoye | Li Qincheng | Lose | B+1.5 | 7.5 | 3156 | -18 | 
-| 2017-03-14 | 第8期中国竜星戦Aブロック7回戦 | Li Qincheng | Gu Li | Win | B+R | 7.5 | 3174 | 0 | 
-| 2017-03-14 | 第8期中国竜星戦Aブロック8回戦 | Tuo Jiaxi | Li Qincheng | Win | W+R | 7.5 | 3174 | 15 | 
+| 2017-03-14 | 第8期中国竜星戦Aブロック8回戦 | Tuo Jiaxi | Li Qincheng | Win | W+R | 7.5 | 3174 | 0 | 
+| 2017-03-14 | 第8期中国竜星戦Aブロック7回戦 | Li Qincheng | Gu Li | Win | B+R | 7.5 | 3174 | 15 | 
 | 2017-03-01 | 第8期中国竜星戦Aブロック6回戦 | Liu Xing | Li Qincheng | Win | W+R | 7.5 | 3159 | 48 | 
 | 2017-01-14 | 第31期中国囲碁天元戦1回戦 | Li Qincheng | Chen Xian | Lose | W+R | 7.5 | 3111 | 12 | 
 | 2017-01-01 | Alphago Online Series on Tygem and Fox 31 |  | Li Qincheng | Lose | B+R | 6.5 | 3099 | 0 | 
@@ -246,12 +247,12 @@
 | 2016-05-07 | 第18期阿含・桐山杯中国早碁オープン戦予選 | Li Qincheng | Gu Zihao | Lose | W+R | 7.5 | 3122 | -19 | 
 | 2016-05-06 | 第18期阿含・桐山杯中国早碁オープン戦予選 | Li Qincheng |  | Win | B+R | 7.5 | 3141 | 4 | 
 | 2016-04-30 | 第18回中国囲碁甲級リーグ第3節 | Li Qincheng | Fan Tingyu | Win | B+R | 7.5 | 3137 | 52 | 
-| 2016-04-24 | 第3回グロービス杯世界囲碁U-20決勝 | Li Qincheng | Hsu Chiayuan | Win | B+R | 6.5 | 3085 | 0 | 
-| 2016-04-24 | 第3回グロービス杯世界囲碁U-20準決勝 | Li Qincheng | Byun Sangil | Win | B+R | 6.5 | 3085 | 12 | 
+| 2016-04-24 | 第3回グロービス杯世界囲碁U-20準決勝 | Li Qincheng | Byun Sangil | Win | B+R | 6.5 | 3085 | 0 | 
+| 2016-04-24 | 第3回グロービス杯世界囲碁U-20決勝 | Li Qincheng | Hsu Chiayuan | Win | B+R | 6.5 | 3085 | 12 | 
 | 2016-04-23 | 第3回グロービス杯世界囲碁U-20準々決勝 | Shibano Toramaru | Li Qincheng | Win | W+R | 6.5 | 3073 | 0 | 
 | 2016-04-23 | 第3回グロービス杯世界囲碁U-20グループリーグB | Li Qincheng | Mutsuura Yuta | Win | B+R | 6.5 | 3073 | 3 | 
-| 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグB | Grigorij Fionin | Li Qincheng | Win | W+R | 6.5 | 3070 | 0 | 
-| 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグB | Li Qincheng | Shin Jinseo | Lose | W+R | 6.5 | 3070 | -21 | 
+| 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグB | Li Qincheng | Shin Jinseo | Lose | W+R | 6.5 | 3070 | 0 | 
+| 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグB | Grigorij Fionin | Li Qincheng | Win | W+R | 6.5 | 3070 | -21 | 
 | 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Sun Tengyu | Li Qincheng | Win | W+R | 7.5 | 3091 | 10 | 
 | 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Li Qincheng | Tuo Jiaxi | Lose | W+R | 7.5 | 3081 | 7 | 
 | 2016-04-05 | 第21回LG杯予選 |  | Li Qincheng | Lose | B+0.5 | 6.5 | 3074 | -41 | 
@@ -302,11 +303,11 @@
 | 2015-05-26 | 第2回夢百合杯世界オープン戦予選 | Li Qincheng | Ahn Kukhyun | Win | B+R | 7.5 | 3435 | -2 | 
 | 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Yang Kaiwen | Li Qincheng | Lose | B+R | 7.5 | 3437 | -22 | 
 | 2015-05-16 | 第17回中国囲碁甲級リーグ第4節 | Gu Li | Li Qincheng | Lose | B+R | 7.5 | 3459 | 8 | 
-| 2015-05-10 | 第2回グロービス杯世界囲碁U-20三位決定戦 | Li Qincheng | Lee Donghoon | Win | B+R | 6.5 | 3451 | 0 | 
-| 2015-05-10 | 第2回グロービス杯世界囲碁U-20準決勝 | Na Hyun | Li Qincheng | Lose | B+R | 6.5 | 3451 | 36 | 
+| 2015-05-10 | 第2回グロービス杯世界囲碁U-20準決勝 | Na Hyun | Li Qincheng | Lose | B+R | 6.5 | 3451 | 0 | 
+| 2015-05-10 | 第2回グロービス杯世界囲碁U-20三位決定戦 | Li Qincheng | Lee Donghoon | Win | B+R | 6.5 | 3451 | 36 | 
 | 2015-05-09 | 第2回グロービス杯世界囲碁U-20準々決勝 | Sada Atsushi | Li Qincheng | Win | W+6.5 | 6.5 | 3415 | -41 | 
-| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグC | Li Qincheng | Motoki Katsuya | Win | B+R | 6.5 | 3456 | 0 | 
-| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグC | Shin Jinseo | Li Qincheng | Win | W+R | 6.5 | 3456 | 3 | 
+| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグC | Shin Jinseo | Li Qincheng | Win | W+R | 6.5 | 3456 | 0 | 
+| 2015-05-08 | 第2回グロービス杯世界囲碁U-20グループリーグC | Li Qincheng | Motoki Katsuya | Win | B+R | 6.5 | 3456 | 3 | 
 | 2015-05-06 | 第28期中国囲碁名人戦1回戦 | Li Qincheng | Wang Yao | Win | B+R | 7.5 | 3453 | -14 | 
 | 2015-05-01 | 第17回中国囲碁甲級リーグ第2節 | Li Qincheng | Piao Wenyao | Win | B+R | 7.5 | 3467 | 41 | 
 | 2015-04-22 | 第17回中国囲碁甲級リーグ第1節 | Liu Xing | Li Qincheng | Win | W+R | 7.5 | 3426 | 29 | 
@@ -336,10 +337,10 @@
 | 2014-06-18 | 2014年中韓新鋭対抗戦第2戦 | Li Qincheng | Shin Jinseo | Lose | W+R | 6.5 | 3331 | -17 | 
 | 2014-06-17 | 2014年中韓新鋭対抗戦第1戦 | Min Sangyoun | Li Qincheng | Win | W+R | 6.5 | 3348 | 88 | 
 | 2014-05-10 | 第1回グロービス杯世界囲碁U-20準々決勝 | Li Qincheng | Hsu Chiayuan | Lose | W+R | 6.5 | 3260 | -16 | 
-| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグC | Li Qincheng | Sun Zhe | Win | B+0.5 | 6.5 | 3276 | 0 | 
-| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグC | Li Qincheng | Shin Jinseo | Win | B+R | 6.5 | 3276 | 29 | 
-| 2014-05-07 | 2014CCTV杯中国囲棋電視快棋戦決勝 | Li Qincheng | Tao Xinran | Win | B+R | 7.5 | 3247 | 0 | 
-| 2014-05-07 | 2014CCTV杯中国囲棋電視快棋戦準決勝 | Li Qincheng | Wang Haoyang | Win | B+R | 7.5 | 3247 | 15 | 
+| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグC | Li Qincheng | Shin Jinseo | Win | B+R | 6.5 | 3276 | 0 | 
+| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグC | Li Qincheng | Sun Zhe | Win | B+0.5 | 6.5 | 3276 | 29 | 
+| 2014-05-07 | 2014CCTV杯中国囲棋電視快棋戦準決勝 | Li Qincheng | Wang Haoyang | Win | B+R | 7.5 | 3247 | 0 | 
+| 2014-05-07 | 2014CCTV杯中国囲棋電視快棋戦決勝 | Li Qincheng | Tao Xinran | Win | B+R | 7.5 | 3247 | 15 | 
 | 2014-05-06 | 2014CCTV杯中国囲棋電視快棋戦4回戦 | Fan Tingyu | Li Qincheng | Win | W+R | 7.5 | 3232 | 0 | 
 | 2014-05-06 | 2014CCTV杯中国囲棋電視快棋戦3回戦 | Zhou Hexi | Li Qincheng | Win | W+R | 7.5 | 3232 | 16 | 
 | 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦2回戦 | Li Qincheng | Niu Yutian | Win | B+R | 7.5 | 3216 | 0 | 

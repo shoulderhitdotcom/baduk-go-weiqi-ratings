@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Peng Liyao | Fan Tingyu | Win | B+R | 7.5 | 3508 | 7 | 
 | 2021-11-21 | 2021CCTV杯中国囲棋電視快棋戦準決勝 | Peng Liyao | Ke Jie | Lose | W+R | 7.5 | 3501 | 5 | 
 | 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Peng Liyao | Tang Weixing | Win | B+R | 7.5 | 3496 | 11 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Ding Hao | Peng Liyao | Win | W+R | 7.5 | 3485 | 17 | 
@@ -86,8 +87,8 @@
 | 2019-04-08 | 2019CCTV杯中国囲棋電視快棋戦準決勝 | Xu Jiayang | Peng Liyao | Lose | B+R | 7.5 | 3256 | -1 | 
 | 2019-03-30 | 2019CCTV杯中国囲棋電視快棋戦4回戦 | Wu Guangya | Peng Liyao | Win | W+R | 7.5 | 3257 | -1 | 
 | 2019-03-29 | 2019CCTV杯中国囲棋電視快棋戦3回戦 | Peng Liyao | Zhao Chenyu | Win | B+R | 7.5 | 3258 | 19 | 
-| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Liao Yuanhe | Peng Liyao | Win | W+R | 7.5 | 3239 | 0 | 
-| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Peng Liyao |  | Win | B+R | 7.5 | 3239 | 53 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Peng Liyao |  | Win | B+R | 7.5 | 3239 | 0 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Liao Yuanhe | Peng Liyao | Win | W+R | 7.5 | 3239 | 53 | 
 | 2019-03-04 | 第16期倡棋杯中国プロ囲棋選手権戦2回戦 | Xia Chenkun | Peng Liyao | Lose | B+R | 7.5 | 3186 | -23 | 
 | 2019-01-04 | 第33期中国囲碁天元戦1回戦 | Peng Liyao | Tong Mengcheng | Lose | W+R | 7.5 | 3209 | -9 | 
 | 2019-01-03 | 第33期中国囲碁天元戦予選 | Huang Xin | Peng Liyao | Win | W+R | 7.5 | 3218 | -3 | 
@@ -310,8 +311,8 @@
 | 2013-06-22 | 第15回中国囲碁甲級リーグ第9節 | Tong Yulin | Peng Liyao | Win | W+R | 7.5 | 3371 | 10 | 
 | 2013-06-15 | 第15回中国囲碁甲級リーグ第8節 | Peng Liyao | Chang Hao | Win | B+R | 7.5 | 3361 | -9 | 
 | 2013-06-07 | 第26期中国囲碁名人戦2回戦 | Mao Ruilong | Peng Liyao | Win | W+R | 7.5 | 3370 | -2 | 
-| 2013-06-06 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Ding Wei | Peng Liyao | Win | W+4.5 | 7.5 | 3372 | 0 | 
-| 2013-06-06 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Peng Liyao | Han Yizhou | Lose | W+R | 7.5 | 3372 | -13 | 
+| 2013-06-06 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Peng Liyao | Han Yizhou | Lose | W+R | 7.5 | 3372 | 0 | 
+| 2013-06-06 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Ding Wei | Peng Liyao | Win | W+4.5 | 7.5 | 3372 | -13 | 
 | 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Yang Kaiwen | Peng Liyao | Win | W+R | 7.5 | 3385 | 0 | 
 | 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Peng Liyao | Pan Fei | Win | B+R | 7.5 | 3385 | -14 | 
 | 2013-06-02 | 第15回中国囲碁甲級リーグ第7節 | Cho Hanseung | Peng Liyao | Lose | B+R | 7.5 | 3399 | 131 | 
@@ -380,8 +381,8 @@
 | 2012-03-25 | 第2期招商地産杯中韓囲棋団体対抗戦第2戦 | Peng Liyao | Lee Jihyun | Win | B+R | 7.5 | 3617 | 11 | 
 | 2012-03-23 | 第2期招商地産杯中韓囲棋団体対抗戦第1戦 | Weon Seongjin | Peng Liyao | Win | W+R | 7.5 | 3606 | 21 | 
 | 2012-03-12 | 第1回百霊杯世界囲碁選手権予選 | Park Yeonghun | Peng Liyao | Lose | B+R | 7.5 | 3585 | -87 | 
-| 2012-03-07 | 第11回西南棋王戦決勝 | Piao Wenyao | Peng Liyao | Lose | B+R | 7.5 | 3672 | 0 | 
-| 2012-03-07 | 第11回西南棋王戦準決勝 | Yang Dingxin | Peng Liyao | Win | W+R | 7.5 | 3672 | 39 | 
+| 2012-03-07 | 第11回西南棋王戦準決勝 | Yang Dingxin | Peng Liyao | Win | W+R | 7.5 | 3672 | 0 | 
+| 2012-03-07 | 第11回西南棋王戦決勝 | Piao Wenyao | Peng Liyao | Lose | B+R | 7.5 | 3672 | 39 | 
 | 2012-02-12 | 第26期中国囲碁天元戦2回戦 | Peng Liyao | Kong Jie | Lose | W+R | 7.5 | 3633 | -15 | 
 | 2012-02-10 | 第26期中国囲碁天元戦1回戦 | Yu Bin | Peng Liyao | Win | W+R | 7.5 | 3648 | 8 | 
 | 2012-02-09 | 第26期中国囲碁天元戦予選 | Huang Yizhong | Peng Liyao | Win | W+R | 7.5 | 3640 | 10 | 
@@ -430,8 +431,8 @@
 | 2010-12-11 | 第12回中国囲碁甲級リーグ第21節 | Peng Liyao |  | Win | B+R | 7.5 | 3124 | 69 | 
 | 2010-12-04 | 第12回中国囲碁甲級リーグ第20節 | Peng Liyao | Tao Xinran | Lose | W+R | 7.5 | 3055 | -82 | 
 | 2010-11-16 | 第12回中国囲碁甲級リーグ第19節 | Peng Liyao |  | Win | B+R | 7.5 | 3137 | 4 | 
-| 2010-11-14 | 第6期威孚房開杯棋王戦決勝 | Gu Lingyi | Peng Liyao | Lose | B+R | 7.5 | 3133 | 0 | 
-| 2010-11-14 | 第6期威孚房開杯棋王戦準決勝 | Peng Liyao | Tuo Jiaxi | Win | B+R | 7.5 | 3133 | 9 | 
+| 2010-11-14 | 第6期威孚房開杯棋王戦準決勝 | Peng Liyao | Tuo Jiaxi | Win | B+R | 7.5 | 3133 | 0 | 
+| 2010-11-14 | 第6期威孚房開杯棋王戦決勝 | Gu Lingyi | Peng Liyao | Lose | B+R | 7.5 | 3133 | 9 | 
 | 2010-11-13 | 第6期威孚房開杯棋王戦3回戦 | Peng Liyao | Wu Guangya | Win | B+R | 7.5 | 3124 | -6 | 
 | 2010-11-04 | 第12回中国囲碁甲級リーグ第18節 | Peng Liyao | Zhong Wenjing | Win | B+R | 7.5 | 3130 | 19 | 
 | 2010-10-30 | 第12回中国囲碁甲級リーグ第17節 | Wang Yao | Peng Liyao | Win | W+R | 7.5 | 3111 | 25 | 

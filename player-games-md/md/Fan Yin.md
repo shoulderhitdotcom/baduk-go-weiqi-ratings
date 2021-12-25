@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Rong Yi | Fan Yin | Lose | B+2¾ | 7.5 | 3430 | -8 | 
 | 2021-12-11 | 第1回文投杯中国囲碁国手戦準決勝 | Fan Yin | Ke Jie | Lose | W+R | 7.5 | 3438 | -14 | 
 | 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Li Xuanhao | Fan Yin | Win | W+R | 7.5 | 3452 | -45 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Fan Yin | Li Xuanhao | Lose | W+R | 7.5 | 3497 | -11 | 

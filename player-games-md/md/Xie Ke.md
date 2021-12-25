@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Li Xuanhao | Xie Ke | Lose | B+R | 7.5 | 3500 | -97 | 
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Xie Ke | Tong Mengcheng | Lose | W+¼ | 7.5 | 3597 | 7 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Xie Ke | Xie Erhao | Lose | W+1¼ | 7.5 | 3590 | 24 | 
 | 2021-10-22 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Xie Ke | Lee Donghoon | Lose | W+R | 6.5 | 3566 | -13 | 
@@ -116,8 +117,8 @@
 | 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Xie Ke | Chen Zhengxun | Win | B+R | 7.5 | 3262 | 25 | 
 | 2019-04-15 | 第21回中国囲碁甲級リーグ第1節濰坊-蘇泊爾 | Chen Zijian | Xie Ke | Win | W+3¼ | 7.5 | 3237 | -9 | 
 | 2019-03-29 | 2019CCTV杯中国囲棋電視快棋戦3回戦 | Xie Ke | Xie Erhao | Lose | W+R | 7.5 | 3246 | 2 | 
-| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Gu Zihao | Xie Ke | Win | W+R | 7.5 | 3244 | 0 | 
-| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Xie Ke | Zhu Yuanhao | Win | B+R | 7.5 | 3244 | 17 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Xie Ke | Zhu Yuanhao | Win | B+R | 7.5 | 3244 | 0 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Gu Zihao | Xie Ke | Win | W+R | 7.5 | 3244 | 17 | 
 | 2019-03-14 | 第10期中国竜星戦Aブロック7回戦 | Xie Ke | Jiang Weijie | Lose | W+R | 7.5 | 3227 | 2 | 
 | 2019-03-13 | 第10期中国竜星戦Aブロック6回戦 | Xie Ke | Chang Hao | Win | B+R | 7.5 | 3225 | -1 | 
 | 2019-03-12 | 第10期中国竜星戦Aブロック5回戦 | Han Yizhou | Xie Ke | Win | W+R | 7.5 | 3226 | 21 | 

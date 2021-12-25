@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 第1回テイケイ杯俊英戦Bリーグ | Tsuruta Kazushi | Hsu Chiayuan | Lose | W+1.5 | 6.5 | 2988 | 4 | 
 | 2021-12-24 | 第1回テイケイ杯俊英戦Bリーグ | Tsuruta Kazushi | Hirose Yuichi | Lose | W+4.5 | 6.5 | 2984 | -44 | 
 | 2021-12-22 | 第1回テイケイ杯俊英戦Bリーグ | Otake Yu | Tsuruta Kazushi | Win | W+R | 6.5 | 3028 | 118 | 
 | 2021-12-21 | 第1回テイケイ杯俊英戦Bリーグ | Tsuruta Kazushi | Onishi Kenya | Win | B+6.5 | 6.5 | 2910 | 39 | 

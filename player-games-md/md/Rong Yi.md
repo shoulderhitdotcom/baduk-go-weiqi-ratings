@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Rong Yi | Fan Yin | Win | B+2¾ | 7.5 | 3405 | -54 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Rong Yi | Xie Ke | Lose | W+R | 7.5 | 3459 | 1 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Rong Yi | Liu Yuhang | Lose | W+R | 7.5 | 3458 | -27 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Rong Yi | Win | W+R | 7.5 | 3485 | 14 | 

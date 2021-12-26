@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Lian Xiao | Rong Yi | Lose | W+¼ | 7.5 | 3562.0 | 48.0 | 
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Li Qincheng | Lian Xiao | Win | W+R | 7.5 | 3514.0 | 9.0 | 
 | 2021-12-02 | 爛柯対弈·新千年爛柯譜第一局 | Lian Xiao | Ke Jie | Lose | W+R | 7.5 | 3505.0 | -71.0 | 
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Tuo Jiaxi | Lian Xiao | Lose | B+R | 7.5 | 3576.0 | 6.0 | 

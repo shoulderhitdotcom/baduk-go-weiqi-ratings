@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-26 | 第9回中国女子囲碁甲級リーグ | Wang Shuang |  | Lose | W+R | 7.5 | 2985.0 | 29.0 | 
 | 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Wang Shuang |  | Win | B+R | 7.5 | 2956.0 | -60.0 | 
 | 2021-10-19 | 第9回中国女子囲碁甲級リーグ | Wang Shuang | Lu Minquan | Win | B+R | 7.5 | 3016.0 | -120.0 | 
 | 2021-10-18 | 第9回中国女子囲碁甲級リーグ | Wang Shuang | Yu Zhiying | Lose | W+R | 7.5 | 3136.0 | -5.0 | 

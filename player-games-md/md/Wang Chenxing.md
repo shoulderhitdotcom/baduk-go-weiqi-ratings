@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-26 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing | Cai Bihan | Win | B+R | 7.5 | 3034.0 | 65.0 | 
 | 2021-12-25 | 第9回中国女子囲碁甲級リーグ |  | Wang Chenxing | Lose | B+R | 7.5 | 2969.0 | -9.0 | 
 | 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Wang Chenxing |  | Win | B+R | 7.5 | 2978.0 | -5.0 | 
 | 2021-11-30 | 第4回呉清源杯世界女子囲碁選手権準決勝 | Yu Zhiying | Wang Chenxing | Lose | B+R | 7.5 | 2983.0 | 3.0 | 

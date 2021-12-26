@@ -18,8 +18,7 @@ using Revise: includet
 includet("utils.jl")
 
 # rating offset
-const OFFSET = 3800 - 6.5 / log(10) * 400
-const NGAME_THRESHOLD = 10
+const NGAME_THRESHOLD = 11
 
 # the intended syntax
 # @target = tbl = @chain @watch_path "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
@@ -52,7 +51,8 @@ function estimate_ratings_and_save_records(tbl)
     to_date = maximum(tbl.date)
     from_date = to_date - Day(364)
 
-    pings, games, white75_advantage, black65_advantage, abnormal_players = estimate_rating(from_date, to_date; tbl)
+    (pings, games, white75_advantage, black65_advantage, abnormal_players) =
+        estimate_rating(from_date, to_date; tbl)
 
     from_date, to_date = string.(extrema(games.date))
 
@@ -88,12 +88,29 @@ end
 @time pings, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date =
     estimate_ratings_and_save_records(tbl);
 
-
-
 #infrequent_threshold = 8
 
 # @target should allow the return of a path where things are stored
 # out_path = @target pings_for_md1 = @chain @watch(pings) begin
+
+# download the ratings from goratings and do a regression
+using TableScraper
+goratings_latest = scrape_tables("https://goratings.org/en")[2] |> DataFrame
+
+goratings_latest = @chain goratings_latest begin
+    @transform :elo = parse(Int, :Elo)
+    select(:Name, :elo)
+end
+
+pings_for_alignment = @chain pings begin
+    @transform :eng_name = get(NAMESDB, :name, "")
+    @subset :eng_name != ""
+    innerjoin(goratings_latest, on=:eng_name=>:Name)
+    @transform :diff = :elo - :estimate * 400/log(10)
+    sort!(:elo, rev=true)
+    select(:eng_name, :elo, :diff)
+    _[1, :]
+end
 
 function turn_records_into_md(pings)
     @chain pings begin
@@ -101,8 +118,10 @@ function turn_records_into_md(pings)
         @transform :eng_name_old = coalesce(eng_name(:name), "")
         @transform :eng_name = "[" * :eng_name_old * "](./player-games-md/md/" * :eng_name_old * ".md)"
         # @transform :estimate_for_ranking = :estimate - 1.97 * :std_error
-        @transform :Rating = round(Int, :estimate * 400 / log(10) + OFFSET)
+        # @transform :Rating = round(Int, :estimate * 400 / log(10) + OFFSET)
         # @transform :rating_for_ranking = round(Int, :estimate_for_ranking * 400 / log(10) + OFFSET)
+        # @transform :rating_uncertainty = "±" * string(round(Int, :std_error * 400 / log(10)))
+        @transform :Rating = round(Int, :estimate * 400 / log(10) + pings_for_alignment.diff)
         @transform :rating_uncertainty = "±" * string(round(Int, :std_error * 400 / log(10)))
         sort!(:Rating, rev = true)
         # @transform :Rank = @c 1:length(:Rating)
@@ -171,26 +190,26 @@ games_played_hist = @chain tbl begin
     sort!(:date)
 end
 
-pings_hist_smoothed = @chain pings_hist begin
-    innerjoin(games_played_hist, on = [:date, :name])
-    groupby(:date)
-    @combine(:mean_lr = mean(log.(:Rating)))
-    sort!(:date)
-    @transform :clr = @c accumulate(+, :mean_lr) ./ (1:length(:mean_lr))
-end
+# pings_hist_smoothed = @chain pings_hist begin
+#     innerjoin(games_played_hist, on = [:date, :name])
+#     groupby(:date)
+#     @combine(:mean_lr = mean(log.(:Rating)))
+#     sort!(:date)
+#     @transform :clr = @c accumulate(+, :mean_lr) ./ (1:length(:mean_lr))
+# end
 
-const LATEST_LOG_R = pings_hist_smoothed.clr[end]
+# const LATEST_LOG_R = pings_hist_smoothed.clr[end]
 
 # normalized the ratings so that it's the average of the last 365 days
-latest_date = maximum(pings_hist.date)
-pings_for_md2 = @chain pings_for_md1 begin
-    leftjoin(pings_hist_smoothed, on = [:date])
-    @transform :Rating = round(Int, exp(log(:Rating) - :mean_lr + LATEST_LOG_R))
-    sort!(:Rating)
-end
+# latest_date = maximum(pings_hist.date)
+# pings_for_md2 = @chain pings_for_md1 begin
+#     leftjoin(pings_hist_smoothed, on = [:date])
+#     @transform :Rating = round(Int, exp(log(:Rating) - :mean_lr + LATEST_LOG_R))
+#     sort!(:Rating)
+# end
 
 pings_for_md_tmp = select(
-    pings_for_md2,
+    pings_for_md1,
     :Rank,
     :eng_name => "Name",
     :Rating,

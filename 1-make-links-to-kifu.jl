@@ -76,9 +76,10 @@ for name in names_to_update
                     :result => Symbol("Game result"),
                     :komi_fixed => :Komi
                 )
-                leftjoin(ratings_to_merge_on, on = :Date => :date)
-                sort!(:Date, rev = true)
+                innerjoin(ratings_to_merge_on, on = :Date => :date)
+                @subset(!ismissing(:Rating))
                 unique([:Date, :Comp, :Black, :White, :Result, Symbol("Game result"), :Komi])
+                sort!(:Date, rev = true)
                 @transform :Rating_diff = @c vcat(
                     diff(
                         coalesce.(:Rating, 0) |> reverse
@@ -86,9 +87,7 @@ for name in names_to_update
                     missing)
                 rename!(:Rating_diff => Symbol("Diff"))
             end
-
             JDF.save("./player-games-md/jdf/$name.jdf", tmp)
-
         end
     end
 end

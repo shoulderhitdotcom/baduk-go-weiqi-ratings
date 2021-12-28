@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Chen Yiming | Lose | B+R | 7.5 | 2821.0 | 3.0 | 
 | 2021-12-26 | 第9回中国女子囲碁甲級リーグ | Chen Yiming | Yin Qu | Win | B+R | 7.5 | 2818.0 | 72.0 | 
 | 2021-12-25 | 第9回中国女子囲碁甲級リーグ |  | Chen Yiming | Win | W+1¼ | 7.5 | 2746.0 | -74.0 | 
 | 2021-10-19 | 第9回中国女子囲碁甲級リーグ | Chen Yiming | Tang Yi | Win | B+R | 7.5 | 2820.0 | -131.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Zhan Ying | Rui Naiwei | Lose | B+¾ | 7.5 | 2922.0 | -13.0 | 
 | 2021-12-26 | 第9回中国女子囲碁甲級リーグ | Rui Naiwei | Lu Minquan | Lose | W+R | 7.5 | 2935.0 | 57.0 | 
 | 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Rui Naiwei | Lose | B+R | 7.5 | 2878.0 | 0.0 | 
 | 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Rui Naiwei | Song Ronghui | Win | B+R | 7.5 | 2878.0 | 8.0 | 

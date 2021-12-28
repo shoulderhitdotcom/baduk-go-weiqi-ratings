@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-27 | 2021年関西棋院台湾棋院対抗戦 | Yang Bowei | Abe Yoshiki | Win | W+R | 6.5 | 2738.0 | 202.0 | 
 | 2021-12-25 | 第1回テイケイ杯俊英戦Aリーグ | Abe Yoshiki | Shibano Toramaru | Lose | W+R | 6.5 | 2536.0 | 39.0 | 
 | 2021-12-24 | 第1回テイケイ杯俊英戦Aリーグ | Abe Yoshiki | Koyama Kuya | Lose | W+R | 6.5 | 2497.0 | -86.0 | 
 | 2021-12-22 | 第1回テイケイ杯俊英戦Aリーグ | Abe Yoshiki |  | Lose | W+0.5 | 6.5 | 2583.0 | -34.0 | 

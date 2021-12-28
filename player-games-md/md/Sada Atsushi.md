@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-27 | 2021年関西棋院台湾棋院対抗戦 | Chen Qirui | Sada Atsushi | Lose | B+R | 6.5 | 3197.0 | 60.0 | 
 | 2021-12-25 | 第1回テイケイ杯俊英戦Bリーグ | Hirose Yuichi | Sada Atsushi | Lose | B+R | 6.5 | 3137.0 | -5.0 | 
 | 2021-12-24 | 第1回テイケイ杯俊英戦Bリーグ | Sada Atsushi | Otake Yu | Win | B+1.5 | 6.5 | 3142.0 | 2.0 | 
 | 2021-12-22 | 第1回テイケイ杯俊英戦Bリーグ | Onishi Kenya | Sada Atsushi | Win | W+R | 6.5 | 3140.0 | 15.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Chen Yiming | Win | B+R | 7.5 | 3090.0 | 13.0 | 
 | 2021-12-26 | 第9回中国女子囲碁甲級リーグ | Rui Naiwei | Lu Minquan | Win | W+R | 7.5 | 3077.0 | 63.0 | 
 | 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Zhou Hongyu | Lose | W+R | 7.5 | 3014.0 | -16.0 | 
 | 2021-12-10 | 浙江平湖・当湖十局杯国家女隊VS国家少年隊対抗戦第7戦 | Lu Minquan |  | Lose | W+R | 7.5 | 3030.0 | 0.0 | 

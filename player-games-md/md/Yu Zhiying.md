@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Song Ronghui | Win | B+R | 7.5 | 3252.0 | 10.0 | 
 | 2021-12-26 | 第9回中国女子囲碁甲級リーグ | Huang Ziping | Yu Zhiying | Win | W+1¼ | 7.5 | 3242.0 | 59.0 | 
 | 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Rui Naiwei | Win | B+R | 7.5 | 3183.0 | 15.0 | 
 | 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Fang Ruoxi | Yu Zhiying | Win | W+¼ | 7.5 | 3168.0 | -28.0 | 

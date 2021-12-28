@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Pan Yang | Zhou Hongyu | Win | W+R | 7.5 | 3201.0 | 12.0 | 
 | 2021-12-26 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu | Zhan Ying | Win | B+R | 7.5 | 3189.0 | 59.0 | 
 | 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Lu Minquan | Zhou Hongyu | Win | W+R | 7.5 | 3130.0 | 15.0 | 
 | 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Zhou Hongyu |  | Win | B+R | 7.5 | 3115.0 | -18.0 | 

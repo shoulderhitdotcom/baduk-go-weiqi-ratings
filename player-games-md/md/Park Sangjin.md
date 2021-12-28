@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-27 | 第5回クラウン・ヘテ杯1回戦 |  | Park Sangjin | Win | W+R | 6.5 | 3299.0 | 10.0 | 
 | 2021-12-26 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Park Sangjin | Win | W+1.5 | 6.5 | 3289.0 | 16.0 | 
 | 2021-12-03 | 2021-2022韓国囲碁リーグ | Park Sangjin | Song Jihoon | Lose | W+2.5 | 6.5 | 3273.0 | -8.0 | 
 | 2021-11-28 | 2021-2022韓国囲碁リーグ | Park Sangjin | Park Jinsol | Lose | W+0.5 | 6.5 | 3281.0 | -83.0 | 

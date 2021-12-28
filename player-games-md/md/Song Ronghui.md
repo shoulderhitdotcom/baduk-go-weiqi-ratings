@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Song Ronghui | Lose | B+R | 7.5 | 2761.0 | 12.0 | 
 | 2021-12-26 | 第9回中国女子囲碁甲級リーグ | Song Ronghui | Li He | Lose | W+R | 7.5 | 2749.0 | 54.0 | 
 | 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Rui Naiwei | Song Ronghui | Lose | B+R | 7.5 | 2695.0 | -94.0 | 
 | 2021-10-19 | 第9回中国女子囲碁甲級リーグ | Song Ronghui | Zhou Hongyu | Lose | W+R | 7.5 | 2789.0 | -147.0 | 

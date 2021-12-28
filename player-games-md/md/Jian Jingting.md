@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-28 | 第2回UMC聯電杯早碁争覇戦決勝三番勝負第2局  | Jian Jingting | Xu Haohong | Lose | W+R | 6.5 | 3207.0 | -9.0 | 
 | 2021-12-27 | 第2回UMC聯電杯早碁争覇戦決勝三番勝負第1局  | Xu Haohong | Jian Jingting | Lose | B+R | 6.5 | 3216.0 | 41.0 | 
 | 2021-12-24 | 2021年関西棋院台湾棋院対抗戦 | Jian Jingting | Utsumi Koki | Win | B+R | 6.5 | 3175.0 | 40.0 | 
 | 2021-12-02 | 第2回UMC聯電杯早碁争覇戦準決勝  | Wang Yuanjun | Jian Jingting | Win | W+R | 6.5 | 3135.0 | 18.0 | 

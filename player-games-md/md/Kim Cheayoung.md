@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-29 | 2021女子最高棋士決定戦（韓国）リーグ | Cho Hyeyeon | Kim Cheayoung | Win | W+2.5 | 6.5 | 2703.0 | 20.0 | 
 | 2021-12-28 | 第27回GSカルテックス杯プロ棋戦予選 | Kim Cheayoung | Song Jihoon | Lose | W+R | 6.5 | 2683.0 | 69.0 | 
 | 2021-12-18 | 2021蘭雪軒杯全国女子囲碁大会準決勝 |  | Kim Cheayoung | Lose | B+R | 6.5 | 2614.0 | 0.0 | 
 | 2021-12-18 | 2021蘭雪軒杯全国女子囲碁大会1回戦 | Kim Cheayoung |  | Win | B+R | 6.5 | 2614.0 | -21.0 | 

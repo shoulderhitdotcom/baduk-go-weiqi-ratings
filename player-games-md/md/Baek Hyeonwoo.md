@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-29 | 第5回クラウン・ヘテ杯2回戦 | Baek Hyeonwoo | Park Hamin | Lose | W+R | 6.5 | 3365.0 | 2.0 | 
 | 2021-12-27 | 第3期ソパルコサノル最高棋士決定戦予選 | Baek Hyeonwoo | Yun Chanhee | Lose | W+R | 6.5 | 3363.0 | 58.0 | 
 | 2021-12-15 | 第5回クラウン・ヘテ杯1回戦 |  | Baek Hyeonwoo | Win | W+6.5 | 6.5 | 3305.0 | -2.0 | 
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント2回戦 | Kang Jihoon | Baek Hyeonwoo | Lose | B+5.5 | 6.5 | 3307.0 | 0.0 | 

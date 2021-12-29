@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-29 | 第1回湾区杯中国囲碁大棋士戦準決勝 | Peng Liyao | Ding Hao | Win | W+R | 7.5 | 3746.0 | 1.0 | 
 | 2021-12-28 | 第1回湾区杯中国囲碁大棋士戦3回戦 | Rong Yi | Ding Hao | Win | W+R | 7.5 | 3745.0 | 4.0 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Dang Yifei | Ding Hao | Win | W+R | 7.5 | 3741.0 | 60.0 | 
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Yi Lingtao | Ding Hao | Win | W+R | 7.5 | 3681.0 | 37.0 | 

@@ -25,6 +25,8 @@ df = @chain "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
     )
     @subset :komi_fixed in (6.5, 7.5)
     @transform :date = parse(Date, :date)
+    @transform :black = replace(:black, "羋昱廷" => "芈昱廷")
+    @transform :white = replace(:white, "羋昱廷" => "芈昱廷")
     @transform :black = coalesce(eng_name(:black), "")
     @transform :white = coalesce(eng_name(:white), "")
     unique

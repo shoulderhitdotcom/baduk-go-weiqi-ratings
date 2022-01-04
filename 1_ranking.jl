@@ -17,8 +17,8 @@ using Revise: includet
 
 includet("utils.jl")
 
-# rating offset
-const NGAME_THRESHOLD = 11
+# the threshold below which will see the player excluded from the main list
+const NGAME_THRESHOLD = 12
 
 # the intended syntax
 # @target = tbl = @chain @watch_path "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
@@ -37,6 +37,7 @@ tbl = @chain joinpath(WSPATH, "kifu-depot-games-with-sgf.jdf/") begin
     select!(Not([:sgf, :comp, :result, :kifu_link, :win_by, :komi]))
     @transform :black = replace(:black, "羋昱廷" => "芈昱廷")
     @transform :white = replace(:white, "羋昱廷" => "芈昱廷")
+
 end
 
 @assert !("羋昱廷" in tbl.black)
@@ -87,8 +88,6 @@ end
 
 @time pings, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date =
     estimate_ratings_and_save_records(tbl);
-
-#infrequent_threshold = 8
 
 # @target should allow the return of a path where things are stored
 # out_path = @target pings_for_md1 = @chain @watch(pings) begin

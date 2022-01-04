@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-04 | 第21期天元戦（台湾）予選 | Yang Bowei | Zhang Zhehao | Win | B+R | 6.5 | 3024.0 | 5.0 | 
 | 2021-12-27 | 2021年関西棋院台湾棋院対抗戦 | Yang Bowei | Abe Yoshiki | Lose | W+R | 6.5 | 3019.0 | 35.0 | 
 | 2021-11-26 | 第2回UMC聯電杯早碁争覇戦4回戦  | Yang Bowei | Jian Jingting | Lose | W+R | 6.5 | 2984.0 | 2.0 | 
 | 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦 | Lai Junfu | Yang Bowei | Win | W+R | 6.5 | 2982.0 | 10.0 | 

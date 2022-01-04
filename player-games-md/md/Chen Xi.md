@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-04 | 第21期天元戦（台湾）予選 | Zhou Yinnan | Chen Xi | Lose | B+R | 6.5 | 2932.0 | -16.0 | 
 | 2021-12-28 | 2021年関西棋院台湾棋院対抗戦 | Chen Xi | Taniguchi Tooru | Lose | W+R | 6.5 | 2948.0 | 19.0 | 
 | 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 |  | Chen Xi | Lose | B+0.5 | 6.5 | 2929.0 | 2.0 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Chen Xi | Lin Lixiang | Lose | W+R | 6.5 | 2927.0 | 40.0 | 

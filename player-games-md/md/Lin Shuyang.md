@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-04 | 第21期天元戦（台湾）予選 | Lin Shuyang |  | Win | B+R | 6.5 | 2821.0 | 6.0 | 
 | 2021-12-28 | 2021年関西棋院台湾棋院対抗戦 | Lin Shuyang |  | Win | B+R | 6.5 | 2815.0 | 37.0 | 
 | 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 |  | Lin Shuyang | Lose | B+R | 6.5 | 2778.0 | 3.0 | 
 | 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Lin Shuyang | Jian Jingting | Lose | W+R | 6.5 | 2775.0 | 15.0 | 

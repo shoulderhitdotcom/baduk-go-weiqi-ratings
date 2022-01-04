@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-04 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Kim Hyeoimin | Lee Donghoon | Lose | W+R | 6.5 | 2756.0 | 38.0 | 
 | 2021-12-25 | 第9回中国女子囲碁甲級リーグ | Kim Hyeoimin | Gao Xing | Win | B+R | 7.5 | 2718.0 | 31.0 | 
 | 2021-12-24 | 第9回中国女子囲碁甲級リーグ | Li He | Kim Hyeoimin | Lose | B+R | 7.5 | 2687.0 | -72.0 | 
 | 2021-11-22 | 第5期韓国製紙女子棋聖戦2回戦 | Park Jiyeon | Kim Hyeoimin | Lose | B+R | 6.5 | 2759.0 | 9.0 | 

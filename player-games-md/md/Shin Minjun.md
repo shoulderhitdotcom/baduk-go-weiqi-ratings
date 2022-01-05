@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-05 | 第5回クラウン・ヘテ杯3回戦 | Han Seungjoo | Shin Minjun | Lose | B+R | 6.5 | 3512.0 | -2.0 | 
 | 2021-12-28 | 第5回クラウン・ヘテ杯1回戦 | Shin Minjun | Park Geunho | Win | B+R | 6.5 | 3514.0 | 0.0 | 
 | 2021-12-26 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Shin Minjun | Lose | B+R | 6.5 | 3514.0 | 54.0 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Huang Yunsong | Shin Minjun | Lose | B+R | 6.5 | 3460.0 | -5.0 | 

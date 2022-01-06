@@ -7,8 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Zhou Yinnan |  | Lose | W+R | 6.5 | 2735.0 | -32.0 | 
 | 2022-01-04 | 第21期天元戦（台湾）予選 | Zhou Yinnan | Chen Xi | Win | B+R | 6.5 | 2767.0 | 109.0 | 
-| 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦  |  | Zhou Yinnan | Lose | B+R | 6.5 | 2658.0 | -32.0 | 
+| 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦  | Yang Zixuan | Zhou Yinnan | Lose | B+R | 6.5 | 2658.0 | -32.0 | 
 | 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 |  | Zhou Yinnan | Win | W+R | 6.5 | 2690.0 | -94.0 | 
 | 2021-09-02 | 第14期棋王戦（台湾）予選 |  | Zhou Yinnan | Lose | B+R | 6.5 | 2784.0 | 7.0 | 
 | 2021-08-30 | 第14期棋王戦（台湾）予選 | Xu Yuqi | Zhou Yinnan | Lose | B+R | 6.5 | 2777.0 | 8.0 | 

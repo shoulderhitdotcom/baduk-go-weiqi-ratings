@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 |  | Cai Chengwei | Win | W+R | 6.5 | 2875.0 | 1.0 | 
 | 2021-12-28 | 2021年関西棋院台湾棋院対抗戦 | Shintani Yousuke | Cai Chengwei | Lose | B+1.5 | 6.5 | 2874.0 | 64.0 | 
 | 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 |  | Cai Chengwei | Win | W+R | 6.5 | 2810.0 | 24.0 | 
 | 2021-10-28 | 第14期棋王戦（台湾）リーグ | Chen Qirui | Cai Chengwei | Lose | B+R | 6.5 | 2786.0 | -8.0 | 
@@ -20,7 +21,7 @@
 | 2021-09-30 | 第14期棋王戦（台湾）予選 | Cai Chengwei |  | Win | B+R | 6.5 | 2899.0 | -2.0 | 
 | 2021-09-28 | 2021新人王戦（台湾）1回戦 | Yang Bowei | Cai Chengwei | Lose | B+R | 7.5 | 2901.0 | -2.0 | 
 | 2021-09-27 | 第14期棋王戦（台湾）予選 | Chen Xi | Cai Chengwei | Win | W+R | 6.5 | 2903.0 | -4.0 | 
-| 2021-09-23 | 第14期棋王戦（台湾）予選 |  | Cai Chengwei | Win | W+R | 6.5 | 2907.0 | -7.0 | 
+| 2021-09-23 | 第14期棋王戦（台湾）予選 | Bai Xinhui | Cai Chengwei | Win | W+R | 6.5 | 2907.0 | -7.0 | 
 | 2021-09-22 | 第9期中環碁聖戦 | Cai Chengwei | Xu Yuqi | Lose | W+R | 6.5 | 2914.0 | -1.0 | 
 | 2021-09-16 | 第14期棋王戦（台湾）予選 | Cai Chengwei | Chen Qirui | Lose | W+R | 6.5 | 2915.0 | -3.0 | 
 | 2021-09-13 | 第14期棋王戦（台湾）予選 | Chen Shiyuan | Cai Chengwei | Win | W+R | 6.5 | 2918.0 | 18.0 | 
@@ -34,12 +35,12 @@
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 |  | Cai Chengwei | Win | W+1.5 | 6.5 | 2880.0 | 8.0 | 
 | 2021-04-19 | 第11期友士杯十段戦予選 | Cai Chengwei | Xu Jingen | Lose | W+5.5 | 6.5 | 2872.0 | -21.0 | 
 | 2021-04-12 | 第11期友士杯十段戦予選 | Cai Chengwei | Chen Shiyuan | Lose | W+6.5 | 6.5 | 2893.0 | -42.0 | 
-| 2021-04-07 | 第26回LG杯台湾予選 | Cai Chengwei |  | Lose | W+R | 6.5 | 2935.0 | -16.0 | 
+| 2021-04-07 | 第26回LG杯台湾予選 | Cai Chengwei | Bai Xinhui | Lose | W+R | 6.5 | 2935.0 | -16.0 | 
 | 2021-04-02 | 第17期国手戦（台湾） | Cai Chengwei | Lai Junfu | Lose | W+R | 6.5 | 2951.0 | -10.0 | 
 | 2021-03-31 | 第26回LG杯台湾予選 | Cai Chengwei | Huang Shiyuan | Win | B+R | 6.5 | 2961.0 | 0.0 | 
 | 2021-03-31 | 第26回LG杯台湾予選 | Cai Chengwei | Li Wei | Win | B+R | 6.5 | 2961.0 | 13.0 | 
 | 2021-03-29 | 第11期友士杯十段戦予選 | Cai Chengwei |  | Lose | W+R | 6.5 | 2948.0 | 0.0 | 
-| 2021-03-29 | 第11期友士杯十段戦予選 | Cai Chengwei |  | Win | B+R | 6.5 | 2948.0 | -7.0 | 
+| 2021-03-29 | 第11期友士杯十段戦予選 | Cai Chengwei | Liu Yifang | Win | B+R | 6.5 | 2948.0 | -7.0 | 
 | 2021-03-26 | 第17期国手戦（台湾） | Cai Chengwei | Zhou Yinnan | Win | B+0.5 | 6.5 | 2955.0 | -98.0 | 
 | 2021-03-11 | 第2期名人冠軍戦2回戦 | Cai Chengwei | Lu Yiquan | Lose | W+0.5 | 6.5 | 3053.0 | -5.0 | 
 | 2021-03-08 | 第2期名人冠軍戦1回戦 |  | Cai Chengwei | Win | W+R | 6.5 | 3058.0 | -7.0 | 
@@ -66,7 +67,7 @@
 | 2020-10-06 | 第16期国手戦（台湾）3回戦 | Cai Chengwei |  | Win | B+R | 6.5 | 3038.0 | 71.0 | 
 | 2020-09-22 | 第16期国手戦（台湾）2回戦 | Cai Chengwei | Wang Yuanjun | Win | B+R | 6.5 | 2967.0 | 25.0 | 
 | 2020-09-21 | 第13期棋王戦（台湾）予選 | Cai Chengwei | Lin Shixun | Lose | W+6.5 | 6.5 | 2942.0 | -10.0 | 
-| 2020-09-20 | 第8期中環碁聖戦3回戦 |  | Cai Chengwei | Win | W+R | 6.5 | 2952.0 | -3.0 | 
+| 2020-09-20 | 第8期中環碁聖戦3回戦 | Liu Yifang | Cai Chengwei | Win | W+R | 6.5 | 2952.0 | -3.0 | 
 | 2020-09-17 | 第13期棋王戦（台湾）予選 | Cai Chengwei | Yang Bowei | Lose | W+R | 6.5 | 2955.0 | 32.0 | 
 | 2020-09-14 | 第13期棋王戦（台湾）予選 | Cai Chengwei | Lin Shixun | Win | B+3.5 | 6.5 | 2923.0 | 10.0 | 
 | 2020-09-13 | 第8期中環碁聖戦2回戦 | Zhou Keping | Cai Chengwei | Win | W+R | 6.5 | 2913.0 | 14.0 | 
@@ -87,10 +88,11 @@
 | 2020-03-27 | 第5回百霊杯台湾代表選抜戦 | Cai Chengwei | Xu Haohong | Lose | W+R | 7.5 | 2591.0 | 1.0 | 
 | 2020-03-23 | 第10期友士杯十段戦予選敗部決勝 | Cai Chengwei | Huang Shiyuan | Win | B+R | 6.5 | 2590.0 | 0.0 | 
 | 2020-03-23 | 第10期友士杯十段戦予選敗部4回戦 | Lin Shuyang | Cai Chengwei | Win | W+3.5 | 6.5 | 2590.0 | 35.0 | 
-| 2020-03-20 | 第5回百霊杯台湾代表選抜戦 | Cai Chengwei |  | Win | B+R | 7.5 | 2555.0 | 6.0 | 
+| 2020-03-20 | 第5回百霊杯台湾代表選抜戦 | Cai Chengwei | Liu Chuanting | Win | B+R | 7.5 | 2555.0 | 6.0 | 
 | 2020-03-19 | 第10期友士杯十段戦予選敗部4回戦 | Lin Ziyuan | Cai Chengwei | Win | W+R | 6.5 | 2549.0 | 0.0 | 
 | 2020-03-19 | 第10期友士杯十段戦予選敗部3回戦 |  | Cai Chengwei | Win | W+R | 6.5 | 2549.0 | 8.0 | 
-| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Cai Chengwei |  | Win | B+R | 7.5 | 2541.0 | -6.0 | 
+| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Cai Chengwei | Bai Xinhui | Win | B+R | 7.5 | 2541.0 | 0.0 | 
+| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Cai Chengwei | Liu Yifang | Win | B+R | 7.5 | 2541.0 | -6.0 | 
 | 2020-03-12 | 第10期友士杯十段戦予選勝部2回戦 | Cai Chengwei | Chen Shiyuan | Lose | W+4.5 | 6.5 | 2547.0 | 0.0 | 
 | 2020-03-12 | 第10期友士杯十段戦予選勝部1回戦 | Cai Chengwei | Ding Shaojie | Win | B+R | 6.5 | 2547.0 | 16.0 | 
 | 2020-02-24 | 第12回海峰杯プロ囲碁戦32強戦 | Chen Shiyuan | Cai Chengwei | Lose | B+R | 6.5 | 2531.0 | 19.0 | 
@@ -119,7 +121,7 @@
 | 2019-09-27 | 第7期中環碁聖戦3回戦 | Chen Xi | Cai Chengwei | Lose | B+R | 6.5 | 2424.0 | 7.0 | 
 | 2019-09-17 | 第15期国手戦（台湾）1回戦 | Cai Chengwei | Yang Bowei | Lose | W+R | 6.5 | 2417.0 | 8.0 | 
 | 2019-09-15 | 第7期中環碁聖戦2回戦 | Cai Chengwei | Lin Xiuping | Win | B+0.5 | 6.5 | 2409.0 | 32.0 | 
-| 2019-09-08 | 第7期中環碁聖戦1回戦 |  | Cai Chengwei | Win | W+R | 6.5 | 2377.0 | 38.0 | 
+| 2019-09-08 | 第7期中環碁聖戦1回戦 | Yang Zixuan | Cai Chengwei | Win | W+R | 6.5 | 2377.0 | 38.0 | 
 | 2019-09-05 | 第12期棋王戦（台湾）資格戦敗部1回戦 | Cai Chengwei |  | Lose | W+R | 6.5 | 2339.0 | -11.0 | 
 | 2019-09-02 | 第12期棋王戦（台湾）資格戦勝部1回戦 | Cai Chengwei | Chen Xi | Win | B+R | 6.5 | 2350.0 | -71.0 | 
 | 2019-04-10 | 第9期友士杯十段戦予選敗部2回戦 | Cai Chengwei | Yu Binghuang | Lose | W+R | 6.5 | 2421.0 | 10.0 | 

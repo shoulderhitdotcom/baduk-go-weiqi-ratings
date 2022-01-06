@@ -7,12 +7,13 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Lin Shuyang |  | Win | B+4.5 | 6.5 | 2844.0 | 23.0 | 
 | 2022-01-04 | 第21期天元戦（台湾）予選 | Lin Shuyang |  | Win | B+R | 6.5 | 2821.0 | 6.0 | 
 | 2021-12-28 | 2021年関西棋院台湾棋院対抗戦 | Lin Shuyang |  | Win | B+R | 6.5 | 2815.0 | 37.0 | 
 | 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 |  | Lin Shuyang | Lose | B+R | 6.5 | 2778.0 | 3.0 | 
 | 2021-10-12 | 第7回国手山脈国際囲碁大会台湾予選 | Lin Shuyang | Jian Jingting | Lose | W+R | 6.5 | 2775.0 | 15.0 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 |  | Lin Shuyang | Win | W+R | 6.5 | 2760.0 | 0.0 | 
-| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 |  | Lin Shuyang | Win | W+9.5 | 6.5 | 2760.0 | -2.0 | 
+| 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Liu Yifang | Lin Shuyang | Win | W+9.5 | 6.5 | 2760.0 | -2.0 | 
 | 2021-09-27 | 第14期棋王戦（台湾）予選 | Li Wei | Lin Shuyang | Lose | B+R | 6.5 | 2762.0 | -9.0 | 
 | 2021-09-26 | 第9期中環碁聖戦 | Lin Shuyang | Xu Haohong | Lose | W+R | 6.5 | 2771.0 | -29.0 | 
 | 2021-09-23 | 第14期棋王戦（台湾）予選 | Xu Yuqi | Lin Shuyang | Win | W+R | 6.5 | 2800.0 | 46.0 | 
@@ -35,7 +36,7 @@
 | 2021-04-09 | 第17期国手戦（台湾）16強戦 | Li Wei | Lin Shuyang | Win | W+2.5 | 6.5 | 2865.0 | 17.0 | 
 | 2021-04-02 | 第17期国手戦（台湾） | Lin Shuyang | Lin Xinwei | Win | B+0.5 | 6.5 | 2848.0 | 12.0 | 
 | 2021-04-01 | 第11期友士杯十段戦予選 |  | Lin Shuyang | Lose | B+2.5 | 6.5 | 2836.0 | -15.0 | 
-| 2021-03-31 | 第26回LG杯台湾予選 | Lin Shuyang |  | Lose | W+R | 6.5 | 2851.0 | -114.0 | 
+| 2021-03-31 | 第26回LG杯台湾予選 | Lin Shuyang | Bai Xinhui | Lose | W+R | 6.5 | 2851.0 | -114.0 | 
 | 2021-03-19 | 第17期国手戦（台湾） | Dai Jiashen | Lin Shuyang | Win | W+R | 6.5 | 2965.0 | 17.0 | 
 | 2021-03-11 | 第2期名人冠軍戦2回戦 | Lin Shuyang | Xu Jingen | Lose | W+R | 6.5 | 2948.0 | -6.0 | 
 | 2021-03-08 | 第2期名人冠軍戦1回戦 | Lin Shuyang | Zhou Yinnan | Win | B+R | 6.5 | 2954.0 | 3.0 | 
@@ -145,7 +146,7 @@
 | 2017-10-19 | 第10期棋王戦（台湾）リーグ | Lin Shuyang | Jian Jingting | Win | B+R | 6.5 | 2844.0 | 71.0 | 
 | 2017-10-03 | 第13期国手戦（台湾）8強戦 | Lin Shuyang | Lin Junyan | Lose | W+R | 6.5 | 2773.0 | -33.0 | 
 | 2017-09-19 | 第13期国手戦（台湾）第二回戦 | Lin Shuyang | Lin Tingyi | Win | B+9.5 | 6.5 | 2806.0 | 16.0 | 
-| 2017-09-17 | 第5期中環碁聖戦第二回戦 |  | Lin Shuyang | Lose | B+R(B+R) | 6.5 | 2790.0 | -12.0 | 
+| 2017-09-17 | 第5期中環碁聖戦第二回戦 | Yang Zixuan | Lin Shuyang | Lose | B+R(B+R) | 6.5 | 2790.0 | -12.0 | 
 | 2017-09-03 | 第5期中環碁聖戦首輪上半区 | Zhao Peizhe | Lin Shuyang | Win | W+R | 6.5 | 2802.0 | -5.0 | 
 | 2017-08-31 | 第四回福蔭杯代表選抜戦決勝敗部第二局 | Lin Shuyang | Cai Chengwei | Win | B+R | 6.5 | 2807.0 | 0.0 | 
 | 2017-08-31 | 第四回福蔭杯代表選抜戦決勝敗部第三局 | Xiao Zhenghao | Lin Shuyang | Lose | B+R | 6.5 | 2807.0 | -1.0 | 
@@ -158,7 +159,7 @@
 | 2017-03-16 | 第9回海峰杯プロ囲碁戦16強戦 | Hei Jiajia | Lin Shuyang | Win | W+0.5 | 6.5 | 2584.0 | 5.0 | 
 | 2017-03-14 | 第十六期天元戦複戦敗部第四回戦 | Lai Junfu | Lin Shuyang | Lose | B+0.5 | 6.5 | 2579.0 | -13.0 | 
 | 2017-03-13 | 第9回海峰杯プロ囲碁戦32強戦 | Chen  Qingyu | Lin Shuyang | Win | W+R | 6.5 | 2592.0 | -7.0 | 
-| 2017-03-09 | 第9回海峰杯プロ囲碁戦64強戦 |  | Lin Shuyang | Win | W+R | 6.5 | 2599.0 | 19.0 | 
+| 2017-03-09 | 第9回海峰杯プロ囲碁戦64強戦 | Yang Zixuan | Lin Shuyang | Win | W+R | 6.5 | 2599.0 | 19.0 | 
 | 2017-02-16 | 第22期LG盃台湾代表選抜戦決勝第一局 | Lin Shuyang | Wang Yuanjun | Lose | W+R | 6.5 | 2580.0 | -54.0 | 
 | 2017-01-21 | 台湾精鋭日本精鋭交流戦6回戦 | Shibano Toramaru | Lin Shuyang | Lose | B+R | 6.5 | 2634.0 | 0.0 | 
 | 2017-01-21 | 台湾精鋭日本精鋭交流戦5回戦 | Fujita Akihiko | Lin Shuyang | Lose | B+R | 6.5 | 2634.0 | -25.0 | 

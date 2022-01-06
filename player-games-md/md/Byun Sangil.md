@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-01-04 | 第5回クラウン・ヘテ杯2回戦 |  | Byun Sangil | Win | W+R | 6.5 | 3701.0 | -16.0 | 
+| 2022-01-06 | 第5回クラウン・ヘテ杯3回戦 | Park Hamin | Byun Sangil | Win | W+R | 6.5 | 3703.0 | 2.0 | 
+| 2022-01-04 | 第5回クラウン・ヘテ杯2回戦 | Cho Seungah | Byun Sangil | Win | W+R | 6.5 | 3701.0 | -16.0 | 
 | 2021-12-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Byun Sangil | Park Junghwan | Lose | W+R | 6.5 | 3717.0 | 68.0 | 
 | 2021-12-23 | 2021-2022韓国囲碁リーグ | Kim Myounghoon | Byun Sangil | Win | W+R | 6.5 | 3649.0 | -6.0 | 
 | 2021-12-18 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Byun Sangil | Win | W+R | 6.5 | 3655.0 | -9.0 | 
@@ -174,7 +175,7 @@
 | 2019-08-22 | 第6回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Park Geunho | Byun Sangil | Win | W+R | 6.5 | 3166.0 | 4.0 | 
 | 2019-08-21 | 第6回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Byun Sangil | Song Jihoon | Win | B+3.5 | 6.5 | 3162.0 | -2.0 | 
 | 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Li Qincheng | Byun Sangil | Win | W+R | 7.5 | 3164.0 | -17.0 | 
-| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 |  | Byun Sangil | Win | W+R | 7.5 | 3181.0 | -12.0 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Wang Shuo | Byun Sangil | Win | W+R | 7.5 | 3181.0 | -12.0 | 
 | 2019-08-04 | 第6回国手山脈国際囲碁大会世界プロ最強戦準決勝 | Liao Yuanhe | Byun Sangil | Lose | B+R | 6.5 | 3193.0 | 0.0 | 
 | 2019-08-04 | 第6回国手山脈国際囲碁大会世界プロ最強戦8強戦 | Byun Sangil | Shin Minjun | Win | B+R | 6.5 | 3193.0 | 16.0 | 
 | 2019-08-03 | 第6回国手山脈国際囲碁大会世界プロ最強戦16強戦 | Iyama Yuta | Byun Sangil | Win | W+R | 6.5 | 3177.0 | 3.0 | 
@@ -358,7 +359,7 @@
 | 2015-09-19 | 2015年韓国囲碁リーグ | Kim Dongho | Byun Sangil | Win | W+R | 6.5 | 3023.0 | -5.0 | 
 | 2015-09-10 | 第20回三星火災杯世界囲碁マスターズ1回戦F3 | Shin Minjun | Byun Sangil | Win | W+R | 6.5 | 3028.0 | 11.0 | 
 | 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦F2 | Byun Sangil | Jiang Weijie | Lose | W+R | 6.5 | 3017.0 | -2.0 | 
-| 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦F1 |  | Byun Sangil | Win | W+R | 6.5 | 3019.0 | 15.0 | 
+| 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦F1 | Ma Yichao | Byun Sangil | Win | W+R | 6.5 | 3019.0 | 15.0 | 
 | 2015-09-06 | 2015年韓国囲碁リーグ | Cho Hanseung | Byun Sangil | Lose | B+R | 6.5 | 3004.0 | -7.0 | 
 | 2015-09-02 | 第43期名人戦（韓国）予選 | Byun Sangil | Park Hamin | Win | B+R | 6.5 | 3011.0 | -23.0 | 
 | 2015-08-29 | 2015年韓国囲碁リーグ | Byun Sangil |  | Lose | W+R | 6.5 | 3034.0 | -51.0 | 

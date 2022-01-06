@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-06 | 第47期新人王戦予選 | Nakamura Sumire |  | Win | B+R | 6.5 | 2784.0 | 27.0 | 
 | 2021-12-27 | 第41期女流本因坊戦予選  | Nakamura Sumire |  | Win | B+R | 6.5 | 2757.0 | 113.0 | 
 | 2021-12-23 | 第48期名人戦予選 | Shimoji Gensho | Nakamura Sumire | Win | W+R | 6.5 | 2644.0 | -45.0 | 
 | 2021-12-02 | 第33期女流名人戦予選 | Nakamura Sumire | Hoshiai Shiho | Win | B+R | 6.5 | 2689.0 | 28.0 | 
@@ -35,7 +36,7 @@
 | 2021-04-28 | 第8期会津中央病院・女流立葵杯1回戦 | Nakamura Sumire | Konishi Kazuko | Win | B+R | 6.5 | 2697.0 | 2.0 | 
 | 2021-04-22 | 第47期名人戦予選 | Nakamura Sumire | Nobuta Shigehito | Win | B+R | 6.5 | 2695.0 | -22.0 | 
 | 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第2戦 | Nakamura Sumire | Yu Lijun | Win | B+R | 6.5 | 2717.0 | 0.0 | 
-| 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第1戦 |  | Nakamura Sumire | Win | W+R | 6.5 | 2717.0 | 81.0 | 
+| 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第1戦 | Yang Zixuan | Nakamura Sumire | Win | W+R | 6.5 | 2717.0 | 81.0 | 
 | 2021-04-14 | 第46期棋聖戦予選 | Hara Masakazu | Nakamura Sumire | Win | W+6.5 | 6.5 | 2636.0 | 72.0 | 
 | 2021-04-01 | 第40期女流本因坊戦1回戦  | Umezawa Yukari | Nakamura Sumire | Win | W+7.5 | 6.5 | 2564.0 | -77.0 | 
 | 2021-03-24 | 女流ティーンエージャー棋士トーナメント戦決勝 |  | Nakamura Sumire | Win | W+6.5 | 6.5 | 2641.0 | -13.0 | 

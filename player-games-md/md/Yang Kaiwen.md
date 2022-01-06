@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-06 | 第16回威孚房開杯棋王戦準決勝 | Yang Kaiwen | Li Qincheng | Win | B+R | 7.5 | 3552.0 | 19.0 | 
 | 2022-01-05 | 第16回威孚房開杯棋王戦3回戦 | Yi Lingtao | Yang Kaiwen | Win | W+R | 7.5 | 3533.0 | 84.0 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Mi Yuting | Yang Kaiwen | Lose | B+R | 7.5 | 3449.0 | -62.0 | 
 | 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tao Xinran | Yang Kaiwen | Lose | B+1¾ | 7.5 | 3511.0 | -18.0 | 

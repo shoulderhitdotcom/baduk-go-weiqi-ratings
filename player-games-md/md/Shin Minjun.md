@@ -275,8 +275,8 @@
 | 2018-03-15 | 第23期GSカルテックス杯プロ棋戦16強戦 | Yun Junsang | Shin Minjun | Lose | B+R | 6.5 | 3366.0 | -45.0 | 
 | 2018-03-14 | 第1回韓国竜星戦32強ダブルエリミネーションG1 | Shin Minjun | You Byungyong | Lose | W+R | 6.5 | 3411.0 | -21.0 | 
 | 2018-03-05 | 韓国ナショナルチームリーグ戦 | Weon Seongjin | Shin Minjun | Win | W+R | 6.5 | 3432.0 | 27.0 | 
-| 2018-01-24 | 第5回メジオン杯オープン新人王戦決勝三番勝負第二局 | Shin Minjun | Chao Xiangzhao | Win | B+R | 6.5 | 3405.0 | 9.0 | 
-| 2018-01-17 | 第5回メジオン杯オープン新人王戦決勝三番勝負第一局 | Chao Xiangzhao | Shin Minjun | Win | W+R | 6.5 | 3396.0 | 30.0 | 
+| 2018-01-24 | 第5回メジオン杯オープン新人王戦決勝三番勝負第二局 | Shin Minjun |  | Win | B+R | 6.5 | 3405.0 | 9.0 | 
+| 2018-01-17 | 第5回メジオン杯オープン新人王戦決勝三番勝負第一局 |  | Shin Minjun | Win | W+R | 6.5 | 3396.0 | 30.0 | 
 | 2018-01-05 | 韓国ナショナルチームリーグ戦 | Choi Cheolhan | Shin Minjun | Lose | B+R | 6.5 | 3366.0 | -15.0 | 
 | 2017-12-31 | 第1回クラウン・ヘテ杯2回戦 | Shin Minjun | Kang Seungmin | Lose | W+R | 6.5 | 3381.0 | -8.0 | 
 | 2017-12-18 | 第5回メジオン杯オープン新人王戦準決勝 | Shin Minjun | Song Jihoon | Win | B+R | 6.5 | 3389.0 | 22.0 | 
@@ -394,7 +394,7 @@
 | 2015-09-25 | 2015年韓国囲碁リーグ | Park Seunghwa | Shin Minjun | Win | W+R | 6.5 | 3129.0 | 33.0 | 
 | 2015-09-17 | 2015年韓国囲碁リーグ | Kim Kiyoung | Shin Minjun | Win | W+R | 6.5 | 3096.0 | -10.0 | 
 | 2015-09-10 | 第20回三星火災杯世界囲碁マスターズ1回戦F3 | Shin Minjun | Byun Sangil | Lose | W+R | 6.5 | 3106.0 | -13.0 | 
-| 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦F2 |  | Shin Minjun | Win | W+R | 6.5 | 3119.0 | 12.0 | 
+| 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦F2 | Ma Yichao | Shin Minjun | Win | W+R | 6.5 | 3119.0 | 12.0 | 
 | 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦F1 | Shin Minjun | Jiang Weijie | Lose | W+R | 6.5 | 3107.0 | -8.0 | 
 | 2015-09-06 | 2015年韓国囲碁リーグ | Shin Minjun | Kim Myounghoon | Win | B+R | 6.5 | 3115.0 | -38.0 | 
 | 2015-08-28 | 2015年韓国囲碁リーグ | Ryu Suhang | Shin Minjun | Lose | B+R | 6.5 | 3153.0 | 5.0 | 

@@ -24,7 +24,7 @@
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Han Seungjoo | Yamashiro Hiroshi | Win | B+R | 6.5 | 3250.0 | -135.0 | 
 | 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Han Seungjoo | Yun Chanhee | Lose | W+R | 6.5 | 3385.0 | 7.0 | 
 | 2021-10-16 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Han Seungjoo | Shin Minjun | Win | B+R | 6.5 | 3378.0 | 127.0 | 
-| 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 |  | Han Seungjoo | Win | W+R | 6.5 | 3251.0 | 20.0 | 
+| 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Changhoon | Han Seungjoo | Win | W+R | 6.5 | 3251.0 | 20.0 | 
 | 2021-10-02 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Han Seungjoo | Lee Donghoon | Lose | W+0.5 | 6.5 | 3231.0 | -12.0 | 
 | 2021-09-07 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Chungyu | Han Seungjoo | Win | W+R | 6.5 | 3243.0 | 71.0 | 
 | 2021-08-14 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Han Seungjoo | Shin Jinseo | Lose | W+R | 6.5 | 3172.0 | -23.0 | 

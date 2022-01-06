@@ -89,7 +89,7 @@
 | 2019-10-11 | 第4回Mlily夢百合杯世界囲碁オープン戦32強戦 | Tong Mengcheng | Tu Xiaoyu | Win | B+R | 7.5 | 3261.0 | 5.0 | 
 | 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Tong Mengcheng | Jiang Weijie | Win | B+¾ | 7.5 | 3256.0 | 2.0 | 
 | 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Tong Mengcheng | Shin Minjun | Win | B+R | 7.5 | 3254.0 | 11.0 | 
-| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Tong Mengcheng |  | Win | B+R | 7.5 | 3243.0 | 64.0 | 
+| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Tong Mengcheng | Wang Shuo | Win | B+R | 7.5 | 3243.0 | 64.0 | 
 | 2019-09-16 | 第21回中国囲碁甲級リーグプレーオフ1回戦第2戦 | Yang Dingxin | Tong Mengcheng | Lose | B+R | 7.5 | 3179.0 | 11.0 | 
 | 2019-09-14 | 第21回中国囲碁甲級リーグプレーオフ1回戦第1戦 | Tong Mengcheng | Li Xuanhao | Win | B+R | 7.5 | 3168.0 | -21.0 | 
 | 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Tong Mengcheng | Byun Sangil | Lose | W+R | 7.5 | 3189.0 | -1.0 | 
@@ -336,7 +336,7 @@
 | 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Chen Xian | Tong Mengcheng | Lose | B+R | 7.5 | 3265.0 | -68.0 | 
 | 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | An Dongxu | Tong Mengcheng | Win | W+R | 7.5 | 3333.0 | -22.0 | 
 | 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Tuo Jiaxi | Tong Mengcheng | Win | W+0.5 | 7.5 | 3355.0 | 51.0 | 
-| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 |  | Tong Mengcheng | Win | W+R | 7.5 | 3304.0 | 16.0 | 
+| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Ma Yichao | Tong Mengcheng | Win | W+R | 7.5 | 3304.0 | 16.0 | 
 | 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Mi Yuting | Tong Mengcheng | Lose | B+R | 7.5 | 3288.0 | -9.0 | 
 | 2014-09-02 | 第6期中国竜星戦1回戦 | Tong Mengcheng | Chen Yaoye | Lose | W+0.5 | 7.5 | 3297.0 | -90.0 | 
 | 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Shi Yue | Tong Mengcheng | Lose | B+R | 7.5 | 3387.0 | -27.0 | 

@@ -192,7 +192,7 @@
 | 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Li Qincheng | Xu Jiayang | Win | B+R | 7.5 | 3371.0 | 26.0 | 
 | 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Li Qincheng | Han Yizhou | Lose | W+0.5 | 7.5 | 3345.0 | -14.0 | 
 | 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Li Qincheng | Ding Hao | Win | B+R | 7.5 | 3359.0 | -16.0 | 
-| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 |  | Li Qincheng | Win | W+R | 7.5 | 3375.0 | -1.0 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Wang Shuo | Li Qincheng | Win | W+R | 7.5 | 3375.0 | -1.0 | 
 | 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Li Qincheng | Li Xuanhao | Win | B+R | 7.5 | 3376.0 | 47.0 | 
 | 2017-04-18 | 第19期中国阿含桐山杯本選3回戦 | Liao Xingwen | Li Qincheng | Win | W+0.5 | 7.5 | 3329.0 | 0.0 | 
 | 2017-04-17 | 第19期中国阿含桐山杯本選2回戦 | Rui Naiwei | Li Qincheng | Win | W+R | 7.5 | 3329.0 | -13.0 | 
@@ -231,7 +231,7 @@
 | 2016-07-02 | 第3回百霊杯世界オープン戦3回戦 | Li Qincheng | Lian Xiao | Lose | W+R | 7.5 | 3194.0 | -22.0 | 
 | 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Li Qincheng | Mok Jinseok | Win | B+R | 7.5 | 3216.0 | 9.0 | 
 | 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Li Qincheng | Yuki Satoshi | Win | B+R | 7.5 | 3207.0 | 10.0 | 
-| 2016-06-25 | 第18回中国囲碁甲級リーグ第10節 |  | Li Qincheng | Win | W+R | 7.5 | 3197.0 | -12.0 | 
+| 2016-06-25 | 第18回中国囲碁甲級リーグ第10節 | Ma Yichao | Li Qincheng | Win | W+R | 7.5 | 3197.0 | -12.0 | 
 | 2016-06-20 | 第18回中国囲碁甲級リーグ第9節 | Li Qincheng |  | Win | B+1.5 | 7.5 | 3209.0 | 8.0 | 
 | 2016-06-16 | 第18回中国囲碁甲級リーグ第8節 | Meng Tailing | Li Qincheng | Lose | B+R | 7.5 | 3201.0 | -11.0 | 
 | 2016-06-12 | 2016CCTV杯中国囲棋電視快棋戦準決勝 | Li Qincheng | Tong Mengcheng | Win | B+R | 7.5 | 3212.0 | 12.0 | 

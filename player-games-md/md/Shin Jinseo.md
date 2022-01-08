@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-07 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Donghoon | Shin Jinseo | Lose | B+R | 6.5 | 3827.0 | 57.0 | 
 | 2021-12-25 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Lee Taehyun | Win | B+R | 6.5 | 3770.0 | 8.0 | 
 | 2021-12-12 | 第7回国手山脈世界プロ最強戦決勝 | Byun Sangil | Shin Jinseo | Lose | B+R | 6.5 | 3762.0 | -4.0 | 
 | 2021-12-11 | 第7回国手山脈世界プロ最強戦準決勝 | Xu Jiayang | Shin Jinseo | Win | W+R | 6.5 | 3766.0 | -13.0 | 
@@ -374,7 +375,7 @@
 | 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Shi Yue | Shin Jinseo | Win | W+R | 7.5 | 3523.0 | 10.0 | 
 | 2017-10-22 | 2017年韓国囲碁リーグ | Shin Jinseo | Lee Yeongkyu | Lose | W+R | 6.5 | 3513.0 | -11.0 | 
 | 2017-10-15 | 2017年利民杯世界囲碁星鋭最強戦2回戦 | Shin Jinseo | Xie Ke | Lose | W+R | 7.5 | 3524.0 | 25.0 | 
-| 2017-10-14 | 2017年利民杯世界囲碁星鋭最強戦1回戦 | Shin Jinseo |  | Win | B+R | 7.5 | 3499.0 | -6.0 | 
+| 2017-10-14 | 2017年利民杯世界囲碁星鋭最強戦1回戦 | Shin Jinseo | Ma Yichao | Win | B+R | 7.5 | 3499.0 | -6.0 | 
 | 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Li Weiqing | Shin Jinseo | Win | W+R | 7.5 | 3505.0 | 11.0 | 
 | 2017-10-05 | 2017年韓国囲碁リーグ | Shin Jinseo | Park Junghwan | Win | B+0.5 | 6.5 | 3494.0 | 23.0 | 
 | 2017-09-29 | 2017年韓国囲碁リーグ | Park Yeonghun | Shin Jinseo | Lose | B+R | 6.5 | 3471.0 | -15.0 | 

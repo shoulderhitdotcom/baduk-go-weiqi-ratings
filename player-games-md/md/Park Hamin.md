@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-07 | 2021-2022韓国囲碁リーグ | Byun Sangil | Park Hamin | Lose | B+0.5 | 6.5 | 3400.0 | 11.0 | 
 | 2022-01-06 | 第5回クラウン・ヘテ杯3回戦 | Park Hamin | Byun Sangil | Lose | W+R | 6.5 | 3389.0 | 33.0 | 
 | 2021-12-29 | 第5回クラウン・ヘテ杯2回戦 | Baek Hyeonwoo | Park Hamin | Win | W+R | 6.5 | 3356.0 | 128.0 | 
 | 2021-12-24 | 2021-2022韓国囲碁リーグ | Park Junghwan | Park Hamin | Win | W+R | 6.5 | 3228.0 | 11.0 | 

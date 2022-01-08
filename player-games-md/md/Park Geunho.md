@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-07 | 2021-2022韓国囲碁リーグ | Park Geunho | Choi Jeong | Lose | W+R | 6.5 | 3455.0 | -7.0 | 
 | 2021-12-28 | 第5回クラウン・ヘテ杯1回戦 | Shin Minjun | Park Geunho | Lose | B+R | 6.5 | 3462.0 | 92.0 | 
 | 2021-12-23 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Park Geunho | Win | W+R | 6.5 | 3370.0 | -20.0 | 
 | 2021-12-18 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Park Geunho | Win | W+R | 6.5 | 3390.0 | 0.0 | 
@@ -65,7 +66,7 @@
 | 2019-12-16 | 第25期GSカルテックス杯プロ棋戦予選決勝 | Kim Hyeongwoo | Park Geunho | Lose | B+1.5 | 6.5 | 3024.0 | -40.0 | 
 | 2019-12-13 | 2019-2020韓国囲碁リーグ第11節第2試合第3局 | Park Geunho | Shin Minjun | Lose | W+R | 6.5 | 3064.0 | -8.0 | 
 | 2019-12-08 | 2019-2020韓国囲碁リーグ第10節第4試合第4局 | Park Geunho | Paek Hongseok | Lose | W+R | 6.5 | 3072.0 | -16.0 | 
-| 2019-12-05 | 第3回クラウン・ヘテ杯1回戦 |  | Park Geunho | Win | W+R | 6.5 | 3088.0 | 3.0 | 
+| 2019-12-05 | 第3回クラウン・ヘテ杯1回戦 | Cho Seungah | Park Geunho | Win | W+R | 6.5 | 3088.0 | 3.0 | 
 | 2019-11-28 | 2019-2020韓国囲碁リーグ第9節第1試合第4局 | Park Geunho | Shin Jinseo | Lose | W+R | 6.5 | 3085.0 | -31.0 | 
 | 2019-11-17 | 2019-2020韓国囲碁リーグ第7節第4試合第3局 | Hong Kipyo | Park Geunho | Lose | B+0.5 | 6.5 | 3116.0 | -25.0 | 
 | 2019-11-13 | 2019台湾精鋭vs韓国ナショナルチーム交流戦第6戦 | Park Geunho | Wang Yuanjun | Lose | W+R | 6.5 | 3141.0 | -25.0 | 

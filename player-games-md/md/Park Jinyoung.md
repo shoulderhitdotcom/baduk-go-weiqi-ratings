@@ -7,9 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-07 | 2021-2022フューチャーズリーグ | Park Jinyoung | Ryu Minhyung | Lose | W+R | 6.5 | 3100.0 | 0.0 | 
 | 2021-12-27 | 第5回クラウン・ヘテ杯1回戦 | Seol Hyunjun | Park Jinyoung | Lose | B+2.5 | 6.5 | 3100.0 | -16.0 | 
 | 2021-12-25 | 2021-2022フューチャーズリーグ | Park Jinyoung | Gang Woohyeok | Lose | W+2.5 | 6.5 | 3116.0 | -143.0 | 
-| 2021-12-24 | 2021-2022韓国囲碁リーグ | Chao Xiangzhao | Park Jinyoung | Lose | B+R | 6.5 | 3259.0 | -44.0 | 
+| 2021-12-24 | 2021-2022韓国囲碁リーグ |  | Park Jinyoung | Lose | B+R | 6.5 | 3259.0 | -44.0 | 
 | 2021-12-18 | 2021-2022フューチャーズリーグ |  | Park Jinyoung | Win | W+R | 6.5 | 3303.0 | 248.0 | 
 | 2021-11-28 | 2021-2022フューチャーズリーグ | Park Jinyoung |  | Win | B+3.5 | 6.5 | 3055.0 | -141.0 | 
 | 2021-11-20 | 2021-2022フューチャーズリーグ | Choi Kyeongho | Park Jinyoung | Win | W+0.5 | 6.5 | 3196.0 | -11.0 | 

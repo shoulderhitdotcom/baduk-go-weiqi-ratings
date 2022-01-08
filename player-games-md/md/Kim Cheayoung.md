@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-07 | 2021女子最高棋士決定戦（韓国）リーグ | Kim Cheayoung |  | Win | B+R | 6.5 | 2766.0 | 24.0 | 
 | 2022-01-06 | 2021女子最高棋士決定戦（韓国）リーグ | Kim Cheayoung | Cho Seungah | Win | B+3.5 | 6.5 | 2742.0 | 39.0 | 
 | 2021-12-29 | 2021女子最高棋士決定戦（韓国）リーグ | Cho Hyeyeon | Kim Cheayoung | Win | W+2.5 | 6.5 | 2703.0 | 20.0 | 
 | 2021-12-28 | 第27回GSカルテックス杯プロ棋戦予選 | Kim Cheayoung | Song Jihoon | Lose | W+R | 6.5 | 2683.0 | 69.0 | 

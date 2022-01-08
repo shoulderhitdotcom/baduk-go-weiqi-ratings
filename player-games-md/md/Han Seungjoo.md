@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-07 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Han Seungjoo | Lose | B+12.5 | 6.5 | 3411.0 | 0.0 | 
 | 2022-01-05 | 第5回クラウン・ヘテ杯3回戦 | Han Seungjoo | Shin Minjun | Win | B+R | 6.5 | 3411.0 | 122.0 | 
 | 2021-12-24 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Kim Jinhyu | Win | B+R | 6.5 | 3289.0 | 4.0 | 
 | 2021-12-19 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Song Gyusang | Win | B+R | 6.5 | 3285.0 | -12.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-08 | 2021-2022韓国囲碁リーグ | Hong Seongji | Kim Jiseok | Win | W+1.5 | 6.5 | 3550.0 | 4.0 | 
 | 2022-01-04 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Kim Jiseok | Kim Hyeongwoo | Win | B+R | 6.5 | 3546.0 | 5.0 | 
 | 2021-12-26 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Shin Minjun | Win | B+R | 6.5 | 3541.0 | 57.0 | 
 | 2021-12-19 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Kim Jiseok | Lose | B+R | 6.5 | 3484.0 | -12.0 | 
@@ -34,7 +35,7 @@
 | 2021-09-21 | 2021電子ランドライバル対戦第6局 | Weon Seongjin | Kim Jiseok | Win | W+R | 6.5 | 3585.0 | 25.0 | 
 | 2021-09-20 | 2021電子ランドライバル対戦第3局 | Shin Jinseo | Kim Jiseok | Win | W+R | 6.5 | 3560.0 | 35.0 | 
 | 2021-08-28 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kim Jiseok | Byun Sangil | Win | B+R | 6.5 | 3525.0 | 55.0 | 
-| 2021-07-21 | 第23回農心杯韓国予選 |  | Kim Jiseok | Lose | B+R | 6.5 | 3470.0 | -28.0 | 
+| 2021-07-21 | 第23回農心杯韓国予選 | Kim Changhoon | Kim Jiseok | Lose | B+R | 6.5 | 3470.0 | -28.0 | 
 | 2021-07-15 | 第26回GSカルテックス杯プロ棋戦準決勝 | Kim Jiseok | Shin Jinseo | Lose | W+R | 6.5 | 3498.0 | -2.0 | 
 | 2021-06-25 | 第26回GSカルテックス杯プロ棋戦3回戦 | An Sungjoon | Kim Jiseok | Win | W+2.5 | 6.5 | 3500.0 | 1.0 | 
 | 2021-06-19 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Weon Seongjin | Kim Jiseok | Win | W+R | 6.5 | 3499.0 | 10.0 | 
@@ -164,7 +165,7 @@
 | 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Kim Jiseok | Yang Dingxin | Lose | W+R | 7.5 | 3267.0 | 17.0 | 
 | 2019-07-26 | 第2期韓国竜星戦8強戦 | Kim Jiseok | Lee Sedol | Win | B+R | 6.5 | 3250.0 | 11.0 | 
 | 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Lian Xiao | Kim Jiseok | Lose | B+R | 7.5 | 3239.0 | 14.0 | 
-| 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Kim Jiseok |  | Win | B+R | 7.5 | 3225.0 | 24.0 | 
+| 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Kim Jiseok | Wang Shuo | Win | B+R | 7.5 | 3225.0 | 24.0 | 
 | 2019-07-15 | 第21回農心杯韓国選抜戦 | Kim Jiseok | Lee Changho | Lose | W+R | 6.5 | 3201.0 | -47.0 | 
 | 2019-06-22 | 第31回テレビアジア選手権準決勝 | Ding Hao | Kim Jiseok | Lose | B+R | 7.5 | 3248.0 | -1.0 | 
 | 2019-06-16 | 2019年囲碁テレビ杯早碁戦16強戦 | Seol Hyunjun | Kim Jiseok | Lose | B+R | 6.5 | 3249.0 | 4.0 | 

@@ -7,8 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-08 | 2021-2022フューチャーズリーグ | Lee Hyungjin | Gang Woohyeok | Win | W+R | 6.5 | 3235.0 | -10.0 | 
 | 2021-12-29 | 第5回クラウン・ヘテ杯2回戦 | Park Joonhoon | Gang Woohyeok | Lose | B+R | 6.5 | 3245.0 | 74.0 | 
-| 2021-12-25 | 2021-2022フューチャーズリーグ | Park Jinyoung | Gang Woohyeok | Win | W+2.5 | 6.5 | 3171.0 | -37.0 | 
+| 2021-12-25 | 2021-2022フューチャーズリーグ | Park Jinyoung | Gang Woohyeok | Win | W+2.5 | 6.5 | 3171.0 | 17.0 | 
+| 2021-12-22 | 2021-2022フューチャーズリーグ | Kim Changhoon | Gang Woohyeok | Lose | B+4.5 | 6.5 | 3154.0 | -54.0 | 
 | 2021-12-09 | 第5回クラウン・ヘテ杯1回戦 | Kim Dayoung | Gang Woohyeok | Win | W+3.5 | 6.5 | 3208.0 | 146.0 | 
 | 2021-12-01 | 2021-2022フューチャーズリーグ | Gang Woohyeok | Wi Taewoong | Lose | W+R | 6.5 | 3062.0 | -28.0 | 
 | 2021-11-24 | 2021-2022フューチャーズリーグ | Gang Woohyeok | Kim Sangcheon | Win | B+R | 6.5 | 3090.0 | -283.0 | 

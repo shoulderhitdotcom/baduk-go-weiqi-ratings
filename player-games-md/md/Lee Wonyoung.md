@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-08 | 2021-2022韓国囲碁リーグ | Choi Jaeyoung | Lee Wonyoung | Lose | B+2.5 | 6.5 | 3241.0 | -2.0 | 
 | 2021-12-26 | 2021-2022韓国囲碁リーグ | Lee Wonyoung | Kim Sedong | Win | B+R | 6.5 | 3243.0 | -25.0 | 
 | 2021-12-16 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Lee Wonyoung | Win | W+R | 6.5 | 3268.0 | -24.0 | 
 | 2021-12-03 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Lee Wonyoung | Lose | B+1.5 | 6.5 | 3292.0 | -22.0 | 

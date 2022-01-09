@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-08 | 2021-2022フューチャーズリーグ |  | Kim Seungjun | Lose | B+1.5 | 6.5 | 2908.0 | -42.0 | 
 | 2021-12-29 | 2021-2022フューチャーズリーグ | Wi Taewoong | Kim Seungjun | Lose | B+R | 6.5 | 2950.0 | 81.0 | 
 | 2021-12-18 | 2021-2022フューチャーズリーグ | Kim Seungjun | Kim Daeyoung | Win | B+R | 6.5 | 2869.0 | -4.0 | 
 | 2021-12-07 | 第27回GSカルテックス杯プロ棋戦予選 | Kim Seungjun | Lee Changseok | Lose | W+5.5 | 6.5 | 2873.0 | -19.0 | 

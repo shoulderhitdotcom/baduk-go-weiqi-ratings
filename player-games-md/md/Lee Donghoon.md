@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-08 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | Lee Donghoon | Lose | B+R | 6.5 | 3558.0 | -23.0 | 
 | 2022-01-07 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Donghoon | Shin Jinseo | Win | B+R | 6.5 | 3581.0 | 26.0 | 
 | 2022-01-04 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Kim Hyeoimin | Lee Donghoon | Win | W+R | 6.5 | 3555.0 | 83.0 | 
 | 2021-12-23 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Park Geunho | Lose | W+R | 6.5 | 3472.0 | 1.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-08 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | Lee Donghoon | Win | B+R | 6.5 | 3449.0 | 15.0 | 
 | 2022-01-04 | 第5回クラウン・ヘテ杯2回戦 | Seol Hyunjun | Oh Yujin | Win | B+R | 6.5 | 3434.0 | 9.0 | 
 | 2021-12-27 | 第5回クラウン・ヘテ杯1回戦 | Seol Hyunjun | Park Jinyoung | Win | B+2.5 | 6.5 | 3425.0 | 14.0 | 
 | 2021-12-26 | 2021-2022韓国囲碁リーグ | Park Minkyu | Seol Hyunjun | Win | W+R | 6.5 | 3411.0 | 45.0 | 
@@ -36,7 +37,7 @@
 | 2021-02-08 | 第4回クラウン・ヘテ杯準決勝 | Seol Hyunjun | An Jungki | Win | B+R | 6.5 | 3754.0 | 26.0 | 
 | 2021-02-06 | 2020-2021韓国囲碁リーグ | An Sungjoon | Seol Hyunjun | Lose | B+R | 6.5 | 3728.0 | -12.0 | 
 | 2021-01-31 | 2020-2021韓国囲碁リーグ | Seol Hyunjun | Lee Yeongkyu | Win | B+3.5 | 6.5 | 3740.0 | 30.0 | 
-| 2021-01-27 | 第4回クラウン・ヘテ杯3回戦 |  | Seol Hyunjun | Win | W+R | 6.5 | 3710.0 | 0.0 | 
+| 2021-01-27 | 第4回クラウン・ヘテ杯3回戦 | Cho Seungah | Seol Hyunjun | Win | W+R | 6.5 | 3710.0 | 0.0 | 
 | 2021-01-26 | 第2期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Seol Hyunjun | Lose | B+R | 6.5 | 3710.0 | -23.0 | 
 | 2021-01-23 | 2020-2021韓国囲碁リーグ | Seol Hyunjun | Shin Jinseo | Lose | W+R | 6.5 | 3733.0 | -1.0 | 
 | 2021-01-16 | 2020-2021韓国囲碁リーグ | Seol Hyunjun | Wen Rubin | Win | B+R | 6.5 | 3734.0 | 13.0 | 

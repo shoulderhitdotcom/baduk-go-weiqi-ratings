@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-08 | 2021-2022韓国囲碁リーグ | Park Sangjin | Song Gyusang | Win | B+R | 6.5 | 3344.0 | 45.0 | 
 | 2021-12-27 | 第5回クラウン・ヘテ杯1回戦 |  | Park Sangjin | Win | W+R | 6.5 | 3299.0 | 10.0 | 
 | 2021-12-26 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Park Sangjin | Win | W+1.5 | 6.5 | 3289.0 | 16.0 | 
 | 2021-12-03 | 2021-2022韓国囲碁リーグ | Park Sangjin | Song Jihoon | Lose | W+2.5 | 6.5 | 3273.0 | -8.0 | 
@@ -42,7 +43,7 @@
 | 2020-12-04 | 2020-2021韓国囲碁リーグ | Kang Seungmin | Park Sangjin | Win | W+R | 6.5 | 3594.0 | -22.0 | 
 | 2020-11-27 | 2020-2021韓国囲碁リーグ | Park Sangjin | Paek Hongseok | Win | B+R | 6.5 | 3616.0 | 26.0 | 
 | 2020-11-22 | 2020年中国囲碁乙級リーグ | Park Sangjin | Iyama Yuta | Lose | W+R | 7.5 | 3590.0 | -27.0 | 
-| 2020-11-21 | 2020年中国囲碁乙級リーグ | Park Sangjin |  | Lose | W+R | 7.5 | 3617.0 | 25.0 | 
+| 2020-11-21 | 2020年中国囲碁乙級リーグ | Park Sangjin | Liu Zhaozhe | Lose | W+R | 7.5 | 3617.0 | 25.0 | 
 | 2020-11-20 | 2020年中国囲碁乙級リーグ | Kim Myounghoon | Park Sangjin | Win | W+R | 7.5 | 3592.0 | 42.0 | 
 | 2020-11-19 | 2020年中国囲碁乙級リーグ |  | Park Sangjin | Win | W+¼ | 7.5 | 3550.0 | 41.0 | 
 | 2020-11-17 | 2020年中国囲碁乙級リーグ | Wang Haoyang | Park Sangjin | Win | W+1¼ | 7.5 | 3509.0 | 49.0 | 
@@ -101,9 +102,9 @@
 | 2019-01-30 | 第7回河燦錫国手杯英才囲碁大会16強戦 | Park Sangjin |  | Lose | W+R | 6.5 | 3031.0 | 21.0 | 
 | 2019-01-23 | 第4期未来の星新鋭最強戦1次大会第6戦 | Park Sangjin | Song Jihoon | Win | B+R | 6.5 | 3010.0 | 11.0 | 
 | 2019-01-16 | 第4期未来の星新鋭最強戦1次大会第5戦 | Choi Jaeyoung | Park Sangjin | Win | W+R | 6.5 | 2999.0 | 46.0 | 
-| 2019-01-10 | 第4期未来の星新鋭最強戦1次大会第4戦 | Park Sangjin | Chao Xiangzhao | Win | B+4.5 | 6.5 | 2953.0 | -5.0 | 
+| 2019-01-10 | 第4期未来の星新鋭最強戦1次大会第4戦 | Park Sangjin |  | Win | B+4.5 | 6.5 | 2953.0 | -5.0 | 
 | 2019-01-05 | 第2回クラウン・ヘテ杯2回戦 | Park Sangjin | Shin Jinseo | Lose | W+R | 6.5 | 2958.0 | -24.0 | 
-| 2018-12-08 | 第2回クラウン・ヘテ杯1回戦 | Park Sangjin |  | Win | B+R | 6.5 | 2982.0 | -24.0 | 
+| 2018-12-08 | 第2回クラウン・ヘテ杯1回戦 | Park Sangjin | Cho Seungah | Win | B+R | 6.5 | 2982.0 | -24.0 | 
 | 2018-11-14 | 2018年台湾精鋭vs韓国交流戦第5戦 | Park Sangjin | Huang Shiyuan | Win | B+R | 6.5 | 3006.0 | 8.0 | 
 | 2018-11-13 | 2018年台湾精鋭vs韓国交流戦第3戦 | Park Sangjin | Lai Junfu | Lose | W+R | 6.5 | 2998.0 | -46.0 | 
 | 2018-11-12 | 2018年台湾精鋭vs韓国交流戦第2戦 | Park Sangjin | Lu Yiquan | Win | B+R | 6.5 | 3044.0 | 0.0 | 

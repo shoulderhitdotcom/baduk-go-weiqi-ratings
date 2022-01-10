@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-09 | 2021-2022韓国囲碁リーグ | Na Hyun | Lee Taehyun | Win | W+R | 6.5 | 3232.0 | 171.0 | 
 | 2021-12-25 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Lee Taehyun | Lose | B+R | 6.5 | 3061.0 | -67.0 | 
 | 2021-12-04 | 2021-2022韓国囲碁リーグ | Lee Taehyun | Hong Seongji | Lose | W+R | 6.5 | 3128.0 | 28.0 | 
 | 2021-11-25 | 2021-2022韓国囲碁リーグ | Lee Taehyun | Byun Sangil | Lose | W+R | 6.5 | 3100.0 | -109.0 | 

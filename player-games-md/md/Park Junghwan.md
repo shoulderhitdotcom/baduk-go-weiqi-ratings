@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-09 | 2021-2022韓国囲碁リーグ | Park Junghwan | Ahn Kukhyun | Win | B+R | 6.5 | 3723.0 | 13.0 | 
 | 2021-12-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Byun Sangil | Park Junghwan | Win | W+R | 6.5 | 3710.0 | 61.0 | 
 | 2021-12-24 | 2021-2022韓国囲碁リーグ | Park Junghwan | Park Hamin | Lose | W+R | 6.5 | 3649.0 | -6.0 | 
 | 2021-12-16 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | Park Junghwan | Lose | B+2.5 | 6.5 | 3655.0 | -28.0 | 
@@ -39,7 +40,7 @@
 | 2021-09-04 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Changseok | Park Junghwan | Win | W+R | 6.5 | 3704.0 | 30.0 | 
 | 2021-08-15 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Choi Jeong | Park Junghwan | Win | W+R | 6.5 | 3674.0 | -3.0 | 
 | 2021-08-04 | 第4期韓国竜星戦準決勝 | Hong Mujin | Park Junghwan | Win | W+3.5 | 6.5 | 3677.0 | 40.0 | 
-| 2021-07-24 | 第23回農心杯韓国予選 | Park Junghwan |  | Win | B+R | 6.5 | 3637.0 | -1.0 | 
+| 2021-07-24 | 第23回農心杯韓国予選 | Park Junghwan | Kim Changhoon | Win | B+R | 6.5 | 3637.0 | -1.0 | 
 | 2021-07-21 | 第23回農心杯韓国予選 | An Sungjoon | Park Junghwan | Win | W+R | 6.5 | 3638.0 | 11.0 | 
 | 2021-07-17 | 第44期名人戦（韓国）敗者復活戦決勝 | Shin Jinseo | Park Junghwan | Lose | B+R | 6.5 | 3627.0 | -27.0 | 
 | 2021-07-13 | 第2期ソパルコサノル最高棋士決定戦挑戦手合五番勝負第5局 | Park Junghwan | Shin Jinseo | Lose | W+R | 6.5 | 3654.0 | -5.0 | 
@@ -354,7 +355,7 @@
 | 2017-12-11 | 第2回IMSAエリートマインドゲームズ男子団体戦第2節 | Park Junghwan |  | Win | B+R | 7.5 | 3603.0 | 12.0 | 
 | 2017-12-10 | 第2回IMSAエリートマインドゲームズ男子団体戦第1節 | Park Junghwan | Ke Jie | Lose | W+R | 7.5 | 3591.0 | -4.0 | 
 | 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Park Junghwan | Fan Yunruo | Win | B+R | 7.5 | 3595.0 | 8.0 | 
-| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 |  | Park Junghwan | Win | W+R | 7.5 | 3587.0 | 4.0 | 
+| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Ma Yichao | Park Junghwan | Win | W+R | 7.5 | 3587.0 | 4.0 | 
 | 2017-11-20 | 第3回夢百合杯世界オープン戦準決勝三番勝負第三局 | Park Junghwan | Xie Ke | Win | B+R | 7.5 | 3583.0 | 5.0 | 
 | 2017-11-19 | 第3回夢百合杯世界オープン戦準決勝三番勝負第二局 | Xie Ke | Park Junghwan | Win | W+R | 7.5 | 3578.0 | 1.0 | 
 | 2017-11-17 | 第3回夢百合杯世界オープン戦準決勝三番勝負第一局 | Park Junghwan | Xie Ke | Lose | W+R | 7.5 | 3577.0 | -29.0 | 

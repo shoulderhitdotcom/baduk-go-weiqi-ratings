@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-09 | 2021-2022韓国囲碁リーグ | Lee Changho | Park Joonhoon | Lose | B+R | 6.5 | 3400.0 | -27.0 | 
 | 2021-12-29 | 第5回クラウン・ヘテ杯2回戦 | Park Joonhoon | Gang Woohyeok | Win | B+R | 6.5 | 3427.0 | 8.0 | 
 | 2021-12-24 | 2021-2022韓国囲碁リーグ |  | Park Joonhoon | Lose | B+R | 6.5 | 3419.0 | 4.0 | 
 | 2021-12-20 | 第5回クラウン・ヘテ杯1回戦 | Park Joonhoon | Kim Jinhyu | Win | B+3.5 | 6.5 | 3415.0 | 4.0 | 
@@ -44,7 +45,7 @@
 | 2019-10-06 | 2019-2020韓国囲碁リーグ第2節第4試合第1局 | Park Joonhoon | An Joyeong | Win | B+R | 6.5 | 2991.0 | 41.0 | 
 | 2019-09-29 | 2019-2020韓国囲碁リーグ第1節第4試合第5局 | Park Joonhoon | Kim Myounghoon | Lose | W+R | 6.5 | 2950.0 | -61.0 | 
 | 2019-07-13 | 2019年囲碁テレビ杯早碁戦準決勝 | Park Junghwan | Park Joonhoon | Lose | B+R | 6.5 | 3011.0 | -19.0 | 
-| 2019-07-10 | 第21回農心杯韓国選抜戦 | Park Joonhoon |  | Lose | W+R | 6.5 | 3030.0 | -120.0 | 
+| 2019-07-10 | 第21回農心杯韓国選抜戦 | Park Joonhoon | Cho Seungah | Lose | W+R | 6.5 | 3030.0 | -120.0 | 
 | 2019-07-01 | 第24回三星火災杯統合予選2回戦 | Park Joonhoon | Zhao Chenyu | Lose | W+R | 6.5 | 3150.0 | -59.0 | 
 | 2019-06-28 | 2019年囲碁テレビ杯早碁戦8強戦 | Park Joonhoon | Shin Minjun | Win | B+4.5 | 6.5 | 3209.0 | 99.0 | 
 | 2019-06-22 | 2019年囲碁テレビ杯早碁戦16強戦 | Byun Sangil | Park Joonhoon | Win | W+R | 6.5 | 3110.0 | 214.0 | 

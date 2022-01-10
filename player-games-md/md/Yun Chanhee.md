@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-09 | 2021-2022韓国囲碁リーグ | Yun Chanhee | Park Yeonghun | Lose | W+R | 6.5 | 3459.0 | -4.0 | 
 | 2021-12-27 | 第3期ソパルコサノル最高棋士決定戦予選 | Baek Hyeonwoo | Yun Chanhee | Win | W+R | 6.5 | 3463.0 | 35.0 | 
 | 2021-12-25 | 2021-2022韓国囲碁リーグ |  | Yun Chanhee | Lose | B+R | 6.5 | 3428.0 | -13.0 | 
 | 2021-12-07 | 第3期ソパルコサノル最高棋士決定戦予選 | Yun Chanhee | Cho Hanseung | Lose | W+R | 6.5 | 3441.0 | -66.0 | 

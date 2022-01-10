@@ -18,7 +18,7 @@ using Revise: includet
 includet("utils.jl")
 
 # the threshold below which will see the player excluded from the main list
-const NGAME_THRESHOLD = 12
+const NGAME_THRESHOLD = 13
 
 # the intended syntax
 # @target = tbl = @chain @watch_path "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin

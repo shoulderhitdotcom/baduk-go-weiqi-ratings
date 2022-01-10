@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-10 | 第23回農心杯韓中クラシックスーパーマッチ第1戦 | Yu Zhiying | Lee Changho | Lose | B+R | 6.5 | 3226.0 | -2.0 | 
 | 2022-01-09 | 2021-2022韓国囲碁リーグ | Lee Changho | Park Joonhoon | Win | B+R | 6.5 | 3228.0 | 99.0 | 
 | 2021-12-25 | 2021-2022韓国囲碁リーグ | Lee Changho | Lee Wondo | Win | B+R | 6.5 | 3129.0 | 9.0 | 
 | 2021-12-15 | 2021統営レジェンドマッチ | Lee Changho | Cho Hunhyun | Win | B+R | 6.5 | 3120.0 | -39.0 | 

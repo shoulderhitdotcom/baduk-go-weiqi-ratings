@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 | Lin Xinwei | Chen Qirui | Lose | B+R | 6.5 | 3324.0 | -8.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 |  | Chen Qirui | Win | W+R | 6.5 | 3332.0 | 3.0 | 
 | 2021-12-27 | 2021年関西棋院台湾棋院対抗戦 | Chen Qirui | Sada Atsushi | Win | B+R | 6.5 | 3329.0 | 111.0 | 
 | 2021-11-24 | 第2回UMC聯電杯早碁争覇戦4回戦  | Chen Qirui | Wang Yuanjun | Lose | W+R | 6.5 | 3218.0 | -4.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 | Lin Junyan | Huang Shiyuan | Win | B+R | 6.5 | 3314.0 | 4.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦  | Lin Junyan |  | Win | B+R | 6.5 | 3310.0 | 89.0 | 
 | 2021-11-29 | 第14期棋王戦（台湾）挑戦手合七番勝負第7局  | Lin Junyan | Xu Haohong | Win | B+R | 6.5 | 3221.0 | 0.0 | 
 | 2021-11-25 | 第14期棋王戦（台湾）挑戦手合七番勝負第6局  | Xu Haohong | Lin Junyan | Lose | B+R | 6.5 | 3221.0 | -8.0 | 

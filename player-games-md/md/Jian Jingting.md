@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 | Lin Shimin | Jian Jingting | Win | W+R | 6.5 | 3219.0 | 5.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Liu Chuanting | Jian Jingting | Win | W+R | 6.5 | 3214.0 | 7.0 | 
 | 2021-12-28 | 第2回UMC聯電杯早碁争覇戦決勝三番勝負第2局  | Jian Jingting | Xu Haohong | Lose | W+R | 6.5 | 3207.0 | -9.0 | 
 | 2021-12-27 | 第2回UMC聯電杯早碁争覇戦決勝三番勝負第1局  | Xu Haohong | Jian Jingting | Lose | B+R | 6.5 | 3216.0 | 41.0 | 

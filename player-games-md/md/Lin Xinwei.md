@@ -7,7 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Bai Xinhui | Lin Xinwei | Win | W+R | 6.5 | 2801.0 | 22.0 | 
+| 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 | Lin Xinwei | Chen Qirui | Win | B+R | 6.5 | 2894.0 | 93.0 | 
+| 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Bai Xinhui | Lin Xinwei | Win | W+R | 6.5 | 2801.0 | 14.0 | 
+| 2022-01-05 | 第21期天元戦（台湾）予選 |  | Lin Xinwei | Win | W+R | 6.5 | 2787.0 | 8.0 | 
 | 2021-12-27 | 2021年関西棋院台湾棋院対抗戦 | Watanabe Yuu | Lin Xinwei | Lose | B+R | 6.5 | 2779.0 | 48.0 | 
 | 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦 | Lin Xinwei | Jian Jingting | Lose | W+3.5 | 6.5 | 2731.0 | -16.0 | 
 | 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦  | Lin Xinwei | Yu Lijun | Win | B+R | 6.5 | 2747.0 | 28.0 | 

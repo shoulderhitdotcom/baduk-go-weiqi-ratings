@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦  | Yang Bowei | Yang Zixuan | Win | B+R | 6.5 | 3036.0 | 7.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 |  | Yang Bowei | Win | W+R | 6.5 | 3029.0 | 5.0 | 
 | 2022-01-04 | 第21期天元戦（台湾）予選 | Yang Bowei | Zhang Zhehao | Win | B+R | 6.5 | 3024.0 | 5.0 | 
 | 2021-12-27 | 2021年関西棋院台湾棋院対抗戦 | Yang Bowei | Abe Yoshiki | Lose | W+R | 6.5 | 3019.0 | 35.0 | 

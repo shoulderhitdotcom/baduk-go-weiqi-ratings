@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-10 | 第47期名人戦リーグ  | Yamashita Keigo | Hsu Chiayuan | Lose | B+R | 6.5 | 3458.0 | 63.0 | 
 | 2021-12-25 | 第1回テイケイ杯俊英戦Bリーグ | Tsuruta Kazushi | Hsu Chiayuan | Win | W+1.5 | 6.5 | 3395.0 | 9.0 | 
 | 2021-12-24 | 第1回テイケイ杯俊英戦Bリーグ | Hsu Chiayuan | Onishi Kenya | Win | B+R | 6.5 | 3386.0 | -19.0 | 
 | 2021-12-22 | 第1回テイケイ杯俊英戦Bリーグ | Hsu Chiayuan | Hirose Yuichi | Win | B+R | 6.5 | 3405.0 | 7.0 | 
@@ -141,7 +142,7 @@
 | 2019-07-04 | 第26期阿含・桐山杯全日本早碁オープン戦1回戦 | Sun Zhe | Hsu Chiayuan | Lose | B+R | 6.5 | 2995.0 | -18.0 | 
 | 2019-06-30 | 第44期碁聖戦挑戦手合五番勝負第1局  | Hane Naoki | Hsu Chiayuan | Lose | B+R | 6.5 | 3013.0 | -17.0 | 
 | 2019-06-27 | 第44期棋聖戦Sリーグ | Takao Shinji | Hsu Chiayuan | Win | W+R | 6.5 | 3030.0 | -2.0 | 
-| 2019-06-16 | 2019年中国囲碁乙級リーグ |  | Hsu Chiayuan | Lose | B+R | 7.5 | 3032.0 | 5.0 | 
+| 2019-06-16 | 2019年中国囲碁乙級リーグ | Liu Zhaozhe | Hsu Chiayuan | Lose | B+R | 7.5 | 3032.0 | 5.0 | 
 | 2019-06-15 | 2019年中国囲碁乙級リーグ | Chen Shiyuan | Hsu Chiayuan | Win | W+R | 7.5 | 3027.0 | 5.0 | 
 | 2019-06-06 | 第75期本因坊戦予選 | Mutsuura Yuta | Hsu Chiayuan | Win | W+R | 6.5 | 3022.0 | 7.0 | 
 | 2019-06-03 | 第45期天元戦3回戦 | Hsu Chiayuan | Sakai Hideyuki | Win | B+R | 6.5 | 3015.0 | 66.0 | 

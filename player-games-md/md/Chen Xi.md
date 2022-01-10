@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 | Zhou Pingqiang | Chen Xi | Win | W+R | 6.5 | 2943.0 | 7.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Dai Jiashen | Chen Xi | Win | W+R | 6.5 | 2936.0 | 4.0 | 
 | 2022-01-04 | 第21期天元戦（台湾）予選 | Zhou Yinnan | Chen Xi | Lose | B+R | 6.5 | 2932.0 | -16.0 | 
 | 2021-12-28 | 2021年関西棋院台湾棋院対抗戦 | Chen Xi | Taniguchi Tooru | Lose | W+R | 6.5 | 2948.0 | 19.0 | 

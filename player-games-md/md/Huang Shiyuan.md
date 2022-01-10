@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 | Lin Junyan | Huang Shiyuan | Lose | B+R | 6.5 | 2779.0 | 8.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Huang Shiyuan |  | Win | B+R | 6.5 | 2771.0 | 4.0 | 
 | 2022-01-04 | 第21期天元戦（台湾）予選 | Lin Shimin | Huang Shiyuan | Win | W+3.5 | 6.5 | 2767.0 | 62.0 | 
 | 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Yang Bowei | Huang Shiyuan | Lose | B+R | 6.5 | 2705.0 | 13.0 | 

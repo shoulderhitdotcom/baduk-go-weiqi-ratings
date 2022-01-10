@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 |  | Wang Yuanjun | Win | W+R | 6.5 | 3353.0 | 4.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Wang Yuanjun |  | Win | B+R | 6.5 | 3349.0 | 4.0 | 
 | 2021-12-27 | 2021年関西棋院台湾棋院対抗戦 | Wang Yuanjun | Yu Zhengqi | Lose | W+R | 6.5 | 3345.0 | 81.0 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦  | Shin Jinseo | Wang Yuanjun | Lose | B+8.5 | 6.5 | 3264.0 | 0.0 | 

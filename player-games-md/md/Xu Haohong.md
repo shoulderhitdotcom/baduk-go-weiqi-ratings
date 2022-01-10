@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 |  | Xu Haohong | Win | W+6.5 | 6.5 | 3402.0 | 3.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 |  | Xu Haohong | Win | W+R | 6.5 | 3399.0 | 6.0 | 
 | 2021-12-28 | 第2回UMC聯電杯早碁争覇戦決勝三番勝負第2局  | Jian Jingting | Xu Haohong | Win | W+R | 6.5 | 3393.0 | 0.0 | 
 | 2021-12-27 | 第2回UMC聯電杯早碁争覇戦決勝三番勝負第1局  | Xu Haohong | Jian Jingting | Win | B+R | 6.5 | 3393.0 | 43.0 | 

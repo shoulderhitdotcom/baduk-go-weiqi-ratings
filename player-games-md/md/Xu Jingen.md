@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 | Xu Jingen | Liu Yaowen | Win | B+R | 6.5 | 2993.0 | 11.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Xu Jingen |  | Win | B+R | 6.5 | 2982.0 | 61.0 | 
 | 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Xu Jingen | Xu Yuqi | Lose | W+1.5 | 6.5 | 2921.0 | -37.0 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Xu Jingen | Lin Lixiang | Lose | W+R | 6.5 | 2958.0 | 0.0 | 

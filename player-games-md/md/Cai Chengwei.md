@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 |  | Cai Chengwei | Lose | B+R | 6.5 | 2863.0 | -12.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 |  | Cai Chengwei | Win | W+R | 6.5 | 2875.0 | 1.0 | 
 | 2021-12-28 | 2021年関西棋院台湾棋院対抗戦 | Shintani Yousuke | Cai Chengwei | Lose | B+1.5 | 6.5 | 2874.0 | 64.0 | 
 | 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 |  | Cai Chengwei | Win | W+R | 6.5 | 2810.0 | 24.0 | 

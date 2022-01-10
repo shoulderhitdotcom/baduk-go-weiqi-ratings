@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 | Xiao Zhenghao |  | Win | B+R | 6.5 | 3197.0 | 5.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Liu Jianchang | Xiao Zhenghao | Win | W+R | 6.5 | 3192.0 | 81.0 | 
 | 2021-12-01 | 第2回UMC聯電杯早碁争覇戦4回戦  | Xiao Zhenghao | Xu Haohong | Lose | W+R | 6.5 | 3111.0 | 7.0 | 
 | 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦 | Li Wei | Xiao Zhenghao | Win | W+R | 6.5 | 3104.0 | 52.0 | 

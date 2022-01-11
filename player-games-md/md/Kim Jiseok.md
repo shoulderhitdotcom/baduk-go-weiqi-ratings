@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | He Yuhan | Kim Jiseok | Win | W+R | 7.5 | 3564.0 | 14.0 | 
 | 2022-01-08 | 2021-2022韓国囲碁リーグ | Hong Seongji | Kim Jiseok | Win | W+1.5 | 6.5 | 3550.0 | 4.0 | 
 | 2022-01-04 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Kim Jiseok | Kim Hyeongwoo | Win | B+R | 6.5 | 3546.0 | 5.0 | 
 | 2021-12-26 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Shin Minjun | Win | B+R | 6.5 | 3541.0 | 57.0 | 

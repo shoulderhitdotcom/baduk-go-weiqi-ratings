@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Zhou Ruiyang | Ding Hao | Win | W+R | 7.5 | 3755.0 | 4.0 | 
 | 2022-01-05 | 第16回威孚房開杯棋王戦3回戦 | Mi Yuting | Ding Hao | Lose | B+R | 7.5 | 3751.0 | 5.0 | 
 | 2021-12-29 | 第1回湾区杯中国囲碁大棋士戦準決勝 | Peng Liyao | Ding Hao | Win | W+R | 7.5 | 3746.0 | 1.0 | 
 | 2021-12-28 | 第1回湾区杯中国囲碁大棋士戦3回戦 | Rong Yi | Ding Hao | Win | W+R | 7.5 | 3745.0 | 4.0 | 

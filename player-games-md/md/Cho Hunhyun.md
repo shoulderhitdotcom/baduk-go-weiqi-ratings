@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第23回農心杯韓中クラシックスーパーマッチ第2戦 | Liu Xiaoguang | Cho Hunhyun | Win | W+R | 6.5 | 3016.0 | 24.0 | 
 | 2022-01-10 | 第23回農心杯韓中クラシックスーパーマッチ第1戦 | Cho Hunhyun | Chang Hao | Lose | W+4.5 | 6.5 | 2992.0 | 36.0 | 
 | 2021-12-21 | 2021年1004島新安国際シニア囲碁大会1回戦  | Cho Hunhyun | O Meien | Lose | W+R | 6.5 | 2956.0 | -84.0 | 
 | 2021-12-15 | 2021統営レジェンドマッチ | Lee Changho | Cho Hunhyun | Lose | B+R | 6.5 | 3040.0 | -43.0 | 

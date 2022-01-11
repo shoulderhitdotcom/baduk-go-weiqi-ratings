@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第23回農心杯韓中クラシックスーパーマッチ第2戦 | Choi Jeong | Yu Zhiying | Win | B+R | 6.5 | 3336.0 | 3.0 | 
 | 2022-01-10 | 第23回農心杯韓中クラシックスーパーマッチ第1戦 | Choi Jeong | Liu Xiaoguang | Win | B+T | 6.5 | 3333.0 | 4.0 | 
 | 2022-01-07 | 2021-2022韓国囲碁リーグ | Park Geunho | Choi Jeong | Win | W+R | 6.5 | 3329.0 | 25.0 | 
 | 2022-01-04 | 2021女子最高棋士決定戦（韓国）リーグ | Choi Jeong | Lee Minjin | Win | B+2.5 | 6.5 | 3304.0 | 89.0 | 

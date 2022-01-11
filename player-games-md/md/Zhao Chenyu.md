@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Shi Yue | Zhao Chenyu | Win | W+R | 7.5 | 3580.0 | 16.0 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Gu Zihao | Zhao Chenyu | Lose | B+R | 7.5 | 3564.0 | 62.0 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Xu Jiayang | Zhao Chenyu | Win | W+R | 7.5 | 3502.0 | 62.0 | 
 | 2021-11-24 | 第22期阿含・桐山杯中国早碁オープン戦準決勝 | Gu Zihao | Zhao Chenyu | Lose | B+R | 7.5 | 3440.0 | -2.0 | 
@@ -283,7 +284,7 @@
 | 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Zhao Chenyu | Tan Xiao | Win | B+R | 7.5 | 3030.0 | 8.0 | 
 | 2015-08-31 | 2015年全国囲棋個人戦男子組第8戦 | Zhao Chenyu | Xu Jiayang | Win | B+R | 7.5 | 3022.0 | 0.0 | 
 | 2015-08-29 | 2015年全国囲棋個人戦男子組第7戦 | Dang Yifei | Zhao Chenyu | Lose | B+R | 7.5 | 3022.0 | -27.0 | 
-| 2015-08-28 | 2015年全国囲棋個人戦男子組第6戦 |  | Zhao Chenyu | Win | W+R | 7.5 | 3049.0 | 14.0 | 
+| 2015-08-28 | 2015年全国囲棋個人戦男子組第6戦 | Wang Shuo | Zhao Chenyu | Win | W+R | 7.5 | 3049.0 | 14.0 | 
 | 2015-08-14 | 2015年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Zhao Chenyu | An Jungki | Win | B+1.5 | 7.5 | 3035.0 | 7.0 | 
 | 2015-07-26 | 2015年中国段位戦 | Yu Zhiying | Zhao Chenyu | Lose | B+1.5 | 7.5 | 3028.0 | -19.0 | 
 | 2015-07-25 | 2015年中国段位戦 | Huang Xin | Zhao Chenyu | Lose | B+R | 7.5 | 3047.0 | -15.0 | 

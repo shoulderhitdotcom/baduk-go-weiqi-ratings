@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Yang Dingxin | Tuo Jiaxi | Win | B+R | 7.5 | 3692.0 | 9.0 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Tuo Jiaxi | Yang Dingxin | Lose | B+¾ | 7.5 | 3683.0 | 57.0 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Tao Xinran | Yang Dingxin | Win | W+¼ | 7.5 | 3626.0 | 1.0 | 
 | 2021-11-24 | 第22期阿含・桐山杯中国早碁オープン戦準決勝 | Yang Dingxin | Huang Yunsong | Lose | W+R | 7.5 | 3625.0 | -4.0 | 
@@ -169,7 +170,7 @@
 | 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Mao Ruilong | Yang Dingxin | Win | W+R | 7.5 | 3329.0 | 12.0 | 
 | 2019-03-24 | 第18回西南棋王戦準決勝 | Yang Dingxin | Ke Jie | Lose | W+R | 7.5 | 3317.0 | -6.0 | 
 | 2019-03-23 | 第18回西南棋王戦2回戦 | Li Xuanhao | Yang Dingxin | Win | W+2¼ | 7.5 | 3323.0 | 0.0 | 
-| 2019-03-23 | 第18回西南棋王戦1回戦 |  | Yang Dingxin | Win | W+R | 7.5 | 3323.0 | -15.0 | 
+| 2019-03-23 | 第18回西南棋王戦1回戦 | Ma Yichao | Yang Dingxin | Win | W+R | 7.5 | 3323.0 | -15.0 | 
 | 2019-03-15 | 第10期中国竜星戦Aブロック8回戦 | Jiang Weijie | Yang Dingxin | Lose | B+R | 7.5 | 3338.0 | 33.0 | 
 | 2019-02-26 | 第4期洛陽白雲山杯中国棋聖戦本戦2回戦 | Tuo Jiaxi | Yang Dingxin | Lose | B+R | 7.5 | 3305.0 | -12.0 | 
 | 2019-02-25 | 第4期洛陽白雲山杯中国棋聖戦本戦1回戦 | Li Xuanhao | Yang Dingxin | Win | W+R | 7.5 | 3317.0 | -24.0 | 
@@ -259,7 +260,7 @@
 | 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Yang Dingxin | An Dongxu | Win | B+R | 7.5 | 3376.0 | 2.0 | 
 | 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Li Zhe | Yang Dingxin | Win | W+R | 7.5 | 3374.0 | -4.0 | 
 | 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Yang Dingxin | Lian Xiao | Lose | W+R | 7.5 | 3378.0 | -1.0 | 
-| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 |  | Yang Dingxin | Win | W+R | 7.5 | 3379.0 | -3.0 | 
+| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Ma Yichao | Yang Dingxin | Win | W+R | 7.5 | 3379.0 | -3.0 | 
 | 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Yang Dingxin |  | Win | B+R | 7.5 | 3382.0 | 19.0 | 
 | 2017-08-04 | 嫘祖杯30回中国名人戦16強戦 | Tang Weixing | Yang Dingxin | Lose | B+R | 7.5 | 3363.0 | -13.0 | 
 | 2017-08-03 | 嫘祖杯30回中国名人戦32強戦 | Yang Dingxin | Shi Yue | Win | B+R | 7.5 | 3376.0 | 10.0 | 

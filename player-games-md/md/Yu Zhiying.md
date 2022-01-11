@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第23回農心杯韓中クラシックスーパーマッチ第2戦 | Choi Jeong | Yu Zhiying | Lose | B+R | 6.5 | 3268.0 | -14.0 | 
 | 2022-01-10 | 第23回農心杯韓中クラシックスーパーマッチ第1戦 | Yu Zhiying | Lee Changho | Win | B+R | 6.5 | 3282.0 | 30.0 | 
 | 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Yu Zhiying | Song Ronghui | Win | B+R | 7.5 | 3252.0 | 10.0 | 
 | 2021-12-26 | 第9回中国女子囲碁甲級リーグ | Huang Ziping | Yu Zhiying | Win | W+1¼ | 7.5 | 3242.0 | 59.0 | 

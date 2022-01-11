@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第23回農心杯韓中クラシックスーパーマッチ第2戦 | Liu Xiaoguang | Cho Hunhyun | Lose | W+R | 6.5 | 2824.0 | -150.0 | 
 | 2022-01-10 | 第23回農心杯韓中クラシックスーパーマッチ第1戦 | Choi Jeong | Liu Xiaoguang | Lose | B+T | 6.5 | 2974.0 | 618.0 | 
 | 2019-06-12 | 2019年1004島新安国際シニア囲碁大会団体戦第3戦 | Liu Xiaoguang | Takemiya Masaki | Win | B+R | 6.5 | 2356.0 | 367.0 | 
 | 2019-06-11 | 2019年1004島新安国際シニア囲碁大会団体戦第2戦 | Liu Xiaoguang | Rin Kaiho | Win | B+9.5 | 6.5 | 1989.0 | -1291.0 | 

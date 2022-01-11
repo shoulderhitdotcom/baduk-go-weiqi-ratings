@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第23回農心杯韓中クラシックスーパーマッチ第2戦 | Lee Changho | Chang Hao | Win | W+1.5 | 6.5 | 3206.0 | 40.0 | 
 | 2022-01-10 | 第23回農心杯韓中クラシックスーパーマッチ第1戦 | Cho Hunhyun | Chang Hao | Win | W+4.5 | 6.5 | 3166.0 | -38.0 | 
 | 2021-11-01 | 2021中日韓聶衛平杯囲碁マスターズ3回戦 | Lee Changho | Chang Hao | Lose | B+R | 7.5 | 3204.0 | -95.0 | 
 | 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Chang Hao | Yamashita Keigo | Lose | W+¼ | 7.5 | 3299.0 | -3.0 | 

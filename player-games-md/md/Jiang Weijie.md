@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Lee Donghoon | Jiang Weijie | Lose | B+R | 7.5 | 3477.0 | 46.0 | 
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Jiang Weijie | Tang Weixing | Lose | W+¼ | 7.5 | 3431.0 | -158.0 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Ke Jie | Jiang Weijie | Lose | B+R | 7.5 | 3589.0 | -22.0 | 
 | 2021-10-12 | 第12期中国竜星戦Bブロック9回戦 | Jiang Weijie | Mi Yuting | Lose | W+R | 7.5 | 3611.0 | 8.0 | 
@@ -213,7 +214,7 @@
 | 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Park Junghwan | Jiang Weijie | Win | W+R | 6.5 | 3264.0 | -1.0 | 
 | 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Jiang Weijie | Lee Sedol | Win | B+R | 6.5 | 3265.0 | 36.0 | 
 | 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Jiang Weijie | Xie Ke | Win | B+R | 7.5 | 3229.0 | -14.0 | 
-| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 |  | Jiang Weijie | Win | W+R | 7.5 | 3243.0 | 4.0 | 
+| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Ma Yichao | Jiang Weijie | Win | W+R | 7.5 | 3243.0 | 4.0 | 
 | 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Jiang Weijie | Gu Zihao | Win | B+1.5 | 7.5 | 3239.0 | 23.0 | 
 | 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Tang Weixing | Jiang Weijie | Lose | B+R | 7.5 | 3216.0 | -17.0 | 
 | 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Jiang Weijie | Tong Mengcheng | Win | B+R | 7.5 | 3233.0 | -7.0 | 

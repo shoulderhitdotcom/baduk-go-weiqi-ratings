@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Shin Minjun | Chen Xian | Win | B+R | 7.5 | 3510.0 | -3.0 | 
+| 2022-01-06 | 2021-2022韓国囲碁リーグ | Shin Minjun | Shin Jaeweon | Lose | W+R | 6.5 | 3513.0 | 1.0 | 
 | 2022-01-05 | 第5回クラウン・ヘテ杯3回戦 | Han Seungjoo | Shin Minjun | Lose | B+R | 6.5 | 3512.0 | -2.0 | 
 | 2021-12-28 | 第5回クラウン・ヘテ杯1回戦 | Shin Minjun | Park Geunho | Win | B+R | 6.5 | 3514.0 | 0.0 | 
 | 2021-12-26 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Shin Minjun | Lose | B+R | 6.5 | 3514.0 | 54.0 | 

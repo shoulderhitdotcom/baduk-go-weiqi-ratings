@@ -7,12 +7,13 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Mi Yuting vs Tuo Jiaxi** | **Mi Yuting streak** | **Tuo Jiaxi streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-12-28 | 第1回湾区杯中国囲碁大棋士戦3回戦 | Tuo Jiaxi | Mi Yuting | W+R | 7.5 | 7:6 | 1 | 0 | 
 | 2021-09-22 | 第14回中国全国運動会囲碁男子個人公開組第5戦 | Mi Yuting | Tuo Jiaxi | B+R | 7.5 | 1:2 | 1 | 0 | 
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Mi Yuting | B+R | 7.5 | 7:8 | 0 | 2 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Tuo Jiaxi | Mi Yuting | B+R | 7.5 | 8:8 | 0 | 2 | 
 | 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Tuo Jiaxi | Mi Yuting | B+R | 7.5 | 0:1 | 0 | 1 | 
-| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Mi Yuting | Tuo Jiaxi | W+¼ | 7.5 | 7:7 | 0 | 1 | 
+| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Mi Yuting | Tuo Jiaxi | W+¼ | 7.5 | 8:7 | 0 | 1 | 
 | 2020-06-15 | 第19回西南棋王戦決勝 | Mi Yuting | Tuo Jiaxi | B+3¾ | 7.5 | 6:4 | 1 | 0 | 
-| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節江蘇-中信 | Tuo Jiaxi | Mi Yuting | W+R | 7.5 | 7:6 | 1 | 0 | 
+| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節江蘇-中信 | Tuo Jiaxi | Mi Yuting | W+R | 7.5 | 8:6 | 2 | 0 | 
 | 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Mi Yuting | Tuo Jiaxi | W+R | 7.5 | 5:4 | 0 | 1 | 
 | 2017-06-09 | 第1回巔峰夢想拉薩交通産業集団ラリー戦b4 | Mi Yuting | Tuo Jiaxi | W+R | 7.5 | 6:6 | 0 | 2 | 
 | 2017-06-03 | 第1回巔峰夢想拉薩交通産業集団ラリー戦b1 | Tuo Jiaxi | Mi Yuting | B+R | 7.5 | 6:5 | 0 | 1 | 

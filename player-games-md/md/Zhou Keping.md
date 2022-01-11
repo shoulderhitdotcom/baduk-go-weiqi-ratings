@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第21期天元戦（台湾）予選 | Zhou Keping | Chen Feng | Lose | W+R | 6.5 | 2198.0 | -58.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 |  | Zhou Keping | Lose | B+R | 6.5 | 2256.0 | -54.0 | 
 | 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 | Zhou Keping |  | Lose | W+R | 6.5 | 2310.0 | 164.0 | 
 | 2021-09-09 | 第14期棋王戦（台湾）予選 | Lai Junfu | Zhou Keping | Lose | B+R | 6.5 | 2146.0 | -9.0 | 

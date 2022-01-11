@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第21期天元戦（台湾）予選 | Lin Jiehan | Liu Yaowen | Win | W+R | 6.5 | 2768.0 | -44.0 | 
 | 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 | Xu Jingen | Liu Yaowen | Lose | B+R | 6.5 | 2812.0 | 13.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Zhang Kaixin | Liu Yaowen | Win | W+R | 6.5 | 2799.0 | 70.0 | 
 | 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Liu Yaowen | Xu Haohong | Lose | W+R | 6.5 | 2729.0 | 31.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第21期天元戦（台湾）予選 | Gao Yun | Cai Chengwei | Win | B+1.5 | 6.5 | 2480.0 | -10.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Gao Yun |  | Lose | W+R | 6.5 | 2490.0 | 27.0 | 
 | 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 | Lin Shimin | Gao Yun | Lose | B+1.5 | 6.5 | 2463.0 | 7.0 | 
 | 2021-09-26 | 第9期中環碁聖戦 | Chen Shiyuan | Gao Yun | Lose | B+R | 6.5 | 2456.0 | -21.0 | 

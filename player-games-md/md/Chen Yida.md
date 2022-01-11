@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第21期天元戦（台湾）予選 | Xu Jingen | Chen Yida | Win | W+0.5 | 6.5 | 2577.0 | 23.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Chen Yida | Lu Yiquan | Lose | W+R | 6.5 | 2554.0 | -18.0 | 
 | 2021-09-22 | 第9期中環碁聖戦 | Lin Junyan | Chen Yida | Lose | B+R | 6.5 | 2572.0 | 19.0 | 
 | 2021-09-02 | 第14期棋王戦（台湾）予選 | Chen Yida | Yang Zixuan | Lose | W+9.5 | 6.5 | 2553.0 | -1.0 | 

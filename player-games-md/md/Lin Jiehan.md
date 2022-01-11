@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第21期天元戦（台湾）予選 | Lin Jiehan | Liu Yaowen | Lose | W+R | 6.5 | 2727.0 | -12.0 | 
 | 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 | Lin Jiehan | Lai Junfu | Lose | W+R | 6.5 | 2739.0 | -17.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Lin Jiehan |  | Win | B+R | 6.5 | 2756.0 | -3.0 | 
 | 2022-01-04 | 第21期天元戦（台湾）予選 | Lin Jiehan | Dong Yutang | Win | B+R | 6.5 | 2759.0 | 103.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Shin Jinseo | Park Yeonghun | Lose | B+R | 6.5 | 3500.0 | 4.0 | 
 | 2022-01-09 | 2021-2022韓国囲碁リーグ | Yun Chanhee | Park Yeonghun | Win | W+R | 6.5 | 3496.0 | 131.0 | 
 | 2021-12-24 | 2021-2022韓国囲碁リーグ | Park Yeonghun | Park Jinsol | Win | B+R | 6.5 | 3365.0 | 4.0 | 
 | 2021-12-16 | 2021-2022韓国囲碁リーグ | Park Yeonghun | Wi Taewoong | Win | B+R | 6.5 | 3361.0 | 43.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第21期天元戦（台湾）予選 | Li Wei | Liu Jianchang | Lose | B+R | 6.5 | 2193.0 | -137.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Liu Jianchang | Xiao Zhenghao | Lose | W+R | 6.5 | 2330.0 | 120.0 | 
 | 2021-09-06 | 第14期棋王戦（台湾）予選 | Zhou Keping | Liu Jianchang | Lose | B+R | 6.5 | 2210.0 | 49.0 | 
 | 2021-09-02 | 第14期棋王戦（台湾）予選 | Lin Jiehan | Liu Jianchang | Win | W+4.5 | 6.5 | 2161.0 | 2.0 | 

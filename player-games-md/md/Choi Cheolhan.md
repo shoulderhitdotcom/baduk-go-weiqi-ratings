@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Paek Hongseok | Choi Cheolhan | Win | W+R | 6.5 | 3433.0 | -14.0 | 
 | 2022-01-07 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Han Seungjoo | Win | B+12.5 | 6.5 | 3447.0 | 137.0 | 
 | 2021-12-23 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Kim Changhoon | Win | B+R | 6.5 | 3310.0 | -20.0 | 
 | 2021-12-18 | 2021-2022韓国囲碁リーグ | Song Jihoon | Choi Cheolhan | Win | W+R | 6.5 | 3330.0 | -3.0 | 

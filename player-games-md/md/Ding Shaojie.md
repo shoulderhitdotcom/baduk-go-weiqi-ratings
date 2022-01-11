@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第21期天元戦（台湾）予選 |  | Ding Shaojie | Lose | B+R | 6.5 | 2624.0 | 12.0 | 
 | 2022-01-07 | 第21期天元戦（台湾）予選 | Lin Ziyuan | Ding Shaojie | Win | W+R | 6.5 | 2612.0 | 51.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 |  | Ding Shaojie | Lose | B+R | 6.5 | 2561.0 | 131.0 | 
 | 2021-10-06 | 第7回国手山脈国際囲碁大会台湾予選 | Xu Jingen | Ding Shaojie | Lose | B+R | 6.5 | 2430.0 | -16.0 | 

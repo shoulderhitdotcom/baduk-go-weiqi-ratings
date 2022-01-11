@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第21期天元戦（台湾）予選 |  | Zhou Pingqiang | Win | W+R | 6.5 | 2563.0 | 5.0 | 
 | 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 | Zhou Pingqiang | Chen Xi | Lose | W+R | 6.5 | 2558.0 | -4.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Zhou Pingqiang | Yu Lijun | Win | B+R | 6.5 | 2562.0 | 86.0 | 
 | 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 | Zhou Pingqiang | Lin Yuxiang | Lose | W+5.5 | 6.5 | 2476.0 | -21.0 | 

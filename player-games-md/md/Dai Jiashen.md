@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-11 | 第21期天元戦（台湾）予選 | Dai Jiashen |  | Lose | W+R | 6.5 | 2259.0 | 22.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Dai Jiashen | Chen Xi | Lose | W+R | 6.5 | 2237.0 | -72.0 | 
 | 2021-09-19 | 第9期中環碁聖戦 | Liu Yaowen | Dai Jiashen | Lose | B+2.5 | 6.5 | 2309.0 | 52.0 | 
 | 2021-09-02 | 第14期棋王戦（台湾）予選 |  | Dai Jiashen | Lose | B+3.5 | 6.5 | 2257.0 | -40.0 | 

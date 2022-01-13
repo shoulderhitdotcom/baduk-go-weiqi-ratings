@@ -7,7 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Jin Yucheng vs Xu Jiayang** | **Jin Yucheng streak** | **Xu Jiayang streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Jin Yucheng | Xu Jiayang | W+R | 7.5 | 0:1 | 0 | 1 |
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Jin Yucheng | W+R | 7.5 | 1:0 | 1 | 0 | 
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Jin Yucheng | Xu Jiayang | W+R | 7.5 | 1:1 | 0 | 1 |
 
 
 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Tan Xiao | Xie Erhao | Win | W+R | 7.5 | 3458.0 | 13.0 | 
 | 2022-01-05 | 第16回威孚房開杯棋王戦3回戦 | Xie Erhao | Tong Mengcheng | Lose | W+R | 7.5 | 3445.0 | 66.0 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Gu Zihao | Xie Erhao | Lose | B+R | 7.5 | 3379.0 | -141.0 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Ke Jie | Xie Erhao | Lose | B+1¾ | 7.5 | 3520.0 | -12.0 | 

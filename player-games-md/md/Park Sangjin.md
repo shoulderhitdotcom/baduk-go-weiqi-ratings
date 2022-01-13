@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-13 | 第5回クラウン・ヘテ杯3回戦 | Song Gyusang | Park Sangjin | Win | W+R | 6.5 | 3368.0 | 24.0 | 
 | 2022-01-08 | 2021-2022韓国囲碁リーグ | Park Sangjin | Song Gyusang | Win | B+R | 6.5 | 3344.0 | 45.0 | 
 | 2021-12-27 | 第5回クラウン・ヘテ杯1回戦 |  | Park Sangjin | Win | W+R | 6.5 | 3299.0 | 10.0 | 
 | 2021-12-26 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Park Sangjin | Win | W+1.5 | 6.5 | 3289.0 | 16.0 | 

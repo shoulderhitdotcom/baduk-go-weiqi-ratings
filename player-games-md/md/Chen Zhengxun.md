@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Chen Zhengxun | Lose | B+R | 7.5 | 3430.0 | -32.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Chen Zhengxun | Meng Tailing | Lose | W+R | 7.5 | 3462.0 | 56.0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Tan Xiao | Lose | W+R | 7.5 | 3406.0 | -5.0 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Jin Yucheng | Win | B+R | 7.5 | 3411.0 | 21.0 | 

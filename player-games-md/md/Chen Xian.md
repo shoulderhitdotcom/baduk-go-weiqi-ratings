@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Liu Yuhang | Chen Xian | Win | W+R | 7.5 | 3481.0 | 13.0 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Rong Yi | Chen Xian | Win | W+R | 7.5 | 3468.0 | 15.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Shin Minjun | Chen Xian | Lose | B+R | 7.5 | 3453.0 | 53.0 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Chen Xian | Shi Yue | Lose | W+R | 7.5 | 3400.0 | -143.0 | 

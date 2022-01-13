@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Lee Donghoon | Peng Liyao | Lose | W+R | 7.5 | 3570.0 | -6.0 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Weijie | Lee Donghoon | Win | W+R | 7.5 | 3576.0 | 8.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Lee Donghoon | Jiang Weijie | Win | B+R | 7.5 | 3568.0 | 10.0 | 
 | 2022-01-08 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | Lee Donghoon | Lose | B+R | 6.5 | 3558.0 | -23.0 | 

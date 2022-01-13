@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Tuo Jiaxi | Shen Peiran | Lose | W+R | 7.5 | 3498.0 | -19.0 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Tuo Jiaxi | Yang Dingxin | Win | B+R | 7.5 | 3517.0 | 17.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Yang Dingxin | Tuo Jiaxi | Lose | B+R | 7.5 | 3500.0 | -1.0 | 
 | 2021-12-28 | 第1回湾区杯中国囲碁大棋士戦3回戦 | Tuo Jiaxi | Mi Yuting | Lose | W+R | 7.5 | 3501.0 | -6.0 | 

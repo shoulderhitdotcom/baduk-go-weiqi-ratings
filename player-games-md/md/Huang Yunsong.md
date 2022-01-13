@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Fan Yin | Lose | W+R | 7.5 | 3594.0 | -13.0 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Tao Xinran | Huang Yunsong | Win | W+R | 7.5 | 3607.0 | 7.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Rong Yi | Win | B+R | 7.5 | 3600.0 | 80.0 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Tuo Jiaxi | Huang Yunsong | Lose | B+R | 7.5 | 3520.0 | -35.0 | 

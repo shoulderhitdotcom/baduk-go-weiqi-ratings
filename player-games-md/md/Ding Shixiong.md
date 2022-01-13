@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Ding Shixiong | Chen Zijian | Lose | W+R | 7.5 | 3296.0 | -21.0 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Li Xiangyu | Ding Shixiong | Lose | B+R | 7.5 | 3317.0 | -23.0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Ding Shixiong | Zhang Tao | Lose | W+R | 7.5 | 3340.0 | -13.0 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Shen Peiran | Ding Shixiong | Lose | B+R | 7.5 | 3353.0 | -43.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-13 | 第5回クラウン・ヘテ杯3回戦 | Seol Hyunjun | Park Joonhoon | Win | B+R | 6.5 | 3470.0 | 21.0 | 
 | 2022-01-08 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | Lee Donghoon | Win | B+R | 6.5 | 3449.0 | 15.0 | 
 | 2022-01-04 | 第5回クラウン・ヘテ杯2回戦 | Seol Hyunjun | Oh Yujin | Win | B+R | 6.5 | 3434.0 | 9.0 | 
 | 2021-12-27 | 第5回クラウン・ヘテ杯1回戦 | Seol Hyunjun | Park Jinyoung | Win | B+2.5 | 6.5 | 3425.0 | 14.0 | 

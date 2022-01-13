@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Byun Sangil | Zhao Chenyu | Win | B+R | 7.5 | 3715.0 | -3.0 | 
 | 2022-01-07 | 2021-2022韓国囲碁リーグ | Byun Sangil | Park Hamin | Win | B+0.5 | 6.5 | 3718.0 | 15.0 | 
 | 2022-01-06 | 第5回クラウン・ヘテ杯3回戦 | Park Hamin | Byun Sangil | Win | W+R | 6.5 | 3703.0 | 2.0 | 
 | 2022-01-04 | 第5回クラウン・ヘテ杯2回戦 | Cho Seungah | Byun Sangil | Win | W+R | 6.5 | 3701.0 | -16.0 | 

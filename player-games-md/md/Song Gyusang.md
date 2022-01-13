@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-13 | 第5回クラウン・ヘテ杯3回戦 | Song Gyusang | Park Sangjin | Lose | W+R | 6.5 | 3170.0 | 9.0 | 
 | 2022-01-08 | 2021-2022韓国囲碁リーグ | Park Sangjin | Song Gyusang | Lose | B+R | 6.5 | 3161.0 | 22.0 | 
 | 2021-12-19 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Song Gyusang | Lose | B+R | 6.5 | 3139.0 | -52.0 | 
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Song Gyusang | An Jungki | Lose | W+R | 6.5 | 3191.0 | -10.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Li Chengsen | Tong Mengcheng | Win | W+R | 7.5 | 3502.0 | 3.0 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Wang Xinghao | Tong Mengcheng | Lose | B+R | 7.5 | 3499.0 | -6.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Li Weiqing | Tong Mengcheng | Lose | B+R | 7.5 | 3505.0 | -10.0 | 
 | 2022-01-06 | 第16回威孚房開杯棋王戦準決勝 | Tong Mengcheng | Mi Yuting | Lose | W+R | 7.5 | 3515.0 | -4.0 | 

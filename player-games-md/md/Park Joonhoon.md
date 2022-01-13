@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-13 | 第5回クラウン・ヘテ杯3回戦 | Seol Hyunjun | Park Joonhoon | Lose | B+R | 6.5 | 3366.0 | -34.0 | 
 | 2022-01-09 | 2021-2022韓国囲碁リーグ | Lee Changho | Park Joonhoon | Lose | B+R | 6.5 | 3400.0 | -27.0 | 
 | 2021-12-29 | 第5回クラウン・ヘテ杯2回戦 | Park Joonhoon | Gang Woohyeok | Win | B+R | 6.5 | 3427.0 | 8.0 | 
 | 2021-12-24 | 2021-2022韓国囲碁リーグ |  | Park Joonhoon | Lose | B+R | 6.5 | 3419.0 | 4.0 | 

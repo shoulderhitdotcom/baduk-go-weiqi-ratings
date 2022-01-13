@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Mi Yuting | Ke Jie | Lose | W+R | 7.5 | 3694.0 | -8.0 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Mi Yuting | Shin Minjun | Win | B+R | 7.5 | 3702.0 | 7.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Mi Yuting | Tao Xinran | Win | B+R | 7.5 | 3695.0 | -7.0 | 
 | 2022-01-07 | 第16回威孚房開杯棋王戦決勝 | Yang Kaiwen | Mi Yuting | Win | W+R | 7.5 | 3702.0 | 14.0 | 

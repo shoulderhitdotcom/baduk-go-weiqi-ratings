@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Ding Hao | Yang Kaiwen | Win | W+¼ | 7.5 | 3566.0 | 10.0 | 
 | 2022-01-07 | 第16回威孚房開杯棋王戦決勝 | Yang Kaiwen | Mi Yuting | Lose | W+R | 7.5 | 3556.0 | 4.0 | 
 | 2022-01-06 | 第16回威孚房開杯棋王戦準決勝 | Yang Kaiwen | Li Qincheng | Win | B+R | 7.5 | 3552.0 | 19.0 | 
 | 2022-01-05 | 第16回威孚房開杯棋王戦3回戦 | Yi Lingtao | Yang Kaiwen | Win | W+R | 7.5 | 3533.0 | 84.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Weijie | Lee Donghoon | Lose | W+R | 7.5 | 3471.0 | -6.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Lee Donghoon | Jiang Weijie | Lose | B+R | 7.5 | 3477.0 | 46.0 | 
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Jiang Weijie | Tang Weixing | Lose | W+¼ | 7.5 | 3431.0 | -158.0 | 
 | 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Ke Jie | Jiang Weijie | Lose | B+R | 7.5 | 3589.0 | -22.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Zhang Tao | Xu Haohong | Lose | W+2¼ | 7.5 | 3556.0 | -16.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Zhang Tao | Wang Xinghao | Win | B+R | 7.5 | 3572.0 | 97.0 | 
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Zhang Tao | Dang Yifei | Lose | W+R | 7.5 | 3475.0 | -13.0 | 
 | 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Zhang Tao | Ke Jie | Lose | W+R | 7.5 | 3488.0 | -18.0 | 

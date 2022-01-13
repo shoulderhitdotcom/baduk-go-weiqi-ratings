@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Yi Lingtao | Lose | B+R | 7.5 | 3476.0 | -9.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Yi Lingtao | Lose | B+R | 7.5 | 3485.0 | -13.0 | 
 | 2022-01-05 | 第16回威孚房開杯棋王戦3回戦 | Yi Lingtao | Yang Kaiwen | Lose | W+R | 7.5 | 3498.0 | 51.0 | 
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Yi Lingtao | Ding Hao | Lose | W+R | 7.5 | 3447.0 | -37.0 | 

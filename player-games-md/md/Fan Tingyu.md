@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Ding Hao | Lose | W+¼ | 7.5 | 3579.0 | -1.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Xia Chenkun | Win | B+R | 7.5 | 3580.0 | 75.0 | 
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Peng Liyao | Fan Tingyu | Lose | B+R | 7.5 | 3505.0 | -42.0 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦 | Byun Sangil | Fan Tingyu | Lose | B+10.5 | 6.5 | 3547.0 | 0.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Li Weiqing | Lose | W+R | 7.5 | 3365.0 | -8.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Huang Mingyu | Lose | W+¾ | 7.5 | 3373.0 | -52.0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Kim Jiseok | Lose | W+R | 7.5 | 3425.0 | 9.0 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Mao Ruilong | Jiang Qirun | Lose | B+R | 7.5 | 3416.0 | -28.0 | 

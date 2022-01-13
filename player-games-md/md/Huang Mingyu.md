@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Huang Mingyu | Tan Xiao | Lose | W+R | 7.5 | 3409.0 | -15.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Huang Mingyu | Win | W+¾ | 7.5 | 3424.0 | -20.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Byun Sangil | Lose | W+R | 7.5 | 3444.0 | -12.0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Lee Donghoon | Huang Mingyu | Win | W+R | 7.5 | 3456.0 | 37.0 | 

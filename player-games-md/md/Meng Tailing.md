@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Meng Tailing | Wu Guangya | Win | B+R | 7.5 | 3535.0 | 24.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Chen Zhengxun | Meng Tailing | Win | W+R | 7.5 | 3511.0 | 59.0 | 
 | 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Meng Tailing | Fan Yin | Lose | W+R | 7.5 | 3452.0 | -11.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Ye Changxin | Meng Tailing | Win | W+R | 7.5 | 3463.0 | 4.0 | 

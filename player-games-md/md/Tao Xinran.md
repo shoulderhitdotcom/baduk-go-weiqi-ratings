@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Tao Xinran | Huang Yunsong | Lose | W+R | 7.5 | 3429.0 | -5.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Mi Yuting | Tao Xinran | Lose | B+R | 7.5 | 3434.0 | 58.0 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Tao Xinran | Yang Dingxin | Lose | W+¼ | 7.5 | 3376.0 | -71.0 | 
 | 2021-12-10 | 第1回文投杯中国囲碁国手戦3回戦 | Ke Jie | Tao Xinran | Lose | B+R | 7.5 | 3447.0 | -76.0 | 

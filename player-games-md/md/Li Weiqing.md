@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Li Weiqing | Win | W+R | 7.5 | 3553.0 | 9.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Li Weiqing | Tong Mengcheng | Win | B+R | 7.5 | 3544.0 | 81.0 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Li Weiqing | Tong Mengcheng | Lose | W+R | 7.5 | 3463.0 | -111.0 | 
 | 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Dang Yifei | Li Weiqing | Lose | B+1¾ | 7.5 | 3574.0 | 3.0 | 

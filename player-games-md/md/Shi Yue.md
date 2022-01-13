@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Zhao Chenyu | Shi Yue | Lose | B+R | 7.5 | 3487.0 | -3.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Shi Yue | Zhao Chenyu | Lose | W+R | 7.5 | 3490.0 | -2.0 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Shi Yue | Mi Yuting | Lose | W+¼ | 7.5 | 3492.0 | 62.0 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Chen Xian | Shi Yue | Win | W+R | 7.5 | 3430.0 | 0.0 | 

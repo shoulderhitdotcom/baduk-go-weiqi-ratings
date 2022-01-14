@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Kim Jiseok | Shen Peiran | Win | W+R | 7.5 | 3327.0 | 69.0 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Tuo Jiaxi | Shen Peiran | Win | W+R | 7.5 | 3258.0 | 216.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Shen Peiran | Chen Yaoye | Lose | W+R | 7.5 | 3042.0 | 3.0 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Shen Peiran | Tong Mengcheng | Lose | W+R | 7.5 | 3039.0 | -31.0 | 

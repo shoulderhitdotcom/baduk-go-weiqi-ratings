@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-14 | 第21期天元戦（台湾）予選 | Chen Xi |  | Win | B+R | 6.5 | 2945.0 | -10.0 | 
 | 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Chen Xi | Lin Xinwei | Lose | W+R | 6.5 | 2955.0 | 12.0 | 
 | 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 | Zhou Pingqiang | Chen Xi | Win | W+R | 6.5 | 2943.0 | 7.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Dai Jiashen | Chen Xi | Win | W+R | 6.5 | 2936.0 | 4.0 | 

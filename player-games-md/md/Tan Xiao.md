@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Tang Weixing | Tan Xiao | Win | W+R | 7.5 | 3482.0 | 17.0 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Tan Xiao | Xie Erhao | Lose | W+R | 7.5 | 3465.0 | -11.0 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Huang Mingyu | Tan Xiao | Win | W+R | 7.5 | 3476.0 | 13.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Xu Haohong | Tan Xiao | Win | W+R | 7.5 | 3463.0 | 79.0 | 

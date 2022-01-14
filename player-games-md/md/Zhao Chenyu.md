@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Zhao Chenyu | Byun Sangil | Win | B+R | 7.5 | 3602.0 | 20.0 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Byun Sangil | Zhao Chenyu | Lose | B+R | 7.5 | 3582.0 | -12.0 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Zhao Chenyu | Shi Yue | Win | B+R | 7.5 | 3594.0 | 14.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Shi Yue | Zhao Chenyu | Win | W+R | 7.5 | 3580.0 | 16.0 | 

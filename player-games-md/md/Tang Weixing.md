@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Tang Weixing | Tan Xiao | Lose | W+R | 7.5 | 3512.0 | -5.0 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Tang Weixing | Lose | B+R | 7.5 | 3517.0 | 2.0 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Tang Weixing | Peng Liyao | Lose | W+R | 7.5 | 3515.0 | 50.0 | 
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Jiang Weijie | Tang Weixing | Win | W+¼ | 7.5 | 3465.0 | -54.0 | 

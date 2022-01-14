@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Peng Liyao | Xia Chenkun | Lose | W+R | 7.5 | 3572.0 | -6.0 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Lee Donghoon | Peng Liyao | Win | W+R | 7.5 | 3578.0 | 6.0 | 
 | 2022-01-05 | 第16回威孚房開杯棋王戦3回戦 | Peng Liyao | Li Qincheng | Lose | W+R | 7.5 | 3572.0 | -10.0 | 
 | 2021-12-29 | 第1回湾区杯中国囲碁大棋士戦準決勝 | Peng Liyao | Ding Hao | Lose | W+R | 7.5 | 3582.0 | -1.0 | 

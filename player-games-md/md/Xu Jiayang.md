@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Lee Donghoon | Xu Jiayang | Lose | B+R | 7.5 | 3556.0 | -9.0 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Jin Yucheng | Lose | W+R | 7.5 | 3565.0 | 31.0 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Xu Jiayang | Zhao Chenyu | Lose | W+R | 7.5 | 3534.0 | -45.0 | 
 | 2021-12-11 | 第7回国手山脈世界プロ最強戦準決勝 | Xu Jiayang | Shin Jinseo | Lose | W+R | 6.5 | 3579.0 | -9.0 | 

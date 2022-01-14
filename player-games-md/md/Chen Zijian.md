@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Chen Zijian | Win | W+R | 7.5 | 3444.0 | 21.0 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Ding Shixiong | Chen Zijian | Win | W+R | 7.5 | 3423.0 | 39.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Huang Xin | Chen Zijian | Win | W+R | 7.5 | 3384.0 | 6.0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Chen Zijian | Win | W+2¼ | 7.5 | 3378.0 | 31.0 | 

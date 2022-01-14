@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-14 | 第21期天元戦（台湾）予選 | Yang Zixuan | Zhou Pingqiang | Lose | W+R | 6.5 | 2842.0 | 23.0 | 
+| 2022-01-11 | 第21期天元戦（台湾）予選 | Yang Zixuan |  | Win | B+R | 6.5 | 2819.0 | -10.0 | 
 | 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦  | Yang Bowei | Yang Zixuan | Lose | B+R | 6.5 | 2829.0 | 24.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Liu Yifang | Yang Zixuan | Win | W+R | 6.5 | 2805.0 | 45.0 | 
 | 2021-12-24 | 2021年関西棋院台湾棋院対抗戦 | Taguchi Misei | Yang Zixuan | Win | W+5.5 | 6.5 | 2760.0 | 23.0 | 

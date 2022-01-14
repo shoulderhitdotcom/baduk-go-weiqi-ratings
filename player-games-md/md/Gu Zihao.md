@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Ding Hao | Gu Zihao | Lose | B+R | 7.5 | 3776.0 | -4.0 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Gu Zihao | Xia Chenkun | Win | B+R | 7.5 | 3780.0 | 1.0 | 
 | 2021-12-29 | 第1回湾区杯中国囲碁大棋士戦準決勝 | Gu Zihao | Mi Yuting | Win | B+R | 7.5 | 3779.0 | 0.0 | 
 | 2021-12-28 | 第1回湾区杯中国囲碁大棋士戦3回戦 | Tong Mengcheng | Gu Zihao | Win | W+R | 7.5 | 3779.0 | 3.0 | 

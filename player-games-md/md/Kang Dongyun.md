@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Tuo Jiaxi | Lose | W+R | 7.5 | 3431.0 | -4.0 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Chen Zhengxun | Win | B+R | 7.5 | 3435.0 | 12.0 | 
 | 2022-01-10 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Yun Junsang | Kang Dongyun | Lose | B+R | 6.5 | 3423.0 | -11.0 | 
 | 2022-01-06 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Kang Dongyun | Lose | B+R | 6.5 | 3434.0 | 63.0 | 

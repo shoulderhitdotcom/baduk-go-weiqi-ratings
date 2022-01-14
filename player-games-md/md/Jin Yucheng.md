@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Jin Yucheng | Lose | B+R | 7.5 | 3520.0 | -18.0 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Jin Yucheng | Win | W+R | 7.5 | 3538.0 | 15.0 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Yi Lingtao | Win | B+R | 7.5 | 3523.0 | 33.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Yi Lingtao | Win | B+R | 7.5 | 3490.0 | 67.0 | 

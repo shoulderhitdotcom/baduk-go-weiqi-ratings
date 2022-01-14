@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Ding Hao | Gu Zihao | Win | B+R | 7.5 | 3761.0 | 16.0 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Ding Hao | Yang Kaiwen | Lose | W+¼ | 7.5 | 3745.0 | -18.0 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Ding Hao | Win | W+¼ | 7.5 | 3763.0 | 8.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Zhou Ruiyang | Ding Hao | Win | W+R | 7.5 | 3755.0 | 4.0 | 

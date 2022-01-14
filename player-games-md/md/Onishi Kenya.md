@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-13 | 第70期王座戦予選 | Onishi Kenya | Fujisawa Rina | Win | B+R | 6.5 | 2740.0 | 98.0 | 
 | 2021-12-25 | 第1回テイケイ杯俊英戦Bリーグ | Otake Yu | Onishi Kenya | Lose | B+2.5 | 6.5 | 2642.0 | -6.0 | 
 | 2021-12-24 | 第1回テイケイ杯俊英戦Bリーグ | Hsu Chiayuan | Onishi Kenya | Lose | B+R | 6.5 | 2648.0 | 17.0 | 
 | 2021-12-22 | 第1回テイケイ杯俊英戦Bリーグ | Onishi Kenya | Sada Atsushi | Lose | W+R | 6.5 | 2631.0 | 2.0 | 

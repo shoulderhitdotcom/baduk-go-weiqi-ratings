@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Lin Lixiang | Chen Shiyuan | Lose | B+R | 6.5 | 3136.0 | 11.0 | 
 | 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 | Chen Shiyuan |  | Win | B+R | 6.5 | 3125.0 | 10.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Chen Shiyuan | Lin Yuting | Win | B+R | 6.5 | 3115.0 | 0.0 | 
 | 2022-01-04 | 第21期天元戦（台湾）予選 | Chen Shiyuan | Bai Xinhui | Win | B+R | 6.5 | 3115.0 | 89.0 | 

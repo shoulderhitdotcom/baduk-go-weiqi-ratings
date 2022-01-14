@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-13 | 第60期十段戦準決勝 | Yu Zhengqi | Adachi Toshimasa | Win | B+R | 6.5 | 3414.0 | 7.0 | 
 | 2022-01-10 | 第77期本因坊戦リーグ | Sada Atsushi | Yu Zhengqi | Win | W+R | 6.5 | 3407.0 | 32.0 | 
 | 2022-01-06 | 第60期十段戦3回戦 | So Yokoku | Yu Zhengqi | Win | W+R | 6.5 | 3375.0 | 4.0 | 
 | 2021-12-27 | 2021年関西棋院台湾棋院対抗戦 | Wang Yuanjun | Yu Zhengqi | Win | W+R | 6.5 | 3371.0 | 84.0 | 

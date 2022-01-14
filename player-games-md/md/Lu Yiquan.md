@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Lu Yiquan | Xiao Zhenghao | Lose | W+R | 6.5 | 3123.0 | 13.0 | 
+| 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 |  | Lu Yiquan | Win | W+R | 6.5 | 3110.0 | 3.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Chen Yida | Lu Yiquan | Win | W+R | 6.5 | 3107.0 | 8.0 | 
 | 2021-12-28 | 2021年関西棋院台湾棋院対抗戦 | Nishi Takenobu | Lu Yiquan | Win | W+3.5 | 6.5 | 3099.0 | 75.0 | 
 | 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 |  | Lu Yiquan | Lose | B+R | 6.5 | 3024.0 | 28.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-13 | 第60期十段戦準決勝  | Shibano Toramaru | Sada Atsushi | Lose | W+0.5 | 6.5 | 3424.0 | 23.0 | 
 | 2022-01-06 | 第77期本因坊戦リーグ  | Shibano Toramaru | Hane Naoki | Win | B+R | 6.5 | 3401.0 | 67.0 | 
 | 2021-12-25 | 第1回テイケイ杯俊英戦Aリーグ | Abe Yoshiki | Shibano Toramaru | Win | W+R | 6.5 | 3334.0 | 9.0 | 
 | 2021-12-24 | 第1回テイケイ杯俊英戦Aリーグ  | Shibano Toramaru | Ichiriki Ryo | Win | B+R | 6.5 | 3325.0 | 6.0 | 

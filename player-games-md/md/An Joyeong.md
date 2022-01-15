@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-15 | 2021-2022フューチャーズリーグ | An Joyeong | Kim Sonjin | Lose | W+R | 6.5 | 3214.0 | 6.0 | 
 | 2022-01-09 | 2021-2022フューチャーズリーグ | An Joyeong | Kim Changhoon | Win | B+R | 6.5 | 3208.0 | 100.0 | 
 | 2021-12-29 | 2021-2022フューチャーズリーグ | An Joyeong | Kang Jihoon | Win | B+R | 6.5 | 3108.0 | 56.0 | 
 | 2021-12-18 | 2021-2022フューチャーズリーグ | An Joyeong | Hyun Yoobin | Lose | W+R | 6.5 | 3052.0 | -122.0 | 

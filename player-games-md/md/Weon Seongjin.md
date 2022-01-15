@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-15 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Choi Jeong | Weon Seongjin | Win | W+0.5 | 6.5 | 3546.0 | -15.0 | 
+| 2022-01-13 | 2021-2022韓国囲碁リーグ |  | Weon Seongjin | Lose | B+0.5 | 6.5 | 3561.0 | 38.0 | 
 | 2021-12-25 | 2021-2022韓国囲碁リーグ | Ahn Kukhyun | Weon Seongjin | Lose | B+0.5 | 6.5 | 3523.0 | 7.0 | 
 | 2021-12-19 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Kim Jiseok | Win | B+R | 6.5 | 3516.0 | -14.0 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Weon Seongjin | Xu Jiayang | Lose | W+R | 6.5 | 3530.0 | -29.0 | 
@@ -95,7 +97,7 @@
 | 2019-07-15 | 第21回農心杯韓国選抜戦 | Weon Seongjin | Yun Chanhee | Win | B+R | 6.5 | 3116.0 | -27.0 | 
 | 2019-07-11 | 第21回農心杯韓国選抜戦 | Weon Seongjin | Park Sangjin | Win | B+R | 6.5 | 3143.0 | 27.0 | 
 | 2019-06-26 | 第6回国手山脈韓国国内トーナメント予選 | Jin Siyoung | Weon Seongjin | Win | W+R | 6.5 | 3116.0 | -9.0 | 
-| 2019-06-23 | 2019年中国囲碁乙級リーグ |  | Weon Seongjin | Win | W+1¼ | 7.5 | 3125.0 | -12.0 | 
+| 2019-06-23 | 2019年中国囲碁乙級リーグ | Liu Zhaozhe | Weon Seongjin | Win | W+1¼ | 7.5 | 3125.0 | -12.0 | 
 | 2019-06-22 | 2019年中国囲碁乙級リーグ | An Dongxu | Weon Seongjin | Win | W+R | 7.5 | 3137.0 | 3.0 | 
 | 2019-06-21 | 2019年中国囲碁乙級リーグ | Weon Seongjin | Na Hyun | Win | B+R | 7.5 | 3134.0 | 19.0 | 
 | 2019-06-19 | 2019年中国囲碁乙級リーグ | Weon Seongjin |  | Win | B+R | 7.5 | 3115.0 | 3.0 | 

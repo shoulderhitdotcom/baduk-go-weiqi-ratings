@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-15 | 2021-2022フューチャーズリーグ | Lee Hyungjin | Wi Taewoong | Lose | W+R | 6.5 | 3014.0 | 16.0 | 
 | 2022-01-08 | 2021-2022フューチャーズリーグ | Lee Hyungjin | Gang Woohyeok | Lose | W+R | 6.5 | 2998.0 | 9.0 | 
 | 2022-01-04 | 2021-2022フューチャーズリーグ | Hyun Yoobin | Lee Hyungjin | Lose | B+R | 6.5 | 2989.0 | -141.0 | 
 | 2021-12-25 | 2021-2022フューチャーズリーグ | Choi Kyeongho | Lee Hyungjin | Lose | B+R | 6.5 | 3130.0 | 162.0 | 

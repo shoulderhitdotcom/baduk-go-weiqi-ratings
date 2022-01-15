@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-15 | 2021-2022フューチャーズリーグ | Ryu Minhyung |  | Win | B+R | 6.5 | 3495.0 | -37.0 | 
+| 2022-01-14 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Ryu Minhyung | Lose | B+R | 6.5 | 3532.0 | -8.0 | 
 | 2022-01-08 | 2021-2022フューチャーズリーグ | Ryu Minhyung |  | Win | B+R | 6.5 | 3540.0 | 12.0 | 
 | 2022-01-07 | 2021-2022フューチャーズリーグ | Park Jinyoung | Ryu Minhyung | Win | W+R | 6.5 | 3528.0 | 100.0 | 
 | 2021-12-25 | 2021-2022フューチャーズリーグ | Lee Hyeonjun | Ryu Minhyung | Win | W+R | 6.5 | 3428.0 | -48.0 | 

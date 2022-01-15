@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-15 | 2021-2022フューチャーズリーグ | An Joyeong | Kim Sonjin | Win | W+R | 6.5 | 3074.0 | -21.0 | 
 | 2022-01-08 | 2021-2022フューチャーズリーグ | Kim Miri | Kim Sonjin | Win | W+R | 6.5 | 3095.0 | -8.0 | 
 | 2022-01-04 | 2021-2022フューチャーズリーグ | Lee Hyunho | Kim Sonjin | Lose | B+R | 6.5 | 3103.0 | 65.0 | 
 | 2021-12-25 | 2021-2022フューチャーズリーグ | Kim Sonjin | Kim Changhoon | Lose | W+7.5 | 6.5 | 3038.0 | -1.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-15 | 2021-2022フューチャーズリーグ | Lee Wondo | Kim Miri | Lose | B+R | 6.5 | 2806.0 | -5.0 | 
 | 2022-01-08 | 2021-2022フューチャーズリーグ | Kim Miri | Kim Sonjin | Lose | W+R | 6.5 | 2811.0 | 85.0 | 
 | 2021-12-25 | 2021-2022フューチャーズリーグ | Kim Miri | Lee Hyunho | Lose | W+R | 6.5 | 2726.0 | 5.0 | 
 | 2021-12-22 | 2021-2022フューチャーズリーグ | Kim Miri | Choi Kyeongho | Lose | W+R | 6.5 | 2721.0 | -13.0 | 

@@ -43,10 +43,6 @@ end
 @assert !("羋昱廷" in tbl.black)
 @assert !("羋昱廷" in tbl.white)
 
-@chain tbl begin
-    @subset :black=="丁浩"
-end
-
 ### the below two lines can be skipped under a target flow
 JDF.save("kifu-depot-games-for-ranking.jdf/", tbl)
 tbl = JDF.load("kifu-depot-games-for-ranking.jdf/") |> DataFrame
@@ -65,6 +61,8 @@ function estimate_ratings_and_save_records(tbl)
 
     pings, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date
 end
+
+
 
 # are there missing dates in the database
 dates_in_files = Date.(first.(split.(readdir("records"), " ")))
@@ -93,6 +91,13 @@ end
 @time pings, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date =
     estimate_ratings_and_save_records(tbl);
 
+# abc = estimate_ratings_and_save_records(tbl)
+# using GLM
+# df
+# names(df)
+# f = Term(:y) ~ sum(Term(Symbol("x$i")) for i in 1:550)
+# glm(f, df, Binomial())
+
 # @target should allow the return of a path where things are stored
 # out_path = @target pings_for_md1 = @chain @watch(pings) begin
 
@@ -108,9 +113,9 @@ end
 pings_for_alignment = @chain pings begin
     @transform :eng_name = get(NAMESDB, :name, "")
     @subset :eng_name != ""
-    innerjoin(goratings_latest, on=:eng_name=>:Name)
-    @transform :diff = :elo - :estimate * 400/log(10)
-    sort!(:elo, rev=true)
+    innerjoin(goratings_latest, on = :eng_name => :Name)
+    @transform :diff = :elo - :estimate * 400 / log(10)
+    sort!(:elo, rev = true)
     select(:eng_name, :elo, :diff)
     _[1, :]
 end

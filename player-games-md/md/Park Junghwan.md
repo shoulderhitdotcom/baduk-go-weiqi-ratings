@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Park Junghwan | Lose | B+¾ | 7.5 | 3716.0 | -7.0 | 
 | 2022-01-09 | 2021-2022韓国囲碁リーグ | Park Junghwan | Ahn Kukhyun | Win | B+R | 6.5 | 3723.0 | 13.0 | 
 | 2021-12-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Byun Sangil | Park Junghwan | Win | W+R | 6.5 | 3710.0 | 61.0 | 
 | 2021-12-24 | 2021-2022韓国囲碁リーグ | Park Junghwan | Park Hamin | Lose | W+R | 6.5 | 3649.0 | -6.0 | 

@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Shin Jinseo | Zhao Chenyu | Win | B+R | 7.5 | 3817.0 | -1.0 | 
+| 2022-01-13 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Park Jinsol | Win | B+R | 6.5 | 3818.0 | 2.0 | 
 | 2022-01-11 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Shin Jinseo | Park Yeonghun | Win | B+R | 6.5 | 3816.0 | -11.0 | 
 | 2022-01-07 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Donghoon | Shin Jinseo | Lose | B+R | 6.5 | 3827.0 | 57.0 | 
 | 2021-12-25 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Lee Taehyun | Win | B+R | 6.5 | 3770.0 | 8.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Wu Guangya | Zhou Hexi | Win | B+1¾ | 7.5 | 3361.0 | 23.0 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Chen Hao | Wu Guangya | Win | W+R | 7.5 | 3338.0 | 16.0 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Meng Tailing | Wu Guangya | Lose | B+R | 7.5 | 3322.0 | -17.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Wu Guangya | Lose | B+R | 7.5 | 3339.0 | 1.0 | 

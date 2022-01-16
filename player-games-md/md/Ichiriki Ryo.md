@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Ichiriki Ryo | Tuo Jiaxi | Win | B+R | 7.5 | 3531.0 | 15.0 | 
 | 2022-01-14 | 第46期棋聖戦挑戦手合七番勝負第1局  | Iyama Yuta | Ichiriki Ryo | Win | W+R | 6.5 | 3516.0 | 110.0 | 
 | 2021-12-25 | 第1回テイケイ杯俊英戦Aリーグ  | Ueno Asami | Ichiriki Ryo | Win | W+R | 6.5 | 3406.0 | 10.0 | 
 | 2021-12-24 | 第1回テイケイ杯俊英戦Aリーグ  | Shibano Toramaru | Ichiriki Ryo | Lose | B+R | 6.5 | 3396.0 | -16.0 | 

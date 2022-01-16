@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-15 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Ahn Kukhyun | Lose | B+R | 6.5 | 3300.0 | 7.0 | 
 | 2022-01-09 | 2021-2022韓国囲碁リーグ | Park Junghwan | Ahn Kukhyun | Lose | B+R | 6.5 | 3293.0 | 151.0 | 
 | 2021-12-25 | 2021-2022韓国囲碁リーグ | Ahn Kukhyun | Weon Seongjin | Win | B+0.5 | 6.5 | 3142.0 | -15.0 | 
 | 2021-12-08 | 第27回GSカルテックス杯プロ棋戦予選 | Park Hamin | Ahn Kukhyun | Lose | B+R | 6.5 | 3157.0 | 30.0 | 

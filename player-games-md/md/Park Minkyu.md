@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-15 | 2021-2022韓国囲碁リーグ | Lee Changho | Park Minkyu | Win | W+R | 6.5 | 3379.0 | 29.0 | 
+| 2022-01-06 | 2021-2022韓国囲碁リーグ | Park Minkyu | Song Jihoon | Win | B+R | 6.5 | 3350.0 | -53.0 | 
 | 2021-12-26 | 2021-2022韓国囲碁リーグ | Park Minkyu | Seol Hyunjun | Lose | W+R | 6.5 | 3403.0 | -27.0 | 
 | 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Minkyu | Park Yeonghun | Lose | W+R | 6.5 | 3430.0 | 1.0 | 
 | 2021-11-29 | 第3回大統領杯全国囲碁大会2回戦 | Kim Jiseok | Park Minkyu | Lose | B+R | 6.5 | 3429.0 | 0.0 | 

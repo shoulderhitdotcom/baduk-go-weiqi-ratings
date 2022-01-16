@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-15 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Ahn Kukhyun | Win | B+R | 6.5 | 3372.0 | 20.0 | 
+| 2022-01-06 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Kang Dongyun | Win | B+R | 6.5 | 3352.0 | -78.0 | 
 | 2021-12-26 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Moon Minjong | Lose | W+R | 6.5 | 3430.0 | 83.0 | 
 | 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Han Sanghoon | Lose | B+R | 6.5 | 3347.0 | -35.0 | 
 | 2021-11-21 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Choi Jeong | Win | B+R | 6.5 | 3382.0 | 92.0 | 

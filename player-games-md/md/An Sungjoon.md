@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-15 | 2021-2022韓国囲碁リーグ | An Sungjoon | Shin Minjun | Lose | W+R | 6.5 | 3429.0 | 30.0 | 
 | 2022-01-09 | 2021-2022韓国囲碁リーグ | Hyun Yoobin | An Sungjoon | Win | W+R | 6.5 | 3399.0 | 76.0 | 
 | 2021-12-25 | 2021-2022韓国囲碁リーグ | An Sungjoon | Cho Hanseung | Win | B+0.5 | 6.5 | 3323.0 | 12.0 | 
 | 2021-12-12 | 第7回国手山脈韓国国内トーナメント決勝 | An Sungjoon | Park Yeonghun | Lose | W+R | 6.5 | 3311.0 | 16.0 | 

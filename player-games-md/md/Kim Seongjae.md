@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-15 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Yun Chanhee | Lose | W+R | 6.5 | 3335.0 | 35.0 | 
+| 2022-01-06 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Kim Seongjae | Win | W+R | 6.5 | 3300.0 | 22.0 | 
 | 2021-12-26 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Park Sangjin | Lose | W+1.5 | 6.5 | 3278.0 | 16.0 | 
 | 2021-12-05 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Kim Jinhyu | Lose | W+3.5 | 6.5 | 3262.0 | -98.0 | 
 | 2021-11-21 | 2021-2022韓国囲碁リーグ | Park Hamin | Kim Seongjae | Lose | B+R | 6.5 | 3360.0 | 2.0 | 

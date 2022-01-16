@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-15 | 2021-2022韓国囲碁リーグ | An Sungjoon | Shin Minjun | Win | W+R | 6.5 | 3512.0 | 3.0 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Mi Yuting | Shin Minjun | Lose | B+R | 7.5 | 3509.0 | -1.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Shin Minjun | Chen Xian | Win | B+R | 7.5 | 3510.0 | -3.0 | 
 | 2022-01-06 | 2021-2022韓国囲碁リーグ | Shin Minjun | Shin Jaeweon | Lose | W+R | 6.5 | 3513.0 | 1.0 | 

@@ -7,9 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-15 | 2021-2022韓国囲碁リーグ | Kim Sedong | Lee Taehyun | Lose | W+R | 6.5 | 3382.0 | 10.0 | 
+| 2022-01-06 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Kim Sedong | Win | W+R | 6.5 | 3372.0 | -18.0 | 
 | 2021-12-26 | 2021-2022韓国囲碁リーグ | Lee Wonyoung | Kim Sedong | Lose | B+R | 6.5 | 3390.0 | 27.0 | 
 | 2021-12-05 | 2021-2022韓国囲碁リーグ | Na Hyun | Kim Sedong | Win | W+R | 6.5 | 3363.0 | -50.0 | 
-| 2021-11-21 | 2021-2022韓国囲碁リーグ | Kim Sedong | Chao Xiangzhao | Win | B+R | 6.5 | 3413.0 | 20.0 | 
+| 2021-11-21 | 2021-2022韓国囲碁リーグ | Kim Sedong |  | Win | B+R | 6.5 | 3413.0 | 20.0 | 
 | 2021-11-16 | 第7回国手山脈韓国国内トーナメント予選 | Kim Junghyun | Kim Sedong | Lose | B+R | 6.5 | 3393.0 | -132.0 | 
 | 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Sedong | Baek Hyeonwoo | Lose | W+R | 6.5 | 3525.0 | 102.0 | 
 | 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Sedong | Park Jinyoung | Win | B+R | 6.5 | 3423.0 | 32.0 | 

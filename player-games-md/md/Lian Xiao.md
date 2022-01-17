@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Lian Xiao | Chen Xian | Win | B+R | 7.5 | 3576.0 | 4.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Lian Xiao | Chen Xian | Win | B+R | 7.5 | 3572.0 | 10.0 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Lian Xiao | Rong Yi | Lose | W+¼ | 7.5 | 3562.0 | 48.0 | 
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Li Qincheng | Lian Xiao | Win | W+R | 7.5 | 3514.0 | 9.0 | 

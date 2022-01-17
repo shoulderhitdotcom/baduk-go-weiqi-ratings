@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Wang Zejin | Guo Xinyi | Win | B+R | 7.5 | 3381.0 | 17.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Wang Zejin | Han Yizhou | Win | B+R | 7.5 | 3364.0 | 28.0 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Zhang Tao | Wang Zejin | Lose | B+R | 7.5 | 3336.0 | -6.0 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Wang Zejin | Zhang Tao | Win | B+1¼ | 7.5 | 3342.0 | -57.0 | 

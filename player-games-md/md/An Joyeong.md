@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Lee Yeongkyu | An Joyeong | Lose | B+4.5 | 6.5 | 3139.0 | -75.0 | 
 | 2022-01-15 | 2021-2022フューチャーズリーグ | An Joyeong | Kim Sonjin | Lose | W+R | 6.5 | 3214.0 | 6.0 | 
 | 2022-01-09 | 2021-2022フューチャーズリーグ | An Joyeong | Kim Changhoon | Win | B+R | 6.5 | 3208.0 | 100.0 | 
 | 2021-12-29 | 2021-2022フューチャーズリーグ | An Joyeong | Kang Jihoon | Win | B+R | 6.5 | 3108.0 | 56.0 | 

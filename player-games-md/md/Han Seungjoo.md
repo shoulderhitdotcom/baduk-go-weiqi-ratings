@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 第5回クラウン・ヘテ杯準決勝 | Park Sangjin | Han Seungjoo | Win | W+R | 6.5 | 3443.0 | 3.0 | 
+| 2022-01-13 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Han Seungjoo | Lose | B+R | 6.5 | 3440.0 | 22.0 | 
 | 2022-01-09 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Han Seungjoo | Kang Seungmin | Win | B+R | 6.5 | 3418.0 | 7.0 | 
 | 2022-01-07 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Han Seungjoo | Lose | B+12.5 | 6.5 | 3411.0 | 0.0 | 
 | 2022-01-05 | 第5回クラウン・ヘテ杯3回戦 | Han Seungjoo | Shin Minjun | Win | B+R | 6.5 | 3411.0 | 122.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Hu Yuhan | Kim Jiseok | Win | W+¼ | 7.5 | 3566.0 | 2.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Wang Chunhui | Kim Jiseok | Win | W+1¼ | 7.5 | 3564.0 | 7.0 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Kim Jiseok | Shen Peiran | Lose | W+R | 7.5 | 3557.0 | 0.0 | 
 | 2022-01-14 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Ryu Minhyung | Win | B+R | 6.5 | 3557.0 | -9.0 | 

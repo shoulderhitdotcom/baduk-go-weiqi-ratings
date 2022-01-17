@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 第14回海峰杯プロ囲碁戦4回戦  | Xiao Zhenghao | Xu Haohong | Lose | W+1.5 | 6.5 | 3218.0 | 9.0 | 
 | 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Lu Yiquan | Xiao Zhenghao | Win | W+R | 6.5 | 3209.0 | 12.0 | 
 | 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 | Xiao Zhenghao |  | Win | B+R | 6.5 | 3197.0 | 5.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Liu Jianchang | Xiao Zhenghao | Win | W+R | 6.5 | 3192.0 | 81.0 | 

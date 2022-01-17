@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 第14回海峰杯プロ囲碁戦4回戦 | Lin Lixiang | Wang Yuanjun | Win | W+R | 6.5 | 3375.0 | 11.0 | 
 | 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Wang Yuanjun | Li Wei | Win | B+R | 6.5 | 3364.0 | 11.0 | 
 | 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 |  | Wang Yuanjun | Win | W+R | 6.5 | 3353.0 | 4.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Wang Yuanjun |  | Win | B+R | 6.5 | 3349.0 | 4.0 | 

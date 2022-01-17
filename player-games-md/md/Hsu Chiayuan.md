@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 第77期本因坊戦リーグ | Hsu Chiayuan | Tsuruyama Atsushi | Win | B+R | 6.5 | 3488.0 | 21.0 | 
 | 2022-01-13 | 第48期天元戦予選 | Yoda Norimoto | Hsu Chiayuan | Win | W+11.5 | 6.5 | 3467.0 | 9.0 | 
 | 2022-01-10 | 第47期名人戦リーグ  | Yamashita Keigo | Hsu Chiayuan | Lose | B+R | 6.5 | 3458.0 | 63.0 | 
 | 2021-12-25 | 第1回テイケイ杯俊英戦Bリーグ | Tsuruta Kazushi | Hsu Chiayuan | Win | W+1.5 | 6.5 | 3395.0 | 9.0 | 

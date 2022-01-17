@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Zhou Hexi | Win | B+¼ | 7.5 | 3475.0 | 11.0 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Chen Zijian | Lose | W+R | 7.5 | 3464.0 | -3.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Li Xuanhao | Lose | W+R | 7.5 | 3467.0 | 13.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Chen Yunong | Win | W+R | 7.5 | 3454.0 | 29.0 | 

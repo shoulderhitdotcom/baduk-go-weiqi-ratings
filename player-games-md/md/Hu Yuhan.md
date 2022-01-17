@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Hu Yuhan | Kim Jiseok | Lose | W+¼ | 7.5 | 3427.0 | -14.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Ding Shixiong | Hu Yuhan | Win | W+R | 7.5 | 3441.0 | 60.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Hu Yuhan | Win | W+R | 7.5 | 3381.0 | 47.0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Huang Yunsong | Win | B+R | 7.5 | 3334.0 | 76.0 | 

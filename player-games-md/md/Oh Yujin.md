@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 2021女子最高棋士決定戦（韓国）決勝五番勝負第1局 | Oh Yujin | Choi Jeong | Lose | W+R | 6.5 | 3138.0 | -8.0 | 
 | 2022-01-08 | 2021女子最高棋士決定戦（韓国）リーグ | Cho Seungah | Oh Yujin | Win | W+R | 6.5 | 3146.0 | 15.0 | 
 | 2022-01-04 | 第5回クラウン・ヘテ杯2回戦 | Seol Hyunjun | Oh Yujin | Lose | B+R | 6.5 | 3131.0 | -7.0 | 
 | 2021-12-28 | 第5回クラウン・ヘテ杯1回戦 | Kim Jimyeong | Oh Yujin | Win | W+0.5 | 6.5 | 3138.0 | 68.0 | 

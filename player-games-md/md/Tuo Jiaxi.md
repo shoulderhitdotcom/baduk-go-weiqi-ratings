@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Tuo Jiaxi | Xu Yidi | Win | B+R | 7.5 | 3500.0 | 0.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Ichiriki Ryo | Tuo Jiaxi | Lose | B+R | 7.5 | 3500.0 | -14.0 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Tuo Jiaxi | Win | W+R | 7.5 | 3514.0 | 16.0 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Tuo Jiaxi | Shen Peiran | Lose | W+R | 7.5 | 3498.0 | -19.0 | 

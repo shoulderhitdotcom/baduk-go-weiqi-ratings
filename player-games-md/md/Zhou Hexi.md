@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Zhou Hexi | Lose | B+¼ | 7.5 | 3275.0 | -21.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Wu Guangya | Zhou Hexi | Lose | B+1¾ | 7.5 | 3296.0 | -12.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Li Xuanhao | Zhou Hexi | Lose | B+R | 7.5 | 3308.0 | -16.0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Mi Yuting | Zhou Hexi | Lose | B+R | 7.5 | 3324.0 | 2.0 | 

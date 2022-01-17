@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 第14回海峰杯プロ囲碁戦4回戦 | Lin Xinwei | Jian Jingting | Win | B+0.5 | 6.5 | 2965.0 | 36.0 | 
 | 2022-01-14 | 第21期天元戦（台湾）予選 | Lin Xinwei | Chen Shiyuan | Lose | W+R | 6.5 | 2929.0 | 25.0 | 
 | 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Chen Xi | Lin Xinwei | Win | W+R | 6.5 | 2904.0 | 19.0 | 
 | 2022-01-11 | 第21期天元戦（台湾）予選 |  | Lin Xinwei | Win | W+1.5 | 6.5 | 2885.0 | -9.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yaoye | Xie Erhao | Lose | W+1¼ | 7.5 | 3530.0 | -20.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Wang Shiyi | Chen Yaoye | Win | W+R | 7.5 | 3550.0 | 19.0 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Li Xuanhao | Chen Yaoye | Lose | B+¾ | 7.5 | 3531.0 | 37.0 | 
 | 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Ke Jie | Chen Yaoye | Win | W+R | 7.5 | 3494.0 | -33.0 | 

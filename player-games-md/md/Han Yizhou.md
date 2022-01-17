@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Han Yizhou | Li Chengsen | Win | B+R | 7.5 | 3468.0 | 12.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Wang Zejin | Han Yizhou | Lose | B+R | 7.5 | 3456.0 | 31.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Kang Dongyun | Han Yizhou | Lose | B+R | 7.5 | 3425.0 | -18.0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Han Yizhou | Yang Dingxin | Lose | W+R | 7.5 | 3443.0 | 9.0 | 

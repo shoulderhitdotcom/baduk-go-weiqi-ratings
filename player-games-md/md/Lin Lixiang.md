@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 第14回海峰杯プロ囲碁戦4回戦 | Lin Lixiang | Wang Yuanjun | Lose | W+R | 6.5 | 3199.0 | 7.0 | 
 | 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Lin Lixiang | Chen Shiyuan | Win | B+R | 6.5 | 3192.0 | 12.0 | 
 | 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 |  | Lin Lixiang | Win | W+R | 6.5 | 3180.0 | 6.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 |  | Lin Lixiang | Win | W+R | 6.5 | 3174.0 | 92.0 | 

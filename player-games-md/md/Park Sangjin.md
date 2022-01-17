@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 第5回クラウン・ヘテ杯準決勝 | Park Sangjin | Han Seungjoo | Lose | W+R | 6.5 | 3369.0 | -4.0 | 
+| 2022-01-14 | 2021-2022韓国囲碁リーグ | Park Sangjin | Lee Changseok | Win | B+R | 6.5 | 3373.0 | 5.0 | 
 | 2022-01-13 | 第5回クラウン・ヘテ杯3回戦 | Song Gyusang | Park Sangjin | Win | W+R | 6.5 | 3368.0 | 24.0 | 
 | 2022-01-08 | 2021-2022韓国囲碁リーグ | Park Sangjin | Song Gyusang | Win | B+R | 6.5 | 3344.0 | 45.0 | 
 | 2021-12-27 | 第5回クラウン・ヘテ杯1回戦 |  | Park Sangjin | Win | W+R | 6.5 | 3299.0 | 10.0 | 

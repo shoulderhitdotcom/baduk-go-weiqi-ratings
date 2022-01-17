@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Tang Weixing | Zheng Xu | Lose | B+R | 7.5 | 3233.0 | -24.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Zheng Xu | Tang Weixing | Win | B+R | 7.5 | 3257.0 | 150.0 | 
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Fan Tingyu | Zheng Xu | Lose | B+1¾ | 7.5 | 3107.0 | 81.0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Zheng Xu | He Yuhan | Lose | W+R | 7.5 | 3026.0 | -19.0 | 

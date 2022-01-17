@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Han Yizhou | Li Chengsen | Lose | B+R | 7.5 | 3320.0 | -26.0 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Li Chengsen | Lose | B+R | 7.5 | 3346.0 | -38.0 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Li Chengsen | Tong Mengcheng | Lose | W+R | 7.5 | 3384.0 | 39.0 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Li Chengsen | Wang Xinghao | Lose | W+R | 7.5 | 3345.0 | -26.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Tang Weixing | Zheng Xu | Win | B+R | 7.5 | 3498.0 | 3.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Zheng Xu | Tang Weixing | Lose | B+R | 7.5 | 3495.0 | -17.0 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Tang Weixing | Tan Xiao | Lose | W+R | 7.5 | 3512.0 | -5.0 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Tang Weixing | Lose | B+R | 7.5 | 3517.0 | 2.0 | 

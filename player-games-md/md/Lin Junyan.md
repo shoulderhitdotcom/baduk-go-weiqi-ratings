@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-17 | 第14回海峰杯プロ囲碁戦4回戦 | Lin Junyan | Lai Junfu | Win | B+R | 6.5 | 3343.0 | 17.0 | 
 | 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Yang Bowei | Lin Junyan | Win | W+R | 6.5 | 3326.0 | 12.0 | 
 | 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 | Lin Junyan | Huang Shiyuan | Win | B+R | 6.5 | 3314.0 | 4.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦  | Lin Junyan |  | Win | B+R | 6.5 | 3310.0 | 89.0 | 

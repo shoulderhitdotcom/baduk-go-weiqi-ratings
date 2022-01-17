@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-16 | 2021-2022韓国囲碁リーグ | Kim Myounghoon | Kang Dongyun | Lose | W+R | 6.5 | 3424.0 | 2.0 | 
 | 2022-01-08 | 2021-2022韓国囲碁リーグ | Moon Minjong | Kim Myounghoon | Win | W+R | 6.5 | 3422.0 | 108.0 | 
 | 2021-12-23 | 2021-2022韓国囲碁リーグ | Kim Myounghoon | Byun Sangil | Lose | W+R | 6.5 | 3314.0 | -33.0 | 
 | 2021-12-19 | 2021-2022韓国囲碁リーグ |  | Kim Myounghoon | Lose | B+R | 6.5 | 3347.0 | -8.0 | 

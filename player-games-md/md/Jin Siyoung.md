@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-16 | 2021-2022フューチャーズリーグ | Kim Sangcheon | Jin Siyoung | Win | W+R | 6.5 | 3046.0 | -6.0 | 
 | 2022-01-12 | 2021-2022フューチャーズリーグ | Park Jinyoung | Jin Siyoung | Win | W+R | 6.5 | 3052.0 | 85.0 | 
 | 2021-12-26 | 2021-2022フューチャーズリーグ | Jin Siyoung | Kim Daeyoung | Win | B+R | 6.5 | 2967.0 | -37.0 | 
 | 2021-12-05 | 2021-2022フューチャーズリーグ | Kim Changhoon | Jin Siyoung | Lose | B+R | 6.5 | 3004.0 | -9.0 | 

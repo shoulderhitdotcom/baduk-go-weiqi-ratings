@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-16 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Choi Kyeongho | Lose | B+R | 6.5 | 2980.0 | 18.0 | 
 | 2022-01-09 | 2021-2022フューチャーズリーグ |  | Choi Kyeongho | Win | W+0.5 | 6.5 | 2962.0 | 127.0 | 
 | 2021-12-25 | 2021-2022フューチャーズリーグ | Choi Kyeongho | Lee Hyungjin | Win | B+R | 6.5 | 2835.0 | 10.0 | 
 | 2021-12-22 | 2021-2022フューチャーズリーグ | Kim Miri | Choi Kyeongho | Win | W+R | 6.5 | 2825.0 | 56.0 | 

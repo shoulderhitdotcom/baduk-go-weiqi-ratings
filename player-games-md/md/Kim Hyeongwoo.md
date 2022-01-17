@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-16 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Choi Kyeongho | Win | B+R | 6.5 | 3268.0 | -19.0 | 
 | 2022-01-04 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Kim Jiseok | Kim Hyeongwoo | Lose | B+R | 6.5 | 3287.0 | 8.0 | 
 | 2021-12-18 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Park Geunho | Lose | W+R | 6.5 | 3279.0 | 3.0 | 
 | 2021-12-03 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Lee Wonyoung | Win | B+1.5 | 6.5 | 3276.0 | -26.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-16 | 2021-2022韓国囲碁リーグ | Song Jihoon | Hong Seongji | Win | W+R | 6.5 | 3355.0 | 23.0 | 
 | 2022-01-10 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Hong Kipyo | Hong Seongji | Win | W+2.5 | 6.5 | 3332.0 | 6.0 | 
 | 2022-01-08 | 2021-2022韓国囲碁リーグ | Hong Seongji | Kim Jiseok | Lose | W+1.5 | 6.5 | 3326.0 | 113.0 | 
 | 2021-12-23 | 2021-2022韓国囲碁リーグ | Hong Seongji | Lee Changseok | Lose | W+R | 6.5 | 3213.0 | -41.0 | 

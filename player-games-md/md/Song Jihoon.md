@@ -7,6 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-16 | 2021-2022韓国囲碁リーグ | Song Jihoon | Hong Seongji | Lose | W+R | 6.5 | 3219.0 | 18.0 | 
+| 2022-01-06 | 2021-2022韓国囲碁リーグ | Park Minkyu | Song Jihoon | Lose | B+R | 6.5 | 3201.0 | 134.0 | 
 | 2021-12-28 | 第27回GSカルテックス杯プロ棋戦予選 | Kim Cheayoung | Song Jihoon | Win | W+R | 6.5 | 3067.0 | 59.0 | 
 | 2021-12-18 | 2021-2022韓国囲碁リーグ | Song Jihoon | Choi Cheolhan | Lose | W+R | 6.5 | 3008.0 | 68.0 | 
 | 2021-12-03 | 2021-2022韓国囲碁リーグ | Park Sangjin | Song Jihoon | Win | W+2.5 | 6.5 | 2940.0 | -12.0 | 
@@ -136,7 +138,7 @@
 | 2017-06-03 | 2017年韓国囲碁リーグ | Kang Dongyun | Song Jihoon | Lose | B+R | 6.5 | 3001.0 | -71.0 | 
 | 2017-05-20 | 2017年韓国囲碁リーグ | Song Jihoon | Han Taehee | Lose | W+R | 6.5 | 3072.0 | 4.0 | 
 | 2017-04-06 | 第22期LG杯世界予選3回戦 | Mi Yuting | Song Jihoon | Lose | B+R | 6.5 | 3068.0 | 157.0 | 
-| 2017-03-04 | 2017年利民杯世界囲碁星鋭最強戦第1ステージ決勝 |  | Song Jihoon | Lose | B+R | 7.5 | 2911.0 | -44.0 | 
+| 2017-03-04 | 2017年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Ma Yichao | Song Jihoon | Lose | B+R | 7.5 | 2911.0 | -44.0 | 
 | 2017-03-02 | 2017年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Zhao Chenyu | Song Jihoon | Win | W+0.5 | 7.5 | 2955.0 | 75.0 | 
 | 2016-10-29 | 2016年フューチャーズリーグ | Seo Joonghui | Song Jihoon | Lose | B+R | 6.5 | 2880.0 | 29.0 | 
 | 2016-10-22 | 2016年韓国囲碁リーグ | Hong Seongji | Song Jihoon | Win | W+4.5 | 6.5 | 2851.0 | -3.0 | 

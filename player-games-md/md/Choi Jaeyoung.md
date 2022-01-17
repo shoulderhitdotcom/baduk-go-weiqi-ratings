@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-16 | 2021-2022韓国囲碁リーグ | Choi Jaeyoung |  | Lose | W+R | 6.5 | 3435.0 | -17.0 | 
 | 2022-01-08 | 2021-2022韓国囲碁リーグ | Choi Jaeyoung | Lee Wonyoung | Win | B+2.5 | 6.5 | 3452.0 | 35.0 | 
 | 2021-12-23 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Choi Jaeyoung | Win | W+R | 6.5 | 3417.0 | -13.0 | 
 | 2021-12-20 | 第5回クラウン・ヘテ杯1回戦 | Choi Jaeyoung |  | Win | B+R | 6.5 | 3430.0 | 18.0 | 

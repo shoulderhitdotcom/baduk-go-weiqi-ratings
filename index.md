@@ -1,6 +1,6 @@
 ## Welcome to Baduk Go Weiqi Ratings
 
-The ratings are based on 5046 games from 2021-01-18 to 2022-01-17.
+The ratings are based on 5047 games from 2021-01-18 to 2022-01-17.
 
 Note that players with fewer than 13 games are not in the list
 
@@ -19,7 +19,7 @@ Note that players with fewer than 13 games are not in the list
 | 9 | [Li Qincheng](./player-games-md/md/Li Qincheng.md) | 3626 | ±183 | 39 | 李欽誠 | 
 | 10 | [Liao Yuanhe](./player-games-md/md/Liao Yuanhe.md) | 3626 | ±183 | 43 | 廖元赫 | 
 | 11 | [Huang Yunsong](./player-games-md/md/Huang Yunsong.md) | 3619 | ±180 | 58 | 黄雲嵩 | 
-| 12 | [Iyama Yuta](./player-games-md/md/Iyama Yuta.md) | 3599 | ±186 | 47 | 井山裕太 | 
+| 12 | [Iyama Yuta](./player-games-md/md/Iyama Yuta.md) | 3600 | ±186 | 47 | 井山裕太 | 
 | 13 | [Dang Yifei](./player-games-md/md/Dang Yifei.md) | 3591 | ±183 | 43 | 党毅飛 | 
 | 14 | [Lee Donghoon](./player-games-md/md/Lee Donghoon.md) | 3585 | ±180 | 57 | 李東勲 | 
 | 15 | [Zhao Chenyu](./player-games-md/md/Zhao Chenyu.md) | 3585 | ±182 | 46 | 趙晨宇 | 
@@ -76,8 +76,8 @@ Note that players with fewer than 13 games are not in the list
 | 66 | [Tao Xinran](./player-games-md/md/Tao Xinran.md) | 3433 | ±185 | 37 | 陶欣然 | 
 | 67 | [Kang Dongyun](./player-games-md/md/Kang Dongyun.md) | 3432 | ±179 | 61 | 姜東潤 | 
 | 68 | [Zhou Ruiyang](./player-games-md/md/Zhou Ruiyang.md) | 3428 | ±190 | 24 | 周睿羊 | 
-| 69 | [Hu Yuhan](./player-games-md/md/Hu Yuhan.md) | 3427 | ±197 | 19 | 胡鈺函 | 
-| 70 | [Xu Haohong](./player-games-md/md/Xu Haohong.md) | 3426 | ±183 | 85 | 許皓鋐 | 
+| 69 | [Xu Haohong](./player-games-md/md/Xu Haohong.md) | 3427 | ±183 | 85 | 許皓鋐 | 
+| 70 | [Hu Yuhan](./player-games-md/md/Hu Yuhan.md) | 3427 | ±197 | 19 | 胡鈺函 | 
 | 71 | [An Sungjoon](./player-games-md/md/An Sungjoon.md) | 3423 | ±184 | 35 | 安成浚 | 
 | 72 | [Huang Mingyu](./player-games-md/md/Huang Mingyu.md) | 3414 | ±194 | 20 | 黄明宇 | 
 | 73 | [Park Geunho](./player-games-md/md/Park Geunho.md) | 3413 | ±191 | 22 | 朴鍵昊 | 
@@ -99,7 +99,7 @@ Note that players with fewer than 13 games are not in the list
 | 89 | [He Yuhan](./player-games-md/md/He Yuhan.md) | 3348 | ±199 | 16 | 何語涵 | 
 | 90 | [Lin Junyan](./player-games-md/md/Lin Junyan.md) | 3343 | ±187 | 65 | 林君諺 | 
 | 91 | [Chen Qirui](./player-games-md/md/Chen Qirui.md) | 3343 | ±187 | 71 | 陳祈睿 | 
-| 92 | [Kim Sedong](./player-games-md/md/Kim Sedong.md) | 3337 | ±189 | 25 | 金世東 | 
+| 92 | [Kim Sedong](./player-games-md/md/Kim Sedong.md) | 3336 | ±189 | 25 | 金世東 | 
 | 93 | [Park Jinsol](./player-games-md/md/Park Jinsol.md) | 3335 | ±190 | 24 | 朴進率 | 
 | 94 | [Choi Jeong](./player-games-md/md/Choi Jeong.md) | 3328 | ±175 | 99 | 崔精 | 
 | 95 | [Shen Peiran](./player-games-md/md/Shen Peiran.md) | 3324 | ±206 | 14 | 沈沛然 | 
@@ -110,8 +110,8 @@ Note that players with fewer than 13 games are not in the list
 | 100 | [Kim Changhoon](./player-games-md/md/Kim Changhoon.md) | 3307 | ±211 | 13 | 金昌勲 | 
 | 101 | [Baek Hyeonwoo](./player-games-md/md/Baek Hyeonwoo.md) | 3304 | ±194 | 20 | 白現宇 | 
 | 102 | [Kim Seongjae](./player-games-md/md/Kim Seongjae.md) | 3304 | ±201 | 14 | 金昇宰 | 
-| 103 | [Fu Jianheng](./player-games-md/md/Fu Jianheng.md) | 3299 | ±203 | 14 | 傅健恒 | 
-| 104 | [Motoki Katsuya](./player-games-md/md/Motoki Katsuya.md) | 3298 | ±195 | 22 | 本木克弥 | 
+| 103 | [Motoki Katsuya](./player-games-md/md/Motoki Katsuya.md) | 3299 | ±195 | 22 | 本木克弥 | 
+| 104 | [Fu Jianheng](./player-games-md/md/Fu Jianheng.md) | 3299 | ±203 | 14 | 傅健恒 | 
 | 105 | [Ding Shixiong](./player-games-md/md/Ding Shixiong.md) | 3291 | ±206 | 15 | 丁世雄 | 
 | 106 | [Moon Minjong](./player-games-md/md/Moon Minjong.md) | 3285 | ±183 | 41 | 文敏鍾 | 
 | 107 | [Kim Junghyun](./player-games-md/md/Kim Junghyun.md) | 3285 | ±190 | 22 | 金庭賢 | 
@@ -119,14 +119,14 @@ Note that players with fewer than 13 games are not in the list
 | 109 | [Kim Jinhyu](./player-games-md/md/Kim Jinhyu.md) | 3284 | ±195 | 20 | 金眞輝 | 
 | 110 | [Guo Xinyi](./player-games-md/md/Guo Xinyi.md) | 3283 | ±203 | 16 | 郭信駅 | 
 | 111 | [Lai Junfu](./player-games-md/md/Lai Junfu.md) | 3279 | ±187 | 67 | 賴均輔 | 
-| 112 | [Lee Wonyoung](./player-games-md/md/Lee Wonyoung.md) | 3277 | ±198 | 17 | 李元栄 | 
-| 113 | [Yuki Satoshi](./player-games-md/md/Yuki Satoshi.md) | 3277 | ±204 | 24 | 結城聡 | 
+| 112 | [Yuki Satoshi](./player-games-md/md/Yuki Satoshi.md) | 3278 | ±204 | 24 | 結城聡 | 
+| 113 | [Lee Wonyoung](./player-games-md/md/Lee Wonyoung.md) | 3277 | ±198 | 17 | 李元栄 | 
 | 114 | [Zhou Hexi](./player-games-md/md/Zhou Hexi.md) | 3275 | ±199 | 19 | 周賀璽 | 
 | 115 | [Li Xiangyu](./player-games-md/md/Li Xiangyu.md) | 3275 | ±204 | 15 | 李翔宇 | 
 | 116 | [Kang Seungmin](./player-games-md/md/Kang Seungmin.md) | 3273 | ±187 | 33 | 姜昇旼 | 
 | 117 | [Murakawa Daisuke](./player-games-md/md/Murakawa Daisuke.md) | 3269 | ±200 | 24 | 村川大介 | 
 | 118 | [Ahn Kukhyun](./player-games-md/md/Ahn Kukhyun.md) | 3268 | ±202 | 14 | 安国鉉 | 
-| 119 | [Kim Hyeongwoo](./player-games-md/md/Kim Hyeongwoo.md) | 3267 | ±197 | 19 | 金炯佑 | 
+| 119 | [Kim Hyeongwoo](./player-games-md/md/Kim Hyeongwoo.md) | 3266 | ±197 | 19 | 金炯佑 | 
 | 120 | [Yu Zhiying](./player-games-md/md/Yu Zhiying.md) | 3264 | ±177 | 51 | 於之瑩 | 
 | 121 | [Onishi Ryuhei](./player-games-md/md/Onishi Ryuhei.md) | 3252 | ±199 | 18 | 大西竜平 | 
 | 122 | [Koyama Kuya](./player-games-md/md/Koyama Kuya.md) | 3249 | ±207 | 16 | 小山空也 | 
@@ -145,18 +145,18 @@ Note that players with fewer than 13 games are not in the list
 | 135 | [Lin Lixiang](./player-games-md/md/Lin Lixiang.md) | 3199 | ±188 | 64 | 林立祥 | 
 | 136 | [Song Gyusang](./player-games-md/md/Song Gyusang.md) | 3193 | ±196 | 18 | 宋圭相 | 
 | 137 | [Fukuoka Kotaro](./player-games-md/md/Fukuoka Kotaro.md) | 3191 | ±209 | 13 | 福岡航太朗 | 
-| 138 | [Song Jihoon](./player-games-md/md/Song Jihoon.md) | 3191 | ±209 | 14 | 宋知勲 | 
+| 138 | [Song Jihoon](./player-games-md/md/Song Jihoon.md) | 3190 | ±209 | 14 | 宋知勲 | 
 | 139 | [Lee Wondo](./player-games-md/md/Lee Wondo.md) | 3180 | ±197 | 18 | 李元道 | 
 | 140 | [Lee Yeongkyu](./player-games-md/md/Lee Yeongkyu.md) | 3174 | ±202 | 19 | 李映九 | 
 | 141 | [Hyun Yoobin](./player-games-md/md/Hyun Yoobin.md) | 3164 | ±186 | 30 | 玄釉斌 | 
 | 142 | [Otake Yu](./player-games-md/md/Otake Yu.md) | 3163 | ±200 | 18 | 大竹優 | 
 | 143 | [](./player-games-md/md/.md) | 3162 | ±196 | 18 | 趙完珪 | 
-| 144 | [Yoda Norimoto](./player-games-md/md/Yoda Norimoto.md) | 3161 | ±199 | 23 | 依田紀基 | 
+| 144 | [Yoda Norimoto](./player-games-md/md/Yoda Norimoto.md) | 3161 | ±198 | 23 | 依田紀基 | 
 | 145 | [Chen Shiyuan](./player-games-md/md/Chen Shiyuan.md) | 3140 | ±190 | 55 | 陳詩淵 | 
 | 146 | [An Joyeong](./player-games-md/md/An Joyeong.md) | 3139 | ±202 | 13 | 安祚永 | 
 | 147 | [Oh Yujin](./player-games-md/md/Oh Yujin.md) | 3138 | ±176 | 68 | 呉侑珍 | 
 | 148 | [Lee Hyeonjun](./player-games-md/md/Lee Hyeonjun.md) | 3137 | ±208 | 13 | 李炫準 | 
-| 149 | [](./player-games-md/md/.md) | 3137 | ±216 | 14 | 李沇 | 
+| 149 | [](./player-games-md/md/.md) | 3136 | ±216 | 14 | 李沇 | 
 | 150 | [Ueno Asami](./player-games-md/md/Ueno Asami.md) | 3132 | ±185 | 50 | 上野愛咲美 | 
 | 151 | [Kono Rin](./player-games-md/md/Kono Rin.md) | 3129 | ±196 | 29 | 河野臨 | 
 | 152 | [Cho Seungah](./player-games-md/md/Cho Seungah.md) | 3128 | ±175 | 70 | 曺承亜 | 
@@ -187,15 +187,15 @@ Note that players with fewer than 13 games are not in the list
 | 177 | [Choi Kyeongho](./player-games-md/md/Choi Kyeongho.md) | 2963 | ±205 | 18 | 崔光戸 | 
 | 178 | [](./player-games-md/md/.md) | 2959 | ±219 | 13 | 李宜炫 | 
 | 179 | [Xu Yuqi](./player-games-md/md/Xu Yuqi.md) | 2954 | ±196 | 38 | 許育祺 | 
-| 180 | [Yoo Changhyuk](./player-games-md/md/Yoo Changhyuk.md) | 2943 | ±195 | 29 | 劉昌赫 | 
+| 180 | [Yoo Changhyuk](./player-games-md/md/Yoo Changhyuk.md) | 2942 | ±195 | 29 | 劉昌赫 | 
 | 181 | [Xie Yimin](./player-games-md/md/Xie Yimin.md) | 2942 | ±197 | 23 | 謝依旻 | 
 | 182 | [Chen Xi](./player-games-md/md/Chen Xi.md) | 2933 | ±195 | 43 | 陳禧 | 
 | 183 | [Rui Naiwei](./player-games-md/md/Rui Naiwei.md) | 2916 | ±169 | 42 | 芮廼偉 | 
 | 184 | [](./player-games-md/md/.md) | 2899 | ±185 | 20 | 儲可児 | 
 | 185 | [Gao Xing](./player-games-md/md/Gao Xing.md) | 2898 | ±184 | 19 | 高星 | 
-| 186 | [Nyu Eiko](./player-games-md/md/Nyu Eiko.md) | 2893 | ±207 | 15 | 牛栄子 | 
-| 187 | [Seo Bongsoo](./player-games-md/md/Seo Bongsoo.md) | 2892 | ±202 | 26 | 徐奉洙 | 
-| 188 | [](./player-games-md/md/.md) | 2886 | ±203 | 22 | 権孝珍 | 
+| 186 | [Nyu Eiko](./player-games-md/md/Nyu Eiko.md) | 2894 | ±207 | 15 | 牛栄子 | 
+| 187 | [Seo Bongsoo](./player-games-md/md/Seo Bongsoo.md) | 2891 | ±202 | 26 | 徐奉洙 | 
+| 188 | [](./player-games-md/md/.md) | 2885 | ±203 | 22 | 権孝珍 | 
 | 189 | [](./player-games-md/md/.md) | 2883 | ±199 | 33 | 陳首廉 | 
 | 190 | [Lin Shuyang](./player-games-md/md/Lin Shuyang.md) | 2882 | ±195 | 39 | 林書陽 | 
 | 191 | [Cai Chengwei](./player-games-md/md/Cai Chengwei.md) | 2879 | ±193 | 47 | 蔡丞韋 | 
@@ -203,8 +203,8 @@ Note that players with fewer than 13 games are not in the list
 | 193 | [Cho Hyeyeon](./player-games-md/md/Cho Hyeyeon.md) | 2855 | ±190 | 33 | 趙恵連 | 
 | 194 | [Wang Yubo](./player-games-md/md/Wang Yubo.md) | 2854 | ±170 | 35 | 汪雨博 | 
 | 195 | [](./player-games-md/md/.md) | 2853 | ±197 | 33 | 盧鈺樺 | 
-| 196 | [](./player-games-md/md/.md) | 2851 | ±196 | 35 | 林彦丞 | 
-| 197 | [Cho Hunhyun](./player-games-md/md/Cho Hunhyun.md) | 2851 | ±216 | 14 | 曺薫鉉 | 
+| 196 | [Cho Hunhyun](./player-games-md/md/Cho Hunhyun.md) | 2852 | ±216 | 14 | 曺薫鉉 | 
+| 197 | [](./player-games-md/md/.md) | 2851 | ±196 | 35 | 林彦丞 | 
 | 198 | [Yang Zixuan](./player-games-md/md/Yang Zixuan.md) | 2844 | ±193 | 44 | 楊子萱 | 
 | 199 | [Pan Yang](./player-games-md/md/Pan Yang.md) | 2835 | ±173 | 27 | 潘陽 | 
 | 200 | [Chen Yiming](./player-games-md/md/Chen Yiming.md) | 2826 | ±173 | 33 | 陳一鳴 | 
@@ -231,13 +231,13 @@ Note that players with fewer than 13 games are not in the list
 | 221 | [Song Ronghui](./player-games-md/md/Song Ronghui.md) | 2761 | ±185 | 20 | 宋容慧 | 
 | 222 | [](./player-games-md/md/.md) | 2760 | ±177 | 33 | 呉依銘 | 
 | 223 | [Abe Yoshiki](./player-games-md/md/Abe Yoshiki.md) | 2760 | ±227 | 14 | 阿部良希 | 
-| 224 | [](./player-games-md/md/.md) | 2757 | ±196 | 27 | 許瑞玹 | 
-| 225 | [Zhou Yinnan](./player-games-md/md/Zhou Yinnan.md) | 2757 | ±210 | 16 | 周尹南 | 
-| 226 | [Kobayashi Koichi](./player-games-md/md/Kobayashi Koichi.md) | 2757 | ±212 | 14 | 小林光一 | 
-| 227 | [](./player-games-md/md/.md) | 2753 | ±203 | 27 | 陳威廷 | 
+| 224 | [Kobayashi Koichi](./player-games-md/md/Kobayashi Koichi.md) | 2758 | ±212 | 14 | 小林光一 | 
+| 225 | [](./player-games-md/md/.md) | 2757 | ±196 | 27 | 許瑞玹 | 
+| 226 | [Zhou Yinnan](./player-games-md/md/Zhou Yinnan.md) | 2757 | ±210 | 16 | 周尹南 | 
+| 227 | [](./player-games-md/md/.md) | 2754 | ±203 | 27 | 陳威廷 | 
 | 228 | [Lin Jiehan](./player-games-md/md/Lin Jiehan.md) | 2743 | ±212 | 19 | 林傑漢 | 
-| 229 | [Choi Kyubyeong](./player-games-md/md/Choi Kyubyeong.md) | 2730 | ±207 | 20 | 崔珪昞 | 
-| 230 | [](./player-games-md/md/.md) | 2725 | ±183 | 23 | 劉慧玲 | 
+| 229 | [Choi Kyubyeong](./player-games-md/md/Choi Kyubyeong.md) | 2731 | ±207 | 20 | 崔珪昞 | 
+| 230 | [](./player-games-md/md/.md) | 2726 | ±183 | 23 | 劉慧玲 | 
 | 231 | [Kim Cheayoung](./player-games-md/md/Kim Cheayoung.md) | 2724 | ±184 | 43 | 金彩瑛 | 
 | 232 | [Yin Qu](./player-games-md/md/Yin Qu.md) | 2723 | ±194 | 15 | 尹渠 | 
 | 233 | [](./player-games-md/md/.md) | 2722 | ±197 | 13 | 賈罡璐 | 
@@ -249,53 +249,53 @@ Note that players with fewer than 13 games are not in the list
 | 239 | [](./player-games-md/md/.md) | 2687 | ±181 | 27 | 張子涵 | 
 | 240 | [](./player-games-md/md/.md) | 2683 | ±178 | 21 | 李思璇 | 
 | 241 | [Zhou Pingqiang](./player-games-md/md/Zhou Pingqiang.md) | 2680 | ±207 | 20 | 周平強 | 
-| 242 | [An Kwanwuk](./player-games-md/md/An Kwanwuk.md) | 2675 | ±212 | 21 | 安官旭 | 
-| 243 | [](./player-games-md/md/.md) | 2665 | ±190 | 33 | 鄭有珍 | 
-| 244 | [Yu Lijun](./player-games-md/md/Yu Lijun.md) | 2663 | ±197 | 35 | 兪俐均 | 
-| 245 | [Kim Soojang](./player-games-md/md/Kim Soojang.md) | 2661 | ±206 | 21 | 金秀壮 | 
-| 246 | [Jimmy Cha](./player-games-md/md/Jimmy Cha.md) | 2655 | ±224 | 16 | 車敏洙 | 
-| 247 | [Kang Hun](./player-games-md/md/Kang Hun.md) | 2647 | ±219 | 17 | 姜勲 | 
-| 248 | [](./player-games-md/md/.md) | 2633 | ±203 | 13 | 徐晶琦 | 
-| 249 | [](./player-games-md/md/.md) | 2628 | ±209 | 20 | 張嘉桓 | 
-| 250 | [Gao Yun](./player-games-md/md/Gao Yun.md) | 2623 | ±218 | 18 | 高昀 | 
-| 251 | [Ding Shaojie](./player-games-md/md/Ding Shaojie.md) | 2618 | ±210 | 20 | 丁少傑 | 
+| 242 | [Kim Soojang](./player-games-md/md/Kim Soojang.md) | 2678 | ±205 | 22 | 金秀壮 | 
+| 243 | [An Kwanwuk](./player-games-md/md/An Kwanwuk.md) | 2666 | ±212 | 21 | 安官旭 | 
+| 244 | [](./player-games-md/md/.md) | 2665 | ±190 | 33 | 鄭有珍 | 
+| 245 | [Yu Lijun](./player-games-md/md/Yu Lijun.md) | 2663 | ±197 | 35 | 兪俐均 | 
+| 246 | [Jimmy Cha](./player-games-md/md/Jimmy Cha.md) | 2652 | ±224 | 16 | 車敏洙 | 
+| 247 | [](./player-games-md/md/.md) | 2633 | ±203 | 13 | 徐晶琦 | 
+| 248 | [](./player-games-md/md/.md) | 2628 | ±209 | 20 | 張嘉桓 | 
+| 249 | [Gao Yun](./player-games-md/md/Gao Yun.md) | 2623 | ±218 | 18 | 高昀 | 
+| 250 | [Ding Shaojie](./player-games-md/md/Ding Shaojie.md) | 2618 | ±210 | 20 | 丁少傑 | 
+| 251 | [Kang Hun](./player-games-md/md/Kang Hun.md) | 2618 | ±216 | 18 | 姜勲 | 
 | 252 | [Kim Kihun](./player-games-md/md/Kim Kihun.md) | 2616 | ±207 | 17 | 金基憲 | 
 | 253 | [Zhang Zhehao](./player-games-md/md/Zhang Zhehao.md) | 2606 | ±219 | 18 | 張哲豪 | 
 | 254 | [](./player-games-md/md/.md) | 2603 | ±204 | 24 | 林瀚彰 | 
-| 255 | [Park Seungmun](./player-games-md/md/Park Seungmun.md) | 2603 | ±222 | 14 | 朴勝文 | 
-| 256 | [](./player-games-md/md/.md) | 2599 | ±201 | 29 | 孫偉勛 | 
+| 255 | [](./player-games-md/md/.md) | 2599 | ±201 | 29 | 孫偉勛 | 
+| 256 | [Park Seungmun](./player-games-md/md/Park Seungmun.md) | 2595 | ±222 | 14 | 朴勝文 | 
 | 257 | [](./player-games-md/md/.md) | 2594 | ±213 | 18 | 施景尭 | 
 | 258 | [](./player-games-md/md/.md) | 2588 | ±231 | 13 | 宣承旼 | 
-| 259 | [Kim Ilhwan](./player-games-md/md/Kim Ilhwan.md) | 2586 | ±208 | 21 | 金日煥 | 
-| 260 | [Kim Dongyeop](./player-games-md/md/Kim Dongyeop.md) | 2579 | ±219 | 14 | 金東燁 | 
-| 261 | [Kang Dajeong](./player-games-md/md/Kang Dajeong.md) | 2575 | ±201 | 21 | 姜多情 | 
+| 259 | [Kim Ilhwan](./player-games-md/md/Kim Ilhwan.md) | 2584 | ±208 | 21 | 金日煥 | 
+| 260 | [Kang Dajeong](./player-games-md/md/Kang Dajeong.md) | 2575 | ±201 | 21 | 姜多情 | 
+| 261 | [Kim Dongyeop](./player-games-md/md/Kim Dongyeop.md) | 2574 | ±219 | 14 | 金東燁 | 
 | 262 | [](./player-games-md/md/.md) | 2572 | ±209 | 16 | 柳珠儇 | 
-| 263 | [](./player-games-md/md/.md) | 2562 | ±220 | 16 | 彭鐏徳 | 
-| 264 | [Kim Chongsu](./player-games-md/md/Kim Chongsu.md) | 2561 | ±217 | 16 | 金鐘秀 | 
+| 263 | [Kim Chongsu](./player-games-md/md/Kim Chongsu.md) | 2562 | ±217 | 16 | 金鐘秀 | 
+| 264 | [](./player-games-md/md/.md) | 2562 | ±220 | 16 | 彭鐏徳 | 
 | 265 | [](./player-games-md/md/.md) | 2554 | ±208 | 15 | 金魯炅 | 
-| 266 | [Oh Kyuchul](./player-games-md/md/Oh Kyuchul.md) | 2546 | ±221 | 14 | 呉圭喆 | 
-| 267 | [Liu Chuanting](./player-games-md/md/Liu Chuanting.md) | 2542 | ±226 | 13 | 劉川霆 | 
-| 268 | [](./player-games-md/md/.md) | 2541 | ±211 | 20 | 黄偉 | 
-| 269 | [Zhan Ying](./player-games-md/md/Zhan Ying.md) | 2539 | ±195 | 25 | 戦鷹 | 
-| 270 | [](./player-games-md/md/.md) | 2539 | ±208 | 22 | 黄袖圃 | 
-| 271 | [](./player-games-md/md/.md) | 2536 | ±207 | 14 | 朴昭律 | 
-| 272 | [Park Yeongchan](./player-games-md/md/Park Yeongchan.md) | 2533 | ±213 | 18 | 朴映璨 | 
+| 266 | [Liu Chuanting](./player-games-md/md/Liu Chuanting.md) | 2542 | ±226 | 13 | 劉川霆 | 
+| 267 | [](./player-games-md/md/.md) | 2541 | ±211 | 20 | 黄偉 | 
+| 268 | [Zhan Ying](./player-games-md/md/Zhan Ying.md) | 2539 | ±195 | 25 | 戦鷹 | 
+| 269 | [](./player-games-md/md/.md) | 2539 | ±208 | 22 | 黄袖圃 | 
+| 270 | [](./player-games-md/md/.md) | 2536 | ±207 | 14 | 朴昭律 | 
+| 271 | [Oh Kyuchul](./player-games-md/md/Oh Kyuchul.md) | 2535 | ±221 | 14 | 呉圭喆 | 
+| 272 | [Park Yeongchan](./player-games-md/md/Park Yeongchan.md) | 2525 | ±212 | 18 | 朴映璨 | 
 | 273 | [Huang Ziping](./player-games-md/md/Huang Ziping.md) | 2525 | ±219 | 14 | 黄子萍 | 
 | 274 | [](./player-games-md/md/.md) | 2513 | ±214 | 15 | 徐海哲 | 
-| 275 | [Jeong Daesang](./player-games-md/md/Jeong Daesang.md) | 2511 | ±226 | 13 | 鄭大相 | 
-| 276 | [Paek Seongho](./player-games-md/md/Paek Seongho.md) | 2510 | ±221 | 14 | 白成豪 | 
-| 277 | [Zhang Kaixin](./player-games-md/md/Zhang Kaixin.md) | 2494 | ±210 | 23 | 張凱馨 | 
+| 275 | [Jeong Daesang](./player-games-md/md/Jeong Daesang.md) | 2508 | ±226 | 13 | 鄭大相 | 
+| 276 | [Paek Seongho](./player-games-md/md/Paek Seongho.md) | 2505 | ±221 | 14 | 白成豪 | 
+| 277 | [Zhang Kaixin](./player-games-md/md/Zhang Kaixin.md) | 2495 | ±210 | 23 | 張凱馨 | 
 | 278 | [Kobayashi Satoru](./player-games-md/md/Kobayashi Satoru.md) | 2488 | ±267 | 13 | 小林覚 | 
-| 279 | [](./player-games-md/md/.md) | 2470 | ±233 | 14 | 黄彦誠 | 
+| 279 | [](./player-games-md/md/.md) | 2471 | ±233 | 14 | 黄彦誠 | 
 | 280 | [](./player-games-md/md/.md) | 2465 | ±205 | 18 | 李度弦 | 
 | 281 | [](./player-games-md/md/.md) | 2464 | ±226 | 18 | 張庭維 | 
 | 282 | [](./player-games-md/md/.md) | 2463 | ±205 | 19 | 金京垠 | 
 | 283 | [Su Shengfang](./player-games-md/md/Su Shengfang.md) | 2460 | ±208 | 23 | 蘇聖芳 | 
-| 284 | [Cho Daehyeon](./player-games-md/md/Cho Daehyeon.md) | 2448 | ±225 | 13 | 趙大賢 | 
+| 284 | [Cho Daehyeon](./player-games-md/md/Cho Daehyeon.md) | 2444 | ±225 | 13 | 趙大賢 | 
 | 285 | [](./player-games-md/md/.md) | 2439 | ±231 | 13 | 姜智洙 | 
-| 286 | [Chang Suyeong](./player-games-md/md/Chang Suyeong.md) | 2388 | ±230 | 14 | 張秀英 | 
-| 287 | [Liu Yifang](./player-games-md/md/Liu Yifang.md) | 2385 | ±218 | 19 | 劉一芳 | 
-| 288 | [Kim Dongmyeon](./player-games-md/md/Kim Dongmyeon.md) | 2367 | ±229 | 13 | 金東勉 | 
+| 286 | [Liu Yifang](./player-games-md/md/Liu Yifang.md) | 2386 | ±218 | 19 | 劉一芳 | 
+| 287 | [Chang Suyeong](./player-games-md/md/Chang Suyeong.md) | 2378 | ±230 | 14 | 張秀英 | 
+| 288 | [Kim Dongmyeon](./player-games-md/md/Kim Dongmyeon.md) | 2363 | ±229 | 13 | 金東勉 | 
 | 289 | [](./player-games-md/md/.md) | 2318 | ±234 | 13 | 李裕眞 | 
 | 290 | [](./player-games-md/md/.md) | 2296 | ±241 | 13 | 陳義翔 | 
 | 291 | [](./player-games-md/md/.md) | 2289 | ±251 | 13 | 岳佳妍 | 
@@ -336,7 +336,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | 9 | [Cheng Jiaye](./player-games-md/md/Cheng Jiaye.md) | 3579 | ±330 | 4 | 成家業 | 
 | 10 | [Wang Shuo](./player-games-md/md/Wang Shuo.md) | 3556 | ±263 | 7 | 王碩 | 
 | 11 | [](./player-games-md/md/.md) | 3543 | ±382 | 2 | 薛冠華 | 
-| 12 | [Lee Jihyun](./player-games-md/md/Lee Jihyun.md) | 3520 | ±229 | 8 | 李志賢 | 
+| 12 | [Lee Jihyun](./player-games-md/md/Lee Jihyun.md) | 3521 | ±229 | 8 | 李志賢 | 
 | 13 | [Lee Hyunho](./player-games-md/md/Lee Hyunho.md) | 3517 | ±292 | 6 | 李賢虎 | 
 | 14 | [Luo Xihe](./player-games-md/md/Luo Xihe.md) | 3508 | ±335 | 3 | 羅洗河 | 
 | 15 | [Cao Xiaoyang](./player-games-md/md/Cao Xiaoyang.md) | 3494 | ±305 | 2 | 曹瀟陽 | 
@@ -360,7 +360,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | 33 | [Han Zenki](./player-games-md/md/Han Zenki.md) | 3357 | ±322 | 3 | 潘善琪 | 
 | 34 | [Shida Tatsuya](./player-games-md/md/Shida Tatsuya.md) | 3334 | ±214 | 11 | 志田達哉 | 
 | 35 | [Wang Yao](./player-games-md/md/Wang Yao.md) | 3325 | ±286 | 3 | 王尭 | 
-| 36 | [Sun Zhe](./player-games-md/md/Sun Zhe.md) | 3313 | ±219 | 10 | 孫喆 | 
+| 36 | [Sun Zhe](./player-games-md/md/Sun Zhe.md) | 3314 | ±219 | 10 | 孫喆 | 
 | 37 | [So Yokoku](./player-games-md/md/So Yokoku.md) | 3313 | ±256 | 4 | 蘇耀国 | 
 | 38 | [Gu Li](./player-games-md/md/Gu Li.md) | 3305 | ±249 | 7 | 古力 | 
 | 39 | [Lee Taehyun](./player-games-md/md/Lee Taehyun.md) | 3301 | ±213 | 10 | 李泰賢 | 
@@ -397,12 +397,12 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | 70 | [Ma Xiaochun](./player-games-md/md/Ma Xiaochun.md) | 3191 | ±329 | 4 | 馬暁春 | 
 | 71 | [Han Woojin](./player-games-md/md/Han Woojin.md) | 3186 | ±218 | 10 | 韓宇進 | 
 | 72 | [So Kofuku](./player-games-md/md/So Kofuku.md) | 3186 | ±395 | 2 | 宋光復 | 
-| 73 | [](./player-games-md/md/.md) | 3186 | ±406 | 2 | 呉新宇 | 
+| 73 | [](./player-games-md/md/.md) | 3185 | ±406 | 2 | 呉新宇 | 
 | 74 | [Shen Zaiyi](./player-games-md/md/Shen Zaiyi.md) | 3178 | ±210 | 11 | 沈載益 | 
 | 75 | [Shi Yulai](./player-games-md/md/Shi Yulai.md) | 3165 | ±301 | 4 | 石豫来 | 
 | 76 | [Lee Hobum](./player-games-md/md/Lee Hobum.md) | 3161 | ±218 | 9 | 李浩範 | 
 | 77 | [Wang Shiyi](./player-games-md/md/Wang Shiyi.md) | 3161 | ±248 | 9 | 王世一 | 
-| 78 | [Mochizuki Kenichi](./player-games-md/md/Mochizuki Kenichi.md) | 3143 | ±263 | 4 | 望月研一 | 
+| 78 | [Mochizuki Kenichi](./player-games-md/md/Mochizuki Kenichi.md) | 3144 | ±263 | 4 | 望月研一 | 
 | 79 | [Wen Rubin](./player-games-md/md/Wen Rubin.md) | 3142 | ±263 | 6 | 文儒彬 | 
 | 80 | [Hoshikawa Koyo](./player-games-md/md/Hoshikawa Koyo.md) | 3139 | ±253 | 5 | 星川航洋 | 
 | 81 | [Han Chongjin](./player-games-md/md/Han Chongjin.md) | 3126 | ±276 | 5 | 韓鐘振 | 
@@ -426,7 +426,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | 99 | [Mutsuura Yuta](./player-games-md/md/Mutsuura Yuta.md) | 3065 | ±229 | 9 | 六浦雄太 | 
 | 100 | [](./player-games-md/md/.md) | 3062 | ±308 | 2 | 趙貫汝 | 
 | 101 | [Park Jinyoung](./player-games-md/md/Park Jinyoung.md) | 3056 | ±232 | 9 | 朴鎭鍈 | 
-| 102 | [](./player-games-md/md/.md) | 3054 | ±369 | 2 | 金珉舒 | 
+| 102 | [](./player-games-md/md/.md) | 3054 | ±370 | 2 | 金珉舒 | 
 | 103 | [](./player-games-md/md/.md) | 3049 | ±377 | 2 | 宋慧領 | 
 | 104 | [Taniguchi Tooru](./player-games-md/md/Taniguchi Tooru.md) | 3045 | ±238 | 8 | 谷口徹 | 
 | 105 | [O Rissei](./player-games-md/md/O Rissei.md) | 3028 | ±223 | 10 | 王立誠 | 
@@ -435,44 +435,44 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | 108 | [Lee Chungyu](./player-games-md/md/Lee Chungyu.md) | 3021 | ±220 | 10 | 李春揆 | 
 | 109 | [Koike Yoshihiro](./player-games-md/md/Koike Yoshihiro.md) | 3018 | ±265 | 6 | 小池芳弘 | 
 | 110 | [Ohashi Naruya](./player-games-md/md/Ohashi Naruya.md) | 3012 | ±433 | 2 | 大橋成哉 | 
-| 111 | [](./player-games-md/md/.md) | 3011 | ±280 | 5 | 金賢斌 | 
+| 111 | [](./player-games-md/md/.md) | 3010 | ±280 | 5 | 金賢斌 | 
 | 112 | [Oomote Takuto](./player-games-md/md/Oomote Takuto.md) | 3007 | ±365 | 2 | 大表拓都 | 
 | 113 | [Ohashi Hirofumi](./player-games-md/md/Ohashi Hirofumi.md) | 2998 | ±283 | 4 | 大橋拓文 | 
 | 114 | [Nishi Takenobu](./player-games-md/md/Nishi Takenobu.md) | 2993 | ±218 | 11 | 西健伸 | 
-| 115 | [](./player-games-md/md/.md) | 2990 | ±251 | 7 | 金宣圻 | 
-| 116 | [Kim Minho](./player-games-md/md/Kim Minho.md) | 2989 | ±245 | 6 | 金民浩 | 
+| 115 | [Kim Minho](./player-games-md/md/Kim Minho.md) | 2989 | ±245 | 6 | 金民浩 | 
+| 116 | [](./player-games-md/md/.md) | 2989 | ±251 | 7 | 金宣圻 | 
 | 117 | [Yoshida Mika](./player-games-md/md/Yoshida Mika.md) | 2982 | ±284 | 4 | 吉田美香 | 
 | 118 | [Okuda Aya](./player-games-md/md/Okuda Aya.md) | 2971 | ±260 | 5 | 奥田あや | 
 | 119 | [Chen Hao](./player-games-md/md/Chen Hao.md) | 2971 | ±266 | 12 | 陳浩 | 
 | 120 | [Omori Yasushi](./player-games-md/md/Omori Yasushi.md) | 2969 | ±346 | 2 | 大森泰志 | 
 | 121 | [Kim Beomseo](./player-games-md/md/Kim Beomseo.md) | 2968 | ±232 | 9 | 金凡瑞 | 
 | 122 | [](./player-games-md/md/.md) | 2964 | ±244 | 7 | 酒井佑規 | 
-| 123 | [](./player-games-md/md/.md) | 2959 | ±232 | 10 | 今分太郎 | 
+| 123 | [](./player-games-md/md/.md) | 2960 | ±232 | 10 | 今分太郎 | 
 | 124 | [Watanabe Kandai](./player-games-md/md/Watanabe Kandai.md) | 2956 | ±248 | 7 | 渡辺寛大 | 
 | 125 | [Imamura Toshiya](./player-games-md/md/Imamura Toshiya.md) | 2954 | ±237 | 9 | 今村俊也 | 
 | 126 | [](./player-games-md/md/.md) | 2954 | ±340 | 4 | 伊了 | 
 | 127 | [](./player-games-md/md/.md) | 2953 | ±253 | 6 | 辻篤仁 | 
-| 128 | [Seo Musang](./player-games-md/md/Seo Musang.md) | 2948 | ±285 | 4 | 徐武祥 | 
+| 128 | [Seo Musang](./player-games-md/md/Seo Musang.md) | 2949 | ±285 | 4 | 徐武祥 | 
 | 129 | [](./player-games-md/md/.md) | 2948 | ±288 | 4 | 金恵臨 | 
 | 130 | [](./player-games-md/md/.md) | 2948 | ±529 | 4 | 黄春棋 | 
 | 131 | [](./player-games-md/md/.md) | 2947 | ±365 | 2 | 沈準燮 | 
 | 132 | [Lee Ishu](./player-games-md/md/Lee Ishu.md) | 2941 | ±339 | 2 | 李沂修 | 
 | 133 | [Cho Riyu](./player-games-md/md/Cho Riyu.md) | 2940 | ±322 | 3 | 張豊猷 | 
-| 134 | [Yu Bin](./player-games-md/md/Yu Bin.md) | 2934 | ±257 | 6 | 兪斌 | 
-| 135 | [Mimura Tomoyasu](./player-games-md/md/Mimura Tomoyasu.md) | 2934 | ±300 | 3 | 三村智保 | 
+| 134 | [Mimura Tomoyasu](./player-games-md/md/Mimura Tomoyasu.md) | 2935 | ±300 | 3 | 三村智保 | 
+| 135 | [Yu Bin](./player-games-md/md/Yu Bin.md) | 2934 | ±257 | 6 | 兪斌 | 
 | 136 | [Shintani Yousuke](./player-games-md/md/Shintani Yousuke.md) | 2926 | ±266 | 5 | 新谷洋佑 | 
 | 137 | [](./player-games-md/md/.md) | 2926 | ±379 | 2 | 青木裕孝 | 
-| 138 | [](./player-games-md/md/.md) | 2922 | ±226 | 11 | 田中康湧 | 
+| 138 | [](./player-games-md/md/.md) | 2923 | ±226 | 11 | 田中康湧 | 
 | 139 | [Ogaki Yusaku](./player-games-md/md/Ogaki Yusaku.md) | 2920 | ±290 | 4 | 大垣雄作 | 
 | 140 | [Onishi Kenya](./player-games-md/md/Onishi Kenya.md) | 2916 | ±234 | 10 | 大西研也 | 
 | 141 | [](./player-games-md/md/.md) | 2916 | ±243 | 9 | 梁洧準 | 
 | 142 | [](./player-games-md/md/.md) | 2912 | ±468 | 2 | 邱禹然 | 
 | 143 | [Choi Myeonghun](./player-games-md/md/Choi Myeonghun.md) | 2906 | ±311 | 3 | 崔明勲 | 
-| 144 | [Tsuneishi Takashi](./player-games-md/md/Tsuneishi Takashi.md) | 2900 | ±249 | 6 | 常石隆志 | 
+| 144 | [Tsuneishi Takashi](./player-games-md/md/Tsuneishi Takashi.md) | 2901 | ±249 | 6 | 常石隆志 | 
 | 145 | [Kim Seungjun](./player-games-md/md/Kim Seungjun.md) | 2899 | ±251 | 8 | 金承俊 | 
 | 146 | [Imamura Yoshiaki](./player-games-md/md/Imamura Yoshiaki.md) | 2899 | ±393 | 2 | 今村善彰 | 
-| 147 | [Hikosaka Naoto](./player-games-md/md/Hikosaka Naoto.md) | 2895 | ±306 | 6 | 彦坂直人 | 
-| 148 | [Kim Yoonyoung](./player-games-md/md/Kim Yoonyoung.md) | 2892 | ±248 | 5 | 金侖映 | 
+| 147 | [Kim Yoonyoung](./player-games-md/md/Kim Yoonyoung.md) | 2895 | ±248 | 5 | 金侖映 | 
+| 148 | [Hikosaka Naoto](./player-games-md/md/Hikosaka Naoto.md) | 2895 | ±306 | 6 | 彦坂直人 | 
 | 149 | [](./player-games-md/md/.md) | 2889 | ±252 | 4 | 厳惜蓦 | 
 | 150 | [Hoshiai Shiho](./player-games-md/md/Hoshiai Shiho.md) | 2888 | ±224 | 10 | 星合志保 | 
 | 151 | [](./player-games-md/md/.md) | 2883 | ±308 | 3 | 武井太心 | 
@@ -486,9 +486,9 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | 159 | [Cho Sonjin](./player-games-md/md/Cho Sonjin.md) | 2860 | ±250 | 9 | 趙善津 | 
 | 160 | [Rin Shien](./player-games-md/md/Rin Shien.md) | 2860 | ±306 | 3 | 林子淵 | 
 | 161 | [](./player-games-md/md/.md) | 2855 | ±302 | 3 | 賴宥丞 | 
-| 162 | [Kataoka Satoshi](./player-games-md/md/Kataoka Satoshi.md) | 2851 | ±266 | 5 | 片岡聡 | 
-| 163 | [Iida Junya](./player-games-md/md/Iida Junya.md) | 2851 | ±289 | 4 | 飯田純也 | 
-| 164 | [Ha Youngil](./player-games-md/md/Ha Youngil.md) | 2850 | ±262 | 5 | 河英一 | 
+| 162 | [Kataoka Satoshi](./player-games-md/md/Kataoka Satoshi.md) | 2852 | ±266 | 5 | 片岡聡 | 
+| 163 | [Ha Youngil](./player-games-md/md/Ha Youngil.md) | 2851 | ±262 | 5 | 河英一 | 
+| 164 | [Iida Junya](./player-games-md/md/Iida Junya.md) | 2851 | ±289 | 4 | 飯田純也 | 
 | 165 | [](./player-games-md/md/.md) | 2835 | ±258 | 6 | 大川拓也 | 
 | 166 | [](./player-games-md/md/.md) | 2834 | ±300 | 4 | 丁明君 | 
 | 167 | [Yokota Shigeaki](./player-games-md/md/Yokota Shigeaki.md) | 2834 | ±312 | 4 | 横田茂昭 | 
@@ -497,18 +497,18 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | 170 | [Watanabe Yuu](./player-games-md/md/Watanabe Yuu.md) | 2826 | ±268 | 7 | 渡辺由宇 | 
 | 171 | [](./player-games-md/md/.md) | 2819 | ±243 | 8 | 呉柏毅 | 
 | 172 | [Wang Lei (b)](./player-games-md/md/Wang Lei (b).md) | 2819 | ±338 | 2 | 王磊 | 
-| 173 | [](./player-games-md/md/.md) | 2817 | ±302 | 4 | 表悠斗 | 
+| 173 | [](./player-games-md/md/.md) | 2818 | ±302 | 4 | 表悠斗 | 
 | 174 | [Koyama Mitsuru](./player-games-md/md/Koyama Mitsuru.md) | 2813 | ±239 | 6 | 小山栄美 | 
 | 175 | [](./player-games-md/md/.md) | 2804 | ±252 | 6 | 朴棟柱 | 
-| 176 | [Zheng Yujin](./player-games-md/md/Zheng Yujin.md) | 2804 | ±401 | 2 | 鄭宇津 | 
+| 176 | [Zheng Yujin](./player-games-md/md/Zheng Yujin.md) | 2803 | ±401 | 2 | 鄭宇津 | 
 | 177 | [Kudo Norio](./player-games-md/md/Kudo Norio.md) | 2802 | ±280 | 6 | 工藤紀夫 | 
 | 178 | [Kato Atsushi](./player-games-md/md/Kato Atsushi.md) | 2799 | ±295 | 4 | 加藤充志 | 
-| 179 | [](./player-games-md/md/.md) | 2795 | ±299 | 4 | 金栄光 | 
+| 179 | [](./player-games-md/md/.md) | 2794 | ±299 | 4 | 金栄光 | 
 | 180 | [](./player-games-md/md/.md) | 2792 | ±346 | 2 | 髙山邊楓実 | 
 | 181 | [Fujii Shuya](./player-games-md/md/Fujii Shuya.md) | 2783 | ±270 | 9 | 藤井秀哉 | 
 | 182 | [](./player-games-md/md/.md) | 2782 | ±224 | 11 | 加藤千笑 | 
-| 183 | [Lin Xiuping](./player-games-md/md/Lin Xiuping.md) | 2781 | ±261 | 6 | 林修平 | 
-| 184 | [](./player-games-md/md/.md) | 2775 | ±238 | 8 | 金栄桓 | 
+| 183 | [](./player-games-md/md/.md) | 2781 | ±237 | 8 | 金栄桓 | 
+| 184 | [Lin Xiuping](./player-games-md/md/Lin Xiuping.md) | 2781 | ±261 | 6 | 林修平 | 
 | 185 | [Kim Daeyoung](./player-games-md/md/Kim Daeyoung.md) | 2774 | ±275 | 7 | 金大容 | 
 | 186 | [Kubo Katsuaki](./player-games-md/md/Kubo Katsuaki.md) | 2767 | ±294 | 4 | 久保勝昭 | 
 | 187 | [](./player-games-md/md/.md) | 2766 | ±274 | 4 | 西岡正織 | 
@@ -522,25 +522,25 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | 195 | [](./player-games-md/md/.md) | 2742 | ±318 | 2 | 陳晨 | 
 | 196 | [](./player-games-md/md/.md) | 2738 | ±347 | 2 | 西村仁 | 
 | 197 | [Yukawa Mitsuhisa](./player-games-md/md/Yukawa Mitsuhisa.md) | 2735 | ±265 | 6 | 湯川光久 | 
-| 198 | [Hara Masakazu](./player-games-md/md/Hara Masakazu.md) | 2734 | ±293 | 5 | 原正和 | 
+| 198 | [Hara Masakazu](./player-games-md/md/Hara Masakazu.md) | 2735 | ±293 | 5 | 原正和 | 
 | 199 | [Hei Jiajia](./player-games-md/md/Hei Jiajia.md) | 2732 | ±236 | 6 | 黒嘉嘉 | 
 | 200 | [](./player-games-md/md/.md) | 2731 | ±346 | 2 | 三島響 | 
 | 201 | [](./player-games-md/md/.md) | 2728 | ±245 | 8 | 元齊焄 | 
 | 202 | [](./player-games-md/md/.md) | 2728 | ±377 | 4 | 長徳徹志 | 
 | 203 | [Jiang Zhujiu](./player-games-md/md/Jiang Zhujiu.md) | 2722 | ±353 | 4 | 江鋳久 | 
 | 204 | [Liu Xiaoguang](./player-games-md/md/Liu Xiaoguang.md) | 2718 | ±306 | 6 | 劉小光 | 
-| 205 | [Kwon Kapyong](./player-games-md/md/Kwon Kapyong.md) | 2713 | ±342 | 2 | 権甲龍 | 
-| 206 | [](./player-games-md/md/.md) | 2710 | ±268 | 7 | 崔基勲 | 
-| 207 | [](./player-games-md/md/.md) | 2708 | ±233 | 9 | 文智煥 | 
-| 208 | [](./player-games-md/md/.md) | 2708 | ±265 | 6 | 詹宜典 | 
-| 209 | [Park Shiun](./player-games-md/md/Park Shiun.md) | 2700 | ±258 | 5 | 朴鋕恩 | 
-| 210 | [Lin Ziyuan](./player-games-md/md/Lin Ziyuan.md) | 2694 | ±227 | 11 | 林子元 | 
+| 205 | [](./player-games-md/md/.md) | 2710 | ±268 | 7 | 崔基勲 | 
+| 206 | [](./player-games-md/md/.md) | 2708 | ±233 | 9 | 文智煥 | 
+| 207 | [](./player-games-md/md/.md) | 2708 | ±265 | 6 | 詹宜典 | 
+| 208 | [Kwon Kapyong](./player-games-md/md/Kwon Kapyong.md) | 2708 | ±343 | 2 | 権甲龍 | 
+| 209 | [Park Shiun](./player-games-md/md/Park Shiun.md) | 2702 | ±258 | 5 | 朴鋕恩 | 
+| 210 | [Lin Ziyuan](./player-games-md/md/Lin Ziyuan.md) | 2695 | ±227 | 11 | 林子元 | 
 | 211 | [](./player-games-md/md/.md) | 2691 | ±305 | 3 | 陳彦儒 | 
 | 212 | [Sato Yuta](./player-games-md/md/Sato Yuta.md) | 2685 | ±283 | 5 | 佐藤優太 | 
-| 213 | [](./player-games-md/md/.md) | 2681 | ±283 | 3 | 徐文燕 | 
+| 213 | [](./player-games-md/md/.md) | 2682 | ±283 | 3 | 徐文燕 | 
 | 214 | [Furuya Yutaka](./player-games-md/md/Furuya Yutaka.md) | 2673 | ±294 | 7 | 古谷裕 | 
 | 215 | [](./player-games-md/md/.md) | 2657 | ±239 | 10 | 王智弘 | 
-| 216 | [](./player-games-md/md/.md) | 2655 | ±240 | 10 | 朴伸英 | 
+| 216 | [](./player-games-md/md/.md) | 2654 | ±240 | 10 | 朴伸英 | 
 | 217 | [](./player-games-md/md/.md) | 2628 | ±258 | 9 | 崔珉瑞 | 
 | 218 | [](./player-games-md/md/.md) | 2619 | ±258 | 8 | 三浦太郎 | 
 | 219 | [](./player-games-md/md/.md) | 2608 | ±380 | 2 | 曽富康 | 
@@ -565,7 +565,7 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | 238 | [](./player-games-md/md/.md) | 2495 | ±243 | 11 | 呉承玟 | 
 | 239 | [](./player-games-md/md/.md) | 2491 | ±302 | 4 | 黄宥騰 | 
 | 240 | [Huang Xiangren](./player-games-md/md/Huang Xiangren.md) | 2487 | ±248 | 9 | 黄祥任 | 
-| 241 | [Kim JongJoon](./player-games-md/md/Kim JongJoon.md) | 2478 | ±230 | 12 | 金宗俊 | 
+| 241 | [Kim JongJoon](./player-games-md/md/Kim JongJoon.md) | 2474 | ±230 | 12 | 金宗俊 | 
 | 242 | [Park Taehee](./player-games-md/md/Park Taehee.md) | 2469 | ±225 | 11 | 朴泰姬 | 
 | 243 | [Ryu Shikun](./player-games-md/md/Ryu Shikun.md) | 2467 | ±288 | 7 | 柳時熏 | 
 | 244 | [](./player-games-md/md/.md) | 2447 | ±238 | 12 | 張夢瑶 | 
@@ -574,11 +574,11 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | 247 | [](./player-games-md/md/.md) | 2378 | ±278 | 5 | 鄭娟宇 | 
 | 248 | [Dai Jiashen](./player-games-md/md/Dai Jiashen.md) | 2310 | ±269 | 12 | 戴嘉伸 | 
 | 249 | [](./player-games-md/md/.md) | 2307 | ±295 | 11 | 李奎漢 | 
-| 250 | [](./player-games-md/md/.md) | 2295 | ±238 | 12 | 羅錘勲 | 
+| 250 | [](./player-games-md/md/.md) | 2291 | ±238 | 12 | 羅錘勲 | 
 | 251 | [](./player-games-md/md/.md) | 2256 | ±254 | 11 | 彭景華 | 
-| 252 | [Liu Jianchang](./player-games-md/md/Liu Jianchang.md) | 2251 | ±257 | 12 | 劉建昌 | 
+| 252 | [Liu Jianchang](./player-games-md/md/Liu Jianchang.md) | 2252 | ±257 | 12 | 劉建昌 | 
 | 253 | [Kim Soojin](./player-games-md/md/Kim Soojin.md) | 2248 | ±290 | 4 | 金秀眞 | 
-| 254 | [](./player-games-md/md/.md) | 2162 | ±277 | 10 | 姜晩寓 |
+| 254 | [](./player-games-md/md/.md) | 2156 | ±277 | 10 | 姜晩寓 |
 
 
 

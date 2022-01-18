@@ -106,13 +106,15 @@ sjs_ratings2 = @chain pings_hist begin
 end
 
 # for each player create the players's page
-# println("dont forget to turn this off")
-# names_to_update = @chain pings_hist begin
-#     @subset @c :date .== maximum(:date)
-#     sort!(:Rating, rev = true)
-#     @subset(:eng_name_old != "")
-#     _[1:100, :eng_name_old]
-# end
+println("dont forget to turn this off")
+names_to_update = @chain pings_hist begin
+    @subset @c :date .== maximum(:date)
+    sort!(:Rating, rev = true)
+    @subset(:eng_name_old != "")
+    _[1:100, :eng_name_old]
+    vcat(names_to_update)
+    unique
+end
 
 
 for name in names_to_update
@@ -147,7 +149,7 @@ for name in names_to_update
             end
 
             if nrow(tmp) == 0
-                println("no games for "*name)
+                println("no games for " * name)
                 continue
             end
 

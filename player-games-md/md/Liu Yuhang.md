@@ -7,58 +7,58 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Liu Yuhang | Chen Xian | Lose | W+R | 7.5 | 3446.0 | -28.0 | 
-| 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Yang Dingxin | Liu Yuhang | Lose | B+R | 7.5 | 3474.0 | 42.0 | 
-| 2021-09-30 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Liu Yuhang | Lose | B+R | 7.5 | 3432.0 | -25.0 | 
-| 2021-09-29 | 第23回中国囲碁甲級リーグ | Wang Zejin | Liu Yuhang | Lose | B+R | 7.5 | 3457.0 | -13.0 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Rong Yi | Liu Yuhang | Win | W+R | 7.5 | 3470.0 | 10.0 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Peng Liyao | Lose | W+R | 7.5 | 3460.0 | -26.0 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Xu Yidi | Liu Yuhang | Win | W+R | 7.5 | 3486.0 | 1.0 | 
-| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Li Xuanhao | Liu Yuhang | Win | W+R | 7.5 | 3485.0 | 51.0 | 
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Han Yizhou | Lose | W+R | 7.5 | 3434.0 | -31.0 | 
-| 2021-06-11 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Liu Yuhang | Lose | B+R | 7.5 | 3465.0 | -13.0 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Liu Yuhang | Win | W+R | 7.5 | 3478.0 | 20.0 | 
-| 2021-06-08 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Kim Jiseok | Win | B+¾ | 7.5 | 3458.0 | 36.0 | 
-| 2021-06-07 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Kang Dongyun | Lose | W+1¼ | 7.5 | 3422.0 | -35.0 | 
-| 2021-05-12 | 第23回中国囲碁甲級リーグ | He Yuhan | Liu Yuhang | Win | W+R | 7.5 | 3457.0 | 24.0 | 
-| 2021-05-11 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Chen Xian | Lose | W+R | 7.5 | 3433.0 | -38.0 | 
-| 2021-05-10 | 第23回中国囲碁甲級リーグ | Lian Xiao | Liu Yuhang | Win | W+R | 7.5 | 3471.0 | 74.0 | 
-| 2021-05-08 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Liao Yuanhe | Lose | W+R | 7.5 | 3397.0 | -53.0 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Lyu Liyan | Win | B+R | 7.5 | 3450.0 | -27.0 | 
-| 2021-04-25 | 第20回西南棋王戦2回戦 | Ke Jie | Liu Yuhang | Lose | B+R | 7.5 | 3477.0 | 0.0 | 
-| 2021-04-25 | 第20回西南棋王戦1回戦 | Liu Yuhang | Shi Yue | Win | B+R | 7.5 | 3477.0 | -152.0 | 
-| 2020-11-22 | 2020年中国囲碁乙級リーグ | Xu Jingen | Liu Yuhang | Win | W+R | 7.5 | 3629.0 | 31.0 | 
-| 2020-11-17 | 2020年中国囲碁乙級リーグ | Seol Hyunjun | Liu Yuhang | Lose | B+2¾ | 7.5 | 3598.0 | 157.0 | 
-| 2020-06-15 | 第19回西南棋王戦準決勝 | Tuo Jiaxi | Liu Yuhang | Lose | B+¾ | 7.5 | 3441.0 | -56.0 | 
-| 2020-06-14 | 第19回西南棋王戦2回戦 | Liu Yuhang | Liao Yuanhe | Win | B+1¾ | 7.5 | 3497.0 | 0.0 | 
-| 2020-06-14 | 第19回西南棋王戦1回戦 | Liu Yuhang | Gu Li | Win | B+R | 7.5 | 3497.0 | 65.0 | 
-| 2019-12-28 | 第5期洛陽白雲山杯中国棋聖戦予選 | Liu Yuhang | Tan Xiao | Lose | W+R | 7.5 | 3432.0 | -29.0 | 
-| 2019-12-26 | 第5期洛陽白雲山杯中国棋聖戦予選 | Liu Yuhang | Chen Zijian | Win | B+R | 7.5 | 3461.0 | 311.0 | 
-| 2019-11-24 | 2019博思軟件杯中国囲棋新秀争覇戦決勝 | Liu Yuhang | Fang Ruoxi | Win | B+R | 7.5 | 3150.0 | 15.0 | 
-| 2019-11-23 | 2019博思軟件杯中国囲棋新秀争覇戦準決勝 | Liu Yuhang | Lyu Liyan | Win | B+R | 7.5 | 3135.0 | 72.0 | 
-| 2019-11-22 | 2019博思軟件杯中国囲棋新秀争覇戦8強戦 | Huang Mingyu | Liu Yuhang | Win | W+R | 7.5 | 3063.0 | 50.0 | 
-| 2019-10-23 | 2019博思軟件杯中国囲棋新秀争覇戦16強戦 | Zheng Zaixiang | Liu Yuhang | Win | W+R | 7.5 | 3013.0 | 62.0 | 
-| 2019-10-22 | 2019博思軟件杯中国囲棋新秀争覇戦32強戦 | Liu Yuhang |  | Win | B+R | 7.5 | 2951.0 | -80.0 | 
-| 2019-09-28 | 2019年全国囲棋個人戦男子組第12戦 | Liu Yuhang | Fan Yunruo | Lose | W+R | 7.5 | 3031.0 | -22.0 | 
-| 2019-09-26 | 2019年全国囲棋個人戦男子組第10戦 | Liu Yuhang | Wang Zejin | Win | B+R | 7.5 | 3053.0 | 112.0 | 
-| 2019-09-25 | 2019年全国囲棋個人戦男子組第9戦 | Li Chengsen | Liu Yuhang | Lose | B+R | 7.5 | 2941.0 | 129.0 | 
-| 2019-09-18 | 2019年全国囲棋個人戦男子組第1戦 | Liu Yuhang | Hua Chang | Win | B+R | 7.5 | 2812.0 | -44.0 | 
-| 2019-06-19 | 2019年中国囲碁乙級リーグ | Lin Lixiang | Liu Yuhang | Win | W+R | 7.5 | 2856.0 | 140.0 | 
-| 2018-10-23 | 2018年博思軟件杯中国囲棋新秀争覇戦16強戦 | Liu Yuhang | Tu Xiaoyu | Lose | W+3¾ | 7.5 | 2716.0 | -4.0 | 
-| 2018-10-22 | 2018年博思軟件杯中国囲棋新秀争覇戦32強戦 | Liu Yuhang |  | Win | B+R | 7.5 | 2720.0 | -51.0 | 
-| 2018-09-25 | 2018年全国囲棋個人戦男子組第11戦 | Wang Xinghao | Liu Yuhang | Lose | B+R | 7.5 | 2771.0 | -81.0 | 
-| 2018-09-22 | 2018年全国囲棋個人戦男子組第9戦 | Liu Yuhang |  | Win | B+R | 7.5 | 2852.0 | 63.0 | 
-| 2018-09-20 | 2018年全国囲棋個人戦男子組第7戦 | Liu Yuhang | Li Xiangyu | Lose | W+R | 7.5 | 2789.0 | -328.0 | 
-| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Xie Erhao | Liu Yuhang | Lose | B+R | 7.5 | 3117.0 | -38.0 | 
-| 2018-01-05 | 第3期洛陽白雲山杯中国棋聖戦入囲戦 | Liu Yuhang | Shen Peiran | Lose | W+¼ | 7.5 | 3155.0 | 6.0 | 
-| 2017-12-07 | 第3回洛陽白雲山杯中国棋聖戦予選丙組 | Gao Xing | Liu Yuhang | Win | W+R | 7.5 | 3149.0 | 145.0 | 
-| 2017-07-20 | 嫘祖杯30回中国名人戦新浪網選3回戦 | Liu Yuhang |  | Win | B+R | 7.5 | 3004.0 | 102.0 | 
-| 2017-07-19 | 第30期中国囲碁名人戦予選 | Ma Yichao | Liu Yuhang | Win | W+R | 7.5 | 2902.0 | 138.0 | 
-| 2017-03-11 | 第16回西南棋王戦1回戦 | Liu Yuhang | Mi Yuting | Lose | W+R | 7.5 | 2764.0 | -4.0 | 
-| 2017-03-01 | 2017年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Liu Yuhang | Fan Yin | Lose | W+R | 7.5 | 2768.0 | 14.0 | 
-| 2016-12-28 | 第31期中国囲碁天元戦予選 | Li Weiqing | Liu Yuhang | Lose | B+R | 7.5 | 2754.0 | -68.0 | 
-| 2016-12-27 | 第31期中国囲碁天元戦予選 |  | Liu Yuhang | Win | W+R | 7.5 | 2822.0 | -185.0 | 
-| 2016-04-29 | 2016年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Yang Kaiwen | Liu Yuhang | Lose | B+R | 7.5 | 3007.0 | missing |
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Liu Yuhang | Chen Xian | Lose | W+R | 7.5 | 3446.0 | 12.0 | 
+| 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Yang Dingxin | Liu Yuhang | Lose | B+R | 7.5 | 3434.0 | 13.0 | 
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Liu Yuhang | Lose | B+R | 7.5 | 3421.0 | -27.0 | 
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Wang Zejin | Liu Yuhang | Lose | B+R | 7.5 | 3448.0 | -34.0 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Rong Yi | Liu Yuhang | Win | W+R | 7.5 | 3482.0 | 18.0 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Peng Liyao | Lose | W+R | 7.5 | 3464.0 | -24.0 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Xu Yidi | Liu Yuhang | Win | W+R | 7.5 | 3488.0 | -4.0 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Li Xuanhao | Liu Yuhang | Win | W+R | 7.5 | 3492.0 | 58.0 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Han Yizhou | Lose | W+R | 7.5 | 3434.0 | -24.0 | 
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Liu Yuhang | Lose | B+R | 7.5 | 3458.0 | -18.0 | 
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Liu Yuhang | Win | W+R | 7.5 | 3476.0 | 17.0 | 
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Kim Jiseok | Win | B+¾ | 7.5 | 3459.0 | 27.0 | 
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Kang Dongyun | Lose | W+1¼ | 7.5 | 3432.0 | -22.0 | 
+| 2021-05-12 | 第23回中国囲碁甲級リーグ | He Yuhan | Liu Yuhang | Win | W+R | 7.5 | 3454.0 | 49.0 | 
+| 2021-05-11 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Chen Xian | Lose | W+R | 7.5 | 3405.0 | -40.0 | 
+| 2021-05-10 | 第23回中国囲碁甲級リーグ | Lian Xiao | Liu Yuhang | Win | W+R | 7.5 | 3445.0 | 79.0 | 
+| 2021-05-08 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Liao Yuanhe | Lose | W+R | 7.5 | 3366.0 | -65.0 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Liu Yuhang | Lyu Liyan | Win | B+R | 7.5 | 3431.0 | 3.0 | 
+| 2021-04-25 | 第20回西南棋王戦2回戦 | Ke Jie | Liu Yuhang | Lose | B+R | 7.5 | 3428.0 | 0.0 | 
+| 2021-04-25 | 第20回西南棋王戦1回戦 | Liu Yuhang | Shi Yue | Win | B+R | 7.5 | 3428.0 | 110.0 | 
+| 2020-11-22 | 2020年中国囲碁乙級リーグ | Xu Jingen | Liu Yuhang | Win | W+R | 7.5 | 3318.0 | -6.0 | 
+| 2020-11-17 | 2020年中国囲碁乙級リーグ | Seol Hyunjun | Liu Yuhang | Lose | B+2¾ | 7.5 | 3324.0 | -215.0 | 
+| 2020-06-15 | 第19回西南棋王戦準決勝 | Tuo Jiaxi | Liu Yuhang | Lose | B+¾ | 7.5 | 3539.0 | -51.0 | 
+| 2020-06-14 | 第19回西南棋王戦2回戦 | Liu Yuhang | Liao Yuanhe | Win | B+1¾ | 7.5 | 3590.0 | 0.0 | 
+| 2020-06-14 | 第19回西南棋王戦1回戦 | Liu Yuhang | Gu Li | Win | B+R | 7.5 | 3590.0 | 125.0 | 
+| 2019-12-28 | 第5期洛陽白雲山杯中国棋聖戦予選 | Liu Yuhang | Tan Xiao | Lose | W+R | 7.5 | 3465.0 | -30.0 | 
+| 2019-12-26 | 第5期洛陽白雲山杯中国棋聖戦予選 | Liu Yuhang | Chen Zijian | Win | B+R | 7.5 | 3495.0 | 19.0 | 
+| 2019-11-24 | 2019博思軟件杯中国囲棋新秀争覇戦決勝 | Liu Yuhang | Fang Ruoxi | Win | B+R | 7.5 | 3476.0 | 14.0 | 
+| 2019-11-23 | 2019博思軟件杯中国囲棋新秀争覇戦準決勝 | Liu Yuhang | Lyu Liyan | Win | B+R | 7.5 | 3462.0 | 77.0 | 
+| 2019-11-22 | 2019博思軟件杯中国囲棋新秀争覇戦8強戦 | Huang Mingyu | Liu Yuhang | Win | W+R | 7.5 | 3385.0 | 11.0 | 
+| 2019-10-23 | 2019博思軟件杯中国囲棋新秀争覇戦16強戦 | Zheng Zaixiang | Liu Yuhang | Win | W+R | 7.5 | 3374.0 | 70.0 | 
+| 2019-10-22 | 2019博思軟件杯中国囲棋新秀争覇戦32強戦 | Liu Yuhang |  | Win | B+R | 7.5 | 3304.0 | -60.0 | 
+| 2019-09-28 | 2019年全国囲棋個人戦男子組第12戦 | Liu Yuhang | Fan Yunruo | Lose | W+R | 7.5 | 3364.0 | -27.0 | 
+| 2019-09-26 | 2019年全国囲棋個人戦男子組第10戦 | Liu Yuhang | Wang Zejin | Win | B+R | 7.5 | 3391.0 | 120.0 | 
+| 2019-09-25 | 2019年全国囲棋個人戦男子組第9戦 | Li Chengsen | Liu Yuhang | Lose | B+R | 7.5 | 3271.0 | 106.0 | 
+| 2019-09-18 | 2019年全国囲棋個人戦男子組第1戦 | Liu Yuhang | Hua Chang | Win | B+R | 7.5 | 3165.0 | 32.0 | 
+| 2019-06-19 | 2019年中国囲碁乙級リーグ | Lin Lixiang | Liu Yuhang | Win | W+R | 7.5 | 3133.0 | 154.0 | 
+| 2018-10-23 | 2018年博思軟件杯中国囲棋新秀争覇戦16強戦 | Liu Yuhang | Tu Xiaoyu | Lose | W+3¾ | 7.5 | 2979.0 | -9.0 | 
+| 2018-10-22 | 2018年博思軟件杯中国囲棋新秀争覇戦32強戦 | Liu Yuhang |  | Win | B+R | 7.5 | 2988.0 | -49.0 | 
+| 2018-09-25 | 2018年全国囲棋個人戦男子組第11戦 | Wang Xinghao | Liu Yuhang | Lose | B+R | 7.5 | 3037.0 | -76.0 | 
+| 2018-09-22 | 2018年全国囲棋個人戦男子組第9戦 | Liu Yuhang |  | Win | B+R | 7.5 | 3113.0 | 68.0 | 
+| 2018-09-20 | 2018年全国囲棋個人戦男子組第7戦 | Liu Yuhang | Li Xiangyu | Lose | W+R | 7.5 | 3045.0 | -259.0 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Xie Erhao | Liu Yuhang | Lose | B+R | 7.5 | 3304.0 | 11.0 | 
+| 2018-01-05 | 第3期洛陽白雲山杯中国棋聖戦入囲戦 | Liu Yuhang | Shen Peiran | Lose | W+¼ | 7.5 | 3293.0 | -28.0 | 
+| 2017-12-07 | 第3回洛陽白雲山杯中国棋聖戦予選丙組 | Gao Xing | Liu Yuhang | Win | W+R | 7.5 | 3321.0 | 96.0 | 
+| 2017-07-20 | 嫘祖杯30回中国名人戦新浪網選3回戦 | Liu Yuhang |  | Win | B+R | 7.5 | 3225.0 | 106.0 | 
+| 2017-07-19 | 第30期中国囲碁名人戦予選 | Ma Yichao | Liu Yuhang | Win | W+R | 7.5 | 3119.0 | -4.0 | 
+| 2017-03-11 | 第16回西南棋王戦1回戦 | Liu Yuhang | Mi Yuting | Lose | W+R | 7.5 | 3123.0 | -3.0 | 
+| 2017-03-01 | 2017年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Liu Yuhang | Fan Yin | Lose | W+R | 7.5 | 3126.0 | -48.0 | 
+| 2016-12-28 | 第31期中国囲碁天元戦予選 | Li Weiqing | Liu Yuhang | Lose | B+R | 7.5 | 3174.0 | -67.0 | 
+| 2016-12-27 | 第31期中国囲碁天元戦予選 |  | Liu Yuhang | Win | W+R | 7.5 | 3241.0 | -161.0 | 
+| 2016-04-29 | 2016年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Yang Kaiwen | Liu Yuhang | Lose | B+R | 7.5 | 3402.0 | missing |
 
 
 

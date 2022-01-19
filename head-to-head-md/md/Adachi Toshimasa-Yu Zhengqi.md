@@ -7,8 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Adachi Toshimasa vs Yu Zhengqi** | **Adachi Toshimasa streak** | **Yu Zhengqi streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-01-13 | 第60期十段戦準決勝 | Yu Zhengqi | Adachi Toshimasa | B+R | 6.5 | 0:1 | 0 | 1 | 
-| 2020-08-27 | 第45期棋聖戦Aリーグ | Adachi Toshimasa | Yu Zhengqi | B+R | 6.5 | 1:1 | 1 | 0 |
+| 2022-01-13 | 第60期十段戦準決勝 | Yu Zhengqi | Adachi Toshimasa | B+R | 6.5 | 1:1 | 0 | 1 | 
+| 2020-08-27 | 第45期棋聖戦Aリーグ | Adachi Toshimasa | Yu Zhengqi | B+R | 6.5 | 1:0 | 1 | 0 |
 
 
 

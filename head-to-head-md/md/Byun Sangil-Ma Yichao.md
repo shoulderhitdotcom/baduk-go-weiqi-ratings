@@ -1,0 +1,14 @@
+## Byun Sangil vs Ma Yichao Head to head
+
+[Back to ranking](../../index.md)
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Byun Sangil vs Ma Yichao** | **Byun Sangil streak** | **Ma Yichao streak** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦F1 | Ma Yichao | Byun Sangil | W+R | 6.5 | 1:0 | 1 | 0 |
+
+
+
+

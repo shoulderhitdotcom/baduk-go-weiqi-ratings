@@ -149,7 +149,7 @@ for name in names_to_update
             end
 
             if nrow(tmp) == 0
-                println("no games for " * name)
+                println("no games for $name so can't create individual game files")
                 continue
             end
 

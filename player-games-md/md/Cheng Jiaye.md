@@ -7,22 +7,22 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Gu Li | Cheng Jiaye | Win | W+R | 7.5 | 3325.0 | 106.0 | 
-| 2021-09-02 | 第12期中国竜星戦予選 | Wang Shuo | Cheng Jiaye | Lose | B+R | 7.5 | 3219.0 | -83.0 | 
-| 2021-09-01 | 第12期中国竜星戦予選 | Cheng Jiaye |  | Win | B+R | 7.5 | 3302.0 | 36.0 | 
-| 2021-08-30 | 第12期中国竜星戦予選 |  | Cheng Jiaye | Win | W+¼ | 7.5 | 3266.0 | 66.0 | 
-| 2021-08-27 | 第12期中国竜星戦予選 |  | Cheng Jiaye | Win | W+R | 7.5 | 3200.0 | 178.0 | 
-| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Sun Tengyu | Cheng Jiaye | Lose | B+R | 7.5 | 3022.0 | -45.0 | 
-| 2020-12-13 | 第22回中国囲碁甲級リーグ | Gu Zihao | Cheng Jiaye | Lose | B+R | 7.5 | 3067.0 | -18.0 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Cheng Jiaye | Li Chengsen | Lose | W+R | 7.5 | 3085.0 | -48.0 | 
-| 2020-12-11 | 第22回中国囲碁甲級リーグ | Shen Peiran | Cheng Jiaye | Win | W+R | 7.5 | 3133.0 | 28.0 | 
-| 2020-12-08 | 第22回中国囲碁甲級リーグ | Kang Dongyun | Cheng Jiaye | Lose | B+R | 7.5 | 3105.0 | -31.0 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Cheng Jiaye | Zhou Ruiyang | Win | B+R | 7.5 | 3136.0 | 3.0 | 
-| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Cheng Jiaye | Xie Ke | Lose | W+R | 7.5 | 3133.0 | -22.0 | 
-| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Cheng Jiaye | Ding Hao | Lose | W+R | 7.5 | 3155.0 | -27.0 | 
-| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Cheng Jiaye | Yang Dingxin | Lose | W+2¼ | 7.5 | 3182.0 | -27.0 | 
-| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Liao Yuanhe | Cheng Jiaye | Lose | B+1¾ | 7.5 | 3209.0 | -97.0 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Ke Jie | Cheng Jiaye | Lose | B+R | 7.5 | 3306.0 | -168.0 | 
+| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Gu Li | Cheng Jiaye | Win | W+R | 7.5 | 3327.0 | 106.0 | 
+| 2021-09-02 | 第12期中国竜星戦予選 | Wang Shuo | Cheng Jiaye | Lose | B+R | 7.5 | 3221.0 | -83.0 | 
+| 2021-09-01 | 第12期中国竜星戦予選 | Cheng Jiaye |  | Win | B+R | 7.5 | 3304.0 | 36.0 | 
+| 2021-08-30 | 第12期中国竜星戦予選 |  | Cheng Jiaye | Win | W+¼ | 7.5 | 3268.0 | 66.0 | 
+| 2021-08-27 | 第12期中国竜星戦予選 |  | Cheng Jiaye | Win | W+R | 7.5 | 3202.0 | 179.0 | 
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Sun Tengyu | Cheng Jiaye | Lose | B+R | 7.5 | 3023.0 | -45.0 | 
+| 2020-12-13 | 第22回中国囲碁甲級リーグ | Gu Zihao | Cheng Jiaye | Lose | B+R | 7.5 | 3068.0 | -18.0 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Cheng Jiaye | Li Chengsen | Lose | W+R | 7.5 | 3086.0 | -48.0 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Shen Peiran | Cheng Jiaye | Win | W+R | 7.5 | 3134.0 | 28.0 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Kang Dongyun | Cheng Jiaye | Lose | B+R | 7.5 | 3106.0 | -31.0 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Cheng Jiaye | Zhou Ruiyang | Win | B+R | 7.5 | 3137.0 | 3.0 | 
+| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Cheng Jiaye | Xie Ke | Lose | W+R | 7.5 | 3134.0 | -22.0 | 
+| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Cheng Jiaye | Ding Hao | Lose | W+R | 7.5 | 3156.0 | -27.0 | 
+| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Cheng Jiaye | Yang Dingxin | Lose | W+2¼ | 7.5 | 3183.0 | -27.0 | 
+| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Liao Yuanhe | Cheng Jiaye | Lose | B+1¾ | 7.5 | 3210.0 | -97.0 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Ke Jie | Cheng Jiaye | Lose | B+R | 7.5 | 3307.0 | -167.0 | 
 | 2020-05-15 | 第24期馬橋杯中国囲碁新人王戦準決勝 | Cheng Jiaye | Wang Xinghao | Lose | W+R | 7.5 | 3474.0 | -93.0 | 
 | 2020-05-14 | 第24期馬橋杯中国囲碁新人王戦3回戦 | Fu Jianheng | Cheng Jiaye | Win | W+R | 7.5 | 3567.0 | 47.0 | 
 | 2020-05-13 | 第24期馬橋杯中国囲碁新人王戦2回戦 | Cheng Jiaye | Zhou Hongyu | Win | B+¾ | 7.5 | 3520.0 | 17.0 | 

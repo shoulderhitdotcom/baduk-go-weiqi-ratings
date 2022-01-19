@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-19 | 第23回中国囲碁甲級リーグ優勝決定戦第1戦 | Jin Yucheng | Shin Jinseo | Win | W+1¼ | 7.5 | 3821.0 | 0.0 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Mi Yuting | Shin Jinseo | Win | W+R | 7.5 | 3821.0 | 0.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Shin Jinseo | Zhao Chenyu | Win | B+R | 7.5 | 3821.0 | 0.0 | 
 | 2022-01-13 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Park Jinsol | Win | B+R | 6.5 | 3821.0 | 0.0 | 

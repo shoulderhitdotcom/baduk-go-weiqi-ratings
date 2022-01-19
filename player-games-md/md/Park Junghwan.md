@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-19 | 第23回中国囲碁甲級リーグ3位決定戦第1戦 | Park Junghwan | Chen Xian | Win | B+2¾ | 7.5 | 3712.0 | 0.0 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Ding Hao | Park Junghwan | Lose | B+¾ | 7.5 | 3712.0 | -8.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Park Junghwan | Lose | B+¾ | 7.5 | 3720.0 | -8.0 | 
 | 2022-01-09 | 2021-2022韓国囲碁リーグ | Park Junghwan | Ahn Kukhyun | Win | B+R | 6.5 | 3728.0 | 22.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-19 | 第23回中国囲碁甲級リーグ5位決定戦第1戦 | Chen Haoxin | Peng Liyao | Win | W+R | 7.5 | 3571.0 | -3.0 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Peng Liyao | Xia Chenkun | Lose | W+R | 7.5 | 3574.0 | -7.0 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Lee Donghoon | Peng Liyao | Win | W+R | 7.5 | 3581.0 | 14.0 | 
 | 2022-01-05 | 第16回威孚房開杯棋王戦3回戦 | Peng Liyao | Li Qincheng | Lose | W+R | 7.5 | 3567.0 | -11.0 | 

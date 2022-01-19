@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-19 | 第23回中国囲碁甲級リーグ3位決定戦第1戦 | Huang Yunsong | Tu Xiaoyu | Lose | W+R | 7.5 | 3609.0 | -13.0 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Li Qincheng | Huang Yunsong | Win | W+R | 7.5 | 3622.0 | 6.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Li Qincheng | Win | B+1¾ | 7.5 | 3616.0 | 10.0 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Fan Yin | Huang Yunsong | Win | W+R | 7.5 | 3606.0 | 9.0 | 

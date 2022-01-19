@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-19 | 第23回中国囲碁甲級リーグ3位決定戦第1戦 | Dang Yifei | Zhao Chenyu | Win | B+R | 7.5 | 3599.0 | 5.0 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Lee Donghoon | Dang Yifei | Win | W+R | 7.5 | 3594.0 | 8.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Dang Yifei | Lee Donghoon | Lose | W+1¼ | 7.5 | 3586.0 | 9.0 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Dang Yifei | Ding Hao | Lose | W+R | 7.5 | 3577.0 | -4.0 | 

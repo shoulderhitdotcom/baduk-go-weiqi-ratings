@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-19 | 第23回中国囲碁甲級リーグ3位決定戦第1戦 | Mi Yuting | Liao Yuanhe | Lose | B+R | 7.5 | 3612.0 | -17.0 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Liao Yuanhe | Jin Yucheng | Lose | W+¼ | 7.5 | 3629.0 | -14.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Liao Yuanhe | Ding Hao | Lose | W+R | 7.5 | 3643.0 | 11.0 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Liao Yuanhe | Tong Mengcheng | Lose | W+¼ | 7.5 | 3632.0 | -11.0 | 

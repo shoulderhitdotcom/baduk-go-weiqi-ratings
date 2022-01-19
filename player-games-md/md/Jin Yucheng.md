@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-19 | 第23回中国囲碁甲級リーグ優勝決定戦第1戦 | Jin Yucheng | Shin Jinseo | Lose | W+1¼ | 7.5 | 3566.0 | -15.0 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Liao Yuanhe | Jin Yucheng | Win | W+¼ | 7.5 | 3581.0 | 19.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Park Junghwan | Win | B+¾ | 7.5 | 3562.0 | 40.0 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Yang Kaiwen | Jin Yucheng | Lose | B+R | 7.5 | 3522.0 | -19.0 | 

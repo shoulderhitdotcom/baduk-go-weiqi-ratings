@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-19 | 第23回中国囲碁甲級リーグ優勝決定戦第1戦 | Ding Hao | Li Qincheng | Lose | B+¾ | 7.5 | 3616.0 | -13.0 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Li Qincheng | Huang Yunsong | Lose | W+R | 7.5 | 3629.0 | -14.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Huang Yunsong | Li Qincheng | Lose | B+1¾ | 7.5 | 3643.0 | 6.0 | 
 | 2022-01-06 | 第16回威孚房開杯棋王戦準決勝 | Yang Kaiwen | Li Qincheng | Lose | B+R | 7.5 | 3637.0 | -15.0 | 

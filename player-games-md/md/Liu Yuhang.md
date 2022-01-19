@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-19 | 第23回中国囲碁甲級リーグ5位決定戦第1戦 | Yang Kaiwen | Liu Yuhang | Lose | B+R | 7.5 | 3427.0 | -22.0 | 
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Liu Yuhang | Chen Xian | Lose | W+R | 7.5 | 3449.0 | 13.0 | 
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Yang Dingxin | Liu Yuhang | Lose | B+R | 7.5 | 3436.0 | 13.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Liu Yuhang | Lose | B+R | 7.5 | 3423.0 | -27.0 | 

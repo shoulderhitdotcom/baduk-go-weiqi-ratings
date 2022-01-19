@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-19 | 第23回中国囲碁甲級リーグ優勝決定戦第1戦 | Xie Ke | Lee Donghoon | Win | W+R | 7.5 | 3592.0 | 4.0 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Lee Donghoon | Dang Yifei | Lose | W+R | 7.5 | 3588.0 | -9.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Dang Yifei | Lee Donghoon | Win | W+1¼ | 7.5 | 3597.0 | 0.0 | 
 | 2022-01-16 | 2021-2022韓国囲碁リーグ | Shin Jaeweon | Lee Donghoon | Win | W+R | 6.5 | 3597.0 | 2.0 | 

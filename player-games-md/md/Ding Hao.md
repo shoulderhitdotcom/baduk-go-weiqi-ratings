@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-19 | 第23回中国囲碁甲級リーグ優勝決定戦第1戦 | Ding Hao | Li Qincheng | Win | B+¾ | 7.5 | 3770.0 | -2.0 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Ding Hao | Park Junghwan | Win | B+¾ | 7.5 | 3772.0 | 6.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Liao Yuanhe | Ding Hao | Win | W+R | 7.5 | 3766.0 | 3.0 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Ding Hao | Gu Zihao | Win | B+R | 7.5 | 3763.0 | 15.0 | 

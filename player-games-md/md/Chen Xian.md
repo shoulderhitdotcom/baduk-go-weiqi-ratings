@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-19 | 第23回中国囲碁甲級リーグ3位決定戦第1戦 | Park Junghwan | Chen Xian | Lose | B+2¾ | 7.5 | 3443.0 | -15.0 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Lian Xiao | Chen Xian | Lose | B+R | 7.5 | 3458.0 | -11.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Lian Xiao | Chen Xian | Lose | B+R | 7.5 | 3469.0 | -10.0 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Chen Haoxin | Chen Xian | Lose | B+R | 7.5 | 3479.0 | -5.0 | 

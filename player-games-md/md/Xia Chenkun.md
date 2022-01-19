@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-19 | 第23回中国囲碁甲級リーグ優勝決定戦第1戦 | Lian Xiao | Xia Chenkun | Lose | B+R | 7.5 | 3451.0 | -17.0 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Tu Xiaoyu | Xia Chenkun | Lose | B+R | 7.5 | 3468.0 | -14.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Tu Xiaoyu | Lose | W+R | 7.5 | 3482.0 | -12.0 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Peng Liyao | Xia Chenkun | Win | W+R | 7.5 | 3494.0 | 22.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-19 | 第23回中国囲碁甲級リーグ5位決定戦第1戦 | Chen Haoxin | Peng Liyao | Lose | W+R | 7.5 | 3536.0 | -34.0 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Chen Haoxin | Chen Xian | Win | B+R | 7.5 | 3570.0 | 113.0 | 
 | 2021-10-14 | 第12期中国竜星戦準決勝 | Chen Haoxin | Gu Zihao | Lose | W+R | 7.5 | 3457.0 | -19.0 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Chen Haoxin | Win | W+¼ | 7.5 | 3476.0 | 20.0 | 

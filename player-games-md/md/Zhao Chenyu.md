@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-19 | 第23回中国囲碁甲級リーグ3位決定戦第1戦 | Dang Yifei | Zhao Chenyu | Lose | B+R | 7.5 | 3572.0 | -16.0 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Zhao Chenyu | Xie Ke | Lose | W+R | 7.5 | 3588.0 | -12.0 | 
 | 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Shin Jinseo | Zhao Chenyu | Lose | B+R | 7.5 | 3600.0 | -4.0 | 
 | 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Zhao Chenyu | Byun Sangil | Win | B+R | 7.5 | 3604.0 | 19.0 | 

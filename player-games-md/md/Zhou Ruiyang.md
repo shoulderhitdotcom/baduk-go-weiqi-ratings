@@ -5,924 +5,452 @@
 
 
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Zhou Ruiyang Ratings⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀             
-               ⡤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⢤             
-          3800 ⡇⠀⡶⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸ Zhou Ruiyang
-               ⡇⣄⡇⣧⣀⣤⣷⣰⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸             
-               ⡇⣿⠀⣿⣿⢿⠀⠋⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸             
-               ⡇⠘⠀⣿⡇⠘⠀⠀⣿⠀⠀⠀⠀⣸⡄⢀⣆⠀⠀⡿⡄⡀⠀⠀⠀⠀⢠⠀⠀⠀⢠⠻⡀⠀⠀⠀⠀⠀⠀⠀⠀⢸             
-               ⡇⠀⠀⠃⠇⠀⠀⠀⢹⢰⣆⠀⣴⠛⢧⠞⢹⠦⢿⠁⢻⡷⣆⠀⢀⡀⡜⡇⠀⣠⡼⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⢸             
-               ⡇⠀⠀⠀⠀⠀⠀⠀⠈⣾⠈⠙⠏⠀⠀⠀⠸⠀⠀⠀⠘⠀⢿⢇⢸⠱⠃⡿⢻⠟⠁⠀⢱⠀⠀⠀⠀⠀⠀⠀⠀⢸             
-               ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠸⠃⠀⠀⠃⠀⠀⠀⠀⠀⢇⠀⠀⠀⠀⠀⠀⠀⢸             
-   Rating      ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡀⠀⠀⠀⠀⣦⢀⢸             
-               ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢣⠀⠀⠀⠀⣿⢸⢸             
-               ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡆⠀⠀⢀⠟⠁⢸             
-               ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⡞⠀⠀⢸             
-               ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⠀⠀⡇⠀⠀⢸             
-               ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡀⡰⠃⠀⠀⢸             
-               ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡏⠀⠀⠀⠀⢸             
-          3100 ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⢸             
-               ⠓⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠚             
-               ⠀2012-09-28⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀2022-01-12⠀             
-               ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Date⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
-
-
-
-
-
-
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result*
-* | **Komi** | **Rating** | **Diff** | 
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Zhou Ruiyang | Win | W+R 
-| 7.5 | 3427.0 | 25.0 | 
-| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Zhou Ruiyang | Ding Hao | Lose | W+R | 
-7.5 | 3402.0 | 40.0 | 
-| 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Chen Yunong | Lose | W+R | 7.
-5 | 3362.0 | -16.0 | 
-| 2021-09-29 | 第23回中国囲碁甲級リーグ | Kang Dongyun | Zhou Ruiyang | Lose | B+¾ | 7
-.5 | 3378.0 | -18.0 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Meng Tailing | Lose | W+R | 7
-.5 | 3396.0 | -17.0 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Zhao Chenyu | Lose | W+R | 7.
-5 | 3413.0 | -7.0 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Xie Ke | Zhou Ruiyang | Lose | B+R | 7.5 | 3
-420.0 | -19.0 | 
-| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zhou Ruiyang | Tan Xiao | Lose | W+R
- | 7.5 | 3439.0 | -5.0 | 
-| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zhou Ruiyang |  | Win | B+R | 7.5 | 
-3444.0 | 2.0 | 
-| 2021-09-03 | 第12期中国竜星戦予選 | Zhou Ruiyang | Huang Yunsong | Lose | W+¼ | 7.
-5 | 3442.0 | -12.0 | 
-| 2021-09-02 | 第12期中国竜星戦予選 | Zhou Ruiyang | Li Xuanhao | Win | B+R | 7.5 | 
-3454.0 | 34.0 | 
-| 2021-08-31 | 第12期中国竜星戦予選 | Tang Weixing | Zhou Ruiyang | Win | W+2¼ | 7.5
- | 3420.0 | 67.0 | 
-| 2021-07-30 | 第16回威孚房開杯棋王戦2回戦 | Zhou Ruiyang | Tong Mengcheng | Lose | W+R
- | 7.5 | 3353.0 | 1.0 | 
-| 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Li Weiqing | Zhou Ruiyang | Win | W+R | 7.
-5 | 3352.0 | 38.0 | 
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Zhou Ruiyang | Lose | B+R | 7.
-5 | 3314.0 | -1.0 | 
-| 2021-06-11 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Fan Yin | Win | B+1¾ | 7.5 | 
-3315.0 | 26.0 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Zhou Ruiyang | Win | W+R | 7.
-5 | 3289.0 | 15.0 | 
-| 2021-06-08 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Wang Zejin | Lose | W+R | 7.5
- | 3274.0 | -24.0 | 
-| 2021-06-07 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Shi Yue | Win | B+R | 7.5 | 3
-298.0 | 32.0 | 
-| 2021-05-12 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Xu Jiayang | Lose | W+R | 7.5
- | 3266.0 | 19.0 | 
-| 2021-05-11 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Zhou Hexi | Win | B+R | 7.5 |
- 3247.0 | 18.0 | 
-| 2021-05-10 | 第23回中国囲碁甲級リーグ | Zheng Xu | Zhou Ruiyang | Win | W+¼ | 7.5 | 
-3229.0 | 6.0 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Tan Xiao | Lose | W+R | 7.5 |
- 3223.0 | -5.0 | 
-| 2021-04-20 | 第17回倡棋杯中国プロ囲碁選手権戦2回戦 | Huang Yunsong | Zhou Ruiyang | Lose |
- B+5¾ | 7.5 | 3228.0 | 39.0 | 
-| 2021-01-28 | 第35期中国囲碁天元戦1回戦 | Zhou Ruiyang | Zhao Chenyu | Lose | W+1¼ | 
-7.5 | 3189.0 | -7.0 | 
-| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Dang Yifei | Zhou Ruiyang | Lose | B+R 
-| 7.5 | 3196.0 | 39.0 | 
-| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Zhou Ruiyang | Huang Yunsong | Lose | W
-+R | 7.5 | 3157.0 | -23.0 | 
-| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Zhou Ruiyang | Chen Xian | Lose | W+R |
- 7.5 | 3180.0 | -1.0 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Li Xiangyu | Lose | W+¼ | 7.5
- | 3181.0 | -20.0 | 
-| 2020-12-11 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Tang Weixing | Lose | W+R | 7
-.5 | 3201.0 | 12.0 | 
-| 2020-12-09 | 第22回中国囲碁甲級リーグ | Gu Lingyi | Zhou Ruiyang | Win | W+R | 7.5 |
- 3189.0 | 41.0 | 
-| 2020-12-08 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Chen Zijian | Win | B+¾ | 7.5
- | 3148.0 | 10.0 | 
-| 2020-12-07 | 第22回中国囲碁甲級リーグ | Cheng Jiaye | Zhou Ruiyang | Lose | B+R | 7.
-5 | 3138.0 | -41.0 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Xu Jiayang | Win | B+R | 7.5 
-| 3179.0 | -7.0 | 
-| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Zhou Ruiyang | Xu Jiayang | Lose | W+R
- | 7.5 | 3186.0 | -114.0 | 
-| 2020-09-22 | 2020CCTV杯中国囲棋電視快棋戦3回戦 | Zhou Ruiyang | Lian Xiao | Lose | W+
-R | 7.5 | 3300.0 | -12.0 | 
-| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦2回戦 | Zhou Ruiyang | Meng Tailing | Win | 
-B+R | 7.5 | 3312.0 | 0.0 | 
-| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Peng Liyao | Zhou Ruiyang | Win | W+
-¼ | 7.5 | 3312.0 | 72.0 | 
-| 2020-09-15 | 第25回三星火災杯中国一般枠予選 | Zhou Ruiyang | Mi Yuting | Lose | W+1.5 |
- 6.5 | 3240.0 | -11.0 | 
-| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Li Chengsen | Zhou Ruiyang | Lose | B+R |
- 7.5 | 3251.0 | -35.0 | 
-| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Zhou Ruiyang | Tao Xinran | Lose | W+R | 
-7.5 | 3286.0 | -18.0 | 
-| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Tu Xiaoyu | Zhou Ruiyang | Lose | B+R | 7
-.5 | 3304.0 | -40.0 | 
-| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Wang Xinghao | Zhou Ruiyang | Win | W+R |
- 7.5 | 3344.0 | 26.0 | 
-| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Zhou Ruiyang | Li Qincheng | Lose | W+R |
- 7.5 | 3318.0 | -49.0 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Wu Guangya | Zhou Ruiyang | Win | W+R | 7
-.5 | 3367.0 | -210.0 | 
-| 2020-01-05 | 第34期中国囲碁天元戦予選 | Huang Yunsong | Zhou Ruiyang | Lose | B+R | 
-7.5 | 3577.0 | -38.0 | 
-| 2019-12-15 | 第11期中国竜星戦予選 | Zhou Ruiyang | Fan Yin | Lose | W+R | 7.5 | 36
-15.0 | -25.0 | 
-| 2019-11-18 | 第4回全国智力運動会男子団体戦第9戦 | Li Xuanhao | Zhou Ruiyang | Win | W+R |
- 7.5 | 3640.0 | 7.0 | 
-| 2019-11-17 | 第4回全国智力運動会男子団体戦第8戦 | Zhou Ruiyang | Xie Ke | Lose | W+R | 7.
-5 | 3633.0 | 0.0 | 
-| 2019-11-17 | 第4回全国智力運動会男子団体戦第7戦 | Gu Lingyi | Zhou Ruiyang | Win | W+R | 
-7.5 | 3633.0 | -14.0 | 
-| 2019-11-16 | 第4回全国智力運動会男子団体戦第5戦 | Zhou Ruiyang |  | Win | B+R | 7.5 | 364
-7.0 | -5.0 | 
-| 2019-11-14 | 第4回全国智力運動会男子団体戦第1戦 | Zhou Ruiyang | Xu Jiayang | Lose | W+R 
-| 7.5 | 3652.0 | -5.0 | 
-| 2019-11-06 | 第21回中国囲碁甲級リーグプレーオフ3回戦第2戦 | Zhou Ruiyang | Tuo Jiaxi | Lose |
- W+R | 7.5 | 3657.0 | -15.0 | 
-| 2019-11-04 | 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 | Han Yizhou | Zhou Ruiyang | Win |
- W+R | 7.5 | 3672.0 | 3.0 | 
-| 2019-10-24 | 第16期倡棋杯中国プロ囲棋選手権戦本戦決勝三番勝負第2局 | Zhou Ruiyang | Ke Jie | Lose 
-| W+R | 7.5 | 3669.0 | -5.0 | 
-| 2019-10-22 | 第16期倡棋杯中国プロ囲棋選手権戦本戦決勝三番勝負第1局 | Ke Jie | Zhou Ruiyang | Lose 
-| B+1 | 7.5 | 3674.0 | 71.0 | 
-| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Zhou Ruiyang | Ke Jie | Lose | W+R | 7.5
- | 3603.0 | 13.0 | 
-| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Shi Yue | Zhou Ruiyang | Lose | B+R | 7.
-5 | 3590.0 | -3.0 | 
-| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Zhou Ruiyang | Ding Hao | Lose | W+R | 7
-.5 | 3593.0 | -11.0 | 
-| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Kim Jiseok | Zhou Ruiyang | Win | W+R | 
-7.5 | 3604.0 | 35.0 | 
-| 2019-08-01 | 第21回農心杯中国選抜戦 | Fan Yunruo | Zhou Ruiyang | Win | W+R | 6.5 |
- 3569.0 | 9.0 | 
-| 2019-07-31 | 第21回農心杯中国選抜戦 | Mi Yuting | Zhou Ruiyang | Lose | B+R | 6.5 |
- 3560.0 | -9.0 | 
-| 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Zhou Ruiyang | Tang Weixing | Win | B+R 
-| 7.5 | 3569.0 | -10.0 | 
-| 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Yang Dingxin | Zhou Ruiyang | Lose | B+¾
- | 7.5 | 3579.0 | -11.0 | 
-| 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Zhou Ruiyang | Jiang Weijie | Win | B+2¾ 
-| 7.5 | 3590.0 | 9.0 | 
-| 2019-07-09 | 第16期倡棋杯中国プロ囲棋選手権戦本戦準決勝三番勝負第2局 | Shi Yue | Zhou Ruiyang | Win
- | W+R | 7.5 | 3581.0 | 9.0 | 
-| 2019-07-03 | 第24回三星火災杯統合予選3回戦 | Zhou Ruiyang | Park Jinsol | Lose | W+R |
- 6.5 | 3572.0 | -14.0 | 
-| 2019-06-20 | 第16期倡棋杯中国プロ囲棋選手権戦本戦準決勝三番勝負第1局 | Zhou Ruiyang | Shi Yue | Win
- | B+R | 7.5 | 3586.0 | 1.0 | 
-| 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Zhou Ruiyang | Shin Jinseo | Win | B+R | 
-7.5 | 3585.0 | 23.0 | 
-| 2019-06-06 | 第21期阿含・桐山杯中国早碁オープン戦予選1回戦 |  | Zhou Ruiyang | Win | W+R | 7.5
- | 3562.0 | 2.0 | 
-| 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Zhou Ruiyang | Fan Yunruo | Lose | W+R | 
-7.5 | 3560.0 | 8.0 | 
-| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Rong Yi | Zhou Ruiyang | Win | W+R | 7.5 
-| 3552.0 | -15.0 | 
-| 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Zhou Ruiyang | Park Junghwan | Win | B+¾ 
-| 7.5 | 3567.0 | 8.0 | 
-| 2019-05-08 | 嫘祖杯第32期中国囲棋名人戦32強戦 | Zhou Ruiyang | Chen Yaoye | Lose | W+R 
-| 7.5 | 3559.0 | -6.0 | 
-| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Chen Yaoye | Zhou Ruiyang | Lose | B+R | 
-7.5 | 3565.0 | 4.0 | 
-| 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Zhou Ruiyang | Gu Zihao | Win | B+R | 7.5
- | 3561.0 | -3.0 | 
-| 2019-04-23 | 第16期倡棋杯中国プロ囲棋選手権戦本戦3回戦 | Chen Yaoye | Zhou Ruiyang | Win | W
-+1¼ | 7.5 | 3564.0 | 10.0 | 
-| 2019-04-21 | 第16期倡棋杯中国プロ囲棋選手権戦本戦2回戦 | Fan Tingyu | Zhou Ruiyang | Win | W
-+R | 7.5 | 3554.0 | 17.0 | 
-| 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Meng Tailing | Zhou Ruiyang | Win | W+R |
- 7.5 | 3537.0 | 0.0 | 
-| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節江蘇-拉薩 | Huang Yunsong | Zhou Ruiyang | Win |
- W+R | 7.5 | 3537.0 | 14.0 | 
-| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Zhou Ruiyang | Gu Li | Lose | W+R | 
-7.5 | 3523.0 | -19.0 | 
-| 2019-03-23 | 第18回西南棋王戦1回戦 | Dang Yifei | Zhou Ruiyang | Lose | B+R | 7.5 
-| 3542.0 | -23.0 | 
-| 2019-03-07 | 第10期中国竜星戦予選 | Zhou Ruiyang | Ding Shixiong | Lose | W+R | 7.
-5 | 3565.0 | 4.0 | 
-| 2019-02-25 | 第4期洛陽白雲山杯中国棋聖戦本戦1回戦 | Xu Jiayang | Zhou Ruiyang | Lose | B+R
- | 7.5 | 3561.0 | 4.0 | 
-| 2019-01-24 | 第3回ワールド碁チャンピオンシップ国際予選1回戦 | Zhou Ruiyang | Hsu Chiayuan | Win
- | B+R | 6.5 | 3557.0 | 7.0 | 
-| 2019-01-06 | 第33期中国囲碁天元戦2回戦 | Zhou Ruiyang | Fan Yunruo | Lose | W+2.5 | 
-7.5 | 3550.0 | -6.0 | 
-| 2019-01-04 | 第33期中国囲碁天元戦1回戦 | Meng Tailing | Zhou Ruiyang | Win | W+R | 7
-.5 | 3556.0 | 10.0 | 
-| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節重慶-廈門 | Li Xuanhao | Zhou Ruiyang | Win | W
-+R | 7.5 | 3546.0 | 10.0 | 
-| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節廈門-中信 | Zhou Ruiyang | Han Yizhou | Win | B
-+R | 7.5 | 3536.0 | 14.0 | 
-| 2018-11-16 | 第20回中国囲碁甲級リーグ第24節天津-廈門 | Meng Tailing | Zhou Ruiyang | Win |
- W+R | 7.5 | 3522.0 | 10.0 | 
-| 2018-11-14 | 第3回洛陽白雲山杯中国棋聖戦挑戦手合三番勝負第3局 | Zhou Ruiyang | Lian Xiao | Lose 
-| W+R | 7.5 | 3512.0 | -4.0 | 
-| 2018-11-13 | 第3回洛陽白雲山杯中国棋聖戦挑戦手合三番勝負第2局  | Zhou Ruiyang | Lian Xiao | Lose
- | W+R | 7.5 | 3516.0 | -15.0 | 
-| 2018-11-11 | 第3回洛陽白雲山杯中国棋聖戦挑戦手合三番勝負第1局 | Lian Xiao | Zhou Ruiyang | Win |
- W+R | 7.5 | 3531.0 | 24.0 | 
-| 2018-11-09 | 第20回中国囲碁甲級リーグ第23節廈門-杭州 | Zhou Ruiyang | Xia Chenkun | Win | 
-B+R | 7.5 | 3507.0 | 1.0 | 
-| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節廈門-上海 | Zhou Ruiyang | Li Weiqing | Lose | 
-W+1¼ | 7.5 | 3506.0 | -43.0 | 
-| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節山東-廈門 | Yi Lingtao | Zhou Ruiyang | Lose | 
-B+R | 7.5 | 3549.0 | -12.0 | 
-| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節廈門-衢州 | Zhou Ruiyang | Ding Shixiong | Win 
-| B+¾ | 7.5 | 3561.0 | -45.0 | 
-| 2018-10-13 | 第14期威孚房開杯棋王戦32強戦 | Chen Yaoye | Zhou Ruiyang | Lose | B+R | 
-7.5 | 3606.0 | -14.0 | 
-| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節民生-廈門 | Shi Yue | Zhou Ruiyang | Lose | B+R
- | 7.5 | 3620.0 | -9.0 | 
-| 2018-10-08 | 第20回中国囲碁甲級リーグ第18節廈門-蘇泊爾 | Zhou Ruiyang | Lian Xiao | Lose | 
-W+R | 7.5 | 3629.0 | 1.0 | 
-| 2018-09-28 | 第20回中国囲碁甲級リーグ第17節江蘇-廈門 | Huang Yunsong | Zhou Ruiyang | Win 
-| W+R | 7.5 | 3628.0 | 27.0 | 
-| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節廈門-浙江 | Zhou Ruiyang | Zhou Hexi | Win | B+
-R | 7.5 | 3601.0 | 1.0 | 
-| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節江西-廈門 | Byun Sangil | Zhou Ruiyang | Win | 
-W+R | 7.5 | 3600.0 | 8.0 | 
-| 2018-09-08 | 第20回中国囲碁甲級リーグ第14節廈門-成都 | Zhou Ruiyang | Choi Cheolhan | Win 
-| B+R | 7.5 | 3592.0 | 28.0 | 
-| 2018-08-15 | 第20回中国囲碁甲級リーグ第13節廈門-重慶 | Zhou Ruiyang | Gu Li | Win | B+R | 
-7.5 | 3564.0 | 5.0 | 
-| 2018-08-13 | 第20回中国囲碁甲級リーグ第12節中信-廈門 | Han Yizhou | Zhou Ruiyang | Win | W
-+R | 7.5 | 3559.0 | 22.0 | 
-| 2018-07-18 | 第20期阿含・桐山杯中国早碁オープン戦16強戦 | Zhou Ruiyang | Tang Weixing | Lose
- | W+R | 7.5 | 3537.0 | -15.0 | 
-| 2018-07-16 | 第20回中国囲碁甲級リーグ第10節杭州-廈門 | Zhou Ruiyang | Xia Chenkun | Lose |
- W+1¼ | 7.5 | 3552.0 | 1.0 | 
-| 2018-07-03 | 第23回三星火災杯統合予選2回戦 | Zhou Ruiyang | Cho Hanseung | Win | B+R |
- 6.5 | 3551.0 | 18.0 | 
-| 2018-06-29 | 第20期阿含・桐山杯中国早碁オープン戦本選決勝 | Wang Shuo | Zhou Ruiyang | Win | W
-+R | 7.5 | 3533.0 | -6.0 | 
-| 2018-06-25 | 第20回中国囲碁甲級リーグ第9節上海-廈門 | Lee Yeongkyu | Zhou Ruiyang | Lose |
- B+R | 7.5 | 3539.0 | -19.0 | 
-| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節廈門-山東 | Zhou Ruiyang | Chen Zijian | Lose | 
-W+R | 7.5 | 3558.0 | -4.0 | 
-| 2018-05-21 | 第20回中国囲碁甲級リーグ第7節衢州-廈門 | Ding Shixiong | Zhou Ruiyang | Win |
- W+R | 7.5 | 3562.0 | 6.0 | 
-| 2018-05-16 | 嫘祖杯第31回中国囲棋名人戦32強戦 | Zhou Ruiyang | Xie Ke | Lose | W+R | 7.
-5 | 3556.0 | -4.0 | 
-| 2018-05-14 | 第20回中国囲碁甲級リーグ第6節廈門-民生 | Zhou Ruiyang | Kim Jiseok | Lose | W
-+T | 7.5 | 3560.0 | -2.0 | 
-| 2018-05-11 | 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Mi Yuting | Zhou Ruiyang | Lose | B+R 
-| 7.5 | 3562.0 | 3.0 | 
-| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節蘇泊爾-廈門 | Li Qincheng | Zhou Ruiyang | Win | 
-W+R | 7.5 | 3559.0 | -17.0 | 
-| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節廈門-江蘇 | Zhou Ruiyang | Huang Yunsong | Win |
- B+R | 7.5 | 3576.0 | 27.0 | 
-| 2018-04-12 | 2018CCTV杯中国囲棋電視快棋戦準決勝 | Zhou Ruiyang | Fan Yunruo | Lose | W
-+R | 7.5 | 3549.0 | -4.0 | 
-| 2018-04-11 | 2018CCTV杯中国囲棋電視快棋戦4回戦 | Zhou Ruiyang | Xie Erhao | Win | B+R
- | 7.5 | 3553.0 | 6.0 | 
-| 2018-04-10 | 2018CCTV杯中国囲棋電視快棋戦3回戦 | Zhou Ruiyang | Xia Chenkun | Win | B
-+R | 7.5 | 3547.0 | 9.0 | 
-| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦2回戦 | Zhou Ruiyang | Yang Kaiwen | Win | B
-+R | 7.5 | 3538.0 | 0.0 | 
-| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Wang Haoyang | Zhou Ruiyang | Win | 
-W+R | 7.5 | 3538.0 | 10.0 | 
-| 2018-04-07 | 第23回LG杯予選決勝 | Zhou Ruiyang | Yu Bin | Lose | W+R | 6.5 | 352
-8.0 | -8.0 | 
-| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節浙江-廈門 | Zhou Ruiyang | Li Zhe | Lose | W+R |
- 7.5 | 3536.0 | -5.0 | 
-| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節廈門-江西 | Yang Kaiwen | Zhou Ruiyang | Win | W
-+R | 7.5 | 3541.0 | 1.0 | 
-| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節成都-廈門 | Ma Yichao | Zhou Ruiyang | Win | W+R
- | 7.5 | 3540.0 | 26.0 | 
-| 2018-03-05 | 第9期中国竜星戦予選 |  | Zhou Ruiyang | Lose | B+¾ | 7.5 | 3514.0 | 2
-2.0 | 
-| 2018-01-27 | 第32期中国囲碁天元戦3回戦 | Zhou Ruiyang | Zhang Tao | Lose | W+R | 7.5
- | 3492.0 | -2.0 | 
-| 2018-01-25 | 第32期中国囲碁天元戦2回戦 | Fan Yin | Zhou Ruiyang | Win | W+R | 7.5 | 
-3494.0 | 5.0 | 
-| 2018-01-23 | 第32期中国囲碁天元戦1回戦 | Zhou Ruiyang | Wu Guangya | Win | B+R | 7.5
- | 3489.0 | -65.0 | 
-| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Zhou Ruiyang | Kang Dongyun | Lose | W+¼
- | 7.5 | 3554.0 | 4.0 | 
-| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Tao Xinran | Zhou Ruiyang | Win | W+¼ | 
-7.5 | 3550.0 | -2.0 | 
-| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Han Yizhou | Zhou Ruiyang | Win | W+R | 
-7.5 | 3552.0 | -9.0 | 
-| 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Zhou Ruiyang |  | Lose | W+R | 7.5 | 356
-1.0 | -9.0 | 
-| 2017-11-03 | 2017寧波杭州湾方太杯世界戦優勝者招待戦決勝 | Jiang Weijie | Zhou Ruiyang | Win 
-| W+R | 7.5 | 3570.0 | 4.0 | 
-| 2017-11-02 | 2017寧波杭州湾方太杯世界戦優勝者招待戦準決勝 | Zhou Ruiyang | Shi Yue | Win | B+
-R | 7.5 | 3566.0 | 0.0 | 
-| 2017-11-02 | 2017寧波杭州湾方太杯世界戦優勝者招待戦8強戦 | Zhou Ruiyang | Chen Yaoye | Win |
- B+0.5 | 7.5 | 3566.0 | 12.0 | 
-| 2017-10-30 | 第19回中国囲碁甲級リーグ第22節 | Park Yeonghun | Zhou Ruiyang | Win | W+R
- | 7.5 | 3554.0 | -5.0 | 
-| 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Gu Li | Zhou Ruiyang | Win | W+R | 7.5 |
- 3559.0 | -8.0 | 
-| 2017-10-26 | 2017華山国際囲碁大会決勝戦 | Ke Jie | Zhou Ruiyang | Win | W+R | 7.5 | 
-3567.0 | 7.0 | 
-| 2017-10-25 | 2017華山国際囲碁大会準決勝 | Zhou Ruiyang | Kono Rin | Win | B+R | 7.5 
-| 3560.0 | 21.0 | 
-| 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Zhou Ruiyang | Xie Ke | Win | B+5.5 | 7.
-5 | 3539.0 | 25.0 | 
-| 2017-10-10 | 第13期威孚房開杯棋王戦32強戦 | Zhou Ruiyang | Tao Xinran | Lose | W+0.5 
-| 7.5 | 3514.0 | -1.0 | 
-| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Peng Quan | Zhou Ruiyang | Win | W+0.5 |
- 7.5 | 3515.0 | -38.0 | 
-| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Zhou Ruiyang | Sun Tengyu | Lose | W+R |
- 7.5 | 3553.0 | 15.0 | 
-| 2017-09-21 | 第19回農心辛ラーメン杯世界囲碁最強戦第3戦 | Shin Minjun | Zhou Ruiyang | Lose |
- B+R | 6.5 | 3538.0 | -6.0 | 
-| 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Xie Erhao | Zhou Ruiyang | Lose | B+R | 
-7.5 | 3544.0 | -36.0 | 
-| 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Zhou Ruiyang | Tong Mengcheng | Lose | W
-+R | 7.5 | 3580.0 | -9.0 | 
-| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Zhou Ruiyang | Liao Xingwen | Lose | W+R
- | 7.5 | 3589.0 | -11.0 | 
-| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Fan Yunruo | Zhou Ruiyang | Lose | B+R |
- 7.5 | 3600.0 | 20.0 | 
-| 2017-08-17 | 第19回中国阿含桐山杯準決勝 | Zhou Ruiyang | Ke Jie | Lose | W+2.5 | 7.5 
-| 3580.0 | -7.0 | 
-| 2017-08-14 | 中国浙江平湖当湖十局杯CCTV64強 | Ding Hao | Zhou Ruiyang | Lose | B+R | 
-7.5 | 3587.0 | 8.0 | 
-| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Niu Yutian | Zhou Ruiyang | Lose | B+R |
- 7.5 | 3579.0 | -12.0 | 
-| 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Zhou Ruiyang | Peng Liyao | Win | B+R | 
-7.5 | 3591.0 | -7.0 | 
-| 2017-08-03 | 嫘祖杯30回中国名人戦32強戦 | Zhou Ruiyang | Li Xuanhao | Lose | W+0.5 |
- 7.5 | 3598.0 | 5.0 | 
-| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 |  | Zhou Ruiyang | Win | W+R | 7.5 | 3593
-.0 | -4.0 | 
-| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Zhou Ruiyang | Li Xiangyu | Win | B+R | 
-7.5 | 3597.0 | 13.0 | 
-| 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | An Dongxu | Zhou Ruiyang | Lose | B+R | 7
-.5 | 3584.0 | -15.0 | 
-| 2017-07-06 | 19回中国阿含桐山杯快棋8強戦 | Mi Yuting | Zhou Ruiyang | Win | W+0.5 | 7
-.5 | 3599.0 | 6.0 | 
-| 2017-07-05 | 19回中国阿含桐山杯快棋16強戦 | Zhou Ruiyang | Zhao Chenyu | Win | B+R | 
-7.5 | 3593.0 | 3.0 | 
-| 2017-07-03 | 第22回三星火災杯統合予選決勝 | Zhou Ruiyang | Lee Donghoon | Lose | W+R |
- 6.5 | 3590.0 | -3.0 | 
-| 2017-06-28 | 第22回三星火災杯統合予選1回戦 | Zhou Ruiyang | Han Seungjoo | Win | B+R |
- 6.5 | 3593.0 | -6.0 | 
-| 2017-06-21 | 第3回夢百合杯世界オープン戦2回戦 | Zhou Ruiyang | Park Junghwan | Lose | W+
-0.5 | 7.5 | 3599.0 | 3.0 | 
-| 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Ma Yichao | Zhou Ruiyang | Win | W+R | 7
-.5 | 3596.0 | 18.0 | 
-| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Yang Dingxin | Zhou Ruiyang | Win | W+R |
- 7.5 | 3578.0 | -18.0 | 
-| 2017-06-12 | 第1回巔峰夢想拉薩交通産業集団ラリー戦b6 | Zhou Ruiyang | Mi Yuting | Lose | W+
-R | 7.5 | 3596.0 | -2.0 | 
-| 2017-06-10 | 第1回巔峰夢想拉薩交通産業集団ラリー戦b5 | Tuo Jiaxi | Zhou Ruiyang | Win | W+R
- | 7.5 | 3598.0 | 5.0 | 
-| 2017-06-08 | 第1回巔峰夢想拉薩交通産業集団ラリー戦b3 | Mi Yuting | Zhou Ruiyang | Lose | B+
-1.5 | 7.5 | 3593.0 | -6.0 | 
-| 2017-06-07 | 第1回巔峰夢想拉薩交通産業集団ラリー戦2回戦 | Zhou Ruiyang | Tuo Jiaxi | Lose | W
-+R | 7.5 | 3599.0 | -14.0 | 
-| 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Iyama Yuta | Zhou Ruiyang | Lose | B+R 
-| 6.5 | 3613.0 | -12.0 | 
-| 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Zhou Ruiyang | Kim Junghyun | Win | B+R
- | 6.5 | 3625.0 | 23.0 | 
-| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Wu Guangya | Zhou Ruiyang | Win | W+R | 7
-.5 | 3602.0 | 10.0 | 
-| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Zhou Ruiyang | Dang Yifei | Win | B+R | 7
-.5 | 3592.0 | 8.0 | 
-| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Ding Shixiong | Zhou Ruiyang | Win | W+R 
-| 7.5 | 3584.0 | -4.0 | 
-| 2017-05-12 | 第1回新奥杯世界囲碁オープン戦準決勝第3局 | Zhou Ruiyang | Peng Liyao | Lose | W
-+R | 7.5 | 3588.0 | -9.0 | 
-| 2017-05-11 | 第1回新奥杯世界囲碁オープン戦準決勝第2局 | Peng Liyao | Zhou Ruiyang | Lose | B
-+R | 7.5 | 3597.0 | 3.0 | 
-| 2017-05-09 | 第1回新奥杯世界囲碁オープン戦準決勝第1局 | Zhou Ruiyang | Peng Liyao | Win | B+
-R | 7.5 | 3594.0 | 19.0 | 
-| 2017-05-07 | 第1回新奥杯世界囲碁オープン戦4回戦 | Zhou Ruiyang | Shin Jinseo | Win | B+R 
-| 7.5 | 3575.0 | 20.0 | 
-| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Zhou Ruiyang | Xie Erhao | Lose | W+2.5 |
- 7.5 | 3555.0 | -6.0 | 
-| 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Zhou Ruiyang | Zhao Chenyu | Lose | W+R |
- 7.5 | 3561.0 | -5.0 | 
-| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Lee Sedol | Zhou Ruiyang | Win | W+0.5 | 
-7.5 | 3566.0 | 1.0 | 
-| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Fan Yunruo | Zhou Ruiyang | Lose | B+R | 
-7.5 | 3565.0 | -62.0 | 
-| 2017-03-17 | 第8期中国竜星戦Bブロック10回戦 | Zhou Ruiyang | Gu Zihao | Lose | W+2.5 |
- 7.5 | 3627.0 | 4.0 | 
-| 2017-03-09 | 嫘祖杯29期中国名人戦挑戦手合3番3局 | Lian Xiao | Zhou Ruiyang | Lose | B+R 
-| 7.5 | 3623.0 | -8.0 | 
-| 2017-03-08 | 嫘祖杯29期中国名人戦挑戦手合3番2局 | Lian Xiao | Zhou Ruiyang | Win | W+R |
- 7.5 | 3631.0 | 10.0 | 
-| 2017-03-06 | 嫘祖杯29期中国名人戦挑戦手合3番1局 | Zhou Ruiyang | Lian Xiao | Lose | W+R 
-| 7.5 | 3621.0 | -9.0 | 
-| 2017-02-08 | 第21期LG杯朝鮮日報棋王戦決勝3番2局 | Zhou Ruiyang | Dang Yifei | Lose | W+
-1.5 | 6.5 | 3630.0 | -12.0 | 
-| 2017-02-06 | 第21期LG杯朝鮮日報棋王戦決勝3番1局 | Dang Yifei | Zhou Ruiyang | Lose | B+
-R | 6.5 | 3642.0 | -15.0 | 
-| 2017-01-22 | 第31期中国囲碁天元戦挑戦者決定戦 | Zhou Ruiyang | Lian Xiao | Lose | W+R | 
-7.5 | 3657.0 | -9.0 | 
-| 2017-01-20 | 天元戦 | Zhou Ruiyang | Gu Li | Win | B+5.5 | 7.5 | 3666.0 | 4.
-0 | 
-| 2017-01-18 | 第31期中国囲碁天元戦3回戦 | Zhou Ruiyang | Mao Ruilong | Win | B+R | 7.
-5 | 3662.0 | 12.0 | 
-| 2017-01-16 | 第31期中国囲碁天元戦2回戦 | An Dongxu | Zhou Ruiyang | Win | W+4.5 | 7.
-5 | 3650.0 | 1.0 | 
-| 2017-01-14 | 第31期中国囲碁天元戦1回戦 | Dang Yifei | Zhou Ruiyang | Win | W+R | 7.5
- | 3649.0 | 16.0 | 
-| 2017-01-12 | 嫘祖杯第29期中国名人戦挑戦者戦 | Zhou Ruiyang | Mi Yuting | Win | B+R | 7.
-5 | 3633.0 | 10.0 | 
-| 2017-01-10 | 嫘祖杯第29期中国名人戦準決勝 | Zhou Ruiyang | Yang Dingxin | Win | B+R | 
-7.5 | 3623.0 | -1.0 | 
-| 2017-01-09 | 嫘祖杯第29期中国名人戦8強戦 | Zhou Ruiyang | Tan Xiao | Win | B+R | 7.5 
-| 3624.0 | 13.0 | 
-| 2017-01-04 | Alphago Online Series on Tygem and Fox 59 |  | Zhou Ruiyang 
-| Lose | B+R | 6.5 | 3611.0 | -1.0 | 
-| 2016-12-26 | 嫘祖杯第29期中国名人戦16強戦 | Shi Yue | Zhou Ruiyang | Win | W+R | 7.5 
-| 3612.0 | 8.0 | 
-| 2016-12-24 | 嫘祖杯第29期中国名人戦32強戦 | Zhou Ruiyang | Fan Yin | Win | B+R | 7.5 
-| 3604.0 | -2.0 | 
-| 2016-12-03 | 第18回中国囲碁甲級リーグ第22節 | Zhou Ruiyang | Meng Tailing | Win | B+R 
-| 7.5 | 3606.0 | -4.0 | 
-| 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Mi Yuting | Zhou Ruiyang | Win | W+R | 7
-.5 | 3610.0 | 11.0 | 
-| 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Zhou Ruiyang | Tan Xiao | Win | B+R | 7.
-5 | 3599.0 | 8.0 | 
-| 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 | Ke Jie | Zhou Ruiyang | Lose | B+1.5 | 7
-.5 | 3591.0 | -8.0 | 
-| 2016-11-16 | 第21期LG杯準決勝 | Park Junghwan | Zhou Ruiyang | Win | W+R | 6.5 
-| 3599.0 | 21.0 | 
-| 2016-11-14 | 第21期LG杯朝鮮日報棋王戦8強戦 | Peng Liyao | Zhou Ruiyang | Win | W+R | 
-6.5 | 3578.0 | 0.0 | 
-| 2016-11-12 | 第18回中国囲碁甲級リーグ第18節 | Zhou Ruiyang | Shi Yue | Lose | W+R | 7.
-5 | 3578.0 | -2.0 | 
-| 2016-11-10 | 第1回新奥杯世界囲碁オープン戦3回戦 | Han Seungjoo | Zhou Ruiyang | Win | W+R
- | 7.5 | 3580.0 | -3.0 | 
-| 2016-11-08 | 第1回新奥杯世界囲碁オープン戦2回戦 | Cho Hanseung | Zhou Ruiyang | Win | W+R
- | 7.5 | 3583.0 | -4.0 | 
-| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Qin Yuexin | Zhou Ruiyang | Win | W+R |
- 7.5 | 3587.0 | -2.0 | 
-| 2016-11-04 | 第18回中国囲碁甲級リーグ第17節 | Zhou Ruiyang | Zhou Hexi | Win | B+R | 7
-.5 | 3589.0 | 18.0 | 
-| 2016-10-28 | 第18回中国囲碁甲級リーグ第16節 | Zhou Ruiyang |  | Lose | W+0.5 | 7.5 | 3
-571.0 | -12.0 | 
-| 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Zhou Ruiyang | Chen Yaoye | Lose | W+R |
- 7.5 | 3583.0 | -22.0 | 
-| 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Wu Guangya | Zhou Ruiyang | Win | W+2.5 
-| 7.5 | 3605.0 | 19.0 | 
-| 2016-10-06 | 第21回三星火災杯世界囲碁マスターズ3回戦 | Ke Jie | Zhou Ruiyang | Lose | B+R |
- 6.5 | 3586.0 | -7.0 | 
-| 2016-10-04 | 第21回三星火災杯世界囲碁マスターズ2回戦 | Byun Sangil | Zhou Ruiyang | Win | W
-+R | 6.5 | 3593.0 | 8.0 | 
-| 2016-09-07 | 第21回三星火災杯世界囲碁マスターズ1回戦G2 | Tuo Jiaxi | Zhou Ruiyang | Win | W
-+R | 6.5 | 3585.0 | 3.0 | 
-| 2016-09-06 | 第21回三星火災杯世界囲碁マスターズ1回戦G1 | Zhou Ruiyang | Chen Yaoye | Win | 
-B+4.5 | 6.5 | 3582.0 | 3.0 | 
-| 2016-08-22 | 第12期威孚房開杯棋王戦1回戦 | Zhou Ruiyang | Fan Tingyu | Lose | W+R | 7
-.5 | 3579.0 | -7.0 | 
-| 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Tang Weixing | Zhou Ruiyang | Win | W+R 
-| 7.5 | 3586.0 | -15.0 | 
-| 2016-06-25 | 第18回中国囲碁甲級リーグ第10節 | Tong Mengcheng | Zhou Ruiyang | Win | W+
-R | 7.5 | 3601.0 | 16.0 | 
-| 2016-06-20 | 第18回中国囲碁甲級リーグ第9節 | Tan Xiao | Zhou Ruiyang | Lose | B+R | 7.
-5 | 3585.0 | -16.0 | 
-| 2016-06-16 | 第18回中国囲碁甲級リーグ第8節 | Shin Jinseo | Zhou Ruiyang | Win | W+R | 
-7.5 | 3601.0 | 39.0 | 
-| 2016-06-06 | 第18回中国囲碁甲級リーグ第7節 | Zhou Ruiyang | Piao Wenyao | Win | B+R | 
-7.5 | 3562.0 | 18.0 | 
-| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Zhou Ruiyang | Mao Ruilong | Lose | 
-W+R | 7.5 | 3544.0 | -10.0 | 
-| 2016-06-01 | 第21回LG杯朝鮮日報棋王戦2回戦 | Zhou Ruiyang | Lee Donghoon | Win | B+1.
-5 | 6.5 | 3554.0 | 7.0 | 
-| 2016-05-30 | 第21回LG杯朝鮮日報棋王戦1回戦 | Murakawa Daisuke | Zhou Ruiyang | Win | 
-W+R | 6.5 | 3547.0 | 10.0 | 
-| 2016-05-22 | 第18回中国囲碁甲級リーグ第6節 | Zhou Ruiyang | Kim Jiseok | Lose | W+R | 
-7.5 | 3537.0 | -23.0 | 
-| 2016-05-18 | 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Li Qincheng | Zhou Ruiyang | Lose | B+
-R | 7.5 | 3560.0 | -7.0 | 
-| 2016-05-16 | 第18回中国囲碁甲級リーグ第5節 | Sun Tengyu | Zhou Ruiyang | Win | W+R | 7
-.5 | 3567.0 | -43.0 | 
-| 2016-05-11 | 第18期阿含・桐山杯中国早碁オープン戦1回戦 | Xia Chenkun | Zhou Ruiyang | Lose |
- B+R | 7.5 | 3610.0 | -12.0 | 
-| 2016-05-09 | 第18回中国囲碁甲級リーグ第4節 | Tuo Jiaxi | Zhou Ruiyang | Lose | B+R | 7
-.5 | 3622.0 | -23.0 | 
-| 2016-04-30 | 第18回中国囲碁甲級リーグ第3節 | Zhou Ruiyang | Park Junghwan | Lose | W+R
- | 7.5 | 3645.0 | 1.0 | 
-| 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Choi Cheolhan | Zhou Ruiyang | Win | W+R 
-| 7.5 | 3644.0 | 5.0 | 
-| 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Zhou Ruiyang | Kang Dongyun | Win | B+R |
- 7.5 | 3639.0 | 31.0 | 
-| 2016-04-05 | 第21回LG杯予選 | Zhou Ruiyang | Hong Seongji | Win | B+R | 6.5 | 
-3608.0 | 2.0 | 
-| 2016-04-04 | 第21回LG杯予選 | Choi Myeonghun | Zhou Ruiyang | Win | W+5.5 | 6.
-5 | 3606.0 | -11.0 | 
-| 2016-04-01 | 第21回LG杯予選 | Ryu Suhang | Zhou Ruiyang | Win | W+R | 6.5 | 36
-17.0 | 8.0 | 
-| 2016-03-28 | 第11回春蘭杯世界囲碁選手権2回戦 | Zhou Ruiyang | Park Yeonghun | Lose | W+
-R | 7.5 | 3609.0 | -1.0 | 
-| 2016-03-21 | 第13期倡棋杯中国プロ囲碁選手権戦2回戦 | Zhou Ruiyang | Fan Yunruo | Lose | W+
-R | 7.5 | 3610.0 | -10.0 | 
-| 2016-03-19 | 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Zhou Ruiyang | Huang Yunsong | Win | 
-B+R | 7.5 | 3620.0 | 18.0 | 
-| 2016-03-01 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Zhou Ruiyang | Lin Lixiang | Wi
-n | B+R | 7.5 | 3602.0 | 1.0 | 
-| 2016-02-29 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Mutsuura Yuta | Zhou Ruiyang | 
-Win | W+R | 7.5 | 3601.0 | 1.0 | 
-| 2016-02-28 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Ryan Li | Zhou Ruiyang | Win | 
-W+R | 7.5 | 3600.0 | 0.0 | 
-| 2016-02-27 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Zhou Ruiyang | Park Junghwan | 
-Lose | W+R | 7.5 | 3600.0 | -7.0 | 
-| 2016-02-26 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Ali Jabarin | Zhou Ruiyang | Wi
-n | W+R | 7.5 | 3607.0 | 18.0 | 
-| 2016-01-18 | 第7期中国竜星戦準決勝 | Mi Yuting | Zhou Ruiyang | Lose | B+R | 7.5 | 
-3589.0 | -9.0 | 
-| 2016-01-16 | 第7期中国竜星戦3回戦 | Zhou Ruiyang | Piao Wenyao | Win | B+R | 7.5 |
- 3598.0 | 5.0 | 
-| 2016-01-15 | 第30期中国囲碁天元戦1回戦 | Zhou Ruiyang | Tao Xinran | Lose | W+R | 7.
-5 | 3593.0 | 9.0 | 
-| 2015-12-06 | 第17回中国囲碁甲級リーグ第22節 | Zhou Ruiyang | Kang Dongyun | Win | B+R 
-| 7.5 | 3584.0 | 8.0 | 
-| 2015-12-04 | 第17回中国囲碁甲級リーグ第21節 | Lee Sedol | Zhou Ruiyang | Win | W+R | 7
-.5 | 3576.0 | -8.0 | 
-| 2015-11-13 | 第17回中国囲碁甲級リーグ第20節 | Zhou Ruiyang | Ke Jie | Lose | W+R | 7.5
- | 3584.0 | -38.0 | 
-| 2015-11-08 | 第17回中国囲碁甲級リーグ第19節 | Chang Hao | Zhou Ruiyang | Win | W+R | 7
-.5 | 3622.0 | 7.0 | 
-| 2015-10-30 | 第11期威孚房開杯棋王戦3回戦 | Zhou Ruiyang | Ke Jie | Lose | W+R | 7.5 |
- 3615.0 | -13.0 | 
-| 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 | Zhou Ruiyang | Park Junghwan | Lose | W+
-R | 7.5 | 3628.0 | 3.0 | 
-| 2015-10-24 | 第7期中国竜星戦2回戦 | Zhou Ruiyang | Gu Lingyi | Win | B+3.5 | 7.5 |
- 3625.0 | -2.0 | 
-| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Tang Weixing | Zhou Ruiyang | Win | W+R 
-| 7.5 | 3627.0 | -1.0 | 
-| 2015-10-13 | 第11期威孚房開杯棋王戦2回戦 | Zhou Ruiyang | Tang Weixing | Win | B+R | 
-7.5 | 3628.0 | 4.0 | 
-| 2015-10-12 | 第11期威孚房開杯棋王戦1回戦 | Hu Yaoyu | Zhou Ruiyang | Win | W+R | 7.5 
-| 3624.0 | 14.0 | 
-| 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Tuo Jiaxi | Zhou Ruiyang | Win | W+0.5 |
- 7.5 | 3610.0 | -40.0 | 
-| 2015-09-29 | 第17回中国囲碁甲級リーグ第15節 | Zhou Ruiyang | Gu Zihao | Win | B+R | 7.
-5 | 3650.0 | 6.0 | 
-| 2015-09-27 | 第7期中国竜星戦1回戦 | Huang Yizhong | Zhou Ruiyang | Win | W+R | 7.5
- | 3644.0 | 11.0 | 
-| 2015-09-24 | 第17回中国囲碁甲級リーグ第14節 | Xie He | Zhou Ruiyang | Win | W+2.5 | 7.
-5 | 3633.0 | 6.0 | 
-| 2015-09-22 | 第3回全国智力運動会囲碁男子団体戦 | Zhou Ruiyang | Tan Xiao | Lose | W+R | 7
-.5 | 3627.0 | -5.0 | 
-| 2015-09-19 | 第3回全国智力運動会囲碁男子団体戦 | Zhou Ruiyang | Liao Xingwen | Lose | W+R
- | 7.5 | 3632.0 | -11.0 | 
-| 2015-09-18 | 第3回全国智力運動会囲碁男子団体戦 | Zhou Ruiyang | Qiu Jun | Win | B+R | 7.5
- | 3643.0 | 17.0 | 
-| 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Zhou Ruiyang | Zhang Tao | Win | B+R | 7
-.5 | 3626.0 | 16.0 | 
-| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Shi Yue | Zhou Ruiyang | Win | W+R | 7.5
- | 3610.0 | 16.0 | 
-| 2015-09-01 | 第2回夢百合杯世界オープン戦4回戦 | Park Yeonghun | Zhou Ruiyang | Lose | B+
-R | 7.5 | 3594.0 | -20.0 | 
-| 2015-08-30 | 第2回夢百合杯世界オープン戦3回戦 | Zhou Ruiyang | Park Junghwan | Win | B+R
- | 7.5 | 3614.0 | -4.0 | 
-| 2015-08-02 | 第20回三星火災杯統合予選1回戦 |  | Zhou Ruiyang | Win | W+R | 6.5 | 3618.
-0 | 30.0 | 
-| 2015-07-11 | 第17回中国囲碁甲級リーグ第11節 | Kang Dongyun | Zhou Ruiyang | Lose | B+R
- | 7.5 | 3588.0 | -9.0 | 
-| 2015-07-09 | 第2回夢百合杯世界オープン戦2回戦 | Yu Zhiying | Zhou Ruiyang | Win | W+R | 
-7.5 | 3597.0 | -3.0 | 
-| 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Zhou Ruiyang | Yun Junsang | Win | B+R |
- 7.5 | 3600.0 | 12.0 | 
-| 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 | Liao Xingwen | Zhou Ruiyang | Win | W+R 
-| 7.5 | 3588.0 | 0.0 | 
-| 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Xie Erhao | Zhou Ruiyang | Win | W+2.5 | 
-7.5 | 3588.0 | 1.0 | 
-| 2015-06-25 | 第17回中国囲碁甲級リーグ第8節 | Qiu Jun | Zhou Ruiyang | Win | W+R | 7.5 
-| 3587.0 | 26.0 | 
-| 2015-06-16 | 第17期阿含・桐山杯中国早碁オープン戦予選 | Li Qincheng | Zhou Ruiyang | Lose | 
-B+1.5 | 7.5 | 3561.0 | 0.0 | 
-| 2015-06-16 | 第17期阿含・桐山杯中国早碁オープン戦予選 | Zhou Ruiyang | Zhu Yuanhao | Win | B
-+1.5 | 7.5 | 3561.0 | -15.0 | 
-| 2015-06-13 | 第17回中国囲碁甲級リーグ第7節 | Li Qincheng | Zhou Ruiyang | Win | W+R | 
-7.5 | 3576.0 | 12.0 | 
-| 2015-06-11 | 第28期中国囲碁名人戦2回戦 | Li Qincheng | Zhou Ruiyang | Lose | B+3.5 |
- 7.5 | 3564.0 | -6.0 | 
-| 2015-06-08 | 第20回LG杯朝鮮日報棋王戦1回戦 | Kim Myounghoon | Zhou Ruiyang | Lose | B
-+R | 6.5 | 3570.0 | -11.0 | 
-| 2015-06-03 | 第10回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Gu Li | Zhou Ruiyang | Lose | B+1.
-5 | 7.5 | 3581.0 | -15.0 | 
-| 2015-06-01 | 第10回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Zhou Ruiyang | Gu Li | Lose | W+R 
-| 7.5 | 3596.0 | 6.0 | 
-| 2015-05-28 | 第17回中国囲碁甲級リーグ第6節 | Zhou Ruiyang | Mi Yuting | Lose | W+R | 7
-.5 | 3590.0 | 15.0 | 
-| 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Zhou Ruiyang | Tuo Jiaxi | Win | B+1.5 | 
-7.5 | 3575.0 | -6.0 | 
-| 2015-05-16 | 第17回中国囲碁甲級リーグ第4節 | Tan Xiao | Zhou Ruiyang | Win | W+0.5 | 7
-.5 | 3581.0 | 15.0 | 
-| 2015-05-14 | 第17回中国囲碁甲級リーグ第3節 | Xie He | Zhou Ruiyang | Win | W+R | 7.5 |
- 3566.0 | 23.0 | 
-| 2015-04-29 | 第17回中国囲碁甲級リーグ第2節 | Zhou Ruiyang | Zhang Tao | Lose | W+R | 7
-.5 | 3543.0 | -9.0 | 
-| 2015-04-22 | 第17回中国囲碁甲級リーグ第1節 | Tao Xinran | Zhou Ruiyang | Lose | B+3.5 
-| 7.5 | 3552.0 | 1.0 | 
-| 2015-04-07 | 第12期倡棋杯中国プロ囲碁選手権戦3回戦 | Qiu Jun | Zhou Ruiyang | Lose | B+R |
- 7.5 | 3551.0 | -15.0 | 
-| 2015-04-05 | 第12期倡棋杯中国プロ囲碁選手権戦2回戦 | Zhou Ruiyang | Piao Wenyao | Win | B+
-R | 7.5 | 3566.0 | 0.0 | 
-| 2015-04-03 | 第12期倡棋杯中国プロ囲碁選手権戦1回戦 | Zhou Ruiyang | Li Xuanhao | Win | B+3
- | 7.5 | 3566.0 | 4.0 | 
-| 2015-01-29 | 第29期中国囲碁天元戦2回戦 | Zhou Ruiyang | Zhong Wenjing | Lose | W+R |
- 7.5 | 3562.0 | 1.0 | 
-| 2015-01-27 | 第29期中国囲碁天元戦1回戦 | Zhou Ruiyang | Chen Xian | Win | B+1.5 | 7.
-5 | 3561.0 | 5.0 | 
-| 2015-01-20 | 第15期リコー杯囲碁戦2回戦 | Xie Erhao | Zhou Ruiyang | Lose | B+R | 7.5
- | 3556.0 | -17.0 | 
-| 2014-12-27 | 第10回春蘭杯世界囲碁選手権準決勝 | Chen Yaoye | Zhou Ruiyang | Win | W+R | 
-7.5 | 3573.0 | 5.0 | 
-| 2014-12-25 | 第10回春蘭杯世界囲碁選手権3回戦 | Shi Yue | Zhou Ruiyang | Win | W+R | 7.5
- | 3568.0 | -28.0 | 
-| 2014-11-25 | 第16回中国囲碁甲級リーグ第22節 | Zhang Tao | Zhou Ruiyang | Lose | B+R | 
-7.5 | 3596.0 | 1.0 | 
-| 2014-11-22 | 第16回中国囲碁甲級リーグ第21節 | Zhou Ruiyang | Sun Tengyu | Win | B+R | 
-7.5 | 3595.0 | 8.0 | 
-| 2014-11-19 | 第27期中国囲碁名人戦挑戦者決定戦第2局 | Zhou Ruiyang | Lian Xiao | Lose | W+R
- | 7.5 | 3587.0 | -6.0 | 
-| 2014-11-17 | 第27期中国囲碁名人戦挑戦者決定戦第1局 | Lian Xiao | Zhou Ruiyang | Lose | B+R
- | 7.5 | 3593.0 | -5.0 | 
-| 2014-11-11 | 第16回中国囲碁甲級リーグ第20節 | Zhou Ruiyang | Xie Erhao | Win | B+R | 7
-.5 | 3598.0 | 11.0 | 
-| 2014-11-09 | 第16回中国囲碁甲級リーグ第19節 | Na Hyun | Zhou Ruiyang | Win | W+R | 7.5
- | 3587.0 | 13.0 | 
-| 2014-10-31 | 第16回中国囲碁甲級リーグ第18節 | Yang Dingxin | Zhou Ruiyang | Win | W+R 
-| 7.5 | 3574.0 | -24.0 | 
-| 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 | Liao Xingwen | Zhou Ruiyang | Lose | B+R
- | 7.5 | 3598.0 | 9.0 | 
-| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Zhou Ruiyang | Tao Xinran | Win | B+R | 
-7.5 | 3589.0 | 7.0 | 
-| 2014-10-16 | 第19回三星火災杯世界囲碁マスターズ3回戦 | Zhou Ruiyang | Park Junghwan | Lose 
-| W+R | 6.5 | 3582.0 | 3.0 | 
-| 2014-10-14 | 第19回三星火災杯世界囲碁マスターズ2回戦 | Zhou Ruiyang | Cho Hanseung | Win | 
-B+R | 6.5 | 3579.0 | 0.0 | 
-| 2014-10-11 | 第10期威孚房開杯棋王戦1回戦 |  | Zhou Ruiyang | Lose | B+R | 7.5 | 3579.
-0 | -19.0 | 
-| 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Zhou Ruiyang | Chen Yaoye | Win | B+1.5 
-| 7.5 | 3598.0 | 94.0 | 
-| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Zhou Ruiyang | Lee Donghoon | Lose | W+R
- | 7.5 | 3504.0 | -25.0 | 
-| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Tang Weixing | Zhou Ruiyang | Win | W+R 
-| 7.5 | 3529.0 | 9.0 | 
-| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Piao Wenyao | Zhou Ruiyang | Lose | B+R 
-| 7.5 | 3520.0 | 6.0 | 
-| 2014-09-02 | 第6期中国竜星戦1回戦 | Li Qincheng | Zhou Ruiyang | Lose | B+1.5 | 7.
-5 | 3514.0 | -3.0 | 
-| 2014-08-30 | 第16期阿含・桐山杯中国早碁オープン戦準決勝 | Zhou Ruiyang | Ke Jie | Lose | W+R 
-| 7.5 | 3517.0 | -8.0 | 
-| 2014-08-27 | 第19回三星火災杯世界囲碁マスターズ1回戦A2 | Zhou Ruiyang | Tuo Jiaxi | Win | B
-+R | 6.5 | 3525.0 | 0.0 | 
-| 2014-08-26 | 第19回三星火災杯世界囲碁マスターズ1回戦A1 | Kang Seungmin | Zhou Ruiyang | Win
- | W+R | 6.5 | 3525.0 | -32.0 | 
-| 2014-08-06 | 第19回三星火災杯統合予選決勝 | Zhou Ruiyang | Lee Jihyun | Win | B+R | 6.
-5 | 3557.0 | -11.0 | 
-| 2014-08-05 | 第19回三星火災杯統合予選準決勝 | Kim Minho | Zhou Ruiyang | Win | W+R | 6.
-5 | 3568.0 | -21.0 | 
-| 2014-07-28 | 第16期阿含・桐山杯中国早碁オープン戦2回戦 | Chen Yaoye | Zhou Ruiyang | Win | W
-+R | 7.5 | 3589.0 | -2.0 | 
-| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Zhou Ruiyang | An Sungjoon | Lose | W+R |
- 7.5 | 3591.0 | -58.0 | 
-| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Qin Yuexin | Zhou Ruiyang | Win | W+R | 
-7.5 | 3649.0 | -7.0 | 
-| 2014-07-07 | 第16期阿含・桐山杯中国早碁オープン戦1回戦 | Zhou Ruiyang | Fan Yunruo | Win | B
-+R | 7.5 | 3656.0 | 12.0 | 
-| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Yang Kaiwen | Zhou Ruiyang | Lose | B+R 
-| 7.5 | 3644.0 | 19.0 | 
-| 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Peng Quan | Zhou Ruiyang | Lose | B+R | 7
-.5 | 3625.0 | 21.0 | 
-| 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Hu Yaoyu | Zhou Ruiyang | Win | W+R | 7.5
- | 3604.0 | -3.0 | 
-| 2014-06-20 | 第5回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Zhou Hexi | Zhou Ruiyang | Lose | B+R 
-| 7.5 | 3607.0 | -6.0 | 
-| 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Zhou Ruiyang | Wu Guangya | Win | B+R 
-| 7.5 | 3613.0 | -53.0 | 
-| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Gu Li | Zhou Ruiyang | Win | W+R | 7.5 | 
-3666.0 | 14.0 | 
-| 2014-06-09 | 第19回LG杯朝鮮日報棋王戦1回戦 | Zhou Ruiyang | Kim Jiseok | Lose | W+R |
- 6.5 | 3652.0 | -1.0 | 
-| 2014-06-05 | 第16回中国囲碁甲級リーグ第6節 | Niu Yutian | Zhou Ruiyang | Win | W+R | 7
-.5 | 3653.0 | 1.0 | 
-| 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Guo Yuzheng | Zhou Ruiyang | Win | W+R | 
-7.5 | 3652.0 | -2.0 | 
-| 2014-05-30 | 第11期倡棋杯中国プロ囲碁選手権戦2回戦 | Mi Yuting | Zhou Ruiyang | Lose | B+5
- | 7.5 | 3654.0 | -19.0 | 
-| 2014-05-28 | 第11期倡棋杯中国プロ囲碁選手権戦1回戦 | Zhou Ruiyang | Zhong Wenjing | Win | 
-B+1 | 7.5 | 3673.0 | 7.0 | 
-| 2014-05-26 | 第27期中国囲碁名人戦準決勝 | Xia Chenkun | Zhou Ruiyang | Win | W+R | 7.
-5 | 3666.0 | -26.0 | 
-| 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Tuo Jiaxi | Zhou Ruiyang | Win | W+R | 7.
-5 | 3692.0 | -26.0 | 
-| 2014-05-18 | 第16回中国囲碁甲級リーグ第3節 | Dang Yifei | Zhou Ruiyang | Win | W+R | 7
-.5 | 3718.0 | 18.0 | 
-| 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Zhou Ruiyang | Mi Yuting | Lose | W+R | 7
-.5 | 3700.0 | -9.0 | 
-| 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Wu Guangya | Zhou Ruiyang | Lose | B+R | 
-7.5 | 3709.0 | -3.0 | 
-| 2014-05-06 | 2014CCTV杯中国囲棋電視快棋戦3回戦 | Zhou Ruiyang | Fan Tingyu | Lose | W
-+R | 7.5 | 3712.0 | -21.0 | 
-| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦2回戦 | Xie Erhao | Zhou Ruiyang | Win | W+R
- | 7.5 | 3733.0 | 0.0 | 
-| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Li Kang | Zhou Ruiyang | Win | W+R |
- 7.5 | 3733.0 | 18.0 | 
-| 2014-04-08 | 第27期中国囲碁名人戦3回戦 | Sun Tengyu | Zhou Ruiyang | Win | W+R | 7.5
- | 3715.0 | 2.0 | 
-| 2014-04-06 | 第27期中国囲碁名人戦2回戦 | Zhou Ruiyang | Peng Liyao | Win | B+R | 7.5
- | 3713.0 | 2.0 | 
-| 2014-04-04 | 第27期中国囲碁名人戦1回戦 | Zhou Ruiyang | Wu Guangya | Win | B+R | 7.5
- | 3711.0 | 2.0 | 
-| 2014-03-28 | 第10回春蘭杯世界囲碁選手権2回戦 | Zhou Ruiyang | Iyama Yuta | Win | B+R | 
-7.5 | 3709.0 | 5.0 | 
-| 2014-03-23 | 第4期招商地産杯中韓囲棋団体対抗戦第2戦 | Zhou Ruiyang | Kim Jiseok | Lose | W+
-R | 7.5 | 3704.0 | -2.0 | 
-| 2014-03-21 | 第4期招商地産杯中韓囲棋団体対抗戦第1戦 | Zhou Ruiyang | Park Junghwan | Lose |
- W+R | 7.5 | 3706.0 | -9.0 | 
-| 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Park Cheongsang | Zhou Ruiyang | Win | W+
-R | 7.5 | 3715.0 | 26.0 | 
-| 2014-02-27 | 第15回農心辛ラーメン杯世界囲碁最強戦第13戦 | Zhou Ruiyang | Park Junghwan | Los
-e | W+R | 6.5 | 3689.0 | -21.0 | 
-| 2014-02-19 | 第14期リコー杯囲碁戦準決勝 | Wu Guangya | Zhou Ruiyang | Lose | B+R | 7.
-5 | 3710.0 | -8.0 | 
-| 2014-02-18 | 第14期リコー杯囲碁戦4回戦 | Zhou Ruiyang | Xu Jiayang | Win | B+R | 7.5
- | 3718.0 | 3.0 | 
-| 2014-02-17 | 第14期リコー杯囲碁戦3回戦 | Gu Lingyi | Zhou Ruiyang | Win | W+R | 7.5 
-| 3715.0 | 4.0 | 
-| 2014-02-13 | 第18回LG杯世界棋王戦決勝三番勝負第3局 | Zhou Ruiyang | Tuo Jiaxi | Lose | W+
-R | 6.5 | 3711.0 | -9.0 | 
-| 2014-02-12 | 第18回LG杯世界棋王戦決勝三番勝負第2局 | Tuo Jiaxi | Zhou Ruiyang | Win | W+R
- | 6.5 | 3720.0 | 3.0 | 
-| 2014-02-10 | 第18回LG杯世界棋王戦決勝三番勝負第1局 | Zhou Ruiyang | Tuo Jiaxi | Lose | W+
-1.5 | 6.5 | 3717.0 | -9.0 | 
-| 2014-01-19 | 第28期中国囲碁天元戦3回戦 | Ke Jie | Zhou Ruiyang | Lose | B+R | 7.5 | 
-3726.0 | -11.0 | 
-| 2014-01-17 | 第28期中国囲碁天元戦2回戦 | Niu Yutian | Zhou Ruiyang | Win | W+R | 7.5
- | 3737.0 | 5.0 | 
-| 2014-01-15 | 第28期中国囲碁天元戦1回戦 | Li Qincheng | Zhou Ruiyang | Win | W+R | 7.
-5 | 3732.0 | -10.0 | 
-| 2013-12-30 | 第14期リコー杯囲碁戦2回戦 | Zhou Ruiyang | Xie Erhao | Win | B+1.5 | 7.
-5 | 3742.0 | 13.0 | 
-| 2013-12-16 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Zhou Ruiyang | Kim Jiseok |
- Win | B+R | 7.5 | 3729.0 | 8.0 | 
-| 2013-12-15 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Ilya Shikshin | Zhou Ruiyan
-g | Win | W+R | 7.5 | 3721.0 | 2.0 | 
-| 2013-12-14 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Zhou Ruiyang | Hirata Tomoy
-a | Win | B+R | 7.5 | 3719.0 | 1.0 | 
-| 2013-12-13 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Wang Yuanjun | Zhou Ruiyang
- | Win | W+R | 7.5 | 3718.0 | 4.0 | 
-| 2013-12-12 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Ko Daehyuk | Zhou Ruiyang |
- Win | W+R | 7.5 | 3714.0 | 3.0 | 
-| 2013-12-09 | 第5期中国竜星戦準決勝 | Zhou Ruiyang | Gu Li | Lose | W+R | 7.5 | 3711
-.0 | -9.0 | 
-| 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 | Zhou Ruiyang |  | Win | B+R | 7.5 | 3720
-.0 | -8.0 | 
-| 2013-11-23 | 第15回中国囲碁甲級リーグ第21節 | Hu Yaoyu | Zhou Ruiyang | Win | W+R | 7.
-5 | 3728.0 | -1.0 | 
-| 2013-11-21 | 第5期中国竜星戦3回戦 | Kong Jie | Zhou Ruiyang | Win | W+R | 7.5 | 37
-29.0 | 19.0 | 
-| 2013-11-16 | 第15回中国囲碁甲級リーグ第20節 | Park Junghwan | Zhou Ruiyang | Lose | B+
-R | 7.5 | 3710.0 | -5.0 | 
-| 2013-11-13 | 第18回LG杯朝鮮日報棋王戦準決勝 | Zhou Ruiyang | Chen Yaoye | Win | B+4.5 
-| 6.5 | 3715.0 | 11.0 | 
-| 2013-11-11 | 第18回LG杯朝鮮日報棋王戦3回戦 | Zhou Ruiyang | Li Qincheng | Win | B+R |
- 6.5 | 3704.0 | 44.0 | 
-| 2013-11-02 | 第15回中国囲碁甲級リーグ第19節 | Zhou Ruiyang | Ke Jie | Lose | W+0.5 | 7
-.5 | 3660.0 | -15.0 | 
-| 2013-10-31 | 第9期威孚房開杯棋王戦決勝 | Zhou Ruiyang | Yang Dingxin | Lose | W+R | 7
-.5 | 3675.0 | 13.0 | 
-| 2013-10-30 | 第9期威孚房開杯棋王戦準決勝 | Tan Xiao | Zhou Ruiyang | Win | W+R | 7.5 |
- 3662.0 | 5.0 | 
-| 2013-10-29 | 第9期威孚房開杯棋王戦3回戦 | Wang Xi | Zhou Ruiyang | Win | W+R | 7.5 | 
-3657.0 | 17.0 | 
-| 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 | Zhou Ruiyang | Wang Xi | Lose | W+R | 7.
-5 | 3640.0 | -12.0 | 
-| 2013-10-20 | 第15回中国囲碁甲級リーグ第17節 | Tao Xinran | Zhou Ruiyang | Win | W+R | 
-7.5 | 3652.0 | -22.0 | 
-| 2013-10-17 | 第1回夢百合杯世界オープン戦準決勝第2局 | Gu Li | Zhou Ruiyang | Lose | B+R | 7
-.5 | 3674.0 | 2.0 | 
-| 2013-10-15 | 第1回夢百合杯世界オープン戦準決勝第1局 | Zhou Ruiyang | Gu Li | Lose | W+R | 7
-.5 | 3672.0 | -16.0 | 
-| 2013-10-13 | 第15回中国囲碁甲級リーグ第16節 | Zhou Ruiyang | Rong Yi | Win | B+1.5 | 7
-.5 | 3688.0 | 6.0 | 
-| 2013-10-08 | 第18回三星火災杯世界囲碁マスターズ2回戦 | Zhou Ruiyang | Park Junghwan | Lose 
-| W+R | 6.5 | 3682.0 | -47.0 | 
-| 2013-09-12 | 第15回中国囲碁甲級リーグ第15節 | Cho Hanseung | Zhou Ruiyang | Lose | B+R
- | 7.5 | 3729.0 | 26.0 | 
-| 2013-09-10 | 第5期中国竜星戦2回戦 | Zhong Wenjing | Zhou Ruiyang | Win | W+R | 7.5
- | 3703.0 | 5.0 | 
-| 2013-09-09 | 第5期中国竜星戦1回戦 | Zhou Ruiyang | Yang Dingxin | Win | B+R | 7.5 
-| 3698.0 | 3.0 | 
-| 2013-09-07 | 第15回中国囲碁甲級リーグ第14節 | Lian Xiao | Zhou Ruiyang | Lose | B+R | 
-7.5 | 3695.0 | -2.0 | 
-| 2013-09-05 | 第18回三星火災杯世界囲碁マスターズ1回戦F3 | Zhou Ruiyang | Niu Yutian | Win | 
-B+R | 6.5 | 3697.0 | -1.0 | 
-| 2013-09-04 | 第18回三星火災杯世界囲碁マスターズ1回戦F2 | Zhou Ruiyang | Cho Hanseung | Win 
-| B+1.5 | 6.5 | 3698.0 | 2.0 | 
-| 2013-09-03 | 第18回三星火災杯世界囲碁マスターズ1回戦F1 | Park Yeonghun | Zhou Ruiyang | Los
-e | B+R | 6.5 | 3696.0 | -5.0 | 
-| 2013-09-01 | 第15回中国囲碁甲級リーグ第13節 | Zhou Ruiyang | Tuo Jiaxi | Lose | W+R | 
-7.5 | 3701.0 | -13.0 | 
-| 2013-08-30 | 第15回中国囲碁甲級リーグ第12節 | Zhou Ruiyang | Shi Yue | Lose | W+R | 7.
-5 | 3714.0 | 8.0 | 
-| 2013-08-28 | 第9期威孚房開杯棋王戦2回戦 | Zhou Ruiyang | Mi Yuting | Win | B+R | 7.5 
-| 3706.0 | 7.0 | 
-| 2013-08-27 | 第9期威孚房開杯棋王戦1回戦 | Niu Yutian | Zhou Ruiyang | Win | W+R | 7.5
- | 3699.0 | -10.0 | 
-| 2013-08-11 | 第1回夢百合杯世界オープン戦4回戦 | Zhou Ruiyang | Lian Xiao | Win | B+R | 7
-.5 | 3709.0 | 4.0 | 
-| 2013-08-09 | 第1回夢百合杯世界オープン戦3回戦 |  | Zhou Ruiyang | Win | W+R | 7.5 | 3705
-.0 | 61.0 | 
-| 2013-07-15 | 第15回中国囲碁甲級リーグ第11節 | Niu Yutian | Zhou Ruiyang | Win | W+R | 
-7.5 | 3644.0 | -8.0 | 
-| 2013-07-11 | 第1回夢百合杯世界オープン戦2回戦 | Zhou Ruiyang | Gong Yanyu | Win | B+R | 
-7.5 | 3652.0 | 11.0 | 
-| 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 |  | Zhou Ruiyang | Win | W+R | 7.5 | 3641
-.0 | 3.0 | 
-| 2013-07-07 | 第15回中国囲碁甲級リーグ第10節 | Zhou Ruiyang | Hu Yaoyu | Lose | W+R | 7
-.5 | 3638.0 | -26.0 | 
-| 2013-06-29 | 第15期阿含・桐山杯中国早碁オープン戦1回戦 | Zhou Ruiyang | Qiu Jun | Lose | W+R
- | 7.5 | 3664.0 | -50.0 | 
-| 2013-06-22 | 第15回中国囲碁甲級リーグ第9節 |  | Zhou Ruiyang | Win | W+R | 7.5 | 3714.
-0 | 135.0 | 
-| 2013-06-15 | 第15回中国囲碁甲級リーグ第8節 | Kim Jiseok | Zhou Ruiyang | Lose | B+R | 
-7.5 | 3579.0 | -18.0 | 
-| 2013-06-12 | 第18回LG杯朝鮮日報棋王戦2回戦 | Zhou Ruiyang | An Joyeong | Win | B+2.5 
-| 6.5 | 3597.0 | -5.0 | 
-| 2013-06-10 | 第18回LG杯朝鮮日報棋王戦1回戦 | Zhou Ruiyang | Choi Cheolhan | Win | B+R
- | 6.5 | 3602.0 | -23.0 | 
-| 2013-06-02 | 第15回中国囲碁甲級リーグ第7節 | Zhou Ruiyang | Gu Li | Win | B+1.5 | 7.5 
-| 3625.0 | 2.0 | 
-| 2013-05-27 | 第10期倡棋杯中国プロ囲碁選手権戦1回戦 | Zhou Ruiyang | Lian Xiao | Lose | W+R
- | 7.5 | 3623.0 | -33.0 | 
-| 2013-05-18 | 第15回中国囲碁甲級リーグ第6節 | Choi Cheolhan | Zhou Ruiyang | Lose | B+R
- | 7.5 | 3656.0 | -58.0 | 
-| 2013-05-14 | 第26期中国囲碁名人戦1回戦 | Kong Jie | Zhou Ruiyang | Lose | B+R | 7.5 
-| 3714.0 | -16.0 | 
-| 2013-05-11 | 第15回中国囲碁甲級リーグ第5節 | Zhou Ruiyang | Park Yeonghun | Win | B+R 
-| 7.5 | 3730.0 | 3.0 | 
-| 2013-05-09 | 第15回中国囲碁甲級リーグ第4節 | Meng Tailing | Zhou Ruiyang | Win | W+R |
- 7.5 | 3727.0 | 80.0 | 
-| 2013-05-04 | 第15回中国囲碁甲級リーグ第3節 | Zhou Ruiyang | Liu Xing | Lose | W+R | 7.
-5 | 3647.0 | 55.0 | 
-| 2013-04-13 | 第13期リコー杯囲碁戦決勝 | Zhou Ruiyang | Tang Weixing | Win | B+R | 7.
-5 | 3592.0 | -136.0 | 
-| 2013-04-07 | 第15回中国囲碁甲級リーグ第2節 | Tuo Jiaxi | Zhou Ruiyang | Win | W+R | 7.
-5 | 3728.0 | 10.0 | 
-| 2013-04-05 | 第15回中国囲碁甲級リーグ第1節 | Zhou Ruiyang | Li Zhe | Win | B+R | 7.5 |
- 3718.0 | -65.0 | 
-| 2013-03-13 | 2013CCTV杯中国囲棋電視快棋戦1回戦 | Zhou Ruiyang | Meng Tailing | Lose |
- W+R | 7.5 | 3783.0 | 1.0 | 
-| 2013-02-23 | 第13期リコー杯囲碁戦準決勝 | Zhou Ruiyang | Gu Li | Win | B+R | 7.5 | 37
-82.0 | 6.0 | 
-| 2013-02-22 | 第13期リコー杯囲碁戦4回戦 | Mi Yuting | Zhou Ruiyang | Win | W+R | 7.5 
-| 3776.0 | 3.0 | 
-| 2013-02-21 | 第13期リコー杯囲碁戦3回戦 | Yang Kaiwen | Zhou Ruiyang | Win | W+R | 7.
-5 | 3773.0 | -8.0 | 
-| 2013-01-28 | 第27期中国囲碁天元戦3回戦 | Zhou Ruiyang | Tan Xiao | Lose | W+R | 7.5 
-| 3781.0 | -7.0 | 
-| 2013-01-26 | 第27期中国囲碁天元戦2回戦 | Zhou Ruiyang | Dang Yifei | Win | B+R | 7.5
- | 3788.0 | 5.0 | 
-| 2013-01-24 | 第27期中国囲碁天元戦1回戦 | Huang Yunsong | Zhou Ruiyang | Win | W+R | 
-7.5 | 3783.0 | 9.0 | 
-| 2013-01-19 | 第1回百霊杯世界囲碁選手権決勝五番勝負第3局 | Chen Yaoye | Zhou Ruiyang | Win | W
-+R | 7.5 | 3774.0 | 29.0 | 
-| 2013-01-12 | 第1回百霊杯世界囲碁選手権決勝五番勝負第2局 | Zhou Ruiyang | Chen Yaoye | Win | B
-+R | 7.5 | 3745.0 | 13.0 | 
-| 2013-01-10 | 第1回百霊杯世界囲碁選手権決勝五番勝負第1局 | Chen Yaoye | Zhou Ruiyang | Win | W
-+0.5 | 7.5 | 3732.0 | 14.0 | 
-| 2012-12-29 | 第13期リコー杯囲碁戦2回戦 | Lian Xiao | Zhou Ruiyang | Win | W+R | 7.5 
-| 3718.0 | 7.0 | 
-| 2012-12-08 | 第14回中国囲碁甲級リーグ第22節 | Tao Xinran | Zhou Ruiyang | Win | W+R | 
-7.5 | 3711.0 | 45.0 | 
-| 2012-12-01 | 第14回中国囲碁甲級リーグ第21節 | Zhou Ruiyang |  | Win | B+R | 7.5 | 3666
-.0 | 24.0 | 
-| 2012-11-24 | 第14回中国囲碁甲級リーグ第20節 | Xie He | Zhou Ruiyang | Win | W+R | 7.5 
-| 3642.0 | -44.0 | 
-| 2012-11-17 | 第8期威孚房開杯棋王戦3回戦 | Fan Tingyu | Zhou Ruiyang | Lose | B+R | 7.
-5 | 3686.0 | -13.0 | 
-| 2012-11-10 | 第14回中国囲碁甲級リーグ第19節 | Qiu Jun | Zhou Ruiyang | Lose | B+R | 7.
-5 | 3699.0 | -16.0 | 
-| 2012-11-03 | 第14回中国囲碁甲級リーグ第18節 | Cho Hanseung | Zhou Ruiyang | Lose | B+R
- | 7.5 | 3715.0 | -9.0 | 
-| 2012-11-01 | 第1回百霊杯世界囲碁選手権準決勝第3局 | Xie Erhao | Zhou Ruiyang | Win | W+R |
- 7.5 | 3724.0 | 4.0 | 
-| 2012-10-31 | 第1回百霊杯世界囲碁選手権準決勝第2局 | Zhou Ruiyang | Xie Erhao | Win | B+1.5
- | 7.5 | 3720.0 | 2.0 | 
-| 2012-10-29 | 第1回百霊杯世界囲碁選手権準決勝第1局 | Xie Erhao | Zhou Ruiyang | Lose | B+R 
-| 7.5 | 3718.0 | 10.0 | 
-| 2012-10-21 | 第14回中国囲碁甲級リーグ第17節 | Tuo Jiaxi | Zhou Ruiyang | Win | W+R | 7
-.5 | 3708.0 | -16.0 | 
-| 2012-10-17 | 第14期阿含・桐山杯中国早碁オープン戦決勝 | Gu Li | Zhou Ruiyang | Lose | B+1.5 
-| 7.5 | 3724.0 | 9.0 | 
-| 2012-10-14 | 第8期威孚房開杯棋王戦予選 | Piao Wenyao | Zhou Ruiyang | Win | W+R | 7.5
- | 3715.0 | 17.0 | 
-| 2012-10-13 | 第8期威孚房開杯棋王戦予選 | Zhou Ruiyang | Meng Tailing | Win | B+1.5 | 
-7.5 | 3698.0 | 15.0 | 
-| 2012-10-11 | 第4期中国竜星戦3回戦 | Jiang Weijie | Zhou Ruiyang | Lose | B+R | 7.5
- | 3683.0 | 2.0 | 
-| 2012-10-10 | 第4期中国竜星戦2回戦 | Zhou Ruiyang | Wu Guangya | Win | B+R | 7.5 | 
-3681.0 | 3.0 | 
-| 2012-10-07 | 第4期中国竜星戦1回戦 | Zhou Ruiyang | Sun Li | Win | B+11.5 | 7.5 | 3
-678.0 | 13.0 | 
-| 2012-09-30 | 第14回中国囲碁甲級リーグ第16節 | Zhou Ruiyang | Wu Guangya | Lose | W+R |
- 7.5 | 3665.0 | -13.0 | 
-| 2012-09-28 | 第14回中国囲碁甲級リーグ第15節 | Zhou Hexi | Zhou Ruiyang | Win | W+R | 7
-.5 | 3678.0 | missing |
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Zhou Ruiyang | Win | W+R | 7.5 | 3427.0 | 25.0 | 
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Zhou Ruiyang | Ding Hao | Lose | W+R | 7.5 | 3402.0 | 40.0 | 
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Chen Yunong | Lose | W+R | 7.5 | 3362.0 | -16.0 | 
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Kang Dongyun | Zhou Ruiyang | Lose | B+¾ | 7.5 | 3378.0 | -18.0 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Meng Tailing | Lose | W+R | 7.5 | 3396.0 | -17.0 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Zhao Chenyu | Lose | W+R | 7.5 | 3413.0 | -7.0 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Xie Ke | Zhou Ruiyang | Lose | B+R | 7.5 | 3420.0 | -19.0 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zhou Ruiyang | Tan Xiao | Lose | W+R | 7.5 | 3439.0 | -5.0 | 
+| 2021-09-10 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Zhou Ruiyang |  | Win | B+R | 7.5 | 3444.0 | 2.0 | 
+| 2021-09-03 | 第12期中国竜星戦予選 | Zhou Ruiyang | Huang Yunsong | Lose | W+¼ | 7.5 | 3442.0 | -12.0 | 
+| 2021-09-02 | 第12期中国竜星戦予選 | Zhou Ruiyang | Li Xuanhao | Win | B+R | 7.5 | 3454.0 | 34.0 | 
+| 2021-08-31 | 第12期中国竜星戦予選 | Tang Weixing | Zhou Ruiyang | Win | W+2¼ | 7.5 | 3420.0 | 67.0 | 
+| 2021-07-30 | 第16回威孚房開杯棋王戦2回戦 | Zhou Ruiyang | Tong Mengcheng | Lose | W+R | 7.5 | 3353.0 | 1.0 | 
+| 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Li Weiqing | Zhou Ruiyang | Win | W+R | 7.5 | 3352.0 | 38.0 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Zhou Ruiyang | Lose | B+R | 7.5 | 3314.0 | -1.0 | 
+| 2021-06-11 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Fan Yin | Win | B+1¾ | 7.5 | 3315.0 | 26.0 | 
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Wang Xinghao | Zhou Ruiyang | Win | W+R | 7.5 | 3289.0 | 15.0 | 
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Wang Zejin | Lose | W+R | 7.5 | 3274.0 | -24.0 | 
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Shi Yue | Win | B+R | 7.5 | 3298.0 | 32.0 | 
+| 2021-05-12 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Xu Jiayang | Lose | W+R | 7.5 | 3266.0 | 19.0 | 
+| 2021-05-11 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Zhou Hexi | Win | B+R | 7.5 | 3247.0 | 18.0 | 
+| 2021-05-10 | 第23回中国囲碁甲級リーグ | Zheng Xu | Zhou Ruiyang | Win | W+¼ | 7.5 | 3229.0 | 6.0 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Tan Xiao | Lose | W+R | 7.5 | 3223.0 | -5.0 | 
+| 2021-04-20 | 第17回倡棋杯中国プロ囲碁選手権戦2回戦 | Huang Yunsong | Zhou Ruiyang | Lose | B+5¾ | 7.5 | 3228.0 | 39.0 | 
+| 2021-01-28 | 第35期中国囲碁天元戦1回戦 | Zhou Ruiyang | Zhao Chenyu | Lose | W+1¼ | 7.5 | 3189.0 | -7.0 | 
+| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Dang Yifei | Zhou Ruiyang | Lose | B+R | 7.5 | 3196.0 | 39.0 | 
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Zhou Ruiyang | Huang Yunsong | Lose | W+R | 7.5 | 3157.0 | -23.0 | 
+| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Zhou Ruiyang | Chen Xian | Lose | W+R | 7.5 | 3180.0 | -1.0 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Li Xiangyu | Lose | W+¼ | 7.5 | 3181.0 | -20.0 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Tang Weixing | Lose | W+R | 7.5 | 3201.0 | 12.0 | 
+| 2020-12-09 | 第22回中国囲碁甲級リーグ | Gu Lingyi | Zhou Ruiyang | Win | W+R | 7.5 | 3189.0 | 41.0 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Chen Zijian | Win | B+¾ | 7.5 | 3148.0 | 10.0 | 
+| 2020-12-07 | 第22回中国囲碁甲級リーグ | Cheng Jiaye | Zhou Ruiyang | Lose | B+R | 7.5 | 3138.0 | -41.0 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Zhou Ruiyang | Xu Jiayang | Win | B+R | 7.5 | 3179.0 | -7.0 | 
+| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Zhou Ruiyang | Xu Jiayang | Lose | W+R | 7.5 | 3186.0 | -114.0 | 
+| 2020-09-22 | 2020CCTV杯中国囲棋電視快棋戦3回戦 | Zhou Ruiyang | Lian Xiao | Lose | W+R | 7.5 | 3300.0 | -12.0 | 
+| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦2回戦 | Zhou Ruiyang | Meng Tailing | Win | B+R | 7.5 | 3312.0 | 0.0 | 
+| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Peng Liyao | Zhou Ruiyang | Win | W+¼ | 7.5 | 3312.0 | 72.0 | 
+| 2020-09-15 | 第25回三星火災杯中国一般枠予選 | Zhou Ruiyang | Mi Yuting | Lose | W+1.5 | 6.5 | 3240.0 | -11.0 | 
+| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Li Chengsen | Zhou Ruiyang | Lose | B+R | 7.5 | 3251.0 | -35.0 | 
+| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Zhou Ruiyang | Tao Xinran | Lose | W+R | 7.5 | 3286.0 | -18.0 | 
+| 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Tu Xiaoyu | Zhou Ruiyang | Lose | B+R | 7.5 | 3304.0 | -40.0 | 
+| 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Wang Xinghao | Zhou Ruiyang | Win | W+R | 7.5 | 3344.0 | 26.0 | 
+| 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Zhou Ruiyang | Li Qincheng | Lose | W+R | 7.5 | 3318.0 | -49.0 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Wu Guangya | Zhou Ruiyang | Win | W+R | 7.5 | 3367.0 | -210.0 | 
+| 2020-01-05 | 第34期中国囲碁天元戦予選 | Huang Yunsong | Zhou Ruiyang | Lose | B+R | 7.5 | 3577.0 | -38.0 | 
+| 2019-12-15 | 第11期中国竜星戦予選 | Zhou Ruiyang | Fan Yin | Lose | W+R | 7.5 | 3615.0 | -25.0 | 
+| 2019-11-18 | 第4回全国智力運動会男子団体戦第9戦 | Li Xuanhao | Zhou Ruiyang | Win | W+R | 7.5 | 3640.0 | 7.0 | 
+| 2019-11-17 | 第4回全国智力運動会男子団体戦第8戦 | Zhou Ruiyang | Xie Ke | Lose | W+R | 7.5 | 3633.0 | 0.0 | 
+| 2019-11-17 | 第4回全国智力運動会男子団体戦第7戦 | Gu Lingyi | Zhou Ruiyang | Win | W+R | 7.5 | 3633.0 | -14.0 | 
+| 2019-11-16 | 第4回全国智力運動会男子団体戦第5戦 | Zhou Ruiyang |  | Win | B+R | 7.5 | 3647.0 | -5.0 | 
+| 2019-11-14 | 第4回全国智力運動会男子団体戦第1戦 | Zhou Ruiyang | Xu Jiayang | Lose | W+R | 7.5 | 3652.0 | -5.0 | 
+| 2019-11-06 | 第21回中国囲碁甲級リーグプレーオフ3回戦第2戦 | Zhou Ruiyang | Tuo Jiaxi | Lose | W+R | 7.5 | 3657.0 | -15.0 | 
+| 2019-11-04 | 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 | Han Yizhou | Zhou Ruiyang | Win | W+R | 7.5 | 3672.0 | 3.0 | 
+| 2019-10-24 | 第16期倡棋杯中国プロ囲棋選手権戦本戦決勝三番勝負第2局 | Zhou Ruiyang | Ke Jie | Lose | W+R | 7.5 | 3669.0 | -5.0 | 
+| 2019-10-22 | 第16期倡棋杯中国プロ囲棋選手権戦本戦決勝三番勝負第1局 | Ke Jie | Zhou Ruiyang | Lose | B+1 | 7.5 | 3674.0 | 71.0 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Zhou Ruiyang | Ke Jie | Lose | W+R | 7.5 | 3603.0 | 13.0 | 
+| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Shi Yue | Zhou Ruiyang | Lose | B+R | 7.5 | 3590.0 | -3.0 | 
+| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Zhou Ruiyang | Ding Hao | Lose | W+R | 7.5 | 3593.0 | -11.0 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Kim Jiseok | Zhou Ruiyang | Win | W+R | 7.5 | 3604.0 | 35.0 | 
+| 2019-08-01 | 第21回農心杯中国選抜戦 | Fan Yunruo | Zhou Ruiyang | Win | W+R | 6.5 | 3569.0 | 9.0 | 
+| 2019-07-31 | 第21回農心杯中国選抜戦 | Mi Yuting | Zhou Ruiyang | Lose | B+R | 6.5 | 3560.0 | -9.0 | 
+| 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Zhou Ruiyang | Tang Weixing | Win | B+R | 7.5 | 3569.0 | -10.0 | 
+| 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Yang Dingxin | Zhou Ruiyang | Lose | B+¾ | 7.5 | 3579.0 | -11.0 | 
+| 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Zhou Ruiyang | Jiang Weijie | Win | B+2¾ | 7.5 | 3590.0 | 9.0 | 
+| 2019-07-09 | 第16期倡棋杯中国プロ囲棋選手権戦本戦準決勝三番勝負第2局 | Shi Yue | Zhou Ruiyang | Win | W+R | 7.5 | 3581.0 | 9.0 | 
+| 2019-07-03 | 第24回三星火災杯統合予選3回戦 | Zhou Ruiyang | Park Jinsol | Lose | W+R | 6.5 | 3572.0 | -14.0 | 
+| 2019-06-20 | 第16期倡棋杯中国プロ囲棋選手権戦本戦準決勝三番勝負第1局 | Zhou Ruiyang | Shi Yue | Win | B+R | 7.5 | 3586.0 | 1.0 | 
+| 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Zhou Ruiyang | Shin Jinseo | Win | B+R | 7.5 | 3585.0 | 23.0 | 
+| 2019-06-06 | 第21期阿含・桐山杯中国早碁オープン戦予選1回戦 |  | Zhou Ruiyang | Win | W+R | 7.5 | 3562.0 | 2.0 | 
+| 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Zhou Ruiyang | Fan Yunruo | Lose | W+R | 7.5 | 3560.0 | 8.0 | 
+| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Rong Yi | Zhou Ruiyang | Win | W+R | 7.5 | 3552.0 | -15.0 | 
+| 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Zhou Ruiyang | Park Junghwan | Win | B+¾ | 7.5 | 3567.0 | 8.0 | 
+| 2019-05-08 | 嫘祖杯第32期中国囲棋名人戦32強戦 | Zhou Ruiyang | Chen Yaoye | Lose | W+R | 7.5 | 3559.0 | -6.0 | 
+| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Chen Yaoye | Zhou Ruiyang | Lose | B+R | 7.5 | 3565.0 | 4.0 | 
+| 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Zhou Ruiyang | Gu Zihao | Win | B+R | 7.5 | 3561.0 | -3.0 | 
+| 2019-04-23 | 第16期倡棋杯中国プロ囲棋選手権戦本戦3回戦 | Chen Yaoye | Zhou Ruiyang | Win | W+1¼ | 7.5 | 3564.0 | 10.0 | 
+| 2019-04-21 | 第16期倡棋杯中国プロ囲棋選手権戦本戦2回戦 | Fan Tingyu | Zhou Ruiyang | Win | W+R | 7.5 | 3554.0 | 17.0 | 
+| 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Meng Tailing | Zhou Ruiyang | Win | W+R | 7.5 | 3537.0 | 0.0 | 
+| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節江蘇-拉薩 | Huang Yunsong | Zhou Ruiyang | Win | W+R | 7.5 | 3537.0 | 14.0 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Zhou Ruiyang | Gu Li | Lose | W+R | 7.5 | 3523.0 | -19.0 | 
+| 2019-03-23 | 第18回西南棋王戦1回戦 | Dang Yifei | Zhou Ruiyang | Lose | B+R | 7.5 | 3542.0 | -23.0 | 
+| 2019-03-07 | 第10期中国竜星戦予選 | Zhou Ruiyang | Ding Shixiong | Lose | W+R | 7.5 | 3565.0 | 4.0 | 
+| 2019-02-25 | 第4期洛陽白雲山杯中国棋聖戦本戦1回戦 | Xu Jiayang | Zhou Ruiyang | Lose | B+R | 7.5 | 3561.0 | 4.0 | 
+| 2019-01-24 | 第3回ワールド碁チャンピオンシップ国際予選1回戦 | Zhou Ruiyang | Hsu Chiayuan | Win | B+R | 6.5 | 3557.0 | 7.0 | 
+| 2019-01-06 | 第33期中国囲碁天元戦2回戦 | Zhou Ruiyang | Fan Yunruo | Lose | W+2.5 | 7.5 | 3550.0 | -6.0 | 
+| 2019-01-04 | 第33期中国囲碁天元戦1回戦 | Meng Tailing | Zhou Ruiyang | Win | W+R | 7.5 | 3556.0 | 10.0 | 
+| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節重慶-廈門 | Li Xuanhao | Zhou Ruiyang | Win | W+R | 7.5 | 3546.0 | 10.0 | 
+| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節廈門-中信 | Zhou Ruiyang | Han Yizhou | Win | B+R | 7.5 | 3536.0 | 14.0 | 
+| 2018-11-16 | 第20回中国囲碁甲級リーグ第24節天津-廈門 | Meng Tailing | Zhou Ruiyang | Win | W+R | 7.5 | 3522.0 | 10.0 | 
+| 2018-11-14 | 第3回洛陽白雲山杯中国棋聖戦挑戦手合三番勝負第3局 | Zhou Ruiyang | Lian Xiao | Lose | W+R | 7.5 | 3512.0 | -4.0 | 
+| 2018-11-13 | 第3回洛陽白雲山杯中国棋聖戦挑戦手合三番勝負第2局  | Zhou Ruiyang | Lian Xiao | Lose | W+R | 7.5 | 3516.0 | -15.0 | 
+| 2018-11-11 | 第3回洛陽白雲山杯中国棋聖戦挑戦手合三番勝負第1局 | Lian Xiao | Zhou Ruiyang | Win | W+R | 7.5 | 3531.0 | 24.0 | 
+| 2018-11-09 | 第20回中国囲碁甲級リーグ第23節廈門-杭州 | Zhou Ruiyang | Xia Chenkun | Win | B+R | 7.5 | 3507.0 | 1.0 | 
+| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節廈門-上海 | Zhou Ruiyang | Li Weiqing | Lose | W+1¼ | 7.5 | 3506.0 | -43.0 | 
+| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節山東-廈門 | Yi Lingtao | Zhou Ruiyang | Lose | B+R | 7.5 | 3549.0 | -12.0 | 
+| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節廈門-衢州 | Zhou Ruiyang | Ding Shixiong | Win | B+¾ | 7.5 | 3561.0 | -45.0 | 
+| 2018-10-13 | 第14期威孚房開杯棋王戦32強戦 | Chen Yaoye | Zhou Ruiyang | Lose | B+R | 7.5 | 3606.0 | -14.0 | 
+| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節民生-廈門 | Shi Yue | Zhou Ruiyang | Lose | B+R | 7.5 | 3620.0 | -9.0 | 
+| 2018-10-08 | 第20回中国囲碁甲級リーグ第18節廈門-蘇泊爾 | Zhou Ruiyang | Lian Xiao | Lose | W+R | 7.5 | 3629.0 | 1.0 | 
+| 2018-09-28 | 第20回中国囲碁甲級リーグ第17節江蘇-廈門 | Huang Yunsong | Zhou Ruiyang | Win | W+R | 7.5 | 3628.0 | 27.0 | 
+| 2018-09-12 | 第20回中国囲碁甲級リーグ第16節廈門-浙江 | Zhou Ruiyang | Zhou Hexi | Win | B+R | 7.5 | 3601.0 | 1.0 | 
+| 2018-09-10 | 第20回中国囲碁甲級リーグ第15節江西-廈門 | Byun Sangil | Zhou Ruiyang | Win | W+R | 7.5 | 3600.0 | 8.0 | 
+| 2018-09-08 | 第20回中国囲碁甲級リーグ第14節廈門-成都 | Zhou Ruiyang | Choi Cheolhan | Win | B+R | 7.5 | 3592.0 | 28.0 | 
+| 2018-08-15 | 第20回中国囲碁甲級リーグ第13節廈門-重慶 | Zhou Ruiyang | Gu Li | Win | B+R | 7.5 | 3564.0 | 5.0 | 
+| 2018-08-13 | 第20回中国囲碁甲級リーグ第12節中信-廈門 | Han Yizhou | Zhou Ruiyang | Win | W+R | 7.5 | 3559.0 | 22.0 | 
+| 2018-07-18 | 第20期阿含・桐山杯中国早碁オープン戦16強戦 | Zhou Ruiyang | Tang Weixing | Lose | W+R | 7.5 | 3537.0 | -15.0 | 
+| 2018-07-16 | 第20回中国囲碁甲級リーグ第10節杭州-廈門 | Zhou Ruiyang | Xia Chenkun | Lose | W+1¼ | 7.5 | 3552.0 | 1.0 | 
+| 2018-07-03 | 第23回三星火災杯統合予選2回戦 | Zhou Ruiyang | Cho Hanseung | Win | B+R | 6.5 | 3551.0 | 18.0 | 
+| 2018-06-29 | 第20期阿含・桐山杯中国早碁オープン戦本選決勝 | Wang Shuo | Zhou Ruiyang | Win | W+R | 7.5 | 3533.0 | -6.0 | 
+| 2018-06-25 | 第20回中国囲碁甲級リーグ第9節上海-廈門 | Lee Yeongkyu | Zhou Ruiyang | Lose | B+R | 7.5 | 3539.0 | -19.0 | 
+| 2018-06-02 | 第20回中国囲碁甲級リーグ第8節廈門-山東 | Zhou Ruiyang | Chen Zijian | Lose | W+R | 7.5 | 3558.0 | -4.0 | 
+| 2018-05-21 | 第20回中国囲碁甲級リーグ第7節衢州-廈門 | Ding Shixiong | Zhou Ruiyang | Win | W+R | 7.5 | 3562.0 | 6.0 | 
+| 2018-05-16 | 嫘祖杯第31回中国囲棋名人戦32強戦 | Zhou Ruiyang | Xie Ke | Lose | W+R | 7.5 | 3556.0 | -4.0 | 
+| 2018-05-14 | 第20回中国囲碁甲級リーグ第6節廈門-民生 | Zhou Ruiyang | Kim Jiseok | Lose | W+T | 7.5 | 3560.0 | -2.0 | 
+| 2018-05-11 | 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Mi Yuting | Zhou Ruiyang | Lose | B+R | 7.5 | 3562.0 | 3.0 | 
+| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節蘇泊爾-廈門 | Li Qincheng | Zhou Ruiyang | Win | W+R | 7.5 | 3559.0 | -17.0 | 
+| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節廈門-江蘇 | Zhou Ruiyang | Huang Yunsong | Win | B+R | 7.5 | 3576.0 | 27.0 | 
+| 2018-04-12 | 2018CCTV杯中国囲棋電視快棋戦準決勝 | Zhou Ruiyang | Fan Yunruo | Lose | W+R | 7.5 | 3549.0 | -4.0 | 
+| 2018-04-11 | 2018CCTV杯中国囲棋電視快棋戦4回戦 | Zhou Ruiyang | Xie Erhao | Win | B+R | 7.5 | 3553.0 | 6.0 | 
+| 2018-04-10 | 2018CCTV杯中国囲棋電視快棋戦3回戦 | Zhou Ruiyang | Xia Chenkun | Win | B+R | 7.5 | 3547.0 | 9.0 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦2回戦 | Zhou Ruiyang | Yang Kaiwen | Win | B+R | 7.5 | 3538.0 | 0.0 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Wang Haoyang | Zhou Ruiyang | Win | W+R | 7.5 | 3538.0 | 10.0 | 
+| 2018-04-07 | 第23回LG杯予選決勝 | Zhou Ruiyang | Yu Bin | Lose | W+R | 6.5 | 3528.0 | -8.0 | 
+| 2018-03-30 | 第20回中国囲碁甲級リーグ第3節浙江-廈門 | Zhou Ruiyang | Li Zhe | Lose | W+R | 7.5 | 3536.0 | -5.0 | 
+| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節廈門-江西 | Yang Kaiwen | Zhou Ruiyang | Win | W+R | 7.5 | 3541.0 | 1.0 | 
+| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節成都-廈門 | Ma Yichao | Zhou Ruiyang | Win | W+R | 7.5 | 3540.0 | 26.0 | 
+| 2018-03-05 | 第9期中国竜星戦予選 |  | Zhou Ruiyang | Lose | B+¾ | 7.5 | 3514.0 | 22.0 | 
+| 2018-01-27 | 第32期中国囲碁天元戦3回戦 | Zhou Ruiyang | Zhang Tao | Lose | W+R | 7.5 | 3492.0 | -2.0 | 
+| 2018-01-25 | 第32期中国囲碁天元戦2回戦 | Fan Yin | Zhou Ruiyang | Win | W+R | 7.5 | 3494.0 | 5.0 | 
+| 2018-01-23 | 第32期中国囲碁天元戦1回戦 | Zhou Ruiyang | Wu Guangya | Win | B+R | 7.5 | 3489.0 | -65.0 | 
+| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Zhou Ruiyang | Kang Dongyun | Lose | W+¼ | 7.5 | 3554.0 | 4.0 | 
+| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Tao Xinran | Zhou Ruiyang | Win | W+¼ | 7.5 | 3550.0 | -2.0 | 
+| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Han Yizhou | Zhou Ruiyang | Win | W+R | 7.5 | 3552.0 | -9.0 | 
+| 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Zhou Ruiyang |  | Lose | W+R | 7.5 | 3561.0 | -9.0 | 
+| 2017-11-03 | 2017寧波杭州湾方太杯世界戦優勝者招待戦決勝 | Jiang Weijie | Zhou Ruiyang | Win | W+R | 7.5 | 3570.0 | 4.0 | 
+| 2017-11-02 | 2017寧波杭州湾方太杯世界戦優勝者招待戦準決勝 | Zhou Ruiyang | Shi Yue | Win | B+R | 7.5 | 3566.0 | 0.0 | 
+| 2017-11-02 | 2017寧波杭州湾方太杯世界戦優勝者招待戦8強戦 | Zhou Ruiyang | Chen Yaoye | Win | B+0.5 | 7.5 | 3566.0 | 12.0 | 
+| 2017-10-30 | 第19回中国囲碁甲級リーグ第22節 | Park Yeonghun | Zhou Ruiyang | Win | W+R | 7.5 | 3554.0 | -5.0 | 
+| 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Gu Li | Zhou Ruiyang | Win | W+R | 7.5 | 3559.0 | -8.0 | 
+| 2017-10-26 | 2017華山国際囲碁大会決勝戦 | Ke Jie | Zhou Ruiyang | Win | W+R | 7.5 | 3567.0 | 7.0 | 
+| 2017-10-25 | 2017華山国際囲碁大会準決勝 | Zhou Ruiyang | Kono Rin | Win | B+R | 7.5 | 3560.0 | 21.0 | 
+| 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Zhou Ruiyang | Xie Ke | Win | B+5.5 | 7.5 | 3539.0 | 25.0 | 
+| 2017-10-10 | 第13期威孚房開杯棋王戦32強戦 | Zhou Ruiyang | Tao Xinran | Lose | W+0.5 | 7.5 | 3514.0 | -1.0 | 
+| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Peng Quan | Zhou Ruiyang | Win | W+0.5 | 7.5 | 3515.0 | -38.0 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Zhou Ruiyang | Sun Tengyu | Lose | W+R | 7.5 | 3553.0 | 15.0 | 
+| 2017-09-21 | 第19回農心辛ラーメン杯世界囲碁最強戦第3戦 | Shin Minjun | Zhou Ruiyang | Lose | B+R | 6.5 | 3538.0 | -6.0 | 
+| 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Xie Erhao | Zhou Ruiyang | Lose | B+R | 7.5 | 3544.0 | -36.0 | 
+| 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Zhou Ruiyang | Tong Mengcheng | Lose | W+R | 7.5 | 3580.0 | -9.0 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Zhou Ruiyang | Liao Xingwen | Lose | W+R | 7.5 | 3589.0 | -11.0 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Fan Yunruo | Zhou Ruiyang | Lose | B+R | 7.5 | 3600.0 | 20.0 | 
+| 2017-08-17 | 第19回中国阿含桐山杯準決勝 | Zhou Ruiyang | Ke Jie | Lose | W+2.5 | 7.5 | 3580.0 | -7.0 | 
+| 2017-08-14 | 中国浙江平湖当湖十局杯CCTV64強 | Ding Hao | Zhou Ruiyang | Lose | B+R | 7.5 | 3587.0 | 8.0 | 
+| 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Niu Yutian | Zhou Ruiyang | Lose | B+R | 7.5 | 3579.0 | -12.0 | 
+| 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Zhou Ruiyang | Peng Liyao | Win | B+R | 7.5 | 3591.0 | -7.0 | 
+| 2017-08-03 | 嫘祖杯30回中国名人戦32強戦 | Zhou Ruiyang | Li Xuanhao | Lose | W+0.5 | 7.5 | 3598.0 | 5.0 | 
+| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 |  | Zhou Ruiyang | Win | W+R | 7.5 | 3593.0 | -4.0 | 
+| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Zhou Ruiyang | Li Xiangyu | Win | B+R | 7.5 | 3597.0 | 13.0 | 
+| 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | An Dongxu | Zhou Ruiyang | Lose | B+R | 7.5 | 3584.0 | -15.0 | 
+| 2017-07-06 | 19回中国阿含桐山杯快棋8強戦 | Mi Yuting | Zhou Ruiyang | Win | W+0.5 | 7.5 | 3599.0 | 6.0 | 
+| 2017-07-05 | 19回中国阿含桐山杯快棋16強戦 | Zhou Ruiyang | Zhao Chenyu | Win | B+R | 7.5 | 3593.0 | 3.0 | 
+| 2017-07-03 | 第22回三星火災杯統合予選決勝 | Zhou Ruiyang | Lee Donghoon | Lose | W+R | 6.5 | 3590.0 | -3.0 | 
+| 2017-06-28 | 第22回三星火災杯統合予選1回戦 | Zhou Ruiyang | Han Seungjoo | Win | B+R | 6.5 | 3593.0 | -6.0 | 
+| 2017-06-21 | 第3回夢百合杯世界オープン戦2回戦 | Zhou Ruiyang | Park Junghwan | Lose | W+0.5 | 7.5 | 3599.0 | 3.0 | 
+| 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Ma Yichao | Zhou Ruiyang | Win | W+R | 7.5 | 3596.0 | 18.0 | 
+| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Yang Dingxin | Zhou Ruiyang | Win | W+R | 7.5 | 3578.0 | -18.0 | 
+| 2017-06-12 | 第1回巔峰夢想拉薩交通産業集団ラリー戦b6 | Zhou Ruiyang | Mi Yuting | Lose | W+R | 7.5 | 3596.0 | -2.0 | 
+| 2017-06-10 | 第1回巔峰夢想拉薩交通産業集団ラリー戦b5 | Tuo Jiaxi | Zhou Ruiyang | Win | W+R | 7.5 | 3598.0 | 5.0 | 
+| 2017-06-08 | 第1回巔峰夢想拉薩交通産業集団ラリー戦b3 | Mi Yuting | Zhou Ruiyang | Lose | B+1.5 | 7.5 | 3593.0 | -6.0 | 
+| 2017-06-07 | 第1回巔峰夢想拉薩交通産業集団ラリー戦2回戦 | Zhou Ruiyang | Tuo Jiaxi | Lose | W+R | 7.5 | 3599.0 | -14.0 | 
+| 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Iyama Yuta | Zhou Ruiyang | Lose | B+R | 6.5 | 3613.0 | -12.0 | 
+| 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Zhou Ruiyang | Kim Junghyun | Win | B+R | 6.5 | 3625.0 | 23.0 | 
+| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Wu Guangya | Zhou Ruiyang | Win | W+R | 7.5 | 3602.0 | 10.0 | 
+| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Zhou Ruiyang | Dang Yifei | Win | B+R | 7.5 | 3592.0 | 8.0 | 
+| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Ding Shixiong | Zhou Ruiyang | Win | W+R | 7.5 | 3584.0 | -4.0 | 
+| 2017-05-12 | 第1回新奥杯世界囲碁オープン戦準決勝第3局 | Zhou Ruiyang | Peng Liyao | Lose | W+R | 7.5 | 3588.0 | -9.0 | 
+| 2017-05-11 | 第1回新奥杯世界囲碁オープン戦準決勝第2局 | Peng Liyao | Zhou Ruiyang | Lose | B+R | 7.5 | 3597.0 | 3.0 | 
+| 2017-05-09 | 第1回新奥杯世界囲碁オープン戦準決勝第1局 | Zhou Ruiyang | Peng Liyao | Win | B+R | 7.5 | 3594.0 | 19.0 | 
+| 2017-05-07 | 第1回新奥杯世界囲碁オープン戦4回戦 | Zhou Ruiyang | Shin Jinseo | Win | B+R | 7.5 | 3575.0 | 20.0 | 
+| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Zhou Ruiyang | Xie Erhao | Lose | W+2.5 | 7.5 | 3555.0 | -6.0 | 
+| 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Zhou Ruiyang | Zhao Chenyu | Lose | W+R | 7.5 | 3561.0 | -5.0 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Lee Sedol | Zhou Ruiyang | Win | W+0.5 | 7.5 | 3566.0 | 1.0 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Fan Yunruo | Zhou Ruiyang | Lose | B+R | 7.5 | 3565.0 | -62.0 | 
+| 2017-03-17 | 第8期中国竜星戦Bブロック10回戦 | Zhou Ruiyang | Gu Zihao | Lose | W+2.5 | 7.5 | 3627.0 | 4.0 | 
+| 2017-03-09 | 嫘祖杯29期中国名人戦挑戦手合3番3局 | Lian Xiao | Zhou Ruiyang | Lose | B+R | 7.5 | 3623.0 | -8.0 | 
+| 2017-03-08 | 嫘祖杯29期中国名人戦挑戦手合3番2局 | Lian Xiao | Zhou Ruiyang | Win | W+R | 7.5 | 3631.0 | 10.0 | 
+| 2017-03-06 | 嫘祖杯29期中国名人戦挑戦手合3番1局 | Zhou Ruiyang | Lian Xiao | Lose | W+R | 7.5 | 3621.0 | -9.0 | 
+| 2017-02-08 | 第21期LG杯朝鮮日報棋王戦決勝3番2局 | Zhou Ruiyang | Dang Yifei | Lose | W+1.5 | 6.5 | 3630.0 | -12.0 | 
+| 2017-02-06 | 第21期LG杯朝鮮日報棋王戦決勝3番1局 | Dang Yifei | Zhou Ruiyang | Lose | B+R | 6.5 | 3642.0 | -15.0 | 
+| 2017-01-22 | 第31期中国囲碁天元戦挑戦者決定戦 | Zhou Ruiyang | Lian Xiao | Lose | W+R | 7.5 | 3657.0 | -9.0 | 
+| 2017-01-20 | 天元戦 | Zhou Ruiyang | Gu Li | Win | B+5.5 | 7.5 | 3666.0 | 4.0 | 
+| 2017-01-18 | 第31期中国囲碁天元戦3回戦 | Zhou Ruiyang | Mao Ruilong | Win | B+R | 7.5 | 3662.0 | 12.0 | 
+| 2017-01-16 | 第31期中国囲碁天元戦2回戦 | An Dongxu | Zhou Ruiyang | Win | W+4.5 | 7.5 | 3650.0 | 1.0 | 
+| 2017-01-14 | 第31期中国囲碁天元戦1回戦 | Dang Yifei | Zhou Ruiyang | Win | W+R | 7.5 | 3649.0 | 16.0 | 
+| 2017-01-12 | 嫘祖杯第29期中国名人戦挑戦者戦 | Zhou Ruiyang | Mi Yuting | Win | B+R | 7.5 | 3633.0 | 10.0 | 
+| 2017-01-10 | 嫘祖杯第29期中国名人戦準決勝 | Zhou Ruiyang | Yang Dingxin | Win | B+R | 7.5 | 3623.0 | -1.0 | 
+| 2017-01-09 | 嫘祖杯第29期中国名人戦8強戦 | Zhou Ruiyang | Tan Xiao | Win | B+R | 7.5 | 3624.0 | 13.0 | 
+| 2017-01-04 | Alphago Online Series on Tygem and Fox 59 |  | Zhou Ruiyang | Lose | B+R | 6.5 | 3611.0 | -1.0 | 
+| 2016-12-26 | 嫘祖杯第29期中国名人戦16強戦 | Shi Yue | Zhou Ruiyang | Win | W+R | 7.5 | 3612.0 | 8.0 | 
+| 2016-12-24 | 嫘祖杯第29期中国名人戦32強戦 | Zhou Ruiyang | Fan Yin | Win | B+R | 7.5 | 3604.0 | -2.0 | 
+| 2016-12-03 | 第18回中国囲碁甲級リーグ第22節 | Zhou Ruiyang | Meng Tailing | Win | B+R | 7.5 | 3606.0 | -4.0 | 
+| 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Mi Yuting | Zhou Ruiyang | Win | W+R | 7.5 | 3610.0 | 11.0 | 
+| 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Zhou Ruiyang | Tan Xiao | Win | B+R | 7.5 | 3599.0 | 8.0 | 
+| 2016-11-18 | 第18回中国囲碁甲級リーグ第19節 | Ke Jie | Zhou Ruiyang | Lose | B+1.5 | 7.5 | 3591.0 | -8.0 | 
+| 2016-11-16 | 第21期LG杯準決勝 | Park Junghwan | Zhou Ruiyang | Win | W+R | 6.5 | 3599.0 | 21.0 | 
+| 2016-11-14 | 第21期LG杯朝鮮日報棋王戦8強戦 | Peng Liyao | Zhou Ruiyang | Win | W+R | 6.5 | 3578.0 | 0.0 | 
+| 2016-11-12 | 第18回中国囲碁甲級リーグ第18節 | Zhou Ruiyang | Shi Yue | Lose | W+R | 7.5 | 3578.0 | -2.0 | 
+| 2016-11-10 | 第1回新奥杯世界囲碁オープン戦3回戦 | Han Seungjoo | Zhou Ruiyang | Win | W+R | 7.5 | 3580.0 | -3.0 | 
+| 2016-11-08 | 第1回新奥杯世界囲碁オープン戦2回戦 | Cho Hanseung | Zhou Ruiyang | Win | W+R | 7.5 | 3583.0 | -4.0 | 
+| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Qin Yuexin | Zhou Ruiyang | Win | W+R | 7.5 | 3587.0 | -2.0 | 
+| 2016-11-04 | 第18回中国囲碁甲級リーグ第17節 | Zhou Ruiyang | Zhou Hexi | Win | B+R | 7.5 | 3589.0 | 18.0 | 
+| 2016-10-28 | 第18回中国囲碁甲級リーグ第16節 | Zhou Ruiyang |  | Lose | W+0.5 | 7.5 | 3571.0 | -12.0 | 
+| 2016-10-10 | 第18回中国囲碁甲級リーグ第15節 | Zhou Ruiyang | Chen Yaoye | Lose | W+R | 7.5 | 3583.0 | -22.0 | 
+| 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Wu Guangya | Zhou Ruiyang | Win | W+2.5 | 7.5 | 3605.0 | 19.0 | 
+| 2016-10-06 | 第21回三星火災杯世界囲碁マスターズ3回戦 | Ke Jie | Zhou Ruiyang | Lose | B+R | 6.5 | 3586.0 | -7.0 | 
+| 2016-10-04 | 第21回三星火災杯世界囲碁マスターズ2回戦 | Byun Sangil | Zhou Ruiyang | Win | W+R | 6.5 | 3593.0 | 8.0 | 
+| 2016-09-07 | 第21回三星火災杯世界囲碁マスターズ1回戦G2 | Tuo Jiaxi | Zhou Ruiyang | Win | W+R | 6.5 | 3585.0 | 3.0 | 
+| 2016-09-06 | 第21回三星火災杯世界囲碁マスターズ1回戦G1 | Zhou Ruiyang | Chen Yaoye | Win | B+4.5 | 6.5 | 3582.0 | 3.0 | 
+| 2016-08-22 | 第12期威孚房開杯棋王戦1回戦 | Zhou Ruiyang | Fan Tingyu | Lose | W+R | 7.5 | 3579.0 | -7.0 | 
+| 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Tang Weixing | Zhou Ruiyang | Win | W+R | 7.5 | 3586.0 | -15.0 | 
+| 2016-06-25 | 第18回中国囲碁甲級リーグ第10節 | Tong Mengcheng | Zhou Ruiyang | Win | W+R | 7.5 | 3601.0 | 16.0 | 
+| 2016-06-20 | 第18回中国囲碁甲級リーグ第9節 | Tan Xiao | Zhou Ruiyang | Lose | B+R | 7.5 | 3585.0 | -16.0 | 
+| 2016-06-16 | 第18回中国囲碁甲級リーグ第8節 | Shin Jinseo | Zhou Ruiyang | Win | W+R | 7.5 | 3601.0 | 39.0 | 
+| 2016-06-06 | 第18回中国囲碁甲級リーグ第7節 | Zhou Ruiyang | Piao Wenyao | Win | B+R | 7.5 | 3562.0 | 18.0 | 
+| 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Zhou Ruiyang | Mao Ruilong | Lose | W+R | 7.5 | 3544.0 | -10.0 | 
+| 2016-06-01 | 第21回LG杯朝鮮日報棋王戦2回戦 | Zhou Ruiyang | Lee Donghoon | Win | B+1.5 | 6.5 | 3554.0 | 7.0 | 
+| 2016-05-30 | 第21回LG杯朝鮮日報棋王戦1回戦 | Murakawa Daisuke | Zhou Ruiyang | Win | W+R | 6.5 | 3547.0 | 10.0 | 
+| 2016-05-22 | 第18回中国囲碁甲級リーグ第6節 | Zhou Ruiyang | Kim Jiseok | Lose | W+R | 7.5 | 3537.0 | -23.0 | 
+| 2016-05-18 | 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Li Qincheng | Zhou Ruiyang | Lose | B+R | 7.5 | 3560.0 | -7.0 | 
+| 2016-05-16 | 第18回中国囲碁甲級リーグ第5節 | Sun Tengyu | Zhou Ruiyang | Win | W+R | 7.5 | 3567.0 | -43.0 | 
+| 2016-05-11 | 第18期阿含・桐山杯中国早碁オープン戦1回戦 | Xia Chenkun | Zhou Ruiyang | Lose | B+R | 7.5 | 3610.0 | -12.0 | 
+| 2016-05-09 | 第18回中国囲碁甲級リーグ第4節 | Tuo Jiaxi | Zhou Ruiyang | Lose | B+R | 7.5 | 3622.0 | -23.0 | 
+| 2016-04-30 | 第18回中国囲碁甲級リーグ第3節 | Zhou Ruiyang | Park Junghwan | Lose | W+R | 7.5 | 3645.0 | 1.0 | 
+| 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Choi Cheolhan | Zhou Ruiyang | Win | W+R | 7.5 | 3644.0 | 5.0 | 
+| 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Zhou Ruiyang | Kang Dongyun | Win | B+R | 7.5 | 3639.0 | 31.0 | 
+| 2016-04-05 | 第21回LG杯予選 | Zhou Ruiyang | Hong Seongji | Win | B+R | 6.5 | 3608.0 | 2.0 | 
+| 2016-04-04 | 第21回LG杯予選 | Choi Myeonghun | Zhou Ruiyang | Win | W+5.5 | 6.5 | 3606.0 | -11.0 | 
+| 2016-04-01 | 第21回LG杯予選 | Ryu Suhang | Zhou Ruiyang | Win | W+R | 6.5 | 3617.0 | 8.0 | 
+| 2016-03-28 | 第11回春蘭杯世界囲碁選手権2回戦 | Zhou Ruiyang | Park Yeonghun | Lose | W+R | 7.5 | 3609.0 | -1.0 | 
+| 2016-03-21 | 第13期倡棋杯中国プロ囲碁選手権戦2回戦 | Zhou Ruiyang | Fan Yunruo | Lose | W+R | 7.5 | 3610.0 | -10.0 | 
+| 2016-03-19 | 第13期倡棋杯中国プロ囲碁選手権戦1回戦 | Zhou Ruiyang | Huang Yunsong | Win | B+R | 7.5 | 3620.0 | 18.0 | 
+| 2016-03-01 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Zhou Ruiyang | Lin Lixiang | Win | B+R | 7.5 | 3602.0 | 1.0 | 
+| 2016-02-29 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Mutsuura Yuta | Zhou Ruiyang | Win | W+R | 7.5 | 3601.0 | 1.0 | 
+| 2016-02-28 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Ryan Li | Zhou Ruiyang | Win | W+R | 7.5 | 3600.0 | 0.0 | 
+| 2016-02-27 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Zhou Ruiyang | Park Junghwan | Lose | W+R | 7.5 | 3600.0 | -7.0 | 
+| 2016-02-26 | 第1回IMSAエリートマインドゲームズ囲碁男子団体戦 | Ali Jabarin | Zhou Ruiyang | Win | W+R | 7.5 | 3607.0 | 18.0 | 
+| 2016-01-18 | 第7期中国竜星戦準決勝 | Mi Yuting | Zhou Ruiyang | Lose | B+R | 7.5 | 3589.0 | -9.0 | 
+| 2016-01-16 | 第7期中国竜星戦3回戦 | Zhou Ruiyang | Piao Wenyao | Win | B+R | 7.5 | 3598.0 | 5.0 | 
+| 2016-01-15 | 第30期中国囲碁天元戦1回戦 | Zhou Ruiyang | Tao Xinran | Lose | W+R | 7.5 | 3593.0 | 9.0 | 
+| 2015-12-06 | 第17回中国囲碁甲級リーグ第22節 | Zhou Ruiyang | Kang Dongyun | Win | B+R | 7.5 | 3584.0 | 8.0 | 
+| 2015-12-04 | 第17回中国囲碁甲級リーグ第21節 | Lee Sedol | Zhou Ruiyang | Win | W+R | 7.5 | 3576.0 | -8.0 | 
+| 2015-11-13 | 第17回中国囲碁甲級リーグ第20節 | Zhou Ruiyang | Ke Jie | Lose | W+R | 7.5 | 3584.0 | -38.0 | 
+| 2015-11-08 | 第17回中国囲碁甲級リーグ第19節 | Chang Hao | Zhou Ruiyang | Win | W+R | 7.5 | 3622.0 | 7.0 | 
+| 2015-10-30 | 第11期威孚房開杯棋王戦3回戦 | Zhou Ruiyang | Ke Jie | Lose | W+R | 7.5 | 3615.0 | -13.0 | 
+| 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 | Zhou Ruiyang | Park Junghwan | Lose | W+R | 7.5 | 3628.0 | 3.0 | 
+| 2015-10-24 | 第7期中国竜星戦2回戦 | Zhou Ruiyang | Gu Lingyi | Win | B+3.5 | 7.5 | 3625.0 | -2.0 | 
+| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Tang Weixing | Zhou Ruiyang | Win | W+R | 7.5 | 3627.0 | -1.0 | 
+| 2015-10-13 | 第11期威孚房開杯棋王戦2回戦 | Zhou Ruiyang | Tang Weixing | Win | B+R | 7.5 | 3628.0 | 4.0 | 
+| 2015-10-12 | 第11期威孚房開杯棋王戦1回戦 | Hu Yaoyu | Zhou Ruiyang | Win | W+R | 7.5 | 3624.0 | 14.0 | 
+| 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Tuo Jiaxi | Zhou Ruiyang | Win | W+0.5 | 7.5 | 3610.0 | -40.0 | 
+| 2015-09-29 | 第17回中国囲碁甲級リーグ第15節 | Zhou Ruiyang | Gu Zihao | Win | B+R | 7.5 | 3650.0 | 6.0 | 
+| 2015-09-27 | 第7期中国竜星戦1回戦 | Huang Yizhong | Zhou Ruiyang | Win | W+R | 7.5 | 3644.0 | 11.0 | 
+| 2015-09-24 | 第17回中国囲碁甲級リーグ第14節 | Xie He | Zhou Ruiyang | Win | W+2.5 | 7.5 | 3633.0 | 6.0 | 
+| 2015-09-22 | 第3回全国智力運動会囲碁男子団体戦 | Zhou Ruiyang | Tan Xiao | Lose | W+R | 7.5 | 3627.0 | -5.0 | 
+| 2015-09-19 | 第3回全国智力運動会囲碁男子団体戦 | Zhou Ruiyang | Liao Xingwen | Lose | W+R | 7.5 | 3632.0 | -11.0 | 
+| 2015-09-18 | 第3回全国智力運動会囲碁男子団体戦 | Zhou Ruiyang | Qiu Jun | Win | B+R | 7.5 | 3643.0 | 17.0 | 
+| 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Zhou Ruiyang | Zhang Tao | Win | B+R | 7.5 | 3626.0 | 16.0 | 
+| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Shi Yue | Zhou Ruiyang | Win | W+R | 7.5 | 3610.0 | 16.0 | 
+| 2015-09-01 | 第2回夢百合杯世界オープン戦4回戦 | Park Yeonghun | Zhou Ruiyang | Lose | B+R | 7.5 | 3594.0 | -20.0 | 
+| 2015-08-30 | 第2回夢百合杯世界オープン戦3回戦 | Zhou Ruiyang | Park Junghwan | Win | B+R | 7.5 | 3614.0 | -4.0 | 
+| 2015-08-02 | 第20回三星火災杯統合予選1回戦 |  | Zhou Ruiyang | Win | W+R | 6.5 | 3618.0 | 30.0 | 
+| 2015-07-11 | 第17回中国囲碁甲級リーグ第11節 | Kang Dongyun | Zhou Ruiyang | Lose | B+R | 7.5 | 3588.0 | -9.0 | 
+| 2015-07-09 | 第2回夢百合杯世界オープン戦2回戦 | Yu Zhiying | Zhou Ruiyang | Win | W+R | 7.5 | 3597.0 | -3.0 | 
+| 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Zhou Ruiyang | Yun Junsang | Win | B+R | 7.5 | 3600.0 | 12.0 | 
+| 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 | Liao Xingwen | Zhou Ruiyang | Win | W+R | 7.5 | 3588.0 | 0.0 | 
+| 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Xie Erhao | Zhou Ruiyang | Win | W+2.5 | 7.5 | 3588.0 | 1.0 | 
+| 2015-06-25 | 第17回中国囲碁甲級リーグ第8節 | Qiu Jun | Zhou Ruiyang | Win | W+R | 7.5 | 3587.0 | 26.0 | 
+| 2015-06-16 | 第17期阿含・桐山杯中国早碁オープン戦予選 | Li Qincheng | Zhou Ruiyang | Lose | B+1.5 | 7.5 | 3561.0 | 0.0 | 
+| 2015-06-16 | 第17期阿含・桐山杯中国早碁オープン戦予選 | Zhou Ruiyang | Zhu Yuanhao | Win | B+1.5 | 7.5 | 3561.0 | -15.0 | 
+| 2015-06-13 | 第17回中国囲碁甲級リーグ第7節 | Li Qincheng | Zhou Ruiyang | Win | W+R | 7.5 | 3576.0 | 12.0 | 
+| 2015-06-11 | 第28期中国囲碁名人戦2回戦 | Li Qincheng | Zhou Ruiyang | Lose | B+3.5 | 7.5 | 3564.0 | -6.0 | 
+| 2015-06-08 | 第20回LG杯朝鮮日報棋王戦1回戦 | Kim Myounghoon | Zhou Ruiyang | Lose | B+R | 6.5 | 3570.0 | -11.0 | 
+| 2015-06-03 | 第10回春蘭杯世界囲碁選手権決勝三番勝負第2局 | Gu Li | Zhou Ruiyang | Lose | B+1.5 | 7.5 | 3581.0 | -15.0 | 
+| 2015-06-01 | 第10回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Zhou Ruiyang | Gu Li | Lose | W+R | 7.5 | 3596.0 | 6.0 | 
+| 2015-05-28 | 第17回中国囲碁甲級リーグ第6節 | Zhou Ruiyang | Mi Yuting | Lose | W+R | 7.5 | 3590.0 | 15.0 | 
+| 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Zhou Ruiyang | Tuo Jiaxi | Win | B+1.5 | 7.5 | 3575.0 | -6.0 | 
+| 2015-05-16 | 第17回中国囲碁甲級リーグ第4節 | Tan Xiao | Zhou Ruiyang | Win | W+0.5 | 7.5 | 3581.0 | 15.0 | 
+| 2015-05-14 | 第17回中国囲碁甲級リーグ第3節 | Xie He | Zhou Ruiyang | Win | W+R | 7.5 | 3566.0 | 23.0 | 
+| 2015-04-29 | 第17回中国囲碁甲級リーグ第2節 | Zhou Ruiyang | Zhang Tao | Lose | W+R | 7.5 | 3543.0 | -9.0 | 
+| 2015-04-22 | 第17回中国囲碁甲級リーグ第1節 | Tao Xinran | Zhou Ruiyang | Lose | B+3.5 | 7.5 | 3552.0 | 1.0 | 
+| 2015-04-07 | 第12期倡棋杯中国プロ囲碁選手権戦3回戦 | Qiu Jun | Zhou Ruiyang | Lose | B+R | 7.5 | 3551.0 | -15.0 | 
+| 2015-04-05 | 第12期倡棋杯中国プロ囲碁選手権戦2回戦 | Zhou Ruiyang | Piao Wenyao | Win | B+R | 7.5 | 3566.0 | 0.0 | 
+| 2015-04-03 | 第12期倡棋杯中国プロ囲碁選手権戦1回戦 | Zhou Ruiyang | Li Xuanhao | Win | B+3 | 7.5 | 3566.0 | 4.0 | 
+| 2015-01-29 | 第29期中国囲碁天元戦2回戦 | Zhou Ruiyang | Zhong Wenjing | Lose | W+R | 7.5 | 3562.0 | 1.0 | 
+| 2015-01-27 | 第29期中国囲碁天元戦1回戦 | Zhou Ruiyang | Chen Xian | Win | B+1.5 | 7.5 | 3561.0 | 5.0 | 
+| 2015-01-20 | 第15期リコー杯囲碁戦2回戦 | Xie Erhao | Zhou Ruiyang | Lose | B+R | 7.5 | 3556.0 | -17.0 | 
+| 2014-12-27 | 第10回春蘭杯世界囲碁選手権準決勝 | Chen Yaoye | Zhou Ruiyang | Win | W+R | 7.5 | 3573.0 | 5.0 | 
+| 2014-12-25 | 第10回春蘭杯世界囲碁選手権3回戦 | Shi Yue | Zhou Ruiyang | Win | W+R | 7.5 | 3568.0 | -28.0 | 
+| 2014-11-25 | 第16回中国囲碁甲級リーグ第22節 | Zhang Tao | Zhou Ruiyang | Lose | B+R | 7.5 | 3596.0 | 1.0 | 
+| 2014-11-22 | 第16回中国囲碁甲級リーグ第21節 | Zhou Ruiyang | Sun Tengyu | Win | B+R | 7.5 | 3595.0 | 8.0 | 
+| 2014-11-19 | 第27期中国囲碁名人戦挑戦者決定戦第2局 | Zhou Ruiyang | Lian Xiao | Lose | W+R | 7.5 | 3587.0 | -6.0 | 
+| 2014-11-17 | 第27期中国囲碁名人戦挑戦者決定戦第1局 | Lian Xiao | Zhou Ruiyang | Lose | B+R | 7.5 | 3593.0 | -5.0 | 
+| 2014-11-11 | 第16回中国囲碁甲級リーグ第20節 | Zhou Ruiyang | Xie Erhao | Win | B+R | 7.5 | 3598.0 | 11.0 | 
+| 2014-11-09 | 第16回中国囲碁甲級リーグ第19節 | Na Hyun | Zhou Ruiyang | Win | W+R | 7.5 | 3587.0 | 13.0 | 
+| 2014-10-31 | 第16回中国囲碁甲級リーグ第18節 | Yang Dingxin | Zhou Ruiyang | Win | W+R | 7.5 | 3574.0 | -24.0 | 
+| 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 | Liao Xingwen | Zhou Ruiyang | Lose | B+R | 7.5 | 3598.0 | 9.0 | 
+| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Zhou Ruiyang | Tao Xinran | Win | B+R | 7.5 | 3589.0 | 7.0 | 
+| 2014-10-16 | 第19回三星火災杯世界囲碁マスターズ3回戦 | Zhou Ruiyang | Park Junghwan | Lose | W+R | 6.5 | 3582.0 | 3.0 | 
+| 2014-10-14 | 第19回三星火災杯世界囲碁マスターズ2回戦 | Zhou Ruiyang | Cho Hanseung | Win | B+R | 6.5 | 3579.0 | 0.0 | 
+| 2014-10-11 | 第10期威孚房開杯棋王戦1回戦 |  | Zhou Ruiyang | Lose | B+R | 7.5 | 3579.0 | -19.0 | 
+| 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Zhou Ruiyang | Chen Yaoye | Win | B+1.5 | 7.5 | 3598.0 | 94.0 | 
+| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Zhou Ruiyang | Lee Donghoon | Lose | W+R | 7.5 | 3504.0 | -25.0 | 
+| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Tang Weixing | Zhou Ruiyang | Win | W+R | 7.5 | 3529.0 | 9.0 | 
+| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Piao Wenyao | Zhou Ruiyang | Lose | B+R | 7.5 | 3520.0 | 6.0 | 
+| 2014-09-02 | 第6期中国竜星戦1回戦 | Li Qincheng | Zhou Ruiyang | Lose | B+1.5 | 7.5 | 3514.0 | -3.0 | 
+| 2014-08-30 | 第16期阿含・桐山杯中国早碁オープン戦準決勝 | Zhou Ruiyang | Ke Jie | Lose | W+R | 7.5 | 3517.0 | -8.0 | 
+| 2014-08-27 | 第19回三星火災杯世界囲碁マスターズ1回戦A2 | Zhou Ruiyang | Tuo Jiaxi | Win | B+R | 6.5 | 3525.0 | 0.0 | 
+| 2014-08-26 | 第19回三星火災杯世界囲碁マスターズ1回戦A1 | Kang Seungmin | Zhou Ruiyang | Win | W+R | 6.5 | 3525.0 | -32.0 | 
+| 2014-08-06 | 第19回三星火災杯統合予選決勝 | Zhou Ruiyang | Lee Jihyun | Win | B+R | 6.5 | 3557.0 | -11.0 | 
+| 2014-08-05 | 第19回三星火災杯統合予選準決勝 | Kim Minho | Zhou Ruiyang | Win | W+R | 6.5 | 3568.0 | -21.0 | 
+| 2014-07-28 | 第16期阿含・桐山杯中国早碁オープン戦2回戦 | Chen Yaoye | Zhou Ruiyang | Win | W+R | 7.5 | 3589.0 | -2.0 | 
+| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Zhou Ruiyang | An Sungjoon | Lose | W+R | 7.5 | 3591.0 | -58.0 | 
+| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Qin Yuexin | Zhou Ruiyang | Win | W+R | 7.5 | 3649.0 | -7.0 | 
+| 2014-07-07 | 第16期阿含・桐山杯中国早碁オープン戦1回戦 | Zhou Ruiyang | Fan Yunruo | Win | B+R | 7.5 | 3656.0 | 12.0 | 
+| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Yang Kaiwen | Zhou Ruiyang | Lose | B+R | 7.5 | 3644.0 | 19.0 | 
+| 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Peng Quan | Zhou Ruiyang | Lose | B+R | 7.5 | 3625.0 | 21.0 | 
+| 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Hu Yaoyu | Zhou Ruiyang | Win | W+R | 7.5 | 3604.0 | -3.0 | 
+| 2014-06-20 | 第5回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Zhou Hexi | Zhou Ruiyang | Lose | B+R | 7.5 | 3607.0 | -6.0 | 
+| 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Zhou Ruiyang | Wu Guangya | Win | B+R | 7.5 | 3613.0 | -53.0 | 
+| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Gu Li | Zhou Ruiyang | Win | W+R | 7.5 | 3666.0 | 14.0 | 
+| 2014-06-09 | 第19回LG杯朝鮮日報棋王戦1回戦 | Zhou Ruiyang | Kim Jiseok | Lose | W+R | 6.5 | 3652.0 | -1.0 | 
+| 2014-06-05 | 第16回中国囲碁甲級リーグ第6節 | Niu Yutian | Zhou Ruiyang | Win | W+R | 7.5 | 3653.0 | 1.0 | 
+| 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Guo Yuzheng | Zhou Ruiyang | Win | W+R | 7.5 | 3652.0 | -2.0 | 
+| 2014-05-30 | 第11期倡棋杯中国プロ囲碁選手権戦2回戦 | Mi Yuting | Zhou Ruiyang | Lose | B+5 | 7.5 | 3654.0 | -19.0 | 
+| 2014-05-28 | 第11期倡棋杯中国プロ囲碁選手権戦1回戦 | Zhou Ruiyang | Zhong Wenjing | Win | B+1 | 7.5 | 3673.0 | 7.0 | 
+| 2014-05-26 | 第27期中国囲碁名人戦準決勝 | Xia Chenkun | Zhou Ruiyang | Win | W+R | 7.5 | 3666.0 | -26.0 | 
+| 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Tuo Jiaxi | Zhou Ruiyang | Win | W+R | 7.5 | 3692.0 | -26.0 | 
+| 2014-05-18 | 第16回中国囲碁甲級リーグ第3節 | Dang Yifei | Zhou Ruiyang | Win | W+R | 7.5 | 3718.0 | 18.0 | 
+| 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Zhou Ruiyang | Mi Yuting | Lose | W+R | 7.5 | 3700.0 | -9.0 | 
+| 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Wu Guangya | Zhou Ruiyang | Lose | B+R | 7.5 | 3709.0 | -3.0 | 
+| 2014-05-06 | 2014CCTV杯中国囲棋電視快棋戦3回戦 | Zhou Ruiyang | Fan Tingyu | Lose | W+R | 7.5 | 3712.0 | -21.0 | 
+| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦2回戦 | Xie Erhao | Zhou Ruiyang | Win | W+R | 7.5 | 3733.0 | 0.0 | 
+| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Li Kang | Zhou Ruiyang | Win | W+R | 7.5 | 3733.0 | 18.0 | 
+| 2014-04-08 | 第27期中国囲碁名人戦3回戦 | Sun Tengyu | Zhou Ruiyang | Win | W+R | 7.5 | 3715.0 | 2.0 | 
+| 2014-04-06 | 第27期中国囲碁名人戦2回戦 | Zhou Ruiyang | Peng Liyao | Win | B+R | 7.5 | 3713.0 | 2.0 | 
+| 2014-04-04 | 第27期中国囲碁名人戦1回戦 | Zhou Ruiyang | Wu Guangya | Win | B+R | 7.5 | 3711.0 | 2.0 | 
+| 2014-03-28 | 第10回春蘭杯世界囲碁選手権2回戦 | Zhou Ruiyang | Iyama Yuta | Win | B+R | 7.5 | 3709.0 | 5.0 | 
+| 2014-03-23 | 第4期招商地産杯中韓囲棋団体対抗戦第2戦 | Zhou Ruiyang | Kim Jiseok | Lose | W+R | 7.5 | 3704.0 | -2.0 | 
+| 2014-03-21 | 第4期招商地産杯中韓囲棋団体対抗戦第1戦 | Zhou Ruiyang | Park Junghwan | Lose | W+R | 7.5 | 3706.0 | -9.0 | 
+| 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Park Cheongsang | Zhou Ruiyang | Win | W+R | 7.5 | 3715.0 | 26.0 | 
+| 2014-02-27 | 第15回農心辛ラーメン杯世界囲碁最強戦第13戦 | Zhou Ruiyang | Park Junghwan | Lose | W+R | 6.5 | 3689.0 | -21.0 | 
+| 2014-02-19 | 第14期リコー杯囲碁戦準決勝 | Wu Guangya | Zhou Ruiyang | Lose | B+R | 7.5 | 3710.0 | -8.0 | 
+| 2014-02-18 | 第14期リコー杯囲碁戦4回戦 | Zhou Ruiyang | Xu Jiayang | Win | B+R | 7.5 | 3718.0 | 3.0 | 
+| 2014-02-17 | 第14期リコー杯囲碁戦3回戦 | Gu Lingyi | Zhou Ruiyang | Win | W+R | 7.5 | 3715.0 | 4.0 | 
+| 2014-02-13 | 第18回LG杯世界棋王戦決勝三番勝負第3局 | Zhou Ruiyang | Tuo Jiaxi | Lose | W+R | 6.5 | 3711.0 | -9.0 | 
+| 2014-02-12 | 第18回LG杯世界棋王戦決勝三番勝負第2局 | Tuo Jiaxi | Zhou Ruiyang | Win | W+R | 6.5 | 3720.0 | 3.0 | 
+| 2014-02-10 | 第18回LG杯世界棋王戦決勝三番勝負第1局 | Zhou Ruiyang | Tuo Jiaxi | Lose | W+1.5 | 6.5 | 3717.0 | -9.0 | 
+| 2014-01-19 | 第28期中国囲碁天元戦3回戦 | Ke Jie | Zhou Ruiyang | Lose | B+R | 7.5 | 3726.0 | -11.0 | 
+| 2014-01-17 | 第28期中国囲碁天元戦2回戦 | Niu Yutian | Zhou Ruiyang | Win | W+R | 7.5 | 3737.0 | 5.0 | 
+| 2014-01-15 | 第28期中国囲碁天元戦1回戦 | Li Qincheng | Zhou Ruiyang | Win | W+R | 7.5 | 3732.0 | -10.0 | 
+| 2013-12-30 | 第14期リコー杯囲碁戦2回戦 | Zhou Ruiyang | Xie Erhao | Win | B+1.5 | 7.5 | 3742.0 | 13.0 | 
+| 2013-12-16 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Zhou Ruiyang | Kim Jiseok | Win | B+R | 7.5 | 3729.0 | 8.0 | 
+| 2013-12-15 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Ilya Shikshin | Zhou Ruiyang | Win | W+R | 7.5 | 3721.0 | 2.0 | 
+| 2013-12-14 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Zhou Ruiyang | Hirata Tomoya | Win | B+R | 7.5 | 3719.0 | 1.0 | 
+| 2013-12-13 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Wang Yuanjun | Zhou Ruiyang | Win | W+R | 7.5 | 3718.0 | 4.0 | 
+| 2013-12-12 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Ko Daehyuk | Zhou Ruiyang | Win | W+R | 7.5 | 3714.0 | 3.0 | 
+| 2013-12-09 | 第5期中国竜星戦準決勝 | Zhou Ruiyang | Gu Li | Lose | W+R | 7.5 | 3711.0 | -9.0 | 
+| 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 | Zhou Ruiyang |  | Win | B+R | 7.5 | 3720.0 | -8.0 | 
+| 2013-11-23 | 第15回中国囲碁甲級リーグ第21節 | Hu Yaoyu | Zhou Ruiyang | Win | W+R | 7.5 | 3728.0 | -1.0 | 
+| 2013-11-21 | 第5期中国竜星戦3回戦 | Kong Jie | Zhou Ruiyang | Win | W+R | 7.5 | 3729.0 | 19.0 | 
+| 2013-11-16 | 第15回中国囲碁甲級リーグ第20節 | Park Junghwan | Zhou Ruiyang | Lose | B+R | 7.5 | 3710.0 | -5.0 | 
+| 2013-11-13 | 第18回LG杯朝鮮日報棋王戦準決勝 | Zhou Ruiyang | Chen Yaoye | Win | B+4.5 | 6.5 | 3715.0 | 11.0 | 
+| 2013-11-11 | 第18回LG杯朝鮮日報棋王戦3回戦 | Zhou Ruiyang | Li Qincheng | Win | B+R | 6.5 | 3704.0 | 44.0 | 
+| 2013-11-02 | 第15回中国囲碁甲級リーグ第19節 | Zhou Ruiyang | Ke Jie | Lose | W+0.5 | 7.5 | 3660.0 | -15.0 | 
+| 2013-10-31 | 第9期威孚房開杯棋王戦決勝 | Zhou Ruiyang | Yang Dingxin | Lose | W+R | 7.5 | 3675.0 | 13.0 | 
+| 2013-10-30 | 第9期威孚房開杯棋王戦準決勝 | Tan Xiao | Zhou Ruiyang | Win | W+R | 7.5 | 3662.0 | 5.0 | 
+| 2013-10-29 | 第9期威孚房開杯棋王戦3回戦 | Wang Xi | Zhou Ruiyang | Win | W+R | 7.5 | 3657.0 | 17.0 | 
+| 2013-10-27 | 第15回中国囲碁甲級リーグ第18節 | Zhou Ruiyang | Wang Xi | Lose | W+R | 7.5 | 3640.0 | -12.0 | 
+| 2013-10-20 | 第15回中国囲碁甲級リーグ第17節 | Tao Xinran | Zhou Ruiyang | Win | W+R | 7.5 | 3652.0 | -22.0 | 
+| 2013-10-17 | 第1回夢百合杯世界オープン戦準決勝第2局 | Gu Li | Zhou Ruiyang | Lose | B+R | 7.5 | 3674.0 | 2.0 | 
+| 2013-10-15 | 第1回夢百合杯世界オープン戦準決勝第1局 | Zhou Ruiyang | Gu Li | Lose | W+R | 7.5 | 3672.0 | -16.0 | 
+| 2013-10-13 | 第15回中国囲碁甲級リーグ第16節 | Zhou Ruiyang | Rong Yi | Win | B+1.5 | 7.5 | 3688.0 | 6.0 | 
+| 2013-10-08 | 第18回三星火災杯世界囲碁マスターズ2回戦 | Zhou Ruiyang | Park Junghwan | Lose | W+R | 6.5 | 3682.0 | -47.0 | 
+| 2013-09-12 | 第15回中国囲碁甲級リーグ第15節 | Cho Hanseung | Zhou Ruiyang | Lose | B+R | 7.5 | 3729.0 | 26.0 | 
+| 2013-09-10 | 第5期中国竜星戦2回戦 | Zhong Wenjing | Zhou Ruiyang | Win | W+R | 7.5 | 3703.0 | 5.0 | 
+| 2013-09-09 | 第5期中国竜星戦1回戦 | Zhou Ruiyang | Yang Dingxin | Win | B+R | 7.5 | 3698.0 | 3.0 | 
+| 2013-09-07 | 第15回中国囲碁甲級リーグ第14節 | Lian Xiao | Zhou Ruiyang | Lose | B+R | 7.5 | 3695.0 | -2.0 | 
+| 2013-09-05 | 第18回三星火災杯世界囲碁マスターズ1回戦F3 | Zhou Ruiyang | Niu Yutian | Win | B+R | 6.5 | 3697.0 | -1.0 | 
+| 2013-09-04 | 第18回三星火災杯世界囲碁マスターズ1回戦F2 | Zhou Ruiyang | Cho Hanseung | Win | B+1.5 | 6.5 | 3698.0 | 2.0 | 
+| 2013-09-03 | 第18回三星火災杯世界囲碁マスターズ1回戦F1 | Park Yeonghun | Zhou Ruiyang | Lose | B+R | 6.5 | 3696.0 | -5.0 | 
+| 2013-09-01 | 第15回中国囲碁甲級リーグ第13節 | Zhou Ruiyang | Tuo Jiaxi | Lose | W+R | 7.5 | 3701.0 | -13.0 | 
+| 2013-08-30 | 第15回中国囲碁甲級リーグ第12節 | Zhou Ruiyang | Shi Yue | Lose | W+R | 7.5 | 3714.0 | 8.0 | 
+| 2013-08-28 | 第9期威孚房開杯棋王戦2回戦 | Zhou Ruiyang | Mi Yuting | Win | B+R | 7.5 | 3706.0 | 7.0 | 
+| 2013-08-27 | 第9期威孚房開杯棋王戦1回戦 | Niu Yutian | Zhou Ruiyang | Win | W+R | 7.5 | 3699.0 | -10.0 | 
+| 2013-08-11 | 第1回夢百合杯世界オープン戦4回戦 | Zhou Ruiyang | Lian Xiao | Win | B+R | 7.5 | 3709.0 | 4.0 | 
+| 2013-08-09 | 第1回夢百合杯世界オープン戦3回戦 |  | Zhou Ruiyang | Win | W+R | 7.5 | 3705.0 | 61.0 | 
+| 2013-07-15 | 第15回中国囲碁甲級リーグ第11節 | Niu Yutian | Zhou Ruiyang | Win | W+R | 7.5 | 3644.0 | -8.0 | 
+| 2013-07-11 | 第1回夢百合杯世界オープン戦2回戦 | Zhou Ruiyang | Gong Yanyu | Win | B+R | 7.5 | 3652.0 | 11.0 | 
+| 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 |  | Zhou Ruiyang | Win | W+R | 7.5 | 3641.0 | 3.0 | 
+| 2013-07-07 | 第15回中国囲碁甲級リーグ第10節 | Zhou Ruiyang | Hu Yaoyu | Lose | W+R | 7.5 | 3638.0 | -26.0 | 
+| 2013-06-29 | 第15期阿含・桐山杯中国早碁オープン戦1回戦 | Zhou Ruiyang | Qiu Jun | Lose | W+R | 7.5 | 3664.0 | -50.0 | 
+| 2013-06-22 | 第15回中国囲碁甲級リーグ第9節 |  | Zhou Ruiyang | Win | W+R | 7.5 | 3714.0 | 135.0 | 
+| 2013-06-15 | 第15回中国囲碁甲級リーグ第8節 | Kim Jiseok | Zhou Ruiyang | Lose | B+R | 7.5 | 3579.0 | -18.0 | 
+| 2013-06-12 | 第18回LG杯朝鮮日報棋王戦2回戦 | Zhou Ruiyang | An Joyeong | Win | B+2.5 | 6.5 | 3597.0 | -5.0 | 
+| 2013-06-10 | 第18回LG杯朝鮮日報棋王戦1回戦 | Zhou Ruiyang | Choi Cheolhan | Win | B+R | 6.5 | 3602.0 | -23.0 | 
+| 2013-06-02 | 第15回中国囲碁甲級リーグ第7節 | Zhou Ruiyang | Gu Li | Win | B+1.5 | 7.5 | 3625.0 | 2.0 | 
+| 2013-05-27 | 第10期倡棋杯中国プロ囲碁選手権戦1回戦 | Zhou Ruiyang | Lian Xiao | Lose | W+R | 7.5 | 3623.0 | -33.0 | 
+| 2013-05-18 | 第15回中国囲碁甲級リーグ第6節 | Choi Cheolhan | Zhou Ruiyang | Lose | B+R | 7.5 | 3656.0 | -58.0 | 
+| 2013-05-14 | 第26期中国囲碁名人戦1回戦 | Kong Jie | Zhou Ruiyang | Lose | B+R | 7.5 | 3714.0 | -16.0 | 
+| 2013-05-11 | 第15回中国囲碁甲級リーグ第5節 | Zhou Ruiyang | Park Yeonghun | Win | B+R | 7.5 | 3730.0 | 3.0 | 
+| 2013-05-09 | 第15回中国囲碁甲級リーグ第4節 | Meng Tailing | Zhou Ruiyang | Win | W+R | 7.5 | 3727.0 | 80.0 | 
+| 2013-05-04 | 第15回中国囲碁甲級リーグ第3節 | Zhou Ruiyang | Liu Xing | Lose | W+R | 7.5 | 3647.0 | 55.0 | 
+| 2013-04-13 | 第13期リコー杯囲碁戦決勝 | Zhou Ruiyang | Tang Weixing | Win | B+R | 7.5 | 3592.0 | -136.0 | 
+| 2013-04-07 | 第15回中国囲碁甲級リーグ第2節 | Tuo Jiaxi | Zhou Ruiyang | Win | W+R | 7.5 | 3728.0 | 10.0 | 
+| 2013-04-05 | 第15回中国囲碁甲級リーグ第1節 | Zhou Ruiyang | Li Zhe | Win | B+R | 7.5 | 3718.0 | -65.0 | 
+| 2013-03-13 | 2013CCTV杯中国囲棋電視快棋戦1回戦 | Zhou Ruiyang | Meng Tailing | Lose | W+R | 7.5 | 3783.0 | 1.0 | 
+| 2013-02-23 | 第13期リコー杯囲碁戦準決勝 | Zhou Ruiyang | Gu Li | Win | B+R | 7.5 | 3782.0 | 6.0 | 
+| 2013-02-22 | 第13期リコー杯囲碁戦4回戦 | Mi Yuting | Zhou Ruiyang | Win | W+R | 7.5 | 3776.0 | 3.0 | 
+| 2013-02-21 | 第13期リコー杯囲碁戦3回戦 | Yang Kaiwen | Zhou Ruiyang | Win | W+R | 7.5 | 3773.0 | -8.0 | 
+| 2013-01-28 | 第27期中国囲碁天元戦3回戦 | Zhou Ruiyang | Tan Xiao | Lose | W+R | 7.5 | 3781.0 | -7.0 | 
+| 2013-01-26 | 第27期中国囲碁天元戦2回戦 | Zhou Ruiyang | Dang Yifei | Win | B+R | 7.5 | 3788.0 | 5.0 | 
+| 2013-01-24 | 第27期中国囲碁天元戦1回戦 | Huang Yunsong | Zhou Ruiyang | Win | W+R | 7.5 | 3783.0 | 9.0 | 
+| 2013-01-19 | 第1回百霊杯世界囲碁選手権決勝五番勝負第3局 | Chen Yaoye | Zhou Ruiyang | Win | W+R | 7.5 | 3774.0 | 29.0 | 
+| 2013-01-12 | 第1回百霊杯世界囲碁選手権決勝五番勝負第2局 | Zhou Ruiyang | Chen Yaoye | Win | B+R | 7.5 | 3745.0 | 13.0 | 
+| 2013-01-10 | 第1回百霊杯世界囲碁選手権決勝五番勝負第1局 | Chen Yaoye | Zhou Ruiyang | Win | W+0.5 | 7.5 | 3732.0 | 14.0 | 
+| 2012-12-29 | 第13期リコー杯囲碁戦2回戦 | Lian Xiao | Zhou Ruiyang | Win | W+R | 7.5 | 3718.0 | 7.0 | 
+| 2012-12-08 | 第14回中国囲碁甲級リーグ第22節 | Tao Xinran | Zhou Ruiyang | Win | W+R | 7.5 | 3711.0 | 45.0 | 
+| 2012-12-01 | 第14回中国囲碁甲級リーグ第21節 | Zhou Ruiyang |  | Win | B+R | 7.5 | 3666.0 | 24.0 | 
+| 2012-11-24 | 第14回中国囲碁甲級リーグ第20節 | Xie He | Zhou Ruiyang | Win | W+R | 7.5 | 3642.0 | -44.0 | 
+| 2012-11-17 | 第8期威孚房開杯棋王戦3回戦 | Fan Tingyu | Zhou Ruiyang | Lose | B+R | 7.5 | 3686.0 | -13.0 | 
+| 2012-11-10 | 第14回中国囲碁甲級リーグ第19節 | Qiu Jun | Zhou Ruiyang | Lose | B+R | 7.5 | 3699.0 | -16.0 | 
+| 2012-11-03 | 第14回中国囲碁甲級リーグ第18節 | Cho Hanseung | Zhou Ruiyang | Lose | B+R | 7.5 | 3715.0 | -9.0 | 
+| 2012-11-01 | 第1回百霊杯世界囲碁選手権準決勝第3局 | Xie Erhao | Zhou Ruiyang | Win | W+R | 7.5 | 3724.0 | 4.0 | 
+| 2012-10-31 | 第1回百霊杯世界囲碁選手権準決勝第2局 | Zhou Ruiyang | Xie Erhao | Win | B+1.5 | 7.5 | 3720.0 | 2.0 | 
+| 2012-10-29 | 第1回百霊杯世界囲碁選手権準決勝第1局 | Xie Erhao | Zhou Ruiyang | Lose | B+R | 7.5 | 3718.0 | 10.0 | 
+| 2012-10-21 | 第14回中国囲碁甲級リーグ第17節 | Tuo Jiaxi | Zhou Ruiyang | Win | W+R | 7.5 | 3708.0 | -16.0 | 
+| 2012-10-17 | 第14期阿含・桐山杯中国早碁オープン戦決勝 | Gu Li | Zhou Ruiyang | Lose | B+1.5 | 7.5 | 3724.0 | 9.0 | 
+| 2012-10-14 | 第8期威孚房開杯棋王戦予選 | Piao Wenyao | Zhou Ruiyang | Win | W+R | 7.5 | 3715.0 | 17.0 | 
+| 2012-10-13 | 第8期威孚房開杯棋王戦予選 | Zhou Ruiyang | Meng Tailing | Win | B+1.5 | 7.5 | 3698.0 | 15.0 | 
+| 2012-10-11 | 第4期中国竜星戦3回戦 | Jiang Weijie | Zhou Ruiyang | Lose | B+R | 7.5 | 3683.0 | 2.0 | 
+| 2012-10-10 | 第4期中国竜星戦2回戦 | Zhou Ruiyang | Wu Guangya | Win | B+R | 7.5 | 3681.0 | 3.0 | 
+| 2012-10-07 | 第4期中国竜星戦1回戦 | Zhou Ruiyang | Sun Li | Win | B+11.5 | 7.5 | 3678.0 | 13.0 | 
+| 2012-09-30 | 第14回中国囲碁甲級リーグ第16節 | Zhou Ruiyang | Wu Guangya | Lose | W+R | 7.5 | 3665.0 | -13.0 | 
+| 2012-09-28 | 第14回中国囲碁甲級リーグ第15節 | Zhou Hexi | Zhou Ruiyang | Win | W+R | 7.5 | 3678.0 | missing |
 
 
 

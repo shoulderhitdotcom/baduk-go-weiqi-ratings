@@ -10,11 +10,3 @@ Error: SystemError: opening file "../jdf/Ma Yichao.jdf\\metadata.jls": No such f
 
 
 
-
-
-
-Error: UndefVarError: pings_for_md not defined
-
-
-
-

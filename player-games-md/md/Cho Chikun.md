@@ -5,695 +5,578 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Cho Chikun Ratings⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀           
+               ⡤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⢤           
+          3500 ⡇⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸ Cho Chikun
+               ⡇⠀⠀⠀⠀⠀⠀⣼⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸           
+               ⡇⠀⠀⠀⠀⠀⠀⡇⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸           
+               ⡇⣀⠀⠀⠀⣄⢾⠁⡇⠀⣴⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸           
+               ⡇⢻⣷⠀⢸⡟⠈⠀⢧⢀⠟⡇⠀⡀⠀⠀⠀⠀⠀⠀⣀⣀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸           
+               ⡇⠈⢸⠀⡸⠀⠀⠀⢸⣸⠀⠸⣦⣷⡀⠀⠀⠀⢀⢀⡟⢹⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸           
+               ⡇⠀⢸⡆⡇⠀⠀⠀⠸⡟⠀⠀⣿⠿⡇⠀⠀⢀⣼⢿⠁⠘⠈⡇⠀⠀⠀⠀⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸           
+   Rating      ⡇⠀⠀⢱⡇⠀⠀⠀⠀⠀⠀⠀⡿⠀⢸⠀⠀⢸⠃⠀⠀⠀⠀⢱⠀⠀⡀⢰⢳⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠀⢸           
+               ⡇⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠁⠀⠘⡄⡀⡇⠀⠀⠀⠀⠀⠘⠱⣤⣷⡿⠘⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⢸           
+               ⡇⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⢿⡇⠀⠀⠀⠀⠀⠀⠀⠿⠁⠁⠀⢹⠀⠀⠀⢀⡀⠀⢀⠀⡰⢹⠀⢸           
+               ⡇⠀⠀⠈⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⢠⣤⡇⢣⡸⡿⠴⠁⢸⢰⢸           
+               ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⢸⠉⠀⢸⠇⠁⠀⠀⠸⣼⢸           
+               ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢹⡼⠀⠀⠈⠀⠀⠀⠀⠀⢸⢸           
+               ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠘⢸           
+          2700 ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸           
+               ⠓⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠚           
+               ⠀2012-09-20⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀2022-01-20⠀           
+               ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Date⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result*
+* | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-12-16 | 第48期天元戦予選 | Cho Chikun | Mimura Tomoyasu | Win | B+R | 6.5 | 2807 | -21 | 
-| 2021-11-29 | 第48期天元戦予選 | Oya Koichi | Cho Chikun | Win | W+R | 6.5 | 2828 | -62 | 
-| 2021-11-01 | 第61期十段戦予選 | Koyama Kuya | Cho Chikun | Lose | B+R | 6.5 | 2890 | 15 | 
-| 2021-10-25 | 第78期本因坊予選 | Cho Chikun |  | Lose | W+0.5 | 6.5 | 2875 | -140 | 
-| 2021-10-07 | 第47期名人戦予選  | Xie Yimin | Cho Chikun | Lose | B+R | 6.5 | 3015 | -99 | 
-| 2021-09-23 | 第47期碁聖戦予選 | Terayama Rei | Cho Chikun | Lose | B+3.5 | 6.5 | 3114 | 52 | 
-| 2021-09-09 | 第61期十段戦予選 |  | Cho Chikun | Win | W+1.5 | 6.5 | 3062 | -26 | 
-| 2021-09-02 | 第47期名人戦予選  | Cho Chikun | Fukuoka Kotaro | Win | B+1.5 | 6.5 | 3088 | 100 | 
-| 2021-08-05 | 第47期名人戦予選  | Cho Chikun | Takanashi Seiken | Win | B+R | 6.5 | 2988 | -5 | 
-| 2021-03-29 | 第60期十段戦予選 | Hashimoto Yujiro | Cho Chikun | Lose | B+R | 6.5 | 2993 | -90 | 
-| 2021-02-25 | 第46期棋聖戦予選 | Hirata Tomoya | Cho Chikun | Lose | B+R | 6.5 | 3083 | -162 | 
-| 2021-02-01 | 第69期王座戦予選 | Mochizuki Kenichi | Cho Chikun | Lose | B+R | 6.5 | 3245 | -3 | 
-| 2021-01-25 | 第46期棋聖戦予選 | Cho Chikun |  | Win | B+R | 6.5 | 3248 | -29 | 
-| 2021-01-07 | 第69期王座戦予選 | Seki Kotaro | Cho Chikun | Win | W+3.5 | 6.5 | 3277 | -10 | 
-| 2020-12-03 | 第47期天元戦予選 | Cho Chikun | Kataoka Satoshi | Win | B+R | 6.5 | 3287 | 64 | 
-| 2020-11-12 | 第47期天元戦予選 | Sun Zhe | Cho Chikun | Win | W+R | 6.5 | 3223 | 54 | 
-| 2020-11-05 | 第46期碁聖戦予選 | Cho Chikun | Yoda Norimoto | Lose | W+R | 6.5 | 3169 | -10 | 
-| 2020-10-19 | 第46期碁聖戦予選 | Anzai Nobuaki | Cho Chikun | Win | W+R | 6.5 | 3179 | 86 | 
-| 2020-09-17 | 第45期棋聖戦Cリーグ | Cho Riyu | Cho Chikun | Lose | B+R | 6.5 | 3093 | 80 | 
-| 2020-09-03 | 第47期天元戦予選 |  | Cho Chikun | Win | W+R | 6.5 | 3013 | 61 | 
-| 2020-08-20 | 第45期棋聖戦Cリーグ | Cho Chikun | O Meien | Lose | W+R | 6.5 | 2952 | 149 | 
-| 2020-08-06 | 第45期棋聖戦Cリーグ | Cho Chikun | Hong Seokui | Lose | W+R | 6.5 | 2803 | -12 | 
-| 2020-07-23 | 第46期名人戦予選 | Mimura Tomoyasu | Cho Chikun | Lose | B+2.5 | 6.5 | 2815 | -47 | 
-| 2020-07-09 | 第45期棋聖戦Cリーグ | Goto Shungo | Cho Chikun | Win | W+R | 6.5 | 2862 | -34 | 
-| 2020-07-02 | 第46期名人戦予選 | Cho Chikun | Han Zenki | Win | B+5.5 | 6.5 | 2896 | 188 | 
-| 2020-04-02 | 第46期名人戦予選 | O Rissei | Cho Chikun | Win | W+2.5 | 6.5 | 2708 | 35 | 
-| 2020-03-26 | 第45期棋聖戦Cリーグ | Kiyonari Tetsuya | Cho Chikun | Win | W+R | 6.5 | 2673 | -21 | 
-| 2020-03-12 | 第46期碁聖戦予選 | Cho Chikun | Kamimura Haruo | Win | B+R | 6.5 | 2694 | -5 | 
-| 2020-03-05 | 第76期本因坊戦予選 | Cho Chikun | O Meien | Lose | W+R | 6.5 | 2699 | 6 | 
-| 2020-02-23 | 2020シニアvs女子囲碁リーグチャンピオンズカップ第2戦第1局 | Oh Yujin | Cho Chikun | Win | W+R | 6.5 | 2693 | 31 | 
-| 2020-02-22 | 2020シニアvs女子囲碁リーグチャンピオンズカップ第1戦第1局 | Cho Chikun | Oh Yujin | Lose | W+R | 6.5 | 2662 | -228 | 
-| 2020-01-09 | 第68期王座戦予選 | Cho Chikun | Hirata Tomoya | Lose | W+R | 6.5 | 2890 | -11 | 
-| 2019-12-27 | 2019NHシニア囲碁リーグチャンピオン決定戦第2戦第1局 | Kim JongJoon | Cho Chikun | Win | W+R | 6.5 | 2901 | -1 | 
-| 2019-12-26 | 2019NHシニア囲碁リーグチャンピオン決定戦第1戦第1局 | Cho Chikun | Seo Bongsoo | Win | B+R | 6.5 | 2902 | 331 | 
-| 2019-12-18 | 2019NHシニア囲碁リーグ第14節第4試合第3局 | Cho Chikun | Cho Daehyeon | Win | B+T | 6.5 | 2571 | 22 | 
-| 2019-12-12 | 2019NHシニア囲碁リーグ第13節第4試合第2局 | Cho Chikun | Park Yeongchan | Win | B+R | 6.5 | 2549 | -34 | 
-| 2019-12-04 | 2019NHシニア囲碁リーグ第12節第3試合第2局 | Cho Chikun | Jeong Daesang | Win | B+R | 6.5 | 2583 | -1 | 
-| 2019-11-29 | 2019NHシニア囲碁リーグ第11節第2試合第3局 | Cho Chikun | Kim Dongyeop | Win | B+6.5 | 6.5 | 2584 | 21 | 
-| 2019-11-26 | 2019NHシニア囲碁リーグ第10節第2試合第1局 | Cho Chikun | Park Seungmun | Win | B+12.5 | 6.5 | 2563 | -1 | 
-| 2019-11-21 | 第59期十段戦予選 | Han Zenki | Cho Chikun | Lose | B+R | 6.5 | 2564 | -7 | 
-| 2019-11-18 | 2019NHシニア囲碁リーグ第9節第1試合第2局 | Cho Chikun | Moon Myunggun | Win | B+R | 6.5 | 2571 | 17 | 
-| 2019-11-13 | 2019NHシニア囲碁リーグ第8節第3試合第2局 | Kim Dongmyeon | Cho Chikun | Win | W+R | 6.5 | 2554 | -6 | 
-| 2019-11-08 | 2019NHシニア囲碁リーグ第7節第1試合第1局 | Seo Bongsoo | Cho Chikun | Win | W+R | 6.5 | 2560 | 82 | 
-| 2019-10-31 | 2019NHシニア囲碁リーグ第5節第2試合第1局 | Cho Chikun | Jeong Daesang | Win | B+R | 6.5 | 2478 | 12 | 
-| 2019-10-23 | 2019NHシニア囲碁リーグ第4節第3試合第3局 | Cho Chikun | Kim Dongyeop | Win | B+4.5 | 6.5 | 2466 | 19 | 
-| 2019-10-17 | 第68期王座戦予選 | Yo Kaei | Cho Chikun | Win | W+8.5 | 6.5 | 2447 | 14 | 
-| 2019-10-10 | 第59期十段戦予選 | Mitsunaga Junzo | Cho Chikun | Win | W+0.5 | 6.5 | 2433 | 37 | 
-| 2019-10-08 | 2019NHシニア囲碁リーグ第1節第2試合第3局 | Cho Chikun | Kim Dongmyeon | Win | B+R | 6.5 | 2396 | 9 | 
-| 2019-09-26 | 第59期十段戦予選 | Takekiyo Isamu | Cho Chikun | Win | W+7.5 | 6.5 | 2387 | -25 | 
-| 2019-09-12 | 第46期天元戦予選 | Cho Chikun | Ueno Asami | Lose | W+R | 6.5 | 2412 | -39 | 
-| 2019-09-05 | 第59期十段戦予選 | Cho Chikun | Chinen Kaori | Win | B+R | 6.5 | 2451 | -23 | 
-| 2019-08-22 | 第45期碁聖戦予選 | Koike Yoshihiro | Cho Chikun | Lose | B+R | 6.5 | 2474 | -143 | 
-| 2019-08-08 | 第44期棋聖戦Bリーグ | Motoki Katsuya | Cho Chikun | Lose | B+R | 6.5 | 2617 | -6 | 
-| 2019-07-25 | 第44期棋聖戦Bリーグ | Cho Chikun | Adachi Toshimasa | Lose | W+R | 6.5 | 2623 | 8 | 
-| 2019-07-20 | 第9回フマキラー囲碁マスターズカップ決勝  | Cho Chikun | Komatsu Hideki | Win | B+R | 6.5 | 2615 | -18 | 
-| 2019-07-11 | 第45期名人戦予選 | Cho Chikun | Hirata Tomoya | Lose | W+0.5 | 6.5 | 2633 | 38 | 
-| 2019-06-29 | 第9回フマキラー囲碁マスターズカップ準決勝  | Kobayashi Koichi | Cho Chikun | Win | W+R | 6.5 | 2595 | 25 | 
-| 2019-06-27 | 第44期棋聖戦Bリーグ | Han Zenki | Cho Chikun | Lose | B+1.5 | 6.5 | 2570 | -60 | 
-| 2019-06-08 | 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Takemiya Masaki | Cho Chikun | Lose | B+R | 6.5 | 2630 | -42 | 
-| 2019-06-06 | 第9回フマキラー囲碁マスターズカップ2回戦 | Yamashiro Hiroshi | Cho Chikun | Win | W+R | 6.5 | 2672 | 21 | 
-| 2019-05-16 | 第75期本因坊戦予選 | Cho Chikun | Shuto Shun | Lose | W+R | 6.5 | 2651 | -27 | 
-| 2019-05-09 | 第44期棋聖戦Bリーグ | Cho Chikun | Ko Iso | Win | B+R | 6.5 | 2678 | 4 | 
-| 2019-05-02 | 第9回フマキラー囲碁マスターズカップ1回戦 | Cho Chikun | Kudo Norio | Win | B+R | 6.5 | 2674 | -36 | 
-| 2019-04-18 | 第44期棋聖戦Bリーグ | Cho Chikun | O Meien | Lose | W+R | 6.5 | 2710 | -17 | 
-| 2019-03-28 | 第44期棋聖戦Bリーグ | Yamada Kimio | Cho Chikun | Lose | B+R | 6.5 | 2727 | 7 | 
-| 2019-03-07 | 第75期本因坊戦予選 | Kurotaki Masaki | Cho Chikun | Win | W+R | 6.5 | 2720 | 9 | 
-| 2019-02-28 | 第44期棋聖戦Bリーグ | Cho Chikun | Terayama Rei | Win | B+3.5 | 6.5 | 2711 | -47 | 
-| 2019-02-13 | 2018年シニアvs女子囲碁リーグチャンピオンズカップ第2戦 | Choi Jeong | Cho Chikun | Lose | B+1.5 | 6.5 | 2758 | -16 | 
-| 2019-02-12 | 2018年シニアvs女子囲碁リーグチャンピオンズカップ第1戦 | Choi Jeong | Cho Chikun | Lose | B+13.5 | 6.5 | 2774 | -30 | 
-| 2019-01-21 | 第20回マキシムコーヒー杯入神最強戦1回戦 | Cho Chikun | Lee Yeongkyu | Lose | W+2.5 | 6.5 | 2804 | 28 | 
-| 2018-12-06 | 第75期本因坊戦予選 | Kanda Ei | Cho Chikun | Win | W+R | 6.5 | 2776 | -3 | 
-| 2018-11-08 | 第67期王座戦予選 | Cho Chikun | Akiyama Jiro | Lose | W+R | 6.5 | 2779 | -4 | 
-| 2018-11-01 | 第44期碁聖戦本戦1回戦 | Cho Chikun | Ko Iso | Lose | W+11.5 | 6.5 | 2783 | 37 | 
-| 2018-10-23 | 第3回韓国シニア囲碁リーグ決勝第2戦釜山-尚州 | Paek Seongho | Cho Chikun | Win | W+5.5 | 6.5 | 2746 | 6 | 
-| 2018-10-22 | 第3回韓国シニア囲碁リーグ決勝第1戦釜山-尚州 | Cho Chikun | Kim Kihun | Win | B+2.5 | 6.5 | 2740 | -26 | 
-| 2018-10-18 | 第58期十段戦予選 | Cho Chikun | Fujita Akihiko | Lose | W+0.5 | 6.5 | 2766 | 0 | 
-| 2018-10-04 | 第45期天元戦予選 | Cho Chikun | Nishimura Keiji | Win | B+R | 6.5 | 2766 | 7 | 
-| 2018-09-27 | 第58期十段戦予選 | Cho Chikun | Seki Tatsuya | Win | B+R | 6.5 | 2759 | -30 | 
-| 2018-09-19 | 第3回韓国シニア囲碁リーグ第14節釜山-尚州 | Lee Kisup | Cho Chikun | Win | W+R | 6.5 | 2789 | -1 | 
-| 2018-09-13 | 第44期碁聖戦予選 | Kazama Jun | Cho Chikun | Win | W+R | 6.5 | 2790 | -9 | 
-| 2018-09-11 | 第3回韓国シニア囲碁リーグ第13節烏鹭-釜山 | Jeong Daesang | Cho Chikun | Win | W+R | 6.5 | 2799 | 17 | 
-| 2018-09-06 | 第43期棋聖戦Aリーグ | Murakawa Daisuke | Cho Chikun | Lose | B+R | 6.5 | 2782 | -24 | 
-| 2018-08-30 | 第58期十段戦予選 | Cho Chikun | Hagiya Kazuhiro | Win | B+R | 6.5 | 2806 | -1 | 
-| 2018-08-28 | 第3回韓国シニア囲碁リーグ第12節陰城-釜山 | Jimmy Cha | Cho Chikun | Win | W+R | 6.5 | 2807 | -11 | 
-| 2018-08-23 | 第43期棋聖戦Aリーグ | Cho Chikun | Kobayashi Satoru | Win | B+R | 7.5 | 2818 | 0 | 
-| 2018-08-14 | 第3回韓国シニア囲碁リーグ第10節霊岩-釜山 | Oh Kyuchul | Cho Chikun | Win | W+R | 6.5 | 2818 | 30 | 
-| 2018-08-02 | 第44期名人戦予選 | Kanazawa Hideo | Cho Chikun | Lose | B+R | 7.5 | 2788 | 0 | 
-| 2018-07-30 | 第3回韓国シニア囲碁リーグ第8節三陟-釜山 | Cho Chikun | Park Seungmun | Win | B+6.5 | 6.5 | 2788 | -1 | 
-| 2018-07-26 | 第43期棋聖戦Aリーグ | Ko Iso | Cho Chikun | Win | W+R | 6.5 | 2789 | 44 | 
-| 2018-07-23 | 第3回韓国シニア囲碁リーグ第7節釜山-尚州 | Paek Seongho | Cho Chikun | Lose | B+2.5 | 6.5 | 2745 | -13 | 
-| 2018-07-17 | 第3回韓国シニア囲碁リーグ第6節烏鹭-釜山 | Seo Nungwuk | Cho Chikun | Win | W+R | 6.5 | 2758 | 14 | 
-| 2018-07-12 | 第44期名人戦予選 | Mimura Tomoyasu | Cho Chikun | Win | W+R | 6.5 | 2744 | 12 | 
-| 2018-07-07 | 第8回フマキラー囲碁マスターズカップ準決勝  | Cho Chikun | Kataoka Satoshi | Lose | W+R | 6.5 | 2732 | -42 | 
-| 2018-06-27 | 第3回韓国シニア囲碁リーグ第4節富川-釜山 | Cho Chikun | An Kwanwuk | Win | B+4.5 | 6.5 | 2774 | -15 | 
-| 2018-06-19 | 第3回韓国シニア囲碁リーグ第3節霊岩-釜山 | Oh Kyuchul | Cho Chikun | Win | W+R | 6.5 | 2789 | -4 | 
-| 2018-06-07 | 第8回フマキラー囲碁マスターズカップ2回戦  | Cho Chikun | O Meien | Win | B+2.5 | 6.5 | 2793 | 19 | 
-| 2018-06-06 | 第3回韓国シニア囲碁リーグ第1節三陟-釜山 | Cho Daehyeon | Cho Chikun | Win | W+R | 6.5 | 2774 | -8 | 
-| 2018-05-31 | 第43期棋聖戦Aリーグ | Cho Chikun | Shida Tatsuya | Win | B+R | 6.5 | 2782 | 0 | 
-| 2018-05-10 | 第43期棋聖戦Aリーグ | Cho Chikun | So Yokoku | Lose | W+R | 6.5 | 2782 | -48 | 
-| 2018-05-03 | 第8回フマキラー囲碁マスターズカップ1回戦  | Kudo Norio | Cho Chikun | Win | W+R | 6.5 | 2830 | -1 | 
-| 2018-04-26 | 第74期本因坊戦予選 | Sakai Takeshi | Cho Chikun | Lose | B+R | 6.5 | 2831 | -2 | 
-| 2018-04-23 | 第5回大舟杯プロシニア最強者戦決勝 | Cho Hyeyeon | Cho Chikun | Win | W+R | 6.5 | 2833 | -5 | 
-| 2018-04-19 | 第43期棋聖戦Aリーグ | Cho Chikun | Yu Zhengqi | Lose | W+R | 6.5 | 2838 | -14 | 
-| 2018-04-09 | 第5回大舟杯プロシニア最強者戦準決勝 | Seo Nungwuk | Cho Chikun | Win | W+5.5 | 6.5 | 2852 | 2 | 
-| 2018-04-07 | 囲碁電王戦FINAL第3局 | DeepZenGo | Cho Chikun | Lose | B+R | 6.5 | 2850 | -11 | 
-| 2018-03-27 | 第5回大舟杯プロシニア最強者戦2回戦 | Lee Minjin | Cho Chikun | Win | W+15.5 | 6.5 | 2861 | -106 | 
-| 2018-02-19 | 第5回大舟杯プロシニア最強者戦1回戦 | Kim Hyeoimin | Cho Chikun | Win | W+R | 6.5 | 2967 | 29 | 
-| 2018-01-18 | 第44期天元戦1回戦 | Cho Chikun | Sato Yuta | Lose | W+R | 6.5 | 2938 | -17 | 
-| 2018-01-12 | 2017年シニアvs女流チャンピオンズカップ第2戦 | Cho Hyeyeon | Cho Chikun | Lose | B+0.5 | 6.5 | 2955 | -7 | 
-| 2018-01-11 | 2017年シニアvs女流チャンピオンズカップ第1戦 | Kim Cheayoung | Cho Chikun | Lose | B+3.5 | 6.5 | 2962 | -16 | 
-| 2017-12-21 | 第66期王座戦予選 | Cho Sonjin | Cho Chikun | Lose | B+R | 6.5 | 2978 | -2 | 
-| 2017-12-14 | 第57期十段戦予選 | Cho Chikun | Shiraishi Yuichi | Lose | W+R | 6.5 | 2980 | -20 | 
-| 2017-11-14 | 第2回韓国シニア囲碁リーグチャンピオンシップ釜山-尚州第2戦 | Paek Seongho | Cho Chikun | Win | W+R | 6.5 | 3000 | -46 | 
-| 2017-11-02 | 第43期碁聖戦本戦1回戦 | Cho Chikun | Ryu Shikun | Lose | W+R | 6.5 | 3046 | -49 | 
-| 2017-10-25 | 第2回韓国元老連戦14回戦尚州-釜山 | Kim Kihun | Cho Chikun | Lose | B+T | 6.5 | 3095 | 3 | 
-| 2017-10-16 | 2回韓国元老連戦13回戦三陟-釜山 | Cho Chikun |  | Win | B+R | 6.5 | 3092 | 73 | 
-| 2017-10-12 | 第43期名人戦最終予選 | Cho Chikun | Shibano Toramaru | Lose | W+6.5 | 6.5 | 3019 | -12 | 
-| 2017-09-28 | 2回韓国元老連戦11回戦霊岩-釜山 | Oh Kyuchul | Cho Chikun | Win | W+5.5 | 6.5 | 3031 | -2 | 
-| 2017-09-27 | 2回韓国元老連戦10回戦陰城-釜山 | Cho Chikun | Hwang Weonjun | Win | B+R | 6.5 | 3033 | -20 | 
-| 2017-09-21 | 第43期名人戦　最終予選1回戦 | Yukawa Mitsuhisa | Cho Chikun | Win | W+R | 6.5 | 3053 | 75 | 
-| 2017-08-31 | 第43期名人戦　予選A決勝 | Numadate Sakiya | Cho Chikun | Win | W+R | 6.5 | 2978 | -12 | 
-| 2017-08-24 | 第42期棋聖戦　Aリーグ7回戦 | Yamashiro Hiroshi | Cho Chikun | Win | W+R | 6.5 | 2990 | 2 | 
-| 2017-08-21 | 2回韓国元老連戦5回戦烏鹭-浦項 | Jeong Daesang | Cho Chikun | Win | W+R | 6.5 | 2988 | -4 | 
-| 2017-08-17 | 第43期名人戦　予選A | Rin Shien | Cho Chikun | Win | W+R | 6.5 | 2992 | 25 | 
-| 2017-08-10 | 第66期王座戦　予選B決勝 | Sakai Maki | Cho Chikun | Win | W+3.5 | 6.5 | 2967 | 1 | 
-| 2017-08-07 | 2回韓国元老連戦3回戦陰城-釜山 | Cho Chikun | Kim Dongyeop | Win | B+4.5 | 6.5 | 2966 | -22 | 
-| 2017-07-31 | 2回韓国元老連戦2回戦富川-釜山 | Cho Chikun | An Kwanwuk | Win | B+R | 6.5 | 2988 | 19 | 
-| 2017-07-27 | 第43期天元戦準決勝 | Ichiriki Ryo | Cho Chikun | Lose | B+R | 6.5 | 2969 | -17 | 
-| 2017-07-22 | 第7回フマキラー囲碁マスターズカップ　決勝 | Kobayashi Satoru | Cho Chikun | Lose | B+0.5 | 6.5 | 2986 | -5 | 
-| 2017-07-13 | 第42期棋聖戦　Aリーグ6回戦 | Cho Chikun | Hsu Chiayuan | Lose | W+R | 6.5 | 2991 | -25 | 
-| 2017-07-06 | 第24期阿含・桐山杯　本戦1回戦 | Cho Chikun | Horimoto Mitsunari | Win | B+R | 6.5 | 3016 | -1 | 
-| 2017-07-01 | 第7回フマキラー囲碁マスターズカップ　準決勝 | Cho Chikun | O Rissei | Win | B+R | 6.5 | 3017 | -8 | 
-| 2017-06-22 | 第42期棋聖戦　Aリーグ5回戦 | Cho Chikun | Ryu Shikun | Win | B+R | 6.5 | 3025 | -26 | 
-| 2017-05-25 | 第42期棋聖戦　Aリーグ4回戦 | Cho Chikun | Yuki Satoshi | Win | B+R | 6.5 | 3051 | 20 | 
-| 2017-05-18 | 第43期天元戦　準々決勝第1局 | Cho Chikun | Takei Takashi | Win | B+R | 6.5 | 3031 | -42 | 
-| 2017-05-11 | 第42期棋聖戦　Aリーグ3回戦 | Takao Shinji | Cho Chikun | Lose | B+R | 6.5 | 3073 | 23 | 
-| 2017-05-04 | 第24期阿含・桐山杯　最終予選決勝 | Cho Chikun | Hoshino Masaki | Win | B+10.5 | 6.5 | 3050 | -6 | 
-| 2017-04-27 | 第7回囲碁マスターズカップ　本戦2回戦 | Kataoka Satoshi | Cho Chikun | Win | W+R | 6.5 | 3056 | 12 | 
-| 2017-04-20 | 第42期棋聖戦　Aリーグ2回戦 | Hane Naoki | Cho Chikun | Win | W+R | 6.5 | 3044 | 7 | 
-| 2017-03-30 | 第73期本因坊戦　予選A決勝 | Cho Chikun | So Yokoku | Lose | W+R | 6.5 | 3037 | 185 | 
-| 2017-03-16 | 第43期天元戦　本戦2回戦第3局 | Kim Sujun | Cho Chikun | Win | W+1.5 | 6.5 | 2852 | 27 | 
-| 2017-03-09 | 第7回マスターズカップ　本戦1回戦 | Hane Yasumasa | Cho Chikun | Win | W+R | 6.5 | 2825 | 2 | 
-| 2017-03-02 | 第42期棋聖戦　Aリーグ1回戦 | Cho Chikun | Yoda Norimoto | Win | B+R | 6.5 | 2823 | 14 | 
-| 2017-02-23 | 第73期本因坊戦　予選A | Onishi Ryuhei | Cho Chikun | Win | W+R | 6.5 | 2809 | 63 | 
-| 2017-02-16 | 第4回グランドチャンピオン戦　2回戦 | Xie Yimin | Cho Chikun | Lose | B+R | 6.5 | 2746 | -14 | 
-| 2017-02-09 | 第43期天元戦　本戦1回戦第14局 | Cho Chikun | Sonoda Yuichi | Win | B+0.5 | 6.5 | 2760 | 35 | 
-| 2017-01-26 | 第73期本因坊戦　予選B決勝 | Cho Chikun | Xie Yimin | Win | B+6.5 | 6.5 | 2725 | 15 | 
-| 2017-01-19 | 第56期十段戦　予選A | Cho Chikun | Kanazawa Hideo | Lose | W+5.5 | 6.5 | 2710 | -29 | 
-| 2016-11-23 | 第2回囲碁電王戦第3局 | Cho Chikun | DeepZenGo | Win | B+R | 6.5 | 2739 | 1 | 
-| 2016-11-20 | 第2回囲碁電王戦第2局 | DeepZenGo | Cho Chikun | Lose | B+R | 6.5 | 2738 | 2 | 
-| 2016-11-19 | 第2回囲碁電王戦第1局 | Cho Chikun | DeepZenGo | Win | B+R | 6.5 | 2736 | 3 | 
-| 2016-10-27 | 第43期天元戦　予選A第1局 | Cho Chikun | Hirata Tomoya | Win | B+2.5 | 6.5 | 2733 | 17 | 
-| 2016-10-20 | 第65期王座戦　予選A特選譜第4局 | Cho Chikun | Yamashiro Hiroshi | Lose | W+R | 6.5 | 2716 | -53 | 
-| 2016-10-17 | 第55期十段戦　最終予選決勝 | Ichiriki Ryo | Cho Chikun | Lose | B+R | 6.5 | 2769 | 18 | 
-| 2016-10-13 | 第43期天元戦予選 | Cho Chikun | Hashimoto Yujiro | Win | B+R | 6.5 | 2751 | 10 | 
-| 2016-10-08 | 第23期日本阿含桐山杯決勝 | Cho Chikun | Kono Rin | Lose | W+0.5 | 6.5 | 2741 | -8 | 
-| 2016-09-29 | 第42期名人戦最終予選 | Cho Chikun | Adachi Toshimasa | Lose | W+R | 6.5 | 2749 | -50 | 
-| 2016-09-22 | 第55期十段戦最終予選 | Cho Chikun | Yamamori Tadanao | Win | B+R | 6.5 | 2799 | -19 | 
-| 2016-09-19 | 第41期棋聖戦Bリーグ決勝 | Cho Chikun | Yuki Satoshi | Lose | W+R | 6.5 | 2818 | -20 | 
-| 2016-09-07 | 第21回三星火災杯世界囲碁マスターズ1回戦B2 | Cho Chikun | Yu Bin | Lose | W+R | 6.5 | 2838 | -7 | 
-| 2016-09-06 | 第21回三星火災杯世界囲碁マスターズ1回戦B1 | Cho Chikun | Shin Jinseo | Lose | W+R | 6.5 | 2845 | -25 | 
-| 2016-08-25 | 第23期阿含・桐山杯全日本早碁オープン戦準決勝 | Murakawa Daisuke | Cho Chikun | Win | W+R | 6.5 | 2870 | 22 | 
-| 2016-08-18 | 第41期棋聖戦Bリーグ | Hsu Chiayuan | Cho Chikun | Win | W+R | 6.5 | 2848 | 58 | 
-| 2016-08-04 | 第23期阿含・桐山杯全日本早碁オープン戦2回戦 | Suzuki Shinji | Cho Chikun | Win | W+R | 6.5 | 2790 | -48 | 
-| 2016-07-28 | 第41期棋聖戦Bリーグ | Cho Chikun | O Meien | Lose | W+R | 6.5 | 2838 | 3 | 
-| 2016-07-14 | 第42期名人戦予選 | Cho Chikun | Hoshino Masaki | Win | B+R | 6.5 | 2835 | 112 | 
-| 2016-07-07 | 第41期棋聖戦Bリーグ | Cho Chikun | Ida Atsushi | Win | B+R | 6.5 | 2723 | 50 | 
-| 2016-06-30 | 第42期碁聖戦予選 | Yamada Shinji | Cho Chikun | Win | W+R | 6.5 | 2673 | -11 | 
-| 2016-06-23 | 第23期阿含・桐山杯全日本早碁オープン戦1回戦 | Otake Hideo | Cho Chikun | Win | W+R | 6.5 | 2684 | -16 | 
-| 2016-06-16 | 第41期棋聖戦Bリーグ | Mizokami Tomochika | Cho Chikun | Win | W+R | 6.5 | 2700 | 40 | 
-| 2016-05-26 | 第41期棋聖戦Bリーグ | Cho Chikun | Kim Sujun | Win | B+R | 6.5 | 2660 | 49 | 
-| 2016-05-19 | 第42期碁聖戦予選 | Nakamura Hidehito | Cho Chikun | Win | W+R | 6.5 | 2611 | -16 | 
-| 2016-05-12 | 第23期阿含・桐山杯全日本早碁オープン戦予選 | Motoki Katsuya | Cho Chikun | Win | W+0.5 | 6.5 | 2627 | 37 | 
-| 2016-05-05 | 第64期王座戦予選 | Kono Rin | Cho Chikun | Lose | B+5.5 | 6.5 | 2590 | 13 | 
-| 2016-04-21 | 第41期棋聖戦Bリーグ | Tsuruyama Atsushi | Cho Chikun | Win | W+R | 6.5 | 2577 | 19 | 
-| 2016-04-16 | 第65回NHK杯テレビ囲碁トーナメント戦1回戦第3局 | So Yokoku | Cho Chikun | Lose | B+4.5 | 6.5 | 2558 | 10 | 
-| 2016-04-07 | 第25期竜星戦Bブロック第11局 | Cho Chikun | Ichiriki Ryo | Lose | W+5.5 | 6.5 | 2548 | -38 | 
-| 2016-03-31 | 第41期棋聖戦Bリーグ | O Rissei | Cho Chikun | Win | W+R | 6.5 | 2586 | 54 | 
-| 2016-03-10 | 第6回フマキラー囲碁マスターズカップ1回戦 | Cho Chikun | Ishida Yoshio | Lose | W+R | 6.5 | 2532 | -35 | 
-| 2016-03-03 | 第64期王座戦予選 | Goto Shungo | Cho Chikun | Win | W+2.5 | 6.5 | 2567 | -41 | 
-| 2016-02-18 | 第72期本因坊戦予選 | Cho Chikun | Cho Riyu | Lose | W+R | 6.5 | 2608 | -139 | 
-| 2015-11-19 | 第42期天元戦予選 | Yao Zhiteng | Cho Chikun | Lose | B+R | 6.5 | 2747 | -40 | 
-| 2015-11-12 | 第64期王座戦予選 | Morita Michihiro | Cho Chikun | Win | W+R | 6.5 | 2787 | -3 | 
-| 2015-11-05 | 第42期天元戦予選 | Cho Chikun | Onishi Kenya | Win | B+R | 6.5 | 2790 | 10 | 
-| 2015-10-29 | 第64期王座戦予選 | Ishikura Noboru | Cho Chikun | Win | W+4.5 | 6.5 | 2780 | -8 | 
-| 2015-10-22 | 第42期天元戦予選 | Cho Chikun | Kibe Natsuki | Win | B+R | 6.5 | 2788 | 12 | 
-| 2015-10-15 | 第41期名人戦予選 | Hane Naoki | Cho Chikun | Lose | B+3.5 | 6.5 | 2776 | 6 | 
-| 2015-10-01 | 第54期十段戦2回戦 | Iyama Yuta | Cho Chikun | Lose | B+R | 6.5 | 2770 | 12 | 
-| 2015-09-24 | 第41期名人戦予選 | Takeuchi Kousuke | Cho Chikun | Win | W+R | 6.5 | 2758 | 33 | 
-| 2015-09-17 | 第54期十段戦予選 | Kurahashi Masayuki | Cho Chikun | Win | W+R | 6.5 | 2725 | -1 | 
-| 2015-09-10 | 第40期棋聖戦Aリーグ | Kono Rin | Cho Chikun | Lose | B+8.5 | 6.5 | 2726 | -63 | 
-| 2015-08-27 | 第41期名人戦予選 | Obuchi Kotaro | Cho Chikun | Win | W+R | 6.5 | 2789 | -33 | 
-| 2015-08-20 | 第40期棋聖戦Aリーグ | Cho Chikun | Ichiriki Ryo | Win | B+2.5 | 6.5 | 2822 | 16 | 
-| 2015-07-30 | 第40期棋聖戦Aリーグ | Mizokami Tomochika | Cho Chikun | Win | W+R | 6.5 | 2806 | 11 | 
-| 2015-07-23 | 第54期十段戦予選 | Cho Chikun | Koyama Mitsuru | Win | B+R | 6.5 | 2795 | -18 | 
-| 2015-07-16 | 第40期棋聖戦Aリーグ | Cho Chikun | Cho U | Lose | W+1.5 | 6.5 | 2813 | -21 | 
-| 2015-07-11 | 第5回フマキラー囲碁マスターズカップ決勝 | Takemiya Masaki | Cho Chikun | Win | W+5.5 | 6.5 | 2834 | 4 | 
-| 2015-07-09 | 第71期本因坊戦予選 | Rin Kanketsu | Cho Chikun | Lose | B+R | 6.5 | 2830 | -28 | 
-| 2015-06-27 | 第5回フマキラー囲碁マスターズカップ準決勝 | Kobayashi Satoru | Cho Chikun | Win | W+R | 6.5 | 2858 | -46 | 
-| 2015-06-11 | 第22期阿含・桐山杯全日本早碁オープン戦予選 | Cho Chikun | Shuto Shun | Lose | W+R | 6.5 | 2904 | 41 | 
-| 2015-06-04 | 第40期棋聖戦Aリーグ | Hane Naoki | Cho Chikun | Lose | B+R | 6.5 | 2863 | -46 | 
-| 2015-05-21 | 第71期本因坊戦予選 | Cho Chikun | Komatsu Hideki | Win | B+R | 6.5 | 2909 | -14 | 
-| 2015-05-14 | 第5回フマキラー囲碁マスターズカップ2回戦 | Cho Chikun | Hikosaka Naoto | Win | B+R | 6.5 | 2923 | -87 | 
-| 2015-05-07 | 第40期棋聖戦Aリーグ | Cho Riyu | Cho Chikun | Lose | B+R | 6.5 | 3010 | -36 | 
-| 2015-04-30 | 第5回フマキラー囲碁マスターズカップ1回戦 | Hane Yasumasa | Cho Chikun | Win | W+R | 6.5 | 3046 | 88 | 
-| 2015-04-23 | 第40期棋聖戦Aリーグ | Cho Chikun | Yuki Satoshi | Win | B+R | 6.5 | 2958 | -164 | 
-| 2015-03-12 | 第63期王座戦予選 | Cho Chikun | Mizokami Tomochika | Lose | W+1.5 | 6.5 | 3122 | -136 | 
-| 2015-03-05 | 第40期碁聖戦本戦2回戦 | Kono Rin | Cho Chikun | Lose | B+R | 6.5 | 3258 | 2 | 
-| 2015-02-26 | 第54期十段戦予選 | Cho Chikun | Lee Ishu | Win | B+R | 6.5 | 3256 | 5 | 
-| 2015-02-05 | 第63期王座戦予選 | Rin Shien | Cho Chikun | Win | W+6.5 | 6.5 | 3251 | 37 | 
-| 2015-01-15 | 第63期王座戦予選 | Sato Masaharu | Cho Chikun | Win | W+R | 6.5 | 3214 | -12 | 
-| 2014-12-18 | 第40期碁聖戦本戦1回戦 | Cho Chikun | Sada Atsushi | Win | B+R | 6.5 | 3226 | 169 | 
-| 2014-10-09 | 第40期碁聖戦予選 | Cho Chikun | Konagai Masaru | Win | B+R | 6.5 | 3057 | -38 | 
-| 2014-10-02 | 第39期棋聖戦Bリーグ | Murakawa Daisuke | Cho Chikun | Lose | B+3.5 | 6.5 | 3095 | 2 | 
-| 2014-09-25 | 第53期十段戦予選 | Cho Chikun | Murakawa Daisuke | Lose | W+R | 6.5 | 3093 | -10 | 
-| 2014-09-18 | 第40期名人戦予選 | Cho Chikun | Kanazawa Makoto | Lose | W+R | 6.5 | 3103 | 14 | 
-| 2014-09-11 | 第41期天元戦予選 | Cho Chikun | Hsu Chiayuan | Lose | W+R | 6.5 | 3089 | 41 | 
-| 2014-08-21 | 第40期名人戦予選 | Cho Chikun | Hirata Tomoya | Win | B+R | 6.5 | 3048 | 14 | 
-| 2014-08-07 | 第39期棋聖戦Bリーグ | Cho Chikun | Yoda Norimoto | Lose | W+4.5 | 6.5 | 3034 | -10 | 
-| 2014-07-17 | 第40期名人戦予選 | Cho Chikun | Aoki Kikuyo | Win | B+5.5 | 6.5 | 3044 | 35 | 
-| 2014-07-12 | 第4回フマキラー囲碁マスターズカップ決勝 | Cho Chikun | Kobayashi Satoru | Win | B+6.5 | 6.5 | 3009 | -10 | 
-| 2014-07-03 | 第39期棋聖戦Bリーグ | Cho Riyu | Cho Chikun | Lose | B+R | 6.5 | 3019 | -42 | 
-| 2014-06-26 | 第39期棋聖戦Bリーグ | Kobayashi Satoru | Cho Chikun | Lose | B+R | 6.5 | 3061 | -35 | 
-| 2014-06-21 | 第4回フマキラー囲碁マスターズカップ準決勝 | Cho Chikun | Ishii Kunio | Win | B+R | 6.5 | 3096 | -6 | 
-| 2014-06-12 | 第40期天元戦本戦2回戦 | Cho Chikun | Takao Shinji | Lose | W+R | 6.5 | 3102 | 27 | 
-| 2014-05-22 | 第39期棋聖戦Bリーグ | Cho Chikun | Yuki Satoshi | Win | B+R | 6.5 | 3075 | 47 | 
-| 2014-05-15 | 第21期阿含・桐山杯全日本早碁オープン戦予選 | Yu Zhengqi | Cho Chikun | Lose | B+3.5 | 6.5 | 3028 | 35 | 
-| 2014-05-08 | 第4回フマキラー囲碁マスターズカップ2回戦 | Ishida Yoshio | Cho Chikun | Win | W+1.5 | 6.5 | 2993 | -132 | 
-| 2014-04-24 | 第70期本因坊戦予選 | Hirata Tomoya | Cho Chikun | Lose | B+0.5 | 6.5 | 3125 | 14 | 
-| 2014-03-27 | 第70期本因坊戦予選 | Kanazawa Makoto | Cho Chikun | Win | W+R | 6.5 | 3111 | 18 | 
-| 2014-03-20 | 第4回フマキラー囲碁マスターズカップ1回戦 | Kataoka Satoshi | Cho Chikun | Win | W+1.5 | 6.5 | 3093 | 56 | 
-| 2014-02-13 | 第40期天元戦本戦1回戦 | Cho Chikun | Murakawa Daisuke | Win | B+R | 6.5 | 3037 | 6 | 
-| 2014-01-16 | 第62期王座戦予選 | Rin Kanketsu | Cho Chikun | Lose | B+R | 6.5 | 3031 | -123 | 
-| 2014-01-09 | 第40期天元戦予選 | Rin Kanketsu | Cho Chikun | Win | W+R | 6.5 | 3154 | 68 | 
-| 2013-12-19 | 第62期王座戦予選 | Cho Chikun | Ryu Shikun | Win | B+R | 6.5 | 3086 | 39 | 
-| 2013-11-14 | 第40期天元戦予選 | Cho Chikun | Kubo Hideo | Win | B+R | 6.5 | 3047 | 14 | 
-| 2013-10-31 | 第52期十段戦2回戦 | Takao Shinji | Cho Chikun | Lose | B+R | 6.5 | 3033 | 22 | 
-| 2013-10-10 | 第39期碁聖戦予選 | Horimoto Mitsunari | Cho Chikun | Lose | B+R | 6.5 | 3011 | -90 | 
-| 2013-10-03 | 第38期棋聖戦Bリーグ | Murakawa Daisuke | Cho Chikun | Win | W+R | 6.5 | 3101 | -96 | 
-| 2013-09-12 | 第39期碁聖戦予選 | Arimura Hiroshi | Cho Chikun | Win | W+R | 6.5 | 3197 | 44 | 
-| 2013-09-05 | 第38期棋聖戦Bリーグ | Cho Chikun | Hane Naoki | Lose | W+R | 6.5 | 3153 | -23 | 
-| 2013-08-29 | 第39期名人戦予選 | Cho Chikun | Ryu Shikun | Lose | W+R | 6.5 | 3176 | -23 | 
-| 2013-08-08 | 第52期十段戦予選 | Adachi Toshimasa | Cho Chikun | Win | W+1.5 | 6.5 | 3199 | 48 | 
-| 2013-08-01 | 第69期本因坊戦予選 | Cho Chikun | Imamura Toshiya | Lose | W+R | 6.5 | 3151 | 11 | 
-| 2013-07-25 | 第38期棋聖戦Bリーグ | Cho Chikun | Mizokami Tomochika | Lose | W+R | 6.5 | 3140 | 66 | 
-| 2013-07-11 | 第39期名人戦予選 | So Yokoku | Cho Chikun | Win | W+7.5 | 6.5 | 3074 | 74 | 
-| 2013-07-04 | 第52期十段戦予選 | Cho Chikun | Akiyama Jiro | Win | B+R | 6.5 | 3000 | 38 | 
-| 2013-06-28 | 第38期棋聖戦Bリーグ | Takao Shinji | Cho Chikun | Win | W+0.5 | 6.5 | 2962 | 91 | 
-| 2013-06-20 | 第69期本因坊戦予選 | Cho Chikun | Muramatsu Hiroki | Win | B+R | 6.5 | 2871 | 72 | 
-| 2013-06-13 | 第39期名人戦予選 | Cho Chikun | Tajiri Yuto | Win | B+1.5 | 6.5 | 2799 | 14 | 
-| 2013-06-06 | 第20期阿含・桐山杯全日本早碁オープン戦予選 | Cho Chikun | Ichiriki Ryo | Lose | W+R | 6.5 | 2785 | 46 | 
-| 2013-05-30 | 第38期棋聖戦Bリーグ | Kono Rin | Cho Chikun | Win | W+R | 6.5 | 2739 | -20 | 
-| 2013-05-16 | 第3回エステー＆フマキラー囲碁マスターズカップ2回戦 | Cho Chikun | O Meien | Lose | W+10.5 | 6.5 | 2759 | -7 | 
-| 2013-05-09 | 第61期王座戦予選 | Seto Taiki | Cho Chikun | Lose | B+8.5 | 6.5 | 2766 | -37 | 
-| 2013-04-11 | 第69期本因坊戦予選 | Cho Chikun | Ohba Junya | Win | B+R | 6.5 | 2803 | -36 | 
-| 2013-03-21 | 第3回エステー＆フマキラー囲碁マスターズカップ1回戦 | Rin Kaiho | Cho Chikun | Win | W+4.5 | 6.5 | 2839 | 30 | 
-| 2013-03-07 | 第69期本因坊戦予選 | Yamada Shinji | Cho Chikun | Win | W+R | 6.5 | 2809 | 2 | 
-| 2013-02-21 | 第38期碁聖戦本戦2回戦 | Cho Chikun | So Yokoku | Lose | W+0.5 | 6.5 | 2807 | -51 | 
-| 2013-02-14 | 第38期棋聖戦予選 | Cho Chikun | Muramatsu Hiroki | Win | B+R | 6.5 | 2858 | -67 | 
-| 2013-01-24 | 第38期棋聖戦予選 | Cho Chikun | Lee Ishu | Win | B+R | 6.5 | 2925 | 24 | 
-| 2012-12-13 | 第38期棋聖戦予選 | Adachi Toshimasa | Cho Chikun | Win | W+R | 6.5 | 2901 | -345 | 
-| 2012-11-29 | 第39期天元戦予選 | Yoda Norimoto | Cho Chikun | Lose | B+R | 6.5 | 3246 | 119 | 
-| 2012-11-22 | 第38期棋聖戦予選 | Cho Chikun | Tajiri Yuto | Win | B+R | 6.5 | 3127 | -14 | 
-| 2012-11-15 | 第38期碁聖戦本戦1回戦 | Cho Chikun | Ishii Kunio | Win | B+R | 6.5 | 3141 | 6 | 
-| 2012-11-01 | 第39期天元戦予選 | Tamai Shin | Cho Chikun | Win | W+R | 6.5 | 3135 | 7 | 
-| 2012-10-27 | 第8回大和証券杯ネット囲碁オープン1回戦 | Cho Riyu | Cho Chikun | Lose | B+R | 6.5 | 3128 | 7 | 
-| 2012-10-18 | 第38期碁聖戦予選 | Nakamura Shinya | Cho Chikun | Win | W+R | 6.5 | 3121 | 7 | 
-| 2012-09-27 | 第38期碁聖戦予選 | Komatsu Hideki | Cho Chikun | Win | W+3.5 | 6.5 | 3114 | -17 | 
-| 2012-09-20 | 第51期十段戦2回戦 | Cho Chikun | Yuki Satoshi | Lose | W+9.5 | 6.5 | 3131 | 11 | 
-| 2012-08-23 | 第38期名人戦予選 | Cho Chikun | Murakawa Daisuke | Lose | W+4.5 | 6.5 | 3120 | -104 | 
-| 2012-07-28 | 第2回エステー＆フマキラー囲碁マスターズカップ決勝 | Cho Chikun | O Meien | Lose | W+3.5 | 6.5 | 3224 | -18 | 
-| 2012-07-26 | 第38期名人戦予選 | Michael Redmond | Cho Chikun | Win | W+R | 6.5 | 3242 | 27 | 
-| 2012-07-19 | 第51期十段戦予選 | Cho Chikun | Uchida Shuhei | Win | B+R | 6.5 | 3215 | -8 | 
-| 2012-07-12 | 第19期阿含・桐山杯全日本早碁オープン戦1回戦 | Ida Atsushi | Cho Chikun | Lose | B+1.5 | 6.5 | 3223 | -17 | 
-| 2012-07-05 | 第38期名人戦予選 | Cho Chikun | Hoshino Masaki | Win | B+12.5 | 6.5 | 3240 | 27 | 
-| 2012-06-30 | 第2回エステー＆フマキラー囲碁マスターズカップ準決勝 | Cho Chikun | Kudo Norio | Win | B+4.5 | 6.5 | 3213 | 30 | 
-| 2012-06-21 | 第19期阿含・桐山杯全日本早碁オープン戦予選 | Sakaguchi Ryuzo | Cho Chikun | Win | W+R | 6.5 | 3183 | -29 | 
-| 2012-06-14 | 2012年中国囲碁乙級リーグ | Cho Chikun |  | Lose | W+T | 7.5 | 3212 | -82 | 
-| 2012-06-13 | 2012年中国囲碁乙級リーグ | Cho Chikun |  | Lose | W+R | 7.5 | 3294 | 2 | 
-| 2012-06-11 | 2012年中国囲碁乙級リーグ |  | Cho Chikun | Lose | B+R | 7.5 | 3292 | -2 | 
-| 2012-06-10 | 2012年中国囲碁乙級リーグ | Cao Xiaoyang | Cho Chikun | Lose | B+R | 7.5 | 3294 | -14 | 
-| 2012-06-08 | 2012年中国囲碁乙級リーグ | Cho Chikun |  | Win | B+1.5 | 7.5 | 3308 | 17 | 
-| 2012-06-07 | 2012年中国囲碁乙級リーグ | Cho Chikun | Paek Hongseok | Lose | W+R | 7.5 | 3291 | 13 | 
-| 2012-06-06 | 2012年中国囲碁乙級リーグ | Wang Yao | Cho Chikun | Lose | B+R | 7.5 | 3278 | 26 | 
-| 2012-05-27 | 第7回応氏杯世界選手権3回戦 | Cho Chikun | Park Junghwan | Lose | W+R | 7.5 | 3252 | -3 | 
-| 2012-05-25 | 第7回応氏杯世界選手権2回戦 | Liu Xing | Cho Chikun | Win | W+R | 7.5 | 3255 | -31 | 
-| 2012-05-10 | 第60期王座戦1回戦 | Cho Chikun | Yuki Satoshi | Lose | W+R | 6.5 | 3286 | -77 | 
-| 2012-05-03 | 第2回エステー＆フマキラー囲碁マスターズカップ2回戦 | Cho Chikun | Rin Kaiho | Win | B+19.5 | 6.5 | 3363 | -15 | 
-| 2012-04-19 | 第68期本因坊戦予選 | Cho Chikun | Kato Atsushi | Lose | W+1.5 | 6.5 | 3378 | 2 | 
-| 2012-04-05 | 第2回エステー＆フマキラー囲碁マスターズカップ1回戦 | Yamashiro Hiroshi | Cho Chikun | Win | W+0.5 | 6.5 | 3376 | 4 | 
-| 2012-03-30 | 第9回春蘭杯世界囲碁選手権2回戦 | Chen Yaoye | Cho Chikun | Lose | B+5.5 | 7.5 | 3372 | -27 | 
-| 2012-03-24 | 第7回大和証券杯ネット囲碁オープン決勝 | Iyama Yuta | Cho Chikun | Lose | B+R | 6.5 | 3399 | -3 | 
-| 2012-03-17 | 第31期NECカップ囲碁トーナメント戦決勝 | Takao Shinji | Cho Chikun | Lose | B+R | 6.5 | 3402 | 27 | 
-| 2012-03-08 | 第68期本因坊戦予選 | Cho Chikun | Ando Kazushige | Win | B+R | 6.5 | 3375 | -135 | 
-| 2012-02-23 | 第60期王座戦予選 | Anzai Nobuaki | Cho Chikun | Win | W+R | 6.5 | 3510 | -5 | 
-| 2012-02-18 | 第7回大和証券杯ネット囲碁オープン準決勝 | Cho U | Cho Chikun | Win | W+4.5 | 6.5 | 3515 | 113 | 
-| 2012-02-11 | 第7回大和証券杯ネット囲碁オープン3回戦 | Takao Shinji | Cho Chikun | Win | W+7.5 | 6.5 | 3402 | 0 | 
-| 2012-02-04 | 第31期NECカップ囲碁トーナメント戦準決勝 | Iyama Yuta | Cho Chikun | Win | W+3.5 | 6.5 | 3402 | 107 | 
-| 2012-01-19 | 第60期王座戦予選 | Cho Chikun | Imamura Yoshiaki | Win | B+4.5 | 6.5 | 3295 | 23 | 
-| 2011-12-24 | 第7回大和証券杯ネット囲碁オープン2回戦 | Cho Chikun | Yoda Norimoto | Win | B+3.5 | 6.5 | 3272 | -9 | 
-| 2011-12-22 | 第38期天元戦本戦1回戦 | Cho Chikun | Anzai Nobuaki | Lose | W+R | 6.5 | 3281 | -45 | 
-| 2011-12-15 | 第37期棋聖戦予選 | Cho Chikun | Tsuruyama Atsushi | Lose | W+1.5 | 6.5 | 3326 | 401 | 
-| 2011-12-05 | 第37期棋聖戦予選 | Kubo Hideo | Cho Chikun | Win | W+R | 6.5 | 2925 | -25 | 
-| 2011-12-01 | 第37期碁聖戦本戦1回戦 | Cho Chikun | Iyama Yuta | Lose | W+4.5 | 6.5 | 2950 | 13 | 
-| 2011-10-27 | 第37期名人戦予選 | Uchida Shuhei | Cho Chikun | Lose | B+R | 6.5 | 2937 | -9 | 
-| 2011-10-15 | 第7回大和証券杯ネット囲碁オープン1回戦 | Mizokami Tomochika | Cho Chikun | Win | W+R | 6.5 | 2946 | -30 | 
-| 2011-10-13 | 第50期十段戦2回戦 | Cho Chikun | Akiyama Jiro | Lose | W+R | 6.5 | 2976 | -30 | 
-| 2011-10-06 | 第38期天元戦予選 | Uchida Shuhei | Cho Chikun | Win | W+R | 6.5 | 3006 | -5 | 
-| 2011-09-26 | 第31期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Cho Chikun | Win | W+R | 6.5 | 3011 | -6 | 
-| 2011-09-22 | 第37期名人戦予選 | Yamashiro Hiroshi | Cho Chikun | Win | W+R | 6.5 | 3017 | 100 | 
-| 2011-09-01 | 第37期名人戦予選 | Furuya Yutaka | Cho Chikun | Win | W+4.5 | 6.5 | 2917 | 0 | 
-| 2011-08-25 | 第38期天元戦予選 | Cho Chikun | Kanda Ei | Win | B+R | 6.5 | 2917 | -21 | 
-| 2011-08-11 | 第24回世界囲碁選手権富士通杯2回戦 | Cho Chikun | Qiu Jun | Lose | W+R | 6.5 | 2938 | 12 | 
-| 2011-08-10 | 第24回世界囲碁選手権富士通杯1回戦 | Yamashita Keigo | Cho Chikun | Win | W+8.5 | 6.5 | 2926 | 4 | 
-| 2011-08-04 | 第36期名人戦リーグ | Cho U | Cho Chikun | Lose | B+4.5 | 6.5 | 2922 | 23 | 
-| 2011-07-23 | 第1回エステー＆フマキラー囲碁マスターズカップ決勝 | Kobayashi Koichi | Cho Chikun | Win | W+1.5 | 6.5 | 2899 | -3 | 
-| 2011-07-14 | 第31期NECカップ囲碁トーナメント戦1回戦 | Sakai Hideyuki | Cho Chikun | Win | W+R | 6.5 | 2902 | -2 | 
-| 2011-07-07 | 第36期名人戦リーグ | Rin Kanketsu | Cho Chikun | Lose | B+R | 6.5 | 2904 | -134 | 
-| 2011-06-25 | 第1回エステー＆フマキラー囲碁マスターズカップ準決勝 | Kobayashi Satoru | Cho Chikun | Win | W+R | 6.5 | 3038 | -52 | 
-| 2011-06-09 | 第36期名人戦リーグ | Cho Chikun | Hane Naoki | Lose | W+R | 6.5 | 3090 | 32 | 
-| 2011-05-30 | 第59期王座戦2回戦 | Cho Chikun | Hane Naoki | Lose | W+R | 6.5 | 3058 | -16 | 
-| 2011-05-19 | 第59期王座戦1回戦 | Yoda Norimoto | Cho Chikun | Win | W+R | 6.5 | 3074 | 54 | 
-| 2011-05-05 | 第36期名人戦リーグ | Yamashita Keigo | Cho Chikun | Lose | B+R | 6.5 | 3020 | -45 | 
-| 2011-04-28 | 第18期阿含・桐山杯全日本早碁オープン戦予選 | Kim Sonjin | Cho Chikun | Lose | B+R | 6.5 | 3065 | 32 | 
-| 2011-04-14 | 第36期碁聖戦本戦準決勝 | Hane Naoki | Cho Chikun | Lose | B+R | 6.5 | 3033 | -24 | 
-| 2011-03-31 | 第1回エステー＆フマキラー囲碁マスターズカップ2回戦 | Cho Chikun | Takemiya Masaki | Win | B+6.5 | 6.5 | 3057 | -26 | 
-| 2011-03-28 | 第36期碁聖戦本戦3回戦 | Cho Chikun | Cho U | Win | B+0.5 | 6.5 | 3083 | -12 | 
-| 2011-03-24 | 第36期名人戦リーグ | Sakai Hideyuki | Cho Chikun | Win | W+R | 6.5 | 3095 | -15 | 
-| 2011-03-10 | 第36期名人戦リーグ | Cho Chikun | Mizokami Tomochika | Lose | W+R | 6.5 | 3110 | -7 | 
-| 2011-03-03 | 第67期本因坊戦予選 | Cho Chikun | Kato Atsushi | Lose | W+R | 6.5 | 3117 | -9 | 
-| 2011-02-24 | 第59期王座戦予選 | Cho Chikun | Sakai Takeshi | Win | B+R | 6.5 | 3126 | 43 | 
-| 2011-02-10 | 第67期本因坊戦予選 | Cho Chikun | Seki Tatsuya | Win | B+0.5 | 6.5 | 3083 | -19 | 
-| 2011-02-03 | 第59期王座戦予選 | Nakamura Shinya | Cho Chikun | Win | W+R | 6.5 | 3102 | 3 | 
-| 2011-01-29 | 第3回BCカード杯世界選手権1回戦 | Cho Chikun |  | Lose | W+R | 6.5 | 3099 | 107 | 
-| 2011-01-13 | 第36期名人戦リーグ | Cho Chikun | Yuki Satoshi | Lose | W+R | 6.5 | 2992 | -28 | 
-| 2011-01-06 | 第36期碁聖戦本戦2回戦 | Han Zenki | Cho Chikun | Win | W+R | 6.5 | 3020 | 74 | 
-| 2010-12-23 | 第59期王座戦予選 | Cho Chikun | Rin Kanketsu | Win | B+R | 6.5 | 2946 | 33 | 
-| 2010-12-14 | 第8回春蘭杯世界囲碁選手権3回戦 | Cho Chikun | Xie He | Lose | W+R | 7.5 | 2913 | -12 | 
-| 2010-12-09 | 第36期名人戦リーグ | Cho Chikun | Takao Shinji | Lose | W+0.5 | 6.5 | 2925 | 17 | 
-| 2010-12-02 | 第36期碁聖戦本戦1回戦 | Imamura Toshiya | Cho Chikun | Win | W+R | 6.5 | 2908 | 3 | 
-| 2010-11-29 | 第4期幽玄杯精鋭リーグ戦 | Cho Chikun | Fujita Akihiko | Lose | W+R | 6.5 | 2905 | -20 | 
-| 2010-11-25 | 第36期棋聖戦予選 | Cho Chikun | Mitani Tetsuya | Lose | W+R | 6.5 | 2925 | 8 | 
-| 2010-11-18 | 第37期天元戦予選 | Cho Chikun | Rin Kanketsu | Lose | W+2.5 | 6.5 | 2917 | -7 | 
-| 2010-11-11 | 第59期王座戦予選 | Cho Chikun | Nakaonoda Tomomi | Win | B+R | 6.5 | 2924 | -20 | 
-| 2010-11-04 | 第49期十段戦敗者復活戦4回戦 | Cho Chikun | Ko Iso | Lose | W+R | 6.5 | 2944 | -19 | 
-| 2010-10-28 | 第37期天元戦予選 | Otake Hideo | Cho Chikun | Win | W+R | 6.5 | 2963 | 0 | 
-| 2010-10-21 | 第36期棋聖戦予選 | Cho Chikun | Muramatsu Ryuichi | Win | B+R | 6.5 | 2963 | 1 | 
-| 2010-10-14 | 第49期十段戦敗者復活戦3回戦 | Hane Naoki | Cho Chikun | Win | W+2.5 | 6.5 | 2962 | 13 | 
-| 2010-10-07 | 第36期碁聖戦予選 | Cho Chikun | Kobayashi Koichi | Win | B+3.5 | 6.5 | 2949 | 96 | 
-| 2010-10-02 | 第17期阿含・桐山杯全日本早碁オープン戦決勝 | Yamashita Keigo | Cho Chikun | Lose | B+R | 6.5 | 2853 | 75 | 
-| 2010-09-09 | 第36期碁聖戦予選 | Iguchi Hideichiro | Cho Chikun | Win | W+R | 6.5 | 2778 | -25 | 
-| 2010-09-02 | 第49期十段戦敗者復活戦2回戦 | Cho Chikun | Lee Ishu | Win | B+R | 6.5 | 2803 | 19 | 
-| 2010-08-26 | 第17期阿含・桐山杯全日本早碁オープン戦準決勝 | Rin Shien | Cho Chikun | Win | W+1.5 | 6.5 | 2784 | 10 | 
-| 2010-08-19 | 第36期碁聖戦予選 | Kato Atsushi | Cho Chikun | Win | W+1.5 | 6.5 | 2774 | -11 | 
-| 2010-08-12 | 第49期十段戦本戦2回戦 | Cho Chikun | Anzai Nobuaki | Lose | W+R | 6.5 | 2785 | -7 | 
-| 2010-08-05 | 第35期名人戦リーグ | Yamada Kimio | Cho Chikun | Lose | B+0.5 | 6.5 | 2792 | -39 | 
-| 2010-07-29 | 第17期阿含・桐山杯全日本早碁オープン戦2回戦 | Cho Chikun | Imamura Toshiya | Win | B+R | 6.5 | 2831 | 17 | 
-| 2010-07-24 | 第6回大和証券杯ネット囲碁オープン1回戦 | Shuto Shun | Cho Chikun | Lose | B+2.5 | 6.5 | 2814 | -22 | 
-| 2010-07-12 | 第30期NECカップ囲碁トーナメント戦1回戦 | So Yokoku | Cho Chikun | Lose | B+0.5 | 6.5 | 2836 | -38 | 
-| 2010-07-08 | 第17期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Chikun | Hane Naoki | Win | B+R | 6.5 | 2874 | 11 | 
-| 2010-07-01 | 第35期名人戦リーグ | Cho Chikun | Cho U | Lose | W+R | 6.5 | 2863 | -17 | 
-| 2010-06-24 | 第66期本因坊戦予選 | Suzuki Shinji | Cho Chikun | Lose | B+1.5 | 6.5 | 2880 | 61 | 
-| 2010-06-17 | 第49期十段戦本戦1回戦 | Akiyama Jiro | Cho Chikun | Win | W+8.5 | 6.5 | 2819 | 21 | 
-| 2010-06-10 | 第36期碁聖戦予選 | Cho Chikun | Kanno Masashi | Win | B+R | 6.5 | 2798 | 9 | 
-| 2010-06-03 | 第35期名人戦リーグ | Cho Chikun | Takao Shinji | Lose | W+7.5 | 6.5 | 2789 | 31 | 
-| 2010-05-20 | 第17期阿含・桐山杯全日本早碁オープン戦予選 | Enda Hideki | Cho Chikun | Win | W+R | 6.5 | 2758 | 67 | 
-| 2010-05-13 | 第66期本因坊戦予選 | Cho Chikun | Takemiya Masaki | Win | B+2.5 | 6.5 | 2691 | 18 | 
-| 2010-05-06 | 第35期名人戦リーグ | Cho Chikun | Yuki Satoshi | Lose | W+R | 6.5 | 2673 | -33 | 
-| 2010-04-29 | 第36期天元戦本戦2回戦 | Cho Chikun | Ryu Shikun | Lose | W+R | 6.5 | 2706 | -42 | 
-| 2010-04-08 | 第35期名人戦リーグ | Cho Chikun | Ogata Masaki | Win | B+11.5 | 6.5 | 2748 | 9 | 
-| 2010-03-29 | 第8回春蘭杯世界囲碁選手権2回戦 | Cho Chikun | Qiu Jun | Win | B+R | 7.5 | 2739 | 21 | 
-| 2010-03-27 | 第8回春蘭杯世界囲碁選手権1回戦 | Kang Dongyun | Cho Chikun | Win | W+R | 7.5 | 2718 | 6 | 
-| 2010-03-18 | 第66期本因坊戦予選 | Yamada Shinji | Cho Chikun | Win | W+2.5 | 6.5 | 2712 | -9 | 
-| 2010-03-11 | 第58期王座戦予選 | Cho Chikun | Kiyonari Tetsuya | Lose | W+R | 6.5 | 2721 | -18 | 
-| 2010-02-25 | 第36期天元戦本戦1回戦 | So Yokoku | Cho Chikun | Win | W+10.5 | 6.5 | 2739 | 56 | 
-| 2010-02-18 | 第66期本因坊戦予選 | Cho Chikun | Matsubara Taisei | Win | B+R | 6.5 | 2683 | 9 | 
-| 2010-02-11 | 第58期王座戦予選 | Cho Chikun | So Yokoku | Win | B+R | 6.5 | 2674 | 19 | 
-| 2010-02-04 | 第35期名人戦リーグ | O Meien | Cho Chikun | Win | W+R | 6.5 | 2655 | -2 | 
-| 2010-01-28 | 第23回世界囲碁選手権富士通杯国内予選決勝 | Cho Chikun | Sakai Hideyuki | Lose | W+0.5 | 6.5 | 2657 | -46 | 
-| 2010-01-21 | 第35期名人戦リーグ | Sakai Hideyuki | Cho Chikun | Lose | B+R | 6.5 | 2703 | -16 | 
-| 2010-01-14 | 第35期棋聖戦予選 | Yamashiro Hiroshi | Cho Chikun | Lose | B+R | 6.5 | 2719 | -13 | 
-| 2009-12-10 | 第35期名人戦リーグ | Mizokami Tomochika | Cho Chikun | Win | W+R | 6.5 | 2732 | 35 | 
-| 2009-12-03 | 第23回世界囲碁選手権富士通杯国内予選 | Murakawa Daisuke | Cho Chikun | Win | W+R | 6.5 | 2697 | 19 | 
-| 2009-11-30 | 第3期幽玄杯精鋭リーグ戦 | Fujita Akihiko | Cho Chikun | Win | W+R | 6.5 | 2678 | -219 | 
-| 2009-11-05 | 第36期天元戦予選 | Cho Chikun | Ishida Yoshio | Win | B+2.5 | 6.5 | 2897 | 9 | 
-| 2009-10-29 | 第23回世界囲碁選手権富士通杯国内予選 | Cho Chikun | Otake Hideo | Win | B+R | 6.5 | 2888 | 45 | 
-| 2009-10-08 | 第36期天元戦予選 | Kono Takashi | Cho Chikun | Win | W+R | 6.5 | 2843 | 7 | 
-| 2009-10-01 | 第34期棋聖戦Bリーグ | Cho Chikun | Kono Rin | Lose | W+0.5 | 6.5 | 2836 | -21 | 
-| 2009-09-24 | 第48期十段戦敗者復活戦3回戦 | Cho Chikun | Yamashita Keigo | Lose | W+R | 6.5 | 2857 | -63 | 
-| 2009-09-12 | 第5回大和証券杯ネット囲碁オープン3回戦 | Cho Chikun | Iyama Yuta | Lose | W+T | 6.5 | 2920 | -11 | 
-| 2009-09-10 | 第34期棋聖戦Bリーグ | Cho Chikun | Akiyama Jiro | Lose | W+R | 6.5 | 2931 | 19 | 
-| 2009-08-29 | 第5回大和証券杯ネット囲碁オープン2回戦 | Cho Chikun | Tsuruyama Atsushi | Win | B+R | 6.5 | 2912 | 44 | 
-| 2009-08-20 | 第35期碁聖戦予選 | Cho Chikun | Sonoda Yasutaka | Lose | W+0.5 | 6.5 | 2868 | 5 | 
-| 2009-08-13 | 第34期棋聖戦Bリーグ | Miyazawa Goro | Cho Chikun | Win | W+R | 6.5 | 2863 | -3 | 
-| 2009-08-06 | 第34期名人戦リーグ | Cho Chikun | Kobayashi Satoru | Win | B+R | 6.5 | 2866 | 19 | 
-| 2009-07-30 | 第48期十段戦敗者復活戦2回戦 | Tsuruyama Atsushi | Cho Chikun | Win | W+R | 6.5 | 2847 | 21 | 
-| 2009-07-23 | 第65期本因坊戦予選 | Oya Koichi | Cho Chikun | Lose | B+R | 6.5 | 2826 | -74 | 
-| 2009-07-09 | 第34期名人戦リーグ | O Meien | Cho Chikun | Win | W+R | 6.5 | 2900 | 15 | 
-| 2009-07-04 | 第5回大和証券杯ネット囲碁オープン1回戦 | Cho Chikun | Ryu Shikun | Win | B+R | 6.5 | 2885 | -10 | 
-| 2009-07-02 | 第34期棋聖戦Bリーグ | Cho U | Cho Chikun | Lose | B+R | 6.5 | 2895 | 18 | 
-| 2009-06-25 | 第48期十段戦敗者復活戦1回戦 | Nakamura Shinya | Cho Chikun | Win | W+R | 6.5 | 2877 | 31 | 
-| 2009-06-18 | 第65期本因坊戦予選 | Cho Chikun | Komatsu Hideki | Win | B+4.5 | 6.5 | 2846 | -11 | 
-| 2009-06-15 | 第29期NECカップ囲碁トーナメント戦1回戦 | Cho Chikun | Kobayashi Satoru | Lose | W+3.5 | 6.5 | 2857 | 20 | 
-| 2009-06-11 | 第34期棋聖戦Bリーグ | Cho Chikun | Iyama Yuta | Win | B+R | 6.5 | 2837 | 33 | 
-| 2009-06-04 | 第34期名人戦リーグ | Cho Chikun | Takao Shinji | Lose | W+1.5 | 6.5 | 2804 | -77 | 
-| 2009-05-28 | 第48期十段戦本戦1回戦 | Cho Chikun | So Yokoku | Lose | W+R | 6.5 | 2881 | -89 | 
-| 2009-05-18 | 第14回LG杯世界棋王戦1回戦 | Cho Chikun | Kang Yootaek | Lose | W+R | 6.5 | 2970 | -4 | 
-| 2009-05-14 | 第57期王座戦1回戦 | Yamada Kimio | Cho Chikun | Lose | B+0.5 | 6.5 | 2974 | 8 | 
-| 2009-05-07 | 第34期名人戦リーグ | Yamada Kimio | Cho Chikun | Lose | B+0.5 | 6.5 | 2966 | 50 | 
-| 2009-04-02 | 第34期名人戦リーグ | Cho Chikun | Iyama Yuta | Lose | W+R | 6.5 | 2916 | 9 | 
-| 2009-03-05 | 第65期本因坊戦予選 | Ishida Akira | Cho Chikun | Win | W+R | 6.5 | 2907 | -42 | 
-| 2009-03-01 | 第1回BCカード杯世界選手権1回戦 | Paek Hongseok | Cho Chikun | Lose | B+5.5 | 6.5 | 2949 | 37 | 
-| 2009-02-19 | 第34期名人戦リーグ | Sakai Hideyuki | Cho Chikun | Lose | B+0.5 | 6.5 | 2912 | -3 | 
-| 2009-02-12 | 第35期天元戦本戦1回戦 | O Meien | Cho Chikun | Lose | B+R | 6.5 | 2915 | -25 | 
-| 2009-02-07 | 第28期NECカップ囲碁トーナメント戦準決勝 | Hane Naoki | Cho Chikun | Lose | B+9.5 | 6.5 | 2940 | -15 | 
-| 2009-01-29 | 第65期本因坊戦予選 | Cho Chikun | Suzuki Ayumi | Win | B+R | 6.5 | 2955 | 9 | 
-| 2009-01-22 | 第34期碁聖戦本戦2回戦 | Cho Chikun | Iyama Yuta | Lose | W+R | 6.5 | 2946 | -13 | 
-| 2009-01-15 | 第34期名人戦リーグ | Cho Riyu | Cho Chikun | Win | W+R | 6.5 | 2959 | 70 | 
-| 2008-12-04 | 第34期名人戦リーグ | Cho Chikun | Ogata Masaki | Lose | W+R | 6.5 | 2889 | 232 | 
-| 2008-11-27 | 第47期十段戦敗者復活戦4回戦 | Ko Iso | Cho Chikun | Lose | B+2.5 | 6.5 | 2657 | -26 | 
-| 2008-11-06 | 第22回世界囲碁選手権富士通杯国内予選 | Cho Chikun | Cho Sonjin | Lose | W+3.5 | 6.5 | 2683 | -8 | 
-| 2008-10-30 | 第34期碁聖戦本戦1回戦 | Sakai Maki | Cho Chikun | Win | W+R | 6.5 | 2691 | -580 | 
-| 2008-10-23 | 第47期十段戦本戦勝者組決勝 | Cho Chikun | Cho U | Lose | W+5.5 | 6.5 | 3271 | 63 | 
-| 2008-10-04 | 第4回大和証券杯ネット囲碁オープン3回戦 | Cho U | Cho Chikun | Lose | B+2.5 | 6.5 | 3208 | -12 | 
-| 2008-10-02 | 第33期棋聖戦Aリーグ | Kataoka Satoshi | Cho Chikun | Win | W+0.5 | 6.5 | 3220 | -3 | 
-| 2008-09-20 | 第28期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Cho Chikun | Win | W+R | 6.5 | 3223 | -19 | 
-| 2008-09-13 | 第4回大和証券杯ネット囲碁オープン2回戦 | Xie Yimin | Cho Chikun | Win | W+15.5 | 6.5 | 3242 | 15 | 
-| 2008-09-11 | 第33期棋聖戦Aリーグ | Iyama Yuta | Cho Chikun | Lose | B+R | 6.5 | 3227 | -10 | 
-| 2008-08-21 | 第33期棋聖戦Aリーグ | Cho Chikun | Yuki Satoshi | Lose | W+0.5 | 6.5 | 3237 | 6 | 
-| 2008-08-14 | 第47期十段戦本戦3回戦 | So Yokoku | Cho Chikun | Win | W+1.5 | 6.5 | 3231 | 328 | 
-| 2008-08-11 | 第15期阿含・桐山杯全日本早碁オープン戦2回戦 | Cho Chikun | Cho U | Lose | W+R | 6.5 | 2903 | -5 | 
-| 2008-08-07 | 第33期名人戦リーグ | Sakai Hideyuki | Cho Chikun | Win | W+R | 6.5 | 2908 | 19 | 
-| 2008-07-31 | 第33期棋聖戦Aリーグ | Cho Chikun | Takao Shinji | Lose | W+R | 6.5 | 2889 | -20 | 
-| 2008-07-24 | 第34期天元戦本戦準決勝 | Cho U | Cho Chikun | Lose | B+1.5 | 6.5 | 2909 | -7 | 
-| 2008-07-19 | 第28期NECカップ囲碁トーナメント戦1回戦 | Cho Chikun | Kobayashi Satoru | Win | B+R | 6.5 | 2916 | 2 | 
-| 2008-07-17 | 第47期十段戦本戦2回戦 | Iyama Yuta | Cho Chikun | Win | W+R | 6.5 | 2914 | 12 | 
-| 2008-07-12 | 第4回大和証券杯ネット囲碁オープン1回戦 | Cho Chikun | Mimura Tomoyasu | Win | B+R | 6.5 | 2902 | -11 | 
-| 2008-07-10 | 第33期名人戦リーグ | Cho Chikun | Yamada Kimio | Win | B+2.5 | 6.5 | 2913 | 2 | 
-| 2008-07-03 | 第15期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Chikun | Kono Rin | Win | B+R | 6.5 | 2911 | 31 | 
-| 2008-06-26 | 第34期天元戦本戦3回戦 | Komatsu Hideki | Cho Chikun | Win | W+R | 6.5 | 2880 | 5 | 
-| 2008-06-23 | 第64期本因坊戦予選 | Cho Chikun | Cho U | Lose | W+R | 6.5 | 2875 | -33 | 
-| 2008-06-19 | 第33期棋聖戦Aリーグ | Cho Chikun | O Rissei | Win | B+R | 6.5 | 2908 | 4 | 
-| 2008-06-16 | 第47期十段戦本戦1回戦 | Yamashiro Hiroshi | Cho Chikun | Win | W+R | 6.5 | 2904 | 0 | 
-| 2008-06-12 | 第33期名人戦リーグ | Cho Chikun | Iyama Yuta | Lose | W+R | 6.5 | 2904 | -8 | 
-| 2008-06-09 | 第4期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Kono Rin | Cho Chikun | Lose | B+R | 6.5 | 2912 | -15 | 
-| 2008-06-01 | 第20回テレビアジア選手権1回戦 | Lee Changho | Cho Chikun | Lose | B+1.5 | 7.5 | 2927 | -7 | 
-| 2008-05-28 | 第13回LG杯世界棋王戦2回戦 | Lee Changho | Cho Chikun | Lose | B+R | 6.5 | 2934 | -2 | 
-| 2008-05-26 | 第13回LG杯世界棋王戦1回戦 | Cho Chikun | Kang Dongyun | Win | B+R | 6.5 | 2936 | 36 | 
-| 2008-05-22 | 第33期名人戦リーグ | Yoda Norimoto | Cho Chikun | Win | W+1.5 | 6.5 | 2900 | 9 | 
-| 2008-05-15 | 第34期天元戦本戦2回戦 | Morita Michihiro | Cho Chikun | Win | W+R | 6.5 | 2891 | 16 | 
-| 2008-05-08 | 第64期本因坊戦予選 | Cho Chikun | Han Zenki | Win | B+2.5 | 6.5 | 2875 | 4 | 
-| 2008-05-04 | 第6回応氏杯世界選手権3回戦 | Lee Changho | Cho Chikun | Lose | B+3 | 7.5 | 2871 | -4 | 
-| 2008-05-02 | 第6回応氏杯世界選手権2回戦 | Chang Hao | Cho Chikun | Win | W+3 | 7.5 | 2875 | 20 | 
-| 2008-04-30 | 第6回応氏杯世界選手権1回戦 | Cho U | Cho Chikun | Win | W+1 | 7.5 | 2855 | 18 | 
-| 2008-04-24 | 第56期王座戦1回戦 | Cho Chikun | Yuki Satoshi | Lose | W+R | 6.5 | 2837 | 181 | 
-| 2008-04-10 | 第33期名人戦リーグ | Cho Chikun | Kobayashi Satoru | Lose | W+1.5 | 6.5 | 2656 | 4 | 
-| 2008-04-03 | 第46期十段戦挑戦手合五番勝負第3局 | Takao Shinji | Cho Chikun | Lose | B+R | 6.5 | 2652 | 4 | 
-| 2008-03-27 | 第46期十段戦挑戦手合五番勝負第2局 | Cho Chikun | Takao Shinji | Lose | W+R | 6.5 | 2648 | 5 | 
-| 2008-03-20 | 第32期棋聖戦挑戦手合七番勝負第7局 | Cho Chikun | Yamashita Keigo | Lose | W+R | 6.5 | 2643 | -8 | 
-| 2008-03-14 | 第32期棋聖戦挑戦手合七番勝負第6局 | Yamashita Keigo | Cho Chikun | Win | W+4.5 | 6.5 | 2651 | 11 | 
-| 2008-03-06 | 第46期十段戦挑戦手合五番勝負第1局 | Takao Shinji | Cho Chikun | Lose | B+R | 6.5 | 2640 | -13 | 
-| 2008-03-03 | 第4期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Cho Chikun | Yo Kagen | Win | B+0.5 | 6.5 | 2653 | -2 | 
-| 2008-02-28 | 第32期棋聖戦挑戦手合七番勝負第5局 | Cho Chikun | Yamashita Keigo | Win | B+3.5 | 6.5 | 2655 | 14 | 
-| 2008-02-22 | 第32期棋聖戦挑戦手合七番勝負第4局 | Yamashita Keigo | Cho Chikun | Lose | B+R | 6.5 | 2641 | -1 | 
-| 2008-02-18 | 第33期碁聖戦本戦3回戦 | Yamashita Keigo | Cho Chikun | Lose | B+R | 6.5 | 2642 | -20 | 
-| 2008-02-14 | 第33期名人戦リーグ | Cho Chikun | Ko Iso | Win | B+R | 6.5 | 2662 | 7 | 
-| 2008-02-08 | 第32期棋聖戦挑戦手合七番勝負第3局 | Cho Chikun | Yamashita Keigo | Lose | W+R | 6.5 | 2655 | -19 | 
-| 2008-01-31 | 第32期棋聖戦挑戦手合七番勝負第2局 | Yamashita Keigo | Cho Chikun | Win | W+R | 6.5 | 2674 | 38 | 
-| 2008-01-24 | 第33期名人戦リーグ | Chin Kaei | Cho Chikun | Win | W+R | 6.5 | 2636 | 17 | 
-| 2008-01-13 | 第32期棋聖戦挑戦手合七番勝負第1局 | Cho Chikun | Yamashita Keigo | Lose | W+R | 6.5 | 2619 | -2 | 
-| 2007-12-13 | 第33期名人戦リーグ | Takao Shinji | Cho Chikun | Lose | B+R | 6.5 | 2621 | -10 | 
-| 2007-12-06 | 第33期碁聖戦本戦2回戦 | Ko Iso | Cho Chikun | Win | W+2.5 | 6.5 | 2631 | -13 | 
-| 2007-11-29 | 第34期天元戦本戦1回戦 | Nakano Hironari | Cho Chikun | Win | W+1.5 | 6.5 | 2644 | -16 | 
-| 2007-11-19 | 第32期棋聖戦挑戦者決定戦 | Cho U | Cho Chikun | Win | W+4.5 | 6.5 | 2660 | 13 | 
-| 2007-11-15 | 第3回大和証券杯ネット囲碁オープン3回戦 | Takao Shinji | Cho Chikun | Lose | B+8.5 | 6.5 | 2647 | -19 | 
-| 2007-11-08 | 第33期碁聖戦本戦1回戦 | Cho Chikun | Nakaonoda Tomomi | Win | B+R | 6.5 | 2666 | 13 | 
-| 2007-11-01 | 第21回世界囲碁選手権富士通杯国内予選 | Cho Chikun | Kiyonari Tetsuya | Lose | W+R | 6.5 | 2653 | -7 | 
-| 2007-10-28 | 第3回大和証券杯ネット囲碁オープン2回戦 | Cho Chikun | Mizokami Tomochika | Win | B+R | 6.5 | 2660 | -8 | 
-| 2007-10-25 | 第33期名人戦予選 | Cho Chikun | Sonoda Yuichi | Win | B+4.5 | 6.5 | 2668 | 3 | 
-| 2007-10-20 | 第14期阿含・桐山杯全日本早碁オープン戦決勝 | Cho Chikun | Cho U | Lose | W+6.5 | 6.5 | 2665 | -16 | 
-| 2007-10-04 | 第32期棋聖戦Bリーグ | Hane Naoki | Cho Chikun | Win | W+5.5 | 6.5 | 2681 | 0 | 
-| 2007-09-27 | 第33期名人戦予選 | Cho Sonjin | Cho Chikun | Win | W+R | 6.5 | 2681 | 20 | 
-| 2007-09-22 | 第27期NECカップ囲碁トーナメント戦2回戦 | Cho Chikun | Kono Rin | Lose | W+1.5 | 6.5 | 2661 | -1310 | 
-| 2007-09-20 | 第32期棋聖戦Bリーグ | Komatsu Hideki | Cho Chikun | Win | W+9.5 | 6.5 | 3971 | 29 | 
-| 2007-09-16 | 第3回大和証券杯ネット囲碁オープン1回戦 | Nakano Hironari | Cho Chikun | Win | W+R | 6.5 | 3942 | -39 | 
-| 2007-09-13 | 第14期阿含・桐山杯全日本早碁オープン戦準決勝 | Cho Chikun | Ogata Masaki | Win | B+R | 6.5 | 3981 | 1269 | 
-| 2007-09-04 | 第12回三星火災杯世界オープン囲碁選手権1回戦 | Kim Kiyoung | Cho Chikun | Lose | B+R | 6.5 | 2712 | -11 | 
-| 2007-08-30 | 第33期名人戦予選 | O Meien | Cho Chikun | Win | W+R | 6.5 | 2723 | 2 | 
-| 2007-08-23 | 第63期本因坊戦予選 | Yamashita Keigo | Cho Chikun | Lose | B+R | 6.5 | 2721 | -269 | 
-| 2007-08-12 | 第3回中環杯世界囲碁選手権1回戦 | Cho Chikun | Park Cheongsang | Lose | W+R | 6.5 | 2990 | 5 | 
-| 2007-08-09 | 第33期名人戦予選 | Sato Masaharu | Cho Chikun | Win | W+R | 6.5 | 2985 | -112 | 
-| 2007-08-02 | 第32期棋聖戦Bリーグ | Cho Chikun | Imamura Toshiya | Lose | W+R | 6.5 | 3097 | -73 | 
-| 2007-07-26 | 第14期阿含・桐山杯全日本早碁オープン戦2回戦 | Sakai Hideyuki | Cho Chikun | Win | W+5.5 | 6.5 | 3170 | -2 | 
-| 2007-07-19 | 第63期本因坊戦予選 | Cho Chikun | Ryu Shikun | Win | B+8.5 | 6.5 | 3172 | 165 | 
-| 2007-07-12 | 第32期棋聖戦Bリーグ | Cho Chikun | Kato Atsushi | Win | B+R | 6.5 | 3007 | -58 | 
-| 2007-07-05 | 第14期阿含・桐山杯全日本早碁オープン戦1回戦 | Honda Kunihisa | Cho Chikun | Win | W+R | 6.5 | 3065 | -18 | 
-| 2007-06-28 | 第33期天元戦本戦3回戦 | Cho Chikun | Kim Sujun | Lose | W+R | 6.5 | 3083 | -29 | 
-| 2007-06-23 | 第27期NECカップ囲碁トーナメント戦1回戦 | Cho Chikun | Mimura Tomoyasu | Win | B+R | 6.5 | 3112 | 27 | 
-| 2007-06-21 | 第32期棋聖戦Bリーグ | Iyama Yuta | Cho Chikun | Win | W+6.5 | 6.5 | 3085 | 26 | 
-| 2007-06-12 | 第19回テレビアジア選手権1回戦 | Chen Yaoye | Cho Chikun | Lose | B+R | 6.5 | 3059 | 46 | 
-| 2007-06-06 | 第12回LG杯世界棋王戦2回戦 | Liu Jing | Cho Chikun | Lose | B+0.5 | 6.5 | 3013 | -24 | 
-| 2007-06-04 | 第12回LG杯世界棋王戦1回戦 | Cho Chikun | Park Yeonghun | Win | B+R | 6.5 | 3037 | 33 | 
-| 2007-05-31 | 第63期本因坊戦予選 | Kanda Ei | Cho Chikun | Win | W+R | 6.5 | 3004 | 27 | 
-| 2007-05-10 | 第55期王座戦1回戦 | Cho Chikun | So Yokoku | Lose | W+R | 6.5 | 2977 | -21 | 
-| 2007-05-03 | 第63期本因坊戦予選 | Chin Kaei | Cho Chikun | Win | W+R | 6.5 | 2998 | -14 | 
-| 2007-04-25 | 第45期十段戦挑戦手合五番勝負第5局 | Cho Chikun | Yamashita Keigo | Win | B+3.5 | 6.5 | 3012 | 20 | 
-| 2007-04-19 | 第45期十段戦挑戦手合五番勝負第4局 | Cho Chikun | Yamashita Keigo | Lose | W+R | 6.5 | 2992 | -35 | 
-| 2007-04-12 | 第33期天元戦本戦2回戦 | So Yokoku | Cho Chikun | Win | W+1.5 | 6.5 | 3027 | 22 | 
-| 2007-04-05 | 第45期十段戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho Chikun | Lose | B+R | 6.5 | 3005 | -16 | 
-| 2007-03-29 | 第45期十段戦挑戦手合五番勝負第2局 | Cho Chikun | Yamashita Keigo | Win | B+2.5 | 6.5 | 3021 | -28 | 
-| 2007-03-22 | 第32期棋聖戦予選 | Cho Chikun | Imamura Yoshiaki | Win | B+9.5 | 6.5 | 3049 | 323 | 
-| 2007-03-08 | 第45期十段戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho Chikun | Win | W+R | 6.5 | 2726 | 0 | 
-| 2007-02-24 | 第2回大和証券杯ネット囲碁オープン決勝トーナメント1回戦 | Cho Chikun | Yoda Norimoto | Lose | W+R | 6.5 | 2726 | -13 | 
-| 2007-02-22 | 第32期棋聖戦予選 | Cho Chikun | Kono Mitsuki | Win | B+R | 6.5 | 2739 | 39 | 
-| 2007-02-15 | 第32期碁聖戦本戦3回戦 | Kono Rin | Cho Chikun | Lose | B+R | 6.5 | 2700 | -44 | 
-| 2007-02-08 | 第20回世界囲碁選手権富士通杯国内予選決勝 | Cho Chikun | Yuki Satoshi | Lose | W+R | 6.5 | 2744 | -8 | 
-| 2007-01-25 | 第32期棋聖戦予選 | Ishii Kunio | Cho Chikun | Win | W+R | 6.5 | 2752 | 20 | 
-| 2007-01-18 | 第32期碁聖戦本戦2回戦 | Yamashiro Hiroshi | Cho Chikun | Win | W+R | 6.5 | 2732 | 19 | 
-| 2007-01-11 | 第33期天元戦本戦1回戦 | Cho Chikun | Imamura Toshiya | Win | B+R | 6.5 | 2713 | 10 | 
-| 2006-11-30 | 第20回世界囲碁選手権富士通杯国内予選 | Han Zenki | Cho Chikun | Win | W+R | 6.5 | 2703 | 0 | 
-| 2006-11-09 | 第20回世界囲碁選手権富士通杯国内予選 | Cho Chikun | Kono Rin | Win | B+R | 6.5 | 2703 | 3 | 
-| 2006-10-26 | 第32期碁聖戦本戦1回戦 | Cho Chikun | Kiyonari Tetsuya | Win | B+R | 6.5 | 2700 | -77 | 
-| 2006-10-15 | 第1回大和証券杯ネット囲碁オープン決勝トーナメント準決勝 | Cho U | Cho Chikun | Lose | B+1.5 | 6.5 | 2777 | -5 | 
-| 2006-10-14 | 第26期NECカップ囲碁トーナメント戦2回戦 | Cho Chikun | Takao Shinji | Lose | W+R | 6.5 | 2782 | -12 | 
-| 2006-10-07 | 第1回大和証券杯ネット囲碁オープン決勝トーナメント1回戦 | Kim Sujun | Cho Chikun | Win | W+R | 6.5 | 2794 | 11 | 
-| 2006-10-05 | 第31期棋聖戦Bリーグ | O Rissei | Cho Chikun | Lose | B+R | 6.5 | 2783 | 8 | 
-| 2006-09-21 | 第31期棋聖戦Bリーグ | Cho Chikun | Imamura Toshiya | Lose | W+R | 6.5 | 2775 | -19 | 
-| 2006-09-06 | 第11回三星火災杯世界オープン囲碁選手権1回戦 | Ko Keuntae | Cho Chikun | Lose | B+R | 6.5 | 2794 | -9 | 
-| 2006-08-24 | 第32期名人戦予選 | Cho Chikun | Kiyonari Tetsuya | Lose | W+0.5 | 6.5 | 2803 | -40 | 
-| 2006-08-17 | 第62期本因坊戦予選 | Cho Chikun | Kobayashi Satoru | Lose | W+R | 6.5 | 2843 | -50 | 
-| 2006-08-03 | 第31期棋聖戦Bリーグ | Cho Chikun | Kato Atsushi | Win | B+8.5 | 6.5 | 2893 | 30 | 
-| 2006-07-27 | 第62期本因坊戦予選 | Cho Chikun | Nakamura Shinya | Win | B+R | 6.5 | 2863 | -23 | 
-| 2006-07-20 | 第31期棋聖戦Bリーグ | Kobayashi Satoru | Cho Chikun | Lose | B+R | 6.5 | 2886 | -85 | 
-| 2006-07-06 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Yuki Satoshi | Cho Chikun | Lose | B+2.5 | 6.5 | 2971 | -206 | 
-| 2006-06-22 | 第31期棋聖戦Bリーグ | Cho Chikun | Yuki Satoshi | Lose | W+R | 6.5 | 3177 | 5 | 
-| 2006-06-01 | 第62期本因坊戦予選 | Han Zenki | Cho Chikun | Win | W+R | 6.5 | 3172 | 28 | 
-| 2006-05-25 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Oya Koichi | Cho Chikun | Win | W+4.5 | 6.5 | 3144 | 96 | 
-| 2006-05-20 | 第26期NECカップ囲碁トーナメント戦1回戦 | Mimura Tomoyasu | Cho Chikun | Win | W+R | 6.5 | 3048 | 22 | 
-| 2006-05-15 | 第11回LG杯世界棋王戦1回戦 | Cho Chikun | Cho Hanseung | Lose | W+6.5 | 6.5 | 3026 | 6 | 
-| 2006-05-11 | 第31期碁聖戦本戦準決勝 | Cho Chikun | Yamashita Keigo | Lose | W+R | 6.5 | 3020 | -23 | 
-| 2006-05-04 | 第62期本因坊戦予選 | Cho Chikun | Anzai Nobuaki | Win | B+3.5 | 6.5 | 3043 | -23 | 
-| 2006-04-20 | 第31期棋聖戦予選 | Cho Chikun | Morita Michihiro | Win | B+R | 6.5 | 3066 | -17 | 
-| 2006-04-13 | 第44期十段戦挑戦手合五番勝負第4局 | Cho Chikun | Yamashita Keigo | Win | B+2.5 | 6.5 | 3083 | 22 | 
-| 2006-04-10 | 第19回世界囲碁選手権富士通杯2回戦 | Lee Sedol | Cho Chikun | Lose | B+R | 6.5 | 3061 | -18 | 
-| 2006-04-08 | 第19回世界囲碁選手権富士通杯1回戦 | Alexander Dinerchtein | Cho Chikun | Win | W+14.5 | 6.5 | 3079 | 24 | 
-| 2006-04-05 | 第44期十段戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho Chikun | Lose | B+8.5 | 6.5 | 3055 | 3 | 
-| 2006-03-27 | 第44期十段戦挑戦手合五番勝負第2局 | Cho Chikun | Yamashita Keigo | Win | B+R | 6.5 | 3052 | 22 | 
-| 2006-03-23 | 第31期棋聖戦予選 | Cho Chikun | Hoshino Masaki | Win | B+R | 6.5 | 3030 | 40 | 
-| 2006-03-13 | 第6回春蘭杯世界囲碁選手権2回戦 | Zhou Heyang | Cho Chikun | Lose | B+R | 7.5 | 2990 | -30 | 
-| 2006-03-11 | 第6回春蘭杯世界囲碁選手権1回戦 | Yu Bin | Cho Chikun | Win | W+2.5 | 7.5 | 3020 | 21 | 
-| 2006-03-08 | 第44期十段戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho Chikun | Win | W+R | 6.5 | 2999 | 21 | 
-| 2006-03-02 | 第31期碁聖戦本戦3回戦 | Cho Chikun | Kiyonari Tetsuya | Win | B+R | 6.5 | 2978 | -16 | 
-| 2006-02-09 | 第19回世界囲碁選手権富士通杯国内予選決勝 | Kataoka Satoshi | Cho Chikun | Win | W+R | 6.5 | 2994 | -11 | 
-| 2006-02-02 | 第31期棋聖戦予選 | O Meien | Cho Chikun | Win | W+R | 6.5 | 3005 | -11 | 
-| 2006-01-26 | 第32期天元戦本戦2回戦 | Hane Naoki | Cho Chikun | Lose | B+5.5 | 6.5 | 3016 | -23 | 
-| 2006-01-19 | 第31期碁聖戦本戦2回戦 | O Meien | Cho Chikun | Win | W+7.5 | 6.5 | 3039 | 25 | 
-| 2006-01-12 | 第19回世界囲碁選手権富士通杯国内予選 | Cho Chikun | Yoda Norimoto | Win | B+R | 6.5 | 3014 | -206 | 
-| 2005-12-08 | 第32期天元戦本戦1回戦 | Aragaki Shun | Cho Chikun | Win | W+R | 6.5 | 3220 | -57 | 
-| 2005-12-01 | 第54期王座戦予選 | Kobayashi Satoru | Cho Chikun | Lose | B+8.5 | 6.5 | 3277 | -31 | 
-| 2005-11-17 | 第19回世界囲碁選手権富士通杯国内予選 | Kudo Norio | Cho Chikun | Win | W+4.5 | 6.5 | 3308 | 137 | 
-| 2005-11-10 | 第31期碁聖戦本戦1回戦 | Cho Chikun | Kono Rin | Win | B+R | 6.5 | 3171 | 87 | 
-| 2005-10-20 | 第32期天元戦予選 | Oya Koichi | Cho Chikun | Win | W+R | 6.5 | 3084 | -75 | 
-| 2005-09-28 | 第10回三星火災杯世界オープン囲碁選手権1回戦 | Cho Chikun | Yoo Jaeho | Lose | W+1.5 | 6.5 | 3159 | 60 | 
-| 2005-09-08 | 第12期阿含・桐山杯全日本早碁オープン戦準決勝 | Cho Chikun | Iyama Yuta | Lose | W+R | 6.5 | 3099 | -1 | 
-| 2005-08-14 | 第2回中環杯世界囲碁選手権1回戦 | Cho Chikun | Choi Cheolhan | Lose | W+R | 6.5 | 3100 | -2 | 
-| 2005-08-11 | 第12期阿含・桐山杯全日本早碁オープン戦2回戦 | Cho Chikun | Kiyonari Tetsuya | Win | B+R | 6.5 | 3102 | 15 | 
-| 2005-07-21 | 第12期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Sonjin | Cho Chikun | Win | W+R | 6.5 | 3087 | 338 | 
-| 2005-06-17 | 第25期NECカップ囲碁トーナメント戦1回戦 | Yamada Kimio | Cho Chikun | Lose | B+18.5 | 6.5 | 2749 | -60 | 
-| 2005-05-19 | 第53期王座戦1回戦 | Cho Chikun | Kataoka Satoshi | Lose | W+4.5 | 6.5 | 2809 | -28 | 
-| 2005-05-12 | 第30期碁聖戦本戦準決勝 | Cho Chikun | Yuki Satoshi | Lose | W+R | 6.5 | 2837 | 46 | 
-| 2005-04-27 | 第43期十段戦挑戦手合五番勝負第5局 | Cho Chikun | O Rissei | Win | B+5.5 | 6.5 | 2791 | -8 | 
-| 2005-04-14 | 第43期十段戦挑戦手合五番勝負第4局 | O Rissei | Cho Chikun | Win | W+R | 6.5 | 2799 | -60 | 
-| 2005-04-07 | 第43期十段戦挑戦手合五番勝負第3局 | Cho Chikun | O Rissei | Lose | W+19.5 | 6.5 | 2859 | -4 | 
-| 2005-03-31 | 第31期天元戦本戦2回戦 | Cho Chikun | Yamashiro Hiroshi | Lose | W+R | 6.5 | 2863 | -19 | 
-| 2005-03-17 | 第43期十段戦挑戦手合五番勝負第2局 | O Rissei | Cho Chikun | Lose | B+5.5 | 6.5 | 2882 | 10 | 
-| 2005-03-03 | 第43期十段戦挑戦手合五番勝負第1局 | Cho Chikun | O Rissei | Win | B+0.5 | 6.5 | 2872 | -283 | 
-| 2005-02-24 | 第30期碁聖戦本戦3回戦 | Yamada Kimio | Cho Chikun | Win | W+R | 6.5 | 3155 | -95 | 
-| 2005-02-17 | 第53期王座戦予選 | Ogaki Yusaku | Cho Chikun | Win | W+R | 6.5 | 3250 | -17 | 
-| 2005-02-10 | 第30期棋聖戦予選 | Cho Chikun | Hane Yasumasa | Win | B+R | 6.5 | 3267 | 34 | 
-| 2005-02-03 | 第43期十段戦挑戦者決定戦 | Takao Shinji | Cho Chikun | Win | W+1.5 | 6.5 | 3233 | 29 | 
-| 2005-01-27 | 第30期碁聖戦本戦2回戦 | Cho Chikun | Yamashita Keigo | Win | B+R | 6.5 | 3204 | 132 | 
-| 2004-12-09 | 第31期天元戦本戦1回戦 | Cho Chikun | Yukawa Mitsuhisa | Win | B+R | 6.5 | 3072 | 98 | 
-| 2004-11-28 | 第6回農心辛ラーメン杯世界囲碁最強戦第9戦 | Cho Chikun | Luo Xihe | Lose | W+R | 6.5 | 2974 | -3 | 
-| 2004-11-27 | 第6回農心辛ラーメン杯世界囲碁最強戦第8戦 | Choi Cheolhan | Cho Chikun | Win | W+R | 6.5 | 2977 | 61 | 
-| 2004-11-18 | 第43期十段戦本戦勝者組決勝 | Mimura Tomoyasu | Cho Chikun | Win | W+R | 6.5 | 2916 | -149 | 
-| 2004-10-14 | 第43期十段戦本戦3回戦 | Hikosaka Naoto | Cho Chikun | Win | W+2.5 | 6.5 | 3065 | -22 | 
-| 2004-10-07 | 第29期棋聖戦Bリーグ | Cho Chikun | Kobayashi Satoru | Win | B+R | 6.5 | 3087 | 61 | 
-| 2004-09-30 | 第30期碁聖戦予選 | Cho Chikun | Cho Sonjin | Win | B+0.5 | 6.5 | 3026 | -248 | 
-| 2004-09-16 | 第1回中環杯世界囲碁選手権1回戦 | O Rissei | Cho Chikun | Lose | B+1.5 | 6.5 | 3274 | 100 | 
-| 2004-09-09 | 第29期棋聖戦Bリーグ | Yuki Satoshi | Cho Chikun | Lose | B+R | 6.5 | 3174 | 170 | 
-| 2004-09-03 | 第9回三星火災杯世界オープン囲碁選手権2回戦 | Wang Xi | Cho Chikun | Lose | B+R | 6.5 | 3004 | -6 | 
-| 2004-09-01 | 第9回三星火災杯世界オープン囲碁選手権1回戦 | Cho Chikun | Yoo Changhyuk | Win | B+1.5 | 6.5 | 3010 | -11 | 
-| 2004-08-26 | 第29期棋聖戦Bリーグ | O Rissei | Cho Chikun | Lose | B+R | 6.5 | 3021 | -28 | 
-| 2004-08-23 | 第43期十段戦本戦2回戦 | Yamada Kimio | Cho Chikun | Win | W+0.5 | 6.5 | 3049 | 23 | 
-| 2004-08-19 | 第30期天元戦本戦準決勝 | Cho Chikun | Kim Sujun | Lose | W+R | 6.5 | 3026 | -6 | 
-| 2004-08-14 | 第2期JALスーパー早碁決勝 | Mimura Tomoyasu | Cho Chikun | Win | W+R | 6.5 | 3032 | 16 | 
-| 2004-08-07 | 第2期JALスーパー早碁準決勝 | Cho Chikun | Kato Masao | Win | B+2.5 | 6.5 | 3016 | -24 | 
-| 2004-08-05 | 第29期名人戦リーグ | Cho U | Cho Chikun | Lose | B+R | 6.5 | 3040 | -7 | 
-| 2004-07-08 | 第29期名人戦リーグ | Cho Chikun | O Rissei | Win | B+R | 6.5 | 3047 | -30 | 
-| 2004-07-01 | 第29期棋聖戦Bリーグ | Cho Chikun | Cho U | Lose | W+R | 6.5 | 3077 | 10 | 
-| 2004-06-24 | 第30期天元戦本戦3回戦 | Cho Chikun | So Yokoku | Win | B+7.5 | 6.5 | 3067 | 7 | 
-| 2004-06-21 | 第24期NECカップ囲碁トーナメント戦1回戦 | Mimura Tomoyasu | Cho Chikun | Lose | B+1.5 | 6.5 | 3060 | 6 | 
-| 2004-06-17 | 第29期棋聖戦Bリーグ | Imamura Yoshiaki | Cho Chikun | Win | W+R | 6.5 | 3054 | -29 | 
-| 2004-06-12 | 第2期JALスーパー早碁2回戦 | Cho Chikun | Yuki Satoshi | Win | B+R | 6.5 | 3083 | 28 | 
-| 2004-06-03 | 第29期名人戦リーグ | Cho Chikun | Kobayashi Satoru | Lose | W+R | 6.5 | 3055 | -27 | 
-| 2004-05-20 | 第43期十段戦本戦1回戦 | Cho Chikun | Hashimoto Yujiro | Win | B+R | 6.5 | 3082 | 6 | 
-| 2004-05-13 | 第16回テレビアジア選手権 | Cho Chikun | Yu Bin | Lose | W+R | 6.5 | 3076 | 12 | 
-| 2004-05-11 | 第16回テレビアジア選手権 | Gu Li | Cho Chikun | Win | W+2.5 | 6.5 | 3064 | 35 | 
-| 2004-05-06 | 第29期名人戦リーグ | O Meien | Cho Chikun | Lose | B+R | 6.5 | 3029 | -91 | 
-| 2004-04-08 | 第29期名人戦リーグ | Cho Chikun | Rin Kaiho | Lose | W+R | 6.5 | 3120 | -18 | 
-| 2004-04-03 | 第2期JALスーパー早碁1回戦 | Yokota Shigeaki | Cho Chikun | Win | W+R | 6.5 | 3138 | 5 | 
-| 2004-03-04 | 第30期天元戦本戦2回戦 | Cho Chikun | Cho Sonjin | Win | B+3.5 | 6.5 | 3133 | 156 | 
-| 2004-02-05 | 第29期名人戦リーグ | Cho Chikun | Yamada Kimio | Lose | W+0.5 | 6.5 | 2977 | -7 | 
-| 2004-01-31 | 第23期NECカップ囲碁トーナメント戦準決勝 | Mimura Tomoyasu | Cho Chikun | Lose | B+R | 6.5 | 2984 | -10 | 
-| 2004-01-22 | 第30期天元戦本戦1回戦 | Yukawa Mitsuhisa | Cho Chikun | Win | W+0.5 | 6.5 | 2994 | -41 | 
-| 2003-12-31 | 第5回春蘭杯世界囲碁選手権2回戦 | Cho Chikun | Hu Yaoyu | Lose | W+R | 7.5 | 3035 | -5 | 
-| 2003-12-29 | 第5回春蘭杯世界囲碁選手権1回戦 | Kong Jie | Cho Chikun | Win | W+R | 7.5 | 3040 | 43 | 
-| 2003-12-11 | 第8期三星杯決勝三番勝負第3局 | Park Yeonghun | Cho Chikun | Win | W+R | 6.5 | 2997 | 9 | 
-| 2003-12-09 | 第8期三星杯決勝三番勝負第2局 | Park Yeonghun | Cho Chikun | Win | W+R | 6.5 | 2988 | 21 | 
-| 2003-12-08 | 第8期三星杯決勝三番勝負第1局 | Cho Chikun | Park Yeonghun | Lose | W+4.5 | 6.5 | 2967 | -4 | 
-| 2003-12-04 | 第29期名人戦リーグ | Imamura Toshiya | Cho Chikun | Lose | B+R | 6.5 | 2971 | 7 | 
-| 2003-11-22 | 第23期NECカップ囲碁トーナメント戦2回戦 | O Meien | Cho Chikun | Win | W+1.5 | 6.5 | 2964 | -22 | 
-| 2003-11-13 | 第28期棋聖戦挑戦者決定戦 | Hane Naoki | Cho Chikun | Lose | B+2.5 | 6.5 | 2986 | -55 | 
-| 2003-11-05 | 第8期三星杯準決勝三番勝負第2局 | Cho Chikun | Hu Yaoyu | Win | B+0.5 | 6.5 | 3041 | 20 | 
-| 2003-11-04 | 第8期三星杯準決勝三番勝負第1局 | Hu Yaoyu | Cho Chikun | Win | W+R | 6.5 | 3021 | 13 | 
-| 2003-10-23 | 第42期十段戦敗者復活戦3回戦 | Cho Chikun | Hashimoto Yujiro | Lose | W+R | 6.5 | 3008 | -2754 | 
-| 2003-10-15 | 第8期三星杯3回戦 | Cho Chikun | Cho Hunhyun | Win | B+R | 6.5 | 5762 | -78 | 
-| 2003-10-09 | 第28期棋聖戦Bリーグ | Cho Chikun | Ryu Shikun | Win | B+3.5 | 6.5 | 5840 | 171 | 
-| 2003-10-02 | 第29期碁聖戦予選 | Cho U | Cho Chikun | Lose | B+R | 6.5 | 5669 | 2873 | 
-| 2003-09-25 | 第42期十段戦本戦3回戦 | Cho U | Cho Chikun | Lose | B+0.5 | 6.5 | 2796 | 9 | 
-| 2003-09-08 | 第10期阿含・桐山杯全日本早碁オープン戦準決勝 | Cho Chikun | Kato Masao | Lose | W+1.5 | 6.5 | 2787 | -6 | 
-| 2003-09-04 | 第28期棋聖戦Bリーグ | Cho U | Cho Chikun | Lose | B+R | 6.5 | 2793 | 10 | 
-| 2003-08-29 | 第8期三星杯2回戦 | Weon Seongjin | Cho Chikun | Win | W+R | 6.5 | 2783 | 40 | 
-| 2003-08-27 | 第8期三星杯1回戦 | Cho Chikun | Kim Juho | Win | B+R | 6.5 | 2743 | 50 | 
-| 2003-08-21 | 第28期棋聖戦Bリーグ | Cho Chikun | Awaji Shuzo | Win | B+R | 6.5 | 2693 | -13 | 
-| 2003-08-14 | 第42期十段戦本戦2回戦 | Cho Chikun | O Meien | Win | B+3.5 | 6.5 | 2706 | 56 | 
-| 2003-08-07 | 第28期名人戦リーグ | Mizokami Tomochika | Cho Chikun | Win | W+6.5 | 6.5 | 2650 | 31 | 
-| 2003-07-27 | 第1期JALスーパー早碁2回戦 | Hane Naoki | Cho Chikun | Lose | B+R | 6.5 | 2619 | -21 | 
-| 2003-07-24 | 第10期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho Chikun | Kobayashi Koichi | Win | B+5.5 | 6.5 | 2640 | 67 | 
-| 2003-07-17 | 第59期本因坊戦予選 | Nakaonoda Tomomi | Cho Chikun | Win | W+5.5 | 6.5 | 2573 | 3 | 
-| 2003-07-10 | 第28期棋聖戦Bリーグ | Cho Chikun | Yoda Norimoto | Win | B+6.5 | 6.5 | 2570 | 55 | 
-| 2003-07-03 | 第28期名人戦リーグ | Cho Chikun | Rin Kaiho | Lose | W+R | 6.5 | 2515 | -52 | 
-| 2003-06-26 | 第51期王座戦2回戦 | Yamashiro Hiroshi | Cho Chikun | Lose | B+2.5 | 6.5 | 2567 | -4 | 
-| 2003-06-23 | 第23期NECカップ囲碁トーナメント戦1回戦 | Rin Kaiho | Cho Chikun | Win | W+1.5 | 6.5 | 2571 | 19 | 
-| 2003-06-19 | 第8回LG杯世界棋王戦2回戦 | Cho Chikun | Lee Changho | Lose | W+R | 6.5 | 2552 | -48 | 
-| 2003-06-17 | 第8回LG杯世界棋王戦1回戦 | An Joyeong | Cho Chikun | Win | W+R | 6.5 | 2600 | 31 | 
-| 2003-06-12 | 第28期名人戦リーグ | O Rissei | Cho Chikun | Lose | B+6.5 | 6.5 | 2569 | -68 | 
-| 2003-06-05 | 第28期棋聖戦Bリーグ | O Meien | Cho Chikun | Win | W+R | 6.5 | 2637 | 19 | 
-| 2003-05-29 | 第42期十段戦1回戦 | Yamada Kimio | Cho Chikun | Win | W+R | 6.5 | 2618 | 34 | 
-| 2003-05-22 | 第29期天元戦本戦3回戦 | Cho Chikun | Kobayashi Satoru | Lose | W+8.5 | 6.5 | 2584 | 28 | 
-| 2003-05-01 | 第28期名人戦リーグ | Ryu Shikun | Cho Chikun | Win | W+7.5 | 6.5 | 2556 | 13 | 
-| 2003-04-24 | 第51期王座戦1回戦 | Cho Chikun | Kudo Norio | Win | B+3.5 | 6.5 | 2543 | 6 | 
-| 2003-04-17 | 第28期名人戦リーグ | Cho Chikun | Yamashita Keigo | Lose | W+R | 6.5 | 2537 | 6 | 
-| 2003-04-12 | 第16回世界囲碁選手権富士通杯1回戦 | Gu Li | Cho Chikun | Lose | B+R | 6.5 | 2531 | 0 | 
-| 2003-04-10 | 第28期碁聖戦本戦3回戦 | Michael Redmond | Cho Chikun | Lose | B+3.5 | 6.5 | 2531 | -90 | 
-| 2003-03-27 | 第29期天元戦本戦2回戦 | Imamura Toshiya | Cho Chikun | Win | W+6.5 | 6.5 | 2621 | 63 | 
-| 2003-03-20 | 第28期名人戦リーグ | Cho Chikun | Cho U | Lose | W+R | 6.5 | 2558 | -154 | 
-| 2003-03-13 | 第28期碁聖戦本戦2回戦 | Otake Hideo | Cho Chikun | Win | W+1.5 | 6.5 | 2712 | 84 | 
-| 2003-02-27 | 第29期天元戦本戦1回戦 | Hashimoto Shoji | Cho Chikun | Win | W+6.5 | 6.5 | 2628 | 0 | 
-| 2003-02-20 | 第28期碁聖戦本戦1回戦 | Rin Kaiho | Cho Chikun | Win | W+10.5 | 6.5 | 2628 | 415 | 
-| 2002-05-20 | 第4回春蘭杯世界囲碁選手権2回戦 | Cho Chikun | Zhou Heyang | Lose | W+R | 7.5 | 2213 | -72 | 
-| 2002-05-18 | 第4回春蘭杯世界囲碁選手権1回戦 | Park Yeonghun | Cho Chikun | Win | W+2.5 | 7.5 | 2285 | 316 | 
-| 2002-05-02 | 第7回LG杯世界棋王戦2回戦 | Cho Chikun | Cho Hunhyun | Lose | W+R | 6.5 | 1969 | -34 | 
-| 2002-04-30 | 第7回LG杯世界棋王戦1回戦 |  | Cho Chikun | Win | W+5.5 | 6.5 | 2003 | -6423 | 
-| 2001-08-29 | 第6期三星杯1回戦 | Cho Chikun | Rui Naiwei | Lose | W+R | 6.5 | 8426 | 5936 | 
-| 2001-06-14 | 第6回LG杯世界棋王戦2回戦 | Cho Hunhyun | Cho Chikun | Lose | B+R | 6.5 | 2490 | 107 | 
-| 2001-06-12 | 第6回LG杯世界棋王戦1回戦 | Cho Chikun | Chang Hao | Win | B+R | 6.5 | 2383 | 2383 | 
-| 2000-08-30 | 第5期三星杯1回戦 | Choi Myeonghun | Cho Chikun | Lose | B+1.5 | 6.5 | missing | 0 | 
-| 2000-06-15 | 第5回LG杯世界棋王戦2回戦 | Cho Hunhyun | Cho Chikun | Lose | B+R | 6.5 | missing | 0 | 
-| 2000-06-13 | 第5回LG杯世界棋王戦1回戦 | Cho Chikun | Kim Seonryong | Win | B+8.5 | 6.5 | missing | 0 | 
-| 2000-05-02 | 第4回応氏杯世界選手権2回戦 | Yu Bin | Cho Chikun | Lose | B+R | 7.5 | missing | 0 | 
-| 1999-09-07 | 第4期三星杯1回戦 | Cho Chikun | Liu Xiaoguang | Lose | W+R | 6.5 | missing | 0 | 
-| 1999-06-17 | 第4回LG杯世界棋王戦2回戦 | Cho Chikun | Chang Hao | Lose | W+1.5 | 6.5 | missing | 0 | 
-| 1998-10-26 | 第3回LG杯世界棋王戦3回戦 | Cho Chikun | Ma Xiaochun | Lose | W+5.5 | 6.5 | missing | 0 | 
-| 1998-06-18 | 第3回LG杯世界棋王戦2回戦 | Rui Naiwei | Cho Chikun | Win | W+R | 6.5 | missing | 0 | 
-| 1996-08-14 | 第3回応氏杯世界選手権準決勝三番勝負第3局 | Yoda Norimoto | Cho Chikun | Lose | B+R | 7.5 | missing | 0 | 
-| 1996-08-12 | 第3回応氏杯世界選手権準決勝三番勝負第2局 | Cho Chikun | Yoda Norimoto | Lose | W+R | 7.5 | missing | 0 | 
-| 1996-08-10 | 第3回応氏杯世界選手権準決勝三番勝負第1局 | Yoda Norimoto | Cho Chikun | Win | W+3 | 7.5 | missing | 0 | 
-| 1996-04-28 | 第3回応氏杯世界選手権3回戦 | Ma Xiaochun | Cho Chikun | Win | W+R | 7.5 | missing | 0 | 
-| 1996-04-26 | 第3回応氏杯世界選手権2回戦 | Cho Chikun | Jiang Zhujiu | Win | B+R | 7.5 | missing | 0 | 
-| 1992-11-27 | 第2回応氏杯世界選手権準決勝三番勝負第3局 | Cho Chikun | Seo Bongsoo | Lose | W+5 | 7.5 | missing | 0 | 
-| 1992-11-25 | 第2回応氏杯世界選手権準決勝三番勝負第2局 | Seo Bongsoo | Cho Chikun | Lose | B+1 | 7.5 | missing | 0 | 
-| 1992-11-23 | 第2回応氏杯世界選手権準決勝三番勝負第1局 | Cho Chikun | Seo Bongsoo | Win | B+1 | 7.5 | missing | 0 | 
-| 1992-07-17 | 第2回応氏杯世界選手権3回戦 | Cho Chikun | Awaji Shuzo | Win | B+5 | 7.5 | missing | 0 | 
-| 1992-07-15 | 第2回応氏杯世界選手権2回戦 | Yoo Changhyuk | Cho Chikun | Win | W+7 | 7.5 | missing | 0 | 
-| 1988-08-23 | 第1回応氏杯世界選手権2回戦 | Nie Weiping | Cho Chikun | Lose | B+R | 7.5 | missing | 0 | 
-| 1988-08-21 | 第1回応氏杯世界選手権1回戦 | Wu Songsheng | Cho Chikun | Win | W+1 | 7.5 | missing | missing |
+| 2022-01-20 | 第1回テイケイ杯レジェンド戦1回戦 | Takemiya Masaki | Cho Chikun | Win | W+1
+3.5 | 6.5 | 2944.0 | 153.0 | 
+| 2022-01-13 | 第70期王座戦予選 | Cho Chikun | Tsuneishi Takashi | Win | B+R | 6.5
+ | 2791.0 | -79.0 | 
+| 2021-12-16 | 第48期天元戦予選 | Cho Chikun | Mimura Tomoyasu | Win | B+R | 6.5 |
+ 2870.0 | 9.0 | 
+| 2021-11-29 | 第48期天元戦予選 | Oya Koichi | Cho Chikun | Win | W+R | 6.5 | 2861
+.0 | -24.0 | 
+| 2021-11-01 | 第61期十段戦予選 | Koyama Kuya | Cho Chikun | Lose | B+R | 6.5 | 28
+85.0 | 9.0 | 
+| 2021-10-25 | 第78期本因坊予選 | Cho Chikun |  | Lose | W+0.5 | 6.5 | 2876.0 | -1
+19.0 | 
+| 2021-10-07 | 第47期名人戦予選  | Xie Yimin | Cho Chikun | Lose | B+R | 6.5 | 299
+5.0 | -130.0 | 
+| 2021-09-23 | 第47期碁聖戦予選 | Terayama Rei | Cho Chikun | Lose | B+3.5 | 6.5 |
+ 3125.0 | 68.0 | 
+| 2021-09-09 | 第61期十段戦予選 |  | Cho Chikun | Win | W+1.5 | 6.5 | 3057.0 | -25
+.0 | 
+| 2021-09-02 | 第47期名人戦予選  | Cho Chikun | Fukuoka Kotaro | Win | B+1.5 | 6.5
+ | 3082.0 | 64.0 | 
+| 2021-08-05 | 第47期名人戦予選  | Cho Chikun | Takanashi Seiken | Win | B+R | 6.5
+ | 3018.0 | 84.0 | 
+| 2021-03-29 | 第60期十段戦予選 | Hashimoto Yujiro | Cho Chikun | Lose | B+R | 6.5
+ | 2934.0 | 4.0 | 
+| 2021-02-25 | 第46期棋聖戦予選 | Hirata Tomoya | Cho Chikun | Lose | B+R | 6.5 | 
+2930.0 | -13.0 | 
+| 2021-02-01 | 第69期王座戦予選 | Mochizuki Kenichi | Cho Chikun | Lose | B+R | 6.
+5 | 2943.0 | 11.0 | 
+| 2021-01-25 | 第46期棋聖戦予選 | Cho Chikun |  | Win | B+R | 6.5 | 2932.0 | -36.0
+ | 
+| 2021-01-07 | 第69期王座戦予選 | Seki Kotaro | Cho Chikun | Win | W+3.5 | 6.5 | 2
+968.0 | 62.0 | 
+| 2020-12-03 | 第47期天元戦予選 | Cho Chikun | Kataoka Satoshi | Win | B+R | 6.5 |
+ 2906.0 | -52.0 | 
+| 2020-11-12 | 第47期天元戦予選 | Sun Zhe | Cho Chikun | Win | W+R | 6.5 | 2958.0 
+| 1.0 | 
+| 2020-11-05 | 第46期碁聖戦予選 | Cho Chikun | Yoda Norimoto | Lose | W+R | 6.5 | 
+2957.0 | 25.0 | 
+| 2020-10-19 | 第46期碁聖戦予選 | Anzai Nobuaki | Cho Chikun | Win | W+R | 6.5 | 2
+932.0 | 20.0 | 
+| 2020-09-17 | 第45期棋聖戦Cリーグ | Cho Riyu | Cho Chikun | Lose | B+R | 6.5 | 291
+2.0 | 36.0 | 
+| 2020-09-03 | 第47期天元戦予選 |  | Cho Chikun | Win | W+R | 6.5 | 2876.0 | 6.0 |
+ 
+| 2020-08-20 | 第45期棋聖戦Cリーグ | Cho Chikun | O Meien | Lose | W+R | 6.5 | 2870
+.0 | 15.0 | 
+| 2020-08-06 | 第45期棋聖戦Cリーグ | Cho Chikun | Hong Seokui | Lose | W+R | 6.5 | 
+2855.0 | -62.0 | 
+| 2020-07-23 | 第46期名人戦予選 | Mimura Tomoyasu | Cho Chikun | Lose | B+2.5 | 6.
+5 | 2917.0 | -33.0 | 
+| 2020-07-09 | 第45期棋聖戦Cリーグ | Goto Shungo | Cho Chikun | Win | W+R | 6.5 | 2
+950.0 | -29.0 | 
+| 2020-07-02 | 第46期名人戦予選 | Cho Chikun | Han Zenki | Win | B+5.5 | 6.5 | 297
+9.0 | 18.0 | 
+| 2020-04-02 | 第46期名人戦予選 | O Rissei | Cho Chikun | Win | W+2.5 | 6.5 | 2961
+.0 | 47.0 | 
+| 2020-03-26 | 第45期棋聖戦Cリーグ | Kiyonari Tetsuya | Cho Chikun | Win | W+R | 6.
+5 | 2914.0 | -29.0 | 
+| 2020-03-12 | 第46期碁聖戦予選 | Cho Chikun | Kamimura Haruo | Win | B+R | 6.5 | 
+2943.0 | 16.0 | 
+| 2020-03-05 | 第76期本因坊戦予選 | Cho Chikun | O Meien | Lose | W+R | 6.5 | 2927.
+0 | -8.0 | 
+| 2020-02-23 | 2020シニアvs女子囲碁リーグチャンピオンズカップ第2戦第1局 | Oh Yujin | Cho Chikun | W
+in | W+R | 6.5 | 2935.0 | 33.0 | 
+| 2020-02-22 | 2020シニアvs女子囲碁リーグチャンピオンズカップ第1戦第1局 | Cho Chikun | Oh Yujin | L
+ose | W+R | 6.5 | 2902.0 | -20.0 | 
+| 2020-01-09 | 第68期王座戦予選 | Cho Chikun | Hirata Tomoya | Lose | W+R | 6.5 | 
+2922.0 | -16.0 | 
+| 2019-12-27 | 2019NHシニア囲碁リーグチャンピオン決定戦第2戦第1局 | Kim JongJoon | Cho Chikun | 
+Win | W+R | 6.5 | 2938.0 | 1.0 | 
+| 2019-12-26 | 2019NHシニア囲碁リーグチャンピオン決定戦第1戦第1局 | Cho Chikun | Seo Bongsoo | W
+in | B+R | 6.5 | 2937.0 | 35.0 | 
+| 2019-12-18 | 2019NHシニア囲碁リーグ第14節第4試合第3局 | Cho Chikun | Cho Daehyeon | Win 
+| B+T | 6.5 | 2902.0 | 18.0 | 
+| 2019-12-12 | 2019NHシニア囲碁リーグ第13節第4試合第2局 | Cho Chikun | Park Yeongchan | Wi
+n | B+R | 6.5 | 2884.0 | -42.0 | 
+| 2019-12-04 | 2019NHシニア囲碁リーグ第12節第3試合第2局 | Cho Chikun | Jeong Daesang | Win
+ | B+R | 6.5 | 2926.0 | 3.0 | 
+| 2019-11-29 | 2019NHシニア囲碁リーグ第11節第2試合第3局 | Cho Chikun | Kim Dongyeop | Win 
+| B+6.5 | 6.5 | 2923.0 | -6.0 | 
+| 2019-11-26 | 2019NHシニア囲碁リーグ第10節第2試合第1局 | Cho Chikun | Park Seungmun | Win
+ | B+12.5 | 6.5 | 2929.0 | 48.0 | 
+| 2019-11-21 | 第59期十段戦予選 | Han Zenki | Cho Chikun | Lose | B+R | 6.5 | 2881
+.0 | -11.0 | 
+| 2019-11-18 | 2019NHシニア囲碁リーグ第9節第1試合第2局 | Cho Chikun | Moon Myunggun | Win 
+| B+R | 6.5 | 2892.0 | 7.0 | 
+| 2019-11-13 | 2019NHシニア囲碁リーグ第8節第3試合第2局 | Kim Dongmyeon | Cho Chikun | Win 
+| W+R | 6.5 | 2885.0 | 17.0 | 
+| 2019-11-08 | 2019NHシニア囲碁リーグ第7節第1試合第1局 | Seo Bongsoo | Cho Chikun | Win | 
+W+R | 6.5 | 2868.0 | 61.0 | 
+| 2019-10-31 | 2019NHシニア囲碁リーグ第5節第2試合第1局 | Cho Chikun | Jeong Daesang | Win 
+| B+R | 6.5 | 2807.0 | -20.0 | 
+| 2019-10-23 | 2019NHシニア囲碁リーグ第4節第3試合第3局 | Cho Chikun | Kim Dongyeop | Win |
+ B+4.5 | 6.5 | 2827.0 | 22.0 | 
+| 2019-10-17 | 第68期王座戦予選 | Yo Kaei | Cho Chikun | Win | W+8.5 | 6.5 | 2805.
+0 | 34.0 | 
+| 2019-10-10 | 第59期十段戦予選 | Mitsunaga Junzo | Cho Chikun | Win | W+0.5 | 6.5
+ | 2771.0 | 48.0 | 
+| 2019-10-08 | 2019NHシニア囲碁リーグ第1節第2試合第3局 | Cho Chikun | Kim Dongmyeon | Win 
+| B+R | 6.5 | 2723.0 | -3.0 | 
+| 2019-09-26 | 第59期十段戦予選 | Takekiyo Isamu | Cho Chikun | Win | W+7.5 | 6.5 
+| 2726.0 | -60.0 | 
+| 2019-09-12 | 第46期天元戦予選 | Cho Chikun | Ueno Asami | Lose | W+R | 6.5 | 278
+6.0 | -15.0 | 
+| 2019-09-05 | 第59期十段戦予選 | Cho Chikun | Chinen Kaori | Win | B+R | 6.5 | 28
+01.0 | 4.0 | 
+| 2019-08-22 | 第45期碁聖戦予選 | Koike Yoshihiro | Cho Chikun | Lose | B+R | 6.5 
+| 2797.0 | -61.0 | 
+| 2019-08-08 | 第44期棋聖戦Bリーグ | Motoki Katsuya | Cho Chikun | Lose | B+R | 6.5
+ | 2858.0 | -13.0 | 
+| 2019-07-25 | 第44期棋聖戦Bリーグ | Cho Chikun | Adachi Toshimasa | Lose | W+R | 6
+.5 | 2871.0 | 2.0 | 
+| 2019-07-20 | 第9回フマキラー囲碁マスターズカップ決勝  | Cho Chikun | Komatsu Hideki | Win | 
+B+R | 6.5 | 2869.0 | -44.0 | 
+| 2019-07-11 | 第45期名人戦予選 | Cho Chikun | Hirata Tomoya | Lose | W+0.5 | 6.5 
+| 2913.0 | 43.0 | 
+| 2019-06-29 | 第9回フマキラー囲碁マスターズカップ準決勝  | Kobayashi Koichi | Cho Chikun | Win
+ | W+R | 6.5 | 2870.0 | 28.0 | 
+| 2019-06-27 | 第44期棋聖戦Bリーグ | Han Zenki | Cho Chikun | Lose | B+1.5 | 6.5 | 
+2842.0 | -77.0 | 
+| 2019-06-08 | 2019年1004島新安国際シニア囲碁大会個人戦16強戦 | Takemiya Masaki | Cho Chikun 
+| Lose | B+R | 6.5 | 2919.0 | -48.0 | 
+| 2019-06-06 | 第9回フマキラー囲碁マスターズカップ2回戦 | Yamashiro Hiroshi | Cho Chikun | Win
+ | W+R | 6.5 | 2967.0 | -54.0 | 
+| 2019-05-16 | 第75期本因坊戦予選 | Cho Chikun | Shuto Shun | Lose | W+R | 6.5 | 30
+21.0 | -23.0 | 
+| 2019-05-09 | 第44期棋聖戦Bリーグ | Cho Chikun | Ko Iso | Win | B+R | 6.5 | 3044.0
+ | 20.0 | 
+| 2019-05-02 | 第9回フマキラー囲碁マスターズカップ1回戦 | Cho Chikun | Kudo Norio | Win | B+R 
+| 6.5 | 3024.0 | 17.0 | 
+| 2019-04-18 | 第44期棋聖戦Bリーグ | Cho Chikun | O Meien | Lose | W+R | 6.5 | 3007
+.0 | -57.0 | 
+| 2019-03-28 | 第44期棋聖戦Bリーグ | Yamada Kimio | Cho Chikun | Lose | B+R | 6.5 |
+ 3064.0 | -42.0 | 
+| 2019-03-07 | 第75期本因坊戦予選 | Kurotaki Masaki | Cho Chikun | Win | W+R | 6.5 
+| 3106.0 | 8.0 | 
+| 2019-02-28 | 第44期棋聖戦Bリーグ | Cho Chikun | Terayama Rei | Win | B+3.5 | 6.5 
+| 3098.0 | -15.0 | 
+| 2019-02-13 | 2018年シニアvs女子囲碁リーグチャンピオンズカップ第2戦 | Choi Jeong | Cho Chikun | L
+ose | B+1.5 | 6.5 | 3113.0 | -12.0 | 
+| 2019-02-12 | 2018年シニアvs女子囲碁リーグチャンピオンズカップ第1戦 | Choi Jeong | Cho Chikun | L
+ose | B+13.5 | 6.5 | 3125.0 | -19.0 | 
+| 2019-01-21 | 第20回マキシムコーヒー杯入神最強戦1回戦 | Cho Chikun | Lee Yeongkyu | Lose | W
++2.5 | 6.5 | 3144.0 | 103.0 | 
+| 2018-12-06 | 第75期本因坊戦予選 | Kanda Ei | Cho Chikun | Win | W+R | 6.5 | 3041.
+0 | -22.0 | 
+| 2018-11-08 | 第67期王座戦予選 | Cho Chikun | Akiyama Jiro | Lose | W+R | 6.5 | 3
+063.0 | 0.0 | 
+| 2018-11-01 | 第44期碁聖戦本戦1回戦 | Cho Chikun | Ko Iso | Lose | W+11.5 | 6.5 | 3
+063.0 | 54.0 | 
+| 2018-10-23 | 第3回韓国シニア囲碁リーグ決勝第2戦釜山-尚州 | Paek Seongho | Cho Chikun | Win | 
+W+5.5 | 6.5 | 3009.0 | 0.0 | 
+| 2018-10-22 | 第3回韓国シニア囲碁リーグ決勝第1戦釜山-尚州 | Cho Chikun | Kim Kihun | Win | B+2
+.5 | 6.5 | 3009.0 | -10.0 | 
+| 2018-10-18 | 第58期十段戦予選 | Cho Chikun | Fujita Akihiko | Lose | W+0.5 | 6.5
+ | 3019.0 | -22.0 | 
+| 2018-10-04 | 第45期天元戦予選 | Cho Chikun | Nishimura Keiji | Win | B+R | 6.5 |
+ 3041.0 | 13.0 | 
+| 2018-09-27 | 第58期十段戦予選 | Cho Chikun | Seki Tatsuya | Win | B+R | 6.5 | 30
+28.0 | -25.0 | 
+| 2018-09-19 | 第3回韓国シニア囲碁リーグ第14節釜山-尚州 | Lee Kisup | Cho Chikun | Win | W+R 
+| 6.5 | 3053.0 | 9.0 | 
+| 2018-09-13 | 第44期碁聖戦予選 | Kazama Jun | Cho Chikun | Win | W+R | 6.5 | 3044
+.0 | -1.0 | 
+| 2018-09-11 | 第3回韓国シニア囲碁リーグ第13節烏鹭-釜山 | Jeong Daesang | Cho Chikun | Win | 
+W+R | 6.5 | 3045.0 | 8.0 | 
+| 2018-09-06 | 第43期棋聖戦Aリーグ | Murakawa Daisuke | Cho Chikun | Lose | B+R | 6
+.5 | 3037.0 | -2.0 | 
+| 2018-08-30 | 第58期十段戦予選 | Cho Chikun | Hagiya Kazuhiro | Win | B+R | 6.5 |
+ 3039.0 | -9.0 | 
+| 2018-08-28 | 第3回韓国シニア囲碁リーグ第12節陰城-釜山 | Jimmy Cha | Cho Chikun | Win | W+R 
+| 6.5 | 3048.0 | -21.0 | 
+| 2018-08-23 | 第43期棋聖戦Aリーグ | Cho Chikun | Kobayashi Satoru | Win | B+R | 7.
+5 | 3069.0 | 7.0 | 
+| 2018-08-14 | 第3回韓国シニア囲碁リーグ第10節霊岩-釜山 | Oh Kyuchul | Cho Chikun | Win | W+R
+ | 6.5 | 3062.0 | -10.0 | 
+| 2018-08-02 | 第44期名人戦予選 | Kanazawa Hideo | Cho Chikun | Lose | B+R | 7.5 |
+ 3072.0 | -5.0 | 
+| 2018-07-30 | 第3回韓国シニア囲碁リーグ第8節三陟-釜山 | Cho Chikun | Park Seungmun | Win | B
++6.5 | 6.5 | 3077.0 | 22.0 | 
+| 2018-07-26 | 第43期棋聖戦Aリーグ | Ko Iso | Cho Chikun | Win | W+R | 6.5 | 3055.0
+ | 35.0 | 
+| 2018-07-23 | 第3回韓国シニア囲碁リーグ第7節釜山-尚州 | Paek Seongho | Cho Chikun | Lose | B
++2.5 | 6.5 | 3020.0 | 7.0 | 
+| 2018-07-17 | 第3回韓国シニア囲碁リーグ第6節烏鹭-釜山 | Seo Nungwuk | Cho Chikun | Win | W+R
+ | 6.5 | 3013.0 | 0.0 | 
+| 2018-07-12 | 第44期名人戦予選 | Mimura Tomoyasu | Cho Chikun | Win | W+R | 6.5 |
+ 3013.0 | 23.0 | 
+| 2018-07-07 | 第8回フマキラー囲碁マスターズカップ準決勝  | Cho Chikun | Kataoka Satoshi | Lose
+ | W+R | 6.5 | 2990.0 | -51.0 | 
+| 2018-06-27 | 第3回韓国シニア囲碁リーグ第4節富川-釜山 | Cho Chikun | An Kwanwuk | Win | B+4.
+5 | 6.5 | 3041.0 | 1.0 | 
+| 2018-06-19 | 第3回韓国シニア囲碁リーグ第3節霊岩-釜山 | Oh Kyuchul | Cho Chikun | Win | W+R 
+| 6.5 | 3040.0 | 3.0 | 
+| 2018-06-07 | 第8回フマキラー囲碁マスターズカップ2回戦  | Cho Chikun | O Meien | Win | B+2.5 
+| 6.5 | 3037.0 | 17.0 | 
+| 2018-06-06 | 第3回韓国シニア囲碁リーグ第1節三陟-釜山 | Cho Daehyeon | Cho Chikun | Win | W+
+R | 6.5 | 3020.0 | -6.0 | 
+| 2018-05-31 | 第43期棋聖戦Aリーグ | Cho Chikun | Shida Tatsuya | Win | B+R | 6.5 |
+ 3026.0 | 41.0 | 
+| 2018-05-10 | 第43期棋聖戦Aリーグ | Cho Chikun | So Yokoku | Lose | W+R | 6.5 | 29
+85.0 | -32.0 | 
+| 2018-05-03 | 第8回フマキラー囲碁マスターズカップ1回戦  | Kudo Norio | Cho Chikun | Win | W+R
+ | 6.5 | 3017.0 | -20.0 | 
+| 2018-04-26 | 第74期本因坊戦予選 | Sakai Takeshi | Cho Chikun | Lose | B+R | 6.5 |
+ 3037.0 | -2.0 | 
+| 2018-04-23 | 第5回大舟杯プロシニア最強者戦決勝 | Cho Hyeyeon | Cho Chikun | Win | W+R | 6
+.5 | 3039.0 | -4.0 | 
+| 2018-04-19 | 第43期棋聖戦Aリーグ | Cho Chikun | Yu Zhengqi | Lose | W+R | 6.5 | 3
+043.0 | 4.0 | 
+| 2018-04-09 | 第5回大舟杯プロシニア最強者戦準決勝 | Seo Nungwuk | Cho Chikun | Win | W+5.5 
+| 6.5 | 3039.0 | 0.0 | 
+| 2018-04-07 | 囲碁電王戦FINAL第3局 | DeepZenGo | Cho Chikun | Lose | B+R | 6.5 | 
+3039.0 | -21.0 | 
+| 2018-03-27 | 第5回大舟杯プロシニア最強者戦2回戦 | Lee Minjin | Cho Chikun | Win | W+15.5 
+| 6.5 | 3060.0 | -1.0 | 
+| 2018-02-19 | 第5回大舟杯プロシニア最強者戦1回戦 | Kim Hyeoimin | Cho Chikun | Win | W+R |
+ 6.5 | 3061.0 | 5.0 | 
+| 2018-01-18 | 第44期天元戦1回戦 | Cho Chikun | Sato Yuta | Lose | W+R | 6.5 | 305
+6.0 | -25.0 | 
+| 2018-01-12 | 2017年シニアvs女流チャンピオンズカップ第2戦 | Cho Hyeyeon | Cho Chikun | Lose 
+| B+0.5 | 6.5 | 3081.0 | -8.0 | 
+| 2018-01-11 | 2017年シニアvs女流チャンピオンズカップ第1戦 | Kim Cheayoung | Cho Chikun | Los
+e | B+3.5 | 6.5 | 3089.0 | -17.0 | 
+| 2017-12-21 | 第66期王座戦予選 | Cho Sonjin | Cho Chikun | Lose | B+R | 6.5 | 310
+6.0 | -20.0 | 
+| 2017-12-14 | 第57期十段戦予選 | Cho Chikun | Shiraishi Yuichi | Lose | W+R | 6.5
+ | 3126.0 | -66.0 | 
+| 2017-11-14 | 第2回韓国シニア囲碁リーグチャンピオンシップ釜山-尚州第2戦 | Paek Seongho | Cho Chikun |
+ Win | W+R | 6.5 | 3192.0 | 23.0 | 
+| 2017-11-02 | 第43期碁聖戦本戦1回戦 | Cho Chikun | Ryu Shikun | Lose | W+R | 6.5 | 
+3169.0 | -68.0 | 
+| 2017-10-25 | 第2回韓国元老連戦14回戦尚州-釜山 | Kim Kihun | Cho Chikun | Lose | B+T | 6
+.5 | 3237.0 | 11.0 | 
+| 2017-10-16 | 2回韓国元老連戦13回戦三陟-釜山 | Cho Chikun |  | Win | B+R | 6.5 | 3226.0
+ | 26.0 | 
+| 2017-10-12 | 第43期名人戦最終予選 | Cho Chikun | Shibano Toramaru | Lose | W+6.5 |
+ 6.5 | 3200.0 | 6.0 | 
+| 2017-09-28 | 2回韓国元老連戦11回戦霊岩-釜山 | Oh Kyuchul | Cho Chikun | Win | W+5.5 | 
+6.5 | 3194.0 | -5.0 | 
+| 2017-09-27 | 2回韓国元老連戦10回戦陰城-釜山 | Cho Chikun | Hwang Weonjun | Win | B+R |
+ 6.5 | 3199.0 | -33.0 | 
+| 2017-09-21 | 第43期名人戦　最終予選1回戦 | Yukawa Mitsuhisa | Cho Chikun | Win | W+R 
+| 6.5 | 3232.0 | 41.0 | 
+| 2017-08-31 | 第43期名人戦　予選A決勝 | Numadate Sakiya | Cho Chikun | Win | W+R | 6
+.5 | 3191.0 | -17.0 | 
+| 2017-08-24 | 第42期棋聖戦　Aリーグ7回戦 | Yamashiro Hiroshi | Cho Chikun | Win | W+R
+ | 6.5 | 3208.0 | 16.0 | 
+| 2017-08-21 | 2回韓国元老連戦5回戦烏鹭-浦項 | Jeong Daesang | Cho Chikun | Win | W+R | 
+6.5 | 3192.0 | -6.0 | 
+| 2017-08-17 | 第43期名人戦　予選A | Rin Shien | Cho Chikun | Win | W+R | 6.5 | 319
+8.0 | 33.0 | 
+| 2017-08-10 | 第66期王座戦　予選B決勝 | Sakai Maki | Cho Chikun | Win | W+3.5 | 6.5 
+| 3165.0 | -19.0 | 
+| 2017-08-07 | 2回韓国元老連戦3回戦陰城-釜山 | Cho Chikun | Kim Dongyeop | Win | B+4.5 |
+ 6.5 | 3184.0 | -30.0 | 
+| 2017-07-31 | 2回韓国元老連戦2回戦富川-釜山 | Cho Chikun | An Kwanwuk | Win | B+R | 6.5
+ | 3214.0 | 13.0 | 
+| 2017-07-27 | 第43期天元戦準決勝 | Ichiriki Ryo | Cho Chikun | Lose | B+R | 6.5 | 
+3201.0 | -2.0 | 
+| 2017-07-22 | 第7回フマキラー囲碁マスターズカップ　決勝 | Kobayashi Satoru | Cho Chikun | Lose
+ | B+0.5 | 6.5 | 3203.0 | -14.0 | 
+| 2017-07-13 | 第42期棋聖戦　Aリーグ6回戦 | Cho Chikun | Hsu Chiayuan | Lose | W+R | 6
+.5 | 3217.0 | -29.0 | 
+| 2017-07-06 | 第24期阿含・桐山杯　本戦1回戦 | Cho Chikun | Horimoto Mitsunari | Win | B
++R | 6.5 | 3246.0 | 16.0 | 
+| 2017-07-01 | 第7回フマキラー囲碁マスターズカップ　準決勝 | Cho Chikun | O Rissei | Win | B+R |
+ 6.5 | 3230.0 | 7.0 | 
+| 2017-06-22 | 第42期棋聖戦　Aリーグ5回戦 | Cho Chikun | Ryu Shikun | Win | B+R | 6.5 
+| 3223.0 | -17.0 | 
+| 2017-05-25 | 第42期棋聖戦　Aリーグ4回戦 | Cho Chikun | Yuki Satoshi | Win | B+R | 6.
+5 | 3240.0 | 20.0 | 
+| 2017-05-18 | 第43期天元戦　準々決勝第1局 | Cho Chikun | Takei Takashi | Win | B+R | 6
+.5 | 3220.0 | -8.0 | 
+| 2017-05-11 | 第42期棋聖戦　Aリーグ3回戦 | Takao Shinji | Cho Chikun | Lose | B+R | 6
+.5 | 3228.0 | 7.0 | 
+| 2017-05-04 | 第24期阿含・桐山杯　最終予選決勝 | Cho Chikun | Hoshino Masaki | Win | B+10
+.5 | 6.5 | 3221.0 | 12.0 | 
+| 2017-04-27 | 第7回囲碁マスターズカップ　本戦2回戦 | Kataoka Satoshi | Cho Chikun | Win | W
++R | 6.5 | 3209.0 | -30.0 | 
+| 2017-04-20 | 第42期棋聖戦　Aリーグ2回戦 | Hane Naoki | Cho Chikun | Win | W+R | 6.5 
+| 3239.0 | -4.0 | 
+| 2017-03-30 | 第73期本因坊戦　予選A決勝 | Cho Chikun | So Yokoku | Lose | W+R | 6.5 |
+ 3243.0 | 18.0 | 
+| 2017-03-16 | 第43期天元戦　本戦2回戦第3局 | Kim Sujun | Cho Chikun | Win | W+1.5 | 6.
+5 | 3225.0 | 46.0 | 
+| 2017-03-09 | 第7回マスターズカップ　本戦1回戦 | Hane Yasumasa | Cho Chikun | Win | W+R |
+ 6.5 | 3179.0 | -2.0 | 
+| 2017-03-02 | 第42期棋聖戦　Aリーグ1回戦 | Cho Chikun | Yoda Norimoto | Win | B+R | 6
+.5 | 3181.0 | -4.0 | 
+| 2017-02-23 | 第73期本因坊戦　予選A | Onishi Ryuhei | Cho Chikun | Win | W+R | 6.5 
+| 3185.0 | 37.0 | 
+| 2017-02-16 | 第4回グランドチャンピオン戦　2回戦 | Xie Yimin | Cho Chikun | Lose | B+R | 6
+.5 | 3148.0 | -25.0 | 
+| 2017-02-09 | 第43期天元戦　本戦1回戦第14局 | Cho Chikun | Sonoda Yuichi | Win | B+0.5
+ | 6.5 | 3173.0 | 25.0 | 
+| 2017-01-26 | 第73期本因坊戦　予選B決勝 | Cho Chikun | Xie Yimin | Win | B+6.5 | 6.5 
+| 3148.0 | 21.0 | 
+| 2017-01-19 | 第56期十段戦　予選A | Cho Chikun | Kanazawa Hideo | Lose | W+5.5 | 6
+.5 | 3127.0 | -55.0 | 
+| 2016-11-23 | 第2回囲碁電王戦第3局 | Cho Chikun | DeepZenGo | Win | B+R | 6.5 | 318
+2.0 | 4.0 | 
+| 2016-11-20 | 第2回囲碁電王戦第2局 | DeepZenGo | Cho Chikun | Lose | B+R | 6.5 | 31
+78.0 | -2.0 | 
+| 2016-11-19 | 第2回囲碁電王戦第1局 | Cho Chikun | DeepZenGo | Win | B+R | 6.5 | 318
+0.0 | 36.0 | 
+| 2016-10-27 | 第43期天元戦　予選A第1局 | Cho Chikun | Hirata Tomoya | Win | B+2.5 | 
+6.5 | 3144.0 | 28.0 | 
+| 2016-10-20 | 第65期王座戦　予選A特選譜第4局 | Cho Chikun | Yamashiro Hiroshi | Lose | 
+W+R | 6.5 | 3116.0 | -29.0 | 
+| 2016-10-17 | 第55期十段戦　最終予選決勝 | Ichiriki Ryo | Cho Chikun | Lose | B+R | 6.
+5 | 3145.0 | 11.0 | 
+| 2016-10-13 | 第43期天元戦予選 | Cho Chikun | Hashimoto Yujiro | Win | B+R | 6.5 
+| 3134.0 | 12.0 | 
+| 2016-10-08 | 第23期日本阿含桐山杯決勝 | Cho Chikun | Kono Rin | Lose | W+0.5 | 6.5 |
+ 3122.0 | 12.0 | 
+| 2016-09-29 | 第42期名人戦最終予選 | Cho Chikun | Adachi Toshimasa | Lose | W+R | 6
+.5 | 3110.0 | 8.0 | 
+| 2016-09-22 | 第55期十段戦最終予選 | Cho Chikun | Yamamori Tadanao | Win | B+R | 6.
+5 | 3102.0 | -19.0 | 
+| 2016-09-19 | 第41期棋聖戦Bリーグ決勝 | Cho Chikun | Yuki Satoshi | Lose | W+R | 6.5
+ | 3121.0 | 1.0 | 
+| 2016-09-07 | 第21回三星火災杯世界囲碁マスターズ1回戦B2 | Cho Chikun | Yu Bin | Lose | W+R |
+ 6.5 | 3120.0 | -7.0 | 
+| 2016-09-06 | 第21回三星火災杯世界囲碁マスターズ1回戦B1 | Cho Chikun | Shin Jinseo | Lose | 
+W+R | 6.5 | 3127.0 | -1.0 | 
+| 2016-08-25 | 第23期阿含・桐山杯全日本早碁オープン戦準決勝 | Murakawa Daisuke | Cho Chikun | Wi
+n | W+R | 6.5 | 3128.0 | 3.0 | 
+| 2016-08-18 | 第41期棋聖戦Bリーグ | Hsu Chiayuan | Cho Chikun | Win | W+R | 6.5 | 
+3125.0 | 50.0 | 
+| 2016-08-04 | 第23期阿含・桐山杯全日本早碁オープン戦2回戦 | Suzuki Shinji | Cho Chikun | Win |
+ W+R | 6.5 | 3075.0 | -9.0 | 
+| 2016-07-28 | 第41期棋聖戦Bリーグ | Cho Chikun | O Meien | Lose | W+R | 6.5 | 3084
+.0 | 15.0 | 
+| 2016-07-14 | 第42期名人戦予選 | Cho Chikun | Hoshino Masaki | Win | B+R | 6.5 | 
+3069.0 | 49.0 | 
+| 2016-07-07 | 第41期棋聖戦Bリーグ | Cho Chikun | Ida Atsushi | Win | B+R | 6.5 | 3
+020.0 | 58.0 | 
+| 2016-06-30 | 第42期碁聖戦予選 | Yamada Shinji | Cho Chikun | Win | W+R | 6.5 | 2
+962.0 | -10.0 | 
+| 2016-06-23 | 第23期阿含・桐山杯全日本早碁オープン戦1回戦 | Otake Hideo | Cho Chikun | Win | W
++R | 6.5 | 2972.0 | -18.0 | 
+| 2016-06-16 | 第41期棋聖戦Bリーグ | Mizokami Tomochika | Cho Chikun | Win | W+R | 
+6.5 | 2990.0 | -10.0 | 
+| 2016-05-26 | 第41期棋聖戦Bリーグ | Cho Chikun | Kim Sujun | Win | B+R | 6.5 | 300
+0.0 | 14.0 | 
+| 2016-05-19 | 第42期碁聖戦予選 | Nakamura Hidehito | Cho Chikun | Win | W+R | 6.5
+ | 2986.0 | -25.0 | 
+| 2016-05-12 | 第23期阿含・桐山杯全日本早碁オープン戦予選 | Motoki Katsuya | Cho Chikun | Win |
+ W+0.5 | 6.5 | 3011.0 | 31.0 | 
+| 2016-05-05 | 第64期王座戦予選 | Kono Rin | Cho Chikun | Lose | B+5.5 | 6.5 | 298
+0.0 | -46.0 | 
+| 2016-04-21 | 第41期棋聖戦Bリーグ | Tsuruyama Atsushi | Cho Chikun | Win | W+R | 6
+.5 | 3026.0 | 19.0 | 
+| 2016-04-16 | 第65回NHK杯テレビ囲碁トーナメント戦1回戦第3局 | So Yokoku | Cho Chikun | Lose |
+ B+4.5 | 6.5 | 3007.0 | 0.0 | 
+| 2016-04-07 | 第25期竜星戦Bブロック第11局 | Cho Chikun | Ichiriki Ryo | Lose | W+5.5 
+| 6.5 | 3007.0 | -16.0 | 
+| 2016-03-31 | 第41期棋聖戦Bリーグ | O Rissei | Cho Chikun | Win | W+R | 6.5 | 3023
+.0 | 55.0 | 
+| 2016-03-10 | 第6回フマキラー囲碁マスターズカップ1回戦 | Cho Chikun | Ishida Yoshio | Lose | 
+W+R | 6.5 | 2968.0 | -46.0 | 
+| 2016-03-03 | 第64期王座戦予選 | Goto Shungo | Cho Chikun | Win | W+2.5 | 6.5 | 3
+014.0 | 22.0 | 
+| 2016-02-18 | 第72期本因坊戦予選 | Cho Chikun | Cho Riyu | Lose | W+R | 6.5 | 2992
+.0 | -104.0 | 
+| 2015-11-19 | 第42期天元戦予選 | Yao Zhiteng | Cho Chikun | Lose | B+R | 6.5 | 30
+96.0 | -46.0 | 
+| 2015-11-12 | 第64期王座戦予選 | Morita Michihiro | Cho Chikun | Win | W+R | 6.5 
+| 3142.0 | -21.0 | 
+| 2015-11-05 | 第42期天元戦予選 | Cho Chikun | Onishi Kenya | Win | B+R | 6.5 | 31
+63.0 | 18.0 | 
+| 2015-10-29 | 第64期王座戦予選 | Ishikura Noboru | Cho Chikun | Win | W+4.5 | 6.5
+ | 3145.0 | -16.0 | 
+| 2015-10-22 | 第42期天元戦予選 | Cho Chikun | Kibe Natsuki | Win | B+R | 6.5 | 31
+61.0 | 11.0 | 
+| 2015-10-15 | 第41期名人戦予選 | Hane Naoki | Cho Chikun | Lose | B+3.5 | 6.5 | 3
+150.0 | -47.0 | 
+| 2015-10-01 | 第54期十段戦2回戦 | Iyama Yuta | Cho Chikun | Lose | B+R | 6.5 | 31
+97.0 | -4.0 | 
+| 2015-09-24 | 第41期名人戦予選 | Takeuchi Kousuke | Cho Chikun | Win | W+R | 6.5 
+| 3201.0 | 27.0 | 
+| 2015-09-17 | 第54期十段戦予選 | Kurahashi Masayuki | Cho Chikun | Win | W+R | 6.
+5 | 3174.0 | 32.0 | 
+| 2015-09-10 | 第40期棋聖戦Aリーグ | Kono Rin | Cho Chikun | Lose | B+8.5 | 6.5 | 3
+142.0 | -46.0 | 
+| 2015-08-27 | 第41期名人戦予選 | Obuchi Kotaro | Cho Chikun | Win | W+R | 6.5 | 3
+188.0 | -48.0 | 
+| 2015-08-20 | 第40期棋聖戦Aリーグ | Cho Chikun | Ichiriki Ryo | Win | B+2.5 | 6.5 
+| 3236.0 | 40.0 | 
+| 2015-07-30 | 第40期棋聖戦Aリーグ | Mizokami Tomochika | Cho Chikun | Win | W+R | 
+6.5 | 3196.0 | 35.0 | 
+| 2015-07-23 | 第54期十段戦予選 | Cho Chikun | Koyama Mitsuru | Win | B+R | 6.5 | 
+3161.0 | 8.0 | 
+| 2015-07-16 | 第40期棋聖戦Aリーグ | Cho Chikun | Cho U | Lose | W+1.5 | 6.5 | 3153
+.0 | -27.0 | 
+| 2015-07-11 | 第5回フマキラー囲碁マスターズカップ決勝 | Takemiya Masaki | Cho Chikun | Win | 
+W+5.5 | 6.5 | 3180.0 | 8.0 | 
+| 2015-07-09 | 第71期本因坊戦予選 | Rin Kanketsu | Cho Chikun | Lose | B+R | 6.5 | 
+3172.0 | -23.0 | 
+| 2015-06-27 | 第5回フマキラー囲碁マスターズカップ準決勝 | Kobayashi Satoru | Cho Chikun | Win 
+| W+R | 6.5 | 3195.0 | 74.0 | 
+| 2015-06-11 | 第22期阿含・桐山杯全日本早碁オープン戦予選 | Cho Chikun | Shuto Shun | Lose | W+
+R | 6.5 | 3121.0 | 24.0 | 
+| 2015-06-04 | 第40期棋聖戦Aリーグ | Hane Naoki | Cho Chikun | Lose | B+R | 6.5 | 3
+097.0 | 23.0 | 
+| 2015-05-21 | 第71期本因坊戦予選 | Cho Chikun | Komatsu Hideki | Win | B+R | 6.5 |
+ 3074.0 | 11.0 | 
+| 2015-05-14 | 第5回フマキラー囲碁マスターズカップ2回戦 | Cho Chikun | Hikosaka Naoto | Win | 
+B+R | 6.5 | 3063.0 | -102.0 | 
+| 2015-05-07 | 第40期棋聖戦Aリーグ | Cho Riyu | Cho Chikun | Lose | B+R | 6.5 | 316
+5.0 | -52.0 | 
+| 2015-04-30 | 第5回フマキラー囲碁マスターズカップ1回戦 | Hane Yasumasa | Cho Chikun | Win | W
++R | 6.5 | 3217.0 | 33.0 | 
+| 2015-04-23 | 第40期棋聖戦Aリーグ | Cho Chikun | Yuki Satoshi | Win | B+R | 6.5 | 
+3184.0 | -14.0 | 
+| 2015-03-12 | 第63期王座戦予選 | Cho Chikun | Mizokami Tomochika | Lose | W+1.5 |
+ 6.5 | 3198.0 | -35.0 | 
+| 2015-03-05 | 第40期碁聖戦本戦2回戦 | Kono Rin | Cho Chikun | Lose | B+R | 6.5 | 32
+33.0 | -6.0 | 
+| 2015-02-26 | 第54期十段戦予選 | Cho Chikun | Lee Ishu | Win | B+R | 6.5 | 3239.0
+ | -49.0 | 
+| 2015-02-05 | 第63期王座戦予選 | Rin Shien | Cho Chikun | Win | W+6.5 | 6.5 | 328
+8.0 | 25.0 | 
+| 2015-01-15 | 第63期王座戦予選 | Sato Masaharu | Cho Chikun | Win | W+R | 6.5 | 3
+263.0 | -57.0 | 
+| 2014-12-18 | 第40期碁聖戦本戦1回戦 | Cho Chikun | Sada Atsushi | Win | B+R | 6.5 |
+ 3320.0 | 98.0 | 
+| 2014-10-09 | 第40期碁聖戦予選 | Cho Chikun | Konagai Masaru | Win | B+R | 6.5 | 
+3222.0 | -9.0 | 
+| 2014-10-02 | 第39期棋聖戦Bリーグ | Murakawa Daisuke | Cho Chikun | Lose | B+3.5 |
+ 6.5 | 3231.0 | 69.0 | 
+| 2014-09-25 | 第53期十段戦予選 | Cho Chikun | Murakawa Daisuke | Lose | W+R | 6.5
+ | 3162.0 | -15.0 | 
+| 2014-09-18 | 第40期名人戦予選 | Cho Chikun | Kanazawa Makoto | Lose | W+R | 6.5 
+| 3177.0 | -9.0 | 
+| 2014-09-11 | 第41期天元戦予選 | Cho Chikun | Hsu Chiayuan | Lose | W+R | 6.5 | 3
+186.0 | 45.0 | 
+| 2014-08-21 | 第40期名人戦予選 | Cho Chikun | Hirata Tomoya | Win | B+R | 6.5 | 3
+141.0 | 3.0 | 
+| 2014-08-07 | 第39期棋聖戦Bリーグ | Cho Chikun | Yoda Norimoto | Lose | W+4.5 | 6.
+5 | 3138.0 | -26.0 | 
+| 2014-07-17 | 第40期名人戦予選 | Cho Chikun | Aoki Kikuyo | Win | B+5.5 | 6.5 | 3
+164.0 | -9.0 | 
+| 2014-07-12 | 第4回フマキラー囲碁マスターズカップ決勝 | Cho Chikun | Kobayashi Satoru | Win |
+ B+6.5 | 6.5 | 3173.0 | -24.0 | 
+| 2014-07-03 | 第39期棋聖戦Bリーグ | Cho Riyu | Cho Chikun | Lose | B+R | 6.5 | 319
+7.0 | -26.0 | 
+| 2014-06-26 | 第39期棋聖戦Bリーグ | Kobayashi Satoru | Cho Chikun | Lose | B+R | 6
+.5 | 3223.0 | -33.0 | 
+| 2014-06-21 | 第4回フマキラー囲碁マスターズカップ準決勝 | Cho Chikun | Ishii Kunio | Win | B+R
+ | 6.5 | 3256.0 | -66.0 | 
+| 2014-06-12 | 第40期天元戦本戦2回戦 | Cho Chikun | Takao Shinji | Lose | W+R | 6.5 
+| 3322.0 | -127.0 | 
+| 2014-05-22 | 第39期棋聖戦Bリーグ | Cho Chikun | Yuki Satoshi | Win | B+R | 6.5 | 
+3449.0 | 35.0 | 
+| 2014-05-15 | 第21期阿含・桐山杯全日本早碁オープン戦予選 | Yu Zhengqi | Cho Chikun | Lose | B+
+3.5 | 6.5 | 3414.0 | 18.0 | 
+| 2014-05-08 | 第4回フマキラー囲碁マスターズカップ2回戦 | Ishida Yoshio | Cho Chikun | Win | W
++1.5 | 6.5 | 3396.0 | -39.0 | 
+| 2014-04-24 | 第70期本因坊戦予選 | Hirata Tomoya | Cho Chikun | Lose | B+0.5 | 6.5
+ | 3435.0 | 20.0 | 
+| 2014-03-27 | 第70期本因坊戦予選 | Kanazawa Makoto | Cho Chikun | Win | W+R | 6.5 
+| 3415.0 | 26.0 | 
+| 2014-03-20 | 第4回フマキラー囲碁マスターズカップ1回戦 | Kataoka Satoshi | Cho Chikun | Win |
+ W+1.5 | 6.5 | 3389.0 | 55.0 | 
+| 2014-02-13 | 第40期天元戦本戦1回戦 | Cho Chikun | Murakawa Daisuke | Win | B+R | 6
+.5 | 3334.0 | 57.0 | 
+| 2014-01-16 | 第62期王座戦予選 | Rin Kanketsu | Cho Chikun | Lose | B+R | 6.5 | 3
+277.0 | -60.0 | 
+| 2014-01-09 | 第40期天元戦予選 | Rin Kanketsu | Cho Chikun | Win | W+R | 6.5 | 33
+37.0 | 21.0 | 
+| 2013-12-19 | 第62期王座戦予選 | Cho Chikun | Ryu Shikun | Win | B+R | 6.5 | 3316
+.0 | 24.0 | 
+| 2013-11-14 | 第40期天元戦予選 | Cho Chikun | Kubo Hideo | Win | B+R | 6.5 | 3292
+.0 | 7.0 | 
+| 2013-10-31 | 第52期十段戦2回戦 | Takao Shinji | Cho Chikun | Lose | B+R | 6.5 | 
+3285.0 | 13.0 | 
+| 2013-10-10 | 第39期碁聖戦予選 | Horimoto Mitsunari | Cho Chikun | Lose | B+R | 6
+.5 | 3272.0 | -41.0 | 
+| 2013-10-03 | 第38期棋聖戦Bリーグ | Murakawa Daisuke | Cho Chikun | Win | W+R | 6.
+5 | 3313.0 | 12.0 | 
+| 2013-09-12 | 第39期碁聖戦予選 | Arimura Hiroshi | Cho Chikun | Win | W+R | 6.5 |
+ 3301.0 | 56.0 | 
+| 2013-09-05 | 第38期棋聖戦Bリーグ | Cho Chikun | Hane Naoki | Lose | W+R | 6.5 | 3
+245.0 | -45.0 | 
+| 2013-08-29 | 第39期名人戦予選 | Cho Chikun | Ryu Shikun | Lose | W+R | 6.5 | 329
+0.0 | 36.0 | 
+| 2013-08-08 | 第52期十段戦予選 | Adachi Toshimasa | Cho Chikun | Win | W+1.5 | 6.
+5 | 3254.0 | 29.0 | 
+| 2013-08-01 | 第69期本因坊戦予選 | Cho Chikun | Imamura Toshiya | Lose | W+R | 6.5
+ | 3225.0 | 8.0 | 
+| 2013-07-25 | 第38期棋聖戦Bリーグ | Cho Chikun | Mizokami Tomochika | Lose | W+R |
+ 6.5 | 3217.0 | 28.0 | 
+| 2013-07-11 | 第39期名人戦予選 | So Yokoku | Cho Chikun | Win | W+7.5 | 6.5 | 318
+9.0 | 25.0 | 
+| 2013-07-04 | 第52期十段戦予選 | Cho Chikun | Akiyama Jiro | Win | B+R | 6.5 | 31
+64.0 | 2.0 | 
+| 2013-06-28 | 第38期棋聖戦Bリーグ | Takao Shinji | Cho Chikun | Win | W+0.5 | 6.5 
+| 3162.0 | 103.0 | 
+| 2013-06-20 | 第69期本因坊戦予選 | Cho Chikun | Muramatsu Hiroki | Win | B+R | 6.5
+ | 3059.0 | 111.0 | 
+| 2013-06-13 | 第39期名人戦予選 | Cho Chikun | Tajiri Yuto | Win | B+1.5 | 6.5 | 2
+948.0 | 11.0 | 
+| 2013-06-06 | 第20期阿含・桐山杯全日本早碁オープン戦予選 | Cho Chikun | Ichiriki Ryo | Lose | 
+W+R | 6.5 | 2937.0 | -47.0 | 
+| 2013-05-30 | 第38期棋聖戦Bリーグ | Kono Rin | Cho Chikun | Win | W+R | 6.5 | 2984
+.0 | -35.0 | 
+| 2013-05-16 | 第3回エステー＆フマキラー囲碁マスターズカップ2回戦 | Cho Chikun | O Meien | Lose | W
++10.5 | 6.5 | 3019.0 | -71.0 | 
+| 2013-05-09 | 第61期王座戦予選 | Seto Taiki | Cho Chikun | Lose | B+8.5 | 6.5 | 3
+090.0 | -35.0 | 
+| 2013-04-11 | 第69期本因坊戦予選 | Cho Chikun | Ohba Junya | Win | B+R | 6.5 | 312
+5.0 | -33.0 | 
+| 2013-03-21 | 第3回エステー＆フマキラー囲碁マスターズカップ1回戦 | Rin Kaiho | Cho Chikun | Win | 
+W+4.5 | 6.5 | 3158.0 | 22.0 | 
+| 2013-03-07 | 第69期本因坊戦予選 | Yamada Shinji | Cho Chikun | Win | W+R | 6.5 | 
+3136.0 | -27.0 | 
+| 2013-02-21 | 第38期碁聖戦本戦2回戦 | Cho Chikun | So Yokoku | Lose | W+0.5 | 6.5 |
+ 3163.0 | -51.0 | 
+| 2013-02-14 | 第38期棋聖戦予選 | Cho Chikun | Muramatsu Hiroki | Win | B+R | 6.5 
+| 3214.0 | -65.0 | 
+| 2013-01-24 | 第38期棋聖戦予選 | Cho Chikun | Lee Ishu | Win | B+R | 6.5 | 3279.0
+ | 49.0 | 
+| 2012-12-13 | 第38期棋聖戦予選 | Adachi Toshimasa | Cho Chikun | Win | W+R | 6.5 
+| 3230.0 | -24.0 | 
+| 2012-11-29 | 第39期天元戦予選 | Yoda Norimoto | Cho Chikun | Lose | B+R | 6.5 | 
+3254.0 | 22.0 | 
+| 2012-11-22 | 第38期棋聖戦予選 | Cho Chikun | Tajiri Yuto | Win | B+R | 6.5 | 323
+2.0 | -50.0 | 
+| 2012-11-15 | 第38期碁聖戦本戦1回戦 | Cho Chikun | Ishii Kunio | Win | B+R | 6.5 | 
+3282.0 | -14.0 | 
+| 2012-11-01 | 第39期天元戦予選 | Tamai Shin | Cho Chikun | Win | W+R | 6.5 | 3296
+.0 | 5.0 | 
+| 2012-10-27 | 第8回大和証券杯ネット囲碁オープン1回戦 | Cho Riyu | Cho Chikun | Lose | B+R | 
+6.5 | 3291.0 | -1.0 | 
+| 2012-10-18 | 第38期碁聖戦予選 | Nakamura Shinya | Cho Chikun | Win | W+R | 6.5 |
+ 3292.0 | 12.0 | 
+| 2012-09-27 | 第38期碁聖戦予選 | Komatsu Hideki | Cho Chikun | Win | W+3.5 | 6.5 
+| 3280.0 | 25.0 | 
+| 2012-09-20 | 第51期十段戦2回戦 | Cho Chikun | Yuki Satoshi | Lose | W+9.5 | 6.5 
+| 3255.0 | missing |
 
 
 

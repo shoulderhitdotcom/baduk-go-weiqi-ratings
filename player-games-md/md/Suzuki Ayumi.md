@@ -5,283 +5,326 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Suzuki Ayumi Ratings⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀             
+               ⡤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⢤             
+          3200 ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸ Suzuki Ayumi
+               ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡄⠀⠀⠀⠀⠀⠀⠀⠀⢸             
+               ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢿⠀⠀⠀⠀⠀⠀⠀⠀⢸             
+               ⡇⠀⠀⠀⠀⣠⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠸⢇⡄⠀⠀⠀⠀⠀⡞⢸             
+               ⡇⠀⠀⠀⠀⣿⡎⢱⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⠀⢸⣇⠀⠀⠀⠀⢀⠇⢸             
+               ⡇⠀⠀⠀⠀⡿⡇⠈⡆⠀⣾⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⢹⠀⠀⠀⢰⡏⠀⢸             
+               ⡇⢰⢇⠀⢰⠁⠁⠀⡇⠀⡇⢣⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⡇⠀⠀⠘⡄⠀⠀⢸⠀⠀⢸             
+   Rating      ⡇⡸⢸⠀⢸⠀⠀⠀⡇⠀⡇⢸⡟⢱⠀⠀⠀⠀⡆⠀⡀⠀⠀⡧⡀⢸⡆⠀⠀⠀⠀⡇⠀⠀⠀⢷⠀⡆⡜⠀⠀⢸             
+               ⡇⡇⠀⢧⠚⠀⠀⠀⢱⢰⠁⠀⠇⢸⠀⠀⡄⠀⡇⢠⡇⠀⠀⡇⠘⠎⡇⠀⠀⠀⢠⡇⠀⠀⠀⠈⣆⡇⡇⠀⠀⢸             
+               ⡇⡇⠀⠘⠀⠀⠀⠀⢸⢸⠀⠀⠀⢸⣴⢆⡇⢰⢱⢸⢳⠀⢰⡇⠀⠀⡇⠀⠀⢀⡏⠃⠀⠀⠀⠀⢿⢹⠀⠀⠀⢸             
+               ⡇⠁⠀⠀⠀⠀⠀⠀⢸⣼⠀⠀⠀⠀⠋⠀⢸⣼⢸⡇⢸⠀⢸⠃⠀⠀⡇⢀⡠⠟⠇⠀⠀⠀⠀⠀⠸⠀⠀⠀⠀⢸             
+               ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠋⠀⠀⠀⠀⠀⠀⢸⠛⢸⠇⠸⡀⢸⠀⠀⠀⢱⣼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸             
+               ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠀⠀⠀⠀⡇⢸⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸             
+               ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠺⠀⠀⠀⢸⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸             
+          2400 ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸             
+               ⠓⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠚             
+               ⠀2012-09-20⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀2022-01-20⠀             
+               ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Date⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result*
+* | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-12-06 | 第25期女流棋聖戦挑戦者決定戦 | Suzuki Ayumi |  | Win | B+4.5 | 6.5 | 2978 | 14 | 
-| 2021-12-04 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦 | Suzuki Ayumi | Lin Yuting | Win | B+R | 6.5 | 2964 | 0 | 
-| 2021-12-04 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦 | Suzuki Ayumi | Bai Xinhui | Win | B+R | 6.5 | 2964 | 11 | 
-| 2021-11-25 | 第25期女流棋聖戦準決勝 | Suzuki Ayumi | Mukai Chiaki | Win | B+R | 6.5 | 2953 | 2953 | 
-| 2021-11-11 | 第25期女流棋聖戦2回戦 | Nakamura Sumire | Suzuki Ayumi | Win | W+0.5 | 6.5 | missing | -2923 | 
-| 2021-10-21 | 第48期天元戦予選 | Suzuki Ayumi | Cho U | Lose | W+R | 6.5 | 2923 | 4 | 
-| 2021-09-10 | 第6回扇興杯女流最強戦準決勝  | Fujisawa Rina | Suzuki Ayumi | Lose | B+R | 6.5 | 2919 | 2919 | 
-| 2021-08-12 | 第6回扇興杯女流最強戦2回戦 | Nakamura Sumire | Suzuki Ayumi | Win | W+3.5 | 6.5 | missing | -2838 | 
-| 2021-07-22 | 第40期女流本因坊戦準決勝  | Suzuki Ayumi | Hoshiai Shiho | Lose | W+0.5 | 6.5 | 2838 | -31 | 
-| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Suzuki Ayumi | Wang Chenxing | Lose | W+R | 7.5 | 2869 | -13 | 
-| 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Feng Yun | Suzuki Ayumi | Win | W+R | 7.5 | 2882 | 72 | 
-| 2021-06-21 | 第6回扇興杯女流最強戦1回戦 | Suzuki Ayumi | Nishiyama Shizuka | Win | B+R | 6.5 | 2810 | 26 | 
-| 2021-06-17 | 第40期女流本因坊戦3回戦 | Suzuki Ayumi | Mukai Chiaki | Win | B+R | 6.5 | 2784 | 5 | 
-| 2021-06-10 | 第77期本因坊戦予選 | Suzuki Ayumi | Numadate Sakiya | Win | B+R | 6.5 | 2779 | 46 | 
-| 2021-04-19 | 第8期会津中央病院・女流立葵杯1回戦 | Suzuki Ayumi | Nyu Eiko | Lose | W+2.5 | 6.5 | 2733 | -145 | 
-| 2021-03-25 | 第69期王座戦予選 | Tsuruta Kazushi | Suzuki Ayumi | Lose | B+R | 6.5 | 2878 | 9 | 
-| 2021-03-15 | 第32期博多・カマチ杯女流名人戦リーグ挑戦者決定プレーオフ  | Ueno Asami | Suzuki Ayumi | Lose | B+R | 6.5 | 2869 | -38 | 
-| 2021-03-04 | 第32期博多・カマチ杯女流名人戦リーグ  | Xie Yimin | Suzuki Ayumi | Lose | B+1.5 | 6.5 | 2907 | -40 | 
-| 2021-03-01 | 第32期博多・カマチ杯女流名人戦リーグ |  | Suzuki Ayumi | Win | W+R | 6.5 | 2947 | -19 | 
-| 2021-02-22 | 第32期博多・カマチ杯女流名人戦リーグ  | Suzuki Ayumi | Ueno Asami | Win | B+R | 6.5 | 2966 | 17 | 
-| 2021-02-18 | 第32期博多・カマチ杯女流名人戦リーグ | Nyu Eiko | Suzuki Ayumi | Win | W+R | 6.5 | 2949 | -75 | 
-| 2021-02-11 | 第69期王座戦予選 | Okuda Aya | Suzuki Ayumi | Win | W+R | 6.5 | 3024 | 17 | 
-| 2021-02-04 | 第32期博多・カマチ杯女流名人戦リーグ | Suzuki Ayumi | Mukai Chiaki | Win | B+R | 6.5 | 3007 | 47 | 
-| 2021-02-01 | 第32期博多・カマチ杯女流名人戦リーグ  | Suzuki Ayumi |  | Win | B+4.5 | 6.5 | 2960 | 4 | 
-| 2021-01-28 | 第24期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Ueno Asami | Suzuki Ayumi | Lose | B+R | 6.5 | 2956 | -1 | 
-| 2021-01-21 | 第24期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Suzuki Ayumi | Ueno Asami | Win | B+R | 6.5 | 2957 | -48 | 
-| 2020-11-09 | 第69期王座戦予選 | Kobayashi Koichi | Suzuki Ayumi | Win | W+4.5 | 6.5 | 3005 | -42 | 
-| 2020-09-28 | 第3回呉清源杯世界女子囲碁選手権2回戦 | Suzuki Ayumi | Yu Zhiying | Lose | W+1¼ | 7.5 | 3047 | 45 | 
-| 2020-09-27 | 第3回呉清源杯世界女子囲碁選手権1回戦 | Suzuki Ayumi |  | Win | B+R | 7.5 | 3002 | 47 | 
-| 2020-09-21 | 第3回SGW杯中庸戦予選 | Ogata Masaki | Suzuki Ayumi | Lose | B+R | 6.5 | 2955 | 151 | 
-| 2020-07-29 | 第7期会津中央病院・女流立葵杯挑戦手合三番勝負第2局  | Fujisawa Rina | Suzuki Ayumi | Lose | B+8.5 | 6.5 | 2804 | -39 | 
-| 2020-07-27 | 第7期会津中央病院・女流立葵杯挑戦手合三番勝負第1局  | Suzuki Ayumi | Fujisawa Rina | Lose | W+0.5 | 6.5 | 2843 | -32 | 
-| 2020-06-25 | 第27期阿含・桐山杯早碁オープン戦予選 | Suzuki Ayumi | Terayama Rei | Lose | W+R | 6.5 | 2875 | -8 | 
-| 2020-06-21 | 第7期会津中央病院・女流立葵杯挑戦者決定戦  |  | Suzuki Ayumi | Win | W+R | 6.5 | 2883 | 6 | 
-| 2020-06-20 | 第7期会津中央病院・女流立葵杯準決勝  | Suzuki Ayumi | Xie Yimin | Win | B+0.5 | 6.5 | 2877 | 25 | 
-| 2020-06-04 | 第39期女流本因坊戦2回戦 | Hoshiai Shiho | Suzuki Ayumi | Lose | B+R | 6.5 | 2852 | 71 | 
-| 2020-03-30 | 第7期会津中央病院・女流立葵杯1回戦 | Suzuki Ayumi |  | Win | B+R | 6.5 | 2781 | -8 | 
-| 2020-03-19 | 第46期名人戦予選 | Suzuki Ayumi | Morita Michihiro | Win | B+R | 6.5 | 2789 | -210 | 
-| 2020-02-10 | 第23期ドコモ杯女流棋聖戦挑戦手合三番勝負第3局 | Suzuki Ayumi | Ueno Asami | Win | B+3.5 | 6.5 | 2999 | 28 | 
-| 2020-02-06 | 第46期碁聖戦予選 | Chino Tadahiko | Suzuki Ayumi | Lose | B+5.5 | 6.5 | 2971 | -67 | 
-| 2020-01-30 | 第76期本因坊戦予選 | Suzuki Ayumi | Cho U | Lose | W+R | 6.5 | 3038 | -16 | 
-| 2020-01-27 | 第23期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Suzuki Ayumi | Ueno Asami | Lose | W+R | 6.5 | 3054 | -42 | 
-| 2020-01-16 | 第23期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Ueno Asami | Suzuki Ayumi | Win | W+3.5 | 6.5 | 3096 | 409 | 
-| 2019-12-05 | 第23期ドコモ杯女流棋聖戦挑戦者決定戦 | Nyu Eiko | Suzuki Ayumi | Win | W+R | 6.5 | 2687 | 24 | 
-| 2019-11-11 | 第23期ドコモ杯女流棋聖戦準決勝 | Suzuki Ayumi | Mannami Nao | Win | B+4.5 | 6.5 | 2663 | -5 | 
-| 2019-11-04 | 第2回SGW杯中庸戦4回戦 | Suzuki Ayumi | Ohba Junya | Lose | W+R | 6.5 | 2668 | 0 | 
-| 2019-11-04 | 第2回SGW杯中庸戦3回戦 | Suzuki Ayumi | Ogaki Yusaku | Win | B+R | 6.5 | 2668 | 19 | 
-| 2019-11-03 | 第2回SGW杯中庸戦2回戦 | Suzuki Ayumi | Imamura Yoshiaki | Lose | W+R | 6.5 | 2649 | 0 | 
-| 2019-11-03 | 第2回SGW杯中庸戦1回戦 | Kanda Ei | Suzuki Ayumi | Win | W+R | 6.5 | 2649 | 39 | 
-| 2019-10-17 | 第23期ドコモ杯女流棋聖戦2回戦 | Fujisawa Rina | Suzuki Ayumi | Win | W+8.5 | 6.5 | 2610 | 108 | 
-| 2019-10-07 | 第23期ドコモ杯女流棋聖戦1回戦 | Suzuki Ayumi |  | Win | B+R | 6.5 | 2502 | 141 | 
-| 2019-09-26 | 第46期天元戦予選 | Awaji Shuzo | Suzuki Ayumi | Lose | B+R | 6.5 | 2361 | -22 | 
-| 2019-09-16 | 第2回SGW杯中庸戦予選 | Iguchi Hideichiro | Suzuki Ayumi | Win | W+R | 6.5 | 2383 | 0 | 
-| 2019-09-16 | 第2回SGW杯中庸戦予選決勝 | Suzuki Ayumi | Arimura Hiroshi | Win | B+17.5 | 6.5 | 2383 | 18 | 
-| 2019-08-29 | 第38期女流本因坊戦挑戦者決定戦 | Suzuki Ayumi | Ueno Asami | Lose | W+R | 6.5 | 2365 | -80 | 
-| 2019-08-12 | 第38期女流本因坊戦準決勝 | Mukai Chiaki | Suzuki Ayumi | Win | W+1.5 | 6.5 | 2445 | 104 | 
-| 2019-07-08 | 第38期女流本因坊戦3回戦 | Suzuki Ayumi | Okuda Aya | Win | B+R | 6.5 | 2341 | 42 | 
-| 2019-05-19 | 第6期会津中央病院・女流立葵杯挑戦者決定戦 | Suzuki Ayumi | Ueno Asami | Lose | W+R | 6.5 | 2299 | -13 | 
-| 2019-05-18 | 第6期会津中央病院・女流立葵杯準決勝 | Mannami Nao | Suzuki Ayumi | Win | W+R | 6.5 | 2312 | -15 | 
-| 2019-04-11 | 第38期女流本因坊戦1回戦 | Suzuki Ayumi | Ishii Akane | Win | B+R | 6.5 | 2327 | 11 | 
-| 2019-04-04 | 第6期会津中央病院・女流立葵杯1回戦 | Suzuki Ayumi | Xie Yimin | Win | B+R | 6.5 | 2316 | -15 | 
-| 2018-12-09 | 第1回SGW杯中庸戦4回戦 | Suzuki Ayumi | Akiyama Jiro | Lose | W+R | 6.5 | 2331 | 0 | 
-| 2018-12-09 | 第1回SGW杯中庸戦3回戦 | Mimura Tomoyasu | Suzuki Ayumi | Lose | B+1.5 | 6.5 | 2331 | -7 | 
-| 2018-12-08 | 第1回SGW杯中庸戦2回戦 | Suzuki Ayumi | Tsuruyama Atsushi | Lose | W+R | 6.5 | 2338 | 0 | 
-| 2018-12-08 | 第1回SGW杯中庸戦1回戦 | Yamamori Tadanao | Suzuki Ayumi | Win | W+3.5 | 6.5 | 2338 | 99 | 
-| 2018-12-06 | 第38期女流本因坊戦予選 | Ogawa Tomoko | Suzuki Ayumi | Win | W+R | 6.5 | 2239 | -78 | 
-| 2018-11-13 | 第1回SGW杯中庸戦予選決勝 | Suzuki Ayumi | Wang Jingyi | Win | B+6.5 | 6.5 | 2317 | 0 | 
-| 2018-11-13 | 第1回SGW杯中庸戦予選2回戦 | Mochizuki Kenichi | Suzuki Ayumi | Win | W+5.5 | 6.5 | 2317 | 150 | 
-| 2018-10-11 | 第45期天元戦予選 | Suzuki Ayumi | Kim Sujun | Lose | W+R | 6.5 | 2167 | -5 | 
-| 2018-10-04 | 第22期ドコモ杯女流棋聖戦1回戦 | Hoshiai Shiho | Suzuki Ayumi | Lose | B+19.5 | 6.5 | 2172 | -375 | 
-| 2018-07-19 | 第37期女流本因坊戦3回戦 | Suzuki Ayumi | Wang Jingyi | Lose | W+0.5 | 6.5 | 2547 | 50 | 
-| 2018-05-31 | 第74期本因坊戦予選 | Suzuki Ayumi | O Meien | Lose | W+R | 6.5 | 2497 | -34 | 
-| 2018-05-28 | 第37期女流本因坊戦2回戦 | Kibe Natsuki | Suzuki Ayumi | Win | W+R | 6.5 | 2531 | -16 | 
-| 2018-04-23 | 第37期女流本因坊戦1回戦 | Suzuki Ayumi | Arai Miyu | Win | B+R | 6.5 | 2547 | -110 | 
-| 2017-12-14 | 第44期天元戦1回戦 | Suzuki Ayumi | Hikosaka Naoto | Lose | W+R | 6.5 | 2657 | 65 | 
-| 2017-11-20 | 第21期ドコモ杯女流棋聖戦準決勝 | Okuda Aya | Suzuki Ayumi | Lose | B+R | 6.5 | 2592 | -41 | 
-| 2017-11-16 | 第44期天元戦予選 | Ryu Shikun | Suzuki Ayumi | Win | W+R | 6.5 | 2633 | 144 | 
-| 2017-11-09 | 第30期女流名人戦2回戦 | Suzuki Ayumi | Okuda Aya | Lose | W+R | 6.5 | 2489 | -85 | 
-| 2017-10-30 | 第21期ドコモ杯女流棋聖戦2回戦 | Kim Hyun Jung | Suzuki Ayumi | Win | W+R | 6.5 | 2574 | 188 | 
-| 2017-10-19 | 第43期天元戦予選 | Suzuki Ayumi | Michael Redmond | Win | B+R | 6.5 | 2386 | 42 | 
-| 2017-10-16 | 第30期女流名人戦1回戦 | Ishii Akane | Suzuki Ayumi | Win | W+R | 6.5 | 2344 | 50 | 
-| 2017-10-02 | 第21期ドコモ杯女流棋聖戦1回戦 | Suzuki Ayumi | Yoshida Mika | Win | B+R | 6.5 | 2294 | -22 | 
-| 2017-06-15 | 第36期女流本因坊戦3回戦 | Suzuki Ayumi | Umezawa Yukari | Lose | W+R | 6.5 | 2316 | -178 | 
-| 2017-04-06 | 第2回扇興杯女流囲碁最強戦　本戦2回戦 | Fujisawa Rina | Suzuki Ayumi | Lose | B+R | 6.5 | 2494 | -5 | 
-| 2017-03-30 | 第36期女流本因坊戦2回戦 | Suzuki Ayumi | Konishi Kazuko | Win | B+4.5 | 6.5 | 2499 | 88 | 
-| 2017-03-15 | 第2回扇興杯女流囲碁最強戦　本戦1回戦 | Izawa Akino | Suzuki Ayumi | Win | W+R | 6.5 | 2411 | 146 | 
-| 2017-01-12 | 第29期女流名人戦リーグ | Okuda Aya | Suzuki Ayumi | Win | W+R | 6.5 | 2265 | 74 | 
-| 2016-12-22 | 第29期女流名人戦リーグ | Sakakibara Fumiko | Suzuki Ayumi | Win | W+R | 6.5 | 2191 | 54 | 
-| 2016-12-01 | 第20期ドコモ杯女流棋聖戦準決勝 | Nyu Eiko | Suzuki Ayumi | Lose | B+6.5 | 6.5 | 2137 | -26 | 
-| 2016-11-10 | 第29期女流名人戦リーグ | Ishii Akane | Suzuki Ayumi | Win | W+R | 6.5 | 2163 | -58 | 
-| 2016-11-03 | 第20期ドコモ杯女流棋聖戦2回戦 | Suzuki Ayumi | Osawa Narumi | Win | B+11.5 | 6.5 | 2221 | -45 | 
-| 2016-10-27 | 第29期女流名人戦リーグ | Suzuki Ayumi | Kato Keiko | Lose | W+R | 6.5 | 2266 | -177 | 
-| 2016-09-29 | 第20期ドコモ杯女流棋聖戦1回戦 | Suzuki Ayumi | Yashiro Kumiko | Win | B+9.5 | 6.5 | 2443 | 69 | 
-| 2016-08-25 | 第29期女流名人戦リーグ | Suzuki Ayumi | Fujisawa Rina | Lose | W+R | 6.5 | 2374 | 48 | 
-| 2016-08-08 | 第35期女流本因坊戦挑戦者決定戦 | Suzuki Ayumi | Fujisawa Rina | Lose | W+R | 6.5 | 2326 | -132 | 
-| 2016-07-21 | 第35期女流本因坊戦準決勝 | Suzuki Ayumi | Tanemura Sayuri | Win | B+19.5 | 6.5 | 2458 | 175 | 
-| 2016-06-09 | 第35期女流本因坊戦3回戦 | Mukai Kozue | Suzuki Ayumi | Win | W+R | 6.5 | 2283 | 94 | 
-| 2016-05-22 | 第3回会津中央病院杯・女流囲碁トーナメント戦準決勝 | Xie Yimin | Suzuki Ayumi | Lose | B+R | 6.5 | 2189 | -13 | 
-| 2016-05-21 | 第3回会津中央病院杯・女流囲碁トーナメント戦1回戦 | Suzuki Ayumi | Kaneko Maki | Win | B+R | 6.5 | 2202 | -84 | 
-| 2016-04-21 | 第35期女流本因坊戦2回戦 | Wang Jingyi | Suzuki Ayumi | Win | W+R | 6.5 | 2286 | 40 | 
-| 2016-03-24 | 第35期女流本因坊戦1回戦 | Cho Chien | Suzuki Ayumi | Win | W+R | 6.5 | 2246 | -50 | 
-| 2016-02-18 | 第35期女流本因坊戦予選 | Kusunoki Teruko | Suzuki Ayumi | Win | W+R | 6.5 | 2296 | -86 | 
-| 2016-01-07 | 第28期女流名人戦リーグ | Suzuki Ayumi | Mannami Nao | Win | B+2.5 | 6.5 | 2382 | 26 | 
-| 2015-12-07 | 第28期女流名人戦リーグ | Suzuki Ayumi | Fujisawa Rina | Lose | W+R | 6.5 | 2356 | 5 | 
-| 2015-11-19 | 第28期女流名人戦リーグ | Aoki Kikuyo | Suzuki Ayumi | Lose | B+1.5 | 6.5 | 2351 | 93 | 
-| 2015-10-08 | 第28期女流名人戦リーグ | Chinen Kaori | Suzuki Ayumi | Win | W+R | 6.5 | 2258 | -18 | 
-| 2015-09-17 | 第28期女流名人戦リーグ | Kato Keiko | Suzuki Ayumi | Lose | B+3.5 | 6.5 | 2276 | -111 | 
-| 2015-09-03 | 第28期女流名人戦リーグ | Suzuki Ayumi | Okuda Aya | Lose | W+5.5 | 6.5 | 2387 | -103 | 
-| 2015-07-02 | 第71期本因坊戦予選 | Suzuki Ayumi | Taniguchi Tooru | Win | B+R | 6.5 | 2490 | 12 | 
-| 2015-06-25 | 第34期女流本因坊戦2回戦 | Shimosaka Miori | Suzuki Ayumi | Lose | B+2.5 | 6.5 | 2478 | -85 | 
-| 2015-06-22 | 第40期棋聖戦Cリーグ | Fujii Shuya | Suzuki Ayumi | Lose | B+R | 6.5 | 2563 | -32 | 
-| 2015-06-06 | 第2回会津中央病院杯・女流囲碁トーナメント戦1回戦 | Suzuki Ayumi | Fujisawa Rina | Lose | W+7.5 | 6.5 | 2595 | -26 | 
-| 2015-05-28 | 第34期女流本因坊戦1回戦 | Suzuki Ayumi | Sugiuchi Kazuko | Win | B+R | 6.5 | 2621 | 44 | 
-| 2015-05-21 | 第40期棋聖戦Cリーグ | Hikosaka Naoto | Suzuki Ayumi | Win | W+3.5 | 6.5 | 2577 | -151 | 
-| 2015-03-11 | 第27期女流名人戦挑戦手合三番勝負第2局 | Xie Yimin | Suzuki Ayumi | Lose | B+R | 6.5 | 2728 | -147 | 
-| 2015-03-04 | 第27期女流名人戦挑戦手合三番勝負第1局 | Suzuki Ayumi | Xie Yimin | Lose | W+R | 6.5 | 2875 | -26 | 
-| 2015-02-26 | 第40期棋聖戦予選 | Kataoka Satoshi | Suzuki Ayumi | Win | W+1.5 | 6.5 | 2901 | 70 | 
-| 2015-01-08 | 第27期女流名人戦リーグ | Suzuki Ayumi | Chinen Kaori | Lose | W+7.5 | 6.5 | 2831 | 10 | 
-| 2014-12-11 | 第27期女流名人戦リーグ | Suzuki Ayumi | Mannami Nao | Win | B+R | 6.5 | 2821 | 137 | 
-| 2014-11-15 | 第9回広島アルミ杯・若鯉戦1回戦 | Suzuki Ayumi | Tsuruta Kazushi | Lose | W+R | 6.5 | 2684 | -39 | 
-| 2014-11-13 | 第27期女流名人戦リーグ | Mukai Chiaki | Suzuki Ayumi | Win | W+1.5 | 6.5 | 2723 | 158 | 
-| 2014-09-25 | 第27期女流名人戦リーグ | Suzuki Ayumi | Kato Keiko | Win | B+R | 6.5 | 2565 | 71 | 
-| 2014-09-11 | 第27期女流名人戦リーグ | Ishii Akane | Suzuki Ayumi | Win | W+R | 6.5 | 2494 | 3 | 
-| 2014-08-28 | 第27期女流名人戦リーグ | Aoki Kikuyo | Suzuki Ayumi | Lose | B+3.5 | 6.5 | 2491 | -46 | 
-| 2014-08-21 | 第41期天元戦予選 | Suzuki Ayumi | Kataoka Satoshi | Lose | W+R | 6.5 | 2537 | 5 | 
-| 2014-07-28 | 第33期女流本因坊戦準決勝 | Fujisawa Rina | Suzuki Ayumi | Lose | B+R | 6.5 | 2532 | 4 | 
-| 2014-05-08 | 第33期女流本因坊戦2回戦 | Suzuki Ayumi | Xie Yimin | Win | B+R | 6.5 | 2528 | -179 | 
-| 2014-04-07 | 第33期女流本因坊戦1回戦 | Suzuki Ayumi | Yoshida Mika | Win | B+R | 6.5 | 2707 | -107 | 
-| 2014-01-09 | 第26期女流名人戦リーグ | Suzuki Ayumi | Chinen Kaori | Win | B+3.5 | 6.5 | 2814 | 168 | 
-| 2013-12-05 | 第26期女流名人戦リーグ | Mukai Chiaki | Suzuki Ayumi | Lose | B+R | 6.5 | 2646 | -50 | 
-| 2013-10-17 | 第39期碁聖戦予選 | Suzuki Ayumi | Kataoka Satoshi | Lose | W+4.5 | 6.5 | 2696 | -47 | 
-| 2013-10-10 | 第26期女流名人戦リーグ | Kato Keiko | Suzuki Ayumi | Lose | B+2.5 | 6.5 | 2743 | -21 | 
-| 2013-08-29 | 第26期女流名人戦リーグ | Ishii Akane | Suzuki Ayumi | Win | W+R | 6.5 | 2764 | 18 | 
-| 2013-08-08 | 第32期女流本因坊戦準決勝 | Suzuki Ayumi | Mukai Chiaki | Lose | W+R | 6.5 | 2746 | 6 | 
-| 2013-08-01 | 第26期女流名人戦リーグ | Suzuki Ayumi | Yoshida Mika | Win | B+0.5 | 6.5 | 2740 | 14 | 
-| 2013-07-25 | 第26期女流名人戦リーグ | Suzuki Ayumi | Okuda Aya | Win | B+1.5 | 6.5 | 2726 | 87 | 
-| 2013-07-18 | 第32期女流本因坊戦2回戦 | Mukai Kaori | Suzuki Ayumi | Win | W+3.5 | 6.5 | 2639 | 157 | 
-| 2013-05-23 | 第39期碁聖戦予選 | Suzuki Ayumi | Kudo Norio | Win | B+3.5 | 6.5 | 2482 | 36 | 
-| 2013-05-16 | 第32期女流本因坊戦1回戦 | Suzuki Ayumi | Wang Jingyi | Win | B+R | 6.5 | 2446 | -21 | 
-| 2013-01-31 | 第32期女流本因坊戦予選 | Ikeda Ayako | Suzuki Ayumi | Win | W+6.5 | 6.5 | 2467 | -85 | 
-| 2013-01-10 | 第25期女流名人戦リーグ | Suzuki Ayumi | Mukai Chiaki | Win | B+R | 6.5 | 2552 | 41 | 
-| 2012-12-03 | 第25期女流名人戦リーグ | Ishii Akane | Suzuki Ayumi | Win | W+R | 6.5 | 2511 | -159 | 
-| 2012-11-15 | 第69期本因坊戦予選 | Kudo Norio | Suzuki Ayumi | Win | W+4.5 | 6.5 | 2670 | 43 | 
-| 2012-11-03 | 第8回大和証券杯ネット囲碁オープン1回戦 | Ryu Shikun | Suzuki Ayumi | Lose | B+R | 6.5 | 2627 | 16 | 
-| 2012-10-18 | 第25期女流名人戦リーグ | Yoshida Mika | Suzuki Ayumi | Win | W+4.5 | 6.5 | 2611 | 82 | 
-| 2012-09-20 | 第25期女流名人戦リーグ | Suzuki Ayumi | Okuda Aya | Lose | W+0.5 | 6.5 | 2529 | -119 | 
-| 2012-09-06 | 第25期女流名人戦リーグ | Suzuki Ayumi | Osawa Narumi | Lose | W+R | 6.5 | 2648 | 20 | 
-| 2012-08-23 | 第25期女流名人戦リーグ | Kato Keiko | Suzuki Ayumi | Win | W+1.5 | 6.5 | 2628 | 89 | 
-| 2012-08-16 | 第38期碁聖戦予選 | Suzuki Ayumi | Takemiya Masaki | Lose | W+R | 6.5 | 2539 | -224 | 
-| 2012-07-09 | 第8回大和証券杯ネット囲碁オープン予選 | Suzuki Ayumi | Kobayashi Koichi | Win | B+2.5 | 6.5 | 2763 | 138 | 
-| 2012-05-31 | 第31期女流本因坊戦1回戦 | Mukai Kaori | Suzuki Ayumi | Lose | B+R | 6.5 | 2625 | -304 | 
-| 2012-02-13 | 第19期阿含・桐山杯全日本早碁オープン戦予選 | Suzuki Ayumi |  | Win | B+R | 6.5 | 2929 | 92 | 
-| 2012-01-26 | 第31期女流本因坊戦予選 | Kato Tomoko | Suzuki Ayumi | Win | W+R | 6.5 | 2837 | 115 | 
-| 2012-01-12 | 第24期女流名人戦リーグ | Suzuki Ayumi | Yashiro Kumiko | Win | B+R | 6.5 | 2722 | -109 | 
-| 2011-12-15 | 第24期女流名人戦リーグ | Inori Yoko | Suzuki Ayumi | Win | W+5.5 | 6.5 | 2831 | 392 | 
-| 2011-11-03 | 第24期女流名人戦リーグ | Mannami Nao | Suzuki Ayumi | Lose | B+6.5 | 6.5 | 2439 | 43 | 
-| 2011-09-08 | 第24期女流名人戦リーグ | Yoshida Mika | Suzuki Ayumi | Win | W+R | 6.5 | 2396 | 2 | 
-| 2011-09-01 | 第37期碁聖戦予選 | Suzuki Ayumi | Kobayashi Satoru | Lose | W+R | 6.5 | 2394 | -18 | 
-| 2011-08-18 | 第24期女流名人戦リーグ | Suzuki Ayumi | Mukai Chiaki | Lose | W+5.5 | 6.5 | 2412 | 69 | 
-| 2011-07-28 | 第24期女流名人戦リーグ | Suzuki Ayumi | Okuda Aya | Win | B+R | 6.5 | 2343 | 32 | 
-| 2011-07-14 | 第37期碁聖戦予選 | Kudo Norio | Suzuki Ayumi | Win | W+1.5 | 6.5 | 2311 | -126 | 
-| 2011-06-16 | 第30期女流本因坊戦2回戦 | Chinen Kaori | Suzuki Ayumi | Lose | B+6.5 | 6.5 | 2437 | 6 | 
-| 2011-05-26 | 第30期女流本因坊戦1回戦 | Umezawa Yukari | Suzuki Ayumi | Win | W+R | 6.5 | 2431 | -144 | 
-| 2011-03-10 | 第30期女流本因坊戦予選 | Suzuki Ayumi | Makihata Taeko | Win | B+R | 6.5 | 2575 | 11 | 
-| 2011-03-03 | 第36期棋聖戦予選 | Kono Rin | Suzuki Ayumi | Lose | B+R | 6.5 | 2564 | -21 | 
-| 2011-02-03 | 第36期棋聖戦予選 | Suzuki Ayumi | Takahara Syuji | Win | B+R | 6.5 | 2585 | 90 | 
-| 2011-01-20 | 第23期女流名人戦リーグ | Suzuki Ayumi | Umezawa Yukari | Win | B+R | 6.5 | 2495 | 19 | 
-| 2011-01-14 | 第9回正官庄杯世界女子囲碁最強戦第7戦 | Suzuki Ayumi | Moon Dowon | Lose | W+3.5 | 6.5 | 2476 | 36 | 
-| 2010-12-09 | 第23期女流名人戦リーグ | Suzuki Ayumi | Mannami Nao | Win | B+R | 6.5 | 2440 | 80 | 
-| 2010-11-26 | 2010年アジア競技大会囲碁女子団体戦 | Suzuki Ayumi | Xie Yimin | Lose | W+T | 7.5 | 2360 | -57 | 
-| 2010-11-24 | 2010年アジア競技大会囲碁女子団体戦 | Rui Naiwei | Suzuki Ayumi | Lose | B+R | 7.5 | 2417 | -18 | 
-| 2010-11-23 | 2010年アジア競技大会囲碁女子団体戦 | Suzuki Ayumi | Lee Minjin | Lose | W+R | 7.5 | 2435 | 51 | 
-| 2010-11-11 | 第23期女流名人戦リーグ | Yoshida Mika | Suzuki Ayumi | Win | W+R | 6.5 | 2384 | -39 | 
-| 2010-10-07 | 第23期女流名人戦リーグ | Suzuki Ayumi | Koyama Mitsuru | Win | B+5.5 | 6.5 | 2423 | 83 | 
-| 2010-09-20 | 第14期ドコモ杯女流棋聖戦1回戦 | Suzuki Ayumi | Yoshida Mika | Lose | W+R | 6.5 | 2340 | -57 | 
-| 2010-08-12 | 第23期女流名人戦リーグ | Mukai Chiaki | Suzuki Ayumi | Lose | B+3.5 | 6.5 | 2397 | -32 | 
-| 2010-07-29 | 第23期女流名人戦リーグ | Okuda Aya | Suzuki Ayumi | Lose | B+R | 6.5 | 2429 | -36 | 
-| 2010-06-03 | 第29期女流本因坊戦2回戦 | Suzuki Ayumi | Kobayashi Izumi | Lose | W+5.5 | 6.5 | 2465 | 106 | 
-| 2010-04-22 | 第15回LG杯予選 | Suzuki Ayumi | Heo Yongho | Lose | W+2.5 | 6.5 | 2359 | -2 | 
-| 2010-04-18 | 第15回LG杯予選 | Gu Lingyi | Suzuki Ayumi | Win | W+4.5 | 6.5 | 2361 | -9 | 
-| 2010-03-04 | 第66期本因坊戦予選 | Cho Sonjin | Suzuki Ayumi | Lose | B+R | 6.5 | 2370 | 7 | 
-| 2010-02-25 | 第29期女流本因坊戦予選 | Suzuki Ayumi | Mannami Kana | Win | B+R | 6.5 | 2363 | 83 | 
-| 2010-02-02 | 第8回正官庄杯世界女子囲碁最強戦第12戦 | Park Shiun | Suzuki Ayumi | Lose | B+R | 6.5 | 2280 | -109 | 
-| 2010-01-14 | 第35期新人王戦1回戦 | Shiraishi Yuichi | Suzuki Ayumi | Lose | B+R | 6.5 | 2389 | 14 | 
-| 2010-01-07 | 第22期女流名人戦リーグ | Okuda Aya | Suzuki Ayumi | Lose | B+0.5 | 6.5 | 2375 | -67 | 
-| 2009-12-17 | 第13期ドコモ杯女流棋聖戦挑戦者決定戦 | Suzuki Ayumi | Xie Yimin | Lose | W+R | 6.5 | 2442 | 26 | 
-| 2009-12-03 | 第22期女流名人戦リーグ | Suzuki Ayumi | Umezawa Yukari | Win | B+3.5 | 6.5 | 2416 | -151 | 
-| 2009-11-26 | 第22期女流名人戦リーグ | Yoshida Mika | Suzuki Ayumi | Lose | B+R | 6.5 | 2567 | -30 | 
-| 2009-11-04 | 第13期ドコモ杯女流棋聖戦準決勝 | Mukai Chiaki | Suzuki Ayumi | Win | W+6.5 | 6.5 | 2597 | 50 | 
-| 2009-10-19 | 第13期ドコモ杯女流棋聖戦2回戦 | Suzuki Ayumi | Aoki Kikuyo | Win | B+R | 6.5 | 2547 | 19 | 
-| 2009-10-15 | 第22期女流名人戦リーグ | Kato Keiko | Suzuki Ayumi | Win | W+R | 6.5 | 2528 | 20 | 
-| 2009-10-02 | 第13期ドコモ杯女流棋聖戦1回戦 | Mannami Kana | Suzuki Ayumi | Win | W+R | 6.5 | 2508 | -92 | 
-| 2009-09-10 | 第35期棋聖戦予選 | Suzuki Ayumi | Takemiya Masaki | Win | B+4.5 | 6.5 | 2600 | 61 | 
-| 2009-09-03 | 第22期女流名人戦リーグ | Suzuki Ayumi | Mukai Chiaki | Win | B+R | 6.5 | 2539 | 41 | 
-| 2009-07-23 | 第22期女流名人戦リーグ | Suzuki Ayumi | Chinen Kaori | Win | B+0.5 | 6.5 | 2498 | 23 | 
-| 2009-05-28 | 第28期女流本因坊戦2回戦 | Kobayashi Izumi | Suzuki Ayumi | Lose | B+3.5 | 6.5 | 2475 | -47 | 
-| 2009-05-16 | 第3回大和証券杯ネット囲碁レディース2回戦 | Inori Yoko | Suzuki Ayumi | Lose | B+0.5 | 6.5 | 2522 | -8 | 
-| 2009-05-09 | 第3回大和証券杯ネット囲碁レディース1回戦 | Suzuki Ayumi | Cho Chien | Win | B+R | 6.5 | 2530 | 12 | 
-| 2009-05-07 | 第28期女流本因坊戦1回戦 | Umezawa Yukari | Suzuki Ayumi | Win | W+R | 6.5 | 2518 | 50 | 
-| 2009-04-09 | 第36期天元戦予選 | Yoda Norimoto | Suzuki Ayumi | Lose | B+3.5 | 6.5 | 2468 | -8 | 
-| 2009-02-26 | 第34期新人王戦1回戦 | Shida Tatsuya | Suzuki Ayumi | Lose | B+R | 6.5 | 2476 | -6 | 
-| 2009-01-29 | 第65期本因坊戦予選 | Cho Chikun | Suzuki Ayumi | Lose | B+R | 6.5 | 2482 | -54 | 
-| 2009-01-14 | 第7回正官庄杯世界女子囲碁最強戦第8戦 | Suzuki Ayumi | Park Shiun | Lose | W+R | 6.5 | 2536 | -78 | 
-| 2009-01-08 | 第21期女流名人戦リーグ | Umezawa Yukari | Suzuki Ayumi | Win | W+1.5 | 6.5 | 2614 | 140 | 
-| 2008-12-04 | 第21期女流名人戦リーグ | Suzuki Ayumi | Yoshida Mika | Lose | W+R | 6.5 | 2474 | -67 | 
-| 2008-12-01 | 第12期ドコモ杯女流棋聖戦準決勝 | Kato Keiko | Suzuki Ayumi | Lose | B+4.5 | 6.5 | 2541 | 247 | 
-| 2008-11-27 | 第21期女流名人戦リーグ | Kato Keiko | Suzuki Ayumi | Win | W+0.5 | 6.5 | 2294 | 8 | 
-| 2008-11-05 | 第27期女流本因坊戦挑戦手合五番勝負第4局 | Suzuki Ayumi | Xie Yimin | Lose | W+0.5 | 6.5 | 2286 | -24 | 
-| 2008-10-29 | 第27期女流本因坊戦挑戦手合五番勝負第3局 | Xie Yimin | Suzuki Ayumi | Lose | B+1.5 | 6.5 | 2310 | -624 | 
-| 2008-10-23 | 第12期ドコモ杯女流棋聖戦2回戦 | Tanemura Sayuri | Suzuki Ayumi | Win | W+R | 6.5 | 2934 | -2 | 
-| 2008-10-20 | 第21期女流名人戦リーグ | Chinen Kaori | Suzuki Ayumi | Lose | B+2.5 | 6.5 | 2936 | -52 | 
-| 2008-10-15 | 第1回ワールドマインドスポーツゲームズ囲碁女子団体戦 | Tang Yi | Suzuki Ayumi | Win | W+7.5 | 6.5 | 2988 | 13 | 
-| 2008-10-08 | 第27期女流本因坊戦挑戦手合五番勝負第2局 | Suzuki Ayumi | Xie Yimin | Lose | W+R | 6.5 | 2975 | 163 | 
-| 2008-10-01 | 第27期女流本因坊戦挑戦手合五番勝負第1局 | Xie Yimin | Suzuki Ayumi | Win | W+R | 6.5 | 2812 | 43 | 
-| 2008-09-25 | 第12期ドコモ杯女流棋聖戦1回戦 | Suzuki Ayumi | Kobayashi Izumi | Win | B+5.5 | 6.5 | 2769 | 0 | 
-| 2008-09-18 | 第21期女流名人戦リーグ | Suzuki Ayumi | Mukai Chiaki | Win | B+2.5 | 6.5 | 2769 | 14 | 
-| 2008-09-04 | 第27期女流本因坊戦挑戦者決定戦 | Okuda Aya | Suzuki Ayumi | Win | W+R | 6.5 | 2755 | 5 | 
-| 2008-08-23 | 第2回大和証券杯ネット囲碁レディース準決勝 | Xie Yimin | Suzuki Ayumi | Lose | B+R | 6.5 | 2750 | 177 | 
-| 2008-07-26 | 第2回大和証券杯ネット囲碁レディース2回戦 | Yashiro Kumiko | Suzuki Ayumi | Win | W+R | 6.5 | 2573 | -1 | 
-| 2008-07-24 | 第21期女流名人戦リーグ | Suzuki Ayumi | Kobayashi Izumi | Win | B+R | 6.5 | 2574 | 31 | 
-| 2008-07-17 | 第27期女流本因坊戦準決勝 | Suzuki Ayumi | Cho Chien | Win | B+R | 6.5 | 2543 | 1 | 
-| 2008-06-12 | 第27期女流本因坊戦2回戦 | Koyama Mitsuru | Suzuki Ayumi | Win | W+2.5 | 6.5 | 2542 | 10 | 
-| 2008-06-07 | 第2回大和証券杯ネット囲碁レディース1回戦 | Kato Tomoko | Suzuki Ayumi | Win | W+4.5 | 6.5 | 2532 | 3 | 
-| 2008-05-26 | 第21期女流名人戦予選 | Suzuki Ayumi | Koyama Mitsuru | Win | B+R | 6.5 | 2529 | 47 | 
-| 2008-05-19 | 第10期東京精密杯女流プロ最強戦1回戦 | Koyama Mitsuru | Suzuki Ayumi | Lose | B+R | 6.5 | 2482 | -51 | 
-| 2008-05-01 | 第33期新人王戦2回戦 | Suzuki Ayumi | Lee Ishu | Lose | W+R | 6.5 | 2533 | -34 | 
-| 2008-04-24 | 第21期女流名人戦予選 | Suzuki Ayumi | Inori Yoko | Win | B+0.5 | 6.5 | 2567 | 213 | 
-| 2008-04-17 | 第27期女流本因坊戦1回戦 | Hara Sachiko | Suzuki Ayumi | Win | W+R | 6.5 | 2354 | 58 | 
-| 2008-02-07 | 第27期女流本因坊戦予選 | Suzuki Ayumi | Shinkai Hiroko | Win | B+R | 6.5 | 2296 | -13 | 
-| 2008-01-31 | 第33期新人王戦1回戦 | Hoshikawa Takumi | Suzuki Ayumi | Win | W+0.5 | 6.5 | 2309 | -23 | 
-| 2007-12-10 | 第27期女流本因坊戦予選 | Suzuki Ayumi | Mukai Kozue | Win | B+6.5 | 6.5 | 2332 | -7 | 
-| 2007-11-26 | 第9期東京精密杯女流プロ最強戦決勝 | Aoki Kikuyo | Suzuki Ayumi | Win | W+1.5 | 6.5 | 2339 | 20 | 
-| 2007-10-11 | 第47期十段戦予選 | Suzuki Ayumi | Otake Hideo | Win | B+R | 6.5 | 2319 | -12 | 
-| 2007-10-04 | 第20期女流名人戦敗者復活戦3回戦 | Mukai Chiaki | Suzuki Ayumi | Lose | B+R | 6.5 | 2331 | -67 | 
-| 2007-09-27 | 第9期東京精密杯女流プロ最強戦準決勝 | Suzuki Ayumi | Chinen Kaori | Win | B+R | 6.5 | 2398 | -59 | 
-| 2007-08-30 | 第20期女流名人戦敗者復活戦2回戦 | Suzuki Ayumi | Yoshida Mika | Win | B+1.5 | 6.5 | 2457 | -292 | 
-| 2007-08-09 | 第20期女流名人戦敗者復活戦1回戦 | Suzuki Ayumi | Konishi Kazuko | Win | B+11.5 | 6.5 | 2749 | -42 | 
-| 2007-07-30 | 第12回三星火災杯予選2回戦 | Rui Naiwei | Suzuki Ayumi | Win | W+0.5 | 6.5 | 2791 | 161 | 
-| 2007-07-12 | 第9期東京精密杯女流プロ最強戦3回戦 | Yashiro Kumiko | Suzuki Ayumi | Win | W+R | 6.5 | 2630 | -5 | 
-| 2007-07-05 | 第20期女流名人戦1回戦 | Mukai Kaori | Suzuki Ayumi | Lose | B+R | 6.5 | 2635 | -97 | 
-| 2007-06-18 | 第9期東京精密杯女流プロ最強戦2回戦 | Suzuki Ayumi | Konishi Kazuko | Win | B+1.5 | 6.5 | 2732 | 187 | 
-| 2007-06-07 | 第32期新人王戦3回戦 | Suzuki Ayumi | Mochizuki Kenichi | Lose | W+R | 6.5 | 2545 | 30 | 
-| 2007-05-17 | 第32期新人王戦2回戦 | Mannami Nao | Suzuki Ayumi | Win | W+4.5 | 6.5 | 2515 | -6 | 
-| 2007-05-12 | 第1回大和証券杯ネット囲碁レディース1回戦 | Umezawa Yukari | Suzuki Ayumi | Lose | B+R | 6.5 | 2521 | -30 | 
-| 2007-05-10 | 第20期女流名人戦予選 | Aoba Kaori | Suzuki Ayumi | Win | W+R | 6.5 | 2551 | -50 | 
-| 2007-05-07 | 第9期東京精密杯女流プロ最強戦1回戦 | Aoba Kaori | Suzuki Ayumi | Win | W+R | 6.5 | 2601 | 108 | 
-| 2007-04-17 | 第1回大和証券杯ネット囲碁レディース予選 | Mukai Kaori | Suzuki Ayumi | Win | W+R | 6.5 | 2493 | 365 | 
-| 2007-02-08 | 第32期新人王戦1回戦 | Fujii Shuya | Suzuki Ayumi | Win | W+1.5 | 6.5 | 2128 | 4 | 
-| 2007-01-18 | 第63期本因坊戦予選 | Suzuki Ayumi | Takemiya Masaki | Win | B+R | 6.5 | 2124 | 154 | 
-| 2006-11-23 | 第26期女流本因坊戦予選 | Shinkai Hiroko | Suzuki Ayumi | Lose | B+R | 6.5 | 1970 | -347 | 
-| 2006-06-08 | 第8期東京精密杯女流プロ最強戦2回戦 | Suzuki Ayumi | Izawa Akino | Lose | W+5.5 | 6.5 | 2317 | 129 | 
-| 2006-05-18 | 第32期名人戦予選 | Suzuki Ayumi | Rin Kaiho | Lose | W+4.5 | 6.5 | 2188 | -8 | 
-| 2006-05-08 | 第8期東京精密杯女流プロ最強戦1回戦 | Suzuki Ayumi | Abe Yumiko | Win | B+R | 6.5 | 2196 | -3 | 
-| 2006-04-20 | 第31期新人王戦2回戦 | Tsuruyama Atsushi | Suzuki Ayumi | Lose | B+R | 6.5 | 2199 | -27 | 
-| 2006-02-06 | 第31期新人王戦1回戦 | Ko Reibun | Suzuki Ayumi | Win | W+4.5 | 6.5 | 2226 | -159 | 
-| 2005-12-12 | 第31期新人王戦予選 | Suzuki Ayumi | Tamai Shin | Win | B+R | 6.5 | 2385 | 4187 | 
-| 2005-10-06 | 第9期ドコモ杯女流棋聖戦1回戦 | Koyama Mitsuru | Suzuki Ayumi | Lose | B+R | 6.5 | -1802 | 7922 | 
-| 2005-06-30 | 第24期女流本因坊戦準決勝 | Suzuki Ayumi | Yashiro Kumiko | Lose | W+R | 6.5 | -9724 | -1934 | 
-| 2005-04-07 | 第30期新人王戦2回戦 | Iyama Yuta | Suzuki Ayumi | Lose | B+R | 6.5 | -7790 | -9712 | 
-| 2005-01-13 | 第30期新人王戦1回戦 | Ohashi Hirofumi | Suzuki Ayumi | Win | W+R | 6.5 | 1922 | -201 | 
-| 2004-12-21 | 第3回正官庄杯世界女子囲碁最強戦第7戦 | Suzuki Ayumi | Ye Gui | Lose | W+R | 6.5 | 2123 | -15 | 
-| 2004-11-25 | 第8期ドコモ杯女流棋聖戦2回戦 | Chinen Kaori | Suzuki Ayumi | Lose | B+8.5 | 6.5 | 2138 | -78 | 
-| 2004-10-14 | 第8期ドコモ杯女流棋聖戦1回戦 | Ashida Isoko | Suzuki Ayumi | Win | W+R | 6.5 | 2216 | 35 | 
-| 2004-10-09 | 第2期JAL女流早碁2回戦 | Osawa Narumi | Suzuki Ayumi | Lose | B+4.5 | 6.5 | 2181 | -108 | 
-| 2004-09-09 | 第6期東京精密杯女流プロ最強戦2回戦 | Shinkai Hiroko | Suzuki Ayumi | Lose | B+2.5 | 6.5 | 2289 | 147 | 
-| 2004-07-08 | 第17期女流名人戦敗者復活戦1回戦 | Inori Yoko | Suzuki Ayumi | Lose | B+R | 6.5 | 2142 | -31 | 
-| 2004-06-10 | 第17期女流名人戦1回戦 | Yashiro Kumiko | Suzuki Ayumi | Lose | B+R | 6.5 | 2173 | -138 | 
-| 2004-05-06 | 第6期東京精密杯女流プロ最強戦1回戦 | Aoba Kaori | Suzuki Ayumi | Win | W+R | 6.5 | 2311 | 9268 | 
-| 2003-12-22 | 第5期東京精密杯女流プロ最強戦決勝 | Suzuki Ayumi | Ikeda Ayako | Win | B+11.5 | 6.5 | -6957 | 9130 | 
-| 2003-09-17 | 第5期東京精密杯女流プロ最強戦3回戦 | Suzuki Ayumi | Aoba Kaori | Win | B+3.5 | 6.5 | -16087 | 181 | 
-| 2003-09-10 | 第16期女流名人戦敗者復活戦2回戦 | Koyama Mitsuru | Suzuki Ayumi | Lose | B+8.5 | 6.5 | -16268 | -16268 | 
-| 2003-07-02 | 第5期東京精密杯女流プロ最強戦2回戦 | Mito Yukari | Suzuki Ayumi | Win | W+R | 6.5 | missing | 0 | 
-| 2003-06-25 | 第16期女流名人戦2回戦 | Suzuki Ayumi | Yashiro Kumiko | Lose | W+10.5 | 6.5 | missing | 0 | 
-| 2003-05-28 | 第16期女流名人戦1回戦 | Ashida Isoko | Suzuki Ayumi | Win | W+R | 6.5 | missing | 0 | 
-| 2003-05-26 | 第5期東京精密杯女流プロ最強戦1回戦 | Kato Keiko | Suzuki Ayumi | Win | W+8.5 | 6.5 | missing | missing |
+| 2022-01-20 | 第25期女流棋聖戦挑戦手合三番勝負第1局 | Ueno Asami | Suzuki Ayumi | Lose | B+
+1.5 | 6.5 | 3030.0 | 15.0 | 
+| 2021-12-06 | 第25期女流棋聖戦挑戦者決定戦 | Suzuki Ayumi |  | Win | B+4.5 | 6.5 | 3015
+.0 | 19.0 | 
+| 2021-12-04 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦 | Suzuki Ayumi | Bai Xinhui | Win |
+ B+R | 6.5 | 2996.0 | 0.0 | 
+| 2021-12-04 | 2021年海峰棋院精鋭隊vs日本棋院精鋭隊交流戦 | Suzuki Ayumi | Lin Yuting | Win |
+ B+R | 6.5 | 2996.0 | 7.0 | 
+| 2021-11-25 | 第25期女流棋聖戦準決勝 | Suzuki Ayumi | Mukai Chiaki | Win | B+R | 6.5
+ | 2989.0 | 63.0 | 
+| 2021-10-21 | 第48期天元戦予選 | Suzuki Ayumi | Cho U | Lose | W+R | 6.5 | 2926.0
+ | -2.0 | 
+| 2021-09-10 | 第6回扇興杯女流最強戦準決勝  | Fujisawa Rina | Suzuki Ayumi | Lose | B+R 
+| 6.5 | 2928.0 | 54.0 | 
+| 2021-07-22 | 第40期女流本因坊戦準決勝  | Suzuki Ayumi | Hoshiai Shiho | Lose | W+0.5
+ | 6.5 | 2874.0 | -16.0 | 
+| 2021-07-19 | 第4回呉清源杯世界女子囲碁選手権2回戦 | Suzuki Ayumi | Wang Chenxing | Lose | 
+W+R | 7.5 | 2890.0 | -22.0 | 
+| 2021-07-18 | 第4回呉清源杯世界女子囲碁選手権1回戦 | Feng Yun | Suzuki Ayumi | Win | W+R | 
+7.5 | 2912.0 | 106.0 | 
+| 2021-06-21 | 第6回扇興杯女流最強戦1回戦 | Suzuki Ayumi | Nishiyama Shizuka | Win | B+
+R | 6.5 | 2806.0 | 19.0 | 
+| 2021-06-17 | 第40期女流本因坊戦3回戦 | Suzuki Ayumi | Mukai Chiaki | Win | B+R | 6.
+5 | 2787.0 | 6.0 | 
+| 2021-06-10 | 第77期本因坊戦予選 | Suzuki Ayumi | Numadate Sakiya | Win | B+R | 6.
+5 | 2781.0 | 108.0 | 
+| 2021-04-19 | 第8期会津中央病院・女流立葵杯1回戦 | Suzuki Ayumi | Nyu Eiko | Lose | W+2.5 
+| 6.5 | 2673.0 | -43.0 | 
+| 2021-03-25 | 第69期王座戦予選 | Tsuruta Kazushi | Suzuki Ayumi | Lose | B+R | 6.
+5 | 2716.0 | 9.0 | 
+| 2021-03-15 | 第32期博多・カマチ杯女流名人戦リーグ挑戦者決定プレーオフ  | Ueno Asami | Suzuki Ayumi |
+ Lose | B+R | 6.5 | 2707.0 | -38.0 | 
+| 2021-03-04 | 第32期博多・カマチ杯女流名人戦リーグ  | Xie Yimin | Suzuki Ayumi | Lose | B+1
+.5 | 6.5 | 2745.0 | -47.0 | 
+| 2021-03-01 | 第32期博多・カマチ杯女流名人戦リーグ |  | Suzuki Ayumi | Win | W+R | 6.5 | 27
+92.0 | -13.0 | 
+| 2021-02-22 | 第32期博多・カマチ杯女流名人戦リーグ  | Suzuki Ayumi | Ueno Asami | Win | B+R
+ | 6.5 | 2805.0 | 41.0 | 
+| 2021-02-18 | 第32期博多・カマチ杯女流名人戦リーグ | Nyu Eiko | Suzuki Ayumi | Win | W+R | 
+6.5 | 2764.0 | 49.0 | 
+| 2021-02-11 | 第69期王座戦予選 | Okuda Aya | Suzuki Ayumi | Win | W+R | 6.5 | 271
+5.0 | 7.0 | 
+| 2021-02-04 | 第32期博多・カマチ杯女流名人戦リーグ | Suzuki Ayumi | Mukai Chiaki | Win | B+
+R | 6.5 | 2708.0 | 50.0 | 
+| 2021-02-01 | 第32期博多・カマチ杯女流名人戦リーグ  | Suzuki Ayumi |  | Win | B+4.5 | 6.5 |
+ 2658.0 | 30.0 | 
+| 2021-01-28 | 第24期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Ueno Asami | Suzuki Ayumi | Lose 
+| B+R | 6.5 | 2628.0 | -15.0 | 
+| 2021-01-21 | 第24期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Suzuki Ayumi | Ueno Asami | Win |
+ B+R | 6.5 | 2643.0 | -135.0 | 
+| 2020-11-09 | 第69期王座戦予選 | Kobayashi Koichi | Suzuki Ayumi | Win | W+4.5 | 
+6.5 | 2778.0 | -43.0 | 
+| 2020-09-28 | 第3回呉清源杯世界女子囲碁選手権2回戦 | Suzuki Ayumi | Yu Zhiying | Lose | W+1
+¼ | 7.5 | 2821.0 | -4.0 | 
+| 2020-09-27 | 第3回呉清源杯世界女子囲碁選手権1回戦 | Suzuki Ayumi |  | Win | B+R | 7.5 | 28
+25.0 | 37.0 | 
+| 2020-09-21 | 第3回SGW杯中庸戦予選 | Ogata Masaki | Suzuki Ayumi | Lose | B+R | 6.
+5 | 2788.0 | -137.0 | 
+| 2020-07-29 | 第7期会津中央病院・女流立葵杯挑戦手合三番勝負第2局  | Fujisawa Rina | Suzuki Ayumi |
+ Lose | B+8.5 | 6.5 | 2925.0 | -7.0 | 
+| 2020-07-27 | 第7期会津中央病院・女流立葵杯挑戦手合三番勝負第1局  | Suzuki Ayumi | Fujisawa Rina |
+ Lose | W+0.5 | 6.5 | 2932.0 | -39.0 | 
+| 2020-06-25 | 第27期阿含・桐山杯早碁オープン戦予選 | Suzuki Ayumi | Terayama Rei | Lose | W
++R | 6.5 | 2971.0 | -36.0 | 
+| 2020-06-21 | 第7期会津中央病院・女流立葵杯挑戦者決定戦  |  | Suzuki Ayumi | Win | W+R | 6.5 |
+ 3007.0 | 12.0 | 
+| 2020-06-20 | 第7期会津中央病院・女流立葵杯準決勝  | Suzuki Ayumi | Xie Yimin | Win | B+0.5
+ | 6.5 | 2995.0 | 63.0 | 
+| 2020-06-04 | 第39期女流本因坊戦2回戦 | Hoshiai Shiho | Suzuki Ayumi | Lose | B+R | 
+6.5 | 2932.0 | -101.0 | 
+| 2020-03-30 | 第7期会津中央病院・女流立葵杯1回戦 | Suzuki Ayumi |  | Win | B+R | 6.5 | 303
+3.0 | -3.0 | 
+| 2020-03-19 | 第46期名人戦予選 | Suzuki Ayumi | Morita Michihiro | Win | B+R | 6.
+5 | 3036.0 | 16.0 | 
+| 2020-02-10 | 第23期ドコモ杯女流棋聖戦挑戦手合三番勝負第3局 | Suzuki Ayumi | Ueno Asami | Win |
+ B+3.5 | 6.5 | 3020.0 | 17.0 | 
+| 2020-02-06 | 第46期碁聖戦予選 | Chino Tadahiko | Suzuki Ayumi | Lose | B+5.5 | 6
+.5 | 3003.0 | -74.0 | 
+| 2020-01-30 | 第76期本因坊戦予選 | Suzuki Ayumi | Cho U | Lose | W+R | 6.5 | 3077.
+0 | -13.0 | 
+| 2020-01-27 | 第23期ドコモ杯女流棋聖戦挑戦手合三番勝負第2局 | Suzuki Ayumi | Ueno Asami | Lose 
+| W+R | 6.5 | 3090.0 | -26.0 | 
+| 2020-01-16 | 第23期ドコモ杯女流棋聖戦挑戦手合三番勝負第1局 | Ueno Asami | Suzuki Ayumi | Win |
+ W+3.5 | 6.5 | 3116.0 | 86.0 | 
+| 2019-12-05 | 第23期ドコモ杯女流棋聖戦挑戦者決定戦 | Nyu Eiko | Suzuki Ayumi | Win | W+R | 
+6.5 | 3030.0 | 53.0 | 
+| 2019-11-11 | 第23期ドコモ杯女流棋聖戦準決勝 | Suzuki Ayumi | Mannami Nao | Win | B+4.5 
+| 6.5 | 2977.0 | 1.0 | 
+| 2019-11-04 | 第2回SGW杯中庸戦4回戦 | Suzuki Ayumi | Ohba Junya | Lose | W+R | 6.5
+ | 2976.0 | 0.0 | 
+| 2019-11-04 | 第2回SGW杯中庸戦3回戦 | Suzuki Ayumi | Ogaki Yusaku | Win | B+R | 6.
+5 | 2976.0 | 16.0 | 
+| 2019-11-03 | 第2回SGW杯中庸戦2回戦 | Suzuki Ayumi | Imamura Yoshiaki | Lose | W+R
+ | 6.5 | 2960.0 | 0.0 | 
+| 2019-11-03 | 第2回SGW杯中庸戦1回戦 | Kanda Ei | Suzuki Ayumi | Win | W+R | 6.5 | 
+2960.0 | -8.0 | 
+| 2019-10-17 | 第23期ドコモ杯女流棋聖戦2回戦 | Fujisawa Rina | Suzuki Ayumi | Win | W+8.
+5 | 6.5 | 2968.0 | 142.0 | 
+| 2019-10-07 | 第23期ドコモ杯女流棋聖戦1回戦 | Suzuki Ayumi |  | Win | B+R | 6.5 | 2826.
+0 | 126.0 | 
+| 2019-09-26 | 第46期天元戦予選 | Awaji Shuzo | Suzuki Ayumi | Lose | B+R | 6.5 | 
+2700.0 | -39.0 | 
+| 2019-09-16 | 第2回SGW杯中庸戦予選決勝 | Suzuki Ayumi | Arimura Hiroshi | Win | B+17
+.5 | 6.5 | 2739.0 | 0.0 | 
+| 2019-09-16 | 第2回SGW杯中庸戦予選 | Iguchi Hideichiro | Suzuki Ayumi | Win | W+R 
+| 6.5 | 2739.0 | 26.0 | 
+| 2019-08-29 | 第38期女流本因坊戦挑戦者決定戦 | Suzuki Ayumi | Ueno Asami | Lose | W+R | 
+6.5 | 2713.0 | -11.0 | 
+| 2019-08-12 | 第38期女流本因坊戦準決勝 | Mukai Chiaki | Suzuki Ayumi | Win | W+1.5 | 
+6.5 | 2724.0 | 97.0 | 
+| 2019-07-08 | 第38期女流本因坊戦3回戦 | Suzuki Ayumi | Okuda Aya | Win | B+R | 6.5 |
+ 2627.0 | -38.0 | 
+| 2019-05-19 | 第6期会津中央病院・女流立葵杯挑戦者決定戦 | Suzuki Ayumi | Ueno Asami | Lose | W
++R | 6.5 | 2665.0 | -12.0 | 
+| 2019-05-18 | 第6期会津中央病院・女流立葵杯準決勝 | Mannami Nao | Suzuki Ayumi | Win | W+R 
+| 6.5 | 2677.0 | 32.0 | 
+| 2019-04-11 | 第38期女流本因坊戦1回戦 | Suzuki Ayumi | Ishii Akane | Win | B+R | 6.5
+ | 2645.0 | 5.0 | 
+| 2019-04-04 | 第6期会津中央病院・女流立葵杯1回戦 | Suzuki Ayumi | Xie Yimin | Win | B+R | 
+6.5 | 2640.0 | 30.0 | 
+| 2018-12-09 | 第1回SGW杯中庸戦4回戦 | Suzuki Ayumi | Akiyama Jiro | Lose | W+R | 6
+.5 | 2610.0 | 0.0 | 
+| 2018-12-09 | 第1回SGW杯中庸戦3回戦 | Mimura Tomoyasu | Suzuki Ayumi | Lose | B+1.
+5 | 6.5 | 2610.0 | -6.0 | 
+| 2018-12-08 | 第1回SGW杯中庸戦2回戦 | Suzuki Ayumi | Tsuruyama Atsushi | Lose | W+
+R | 6.5 | 2616.0 | 0.0 | 
+| 2018-12-08 | 第1回SGW杯中庸戦1回戦 | Yamamori Tadanao | Suzuki Ayumi | Win | W+3.
+5 | 6.5 | 2616.0 | 112.0 | 
+| 2018-12-06 | 第38期女流本因坊戦予選 | Ogawa Tomoko | Suzuki Ayumi | Win | W+R | 6.5
+ | 2504.0 | -74.0 | 
+| 2018-11-13 | 第1回SGW杯中庸戦予選決勝 | Suzuki Ayumi | Wang Jingyi | Win | B+6.5 | 
+6.5 | 2578.0 | 0.0 | 
+| 2018-11-13 | 第1回SGW杯中庸戦予選2回戦 | Mochizuki Kenichi | Suzuki Ayumi | Win | W
++5.5 | 6.5 | 2578.0 | 146.0 | 
+| 2018-10-11 | 第45期天元戦予選 | Suzuki Ayumi | Kim Sujun | Lose | W+R | 6.5 | 24
+32.0 | -15.0 | 
+| 2018-10-04 | 第22期ドコモ杯女流棋聖戦1回戦 | Hoshiai Shiho | Suzuki Ayumi | Lose | B+1
+9.5 | 6.5 | 2447.0 | -381.0 | 
+| 2018-07-19 | 第37期女流本因坊戦3回戦 | Suzuki Ayumi | Wang Jingyi | Lose | W+0.5 | 
+6.5 | 2828.0 | 87.0 | 
+| 2018-05-31 | 第74期本因坊戦予選 | Suzuki Ayumi | O Meien | Lose | W+R | 6.5 | 274
+1.0 | -18.0 | 
+| 2018-05-28 | 第37期女流本因坊戦2回戦 | Kibe Natsuki | Suzuki Ayumi | Win | W+R | 6.
+5 | 2759.0 | 6.0 | 
+| 2018-04-23 | 第37期女流本因坊戦1回戦 | Suzuki Ayumi | Arai Miyu | Win | B+R | 6.5 |
+ 2753.0 | -50.0 | 
+| 2017-12-14 | 第44期天元戦1回戦 | Suzuki Ayumi | Hikosaka Naoto | Lose | W+R | 6.
+5 | 2803.0 | 35.0 | 
+| 2017-11-20 | 第21期ドコモ杯女流棋聖戦準決勝 | Okuda Aya | Suzuki Ayumi | Lose | B+R | 6
+.5 | 2768.0 | -47.0 | 
+| 2017-11-16 | 第44期天元戦予選 | Ryu Shikun | Suzuki Ayumi | Win | W+R | 6.5 | 28
+15.0 | 173.0 | 
+| 2017-11-09 | 第30期女流名人戦2回戦 | Suzuki Ayumi | Okuda Aya | Lose | W+R | 6.5 |
+ 2642.0 | -55.0 | 
+| 2017-10-30 | 第21期ドコモ杯女流棋聖戦2回戦 | Kim Hyun Jung | Suzuki Ayumi | Win | W+R 
+| 6.5 | 2697.0 | 174.0 | 
+| 2017-10-19 | 第43期天元戦予選 | Suzuki Ayumi | Michael Redmond | Win | B+R | 6.5
+ | 2523.0 | 45.0 | 
+| 2017-10-16 | 第30期女流名人戦1回戦 | Ishii Akane | Suzuki Ayumi | Win | W+R | 6.5 
+| 2478.0 | 1.0 | 
+| 2017-10-02 | 第21期ドコモ杯女流棋聖戦1回戦 | Suzuki Ayumi | Yoshida Mika | Win | B+R |
+ 6.5 | 2477.0 | -28.0 | 
+| 2017-06-15 | 第36期女流本因坊戦3回戦 | Suzuki Ayumi | Umezawa Yukari | Lose | W+R |
+ 6.5 | 2505.0 | -212.0 | 
+| 2017-04-06 | 第2回扇興杯女流囲碁最強戦　本戦2回戦 | Fujisawa Rina | Suzuki Ayumi | Lose | 
+B+R | 6.5 | 2717.0 | 12.0 | 
+| 2017-03-30 | 第36期女流本因坊戦2回戦 | Suzuki Ayumi | Konishi Kazuko | Win | B+4.5 
+| 6.5 | 2705.0 | -70.0 | 
+| 2017-03-15 | 第2回扇興杯女流囲碁最強戦　本戦1回戦 | Izawa Akino | Suzuki Ayumi | Win | W+R
+ | 6.5 | 2775.0 | 111.0 | 
+| 2017-01-12 | 第29期女流名人戦リーグ | Okuda Aya | Suzuki Ayumi | Win | W+R | 6.5 | 
+2664.0 | 44.0 | 
+| 2016-12-22 | 第29期女流名人戦リーグ | Sakakibara Fumiko | Suzuki Ayumi | Win | W+R 
+| 6.5 | 2620.0 | 48.0 | 
+| 2016-12-01 | 第20期ドコモ杯女流棋聖戦準決勝 | Nyu Eiko | Suzuki Ayumi | Lose | B+6.5 | 
+6.5 | 2572.0 | -6.0 | 
+| 2016-11-10 | 第29期女流名人戦リーグ | Ishii Akane | Suzuki Ayumi | Win | W+R | 6.5 
+| 2578.0 | -47.0 | 
+| 2016-11-03 | 第20期ドコモ杯女流棋聖戦2回戦 | Suzuki Ayumi | Osawa Narumi | Win | B+11.
+5 | 6.5 | 2625.0 | -52.0 | 
+| 2016-10-27 | 第29期女流名人戦リーグ | Suzuki Ayumi | Kato Keiko | Lose | W+R | 6.5 
+| 2677.0 | -127.0 | 
+| 2016-09-29 | 第20期ドコモ杯女流棋聖戦1回戦 | Suzuki Ayumi | Yashiro Kumiko | Win | B+9
+.5 | 6.5 | 2804.0 | 172.0 | 
+| 2016-08-25 | 第29期女流名人戦リーグ | Suzuki Ayumi | Fujisawa Rina | Lose | W+R | 6
+.5 | 2632.0 | 39.0 | 
+| 2016-08-08 | 第35期女流本因坊戦挑戦者決定戦 | Suzuki Ayumi | Fujisawa Rina | Lose | W+R
+ | 6.5 | 2593.0 | -36.0 | 
+| 2016-07-21 | 第35期女流本因坊戦準決勝 | Suzuki Ayumi | Tanemura Sayuri | Win | B+19.
+5 | 6.5 | 2629.0 | 47.0 | 
+| 2016-06-09 | 第35期女流本因坊戦3回戦 | Mukai Kozue | Suzuki Ayumi | Win | W+R | 6.5
+ | 2582.0 | 51.0 | 
+| 2016-05-22 | 第3回会津中央病院杯・女流囲碁トーナメント戦準決勝 | Xie Yimin | Suzuki Ayumi | Lose 
+| B+R | 6.5 | 2531.0 | -20.0 | 
+| 2016-05-21 | 第3回会津中央病院杯・女流囲碁トーナメント戦1回戦 | Suzuki Ayumi | Kaneko Maki | Win
+ | B+R | 6.5 | 2551.0 | -184.0 | 
+| 2016-04-21 | 第35期女流本因坊戦2回戦 | Wang Jingyi | Suzuki Ayumi | Win | W+R | 6.5
+ | 2735.0 | 46.0 | 
+| 2016-03-24 | 第35期女流本因坊戦1回戦 | Cho Chien | Suzuki Ayumi | Win | W+R | 6.5 |
+ 2689.0 | 9.0 | 
+| 2016-02-18 | 第35期女流本因坊戦予選 | Kusunoki Teruko | Suzuki Ayumi | Win | W+R | 
+6.5 | 2680.0 | -26.0 | 
+| 2016-01-07 | 第28期女流名人戦リーグ | Suzuki Ayumi | Mannami Nao | Win | B+2.5 | 6.
+5 | 2706.0 | 51.0 | 
+| 2015-12-07 | 第28期女流名人戦リーグ | Suzuki Ayumi | Fujisawa Rina | Lose | W+R | 6
+.5 | 2655.0 | -45.0 | 
+| 2015-11-19 | 第28期女流名人戦リーグ | Aoki Kikuyo | Suzuki Ayumi | Lose | B+1.5 | 6
+.5 | 2700.0 | 55.0 | 
+| 2015-10-08 | 第28期女流名人戦リーグ | Chinen Kaori | Suzuki Ayumi | Win | W+R | 6.5
+ | 2645.0 | -80.0 | 
+| 2015-09-17 | 第28期女流名人戦リーグ | Kato Keiko | Suzuki Ayumi | Lose | B+3.5 | 6.
+5 | 2725.0 | -86.0 | 
+| 2015-09-03 | 第28期女流名人戦リーグ | Suzuki Ayumi | Okuda Aya | Lose | W+5.5 | 6.5
+ | 2811.0 | -22.0 | 
+| 2015-07-02 | 第71期本因坊戦予選 | Suzuki Ayumi | Taniguchi Tooru | Win | B+R | 6.
+5 | 2833.0 | 27.0 | 
+| 2015-06-25 | 第34期女流本因坊戦2回戦 | Shimosaka Miori | Suzuki Ayumi | Lose | B+2.
+5 | 6.5 | 2806.0 | -20.0 | 
+| 2015-06-22 | 第40期棋聖戦Cリーグ | Fujii Shuya | Suzuki Ayumi | Lose | B+R | 6.5 
+| 2826.0 | -1.0 | 
+| 2015-06-06 | 第2回会津中央病院杯・女流囲碁トーナメント戦1回戦 | Suzuki Ayumi | Fujisawa Rina | L
+ose | W+7.5 | 6.5 | 2827.0 | 4.0 | 
+| 2015-05-28 | 第34期女流本因坊戦1回戦 | Suzuki Ayumi | Sugiuchi Kazuko | Win | B+R |
+ 6.5 | 2823.0 | 81.0 | 
+| 2015-05-21 | 第40期棋聖戦Cリーグ | Hikosaka Naoto | Suzuki Ayumi | Win | W+3.5 | 
+6.5 | 2742.0 | -70.0 | 
+| 2015-03-11 | 第27期女流名人戦挑戦手合三番勝負第2局 | Xie Yimin | Suzuki Ayumi | Lose | B+R
+ | 6.5 | 2812.0 | -38.0 | 
+| 2015-03-04 | 第27期女流名人戦挑戦手合三番勝負第1局 | Suzuki Ayumi | Xie Yimin | Lose | W+R
+ | 6.5 | 2850.0 | -34.0 | 
+| 2015-02-26 | 第40期棋聖戦予選 | Kataoka Satoshi | Suzuki Ayumi | Win | W+1.5 | 6
+.5 | 2884.0 | -3.0 | 
+| 2015-01-08 | 第27期女流名人戦リーグ | Suzuki Ayumi | Chinen Kaori | Lose | W+7.5 | 
+6.5 | 2887.0 | -56.0 | 
+| 2014-12-11 | 第27期女流名人戦リーグ | Suzuki Ayumi | Mannami Nao | Win | B+R | 6.5 
+| 2943.0 | 156.0 | 
+| 2014-11-15 | 第9回広島アルミ杯・若鯉戦1回戦 | Suzuki Ayumi | Tsuruta Kazushi | Lose | W
++R | 6.5 | 2787.0 | -38.0 | 
+| 2014-11-13 | 第27期女流名人戦リーグ | Mukai Chiaki | Suzuki Ayumi | Win | W+1.5 | 6
+.5 | 2825.0 | 191.0 | 
+| 2014-09-25 | 第27期女流名人戦リーグ | Suzuki Ayumi | Kato Keiko | Win | B+R | 6.5 |
+ 2634.0 | 43.0 | 
+| 2014-09-11 | 第27期女流名人戦リーグ | Ishii Akane | Suzuki Ayumi | Win | W+R | 6.5 
+| 2591.0 | -3.0 | 
+| 2014-08-28 | 第27期女流名人戦リーグ | Aoki Kikuyo | Suzuki Ayumi | Lose | B+3.5 | 6
+.5 | 2594.0 | -36.0 | 
+| 2014-08-21 | 第41期天元戦予選 | Suzuki Ayumi | Kataoka Satoshi | Lose | W+R | 6.
+5 | 2630.0 | 6.0 | 
+| 2014-07-28 | 第33期女流本因坊戦準決勝 | Fujisawa Rina | Suzuki Ayumi | Lose | B+R | 
+6.5 | 2624.0 | -307.0 | 
+| 2014-05-08 | 第33期女流本因坊戦2回戦 | Suzuki Ayumi | Xie Yimin | Win | B+R | 6.5 |
+ 2931.0 | -31.0 | 
+| 2014-04-07 | 第33期女流本因坊戦1回戦 | Suzuki Ayumi | Yoshida Mika | Win | B+R | 6.
+5 | 2962.0 | -35.0 | 
+| 2014-01-09 | 第26期女流名人戦リーグ | Suzuki Ayumi | Chinen Kaori | Win | B+3.5 | 6
+.5 | 2997.0 | 122.0 | 
+| 2013-12-05 | 第26期女流名人戦リーグ | Mukai Chiaki | Suzuki Ayumi | Lose | B+R | 6.
+5 | 2875.0 | -61.0 | 
+| 2013-10-17 | 第39期碁聖戦予選 | Suzuki Ayumi | Kataoka Satoshi | Lose | W+4.5 | 
+6.5 | 2936.0 | -68.0 | 
+| 2013-10-10 | 第26期女流名人戦リーグ | Kato Keiko | Suzuki Ayumi | Lose | B+2.5 | 6.
+5 | 3004.0 | 126.0 | 
+| 2013-08-29 | 第26期女流名人戦リーグ | Ishii Akane | Suzuki Ayumi | Win | W+R | 6.5 
+| 2878.0 | 77.0 | 
+| 2013-08-08 | 第32期女流本因坊戦準決勝 | Suzuki Ayumi | Mukai Chiaki | Lose | W+R | 6
+.5 | 2801.0 | -13.0 | 
+| 2013-08-01 | 第26期女流名人戦リーグ | Suzuki Ayumi | Yoshida Mika | Win | B+0.5 | 6
+.5 | 2814.0 | 11.0 | 
+| 2013-07-25 | 第26期女流名人戦リーグ | Suzuki Ayumi | Okuda Aya | Win | B+1.5 | 6.5 
+| 2803.0 | 46.0 | 
+| 2013-07-18 | 第32期女流本因坊戦2回戦 | Mukai Kaori | Suzuki Ayumi | Win | W+3.5 | 6
+.5 | 2757.0 | 12.0 | 
+| 2013-05-23 | 第39期碁聖戦予選 | Suzuki Ayumi | Kudo Norio | Win | B+3.5 | 6.5 | 
+2745.0 | 39.0 | 
+| 2013-05-16 | 第32期女流本因坊戦1回戦 | Suzuki Ayumi | Wang Jingyi | Win | B+R | 6.5
+ | 2706.0 | -124.0 | 
+| 2013-01-31 | 第32期女流本因坊戦予選 | Ikeda Ayako | Suzuki Ayumi | Win | W+6.5 | 6.
+5 | 2830.0 | -48.0 | 
+| 2013-01-10 | 第25期女流名人戦リーグ | Suzuki Ayumi | Mukai Chiaki | Win | B+R | 6.5
+ | 2878.0 | 14.0 | 
+| 2012-12-03 | 第25期女流名人戦リーグ | Ishii Akane | Suzuki Ayumi | Win | W+R | 6.5 
+| 2864.0 | 53.0 | 
+| 2012-11-15 | 第69期本因坊戦予選 | Kudo Norio | Suzuki Ayumi | Win | W+4.5 | 6.5 |
+ 2811.0 | 11.0 | 
+| 2012-11-03 | 第8回大和証券杯ネット囲碁オープン1回戦 | Ryu Shikun | Suzuki Ayumi | Lose | B+
+R | 6.5 | 2800.0 | 18.0 | 
+| 2012-10-18 | 第25期女流名人戦リーグ | Yoshida Mika | Suzuki Ayumi | Win | W+4.5 | 6
+.5 | 2782.0 | 129.0 | 
+| 2012-09-20 | 第25期女流名人戦リーグ | Suzuki Ayumi | Okuda Aya | Lose | W+0.5 | 6.5
+ | 2653.0 | missing |
 
 
 

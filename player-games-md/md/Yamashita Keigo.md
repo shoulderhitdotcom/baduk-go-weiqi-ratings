@@ -5,906 +5,836 @@
 
 
 
-| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Yamashita Keigo Ratings⠀⠀⠀⠀⠀⠀⠀⠀⠀                
+               ⡤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⢤                
+          3600 ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸ Yamashita Keigo
+               ⡇⠀⠀⠀⠀⠀⠀⣾⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸                
+               ⡇⠀⠀⠀⠀⠀⢀⡟⡇⢠⣿⣀⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸                
+               ⡇⠀⠀⠀⠀⣶⡿⠀⡇⢸⠸⠙⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸                
+               ⡇⡀⢀⠀⢀⣿⠀⠀⡇⢸⠀⠀⡟⢻⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣰⣦⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸                
+               ⡇⣧⡎⡇⢸⠉⠀⠀⣿⢸⠀⠀⠀⠈⡆⡄⣷⠀⢀⣰⡀⠀⠀⠀⠀⢸⠉⠟⠟⢧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸                
+               ⡇⢸⠃⣇⣼⠀⠀⠀⠹⡇⠀⠀⠀⠀⣷⢷⣿⡀⡞⣿⢇⡆⠀⠀⠀⢸⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸                
+   Rating      ⡇⠘⠀⣿⡟⠀⠀⠀⠀⠃⠀⠀⠀⠀⢹⠘⠹⡿⠀⠏⢸⣇⡀⣤⣄⡇⠀⠀⠀⠀⡇⣇⠀⠀⠀⠀⠀⠀⢀⠀⢀⢸                
+               ⡇⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠀⠀⠀⠀⠀⠸⢸⣷⠏⠻⠃⠀⠀⠀⠀⠟⢿⠀⠀⢀⠀⠀⠀⣼⡆⢸⢸                
+               ⡇⠀⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⠀⣿⠀⠀⢰⠛⡇⣸⢸                
+               ⡇⠀⠀⢿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡄⡏⣧⢀⡜⠀⢣⣿⢸                
+               ⡇⠀⠀⠸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠃⢻⡿⠁⠀⢸⡇⢸                
+               ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡇⠀⠀⠘⠃⢸                
+               ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⢸                
+          3000 ⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸                
+               ⠓⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠒⠚                
+               ⠀2012-09-21⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀2022-01-20⠀                
+               ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Date⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result*
+* | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-01-10 | 第47期名人戦リーグ  | Yamashita Keigo | Hsu Chiayuan | Win | B+R | 6.5 | 3280.0 | 120.0 | 
-| 2021-12-23 | 第48期天元戦予選 | Adachi Toshimasa | Yamashita Keigo | Win | W+R | 6.5 | 3160.0 | 43.0 | 
-| 2021-12-20 | 第47期名人戦リーグ  | Shida Tatsuya | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3117.0 | -57.0 | 
-| 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦  | Yamashita Keigo | Shin Jinseo | Lose | W+R | 6.5 | 3174.0 | 0.0 | 
-| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦  | Yamashita Keigo | Choi Jeong | Win | B+1.5 | 6.5 | 3174.0 | 20.0 | 
-| 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Lee Changho | Yamashita Keigo | Win | W+R | 7.5 | 3154.0 | 44.0 | 
-| 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Chang Hao | Yamashita Keigo | Win | W+¼ | 7.5 | 3110.0 | 7.0 | 
-| 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Yamashita Keigo | Zhao Chenyu | Lose | W+R | 6.5 | 3103.0 | -32.0 | 
-| 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Cho Seungah | Yamashita Keigo | Win | W+R | 6.5 | 3135.0 | -23.0 | 
-| 2021-09-23 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Kono Rin | Lose | W+4.5 | 6.5 | 3158.0 | -49.0 | 
-| 2021-09-02 | 第60期十段戦予選 | Yamashita Keigo | Seto Taiki | Lose | W+4.5 | 6.5 | 3207.0 | 14.0 | 
-| 2021-08-16 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Murakawa Daisuke | Lose | W+R | 6.5 | 3193.0 | -32.0 | 
-| 2021-08-09 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Yamashita Keigo | Murakawa Daisuke | Lose | W+R | 6.5 | 3225.0 | -9.0 | 
-| 2021-08-06 | 第46期名人戦リーグ  | Yamashita Keigo | Ichiriki Ryo | Lose | W+R | 6.5 | 3234.0 | -15.0 | 
-| 2021-07-29 | 第77期本因坊戦予選 | Yamashita Keigo | Ko Iso | Lose | W+R | 6.5 | 3249.0 | 3.0 | 
-| 2021-07-22 | 第47期碁聖戦予選 | Kurotaki Masaki | Yamashita Keigo | Win | W+R | 6.5 | 3246.0 | 11.0 | 
-| 2021-07-15 | 第46期名人戦リーグ | Motoki Katsuya | Yamashita Keigo | Win | W+R | 6.5 | 3235.0 | 18.0 | 
-| 2021-07-08 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Yamashita Keigo | Yu Zhengqi | Win | B+0.5 | 6.5 | 3217.0 | 10.0 | 
-| 2021-07-01 | 第77期本因坊戦予選 | Hirata Tomoya | Yamashita Keigo | Win | W+R | 6.5 | 3207.0 | -31.0 | 
-| 2021-06-17 | 第46期棋聖戦Sリーグ | Takao Shinji | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3238.0 | -1.0 | 
-| 2021-06-10 | 第46期名人戦リーグ  | Yamashita Keigo | Hsu Chiayuan | Lose | W+4.5 | 6.5 | 3239.0 | -8.0 | 
-| 2021-05-27 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Yamashita Keigo | Onishi Kenya | Win | B+6.5 | 6.5 | 3247.0 | 6.0 | 
-| 2021-05-24 | 第46期棋聖戦Sリーグ | Ichiriki Ryo | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3241.0 | -12.0 | 
-| 2021-05-10 | 第46期名人戦リーグ | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3253.0 | 15.0 | 
-| 2021-04-29 | 第77期本因坊戦予選 | Yamashita Keigo | O Rissei | Win | B+2.5 | 6.5 | 3238.0 | -22.0 | 
-| 2021-04-22 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Yu Zhengqi | Lose | W+R | 6.5 | 3260.0 | -23.0 | 
-| 2021-04-19 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Mizokami Tomochika | Yamashita Keigo | Win | W+R | 6.5 | 3283.0 | 17.0 | 
-| 2021-04-05 | 第46期名人戦リーグ | Yamashita Keigo | Anzai Nobuaki | Win | B+2.5 | 6.5 | 3266.0 | -74.0 | 
-| 2021-03-22 | 第77期本因坊戦予選 | Sakai Takeshi | Yamashita Keigo | Win | W+R | 6.5 | 3340.0 | 27.0 | 
-| 2021-03-04 | 第46期名人戦リーグ | Yamashita Keigo | Yu Zhengqi | Lose | W+4.5 | 6.5 | 3313.0 | 4.0 | 
-| 2021-03-01 | 第69期王座戦予選 | Ogaki Yusaku | Yamashita Keigo | Lose | B+R | 6.5 | 3309.0 | -54.0 | 
-| 2021-02-18 | 第46期名人戦リーグ  | Shibano Toramaru | Yamashita Keigo | Win | W+R | 6.5 | 3363.0 | -66.0 | 
-| 2020-12-22 | 2020中日韓聶衛平杯囲碁マスターズ2回戦  | Yamashita Keigo | Lee Changho | Lose | W+R | 7.5 | 3429.0 | -16.0 | 
-| 2020-12-21 | 2020中日韓聶衛平杯囲碁マスターズ1回戦  | Chang Hao | Yamashita Keigo | Lose | B+R | 7.5 | 3445.0 | -4.0 | 
-| 2020-12-17 | 第47期天元戦予選 | Yamashita Keigo | Yoda Norimoto | Win | B+R | 6.5 | 3449.0 | 12.0 | 
-| 2020-12-10 | 第46期名人戦リーグ | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 | 3437.0 | -21.0 | 
-| 2020-12-03 | 第59期十段戦3回戦 | Murakawa Daisuke | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3458.0 | 23.0 | 
-| 2020-10-30 | 第45期棋聖戦挑戦者決定トーナメント | Takao Shinji | Yamashita Keigo | Lose | B+5.5 | 6.5 | 3435.0 | -18.0 | 
-| 2020-10-23 | 第59期十段戦2回戦 | Ichiriki Ryo | Yamashita Keigo | Win | W+R | 6.5 | 3453.0 | 38.0 | 
-| 2020-10-19 | 第45期棋聖戦挑戦者決定トーナメント | Yamashita Keigo | Shibano Toramaru | Win | B+R | 6.5 | 3415.0 | 29.0 | 
-| 2020-10-08 | 第59期十段戦1回戦 | Yamashita Keigo | Sun Zhe | Win | B+4.5 | 6.5 | 3386.0 | -2.0 | 
-| 2020-10-03 | 第27期阿含・桐山杯全日本早碁オープン戦決勝  | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3388.0 | 73.0 | 
-| 2020-09-07 | 第45期棋聖戦Aリーグ | Yu Zhengqi | Yamashita Keigo | Lose | B+R | 6.5 | 3315.0 | 14.0 | 
-| 2020-09-03 | 第68期王座戦準決勝 | Yamashita Keigo | Hsu Chiayuan | Lose | W+R | 6.5 | 3301.0 | -3.0 | 
-| 2020-08-31 | 第27期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Murakawa Daisuke | Win | B+R | 6.5 | 3304.0 | -8.0 | 
-| 2020-08-20 | 第45期棋聖戦Aリーグ | Yamashita Keigo | So Yokoku | Win | B+R | 6.5 | 3312.0 | 37.0 | 
-| 2020-08-17 | 第59期十段戦予選 | Yamashita Keigo | Hirose Yuichi | Win | B+R | 6.5 | 3275.0 | 3.0 | 
-| 2020-08-13 | 第27期阿含・桐山杯全日本早碁オープン戦2回戦 | Mutsuura Yuta | Yamashita Keigo | Win | W+4.5 | 6.5 | 3272.0 | 124.0 | 
-| 2020-08-06 | 第45期名人戦リーグ | Yamashita Keigo | Hsu Chiayuan | Win | B+R | 6.5 | 3148.0 | 12.0 | 
-| 2020-07-30 | 第68期王座戦2回戦 | Yamashita Keigo | Ohba Junya | Win | B+R | 6.5 | 3136.0 | -3.0 | 
-| 2020-07-27 | 第46期天元戦3回戦 | Ichiriki Ryo | Yamashita Keigo | Lose | B+R | 6.5 | 3139.0 | -1.0 | 
-| 2020-07-23 | 第45期棋聖戦Aリーグ | Yamashita Keigo | Yoda Norimoto | Win | B+3.5 | 6.5 | 3140.0 | 20.0 | 
-| 2020-07-20 | 第27期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho U | Yamashita Keigo | Win | W+R | 6.5 | 3120.0 | -17.0 | 
-| 2020-07-16 | 第76期本因坊戦予選 | Ida Atsushi | Yamashita Keigo | Lose | B+10.5 | 6.5 | 3137.0 | 5.0 | 
-| 2020-07-09 | 第45期名人戦リーグ | Yamashita Keigo | Kono Rin | Lose | W+1.5 | 6.5 | 3132.0 | -23.0 | 
-| 2020-07-03 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Yamashita Keigo | Yamada Kimio | Win | B+R | 6.5 | 3155.0 | 19.0 | 
-| 2020-06-30 | 第45期名人戦リーグ | Murakawa Daisuke | Yamashita Keigo | Win | W+R | 6.5 | 3136.0 | 21.0 | 
-| 2020-06-25 | 第68期王座戦1回戦 | Sun Zhe | Yamashita Keigo | Win | W+R | 6.5 | 3115.0 | 53.0 | 
-| 2020-06-18 | 第45期棋聖戦Aリーグ | Adachi Toshimasa | Yamashita Keigo | Win | W+R | 6.5 | 3062.0 | 7.0 | 
-| 2020-06-15 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Yamashita Keigo | Takei Takashi | Win | B+R | 6.5 | 3055.0 | -6.0 | 
-| 2020-06-11 | 第46期天元戦2回戦 | Murakawa Daisuke | Yamashita Keigo | Win | W+R | 6.5 | 3061.0 | 16.0 | 
-| 2020-06-08 | 第45期名人戦リーグ | Cho U | Yamashita Keigo | Win | W+11.5 | 6.5 | 3045.0 | 142.0 | 
-| 2020-04-03 | 第75期本因坊戦リーグ  | Hane Naoki | Yamashita Keigo | Lose | B+6.5 | 6.5 | 2903.0 | -27.0 | 
-| 2020-03-26 | 第45期棋聖戦Aリーグ | Motoki Katsuya | Yamashita Keigo | Win | W+R | 6.5 | 2930.0 | 13.0 | 
-| 2020-03-23 | 第75期本因坊戦リーグ | Yamashita Keigo | Shibano Toramaru | Lose | W+0.5 | 6.5 | 2917.0 | 7.0 | 
-| 2020-03-19 | 第68期王座戦予選 | Yamashita Keigo | Kim Sujun | Win | B+R | 6.5 | 2910.0 | 0.0 | 
-| 2020-03-12 | 第45期棋聖戦Aリーグ | Yamashita Keigo | Onishi Ryuhei | Lose | W+R | 6.5 | 2910.0 | -34.0 | 
-| 2020-03-05 | 第45期名人戦リーグ | Yamashita Keigo | Rin Kanketsu | Lose | W+R | 6.5 | 2944.0 | -10.0 | 
-| 2020-02-20 | 第75期本因坊戦リーグ | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 | 2954.0 | -145.0 | 
-| 2020-02-13 | 第45期名人戦リーグ | Ichiriki Ryo | Yamashita Keigo | Lose | B+R | 6.5 | 3099.0 | -90.0 | 
-| 2020-02-06 | 第46期天元戦1回戦 | Fujita Akihiko | Yamashita Keigo | Win | W+R | 6.5 | 3189.0 | 16.0 | 
-| 2020-01-30 | 第45期棋聖戦Aリーグ | Yamashita Keigo | Shida Tatsuya | Win | B+R | 6.5 | 3173.0 | -6.0 | 
-| 2020-01-23 | 第75期本因坊戦リーグ | Yokotsuka Riki | Yamashita Keigo | Lose | B+10.5 | 6.5 | 3179.0 | -11.0 | 
-| 2020-01-16 | 第45期名人戦リーグ | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3190.0 | 281.0 | 
-| 2019-12-12 | 第45期名人戦リーグ | Yamashita Keigo | Hane Naoki | Lose | W+2.5 | 6.5 | 2909.0 | -30.0 | 
-| 2019-12-05 | 第75期本因坊戦リーグ | Ichiriki Ryo | Yamashita Keigo | Lose | B+0.5 | 6.5 | 2939.0 | -20.0 | 
-| 2019-11-11 | 第46期天元戦予選 | Yamashita Keigo | Ueno Asami | Win | B+R | 6.5 | 2959.0 | -13.0 | 
-| 2019-11-07 | 第75期本因坊戦リーグ | Yamashita Keigo | Hsu Chiayuan | Lose | W+R | 6.5 | 2972.0 | 15.0 | 
-| 2019-10-24 | 第75期本因坊戦リーグ | Yamashita Keigo | Shida Tatsuya | Lose | W+6.5 | 6.5 | 2957.0 | 20.0 | 
-| 2019-10-17 | 第21回農心辛ラーメン杯世界囲碁最強戦第3戦 | Yang Dingxin | Yamashita Keigo | Lose | B+3.5 | 6.5 | 2937.0 | 20.0 | 
-| 2019-10-10 | 第58期十段戦2回戦 | Yamashita Keigo | Ko Iso | Lose | W+R | 6.5 | 2917.0 | 9.0 | 
-| 2019-09-19 | 第46期天元戦予選 | Cho Riyu | Yamashita Keigo | Win | W+R | 6.5 | 2908.0 | -14.0 | 
-| 2019-09-05 | 第44期棋聖戦Sリーグ | Murakawa Daisuke | Yamashita Keigo | Win | W+R | 6.5 | 2922.0 | -25.0 | 
-| 2019-08-22 | 第44期棋聖戦Sリーグ | Takao Shinji | Yamashita Keigo | Lose | B+6.5 | 6.5 | 2947.0 | -105.0 | 
-| 2019-08-04 | 第6回国手山脈国際囲碁大会世界プロ最強戦8強戦 | Yamashita Keigo | Chen Yaoye | Lose | W+R | 6.5 | 3052.0 | -4.0 | 
-| 2019-08-03 | 第6回国手山脈国際囲碁大会世界プロ最強戦16強戦 | Yamashita Keigo | Park Junghwan | Win | B+R | 6.5 | 3056.0 | 23.0 | 
-| 2019-08-01 | 第44期名人戦リーグ | Yamashita Keigo | Kono Rin | Lose | W+3.5 | 6.5 | 3033.0 | 20.0 | 
-| 2019-07-15 | 第44期棋聖戦Sリーグ | Yamashita Keigo | Hsu Chiayuan | Lose | W+5.5 | 6.5 | 3013.0 | -25.0 | 
-| 2019-07-11 | 第44期名人戦リーグ | Shibano Toramaru | Yamashita Keigo | Lose | B+R | 6.5 | 3038.0 | -14.0 | 
-| 2019-06-20 | 第26期阿含・桐山杯全日本早碁オープン戦1回戦 | Ohba Junya | Yamashita Keigo | Lose | B+0.5 | 6.5 | 3052.0 | -8.0 | 
-| 2019-06-13 | 第44期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | Win | B+R | 6.5 | 3060.0 | 75.0 | 
-| 2019-05-30 | 第44期棋聖戦Sリーグ | Yamashita Keigo | Kono Rin | Lose | W+1.5 | 6.5 | 2985.0 | 30.0 | 
-| 2019-05-23 | 第67期王座戦1回戦 | Nakano Hironari | Yamashita Keigo | Lose | B+0.5 | 6.5 | 2955.0 | -55.0 | 
-| 2019-05-16 | 第44期名人戦リーグ | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3010.0 | -31.0 | 
-| 2019-05-09 | 第26期阿含・桐山杯全日本早碁オープン戦最終予選 | Yamashita Keigo | Hirata Tomoya | Win | B+0.5 | 6.5 | 3041.0 | 14.0 | 
-| 2019-05-02 | 第44期棋聖戦Sリーグ | Yamashita Keigo | So Yokoku | Win | B+R | 6.5 | 3027.0 | -33.0 | 
-| 2019-04-25 | 第44期名人戦リーグ | Mutsuura Yuta | Yamashita Keigo | Win | W+R | 6.5 | 3060.0 | -23.0 | 
-| 2019-04-18 | 第6回グランドチャンピオン戦2回戦 | Yamashita Keigo | Ida Atsushi | Lose | W+R | 6.5 | 3083.0 | -16.0 | 
-| 2019-04-15 | 第67期王座戦予選決勝 | Rin Shien | Yamashita Keigo | Win | W+R | 6.5 | 3099.0 | 6.0 | 
-| 2019-04-05 | 第74期本因坊戦リーグ | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 3093.0 | 9.0 | 
-| 2019-04-01 | 第44期碁聖戦本戦3回戦 | Yamashita Keigo | Iyama Yuta | Lose | W+5.5 | 6.5 | 3084.0 | 16.0 | 
-| 2019-03-28 | 第44期名人戦リーグ | Suzuki Shinji | Yamashita Keigo | Win | W+3.5 | 6.5 | 3068.0 | 10.0 | 
-| 2019-03-21 | 第74期本因坊戦リーグ | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 | 3058.0 | -8.0 | 
-| 2019-03-15 | 第43期棋聖戦挑戦手合七番勝負第7局 | Yamashita Keigo | Iyama Yuta | Lose | W+6.5 | 6.5 | 3066.0 | 31.0 | 
-| 2019-03-08 | 第43期棋聖戦挑戦手合七番勝負第6局 | Iyama Yuta | Yamashita Keigo | Win | W+R | 6.5 | 3035.0 | 33.0 | 
-| 2019-02-28 | 第43期棋聖戦挑戦手合七番勝負第5局 | Yamashita Keigo | Iyama Yuta | Win | B+6.5 | 6.5 | 3002.0 | -28.0 | 
-| 2019-02-21 | 第74期本因坊戦リーグ | Shibano Toramaru | Yamashita Keigo | Win | W+3.5 | 6.5 | 3030.0 | 6.0 | 
-| 2019-02-14 | 第43期棋聖戦挑戦手合七番勝負第4局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3024.0 | -15.0 | 
-| 2019-02-07 | 第44期名人戦リーグ | Hane Naoki | Yamashita Keigo | Lose | B+0.5 | 6.5 | 3039.0 | -24.0 | 
-| 2019-02-03 | 第43期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3063.0 | -13.0 | 
-| 2019-01-24 | 第44期碁聖戦本戦2回戦 | Sakai Hideyuki | Yamashita Keigo | Win | W+R | 6.5 | 3076.0 | -3.0 | 
-| 2019-01-22 | 第43期棋聖戦挑戦手合七番勝負第2局 | Iyama Yuta | Yamashita Keigo | Win | W+R | 6.5 | 3079.0 | 0.0 | 
-| 2019-01-17 | 第45期天元戦1回戦 | Motoki Katsuya | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3079.0 | -19.0 | 
-| 2019-01-14 | 第67期王座戦予選 | Yamashita Keigo | Numadate Sakiya | Win | B+R | 6.5 | 3098.0 | 6.0 | 
-| 2019-01-11 | 第43期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3092.0 | 9.0 | 
-| 2019-01-07 | 第74期本因坊戦リーグ | Anzai Nobuaki | Yamashita Keigo | Win | W+0.5 | 6.5 | 3083.0 | 2.0 | 
-| 2018-12-27 | 第57期十段戦準決勝 | Yamashita Keigo | Takao Shinji | Lose | W+2.5 | 6.5 | 3081.0 | -12.0 | 
-| 2018-12-19 | 第44期天元戦挑戦手合五番勝負第5局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3093.0 | -26.0 | 
-| 2018-12-13 | 第44期名人戦リーグ | Yamashita Keigo | Sun Zhe | Win | B+R | 6.5 | 3119.0 | -1.0 | 
-| 2018-12-10 | 第44期天元戦挑戦手合五番勝負第4局 | Iyama Yuta | Yamashita Keigo | Win | W+2.5 | 6.5 | 3120.0 | -22.0 | 
-| 2018-12-06 | 第44期碁聖戦本戦1回戦 | Yamashita Keigo | Onishi Ryuhei | Win | B+R | 6.5 | 3142.0 | 7.0 | 
-| 2018-12-02 | 第57期十段戦3回戦 | Yamashita Keigo | Ichiriki Ryo | Win | B+R | 6.5 | 3135.0 | 11.0 | 
-| 2018-11-29 | 第74期本因坊戦リーグ | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 3124.0 | 14.0 | 
-| 2018-11-23 | 第44期天元戦挑戦手合五番勝負第3局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3110.0 | -14.0 | 
-| 2018-11-15 | 第67期王座戦予選 | Yamashita Keigo | Koyama Kuya | Win | B+R | 6.5 | 3124.0 | -2.0 | 
-| 2018-11-08 | 第43期棋聖戦挑戦者決定トーナメント | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 3126.0 | 0.0 | 
-| 2018-11-01 | 第74期本因坊戦リーグ | Yamashita Keigo | Ichiriki Ryo | Lose | W+R | 6.5 | 3126.0 | -12.0 | 
-| 2018-10-29 | 第44期天元戦挑戦手合五番勝負第2局 | Iyama Yuta | Yamashita Keigo | Win | W+0.5 | 6.5 | 3138.0 | 4.0 | 
-| 2018-10-25 | 第57期十段戦2回戦 | Fujii Shuya | Yamashita Keigo | Win | W+R | 6.5 | 3134.0 | 16.0 | 
-| 2018-10-19 | 第44期天元戦挑戦手合五番勝負第1局  | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3118.0 | -10.0 | 
-| 2018-10-11 | 第74期本因坊戦リーグ | Yamashita Keigo | Yu Zhengqi | Lose | W+0.5 | 6.5 | 3128.0 | -6.0 | 
-| 2018-10-04 | 第57期十段戦1回戦 | Tsuruyama Atsushi | Yamashita Keigo | Win | W+0.5 | 6.5 | 3134.0 | -9.0 | 
-| 2018-09-23 | 第1回天府杯世界囲碁選手権A組2回戦 | Gu Zihao | Yamashita Keigo | Lose | B+R | 7.5 | 3143.0 | -12.0 | 
-| 2018-09-21 | 第1回天府杯世界囲碁選手権A組1回戦 | Wang Yuanjun | Yamashita Keigo | Win | W+R | 7.5 | 3155.0 | -19.0 | 
-| 2018-09-06 | 第44期碁聖戦予選 | Yamashita Keigo | Sun Zhe | Win | B+R | 6.5 | 3174.0 | -9.0 | 
-| 2018-09-03 | 第44期天元戦挑戦者決定戦 | Hsu Chiayuan | Yamashita Keigo | Win | W+R | 6.5 | 3183.0 | 36.0 | 
-| 2018-08-16 | 第44期天元戦準決勝 | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 3147.0 | 33.0 | 
-| 2018-08-02 | 第43期名人戦リーグ | Yamashita Keigo | Kono Rin | Lose | W+R | 7.5 | 3114.0 | -13.0 | 
-| 2018-07-24 | 第4回百霊杯世界オープン戦1回戦 | Gu Zihao | Yamashita Keigo | Lose | B+R | 7.5 | 3127.0 | 8.0 | 
-| 2018-07-19 | 第57期十段戦最終予選決勝 | Yamashita Keigo | Adachi Toshimasa | Win | B+R | 6.5 | 3119.0 | 25.0 | 
-| 2018-07-05 | 第43期名人戦リーグ | Takao Shinji | Yamashita Keigo | Win | W+R | 6.5 | 3094.0 | 21.0 | 
-| 2018-07-01 | 第73期本因坊戦挑戦手合七番勝負第五局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3073.0 | -13.0 | 
-| 2018-06-21 | 第44期天元戦3回戦 | Yamashita Keigo | Suzuki Shinji | Win | B+13.5 | 6.5 | 3086.0 | 9.0 | 
-| 2018-06-13 | 第73期本因坊戦挑戦手合七番勝負第四局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3077.0 | 2.0 | 
-| 2018-06-07 | 第43期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | Win | B+R | 6.5 | 3075.0 | 11.0 | 
-| 2018-06-03 | 第73期本因坊戦挑戦手合七番勝負第三局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3064.0 | -31.0 | 
-| 2018-05-24 | 第73期本因坊戦挑戦手合七番勝負第二局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3095.0 | 14.0 | 
-| 2018-05-16 | 第73期本因坊戦挑戦手合七番勝負第一局 | Yamashita Keigo | Iyama Yuta | Win | B+0.5 | 6.5 | 3081.0 | 9.0 | 
-| 2018-05-10 | 第43期棋聖戦Sリーグ | Yamashita Keigo | Kono Rin | Win | B+R | 6.5 | 3072.0 | -4.0 | 
-| 2018-05-03 | 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Yamashita Keigo | Nakano Yasuhiro | Lose | W+5.5 | 6.5 | 3076.0 | 1.0 | 
-| 2018-04-26 | 第44期天元戦2回戦 | Shida Tatsuya | Yamashita Keigo | Win | W+R | 6.5 | 3075.0 | 7.0 | 
-| 2018-04-19 | 第43期棋聖戦Sリーグ | Cho U | Yamashita Keigo | Win | W+R | 6.5 | 3068.0 | -1.0 | 
-| 2018-04-12 | 第43期名人戦リーグ | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 3069.0 | 9.0 | 
-| 2018-04-05 | 第73期本因坊戦リーグ最終節  | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 3060.0 | 12.0 | 
-| 2018-03-29 | 第66期王座戦予選 | Yamashita Keigo | Mutsuura Yuta | Lose | W+R | 6.5 | 3048.0 | -66.0 | 
-| 2018-03-18 | 第2回ワールド碁チャンピオンシップ準決勝  | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3114.0 | -17.0 | 
-| 2018-03-17 | 第2回ワールド碁チャンピオンシップ1回戦  | Wang Yuanjun | Yamashita Keigo | Win | W+R | 6.5 | 3131.0 | -19.0 | 
-| 2018-03-12 | 第5回グランドチャンピオン戦2回戦 | Kobayashi Satoru | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3150.0 | 3.0 | 
-| 2018-03-08 | 第66期王座戦最終予選 | Yamashita Keigo | Yun Chunho | Win | B+R | 6.5 | 3147.0 | -38.0 | 
-| 2018-03-01 | 第43期名人戦リーグ | Yamashita Keigo | Hane Naoki | Lose | W+R | 6.5 | 3185.0 | -11.0 | 
-| 2018-02-26 | 第43期碁聖戦本戦3回戦 | Hsu Chiayuan | Yamashita Keigo | Lose | B+R | 6.5 | 3196.0 | 9.0 | 
-| 2018-02-19 | 第2回ワールド碁チャンピオンシップ代表決定戦決勝 | Yamashita Keigo | Ichiriki Ryo | Win | B+R | 6.5 | 3187.0 | 13.0 | 
-| 2018-02-15 | 第43期名人戦リーグ | Yamashita Keigo | Shibano Toramaru | Lose | W+2.5 | 6.5 | 3174.0 | -12.0 | 
-| 2018-02-05 | 第2回ワールド碁チャンピオンシップ代表決定戦準決勝 | Yamashita Keigo | Motoki Katsuya | Win | B+R | 6.5 | 3186.0 | 22.0 | 
-| 2018-02-01 | 第44期天元戦1回戦 | Ohba Junya | Yamashita Keigo | Win | W+R | 6.5 | 3164.0 | 9.0 | 
-| 2018-01-25 | 第43期名人戦リーグ | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 3155.0 | -16.0 | 
-| 2018-01-11 | 第43期碁聖戦本戦2回戦 | Sada Atsushi | Yamashita Keigo | Win | W+R | 6.5 | 3171.0 | 32.0 | 
-| 2017-12-14 | 第66期王座戦予選 | Komatsu Hideki | Yamashita Keigo | Win | W+R | 6.5 | 3139.0 | 20.0 | 
-| 2017-12-07 | 第43期名人戦リーグ | Yu Zhengqi | Yamashita Keigo | Win | W+R | 6.5 | 3119.0 | 4.0 | 
-| 2017-11-25 | 第19回農心辛ラーメン杯世界囲碁最強戦第6戦 | Yamashita Keigo | Shin Minjun | Lose | W+R | 6.5 | 3115.0 | 5.0 | 
-| 2017-11-20 | 第66期王座戦予選 | Ito Masashi | Yamashita Keigo | Win | W+3.5 | 6.5 | 3110.0 | 5.0 | 
-| 2017-11-09 | 第42期棋聖戦挑戦者決定トーナメント変則三番勝負第一局 | Yamashita Keigo | Ichiriki Ryo | Lose | W+R | 6.5 | 3105.0 | -23.0 | 
-| 2017-10-27 | 第42期棋聖戦挑戦者決定トーナメント | Yamashita Keigo | Motoki Katsuya | Win | B+R | 6.5 | 3128.0 | 0.0 | 
-| 2017-10-27 | 第42期棋聖戦リーグSA組決勝 | Yamashita Keigo | Motoki Katsuya | Win | B+R | 6.5 | 3128.0 | 13.0 | 
-| 2017-10-19 | 第56期十段戦2回戦 | Yamashita Keigo | Murakawa Daisuke | Lose | W+5.5 | 6.5 | 3115.0 | 32.0 | 
-| 2017-09-25 | 第22回三星火災杯世界囲碁マスターズ2回戦 | Yamashita Keigo | Tong Mengcheng | Lose | W+R | 6.5 | 3083.0 | 3.0 | 
-| 2017-09-14 | 第42期棋聖戦　Sリーグ5回戦 | Yamashita Keigo | Murakawa Daisuke | Win | B+2.5 | 6.5 | 3080.0 | 13.0 | 
-| 2017-09-07 | 第22回三星火災杯世界囲碁マスターズ1回戦E3 | Yamashita Keigo | Chen Zijian | Win | B+3.5 | 6.5 | 3067.0 | 24.0 | 
-| 2017-09-06 | 第22回三星火災杯世界囲碁マスターズ1回戦E2 | Yamashita Keigo | Lee Sedol | Lose | W+R | 6.5 | 3043.0 | 3.0 | 
-| 2017-09-05 | 第22回三星火災杯世界囲碁マスターズ1回戦E1 | Yamashita Keigo | Li He | Win | B+R | 6.5 | 3040.0 | 0.0 | 
-| 2017-08-31 | 第43期天元戦　挑戦者決定戦 | Ichiriki Ryo | Yamashita Keigo | Lose | B+4.5 | 6.5 | 3040.0 | 35.0 | 
-| 2017-08-12 | 阪急電鉄納涼囲碁まつり公開対局 | Yoda Norimoto | Yamashita Keigo | Lose | B+R | 6.5 | 3005.0 | -31.0 | 
-| 2017-08-10 | 第42期棋聖戦　Sリーグ4回戦 | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 3036.0 | 4.0 | 
-| 2017-08-03 | 第43期天元戦準決勝 | Hsu Chiayuan | Yamashita Keigo | Win | W+R | 6.5 | 3032.0 | -7.0 | 
-| 2017-07-25 | 第42期碁聖戦挑戦手合五番勝負　第三局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3039.0 | -3.0 | 
-| 2017-07-19 | 第42期碁聖戦挑戦手合五番勝負　第二局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3042.0 | -12.0 | 
-| 2017-07-13 | 第42期名人戦リーグ | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 3054.0 | -1.0 | 
-| 2017-07-06 | 第42期棋聖戦　Sリーグ3回戦 | Yamashita Keigo | Cho U | Lose | W+0.5 | 6.5 | 3055.0 | -64.0 | 
-| 2017-06-22 | 第42期碁聖戦挑戦手合五番勝負　第一局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3119.0 | -24.0 | 
-| 2017-06-19 | 第43期天元戦3回戦 | Yamashita Keigo | Motoki Katsuya | Win | B+R | 6.5 | 3143.0 | 49.0 | 
-| 2017-06-15 | 第42期棋聖戦　Sリーグ2回戦 | Ichiriki Ryo | Yamashita Keigo | Lose | B+R | 6.5 | 3094.0 | 11.0 | 
-| 2017-06-05 | 第42期名人戦リーグ | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3083.0 | -36.0 | 
-| 2017-05-25 | 第24期阿含・桐山杯　最終予選決勝 | Hsu Chiayuan | Yamashita Keigo | Lose | B+0.5 | 6.5 | 3119.0 | -4.0 | 
-| 2017-05-18 | 第42期碁聖戦　挑戦者決定戦 | Yamashita Keigo | Motoki Katsuya | Win | B+R | 6.5 | 3123.0 | 35.0 | 
-| 2017-05-04 | 第42期名人戦リーグ | Yamashita Keigo | Hane Naoki | Lose | W+R | 6.5 | 3088.0 | -34.0 | 
-| 2017-04-27 | 第42期棋聖戦　Sリーグ1回戦 | So Yokoku | Yamashita Keigo | Win | W+R | 6.5 | 3122.0 | 28.0 | 
-| 2017-04-20 | 第43期天元戦　本戦2回戦第7局 | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 3094.0 | -15.0 | 
-| 2017-04-13 | 第42期名人戦リーグ | Cho U | Yamashita Keigo | Win | W+R | 6.5 | 3109.0 | -9.0 | 
-| 2017-04-06 | 第72期本因坊戦　挑戦者決定リーグ最終戦 | Takao Shinji | Yamashita Keigo | Win | W+R | 6.5 | 3118.0 | 2.0 | 
-| 2017-03-27 | 第42期名人戦リーグ | Yamashita Keigo | Kono Rin | Win | B+R | 6.5 | 3116.0 | 162.0 | 
-| 2017-03-18 | 第4回グランドチャンピオン戦　準決勝 | Iyama Yuta | Yamashita Keigo | Win | W+R | 6.5 | 2954.0 | 0.0 | 
-| 2017-03-18 | 第4回グランドチャンピオン戦　決勝 | Ichiriki Ryo | Yamashita Keigo | Lose | B+R | 6.5 | 2954.0 | -12.0 | 
-| 2017-03-16 | 第65期王座戦　最終予選特選譜第7局 | Yamashita Keigo | Shibano Toramaru | Lose | W+4.5 | 6.5 | 2966.0 | -42.0 | 
-| 2017-03-02 | 第72期本因坊戦　挑戦者決定リーグ第22局 | Yuki Satoshi | Yamashita Keigo | Win | W+5.5 | 6.5 | 3008.0 | 9.0 | 
-| 2017-02-20 | 第4回グランドチャンピオン戦　3回戦 | Onishi Ryuhei | Yamashita Keigo | Win | W+R | 6.5 | 2999.0 | 0.0 | 
-| 2017-02-20 | 第4回グランドチャンピオン戦　2回戦 |  | Yamashita Keigo | Win | W+R | 6.5 | 2999.0 | 37.0 | 
-| 2017-02-16 | 第42期名人戦リーグ | Yamashita Keigo | Yu Zhengqi | Win | B+R | 6.5 | 2962.0 | 46.0 | 
-| 2017-02-02 | 第72期本因坊戦　挑戦者決定リーグ第17局 | Yamashita Keigo | Motoki Katsuya | Lose | W+4.5 | 6.5 | 2916.0 | 9.0 | 
-| 2017-01-19 | 第72期本因坊戦　挑戦者決定リーグ第15局 | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 2907.0 | 10.0 | 
-| 2017-01-12 | 第42期名人戦リーグ | Sakai Hideyuki | Yamashita Keigo | Win | W+R | 6.5 | 2897.0 | 7.0 | 
-| 2017-01-09 | 第55期十段戦　準決勝 | Yamashita Keigo | Yu Zhengqi | Lose | W+1.5 | 6.5 | 2890.0 | -10.0 | 
-| 2017-01-07 | 第64回ＮＨＫ杯テレビ囲碁トーナメント3回戦第5局 | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 2900.0 | 5.0 | 
-| 2016-12-22 | 第43期天元戦　本戦1回戦第6局 | Shida Tatsuya | Yamashita Keigo | Win | W+R | 6.5 | 2895.0 | 2.0 | 
-| 2016-12-15 | 第42期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | Lose | W+3.5 | 6.5 | 2893.0 | -43.0 | 
-| 2016-12-08 | 第72期本因坊戦　挑戦者決定リーグ第10局 | Mitani Tetsuya | Yamashita Keigo | Win | W+0.5 | 6.5 | 2936.0 | 16.0 | 
-| 2016-12-01 | 第55期十段戦　準々決勝 | Yamashita Keigo | Takao Shinji | Win | B+R | 6.5 | 2920.0 | -37.0 | 
-| 2016-11-03 | 第72期本因坊戦　挑戦者決定リーグ第5局 | Yamashita Keigo | Ko Iso | Lose | W+R | 6.5 | 2957.0 | 2.0 | 
-| 2016-10-31 | 第41期棋聖戦SA組リーグ戦決勝 | Cho U | Yamashita Keigo | Lose | B+5.5 | 6.5 | 2955.0 | 17.0 | 
-| 2016-10-27 | 第55期十段戦　本戦2回戦 | Hikosaka Naoto | Yamashita Keigo | Win | W+R | 6.5 | 2938.0 | -30.0 | 
-| 2016-10-06 | 第72期本因坊戦　挑戦者決定リーグ第1局 | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 2968.0 | -74.0 | 
-| 2016-08-25 | 第23期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Kono Rin | Lose | W+1.5 | 6.5 | 3042.0 | 17.0 | 
-| 2016-08-22 | 第42期天元戦　準決勝第2局 | Yamashita Keigo | Hsu Chiayuan | Win | B+R | 6.5 | 3025.0 | 9.0 | 
-| 2016-08-18 | 第64期王座戦準決勝 | Yamashita Keigo | Yu Zhengqi | Lose | W+R | 6.5 | 3016.0 | -11.0 | 
-| 2016-08-11 | 第41期棋聖戦Sリーグ | Yamashita Keigo | Takao Shinji | Win | B+R | 6.5 | 3027.0 | 15.0 | 
-| 2016-08-04 | 第41期名人戦リーグ | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3012.0 | -48.0 | 
-| 2016-07-28 | 第55期十段戦予選 | Hong Maleunsaem | Yamashita Keigo | Win | W+R | 6.5 | 3060.0 | -32.0 | 
-| 2016-07-14 | 第64期王座戦2回戦 | Kono Rin | Yamashita Keigo | Win | W+1.5 | 6.5 | 3092.0 | 61.0 | 
-| 2016-07-07 | 第41期棋聖戦Sリーグ | Yoda Norimoto | Yamashita Keigo | Win | W+1.5 | 6.5 | 3031.0 | 13.0 | 
-| 2016-06-30 | 第41期名人戦リーグ | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3018.0 | 9.0 | 
-| 2016-06-23 | 第42期天元戦　準々決勝第2局 | Yamashita Keigo | Fujita Akihiko | Win | B+R | 6.5 | 3009.0 | 13.0 | 
-| 2016-06-16 | 第41期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | Lose | W+4.5 | 6.5 | 2996.0 | -25.0 | 
-| 2016-06-09 | 第41期棋聖戦Sリーグ | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 | 3021.0 | -2.0 | 
-| 2016-06-02 | 第64期王座戦　本戦1回戦第3局 | Adachi Toshimasa | Yamashita Keigo | Win | W+1.5 | 6.5 | 3023.0 | 20.0 | 
-| 2016-05-30 | 第23期阿含・桐山杯全日本早碁オープン戦予選 | Hoshino Masaki | Yamashita Keigo | Win | W+R | 6.5 | 3003.0 | 11.0 | 
-| 2016-05-26 | 第41期棋聖戦Sリーグ | Yamashita Keigo | Murakawa Daisuke | Lose | W+2.5 | 6.5 | 2992.0 | 78.0 | 
-| 2016-05-18 | 第41期碁聖戦挑戦者決定戦 | Yamashita Keigo | Murakawa Daisuke | Lose | W+4.5 | 6.5 | 2914.0 | -72.0 | 
-| 2016-05-12 | 第41期名人戦リーグ | Ko Iso | Yamashita Keigo | Lose | B+1.5 | 6.5 | 2986.0 | -14.0 | 
-| 2016-05-05 | 第41期碁聖戦本戦準決勝 | Yamashita Keigo | Sada Atsushi | Win | B+R | 6.5 | 3000.0 | -17.0 | 
-| 2016-04-28 | 第42期天元戦本戦2回戦 | Yamashita Keigo | Imamura Toshiya | Win | B+R | 6.5 | 3017.0 | 93.0 | 
-| 2016-04-20 | 第8回応氏杯世界選手権1回戦 | Shi Yue | Yamashita Keigo | Lose | B+R | 7.5 | 2924.0 | 8.0 | 
-| 2016-04-14 | 第41期碁聖戦本戦3回戦 | Yamashita Keigo | Yu Zhengqi | Win | B+1.5 | 6.5 | 2916.0 | 44.0 | 
-| 2016-04-07 | 第41期名人戦リーグ | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 2872.0 | -22.0 | 
-| 2016-03-31 | 第71期本因坊戦リーグ | Yamashita Keigo | Yu Zhengqi | Win | B+0.5 | 6.5 | 2894.0 | 18.0 | 
-| 2016-03-24 | 第41期名人戦リーグ | Yamashita Keigo | Uchida Shuhei | Win | B+R | 6.5 | 2876.0 | -1.0 | 
-| 2016-03-17 | 第64期王座戦予選 | Hsu Chiayuan | Yamashita Keigo | Win | W+R | 6.5 | 2877.0 | -18.0 | 
-| 2016-03-03 | 第71期本因坊戦リーグ | Yamashita Keigo | Ida Atsushi | Win | B+3.5 | 6.5 | 2895.0 | 2.0 | 
-| 2016-02-29 | 第64期王座戦予選 | Fujimura Yosuke | Yamashita Keigo | Win | W+R | 6.5 | 2893.0 | -36.0 | 
-| 2016-02-18 | 第40期棋聖戦挑戦手合七番勝負第4局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 2929.0 | -24.0 | 
-| 2016-02-11 | 第71期本因坊戦リーグ | Takao Shinji | Yamashita Keigo | Lose | B+7.5 | 6.5 | 2953.0 | -25.0 | 
-| 2016-02-08 | 第41期名人戦リーグ | Hirata Tomoya | Yamashita Keigo | Win | W+3.5 | 6.5 | 2978.0 | 3.0 | 
-| 2016-02-02 | 第40期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 2975.0 | -23.0 | 
-| 2016-01-29 | 第40期棋聖戦挑戦手合七番勝負第2局 | Iyama Yuta | Yamashita Keigo | Lose | B+2.5 | 6.5 | 2998.0 | -23.0 | 
-| 2016-01-21 | 第41期碁聖戦本戦2回戦 | Hsu Chiayuan | Yamashita Keigo | Win | W+1.5 | 6.5 | 3021.0 | 0.0 | 
-| 2016-01-15 | 第40期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3021.0 | 3.0 | 
-| 2016-01-07 | 第71期本因坊戦リーグ | Ichiriki Ryo | Yamashita Keigo | Lose | B+4.5 | 6.5 | 3018.0 | 1.0 | 
-| 2015-12-24 | 第42期天元戦本戦1回戦 | Muramatsu Hiroki | Yamashita Keigo | Win | W+R | 6.5 | 3017.0 | 14.0 | 
-| 2015-12-17 | 第71期本因坊戦リーグ | Cho U | Yamashita Keigo | Win | W+R | 6.5 | 3003.0 | 13.0 | 
-| 2015-12-10 | 第64期王座戦予選 | Yamashita Keigo | Lee Ishu | Win | B+R | 6.5 | 2990.0 | 27.0 | 
-| 2015-12-03 | 第41期名人戦リーグ | Yamashita Keigo | Takao Shinji | Lose | W+R | 6.5 | 2963.0 | -13.0 | 
-| 2015-11-26 | 第71期本因坊戦リーグ | Yamashita Keigo | Motoki Katsuya | Lose | W+1.5 | 6.5 | 2976.0 | 8.0 | 
-| 2015-11-09 | 第40期棋聖戦挑戦者決定トーナメント | Murakawa Daisuke | Yamashita Keigo | Win | W+R | 6.5 | 2968.0 | 6.0 | 
-| 2015-10-29 | 第54期十段戦2回戦 | Yamashita Keigo | Yu Zhengqi | Lose | W+1.5 | 6.5 | 2962.0 | -13.0 | 
-| 2015-10-22 | 第64期王座戦予選 | Yamashita Keigo | Hirata Tomoya | Win | B+R | 6.5 | 2975.0 | 3.0 | 
-| 2015-10-08 | 第54期十段戦1回戦 | Yoda Norimoto | Yamashita Keigo | Win | W+R | 6.5 | 2972.0 | -10.0 | 
-| 2015-10-01 | 第71期本因坊戦リーグ | Yamashita Keigo | Kono Rin | Win | B+R | 6.5 | 2982.0 | -21.0 | 
-| 2015-09-10 | 第54期十段戦予選 | Yamashita Keigo | O Rissei | Win | B+R | 6.5 | 3003.0 | -2.0 | 
-| 2015-09-03 | 第40期棋聖戦Sリーグ | Yoda Norimoto | Yamashita Keigo | Win | W+2.5 | 6.5 | 3005.0 | -49.0 | 
-| 2015-08-24 | 第41期天元戦本戦準決勝 | Yamashita Keigo | Yuki Satoshi | Lose | W+1.5 | 6.5 | 3054.0 | -24.0 | 
-| 2015-08-13 | 第40期棋聖戦Sリーグ | Yamashita Keigo | Takao Shinji | Win | B+2.5 | 6.5 | 3078.0 | 0.0 | 
-| 2015-08-07 | 第40期碁聖戦挑戦手合五番勝負第4局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3078.0 | 12.0 | 
-| 2015-08-03 | 第40期名人戦挑戦者決定プレーオフ | Yamashita Keigo | Takao Shinji | Lose | W+5.5 | 6.5 | 3066.0 | -8.0 | 
-| 2015-07-30 | 第40期名人戦リーグ | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 3074.0 | 5.0 | 
-| 2015-07-27 | 第40期碁聖戦挑戦手合五番勝負第3局 | Iyama Yuta | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3069.0 | -19.0 | 
-| 2015-07-23 | 第40期棋聖戦Sリーグ | Murakawa Daisuke | Yamashita Keigo | Win | W+R | 6.5 | 3088.0 | 9.0 | 
-| 2015-07-20 | 第40期碁聖戦挑戦手合五番勝負第2局 | Yamashita Keigo | Iyama Yuta | Win | B+R | 6.5 | 3079.0 | -4.0 | 
-| 2015-07-16 | 第54期十段戦予選 | Han Zenki | Yamashita Keigo | Win | W+R | 6.5 | 3083.0 | 19.0 | 
-| 2015-07-13 | 第41期天元戦本戦3回戦 | Yamashita Keigo | Kono Rin | Win | B+R | 6.5 | 3064.0 | -33.0 | 
-| 2015-07-03 | 第40期名人戦リーグ | Yamashita Keigo | So Yokoku | Win | B+R | 6.5 | 3097.0 | -6.0 | 
-| 2015-06-30 | 第70期本因坊戦挑戦手合七番勝負第5局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3103.0 | -29.0 | 
-| 2015-06-26 | 第40期碁聖戦挑戦手合五番勝負第1局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3132.0 | -87.0 | 
-| 2015-06-22 | 第22期阿含・桐山杯全日本早碁オープン戦予選 | Cho Riyu | Yamashita Keigo | Lose | B+R | 6.5 | 3219.0 | -43.0 | 
-| 2015-06-17 | 第70期本因坊戦挑戦手合七番勝負第4局 | Iyama Yuta | Yamashita Keigo | Win | W+R | 6.5 | 3262.0 | 2.0 | 
-| 2015-06-11 | 第40期棋聖戦Sリーグ | Kobayashi Satoru | Yamashita Keigo | Win | W+R | 6.5 | 3260.0 | 65.0 | 
-| 2015-06-04 | 第70期本因坊戦挑戦手合七番勝負第3局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3195.0 | -32.0 | 
-| 2015-05-29 | 第40期名人戦リーグ | Yamashita Keigo | Hane Naoki | Win | B+0.5 | 6.5 | 3227.0 | -9.0 | 
-| 2015-05-26 | 第70期本因坊戦挑戦手合七番勝負第2局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3236.0 | -5.0 | 
-| 2015-05-21 | 第40期棋聖戦Sリーグ | Yamashita Keigo | Yamashiro Hiroshi | Lose | W+1.5 | 6.5 | 3241.0 | -38.0 | 
-| 2015-05-18 | 第40期碁聖戦挑戦者決定戦 | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 3279.0 | 15.0 | 
-| 2015-05-14 | 第70期本因坊戦挑戦手合七番勝負第1局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3264.0 | -65.0 | 
-| 2015-05-07 | 第40期名人戦リーグ | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 | 3329.0 | -8.0 | 
-| 2015-05-04 | 第41期天元戦本戦2回戦 | Matsumoto Takehisa | Yamashita Keigo | Win | W+R | 6.5 | 3337.0 | 14.0 | 
-| 2015-04-30 | 第40期碁聖戦本戦準決勝 | Murakawa Daisuke | Yamashita Keigo | Win | W+R | 6.5 | 3323.0 | 4.0 | 
-| 2015-04-27 | 第54期十段戦予選 | Inaba Takahiro | Yamashita Keigo | Win | W+R | 6.5 | 3319.0 | 65.0 | 
-| 2015-04-20 | 第40期碁聖戦本戦3回戦 | Yamashita Keigo | Iwamaru Taira | Win | B+3.5 | 6.5 | 3254.0 | 8.0 | 
-| 2015-04-16 | 第40期名人戦リーグ | Yamashita Keigo | Kanazawa Makoto | Win | B+10.5 | 6.5 | 3246.0 | -11.0 | 
-| 2015-04-09 | 第63期王座戦予選 | Kataoka Satoshi | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3257.0 | 2.0 | 
-| 2015-04-02 | 第70期本因坊戦リーグ | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3255.0 | -8.0 | 
-| 2015-03-30 | 第40期碁聖戦本戦2回戦 | Yamashita Keigo | Cho Riyu | Win | B+R | 6.5 | 3263.0 | -16.0 | 
-| 2015-03-26 | 第70期本因坊戦リーグ | Yamashita Keigo | Ryu Shikun | Win | B+R | 6.5 | 3279.0 | 0.0 | 
-| 2015-03-20 | 第39期棋聖戦挑戦手合七番勝負第7局 | Iyama Yuta | Yamashita Keigo | Lose | B+5.5 | 6.5 | 3279.0 | -120.0 | 
-| 2015-03-12 | 第39期棋聖戦挑戦手合七番勝負第6局 | Yamashita Keigo | Iyama Yuta | Win | B+R | 6.5 | 3399.0 | -92.0 | 
-| 2015-03-05 | 第40期名人戦リーグ | Yamashita Keigo | Cho U | Win | B+5.5 | 6.5 | 3491.0 | -1.0 | 
-| 2015-02-26 | 第39期棋聖戦挑戦手合七番勝負第5局 | Iyama Yuta | Yamashita Keigo | Win | W+R | 6.5 | 3492.0 | 34.0 | 
-| 2015-02-20 | 第39期棋聖戦挑戦手合七番勝負第4局 | Yamashita Keigo | Iyama Yuta | Win | B+2.5 | 6.5 | 3458.0 | 1.0 | 
-| 2015-02-12 | 第70期本因坊戦リーグ | Mimura Tomoyasu | Yamashita Keigo | Win | W+3.5 | 6.5 | 3457.0 | 20.0 | 
-| 2015-02-06 | 第39期棋聖戦挑戦手合七番勝負第3局 | Iyama Yuta | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3437.0 | -23.0 | 
-| 2015-01-30 | 第39期棋聖戦挑戦手合七番勝負第2局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3460.0 | 32.0 | 
-| 2015-01-22 | 第70期本因坊戦リーグ | Yamashita Keigo | Takao Shinji | Win | B+R | 6.5 | 3428.0 | 11.0 | 
-| 2015-01-16 | 第39期棋聖戦挑戦手合七番勝負第1局 | Iyama Yuta | Yamashita Keigo | Lose | B+0.5 | 6.5 | 3417.0 | 7.0 | 
-| 2015-01-08 | 第40期名人戦リーグ | Murakawa Daisuke | Yamashita Keigo | Win | W+R | 6.5 | 3410.0 | 6.0 | 
-| 2014-12-25 | 第40期名人戦リーグ | Takao Shinji | Yamashita Keigo | Lose | B+0.5 | 6.5 | 3404.0 | -14.0 | 
-| 2014-12-18 | 第41期天元戦本戦1回戦 | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3418.0 | 37.0 | 
-| 2014-12-11 | 第40期碁聖戦本戦1回戦 | Yamashita Keigo | Iguchi Hideichiro | Win | B+R | 6.5 | 3381.0 | 2.0 | 
-| 2014-12-04 | 第70期本因坊戦リーグ | Ida Atsushi | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3379.0 | -15.0 | 
-| 2014-11-27 | 第70期本因坊戦リーグ | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 3394.0 | 9.0 | 
-| 2014-11-13 | 第39期棋聖戦挑戦者決定戦 | Yamashita Keigo | Murakawa Daisuke | Win | B+R | 6.5 | 3385.0 | 114.0 | 
-| 2014-10-23 | 第41期天元戦予選 | Cho Sonjin | Yamashita Keigo | Win | W+R | 6.5 | 3271.0 | -39.0 | 
-| 2014-10-09 | 第70期本因坊戦リーグ | Yu Zhengqi | Yamashita Keigo | Win | W+R | 6.5 | 3310.0 | -1.0 | 
-| 2014-10-02 | 第39期棋聖戦Aリーグ | Yamashiro Hiroshi | Yamashita Keigo | Win | W+R | 6.5 | 3311.0 | 16.0 | 
-| 2014-09-25 | 第41期天元戦予選 | Horimoto Mitsunari | Yamashita Keigo | Win | W+R | 6.5 | 3295.0 | 7.0 | 
-| 2014-09-18 | 第40期碁聖戦予選 | Yamashita Keigo | Otake Hideo | Win | B+R | 6.5 | 3288.0 | 84.0 | 
-| 2014-08-28 | 第39期棋聖戦Aリーグ | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 3204.0 | -11.0 | 
-| 2014-08-22 | 第21期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Kono Rin | Lose | W+R | 6.5 | 3215.0 | -13.0 | 
-| 2014-08-14 | 第53期十段戦予選 | Shida Tatsuya | Yamashita Keigo | Lose | B+R | 6.5 | 3228.0 | -10.0 | 
-| 2014-08-11 | 第21期阿含・桐山杯全日本早碁オープン戦2回戦 | Yamashita Keigo | Murakawa Daisuke | Win | B+5.5 | 6.5 | 3238.0 | 12.0 | 
-| 2014-08-04 | 第39期名人戦挑戦者決定プレーオフ | Kono Rin | Yamashita Keigo | Lose | B+0.5 | 6.5 | 3226.0 | -26.0 | 
-| 2014-07-31 | 第39期名人戦リーグ | Murakawa Daisuke | Yamashita Keigo | Lose | B+6.5 | 6.5 | 3252.0 | 4.0 | 
-| 2014-07-24 | 第39期棋聖戦Aリーグ | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 3248.0 | 28.0 | 
-| 2014-07-10 | 第21期阿含・桐山杯全日本早碁オープン戦1回戦 | Kiyonari Tetsuya | Yamashita Keigo | Win | W+0.5 | 6.5 | 3220.0 | 42.0 | 
-| 2014-07-03 | 第39期名人戦リーグ | Yamashita Keigo | Cho U | Lose | W+1.5 | 6.5 | 3178.0 | -12.0 | 
-| 2014-06-26 | 第39期棋聖戦Aリーグ | Yamashita Keigo | Takao Shinji | Win | B+R | 6.5 | 3190.0 | 9.0 | 
-| 2014-06-19 | 第62期王座戦1回戦 | Yamashita Keigo | Rin Kanketsu | Lose | W+5.5 | 6.5 | 3181.0 | -27.0 | 
-| 2014-06-09 | 第19回LG杯朝鮮日報棋王戦1回戦 | Yamashita Keigo | An Dongxu | Lose | W+5.5 | 6.5 | 3208.0 | -18.0 | 
-| 2014-06-05 | 第39期名人戦リーグ | Yamashita Keigo | Yuki Satoshi | Win | B+R | 6.5 | 3226.0 | 9.0 | 
-| 2014-05-29 | 第39期棋聖戦Aリーグ | Yamashita Keigo | Ichiriki Ryo | Win | B+R | 6.5 | 3217.0 | 86.0 | 
-| 2014-05-15 | 第40期天元戦本戦2回戦 | Kanazawa Makoto | Yamashita Keigo | Lose | B+9.5 | 6.5 | 3131.0 | 3.0 | 
-| 2014-05-08 | 第21期阿含・桐山杯全日本早碁オープン戦予選 | Ryu Shikun | Yamashita Keigo | Win | W+R | 6.5 | 3128.0 | 9.0 | 
-| 2014-05-01 | 第39期名人戦リーグ | Ryu Shikun | Yamashita Keigo | Win | W+R | 6.5 | 3119.0 | -110.0 | 
-| 2014-04-24 | 第40期天元戦本戦1回戦 | Yamashita Keigo | Kono Takashi | Win | B+6.5 | 6.5 | 3229.0 | 1.0 | 
-| 2014-04-14 | 第39期名人戦リーグ | Kono Rin | Yamashita Keigo | Win | W+3.5 | 6.5 | 3228.0 | -19.0 | 
-| 2014-04-07 | 第69期本因坊戦挑戦者決定プレーオフ | Yamashita Keigo | Ida Atsushi | Lose | W+5.5 | 6.5 | 3247.0 | 4.0 | 
-| 2014-04-03 | 第69期本因坊戦リーグ | Yamashita Keigo | Ida Atsushi | Lose | W+0.5 | 6.5 | 3243.0 | 8.0 | 
-| 2014-03-26 | 第10回春蘭杯世界囲碁選手権1回戦 | Tang Weixing | Yamashita Keigo | Lose | B+R | 7.5 | 3235.0 | 7.0 | 
-| 2014-03-13 | 第38期棋聖戦挑戦手合七番勝負第6局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3228.0 | -34.0 | 
-| 2014-03-07 | 第69期本因坊戦リーグ | Sakai Hideyuki | Yamashita Keigo | Win | W+R | 6.5 | 3262.0 | 7.0 | 
-| 2014-02-27 | 第38期棋聖戦挑戦手合七番勝負第5局 | Yamashita Keigo | Iyama Yuta | Win | B+3.5 | 6.5 | 3255.0 | 13.0 | 
-| 2014-02-21 | 第38期棋聖戦挑戦手合七番勝負第4局 | Iyama Yuta | Yamashita Keigo | Win | W+0.5 | 6.5 | 3242.0 | 53.0 | 
-| 2014-02-17 | 第39期名人戦リーグ | Yamashita Keigo | Ko Iso | Win | B+R | 6.5 | 3189.0 | 5.0 | 
-| 2014-02-13 | 第69期本因坊戦リーグ | Yamashita Keigo | Kono Rin | Win | B+1.5 | 6.5 | 3184.0 | 4.0 | 
-| 2014-02-07 | 第38期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3180.0 | -10.0 | 
-| 2014-01-30 | 第38期棋聖戦挑戦手合七番勝負第2局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3190.0 | -17.0 | 
-| 2014-01-23 | 第69期本因坊戦リーグ | Yu Zhengqi | Yamashita Keigo | Win | W+R | 6.5 | 3207.0 | 2.0 | 
-| 2014-01-18 | 第39期名人戦リーグ | Yamashita Keigo | Takao Shinji | Win | B+R | 6.5 | 3205.0 | -66.0 | 
-| 2014-01-12 | 第38期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Iyama Yuta | Lose | W+0.5 | 6.5 | 3271.0 | -4.0 | 
-| 2013-12-26 | 第69期本因坊戦リーグ | Yuki Satoshi | Yamashita Keigo | Win | W+R | 6.5 | 3275.0 | 59.0 | 
-| 2013-12-05 | 第39期名人戦リーグ | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3216.0 | 13.0 | 
-| 2013-11-21 | 第39期碁聖戦本戦1回戦 | Ohba Junya | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3203.0 | -9.0 | 
-| 2013-11-14 | 第38期棋聖戦挑戦者決定戦 | Murakawa Daisuke | Yamashita Keigo | Win | W+R | 6.5 | 3212.0 | 12.0 | 
-| 2013-11-07 | 第69期本因坊戦リーグ | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3200.0 | 38.0 | 
-| 2013-10-24 | 第69期本因坊戦リーグ | Takao Shinji | Yamashita Keigo | Win | W+R | 6.5 | 3162.0 | -17.0 | 
-| 2013-10-17 | 第38期名人戦挑戦手合七番勝負第5局 | Iyama Yuta | Yamashita Keigo | Lose | B+4.5 | 6.5 | 3179.0 | -1.0 | 
-| 2013-10-10 | 第38期名人戦挑戦手合七番勝負第4局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3180.0 | -50.0 | 
-| 2013-10-03 | 第38期棋聖戦Aリーグ | Kiyonari Tetsuya | Yamashita Keigo | Win | W+1.5 | 6.5 | 3230.0 | -9.0 | 
-| 2013-09-26 | 第38期名人戦挑戦手合七番勝負第3局 | Iyama Yuta | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3239.0 | 0.0 | 
-| 2013-09-20 | 第38期名人戦挑戦手合七番勝負第2局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3239.0 | -58.0 | 
-| 2013-09-09 | 第39期天元戦挑戦者決定戦 | Akiyama Jiro | Yamashita Keigo | Lose | B+R | 6.5 | 3297.0 | -12.0 | 
-| 2013-09-06 | 第38期名人戦挑戦手合七番勝負第1局 | Iyama Yuta | Yamashita Keigo | Win | W+R | 6.5 | 3309.0 | 13.0 | 
-| 2013-08-29 | 第61期王座戦準決勝 | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 3296.0 | -9.0 | 
-| 2013-08-22 | 第39期天元戦本戦準決勝 | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3305.0 | -3.0 | 
-| 2013-08-15 | 第38期棋聖戦Aリーグ | Kobayashi Satoru | Yamashita Keigo | Win | W+R | 6.5 | 3308.0 | 76.0 | 
-| 2013-08-01 | 第39期天元戦本戦3回戦 | Yamashita Keigo | Ryu Shikun | Win | B+R | 6.5 | 3232.0 | -7.0 | 
-| 2013-07-25 | 第38期棋聖戦Aリーグ | Yamashita Keigo | Yamashiro Hiroshi | Lose | W+3.5 | 6.5 | 3239.0 | 39.0 | 
-| 2013-07-18 | 第61期王座戦2回戦 | Yamashita Keigo | Seto Taiki | Win | B+R | 6.5 | 3200.0 | 40.0 | 
-| 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 | An Dongxu | Yamashita Keigo | Lose | B+3.5 | 7.5 | 3160.0 | 1.0 | 
-| 2013-07-04 | 第52期十段戦予選 | Nakano Hironari | Yamashita Keigo | Lose | B+R | 6.5 | 3159.0 | -7.0 | 
-| 2013-06-27 | 第20期阿含・桐山杯全日本早碁オープン戦1回戦 | Yamashita Keigo | Tsuruyama Atsushi | Lose | W+R | 6.5 | 3166.0 | 34.0 | 
-| 2013-06-20 | 第38期棋聖戦Aリーグ | Cho U | Yamashita Keigo | Win | W+3.5 | 6.5 | 3132.0 | 111.0 | 
-| 2013-06-06 | 第61期王座戦1回戦 | Yamashita Keigo | Yoda Norimoto | Win | B+R | 6.5 | 3021.0 | 36.0 | 
-| 2013-05-30 | 第39期天元戦本戦2回戦 | Yamashita Keigo | Uchida Shuhei | Win | B+9.5 | 6.5 | 2985.0 | -15.0 | 
-| 2013-05-09 | 第38期棋聖戦Aリーグ | Yamashita Keigo | Yoda Norimoto | Win | B+5.5 | 6.5 | 3000.0 | 17.0 | 
-| 2013-04-25 | 第38期碁聖戦本戦3回戦 | Yamashita Keigo | Matsumoto Takehisa | Lose | W+R | 6.5 | 2983.0 | -29.0 | 
-| 2013-04-08 | 第68期本因坊戦リーグ | Cho U | Yamashita Keigo | Win | W+R | 6.5 | 3012.0 | -30.0 | 
-| 2013-03-21 | 第68期本因坊戦リーグ | Yamashita Keigo | Imamura Toshiya | Lose | W+0.5 | 6.5 | 3042.0 | -33.0 | 
-| 2013-03-07 | 第38期碁聖戦本戦2回戦 | Yamashita Keigo | Nakane Naoyuki | Win | B+R | 6.5 | 3075.0 | 40.0 | 
-| 2013-02-21 | 第68期本因坊戦リーグ | Yamashita Keigo | Takao Shinji | Lose | W+R | 6.5 | 3035.0 | -6.0 | 
-| 2013-01-17 | 第39期天元戦本戦1回戦 | Yamashita Keigo | Nakane Naoyuki | Win | B+R | 6.5 | 3041.0 | -6.0 | 
-| 2013-01-10 | 第68期本因坊戦リーグ | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 3047.0 | 31.0 | 
-| 2012-12-20 | 第68期本因坊戦リーグ | Yamashita Keigo | Seto Taiki | Win | B+R | 6.5 | 3016.0 | -19.0 | 
-| 2012-12-13 | 第38期碁聖戦本戦1回戦 | Mitani Tetsuya | Yamashita Keigo | Win | W+1.5 | 6.5 | 3035.0 | -166.0 | 
-| 2012-11-22 | 第68期本因坊戦リーグ | Yamashita Keigo | Yuki Satoshi | Win | B+R | 6.5 | 3201.0 | -16.0 | 
-| 2012-11-17 | 第8回大和証券杯ネット囲碁オープン1回戦 | Yamashita Keigo | Oya Koichi | Lose | W+R | 6.5 | 3217.0 | 6.0 | 
-| 2012-11-13 | 第37期名人戦挑戦手合七番勝負第7局 | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3211.0 | 0.0 | 
-| 2012-11-01 | 第37期名人戦挑戦手合七番勝負第6局 | Yamashita Keigo | Hane Naoki | Lose | W+R | 6.5 | 3211.0 | -25.0 | 
-| 2012-10-25 | 第68期本因坊戦リーグ | Cho Sonjin | Yamashita Keigo | Win | W+0.5 | 6.5 | 3236.0 | 6.0 | 
-| 2012-10-18 | 第37期名人戦挑戦手合七番勝負第5局 | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3230.0 | 37.0 | 
-| 2012-10-11 | 第37期名人戦挑戦手合七番勝負第4局 | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 3193.0 | 10.0 | 
-| 2012-10-04 | 第37期棋聖戦Aリーグ | Kono Rin | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3183.0 | -32.0 | 
-| 2012-09-28 | 第37期名人戦挑戦手合七番勝負第3局 | Hane Naoki | Yamashita Keigo | Lose | B+R | 6.5 | 3215.0 | 6.0 | 
-| 2012-09-21 | 第37期名人戦挑戦手合七番勝負第2局 | Yamashita Keigo | Hane Naoki | Lose | W+R | 6.5 | 3209.0 | -79.0 | 
-| 2012-09-11 | 第3回世界囲碁名人争覇戦 | Yamashita Keigo | Jiang Weijie | Lose | W+R | 7.5 | 3288.0 | 19.0 | 
-| 2012-08-31 | 第37期名人戦挑戦手合七番勝負第1局 | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3269.0 | 73.0 | 
-| 2012-08-19 | 第1回百霊杯世界囲碁選手権2回戦 | Xie Erhao | Yamashita Keigo | Lose | B+11.5 | 7.5 | 3196.0 | -29.0 | 
-| 2012-08-09 | 第37期棋聖戦Aリーグ | O Meien | Yamashita Keigo | Win | W+6.5 | 6.5 | 3225.0 | 18.0 | 
-| 2012-08-02 | 第51期十段戦予選 | Kato Atsushi | Yamashita Keigo | Lose | B+R | 6.5 | 3207.0 | -132.0 | 
-| 2012-07-26 | 第37期棋聖戦Aリーグ | Yamashita Keigo | Kobayashi Satoru | Win | B+R | 6.5 | 3339.0 | 9.0 | 
-| 2012-07-21 | 第19期阿含・桐山杯全日本早碁オープン戦1回戦 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3330.0 | 11.0 | 
-| 2012-07-19 | 第67期本因坊戦挑戦手合七番勝負第7局 | Yamashita Keigo | Iyama Yuta | Lose | W+7.5 | 6.5 | 3319.0 | -22.0 | 
-| 2012-07-10 | 第67期本因坊戦挑戦手合七番勝負第6局 | Yamashita Keigo | Iyama Yuta | Win | B+R | 6.5 | 3341.0 | 13.0 | 
-| 2012-07-05 | 第51期十段戦予選 | Yun Chunho | Yamashita Keigo | Win | W+R | 6.5 | 3328.0 | 63.0 | 
-| 2012-06-25 | 第67期本因坊戦挑戦手合七番勝負第5局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3265.0 | -34.0 | 
-| 2012-06-19 | 第67期本因坊戦挑戦手合七番勝負第4局 | Yamashita Keigo | Iyama Yuta | Win | B+R | 6.5 | 3299.0 | 2.0 | 
-| 2012-06-14 | 第37期棋聖戦Aリーグ | Takao Shinji | Yamashita Keigo | Lose | B+R | 6.5 | 3297.0 | -82.0 | 
-| 2012-06-11 | 第60期王座戦1回戦 | Yamashita Keigo | Tsuruyama Atsushi | Lose | W+11.5 | 6.5 | 3379.0 | 18.0 | 
-| 2012-06-06 | 第67期本因坊戦挑戦手合七番勝負第3局 | Iyama Yuta | Yamashita Keigo | Win | W+R | 6.5 | 3361.0 | 35.0 | 
-| 2012-05-29 | 第67期本因坊戦挑戦手合七番勝負第2局 | Yamashita Keigo | Iyama Yuta | Lose | W+5.5 | 6.5 | 3326.0 | -33.0 | 
-| 2012-05-24 | 第37期棋聖戦Aリーグ | Yamashita Keigo | Ryu Shikun | Win | B+8.5 | 6.5 | 3359.0 | 1.0 | 
-| 2012-05-16 | 第67期本因坊戦挑戦手合七番勝負第1局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3358.0 | -84.0 | 
-| 2012-05-07 | 第37期碁聖戦挑戦者決定戦 | Iyama Yuta | Yamashita Keigo | Lose | B+12.5 | 6.5 | 3442.0 | -16.0 | 
-| 2012-05-03 | 第38期天元戦本戦3回戦 | Anzai Nobuaki | Yamashita Keigo | Lose | B+R | 6.5 | 3458.0 | -23.0 | 
-| 2012-04-05 | 第37期碁聖戦本戦準決勝 | Yamashita Keigo | Hikosaka Naoto | Win | B+R | 6.5 | 3481.0 | -3.0 | 
-| 2012-03-28 | 第9回春蘭杯世界囲碁選手権1回戦 | Qiu Jun | Yamashita Keigo | Lose | B+5.5 | 7.5 | 3484.0 | -10.0 | 
-| 2012-03-14 | 第1回百霊杯世界囲碁選手権1回戦 | Kim Seongjae | Yamashita Keigo | Win | W+0.5 | 7.5 | 3494.0 | 33.0 | 
-| 2012-03-08 | 第38期天元戦本戦2回戦 | Honda Kunihisa | Yamashita Keigo | Win | W+R | 6.5 | 3461.0 | -80.0 | 
-| 2012-03-03 | 第4回BCカード杯世界選手権1回戦 | Yamashita Keigo | Meng Tailing | Lose | W+R | 6.5 | 3541.0 | -59.0 | 
-| 2012-02-23 | 第37期碁聖戦本戦3回戦 | Yamashita Keigo | Yamada Noriyoshi | Win | B+R | 6.5 | 3600.0 | 149.0 | 
-| 2012-01-26 | 第38期天元戦本戦1回戦 | Yanaka Katsunori | Yamashita Keigo | Win | W+R | 6.5 | 3451.0 | 9.0 | 
-| 2012-01-19 | 第37期碁聖戦本戦2回戦 | Rin Kanketsu | Yamashita Keigo | Win | W+R | 6.5 | 3442.0 | -46.0 | 
-| 2011-12-10 | 第1回スポーツアコードワールドマインドゲームズ囲碁団体戦 | Catalin Taranu | Yamashita Keigo | Win | W+R | 7.5 | 3488.0 | 1.0 | 
-| 2011-12-09 | 第1回スポーツアコードワールドマインドゲームズ囲碁団体戦 | Yamashita Keigo | Jiang Mingjiu | Win | B+R | 7.5 | 3487.0 | 397.0 | 
-| 2011-12-02 | 第13回農心辛ラーメン杯世界囲碁最強戦第9戦 | Yamashita Keigo | Kim Jiseok | Lose | W+R | 6.5 | 3090.0 | 13.0 | 
-| 2011-11-10 | 第37期碁聖戦本戦1回戦 | Anzai Nobuaki | Yamashita Keigo | Win | W+R | 6.5 | 3077.0 | -35.0 | 
-| 2011-10-28 | 第36期名人戦挑戦手合七番勝負第6局 | Iyama Yuta | Yamashita Keigo | Win | W+3.5 | 6.5 | 3112.0 | 16.0 | 
-| 2011-10-14 | 第36期名人戦挑戦手合七番勝負第5局 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3096.0 | -22.0 | 
-| 2011-10-06 | 第36期名人戦挑戦手合七番勝負第4局 | Iyama Yuta | Yamashita Keigo | Win | W+R | 6.5 | 3118.0 | 17.0 | 
-| 2011-10-01 | 第18期阿含・桐山杯全日本早碁オープン戦決勝 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3101.0 | -31.0 | 
-| 2011-09-29 | 第36期棋聖戦Aリーグ | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3132.0 | 7.0 | 
-| 2011-09-26 | 第31期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Cho Chikun | Lose | W+R | 6.5 | 3125.0 | -33.0 | 
-| 2011-09-22 | 第36期名人戦挑戦手合七番勝負第3局 | Yamashita Keigo | Iyama Yuta | Win | B+R | 6.5 | 3158.0 | 23.0 | 
-| 2011-09-15 | 第36期名人戦挑戦手合七番勝負第2局 | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5 | 3135.0 | 54.0 | 
-| 2011-09-08 | 第50期十段戦1回戦 | Murakawa Daisuke | Yamashita Keigo | Lose | B+0.5 | 6.5 | 3081.0 | -13.0 | 
-| 2011-09-02 | 第36期名人戦挑戦手合七番勝負第1局 | Yamashita Keigo | Iyama Yuta | Win | B+5.5 | 6.5 | 3094.0 | 14.0 | 
-| 2011-08-29 | 第36期棋聖戦Aリーグ | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 3080.0 | 12.0 | 
-| 2011-08-25 | 第18期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Kim Sujun | Win | B+R | 6.5 | 3068.0 | 2.0 | 
-| 2011-08-20 | 第7回大和証券杯ネット囲碁オープン1回戦 | Takao Shinji | Yamashita Keigo | Lose | B+R | 6.5 | 3066.0 | -18.0 | 
-| 2011-08-18 | 第31期NECカップ囲碁トーナメント戦1回戦 | O Meien | Yamashita Keigo | Win | W+5.5 | 6.5 | 3084.0 | -1.0 | 
-| 2011-08-10 | 第24回世界囲碁選手権富士通杯1回戦 | Yamashita Keigo | Cho Chikun | Lose | W+8.5 | 6.5 | 3085.0 | -24.0 | 
-| 2011-08-08 | 第36期名人戦挑戦者決定プレーオフ | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 3109.0 | -12.0 | 
-| 2011-08-04 | 第36期名人戦リーグ | Yuki Satoshi | Yamashita Keigo | Win | W+R | 6.5 | 3121.0 | 19.0 | 
-| 2011-07-28 | 第36期棋聖戦Aリーグ | Yamashita Keigo | Kato Atsushi | Win | B+R | 6.5 | 3102.0 | 1.0 | 
-| 2011-07-25 | 第18期阿含・桐山杯全日本早碁オープン戦2回戦 | Ha Sungbong | Yamashita Keigo | Win | W+R | 6.5 | 3101.0 | 7.0 | 
-| 2011-07-21 | 第66期本因坊戦挑戦手合七番勝負第7局 | Hane Naoki | Yamashita Keigo | Win | W+4.5 | 6.5 | 3094.0 | 4.0 | 
-| 2011-07-14 | 第66期本因坊戦挑戦手合七番勝負第6局 | Yamashita Keigo | Hane Naoki | Lose | W+7.5 | 6.5 | 3090.0 | -26.0 | 
-| 2011-07-07 | 第36期名人戦リーグ | Takao Shinji | Yamashita Keigo | Win | W+3.5 | 6.5 | 3116.0 | -14.0 | 
-| 2011-07-04 | 第18期阿含・桐山杯全日本早碁オープン戦1回戦 | Takao Shinji | Yamashita Keigo | Win | W+R | 6.5 | 3130.0 | 9.0 | 
-| 2011-06-30 | 第66期本因坊戦挑戦手合七番勝負第5局 | Hane Naoki | Yamashita Keigo | Lose | B+R | 6.5 | 3121.0 | -148.0 | 
-| 2011-06-23 | 第37期天元戦本戦準決勝 | O Meien | Yamashita Keigo | Lose | B+R | 6.5 | 3269.0 | -73.0 | 
-| 2011-06-16 | 第66期本因坊戦挑戦手合七番勝負第4局 | Yamashita Keigo | Hane Naoki | Lose | W+0.5 | 6.5 | 3342.0 | -23.0 | 
-| 2011-06-09 | 第36期棋聖戦Aリーグ | Yamashita Keigo | Seto Taiki | Win | B+R | 6.5 | 3365.0 | 5.0 | 
-| 2011-06-03 | 第66期本因坊戦挑戦手合七番勝負第3局 | Hane Naoki | Yamashita Keigo | Win | W+1.5 | 6.5 | 3360.0 | 32.0 | 
-| 2011-05-30 | 第7回大和証券杯ネット囲碁オープン予選 | Ohba Junya | Yamashita Keigo | Win | W+R | 6.5 | 3328.0 | 2.0 | 
-| 2011-05-25 | 第66期本因坊戦挑戦手合七番勝負第2局 | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 3326.0 | -4.0 | 
-| 2011-05-19 | 第59期王座戦2回戦 | Yamashita Keigo | Yamada Kimio | Lose | W+R | 6.5 | 3330.0 | 3.0 | 
-| 2011-05-16 | 第36期棋聖戦Aリーグ | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 | 3327.0 | 56.0 | 
-| 2011-05-12 | 第66期本因坊戦挑戦手合七番勝負第1局 | Hane Naoki | Yamashita Keigo | Win | W+7.5 | 6.5 | 3271.0 | -12.0 | 
-| 2011-05-05 | 第36期名人戦リーグ | Yamashita Keigo | Cho Chikun | Win | B+R | 6.5 | 3283.0 | -34.0 | 
-| 2011-04-28 | 第36期碁聖戦本戦準決勝 | Rin Shien | Yamashita Keigo | Lose | B+R | 6.5 | 3317.0 | -16.0 | 
-| 2011-04-21 | 第59期王座戦1回戦 | Yamashiro Hiroshi | Yamashita Keigo | Win | W+5.5 | 6.5 | 3333.0 | 45.0 | 
-| 2011-04-14 | 第36期名人戦リーグ | Yamashita Keigo | Cho U | Lose | W+R | 6.5 | 3288.0 | -6.0 | 
-| 2011-03-31 | 第37期天元戦本戦3回戦 | Yamada Takuji | Yamashita Keigo | Win | W+R | 6.5 | 3294.0 | -12.0 | 
-| 2011-03-24 | 第36期碁聖戦本戦3回戦 | O Meien | Yamashita Keigo | Win | W+R | 6.5 | 3306.0 | -32.0 | 
-| 2011-03-05 | 第30期NECカップ囲碁トーナメント戦決勝 | Yamashita Keigo | Cho U | Lose | W+R | 6.5 | 3338.0 | -4.0 | 
-| 2011-03-03 | 第36期名人戦リーグ | Yamashita Keigo | Rin Kanketsu | Win | B+R | 6.5 | 3342.0 | 27.0 | 
-| 2011-02-24 | 第37期天元戦本戦2回戦 | Yamashiro Hiroshi | Yamashita Keigo | Win | W+R | 6.5 | 3315.0 | 40.0 | 
-| 2011-02-05 | 第30期NECカップ囲碁トーナメント戦準決勝 | Yamashita Keigo | O Meien | Win | B+R | 6.5 | 3275.0 | 6.0 | 
-| 2011-02-03 | 第36期名人戦リーグ | Hane Naoki | Yamashita Keigo | Lose | B+6.5 | 6.5 | 3269.0 | -10.0 | 
-| 2011-01-27 | 第37期天元戦本戦1回戦 | Yamashita Keigo | Rin Kanketsu | Win | B+6.5 | 6.5 | 3279.0 | 137.0 | 
-| 2011-01-20 | 第36期名人戦リーグ | Yamashita Keigo | Sakai Hideyuki | Win | B+R | 6.5 | 3142.0 | -48.0 | 
-| 2011-01-06 | 第36期碁聖戦本戦2回戦 | Shuto Shun | Yamashita Keigo | Win | W+R | 6.5 | 3190.0 | 57.0 | 
-| 2010-12-23 | 第12回阿含・桐山杯日中決戦 | Yamashita Keigo | Qiu Jun | Lose | W+R | 6.5 | 3133.0 | 1.0 | 
-| 2010-12-16 | 第49期十段戦敗者復活戦4回戦 | Yamashita Keigo | Takao Shinji | Lose | W+R | 6.5 | 3132.0 | 7.0 | 
-| 2010-12-09 | 第36期名人戦リーグ | Mizokami Tomochika | Yamashita Keigo | Win | W+4.5 | 6.5 | 3125.0 | 22.0 | 
-| 2010-11-26 | 2010年アジア競技大会囲碁男子団体戦 | Cho U | Yamashita Keigo | Lose | B+1.5 | 7.5 | 3103.0 | 0.0 | 
-| 2010-11-26 | 2010年アジア競技大会囲碁男子団体戦 | Yamashita Keigo | Cho U | Lose | W+2.5 | 7.5 | 3103.0 | -21.0 | 
-| 2010-11-25 | 2010年アジア競技大会囲碁男子団体戦 | Lee Changho | Yamashita Keigo | Win | W+R | 7.5 | 3124.0 | 0.0 | 
-| 2010-11-25 | 2010年アジア競技大会囲碁男子団体戦 | Yamashita Keigo | Gu Li | Win | B+7.5 | 7.5 | 3124.0 | 50.0 | 
-| 2010-11-16 | 第36期天元戦挑戦手合五番勝負第3局 | Yuki Satoshi | Yamashita Keigo | Lose | B+2.5 | 6.5 | 3074.0 | -29.0 | 
-| 2010-11-09 | 第36期天元戦挑戦手合五番勝負第2局 | Yamashita Keigo | Yuki Satoshi | Lose | W+2.5 | 6.5 | 3103.0 | -11.0 | 
-| 2010-11-04 | 第36期碁聖戦本戦1回戦 | Yamashita Keigo | Hikosaka Naoto | Win | B+R | 6.5 | 3114.0 | 12.0 | 
-| 2010-10-28 | 第36期天元戦挑戦手合五番勝負第1局 | Yuki Satoshi | Yamashita Keigo | Lose | B+R | 6.5 | 3102.0 | -21.0 | 
-| 2010-10-21 | 第36期名人戦予選 | Seto Taiki | Yamashita Keigo | Win | W+R | 6.5 | 3123.0 | 20.0 | 
-| 2010-10-13 | 第15回三星火災杯世界囲碁マスターズ2回戦 | Yamashita Keigo | Lee Sedol | Lose | W+R | 6.5 | 3103.0 | 79.0 | 
-| 2010-10-02 | 第17期阿含・桐山杯全日本早碁オープン戦決勝 | Yamashita Keigo | Cho Chikun | Win | B+R | 6.5 | 3024.0 | 12.0 | 
-| 2010-09-30 | 第35期棋聖戦Aリーグ | Yoda Norimoto | Yamashita Keigo | Win | W+3.5 | 6.5 | 3012.0 | 3.0 | 
-| 2010-09-27 | 第49期十段戦本戦勝者組決勝 | Iyama Yuta | Yamashita Keigo | Lose | B+0.5 | 6.5 | 3009.0 | -11.0 | 
-| 2010-09-23 | 第36期名人戦予選 | Yamashita Keigo | Han Zenki | Win | B+R | 6.5 | 3020.0 | -11.0 | 
-| 2010-09-16 | 第35期棋聖戦Aリーグ | Yamashita Keigo | Kono Rin | Win | B+R | 6.5 | 3031.0 | 40.0 | 
-| 2010-09-09 | 第15回三星火災杯世界囲碁マスターズ1回戦F2 |  | Yamashita Keigo | Win | W+R | 6.5 | 2991.0 | 14.0 | 
-| 2010-09-08 | 第15回三星火災杯世界囲碁マスターズ1回戦F1 | Yamashita Keigo | Yang Jaeho | Win | B+R | 6.5 | 2977.0 | 2.0 | 
-| 2010-09-04 | 第49期十段戦本戦3回戦 | Anzai Nobuaki | Yamashita Keigo | Win | W+R | 6.5 | 2975.0 | -41.0 | 
-| 2010-09-02 | 第30期NECカップ囲碁トーナメント戦2回戦 | Yuki Satoshi | Yamashita Keigo | Win | W+11.5 | 6.5 | 3016.0 | 22.0 | 
-| 2010-08-26 | 第35期棋聖戦Aリーグ | Takao Shinji | Yamashita Keigo | Lose | B+R | 6.5 | 2994.0 | -52.0 | 
-| 2010-08-12 | 第17期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Takao Shinji | Win | B+0.5 | 6.5 | 3046.0 | 22.0 | 
-| 2010-08-05 | 第36期名人戦予選 | Yoda Norimoto | Yamashita Keigo | Win | W+R | 6.5 | 3024.0 | -20.0 | 
-| 2010-07-29 | 第49期十段戦本戦2回戦 | Yamashita Keigo | Lee Ishu | Win | B+R | 6.5 | 3044.0 | 5.0 | 
-| 2010-07-22 | 第35期棋聖戦Aリーグ | Kato Atsushi | Yamashita Keigo | Win | W+R | 6.5 | 3039.0 | -26.0 | 
-| 2010-07-08 | 第17期阿含・桐山杯全日本早碁オープン戦2回戦 | Yamashita Keigo | Michael Redmond | Win | B+R | 6.5 | 3065.0 | -17.0 | 
-| 2010-06-29 | 第65期本因坊戦挑戦手合七番勝負第5局 | Hane Naoki | Yamashita Keigo | Win | W+7.5 | 6.5 | 3082.0 | 4.0 | 
-| 2010-06-24 | 第35期棋聖戦Aリーグ | Yamashita Keigo | O Meien | Win | B+R | 6.5 | 3078.0 | 3.0 | 
-| 2010-06-21 | 第17期阿含・桐山杯全日本早碁オープン戦1回戦 | Yuki Satoshi | Yamashita Keigo | Win | W+R | 6.5 | 3075.0 | 7.0 | 
-| 2010-06-18 | 第65期本因坊戦挑戦手合七番勝負第4局 | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 3068.0 | 43.0 | 
-| 2010-06-09 | 第65期本因坊戦挑戦手合七番勝負第3局 | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3025.0 | 36.0 | 
-| 2010-06-03 | 第49期十段戦本戦1回戦 | Yamashita Keigo | Sakai Hideyuki | Win | B+R | 6.5 | 2989.0 | 20.0 | 
-| 2010-05-27 | 第65期本因坊戦挑戦手合七番勝負第2局 | Yamashita Keigo | Hane Naoki | Win | B+1.5 | 6.5 | 2969.0 | 85.0 | 
-| 2010-05-12 | 第65期本因坊戦挑戦手合七番勝負第1局 | Hane Naoki | Yamashita Keigo | Lose | B+3.5 | 6.5 | 2884.0 | -1.0 | 
-| 2010-05-06 | 第35期碁聖戦挑戦者決定戦 | Yamashita Keigo | Sakai Hideyuki | Lose | W+R | 6.5 | 2885.0 | -40.0 | 
-| 2010-04-29 | 第58期王座戦1回戦 | Kobayashi Satoru | Yamashita Keigo | Lose | B+2.5 | 6.5 | 2925.0 | -3.0 | 
-| 2010-04-19 | 第35期碁聖戦本戦準決勝 | Yamashita Keigo | Nakaonoda Tomomi | Win | B+R | 6.5 | 2928.0 | -52.0 | 
-| 2010-04-12 | 第23回世界囲碁選手権富士通杯2回戦 | Piao Wenyao | Yamashita Keigo | Lose | B+2.5 | 6.5 | 2980.0 | -14.0 | 
-| 2010-04-08 | 第48期十段戦挑戦手合五番勝負第3局 | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 2994.0 | 7.0 | 
-| 2010-04-05 | 第65期本因坊戦挑戦者決定プレーオフ | Iyama Yuta | Yamashita Keigo | Win | W+R | 6.5 | 2987.0 | 10.0 | 
-| 2010-04-01 | 第65期本因坊戦リーグ | Yamashita Keigo | Yuki Satoshi | Win | B+R | 6.5 | 2977.0 | 11.0 | 
-| 2010-03-29 | 第8回春蘭杯世界囲碁選手権2回戦 | Gu Li | Yamashita Keigo | Lose | B+R | 7.5 | 2966.0 | -8.0 | 
-| 2010-03-27 | 第8回春蘭杯世界囲碁選手権1回戦 | Chen Yaoye | Yamashita Keigo | Win | W+4.5 | 7.5 | 2974.0 | 9.0 | 
-| 2010-03-25 | 第48期十段戦挑戦手合五番勝負第2局 | Yamashita Keigo | Cho U | Lose | W+1.5 | 6.5 | 2965.0 | -34.0 | 
-| 2010-03-18 | 第65期本因坊戦リーグ | Takemiya Masaki | Yamashita Keigo | Win | W+4.5 | 6.5 | 2999.0 | -16.0 | 
-| 2010-03-04 | 第48期十段戦挑戦手合五番勝負第1局 | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 3015.0 | -12.0 | 
-| 2010-02-26 | 第34期棋聖戦挑戦手合七番勝負第5局 | Yamashita Keigo | Cho U | Lose | W+1.5 | 6.5 | 3027.0 | 41.0 | 
-| 2010-02-19 | 第34期棋聖戦挑戦手合七番勝負第4局 | Cho U | Yamashita Keigo | Win | W+7.5 | 6.5 | 2986.0 | 6.0 | 
-| 2010-02-13 | 第29期NECカップ囲碁トーナメント戦準決勝 | Yamashita Keigo | Kono Rin | Lose | W+7.5 | 6.5 | 2980.0 | 8.0 | 
-| 2010-02-11 | 第65期本因坊戦リーグ | Yamashita Keigo | Iyama Yuta | Win | B+R | 6.5 | 2972.0 | 28.0 | 
-| 2010-02-04 | 第34期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Cho U | Lose | W+8.5 | 6.5 | 2944.0 | -22.0 | 
-| 2010-01-28 | 第34期棋聖戦挑戦手合七番勝負第2局 | Cho U | Yamashita Keigo | Lose | B+6.5 | 6.5 | 2966.0 | -45.0 | 
-| 2010-01-21 | 第48期十段戦挑戦者決定戦 | Yamashita Keigo | Takao Shinji | Win | B+R | 6.5 | 3011.0 | 2.0 | 
-| 2010-01-15 | 第34期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Cho U | Lose | W+R | 6.5 | 3009.0 | 12.0 | 
-| 2010-01-07 | 第35期碁聖戦本戦3回戦 | O Rissei | Yamashita Keigo | Win | W+1.5 | 6.5 | 2997.0 | -10.0 | 
-| 2009-12-28 | 第65期本因坊戦リーグ | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3007.0 | 9.0 | 
-| 2009-12-25 | 第48期十段戦敗者復活戦決勝 | Yamashita Keigo | Lee Ishu | Win | B+R | 6.5 | 2998.0 | -6.0 | 
-| 2009-12-22 | 第35期天元戦挑戦手合五番勝負第5局 | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3004.0 | 11.0 | 
-| 2009-12-17 | 第65期本因坊戦リーグ | Yamashita Keigo | Takao Shinji | Lose | W+R | 6.5 | 2993.0 | -17.0 | 
-| 2009-12-14 | 第35期碁聖戦本戦2回戦 | Kim Sujun | Yamashita Keigo | Win | W+R | 6.5 | 3010.0 | 5.0 | 
-| 2009-12-10 | 第35期天元戦挑戦手合五番勝負第4局 | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 3005.0 | -5.0 | 
-| 2009-12-03 | 第35期天元戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3010.0 | -154.0 | 
-| 2009-11-25 | 第11回農心辛ラーメン杯世界囲碁最強戦第1戦 | Yamashita Keigo | Kim Jiseok | Lose | W+R | 6.5 | 3164.0 | -19.0 | 
-| 2009-11-19 | 第35期天元戦挑戦手合五番勝負第2局 | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 3183.0 | -44.0 | 
-| 2009-11-14 | 第29期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Kobayashi Satoru | Win | B+R | 6.5 | 3227.0 | 27.0 | 
-| 2009-11-12 | 第35期天元戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3200.0 | 11.0 | 
-| 2009-11-05 | 第48期十段戦敗者復活戦4回戦 | Yamashita Keigo | O Rissei | Win | B+R | 6.5 | 3189.0 | 8.0 | 
-| 2009-10-29 | 第35期名人戦予選 | Mizokami Tomochika | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3181.0 | 47.0 | 
-| 2009-10-20 | 第65期本因坊戦リーグ | Mimura Tomoyasu | Yamashita Keigo | Win | W+R | 6.5 | 3134.0 | 18.0 | 
-| 2009-10-13 | 第14回三星火災杯世界囲碁マスターズ2回戦 | Kong Jie | Yamashita Keigo | Lose | B+T | 6.5 | 3116.0 | 7.0 | 
-| 2009-10-08 | 第35期名人戦予選 | Yamashita Keigo | Kobayashi Koichi | Win | B+R | 6.5 | 3109.0 | 13.0 | 
-| 2009-10-01 | 第65期本因坊戦リーグ | Yamada Kimio | Yamashita Keigo | Win | W+R | 6.5 | 3096.0 | 2.0 | 
-| 2009-09-24 | 第48期十段戦敗者復活戦3回戦 | Cho Chikun | Yamashita Keigo | Win | W+R | 6.5 | 3094.0 | 12.0 | 
-| 2009-09-17 | 第35期天元戦挑戦者決定戦 | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 3082.0 | -3.0 | 
-| 2009-09-11 | 第14回三星火災杯世界囲碁マスターズ1回戦A2 | Yamashita Keigo | Yuki Satoshi | Win | B+R | 6.5 | 3085.0 | 14.0 | 
-| 2009-09-10 | 第14回三星火災杯世界囲碁マスターズ1回戦A1 | Choi Kyubyeong | Yamashita Keigo | Win | W+4.5 | 6.5 | 3071.0 | 10.0 | 
-| 2009-09-03 | 第35期名人戦予選 | Yamashita Keigo | Mimura Tomoyasu | Win | B+R | 6.5 | 3061.0 | -9.0 | 
-| 2009-08-27 | 第48期十段戦敗者復活戦2回戦 | Hikosaka Naoto | Yamashita Keigo | Win | W+R | 6.5 | 3070.0 | 52.0 | 
-| 2009-08-13 | 第35期天元戦本戦準決勝 | Yamashita Keigo | Takao Shinji | Win | B+R | 6.5 | 3018.0 | 1.0 | 
-| 2009-08-06 | 第16期阿含・桐山杯全日本早碁オープン戦準決勝 | Hane Naoki | Yamashita Keigo | Lose | B+R | 6.5 | 3017.0 | -24.0 | 
-| 2009-07-09 | 第16期阿含・桐山杯全日本早碁オープン戦2回戦 | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 3041.0 | 47.0 | 
-| 2009-06-25 | 第35期天元戦本戦3回戦 | Yamashita Keigo | Yukawa Mitsuhisa | Win | B+R | 6.5 | 2994.0 | 47.0 | 
-| 2009-06-18 | 第48期十段戦敗者復活戦1回戦 | Yamashita Keigo | Yamashiro Hiroshi | Win | B+R | 6.5 | 2947.0 | 42.0 | 
-| 2009-06-11 | 第16期阿含・桐山杯全日本早碁オープン戦1回戦 | Chin Kaei | Yamashita Keigo | Win | W+5.5 | 6.5 | 2905.0 | 20.0 | 
-| 2009-06-06 | 第22回世界囲碁選手権富士通杯3回戦 | Yamashita Keigo | Lee Changho | Lose | W+4.5 | 6.5 | 2885.0 | -98.0 | 
-| 2009-05-28 | 第57期王座戦2回戦 | Yoda Norimoto | Yamashita Keigo | Lose | B+R | 6.5 | 2983.0 | -61.0 | 
-| 2009-05-18 | 第14回LG杯世界棋王戦1回戦 | Yamashita Keigo | Weon Seongjin | Lose | W+6.5 | 6.5 | 3044.0 | -4.0 | 
-| 2009-05-14 | 第48期十段戦本戦1回戦 | O Rissei | Yamashita Keigo | Lose | B+R | 6.5 | 3048.0 | 12.0 | 
-| 2009-04-30 | 第35期天元戦本戦2回戦 | Imamura Toshiya | Yamashita Keigo | Win | W+0.5 | 6.5 | 3036.0 | 42.0 | 
-| 2009-04-23 | 第48期十段戦予選 | Yamashita Keigo | Kataoka Satoshi | Win | B+R | 6.5 | 2994.0 | -1.0 | 
-| 2009-04-16 | 第57期王座戦1回戦 | Yamashita Keigo | Takemiya Masaki | Win | B+8.5 | 6.5 | 2995.0 | 12.0 | 
-| 2009-04-13 | 第22回世界囲碁選手権富士通杯2回戦 | Yamashita Keigo | Qiu Jun | Win | B+R | 6.5 | 2983.0 | 14.0 | 
-| 2009-04-07 | 第34期碁聖戦本戦3回戦 | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5 | 2969.0 | 4.0 | 
-| 2009-04-02 | 第64期本因坊戦リーグ | Kataoka Satoshi | Yamashita Keigo | Win | W+R | 6.5 | 2965.0 | -2.0 | 
-| 2009-03-26 | 第48期十段戦予選 | Yamashita Keigo | Murakawa Daisuke | Win | B+R | 6.5 | 2967.0 | 19.0 | 
-| 2009-03-12 | 第33期棋聖戦挑戦手合七番勝負第6局 | Yoda Norimoto | Yamashita Keigo | Win | W+2.5 | 6.5 | 2948.0 | 1.0 | 
-| 2009-03-05 | 第64期本因坊戦リーグ | Yamashita Keigo | Yamada Kimio | Win | B+R | 6.5 | 2947.0 | -68.0 | 
-| 2009-02-26 | 第33期棋聖戦挑戦手合七番勝負第5局 | Yamashita Keigo | Yoda Norimoto | Win | B+5.5 | 6.5 | 3015.0 | 71.0 | 
-| 2009-02-20 | 第33期棋聖戦挑戦手合七番勝負第4局 | Yoda Norimoto | Yamashita Keigo | Lose | B+R | 6.5 | 2944.0 | -3.0 | 
-| 2009-02-12 | 第64期本因坊戦リーグ | Yoda Norimoto | Yamashita Keigo | Lose | B+R | 6.5 | 2947.0 | -28.0 | 
-| 2009-02-05 | 第33期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Yoda Norimoto | Lose | W+0.5 | 6.5 | 2975.0 | -11.0 | 
-| 2009-01-29 | 第33期棋聖戦挑戦手合七番勝負第2局 | Yoda Norimoto | Yamashita Keigo | Win | W+0.5 | 6.5 | 2986.0 | 3.0 | 
-| 2009-01-15 | 第33期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Yoda Norimoto | Win | B+1.5 | 6.5 | 2983.0 | -103.0 | 
-| 2009-01-08 | 第64期本因坊戦リーグ | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3086.0 | 53.0 | 
-| 2008-12-25 | 第35期天元戦本戦1回戦 | Yuki Satoshi | Yamashita Keigo | Win | W+2.5 | 6.5 | 3033.0 | 49.0 | 
-| 2008-12-18 | 第64期本因坊戦リーグ | Takao Shinji | Yamashita Keigo | Lose | B+10.5 | 6.5 | 2984.0 | 81.0 | 
-| 2008-12-08 | 第56期王座戦挑戦手合五番勝負第4局 | Yamashita Keigo | Cho U | Lose | W+2.5 | 6.5 | 2903.0 | 7.0 | 
-| 2008-12-04 | 第34期碁聖戦本戦2回戦 | Yamashita Keigo | Mimura Tomoyasu | Win | B+R | 6.5 | 2896.0 | -32.0 | 
-| 2008-12-01 | 第56期王座戦挑戦手合五番勝負第3局 | Cho U | Yamashita Keigo | Win | W+5.5 | 6.5 | 2928.0 | 292.0 | 
-| 2008-11-27 | 第64期本因坊戦リーグ | So Yokoku | Yamashita Keigo | Lose | B+8.5 | 6.5 | 2636.0 | -23.0 | 
-| 2008-11-18 | 第13回三星火災杯世界オープン囲碁選手権3回戦 | Kong Jie | Yamashita Keigo | Lose | B+R | 6.5 | 2659.0 | 1.0 | 
-| 2008-11-13 | 第56期王座戦挑戦手合五番勝負第2局 | Yamashita Keigo | Cho U | Lose | W+R | 6.5 | 2658.0 | 5.0 | 
-| 2008-11-03 | 第13回LG杯世界棋王戦3回戦 | Lee Changho | Yamashita Keigo | Lose | B+4.5 | 6.5 | 2653.0 | -10.0 | 
-| 2008-10-30 | 第34期碁聖戦本戦1回戦 | Kurahashi Masayuki | Yamashita Keigo | Win | W+R | 6.5 | 2663.0 | -570.0 | 
-| 2008-10-27 | 第56期王座戦挑戦手合五番勝負第1局 | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 3233.0 | -17.0 | 
-| 2008-10-22 | 第10回農心辛ラーメン杯世界囲碁最強戦第2戦 | Tuo Jiaxi | Yamashita Keigo | Lose | B+4.5 | 6.5 | 3250.0 | -7.0 | 
-| 2008-10-17 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦三位決定戦 | Yamashita Keigo | Xiao Zhenghao | Lose | W+1.5 | 6.5 | 3257.0 | 0.0 | 
-| 2008-10-17 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Kim Jiseok | Yamashita Keigo | Lose | B+2.5 | 6.5 | 3257.0 | -26.0 | 
-| 2008-10-15 | 第1回ワールドマインドスポーツゲームズ囲碁男子団体戦 | Piao Wenyao | Yamashita Keigo | Lose | B+R | 6.5 | 3283.0 | 31.0 | 
-| 2008-10-09 | 第64期本因坊戦リーグ | Yamashita Keigo | Nakaonoda Tomomi | Win | B+R | 6.5 | 3252.0 | 59.0 | 
-| 2008-09-20 | 第28期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Cho Chikun | Lose | W+R | 6.5 | 3193.0 | -29.0 | 
-| 2008-09-11 | 第34期名人戦予選 | Ryu Shikun | Yamashita Keigo | Lose | B+R | 6.5 | 3222.0 | -23.0 | 
-| 2008-09-05 | 第13回三星火災杯世界オープン囲碁選手権2回戦 | Zhou Heyang | Yamashita Keigo | Win | W+R | 6.5 | 3245.0 | 3.0 | 
-| 2008-09-03 | 第13回三星火災杯世界オープン囲碁選手権1回戦 | Xie He | Yamashita Keigo | Win | W+R | 6.5 | 3242.0 | 47.0 | 
-| 2008-08-23 | 第4期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Yamashita Keigo | Cho Hanseung | Lose | W+7.5 | 6.5 | 3195.0 | -17.0 | 
-| 2008-08-15 | 第33期碁聖戦挑戦手合五番勝負第4局 | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 3212.0 | 340.0 | 
-| 2008-07-31 | 第33期碁聖戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho U | Lose | W+R | 6.5 | 2872.0 | -8.0 | 
-| 2008-07-27 | 第33期碁聖戦挑戦手合五番勝負第2局 | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 2880.0 | -24.0 | 
-| 2008-07-11 | 第33期碁聖戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 2904.0 | 5.0 | 
-| 2008-06-19 | 第15期阿含・桐山杯全日本早碁オープン戦1回戦 | Nakano Hironari | Yamashita Keigo | Lose | B+1.5 | 6.5 | 2899.0 | -16.0 | 
-| 2008-06-12 | 第34期天元戦本戦3回戦 | Yamashita Keigo | Ko Iso | Lose | W+4.5 | 6.5 | 2915.0 | -32.0 | 
-| 2008-06-02 | 第33期碁聖戦挑戦者決定戦 | Takao Shinji | Yamashita Keigo | Win | W+1.5 | 6.5 | 2947.0 | 25.0 | 
-| 2008-05-28 | 第13回LG杯世界棋王戦2回戦 | Kim Hyeongwan | Yamashita Keigo | Win | W+R | 6.5 | 2922.0 | 10.0 | 
-| 2008-05-26 | 第13回LG杯世界棋王戦1回戦 | Kim Seongjae | Yamashita Keigo | Win | W+R | 6.5 | 2912.0 | 34.0 | 
-| 2008-05-15 | 第34期天元戦本戦2回戦 | Yamashita Keigo | Yuki Satoshi | Win | B+R | 6.5 | 2878.0 | 26.0 | 
-| 2008-04-30 | 第6回応氏杯世界選手権1回戦 | Yamashita Keigo | Gu Li | Lose | W+R | 7.5 | 2852.0 | 6.0 | 
-| 2008-04-24 | 第47期十段戦予選 | Yamashiro Hiroshi | Yamashita Keigo | Lose | B+1.5 | 6.5 | 2846.0 | 186.0 | 
-| 2008-04-17 | 第34期天元戦本戦1回戦 | Yamashita Keigo | Awaji Shuzo | Win | B+R | 6.5 | 2660.0 | 7.0 | 
-| 2008-04-14 | 第21回世界囲碁選手権富士通杯2回戦 | Yamashita Keigo | Cho Hanseung | Lose | W+6.5 | 6.5 | 2653.0 | -2.0 | 
-| 2008-04-10 | 第47期十段戦予選 | Yamashita Keigo | Hatanaka Hoshinobu | Win | B+R | 6.5 | 2655.0 | -8.0 | 
-| 2008-04-03 | 第63期本因坊戦リーグ | So Yokoku | Yamashita Keigo | Win | W+R | 6.5 | 2663.0 | 24.0 | 
-| 2008-03-27 | 第33期碁聖戦本戦準決勝 | Yamashita Keigo | Yoda Norimoto | Win | B+R | 6.5 | 2639.0 | 19.0 | 
-| 2008-03-20 | 第32期棋聖戦挑戦手合七番勝負第7局 | Cho Chikun | Yamashita Keigo | Win | W+R | 6.5 | 2620.0 | 4.0 | 
-| 2008-03-14 | 第32期棋聖戦挑戦手合七番勝負第6局 | Yamashita Keigo | Cho Chikun | Lose | W+4.5 | 6.5 | 2616.0 | 12.0 | 
-| 2008-03-06 | 第63期本因坊戦リーグ | Yamashita Keigo | Yamada Kimio | Lose | W+2.5 | 6.5 | 2604.0 | -17.0 | 
-| 2008-02-28 | 第32期棋聖戦挑戦手合七番勝負第5局 | Cho Chikun | Yamashita Keigo | Lose | B+3.5 | 6.5 | 2621.0 | -12.0 | 
-| 2008-02-22 | 第32期棋聖戦挑戦手合七番勝負第4局 | Yamashita Keigo | Cho Chikun | Win | B+R | 6.5 | 2633.0 | 14.0 | 
-| 2008-02-18 | 第33期碁聖戦本戦3回戦 | Yamashita Keigo | Cho Chikun | Win | B+R | 6.5 | 2619.0 | -20.0 | 
-| 2008-02-14 | 第63期本因坊戦リーグ | Yamashita Keigo | Mizokami Tomochika | Win | B+8.5 | 6.5 | 2639.0 | 3.0 | 
-| 2008-02-08 | 第32期棋聖戦挑戦手合七番勝負第3局 | Cho Chikun | Yamashita Keigo | Win | W+R | 6.5 | 2636.0 | -20.0 | 
-| 2008-01-31 | 第32期棋聖戦挑戦手合七番勝負第2局 | Yamashita Keigo | Cho Chikun | Lose | W+R | 6.5 | 2656.0 | 29.0 | 
-| 2008-01-24 | 第63期本因坊戦リーグ | Yamashita Keigo | Yoda Norimoto | Win | B+R | 6.5 | 2627.0 | 31.0 | 
-| 2008-01-13 | 第32期棋聖戦挑戦手合七番勝負第1局 | Cho Chikun | Yamashita Keigo | Win | W+R | 6.5 | 2596.0 | 24.0 | 
-| 2007-12-10 | 第63期本因坊戦リーグ | O Meien | Yamashita Keigo | Win | W+R | 6.5 | 2572.0 | -4.0 | 
-| 2007-12-06 | 第33期天元戦挑戦手合五番勝負第4局 | Yamashita Keigo | Kono Rin | Lose | W+R | 6.5 | 2576.0 | -26.0 | 
-| 2007-11-29 | 第55期王座戦挑戦手合五番勝負第4局 | Yamashita Keigo | Imamura Toshiya | Win | B+R | 6.5 | 2602.0 | 6.0 | 
-| 2007-11-27 | 第55期王座戦挑戦手合五番勝負第3局 | Imamura Toshiya | Yamashita Keigo | Win | W+R | 6.5 | 2596.0 | -5.0 | 
-| 2007-11-22 | 第33期天元戦挑戦手合五番勝負第3局 | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 | 2601.0 | 3.0 | 
-| 2007-11-19 | 第33期碁聖戦本戦2回戦 | Yamashita Keigo | Ishii Shinzo | Win | B+R | 6.5 | 2598.0 | -5.0 | 
-| 2007-11-15 | 第55期王座戦挑戦手合五番勝負第2局 | Yamashita Keigo | Imamura Toshiya | Lose | W+R | 6.5 | 2603.0 | -13.0 | 
-| 2007-11-12 | 第63期本因坊戦リーグ | Yamashita Keigo | Hane Naoki | Lose | W+6.5 | 6.5 | 2616.0 | -14.0 | 
-| 2007-11-08 | 第33期天元戦挑戦手合五番勝負第2局 | Yamashita Keigo | Kono Rin | Lose | W+R | 6.5 | 2630.0 | 4.0 | 
-| 2007-11-02 | 第33期天元戦挑戦手合五番勝負第1局 | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 2626.0 | 12.0 | 
-| 2007-10-26 | 第55期王座戦挑戦手合五番勝負第1局 | Imamura Toshiya | Yamashita Keigo | Win | W+R | 6.5 | 2614.0 | -3.0 | 
-| 2007-10-23 | 第63期本因坊戦リーグ | Cho U | Yamashita Keigo | Lose | B+1.5 | 6.5 | 2617.0 | -4.0 | 
-| 2007-10-18 | 第33期碁聖戦本戦1回戦 | Cho Riyu | Yamashita Keigo | Win | W+4.5 | 6.5 | 2621.0 | -26.0 | 
-| 2007-09-22 | 第27期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Cho Sonjin | Lose | W+6.5 | 6.5 | 2647.0 | -1325.0 | 
-| 2007-09-20 | 第33期天元戦挑戦者決定戦 | Iyama Yuta | Yamashita Keigo | Win | W+1.5 | 6.5 | 3972.0 | 1239.0 | 
-| 2007-09-04 | 第12回三星火災杯世界オープン囲碁選手権1回戦 | Yamashita Keigo | Heo Yongho | Lose | W+R | 6.5 | 2733.0 | -12.0 | 
-| 2007-08-30 | 第33期名人戦予選 | Yamashita Keigo | Iyama Yuta | Lose | W+1.5 | 6.5 | 2745.0 | -19.0 | 
-| 2007-08-23 | 第63期本因坊戦予選 | Yamashita Keigo | Cho Chikun | Win | B+R | 6.5 | 2764.0 | -255.0 | 
-| 2007-08-13 | 第3回中環杯世界囲碁選手権2回戦 | Cho Hanseung | Yamashita Keigo | Lose | B+R | 6.5 | 3019.0 | -13.0 | 
-| 2007-08-12 | 第3回中環杯世界囲碁選手権1回戦 | Chen Shiyuan | Yamashita Keigo | Win | W+R | 6.5 | 3032.0 | 10.0 | 
-| 2007-08-09 | 第46期十段戦敗者復活戦1回戦 | Shuto Shun | Yamashita Keigo | Lose | B+9.5 | 6.5 | 3022.0 | -127.0 | 
-| 2007-08-02 | 第32期名人戦リーグ | Yamashita Keigo | Kobayashi Satoru | Lose | W+R | 6.5 | 3149.0 | -131.0 | 
-| 2007-07-21 | 第27期NECカップ囲碁トーナメント戦1回戦 | Yamashita Keigo | Yamada Kimio | Win | B+R | 6.5 | 3280.0 | 42.0 | 
-| 2007-07-19 | 第33期天元戦本戦準決勝 | Yamashita Keigo | Kim Sujun | Win | B+R | 6.5 | 3238.0 | 162.0 | 
-| 2007-07-12 | 第32期名人戦リーグ | Yamada Kimio | Yamashita Keigo | Lose | B+5.5 | 6.5 | 3076.0 | -99.0 | 
-| 2007-07-05 | 第63期本因坊戦予選 | Ueki Yoshio | Yamashita Keigo | Win | W+R | 6.5 | 3175.0 | -32.0 | 
-| 2007-06-28 | 第33期天元戦本戦3回戦 | Yuki Satoshi | Yamashita Keigo | Win | W+R | 6.5 | 3207.0 | 1.0 | 
-| 2007-06-21 | 第14期阿含・桐山杯全日本早碁オープン戦1回戦 | Rin Kanketsu | Yamashita Keigo | Lose | B+1.5 | 6.5 | 3206.0 | -29.0 | 
-| 2007-06-14 | 第63期本因坊戦予選 | Matsumoto Takehisa | Yamashita Keigo | Win | W+R | 6.5 | 3235.0 | 84.0 | 
-| 2007-06-06 | 第12回LG杯世界棋王戦2回戦 | On Sojin | Yamashita Keigo | Lose | B+R | 6.5 | 3151.0 | -9.0 | 
-| 2007-06-04 | 第12回LG杯世界棋王戦1回戦 | Yamashita Keigo |  | Win | B+R | 6.5 | 3160.0 | 28.0 | 
-| 2007-05-31 | 第32期名人戦リーグ | Yamashita Keigo | Mimura Tomoyasu | Lose | W+0.5 | 6.5 | 3132.0 | -4.0 | 
-| 2007-05-24 | 第63期本因坊戦予選 | Yamashita Keigo | Sakai Hideyuki | Win | B+R | 6.5 | 3136.0 | 22.0 | 
-| 2007-05-17 | 第46期十段戦本戦1回戦 | Takao Shinji | Yamashita Keigo | Lose | B+R | 6.5 | 3114.0 | -37.0 | 
-| 2007-05-03 | 第32期名人戦リーグ | Hikosaka Naoto | Yamashita Keigo | Lose | B+R | 6.5 | 3151.0 | -24.0 | 
-| 2007-04-25 | 第45期十段戦挑戦手合五番勝負第5局 | Cho Chikun | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3175.0 | 21.0 | 
-| 2007-04-19 | 第45期十段戦挑戦手合五番勝負第4局 | Cho Chikun | Yamashita Keigo | Win | W+R | 6.5 | 3154.0 | -1.0 | 
-| 2007-04-16 | 第20回世界囲碁選手権富士通杯2回戦 | Yamashita Keigo | Hu Yaoyu | Lose | W+2.5 | 6.5 | 3155.0 | 18.0 | 
-| 2007-04-05 | 第45期十段戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho Chikun | Win | B+R | 6.5 | 3137.0 | -16.0 | 
-| 2007-03-29 | 第45期十段戦挑戦手合五番勝負第2局 | Cho Chikun | Yamashita Keigo | Lose | B+2.5 | 6.5 | 3153.0 | -24.0 | 
-| 2007-03-22 | 第32期名人戦リーグ | Yamashita Keigo | Yoda Norimoto | Lose | W+4.5 | 6.5 | 3177.0 | -18.0 | 
-| 2007-03-15 | 第33期天元戦本戦2回戦 | Michael Redmond | Yamashita Keigo | Win | W+R | 6.5 | 3195.0 | 338.0 | 
-| 2007-03-08 | 第45期十段戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho Chikun | Lose | W+R | 6.5 | 2857.0 | -4.0 | 
-| 2007-02-23 | 第31期棋聖戦挑戦手合七番勝負第4局 | Kobayashi Satoru | Yamashita Keigo | Win | W+R | 6.5 | 2861.0 | 19.0 | 
-| 2007-02-15 | 第45期十段戦挑戦者決定戦 | Yamashita Keigo | Yoda Norimoto | Win | B+6.5 | 6.5 | 2842.0 | -3.0 | 
-| 2007-02-12 | 第32期名人戦リーグ | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 2845.0 | -19.0 | 
-| 2007-02-08 | 第31期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Kobayashi Satoru | Win | B+R | 6.5 | 2864.0 | 13.0 | 
-| 2007-02-01 | 第31期棋聖戦挑戦手合七番勝負第2局 | Kobayashi Satoru | Yamashita Keigo | Win | W+R | 6.5 | 2851.0 | -12.0 | 
-| 2007-01-25 | 第32期名人戦リーグ | Yamashita Keigo | Cho U | Lose | W+0.5 | 6.5 | 2863.0 | 12.0 | 
-| 2007-01-18 | 第31期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Kobayashi Satoru | Win | B+R | 6.5 | 2851.0 | 21.0 | 
-| 2007-01-11 | 第33期天元戦本戦1回戦 | Yamashita Keigo | Takao Shinji | Win | B+R | 6.5 | 2830.0 | 42.0 | 
-| 2006-12-21 | 第32期名人戦リーグ | Sakai Hideyuki | Yamashita Keigo | Lose | B+R | 6.5 | 2788.0 | -2.0 | 
-| 2006-12-14 | 第32期天元戦挑戦手合五番勝負第4局 | Yamashita Keigo | Kono Rin | Lose | W+3.5 | 6.5 | 2790.0 | -34.0 | 
-| 2006-12-07 | 第54期王座戦挑戦手合五番勝負第4局 | Cho U | Yamashita Keigo | Win | W+R | 6.5 | 2824.0 | 7.0 | 
-| 2006-11-30 | 第54期王座戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 2817.0 | 0.0 | 
-| 2006-11-23 | 第32期碁聖戦本戦2回戦 | Yamashita Keigo | Matsumoto Takehisa | Lose | W+R | 6.5 | 2817.0 | -12.0 | 
-| 2006-11-20 | 第32期天元戦挑戦手合五番勝負第3局 | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 | 2829.0 | -2.0 | 
-| 2006-11-16 | 第54期王座戦挑戦手合五番勝負第2局 | Cho U | Yamashita Keigo | Win | W+1.5 | 6.5 | 2831.0 | 15.0 | 
-| 2006-11-13 | 第32期天元戦挑戦手合五番勝負第2局 | Yamashita Keigo | Kono Rin | Win | B+R | 6.5 | 2816.0 | -7.0 | 
-| 2006-11-02 | 第32期天元戦挑戦手合五番勝負第1局 | Kono Rin | Yamashita Keigo | Lose | B+3.5 | 6.5 | 2823.0 | 14.0 | 
-| 2006-10-26 | 第54期王座戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho U | Lose | W+6.5 | 6.5 | 2809.0 | -72.0 | 
-| 2006-10-19 | 第32期碁聖戦本戦1回戦 | Murakawa Daisuke | Yamashita Keigo | Win | W+R | 6.5 | 2881.0 | 0.0 | 
-| 2006-10-14 | 第26期NECカップ囲碁トーナメント戦2回戦 | Yamashita Keigo | Hane Naoki | Lose | W+5.5 | 6.5 | 2881.0 | -4.0 | 
-| 2006-10-02 | 第45期十段戦本戦勝者組決勝 | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 2885.0 | 7.0 | 
-| 2006-09-21 | 第45期十段戦本戦3回戦 | Kobayashi Satoru | Yamashita Keigo | Win | W+0.5 | 6.5 | 2878.0 | 23.0 | 
-| 2006-09-14 | 第32期天元戦挑戦者決定戦 | Yamashita Keigo | Takemiya Masaki | Win | B+R | 6.5 | 2855.0 | -23.0 | 
-| 2006-09-08 | 第11回三星火災杯世界オープン囲碁選手権2回戦 | Piao Wenyao | Yamashita Keigo | Lose | B+3.5 | 6.5 | 2878.0 | -5.0 | 
-| 2006-09-06 | 第11回三星火災杯世界オープン囲碁選手権1回戦 | Yamashita Keigo | Cho Hanseung | Win | B+3.5 | 6.5 | 2883.0 | 3.0 | 
-| 2006-08-31 | 第54期王座戦挑戦者決定戦 | Yamashita Keigo | Kobayashi Satoru | Win | B+R | 6.5 | 2880.0 | -15.0 | 
-| 2006-08-10 | 第45期十段戦本戦2回戦 | Yamashita Keigo | Yoda Norimoto | Win | B+R | 6.5 | 2895.0 | -30.0 | 
-| 2006-08-03 | 第31期名人戦リーグ | Yoda Norimoto | Yamashita Keigo | Win | W+7.5 | 6.5 | 2925.0 | 14.0 | 
-| 2006-07-20 | 第54期王座戦準決勝 | Yamashita Keigo | Ryu Shikun | Win | B+0.5 | 6.5 | 2911.0 | -25.0 | 
-| 2006-07-13 | 第32期天元戦本戦準決勝 | Yamashita Keigo | O Rissei | Win | B+R | 6.5 | 2936.0 | -38.0 | 
-| 2006-07-06 | 第31期名人戦リーグ | Yamashita Keigo | Imamura Toshiya | Win | B+R | 6.5 | 2974.0 | 9.0 | 
-| 2006-06-29 | 第54期王座戦2回戦 | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 2965.0 | 17.0 | 
-| 2006-06-26 | 第62期本因坊戦予選 | Rin Shien | Yamashita Keigo | Lose | B+4.5 | 6.5 | 2948.0 | -213.0 | 
-| 2006-06-22 | 第32期天元戦本戦3回戦 | Yamashita Keigo | Sakai Hideyuki | Win | B+R | 6.5 | 3161.0 | 11.0 | 
-| 2006-06-17 | 第26期NECカップ囲碁トーナメント戦1回戦 | Yamashita Keigo | Yoda Norimoto | Win | B+R | 6.5 | 3150.0 | 12.0 | 
-| 2006-06-15 | 第45期十段戦本戦1回戦 | Kobayashi Koichi | Yamashita Keigo | Win | W+0.5 | 6.5 | 3138.0 | -16.0 | 
-| 2006-06-12 | 第3期トヨタ＆デンソー杯囲碁世界王座戦日本予選 | Yamashita Keigo | Kim Sujun | Lose | W+2.5 | 6.5 | 3154.0 | -2.0 | 
-| 2006-06-08 | 第31期碁聖戦挑戦者決定戦 | Cho U | Yamashita Keigo | Lose | B+2.5 | 6.5 | 3156.0 | -11.0 | 
-| 2006-06-05 | 第13期阿含・桐山杯全日本早碁オープン戦予選 | Kim Sujun | Yamashita Keigo | Lose | B+11.5 | 6.5 | 3167.0 | 0.0 | 
-| 2006-06-01 | 第31期名人戦リーグ | Yamashita Keigo | Ko Iso | Win | B+5.5 | 6.5 | 3167.0 | 6.0 | 
-| 2006-05-29 | 第62期本因坊戦予選 | Yamashita Keigo | Kurahashi Masayuki | Win | B+R | 6.5 | 3161.0 | 16.0 | 
-| 2006-05-25 | 第31期名人戦リーグ | Yamashita Keigo | Sakai Hideyuki | Win | B+R | 6.5 | 3145.0 | 116.0 | 
-| 2006-05-17 | 第11回LG杯世界棋王戦2回戦 | Hu Yaoyu | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3029.0 | -28.0 | 
-| 2006-05-15 | 第11回LG杯世界棋王戦1回戦 | Yun Junsang | Yamashita Keigo | Win | W+2.5 | 6.5 | 3057.0 | 0.0 | 
-| 2006-05-11 | 第31期碁聖戦本戦準決勝 | Cho Chikun | Yamashita Keigo | Win | W+R | 6.5 | 3057.0 | -2.0 | 
-| 2006-05-03 | 第5回CSK杯囲碁アジア対抗戦第3戦 | Yamashita Keigo | O Rissei | Win | B+2.5 | 6.5 | 3059.0 | 3.0 | 
-| 2006-05-02 | 第5回CSK杯囲碁アジア対抗戦第2戦 | Gu Li | Yamashita Keigo | Lose | B+R | 6.5 | 3056.0 | -3.0 | 
-| 2006-05-01 | 第5回CSK杯囲碁アジア対抗戦第1戦 | Park Yeonghun | Yamashita Keigo | Lose | B+R | 6.5 | 3059.0 | -27.0 | 
-| 2006-04-27 | 第32期天元戦本戦2回戦 | Komatsu Hideki | Yamashita Keigo | Win | W+R | 6.5 | 3086.0 | -8.0 | 
-| 2006-04-20 | 第31期名人戦リーグ | Kobayashi Satoru | Yamashita Keigo | Lose | B+0.5 | 6.5 | 3094.0 | -19.0 | 
-| 2006-04-13 | 第44期十段戦挑戦手合五番勝負第4局 | Cho Chikun | Yamashita Keigo | Lose | B+2.5 | 6.5 | 3113.0 | 0.0 | 
-| 2006-04-10 | 第19回世界囲碁選手権富士通杯2回戦 | Yamashita Keigo | Lee Changho | Lose | W+2.5 | 6.5 | 3113.0 | -13.0 | 
-| 2006-04-08 | 第19回世界囲碁選手権富士通杯1回戦 | Cho Hanseung | Yamashita Keigo | Win | W+R | 6.5 | 3126.0 | 7.0 | 
-| 2006-04-05 | 第44期十段戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho Chikun | Win | B+8.5 | 6.5 | 3119.0 | 10.0 | 
-| 2006-03-30 | 第54期王座戦1回戦 | Nakamura Shinya | Yamashita Keigo | Win | W+R | 6.5 | 3109.0 | -6.0 | 
-| 2006-03-27 | 第44期十段戦挑戦手合五番勝負第2局 | Cho Chikun | Yamashita Keigo | Lose | B+R | 6.5 | 3115.0 | -8.0 | 
-| 2006-03-23 | 第32期天元戦本戦1回戦 | Yamashita Keigo | Takagi Shoichi | Win | B+10.5 | 6.5 | 3123.0 | -10.0 | 
-| 2006-03-16 | 第31期碁聖戦本戦3回戦 | Takemiya Masaki | Yamashita Keigo | Win | W+R | 6.5 | 3133.0 | 6.0 | 
-| 2006-03-13 | 第31期名人戦リーグ | Yamada Kimio | Yamashita Keigo | Win | W+R | 6.5 | 3127.0 | -4.0 | 
-| 2006-03-08 | 第44期十段戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho Chikun | Lose | W+R | 6.5 | 3131.0 | -3.0 | 
-| 2006-02-23 | 第30期棋聖戦挑戦手合七番勝負第4局 | Hane Naoki | Yamashita Keigo | Win | W+2.5 | 6.5 | 3134.0 | 8.0 | 
-| 2006-02-16 | 第31期名人戦リーグ | Yamashita Keigo | Takao Shinji | Lose | W+0.5 | 6.5 | 3126.0 | -3.0 | 
-| 2006-02-13 | 第19回世界囲碁選手権富士通杯国内予選決勝 | Yamashita Keigo | Sakai Hideyuki | Win | B+3.5 | 6.5 | 3129.0 | 6.0 | 
-| 2006-02-09 | 第30期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Hane Naoki | Win | B+1.5 | 6.5 | 3123.0 | 12.0 | 
-| 2006-02-02 | 第30期棋聖戦挑戦手合七番勝負第2局 | Hane Naoki | Yamashita Keigo | Win | W+6.5 | 6.5 | 3111.0 | 17.0 | 
-| 2006-01-26 | 第44期十段戦挑戦者決定戦 | Yamashita Keigo | Takao Shinji | Win | B+R | 6.5 | 3094.0 | -186.0 | 
-| 2006-01-16 | 第30期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 3280.0 | 216.0 | 
-| 2006-01-09 | 第44期十段戦敗者復活戦決勝 | Yamashita Keigo | Mimura Tomoyasu | Win | B+3.5 | 6.5 | 3064.0 | -9.0 | 
-| 2006-01-06 | 第31期名人戦リーグ | Han Zenki | Yamashita Keigo | Lose | B+4.5 | 6.5 | 3073.0 | -4.0 | 
-| 2005-12-23 | 第44期十段戦敗者復活戦4回戦 | Kobayashi Satoru | Yamashita Keigo | Win | W+R | 6.5 | 3077.0 | -225.0 | 
-| 2005-12-20 | 第31期天元戦挑戦手合五番勝負第5局 | Yamashita Keigo | Kono Rin | Lose | W+4.5 | 6.5 | 3302.0 | 6.0 | 
-| 2005-12-15 | 第31期天元戦挑戦手合五番勝負第4局 | Yamashita Keigo | Kono Rin | Win | B+R | 6.5 | 3296.0 | -45.0 | 
-| 2005-12-05 | 第19回世界囲碁選手権富士通杯国内予選 | Yamashita Keigo | Nakamura Shinya | Win | B+R | 6.5 | 3341.0 | -7.0 | 
-| 2005-12-01 | 第53期王座戦挑戦手合五番勝負第3局 | Cho U | Yamashita Keigo | Lose | B+9.5 | 6.5 | 3348.0 | -3.0 | 
-| 2005-11-28 | 第31期碁聖戦本戦2回戦 | Yamashita Keigo | Nakaonoda Tomomi | Win | B+R | 6.5 | 3351.0 | 2.0 | 
-| 2005-11-24 | 第31期天元戦挑戦手合五番勝負第3局 | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 | 3349.0 | -11.0 | 
-| 2005-11-21 | 第53期王座戦挑戦手合五番勝負第2局 | Yamashita Keigo | Cho U | Lose | W+R | 6.5 | 3360.0 | -28.0 | 
-| 2005-11-17 | 第31期天元戦挑戦手合五番勝負第2局 | Yamashita Keigo | Kono Rin | Lose | W+5.5 | 6.5 | 3388.0 | 45.0 | 
-| 2005-11-14 | 第19回世界囲碁選手権富士通杯国内予選 | Kiyonari Tetsuya | Yamashita Keigo | Win | W+5.5 | 6.5 | 3343.0 | 72.0 | 
-| 2005-11-10 | 第31期碁聖戦本戦1回戦 | Fujii Shuya | Yamashita Keigo | Win | W+R | 6.5 | 3271.0 | 233.0 | 
-| 2005-11-07 | 第31期天元戦挑戦手合五番勝負第1局 | Kono Rin | Yamashita Keigo | Win | W+6.5 | 6.5 | 3038.0 | 25.0 | 
-| 2005-11-03 | 第30期棋聖戦挑戦者決定戦 | Yamashita Keigo | Yuki Satoshi | Win | B+3.5 | 6.5 | 3013.0 | -207.0 | 
-| 2005-10-28 | 第53期王座戦挑戦手合五番勝負第1局 | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 3220.0 | 30.0 | 
-| 2005-10-19 | 2005年国際新鋭囲碁対抗戦第3戦 | Yamashita Keigo | Lin Zhihan | Win | B+2.5 | 6.5 | 3190.0 | 0.0 | 
-| 2005-10-18 | 2005年国際新鋭囲碁対抗戦第2戦 | Hu Yaoyu | Yamashita Keigo | Lose | B+R | 6.5 | 3190.0 | -21.0 | 
-| 2005-10-17 | 2005年国際新鋭囲碁対抗戦第1戦 | Yamashita Keigo | Cho Hanseung | Lose | W+7.5 | 6.5 | 3211.0 | -23.0 | 
-| 2005-10-13 | 第44期十段戦敗者復活戦3回戦 | Yamashita Keigo | O Rissei | Win | B+R | 6.5 | 3234.0 | 18.0 | 
-| 2005-10-06 | 第30期棋聖戦Bリーグ | Yamashita Keigo | O Rissei | Win | B+R | 6.5 | 3216.0 | 34.0 | 
-| 2005-09-15 | 第44期十段戦本戦3回戦 | Mimura Tomoyasu | Yamashita Keigo | Lose | B+2.5 | 6.5 | 3182.0 | -27.0 | 
-| 2005-09-08 | 第53期王座戦挑戦者決定戦 | Yamashita Keigo | Nakaonoda Tomomi | Win | B+R | 6.5 | 3209.0 | 14.0 | 
-| 2005-09-01 | 第30期棋聖戦Bリーグ | Yamashita Keigo | Kobayashi Satoru | Win | B+R | 6.5 | 3195.0 | -6.0 | 
-| 2005-08-25 | 第30期棋聖戦Bリーグ | Imamura Toshiya | Yamashita Keigo | Win | W+R | 6.5 | 3201.0 | -14.0 | 
-| 2005-08-16 | 第2回中環杯世界囲碁選手権2回戦 | Yamashita Keigo | Choi Cheolhan | Lose | W+1.5 | 6.5 | 3215.0 | 10.0 | 
-| 2005-08-14 | 第2回中環杯世界囲碁選手権1回戦 | Yamashita Keigo | Zhou Junxun | Win | B+R | 6.5 | 3205.0 | 11.0 | 
-| 2005-08-11 | 第53期王座戦準決勝 | Yamashita Keigo | O Meien | Win | B+R | 6.5 | 3194.0 | -2.0 | 
-| 2005-08-08 | 第30期名人戦挑戦者決定プレーオフ | Yamashita Keigo | Kobayashi Satoru | Lose | W+1.5 | 6.5 | 3196.0 | 26.0 | 
-| 2005-08-04 | 第30期名人戦リーグ | Yamashita Keigo | Sakai Hideyuki | Win | B+R | 6.5 | 3170.0 | -28.0 | 
-| 2005-07-28 | 第44期十段戦本戦2回戦 | Yamashita Keigo | Hikosaka Naoto | Win | B+R | 6.5 | 3198.0 | 13.0 | 
-| 2005-07-24 | 第25期NECカップ囲碁トーナメント戦1回戦 | O Meien | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3185.0 | -5.0 | 
-| 2005-07-14 | 第30期名人戦リーグ | Yamashita Keigo | Cho Sonjin | Win | B+R | 6.5 | 3190.0 | 35.0 | 
-| 2005-07-07 | 第30期棋聖戦Bリーグ | Yamashita Keigo | Komatsu Hideki | Lose | W+R | 6.5 | 3155.0 | -13.0 | 
-| 2005-07-04 | 第44期十段戦本戦1回戦 | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3168.0 | -20.0 | 
-| 2005-06-30 | 第53期王座戦2回戦 | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 3188.0 | 244.0 | 
-| 2005-06-27 | 第12期阿含・桐山杯全日本早碁オープン戦1回戦 | Yamashita Keigo | Sakai Hideyuki | Lose | W+0.5 | 6.5 | 2944.0 | 40.0 | 
-| 2005-06-16 | 第30期棋聖戦Bリーグ | O Meien | Yamashita Keigo | Win | W+R | 6.5 | 2904.0 | 5.0 | 
-| 2005-06-09 | 第30期名人戦リーグ | Yamada Kimio | Yamashita Keigo | Win | W+R | 6.5 | 2899.0 | -5.0 | 
-| 2005-05-18 | 第10回LG杯世界棋王戦2回戦 | Yamashita Keigo | Lee Sedol | Lose | W+R | 6.5 | 2904.0 | -10.0 | 
-| 2005-05-16 | 第10回LG杯世界棋王戦1回戦 | Yamashita Keigo | Chang Hao | Win | B+R | 6.5 | 2914.0 | 1.0 | 
-| 2005-05-12 | 第30期名人戦リーグ | Yoda Norimoto | Yamashita Keigo | Win | W+1.5 | 6.5 | 2913.0 | -13.0 | 
-| 2005-05-03 | 第4回CSK杯囲碁アジア対抗戦第3戦 | O Meien | Yamashita Keigo | Win | W+R | 6.5 | 2926.0 | 16.0 | 
-| 2005-05-02 | 第4回CSK杯囲碁アジア対抗戦第2戦 | Lee Changho | Yamashita Keigo | Lose | B+7.5 | 6.5 | 2910.0 | -8.0 | 
-| 2005-05-01 | 第4回CSK杯囲碁アジア対抗戦第1戦 | Yamashita Keigo | Zhou Heyang | Win | B+R | 6.5 | 2918.0 | 2.0 | 
-| 2005-04-28 | 第53期王座戦1回戦 | Yamashita Keigo | Sakai Hideyuki | Win | B+1.5 | 6.5 | 2916.0 | 75.0 | 
-| 2005-04-14 | 第30期名人戦リーグ | Ogata Masaki | Yamashita Keigo | Win | W+R | 6.5 | 2841.0 | -1.0 | 
-| 2005-03-03 | 第30期名人戦リーグ | Imamura Toshiya | Yamashita Keigo | Win | W+R | 6.5 | 2842.0 | -359.0 | 
-| 2005-02-03 | 第30期名人戦リーグ | Yamashita Keigo | Kobayashi Satoru | Lose | W+R | 6.5 | 3201.0 | 2.0 | 
-| 2005-01-27 | 第30期碁聖戦本戦2回戦 | Cho Chikun | Yamashita Keigo | Lose | B+R | 6.5 | 3199.0 | 37.0 | 
-| 2005-01-20 | 第30期名人戦リーグ | Yamashita Keigo | O Meien | Win | B+R | 6.5 | 3162.0 | 40.0 | 
-| 2005-01-13 | 第1回中環杯世界囲碁選手権準決勝 | Park Yeonghun | Yamashita Keigo | Lose | B+R | 6.5 | 3122.0 | -22.0 | 
-| 2005-01-06 | 第30期碁聖戦本戦1回戦 | Yamashita Keigo | Kitano Ryo | Win | B+R | 6.5 | 3144.0 | 108.0 | 
-| 2004-12-09 | 第52期王座戦挑戦手合五番勝負第4局 | Cho U | Yamashita Keigo | Lose | B+5.5 | 6.5 | 3036.0 | 88.0 | 
-| 2004-11-29 | 第52期王座戦挑戦手合五番勝負第3局 | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 2948.0 | 8.0 | 
-| 2004-11-26 | 第30期天元戦挑戦手合五番勝負第3局 | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 2940.0 | 65.0 | 
-| 2004-11-18 | 第52期王座戦挑戦手合五番勝負第2局 | Cho U | Yamashita Keigo | Lose | B+3.5 | 6.5 | 2875.0 | -7.0 | 
-| 2004-11-12 | 第30期天元戦挑戦手合五番勝負第2局 | Yamashita Keigo | Hane Naoki | Win | B+1.5 | 6.5 | 2882.0 | -28.0 | 
-| 2004-11-07 | 第29期棋聖戦挑戦者決定戦 | Yuki Satoshi | Yamashita Keigo | Lose | B+6.5 | 6.5 | 2910.0 | -3.0 | 
-| 2004-11-04 | 第30期天元戦挑戦手合五番勝負第1局 | Hane Naoki | Yamashita Keigo | Win | W+4.5 | 6.5 | 2913.0 | 167.0 | 
-| 2004-10-29 | 第52期王座戦挑戦手合五番勝負第1局 | Yamashita Keigo | Cho U | Lose | W+R | 6.5 | 2746.0 | -307.0 | 
-| 2004-10-14 | 第43期十段戦敗者復活戦3回戦 | Yamashita Keigo | Rin Kaiho | Lose | W+7.5 | 6.5 | 3053.0 | -34.0 | 
-| 2004-10-07 | 第29期棋聖戦Aリーグ | Ryu Shikun | Yamashita Keigo | Win | W+0.5 | 6.5 | 3087.0 | 34.0 | 
-| 2004-09-30 | 第30期天元戦挑戦者決定戦 | Yamashita Keigo | Kim Sujun | Win | B+8.5 | 6.5 | 3053.0 | -200.0 | 
-| 2004-09-23 | 第43期十段戦敗者復活戦2回戦 | Kobayashi Koichi | Yamashita Keigo | Win | W+6.5 | 6.5 | 3253.0 | -55.0 | 
-| 2004-09-18 | 第1回中環杯世界囲碁選手権2回戦 | Yamashita Keigo | Lin Zhihan | Win | B+2.5 | 6.5 | 3308.0 | 13.0 | 
-| 2004-09-16 | 第1回中環杯世界囲碁選手権1回戦 | Choi Cheolhan | Yamashita Keigo | Win | W+R | 6.5 | 3295.0 | 123.0 | 
-| 2004-09-09 | 第29期棋聖戦Aリーグ | Yamashita Keigo | Mimura Tomoyasu | Win | B+R | 6.5 | 3172.0 | 167.0 | 
-| 2004-09-01 | 第9回三星火災杯世界オープン囲碁選手権1回戦 | Yamashita Keigo | Park Yeonghun | Lose | W+R | 6.5 | 3005.0 | -13.0 | 
-| 2004-08-30 | 第52期王座戦挑戦者決定戦 | Yoda Norimoto | Yamashita Keigo | Win | W+R | 6.5 | 3018.0 | 2.0 | 
-| 2004-08-21 | 第2期トヨタ＆デンソー杯囲碁世界王座戦1回戦 | Yamashita Keigo | Gu Li | Lose | W+R | 6.5 | 3016.0 | 5.0 | 
-| 2004-08-19 | 第30期天元戦本戦準決勝 | Kato Masao | Yamashita Keigo | Win | W+R | 6.5 | 3011.0 | 3.0 | 
-| 2004-08-12 | 第29期棋聖戦Aリーグ | Yamashita Keigo | Miyazawa Goro | Win | B+R | 6.5 | 3008.0 | 17.0 | 
-| 2004-08-07 | 第2期JALスーパー早碁準決勝 | Yamashita Keigo | Mimura Tomoyasu | Lose | W+5.5 | 6.5 | 2991.0 | -31.0 | 
-| 2004-08-05 | 第29期名人戦リーグ | Imamura Toshiya | Yamashita Keigo | Lose | B+2.5 | 6.5 | 3022.0 | 23.0 | 
-| 2004-07-29 | 第52期王座戦準決勝 | Yamashita Keigo | Hane Naoki | Win | B+0.5 | 6.5 | 2999.0 | 6.0 | 
-| 2004-07-22 | 第43期十段戦敗者復活戦1回戦 | Kato Masao | Yamashita Keigo | Win | W+3.5 | 6.5 | 2993.0 | -18.0 | 
-| 2004-07-15 | 第30期天元戦本戦3回戦 | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 3011.0 | 7.0 | 
-| 2004-07-12 | 第24期NECカップ囲碁トーナメント戦1回戦 | Cho U | Yamashita Keigo | Lose | B+2.5 | 6.5 | 3004.0 | 8.0 | 
-| 2004-07-08 | 第29期棋聖戦Aリーグ | O Meien | Yamashita Keigo | Win | W+R | 6.5 | 2996.0 | -61.0 | 
-| 2004-07-01 | 第52期王座戦2回戦 | Yamashita Keigo | Yuki Satoshi | Win | B+R | 6.5 | 3057.0 | 15.0 | 
-| 2004-06-24 | 第30期天元戦本戦2回戦 | Komatsu Hideki | Yamashita Keigo | Win | W+R | 6.5 | 3042.0 | 18.0 | 
-| 2004-06-14 | 第29期名人戦リーグ | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3024.0 | -10.0 | 
-| 2004-06-10 | 第29期棋聖戦Aリーグ | Yoda Norimoto | Yamashita Keigo | Lose | B+0.5 | 6.5 | 3034.0 | -1.0 | 
-| 2004-06-03 | 第29期名人戦リーグ | Rin Kaiho | Yamashita Keigo | Win | W+R | 6.5 | 3035.0 | 66.0 | 
-| 2004-05-27 | 第29期名人戦リーグ | Yamashita Keigo | Kobayashi Satoru | Lose | W+4.5 | 6.5 | 2969.0 | -91.0 | 
-| 2004-05-20 | 第9回LG杯世界棋王戦2回戦 | Yamashita Keigo | Cho Hanseung | Lose | W+7.5 | 6.5 | 3060.0 | -14.0 | 
-| 2004-05-18 | 第9回LG杯世界棋王戦1回戦 | Yamashita Keigo | Song Taekon | Win | B+R | 6.5 | 3074.0 | 14.0 | 
-| 2004-05-13 | 第43期十段戦本戦1回戦 | Yoda Norimoto | Yamashita Keigo | Lose | B+R | 6.5 | 3060.0 | 25.0 | 
-| 2004-05-06 | 第52期王座戦1回戦 | Yamashita Keigo | Kato Atsushi | Win | B+R | 6.5 | 3035.0 | -4.0 | 
-| 2004-05-03 | 第29期碁聖戦本戦準決勝 | Yamashita Keigo | Cho U | Lose | W+R | 6.5 | 3039.0 | 21.0 | 
-| 2004-04-29 | 第30期天元戦本戦1回戦 | Yamashita Keigo | Kobayashi Satoru | Win | B+R | 6.5 | 3018.0 | -111.0 | 
-| 2004-04-22 | 第5回応氏杯世界選手権2回戦 | Yamashita Keigo | Lee Changho | Lose | W+3 | 7.5 | 3129.0 | 18.0 | 
-| 2004-04-20 | 第5回応氏杯世界選手権1回戦 | Gu Li | Yamashita Keigo | Win | W+2 | 7.5 | 3111.0 | 0.0 | 
-| 2004-04-15 | 第29期名人戦リーグ | O Meien | Yamashita Keigo | Win | W+1.5 | 6.5 | 3111.0 | -13.0 | 
-| 2004-04-12 | 第17回世界囲碁選手権富士通杯2回戦 | Park Yeonghun | Yamashita Keigo | Lose | B+5.5 | 6.5 | 3124.0 | -50.0 | 
-| 2004-04-08 | 第29期碁聖戦本戦3回戦 | Yamashita Keigo | Kobayashi Koichi | Win | B+4.5 | 6.5 | 3174.0 | 6.0 | 
-| 2004-04-03 | 第2期JALスーパー早碁1回戦 | Yamashita Keigo | Ryu Shikun | Win | B+5.5 | 6.5 | 3168.0 | 51.0 | 
-| 2004-04-01 | 第59期本因坊戦リーグ | Yamashita Keigo | Mimura Tomoyasu | Win | B+R | 6.5 | 3117.0 | 13.0 | 
-| 2004-03-23 | 第3回CSK杯囲碁アジア対抗戦第3戦 | Yamashita Keigo | O Rissei | Lose | W+2.5 | 6.5 | 3104.0 | -51.0 | 
-| 2004-03-22 | 第3回CSK杯囲碁アジア対抗戦第2戦 | Yamashita Keigo | Choi Cheolhan | Lose | W+R | 6.5 | 3155.0 | -9.0 | 
-| 2004-03-21 | 第3回CSK杯囲碁アジア対抗戦第1戦 | Yu Bin | Yamashita Keigo | Lose | B+R | 6.5 | 3164.0 | -30.0 | 
-| 2004-03-18 | 第28期棋聖戦挑戦手合七番勝負第7局 | Hane Naoki | Yamashita Keigo | Lose | B+R | 6.5 | 3194.0 | 2.0 | 
-| 2004-03-11 | 第28期棋聖戦挑戦手合七番勝負第6局 | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 3192.0 | 9.0 | 
-| 2004-03-04 | 第59期本因坊戦リーグ | Yamashita Keigo | Kato Masao | Win | B+2.5 | 6.5 | 3183.0 | -3.0 | 
-| 2004-02-26 | 第28期棋聖戦挑戦手合七番勝負第5局 | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3186.0 | 129.0 | 
-| 2004-02-21 | 第23期NECカップ囲碁トーナメント戦準決勝 | Kobayashi Koichi | Yamashita Keigo | Lose | B+R | 6.5 | 3057.0 | 67.0 | 
-| 2004-02-19 | 第28期棋聖戦挑戦手合七番勝負第4局 | Yamashita Keigo | Hane Naoki | Win | B+0.5 | 6.5 | 2990.0 | -10.0 | 
-| 2004-02-12 | 第59期本因坊戦リーグ | Yamashita Keigo | O Rissei | Lose | W+3.5 | 6.5 | 3000.0 | -21.0 | 
-| 2004-02-09 | 第29期碁聖戦本戦2回戦 | Kono Rin | Yamashita Keigo | Win | W+5.5 | 6.5 | 3021.0 | 7.0 | 
-| 2004-02-05 | 第28期棋聖戦挑戦手合七番勝負第3局 | Hane Naoki | Yamashita Keigo | Lose | B+3.5 | 6.5 | 3014.0 | -2.0 | 
-| 2004-01-29 | 第28期棋聖戦挑戦手合七番勝負第2局 | Yamashita Keigo | Hane Naoki | Lose | W+R | 6.5 | 3016.0 | -9.0 | 
-| 2004-01-22 | 第29期名人戦リーグ | Yamashita Keigo | Yamada Kimio | Lose | W+R | 6.5 | 3025.0 | -20.0 | 
-| 2004-01-16 | 第28期棋聖戦挑戦手合七番勝負第1局 | Hane Naoki | Yamashita Keigo | Lose | B+R | 6.5 | 3045.0 | -8.0 | 
-| 2004-01-08 | 第59期本因坊戦リーグ | Yoda Norimoto | Yamashita Keigo | Lose | B+R | 6.5 | 3053.0 | 19.0 | 
-| 2003-12-25 | 第29期名人戦リーグ | O Rissei | Yamashita Keigo | Lose | B+R | 6.5 | 3034.0 | -21.0 | 
-| 2003-12-18 | 第29期天元戦挑戦手合五番勝負第5局 | Yamashita Keigo | Hane Naoki | Lose | W+6.5 | 6.5 | 3055.0 | -29.0 | 
-| 2003-12-11 | 第59期本因坊戦リーグ | Yamashita Keigo | Kobayashi Koichi | Lose | W+1.5 | 6.5 | 3084.0 | -2.0 | 
-| 2003-12-04 | 第29期天元戦挑戦手合五番勝負第4局 | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 | 3086.0 | -35.0 | 
-| 2003-12-01 | 第29期碁聖戦本戦1回戦 | Yamashiro Hiroshi | Yamashita Keigo | Win | W+R | 6.5 | 3121.0 | 34.0 | 
-| 2003-11-29 | 第23期NECカップ囲碁トーナメント戦2回戦 | Cho Sonjin | Yamashita Keigo | Win | W+R | 6.5 | 3087.0 | 23.0 | 
-| 2003-11-27 | 第29期天元戦挑戦手合五番勝負第3局 | Yamashita Keigo | Hane Naoki | Lose | W+R | 6.5 | 3064.0 | -26.0 | 
-| 2003-11-20 | 第29期天元戦挑戦手合五番勝負第2局 | Hane Naoki | Yamashita Keigo | Lose | B+4.5 | 6.5 | 3090.0 | -19.0 | 
-| 2003-11-13 | 第59期本因坊戦リーグ | O Meien | Yamashita Keigo | Win | W+R | 6.5 | 3109.0 | -37.0 | 
-| 2003-11-06 | 第42期十段戦敗者復活戦3回戦 | Yamashita Keigo | Yamada Kimio | Lose | W+R | 6.5 | 3146.0 | -9.0 | 
-| 2003-10-30 | 第29期天元戦挑戦手合五番勝負第1局 | Yamashita Keigo | Hane Naoki | Win | B+1.5 | 6.5 | 3155.0 | 53.0 | 
-| 2003-10-27 | 第59期本因坊戦リーグ | Cho Sonjin | Yamashita Keigo | Lose | B+6.5 | 6.5 | 3102.0 | -88.0 | 
-| 2003-10-23 | 第28期名人戦挑戦手合七番勝負第5局 | Yoda Norimoto | Yamashita Keigo | Lose | B+R | 6.5 | 3190.0 | -2930.0 | 
-| 2003-10-16 | 第28期名人戦挑戦手合七番勝負第4局 | Yamashita Keigo | Yoda Norimoto | Lose | W+3.5 | 6.5 | 6120.0 | 56.0 | 
-| 2003-10-09 | 第29期天元戦挑戦者決定戦 | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 6064.0 | 185.0 | 
-| 2003-10-02 | 第28期名人戦挑戦手合七番勝負第3局 | Yoda Norimoto | Yamashita Keigo | Win | W+2.5 | 6.5 | 5879.0 | 2895.0 | 
-| 2003-09-25 | 第28期名人戦挑戦手合七番勝負第2局 | Yamashita Keigo | Yoda Norimoto | Lose | W+R | 6.5 | 2984.0 | -40.0 | 
-| 2003-09-11 | 第28期名人戦挑戦手合七番勝負第1局 | Yoda Norimoto | Yamashita Keigo | Lose | B+7.5 | 6.5 | 3024.0 | 60.0 | 
-| 2003-08-24 | 第1期JALスーパー早碁2回戦 | Yamashita Keigo | Yuki Satoshi | Lose | W+R | 6.5 | 2964.0 | -77.0 | 
-| 2003-08-14 | 第42期十段戦敗者復活戦2回戦 | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5 | 3041.0 | 73.0 | 
-| 2003-08-07 | 第28期名人戦リーグ | O Meien | Yamashita Keigo | Win | W+R | 6.5 | 2968.0 | 48.0 | 
-| 2003-07-21 | 第29期天元戦本戦準決勝 | O Rissei | Yamashita Keigo | Win | W+4.5 | 6.5 | 2920.0 | 13.0 | 
-| 2003-07-03 | 第28期名人戦リーグ | Yamashita Keigo | Cho U | Win | B+7.5 | 6.5 | 2907.0 | -17.0 | 
-| 2003-06-05 | 第28期名人戦リーグ | Mizokami Tomochika | Yamashita Keigo | Win | W+7.5 | 6.5 | 2924.0 | 6.0 | 
-| 2003-05-29 | 第29期天元戦本戦3回戦 | Hane Yasumasa | Yamashita Keigo | Win | W+R | 6.5 | 2918.0 | 15.0 | 
-| 2003-05-26 | 第23期NECカップ囲碁トーナメント戦1回戦 | Yoda Norimoto | Yamashita Keigo | Win | W+4.5 | 6.5 | 2903.0 | 60.0 | 
-| 2003-05-08 | 第28期名人戦リーグ | Yamashita Keigo | Rin Kaiho | Win | B+6.5 | 6.5 | 2843.0 | 23.0 | 
-| 2003-04-29 | 第2回CSK杯囲碁アジア対抗戦第3戦 | Yamashita Keigo | Wang Xi | Win | B+R | 6.5 | 2820.0 | 72.0 | 
-| 2003-04-28 | 第2回CSK杯囲碁アジア対抗戦第2戦 | Yoo Changhyuk | Yamashita Keigo | Win | W+R | 6.5 | 2748.0 | 110.0 | 
-| 2003-04-27 | 第2回CSK杯囲碁アジア対抗戦第1戦 | O Meien | Yamashita Keigo | Lose | B+2.5 | 6.5 | 2638.0 | -191.0 | 
-| 2003-04-20 | 第1期JALスーパー早碁1回戦 | Yamashita Keigo | Yokota Shigeaki | Win | B+R | 6.5 | 2829.0 | 139.0 | 
-| 2003-04-17 | 第28期名人戦リーグ | Cho Chikun | Yamashita Keigo | Win | W+R | 6.5 | 2690.0 | 157.0 | 
-| 2003-03-27 | 第29期天元戦本戦2回戦 | Yamashita Keigo | Otake Hideo | Win | B+R | 6.5 | 2533.0 | 322.0 | 
-| 2002-05-19 | 坂井秀至　試練の十二番勝負　第八戦 | Yamashita Keigo | Sakai Hideyuki | Win | B+4.5 | 6.5 | 2211.0 | -836.0 | 
-| 2001-11-26 | 第3回農心辛ラーメン杯世界囲碁最強戦第5戦 | Luo Xihe | Yamashita Keigo | Lose | B+R | 6.5 | 3047.0 | 57.0 | 
-| 2001-10-26 | 第6回LG杯世界棋王戦3回戦 | Yamashita Keigo | Cho Hunhyun | Lose | W+R | 6.5 | 2990.0 | 352.0 | 
-| 2001-06-14 | 第6回LG杯世界棋王戦2回戦 | Seo Bongsoo | Yamashita Keigo | Win | W+R | 6.5 | 2638.0 | 246.0 | 
-| 2001-06-12 | 第6回LG杯世界棋王戦1回戦 | Park Cheongsang | Yamashita Keigo | Win | W+R | 6.5 | 2392.0 | -359.0 | 
-| 2001-03-16 | 第2回農心辛ラーメン杯世界囲碁最強戦第11戦 | Yamashita Keigo | Cho Hunhyun | Lose | W+4.5 | 6.5 | 2751.0 | -136.0 | 
-| 2001-03-15 | 第2回農心辛ラーメン杯世界囲碁最強戦第10戦 | Yamashita Keigo | Chang Hao | Win | B+R | 6.5 | 2887.0 | missing |
+| 2022-01-20 | 第70期王座戦予選 | Terayama Rei | Yamashita Keigo | Lose | B+4.5 | 
+6.5 | 3279.0 | -6.0 | 
+| 2022-01-10 | 第47期名人戦リーグ  | Yamashita Keigo | Hsu Chiayuan | Win | B+R | 6
+.5 | 3285.0 | 56.0 | 
+| 2021-12-23 | 第48期天元戦予選 | Adachi Toshimasa | Yamashita Keigo | Win | W+R |
+ 6.5 | 3229.0 | 63.0 | 
+| 2021-12-20 | 第47期名人戦リーグ  | Shida Tatsuya | Yamashita Keigo | Lose | B+3.5
+ | 6.5 | 3166.0 | -50.0 | 
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦  | Yamashita Keigo | Shin Jinseo | Lose | 
+W+R | 6.5 | 3216.0 | 0.0 | 
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦  | Yamashita Keigo | Choi Jeong | Win | B+
+1.5 | 6.5 | 3216.0 | 60.0 | 
+| 2021-10-31 | 2021中日韓聶衛平杯囲碁マスターズ2回戦 | Lee Changho | Yamashita Keigo | Win 
+| W+R | 7.5 | 3156.0 | 51.0 | 
+| 2021-10-30 | 2021中日韓聶衛平杯囲碁マスターズ1回戦 | Chang Hao | Yamashita Keigo | Win | 
+W+¼ | 7.5 | 3105.0 | 2.0 | 
+| 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Yamashita Keigo | Zhao Chenyu | Lose
+ | W+R | 6.5 | 3103.0 | -35.0 | 
+| 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Cho Seungah | Yamashita Keigo | Win 
+| W+R | 6.5 | 3138.0 | -31.0 | 
+| 2021-09-23 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Kono Rin | Lose | W+4.5 | 6.
+5 | 3169.0 | -32.0 | 
+| 2021-09-02 | 第60期十段戦予選 | Yamashita Keigo | Seto Taiki | Lose | W+4.5 | 6.
+5 | 3201.0 | -18.0 | 
+| 2021-08-16 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Murakawa Daisuke | Lose | W+
+R | 6.5 | 3219.0 | -28.0 | 
+| 2021-08-09 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Yamashita Keigo | Murakawa Daisuke
+ | Lose | W+R | 6.5 | 3247.0 | -11.0 | 
+| 2021-08-06 | 第46期名人戦リーグ  | Yamashita Keigo | Ichiriki Ryo | Lose | W+R | 
+6.5 | 3258.0 | -24.0 | 
+| 2021-07-29 | 第77期本因坊戦予選 | Yamashita Keigo | Ko Iso | Lose | W+R | 6.5 | 3
+282.0 | 0.0 | 
+| 2021-07-22 | 第47期碁聖戦予選 | Kurotaki Masaki | Yamashita Keigo | Win | W+R | 
+6.5 | 3282.0 | 33.0 | 
+| 2021-07-15 | 第46期名人戦リーグ | Motoki Katsuya | Yamashita Keigo | Win | W+R | 
+6.5 | 3249.0 | 21.0 | 
+| 2021-07-08 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦 | Yamashita Keigo | Yu Zhengqi | Win
+ | B+0.5 | 6.5 | 3228.0 | 6.0 | 
+| 2021-07-01 | 第77期本因坊戦予選 | Hirata Tomoya | Yamashita Keigo | Win | W+R | 6
+.5 | 3222.0 | -19.0 | 
+| 2021-06-17 | 第46期棋聖戦Sリーグ | Takao Shinji | Yamashita Keigo | Lose | B+3.5 
+| 6.5 | 3241.0 | 0.0 | 
+| 2021-06-10 | 第46期名人戦リーグ  | Yamashita Keigo | Hsu Chiayuan | Lose | W+4.5 
+| 6.5 | 3241.0 | 3.0 | 
+| 2021-05-27 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Yamashita Keigo | Onishi Kenya | Wi
+n | B+6.5 | 6.5 | 3238.0 | -14.0 | 
+| 2021-05-24 | 第46期棋聖戦Sリーグ | Ichiriki Ryo | Yamashita Keigo | Lose | B+3.5 
+| 6.5 | 3252.0 | 24.0 | 
+| 2021-05-10 | 第46期名人戦リーグ | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 
+| 3228.0 | 18.0 | 
+| 2021-04-29 | 第77期本因坊戦予選 | Yamashita Keigo | O Rissei | Win | B+2.5 | 6.5 
+| 3210.0 | -6.0 | 
+| 2021-04-22 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Yu Zhengqi | Lose | W+R | 6.
+5 | 3216.0 | -7.0 | 
+| 2021-04-19 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Mizokami Tomochika | Yamashita Keig
+o | Win | W+R | 6.5 | 3223.0 | 38.0 | 
+| 2021-04-05 | 第46期名人戦リーグ | Yamashita Keigo | Anzai Nobuaki | Win | B+2.5 |
+ 6.5 | 3185.0 | 13.0 | 
+| 2021-03-22 | 第77期本因坊戦予選 | Sakai Takeshi | Yamashita Keigo | Win | W+R | 6
+.5 | 3172.0 | 21.0 | 
+| 2021-03-04 | 第46期名人戦リーグ | Yamashita Keigo | Yu Zhengqi | Lose | W+4.5 | 6
+.5 | 3151.0 | -3.0 | 
+| 2021-03-01 | 第69期王座戦予選 | Ogaki Yusaku | Yamashita Keigo | Lose | B+R | 6.
+5 | 3154.0 | -24.0 | 
+| 2021-02-18 | 第46期名人戦リーグ  | Shibano Toramaru | Yamashita Keigo | Win | W+R
+ | 6.5 | 3178.0 | 54.0 | 
+| 2020-12-22 | 2020中日韓聶衛平杯囲碁マスターズ2回戦  | Yamashita Keigo | Lee Changho | Los
+e | W+R | 7.5 | 3124.0 | -28.0 | 
+| 2020-12-21 | 2020中日韓聶衛平杯囲碁マスターズ1回戦  | Chang Hao | Yamashita Keigo | Lose 
+| B+R | 7.5 | 3152.0 | 16.0 | 
+| 2020-12-17 | 第47期天元戦予選 | Yamashita Keigo | Yoda Norimoto | Win | B+R | 6.
+5 | 3136.0 | 54.0 | 
+| 2020-12-10 | 第46期名人戦リーグ | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 |
+ 3082.0 | 5.0 | 
+| 2020-12-03 | 第59期十段戦3回戦 | Murakawa Daisuke | Yamashita Keigo | Lose | B+1
+.5 | 6.5 | 3077.0 | -94.0 | 
+| 2020-10-30 | 第45期棋聖戦挑戦者決定トーナメント | Takao Shinji | Yamashita Keigo | Lose |
+ B+5.5 | 6.5 | 3171.0 | -5.0 | 
+| 2020-10-23 | 第59期十段戦2回戦 | Ichiriki Ryo | Yamashita Keigo | Win | W+R | 6.
+5 | 3176.0 | 8.0 | 
+| 2020-10-19 | 第45期棋聖戦挑戦者決定トーナメント | Yamashita Keigo | Shibano Toramaru | Wi
+n | B+R | 6.5 | 3168.0 | 7.0 | 
+| 2020-10-08 | 第59期十段戦1回戦 | Yamashita Keigo | Sun Zhe | Win | B+4.5 | 6.5 |
+ 3161.0 | 11.0 | 
+| 2020-10-03 | 第27期阿含・桐山杯全日本早碁オープン戦決勝  | Iyama Yuta | Yamashita Keigo | Los
+e | B+R | 6.5 | 3150.0 | -2.0 | 
+| 2020-09-07 | 第45期棋聖戦Aリーグ | Yu Zhengqi | Yamashita Keigo | Lose | B+R | 6.
+5 | 3152.0 | -12.0 | 
+| 2020-09-03 | 第68期王座戦準決勝 | Yamashita Keigo | Hsu Chiayuan | Lose | W+R | 6
+.5 | 3164.0 | -10.0 | 
+| 2020-08-31 | 第27期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Murakawa Daisuke
+ | Win | B+R | 6.5 | 3174.0 | -56.0 | 
+| 2020-08-20 | 第45期棋聖戦Aリーグ | Yamashita Keigo | So Yokoku | Win | B+R | 6.5 
+| 3230.0 | -2.0 | 
+| 2020-08-17 | 第59期十段戦予選 | Yamashita Keigo | Hirose Yuichi | Win | B+R | 6.
+5 | 3232.0 | 6.0 | 
+| 2020-08-13 | 第27期阿含・桐山杯全日本早碁オープン戦2回戦 | Mutsuura Yuta | Yamashita Keigo | 
+Win | W+4.5 | 6.5 | 3226.0 | 26.0 | 
+| 2020-08-06 | 第45期名人戦リーグ | Yamashita Keigo | Hsu Chiayuan | Win | B+R | 6.
+5 | 3200.0 | -44.0 | 
+| 2020-07-30 | 第68期王座戦2回戦 | Yamashita Keigo | Ohba Junya | Win | B+R | 6.5 
+| 3244.0 | 16.0 | 
+| 2020-07-27 | 第46期天元戦3回戦 | Ichiriki Ryo | Yamashita Keigo | Lose | B+R | 6
+.5 | 3228.0 | -14.0 | 
+| 2020-07-23 | 第45期棋聖戦Aリーグ | Yamashita Keigo | Yoda Norimoto | Win | B+3.5 
+| 6.5 | 3242.0 | 20.0 | 
+| 2020-07-20 | 第27期阿含・桐山杯全日本早碁オープン戦1回戦 | Cho U | Yamashita Keigo | Win | W+
+R | 6.5 | 3222.0 | 9.0 | 
+| 2020-07-16 | 第76期本因坊戦予選 | Ida Atsushi | Yamashita Keigo | Lose | B+10.5 |
+ 6.5 | 3213.0 | -7.0 | 
+| 2020-07-09 | 第45期名人戦リーグ | Yamashita Keigo | Kono Rin | Lose | W+1.5 | 6.5
+ | 3220.0 | -19.0 | 
+| 2020-07-03 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Yamashita Keigo | Yamada Kimio | Wi
+n | B+R | 6.5 | 3239.0 | 20.0 | 
+| 2020-06-30 | 第45期名人戦リーグ | Murakawa Daisuke | Yamashita Keigo | Win | W+R 
+| 6.5 | 3219.0 | 8.0 | 
+| 2020-06-25 | 第68期王座戦1回戦 | Sun Zhe | Yamashita Keigo | Win | W+R | 6.5 | 3
+211.0 | 38.0 | 
+| 2020-06-18 | 第45期棋聖戦Aリーグ | Adachi Toshimasa | Yamashita Keigo | Win | W+R
+ | 6.5 | 3173.0 | 19.0 | 
+| 2020-06-15 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Yamashita Keigo | Takei Takashi | W
+in | B+R | 6.5 | 3154.0 | 2.0 | 
+| 2020-06-11 | 第46期天元戦2回戦 | Murakawa Daisuke | Yamashita Keigo | Win | W+R 
+| 6.5 | 3152.0 | 7.0 | 
+| 2020-06-08 | 第45期名人戦リーグ | Cho U | Yamashita Keigo | Win | W+11.5 | 6.5 | 
+3145.0 | -11.0 | 
+| 2020-04-03 | 第75期本因坊戦リーグ  | Hane Naoki | Yamashita Keigo | Lose | B+6.5 |
+ 6.5 | 3156.0 | -15.0 | 
+| 2020-03-26 | 第45期棋聖戦Aリーグ | Motoki Katsuya | Yamashita Keigo | Win | W+R |
+ 6.5 | 3171.0 | 14.0 | 
+| 2020-03-23 | 第75期本因坊戦リーグ | Yamashita Keigo | Shibano Toramaru | Lose | W+
+0.5 | 6.5 | 3157.0 | 0.0 | 
+| 2020-03-19 | 第68期王座戦予選 | Yamashita Keigo | Kim Sujun | Win | B+R | 6.5 | 
+3157.0 | -2.0 | 
+| 2020-03-12 | 第45期棋聖戦Aリーグ | Yamashita Keigo | Onishi Ryuhei | Lose | W+R |
+ 6.5 | 3159.0 | -13.0 | 
+| 2020-03-05 | 第45期名人戦リーグ | Yamashita Keigo | Rin Kanketsu | Lose | W+R | 6
+.5 | 3172.0 | -47.0 | 
+| 2020-02-20 | 第75期本因坊戦リーグ | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 
+| 3219.0 | 2.0 | 
+| 2020-02-13 | 第45期名人戦リーグ | Ichiriki Ryo | Yamashita Keigo | Lose | B+R | 6
+.5 | 3217.0 | -4.0 | 
+| 2020-02-06 | 第46期天元戦1回戦 | Fujita Akihiko | Yamashita Keigo | Win | W+R | 
+6.5 | 3221.0 | 9.0 | 
+| 2020-01-30 | 第45期棋聖戦Aリーグ | Yamashita Keigo | Shida Tatsuya | Win | B+R | 
+6.5 | 3212.0 | 10.0 | 
+| 2020-01-23 | 第75期本因坊戦リーグ | Yokotsuka Riki | Yamashita Keigo | Lose | B+10
+.5 | 6.5 | 3202.0 | -8.0 | 
+| 2020-01-16 | 第45期名人戦リーグ | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5
+ | 3210.0 | -34.0 | 
+| 2019-12-12 | 第45期名人戦リーグ | Yamashita Keigo | Hane Naoki | Lose | W+2.5 | 6
+.5 | 3244.0 | -38.0 | 
+| 2019-12-05 | 第75期本因坊戦リーグ | Ichiriki Ryo | Yamashita Keigo | Lose | B+0.5 
+| 6.5 | 3282.0 | 9.0 | 
+| 2019-11-11 | 第46期天元戦予選 | Yamashita Keigo | Ueno Asami | Win | B+R | 6.5 |
+ 3273.0 | -4.0 | 
+| 2019-11-07 | 第75期本因坊戦リーグ | Yamashita Keigo | Hsu Chiayuan | Lose | W+R | 
+6.5 | 3277.0 | -41.0 | 
+| 2019-10-24 | 第75期本因坊戦リーグ | Yamashita Keigo | Shida Tatsuya | Lose | W+6.5
+ | 6.5 | 3318.0 | 23.0 | 
+| 2019-10-17 | 第21回農心辛ラーメン杯世界囲碁最強戦第3戦 | Yang Dingxin | Yamashita Keigo | Lo
+se | B+3.5 | 6.5 | 3295.0 | 40.0 | 
+| 2019-10-10 | 第58期十段戦2回戦 | Yamashita Keigo | Ko Iso | Lose | W+R | 6.5 | 3
+255.0 | -6.0 | 
+| 2019-09-19 | 第46期天元戦予選 | Cho Riyu | Yamashita Keigo | Win | W+R | 6.5 | 3
+261.0 | -11.0 | 
+| 2019-09-05 | 第44期棋聖戦Sリーグ | Murakawa Daisuke | Yamashita Keigo | Win | W+R
+ | 6.5 | 3272.0 | 2.0 | 
+| 2019-08-22 | 第44期棋聖戦Sリーグ | Takao Shinji | Yamashita Keigo | Lose | B+6.5 
+| 6.5 | 3270.0 | -15.0 | 
+| 2019-08-04 | 第6回国手山脈国際囲碁大会世界プロ最強戦8強戦 | Yamashita Keigo | Chen Yaoye | Los
+e | W+R | 6.5 | 3285.0 | 2.0 | 
+| 2019-08-03 | 第6回国手山脈国際囲碁大会世界プロ最強戦16強戦 | Yamashita Keigo | Park Junghwan |
+ Win | B+R | 6.5 | 3283.0 | 29.0 | 
+| 2019-08-01 | 第44期名人戦リーグ | Yamashita Keigo | Kono Rin | Lose | W+3.5 | 6.5
+ | 3254.0 | -45.0 | 
+| 2019-07-15 | 第44期棋聖戦Sリーグ | Yamashita Keigo | Hsu Chiayuan | Lose | W+5.5 
+| 6.5 | 3299.0 | -19.0 | 
+| 2019-07-11 | 第44期名人戦リーグ | Shibano Toramaru | Yamashita Keigo | Lose | B+R
+ | 6.5 | 3318.0 | -11.0 | 
+| 2019-06-20 | 第26期阿含・桐山杯全日本早碁オープン戦1回戦 | Ohba Junya | Yamashita Keigo | Los
+e | B+0.5 | 6.5 | 3329.0 | -28.0 | 
+| 2019-06-13 | 第44期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | Win | B+R 
+| 6.5 | 3357.0 | 25.0 | 
+| 2019-05-30 | 第44期棋聖戦Sリーグ | Yamashita Keigo | Kono Rin | Lose | W+1.5 | 6.
+5 | 3332.0 | -17.0 | 
+| 2019-05-23 | 第67期王座戦1回戦 | Nakano Hironari | Yamashita Keigo | Lose | B+0.
+5 | 6.5 | 3349.0 | -31.0 | 
+| 2019-05-16 | 第44期名人戦リーグ | Yamashita Keigo | Iyama Yuta | Lose | W+R | 6.5
+ | 3380.0 | -27.0 | 
+| 2019-05-09 | 第26期阿含・桐山杯全日本早碁オープン戦最終予選 | Yamashita Keigo | Hirata Tomoya |
+ Win | B+0.5 | 6.5 | 3407.0 | 30.0 | 
+| 2019-05-02 | 第44期棋聖戦Sリーグ | Yamashita Keigo | So Yokoku | Win | B+R | 6.5 
+| 3377.0 | -10.0 | 
+| 2019-04-25 | 第44期名人戦リーグ | Mutsuura Yuta | Yamashita Keigo | Win | W+R | 6
+.5 | 3387.0 | 7.0 | 
+| 2019-04-18 | 第6回グランドチャンピオン戦2回戦 | Yamashita Keigo | Ida Atsushi | Lose | W
++R | 6.5 | 3380.0 | -31.0 | 
+| 2019-04-15 | 第67期王座戦予選決勝 | Rin Shien | Yamashita Keigo | Win | W+R | 6.5 
+| 3411.0 | -8.0 | 
+| 2019-04-05 | 第74期本因坊戦リーグ | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5
+ | 3419.0 | 8.0 | 
+| 2019-04-01 | 第44期碁聖戦本戦3回戦 | Yamashita Keigo | Iyama Yuta | Lose | W+5.5 |
+ 6.5 | 3411.0 | 6.0 | 
+| 2019-03-28 | 第44期名人戦リーグ | Suzuki Shinji | Yamashita Keigo | Win | W+3.5 |
+ 6.5 | 3405.0 | 6.0 | 
+| 2019-03-21 | 第74期本因坊戦リーグ | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 
+| 3399.0 | -8.0 | 
+| 2019-03-15 | 第43期棋聖戦挑戦手合七番勝負第7局 | Yamashita Keigo | Iyama Yuta | Lose | W
++6.5 | 6.5 | 3407.0 | 0.0 | 
+| 2019-03-08 | 第43期棋聖戦挑戦手合七番勝負第6局 | Iyama Yuta | Yamashita Keigo | Win | W+
+R | 6.5 | 3407.0 | 18.0 | 
+| 2019-02-28 | 第43期棋聖戦挑戦手合七番勝負第5局 | Yamashita Keigo | Iyama Yuta | Win | B+
+6.5 | 6.5 | 3389.0 | 6.0 | 
+| 2019-02-21 | 第74期本因坊戦リーグ | Shibano Toramaru | Yamashita Keigo | Win | W+3
+.5 | 6.5 | 3383.0 | 3.0 | 
+| 2019-02-14 | 第43期棋聖戦挑戦手合七番勝負第4局 | Iyama Yuta | Yamashita Keigo | Lose | B
++R | 6.5 | 3380.0 | -6.0 | 
+| 2019-02-07 | 第44期名人戦リーグ | Hane Naoki | Yamashita Keigo | Lose | B+0.5 | 6
+.5 | 3386.0 | -21.0 | 
+| 2019-02-03 | 第43期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Iyama Yuta | Lose | W
++R | 6.5 | 3407.0 | 1.0 | 
+| 2019-01-24 | 第44期碁聖戦本戦2回戦 | Sakai Hideyuki | Yamashita Keigo | Win | W+R 
+| 6.5 | 3406.0 | -4.0 | 
+| 2019-01-22 | 第43期棋聖戦挑戦手合七番勝負第2局 | Iyama Yuta | Yamashita Keigo | Win | W+
+R | 6.5 | 3410.0 | -8.0 | 
+| 2019-01-17 | 第45期天元戦1回戦 | Motoki Katsuya | Yamashita Keigo | Lose | B+1.5
+ | 6.5 | 3418.0 | -2.0 | 
+| 2019-01-14 | 第67期王座戦予選 | Yamashita Keigo | Numadate Sakiya | Win | B+R | 
+6.5 | 3420.0 | -2.0 | 
+| 2019-01-11 | 第43期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Iyama Yuta | Lose | W
++R | 6.5 | 3422.0 | 8.0 | 
+| 2019-01-07 | 第74期本因坊戦リーグ | Anzai Nobuaki | Yamashita Keigo | Win | W+0.5 
+| 6.5 | 3414.0 | 13.0 | 
+| 2018-12-27 | 第57期十段戦準決勝 | Yamashita Keigo | Takao Shinji | Lose | W+2.5 |
+ 6.5 | 3401.0 | -5.0 | 
+| 2018-12-19 | 第44期天元戦挑戦手合五番勝負第5局 | Yamashita Keigo | Iyama Yuta | Lose | W
++R | 6.5 | 3406.0 | -20.0 | 
+| 2018-12-13 | 第44期名人戦リーグ | Yamashita Keigo | Sun Zhe | Win | B+R | 6.5 | 3
+426.0 | 16.0 | 
+| 2018-12-10 | 第44期天元戦挑戦手合五番勝負第4局 | Iyama Yuta | Yamashita Keigo | Win | W+
+2.5 | 6.5 | 3410.0 | 3.0 | 
+| 2018-12-06 | 第44期碁聖戦本戦1回戦 | Yamashita Keigo | Onishi Ryuhei | Win | B+R |
+ 6.5 | 3407.0 | 14.0 | 
+| 2018-12-02 | 第57期十段戦3回戦 | Yamashita Keigo | Ichiriki Ryo | Win | B+R | 6.
+5 | 3393.0 | 3.0 | 
+| 2018-11-29 | 第74期本因坊戦リーグ | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 3
+390.0 | 13.0 | 
+| 2018-11-23 | 第44期天元戦挑戦手合五番勝負第3局 | Yamashita Keigo | Iyama Yuta | Lose | W
++R | 6.5 | 3377.0 | -6.0 | 
+| 2018-11-15 | 第67期王座戦予選 | Yamashita Keigo | Koyama Kuya | Win | B+R | 6.5 
+| 3383.0 | -27.0 | 
+| 2018-11-08 | 第43期棋聖戦挑戦者決定トーナメント | Kono Rin | Yamashita Keigo | Win | W+R 
+| 6.5 | 3410.0 | 4.0 | 
+| 2018-11-01 | 第74期本因坊戦リーグ | Yamashita Keigo | Ichiriki Ryo | Lose | W+R | 
+6.5 | 3406.0 | 7.0 | 
+| 2018-10-29 | 第44期天元戦挑戦手合五番勝負第2局 | Iyama Yuta | Yamashita Keigo | Win | W+
+0.5 | 6.5 | 3399.0 | 11.0 | 
+| 2018-10-25 | 第57期十段戦2回戦 | Fujii Shuya | Yamashita Keigo | Win | W+R | 6.5
+ | 3388.0 | 4.0 | 
+| 2018-10-19 | 第44期天元戦挑戦手合五番勝負第1局  | Yamashita Keigo | Iyama Yuta | Lose | 
+W+R | 6.5 | 3384.0 | -9.0 | 
+| 2018-10-11 | 第74期本因坊戦リーグ | Yamashita Keigo | Yu Zhengqi | Lose | W+0.5 | 
+6.5 | 3393.0 | -16.0 | 
+| 2018-10-04 | 第57期十段戦1回戦 | Tsuruyama Atsushi | Yamashita Keigo | Win | W+0
+.5 | 6.5 | 3409.0 | 9.0 | 
+| 2018-09-23 | 第1回天府杯世界囲碁選手権A組2回戦 | Gu Zihao | Yamashita Keigo | Lose | B+R
+ | 7.5 | 3400.0 | -1.0 | 
+| 2018-09-21 | 第1回天府杯世界囲碁選手権A組1回戦 | Wang Yuanjun | Yamashita Keigo | Win | 
+W+R | 7.5 | 3401.0 | -28.0 | 
+| 2018-09-06 | 第44期碁聖戦予選 | Yamashita Keigo | Sun Zhe | Win | B+R | 6.5 | 34
+29.0 | 25.0 | 
+| 2018-09-03 | 第44期天元戦挑戦者決定戦 | Hsu Chiayuan | Yamashita Keigo | Win | W+R |
+ 6.5 | 3404.0 | 11.0 | 
+| 2018-08-16 | 第44期天元戦準決勝 | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 
+3393.0 | -5.0 | 
+| 2018-08-02 | 第43期名人戦リーグ | Yamashita Keigo | Kono Rin | Lose | W+R | 7.5 |
+ 3398.0 | -3.0 | 
+| 2018-07-24 | 第4回百霊杯世界オープン戦1回戦 | Gu Zihao | Yamashita Keigo | Lose | B+R |
+ 7.5 | 3401.0 | 1.0 | 
+| 2018-07-19 | 第57期十段戦最終予選決勝 | Yamashita Keigo | Adachi Toshimasa | Win | B
++R | 6.5 | 3400.0 | 47.0 | 
+| 2018-07-05 | 第43期名人戦リーグ | Takao Shinji | Yamashita Keigo | Win | W+R | 6.
+5 | 3353.0 | 4.0 | 
+| 2018-07-01 | 第73期本因坊戦挑戦手合七番勝負第五局 | Yamashita Keigo | Iyama Yuta | Lose | 
+W+R | 6.5 | 3349.0 | 9.0 | 
+| 2018-06-21 | 第44期天元戦3回戦 | Yamashita Keigo | Suzuki Shinji | Win | B+13.5 
+| 6.5 | 3340.0 | 12.0 | 
+| 2018-06-13 | 第73期本因坊戦挑戦手合七番勝負第四局 | Iyama Yuta | Yamashita Keigo | Lose | 
+B+R | 6.5 | 3328.0 | 9.0 | 
+| 2018-06-07 | 第43期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | Win | B+R 
+| 6.5 | 3319.0 | 15.0 | 
+| 2018-06-03 | 第73期本因坊戦挑戦手合七番勝負第三局 | Yamashita Keigo | Iyama Yuta | Lose | 
+W+R | 6.5 | 3304.0 | 6.0 | 
+| 2018-05-24 | 第73期本因坊戦挑戦手合七番勝負第二局 | Iyama Yuta | Yamashita Keigo | Lose | 
+B+R | 6.5 | 3298.0 | 2.0 | 
+| 2018-05-16 | 第73期本因坊戦挑戦手合七番勝負第一局 | Yamashita Keigo | Iyama Yuta | Win | B
++0.5 | 6.5 | 3296.0 | 21.0 | 
+| 2018-05-10 | 第43期棋聖戦Sリーグ | Yamashita Keigo | Kono Rin | Win | B+R | 6.5 |
+ 3275.0 | 12.0 | 
+| 2018-05-03 | 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Yamashita Keigo | Nakano Yasuhiro
+ | Lose | W+5.5 | 6.5 | 3263.0 | -18.0 | 
+| 2018-04-26 | 第44期天元戦2回戦 | Shida Tatsuya | Yamashita Keigo | Win | W+R | 6
+.5 | 3281.0 | 8.0 | 
+| 2018-04-19 | 第43期棋聖戦Sリーグ | Cho U | Yamashita Keigo | Win | W+R | 6.5 | 32
+73.0 | 14.0 | 
+| 2018-04-12 | 第43期名人戦リーグ | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 32
+59.0 | -12.0 | 
+| 2018-04-05 | 第73期本因坊戦リーグ最終節  | Ko Iso | Yamashita Keigo | Win | W+R | 6.5
+ | 3271.0 | 1.0 | 
+| 2018-03-29 | 第66期王座戦予選 | Yamashita Keigo | Mutsuura Yuta | Lose | W+R | 6
+.5 | 3270.0 | -2.0 | 
+| 2018-03-18 | 第2回ワールド碁チャンピオンシップ準決勝  | Iyama Yuta | Yamashita Keigo | Lose 
+| B+R | 6.5 | 3272.0 | -13.0 | 
+| 2018-03-17 | 第2回ワールド碁チャンピオンシップ1回戦  | Wang Yuanjun | Yamashita Keigo | Win
+ | W+R | 6.5 | 3285.0 | 21.0 | 
+| 2018-03-12 | 第5回グランドチャンピオン戦2回戦 | Kobayashi Satoru | Yamashita Keigo | Los
+e | B+3.5 | 6.5 | 3264.0 | -10.0 | 
+| 2018-03-08 | 第66期王座戦最終予選 | Yamashita Keigo | Yun Chunho | Win | B+R | 6.5
+ | 3274.0 | -2.0 | 
+| 2018-03-01 | 第43期名人戦リーグ | Yamashita Keigo | Hane Naoki | Lose | W+R | 6.5
+ | 3276.0 | 6.0 | 
+| 2018-02-26 | 第43期碁聖戦本戦3回戦 | Hsu Chiayuan | Yamashita Keigo | Lose | B+R |
+ 6.5 | 3270.0 | -11.0 | 
+| 2018-02-19 | 第2回ワールド碁チャンピオンシップ代表決定戦決勝 | Yamashita Keigo | Ichiriki Ryo | 
+Win | B+R | 6.5 | 3281.0 | 6.0 | 
+| 2018-02-15 | 第43期名人戦リーグ | Yamashita Keigo | Shibano Toramaru | Lose | W+2
+.5 | 6.5 | 3275.0 | -16.0 | 
+| 2018-02-05 | 第2回ワールド碁チャンピオンシップ代表決定戦準決勝 | Yamashita Keigo | Motoki Katsuya
+ | Win | B+R | 6.5 | 3291.0 | 20.0 | 
+| 2018-02-01 | 第44期天元戦1回戦 | Ohba Junya | Yamashita Keigo | Win | W+R | 6.5 
+| 3271.0 | -1.0 | 
+| 2018-01-25 | 第43期名人戦リーグ | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 32
+72.0 | -26.0 | 
+| 2018-01-11 | 第43期碁聖戦本戦2回戦 | Sada Atsushi | Yamashita Keigo | Win | W+R | 
+6.5 | 3298.0 | 13.0 | 
+| 2017-12-14 | 第66期王座戦予選 | Komatsu Hideki | Yamashita Keigo | Win | W+R | 6
+.5 | 3285.0 | -6.0 | 
+| 2017-12-07 | 第43期名人戦リーグ | Yu Zhengqi | Yamashita Keigo | Win | W+R | 6.5 
+| 3291.0 | 12.0 | 
+| 2017-11-25 | 第19回農心辛ラーメン杯世界囲碁最強戦第6戦 | Yamashita Keigo | Shin Minjun | Los
+e | W+R | 6.5 | 3279.0 | -7.0 | 
+| 2017-11-20 | 第66期王座戦予選 | Ito Masashi | Yamashita Keigo | Win | W+3.5 | 6.
+5 | 3286.0 | 28.0 | 
+| 2017-11-09 | 第42期棋聖戦挑戦者決定トーナメント変則三番勝負第一局 | Yamashita Keigo | Ichiriki Ryo
+ | Lose | W+R | 6.5 | 3258.0 | -7.0 | 
+| 2017-10-27 | 第42期棋聖戦挑戦者決定トーナメント | Yamashita Keigo | Motoki Katsuya | Win 
+| B+R | 6.5 | 3265.0 | 0.0 | 
+| 2017-10-27 | 第42期棋聖戦リーグSA組決勝 | Yamashita Keigo | Motoki Katsuya | Win | B
++R | 6.5 | 3265.0 | 13.0 | 
+| 2017-10-19 | 第56期十段戦2回戦 | Yamashita Keigo | Murakawa Daisuke | Lose | W+5
+.5 | 6.5 | 3252.0 | 11.0 | 
+| 2017-09-25 | 第22回三星火災杯世界囲碁マスターズ2回戦 | Yamashita Keigo | Tong Mengcheng | L
+ose | W+R | 6.5 | 3241.0 | -40.0 | 
+| 2017-09-14 | 第42期棋聖戦　Sリーグ5回戦 | Yamashita Keigo | Murakawa Daisuke | Win |
+ B+2.5 | 6.5 | 3281.0 | 3.0 | 
+| 2017-09-07 | 第22回三星火災杯世界囲碁マスターズ1回戦E3 | Yamashita Keigo | Chen Zijian | Wi
+n | B+3.5 | 6.5 | 3278.0 | 28.0 | 
+| 2017-09-06 | 第22回三星火災杯世界囲碁マスターズ1回戦E2 | Yamashita Keigo | Lee Sedol | Lose
+ | W+R | 6.5 | 3250.0 | -2.0 | 
+| 2017-09-05 | 第22回三星火災杯世界囲碁マスターズ1回戦E1 | Yamashita Keigo | Li He | Win | B+
+R | 6.5 | 3252.0 | -1.0 | 
+| 2017-08-31 | 第43期天元戦　挑戦者決定戦 | Ichiriki Ryo | Yamashita Keigo | Lose | B+4
+.5 | 6.5 | 3253.0 | 42.0 | 
+| 2017-08-12 | 阪急電鉄納涼囲碁まつり公開対局 | Yoda Norimoto | Yamashita Keigo | Lose | B
++R | 6.5 | 3211.0 | -23.0 | 
+| 2017-08-10 | 第42期棋聖戦　Sリーグ4回戦 | Kono Rin | Yamashita Keigo | Win | W+R | 6
+.5 | 3234.0 | -24.0 | 
+| 2017-08-03 | 第43期天元戦準決勝 | Hsu Chiayuan | Yamashita Keigo | Win | W+R | 6.
+5 | 3258.0 | -1.0 | 
+| 2017-07-25 | 第42期碁聖戦挑戦手合五番勝負　第三局 | Yamashita Keigo | Iyama Yuta | Lose | 
+W+R | 6.5 | 3259.0 | 0.0 | 
+| 2017-07-19 | 第42期碁聖戦挑戦手合五番勝負　第二局 | Iyama Yuta | Yamashita Keigo | Lose | 
+B+R | 6.5 | 3259.0 | -21.0 | 
+| 2017-07-13 | 第42期名人戦リーグ | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 32
+80.0 | -5.0 | 
+| 2017-07-06 | 第42期棋聖戦　Sリーグ3回戦 | Yamashita Keigo | Cho U | Lose | W+0.5 | 6
+.5 | 3285.0 | -32.0 | 
+| 2017-06-22 | 第42期碁聖戦挑戦手合五番勝負　第一局 | Yamashita Keigo | Iyama Yuta | Lose | 
+W+R | 6.5 | 3317.0 | -28.0 | 
+| 2017-06-19 | 第43期天元戦3回戦 | Yamashita Keigo | Motoki Katsuya | Win | B+R | 
+6.5 | 3345.0 | 62.0 | 
+| 2017-06-15 | 第42期棋聖戦　Sリーグ2回戦 | Ichiriki Ryo | Yamashita Keigo | Lose | B+
+R | 6.5 | 3283.0 | -45.0 | 
+| 2017-06-05 | 第42期名人戦リーグ | Iyama Yuta | Yamashita Keigo | Lose | B+R | 6.5
+ | 3328.0 | 20.0 | 
+| 2017-05-25 | 第24期阿含・桐山杯　最終予選決勝 | Hsu Chiayuan | Yamashita Keigo | Lose | 
+B+0.5 | 6.5 | 3308.0 | -4.0 | 
+| 2017-05-18 | 第42期碁聖戦　挑戦者決定戦 | Yamashita Keigo | Motoki Katsuya | Win | B+
+R | 6.5 | 3312.0 | 53.0 | 
+| 2017-05-04 | 第42期名人戦リーグ | Yamashita Keigo | Hane Naoki | Lose | W+R | 6.5
+ | 3259.0 | -16.0 | 
+| 2017-04-27 | 第42期棋聖戦　Sリーグ1回戦 | So Yokoku | Yamashita Keigo | Win | W+R | 
+6.5 | 3275.0 | -14.0 | 
+| 2017-04-20 | 第43期天元戦　本戦2回戦第7局 | Ko Iso | Yamashita Keigo | Win | W+R | 6.
+5 | 3289.0 | -12.0 | 
+| 2017-04-13 | 第42期名人戦リーグ | Cho U | Yamashita Keigo | Win | W+R | 6.5 | 330
+1.0 | -40.0 | 
+| 2017-04-06 | 第72期本因坊戦　挑戦者決定リーグ最終戦 | Takao Shinji | Yamashita Keigo | Win 
+| W+R | 6.5 | 3341.0 | 10.0 | 
+| 2017-03-27 | 第42期名人戦リーグ | Yamashita Keigo | Kono Rin | Win | B+R | 6.5 | 
+3331.0 | -20.0 | 
+| 2017-03-18 | 第4回グランドチャンピオン戦　準決勝 | Iyama Yuta | Yamashita Keigo | Win | W+
+R | 6.5 | 3351.0 | 0.0 | 
+| 2017-03-18 | 第4回グランドチャンピオン戦　決勝 | Ichiriki Ryo | Yamashita Keigo | Lose | 
+B+R | 6.5 | 3351.0 | 12.0 | 
+| 2017-03-16 | 第65期王座戦　最終予選特選譜第7局 | Yamashita Keigo | Shibano Toramaru | Lo
+se | W+4.5 | 6.5 | 3339.0 | -27.0 | 
+| 2017-03-02 | 第72期本因坊戦　挑戦者決定リーグ第22局 | Yuki Satoshi | Yamashita Keigo | Win
+ | W+5.5 | 6.5 | 3366.0 | -18.0 | 
+| 2017-02-20 | 第4回グランドチャンピオン戦　3回戦 | Onishi Ryuhei | Yamashita Keigo | Win |
+ W+R | 6.5 | 3384.0 | 0.0 | 
+| 2017-02-20 | 第4回グランドチャンピオン戦　2回戦 |  | Yamashita Keigo | Win | W+R | 6.5 | 
+3384.0 | 20.0 | 
+| 2017-02-16 | 第42期名人戦リーグ | Yamashita Keigo | Yu Zhengqi | Win | B+R | 6.5 
+| 3364.0 | 12.0 | 
+| 2017-02-02 | 第72期本因坊戦　挑戦者決定リーグ第17局 | Yamashita Keigo | Motoki Katsuya | L
+ose | W+4.5 | 6.5 | 3352.0 | 28.0 | 
+| 2017-01-19 | 第72期本因坊戦　挑戦者決定リーグ第15局 | Yamashita Keigo | Hane Naoki | Win |
+ B+R | 6.5 | 3324.0 | 28.0 | 
+| 2017-01-12 | 第42期名人戦リーグ | Sakai Hideyuki | Yamashita Keigo | Win | W+R | 
+6.5 | 3296.0 | -8.0 | 
+| 2017-01-09 | 第55期十段戦　準決勝 | Yamashita Keigo | Yu Zhengqi | Lose | W+1.5 | 
+6.5 | 3304.0 | -17.0 | 
+| 2017-01-07 | 第64回ＮＨＫ杯テレビ囲碁トーナメント3回戦第5局 | Yamashita Keigo | Hane Naoki | W
+in | B+R | 6.5 | 3321.0 | -3.0 | 
+| 2016-12-22 | 第43期天元戦　本戦1回戦第6局 | Shida Tatsuya | Yamashita Keigo | Win | W
++R | 6.5 | 3324.0 | 5.0 | 
+| 2016-12-15 | 第42期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | Lose | W+3
+.5 | 6.5 | 3319.0 | -45.0 | 
+| 2016-12-08 | 第72期本因坊戦　挑戦者決定リーグ第10局 | Mitani Tetsuya | Yamashita Keigo | W
+in | W+0.5 | 6.5 | 3364.0 | 9.0 | 
+| 2016-12-01 | 第55期十段戦　準々決勝 | Yamashita Keigo | Takao Shinji | Win | B+R | 
+6.5 | 3355.0 | -6.0 | 
+| 2016-11-03 | 第72期本因坊戦　挑戦者決定リーグ第5局 | Yamashita Keigo | Ko Iso | Lose | W+R
+ | 6.5 | 3361.0 | -7.0 | 
+| 2016-10-31 | 第41期棋聖戦SA組リーグ戦決勝 | Cho U | Yamashita Keigo | Lose | B+5.5 | 
+6.5 | 3368.0 | 19.0 | 
+| 2016-10-27 | 第55期十段戦　本戦2回戦 | Hikosaka Naoto | Yamashita Keigo | Win | W+R
+ | 6.5 | 3349.0 | 8.0 | 
+| 2016-10-06 | 第72期本因坊戦　挑戦者決定リーグ第1局 | Cho U | Yamashita Keigo | Lose | B+R 
+| 6.5 | 3341.0 | 41.0 | 
+| 2016-08-25 | 第23期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Kono Rin | Lose 
+| W+1.5 | 6.5 | 3300.0 | 3.0 | 
+| 2016-08-22 | 第42期天元戦　準決勝第2局 | Yamashita Keigo | Hsu Chiayuan | Win | B+R 
+| 6.5 | 3297.0 | 4.0 | 
+| 2016-08-18 | 第64期王座戦準決勝 | Yamashita Keigo | Yu Zhengqi | Lose | W+R | 6.5
+ | 3293.0 | -23.0 | 
+| 2016-08-11 | 第41期棋聖戦Sリーグ | Yamashita Keigo | Takao Shinji | Win | B+R | 6
+.5 | 3316.0 | 19.0 | 
+| 2016-08-04 | 第41期名人戦リーグ | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 329
+7.0 | -9.0 | 
+| 2016-07-28 | 第55期十段戦予選 | Hong Maleunsaem | Yamashita Keigo | Win | W+R | 
+6.5 | 3306.0 | -20.0 | 
+| 2016-07-14 | 第64期王座戦2回戦 | Kono Rin | Yamashita Keigo | Win | W+1.5 | 6.5 
+| 3326.0 | -2.0 | 
+| 2016-07-07 | 第41期棋聖戦Sリーグ | Yoda Norimoto | Yamashita Keigo | Win | W+1.5 
+| 6.5 | 3328.0 | 21.0 | 
+| 2016-06-30 | 第41期名人戦リーグ | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 
+| 3307.0 | 10.0 | 
+| 2016-06-23 | 第42期天元戦　準々決勝第2局 | Yamashita Keigo | Fujita Akihiko | Win | B
++R | 6.5 | 3297.0 | 11.0 | 
+| 2016-06-16 | 第41期名人戦リーグ | Yamashita Keigo | Murakawa Daisuke | Lose | W+4
+.5 | 6.5 | 3286.0 | -34.0 | 
+| 2016-06-09 | 第41期棋聖戦Sリーグ | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 
+| 3320.0 | -12.0 | 
+| 2016-06-02 | 第64期王座戦　本戦1回戦第3局 | Adachi Toshimasa | Yamashita Keigo | Win 
+| W+1.5 | 6.5 | 3332.0 | -6.0 | 
+| 2016-05-30 | 第23期阿含・桐山杯全日本早碁オープン戦予選 | Hoshino Masaki | Yamashita Keigo | 
+Win | W+R | 6.5 | 3338.0 | 6.0 | 
+| 2016-05-26 | 第41期棋聖戦Sリーグ | Yamashita Keigo | Murakawa Daisuke | Lose | W+
+2.5 | 6.5 | 3332.0 | 5.0 | 
+| 2016-05-18 | 第41期碁聖戦挑戦者決定戦 | Yamashita Keigo | Murakawa Daisuke | Lose | 
+W+4.5 | 6.5 | 3327.0 | -43.0 | 
+| 2016-05-12 | 第41期名人戦リーグ | Ko Iso | Yamashita Keigo | Lose | B+1.5 | 6.5 |
+ 3370.0 | -20.0 | 
+| 2016-05-05 | 第41期碁聖戦本戦準決勝 | Yamashita Keigo | Sada Atsushi | Win | B+R | 
+6.5 | 3390.0 | -18.0 | 
+| 2016-04-28 | 第42期天元戦本戦2回戦 | Yamashita Keigo | Imamura Toshiya | Win | B+R
+ | 6.5 | 3408.0 | 33.0 | 
+| 2016-04-20 | 第8回応氏杯世界選手権1回戦 | Shi Yue | Yamashita Keigo | Lose | B+R | 7.
+5 | 3375.0 | 9.0 | 
+| 2016-04-14 | 第41期碁聖戦本戦3回戦 | Yamashita Keigo | Yu Zhengqi | Win | B+1.5 | 
+6.5 | 3366.0 | 35.0 | 
+| 2016-04-07 | 第41期名人戦リーグ | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 | 
+3331.0 | 0.0 | 
+| 2016-03-31 | 第71期本因坊戦リーグ | Yamashita Keigo | Yu Zhengqi | Win | B+0.5 | 6
+.5 | 3331.0 | 12.0 | 
+| 2016-03-24 | 第41期名人戦リーグ | Yamashita Keigo | Uchida Shuhei | Win | B+R | 6
+.5 | 3319.0 | -10.0 | 
+| 2016-03-17 | 第64期王座戦予選 | Hsu Chiayuan | Yamashita Keigo | Win | W+R | 6.5
+ | 3329.0 | -13.0 | 
+| 2016-03-03 | 第71期本因坊戦リーグ | Yamashita Keigo | Ida Atsushi | Win | B+3.5 | 
+6.5 | 3342.0 | 33.0 | 
+| 2016-02-29 | 第64期王座戦予選 | Fujimura Yosuke | Yamashita Keigo | Win | W+R | 
+6.5 | 3309.0 | -4.0 | 
+| 2016-02-18 | 第40期棋聖戦挑戦手合七番勝負第4局 | Iyama Yuta | Yamashita Keigo | Lose | B
++R | 6.5 | 3313.0 | -15.0 | 
+| 2016-02-11 | 第71期本因坊戦リーグ | Takao Shinji | Yamashita Keigo | Lose | B+7.5 
+| 6.5 | 3328.0 | -13.0 | 
+| 2016-02-08 | 第41期名人戦リーグ | Hirata Tomoya | Yamashita Keigo | Win | W+3.5 |
+ 6.5 | 3341.0 | 8.0 | 
+| 2016-02-02 | 第40期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Iyama Yuta | Lose | W
++R | 6.5 | 3333.0 | -10.0 | 
+| 2016-01-29 | 第40期棋聖戦挑戦手合七番勝負第2局 | Iyama Yuta | Yamashita Keigo | Lose | B
++2.5 | 6.5 | 3343.0 | -33.0 | 
+| 2016-01-21 | 第41期碁聖戦本戦2回戦 | Hsu Chiayuan | Yamashita Keigo | Win | W+1.5 
+| 6.5 | 3376.0 | 15.0 | 
+| 2016-01-15 | 第40期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Iyama Yuta | Lose | W
++R | 6.5 | 3361.0 | 19.0 | 
+| 2016-01-07 | 第71期本因坊戦リーグ | Ichiriki Ryo | Yamashita Keigo | Lose | B+4.5 
+| 6.5 | 3342.0 | 1.0 | 
+| 2015-12-24 | 第42期天元戦本戦1回戦 | Muramatsu Hiroki | Yamashita Keigo | Win | W+
+R | 6.5 | 3341.0 | 24.0 | 
+| 2015-12-17 | 第71期本因坊戦リーグ | Cho U | Yamashita Keigo | Win | W+R | 6.5 | 33
+17.0 | 26.0 | 
+| 2015-12-10 | 第64期王座戦予選 | Yamashita Keigo | Lee Ishu | Win | B+R | 6.5 | 3
+291.0 | 31.0 | 
+| 2015-12-03 | 第41期名人戦リーグ | Yamashita Keigo | Takao Shinji | Lose | W+R | 6
+.5 | 3260.0 | -26.0 | 
+| 2015-11-26 | 第71期本因坊戦リーグ | Yamashita Keigo | Motoki Katsuya | Lose | W+1.
+5 | 6.5 | 3286.0 | -42.0 | 
+| 2015-11-09 | 第40期棋聖戦挑戦者決定トーナメント | Murakawa Daisuke | Yamashita Keigo | Wi
+n | W+R | 6.5 | 3328.0 | 1.0 | 
+| 2015-10-29 | 第54期十段戦2回戦 | Yamashita Keigo | Yu Zhengqi | Lose | W+1.5 | 6
+.5 | 3327.0 | -21.0 | 
+| 2015-10-22 | 第64期王座戦予選 | Yamashita Keigo | Hirata Tomoya | Win | B+R | 6.
+5 | 3348.0 | -11.0 | 
+| 2015-10-08 | 第54期十段戦1回戦 | Yoda Norimoto | Yamashita Keigo | Win | W+R | 6
+.5 | 3359.0 | -50.0 | 
+| 2015-10-01 | 第71期本因坊戦リーグ | Yamashita Keigo | Kono Rin | Win | B+R | 6.5 |
+ 3409.0 | -10.0 | 
+| 2015-09-10 | 第54期十段戦予選 | Yamashita Keigo | O Rissei | Win | B+R | 6.5 | 3
+419.0 | -10.0 | 
+| 2015-09-03 | 第40期棋聖戦Sリーグ | Yoda Norimoto | Yamashita Keigo | Win | W+2.5 
+| 6.5 | 3429.0 | -36.0 | 
+| 2015-08-24 | 第41期天元戦本戦準決勝 | Yamashita Keigo | Yuki Satoshi | Lose | W+1.5
+ | 6.5 | 3465.0 | -20.0 | 
+| 2015-08-13 | 第40期棋聖戦Sリーグ | Yamashita Keigo | Takao Shinji | Win | B+2.5 |
+ 6.5 | 3485.0 | 6.0 | 
+| 2015-08-07 | 第40期碁聖戦挑戦手合五番勝負第4局 | Yamashita Keigo | Iyama Yuta | Lose | W
++R | 6.5 | 3479.0 | 11.0 | 
+| 2015-08-03 | 第40期名人戦挑戦者決定プレーオフ | Yamashita Keigo | Takao Shinji | Lose | 
+W+5.5 | 6.5 | 3468.0 | 4.0 | 
+| 2015-07-30 | 第40期名人戦リーグ | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 34
+64.0 | 17.0 | 
+| 2015-07-27 | 第40期碁聖戦挑戦手合五番勝負第3局 | Iyama Yuta | Yamashita Keigo | Lose | B
++1.5 | 6.5 | 3447.0 | -7.0 | 
+| 2015-07-23 | 第40期棋聖戦Sリーグ | Murakawa Daisuke | Yamashita Keigo | Win | W+R
+ | 6.5 | 3454.0 | 11.0 | 
+| 2015-07-20 | 第40期碁聖戦挑戦手合五番勝負第2局 | Yamashita Keigo | Iyama Yuta | Win | B+
+R | 6.5 | 3443.0 | 20.0 | 
+| 2015-07-16 | 第54期十段戦予選 | Han Zenki | Yamashita Keigo | Win | W+R | 6.5 | 
+3423.0 | 2.0 | 
+| 2015-07-13 | 第41期天元戦本戦3回戦 | Yamashita Keigo | Kono Rin | Win | B+R | 6.5 
+| 3421.0 | -23.0 | 
+| 2015-07-03 | 第40期名人戦リーグ | Yamashita Keigo | So Yokoku | Win | B+R | 6.5 |
+ 3444.0 | 1.0 | 
+| 2015-06-30 | 第70期本因坊戦挑戦手合七番勝負第5局 | Yamashita Keigo | Iyama Yuta | Lose | 
+W+R | 6.5 | 3443.0 | -24.0 | 
+| 2015-06-26 | 第40期碁聖戦挑戦手合五番勝負第1局 | Iyama Yuta | Yamashita Keigo | Lose | B
++R | 6.5 | 3467.0 | -15.0 | 
+| 2015-06-22 | 第22期阿含・桐山杯全日本早碁オープン戦予選 | Cho Riyu | Yamashita Keigo | Lose |
+ B+R | 6.5 | 3482.0 | -13.0 | 
+| 2015-06-17 | 第70期本因坊戦挑戦手合七番勝負第4局 | Iyama Yuta | Yamashita Keigo | Win | W
++R | 6.5 | 3495.0 | 18.0 | 
+| 2015-06-11 | 第40期棋聖戦Sリーグ | Kobayashi Satoru | Yamashita Keigo | Win | W+R
+ | 6.5 | 3477.0 | 48.0 | 
+| 2015-06-04 | 第70期本因坊戦挑戦手合七番勝負第3局 | Yamashita Keigo | Iyama Yuta | Lose | 
+W+R | 6.5 | 3429.0 | -3.0 | 
+| 2015-05-29 | 第40期名人戦リーグ | Yamashita Keigo | Hane Naoki | Win | B+0.5 | 6.
+5 | 3432.0 | -5.0 | 
+| 2015-05-26 | 第70期本因坊戦挑戦手合七番勝負第2局 | Iyama Yuta | Yamashita Keigo | Lose | 
+B+R | 6.5 | 3437.0 | 31.0 | 
+| 2015-05-21 | 第40期棋聖戦Sリーグ | Yamashita Keigo | Yamashiro Hiroshi | Lose | W
++1.5 | 6.5 | 3406.0 | -26.0 | 
+| 2015-05-18 | 第40期碁聖戦挑戦者決定戦 | Kono Rin | Yamashita Keigo | Win | W+R | 6.5
+ | 3432.0 | 28.0 | 
+| 2015-05-14 | 第70期本因坊戦挑戦手合七番勝負第1局 | Yamashita Keigo | Iyama Yuta | Lose | 
+W+R | 6.5 | 3404.0 | -80.0 | 
+| 2015-05-07 | 第40期名人戦リーグ | Kono Rin | Yamashita Keigo | Lose | B+R | 6.5 |
+ 3484.0 | -11.0 | 
+| 2015-05-04 | 第41期天元戦本戦2回戦 | Matsumoto Takehisa | Yamashita Keigo | Win | 
+W+R | 6.5 | 3495.0 | 1.0 | 
+| 2015-04-30 | 第40期碁聖戦本戦準決勝 | Murakawa Daisuke | Yamashita Keigo | Win | W+
+R | 6.5 | 3494.0 | -1.0 | 
+| 2015-04-27 | 第54期十段戦予選 | Inaba Takahiro | Yamashita Keigo | Win | W+R | 6
+.5 | 3495.0 | 10.0 | 
+| 2015-04-20 | 第40期碁聖戦本戦3回戦 | Yamashita Keigo | Iwamaru Taira | Win | B+3.5
+ | 6.5 | 3485.0 | 5.0 | 
+| 2015-04-16 | 第40期名人戦リーグ | Yamashita Keigo | Kanazawa Makoto | Win | B+10.
+5 | 6.5 | 3480.0 | 4.0 | 
+| 2015-04-09 | 第63期王座戦予選 | Kataoka Satoshi | Yamashita Keigo | Lose | B+1.5
+ | 6.5 | 3476.0 | -9.0 | 
+| 2015-04-02 | 第70期本因坊戦リーグ | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 34
+85.0 | 0.0 | 
+| 2015-03-30 | 第40期碁聖戦本戦2回戦 | Yamashita Keigo | Cho Riyu | Win | B+R | 6.5 
+| 3485.0 | 7.0 | 
+| 2015-03-26 | 第70期本因坊戦リーグ | Yamashita Keigo | Ryu Shikun | Win | B+R | 6.5
+ | 3478.0 | -6.0 | 
+| 2015-03-20 | 第39期棋聖戦挑戦手合七番勝負第7局 | Iyama Yuta | Yamashita Keigo | Lose | B
++5.5 | 6.5 | 3484.0 | 9.0 | 
+| 2015-03-12 | 第39期棋聖戦挑戦手合七番勝負第6局 | Yamashita Keigo | Iyama Yuta | Win | B+
+R | 6.5 | 3475.0 | 9.0 | 
+| 2015-03-05 | 第40期名人戦リーグ | Yamashita Keigo | Cho U | Win | B+5.5 | 6.5 | 3
+466.0 | -9.0 | 
+| 2015-02-26 | 第39期棋聖戦挑戦手合七番勝負第5局 | Iyama Yuta | Yamashita Keigo | Win | W+
+R | 6.5 | 3475.0 | 1.0 | 
+| 2015-02-20 | 第39期棋聖戦挑戦手合七番勝負第4局 | Yamashita Keigo | Iyama Yuta | Win | B+
+2.5 | 6.5 | 3474.0 | -3.0 | 
+| 2015-02-12 | 第70期本因坊戦リーグ | Mimura Tomoyasu | Yamashita Keigo | Win | W+3.
+5 | 6.5 | 3477.0 | -6.0 | 
+| 2015-02-06 | 第39期棋聖戦挑戦手合七番勝負第3局 | Iyama Yuta | Yamashita Keigo | Lose | B
++1.5 | 6.5 | 3483.0 | -5.0 | 
+| 2015-01-30 | 第39期棋聖戦挑戦手合七番勝負第2局 | Yamashita Keigo | Iyama Yuta | Lose | W
++R | 6.5 | 3488.0 | 6.0 | 
+| 2015-01-22 | 第70期本因坊戦リーグ | Yamashita Keigo | Takao Shinji | Win | B+R | 6
+.5 | 3482.0 | 2.0 | 
+| 2015-01-16 | 第39期棋聖戦挑戦手合七番勝負第1局 | Iyama Yuta | Yamashita Keigo | Lose | B
++0.5 | 6.5 | 3480.0 | 14.0 | 
+| 2015-01-08 | 第40期名人戦リーグ | Murakawa Daisuke | Yamashita Keigo | Win | W+R 
+| 6.5 | 3466.0 | 7.0 | 
+| 2014-12-25 | 第40期名人戦リーグ | Takao Shinji | Yamashita Keigo | Lose | B+0.5 |
+ 6.5 | 3459.0 | -53.0 | 
+| 2014-12-18 | 第41期天元戦本戦1回戦 | Hane Naoki | Yamashita Keigo | Win | W+R | 6.
+5 | 3512.0 | 9.0 | 
+| 2014-12-11 | 第40期碁聖戦本戦1回戦 | Yamashita Keigo | Iguchi Hideichiro | Win | B
++R | 6.5 | 3503.0 | -10.0 | 
+| 2014-12-04 | 第70期本因坊戦リーグ | Ida Atsushi | Yamashita Keigo | Lose | B+1.5 |
+ 6.5 | 3513.0 | -8.0 | 
+| 2014-11-27 | 第70期本因坊戦リーグ | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 |
+ 3521.0 | 34.0 | 
+| 2014-11-13 | 第39期棋聖戦挑戦者決定戦 | Yamashita Keigo | Murakawa Daisuke | Win | B
++R | 6.5 | 3487.0 | -11.0 | 
+| 2014-10-23 | 第41期天元戦予選 | Cho Sonjin | Yamashita Keigo | Win | W+R | 6.5 |
+ 3498.0 | 23.0 | 
+| 2014-10-09 | 第70期本因坊戦リーグ | Yu Zhengqi | Yamashita Keigo | Win | W+R | 6.5
+ | 3475.0 | 28.0 | 
+| 2014-10-02 | 第39期棋聖戦Aリーグ | Yamashiro Hiroshi | Yamashita Keigo | Win | W+
+R | 6.5 | 3447.0 | 83.0 | 
+| 2014-09-25 | 第41期天元戦予選 | Horimoto Mitsunari | Yamashita Keigo | Win | W+R
+ | 6.5 | 3364.0 | 2.0 | 
+| 2014-09-18 | 第40期碁聖戦予選 | Yamashita Keigo | Otake Hideo | Win | B+R | 6.5 
+| 3362.0 | 55.0 | 
+| 2014-08-28 | 第39期棋聖戦Aリーグ | Yamashita Keigo | Hane Naoki | Win | B+R | 6.5
+ | 3307.0 | -4.0 | 
+| 2014-08-22 | 第21期阿含・桐山杯全日本早碁オープン戦準決勝 | Yamashita Keigo | Kono Rin | Lose 
+| W+R | 6.5 | 3311.0 | -20.0 | 
+| 2014-08-14 | 第53期十段戦予選 | Shida Tatsuya | Yamashita Keigo | Lose | B+R | 6
+.5 | 3331.0 | -4.0 | 
+| 2014-08-11 | 第21期阿含・桐山杯全日本早碁オープン戦2回戦 | Yamashita Keigo | Murakawa Daisuke
+ | Win | B+5.5 | 6.5 | 3335.0 | 5.0 | 
+| 2014-08-04 | 第39期名人戦挑戦者決定プレーオフ | Kono Rin | Yamashita Keigo | Lose | B+0.
+5 | 6.5 | 3330.0 | -9.0 | 
+| 2014-07-31 | 第39期名人戦リーグ | Murakawa Daisuke | Yamashita Keigo | Lose | B+6
+.5 | 6.5 | 3339.0 | -5.0 | 
+| 2014-07-24 | 第39期棋聖戦Aリーグ | Kono Rin | Yamashita Keigo | Win | W+R | 6.5 |
+ 3344.0 | -50.0 | 
+| 2014-07-10 | 第21期阿含・桐山杯全日本早碁オープン戦1回戦 | Kiyonari Tetsuya | Yamashita Keigo
+ | Win | W+0.5 | 6.5 | 3394.0 | 38.0 | 
+| 2014-07-03 | 第39期名人戦リーグ | Yamashita Keigo | Cho U | Lose | W+1.5 | 6.5 | 
+3356.0 | 4.0 | 
+| 2014-06-26 | 第39期棋聖戦Aリーグ | Yamashita Keigo | Takao Shinji | Win | B+R | 6
+.5 | 3352.0 | -3.0 | 
+| 2014-06-19 | 第62期王座戦1回戦 | Yamashita Keigo | Rin Kanketsu | Lose | W+5.5 |
+ 6.5 | 3355.0 | -93.0 | 
+| 2014-06-09 | 第19回LG杯朝鮮日報棋王戦1回戦 | Yamashita Keigo | An Dongxu | Lose | W+5
+.5 | 6.5 | 3448.0 | -36.0 | 
+| 2014-06-05 | 第39期名人戦リーグ | Yamashita Keigo | Yuki Satoshi | Win | B+R | 6.
+5 | 3484.0 | -6.0 | 
+| 2014-05-29 | 第39期棋聖戦Aリーグ | Yamashita Keigo | Ichiriki Ryo | Win | B+R | 6
+.5 | 3490.0 | -27.0 | 
+| 2014-05-15 | 第40期天元戦本戦2回戦 | Kanazawa Makoto | Yamashita Keigo | Lose | B+
+9.5 | 6.5 | 3517.0 | -14.0 | 
+| 2014-05-08 | 第21期阿含・桐山杯全日本早碁オープン戦予選 | Ryu Shikun | Yamashita Keigo | Win 
+| W+R | 6.5 | 3531.0 | -21.0 | 
+| 2014-05-01 | 第39期名人戦リーグ | Ryu Shikun | Yamashita Keigo | Win | W+R | 6.5 
+| 3552.0 | 13.0 | 
+| 2014-04-24 | 第40期天元戦本戦1回戦 | Yamashita Keigo | Kono Takashi | Win | B+6.5 
+| 6.5 | 3539.0 | 22.0 | 
+| 2014-04-14 | 第39期名人戦リーグ | Kono Rin | Yamashita Keigo | Win | W+3.5 | 6.5 
+| 3517.0 | 15.0 | 
+| 2014-04-07 | 第69期本因坊戦挑戦者決定プレーオフ | Yamashita Keigo | Ida Atsushi | Lose | 
+W+5.5 | 6.5 | 3502.0 | -12.0 | 
+| 2014-04-03 | 第69期本因坊戦リーグ | Yamashita Keigo | Ida Atsushi | Lose | W+0.5 |
+ 6.5 | 3514.0 | -25.0 | 
+| 2014-03-26 | 第10回春蘭杯世界囲碁選手権1回戦 | Tang Weixing | Yamashita Keigo | Lose | 
+B+R | 7.5 | 3539.0 | 5.0 | 
+| 2014-03-13 | 第38期棋聖戦挑戦手合七番勝負第6局 | Iyama Yuta | Yamashita Keigo | Lose | B
++R | 6.5 | 3534.0 | -12.0 | 
+| 2014-03-07 | 第69期本因坊戦リーグ | Sakai Hideyuki | Yamashita Keigo | Win | W+R |
+ 6.5 | 3546.0 | 5.0 | 
+| 2014-02-27 | 第38期棋聖戦挑戦手合七番勝負第5局 | Yamashita Keigo | Iyama Yuta | Win | B+
+3.5 | 6.5 | 3541.0 | 22.0 | 
+| 2014-02-21 | 第38期棋聖戦挑戦手合七番勝負第4局 | Iyama Yuta | Yamashita Keigo | Win | W+
+0.5 | 6.5 | 3519.0 | 32.0 | 
+| 2014-02-17 | 第39期名人戦リーグ | Yamashita Keigo | Ko Iso | Win | B+R | 6.5 | 34
+87.0 | 6.0 | 
+| 2014-02-13 | 第69期本因坊戦リーグ | Yamashita Keigo | Kono Rin | Win | B+1.5 | 6.5
+ | 3481.0 | 26.0 | 
+| 2014-02-07 | 第38期棋聖戦挑戦手合七番勝負第3局 | Yamashita Keigo | Iyama Yuta | Lose | W
++R | 6.5 | 3455.0 | -13.0 | 
+| 2014-01-30 | 第38期棋聖戦挑戦手合七番勝負第2局 | Iyama Yuta | Yamashita Keigo | Lose | B
++R | 6.5 | 3468.0 | 2.0 | 
+| 2014-01-23 | 第69期本因坊戦リーグ | Yu Zhengqi | Yamashita Keigo | Win | W+R | 6.5
+ | 3466.0 | 12.0 | 
+| 2014-01-18 | 第39期名人戦リーグ | Yamashita Keigo | Takao Shinji | Win | B+R | 6.
+5 | 3454.0 | 0.0 | 
+| 2014-01-12 | 第38期棋聖戦挑戦手合七番勝負第1局 | Yamashita Keigo | Iyama Yuta | Lose | W
++0.5 | 6.5 | 3454.0 | 1.0 | 
+| 2013-12-26 | 第69期本因坊戦リーグ | Yuki Satoshi | Yamashita Keigo | Win | W+R | 6
+.5 | 3453.0 | 8.0 | 
+| 2013-12-05 | 第39期名人戦リーグ | Hane Naoki | Yamashita Keigo | Win | W+R | 6.5 
+| 3445.0 | -33.0 | 
+| 2013-11-21 | 第39期碁聖戦本戦1回戦 | Ohba Junya | Yamashita Keigo | Lose | B+1.5 |
+ 6.5 | 3478.0 | 21.0 | 
+| 2013-11-14 | 第38期棋聖戦挑戦者決定戦 | Murakawa Daisuke | Yamashita Keigo | Win | W
++R | 6.5 | 3457.0 | 1.0 | 
+| 2013-11-07 | 第69期本因坊戦リーグ | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 34
+56.0 | 60.0 | 
+| 2013-10-24 | 第69期本因坊戦リーグ | Takao Shinji | Yamashita Keigo | Win | W+R | 6
+.5 | 3396.0 | -23.0 | 
+| 2013-10-17 | 第38期名人戦挑戦手合七番勝負第5局 | Iyama Yuta | Yamashita Keigo | Lose | B
++4.5 | 6.5 | 3419.0 | -22.0 | 
+| 2013-10-10 | 第38期名人戦挑戦手合七番勝負第4局 | Yamashita Keigo | Iyama Yuta | Lose | W
++R | 6.5 | 3441.0 | -1.0 | 
+| 2013-10-03 | 第38期棋聖戦Aリーグ | Kiyonari Tetsuya | Yamashita Keigo | Win | W+1
+.5 | 6.5 | 3442.0 | -9.0 | 
+| 2013-09-26 | 第38期名人戦挑戦手合七番勝負第3局 | Iyama Yuta | Yamashita Keigo | Lose | B
++1.5 | 6.5 | 3451.0 | -10.0 | 
+| 2013-09-20 | 第38期名人戦挑戦手合七番勝負第2局 | Yamashita Keigo | Iyama Yuta | Lose | W
++R | 6.5 | 3461.0 | 65.0 | 
+| 2013-09-09 | 第39期天元戦挑戦者決定戦 | Akiyama Jiro | Yamashita Keigo | Lose | B+R 
+| 6.5 | 3396.0 | -8.0 | 
+| 2013-09-06 | 第38期名人戦挑戦手合七番勝負第1局 | Iyama Yuta | Yamashita Keigo | Win | W+
+R | 6.5 | 3404.0 | -6.0 | 
+| 2013-08-29 | 第61期王座戦準決勝 | Cho U | Yamashita Keigo | Lose | B+R | 6.5 | 34
+10.0 | 5.0 | 
+| 2013-08-22 | 第39期天元戦本戦準決勝 | Yamashita Keigo | Cho U | Win | B+R | 6.5 | 3
+405.0 | 38.0 | 
+| 2013-08-15 | 第38期棋聖戦Aリーグ | Kobayashi Satoru | Yamashita Keigo | Win | W+R
+ | 6.5 | 3367.0 | 61.0 | 
+| 2013-08-01 | 第39期天元戦本戦3回戦 | Yamashita Keigo | Ryu Shikun | Win | B+R | 6.
+5 | 3306.0 | -10.0 | 
+| 2013-07-25 | 第38期棋聖戦Aリーグ | Yamashita Keigo | Yamashiro Hiroshi | Lose | W
++3.5 | 6.5 | 3316.0 | -2.0 | 
+| 2013-07-18 | 第61期王座戦2回戦 | Yamashita Keigo | Seto Taiki | Win | B+R | 6.5 
+| 3318.0 | -12.0 | 
+| 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 | An Dongxu | Yamashita Keigo | Lose | B+3
+.5 | 7.5 | 3330.0 | 7.0 | 
+| 2013-07-04 | 第52期十段戦予選 | Nakano Hironari | Yamashita Keigo | Lose | B+R |
+ 6.5 | 3323.0 | -10.0 | 
+| 2013-06-27 | 第20期阿含・桐山杯全日本早碁オープン戦1回戦 | Yamashita Keigo | Tsuruyama Atsush
+i | Lose | W+R | 6.5 | 3333.0 | 13.0 | 
+| 2013-06-20 | 第38期棋聖戦Aリーグ | Cho U | Yamashita Keigo | Win | W+3.5 | 6.5 | 
+3320.0 | 147.0 | 
+| 2013-06-06 | 第61期王座戦1回戦 | Yamashita Keigo | Yoda Norimoto | Win | B+R | 6
+.5 | 3173.0 | -57.0 | 
+| 2013-05-30 | 第39期天元戦本戦2回戦 | Yamashita Keigo | Uchida Shuhei | Win | B+9.5
+ | 6.5 | 3230.0 | -94.0 | 
+| 2013-05-09 | 第38期棋聖戦Aリーグ | Yamashita Keigo | Yoda Norimoto | Win | B+5.5 
+| 6.5 | 3324.0 | 192.0 | 
+| 2013-04-25 | 第38期碁聖戦本戦3回戦 | Yamashita Keigo | Matsumoto Takehisa | Lose |
+ W+R | 6.5 | 3132.0 | -196.0 | 
+| 2013-04-08 | 第68期本因坊戦リーグ | Cho U | Yamashita Keigo | Win | W+R | 6.5 | 33
+28.0 | -33.0 | 
+| 2013-03-21 | 第68期本因坊戦リーグ | Yamashita Keigo | Imamura Toshiya | Lose | W+0
+.5 | 6.5 | 3361.0 | -41.0 | 
+| 2013-03-07 | 第38期碁聖戦本戦2回戦 | Yamashita Keigo | Nakane Naoyuki | Win | B+R 
+| 6.5 | 3402.0 | 11.0 | 
+| 2013-02-21 | 第68期本因坊戦リーグ | Yamashita Keigo | Takao Shinji | Lose | W+R | 
+6.5 | 3391.0 | 11.0 | 
+| 2013-01-17 | 第39期天元戦本戦1回戦 | Yamashita Keigo | Nakane Naoyuki | Win | B+R 
+| 6.5 | 3380.0 | 7.0 | 
+| 2013-01-10 | 第68期本因坊戦リーグ | Ko Iso | Yamashita Keigo | Win | W+R | 6.5 | 3
+373.0 | 31.0 | 
+| 2012-12-20 | 第68期本因坊戦リーグ | Yamashita Keigo | Seto Taiki | Win | B+R | 6.5
+ | 3342.0 | -22.0 | 
+| 2012-12-13 | 第38期碁聖戦本戦1回戦 | Mitani Tetsuya | Yamashita Keigo | Win | W+1.
+5 | 6.5 | 3364.0 | 58.0 | 
+| 2012-11-22 | 第68期本因坊戦リーグ | Yamashita Keigo | Yuki Satoshi | Win | B+R | 6
+.5 | 3306.0 | -51.0 | 
+| 2012-11-17 | 第8回大和証券杯ネット囲碁オープン1回戦 | Yamashita Keigo | Oya Koichi | Lose |
+ W+R | 6.5 | 3357.0 | -16.0 | 
+| 2012-11-13 | 第37期名人戦挑戦手合七番勝負第7局 | Hane Naoki | Yamashita Keigo | Win | W+
+R | 6.5 | 3373.0 | 1.0 | 
+| 2012-11-01 | 第37期名人戦挑戦手合七番勝負第6局 | Yamashita Keigo | Hane Naoki | Lose | W
++R | 6.5 | 3372.0 | -24.0 | 
+| 2012-10-25 | 第68期本因坊戦リーグ | Cho Sonjin | Yamashita Keigo | Win | W+0.5 | 6
+.5 | 3396.0 | -5.0 | 
+| 2012-10-18 | 第37期名人戦挑戦手合七番勝負第5局 | Hane Naoki | Yamashita Keigo | Win | W+
+R | 6.5 | 3401.0 | 22.0 | 
+| 2012-10-11 | 第37期名人戦挑戦手合七番勝負第4局 | Yamashita Keigo | Hane Naoki | Win | B+
+R | 6.5 | 3379.0 | 3.0 | 
+| 2012-10-04 | 第37期棋聖戦Aリーグ | Kono Rin | Yamashita Keigo | Lose | B+1.5 | 6.
+5 | 3376.0 | -10.0 | 
+| 2012-09-28 | 第37期名人戦挑戦手合七番勝負第3局 | Hane Naoki | Yamashita Keigo | Lose | B
++R | 6.5 | 3386.0 | 24.0 | 
+| 2012-09-21 | 第37期名人戦挑戦手合七番勝負第2局 | Yamashita Keigo | Hane Naoki | Lose | W
++R | 6.5 | 3362.0 | missing |
 
 
 

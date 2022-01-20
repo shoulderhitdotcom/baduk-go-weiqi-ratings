@@ -7,8 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Hane Naoki vs Sada Atsushi** | **Hane Naoki streak** | **Sada Atsushi streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-12-16 | 第77期本因坊戦リーグ | Sada Atsushi | Hane Naoki | W+R | 6.5 | 1:0 | 1 | 0 | 
-| 2021-03-04 | 第76期本因坊戦リーグ | Hane Naoki | Sada Atsushi | W+R | 6.5 | 1:1 | 0 | 1 |
+| 2021-12-16 | 第77期本因坊戦リーグ | Sada Atsushi | Hane Naoki | W+R | 6.5 | 1:1 | 1 | 0 | 
+| 2021-03-04 | 第76期本因坊戦リーグ | Hane Naoki | Sada Atsushi | W+R | 6.5 | 0:1 | 0 | 1 |
 
 
 

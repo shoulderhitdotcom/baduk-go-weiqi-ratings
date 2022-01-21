@@ -26,8 +26,8 @@
 | 2017-09-10 | 第5期中環碁聖戦首輪上半区補戦 | Zhou Yinnan | Zhou Junxun | Win | W+R | 6.5 | 2996.0 | 28.0 | 
 | 2017-06-19 | 第7期友士杯十段戦敗者復活戦3回戦 | Lin Shixun | Zhou Junxun | Lose | B+R | 6.5 | 2968.0 | -32.0 | 
 | 2017-06-05 | 第7期友士杯十段戦敗者復活戦2回戦 | Zhou Junxun | Lin Xiuping | Win | B+R | 6.5 | 3000.0 | -13.0 | 
-| 2017-06-02 | 第7期友士杯十段戦2回戦 | Xu Haohong | Zhou Junxun | Lose | B+2.5 | 6.5 | 3013.0 | -9.0 | 
-| 2017-05-31 | 第7期友士杯十段戦1回戦 | Zhou Junxun | Chen Shiyuan | Win | B+R | 6.5 | 3022.0 | 24.0 | 
+| 2017-06-02 | 第7期友士杯十段戦2回戦 | Xu Haohong | Zhou Junxun | Lose | B+2.5 | 6.5 | 3013.0 | -8.0 | 
+| 2017-05-31 | 第7期友士杯十段戦1回戦 | Zhou Junxun | Chen Shiyuan | Win | B+R | 6.5 | 3021.0 | 23.0 | 
 | 2017-03-20 | 第9回海峰杯プロ囲碁戦8強戦 | Zhou Junxun | Xiao Zhenghao | Lose | W+R | 6.5 | 2998.0 | -15.0 | 
 | 2017-03-16 | 第9回海峰杯プロ囲碁戦16強戦 | Zhou Junxun | Lin Shixun | Win | B+R | 6.5 | 3013.0 | 1.0 | 
 | 2017-03-13 | 第9回海峰杯プロ囲碁戦32強戦 | Zhao Peizhe | Zhou Junxun | Win | W+4.5 | 6.5 | 3012.0 | 0.0 | 

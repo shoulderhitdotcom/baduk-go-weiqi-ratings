@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-21 | 2021-2022韓国囲碁リーグ | Lee Changho | Kim Jiseok | Lose | W+R | 6.5 | 3211.0 | -15.0 | 
 | 2022-01-18 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Lee Changho | Cho Hyeyeon | Win | B+R | 6.5 | 3226.0 | -8.0 | 
 | 2022-01-15 | 2021-2022韓国囲碁リーグ | Lee Changho | Park Minkyu | Lose | W+R | 6.5 | 3234.0 | 6.0 | 
 | 2022-01-12 | 第23回農心杯韓中クラシックスーパーマッチ第3戦 | Liu Xiaoguang | Lee Changho | Win | W+5.5 | 6.5 | 3228.0 | 3.0 | 
@@ -198,8 +199,8 @@
 | 2015-09-04 | 2015年韓国囲碁リーグ | Park Jinsol | Lee Changho | Win | W+R | 6.5 | 3458.0 | -23.0 | 
 | 2015-08-29 | 2015年韓国囲碁リーグ | Lee Changho | Park Geunho | Win | B+R | 6.5 | 3481.0 | -4.0 | 
 | 2015-08-23 | 2015年韓国囲碁リーグ | Lee Changho | Paek Hongseok | Win | B+R | 6.5 | 3485.0 | 44.0 | 
-| 2015-08-13 | 2015年韓国囲碁リーグ | Lee Jihyun | Lee Changho | Win | W+R | 6.5 | 3441.0 | 16.0 | 
-| 2015-07-24 | 2015年韓国囲碁リーグ | Lee Donghoon | Lee Changho | Lose | B+R | 6.5 | 3425.0 | 6.0 | 
+| 2015-08-13 | 2015年韓国囲碁リーグ | Lee Jihyun | Lee Changho | Win | W+R | 6.5 | 3441.0 | 17.0 | 
+| 2015-07-24 | 2015年韓国囲碁リーグ | Lee Donghoon | Lee Changho | Lose | B+R | 6.5 | 3424.0 | 5.0 | 
 | 2015-07-19 | 2015年韓国囲碁リーグ | Lee Changho |  | Lose | W+R | 6.5 | 3419.0 | -38.0 | 
 | 2015-07-14 | 第17回農心杯韓国選抜戦 | Lee Changho | Song Taekon | Lose | W+R | 6.5 | 3457.0 | -35.0 | 
 | 2015-07-02 | 2015年韓国囲碁リーグ | Lee Taehyun | Lee Changho | Lose | B+R | 6.5 | 3492.0 | -46.0 | 
@@ -226,8 +227,8 @@
 | 2014-08-26 | 第19回三星火災杯世界囲碁マスターズ1回戦C1 | Lee Changho | Meng Tailing | Win | B+T | 6.5 | 3329.0 | 30.0 | 
 | 2014-08-22 | 2014年韓国囲碁リーグ | Kim Juho | Lee Changho | Lose | B+R | 6.5 | 3299.0 | -31.0 | 
 | 2014-08-13 | 第10期物価情報杯プロ棋戦リーグB | Lee Changho | An Sungjoon | Win | B+R | 6.5 | 3330.0 | 29.0 | 
-| 2014-08-10 | 2014年韓国囲碁リーグ | Kim Jinhyu | Lee Changho | Win | W+2.5 | 6.5 | 3301.0 | -8.0 | 
-| 2014-07-30 | 2014年レッツランパーク杯オープントーナメント1回戦 | Lee Changho | Cho Insun | Lose | W+0.5 | 6.5 | 3309.0 | -42.0 | 
+| 2014-08-10 | 2014年韓国囲碁リーグ | Kim Jinhyu | Lee Changho | Win | W+2.5 | 6.5 | 3301.0 | -7.0 | 
+| 2014-07-30 | 2014年レッツランパーク杯オープントーナメント1回戦 | Lee Changho | Cho Insun | Lose | W+0.5 | 6.5 | 3308.0 | -43.0 | 
 | 2014-07-17 | 2014年韓国囲碁リーグ | Kim Sedong | Lee Changho | Lose | B+R | 6.5 | 3351.0 | -26.0 | 
 | 2014-07-16 | 第16回農心杯韓国選抜戦 | Lee Changho | Park Cheongsang | Win | B+R | 6.5 | 3377.0 | -9.0 | 
 | 2014-07-14 | 第16回農心杯韓国選抜戦 | Shin Minjun | Lee Changho | Win | W+R | 6.5 | 3386.0 | 19.0 | 
@@ -236,12 +237,12 @@
 | 2014-06-08 | 2014年韓国囲碁リーグ | Jin Siyoung | Lee Changho | Lose | B+R | 6.5 | 3399.0 | -43.0 | 
 | 2014-05-28 | 第10期物価情報杯プロ棋戦リーグB | Choi Cheolhan | Lee Changho | Win | W+R | 6.5 | 3442.0 | -15.0 | 
 | 2014-05-22 | 2014年韓国囲碁リーグ | Lee Changho | An Joyeong | Win | B+R | 6.5 | 3457.0 | -27.0 | 
-| 2014-05-03 | 2014年韓国囲碁リーグ | Kim Juho | Lee Changho | Lose | B+1.5 | 6.5 | 3484.0 | -26.0 | 
-| 2014-04-29 | 2014年中国囲碁乙級リーグ | Lee Changho |  | Win | B+R | 7.5 | 3510.0 | 0.0 | 
-| 2014-04-26 | 2014年中国囲碁乙級リーグ | Park Yeonghun | Lee Changho | Lose | B+R | 7.5 | 3510.0 | -2.0 | 
-| 2014-04-25 | 2014年中国囲碁乙級リーグ | Lee Changho | Zhu Yuanhao | Lose | W+0.5 | 7.5 | 3512.0 | -21.0 | 
-| 2014-04-22 | 2014年中国囲碁乙級リーグ | Lee Changho | Liu Xing | Lose | W+R | 7.5 | 3533.0 | -4.0 | 
-| 2014-04-21 | 2014年中国囲碁乙級リーグ | Wang Lei (s) | Lee Changho | Win | W+R | 7.5 | 3537.0 | 11.0 | 
+| 2014-05-03 | 2014年韓国囲碁リーグ | Kim Juho | Lee Changho | Lose | B+1.5 | 6.5 | 3484.0 | -25.0 | 
+| 2014-04-29 | 2014年中国囲碁乙級リーグ | Lee Changho |  | Win | B+R | 7.5 | 3509.0 | 0.0 | 
+| 2014-04-26 | 2014年中国囲碁乙級リーグ | Park Yeonghun | Lee Changho | Lose | B+R | 7.5 | 3509.0 | -2.0 | 
+| 2014-04-25 | 2014年中国囲碁乙級リーグ | Lee Changho | Zhu Yuanhao | Lose | W+0.5 | 7.5 | 3511.0 | -21.0 | 
+| 2014-04-22 | 2014年中国囲碁乙級リーグ | Lee Changho | Liu Xing | Lose | W+R | 7.5 | 3532.0 | -4.0 | 
+| 2014-04-21 | 2014年中国囲碁乙級リーグ | Wang Lei (s) | Lee Changho | Win | W+R | 7.5 | 3536.0 | 10.0 | 
 | 2014-04-10 | 2014年韓国囲碁リーグ | Lee Changho | Lee Jihyun | Lose | W+1.5 | 6.5 | 3526.0 | 5.0 | 
 | 2014-03-12 | 第58期国手戦（韓国）予選 | Kim Jinhyu | Lee Changho | Lose | B+R | 6.5 | 3521.0 | -14.0 | 
 | 2014-03-03 | 第4期招商地産杯韓国選抜戦 | Byun Sangil | Lee Changho | Lose | B+R | 6.5 | 3535.0 | -11.0 | 

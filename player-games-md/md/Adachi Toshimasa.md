@@ -43,8 +43,8 @@
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第2戦 | Xu Haohong | Adachi Toshimasa | Lose | B+R | 6.5 | 3210.0 | 0.0 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第1戦 | Adachi Toshimasa | Xu Jiayang | Lose | W+R | 6.5 | 3210.0 | 19.0 | 
 | 2019-10-10 | 第68期王座戦予選 | Akiyama Jiro | Adachi Toshimasa | Lose | B+R | 6.5 | 3191.0 | -42.0 | 
-| 2019-10-03 | 第58期十段戦1回戦 | Adachi Toshimasa | Kono Rin | Lose | W+R | 6.5 | 3233.0 | -4.0 | 
-| 2019-09-12 | 第45期名人戦予選 | Sada Atsushi | Adachi Toshimasa | Win | W+R | 6.5 | 3237.0 | 33.0 | 
+| 2019-10-03 | 第58期十段戦1回戦 | Adachi Toshimasa | Kono Rin | Lose | W+R | 6.5 | 3233.0 | -3.0 | 
+| 2019-09-12 | 第45期名人戦予選 | Sada Atsushi | Adachi Toshimasa | Win | W+R | 6.5 | 3236.0 | 32.0 | 
 | 2019-08-29 | 第58期十段戦予選 | So Yokoku | Adachi Toshimasa | Win | W+R | 6.5 | 3204.0 | 48.0 | 
 | 2019-07-25 | 第44期棋聖戦Bリーグ | Cho Chikun | Adachi Toshimasa | Win | W+R | 6.5 | 3156.0 | 16.0 | 
 | 2019-07-11 | 第44期棋聖戦Bリーグ | Motoki Katsuya | Adachi Toshimasa | Lose | B+R | 6.5 | 3140.0 | -70.0 | 
@@ -97,8 +97,8 @@
 | 2015-02-12 | 2015年日台精鋭交流戦第3戦 | Zhou Yinnan | Adachi Toshimasa | Win | W+R | 6.5 | 3361.0 | 71.0 | 
 | 2015-02-11 | 2015年日台精鋭交流戦第2戦 | Adachi Toshimasa | Lin Shuyang | Win | B+R | 6.5 | 3290.0 | 0.0 | 
 | 2015-02-11 | 2015年日台精鋭交流戦第1戦 | Adachi Toshimasa | Yang Bowei | Lose | W+5.5 | 6.5 | 3290.0 | 54.0 | 
-| 2015-01-29 | 第63期王座戦予選 | Adachi Toshimasa | Kobayashi Satoru | Win | B+R | 6.5 | 3236.0 | 389.0 | 
-| 2014-07-31 | 第41期天元戦予選 | Adachi Toshimasa | Hashimoto Yujiro | Lose | W+0.5 | 6.5 | 2847.0 | -152.0 | 
+| 2015-01-29 | 第63期王座戦予選 | Adachi Toshimasa | Kobayashi Satoru | Win | B+R | 6.5 | 3236.0 | 390.0 | 
+| 2014-07-31 | 第41期天元戦予選 | Adachi Toshimasa | Hashimoto Yujiro | Lose | W+0.5 | 6.5 | 2846.0 | -153.0 | 
 | 2014-06-26 | 第39期新人王戦3回戦 | Adachi Toshimasa | Shida Tatsuya | Lose | W+7.5 | 6.5 | 2999.0 | -102.0 | 
 | 2014-06-02 | 第39期新人王戦2回戦 | Motoki Katsuya | Adachi Toshimasa | Win | W+R | 6.5 | 3101.0 | 47.0 | 
 | 2014-05-29 | 第21期阿含・桐山杯全日本早碁オープン戦予選 | Yamada Kimio | Adachi Toshimasa | Lose | B+2.5 | 6.5 | 3054.0 | -168.0 | 

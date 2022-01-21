@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-21 | 第21期天元戦（台湾）敗部1回戦 | Lin Shixun |  | Win | B+R | 6.5 | 3062.0 | -3.0 | 
 | 2022-01-18 | 第21期天元戦（台湾）勝部1回戦 | Huang Shiyuan | Lin Shixun | Lose | B+R | 6.5 | 3065.0 | -20.0 | 
 | 2022-01-14 | 第21期天元戦（台湾）予選 |  | Lin Shixun | Win | W+R | 6.5 | 3085.0 | 5.0 | 
 | 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Lin Shixun | Xu Haohong | Lose | W+R | 6.5 | 3080.0 | 17.0 | 
@@ -248,9 +249,9 @@
 | 2017-09-05 | 第13期国手戦（台湾）首輪上半区 | Lin Shixun | Huang Shiyuan | Lose | W+0.5(W+0.5) | 6.5 | 3078.0 | -21.0 | 
 | 2017-08-31 | 第四回福蔭杯代表選抜戦決勝敗部第二局 | Xiao Zhenghao | Lin Shixun | Lose | B+1.5 | 6.5 | 3099.0 | 3.0 | 
 | 2017-08-29 | 第四回福蔭杯代表選抜戦決勝敗部第一局 | Lin Shixun | Lin Lixiang | Win | B+R | 6.5 | 3096.0 | 0.0 | 
-| 2017-08-29 | 第四回福蔭杯代表選抜戦決勝勝部第一局 | Wang Yuanjun | Lin Shixun | Lose | B+R | 6.5 | 3096.0 | -19.0 | 
-| 2017-08-25 | 第四回福蔭杯国際精鋭囲棋対抗戦代表選抜戦初戦第二局 | Lin Shixun | Zhou Yinnan | Win | B+R | 6.5 | 3115.0 | 0.0 | 
-| 2017-08-25 | 第四回福蔭杯国際精鋭囲棋対抗戦代表選抜戦初戦第一局 | Lin Shixun | Huang Shiyuan | Win | B+R | 6.5 | 3115.0 | 18.0 | 
+| 2017-08-29 | 第四回福蔭杯代表選抜戦決勝勝部第一局 | Wang Yuanjun | Lin Shixun | Lose | B+R | 6.5 | 3096.0 | -18.0 | 
+| 2017-08-25 | 第四回福蔭杯国際精鋭囲棋対抗戦代表選抜戦初戦第二局 | Lin Shixun | Zhou Yinnan | Win | B+R | 6.5 | 3114.0 | 0.0 | 
+| 2017-08-25 | 第四回福蔭杯国際精鋭囲棋対抗戦代表選抜戦初戦第一局 | Lin Shixun | Huang Shiyuan | Win | B+R | 6.5 | 3114.0 | 17.0 | 
 | 2017-07-05 | 16回台湾天元戦挑戦手合7番4局 | Lin Shixun | Wang Yuanjun | Lose | W+R | 6.5 | 3097.0 | 33.0 | 
 | 2017-06-26 | 第7期友士杯十段戦挑戦者決定戦 | Lin Shixun | Wang Yuanjun | Lose | W+3.5 | 6.5 | 3064.0 | -7.0 | 
 | 2017-06-23 | 第7期友士杯十段戦敗者復活戦決勝 | Xu Haohong | Lin Shixun | Win | W+R | 6.5 | 3071.0 | 16.0 | 

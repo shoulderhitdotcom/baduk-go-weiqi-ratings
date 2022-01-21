@@ -25,17 +25,17 @@
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Cao Xiaoyang | Xie Erhao | Win | B+R | 7.5 | 3406.0 | 99.0 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Cao Xiaoyang | Dang Yifei | Win | B+R | 7.5 | 3307.0 | 59.0 | 
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Cao Xiaoyang | Han Yizhou | Win | B+R | 7.5 | 3248.0 | 71.0 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Cao Xiaoyang | Tu Xiaoyu | Win | B+¾ | 7.5 | 3177.0 | -60.0 | 
-| 2019-09-25 | 2019年全国囲棋個人戦男子組第8戦 | Cao Xiaoyang | Chen Haoxin | Lose | W+¼ | 7.5 | 3237.0 | -88.0 | 
-| 2019-09-18 | 2019年全国囲棋個人戦男子組第2戦 | Cao Xiaoyang | Ding Shixiong | Lose | W+R | 7.5 | 3325.0 | -67.0 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Cao Xiaoyang | Tu Xiaoyu | Win | B+¾ | 7.5 | 3177.0 | -59.0 | 
+| 2019-09-25 | 2019年全国囲棋個人戦男子組第8戦 | Cao Xiaoyang | Chen Haoxin | Lose | W+¼ | 7.5 | 3236.0 | -88.0 | 
+| 2019-09-18 | 2019年全国囲棋個人戦男子組第2戦 | Cao Xiaoyang | Ding Shixiong | Lose | W+R | 7.5 | 3324.0 | -68.0 | 
 | 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Cao Xiaoyang | Shin Minjun | Lose | W+R | 6.5 | 3392.0 | -193.0 | 
 | 2018-06-13 | 2018年中国囲碁乙級リーグ | Cao Xiaoyang | Tong Yulin | Win | B+R | 7.5 | 3585.0 | 18.0 | 
 | 2018-06-11 | 2018年中国囲碁乙級リーグ | Cao Xiaoyang | Chen Hao | Win | B+R | 7.5 | 3567.0 | 25.0 | 
 | 2018-04-05 | 第23回LG杯予選3回戦 | Cao Xiaoyang | Choi Jeong | Win | B+0.5 | 6.5 | 3542.0 | 24.0 | 
 | 2018-01-08 | 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Tang Weixing | Cao Xiaoyang | Lose | B+R | 7.5 | 3518.0 | -48.0 | 
 | 2018-01-07 | 第3期洛陽白雲山杯中国棋聖戦資格戦1 | Xie He | Cao Xiaoyang | Win | W+R | 7.5 | 3566.0 | 0.0 | 
-| 2018-01-07 | 第3回洛陽白雲山杯中国棋聖戦資格戦1 | Xie He | Cao Xiaoyang | Win | W+R | 7.5 | 3566.0 | 46.0 | 
-| 2018-01-05 | 第3期洛陽白雲山杯中国棋聖戦入囲戦 | Cao Xiaoyang |  | Win | B+R | 7.5 | 3520.0 | 109.0 | 
+| 2018-01-07 | 第3回洛陽白雲山杯中国棋聖戦資格戦1 | Xie He | Cao Xiaoyang | Win | W+R | 7.5 | 3566.0 | 47.0 | 
+| 2018-01-05 | 第3期洛陽白雲山杯中国棋聖戦入囲戦 | Cao Xiaoyang |  | Win | B+R | 7.5 | 3519.0 | 108.0 | 
 | 2017-12-05 | 第3期洛陽白雲山杯中国棋聖戦予選甲組 | Cao Xiaoyang | Chang Hao | Win | B+R | 7.5 | 3411.0 | 22.0 | 
 | 2017-09-25 | 2017年全国囲棋個人戦男子組第11戦 | Cao Xiaoyang | Zhang Qiang | Win | B+1.5 | 7.5 | 3389.0 | -18.0 | 
 | 2017-09-16 | 2017年全国囲棋個人戦男子組第3戦 | Cao Xiaoyang | He Yuhan | Lose | W+R | 7.5 | 3407.0 | 38.0 | 
@@ -60,10 +60,10 @@
 | 2016-04-25 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 |  | Cao Xiaoyang | Lose | B+R | 7.5 | 3286.0 | -79.0 | 
 | 2016-02-24 | 第13期倡棋杯中国プロ囲碁選手権戦予選 |  | Cao Xiaoyang | Win | W+R | 7.5 | 3365.0 | -56.0 | 
 | 2015-08-29 | 2015年全国囲棋個人戦男子組第7戦 | Zhou Hexi | Cao Xiaoyang | Lose | B+1.5 | 7.5 | 3421.0 | -35.0 | 
-| 2015-08-28 | 2015年全国囲棋個人戦男子組第6戦 |  | Cao Xiaoyang | Win | W+R | 7.5 | 3456.0 | 35.0 | 
-| 2015-07-22 | 2015年中国段位戦 |  | Cao Xiaoyang | Lose | B+R | 7.5 | 3421.0 | -64.0 | 
-| 2015-07-21 | 2015年中国段位戦 | Cao Xiaoyang | Xia Chenkun | Lose | W+R | 7.5 | 3485.0 | -65.0 | 
-| 2015-07-20 | 2015年中国段位戦 | Cao Xiaoyang |  | Win | B+R | 7.5 | 3550.0 | 54.0 | 
+| 2015-08-28 | 2015年全国囲棋個人戦男子組第6戦 |  | Cao Xiaoyang | Win | W+R | 7.5 | 3456.0 | 36.0 | 
+| 2015-07-22 | 2015年中国段位戦 |  | Cao Xiaoyang | Lose | B+R | 7.5 | 3420.0 | -64.0 | 
+| 2015-07-21 | 2015年中国段位戦 | Cao Xiaoyang | Xia Chenkun | Lose | W+R | 7.5 | 3484.0 | -65.0 | 
+| 2015-07-20 | 2015年中国段位戦 | Cao Xiaoyang |  | Win | B+R | 7.5 | 3549.0 | 53.0 | 
 | 2015-07-19 | 2015年中国段位戦 | Wang Yanhao | Cao Xiaoyang | Win | W+2.5 | 7.5 | 3496.0 | 22.0 | 
 | 2015-07-17 | 2015年中国段位戦 | Cao Xiaoyang | Tong Yulin | Lose | W+R | 7.5 | 3474.0 | -25.0 | 
 | 2015-07-16 | 2015年中国段位戦 |  | Cao Xiaoyang | Lose | B+R | 7.5 | 3499.0 | -124.0 | 

@@ -7,11 +7,11 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Changseok | Kang Yootaek | Lose | B+R | 6.5 | 3417.0 | 21.0 | 
-| 2021-05-03 | 第26回LG杯韓国予選 | Kang Yootaek | Lee Changseok | Lose | W+R | 6.5 | 3396.0 | 12.0 | 
+| 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Changseok | Kang Yootaek | Lose | B+R | 6.5 | 3417.0 | 22.0 | 
+| 2021-05-03 | 第26回LG杯韓国予選 | Kang Yootaek | Lee Changseok | Lose | W+R | 6.5 | 3395.0 | 11.0 | 
 | 2021-03-17 | 2020-2021韓国囲碁リーグ準プレーオフ | Lee Changseok | Kang Yootaek | Lose | B+R | 6.5 | 3384.0 | -11.0 | 
-| 2021-02-27 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Lee Donghoon | Win | B+R | 6.5 | 3395.0 | 10.0 | 
-| 2021-02-18 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Kim Jiseok | Win | B+R | 6.5 | 3385.0 | 74.0 | 
+| 2021-02-27 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Lee Donghoon | Win | B+R | 6.5 | 3395.0 | 11.0 | 
+| 2021-02-18 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Kim Jiseok | Win | B+R | 6.5 | 3384.0 | 73.0 | 
 | 2021-02-11 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Han Seungjoo | Win | B+R | 6.5 | 3311.0 | 29.0 | 
 | 2021-02-04 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Shin Jinseo | Lose | W+R | 6.5 | 3282.0 | 2.0 | 
 | 2021-01-30 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Kang Dongyun | Win | B+R | 6.5 | 3280.0 | 56.0 | 
@@ -21,8 +21,8 @@
 | 2021-01-03 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Seol Hyunjun | Win | B+R | 6.5 | 3180.0 | 109.0 | 
 | 2020-12-27 | 2020-2021韓国囲碁リーグ | Na Hyun | Kang Yootaek | Lose | B+R | 6.5 | 3071.0 | -43.0 | 
 | 2020-12-20 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Cho Hanseung | Lose | W+1.5 | 6.5 | 3114.0 | -2.0 | 
-| 2020-12-11 | 2020-2021韓国囲碁リーグ | Heo Yongho | Kang Yootaek | Win | W+R | 6.5 | 3116.0 | 123.0 | 
-| 2020-12-05 | 2020-2021韓国囲碁リーグ | Lee Changseok | Kang Yootaek | Win | W+R | 6.5 | 2993.0 | -161.0 | 
+| 2020-12-11 | 2020-2021韓国囲碁リーグ | Heo Yongho | Kang Yootaek | Win | W+R | 6.5 | 3116.0 | 124.0 | 
+| 2020-12-05 | 2020-2021韓国囲碁リーグ | Lee Changseok | Kang Yootaek | Win | W+R | 6.5 | 2992.0 | -162.0 | 
 | 2020-04-21 | 第25回LG杯韓国予選 | Kang Yootaek | Park Seunghwa | Lose | W+R | 6.5 | 3154.0 | -177.0 | 
 | 2019-06-27 | 第6回国手山脈韓国国内トーナメント予選 | Kim Seongjae | Kang Yootaek | Lose | B+R | 6.5 | 3331.0 | -129.0 | 
 | 2019-06-14 | 2019年囲碁テレビ杯早碁戦16強戦 | Kang Yootaek | Lee Donghoon | Lose | W+R | 6.5 | 3460.0 | -67.0 | 
@@ -40,8 +40,8 @@
 | 2017-10-05 | 2017年韓国囲碁リーグ | Kang Yootaek | Lee Changho | Lose | W+0.5 | 6.5 | 3484.0 | -30.0 | 
 | 2017-09-22 | 2017年韓国囲碁リーグ | Kang Yootaek | Na Hyun | Win | B+0.5 | 6.5 | 3514.0 | 26.0 | 
 | 2017-09-16 | 2017年韓国囲碁リーグ | Kang Yootaek | Lee Changseok | Lose | W+R | 6.5 | 3488.0 | -31.0 | 
-| 2017-09-01 | 2017年韓国囲碁リーグ | Kang Yootaek | Ryu Minhyung | Win | B+R | 6.5 | 3519.0 | -13.0 | 
-| 2017-08-25 | 2017年韓国囲碁リーグ | Kang Yootaek | Lee Wondo | Win | B+1.5 | 6.5 | 3532.0 | 52.0 | 
+| 2017-09-01 | 2017年韓国囲碁リーグ | Kang Yootaek | Ryu Minhyung | Win | B+R | 6.5 | 3519.0 | -12.0 | 
+| 2017-08-25 | 2017年韓国囲碁リーグ | Kang Yootaek | Lee Wondo | Win | B+1.5 | 6.5 | 3531.0 | 51.0 | 
 | 2017-08-19 | 2017年韓国囲碁リーグ | Kang Yootaek | Park Minkyu | Lose | W+R | 6.5 | 3480.0 | -2.0 | 
 | 2017-08-13 | 2017年韓国囲碁リーグ | Lee Sedol | Kang Yootaek | Lose | B+R | 6.5 | 3482.0 | -13.0 | 
 | 2017-08-03 | 2017年韓国囲碁リーグ | Kim Jiseok | Kang Yootaek | Lose | B+R | 6.5 | 3495.0 | -32.0 | 
@@ -90,9 +90,9 @@
 | 2015-09-14 | 第43期名人戦（韓国）予選 | An Sungjoon | Kang Yootaek | Lose | B+4.5 | 6.5 | 3420.0 | -70.0 | 
 | 2015-09-03 | 2015年韓国囲碁リーグ | Park Yeonghun | Kang Yootaek | Lose | B+R | 6.5 | 3490.0 | -31.0 | 
 | 2015-08-21 | 2015年韓国囲碁リーグ | Kang Yootaek | Hong Kipyo | Win | B+2.5 | 6.5 | 3521.0 | 14.0 | 
-| 2015-08-15 | 2015年韓国囲碁リーグ | Ahn Kukhyun | Kang Yootaek | Win | W+R | 6.5 | 3507.0 | 16.0 | 
-| 2015-08-02 | 第20回三星火災杯統合予選1回戦 | Kang Yootaek | Gu Lingyi | Win | B+R | 6.5 | 3491.0 | 31.0 | 
-| 2015-07-24 | 2015年韓国囲碁リーグ | Kang Yootaek | Kim Junghyun | Lose | W+0.5 | 6.5 | 3460.0 | 4.0 | 
+| 2015-08-15 | 2015年韓国囲碁リーグ | Ahn Kukhyun | Kang Yootaek | Win | W+R | 6.5 | 3507.0 | 17.0 | 
+| 2015-08-02 | 第20回三星火災杯統合予選1回戦 | Kang Yootaek | Gu Lingyi | Win | B+R | 6.5 | 3490.0 | 31.0 | 
+| 2015-07-24 | 2015年韓国囲碁リーグ | Kang Yootaek | Kim Junghyun | Lose | W+0.5 | 6.5 | 3459.0 | 3.0 | 
 | 2015-07-17 | 2015年韓国囲碁リーグ | Shin Minjun | Kang Yootaek | Lose | B+R | 6.5 | 3456.0 | -52.0 | 
 | 2015-07-04 | 2015年韓国囲碁リーグ | Kim Jinhyu | Kang Yootaek | Win | W+R | 6.5 | 3508.0 | -2.0 | 
 | 2015-06-28 | 2015年韓国囲碁リーグ | Yun Junsang | Kang Yootaek | Lose | B+R | 6.5 | 3510.0 | -10.0 | 
@@ -115,16 +115,16 @@
 | 2014-09-21 | 2014年韓国囲碁リーグ | Han Seungjoo | Kang Yootaek | Lose | B+R | 6.5 | 3405.0 | 4.0 | 
 | 2014-09-11 | 2014年レッツランパーク杯オープントーナメント2回戦 | Lee Donghoon | Kang Yootaek | Win | W+R | 6.5 | 3401.0 | 15.0 | 
 | 2014-09-07 | 2014年韓国囲碁リーグ | Kang Yootaek | Lee Sedol | Win | B+R | 6.5 | 3386.0 | 15.0 | 
-| 2014-08-14 | 2014年韓国囲碁リーグ | An Sungjoon | Kang Yootaek | Win | W+R | 6.5 | 3371.0 | 39.0 | 
-| 2014-08-08 | 2014年韓国囲碁リーグ | Kim Juho | Kang Yootaek | Lose | B+R | 6.5 | 3332.0 | -16.0 | 
-| 2014-08-03 | 第19回三星火災杯統合予選2回戦 | Suzuki Shinji | Kang Yootaek | Win | W+R | 6.5 | 3348.0 | -37.0 | 
-| 2014-07-10 | 2014年韓国囲碁リーグ | Jin Siyoung | Kang Yootaek | Win | W+R | 6.5 | 3385.0 | 55.0 | 
-| 2014-06-27 | 2014年韓国囲碁リーグ |  | Kang Yootaek | Lose | B+R | 6.5 | 3330.0 | -74.0 | 
-| 2014-06-14 | 2014年韓国囲碁リーグ | Kang Yootaek | Shin Jinseo | Win | B+R | 6.5 | 3404.0 | 54.0 | 
+| 2014-08-14 | 2014年韓国囲碁リーグ | An Sungjoon | Kang Yootaek | Win | W+R | 6.5 | 3371.0 | 40.0 | 
+| 2014-08-08 | 2014年韓国囲碁リーグ | Kim Juho | Kang Yootaek | Lose | B+R | 6.5 | 3331.0 | -16.0 | 
+| 2014-08-03 | 第19回三星火災杯統合予選2回戦 | Suzuki Shinji | Kang Yootaek | Win | W+R | 6.5 | 3347.0 | -37.0 | 
+| 2014-07-10 | 2014年韓国囲碁リーグ | Jin Siyoung | Kang Yootaek | Win | W+R | 6.5 | 3384.0 | 54.0 | 
+| 2014-06-27 | 2014年韓国囲碁リーグ |  | Kang Yootaek | Lose | B+R | 6.5 | 3330.0 | -73.0 | 
+| 2014-06-14 | 2014年韓国囲碁リーグ | Kang Yootaek | Shin Jinseo | Win | B+R | 6.5 | 3403.0 | 53.0 | 
 | 2014-06-05 | 2014年韓国囲碁リーグ | Kang Yootaek | Kim Sedong | Lose | W+R | 6.5 | 3350.0 | -60.0 | 
 | 2014-05-22 | 2014年韓国囲碁リーグ | Kang Yootaek |  | Lose | W+R | 6.5 | 3410.0 | -38.0 | 
-| 2014-05-11 | 2014年韓国囲碁リーグ |  | Kang Yootaek | Win | W+R | 6.5 | 3448.0 | -6.0 | 
-| 2014-04-13 | 2014年韓国囲碁リーグ | Kang Yootaek | Kim Juho | Win | B+R | 6.5 | 3454.0 | 38.0 | 
+| 2014-05-11 | 2014年韓国囲碁リーグ |  | Kang Yootaek | Win | W+R | 6.5 | 3448.0 | -5.0 | 
+| 2014-04-13 | 2014年韓国囲碁リーグ | Kang Yootaek | Kim Juho | Win | B+R | 6.5 | 3453.0 | 37.0 | 
 | 2014-03-03 | 第4期招商地産杯韓国選抜戦 | Kang Yootaek | Na Hyun | Lose | W+R | 6.5 | 3416.0 | 6.0 | 
 | 2014-02-12 | 第19期GSカルテックス杯プロ棋戦2回戦 | Kim Jiseok | Kang Yootaek | Lose | B+R | 6.5 | 3410.0 | -2.0 | 
 | 2014-01-23 | 第19期GSカルテックス杯プロ棋戦1回戦 | Hong Minpyo | Kang Yootaek | Win | W+7.5 | 6.5 | 3412.0 | 12.0 | 

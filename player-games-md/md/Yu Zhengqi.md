@@ -34,11 +34,11 @@
 | 2021-06-03 | 第77期本因坊戦予選 | Kobayashi Satoru | Yu Zhengqi | Win | W+1.5 | 6.5 | 3286.0 | 7.0 | 
 | 2021-05-31 | 第46期棋聖戦Sリーグ | Yu Zhengqi | Takao Shinji | Win | B+R | 6.5 | 3279.0 | 4.0 | 
 | 2021-05-19 | 第47期碁聖戦予選 | Yu Zhengqi | Hara Masakazu | Win | B+7.5 | 6.5 | 3275.0 | 3.0 | 
-| 2021-05-13 | 第46期名人戦リーグ | Hsu Chiayuan | Yu Zhengqi | Lose | B+R | 6.5 | 3272.0 | 21.0 | 
-| 2021-05-06 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Otani Naoki | Yu Zhengqi | Win | W+17.5 | 6.5 | 3251.0 | -2.0 | 
-| 2021-04-22 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Yu Zhengqi | Win | W+R | 6.5 | 3253.0 | 23.0 | 
-| 2021-04-07 | 第77期本因坊戦予選 | Yu Zhengqi | Imamura Toshiya | Win | B+R | 6.5 | 3230.0 | 25.0 | 
-| 2021-04-01 | 第46期名人戦リーグ | Yu Zhengqi | Kono Rin | Lose | W+0.5 | 6.5 | 3205.0 | -24.0 | 
+| 2021-05-13 | 第46期名人戦リーグ | Hsu Chiayuan | Yu Zhengqi | Lose | B+R | 6.5 | 3272.0 | 22.0 | 
+| 2021-05-06 | 第28期阿含・桐山杯全日本早碁オープン戦予選 | Otani Naoki | Yu Zhengqi | Win | W+17.5 | 6.5 | 3250.0 | -2.0 | 
+| 2021-04-22 | 第46期棋聖戦Sリーグ | Yamashita Keigo | Yu Zhengqi | Win | W+R | 6.5 | 3252.0 | 23.0 | 
+| 2021-04-07 | 第77期本因坊戦予選 | Yu Zhengqi | Imamura Toshiya | Win | B+R | 6.5 | 3229.0 | 25.0 | 
+| 2021-04-01 | 第46期名人戦リーグ | Yu Zhengqi | Kono Rin | Lose | W+0.5 | 6.5 | 3204.0 | -25.0 | 
 | 2021-03-24 | 第77期本因坊戦予選 | Watanabe Kouki | Yu Zhengqi | Win | W+R | 6.5 | 3229.0 | -1.0 | 
 | 2021-03-18 | 第69期王座戦予選 | Anzai Nobuaki | Yu Zhengqi | Lose | B+R | 6.5 | 3230.0 | -24.0 | 
 | 2021-03-04 | 第46期名人戦リーグ | Yamashita Keigo | Yu Zhengqi | Win | W+4.5 | 6.5 | 3254.0 | 7.0 | 
@@ -89,11 +89,11 @@
 | 2020-01-30 | 第46期天元戦1回戦 | Yu Zhengqi | Mutsuura Yuta | Win | B+R | 6.5 | 3204.0 | 17.0 | 
 | 2020-01-23 | 第45期棋聖戦Aリーグ | Yu Zhengqi | Onishi Ryuhei | Lose | W+R | 6.5 | 3187.0 | -99.0 | 
 | 2019-11-13 | 第68期王座戦予選A準決勝 | Yu Zhengqi | Sato Yuta | Win | B+R | 6.5 | 3286.0 | 15.0 | 
-| 2019-10-17 | 第58期十段戦2回戦 | Onishi Ryuhei | Yu Zhengqi | Lose | B+2.5 | 6.5 | 3271.0 | 26.0 | 
-| 2019-09-25 | 第63期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Yu Zhengqi | Watanabe Kouki | Win | B+R | 6.5 | 3245.0 | 25.0 | 
-| 2019-09-05 | 第44期棋聖戦Aリーグ | Shida Tatsuya | Yu Zhengqi | Win | W+3.5 | 6.5 | 3220.0 | 0.0 | 
-| 2019-08-29 | 第63期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Watanabe Kouki | Yu Zhengqi | Win | W+R | 6.5 | 3220.0 | 11.0 | 
-| 2019-08-26 | 第44期棋聖戦Aリーグ | Ichiriki Ryo | Yu Zhengqi | Lose | B+1.5 | 6.5 | 3209.0 | 35.0 | 
+| 2019-10-17 | 第58期十段戦2回戦 | Onishi Ryuhei | Yu Zhengqi | Lose | B+2.5 | 6.5 | 3271.0 | 27.0 | 
+| 2019-09-25 | 第63期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Yu Zhengqi | Watanabe Kouki | Win | B+R | 6.5 | 3244.0 | 25.0 | 
+| 2019-09-05 | 第44期棋聖戦Aリーグ | Shida Tatsuya | Yu Zhengqi | Win | W+3.5 | 6.5 | 3219.0 | -1.0 | 
+| 2019-08-29 | 第63期関西棋院第一位決定戦挑戦手合三番勝負第1局 | Watanabe Kouki | Yu Zhengqi | Win | W+R | 6.5 | 3220.0 | 12.0 | 
+| 2019-08-26 | 第44期棋聖戦Aリーグ | Ichiriki Ryo | Yu Zhengqi | Lose | B+1.5 | 6.5 | 3208.0 | 34.0 | 
 | 2019-08-21 | 第45期名人戦予選A決勝 | Yu Zhengqi | Sada Atsushi | Lose | W+1.5 | 6.5 | 3174.0 | -30.0 | 
 | 2019-08-05 | 第58期十段戦予選 | Yu Zhengqi | Fujisawa Rina | Win | B+R | 6.5 | 3204.0 | 14.0 | 
 | 2019-08-01 | 第26期阿含・桐山杯全日本早碁オープン戦2回戦 | Cho U | Yu Zhengqi | Lose | B+0.5 | 6.5 | 3190.0 | -26.0 | 
@@ -107,8 +107,8 @@
 | 2019-05-14 | 第10回おかげ杯囲碁トーナメント戦1回戦 | Yu Zhengqi | Ueno Asami | Lose | W+R | 6.5 | 3324.0 | 7.0 | 
 | 2019-05-08 | 第45期名人戦予選A | Yu Zhengqi | Honda Kunihisa | Win | B+R | 6.5 | 3317.0 | 5.0 | 
 | 2019-04-25 | 第44期棋聖戦Aリーグ | Yu Zhengqi | Cho U | Lose | W+1.5 | 6.5 | 3312.0 | -1.0 | 
-| 2019-04-18 | 第6回グランドチャンピオン戦2回戦 | Yu Zhengqi | Shibano Toramaru | Lose | W+R | 6.5 | 3313.0 | -50.0 | 
-| 2019-04-11 | 第45期天元戦2回戦 | Hirata Tomoya | Yu Zhengqi | Win | W+R | 6.5 | 3363.0 | 17.0 | 
+| 2019-04-18 | 第6回グランドチャンピオン戦2回戦 | Yu Zhengqi | Shibano Toramaru | Lose | W+R | 6.5 | 3313.0 | -49.0 | 
+| 2019-04-11 | 第45期天元戦2回戦 | Hirata Tomoya | Yu Zhengqi | Win | W+R | 6.5 | 3362.0 | 16.0 | 
 | 2019-04-05 | 第74期本因坊戦リーグ | Anzai Nobuaki | Yu Zhengqi | Win | W+R | 6.5 | 3346.0 | 5.0 | 
 | 2019-04-01 | 第44期碁聖戦本戦準決勝 | Yu Zhengqi | Hane Naoki | Lose | W+R | 6.5 | 3341.0 | 4.0 | 
 | 2019-03-21 | 第44期棋聖戦Aリーグ | Akiyama Jiro | Yu Zhengqi | Win | W+R | 6.5 | 3337.0 | 18.0 | 
@@ -165,9 +165,9 @@
 | 2017-11-23 | 第44期天元戦予選A | Sakai Hideyuki | Yu Zhengqi | Lose | B+6.5 | 6.5 | 3277.0 | 23.0 | 
 | 2017-11-02 | 第43期名人戦予選 | Yu Zhengqi | Yuki Satoshi | Win | B+R | 6.5 | 3254.0 | -23.0 | 
 | 2017-10-26 | 第56期十段戦2回戦 | O Rissei | Yu Zhengqi | Win | W+5.5 | 6.5 | 3277.0 | 31.0 | 
-| 2017-10-05 | 第61期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Yu Zhengqi | Yuki Satoshi | Win | B+1.5 | 6.5 | 3246.0 | -18.0 | 
-| 2017-10-02 | 第42期棋聖戦挑戦者決定トーナメント | Yu Zhengqi | Motoki Katsuya | Lose | W+2.5 | 6.5 | 3264.0 | 0.0 | 
-| 2017-10-02 | 第42期棋聖戦リーグBC組決勝 | Yu Zhengqi | Motoki Katsuya | Lose | W+2.5 | 6.5 | 3264.0 | -81.0 | 
+| 2017-10-05 | 第61期関西棋院第一位決定戦挑戦手合三番勝負第2局 | Yu Zhengqi | Yuki Satoshi | Win | B+1.5 | 6.5 | 3246.0 | -17.0 | 
+| 2017-10-02 | 第42期棋聖戦挑戦者決定トーナメント | Yu Zhengqi | Motoki Katsuya | Lose | W+2.5 | 6.5 | 3263.0 | 0.0 | 
+| 2017-10-02 | 第42期棋聖戦リーグBC組決勝 | Yu Zhengqi | Motoki Katsuya | Lose | W+2.5 | 6.5 | 3263.0 | -82.0 | 
 | 2017-09-20 | 第19回農心辛ラーメン杯世界囲碁最強戦第2戦 | Shin Minjun | Yu Zhengqi | Lose | B+R | 6.5 | 3345.0 | -1.0 | 
 | 2017-09-14 | 第42期棋聖戦　Bリーグプレーオフ | Shida Tatsuya | Yu Zhengqi | Win | W+R | 6.5 | 3346.0 | 4.0 | 
 | 2017-09-07 | 第61期関西棋院第一位決定戦　挑戦手合三番勝負第一局 | Yuki Satoshi | Yu Zhengqi | Win | W+1.5 | 6.5 | 3342.0 | 25.0 | 
@@ -261,10 +261,10 @@
 | 2015-08-20 | 第41期名人戦予選 | Sakai Hideyuki | Yu Zhengqi | Win | W+R | 6.5 | 3500.0 | 5.0 | 
 | 2015-08-18 | 第2回ゆうちょ杯囲碁ユース選手権2回戦 | Yu Zhengqi | Taniguchi Tooru | Win | B+R | 6.5 | 3495.0 | 0.0 | 
 | 2015-08-18 | 第2回ゆうちょ杯囲碁ユース選手権1回戦 | Yu Zhengqi | Onishi Kenya | Win | B+R | 6.5 | 3495.0 | -14.0 | 
-| 2015-08-13 | 第22期阿含・桐山杯全日本早碁オープン戦2回戦 | Yu Zhengqi | Matsumoto Takehisa | Win | B+R | 6.5 | 3509.0 | 9.0 | 
-| 2015-08-03 | 第63期王座戦2回戦 | Cho U | Yu Zhengqi | Win | W+R | 6.5 | 3500.0 | 5.0 | 
-| 2015-07-30 | 第40期棋聖戦Cリーグ | Hsu Chiayuan | Yu Zhengqi | Lose | B+R | 6.5 | 3495.0 | 20.0 | 
-| 2015-07-23 | 第22期阿含・桐山杯全日本早碁オープン戦1回戦 | Yu Zhengqi | Takao Shinji | Win | B+R | 6.5 | 3475.0 | 33.0 | 
+| 2015-08-13 | 第22期阿含・桐山杯全日本早碁オープン戦2回戦 | Yu Zhengqi | Matsumoto Takehisa | Win | B+R | 6.5 | 3509.0 | 10.0 | 
+| 2015-08-03 | 第63期王座戦2回戦 | Cho U | Yu Zhengqi | Win | W+R | 6.5 | 3499.0 | 5.0 | 
+| 2015-07-30 | 第40期棋聖戦Cリーグ | Hsu Chiayuan | Yu Zhengqi | Lose | B+R | 6.5 | 3494.0 | 20.0 | 
+| 2015-07-23 | 第22期阿含・桐山杯全日本早碁オープン戦1回戦 | Yu Zhengqi | Takao Shinji | Win | B+R | 6.5 | 3474.0 | 32.0 | 
 | 2015-07-16 | 第40期棋聖戦Cリーグ | Yu Zhengqi | Ida Atsushi | Win | B+R | 6.5 | 3442.0 | -9.0 | 
 | 2015-07-06 | 第63期王座戦1回戦 | Kono Rin | Yu Zhengqi | Win | W+R | 6.5 | 3451.0 | -4.0 | 
 | 2015-07-02 | 第40期棋聖戦Cリーグ | Cho Sonjin | Yu Zhengqi | Win | W+1.5 | 6.5 | 3455.0 | 5.0 | 
@@ -299,19 +299,19 @@
 | 2014-09-11 | 第40期名人戦予選 | Yamada Kimio | Yu Zhengqi | Win | W+R | 6.5 | 3207.0 | 17.0 | 
 | 2014-09-04 | 第70期本因坊戦予選 | Nakano Hironari | Yu Zhengqi | Win | W+13.5 | 6.5 | 3190.0 | 45.0 | 
 | 2014-08-25 | 第58期関西棋院第一位決定戦本戦準決勝 | Fujii Shuya | Yu Zhengqi | Win | W+R | 6.5 | 3145.0 | 39.0 | 
-| 2014-08-11 | 第1回ゆうちょ杯囲碁ユース選手権準決勝 | Yu Zhengqi |  | Win | B+2.5 | 6.5 | 3106.0 | 12.0 | 
-| 2014-08-04 | 第58期関西棋院第一位決定戦本戦3回戦 | Murakawa Daisuke | Yu Zhengqi | Win | W+R | 6.5 | 3094.0 | 26.0 | 
-| 2014-07-31 | 第70期本因坊戦予選 | Yu Zhengqi | Imamura Toshiya | Win | B+R | 6.5 | 3068.0 | -23.0 | 
-| 2014-07-24 | 第21期阿含・桐山杯全日本早碁オープン戦1回戦 | Kobayashi Koichi | Yu Zhengqi | Lose | B+R | 6.5 | 3091.0 | -78.0 | 
-| 2014-07-14 | 第1回ゆうちょ杯囲碁ユース選手権2回戦 | Hsu Chiayuan | Yu Zhengqi | Win | W+R | 6.5 | 3169.0 | 0.0 | 
-| 2014-07-14 | 第1回ゆうちょ杯囲碁ユース選手権1回戦 | Onishi Kenya | Yu Zhengqi | Win | W+4.5 | 6.5 | 3169.0 | -18.0 | 
+| 2014-08-11 | 第1回ゆうちょ杯囲碁ユース選手権準決勝 | Yu Zhengqi |  | Win | B+2.5 | 6.5 | 3106.0 | 13.0 | 
+| 2014-08-04 | 第58期関西棋院第一位決定戦本戦3回戦 | Murakawa Daisuke | Yu Zhengqi | Win | W+R | 6.5 | 3093.0 | 26.0 | 
+| 2014-07-31 | 第70期本因坊戦予選 | Yu Zhengqi | Imamura Toshiya | Win | B+R | 6.5 | 3067.0 | -23.0 | 
+| 2014-07-24 | 第21期阿含・桐山杯全日本早碁オープン戦1回戦 | Kobayashi Koichi | Yu Zhengqi | Lose | B+R | 6.5 | 3090.0 | -78.0 | 
+| 2014-07-14 | 第1回ゆうちょ杯囲碁ユース選手権2回戦 | Hsu Chiayuan | Yu Zhengqi | Win | W+R | 6.5 | 3168.0 | 0.0 | 
+| 2014-07-14 | 第1回ゆうちょ杯囲碁ユース選手権1回戦 | Onishi Kenya | Yu Zhengqi | Win | W+4.5 | 6.5 | 3168.0 | -19.0 | 
 | 2014-06-25 | 第58期関西棋院第一位決定戦本戦2回戦 | Yoshida Mika | Yu Zhengqi | Win | W+2.5 | 6.5 | 3187.0 | -110.0 | 
 | 2014-05-29 | 第62期王座戦1回戦 | Yu Zhengqi | Nakano Hironari | Lose | W+0.5 | 6.5 | 3297.0 | -54.0 | 
 | 2014-05-15 | 第21期阿含・桐山杯全日本早碁オープン戦予選 | Yu Zhengqi | Cho Chikun | Win | B+3.5 | 6.5 | 3351.0 | 27.0 | 
-| 2014-05-08 | 第62期王座戦予選 | Yu Zhengqi | Takao Shinji | Win | B+R | 6.5 | 3324.0 | 1.0 | 
-| 2014-05-01 | 2014年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Yu Zhengqi | Xia Chenkun | Lose | W+6.5 | 7.5 | 3323.0 | 37.0 | 
-| 2014-04-11 | 第1回グロービス杯国内予選 | Hsu Chiayuan | Yu Zhengqi | Lose | B+R | 6.5 | 3286.0 | 0.0 | 
-| 2014-04-11 | 第1回グロービス杯国内予選 | Hoshiai Shiho | Yu Zhengqi | Win | W+3.5 | 6.5 | 3286.0 | -55.0 | 
+| 2014-05-08 | 第62期王座戦予選 | Yu Zhengqi | Takao Shinji | Win | B+R | 6.5 | 3324.0 | 2.0 | 
+| 2014-05-01 | 2014年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Yu Zhengqi | Xia Chenkun | Lose | W+6.5 | 7.5 | 3322.0 | 37.0 | 
+| 2014-04-11 | 第1回グロービス杯国内予選 | Hsu Chiayuan | Yu Zhengqi | Lose | B+R | 6.5 | 3285.0 | 0.0 | 
+| 2014-04-11 | 第1回グロービス杯国内予選 | Hoshiai Shiho | Yu Zhengqi | Win | W+3.5 | 6.5 | 3285.0 | -56.0 | 
 | 2014-04-03 | 第69期本因坊戦リーグ | Takao Shinji | Yu Zhengqi | Win | W+4.5 | 6.5 | 3341.0 | 37.0 | 
 | 2014-03-24 | 第69期本因坊戦リーグ | Yu Zhengqi | Yuki Satoshi | Lose | W+R | 6.5 | 3304.0 | -10.0 | 
 | 2014-02-26 | 第62期王座戦予選 | Yu Zhengqi | Moriyama Naoki | Win | B+R | 6.5 | 3314.0 | 8.0 | 

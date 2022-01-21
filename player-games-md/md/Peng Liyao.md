@@ -15,11 +15,11 @@
 | 2021-12-29 | 第1回湾区杯中国囲碁大棋士戦準決勝 | Peng Liyao | Ding Hao | Lose | W+R | 7.5 | 3578.0 | -1.0 | 
 | 2021-12-28 | 第1回湾区杯中国囲碁大棋士戦3回戦 | Li Xuanhao | Peng Liyao | Win | W+R | 7.5 | 3579.0 | 11.0 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Tang Weixing | Peng Liyao | Win | W+R | 7.5 | 3568.0 | 9.0 | 
-| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Peng Liyao | Fan Tingyu | Win | B+R | 7.5 | 3559.0 | 84.0 | 
-| 2021-11-21 | 2021CCTV杯中国囲棋電視快棋戦準決勝 | Peng Liyao | Ke Jie | Lose | W+R | 7.5 | 3475.0 | -7.0 | 
-| 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Peng Liyao | Tang Weixing | Win | B+R | 7.5 | 3482.0 | 12.0 | 
-| 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Ding Hao | Peng Liyao | Win | W+R | 7.5 | 3470.0 | 22.0 | 
-| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Lian Xiao | Peng Liyao | Win | W+¼ | 7.5 | 3448.0 | 16.0 | 
+| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Peng Liyao | Fan Tingyu | Win | B+R | 7.5 | 3559.0 | 85.0 | 
+| 2021-11-21 | 2021CCTV杯中国囲棋電視快棋戦準決勝 | Peng Liyao | Ke Jie | Lose | W+R | 7.5 | 3474.0 | -7.0 | 
+| 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Peng Liyao | Tang Weixing | Win | B+R | 7.5 | 3481.0 | 12.0 | 
+| 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Ding Hao | Peng Liyao | Win | W+R | 7.5 | 3469.0 | 22.0 | 
+| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Lian Xiao | Peng Liyao | Win | W+¼ | 7.5 | 3447.0 | 15.0 | 
 | 2021-10-22 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Peng Liyao | Lee Changseok | Lose | W+0.5 | 6.5 | 3432.0 | -9.0 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Yun Chanhee | Peng Liyao | Win | W+R | 6.5 | 3441.0 | 21.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Peng Liyao | Mi Yuting | Lose | W+R | 7.5 | 3420.0 | -15.0 | 
@@ -72,11 +72,11 @@
 | 2019-11-06 | 第21回中国囲碁甲級リーグプレーオフ3回戦第2戦 | Peng Liyao | Wu Guangya | Win | B+¾ | 7.5 | 3590.0 | 8.0 | 
 | 2019-11-04 | 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 | Wu Guangya | Peng Liyao | Win | W+R | 7.5 | 3582.0 | 1.0 | 
 | 2019-10-28 | 第24回LG杯朝鮮日報棋王戦3回戦 | Peng Liyao | Park Junghwan | Lose | W+R | 6.5 | 3581.0 | 16.0 | 
-| 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Peng Liyao | Shin Minjun | Lose | W+R | 7.5 | 3565.0 | 44.0 | 
-| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Peng Liyao | Mao Ruilong | Win | B+R | 7.5 | 3521.0 | 25.0 | 
+| 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Peng Liyao | Shin Minjun | Lose | W+R | 7.5 | 3565.0 | 45.0 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Peng Liyao | Mao Ruilong | Win | B+R | 7.5 | 3520.0 | 24.0 | 
 | 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 |  | Peng Liyao | Win | W+R | 7.5 | 3496.0 | 39.0 | 
-| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Chen Zhengxun | Peng Liyao | Win | W+R | 7.5 | 3457.0 | 4.0 | 
-| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Peng Liyao |  | Lose | W+R | 7.5 | 3453.0 | 6.0 | 
+| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Chen Zhengxun | Peng Liyao | Win | W+R | 7.5 | 3457.0 | 5.0 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Peng Liyao |  | Lose | W+R | 7.5 | 3452.0 | 5.0 | 
 | 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Fan Yunruo | Peng Liyao | Win | W+R | 7.5 | 3447.0 | -1.0 | 
 | 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Peng Liyao | Gu Lingyi | Win | B+R | 7.5 | 3448.0 | 9.0 | 
 | 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Peng Liyao | Byun Sangil | Lose | W+R | 7.5 | 3439.0 | -34.0 | 
@@ -91,16 +91,16 @@
 | 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Peng Liyao | Lian Xiao | Lose | W+R | 7.5 | 3578.0 | 9.0 | 
 | 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 |  | Peng Liyao | Win | W+R | 7.5 | 3569.0 | 7.0 | 
 | 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Peng Liyao | Kim Myounghoon | Lose | W+R | 7.5 | 3562.0 | -13.0 | 
-| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節廈門-天津 | Peng Liyao | Huang Jingyuan | Win | B+R | 7.5 | 3575.0 | -5.0 | 
-| 2019-04-08 | 2019CCTV杯中国囲棋電視快棋戦準決勝 | Xu Jiayang | Peng Liyao | Lose | B+R | 7.5 | 3580.0 | -6.0 | 
+| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節廈門-天津 | Peng Liyao | Huang Jingyuan | Win | B+R | 7.5 | 3575.0 | -4.0 | 
+| 2019-04-08 | 2019CCTV杯中国囲棋電視快棋戦準決勝 | Xu Jiayang | Peng Liyao | Lose | B+R | 7.5 | 3579.0 | -7.0 | 
 | 2019-03-30 | 2019CCTV杯中国囲棋電視快棋戦4回戦 | Wu Guangya | Peng Liyao | Win | W+R | 7.5 | 3586.0 | 0.0 | 
 | 2019-03-29 | 2019CCTV杯中国囲棋電視快棋戦3回戦 | Peng Liyao | Zhao Chenyu | Win | B+R | 7.5 | 3586.0 | 10.0 | 
 | 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Peng Liyao |  | Win | B+R | 7.5 | 3576.0 | 0.0 | 
 | 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Liao Yuanhe | Peng Liyao | Win | W+R | 7.5 | 3576.0 | 17.0 | 
-| 2019-03-04 | 第16期倡棋杯中国プロ囲棋選手権戦2回戦 | Xia Chenkun | Peng Liyao | Lose | B+R | 7.5 | 3559.0 | 19.0 | 
-| 2019-01-04 | 第33期中国囲碁天元戦1回戦 | Peng Liyao | Tong Mengcheng | Lose | W+R | 7.5 | 3540.0 | -7.0 | 
-| 2019-01-03 | 第33期中国囲碁天元戦予選 | Huang Xin | Peng Liyao | Win | W+R | 7.5 | 3547.0 | 6.0 | 
-| 2018-12-27 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Peng Liyao | Fan Yunruo | Lose | W+R | 7.5 | 3541.0 | -11.0 | 
+| 2019-03-04 | 第16期倡棋杯中国プロ囲棋選手権戦2回戦 | Xia Chenkun | Peng Liyao | Lose | B+R | 7.5 | 3559.0 | 20.0 | 
+| 2019-01-04 | 第33期中国囲碁天元戦1回戦 | Peng Liyao | Tong Mengcheng | Lose | W+R | 7.5 | 3539.0 | -7.0 | 
+| 2019-01-03 | 第33期中国囲碁天元戦予選 | Huang Xin | Peng Liyao | Win | W+R | 7.5 | 3546.0 | 6.0 | 
+| 2018-12-27 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Peng Liyao | Fan Yunruo | Lose | W+R | 7.5 | 3540.0 | -12.0 | 
 | 2018-12-14 | 第20回中国囲碁甲級リーグ第26節重慶-廈門 | Peng Liyao | Tan Xiao | Win | B+R | 7.5 | 3552.0 | 16.0 | 
 | 2018-11-30 | 第7回衢州・爛柯杯中国囲棋冠軍戦準決勝 | Ke Jie | Peng Liyao | Lose | B+R | 7.5 | 3536.0 | -6.0 | 
 | 2018-11-29 | 第7回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Peng Liyao | Li Xuanhao | Win | B+R | 7.5 | 3542.0 | 34.0 | 
@@ -144,11 +144,11 @@
 | 2018-03-23 | 第12回春蘭杯世界囲碁選手権2回戦 | Peng Liyao | Park Junghwan | Lose | W+R | 7.5 | 3500.0 | -4.0 | 
 | 2018-03-21 | 第12回春蘭杯世界囲碁選手権1回戦 | Shibano Toramaru | Peng Liyao | Win | W+R | 7.5 | 3504.0 | 12.0 | 
 | 2018-03-06 | 第9期中国竜星戦予選 | Tao Xinran | Peng Liyao | Lose | B+R | 7.5 | 3492.0 | -13.0 | 
-| 2018-03-05 | 第9期中国竜星戦予選 | Peng Liyao | Wang Shuo | Win | B+R | 7.5 | 3505.0 | 13.0 | 
-| 2018-01-25 | 第32期中国囲碁天元戦2回戦 | Peng Liyao | Zhang Tao | Lose | W+R | 7.5 | 3492.0 | -10.0 | 
-| 2018-01-08 | 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Chen Zijian | Peng Liyao | Lose | B+R | 7.5 | 3502.0 | -13.0 | 
-| 2017-12-26 | 第1回新奥杯世界囲碁オープン戦決勝五番勝負第5局 | Ke Jie | Peng Liyao | Lose | B+1.5 | 7.5 | 3515.0 | -9.0 | 
-| 2017-12-25 | 第1回新奥杯世界囲碁オープン戦決勝五番勝負第4局 | Ke Jie | Peng Liyao | Win | W+0.5 | 7.5 | 3524.0 | 35.0 | 
+| 2018-03-05 | 第9期中国竜星戦予選 | Peng Liyao | Wang Shuo | Win | B+R | 7.5 | 3505.0 | 14.0 | 
+| 2018-01-25 | 第32期中国囲碁天元戦2回戦 | Peng Liyao | Zhang Tao | Lose | W+R | 7.5 | 3491.0 | -11.0 | 
+| 2018-01-08 | 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Chen Zijian | Peng Liyao | Lose | B+R | 7.5 | 3502.0 | -12.0 | 
+| 2017-12-26 | 第1回新奥杯世界囲碁オープン戦決勝五番勝負第5局 | Ke Jie | Peng Liyao | Lose | B+1.5 | 7.5 | 3514.0 | -9.0 | 
+| 2017-12-25 | 第1回新奥杯世界囲碁オープン戦決勝五番勝負第4局 | Ke Jie | Peng Liyao | Win | W+0.5 | 7.5 | 3523.0 | 34.0 | 
 | 2017-12-23 | 第1回新奥杯世界囲碁オープン戦決勝五番勝負第3局 | Peng Liyao | Ke Jie | Win | B+1.5 | 7.5 | 3489.0 | 22.0 | 
 | 2017-12-21 | 第1回新奥杯世界囲碁オープン戦決勝五番勝負第2局 | Ke Jie | Peng Liyao | Lose | B+R | 7.5 | 3467.0 | -7.0 | 
 | 2017-12-20 | 第1回新奥杯世界囲碁オープン戦決勝五番勝負第1局 | Peng Liyao | Ke Jie | Lose | W+R | 7.5 | 3474.0 | -32.0 | 
@@ -242,8 +242,8 @@
 | 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦B2 | Ke Jie | Peng Liyao | Lose | B+R | 6.5 | 3603.0 | -7.0 | 
 | 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦B1 | Peng Liyao | Na Hyun | Win | B+R | 6.5 | 3610.0 | 1.0 | 
 | 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Peng Liyao | Lian Xiao | Win | B+R | 7.5 | 3609.0 | 3.0 | 
-| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Fan Tingyu | Peng Liyao | Lose | B+R | 7.5 | 3606.0 | -17.0 | 
-| 2015-08-04 | 第20回三星火災杯統合予選準決勝 | Peng Liyao | An Sungjoon | Win | B+R | 6.5 | 3623.0 | 35.0 | 
+| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Fan Tingyu | Peng Liyao | Lose | B+R | 7.5 | 3606.0 | -16.0 | 
+| 2015-08-04 | 第20回三星火災杯統合予選準決勝 | Peng Liyao | An Sungjoon | Win | B+R | 6.5 | 3622.0 | 34.0 | 
 | 2015-07-17 | 第28期中国囲碁名人戦準決勝 | Lian Xiao | Peng Liyao | Lose | B+R | 7.5 | 3588.0 | 31.0 | 
 | 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 | Peng Liyao | Tan Xiao | Lose | W+R | 7.5 | 3557.0 | -6.0 | 
 | 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Wang Xi | Peng Liyao | Lose | B+R | 7.5 | 3563.0 | -7.0 | 
@@ -277,14 +277,14 @@
 | 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Mi Yuting | Peng Liyao | Lose | B+R | 7.5 | 3473.0 | 60.0 | 
 | 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Li Zhe | Peng Liyao | Win | W+R | 7.5 | 3413.0 | 19.0 | 
 | 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Peng Liyao | Qin Yuexin | Win | B+R | 7.5 | 3394.0 | 15.0 | 
-| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Fan Tingyu | Peng Liyao | Win | W+R | 7.5 | 3379.0 | -99.0 | 
-| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Meng Tailing | Peng Liyao | Lose | B+1.5 | 7.5 | 3478.0 | -7.0 | 
-| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Peng Liyao | Fan Yunruo | Lose | W+R | 7.5 | 3485.0 | -8.0 | 
+| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Fan Tingyu | Peng Liyao | Win | W+R | 7.5 | 3379.0 | -98.0 | 
+| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Meng Tailing | Peng Liyao | Lose | B+1.5 | 7.5 | 3477.0 | -7.0 | 
+| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Peng Liyao | Fan Yunruo | Lose | W+R | 7.5 | 3484.0 | -9.0 | 
 | 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Peng Liyao | Tong Mengcheng | Lose | W+R | 7.5 | 3493.0 | 12.0 | 
 | 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Xie He | Peng Liyao | Win | W+R | 7.5 | 3481.0 | 43.0 | 
 | 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Peng Liyao | Niu Yutian | Lose | W+2.5 | 7.5 | 3438.0 | -29.0 | 
-| 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Jiang Weijie | Peng Liyao | Lose | B+R | 7.5 | 3467.0 | -86.0 | 
-| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Wang Haoyang | Peng Liyao | Win | W+0.5 | 7.5 | 3553.0 | 27.0 | 
+| 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Jiang Weijie | Peng Liyao | Lose | B+R | 7.5 | 3467.0 | -85.0 | 
+| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Wang Haoyang | Peng Liyao | Win | W+0.5 | 7.5 | 3552.0 | 26.0 | 
 | 2014-06-05 | 第16回中国囲碁甲級リーグ第6節 | Peng Liyao | Kong Jie | Win | B+R | 7.5 | 3526.0 | 6.0 | 
 | 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Lee Donghoon | Peng Liyao | Win | W+R | 7.5 | 3520.0 | 8.0 | 
 | 2014-05-28 | 第11期倡棋杯中国プロ囲碁選手権戦1回戦 | Peng Liyao | Piao Wenyao | Lose | W+R | 7.5 | 3512.0 | -13.0 | 

@@ -22,15 +22,15 @@
 | 2021-06-18 | 第44期名人戦（韓国）3回戦 | Choi Cheolhan | Byun Sangil | Lose | W+R | 6.5 | 3351.0 | -9.0 | 
 | 2021-06-16 | 第4期韓国竜星戦3回戦 | Hong Mujin | Choi Cheolhan | Lose | B+R | 6.5 | 3360.0 | -32.0 | 
 | 2021-05-28 | 第26回GSカルテックス杯プロ棋戦2回戦 | An Sungjoon | Choi Cheolhan | Lose | B+R | 6.5 | 3392.0 | -34.0 | 
-| 2021-05-14 | 第44期名人戦（韓国）2回戦 | Choi Cheolhan | An Sungjoon | Win | B+R | 6.5 | 3426.0 | 37.0 | 
-| 2021-04-23 | 第26回GSカルテックス杯プロ棋戦1回戦 | Choi Cheolhan | Heo Yongho | Win | B+R | 6.5 | 3389.0 | 29.0 | 
-| 2021-04-21 | 第4期韓国竜星戦2回戦 | Kim Sedong | Choi Cheolhan | Win | W+9.5 | 6.5 | 3360.0 | 10.0 | 
+| 2021-05-14 | 第44期名人戦（韓国）2回戦 | Choi Cheolhan | An Sungjoon | Win | B+R | 6.5 | 3426.0 | 38.0 | 
+| 2021-04-23 | 第26回GSカルテックス杯プロ棋戦1回戦 | Choi Cheolhan | Heo Yongho | Win | B+R | 6.5 | 3388.0 | 29.0 | 
+| 2021-04-21 | 第4期韓国竜星戦2回戦 | Kim Sedong | Choi Cheolhan | Win | W+9.5 | 6.5 | 3359.0 | 9.0 | 
 | 2021-03-20 | 2020-2021韓国囲碁リーグプレーオフ第2戦 | Kang Dongyun | Choi Cheolhan | Lose | B+R | 6.5 | 3350.0 | -5.0 | 
 | 2021-03-19 | 2020-2021韓国囲碁リーグプレーオフ第1戦 | Park Hamin | Choi Cheolhan | Lose | B+R | 6.5 | 3355.0 | -13.0 | 
 | 2021-03-17 | 2020-2021韓国囲碁リーグ準プレーオフ | Choi Cheolhan | Yun Junsang | Win | B+R | 6.5 | 3368.0 | 7.0 | 
 | 2021-03-12 | 第44期名人戦（韓国）1回戦 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 3361.0 | 32.0 | 
-| 2021-02-27 | 2020-2021韓国囲碁リーグ | Kim Jiseok | Choi Cheolhan | Win | W+R | 6.5 | 3329.0 | 12.0 | 
-| 2021-02-19 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | An Jungki | Win | B+R | 6.5 | 3317.0 | 58.0 | 
+| 2021-02-27 | 2020-2021韓国囲碁リーグ | Kim Jiseok | Choi Cheolhan | Win | W+R | 6.5 | 3329.0 | 13.0 | 
+| 2021-02-19 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | An Jungki | Win | B+R | 6.5 | 3316.0 | 57.0 | 
 | 2021-02-15 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Lee Donghoon | Lose | W+R | 6.5 | 3259.0 | -8.0 | 
 | 2021-02-13 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | Paek Hongseok | Win | B+R | 6.5 | 3267.0 | 24.0 | 
 | 2021-02-10 | 第4期韓国竜星戦1回戦 | Kim Eunseon | Choi Cheolhan | Win | W+R | 6.5 | 3243.0 | 2.0 | 
@@ -46,8 +46,8 @@
 | 2020-12-17 | 2020-2021韓国囲碁リーグ | Shen Zaiyi | Choi Cheolhan | Lose | B+R | 6.5 | 3279.0 | -14.0 | 
 | 2020-12-13 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | An Sungjoon | Win | B+R | 6.5 | 3293.0 | 25.0 | 
 | 2020-12-11 | 第26期GSカルテックス杯プロ棋戦予選 | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 3268.0 | 29.0 | 
-| 2020-12-08 | 第26期GSカルテックス杯プロ棋戦予選 | Choi Cheolhan | Choi Jeong | Win | B+R | 6.5 | 3239.0 | 0.0 | 
-| 2020-12-05 | 2020-2021韓国囲碁リーグ | Park Jinsol | Choi Cheolhan | Win | W+R | 6.5 | 3239.0 | -10.0 | 
+| 2020-12-08 | 第26期GSカルテックス杯プロ棋戦予選 | Choi Cheolhan | Choi Jeong | Win | B+R | 6.5 | 3239.0 | 1.0 | 
+| 2020-12-05 | 2020-2021韓国囲碁リーグ | Park Jinsol | Choi Cheolhan | Win | W+R | 6.5 | 3238.0 | -11.0 | 
 | 2020-11-26 | 2020-2021韓国囲碁リーグ | Cho Hanseung | Choi Cheolhan | Lose | B+R | 6.5 | 3249.0 | -41.0 | 
 | 2020-11-22 | 2020年中国囲碁乙級リーグ | Choi Cheolhan |  | Win | B+3¾ | 7.5 | 3290.0 | 12.0 | 
 | 2020-11-21 | 2020年中国囲碁乙級リーグ | Choi Cheolhan |  | Win | B+R | 7.5 | 3278.0 | 11.0 | 
@@ -77,17 +77,17 @@
 | 2019-12-19 | 2019-2020韓国囲碁リーグ第12節第1試合第5局 | Choi Cheolhan | Lee Yeongkyu | Win | B+R | 6.5 | 3464.0 | 18.0 | 
 | 2019-12-16 | 第25期GSカルテックス杯プロ棋戦予選決勝 | Choi Cheolhan | Kim Daehee | Win | B+R | 6.5 | 3446.0 | 2.0 | 
 | 2019-12-13 | 2019-2020韓国囲碁リーグ第11節第2試合第1局 | Choi Cheolhan | An Jungki | Lose | W+0.5 | 6.5 | 3444.0 | -21.0 | 
-| 2019-12-11 | 第25期GSカルテックス杯プロ棋戦予選 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 3465.0 | 2.0 | 
-| 2019-12-08 | 2019-2020韓国囲碁リーグ第10節第4試合第2局 | Choi Cheolhan |  | Win | B+R | 6.5 | 3463.0 | 11.0 | 
+| 2019-12-11 | 第25期GSカルテックス杯プロ棋戦予選 | Lee Changho | Choi Cheolhan | Win | W+R | 6.5 | 3465.0 | 3.0 | 
+| 2019-12-08 | 2019-2020韓国囲碁リーグ第10節第4試合第2局 | Choi Cheolhan |  | Win | B+R | 6.5 | 3462.0 | 10.0 | 
 | 2019-11-28 | 2019-2020韓国囲碁リーグ第9節第1試合第2局 | Choi Cheolhan | Cho Hanseung | Win | B+R | 6.5 | 3452.0 | 36.0 | 
 | 2019-11-17 | 2019-2020韓国囲碁リーグ第7節第4試合第2局 | Choi Cheolhan | Weon Seongjin | Win | B+R | 6.5 | 3416.0 | -19.0 | 
 | 2019-11-09 | 2019-2020韓国囲碁リーグ第6節第3試合第5局 | Choi Cheolhan | Seol Hyunjun | Lose | W+4.5 | 6.5 | 3435.0 | -27.0 | 
 | 2019-11-01 | 2019-2020韓国囲碁リーグ第5節第2試合第3局 | Choi Cheolhan | Park Seunghwa | Win | B+R | 6.5 | 3462.0 | 36.0 | 
 | 2019-10-24 | 2019-2020韓国囲碁リーグ第4節第1試合第1局 | Jin Siyoung | Choi Cheolhan | Win | W+R | 6.5 | 3426.0 | 14.0 | 
 | 2019-10-20 | 2019-2020韓国囲碁リーグ第3節第4試合第5局 | Shen Zaiyi | Choi Cheolhan | Win | W+R | 6.5 | 3412.0 | 17.0 | 
-| 2019-10-05 | 2019-2020韓国囲碁リーグ第2節第3試合第4局 | Kang Dongyun | Choi Cheolhan | Lose | B+5.5 | 6.5 | 3395.0 | 1.0 | 
-| 2019-09-26 | 2019-2020韓国囲碁リーグ第1節第1試合第3局 | Choi Cheolhan |  | Win | B+R | 6.5 | 3394.0 | 56.0 | 
-| 2019-09-09 | 第3回安東市真貯蓄銀行杯プロアマオープン戦32強戦 | An Jungki | Choi Cheolhan | Lose | B+R | 6.5 | 3338.0 | 24.0 | 
+| 2019-10-05 | 2019-2020韓国囲碁リーグ第2節第3試合第4局 | Kang Dongyun | Choi Cheolhan | Lose | B+5.5 | 6.5 | 3395.0 | 2.0 | 
+| 2019-09-26 | 2019-2020韓国囲碁リーグ第1節第1試合第3局 | Choi Cheolhan |  | Win | B+R | 6.5 | 3393.0 | 56.0 | 
+| 2019-09-09 | 第3回安東市真貯蓄銀行杯プロアマオープン戦32強戦 | An Jungki | Choi Cheolhan | Lose | B+R | 6.5 | 3337.0 | 23.0 | 
 | 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Choi Cheolhan | Kim Hyeongwoo | Win | B+R | 6.5 | 3314.0 | 0.0 | 
 | 2019-08-03 | 第6回国手山脈韓国国内トーナメント16強戦 | Han Seungjoo | Choi Cheolhan | Lose | B+R | 6.5 | 3314.0 | -44.0 | 
 | 2019-07-18 | 第21回農心杯韓国選抜戦 | Choi Cheolhan | Lee Jihyun | Lose | W+R | 6.5 | 3358.0 | -13.0 | 
@@ -150,8 +150,8 @@
 | 2018-02-06 | 韓国ナショナルチームリーグ戦 | Choi Cheolhan | Shin Jinseo | Lose | W+R | 6.5 | 3549.0 | 0.0 | 
 | 2018-02-06 | 第19回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Kang Dongyun | Win | B+R | 6.5 | 3549.0 | -5.0 | 
 | 2018-02-05 | 第19回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Kang Dongyun | Win | B+R | 6.5 | 3554.0 | 16.0 | 
-| 2018-01-09 | 第19回マキシムコーヒー杯入神最強戦1回戦 | Choi Cheolhan | Kim Juho | Win | B+1.5 | 6.5 | 3538.0 | -4.0 | 
-| 2018-01-05 | 韓国ナショナルチームリーグ戦 | Choi Cheolhan | Shin Minjun | Win | B+R | 6.5 | 3542.0 | 16.0 | 
+| 2018-01-09 | 第19回マキシムコーヒー杯入神最強戦1回戦 | Choi Cheolhan | Kim Juho | Win | B+1.5 | 6.5 | 3538.0 | -3.0 | 
+| 2018-01-05 | 韓国ナショナルチームリーグ戦 | Choi Cheolhan | Shin Minjun | Win | B+R | 6.5 | 3541.0 | 15.0 | 
 | 2017-12-13 | 第36回KBS杯囲碁王戦16強戦 | Lee Sedol | Choi Cheolhan | Lose | B+R | 6.5 | 3526.0 | -28.0 | 
 | 2017-12-03 | 2017年韓国囲碁リーグ優勝決定戦第3戦 | Choi Cheolhan | Shin Jinseo | Lose | W+R | 6.5 | 3554.0 | -8.0 | 
 | 2017-12-02 | 2017年韓国囲碁リーグ優勝決定戦第2戦 | Kim Myounghoon | Choi Cheolhan | Lose | B+R | 6.5 | 3562.0 | -16.0 | 
@@ -166,18 +166,18 @@
 | 2017-10-21 | 2017年韓国囲碁リーグ | Choi Cheolhan | Choi Jeong | Win | B+R | 6.5 | 3539.0 | 5.0 | 
 | 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Choi Cheolhan | Liu Xing | Win | B+R | 7.5 | 3534.0 | 15.0 | 
 | 2017-10-14 | 2017年韓国囲碁リーグ | Han Wonggyu | Choi Cheolhan | Lose | B+R | 6.5 | 3519.0 | -35.0 | 
-| 2017-10-06 | 2017年韓国囲碁リーグ | Shin Minjun | Choi Cheolhan | Win | W+R | 6.5 | 3554.0 | -15.0 | 
-| 2017-10-01 | 2017年韓国囲碁リーグ | Choi Cheolhan | Han Sanghoon | Lose | W+R | 6.5 | 3569.0 | -1.0 | 
+| 2017-10-06 | 2017年韓国囲碁リーグ | Shin Minjun | Choi Cheolhan | Win | W+R | 6.5 | 3554.0 | -14.0 | 
+| 2017-10-01 | 2017年韓国囲碁リーグ | Choi Cheolhan | Han Sanghoon | Lose | W+R | 6.5 | 3568.0 | -2.0 | 
 | 2017-09-22 | 2017年韓国囲碁リーグ | Choi Cheolhan | Choi Jaeyoung | Lose | W+R | 6.5 | 3570.0 | -14.0 | 
 | 2017-09-18 | 韓国国家隊循環戦 | Park Geunho | Choi Cheolhan | Win | W+R | 6.5 | 3584.0 | 2.0 | 
 | 2017-09-17 | 2017年韓国囲碁リーグ | Choi Cheolhan | Han Seungjoo | Win | B+R | 6.5 | 3582.0 | -9.0 | 
 | 2017-09-03 | 2017年韓国囲碁リーグ | Choi Cheolhan | Seol Hyunjun | Win | B+R | 6.5 | 3591.0 | 8.0 | 
-| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Ding Hao | Choi Cheolhan | Lose | B+R | 7.5 | 3583.0 | -15.0 | 
-| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Choi Cheolhan | Rong Yi | Win | B+R | 7.5 | 3598.0 | 27.0 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Ding Hao | Choi Cheolhan | Lose | B+R | 7.5 | 3583.0 | -14.0 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Choi Cheolhan | Rong Yi | Win | B+R | 7.5 | 3597.0 | 26.0 | 
 | 2017-08-20 | 2017年韓国囲碁リーグ | Kang Seungmin | Choi Cheolhan | Lose | B+R | 6.5 | 3571.0 | -14.0 | 
 | 2017-08-11 | 2017年韓国囲碁リーグ | Heo Yongho | Choi Cheolhan | Win | W+2.5 | 6.5 | 3585.0 | -20.0 | 
-| 2017-08-04 | 2017年韓国囲碁リーグ | An Sungjoon | Choi Cheolhan | Win | W+1.5 | 6.5 | 3605.0 | 13.0 | 
-| 2017-07-22 | 2017年韓国囲碁リーグ | Ryu Minhyung | Choi Cheolhan | Lose | B+R | 6.5 | 3592.0 | -17.0 | 
+| 2017-08-04 | 2017年韓国囲碁リーグ | An Sungjoon | Choi Cheolhan | Win | W+1.5 | 6.5 | 3605.0 | 14.0 | 
+| 2017-07-22 | 2017年韓国囲碁リーグ | Ryu Minhyung | Choi Cheolhan | Lose | B+R | 6.5 | 3591.0 | -18.0 | 
 | 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Fan Yunruo | Choi Cheolhan | Win | W+R | 7.5 | 3609.0 | 24.0 | 
 | 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Choi Cheolhan | Gu Zihao | Lose | W+R | 7.5 | 3585.0 | -2.0 | 
 | 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Tang Weixing | Choi Cheolhan | Lose | B+R | 7.5 | 3587.0 | -23.0 | 
@@ -189,13 +189,13 @@
 | 2017-06-21 | 第3回夢百合杯世界オープン戦2回戦 | Lee Sedol | Choi Cheolhan | Lose | B+R | 7.5 | 3608.0 | -26.0 | 
 | 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Choi Cheolhan | Yin Qu | Win | B+R | 7.5 | 3634.0 | 22.0 | 
 | 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Choi Cheolhan | Mi Yuting | Win | B+R | 7.5 | 3612.0 | 15.0 | 
-| 2017-06-08 | 2017年韓国囲碁リーグ | Choi Cheolhan | Park Jinsol | Win | B+R | 6.5 | 3597.0 | -10.0 | 
-| 2017-06-01 | 2017年韓国囲碁リーグ | Han Taehee | Choi Cheolhan | Lose | B+R | 6.5 | 3607.0 | -10.0 | 
-| 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Chen Yaoye | Choi Cheolhan | Win | W+4.5 | 6.5 | 3617.0 | 13.0 | 
+| 2017-06-08 | 2017年韓国囲碁リーグ | Choi Cheolhan | Park Jinsol | Win | B+R | 6.5 | 3597.0 | -9.0 | 
+| 2017-06-01 | 2017年韓国囲碁リーグ | Han Taehee | Choi Cheolhan | Lose | B+R | 6.5 | 3606.0 | -10.0 | 
+| 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Chen Yaoye | Choi Cheolhan | Win | W+4.5 | 6.5 | 3616.0 | 12.0 | 
 | 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Choi Cheolhan | Park Yeonghun | Win | B+R | 6.5 | 3604.0 | 51.0 | 
 | 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Liu Xing | Choi Cheolhan | Win | W+R | 7.5 | 3553.0 | 22.0 | 
-| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Choi Cheolhan | Xia Chenkun | Win | B+R | 7.5 | 3531.0 | 0.0 | 
-| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Rong Yi | Choi Cheolhan | Win | W+R | 7.5 | 3531.0 | -7.0 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Choi Cheolhan | Xia Chenkun | Win | B+R | 7.5 | 3531.0 | 1.0 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Rong Yi | Choi Cheolhan | Win | W+R | 7.5 | 3530.0 | -8.0 | 
 | 2017-04-17 | 第18回マキシムコーヒー杯入神最強戦準決勝 | Choi Cheolhan | Park Junghwan | Lose | W+R | 6.5 | 3538.0 | -45.0 | 
 | 2017-03-14 | 第18回マキシムコーヒー杯入神最強戦3回戦 | Choi Cheolhan | Hong Seongji | Win | B+2.5 | 6.5 | 3583.0 | 8.0 | 
 | 2017-02-27 | 第18回マキシムコーヒー杯入神最強戦2回戦 | Park Cheongsang | Choi Cheolhan | Win | W+R | 6.5 | 3575.0 | 10.0 | 
@@ -243,8 +243,8 @@
 | 2016-02-28 | 第21期GSカルテックス杯プロ棋戦2回戦 | Weon Seongjin | Choi Cheolhan | Lose | B+R | 6.5 | 3530.0 | -26.0 | 
 | 2016-02-01 | 第17回マキシムコーヒー杯入神最強戦2回戦 | Weon Seongjin | Choi Cheolhan | Lose | B+R | 6.5 | 3556.0 | -11.0 | 
 | 2016-01-08 | 第8回応氏杯世界選手権韓国選抜戦 | Lee Donghoon | Choi Cheolhan | Lose | B+5 | 7.5 | 3567.0 | 18.0 | 
-| 2015-11-29 | 第17回農心辛ラーメン杯世界囲碁最強戦第7戦 | Choi Cheolhan | Gu Li | Lose | W+R | 6.5 | 3549.0 | -4.0 | 
-| 2015-11-28 | 第17回農心辛ラーメン杯世界囲碁最強戦第6戦 | Ida Atsushi | Choi Cheolhan | Win | W+R | 6.5 | 3553.0 | -4.0 | 
+| 2015-11-29 | 第17回農心辛ラーメン杯世界囲碁最強戦第7戦 | Choi Cheolhan | Gu Li | Lose | W+R | 6.5 | 3549.0 | -3.0 | 
+| 2015-11-28 | 第17回農心辛ラーメン杯世界囲碁最強戦第6戦 | Ida Atsushi | Choi Cheolhan | Win | W+R | 6.5 | 3552.0 | -5.0 | 
 | 2015-11-27 | 第17回農心辛ラーメン杯世界囲碁最強戦第5戦 | Choi Cheolhan | Wu Guangya | Win | B+R | 6.5 | 3557.0 | -27.0 | 
 | 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 | Choi Cheolhan |  | Lose | W+R | 7.5 | 3584.0 | -22.0 | 
 | 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Choi Cheolhan | Yang Dingxin | Lose | W+R | 7.5 | 3606.0 | -22.0 | 
@@ -260,11 +260,11 @@
 | 2015-09-02 | 第43期名人戦（韓国）予選 |  | Choi Cheolhan | Lose | B+R | 6.5 | 3660.0 | -4.0 | 
 | 2015-08-30 | 2015年韓国囲碁リーグ | Choi Cheolhan | You Byungyong | Win | B+R | 6.5 | 3664.0 | 4.0 | 
 | 2015-08-21 | 2015年韓国囲碁リーグ | Park Junghwan | Choi Cheolhan | Win | W+R | 6.5 | 3660.0 | 22.0 | 
-| 2015-08-16 | 2015年韓国囲碁リーグ | Choi Cheolhan | Lee Taehyun | Win | B+R | 6.5 | 3638.0 | 6.0 | 
-| 2015-08-03 | 第20回三星火災杯統合予選2回戦 | Choi Cheolhan | Liao Xingwen | Win | B+1.5 | 6.5 | 3632.0 | 22.0 | 
-| 2015-07-26 | 2015年韓国囲碁リーグ | Lee Hobum | Choi Cheolhan | Win | W+R | 6.5 | 3610.0 | -20.0 | 
-| 2015-07-21 | 第17回農心杯韓国選抜戦 | Ahn Kukhyun | Choi Cheolhan | Win | W+R | 6.5 | 3630.0 | 4.0 | 
-| 2015-07-20 | 第17回農心杯韓国選抜戦 | Choi Cheolhan | Shin Jinseo | Win | B+R | 6.5 | 3626.0 | 22.0 | 
+| 2015-08-16 | 2015年韓国囲碁リーグ | Choi Cheolhan | Lee Taehyun | Win | B+R | 6.5 | 3638.0 | 7.0 | 
+| 2015-08-03 | 第20回三星火災杯統合予選2回戦 | Choi Cheolhan | Liao Xingwen | Win | B+1.5 | 6.5 | 3631.0 | 22.0 | 
+| 2015-07-26 | 2015年韓国囲碁リーグ | Lee Hobum | Choi Cheolhan | Win | W+R | 6.5 | 3609.0 | -20.0 | 
+| 2015-07-21 | 第17回農心杯韓国選抜戦 | Ahn Kukhyun | Choi Cheolhan | Win | W+R | 6.5 | 3629.0 | 4.0 | 
+| 2015-07-20 | 第17回農心杯韓国選抜戦 | Choi Cheolhan | Shin Jinseo | Win | B+R | 6.5 | 3625.0 | 21.0 | 
 | 2015-07-17 | 第17回農心杯韓国選抜戦 | Choi Cheolhan | Choi Jeong | Win | B+1.5 | 6.5 | 3604.0 | 3.0 | 
 | 2015-07-16 | 第17回農心杯韓国選抜戦 | Kim Juho | Choi Cheolhan | Win | W+R | 6.5 | 3601.0 | 21.0 | 
 | 2015-07-05 | 2015年韓国囲碁リーグ | Park Seunghwa | Choi Cheolhan | Win | W+R | 6.5 | 3580.0 | -5.0 | 
@@ -319,21 +319,21 @@
 | 2014-08-26 | 第19回三星火災杯世界囲碁マスターズ1回戦B1 | Tang Weixing | Choi Cheolhan | Lose | B+R | 6.5 | 3480.0 | -19.0 | 
 | 2014-08-17 | 第16回農心杯韓国選抜戦 | An Sungjoon | Choi Cheolhan | Lose | B+R | 6.5 | 3499.0 | -5.0 | 
 | 2014-08-15 | 第42期名人戦（韓国）1回戦 | Kang Dongyun | Choi Cheolhan | Lose | B+R | 6.5 | 3504.0 | -6.0 | 
-| 2014-08-13 | 第58期国手戦（韓国）1回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 3510.0 | -10.0 | 
-| 2014-07-30 | 2014年レッツランパーク杯オープントーナメント1回戦 | Kim Hyeongwan | Choi Cheolhan | Win | W+6.5 | 6.5 | 3520.0 | -13.0 | 
-| 2014-07-26 | 2014年韓国囲碁リーグ | Kim Myounghoon | Choi Cheolhan | Win | W+R | 6.5 | 3533.0 | -2.0 | 
-| 2014-07-24 | 第2回百霊杯世界オープン戦3回戦 | Zhang Tao | Choi Cheolhan | Win | W+R | 7.5 | 3535.0 | 2.0 | 
-| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Choi Cheolhan | Park Minkyu | Win | B+R | 7.5 | 3533.0 | -32.0 | 
-| 2014-07-16 | 第10期物価情報杯プロ棋戦リーグB | Choi Cheolhan | Jin Siyoung | Lose | W+R | 6.5 | 3565.0 | -32.0 | 
-| 2014-07-14 | 第16回農心杯韓国選抜戦 | Choi Cheolhan | Kang Seungmin | Win | B+R | 6.5 | 3597.0 | 3.0 | 
-| 2014-07-11 | 2014年韓国囲碁リーグ | Kim Seongjae | Choi Cheolhan | Lose | B+R | 6.5 | 3594.0 | -7.0 | 
-| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Tan Xiao | Choi Cheolhan | Lose | B+5.5 | 7.5 | 3601.0 | -7.0 | 
-| 2014-07-06 | 2014年韓国囲碁リーグ | Ahn Kukhyun | Choi Cheolhan | Win | W+R | 6.5 | 3608.0 | 4.0 | 
-| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Choi Cheolhan | Chen Yaoye | Win | B+R | 7.5 | 3604.0 | 25.0 | 
+| 2014-08-13 | 第58期国手戦（韓国）1回戦 |  | Choi Cheolhan | Win | W+R | 6.5 | 3510.0 | -9.0 | 
+| 2014-07-30 | 2014年レッツランパーク杯オープントーナメント1回戦 | Kim Hyeongwan | Choi Cheolhan | Win | W+6.5 | 6.5 | 3519.0 | -13.0 | 
+| 2014-07-26 | 2014年韓国囲碁リーグ | Kim Myounghoon | Choi Cheolhan | Win | W+R | 6.5 | 3532.0 | -2.0 | 
+| 2014-07-24 | 第2回百霊杯世界オープン戦3回戦 | Zhang Tao | Choi Cheolhan | Win | W+R | 7.5 | 3534.0 | 2.0 | 
+| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Choi Cheolhan | Park Minkyu | Win | B+R | 7.5 | 3532.0 | -33.0 | 
+| 2014-07-16 | 第10期物価情報杯プロ棋戦リーグB | Choi Cheolhan | Jin Siyoung | Lose | W+R | 6.5 | 3565.0 | -31.0 | 
+| 2014-07-14 | 第16回農心杯韓国選抜戦 | Choi Cheolhan | Kang Seungmin | Win | B+R | 6.5 | 3596.0 | 3.0 | 
+| 2014-07-11 | 2014年韓国囲碁リーグ | Kim Seongjae | Choi Cheolhan | Lose | B+R | 6.5 | 3593.0 | -7.0 | 
+| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Tan Xiao | Choi Cheolhan | Lose | B+5.5 | 7.5 | 3600.0 | -7.0 | 
+| 2014-07-06 | 2014年韓国囲碁リーグ | Ahn Kukhyun | Choi Cheolhan | Win | W+R | 6.5 | 3607.0 | 4.0 | 
+| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Choi Cheolhan | Chen Yaoye | Win | B+R | 7.5 | 3603.0 | 24.0 | 
 | 2014-06-30 | 第33回KBS杯囲碁王戦本戦2回戦 | Lee Donghoon | Choi Cheolhan | Lose | B+R | 6.5 | 3579.0 | -5.0 | 
 | 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Gu Lingyi | Choi Cheolhan | Lose | B+3.5 | 7.5 | 3584.0 | 22.0 | 
-| 2014-06-21 | 2014年韓国囲碁リーグ |  | Choi Cheolhan | Win | W+R | 6.5 | 3562.0 | -78.0 | 
-| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Shi Yue | Choi Cheolhan | Lose | B+3.5 | 7.5 | 3640.0 | 23.0 | 
+| 2014-06-21 | 2014年韓国囲碁リーグ |  | Choi Cheolhan | Win | W+R | 6.5 | 3562.0 | -77.0 | 
+| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Shi Yue | Choi Cheolhan | Lose | B+3.5 | 7.5 | 3639.0 | 22.0 | 
 | 2014-06-11 | 第19回LG杯朝鮮日報棋王戦2回戦 | Xie He | Choi Cheolhan | Win | W+1.5 | 6.5 | 3617.0 | 11.0 | 
 | 2014-06-09 | 第19回LG杯朝鮮日報棋王戦1回戦 | Mi Yuting | Choi Cheolhan | Win | W+R | 6.5 | 3606.0 | 10.0 | 
 | 2014-06-07 | 2014年韓国囲碁リーグ | Choi Cheolhan |  | Lose | W+3.5 | 6.5 | 3596.0 | -11.0 | 
@@ -341,9 +341,9 @@
 | 2014-05-28 | 第10期物価情報杯プロ棋戦リーグB | Choi Cheolhan | Lee Changho | Lose | W+R | 6.5 | 3625.0 | -49.0 | 
 | 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Choi Cheolhan | Peng Quan | Win | B+R | 7.5 | 3674.0 | -26.0 | 
 | 2014-05-17 | 2014年韓国囲碁リーグ | Lee Taehyun | Choi Cheolhan | Win | W+0.5 | 6.5 | 3700.0 | 14.0 | 
-| 2014-05-09 | 2014年韓国囲碁リーグ | Lee Jihyun | Choi Cheolhan | Win | W+R | 6.5 | 3686.0 | -20.0 | 
-| 2014-04-25 | 2014年韓国囲碁リーグ | Kim Myounghoon | Choi Cheolhan | Win | W+R | 6.5 | 3706.0 | 18.0 | 
-| 2014-04-16 | 第19期GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Choi Cheolhan | Kim Jiseok | Lose | W+R | 6.5 | 3688.0 | 17.0 | 
+| 2014-05-09 | 2014年韓国囲碁リーグ | Lee Jihyun | Choi Cheolhan | Win | W+R | 6.5 | 3686.0 | -19.0 | 
+| 2014-04-25 | 2014年韓国囲碁リーグ | Kim Myounghoon | Choi Cheolhan | Win | W+R | 6.5 | 3705.0 | 18.0 | 
+| 2014-04-16 | 第19期GSカルテックス杯プロ棋戦決勝五番勝負第3局 | Choi Cheolhan | Kim Jiseok | Lose | W+R | 6.5 | 3687.0 | 16.0 | 
 | 2014-04-09 | 第19期GSカルテックス杯プロ棋戦決勝五番勝負第2局 | Kim Jiseok | Choi Cheolhan | Lose | B+R | 6.5 | 3671.0 | -5.0 | 
 | 2014-04-08 | 第19期GSカルテックス杯プロ棋戦決勝五番勝負第1局 | Choi Cheolhan | Kim Jiseok | Lose | W+R | 6.5 | 3676.0 | -15.0 | 
 | 2014-04-03 | 第19期GSカルテックス杯プロ棋戦準決勝 | Choi Cheolhan | Park Junghwan | Win | B+R | 6.5 | 3691.0 | 8.0 | 

@@ -10,8 +10,8 @@
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Yi Lingtao | Lose | B+R | 7.5 | 3479.0 | -11.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Jin Yucheng | Yi Lingtao | Lose | B+R | 7.5 | 3490.0 | -3.0 | 
 | 2022-01-05 | 第16回威孚房開杯棋王戦3回戦 | Yi Lingtao | Yang Kaiwen | Lose | W+R | 7.5 | 3493.0 | -5.0 | 
-| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Yi Lingtao | Ding Hao | Lose | W+R | 7.5 | 3498.0 | 31.0 | 
-| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Yi Lingtao | Yang Dingxin | Lose | W+R | 7.5 | 3467.0 | -7.0 | 
+| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Yi Lingtao | Ding Hao | Lose | W+R | 7.5 | 3498.0 | 32.0 | 
+| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Yi Lingtao | Yang Dingxin | Lose | W+R | 7.5 | 3466.0 | -8.0 | 
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Yi Lingtao | Tan Xiao | Lose | W+R | 7.5 | 3474.0 | -11.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Yi Lingtao | Win | W+R | 7.5 | 3485.0 | 4.0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Chen Zijian | Lose | W+2¼ | 7.5 | 3481.0 | -5.0 | 
@@ -32,8 +32,8 @@
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Xu Yidi | Yi Lingtao | Win | W+R | 7.5 | 3375.0 | 1.0 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Yi Lingtao | Chen Yaoye | Lose | W+R | 7.5 | 3374.0 | -7.0 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Li Zerui | Yi Lingtao | Win | W+R | 7.5 | 3381.0 | 14.0 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Yi Lingtao | Win | W+R | 7.5 | 3367.0 | 21.0 | 
-| 2021-04-08 | 第17回倡棋杯中国プロ囲碁選手権戦予選 |  | Yi Lingtao | Lose | B+R | 7.5 | 3346.0 | -24.0 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Yi Lingtao | Win | W+R | 7.5 | 3367.0 | 22.0 | 
+| 2021-04-08 | 第17回倡棋杯中国プロ囲碁選手権戦予選 |  | Yi Lingtao | Lose | B+R | 7.5 | 3345.0 | -25.0 | 
 | 2021-03-17 | 第35期中国囲碁天元戦予選 | Yi Lingtao | Meng Tailing | Lose | W+R | 7.5 | 3370.0 | 30.0 | 
 | 2021-01-05 | 第8回衢州・爛柯杯中国囲碁冠軍戦3回戦 | Yi Lingtao | Yang Dingxin | Lose | W+R | 7.5 | 3340.0 | -6.0 | 
 | 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Yi Lingtao | Xu Jiayang | Lose | W+R | 7.5 | 3346.0 | 1.0 | 
@@ -64,8 +64,8 @@
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Lee Donghoon | Yi Lingtao | Lose | B+R | 7.5 | 3355.0 | -150.0 | 
 | 2020-01-10 | 第34期中国囲碁天元戦3回戦 | Yi Lingtao | Li Xuanhao | Lose | W+R | 7.5 | 3505.0 | -12.0 | 
 | 2019-12-30 | 第5期洛陽白雲山杯中国棋聖戦予選 | Yi Lingtao | Zhao Chenyu | Lose | W+R | 7.5 | 3517.0 | -9.0 | 
-| 2019-12-29 | 第5期洛陽白雲山杯中国棋聖戦予選 | Liao Yuanhe | Yi Lingtao | Win | W+R | 7.5 | 3526.0 | 9.0 | 
-| 2019-12-24 | 第11期中国竜星戦Aブロック5回戦 | Yi Lingtao | Wang Haoyang | Lose | W+R | 7.5 | 3517.0 | -2.0 | 
+| 2019-12-29 | 第5期洛陽白雲山杯中国棋聖戦予選 | Liao Yuanhe | Yi Lingtao | Win | W+R | 7.5 | 3526.0 | 10.0 | 
+| 2019-12-24 | 第11期中国竜星戦Aブロック5回戦 | Yi Lingtao | Wang Haoyang | Lose | W+R | 7.5 | 3516.0 | -3.0 | 
 | 2019-11-18 | 第4回全国智力運動会男子団体戦第9戦 | Yi Lingtao | He Yuhan | Lose | W+R | 7.5 | 3519.0 | -19.0 | 
 | 2019-11-17 | 第4回全国智力運動会男子団体戦第8戦 | Li Qincheng | Yi Lingtao | Win | W+1¼ | 7.5 | 3538.0 | 0.0 | 
 | 2019-11-17 | 第4回全国智力運動会男子団体戦第7戦 | Yi Lingtao | Chen Yunong | Win | B+1¾ | 7.5 | 3538.0 | 12.0 | 
@@ -73,11 +73,11 @@
 | 2019-11-14 | 第4回全国智力運動会男子団体戦第1戦 | Li Weiqing | Yi Lingtao | Lose | B+R | 7.5 | 3541.0 | -6.0 | 
 | 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 |  | Yi Lingtao | Lose | B+R | 7.5 | 3547.0 | -11.0 | 
 | 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Kim Myounghoon | Yi Lingtao | Win | W+R | 7.5 | 3558.0 | 9.0 | 
-| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Yi Lingtao |  | Win | B+R | 7.5 | 3549.0 | 68.0 | 
-| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Wang Shuo | Yi Lingtao | Win | W+R | 7.5 | 3481.0 | 24.0 | 
+| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Yi Lingtao |  | Win | B+R | 7.5 | 3549.0 | 69.0 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Wang Shuo | Yi Lingtao | Win | W+R | 7.5 | 3480.0 | 23.0 | 
 | 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Yi Lingtao | Han Yizhou | Lose | W+R | 7.5 | 3457.0 | -6.0 | 
-| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Wang Shiyi | Yi Lingtao | Lose | B+1¾ | 7.5 | 3463.0 | -21.0 | 
-| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Yi Lingtao | Fan Yin | Lose | W+R | 7.5 | 3484.0 | 22.0 | 
+| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Wang Shiyi | Yi Lingtao | Lose | B+1¾ | 7.5 | 3463.0 | -20.0 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Yi Lingtao | Fan Yin | Lose | W+R | 7.5 | 3483.0 | 21.0 | 
 | 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Lee Donghoon | Yi Lingtao | Lose | B+R | 7.5 | 3462.0 | -21.0 | 
 | 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Tang Weixing | Yi Lingtao | Lose | B+R | 7.5 | 3483.0 | -16.0 | 
 | 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Kang Dongyun | Yi Lingtao | Win | W+R | 7.5 | 3499.0 | -44.0 | 
@@ -91,8 +91,8 @@
 | 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Jiang Qirun | Yi Lingtao | Win | W+R | 7.5 | 3584.0 | 14.0 | 
 | 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Yi Lingtao | Tong Mengcheng | Lose | W+R | 7.5 | 3570.0 | -10.0 | 
 | 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Li Xiangyu | Yi Lingtao | Win | W+R | 7.5 | 3580.0 | 1.0 | 
-| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節濰坊-蘇泊爾 | Yi Lingtao | Li Qincheng | Win | B+R | 7.5 | 3579.0 | 15.0 | 
-| 2019-04-08 | 2019CCTV杯中国囲棋電視快棋戦準決勝 | Yi Lingtao | Ding Hao | Lose | W+R | 7.5 | 3564.0 | 0.0 | 
+| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節濰坊-蘇泊爾 | Yi Lingtao | Li Qincheng | Win | B+R | 7.5 | 3579.0 | 16.0 | 
+| 2019-04-08 | 2019CCTV杯中国囲棋電視快棋戦準決勝 | Yi Lingtao | Ding Hao | Lose | W+R | 7.5 | 3563.0 | -1.0 | 
 | 2019-03-30 | 2019CCTV杯中国囲棋電視快棋戦4回戦 | Yi Lingtao | Liao Xingwen | Win | B+R | 7.5 | 3564.0 | 27.0 | 
 | 2019-03-29 | 2019CCTV杯中国囲棋電視快棋戦3回戦 | Yang Dingxin | Yi Lingtao | Win | W+R | 7.5 | 3537.0 | 15.0 | 
 | 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Yi Lingtao | Mi Yuting | Win | B+R | 7.5 | 3522.0 | 27.0 | 
@@ -131,8 +131,8 @@
 | 2018-05-09 | 第20回中国囲碁甲級リーグ第5節衢州-山東 | Hu Yuhan | Yi Lingtao | Win | W+3¼ | 7.5 | 3474.0 | -4.0 | 
 | 2018-03-30 | 第20回中国囲碁甲級リーグ第3節蘇泊爾-山東 | Li Qincheng | Yi Lingtao | Lose | B+R | 7.5 | 3478.0 | -14.0 | 
 | 2018-03-28 | 第20回中国囲碁甲級リーグ第2節山東-江蘇 | Yi Lingtao | Huang Yunsong | Lose | W+R | 7.5 | 3492.0 | 4.0 | 
-| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節浙江-山東 | Zhang Tao | Yi Lingtao | Win | W+R | 7.5 | 3488.0 | 84.0 | 
-| 2018-01-20 | 金立杯2018中韓リーグ優勝チーム対抗戦第2戦 | Yi Lingtao | Kim Myounghoon | Lose | W+R | 7.5 | 3404.0 | 16.0 | 
+| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節浙江-山東 | Zhang Tao | Yi Lingtao | Win | W+R | 7.5 | 3488.0 | 85.0 | 
+| 2018-01-20 | 金立杯2018中韓リーグ優勝チーム対抗戦第2戦 | Yi Lingtao | Kim Myounghoon | Lose | W+R | 7.5 | 3403.0 | 15.0 | 
 | 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Yi Lingtao | Huang Yunsong | Lose | W+R | 7.5 | 3388.0 | 12.0 | 
 | 2017-11-27 | 2017呉清源杯中国U18新秀戦準決勝 | Xu Jiayang | Yi Lingtao | Win | W+R | 7.5 | 3376.0 | 35.0 | 
 | 2017-11-26 | 2017呉清源杯中国U18新秀戦8強戦 | Yi Lingtao | Liao Yuanhe | Win | B+R | 7.5 | 3341.0 | 71.0 | 
@@ -168,10 +168,10 @@
 | 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Yi Lingtao | Xia Chenkun | Lose | W+R | 7.5 | 3206.0 | -4.0 | 
 | 2016-02-25 | 第13期倡棋杯中国プロ囲碁選手権戦予選 | Peng Quan | Yi Lingtao | Win | W+R | 7.5 | 3210.0 | 157.0 | 
 | 2015-08-28 | 2015年全国囲棋個人戦男子組第6戦 | Tong Mengcheng | Yi Lingtao | Lose | B+R | 7.5 | 3053.0 | -16.0 | 
-| 2015-08-25 | 2015年全国囲棋個人戦男子組第4戦 | Han Yizhou | Yi Lingtao | Lose | B+R | 7.5 | 3069.0 | -68.0 | 
-| 2015-07-27 | 2015年中国段位戦 | Gong Yanyu | Yi Lingtao | Win | W+R | 7.5 | 3137.0 | 6.0 | 
-| 2015-07-26 | 2015年中国段位戦 | Yi Lingtao | Ji Lili | Win | B+R | 7.5 | 3131.0 | 1.0 | 
-| 2015-07-25 | 2015年中国段位戦 | Yi Lingtao | Chen Yunong | Win | B+R | 7.5 | 3130.0 | missing |
+| 2015-08-25 | 2015年全国囲棋個人戦男子組第4戦 | Han Yizhou | Yi Lingtao | Lose | B+R | 7.5 | 3069.0 | -67.0 | 
+| 2015-07-27 | 2015年中国段位戦 | Gong Yanyu | Yi Lingtao | Win | W+R | 7.5 | 3136.0 | 6.0 | 
+| 2015-07-26 | 2015年中国段位戦 | Yi Lingtao | Ji Lili | Win | B+R | 7.5 | 3130.0 | 1.0 | 
+| 2015-07-25 | 2015年中国段位戦 | Yi Lingtao | Chen Yunong | Win | B+R | 7.5 | 3129.0 | missing |
 
 
 

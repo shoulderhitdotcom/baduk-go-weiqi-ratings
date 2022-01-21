@@ -9,9 +9,9 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-10-15 | 第46期新人王戦決勝三番勝負第3局  | Ueno Asami | Sotoyanagi Sebun | Win | W+R | 6.5 | 3301.0 | 53.0 | 
 | 2021-10-09 | 第46期新人王戦決勝三番勝負第2局  | Ueno Asami | Sotoyanagi Sebun | Lose | B+R | 6.5 | 3248.0 | 208.0 | 
-| 2021-07-22 | 第46期新人王戦準決勝 | Koyama Kuya | Sotoyanagi Sebun | Win | W+0.5 | 6.5 | 3040.0 | 271.0 | 
-| 2021-05-03 | 第46期新人王戦3回戦 |  | Sotoyanagi Sebun | Win | W+R | 6.5 | 2769.0 | 142.0 | 
-| 2021-03-29 | 第46期新人王戦2回戦 | Sotoyanagi Sebun | Nyu Eiko | Win | B+2.5 | 6.5 | 2627.0 | 29.0 | 
+| 2021-07-22 | 第46期新人王戦準決勝 | Koyama Kuya | Sotoyanagi Sebun | Win | W+0.5 | 6.5 | 3040.0 | 272.0 | 
+| 2021-05-03 | 第46期新人王戦3回戦 |  | Sotoyanagi Sebun | Win | W+R | 6.5 | 2768.0 | 142.0 | 
+| 2021-03-29 | 第46期新人王戦2回戦 | Sotoyanagi Sebun | Nyu Eiko | Win | B+2.5 | 6.5 | 2626.0 | 28.0 | 
 | 2021-02-25 | 第46期新人王戦1回戦 | Sotoyanagi Sebun | Kan Minu | Win | B+R | 6.5 | 2598.0 | 144.0 | 
 | 2021-01-25 | 第46期新人王戦 | Sotoyanagi Sebun | Watanabe Yuu | Win | B+R | 6.5 | 2454.0 | -445.0 | 
 | 2020-08-13 | 第59期十段戦予選 | Sotoyanagi Sebun | Ohashi Hirofumi | Lose | W+2.5 | 6.5 | 2899.0 | -258.0 | 

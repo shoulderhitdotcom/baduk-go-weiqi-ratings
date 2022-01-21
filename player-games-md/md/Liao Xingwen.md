@@ -26,8 +26,8 @@
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Liao Xingwen | Park Junghwan | Lose | W+R | 7.5 | 3478.0 | -72.0 | 
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Kim Jiseok | Liao Xingwen | Win | W+R | 7.5 | 3550.0 | 80.0 | 
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Fan Yin | Liao Xingwen | Win | W+R | 7.5 | 3470.0 | -38.0 | 
-| 2019-12-29 | 第5期洛陽白雲山杯中国棋聖戦予選 | Liao Xingwen | Tan Xiao | Lose | W+R | 7.5 | 3508.0 | -18.0 | 
-| 2019-12-26 | 第5期洛陽白雲山杯中国棋聖戦予選 | Zhou Hongyu | Liao Xingwen | Win | W+R | 7.5 | 3526.0 | 133.0 | 
+| 2019-12-29 | 第5期洛陽白雲山杯中国棋聖戦予選 | Liao Xingwen | Tan Xiao | Lose | W+R | 7.5 | 3508.0 | -17.0 | 
+| 2019-12-26 | 第5期洛陽白雲山杯中国棋聖戦予選 | Zhou Hongyu | Liao Xingwen | Win | W+R | 7.5 | 3525.0 | 132.0 | 
 | 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Park Hamin | Liao Xingwen | Lose | B+R | 7.5 | 3393.0 | -32.0 | 
 | 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Lee Donghoon | Liao Xingwen | Lose | B+1¾ | 7.5 | 3425.0 | -13.0 | 
 | 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Liao Xingwen | Xie Erhao | Lose | W+R | 7.5 | 3438.0 | -67.0 | 
@@ -57,8 +57,8 @@
 | 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦2回戦 | Liao Xingwen | Peng Liyao | Lose | W+R | 7.5 | 3371.0 | -26.0 | 
 | 2018-03-30 | 第20回中国囲碁甲級リーグ第3節江蘇-上海 | Tong Mengcheng | Liao Xingwen | Lose | B+R | 7.5 | 3397.0 | -11.0 | 
 | 2018-03-28 | 第20回中国囲碁甲級リーグ第2節上海-浙江 | Liao Xingwen | Li Zhe | Lose | W+R | 7.5 | 3408.0 | -8.0 | 
-| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節江西-上海 | Xu Jiayang | Liao Xingwen | Lose | B+R | 7.5 | 3416.0 | 25.0 | 
-| 2018-01-23 | 第32期中国囲碁天元戦1回戦 | Zhang Tao | Liao Xingwen | Lose | B+R | 7.5 | 3391.0 | 1.0 | 
+| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節江西-上海 | Xu Jiayang | Liao Xingwen | Lose | B+R | 7.5 | 3416.0 | 26.0 | 
+| 2018-01-23 | 第32期中国囲碁天元戦1回戦 | Zhang Tao | Liao Xingwen | Lose | B+R | 7.5 | 3390.0 | 0.0 | 
 | 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Liao Xingwen | Kim Jiseok | Lose | W+R | 7.5 | 3390.0 | 12.0 | 
 | 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Han Yizhou | Liao Xingwen | Lose | B+R | 7.5 | 3378.0 | -10.0 | 
 | 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Liao Xingwen |  | Win | B+R | 7.5 | 3388.0 | 16.0 | 
@@ -67,12 +67,12 @@
 | 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Xie Ke | Liao Xingwen | Lose | B+R | 7.5 | 3353.0 | -16.0 | 
 | 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Liao Xingwen | Dang Yifei | Lose | W+R | 7.5 | 3369.0 | 5.0 | 
 | 2017-10-10 | 第13期威孚房開杯棋王戦32強戦 | Li Xuanhao | Liao Xingwen | Lose | B+R | 7.5 | 3364.0 | -13.0 | 
-| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Yang Kaiwen | Liao Xingwen | Win | W+R | 7.5 | 3377.0 | -19.0 | 
-| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Meng Tailing | Liao Xingwen | Lose | B+R | 7.5 | 3396.0 | 23.0 | 
+| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Yang Kaiwen | Liao Xingwen | Win | W+R | 7.5 | 3377.0 | -18.0 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Meng Tailing | Liao Xingwen | Lose | B+R | 7.5 | 3395.0 | 22.0 | 
 | 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Liao Xingwen | Mi Yuting | Lose | W+R | 7.5 | 3373.0 | -8.0 | 
 | 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Liao Xingwen | Fan Yunruo | Lose | W+R | 7.5 | 3381.0 | -2.0 | 
-| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Zhou Ruiyang | Liao Xingwen | Win | W+R | 7.5 | 3383.0 | 34.0 | 
-| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Liao Xingwen | Ke Jie | Lose | W+R | 7.5 | 3349.0 | 12.0 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Zhou Ruiyang | Liao Xingwen | Win | W+R | 7.5 | 3383.0 | 35.0 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Liao Xingwen | Ke Jie | Lose | W+R | 7.5 | 3348.0 | 11.0 | 
 | 2017-08-15 | 中国浙江平湖当湖十局杯CCTV準決勝 | Liao Xingwen | Li Xuanhao | Lose | W+R | 7.5 | 3337.0 | 10.0 | 
 | 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Liao Xingwen | Kim Jiseok | Lose | W+0.5 | 7.5 | 3327.0 | -24.0 | 
 | 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Liao Xingwen | Shin Jinseo | Lose | W+R | 7.5 | 3351.0 | -18.0 | 
@@ -84,8 +84,8 @@
 | 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Xie Erhao | Liao Xingwen | Lose | B+R | 7.5 | 3396.0 | 11.0 | 
 | 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Liao Xingwen | Huang Yunsong | Win | B+R | 7.5 | 3385.0 | 27.0 | 
 | 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Liao Xingwen | Li Zhe | Win | B+R | 7.5 | 3358.0 | 53.0 | 
-| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Fan Tingyu | Liao Xingwen | Lose | B+R | 7.5 | 3305.0 | -14.0 | 
-| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Liao Xingwen | Kang Dongyun | Win | B+R | 7.5 | 3319.0 | 36.0 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Fan Tingyu | Liao Xingwen | Lose | B+R | 7.5 | 3305.0 | -13.0 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Liao Xingwen | Kang Dongyun | Win | B+R | 7.5 | 3318.0 | 35.0 | 
 | 2017-04-18 | 第19期中国阿含桐山杯本選3回戦 | Liao Xingwen | Li Qincheng | Lose | W+0.5 | 7.5 | 3283.0 | -23.0 | 
 | 2017-04-03 | 第22期LG杯世界予選1回戦 | Kang Yootaek | Liao Xingwen | Win | W+R | 6.5 | 3306.0 | 36.0 | 
 | 2017-03-28 | 世界第三期Mlily夢百合杯予選2回戦 | Liao Xingwen | Lee Donghoon | Lose | W+R | 7.5 | 3270.0 | -84.0 | 
@@ -134,9 +134,9 @@
 | 2015-09-19 | 第3回全国智力運動会囲碁男子団体戦 | Zhou Ruiyang | Liao Xingwen | Win | W+R | 7.5 | 3538.0 | 30.0 | 
 | 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Ke Jie | Liao Xingwen | Lose | B+R | 7.5 | 3508.0 | 2.0 | 
 | 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Liao Xingwen | Na Hyun | Win | B+R | 7.5 | 3506.0 | -1.0 | 
-| 2015-08-25 | 第27回テレビアジア選手権1回戦 | Park Junghwan | Liao Xingwen | Lose | B+R | 6.5 | 3507.0 | -16.0 | 
-| 2015-08-03 | 第20回三星火災杯統合予選2回戦 | Choi Cheolhan | Liao Xingwen | Lose | B+1.5 | 6.5 | 3523.0 | 6.0 | 
-| 2015-07-29 | 第7期中国竜星戦予選 | Liao Xingwen | Ding Hao | Lose | W+0.5 | 7.5 | 3517.0 | 8.0 | 
+| 2015-08-25 | 第27回テレビアジア選手権1回戦 | Park Junghwan | Liao Xingwen | Lose | B+R | 6.5 | 3507.0 | -15.0 | 
+| 2015-08-03 | 第20回三星火災杯統合予選2回戦 | Choi Cheolhan | Liao Xingwen | Lose | B+1.5 | 6.5 | 3522.0 | 6.0 | 
+| 2015-07-29 | 第7期中国竜星戦予選 | Liao Xingwen | Ding Hao | Lose | W+0.5 | 7.5 | 3516.0 | 7.0 | 
 | 2015-07-11 | 第17回中国囲碁甲級リーグ第11節 |  | Liao Xingwen | Lose | B+R | 7.5 | 3509.0 | 10.0 | 
 | 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 | Liao Xingwen | Zhou Ruiyang | Lose | W+R | 7.5 | 3499.0 | -29.0 | 
 | 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Liao Xingwen | Chen Yaoye | Lose | W+2.5 | 7.5 | 3528.0 | -11.0 | 
@@ -171,16 +171,16 @@
 | 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Tan Xiao | Liao Xingwen | Lose | B+R | 7.5 | 3357.0 | -21.0 | 
 | 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Choi Cheolhan | Liao Xingwen | Lose | B+R | 7.5 | 3378.0 | 20.0 | 
 | 2014-08-27 | 第19回三星火災杯世界囲碁マスターズ1回戦F2 | Liao Xingwen | Murakawa Daisuke | Win | B+0.5 | 6.5 | 3358.0 | 7.0 | 
-| 2014-08-26 | 第19回三星火災杯世界囲碁マスターズ1回戦F1 | Liao Xingwen | Kim Yoonyoung | Win | B+R | 6.5 | 3351.0 | -31.0 | 
-| 2014-08-06 | 第19回三星火災杯統合予選決勝 | Liao Xingwen | Lee Hobum | Win | B+R | 6.5 | 3382.0 | -65.0 | 
-| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Liao Xingwen | Tuo Jiaxi | Lose | W+R | 7.5 | 3447.0 | -11.0 | 
-| 2014-07-07 | 第16期阿含・桐山杯中国早碁オープン戦1回戦 | Tang Weixing | Liao Xingwen | Lose | B+R | 7.5 | 3458.0 | 3.0 | 
-| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Liao Xingwen | Mao Ruilong | Lose | W+R | 7.5 | 3455.0 | -13.0 | 
+| 2014-08-26 | 第19回三星火災杯世界囲碁マスターズ1回戦F1 | Liao Xingwen | Kim Yoonyoung | Win | B+R | 6.5 | 3351.0 | -30.0 | 
+| 2014-08-06 | 第19回三星火災杯統合予選決勝 | Liao Xingwen | Lee Hobum | Win | B+R | 6.5 | 3381.0 | -65.0 | 
+| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Liao Xingwen | Tuo Jiaxi | Lose | W+R | 7.5 | 3446.0 | -11.0 | 
+| 2014-07-07 | 第16期阿含・桐山杯中国早碁オープン戦1回戦 | Tang Weixing | Liao Xingwen | Lose | B+R | 7.5 | 3457.0 | 3.0 | 
+| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Liao Xingwen | Mao Ruilong | Lose | W+R | 7.5 | 3454.0 | -14.0 | 
 | 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Shi Yue | Liao Xingwen | Win | W+R | 7.5 | 3468.0 | 0.0 | 
 | 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Liao Xingwen |  | Win | B+R | 7.5 | 3468.0 | 36.0 | 
 | 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Ke Jie | Liao Xingwen | Lose | B+R | 7.5 | 3432.0 | 24.0 | 
-| 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Piao Wenyao | Liao Xingwen | Win | W+R | 7.5 | 3408.0 | -61.0 | 
-| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Liao Xingwen | Zhou Hexi | Lose | W+0.5 | 7.5 | 3469.0 | 1.0 | 
+| 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Piao Wenyao | Liao Xingwen | Win | W+R | 7.5 | 3408.0 | -60.0 | 
+| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Liao Xingwen | Zhou Hexi | Lose | W+0.5 | 7.5 | 3468.0 | 0.0 | 
 | 2014-06-09 | 第19回LG杯朝鮮日報棋王戦1回戦 | Byun Sangil | Liao Xingwen | Lose | B+R | 6.5 | 3468.0 | -8.0 | 
 | 2014-06-05 | 第16回中国囲碁甲級リーグ第6節 | Chen Zijian | Liao Xingwen | Win | W+R | 7.5 | 3476.0 | 5.0 | 
 | 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Meng Tailing | Liao Xingwen | Win | W+R | 7.5 | 3471.0 | -51.0 | 
@@ -189,9 +189,9 @@
 | 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Liao Xingwen | Tan Xiao | Lose | W+R | 7.5 | 3562.0 | 13.0 | 
 | 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Liao Xingwen | Tao Xinran | Win | B+1.5 | 7.5 | 3549.0 | 4.0 | 
 | 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦2回戦 | Zhou Heyang | Liao Xingwen | Lose | B+1.5 | 7.5 | 3545.0 | 6.0 | 
-| 2014-05-03 | 2014年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Liao Xingwen | Ke Jie | Lose | W+0.5 | 7.5 | 3539.0 | -20.0 | 
-| 2014-05-01 | 2014年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Liao Xingwen | Choi Jeong | Win | B+3.5 | 7.5 | 3559.0 | 17.0 | 
-| 2014-04-19 | 第19回LG杯予選 | Liao Xingwen | You Byungyong | Win | B+R | 6.5 | 3542.0 | 32.0 | 
+| 2014-05-03 | 2014年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Liao Xingwen | Ke Jie | Lose | W+0.5 | 7.5 | 3539.0 | -19.0 | 
+| 2014-05-01 | 2014年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Liao Xingwen | Choi Jeong | Win | B+3.5 | 7.5 | 3558.0 | 17.0 | 
+| 2014-04-19 | 第19回LG杯予選 | Liao Xingwen | You Byungyong | Win | B+R | 6.5 | 3541.0 | 31.0 | 
 | 2014-04-01 | 第27期中国囲碁名人戦予選 |  | Liao Xingwen | Lose | B+1.5 | 7.5 | 3510.0 | -22.0 | 
 | 2014-03-27 | 第11期倡棋杯中国プロ囲碁選手権戦予選 | Huang Yunsong | Liao Xingwen | Lose | B+R | 7.5 | 3532.0 | 9.0 | 
 | 2014-01-15 | 第28期中国囲碁天元戦1回戦 | Fan Tingyu | Liao Xingwen | Lose | B+R | 7.5 | 3523.0 | -5.0 | 

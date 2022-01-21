@@ -7,10 +7,10 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Kim Jinhyu | Lee Jihyun | Lose | B+R | 6.5 | 3485.0 | -137.0 | 
-| 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 |  | Lee Jihyun | Win | W+R | 6.5 | 3622.0 | -17.0 | 
-| 2021-04-05 | 第22回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Lee Jihyun | Kim Jiseok | Lose | W+R | 6.5 | 3639.0 | -149.0 | 
-| 2021-03-29 | 第22回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Kim Jiseok | Lee Jihyun | Lose | B+R | 6.5 | 3788.0 | -43.0 | 
+| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Kim Jinhyu | Lee Jihyun | Lose | B+R | 6.5 | 3485.0 | -136.0 | 
+| 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 |  | Lee Jihyun | Win | W+R | 6.5 | 3621.0 | -17.0 | 
+| 2021-04-05 | 第22回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Lee Jihyun | Kim Jiseok | Lose | W+R | 6.5 | 3638.0 | -149.0 | 
+| 2021-03-29 | 第22回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Kim Jiseok | Lee Jihyun | Lose | B+R | 6.5 | 3787.0 | -44.0 | 
 | 2021-01-26 | 第22回マキシムコーヒー杯入神最強戦1回戦 | Lee Jihyun | Lee Yeongkyu | Win | B+R | 6.5 | 3831.0 | 340.0 | 
 | 2020-04-20 | 第21回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Shin Minjun | Lee Jihyun | Win | W+R | 6.5 | 3491.0 | 4.0 | 
 | 2020-04-13 | 第25回LG杯韓国予選 | Lee Hyeonwuk | Lee Jihyun | Lose | B+5.5 | 6.5 | 3487.0 | 0.0 | 
@@ -27,8 +27,8 @@
 | 2020-01-15 | 第3期韓国竜星戦32強戦 |  | Lee Jihyun | Win | W+R | 6.5 | 3471.0 | -5.0 | 
 | 2020-01-12 | 2019-2020韓国囲碁リーグ第15節第4試合第1局 | Ryu Suhang | Lee Jihyun | Lose | B+R | 6.5 | 3476.0 | -18.0 | 
 | 2020-01-07 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Lee Jihyun | Park Yeonghun | Win | B+R | 6.5 | 3494.0 | 13.0 | 
-| 2020-01-04 | 2019-2020韓国囲碁リーグ第14節第3試合第3局 | Byun Sangil | Lee Jihyun | Lose | B+R | 6.5 | 3481.0 | -20.0 | 
-| 2019-12-26 | 2019-2020韓国囲碁リーグ第13節第1試合第4局 | Yun Junsang | Lee Jihyun | Win | W+R | 6.5 | 3501.0 | -3.0 | 
+| 2020-01-04 | 2019-2020韓国囲碁リーグ第14節第3試合第3局 | Byun Sangil | Lee Jihyun | Lose | B+R | 6.5 | 3481.0 | -19.0 | 
+| 2019-12-26 | 2019-2020韓国囲碁リーグ第13節第1試合第4局 | Yun Junsang | Lee Jihyun | Win | W+R | 6.5 | 3500.0 | -4.0 | 
 | 2019-12-13 | 第25期GSカルテックス杯プロ棋戦予選決勝 | Lee Jihyun |  | Lose | W+R | 6.5 | 3504.0 | -23.0 | 
 | 2019-12-12 | 2019-2020韓国囲碁リーグ第11節第1試合第2局 | Lee Changho | Lee Jihyun | Win | W+R | 6.5 | 3527.0 | 6.0 | 
 | 2019-12-11 | 第25期GSカルテックス杯プロ棋戦予選 | Choi Jeong | Lee Jihyun | Win | W+R | 6.5 | 3521.0 | 5.0 | 
@@ -44,11 +44,11 @@
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第2戦 | Lee Jihyun | Xu Jiayang | Lose | W+0.5 | 6.5 | 3567.0 | 0.0 | 
 | 2019-10-14 | 第6回おかげ杯国際精鋭囲碁対抗戦第1戦 | Lee Jihyun | Xu Haohong | Lose | W+1.5 | 6.5 | 3567.0 | -5.0 | 
 | 2019-10-06 | 2019-2020韓国囲碁リーグ第2節第4試合第4局 | Jin Siyoung | Lee Jihyun | Win | W+R | 6.5 | 3572.0 | 29.0 | 
-| 2019-09-29 | 2019-2020韓国囲碁リーグ第1節第4試合第2局 | Shen Zaiyi | Lee Jihyun | Win | W+R | 6.5 | 3543.0 | 18.0 | 
-| 2019-09-18 | 第3回安東市真貯蓄銀行杯プロアマオープン戦準決勝 | Shin Minjun | Lee Jihyun | Lose | B+R | 6.5 | 3525.0 | -1.0 | 
-| 2019-09-10 | 第3回安東市真貯蓄銀行杯プロアマオープン戦8強戦 | Lee Jihyun | Kim Jiseok | Win | B+R | 6.5 | 3526.0 | 0.0 | 
-| 2019-09-10 | 第3回安東市真貯蓄銀行杯プロアマオープン戦16強戦 | Lee Jihyun |  | Win | B+R | 6.5 | 3526.0 | 30.0 | 
-| 2019-09-09 | 第3回安東市真貯蓄銀行杯プロアマオープン戦64強戦 | Kim Jinhyu | Lee Jihyun | Win | W+R | 6.5 | 3496.0 | 88.0 | 
+| 2019-09-29 | 2019-2020韓国囲碁リーグ第1節第4試合第2局 | Shen Zaiyi | Lee Jihyun | Win | W+R | 6.5 | 3543.0 | 19.0 | 
+| 2019-09-18 | 第3回安東市真貯蓄銀行杯プロアマオープン戦準決勝 | Shin Minjun | Lee Jihyun | Lose | B+R | 6.5 | 3524.0 | -1.0 | 
+| 2019-09-10 | 第3回安東市真貯蓄銀行杯プロアマオープン戦8強戦 | Lee Jihyun | Kim Jiseok | Win | B+R | 6.5 | 3525.0 | 0.0 | 
+| 2019-09-10 | 第3回安東市真貯蓄銀行杯プロアマオープン戦16強戦 | Lee Jihyun |  | Win | B+R | 6.5 | 3525.0 | 30.0 | 
+| 2019-09-09 | 第3回安東市真貯蓄銀行杯プロアマオープン戦64強戦 | Kim Jinhyu | Lee Jihyun | Win | W+R | 6.5 | 3495.0 | 87.0 | 
 | 2019-08-03 | 第6回国手山脈国際囲碁大会世界プロ最強戦16強戦 | Liao Yuanhe | Lee Jihyun | Lose | B+R | 6.5 | 3408.0 | -78.0 | 
 | 2019-07-26 | 第21回農心杯韓国選抜戦 | Lee Jihyun | Park Junghwan | Lose | W+R | 6.5 | 3486.0 | -4.0 | 
 | 2019-07-18 | 第21回農心杯韓国選抜戦 | Choi Cheolhan | Lee Jihyun | Win | W+R | 6.5 | 3490.0 | 5.0 | 
@@ -106,8 +106,8 @@
 | 2018-03-27 | 韓国ナショナルチームリーグ戦 | Lee Jihyun | Kang Dongyun | Lose | W+R | 6.5 | 3560.0 | -5.0 | 
 | 2018-03-18 | 第1回韓国竜星戦32強ダブルエリミネーションG3 | You Byungyong | Lee Jihyun | Win | W+R | 6.5 | 3565.0 | 2.0 | 
 | 2018-03-16 | 第1回韓国竜星戦32強ダブルエリミネーションG2 | Shin Minjun | Lee Jihyun | Win | W+R | 6.5 | 3563.0 | 33.0 | 
-| 2018-02-05 | 韓国ナショナルチームリーグ戦 | Lee Jihyun | Kim Jiseok | Lose | W+R | 6.5 | 3530.0 | -7.0 | 
-| 2018-01-22 | 韓国ナショナルチームリーグ戦 | Weon Seongjin | Lee Jihyun | Win | W+2.5 | 6.5 | 3537.0 | 20.0 | 
+| 2018-02-05 | 韓国ナショナルチームリーグ戦 | Lee Jihyun | Kim Jiseok | Lose | W+R | 6.5 | 3530.0 | -6.0 | 
+| 2018-01-22 | 韓国ナショナルチームリーグ戦 | Weon Seongjin | Lee Jihyun | Win | W+2.5 | 6.5 | 3536.0 | 19.0 | 
 | 2017-12-16 | 第1回クラウン・ヘテ杯1回戦 | Song Jihoon | Lee Jihyun | Lose | B+R | 6.5 | 3517.0 | -3.0 | 
 | 2017-10-28 | 2017年韓国囲碁リーグ | Ahn Kukhyun | Lee Jihyun | Win | W+R | 6.5 | 3520.0 | 31.0 | 
 | 2017-10-21 | 2017年韓国囲碁リーグ | Lee Jihyun | Yun Chanhee | Win | B+R | 6.5 | 3489.0 | -49.0 | 
@@ -182,9 +182,9 @@
 | 2015-06-12 | 2015年韓国囲碁リーグ |  | Lee Jihyun | Win | W+11.5 | 6.5 | 3535.0 | 19.0 | 
 | 2015-06-10 | 第20回LG杯朝鮮日報棋王戦2回戦 | Lee Jihyun | Shi Yue | Lose | W+R | 6.5 | 3516.0 | -12.0 | 
 | 2015-06-08 | 第20回LG杯朝鮮日報棋王戦1回戦 | Lee Jihyun | Tang Weixing | Win | B+R | 6.5 | 3528.0 | 22.0 | 
-| 2015-05-31 | 2015年韓国囲碁リーグ | Lee Jihyun |  | Win | B+R | 6.5 | 3506.0 | 45.0 | 
-| 2015-05-19 | 2015年中国囲碁乙級リーグ | Lee Jihyun | Chen Shiyuan | Win | B+R | 7.5 | 3461.0 | -11.0 | 
-| 2015-05-13 | 2015年中国囲碁乙級リーグ | Lee Jihyun | An Dongxu | Lose | W+R | 7.5 | 3472.0 | -20.0 | 
+| 2015-05-31 | 2015年韓国囲碁リーグ | Lee Jihyun |  | Win | B+R | 6.5 | 3506.0 | 46.0 | 
+| 2015-05-19 | 2015年中国囲碁乙級リーグ | Lee Jihyun | Chen Shiyuan | Win | B+R | 7.5 | 3460.0 | -11.0 | 
+| 2015-05-13 | 2015年中国囲碁乙級リーグ | Lee Jihyun | An Dongxu | Lose | W+R | 7.5 | 3471.0 | -21.0 | 
 | 2015-05-10 | 2015年韓国囲碁リーグ | Lee Changseok | Lee Jihyun | Lose | B+R | 6.5 | 3492.0 | 15.0 | 
 | 2015-04-26 | 2015年韓国囲碁リーグ | Lee Jihyun | Kim Myounghoon | Lose | W+R | 6.5 | 3477.0 | -29.0 | 
 | 2015-04-17 | 第20回LG杯予選 | Lee Jihyun | Jiang Weijie | Win | B+R | 6.5 | 3506.0 | 33.0 | 
@@ -202,20 +202,20 @@
 | 2014-09-05 | 2014年韓国囲碁リーグ | Lee Jihyun | Kim Junghyun | Lose | W+R | 6.5 | 3405.0 | -1.0 | 
 | 2014-08-31 | 2014年韓国囲碁リーグ | Jin Siyoung | Lee Jihyun | Win | W+R | 6.5 | 3406.0 | 20.0 | 
 | 2014-08-29 | 2014年レッツランパーク杯オープントーナメント2回戦 | Lee Jihyun | Kim Jinhyu | Win | B+R | 6.5 | 3386.0 | -28.0 | 
-| 2014-08-09 | 2014年韓国囲碁リーグ | Lee Hobum | Lee Jihyun | Lose | B+R | 6.5 | 3414.0 | -13.0 | 
-| 2014-08-06 | 第19回三星火災杯統合予選決勝 | Zhou Ruiyang | Lee Jihyun | Lose | B+R | 6.5 | 3427.0 | -58.0 | 
-| 2014-07-28 | 第42期名人戦（韓国）1回戦 | Park Yeonghun | Lee Jihyun | Lose | B+R | 6.5 | 3485.0 | -13.0 | 
-| 2014-07-19 | 2014年韓国囲碁リーグ | Lee Jihyun | Kim Juho | Lose | W+R | 6.5 | 3498.0 | -66.0 | 
-| 2014-07-04 | 2014年韓国囲碁リーグ | Lee Jihyun | Lee Taehyun | Win | B+R | 6.5 | 3564.0 | 51.0 | 
-| 2014-07-01 | 第33回KBS杯囲碁王戦本戦2回戦 | Lee Sedol | Lee Jihyun | Lose | B+R | 6.5 | 3513.0 | -9.0 | 
-| 2014-06-16 | 第33回KBS杯囲碁王戦本戦1回戦 | Lee Jihyun | Kim Hyeoimin | Win | B+R | 6.5 | 3522.0 | -14.0 | 
-| 2014-06-14 | 2014年韓国囲碁リーグ | Lee Jihyun | Kim Seongjae | Lose | W+R | 6.5 | 3536.0 | 19.0 | 
+| 2014-08-09 | 2014年韓国囲碁リーグ | Lee Hobum | Lee Jihyun | Lose | B+R | 6.5 | 3414.0 | -12.0 | 
+| 2014-08-06 | 第19回三星火災杯統合予選決勝 | Zhou Ruiyang | Lee Jihyun | Lose | B+R | 6.5 | 3426.0 | -58.0 | 
+| 2014-07-28 | 第42期名人戦（韓国）1回戦 | Park Yeonghun | Lee Jihyun | Lose | B+R | 6.5 | 3484.0 | -14.0 | 
+| 2014-07-19 | 2014年韓国囲碁リーグ | Lee Jihyun | Kim Juho | Lose | W+R | 6.5 | 3498.0 | -65.0 | 
+| 2014-07-04 | 2014年韓国囲碁リーグ | Lee Jihyun | Lee Taehyun | Win | B+R | 6.5 | 3563.0 | 50.0 | 
+| 2014-07-01 | 第33回KBS杯囲碁王戦本戦2回戦 | Lee Sedol | Lee Jihyun | Lose | B+R | 6.5 | 3513.0 | -8.0 | 
+| 2014-06-16 | 第33回KBS杯囲碁王戦本戦1回戦 | Lee Jihyun | Kim Hyeoimin | Win | B+R | 6.5 | 3521.0 | -14.0 | 
+| 2014-06-14 | 2014年韓国囲碁リーグ | Lee Jihyun | Kim Seongjae | Lose | W+R | 6.5 | 3535.0 | 18.0 | 
 | 2014-05-29 | 2014年韓国囲碁リーグ |  | Lee Jihyun | Lose | B+R | 6.5 | 3517.0 | -45.0 | 
 | 2014-05-25 | 2014年韓国囲碁リーグ | Lee Jihyun | Hong Minpyo | Win | B+T | 6.5 | 3562.0 | -47.0 | 
-| 2014-05-09 | 2014年韓国囲碁リーグ | Lee Jihyun | Choi Cheolhan | Lose | W+R | 6.5 | 3609.0 | -40.0 | 
-| 2014-04-28 | 2014年中国囲碁乙級リーグ | Liu Xing | Lee Jihyun | Win | W+R | 7.5 | 3649.0 | 0.0 | 
-| 2014-04-26 | 2014年中国囲碁乙級リーグ | Lee Jihyun | Lian Xiao | Win | B+R | 7.5 | 3649.0 | 11.0 | 
-| 2014-04-21 | 2014年中国囲碁乙級リーグ |  | Lee Jihyun | Win | W+R | 7.5 | 3638.0 | 25.0 | 
+| 2014-05-09 | 2014年韓国囲碁リーグ | Lee Jihyun | Choi Cheolhan | Lose | W+R | 6.5 | 3609.0 | -39.0 | 
+| 2014-04-28 | 2014年中国囲碁乙級リーグ | Liu Xing | Lee Jihyun | Win | W+R | 7.5 | 3648.0 | 0.0 | 
+| 2014-04-26 | 2014年中国囲碁乙級リーグ | Lee Jihyun | Lian Xiao | Win | B+R | 7.5 | 3648.0 | 11.0 | 
+| 2014-04-21 | 2014年中国囲碁乙級リーグ |  | Lee Jihyun | Win | W+R | 7.5 | 3637.0 | 24.0 | 
 | 2014-04-10 | 2014年韓国囲碁リーグ | Lee Changho | Lee Jihyun | Win | W+1.5 | 6.5 | 3613.0 | 8.0 | 
 | 2014-03-23 | 第4期招商地産杯中韓囲棋団体対抗戦第2戦 | Mi Yuting | Lee Jihyun | Lose | B+R | 7.5 | 3605.0 | -9.0 | 
 | 2014-03-21 | 第4期招商地産杯中韓囲棋団体対抗戦第1戦 | Lee Jihyun | Tang Weixing | Lose | W+R | 7.5 | 3614.0 | 12.0 | 
@@ -233,10 +233,10 @@
 | 2013-09-12 | 第4期Olleh杯オープン選手権3回戦 | Lee Jihyun | Kim Junghyun | Lose | W+R | 6.5 | 3574.0 | 76.0 | 
 | 2013-08-30 | 2013年韓国囲碁リーグ | Kang Dongyun | Lee Jihyun | Win | W+R | 6.5 | 3498.0 | 26.0 | 
 | 2013-08-20 | 第41期名人戦（韓国）1回戦 | Lee Jihyun | Hong Minpyo | Win | B+2.5 | 6.5 | 3472.0 | -1.0 | 
-| 2013-08-15 | 2013年韓国囲碁リーグ | Min Sangyoun | Lee Jihyun | Win | W+R | 6.5 | 3473.0 | 30.0 | 
-| 2013-08-04 | 2013年韓国囲碁リーグ | Mok Jinseok | Lee Jihyun | Win | W+R | 6.5 | 3443.0 | 31.0 | 
-| 2013-07-21 | 2013年韓国囲碁リーグ | Lee Jihyun | Han Wonggyu | Lose | W+R | 6.5 | 3412.0 | 16.0 | 
-| 2013-07-03 | 第9期物価情報杯プロ棋戦リーグB | Lee Changho | Lee Jihyun | Lose | B+R | 6.5 | 3396.0 | -41.0 | 
+| 2013-08-15 | 2013年韓国囲碁リーグ | Min Sangyoun | Lee Jihyun | Win | W+R | 6.5 | 3473.0 | 31.0 | 
+| 2013-08-04 | 2013年韓国囲碁リーグ | Mok Jinseok | Lee Jihyun | Win | W+R | 6.5 | 3442.0 | 30.0 | 
+| 2013-07-21 | 2013年韓国囲碁リーグ | Lee Jihyun | Han Wonggyu | Lose | W+R | 6.5 | 3412.0 | 17.0 | 
+| 2013-07-03 | 第9期物価情報杯プロ棋戦リーグB | Lee Changho | Lee Jihyun | Lose | B+R | 6.5 | 3395.0 | -42.0 | 
 | 2013-06-28 | 2013年韓国囲碁リーグ | Lee Jihyun | On Sojin | Lose | W+R | 6.5 | 3437.0 | 52.0 | 
 | 2013-06-05 | 第9期物価情報杯プロ棋戦リーグB | Kim Seongjae | Lee Jihyun | Lose | B+R | 6.5 | 3385.0 | -37.0 | 
 | 2013-06-02 | 2013年韓国囲碁リーグ | Lee Jihyun | Lee Yeongkyu | Lose | W+R | 6.5 | 3422.0 | -125.0 | 

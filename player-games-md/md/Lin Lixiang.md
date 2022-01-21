@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-21 | 第21期天元戦（台湾）勝部2回戦 | Lin Lixiang | Li Wei | Lose | W+2.5 | 6.5 | 3190.0 | -17.0 | 
 | 2022-01-18 | 第21期天元戦（台湾）勝部1回戦 | Lin Shuyang | Lin Lixiang | Win | W+4.5 | 6.5 | 3207.0 | 5.0 | 
 | 2022-01-17 | 第14回海峰杯プロ囲碁戦4回戦 | Lin Lixiang | Wang Yuanjun | Lose | W+R | 6.5 | 3202.0 | 7.0 | 
 | 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Lin Lixiang | Chen Shiyuan | Win | B+R | 6.5 | 3195.0 | 10.0 | 
@@ -339,9 +340,9 @@
 | 2015-05-19 | 2015年中国囲碁乙級リーグ | Wang Shuo | Lin Lixiang | Lose | B+R | 7.5 | 2967.0 | -24.0 | 
 | 2015-05-17 | 2015年中国囲碁乙級リーグ | Lin Lixiang |  | Lose | W+R | 7.5 | 2991.0 | -12.0 | 
 | 2015-05-16 | 2015年中国囲碁乙級リーグ | Yi Lingtao | Lin Lixiang | Win | W+R | 7.5 | 3003.0 | 50.0 | 
-| 2015-05-14 | 2015年中国囲碁乙級リーグ | Lin Lixiang | Jiang Wei | Lose | W+0.5 | 7.5 | 2953.0 | -16.0 | 
-| 2015-05-13 | 2015年中国囲碁乙級リーグ | Liao Yuanhe | Lin Lixiang | Lose | B+R | 7.5 | 2969.0 | 8.0 | 
-| 2015-05-12 | 2015年中国囲碁乙級リーグ | Lin Lixiang |  | Win | B+1.5 | 7.5 | 2961.0 | -91.0 | 
+| 2015-05-14 | 2015年中国囲碁乙級リーグ | Lin Lixiang | Jiang Wei | Lose | W+0.5 | 7.5 | 2953.0 | -15.0 | 
+| 2015-05-13 | 2015年中国囲碁乙級リーグ | Liao Yuanhe | Lin Lixiang | Lose | B+R | 7.5 | 2968.0 | 8.0 | 
+| 2015-05-12 | 2015年中国囲碁乙級リーグ | Lin Lixiang |  | Win | B+1.5 | 7.5 | 2960.0 | -92.0 | 
 | 2015-05-05 | 第14期天元戦（台湾）リーグ | Lin Lixiang | Chen Shiyuan | Lose | W+1.5 | 6.5 | 3052.0 | -39.0 | 
 | 2015-04-28 | 第14期天元戦（台湾）リーグ | Lin Lixiang | Yang Bowei | Lose | W+R | 6.5 | 3091.0 | -12.0 | 
 | 2015-04-21 | 第14期天元戦（台湾）リーグ | Lin Shuyang | Lin Lixiang | Win | W+R | 6.5 | 3103.0 | 37.0 | 
@@ -369,8 +370,8 @@
 | 2014-10-03 | 2014年国際新鋭囲碁対抗戦第3戦 | Lin Lixiang | Li Xuanhao | Lose | W+R | 6.5 | 3095.0 | 17.0 | 
 | 2014-10-02 | 2014年国際新鋭囲碁対抗戦第2戦 | Lin Lixiang | Hirata Tomoya | Lose | W+R | 6.5 | 3078.0 | -33.0 | 
 | 2014-10-01 | 2014年国際新鋭囲碁対抗戦第1戦 | Lin Lixiang | Han Seungjoo | Lose | W+R | 6.5 | 3111.0 | 15.0 | 
-| 2014-09-29 | 第7期棋王戦（台湾）リーグ | Lin Junyan | Lin Lixiang | Win | W+R | 6.5 | 3096.0 | 99.0 | 
-| 2014-07-25 | 第2期中環碁聖戦決勝三番勝負第3局 | Lin Lixiang | Chen Shiyuan | Lose | W+R | 6.5 | 2997.0 | -77.0 | 
+| 2014-09-29 | 第7期棋王戦（台湾）リーグ | Lin Junyan | Lin Lixiang | Win | W+R | 6.5 | 3096.0 | 100.0 | 
+| 2014-07-25 | 第2期中環碁聖戦決勝三番勝負第3局 | Lin Lixiang | Chen Shiyuan | Lose | W+R | 6.5 | 2996.0 | -78.0 | 
 | 2014-07-01 | 第13期天元戦（台湾）挑戦手合五番勝負第4局 | Lin Lixiang | Xiao Zhenghao | Lose | W+2.5 | 6.5 | 3074.0 | -21.0 | 
 | 2014-06-29 | 第2期中環碁聖戦決勝三番勝負第2局 | Lin Lixiang | Chen Shiyuan | Lose | W+R | 6.5 | 3095.0 | 7.0 | 
 | 2014-06-24 | 第13期天元戦（台湾）挑戦手合五番勝負第3局 | Xiao Zhenghao | Lin Lixiang | Win | W+R | 6.5 | 3088.0 | 22.0 | 

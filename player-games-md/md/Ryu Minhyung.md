@@ -15,9 +15,9 @@
 | 2021-12-23 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Choi Jaeyoung | Lose | W+R | 6.5 | 3545.0 | 4.0 | 
 | 2021-12-19 | 2021-2022フューチャーズリーグ | Ryu Minhyung | Shin Jaeweon | Win | B+R | 6.5 | 3541.0 | -3.0 | 
 | 2021-12-18 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Kim Junghyun | Win | B+R | 6.5 | 3544.0 | 102.0 | 
-| 2021-12-04 | 2021-2022フューチャーズリーグ |  | Ryu Minhyung | Win | W+R | 6.5 | 3442.0 | 16.0 | 
-| 2021-11-27 | 2021-2022フューチャーズリーグ |  | Ryu Minhyung | Win | W+R | 6.5 | 3426.0 | 248.0 | 
-| 2021-11-25 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Yun Chanhee | Win | B+R | 6.5 | 3178.0 | -41.0 | 
+| 2021-12-04 | 2021-2022フューチャーズリーグ |  | Ryu Minhyung | Win | W+R | 6.5 | 3442.0 | 17.0 | 
+| 2021-11-27 | 2021-2022フューチャーズリーグ |  | Ryu Minhyung | Win | W+R | 6.5 | 3425.0 | 248.0 | 
+| 2021-11-25 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Yun Chanhee | Win | B+R | 6.5 | 3177.0 | -42.0 | 
 | 2021-08-23 | 第26回三星火災杯韓国予選 | Ryu Minhyung | Park Yeonghun | Lose | W+R | 6.5 | 3219.0 | 147.0 | 
 | 2019-05-16 | 2019年囲碁テレビ杯早碁戦32強戦 | Byun Sangil | Ryu Minhyung | Lose | B+R | 6.5 | 3072.0 | -183.0 | 
 | 2018-09-28 | 2018年韓国囲碁リーグ第13節 | Ryu Minhyung | Na Hyun | Lose | W+R | 6.5 | 3255.0 | -6.0 | 
@@ -36,15 +36,15 @@
 | 2018-03-15 | 第1回韓国竜星戦32強ダブルエリミネーションA2 | Kim Jiseok | Ryu Minhyung | Lose | B+R | 6.5 | 3476.0 | 28.0 | 
 | 2017-10-29 | 2017年韓国囲碁リーグ | Ryu Minhyung | Park Hamin | Lose | W+R | 6.5 | 3448.0 | -28.0 | 
 | 2017-10-12 | 2017年韓国囲碁リーグ | Weon Seongjin | Ryu Minhyung | Win | W+R | 6.5 | 3476.0 | -19.0 | 
-| 2017-10-06 | 2017年韓国囲碁リーグ | Byun Sangil | Ryu Minhyung | Lose | B+R | 6.5 | 3495.0 | -37.0 | 
-| 2017-09-30 | 2017年韓国囲碁リーグ | Hong Seongji | Ryu Minhyung | Win | W+5.5 | 6.5 | 3532.0 | 74.0 | 
+| 2017-10-06 | 2017年韓国囲碁リーグ | Byun Sangil | Ryu Minhyung | Lose | B+R | 6.5 | 3495.0 | -36.0 | 
+| 2017-09-30 | 2017年韓国囲碁リーグ | Hong Seongji | Ryu Minhyung | Win | W+5.5 | 6.5 | 3531.0 | 73.0 | 
 | 2017-09-24 | 2017年韓国囲碁リーグ | Ryu Minhyung | Lee Jihyun | Lose | W+R | 6.5 | 3458.0 | 13.0 | 
 | 2017-09-14 | 2017年韓国囲碁リーグ | Ryu Minhyung | Kim Jiseok | Lose | W+R | 6.5 | 3445.0 | -25.0 | 
 | 2017-09-01 | 2017年韓国囲碁リーグ | Kang Yootaek | Ryu Minhyung | Lose | B+R | 6.5 | 3470.0 | -19.0 | 
 | 2017-08-27 | 2017年韓国囲碁リーグ | Cho Hanseung | Ryu Minhyung | Win | W+R | 6.5 | 3489.0 | 38.0 | 
 | 2017-08-17 | 2017年韓国囲碁リーグ | Han Seungjoo | Ryu Minhyung | Lose | B+2.5 | 6.5 | 3451.0 | -2.0 | 
-| 2017-08-06 | 2017年韓国囲碁リーグ | Han Taehee | Ryu Minhyung | Win | W+R | 6.5 | 3453.0 | 55.0 | 
-| 2017-07-22 | 2017年韓国囲碁リーグ | Ryu Minhyung | Choi Cheolhan | Win | B+R | 6.5 | 3398.0 | 79.0 | 
+| 2017-08-06 | 2017年韓国囲碁リーグ | Han Taehee | Ryu Minhyung | Win | W+R | 6.5 | 3453.0 | 56.0 | 
+| 2017-07-22 | 2017年韓国囲碁リーグ | Ryu Minhyung | Choi Cheolhan | Win | B+R | 6.5 | 3397.0 | 78.0 | 
 | 2017-07-14 | 2017年韓国囲碁リーグ | Ryu Minhyung | An Sungjoon | Lose | W+R | 6.5 | 3319.0 | -54.0 | 
 | 2017-07-06 | 第19回農心杯韓国選抜戦 | Park Siyeol | Ryu Minhyung | Win | W+3.5 | 6.5 | 3373.0 | 0.0 | 
 | 2017-07-06 | 2017年韓国囲碁リーグ | Ryu Minhyung | Lee Changseok | Win | B+R | 6.5 | 3373.0 | 60.0 | 
@@ -77,8 +77,8 @@
 | 2015-09-19 | 2015年韓国囲碁リーグ | Hong Kipyo | Ryu Minhyung | Win | W+1.5 | 6.5 | 3488.0 | 37.0 | 
 | 2015-09-06 | 2015年韓国囲碁リーグ | Lee Hobum | Ryu Minhyung | Lose | B+R | 6.5 | 3451.0 | -11.0 | 
 | 2015-08-29 | 2015年韓国囲碁リーグ | Ryu Minhyung | Kim Junghyun | Win | B+R | 6.5 | 3462.0 | 17.0 | 
-| 2015-08-20 | 2015年韓国囲碁リーグ | Heo Yongho | Ryu Minhyung | Win | W+R | 6.5 | 3445.0 | 30.0 | 
-| 2015-07-23 | 2015年韓国囲碁リーグ | Paek Hongseok | Ryu Minhyung | Win | W+R | 6.5 | 3415.0 | 35.0 | 
+| 2015-08-20 | 2015年韓国囲碁リーグ | Heo Yongho | Ryu Minhyung | Win | W+R | 6.5 | 3445.0 | 31.0 | 
+| 2015-07-23 | 2015年韓国囲碁リーグ | Paek Hongseok | Ryu Minhyung | Win | W+R | 6.5 | 3414.0 | 34.0 | 
 | 2015-07-16 | 2015年韓国囲碁リーグ | Shin Jinseo | Ryu Minhyung | Lose | B+R | 6.5 | 3380.0 | -53.0 | 
 | 2015-07-04 | 2015年韓国囲碁リーグ | Ryu Minhyung | Park Junghwan | Lose | W+R | 6.5 | 3433.0 | -27.0 | 
 | 2015-06-25 | 2015年韓国囲碁リーグ | Park Yeonghun | Ryu Minhyung | Win | W+R | 6.5 | 3460.0 | 33.0 | 
@@ -101,15 +101,15 @@
 | 2014-09-06 | 2014年韓国囲碁リーグ | Ryu Minhyung |  | Lose | W+R | 6.5 | 3337.0 | 8.0 | 
 | 2014-08-16 | 2014年フューチャーズリーグ | Ryu Minhyung | Kim Dongho | Lose | W+R | 6.5 | 3329.0 | -23.0 | 
 | 2014-08-15 | 2014年韓国囲碁リーグ | Ryu Minhyung | Kim Dongho | Win | B+R | 6.5 | 3352.0 | 12.0 | 
-| 2014-08-09 | 2014年フューチャーズリーグ | Shin Yoonho | Ryu Minhyung | Lose | B+R | 6.5 | 3340.0 | -31.0 | 
-| 2014-08-07 | 2014年韓国囲碁リーグ | Ryu Minhyung | Han Sanghoon | Win | B+R | 6.5 | 3371.0 | -18.0 | 
-| 2014-07-12 | 2014年フューチャーズリーグ | Ryu Minhyung | Lee Huiseong | Win | B+R | 6.5 | 3389.0 | 19.0 | 
-| 2014-07-10 | 2014年韓国囲碁リーグ | Ryu Minhyung | Byun Sangil | Win | B+R | 6.5 | 3370.0 | 25.0 | 
-| 2014-06-15 | 2014年韓国囲碁リーグ | Ryu Minhyung | Kim Jinhyu | Win | B+R | 6.5 | 3345.0 | 66.0 | 
+| 2014-08-09 | 2014年フューチャーズリーグ | Shin Yoonho | Ryu Minhyung | Lose | B+R | 6.5 | 3340.0 | -30.0 | 
+| 2014-08-07 | 2014年韓国囲碁リーグ | Ryu Minhyung | Han Sanghoon | Win | B+R | 6.5 | 3370.0 | -18.0 | 
+| 2014-07-12 | 2014年フューチャーズリーグ | Ryu Minhyung | Lee Huiseong | Win | B+R | 6.5 | 3388.0 | 19.0 | 
+| 2014-07-10 | 2014年韓国囲碁リーグ | Ryu Minhyung | Byun Sangil | Win | B+R | 6.5 | 3369.0 | 25.0 | 
+| 2014-06-15 | 2014年韓国囲碁リーグ | Ryu Minhyung | Kim Jinhyu | Win | B+R | 6.5 | 3344.0 | 65.0 | 
 | 2014-06-05 | 2014年韓国囲碁リーグ |  | Ryu Minhyung | Win | W+R | 6.5 | 3279.0 | 12.0 | 
 | 2014-05-24 | 2014年フューチャーズリーグ | Kim Minho | Ryu Minhyung | Lose | B+R | 6.5 | 3267.0 | -19.0 | 
-| 2014-05-11 | 2014年フューチャーズリーグ | Ryu Minhyung |  | Win | B+6.5 | 6.5 | 3286.0 | -80.0 | 
-| 2014-04-13 | 2014年フューチャーズリーグ | Shin Yoonho | Ryu Minhyung | Win | W+R | 6.5 | 3366.0 | 5.0 | 
+| 2014-05-11 | 2014年フューチャーズリーグ | Ryu Minhyung |  | Win | B+6.5 | 6.5 | 3286.0 | -79.0 | 
+| 2014-04-13 | 2014年フューチャーズリーグ | Shin Yoonho | Ryu Minhyung | Win | W+R | 6.5 | 3365.0 | 4.0 | 
 | 2014-03-31 | 第33回KBS杯囲碁王戦本戦1回戦 | Ryu Minhyung | Lee Donghoon | Lose | W+1.5 | 6.5 | 3361.0 | 40.0 | 
 | 2013-11-22 | 2013年楽スターリーグ |  | Ryu Minhyung | Lose | B+5.5 | 6.5 | 3321.0 | -33.0 | 
 | 2013-11-10 | 2013年楽スターリーグ | Baek Chanhee | Ryu Minhyung | Win | W+R | 6.5 | 3354.0 | 104.0 | 

@@ -8,8 +8,8 @@
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Meng Tailing | Wu Guangya | Win | B+R | 7.5 | 3538.0 | 22.0 | 
-| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Chen Zhengxun | Meng Tailing | Win | W+R | 7.5 | 3516.0 | 81.0 | 
-| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Meng Tailing | Fan Yin | Lose | W+R | 7.5 | 3435.0 | -19.0 | 
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Chen Zhengxun | Meng Tailing | Win | W+R | 7.5 | 3516.0 | 82.0 | 
+| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Meng Tailing | Fan Yin | Lose | W+R | 7.5 | 3434.0 | -20.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Ye Changxin | Meng Tailing | Win | W+R | 7.5 | 3454.0 | 2.0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Meng Tailing | Chen Yaoye | Lose | W+R | 7.5 | 3452.0 | -5.0 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Meng Tailing | Win | W+R | 7.5 | 3457.0 | 10.0 | 
@@ -45,8 +45,8 @@
 | 2019-10-13 | 第4回Mlily夢百合杯世界囲碁オープン戦16強戦 | Meng Tailing | Park Yeonghun | Win | B+R | 7.5 | 3593.0 | 3.0 | 
 | 2019-10-11 | 第4回Mlily夢百合杯世界囲碁オープン戦32強戦 | Meng Tailing | Li Xuanhao | Win | B+R | 7.5 | 3590.0 | 18.0 | 
 | 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Meng Tailing | Liu Zhaozhe | Win | B+R | 7.5 | 3572.0 | 82.0 | 
-| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Jiang Weijie | Meng Tailing | Lose | B+R | 7.5 | 3490.0 | -10.0 | 
-| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Meng Tailing | Fan Yunruo | Lose | W+R | 7.5 | 3500.0 | 26.0 | 
+| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Jiang Weijie | Meng Tailing | Lose | B+R | 7.5 | 3490.0 | -9.0 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Meng Tailing | Fan Yunruo | Lose | W+R | 7.5 | 3499.0 | 25.0 | 
 | 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Park Junghwan | Meng Tailing | Lose | B+R | 7.5 | 3474.0 | -19.0 | 
 | 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Mi Yuting | Meng Tailing | Win | W+R | 7.5 | 3493.0 | -7.0 | 
 | 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Meng Tailing | Shi Yue | Lose | W+R | 7.5 | 3500.0 | 0.0 | 
@@ -63,11 +63,11 @@
 | 2019-03-11 | 第10期中国竜星戦Bブロック4回戦 | Liao Yuanhe | Meng Tailing | Win | W+R | 7.5 | 3498.0 | 11.0 | 
 | 2019-03-10 | 第10期中国竜星戦Bブロック3回戦 | Ding Hao | Meng Tailing | Win | W+R | 7.5 | 3487.0 | 4.0 | 
 | 2019-03-04 | 第16期倡棋杯中国プロ囲棋選手権戦2回戦 | Meng Tailing | Chen Xian | Lose | W+R | 7.5 | 3483.0 | -13.0 | 
-| 2019-02-25 | 第4期洛陽白雲山杯中国棋聖戦本戦1回戦 | Meng Tailing | Fan Yunruo | Lose | W+R | 7.5 | 3496.0 | 24.0 | 
-| 2019-01-04 | 第33期中国囲碁天元戦1回戦 | Meng Tailing | Zhou Ruiyang | Lose | W+R | 7.5 | 3472.0 | -6.0 | 
-| 2019-01-03 | 第33期中国囲碁天元戦予選 | Meng Tailing | Gu Li | Win | B+R | 7.5 | 3478.0 | 10.0 | 
-| 2018-12-28 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Meng Tailing | Ding Shixiong | Win | B+R | 7.5 | 3468.0 | 5.0 | 
-| 2018-12-27 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Meng Tailing | Wu Guangya | Win | B+R | 7.5 | 3463.0 | 16.0 | 
+| 2019-02-25 | 第4期洛陽白雲山杯中国棋聖戦本戦1回戦 | Meng Tailing | Fan Yunruo | Lose | W+R | 7.5 | 3496.0 | 25.0 | 
+| 2019-01-04 | 第33期中国囲碁天元戦1回戦 | Meng Tailing | Zhou Ruiyang | Lose | W+R | 7.5 | 3471.0 | -6.0 | 
+| 2019-01-03 | 第33期中国囲碁天元戦予選 | Meng Tailing | Gu Li | Win | B+R | 7.5 | 3477.0 | 10.0 | 
+| 2018-12-28 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Meng Tailing | Ding Shixiong | Win | B+R | 7.5 | 3467.0 | 5.0 | 
+| 2018-12-27 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Meng Tailing | Wu Guangya | Win | B+R | 7.5 | 3462.0 | 15.0 | 
 | 2018-12-14 | 第20回中国囲碁甲級リーグ第26節中信-天津 | Han Yizhou | Meng Tailing | Win | W+R | 7.5 | 3447.0 | 11.0 | 
 | 2018-12-12 | 第20回中国囲碁甲級リーグ第25節天津-杭州 | Meng Tailing |  | Lose | W+¼ | 7.5 | 3436.0 | 2.0 | 
 | 2018-12-03 | 第14期威孚房開杯棋王戦8強戦 | Gu Zihao | Meng Tailing | Lose | B+R | 7.5 | 3434.0 | 6.0 | 
@@ -110,11 +110,11 @@
 | 2018-03-07 | 第9期中国竜星戦予選 | Meng Tailing | Hu Yaoyu | Win | B+R | 7.5 | 3463.0 | 7.0 | 
 | 2018-03-06 | 第9期中国竜星戦予選 | Huang Yizhong | Meng Tailing | Win | W+R | 7.5 | 3456.0 | 0.0 | 
 | 2018-03-06 | 第9期中国竜星戦予選 | Meng Tailing | Hu Yaoyu | Win | B+R | 7.5 | 3456.0 | 14.0 | 
-| 2018-03-05 | 第9期中国竜星戦予選 | Cao Youyin | Meng Tailing | Win | W+R | 7.5 | 3442.0 | 15.0 | 
-| 2018-01-22 | 第32期中国囲碁天元戦予選 | Meng Tailing | Mao Ruilong | Lose | W+R | 7.5 | 3427.0 | 2.0 | 
+| 2018-03-05 | 第9期中国竜星戦予選 | Cao Youyin | Meng Tailing | Win | W+R | 7.5 | 3442.0 | 16.0 | 
+| 2018-01-22 | 第32期中国囲碁天元戦予選 | Meng Tailing | Mao Ruilong | Lose | W+R | 7.5 | 3426.0 | 1.0 | 
 | 2018-01-08 | 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Meng Tailing | Fan Yin | Lose | W+R | 7.5 | 3425.0 | -6.0 | 
-| 2018-01-07 | 第3期洛陽白雲山杯中国棋聖戦資格戦1 | Hu Yuhan | Meng Tailing | Win | W+R | 7.5 | 3431.0 | 11.0 | 
-| 2017-12-26 | 第13期威孚房開杯棋王戦8強戦 | Meng Tailing | Zhang Tao | Lose | W+R | 7.5 | 3420.0 | -25.0 | 
+| 2018-01-07 | 第3期洛陽白雲山杯中国棋聖戦資格戦1 | Hu Yuhan | Meng Tailing | Win | W+R | 7.5 | 3431.0 | 12.0 | 
+| 2017-12-26 | 第13期威孚房開杯棋王戦8強戦 | Meng Tailing | Zhang Tao | Lose | W+R | 7.5 | 3419.0 | -26.0 | 
 | 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Meng Tailing |  | Lose | W+R | 7.5 | 3445.0 | -11.0 | 
 | 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 |  | Meng Tailing | Win | W+1¼ | 7.5 | 3456.0 | 4.0 | 
 | 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Meng Tailing | Gu Li | Win | B+R | 7.5 | 3452.0 | 27.0 | 
@@ -123,12 +123,12 @@
 | 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Meng Tailing | Hu Yaoyu | Lose | W+R | 7.5 | 3457.0 | 4.0 | 
 | 2017-10-11 | 第13期威孚房開杯棋王戦16強戦 | Meng Tailing | Fan Tingyu | Win | B+3.5 | 7.5 | 3453.0 | 13.0 | 
 | 2017-10-10 | 第13期威孚房開杯棋王戦32強戦 | Meng Tailing | Fan Yunruo | Win | B+R | 7.5 | 3440.0 | 4.0 | 
-| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Huang Yunsong | Meng Tailing | Lose | B+R | 7.5 | 3436.0 | -37.0 | 
-| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Meng Tailing | Liao Xingwen | Win | B+R | 7.5 | 3473.0 | 29.0 | 
+| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Huang Yunsong | Meng Tailing | Lose | B+R | 7.5 | 3436.0 | -36.0 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Meng Tailing | Liao Xingwen | Win | B+R | 7.5 | 3472.0 | 28.0 | 
 | 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Meng Tailing | Huang Xin | Win | B+R | 7.5 | 3444.0 | -11.0 | 
 | 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Jiang Qirun | Meng Tailing | Win | W+R | 7.5 | 3455.0 | 4.0 | 
-| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Meng Tailing | Tao Xinran | Win | B+R | 7.5 | 3451.0 | 5.0 | 
-| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Tuo Jiaxi | Meng Tailing | Lose | B+R | 7.5 | 3446.0 | 34.0 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Meng Tailing | Tao Xinran | Win | B+R | 7.5 | 3451.0 | 6.0 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Tuo Jiaxi | Meng Tailing | Lose | B+R | 7.5 | 3445.0 | 33.0 | 
 | 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Meng Tailing | Xia Chenkun | Lose | W+R | 7.5 | 3412.0 | -17.0 | 
 | 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | An Dongxu | Meng Tailing | Lose | B+R | 7.5 | 3429.0 | -18.0 | 
 | 2017-08-03 | 嫘祖杯30回中国名人戦32強戦 | Mi Yuting | Meng Tailing | Lose | B+R | 7.5 | 3447.0 | 16.0 | 
@@ -145,8 +145,8 @@
 | 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Liu Xing | Meng Tailing | Win | W+R | 7.5 | 3445.0 | 27.0 | 
 | 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Meng Tailing | Fan Tingyu | Lose | W+R | 7.5 | 3418.0 | -8.0 | 
 | 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Meng Tailing | Fan Yin | Win | B+R | 7.5 | 3426.0 | 39.0 | 
-| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Meng Tailing | Xu Jiayang | Lose | W+2.5 | 7.5 | 3387.0 | -9.0 | 
-| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Tuo Jiaxi | Meng Tailing | Win | W+R | 7.5 | 3396.0 | -14.0 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Meng Tailing | Xu Jiayang | Lose | W+2.5 | 7.5 | 3387.0 | -8.0 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Tuo Jiaxi | Meng Tailing | Win | W+R | 7.5 | 3395.0 | -15.0 | 
 | 2017-04-21 | 第14期倡棋杯中国プロ囲碁選手権戦2回戦 | Meng Tailing | Yang Dingxin | Lose | W+R | 7.5 | 3410.0 | 13.0 | 
 | 2017-04-19 | 第14期倡棋杯中国プロ囲碁選手権戦1回戦 | Meng Tailing | Wu Guangya | Win | B+R | 7.5 | 3397.0 | 9.0 | 
 | 2017-04-17 | 第19期阿含・桐山杯中国早碁オープン戦予選 | Meng Tailing | Zhou Zhenyu | Win | B+1.5 | 7.5 | 3388.0 | 0.0 | 
@@ -220,11 +220,11 @@
 | 2015-09-29 | 第17回中国囲碁甲級リーグ第15節 | Xu Jiayang | Meng Tailing | Lose | B+R | 7.5 | 3514.0 | -11.0 | 
 | 2015-09-24 | 第17回中国囲碁甲級リーグ第14節 | Meng Tailing | Mao Ruilong | Lose | W+R | 7.5 | 3525.0 | -5.0 | 
 | 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Gong Yanyu | Meng Tailing | Win | W+R | 7.5 | 3530.0 | -12.0 | 
-| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Huang Yunsong | Meng Tailing | Lose | B+R | 7.5 | 3542.0 | -14.0 | 
-| 2015-08-04 | 第20回三星火災杯統合予選準決勝 | Gu Zihao | Meng Tailing | Lose | B+R | 6.5 | 3556.0 | -11.0 | 
-| 2015-08-03 | 第20回三星火災杯統合予選2回戦 | Han Chongjin | Meng Tailing | Win | W+R | 6.5 | 3567.0 | -12.0 | 
-| 2015-08-01 | 第20回三星火災杯統合予選1回戦 | Meng Tailing | Lee Hyeonwuk | Win | B+R | 6.5 | 3579.0 | 13.0 | 
-| 2015-07-29 | 第7期中国竜星戦予選 | Meng Tailing | An Dongxu | Lose | W+R | 7.5 | 3566.0 | 14.0 | 
+| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Huang Yunsong | Meng Tailing | Lose | B+R | 7.5 | 3542.0 | -13.0 | 
+| 2015-08-04 | 第20回三星火災杯統合予選準決勝 | Gu Zihao | Meng Tailing | Lose | B+R | 6.5 | 3555.0 | -11.0 | 
+| 2015-08-03 | 第20回三星火災杯統合予選2回戦 | Han Chongjin | Meng Tailing | Win | W+R | 6.5 | 3566.0 | -12.0 | 
+| 2015-08-01 | 第20回三星火災杯統合予選1回戦 | Meng Tailing | Lee Hyeonwuk | Win | B+R | 6.5 | 3578.0 | 13.0 | 
+| 2015-07-29 | 第7期中国竜星戦予選 | Meng Tailing | An Dongxu | Lose | W+R | 7.5 | 3565.0 | 13.0 | 
 | 2015-07-11 | 第17回中国囲碁甲級リーグ第11節 | Na Hyun | Meng Tailing | Win | W+R | 7.5 | 3552.0 | 1.0 | 
 | 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 | Meng Tailing | Li Qincheng | Win | B+R | 7.5 | 3551.0 | 1.0 | 
 | 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Fan Tingyu | Meng Tailing | Lose | B+R | 7.5 | 3550.0 | -35.0 | 
@@ -265,33 +265,33 @@
 | 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Meng Tailing |  | Win | B+R | 7.5 | 3400.0 | 14.0 | 
 | 2014-09-02 | 第6期中国竜星戦1回戦 | Tuo Jiaxi | Meng Tailing | Lose | B+R | 7.5 | 3386.0 | -27.0 | 
 | 2014-08-27 | 第19回三星火災杯世界囲碁マスターズ1回戦C2 | Meng Tailing | Park Junghwan | Lose | W+R | 6.5 | 3413.0 | -8.0 | 
-| 2014-08-26 | 第19回三星火災杯世界囲碁マスターズ1回戦C1 | Lee Changho | Meng Tailing | Lose | B+T | 6.5 | 3421.0 | -18.0 | 
-| 2014-08-06 | 第19回三星火災杯統合予選決勝 | Meng Tailing |  | Win | B+R | 6.5 | 3439.0 | -4.0 | 
-| 2014-08-05 | 第19回三星火災杯統合予選準決勝 | Meng Tailing | Shu Yixiao | Win | B+R | 6.5 | 3443.0 | 1.0 | 
-| 2014-08-04 | 第19回三星火災杯統合予選3回戦 | Kim Hyeongwoo | Meng Tailing | Win | W+R | 6.5 | 3442.0 | 0.0 | 
-| 2014-08-04 | 第19回三星火災杯統合予選3回戦 | Meng Tailing | Kim Hyeongwoo | Lose | Void | 6.5 | 3442.0 | 3.0 | 
-| 2014-08-03 | 第19回三星火災杯統合予選2回戦 | Jin Siyoung | Meng Tailing | Win | W+0.5 | 6.5 | 3439.0 | -3.0 | 
-| 2014-07-24 | 第2回百霊杯世界オープン戦3回戦 | Kim Jiseok | Meng Tailing | Lose | B+1.5 | 7.5 | 3442.0 | -10.0 | 
-| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Meng Tailing | Lee Wonyoung | Win | B+R | 7.5 | 3452.0 | -17.0 | 
-| 2014-07-11 | 第6期中国竜星戦予選 | Wu Guangya | Meng Tailing | Win | W+0.5 | 7.5 | 3469.0 | 12.0 | 
-| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Meng Tailing | Peng Liyao | Win | B+1.5 | 7.5 | 3457.0 | 8.0 | 
-| 2014-07-07 | 第16期阿含・桐山杯中国早碁オープン戦1回戦 | Fan Tingyu | Meng Tailing | Lose | B+R | 7.5 | 3449.0 | -21.0 | 
+| 2014-08-26 | 第19回三星火災杯世界囲碁マスターズ1回戦C1 | Lee Changho | Meng Tailing | Lose | B+T | 6.5 | 3421.0 | -17.0 | 
+| 2014-08-06 | 第19回三星火災杯統合予選決勝 | Meng Tailing |  | Win | B+R | 6.5 | 3438.0 | -4.0 | 
+| 2014-08-05 | 第19回三星火災杯統合予選準決勝 | Meng Tailing | Shu Yixiao | Win | B+R | 6.5 | 3442.0 | 1.0 | 
+| 2014-08-04 | 第19回三星火災杯統合予選3回戦 | Kim Hyeongwoo | Meng Tailing | Win | W+R | 6.5 | 3441.0 | 0.0 | 
+| 2014-08-04 | 第19回三星火災杯統合予選3回戦 | Meng Tailing | Kim Hyeongwoo | Lose | Void | 6.5 | 3441.0 | 3.0 | 
+| 2014-08-03 | 第19回三星火災杯統合予選2回戦 | Jin Siyoung | Meng Tailing | Win | W+0.5 | 6.5 | 3438.0 | -3.0 | 
+| 2014-07-24 | 第2回百霊杯世界オープン戦3回戦 | Kim Jiseok | Meng Tailing | Lose | B+1.5 | 7.5 | 3441.0 | -10.0 | 
+| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Meng Tailing | Lee Wonyoung | Win | B+R | 7.5 | 3451.0 | -17.0 | 
+| 2014-07-11 | 第6期中国竜星戦予選 | Wu Guangya | Meng Tailing | Win | W+0.5 | 7.5 | 3468.0 | 12.0 | 
+| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Meng Tailing | Peng Liyao | Win | B+1.5 | 7.5 | 3456.0 | 8.0 | 
+| 2014-07-07 | 第16期阿含・桐山杯中国早碁オープン戦1回戦 | Fan Tingyu | Meng Tailing | Lose | B+R | 7.5 | 3448.0 | -22.0 | 
 | 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Tong Mengcheng | Meng Tailing | Win | W+0.5 | 7.5 | 3470.0 | 0.0 | 
 | 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | He Yuhan | Meng Tailing | Win | W+R | 7.5 | 3470.0 | 49.0 | 
 | 2014-06-26 | 第6期中国竜星戦予選 | Cao Xiaoyang | Meng Tailing | Win | W+R | 7.5 | 3421.0 | 6.0 | 
 | 2014-06-25 | 第6期中国竜星戦予選 | Cao Youyin | Meng Tailing | Win | W+R | 7.5 | 3415.0 | 4.0 | 
 | 2014-06-24 | 第6期中国竜星戦予選 | Meng Tailing | Huang Jingyuan | Win | B+R | 7.5 | 3411.0 | -24.0 | 
 | 2014-06-20 | 第5回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Tan Xiao | Meng Tailing | Lose | B+R | 7.5 | 3435.0 | -11.0 | 
-| 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Yu Bin | Meng Tailing | Win | W+R | 7.5 | 3446.0 | -39.0 | 
-| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Fan Yunruo | Meng Tailing | Lose | B+R | 7.5 | 3485.0 | -1.0 | 
+| 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Yu Bin | Meng Tailing | Win | W+R | 7.5 | 3446.0 | -38.0 | 
+| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Fan Yunruo | Meng Tailing | Lose | B+R | 7.5 | 3484.0 | -2.0 | 
 | 2014-06-05 | 第16回中国囲碁甲級リーグ第6節 | Li Xuanhao | Meng Tailing | Lose | B+R | 7.5 | 3486.0 | -12.0 | 
 | 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Meng Tailing | Liao Xingwen | Lose | W+R | 7.5 | 3498.0 | -65.0 | 
 | 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Tao Xinran | Meng Tailing | Win | W+R | 7.5 | 3563.0 | -15.0 | 
 | 2014-05-18 | 第16回中国囲碁甲級リーグ第3節 | Meng Tailing | Chen Yaoye | Lose | W+R | 7.5 | 3578.0 | -15.0 | 
 | 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Ma Yichao | Meng Tailing | Win | W+R | 7.5 | 3593.0 | 29.0 | 
 | 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 |  | Meng Tailing | Win | W+R | 7.5 | 3564.0 | 15.0 | 
-| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Jiang Weijie | Meng Tailing | Lose | B+1.5 | 7.5 | 3549.0 | 1.0 | 
-| 2014-04-14 | 第19回LG杯予選 | Lee Donghoon | Meng Tailing | Lose | B+R | 6.5 | 3548.0 | -9.0 | 
+| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Jiang Weijie | Meng Tailing | Lose | B+1.5 | 7.5 | 3549.0 | 2.0 | 
+| 2014-04-14 | 第19回LG杯予選 | Lee Donghoon | Meng Tailing | Lose | B+R | 6.5 | 3547.0 | -10.0 | 
 | 2014-04-02 | 第27期中国囲碁名人戦予選 | Meng Tailing | Liu Xing | Lose | W+R | 7.5 | 3557.0 | -15.0 | 
 | 2014-04-01 | 第27期中国囲碁名人戦予選 | Meng Tailing |  | Win | B+R | 7.5 | 3572.0 | 12.0 | 
 | 2014-03-27 | 第11期倡棋杯中国プロ囲碁選手権戦予選 | Meng Tailing |  | Lose | W+1 | 7.5 | 3560.0 | -25.0 | 

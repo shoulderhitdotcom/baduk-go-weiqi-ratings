@@ -18,9 +18,9 @@
 | 2021-12-13 | 第77期本因坊戦リーグ  | Tsuruyama Atsushi | Shibano Toramaru | Win | W+R | 6.5 | 3372.0 | 6.0 | 
 | 2021-12-09 | 第69期王座戦挑戦手合五番勝負第5局  | Iyama Yuta | Shibano Toramaru | Lose | B+R | 6.5 | 3366.0 | 2.0 | 
 | 2021-12-06 | 第60期十段戦3回戦 | Shibano Toramaru | Motoki Katsuya | Win | B+R | 6.5 | 3364.0 | 9.0 | 
-| 2021-12-03 | 第69期王座戦挑戦手合五番勝負第4局  | Shibano Toramaru | Iyama Yuta | Win | B+R | 6.5 | 3355.0 | 43.0 | 
-| 2021-11-25 | 第77期本因坊戦リーグ | Motoki Katsuya | Shibano Toramaru | Win | W+R | 6.5 | 3312.0 | -13.0 | 
-| 2021-11-19 | 第69期王座戦挑戦手合五番勝負第3局  | Iyama Yuta | Shibano Toramaru | Lose | B+R | 6.5 | 3325.0 | 19.0 | 
+| 2021-12-03 | 第69期王座戦挑戦手合五番勝負第4局  | Shibano Toramaru | Iyama Yuta | Win | B+R | 6.5 | 3355.0 | 44.0 | 
+| 2021-11-25 | 第77期本因坊戦リーグ | Motoki Katsuya | Shibano Toramaru | Win | W+R | 6.5 | 3311.0 | -13.0 | 
+| 2021-11-19 | 第69期王座戦挑戦手合五番勝負第3局  | Iyama Yuta | Shibano Toramaru | Lose | B+R | 6.5 | 3324.0 | 18.0 | 
 | 2021-11-08 | 第60期十段戦2回戦 | Onishi Ryuhei | Shibano Toramaru | Win | W+R | 6.5 | 3306.0 | 9.0 | 
 | 2021-10-29 | 第69期王座戦挑戦手合五番勝負第1局  | Iyama Yuta | Shibano Toramaru | Lose | B+R | 6.5 | 3297.0 | -17.0 | 
 | 2021-10-25 | 第46期棋聖戦挑戦者決定戦第1局  | Ichiriki Ryo | Shibano Toramaru | Lose | B+R | 6.5 | 3314.0 | -3.0 | 
@@ -45,21 +45,21 @@
 | 2021-05-28 | 第46期棋聖戦Aリーグ | Shibano Toramaru | Hane Naoki | Lose | W+R | 6.5 | 3297.0 | -15.0 | 
 | 2021-05-25 | 第76期本因坊戦挑戦手合七番勝負第2局  | Iyama Yuta | Shibano Toramaru | Win | W+R | 6.5 | 3312.0 | 11.0 | 
 | 2021-05-12 | 第76期本因坊戦挑戦手合七番勝負第1局  | Shibano Toramaru | Iyama Yuta | Lose | W+R | 6.5 | 3301.0 | 25.0 | 
-| 2021-05-08 | 第23回中国囲碁甲級リーグ  | Xia Chenkun | Shibano Toramaru | Lose | B+R | 7.5 | 3276.0 | -13.0 | 
-| 2021-05-06 | 第46期名人戦リーグ  | Shibano Toramaru | Ichiriki Ryo | Lose | W+R | 6.5 | 3289.0 | -4.0 | 
-| 2021-04-28 | 第59期十段戦挑戦手合五番勝負第5局  | Hsu Chiayuan | Shibano Toramaru | Lose | B+R | 6.5 | 3293.0 | -7.0 | 
-| 2021-04-23 | 第46期棋聖戦Aリーグ | Mutsuura Yuta | Shibano Toramaru | Win | W+R | 6.5 | 3300.0 | 2.0 | 
-| 2021-04-20 | 第59期十段戦挑戦手合五番勝負第4局  | Shibano Toramaru | Hsu Chiayuan | Win | B+R | 6.5 | 3298.0 | 53.0 | 
-| 2021-04-15 | 第46期名人戦リーグ  | Hane Naoki | Shibano Toramaru | Win | W+R | 6.5 | 3245.0 | 1.0 | 
-| 2021-04-08 | 第59期十段戦挑戦手合五番勝負第3局  | Hsu Chiayuan | Shibano Toramaru | Lose | B+4.5 | 6.5 | 3244.0 | -6.0 | 
-| 2021-04-02 | 第76期本因坊戦リーグ  | Shibano Toramaru | Hane Naoki | Win | B+R | 6.5 | 3250.0 | 15.0 | 
+| 2021-05-08 | 第23回中国囲碁甲級リーグ  | Xia Chenkun | Shibano Toramaru | Lose | B+R | 7.5 | 3276.0 | -12.0 | 
+| 2021-05-06 | 第46期名人戦リーグ  | Shibano Toramaru | Ichiriki Ryo | Lose | W+R | 6.5 | 3288.0 | -4.0 | 
+| 2021-04-28 | 第59期十段戦挑戦手合五番勝負第5局  | Hsu Chiayuan | Shibano Toramaru | Lose | B+R | 6.5 | 3292.0 | -7.0 | 
+| 2021-04-23 | 第46期棋聖戦Aリーグ | Mutsuura Yuta | Shibano Toramaru | Win | W+R | 6.5 | 3299.0 | 2.0 | 
+| 2021-04-20 | 第59期十段戦挑戦手合五番勝負第4局  | Shibano Toramaru | Hsu Chiayuan | Win | B+R | 6.5 | 3297.0 | 53.0 | 
+| 2021-04-15 | 第46期名人戦リーグ  | Hane Naoki | Shibano Toramaru | Win | W+R | 6.5 | 3244.0 | 1.0 | 
+| 2021-04-08 | 第59期十段戦挑戦手合五番勝負第3局  | Hsu Chiayuan | Shibano Toramaru | Lose | B+4.5 | 6.5 | 3243.0 | -6.0 | 
+| 2021-04-02 | 第76期本因坊戦リーグ  | Shibano Toramaru | Hane Naoki | Win | B+R | 6.5 | 3249.0 | 14.0 | 
 | 2021-03-24 | 第59期十段戦挑戦手合五番勝負第2局  | Shibano Toramaru | Hsu Chiayuan | Win | B+R | 6.5 | 3235.0 | -5.0 | 
 | 2021-03-18 | 第76期本因坊戦リーグ | Ko Iso | Shibano Toramaru | Win | W+R | 6.5 | 3240.0 | -3.0 | 
 | 2021-03-11 | 第46期名人戦リーグ | Kono Rin | Shibano Toramaru | Win | W+1.5 | 6.5 | 3243.0 | 12.0 | 
 | 2021-03-08 | 第46期棋聖戦Aリーグ | Shibano Toramaru | Yoda Norimoto | Win | B+6.5 | 6.5 | 3231.0 | 8.0 | 
 | 2021-03-02 | 第59期十段戦挑戦手合五番勝負第1局  | Hsu Chiayuan | Shibano Toramaru | Lose | B+R | 6.5 | 3223.0 | -20.0 | 
-| 2021-02-22 | 第46期棋聖戦Aリーグ | Hsu Chiayuan | Shibano Toramaru | Win | W+R | 6.5 | 3243.0 | 0.0 | 
-| 2021-02-18 | 第46期名人戦リーグ  | Shibano Toramaru | Yamashita Keigo | Lose | W+R | 6.5 | 3243.0 | 33.0 | 
+| 2021-02-22 | 第46期棋聖戦Aリーグ | Hsu Chiayuan | Shibano Toramaru | Win | W+R | 6.5 | 3243.0 | 1.0 | 
+| 2021-02-18 | 第46期名人戦リーグ  | Shibano Toramaru | Yamashita Keigo | Lose | W+R | 6.5 | 3242.0 | 32.0 | 
 | 2021-02-04 | 第76期本因坊戦リーグ  | Ichiriki Ryo | Shibano Toramaru | Win | W+R | 6.5 | 3210.0 | 23.0 | 
 | 2021-01-21 | 第46期名人戦リーグ  | Shibano Toramaru | Motoki Katsuya | Lose | W+0.5 | 6.5 | 3187.0 | -44.0 | 
 | 2021-01-14 | 第76期本因坊戦リーグ  | Shibano Toramaru | Tsuruyama Atsushi | Win | B+R | 6.5 | 3231.0 | 10.0 | 
@@ -134,13 +134,13 @@
 | 2019-10-10 | 第45期碁聖戦予選 | Shibano Toramaru | Shuto Shun | Win | B+R | 6.5 | 3392.0 | 8.0 | 
 | 2019-10-08 | 第44期名人戦挑戦手合七番勝負第5局  | Cho U | Shibano Toramaru | Win | W+R | 6.5 | 3384.0 | 31.0 | 
 | 2019-10-03 | 第46期天元戦予選 | Maeda Ryoji | Shibano Toramaru | Win | W+R | 6.5 | 3353.0 | -11.0 | 
-| 2019-09-30 | 第44期棋聖戦Aリーグ | Akiyama Jiro | Shibano Toramaru | Win | W+R | 6.5 | 3364.0 | 2.0 | 
-| 2019-09-26 | 第44期名人戦挑戦手合七番勝負第4局  | Shibano Toramaru | Cho U | Win | B+R | 6.5 | 3362.0 | 7.0 | 
-| 2019-09-20 | 第67期王座戦挑戦者決定戦 | Shibano Toramaru | Hsu Chiayuan | Win | B+R | 6.5 | 3355.0 | 7.0 | 
-| 2019-09-18 | 第44期名人戦挑戦手合七番勝負第3局  | Cho U | Shibano Toramaru | Win | W+R | 6.5 | 3348.0 | 5.0 | 
-| 2019-09-11 | 第44期名人戦挑戦手合七番勝負第2局  | Shibano Toramaru | Cho U | Win | B+R | 6.5 | 3343.0 | 10.0 | 
-| 2019-09-05 | 第44期棋聖戦Aリーグ | Shibano Toramaru | Yamashiro Hiroshi | Win | B+R | 6.5 | 3333.0 | -28.0 | 
-| 2019-09-02 | 第58期十段戦予選 | Shibano Toramaru | Aragaki Shun | Win | B+3.5 | 6.5 | 3361.0 | 0.0 | 
+| 2019-09-30 | 第44期棋聖戦Aリーグ | Akiyama Jiro | Shibano Toramaru | Win | W+R | 6.5 | 3364.0 | 3.0 | 
+| 2019-09-26 | 第44期名人戦挑戦手合七番勝負第4局  | Shibano Toramaru | Cho U | Win | B+R | 6.5 | 3361.0 | 7.0 | 
+| 2019-09-20 | 第67期王座戦挑戦者決定戦 | Shibano Toramaru | Hsu Chiayuan | Win | B+R | 6.5 | 3354.0 | 7.0 | 
+| 2019-09-18 | 第44期名人戦挑戦手合七番勝負第3局  | Cho U | Shibano Toramaru | Win | W+R | 6.5 | 3347.0 | 5.0 | 
+| 2019-09-11 | 第44期名人戦挑戦手合七番勝負第2局  | Shibano Toramaru | Cho U | Win | B+R | 6.5 | 3342.0 | 10.0 | 
+| 2019-09-05 | 第44期棋聖戦Aリーグ | Shibano Toramaru | Yamashiro Hiroshi | Win | B+R | 6.5 | 3332.0 | -28.0 | 
+| 2019-09-02 | 第58期十段戦予選 | Shibano Toramaru | Aragaki Shun | Win | B+3.5 | 6.5 | 3360.0 | -1.0 | 
 | 2019-08-28 | 第44期名人戦挑戦手合七番勝負第1局  | Cho U | Shibano Toramaru | Lose | B+6.5 | 6.5 | 3361.0 | 12.0 | 
 | 2019-08-22 | 第45期碁聖戦予選 | Shibano Toramaru | Seki Kotaro | Win | B+R | 6.5 | 3349.0 | 0.0 | 
 | 2019-08-19 | 第67期王座戦準決勝 | Kono Rin | Shibano Toramaru | Win | W+4.5 | 6.5 | 3349.0 | 9.0 | 
@@ -172,8 +172,8 @@
 | 2019-04-19 | 第6回グロービス杯世界囲碁U-20グループリーグD |  | Shibano Toramaru | Win | W+R | 6.5 | 3379.0 | -14.0 | 
 | 2019-04-18 | 第6回グランドチャンピオン戦3回戦 | Fujisawa Rina | Shibano Toramaru | Win | W+R | 6.5 | 3393.0 | 0.0 | 
 | 2019-04-18 | 第6回グランドチャンピオン戦2回戦 | Yu Zhengqi | Shibano Toramaru | Win | W+R | 6.5 | 3393.0 | 0.0 | 
-| 2019-04-15 | 第67期王座戦予選 | Shida Tatsuya | Shibano Toramaru | Win | W+R | 6.5 | 3393.0 | -1.0 | 
-| 2019-04-10 | 第74期本因坊戦挑戦者決定リーグプレーオフ第2戦 | Shibano Toramaru | Kono Rin | Lose | W+1.5 | 6.5 | 3394.0 | -10.0 | 
+| 2019-04-15 | 第67期王座戦予選 | Shida Tatsuya | Shibano Toramaru | Win | W+R | 6.5 | 3393.0 | 0.0 | 
+| 2019-04-10 | 第74期本因坊戦挑戦者決定リーグプレーオフ第2戦 | Shibano Toramaru | Kono Rin | Lose | W+1.5 | 6.5 | 3393.0 | -11.0 | 
 | 2019-04-05 | 第74期本因坊戦リーグ | Ko Iso | Shibano Toramaru | Win | W+R | 6.5 | 3404.0 | 1.0 | 
 | 2019-04-01 | 第44期棋聖戦Aリーグ  | Rin Kanketsu | Shibano Toramaru | Win | W+R | 6.5 | 3403.0 | 10.0 | 
 | 2019-03-21 | 第44期棋聖戦Aリーグ | Shibano Toramaru | Shida Tatsuya | Lose | W+R | 6.5 | 3393.0 | -15.0 | 
@@ -188,8 +188,8 @@
 | 2019-01-17 | 第74期本因坊戦リーグ | Ichiriki Ryo | Shibano Toramaru | Win | W+R | 6.5 | 3452.0 | 17.0 | 
 | 2019-01-10 | 第44期名人戦リーグ | Murakawa Daisuke | Shibano Toramaru | Win | W+2.5 | 6.5 | 3435.0 | 8.0 | 
 | 2019-01-07 | 第6回グロービス杯国内予選 |  | Shibano Toramaru | Win | W+R | 6.5 | 3427.0 | 0.0 | 
-| 2019-01-07 | 第6回グロービス杯国内予選 | Shibano Toramaru |  | Win | B+R | 6.5 | 3427.0 | 4.0 | 
-| 2018-12-27 | ナショナルチーム合宿対局 | Shibano Toramaru |  | Win | B+R | 6.5 | 3423.0 | 1.0 | 
+| 2019-01-07 | 第6回グロービス杯国内予選 | Shibano Toramaru |  | Win | B+R | 6.5 | 3427.0 | 5.0 | 
+| 2018-12-27 | ナショナルチーム合宿対局 | Shibano Toramaru |  | Win | B+R | 6.5 | 3422.0 | 0.0 | 
 | 2018-12-20 | 第44期名人戦リーグ | Kono Rin | Shibano Toramaru | Lose | B+R | 6.5 | 3422.0 | 12.0 | 
 | 2018-12-06 | 第74期本因坊戦リーグ | Hane Naoki | Shibano Toramaru | Lose | B+R | 6.5 | 3410.0 | -10.0 | 
 | 2018-11-29 | 第44期碁聖戦本戦1回戦 | Anzai Nobuaki | Shibano Toramaru | Lose | B+7.5 | 6.5 | 3420.0 | -2.0 | 
@@ -204,8 +204,8 @@
 | 2018-10-04 | 第45期天元戦予選 | Shibano Toramaru | Han Zenki | Win | B+R | 6.5 | 3423.0 | -5.0 | 
 | 2018-09-20 | 第44期碁聖戦予選 | Shibano Toramaru | Rin Kanketsu | Win | B+R | 6.5 | 3428.0 | -22.0 | 
 | 2018-09-06 | 第23回三星火災杯世界囲碁マスターズ1回戦A3 | Shibano Toramaru | Gu Zihao | Lose | W+R | 6.5 | 3450.0 | 3.0 | 
-| 2018-09-05 | 第23回三星火災杯世界囲碁マスターズ1回戦A2 | Park Junghwan | Shibano Toramaru | Lose | B+R | 6.5 | 3447.0 | 1.0 | 
-| 2018-09-04 | 第23回三星火災杯世界囲碁マスターズ1回戦A1 | Chen Yaoye | Shibano Toramaru | Win | W+3.5 | 6.5 | 3446.0 | 13.0 | 
+| 2018-09-05 | 第23回三星火災杯世界囲碁マスターズ1回戦A2 | Park Junghwan | Shibano Toramaru | Lose | B+R | 6.5 | 3447.0 | 2.0 | 
+| 2018-09-04 | 第23回三星火災杯世界囲碁マスターズ1回戦A1 | Chen Yaoye | Shibano Toramaru | Win | W+3.5 | 6.5 | 3445.0 | 12.0 | 
 | 2018-08-23 | 第25期阿含・桐山杯全日本早碁オープン戦準決勝 | Yu Zhengqi | Shibano Toramaru | Win | W+4.5 | 6.5 | 3433.0 | 18.0 | 
 | 2018-08-14 | 阪急納涼囲碁まつり納涼トーナメント第2局 | Iyama Yuta | Shibano Toramaru | Win | W+R | 6.5 | 3415.0 | 0.0 | 
 | 2018-08-14 | 阪急納涼囲碁まつり納涼トーナメント決勝戦 | Seto Taiki | Shibano Toramaru | Win | W+R | 6.5 | 3415.0 | 5.0 | 
@@ -220,8 +220,8 @@
 | 2018-07-05 | 第43期棋聖戦Bリーグ | Shibano Toramaru | Imamura Toshiya | Win | B+R | 6.5 | 3360.0 | -1.0 | 
 | 2018-07-02 | 第25期阿含・桐山杯全日本早碁オープン戦1回戦 | Seto Taiki | Shibano Toramaru | Win | W+R | 6.5 | 3361.0 | 5.0 | 
 | 2018-06-28 | 第44期天元戦3回戦 | Shibano Toramaru | Hirata Tomoya | Lose | W+4.5 | 6.5 | 3356.0 | 7.0 | 
-| 2018-06-20 | 2018年中国囲碁乙級リーグ |  | Shibano Toramaru | Win | W+R | 7.5 | 3349.0 | 12.0 | 
-| 2018-06-19 | 2018年中国囲碁乙級リーグ | Shibano Toramaru | Ahn Kukhyun | Lose | W+R | 7.5 | 3337.0 | -37.0 | 
+| 2018-06-20 | 2018年中国囲碁乙級リーグ |  | Shibano Toramaru | Win | W+R | 7.5 | 3349.0 | 13.0 | 
+| 2018-06-19 | 2018年中国囲碁乙級リーグ | Shibano Toramaru | Ahn Kukhyun | Lose | W+R | 7.5 | 3336.0 | -38.0 | 
 | 2018-06-16 | 2018年中国囲碁乙級リーグ | Shibano Toramaru | Lee Jihyun | Win | B+R | 7.5 | 3374.0 | 57.0 | 
 | 2018-06-07 | 第43期名人戦リーグ | Shibano Toramaru | Hane Naoki | Win | B+3.5 | 6.5 | 3317.0 | 7.0 | 
 | 2018-05-30 | 第23回LG杯朝鮮日報棋王戦2回戦 | Park Junghwan | Shibano Toramaru | Lose | B+R | 6.5 | 3310.0 | 4.0 | 
@@ -247,12 +247,12 @@
 | 2018-02-15 | 第43期名人戦リーグ | Yamashita Keigo | Shibano Toramaru | Win | W+2.5 | 6.5 | 3326.0 | 5.0 | 
 | 2018-02-12 | 第5回グロービス杯国内予選 |  | Shibano Toramaru | Win | W+R | 6.5 | 3321.0 | 0.0 | 
 | 2018-02-12 | 第5回グロービス杯国内予選 |  | Shibano Toramaru | Win | W+5.5 | 6.5 | 3321.0 | -3.0 | 
-| 2018-02-08 | 第43期棋聖戦リーグB組 | Koike Yoshihiro | Shibano Toramaru | Win | W+2.5 | 6.5 | 3324.0 | -8.0 | 
-| 2018-01-23 | 2018台湾精鋭vs日本精鋭交流戦第6戦 | Wang Yuanjun | Shibano Toramaru | Lose | B+2.5 | 6.5 | 3332.0 | -8.0 | 
-| 2018-01-22 | 2018台湾精鋭vs日本精鋭交流戦第4戦 | Xiao Zhenghao | Shibano Toramaru | Win | W+R | 6.5 | 3340.0 | 0.0 | 
-| 2018-01-22 | 2018台湾精鋭vs日本精鋭交流戦第3戦 | Lin Junyan | Shibano Toramaru | Win | W+R | 6.5 | 3340.0 | 14.0 | 
-| 2018-01-18 | 第44期天元戦1回戦 | Shibano Toramaru | Okada Shinichiro | Win | B+R | 6.5 | 3326.0 | -26.0 | 
-| 2017-12-27 | ナショナルチーム冬季合宿 | Shibano Toramaru | Ryu Shikun | Win | B+R | 6.5 | 3352.0 | 11.0 | 
+| 2018-02-08 | 第43期棋聖戦リーグB組 | Koike Yoshihiro | Shibano Toramaru | Win | W+2.5 | 6.5 | 3324.0 | -7.0 | 
+| 2018-01-23 | 2018台湾精鋭vs日本精鋭交流戦第6戦 | Wang Yuanjun | Shibano Toramaru | Lose | B+2.5 | 6.5 | 3331.0 | -8.0 | 
+| 2018-01-22 | 2018台湾精鋭vs日本精鋭交流戦第4戦 | Xiao Zhenghao | Shibano Toramaru | Win | W+R | 6.5 | 3339.0 | 0.0 | 
+| 2018-01-22 | 2018台湾精鋭vs日本精鋭交流戦第3戦 | Lin Junyan | Shibano Toramaru | Win | W+R | 6.5 | 3339.0 | 13.0 | 
+| 2018-01-18 | 第44期天元戦1回戦 | Shibano Toramaru | Okada Shinichiro | Win | B+R | 6.5 | 3326.0 | -25.0 | 
+| 2017-12-27 | ナショナルチーム冬季合宿 | Shibano Toramaru | Ryu Shikun | Win | B+R | 6.5 | 3351.0 | 10.0 | 
 | 2017-12-21 | 第43期名人戦リーグ | Shibano Toramaru | Murakawa Daisuke | Win | B+2.5 | 6.5 | 3341.0 | 5.0 | 
 | 2017-12-15 | 第2回IMSAエリートマインドゲームズ囲碁男子個人戦 | Shibano Toramaru | Chen Shiyuan | Win | B+R | 7.5 | 3336.0 | 0.0 | 
 | 2017-12-15 | 第2回IMSAエリートマインドゲームズ個人早碁戦準決勝 | Park Junghwan | Shibano Toramaru | Lose | B+R | 7.5 | 3336.0 | 0.0 | 
@@ -266,13 +266,13 @@
 | 2017-11-02 | 第43期名人戦予選 | Ichiriki Ryo | Shibano Toramaru | Win | W+R | 6.5 | 3306.0 | 11.0 | 
 | 2017-10-30 | 第5回Mezzion韓国新人王16強戦 | Gang Woohyeok | Shibano Toramaru | Lose | B+R | 6.5 | 3295.0 | -19.0 | 
 | 2017-10-14 | 2017年利民杯世界囲碁星鋭最強戦1回戦 | Wang Zejin | Shibano Toramaru | Lose | B+R | 7.5 | 3314.0 | -4.0 | 
-| 2017-10-12 | 第43期名人戦最終予選 | Cho Chikun | Shibano Toramaru | Win | W+6.5 | 6.5 | 3318.0 | -21.0 | 
-| 2017-10-02 | 第42期新人王戦決勝三番勝負　第二局 | Shibano Toramaru | Sun Zhe | Win | B+R | 6.5 | 3339.0 | 14.0 | 
+| 2017-10-12 | 第43期名人戦最終予選 | Cho Chikun | Shibano Toramaru | Win | W+6.5 | 6.5 | 3318.0 | -20.0 | 
+| 2017-10-02 | 第42期新人王戦決勝三番勝負　第二局 | Shibano Toramaru | Sun Zhe | Win | B+R | 6.5 | 3338.0 | 13.0 | 
 | 2017-09-28 | 第44期天元戦予選 | Shibano Toramaru | Ko Reibun | Win | B+R | 6.5 | 3325.0 | -32.0 | 
 | 2017-09-21 | 第43期名人戦　最終予選1回戦 | Hikosaka Naoto | Shibano Toramaru | Win | W+R | 6.5 | 3357.0 | 2.0 | 
 | 2017-09-18 | 第42期新人王戦決勝三番勝負　第一局 | Sun Zhe | Shibano Toramaru | Win | W+R | 6.5 | 3355.0 | 51.0 | 
-| 2017-08-31 | 第43期名人戦　予選A決勝 | Kobayashi Satoru | Shibano Toramaru | Win | W+R | 6.5 | 3304.0 | -8.0 | 
-| 2017-08-25 | 第65期王座戦　挑戦者決定戦 | Ichiriki Ryo | Shibano Toramaru | Lose | B+1.5 | 6.5 | 3312.0 | 17.0 | 
+| 2017-08-31 | 第43期名人戦　予選A決勝 | Kobayashi Satoru | Shibano Toramaru | Win | W+R | 6.5 | 3304.0 | -7.0 | 
+| 2017-08-25 | 第65期王座戦　挑戦者決定戦 | Ichiriki Ryo | Shibano Toramaru | Lose | B+1.5 | 6.5 | 3311.0 | 16.0 | 
 | 2017-08-17 | 第42期棋聖戦　Bリーグ1組7回戦 | Shibano Toramaru | Yamada Kimio | Lose | W+3.5 | 6.5 | 3295.0 | -9.0 | 
 | 2017-08-07 | 第65期王座戦準決勝 | Nakano Hironari | Shibano Toramaru | Win | W+0.5 | 6.5 | 3304.0 | 2.0 | 
 | 2017-08-03 | 第42期新人王戦　準決勝 | Fujisawa Rina | Shibano Toramaru | Win | W+R | 6.5 | 3302.0 | 11.0 | 
@@ -364,18 +364,18 @@
 | 2015-10-19 | 第41期名人戦予選 | Ida Atsushi | Shibano Toramaru | Lose | B+2.5 | 6.5 | 3017.0 | -100.0 | 
 | 2015-10-01 | 第42期天元戦予選 | Shibano Toramaru | O Rissei | Win | B+R | 6.5 | 3117.0 | 27.0 | 
 | 2015-09-17 | 第41期名人戦予選 | Seto Taiki | Shibano Toramaru | Win | W+R | 6.5 | 3090.0 | 56.0 | 
-| 2015-08-27 | 第41期名人戦予選 | Ishida Yoshio | Shibano Toramaru | Win | W+16.5 | 6.5 | 3034.0 | 99.0 | 
-| 2015-08-05 | 第20回三星火災杯統合予選決勝 | Shibano Toramaru | Xiao Zhenghao | Lose | W+R | 6.5 | 2935.0 | -12.0 | 
-| 2015-08-04 | 第20回三星火災杯統合予選準決勝 | Park Seunghyeon | Shibano Toramaru | Win | W+R | 6.5 | 2947.0 | -8.0 | 
-| 2015-08-03 | 第20回三星火災杯統合予選2回戦 | Shibano Toramaru |  | Win | B+R | 6.5 | 2955.0 | -140.0 | 
+| 2015-08-27 | 第41期名人戦予選 | Ishida Yoshio | Shibano Toramaru | Win | W+16.5 | 6.5 | 3034.0 | 100.0 | 
+| 2015-08-05 | 第20回三星火災杯統合予選決勝 | Shibano Toramaru | Xiao Zhenghao | Lose | W+R | 6.5 | 2934.0 | -12.0 | 
+| 2015-08-04 | 第20回三星火災杯統合予選準決勝 | Park Seunghyeon | Shibano Toramaru | Win | W+R | 6.5 | 2946.0 | -8.0 | 
+| 2015-08-03 | 第20回三星火災杯統合予選2回戦 | Shibano Toramaru |  | Win | B+R | 6.5 | 2954.0 | -141.0 | 
 | 2015-04-15 | 第20回LG杯予選 | Shibano Toramaru | Kim Seongjae | Lose | W+4.5 | 6.5 | 3095.0 | -11.0 | 
 | 2015-04-09 | 第71期本因坊戦予選 | Shibano Toramaru | Rin Kaiho | Win | B+3.5 | 6.5 | 3106.0 | 19.0 | 
 | 2015-03-17 | 第2回グロービス杯国内予選 | Shibano Toramaru | Abe Yoshiki | Win | B+7.5 | 6.5 | 3087.0 | -118.0 | 
 | 2015-01-29 | 第71期本因坊戦予選 | Shibano Toramaru | Aoba Kaori | Win | B+R | 6.5 | 3205.0 | 72.0 | 
 | 2014-11-11 | 第1回イベロジャパン杯三位決定戦 | Shibano Toramaru | Chang Rueijie | Win | B+R | 6.5 | 3133.0 | 51.0 | 
 | 2014-10-23 | 第40期新人王戦予選 | Takagi Junpei | Shibano Toramaru | Lose | B+R | 6.5 | 3082.0 | -30.0 | 
-| 2014-09-22 | 第1回イベロジャパン杯準決勝 | Shibano Toramaru | Hsu Chiayuan | Lose | W+R | 6.5 | 3112.0 | -173.0 | 
-| 2014-07-14 | 第1回ゆうちょ杯囲碁ユース選手権1回戦 | Shibano Toramaru | Yao Zhiteng | Lose | W+R | 6.5 | 3285.0 | missing |
+| 2014-09-22 | 第1回イベロジャパン杯準決勝 | Shibano Toramaru | Hsu Chiayuan | Lose | W+R | 6.5 | 3112.0 | -172.0 | 
+| 2014-07-14 | 第1回ゆうちょ杯囲碁ユース選手権1回戦 | Shibano Toramaru | Yao Zhiteng | Lose | W+R | 6.5 | 3284.0 | missing |
 
 
 

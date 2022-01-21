@@ -14,8 +14,8 @@
 | 2022-01-07 | 第16回威孚房開杯棋王戦決勝 | Yang Kaiwen | Mi Yuting | Lose | W+R | 7.5 | 3550.0 | 3.0 | 
 | 2022-01-06 | 第16回威孚房開杯棋王戦準決勝 | Yang Kaiwen | Li Qincheng | Win | B+R | 7.5 | 3547.0 | 19.0 | 
 | 2022-01-05 | 第16回威孚房開杯棋王戦3回戦 | Yi Lingtao | Yang Kaiwen | Win | W+R | 7.5 | 3528.0 | 19.0 | 
-| 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Mi Yuting | Yang Kaiwen | Lose | B+R | 7.5 | 3509.0 | 15.0 | 
-| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tao Xinran | Yang Kaiwen | Lose | B+1¾ | 7.5 | 3494.0 | -15.0 | 
+| 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Mi Yuting | Yang Kaiwen | Lose | B+R | 7.5 | 3509.0 | 16.0 | 
+| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tao Xinran | Yang Kaiwen | Lose | B+1¾ | 7.5 | 3493.0 | -16.0 | 
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Yang Kaiwen | Shi Yue | Lose | W+R | 7.5 | 3509.0 | -19.0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Li Qincheng | Yang Kaiwen | Lose | B+R | 7.5 | 3528.0 | -18.0 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tu Xiaoyu | Lose | W+1¼ | 7.5 | 3546.0 | -20.0 | 
@@ -33,10 +33,10 @@
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Tan Xiao | Win | B+R | 7.5 | 3445.0 | 9.0 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Chen Yunong | Yang Kaiwen | Lose | B+R | 7.5 | 3436.0 | -10.0 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Yang Kaiwen | Chen Yichun | Win | B+R | 7.5 | 3446.0 | -2.0 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Meng Tailing | Yang Kaiwen | Win | W+R | 7.5 | 3448.0 | 18.0 | 
-| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Yang Kaiwen | Tuo Jiaxi | Lose | W+4¼ | 7.5 | 3430.0 | -11.0 | 
-| 2021-04-10 | 第17回倡棋杯中国プロ囲碁選手権戦 | Li Qincheng | Yang Kaiwen | Win | W+R | 7.5 | 3441.0 | 17.0 | 
-| 2021-04-08 | 第17回倡棋杯中国プロ囲碁選手権戦予選 | Shen Peiran | Yang Kaiwen | Win | W+R | 7.5 | 3424.0 | 0.0 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Meng Tailing | Yang Kaiwen | Win | W+R | 7.5 | 3448.0 | 19.0 | 
+| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Yang Kaiwen | Tuo Jiaxi | Lose | W+4¼ | 7.5 | 3429.0 | -11.0 | 
+| 2021-04-10 | 第17回倡棋杯中国プロ囲碁選手権戦 | Li Qincheng | Yang Kaiwen | Win | W+R | 7.5 | 3440.0 | 17.0 | 
+| 2021-04-08 | 第17回倡棋杯中国プロ囲碁選手権戦予選 | Shen Peiran | Yang Kaiwen | Win | W+R | 7.5 | 3423.0 | -1.0 | 
 | 2021-03-22 | 第35期中国囲碁天元戦3回戦 | Lian Xiao | Yang Kaiwen | Lose | B+R | 7.5 | 3424.0 | -15.0 | 
 | 2021-03-20 | 第35期中国囲碁天元戦2回戦 | Yang Kaiwen | Chen Yaoye | Win | B+R | 7.5 | 3439.0 | 25.0 | 
 | 2021-03-19 | 第35期中国囲碁天元戦1回戦 | Yang Kaiwen | Tao Xinran | Win | B+R | 7.5 | 3414.0 | 48.0 | 
@@ -64,8 +64,8 @@
 | 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Ke Jie | Yang Kaiwen | Win | W+R | 7.5 | 3458.0 | 30.0 | 
 | 2019-03-04 | 第16期倡棋杯中国プロ囲棋選手権戦2回戦 | Zhao Chenyu | Yang Kaiwen | Lose | B+R | 7.5 | 3428.0 | -10.0 | 
 | 2019-03-03 | 第16期倡棋杯中国プロ囲棋選手権戦1回戦 |  | Yang Kaiwen | Win | W+R | 7.5 | 3438.0 | 1.0 | 
-| 2019-03-01 | 第16期倡棋杯中国プロ囲棋選手権戦予選決勝 | Li Xiangyu | Yang Kaiwen | Win | W+R | 7.5 | 3437.0 | 9.0 | 
-| 2019-01-04 | 第33期中国囲碁天元戦1回戦 | Yang Kaiwen | Gu Zihao | Lose | W+R | 7.5 | 3428.0 | 4.0 | 
+| 2019-03-01 | 第16期倡棋杯中国プロ囲棋選手権戦予選決勝 | Li Xiangyu | Yang Kaiwen | Win | W+R | 7.5 | 3437.0 | 10.0 | 
+| 2019-01-04 | 第33期中国囲碁天元戦1回戦 | Yang Kaiwen | Gu Zihao | Lose | W+R | 7.5 | 3427.0 | 3.0 | 
 | 2018-12-25 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Tu Xiaoyu | Yang Kaiwen | Lose | B+2¾ | 7.5 | 3424.0 | -16.0 | 
 | 2018-12-14 | 第20回中国囲碁甲級リーグ第26節江西-山東 | Yang Kaiwen | Yi Lingtao | Lose | W+R | 7.5 | 3440.0 | -3.0 | 
 | 2018-12-12 | 第20回中国囲碁甲級リーグ第25節衢州-江西 | Hu Yuhan | Yang Kaiwen | Win | W+R | 7.5 | 3443.0 | 25.0 | 
@@ -101,19 +101,19 @@
 | 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Gu Li | Yang Kaiwen | Win | W+¼ | 7.5 | 3472.0 | 7.0 | 
 | 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Yang Kaiwen | Wu Guangya | Win | B+R | 7.5 | 3465.0 | 46.0 | 
 | 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Wang Zejin | Yang Kaiwen | Lose | B+R | 7.5 | 3419.0 | -17.0 | 
-| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Yang Kaiwen | Liao Xingwen | Lose | W+R | 7.5 | 3436.0 | -34.0 | 
-| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Jiang Weijie | Yang Kaiwen | Lose | B+R | 7.5 | 3470.0 | -2.0 | 
+| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Yang Kaiwen | Liao Xingwen | Lose | W+R | 7.5 | 3436.0 | -33.0 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Jiang Weijie | Yang Kaiwen | Lose | B+R | 7.5 | 3469.0 | -3.0 | 
 | 2017-09-26 | 2017年全国囲棋個人戦男子組第13戦 | Yang Kaiwen | Jiang Qirun | Lose | W+8.5 | 7.5 | 3472.0 | 9.0 | 
 | 2017-09-22 | 2017年全国囲棋個人戦男子組第9戦 | Yang Kaiwen | Chen Hao | Win | B+R | 7.5 | 3463.0 | 8.0 | 
 | 2017-09-19 | 2017年全国囲棋個人戦男子組第5戦 | Yang Kaiwen | Ding Shixiong | Win | B+R | 7.5 | 3455.0 | 4.0 | 
 | 2017-09-16 | 2017年全国囲棋個人戦男子組第3戦 | Chen Xian | Yang Kaiwen | Win | W+R | 7.5 | 3451.0 | 23.0 | 
 | 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Yang Kaiwen | Fan Yin | Win | B+3.5 | 7.5 | 3428.0 | 0.0 | 
 | 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Xu Jiayang | Yang Kaiwen | Lose | B+1.5 | 7.5 | 3428.0 | -7.0 | 
-| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Yang Kaiwen |  | Win | B+R | 7.5 | 3435.0 | 11.0 | 
-| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Li Xiangyu | Yang Kaiwen | Win | W+R | 7.5 | 3424.0 | 43.0 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Yang Kaiwen |  | Win | B+R | 7.5 | 3435.0 | 12.0 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Li Xiangyu | Yang Kaiwen | Win | W+R | 7.5 | 3423.0 | 42.0 | 
 | 2017-08-04 | 嫘祖杯30回中国名人戦16強戦 | Yang Kaiwen | Li Xuanhao | Lose | W+0.5 | 7.5 | 3381.0 | -10.0 | 
-| 2017-08-03 | 第30期中国囲碁名人戦1回戦 | Huang Yunsong | Yang Kaiwen | Win | W+R | 7.5 | 3391.0 | 29.0 | 
-| 2017-07-22 | 嫘祖杯30回中国名人戦新浪網選決勝 | Yang Kaiwen | Huang Chen | Win | B+R | 7.5 | 3362.0 | 12.0 | 
+| 2017-08-03 | 第30期中国囲碁名人戦1回戦 | Huang Yunsong | Yang Kaiwen | Win | W+R | 7.5 | 3391.0 | 30.0 | 
+| 2017-07-22 | 嫘祖杯30回中国名人戦新浪網選決勝 | Yang Kaiwen | Huang Chen | Win | B+R | 7.5 | 3361.0 | 11.0 | 
 | 2017-07-19 | 第30期中国囲碁名人戦予選 | Pan Yang | Yang Kaiwen | Win | W+R | 7.5 | 3350.0 | 35.0 | 
 | 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Yang Kaiwen | Tong Mengcheng | Lose | W+R | 7.5 | 3315.0 | -7.0 | 
 | 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Liao Xingwen | Yang Kaiwen | Lose | B+1.5 | 7.5 | 3322.0 | -6.0 | 
@@ -152,8 +152,8 @@
 | 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Yang Kaiwen | Wu Guangya | Win | B+R | 7.5 | 3530.0 | 4.0 | 
 | 2016-04-11 | 第18回中国囲碁甲級リーグ第1節 | Gu Lingyi | Yang Kaiwen | Lose | B+1.5 | 7.5 | 3526.0 | 60.0 | 
 | 2015-12-06 | 第17回中国囲碁甲級リーグ第22節 | Zhang Tao | Yang Kaiwen | Lose | B+R | 7.5 | 3466.0 | -14.0 | 
-| 2015-12-04 | 第17回中国囲碁甲級リーグ第21節 | Yang Kaiwen | Peng Liyao | Lose | W+R | 7.5 | 3480.0 | 1.0 | 
-| 2015-11-28 | 2015年利民杯世界囲碁星鋭最強戦1回戦 | Shin Jinseo | Yang Kaiwen | Lose | B+1.5 | 7.5 | 3479.0 | -47.0 | 
+| 2015-12-04 | 第17回中国囲碁甲級リーグ第21節 | Yang Kaiwen | Peng Liyao | Lose | W+R | 7.5 | 3480.0 | 2.0 | 
+| 2015-11-28 | 2015年利民杯世界囲碁星鋭最強戦1回戦 | Shin Jinseo | Yang Kaiwen | Lose | B+1.5 | 7.5 | 3478.0 | -48.0 | 
 | 2015-11-13 | 第17回中国囲碁甲級リーグ第20節 | Yang Kaiwen | Xia Chenkun | Win | B+R | 7.5 | 3526.0 | -26.0 | 
 | 2015-11-08 | 第17回中国囲碁甲級リーグ第19節 | Yang Kaiwen |  | Win | B+R | 7.5 | 3552.0 | 10.0 | 
 | 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 | Xie Erhao | Yang Kaiwen | Win | W+R | 7.5 | 3542.0 | 13.0 | 
@@ -170,14 +170,14 @@
 | 2015-08-31 | 2015年全国囲棋個人戦男子組第8戦 | Fan Yunruo | Yang Kaiwen | Lose | B+R | 7.5 | 3554.0 | -30.0 | 
 | 2015-08-29 | 2015年全国囲棋個人戦男子組第7戦 | Yang Kaiwen | Li Xuanhao | Lose | W+R | 7.5 | 3584.0 | -7.0 | 
 | 2015-08-23 | 2015年全国囲棋個人戦男子組第3戦 | Yang Kaiwen | Zhang Qiang | Win | B+R | 7.5 | 3591.0 | 8.0 | 
-| 2015-08-22 | 2015年全国囲棋個人戦男子組第2戦 |  | Yang Kaiwen | Win | W+R | 7.5 | 3583.0 | 1.0 | 
-| 2015-08-04 | 第20回三星火災杯統合予選準決勝 | Kang Dongyun | Yang Kaiwen | Win | W+R | 6.5 | 3582.0 | 29.0 | 
-| 2015-07-29 | 第7期中国竜星戦予選 | Yu Zhiying | Yang Kaiwen | Win | W+R | 7.5 | 3553.0 | 6.0 | 
-| 2015-07-25 | 2015年中国段位戦 | Ma Yichao | Yang Kaiwen | Lose | B+R | 7.5 | 3547.0 | -16.0 | 
-| 2015-07-24 | 2015年中国段位戦 | Yang Kaiwen | Yu Zhiying | Lose | W+0.5 | 7.5 | 3563.0 | -21.0 | 
-| 2015-07-22 | 2015年中国段位戦 | Yang Kaiwen |  | Win | B+R | 7.5 | 3584.0 | 6.0 | 
-| 2015-07-21 | 2015年中国段位戦 | Fan Yin | Yang Kaiwen | Lose | B+R | 7.5 | 3578.0 | -12.0 | 
-| 2015-07-20 | 2015年中国段位戦 | Xia Chenkun | Yang Kaiwen | Win | W+R | 7.5 | 3590.0 | 14.0 | 
+| 2015-08-22 | 2015年全国囲棋個人戦男子組第2戦 |  | Yang Kaiwen | Win | W+R | 7.5 | 3583.0 | 2.0 | 
+| 2015-08-04 | 第20回三星火災杯統合予選準決勝 | Kang Dongyun | Yang Kaiwen | Win | W+R | 6.5 | 3581.0 | 29.0 | 
+| 2015-07-29 | 第7期中国竜星戦予選 | Yu Zhiying | Yang Kaiwen | Win | W+R | 7.5 | 3552.0 | 6.0 | 
+| 2015-07-25 | 2015年中国段位戦 | Ma Yichao | Yang Kaiwen | Lose | B+R | 7.5 | 3546.0 | -16.0 | 
+| 2015-07-24 | 2015年中国段位戦 | Yang Kaiwen | Yu Zhiying | Lose | W+0.5 | 7.5 | 3562.0 | -21.0 | 
+| 2015-07-22 | 2015年中国段位戦 | Yang Kaiwen |  | Win | B+R | 7.5 | 3583.0 | 6.0 | 
+| 2015-07-21 | 2015年中国段位戦 | Fan Yin | Yang Kaiwen | Lose | B+R | 7.5 | 3577.0 | -12.0 | 
+| 2015-07-20 | 2015年中国段位戦 | Xia Chenkun | Yang Kaiwen | Win | W+R | 7.5 | 3589.0 | 13.0 | 
 | 2015-07-19 | 2015年中国段位戦 | Han Yizhou | Yang Kaiwen | Win | W+R | 7.5 | 3576.0 | 8.0 | 
 | 2015-07-17 | 2015年中国段位戦 |  | Yang Kaiwen | Win | W+R | 7.5 | 3568.0 | -4.0 | 
 | 2015-07-16 | 2015年中国段位戦 |  | Yang Kaiwen | Win | W+R | 7.5 | 3572.0 | 14.0 | 
@@ -205,9 +205,9 @@
 | 2014-09-09 | 第5回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Qiu Jun | Yang Kaiwen | Lose | B+1.5 | 7.5 | 3532.0 | -38.0 | 
 | 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Yang Kaiwen | Niu Yutian | Win | B+1.5 | 7.5 | 3570.0 | 12.0 | 
 | 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Yang Kaiwen | Zhou Hexi | Win | B+R | 7.5 | 3558.0 | 18.0 | 
-| 2014-08-15 | 2014年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Yang Kaiwen | Yu Zhiying | Win | B+R | 7.5 | 3540.0 | -77.0 | 
-| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Yang Kaiwen | An Dongxu | Lose | W+R | 7.5 | 3617.0 | -78.0 | 
-| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Yang Kaiwen | Zhou Ruiyang | Win | B+R | 7.5 | 3695.0 | 48.0 | 
+| 2014-08-15 | 2014年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Yang Kaiwen | Yu Zhiying | Win | B+R | 7.5 | 3540.0 | -76.0 | 
+| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Yang Kaiwen | An Dongxu | Lose | W+R | 7.5 | 3616.0 | -78.0 | 
+| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Yang Kaiwen | Zhou Ruiyang | Win | B+R | 7.5 | 3694.0 | 47.0 | 
 | 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Yang Kaiwen | Yang Dingxin | Win | B+R | 7.5 | 3647.0 | 0.0 | 
 | 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | An Dongxu | Yang Kaiwen | Lose | B+R | 7.5 | 3647.0 | 66.0 | 
 | 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Kong Jie | Yang Kaiwen | Win | W+R | 7.5 | 3581.0 | 67.0 | 

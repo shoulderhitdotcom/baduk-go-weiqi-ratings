@@ -17,9 +17,9 @@
 | 2021-12-20 | 第1回テイケイ杯俊英戦Aリーグ |  | Ichiriki Ryo | Win | W+1.5 | 6.5 | 3472.0 | -38.0 | 
 | 2021-12-10 | 第77期本因坊戦リーグ | Ichiriki Ryo | Yu Zhengqi | Lose | W+R | 6.5 | 3510.0 | 7.0 | 
 | 2021-12-06 | 第47期天元戦挑戦手合五番勝負第4局  | Seki Kotaro | Ichiriki Ryo | Lose | B+R | 6.5 | 3503.0 | -3.0 | 
-| 2021-12-03 | 第47期名人戦リーグ  | Ida Atsushi | Ichiriki Ryo | Win | W+R | 6.5 | 3506.0 | 47.0 | 
-| 2021-11-25 | 第47期天元戦挑戦手合五番勝負第3局  | Ichiriki Ryo | Seki Kotaro | Lose | W+R | 6.5 | 3459.0 | -3.0 | 
-| 2021-11-16 | 第47期天元戦挑戦手合五番勝負第2局  | Seki Kotaro | Ichiriki Ryo | Win | W+R | 6.5 | 3462.0 | -11.0 | 
+| 2021-12-03 | 第47期名人戦リーグ  | Ida Atsushi | Ichiriki Ryo | Win | W+R | 6.5 | 3506.0 | 48.0 | 
+| 2021-11-25 | 第47期天元戦挑戦手合五番勝負第3局  | Ichiriki Ryo | Seki Kotaro | Lose | W+R | 6.5 | 3458.0 | -3.0 | 
+| 2021-11-16 | 第47期天元戦挑戦手合五番勝負第2局  | Seki Kotaro | Ichiriki Ryo | Win | W+R | 6.5 | 3461.0 | -12.0 | 
 | 2021-11-08 | 第26回LG杯朝鮮日報棋王戦3回戦  | Shin Jinseo | Ichiriki Ryo | Lose | B+R | 6.5 | 3473.0 | -12.0 | 
 | 2021-10-25 | 第46期棋聖戦挑戦者決定戦第1局  | Ichiriki Ryo | Shibano Toramaru | Win | B+R | 6.5 | 3485.0 | 22.0 | 
 | 2021-10-20 | 第46期名人戦挑戦手合七番勝負第6局  | Iyama Yuta | Ichiriki Ryo | Lose | B+R | 6.5 | 3463.0 | -2.0 | 
@@ -47,13 +47,13 @@
 | 2021-06-02 | 第26回LG杯朝鮮日報棋王戦2回戦 | Chen Qirui | Ichiriki Ryo | Win | W+R | 6.5 | 3506.0 | -1.0 | 
 | 2021-05-24 | 第46期棋聖戦Sリーグ | Ichiriki Ryo | Yamashita Keigo | Win | B+3.5 | 6.5 | 3507.0 | 9.0 | 
 | 2021-05-13 | 第69期王座戦1回戦 | Tsuruta Kazushi | Ichiriki Ryo | Win | W+3.5 | 6.5 | 3498.0 | 4.0 | 
-| 2021-05-12 | 第23回中国囲碁甲級リーグ  | Ichiriki Ryo | Han Yizhou | Lose | W+R | 7.5 | 3494.0 | 9.0 | 
-| 2021-05-06 | 第46期名人戦リーグ  | Shibano Toramaru | Ichiriki Ryo | Win | W+R | 6.5 | 3485.0 | 17.0 | 
-| 2021-04-22 | 第46期棋聖戦Sリーグ | Kono Rin | Ichiriki Ryo | Win | W+1.5 | 6.5 | 3468.0 | 11.0 | 
-| 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第2戦 | Ichiriki Ryo | Lin Junyan | Win | B+R | 6.5 | 3457.0 | 0.0 | 
-| 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第1戦 | Ichiriki Ryo | Xu Haohong | Win | B+R | 6.5 | 3457.0 | 34.0 | 
-| 2021-04-12 | 第46期名人戦リーグ  | Motoki Katsuya | Ichiriki Ryo | Win | W+R | 6.5 | 3423.0 | 7.0 | 
-| 2021-04-02 | 第76期本因坊戦リーグ  | Ichiriki Ryo | Onishi Ryuhei | Win | B+R | 6.5 | 3416.0 | 6.0 | 
+| 2021-05-12 | 第23回中国囲碁甲級リーグ  | Ichiriki Ryo | Han Yizhou | Lose | W+R | 7.5 | 3494.0 | 10.0 | 
+| 2021-05-06 | 第46期名人戦リーグ  | Shibano Toramaru | Ichiriki Ryo | Win | W+R | 6.5 | 3484.0 | 17.0 | 
+| 2021-04-22 | 第46期棋聖戦Sリーグ | Kono Rin | Ichiriki Ryo | Win | W+1.5 | 6.5 | 3467.0 | 11.0 | 
+| 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第2戦 | Ichiriki Ryo | Lin Junyan | Win | B+R | 6.5 | 3456.0 | 0.0 | 
+| 2021-04-17 | 2021年日本ナショナルチームvs台湾精鋭隊交流戦第1戦 | Ichiriki Ryo | Xu Haohong | Win | B+R | 6.5 | 3456.0 | 34.0 | 
+| 2021-04-12 | 第46期名人戦リーグ  | Motoki Katsuya | Ichiriki Ryo | Win | W+R | 6.5 | 3422.0 | 7.0 | 
+| 2021-04-02 | 第76期本因坊戦リーグ  | Ichiriki Ryo | Onishi Ryuhei | Win | B+R | 6.5 | 3415.0 | 5.0 | 
 | 2021-03-18 | 第69期王座戦予選 | Ichiriki Ryo | Koike Yoshihiro | Win | B+R | 6.5 | 3410.0 | 18.0 | 
 | 2021-03-11 | 第76期本因坊戦リーグ  | Hsu Chiayuan | Ichiriki Ryo | Lose | B+R | 6.5 | 3392.0 | -15.0 | 
 | 2021-02-24 | 第22回農心辛ラーメン杯世界囲碁最強戦第12戦 | Shin Jinseo | Ichiriki Ryo | Lose | B+R | 6.5 | 3407.0 | 17.0 | 
@@ -103,8 +103,8 @@
 | 2020-06-25 | 第45期名人戦リーグ | Ichiriki Ryo | Rin Kanketsu | Win | B+R | 6.5 | 3489.0 | 15.0 | 
 | 2020-06-18 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Yokotsuka Riki | Ichiriki Ryo | Win | W+R | 6.5 | 3474.0 | 11.0 | 
 | 2020-06-15 | 第45期名人戦リーグ | Kono Rin | Ichiriki Ryo | Win | W+3.5 | 6.5 | 3463.0 | 10.0 | 
-| 2020-06-11 | 第45期棋聖戦Sリーグ | Cho U | Ichiriki Ryo | Win | W+R | 6.5 | 3453.0 | 12.0 | 
-| 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Ichiriki Ryo | Park Junghwan | Lose | W+R | 6.5 | 3441.0 | -2.0 | 
+| 2020-06-11 | 第45期棋聖戦Sリーグ | Cho U | Ichiriki Ryo | Win | W+R | 6.5 | 3453.0 | 13.0 | 
+| 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Ichiriki Ryo | Park Junghwan | Lose | W+R | 6.5 | 3440.0 | -3.0 | 
 | 2020-04-27 | 第4回Mlily夢百合杯世界囲碁オープン戦8強戦 | Ichiriki Ryo | Xie Ke | Lose | W+R | 7.5 | 3443.0 | -31.0 | 
 | 2020-04-17 | 日台交流戦第2戦 | Ichiriki Ryo | Lai Junfu | Win | B+R | 6.5 | 3474.0 | 0.0 | 
 | 2020-04-17 | 日台交流戦第1戦 | Xu Haohong | Ichiriki Ryo | Lose | B+R | 6.5 | 3474.0 | -28.0 | 
@@ -137,11 +137,11 @@
 | 2019-10-11 | 第4回Mlily夢百合杯世界囲碁オープン戦32強戦 | Lyu Liyan | Ichiriki Ryo | Win | W+R | 7.5 | 3423.0 | 27.0 | 
 | 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Yu Zhiying | Ichiriki Ryo | Win | W+R | 7.5 | 3396.0 | 10.0 | 
 | 2019-10-05 | 第26期阿含・桐山杯全日本早碁オープン戦決勝  | Ichiriki Ryo | Cho U | Lose | W+R | 6.5 | 3386.0 | -9.0 | 
-| 2019-10-03 | 第58期十段戦2回戦 | Ichiriki Ryo | Sun Zhe | Lose | W+R | 6.5 | 3395.0 | -13.0 | 
-| 2019-09-12 | 第46期天元戦予選 | Hirose Yuichi | Ichiriki Ryo | Win | W+R | 6.5 | 3408.0 | 4.0 | 
-| 2019-09-05 | 第44期棋聖戦Aリーグ | Cho U | Ichiriki Ryo | Win | W+R | 6.5 | 3404.0 | -16.0 | 
-| 2019-09-02 | 第58期十段戦予選 | Anzai Nobuaki | Ichiriki Ryo | Win | W+R | 6.5 | 3420.0 | -2.0 | 
-| 2019-08-26 | 第44期棋聖戦Aリーグ | Ichiriki Ryo | Yu Zhengqi | Win | B+1.5 | 6.5 | 3422.0 | 26.0 | 
+| 2019-10-03 | 第58期十段戦2回戦 | Ichiriki Ryo | Sun Zhe | Lose | W+R | 6.5 | 3395.0 | -12.0 | 
+| 2019-09-12 | 第46期天元戦予選 | Hirose Yuichi | Ichiriki Ryo | Win | W+R | 6.5 | 3407.0 | 4.0 | 
+| 2019-09-05 | 第44期棋聖戦Aリーグ | Cho U | Ichiriki Ryo | Win | W+R | 6.5 | 3403.0 | -16.0 | 
+| 2019-09-02 | 第58期十段戦予選 | Anzai Nobuaki | Ichiriki Ryo | Win | W+R | 6.5 | 3419.0 | -2.0 | 
+| 2019-08-26 | 第44期棋聖戦Aリーグ | Ichiriki Ryo | Yu Zhengqi | Win | B+1.5 | 6.5 | 3421.0 | 25.0 | 
 | 2019-08-22 | 第75期本因坊戦予選 | Seto Taiki | Ichiriki Ryo | Win | W+4.5 | 6.5 | 3396.0 | -3.0 | 
 | 2019-08-15 | 第26期阿含・桐山杯全日本早碁オープン戦準決勝 | Ohba Junya | Ichiriki Ryo | Win | W+R | 6.5 | 3399.0 | -15.0 | 
 | 2019-07-25 | 第26期阿含・桐山杯全日本早碁オープン戦2回戦 | Sun Zhe | Ichiriki Ryo | Win | W+R | 6.5 | 3414.0 | -26.0 | 
@@ -166,8 +166,8 @@
 | 2019-04-18 | 第6回グランドチャンピオン戦2回戦 | Ichiriki Ryo | Rin Kanketsu | Win | B+R | 6.5 | 3448.0 | -20.0 | 
 | 2019-04-14 | 第2回トライカップ プロ囲碁団体戦 | Takao Shinji | Ichiriki Ryo | Win | W+R | 6.5 | 3468.0 | 0.0 | 
 | 2019-04-14 | 第2回トライカップ プロ囲碁団体戦 | Ichiriki Ryo | Hirata Tomoya | Win | B+R | 6.5 | 3468.0 | 10.0 | 
-| 2019-04-13 | 第1回日中韓竜星戦決勝 | Ichiriki Ryo | Ke Jie | Lose | W+R | 6.5 | 3458.0 | 8.0 | 
-| 2019-04-11 | 第1回日中韓竜星戦第1戦 | Ke Jie | Ichiriki Ryo | Win | W+R | 6.5 | 3450.0 | 15.0 | 
+| 2019-04-13 | 第1回日中韓竜星戦決勝 | Ichiriki Ryo | Ke Jie | Lose | W+R | 6.5 | 3458.0 | 9.0 | 
+| 2019-04-11 | 第1回日中韓竜星戦第1戦 | Ke Jie | Ichiriki Ryo | Win | W+R | 6.5 | 3449.0 | 14.0 | 
 | 2019-04-05 | 第74期本因坊戦リーグ | Ichiriki Ryo | Kono Rin | Lose | W+1.5 | 6.5 | 3435.0 | -6.0 | 
 | 2019-04-01 | 第44期碁聖戦本戦3回戦 | Seto Taiki | Ichiriki Ryo | Win | W+R | 6.5 | 3441.0 | 20.0 | 
 | 2019-03-21 | 第44期棋聖戦Aリーグ | Rin Kanketsu | Ichiriki Ryo | Win | W+R | 6.5 | 3421.0 | 7.0 | 
@@ -175,8 +175,8 @@
 | 2019-02-07 | 第45期天元戦1回戦 | Ida Atsushi | Ichiriki Ryo | Lose | B+R | 6.5 | 3435.0 | -3.0 | 
 | 2019-01-31 | 第74期本因坊戦リーグ | Anzai Nobuaki | Ichiriki Ryo | Win | W+R | 6.5 | 3438.0 | -5.0 | 
 | 2019-01-17 | 第74期本因坊戦リーグ | Ichiriki Ryo | Shibano Toramaru | Lose | W+R | 6.5 | 3443.0 | 12.0 | 
-| 2019-01-10 | 第44期碁聖戦本戦2回戦 | Ichiriki Ryo | Anzai Nobuaki | Win | B+1.5 | 6.5 | 3431.0 | 19.0 | 
-| 2018-12-27 | ナショナルチーム合宿対局 | Ichiriki Ryo | Motoki Katsuya | Lose | W+R | 6.5 | 3412.0 | 15.0 | 
+| 2019-01-10 | 第44期碁聖戦本戦2回戦 | Ichiriki Ryo | Anzai Nobuaki | Win | B+1.5 | 6.5 | 3431.0 | 20.0 | 
+| 2018-12-27 | ナショナルチーム合宿対局 | Ichiriki Ryo | Motoki Katsuya | Lose | W+R | 6.5 | 3411.0 | 14.0 | 
 | 2018-12-20 | 第45期天元戦予選 | Tsuneishi Takashi | Ichiriki Ryo | Win | W+R | 6.5 | 3397.0 | -9.0 | 
 | 2018-12-13 | 第66期王座戦挑戦手合五番勝負第5局 | Ichiriki Ryo | Iyama Yuta | Lose | W+R | 6.5 | 3406.0 | 9.0 | 
 | 2018-12-08 | 第20期阿含・桐山杯早碁オープン戦日中決戦  | Gu Zihao | Ichiriki Ryo | Lose | B+R | 6.5 | 3397.0 | -5.0 | 
@@ -235,13 +235,13 @@
 | 2018-02-16 | 第42期棋聖戦挑戦手合七番勝負第4局 | Iyama Yuta | Ichiriki Ryo | Lose | B+R | 6.5 | 3300.0 | -7.0 | 
 | 2018-02-06 | 第6回CCTV賀歳杯第2局 | Ichiriki Ryo | Ke Jie | Lose | W+1¼ | 7.5 | 3307.0 | -7.0 | 
 | 2018-02-05 | 第6回CCTV賀歳杯第1局 | Ichiriki Ryo | Park Junghwan | Lose | W+R | 7.5 | 3314.0 | 3.0 | 
-| 2018-02-01 | 第42期棋聖戦挑戦手合七番勝負第3局 | Ichiriki Ryo | Iyama Yuta | Lose | W+R | 6.5 | 3311.0 | -11.0 | 
-| 2018-01-26 | 第42期棋聖戦挑戦手合七番勝負第2局 | Iyama Yuta | Ichiriki Ryo | Lose | B+R | 6.5 | 3322.0 | -8.0 | 
-| 2018-01-22 | 第2回ワールド碁チャンピオンシップ代表決定戦準決勝 | Ichiriki Ryo | Kono Rin | Win | B+R | 6.5 | 3330.0 | 12.0 | 
+| 2018-02-01 | 第42期棋聖戦挑戦手合七番勝負第3局 | Ichiriki Ryo | Iyama Yuta | Lose | W+R | 6.5 | 3311.0 | -10.0 | 
+| 2018-01-26 | 第42期棋聖戦挑戦手合七番勝負第2局 | Iyama Yuta | Ichiriki Ryo | Lose | B+R | 6.5 | 3321.0 | -8.0 | 
+| 2018-01-22 | 第2回ワールド碁チャンピオンシップ代表決定戦準決勝 | Ichiriki Ryo | Kono Rin | Win | B+R | 6.5 | 3329.0 | 11.0 | 
 | 2018-01-18 | 第42期棋聖戦挑戦手合七番勝負第1局 | Ichiriki Ryo | Iyama Yuta | Lose | W+R | 6.5 | 3318.0 | -21.0 | 
-| 2018-01-11 | 第43期碁聖戦本戦2回戦 | Ichiriki Ryo | Ida Atsushi | Lose | W+R | 6.5 | 3339.0 | -18.0 | 
-| 2017-12-27 | ナショナルチーム冬季合宿 | Ichiriki Ryo | Yuki Satoshi | Win | B+R | 6.5 | 3357.0 | 7.0 | 
-| 2017-12-26 | ナショナルチーム冬季合宿 | Ichiriki Ryo | Shida Tatsuya | Lose | W+1.5 | 6.5 | 3350.0 | -5.0 | 
+| 2018-01-11 | 第43期碁聖戦本戦2回戦 | Ichiriki Ryo | Ida Atsushi | Lose | W+R | 6.5 | 3339.0 | -17.0 | 
+| 2017-12-27 | ナショナルチーム冬季合宿 | Ichiriki Ryo | Yuki Satoshi | Win | B+R | 6.5 | 3356.0 | 7.0 | 
+| 2017-12-26 | ナショナルチーム冬季合宿 | Ichiriki Ryo | Shida Tatsuya | Lose | W+1.5 | 6.5 | 3349.0 | -6.0 | 
 | 2017-12-21 | 第56期十段戦準決勝 | Shida Tatsuya | Ichiriki Ryo | Lose | B+1.5 | 6.5 | 3355.0 | 1.0 | 
 | 2017-12-07 | 第56期十段戦3回戦 | Ida Atsushi | Ichiriki Ryo | Win | W+R | 6.5 | 3354.0 | 7.0 | 
 | 2017-12-04 | 第43期碁聖戦本戦1回戦 | Ichiriki Ryo | Yamada Kimio | Win | B+R | 6.5 | 3347.0 | 25.0 | 
@@ -260,17 +260,17 @@
 | 2017-09-17 | 第29回テレビアジア選手権準決勝 | Na Hyun | Ichiriki Ryo | Lose | B+R | 7.5 | 3394.0 | -7.0 | 
 | 2017-09-15 | 第29回テレビアジア選手権1回戦 | Zhang Tao | Ichiriki Ryo | Win | W+2.5 | 7.5 | 3401.0 | 18.0 | 
 | 2017-09-07 | 第42期棋聖戦　Sリーグ5回戦 | Kono Rin | Ichiriki Ryo | Win | W+R | 6.5 | 3383.0 | 4.0 | 
-| 2017-08-31 | 第43期天元戦　挑戦者決定戦 | Ichiriki Ryo | Yamashita Keigo | Win | B+4.5 | 6.5 | 3379.0 | -1.0 | 
-| 2017-08-25 | 第65期王座戦　挑戦者決定戦 | Ichiriki Ryo | Shibano Toramaru | Win | B+1.5 | 6.5 | 3380.0 | 14.0 | 
-| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Ichiriki Ryo | Li Qincheng | Lose | W+R | 7.5 | 3366.0 | 1.0 | 
+| 2017-08-31 | 第43期天元戦　挑戦者決定戦 | Ichiriki Ryo | Yamashita Keigo | Win | B+4.5 | 6.5 | 3379.0 | 0.0 | 
+| 2017-08-25 | 第65期王座戦　挑戦者決定戦 | Ichiriki Ryo | Shibano Toramaru | Win | B+1.5 | 6.5 | 3379.0 | 14.0 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Ichiriki Ryo | Li Qincheng | Lose | W+R | 7.5 | 3365.0 | 0.0 | 
 | 2017-08-14 | 阪急電鉄納涼囲碁まつり阪急トーナメント決勝戦 | Seto Taiki | Ichiriki Ryo | Lose | B+R | 6.5 | 3365.0 | 0.0 | 
 | 2017-08-14 | 阪急電鉄納涼囲碁まつり阪急トーナメント予選第1局 | Murakawa Daisuke | Ichiriki Ryo | Win | W+R | 6.5 | 3365.0 | 7.0 | 
 | 2017-08-10 | 第65期王座戦準決勝 | Sun Zhe | Ichiriki Ryo | Win | W+R | 6.5 | 3358.0 | -23.0 | 
 | 2017-08-03 | 第42期棋聖戦　Sリーグ4回戦 | So Yokoku | Ichiriki Ryo | Win | W+R | 6.5 | 3381.0 | 10.0 | 
 | 2017-07-29 | ナショナルチーム強化対局 | DeepZenGo | Ichiriki Ryo | Lose | B+4.5 | 6.5 | 3371.0 | -22.0 | 
 | 2017-07-27 | 第43期天元戦準決勝 | Ichiriki Ryo | Cho Chikun | Win | B+R | 6.5 | 3393.0 | 4.0 | 
-| 2017-07-26 | ナショナルチーム強化対局 | DeepZenGo | Ichiriki Ryo | Lose | B+R | 6.5 | 3389.0 | -10.0 | 
-| 2017-07-21 | ナショナルチーム強化対局 | Ichiriki Ryo | DeepZenGo | Lose | W+R | 6.5 | 3399.0 | -10.0 | 
+| 2017-07-26 | ナショナルチーム強化対局 | DeepZenGo | Ichiriki Ryo | Lose | B+R | 6.5 | 3389.0 | -9.0 | 
+| 2017-07-21 | ナショナルチーム強化対局 | Ichiriki Ryo | DeepZenGo | Lose | W+R | 6.5 | 3398.0 | -11.0 | 
 | 2017-07-18 | ナショナルチーム強化対局 | DeepZenGo | Ichiriki Ryo | Win | W+R | 6.5 | 3409.0 | 3.0 | 
 | 2017-07-13 | 第42期棋聖戦　Sリーグ3回戦 | Murakawa Daisuke | Ichiriki Ryo | Win | W+R | 6.5 | 3406.0 | -1.0 | 
 | 2017-07-06 | 第56期十段戦　最終予選決勝 | Ichiriki Ryo | Kurahashi Masayuki | Win | B+R | 6.5 | 3407.0 | 0.0 | 
@@ -388,10 +388,10 @@
 | 2015-09-17 | 第40期棋聖戦Aリーグ | Ichiriki Ryo | Cho Riyu | Win | B+R | 6.5 | 3344.0 | 6.0 | 
 | 2015-09-03 | 第71期本因坊戦予選 | Ichiriki Ryo | Yuki Satoshi | Win | B+R | 6.5 | 3338.0 | -11.0 | 
 | 2015-08-26 | 第27回テレビアジア選手権1回戦 | Yang Dingxin | Ichiriki Ryo | Lose | B+0.5 | 6.5 | 3349.0 | -27.0 | 
-| 2015-08-20 | 第40期棋聖戦Aリーグ | Cho Chikun | Ichiriki Ryo | Lose | B+2.5 | 6.5 | 3376.0 | -9.0 | 
-| 2015-07-30 | 第54期十段戦予選 | Ichiriki Ryo | Cho Sonjin | Win | B+R | 6.5 | 3385.0 | 17.0 | 
-| 2015-07-27 | 第71期本因坊戦予選 | Yamada Takuji | Ichiriki Ryo | Win | W+R | 6.5 | 3368.0 | 12.0 | 
-| 2015-07-23 | 第40期棋聖戦Aリーグ | Yuki Satoshi | Ichiriki Ryo | Win | W+R | 6.5 | 3356.0 | 32.0 | 
+| 2015-08-20 | 第40期棋聖戦Aリーグ | Cho Chikun | Ichiriki Ryo | Lose | B+2.5 | 6.5 | 3376.0 | -8.0 | 
+| 2015-07-30 | 第54期十段戦予選 | Ichiriki Ryo | Cho Sonjin | Win | B+R | 6.5 | 3384.0 | 17.0 | 
+| 2015-07-27 | 第71期本因坊戦予選 | Yamada Takuji | Ichiriki Ryo | Win | W+R | 6.5 | 3367.0 | 12.0 | 
+| 2015-07-23 | 第40期棋聖戦Aリーグ | Yuki Satoshi | Ichiriki Ryo | Win | W+R | 6.5 | 3355.0 | 31.0 | 
 | 2015-07-13 | 第63期王座戦2回戦 | Ichiriki Ryo | Iyama Yuta | Lose | W+R | 6.5 | 3324.0 | 3.0 | 
 | 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Ichiriki Ryo | Zhang Qiang | Lose | W+R | 7.5 | 3321.0 | -43.0 | 
 | 2015-06-25 | 第41期天元戦本戦3回戦 | Lee Ishu | Ichiriki Ryo | Lose | B+R | 6.5 | 3364.0 | -12.0 | 
@@ -427,13 +427,13 @@
 | 2014-08-28 | 第40期碁聖戦予選 | Suzuki Shinji | Ichiriki Ryo | Win | W+R | 6.5 | 3268.0 | -2.0 | 
 | 2014-08-21 | 第40期天元戦本戦準決勝 | Takao Shinji | Ichiriki Ryo | Lose | B+1.5 | 6.5 | 3270.0 | -6.0 | 
 | 2014-08-18 | 第1回イベロジャパン杯準決勝 | Chang Rueijie | Ichiriki Ryo | Win | W+R | 6.5 | 3276.0 | 9.0 | 
-| 2014-08-11 | 第1回ゆうちょ杯囲碁ユース選手権順位決定戦 | Ichiriki Ryo | Tsuruta Kazushi | Win | B+R | 6.5 | 3267.0 | 0.0 | 
-| 2014-08-05 | 第19回三星火災杯統合予選準決勝 | Hong Kipyo | Ichiriki Ryo | Lose | B+R | 6.5 | 3267.0 | 15.0 | 
-| 2014-08-02 | 第19回三星火災杯統合予選2回戦 | Ichiriki Ryo | Park Younglong | Win | B+R | 6.5 | 3252.0 | -36.0 | 
-| 2014-07-24 | 第39期新人王戦準決勝 | Muramatsu Hiroki | Ichiriki Ryo | Win | W+R | 6.5 | 3288.0 | -44.0 | 
-| 2014-07-14 | 第1回ゆうちょ杯囲碁ユース選手権2回戦 | Ichiriki Ryo | Motoki Katsuya | Lose | W+R | 6.5 | 3332.0 | 0.0 | 
-| 2014-07-14 | 第1回ゆうちょ杯囲碁ユース選手権1回戦 | Takeuchi Kousuke | Ichiriki Ryo | Win | W+R | 6.5 | 3332.0 | -30.0 | 
-| 2014-07-10 | 第39期棋聖戦Aリーグ | Ichiriki Ryo | Hane Naoki | Lose | W+R | 6.5 | 3362.0 | -21.0 | 
+| 2014-08-11 | 第1回ゆうちょ杯囲碁ユース選手権順位決定戦 | Ichiriki Ryo | Tsuruta Kazushi | Win | B+R | 6.5 | 3267.0 | 1.0 | 
+| 2014-08-05 | 第19回三星火災杯統合予選準決勝 | Hong Kipyo | Ichiriki Ryo | Lose | B+R | 6.5 | 3266.0 | 15.0 | 
+| 2014-08-02 | 第19回三星火災杯統合予選2回戦 | Ichiriki Ryo | Park Younglong | Win | B+R | 6.5 | 3251.0 | -36.0 | 
+| 2014-07-24 | 第39期新人王戦準決勝 | Muramatsu Hiroki | Ichiriki Ryo | Win | W+R | 6.5 | 3287.0 | -44.0 | 
+| 2014-07-14 | 第1回ゆうちょ杯囲碁ユース選手権2回戦 | Ichiriki Ryo | Motoki Katsuya | Lose | W+R | 6.5 | 3331.0 | 0.0 | 
+| 2014-07-14 | 第1回ゆうちょ杯囲碁ユース選手権1回戦 | Takeuchi Kousuke | Ichiriki Ryo | Win | W+R | 6.5 | 3331.0 | -30.0 | 
+| 2014-07-10 | 第39期棋聖戦Aリーグ | Ichiriki Ryo | Hane Naoki | Lose | W+R | 6.5 | 3361.0 | -22.0 | 
 | 2014-06-24 | 第1回イベロジャパン杯2回戦 | Kuwabara Shun | Ichiriki Ryo | Win | W+10.5 | 6.5 | 3383.0 | -20.0 | 
 | 2014-06-19 | 第39期棋聖戦Aリーグ | Kono Rin | Ichiriki Ryo | Lose | B+R | 6.5 | 3403.0 | -59.0 | 
 | 2014-06-12 | 第40期天元戦本戦3回戦 | Ichiriki Ryo | Kanazawa Makoto | Win | B+R | 6.5 | 3462.0 | -42.0 | 
@@ -446,13 +446,13 @@
 | 2014-05-11 | 第1回グロービス杯世界囲碁U-20決勝 | Ichiriki Ryo | Hsu Chiayuan | Win | B+R | 6.5 | 3605.0 | 47.0 | 
 | 2014-05-10 | 第1回グロービス杯世界囲碁U-20準々決勝 | Na Hyun | Ichiriki Ryo | Win | W+R | 6.5 | 3558.0 | 17.0 | 
 | 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグB | Hei Jiajia | Ichiriki Ryo | Win | W+R | 6.5 | 3541.0 | 0.0 | 
-| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグB | Ichiriki Ryo | Lin Junyan | Win | B+R | 6.5 | 3541.0 | -11.0 | 
-| 2014-05-01 | 第39期新人王戦2回戦 | Ichiriki Ryo | Horimoto Mitsunari | Win | B+2.5 | 6.5 | 3552.0 | -12.0 | 
-| 2014-04-24 | 第62期王座戦予選 | Ichiriki Ryo | Han Zenki | Lose | W+R | 6.5 | 3564.0 | -19.0 | 
-| 2014-04-18 | 第19回LG杯予選 |  | Ichiriki Ryo | Lose | B+R | 6.5 | 3583.0 | -25.0 | 
-| 2014-04-17 | 第19回LG杯予選 | Park Seunghyeon | Ichiriki Ryo | Win | W+R | 6.5 | 3608.0 | 40.0 | 
-| 2014-04-11 | 第1回グロービス杯国内予選 | Hara Masakazu | Ichiriki Ryo | Win | W+R | 6.5 | 3568.0 | 0.0 | 
-| 2014-04-11 | 第1回グロービス杯国内予選 | Ichiriki Ryo | Onishi Kenya | Win | B+0.5 | 6.5 | 3568.0 | -8.0 | 
+| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグB | Ichiriki Ryo | Lin Junyan | Win | B+R | 6.5 | 3541.0 | -10.0 | 
+| 2014-05-01 | 第39期新人王戦2回戦 | Ichiriki Ryo | Horimoto Mitsunari | Win | B+2.5 | 6.5 | 3551.0 | -12.0 | 
+| 2014-04-24 | 第62期王座戦予選 | Ichiriki Ryo | Han Zenki | Lose | W+R | 6.5 | 3563.0 | -19.0 | 
+| 2014-04-18 | 第19回LG杯予選 |  | Ichiriki Ryo | Lose | B+R | 6.5 | 3582.0 | -25.0 | 
+| 2014-04-17 | 第19回LG杯予選 | Park Seunghyeon | Ichiriki Ryo | Win | W+R | 6.5 | 3607.0 | 40.0 | 
+| 2014-04-11 | 第1回グロービス杯国内予選 | Hara Masakazu | Ichiriki Ryo | Win | W+R | 6.5 | 3567.0 | 0.0 | 
+| 2014-04-11 | 第1回グロービス杯国内予選 | Ichiriki Ryo | Onishi Kenya | Win | B+0.5 | 6.5 | 3567.0 | -9.0 | 
 | 2014-04-03 | 第70期本因坊戦予選 | Ichiriki Ryo | Kataoka Satoshi | Lose | W+1.5 | 6.5 | 3576.0 | -48.0 | 
 | 2014-03-27 | 第40期天元戦本戦2回戦 | Ichiriki Ryo | Nakamura Shinya | Win | B+3.5 | 6.5 | 3624.0 | 18.0 | 
 | 2014-03-21 | 第39期棋聖戦予選 | Ichiriki Ryo | Cho U | Win | B+7.5 | 6.5 | 3606.0 | 4.0 | 
@@ -479,10 +479,10 @@
 | 2013-08-29 | 第15回農心杯選抜戦 | Ichiriki Ryo | Anzai Nobuaki | Win | B+R | 6.5 | 3409.0 | 30.0 | 
 | 2013-08-24 | 第15回農心杯選抜戦 | Yu Zhengqi | Ichiriki Ryo | Win | W+1.5 | 6.5 | 3379.0 | 23.0 | 
 | 2013-08-22 | 第39期名人戦予選 | Ichiriki Ryo | Mochizuki Kenichi | Win | B+R | 6.5 | 3356.0 | 33.0 | 
-| 2013-08-19 | 第20期阿含・桐山杯全日本早碁オープン戦準決勝 | Shida Tatsuya | Ichiriki Ryo | Lose | B+0.5 | 6.5 | 3323.0 | -3.0 | 
-| 2013-08-05 | 第18回三星火災杯統合予選3回戦 | Ichiriki Ryo | You Byungyong | Win | B+R | 6.5 | 3326.0 | 20.0 | 
-| 2013-07-29 | 第20期阿含・桐山杯全日本早碁オープン戦2回戦 | Tsuruyama Atsushi | Ichiriki Ryo | Win | W+R | 6.5 | 3306.0 | 72.0 | 
-| 2013-07-04 | 第20期阿含・桐山杯全日本早碁オープン戦1回戦 | Ichiriki Ryo | Yuki Satoshi | Win | B+R | 6.5 | 3234.0 | 68.0 | 
+| 2013-08-19 | 第20期阿含・桐山杯全日本早碁オープン戦準決勝 | Shida Tatsuya | Ichiriki Ryo | Lose | B+0.5 | 6.5 | 3323.0 | -2.0 | 
+| 2013-08-05 | 第18回三星火災杯統合予選3回戦 | Ichiriki Ryo | You Byungyong | Win | B+R | 6.5 | 3325.0 | 19.0 | 
+| 2013-07-29 | 第20期阿含・桐山杯全日本早碁オープン戦2回戦 | Tsuruyama Atsushi | Ichiriki Ryo | Win | W+R | 6.5 | 3306.0 | 73.0 | 
+| 2013-07-04 | 第20期阿含・桐山杯全日本早碁オープン戦1回戦 | Ichiriki Ryo | Yuki Satoshi | Win | B+R | 6.5 | 3233.0 | 67.0 | 
 | 2013-06-24 | 第52期十段戦予選 | Kono Rin | Ichiriki Ryo | Win | W+R | 6.5 | 3166.0 | 190.0 | 
 | 2013-06-06 | 第20期阿含・桐山杯全日本早碁オープン戦予選 | Cho Chikun | Ichiriki Ryo | Win | W+R | 6.5 | 2976.0 | 27.0 | 
 | 2013-06-03 | 第52期十段戦予選 | Ichiriki Ryo | Michael Redmond | Win | B+R | 6.5 | 2949.0 | -93.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-21 | 第21期天元戦（台湾）敗部1回戦 | Zhou Pingqiang | Lin Shuyang | Win | W+9.5 | 6.5 | 2873.0 | -9.0 | 
 | 2022-01-18 | 第21期天元戦（台湾）勝部1回戦 | Lin Shuyang | Lin Lixiang | Lose | W+4.5 | 6.5 | 2882.0 | 12.0 | 
 | 2022-01-12 | 第21期天元戦（台湾）予選 |  | Lin Shuyang | Win | W+R | 6.5 | 2870.0 | 15.0 | 
 | 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 | Li Wei | Lin Shuyang | Lose | B+R | 6.5 | 2855.0 | 16.0 | 
@@ -154,9 +155,9 @@
 | 2017-08-31 | 第四回福蔭杯代表選抜戦決勝敗部第二局 | Lin Shuyang | Cai Chengwei | Win | B+R | 6.5 | 3020.0 | 0.0 | 
 | 2017-08-31 | 第四回福蔭杯代表選抜戦決勝敗部第三局 | Xiao Zhenghao | Lin Shuyang | Lose | B+R | 6.5 | 3020.0 | 5.0 | 
 | 2017-08-29 | 第四回福蔭杯代表選抜戦決勝勝部第一局 | Lin Shuyang | Lin Lixiang | Win | B+R | 6.5 | 3015.0 | 0.0 | 
-| 2017-08-29 | 第4回おかげ杯国際精鋭囲碁対抗戦台湾選抜戦 | Wang Yuanjun | Lin Shuyang | Lose | B+R | 6.5 | 3015.0 | -3.0 | 
-| 2017-08-25 | 第四回福蔭杯国際精鋭囲棋対抗戦代表選抜戦初戦第二局 | Lin Shuyang | Yu Binghuang | Win | B+R | 6.5 | 3018.0 | 0.0 | 
-| 2017-08-25 | 第四回福蔭杯国際精鋭囲棋対抗戦代表選抜戦初戦第一局 | Lin Shuyang | Lin Xiuping | Win | B+12.5 | 6.5 | 3018.0 | 38.0 | 
+| 2017-08-29 | 第4回おかげ杯国際精鋭囲碁対抗戦台湾選抜戦 | Wang Yuanjun | Lin Shuyang | Lose | B+R | 6.5 | 3015.0 | -2.0 | 
+| 2017-08-25 | 第四回福蔭杯国際精鋭囲棋対抗戦代表選抜戦初戦第二局 | Lin Shuyang | Yu Binghuang | Win | B+R | 6.5 | 3017.0 | 0.0 | 
+| 2017-08-25 | 第四回福蔭杯国際精鋭囲棋対抗戦代表選抜戦初戦第一局 | Lin Shuyang | Lin Xiuping | Win | B+12.5 | 6.5 | 3017.0 | 37.0 | 
 | 2017-04-04 | 第22期LG杯世界予選2回戦 | Lin Shuyang | Fan Tingyu | Win | B+R | 6.5 | 2980.0 | 23.0 | 
 | 2017-03-20 | 第9回海峰杯プロ囲碁戦8強戦 | Lin Shuyang | Wang Yuanjun | Lose | W+3.5 | 6.5 | 2957.0 | 0.0 | 
 | 2017-03-16 | 第9回海峰杯プロ囲碁戦16強戦 | Hei Jiajia | Lin Shuyang | Win | W+0.5 | 6.5 | 2957.0 | 15.0 | 
@@ -241,10 +242,10 @@
 | 2015-02-06 | 第12期倡棋杯中国プロ囲碁選手権戦台湾予選 | Lin Junyan | Lin Shuyang | Lose | B+R | 7.5 | 3040.0 | -77.0 | 
 | 2014-10-03 | 2014年国際新鋭囲碁対抗戦第3戦 | Li Qincheng | Lin Shuyang | Win | W+R | 6.5 | 3117.0 | 123.0 | 
 | 2014-10-02 | 2014年国際新鋭囲碁対抗戦第2戦 | Fujimura Yosuke | Lin Shuyang | Lose | B+R | 6.5 | 2994.0 | -25.0 | 
-| 2014-10-01 | 2014年国際新鋭囲碁対抗戦第1戦 | Shin Minjun | Lin Shuyang | Lose | B+3.5 | 6.5 | 3019.0 | 142.0 | 
-| 2014-08-02 | 第19回三星火災杯統合予選2回戦 | Lin Shuyang | Lee Wonyoung | Lose | W+2.5 | 6.5 | 2877.0 | -26.0 | 
-| 2014-07-24 | 第4期友士杯十段戦挑戦者決定戦 | Lin Junyan | Lin Shuyang | Lose | B+R | 6.5 | 2903.0 | -201.0 | 
-| 2014-04-14 | 第19回LG杯予選 | Lin Shuyang | Li Kang | Lose | W+2.5 | 6.5 | 3104.0 | -14.0 | 
+| 2014-10-01 | 2014年国際新鋭囲碁対抗戦第1戦 | Shin Minjun | Lin Shuyang | Lose | B+3.5 | 6.5 | 3019.0 | 143.0 | 
+| 2014-08-02 | 第19回三星火災杯統合予選2回戦 | Lin Shuyang | Lee Wonyoung | Lose | W+2.5 | 6.5 | 2876.0 | -26.0 | 
+| 2014-07-24 | 第4期友士杯十段戦挑戦者決定戦 | Lin Junyan | Lin Shuyang | Lose | B+R | 6.5 | 2902.0 | -201.0 | 
+| 2014-04-14 | 第19回LG杯予選 | Lin Shuyang | Li Kang | Lose | W+2.5 | 6.5 | 3103.0 | -15.0 | 
 | 2014-03-31 | 第6回海峰杯プロ囲碁戦8強戦 | Wang Yuanjun | Lin Shuyang | Lose | B+5.5 | 6.5 | 3118.0 | 5.0 | 
 | 2014-03-18 | 第13期天元戦（台湾）予選 | Lin Shuyang | Hei Jiajia | Win | B+1.5 | 6.5 | 3113.0 | 36.0 | 
 | 2014-03-10 | 第6回海峰杯プロ囲碁戦16強戦 | Lin Shuyang | Lin Zhihan | Win | B+R | 6.5 | 3077.0 | 65.0 | 

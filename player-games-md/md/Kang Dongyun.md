@@ -15,10 +15,10 @@
 | 2021-12-18 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Byun Sangil | Lose | W+R | 6.5 | 3432.0 | 3.0 | 
 | 2021-12-09 | 第27回GSカルテックス杯プロ棋戦予選 | Kang Dongyun | Choi Jaeyoung | Lose | W+R | 6.5 | 3429.0 | -34.0 | 
 | 2021-12-05 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Donghoon | Kang Dongyun | Lose | B+R | 6.5 | 3463.0 | -13.0 | 
-| 2021-12-03 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Seol Hyunjun | Lose | W+R | 6.5 | 3476.0 | 14.0 | 
-| 2021-11-27 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Na Hyun | Win | B+R | 6.5 | 3462.0 | 11.0 | 
-| 2021-11-20 | 2021-2022韓国囲碁リーグ | An Sungjoon | Kang Dongyun | Win | W+R | 6.5 | 3451.0 | 9.0 | 
-| 2021-11-13 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Han Seungjoo | Kang Dongyun | Lose | B+R | 6.5 | 3442.0 | -20.0 | 
+| 2021-12-03 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Seol Hyunjun | Lose | W+R | 6.5 | 3476.0 | 15.0 | 
+| 2021-11-27 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Na Hyun | Win | B+R | 6.5 | 3461.0 | 11.0 | 
+| 2021-11-20 | 2021-2022韓国囲碁リーグ | An Sungjoon | Kang Dongyun | Win | W+R | 6.5 | 3450.0 | 9.0 | 
+| 2021-11-13 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Han Seungjoo | Kang Dongyun | Lose | B+R | 6.5 | 3441.0 | -21.0 | 
 | 2021-10-09 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Dongyun | Shin Jinseo | Lose | W+0.5 | 6.5 | 3462.0 | 6.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Kang Dongyun | Han Yizhou | Win | B+R | 7.5 | 3456.0 | 4.0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Kang Dongyun | Zhou Ruiyang | Win | B+¾ | 7.5 | 3452.0 | 7.0 | 
@@ -46,21 +46,21 @@
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Wang Zejin | Kang Dongyun | Lose | B+R | 7.5 | 3447.0 | -10.0 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Shi Yue | Kang Dongyun | Lose | B+R | 7.5 | 3457.0 | 2.0 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Kang Dongyun | Gu Zihao | Lose | W+R | 7.5 | 3455.0 | -11.0 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Kang Dongyun | Lose | B+R | 7.5 | 3466.0 | -9.0 | 
-| 2021-05-06 | 第26回LG杯韓国予選 | Kang Dongyun | Kim Junghyun | Win | B+R | 6.5 | 3475.0 | 12.0 | 
-| 2021-05-02 | 第26回LG杯韓国予選 | On Sojin | Kang Dongyun | Win | W+R | 6.5 | 3463.0 | 4.0 | 
-| 2021-05-01 | 第26回LG杯韓国予選 | Kang Dongyun | Park Younglong | Win | B+R | 6.5 | 3459.0 | -1.0 | 
-| 2021-04-29 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Park Junghwan | Lose | W+R | 6.5 | 3460.0 | -1.0 | 
-| 2021-04-24 | 第44期名人戦（韓国）敗者復活戦1回戦 | Kang Dongyun |  | Win | B+R | 6.5 | 3461.0 | 0.0 | 
-| 2021-04-05 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Kang Dongyun | Win | W+R | 6.5 | 3461.0 | -18.0 | 
-| 2021-03-27 | 2020-2021韓国囲碁リーグ優勝決定戦第2戦 | Kang Seungmin | Kang Dongyun | Win | W+R | 6.5 | 3479.0 | 19.0 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Hu Yuhan | Kang Dongyun | Lose | B+R | 7.5 | 3466.0 | -8.0 | 
+| 2021-05-06 | 第26回LG杯韓国予選 | Kang Dongyun | Kim Junghyun | Win | B+R | 6.5 | 3474.0 | 12.0 | 
+| 2021-05-02 | 第26回LG杯韓国予選 | On Sojin | Kang Dongyun | Win | W+R | 6.5 | 3462.0 | 4.0 | 
+| 2021-05-01 | 第26回LG杯韓国予選 | Kang Dongyun | Park Younglong | Win | B+R | 6.5 | 3458.0 | -1.0 | 
+| 2021-04-29 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Park Junghwan | Lose | W+R | 6.5 | 3459.0 | -1.0 | 
+| 2021-04-24 | 第44期名人戦（韓国）敗者復活戦1回戦 | Kang Dongyun |  | Win | B+R | 6.5 | 3460.0 | 0.0 | 
+| 2021-04-05 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Kang Dongyun | Win | W+R | 6.5 | 3460.0 | -18.0 | 
+| 2021-03-27 | 2020-2021韓国囲碁リーグ優勝決定戦第2戦 | Kang Seungmin | Kang Dongyun | Win | W+R | 6.5 | 3478.0 | 18.0 | 
 | 2021-03-20 | 2020-2021韓国囲碁リーグプレーオフ第2戦 | Kang Dongyun | Choi Cheolhan | Win | B+R | 6.5 | 3460.0 | 7.0 | 
 | 2021-03-19 | 2020-2021韓国囲碁リーグプレーオフ第1戦 | Kang Dongyun | Lee Changseok | Win | B+R | 6.5 | 3453.0 | 11.0 | 
 | 2021-03-08 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Seungmin | Kang Dongyun | Win | W+R | 6.5 | 3442.0 | 11.0 | 
 | 2021-03-01 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Lee Changho | Win | B+R | 6.5 | 3431.0 | 0.0 | 
 | 2021-02-27 | 2020-2021韓国囲碁リーグ | Kang Dongyun | Weon Seongjin | Lose | W+R | 6.5 | 3431.0 | -11.0 | 
-| 2021-02-20 | 第44期名人戦（韓国）1回戦 | Park Junghwan | Kang Dongyun | Lose | B+R | 6.5 | 3442.0 | -7.0 | 
-| 2021-02-19 | 2020-2021韓国囲碁リーグ | Lee Changseok | Kang Dongyun | Win | W+R | 6.5 | 3449.0 | 42.0 | 
+| 2021-02-20 | 第44期名人戦（韓国）1回戦 | Park Junghwan | Kang Dongyun | Lose | B+R | 6.5 | 3442.0 | -6.0 | 
+| 2021-02-19 | 2020-2021韓国囲碁リーグ | Lee Changseok | Kang Dongyun | Win | W+R | 6.5 | 3448.0 | 41.0 | 
 | 2021-02-12 | 2020-2021韓国囲碁リーグ | Seol Hyunjun | Kang Dongyun | Lose | B+1.5 | 6.5 | 3407.0 | -1.0 | 
 | 2021-02-09 | 第4期韓国竜星戦1回戦 | Han Wonggyu | Kang Dongyun | Lose | B+R | 6.5 | 3408.0 | -8.0 | 
 | 2021-02-08 | 第2期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Kang Dongyun | Win | W+R | 6.5 | 3416.0 | 12.0 | 
@@ -103,12 +103,12 @@
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Kang Dongyun | Wu Guangya | Lose | W+R | 6.5 | 3488.0 | -70.0 | 
 | 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Kang Dongyun | Ke Jie | Lose | W+R | 7.5 | 3558.0 | -5.0 | 
 | 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Kang Dongyun | Motoki Katsuya | Win | B+R | 7.5 | 3563.0 | 10.0 | 
-| 2020-06-05 | 第25回LG杯朝鮮日報棋王戦2回戦 | Tang Weixing | Kang Dongyun | Win | W+R | 6.5 | 3553.0 | 28.0 | 
-| 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Hsu Chiayuan | Kang Dongyun | Win | W+R | 6.5 | 3525.0 | 22.0 | 
-| 2020-05-29 | 第25期GSカルテックス杯プロ棋戦準決勝 | Shin Jinseo | Kang Dongyun | Lose | B+R | 6.5 | 3503.0 | 34.0 | 
-| 2020-05-22 | 第25期GSカルテックス杯プロ棋戦8強戦 | Baek Hyeonwoo | Kang Dongyun | Win | W+R | 6.5 | 3469.0 | 26.0 | 
-| 2020-05-18 | 第1期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Shin Minjun | Lose | W+R | 6.5 | 3443.0 | -12.0 | 
-| 2020-05-05 | 第1期ソパルコサノル最高棋士決定戦リーグ | Lee Donghoon | Kang Dongyun | Lose | B+R | 6.5 | 3455.0 | -19.0 | 
+| 2020-06-05 | 第25回LG杯朝鮮日報棋王戦2回戦 | Tang Weixing | Kang Dongyun | Win | W+R | 6.5 | 3553.0 | 29.0 | 
+| 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Hsu Chiayuan | Kang Dongyun | Win | W+R | 6.5 | 3524.0 | 22.0 | 
+| 2020-05-29 | 第25期GSカルテックス杯プロ棋戦準決勝 | Shin Jinseo | Kang Dongyun | Lose | B+R | 6.5 | 3502.0 | 33.0 | 
+| 2020-05-22 | 第25期GSカルテックス杯プロ棋戦8強戦 | Baek Hyeonwoo | Kang Dongyun | Win | W+R | 6.5 | 3469.0 | 27.0 | 
+| 2020-05-18 | 第1期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Shin Minjun | Lose | W+R | 6.5 | 3442.0 | -12.0 | 
+| 2020-05-05 | 第1期ソパルコサノル最高棋士決定戦リーグ | Lee Donghoon | Kang Dongyun | Lose | B+R | 6.5 | 3454.0 | -20.0 | 
 | 2020-04-23 | 第25期GSカルテックス杯プロ棋戦16強戦 | Choi Jaeyoung | Kang Dongyun | Win | W+R | 6.5 | 3474.0 | -20.0 | 
 | 2020-03-30 | 第1期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Park Junghwan | Win | B+1.5 | 6.5 | 3494.0 | 14.0 | 
 | 2020-03-17 | 第21回マキシムコーヒー杯入神最強戦3回戦 | Shin Jinseo | Kang Dongyun | Lose | B+R | 6.5 | 3480.0 | -2.0 | 
@@ -124,8 +124,8 @@
 | 2020-01-22 | 第9回応氏杯世界選手権韓国選抜戦 | Kang Dongyun | Lee Donghoon | Lose | W+1¼ | 7.5 | 3487.0 | 1.0 | 
 | 2020-01-21 | 第9回応氏杯世界選手権韓国選抜戦 | Choi Cheolhan | Kang Dongyun | Win | W+R | 7.5 | 3486.0 | 6.0 | 
 | 2020-01-19 | 2019-2020韓国囲碁リーグ第16節第4試合第3局 | Lee Yeongkyu | Kang Dongyun | Win | W+R | 6.5 | 3480.0 | -3.0 | 
-| 2020-01-09 | 2019-2020韓国囲碁リーグ第15節第1試合第2局 | Kang Dongyun | Shin Jinseo | Lose | W+0.5 | 6.5 | 3483.0 | -5.0 | 
-| 2019-12-27 | 2019-2020韓国囲碁リーグ第13節第2試合第5局 | Hong Seongji | Kang Dongyun | Lose | B+R | 6.5 | 3488.0 | -23.0 | 
+| 2020-01-09 | 2019-2020韓国囲碁リーグ第15節第1試合第2局 | Kang Dongyun | Shin Jinseo | Lose | W+0.5 | 6.5 | 3483.0 | -4.0 | 
+| 2019-12-27 | 2019-2020韓国囲碁リーグ第13節第2試合第5局 | Hong Seongji | Kang Dongyun | Lose | B+R | 6.5 | 3487.0 | -24.0 | 
 | 2019-12-21 | 2019-2020韓国囲碁リーグ第12節第3試合第2局 | Kang Dongyun | Yun Chanhee | Win | B+R | 6.5 | 3511.0 | 10.0 | 
 | 2019-12-13 | 2019-2020韓国囲碁リーグ第11節第2試合第2局 | Kang Dongyun | Lee Changseok | Win | B+R | 6.5 | 3501.0 | 2.0 | 
 | 2019-12-06 | 2019-2020韓国囲碁リーグ第10節第2試合第2局 | Weon Seongjin | Kang Dongyun | Win | W+R | 6.5 | 3499.0 | 3.0 | 
@@ -138,14 +138,14 @@
 | 2019-10-26 | 2019-2020韓国囲碁リーグ第4節第3試合第2局 | Kang Dongyun | Hong Seongji | Win | B+R | 6.5 | 3508.0 | 18.0 | 
 | 2019-10-18 | 2019-2020韓国囲碁リーグ第3節第2試合第4局 | Kang Dongyun | Lee Donghoon | Win | B+1.5 | 6.5 | 3490.0 | 30.0 | 
 | 2019-10-05 | 2019-2020韓国囲碁リーグ第2節第3試合第4局 | Kang Dongyun | Choi Cheolhan | Win | B+5.5 | 6.5 | 3460.0 | 16.0 | 
-| 2019-09-28 | 2019-2020韓国囲碁リーグ第1節第3試合第5局 | Kang Dongyun | Choi Jaeyoung | Lose | W+0.5 | 6.5 | 3444.0 | 2.0 | 
-| 2019-09-10 | 第3回安東市真貯蓄銀行杯プロアマオープン戦8強戦 | Choi Jeong | Kang Dongyun | Lose | B+0.5 | 6.5 | 3442.0 | 0.0 | 
-| 2019-09-10 | 第3回安東市真貯蓄銀行杯プロアマオープン戦16強戦 | Kang Dongyun | Lee Yeongkyu | Win | B+R | 6.5 | 3442.0 | 5.0 | 
+| 2019-09-28 | 2019-2020韓国囲碁リーグ第1節第3試合第5局 | Kang Dongyun | Choi Jaeyoung | Lose | W+0.5 | 6.5 | 3444.0 | 3.0 | 
+| 2019-09-10 | 第3回安東市真貯蓄銀行杯プロアマオープン戦8強戦 | Choi Jeong | Kang Dongyun | Lose | B+0.5 | 6.5 | 3441.0 | 0.0 | 
+| 2019-09-10 | 第3回安東市真貯蓄銀行杯プロアマオープン戦16強戦 | Kang Dongyun | Lee Yeongkyu | Win | B+R | 6.5 | 3441.0 | 4.0 | 
 | 2019-08-31 | 第24回三星火災杯世界囲碁マスターズ2回戦 | Tang Weixing | Kang Dongyun | Lose | B+R | 6.5 | 3437.0 | -26.0 | 
-| 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Kang Dongyun | Han Yizhou | Win | B+R | 6.5 | 3463.0 | 21.0 | 
-| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Kang Dongyun | Fan Yin | Lose | W+¼ | 7.5 | 3442.0 | 13.0 | 
-| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Tao Xinran | Kang Dongyun | Lose | B+1¾ | 7.5 | 3429.0 | 3.0 | 
-| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Tong Mengcheng | Kang Dongyun | Win | W+R | 7.5 | 3426.0 | 15.0 | 
+| 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Kang Dongyun | Han Yizhou | Win | B+R | 6.5 | 3463.0 | 22.0 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Kang Dongyun | Fan Yin | Lose | W+¼ | 7.5 | 3441.0 | 12.0 | 
+| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Tao Xinran | Kang Dongyun | Lose | B+1¾ | 7.5 | 3429.0 | 4.0 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Tong Mengcheng | Kang Dongyun | Win | W+R | 7.5 | 3425.0 | 14.0 | 
 | 2019-08-04 | 第6回国手山脈韓国国内トーナメント準決勝 | Park Yeonghun | Kang Dongyun | Lose | B+R | 6.5 | 3411.0 | 0.0 | 
 | 2019-08-04 | 第6回国手山脈韓国国内トーナメント8強戦 | Kang Dongyun | Park Jinsol | Win | B+R | 6.5 | 3411.0 | 8.0 | 
 | 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Kang Dongyun | Oh Yujin | Win | B+R | 6.5 | 3403.0 | 0.0 | 
@@ -162,8 +162,8 @@
 | 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 |  | Kang Dongyun | Lose | B+R | 7.5 | 3420.0 | -48.0 | 
 | 2019-05-27 | 第24回LG杯朝鮮日報棋王戦1回戦 | Kang Dongyun | Tan Xiao | Lose | W+R | 6.5 | 3468.0 | -11.0 | 
 | 2019-05-24 | 第4回夢百合杯統合予選決勝 | Kang Dongyun | Yi Lingtao | Lose | W+R | 7.5 | 3479.0 | -8.0 | 
-| 2019-05-22 | 第4回夢百合杯統合予選  | Zhu Yuanhao | Kang Dongyun | Win | W+R | 7.5 | 3487.0 | -3.0 | 
-| 2019-05-20 | 第2期韓国竜星戦16強戦 | Kang Dongyun | Lee Sedol | Lose | W+R | 6.5 | 3490.0 | -27.0 | 
+| 2019-05-22 | 第4回夢百合杯統合予選  | Zhu Yuanhao | Kang Dongyun | Win | W+R | 7.5 | 3487.0 | -2.0 | 
+| 2019-05-20 | 第2期韓国竜星戦16強戦 | Kang Dongyun | Lee Sedol | Lose | W+R | 6.5 | 3489.0 | -28.0 | 
 | 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Dang Yifei | Kang Dongyun | Lose | B+R | 7.5 | 3517.0 | -20.0 | 
 | 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Tu Xiaoyu | Kang Dongyun | Win | W+R | 7.5 | 3537.0 | 8.0 | 
 | 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Wang Shiyi | Kang Dongyun | Win | W+R | 7.5 | 3529.0 | -1.0 | 
@@ -201,8 +201,8 @@
 | 2018-07-14 | 2018年韓国囲碁リーグ第4節 | Yun Chanhee | Kang Dongyun | Lose | B+R | 6.5 | 3527.0 | 6.0 | 
 | 2018-07-07 | 第23回三星火災杯統合予選決勝 | Li Xuanhao | Kang Dongyun | Lose | B+R | 6.5 | 3521.0 | -12.0 | 
 | 2018-06-30 | 2018年韓国囲碁リーグ第3節 | Kang Dongyun | Park Yeonghun | Win | B+R | 6.5 | 3533.0 | 8.0 | 
-| 2018-06-24 | 2018年韓国囲碁リーグ第2節 | Lee Jihyun | Kang Dongyun | Win | W+R | 6.5 | 3525.0 | 5.0 | 
-| 2018-06-19 | 2018年中国囲碁乙級リーグ |  | Kang Dongyun | Win | W+R | 7.5 | 3520.0 | 6.0 | 
+| 2018-06-24 | 2018年韓国囲碁リーグ第2節 | Lee Jihyun | Kang Dongyun | Win | W+R | 6.5 | 3525.0 | 6.0 | 
+| 2018-06-19 | 2018年中国囲碁乙級リーグ |  | Kang Dongyun | Win | W+R | 7.5 | 3519.0 | 5.0 | 
 | 2018-06-16 | 2018年中国囲碁乙級リーグ | Kang Dongyun | Park Yeonghun | Lose | W+R | 7.5 | 3514.0 | 6.0 | 
 | 2018-05-30 | 第23回LG杯朝鮮日報棋王戦2回戦 | Kang Dongyun | Ichiriki Ryo | Win | B+R | 6.5 | 3508.0 | 12.0 | 
 | 2018-05-28 | 第23回LG杯朝鮮日報棋王戦1回戦 | Kang Dongyun | Meng Tailing | Win | B+1.5 | 6.5 | 3496.0 | 4.0 | 
@@ -226,18 +226,18 @@
 | 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Kang Dongyun | Yang Dingxin | Lose | W+R | 7.5 | 3383.0 | 33.0 | 
 | 2017-10-12 | 2017年韓国囲碁リーグ | Kang Dongyun | Seol Hyunjun | Lose | W+R | 6.5 | 3350.0 | -20.0 | 
 | 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Xie Ke | Kang Dongyun | Lose | B+R | 7.5 | 3370.0 | -32.0 | 
-| 2017-10-06 | 2017年韓国囲碁リーグ | Na Hyun | Kang Dongyun | Lose | B+R | 6.5 | 3402.0 | -19.0 | 
-| 2017-09-30 | 2017年韓国囲碁リーグ | Kang Dongyun | An Sungjoon | Lose | W+R | 6.5 | 3421.0 | 30.0 | 
+| 2017-10-06 | 2017年韓国囲碁リーグ | Na Hyun | Kang Dongyun | Lose | B+R | 6.5 | 3402.0 | -18.0 | 
+| 2017-09-30 | 2017年韓国囲碁リーグ | Kang Dongyun | An Sungjoon | Lose | W+R | 6.5 | 3420.0 | 29.0 | 
 | 2017-09-24 | 2017年韓国囲碁リーグ | Kang Dongyun | Heo Yongho | Lose | W+R | 6.5 | 3391.0 | -3.0 | 
 | 2017-09-14 | 2017年韓国囲碁リーグ | Kang Seungmin | Kang Dongyun | Lose | B+R | 6.5 | 3394.0 | -3.0 | 
 | 2017-09-11 | 韓国国家隊循環戦 | Kang Dongyun | Byun Sangil | Lose | W+R | 6.5 | 3397.0 | -47.0 | 
 | 2017-09-01 | 2017年韓国囲碁リーグ | Kang Dongyun | Song Jihoon | Lose | W+R | 6.5 | 3444.0 | -14.0 | 
-| 2017-08-27 | 2017年韓国囲碁リーグ | Kang Dongyun | Shen Zaiyi | Win | B+R | 6.5 | 3458.0 | -5.0 | 
-| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Kang Dongyun | Liu Xing | Lose | W+R | 7.5 | 3463.0 | 4.0 | 
+| 2017-08-27 | 2017年韓国囲碁リーグ | Kang Dongyun | Shen Zaiyi | Win | B+R | 6.5 | 3458.0 | -4.0 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Kang Dongyun | Liu Xing | Lose | W+R | 7.5 | 3462.0 | 3.0 | 
 | 2017-08-17 | 2017年韓国囲碁リーグ | Kang Dongyun | Shin Jinseo | Lose | W+0.5 | 6.5 | 3459.0 | 12.0 | 
 | 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Li Weiqing | Kang Dongyun | Win | W+R | 7.5 | 3447.0 | -13.0 | 
-| 2017-08-06 | 2017年韓国囲碁リーグ | Kang Dongyun | Ahn Kukhyun | Win | B+R | 6.5 | 3460.0 | 13.0 | 
-| 2017-07-22 | 2017年韓国囲碁リーグ | Kang Dongyun | Lee Wonyoung | Lose | W+R | 6.5 | 3447.0 | -4.0 | 
+| 2017-08-06 | 2017年韓国囲碁リーグ | Kang Dongyun | Ahn Kukhyun | Win | B+R | 6.5 | 3460.0 | 14.0 | 
+| 2017-07-22 | 2017年韓国囲碁リーグ | Kang Dongyun | Lee Wonyoung | Lose | W+R | 6.5 | 3446.0 | -5.0 | 
 | 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Xu Jiayang | Kang Dongyun | Win | W+R | 7.5 | 3451.0 | 5.0 | 
 | 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Chen Yaoye | Kang Dongyun | Win | W+R | 7.5 | 3446.0 | 13.0 | 
 | 2017-07-14 | 2017年韓国囲碁リーグ | Lee Yeongkyu | Kang Dongyun | Lose | B+R | 6.5 | 3433.0 | -12.0 | 
@@ -246,14 +246,14 @@
 | 2017-07-02 | 第22回三星火災杯統合予選4回戦 | Lian Xiao | Kang Dongyun | Lose | B+R | 6.5 | 3420.0 | -13.0 | 
 | 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Kang Dongyun | Na Hyun | Lose | W+R | 7.5 | 3433.0 | 15.0 | 
 | 2017-06-11 | 2017年韓国囲碁リーグ | Kim Jiseok | Kang Dongyun | Lose | B+R | 6.5 | 3418.0 | -33.0 | 
-| 2017-06-03 | 2017年韓国囲碁リーグ | Kang Dongyun | Song Jihoon | Win | B+R | 6.5 | 3451.0 | 16.0 | 
-| 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Kang Dongyun | Ke Jie | Lose | W+R | 6.5 | 3435.0 | 8.0 | 
+| 2017-06-03 | 2017年韓国囲碁リーグ | Kang Dongyun | Song Jihoon | Win | B+R | 6.5 | 3451.0 | 17.0 | 
+| 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Kang Dongyun | Ke Jie | Lose | W+R | 6.5 | 3434.0 | 7.0 | 
 | 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Ichiriki Ryo | Kang Dongyun | Win | W+R | 6.5 | 3427.0 | -1.0 | 
 | 2017-05-18 | 2017年韓国囲碁リーグ | Han Sanghoon | Kang Dongyun | Win | W+R | 6.5 | 3428.0 | 17.0 | 
 | 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Kang Dongyun | Liao Yuanhe | Lose | W+R | 7.5 | 3411.0 | -7.0 | 
 | 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Kang Dongyun | Sun Tengyu | Win | B+R | 7.5 | 3418.0 | 9.0 | 
-| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Kang Dongyun | Huang Yunsong | Lose | W+R | 7.5 | 3409.0 | -3.0 | 
-| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Liao Xingwen | Kang Dongyun | Lose | B+R | 7.5 | 3412.0 | -42.0 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Kang Dongyun | Huang Yunsong | Lose | W+R | 7.5 | 3409.0 | -2.0 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Liao Xingwen | Kang Dongyun | Lose | B+R | 7.5 | 3411.0 | -43.0 | 
 | 2017-04-08 | 第22期LG杯世界予選決勝 | Kang Dongyun | Fan Yunruo | Win | B+R | 6.5 | 3454.0 | 8.0 | 
 | 2017-04-07 | 第22期LG杯世界予選準決勝 | Kang Dongyun | Ding Hao | Win | B+R | 6.5 | 3446.0 | 6.0 | 
 | 2017-03-30 | 世界第三期Mlily夢百合杯予選決勝 | Kang Dongyun | Zhao Chenyu | Win | B+R | 7.5 | 3440.0 | 7.0 | 
@@ -342,8 +342,8 @@
 | 2015-09-05 | 2015年韓国囲碁リーグ | Kang Dongyun | Heo Yongho | Win | B+R | 6.5 | 3710.0 | -35.0 | 
 | 2015-08-27 | 2015年韓国囲碁リーグ | Kang Dongyun | Park Hamin | Win | B+R | 6.5 | 3745.0 | 1.0 | 
 | 2015-08-22 | 2015年韓国囲碁リーグ | Kang Dongyun | Lee Taehyun | Win | B+R | 6.5 | 3744.0 | 0.0 | 
-| 2015-08-13 | 2015年韓国囲碁リーグ | Kang Dongyun |  | Win | B+R | 6.5 | 3744.0 | 9.0 | 
-| 2015-08-04 | 第20回三星火災杯統合予選準決勝 | Kang Dongyun | Yang Kaiwen | Lose | W+R | 6.5 | 3735.0 | -2.0 | 
+| 2015-08-13 | 2015年韓国囲碁リーグ | Kang Dongyun |  | Win | B+R | 6.5 | 3744.0 | 10.0 | 
+| 2015-08-04 | 第20回三星火災杯統合予選準決勝 | Kang Dongyun | Yang Kaiwen | Lose | W+R | 6.5 | 3734.0 | -3.0 | 
 | 2015-07-16 | 2015年韓国囲碁リーグ | Kim Jinhyu | Kang Dongyun | Lose | B+R | 6.5 | 3737.0 | -15.0 | 
 | 2015-07-15 | 第17回農心杯韓国選抜戦 | Kang Dongyun | Kim Myounghoon | Lose | W+R | 6.5 | 3752.0 | -14.0 | 
 | 2015-07-11 | 第17回中国囲碁甲級リーグ第11節 | Kang Dongyun | Zhou Ruiyang | Win | B+R | 7.5 | 3766.0 | 0.0 | 
@@ -389,21 +389,21 @@
 | 2014-08-26 | 第19回三星火災杯世界囲碁マスターズ1回戦D1 | Kang Dongyun | Yang Dingxin | Win | B+R | 6.5 | 3419.0 | 15.0 | 
 | 2014-08-22 | 第42期名人戦（韓国）2回戦 | Lee Donghoon | Kang Dongyun | Lose | B+R | 6.5 | 3404.0 | -14.0 | 
 | 2014-08-20 | 第16回農心杯韓国選抜戦 |  | Kang Dongyun | Win | W+R | 6.5 | 3418.0 | -6.0 | 
-| 2014-08-15 | 第42期名人戦（韓国）1回戦 | Kang Dongyun | Choi Cheolhan | Win | B+R | 6.5 | 3424.0 | 0.0 | 
-| 2014-08-06 | 第19回三星火災杯統合予選決勝 | Kang Dongyun | Jiang Weijie | Win | B+R | 6.5 | 3424.0 | -27.0 | 
-| 2014-07-30 | 2014年レッツランパーク杯オープントーナメント1回戦 | Kim Sedong | Kang Dongyun | Win | W+R | 6.5 | 3451.0 | -19.0 | 
-| 2014-07-20 | 2014年韓国囲碁リーグ | Kang Dongyun | Cho Hanseung | Win | B+0.5 | 6.5 | 3470.0 | -37.0 | 
-| 2014-07-11 | 第42期名人戦（韓国）予選 | Kang Dongyun | Shin Minjun | Win | B+R | 6.5 | 3507.0 | -8.0 | 
-| 2014-07-04 | 2014年韓国囲碁リーグ | Han Seungjoo | Kang Dongyun | Lose | B+R | 6.5 | 3515.0 | -28.0 | 
-| 2014-06-15 | 2014年韓国囲碁リーグ | Lee Donghoon | Kang Dongyun | Win | W+R | 6.5 | 3543.0 | 10.0 | 
+| 2014-08-15 | 第42期名人戦（韓国）1回戦 | Kang Dongyun | Choi Cheolhan | Win | B+R | 6.5 | 3424.0 | 1.0 | 
+| 2014-08-06 | 第19回三星火災杯統合予選決勝 | Kang Dongyun | Jiang Weijie | Win | B+R | 6.5 | 3423.0 | -27.0 | 
+| 2014-07-30 | 2014年レッツランパーク杯オープントーナメント1回戦 | Kim Sedong | Kang Dongyun | Win | W+R | 6.5 | 3450.0 | -19.0 | 
+| 2014-07-20 | 2014年韓国囲碁リーグ | Kang Dongyun | Cho Hanseung | Win | B+0.5 | 6.5 | 3469.0 | -37.0 | 
+| 2014-07-11 | 第42期名人戦（韓国）予選 | Kang Dongyun | Shin Minjun | Win | B+R | 6.5 | 3506.0 | -8.0 | 
+| 2014-07-04 | 2014年韓国囲碁リーグ | Han Seungjoo | Kang Dongyun | Lose | B+R | 6.5 | 3514.0 | -28.0 | 
+| 2014-06-15 | 2014年韓国囲碁リーグ | Lee Donghoon | Kang Dongyun | Win | W+R | 6.5 | 3542.0 | 9.0 | 
 | 2014-06-11 | 第19回LG杯朝鮮日報棋王戦2回戦 | Kang Dongyun | Fan Tingyu | Lose | W+R | 6.5 | 3533.0 | 0.0 | 
 | 2014-06-09 | 第19回LG杯朝鮮日報棋王戦1回戦 | Kang Dongyun | Li Xuanhao | Win | B+R | 6.5 | 3533.0 | 6.0 | 
 | 2014-05-29 | 2014年韓国囲碁リーグ | Kang Dongyun | An Sungjoon | Win | B+R | 6.5 | 3527.0 | 8.0 | 
 | 2014-05-26 | 第19期バッカス杯天元戦予選 | Kang Dongyun | Shin Jinseo | Lose | W+R | 6.5 | 3519.0 | -36.0 | 
 | 2014-05-24 | 2014年韓国囲碁リーグ | Kang Dongyun | Kim Junghyun | Lose | W+R | 6.5 | 3555.0 | -17.0 | 
-| 2014-05-08 | 2014年韓国囲碁リーグ | Kim Sonjin | Kang Dongyun | Win | W+R | 6.5 | 3572.0 | -26.0 | 
-| 2014-04-29 | 2014年中国囲碁乙級リーグ |  | Kang Dongyun | Lose | B+R | 7.5 | 3598.0 | 34.0 | 
-| 2014-04-11 | 2014年韓国囲碁リーグ |  | Kang Dongyun | Win | W+R | 6.5 | 3564.0 | -7.0 | 
+| 2014-05-08 | 2014年韓国囲碁リーグ | Kim Sonjin | Kang Dongyun | Win | W+R | 6.5 | 3572.0 | -25.0 | 
+| 2014-04-29 | 2014年中国囲碁乙級リーグ |  | Kang Dongyun | Lose | B+R | 7.5 | 3597.0 | 34.0 | 
+| 2014-04-11 | 2014年韓国囲碁リーグ |  | Kang Dongyun | Win | W+R | 6.5 | 3563.0 | -8.0 | 
 | 2014-02-28 | 第10回春蘭杯韓国予選 | Kang Dongyun | Kim Junghyun | Lose | W+1.5 | 6.5 | 3571.0 | -9.0 | 
 | 2014-02-26 | 第10回春蘭杯韓国予選 | Kang Dongyun | Na Hyun | Win | B+R | 6.5 | 3580.0 | -8.0 | 
 | 2014-01-28 | 第15回マキシムコーヒー杯入神最強戦2回戦 | Cho Hanseung | Kang Dongyun | Lose | B+R | 6.5 | 3588.0 | -4.0 | 

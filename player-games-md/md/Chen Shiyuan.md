@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-21 | 第21期天元戦（台湾）勝部2回戦 | Chen Shiyuan | Lu Yiquan | Win | B+0.5 | 6.5 | 3150.0 | -1.0 | 
 | 2022-01-18 | 第21期天元戦（台湾）勝部1回戦 | Chen Shiyuan | Chen Xi | Win | B+R | 6.5 | 3151.0 | 9.0 | 
 | 2022-01-14 | 第21期天元戦（台湾）予選 | Lin Xinwei | Chen Shiyuan | Win | W+R | 6.5 | 3142.0 | 3.0 | 
 | 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Lin Lixiang | Chen Shiyuan | Lose | B+R | 6.5 | 3139.0 | 9.0 | 
@@ -320,9 +321,9 @@
 | 2015-05-19 | 2015年中国囲碁乙級リーグ | Lee Jihyun | Chen Shiyuan | Lose | B+R | 7.5 | 3234.0 | -32.0 | 
 | 2015-05-17 | 2015年中国囲碁乙級リーグ | Chen Shiyuan | Wang Haoyang | Lose | W+R | 7.5 | 3266.0 | -14.0 | 
 | 2015-05-16 | 2015年中国囲碁乙級リーグ | Peng Quan | Chen Shiyuan | Win | W+R | 7.5 | 3280.0 | 56.0 | 
-| 2015-05-14 | 2015年中国囲碁乙級リーグ | Chen Shiyuan |  | Lose | W+R | 7.5 | 3224.0 | -18.0 | 
-| 2015-05-13 | 2015年中国囲碁乙級リーグ | Dang Yifei | Chen Shiyuan | Win | W+R | 7.5 | 3242.0 | 25.0 | 
-| 2015-05-12 | 2015年中国囲碁乙級リーグ | Chen Shiyuan |  | Win | B+R | 7.5 | 3217.0 | -88.0 | 
+| 2015-05-14 | 2015年中国囲碁乙級リーグ | Chen Shiyuan |  | Lose | W+R | 7.5 | 3224.0 | -17.0 | 
+| 2015-05-13 | 2015年中国囲碁乙級リーグ | Dang Yifei | Chen Shiyuan | Win | W+R | 7.5 | 3241.0 | 25.0 | 
+| 2015-05-12 | 2015年中国囲碁乙級リーグ | Chen Shiyuan |  | Win | B+R | 7.5 | 3216.0 | -89.0 | 
 | 2015-05-05 | 第14期天元戦（台湾）リーグ | Lin Lixiang | Chen Shiyuan | Win | W+1.5 | 6.5 | 3305.0 | -14.0 | 
 | 2015-04-30 | 第7回海峰杯プロ囲碁戦決勝三番勝負第2局 | Wang Yuanjun | Chen Shiyuan | Win | W+0.5 | 6.5 | 3319.0 | -22.0 | 
 | 2015-04-28 | 第14期天元戦（台湾）リーグ | Chen Shiyuan | Wang Yuanjun | Win | B+R | 6.5 | 3341.0 | 6.0 | 
@@ -350,16 +351,16 @@
 | 2014-10-16 | 第7期棋王戦（台湾）リーグ | Chen Shiyuan | Chen Qirui | Win | B+4.5 | 6.5 | 3228.0 | 13.0 | 
 | 2014-10-09 | 第7期棋王戦（台湾）リーグ | Chen Shiyuan |  | Win | B+R | 6.5 | 3215.0 | 2.0 | 
 | 2014-10-06 | 第7期棋王戦（台湾）リーグ | Lin Junyan | Chen Shiyuan | Lose | B+R | 6.5 | 3213.0 | 19.0 | 
-| 2014-09-29 | 第7期棋王戦（台湾）リーグ | Chen Shiyuan | Zhou Junxun | Lose | W+R | 6.5 | 3194.0 | 77.0 | 
-| 2014-07-25 | 第2期中環碁聖戦決勝三番勝負第3局 | Lin Lixiang | Chen Shiyuan | Win | W+R | 6.5 | 3117.0 | -47.0 | 
+| 2014-09-29 | 第7期棋王戦（台湾）リーグ | Chen Shiyuan | Zhou Junxun | Lose | W+R | 6.5 | 3194.0 | 78.0 | 
+| 2014-07-25 | 第2期中環碁聖戦決勝三番勝負第3局 | Lin Lixiang | Chen Shiyuan | Win | W+R | 6.5 | 3116.0 | -48.0 | 
 | 2014-06-29 | 第2期中環碁聖戦決勝三番勝負第2局 | Lin Lixiang | Chen Shiyuan | Win | W+R | 6.5 | 3164.0 | 24.0 | 
 | 2014-06-22 | 第2期中環碁聖戦決勝三番勝負第1局 | Chen Shiyuan | Lin Lixiang | Lose | W+2.5 | 6.5 | 3140.0 | -80.0 | 
 | 2014-06-15 | 第2期中環碁聖戦準決勝 | Chen Shiyuan | Wang Yuanjun | Win | B+8.5 | 6.5 | 3220.0 | -59.0 | 
 | 2014-05-22 | 第6回海峰杯プロ囲碁戦決勝三番勝負第3局 | Chen Shiyuan | Yang Bowei | Lose | W+R | 6.5 | 3279.0 | -17.0 | 
 | 2014-05-15 | 第6回海峰杯プロ囲碁戦決勝三番勝負第2局 | Chen Shiyuan | Yang Bowei | Win | B+R | 6.5 | 3296.0 | 27.0 | 
 | 2014-05-08 | 第6回海峰杯プロ囲碁戦決勝三番勝負第1局 | Yang Bowei | Chen Shiyuan | Lose | B+R | 6.5 | 3269.0 | -10.0 | 
-| 2014-05-06 | 第13期天元戦（台湾）リーグ | Chen Shiyuan | Yang Bowei | Win | B+2.5 | 6.5 | 3279.0 | 36.0 | 
-| 2014-04-29 | 2014年中国囲碁丙級リーグ |  | Chen Shiyuan | Win | W+R | 7.5 | 3243.0 | 35.0 | 
+| 2014-05-06 | 第13期天元戦（台湾）リーグ | Chen Shiyuan | Yang Bowei | Win | B+2.5 | 6.5 | 3279.0 | 37.0 | 
+| 2014-04-29 | 2014年中国囲碁丙級リーグ |  | Chen Shiyuan | Win | W+R | 7.5 | 3242.0 | 34.0 | 
 | 2014-04-03 | 第6回海峰杯プロ囲碁戦準決勝 | Chen Shiyuan | Xiao Zhenghao | Win | B+3.5 | 6.5 | 3208.0 | -4.0 | 
 | 2014-03-31 | 第6回海峰杯プロ囲碁戦8強戦 | Lin Lixiang | Chen Shiyuan | Win | W+R | 6.5 | 3212.0 | 23.0 | 
 | 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Xie Ke | Chen Shiyuan | Lose | B+R | 7.5 | 3189.0 | -8.0 | 

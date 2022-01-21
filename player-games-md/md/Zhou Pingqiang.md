@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-21 | 第21期天元戦（台湾）敗部1回戦 | Zhou Pingqiang | Lin Shuyang | Lose | W+9.5 | 6.5 | 2651.0 | -27.0 | 
 | 2022-01-18 | 第21期天元戦（台湾）勝部1回戦 | Zhou Pingqiang | Li Wei | Lose | W+R | 6.5 | 2678.0 | -7.0 | 
 | 2022-01-14 | 第21期天元戦（台湾）予選 | Yang Zixuan | Zhou Pingqiang | Win | W+R | 6.5 | 2685.0 | 117.0 | 
 | 2022-01-11 | 第21期天元戦（台湾）予選 |  | Zhou Pingqiang | Win | W+R | 6.5 | 2568.0 | 5.0 | 

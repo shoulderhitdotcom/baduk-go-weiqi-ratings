@@ -9,19 +9,19 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-10 | 第27回GSカルテックス杯プロ棋戦予選 | Heo Yongho | Seo Bongsoo | Win | B+4.5 | 6.5 | 3415.0 | 3.0 | 
 | 2021-09-02 | 第3期ソパルコサノル最高棋士決定戦予選 | Heo Yongho | Cho Seungah | Win | B+R | 6.5 | 3412.0 | 7.0 | 
-| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Heo Yongho | Tao Xinran | Lose | W+R | 6.5 | 3405.0 | -5.0 | 
-| 2021-05-06 | 第26回LG杯韓国予選 | An Sungjoon | Heo Yongho | Win | W+R | 6.5 | 3410.0 | 12.0 | 
-| 2021-05-05 | 第26回LG杯韓国予選 | Heo Yongho | Lee Changho | Win | B+R | 6.5 | 3398.0 | 9.0 | 
-| 2021-05-03 | 第26回LG杯韓国予選 | Heo Yongho | Park Minkyu | Win | B+R | 6.5 | 3389.0 | 9.0 | 
-| 2021-04-23 | 第26回GSカルテックス杯プロ棋戦1回戦 | Choi Cheolhan | Heo Yongho | Lose | B+R | 6.5 | 3380.0 | -27.0 | 
-| 2021-03-28 | 2020-2021韓国囲碁リーグ優勝決定戦第3戦 | Heo Yongho | Weon Seongjin | Lose | W+R | 6.5 | 3407.0 | -2.0 | 
-| 2021-03-27 | 2020-2021韓国囲碁リーグ優勝決定戦第2戦 | Heo Yongho | Cho Hanseung | Win | B+R | 6.5 | 3409.0 | 12.0 | 
-| 2021-03-26 | 2020-2021韓国囲碁リーグ優勝決定戦第1戦 | Kang Seungmin | Heo Yongho | Lose | B+R | 6.5 | 3397.0 | -2.0 | 
+| 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Heo Yongho | Tao Xinran | Lose | W+R | 6.5 | 3405.0 | -4.0 | 
+| 2021-05-06 | 第26回LG杯韓国予選 | An Sungjoon | Heo Yongho | Win | W+R | 6.5 | 3409.0 | 12.0 | 
+| 2021-05-05 | 第26回LG杯韓国予選 | Heo Yongho | Lee Changho | Win | B+R | 6.5 | 3397.0 | 9.0 | 
+| 2021-05-03 | 第26回LG杯韓国予選 | Heo Yongho | Park Minkyu | Win | B+R | 6.5 | 3388.0 | 9.0 | 
+| 2021-04-23 | 第26回GSカルテックス杯プロ棋戦1回戦 | Choi Cheolhan | Heo Yongho | Lose | B+R | 6.5 | 3379.0 | -27.0 | 
+| 2021-03-28 | 2020-2021韓国囲碁リーグ優勝決定戦第3戦 | Heo Yongho | Weon Seongjin | Lose | W+R | 6.5 | 3406.0 | -2.0 | 
+| 2021-03-27 | 2020-2021韓国囲碁リーグ優勝決定戦第2戦 | Heo Yongho | Cho Hanseung | Win | B+R | 6.5 | 3408.0 | 12.0 | 
+| 2021-03-26 | 2020-2021韓国囲碁リーグ優勝決定戦第1戦 | Kang Seungmin | Heo Yongho | Lose | B+R | 6.5 | 3396.0 | -3.0 | 
 | 2021-03-20 | 2020-2021韓国囲碁リーグプレーオフ第2戦 | Heo Yongho | Park Geunho | Win | B+R | 6.5 | 3399.0 | 18.0 | 
 | 2021-03-19 | 2020-2021韓国囲碁リーグプレーオフ第1戦 | Park Geunho | Heo Yongho | Win | W+R | 6.5 | 3381.0 | 35.0 | 
 | 2021-03-01 | 第22回マキシムコーヒー杯入神最強戦3回戦 | Paek Hongseok | Heo Yongho | Lose | B+1.5 | 6.5 | 3346.0 | -24.0 | 
-| 2021-02-27 | 2020-2021韓国囲碁リーグ | Shin Jinseo | Heo Yongho | Lose | B+R | 6.5 | 3370.0 | -17.0 | 
-| 2021-02-19 | 2020-2021韓国囲碁リーグ | Park Geunho | Heo Yongho | Win | W+R | 6.5 | 3387.0 | 64.0 | 
+| 2021-02-27 | 2020-2021韓国囲碁リーグ | Shin Jinseo | Heo Yongho | Lose | B+R | 6.5 | 3370.0 | -16.0 | 
+| 2021-02-19 | 2020-2021韓国囲碁リーグ | Park Geunho | Heo Yongho | Win | W+R | 6.5 | 3386.0 | 63.0 | 
 | 2021-02-12 | 2020-2021韓国囲碁リーグ | Heo Yongho | Park Sangjin | Win | B+R | 6.5 | 3323.0 | 31.0 | 
 | 2021-02-09 | 第22回マキシムコーヒー杯入神最強戦2回戦 | Cho Hanseung | Heo Yongho | Win | W+R | 6.5 | 3292.0 | 37.0 | 
 | 2021-02-05 | 2020-2021韓国囲碁リーグ | Paek Hongseok | Heo Yongho | Lose | B+R | 6.5 | 3255.0 | -5.0 | 
@@ -44,8 +44,8 @@
 | 2020-02-04 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Heo Yongho | Choi Cheolhan | Lose | W+R | 6.5 | 3366.0 | -26.0 | 
 | 2020-01-23 | 2019-2020韓国囲碁リーグ第17節第1試合第4局 | Heo Yongho |  | Lose | W+R | 6.5 | 3392.0 | -9.0 | 
 | 2020-01-19 | 2019-2020韓国囲碁リーグ第16節第4試合第5局 | Kim Myounghoon | Heo Yongho | Win | W+0.5 | 6.5 | 3401.0 | 11.0 | 
-| 2020-01-09 | 2019-2020韓国囲碁リーグ第15節第1試合第4局 | Heo Yongho | Han Sanghoon | Win | B+R | 6.5 | 3390.0 | 11.0 | 
-| 2019-12-27 | 2019-2020韓国囲碁リーグ第13節第2試合第4局 | Heo Yongho | Na Hyun | Win | B+R | 6.5 | 3379.0 | 28.0 | 
+| 2020-01-09 | 2019-2020韓国囲碁リーグ第15節第1試合第4局 | Heo Yongho | Han Sanghoon | Win | B+R | 6.5 | 3390.0 | 12.0 | 
+| 2019-12-27 | 2019-2020韓国囲碁リーグ第13節第2試合第4局 | Heo Yongho | Na Hyun | Win | B+R | 6.5 | 3378.0 | 27.0 | 
 | 2019-12-21 | 2019-2020韓国囲碁リーグ第12節第3試合第3局 | Park Jinsol | Heo Yongho | Win | W+R | 6.5 | 3351.0 | 32.0 | 
 | 2019-12-13 | 2019-2020韓国囲碁リーグ第11節第2試合第4局 | Heo Yongho | Song Taekon | Win | B+R | 6.5 | 3319.0 | 4.0 | 
 | 2019-12-06 | 2019-2020韓国囲碁リーグ第10節第2試合第5局 | Heo Yongho | Park Junghwan | Lose | W+R | 6.5 | 3315.0 | -21.0 | 
@@ -141,10 +141,10 @@
 | 2015-08-31 | 第34回KBS杯囲碁王戦2回戦 | Kim Sonjin | Heo Yongho | Win | W+R | 6.5 | 3624.0 | -7.0 | 
 | 2015-08-30 | 2015年韓国囲碁リーグ | Heo Yongho | Lee Wonyoung | Win | B+R | 6.5 | 3631.0 | -6.0 | 
 | 2015-08-20 | 2015年韓国囲碁リーグ | Heo Yongho | Ryu Minhyung | Lose | W+R | 6.5 | 3637.0 | -40.0 | 
-| 2015-08-14 | 2015年韓国囲碁リーグ | Heo Yongho | Mok Jinseok | Win | B+R | 6.5 | 3677.0 | 25.0 | 
-| 2015-08-03 | 第20回三星火災杯統合予選2回戦 | Tan Xiao | Heo Yongho | Win | W+0.5 | 6.5 | 3652.0 | 53.0 | 
-| 2015-07-25 | 2015年韓国囲碁リーグ |  | Heo Yongho | Lose | B+R | 6.5 | 3599.0 | -60.0 | 
-| 2015-07-21 | 第17回農心杯韓国選抜戦 | Heo Yongho | Min Sangyoun | Lose | W+R | 6.5 | 3659.0 | -47.0 | 
+| 2015-08-14 | 2015年韓国囲碁リーグ | Heo Yongho | Mok Jinseok | Win | B+R | 6.5 | 3677.0 | 26.0 | 
+| 2015-08-03 | 第20回三星火災杯統合予選2回戦 | Tan Xiao | Heo Yongho | Win | W+0.5 | 6.5 | 3651.0 | 53.0 | 
+| 2015-07-25 | 2015年韓国囲碁リーグ |  | Heo Yongho | Lose | B+R | 6.5 | 3598.0 | -60.0 | 
+| 2015-07-21 | 第17回農心杯韓国選抜戦 | Heo Yongho | Min Sangyoun | Lose | W+R | 6.5 | 3658.0 | -48.0 | 
 | 2015-07-19 | 2015年韓国囲碁リーグ | Heo Yongho | Kim Junghyun | Lose | W+R | 6.5 | 3706.0 | -82.0 | 
 | 2015-07-17 | 第17回農心杯韓国選抜戦 | Kim Myounghoon | Heo Yongho | Win | W+R | 6.5 | 3788.0 | 38.0 | 
 | 2015-06-28 | 2015年韓国囲碁リーグ | Kim Seongjae | Heo Yongho | Win | W+R | 6.5 | 3750.0 | 21.0 | 

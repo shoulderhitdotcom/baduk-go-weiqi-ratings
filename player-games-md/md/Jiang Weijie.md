@@ -9,8 +9,8 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Weijie | Lee Donghoon | Lose | W+R | 7.5 | 3474.0 | -8.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Lee Donghoon | Jiang Weijie | Lose | B+R | 7.5 | 3482.0 | 0.0 | 
-| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Jiang Weijie | Tang Weixing | Lose | W+¼ | 7.5 | 3482.0 | -87.0 | 
-| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Ke Jie | Jiang Weijie | Lose | B+R | 7.5 | 3569.0 | -12.0 | 
+| 2021-12-25 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Jiang Weijie | Tang Weixing | Lose | W+¼ | 7.5 | 3482.0 | -86.0 | 
+| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Ke Jie | Jiang Weijie | Lose | B+R | 7.5 | 3568.0 | -13.0 | 
 | 2021-10-12 | 第12期中国竜星戦Bブロック9回戦 | Jiang Weijie | Mi Yuting | Lose | W+R | 7.5 | 3581.0 | -7.0 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Tan Xiao | Jiang Weijie | Lose | B+R | 7.5 | 3588.0 | -15.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Wu Guangya | Win | B+R | 7.5 | 3603.0 | -16.0 | 
@@ -32,8 +32,8 @@
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Jiang Weijie | Win | W+R | 7.5 | 3542.0 | -1.0 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Han Yizhou | Jiang Weijie | Win | W+R | 7.5 | 3543.0 | 15.0 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Ding Hao | Lose | W+R | 7.5 | 3528.0 | -10.0 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Tong Mengcheng | Win | B+R | 7.5 | 3538.0 | 24.0 | 
-| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Tang Weixing | Jiang Weijie | Lose | B+R | 7.5 | 3514.0 | -15.0 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Jiang Weijie | Tong Mengcheng | Win | B+R | 7.5 | 3538.0 | 25.0 | 
+| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Tang Weixing | Jiang Weijie | Lose | B+R | 7.5 | 3513.0 | -16.0 | 
 | 2021-03-19 | 第35期中国囲碁天元戦1回戦 | Li Qincheng | Jiang Weijie | Lose | B+¾ | 7.5 | 3529.0 | 55.0 | 
 | 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Weijie | Gu Zihao | Lose | W+R | 7.5 | 3474.0 | -11.0 | 
 | 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Weijie | Yang Kaiwen | Win | B+R | 7.5 | 3485.0 | 9.0 | 
@@ -90,14 +90,14 @@
 | 2019-11-09 | 第4回全国智力運動会プロ男子個人戦第1戦 | Zheng Zaixiang | Jiang Weijie | Win | W+R | 7.5 | 3708.0 | 0.0 | 
 | 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Tong Mengcheng | Jiang Weijie | Lose | B+¾ | 7.5 | 3708.0 | -9.0 | 
 | 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Jiang Weijie | Chen Yaoye | Win | B+¾ | 7.5 | 3717.0 | 9.0 | 
-| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Han Yizhou | Jiang Weijie | Win | W+R | 7.5 | 3708.0 | 21.0 | 
-| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Jiang Weijie | Shin Minjun | Win | B+R | 7.5 | 3687.0 | 24.0 | 
+| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Han Yizhou | Jiang Weijie | Win | W+R | 7.5 | 3708.0 | 22.0 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Jiang Weijie | Shin Minjun | Win | B+R | 7.5 | 3686.0 | 23.0 | 
 | 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Chen Yaoye | Jiang Weijie | Lose | B+R | 7.5 | 3663.0 | 1.0 | 
 | 2019-08-15 | 第9回世界囲棋巓峰対決準決勝 | Jiang Weijie | Shi Yue | Win | B+R | 7.5 | 3662.0 | 0.0 | 
 | 2019-08-15 | 第9回世界囲棋巓峰対決決勝 | Jiang Weijie | Tuo Jiaxi | Lose | W+R | 7.5 | 3662.0 | -4.0 | 
 | 2019-08-14 | 第9回世界囲棋巓峰対決8強戦 | Shibano Toramaru | Jiang Weijie | Win | W+R | 7.5 | 3666.0 | 2.0 | 
-| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Jiang Weijie | Meng Tailing | Win | B+R | 7.5 | 3664.0 | 2.0 | 
-| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Ke Jie | Jiang Weijie | Win | W+R | 7.5 | 3662.0 | 36.0 | 
+| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Jiang Weijie | Meng Tailing | Win | B+R | 7.5 | 3664.0 | 3.0 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Ke Jie | Jiang Weijie | Win | W+R | 7.5 | 3661.0 | 35.0 | 
 | 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Jiang Weijie | Ding Hao | Lose | W+R | 7.5 | 3626.0 | -25.0 | 
 | 2019-07-26 | 嫘祖杯第32期中国囲棋名人戦挑戦者決定戦 | Jiang Weijie | Xu Jiayang | Lose | W+R | 7.5 | 3651.0 | -4.0 | 
 | 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Jiang Weijie | Chen Zhengxun | Win | B+R | 7.5 | 3655.0 | 4.0 | 
@@ -193,12 +193,12 @@
 | 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Jiang Weijie | Li Qincheng | Lose | W+R | 7.5 | 3477.0 | 13.0 | 
 | 2017-10-10 | 第13期威孚房開杯棋王戦32強戦 | Li Qincheng | Jiang Weijie | Lose | Void | 7.5 | 3464.0 | 0.0 | 
 | 2017-10-10 | 第13期威孚房開杯棋王戦32強加戦 | Li Qincheng | Jiang Weijie | Lose | B+1.5 | 7.5 | 3464.0 | -1.0 | 
-| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Jiang Weijie | Dang Yifei | Win | B+R | 7.5 | 3465.0 | -43.0 | 
-| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Jiang Weijie | Yang Kaiwen | Win | B+R | 7.5 | 3508.0 | 32.0 | 
+| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Jiang Weijie | Dang Yifei | Win | B+R | 7.5 | 3465.0 | -42.0 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Jiang Weijie | Yang Kaiwen | Win | B+R | 7.5 | 3507.0 | 31.0 | 
 | 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Jiang Weijie | Chen Zhengxun | Lose | W+2.5 | 7.5 | 3476.0 | -18.0 | 
 | 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Huang Yunsong | Jiang Weijie | Lose | B+R | 7.5 | 3494.0 | -8.0 | 
-| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Chen Xian | Jiang Weijie | Win | W+R | 7.5 | 3502.0 | -9.0 | 
-| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Jiang Weijie | Hu Yaoyu | Lose | W+0.5 | 7.5 | 3511.0 | -4.0 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Chen Xian | Jiang Weijie | Win | W+R | 7.5 | 3502.0 | -8.0 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Jiang Weijie | Hu Yaoyu | Lose | W+0.5 | 7.5 | 3510.0 | -5.0 | 
 | 2017-08-15 | 中国浙江平湖当湖十局杯CCTV8強 | Jiang Weijie | Ke Jie | Lose | W+R | 7.5 | 3515.0 | -5.0 | 
 | 2017-08-14 | 中国浙江平湖当湖十局杯CCTV64強 | Yu Zhiying | Jiang Weijie | Win | W+0.5 | 7.5 | 3520.0 | 0.0 | 
 | 2017-08-14 | 中国浙江平湖当湖十局杯CCTV16強 | Shi Yue | Jiang Weijie | Win | W+0.5 | 7.5 | 3520.0 | 32.0 | 
@@ -211,16 +211,16 @@
 | 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Jiang Weijie |  | Lose | W+R | 7.5 | 3482.0 | -1.0 | 
 | 2017-06-29 | 第22回三星火災杯統合予選2回戦 | Lee Wonyoung | Jiang Weijie | Win | W+R | 6.5 | 3483.0 | -4.0 | 
 | 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Takao Shinji | Jiang Weijie | Lose | B+R | 7.5 | 3487.0 | 9.0 | 
-| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Jiang Weijie | Ichiriki Ryo | Win | B+R | 7.5 | 3478.0 | 3.0 | 
-| 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Park Junghwan | Jiang Weijie | Win | W+R | 6.5 | 3475.0 | 21.0 | 
+| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Jiang Weijie | Ichiriki Ryo | Win | B+R | 7.5 | 3478.0 | 4.0 | 
+| 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Park Junghwan | Jiang Weijie | Win | W+R | 6.5 | 3474.0 | 20.0 | 
 | 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Jiang Weijie | Lee Sedol | Win | B+R | 6.5 | 3454.0 | 36.0 | 
 | 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Jiang Weijie | Xie Ke | Win | B+R | 7.5 | 3418.0 | -5.0 | 
 | 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Ma Yichao | Jiang Weijie | Win | W+R | 7.5 | 3423.0 | 15.0 | 
 | 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Jiang Weijie | Gu Zihao | Win | B+1.5 | 7.5 | 3408.0 | 18.0 | 
 | 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Tang Weixing | Jiang Weijie | Lose | B+R | 7.5 | 3390.0 | -14.0 | 
 | 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Jiang Weijie | Tong Mengcheng | Win | B+R | 7.5 | 3404.0 | 11.0 | 
-| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Chen Xian | Jiang Weijie | Win | W+0.5 | 7.5 | 3393.0 | 7.0 | 
-| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Jiang Weijie | Li Zhe | Win | B+5.5 | 7.5 | 3386.0 | 7.0 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Chen Xian | Jiang Weijie | Win | W+0.5 | 7.5 | 3393.0 | 8.0 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Jiang Weijie | Li Zhe | Win | B+5.5 | 7.5 | 3385.0 | 6.0 | 
 | 2017-04-17 | 第19期中国阿含桐山杯本選2回戦 | Jiang Weijie | Yi Lingtao | Lose | W+R | 7.5 | 3379.0 | 0.0 | 
 | 2017-04-17 | 第19期中国阿含桐山杯本選1回戦 | Li He | Jiang Weijie | Win | W+R | 7.5 | 3379.0 | -63.0 | 
 | 2017-04-05 | 第22期LG杯世界予選2回戦 | Jiang Weijie | Han Sanghoon | Win | B+R | 6.5 | 3442.0 | -5.0 | 
@@ -291,9 +291,9 @@
 | 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦F1 | Shin Minjun | Jiang Weijie | Win | W+R | 6.5 | 3626.0 | -5.0 | 
 | 2015-09-05 | 第17回中国囲碁甲級リーグ第13節 | Hu Yuhan | Jiang Weijie | Win | W+R | 7.5 | 3631.0 | 10.0 | 
 | 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Jiang Weijie | Tao Xinran | Lose | W+R | 7.5 | 3621.0 | 2.0 | 
-| 2015-08-16 | 第17回農心杯中国選抜戦 | Jiang Weijie | Fan Yunruo | Lose | W+R | 6.5 | 3619.0 | -2.0 | 
-| 2015-08-05 | 第20回三星火災杯統合予選決勝 | Jiang Weijie | Cho Hanseung | Win | B+1.5 | 6.5 | 3621.0 | 4.0 | 
-| 2015-08-01 | 第20回三星火災杯統合予選1回戦 | Jiang Weijie | Lee Changseok | Win | B+6.5 | 6.5 | 3617.0 | 6.0 | 
+| 2015-08-16 | 第17回農心杯中国選抜戦 | Jiang Weijie | Fan Yunruo | Lose | W+R | 6.5 | 3619.0 | -1.0 | 
+| 2015-08-05 | 第20回三星火災杯統合予選決勝 | Jiang Weijie | Cho Hanseung | Win | B+1.5 | 6.5 | 3620.0 | 4.0 | 
+| 2015-08-01 | 第20回三星火災杯統合予選1回戦 | Jiang Weijie | Lee Changseok | Win | B+6.5 | 6.5 | 3616.0 | 5.0 | 
 | 2015-07-11 | 第17回中国囲碁甲級リーグ第11節 | Mao Ruilong | Jiang Weijie | Win | W+R | 7.5 | 3611.0 | -16.0 | 
 | 2015-07-04 | 第17回中国囲碁甲級リーグ第10節 | Jiang Weijie | Lee Sedol | Lose | W+R | 7.5 | 3627.0 | -30.0 | 
 | 2015-06-30 | 第17回中国囲碁甲級リーグ第9節 | Ke Jie | Jiang Weijie | Win | W+R | 7.5 | 3657.0 | 8.0 | 
@@ -332,22 +332,22 @@
 | 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Jiang Weijie | Ke Jie | Win | B+R | 7.5 | 3523.0 | 2.0 | 
 | 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Shi Yue | Jiang Weijie | Lose | B+R | 7.5 | 3521.0 | 5.0 | 
 | 2014-09-02 | 第6期中国竜星戦1回戦 | Dang Yifei | Jiang Weijie | Lose | B+R | 7.5 | 3516.0 | -9.0 | 
-| 2014-08-30 | 第16期阿含・桐山杯中国早碁オープン戦準決勝 | Jiang Weijie | Tang Weixing | Lose | W+R | 7.5 | 3525.0 | -25.0 | 
-| 2014-08-06 | 第19回三星火災杯統合予選決勝 | Kang Dongyun | Jiang Weijie | Lose | B+R | 6.5 | 3550.0 | -48.0 | 
-| 2014-07-28 | 第16期阿含・桐山杯中国早碁オープン戦2回戦 | Jiang Weijie | Fan Tingyu | Win | B+3.5 | 7.5 | 3598.0 | 5.0 | 
-| 2014-07-24 | 第2回百霊杯世界オープン戦3回戦 | An Sungjoon | Jiang Weijie | Win | W+R | 7.5 | 3593.0 | 0.0 | 
-| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Yang Dingxin | Jiang Weijie | Win | W+R | 7.5 | 3593.0 | -39.0 | 
-| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Zhou Hexi | Jiang Weijie | Win | W+R | 7.5 | 3632.0 | -2.0 | 
-| 2014-07-07 | 第16期阿含・桐山杯中国早碁オープン戦1回戦 | Jiang Weijie | Tuo Jiaxi | Win | B+R | 7.5 | 3634.0 | 9.0 | 
-| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Jiang Weijie | Tan Xiao | Win | B+R | 7.5 | 3625.0 | 7.0 | 
+| 2014-08-30 | 第16期阿含・桐山杯中国早碁オープン戦準決勝 | Jiang Weijie | Tang Weixing | Lose | W+R | 7.5 | 3525.0 | -24.0 | 
+| 2014-08-06 | 第19回三星火災杯統合予選決勝 | Kang Dongyun | Jiang Weijie | Lose | B+R | 6.5 | 3549.0 | -48.0 | 
+| 2014-07-28 | 第16期阿含・桐山杯中国早碁オープン戦2回戦 | Jiang Weijie | Fan Tingyu | Win | B+3.5 | 7.5 | 3597.0 | 5.0 | 
+| 2014-07-24 | 第2回百霊杯世界オープン戦3回戦 | An Sungjoon | Jiang Weijie | Win | W+R | 7.5 | 3592.0 | 0.0 | 
+| 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Yang Dingxin | Jiang Weijie | Win | W+R | 7.5 | 3592.0 | -39.0 | 
+| 2014-07-09 | 第16回中国囲碁甲級リーグ第11節 | Zhou Hexi | Jiang Weijie | Win | W+R | 7.5 | 3631.0 | -2.0 | 
+| 2014-07-07 | 第16期阿含・桐山杯中国早碁オープン戦1回戦 | Jiang Weijie | Tuo Jiaxi | Win | B+R | 7.5 | 3633.0 | 9.0 | 
+| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Jiang Weijie | Tan Xiao | Win | B+R | 7.5 | 3624.0 | 6.0 | 
 | 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 |  | Jiang Weijie | Win | W+R | 7.5 | 3618.0 | 0.0 | 
 | 2014-07-03 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Mao Ruilong | Jiang Weijie | Win | W+R | 7.5 | 3618.0 | 8.0 | 
 | 2014-07-02 | 第16期阿含・桐山杯中国早碁オープン戦予選 | Jiang Weijie | Wang Yao | Win | B+3.5 | 7.5 | 3610.0 | 18.0 | 
 | 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Jiang Weijie | Tong Mengcheng | Lose | W+R | 7.5 | 3592.0 | 38.0 | 
 | 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Qiu Jun | Jiang Weijie | Win | W+R | 7.5 | 3554.0 | 1.0 | 
 | 2014-06-20 | 第5回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Jiang Weijie | Gu Li | Lose | W+R | 7.5 | 3553.0 | -3.0 | 
-| 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Jiang Weijie | Peng Liyao | Win | B+R | 7.5 | 3556.0 | -70.0 | 
-| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Jiang Weijie | Yang Dingxin | Lose | W+R | 7.5 | 3626.0 | 20.0 | 
+| 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Jiang Weijie | Peng Liyao | Win | B+R | 7.5 | 3556.0 | -69.0 | 
+| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Jiang Weijie | Yang Dingxin | Lose | W+R | 7.5 | 3625.0 | 19.0 | 
 | 2014-06-05 | 第16回中国囲碁甲級リーグ第6節（再対局） | Lee Sedol | Jiang Weijie | Win | W+R | 7.5 | 3606.0 | 0.0 | 
 | 2014-06-05 | 第16回中国囲碁甲級リーグ第6節 | Lee Sedol | Jiang Weijie | Lose | Void | 7.5 | 3606.0 | 16.0 | 
 | 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Jiang Weijie | Choi Cheolhan | Win | B+R | 7.5 | 3590.0 | 20.0 | 
@@ -360,9 +360,9 @@
 | 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Jiang Weijie | Park Junghwan | Win | B+R | 7.5 | 3655.0 | 10.0 | 
 | 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Jiang Weijie | Piao Wenyao | Win | B+R | 7.5 | 3645.0 | -10.0 | 
 | 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦2回戦 |  | Jiang Weijie | Lose | B+R | 7.5 | 3655.0 | 0.0 | 
-| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Jiang Weijie | Meng Tailing | Win | B+1.5 | 7.5 | 3655.0 | 1.0 | 
-| 2014-04-19 | 第19回LG杯予選 | Jiang Weijie | Xie Erhao | Lose | W+R | 6.5 | 3654.0 | -12.0 | 
-| 2014-04-17 | 第19回LG杯予選 |  | Jiang Weijie | Win | W+2.5 | 6.5 | 3666.0 | 38.0 | 
+| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Jiang Weijie | Meng Tailing | Win | B+1.5 | 7.5 | 3655.0 | 2.0 | 
+| 2014-04-19 | 第19回LG杯予選 | Jiang Weijie | Xie Erhao | Lose | W+R | 6.5 | 3653.0 | -12.0 | 
+| 2014-04-17 | 第19回LG杯予選 |  | Jiang Weijie | Win | W+2.5 | 6.5 | 3665.0 | 37.0 | 
 | 2014-04-08 | 第27期中国囲碁名人戦3回戦 | Mi Yuting | Jiang Weijie | Win | W+R | 7.5 | 3628.0 | 21.0 | 
 | 2014-04-06 | 第27期中国囲碁名人戦2回戦 | Sun Li | Jiang Weijie | Win | W+R | 7.5 | 3607.0 | 16.0 | 
 | 2014-04-04 | 第27期中国囲碁名人戦1回戦 | Gu Li | Jiang Weijie | Win | W+R | 7.5 | 3591.0 | 0.0 | 

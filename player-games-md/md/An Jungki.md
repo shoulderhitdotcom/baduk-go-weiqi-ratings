@@ -8,18 +8,18 @@
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント2回戦 | An Jungki | Park Yeonghun | Lose | W+R | 6.5 | 3403.0 | 0.0 | 
-| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Song Gyusang | An Jungki | Win | W+R | 6.5 | 3403.0 | 11.0 | 
-| 2021-11-14 | 第7回国手山脈韓国国内トーナメント予選 | An Jungki | Hong Seongji | Win | B+0.5 | 6.5 | 3392.0 | -6.0 | 
+| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Song Gyusang | An Jungki | Win | W+R | 6.5 | 3403.0 | 12.0 | 
+| 2021-11-14 | 第7回国手山脈韓国国内トーナメント予選 | An Jungki | Hong Seongji | Win | B+0.5 | 6.5 | 3391.0 | -7.0 | 
 | 2021-06-25 | 第44期名人戦（韓国）敗者復活戦4回戦 | An Jungki | Lee Changseok | Lose | W+R | 6.5 | 3398.0 | -2.0 | 
 | 2021-06-19 | 第44期名人戦（韓国）3回戦 | Park Junghwan | An Jungki | Lose | B+R | 6.5 | 3400.0 | -47.0 | 
-| 2021-05-15 | 第44期名人戦（韓国）2回戦 | Choi Jeong | An Jungki | Win | W+0.5 | 6.5 | 3447.0 | 29.0 | 
-| 2021-03-27 | 2020-2021韓国囲碁リーグ優勝決定戦第2戦 | Weon Seongjin | An Jungki | Lose | B+R | 6.5 | 3418.0 | -6.0 | 
-| 2021-03-26 | 2020-2021韓国囲碁リーグ優勝決定戦第1戦 | An Jungki | Weon Seongjin | Lose | W+R | 6.5 | 3424.0 | 12.0 | 
+| 2021-05-15 | 第44期名人戦（韓国）2回戦 | Choi Jeong | An Jungki | Win | W+0.5 | 6.5 | 3447.0 | 30.0 | 
+| 2021-03-27 | 2020-2021韓国囲碁リーグ優勝決定戦第2戦 | Weon Seongjin | An Jungki | Lose | B+R | 6.5 | 3417.0 | -6.0 | 
+| 2021-03-26 | 2020-2021韓国囲碁リーグ優勝決定戦第1戦 | An Jungki | Weon Seongjin | Lose | W+R | 6.5 | 3423.0 | 11.0 | 
 | 2021-03-20 | 2020-2021韓国囲碁リーグプレーオフ第2戦 | Byun Sangil | An Jungki | Win | W+R | 6.5 | 3412.0 | 21.0 | 
 | 2021-03-13 | 第44期名人戦（韓国）1回戦 | Kim Sonjin | An Jungki | Win | W+1.5 | 6.5 | 3391.0 | 4.0 | 
 | 2021-03-10 | 第4期韓国竜星戦2回戦 | Park Sangjin | An Jungki | Lose | B+2.5 | 6.5 | 3387.0 | -12.0 | 
-| 2021-02-27 | 2020-2021韓国囲碁リーグ | Cho Hanseung | An Jungki | Win | W+R | 6.5 | 3399.0 | 3.0 | 
-| 2021-02-19 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | An Jungki | Lose | B+R | 6.5 | 3396.0 | 17.0 | 
+| 2021-02-27 | 2020-2021韓国囲碁リーグ | Cho Hanseung | An Jungki | Win | W+R | 6.5 | 3399.0 | 4.0 | 
+| 2021-02-19 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | An Jungki | Lose | B+R | 6.5 | 3395.0 | 16.0 | 
 | 2021-02-12 | 2020-2021韓国囲碁リーグ | Moon Minjong | An Jungki | Win | W+R | 6.5 | 3379.0 | 12.0 | 
 | 2021-02-09 | 第4期韓国竜星戦1回戦 | An Jungki | Lee Yeongkyu | Win | B+2.5 | 6.5 | 3367.0 | 19.0 | 
 | 2021-02-08 | 第4回クラウン・ヘテ杯準決勝 | Seol Hyunjun | An Jungki | Lose | B+R | 6.5 | 3348.0 | -13.0 | 
@@ -53,8 +53,8 @@
 | 2020-03-07 | 2019-2020韓国囲碁リーグ優勝決定戦第2戦第3局 | Shin Jinseo | An Jungki | Lose | B+R | 6.5 | 3222.0 | -4.0 | 
 | 2020-03-06 | 2019-2020韓国囲碁リーグ優勝決定戦第1戦第3局 | An Jungki | Shin Jinseo | Lose | W+R | 6.5 | 3226.0 | -24.0 | 
 | 2020-01-19 | 2019-2020韓国囲碁リーグ第16節第4試合第1局 |  | An Jungki | Lose | B+R | 6.5 | 3250.0 | -33.0 | 
-| 2020-01-09 | 2019-2020韓国囲碁リーグ第15節第1試合第5局 | Cho Hanseung | An Jungki | Lose | B+0.5 | 6.5 | 3283.0 | 31.0 | 
-| 2019-12-27 | 2019-2020韓国囲碁リーグ第13節第2試合第2局 | An Jungki | Han Wonggyu | Lose | W+1.5 | 6.5 | 3252.0 | -60.0 | 
+| 2020-01-09 | 2019-2020韓国囲碁リーグ第15節第1試合第5局 | Cho Hanseung | An Jungki | Lose | B+0.5 | 6.5 | 3283.0 | 32.0 | 
+| 2019-12-27 | 2019-2020韓国囲碁リーグ第13節第2試合第2局 | An Jungki | Han Wonggyu | Lose | W+1.5 | 6.5 | 3251.0 | -61.0 | 
 | 2019-12-21 | 2019-2020韓国囲碁リーグ第12節第3試合第1局 | Lee Donghoon | An Jungki | Lose | B+R | 6.5 | 3312.0 | -9.0 | 
 | 2019-12-13 | 2019-2020韓国囲碁リーグ第11節第2試合第1局 | Choi Cheolhan | An Jungki | Win | W+0.5 | 6.5 | 3321.0 | 39.0 | 
 | 2019-12-06 | 2019-2020韓国囲碁リーグ第10節第2試合第1局 | An Jungki | Song Jihoon | Lose | W+R | 6.5 | 3282.0 | -34.0 | 
@@ -64,14 +64,14 @@
 | 2019-10-26 | 2019-2020韓国囲碁リーグ第4節第3試合第1局 | Na Hyun | An Jungki | Win | W+R | 6.5 | 3399.0 | 73.0 | 
 | 2019-10-18 | 2019-2020韓国囲碁リーグ第3節第2試合第5局 | Park Jinsol | An Jungki | Win | W+R | 6.5 | 3326.0 | 114.0 | 
 | 2019-10-05 | 2019-2020韓国囲碁リーグ第2節第3試合第3局 | Song Taekon | An Jungki | Win | W+R | 6.5 | 3212.0 | 200.0 | 
-| 2019-09-28 | 2019-2020韓国囲碁リーグ第1節第3試合第4局 | Park Junghwan | An Jungki | Lose | B+R | 6.5 | 3012.0 | -84.0 | 
-| 2019-09-10 | 第3回安東市真貯蓄銀行杯プロアマオープン戦8強戦 | Shin Minjun | An Jungki | Lose | B+1.5 | 6.5 | 3096.0 | -3.0 | 
-| 2019-09-09 | 第3回安東市真貯蓄銀行杯プロアマオープン戦32強戦 | An Jungki | Choi Cheolhan | Win | B+R | 6.5 | 3099.0 | 3.0 | 
+| 2019-09-28 | 2019-2020韓国囲碁リーグ第1節第3試合第4局 | Park Junghwan | An Jungki | Lose | B+R | 6.5 | 3012.0 | -83.0 | 
+| 2019-09-10 | 第3回安東市真貯蓄銀行杯プロアマオープン戦8強戦 | Shin Minjun | An Jungki | Lose | B+1.5 | 6.5 | 3095.0 | -3.0 | 
+| 2019-09-09 | 第3回安東市真貯蓄銀行杯プロアマオープン戦32強戦 | An Jungki | Choi Cheolhan | Win | B+R | 6.5 | 3098.0 | 2.0 | 
 | 2019-07-11 | 第21回農心杯韓国選抜戦 | An Jungki | Seol Hyunjun | Lose | W+R | 6.5 | 3096.0 | 6.0 | 
 | 2019-06-22 | 2019年中国囲碁乙級リーグ | Lin Lixiang | An Jungki | Win | W+0.5 | 7.5 | 3090.0 | -9.0 | 
 | 2019-05-31 | 2019年囲碁テレビ杯早碁戦32強戦 | Lee Hoseong | An Jungki | Lose | B+R | 6.5 | 3099.0 | -91.0 | 
-| 2019-03-05 | 第38回KBS杯囲碁王戦1回戦 | An Jungki | Baek Chanhee | Win | B+R | 6.5 | 3190.0 | -45.0 | 
-| 2019-01-02 | 第4期未来の星新鋭最強戦1次大会第2戦 | Park Hyunsoo | An Jungki | Lose | B+R | 6.5 | 3235.0 | 4.0 | 
+| 2019-03-05 | 第38回KBS杯囲碁王戦1回戦 | An Jungki | Baek Chanhee | Win | B+R | 6.5 | 3190.0 | -44.0 | 
+| 2019-01-02 | 第4期未来の星新鋭最強戦1次大会第2戦 | Park Hyunsoo | An Jungki | Lose | B+R | 6.5 | 3234.0 | 3.0 | 
 | 2018-10-21 | 2018年フューチャーズリーグ | Cho Insun | An Jungki | Lose | B+R | 6.5 | 3231.0 | -40.0 | 
 | 2018-10-03 | 2018年フューチャーズリーグ | Lee Wondo | An Jungki | Lose | B+R | 6.5 | 3271.0 | -48.0 | 
 | 2018-09-23 | 2018年フューチャーズリーグ | Kim Kiyoung | An Jungki | Win | W+1.5 | 6.5 | 3319.0 | 6.0 | 
@@ -92,8 +92,8 @@
 | 2018-06-24 | 2018年フューチャーズリーグ | An Jungki | Choi Kyeongho | Win | B+2.5 | 6.5 | 3414.0 | -22.0 | 
 | 2018-06-16 | 2018年フューチャーズリーグ | Kim Hyeongwan | An Jungki | Win | W+0.5 | 6.5 | 3436.0 | 6.0 | 
 | 2018-06-15 | 2018年韓国囲碁リーグ第1節 | An Jungki | Kang Seungmin | Lose | W+R | 6.5 | 3430.0 | 51.0 | 
-| 2018-04-23 | 第37回KBS杯囲碁王戦32強戦 | An Jungki | Heo Yongho | Lose | W+R | 6.5 | 3379.0 | 0.0 | 
-| 2018-01-20 | 第3期未来の星新鋭最強戦決勝 | Park Geunho | An Jungki | Win | W+R | 6.5 | 3379.0 | 28.0 | 
+| 2018-04-23 | 第37回KBS杯囲碁王戦32強戦 | An Jungki | Heo Yongho | Lose | W+R | 6.5 | 3379.0 | 1.0 | 
+| 2018-01-20 | 第3期未来の星新鋭最強戦決勝 | Park Geunho | An Jungki | Win | W+R | 6.5 | 3378.0 | 27.0 | 
 | 2018-01-19 | 第3期未来の星新鋭最強戦準決勝 | An Jungki |  | Win | B+R | 6.5 | 3351.0 | 14.0 | 
 | 2018-01-17 | 第3期未来の星新鋭最強戦8強戦 | An Jungki | Otake Yu | Win | B+R | 6.5 | 3337.0 | 7.0 | 
 | 2018-01-16 | 第3期未来の星新鋭最強戦16強戦 | An Jungki | Song Jihoon | Win | B+R | 6.5 | 3330.0 | 24.0 | 
@@ -101,8 +101,8 @@
 | 2017-12-23 | 第1回クラウン・ヘテ杯1回戦 | An Jungki | Kang Seungmin | Lose | W+R | 6.5 | 3277.0 | 2.0 | 
 | 2017-10-29 | 2017年フューチャーズリーグ | You Byungyong | An Jungki | Lose | B+R | 6.5 | 3275.0 | -62.0 | 
 | 2017-10-22 | 2017年フューチャーズリーグ | An Joyeong | An Jungki | Win | W+R | 6.5 | 3337.0 | 38.0 | 
-| 2017-10-13 | 2017年韓国囲碁リーグ | Cho Hanseung | An Jungki | Lose | B+R | 6.5 | 3299.0 | -45.0 | 
-| 2017-09-30 | 2017年フューチャーズリーグ | Hong Kipyo | An Jungki | Win | W+R | 6.5 | 3344.0 | 39.0 | 
+| 2017-10-13 | 2017年韓国囲碁リーグ | Cho Hanseung | An Jungki | Lose | B+R | 6.5 | 3299.0 | -44.0 | 
+| 2017-09-30 | 2017年フューチャーズリーグ | Hong Kipyo | An Jungki | Win | W+R | 6.5 | 3343.0 | 38.0 | 
 | 2017-09-27 | 2017年フューチャーズリーグ |  | An Jungki | Lose | B+1.5 | 6.5 | 3305.0 | -19.0 | 
 | 2017-09-17 | 2017年フューチャーズリーグ | Kim Hyeongwoo | An Jungki | Win | W+R | 6.5 | 3324.0 | 13.0 | 
 | 2017-09-02 | 2017年フューチャーズリーグ | An Jungki | Park Joonhoon | Lose | W+R | 6.5 | 3311.0 | -7.0 | 

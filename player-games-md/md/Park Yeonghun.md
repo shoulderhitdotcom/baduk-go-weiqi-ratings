@@ -16,16 +16,16 @@
 | 2021-12-11 | 第7回国手山脈韓国国内トーナメント準決勝 | Park Yeonghun | Kang Jihoon | Win | B+R | 6.5 | 3365.0 | 48.0 | 
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント2回戦 | An Jungki | Park Yeonghun | Win | W+R | 6.5 | 3317.0 | 0.0 | 
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Park Yeonghun | Han Seungjoo | Win | B+R | 6.5 | 3317.0 | 31.0 | 
-| 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Minkyu | Park Yeonghun | Win | W+R | 6.5 | 3286.0 | 13.0 | 
-| 2021-11-27 | 2021-2022韓国囲碁リーグ | Park Yeonghun | Song Jihoon | Win | B+R | 6.5 | 3273.0 | 41.0 | 
-| 2021-11-18 | 2021-2022韓国囲碁リーグ | Choi Jaeyoung | Park Yeonghun | Win | W+R | 6.5 | 3232.0 | 0.0 | 
-| 2021-11-15 | 第7回国手山脈韓国国内トーナメント予選 | Park Kyuongkeun | Park Yeonghun | Lose | B+0.5 | 6.5 | 3232.0 | 1.0 | 
-| 2021-11-10 | 第3回大統領杯全国囲碁大会予選 | Park Yeonghun | Seol Hyunjun | Lose | W+R | 6.5 | 3231.0 | -16.0 | 
+| 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Minkyu | Park Yeonghun | Win | W+R | 6.5 | 3286.0 | 14.0 | 
+| 2021-11-27 | 2021-2022韓国囲碁リーグ | Park Yeonghun | Song Jihoon | Win | B+R | 6.5 | 3272.0 | 41.0 | 
+| 2021-11-18 | 2021-2022韓国囲碁リーグ | Choi Jaeyoung | Park Yeonghun | Win | W+R | 6.5 | 3231.0 | 0.0 | 
+| 2021-11-15 | 第7回国手山脈韓国国内トーナメント予選 | Park Kyuongkeun | Park Yeonghun | Lose | B+0.5 | 6.5 | 3231.0 | 1.0 | 
+| 2021-11-10 | 第3回大統領杯全国囲碁大会予選 | Park Yeonghun | Seol Hyunjun | Lose | W+R | 6.5 | 3230.0 | -17.0 | 
 | 2021-09-07 | 第3期ソパルコサノル最高棋士決定戦予選 | Park Yeonghun |  | Lose | W+R | 6.5 | 3247.0 | -30.0 | 
 | 2021-08-23 | 第26回三星火災杯韓国予選 | Ryu Minhyung | Park Yeonghun | Win | W+R | 6.5 | 3277.0 | 23.0 | 
-| 2021-08-19 | 第26回三星火災杯韓国予選 | Park Yeonghun | Kang Jihoon | Win | B+R | 6.5 | 3254.0 | -20.0 | 
-| 2021-04-28 | 第4期韓国竜星戦2回戦 | Shin Jinseo | Park Yeonghun | Lose | B+R | 6.5 | 3274.0 | 1.0 | 
-| 2021-04-26 | 第26回LG杯韓国予選 | Lee Hyeonwuk | Park Yeonghun | Win | W+R | 6.5 | 3273.0 | -16.0 | 
+| 2021-08-19 | 第26回三星火災杯韓国予選 | Park Yeonghun | Kang Jihoon | Win | B+R | 6.5 | 3254.0 | -19.0 | 
+| 2021-04-28 | 第4期韓国竜星戦2回戦 | Shin Jinseo | Park Yeonghun | Lose | B+R | 6.5 | 3273.0 | 1.0 | 
+| 2021-04-26 | 第26回LG杯韓国予選 | Lee Hyeonwuk | Park Yeonghun | Win | W+R | 6.5 | 3272.0 | -17.0 | 
 | 2021-02-25 | 第1回牛膝鳳爪韓国棋院選手権戦予選 | Park Yeonghun | Han Seungjoo | Lose | W+R | 6.5 | 3289.0 | -23.0 | 
 | 2021-02-21 | 2020-2021韓国囲碁リーグ | Wen Rubin | Park Yeonghun | Lose | B+R | 6.5 | 3312.0 | 1.0 | 
 | 2021-02-08 | 第4期韓国竜星戦1回戦 | Park Yeonghun | Choi Jeong | Win | B+R | 6.5 | 3311.0 | 12.0 | 
@@ -48,8 +48,8 @@
 | 2020-11-02 | 第2回大統領杯全国囲碁大会予選 |  | Park Yeonghun | Win | W+T | 6.5 | 3301.0 | -73.0 | 
 | 2020-08-31 | 第25回三星火災杯韓国一般枠予選 |  | Park Yeonghun | Lose | B+R | 6.5 | 3374.0 | -108.0 | 
 | 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Park Yeonghun | Yu Zhengqi | Win | B+R | 7.5 | 3482.0 | 0.0 | 
-| 2020-05-26 | 第1期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Park Yeonghun | Win | W+R | 6.5 | 3482.0 | 29.0 | 
-| 2020-05-11 | 第1期ソパルコサノル最高棋士決定戦リーグ | Park Yeonghun | Shin Jinseo | Lose | W+R | 6.5 | 3453.0 | -14.0 | 
+| 2020-05-26 | 第1期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Park Yeonghun | Win | W+R | 6.5 | 3482.0 | 30.0 | 
+| 2020-05-11 | 第1期ソパルコサノル最高棋士決定戦リーグ | Park Yeonghun | Shin Jinseo | Lose | W+R | 6.5 | 3452.0 | -15.0 | 
 | 2020-04-26 | 韓国囲碁リーグオールスター戦第7局 | Park Yeonghun | Shin Jinseo | Lose | W+R | 6.5 | 3467.0 | 2.0 | 
 | 2020-04-25 | 韓国囲碁リーグオールスター戦第6局 | Park Yeonghun | Byun Sangil | Win | B+R | 6.5 | 3465.0 | 13.0 | 
 | 2020-04-24 | 第25期GSカルテックス杯プロ棋戦16強戦 | Kim Jiseok | Park Yeonghun | Lose | B+R | 6.5 | 3452.0 | -9.0 | 
@@ -74,8 +74,8 @@
 | 2020-01-12 | 2019-2020韓国囲碁リーグ第15節第4試合第5局 | Choi Jaeyoung | Park Yeonghun | Win | W+R | 6.5 | 3502.0 | 9.0 | 
 | 2020-01-09 | 第3期韓国竜星戦予選 | Park Yeonghun | Han Woojin | Win | B+R | 6.5 | 3493.0 | -1.0 | 
 | 2020-01-07 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Lee Jihyun | Park Yeonghun | Lose | B+R | 6.5 | 3494.0 | -8.0 | 
-| 2020-01-04 | 2019-2020韓国囲碁リーグ第14節第3試合第2局 | Park Yeonghun | Choi Cheolhan | Lose | W+R | 6.5 | 3502.0 | -20.0 | 
-| 2019-12-26 | 2019-2020韓国囲碁リーグ第13節第1試合第5局 | Park Yeonghun | Kim Sangcheon | Win | B+R | 6.5 | 3522.0 | -39.0 | 
+| 2020-01-04 | 2019-2020韓国囲碁リーグ第14節第3試合第2局 | Park Yeonghun | Choi Cheolhan | Lose | W+R | 6.5 | 3502.0 | -19.0 | 
+| 2019-12-26 | 2019-2020韓国囲碁リーグ第13節第1試合第5局 | Park Yeonghun | Kim Sangcheon | Win | B+R | 6.5 | 3521.0 | -40.0 | 
 | 2019-12-13 | 第25期GSカルテックス杯プロ棋戦予選決勝 | Park Yeonghun |  | Win | B+R | 6.5 | 3561.0 | 1.0 | 
 | 2019-12-12 | 2019-2020韓国囲碁リーグ第11節第1試合第3局 | Park Yeonghun | Park Jinsol | Lose | W+R | 6.5 | 3560.0 | -31.0 | 
 | 2019-11-30 | 2019-2020韓国囲碁リーグ第9節第3試合第3局 | Park Yeonghun | Kang Dongyun | Lose | W+R | 6.5 | 3591.0 | -7.0 | 
@@ -112,8 +112,8 @@
 | 2019-03-07 | 第24期GSカルテックス杯16強戦 | Wen Rubin | Park Yeonghun | Win | W+R | 6.5 | 3532.0 | -35.0 | 
 | 2019-02-26 | 第1回IWMC韓国代表選抜戦1回戦 | Park Yeonghun | Shin Minjun | Lose | W+R | 7.5 | 3567.0 | 6.0 | 
 | 2019-01-26 | 第3回ワールド碁チャンピオンシップ国際予選3回戦 | Park Yeonghun | Gu Zihao | Lose | W+R | 6.5 | 3561.0 | -10.0 | 
-| 2019-01-24 | 第3回ワールド碁チャンピオンシップ国際予選1回戦 | Park Yeonghun | Shibano Toramaru | Win | B+R | 6.5 | 3571.0 | 11.0 | 
-| 2019-01-15 | 第20回マキシムコーヒー杯入神最強戦1回戦 | Mok Jinseok | Park Yeonghun | Lose | B+R | 6.5 | 3560.0 | 24.0 | 
+| 2019-01-24 | 第3回ワールド碁チャンピオンシップ国際予選1回戦 | Park Yeonghun | Shibano Toramaru | Win | B+R | 6.5 | 3571.0 | 12.0 | 
+| 2019-01-15 | 第20回マキシムコーヒー杯入神最強戦1回戦 | Mok Jinseok | Park Yeonghun | Lose | B+R | 6.5 | 3559.0 | 23.0 | 
 | 2018-12-19 | 第12回春蘭杯世界囲碁選手権準決勝 | Park Yeonghun | Dang Yifei | Win | B+1.5 | 7.5 | 3536.0 | 13.0 | 
 | 2018-12-17 | 第12回春蘭杯世界囲碁選手権3回戦 | Gu Zihao | Park Yeonghun | Win | W+R | 7.5 | 3523.0 | 11.0 | 
 | 2018-10-05 | 2018年韓国囲碁リーグ第14節 | Park Yeonghun |  | Lose | W+R | 6.5 | 3512.0 | -4.0 | 
@@ -135,9 +135,9 @@
 | 2018-07-05 | 第23回三星火災杯統合予選3回戦 |  | Park Yeonghun | Win | W+3.5 | 6.5 | 3575.0 | -5.0 | 
 | 2018-06-30 | 2018年韓国囲碁リーグ第3節 | Kang Dongyun | Park Yeonghun | Lose | B+R | 6.5 | 3580.0 | -11.0 | 
 | 2018-06-26 | 第4回百霊杯韓国選抜戦4強戦 | Park Yeonghun | Byun Sangil | Lose | W+R | 6.5 | 3591.0 | 7.0 | 
-| 2018-06-22 | 2018年韓国囲碁リーグ第2節 | Paek Hongseok | Park Yeonghun | Win | W+R | 6.5 | 3584.0 | -13.0 | 
-| 2018-06-19 | 2018年中国囲碁乙級リーグ | Seol Hyunjun | Park Yeonghun | Lose | B+R | 7.5 | 3597.0 | -26.0 | 
-| 2018-06-18 | 2018年中国囲碁乙級リーグ | Park Yeonghun |  | Win | B+R | 7.5 | 3623.0 | 9.0 | 
+| 2018-06-22 | 2018年韓国囲碁リーグ第2節 | Paek Hongseok | Park Yeonghun | Win | W+R | 6.5 | 3584.0 | -12.0 | 
+| 2018-06-19 | 2018年中国囲碁乙級リーグ | Seol Hyunjun | Park Yeonghun | Lose | B+R | 7.5 | 3596.0 | -26.0 | 
+| 2018-06-18 | 2018年中国囲碁乙級リーグ | Park Yeonghun |  | Win | B+R | 7.5 | 3622.0 | 8.0 | 
 | 2018-06-16 | 2018年中国囲碁乙級リーグ | Kang Dongyun | Park Yeonghun | Win | W+R | 7.5 | 3614.0 | 6.0 | 
 | 2018-06-15 | 2018年中国囲碁乙級リーグ |  | Park Yeonghun | Lose | B+R | 7.5 | 3608.0 | -12.0 | 
 | 2018-06-11 | 2018年中国囲碁乙級リーグ | Park Yeonghun |  | Win | B+R | 7.5 | 3620.0 | 3.0 | 
@@ -153,11 +153,11 @@
 | 2018-03-27 | 第19回マキシムコーヒー杯入神最強戦準決勝 | Kim Jiseok | Park Yeonghun | Win | W+R | 6.5 | 3551.0 | 18.0 | 
 | 2018-03-23 | 第12回春蘭杯世界囲碁選手権2回戦 | Park Yeonghun | Lian Xiao | Win | B+1.5 | 7.5 | 3533.0 | 14.0 | 
 | 2018-03-05 | 第19回マキシムコーヒー杯入神最強戦3回戦 | Park Cheongsang | Park Yeonghun | Win | W+R | 6.5 | 3519.0 | 25.0 | 
-| 2018-02-13 | 第19回マキシムコーヒー杯入神最強戦2回戦 | Yun Hyunseok | Park Yeonghun | Win | W+R | 6.5 | 3494.0 | -4.0 | 
-| 2018-01-23 | 第19回マキシムコーヒー杯入神最強戦1回戦 | Mok Jinseok | Park Yeonghun | Win | W+R | 6.5 | 3498.0 | 5.0 | 
-| 2018-01-02 | 第3回夢百合杯世界オープン戦決勝五番勝負第3局 | Park Yeonghun | Park Junghwan | Lose | W+R | 7.5 | 3493.0 | 5.0 | 
-| 2017-12-31 | 第3回夢百合杯世界オープン戦決勝五番勝負第2局 | Park Junghwan | Park Yeonghun | Lose | B+R | 7.5 | 3488.0 | 0.0 | 
-| 2017-12-30 | 第3回夢百合杯世界オープン戦決勝五番勝負第1局 | Park Yeonghun | Park Junghwan | Lose | W+R | 7.5 | 3488.0 | -27.0 | 
+| 2018-02-13 | 第19回マキシムコーヒー杯入神最強戦2回戦 | Yun Hyunseok | Park Yeonghun | Win | W+R | 6.5 | 3494.0 | -3.0 | 
+| 2018-01-23 | 第19回マキシムコーヒー杯入神最強戦1回戦 | Mok Jinseok | Park Yeonghun | Win | W+R | 6.5 | 3497.0 | 5.0 | 
+| 2018-01-02 | 第3回夢百合杯世界オープン戦決勝五番勝負第3局 | Park Yeonghun | Park Junghwan | Lose | W+R | 7.5 | 3492.0 | 5.0 | 
+| 2017-12-31 | 第3回夢百合杯世界オープン戦決勝五番勝負第2局 | Park Junghwan | Park Yeonghun | Lose | B+R | 7.5 | 3487.0 | 0.0 | 
+| 2017-12-30 | 第3回夢百合杯世界オープン戦決勝五番勝負第1局 | Park Yeonghun | Park Junghwan | Lose | W+R | 7.5 | 3487.0 | -28.0 | 
 | 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Park Yeonghun | Xie Erhao | Win | B+R | 7.5 | 3515.0 | 8.0 | 
 | 2017-11-20 | 第3回夢百合杯世界オープン戦準決勝三番勝負第三局 | Li Xuanhao | Park Yeonghun | Win | W+R | 7.5 | 3507.0 | 6.0 | 
 | 2017-11-19 | 第3回夢百合杯世界オープン戦準決勝三番勝負第二局 | Li Xuanhao | Park Yeonghun | Lose | B+R | 7.5 | 3501.0 | -6.0 | 
@@ -167,8 +167,8 @@
 | 2017-10-28 | 2017年韓国囲碁リーグ | Heo Yongho | Park Yeonghun | Lose | B+R | 6.5 | 3513.0 | -5.0 | 
 | 2017-10-20 | 2017年韓国囲碁リーグ | Park Yeonghun | Yun Junsang | Win | B+R | 6.5 | 3518.0 | 37.0 | 
 | 2017-10-12 | 2017年韓国囲碁リーグ | Shin Minjun | Park Yeonghun | Lose | B+R | 6.5 | 3481.0 | 2.0 | 
-| 2017-10-08 | 2017年韓国囲碁リーグ | Lee Taehyun | Park Yeonghun | Win | W+0.5 | 6.5 | 3479.0 | -33.0 | 
-| 2017-09-29 | 2017年韓国囲碁リーグ | Park Yeonghun | Shin Jinseo | Win | B+R | 6.5 | 3512.0 | 32.0 | 
+| 2017-10-08 | 2017年韓国囲碁リーグ | Lee Taehyun | Park Yeonghun | Win | W+0.5 | 6.5 | 3479.0 | -32.0 | 
+| 2017-09-29 | 2017年韓国囲碁リーグ | Park Yeonghun | Shin Jinseo | Win | B+R | 6.5 | 3511.0 | 31.0 | 
 | 2017-09-25 | 第22回三星火災杯世界囲碁マスターズ2回戦 | Park Yeonghun | Gu Zihao | Lose | W+R | 6.5 | 3480.0 | -12.0 | 
 | 2017-09-15 | 2017年韓国囲碁リーグ | Mok Jinseok | Park Yeonghun | Win | W+R | 6.5 | 3492.0 | 11.0 | 
 | 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Fan Yunruo | Park Yeonghun | Win | W+R | 7.5 | 3481.0 | 13.0 | 
@@ -176,9 +176,9 @@
 | 2017-09-06 | 第22回三星火災杯世界囲碁マスターズ1回戦G2 | Park Yeonghun | Zhao Chenyu | Lose | W+R | 6.5 | 3455.0 | -17.0 | 
 | 2017-09-05 | 第22回三星火災杯世界囲碁マスターズ1回戦G1 | Yang Dingxin | Park Yeonghun | Win | W+R | 6.5 | 3472.0 | 1.0 | 
 | 2017-09-03 | 2017年韓国囲碁リーグ | Lee Wonyoung | Park Yeonghun | Lose | B+R | 6.5 | 3471.0 | -3.0 | 
-| 2017-08-26 | 第3回Mlily夢百合杯8強戦 | Fan Yunruo | Park Yeonghun | Win | W+R | 7.5 | 3474.0 | 19.0 | 
-| 2017-08-24 | 第3回Mlily夢百合杯16強戦 | Wang Haoyang | Park Yeonghun | Win | W+R | 7.5 | 3455.0 | 7.0 | 
-| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Dang Yifei | Park Yeonghun | Lose | B+R | 7.5 | 3448.0 | -3.0 | 
+| 2017-08-26 | 第3回Mlily夢百合杯8強戦 | Fan Yunruo | Park Yeonghun | Win | W+R | 7.5 | 3474.0 | 20.0 | 
+| 2017-08-24 | 第3回Mlily夢百合杯16強戦 | Wang Haoyang | Park Yeonghun | Win | W+R | 7.5 | 3454.0 | 7.0 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Dang Yifei | Park Yeonghun | Lose | B+R | 7.5 | 3447.0 | -4.0 | 
 | 2017-08-18 | 2017年韓国囲碁リーグ | Park Yeonghun | Jin Siyoung | Win | B+R | 6.5 | 3451.0 | 12.0 | 
 | 2017-08-12 | 2017年韓国囲碁リーグ | Yun Junsang | Park Yeonghun | Win | W+R | 6.5 | 3439.0 | 10.0 | 
 | 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Gu Zihao | Park Yeonghun | Lose | B+R | 7.5 | 3429.0 | -16.0 | 
@@ -193,8 +193,8 @@
 | 2017-06-23 | 第11回春蘭杯世界囲碁選手権決勝三番勝負第1局 | Park Yeonghun | Tan Xiao | Lose | W+R | 7.5 | 3451.0 | 13.0 | 
 | 2017-06-21 | 第3回夢百合杯世界オープン戦2回戦 | Park Yeonghun | Tong Mengcheng | Win | B+R | 7.5 | 3438.0 | 0.0 | 
 | 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Park Yeonghun | Li Biqi | Win | B+R | 7.5 | 3438.0 | 16.0 | 
-| 2017-06-10 | 2017年韓国囲碁リーグ | Park Yeonghun | Shen Zaiyi | Win | B+1.5 | 6.5 | 3422.0 | -46.0 | 
-| 2017-06-01 | 2017年韓国囲碁リーグ | Park Yeonghun | Lee Wonyoung | Win | B+R | 6.5 | 3468.0 | 12.0 | 
+| 2017-06-10 | 2017年韓国囲碁リーグ | Park Yeonghun | Shen Zaiyi | Win | B+1.5 | 6.5 | 3422.0 | -45.0 | 
+| 2017-06-01 | 2017年韓国囲碁リーグ | Park Yeonghun | Lee Wonyoung | Win | B+R | 6.5 | 3467.0 | 11.0 | 
 | 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Choi Cheolhan | Park Yeonghun | Lose | B+R | 6.5 | 3456.0 | -19.0 | 
 | 2017-05-20 | 2017年韓国囲碁リーグ | Park Junghwan | Park Yeonghun | Lose | B+R | 6.5 | 3475.0 | 1.0 | 
 | 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Shi Yue | Park Yeonghun | Lose | B+R | 7.5 | 3474.0 | -5.0 | 
@@ -271,9 +271,9 @@
 | 2015-08-30 | 第2回夢百合杯世界オープン戦3回戦 | Chang Hao | Park Yeonghun | Win | W+R | 7.5 | 3668.0 | 6.0 | 
 | 2015-08-28 | 2015年韓国囲碁リーグ | Park Yeonghun | Mok Jinseok | Win | B+R | 6.5 | 3662.0 | 18.0 | 
 | 2015-08-22 | 2015年韓国囲碁リーグ | Lee Jihyun | Park Yeonghun | Lose | B+R | 6.5 | 3644.0 | -24.0 | 
-| 2015-08-16 | 2015年韓国囲碁リーグ | Park Yeonghun | Lee Wonyoung | Win | B+6.5 | 6.5 | 3668.0 | 25.0 | 
-| 2015-07-25 | 2015年韓国囲碁リーグ | Park Yeonghun | Kim Jiseok | Win | B+R | 6.5 | 3643.0 | 2.0 | 
-| 2015-07-20 | 第17回農心杯韓国選抜戦 | Ahn Kukhyun | Park Yeonghun | Lose | B+0.5 | 6.5 | 3641.0 | 6.0 | 
+| 2015-08-16 | 2015年韓国囲碁リーグ | Park Yeonghun | Lee Wonyoung | Win | B+6.5 | 6.5 | 3668.0 | 26.0 | 
+| 2015-07-25 | 2015年韓国囲碁リーグ | Park Yeonghun | Kim Jiseok | Win | B+R | 6.5 | 3642.0 | 2.0 | 
+| 2015-07-20 | 第17回農心杯韓国選抜戦 | Ahn Kukhyun | Park Yeonghun | Lose | B+0.5 | 6.5 | 3640.0 | 5.0 | 
 | 2015-07-18 | 2015年韓国囲碁リーグ | Weon Seongjin | Park Yeonghun | Win | W+R | 6.5 | 3635.0 | -8.0 | 
 | 2015-07-09 | 第2回夢百合杯世界オープン戦2回戦 | Lian Xiao | Park Yeonghun | Win | W+0.5 | 7.5 | 3643.0 | 12.0 | 
 | 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Park Jiyeon | Park Yeonghun | Win | W+R | 7.5 | 3631.0 | -7.0 | 
@@ -313,22 +313,22 @@
 | 2014-09-13 | 2014年韓国囲碁リーグ | Park Yeonghun | Han Sanghoon | Win | B+2.5 | 6.5 | 3458.0 | 19.0 | 
 | 2014-08-29 | 2014年レッツランパーク杯オープントーナメント2回戦 | Kim Myounghoon | Park Yeonghun | Lose | B+R | 6.5 | 3439.0 | -39.0 | 
 | 2014-08-18 | 第42期名人戦（韓国）2回戦 | Kim Jiseok | Park Yeonghun | Win | W+R | 6.5 | 3478.0 | 1.0 | 
-| 2014-08-15 | 2014年韓国囲碁リーグ | Park Yeonghun | An Joyeong | Win | B+R | 6.5 | 3477.0 | -18.0 | 
-| 2014-08-01 | 第19回三星火災杯統合予選1回戦 | Park Yeonghun |  | Lose | W+R | 6.5 | 3495.0 | -12.0 | 
-| 2014-07-28 | 第42期名人戦（韓国）1回戦 | Park Yeonghun | Lee Jihyun | Win | B+R | 6.5 | 3507.0 | 4.0 | 
-| 2014-07-24 | 2014年韓国囲碁リーグ | Park Yeonghun | Kim Sedong | Lose | W+0.5 | 6.5 | 3503.0 | -15.0 | 
-| 2014-07-22 | 第58期国手戦（韓国）1回戦 | Park Yeonghun | Na Hyun | Win | B+R | 6.5 | 3518.0 | -45.0 | 
-| 2014-07-12 | 2014年韓国囲碁リーグ | Park Yeonghun | Na Hyun | Win | B+R | 6.5 | 3563.0 | 13.0 | 
+| 2014-08-15 | 2014年韓国囲碁リーグ | Park Yeonghun | An Joyeong | Win | B+R | 6.5 | 3477.0 | -17.0 | 
+| 2014-08-01 | 第19回三星火災杯統合予選1回戦 | Park Yeonghun |  | Lose | W+R | 6.5 | 3494.0 | -12.0 | 
+| 2014-07-28 | 第42期名人戦（韓国）1回戦 | Park Yeonghun | Lee Jihyun | Win | B+R | 6.5 | 3506.0 | 4.0 | 
+| 2014-07-24 | 2014年韓国囲碁リーグ | Park Yeonghun | Kim Sedong | Lose | W+0.5 | 6.5 | 3502.0 | -15.0 | 
+| 2014-07-22 | 第58期国手戦（韓国）1回戦 | Park Yeonghun | Na Hyun | Win | B+R | 6.5 | 3517.0 | -45.0 | 
+| 2014-07-12 | 2014年韓国囲碁リーグ | Park Yeonghun | Na Hyun | Win | B+R | 6.5 | 3562.0 | 12.0 | 
 | 2014-06-28 | 2014年韓国囲碁リーグ | Park Yeonghun |  | Win | B+R | 6.5 | 3550.0 | 37.0 | 
 | 2014-06-21 | 2014年韓国囲碁リーグ | Ryu Suhang | Park Yeonghun | Win | W+R | 6.5 | 3513.0 | -65.0 | 
 | 2014-06-11 | 第19回LG杯朝鮮日報棋王戦2回戦 | An Dongxu | Park Yeonghun | Win | W+R | 6.5 | 3578.0 | 12.0 | 
 | 2014-06-09 | 第19回LG杯朝鮮日報棋王戦1回戦 | Park Yeonghun | Piao Wenyao | Win | B+R | 6.5 | 3566.0 | 3.0 | 
 | 2014-05-30 | 2014年韓国囲碁リーグ | Park Seunghwa | Park Yeonghun | Lose | B+R | 6.5 | 3563.0 | -76.0 | 
 | 2014-05-16 | 2014年韓国囲碁リーグ | Ahn Kukhyun | Park Yeonghun | Win | W+R | 6.5 | 3639.0 | 17.0 | 
-| 2014-05-10 | 2014年韓国囲碁リーグ | Park Junghwan | Park Yeonghun | Lose | B+R | 6.5 | 3622.0 | -38.0 | 
-| 2014-04-28 | 2014年中国囲碁乙級リーグ | Park Yeonghun | Zhu Yuanhao | Win | B+R | 7.5 | 3660.0 | 3.0 | 
-| 2014-04-26 | 2014年中国囲碁乙級リーグ | Park Yeonghun | Lee Changho | Win | B+R | 7.5 | 3657.0 | 8.0 | 
-| 2014-04-22 | 2014年中国囲碁乙級リーグ | Park Yeonghun |  | Win | B+R | 7.5 | 3649.0 | 55.0 | 
+| 2014-05-10 | 2014年韓国囲碁リーグ | Park Junghwan | Park Yeonghun | Lose | B+R | 6.5 | 3622.0 | -37.0 | 
+| 2014-04-28 | 2014年中国囲碁乙級リーグ | Park Yeonghun | Zhu Yuanhao | Win | B+R | 7.5 | 3659.0 | 3.0 | 
+| 2014-04-26 | 2014年中国囲碁乙級リーグ | Park Yeonghun | Lee Changho | Win | B+R | 7.5 | 3656.0 | 8.0 | 
+| 2014-04-22 | 2014年中国囲碁乙級リーグ | Park Yeonghun |  | Win | B+R | 7.5 | 3648.0 | 54.0 | 
 | 2014-04-02 | 第10期物価情報杯プロ棋戦予選 | Jin Siyoung | Park Yeonghun | Lose | B+R | 6.5 | 3594.0 | 17.0 | 
 | 2014-03-15 | 第2回百霊杯世界オープン戦予選 | Park Yeonghun | Meng Tailing | Lose | W+R | 7.5 | 3577.0 | -19.0 | 
 | 2014-02-28 | 第10回春蘭杯韓国予選 | Mok Jinseok | Park Yeonghun | Lose | B+R | 6.5 | 3596.0 | -25.0 | 

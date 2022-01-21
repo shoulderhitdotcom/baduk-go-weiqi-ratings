@@ -16,12 +16,12 @@
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Zhao Chenyu | Shi Yue | Win | B+R | 7.5 | 3597.0 | 12.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Shi Yue | Zhao Chenyu | Win | W+R | 7.5 | 3585.0 | 25.0 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Gu Zihao | Zhao Chenyu | Lose | B+R | 7.5 | 3560.0 | -2.0 | 
-| 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Xu Jiayang | Zhao Chenyu | Win | W+R | 7.5 | 3562.0 | 94.0 | 
-| 2021-11-24 | 第22期阿含・桐山杯中国早碁オープン戦準決勝 | Gu Zihao | Zhao Chenyu | Lose | B+R | 7.5 | 3468.0 | -2.0 | 
-| 2021-11-23 | 第22期阿含・桐山杯中国早碁オープン戦2回戦 | Mi Yuting | Zhao Chenyu | Win | W+R | 7.5 | 3470.0 | 15.0 | 
-| 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Ke Jie | Zhao Chenyu | Win | W+R | 7.5 | 3455.0 | 7.0 | 
-| 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Zhang Tao | Zhao Chenyu | Lose | B+R | 7.5 | 3448.0 | -8.0 | 
-| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tong Mengcheng | Zhao Chenyu | Win | W+1¼ | 7.5 | 3456.0 | 15.0 | 
+| 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Xu Jiayang | Zhao Chenyu | Win | W+R | 7.5 | 3562.0 | 95.0 | 
+| 2021-11-24 | 第22期阿含・桐山杯中国早碁オープン戦準決勝 | Gu Zihao | Zhao Chenyu | Lose | B+R | 7.5 | 3467.0 | -2.0 | 
+| 2021-11-23 | 第22期阿含・桐山杯中国早碁オープン戦2回戦 | Mi Yuting | Zhao Chenyu | Win | W+R | 7.5 | 3469.0 | 15.0 | 
+| 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Ke Jie | Zhao Chenyu | Win | W+R | 7.5 | 3454.0 | 7.0 | 
+| 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Zhang Tao | Zhao Chenyu | Lose | B+R | 7.5 | 3447.0 | -8.0 | 
+| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Tong Mengcheng | Zhao Chenyu | Win | W+1¼ | 7.5 | 3455.0 | 14.0 | 
 | 2021-11-01 | 第7回国手山脈国際囲碁大会中国予選 | Zhao Chenyu | Huang Yunsong | Lose | W+R | 6.5 | 3441.0 | -11.0 | 
 | 2021-10-27 | 第26回三星火災杯世界囲碁マスターズ準決勝 | Zhao Chenyu | Park Junghwan | Lose | W+R | 6.5 | 3452.0 | -2.0 | 
 | 2021-10-26 | 第26回三星火災杯世界囲碁マスターズ3回戦 | Zhao Chenyu | Lee Donghoon | Win | B+R | 6.5 | 3454.0 | 12.0 | 
@@ -47,10 +47,10 @@
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Fan Yin | Zhao Chenyu | Win | W+R | 7.5 | 3385.0 | 9.0 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Huang Mingyu | Zhao Chenyu | Win | W+R | 7.5 | 3376.0 | 17.0 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Zhao Chenyu | Xie Erhao | Win | B+R | 7.5 | 3359.0 | 15.0 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Shi Yue | Zhao Chenyu | Lose | B+¾ | 7.5 | 3344.0 | -18.0 | 
-| 2021-04-20 | 第17回倡棋杯中国プロ囲碁選手権戦2回戦 | Lin Junyan | Zhao Chenyu | Lose | B+¾ | 7.5 | 3362.0 | -17.0 | 
-| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Zhao Chenyu | Lian Xiao | Win | B+R | 7.5 | 3379.0 | 2.0 | 
-| 2021-04-10 | 第17回倡棋杯中国プロ囲碁選手権戦 | Liao Yuanhe | Zhao Chenyu | Win | W+R | 7.5 | 3377.0 | 5.0 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Shi Yue | Zhao Chenyu | Lose | B+¾ | 7.5 | 3344.0 | -17.0 | 
+| 2021-04-20 | 第17回倡棋杯中国プロ囲碁選手権戦2回戦 | Lin Junyan | Zhao Chenyu | Lose | B+¾ | 7.5 | 3361.0 | -17.0 | 
+| 2021-04-19 | 第17回倡棋杯中国プロ囲碁選手権戦1回戦 | Zhao Chenyu | Lian Xiao | Win | B+R | 7.5 | 3378.0 | 2.0 | 
+| 2021-04-10 | 第17回倡棋杯中国プロ囲碁選手権戦 | Liao Yuanhe | Zhao Chenyu | Win | W+R | 7.5 | 3376.0 | 4.0 | 
 | 2021-03-11 | 第35期中国囲碁天元戦1回戦 | Lian Xiao | Zhao Chenyu | Lose | B+1¾ | 7.5 | 3372.0 | 45.0 | 
 | 2021-01-28 | 第35期中国囲碁天元戦1回戦 | Zhou Ruiyang | Zhao Chenyu | Win | W+1¼ | 7.5 | 3327.0 | 2.0 | 
 | 2021-01-12 | 第9回応氏杯世界選手権準決勝第2局 | Zhao Chenyu | Shin Jinseo | Lose | W+1 | 7.5 | 3325.0 | -4.0 | 
@@ -84,16 +84,16 @@
 | 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Li Xiangyu | Zhao Chenyu | Win | W+R | 7.5 | 3519.0 | -27.0 | 
 | 2020-08-04 | 第11期中国竜星戦準決勝 | Zhao Chenyu | Ke Jie | Lose | W+R | 7.5 | 3546.0 | -31.0 | 
 | 2020-06-08 | 第25回LG杯朝鮮日報棋王戦2回戦 | Zhao Chenyu | Byun Sangil | Lose | W+R | 6.5 | 3577.0 | 0.0 | 
-| 2020-06-03 | 第25回LG杯朝鮮日報棋王戦1回戦 | Zhao Chenyu | Choi Jeong | Win | B+R | 6.5 | 3577.0 | 29.0 | 
-| 2020-05-29 | 第11期中国竜星戦Bブロック8回戦 | Zhao Chenyu | Lian Xiao | Lose | W+R | 7.5 | 3548.0 | -10.0 | 
+| 2020-06-03 | 第25回LG杯朝鮮日報棋王戦1回戦 | Zhao Chenyu | Choi Jeong | Win | B+R | 6.5 | 3577.0 | 30.0 | 
+| 2020-05-29 | 第11期中国竜星戦Bブロック8回戦 | Zhao Chenyu | Lian Xiao | Lose | W+R | 7.5 | 3547.0 | -11.0 | 
 | 2020-04-21 | 第25回LG杯中国予選決勝 | Zhao Chenyu | Peng Liyao | Win | B+R | 6.5 | 3558.0 | -25.0 | 
 | 2020-04-15 | 第25回LG杯中国予選 | Zhao Chenyu | Fan Tingyu | Win | B+5.5 | 6.5 | 3583.0 | -4.0 | 
 | 2020-01-08 | 第34期中国囲碁天元戦2回戦 | Zhao Chenyu | Yang Dingxin | Lose | W+R | 7.5 | 3587.0 | -6.0 | 
 | 2020-01-07 | 第11期中国竜星戦Bブロック7回戦 | Tuo Jiaxi | Zhao Chenyu | Win | W+R | 7.5 | 3593.0 | 0.0 | 
 | 2020-01-07 | 第11期中国竜星戦Bブロック6回戦 | Zhao Chenyu | Gu Li | Win | B+R | 7.5 | 3593.0 | 21.0 | 
 | 2019-12-30 | 第5期洛陽白雲山杯中国棋聖戦予選 | Yi Lingtao | Zhao Chenyu | Win | W+R | 7.5 | 3572.0 | 8.0 | 
-| 2019-12-29 | 第5期洛陽白雲山杯中国棋聖戦予選 | Zhao Chenyu | Li Qincheng | Win | B+R | 7.5 | 3564.0 | 1.0 | 
-| 2019-12-24 | 第11期中国竜星戦Bブロック5回戦 | Yu Bin | Zhao Chenyu | Win | W+R | 7.5 | 3563.0 | -8.0 | 
+| 2019-12-29 | 第5期洛陽白雲山杯中国棋聖戦予選 | Zhao Chenyu | Li Qincheng | Win | B+R | 7.5 | 3564.0 | 2.0 | 
+| 2019-12-24 | 第11期中国竜星戦Bブロック5回戦 | Yu Bin | Zhao Chenyu | Win | W+R | 7.5 | 3562.0 | -9.0 | 
 | 2019-12-21 | 第11期中国竜星戦Bブロック4回戦 | Zhao Chenyu | Xu Jiayang | Win | B+¾ | 7.5 | 3571.0 | 18.0 | 
 | 2019-12-20 | 第11期中国竜星戦Bブロック3回戦 | Tu Xiaoyu | Zhao Chenyu | Win | W+R | 7.5 | 3553.0 | 11.0 | 
 | 2019-12-12 | 第21回中国囲碁甲級リーグ三位決定戦第3戦 | Zhao Chenyu | Ke Jie | Lose | W+R | 7.5 | 3542.0 | -14.0 | 
@@ -108,14 +108,14 @@
 | 2019-11-06 | 第21回中国囲碁甲級リーグプレーオフ3回戦第2戦 | Li Qincheng | Zhao Chenyu | Lose | B+R | 7.5 | 3570.0 | -16.0 | 
 | 2019-11-04 | 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 | Zhao Chenyu | Xie Ke | Lose | W+R | 7.5 | 3586.0 | 51.0 | 
 | 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Zhao Chenyu | Gu Lingyi | Win | B+R | 7.5 | 3535.0 | 5.0 | 
-| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Gu Lingyi | Zhao Chenyu | Win | W+1¼ | 7.5 | 3530.0 | 1.0 | 
-| 2019-09-16 | 第21回中国囲碁甲級リーグプレーオフ1回戦第2戦 | Shi Yue | Zhao Chenyu | Lose | B+R | 7.5 | 3529.0 | -5.0 | 
-| 2019-09-14 | 第21回中国囲碁甲級リーグプレーオフ1回戦第1戦 | Zhao Chenyu | Tao Xinran | Lose | W+R | 7.5 | 3534.0 | -4.0 | 
-| 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Xie Erhao | Zhao Chenyu | Lose | B+R | 6.5 | 3538.0 | -7.0 | 
-| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Zhao Chenyu | Jiang Qirun | Win | B+R | 7.5 | 3545.0 | 23.0 | 
+| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Gu Lingyi | Zhao Chenyu | Win | W+1¼ | 7.5 | 3530.0 | 2.0 | 
+| 2019-09-16 | 第21回中国囲碁甲級リーグプレーオフ1回戦第2戦 | Shi Yue | Zhao Chenyu | Lose | B+R | 7.5 | 3528.0 | -5.0 | 
+| 2019-09-14 | 第21回中国囲碁甲級リーグプレーオフ1回戦第1戦 | Zhao Chenyu | Tao Xinran | Lose | W+R | 7.5 | 3533.0 | -5.0 | 
+| 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Xie Erhao | Zhao Chenyu | Lose | B+R | 6.5 | 3538.0 | -6.0 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Zhao Chenyu | Jiang Qirun | Win | B+R | 7.5 | 3544.0 | 22.0 | 
 | 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Kim Jiseok | Zhao Chenyu | Lose | B+R | 7.5 | 3522.0 | 0.0 | 
-| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Li Xiangyu | Zhao Chenyu | Win | W+R | 7.5 | 3522.0 | -1.0 | 
-| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Shin Jinseo | Zhao Chenyu | Lose | B+R | 7.5 | 3523.0 | 21.0 | 
+| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Li Xiangyu | Zhao Chenyu | Win | W+R | 7.5 | 3522.0 | 0.0 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Shin Jinseo | Zhao Chenyu | Lose | B+R | 7.5 | 3522.0 | 20.0 | 
 | 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Zhao Chenyu | Rong Yi | Win | B+R | 7.5 | 3502.0 | -3.0 | 
 | 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Kim Myounghoon | Zhao Chenyu | Win | W+R | 7.5 | 3505.0 | 5.0 | 
 | 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Huang Jingyuan | Zhao Chenyu | Win | W+R | 7.5 | 3500.0 | -36.0 | 
@@ -143,9 +143,9 @@
 | 2019-03-07 | 第10期中国竜星戦予選 | Tu Xiaoyu | Zhao Chenyu | Win | W+R | 7.5 | 3567.0 | 11.0 | 
 | 2019-03-04 | 第16期倡棋杯中国プロ囲棋選手権戦2回戦 | Zhao Chenyu | Yang Kaiwen | Win | B+R | 7.5 | 3556.0 | 3.0 | 
 | 2019-02-17 | 2019年韓中囲碁リーグチャンピオンズカップ第2戦 | Zhao Chenyu |  | Win | B+R | 6.5 | 3553.0 | 1.0 | 
-| 2019-02-16 | 2019年韓中囲碁リーグチャンピオンズカップ第1戦 | Yun Chanhee | Zhao Chenyu | Win | W+R | 6.5 | 3552.0 | 13.0 | 
-| 2018-12-28 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Li Xuanhao | Zhao Chenyu | Lose | B+R | 7.5 | 3539.0 | -12.0 | 
-| 2018-12-27 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Zhao Chenyu | Li Weiqing | Win | B+¾ | 7.5 | 3551.0 | 16.0 | 
+| 2019-02-16 | 2019年韓中囲碁リーグチャンピオンズカップ第1戦 | Yun Chanhee | Zhao Chenyu | Win | W+R | 6.5 | 3552.0 | 14.0 | 
+| 2018-12-28 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Li Xuanhao | Zhao Chenyu | Lose | B+R | 7.5 | 3538.0 | -12.0 | 
+| 2018-12-27 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Zhao Chenyu | Li Weiqing | Win | B+¾ | 7.5 | 3550.0 | 15.0 | 
 | 2018-12-14 | 第20回中国囲碁甲級リーグ第26節江蘇-民生 | Zhao Chenyu | Shi Yulai | Win | B+R | 7.5 | 3535.0 | 7.0 | 
 | 2018-12-12 | 第20回中国囲碁甲級リーグ第25節蘇泊爾-江蘇 | Zhao Chenyu | Lian Xiao | Win | B+R | 7.5 | 3528.0 | 36.0 | 
 | 2018-11-16 | 第20回中国囲碁甲級リーグ第24節杭州-江蘇 | Zhao Chenyu |  | Win | B+1¾ | 7.5 | 3492.0 | -23.0 | 
@@ -187,10 +187,10 @@
 | 2018-04-06 | 第23回LG杯予選準決勝 | Zhao Chenyu | Shuto Shun | Win | B+R | 6.5 | 3628.0 | 2.0 | 
 | 2018-03-30 | 第20回中国囲碁甲級リーグ第3節江蘇-上海 | Hu Yaoyu | Zhao Chenyu | Win | W+R | 7.5 | 3626.0 | 19.0 | 
 | 2018-03-28 | 第20回中国囲碁甲級リーグ第2節山東-江蘇 | Zhao Chenyu | Fan Tingyu | Win | B+1¾ | 7.5 | 3607.0 | 4.0 | 
-| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節江蘇-衢州 |  | Zhao Chenyu | Win | W+R | 7.5 | 3603.0 | 48.0 | 
-| 2018-01-27 | 第32期中国囲碁天元戦3回戦 | Zhao Chenyu | Shi Yue | Lose | W+R | 7.5 | 3555.0 | -7.0 | 
-| 2018-01-25 | 第32期中国囲碁天元戦2回戦 | Tan Xiao | Zhao Chenyu | Win | W+R | 7.5 | 3562.0 | 8.0 | 
-| 2018-01-23 | 第32期中国囲碁天元戦1回戦 | Gu Li | Zhao Chenyu | Win | W+R | 7.5 | 3554.0 | 20.0 | 
+| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節江蘇-衢州 |  | Zhao Chenyu | Win | W+R | 7.5 | 3603.0 | 49.0 | 
+| 2018-01-27 | 第32期中国囲碁天元戦3回戦 | Zhao Chenyu | Shi Yue | Lose | W+R | 7.5 | 3554.0 | -7.0 | 
+| 2018-01-25 | 第32期中国囲碁天元戦2回戦 | Tan Xiao | Zhao Chenyu | Win | W+R | 7.5 | 3561.0 | 8.0 | 
+| 2018-01-23 | 第32期中国囲碁天元戦1回戦 | Gu Li | Zhao Chenyu | Win | W+R | 7.5 | 3553.0 | 19.0 | 
 | 2018-01-08 | 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Zhao Chenyu | Tong Mengcheng | Lose | W+R | 7.5 | 3534.0 | -8.0 | 
 | 2018-01-07 | 第3期洛陽白雲山杯中国棋聖戦資格戦1 | Sun Tengyu | Zhao Chenyu | Win | W+R | 7.5 | 3542.0 | 0.0 | 
 | 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Shin Minjun | Zhao Chenyu | Win | W+R | 7.5 | 3542.0 | 34.0 | 
@@ -205,20 +205,20 @@
 | 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Zhao Chenyu |  | Win | B+5.5 | 7.5 | 3471.0 | 20.0 | 
 | 2017-10-14 | 2017年利民杯世界囲碁星鋭最強戦1回戦 | Zhao Chenyu | Byun Sangil | Lose | W+R | 7.5 | 3451.0 | -3.0 | 
 | 2017-10-10 | 第13期威孚房開杯棋王戦32強戦 | Tong Mengcheng | Zhao Chenyu | Lose | B+R | 7.5 | 3454.0 | -7.0 | 
-| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Chen Zhengxun | Zhao Chenyu | Win | W+R | 7.5 | 3461.0 | -24.0 | 
-| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Fan Yunruo | Zhao Chenyu | Win | W+R | 7.5 | 3485.0 | 33.0 | 
+| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Chen Zhengxun | Zhao Chenyu | Win | W+R | 7.5 | 3461.0 | -23.0 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Fan Yunruo | Zhao Chenyu | Win | W+R | 7.5 | 3484.0 | 32.0 | 
 | 2017-09-25 | 第22回三星火災杯世界囲碁マスターズ2回戦 | Park Junghwan | Zhao Chenyu | Lose | B+R | 6.5 | 3452.0 | -10.0 | 
 | 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Zhao Chenyu |  | Lose | W+R | 7.5 | 3462.0 | -9.0 | 
 | 2017-09-06 | 第22回三星火災杯世界囲碁マスターズ1回戦G2 | Park Yeonghun | Zhao Chenyu | Win | W+R | 6.5 | 3471.0 | 5.0 | 
 | 2017-09-05 | 第22回三星火災杯世界囲碁マスターズ1回戦G1 | Byun Sangil | Zhao Chenyu | Win | W+R | 6.5 | 3466.0 | -5.0 | 
 | 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Chen Zijian | Zhao Chenyu | Win | W+R | 7.5 | 3471.0 | 12.0 | 
 | 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Zhao Chenyu | Fan Yin | Lose | W+R | 7.5 | 3459.0 | 4.0 | 
-| 2017-08-29 | 2017中国国家青年隊選抜戦7回戦 | Zhao Chenyu | Ding Hao | Lose | W+R | 7.5 | 3455.0 | -22.0 | 
-| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Zhao Chenyu | Kim Jiseok | Lose | W+R | 7.5 | 3477.0 | 31.0 | 
+| 2017-08-29 | 2017中国国家青年隊選抜戦7回戦 | Zhao Chenyu | Ding Hao | Lose | W+R | 7.5 | 3455.0 | -21.0 | 
+| 2017-08-22 | 第19回中国囲碁甲級リーグ第14節 | Zhao Chenyu | Kim Jiseok | Lose | W+R | 7.5 | 3476.0 | 30.0 | 
 | 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Zhao Chenyu |  | Win | B+R | 7.5 | 3446.0 | 10.0 | 
 | 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Xia Chenkun | Zhao Chenyu | Lose | B+R | 7.5 | 3436.0 | -50.0 | 
-| 2017-08-03 | 嫘祖杯30回中国名人戦32強戦 | Zhao Chenyu | Xu Jiayang | Lose | W+R | 7.5 | 3486.0 | -2.0 | 
-| 2017-07-22 | 嫘祖杯30回中国名人戦新浪網選決勝 | Zhao Chenyu | Ding Hao | Win | B+R | 7.5 | 3488.0 | 8.0 | 
+| 2017-08-03 | 嫘祖杯30回中国名人戦32強戦 | Zhao Chenyu | Xu Jiayang | Lose | W+R | 7.5 | 3486.0 | -1.0 | 
+| 2017-07-22 | 嫘祖杯30回中国名人戦新浪網選決勝 | Zhao Chenyu | Ding Hao | Win | B+R | 7.5 | 3487.0 | 7.0 | 
 | 2017-07-19 | 第30期中国囲碁名人戦予選 | Zhao Chenyu |  | Win | B+1.5 | 7.5 | 3480.0 | 0.0 | 
 | 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Zhao Chenyu |  | Win | B+R | 7.5 | 3480.0 | 5.0 | 
 | 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Li Xuanhao | Zhao Chenyu | Win | W+R | 7.5 | 3475.0 | 19.0 | 
@@ -230,8 +230,8 @@
 | 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Hu Yaoyu | Zhao Chenyu | Win | W+R | 7.5 | 3413.0 | 17.0 | 
 | 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Zhao Chenyu | Liu Xing | Lose | W+R | 7.5 | 3396.0 | -10.0 | 
 | 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Zhou Ruiyang | Zhao Chenyu | Win | W+R | 7.5 | 3406.0 | 46.0 | 
-| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Zhao Chenyu | Ke Jie | Win | B+R | 7.5 | 3360.0 | 1.0 | 
-| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Shi Yue | Zhao Chenyu | Win | W+R | 7.5 | 3359.0 | 0.0 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Zhao Chenyu | Ke Jie | Win | B+R | 7.5 | 3360.0 | 2.0 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Shi Yue | Zhao Chenyu | Win | W+R | 7.5 | 3358.0 | -1.0 | 
 | 2017-04-18 | 第19期中国阿含桐山杯本選決勝 | Liao Yuanhe | Zhao Chenyu | Win | W+R | 7.5 | 3359.0 | 0.0 | 
 | 2017-04-18 | 第19期中国阿含桐山杯本選3回戦 | Wu Guangya | Zhao Chenyu | Win | W+2.5 | 7.5 | 3359.0 | -14.0 | 
 | 2017-03-30 | 世界第三期Mlily夢百合杯予選決勝 | Kang Dongyun | Zhao Chenyu | Lose | B+R | 7.5 | 3373.0 | -14.0 | 
@@ -280,8 +280,8 @@
 | 2015-12-04 | 第17回中国囲碁甲級リーグ第21節 | Fan Yunruo | Zhao Chenyu | Win | W+R | 7.5 | 3323.0 | 16.0 | 
 | 2015-12-01 | 2015年利民杯世界囲碁星鋭最強戦準決勝 | Gu Zihao | Zhao Chenyu | Lose | B+R | 7.5 | 3307.0 | -3.0 | 
 | 2015-11-30 | 2015年利民杯世界囲碁星鋭最強戦3回戦 | Wang Zejin | Zhao Chenyu | Win | W+R | 7.5 | 3310.0 | 16.0 | 
-| 2015-11-29 | 2015年利民杯世界囲碁星鋭最強戦2回戦 | Zhao Chenyu | Li Weiqing | Win | B+R | 7.5 | 3294.0 | 6.0 | 
-| 2015-11-28 | 2015年利民杯世界囲碁星鋭最強戦1回戦 | Zhao Chenyu | Hsu Chiayuan | Win | B+5.5 | 7.5 | 3288.0 | -38.0 | 
+| 2015-11-29 | 2015年利民杯世界囲碁星鋭最強戦2回戦 | Zhao Chenyu | Li Weiqing | Win | B+R | 7.5 | 3294.0 | 7.0 | 
+| 2015-11-28 | 2015年利民杯世界囲碁星鋭最強戦1回戦 | Zhao Chenyu | Hsu Chiayuan | Win | B+5.5 | 7.5 | 3287.0 | -39.0 | 
 | 2015-11-13 | 第17回中国囲碁甲級リーグ第20節 | Jiang Qirun | Zhao Chenyu | Win | W+R | 7.5 | 3326.0 | -29.0 | 
 | 2015-11-08 | 第17回中国囲碁甲級リーグ第19節 | Zhao Chenyu | Wu Guangya | Lose | W+R | 7.5 | 3355.0 | -41.0 | 
 | 2015-10-15 | 第17回中国囲碁甲級リーグ第15節 | Zhao Chenyu | Tuo Jiaxi | Lose | W+R | 7.5 | 3396.0 | -14.0 | 
@@ -292,12 +292,12 @@
 | 2015-08-31 | 2015年全国囲棋個人戦男子組第8戦 | Zhao Chenyu | Xu Jiayang | Win | B+R | 7.5 | 3445.0 | 1.0 | 
 | 2015-08-29 | 2015年全国囲棋個人戦男子組第7戦 | Dang Yifei | Zhao Chenyu | Lose | B+R | 7.5 | 3444.0 | -17.0 | 
 | 2015-08-28 | 2015年全国囲棋個人戦男子組第6戦 | Wang Shuo | Zhao Chenyu | Win | W+R | 7.5 | 3461.0 | 19.0 | 
-| 2015-08-14 | 2015年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Zhao Chenyu | An Jungki | Win | B+1.5 | 7.5 | 3442.0 | 32.0 | 
-| 2015-07-26 | 2015年中国段位戦 | Yu Zhiying | Zhao Chenyu | Lose | B+1.5 | 7.5 | 3410.0 | -21.0 | 
-| 2015-07-25 | 2015年中国段位戦 | Huang Xin | Zhao Chenyu | Lose | B+R | 7.5 | 3431.0 | 1.0 | 
-| 2015-07-22 | 2015年中国段位戦 | Zhao Chenyu | Qin Yuexin | Lose | W+R | 7.5 | 3430.0 | -18.0 | 
-| 2015-07-21 | 2015年中国段位戦 | Zhao Chenyu | Huang Yunsong | Lose | W+R | 7.5 | 3448.0 | 6.0 | 
-| 2015-07-20 | 2015年中国段位戦 | Chen Hao | Zhao Chenyu | Lose | B+R | 7.5 | 3442.0 | -1.0 | 
+| 2015-08-14 | 2015年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Zhao Chenyu | An Jungki | Win | B+1.5 | 7.5 | 3442.0 | 33.0 | 
+| 2015-07-26 | 2015年中国段位戦 | Yu Zhiying | Zhao Chenyu | Lose | B+1.5 | 7.5 | 3409.0 | -21.0 | 
+| 2015-07-25 | 2015年中国段位戦 | Huang Xin | Zhao Chenyu | Lose | B+R | 7.5 | 3430.0 | 1.0 | 
+| 2015-07-22 | 2015年中国段位戦 | Zhao Chenyu | Qin Yuexin | Lose | W+R | 7.5 | 3429.0 | -18.0 | 
+| 2015-07-21 | 2015年中国段位戦 | Zhao Chenyu | Huang Yunsong | Lose | W+R | 7.5 | 3447.0 | 6.0 | 
+| 2015-07-20 | 2015年中国段位戦 | Chen Hao | Zhao Chenyu | Lose | B+R | 7.5 | 3441.0 | -2.0 | 
 | 2015-07-19 | 2015年中国段位戦 | Zhao Chenyu | Chen Xian | Win | B+1.5 | 7.5 | 3443.0 | 15.0 | 
 | 2015-07-17 | 2015年中国段位戦 | Rong Yi | Zhao Chenyu | Lose | B+R | 7.5 | 3428.0 | -19.0 | 
 | 2015-07-16 | 2015年中国段位戦 |  | Zhao Chenyu | Win | W+R | 7.5 | 3447.0 | -3.0 | 
@@ -329,8 +329,8 @@
 | 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Zhao Chenyu | Fan Tingyu | Lose | W+R | 7.5 | 3313.0 | -8.0 | 
 | 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Zhao Chenyu | Xie Erhao | Win | B+1.5 | 7.5 | 3321.0 | -81.0 | 
 | 2014-06-28 | 第16回中国囲碁甲級リーグ第9節 | Chen Xian | Zhao Chenyu | Lose | B+R | 7.5 | 3402.0 | -64.0 | 
-| 2014-05-02 | 2014年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Zhao Chenyu | Tong Mengcheng | Lose | W+2.5 | 7.5 | 3466.0 | -29.0 | 
-| 2014-04-19 | 第19回LG杯予選 | Fan Tingyu | Zhao Chenyu | Lose | B+R | 6.5 | 3495.0 | -83.0 | 
+| 2014-05-02 | 2014年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Zhao Chenyu | Tong Mengcheng | Lose | W+2.5 | 7.5 | 3466.0 | -28.0 | 
+| 2014-04-19 | 第19回LG杯予選 | Fan Tingyu | Zhao Chenyu | Lose | B+R | 6.5 | 3494.0 | -84.0 | 
 | 2014-04-02 | 第27期中国囲碁名人戦予選 | Sun Tengyu | Zhao Chenyu | Lose | B+R | 7.5 | 3578.0 | -27.0 | 
 | 2014-04-01 | 第27期中国囲碁名人戦予選 | Gu Lingyi | Zhao Chenyu | Win | W+R | 7.5 | 3605.0 | 37.0 | 
 | 2014-03-23 | 第27期中国囲碁名人戦予選 | Fan Yin | Zhao Chenyu | Win | W+R | 7.5 | 3568.0 | 39.0 | 

@@ -16,11 +16,11 @@
 | 2021-12-26 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Shin Minjun | Lose | B+R | 6.5 | 3510.0 | 8.0 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Huang Yunsong | Shin Minjun | Lose | B+R | 6.5 | 3502.0 | 0.0 | 
 | 2021-12-06 | 第27回GSカルテックス杯プロ棋戦予選 | Shin Minjun | Park Jaekeun | Win | B+R | 6.5 | 3502.0 | 5.0 | 
-| 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Junghwan | Shin Minjun | Lose | B+R | 6.5 | 3497.0 | 3.0 | 
-| 2021-11-30 | 第23回農心辛ラーメン杯世界囲碁最強戦第9戦  | Iyama Yuta | Shin Minjun | Lose | B+R | 6.5 | 3494.0 | -3.0 | 
-| 2021-11-22 | 第5回クラウン・ヘテ杯予選 | Shin Minjun |  | Win | B+0.5 | 6.5 | 3497.0 | 16.0 | 
-| 2021-11-21 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Shin Minjun | Win | W+R | 6.5 | 3481.0 | -9.0 | 
-| 2021-11-20 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Shin Minjun | Shin Jinseo | Lose | W+R | 6.5 | 3490.0 | -17.0 | 
+| 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Junghwan | Shin Minjun | Lose | B+R | 6.5 | 3497.0 | 4.0 | 
+| 2021-11-30 | 第23回農心辛ラーメン杯世界囲碁最強戦第9戦  | Iyama Yuta | Shin Minjun | Lose | B+R | 6.5 | 3493.0 | -3.0 | 
+| 2021-11-22 | 第5回クラウン・ヘテ杯予選 | Shin Minjun |  | Win | B+0.5 | 6.5 | 3496.0 | 16.0 | 
+| 2021-11-21 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Shin Minjun | Win | W+R | 6.5 | 3480.0 | -9.0 | 
+| 2021-11-20 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Shin Minjun | Shin Jinseo | Lose | W+R | 6.5 | 3489.0 | -18.0 | 
 | 2021-11-07 | 第26回LG杯朝鮮日報棋王戦3回戦 | Shin Minjun | Yang Dingxin | Lose | W+R | 6.5 | 3507.0 | -11.0 | 
 | 2021-10-30 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kang Seungmin | Shin Minjun | Win | W+R | 6.5 | 3518.0 | 6.0 | 
 | 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Shin Minjun | Dang Yifei | Lose | W+R | 6.5 | 3512.0 | -2.0 | 
@@ -48,19 +48,19 @@
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Chen Yunong | Shin Minjun | Win | W+R | 7.5 | 3491.0 | 2.0 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Shin Minjun | Shen Peiran | Win | B+1¾ | 7.5 | 3489.0 | 9.0 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Shin Minjun | Win | W+¼ | 7.5 | 3480.0 | 2.0 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Shin Minjun | Mi Yuting | Win | B+R | 7.5 | 3478.0 | 16.0 | 
-| 2021-04-28 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Shin Minjun | Win | W+R | 6.5 | 3462.0 | 7.0 | 
-| 2021-04-24 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Shin Minjun | Hong Mujin | Lose | W+R | 6.5 | 3455.0 | 13.0 | 
-| 2021-04-07 | 第2期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Lee Changho | Lose | W+R | 6.5 | 3442.0 | -49.0 | 
-| 2021-03-28 | 2020-2021韓国囲碁リーグ優勝決定戦第3戦 | Kang Seungmin | Shin Minjun | Lose | B+R | 6.5 | 3491.0 | -10.0 | 
-| 2021-03-27 | 2020-2021韓国囲碁リーグ優勝決定戦第2戦 | Shin Minjun | Shin Jinseo | Lose | W+R | 6.5 | 3501.0 | -11.0 | 
-| 2021-03-26 | 2020-2021韓国囲碁リーグ優勝決定戦第1戦 | Shin Jinseo | Shin Minjun | Win | W+R | 6.5 | 3512.0 | 35.0 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Shin Minjun | Mi Yuting | Win | B+R | 7.5 | 3478.0 | 17.0 | 
+| 2021-04-28 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kim Jiseok | Shin Minjun | Win | W+R | 6.5 | 3461.0 | 7.0 | 
+| 2021-04-24 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Shin Minjun | Hong Mujin | Lose | W+R | 6.5 | 3454.0 | 13.0 | 
+| 2021-04-07 | 第2期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Lee Changho | Lose | W+R | 6.5 | 3441.0 | -49.0 | 
+| 2021-03-28 | 2020-2021韓国囲碁リーグ優勝決定戦第3戦 | Kang Seungmin | Shin Minjun | Lose | B+R | 6.5 | 3490.0 | -10.0 | 
+| 2021-03-27 | 2020-2021韓国囲碁リーグ優勝決定戦第2戦 | Shin Minjun | Shin Jinseo | Lose | W+R | 6.5 | 3500.0 | -11.0 | 
+| 2021-03-26 | 2020-2021韓国囲碁リーグ優勝決定戦第1戦 | Shin Jinseo | Shin Minjun | Win | W+R | 6.5 | 3511.0 | 34.0 | 
 | 2021-03-20 | 2020-2021韓国囲碁リーグプレーオフ第2戦 | Lee Changseok | Shin Minjun | Lose | B+R | 6.5 | 3477.0 | -7.0 | 
 | 2021-03-19 | 2020-2021韓国囲碁リーグプレーオフ第1戦 | Byun Sangil | Shin Minjun | Lose | B+R | 6.5 | 3484.0 | -14.0 | 
 | 2021-03-11 | 第2期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Park Junghwan | Lose | W+R | 6.5 | 3498.0 | -15.0 | 
 | 2021-03-03 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Shin Minjun | Win | W+R | 6.5 | 3513.0 | 5.0 | 
-| 2021-02-27 | 2020-2021韓国囲碁リーグ | Kang Seungmin | Shin Minjun | Win | W+R | 6.5 | 3508.0 | -13.0 | 
-| 2021-02-19 | 2020-2021韓国囲碁リーグ | Shin Minjun | Byun Sangil | Lose | W+R | 6.5 | 3521.0 | 21.0 | 
+| 2021-02-27 | 2020-2021韓国囲碁リーグ | Kang Seungmin | Shin Minjun | Win | W+R | 6.5 | 3508.0 | -12.0 | 
+| 2021-02-19 | 2020-2021韓国囲碁リーグ | Shin Minjun | Byun Sangil | Lose | W+R | 6.5 | 3520.0 | 20.0 | 
 | 2021-02-12 | 2020-2021韓国囲碁リーグ | Lee Wonyoung | Shin Minjun | Lose | B+R | 6.5 | 3500.0 | -10.0 | 
 | 2021-02-08 | 第2期ソパルコサノル最高棋士決定戦リーグ | Shin Minjun | Kang Dongyun | Lose | W+R | 6.5 | 3510.0 | -7.0 | 
 | 2021-02-05 | 2020-2021韓国囲碁リーグ | Shin Minjun | Wen Rubin | Win | B+R | 6.5 | 3517.0 | 1.0 | 
@@ -103,13 +103,13 @@
 | 2020-07-31 | 第13回春蘭杯世界囲碁選手権2回戦 | Shin Minjun | Tang Weixing | Lose | W+R | 7.5 | 3600.0 | -3.0 | 
 | 2020-07-29 | 第13回春蘭杯世界囲碁選手権1回戦 | Iyama Yuta | Shin Minjun | Win | W+R | 7.5 | 3603.0 | 2.0 | 
 | 2020-07-09 | 第3期韓国竜星戦準決勝 | Shin Minjun | Shin Jinseo | Lose | W+R | 6.5 | 3601.0 | 5.0 | 
-| 2020-06-05 | 第25回LG杯朝鮮日報棋王戦2回戦 | Shin Minjun | Ding Hao | Win | B+R | 6.5 | 3596.0 | 6.0 | 
-| 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Shin Minjun | Wang Yuanjun | Win | B+R | 6.5 | 3590.0 | 27.0 | 
-| 2020-05-18 | 第1期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Shin Minjun | Win | W+R | 6.5 | 3563.0 | 4.0 | 
-| 2020-05-14 | 第25期GSカルテックス杯プロ棋戦8強戦 | Park Junghwan | Shin Minjun | Lose | B+R | 6.5 | 3559.0 | -16.0 | 
-| 2020-05-11 | 第3期韓国竜星戦8強戦 | Shin Minjun | Han Seungjoo | Win | B+R | 6.5 | 3575.0 | 1.0 | 
-| 2020-05-07 | 第25期GSカルテックス杯プロ棋戦16強戦 | Ryu Suhang | Shin Minjun | Win | W+R | 6.5 | 3574.0 | -3.0 | 
-| 2020-05-04 | 第1期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Shin Minjun | Lose | B+R | 6.5 | 3577.0 | -8.0 | 
+| 2020-06-05 | 第25回LG杯朝鮮日報棋王戦2回戦 | Shin Minjun | Ding Hao | Win | B+R | 6.5 | 3596.0 | 7.0 | 
+| 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Shin Minjun | Wang Yuanjun | Win | B+R | 6.5 | 3589.0 | 27.0 | 
+| 2020-05-18 | 第1期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Shin Minjun | Win | W+R | 6.5 | 3562.0 | 4.0 | 
+| 2020-05-14 | 第25期GSカルテックス杯プロ棋戦8強戦 | Park Junghwan | Shin Minjun | Lose | B+R | 6.5 | 3558.0 | -16.0 | 
+| 2020-05-11 | 第3期韓国竜星戦8強戦 | Shin Minjun | Han Seungjoo | Win | B+R | 6.5 | 3574.0 | 1.0 | 
+| 2020-05-07 | 第25期GSカルテックス杯プロ棋戦16強戦 | Ryu Suhang | Shin Minjun | Win | W+R | 6.5 | 3573.0 | -3.0 | 
+| 2020-05-04 | 第1期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Shin Minjun | Lose | B+R | 6.5 | 3576.0 | -9.0 | 
 | 2020-05-02 | 韓国囲碁リーグオールスター戦第8局 | Shin Minjun | Shin Jinseo | Lose | W+R | 6.5 | 3585.0 | 6.0 | 
 | 2020-04-20 | 第21回マキシムコーヒー杯入神最強戦決勝三番勝負第2局 | Shin Minjun | Lee Jihyun | Lose | W+R | 6.5 | 3579.0 | -30.0 | 
 | 2020-04-13 | 第21回マキシムコーヒー杯入神最強戦決勝三番勝負第1局 | Lee Jihyun | Shin Minjun | Lose | B+R | 6.5 | 3609.0 | -6.0 | 
@@ -135,8 +135,8 @@
 | 2020-01-10 | 第13回春蘭杯韓国予選 | Weon Seongjin | Shin Minjun | Win | W+R | 7.5 | 3587.0 | 3.0 | 
 | 2020-01-09 | 2019-2020韓国囲碁リーグ第15節第1試合第3局 | Lee Hoseong | Shin Minjun | Win | W+R | 6.5 | 3584.0 | -14.0 | 
 | 2020-01-06 | 第21回マキシムコーヒー杯入神最強戦1回戦 | Mok Jinseok | Shin Minjun | Win | W+3.5 | 6.5 | 3598.0 | 7.0 | 
-| 2020-01-03 | 第3回クラウン・ヘテ杯2回戦 | Shin Minjun | Park Hamin | Win | B+R | 6.5 | 3591.0 | -17.0 | 
-| 2019-12-27 | 2019-2020韓国囲碁リーグ第13節第2試合第3局 | Seol Hyunjun | Shin Minjun | Win | W+R | 6.5 | 3608.0 | -13.0 | 
+| 2020-01-03 | 第3回クラウン・ヘテ杯2回戦 | Shin Minjun | Park Hamin | Win | B+R | 6.5 | 3591.0 | -16.0 | 
+| 2019-12-27 | 2019-2020韓国囲碁リーグ第13節第2試合第3局 | Seol Hyunjun | Shin Minjun | Win | W+R | 6.5 | 3607.0 | -14.0 | 
 | 2019-12-21 | 2019-2020韓国囲碁リーグ第12節第3試合第4局 | Shin Minjun | Lee Chungyu | Win | B+4.5 | 6.5 | 3621.0 | -1.0 | 
 | 2019-12-13 | 2019-2020韓国囲碁リーグ第11節第2試合第3局 | Park Geunho | Shin Minjun | Win | W+R | 6.5 | 3622.0 | -15.0 | 
 | 2019-12-06 | 2019-2020韓国囲碁リーグ第10節第2試合第4局 | Ryu Suhang | Shin Minjun | Win | W+R | 6.5 | 3637.0 | 0.0 | 
@@ -158,18 +158,18 @@
 | 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Peng Liyao | Shin Minjun | Win | W+R | 7.5 | 3618.0 | 6.0 | 
 | 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Tong Mengcheng | Shin Minjun | Lose | B+R | 7.5 | 3612.0 | -8.0 | 
 | 2019-10-05 | 2019-2020韓国囲碁リーグ第2節第3試合第2局 | Shin Minjun | Lee Changseok | Win | B+R | 6.5 | 3620.0 | 13.0 | 
-| 2019-09-28 | 2019-2020韓国囲碁リーグ第1節第3試合第3局 | Shin Minjun | Song Jihoon | Lose | W+R | 6.5 | 3607.0 | 7.0 | 
-| 2019-09-20 | 第3回安東市真貯蓄銀行杯プロアマオープン戦決勝 | Shin Minjun | Hong Seongji | Lose | W+R | 6.5 | 3600.0 | -7.0 | 
-| 2019-09-18 | 第3回安東市真貯蓄銀行杯プロアマオープン戦準決勝 | Shin Minjun | Lee Jihyun | Win | B+R | 6.5 | 3607.0 | 4.0 | 
-| 2019-09-10 | 第3回安東市真貯蓄銀行杯プロアマオープン戦8強戦 | Shin Minjun | An Jungki | Win | B+1.5 | 6.5 | 3603.0 | -2.0 | 
-| 2019-09-09 | 第3回安東市真貯蓄銀行杯プロアマオープン戦32強戦 |  | Shin Minjun | Win | W+R | 6.5 | 3605.0 | 2.0 | 
-| 2019-09-01 | 第24回三星火災杯世界囲碁マスターズ3回戦 | Shin Minjun | Gu Zihao | Lose | W+1.5 | 6.5 | 3603.0 | 4.0 | 
+| 2019-09-28 | 2019-2020韓国囲碁リーグ第1節第3試合第3局 | Shin Minjun | Song Jihoon | Lose | W+R | 6.5 | 3607.0 | 8.0 | 
+| 2019-09-20 | 第3回安東市真貯蓄銀行杯プロアマオープン戦決勝 | Shin Minjun | Hong Seongji | Lose | W+R | 6.5 | 3599.0 | -7.0 | 
+| 2019-09-18 | 第3回安東市真貯蓄銀行杯プロアマオープン戦準決勝 | Shin Minjun | Lee Jihyun | Win | B+R | 6.5 | 3606.0 | 4.0 | 
+| 2019-09-10 | 第3回安東市真貯蓄銀行杯プロアマオープン戦8強戦 | Shin Minjun | An Jungki | Win | B+1.5 | 6.5 | 3602.0 | -2.0 | 
+| 2019-09-09 | 第3回安東市真貯蓄銀行杯プロアマオープン戦32強戦 |  | Shin Minjun | Win | W+R | 6.5 | 3604.0 | 2.0 | 
+| 2019-09-01 | 第24回三星火災杯世界囲碁マスターズ3回戦 | Shin Minjun | Gu Zihao | Lose | W+1.5 | 6.5 | 3602.0 | 3.0 | 
 | 2019-08-31 | 第24回三星火災杯世界囲碁マスターズ2回戦 | Li Qincheng | Shin Minjun | Win | W+R | 6.5 | 3599.0 | 0.0 | 
-| 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Cao Xiaoyang | Shin Minjun | Win | W+R | 6.5 | 3599.0 | 8.0 | 
-| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Jiang Weijie | Shin Minjun | Lose | B+R | 7.5 | 3591.0 | 10.0 | 
+| 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Cao Xiaoyang | Shin Minjun | Win | W+R | 6.5 | 3599.0 | 9.0 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Jiang Weijie | Shin Minjun | Lose | B+R | 7.5 | 3590.0 | 9.0 | 
 | 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Shin Minjun | Fan Yunruo | Win | B+R | 7.5 | 3581.0 | 41.0 | 
-| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Liao Yuanhe | Shin Minjun | Win | W+R | 7.5 | 3540.0 | 5.0 | 
-| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Shin Minjun | Gu Zihao | Lose | W+R | 7.5 | 3535.0 | 25.0 | 
+| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Liao Yuanhe | Shin Minjun | Win | W+R | 7.5 | 3540.0 | 6.0 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Shin Minjun | Gu Zihao | Lose | W+R | 7.5 | 3534.0 | 24.0 | 
 | 2019-08-04 | 第6回国手山脈国際囲碁大会世界プロ最強戦8強戦 | Byun Sangil | Shin Minjun | Lose | B+R | 6.5 | 3510.0 | 0.0 | 
 | 2019-08-03 | 第6回国手山脈国際囲碁大会世界プロ最強戦16強戦 | Wang Yuanjun | Shin Minjun | Win | W+0.5 | 6.5 | 3510.0 | 9.0 | 
 | 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Mi Yuting | Shin Minjun | Win | W+¼ | 7.5 | 3501.0 | 15.0 | 
@@ -210,9 +210,9 @@
 | 2019-02-19 | 第20回マキシムコーヒー杯入神最強戦2回戦 | Shin Minjun | Ko Keuntae | Win | B+R | 6.5 | 3586.0 | 14.0 | 
 | 2019-01-22 | 第20回マキシムコーヒー杯入神最強戦1回戦 | Kang Dongyun | Shin Minjun | Win | W+R | 6.5 | 3572.0 | 11.0 | 
 | 2019-01-08 | 第37回KBS杯囲碁王戦決勝三番勝負第2局 | Park Junghwan | Shin Minjun | Win | W+0.5 | 6.5 | 3561.0 | 7.0 | 
-| 2019-01-06 | 第2回クラウン・ヘテ杯2回戦 | Shin Minjun | Park Junghwan | Lose | W+R | 6.5 | 3554.0 | -1.0 | 
-| 2019-01-02 | 第37回KBS杯囲碁王戦決勝三番勝負第1局 | Shin Minjun | Park Junghwan | Win | B+R | 6.5 | 3555.0 | 10.0 | 
-| 2019-01-01 | 第20回マキシムコーヒー杯入神最強戦特別対局 | Park Junghwan | Shin Minjun | Win | W+R | 6.5 | 3545.0 | 24.0 | 
+| 2019-01-06 | 第2回クラウン・ヘテ杯2回戦 | Shin Minjun | Park Junghwan | Lose | W+R | 6.5 | 3554.0 | 0.0 | 
+| 2019-01-02 | 第37回KBS杯囲碁王戦決勝三番勝負第1局 | Shin Minjun | Park Junghwan | Win | B+R | 6.5 | 3554.0 | 10.0 | 
+| 2019-01-01 | 第20回マキシムコーヒー杯入神最強戦特別対局 | Park Junghwan | Shin Minjun | Win | W+R | 6.5 | 3544.0 | 23.0 | 
 | 2018-12-23 | 第2回クラウン・ヘテ杯1回戦 | Hyun Yoobin | Shin Minjun | Win | W+R | 6.5 | 3521.0 | 2.0 | 
 | 2018-12-14 | 第20回中国囲碁甲級リーグ第26節浙江-衢州 | Shin Minjun |  | Win | B+¾ | 7.5 | 3519.0 | 6.0 | 
 | 2018-12-12 | 第20回中国囲碁甲級リーグ第25節民生-浙江 | Shin Minjun | Shi Yue | Win | B+2¾ | 7.5 | 3513.0 | 7.0 | 
@@ -238,8 +238,8 @@
 | 2018-09-14 | 2018年韓国囲碁リーグ第11節 | Shin Minjun | Yun Chanhee | Win | B+R | 6.5 | 3563.0 | 1.0 | 
 | 2018-09-10 | 第20回中国囲碁甲級リーグ第15節浙江-上海 | Fan Yunruo | Shin Minjun | Win | W+R | 7.5 | 3562.0 | 6.0 | 
 | 2018-09-06 | 第23回三星火災杯世界囲碁マスターズ1回戦E3 | Shin Minjun | Fan Yunruo | Win | B+R | 6.5 | 3556.0 | 15.0 | 
-| 2018-09-05 | 第23回三星火災杯世界囲碁マスターズ1回戦E2 | Shin Minjun | Na Hyun | Win | B+0.5 | 6.5 | 3541.0 | -2.0 | 
-| 2018-09-04 | 第23回三星火災杯世界囲碁マスターズ1回戦E1 | Li Xuanhao | Shin Minjun | Lose | B+R | 6.5 | 3543.0 | 4.0 | 
+| 2018-09-05 | 第23回三星火災杯世界囲碁マスターズ1回戦E2 | Shin Minjun | Na Hyun | Win | B+0.5 | 6.5 | 3541.0 | -1.0 | 
+| 2018-09-04 | 第23回三星火災杯世界囲碁マスターズ1回戦E1 | Li Xuanhao | Shin Minjun | Lose | B+R | 6.5 | 3542.0 | 3.0 | 
 | 2018-08-31 | 2018年韓国囲碁リーグ第10節 | Shin Minjun | Lee Changseok | Win | B+4.5 | 6.5 | 3539.0 | -10.0 | 
 | 2018-08-27 | 第5回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦決勝 | Kim Myounghoon | Shin Minjun | Lose | B+R | 6.5 | 3549.0 | 0.0 | 
 | 2018-08-27 | 第5回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Shin Minjun | Na Hyun | Win | B+R | 6.5 | 3549.0 | 0.0 | 
@@ -278,11 +278,11 @@
 | 2018-03-16 | 第1回韓国竜星戦32強ダブルエリミネーションG2 | Shin Minjun | Lee Jihyun | Lose | W+R | 6.5 | 3503.0 | -6.0 | 
 | 2018-03-15 | 第23期GSカルテックス杯プロ棋戦16強戦 | Yun Junsang | Shin Minjun | Lose | B+R | 6.5 | 3509.0 | -9.0 | 
 | 2018-03-14 | 第1回韓国竜星戦32強ダブルエリミネーションG1 | Shin Minjun | You Byungyong | Lose | W+R | 6.5 | 3518.0 | -8.0 | 
-| 2018-03-05 | 韓国ナショナルチームリーグ戦 | Weon Seongjin | Shin Minjun | Win | W+R | 6.5 | 3526.0 | 3.0 | 
-| 2018-01-24 | 第5回メジオン杯オープン新人王戦決勝三番勝負第二局 | Shin Minjun |  | Win | B+R | 6.5 | 3523.0 | 5.0 | 
-| 2018-01-17 | 第5回メジオン杯オープン新人王戦決勝三番勝負第一局 |  | Shin Minjun | Win | W+R | 6.5 | 3518.0 | 13.0 | 
-| 2018-01-05 | 韓国ナショナルチームリーグ戦 | Choi Cheolhan | Shin Minjun | Lose | B+R | 6.5 | 3505.0 | -10.0 | 
-| 2017-12-31 | 第1回クラウン・ヘテ杯2回戦 | Shin Minjun | Kang Seungmin | Lose | W+R | 6.5 | 3515.0 | -3.0 | 
+| 2018-03-05 | 韓国ナショナルチームリーグ戦 | Weon Seongjin | Shin Minjun | Win | W+R | 6.5 | 3526.0 | 4.0 | 
+| 2018-01-24 | 第5回メジオン杯オープン新人王戦決勝三番勝負第二局 | Shin Minjun |  | Win | B+R | 6.5 | 3522.0 | 4.0 | 
+| 2018-01-17 | 第5回メジオン杯オープン新人王戦決勝三番勝負第一局 |  | Shin Minjun | Win | W+R | 6.5 | 3518.0 | 14.0 | 
+| 2018-01-05 | 韓国ナショナルチームリーグ戦 | Choi Cheolhan | Shin Minjun | Lose | B+R | 6.5 | 3504.0 | -10.0 | 
+| 2017-12-31 | 第1回クラウン・ヘテ杯2回戦 | Shin Minjun | Kang Seungmin | Lose | W+R | 6.5 | 3514.0 | -4.0 | 
 | 2017-12-18 | 第5回メジオン杯オープン新人王戦準決勝 | Shin Minjun | Song Jihoon | Win | B+R | 6.5 | 3518.0 | 4.0 | 
 | 2017-12-10 | 第1回クラウン・ヘテ杯1回戦 | Kim Myounghoon | Shin Minjun | Win | W+2.5 | 6.5 | 3514.0 | -7.0 | 
 | 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Shin Minjun | Zhao Chenyu | Lose | W+R | 7.5 | 3521.0 | 12.0 | 
@@ -298,9 +298,9 @@
 | 2017-10-15 | 2017年利民杯世界囲碁星鋭最強戦2回戦 | Seol Hyunjun | Shin Minjun | Win | W+R | 7.5 | 3493.0 | 12.0 | 
 | 2017-10-14 | 2017年利民杯世界囲碁星鋭最強戦1回戦 | Shin Minjun | Han Yizhou | Win | B+R | 7.5 | 3481.0 | 8.0 | 
 | 2017-10-12 | 2017年韓国囲碁リーグ | Shin Minjun | Park Yeonghun | Win | B+R | 6.5 | 3473.0 | -12.0 | 
-| 2017-10-06 | 2017年韓国囲碁リーグ | Shin Minjun | Choi Cheolhan | Lose | W+R | 6.5 | 3485.0 | -34.0 | 
-| 2017-09-30 | 2017年韓国囲碁リーグ | Lee Yeongkyu | Shin Minjun | Lose | B+7.5 | 6.5 | 3519.0 | -7.0 | 
-| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Gu Li | Shin Minjun | Lose | B+R | 7.5 | 3526.0 | 10.0 | 
+| 2017-10-06 | 2017年韓国囲碁リーグ | Shin Minjun | Choi Cheolhan | Lose | W+R | 6.5 | 3485.0 | -33.0 | 
+| 2017-09-30 | 2017年韓国囲碁リーグ | Lee Yeongkyu | Shin Minjun | Lose | B+7.5 | 6.5 | 3518.0 | -7.0 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Gu Li | Shin Minjun | Lose | B+R | 7.5 | 3525.0 | 9.0 | 
 | 2017-09-24 | 2017年韓国囲碁リーグ | Lee Donghoon | Shin Minjun | Lose | B+R | 6.5 | 3516.0 | -8.0 | 
 | 2017-09-22 | 第19回農心辛ラーメン杯世界囲碁最強戦第4戦 | Hsu Chiayuan | Shin Minjun | Win | W+R | 6.5 | 3524.0 | -2.0 | 
 | 2017-09-21 | 第19回農心辛ラーメン杯世界囲碁最強戦第3戦 | Shin Minjun | Zhou Ruiyang | Win | B+R | 6.5 | 3526.0 | 12.0 | 
@@ -318,8 +318,8 @@
 | 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Shin Minjun | Huang Yunsong | Lose | W+R | 7.5 | 3447.0 | -24.0 | 
 | 2017-08-07 | 第19回農心杯韓国選抜戦 | Shin Minjun | Lee Sedol | Win | B+R | 6.5 | 3471.0 | 4.0 | 
 | 2017-08-06 | 2017年韓国囲碁リーグ | Shin Minjun | Park Yeonghun | Lose | W+R | 6.5 | 3467.0 | -10.0 | 
-| 2017-08-04 | 韓国国家隊循環戦 | Park Junghwan | Shin Minjun | Lose | B+R | 6.5 | 3477.0 | -4.0 | 
-| 2017-07-22 | 2017年韓国囲碁リーグ | Na Hyun | Shin Minjun | Lose | B+R | 6.5 | 3481.0 | 6.0 | 
+| 2017-08-04 | 韓国国家隊循環戦 | Park Junghwan | Shin Minjun | Lose | B+R | 6.5 | 3477.0 | -3.0 | 
+| 2017-07-22 | 2017年韓国囲碁リーグ | Na Hyun | Shin Minjun | Lose | B+R | 6.5 | 3480.0 | 5.0 | 
 | 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Jiang Weijie | Shin Minjun | Lose | B+R | 7.5 | 3475.0 | -19.0 | 
 | 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Shin Minjun | Ke Jie | Lose | W+R | 7.5 | 3494.0 | -2.0 | 
 | 2017-07-14 | 第19回農心杯韓国選抜戦 | Lee Changseok | Shin Minjun | Win | W+R | 6.5 | 3496.0 | 0.0 | 
@@ -335,8 +335,8 @@
 | 2017-05-18 | 2017年韓国囲碁リーグ | Lee Sedol | Shin Minjun | Lose | B+R | 6.5 | 3429.0 | -2.0 | 
 | 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Shin Minjun |  | Win | B+R | 7.5 | 3431.0 | 13.0 | 
 | 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Shin Minjun | Wu Guangya | Win | B+R | 7.5 | 3418.0 | -6.0 | 
-| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Gu Zihao | Shin Minjun | Win | W+R | 7.5 | 3424.0 | 13.0 | 
-| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Shin Minjun | Tang Weixing | Lose | W+R | 7.5 | 3411.0 | -29.0 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Gu Zihao | Shin Minjun | Win | W+R | 7.5 | 3424.0 | 14.0 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Shin Minjun | Tang Weixing | Lose | W+R | 7.5 | 3410.0 | -30.0 | 
 | 2017-04-22 | 第4回グロービス杯世界囲碁U-20グループリーグC | Yao Zhiteng | Shin Minjun | Lose | B+R | 6.5 | 3440.0 | -19.0 | 
 | 2017-04-21 | 第4回グロービス杯世界囲碁U-20グループリーグC | Gu Zihao | Shin Minjun | Lose | B+R | 6.5 | 3459.0 | 0.0 | 
 | 2017-04-21 | 第4回グロービス杯世界囲碁U-20グループリーグC |  | Shin Minjun | Win | W+R | 6.5 | 3459.0 | 8.0 | 
@@ -386,8 +386,8 @@
 | 2016-04-14 | 第4期メジオン杯オープン新人王戦1回戦 | Shin Minjun | Seol Hyunjun | Win | B+R | 6.5 | 3576.0 | 50.0 | 
 | 2016-03-17 | 第3回グロービス杯韓国予選 | Shin Minjun | Kim Myounghoon | Win | B+R | 6.5 | 3526.0 | 0.0 | 
 | 2016-03-17 | 第3回グロービス杯韓国予選 | Byun Sangil | Shin Minjun | Lose | B+4.5 | 6.5 | 3526.0 | 48.0 | 
-| 2015-11-29 | 2015年利民杯世界囲碁星鋭最強戦2回戦 | Shin Minjun | Huang Yunsong | Lose | W+R | 7.5 | 3478.0 | 0.0 | 
-| 2015-11-28 | 2015年利民杯世界囲碁星鋭最強戦1回戦 | Shin Minjun | Xie Erhao | Win | B+3.5 | 7.5 | 3478.0 | -31.0 | 
+| 2015-11-29 | 2015年利民杯世界囲碁星鋭最強戦2回戦 | Shin Minjun | Huang Yunsong | Lose | W+R | 7.5 | 3478.0 | 1.0 | 
+| 2015-11-28 | 2015年利民杯世界囲碁星鋭最強戦1回戦 | Shin Minjun | Xie Erhao | Win | B+3.5 | 7.5 | 3477.0 | -32.0 | 
 | 2015-11-12 | 2015年韓国囲碁リーグ | Shin Minjun | Park Junghwan | Lose | W+3.5 | 6.5 | 3509.0 | -12.0 | 
 | 2015-11-09 | 2015年韓国囲碁リーグ | Kim Seongjae | Shin Minjun | Lose | B+6.5 | 6.5 | 3521.0 | -25.0 | 
 | 2015-10-27 | 2015年韓国囲碁リーグ | Lee Jihyun | Shin Minjun | Win | W+R | 6.5 | 3546.0 | 6.0 | 
@@ -404,10 +404,10 @@
 | 2015-08-28 | 2015年韓国囲碁リーグ | Ryu Suhang | Shin Minjun | Lose | B+R | 6.5 | 3565.0 | 14.0 | 
 | 2015-08-16 | 2015年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 | Byun Sangil | Shin Minjun | Win | W+R | 7.5 | 3551.0 | 0.0 | 
 | 2015-08-16 | 2015年利民杯世界囲碁星鋭最強戦第2ステージ決勝 | Hu Yuhan | Shin Minjun | Win | W+R | 7.5 | 3551.0 | 12.0 | 
-| 2015-08-15 | 2015年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Jiang Qirun | Shin Minjun | Win | W+R | 7.5 | 3539.0 | 30.0 | 
-| 2015-08-05 | 第20回三星火災杯統合予選決勝 | Huang Yunsong | Shin Minjun | Win | W+5.5 | 6.5 | 3509.0 | 12.0 | 
-| 2015-08-04 | 第20回三星火災杯統合予選準決勝 | Chen Yaoye | Shin Minjun | Win | W+R | 6.5 | 3497.0 | 6.0 | 
-| 2015-07-26 | 2015年韓国囲碁リーグ | Park Cheongsang | Shin Minjun | Lose | B+R | 6.5 | 3491.0 | 23.0 | 
+| 2015-08-15 | 2015年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Jiang Qirun | Shin Minjun | Win | W+R | 7.5 | 3539.0 | 31.0 | 
+| 2015-08-05 | 第20回三星火災杯統合予選決勝 | Huang Yunsong | Shin Minjun | Win | W+5.5 | 6.5 | 3508.0 | 12.0 | 
+| 2015-08-04 | 第20回三星火災杯統合予選準決勝 | Chen Yaoye | Shin Minjun | Win | W+R | 6.5 | 3496.0 | 6.0 | 
+| 2015-07-26 | 2015年韓国囲碁リーグ | Park Cheongsang | Shin Minjun | Lose | B+R | 6.5 | 3490.0 | 22.0 | 
 | 2015-07-17 | 2015年韓国囲碁リーグ | Shin Minjun | Kang Yootaek | Win | B+R | 6.5 | 3468.0 | 14.0 | 
 | 2015-07-09 | 第2回夢百合杯世界オープン戦2回戦 | Shin Minjun | Chang Hao | Lose | W+0.5 | 7.5 | 3454.0 | -9.0 | 
 | 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 |  | Shin Minjun | Win | W+R | 7.5 | 3463.0 | -11.0 | 
@@ -445,24 +445,24 @@
 | 2014-08-26 | 第19期バッカス杯天元戦1回戦 | Shin Minjun | Cho Hunhyun | Win | B+R | 6.5 | 3194.0 | 17.0 | 
 | 2014-08-21 | 2014年韓国囲碁リーグ | Shin Minjun | Han Sanghoon | Lose | W+R | 6.5 | 3177.0 | -20.0 | 
 | 2014-08-17 | 2014年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Shin Minjun | Li Weiqing | Lose | W+R | 7.5 | 3197.0 | 5.0 | 
-| 2014-08-09 | 2014年韓国囲碁リーグ | Shin Jinseo | Shin Minjun | Lose | B+R | 6.5 | 3192.0 | -15.0 | 
-| 2014-08-03 | 第19回三星火災杯統合予選2回戦 | Hu Yaoyu | Shin Minjun | Win | W+3.5 | 6.5 | 3207.0 | 16.0 | 
-| 2014-07-30 | 2014年レッツランパーク杯オープントーナメント1回戦 | Choi Jeong | Shin Minjun | Win | W+R | 6.5 | 3191.0 | -14.0 | 
-| 2014-07-23 | 第10期物価情報杯プロ棋戦リーグA | Shin Minjun | Na Hyun | Lose | W+R | 6.5 | 3205.0 | -20.0 | 
-| 2014-07-18 | 2014年韓国囲碁リーグ | Lee Taehyun | Shin Minjun | Lose | B+8.5 | 6.5 | 3225.0 | -36.0 | 
-| 2014-07-14 | 第16回農心杯韓国選抜戦 | Shin Minjun | Lee Changho | Lose | W+R | 6.5 | 3261.0 | -12.0 | 
-| 2014-07-11 | 第42期名人戦（韓国）予選 | Kang Dongyun | Shin Minjun | Lose | B+R | 6.5 | 3273.0 | 16.0 | 
+| 2014-08-09 | 2014年韓国囲碁リーグ | Shin Jinseo | Shin Minjun | Lose | B+R | 6.5 | 3192.0 | -14.0 | 
+| 2014-08-03 | 第19回三星火災杯統合予選2回戦 | Hu Yaoyu | Shin Minjun | Win | W+3.5 | 6.5 | 3206.0 | 16.0 | 
+| 2014-07-30 | 2014年レッツランパーク杯オープントーナメント1回戦 | Choi Jeong | Shin Minjun | Win | W+R | 6.5 | 3190.0 | -14.0 | 
+| 2014-07-23 | 第10期物価情報杯プロ棋戦リーグA | Shin Minjun | Na Hyun | Lose | W+R | 6.5 | 3204.0 | -21.0 | 
+| 2014-07-18 | 2014年韓国囲碁リーグ | Lee Taehyun | Shin Minjun | Lose | B+8.5 | 6.5 | 3225.0 | -35.0 | 
+| 2014-07-14 | 第16回農心杯韓国選抜戦 | Shin Minjun | Lee Changho | Lose | W+R | 6.5 | 3260.0 | -12.0 | 
+| 2014-07-11 | 第42期名人戦（韓国）予選 | Kang Dongyun | Shin Minjun | Lose | B+R | 6.5 | 3272.0 | 15.0 | 
 | 2014-06-30 | 第33回KBS杯囲碁王戦本戦2回戦 | Shin Minjun | Kim Jiseok | Lose | W+R | 6.5 | 3257.0 | 0.0 | 
 | 2014-06-29 | 2014年韓国囲碁リーグ | Han Wonggyu | Shin Minjun | Win | W+R | 6.5 | 3257.0 | -30.0 | 
 | 2014-06-13 | 2014年韓国囲碁リーグ | Lee Wonyoung | Shin Minjun | Lose | B+R | 6.5 | 3287.0 | -4.0 | 
 | 2014-06-08 | 2014年韓国囲碁リーグ | Shin Minjun | Ryu Suhang | Win | B+1.5 | 6.5 | 3291.0 | -34.0 | 
 | 2014-05-23 | 2014年韓国囲碁リーグ | Shin Minjun | Kim Seongjae | Win | B+R | 6.5 | 3325.0 | -3.0 | 
 | 2014-05-21 | 第19期バッカス杯天元戦予選 | Shin Minjun | Park Younglong | Win | B+R | 6.5 | 3328.0 | 0.0 | 
-| 2014-05-21 | 第10期物価情報杯プロ棋戦リーグA | Shin Minjun | Weon Seongjin | Lose | W+R | 6.5 | 3328.0 | -59.0 | 
-| 2014-04-29 | 2014年中国囲碁乙級リーグ | Shin Minjun |  | Lose | W+0.5 | 7.5 | 3387.0 | -29.0 | 
-| 2014-04-26 | 2014年中国囲碁乙級リーグ |  | Shin Minjun | Win | W+2.5 | 7.5 | 3416.0 | 30.0 | 
-| 2014-04-23 | 2014年中国囲碁乙級リーグ |  | Shin Minjun | Lose | B+R | 7.5 | 3386.0 | 8.0 | 
-| 2014-04-15 | 第19回LG杯予選 | Shin Minjun | Li Weiqing | Lose | W+R | 6.5 | 3378.0 | 0.0 | 
+| 2014-05-21 | 第10期物価情報杯プロ棋戦リーグA | Shin Minjun | Weon Seongjin | Lose | W+R | 6.5 | 3328.0 | -58.0 | 
+| 2014-04-29 | 2014年中国囲碁乙級リーグ | Shin Minjun |  | Lose | W+0.5 | 7.5 | 3386.0 | -29.0 | 
+| 2014-04-26 | 2014年中国囲碁乙級リーグ |  | Shin Minjun | Win | W+2.5 | 7.5 | 3415.0 | 30.0 | 
+| 2014-04-23 | 2014年中国囲碁乙級リーグ |  | Shin Minjun | Lose | B+R | 7.5 | 3385.0 | 8.0 | 
+| 2014-04-15 | 第19回LG杯予選 | Shin Minjun | Li Weiqing | Lose | W+R | 6.5 | 3377.0 | -1.0 | 
 | 2014-04-10 | 2014年韓国囲碁リーグ | Kim Jinhyu | Shin Minjun | Lose | B+R | 6.5 | 3378.0 | -9.0 | 
 | 2014-04-09 | 第2期メジオン杯オープン新人王戦準決勝 | Min Sangyoun | Shin Minjun | Lose | B+2.5 | 6.5 | 3387.0 | 20.0 | 
 | 2014-03-03 | 第33回KBS杯囲碁王戦本戦1回戦 |  | Shin Minjun | Win | W+R | 6.5 | 3367.0 | 18.0 | 

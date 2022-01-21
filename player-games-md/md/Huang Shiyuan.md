@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-21 | 第21期天元戦（台湾）勝部2回戦 | Huang Shiyuan | Xiao Zhenghao | Lose | W+R | 6.5 | 2827.0 | -10.0 | 
 | 2022-01-18 | 第21期天元戦（台湾）勝部1回戦 | Huang Shiyuan | Lin Shixun | Win | B+R | 6.5 | 2837.0 | 26.0 | 
 | 2022-01-14 | 第21期天元戦（台湾）予選 | Xu Yuqi | Huang Shiyuan | Win | W+5.5 | 6.5 | 2811.0 | 38.0 | 
 | 2022-01-11 | 第21期天元戦（台湾）予選 | Liu Yifang | Huang Shiyuan | Win | W+R | 6.5 | 2773.0 | -11.0 | 
@@ -177,8 +178,8 @@
 | 2017-11-23 | 第3期未来の星新鋭最強戦台湾予選 | Huang Shiyuan |  | Win | B+R | 6.5 | 2803.0 | 11.0 | 
 | 2017-09-19 | 第13期国手戦（台湾）第二回戦 | Zhao Peizhe | Huang Shiyuan | Win | W+R | 6.5 | 2792.0 | 1.0 | 
 | 2017-09-05 | 第13期国手戦（台湾）首輪上半区 | Lin Shixun | Huang Shiyuan | Win | W+0.5(W+0.5) | 6.5 | 2791.0 | 57.0 | 
-| 2017-09-03 | 第5期中環碁聖戦首輪上半区 | Huang Shiyuan | Lin Yuxiang | Lose | W+R | 6.5 | 2734.0 | -16.0 | 
-| 2017-08-25 | 第四回福蔭杯国際精鋭囲棋対抗戦代表選抜戦初戦第一局 | Lin Shixun | Huang Shiyuan | Lose | B+R | 6.5 | 2750.0 | 1.0 | 
+| 2017-09-03 | 第5期中環碁聖戦首輪上半区 | Huang Shiyuan | Lin Yuxiang | Lose | W+R | 6.5 | 2734.0 | -15.0 | 
+| 2017-08-25 | 第四回福蔭杯国際精鋭囲棋対抗戦代表選抜戦初戦第一局 | Lin Shixun | Huang Shiyuan | Lose | B+R | 6.5 | 2749.0 | 0.0 | 
 | 2017-06-02 | 第7期友士杯十段戦敗者復活戦1回戦 | Lin Junyan | Huang Shiyuan | Lose | B+R | 6.5 | 2749.0 | 6.0 | 
 | 2017-05-31 | 第7期友士杯十段戦1回戦 | Lin Shixun | Huang Shiyuan | Lose | B+0.5 | 6.5 | 2743.0 | 51.0 | 
 | 2017-05-23 | 2017年利民杯台湾選抜戦 | Huang Shiyuan | Lin Shixun | Lose | W+R | 7.5 | 2692.0 | -18.0 | 

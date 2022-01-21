@@ -29,8 +29,8 @@
 | 2021-05-12 | 第23回中国囲碁甲級リーグ | Li Weiqing | Chen Zijian | Win | W+R | 7.5 | 3367.0 | 41.0 | 
 | 2021-05-11 | 第23回中国囲碁甲級リーグ | Chen Zijian | Xie Erhao | Lose | W+R | 7.5 | 3326.0 | -11.0 | 
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Chen Zijian | Rong Yi | Win | B+R | 7.5 | 3337.0 | 39.0 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Chen Zijian | Zhou Hexi | Lose | W+R | 7.5 | 3298.0 | -16.0 | 
-| 2021-04-09 | 第17回倡棋杯中国プロ囲碁選手権戦 | Xia Chenkun | Chen Zijian | Lose | B+R | 7.5 | 3314.0 | -23.0 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Chen Zijian | Zhou Hexi | Lose | W+R | 7.5 | 3298.0 | -15.0 | 
+| 2021-04-09 | 第17回倡棋杯中国プロ囲碁選手権戦 | Xia Chenkun | Chen Zijian | Lose | B+R | 7.5 | 3313.0 | -24.0 | 
 | 2021-03-19 | 第35期中国囲碁天元戦1回戦 | Chen Zijian | Li Xuanhao | Lose | W+R | 7.5 | 3337.0 | -6.0 | 
 | 2021-03-16 | 第35期中国囲碁天元戦予選 | Fan Yin | Chen Zijian | Win | W+R | 7.5 | 3343.0 | 79.0 | 
 | 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Na Hyun | Chen Zijian | Win | W+R | 7.5 | 3264.0 | 25.0 | 
@@ -48,15 +48,15 @@
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Park Junghwan | Chen Zijian | Lose | B+R | 7.5 | 3119.0 | -28.0 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Chen Zijian | Chen Haoxin | Win | B+R | 7.5 | 3147.0 | 99.0 | 
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Chen Zijian | Na Hyun | Lose | W+R | 7.5 | 3048.0 | -115.0 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Chen Zijian | Peng Liyao | Win | B+¾ | 7.5 | 3163.0 | -192.0 | 
-| 2019-12-26 | 第5期洛陽白雲山杯中国棋聖戦予選 | Liu Yuhang | Chen Zijian | Lose | B+R | 7.5 | 3355.0 | -19.0 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Chen Zijian | Peng Liyao | Win | B+¾ | 7.5 | 3163.0 | -191.0 | 
+| 2019-12-26 | 第5期洛陽白雲山杯中国棋聖戦予選 | Liu Yuhang | Chen Zijian | Lose | B+R | 7.5 | 3354.0 | -20.0 | 
 | 2019-12-20 | 第11期中国竜星戦Aブロック3回戦 | Chen Zijian | Wang Haoyang | Lose | W+¼ | 7.5 | 3374.0 | -53.0 | 
 | 2019-11-11 | 第4回全国智力運動会プロ男子個人戦第5戦 | Chen Zijian | Li Chengsen | Lose | W+R | 7.5 | 3427.0 | -5.0 | 
 | 2019-11-09 | 第4回全国智力運動会プロ男子個人戦第2戦 | Shi Yue | Chen Zijian | Lose | B+R | 7.5 | 3432.0 | -62.0 | 
 | 2019-10-10 | 第4回Mlily夢百合杯世界囲碁オープン戦64強戦 | Zhang Tao | Chen Zijian | Lose | B+R | 7.5 | 3494.0 | -14.0 | 
 | 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Tuo Jiaxi | Chen Zijian | Lose | B+R | 7.5 | 3508.0 | -7.0 | 
-| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Chen Yaoye | Chen Zijian | Lose | B+1¾ | 7.5 | 3515.0 | 25.0 | 
-| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Chen Zijian |  | Win | B+R | 7.5 | 3490.0 | 26.0 | 
+| 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Chen Yaoye | Chen Zijian | Lose | B+1¾ | 7.5 | 3515.0 | 26.0 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Chen Zijian |  | Win | B+R | 7.5 | 3489.0 | 25.0 | 
 | 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Chen Zijian | Tuo Jiaxi | Win | B+R | 7.5 | 3464.0 | 50.0 | 
 | 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Chen Zijian |  | Lose | W+R | 7.5 | 3414.0 | 22.0 | 
 | 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Chen Zijian | Xia Chenkun | Lose | W+1¼ | 7.5 | 3392.0 | -21.0 | 
@@ -102,8 +102,8 @@
 | 2018-09-10 | 第20回中国囲碁甲級リーグ第15節江蘇-山東 | Zhao Chenyu | Chen Zijian | Win | W+R | 7.5 | 3393.0 | 19.0 | 
 | 2018-09-08 | 第20回中国囲碁甲級リーグ第14節山東-浙江 | Chen Zijian | Zhang Tao | Lose | W+R | 7.5 | 3374.0 | 7.0 | 
 | 2018-09-06 | 第23回三星火災杯世界囲碁マスターズ1回戦C3 | Chen Zijian | Tong Mengcheng | Lose | W+R | 6.5 | 3367.0 | -2.0 | 
-| 2018-09-05 | 第23回三星火災杯世界囲碁マスターズ1回戦C2 | Chen Zijian | Seo Bongsoo | Win | B+R | 6.5 | 3369.0 | 8.0 | 
-| 2018-09-04 | 第23回三星火災杯世界囲碁マスターズ1回戦C1 | Ahn Kukhyun | Chen Zijian | Lose | B+R | 6.5 | 3361.0 | -16.0 | 
+| 2018-09-05 | 第23回三星火災杯世界囲碁マスターズ1回戦C2 | Chen Zijian | Seo Bongsoo | Win | B+R | 6.5 | 3369.0 | 9.0 | 
+| 2018-09-04 | 第23回三星火災杯世界囲碁マスターズ1回戦C1 | Ahn Kukhyun | Chen Zijian | Lose | B+R | 6.5 | 3360.0 | -17.0 | 
 | 2018-08-15 | 第20回中国囲碁甲級リーグ第13節山東-江西 | Chen Zijian | Yang Kaiwen | Lose | W+R | 7.5 | 3377.0 | -24.0 | 
 | 2018-08-13 | 第20回中国囲碁甲級リーグ第12節成都-山東 | Gu Lingyi | Chen Zijian | Lose | B+R | 7.5 | 3401.0 | -7.0 | 
 | 2018-08-06 | 第20回中国囲碁甲級リーグ第11節山東-重慶 | Gu Li | Chen Zijian | Lose | B+R | 7.5 | 3408.0 | -7.0 | 
@@ -124,23 +124,23 @@
 | 2018-01-15 | 第3回洛陽白雲山杯中国棋聖戦本戦1回戦 | Jiang Weijie | Chen Zijian | Win | W+R | 7.5 | 3462.0 | 11.0 | 
 | 2018-01-10 | 第3回洛陽白雲山杯中国棋聖戦資格戦3 | Chen Zijian | Tao Xinran | Win | B+¾ | 7.5 | 3451.0 | 15.0 | 
 | 2018-01-08 | 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Chen Zijian | Peng Liyao | Win | B+R | 7.5 | 3436.0 | 14.0 | 
-| 2018-01-07 | 第3期洛陽白雲山杯中国棋聖戦資格戦1 | Zhang Tao | Chen Zijian | Win | W+R | 7.5 | 3422.0 | 13.0 | 
-| 2018-01-05 | 第3期洛陽白雲山杯中国棋聖戦入囲戦 | Chen Zijian | Zhang Qiang | Win | B+R | 7.5 | 3409.0 | -17.0 | 
+| 2018-01-07 | 第3期洛陽白雲山杯中国棋聖戦資格戦1 | Zhang Tao | Chen Zijian | Win | W+R | 7.5 | 3422.0 | 14.0 | 
+| 2018-01-05 | 第3期洛陽白雲山杯中国棋聖戦入囲戦 | Chen Zijian | Zhang Qiang | Win | B+R | 7.5 | 3408.0 | -18.0 | 
 | 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Jiang Qirun | Chen Zijian | Win | W+R | 7.5 | 3426.0 | 23.0 | 
 | 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Xu Jiayang | Chen Zijian | Win | W+R | 7.5 | 3403.0 | 63.0 | 
 | 2017-11-03 | 2017呉清源杯中国新秀戦16強戦 | Zhao Chenyu | Chen Zijian | Lose | B+0.5 | 7.5 | 3340.0 | -6.0 | 
 | 2017-11-02 | 2017呉清源杯中国新秀戦32強戦 | Chen Zijian |  | Win | B+R | 7.5 | 3346.0 | 0.0 | 
 | 2017-10-30 | 第19回中国囲碁甲級リーグ第22節 | Chen Zijian | Rong Yi | Lose | W+R | 7.5 | 3346.0 | -16.0 | 
-| 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Li Xuanhao | Chen Zijian | Lose | B+3.5 | 7.5 | 3362.0 | -18.0 | 
-| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Ding Shixiong | Chen Zijian | Lose | B+3.5 | 7.5 | 3380.0 | 21.0 | 
+| 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Li Xuanhao | Chen Zijian | Lose | B+3.5 | 7.5 | 3362.0 | -17.0 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Ding Shixiong | Chen Zijian | Lose | B+3.5 | 7.5 | 3379.0 | 20.0 | 
 | 2017-09-19 | 2017年全国囲棋個人戦男子組第5戦 |  | Chen Zijian | Lose | B+R | 7.5 | 3359.0 | -4.0 | 
 | 2017-09-07 | 第22回三星火災杯世界囲碁マスターズ1回戦E3 | Yamashita Keigo | Chen Zijian | Lose | B+3.5 | 6.5 | 3363.0 | -10.0 | 
 | 2017-09-06 | 第22回三星火災杯世界囲碁マスターズ1回戦E2 | Li He | Chen Zijian | Win | W+R | 6.5 | 3373.0 | 0.0 | 
 | 2017-09-05 | 第22回三星火災杯世界囲碁マスターズ1回戦E1 | Lee Sedol | Chen Zijian | Lose | B+R | 6.5 | 3373.0 | -23.0 | 
 | 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Chen Zijian | Zhao Chenyu | Lose | W+R | 7.5 | 3396.0 | -4.0 | 
 | 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 |  | Chen Zijian | Lose | B+R | 7.5 | 3400.0 | -21.0 | 
-| 2017-08-26 | 第3回Mlily夢百合杯8強戦 | Park Junghwan | Chen Zijian | Lose | B+R | 7.5 | 3421.0 | 2.0 | 
-| 2017-08-24 | 第3回Mlily夢百合杯16強戦 |  | Chen Zijian | Win | W+R | 7.5 | 3419.0 | 44.0 | 
+| 2017-08-26 | 第3回Mlily夢百合杯8強戦 | Park Junghwan | Chen Zijian | Lose | B+R | 7.5 | 3421.0 | 3.0 | 
+| 2017-08-24 | 第3回Mlily夢百合杯16強戦 |  | Chen Zijian | Win | W+R | 7.5 | 3418.0 | 43.0 | 
 | 2017-08-11 | 第19回中国囲碁甲級リーグ第13節 | Fan Yin | Chen Zijian | Lose | B+R | 7.5 | 3375.0 | -11.0 | 
 | 2017-08-09 | 第19回中国囲碁甲級リーグ第12節 | Chen Zijian | Tao Xinran | Lose | W+R | 7.5 | 3386.0 | 4.0 | 
 | 2017-07-19 | 第30期中国囲碁名人戦予選 | Chen Zijian | Shen Peiran | Lose | W+R | 7.5 | 3382.0 | 0.0 | 
@@ -154,8 +154,8 @@
 | 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Chen Zijian | Liao Yuanhe | Lose | W+R | 7.5 | 3315.0 | -9.0 | 
 | 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Yang Kaiwen | Chen Zijian | Lose | B+R | 7.5 | 3324.0 | 15.0 | 
 | 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Chen Zijian | Wang Zejin | Win | B+R | 7.5 | 3309.0 | -8.0 | 
-| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Chen Zijian |  | Win | B+R | 7.5 | 3317.0 | -2.0 | 
-| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Hu Yaoyu | Chen Zijian | Lose | B+3.5 | 7.5 | 3319.0 | -50.0 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Chen Zijian |  | Win | B+R | 7.5 | 3317.0 | -1.0 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Hu Yaoyu | Chen Zijian | Lose | B+3.5 | 7.5 | 3318.0 | -51.0 | 
 | 2017-03-27 | 世界第三期Mlily夢百合杯予選2回戦 | Hong Kipyo | Chen Zijian | Win | W+R | 7.5 | 3369.0 | -4.0 | 
 | 2017-02-18 | 第14期中国倡棋杯予選決勝 | Chen Zijian | Liao Yuanhe | Win | B+R | 7.5 | 3373.0 | 19.0 | 
 | 2017-01-14 | 第31期中国囲碁天元戦1回戦 | Chen Zijian | Gu Li | Lose | W+R | 7.5 | 3354.0 | -11.0 | 
@@ -190,8 +190,8 @@
 | 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Xu Jiayang | Chen Zijian | Win | W+R | 7.5 | 3327.0 | 31.0 | 
 | 2015-08-29 | 2015年全国囲棋個人戦男子組第7戦 |  | Chen Zijian | Win | W+R | 7.5 | 3296.0 | 92.0 | 
 | 2015-08-28 | 2015年全国囲棋個人戦男子組第6戦 |  | Chen Zijian | Lose | B+R | 7.5 | 3204.0 | -51.0 | 
-| 2015-08-26 | 2015年全国囲棋個人戦男子組第5戦 | Chen Zijian |  | Win | B+R | 7.5 | 3255.0 | 183.0 | 
-| 2015-07-27 | 2015年中国段位戦 | Chen Zijian | Jiang Qirun | Lose | W+R | 7.5 | 3072.0 | -4.0 | 
+| 2015-08-26 | 2015年全国囲棋個人戦男子組第5戦 | Chen Zijian |  | Win | B+R | 7.5 | 3255.0 | 184.0 | 
+| 2015-07-27 | 2015年中国段位戦 | Chen Zijian | Jiang Qirun | Lose | W+R | 7.5 | 3071.0 | -5.0 | 
 | 2015-07-11 | 第17回中国囲碁甲級リーグ第11節 | Chen Zijian | Xie Ke | Lose | W+2.5 | 7.5 | 3076.0 | 102.0 | 
 | 2015-05-20 | 第17回中国囲碁甲級リーグ第5節 | Chen Zijian | Chen Yaoye | Lose | W+0.5 | 7.5 | 2974.0 | -51.0 | 
 | 2015-03-16 | 第12期倡棋杯中国プロ囲碁選手権戦予選 | Cao Youyin | Chen Zijian | Win | W+R | 7.5 | 3025.0 | -13.0 | 

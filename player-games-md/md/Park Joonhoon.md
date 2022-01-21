@@ -14,10 +14,10 @@
 | 2021-12-24 | 2021-2022韓国囲碁リーグ |  | Park Joonhoon | Lose | B+R | 6.5 | 3479.0 | 15.0 | 
 | 2021-12-20 | 第5回クラウン・ヘテ杯1回戦 | Park Joonhoon | Kim Jinhyu | Win | B+3.5 | 6.5 | 3464.0 | -10.0 | 
 | 2021-12-16 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Lee Wonyoung | Lose | W+R | 6.5 | 3474.0 | -9.0 | 
-| 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Han Sanghoon | Win | B+R | 6.5 | 3483.0 | 51.0 | 
-| 2021-11-27 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Park Joonhoon | Win | W+R | 6.5 | 3432.0 | 115.0 | 
-| 2021-11-18 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Kim Myounghoon | Win | B+2.5 | 6.5 | 3317.0 | -127.0 | 
-| 2021-05-01 | 第26回LG杯韓国予選 | Na Hyun | Park Joonhoon | Win | W+R | 6.5 | 3444.0 | 103.0 | 
+| 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Han Sanghoon | Win | B+R | 6.5 | 3483.0 | 52.0 | 
+| 2021-11-27 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Park Joonhoon | Win | W+R | 6.5 | 3431.0 | 115.0 | 
+| 2021-11-18 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Kim Myounghoon | Win | B+2.5 | 6.5 | 3316.0 | -127.0 | 
+| 2021-05-01 | 第26回LG杯韓国予選 | Na Hyun | Park Joonhoon | Win | W+R | 6.5 | 3443.0 | 102.0 | 
 | 2021-02-22 | 第1回牛膝鳳爪韓国棋院選手権戦予選 |  | Park Joonhoon | Win | W+R | 6.5 | 3341.0 | 51.0 | 
 | 2021-02-09 | 第4期韓国竜星戦1回戦 | Kim Sedong | Park Joonhoon | Lose | B+R | 6.5 | 3290.0 | 44.0 | 
 | 2021-01-12 | 第44期名人戦（韓国）予選 | Park Yeonghun | Park Joonhoon | Win | W+R | 6.5 | 3246.0 | 46.0 | 
@@ -34,8 +34,8 @@
 | 2020-01-26 | 2019-2020韓国囲碁リーグ第17節第4試合第1局 | Cho Hanseung | Park Joonhoon | Win | W+R | 6.5 | 3304.0 | 26.0 | 
 | 2020-01-18 | 2019-2020韓国囲碁リーグ第16節第3試合第3局 | Park Joonhoon | Hong Seongji | Lose | W+R | 6.5 | 3278.0 | -8.0 | 
 | 2020-01-04 | 2019-2020韓国囲碁リーグ第14節第3試合第1局 | Park Geunho | Park Joonhoon | Lose | B+1.5 | 6.5 | 3286.0 | -19.0 | 
-| 2020-01-02 | 第3回クラウン・ヘテ杯2回戦 | Byun Sangil | Park Joonhoon | Lose | B+R | 6.5 | 3305.0 | -11.0 | 
-| 2019-12-26 | 2019-2020韓国囲碁リーグ第13節第1試合第2局 | Kang Seungmin | Park Joonhoon | Lose | B+R | 6.5 | 3316.0 | -33.0 | 
+| 2020-01-02 | 第3回クラウン・ヘテ杯2回戦 | Byun Sangil | Park Joonhoon | Lose | B+R | 6.5 | 3305.0 | -10.0 | 
+| 2019-12-26 | 2019-2020韓国囲碁リーグ第13節第1試合第2局 | Kang Seungmin | Park Joonhoon | Lose | B+R | 6.5 | 3315.0 | -34.0 | 
 | 2019-12-15 | 第3回クラウン・ヘテ杯1回戦 | Han Seungjoo | Park Joonhoon | Win | W+R | 6.5 | 3349.0 | 22.0 | 
 | 2019-12-12 | 2019-2020韓国囲碁リーグ第11節第1試合第1局 | Park Joonhoon | Yun Chanhee | Lose | W+R | 6.5 | 3327.0 | -46.0 | 
 | 2019-12-05 | 2019-2020韓国囲碁リーグ第10節第1試合第4局 | Lee Yeongkyu | Park Joonhoon | Lose | B+R | 6.5 | 3373.0 | -27.0 | 
@@ -54,20 +54,20 @@
 | 2019-05-18 | 2019年陜川歴代英才vs女性頂上連勝対抗戦第3局 | Kim Cheayoung | Park Joonhoon | Lose | B+R | 6.5 | 3261.0 | -208.0 | 
 | 2019-05-09 | 2019年囲碁テレビ杯早碁戦32強戦 | Na Hyun | Park Joonhoon | Win | W+R | 6.5 | 3469.0 | 234.0 | 
 | 2019-05-05 | 2019年陜川歴代英才vs女性頂上連勝対抗戦第2局 | Park Joonhoon | Oh Jeonga | Win | B+R | 6.5 | 3235.0 | 166.0 | 
-| 2019-05-03 | 2019年陜川歴代英才vs女性頂上連勝対抗戦第1局 | Kim Hyeoimin | Park Joonhoon | Win | W+R | 6.5 | 3069.0 | -294.0 | 
-| 2017-12-24 | 第1回クラウン・ヘテ杯2回戦 | Shin Jinseo | Park Joonhoon | Lose | B+R | 6.5 | 3363.0 | -10.0 | 
+| 2019-05-03 | 2019年陜川歴代英才vs女性頂上連勝対抗戦第1局 | Kim Hyeoimin | Park Joonhoon | Win | W+R | 6.5 | 3069.0 | -293.0 | 
+| 2017-12-24 | 第1回クラウン・ヘテ杯2回戦 | Shin Jinseo | Park Joonhoon | Lose | B+R | 6.5 | 3362.0 | -11.0 | 
 | 2017-12-22 | 第1回クラウン・ヘテ杯1回戦 |  | Park Joonhoon | Win | W+R | 6.5 | 3373.0 | 36.0 | 
 | 2017-10-28 | 2017年フューチャーズリーグ | Wi Taewoong | Park Joonhoon | Win | W+0.5 | 6.5 | 3337.0 | -11.0 | 
 | 2017-10-25 | 2017年フューチャーズリーグ | Park Joonhoon | Lee Hoseong | Win | B+R | 6.5 | 3348.0 | 47.0 | 
 | 2017-10-15 | 2017年フューチャーズリーグ | Park Joonhoon | An Joyeong | Win | B+R | 6.5 | 3301.0 | 51.0 | 
-| 2017-10-11 | 2017年フューチャーズリーグ | Park Joonhoon | You Byungyong | Lose | W+R | 6.5 | 3250.0 | -46.0 | 
-| 2017-10-01 | 2017年フューチャーズリーグ |  | Park Joonhoon | Win | W+5.5 | 6.5 | 3296.0 | 55.0 | 
+| 2017-10-11 | 2017年フューチャーズリーグ | Park Joonhoon | You Byungyong | Lose | W+R | 6.5 | 3250.0 | -45.0 | 
+| 2017-10-01 | 2017年フューチャーズリーグ |  | Park Joonhoon | Win | W+5.5 | 6.5 | 3295.0 | 54.0 | 
 | 2017-09-23 | 2017年フューチャーズリーグ |  | Park Joonhoon | Win | W+0.5 | 6.5 | 3241.0 | 24.0 | 
 | 2017-09-02 | 2017年フューチャーズリーグ | An Jungki | Park Joonhoon | Win | W+R | 6.5 | 3217.0 | 49.0 | 
-| 2017-08-26 | 2017年フューチャーズリーグ | Park Jaekeun | Park Joonhoon | Win | W+R | 6.5 | 3168.0 | 58.0 | 
-| 2017-08-23 | 2017年フューチャーズリーグ | Kim Hyeongwoo | Park Joonhoon | Win | W+0.5 | 6.5 | 3110.0 | 154.0 | 
-| 2017-08-05 | 2017年フューチャーズリーグ |  | Park Joonhoon | Lose | B+R | 6.5 | 2956.0 | -57.0 | 
-| 2017-07-22 | 2017年フューチャーズリーグ | You Byungyong | Park Joonhoon | Lose | B+R | 6.5 | 3013.0 | -14.0 | 
+| 2017-08-26 | 2017年フューチャーズリーグ | Park Jaekeun | Park Joonhoon | Win | W+R | 6.5 | 3168.0 | 59.0 | 
+| 2017-08-23 | 2017年フューチャーズリーグ | Kim Hyeongwoo | Park Joonhoon | Win | W+0.5 | 6.5 | 3109.0 | 153.0 | 
+| 2017-08-05 | 2017年フューチャーズリーグ |  | Park Joonhoon | Lose | B+R | 6.5 | 2956.0 | -56.0 | 
+| 2017-07-22 | 2017年フューチャーズリーグ | You Byungyong | Park Joonhoon | Lose | B+R | 6.5 | 3012.0 | -15.0 | 
 | 2017-07-15 | 2017年フューチャーズリーグ | Park Joonhoon |  | Lose | W+4.5 | 6.5 | 3027.0 | -90.0 | 
 | 2017-07-12 | 2017年フューチャーズリーグ | Park Joonhoon |  | Win | B+R | 6.5 | 3117.0 | 54.0 | 
 | 2017-06-07 | 2017年フューチャーズリーグ | Lee Changseok | Park Joonhoon | Win | W+R | 6.5 | 3063.0 | 209.0 | 

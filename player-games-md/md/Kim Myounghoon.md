@@ -12,18 +12,18 @@
 | 2021-12-23 | 2021-2022韓国囲碁リーグ | Kim Myounghoon | Byun Sangil | Lose | W+R | 6.5 | 3383.0 | -30.0 | 
 | 2021-12-19 | 2021-2022韓国囲碁リーグ |  | Kim Myounghoon | Lose | B+R | 6.5 | 3413.0 | 16.0 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Kim Myounghoon | Hsu Chiayuan | Lose | W+R | 6.5 | 3397.0 | -40.0 | 
-| 2021-12-04 | 2021-2022韓国囲碁リーグ | Lee Changho | Kim Myounghoon | Lose | B+R | 6.5 | 3437.0 | 3.0 | 
-| 2021-11-26 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Kim Myounghoon | Win | W+R | 6.5 | 3434.0 | 19.0 | 
-| 2021-11-18 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Kim Myounghoon | Lose | B+2.5 | 6.5 | 3415.0 | 3.0 | 
+| 2021-12-04 | 2021-2022韓国囲碁リーグ | Lee Changho | Kim Myounghoon | Lose | B+R | 6.5 | 3437.0 | 4.0 | 
+| 2021-11-26 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Kim Myounghoon | Win | W+R | 6.5 | 3433.0 | 19.0 | 
+| 2021-11-18 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Kim Myounghoon | Lose | B+2.5 | 6.5 | 3414.0 | 2.0 | 
 | 2021-08-21 | 第26回三星火災杯韓国予選 | Han Wonggyu | Kim Myounghoon | Win | W+R | 6.5 | 3412.0 | 19.0 | 
 | 2021-07-19 | 第23回農心杯韓国予選 | Kim Myounghoon | Kang Seungmin | Win | B+R | 6.5 | 3393.0 | -10.0 | 
 | 2021-06-03 | 第26回GSカルテックス杯プロ棋戦2回戦 | Lee Changseok | Kim Myounghoon | Lose | B+R | 6.5 | 3403.0 | -10.0 | 
 | 2021-06-01 | 第26回LG杯朝鮮日報棋王戦2回戦 | Kim Myounghoon | Byun Sangil | Lose | W+4.5 | 6.5 | 3413.0 | -13.0 | 
 | 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Kim Myounghoon | Xie Ke | Win | B+R | 6.5 | 3426.0 | 20.0 | 
-| 2021-05-07 | 第26回GSカルテックス杯プロ棋戦1回戦 | Park Jaekeun | Kim Myounghoon | Win | W+R | 6.5 | 3406.0 | 16.0 | 
-| 2021-05-06 | 第26回LG杯韓国予選 | Shin Jaeweon | Kim Myounghoon | Win | W+R | 6.5 | 3390.0 | 0.0 | 
-| 2021-05-05 | 第26回LG杯韓国予選 | Kim Myounghoon | Moon Minjong | Win | B+4.5 | 6.5 | 3390.0 | 15.0 | 
-| 2021-05-02 | 第26回LG杯韓国予選 | Kim Myounghoon |  | Win | B+R | 6.5 | 3375.0 | 32.0 | 
+| 2021-05-07 | 第26回GSカルテックス杯プロ棋戦1回戦 | Park Jaekeun | Kim Myounghoon | Win | W+R | 6.5 | 3406.0 | 17.0 | 
+| 2021-05-06 | 第26回LG杯韓国予選 | Shin Jaeweon | Kim Myounghoon | Win | W+R | 6.5 | 3389.0 | 0.0 | 
+| 2021-05-05 | 第26回LG杯韓国予選 | Kim Myounghoon | Moon Minjong | Win | B+4.5 | 6.5 | 3389.0 | 15.0 | 
+| 2021-05-02 | 第26回LG杯韓国予選 | Kim Myounghoon |  | Win | B+R | 6.5 | 3374.0 | 31.0 | 
 | 2021-02-27 | 2020-2021韓国囲碁リーグ | Kim Myounghoon | Yun Junsang | Win | B+R | 6.5 | 3343.0 | 9.0 | 
 | 2021-02-21 | 2020-2021韓国囲碁リーグ | Kim Junghyun | Kim Myounghoon | Win | W+R | 6.5 | 3334.0 | 45.0 | 
 | 2021-02-13 | 2020-2021韓国囲碁リーグ | Kim Myounghoon | Park Geunho | Win | B+R | 6.5 | 3289.0 | 46.0 | 
@@ -80,9 +80,9 @@
 | 2019-10-25 | 2019-2020韓国囲碁リーグ第4節第2試合第2局 | Choi Jeong | Kim Myounghoon | Win | W+R | 6.5 | 3427.0 | 25.0 | 
 | 2019-10-20 | 2019-2020韓国囲碁リーグ第3節第4試合第3局 | Kim Myounghoon | Byun Sangil | Lose | W+R | 6.5 | 3402.0 | 24.0 | 
 | 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Kim Myounghoon | Yi Lingtao | Lose | W+R | 7.5 | 3378.0 | -30.0 | 
-| 2019-09-29 | 2019-2020韓国囲碁リーグ第1節第4試合第5局 | Park Joonhoon | Kim Myounghoon | Win | W+R | 6.5 | 3408.0 | -2.0 | 
-| 2019-09-16 | 第21回中国囲碁甲級リーグプレーオフ1回戦第2戦 | Chen Zhengxun | Kim Myounghoon | Win | W+R | 7.5 | 3410.0 | -10.0 | 
-| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Tang Weixing | Kim Myounghoon | Lose | B+R | 7.5 | 3420.0 | 8.0 | 
+| 2019-09-29 | 2019-2020韓国囲碁リーグ第1節第4試合第5局 | Park Joonhoon | Kim Myounghoon | Win | W+R | 6.5 | 3408.0 | -1.0 | 
+| 2019-09-16 | 第21回中国囲碁甲級リーグプレーオフ1回戦第2戦 | Chen Zhengxun | Kim Myounghoon | Win | W+R | 7.5 | 3409.0 | -10.0 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Tang Weixing | Kim Myounghoon | Lose | B+R | 7.5 | 3419.0 | 7.0 | 
 | 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Kim Myounghoon | Fan Tingyu | Win | B+R | 7.5 | 3412.0 | 17.0 | 
 | 2019-08-21 | 第6回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Kim Myounghoon | Park Geunho | Lose | W+R | 6.5 | 3395.0 | -5.0 | 
 | 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Kim Myounghoon | Wen Rubin | Lose | W+R | 6.5 | 3400.0 | -24.0 | 
@@ -100,9 +100,9 @@
 | 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Peng Liyao | Kim Myounghoon | Win | W+R | 7.5 | 3452.0 | 7.0 | 
 | 2019-04-15 | 第21回中国囲碁甲級リーグ第1節杭州-北京 | Kim Myounghoon | Xia Chenkun | Lose | W+R | 7.5 | 3445.0 | -8.0 | 
 | 2019-04-06 | 第24回LG杯統合予選決勝 | Kim Myounghoon | Tao Xinran | Lose | W+R | 6.5 | 3453.0 | -9.0 | 
-| 2019-04-03 | 第24回LG杯統合予選2回戦 | Kim Myounghoon | Chen Hao | Win | B+R | 6.5 | 3462.0 | -15.0 | 
-| 2019-01-15 | 第38回KBS杯囲碁王戦1回戦 | Kim Myounghoon | Kim Sonjin | Win | B+R | 6.5 | 3477.0 | 3.0 | 
-| 2019-01-04 | 第2回クラウン・ヘテ杯2回戦 | Kim Myounghoon |  | Lose | W+2.5 | 6.5 | 3474.0 | -3.0 | 
+| 2019-04-03 | 第24回LG杯統合予選2回戦 | Kim Myounghoon | Chen Hao | Win | B+R | 6.5 | 3462.0 | -14.0 | 
+| 2019-01-15 | 第38回KBS杯囲碁王戦1回戦 | Kim Myounghoon | Kim Sonjin | Win | B+R | 6.5 | 3476.0 | 3.0 | 
+| 2019-01-04 | 第2回クラウン・ヘテ杯2回戦 | Kim Myounghoon |  | Lose | W+2.5 | 6.5 | 3473.0 | -4.0 | 
 | 2018-12-22 | 第2回クラウン・ヘテ杯1回戦 | Kim Myounghoon | Seol Hyunjun | Win | B+R | 6.5 | 3477.0 | 5.0 | 
 | 2018-12-14 | 第20回中国囲碁甲級リーグ第26節中信-天津 | Tang Weixing | Kim Myounghoon | Win | W+R | 7.5 | 3472.0 | 12.0 | 
 | 2018-12-12 | 第20回中国囲碁甲級リーグ第25節廈門-中信 | Kim Myounghoon | Fan Yin | Lose | W+R | 7.5 | 3460.0 | -11.0 | 
@@ -154,9 +154,9 @@
 | 2018-03-20 | 韓国ナショナルチームリーグ戦 | Shin Minjun | Kim Myounghoon | Lose | B+0.5 | 6.5 | 3559.0 | -16.0 | 
 | 2018-03-15 | 第1回韓国竜星戦32強ダブルエリミネーションD2 | Lee Sedol | Kim Myounghoon | Win | W+1.5 | 6.5 | 3575.0 | 13.0 | 
 | 2018-03-05 | 第36回KBS杯囲碁王戦準決勝 | Kim Myounghoon | Kim Jiseok | Lose | W+R | 6.5 | 3562.0 | 4.0 | 
-| 2018-01-30 | 韓国ナショナルチームリーグ戦 | Kim Myounghoon | Song Jihoon | Lose | W+R | 6.5 | 3558.0 | -19.0 | 
-| 2018-01-24 | 第36回KBS杯囲碁王戦8強戦 | Lee Sedol | Kim Myounghoon | Win | W+R | 6.5 | 3577.0 | 13.0 | 
-| 2018-01-20 | 金立杯2018中韓リーグ優勝チーム対抗戦第2戦 | Yi Lingtao | Kim Myounghoon | Win | W+R | 7.5 | 3564.0 | 19.0 | 
+| 2018-01-30 | 韓国ナショナルチームリーグ戦 | Kim Myounghoon | Song Jihoon | Lose | W+R | 6.5 | 3558.0 | -18.0 | 
+| 2018-01-24 | 第36回KBS杯囲碁王戦8強戦 | Lee Sedol | Kim Myounghoon | Win | W+R | 6.5 | 3576.0 | 13.0 | 
+| 2018-01-20 | 金立杯2018中韓リーグ優勝チーム対抗戦第2戦 | Yi Lingtao | Kim Myounghoon | Win | W+R | 7.5 | 3563.0 | 18.0 | 
 | 2018-01-18 | 金立杯2018中韓リーグ優勝チーム対抗戦第1戦 | Kim Myounghoon |  | Win | B+1¾ | 7.5 | 3545.0 | -11.0 | 
 | 2017-12-13 | 第36回KBS杯囲碁王戦16強戦 | Kim Myounghoon | An Sungjoon | Win | B+R | 6.5 | 3556.0 | 14.0 | 
 | 2017-12-10 | 第1回クラウン・ヘテ杯1回戦 | Kim Myounghoon | Shin Minjun | Lose | W+2.5 | 6.5 | 3542.0 | -25.0 | 
@@ -172,8 +172,8 @@
 | 2017-10-15 | 第4回おかげ杯国際精鋭囲碁対抗戦3回戦 | Kim Myounghoon | Xu Haohong | Lose | W+0.5 | 6.5 | 3479.0 | -35.0 | 
 | 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦2回戦 | Terayama Rei | Kim Myounghoon | Lose | B+R | 6.5 | 3514.0 | 0.0 | 
 | 2017-10-14 | 第4回おかげ杯国際精鋭囲碁対抗戦1回戦 | Tong Mengcheng | Kim Myounghoon | Win | W+R | 6.5 | 3514.0 | -31.0 | 
-| 2017-10-05 | 2017年韓国囲碁リーグ | Song Jihoon | Kim Myounghoon | Lose | B+2.5 | 6.5 | 3545.0 | -30.0 | 
-| 2017-09-29 | 2017年韓国囲碁リーグ | Han Taehee | Kim Myounghoon | Win | W+R | 6.5 | 3575.0 | 29.0 | 
+| 2017-10-05 | 2017年韓国囲碁リーグ | Song Jihoon | Kim Myounghoon | Lose | B+2.5 | 6.5 | 3545.0 | -29.0 | 
+| 2017-09-29 | 2017年韓国囲碁リーグ | Han Taehee | Kim Myounghoon | Win | W+R | 6.5 | 3574.0 | 28.0 | 
 | 2017-09-23 | 2017年韓国囲碁リーグ | Kim Myounghoon | Hong Kipyo | Win | B+R | 6.5 | 3546.0 | 8.0 | 
 | 2017-09-17 | 2017年韓国囲碁リーグ | Kim Myounghoon | An Joyeong | Lose | W+5.5 | 6.5 | 3538.0 | -23.0 | 
 | 2017-09-02 | 2017年韓国囲碁リーグ | Mok Jinseok | Kim Myounghoon | Win | W+R | 6.5 | 3561.0 | -25.0 | 
@@ -188,8 +188,8 @@
 | 2017-07-10 | 第19回農心杯韓国選抜戦 |  | Kim Myounghoon | Win | W+R | 6.5 | 3543.0 | 0.0 | 
 | 2017-07-07 | 2017年韓国囲碁リーグ | Kim Myounghoon | Yun Junsang | Lose | W+R | 6.5 | 3543.0 | 29.0 | 
 | 2017-06-08 | 2017年韓国囲碁リーグ | Kim Myounghoon |  | Win | B+R | 6.5 | 3514.0 | 2.0 | 
-| 2017-06-02 | 2017年韓国囲碁リーグ | Mok Jinseok | Kim Myounghoon | Win | W+R | 6.5 | 3512.0 | 21.0 | 
-| 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Kim Myounghoon | Yang Dingxin | Lose | W+R | 6.5 | 3491.0 | 6.0 | 
+| 2017-06-02 | 2017年韓国囲碁リーグ | Mok Jinseok | Kim Myounghoon | Win | W+R | 6.5 | 3512.0 | 22.0 | 
+| 2017-05-31 | 第22期LG杯朝鮮日報棋王戦16強戦 | Kim Myounghoon | Yang Dingxin | Lose | W+R | 6.5 | 3490.0 | 5.0 | 
 | 2017-05-29 | 第22期LG杯朝鮮日報棋王戦32強戦 | Xiao Zhenghao | Kim Myounghoon | Win | W+R | 6.5 | 3485.0 | -10.0 | 
 | 2017-05-19 | 2017年韓国囲碁リーグ | Kim Myounghoon | Choi Jeong | Win | B+R | 6.5 | 3495.0 | -18.0 | 
 | 2017-04-07 | 第22期LG杯世界予選準決勝 | Kim Myounghoon | Li Xiangyu | Win | B+R | 6.5 | 3513.0 | -10.0 | 
@@ -234,8 +234,8 @@
 | 2015-12-21 | 2015年レッツランパーク杯オープントーナメント決勝三番勝負第2局 | Kim Myounghoon | Shin Jinseo | Lose | W+R | 6.5 | 3517.0 | 11.0 | 
 | 2015-12-16 | 2015年レッツランパーク杯オープントーナメント決勝三番勝負第1局 | Shin Jinseo | Kim Myounghoon | Win | W+R | 6.5 | 3506.0 | 25.0 | 
 | 2015-11-30 | 2015年利民杯世界囲碁星鋭最強戦3回戦 | Gu Zihao | Kim Myounghoon | Lose | B+R | 7.5 | 3481.0 | -8.0 | 
-| 2015-11-29 | 2015年利民杯世界囲碁星鋭最強戦2回戦 | Kim Myounghoon | Chen Xian | Win | B+R | 7.5 | 3489.0 | 17.0 | 
-| 2015-11-28 | 2015年利民杯世界囲碁星鋭最強戦1回戦 | Kim Myounghoon | Li Xuanhao | Win | B+R | 7.5 | 3472.0 | -7.0 | 
+| 2015-11-29 | 2015年利民杯世界囲碁星鋭最強戦2回戦 | Kim Myounghoon | Chen Xian | Win | B+R | 7.5 | 3489.0 | 18.0 | 
+| 2015-11-28 | 2015年利民杯世界囲碁星鋭最強戦1回戦 | Kim Myounghoon | Li Xuanhao | Win | B+R | 7.5 | 3471.0 | -8.0 | 
 | 2015-11-23 | 2015年レッツランパーク杯オープントーナメント準決勝 | Kim Myounghoon | Lee Jihyun | Win | B+R | 6.5 | 3479.0 | -52.0 | 
 | 2015-10-30 | 2015年レッツランパーク杯オープントーナメント4回戦 | Kim Myounghoon | Jin Siyoung | Win | B+R | 6.5 | 3531.0 | 3.0 | 
 | 2015-10-26 | 2015年レッツランパーク杯オープントーナメント3回戦 | Park Jinsol | Kim Myounghoon | Win | W+R | 6.5 | 3528.0 | 13.0 | 
@@ -246,8 +246,8 @@
 | 2015-09-19 | 2015年韓国囲碁リーグ | Kim Myounghoon | Choi Cheolhan | Lose | W+R | 6.5 | 3557.0 | -5.0 | 
 | 2015-09-06 | 2015年韓国囲碁リーグ | Shin Minjun | Kim Myounghoon | Lose | B+R | 6.5 | 3562.0 | -29.0 | 
 | 2015-08-29 | 2015年韓国囲碁リーグ | Kim Myounghoon | Kim Kiyoung | Lose | W+0.5 | 6.5 | 3591.0 | -34.0 | 
-| 2015-08-20 | 2015年韓国囲碁リーグ | Kim Myounghoon |  | Win | B+R | 6.5 | 3625.0 | 38.0 | 
-| 2015-07-23 | 2015年韓国囲碁リーグ | Kim Myounghoon | Weon Seongjin | Lose | W+2.5 | 6.5 | 3587.0 | -24.0 | 
+| 2015-08-20 | 2015年韓国囲碁リーグ | Kim Myounghoon |  | Win | B+R | 6.5 | 3625.0 | 39.0 | 
+| 2015-07-23 | 2015年韓国囲碁リーグ | Kim Myounghoon | Weon Seongjin | Lose | W+2.5 | 6.5 | 3586.0 | -25.0 | 
 | 2015-07-17 | 第17回農心杯韓国選抜戦 | Kim Myounghoon | Heo Yongho | Lose | W+R | 6.5 | 3611.0 | -4.0 | 
 | 2015-07-16 | 2015年韓国囲碁リーグ | Kim Myounghoon | Park Jaekeun | Win | B+1.5 | 6.5 | 3615.0 | 3.0 | 
 | 2015-07-15 | 第17回農心杯韓国選抜戦 | Kang Dongyun | Kim Myounghoon | Win | W+R | 6.5 | 3612.0 | 20.0 | 
@@ -279,12 +279,12 @@
 | 2014-10-20 | 第33回KBS杯囲碁王戦敗者復活戦1回戦 | Kim Myounghoon | Choi Cheolhan | Lose | W+R | 6.5 | 3361.0 | -26.0 | 
 | 2014-10-11 | 2014年韓国囲碁リーグ | Lee Changho | Kim Myounghoon | Win | W+R | 6.5 | 3387.0 | 119.0 | 
 | 2014-09-23 | 2014年レッツランパーク杯オープントーナメント3回戦 | Park Junsuck | Kim Myounghoon | Win | W+R | 6.5 | 3268.0 | 79.0 | 
-| 2014-08-29 | 2014年レッツランパーク杯オープントーナメント2回戦 | Kim Myounghoon | Park Yeonghun | Win | B+R | 6.5 | 3189.0 | 77.0 | 
-| 2014-07-28 | 第16回農心杯韓国選抜戦 | Park Junghwan | Kim Myounghoon | Lose | B+R | 6.5 | 3112.0 | -5.0 | 
-| 2014-07-26 | 2014年韓国囲碁リーグ | Kim Myounghoon | Choi Cheolhan | Lose | W+R | 6.5 | 3117.0 | -48.0 | 
+| 2014-08-29 | 2014年レッツランパーク杯オープントーナメント2回戦 | Kim Myounghoon | Park Yeonghun | Win | B+R | 6.5 | 3189.0 | 78.0 | 
+| 2014-07-28 | 第16回農心杯韓国選抜戦 | Park Junghwan | Kim Myounghoon | Lose | B+R | 6.5 | 3111.0 | -5.0 | 
+| 2014-07-26 | 2014年韓国囲碁リーグ | Kim Myounghoon | Choi Cheolhan | Lose | W+R | 6.5 | 3116.0 | -49.0 | 
 | 2014-07-01 | 第33回KBS杯囲碁王戦本戦2回戦 | Kim Junghyun | Kim Myounghoon | Lose | B+R | 6.5 | 3165.0 | -61.0 | 
-| 2014-05-24 | 2014年韓国囲碁リーグ | Kim Myounghoon | Shin Jinseo | Lose | W+R | 6.5 | 3226.0 | -142.0 | 
-| 2014-04-25 | 2014年韓国囲碁リーグ | Kim Myounghoon | Choi Cheolhan | Lose | W+R | 6.5 | 3368.0 | -62.0 | 
+| 2014-05-24 | 2014年韓国囲碁リーグ | Kim Myounghoon | Shin Jinseo | Lose | W+R | 6.5 | 3226.0 | -141.0 | 
+| 2014-04-25 | 2014年韓国囲碁リーグ | Kim Myounghoon | Choi Cheolhan | Lose | W+R | 6.5 | 3367.0 | -63.0 | 
 | 2014-03-11 | 第2期メジオン杯オープン新人王戦2回戦 | Min Sangyoun | Kim Myounghoon | Lose | B+R | 6.5 | 3430.0 | missing |
 
 

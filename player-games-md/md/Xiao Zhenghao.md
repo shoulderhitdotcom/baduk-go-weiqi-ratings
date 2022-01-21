@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-21 | 第21期天元戦（台湾）勝部2回戦 | Huang Shiyuan | Xiao Zhenghao | Win | W+R | 6.5 | 3203.0 | -25.0 | 
 | 2022-01-18 | 第21期天元戦（台湾）勝部1回戦 |  | Xiao Zhenghao | Win | W+R | 6.5 | 3228.0 | 7.0 | 
 | 2022-01-17 | 第14回海峰杯プロ囲碁戦4回戦  | Xiao Zhenghao | Xu Haohong | Lose | W+1.5 | 6.5 | 3221.0 | 9.0 | 
 | 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Lu Yiquan | Xiao Zhenghao | Win | W+R | 6.5 | 3212.0 | 10.0 | 
@@ -313,12 +314,12 @@
 | 2015-09-09 | 第20回三星火災杯世界囲碁マスターズ1回戦D2 | Xiao Zhenghao | Lin Junyan | Lose | W+R | 6.5 | 3368.0 | -10.0 | 
 | 2015-09-08 | 第20回三星火災杯世界囲碁マスターズ1回戦D1 | Xiao Zhenghao | Kim Dongho | Lose | W+R | 6.5 | 3378.0 | -18.0 | 
 | 2015-09-03 | 第5期友士杯十段戦挑戦手合三番勝負第2局 | Lin Junyan | Xiao Zhenghao | Win | W+R | 6.5 | 3396.0 | 4.0 | 
-| 2015-08-31 | 第5期友士杯十段戦挑戦手合三番勝負第1局 | Xiao Zhenghao | Lin Junyan | Win | B+1.5 | 6.5 | 3392.0 | 7.0 | 
-| 2015-08-05 | 第20回三星火災杯統合予選決勝 | Shibano Toramaru | Xiao Zhenghao | Win | W+R | 6.5 | 3385.0 | -8.0 | 
-| 2015-08-04 | 第20回三星火災杯統合予選準決勝 | Xiao Zhenghao | Kim Sooyong | Win | B+3.5 | 6.5 | 3393.0 | -3.0 | 
-| 2015-08-03 | 第20回三星火災杯統合予選2回戦 | Park Minkyu | Xiao Zhenghao | Win | W+R | 6.5 | 3396.0 | 20.0 | 
-| 2015-08-01 | 第20回三星火災杯統合予選1回戦 |  | Xiao Zhenghao | Win | W+4.5 | 6.5 | 3376.0 | 24.0 | 
-| 2015-07-24 | 第14期天元戦（台湾）挑戦手合七番勝負第7局 | Wang Yuanjun | Xiao Zhenghao | Lose | B+2.5 | 6.5 | 3352.0 | 12.0 | 
+| 2015-08-31 | 第5期友士杯十段戦挑戦手合三番勝負第1局 | Xiao Zhenghao | Lin Junyan | Win | B+1.5 | 6.5 | 3392.0 | 8.0 | 
+| 2015-08-05 | 第20回三星火災杯統合予選決勝 | Shibano Toramaru | Xiao Zhenghao | Win | W+R | 6.5 | 3384.0 | -8.0 | 
+| 2015-08-04 | 第20回三星火災杯統合予選準決勝 | Xiao Zhenghao | Kim Sooyong | Win | B+3.5 | 6.5 | 3392.0 | -3.0 | 
+| 2015-08-03 | 第20回三星火災杯統合予選2回戦 | Park Minkyu | Xiao Zhenghao | Win | W+R | 6.5 | 3395.0 | 20.0 | 
+| 2015-08-01 | 第20回三星火災杯統合予選1回戦 |  | Xiao Zhenghao | Win | W+4.5 | 6.5 | 3375.0 | 24.0 | 
+| 2015-07-24 | 第14期天元戦（台湾）挑戦手合七番勝負第7局 | Wang Yuanjun | Xiao Zhenghao | Lose | B+2.5 | 6.5 | 3351.0 | 11.0 | 
 | 2015-07-16 | 第5期友士杯十段戦挑戦者決定戦 | Xiao Zhenghao | Chen Shiyuan | Win | B+R | 6.5 | 3340.0 | -1.0 | 
 | 2015-07-14 | 第14期天元戦（台湾）挑戦手合七番勝負第6局 | Wang Yuanjun | Xiao Zhenghao | Win | W+R | 6.5 | 3341.0 | 3.0 | 
 | 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 |  | Xiao Zhenghao | Lose | B+1.5 | 7.5 | 3338.0 | -20.0 | 
@@ -337,9 +338,9 @@
 | 2015-05-19 | 2015年中国囲碁乙級リーグ | Xiao Zhenghao | Rong Yi | Lose | W+2.5 | 7.5 | 3260.0 | -28.0 | 
 | 2015-05-17 | 2015年中国囲碁乙級リーグ | Kim Seongjae | Xiao Zhenghao | Win | W+R | 7.5 | 3288.0 | 12.0 | 
 | 2015-05-16 | 2015年中国囲碁乙級リーグ | Xiao Zhenghao | Cho Hanseung | Lose | W+R | 7.5 | 3276.0 | 35.0 | 
-| 2015-05-14 | 2015年中国囲碁乙級リーグ |  | Xiao Zhenghao | Win | W+R | 7.5 | 3241.0 | -8.0 | 
-| 2015-05-13 | 2015年中国囲碁乙級リーグ | Xiao Zhenghao | Gu Lingyi | Lose | W+R | 7.5 | 3249.0 | 3.0 | 
-| 2015-05-12 | 2015年中国囲碁乙級リーグ | Pan Fei | Xiao Zhenghao | Win | W+R | 7.5 | 3246.0 | -85.0 | 
+| 2015-05-14 | 2015年中国囲碁乙級リーグ |  | Xiao Zhenghao | Win | W+R | 7.5 | 3241.0 | -7.0 | 
+| 2015-05-13 | 2015年中国囲碁乙級リーグ | Xiao Zhenghao | Gu Lingyi | Lose | W+R | 7.5 | 3248.0 | 3.0 | 
+| 2015-05-12 | 2015年中国囲碁乙級リーグ | Pan Fei | Xiao Zhenghao | Win | W+R | 7.5 | 3245.0 | -86.0 | 
 | 2015-04-03 | 第12期倡棋杯中国プロ囲碁選手権戦1回戦 | Tang Weixing | Xiao Zhenghao | Lose | B+R | 7.5 | 3331.0 | -14.0 | 
 | 2015-03-19 | 第7回海峰杯プロ囲碁戦準決勝 | Xiao Zhenghao | Chen Shiyuan | Lose | W+R | 6.5 | 3345.0 | 3.0 | 
 | 2015-03-16 | 第7回海峰杯プロ囲碁戦8強戦 | Zhou Junxun | Xiao Zhenghao | Win | W+R | 6.5 | 3342.0 | -12.0 | 
@@ -372,16 +373,16 @@
 | 2014-09-29 | 第7期棋王戦（台湾）リーグ |  | Xiao Zhenghao | Win | W+R | 6.5 | 3150.0 | -48.0 | 
 | 2014-08-28 | 第19回三星火災杯世界囲碁マスターズ1回戦E3 | Xiao Zhenghao | Rui Naiwei | Lose | W+2.5 | 6.5 | 3198.0 | -23.0 | 
 | 2014-08-27 | 第19回三星火災杯世界囲碁マスターズ1回戦E2 | Xiao Zhenghao | Goto Shungo | Win | B+R | 6.5 | 3221.0 | 26.0 | 
-| 2014-08-26 | 第19回三星火災杯世界囲碁マスターズ1回戦E1 | Rui Naiwei | Xiao Zhenghao | Lose | B+1.5 | 6.5 | 3195.0 | -29.0 | 
-| 2014-08-06 | 第19回三星火災杯統合予選決勝 |  | Xiao Zhenghao | Win | W+R | 6.5 | 3224.0 | 33.0 | 
-| 2014-08-05 | 第19回三星火災杯統合予選準決勝 | Xiao Zhenghao | Byun Sangil | Win | B+R | 6.5 | 3191.0 | 43.0 | 
-| 2014-08-04 | 第19回三星火災杯統合予選3回戦 | Gu Li | Xiao Zhenghao | Win | W+R | 6.5 | 3148.0 | -11.0 | 
+| 2014-08-26 | 第19回三星火災杯世界囲碁マスターズ1回戦E1 | Rui Naiwei | Xiao Zhenghao | Lose | B+1.5 | 6.5 | 3195.0 | -28.0 | 
+| 2014-08-06 | 第19回三星火災杯統合予選決勝 |  | Xiao Zhenghao | Win | W+R | 6.5 | 3223.0 | 33.0 | 
+| 2014-08-05 | 第19回三星火災杯統合予選準決勝 | Xiao Zhenghao | Byun Sangil | Win | B+R | 6.5 | 3190.0 | 43.0 | 
+| 2014-08-04 | 第19回三星火災杯統合予選3回戦 | Gu Li | Xiao Zhenghao | Win | W+R | 6.5 | 3147.0 | -12.0 | 
 | 2014-07-01 | 第13期天元戦（台湾）挑戦手合五番勝負第4局 | Lin Lixiang | Xiao Zhenghao | Win | W+2.5 | 6.5 | 3159.0 | 32.0 | 
 | 2014-06-24 | 第13期天元戦（台湾）挑戦手合五番勝負第3局 | Xiao Zhenghao | Lin Lixiang | Lose | W+R | 6.5 | 3127.0 | -65.0 | 
 | 2014-06-17 | 第13期天元戦（台湾）挑戦手合五番勝負第2局 | Lin Lixiang | Xiao Zhenghao | Win | W+R | 6.5 | 3192.0 | 1.0 | 
 | 2014-06-10 | 第13期天元戦（台湾）挑戦手合五番勝負第1局 | Xiao Zhenghao | Lin Lixiang | Win | B+R | 6.5 | 3191.0 | -39.0 | 
-| 2014-05-28 | 第11期倡棋杯中国プロ囲碁選手権戦1回戦 | Qiu Jun | Xiao Zhenghao | Lose | B+3 | 7.5 | 3230.0 | -63.0 | 
-| 2014-04-29 | 2014年中国囲碁丙級リーグ | Xiao Zhenghao |  | Win | B+R | 7.5 | 3293.0 | 31.0 | 
+| 2014-05-28 | 第11期倡棋杯中国プロ囲碁選手権戦1回戦 | Qiu Jun | Xiao Zhenghao | Lose | B+3 | 7.5 | 3230.0 | -62.0 | 
+| 2014-04-29 | 2014年中国囲碁丙級リーグ | Xiao Zhenghao |  | Win | B+R | 7.5 | 3292.0 | 30.0 | 
 | 2014-04-03 | 第6回海峰杯プロ囲碁戦準決勝 | Chen Shiyuan | Xiao Zhenghao | Lose | B+3.5 | 6.5 | 3262.0 | -29.0 | 
 | 2014-03-31 | 第6回海峰杯プロ囲碁戦8強戦 | Hei Jiajia | Xiao Zhenghao | Win | W+R | 6.5 | 3291.0 | 12.0 | 
 | 2014-03-10 | 第6回海峰杯プロ囲碁戦16強戦 | Xiao Zhenghao | Chen Xi | Win | B+R | 6.5 | 3279.0 | -17.0 | 

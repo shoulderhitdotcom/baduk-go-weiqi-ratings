@@ -7,20 +7,21 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-01-15 | 2021-2022フューチャーズリーグ | Ryu Minhyung |  | Win | B+R | 6.5 | 3505.0 | -36.0 | 
-| 2022-01-14 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Ryu Minhyung | Lose | B+R | 6.5 | 3541.0 | -11.0 | 
-| 2022-01-08 | 2021-2022フューチャーズリーグ | Ryu Minhyung |  | Win | B+R | 6.5 | 3552.0 | 23.0 | 
-| 2022-01-07 | 2021-2022フューチャーズリーグ | Park Jinyoung | Ryu Minhyung | Win | W+R | 6.5 | 3529.0 | 43.0 | 
-| 2021-12-25 | 2021-2022フューチャーズリーグ | Lee Hyeonjun | Ryu Minhyung | Win | W+R | 6.5 | 3486.0 | -66.0 | 
-| 2021-12-23 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Choi Jaeyoung | Lose | W+R | 6.5 | 3552.0 | 4.0 | 
-| 2021-12-19 | 2021-2022フューチャーズリーグ | Ryu Minhyung | Shin Jaeweon | Win | B+R | 6.5 | 3548.0 | -3.0 | 
-| 2021-12-18 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Kim Junghyun | Win | B+R | 6.5 | 3551.0 | 102.0 | 
-| 2021-12-04 | 2021-2022フューチャーズリーグ |  | Ryu Minhyung | Win | W+R | 6.5 | 3449.0 | 17.0 | 
-| 2021-11-27 | 2021-2022フューチャーズリーグ |  | Ryu Minhyung | Win | W+R | 6.5 | 3432.0 | 249.0 | 
-| 2021-11-25 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Yun Chanhee | Win | B+R | 6.5 | 3183.0 | -41.0 | 
-| 2021-08-23 | 第26回三星火災杯韓国予選 | Ryu Minhyung | Park Yeonghun | Lose | W+R | 6.5 | 3224.0 | 151.0 | 
-| 2019-05-16 | 2019年囲碁テレビ杯早碁戦32強戦 | Byun Sangil | Ryu Minhyung | Lose | B+R | 6.5 | 3073.0 | -182.0 | 
-| 2018-09-28 | 2018年韓国囲碁リーグ第13節 | Ryu Minhyung | Na Hyun | Lose | W+R | 6.5 | 3255.0 | -7.0 | 
+| 2022-01-23 | 2021-2022韓国囲碁リーグ | Park Minkyu | Ryu Minhyung | Lose | B+R | 6.5 | 3442.0 | -64.0 | 
+| 2022-01-15 | 2021-2022フューチャーズリーグ | Ryu Minhyung |  | Win | B+R | 6.5 | 3506.0 | -36.0 | 
+| 2022-01-14 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Ryu Minhyung | Lose | B+R | 6.5 | 3542.0 | -11.0 | 
+| 2022-01-08 | 2021-2022フューチャーズリーグ | Ryu Minhyung |  | Win | B+R | 6.5 | 3553.0 | 23.0 | 
+| 2022-01-07 | 2021-2022フューチャーズリーグ | Park Jinyoung | Ryu Minhyung | Win | W+R | 6.5 | 3530.0 | 43.0 | 
+| 2021-12-25 | 2021-2022フューチャーズリーグ | Lee Hyeonjun | Ryu Minhyung | Win | W+R | 6.5 | 3487.0 | -66.0 | 
+| 2021-12-23 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Choi Jaeyoung | Lose | W+R | 6.5 | 3553.0 | 4.0 | 
+| 2021-12-19 | 2021-2022フューチャーズリーグ | Ryu Minhyung | Shin Jaeweon | Win | B+R | 6.5 | 3549.0 | -3.0 | 
+| 2021-12-18 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Kim Junghyun | Win | B+R | 6.5 | 3552.0 | 102.0 | 
+| 2021-12-04 | 2021-2022フューチャーズリーグ |  | Ryu Minhyung | Win | W+R | 6.5 | 3450.0 | 17.0 | 
+| 2021-11-27 | 2021-2022フューチャーズリーグ |  | Ryu Minhyung | Win | W+R | 6.5 | 3433.0 | 248.0 | 
+| 2021-11-25 | 2021-2022韓国囲碁リーグ | Ryu Minhyung | Yun Chanhee | Win | B+R | 6.5 | 3185.0 | -40.0 | 
+| 2021-08-23 | 第26回三星火災杯韓国予選 | Ryu Minhyung | Park Yeonghun | Lose | W+R | 6.5 | 3225.0 | 151.0 | 
+| 2019-05-16 | 2019年囲碁テレビ杯早碁戦32強戦 | Byun Sangil | Ryu Minhyung | Lose | B+R | 6.5 | 3074.0 | -182.0 | 
+| 2018-09-28 | 2018年韓国囲碁リーグ第13節 | Ryu Minhyung | Na Hyun | Lose | W+R | 6.5 | 3256.0 | -6.0 | 
 | 2018-09-22 | 2018年韓国囲碁リーグ第12節 | Ryu Minhyung | Park Geunho | Lose | W+1.5 | 6.5 | 3262.0 | -23.0 | 
 | 2018-09-16 | 2018年韓国囲碁リーグ第11節 | Ahn Kukhyun | Ryu Minhyung | Win | W+1.5 | 6.5 | 3285.0 | -17.0 | 
 | 2018-08-19 | 2018年韓国囲碁リーグ第8節 | Jin Siyoung | Ryu Minhyung | Lose | B+R | 6.5 | 3302.0 | -21.0 | 
@@ -33,13 +34,13 @@
 | 2018-06-14 | 2018年韓国囲碁リーグ第1節 | An Joyeong | Ryu Minhyung | Lose | B+R | 6.5 | 3499.0 | 16.0 | 
 | 2018-04-11 | 第1回韓国竜星戦16強戦 | Ryu Minhyung | Byun Sangil | Lose | W+1.5 | 6.5 | 3483.0 | -11.0 | 
 | 2018-03-16 | 第1回韓国竜星戦32強ダブルエリミネーションA3 | Ryu Minhyung | Lee Changho | Win | B+1.5 | 6.5 | 3494.0 | 18.0 | 
-| 2018-03-15 | 第1回韓国竜星戦32強ダブルエリミネーションA2 | Kim Jiseok | Ryu Minhyung | Lose | B+R | 6.5 | 3476.0 | 28.0 | 
-| 2017-10-29 | 2017年韓国囲碁リーグ | Ryu Minhyung | Park Hamin | Lose | W+R | 6.5 | 3448.0 | -28.0 | 
+| 2018-03-15 | 第1回韓国竜星戦32強ダブルエリミネーションA2 | Kim Jiseok | Ryu Minhyung | Lose | B+R | 6.5 | 3476.0 | 27.0 | 
+| 2017-10-29 | 2017年韓国囲碁リーグ | Ryu Minhyung | Park Hamin | Lose | W+R | 6.5 | 3449.0 | -27.0 | 
 | 2017-10-12 | 2017年韓国囲碁リーグ | Weon Seongjin | Ryu Minhyung | Win | W+R | 6.5 | 3476.0 | -20.0 | 
 | 2017-10-06 | 2017年韓国囲碁リーグ | Byun Sangil | Ryu Minhyung | Lose | B+R | 6.5 | 3496.0 | -36.0 | 
 | 2017-09-30 | 2017年韓国囲碁リーグ | Hong Seongji | Ryu Minhyung | Win | W+5.5 | 6.5 | 3532.0 | 74.0 | 
-| 2017-09-24 | 2017年韓国囲碁リーグ | Ryu Minhyung | Lee Jihyun | Lose | W+R | 6.5 | 3458.0 | 13.0 | 
-| 2017-09-14 | 2017年韓国囲碁リーグ | Ryu Minhyung | Kim Jiseok | Lose | W+R | 6.5 | 3445.0 | -26.0 | 
+| 2017-09-24 | 2017年韓国囲碁リーグ | Ryu Minhyung | Lee Jihyun | Lose | W+R | 6.5 | 3458.0 | 12.0 | 
+| 2017-09-14 | 2017年韓国囲碁リーグ | Ryu Minhyung | Kim Jiseok | Lose | W+R | 6.5 | 3446.0 | -25.0 | 
 | 2017-09-01 | 2017年韓国囲碁リーグ | Kang Yootaek | Ryu Minhyung | Lose | B+R | 6.5 | 3471.0 | -18.0 | 
 | 2017-08-27 | 2017年韓国囲碁リーグ | Cho Hanseung | Ryu Minhyung | Win | W+R | 6.5 | 3489.0 | 38.0 | 
 | 2017-08-17 | 2017年韓国囲碁リーグ | Han Seungjoo | Ryu Minhyung | Lose | B+2.5 | 6.5 | 3451.0 | -3.0 | 

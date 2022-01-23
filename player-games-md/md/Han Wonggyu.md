@@ -7,39 +7,39 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-11-16 | 第7回国手山脈韓国国内トーナメント予選 | Han Wonggyu | Park Jinsol | Lose | W+R | 6.5 | 3427.0 | -32.0 | 
-| 2021-08-21 | 第26回三星火災杯韓国予選 | Han Wonggyu | Kim Myounghoon | Lose | W+R | 6.5 | 3459.0 | -74.0 | 
-| 2021-08-18 | 第4期韓国竜星戦準決勝 | Han Wonggyu | Shin Jinseo | Lose | W+R | 6.5 | 3533.0 | -15.0 | 
+| 2021-11-16 | 第7回国手山脈韓国国内トーナメント予選 | Han Wonggyu | Park Jinsol | Lose | W+R | 6.5 | 3428.0 | -32.0 | 
+| 2021-08-21 | 第26回三星火災杯韓国予選 | Han Wonggyu | Kim Myounghoon | Lose | W+R | 6.5 | 3460.0 | -74.0 | 
+| 2021-08-18 | 第4期韓国竜星戦準決勝 | Han Wonggyu | Shin Jinseo | Lose | W+R | 6.5 | 3534.0 | -14.0 | 
 | 2021-07-21 | 第23回農心杯韓国予選 | Shin Minjun | Han Wonggyu | Lose | B+R | 6.5 | 3548.0 | -126.0 | 
-| 2021-07-15 | 第23回農心杯韓国予選 | Moon Minjong | Han Wonggyu | Win | W+R | 6.5 | 3674.0 | 37.0 | 
-| 2021-06-09 | 第4期韓国竜星戦3回戦 | Han Wonggyu | Lee Changseok | Win | B+R | 6.5 | 3637.0 | 358.0 | 
-| 2021-03-03 | 第4期韓国竜星戦2回戦 | Han Wonggyu | Cho Seungah | Win | B+R | 6.5 | 3279.0 | 24.0 | 
-| 2021-02-09 | 第4期韓国竜星戦1回戦 | Han Wonggyu | Kang Dongyun | Win | B+R | 6.5 | 3255.0 | 251.0 | 
+| 2021-07-15 | 第23回農心杯韓国予選 | Moon Minjong | Han Wonggyu | Win | W+R | 6.5 | 3674.0 | 36.0 | 
+| 2021-06-09 | 第4期韓国竜星戦3回戦 | Han Wonggyu | Lee Changseok | Win | B+R | 6.5 | 3638.0 | 359.0 | 
+| 2021-03-03 | 第4期韓国竜星戦2回戦 | Han Wonggyu | Cho Seungah | Win | B+R | 6.5 | 3279.0 | 23.0 | 
+| 2021-02-09 | 第4期韓国竜星戦1回戦 | Han Wonggyu | Kang Dongyun | Win | B+R | 6.5 | 3256.0 | 252.0 | 
 | 2020-09-18 | 第2期ソパルコサノル最高棋士決定戦予選 | Lee Changseok | Han Wonggyu | Lose | B+R | 6.5 | 3004.0 | -95.0 | 
 | 2020-04-28 | 第25回LG杯韓国予選決勝 | Kim Sangcheon | Han Wonggyu | Lose | B+1.5 | 6.5 | 3099.0 | -4.0 | 
 | 2020-04-27 | 第25回LG杯韓国予選 | Han Wonggyu | Choi Kyeongho | Win | B+0.5 | 6.5 | 3103.0 | 33.0 | 
 | 2020-04-22 | 第25回LG杯韓国予選 | Han Wonggyu | Kim Daeyoung | Win | B+R | 6.5 | 3070.0 | -9.0 | 
 | 2020-04-21 | 第25回LG杯韓国予選 | Song Jihoon | Han Wonggyu | Win | W+11.5 | 6.5 | 3079.0 | 24.0 | 
-| 2020-03-30 | 第3期韓国竜星戦16強戦 | Kim Seungjun | Han Wonggyu | Lose | B+0.5 | 6.5 | 3055.0 | 2.0 | 
-| 2020-01-31 | 2019-2020KBフューチャーズリーグ第18節第1試合第3局 | Choi Wongyong | Han Wonggyu | Lose | B+R | 6.5 | 3053.0 | -16.0 | 
+| 2020-03-30 | 第3期韓国竜星戦16強戦 | Kim Seungjun | Han Wonggyu | Lose | B+0.5 | 6.5 | 3055.0 | 1.0 | 
+| 2020-01-31 | 2019-2020KBフューチャーズリーグ第18節第1試合第3局 | Choi Wongyong | Han Wonggyu | Lose | B+R | 6.5 | 3054.0 | -15.0 | 
 | 2020-01-26 | 2019-2020KBフューチャーズリーグ第17節第3試合第1局 | Han Wonggyu | An Joyeong | Lose | W+R | 6.5 | 3069.0 | -10.0 | 
 | 2020-01-19 | 2019-2020KBフューチャーズリーグ第16節第3試合第1局 | Kim Kiyoung | Han Wonggyu | Lose | B+2.5 | 6.5 | 3079.0 | -22.0 | 
-| 2020-01-11 | 2019-2020KBフューチャーズリーグ第15節第2試合第3局 | Han Wonggyu | Park Junsuck | Lose | W+R | 6.5 | 3101.0 | -12.0 | 
-| 2020-01-08 | 2019-2020KBフューチャーズリーグ第14節第4試合第3局 | Park Hyunsoo | Han Wonggyu | Lose | B+3.5 | 6.5 | 3113.0 | -23.0 | 
-| 2020-01-05 | 2019-2020韓国囲碁リーグ第14節第4試合第3局 | Han Wonggyu | Yun Junsang | Lose | W+R | 6.5 | 3136.0 | 1.0 | 
-| 2019-12-28 | 2019-2020フューチャーズリーグ第13節第2試合第3局 | Han Wonggyu |  | Lose | W+R | 6.5 | 3135.0 | -25.0 | 
+| 2020-01-11 | 2019-2020KBフューチャーズリーグ第15節第2試合第3局 | Han Wonggyu | Park Junsuck | Lose | W+R | 6.5 | 3101.0 | -13.0 | 
+| 2020-01-08 | 2019-2020KBフューチャーズリーグ第14節第4試合第3局 | Park Hyunsoo | Han Wonggyu | Lose | B+3.5 | 6.5 | 3114.0 | -23.0 | 
+| 2020-01-05 | 2019-2020韓国囲碁リーグ第14節第4試合第3局 | Han Wonggyu | Yun Junsang | Lose | W+R | 6.5 | 3137.0 | 1.0 | 
+| 2019-12-28 | 2019-2020フューチャーズリーグ第13節第2試合第3局 | Han Wonggyu |  | Lose | W+R | 6.5 | 3136.0 | -24.0 | 
 | 2019-12-27 | 2019-2020韓国囲碁リーグ第13節第2試合第2局 | An Jungki | Han Wonggyu | Win | W+1.5 | 6.5 | 3160.0 | 43.0 | 
-| 2019-12-25 | 2019-2020フューチャーズリーグ第12節第4試合第3局 | Lee Hoseong | Han Wonggyu | Win | W+10.5 | 6.5 | 3117.0 | 45.0 | 
-| 2019-12-18 | 2019-2020フューチャーズリーグ第11節第4試合第3局 | Han Wonggyu |  | Win | B+4.5 | 6.5 | 3072.0 | 34.0 | 
+| 2019-12-25 | 2019-2020フューチャーズリーグ第12節第4試合第3局 | Lee Hoseong | Han Wonggyu | Win | W+10.5 | 6.5 | 3117.0 | 44.0 | 
+| 2019-12-18 | 2019-2020フューチャーズリーグ第11節第4試合第3局 | Han Wonggyu |  | Win | B+4.5 | 6.5 | 3073.0 | 35.0 | 
 | 2019-12-04 | 2019-2020フューチャーズリーグ第9節第4試合第2局 | Choi Wongyong | Han Wonggyu | Win | W+0.5 | 6.5 | 3038.0 | 21.0 | 
-| 2019-11-23 | 2019-2020フューチャーズリーグ第8節第2試合第2局 | An Joyeong | Han Wonggyu | Lose | B+2.5 | 6.5 | 3017.0 | -29.0 | 
-| 2019-11-16 | 2019-2020フューチャーズリーグ第7節第2試合第3局 |  | Han Wonggyu | Lose | B+R | 6.5 | 3046.0 | -53.0 | 
-| 2019-11-10 | 2019-2020フューチャーズリーグ第6節第3試合第2局 | Park Junsuck | Han Wonggyu | Win | W+R | 6.5 | 3099.0 | 114.0 | 
+| 2019-11-23 | 2019-2020フューチャーズリーグ第8節第2試合第2局 | An Joyeong | Han Wonggyu | Lose | B+2.5 | 6.5 | 3017.0 | -30.0 | 
+| 2019-11-16 | 2019-2020フューチャーズリーグ第7節第2試合第3局 |  | Han Wonggyu | Lose | B+R | 6.5 | 3047.0 | -53.0 | 
+| 2019-11-10 | 2019-2020フューチャーズリーグ第6節第3試合第2局 | Park Junsuck | Han Wonggyu | Win | W+R | 6.5 | 3100.0 | 115.0 | 
 | 2019-11-02 | 2019-2020フューチャーズリーグ第5節第1試合第2局 | Yun Hyuk | Han Wonggyu | Win | W+R | 6.5 | 2985.0 | 2.0 | 
 | 2019-10-27 | 2019-2020フューチャーズリーグ第4節第3試合第1局 | Min Sangyoun | Han Wonggyu | Lose | B+2.5 | 6.5 | 2983.0 | -162.0 | 
 | 2019-10-19 | 2019-2020フューチャーズリーグ第3節第1試合第3局 | Han Wonggyu |  | Win | B+R | 6.5 | 3145.0 | -140.0 | 
-| 2017-11-05 | 2017年韓国囲碁リーグ準プレーオフ第3戦 | Hong Kipyo | Han Wonggyu | Lose | B+R | 6.5 | 3285.0 | -29.0 | 
-| 2017-10-28 | 2017年フューチャーズリーグ | Han Wonggyu | Lee Hyungjin | Win | B+R | 6.5 | 3314.0 | 5.0 | 
+| 2017-11-05 | 2017年韓国囲碁リーグ準プレーオフ第3戦 | Hong Kipyo | Han Wonggyu | Lose | B+R | 6.5 | 3285.0 | -30.0 | 
+| 2017-10-28 | 2017年フューチャーズリーグ | Han Wonggyu | Lee Hyungjin | Win | B+R | 6.5 | 3315.0 | 6.0 | 
 | 2017-10-27 | 2017年韓国囲碁リーグ | Choi Jaeyoung | Han Wonggyu | Lose | B+R | 6.5 | 3309.0 | -35.0 | 
 | 2017-10-25 | 2017年フューチャーズリーグ | Han Wonggyu | Kim Jinhyu | Win | B+R | 6.5 | 3344.0 | 54.0 | 
 | 2017-10-15 | 2017年フューチャーズリーグ | Han Wonggyu | Park Junsuck | Lose | W+R | 6.5 | 3290.0 | -15.0 | 

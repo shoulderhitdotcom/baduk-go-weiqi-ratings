@@ -7,30 +7,30 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Chen Zhengxun | Lose | B+R | 7.5 | 3440.0 | -34.0 | 
-| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Chen Zhengxun | Meng Tailing | Lose | W+R | 7.5 | 3474.0 | 70.0 | 
-| 2021-09-29 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Tan Xiao | Lose | W+R | 7.5 | 3404.0 | -26.0 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Jin Yucheng | Win | B+R | 7.5 | 3430.0 | 28.0 | 
-| 2021-09-26 | 第23回中国囲碁甲級リーグ | Chen Hao | Chen Zhengxun | Win | W+R | 7.5 | 3402.0 | 11.0 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Li Xiangyu | Win | B+R | 7.5 | 3391.0 | 108.0 | 
-| 2021-08-24 | 第12期中国竜星戦予選 | Chen Zhengxun | Huang Yunsong | Lose | W+1¼ | 7.5 | 3283.0 | 63.0 | 
-| 2021-06-08 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Chen Haoxin | Lose | W+2¼ | 7.5 | 3220.0 | -21.0 | 
-| 2021-05-10 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Peng Liyao | Lose | W+R | 7.5 | 3241.0 | 4.0 | 
-| 2021-05-08 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Chen Zhengxun | Win | W+1¼ | 7.5 | 3237.0 | 38.0 | 
-| 2021-04-01 | 2021年龍華杯深圳市囲碁戦 | Chen Zhengxun | Dang Yifei | Win | B+R | 7.5 | 3199.0 | 64.0 | 
-| 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Shi Yulai | Chen Zhengxun | Win | W+R | 7.5 | 3135.0 | 92.0 | 
-| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Zhang Tao | Chen Zhengxun | Lose | B+R | 7.5 | 3043.0 | -22.0 | 
-| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Chen Zhengxun | Zhang Tao | Lose | W+R | 7.5 | 3065.0 | 2.0 | 
-| 2020-12-12 | 第22回中国囲碁甲級リーグ | Chen Zhengxun | Chen Yaoye | Lose | W+R | 7.5 | 3063.0 | -39.0 | 
-| 2020-12-11 | 第22回中国囲碁甲級リーグ | Jiang Weijie | Chen Zhengxun | Lose | B+R | 7.5 | 3102.0 | -14.0 | 
-| 2020-12-09 | 第22回中国囲碁甲級リーグ | Chen Zhengxun |  | Win | B+R | 7.5 | 3116.0 | 18.0 | 
-| 2020-12-08 | 第22回中国囲碁甲級リーグ | Li Qincheng | Chen Zhengxun | Win | W+R | 7.5 | 3098.0 | 62.0 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Jiang Qirun | Chen Zhengxun | Lose | B+R | 7.5 | 3036.0 | 40.0 | 
-| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Chen Zhengxun | He Yuhan | Lose | W+R | 7.5 | 2996.0 | -13.0 | 
-| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Fan Yin | Chen Zhengxun | Lose | B+R | 7.5 | 3009.0 | -28.0 | 
-| 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Liao Yuanhe | Chen Zhengxun | Win | W+R | 7.5 | 3037.0 | 159.0 | 
-| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Chen Zhengxun | Chen Zijian | Lose | W+R | 7.5 | 2878.0 | -139.0 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Chen Zhengxun | Tao Xinran | Lose | W+R | 7.5 | 3017.0 | -260.0 | 
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Chen Zhengxun | Lose | B+R | 7.5 | 3441.0 | -34.0 | 
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Chen Zhengxun | Meng Tailing | Lose | W+R | 7.5 | 3475.0 | 70.0 | 
+| 2021-09-29 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Tan Xiao | Lose | W+R | 7.5 | 3405.0 | -26.0 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Jin Yucheng | Win | B+R | 7.5 | 3431.0 | 28.0 | 
+| 2021-09-26 | 第23回中国囲碁甲級リーグ | Chen Hao | Chen Zhengxun | Win | W+R | 7.5 | 3403.0 | 11.0 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Li Xiangyu | Win | B+R | 7.5 | 3392.0 | 108.0 | 
+| 2021-08-24 | 第12期中国竜星戦予選 | Chen Zhengxun | Huang Yunsong | Lose | W+1¼ | 7.5 | 3284.0 | 63.0 | 
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Chen Haoxin | Lose | W+2¼ | 7.5 | 3221.0 | -21.0 | 
+| 2021-05-10 | 第23回中国囲碁甲級リーグ | Chen Zhengxun | Peng Liyao | Lose | W+R | 7.5 | 3242.0 | 4.0 | 
+| 2021-05-08 | 第23回中国囲碁甲級リーグ | Wang Chunhui | Chen Zhengxun | Win | W+1¼ | 7.5 | 3238.0 | 38.0 | 
+| 2021-04-01 | 2021年龍華杯深圳市囲碁戦 | Chen Zhengxun | Dang Yifei | Win | B+R | 7.5 | 3200.0 | 64.0 | 
+| 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Shi Yulai | Chen Zhengxun | Win | W+R | 7.5 | 3136.0 | 92.0 | 
+| 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Zhang Tao | Chen Zhengxun | Lose | B+R | 7.5 | 3044.0 | -22.0 | 
+| 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Chen Zhengxun | Zhang Tao | Lose | W+R | 7.5 | 3066.0 | 2.0 | 
+| 2020-12-12 | 第22回中国囲碁甲級リーグ | Chen Zhengxun | Chen Yaoye | Lose | W+R | 7.5 | 3064.0 | -39.0 | 
+| 2020-12-11 | 第22回中国囲碁甲級リーグ | Jiang Weijie | Chen Zhengxun | Lose | B+R | 7.5 | 3103.0 | -14.0 | 
+| 2020-12-09 | 第22回中国囲碁甲級リーグ | Chen Zhengxun |  | Win | B+R | 7.5 | 3117.0 | 18.0 | 
+| 2020-12-08 | 第22回中国囲碁甲級リーグ | Li Qincheng | Chen Zhengxun | Win | W+R | 7.5 | 3099.0 | 62.0 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Jiang Qirun | Chen Zhengxun | Lose | B+R | 7.5 | 3037.0 | 40.0 | 
+| 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Chen Zhengxun | He Yuhan | Lose | W+R | 7.5 | 2997.0 | -13.0 | 
+| 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Fan Yin | Chen Zhengxun | Lose | B+R | 7.5 | 3010.0 | -28.0 | 
+| 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Liao Yuanhe | Chen Zhengxun | Win | W+R | 7.5 | 3038.0 | 159.0 | 
+| 2020-08-29 | 第22回中国囲碁甲級リーグ第5節 | Chen Zhengxun | Chen Zijian | Lose | W+R | 7.5 | 2879.0 | -139.0 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Chen Zhengxun | Tao Xinran | Lose | W+R | 7.5 | 3018.0 | -259.0 | 
 | 2019-12-26 | 第5期洛陽白雲山杯中国棋聖戦予選 | Chen Zhengxun | Wang Xinghao | Lose | W+R | 7.5 | 3277.0 | -16.0 | 
 | 2019-09-23 | 2019年全国囲棋個人戦男子組第7戦 | Chen Zhengxun | Chen Hao | Lose | W+R | 7.5 | 3293.0 | -11.0 | 
 | 2019-09-22 | 2019年全国囲棋個人戦男子組第6戦 | Chen Zhengxun |  | Lose | W+R | 7.5 | 3304.0 | 0.0 | 
@@ -38,19 +38,19 @@
 | 2019-09-19 | 2019年全国囲棋個人戦男子組第3戦 |  | Chen Zhengxun | Win | W+R | 7.5 | 3293.0 | -48.0 | 
 | 2019-09-16 | 第21回中国囲碁甲級リーグプレーオフ1回戦第2戦 | Chen Zhengxun | Kim Myounghoon | Lose | W+R | 7.5 | 3341.0 | -28.0 | 
 | 2019-09-14 | 第21回中国囲碁甲級リーグプレーオフ1回戦第1戦 | Chen Yaoye | Chen Zhengxun | Lose | B+R | 7.5 | 3369.0 | -20.0 | 
-| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Han Yizhou | Chen Zhengxun | Win | W+R | 7.5 | 3389.0 | 47.0 | 
-| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Chen Zhengxun | Wang Shiyi | Lose | W+R | 7.5 | 3342.0 | -9.0 | 
+| 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Han Yizhou | Chen Zhengxun | Win | W+R | 7.5 | 3389.0 | 46.0 | 
+| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Chen Zhengxun | Wang Shiyi | Lose | W+R | 7.5 | 3343.0 | -8.0 | 
 | 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Chen Zhengxun | Peng Liyao | Lose | W+R | 7.5 | 3351.0 | -17.0 | 
-| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Chen Zhengxun | Wu Guangya | Lose | W+R | 7.5 | 3368.0 | 9.0 | 
-| 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Chen Zhengxun | Zhang Qiang | Lose | W+R | 7.5 | 3359.0 | -44.0 | 
-| 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Jiang Weijie | Chen Zhengxun | Lose | B+R | 7.5 | 3403.0 | -14.0 | 
-| 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Chen Zhengxun | Wang Xinghao | Win | B+R | 7.5 | 3417.0 | -8.0 | 
-| 2019-06-30 | 第24回三星火災杯統合予選1回戦 | Chen Zhengxun | Kang Dongyun | Lose | W+0.5 | 6.5 | 3425.0 | -17.0 | 
-| 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Gu Lingyi | Chen Zhengxun | Lose | B+R | 7.5 | 3442.0 | -22.0 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Chen Zhengxun | Wu Guangya | Lose | W+R | 7.5 | 3368.0 | 8.0 | 
+| 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Chen Zhengxun | Zhang Qiang | Lose | W+R | 7.5 | 3360.0 | -43.0 | 
+| 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Jiang Weijie | Chen Zhengxun | Lose | B+R | 7.5 | 3403.0 | -15.0 | 
+| 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Chen Zhengxun | Wang Xinghao | Win | B+R | 7.5 | 3418.0 | -7.0 | 
+| 2019-06-30 | 第24回三星火災杯統合予選1回戦 | Chen Zhengxun | Kang Dongyun | Lose | W+0.5 | 6.5 | 3425.0 | -18.0 | 
+| 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Gu Lingyi | Chen Zhengxun | Lose | B+R | 7.5 | 3443.0 | -21.0 | 
 | 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Chen Zhengxun | Xu Jiayang | Lose | W+R | 7.5 | 3464.0 | -9.0 | 
 | 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Chen Zhengxun | Mi Yuting | Lose | W+R | 7.5 | 3473.0 | -51.0 | 
-| 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Chen Zhengxun | Shi Yulai | Win | B+R | 7.5 | 3524.0 | 20.0 | 
-| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Tong Mengcheng | Chen Zhengxun | Lose | B+R | 7.5 | 3504.0 | -20.0 | 
+| 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Chen Zhengxun | Shi Yulai | Win | B+R | 7.5 | 3524.0 | 19.0 | 
+| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Tong Mengcheng | Chen Zhengxun | Lose | B+R | 7.5 | 3505.0 | -19.0 | 
 | 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Chen Zhengxun | Li Xuanhao | Win | B+R | 7.5 | 3524.0 | 44.0 | 
 | 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Xie Ke | Chen Zhengxun | Lose | B+R | 7.5 | 3480.0 | -49.0 | 
 | 2019-04-15 | 第21回中国囲碁甲級リーグ第1節天津-深圳 | Chen Zhengxun | Rong Yi | Win | B+¾ | 7.5 | 3529.0 | 138.0 | 
@@ -62,15 +62,15 @@
 | 2018-09-15 | 2018年全国囲棋個人戦男子組第2戦 | Chen Zhengxun | Yu Zhiying | Win | B+R | 7.5 | 3425.0 | -39.0 | 
 | 2018-09-08 | 第20回中国囲碁甲級リーグ第14節廈門-成都 | Chen Zhengxun | Gu Lingyi | Lose | W+R | 7.5 | 3464.0 | -67.0 | 
 | 2018-08-30 | 2018中国国家隊青年組選抜5回戦 | Li Weiqing | Chen Zhengxun | Win | W+R | 7.5 | 3531.0 | 110.0 | 
-| 2018-06-28 | 第20期阿含・桐山杯中国早碁オープン戦本選2回戦 | Chen Zhengxun | Shi Yue | Lose | W+¼ | 7.5 | 3421.0 | 151.0 | 
-| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Yang Dingxin | Chen Zhengxun | Lose | B+R | 7.5 | 3270.0 | -25.0 | 
+| 2018-06-28 | 第20期阿含・桐山杯中国早碁オープン戦本選2回戦 | Chen Zhengxun | Shi Yue | Lose | W+¼ | 7.5 | 3421.0 | 150.0 | 
+| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Yang Dingxin | Chen Zhengxun | Lose | B+R | 7.5 | 3271.0 | -24.0 | 
 | 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Lian Xiao | Chen Zhengxun | Win | W+¼ | 7.5 | 3295.0 | 17.0 | 
 | 2017-10-30 | 第19回中国囲碁甲級リーグ第22節 | Choi Cheolhan | Chen Zhengxun | Lose | B+R | 7.5 | 3278.0 | -42.0 | 
 | 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | An Sungjoon | Chen Zhengxun | Lose | B+R | 7.5 | 3320.0 | -1.0 | 
 | 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Chen Zhengxun | Zhao Chenyu | Lose | W+R | 7.5 | 3321.0 | -46.0 | 
 | 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 |  | Chen Zhengxun | Win | W+2.5 | 7.5 | 3367.0 | 36.0 | 
-| 2017-09-17 | 2017年全国囲棋個人戦男子組第4戦 | Guo Xinyi | Chen Zhengxun | Win | W+R | 7.5 | 3331.0 | 3.0 | 
-| 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Jiang Weijie | Chen Zhengxun | Win | W+2.5 | 7.5 | 3328.0 | 13.0 | 
+| 2017-09-17 | 2017年全国囲棋個人戦男子組第4戦 | Guo Xinyi | Chen Zhengxun | Win | W+R | 7.5 | 3331.0 | 2.0 | 
+| 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Jiang Weijie | Chen Zhengxun | Win | W+2.5 | 7.5 | 3329.0 | 14.0 | 
 | 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | Chen Zhengxun | Fan Yin | Lose | W+R | 7.5 | 3315.0 | -4.0 | 
 | 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Kim Jiseok | Chen Zhengxun | Win | W+R | 7.5 | 3319.0 | 79.0 | 
 | 2017-07-22 | 嫘祖杯30回中国名人戦新浪網選決勝 | Chen Zhengxun | Huang Xin | Lose | W+0.5 | 7.5 | 3240.0 | -36.0 | 

@@ -7,29 +7,29 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Zhou Hexi | Win | B+¼ | 7.5 | 3485.0 | 12.0 | 
-| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Chen Zijian | Lose | W+R | 7.5 | 3473.0 | -6.0 | 
-| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Li Xuanhao | Lose | W+R | 7.5 | 3479.0 | 29.0 | 
-| 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Chen Yunong | Win | W+R | 7.5 | 3450.0 | 6.0 | 
-| 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Yunong | Xia Chenkun | Lose | W+R | 7.5 | 3444.0 | -19.0 | 
-| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Chen Yunong | Huang Yunsong | Lose | W+R | 7.5 | 3463.0 | -12.0 | 
-| 2021-08-31 | 第12期中国竜星戦予選 | Chen Yunong | Li Xuanhao | Lose | W+R | 7.5 | 3475.0 | 22.0 | 
-| 2021-06-12 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Chen Yunong | Lose | B+R | 7.5 | 3453.0 | -28.0 | 
-| 2021-06-09 | 第23回中国囲碁甲級リーグ | Dang Yifei | Chen Yunong | Lose | B+¾ | 7.5 | 3481.0 | -52.0 | 
-| 2021-06-08 | 第23回中国囲碁甲級リーグ | Chen Yunong | Byun Sangil | Lose | W+R | 7.5 | 3533.0 | -34.0 | 
-| 2021-06-07 | 第23回中国囲碁甲級リーグ | Xu Haohong | Chen Yunong | Win | W+R | 7.5 | 3567.0 | 34.0 | 
-| 2021-05-12 | 第23回中国囲碁甲級リーグ | Tang Weixing | Chen Yunong | Win | W+R | 7.5 | 3533.0 | 65.0 | 
-| 2021-05-11 | 第23回中国囲碁甲級リーグ | Chen Yunong | Shin Minjun | Lose | W+R | 7.5 | 3468.0 | -67.0 | 
-| 2021-05-10 | 第23回中国囲碁甲級リーグ | Chen Yunong | Yang Kaiwen | Win | B+R | 7.5 | 3535.0 | 82.0 | 
-| 2021-05-08 | 第23回中国囲碁甲級リーグ | Xu Yidi | Chen Yunong | Win | W+R | 7.5 | 3453.0 | -23.0 | 
-| 2021-05-07 | 第23回中国囲碁甲級リーグ | Chen Yunong | Huang Xin | Win | B+R | 7.5 | 3476.0 | 53.0 | 
-| 2021-04-07 | 第17回倡棋杯中国プロ囲碁選手権戦予選 | Chen Yunong | Fang Ruoxi | Win | B+R | 7.5 | 3423.0 | 16.0 | 
-| 2021-04-01 | 2021年龍華杯深圳市囲碁戦 | Chen Yunong | Tu Xiaoyu | Lose | W+¼ | 7.5 | 3407.0 | -126.0 | 
-| 2021-03-31 | 2021年龍華杯深圳市囲碁戦 | Li Xuanhao | Chen Yunong | Win | W+R | 7.5 | 3533.0 | 187.0 | 
-| 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Chen Yunong | Shen Peiran | Win | B+R | 7.5 | 3346.0 | 51.0 | 
-| 2020-11-22 | 2020年中国囲碁乙級リーグ | Yu Zhengqi | Chen Yunong | Lose | B+R | 7.5 | 3295.0 | -37.0 | 
-| 2019-11-17 | 第4回全国智力運動会男子団体戦第7戦 | Yi Lingtao | Chen Yunong | Lose | B+1¾ | 7.5 | 3332.0 | -38.0 | 
-| 2019-11-16 | 第4回全国智力運動会男子団体戦第6戦 | Chen Yunong | Li Qincheng | Win | B+R | 7.5 | 3370.0 | 91.0 | 
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Zhou Hexi | Win | B+¼ | 7.5 | 3486.0 | 12.0 | 
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Chen Zijian | Lose | W+R | 7.5 | 3474.0 | -6.0 | 
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Chen Yunong | Li Xuanhao | Lose | W+R | 7.5 | 3480.0 | 29.0 | 
+| 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhou Ruiyang | Chen Yunong | Win | W+R | 7.5 | 3451.0 | 6.0 | 
+| 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Yunong | Xia Chenkun | Lose | W+R | 7.5 | 3445.0 | -19.0 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Chen Yunong | Huang Yunsong | Lose | W+R | 7.5 | 3464.0 | -12.0 | 
+| 2021-08-31 | 第12期中国竜星戦予選 | Chen Yunong | Li Xuanhao | Lose | W+R | 7.5 | 3476.0 | 23.0 | 
+| 2021-06-12 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Chen Yunong | Lose | B+R | 7.5 | 3453.0 | -29.0 | 
+| 2021-06-09 | 第23回中国囲碁甲級リーグ | Dang Yifei | Chen Yunong | Lose | B+¾ | 7.5 | 3482.0 | -52.0 | 
+| 2021-06-08 | 第23回中国囲碁甲級リーグ | Chen Yunong | Byun Sangil | Lose | W+R | 7.5 | 3534.0 | -34.0 | 
+| 2021-06-07 | 第23回中国囲碁甲級リーグ | Xu Haohong | Chen Yunong | Win | W+R | 7.5 | 3568.0 | 34.0 | 
+| 2021-05-12 | 第23回中国囲碁甲級リーグ | Tang Weixing | Chen Yunong | Win | W+R | 7.5 | 3534.0 | 65.0 | 
+| 2021-05-11 | 第23回中国囲碁甲級リーグ | Chen Yunong | Shin Minjun | Lose | W+R | 7.5 | 3469.0 | -67.0 | 
+| 2021-05-10 | 第23回中国囲碁甲級リーグ | Chen Yunong | Yang Kaiwen | Win | B+R | 7.5 | 3536.0 | 82.0 | 
+| 2021-05-08 | 第23回中国囲碁甲級リーグ | Xu Yidi | Chen Yunong | Win | W+R | 7.5 | 3454.0 | -23.0 | 
+| 2021-05-07 | 第23回中国囲碁甲級リーグ | Chen Yunong | Huang Xin | Win | B+R | 7.5 | 3477.0 | 53.0 | 
+| 2021-04-07 | 第17回倡棋杯中国プロ囲碁選手権戦予選 | Chen Yunong | Fang Ruoxi | Win | B+R | 7.5 | 3424.0 | 16.0 | 
+| 2021-04-01 | 2021年龍華杯深圳市囲碁戦 | Chen Yunong | Tu Xiaoyu | Lose | W+¼ | 7.5 | 3408.0 | -126.0 | 
+| 2021-03-31 | 2021年龍華杯深圳市囲碁戦 | Li Xuanhao | Chen Yunong | Win | W+R | 7.5 | 3534.0 | 187.0 | 
+| 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Chen Yunong | Shen Peiran | Win | B+R | 7.5 | 3347.0 | 52.0 | 
+| 2020-11-22 | 2020年中国囲碁乙級リーグ | Yu Zhengqi | Chen Yunong | Lose | B+R | 7.5 | 3295.0 | -38.0 | 
+| 2019-11-17 | 第4回全国智力運動会男子団体戦第7戦 | Yi Lingtao | Chen Yunong | Lose | B+1¾ | 7.5 | 3333.0 | -38.0 | 
+| 2019-11-16 | 第4回全国智力運動会男子団体戦第6戦 | Chen Yunong | Li Qincheng | Win | B+R | 7.5 | 3371.0 | 92.0 | 
 | 2019-09-29 | 2019年全国囲棋個人戦男子組第13戦 | Chen Yunong | Jiang Qirun | Lose | W+R | 7.5 | 3279.0 | -57.0 | 
 | 2019-09-28 | 2019年全国囲棋個人戦男子組第11戦 |  | Chen Yunong | Win | W+R | 7.5 | 3336.0 | 108.0 | 
 | 2019-09-25 | 2019年全国囲棋個人戦男子組第9戦 | He Yuhan | Chen Yunong | Lose | B+R | 7.5 | 3228.0 | -76.0 | 
@@ -41,8 +41,8 @@
 | 2018-12-14 | 第20回中国囲碁甲級リーグ第26節杭州-蘇泊爾 | Lian Xiao | Chen Yunong | Lose | B+R | 7.5 | 3107.0 | -47.0 | 
 | 2018-11-09 | 第20回中国囲碁甲級リーグ第23節廈門-杭州 | Lee Donghoon | Chen Yunong | Lose | B+R | 7.5 | 3154.0 | -117.0 | 
 | 2018-09-20 | 2018年全国囲棋個人戦男子組第7戦 | Chen Yunong | He Yuhan | Win | B+R | 7.5 | 3271.0 | 119.0 | 
-| 2018-09-17 | 2018年全国囲棋個人戦男子組第4戦 |  | Chen Yunong | Win | W+R | 7.5 | 3152.0 | -33.0 | 
-| 2017-09-25 | 2017年全国囲棋個人戦男子組第12戦 | Liu Zhaozhe | Chen Yunong | Lose | B+R | 7.5 | 3185.0 | -78.0 | 
+| 2018-09-17 | 2018年全国囲棋個人戦男子組第4戦 |  | Chen Yunong | Win | W+R | 7.5 | 3152.0 | -34.0 | 
+| 2017-09-25 | 2017年全国囲棋個人戦男子組第12戦 | Liu Zhaozhe | Chen Yunong | Lose | B+R | 7.5 | 3186.0 | -77.0 | 
 | 2017-09-23 | 2017年全国囲棋個人戦男子組第10戦 |  | Chen Yunong | Lose | B+R | 7.5 | 3263.0 | 50.0 | 
 | 2016-12-29 | 第31期中国囲碁天元戦予選 | Chen Yunong | Yang Kaiwen | Lose | W+0.5 | 7.5 | 3213.0 | -58.0 | 
 | 2016-12-28 | 第31期中国囲碁天元戦予選 | Chen Yunong | Chen Hao | Win | B+R | 7.5 | 3271.0 | 249.0 | 

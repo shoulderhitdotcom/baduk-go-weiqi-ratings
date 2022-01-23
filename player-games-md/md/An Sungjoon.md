@@ -7,47 +7,47 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-01-21 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | An Sungjoon | Win | W+R | 6.5 | 3438.0 | 5.0 | 
-| 2022-01-17 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Cho Hanseung | An Sungjoon | Win | W+R | 6.5 | 3433.0 | -6.0 | 
-| 2022-01-15 | 2021-2022韓国囲碁リーグ | An Sungjoon | Shin Minjun | Lose | W+R | 6.5 | 3439.0 | 28.0 | 
-| 2022-01-09 | 2021-2022韓国囲碁リーグ | Hyun Yoobin | An Sungjoon | Win | W+R | 6.5 | 3411.0 | 30.0 | 
-| 2021-12-25 | 2021-2022韓国囲碁リーグ | An Sungjoon | Cho Hanseung | Win | B+0.5 | 6.5 | 3381.0 | 5.0 | 
-| 2021-12-12 | 第7回国手山脈韓国国内トーナメント決勝 | An Sungjoon | Park Yeonghun | Lose | W+R | 6.5 | 3376.0 | 19.0 | 
-| 2021-12-11 | 第7回国手山脈韓国国内トーナメント準決勝 | Kim Junghyun | An Sungjoon | Win | W+R | 6.5 | 3357.0 | 23.0 | 
-| 2021-12-10 | 第7回国手山脈韓国国内トーナメント2回戦 | An Sungjoon | Park Hamin | Win | B+R | 6.5 | 3334.0 | 0.0 | 
-| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | An Sungjoon | Lee Wondo | Win | B+R | 6.5 | 3334.0 | -34.0 | 
-| 2021-12-04 | 2021-2022韓国囲碁リーグ | An Sungjoon | Choi Jaeyoung | Lose | W+R | 6.5 | 3368.0 | -3.0 | 
-| 2021-11-25 | 2021-2022韓国囲碁リーグ | Park Seunghwa | An Sungjoon | Lose | B+1.5 | 6.5 | 3371.0 | 8.0 | 
-| 2021-11-20 | 2021-2022韓国囲碁リーグ | An Sungjoon | Kang Dongyun | Lose | W+R | 6.5 | 3363.0 | -22.0 | 
-| 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | An Sungjoon | Lian Xiao | Lose | W+0.5 | 6.5 | 3385.0 | -5.0 | 
-| 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Fang Ruoxi | An Sungjoon | Win | W+R | 6.5 | 3390.0 | 11.0 | 
-| 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Choi Jaeyoung | An Sungjoon | Lose | B+R | 6.5 | 3379.0 | -21.0 | 
-| 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Choi Cheolhan | An Sungjoon | Lose | B+R | 6.5 | 3400.0 | 25.0 | 
-| 2021-07-31 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Choi Jeong | An Sungjoon | Lose | B+R | 6.5 | 3375.0 | 6.0 | 
-| 2021-07-21 | 第23回農心杯韓国予選 | An Sungjoon | Park Junghwan | Lose | W+R | 6.5 | 3369.0 | 3.0 | 
-| 2021-07-04 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | An Sungjoon | Yun Chanhee | Win | B+R | 6.5 | 3366.0 | 8.0 | 
-| 2021-06-25 | 第26回GSカルテックス杯プロ棋戦3回戦 | An Sungjoon | Kim Jiseok | Lose | W+2.5 | 6.5 | 3358.0 | -28.0 | 
-| 2021-05-29 | 第44期名人戦（韓国）敗者復活戦2回戦 | Ko Keuntae | An Sungjoon | Lose | B+5.5 | 6.5 | 3386.0 | -19.0 | 
-| 2021-05-28 | 第26回GSカルテックス杯プロ棋戦2回戦 | An Sungjoon | Choi Cheolhan | Win | B+R | 6.5 | 3405.0 | -8.0 | 
-| 2021-05-22 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | An Sungjoon | Choi Jeong | Lose | W+R | 6.5 | 3413.0 | -18.0 | 
-| 2021-05-14 | 第44期名人戦（韓国）2回戦 | Choi Cheolhan | An Sungjoon | Lose | B+R | 6.5 | 3431.0 | 15.0 | 
-| 2021-05-06 | 第26回LG杯韓国予選 | An Sungjoon | Heo Yongho | Lose | W+R | 6.5 | 3416.0 | -6.0 | 
+| 2022-01-21 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | An Sungjoon | Win | W+R | 6.5 | 3439.0 | 5.0 | 
+| 2022-01-17 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Cho Hanseung | An Sungjoon | Win | W+R | 6.5 | 3434.0 | -6.0 | 
+| 2022-01-15 | 2021-2022韓国囲碁リーグ | An Sungjoon | Shin Minjun | Lose | W+R | 6.5 | 3440.0 | 28.0 | 
+| 2022-01-09 | 2021-2022韓国囲碁リーグ | Hyun Yoobin | An Sungjoon | Win | W+R | 6.5 | 3412.0 | 30.0 | 
+| 2021-12-25 | 2021-2022韓国囲碁リーグ | An Sungjoon | Cho Hanseung | Win | B+0.5 | 6.5 | 3382.0 | 4.0 | 
+| 2021-12-12 | 第7回国手山脈韓国国内トーナメント決勝 | An Sungjoon | Park Yeonghun | Lose | W+R | 6.5 | 3378.0 | 20.0 | 
+| 2021-12-11 | 第7回国手山脈韓国国内トーナメント準決勝 | Kim Junghyun | An Sungjoon | Win | W+R | 6.5 | 3358.0 | 23.0 | 
+| 2021-12-10 | 第7回国手山脈韓国国内トーナメント2回戦 | An Sungjoon | Park Hamin | Win | B+R | 6.5 | 3335.0 | 0.0 | 
+| 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | An Sungjoon | Lee Wondo | Win | B+R | 6.5 | 3335.0 | -34.0 | 
+| 2021-12-04 | 2021-2022韓国囲碁リーグ | An Sungjoon | Choi Jaeyoung | Lose | W+R | 6.5 | 3369.0 | -4.0 | 
+| 2021-11-25 | 2021-2022韓国囲碁リーグ | Park Seunghwa | An Sungjoon | Lose | B+1.5 | 6.5 | 3373.0 | 8.0 | 
+| 2021-11-20 | 2021-2022韓国囲碁リーグ | An Sungjoon | Kang Dongyun | Lose | W+R | 6.5 | 3365.0 | -21.0 | 
+| 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | An Sungjoon | Lian Xiao | Lose | W+0.5 | 6.5 | 3386.0 | -5.0 | 
+| 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Fang Ruoxi | An Sungjoon | Win | W+R | 6.5 | 3391.0 | 11.0 | 
+| 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Choi Jaeyoung | An Sungjoon | Lose | B+R | 6.5 | 3380.0 | -21.0 | 
+| 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Choi Cheolhan | An Sungjoon | Lose | B+R | 6.5 | 3401.0 | 25.0 | 
+| 2021-07-31 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Choi Jeong | An Sungjoon | Lose | B+R | 6.5 | 3376.0 | 7.0 | 
+| 2021-07-21 | 第23回農心杯韓国予選 | An Sungjoon | Park Junghwan | Lose | W+R | 6.5 | 3369.0 | 2.0 | 
+| 2021-07-04 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | An Sungjoon | Yun Chanhee | Win | B+R | 6.5 | 3367.0 | 8.0 | 
+| 2021-06-25 | 第26回GSカルテックス杯プロ棋戦3回戦 | An Sungjoon | Kim Jiseok | Lose | W+2.5 | 6.5 | 3359.0 | -28.0 | 
+| 2021-05-29 | 第44期名人戦（韓国）敗者復活戦2回戦 | Ko Keuntae | An Sungjoon | Lose | B+5.5 | 6.5 | 3387.0 | -19.0 | 
+| 2021-05-28 | 第26回GSカルテックス杯プロ棋戦2回戦 | An Sungjoon | Choi Cheolhan | Win | B+R | 6.5 | 3406.0 | -8.0 | 
+| 2021-05-22 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | An Sungjoon | Choi Jeong | Lose | W+R | 6.5 | 3414.0 | -18.0 | 
+| 2021-05-14 | 第44期名人戦（韓国）2回戦 | Choi Cheolhan | An Sungjoon | Lose | B+R | 6.5 | 3432.0 | 15.0 | 
+| 2021-05-06 | 第26回LG杯韓国予選 | An Sungjoon | Heo Yongho | Lose | W+R | 6.5 | 3417.0 | -5.0 | 
 | 2021-03-19 | 第44期名人戦（韓国）1回戦 | An Sungjoon |  | Win | B+3.5 | 6.5 | 3422.0 | 3.0 | 
-| 2021-02-27 | 2020-2021韓国囲碁リーグ | An Sungjoon | Han Seungjoo | Win | B+R | 6.5 | 3419.0 | -1.0 | 
-| 2021-02-21 | 2020-2021韓国囲碁リーグ | Paek Hongseok | An Sungjoon | Win | W+R | 6.5 | 3420.0 | 44.0 | 
-| 2021-02-14 | 2020-2021韓国囲碁リーグ | Lee Taehyun | An Sungjoon | Win | W+R | 6.5 | 3376.0 | 27.0 | 
-| 2021-02-06 | 2020-2021韓国囲碁リーグ | An Sungjoon | Seol Hyunjun | Win | B+R | 6.5 | 3349.0 | 35.0 | 
+| 2021-02-27 | 2020-2021韓国囲碁リーグ | An Sungjoon | Han Seungjoo | Win | B+R | 6.5 | 3419.0 | -2.0 | 
+| 2021-02-21 | 2020-2021韓国囲碁リーグ | Paek Hongseok | An Sungjoon | Win | W+R | 6.5 | 3421.0 | 44.0 | 
+| 2021-02-14 | 2020-2021韓国囲碁リーグ | Lee Taehyun | An Sungjoon | Win | W+R | 6.5 | 3377.0 | 27.0 | 
+| 2021-02-06 | 2020-2021韓国囲碁リーグ | An Sungjoon | Seol Hyunjun | Win | B+R | 6.5 | 3350.0 | 36.0 | 
 | 2021-01-28 | 2020-2021韓国囲碁リーグ | An Sungjoon | Choi Kyeongho | Win | B+R | 6.5 | 3314.0 | -4.0 | 
 | 2021-01-26 | 第44期名人戦（韓国）予選 | Shen Zaiyi | An Sungjoon | Win | W+R | 6.5 | 3318.0 | 22.0 | 
 | 2021-01-25 | 第44期名人戦（韓国）予選 | An Sungjoon | Shin Minjun | Win | B+R | 6.5 | 3296.0 | 35.0 | 
-| 2021-01-24 | 2020-2021韓国囲碁リーグ | An Sungjoon | Heo Yongho | Win | B+R | 6.5 | 3261.0 | -44.0 | 
-| 2021-01-15 | 2020-2021韓国囲碁リーグ | Yun Junsang | An Sungjoon | Lose | B+0.5 | 6.5 | 3305.0 | -40.0 | 
+| 2021-01-24 | 2020-2021韓国囲碁リーグ | An Sungjoon | Heo Yongho | Win | B+R | 6.5 | 3261.0 | -45.0 | 
+| 2021-01-15 | 2020-2021韓国囲碁リーグ | Yun Junsang | An Sungjoon | Lose | B+0.5 | 6.5 | 3306.0 | -39.0 | 
 | 2021-01-08 | 2020-2021韓国囲碁リーグ | An Sungjoon | Han Seungjoo | Win | B+R | 6.5 | 3345.0 | 39.0 | 
 | 2021-01-04 | 第22回マキシムコーヒー杯入神最強戦1回戦 | An Sungjoon | Choi Cheolhan | Lose | W+R | 6.5 | 3306.0 | -13.0 | 
 | 2020-12-31 | 2020-2021韓国囲碁リーグ | Wen Rubin | An Sungjoon | Win | W+R | 6.5 | 3319.0 | 22.0 | 
-| 2020-12-24 | 2020-2021韓国囲碁リーグ | Cho Hanseung | An Sungjoon | Win | W+R | 6.5 | 3297.0 | 61.0 | 
-| 2020-12-18 | 2020-2021韓国囲碁リーグ | An Sungjoon | Lee Wonyoung | Lose | W+R | 6.5 | 3236.0 | -24.0 | 
-| 2020-12-13 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | An Sungjoon | Lose | B+R | 6.5 | 3260.0 | -7.0 | 
+| 2020-12-24 | 2020-2021韓国囲碁リーグ | Cho Hanseung | An Sungjoon | Win | W+R | 6.5 | 3297.0 | 60.0 | 
+| 2020-12-18 | 2020-2021韓国囲碁リーグ | An Sungjoon | Lee Wonyoung | Lose | W+R | 6.5 | 3237.0 | -24.0 | 
+| 2020-12-13 | 2020-2021韓国囲碁リーグ | Choi Cheolhan | An Sungjoon | Lose | B+R | 6.5 | 3261.0 | -6.0 | 
 | 2020-12-03 | 2020-2021韓国囲碁リーグ | Shin Minjun | An Sungjoon | Lose | B+0.5 | 6.5 | 3267.0 | -28.0 | 
 | 2020-11-28 | 2020-2021韓国囲碁リーグ | Song Jihoon | An Sungjoon | Win | W+R | 6.5 | 3295.0 | 2.0 | 
 | 2020-11-22 | 第2回大統領杯全国囲碁大会準決勝 | An Sungjoon | Park Hamin | Lose | W+R | 6.5 | 3293.0 | -25.0 | 
@@ -55,10 +55,10 @@
 | 2020-11-21 | 第2回大統領杯全国囲碁大会1回戦 | An Sungjoon | Jen Youngkyu | Win | B+R | 6.5 | 3318.0 | 20.0 | 
 | 2020-11-05 | 第2回大統領杯全国囲碁大会予選 | Lee Wondo | An Sungjoon | Win | W+R | 6.5 | 3298.0 | -4.0 | 
 | 2020-09-09 | 第9回応氏杯世界選手権2回戦 | Ichiriki Ryo | An Sungjoon | Lose | B+R | 7.5 | 3302.0 | -38.0 | 
-| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | An Sungjoon | Li Wei | Win | B+R | 7.5 | 3340.0 | 14.0 | 
-| 2020-09-04 | 第2期ソパルコサノル最高棋士決定戦予選 | An Sungjoon | Park Seunghwa | Lose | W+4.5 | 6.5 | 3326.0 | -49.0 | 
-| 2020-09-02 | 第25回三星火災杯韓国一般枠予選 |  | An Sungjoon | Lose | B+R | 6.5 | 3375.0 | -101.0 | 
-| 2020-08-29 | 第25回三星火災杯韓国一般枠予選 | Kim Sedong | An Sungjoon | Win | W+0.5 | 6.5 | 3476.0 | -64.0 | 
+| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | An Sungjoon | Li Wei | Win | B+R | 7.5 | 3340.0 | 13.0 | 
+| 2020-09-04 | 第2期ソパルコサノル最高棋士決定戦予選 | An Sungjoon | Park Seunghwa | Lose | W+4.5 | 6.5 | 3327.0 | -49.0 | 
+| 2020-09-02 | 第25回三星火災杯韓国一般枠予選 |  | An Sungjoon | Lose | B+R | 6.5 | 3376.0 | -101.0 | 
+| 2020-08-29 | 第25回三星火災杯韓国一般枠予選 | Kim Sedong | An Sungjoon | Win | W+0.5 | 6.5 | 3477.0 | -63.0 | 
 | 2020-08-04 | 第2期ソパルコサノル最高棋士決定戦予選 | An Sungjoon | Park Hamin | Win | B+R | 6.5 | 3540.0 | 87.0 | 
 | 2020-04-27 | 第25回LG杯韓国予選 | Park Geunho | An Sungjoon | Lose | B+1.5 | 6.5 | 3453.0 | -72.0 | 
 | 2020-04-22 | 第25回LG杯韓国予選 | Shin Yoonho | An Sungjoon | Win | W+R | 6.5 | 3525.0 | 46.0 | 
@@ -66,11 +66,11 @@
 | 2020-04-16 | 第25回LG杯韓国予選 |  | An Sungjoon | Win | W+R | 6.5 | 3480.0 | 0.0 | 
 | 2020-01-22 | 第9回応氏杯世界選手権韓国選抜戦 | Kim Myounghoon | An Sungjoon | Win | W+R | 7.5 | 3480.0 | 63.0 | 
 | 2020-01-21 | 第9回応氏杯世界選手権韓国選抜戦 | Park Yeonghun | An Sungjoon | Win | W+R | 7.5 | 3417.0 | 143.0 | 
-| 2020-01-20 | 第9回応氏杯世界選手権韓国選抜戦 | An Sungjoon | Song Jihoon | Win | B+R | 7.5 | 3274.0 | -306.0 | 
-| 2018-07-28 | 第5回国手山脈杯韓国国内トーナメント16強戦 | Yun Junsang | An Sungjoon | Lose | B+4.5 | 6.5 | 3580.0 | 41.0 | 
-| 2017-12-13 | 第36回KBS杯囲碁王戦16強戦 | Kim Myounghoon | An Sungjoon | Lose | B+R | 6.5 | 3539.0 | -1.0 | 
-| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Niu Yutian | An Sungjoon | Win | W+R | 7.5 | 3540.0 | -1.0 | 
-| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Ma Yichao | An Sungjoon | Win | W+R | 7.5 | 3541.0 | 20.0 | 
+| 2020-01-20 | 第9回応氏杯世界選手権韓国選抜戦 | An Sungjoon | Song Jihoon | Win | B+R | 7.5 | 3274.0 | -307.0 | 
+| 2018-07-28 | 第5回国手山脈杯韓国国内トーナメント16強戦 | Yun Junsang | An Sungjoon | Lose | B+4.5 | 6.5 | 3581.0 | 42.0 | 
+| 2017-12-13 | 第36回KBS杯囲碁王戦16強戦 | Kim Myounghoon | An Sungjoon | Lose | B+R | 6.5 | 3539.0 | -2.0 | 
+| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Niu Yutian | An Sungjoon | Win | W+R | 7.5 | 3541.0 | -1.0 | 
+| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Ma Yichao | An Sungjoon | Win | W+R | 7.5 | 3542.0 | 21.0 | 
 | 2017-11-05 | 2017年韓国囲碁リーグ準プレーオフ第3戦 | An Sungjoon | Yun Junsang | Lose | W+R | 6.5 | 3521.0 | -10.0 | 
 | 2017-11-04 | 2017年韓国囲碁リーグ準プレーオフ第2戦 | Kim Jiseok | An Sungjoon | Lose | B+R | 6.5 | 3531.0 | -17.0 | 
 | 2017-11-03 | 2017年韓国囲碁リーグ準プレーオフ第1戦 | An Sungjoon | Yun Junsang | Win | B+R | 6.5 | 3548.0 | 10.0 | 
@@ -82,12 +82,12 @@
 | 2017-10-08 | 2017年韓国囲碁リーグ | An Sungjoon | Ahn Kukhyun | Win | B+R | 6.5 | 3585.0 | -26.0 | 
 | 2017-09-30 | 2017年韓国囲碁リーグ | Kang Dongyun | An Sungjoon | Win | W+R | 6.5 | 3611.0 | 8.0 | 
 | 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Mi Yuting | An Sungjoon | Lose | B+R | 7.5 | 3603.0 | 14.0 | 
-| 2017-09-26 | 第22回三星火災杯世界囲碁マスターズ3回戦 | Tong Mengcheng | An Sungjoon | Lose | B+R | 6.5 | 3589.0 | -4.0 | 
-| 2017-09-25 | 第22回三星火災杯世界囲碁マスターズ2回戦 | Ke Jie | An Sungjoon | Win | W+R | 6.5 | 3593.0 | 53.0 | 
-| 2017-09-21 | 2017年韓国囲碁リーグ | Shen Zaiyi | An Sungjoon | Win | W+R | 6.5 | 3540.0 | -3.0 | 
-| 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Rong Yi | An Sungjoon | Win | W+R | 7.5 | 3543.0 | 5.0 | 
-| 2017-09-07 | 第22回三星火災杯世界囲碁マスターズ1回戦D3 | An Sungjoon |  | Win | B+R | 6.5 | 3538.0 | 7.0 | 
-| 2017-09-06 | 第22回三星火災杯世界囲碁マスターズ1回戦D2 | An Sungjoon | Shin Jinseo | Lose | W+R | 6.5 | 3531.0 | -12.0 | 
+| 2017-09-26 | 第22回三星火災杯世界囲碁マスターズ3回戦 | Tong Mengcheng | An Sungjoon | Lose | B+R | 6.5 | 3589.0 | -5.0 | 
+| 2017-09-25 | 第22回三星火災杯世界囲碁マスターズ2回戦 | Ke Jie | An Sungjoon | Win | W+R | 6.5 | 3594.0 | 54.0 | 
+| 2017-09-21 | 2017年韓国囲碁リーグ | Shen Zaiyi | An Sungjoon | Win | W+R | 6.5 | 3540.0 | -4.0 | 
+| 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 | Rong Yi | An Sungjoon | Win | W+R | 7.5 | 3544.0 | 5.0 | 
+| 2017-09-07 | 第22回三星火災杯世界囲碁マスターズ1回戦D3 | An Sungjoon |  | Win | B+R | 6.5 | 3539.0 | 7.0 | 
+| 2017-09-06 | 第22回三星火災杯世界囲碁マスターズ1回戦D2 | An Sungjoon | Shin Jinseo | Lose | W+R | 6.5 | 3532.0 | -11.0 | 
 | 2017-09-05 | 第22回三星火災杯世界囲碁マスターズ1回戦D1 | Hei Jiajia | An Sungjoon | Win | W+R | 6.5 | 3543.0 | -17.0 | 
 | 2017-09-02 | 第19回中国囲碁甲級リーグ第16節 | An Sungjoon | Liu Xing | Win | B+R | 7.5 | 3560.0 | 5.0 | 
 | 2017-08-31 | 2017年韓国囲碁リーグ | An Sungjoon | Lee Jihyun | Win | B+R | 6.5 | 3555.0 | -2.0 | 
@@ -111,8 +111,8 @@
 | 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | An Sungjoon | Liu Xing | Win | B+R | 7.5 | 3488.0 | -12.0 | 
 | 2017-04-08 | 第22回LG杯予選 | Qin Yuexin | An Sungjoon | Win | W+R | 6.5 | 3500.0 | 7.0 | 
 | 2017-04-06 | 第22期LG杯世界予選3回戦 | Tanaka Nobuyuki | An Sungjoon | Win | W+R | 6.5 | 3493.0 | -18.0 | 
-| 2017-02-02 | 第36回KBS杯囲碁王戦32強戦 |  | An Sungjoon | Win | W+6.5 | 6.5 | 3511.0 | 11.0 | 
-| 2017-01-03 | Alphago Online Series on Tygem and Fox 44 | An Sungjoon |  | Lose | W+2.5 | 6.5 | 3500.0 | -2.0 | 
+| 2017-02-02 | 第36回KBS杯囲碁王戦32強戦 |  | An Sungjoon | Win | W+6.5 | 6.5 | 3511.0 | 10.0 | 
+| 2017-01-03 | Alphago Online Series on Tygem and Fox 44 | An Sungjoon |  | Lose | W+2.5 | 6.5 | 3501.0 | -1.0 | 
 | 2016-11-08 | 第1回新奥杯世界囲碁オープン戦2回戦 | An Sungjoon | Shi Yue | Lose | W+R | 7.5 | 3502.0 | -15.0 | 
 | 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | An Sungjoon |  | Win | B+R | 7.5 | 3517.0 | -2.0 | 
 | 2016-11-04 | 2016年韓国囲碁リーグ | Kim Seongjae | An Sungjoon | Win | W+R | 6.5 | 3519.0 | 33.0 | 

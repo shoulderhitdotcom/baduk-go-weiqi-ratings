@@ -7,27 +7,27 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-10-15 | 第46期新人王戦決勝三番勝負第3局  | Ueno Asami | Sotoyanagi Sebun | Win | W+R | 6.5 | 3307.0 | 53.0 | 
-| 2021-10-09 | 第46期新人王戦決勝三番勝負第2局  | Ueno Asami | Sotoyanagi Sebun | Lose | B+R | 6.5 | 3254.0 | 209.0 | 
-| 2021-07-22 | 第46期新人王戦準決勝 | Koyama Kuya | Sotoyanagi Sebun | Win | W+0.5 | 6.5 | 3045.0 | 273.0 | 
-| 2021-05-03 | 第46期新人王戦3回戦 |  | Sotoyanagi Sebun | Win | W+R | 6.5 | 2772.0 | 142.0 | 
-| 2021-03-29 | 第46期新人王戦2回戦 | Sotoyanagi Sebun | Nyu Eiko | Win | B+2.5 | 6.5 | 2630.0 | 28.0 | 
-| 2021-02-25 | 第46期新人王戦1回戦 | Sotoyanagi Sebun | Kan Minu | Win | B+R | 6.5 | 2602.0 | 144.0 | 
-| 2021-01-25 | 第46期新人王戦 | Sotoyanagi Sebun | Watanabe Yuu | Win | B+R | 6.5 | 2458.0 | -443.0 | 
-| 2020-08-13 | 第59期十段戦予選 | Sotoyanagi Sebun | Ohashi Hirofumi | Lose | W+2.5 | 6.5 | 2901.0 | -259.0 | 
+| 2021-10-15 | 第46期新人王戦決勝三番勝負第3局  | Ueno Asami | Sotoyanagi Sebun | Win | W+R | 6.5 | 3308.0 | 53.0 | 
+| 2021-10-09 | 第46期新人王戦決勝三番勝負第2局  | Ueno Asami | Sotoyanagi Sebun | Lose | B+R | 6.5 | 3255.0 | 210.0 | 
+| 2021-07-22 | 第46期新人王戦準決勝 | Koyama Kuya | Sotoyanagi Sebun | Win | W+0.5 | 6.5 | 3045.0 | 272.0 | 
+| 2021-05-03 | 第46期新人王戦3回戦 |  | Sotoyanagi Sebun | Win | W+R | 6.5 | 2773.0 | 142.0 | 
+| 2021-03-29 | 第46期新人王戦2回戦 | Sotoyanagi Sebun | Nyu Eiko | Win | B+2.5 | 6.5 | 2631.0 | 28.0 | 
+| 2021-02-25 | 第46期新人王戦1回戦 | Sotoyanagi Sebun | Kan Minu | Win | B+R | 6.5 | 2603.0 | 145.0 | 
+| 2021-01-25 | 第46期新人王戦 | Sotoyanagi Sebun | Watanabe Yuu | Win | B+R | 6.5 | 2458.0 | -444.0 | 
+| 2020-08-13 | 第59期十段戦予選 | Sotoyanagi Sebun | Ohashi Hirofumi | Lose | W+2.5 | 6.5 | 2902.0 | -258.0 | 
 | 2020-06-22 | 第45期新人王戦2回戦 | Koike Yoshihiro | Sotoyanagi Sebun | Lose | B+R | 6.5 | 3160.0 | -68.0 | 
 | 2020-04-02 | 第59期十段戦予選 | Iguchi Hideichiro | Sotoyanagi Sebun | Win | W+R | 6.5 | 3228.0 | 42.0 | 
-| 2020-02-13 | 第45期棋聖戦ファーストトーナメント予選 |  | Sotoyanagi Sebun | Lose | B+6.5 | 6.5 | 3186.0 | 86.0 | 
-| 2019-12-19 | 第45期棋聖戦ファーストトーナメント予選 | Sotoyanagi Sebun | Ryu Shikun | Win | B+R | 6.5 | 3100.0 | 249.0 | 
+| 2020-02-13 | 第45期棋聖戦ファーストトーナメント予選 |  | Sotoyanagi Sebun | Lose | B+6.5 | 6.5 | 3186.0 | 85.0 | 
+| 2019-12-19 | 第45期棋聖戦ファーストトーナメント予選 | Sotoyanagi Sebun | Ryu Shikun | Win | B+R | 6.5 | 3101.0 | 250.0 | 
 | 2019-05-23 | 第58期十段戦予選 | Sotoyanagi Sebun | Kobayashi Satoru | Win | B+R | 6.5 | 2851.0 | -131.0 | 
-| 2019-01-07 | 第44期新人王戦1回戦 | Sotoyanagi Sebun | Yao Zhiteng | Lose | W+R | 6.5 | 2982.0 | -7.0 | 
-| 2018-09-27 | 第67期王座戦予選 | Sotoyanagi Sebun | O Rissei | Lose | W+4.5 | 6.5 | 2989.0 | 3.0 | 
+| 2019-01-07 | 第44期新人王戦1回戦 | Sotoyanagi Sebun | Yao Zhiteng | Lose | W+R | 6.5 | 2982.0 | -8.0 | 
+| 2018-09-27 | 第67期王座戦予選 | Sotoyanagi Sebun | O Rissei | Lose | W+4.5 | 6.5 | 2990.0 | 4.0 | 
 | 2018-05-24 | 第67期王座戦予選 | Kibe Natsuki | Sotoyanagi Sebun | Win | W+R | 6.5 | 2986.0 | 37.0 | 
 | 2018-05-14 | 第43期新人王戦2回戦 | Sotoyanagi Sebun |  | Lose | W+R | 6.5 | 2949.0 | 36.0 | 
 | 2018-04-05 | 第44期名人戦予選 | Kobayashi Izumi | Sotoyanagi Sebun | Win | W+6.5 | 6.5 | 2913.0 | 2.0 | 
-| 2018-03-08 | 第74期本因坊戦予選 | Sotoyanagi Sebun | Ryu Shikun | Win | B+R | 6.5 | 2911.0 | 89.0 | 
-| 2018-01-15 | 第43期新人王戦本戦1回戦 | Sotoyanagi Sebun | Koyama Kuya | Win | B+R | 6.5 | 2822.0 | 131.0 | 
-| 2017-11-25 | 第12回広島アルミ杯・若鯉戦1回戦 | Sotoyanagi Sebun | Chang Rueijie | Lose | W+R | 6.5 | 2691.0 | -74.0 | 
+| 2018-03-08 | 第74期本因坊戦予選 | Sotoyanagi Sebun | Ryu Shikun | Win | B+R | 6.5 | 2911.0 | 88.0 | 
+| 2018-01-15 | 第43期新人王戦本戦1回戦 | Sotoyanagi Sebun | Koyama Kuya | Win | B+R | 6.5 | 2823.0 | 131.0 | 
+| 2017-11-25 | 第12回広島アルミ杯・若鯉戦1回戦 | Sotoyanagi Sebun | Chang Rueijie | Lose | W+R | 6.5 | 2692.0 | -73.0 | 
 | 2017-09-21 | 第44期天元戦　予選A | Sotoyanagi Sebun | Ryu Shikun | Lose | W+0.5 | 6.5 | 2765.0 | 80.0 | 
 | 2017-04-17 | 第42期新人王戦　本戦2回戦 | Sotoyanagi Sebun | Nishi Takenobu | Lose | W+5.5 | 6.5 | 2685.0 | -130.0 | 
 | 2017-04-13 | 第43期碁聖戦　予選B | Sotoyanagi Sebun | O Meien | Lose | W+R | 6.5 | 2815.0 | -210.0 | 

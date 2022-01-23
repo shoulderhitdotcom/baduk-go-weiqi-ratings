@@ -7,13 +7,13 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-12-03 | 第2回UMC聯電杯早碁争覇戦準決勝  | Xu Haohong | Zhou Junxun | Lose | B+R | 6.5 | 3343.0 | 315.0 | 
+| 2021-12-03 | 第2回UMC聯電杯早碁争覇戦準決勝  | Xu Haohong | Zhou Junxun | Lose | B+R | 6.5 | 3344.0 | 316.0 | 
 | 2020-11-07 | 第1回UMC聯電杯早碁争覇戦4回戦  | Wang Yuanjun | Zhou Junxun | Lose | B+R | 6.5 | 3028.0 | -9.0 | 
-| 2020-10-28 | 第1回UMC聯電杯早碁争覇戦3回戦 |  | Zhou Junxun | Win | W+R | 6.5 | 3037.0 | -2.0 | 
-| 2020-10-21 | 第1回UMC聯電杯早碁争覇戦2回戦 | Zhou Junxun | Lin Lixiang | Win | B+2.5 | 6.5 | 3039.0 | 150.0 | 
+| 2020-10-28 | 第1回UMC聯電杯早碁争覇戦3回戦 |  | Zhou Junxun | Win | W+R | 6.5 | 3037.0 | -3.0 | 
+| 2020-10-21 | 第1回UMC聯電杯早碁争覇戦2回戦 | Zhou Junxun | Lin Lixiang | Win | B+2.5 | 6.5 | 3040.0 | 151.0 | 
 | 2020-10-14 | 第1回UMC聯電杯早碁争覇戦1回戦 |  | Zhou Junxun | Win | W+2.5 | 6.5 | 2889.0 | 84.0 | 
-| 2020-10-07 | 第1回UMC聯電杯早碁争覇戦予選 | Zhou Junxun |  | Win | B+4.5 | 6.5 | 2805.0 | -91.0 | 
-| 2020-07-20 | 第1期名人冠軍戦2回戦 | Chen Shiyuan | Zhou Junxun | Lose | B+1.5 | 6.5 | 2896.0 | 155.0 | 
+| 2020-10-07 | 第1回UMC聯電杯早碁争覇戦予選 | Zhou Junxun |  | Win | B+4.5 | 6.5 | 2805.0 | -92.0 | 
+| 2020-07-20 | 第1期名人冠軍戦2回戦 | Chen Shiyuan | Zhou Junxun | Lose | B+1.5 | 6.5 | 2897.0 | 156.0 | 
 | 2017-11-09 | 第10期棋王戦（台湾）リーグ | Zhou Junxun | Lin Junyan | Lose | W+0.5 | 6.5 | 2741.0 | -8.0 | 
 | 2017-11-06 | 第10期棋王戦（台湾）リーグ | Zhou Junxun | Lin Lixiang | Lose | W+R | 6.5 | 2749.0 | 11.0 | 
 | 2017-11-02 | 第10期棋王戦（台湾）リーグ | Zhou Junxun | Lin Shuyang | Lose | W+4.5 | 6.5 | 2738.0 | -17.0 | 
@@ -21,9 +21,9 @@
 | 2017-10-26 | 第10期棋王戦（台湾）リーグ | Chen Shiyuan | Zhou Junxun | Lose | B+5.5 | 6.5 | 2807.0 | -15.0 | 
 | 2017-10-23 | 第10期棋王戦（台湾）リーグ | Lin Shixun | Zhou Junxun | Lose | B+0.5 | 6.5 | 2822.0 | -7.0 | 
 | 2017-10-19 | 第10期棋王戦（台湾）リーグ | Chen Qirui | Zhou Junxun | Lose | B+R | 6.5 | 2829.0 | -67.0 | 
-| 2017-09-17 | 第5期中環碁聖戦第二回戦 | Jian Jingting | Zhou Junxun | Lose | B+4.5(B+4.5) | 6.5 | 2896.0 | -35.0 | 
-| 2017-09-12 | 第13期国手戦（台湾）首輪下半区 | Zhou Junxun |  | Lose | W+R(W+R) | 6.5 | 2931.0 | -65.0 | 
-| 2017-09-10 | 第5期中環碁聖戦首輪上半区補戦 | Zhou Yinnan | Zhou Junxun | Win | W+R | 6.5 | 2996.0 | 28.0 | 
+| 2017-09-17 | 第5期中環碁聖戦第二回戦 | Jian Jingting | Zhou Junxun | Lose | B+4.5(B+4.5) | 6.5 | 2896.0 | -36.0 | 
+| 2017-09-12 | 第13期国手戦（台湾）首輪下半区 | Zhou Junxun |  | Lose | W+R(W+R) | 6.5 | 2932.0 | -65.0 | 
+| 2017-09-10 | 第5期中環碁聖戦首輪上半区補戦 | Zhou Yinnan | Zhou Junxun | Win | W+R | 6.5 | 2997.0 | 29.0 | 
 | 2017-06-19 | 第7期友士杯十段戦敗者復活戦3回戦 | Lin Shixun | Zhou Junxun | Lose | B+R | 6.5 | 2968.0 | -32.0 | 
 | 2017-06-05 | 第7期友士杯十段戦敗者復活戦2回戦 | Zhou Junxun | Lin Xiuping | Win | B+R | 6.5 | 3000.0 | -13.0 | 
 | 2017-06-02 | 第7期友士杯十段戦2回戦 | Xu Haohong | Zhou Junxun | Lose | B+2.5 | 6.5 | 3013.0 | -9.0 | 

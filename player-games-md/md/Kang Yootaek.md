@@ -7,25 +7,25 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Changseok | Kang Yootaek | Lose | B+R | 6.5 | 3422.0 | 23.0 | 
-| 2021-05-03 | 第26回LG杯韓国予選 | Kang Yootaek | Lee Changseok | Lose | W+R | 6.5 | 3399.0 | 11.0 | 
+| 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Changseok | Kang Yootaek | Lose | B+R | 6.5 | 3423.0 | 23.0 | 
+| 2021-05-03 | 第26回LG杯韓国予選 | Kang Yootaek | Lee Changseok | Lose | W+R | 6.5 | 3400.0 | 12.0 | 
 | 2021-03-17 | 2020-2021韓国囲碁リーグ準プレーオフ | Lee Changseok | Kang Yootaek | Lose | B+R | 6.5 | 3388.0 | -11.0 | 
-| 2021-02-27 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Lee Donghoon | Win | B+R | 6.5 | 3399.0 | 11.0 | 
-| 2021-02-18 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Kim Jiseok | Win | B+R | 6.5 | 3388.0 | 74.0 | 
-| 2021-02-11 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Han Seungjoo | Win | B+R | 6.5 | 3314.0 | 29.0 | 
-| 2021-02-04 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Shin Jinseo | Lose | W+R | 6.5 | 3285.0 | 2.0 | 
-| 2021-01-30 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Kang Dongyun | Win | B+R | 6.5 | 3283.0 | 56.0 | 
-| 2021-01-22 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Park Geunho | Lose | W+R | 6.5 | 3227.0 | -23.0 | 
-| 2021-01-15 | 2020-2021韓国囲碁リーグ | Park Seunghwa | Kang Yootaek | Win | W+2.5 | 6.5 | 3250.0 | 35.0 | 
+| 2021-02-27 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Lee Donghoon | Win | B+R | 6.5 | 3399.0 | 10.0 | 
+| 2021-02-18 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Kim Jiseok | Win | B+R | 6.5 | 3389.0 | 74.0 | 
+| 2021-02-11 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Han Seungjoo | Win | B+R | 6.5 | 3315.0 | 29.0 | 
+| 2021-02-04 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Shin Jinseo | Lose | W+R | 6.5 | 3286.0 | 2.0 | 
+| 2021-01-30 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Kang Dongyun | Win | B+R | 6.5 | 3284.0 | 56.0 | 
+| 2021-01-22 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Park Geunho | Lose | W+R | 6.5 | 3228.0 | -23.0 | 
+| 2021-01-15 | 2020-2021韓国囲碁リーグ | Park Seunghwa | Kang Yootaek | Win | W+2.5 | 6.5 | 3251.0 | 36.0 | 
 | 2021-01-07 | 2020-2021韓国囲碁リーグ | Lee Changho | Kang Yootaek | Win | W+R | 6.5 | 3215.0 | 31.0 | 
 | 2021-01-03 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Seol Hyunjun | Win | B+R | 6.5 | 3184.0 | 110.0 | 
 | 2020-12-27 | 2020-2021韓国囲碁リーグ | Na Hyun | Kang Yootaek | Lose | B+R | 6.5 | 3074.0 | -43.0 | 
-| 2020-12-20 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Cho Hanseung | Lose | W+1.5 | 6.5 | 3117.0 | -2.0 | 
-| 2020-12-11 | 2020-2021韓国囲碁リーグ | Heo Yongho | Kang Yootaek | Win | W+R | 6.5 | 3119.0 | 124.0 | 
-| 2020-12-05 | 2020-2021韓国囲碁リーグ | Lee Changseok | Kang Yootaek | Win | W+R | 6.5 | 2995.0 | -161.0 | 
-| 2020-04-21 | 第25回LG杯韓国予選 | Kang Yootaek | Park Seunghwa | Lose | W+R | 6.5 | 3156.0 | -176.0 | 
-| 2019-06-27 | 第6回国手山脈韓国国内トーナメント予選 | Kim Seongjae | Kang Yootaek | Lose | B+R | 6.5 | 3332.0 | -129.0 | 
-| 2019-06-14 | 2019年囲碁テレビ杯早碁戦16強戦 | Kang Yootaek | Lee Donghoon | Lose | W+R | 6.5 | 3461.0 | -67.0 | 
+| 2020-12-20 | 2020-2021韓国囲碁リーグ | Kang Yootaek | Cho Hanseung | Lose | W+1.5 | 6.5 | 3117.0 | -3.0 | 
+| 2020-12-11 | 2020-2021韓国囲碁リーグ | Heo Yongho | Kang Yootaek | Win | W+R | 6.5 | 3120.0 | 124.0 | 
+| 2020-12-05 | 2020-2021韓国囲碁リーグ | Lee Changseok | Kang Yootaek | Win | W+R | 6.5 | 2996.0 | -160.0 | 
+| 2020-04-21 | 第25回LG杯韓国予選 | Kang Yootaek | Park Seunghwa | Lose | W+R | 6.5 | 3156.0 | -177.0 | 
+| 2019-06-27 | 第6回国手山脈韓国国内トーナメント予選 | Kim Seongjae | Kang Yootaek | Lose | B+R | 6.5 | 3333.0 | -129.0 | 
+| 2019-06-14 | 2019年囲碁テレビ杯早碁戦16強戦 | Kang Yootaek | Lee Donghoon | Lose | W+R | 6.5 | 3462.0 | -66.0 | 
 | 2019-05-03 | 2019年囲碁テレビ杯早碁戦32強戦 | Kang Yootaek | Park Hamin | Win | B+R | 6.5 | 3528.0 | 118.0 | 
 | 2019-04-24 | 第2期韓国竜星戦16強戦 | Kang Yootaek | Park Junghwan | Lose | W+R | 6.5 | 3410.0 | 49.0 | 
 | 2019-03-19 | 第2期韓国竜星戦32強戦-3 | Kang Yootaek | Oh Yujin | Win | B+R | 6.5 | 3361.0 | -52.0 | 
@@ -38,8 +38,8 @@
 | 2017-10-19 | 2017年韓国囲碁リーグ | Kang Yootaek |  | Win | B+R | 6.5 | 3459.0 | 0.0 | 
 | 2017-10-15 | 2017年韓国囲碁リーグ | Kim Jiseok | Kang Yootaek | Lose | B+R | 6.5 | 3459.0 | -26.0 | 
 | 2017-10-05 | 2017年韓国囲碁リーグ | Kang Yootaek | Lee Changho | Lose | W+0.5 | 6.5 | 3485.0 | -30.0 | 
-| 2017-09-22 | 2017年韓国囲碁リーグ | Kang Yootaek | Na Hyun | Win | B+0.5 | 6.5 | 3515.0 | 27.0 | 
-| 2017-09-16 | 2017年韓国囲碁リーグ | Kang Yootaek | Lee Changseok | Lose | W+R | 6.5 | 3488.0 | -32.0 | 
+| 2017-09-22 | 2017年韓国囲碁リーグ | Kang Yootaek | Na Hyun | Win | B+0.5 | 6.5 | 3515.0 | 26.0 | 
+| 2017-09-16 | 2017年韓国囲碁リーグ | Kang Yootaek | Lee Changseok | Lose | W+R | 6.5 | 3489.0 | -31.0 | 
 | 2017-09-01 | 2017年韓国囲碁リーグ | Kang Yootaek | Ryu Minhyung | Win | B+R | 6.5 | 3520.0 | -12.0 | 
 | 2017-08-25 | 2017年韓国囲碁リーグ | Kang Yootaek | Lee Wondo | Win | B+1.5 | 6.5 | 3532.0 | 52.0 | 
 | 2017-08-19 | 2017年韓国囲碁リーグ | Kang Yootaek | Park Minkyu | Lose | W+R | 6.5 | 3480.0 | -3.0 | 

@@ -7,16 +7,16 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-12-09 | 第3期ソパルコサノル最高棋士決定戦予選 |  | Hong Mujin | Win | W+R | 6.5 | 3492.0 | 48.0 | 
-| 2021-12-06 | 第27回GSカルテックス杯プロ棋戦予選 | Hong Mujin | Han Seungjoo | Win | B+R | 6.5 | 3444.0 | -16.0 | 
-| 2021-11-30 | 第3回大統領杯全国囲碁大会準決勝 | Han Seungjoo | Hong Mujin | Lose | B+R | 6.5 | 3460.0 | 53.0 | 
-| 2021-11-29 | 第3回大統領杯全国囲碁大会2回戦 | Hong Mujin | Lee Changseok | Win | B+R | 6.5 | 3407.0 | 0.0 | 
-| 2021-11-22 | 第3期ソパルコサノル最高棋士決定戦予選 | Hong Mujin | Wi Taewoong | Win | B+R | 6.5 | 3407.0 | 18.0 | 
-| 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 | Hong Mujin | Park Hamin | Lose | W+R | 6.5 | 3389.0 | 0.0 | 
-| 2021-11-17 | 第7回国手山脈韓国国内トーナメント予選 | Hong Mujin | Cho Hanseung | Win | B+R | 6.5 | 3389.0 | 45.0 | 
-| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Hong Mujin | Choi Jaeyoung | Win | B+R | 6.5 | 3344.0 | 97.0 | 
-| 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Ahn Kukhyun | Hong Mujin | Win | W+3.5 | 6.5 | 3247.0 | 0.0 | 
-| 2021-08-04 | 第4期韓国竜星戦準決勝 | Hong Mujin | Park Junghwan | Lose | W+3.5 | 6.5 | 3247.0 | -10.0 | 
+| 2021-12-09 | 第3期ソパルコサノル最高棋士決定戦予選 |  | Hong Mujin | Win | W+R | 6.5 | 3493.0 | 48.0 | 
+| 2021-12-06 | 第27回GSカルテックス杯プロ棋戦予選 | Hong Mujin | Han Seungjoo | Win | B+R | 6.5 | 3445.0 | -16.0 | 
+| 2021-11-30 | 第3回大統領杯全国囲碁大会準決勝 | Han Seungjoo | Hong Mujin | Lose | B+R | 6.5 | 3461.0 | 53.0 | 
+| 2021-11-29 | 第3回大統領杯全国囲碁大会2回戦 | Hong Mujin | Lee Changseok | Win | B+R | 6.5 | 3408.0 | -1.0 | 
+| 2021-11-22 | 第3期ソパルコサノル最高棋士決定戦予選 | Hong Mujin | Wi Taewoong | Win | B+R | 6.5 | 3409.0 | 19.0 | 
+| 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 | Hong Mujin | Park Hamin | Lose | W+R | 6.5 | 3390.0 | 0.0 | 
+| 2021-11-17 | 第7回国手山脈韓国国内トーナメント予選 | Hong Mujin | Cho Hanseung | Win | B+R | 6.5 | 3390.0 | 45.0 | 
+| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Hong Mujin | Choi Jaeyoung | Win | B+R | 6.5 | 3345.0 | 97.0 | 
+| 2021-10-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Ahn Kukhyun | Hong Mujin | Win | W+3.5 | 6.5 | 3248.0 | 0.0 | 
+| 2021-08-04 | 第4期韓国竜星戦準決勝 | Hong Mujin | Park Junghwan | Lose | W+3.5 | 6.5 | 3248.0 | -9.0 | 
 | 2021-07-17 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Hong Mujin | Shin Minjun | Lose | W+R | 6.5 | 3257.0 | -90.0 | 
 | 2021-06-16 | 第4期韓国竜星戦3回戦 | Hong Mujin | Choi Cheolhan | Win | B+R | 6.5 | 3347.0 | 149.0 | 
 | 2017-03-29 | 世界第三期Mlily夢百合杯予選準決勝 | Hong Mujin | Hu Yaoyu | Win | B+R | 7.5 | 3198.0 | 63.0 | 

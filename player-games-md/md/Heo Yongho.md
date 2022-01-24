@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-24 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Heo Yongho | Han Sanghoon | Lose | W+R | 6.5 | 3476.0 | 53.0 | 
 | 2021-12-10 | 第27回GSカルテックス杯プロ棋戦予選 | Heo Yongho | Seo Bongsoo | Win | B+4.5 | 6.5 | 3423.0 | 5.0 | 
 | 2021-09-02 | 第3期ソパルコサノル最高棋士決定戦予選 | Heo Yongho | Cho Seungah | Win | B+R | 6.5 | 3418.0 | 8.0 | 
 | 2021-05-30 | 第26回LG杯朝鮮日報棋王戦1回戦 | Heo Yongho | Tao Xinran | Lose | W+R | 6.5 | 3410.0 | -4.0 | 

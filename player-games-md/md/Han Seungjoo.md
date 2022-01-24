@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-24 | 第5回クラウン・ヘテ杯決勝三番勝負第1局 | Han Seungjoo | Byun Sangil | Win | B+R | 6.5 | 3474.0 | 21.0 | 
 | 2022-01-22 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Kang Dongyun | Win | B+R | 6.5 | 3453.0 | -1.0 | 
 | 2022-01-17 | 第5回クラウン・ヘテ杯準決勝 | Park Sangjin | Han Seungjoo | Win | W+R | 6.5 | 3454.0 | 3.0 | 
 | 2022-01-13 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Han Seungjoo | Lose | B+R | 6.5 | 3451.0 | 20.0 | 

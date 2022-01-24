@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-24 | 第14回海峰杯プロ囲碁戦決勝三番勝負第1局  | Xu Haohong | Lin Junyan | Win | B+1.5 | 6.5 | 3436.0 | 4.0 | 
 | 2022-01-21 | 第21期天元戦（台湾）勝部2回戦 | Xu Haohong |  | Win | B+R | 6.5 | 3432.0 | -1.0 | 
 | 2022-01-20 | 第14回海峰杯プロ囲碁戦準決勝 | Lin Xinwei | Xu Haohong | Win | W+R | 6.5 | 3433.0 | -11.0 | 
 | 2022-01-18 | 第21期天元戦（台湾）勝部1回戦 | Xu Haohong | Yang Bowei | Win | B+R | 6.5 | 3444.0 | 7.0 | 

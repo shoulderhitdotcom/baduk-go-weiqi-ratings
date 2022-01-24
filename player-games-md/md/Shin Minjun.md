@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-24 | 第3期ソパルコサノル最高棋士決定戦リーグ | Yun Chanhee | Shin Minjun | Win | W+R | 6.5 | 3522.0 | 16.0 | 
 | 2022-01-23 | 2021-2022韓国囲碁リーグ | Shin Minjun | Park Geunho | Lose | W+R | 6.5 | 3506.0 | -17.0 | 
 | 2022-01-15 | 2021-2022韓国囲碁リーグ | An Sungjoon | Shin Minjun | Win | W+R | 6.5 | 3523.0 | 3.0 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Mi Yuting | Shin Minjun | Lose | B+R | 7.5 | 3520.0 | -3.0 | 

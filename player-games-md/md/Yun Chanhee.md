@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-24 | 第3期ソパルコサノル最高棋士決定戦リーグ | Yun Chanhee | Shin Minjun | Lose | W+R | 6.5 | 3429.0 | -11.0 | 
 | 2022-01-21 | 2021-2022韓国囲碁リーグ | Yun Chanhee | Lee Wonyoung | Win | B+R | 6.5 | 3440.0 | 0.0 | 
 | 2022-01-18 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Yun Chanhee | Park Seunghwa | Lose | W+5.5 | 6.5 | 3440.0 | -21.0 | 
 | 2022-01-15 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Yun Chanhee | Win | W+R | 6.5 | 3461.0 | -11.0 | 

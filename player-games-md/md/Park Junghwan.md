@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-24 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Park Junghwan | Choi Jeong | Win | B+R | 6.5 | 3729.0 | 1.0 | 
 | 2022-01-23 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kim Jiseok | Park Junghwan | Win | W+R | 6.5 | 3728.0 | 6.0 | 
 | 2022-01-20 | 第23回中国囲碁甲級リーグ3位決定戦第2戦 | Mi Yuting | Park Junghwan | Win | W+R | 7.5 | 3722.0 | 0.0 | 
 | 2022-01-20 | 2021-2022韓国囲碁リーグ | Park Junghwan | Cho Hanseung | Win | B+R | 6.5 | 3722.0 | 2.0 | 

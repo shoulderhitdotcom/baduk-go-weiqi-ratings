@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-24 | 第5回クラウン・ヘテ杯決勝三番勝負第1局 | Han Seungjoo | Byun Sangil | Lose | B+R | 6.5 | 3721.0 | -12.0 | 
 | 2022-01-23 | 2021-2022韓国囲碁リーグ | Kim Sedong | Byun Sangil | Win | W+R | 6.5 | 3733.0 | 2.0 | 
 | 2022-01-20 | 第23回中国囲碁甲級リーグ5位決定戦第2戦 | Byun Sangil | Yang Kaiwen | Win | B+R | 7.5 | 3731.0 | 1.0 | 
 | 2022-01-18 | 第5回クラウン・ヘテ杯準決勝 | Seol Hyunjun | Byun Sangil | Win | W+R | 6.5 | 3730.0 | 12.0 | 

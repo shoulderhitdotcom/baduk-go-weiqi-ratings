@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-01-24 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Heo Yongho | Han Sanghoon | Win | W+R | 6.5 | 3359.0 | 1.0 | 
 | 2022-01-23 | 2021-2022韓国囲碁リーグ | Lee Changseok | Han Sanghoon | Lose | B+R | 6.5 | 3358.0 | -25.0 | 
 | 2022-01-15 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Ahn Kukhyun | Win | B+R | 6.5 | 3383.0 | 28.0 | 
 | 2022-01-06 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Kang Dongyun | Win | B+R | 6.5 | 3355.0 | -79.0 | 

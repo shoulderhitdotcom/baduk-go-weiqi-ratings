@@ -2,7 +2,17 @@
 
 The ratings are based on 5055 games from 2021-01-25 to 2022-01-24.
 
-Note that players with fewer than 13 games are not in the list
+Note that players with fewer than {{NGAME_THRESHOLD}} games are not in the list
+
+### Quicklinks
+
+[Top 100](#top-100)
+
+[Biggest Movers](#biggest-movers-in-top-100-last-365-days)
+
+[Outside Top 100](#outside-top-100)
+
+[How to compute predicted win percentange](#how-to-compute-predicted-win-percentange)
 
 ### Top 100
 
@@ -124,101 +134,101 @@ Note that players with fewer than 13 games are not in the list
 
 | **Name** | **Rating Change Trend** | **汉字** | **Games Played** | 
 | --- | --- | --- | --- |
-| Jin Yucheng | 693.3785438463561 | 金禹丞 | 23 | 
-| Hu Yuhan | 586.9204470204592 | 胡鈺函 | 19 | 
-| Chen Haoxin | 570.1391342353553 | 陳豪鑫 | 19 | 
-| Ida Atsushi | 488.4702296567809 | 伊田篤史 | 21 | 
-| Liao Yuanhe | 393.99766634226194 | 廖元赫 | 47 | 
-| Xia Chenkun | 380.6265473703589 | 夏晨琨 | 28 | 
-| Li Qincheng | 351.30375664208566 | 李欽誠 | 41 | 
-| Huang Yunsong | 330.377244975303 | 黄雲嵩 | 60 | 
-| Peng Liyao | 310.1326544336134 | 彭立尭 | 39 | 
-| Wang Xinghao | 307.71251651215806 | 王星昊 | 41 | 
-| Mi Yuting | 305.5493777163534 | 芈昱廷 | 66 | 
-| Meng Tailing | 296.57973819539586 | 孟泰齢 | 14 | 
-| Hsu Chiayuan | 280.29978374059465 | 許家元 | 52 | 
-| Byun Sangil | 272.28461836683834 | 卞相壹 | 78 | 
-| Ding Hao | 251.63032143082233 | 丁浩 | 56 | 
-| Zhang Tao | 242.4549260001896 | 張涛 | 32 | 
-| Dang Yifei | 240.96622478018915 | 党毅飛 | 47 | 
-| Yun Chanhee | 237.14984563792132 | 尹燦熙 | 24 | 
-| Seto Taiki | 233.74633342617102 | 瀬戸大樹 | 19 | 
-| Chen Qirui | 233.02249780934855 | 陳祈睿 | 72 | 
-| Zhou Ruiyang | 227.54832153347746 | 周睿羊 | 26 | 
-| Hane Naoki | 224.21448232751385 | 羽根直樹 | 29 | 
-| Han Yizhou | 223.83018197426378 | 韓一洲 | 24 | 
-| Yang Dingxin | 214.8332428702305 | 楊鼎新 | 57 | 
-| Iyama Yuta | 214.4132454142563 | 井山裕太 | 47 | 
-| Yang Kaiwen | 213.46821840716876 | 楊楷文 | 35 | 
-| Chen Yaoye | 208.00127105866898 | 陳耀燁 | 27 | 
-| Seki Kotaro | 199.68620026514233 | 関航太郎 | 15 | 
-| Fan Yin | 199.5002734539122 | 范胤 | 32 | 
-| Wu Guangya | 198.27659222780304 | 鄔光亜 | 22 | 
-| Li Chengsen | 196.96587005730433 | 李成森 | 13 | 
-| Zhao Chenyu | 193.72203580605796 | 趙晨宇 | 48 | 
-| Gu Zihao | 192.961545474622 | 辜梓豪 | 51 | 
-| Wang Yuanjun | 180.50746427938853 | 王元均 | 79 | 
-| Yi Lingtao | 166.70495435480822 | 伊淩濤 | 29 | 
-| Shibano Toramaru | 164.3766951940898 | 芝野虎丸 | 56 | 
-| Han Seungjoo | 158.7519356299373 | 韓昇周 | 43 | 
-| Shi Yue | 158.17801811554412 | 時越 | 38 | 
-| Yu Zhengqi | 155.31224709256318 | 余正麒 | 41 | 
-| Lee Donghoon | 152.54074705323015 | 李東勲 | 59 | 
-| Paek Hongseok | 148.38061081593145 | 白洪淅 | 14 | 
-| Lin Junyan | 140.098298966148 | 林君諺 | 66 | 
-| Park Junghwan | 139.06596166026827 | 朴廷桓 | 86 | 
-| Tong Mengcheng | 138.9750507963641 | 童夢成 | 45 | 
-| Kim Jiseok | 135.6722218153105 | 金志錫 | 73 | 
-| Tan Xiao | 132.48408110409153 | 檀嘯 | 46 | 
-| Xu Jiayang | 130.78982327999415 | 許嘉陽 | 29 | 
-| Heo Yongho | 130.380585545655 | 許映皓 | 21 | 
-| Kim Myounghoon | 125.19428352618186 | 金明訓 | 25 | 
-| Xie Ke | 118.89027442122284 | 謝科 | 41 | 
-| Chen Yunong | 117.03822828702205 | 陳玉儂 | 21 | 
-| Huang Mingyu | 115.62888849220315 | 黄明宇 | 20 | 
-| Tu Xiaoyu | 115.01994462036583 | 屠暁宇 | 44 | 
-| Chen Zijian | 109.00829651012992 | 陳梓健 | 27 | 
-| Fan Tingyu | 105.7823550077184 | 范廷鈺 | 40 | 
-| Choi Cheolhan | 103.47461904033716 | 崔哲瀚 | 31 | 
-| Ichiriki Ryo | 96.00779474335637 | 一力遼 | 58 | 
-| Han Sanghoon | 94.28845638283666 | 韓尚勲 | 23 | 
-| Choi Jeong | 90.87616193885754 | 崔精 | 105 | 
-| Li Weiqing | 88.74442141620169 | 李維清 | 36 | 
-| Park Yeonghun | 84.42754593331568 | 朴永訓 | 28 | 
-| Jiang Qirun | 81.56191500798195 | 蒋其潤 | 22 | 
-| Liu Yuhang | 80.27173632273936 | 劉宇航 | 21 | 
-| Kim Jinhyu | 79.44426152606809 | 金眞輝 | 21 | 
-| Xu Haohong | 74.28565686691867 | 許皓鋐 | 88 | 
-| Hong Seongji | 70.57988870821568 | 洪性志 | 23 | 
-| Choi Jaeyoung | 66.17418520203549 | 崔宰栄 | 18 | 
-| Park Joonhoon | 63.218113184666066 | 朴鐘勲 | 15 | 
-| Li Xuanhao | 62.849266658123874 | 李軒豪 | 52 | 
-| Park Geunho | 61.32327806032909 | 朴鍵昊 | 22 | 
-| Rong Yi | 59.90219035511791 | 戎毅 | 23 | 
-| Kim Sedong | 47.39241450797001 | 金世東 | 24 | 
-| An Jungki | 44.48158986087116 | 安正己 | 20 | 
-| Shin Minjun | 40.941413784754396 | 申旻埈 | 68 | 
-| Lian Xiao | 39.374162816415414 | 連笑 | 54 | 
-| Jiang Weijie | 38.59956515231962 | 江維傑 | 28 | 
-| Lee Changseok | 33.36287718104349 | 李昌錫 | 66 | 
-| Chen Xian | 33.09823606233708 | 陳賢 | 37 | 
-| Tang Weixing | 24.10884749872882 | 唐韋星 | 46 | 
-| Park Hamin | 19.954644841516338 | 朴河旼 | 32 | 
-| Kang Dongyun | 14.565326599677984 | 姜東潤 | 63 | 
-| Shin Jinseo | 8.763426070156573 | 申眞諝 | 94 | 
-| He Yuhan | 5.424687060197056 | 何語涵 | 16 | 
-| Park Jinsol | 4.476407786310879 | 朴進率 | 23 | 
-| Tuo Jiaxi | -2.607367307233119 | 柁嘉熹 | 43 | 
-| Cho Hanseung | -3.2359031678094445 | 趙漢乗 | 27 | 
-| Baek Hyeonwoo | -7.583025843775159 | 白現宇 | 19 | 
-| An Sungjoon | -15.46520741812991 | 安成浚 | 36 | 
-| Ke Jie | -17.21856504526881 | 柯潔 | 50 | 
-| Park Sangjin | -18.742615625619436 | 朴常鎭 | 31 | 
-| Xie Erhao | -23.077948695467818 | 謝爾豪 | 38 | 
-| Seol Hyunjun | -24.215169381723317 | 偰玹準 | 38 | 
-| Wang Zejin | -46.523160313724645 | 王沢錦 | 22 | 
-| Tao Xinran | -98.14607843763997 | 陶欣然 | 38 | 
-| Weon Seongjin | -103.80363836329776 | 元晟溱 | 45 |
+| Jin Yucheng | 693.38 | 金禹丞 | 23 | 
+| Hu Yuhan | 586.92 | 胡鈺函 | 19 | 
+| Chen Haoxin | 570.14 | 陳豪鑫 | 19 | 
+| Ida Atsushi | 488.47 | 伊田篤史 | 21 | 
+| Liao Yuanhe | 394.0 | 廖元赫 | 47 | 
+| Xia Chenkun | 380.63 | 夏晨琨 | 28 | 
+| Li Qincheng | 351.3 | 李欽誠 | 41 | 
+| Huang Yunsong | 330.38 | 黄雲嵩 | 60 | 
+| Peng Liyao | 310.13 | 彭立尭 | 39 | 
+| Wang Xinghao | 307.71 | 王星昊 | 41 | 
+| Mi Yuting | 305.55 | 芈昱廷 | 66 | 
+| Meng Tailing | 296.58 | 孟泰齢 | 14 | 
+| Hsu Chiayuan | 280.3 | 許家元 | 52 | 
+| Byun Sangil | 272.28 | 卞相壹 | 78 | 
+| Ding Hao | 251.63 | 丁浩 | 56 | 
+| Zhang Tao | 242.45 | 張涛 | 32 | 
+| Dang Yifei | 240.97 | 党毅飛 | 47 | 
+| Yun Chanhee | 237.15 | 尹燦熙 | 24 | 
+| Seto Taiki | 233.75 | 瀬戸大樹 | 19 | 
+| Chen Qirui | 233.02 | 陳祈睿 | 72 | 
+| Zhou Ruiyang | 227.55 | 周睿羊 | 26 | 
+| Hane Naoki | 224.21 | 羽根直樹 | 29 | 
+| Han Yizhou | 223.83 | 韓一洲 | 24 | 
+| Yang Dingxin | 214.83 | 楊鼎新 | 57 | 
+| Iyama Yuta | 214.41 | 井山裕太 | 47 | 
+| Yang Kaiwen | 213.47 | 楊楷文 | 35 | 
+| Chen Yaoye | 208.0 | 陳耀燁 | 27 | 
+| Seki Kotaro | 199.69 | 関航太郎 | 15 | 
+| Fan Yin | 199.5 | 范胤 | 32 | 
+| Wu Guangya | 198.28 | 鄔光亜 | 22 | 
+| Li Chengsen | 196.97 | 李成森 | 13 | 
+| Zhao Chenyu | 193.72 | 趙晨宇 | 48 | 
+| Gu Zihao | 192.96 | 辜梓豪 | 51 | 
+| Wang Yuanjun | 180.51 | 王元均 | 79 | 
+| Yi Lingtao | 166.7 | 伊淩濤 | 29 | 
+| Shibano Toramaru | 164.38 | 芝野虎丸 | 56 | 
+| Han Seungjoo | 158.75 | 韓昇周 | 43 | 
+| Shi Yue | 158.18 | 時越 | 38 | 
+| Yu Zhengqi | 155.31 | 余正麒 | 41 | 
+| Lee Donghoon | 152.54 | 李東勲 | 59 | 
+| Paek Hongseok | 148.38 | 白洪淅 | 14 | 
+| Lin Junyan | 140.1 | 林君諺 | 66 | 
+| Park Junghwan | 139.07 | 朴廷桓 | 86 | 
+| Tong Mengcheng | 138.98 | 童夢成 | 45 | 
+| Kim Jiseok | 135.67 | 金志錫 | 73 | 
+| Tan Xiao | 132.48 | 檀嘯 | 46 | 
+| Xu Jiayang | 130.79 | 許嘉陽 | 29 | 
+| Heo Yongho | 130.38 | 許映皓 | 21 | 
+| Kim Myounghoon | 125.19 | 金明訓 | 25 | 
+| Xie Ke | 118.89 | 謝科 | 41 | 
+| Chen Yunong | 117.04 | 陳玉儂 | 21 | 
+| Huang Mingyu | 115.63 | 黄明宇 | 20 | 
+| Tu Xiaoyu | 115.02 | 屠暁宇 | 44 | 
+| Chen Zijian | 109.01 | 陳梓健 | 27 | 
+| Fan Tingyu | 105.78 | 范廷鈺 | 40 | 
+| Choi Cheolhan | 103.47 | 崔哲瀚 | 31 | 
+| Ichiriki Ryo | 96.01 | 一力遼 | 58 | 
+| Han Sanghoon | 94.29 | 韓尚勲 | 23 | 
+| Choi Jeong | 90.88 | 崔精 | 105 | 
+| Li Weiqing | 88.74 | 李維清 | 36 | 
+| Park Yeonghun | 84.43 | 朴永訓 | 28 | 
+| Jiang Qirun | 81.56 | 蒋其潤 | 22 | 
+| Liu Yuhang | 80.27 | 劉宇航 | 21 | 
+| Kim Jinhyu | 79.44 | 金眞輝 | 21 | 
+| Xu Haohong | 74.29 | 許皓鋐 | 88 | 
+| Hong Seongji | 70.58 | 洪性志 | 23 | 
+| Choi Jaeyoung | 66.17 | 崔宰栄 | 18 | 
+| Park Joonhoon | 63.22 | 朴鐘勲 | 15 | 
+| Li Xuanhao | 62.85 | 李軒豪 | 52 | 
+| Park Geunho | 61.32 | 朴鍵昊 | 22 | 
+| Rong Yi | 59.9 | 戎毅 | 23 | 
+| Kim Sedong | 47.39 | 金世東 | 24 | 
+| An Jungki | 44.48 | 安正己 | 20 | 
+| Shin Minjun | 40.94 | 申旻埈 | 68 | 
+| Lian Xiao | 39.37 | 連笑 | 54 | 
+| Jiang Weijie | 38.6 | 江維傑 | 28 | 
+| Lee Changseok | 33.36 | 李昌錫 | 66 | 
+| Chen Xian | 33.1 | 陳賢 | 37 | 
+| Tang Weixing | 24.11 | 唐韋星 | 46 | 
+| Park Hamin | 19.95 | 朴河旼 | 32 | 
+| Kang Dongyun | 14.57 | 姜東潤 | 63 | 
+| Shin Jinseo | 8.76 | 申眞諝 | 94 | 
+| He Yuhan | 5.42 | 何語涵 | 16 | 
+| Park Jinsol | 4.48 | 朴進率 | 23 | 
+| Tuo Jiaxi | -2.61 | 柁嘉熹 | 43 | 
+| Cho Hanseung | -3.24 | 趙漢乗 | 27 | 
+| Baek Hyeonwoo | -7.58 | 白現宇 | 19 | 
+| An Sungjoon | -15.47 | 安成浚 | 36 | 
+| Ke Jie | -17.22 | 柯潔 | 50 | 
+| Park Sangjin | -18.74 | 朴常鎭 | 31 | 
+| Xie Erhao | -23.08 | 謝爾豪 | 38 | 
+| Seol Hyunjun | -24.22 | 偰玹準 | 38 | 
+| Wang Zejin | -46.52 | 王沢錦 | 22 | 
+| Tao Xinran | -98.15 | 陶欣然 | 38 | 
+| Weon Seongjin | -103.8 | 元晟溱 | 45 |
 
 
 
@@ -227,6 +237,9 @@ Note that players with fewer than 13 games are not in the list
 
 
 ### Outside of Top 100
+
+Note that players with fewer than {{NGAME_THRESHOLD}} games are not in the list
+
 
 
 | **Rank** | **Name** | **Rating** | **Uncertainty** | **Games Played** | **Hanzi (汉字) Name** | 
@@ -438,7 +451,7 @@ Using the **Elo Rating** it is
 
 Probability that player with rating `r1` wins over someone with rating `r2` is `1/(1 + 10^((r2-r1)/400))`
 
-### Ratings of players with fewer than 13 games (rating not reliable)
+### Ratings of players with fewer than {{NGAME_THRESHOLD}} games (rating not reliable)
 
 
 

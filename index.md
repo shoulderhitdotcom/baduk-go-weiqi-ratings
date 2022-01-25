@@ -122,7 +122,7 @@ Note that players with fewer than 13 games are not in the list
 
 
 
-Error: SystemError: opening file "biggest_movers\\metadata.jls": No such file or directory
+Error: UndefVarError: name not defined
 
 
 

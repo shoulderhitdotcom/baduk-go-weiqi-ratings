@@ -4,6 +4,8 @@ The ratings are based on {{ngames}} games from {{from_date}} to {{to_date}}.
 
 Note that players with fewer than 13 games are not in the list
 
+### Top 100
+
 ```{julia; echo=false; line_width=888}
 using JDF
 using DataFrames: DataFrame
@@ -12,10 +14,39 @@ include("c:/weiqi/simulation/utils.jl")
 
 pings_for_md = JDF.load("pings_for_md.jdf") |> DataFrame
 
-df_to_md(pings_for_md)
+df_to_md(pings_for_md[1:100, :])
 ```
 
-# How to compute predicted win percentange?
+### Biggest Movers in Top 100 (last 365 days)
+
+
+```{julia; echo=false; line_width=888}
+using JDF, Chain, DataFrameMacros
+using DataFrames: DataFrame
+
+include("c:/weiqi/simulation/utils.jl")
+
+biggest_movers = @chain JDF.load("biggest_movers.jdf") begin
+    DataFrame
+    @transform :Rating_diff = :x1 * 365
+    select(
+        :eng_name_old => :Name,
+        :Rating_diff => Symbol("Rating Change Trend"),
+        :name => Symbol("汉字"),
+        :ngames => Symbol("Games Played")
+    )
+end
+
+df_to_md(biggest_movers)
+```
+
+### Outside of Top 100
+```{julia; echo=false; line_width=888}
+df_to_md(pings_for_md[101:end, :])
+```
+
+
+### How to compute predicted win percentange?
 
 White 7.5 komi advantage is estimated to be {{elo_white75_adv}} in Elo
 
@@ -25,7 +56,7 @@ Using the **Elo Rating** it is
 
 Probability that player with rating `r1` wins over someone with rating `r2` is `1/(1 + 10^((r2-r1)/400))`
 
-# Ratings of players with fewer than 13 games (rating not reliable)
+### Ratings of players with fewer than 13 games (rating not reliable)
 
 ```{julia; echo=false; line_width=888}
 using JDF

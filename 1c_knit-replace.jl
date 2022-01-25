@@ -27,7 +27,7 @@ replacements = (
     "```" => "\n"
 )
 
-weave("index.jmd", out_path = "index-tmd.md", doctype = "github")
+weave("index.jmd", out_path = "index-tmd.md", doctype = "github",  pandoc_options = ["--toc", "--toc-depth= 3", "--self-contained"])
 replace_in_file("index-tmd.md", "index.md", replacements)
 
 try

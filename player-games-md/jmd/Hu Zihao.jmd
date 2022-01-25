@@ -10,6 +10,5 @@ using DataFrames: DataFrame
 include("c:/weiqi/simulation/utils.jl")
 
 pings_for_md = JDF.load("../jdf/Hu Zihao.jdf") |> DataFrame
-
 df_to_md(pings_for_md)
 ```

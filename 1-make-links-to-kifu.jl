@@ -9,6 +9,7 @@ using Dates: Date, Day
 using JDF
 using Missings: skipmissings
 using Revise: includet
+using TableScraper: scrape_tables
 
 includet("utils.jl")
 
@@ -36,10 +37,13 @@ end
 
 df_for_names = @subset(df, @c do_for_all .| (:date .== maximum(:date)))
 
-names_to_update = vcat(df_for_names.black, df_for_names.white) |> unique |> skipmissings |> first |> collect
-names_to_update = filter(n -> n != "", names_to_update)
-
-#push!(names_to_update, "Shin Jinseo")
+names_to_update = @chain vcat(df_for_names.black, df_for_names.white) begin
+    unique
+    skipmissings
+    first
+    collect
+    filter(n -> n != "", _)
+end
 
 if false
     names_to_update
@@ -63,6 +67,7 @@ sjs_ratings = @chain sjs_ratings begin
         :date = Date(:Date)
     end
     sort!(:Date)
+    unique(:Date) # because a player can play two games in one day
 end
 
 min_date, max_date = extrema(pings_hist.date)
@@ -105,18 +110,84 @@ sjs_ratings2 = @chain pings_hist begin
     select(:date, :rating_adj)
 end
 
+# adjust the whole history ratings
+pings_hist_adj = @chain pings_hist begin
+    innerjoin(sjs_ratings2, on = :date)
+    @subset !ismissing(:rating_adj)
+    @transform :Rating_mine = :Rating
+    @transform! :Rating = :Rating + :rating_adj
+end
+
 # for each player create the players's page
-println("dont forget to turn this off")
-names_to_update = @chain pings_hist begin
-    @subset @c :date .== maximum(:date)
+# println("dont forget to turn this off")
+# names_to_update = @chain pings_hist begin
+#     @subset @c :date .== maximum(:date)
+#     sort!(:Rating, rev = true)
+#     @subset(:eng_name_old != "")
+#     _[1:100, :eng_name_old]
+#     vcat(names_to_update)
+#     unique
+# end
+
+# Biggest movers
+ngames_last_year = @chain tbl begin
+    @subset max_date - Day(364) <= :date
+    select(:date, :black, :white)
+    stack([:black, :white], :date)
+    groupby(:value)
+    combine(nrow => :ngames)
+end
+
+latest_ratings = @chain pings_hist_adj begin
+    @subset :date == max_date
+    leftjoin(ngames_last_year, on = :name => :value)
+    @subset !ismissing(:ngames)
+    @subset :ngames >= NGAME_THRESHOLD
     sort!(:Rating, rev = true)
-    @subset(:eng_name_old != "")
-    _[1:100, :eng_name_old]
-    vcat(names_to_update)
-    unique
+    _[1:100, :]
+    select(:name)
 end
 
 
+day_range_days = [7, 30, 90, 180, 365]
+biggest_movers = []
+for d in day_range_days
+    start_date = max_date - Day(d - 1)
+
+    tmp = @chain pings_hist_adj begin
+        @subset :date >= start_date
+        groupby([:name, :eng_name_old])
+        combine(df -> begin
+                df = sort(df, :date)
+                DataFrame(
+                    drop = df.Rating[end] - maximum(df.Rating),
+                    rise = df.Rating[end] - minimum(df.Rating)
+                )
+                df.x = [x.value for x in (df.date .- minimum(df.date))]
+                model = lm(@formula(Rating ~ x), df)
+                coef(model)[2]
+            end, nrow)
+        @subset @c :nrow .== maximum(:nrow)
+        # @transform :x2 = ifelse(abs(:drop) > abs(:rise), :drop, :rise)
+        # @transform :x1 = :rise + :drop
+        leftjoin(ngames_last_year, on = :name => :value)
+        @subset !ismissing(:ngames)
+        @subset :ngames >= NGAME_THRESHOLD
+        # sort!(:x1, by = x -> abs(x), rev = true)
+        innerjoin(latest_ratings, on = :name)
+        # @subset :x1 > 0
+        sort!(:x1, rev = true)
+    end
+
+    push!(biggest_movers, tmp)
+end
+
+biggest_movers[end]
+JDF.save("biggest_movers.jdf", biggest_movers[end])
+
+
+
+# update the player ratings page
 for name in names_to_update
     if !ismissing(name)
         if name != ""

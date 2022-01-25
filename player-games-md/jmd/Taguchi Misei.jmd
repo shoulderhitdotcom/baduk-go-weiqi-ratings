@@ -11,5 +11,18 @@ include("c:/weiqi/simulation/utils.jl")
 
 pings_for_md = JDF.load("../jdf/Taguchi Misei.jdf") |> DataFrame
 
+using UnicodePlots, Missings
+plt = lineplot(
+    pings_for_md.Date,
+    disallowmissing(pings_for_md.Rating),
+    title="Taguchi Misei Ratings",
+    name="Taguchi Misei",
+    xlabel="Date",
+    ylabel="Rating",
+    border=:dotted
+    )
+```
+
+```{julia; echo=false}
 df_to_md(pings_for_md)
 ```

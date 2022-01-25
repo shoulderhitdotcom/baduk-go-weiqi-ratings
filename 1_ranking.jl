@@ -14,6 +14,7 @@ using JDF
 using CSV
 using Alert
 using Revise: includet
+using TableScraper: scrape_tables
 
 includet("utils.jl")
 
@@ -102,7 +103,7 @@ end
 # out_path = @target pings_for_md1 = @chain @watch(pings) begin
 
 # download the ratings from goratings and do a regression
-using TableScraper
+
 goratings_latest = scrape_tables("https://goratings.org/en")[2] |> DataFrame
 
 goratings_latest = @chain goratings_latest begin
@@ -117,7 +118,7 @@ pings_for_alignment = @chain pings begin
     @transform :diff = :elo - :estimate * 400 / log(10)
     sort!(:elo, rev = true)
     select(:eng_name, :elo, :diff)
-    _[1, :]
+    _[1, :] # get the difference between number 1 playe according to goratings
 end
 
 function turn_records_into_md(pings)

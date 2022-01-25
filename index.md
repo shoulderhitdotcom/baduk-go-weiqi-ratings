@@ -4,6 +4,8 @@ The ratings are based on 5055 games from 2021-01-25 to 2022-01-24.
 
 Note that players with fewer than 13 games are not in the list
 
+### Top 100
+
 
 
 | **Rank** | **Name** | **Rating** | **Uncertainty** | **Games Played** | **Hanzi (汉字) Name** | 
@@ -107,7 +109,32 @@ Note that players with fewer than 13 games are not in the list
 | 97 | [Li Chengsen](./player-games-md/md/Li Chengsen.md) | 3311 | ±210 | 13 | 李成森 | 
 | 98 | [Kim Jinhyu](./player-games-md/md/Kim Jinhyu.md) | 3303 | ±194 | 20 | 金眞輝 | 
 | 99 | [Choi Jeong](./player-games-md/md/Choi Jeong.md) | 3300 | ±175 | 101 | 崔精 | 
-| 100 | [Fu Jianheng](./player-games-md/md/Fu Jianheng.md) | 3293 | ±203 | 14 | 傅健恒 | 
+| 100 | [Fu Jianheng](./player-games-md/md/Fu Jianheng.md) | 3293 | ±203 | 14 | 傅健恒 |
+
+
+
+
+
+
+
+### Biggest Movers in Top 100 (last 365 days)
+
+
+
+
+Error: SystemError: opening file "biggest_movers\\metadata.jls": No such file or directory
+
+
+
+
+
+
+
+### Outside of Top 100
+
+
+| **Rank** | **Name** | **Rating** | **Uncertainty** | **Games Played** | **Hanzi (汉字) Name** | 
+| --- | --- | --- | --- | --- | --- |
 | 101 | [Moon Minjong](./player-games-md/md/Moon Minjong.md) | 3287 | ±182 | 41 | 文敏鍾 | 
 | 102 | [Kim Seongjae](./player-games-md/md/Kim Seongjae.md) | 3286 | ±200 | 15 | 金昇宰 | 
 | 103 | [Kim Junghyun](./player-games-md/md/Kim Junghyun.md) | 3283 | ±190 | 22 | 金庭賢 | 
@@ -304,7 +331,8 @@ Note that players with fewer than 13 games are not in the list
 
 
 
-# How to compute predicted win percentange?
+
+### How to compute predicted win percentange?
 
 White 7.5 komi advantage is estimated to be 30 in Elo
 
@@ -314,7 +342,7 @@ Using the **Elo Rating** it is
 
 Probability that player with rating `r1` wins over someone with rating `r2` is `1/(1 + 10^((r2-r1)/400))`
 
-# Ratings of players with fewer than 13 games (rating not reliable)
+### Ratings of players with fewer than 13 games (rating not reliable)
 
 
 

@@ -28,7 +28,7 @@ include("c:/weiqi/simulation/utils.jl")
 
 biggest_movers = @chain JDF.load("biggest_movers.jdf") begin
     DataFrame
-    @transform :Rating_diff = :x1 * 365
+    @transform :Rating_diff = round(:x1 * 365, digits=2)
     select(
         :eng_name_old => :Name,
         :Rating_diff => Symbol("Rating Change Trend"),

@@ -10,6 +10,7 @@ using JDF
 using Missings: skipmissings
 using Revise: includet
 using TableScraper: scrape_tables
+using GLM
 
 includet("utils.jl")
 
@@ -90,6 +91,7 @@ sjs_ratings1 = @chain sjs_ratings begin
     @subset(!ismissing(:rating))
 end
 
+
 sjs_ratings2 = @chain pings_hist begin
     select(:date, :eng_name_old, :Rating)
     @subset :eng_name_old == "Shin Jinseo"
@@ -148,7 +150,6 @@ latest_ratings = @chain pings_hist_adj begin
     select(:name)
 end
 
-
 day_range_days = [7, 30, 90, 180, 365]
 biggest_movers = []
 for d in day_range_days
@@ -184,8 +185,6 @@ end
 
 biggest_movers[end]
 JDF.save("biggest_movers.jdf", biggest_movers[end])
-
-
 
 # update the player ratings page
 for name in names_to_update

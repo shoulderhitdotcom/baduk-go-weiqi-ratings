@@ -24,10 +24,11 @@ replacements = (
     "{{elo_black65_adv}}" => string(round(Int, black65_advantage*400/log(10))),
     "{{ping_white75_adv}}" => string(round(white75_advantage, digits=2)),
     "{{ping_black65_adv}}" => string(round(black65_advantage, digits=2)),
+    "{{ NGAME_THRESHOLD }}" => string(NGAME_THRESHOLD),
     "```" => "\n"
 )
 
-weave("index.jmd", out_path = "index-tmd.md", doctype = "github",  pandoc_options = ["--toc", "--toc-depth= 3", "--self-contained"])
+weave("index.jmd", out_path = "index-tmd.md", doctype = "github",  pandoc_options = ["--toc", "--toc-depth=3", "--self-contained"])
 replace_in_file("index-tmd.md", "index.md", replacements)
 
 try

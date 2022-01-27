@@ -118,7 +118,7 @@ pings_for_alignment = @chain pings begin
     @transform :diff = :elo - :estimate * 400 / log(10)
     sort!(:elo, rev = true)
     select(:eng_name, :elo, :diff)
-    _[1, :] # get the difference between number 1 playe according to goratings
+    _[1, :] # get the difference between number 1 player according to goratings
 end
 
 function turn_records_into_md(pings)
@@ -217,13 +217,75 @@ end
 #     sort!(:Rating)
 # end
 
+# Do a test to see if successive should be grouped together
+# latest_rating = @chain readdir("records/"; join = true) begin
+#     partialsort!(1, rev = true)
+#     CSV.read(DataFrame)
+# end
+
+# diff(latest_rating.estimate)
+
+# sqrt.(latest_rating.std_error[1:end-1] .^ 2 .+ latest_rating.std_error[2:end] .^ 2)
+
+# determine rank ranges
+rank_ranges = @chain pings_hist begin
+    @subset @c maximum(:date) - Day(364) .<= :date
+    @aside counts = @chain tbl begin
+        @subset @c maximum(:date) - Day(364) .<= :date
+        stack([:black, :white])
+        groupby(:value)
+        combine(nrow => :ngames)
+    end
+    leftjoin(counts, on = :name => :value)
+    @subset !ismissing(:ngames)
+    @subset :ngames >= NGAME_THRESHOLD
+    groupby(:date)
+
+    combine(df -> begin
+        sort!(df, :Rating, rev = true)
+        df[!, :ranking] = 1:nrow(df)
+        df
+    end)
+    groupby(:name)
+    @combine(:ranking_range = string(extrema(:ranking)), :median_rank = median(:ranking))
+end
+
+# average rating change
+avg_rating_change = @chain pings_hist_adj begin
+    @subset @c maximum(:date) - Day(364) .<= :date
+    @aside counts = @chain tbl begin
+        @subset @c maximum(:date) - Day(364) .<= :date
+        stack([:black, :white])
+        groupby(:value)
+        combine(nrow => :ngames)
+    end
+    leftjoin(counts, on = :name => :value)
+    @subset !ismissing(:ngames)
+    @subset :ngames >= NGAME_THRESHOLD
+    groupby(:name)
+    combine(df -> begin
+        sort!(df, :date)
+        df.Rating[end] - df.Rating[1]
+    end)
+    @combine(mean(:x1), std(:x1))
+end
+
+pings_for_md2 = @chain pings_for_md1 begin
+    leftjoin(rank_ranges, on = :name)
+end
+
+# work out the average rating change
+
+# ready for output
 pings_for_md_tmp = select(
-    pings_for_md1,
+    pings_for_md2,
     :Rank,
     :eng_name => "Name",
     :Rating,
     :rating_uncertainty => Symbol("Uncertainty"),
     :n => "Games Played",
+    :median_rank => "Median Rank",
+    :ranking_range => "Rank Range",
     :name => "Hanzi (汉字) Name")
 
 below_threshold_pings_for_md = @chain pings_for_md_tmp begin

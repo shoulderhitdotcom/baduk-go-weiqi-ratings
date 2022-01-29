@@ -34,13 +34,13 @@
 | 2020-08-16 | 2020CHO-A BITONEルーキー囲碁リーグ第5節第3試合第3局 | Han Woojin |  | Win | B+R | 6.5 | 2998.0 | -1.0 | 
 | 2020-08-14 | 2020CHO-A BITONEルーキー囲碁リーグ第3節第2試合第1局 |  | Han Woojin | Win | W+R | 6.5 | 2999.0 | 30.0 | 
 | 2020-08-02 | 2020CHO-A BITONEルーキー囲碁リーグ第2節第1試合第1局 | Han Woojin | Zheng Yujin | Lose | W+R | 6.5 | 2969.0 | 24.0 | 
-| 2020-02-25 | 第8回河燦錫国手杯英才最強戦1回戦 |  | Han Woojin | Win | W+R | 6.5 | 2945.0 | -58.0 | 
-| 2020-01-09 | 第3期韓国竜星戦予選 | Park Yeonghun | Han Woojin | Lose | B+R | 6.5 | 3003.0 | 0.0 | 
+| 2020-02-25 | 第8回河燦錫国手杯英才最強戦1回戦 |  | Han Woojin | Win | W+R | 6.5 | 2945.0 | -59.0 | 
+| 2020-01-09 | 第3期韓国竜星戦予選 | Park Yeonghun | Han Woojin | Lose | B+R | 6.5 | 3004.0 | 1.0 | 
 | 2019-12-29 | 2019CHO-A BITONE杯ルーキーリーグ第14節第2試合第3局 |  | Han Woojin | Win | W+R | 6.5 | 3003.0 | 69.0 | 
 | 2019-12-13 | 第25期GSカルテックス杯プロ棋戦予選決勝 | Han Woojin | Kim Myounghoon | Lose | W+2.5 | 6.5 | 2934.0 | 39.0 | 
 | 2019-11-16 | 2019CHO-A BITONE杯ルーキーリーグ第9節第3試合第1局 | Han Woojin |  | Lose | W+6.5 | 6.5 | 2895.0 | 0.0 | 
-| 2019-11-16 | 2019CHO-A BITONE杯ルーキーリーグ第8節第4試合第3局 | Han Woojin |  | Win | B+R | 6.5 | 2895.0 | -176.0 | 
-| 2019-10-26 | 2019CHO-A BITONE杯ルーキーリーグ第6節第2試合第2局 | Han Woojin |  | Win | B+R | 6.5 | 3071.0 | missing |
+| 2019-11-16 | 2019CHO-A BITONE杯ルーキーリーグ第8節第4試合第3局 | Han Woojin |  | Win | B+R | 6.5 | 2895.0 | -177.0 | 
+| 2019-10-26 | 2019CHO-A BITONE杯ルーキーリーグ第6節第2試合第2局 | Han Woojin |  | Win | B+R | 6.5 | 3072.0 | missing |
 
 
 

@@ -161,7 +161,7 @@ Note that players with fewer than {{NGAME_THRESHOLD}} games are not in the list
 | Yang Dingxin | 209 | 57 | 楊鼎新 | 
 | Yang Kaiwen | 207 | 35 | 楊楷文 | 
 | Seki Kotaro | 205 | 15 | 関航太郎 | 
-| Chen Yaoye | 202 | 27 | 陳耀燁 | 
+| Chen Yaoye | 203 | 27 | 陳耀燁 | 
 | Fan Yin | 199 | 32 | 范胤 | 
 | Wu Guangya | 197 | 21 | 鄔光亜 | 
 | Zhao Chenyu | 197 | 47 | 趙晨宇 | 
@@ -192,7 +192,7 @@ Note that players with fewer than {{NGAME_THRESHOLD}} games are not in the list
 | Fan Tingyu | 104 | 40 | 范廷鈺 | 
 | Park Yeonghun | 102 | 26 | 朴永訓 | 
 | Ichiriki Ryo | 90 | 58 | 一力遼 | 
-| Han Sanghoon | 87 | 21 | 韓尚勲 | 
+| Han Sanghoon | 88 | 21 | 韓尚勲 | 
 | Li Weiqing | 84 | 36 | 李維清 | 
 | Choi Jeong | 83 | 106 | 崔精 | 
 | Jiang Qirun | 77 | 22 | 蒋其潤 | 

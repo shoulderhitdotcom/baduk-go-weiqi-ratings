@@ -58,67 +58,6 @@ if false
 end
 
 
-# figure out the adjustment needed for each day
-sjs_ratings = scrape_tables("https://www.goratings.org/en/players/1313.html")[2] |> DataFrame
-
-sjs_ratings = @chain sjs_ratings begin
-    select(:Date, :Rating)
-    @transform begin
-        :rating = parse(Int, :Rating)
-        :date = Date(:Date)
-    end
-    sort!(:Date)
-    unique(:Date) # because a player can play two games in one day
-end
-
-min_date, max_date = extrema(pings_hist.date)
-
-sjs_ratings_missing_dates = DataFrame(date = [d for d in min_date:Day(1):max_date])
-
-sjs_ratings1 = @chain sjs_ratings begin
-    rightjoin(sjs_ratings_missing_dates, on = :date)
-    select(:date, :rating)
-    sort!(:date)
-    @transform :rating = @c begin
-        tmp = copy(:rating)
-        for i in 2:length(tmp)
-            if tmp[i] |> ismissing
-                tmp[i] = tmp[i-1]
-            end
-        end
-        tmp
-    end
-    @subset(!ismissing(:rating))
-end
-
-
-sjs_ratings2 = @chain pings_hist begin
-    select(:date, :eng_name_old, :Rating)
-    @subset :eng_name_old == "Shin Jinseo"
-    select!(Not(:eng_name_old))
-    unique(:date)
-    rightjoin(sjs_ratings1, on = :date)
-    sort!(:date)
-    @transform :Rating = @c begin
-        tmp = copy(:Rating)
-        for i in 2:length(tmp)
-            if tmp[i] |> ismissing
-                tmp[i] = tmp[i-1]
-            end
-        end
-        tmp
-    end
-    @transform :rating_adj = :rating - :Rating
-    select(:date, :rating_adj)
-end
-
-# adjust the whole history ratings
-pings_hist_adj = @chain pings_hist begin
-    innerjoin(sjs_ratings2, on = :date)
-    @subset !ismissing(:rating_adj)
-    @transform :Rating_mine = :Rating
-    @transform! :Rating = :Rating + :rating_adj
-end
 
 # for each player create the players's page
 # println("dont forget to turn this off")

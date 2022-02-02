@@ -1,4 +1,4 @@
-## Fujii Shuya Games
+## Hasegawa Sunao vs Utsumi Koki Head to head
 
 [Back to ranking](../../index.md)
 
@@ -9,6 +9,7 @@ using DataFrames: DataFrame
 
 include("c:/weiqi/simulation/utils.jl")
 
-pings_for_md = JDF.load("../jdf/Fujii Shuya.jdf") |> DataFrame
+pings_for_md = JDF.load("../jdf/Hasegawa Sunao-Utsumi Koki.jdf") |> DataFrame
+
 df_to_md(pings_for_md)
 ```

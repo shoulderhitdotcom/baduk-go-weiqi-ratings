@@ -7,28 +7,29 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-01-23 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Kim Seongjae | Lose | B+R | 6.5 | 3286.0 | -60.0 | 
-| 2022-01-15 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Yun Chanhee | Lose | W+R | 6.5 | 3346.0 | 43.0 | 
-| 2022-01-06 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Kim Seongjae | Win | W+R | 6.5 | 3303.0 | 21.0 | 
-| 2021-12-26 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Park Sangjin | Lose | W+1.5 | 6.5 | 3282.0 | -16.0 | 
-| 2021-12-05 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Kim Jinhyu | Lose | W+3.5 | 6.5 | 3298.0 | -43.0 | 
-| 2021-11-21 | 2021-2022韓国囲碁リーグ | Park Hamin | Kim Seongjae | Lose | B+R | 6.5 | 3341.0 | -33.0 | 
-| 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Kim Seongjae | Lian Xiao | Lose | W+R | 6.5 | 3374.0 | -10.0 | 
-| 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Kang Dongyun | Kim Seongjae | Lose | B+R | 6.5 | 3384.0 | -71.0 | 
-| 2021-09-23 | 第7回国手山脈国際囲碁大会韓国予選 | Song Jihoon | Kim Seongjae | Win | W+0.5 | 6.5 | 3455.0 | 169.0 | 
-| 2021-07-21 | 第23回農心杯韓国予選 | Kim Seongjae | Byun Sangil | Lose | W+6.5 | 6.5 | 3286.0 | -60.0 | 
-| 2021-07-15 | 第23回農心杯韓国予選 | Kim Seongjae | Kim Hyeongwoo | Win | B+R | 6.5 | 3346.0 | 201.0 | 
+| 2022-02-03 | 2021-2022韓国囲碁リーグ | Park Jinsol | Kim Seongjae | Lose | B+R | 6.5 | 3258.0 | -30.0 | 
+| 2022-01-23 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Kim Seongjae | Lose | B+R | 6.5 | 3288.0 | -60.0 | 
+| 2022-01-15 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Yun Chanhee | Lose | W+R | 6.5 | 3348.0 | 44.0 | 
+| 2022-01-06 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Kim Seongjae | Win | W+R | 6.5 | 3304.0 | 21.0 | 
+| 2021-12-26 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Park Sangjin | Lose | W+1.5 | 6.5 | 3283.0 | -16.0 | 
+| 2021-12-05 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Kim Jinhyu | Lose | W+3.5 | 6.5 | 3299.0 | -43.0 | 
+| 2021-11-21 | 2021-2022韓国囲碁リーグ | Park Hamin | Kim Seongjae | Lose | B+R | 6.5 | 3342.0 | -33.0 | 
+| 2021-10-20 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Kim Seongjae | Lian Xiao | Lose | W+R | 6.5 | 3375.0 | -11.0 | 
+| 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Kang Dongyun | Kim Seongjae | Lose | B+R | 6.5 | 3386.0 | -71.0 | 
+| 2021-09-23 | 第7回国手山脈国際囲碁大会韓国予選 | Song Jihoon | Kim Seongjae | Win | W+0.5 | 6.5 | 3457.0 | 169.0 | 
+| 2021-07-21 | 第23回農心杯韓国予選 | Kim Seongjae | Byun Sangil | Lose | W+6.5 | 6.5 | 3288.0 | -60.0 | 
+| 2021-07-15 | 第23回農心杯韓国予選 | Kim Seongjae | Kim Hyeongwoo | Win | B+R | 6.5 | 3348.0 | 203.0 | 
 | 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Kim Seongjae | Cho Hanseung | Lose | W+5.5 | 6.5 | 3145.0 | -136.0 | 
 | 2019-06-27 | 第6回国手山脈韓国国内トーナメント予選 | Kim Seongjae | Kang Yootaek | Win | B+R | 6.5 | 3281.0 | -72.0 | 
-| 2019-02-15 | 第24期GSカルテックス杯16強戦 | Shin Jinseo | Kim Seongjae | Lose | B+R | 6.5 | 3353.0 | 15.0 | 
-| 2019-02-01 | 第24期GSカルテックス杯24強戦 | Weon Seongjin | Kim Seongjae | Win | W+R | 6.5 | 3338.0 | -41.0 | 
-| 2018-10-05 | 2018年韓国囲碁リーグ第14節 | Kim Seongjae | Na Hyun | Lose | W+4.5 | 6.5 | 3379.0 | -14.0 | 
+| 2019-02-15 | 第24期GSカルテックス杯16強戦 | Shin Jinseo | Kim Seongjae | Lose | B+R | 6.5 | 3353.0 | 14.0 | 
+| 2019-02-01 | 第24期GSカルテックス杯24強戦 | Weon Seongjin | Kim Seongjae | Win | W+R | 6.5 | 3339.0 | -41.0 | 
+| 2018-10-05 | 2018年韓国囲碁リーグ第14節 | Kim Seongjae | Na Hyun | Lose | W+4.5 | 6.5 | 3380.0 | -13.0 | 
 | 2018-09-29 | 2018年韓国囲碁リーグ第13節 | Lee Jihyun | Kim Seongjae | Lose | B+R | 6.5 | 3393.0 | -38.0 | 
 | 2018-09-23 | 2018年韓国囲碁リーグ第12節 | Kim Seongjae | Lee Wondo | Lose | W+R | 6.5 | 3431.0 | -45.0 | 
-| 2018-09-13 | 2018年韓国囲碁リーグ第11節 | Choi Jaeyoung | Kim Seongjae | Lose | B+2.5 | 6.5 | 3476.0 | -25.0 | 
-| 2018-08-31 | 2018年韓国囲碁リーグ第10節 | Kim Seongjae | Park Hamin | Win | B+R | 6.5 | 3501.0 | 8.0 | 
-| 2018-08-25 | 2018年韓国囲碁リーグ第9節 | Kim Seongjae | Kang Seungmin | Lose | W+R | 6.5 | 3493.0 | -8.0 | 
-| 2018-08-19 | 2018年韓国囲碁リーグ第8節 | Hong Seongji | Kim Seongjae | Lose | B+R | 6.5 | 3501.0 | -6.0 | 
+| 2018-09-13 | 2018年韓国囲碁リーグ第11節 | Choi Jaeyoung | Kim Seongjae | Lose | B+2.5 | 6.5 | 3476.0 | -26.0 | 
+| 2018-08-31 | 2018年韓国囲碁リーグ第10節 | Kim Seongjae | Park Hamin | Win | B+R | 6.5 | 3502.0 | 8.0 | 
+| 2018-08-25 | 2018年韓国囲碁リーグ第9節 | Kim Seongjae | Kang Seungmin | Lose | W+R | 6.5 | 3494.0 | -8.0 | 
+| 2018-08-19 | 2018年韓国囲碁リーグ第8節 | Hong Seongji | Kim Seongjae | Lose | B+R | 6.5 | 3502.0 | -5.0 | 
 | 2018-08-11 | 2018年韓国囲碁リーグ第7節 | Choi Cheolhan | Kim Seongjae | Lose | B+R | 6.5 | 3507.0 | -16.0 | 
 | 2018-08-03 | 2018年韓国囲碁リーグ第6節 | Han Taehee | Kim Seongjae | Win | W+R | 6.5 | 3523.0 | 6.0 | 
 | 2018-07-19 | 第20回農心杯韓国選抜戦 | Kim Seongjae | Ahn Kukhyun | Lose | W+R | 6.5 | 3517.0 | 0.0 | 
@@ -36,8 +37,8 @@
 | 2018-07-15 | 2018年韓国囲碁リーグ第4節 | Ryu Suhang | Kim Seongjae | Win | W+1.5 | 6.5 | 3569.0 | 49.0 | 
 | 2018-07-13 | 第20回農心杯韓国選抜戦 | Lee Wondo | Kim Seongjae | Win | W+R | 6.5 | 3520.0 | 50.0 | 
 | 2018-06-30 | 2018年韓国囲碁リーグ第3節 | Kim Seongjae | An Jungki | Win | B+2.5 | 6.5 | 3470.0 | 18.0 | 
-| 2018-06-22 | 2018年韓国囲碁リーグ第2節 | Kim Seongjae | Kang Seungmin | Win | B+R | 6.5 | 3452.0 | 30.0 | 
-| 2018-06-14 | 2018年韓国囲碁リーグ第1節 | Kim Seongjae | Kim Kiyoung | Win | B+R | 6.5 | 3422.0 | 32.0 | 
+| 2018-06-22 | 2018年韓国囲碁リーグ第2節 | Kim Seongjae | Kang Seungmin | Win | B+R | 6.5 | 3452.0 | 29.0 | 
+| 2018-06-14 | 2018年韓国囲碁リーグ第1節 | Kim Seongjae | Kim Kiyoung | Win | B+R | 6.5 | 3423.0 | 33.0 | 
 | 2018-02-22 | 第23期GSカルテックス杯プロ棋戦24強戦 | Kim Seongjae | Lee Changseok | Lose | W+0.5 | 6.5 | 3390.0 | 25.0 | 
 | 2017-11-01 | 2017年韓国囲碁リーグワイルドカード決定戦 | Kim Seongjae | Hong Kipyo | Lose | W+1.5 | 6.5 | 3365.0 | -42.0 | 
 | 2017-10-27 | 2017年韓国囲碁リーグ | An Sungjoon | Kim Seongjae | Win | W+3.5 | 6.5 | 3407.0 | 39.0 | 
@@ -47,8 +48,8 @@
 | 2017-09-22 | 2017年韓国囲碁リーグ | Kim Seongjae | Byun Sangil | Win | B+R | 6.5 | 3324.0 | -6.0 | 
 | 2017-09-16 | 2017年韓国囲碁リーグ | Lee Jihyun | Kim Seongjae | Lose | B+R | 6.5 | 3330.0 | -16.0 | 
 | 2017-09-01 | 2017年韓国囲碁リーグ | Kim Seongjae |  | Lose | W+0.5 | 6.5 | 3346.0 | -67.0 | 
-| 2017-08-25 | 2017年韓国囲碁リーグ | Han Taehee | Kim Seongjae | Lose | B+R | 6.5 | 3413.0 | -6.0 | 
-| 2017-08-19 | 2017年韓国囲碁リーグ | An Sungjoon | Kim Seongjae | Lose | B+1.5 | 6.5 | 3419.0 | 2.0 | 
+| 2017-08-25 | 2017年韓国囲碁リーグ | Han Taehee | Kim Seongjae | Lose | B+R | 6.5 | 3413.0 | -7.0 | 
+| 2017-08-19 | 2017年韓国囲碁リーグ | An Sungjoon | Kim Seongjae | Lose | B+1.5 | 6.5 | 3420.0 | 3.0 | 
 | 2017-08-13 | 2017年韓国囲碁リーグ | Mok Jinseok | Kim Seongjae | Lose | B+1.5 | 6.5 | 3417.0 | -34.0 | 
 | 2017-08-03 | 2017年韓国囲碁リーグ | Yun Junsang | Kim Seongjae | Win | W+R | 6.5 | 3451.0 | 17.0 | 
 | 2017-07-23 | 2017年韓国囲碁リーグ | Shin Jinseo | Kim Seongjae | Lose | B+R | 6.5 | 3434.0 | 18.0 | 
@@ -65,8 +66,8 @@
 | 2016-11-20 | 2016年韓国囲碁リーグ | Kim Myounghoon | Kim Seongjae | Lose | B+R | 6.5 | 3379.0 | -11.0 | 
 | 2016-11-18 | 2016年韓国囲碁リーグ | Kim Seongjae | Shin Jinseo | Lose | W+R | 6.5 | 3390.0 | -27.0 | 
 | 2016-11-04 | 2016年韓国囲碁リーグ | Kim Seongjae | An Sungjoon | Lose | W+R | 6.5 | 3417.0 | 1.0 | 
-| 2016-10-23 | 2016年韓国囲碁リーグ | Yun Chanhee | Kim Seongjae | Win | W+R | 6.5 | 3416.0 | 101.0 | 
-| 2016-10-06 | 2016年韓国囲碁リーグ | Kim Seongjae | Lee Yeongkyu | Lose | W+R | 6.5 | 3315.0 | 39.0 | 
+| 2016-10-23 | 2016年韓国囲碁リーグ | Yun Chanhee | Kim Seongjae | Win | W+R | 6.5 | 3416.0 | 100.0 | 
+| 2016-10-06 | 2016年韓国囲碁リーグ | Kim Seongjae | Lee Yeongkyu | Lose | W+R | 6.5 | 3316.0 | 40.0 | 
 | 2016-09-30 | 2016年韓国囲碁リーグ | Lee Changseok | Kim Seongjae | Win | W+R | 6.5 | 3276.0 | -8.0 | 
 | 2016-09-24 | 2016年韓国囲碁リーグ第14節 | Han Taehee | Kim Seongjae | Win | W+R | 6.5 | 3284.0 | 19.0 | 
 | 2016-09-18 | 2016年韓国囲碁リーグ第13節 | Kim Seongjae | Yun Junsang | Win | B+R | 6.5 | 3265.0 | -9.0 | 

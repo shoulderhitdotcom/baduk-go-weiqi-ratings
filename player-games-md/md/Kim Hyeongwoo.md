@@ -7,52 +7,53 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-01-22 | 2021-2022韓国囲碁リーグ | Choi Jeong | Kim Hyeongwoo | Win | W+0.5 | 6.5 | 3284.0 | 5.0 | 
-| 2022-01-16 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Choi Kyeongho | Win | B+R | 6.5 | 3279.0 | -10.0 | 
-| 2022-01-04 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Kim Jiseok | Kim Hyeongwoo | Lose | B+R | 6.5 | 3289.0 | -58.0 | 
-| 2021-12-18 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Park Geunho | Lose | W+R | 6.5 | 3347.0 | 28.0 | 
-| 2021-12-03 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Lee Wonyoung | Win | B+1.5 | 6.5 | 3319.0 | -19.0 | 
-| 2021-11-27 | 2021-2022韓国囲碁リーグ | Park Junghwan | Kim Hyeongwoo | Lose | B+R | 6.5 | 3338.0 | 1.0 | 
-| 2021-11-20 | 2021-2022韓国囲碁リーグ | Yun Chanhee | Kim Hyeongwoo | Lose | B+R | 6.5 | 3337.0 | 3.0 | 
-| 2021-07-15 | 第23回農心杯韓国予選 | Kim Seongjae | Kim Hyeongwoo | Lose | B+R | 6.5 | 3334.0 | -13.0 | 
-| 2021-04-26 | 第26回LG杯韓国予選 | Park Hyunsoo | Kim Hyeongwoo | Lose | B+7.5 | 6.5 | 3347.0 | -12.0 | 
-| 2021-03-17 | 2020-2021韓国囲碁リーグ準プレーオフ | Kim Hyeongwoo | Byun Sangil | Lose | W+R | 6.5 | 3359.0 | -27.0 | 
-| 2021-03-07 | 2020-2021フューチャーズリーグ | Ju Hyeongwuk | Kim Hyeongwoo | Win | W+R | 6.5 | 3386.0 | 25.0 | 
-| 2021-02-27 | 2020-2021韓国囲碁リーグ | Wen Rubin | Kim Hyeongwoo | Win | W+R | 6.5 | 3361.0 | 9.0 | 
-| 2021-02-20 | 2020-2021フューチャーズリーグ |  | Kim Hyeongwoo | Win | W+R | 6.5 | 3352.0 | 5.0 | 
-| 2021-02-18 | 2020-2021韓国囲碁リーグ | Lee Wonyoung | Kim Hyeongwoo | Win | W+R | 6.5 | 3347.0 | 71.0 | 
-| 2021-02-13 | 2020-2021フューチャーズリーグ | Kim Hyeongwoo | Oh Yujin | Win | B+R | 6.5 | 3276.0 | 15.0 | 
-| 2021-02-11 | 2020-2021韓国囲碁リーグ | Shen Zaiyi | Kim Hyeongwoo | Win | W+R | 6.5 | 3261.0 | 36.0 | 
-| 2021-02-06 | 2020-2021フューチャーズリーグ | Kim Sonjin | Kim Hyeongwoo | Win | W+3.5 | 6.5 | 3225.0 | 18.0 | 
-| 2021-02-02 | 第4期韓国竜星戦予選 | Kang Dongyun | Kim Hyeongwoo | Lose | B+4.5 | 6.5 | 3207.0 | -10.0 | 
-| 2021-01-31 | 2020-2021フューチャーズリーグ | Kim Hyeongwoo | Song Gyusang | Lose | W+2.5 | 6.5 | 3217.0 | -9.0 | 
-| 2021-01-23 | 2020-2021フューチャーズリーグ |  | Kim Hyeongwoo | Win | W+R | 6.5 | 3226.0 | 2.0 | 
-| 2021-01-16 | 2020-2021フューチャーズリーグ | Park Jaekeun | Kim Hyeongwoo | Win | W+R | 6.5 | 3224.0 | 36.0 | 
-| 2021-01-15 | 2020-2021韓国囲碁リーグ | Kim Hyeongwoo | Baek Hyeonwoo | Lose | W+2.5 | 6.5 | 3188.0 | -33.0 | 
-| 2021-01-09 | 2020-2021フューチャーズリーグ | Kim Sedong | Kim Hyeongwoo | Lose | B+R | 6.5 | 3221.0 | -25.0 | 
-| 2021-01-07 | 2020-2021韓国囲碁リーグ | Kim Hyeongwoo | Paek Hongseok | Win | B+R | 6.5 | 3246.0 | 33.0 | 
-| 2021-01-06 | 2020-2021フューチャーズリーグ | Kim Hyeongwoo | Lee Wondo | Win | B+2.5 | 6.5 | 3213.0 | 43.0 | 
-| 2020-12-30 | 2020-2021フューチャーズリーグ | Oh Jeonga | Kim Hyeongwoo | Win | W+2.5 | 6.5 | 3170.0 | -4.0 | 
-| 2020-12-23 | 2020-2021フューチャーズリーグ | Kim Sonjin | Kim Hyeongwoo | Win | W+R | 6.5 | 3174.0 | 15.0 | 
-| 2020-12-12 | 2020-2021KBフューチャーズリーグ | Kim Hyeongwoo | Kim Minho | Win | B+R | 6.5 | 3159.0 | 8.0 | 
-| 2020-12-06 | 2020-2021フューチャーズリーグ | Kim Hyeongwoo | Kim Sangcheon | Lose | W+R | 6.5 | 3151.0 | -71.0 | 
-| 2020-11-29 | 2020-2021フューチャーズリーグ | Han Sanghoon | Kim Hyeongwoo | Win | W+R | 6.5 | 3222.0 | -14.0 | 
-| 2020-09-28 | 第22回農心杯韓国選抜戦 | Kim Hyeongwoo | Lee Yeongkyu | Lose | W+R | 6.5 | 3236.0 | 14.0 | 
-| 2020-04-20 | 第25回LG杯韓国予選 | Kim Hyeongwoo | Choi Cheolhan | Lose | W+R | 6.5 | 3222.0 | -42.0 | 
-| 2020-04-14 | 第25回LG杯韓国予選 | Park Hamin | Kim Hyeongwoo | Win | W+R | 6.5 | 3264.0 | 142.0 | 
-| 2020-04-02 | 第25期GSカルテックス杯プロ棋戦24強戦 | Baek Hyeonwoo | Kim Hyeongwoo | Lose | B+R | 6.5 | 3122.0 | -61.0 | 
-| 2019-12-16 | 第25期GSカルテックス杯プロ棋戦予選決勝 | Kim Hyeongwoo | Park Geunho | Win | B+1.5 | 6.5 | 3183.0 | -93.0 | 
-| 2017-10-28 | 2017年フューチャーズリーグ |  | Kim Hyeongwoo | Win | W+7.5 | 6.5 | 3276.0 | -3.0 | 
+| 2022-02-04 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | An Sungjoon | Lose | W+5.5 | 6.5 | 3294.0 | 7.0 | 
+| 2022-01-22 | 2021-2022韓国囲碁リーグ | Choi Jeong | Kim Hyeongwoo | Win | W+0.5 | 6.5 | 3287.0 | 5.0 | 
+| 2022-01-16 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Choi Kyeongho | Win | B+R | 6.5 | 3282.0 | -10.0 | 
+| 2022-01-04 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Kim Jiseok | Kim Hyeongwoo | Lose | B+R | 6.5 | 3292.0 | -57.0 | 
+| 2021-12-18 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Park Geunho | Lose | W+R | 6.5 | 3349.0 | 28.0 | 
+| 2021-12-03 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Lee Wonyoung | Win | B+1.5 | 6.5 | 3321.0 | -19.0 | 
+| 2021-11-27 | 2021-2022韓国囲碁リーグ | Park Junghwan | Kim Hyeongwoo | Lose | B+R | 6.5 | 3340.0 | 0.0 | 
+| 2021-11-20 | 2021-2022韓国囲碁リーグ | Yun Chanhee | Kim Hyeongwoo | Lose | B+R | 6.5 | 3340.0 | 4.0 | 
+| 2021-07-15 | 第23回農心杯韓国予選 | Kim Seongjae | Kim Hyeongwoo | Lose | B+R | 6.5 | 3336.0 | -14.0 | 
+| 2021-04-26 | 第26回LG杯韓国予選 | Park Hyunsoo | Kim Hyeongwoo | Lose | B+7.5 | 6.5 | 3350.0 | -11.0 | 
+| 2021-03-17 | 2020-2021韓国囲碁リーグ準プレーオフ | Kim Hyeongwoo | Byun Sangil | Lose | W+R | 6.5 | 3361.0 | -27.0 | 
+| 2021-03-07 | 2020-2021フューチャーズリーグ | Ju Hyeongwuk | Kim Hyeongwoo | Win | W+R | 6.5 | 3388.0 | 25.0 | 
+| 2021-02-27 | 2020-2021韓国囲碁リーグ | Wen Rubin | Kim Hyeongwoo | Win | W+R | 6.5 | 3363.0 | 9.0 | 
+| 2021-02-20 | 2020-2021フューチャーズリーグ |  | Kim Hyeongwoo | Win | W+R | 6.5 | 3354.0 | 5.0 | 
+| 2021-02-18 | 2020-2021韓国囲碁リーグ | Lee Wonyoung | Kim Hyeongwoo | Win | W+R | 6.5 | 3349.0 | 71.0 | 
+| 2021-02-13 | 2020-2021フューチャーズリーグ | Kim Hyeongwoo | Oh Yujin | Win | B+R | 6.5 | 3278.0 | 15.0 | 
+| 2021-02-11 | 2020-2021韓国囲碁リーグ | Shen Zaiyi | Kim Hyeongwoo | Win | W+R | 6.5 | 3263.0 | 36.0 | 
+| 2021-02-06 | 2020-2021フューチャーズリーグ | Kim Sonjin | Kim Hyeongwoo | Win | W+3.5 | 6.5 | 3227.0 | 18.0 | 
+| 2021-02-02 | 第4期韓国竜星戦予選 | Kang Dongyun | Kim Hyeongwoo | Lose | B+4.5 | 6.5 | 3209.0 | -10.0 | 
+| 2021-01-31 | 2020-2021フューチャーズリーグ | Kim Hyeongwoo | Song Gyusang | Lose | W+2.5 | 6.5 | 3219.0 | -9.0 | 
+| 2021-01-23 | 2020-2021フューチャーズリーグ |  | Kim Hyeongwoo | Win | W+R | 6.5 | 3228.0 | 2.0 | 
+| 2021-01-16 | 2020-2021フューチャーズリーグ | Park Jaekeun | Kim Hyeongwoo | Win | W+R | 6.5 | 3226.0 | 36.0 | 
+| 2021-01-15 | 2020-2021韓国囲碁リーグ | Kim Hyeongwoo | Baek Hyeonwoo | Lose | W+2.5 | 6.5 | 3190.0 | -33.0 | 
+| 2021-01-09 | 2020-2021フューチャーズリーグ | Kim Sedong | Kim Hyeongwoo | Lose | B+R | 6.5 | 3223.0 | -24.0 | 
+| 2021-01-07 | 2020-2021韓国囲碁リーグ | Kim Hyeongwoo | Paek Hongseok | Win | B+R | 6.5 | 3247.0 | 33.0 | 
+| 2021-01-06 | 2020-2021フューチャーズリーグ | Kim Hyeongwoo | Lee Wondo | Win | B+2.5 | 6.5 | 3214.0 | 43.0 | 
+| 2020-12-30 | 2020-2021フューチャーズリーグ | Oh Jeonga | Kim Hyeongwoo | Win | W+2.5 | 6.5 | 3171.0 | -5.0 | 
+| 2020-12-23 | 2020-2021フューチャーズリーグ | Kim Sonjin | Kim Hyeongwoo | Win | W+R | 6.5 | 3176.0 | 15.0 | 
+| 2020-12-12 | 2020-2021KBフューチャーズリーグ | Kim Hyeongwoo | Kim Minho | Win | B+R | 6.5 | 3161.0 | 8.0 | 
+| 2020-12-06 | 2020-2021フューチャーズリーグ | Kim Hyeongwoo | Kim Sangcheon | Lose | W+R | 6.5 | 3153.0 | -71.0 | 
+| 2020-11-29 | 2020-2021フューチャーズリーグ | Han Sanghoon | Kim Hyeongwoo | Win | W+R | 6.5 | 3224.0 | -13.0 | 
+| 2020-09-28 | 第22回農心杯韓国選抜戦 | Kim Hyeongwoo | Lee Yeongkyu | Lose | W+R | 6.5 | 3237.0 | 14.0 | 
+| 2020-04-20 | 第25回LG杯韓国予選 | Kim Hyeongwoo | Choi Cheolhan | Lose | W+R | 6.5 | 3223.0 | -42.0 | 
+| 2020-04-14 | 第25回LG杯韓国予選 | Park Hamin | Kim Hyeongwoo | Win | W+R | 6.5 | 3265.0 | 142.0 | 
+| 2020-04-02 | 第25期GSカルテックス杯プロ棋戦24強戦 | Baek Hyeonwoo | Kim Hyeongwoo | Lose | B+R | 6.5 | 3123.0 | -61.0 | 
+| 2019-12-16 | 第25期GSカルテックス杯プロ棋戦予選決勝 | Kim Hyeongwoo | Park Geunho | Win | B+1.5 | 6.5 | 3184.0 | -93.0 | 
+| 2017-10-28 | 2017年フューチャーズリーグ |  | Kim Hyeongwoo | Win | W+7.5 | 6.5 | 3277.0 | -2.0 | 
 | 2017-10-21 | 2017年フューチャーズリーグ | Kim Hyeongwoo |  | Lose | W+1.5 | 6.5 | 3279.0 | -27.0 | 
 | 2017-10-18 | 2017年フューチャーズリーグ | Kim Dongho | Kim Hyeongwoo | Lose | B+2.5 | 6.5 | 3306.0 | -24.0 | 
 | 2017-10-15 | 2017年韓国囲碁リーグ | Kim Hyeongwoo | Kim Kiyoung | Win | B+R | 6.5 | 3330.0 | 50.0 | 
-| 2017-10-07 | 2017年フューチャーズリーグ | Park Hamin | Kim Hyeongwoo | Win | W+R | 6.5 | 3280.0 | 34.0 | 
-| 2017-09-23 | 2017年フューチャーズリーグ | Kim Hyeongwoo |  | Win | B+R | 6.5 | 3246.0 | 29.0 | 
+| 2017-10-07 | 2017年フューチャーズリーグ | Park Hamin | Kim Hyeongwoo | Win | W+R | 6.5 | 3280.0 | 33.0 | 
+| 2017-09-23 | 2017年フューチャーズリーグ | Kim Hyeongwoo |  | Win | B+R | 6.5 | 3247.0 | 30.0 | 
 | 2017-09-17 | 2017年フューチャーズリーグ | Kim Hyeongwoo | An Jungki | Lose | W+R | 6.5 | 3217.0 | -30.0 | 
-| 2017-09-02 | 2017年フューチャーズリーグ | Kim Hyeongwoo | Kim Sonjin | Win | B+0.5 | 6.5 | 3247.0 | 12.0 | 
-| 2017-08-26 | 2017年フューチャーズリーグ | Park Geunho | Kim Hyeongwoo | Win | W+R | 6.5 | 3235.0 | 45.0 | 
-| 2017-08-23 | 2017年フューチャーズリーグ | Kim Hyeongwoo | Park Joonhoon | Lose | W+0.5 | 6.5 | 3190.0 | -25.0 | 
-| 2017-08-19 | 2017年韓国囲碁リーグ | Lee Yeongkyu | Kim Hyeongwoo | Lose | B+R | 6.5 | 3215.0 | -18.0 | 
+| 2017-09-02 | 2017年フューチャーズリーグ | Kim Hyeongwoo | Kim Sonjin | Win | B+0.5 | 6.5 | 3247.0 | 11.0 | 
+| 2017-08-26 | 2017年フューチャーズリーグ | Park Geunho | Kim Hyeongwoo | Win | W+R | 6.5 | 3236.0 | 46.0 | 
+| 2017-08-23 | 2017年フューチャーズリーグ | Kim Hyeongwoo | Park Joonhoon | Lose | W+0.5 | 6.5 | 3190.0 | -26.0 | 
+| 2017-08-19 | 2017年韓国囲碁リーグ | Lee Yeongkyu | Kim Hyeongwoo | Lose | B+R | 6.5 | 3216.0 | -17.0 | 
 | 2017-08-15 | 2017年フューチャーズリーグ | Kim Hyeongwoo |  | Lose | W+R | 6.5 | 3233.0 | -77.0 | 
 | 2017-08-13 | 2017年韓国囲碁リーグ | Kim Hyeongwoo | Kim Minho | Win | B+R | 6.5 | 3310.0 | 15.0 | 
 | 2017-08-05 | 2017年フューチャーズリーグ | Kim Hyeongwoo | Park Jaekeun | Lose | W+R | 6.5 | 3295.0 | -92.0 | 

@@ -7,8 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-01-22 | 2021-2022フューチャーズリーグ | Park Jinyoung | Kim Daeyoung | Lose | B+R | 6.5 | 2756.0 | -22.0 | 
-| 2022-01-15 | 2021-2022フューチャーズリーグ | Kim Daeyoung | Gang Woohyeok | Lose | W+R | 6.5 | 2778.0 | -303.0 | 
+| 2022-02-06 | 2021-2022フューチャーズリーグ | An Joyeong | Kim Daeyoung | Win | W+3.5 | 6.5 | 2877.0 | 117.0 | 
+| 2022-01-22 | 2021-2022フューチャーズリーグ | Park Jinyoung | Kim Daeyoung | Lose | B+R | 6.5 | 2760.0 | -22.0 | 
+| 2022-01-15 | 2021-2022フューチャーズリーグ | Kim Daeyoung | Gang Woohyeok | Lose | W+R | 6.5 | 2782.0 | -299.0 | 
 | 2016-05-16 | 第35回KBS杯囲碁王戦2回戦 | Kim Daeyoung | Lee Sedol | Lose | W+R | 6.5 | 3081.0 | 5.0 | 
 | 2016-04-06 | 第35回KBS杯囲碁王戦1回戦 | Kim Daeyoung |  | Win | B+R | 6.5 | 3076.0 | 10.0 | 
 | 2015-10-11 | 2015年フューチャーズリーグ | Kim Daeyoung | Lee Changseok | Lose | W+R | 6.5 | 3066.0 | 0.0 | 

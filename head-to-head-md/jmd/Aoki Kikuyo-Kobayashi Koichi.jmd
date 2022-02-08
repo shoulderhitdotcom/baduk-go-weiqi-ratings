@@ -1,4 +1,4 @@
-## Nakamura Sumire Games
+## Aoki Kikuyo vs Kobayashi Koichi Head to head
 
 [Back to ranking](../../index.md)
 
@@ -9,6 +9,7 @@ using DataFrames: DataFrame
 
 include("c:/weiqi/simulation/utils.jl")
 
-pings_for_md = JDF.load("../jdf/Nakamura Sumire.jdf") |> DataFrame
+pings_for_md = JDF.load("../jdf/Aoki Kikuyo-Kobayashi Koichi.jdf") |> DataFrame
+
 df_to_md(pings_for_md)
 ```

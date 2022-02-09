@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-09 | 2021-2022フューチャーズリーグ | Choi Kyeongho | Park Jinyoung | Lose | W+R | 6.5 | 3004.0 | -5.0 | 
 | 2022-02-07 | 2022YK建機杯予選 | Cho Seungah | Choi Kyeongho | Win | W+R | 6.5 | 3009.0 | 32.0 | 
 | 2022-01-19 | 2021-2022フューチャーズリーグ | Choi Kyeongho |  | Lose | W+R | 6.5 | 2977.0 | -19.0 | 
 | 2022-01-16 | 2021-2022韓国囲碁リーグ | Kim Hyeongwoo | Choi Kyeongho | Lose | B+R | 6.5 | 2996.0 | 18.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-09 | 第26回LG杯朝鮮日報棋王戦決勝三番勝負第2局 | Shin Jinseo | Yang Dingxin | Lose | B+R | 6.5 | 3651.0 | -4.0 | 
 | 2022-02-07 | 第26回LG杯朝鮮日報棋王戦決勝三番勝負第1局 | Yang Dingxin | Shin Jinseo | Lose | W+R | 6.5 | 3655.0 | -42.0 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Tuo Jiaxi | Yang Dingxin | Lose | B+R | 7.5 | 3697.0 | -11.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Yang Dingxin | Tuo Jiaxi | Win | B+R | 7.5 | 3708.0 | 18.0 | 

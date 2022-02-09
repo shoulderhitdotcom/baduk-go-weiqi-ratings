@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-09 | 第26回LG杯朝鮮日報棋王戦決勝三番勝負第2局 | Shin Jinseo | Yang Dingxin | Win | B+R | 6.5 | 3833.0 | 0.0 | 
 | 2022-02-07 | 第26回LG杯朝鮮日報棋王戦決勝三番勝負第1局 | Yang Dingxin | Shin Jinseo | Win | W+R | 6.5 | 3833.0 | 0.0 | 
 | 2022-01-20 | 第23回中国囲碁甲級リーグ優勝決定戦第2戦 | Ding Hao | Shin Jinseo | Win | W+R | 7.5 | 3833.0 | 0.0 | 
 | 2022-01-20 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Park Joonhoon | Win | B+R | 6.5 | 3833.0 | 0.0 | 

@@ -5,151 +5,127 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第25回LG杯韓国予選 | Min Sangyoun | An Sungjoon | W+R | 2020-04-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2wj88j0V5bE92ap1l8vJFg%3D%3D) | 
-| 2019-2020KBフューチャーズリーグ第18節第2試合第1局 | Min Sangyoun | Kim Kiyoung | B+1.5 | 2020-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2V7kf0EoRh62isp8Tx6e8A%3D%3D) | 
-| 2019-2020KBフューチャーズリーグ第17節第1試合第1局 | Min Sangyoun | Park Hyunsoo | B+R | 2020-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nrR0Z5LSlnA%2BXeeIU5Ok%2Fg%3D%3D) | 
-| 2019-2020KBフューチャーズリーグ第16節第4試合第1局 | missing | Min Sangyoun | B+R | 2020-01-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PLoAE9fTrZNGVhSpGPEQhg%3D%3D) | 
-| 2019-2020KBフューチャーズリーグ第15節第1試合第1局 | missing | Min Sangyoun | W+R | 2020-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XJJ2COnatHdGloDK1pCrVQ%3D%3D) | 
-| 2019-2020フューチャーズリーグ第13節第2試合第1局 | Kang Changbae | Min Sangyoun | B+R | 2019-12-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=aeoBQtWxiOLDblamZt9jzA%3D%3D) | 
-| 2019-2020フューチャーズリーグ第12節第3試合第1局 | Min Sangyoun | Lee Chungyu | W+R | 2019-12-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FF0MGtyRB3XChCGqNsSnkQ%3D%3D) | 
-| 2019-2020フューチャーズリーグ第11節第2試合第1局 | Min Sangyoun | Kim Sedong | W+R | 2019-12-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I5MBpLmOvkWo%2F03%2B41%2FuOg%3D%3D) | 
-| 2019-2020フューチャーズリーグ第10節第2試合第3局 | Min Sangyoun | Hong Kipyo | W+R | 2019-12-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WPZ6VJ5jt6xdUOWqoeJcpg%3D%3D) | 
-| 2019-2020フューチャーズリーグ第9節第3試合第3局 | Min Sangyoun | missing | B+2.5 | 2019-12-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eAUUyjzESwuoUyqMcL266A%3D%3D) | 
-| 2019-2020フューチャーズリーグ第8節第4試合第1局 | Yun Hyuk | Min Sangyoun | B+1.5 | 2019-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VR%2BYdC3idFEzdqF5b52l7A%3D%3D) | 
-| 2019-2020韓国囲碁リーグ第8節第4試合第5局 | Min Sangyoun | Yun Junsang | W+R | 2019-11-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PUUZeTNFkMcfU%2Bc%2BA0d1yw%3D%3D) | 
-| 20219-2020フューチャーズリーグ第7節第1試合第1局 | Min Sangyoun | Choi Wongyong | W+R | 2019-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S35SEilWOXtWaZNW1srM%2BQ%3D%3D) | 
-| 2019-2020フューチャーズリーグ第6節第4試合第1局 | missing | Min Sangyoun | W+R | 2019-11-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NqXFgE5AFGk0M4D5lCVfLg%3D%3D) | 
-| 2019-2020フューチャーズリーグ第4節第3試合第1局 | Min Sangyoun | Han Wonggyu | B+2.5 | 2019-10-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o5Y803PcmGJMsaL%2BNnA1qg%3D%3D) | 
-| 2019-2020フューチャーズリーグ第3節第2試合第1局 | Lee Hyunho | Min Sangyoun | B+R | 2019-10-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UQ%2FMKqFwwQvHg%2BXWHDm9ow%3D%3D) | 
-| 2019-2020フューチャーズリーグ第2節第3試合第1局 | Min Sangyoun | Park Junsuck | B+R | 2019-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pZEjlBVt4jGvHygsiXOYvw%3D%3D) | 
-| 2019-2020フューチャーズリーグ第1節第3試合第2局 | missing | Min Sangyoun | B+R | 2019-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IWQt5zA%2BHuyFv1ILk%2FDpow%3D%3D) | 
-| 2019年囲碁テレビ杯早碁戦予選1回戦 | Shen Zaiyi | Min Sangyoun | W+R | 2019-04-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1QpKAICNVE8WWp6HT9QacQ%3D%3D) | 
-| 2016年韓国囲碁リーグ | Min Sangyoun | Kang Yootaek | W+R | 2016-11-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=USvbpn9CGHa7WxQZmDclyg%3D%3D) | 
-| 2016年韓国囲碁リーグ | Min Sangyoun | Park Seunghwa | W+R | 2016-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ylRbn%2Flv3Tfz5bAAQ3uU8A%3D%3D) | 
-| 2016年韓国囲碁リーグ | Min Sangyoun | Kim Myounghoon | W+R | 2016-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BtYd6l%2BtVWIQw0SZ4mk1GA%3D%3D) | 
-| 2016年韓国囲碁リーグ | Min Sangyoun | Mok Jinseok | B+2.5 | 2016-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=faqvkhcAuAUyw5LTqgF%2FPA%3D%3D) | 
-| 2016年韓国囲碁リーグ | Min Sangyoun | Byun Sangil | W+R | 2016-09-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r7a2ZnCjPyuChbsL3F1d4w%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Lin Junyan | Min Sangyoun | W+2.5 | 2016-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LerYbh5azn3QU9urzVLGog%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Li Qincheng | Min Sangyoun | B+R | 2016-09-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hGRfGLdMpF%2Fus7mg7teCLg%3D%3D) | 
-| 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Min Sangyoun | Hirata Tomoya | W+R | 2016-09-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mHqSZEzMd9YIs5CZYEOV3A%3D%3D) | 
-| 2016年韓国囲碁リーグ第13節 | Lee Wonyoung | Min Sangyoun | W+R | 2016-09-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PtAvZVuuHJV%2B4mdP5xzn%2Bw%3D%3D) | 
-| 2016年韓国囲碁リーグ第12節 | Min Sangyoun | Yun Junsang | B+5.5 | 2016-09-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K0DHswSEVr5Clq4Ej%2FqniQ%3D%3D) | 
-| 2016年韓国囲碁リーグ第10節 | Park Cheongsang | Min Sangyoun | B+R | 2016-08-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0r%2F3GuozsuNuNUMraSii8w%3D%3D) | 
-| 2016年韓国囲碁リーグ第9節 | Min Sangyoun | missing | W+R | 2016-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9VMcbN4M4mMlgUjGFjZ3fw%3D%3D) | 
-| 2016年韓国囲碁リーグ第8節 | Lee Changho | Min Sangyoun | B+R | 2016-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I5wESZGLRCyus0uyGSc5Fg%3D%3D) | 
-| 2016年韓国囲碁リーグ第7節 | Min Sangyoun | Shin Minjun | W+R | 2016-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fe72BupW%2FSi%2FFU8JpcRxWg%3D%3D) | 
-| 第21回三星火災杯統合予選1回戦 | Min Sangyoun | Tsuruta Kazushi | B+R | 2016-07-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YgYt%2B9MUbkciH%2BuVu5t07A%3D%3D) | 
-| 第18回農心杯韓国選抜戦 | missing | Min Sangyoun | B+R | 2016-07-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SwHuhAVz0OHgstTwN0ShkA%3D%3D) | 
-| 2016年韓国囲碁リーグ第6節 | Min Sangyoun | Kim Daehee | W+0.5 | 2016-07-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XIOE2MZ%2F0fBw9fYu3EPSQg%3D%3D) | 
-| 第3回百霊杯世界オープン戦3回戦 | Ke Jie | Min Sangyoun | B+R | 2016-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ueyin2oU5LaQJVn4xItMRQ%3D%3D) | 
-| 第3回百霊杯世界オープン戦2回戦 | Tang Yi | Min Sangyoun | W+R | 2016-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BZz08JV2GNi%2FwtyIsGdT%2Bw%3D%3D) | 
-| 第3回百霊杯世界オープン戦1回戦 | Hsu Chiayuan | Min Sangyoun | W+R | 2016-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v9q7IGA0swGy6PxyzzuNEA%3D%3D) | 
-| 2016年韓国囲碁リーグ第4節 | missing | Min Sangyoun | W+R | 2016-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=l3KQiuzIHMl%2BDKqskUoMSw%3D%3D) | 
-| 2016年韓国囲碁リーグ第3節 | Kim Jiseok | Min Sangyoun | B+R | 2016-06-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SQfO0Dbq27JToy2WJ%2B1yDw%3D%3D) | 
-| 2016年韓国囲碁リーグ第2節 | Park Junghwan | Min Sangyoun | B+R | 2016-06-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uwca3JsZWehyXRd6Qei2yA%3D%3D) | 
-| 2016年韓国囲碁リーグ第1節 | Park Cheongsang | Min Sangyoun | W+2.5 | 2016-05-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2Zhfqmu0kNADRPJ8ZwmeYA%3D%3D) | 
-| 第35回KBS杯囲碁王戦2回戦 | Min Sangyoun | Paek Hongseok | W+R | 2016-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HJ5FWCZNJNzR8nPX0MzAOw%3D%3D) | 
-| 第35回KBS杯囲碁王戦1回戦 | Min Sangyoun | missing | B+2.5 | 2016-02-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rYbxnYggO%2FMHhpcInaZ%2BKA%3D%3D) | 
-| 第17回農心辛ラーメン杯世界囲碁最強戦第3戦 | Ichiriki Ryo | Min Sangyoun | B+R | 2015-10-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5YozD4gscy3zjPz%2Bs0zISQ%3D%3D) | 
-| 第43期名人戦（韓国）2回戦 | Park Yeonghun | Min Sangyoun | B+R | 2015-10-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=akoM8WVykdRSbQ4KyVVcBg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Min Sangyoun | Kang Dongyun | B+1.5 | 2015-10-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b6n2AT8pXWCrhngDsW2XWA%3D%3D) | 
-| 2015年レッツランパーク杯オープントーナメント1回戦 | missing | Min Sangyoun | B+0.5 | 2015-09-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Jw5rDGIvCZM4jrFEIUt4GA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Song Jihoon | Min Sangyoun | W+R | 2015-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9j4sTEJin4fChTU0ye8BqQ%3D%3D) | 
-| 第43期名人戦（韓国）1回戦 | Min Sangyoun | An Sungjoon | B+R | 2015-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I4udZ8qLie4oqjzW5P%2BZ5Q%3D%3D) | 
-| 2015年韓国囲碁リーグ | Min Sangyoun | Na Hyun | B+R | 2015-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=G%2BBOlpjNkJ2Rh24UJxrK%2Fg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Junghyun | Min Sangyoun | W+0.5 | 2015-09-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m9DM9Fzm%2Bo853p196AX%2FGQ%3D%3D) | 
-| 第43期名人戦（韓国）予選 | Min Sangyoun | Yun Chanhee | B+R | 2015-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=THfY9qh9Ozf5jIgFcjUOeQ%3D%3D) | 
-| 2015年韓国囲碁リーグ | Yun Junsang | Min Sangyoun | B+R | 2015-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5FY8o7VxHGm4cFwxI9b%2FRg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Min Sangyoun | Park Minkyu | W+R | 2015-08-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BMeBkMF1xo0a9VO%2BOb9fNA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Kim Daeyoung | Min Sangyoun | W+R | 2015-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MHWxakEjuD32T2hK8PPDDQ%3D%3D) | 
-| 2015年韓国囲碁リーグ | Min Sangyoun | Mok Jinseok | B+R | 2015-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Usg3MIXfESETP8YRuWQJLA%3D%3D) | 
-| 第17回農心杯韓国選抜戦 | Heo Yongho | Min Sangyoun | W+R | 2015-07-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HYyp7qPv9%2B%2Br%2FCamhdBUTA%3D%3D) | 
-| 2015年韓国囲碁リーグ | Min Sangyoun | Shin Jinseo | W+0.5 | 2015-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8aqOe8vhuRhqo1KkfbXX4g%3D%3D) | 
-| 2015年韓国囲碁リーグ | missing | Min Sangyoun | W+R | 2015-06-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1HIlRKvwi9QZTedoo324Zg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Min Sangyoun | Byun Sangil | W+R | 2015-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2ZIrdenGQmL3Oph4yplu4w%3D%3D) | 
-| 2015年韓国囲碁リーグ | Ko Keuntae | Min Sangyoun | W+R | 2015-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=htqPl8gqJMAmiVDywUF1dg%3D%3D) | 
-| 2015年韓国囲碁リーグ | Heo Yongho | Min Sangyoun | B+R | 2015-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gM3piAfTuLM3s0MwYKnSPw%3D%3D) | 
-| 第34回KBS杯囲碁王戦2回戦 | Min Sangyoun | missing | W+R | 2015-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sWGOv9%2BofCPHEvvgH9EZhw%3D%3D) | 
-| 2015年韓国囲碁リーグ | Yun Chanhee | Min Sangyoun | B+R | 2015-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ds2RIH26wowYJkb%2Be9T9qA%3D%3D) | 
-| 第34回KBS杯囲碁王戦1回戦 | Kim Minho | Min Sangyoun | W+R | 2015-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=M8M6xHuMPQdJTeq%2FlcPk%2BQ%3D%3D) | 
-| 2015年韓国囲碁リーグ | Min Sangyoun | Hong Minpyo | B+R | 2015-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7buW3Tu9UatsnYu6bhcgFQ%3D%3D) | 
-| 2015年韓国囲碁リーグ | Min Sangyoun | Shin Minjun | W+R | 2015-04-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W8tAwcbJbYTbQzd%2FqPZAFQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Min Sangyoun | Na Hyun | W+R | 2014-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3STdjPZRVLzfPgW%2BrHQBLg%3D%3D) | 
-| 2014年韓国囲碁リーグ | Lee Changho | Min Sangyoun | W+R | 2014-10-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zrNXHBQQqEzrwORkWz01vw%3D%3D) | 
-| 第33回KBS杯囲碁王戦敗者復活戦2回戦 | Yun Chanhee | Min Sangyoun | B+R | 2014-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gNiPRrDV06wfJEsMWgRyVw%3D%3D) | 
-| 第33回KBS杯囲碁王戦敗者復活戦1回戦 | Lee Jihyun | Min Sangyoun | W+R | 2014-10-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t9VeNU3M0flBcg2abU3tYg%3D%3D) | 
-| 2014年韓国囲碁リーグ | Min Sangyoun | Park Jinsol | B+4.5 | 2014-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5a2q3R8ky%2BepRKQOu1xe%2Bg%3D%3D) | 
-| 2014年韓国囲碁リーグ | Shin Jinseo | Min Sangyoun | W+R | 2014-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=87RMemXuQVp%2F4BKMY2ks6g%3D%3D) | 
-| 第33回KBS杯囲碁王戦本戦2回戦 | Min Sangyoun | Cho Hanseung | W+R | 2014-09-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LlR8OqD%2BNMQ3U%2FhZi3oFyQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kim Juho | Min Sangyoun | B+3.5 | 2014-09-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Oblm71C0pRNOd0jYCst3GQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Park Junghwan | Min Sangyoun | B+R | 2014-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e%2BL0Sv7%2B75%2FSAkf5k9Feyg%3D%3D) | 
-| 2014年韓国囲碁リーグ | missing | Min Sangyoun | B+3.5 | 2014-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kXiumbmh5ShNuXkevj2gnw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Min Sangyoun | Lee Hyungjin | B+R | 2014-07-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L5i%2BbzHjQtZ90YawXsx7Aw%3D%3D) | 
-| 2014年韓国囲碁リーグ | Lee Sedol | Min Sangyoun | W+0.5 | 2014-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7YYIhhQ6fx9qVERF%2FPOjfA%3D%3D) | 
-| 2014年韓国囲碁リーグ | Min Sangyoun | Byun Sangil | B+R | 2014-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sXvkzsxSL43VsZ9VIJEf3w%3D%3D) | 
-| 2014年中韓新鋭対抗戦第3戦 | Xu Jiayang | Min Sangyoun | W+R | 2014-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cqMnZaJS1L8JjZYB%2Bb2F2Q%3D%3D) | 
-| 2014年中韓新鋭対抗戦第2戦 | Min Sangyoun | Xie Erhao | B+R | 2014-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DZ%2BzLZNML6uHmqpkNWDDrA%3D%3D) | 
-| 2014年中韓新鋭対抗戦第1戦 | Min Sangyoun | Li Qincheng | W+R | 2014-06-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TLdocfb1Wjg1LUCyAryuoQ%3D%3D) | 
-| 第58期国手戦（韓国）1回戦 | Hong Seongji | Min Sangyoun | B+R | 2014-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Iq8vzYMMDOzUc3Kqv4zS3A%3D%3D) | 
-| 第33回KBS杯囲碁王戦本戦1回戦 | Lee Wonyoung | Min Sangyoun | W+R | 2014-06-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E6aTL6UJKNfKxKJ0ykeMYg%3D%3D) | 
-| 2014年韓国囲碁リーグ | Kim Jinhyu | Min Sangyoun | B+R | 2014-05-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9v8RXaFfyVviLL1FkNArGQ%3D%3D) | 
-| 第19期バッカス杯天元戦予選 | Min Sangyoun | Lee Sedol | W+R | 2014-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9%2FSDSzghzYrtosFhB0Y0ng%3D%3D) | 
-| 2014年韓国囲碁リーグ | Min Sangyoun | Kim Juho | B+R | 2014-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cxYsD1VJAlcQ3shFTEXu5Q%3D%3D) | 
-| 2014年韓国囲碁リーグ | Min Sangyoun | An Joyeong | B+R | 2014-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6nQZkFV7vb5q1j5uJmwRfg%3D%3D) | 
-| 第2期メジオン杯オープン新人王戦決勝三番勝負第3局 | Byun Sangil | Min Sangyoun | B+R | 2014-05-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BBYEytWm6ZsUeTbylDkapA%3D%3D) | 
-| 第2期メジオン杯オープン新人王戦決勝三番勝負第2局 | Min Sangyoun | Byun Sangil | W+R | 2014-05-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jAfQQGZicp3P9%2BW3Al4svQ%3D%3D) | 
-| 第2期メジオン杯オープン新人王戦決勝三番勝負第1局 | Byun Sangil | Min Sangyoun | W+R | 2014-05-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JwRwpvdAzXONpYcPbxkvkQ%3D%3D) | 
-| 2014年韓国囲碁リーグ | Lee Taehyun | Min Sangyoun | B+2.5 | 2014-04-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iZy3VoVT4HDhi0%2F5sGApPQ%3D%3D) | 
-| 第19回LG杯予選 | Mi Yuting | Min Sangyoun | B+R | 2014-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2f0mG7U2HWFren%2FbpqEgfg%3D%3D) | 
-| 第2期メジオン杯オープン新人王戦準決勝 | Min Sangyoun | Shin Minjun | B+2.5 | 2014-04-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wcvelBx3UvQEs1ZLtGB36w%3D%3D) | 
-| 第2期メジオン杯オープン新人王戦2回戦 | Min Sangyoun | Kim Myounghoon | B+R | 2014-03-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iUO7jjW9oiw4lb70oTxK4w%3D%3D) | 
-| 2013年韓国囲碁リーグ | Min Sangyoun | Park Junghwan | W+R | 2013-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QbkOQxS5EC7%2B2onzStKrtQ%3D%3D) | 
-| 2013年韓国囲碁リーグ | Min Sangyoun | Han Seungjoo | W+R | 2013-11-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7WF8cJABM4wN2iYAcjgH2Q%3D%3D) | 
-| 2013年韓国囲碁リーグ | Min Sangyoun | Mok Jinseok | W+R | 2013-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=00%2F6Qh6rGvdWw0SBinY3jw%3D%3D) | 
-| 第57期国手戦（韓国）2回戦 | Park Junghwan | Min Sangyoun | B+4.5 | 2013-10-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QVPq2I9v3GurhHxmYL8xxA%3D%3D) | 
-| 2013年韓国囲碁リーグ | Min Sangyoun | missing | B+R | 2013-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CV%2FAeLGnJPUOt7DBHpdsGg%3D%3D) | 
-| 2013年韓国囲碁リーグ | Min Sangyoun | missing | B+R | 2013-08-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8hsSnedQeP%2FfT4jwFq7ueQ%3D%3D) | 
-| 2013年韓国囲碁リーグ | Min Sangyoun | Lee Jihyun | W+R | 2013-08-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=AhWwdhSY8buzQHirj2mpdw%3D%3D) | 
-| 第57期国手戦（韓国）1回戦 | Min Sangyoun | Lee Huiseong | B+R | 2013-08-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZIWz2JQce0%2FpUpBh6%2FO4Ww%3D%3D) | 
-| 2013年韓国囲碁リーグ | Park Junghwan | Min Sangyoun | B+R | 2013-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1idC79qKr6IBl33VYOEh9w%3D%3D) | 
-| 第41期名人戦（韓国）予選 | Kim Dongho | Min Sangyoun | B+R | 2013-07-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wbnoP0KGMQ7P%2FTq0lDYqkw%3D%3D) | 
-| 2013年韓国囲碁リーグ | Jin Siyoung | Min Sangyoun | W+R | 2013-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UX%2BZIqYzjfyOQP4l1%2BytSA%3D%3D) | 
-| 2013年韓国囲碁リーグ | Min Sangyoun | missing | B+R | 2013-06-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kFfgNXBgPL1xPzmKYbsFyg%3D%3D) | 
-| 2013年韓国囲碁リーグ | Min Sangyoun | Shin Jinseo | W+R | 2013-05-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iVYljTLfLrJMLBw7JUUP%2Bg%3D%3D) | 
-| 2013年韓国囲碁リーグ | Choi Cheolhan | Min Sangyoun | B+R | 2013-05-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HXV6Z%2Bdl4hjKibvmmgCLrQ%3D%3D) | 
-| 2013年韓国囲碁リーグ | Min Sangyoun | Lee Jihyun | W+R | 2013-04-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DalQwh1LdtWigHJOrdxDzw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Hobum | Min Sangyoun | W+R | 2012-10-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fxdtnHaoodjK3eZfZoXKHA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Min Sangyoun | Byun Sangil | W+R | 2012-10-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gycraMUzpddai0lPNHB5rQ%3D%3D) | 
-| 第56期国手戦（韓国）挑戦者決定戦第2局 | Choi Cheolhan | Min Sangyoun | B+R | 2012-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XlYshMUTORFrAXsHRyGgDg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Mok Jinseok | Min Sangyoun | B+R | 2012-10-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6jCR1Q7KpDk36XY6N8urQg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Kang Dongyun | Min Sangyoun | B+R | 2012-10-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gr%2B%2BYSkOukG0RrVrkL9%2BEg%3D%3D) | 
-| 第56期国手戦（韓国）挑戦者決定戦第1局 | Min Sangyoun | Choi Cheolhan | W+R | 2012-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4wR12Ve9UKfBiwN9umP0wA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Min Sangyoun | Mok Jinseok | W+R | 2012-09-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Et%2Frwp3y0WAPps62ffPfXA%3D%3D) | 
-| 第56期国手戦（韓国）準決勝 | Min Sangyoun | missing | B+R | 2012-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IB6cKBhDFgdI637h5nGPyQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Kang Yootaek | Min Sangyoun | W+2.5 | 2012-09-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FkEpEhDxEIei%2BCxoRknLRA%3D%3D) | 
-| 2012年韓国囲碁リーグ | Min Sangyoun | Lee Wonyoung | W+R | 2012-08-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MgU%2FlSdYWZPx1I8YZLx%2F9w%3D%3D) | 
-| 2012年韓国囲碁リーグ | Min Sangyoun | Kim Junghyun | B+R | 2012-08-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QgeI4%2Bw99twPAE60uDZoLQ%3D%3D) | 
-| 第56期国手戦（韓国）2回戦 | Kim Jiseok | Min Sangyoun | W+R | 2012-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K7bNpy6Y6ue0AVISstAyTQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Min Sangyoun | Paek Hongseok | W+R | 2012-08-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C6UsRqYIHWmpJMHFxNREYw%3D%3D) | 
-| 第17期バッカス杯天元戦1回戦 | Choi Cheolhan | Min Sangyoun | B+R | 2012-08-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y9EcBS6lCdxhsn29OZ5zHw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Min Sangyoun | missing | B+R | 2012-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6t1Z%2FhZhagXeUtG1LGIpNw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Min Sangyoun | Lee Taehyun | W+0.5 | 2012-07-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NaAHrQhgIW8e5EHW%2FFJwEQ%3D%3D) | 
-| 2012年韓国囲碁リーグ | Kim Sonjin | Min Sangyoun | W+14.5 | 2012-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zThp4Q%2Bu3RgXxJk3MMgPEg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Min Sangyoun | Kim Hyeongwoo | B+R | 2012-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5IWZtVlqxmoh5RRaoYDO1w%3D%3D) | 
-| 2012年韓国囲碁リーグ | Min Sangyoun | On Sojin | B+0.5 | 2012-06-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VQBVsgdhTbmk3Mb3YVfjwg%3D%3D) | 
-| 第56期国手戦（韓国）1回戦 | Na Hyun | Min Sangyoun | W+R | 2012-06-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2x5Rlb4VMGhmXNBFZ0P%2Bkg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Min Sangyoun | missing | W+R | 2012-06-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LpTjdCWMKUbNPuSWbxnO2Q%3D%3D) | 
-| 2012年韓国囲碁リーグ | Na Hyun | Min Sangyoun | B+1.5 | 2012-06-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QkfbCDROSGFVvwpiZrthFw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Hobum | Min Sangyoun | B+R | 2012-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xmQ0VYdmjX1jZvLhJ%2BzPtg%3D%3D) | 
-| 2012年韓国囲碁リーグ | Ahn Kukhyun | Min Sangyoun | W+R | 2012-05-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ek1P5njv%2FcEJ3Vtl4CYVBw%3D%3D) | 
-| 2012年韓国囲碁リーグ | Lee Donghoon | Min Sangyoun | W+R | 2012-05-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HBz%2FlvqTsLiaE5d%2BWbFBuA%3D%3D) | 
-| 第3回BCカード杯世界選手権1回戦 | Kim Kiyoung | Min Sangyoun | B+R | 2011-01-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CkJ2W7K4ugLGhbd7z9YIuw%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ1回戦D3 | Gu Li | Min Sangyoun | B+R | 2010-09-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BZtUUUXbMIUwRmIn9IXd%2BQ%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ1回戦D2 | Hane Naoki | Min Sangyoun | W+R | 2010-09-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7ip1CALtZNhT1BtI9fUXSA%3D%3D) | 
-| 第15回三星火災杯世界囲碁マスターズ1回戦D1 | Min Sangyoun | Gu Li | W+R | 2010-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Zd78hiO%2FD9RQh1htrUt8mw%3D%3D) | 
-| 第15回三星火災杯統合予選決勝 | Min Sangyoun | Zhong Wenjing | B+R | 2010-08-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8IxPWOD5kEGBSEPPHDj4Ng%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-04-20 | 第25回LG杯韓国予選 | Min Sangyoun | An Sungjoon | Lose | W+R | 6.5 | 3049.0 | -36.0 | 
+| 2020-02-01 | 2019-2020KBフューチャーズリーグ第18節第2試合第1局 | Min Sangyoun | Kim Kiyoung | Win | B+1.5 | 6.5 | 3085.0 | 36.0 | 
+| 2020-01-25 | 2019-2020KBフューチャーズリーグ第17節第1試合第1局 | Min Sangyoun | Park Hyunsoo | Win | B+R | 6.5 | 3049.0 | 33.0 | 
+| 2020-01-22 | 2019-2020KBフューチャーズリーグ第16節第4試合第1局 | Kim Changhoon | Min Sangyoun | Lose | B+R | 6.5 | 3016.0 | -4.0 | 
+| 2020-01-11 | 2019-2020KBフューチャーズリーグ第15節第1試合第1局 |  | Min Sangyoun | Win | W+R | 6.5 | 3020.0 | 34.0 | 
+| 2019-12-28 | 2019-2020フューチャーズリーグ第13節第2試合第1局 | Kang Changbae | Min Sangyoun | Lose | B+R | 6.5 | 2986.0 | -3.0 | 
+| 2019-12-22 | 2019-2020フューチャーズリーグ第12節第3試合第1局 | Min Sangyoun | Lee Chungyu | Lose | W+R | 6.5 | 2989.0 | -13.0 | 
+| 2019-12-14 | 2019-2020フューチャーズリーグ第11節第2試合第1局 | Min Sangyoun | Kim Sedong | Lose | W+R | 6.5 | 3002.0 | -25.0 | 
+| 2019-12-07 | 2019-2020フューチャーズリーグ第10節第2試合第3局 | Min Sangyoun | Hong Kipyo | Lose | W+R | 6.5 | 3027.0 | -19.0 | 
+| 2019-12-01 | 2019-2020フューチャーズリーグ第9節第3試合第3局 | Min Sangyoun |  | Win | B+2.5 | 6.5 | 3046.0 | 27.0 | 
+| 2019-11-27 | 2019-2020フューチャーズリーグ第8節第4試合第1局 | Yun Hyuk | Min Sangyoun | Lose | B+1.5 | 6.5 | 3019.0 | -66.0 | 
+| 2019-11-24 | 2019-2020韓国囲碁リーグ第8節第4試合第5局 | Min Sangyoun | Yun Junsang | Lose | W+R | 6.5 | 3085.0 | -115.0 | 
+| 2019-11-16 | 20219-2020フューチャーズリーグ第7節第1試合第1局 | Min Sangyoun | Choi Wongyong | Lose | W+R | 6.5 | 3200.0 | -115.0 | 
+| 2019-11-13 | 2019-2020フューチャーズリーグ第6節第4試合第1局 |  | Min Sangyoun | Win | W+R | 6.5 | 3315.0 | 143.0 | 
+| 2019-10-27 | 2019-2020フューチャーズリーグ第4節第3試合第1局 | Min Sangyoun | Han Wonggyu | Win | B+2.5 | 6.5 | 3172.0 | -127.0 | 
+| 2019-10-19 | 2019-2020フューチャーズリーグ第3節第2試合第1局 | Lee Hyunho | Min Sangyoun | Lose | B+R | 6.5 | 3299.0 | 51.0 | 
+| 2016-11-04 | 2016年韓国囲碁リーグ | Min Sangyoun | Kang Yootaek | Lose | W+R | 6.5 | 3248.0 | 11.0 | 
+| 2016-10-21 | 2016年韓国囲碁リーグ | Min Sangyoun | Park Seunghwa | Lose | W+R | 6.5 | 3237.0 | -7.0 | 
+| 2016-10-13 | 2016年韓国囲碁リーグ | Min Sangyoun | Kim Myounghoon | Lose | W+R | 6.5 | 3244.0 | -3.0 | 
+| 2016-10-09 | 2016年韓国囲碁リーグ | Min Sangyoun | Mok Jinseok | Win | B+2.5 | 6.5 | 3247.0 | 40.0 | 
+| 2016-09-29 | 2016年韓国囲碁リーグ | Min Sangyoun | Byun Sangil | Lose | W+R | 6.5 | 3207.0 | -2.0 | 
+| 2016-09-25 | 2016ジャステック杯国際新鋭囲碁対抗戦第3戦 | Lin Junyan | Min Sangyoun | Win | W+2.5 | 6.5 | 3209.0 | 18.0 | 
+| 2016-09-24 | 2016ジャステック杯国際新鋭囲碁対抗戦第2戦 | Li Qincheng | Min Sangyoun | Lose | B+R | 6.5 | 3191.0 | -24.0 | 
+| 2016-09-23 | 2016ジャステック杯国際新鋭囲碁対抗戦第1戦 | Min Sangyoun | Hirata Tomoya | Lose | W+R | 6.5 | 3215.0 | -129.0 | 
+| 2016-09-16 | 2016年韓国囲碁リーグ第13節 | Lee Wonyoung | Min Sangyoun | Win | W+R | 6.5 | 3344.0 | 9.0 | 
+| 2016-09-03 | 2016年韓国囲碁リーグ第12節 | Min Sangyoun | Yun Junsang | Win | B+5.5 | 6.5 | 3335.0 | -19.0 | 
+| 2016-08-19 | 2016年韓国囲碁リーグ第10節 | Park Cheongsang | Min Sangyoun | Lose | B+R | 6.5 | 3354.0 | -22.0 | 
+| 2016-08-13 | 2016年韓国囲碁リーグ第9節 | Min Sangyoun |  | Lose | W+R | 6.5 | 3376.0 | 2.0 | 
+| 2016-07-31 | 2016年韓国囲碁リーグ第8節 | Lee Changho | Min Sangyoun | Lose | B+R | 6.5 | 3374.0 | -42.0 | 
+| 2016-07-21 | 2016年韓国囲碁リーグ第7節 | Min Sangyoun | Shin Minjun | Lose | W+R | 6.5 | 3416.0 | -52.0 | 
+| 2016-07-15 | 第21回三星火災杯統合予選1回戦 | Min Sangyoun | Tsuruta Kazushi | Win | B+R | 6.5 | 3468.0 | 4.0 | 
+| 2016-07-11 | 第18回農心杯韓国選抜戦 |  | Min Sangyoun | Lose | B+R | 6.5 | 3464.0 | -1.0 | 
+| 2016-07-10 | 2016年韓国囲碁リーグ第6節 | Min Sangyoun | Kim Daehee | Lose | W+0.5 | 6.5 | 3465.0 | -11.0 | 
+| 2016-07-02 | 第3回百霊杯世界オープン戦3回戦 | Ke Jie | Min Sangyoun | Lose | B+R | 7.5 | 3476.0 | -12.0 | 
+| 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Tang Yi | Min Sangyoun | Win | W+R | 7.5 | 3488.0 | -4.0 | 
+| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Hsu Chiayuan | Min Sangyoun | Win | W+R | 7.5 | 3492.0 | 3.0 | 
+| 2016-06-18 | 2016年韓国囲碁リーグ第4節 |  | Min Sangyoun | Win | W+R | 6.5 | 3489.0 | 32.0 | 
+| 2016-06-10 | 2016年韓国囲碁リーグ第3節 | Kim Jiseok | Min Sangyoun | Lose | B+R | 6.5 | 3457.0 | -1.0 | 
+| 2016-06-04 | 2016年韓国囲碁リーグ第2節 | Park Junghwan | Min Sangyoun | Lose | B+R | 6.5 | 3458.0 | 3.0 | 
+| 2016-05-21 | 2016年韓国囲碁リーグ第1節 | Park Cheongsang | Min Sangyoun | Win | W+2.5 | 6.5 | 3455.0 | -9.0 | 
+| 2016-04-18 | 第35回KBS杯囲碁王戦2回戦 | Min Sangyoun | Paek Hongseok | Lose | W+R | 6.5 | 3464.0 | 26.0 | 
+| 2016-02-01 | 第35回KBS杯囲碁王戦1回戦 | Min Sangyoun |  | Win | B+2.5 | 6.5 | 3438.0 | -48.0 | 
+| 2015-10-22 | 第17回農心辛ラーメン杯世界囲碁最強戦第3戦 | Ichiriki Ryo | Min Sangyoun | Lose | B+R | 6.5 | 3486.0 | -21.0 | 
+| 2015-10-12 | 第43期名人戦（韓国）2回戦 | Park Yeonghun | Min Sangyoun | Lose | B+R | 6.5 | 3507.0 | -49.0 | 
+| 2015-10-01 | 2015年韓国囲碁リーグ | Min Sangyoun | Kang Dongyun | Win | B+1.5 | 6.5 | 3556.0 | 2.0 | 
+| 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 |  | Min Sangyoun | Lose | B+0.5 | 6.5 | 3554.0 | -45.0 | 
+| 2015-09-26 | 2015年韓国囲碁リーグ | Song Jihoon | Min Sangyoun | Win | W+R | 6.5 | 3599.0 | 21.0 | 
+| 2015-09-22 | 第43期名人戦（韓国）1回戦 | Min Sangyoun | An Sungjoon | Win | B+R | 6.5 | 3578.0 | 40.0 | 
+| 2015-09-19 | 2015年韓国囲碁リーグ | Min Sangyoun | Na Hyun | Win | B+R | 6.5 | 3538.0 | 46.0 | 
+| 2015-09-04 | 2015年韓国囲碁リーグ | Kim Junghyun | Min Sangyoun | Win | W+0.5 | 6.5 | 3492.0 | 0.0 | 
+| 2015-09-02 | 第43期名人戦（韓国）予選 | Min Sangyoun | Yun Chanhee | Win | B+R | 6.5 | 3492.0 | 7.0 | 
+| 2015-08-30 | 2015年韓国囲碁リーグ | Yun Junsang | Min Sangyoun | Lose | B+R | 6.5 | 3485.0 | -33.0 | 
+| 2015-08-21 | 2015年韓国囲碁リーグ | Min Sangyoun | Park Minkyu | Lose | W+R | 6.5 | 3518.0 | -17.0 | 
+| 2015-08-16 | 2015年韓国囲碁リーグ | Kim Daeyoung | Min Sangyoun | Win | W+R | 6.5 | 3535.0 | 44.0 | 
+| 2015-07-26 | 2015年韓国囲碁リーグ | Min Sangyoun | Mok Jinseok | Win | B+R | 6.5 | 3491.0 | 40.0 | 
+| 2015-07-21 | 第17回農心杯韓国選抜戦 | Heo Yongho | Min Sangyoun | Win | W+R | 6.5 | 3451.0 | 15.0 | 
+| 2015-07-05 | 2015年韓国囲碁リーグ | Min Sangyoun | Shin Jinseo | Lose | W+0.5 | 6.5 | 3436.0 | -83.0 | 
+| 2015-06-26 | 2015年韓国囲碁リーグ |  | Min Sangyoun | Win | W+R | 6.5 | 3519.0 | -3.0 | 
+| 2015-06-19 | 2015年韓国囲碁リーグ | Min Sangyoun | Byun Sangil | Lose | W+R | 6.5 | 3522.0 | -26.0 | 
+| 2015-06-13 | 2015年韓国囲碁リーグ | Ko Keuntae | Min Sangyoun | Win | W+R | 6.5 | 3548.0 | 26.0 | 
+| 2015-05-28 | 2015年韓国囲碁リーグ | Heo Yongho | Min Sangyoun | Lose | B+R | 6.5 | 3522.0 | 26.0 | 
+| 2015-05-20 | 第34回KBS杯囲碁王戦2回戦 | Min Sangyoun |  | Lose | W+R | 6.5 | 3496.0 | -12.0 | 
+| 2015-05-16 | 2015年韓国囲碁リーグ | Yun Chanhee | Min Sangyoun | Lose | B+R | 6.5 | 3508.0 | -17.0 | 
+| 2015-05-12 | 第34回KBS杯囲碁王戦1回戦 | Kim Minho | Min Sangyoun | Win | W+R | 6.5 | 3525.0 | 42.0 | 
+| 2015-05-07 | 2015年韓国囲碁リーグ | Min Sangyoun | Hong Minpyo | Win | B+R | 6.5 | 3483.0 | -3.0 | 
+| 2015-04-30 | 2015年韓国囲碁リーグ | Min Sangyoun | Shin Minjun | Lose | W+R | 6.5 | 3486.0 | 47.0 | 
+| 2014-11-07 | 2014年韓国囲碁リーグ | Min Sangyoun | Na Hyun | Lose | W+R | 6.5 | 3439.0 | -20.0 | 
+| 2014-10-23 | 2014年韓国囲碁リーグ | Lee Changho | Min Sangyoun | Win | W+R | 6.5 | 3459.0 | 11.0 | 
+| 2014-10-20 | 第33回KBS杯囲碁王戦敗者復活戦2回戦 | Yun Chanhee | Min Sangyoun | Lose | B+R | 6.5 | 3448.0 | 1.0 | 
+| 2014-10-06 | 第33回KBS杯囲碁王戦敗者復活戦1回戦 | Lee Jihyun | Min Sangyoun | Win | W+R | 6.5 | 3447.0 | 14.0 | 
+| 2014-10-03 | 2014年韓国囲碁リーグ | Min Sangyoun | Park Jinsol | Win | B+4.5 | 6.5 | 3433.0 | 54.0 | 
+| 2014-09-28 | 2014年韓国囲碁リーグ | Shin Jinseo | Min Sangyoun | Win | W+R | 6.5 | 3379.0 | 32.0 | 
+| 2014-09-22 | 第33回KBS杯囲碁王戦本戦2回戦 | Min Sangyoun | Cho Hanseung | Lose | W+R | 6.5 | 3347.0 | -6.0 | 
+| 2014-09-14 | 2014年韓国囲碁リーグ | Kim Juho | Min Sangyoun | Lose | B+3.5 | 6.5 | 3353.0 | -2.0 | 
+| 2014-08-14 | 2014年韓国囲碁リーグ | Park Junghwan | Min Sangyoun | Lose | B+R | 6.5 | 3355.0 | -42.0 | 
+| 2014-07-24 | 2014年韓国囲碁リーグ |  | Min Sangyoun | Lose | B+3.5 | 6.5 | 3397.0 | -42.0 | 
+| 2014-07-13 | 2014年韓国囲碁リーグ | Min Sangyoun | Lee Hyungjin | Win | B+R | 6.5 | 3439.0 | 15.0 | 
+| 2014-06-29 | 2014年韓国囲碁リーグ | Lee Sedol | Min Sangyoun | Win | W+0.5 | 6.5 | 3424.0 | 40.0 | 
+| 2014-06-22 | 2014年韓国囲碁リーグ | Min Sangyoun | Byun Sangil | Win | B+R | 6.5 | 3384.0 | -4.0 | 
+| 2014-06-18 | 2014年中韓新鋭対抗戦第3戦 | Xu Jiayang | Min Sangyoun | Win | W+R | 6.5 | 3388.0 | 0.0 | 
+| 2014-06-18 | 2014年中韓新鋭対抗戦第2戦 | Min Sangyoun | Xie Erhao | Win | B+R | 6.5 | 3388.0 | 13.0 | 
+| 2014-06-17 | 2014年中韓新鋭対抗戦第1戦 | Min Sangyoun | Li Qincheng | Lose | W+R | 6.5 | 3375.0 | -29.0 | 
+| 2014-06-03 | 第58期国手戦（韓国）1回戦 | Hong Seongji | Min Sangyoun | Lose | B+R | 6.5 | 3404.0 | -12.0 | 
+| 2014-06-02 | 第33回KBS杯囲碁王戦本戦1回戦 | Lee Wonyoung | Min Sangyoun | Win | W+R | 6.5 | 3416.0 | 31.0 | 
+| 2014-05-30 | 2014年韓国囲碁リーグ | Kim Jinhyu | Min Sangyoun | Lose | B+R | 6.5 | 3385.0 | -30.0 | 
+| 2014-05-28 | 第19期バッカス杯天元戦予選 | Min Sangyoun | Lee Sedol | Lose | W+R | 6.5 | 3415.0 | -51.0 | 
+| 2014-05-16 | 2014年韓国囲碁リーグ | Min Sangyoun | Kim Juho | Win | B+R | 6.5 | 3466.0 | 46.0 | 
+| 2014-05-10 | 2014年韓国囲碁リーグ | Min Sangyoun | An Joyeong | Win | B+R | 6.5 | 3420.0 | 19.0 | 
+| 2014-05-09 | 第2期メジオン杯オープン新人王戦決勝三番勝負第3局 | Byun Sangil | Min Sangyoun | Lose | B+R | 6.5 | 3401.0 | -12.0 | 
+| 2014-05-08 | 第2期メジオン杯オープン新人王戦決勝三番勝負第2局 | Min Sangyoun | Byun Sangil | Lose | W+R | 6.5 | 3413.0 | -21.0 | 
+| 2014-05-07 | 第2期メジオン杯オープン新人王戦決勝三番勝負第1局 | Byun Sangil | Min Sangyoun | Win | W+R | 6.5 | 3434.0 | -9.0 | 
+| 2014-04-27 | 2014年韓国囲碁リーグ | Lee Taehyun | Min Sangyoun | Lose | B+2.5 | 6.5 | 3443.0 | -36.0 | 
+| 2014-04-14 | 第19回LG杯予選 | Mi Yuting | Min Sangyoun | Lose | B+R | 6.5 | 3479.0 | 16.0 | 
+| 2014-04-09 | 第2期メジオン杯オープン新人王戦準決勝 | Min Sangyoun | Shin Minjun | Win | B+2.5 | 6.5 | 3463.0 | 86.0 | 
+| 2014-03-11 | 第2期メジオン杯オープン新人王戦2回戦 | Min Sangyoun | Kim Myounghoon | Win | B+R | 6.5 | 3377.0 | 50.0 | 
+| 2013-11-17 | 2013年韓国囲碁リーグ | Min Sangyoun | Park Junghwan | Lose | W+R | 6.5 | 3327.0 | 4.0 | 
+| 2013-11-03 | 2013年韓国囲碁リーグ | Min Sangyoun | Han Seungjoo | Lose | W+R | 6.5 | 3323.0 | -74.0 | 
+| 2013-10-18 | 2013年韓国囲碁リーグ | Min Sangyoun | Mok Jinseok | Lose | W+R | 6.5 | 3397.0 | -9.0 | 
+| 2013-10-16 | 第57期国手戦（韓国）2回戦 | Park Junghwan | Min Sangyoun | Lose | B+4.5 | 6.5 | 3406.0 | 35.0 | 
+| 2013-09-15 | 2013年韓国囲碁リーグ | Min Sangyoun |  | Win | B+R | 6.5 | 3371.0 | 15.0 | 
+| 2013-08-23 | 2013年韓国囲碁リーグ | Min Sangyoun |  | Win | B+R | 6.5 | 3356.0 | -10.0 | 
+| 2013-08-15 | 2013年韓国囲碁リーグ | Min Sangyoun | Lee Jihyun | Lose | W+R | 6.5 | 3366.0 | 21.0 | 
+| 2013-08-01 | 第57期国手戦（韓国）1回戦 | Min Sangyoun | Lee Huiseong | Win | B+R | 6.5 | 3345.0 | 37.0 | 
+| 2013-07-26 | 2013年韓国囲碁リーグ | Park Junghwan | Min Sangyoun | Lose | B+R | 6.5 | 3308.0 | -16.0 | 
+| 2013-07-24 | 第41期名人戦（韓国）予選 | Kim Dongho | Min Sangyoun | Lose | B+R | 6.5 | 3324.0 | -145.0 | 
+| 2013-06-23 | 2013年韓国囲碁リーグ | Jin Siyoung | Min Sangyoun | Win | W+R | 6.5 | 3469.0 | 125.0 | 
+| 2013-06-14 | 2013年韓国囲碁リーグ | Min Sangyoun |  | Win | B+R | 6.5 | 3344.0 | -12.0 | 
+| 2013-05-16 | 2013年韓国囲碁リーグ | Min Sangyoun | Shin Jinseo | Lose | W+R | 6.5 | 3356.0 | -49.0 | 
+| 2013-05-05 | 2013年韓国囲碁リーグ | Choi Cheolhan | Min Sangyoun | Lose | B+R | 6.5 | 3405.0 | 53.0 | 
+| 2013-04-14 | 2013年韓国囲碁リーグ | Min Sangyoun | Lee Jihyun | Lose | W+R | 6.5 | 3352.0 | -187.0 | 
+| 2012-10-21 | 2012年韓国囲碁リーグ | Lee Hobum | Min Sangyoun | Win | W+R | 6.5 | 3539.0 | 14.0 | 
+| 2012-10-20 | 2012年韓国囲碁リーグ | Min Sangyoun | Byun Sangil | Lose | W+R | 6.5 | 3525.0 | -27.0 | 
+| 2012-10-18 | 第56期国手戦（韓国）挑戦者決定戦第2局 | Choi Cheolhan | Min Sangyoun | Lose | B+R | 6.5 | 3552.0 | -11.0 | 
+| 2012-10-14 | 2012年韓国囲碁リーグ | Mok Jinseok | Min Sangyoun | Lose | B+R | 6.5 | 3563.0 | -22.0 | 
+| 2012-10-13 | 2012年韓国囲碁リーグ | Kang Dongyun | Min Sangyoun | Lose | B+R | 6.5 | 3585.0 | 6.0 | 
+| 2012-10-04 | 第56期国手戦（韓国）挑戦者決定戦第1局 | Min Sangyoun | Choi Cheolhan | Lose | W+R | 6.5 | 3579.0 | 15.0 | 
+| 2012-09-21 | 2012年韓国囲碁リーグ | Min Sangyoun | Mok Jinseok | Lose | W+R | 6.5 | 3564.0 | -29.0 | 
+| 2012-09-19 | 第56期国手戦（韓国）準決勝 | Min Sangyoun |  | Win | B+R | 6.5 | 3593.0 | 6.0 | 
+| 2012-09-15 | 2012年韓国囲碁リーグ | Kang Yootaek | Min Sangyoun | Win | W+2.5 | 6.5 | 3587.0 | missing |
 
 
 

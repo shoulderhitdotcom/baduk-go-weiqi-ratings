@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-10 | 第33期女流名人戦リーグ |  | Nakamura Sumire | Win | W+R | 6.5 | 2738.0 | -1.0 | 
 | 2022-02-07 | 第47期新人王戦 |  | Nakamura Sumire | Lose | B+0.5 | 6.5 | 2739.0 | -51.0 | 
 | 2022-01-06 | 第47期新人王戦予選 | Nakamura Sumire |  | Win | B+R | 6.5 | 2790.0 | 26.0 | 
 | 2021-12-27 | 第41期女流本因坊戦予選  | Nakamura Sumire |  | Win | B+R | 6.5 | 2764.0 | 40.0 | 

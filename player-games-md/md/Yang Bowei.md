@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-10 | 第3期名人冠軍戦予選 | Yang Bowei |  | Win | B+R | 6.5 | 3020.0 | -2.0 | 
 | 2022-02-08 | 第21期天元戦（台湾）敗部3回戦 | Yang Bowei | Lin Shixun | Lose | W+R | 6.5 | 3022.0 | -23.0 | 
 | 2022-01-25 | 第21期天元戦（台湾）敗部2回戦 | Huang Shiyuan | Yang Bowei | Win | W+R | 6.5 | 3045.0 | -7.0 | 
 | 2022-01-21 | 第21期天元戦（台湾）敗部1回戦 | Chen Feng | Yang Bowei | Win | W+1.5 | 6.5 | 3052.0 | -15.0 | 

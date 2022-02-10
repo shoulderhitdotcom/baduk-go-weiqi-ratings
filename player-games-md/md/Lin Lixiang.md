@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-10 | 第3期名人冠軍戦予選 | Lin Shuyang | Lin Lixiang | Win | W+R | 6.5 | 3182.0 | -4.0 | 
 | 2022-02-08 | 第21期天元戦（台湾）敗部3回戦 | Lin Lixiang | Lin Shuyang | Win | B+R | 6.5 | 3186.0 | -9.0 | 
 | 2022-01-25 | 第21期天元戦（台湾）敗部2回戦 | Lin Lixiang | Chen Xi | Win | B+R | 6.5 | 3195.0 | -7.0 | 
 | 2022-01-21 | 第21期天元戦（台湾）勝部2回戦 | Lin Lixiang | Li Wei | Lose | W+2.5 | 6.5 | 3202.0 | -17.0 | 

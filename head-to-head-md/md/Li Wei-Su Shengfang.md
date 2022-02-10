@@ -7,8 +7,8 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Li Wei vs Su Shengfang** | **Li Wei streak** | **Su Shengfang streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-01-08 | 第20期天元戦（台湾）予選 | Su Shengfang | Li Wei | W+R | 6.5 | 2:0 | 2 | 0 | 
-| 2016-05-18 | 第6期友士杯十段戦予選 | Li Wei | Su Shengfang | B+R | 6.5 | 1:0 | 1 | 0 |
+| 2021-01-08 | 第20期天元戦（台湾）予選 | Su Shengfang | Li Wei | W+R | 6.5 | 1:0 | 1 | 0 | 
+| 2016-05-18 | 第6期友士杯十段戦予選 | Li Wei | Su Shengfang | B+R | 6.5 | 2:0 | 2 | 0 |
 
 
 

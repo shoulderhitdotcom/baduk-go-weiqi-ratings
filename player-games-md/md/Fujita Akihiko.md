@@ -5,151 +5,119 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 第77期本因坊戦予選 | Cho Sonjin | Fujita Akihiko | B+1.5 | 2021-04-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GIDYwW%2ByCQHlI%2FdE76qfsw%3D%3D) | 
-| 第69期王座戦予選 | Fujita Akihiko | O Rissei | W+1.5 | 2021-03-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=boAGoIOdUGW3w4tEJyqvMg%3D%3D) | 
-| 第47期天元戦予選 | Fujita Akihiko | Motoki Katsuya | W+0.5 | 2020-11-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iAcrybUbcrNU0jsaBJfx8A%3D%3D) | 
-| 第59期十段戦2回戦 | Fujita Akihiko | Murakawa Daisuke | W+R | 2020-10-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=beINnIWAS45phlQdmw22pA%3D%3D) | 
-| 第46期碁聖戦予選 | Fujita Akihiko | Kataoka Satoshi | B+R | 2020-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TGNOPKEbSgt7CvuTv%2BA2fg%3D%3D) | 
-| 第45期棋聖戦Bリーグ | Shibano Toramaru | Fujita Akihiko | B+R | 2020-08-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0FiFs8bXmIdeUsrSLbkiFg%3D%3D) | 
-| 第45期棋聖戦Bリーグ | Yamada Kimio | Fujita Akihiko | W+R | 2020-07-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h3jGps15vcuV5qUYPdfPpA%3D%3D) | 
-| 第68期王座戦1回戦 | Fujita Akihiko | Iyama Yuta | W+R | 2020-07-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PY1y2JLFKKbLL%2B%2FyRrbF9w%3D%3D) | 
-| 第68期王座戦予選 | Yamada Takuji | Fujita Akihiko | W+6.5 | 2020-03-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JdF4keejNjTPu6sidW9Cig%3D%3D) | 
-| 第45期棋聖戦Bリーグ | Ko Iso | Fujita Akihiko | W+R | 2020-03-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=snHYWMKPqA1K9Qkdfuh2oQ%3D%3D) | 
-| 第76期本因坊戦予選 | Hirata Tomoya | Fujita Akihiko | B+R | 2020-02-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8cDb8inzDmpYLVdBC3pLJQ%3D%3D) | 
-| 第46期天元戦1回戦 | Fujita Akihiko | Yamashita Keigo | W+R | 2020-02-06 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uk07Kh9jtAEvnCynp4o%2F5w%3D%3D) | 
-| 第68期王座戦予選 | Fujita Akihiko | Ichiriki Ryo | B+R | 2020-01-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bcd1ZcYvlX%2BShPWpXRqFAA%3D%3D) | 
-| 第14回広島アルミ杯・若鯉戦1回戦 | Mutsuura Yuta | Fujita Akihiko | B+R | 2019-11-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HfEkgaKkSmpPi2tg8zA7ew%3D%3D) | 
-| 第58期十段戦3回戦 | Onishi Ryuhei | Fujita Akihiko | B+1.5 | 2019-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JrWiWtNJ6fwHoMiDKIkvfQ%3D%3D) | 
-| 第46期天元戦予選 | Shibano Toramaru | Fujita Akihiko | W+R | 2019-11-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j19CDox6Kmle4yuSVOF96g%3D%3D) | 
-| 第58期十段戦2回戦 | Fujita Akihiko | Ida Atsushi | B+R | 2019-10-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fiU4vPDVP4xD%2BE9VcyuCZQ%3D%3D) | 
-| 第46期天元戦予選 | Lee Ishu | Fujita Akihiko | W+R | 2019-10-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HmYZyPTVgtyZ4wiXb%2FQuSA%3D%3D) | 
-| 第45期名人戦予選 | Ida Atsushi | Fujita Akihiko | W+5.5 | 2019-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2BJtpPxGLoQKJh8xJrjVNA%3D%3D) | 
-| 第58期十段戦予選 | Fujita Akihiko | Hane Naoki | B+R | 2019-09-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j%2Fp83%2F%2BC3og98MLJFD8sDg%3D%3D) | 
-| 第58期十段戦予選 | Fujita Akihiko | Mizokami Tomochika | B+5.5 | 2019-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BAd%2Bk8%2FusR87V%2BmmxGIGww%3D%3D) | 
-| 第44期棋聖戦Cリーグ | Xie Yimin | Fujita Akihiko | W+R | 2019-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HHrenXm15ewN2CAaPnBtyQ%3D%3D) | 
-| 第44期棋聖戦Cリーグ | Ryu Shikun | Fujita Akihiko | W+3.5 | 2019-06-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N%2BU0qJRjRL2al6TUDQszgQ%3D%3D) | 
-| 第67期王座戦1回戦 | Kono Rin | Fujita Akihiko | B+R | 2019-05-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bv3a%2BJHuI7MOF8NZ%2B7fxVw%3D%3D) | 
-| ナショナルチーム研究会 | Fujita Akihiko | Ichiriki Ryo | W+R | 2019-05-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SIzzZTwRjlmrbWRqmNWPYA%3D%3D) | 
-| 第6回グランドチャンピオン戦2回戦 | Fujita Akihiko | Kono Rin | W+R | 2019-04-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3qgmXYDjmCrEHzUpKBELXg%3D%3D) | 
-| 第68期王座戦予選決勝 | Fujita Akihiko | Nishimura Keiji | B+R | 2019-03-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2XGrn5bW1Mw8csvTW420IA%3D%3D) | 
-| 第6回グランドチャンピオン戦1回戦 | Fujita Akihiko | Mannami Nao | B+R | 2019-03-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=59JT2d3ThxjiDD5bWcxlpA%3D%3D) | 
-| 第45期天元戦1回戦 | Fujita Akihiko | Hirata Tomoya | W+6.5 | 2019-03-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0df6Ukm5QnGLVWg9qp0NjQ%3D%3D) | 
-| 第67期王座戦予選 | Yu Zhengqi | Fujita Akihiko | W+R | 2019-01-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1%2BwPO0LMJi1Srb0Od8M5UA%3D%3D) | 
-| 第13回広島アルミ杯・若鯉戦決勝  | Fujita Akihiko | Koike Yoshihiro | B+R | 2018-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cGh9LwwBOCUgI0u06aP1Ig%3D%3D) | 
-| 第13回広島アルミ杯・若鯉戦準決勝  | Adachi Toshimasa | Fujita Akihiko | W+R | 2018-11-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=diHvr33BgZ89h8UgYtVddg%3D%3D) | 
-| 第13回広島アルミ杯・若鯉戦2回戦 | Fujita Akihiko | Sun Zhe | B+7.5 | 2018-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qoR538JaNVn9amsgC%2BL%2BVQ%3D%3D) | 
-| 第13回広島アルミ杯・若鯉戦1回戦  | Mutsuura Yuta | Fujita Akihiko | W+2.5 | 2018-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sPj9SAufZY9AFFrm7wTpRw%3D%3D) | 
-| 第45期天元戦予選 | Fujita Akihiko | Mitani Tetsuya | B+R | 2018-11-01 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=82qxvuImSscajmLWnwkvTQ%3D%3D) | 
-| 第58期十段戦予選 | Cho Chikun | Fujita Akihiko | W+0.5 | 2018-10-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rTNSt5zMWBZANS1sBYOWTA%3D%3D) | 
-| 第44期碁聖戦予選 | Ryu Shikun | Fujita Akihiko | B+0.5 | 2018-10-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gn%2BUXvuBtsR7C%2FRJYVFuaQ%3D%3D) | 
-| 復興支援チャリティイベント公開対局  | Fujita Akihiko | Suzuki Shinji | W+R | 2018-10-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pGXClXeKjhu1qiilC0cb%2FQ%3D%3D) | 
-| 第45期天元戦予選 | Yoda Norimoto | Fujita Akihiko | W+R | 2018-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GLEcScAbHeOzyKIeSheDwA%3D%3D) | 
-| 第74期本因坊戦予選 | Hsu Chiayuan | Fujita Akihiko | B+R | 2018-05-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=07%2FYLf47ojuZaJnrCa6Z8w%3D%3D) | 
-| 第45期天元戦予選 | Kato Tomoko | Fujita Akihiko | W+R | 2018-05-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D7iDL9qPCz%2FBKpgxfJe4Kw%3D%3D) | 
-| 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Fujita Akihiko | Sakai Hideyuki | W+3.5 | 2018-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NMdEQ%2FsXtoN5KCYWN6xF%2Fw%3D%3D) | 
-| 第74期本因坊戦予選 | Fujita Akihiko | Yoda Norimoto | B+4.5 | 2018-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VADigolx%2FLA2zbtU2HfmDw%3D%3D) | 
-| 第57期十段戦予選 | Fujita Akihiko | Sun Zhe | W+R | 2017-11-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XLjcf7YfEEi%2BU55Ndpb4%2FQ%3D%3D) | 
-| 44期天元戦予選 | Fujita Akihiko | Ryu Shikun | W+R | 2017-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XXpx5s%2F5LTBTNLENUB2M7g%3D%3D) | 
-| 4回国手山脈杯世界団体3-4名戦 | Fujita Akihiko | Lin Lixiang | W+3.5 | 2017-07-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mhRCxA60WgFmGVbCByBAKA%3D%3D) | 
-| 4回国手山脈杯世界団体戦4強戦 | Fujita Akihiko | Shin Jinseo | W+R | 2017-07-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hfRjjTk8gozogEWIkDXnuQ%3D%3D) | 
-| ナショナルチーム強化対局 | DeepZenGo | Fujita Akihiko | B+R | 2017-07-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YqpEGT97hjk%2Fmjc3XKhlQA%3D%3D) | 
-| ナショナルチーム強化対局 | DeepZenGo | Fujita Akihiko | B+R | 2017-06-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=NEMUimeHgDwQzizLYEM%2F2g%3D%3D) | 
-| 第8回おかげ杯囲碁トーナメント戦予選 | Muramatsu Hiroki | Fujita Akihiko | W+R | 2017-02-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rTeHdl42tdXG9MWvL20ytg%3D%3D) | 
-| 台湾精鋭日本精鋭交流戦5回戦 | Fujita Akihiko | Lin Shuyang | B+R | 2017-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yyl8JfR2Ojz0qCv1ffRXfg%3D%3D) | 
-| 台湾精鋭日本精鋭交流戦6回戦 | Chen Qirui | Fujita Akihiko | W+R | 2017-01-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7RLtWC5lCTuYfkUkdqcWmg%3D%3D) | 
-| 台湾精鋭日本精鋭交流戦4回戦 | Fujita Akihiko | Xiao Zhenghao | B+R | 2017-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t4xpP3zsFeUzCmrLrGmq%2Fw%3D%3D) | 
-| 台湾精鋭日本精鋭交流戦3回戦 | Fujita Akihiko | Lin Lixiang | B+R | 2017-01-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r4YGvL3MoV2sW%2BpYfPT6Pg%3D%3D) | 
-| 台湾精鋭日本精鋭交流戦1回戦 | Wang Yuanjun | Fujita Akihiko | B+R | 2017-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kRNJru%2FA9DYRqQsqkgJ%2FxA%3D%3D) | 
-| 台湾精鋭日本精鋭交流戦2回戦 | Yang Bowei | Fujita Akihiko | W+R | 2017-01-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eTGrn6eQJUiQ0kfFMQFgXA%3D%3D) | 
-| 第1回新奥杯世界囲碁オープン戦1回戦 | Fujita Akihiko | Chen Xian | W+R | 2016-11-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PqvRihUpMlbG0CskDB1ptw%3D%3D) | 
-| 第42期名人戦予選 | Fujita Akihiko | O Meien | B+R | 2016-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cng8MJkyLlNq2F0SoLT5Wg%3D%3D) | 
-| 第42期碁聖戦予選 | Fujita Akihiko | Kataoka Satoshi | W+R | 2016-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1AFP5J4B%2FaB59SLPEYX4Iw%3D%3D) | 
-| 第42期天元戦　準々決勝第2局 | Yamashita Keigo | Fujita Akihiko | B+R | 2016-06-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kxIT%2FBQhCdaJQuHspyUAGQ%3D%3D) | 
-| 第42期天元戦　本戦2回戦第8局 | Fujita Akihiko | Ohashi Naruya | B+10.5 | 2016-05-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yEuuoiRmnD%2FhfSv0E%2Bl5KA%3D%3D) | 
-| 第7回おかげ杯囲碁トーナメント戦予選 | Ito Kenryo | Fujita Akihiko | W+R | 2016-02-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F7aF7Xc%2BIa4ZSLQNgGssvA%3D%3D) | 
-| 第42期天元戦本戦1回戦 | Ishida Yoshio | Fujita Akihiko | W+R | 2015-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QHAx%2BzZZpjBWJ9sQPWObmQ%3D%3D) | 
-| 第10回広島アルミ杯・若鯉戦1回戦 | Fujita Akihiko | Hsu Chiayuan | W+3.5 | 2015-11-21 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3PvwfglNIQ%2FnclLHpy%2Bzlw%3D%3D) | 
-| 第25期竜星戦Aブロック第3局 | Shuto Shun | Fujita Akihiko | B+R | 2015-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=35g4ePfCYZuTQ3i63qLO5A%3D%3D) | 
-| 第25期竜星戦Aブロック第2局 | Fujita Akihiko | Terayama Rei | B+R | 2015-08-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cQqAK6W8r%2FMZh1p%2Fl5uhTA%3D%3D) | 
-| 第40期棋聖戦Cリーグ | Hikosaka Naoto | Fujita Akihiko | B+3.5 | 2015-06-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=F5nR7uO3t2NfEk%2Fc2LXtoA%3D%3D) | 
-| 第6回おかげ杯囲碁トーナメント戦予選 | Tanaka Nobuyuki | Fujita Akihiko | B+R | 2015-02-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XtK%2BJ%2FmpIMVfPq6tBpocGA%3D%3D) | 
-| 2015年日台精鋭交流戦第6戦 | Fujita Akihiko | Lin Lixiang | W+1.5 | 2015-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VYoKJwCx23repk7KKoayZQ%3D%3D) | 
-| 2015年日台精鋭交流戦第5戦 | Lin Shuyang | Fujita Akihiko | W+R | 2015-02-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PtvRdE3WfEFt8Wv95S20ew%3D%3D) | 
-| 2015年日台精鋭交流戦第4戦 | Zhou Yinnan | Fujita Akihiko | W+R | 2015-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iCx7eMrNL2NZqPMhivvx7A%3D%3D) | 
-| 2015年日台精鋭交流戦第3戦 | Yang Bowei | Fujita Akihiko | B+R | 2015-02-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JP9Xqr%2BH%2FvXYxb6NCm4Vwg%3D%3D) | 
-| 2015年日台精鋭交流戦第2戦 | Fujita Akihiko | Xiao Zhenghao | W+R | 2015-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gIGH8EKMrlOque8iO828Vw%3D%3D) | 
-| 2015年日台精鋭交流戦第1戦 | Chen Shiyuan | Fujita Akihiko | B+1.5 | 2015-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QceuUjpnX40bROZ8fKVr0w%3D%3D) | 
-| 第9回広島アルミ杯・若鯉戦1回戦 | Fujita Akihiko | Motoki Katsuya | W+2.5 | 2014-11-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=J5FRuif99UMo7KpqLGlGKA%3D%3D) | 
-| 第40期碁聖戦予選 | Fujita Akihiko | Cho U | W+7.5 | 2014-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Bo23lP%2Fhs6qUTrB0qVNknA%3D%3D) | 
-| 第41期天元戦予選 | Fujita Akihiko | Ryu Shikun | B+R | 2014-09-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BFIfw8dn5p%2FDREBf7DKXwg%3D%3D) | 
-| 第41期天元戦予選 | Fujita Akihiko | Rin Kaiho | B+5.5 | 2014-06-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KNiOsKNQpq%2Fqmd9E2MfiIg%3D%3D) | 
-| 第5回おかげ杯囲碁トーナメント戦予選 | Fujita Akihiko | Otani Naoki | B+10.5 | 2014-02-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DSiHgtD5SO9jnnHnIf%2BPnA%3D%3D) | 
-| 第39期碁聖戦本戦1回戦 | Hikosaka Naoto | Fujita Akihiko | B+R | 2014-01-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=j2ERzNpvvuBWzqRdKAomOw%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Fujita Akihiko | missing | B+R | 2013-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bZ893k4OR9VW4llfL9gAMA%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Zhou Junxun | Fujita Akihiko | W+R | 2013-12-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gOff6omuAkMrPEKabDL0cg%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Fujita Akihiko | Fan Tingyu | W+R | 2013-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PB45%2FBcT5vh4Yldvi6x8iA%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Park Junghwan | Fujita Akihiko | B+R | 2013-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K7Z8cWKLwlhfEf%2F60vPyLQ%3D%3D) | 
-| 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Fujita Akihiko | Fan Hui | B+R | 2013-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eyvc3npCbmq5h63Q%2BOwZlQ%3D%3D) | 
-| 第8回広島アルミ杯・若鯉戦決勝 | Fujita Akihiko | Ichiriki Ryo | W+R | 2013-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vL57ym1r7WO7BWETxN9ggg%3D%3D) | 
-| 第8回広島アルミ杯・若鯉戦準決勝 | Fujita Akihiko | Sun Zhe | B+2.5 | 2013-11-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k6QnQqCsGLEZIkeBw327JQ%3D%3D) | 
-| 第8回広島アルミ杯・若鯉戦2回戦 | Fujita Akihiko | Motoki Katsuya | B+R | 2013-11-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FSE01eCpgXNo%2B9VxV1JpaA%3D%3D) | 
-| 第38期新人王戦決勝三番勝負第2局 | Fujita Akihiko | Yu Zhengqi | B+R | 2013-09-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nF8Ykn5tws3CalD8OXKO6w%3D%3D) | 
-| 第38期新人王戦決勝三番勝負第1局 | Yu Zhengqi | Fujita Akihiko | W+R | 2013-09-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OcAu29fdN6nLAQ%2FTVOEv2w%3D%3D) | 
-| 第15回農心杯選抜戦 | Fujita Akihiko | Anzai Nobuaki | W+2.5 | 2013-09-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=961MaFoE2%2BnWfRiet%2FhEyg%3D%3D) | 
-| 第15回農心杯選抜戦 | Fujita Akihiko | Yu Zhengqi | B+R | 2013-08-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UyDIboUgRpa6kYgTbYvMSQ%3D%3D) | 
-| 第15回農心杯選抜戦 | Fujita Akihiko | Anzai Nobuaki | W+R | 2013-08-24 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=diBzfU9gGqIA3Ry6%2Bw1ztQ%3D%3D) | 
-| 第38期新人王戦準決勝 | Fujita Akihiko | Ohashi Naruya | B+R | 2013-07-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vOgsLZQJ%2ByYcq70ZsCaJuw%3D%3D) | 
-| 第38期新人王戦3回戦 | Fujita Akihiko | Tsuruta Kazushi | B+1.5 | 2013-07-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7xXEBMkfGJq%2BxSGwnsZlAw%3D%3D) | 
-| 第38期新人王戦2回戦 | Fujita Akihiko | Inoue Naoki | B+3.5 | 2013-04-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CPKyvXoMjieY3d9kUXk1ow%3D%3D) | 
-| 第38期新人王戦1回戦 | Xie Yimin | Fujita Akihiko | W+R | 2013-02-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gj7hSoRTvILdzlse%2BH3b0g%3D%3D) | 
-| 第52期十段戦予選 | O Meien | Fujita Akihiko | B+2.5 | 2013-02-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DiNQIixYePumtcG0RZQWRw%3D%3D) | 
-| 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Kang Dongyun | Fujita Akihiko | B+3.5 | 2012-12-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FeMOvJXst9cfbd4JOTNBWg%3D%3D) | 
-| 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Fujita Akihiko | Chen Yaoye | W+12.5 | 2012-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lxDkrxWYQHc%2B6YtFZCTJgw%3D%3D) | 
-| 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Uchida Shuhei | Fujita Akihiko | W+R | 2012-12-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B2ByiA79xzBhfGZEOeQwrA%3D%3D) | 
-| 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Lin Zhihan | Fujita Akihiko | W+0.5 | 2012-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ROpbxtG5SNbwT%2BLuRcoFPA%3D%3D) | 
-| 第38期棋聖戦予選 | Ishida Yoshio | Fujita Akihiko | B+2.5 | 2012-12-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5%2BvDGrBA3w2w8udbq1GV7g%3D%3D) | 
-| 第14回農心辛ラーメン杯世界囲碁最強戦第6戦 | Fujita Akihiko | Wang Xi | W+R | 2012-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LJLTCaJOiZ44Q4oYdmTVXQ%3D%3D) | 
-| 第14回農心辛ラーメン杯世界囲碁最強戦第5戦 | Lee Hobum | Fujita Akihiko | W+0.5 | 2012-11-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vC3aWBHxAGKniXPV9lxPtA%3D%3D) | 
-| 第37期新人王戦決勝三番勝負第3局 | Fujita Akihiko | Kanazawa Makoto | W+11.5 | 2012-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q7IVcw%2B3QmAfca6NtsXgUg%3D%3D) | 
-| 第37期新人王戦決勝三番勝負第2局 | Kanazawa Makoto | Fujita Akihiko | B+R | 2012-09-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tl6jZ8zgewLciVxgowL5zw%3D%3D) | 
-| 第37期新人王戦決勝三番勝負第1局 | Fujita Akihiko | Kanazawa Makoto | B+6.5 | 2012-09-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=UYho6dwWPAo4ZSWMfyFIzA%3D%3D) | 
-| 2012ジャステック杯国際新鋭囲碁対抗戦第3戦 | Fujita Akihiko | Lin Shuyang | W+2.5 | 2012-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C7tP%2BFBFX8p58xGaza%2FD6g%3D%3D) | 
-| 2012ジャステック杯国際新鋭囲碁対抗戦第2戦 | Fujita Akihiko | Lee Jihyun | B+R | 2012-09-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jG9JzKlnLqtj3sgaN9%2F0aw%3D%3D) | 
-| 2012ジャステック杯国際新鋭囲碁対抗戦第1戦 | Fujita Akihiko | Li Qincheng | W+R | 2012-09-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=r%2B5AM%2FAc1vUap4%2B2r01Iug%3D%3D) | 
-| 第37期新人王戦準決勝 | Fujita Akihiko | Ichiriki Ryo | B+1.5 | 2012-07-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PcC1%2F5kSafNvXhtChj54DQ%3D%3D) | 
-| 第37期新人王戦3回戦 | Fujita Akihiko | Ha Youngil | B+R | 2012-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Pd9lWr5n59%2FkgVFJQKKRag%3D%3D) | 
-| 第37期新人王戦2回戦 | Fujita Akihiko | Xie Yimin | B+0.5 | 2012-05-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dvH3UzhuFqVrC1H%2FrPNqjQ%3D%3D) | 
-| 第39期天元戦予選 | Fujita Akihiko | Ogawa Tomoko | B+R | 2012-04-05 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3VkmUwTCJE5LgGaUbykYLQ%3D%3D) | 
-| 第68期本因坊戦予選 | Fujita Akihiko | Kataoka Satoshi | W+6.5 | 2012-03-22 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nlJp5eGAcswlCtks3oc5EQ%3D%3D) | 
-| 第37期新人王戦1回戦 | Yu Zhengqi | Fujita Akihiko | W+R | 2012-02-02 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Q605M4d6r2dbM%2F%2BDI9N6Tw%3D%3D) | 
-| 第51期十段戦予選 | Rin Kaiho | Fujita Akihiko | B+5.5 | 2011-12-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JZOXY3jYykS1UneI575AVw%3D%3D) | 
-| 第37期棋聖戦予選 | Fujita Akihiko | Kataoka Satoshi | W+0.5 | 2011-11-10 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GI8s0aFk7wNsLyyqGlOcCw%3D%3D) | 
-| 第36期新人王戦2回戦 | Anzai Nobuaki | Fujita Akihiko | B+0.5 | 2011-03-31 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D6iDjDI%2FsvBe0UXcgTFQPQ%3D%3D) | 
-| 第2回おかげ杯囲碁トーナメント戦予選 | Fujita Akihiko | Kawada Kohei | B+R | 2011-02-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5N%2FKVDTVaq5gguw87u%2BseA%3D%3D) | 
-| 第36期新人王戦1回戦 | Fujita Akihiko | Okuda Aya | B+1.5 | 2011-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Odp%2FZN1wb%2Bj%2F0d1iwD2WgA%3D%3D) | 
-| 第36期新人王戦 | Mannami Nao | Fujita Akihiko | W+R | 2010-12-16 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Z7x3p1A4kgomCZKGLmwJvg%3D%3D) | 
-| 第4期幽玄杯精鋭リーグ戦 | Cho Chikun | Fujita Akihiko | W+R | 2010-11-29 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jqurzomYYql7NKE5uYEXbw%3D%3D) | 
-| 第4期幽玄杯精鋭リーグ戦 | Fujita Akihiko | Kono Rin | W+0.5 | 2010-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4DqFxBrGKZFelq%2FZZCSnNA%3D%3D) | 
-| 第4期幽玄杯精鋭リーグ戦 | Fujita Akihiko | Cho Riyu | B+R | 2010-10-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WDlcneYg7PliDJ1zBDyxoA%3D%3D) | 
-| 第4期幽玄杯精鋭リーグ戦 | Fujita Akihiko | Komatsu Hideki | B+R | 2010-09-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pLmspxwwBJWAorVM9GtEeA%3D%3D) | 
-| 第5回広島アルミ杯・若鯉戦予選 | Ohashi Hirofumi | Fujita Akihiko | B+4.5 | 2010-08-26 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sSW8w7y0kHThpzN93ChYMA%3D%3D) | 
-| 第66期本因坊戦予選 | Yamashiro Hiroshi | Fujita Akihiko | B+R | 2010-05-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vul8nL79St1wZ4H7OMRYFA%3D%3D) | 
-| 第3期幽玄杯精鋭リーグ戦 | Fujita Akihiko | Tsuruyama Atsushi | W+R | 2010-03-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3tMWpbWPEN3LLt8IeaVvlw%3D%3D) | 
-| 第3期幽玄杯精鋭リーグ戦 | Fujita Akihiko | Cho Chikun | W+R | 2009-11-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dSVjfZfLKY%2FziBHx0b5HgQ%3D%3D) | 
-| 第35期新人王戦予選 | Adachi Toshimasa | Fujita Akihiko | B+7.5 | 2009-11-12 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T1W%2Fa5S0yzKWEi3gtlcNyQ%3D%3D) | 
-| 第35期新人王戦予選 | Mukai Kozue | Fujita Akihiko | W+5.5 | 2009-10-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LQ2fpSINY7va46MIrnnR9A%3D%3D) | 
-| 第3期幽玄杯精鋭リーグ戦 | Fujita Akihiko | Rin Shien | B+R | 2009-08-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QUch8gXIy%2FPK5lVec2P3Kw%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Fujita Akihiko | Yanagisawa Satoshi | B+R | 2009-02-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cKRNkbHHtVszbvfcq398tA%3D%3D) | 
-| 第34期新人王戦予選 | Fujita Akihiko | Kumamoto Syusei | W+R | 2008-10-09 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fio0OOVkbR5pUEJVcDbJyA%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Yamashiro Hiroshi | Fujita Akihiko | B+8.5 | 2008-09-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BI8A5YaNLYQYvoZuy%2FkDBQ%3D%3D) | 
-| 第2期幽玄杯精鋭リーグ戦 | Fujita Akihiko | Osawa Kenro | B+2.5 | 2008-07-14 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=91lg0kRa1KqIqRjrMuGkkA%3D%3D) | 
-| 第1期幽玄杯精鋭リーグ戦 | Fujita Akihiko | Nakamura Shinya | B+R | 2007-12-17 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZyLC0INByaw4IKkOilEoew%3D%3D) | 
-| 第33期新人王戦予選 | Fujita Akihiko | Murakami Akihide | W+0.5 | 2007-11-08 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8fXcRK6oR%2BM%2BEB3O8m%2FgMg%3D%3D) | 
-| 第4回中野杯U20選手権 | Fujita Akihiko | Iyama Yuta | W+R | 2007-05-28 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Nigz25UNvYjSnwi2y%2BXroA%3D%3D) | 
-| 第32期新人王戦 | Fujita Akihiko | Kato Yuuki | W+0.5 | 2007-01-11 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R2hihCORFj%2BrCXcldJ%2BWwA%3D%3D) | 
-| 第32期新人王戦予選 | Okuda Aya | Fujita Akihiko | W+6.5 | 2006-11-27 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7G75zRMJkQsnOzq4Dwyakg%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-14 | 第70期王座戦予選 | Fujita Akihiko | Kono Rin | Lose | W+3.5 | 6.5 | 3014.0 | 210.0 | 
+| 2021-10-21 | 第47期名人戦予選 | Fujita Akihiko | Murakawa Daisuke | Win | B+R | 6.5 | 2804.0 | 134.0 | 
+| 2021-04-19 | 第77期本因坊戦予選 | Cho Sonjin | Fujita Akihiko | Lose | B+1.5 | 6.5 | 2670.0 | -35.0 | 
+| 2021-03-18 | 第69期王座戦予選 | Fujita Akihiko | O Rissei | Lose | W+1.5 | 6.5 | 2705.0 | -384.0 | 
+| 2020-11-05 | 第47期天元戦予選 | Fujita Akihiko | Motoki Katsuya | Lose | W+0.5 | 6.5 | 3089.0 | -13.0 | 
+| 2020-10-26 | 第59期十段戦2回戦 | Fujita Akihiko | Murakawa Daisuke | Lose | W+R | 6.5 | 3102.0 | -139.0 | 
+| 2020-09-17 | 第46期碁聖戦予選 | Fujita Akihiko | Kataoka Satoshi | Win | B+R | 6.5 | 3241.0 | -87.0 | 
+| 2020-08-20 | 第45期棋聖戦Bリーグ | Shibano Toramaru | Fujita Akihiko | Lose | B+R | 6.5 | 3328.0 | -87.0 | 
+| 2020-07-23 | 第45期棋聖戦Bリーグ | Yamada Kimio | Fujita Akihiko | Win | W+R | 6.5 | 3415.0 | 12.0 | 
+| 2020-07-06 | 第68期王座戦1回戦 | Fujita Akihiko | Iyama Yuta | Lose | W+R | 6.5 | 3403.0 | 71.0 | 
+| 2020-03-19 | 第68期王座戦予選 | Yamada Takuji | Fujita Akihiko | Win | W+6.5 | 6.5 | 3332.0 | 18.0 | 
+| 2020-03-05 | 第45期棋聖戦Bリーグ | Ko Iso | Fujita Akihiko | Win | W+R | 6.5 | 3314.0 | 12.0 | 
+| 2020-02-27 | 第76期本因坊戦予選 | Hirata Tomoya | Fujita Akihiko | Lose | B+R | 6.5 | 3302.0 | -13.0 | 
+| 2020-02-06 | 第46期天元戦1回戦 | Fujita Akihiko | Yamashita Keigo | Lose | W+R | 6.5 | 3315.0 | -54.0 | 
+| 2020-01-23 | 第68期王座戦予選 | Fujita Akihiko | Ichiriki Ryo | Win | B+R | 6.5 | 3369.0 | 40.0 | 
+| 2019-11-23 | 第14回広島アルミ杯・若鯉戦1回戦 | Mutsuura Yuta | Fujita Akihiko | Lose | B+R | 6.5 | 3329.0 | -46.0 | 
+| 2019-11-18 | 第58期十段戦3回戦 | Onishi Ryuhei | Fujita Akihiko | Lose | B+1.5 | 6.5 | 3375.0 | -83.0 | 
+| 2019-11-07 | 第46期天元戦予選 | Shibano Toramaru | Fujita Akihiko | Win | W+R | 6.5 | 3458.0 | 14.0 | 
+| 2019-10-17 | 第58期十段戦2回戦 | Fujita Akihiko | Ida Atsushi | Win | B+R | 6.5 | 3444.0 | 107.0 | 
+| 2019-10-03 | 第46期天元戦予選 | Lee Ishu | Fujita Akihiko | Win | W+R | 6.5 | 3337.0 | 23.0 | 
+| 2019-09-12 | 第45期名人戦予選 | Ida Atsushi | Fujita Akihiko | Win | W+5.5 | 6.5 | 3314.0 | 7.0 | 
+| 2019-09-02 | 第58期十段戦予選 | Fujita Akihiko | Hane Naoki | Win | B+R | 6.5 | 3307.0 | 61.0 | 
+| 2019-07-25 | 第58期十段戦予選 | Fujita Akihiko | Mizokami Tomochika | Win | B+5.5 | 6.5 | 3246.0 | -11.0 | 
+| 2019-07-18 | 第44期棋聖戦Cリーグ | Xie Yimin | Fujita Akihiko | Win | W+R | 6.5 | 3257.0 | -30.0 | 
+| 2019-06-13 | 第44期棋聖戦Cリーグ | Ryu Shikun | Fujita Akihiko | Win | W+3.5 | 6.5 | 3287.0 | 8.0 | 
+| 2019-05-27 | 第67期王座戦1回戦 | Kono Rin | Fujita Akihiko | Lose | B+R | 6.5 | 3279.0 | -14.0 | 
+| 2019-05-11 | ナショナルチーム研究会 | Fujita Akihiko | Ichiriki Ryo | Lose | W+R | 6.5 | 3293.0 | 33.0 | 
+| 2019-04-18 | 第6回グランドチャンピオン戦2回戦 | Fujita Akihiko | Kono Rin | Lose | W+R | 6.5 | 3260.0 | -60.0 | 
+| 2019-03-28 | 第68期王座戦予選決勝 | Fujita Akihiko | Nishimura Keiji | Win | B+R | 6.5 | 3320.0 | 11.0 | 
+| 2019-03-14 | 第6回グランドチャンピオン戦1回戦 | Fujita Akihiko | Mannami Nao | Win | B+R | 6.5 | 3309.0 | 15.0 | 
+| 2019-03-07 | 第45期天元戦1回戦 | Fujita Akihiko | Hirata Tomoya | Lose | W+6.5 | 6.5 | 3294.0 | -31.0 | 
+| 2019-01-31 | 第67期王座戦予選 | Yu Zhengqi | Fujita Akihiko | Win | W+R | 6.5 | 3325.0 | 16.0 | 
+| 2018-11-18 | 第13回広島アルミ杯・若鯉戦準決勝  | Adachi Toshimasa | Fujita Akihiko | Win | W+R | 6.5 | 3309.0 | 0.0 | 
+| 2018-11-18 | 第13回広島アルミ杯・若鯉戦決勝  | Fujita Akihiko | Koike Yoshihiro | Win | B+R | 6.5 | 3309.0 | 55.0 | 
+| 2018-11-17 | 第13回広島アルミ杯・若鯉戦2回戦 | Fujita Akihiko | Sun Zhe | Win | B+7.5 | 6.5 | 3254.0 | 0.0 | 
+| 2018-11-17 | 第13回広島アルミ杯・若鯉戦1回戦  | Mutsuura Yuta | Fujita Akihiko | Win | W+2.5 | 6.5 | 3254.0 | 128.0 | 
+| 2018-11-01 | 第45期天元戦予選 | Fujita Akihiko | Mitani Tetsuya | Win | B+R | 6.5 | 3126.0 | 70.0 | 
+| 2018-10-18 | 第58期十段戦予選 | Cho Chikun | Fujita Akihiko | Win | W+0.5 | 6.5 | 3056.0 | 66.0 | 
+| 2018-10-04 | 第44期碁聖戦予選 | Ryu Shikun | Fujita Akihiko | Lose | B+0.5 | 6.5 | 2990.0 | -100.0 | 
+| 2018-10-02 | 復興支援チャリティイベント公開対局  | Fujita Akihiko | Suzuki Shinji | Lose | W+R | 6.5 | 3090.0 | 4.0 | 
+| 2018-09-13 | 第45期天元戦予選 | Yoda Norimoto | Fujita Akihiko | Win | W+R | 6.5 | 3086.0 | 292.0 | 
+| 2018-05-24 | 第74期本因坊戦予選 | Hsu Chiayuan | Fujita Akihiko | Lose | B+R | 6.5 | 2794.0 | 6.0 | 
+| 2018-05-17 | 第45期天元戦予選 | Kato Tomoko | Fujita Akihiko | Win | W+R | 6.5 | 2788.0 | 10.0 | 
+| 2018-05-10 | 第25期阿含・桐山杯全日本早碁オープン戦最終予選 | Fujita Akihiko | Sakai Hideyuki | Lose | W+3.5 | 6.5 | 2778.0 | -47.0 | 
+| 2018-05-03 | 第74期本因坊戦予選 | Fujita Akihiko | Yoda Norimoto | Win | B+4.5 | 6.5 | 2825.0 | -250.0 | 
+| 2017-11-02 | 第57期十段戦予選 | Fujita Akihiko | Sun Zhe | Lose | W+R | 6.5 | 3075.0 | -82.0 | 
+| 2017-09-07 | 44期天元戦予選 | Fujita Akihiko | Ryu Shikun | Lose | W+R | 6.5 | 3157.0 | -50.0 | 
+| 2017-07-31 | 4回国手山脈杯世界団体3-4名戦 | Fujita Akihiko | Lin Lixiang | Lose | W+3.5 | 6.5 | 3207.0 | -44.0 | 
+| 2017-07-29 | 4回国手山脈杯世界団体戦4強戦 | Fujita Akihiko | Shin Jinseo | Lose | W+R | 6.5 | 3251.0 | -50.0 | 
+| 2017-07-05 | ナショナルチーム強化対局 | DeepZenGo | Fujita Akihiko | Lose | B+R | 6.5 | 3301.0 | 129.0 | 
+| 2017-06-22 | ナショナルチーム強化対局 | DeepZenGo | Fujita Akihiko | Lose | B+R | 6.5 | 3172.0 | -74.0 | 
+| 2017-02-28 | 第8回おかげ杯囲碁トーナメント戦予選 | Muramatsu Hiroki | Fujita Akihiko | Win | W+R | 6.5 | 3246.0 | -11.0 | 
+| 2017-01-21 | 台湾精鋭日本精鋭交流戦6回戦 | Chen Qirui | Fujita Akihiko | Win | W+R | 6.5 | 3257.0 | 0.0 | 
+| 2017-01-21 | 台湾精鋭日本精鋭交流戦5回戦 | Fujita Akihiko | Lin Shuyang | Win | B+R | 6.5 | 3257.0 | 68.0 | 
+| 2017-01-20 | 台湾精鋭日本精鋭交流戦4回戦 | Fujita Akihiko | Xiao Zhenghao | Win | B+R | 6.5 | 3189.0 | 0.0 | 
+| 2017-01-20 | 台湾精鋭日本精鋭交流戦3回戦 | Fujita Akihiko | Lin Lixiang | Win | B+R | 6.5 | 3189.0 | 164.0 | 
+| 2017-01-19 | 台湾精鋭日本精鋭交流戦2回戦 | Yang Bowei | Fujita Akihiko | Win | W+R | 6.5 | 3025.0 | 0.0 | 
+| 2017-01-19 | 台湾精鋭日本精鋭交流戦1回戦 | Wang Yuanjun | Fujita Akihiko | Lose | B+R | 6.5 | 3025.0 | -27.0 | 
+| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Fujita Akihiko | Chen Xian | Lose | W+R | 7.5 | 3052.0 | 87.0 | 
+| 2016-07-25 | 第42期名人戦予選 | Fujita Akihiko | O Meien | Win | B+R | 6.5 | 2965.0 | 6.0 | 
+| 2016-06-30 | 第42期碁聖戦予選 | Fujita Akihiko | Kataoka Satoshi | Lose | W+R | 6.5 | 2959.0 | -83.0 | 
+| 2016-06-23 | 第42期天元戦　準々決勝第2局 | Yamashita Keigo | Fujita Akihiko | Lose | B+R | 6.5 | 3042.0 | 16.0 | 
+| 2016-05-12 | 第42期天元戦　本戦2回戦第8局 | Fujita Akihiko | Ohashi Naruya | Win | B+10.5 | 6.5 | 3026.0 | 127.0 | 
+| 2016-02-09 | 第7回おかげ杯囲碁トーナメント戦予選 | Ito Kenryo | Fujita Akihiko | Win | W+R | 6.5 | 2899.0 | 15.0 | 
+| 2015-12-10 | 第42期天元戦本戦1回戦 | Ishida Yoshio | Fujita Akihiko | Win | W+R | 6.5 | 2884.0 | 46.0 | 
+| 2015-11-21 | 第10回広島アルミ杯・若鯉戦1回戦 | Fujita Akihiko | Hsu Chiayuan | Lose | W+3.5 | 6.5 | 2838.0 | -124.0 | 
+| 2015-09-17 | 第25期竜星戦Aブロック第3局 | Shuto Shun | Fujita Akihiko | Lose | B+R | 6.5 | 2962.0 | -85.0 | 
+| 2015-08-13 | 第25期竜星戦Aブロック第2局 | Fujita Akihiko | Terayama Rei | Win | B+R | 6.5 | 3047.0 | 98.0 | 
+| 2015-06-18 | 第40期棋聖戦Cリーグ | Hikosaka Naoto | Fujita Akihiko | Lose | B+3.5 | 6.5 | 2949.0 | -38.0 | 
+| 2015-02-17 | 第6回おかげ杯囲碁トーナメント戦予選 | Tanaka Nobuyuki | Fujita Akihiko | Lose | B+R | 6.5 | 2987.0 | -48.0 | 
+| 2015-02-13 | 2015年日台精鋭交流戦第6戦 | Fujita Akihiko | Lin Lixiang | Lose | W+1.5 | 6.5 | 3035.0 | 0.0 | 
+| 2015-02-13 | 2015年日台精鋭交流戦第5戦 | Lin Shuyang | Fujita Akihiko | Win | W+R | 6.5 | 3035.0 | 22.0 | 
+| 2015-02-12 | 2015年日台精鋭交流戦第4戦 | Zhou Yinnan | Fujita Akihiko | Win | W+R | 6.5 | 3013.0 | 0.0 | 
+| 2015-02-12 | 2015年日台精鋭交流戦第3戦 | Yang Bowei | Fujita Akihiko | Lose | B+R | 6.5 | 3013.0 | -1.0 | 
+| 2015-02-11 | 2015年日台精鋭交流戦第2戦 | Fujita Akihiko | Xiao Zhenghao | Lose | W+R | 6.5 | 3014.0 | 0.0 | 
+| 2015-02-11 | 2015年日台精鋭交流戦第1戦 | Chen Shiyuan | Fujita Akihiko | Lose | B+1.5 | 6.5 | 3014.0 | -140.0 | 
+| 2014-11-15 | 第9回広島アルミ杯・若鯉戦1回戦 | Fujita Akihiko | Motoki Katsuya | Lose | W+2.5 | 6.5 | 3154.0 | -22.0 | 
+| 2014-10-09 | 第40期碁聖戦予選 | Fujita Akihiko | Cho U | Lose | W+7.5 | 6.5 | 3176.0 | -30.0 | 
+| 2014-09-25 | 第41期天元戦予選 | Fujita Akihiko | Ryu Shikun | Win | B+R | 6.5 | 3206.0 | -15.0 | 
+| 2014-06-19 | 第41期天元戦予選 | Fujita Akihiko | Rin Kaiho | Win | B+5.5 | 6.5 | 3221.0 | -145.0 | 
+| 2014-02-11 | 第5回おかげ杯囲碁トーナメント戦予選 | Fujita Akihiko | Otani Naoki | Win | B+10.5 | 6.5 | 3366.0 | 36.0 | 
+| 2014-01-09 | 第39期碁聖戦本戦1回戦 | Hikosaka Naoto | Fujita Akihiko | Lose | B+R | 6.5 | 3330.0 | -25.0 | 
+| 2013-12-16 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Fujita Akihiko |  | Win | B+R | 7.5 | 3355.0 | -3.0 | 
+| 2013-12-15 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Zhou Junxun | Fujita Akihiko | Win | W+R | 7.5 | 3358.0 | -1.0 | 
+| 2013-12-14 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Fujita Akihiko | Fan Tingyu | Lose | W+R | 7.5 | 3359.0 | 15.0 | 
+| 2013-12-13 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Park Junghwan | Fujita Akihiko | Lose | B+R | 7.5 | 3344.0 | -24.0 | 
+| 2013-12-12 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Fujita Akihiko | Fan Hui | Win | B+R | 7.5 | 3368.0 | -3.0 | 
+| 2013-11-17 | 第8回広島アルミ杯・若鯉戦準決勝 | Fujita Akihiko | Sun Zhe | Win | B+2.5 | 6.5 | 3371.0 | 0.0 | 
+| 2013-11-17 | 第8回広島アルミ杯・若鯉戦決勝 | Fujita Akihiko | Ichiriki Ryo | Lose | W+R | 6.5 | 3371.0 | 17.0 | 
+| 2013-11-16 | 第8回広島アルミ杯・若鯉戦2回戦 | Fujita Akihiko | Motoki Katsuya | Win | B+R | 6.5 | 3354.0 | 22.0 | 
+| 2013-09-26 | 第38期新人王戦決勝三番勝負第2局 | Fujita Akihiko | Yu Zhengqi | Win | B+R | 6.5 | 3332.0 | 8.0 | 
+| 2013-09-17 | 第38期新人王戦決勝三番勝負第1局 | Yu Zhengqi | Fujita Akihiko | Win | W+R | 6.5 | 3324.0 | 94.0 | 
+| 2013-09-07 | 第15回農心杯選抜戦 | Fujita Akihiko | Anzai Nobuaki | Lose | W+2.5 | 6.5 | 3230.0 | -50.0 | 
+| 2013-08-31 | 第15回農心杯選抜戦 | Fujita Akihiko | Yu Zhengqi | Win | B+R | 6.5 | 3280.0 | 58.0 | 
+| 2013-08-24 | 第15回農心杯選抜戦 | Fujita Akihiko | Anzai Nobuaki | Lose | W+R | 6.5 | 3222.0 | -33.0 | 
+| 2013-07-25 | 第38期新人王戦準決勝 | Fujita Akihiko | Ohashi Naruya | Win | B+R | 6.5 | 3255.0 | 5.0 | 
+| 2013-07-18 | 第38期新人王戦3回戦 | Fujita Akihiko | Tsuruta Kazushi | Win | B+1.5 | 6.5 | 3250.0 | -24.0 | 
+| 2013-04-04 | 第38期新人王戦2回戦 | Fujita Akihiko | Inoue Naoki | Win | B+3.5 | 6.5 | 3274.0 | -5.0 | 
+| 2013-02-14 | 第38期新人王戦1回戦 | Xie Yimin | Fujita Akihiko | Win | W+R | 6.5 | 3279.0 | -18.0 | 
+| 2013-02-07 | 第52期十段戦予選 | O Meien | Fujita Akihiko | Lose | B+2.5 | 6.5 | 3297.0 | 24.0 | 
+| 2012-12-14 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Kang Dongyun | Fujita Akihiko | Lose | B+3.5 | 7.5 | 3273.0 | 37.0 | 
+| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Fujita Akihiko | Chen Yaoye | Lose | W+12.5 | 7.5 | 3236.0 | 0.0 | 
+| 2012-12-13 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Uchida Shuhei | Fujita Akihiko | Win | W+R | 7.5 | 3236.0 | 4.0 | 
+| 2012-12-12 | 第2回スポーツアコードワールドマインドゲームズ囲碁男子個人戦 | Lin Zhihan | Fujita Akihiko | Win | W+0.5 | 7.5 | 3232.0 | 45.0 | 
+| 2012-12-10 | 第38期棋聖戦予選 | Ishida Yoshio | Fujita Akihiko | Lose | B+2.5 | 6.5 | 3187.0 | -11.0 | 
+| 2012-11-27 | 第14回農心辛ラーメン杯世界囲碁最強戦第6戦 | Fujita Akihiko | Wang Xi | Lose | W+R | 6.5 | 3198.0 | 0.0 | 
+| 2012-11-26 | 第14回農心辛ラーメン杯世界囲碁最強戦第5戦 | Lee Hobum | Fujita Akihiko | Win | W+0.5 | 6.5 | 3198.0 | 50.0 | 
+| 2012-10-09 | 第37期新人王戦決勝三番勝負第3局 | Fujita Akihiko | Kanazawa Makoto | Lose | W+11.5 | 6.5 | 3148.0 | 7.0 | 
+| 2012-09-28 | 第37期新人王戦決勝三番勝負第2局 | Kanazawa Makoto | Fujita Akihiko | Lose | B+R | 6.5 | 3141.0 | 8.0 | 
+| 2012-09-19 | 第37期新人王戦決勝三番勝負第1局 | Fujita Akihiko | Kanazawa Makoto | Win | B+6.5 | 6.5 | 3133.0 | 49.0 | 
+| 2012-09-13 | 2012ジャステック杯国際新鋭囲碁対抗戦第3戦 | Fujita Akihiko | Lin Shuyang | Lose | W+2.5 | 6.5 | 3084.0 | missing |
 
 
 

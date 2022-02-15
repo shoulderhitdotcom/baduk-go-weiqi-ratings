@@ -5,357 +5,143 @@
 
 
 
-| **comp** | **black** | **white** | **result** | **date** | **komi_fixed** | **kifu** | 
-| --- | --- | --- | --- | --- | --- | --- |
-| 2020年中国囲碁乙級リーグ | Iyama Yuta | Wang Haoyang | W+R | 2020-11-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vUWVh%2FYqyNkmXBYOCQNZ3A%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | Choi Cheolhan | Wang Haoyang | W+R | 2020-11-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hde%2Fmh0bOoYyX4b9e0nJdg%3D%3D) | 
-| 2020年中国囲碁乙級リーグ | Wang Haoyang | Park Sangjin | W+1¼ | 2020-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7orKvvsR%2FcpodqKuwd14Iw%3D%3D) | 
-| 第11期中国竜星戦Aブロック6回戦 | Wang Haoyang | Fan Yin | W+R | 2020-01-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e4lYNDel6YAPJP32lqjxLg%3D%3D) | 
-| 第11期中国竜星戦Aブロック5回戦 | Yi Lingtao | Wang Haoyang | W+R | 2019-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D4LfN5j1L%2BYx9eElH2ulJg%3D%3D) | 
-| 第11期中国竜星戦Aブロック4回戦 | Wu Guangya | Wang Haoyang | W+R | 2019-12-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5A5zFwDda9mUVLzyT7g06Q%3D%3D) | 
-| 第11期中国竜星戦Aブロック3回戦 | Chen Zijian | Wang Haoyang | W+¼ | 2019-12-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gs0ODN2L6bEnSjCy0QPykA%3D%3D) | 
-| 第11期中国竜星戦Aブロック2回戦 | Wang Haoyang | Duan Rong | B+R | 2019-12-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=n6qL2yMhNHBU%2Fwo5HekR3g%3D%3D) | 
-| 第11期中国竜星戦Aブロック1回戦 | Yu Zhiying | Wang Haoyang | W+¼ | 2019-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v8ljdwQNbE%2B3HM7F6w5GCw%3D%3D) | 
-| 2019年中国囲碁乙級リーグ | Lin Lixiang | Wang Haoyang | W+2.5 | 2019-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dEj4CJfniOAECFSvCSc9dQ%3D%3D) | 
-| 第10期中国竜星戦予選 | Wang Haoyang | Chen Yaoye | W+R | 2019-03-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Y3zt6TSTV%2F%2F6bOprB2li8Q%3D%3D) | 
-| 2018年中国囲碁乙級リーグ | Chen Hao | Wang Haoyang | W+2.5 | 2018-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pmaowHChUYHTIW7ALFkqNQ%3D%3D) | 
-| 2018年中国囲碁乙級リーグ | Wang Haoyang | Yun Chanhee | W+R | 2018-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OKQjy%2BuiTQEERkTjN1StJQ%3D%3D) | 
-| 2018年中国囲碁乙級リーグ | Tong Yulin | Wang Haoyang | B+¾ | 2018-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z4VWuwWkDREPlSavxnY1fQ%3D%3D) | 
-| 2018年中国囲碁乙級リーグ | Chen Xian | Wang Haoyang | B+R | 2018-06-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gTE3HHnlOK0QnSNPlyMeGQ%3D%3D) | 
-| 2018年中国囲碁乙級リーグ | Wang Haoyang | Wang Yanhao | B+R | 2018-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2UUUUNjJGVkBF1PenIYxsA%3D%3D) | 
-| 2018CCTV杯中国囲棋電視快棋戦1回戦 | Wang Haoyang | Zhou Ruiyang | W+R | 2018-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jEox1iP68Po82DeNJsTlkw%3D%3D) | 
-| 第23回LG杯予選決勝 | Lee Wonyoung | Wang Haoyang | B+2.5 | 2018-04-07 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ujeLX%2BXrW8FR8jhT5Bj%2F5A%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第26節 | Yang Kaiwen | Wang Haoyang | W+R | 2017-12-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BSMqMxYk4Euzp%2FAb5P1GxA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第25節 | Tang Weixing | Wang Haoyang | B+R | 2017-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sdvq14eTPzp%2BBKafPtR1yQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第24節 | Tong Mengcheng | Wang Haoyang | W+R | 2017-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E4xkg2Fg%2FrfuVspj1S4jzA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第21節 | Fan Yin | Wang Haoyang | B+R | 2017-10-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OfLL5rnkSSdeW34X0ADUJg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第20節 | Tao Xinran | Wang Haoyang | W+R | 2017-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XM46dpNlcE2fSPl5pk2N9Q%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第19節 | Wang Haoyang | missing | W+6.5 | 2017-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ep60O9b90WdpCvPfyK9Kjg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第18節 | Wang Haoyang | Xia Chenkun | B+R | 2017-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m8CubV7t0M1Q73Rif1ziPA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第15節 | Xie Ke | Wang Haoyang | B+R | 2017-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m2%2BPMVrhg3z7jBocmaBY%2Bg%3D%3D) | 
-| 第3回Mlily夢百合杯16強戦 | Wang Haoyang | Park Yeonghun | W+R | 2017-08-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wqYkISjAedJZ2ZnOsaHSWg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第11節 | Wang Haoyang | Huang Yunsong | W+2.5 | 2017-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=u19mN96LibldqtOC55y19Q%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第9節 | Fan Tingyu | Wang Haoyang | B+3.5 | 2017-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JG%2FaxQ12shtGk8nCGvK2qQ%3D%3D) | 
-| 第22回三星火災杯統合予選2回戦 | Kim Seungjun | Wang Haoyang | W+R | 2017-06-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Fp%2FEThNOdlUXMZq7wX7RmQ%3D%3D) | 
-| 第3回夢百合杯世界オープン戦2回戦 | DeepZenGo | Wang Haoyang | W+0.5 | 2017-06-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=k%2FFJPzQbXSyUerkJF5go2A%3D%3D) | 
-| 第3回夢百合杯世界オープン戦1回戦 | Wang Haoyang | Shin Jinseo | B+R | 2017-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BuqRW9ivyUwnYJ9eiUsOTA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第8節 | Wang Haoyang | Jiang Qirun | B+R | 2017-06-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=jHTegJnpOsPSKo%2FU%2FmVcPg%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第6節 | Han Yizhou | Wang Haoyang | B+R | 2017-05-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vjHs16Ve42DiUv1Bw3UuSQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第5節 | Wang Haoyang | Ding Hao | W+T | 2017-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4NelpHFrlI%2BPmsEVOSwWRQ%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第4節 | Li Weiqing | Wang Haoyang | B+R | 2017-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LMKnxF0r3ltO3Q0m2MIFuA%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第3節 | Yang Dingxin | Wang Haoyang | B+R | 2017-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=L5hn%2BYJ0%2B%2BTDmzGmc7%2Ff4Q%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第2節 | Wang Haoyang | Xie Ke | B+R | 2017-04-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YjKwDmPZlYT4B2LdqiPPVw%3D%3D) | 
-| 第19回中国囲碁甲級リーグ第1節 | Dang Yifei | Wang Haoyang | B+3.5 | 2017-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z%2FO4aQtBllC3xD9iglwm1A%3D%3D) | 
-| 第14期中国倡棋杯予選決勝 | missing | Wang Haoyang | B+R | 2017-02-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wnuOv7Jw8Lz2y1IVXYQUBw%3D%3D) | 
-| 第31期中国囲碁天元戦予選 | Wang Haoyang | Yu Zhiying | W+2.5 | 2017-01-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mTjQFq5%2BTXDB2TnY0UEnjg%3D%3D) | 
-| Alphago Online Series on Tygem and Fox 12 | Wang Haoyang | missing | W+R | 2016-12-30 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZPX4BUSuse68wNHEQ5A97g%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選4回戦 | Wang Haoyang | Yang Kaiwen | W+R | 2016-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qZN3dR1%2BxMT8skTqWL9tXQ%3D%3D) | 
-| 嫘祖杯第29期中国名人戦網選3回戦 | missing | Wang Haoyang | W+0.5 | 2016-12-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fmwb9RfevV0PfsieySfn8Q%3D%3D) | 
-| 第8期中国竜星戦予選 | Wang Haoyang | Hu Yuhan | W+R | 2016-10-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gIG%2FdZMT2TD6tZ1vnfM%2B%2BQ%3D%3D) | 
-| 第21回三星火災杯統合予選決勝 | Wang Haoyang | Tuo Jiaxi | W+R | 2016-07-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N7yTLfG6y3VqoORKX%2BLFNQ%3D%3D) | 
-| 第21回三星火災杯統合予選準決勝 | Wang Haoyang | Ahn Kukhyun | B+R | 2016-07-19 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DP83l1HbhaF2yB%2FN6YTk%2FQ%3D%3D) | 
-| 2016年中国囲碁乙級リーグ | missing | Wang Haoyang | W+R | 2016-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RH2Ooa8h1eseTPHjLtz70g%3D%3D) | 
-| 2016年中国囲碁乙級リーグ | Wang Haoyang | missing | B+3.5 | 2016-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qfNfoUvf1vnCoq95ILZ6iQ%3D%3D) | 
-| 2016年中国囲碁乙級リーグ | Wang Haoyang | Fan Yunruo | W+R | 2016-06-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YDLy9p2hjJ89W1rMJziwaQ%3D%3D) | 
-| 2016年中国囲碁乙級リーグ | Wang Haoyang | missing | W+R | 2016-06-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BeryP%2B2QGXIKr4DA0rnCHA%3D%3D) | 
-| 2016年中国囲碁乙級リーグ | Zhu Yuanhao | Wang Haoyang | W+0.5 | 2016-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=altgvbp%2BvivGNZkPth0IWQ%3D%3D) | 
-| 2016CCTV杯中国囲棋電視快棋戦1回戦 | Shi Yue | Wang Haoyang | B+R | 2016-06-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WMqbG7b9Ac8Dc0zUwT8vmw%3D%3D) | 
-| 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Liao Yuanhe | Wang Haoyang | B+1.5 | 2016-05-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rbWgGZLkVynfr7e3HbEPXw%3D%3D) | 
-| 第30期中国囲碁天元戦2回戦 | Wang Haoyang | Gu Li | W+R | 2016-01-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0vS3ASTz0iDMjvCVgzmbrQ%3D%3D) | 
-| 第30期中国囲碁天元戦1回戦 | Wang Haoyang | Li Qincheng | B+1.5 | 2016-01-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vok8EGb2c99IKFww%2FKvpHg%3D%3D) | 
-| 2015年全国囲棋個人戦男子組第8戦 | Wang Haoyang | Zhang Tao | B+R | 2015-08-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=S%2FV2kCQfqFdYfpoWN3o3cA%3D%3D) | 
-| 2015年全国囲棋個人戦男子組第7戦 | missing | Wang Haoyang | W+R | 2015-08-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PdAQLzPwC0ihYE%2BJQIgywg%3D%3D) | 
-| 2015年全国囲棋個人戦男子組第6戦 | Wang Haoyang | Tao Xinran | B+R | 2015-08-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xcyUXoH%2FCHfm%2BV2MIEM1Dg%3D%3D) | 
-| 第2回夢百合杯世界オープン戦1回戦 | Wang Haoyang | Chang Hao | W+R | 2015-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MJ1nzE54ahFxbyDnq2jgGg%3D%3D) | 
-| 第7期中国竜星戦予選 | Wang Haoyang | Chen Zhengxun | W+R | 2015-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zQ50IySMFf9GXDDCctdNIQ%3D%3D) | 
-| 2015年中国囲碁乙級リーグ | Chen Shiyuan | Wang Haoyang | W+R | 2015-05-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z6pqjHrvrnTtZaGW8yNlrA%3D%3D) | 
-| 第28期中国囲碁名人戦予選 | Wang Haoyang | Guo Yuzheng | W+R | 2015-05-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QATsmV60lhsyHJKMd50ALw%3D%3D) | 
-| 第20回LG杯予選 | Wang Haoyang | Shin Minjun | B+3.5 | 2015-04-15 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RRMeWZWLml9%2BGxmXnVeYZA%3D%3D) | 
-| 第15期リコー杯囲碁戦2回戦 | Wang Haoyang | Ke Jie | W+0.5 | 2015-01-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XZjrQfy1c%2BWG89owrGLzxg%3D%3D) | 
-| 第15期リコー杯囲碁戦1回戦 | Chang Hao | Wang Haoyang | W+R | 2014-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vLlEveeB4gAdg7vkW4jY0g%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第22節 | Li Zhe | Wang Haoyang | W+R | 2014-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v%2F0KUx1Yz7jaUSR77lt70w%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第21節 | Wang Haoyang | Kong Jie | B+R | 2014-11-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ugjsXoNFotr7YkSsl%2BtsnA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第20節 | Dang Yifei | Wang Haoyang | W+R | 2014-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B7JdLo%2FvrJPiwvWFvbhhXA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第19節 | Zhao Chenyu | Wang Haoyang | W+R | 2014-11-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fukgcTQa%2Bk9n1Pdw35Yemw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第16節 | Wang Haoyang | Fan Tingyu | W+R | 2014-10-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DldEraqmHI1lAT3G6%2B1x4w%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第15節 | Huang Yunsong | Wang Haoyang | B+R | 2014-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e5YeorKnX4IBpcxaWVXDjg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第14節 | Wang Haoyang | Na Hyun | W+R | 2014-09-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1MDSzKnv6uEUzlNLmByjNA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第13節 | Li Xuanhao | Wang Haoyang | W+R | 2014-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Qo8%2FMznDWRxQAE7yByldOg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第12節 | Wang Haoyang | Lee Sedol | W+6.5 | 2014-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5AdaBy1FgixrLytfnupwJQ%3D%3D) | 
-| 第19回三星火災杯統合予選3回戦 | Han Seungjoo | Wang Haoyang | B+R | 2014-08-04 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=FhI2fDLXFIUD%2FHmyrvlFMw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第10節 | Zhong Wenjing | Wang Haoyang | B+R | 2014-07-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=kH35j1g5Oba%2BqOBBkiZC9Q%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第8節 | Wang Haoyang | Park Junghwan | W+R | 2014-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=egNGrr1fVHYikO%2BVr85uqw%3D%3D) | 
-| 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Gu Li | Wang Haoyang | B+1.5 | 2014-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2XjLTYTyMrjJ%2FL49bZAktg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第7節 | Wang Haoyang | Peng Liyao | W+0.5 | 2014-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7v%2Fa6e2gjiIT7anO%2ByUEZA%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第6節 | Zhang Tao | Wang Haoyang | W+2.5 | 2014-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b4uiv96F8G49ICByK5xc1Q%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第5節 | Fan Tingyu | Wang Haoyang | B+R | 2014-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HIBIsJZ2lLC91aO96d26rQ%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第4節 | Xie Erhao | Wang Haoyang | W+0.5 | 2014-05-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ypr9%2BJYOY0i0Ht%2Fia1%2Fq6w%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第3節 | Wang Haoyang | Fan Yunruo | W+R | 2014-05-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mCRfoRO4ATA2fE9Y2I2%2BTw%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第2節 | Wang Haoyang | Gu Li | W+R | 2014-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K%2F1prsihEM6eooXXTMHgNg%3D%3D) | 
-| 第16回中国囲碁甲級リーグ第1節 | Wang Haoyang | Niu Yutian | B+R | 2014-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x7lre%2BeKrRsJNDHkcbUXvQ%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦準決勝 | Li Qincheng | Wang Haoyang | B+R | 2014-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=b95lpdFzI96X9aOdOGXapg%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦4回戦 | Wang Haoyang | Tang Weixing | B+R | 2014-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zq2SBj9HtPb%2FOX%2B4GkIhlw%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦3回戦 | Lian Xiao | Wang Haoyang | W+R | 2014-05-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3v4qyk0cP3ZSTb5FbVXnNA%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦2回戦 | Tao Xin | Wang Haoyang | W+R | 2014-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=grwog0yyIc7Jf2%2B2q%2Fcw2Q%3D%3D) | 
-| 2014CCTV杯中国囲棋電視快棋戦1回戦 | Wang Haoyang | Wang Xi | B+R | 2014-05-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=A%2FkoeyXfjMDZa2X3JMh1cw%3D%3D) | 
-| 第5回衢州・爛柯杯中国囲棋冠軍戦予選 | Guo Yuzheng | Wang Haoyang | W+R | 2014-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=znCeheI9jIf%2Fofrpa71%2F8Q%3D%3D) | 
-| 第27期中国囲碁名人戦予選 | Wang Haoyang | missing | W+R | 2014-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E2q0VgOj7Btz7ozgQ8Xhqw%3D%3D) | 
-| 第27期中国囲碁名人戦予選 | missing | Wang Haoyang | W+R | 2014-04-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=30aVi%2BqLc4KAelj5gL%2BK9A%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第22節 | Piao Wenyao | Wang Haoyang | B+R | 2013-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rx7GedhEZ3%2Bkg4%2B12Afs0A%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第21節 | Wang Haoyang | Wang Lei (s) | W+R | 2013-11-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xfmCykOZnj0Ct7cevrkaLA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第20節 | Peng Quan | Wang Haoyang | B+1.5 | 2013-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zBt%2FYFXwIBeVbpNggFjOzA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第19節 | missing | Wang Haoyang | W+R | 2013-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6v1gRIDUYkX2aSQnY8ilAA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第17節 | Fan Tingyu | Wang Haoyang | B+R | 2013-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=js8Fjo6pgnCrf5hv9E6G2w%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第16節 | Wang Haoyang | Lee Sedol | W+R | 2013-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gDAmzYilHfzgn62UwmWzNg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第15節 | Wang Haoyang | Fan Yunruo | B+R | 2013-09-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CA3i%2B5gA0vY8Gduo%2FPDyzA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第13節 | Zhou Hexi | Wang Haoyang | B+R | 2013-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D4riLxWGx92fZKSBVLtzgg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第12節 | Wang Haoyang | Yang Dingxin | W+R | 2013-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MSIA2JSrSpTEHwizuKmrHw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第11節 | Piao Wenyao | Wang Haoyang | B+R | 2013-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5rB9qLsrSQ3hPBspD1NSiA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第10節 | Park Yeonghun | Wang Haoyang | B+1.5 | 2013-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=C6%2FgLweHW4296pT1P5%2FaPA%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第9節 | Meng Tailing | Wang Haoyang | B+R | 2013-06-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CGZaWLhcFAevgeqqWHkPHw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第8節 | Na Hyun | Wang Haoyang | W+R | 2013-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dvd%2Bbf%2FfC18jLzpm5EXL4A%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Wang Haoyang | Ke Jie | B+R | 2013-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oHbK0XWRUF%2BPgzzTmJc5dg%3D%3D) | 
-| 第15期阿含・桐山杯中国早碁オープン戦予選 | Wang Haoyang | Li Jie | W+6.5 | 2013-06-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DJ2Vo%2F15OAP7jaERpOQi1w%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第7節 | Han Yizhou | Wang Haoyang | W+R | 2013-06-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=I3bzYBep17cJtR3DL1ZE%2Bw%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第5節 | Niu Yutian | Wang Haoyang | B+R | 2013-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0Vp05Em52Haty%2FhuLvRDHg%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第4節 | Wang Haoyang | Qiu Jun | W+R | 2013-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KDTCos1BB8DWufzvwiQrNQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第3節 | Wang Haoyang | Mi Yuting | W+1.5 | 2013-05-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lM%2Blp9z9B8hSzY3R0fZqMA%3D%3D) | 
-| 第18回LG杯予選 | Lee Changho | Wang Haoyang | B+R | 2013-04-23 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rgIeIbPyoseomOieWMmvAg%3D%3D) | 
-| 第26期中国囲碁名人戦予選 | Wang Haoyang | Hu Yaoyu | W+R | 2013-04-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KtO8GvGx5EVtoXvgyLrocQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第2節 | Wang Haoyang | Kim Jiseok | B+R | 2013-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=W%2FpQHX9sZGoI%2B4mw1M0oAQ%3D%3D) | 
-| 第15回中国囲碁甲級リーグ第1節 | Wang Haoyang | Li Xuanhao | W+R | 2013-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OmBYNudKsLU3805Pd3mOjA%3D%3D) | 
-| 2013CCTV杯中国囲棋電視快棋戦3回戦 | Wang Haoyang | Dang Yifei | W+R | 2013-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=42ZdGVt5dx4%2FYbxag1R0Fg%3D%3D) | 
-| 2013CCTV杯中国囲棋電視快棋戦2回戦 | Wang Haoyang | missing | B+R | 2013-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oKk%2FrDwlMRYq4o%2BJ043F4A%3D%3D) | 
-| 2013CCTV杯中国囲棋電視快棋戦1回戦 | Wang Haoyang | Wang Yao | B+R | 2013-03-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6%2FFfQG6AWtJ322rxcP9C%2BQ%3D%3D) | 
-| 第27期中国囲碁天元戦予選 | Wang Haoyang | Gu Lingyi | W+R | 2013-01-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3aI0GaDH7gqKHCD%2B5pwmdg%3D%3D) | 
-| 第13期リコー杯囲碁戦2回戦 | Wang Haoyang | Gu Li | W+R | 2013-01-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=10FrTpucixou5GCj1YY3hw%3D%3D) | 
-| 第13期リコー杯囲碁戦1回戦 | Li Xiangyu | Wang Haoyang | W+R | 2012-12-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5DNVcoBD6Pj0hYJI2ms6WQ%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第22節 | Zhou Heyang | Wang Haoyang | B+5.5 | 2012-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EB7wqQeAUCDznqufK0u1YA%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第21節 | Wang Haoyang | Cho Hanseung | B+R | 2012-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nY6gf7FYKFqdbR7rqLxaQw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第20節 | Chen Yaoye | Wang Haoyang | B+R | 2012-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D4lKHd5nA9Mg3N1dp2HURw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第19節 | Wu Guangya | Wang Haoyang | B+1.5 | 2012-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=t7iceHnuu2yRqbnoMYF4tw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第18節 | Zhou Hexi | Wang Haoyang | W+R | 2012-11-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EXjaJU8QvMWUHRyEa1vDLg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第17節 | Wang Tao | Wang Haoyang | B+R | 2012-10-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nzxFBj1XpPjpmnk0KEjTgg%3D%3D) | 
-| 第4期中国竜星戦2回戦 | Wang Haoyang | Wang Yao | W+R | 2012-10-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OLcNBfBmhyXradl8jR5bFQ%3D%3D) | 
-| 第4期中国竜星戦1回戦 | Wang Haoyang | An Dongxu | B+R | 2012-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XRzvq2f%2FjpcViVGCcebLhQ%3D%3D) | 
-| 第8期威孚房開杯棋王戦予選 | Lian Xiao | Wang Haoyang | B+R | 2012-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=igIhaRtjLu%2BE%2FRSrGm9%2BAw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第16節 | Wang Haoyang | Gu Zihao | W+R | 2012-09-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rgW6KE2eR0m2uTUSzxS7FA%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第15節 | Mi Yuting | Wang Haoyang | B+R | 2012-09-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iXgsgco72mMNi5YRFfmMvA%3D%3D) | 
-| 2012年全国囲棋個人戦男子組第3戦 | Wang Haoyang | Gu Lingyi | W+R | 2012-09-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=z3U8AMtS%2BWzbT9jIBixKEQ%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第14節 | Chang Hao | Wang Haoyang | B+3.5 | 2012-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3gTzeoiXVXOGGmgbMV74LQ%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第13節 | missing | Wang Haoyang | B+R | 2012-09-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MOG3XrMGlymOLQN3CiPpyA%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第12節 | Wang Haoyang | Xie He | W+R | 2012-08-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GjErKoJs7KM7zRICOzL0XQ%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第11節 | Zhou Heyang | Wang Haoyang | W+R | 2012-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g1a4zHweH7PXXIo2%2FP%2F3Qw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第10節 | Peng Quan | Wang Haoyang | W+R | 2012-07-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q7IGToDK8F6DnIgQx7ueGQ%3D%3D) | 
-| 2012CCTV杯中国囲棋電視快棋戦1回戦 | Lian Xiao | Wang Haoyang | B+R | 2012-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8vkxbSu%2F%2FW2SKVJ9LGrO6g%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第9節 | Wang Haoyang | Chen Yaoye | W+R | 2012-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=e55QihnfoBBTwbVAivKyRg%3D%3D) | 
-| 第4回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Wang Haoyang | Niu Yutian | W+R | 2012-07-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uYGeOjoUi1z%2Bl8tZ9IA%2BgA%3D%3D) | 
-| 第4回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Wang Haoyang | Tan Xiao | B+1.5 | 2012-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dGs3qdmfkb1fKKE8qzBGpg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第8節 | Wu Guangya | Wang Haoyang | W+R | 2012-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=47EXJF%2FjSuQB6NJfi6RXgQ%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦予選 | An Dongxu | Wang Haoyang | B+R | 2012-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4j6r7m4jANFlxECKKOilbg%3D%3D) | 
-| 第14期阿含・桐山杯中国早碁オープン戦予選 | Wang Haoyang | missing | B+R | 2012-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=492hW30KUrGPUwHauPxdLw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第7節 | Wang Haoyang | Kim Jiseok | W+R | 2012-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=T8IgSg4kW%2BSpA2lrO9KVQA%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第6節 | Wang Haoyang | Lee Yeongkyu | W+R | 2012-06-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o%2B7FQaQV3uPsBM7TCmTlMg%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第5節 | Sun Li | Wang Haoyang | W+R | 2012-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MazKGzOeAocpf2vvPl5FEw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第4節 | Niu Yutian | Wang Haoyang | B+1.5 | 2012-05-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=18iBCOigZYM%2BTgUCQjnhlw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第3節 | Chang Hao | Wang Haoyang | W+R | 2012-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=62yJgdUoO%2Bry4c50cbtfkw%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第2節 | Wang Haoyang | Weon Seongjin | B+R | 2012-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WOj5LTZR48Za24EBdYY%2BEQ%3D%3D) | 
-| 第14回中国囲碁甲級リーグ第1節 | Wang Xi | Wang Haoyang | B+5.5 | 2012-04-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ePfX%2BuOW7h1Bx41Pj7xlDg%3D%3D) | 
-| 第25期中国囲碁名人戦3回戦 | Tan Xiao | Wang Haoyang | B+R | 2012-04-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hTTF3TvRzRB3hhoHmMQ9KQ%3D%3D) | 
-| 第25期中国囲碁名人戦2回戦 | Wang Haoyang | Wu Guangya | B+R | 2012-04-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lel3IOyZQYCl4Udk1iWRRg%3D%3D) | 
-| 第25期中国囲碁名人戦1回戦 | Wang Haoyang | Qiu Jun | B+R | 2012-04-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WozTy5f41nLLaX%2Brjccxgw%3D%3D) | 
-| 第25期中国囲碁名人戦予選 | Wang Haoyang | missing | B+1.5 | 2012-04-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OxmtFtoraEm%2BEXyt9HAU%2Bw%3D%3D) | 
-| 第26期中国囲碁天元戦予選 | Wang Haoyang | Zhou Heyang | W+R | 2012-02-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mNT7rF2eR9GjJe9GkBy%2F6g%3D%3D) | 
-| 第12期リコー杯囲碁戦1回戦 | Mi Yuting | Wang Haoyang | B+3.5 | 2011-12-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3ElUhB8QD2e%2Frdhuu5zpgA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第22節 | Zhu Yuanhao | Wang Haoyang | W+R | 2011-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GuiyVuu8DrxT7lt6HAGwZg%3D%3D) | 
-| 第3期中国竜星戦決勝三番勝負第2局 | Wang Haoyang | Li Zhe | W+R | 2011-12-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YMEnHr3X7x8jytW2Zu%2FuiQ%3D%3D) | 
-| 第3期中国竜星戦決勝三番勝負第1局 | Li Zhe | Wang Haoyang | B+R | 2011-12-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oz6X1E%2Fz5XuJnUBgVzanLQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第21節 | Wang Haoyang | Lee Yeongkyu | W+R | 2011-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5NudrHbj%2B64SnFPJPDQvzQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第20節 | Niu Yutian | Wang Haoyang | W+R | 2011-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=H%2FoClDRDcEX0CTyigFmn6Q%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第19節 | Wang Haoyang | Tang Weixing | B+R | 2011-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=B8Nqts%2FjoYHV50ruI0GMjw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第18節 | missing | Wang Haoyang | B+R | 2011-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=efA6ZuXARtkaA%2BzCmihiHw%3D%3D) | 
-| 第3期中国竜星戦準決勝 | Huang Chen | Wang Haoyang | W+R | 2011-10-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=OpFixL7aml6S8pIAxuwVFA%3D%3D) | 
-| 第3期中国竜星戦4回戦 | Wang Xi | Wang Haoyang | W+0.5 | 2011-10-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GPjWIuh1XDMYEXT2ibjmIw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第17節 | Wang Haoyang | Tan Xiao | W+R | 2011-10-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sFnqvuSzIIfg9lkpHB33qg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第16節 | Wang Haoyang | Gu Li | W+0.5 | 2011-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=niGYNnJaSj6sFQqVe8j5Zw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第15節 | Zhou Heyang | Wang Haoyang | B+R | 2011-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=c3oYtI0cjdkVd6SrusDwPQ%3D%3D) | 
-| 2011年全国囲棋個人戦男子組第1戦 | Liu Xing | Wang Haoyang | W+R | 2011-09-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=nymyxWJyeug8VFDxpyvFQA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第14節 | Wang Haoyang | Li Zhe | B+R | 2011-09-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GrvT5P3NJGSHANHRz8MH9g%3D%3D) | 
-| 第7期威孚房開杯棋王戦2回戦 | Tan Xiao | Wang Haoyang | B+5.5 | 2011-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bADRGjpLeKr%2B%2Fn8r%2BN1x5A%3D%3D) | 
-| 第7期威孚房開杯棋王戦1回戦 | Wang Haoyang | Chen Yaoye | B+1.5 | 2011-09-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QCdcqKrIkqnJcg589bBoBg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第13節 | Mao Ruilong | Wang Haoyang | B+R | 2011-09-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=IOU2Fe7SKny7b9RSoi9qCQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第12節 | Wang Haoyang | Hong Seongji | B+R | 2011-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GIbr2iwjdy1V5xa5g3rcXQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第11節 | Wang Haoyang | Qiu Jun | W+R | 2011-07-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xkV7HpX%2BrRYb6R4Q0YBHVQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第10節 | Zhou Zhenyu | Wang Haoyang | W+4.5 | 2011-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XG%2BCCyKd0do8LlC1HgSqtQ%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第9節 | Liao Xingwen | Wang Haoyang | B+R | 2011-07-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=mriP5tiW0nLKLFnBOcp6Jg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第8節 | Cho Hanseung | Wang Haoyang | W+R | 2011-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=hC2SUYEI0lWLmeH1wytkwg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第7節 | Chen Yaoye | Wang Haoyang | W+R | 2011-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xouBOkb%2BLnqcbfanTOOgng%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第6節 | Wang Haoyang | Wang Lei (s) | W+4.5 | 2011-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=67jkB3erMYyPa%2BDCe4G36g%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第5節 | Wang Xi | Wang Haoyang | B+R | 2011-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Hm4aOvyQ0pdT8z59VsExAA%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第4節 | Tao Xin | Wang Haoyang | W+R | 2011-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dvFtuc1Zoc%2FrnNT8G0X3Lg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第3節 | Shi Yue | Wang Haoyang | B+R | 2011-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yluderf%2FxmWMczogAfD3bg%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第2節 | Tong Mengcheng | Wang Haoyang | B+R | 2011-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B2a%2BlPbofuwLRk8fhTbPOw%3D%3D) | 
-| 第13回中国囲碁甲級リーグ第1節 | Hong Seongji | Wang Haoyang | B+R | 2011-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cjj878OEmMvp4oMjwfiqNQ%3D%3D) | 
-| 第16回LG杯予選 | Han Wonggyu | Wang Haoyang | B+R | 2011-05-03 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VPLKQA1IWRZg8Jj2mRUlMg%3D%3D) | 
-| 第24期中国囲碁名人戦1回戦 | Wang Haoyang | Chang Hao | W+R | 2011-03-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8Za0OmNsotbkmPVYs0x4cw%3D%3D) | 
-| 第24期中国囲碁名人戦予選 | Wang Haoyang | Yu Bin | B+3.5 | 2011-03-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D0tS9WM%2BMiZ6QQDnXXQeXw%3D%3D) | 
-| 2011CCTV杯中国囲棋電視快棋戦3回戦 | Tang Weixing | Wang Haoyang | B+R | 2011-03-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=21ko5wr%2BzsfrINH3D83yZA%3D%3D) | 
-| 2011CCTV杯中国囲棋電視快棋戦2回戦 | Wang Haoyang | Sun Tengyu | B+R | 2011-03-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JgUW16sAYf%2BKPqlzghd2yg%3D%3D) | 
-| 2011CCTV杯中国囲棋電視快棋戦1回戦 | Wang Haoyang | Nie Weiping | B+R | 2011-03-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=WSlyX3yJCQw5pKjnmY5oPw%3D%3D) | 
-| 第3期中国竜星戦3回戦 | missing | Wang Haoyang | W+R | 2011-03-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6gQtottwzL1HCy0rrFZuMA%3D%3D) | 
-| 第3期中国竜星戦2回戦 | Wang Haoyang | Tan Xiao | B+1.5 | 2011-03-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h4Ma1VNvw4X%2FKYcjG7UFQA%3D%3D) | 
-| 第25期中国囲碁天元戦予選 | Wang Haoyang | Peng Quan | W+R | 2011-02-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f1SgPOnNU%2BmaqNqIqV54tQ%3D%3D) | 
-| 第3回BCカード杯世界選手権統合予選 | Wang Haoyang | Weon Seongjin | W+R | 2011-01-25 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Gu%2BVyGTNkDmtIjWKsF3zJw%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第22節 | Wang Haoyang | Gu Li | B+R | 2010-12-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=X%2BYaAkPgHRSE8rMpu9R%2FJQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第21節 | Qiu Jun | Wang Haoyang | B+R | 2010-12-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pmiZUM26W%2BHUwK6R7hyshg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第20節 | Wang Haoyang | Li Zhe | W+R | 2010-12-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MMVeZguLXjtac6OzMuOBYQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第19節 | Liu Xing | Wang Haoyang | B+3.5 | 2010-11-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=qFt2cxb0TH1lUDLMps638w%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第18節 | Shao Weigang | Wang Haoyang | W+R | 2010-11-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=23tU4zdctVTHg148SJOGpA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第17節 | Kong Jie | Wang Haoyang | W+R | 2010-10-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ft8JP7dj6oa3QRPa9jcE4g%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第16節 | Wang Yao | Wang Haoyang | W+2.5 | 2010-10-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZSY2SBSe%2FLukzDTL%2BDFKwg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第15節 | Wang Haoyang | Lee Yeongkyu | W+0.5 | 2010-10-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=uTG%2F32jpqk6CIZBnslUDgw%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第14節 | Peng Quan | Wang Haoyang | B+17.5 | 2010-10-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3uO1w1PAMqtBHTIlbs%2FnTQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第13節 | Tao Xin | Wang Haoyang | B+R | 2010-09-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=xp%2FwazoeOdcHJox2Cqj0LQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第12節 | Wang Haoyang | Ding Wei | B+1.5 | 2010-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PFRp91OV9M2E%2FMo5B2JIzQ%3D%3D) | 
-| 2010年中国段位戦 | Wang Haoyang | Huang Chen | B+R | 2010-07-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=VqJ8E3lcmXmuST9clD0eUA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第11節 | Wang Xi | Wang Haoyang | B+R | 2010-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bOgNIojZ%2Bky26f%2BYHYchNQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第10節 | Zhu Yuanhao | Wang Haoyang | W+R | 2010-07-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5AgUTh%2B3xCNEd0rrX9OXnw%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第9節 | Wang Lei (b) | Wang Haoyang | W+0.5 | 2010-07-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=POzzlBRiruOjA1uCOuDjrA%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第6節 | Kong Jie | Wang Haoyang | B+R | 2010-06-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9DQnzX0uv5CIKoSNBzrLfg%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第8節 | Huang Yizhong | Wang Haoyang | W+R | 2010-06-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gWsXs1QYsDP91rrmmBGJSw%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第7節 | missing | Wang Haoyang | W+R | 2010-06-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SyoAlvJfHjDLXt2anvXOLQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第5節 | Sun Tengyu | Wang Haoyang | W+R | 2010-05-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fvx0b%2Bq9L%2FfimnW41driEw%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第4節 | Lee Yeongkyu | Wang Haoyang | B+R | 2010-05-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Yduc2zHbPZq8yrRSB5SI7A%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第3節 | Meng Tailing | Wang Haoyang | W+R | 2010-05-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=o4RkEWwSF561ma8K%2FLQoxQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第2節 | Zhou Ruiyang | Wang Haoyang | B+R | 2010-04-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EYe3t4%2BQDWx3ZWj%2B8dRSiQ%3D%3D) | 
-| 第12回中国囲碁甲級リーグ第1節 | Liao Xingwen | Wang Haoyang | W+R | 2010-04-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Lxpb0ifgxLHFTdhv48jp7A%3D%3D) | 
-| 2010CCTV杯中国囲棋電視快棋戦4回戦 | Piao Wenyao | Wang Haoyang | B+R | 2010-04-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yCxaYt3TD39hr0pIhQ%2FPOg%3D%3D) | 
-| 第23期中国囲碁名人戦予選 | Wang Haoyang | Shao Weigang | W+2.5 | 2010-03-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yRAAxW1HzZuSE%2FNZROmJyg%3D%3D) | 
-| 第23期中国囲碁名人戦予選 | Wang Haoyang | Tang Weixing | B+R | 2010-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=D8yNQx0rwQwrZsbri%2FYX8Q%3D%3D) | 
-| 2010CCTV杯中国囲棋電視快棋戦3回戦 | Wang Haoyang | Niu Yutian | B+R | 2010-03-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ja0Ea29fOZo3vhaCNTpDyw%3D%3D) | 
-| 2010CCTV杯中国囲棋電視快棋戦2回戦 | Wang Haoyang | Zhong Wenjing | B+R | 2010-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8W3wO%2BM5heAc47YIG%2FjQgQ%3D%3D) | 
-| 2010CCTV杯中国囲棋電視快棋戦1回戦 | Wang Haoyang | Yin Hang | B+R | 2010-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6rhXq9Zl1%2FsBDSEV1n3QAw%3D%3D) | 
-| 第24期中国囲碁天元戦予選 | Xie He | Wang Haoyang | B+R | 2010-01-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dcWhOldA3rQXB2CZ92zetw%3D%3D) | 
-| 第2回BCカード杯世界選手権統合予選決勝 | Yoo Changhyuk | Wang Haoyang | B+R | 2010-01-13 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x03d%2BfCMCggVJlqONemfYA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第22節 | Wang Lei (b) | Wang Haoyang | W+R | 2009-12-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=E3wW5uFmQaNRP4hwihbteg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第21節 | missing | Wang Haoyang | B+7.5 | 2009-12-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9z5guLJNT5W4LZQEkQn68Q%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第20節 | Wang Haoyang | Tang Weixing | W+R | 2009-12-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=N3Rz4xYYGd0D88PG%2B47cfA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第19節 | missing | Wang Haoyang | W+R | 2009-11-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cz%2BL2IZ%2B9GPzWHGxYtXlmA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第18節 | Dang Yifei | Wang Haoyang | W+R | 2009-11-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=p2zeZSQOuCIywtAuP9C3MQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第17節 | Zhong Wenjing | Wang Haoyang | W+0.5 | 2009-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DuS9NOj8W57j4Ix15X67dw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第16節 | Wang Xi | Wang Haoyang | B+3.5 | 2009-10-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9vr06Nx%2Bh%2BP1nCh0%2FfE87Q%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第15節 | Wang Haoyang | Liu Xing | W+0.5 | 2009-10-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Dp2ZAiiZr1yt1TIOk32sLQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第14節 | Wang Haoyang | Tuo Jiaxi | W+R | 2009-09-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8rUP37uF9rJl5Zl1Tebv1g%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第13節 | Qiu Jun | Wang Haoyang | B+R | 2009-09-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R3gfXT6HIqofEek00fxqzA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第12節 | Shao Weigang | Wang Haoyang | W+R | 2009-09-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EBn3ih93oovZ4tM68VI3wQ%3D%3D) | 
-| 2009年中国段位戦 | Song Ronghui | Wang Haoyang | W+R | 2009-07-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=exazd2CCUVqyKBgX8ZyriA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第11節 | Shi Yue | Wang Haoyang | B+7.5 | 2009-07-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=34s05EkjQoIdBfRrcaiC5A%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第10節 | Wang Haoyang | Ding Wei | B+R | 2009-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=bFKD0xyLDikxqLN85kt5dA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第9節 | Tang Weixing | Wang Haoyang | W+R | 2009-07-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KV%2BGuiyHMc%2Bem36jJRsIJg%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | Wang Haoyang | Gu Lingyi | W+0.5 | 2009-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Cs8TM5QAfX5nBME3d4i15A%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | missing | Wang Haoyang | W+R | 2009-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2Fg2uDKogOa%2By7XeBxu8KHQ%3D%3D) | 
-| 第11期阿含・桐山杯中国早碁オープン戦予選 | missing | Wang Haoyang | W+R | 2009-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EamrneVCPFNpjl9t8PydBw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第8節 | missing | Wang Haoyang | W+R | 2009-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dVTCb%2FeiS6pvSmOCu2syoQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第7節 | Lee Yeongkyu | Wang Haoyang | W+R | 2009-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QwqYhF2RGsdEGKW%2FP0gkXw%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第6節 | missing | Wang Haoyang | W+R | 2009-06-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zPBUMCXo8hvVlwbuop9mwg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第5節 | Wang Haoyang | Gu Li | W+R | 2009-06-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QcPGLY06%2FsiQAFPtfgrUEA%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第4節 | Wang Lei (s) | Wang Haoyang | W+10.5 | 2009-05-28 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0hEDTpf6c6zZd%2FN9qzTSoQ%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第3節 | Tuo Jiaxi | Wang Haoyang | B+R | 2009-05-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tl5I%2Bo4mDVz5LGLdsjPp0A%3D%3D) | 
-| 第14回LG杯世界棋王戦2回戦 | Park Yeonghun | Wang Haoyang | B+R | 2009-05-20 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a1jwZgRiz7XxfkKk%2FPDMug%3D%3D) | 
-| 第14回LG杯世界棋王戦1回戦 | Wang Haoyang | Paek Daehyun | B+2.5 | 2009-05-18 | 6.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=vAy54X5bJeqlzkzIvBFT2Q%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第2節 | Wang Haoyang | Hu Yaoyu | W+R | 2009-05-14 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=i%2F2GalIwPN0JJszN%2FHVZYg%3D%3D) | 
-| 第11回中国囲碁甲級リーグ第1節 | Zhou Ruiyang | Wang Haoyang | B+R | 2009-05-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=10esmN%2FpkozyfWOE%2Fg1Abg%3D%3D) | 
-| 第22期中国囲碁名人戦予選 | Wang Haoyang | Shi Yue | W+2.5 | 2009-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=R787hZtMfoS4QUjuMG8Pzg%3D%3D) | 
-| 第16期建橋杯中国囲碁新人王戦1回戦 | Wang Haoyang | Shi Yue | W+R | 2009-03-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QeU20aUVeb7z1czJAzx54w%3D%3D) | 
-| 2009CCTV杯中国囲棋電視快棋戦1回戦 | Meng Tailing | Wang Haoyang | B+R | 2009-02-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6HWNMVKtjI8O05UyMNtUMw%3D%3D) | 
-| 第23期中国囲碁天元戦予選 | Wang Haoyang | Peng Quan | W+R | 2009-02-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=RdKvZdb6v0eVisPD%2ByO86A%3D%3D) | 
-| 第2回衢州・爛柯杯中国囲棋冠軍戦準決勝 | Chang Hao | Wang Haoyang | B+1.5 | 2008-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6gDAHHZRggZ79R3waU9ThA%3D%3D) | 
-| 第2回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Wang Haoyang | Zhou Ruiyang | B+R | 2008-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Vxjl8SR5%2FTFOQjESFRvltg%3D%3D) | 
-| 第2回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Wang Haoyang | Wang Lei (b) | B+R | 2008-06-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2318mV7U12L2yLc6V0hfHg%3D%3D) | 
-| 第2回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Wang Haoyang | Nie Weiping | B+R | 2008-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=h5O1CcCVoZnnI8jpIIdJRw%3D%3D) | 
-| 第5期倡棋杯中国プロ囲碁選手権戦予選 | Wang Haoyang | missing | W+R | 2008-04-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CByrMmNeI3wwtjtyvHY1Sg%3D%3D) | 
-| 第14期NEC杯囲碁戦予選 | Dong Yan | Wang Haoyang | B+R | 2008-02-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zfgeY0%2BEsqvLpCCaMbH01A%3D%3D) | 
-| 第21期中国囲碁名人戦予選 | Peng Quan | Wang Haoyang | B+R | 2008-02-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=is59uxQiXZ%2BXSKhr1pPUxw%3D%3D) | 
-| 第21期中国囲碁名人戦予選 | Wang Haoyang | missing | B+R | 2008-02-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=DFwvIDI0hZU%2FgFh3RgkPtQ%3D%3D) | 
-| 2008CCTV杯中国囲棋電視快棋戦1回戦 | Ding Lie | Wang Haoyang | B+R | 2007-12-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=9EtFoJ%2FSXHPfTzJ8pt95dg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第22節 | Gu Li | Wang Haoyang | W+0.5 | 2007-12-22 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tYKprBosmaXCgKhu2O%2BadQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第21節 | Zhou Ruiyang | Wang Haoyang | W+R | 2007-12-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GwDGrPpkQ4cu%2Br6UbTk7FA%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第20節 | Wang Haoyang | Sun Li | B+R | 2007-12-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=LfmZ%2BVHvOnVLatkzfGpoMA%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第19節 | Niu Yutian | Wang Haoyang | B+R | 2007-12-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=CmvQji6Svzsb7yttM9omDQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第18節 | Wang Haoyang | Wang Yao | W+R | 2007-11-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=a09F4Y4P9oG3321gKnloFw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第17節 | Kong Jie | Wang Haoyang | B+R | 2007-11-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ezy%2FQ70O5FED%2FUOF%2BkB6Iw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第16節 | Wang Haoyang | Chang Hao | W+R | 2007-11-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f88KSOCrswi%2BjnjQ5LAKPw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第15節 | Liu Xing | Wang Haoyang | W+R | 2007-11-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tScCHRC0c10KGyvLqRkyuA%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第14節 | missing | Wang Haoyang | W+R | 2007-10-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=py1MH1L%2BVILgTj187pT9pA%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第13節 | Wang Haoyang | Zhong Wenjing | W+0.5 | 2007-10-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=q%2Fq0aQSAr%2FdCpttoS44oNg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第12節 | Wang Haoyang | missing | B+R | 2007-09-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=lgWdkOgdpBHu%2FnW23Zck4Q%3D%3D) | 
-| 2007年全国囲棋個人戦男子組第2戦 | Wang Haoyang | missing | W+R | 2007-09-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=K1O5MxEgR%2BSqy10N4IbzcQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第11節 | Wang Haoyang | Gu Li | W+R | 2007-08-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=97KUTfkVpalgCTqnL9cOqg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第10節 | Wang Haoyang | Zhou Heyang | W+R | 2007-08-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=rFrXKu3Anlf8DhPJRkotEQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第9節 | missing | Wang Haoyang | B+1.5 | 2007-08-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Ye9LX7x6dtiRJ82%2FKybkLw%3D%3D) | 
-| 2007年中国段位戦 | Shi Yue | Wang Haoyang | B+R | 2007-07-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=3w%2BSbE2JAi2CB5zNDfv%2ByA%3D%3D) | 
-| 2007年中国段位戦 | Huang Chen | Wang Haoyang | W+R | 2007-07-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PGazB96AsguFU7fL2DWpYg%3D%3D) | 
-| 2007年中国段位戦 | Wang Haoyang | Gu Lingyi | B+R | 2007-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YB7RsweiVkb44Ztjor6t2g%3D%3D) | 
-| 2007年中国段位戦 | Wang Haoyang | Zhou Ruiyang | W+2.5 | 2007-07-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=cKkU0Ru8J92a%2B1iNb8%2FJ3A%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第8節 | Liao Xingwen | Wang Haoyang | W+R | 2007-07-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gxGEm7F1SduFGrQQrh%2BLRQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第7節 | Wang Haoyang | missing | W+0.5 | 2007-06-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=EkD0rvnugh0TImcgfUi6%2FQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第6節 | Wang Haoyang | Kong Jie | W+R | 2007-06-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=GGORfjUpIj0j14hxuXIB9w%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第5節 | Chang Hao | Wang Haoyang | B+5.5 | 2007-06-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ojA%2FpBn7y7DVZ3rKkqtnuw%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第4節 | Wang Haoyang | Liu Xing | W+R | 2007-06-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2B5HIrFu8m5rLegFp5gOEgg%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第3節 | Tao Xin | Wang Haoyang | W+0.5 | 2007-05-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=REuguethjUmO2qfJPBqFRQ%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第2節 | Wang Haoyang | Li Zhe | W+R | 2007-05-19 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2F6SaHR9Pq9YWntGooPLT9A%3D%3D) | 
-| 第9回中国囲碁甲級リーグ第1節 | Wang Haoyang | Meng Tailing | W+0.5 | 2007-05-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HOg%2Brw5zM3PHAByR1XpenA%3D%3D) | 
-| 第20期中国囲碁名人戦1回戦 | Wang Haoyang | Wang Yao | W+R | 2007-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0ixumHsl5uLwjLPePIY56w%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第22節 | Wang Haoyang | Wang Lei (b) | W+R | 2006-12-23 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=1l2V4wuvvPWWPx92eXw8iQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第21節 | Wang Yao | Wang Haoyang | W+R | 2006-12-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=sQ8F%2FHmY3JYdQYLi%2B%2Ftejw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第20節 | Hu Yaoyu | Wang Haoyang | W+R | 2006-12-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZAeUBIPdRWwv%2FsrqvdNOKg%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第19節 | Zhang Wendong | Wang Haoyang | W+R | 2006-11-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=7v7fzyJx6UPyyvs9RzBt7Q%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第18節 | Mao Ruilong | Wang Haoyang | B+R | 2006-11-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=v4IfQfYj8GqjRW5vg9pMiA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第17節 | Wang Haoyang | Niu Yutian | B+R | 2006-11-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=g%2FTiIln3JxZY429tdRutjw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第16節 | Wang Yuhui | Wang Haoyang | B+R | 2006-11-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=YvxUzbwIVvRvYY8YHab2aQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第14節 | Xie He | Wang Haoyang | W+4.5 | 2006-11-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=QO9I%2Blbn7W7B9CFVSSk%2F2A%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第15節 | Wang Haoyang | Gu Li | B+1.5 | 2006-11-02 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yh7Ucff%2BBQjBdGu4IJOFlw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第13節 | missing | Wang Haoyang | W+R | 2006-10-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ZCRSwwout0Pqg3tiuR1ppg%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第12節 | Peng Quan | Wang Haoyang | W+R | 2006-10-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=2QDXGFDRqQZnztQC17CzoQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第11節 | Wang Haoyang | Wang Yao | W+R | 2006-08-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=m9vF2TXtkWV9FJ3CFgbdLg%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第10節 | Wang Lei (b) | Wang Haoyang | B+R | 2006-07-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=eZfPDDYR7d3Kgd5cgIXzig%3D%3D) | 
-| 2006年中国段位戦 | Wang Haoyang | missing | B+R | 2006-07-16 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=0mKcGc5%2F4Yv%2FJEsNldX6vA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第9節 | Wang Haoyang | Chang Hao | W+R | 2006-07-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=SExsZrfp%2FmZWXlaLHplMzw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第8節 | Wang Haoyang | Wang Yang | B+21.5 | 2006-07-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8oBPez50bvOvnIy%2FTeuwhQ%3D%3D) | 
-| 第19期中国囲碁名人戦準決勝 | Zhou Ruiyang | Wang Haoyang | B+R | 2006-06-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TnHduv1LbGXSWAZocWxP9w%3D%3D) | 
-| 第19期中国囲碁名人戦3回戦 | Wang Haoyang | Shao Weigang | B+R | 2006-06-27 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=x0N7ySiS5kcYUxeeGBDmCg%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第7節 | Ma Xiaochun | Wang Haoyang | B+R | 2006-06-24 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=gmMhK%2FD26LJJXEOcAfQfTA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第6節 | Niu Yutian | Wang Haoyang | B+7.5 | 2006-06-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=wZ9XDAN41NeY5K6Y9UU7PQ%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第5節 | Wang Haoyang | Wang Yuhui | W+8.5 | 2006-06-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yvY7rng0CvsWREdWfvb%2FjA%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第4節 | Gu Li | Wang Haoyang | B+3.5 | 2006-06-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=MF7odiIacBb%2B%2BWQPd5SZaw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第3節 | Wang Haoyang | Zhou Heyang | W+R | 2006-05-11 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=KleAWE9%2B%2FaJohYbZ4MkJ0w%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第2節 | missing | Wang Haoyang | W+R | 2006-04-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=zwffBnMcLPEsb3VjIpT%2Biw%3D%3D) | 
-| 第8回中国囲碁甲級リーグ第1節 | Wang Haoyang | Luo Xihe | W+R | 2006-04-15 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=8hSLSMr%2Bb0juSmc8kbfKcQ%3D%3D) | 
-| 第19期中国囲碁名人戦2回戦 | Chang Hao | Wang Haoyang | W+R | 2006-03-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=f%2Fj0FWjh%2BrcTUFUsX5yzDg%3D%3D) | 
-| 2006CCTV杯中国囲棋電視快棋戦1回戦 | Zheng Yan | Wang Haoyang | B+1.5 | 2006-01-17 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=iABlf%2BkUsCviaIXctAEzEQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第22節 | Chen Yaoye | Wang Haoyang | W+R | 2005-12-31 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=tP5DcdOU8bBaxcoUH5M%2BtA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第21節 | Wang Haoyang | Wang Lei (s) | B+3.5 | 2005-12-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6F7sKl28B8zELFkB8MnoGw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第20節 | missing | Wang Haoyang | W+0.5 | 2005-12-10 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2BEH4eVc298wcihCpxW7Jlw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第19節 | Nie Weiping | Wang Haoyang | W+R | 2005-12-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=6%2FtFGkdnUXM0DfeQrnvF0w%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第18節 | Wang Haoyang | Liu Jing | W+R | 2005-11-26 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=ydzj7q%2BnM7axf0orKTY1BA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第17節 | Huang Yizhong | Wang Haoyang | W+R | 2005-11-12 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=5QXN0lRIVRFGzkWqMdF39Q%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第16節 | Dong Yan | Wang Haoyang | W+R | 2005-11-05 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=PM%2Fe5PG2IQSJEUdxPsR7XA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第15節 | Niu Yutian | Wang Haoyang | B+R | 2005-10-29 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=neVVS%2F%2FnofCg%2FkK7Wvip5w%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第13節 | Ding Wei | Wang Haoyang | B+1.5 | 2005-10-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=TpQcrqEAREGeAJ0WrVsIwA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第12節 | missing | Wang Haoyang | W+2.5 | 2005-10-01 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=HZL1bo9kdzhvXHmG5dhIuA%3D%3D) | 
-| 第2期倡棋杯中国プロ囲碁選手権戦予選 | Wang Haoyang | Dong Yan | W+5 | 2005-09-04 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=yTzantq93YoNM5ja6SJeZQ%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第11節 | Chen Yaoye | Wang Haoyang | B+R | 2005-08-20 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=85F2KcTFuYFYZt4WlArlSA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第10節 | Wang Haoyang | Wang Xi | W+6.5 | 2005-08-13 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JLmfWaHbXvn4Qxgmikek3w%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第9節 | Li Jie | Wang Haoyang | B+R | 2005-08-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=JUohgU%2B9unC3WEcNCL%2BWYg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第8節 | Wang Yuhui | Wang Haoyang | W+0.5 | 2005-07-09 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=4CsG62TV5cnr1IoGyiVIIg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第7節 | Liu Jing | Wang Haoyang | B+R | 2005-06-25 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=BFSztWui8S1%2BF%2BSRh5Ldnw%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第6節 | Peng Quan | Wang Haoyang | B+11.5 | 2005-06-18 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=XxNNnAjW9IOQDOndYU2kIg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第4節 | Wang Haoyang | Piao Wenyao | W+R | 2005-05-21 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=pxHbYGTHz2YCdW79qSfgkA%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第3節 | Wang Haoyang | Qiu Jun | W+R | 2005-05-07 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=fX0EIQWA0TpE8FADv0U%2BMg%3D%3D) | 
-| 第7回中国囲碁甲級リーグ第2節 | Xie He | Wang Haoyang | B+R | 2005-04-30 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=%2FA6neFAdjxlLQ8SB%2FMO6Lg%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | Wang Haoyang | Choi Myeonghun | W+R | 2003-04-08 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=Bo%2B%2BzM2RzAigEMeWxakx8A%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | Wang Haoyang | Li Kang | W+0.5 | 2003-04-06 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=dBLvZFjxxvGb5QzY69BxAw%3D%3D) | 
-| 2003年中国囲碁乙級リーグ | Wang Haoyang | Liu Jing | W+R | 2003-04-03 | 7.5 | [Kifu](https://kifudepot.net/kifucontents.php?id=oPkQS8iF3YlCsVK%2BXJ8IOw%3D%3D) |
+| **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-11-21 | 2020年中国囲碁乙級リーグ | Iyama Yuta | Wang Haoyang | Win | W+R | 7.5 | 3488.0 | 43.0 | 
+| 2020-11-20 | 2020年中国囲碁乙級リーグ | Choi Cheolhan | Wang Haoyang | Win | W+R | 7.5 | 3445.0 | 78.0 | 
+| 2020-11-17 | 2020年中国囲碁乙級リーグ | Wang Haoyang | Park Sangjin | Lose | W+1¼ | 7.5 | 3367.0 | -250.0 | 
+| 2020-01-04 | 第11期中国竜星戦Aブロック6回戦 | Wang Haoyang | Fan Yin | Lose | W+R | 7.5 | 3617.0 | -112.0 | 
+| 2019-12-24 | 第11期中国竜星戦Aブロック5回戦 | Yi Lingtao | Wang Haoyang | Win | W+R | 7.5 | 3729.0 | 43.0 | 
+| 2019-12-21 | 第11期中国竜星戦Aブロック4回戦 | Wu Guangya | Wang Haoyang | Win | W+R | 7.5 | 3686.0 | 106.0 | 
+| 2019-12-20 | 第11期中国竜星戦Aブロック3回戦 | Chen Zijian | Wang Haoyang | Win | W+¼ | 7.5 | 3580.0 | 83.0 | 
+| 2019-12-19 | 第11期中国竜星戦Aブロック2回戦 | Wang Haoyang | Duan Rong | Win | B+R | 7.5 | 3497.0 | 6.0 | 
+| 2019-12-18 | 第11期中国竜星戦Aブロック1回戦 | Yu Zhiying | Wang Haoyang | Win | W+¼ | 7.5 | 3491.0 | 95.0 | 
+| 2019-06-14 | 2019年中国囲碁乙級リーグ | Lin Lixiang | Wang Haoyang | Win | W+2.5 | 7.5 | 3396.0 | 319.0 | 
+| 2019-03-07 | 第10期中国竜星戦予選 | Wang Haoyang | Chen Yaoye | Lose | W+R | 7.5 | 3077.0 | -283.0 | 
+| 2018-06-19 | 2018年中国囲碁乙級リーグ | Chen Hao | Wang Haoyang | Win | W+2.5 | 7.5 | 3360.0 | -55.0 | 
+| 2018-06-18 | 2018年中国囲碁乙級リーグ | Wang Haoyang | Yun Chanhee | Lose | W+R | 7.5 | 3415.0 | -41.0 | 
+| 2018-06-16 | 2018年中国囲碁乙級リーグ | Tong Yulin | Wang Haoyang | Lose | B+¾ | 7.5 | 3456.0 | -38.0 | 
+| 2018-06-12 | 2018年中国囲碁乙級リーグ | Chen Xian | Wang Haoyang | Lose | B+R | 7.5 | 3494.0 | -27.0 | 
+| 2018-06-11 | 2018年中国囲碁乙級リーグ | Wang Haoyang | Wang Yanhao | Win | B+R | 7.5 | 3521.0 | 91.0 | 
+| 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Wang Haoyang | Zhou Ruiyang | Lose | W+R | 7.5 | 3430.0 | -10.0 | 
+| 2018-04-07 | 第23回LG杯予選決勝 | Lee Wonyoung | Wang Haoyang | Lose | B+2.5 | 6.5 | 3440.0 | 48.0 | 
+| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Yang Kaiwen | Wang Haoyang | Win | W+R | 7.5 | 3392.0 | 41.0 | 
+| 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Tang Weixing | Wang Haoyang | Lose | B+R | 7.5 | 3351.0 | -11.0 | 
+| 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Tong Mengcheng | Wang Haoyang | Win | W+R | 7.5 | 3362.0 | 46.0 | 
+| 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Fan Yin | Wang Haoyang | Lose | B+R | 7.5 | 3316.0 | 6.0 | 
+| 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Tao Xinran | Wang Haoyang | Win | W+R | 7.5 | 3310.0 | 48.0 | 
+| 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Wang Haoyang |  | Lose | W+6.5 | 7.5 | 3262.0 | -51.0 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Wang Haoyang | Xia Chenkun | Win | B+R | 7.5 | 3313.0 | 64.0 | 
+| 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Xie Ke | Wang Haoyang | Lose | B+R | 7.5 | 3249.0 | -12.0 | 
+| 2017-08-24 | 第3回Mlily夢百合杯16強戦 | Wang Haoyang | Park Yeonghun | Lose | W+R | 7.5 | 3261.0 | 45.0 | 
+| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Wang Haoyang | Huang Yunsong | Lose | W+2.5 | 7.5 | 3216.0 | -56.0 | 
+| 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Fan Tingyu | Wang Haoyang | Lose | B+3.5 | 7.5 | 3272.0 | -10.0 | 
+| 2017-06-30 | 第22回三星火災杯統合予選2回戦 | Kim Seungjun | Wang Haoyang | Win | W+R | 6.5 | 3282.0 | -48.0 | 
+| 2017-06-21 | 第3回夢百合杯世界オープン戦2回戦 | DeepZenGo | Wang Haoyang | Win | W+0.5 | 7.5 | 3330.0 | 51.0 | 
+| 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Wang Haoyang | Shin Jinseo | Win | B+R | 7.5 | 3279.0 | 57.0 | 
+| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Wang Haoyang | Jiang Qirun | Win | B+R | 7.5 | 3222.0 | 62.0 | 
+| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Han Yizhou | Wang Haoyang | Lose | B+R | 7.5 | 3160.0 | -16.0 | 
+| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Wang Haoyang | Ding Hao | Lose | W+T | 7.5 | 3176.0 | 10.0 | 
+| 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Li Weiqing | Wang Haoyang | Lose | B+R | 7.5 | 3166.0 | -16.0 | 
+| 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 | Yang Dingxin | Wang Haoyang | Lose | B+R | 7.5 | 3182.0 | 16.0 | 
+| 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Wang Haoyang | Xie Ke | Win | B+R | 7.5 | 3166.0 | 43.0 | 
+| 2017-04-25 | 第19回中国囲碁甲級リーグ第1節 | Dang Yifei | Wang Haoyang | Lose | B+3.5 | 7.5 | 3123.0 | -61.0 | 
+| 2017-02-18 | 第14期中国倡棋杯予選決勝 |  | Wang Haoyang | Lose | B+R | 7.5 | 3184.0 | -82.0 | 
+| 2017-01-13 | 第31期中国囲碁天元戦予選 | Wang Haoyang | Yu Zhiying | Lose | W+2.5 | 7.5 | 3266.0 | -51.0 | 
+| 2016-12-30 | Alphago Online Series on Tygem and Fox 12 | Wang Haoyang |  | Lose | W+R | 6.5 | 3317.0 | 16.0 | 
+| 2016-12-18 | 嫘祖杯第29期中国名人戦網選4回戦 | Wang Haoyang | Yang Kaiwen | Lose | W+R | 7.5 | 3301.0 | -42.0 | 
+| 2016-12-17 | 嫘祖杯第29期中国名人戦網選3回戦 | Ma Yichao | Wang Haoyang | Win | W+0.5 | 7.5 | 3343.0 | -32.0 | 
+| 2016-10-24 | 第8期中国竜星戦予選 | Wang Haoyang | Hu Yuhan | Lose | W+R | 7.5 | 3375.0 | -73.0 | 
+| 2016-07-20 | 第21回三星火災杯統合予選決勝 | Wang Haoyang | Tuo Jiaxi | Lose | W+R | 6.5 | 3448.0 | -29.0 | 
+| 2016-07-19 | 第21回三星火災杯統合予選準決勝 | Wang Haoyang | Ahn Kukhyun | Win | B+R | 6.5 | 3477.0 | 73.0 | 
+| 2016-06-25 | 2016年中国囲碁乙級リーグ |  | Wang Haoyang | Win | W+R | 7.5 | 3404.0 | 23.0 | 
+| 2016-06-24 | 2016年中国囲碁乙級リーグ | Wang Haoyang |  | Win | B+3.5 | 7.5 | 3381.0 | 39.0 | 
+| 2016-06-21 | 2016年中国囲碁乙級リーグ | Wang Haoyang | Fan Yunruo | Lose | W+R | 7.5 | 3342.0 | -21.0 | 
+| 2016-06-20 | 2016年中国囲碁乙級リーグ | Wang Haoyang |  | Lose | W+R | 7.5 | 3363.0 | -38.0 | 
+| 2016-06-18 | 2016年中国囲碁乙級リーグ | Zhu Yuanhao | Wang Haoyang | Win | W+0.5 | 7.5 | 3401.0 | 50.0 | 
+| 2016-06-01 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Shi Yue | Wang Haoyang | Lose | B+R | 7.5 | 3351.0 | -98.0 | 
+| 2016-05-01 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Liao Yuanhe | Wang Haoyang | Lose | B+1.5 | 7.5 | 3449.0 | -82.0 | 
+| 2016-01-17 | 第30期中国囲碁天元戦2回戦 | Wang Haoyang | Gu Li | Lose | W+R | 7.5 | 3531.0 | -42.0 | 
+| 2016-01-15 | 第30期中国囲碁天元戦1回戦 | Wang Haoyang | Li Qincheng | Win | B+1.5 | 7.5 | 3573.0 | -1.0 | 
+| 2015-08-31 | 2015年全国囲棋個人戦男子組第8戦 | Wang Haoyang | Zhang Tao | Win | B+R | 7.5 | 3574.0 | -7.0 | 
+| 2015-08-29 | 2015年全国囲棋個人戦男子組第7戦 |  | Wang Haoyang | Win | W+R | 7.5 | 3581.0 | 18.0 | 
+| 2015-08-28 | 2015年全国囲棋個人戦男子組第6戦 | Wang Haoyang | Tao Xinran | Win | B+R | 7.5 | 3563.0 | 122.0 | 
+| 2015-07-07 | 第2回夢百合杯世界オープン戦1回戦 | Wang Haoyang | Chang Hao | Lose | W+R | 7.5 | 3441.0 | -27.0 | 
+| 2015-06-27 | 第7期中国竜星戦予選 | Wang Haoyang | Chen Zhengxun | Lose | W+R | 7.5 | 3468.0 | 50.0 | 
+| 2015-05-17 | 2015年中国囲碁乙級リーグ | Chen Shiyuan | Wang Haoyang | Win | W+R | 7.5 | 3418.0 | -51.0 | 
+| 2015-05-03 | 第28期中国囲碁名人戦予選 | Wang Haoyang | Guo Yuzheng | Lose | W+R | 7.5 | 3469.0 | -26.0 | 
+| 2015-04-15 | 第20回LG杯予選 | Wang Haoyang | Shin Minjun | Win | B+3.5 | 6.5 | 3495.0 | 27.0 | 
+| 2015-01-20 | 第15期リコー杯囲碁戦2回戦 | Wang Haoyang | Ke Jie | Lose | W+0.5 | 7.5 | 3468.0 | -9.0 | 
+| 2014-12-31 | 第15期リコー杯囲碁戦1回戦 | Chang Hao | Wang Haoyang | Win | W+R | 7.5 | 3477.0 | 6.0 | 
+| 2014-11-25 | 第16回中国囲碁甲級リーグ第22節 | Li Zhe | Wang Haoyang | Win | W+R | 7.5 | 3471.0 | 40.0 | 
+| 2014-11-22 | 第16回中国囲碁甲級リーグ第21節 | Wang Haoyang | Kong Jie | Win | B+R | 7.5 | 3431.0 | 39.0 | 
+| 2014-11-11 | 第16回中国囲碁甲級リーグ第20節 | Dang Yifei | Wang Haoyang | Win | W+R | 7.5 | 3392.0 | 29.0 | 
+| 2014-11-09 | 第16回中国囲碁甲級リーグ第19節 | Zhao Chenyu | Wang Haoyang | Win | W+R | 7.5 | 3363.0 | 7.0 | 
+| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Wang Haoyang | Fan Tingyu | Lose | W+R | 7.5 | 3356.0 | -25.0 | 
+| 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Huang Yunsong | Wang Haoyang | Lose | B+R | 7.5 | 3381.0 | 70.0 | 
+| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Wang Haoyang | Na Hyun | Lose | W+R | 7.5 | 3311.0 | -37.0 | 
+| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Li Xuanhao | Wang Haoyang | Win | W+R | 7.5 | 3348.0 | 7.0 | 
+| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Wang Haoyang | Lee Sedol | Lose | W+6.5 | 7.5 | 3341.0 | -12.0 | 
+| 2014-08-04 | 第19回三星火災杯統合予選3回戦 | Han Seungjoo | Wang Haoyang | Lose | B+R | 6.5 | 3353.0 | -71.0 | 
+| 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Zhong Wenjing | Wang Haoyang | Lose | B+R | 7.5 | 3424.0 | 39.0 | 
+| 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Wang Haoyang | Park Junghwan | Lose | W+R | 7.5 | 3385.0 | 6.0 | 
+| 2014-06-18 | 第5回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Gu Li | Wang Haoyang | Lose | B+1.5 | 7.5 | 3379.0 | -101.0 | 
+| 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Wang Haoyang | Peng Liyao | Lose | W+0.5 | 7.5 | 3480.0 | 9.0 | 
+| 2014-06-05 | 第16回中国囲碁甲級リーグ第6節 | Zhang Tao | Wang Haoyang | Win | W+2.5 | 7.5 | 3471.0 | -5.0 | 
+| 2014-06-03 | 第16回中国囲碁甲級リーグ第5節 | Fan Tingyu | Wang Haoyang | Lose | B+R | 7.5 | 3476.0 | -59.0 | 
+| 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Xie Erhao | Wang Haoyang | Win | W+0.5 | 7.5 | 3535.0 | -11.0 | 
+| 2014-05-18 | 第16回中国囲碁甲級リーグ第3節 | Wang Haoyang | Fan Yunruo | Lose | W+R | 7.5 | 3546.0 | -12.0 | 
+| 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Wang Haoyang | Gu Li | Lose | W+R | 7.5 | 3558.0 | 10.0 | 
+| 2014-05-09 | 第16回中国囲碁甲級リーグ第1節 | Wang Haoyang | Niu Yutian | Win | B+R | 7.5 | 3548.0 | 36.0 | 
+| 2014-05-07 | 2014CCTV杯中国囲棋電視快棋戦準決勝 | Li Qincheng | Wang Haoyang | Lose | B+R | 7.5 | 3512.0 | -14.0 | 
+| 2014-05-06 | 2014CCTV杯中国囲棋電視快棋戦4回戦 | Wang Haoyang | Tang Weixing | Win | B+R | 7.5 | 3526.0 | 0.0 | 
+| 2014-05-06 | 2014CCTV杯中国囲棋電視快棋戦3回戦 | Lian Xiao | Wang Haoyang | Win | W+R | 7.5 | 3526.0 | 43.0 | 
+| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦2回戦 | Tao Xin | Wang Haoyang | Win | W+R | 7.5 | 3483.0 | 0.0 | 
+| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Wang Haoyang | Wang Xi | Win | B+R | 7.5 | 3483.0 | 87.0 | 
+| 2014-04-03 | 第5回衢州・爛柯杯中国囲棋冠軍戦予選 | Guo Yuzheng | Wang Haoyang | Win | W+R | 7.5 | 3396.0 | 20.0 | 
+| 2014-04-02 | 第27期中国囲碁名人戦予選 | Wang Haoyang |  | Lose | W+R | 7.5 | 3376.0 | -13.0 | 
+| 2014-04-01 | 第27期中国囲碁名人戦予選 |  | Wang Haoyang | Win | W+R | 7.5 | 3389.0 | -23.0 | 
+| 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 | Piao Wenyao | Wang Haoyang | Lose | B+R | 7.5 | 3412.0 | -13.0 | 
+| 2013-11-23 | 第15回中国囲碁甲級リーグ第21節 | Wang Haoyang | Wang Lei (s) | Lose | W+R | 7.5 | 3425.0 | -17.0 | 
+| 2013-11-16 | 第15回中国囲碁甲級リーグ第20節 | Peng Quan | Wang Haoyang | Lose | B+1.5 | 7.5 | 3442.0 | 9.0 | 
+| 2013-11-02 | 第15回中国囲碁甲級リーグ第19節 |  | Wang Haoyang | Win | W+R | 7.5 | 3433.0 | 57.0 | 
+| 2013-10-20 | 第15回中国囲碁甲級リーグ第17節 | Fan Tingyu | Wang Haoyang | Lose | B+R | 7.5 | 3376.0 | -36.0 | 
+| 2013-10-13 | 第15回中国囲碁甲級リーグ第16節 | Wang Haoyang | Lee Sedol | Lose | W+R | 7.5 | 3412.0 | -12.0 | 
+| 2013-09-12 | 第15回中国囲碁甲級リーグ第15節 | Wang Haoyang | Fan Yunruo | Win | B+R | 7.5 | 3424.0 | 81.0 | 
+| 2013-09-01 | 第15回中国囲碁甲級リーグ第13節 | Zhou Hexi | Wang Haoyang | Lose | B+R | 7.5 | 3343.0 | 4.0 | 
+| 2013-08-30 | 第15回中国囲碁甲級リーグ第12節 | Wang Haoyang | Yang Dingxin | Lose | W+R | 7.5 | 3339.0 | 82.0 | 
+| 2013-07-15 | 第15回中国囲碁甲級リーグ第11節 | Piao Wenyao | Wang Haoyang | Lose | B+R | 7.5 | 3257.0 | -24.0 | 
+| 2013-07-07 | 第15回中国囲碁甲級リーグ第10節 | Park Yeonghun | Wang Haoyang | Lose | B+1.5 | 7.5 | 3281.0 | -84.0 | 
+| 2013-06-22 | 第15回中国囲碁甲級リーグ第9節 | Meng Tailing | Wang Haoyang | Lose | B+R | 7.5 | 3365.0 | 44.0 | 
+| 2013-06-18 | 第15回中国囲碁甲級リーグ第8節 | Na Hyun | Wang Haoyang | Win | W+R | 7.5 | 3321.0 | 73.0 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Wang Haoyang | Ke Jie | Win | B+R | 7.5 | 3248.0 | 0.0 | 
+| 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Wang Haoyang | Li Jie | Lose | W+6.5 | 7.5 | 3248.0 | -18.0 | 
+| 2013-06-02 | 第15回中国囲碁甲級リーグ第7節 | Han Yizhou | Wang Haoyang | Win | W+R | 7.5 | 3266.0 | -87.0 | 
+| 2013-05-11 | 第15回中国囲碁甲級リーグ第5節 | Niu Yutian | Wang Haoyang | Lose | B+R | 7.5 | 3353.0 | -9.0 | 
+| 2013-05-09 | 第15回中国囲碁甲級リーグ第4節 | Wang Haoyang | Qiu Jun | Lose | W+R | 7.5 | 3362.0 | 43.0 | 
+| 2013-05-04 | 第15回中国囲碁甲級リーグ第3節 | Wang Haoyang | Mi Yuting | Lose | W+1.5 | 7.5 | 3319.0 | 41.0 | 
+| 2013-04-23 | 第18回LG杯予選 | Lee Changho | Wang Haoyang | Lose | B+R | 6.5 | 3278.0 | -200.0 | 
+| 2013-04-10 | 第26期中国囲碁名人戦予選 | Wang Haoyang | Hu Yaoyu | Lose | W+R | 7.5 | 3478.0 | 34.0 | 
+| 2013-04-07 | 第15回中国囲碁甲級リーグ第2節 | Wang Haoyang | Kim Jiseok | Win | B+R | 7.5 | 3444.0 | 6.0 | 
+| 2013-04-05 | 第15回中国囲碁甲級リーグ第1節 | Wang Haoyang | Li Xuanhao | Lose | W+R | 7.5 | 3438.0 | -96.0 | 
+| 2013-03-14 | 2013CCTV杯中国囲棋電視快棋戦3回戦 | Wang Haoyang | Dang Yifei | Lose | W+R | 7.5 | 3534.0 | 14.0 | 
+| 2013-03-13 | 2013CCTV杯中国囲棋電視快棋戦2回戦 | Wang Haoyang |  | Win | B+R | 7.5 | 3520.0 | 0.0 | 
+| 2013-03-13 | 2013CCTV杯中国囲棋電視快棋戦1回戦 | Wang Haoyang | Wang Yao | Win | B+R | 7.5 | 3520.0 | 50.0 | 
+| 2013-01-23 | 第27期中国囲碁天元戦予選 | Wang Haoyang | Gu Lingyi | Lose | W+R | 7.5 | 3470.0 | 8.0 | 
+| 2013-01-08 | 第13期リコー杯囲碁戦2回戦 | Wang Haoyang | Gu Li | Lose | W+R | 7.5 | 3462.0 | 6.0 | 
+| 2012-12-28 | 第13期リコー杯囲碁戦1回戦 | Li Xiangyu | Wang Haoyang | Win | W+R | 7.5 | 3456.0 | -5.0 | 
+| 2012-12-08 | 第14回中国囲碁甲級リーグ第22節 | Zhou Heyang | Wang Haoyang | Lose | B+5.5 | 7.5 | 3461.0 | 21.0 | 
+| 2012-12-01 | 第14回中国囲碁甲級リーグ第21節 | Wang Haoyang | Cho Hanseung | Win | B+R | 7.5 | 3440.0 | 23.0 | 
+| 2012-11-24 | 第14回中国囲碁甲級リーグ第20節 | Chen Yaoye | Wang Haoyang | Lose | B+R | 7.5 | 3417.0 | -61.0 | 
+| 2012-11-10 | 第14回中国囲碁甲級リーグ第19節 | Wu Guangya | Wang Haoyang | Lose | B+1.5 | 7.5 | 3478.0 | -26.0 | 
+| 2012-11-03 | 第14回中国囲碁甲級リーグ第18節 | Zhou Hexi | Wang Haoyang | Win | W+R | 7.5 | 3504.0 | 23.0 | 
+| 2012-10-21 | 第14回中国囲碁甲級リーグ第17節 | Wang Tao | Wang Haoyang | Lose | B+R | 7.5 | 3481.0 | -44.0 | 
+| 2012-10-18 | 第4期中国竜星戦2回戦 | Wang Haoyang | Wang Yao | Lose | W+R | 7.5 | 3525.0 | -22.0 | 
+| 2012-10-17 | 第4期中国竜星戦1回戦 | Wang Haoyang | An Dongxu | Win | B+R | 7.5 | 3547.0 | 20.0 | 
+| 2012-10-13 | 第8期威孚房開杯棋王戦予選 | Lian Xiao | Wang Haoyang | Lose | B+R | 7.5 | 3527.0 | 23.0 | 
+| 2012-09-30 | 第14回中国囲碁甲級リーグ第16節 | Wang Haoyang | Gu Zihao | Lose | W+R | 7.5 | 3504.0 | -5.0 | 
+| 2012-09-28 | 第14回中国囲碁甲級リーグ第15節 | Mi Yuting | Wang Haoyang | Lose | B+R | 7.5 | 3509.0 | 20.0 | 
+| 2012-09-17 | 2012年全国囲棋個人戦男子組第3戦 | Wang Haoyang | Gu Lingyi | Lose | W+R | 7.5 | 3489.0 | missing |
 
 
 

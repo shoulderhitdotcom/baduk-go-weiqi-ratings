@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-16 | 第18回倡棋杯台湾予選 | Xu Jingen | Bai Xinhui | Lose | B+R | 7.5 | 2697.0 | -12.0 | 
 | 2022-02-14 | 第3期名人冠軍戦予選 |  | Bai Xinhui | Lose | B+R | 6.5 | 2709.0 | 21.0 | 
 | 2022-02-10 | 第3期名人冠軍戦予選 | Chen Shiyuan | Bai Xinhui | Lose | B+R | 6.5 | 2688.0 | 31.0 | 
 | 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Bai Xinhui | Lin Xinwei | Lose | W+R | 6.5 | 2657.0 | 18.0 | 

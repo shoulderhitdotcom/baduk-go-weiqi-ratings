@@ -7,9 +7,9 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2020-11-21 | 2020年中国囲碁乙級リーグ | Iyama Yuta | Wang Haoyang | Win | W+R | 7.5 | 3488.0 | 43.0 | 
-| 2020-11-20 | 2020年中国囲碁乙級リーグ | Choi Cheolhan | Wang Haoyang | Win | W+R | 7.5 | 3445.0 | 78.0 | 
-| 2020-11-17 | 2020年中国囲碁乙級リーグ | Wang Haoyang | Park Sangjin | Lose | W+1¼ | 7.5 | 3367.0 | -250.0 | 
+| 2020-11-21 | 2020年中国囲碁乙級リーグ | Iyama Yuta | Wang Haoyang | Win | W+R | 7.5 | 3487.0 | 43.0 | 
+| 2020-11-20 | 2020年中国囲碁乙級リーグ | Choi Cheolhan | Wang Haoyang | Win | W+R | 7.5 | 3444.0 | 78.0 | 
+| 2020-11-17 | 2020年中国囲碁乙級リーグ | Wang Haoyang | Park Sangjin | Lose | W+1¼ | 7.5 | 3366.0 | -251.0 | 
 | 2020-01-04 | 第11期中国竜星戦Aブロック6回戦 | Wang Haoyang | Fan Yin | Lose | W+R | 7.5 | 3617.0 | -112.0 | 
 | 2019-12-24 | 第11期中国竜星戦Aブロック5回戦 | Yi Lingtao | Wang Haoyang | Win | W+R | 7.5 | 3729.0 | 43.0 | 
 | 2019-12-21 | 第11期中国竜星戦Aブロック4回戦 | Wu Guangya | Wang Haoyang | Win | W+R | 7.5 | 3686.0 | 106.0 | 
@@ -34,8 +34,8 @@
 | 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Wang Haoyang | Xia Chenkun | Win | B+R | 7.5 | 3313.0 | 64.0 | 
 | 2017-08-31 | 第19回中国囲碁甲級リーグ第15節 | Xie Ke | Wang Haoyang | Lose | B+R | 7.5 | 3249.0 | -12.0 | 
 | 2017-08-24 | 第3回Mlily夢百合杯16強戦 | Wang Haoyang | Park Yeonghun | Lose | W+R | 7.5 | 3261.0 | 45.0 | 
-| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Wang Haoyang | Huang Yunsong | Lose | W+2.5 | 7.5 | 3216.0 | -56.0 | 
-| 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Fan Tingyu | Wang Haoyang | Lose | B+3.5 | 7.5 | 3272.0 | -10.0 | 
+| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Wang Haoyang | Huang Yunsong | Lose | W+2.5 | 7.5 | 3216.0 | -55.0 | 
+| 2017-07-15 | 第19回中国囲碁甲級リーグ第9節 | Fan Tingyu | Wang Haoyang | Lose | B+3.5 | 7.5 | 3271.0 | -11.0 | 
 | 2017-06-30 | 第22回三星火災杯統合予選2回戦 | Kim Seungjun | Wang Haoyang | Win | W+R | 6.5 | 3282.0 | -48.0 | 
 | 2017-06-21 | 第3回夢百合杯世界オープン戦2回戦 | DeepZenGo | Wang Haoyang | Win | W+0.5 | 7.5 | 3330.0 | 51.0 | 
 | 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Wang Haoyang | Shin Jinseo | Win | B+R | 7.5 | 3279.0 | 57.0 | 
@@ -50,16 +50,16 @@
 | 2017-01-13 | 第31期中国囲碁天元戦予選 | Wang Haoyang | Yu Zhiying | Lose | W+2.5 | 7.5 | 3266.0 | -51.0 | 
 | 2016-12-30 | Alphago Online Series on Tygem and Fox 12 | Wang Haoyang |  | Lose | W+R | 6.5 | 3317.0 | 16.0 | 
 | 2016-12-18 | 嫘祖杯第29期中国名人戦網選4回戦 | Wang Haoyang | Yang Kaiwen | Lose | W+R | 7.5 | 3301.0 | -42.0 | 
-| 2016-12-17 | 嫘祖杯第29期中国名人戦網選3回戦 | Ma Yichao | Wang Haoyang | Win | W+0.5 | 7.5 | 3343.0 | -32.0 | 
-| 2016-10-24 | 第8期中国竜星戦予選 | Wang Haoyang | Hu Yuhan | Lose | W+R | 7.5 | 3375.0 | -73.0 | 
+| 2016-12-17 | 嫘祖杯第29期中国名人戦網選3回戦 | Ma Yichao | Wang Haoyang | Win | W+0.5 | 7.5 | 3343.0 | -31.0 | 
+| 2016-10-24 | 第8期中国竜星戦予選 | Wang Haoyang | Hu Yuhan | Lose | W+R | 7.5 | 3374.0 | -74.0 | 
 | 2016-07-20 | 第21回三星火災杯統合予選決勝 | Wang Haoyang | Tuo Jiaxi | Lose | W+R | 6.5 | 3448.0 | -29.0 | 
 | 2016-07-19 | 第21回三星火災杯統合予選準決勝 | Wang Haoyang | Ahn Kukhyun | Win | B+R | 6.5 | 3477.0 | 73.0 | 
 | 2016-06-25 | 2016年中国囲碁乙級リーグ |  | Wang Haoyang | Win | W+R | 7.5 | 3404.0 | 23.0 | 
 | 2016-06-24 | 2016年中国囲碁乙級リーグ | Wang Haoyang |  | Win | B+3.5 | 7.5 | 3381.0 | 39.0 | 
 | 2016-06-21 | 2016年中国囲碁乙級リーグ | Wang Haoyang | Fan Yunruo | Lose | W+R | 7.5 | 3342.0 | -21.0 | 
 | 2016-06-20 | 2016年中国囲碁乙級リーグ | Wang Haoyang |  | Lose | W+R | 7.5 | 3363.0 | -38.0 | 
-| 2016-06-18 | 2016年中国囲碁乙級リーグ | Zhu Yuanhao | Wang Haoyang | Win | W+0.5 | 7.5 | 3401.0 | 50.0 | 
-| 2016-06-01 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Shi Yue | Wang Haoyang | Lose | B+R | 7.5 | 3351.0 | -98.0 | 
+| 2016-06-18 | 2016年中国囲碁乙級リーグ | Zhu Yuanhao | Wang Haoyang | Win | W+0.5 | 7.5 | 3401.0 | 51.0 | 
+| 2016-06-01 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Shi Yue | Wang Haoyang | Lose | B+R | 7.5 | 3350.0 | -99.0 | 
 | 2016-05-01 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Liao Yuanhe | Wang Haoyang | Lose | B+1.5 | 7.5 | 3449.0 | -82.0 | 
 | 2016-01-17 | 第30期中国囲碁天元戦2回戦 | Wang Haoyang | Gu Li | Lose | W+R | 7.5 | 3531.0 | -42.0 | 
 | 2016-01-15 | 第30期中国囲碁天元戦1回戦 | Wang Haoyang | Li Qincheng | Win | B+1.5 | 7.5 | 3573.0 | -1.0 | 
@@ -71,17 +71,17 @@
 | 2015-05-17 | 2015年中国囲碁乙級リーグ | Chen Shiyuan | Wang Haoyang | Win | W+R | 7.5 | 3418.0 | -51.0 | 
 | 2015-05-03 | 第28期中国囲碁名人戦予選 | Wang Haoyang | Guo Yuzheng | Lose | W+R | 7.5 | 3469.0 | -26.0 | 
 | 2015-04-15 | 第20回LG杯予選 | Wang Haoyang | Shin Minjun | Win | B+3.5 | 6.5 | 3495.0 | 27.0 | 
-| 2015-01-20 | 第15期リコー杯囲碁戦2回戦 | Wang Haoyang | Ke Jie | Lose | W+0.5 | 7.5 | 3468.0 | -9.0 | 
-| 2014-12-31 | 第15期リコー杯囲碁戦1回戦 | Chang Hao | Wang Haoyang | Win | W+R | 7.5 | 3477.0 | 6.0 | 
+| 2015-01-20 | 第15期リコー杯囲碁戦2回戦 | Wang Haoyang | Ke Jie | Lose | W+0.5 | 7.5 | 3468.0 | -8.0 | 
+| 2014-12-31 | 第15期リコー杯囲碁戦1回戦 | Chang Hao | Wang Haoyang | Win | W+R | 7.5 | 3476.0 | 5.0 | 
 | 2014-11-25 | 第16回中国囲碁甲級リーグ第22節 | Li Zhe | Wang Haoyang | Win | W+R | 7.5 | 3471.0 | 40.0 | 
-| 2014-11-22 | 第16回中国囲碁甲級リーグ第21節 | Wang Haoyang | Kong Jie | Win | B+R | 7.5 | 3431.0 | 39.0 | 
-| 2014-11-11 | 第16回中国囲碁甲級リーグ第20節 | Dang Yifei | Wang Haoyang | Win | W+R | 7.5 | 3392.0 | 29.0 | 
-| 2014-11-09 | 第16回中国囲碁甲級リーグ第19節 | Zhao Chenyu | Wang Haoyang | Win | W+R | 7.5 | 3363.0 | 7.0 | 
-| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Wang Haoyang | Fan Tingyu | Lose | W+R | 7.5 | 3356.0 | -25.0 | 
+| 2014-11-22 | 第16回中国囲碁甲級リーグ第21節 | Wang Haoyang | Kong Jie | Win | B+R | 7.5 | 3431.0 | 40.0 | 
+| 2014-11-11 | 第16回中国囲碁甲級リーグ第20節 | Dang Yifei | Wang Haoyang | Win | W+R | 7.5 | 3391.0 | 28.0 | 
+| 2014-11-09 | 第16回中国囲碁甲級リーグ第19節 | Zhao Chenyu | Wang Haoyang | Win | W+R | 7.5 | 3363.0 | 8.0 | 
+| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Wang Haoyang | Fan Tingyu | Lose | W+R | 7.5 | 3355.0 | -26.0 | 
 | 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Huang Yunsong | Wang Haoyang | Lose | B+R | 7.5 | 3381.0 | 70.0 | 
-| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Wang Haoyang | Na Hyun | Lose | W+R | 7.5 | 3311.0 | -37.0 | 
-| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Li Xuanhao | Wang Haoyang | Win | W+R | 7.5 | 3348.0 | 7.0 | 
-| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Wang Haoyang | Lee Sedol | Lose | W+6.5 | 7.5 | 3341.0 | -12.0 | 
+| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Wang Haoyang | Na Hyun | Lose | W+R | 7.5 | 3311.0 | -36.0 | 
+| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Li Xuanhao | Wang Haoyang | Win | W+R | 7.5 | 3347.0 | 7.0 | 
+| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Wang Haoyang | Lee Sedol | Lose | W+6.5 | 7.5 | 3340.0 | -13.0 | 
 | 2014-08-04 | 第19回三星火災杯統合予選3回戦 | Han Seungjoo | Wang Haoyang | Lose | B+R | 6.5 | 3353.0 | -71.0 | 
 | 2014-07-05 | 第16回中国囲碁甲級リーグ第10節 | Zhong Wenjing | Wang Haoyang | Lose | B+R | 7.5 | 3424.0 | 39.0 | 
 | 2014-06-22 | 第16回中国囲碁甲級リーグ第8節 | Wang Haoyang | Park Junghwan | Lose | W+R | 7.5 | 3385.0 | 6.0 | 
@@ -97,10 +97,10 @@
 | 2014-05-06 | 2014CCTV杯中国囲棋電視快棋戦4回戦 | Wang Haoyang | Tang Weixing | Win | B+R | 7.5 | 3526.0 | 0.0 | 
 | 2014-05-06 | 2014CCTV杯中国囲棋電視快棋戦3回戦 | Lian Xiao | Wang Haoyang | Win | W+R | 7.5 | 3526.0 | 43.0 | 
 | 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦2回戦 | Tao Xin | Wang Haoyang | Win | W+R | 7.5 | 3483.0 | 0.0 | 
-| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Wang Haoyang | Wang Xi | Win | B+R | 7.5 | 3483.0 | 87.0 | 
-| 2014-04-03 | 第5回衢州・爛柯杯中国囲棋冠軍戦予選 | Guo Yuzheng | Wang Haoyang | Win | W+R | 7.5 | 3396.0 | 20.0 | 
-| 2014-04-02 | 第27期中国囲碁名人戦予選 | Wang Haoyang |  | Lose | W+R | 7.5 | 3376.0 | -13.0 | 
-| 2014-04-01 | 第27期中国囲碁名人戦予選 |  | Wang Haoyang | Win | W+R | 7.5 | 3389.0 | -23.0 | 
+| 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Wang Haoyang | Wang Xi | Win | B+R | 7.5 | 3483.0 | 88.0 | 
+| 2014-04-03 | 第5回衢州・爛柯杯中国囲棋冠軍戦予選 | Guo Yuzheng | Wang Haoyang | Win | W+R | 7.5 | 3395.0 | 20.0 | 
+| 2014-04-02 | 第27期中国囲碁名人戦予選 | Wang Haoyang |  | Lose | W+R | 7.5 | 3375.0 | -13.0 | 
+| 2014-04-01 | 第27期中国囲碁名人戦予選 |  | Wang Haoyang | Win | W+R | 7.5 | 3388.0 | -24.0 | 
 | 2013-11-28 | 第15回中国囲碁甲級リーグ第22節 | Piao Wenyao | Wang Haoyang | Lose | B+R | 7.5 | 3412.0 | -13.0 | 
 | 2013-11-23 | 第15回中国囲碁甲級リーグ第21節 | Wang Haoyang | Wang Lei (s) | Lose | W+R | 7.5 | 3425.0 | -17.0 | 
 | 2013-11-16 | 第15回中国囲碁甲級リーグ第20節 | Peng Quan | Wang Haoyang | Lose | B+1.5 | 7.5 | 3442.0 | 9.0 | 
@@ -126,8 +126,8 @@
 | 2013-04-05 | 第15回中国囲碁甲級リーグ第1節 | Wang Haoyang | Li Xuanhao | Lose | W+R | 7.5 | 3438.0 | -96.0 | 
 | 2013-03-14 | 2013CCTV杯中国囲棋電視快棋戦3回戦 | Wang Haoyang | Dang Yifei | Lose | W+R | 7.5 | 3534.0 | 14.0 | 
 | 2013-03-13 | 2013CCTV杯中国囲棋電視快棋戦2回戦 | Wang Haoyang |  | Win | B+R | 7.5 | 3520.0 | 0.0 | 
-| 2013-03-13 | 2013CCTV杯中国囲棋電視快棋戦1回戦 | Wang Haoyang | Wang Yao | Win | B+R | 7.5 | 3520.0 | 50.0 | 
-| 2013-01-23 | 第27期中国囲碁天元戦予選 | Wang Haoyang | Gu Lingyi | Lose | W+R | 7.5 | 3470.0 | 8.0 | 
+| 2013-03-13 | 2013CCTV杯中国囲棋電視快棋戦1回戦 | Wang Haoyang | Wang Yao | Win | B+R | 7.5 | 3520.0 | 51.0 | 
+| 2013-01-23 | 第27期中国囲碁天元戦予選 | Wang Haoyang | Gu Lingyi | Lose | W+R | 7.5 | 3469.0 | 7.0 | 
 | 2013-01-08 | 第13期リコー杯囲碁戦2回戦 | Wang Haoyang | Gu Li | Lose | W+R | 7.5 | 3462.0 | 6.0 | 
 | 2012-12-28 | 第13期リコー杯囲碁戦1回戦 | Li Xiangyu | Wang Haoyang | Win | W+R | 7.5 | 3456.0 | -5.0 | 
 | 2012-12-08 | 第14回中国囲碁甲級リーグ第22節 | Zhou Heyang | Wang Haoyang | Lose | B+5.5 | 7.5 | 3461.0 | 21.0 | 

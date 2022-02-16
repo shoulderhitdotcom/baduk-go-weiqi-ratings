@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-16 | 第18回倡棋杯台湾予選 | Lin Yuting |  | Lose | W+R | 7.5 | 2389.0 | -9.0 | 
 | 2022-02-14 | 第3期名人冠軍戦予選 | Cai Chengwei | Lin Yuting | Win | W+R | 6.5 | 2398.0 | 98.0 | 
 | 2022-02-10 | 第3期名人冠軍戦予選 |  | Lin Yuting | Lose | B+R | 6.5 | 2300.0 | 0.0 | 
 | 2022-02-10 | 第3期名人冠軍戦予選 | Lin Yuting |  | Lose | W+R | 6.5 | 2300.0 | -15.0 | 

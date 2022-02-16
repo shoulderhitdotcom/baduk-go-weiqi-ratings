@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-16 | 第18回倡棋杯台湾予選 | Cai Chengwei | Huang Shiyuan | Lose | B+R | 7.5 | 2788.0 | -19.0 | 
 | 2022-02-14 | 第3期名人冠軍戦予選 | Xu Jingen | Huang Shiyuan | Lose | B+R | 6.5 | 2807.0 | 18.0 | 
 | 2022-02-10 | 第3期名人冠軍戦予選 |  | Huang Shiyuan | Win | W+R | 6.5 | 2789.0 | -6.0 | 
 | 2022-01-25 | 第21期天元戦（台湾）敗部2回戦 | Huang Shiyuan | Yang Bowei | Lose | W+R | 6.5 | 2795.0 | -39.0 | 
@@ -45,9 +46,9 @@
 | 2021-03-29 | 第11期友士杯十段戦予選 | Huang Shiyuan | Zhou Yinnan | Lose | W+R | 6.5 | 2621.0 | 0.0 | 
 | 2021-03-29 | 第11期友士杯十段戦予選 | Huang Shiyuan | Liu Jianchang | Win | B+R | 6.5 | 2621.0 | -4.0 | 
 | 2021-03-19 | 第17期国手戦（台湾） | Lin Yuxiang | Huang Shiyuan | Lose | B+4.5 | 6.5 | 2625.0 | -19.0 | 
-| 2021-03-04 | 第2期名人冠軍戦予選 | Lin Jiehan | Huang Shiyuan | Lose | B+R | 6.5 | 2644.0 | -37.0 | 
-| 2021-02-25 | 第2期名人冠軍戦予選 |  | Huang Shiyuan | Win | W+R | 6.5 | 2681.0 | 7.0 | 
-| 2021-02-22 | 第2期名人冠軍戦予選 | Huang Shiyuan | Lin Jiehan | Lose | W+R | 6.5 | 2674.0 | 53.0 | 
+| 2021-03-04 | 第2期名人冠軍戦予選 | Lin Jiehan | Huang Shiyuan | Lose | B+R | 6.5 | 2644.0 | -36.0 | 
+| 2021-02-25 | 第2期名人冠軍戦予選 |  | Huang Shiyuan | Win | W+R | 6.5 | 2680.0 | 7.0 | 
+| 2021-02-22 | 第2期名人冠軍戦予選 | Huang Shiyuan | Lin Jiehan | Lose | W+R | 6.5 | 2673.0 | 52.0 | 
 | 2021-01-26 | 第20期天元戦（台湾）敗部2回戦 | Chen Shiyuan | Huang Shiyuan | Lose | B+R | 6.5 | 2621.0 | -13.0 | 
 | 2021-01-22 | 第20期天元戦（台湾）敗部1回戦 | Huang Shiyuan |  | Win | B+R | 6.5 | 2634.0 | 33.0 | 
 | 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Li Wei | Huang Shiyuan | Lose | B+R | 6.5 | 2601.0 | -9.0 | 
@@ -57,13 +58,13 @@
 | 2020-12-22 | 2020年台湾新鋭隊vs韓国国家隊交流戦第6戦 |  | Huang Shiyuan | Win | W+6.5 | 6.5 | 2605.0 | 0.0 | 
 | 2020-12-22 | 2020年台湾新鋭隊vs韓国国家隊交流戦第5戦 | Huang Shiyuan | Han Woojin | Lose | W+R | 6.5 | 2605.0 | 63.0 | 
 | 2020-12-15 | 2020年台湾新鋭隊vs韓国国家隊交流戦第2戦 | Huang Shiyuan |  | Win | B+R | 6.5 | 2542.0 | 0.0 | 
-| 2020-12-15 | 2020年台湾新鋭隊vs韓国国家隊交流戦第1戦 | Huang Shiyuan |  | Lose | W+R | 6.5 | 2542.0 | -157.0 | 
-| 2020-10-14 | 第1回UMC聯電杯早碁争覇戦1回戦 | Huang Shiyuan | Lin Jiehan | Lose | W+R | 6.5 | 2699.0 | -44.0 | 
-| 2020-09-28 | 第13期棋王戦（台湾）予選 | Lin Shimin | Huang Shiyuan | Lose | B+R | 6.5 | 2743.0 | -2.0 | 
-| 2020-09-24 | 第13期棋王戦（台湾）予選 | Huang Shiyuan | Zhang Zhehao | Lose | W+R | 6.5 | 2745.0 | -10.0 | 
-| 2020-09-15 | 第16期国手戦（台湾）1回戦 | Yang Mengyun | Huang Shiyuan | Lose | B+R | 6.5 | 2755.0 | -11.0 | 
-| 2020-09-14 | 第13期棋王戦（台湾）予選 | Dang Xiyun | Huang Shiyuan | Win | W+R | 6.5 | 2766.0 | 1.0 | 
-| 2020-09-13 | 第8期中環碁聖戦2回戦 | Huang Shiyuan | Lu Yiquan | Lose | W+R | 6.5 | 2765.0 | -4.0 | 
+| 2020-12-15 | 2020年台湾新鋭隊vs韓国国家隊交流戦第1戦 | Huang Shiyuan |  | Lose | W+R | 6.5 | 2542.0 | -156.0 | 
+| 2020-10-14 | 第1回UMC聯電杯早碁争覇戦1回戦 | Huang Shiyuan | Lin Jiehan | Lose | W+R | 6.5 | 2698.0 | -44.0 | 
+| 2020-09-28 | 第13期棋王戦（台湾）予選 | Lin Shimin | Huang Shiyuan | Lose | B+R | 6.5 | 2742.0 | -2.0 | 
+| 2020-09-24 | 第13期棋王戦（台湾）予選 | Huang Shiyuan | Zhang Zhehao | Lose | W+R | 6.5 | 2744.0 | -10.0 | 
+| 2020-09-15 | 第16期国手戦（台湾）1回戦 | Yang Mengyun | Huang Shiyuan | Lose | B+R | 6.5 | 2754.0 | -11.0 | 
+| 2020-09-14 | 第13期棋王戦（台湾）予選 | Dang Xiyun | Huang Shiyuan | Win | W+R | 6.5 | 2765.0 | 1.0 | 
+| 2020-09-13 | 第8期中環碁聖戦2回戦 | Huang Shiyuan | Lu Yiquan | Lose | W+R | 6.5 | 2764.0 | -5.0 | 
 | 2020-09-06 | 第8期中環碁聖戦1回戦 | Zhou Pingqiang | Huang Shiyuan | Win | W+4.5 | 6.5 | 2769.0 | 5.0 | 
 | 2020-09-03 | 第13期棋王戦（台湾）予選 | Liu Yifang | Huang Shiyuan | Win | W+R | 6.5 | 2764.0 | 0.0 | 
 | 2020-08-27 | 第25回三星火災杯台湾代表選抜戦 | Lin Yuting | Huang Shiyuan | Win | W+R | 6.5 | 2764.0 | 0.0 | 
@@ -71,19 +72,19 @@
 | 2020-07-16 | 第1期名人冠軍戦1回戦 | Huang Shiyuan | Lin Junyan | Lose | W+R | 6.5 | 2867.0 | 15.0 | 
 | 2020-06-15 | 2020新人王戦（台湾）リーグB | Lin Shimin | Huang Shiyuan | Lose | B+R | 7.5 | 2852.0 | 0.0 | 
 | 2020-06-11 | 2020新人王戦（台湾）リーグB | Huang Shiyuan | Li Wei | Lose | W+R | 7.5 | 2852.0 | 0.0 | 
-| 2020-06-11 | 2020新人王戦（台湾）リーグB | Lin Shixun | Huang Shiyuan | Win | W+¼ | 7.5 | 2852.0 | 4.0 | 
-| 2020-06-08 | 2020新人王戦（台湾）リーグB | Huang Shiyuan | Lai Junfu | Lose | W+R | 7.5 | 2848.0 | 0.0 | 
-| 2020-06-08 | 2020新人王戦（台湾）リーグB | Yu Lijun | Huang Shiyuan | Win | W+R | 7.5 | 2848.0 | 10.0 | 
+| 2020-06-11 | 2020新人王戦（台湾）リーグB | Lin Shixun | Huang Shiyuan | Win | W+¼ | 7.5 | 2852.0 | 5.0 | 
+| 2020-06-08 | 2020新人王戦（台湾）リーグB | Huang Shiyuan | Lai Junfu | Lose | W+R | 7.5 | 2847.0 | 0.0 | 
+| 2020-06-08 | 2020新人王戦（台湾）リーグB | Yu Lijun | Huang Shiyuan | Win | W+R | 7.5 | 2847.0 | 9.0 | 
 | 2020-06-04 | 2020新人王戦（台湾）リーグB |  | Huang Shiyuan | Win | W+R | 7.5 | 2838.0 | 0.0 | 
 | 2020-06-04 | 2020新人王戦（台湾）リーグB | Huang Shiyuan | Yang Zixuan | Win | B+T | 7.5 | 2838.0 | 2.0 | 
 | 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Lin Shixun | Huang Shiyuan | Lose | B+2.5 | 6.5 | 2836.0 | 10.0 | 
 | 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Dai Jiashen | Huang Shiyuan | Win | W+R | 6.5 | 2826.0 | 24.0 | 
 | 2020-05-15 | 第1期聯電杯プロ囲碁戦予選 | Huang Shiyuan | Lin Xiuping | Win | B+R | 6.5 | 2802.0 | -4.0 | 
 | 2020-03-23 | 第10期友士杯十段戦予選敗部決勝 | Cai Chengwei | Huang Shiyuan | Lose | B+R | 6.5 | 2806.0 | 0.0 | 
-| 2020-03-23 | 第10期友士杯十段戦予選敗部4回戦 | Huang Shiyuan |  | Win | B+R | 6.5 | 2806.0 | -10.0 | 
-| 2020-03-19 | 第10期友士杯十段戦予選敗部4回戦 | Huang Shiyuan |  | Win | B+R | 6.5 | 2816.0 | 0.0 | 
-| 2020-03-19 | 第10期友士杯十段戦予選敗部3回戦 | Huang Shiyuan | Ding Shaojie | Win | B+R | 6.5 | 2816.0 | 3.0 | 
-| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Lin Jiehan | Huang Shiyuan | Lose | B+R | 7.5 | 2813.0 | -8.0 | 
+| 2020-03-23 | 第10期友士杯十段戦予選敗部4回戦 | Huang Shiyuan |  | Win | B+R | 6.5 | 2806.0 | -9.0 | 
+| 2020-03-19 | 第10期友士杯十段戦予選敗部4回戦 | Huang Shiyuan |  | Win | B+R | 6.5 | 2815.0 | 0.0 | 
+| 2020-03-19 | 第10期友士杯十段戦予選敗部3回戦 | Huang Shiyuan | Ding Shaojie | Win | B+R | 6.5 | 2815.0 | 3.0 | 
+| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Lin Jiehan | Huang Shiyuan | Lose | B+R | 7.5 | 2812.0 | -9.0 | 
 | 2020-03-12 | 第10期友士杯十段戦予選敗部1回戦 | Huang Shiyuan |  | Win | B+R | 6.5 | 2821.0 | 0.0 | 
 | 2020-03-12 | 第10期友士杯十段戦予選勝部1回戦 | Huang Shiyuan | Chen Shiyuan | Lose | W+R | 6.5 | 2821.0 | 6.0 | 
 | 2020-03-01 | 第7回グロービス杯台湾予選 | Huang Shiyuan | Lai Junfu | Lose | W+R | 6.5 | 2815.0 | 0.0 | 
@@ -95,12 +96,12 @@
 | 2020-02-13 | 第1期名人冠軍戦予選勝部決勝 | Huang Shiyuan | Bai Xinhui | Win | B+R | 6.5 | 2863.0 | -1.0 | 
 | 2020-02-06 | 第1期名人冠軍戦予選勝部1回戦 | Lin Jiehan | Huang Shiyuan | Win | W+R | 6.5 | 2864.0 | 14.0 | 
 | 2020-02-05 | 第17期倡棋杯台湾代表選抜戦 | Huang Shiyuan | Xu Haohong | Lose | W+R | 7.5 | 2850.0 | -3.0 | 
-| 2020-02-04 | 第19期天元戦（台湾）予選 | Huang Shiyuan | Chen Xi | Lose | W+2.5 | 6.5 | 2853.0 | -52.0 | 
-| 2020-01-22 | 第17期倡棋杯台湾代表選抜戦 | Huang Shiyuan |  | Win | B+1 | 7.5 | 2905.0 | 0.0 | 
-| 2020-01-22 | 第17期倡棋杯台湾代表選抜戦 | Li Wei | Huang Shiyuan | Win | W+R | 7.5 | 2905.0 | 26.0 | 
-| 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第6戦 | Huang Shiyuan | Chang Rueijie | Win | B+R | 6.5 | 2879.0 | 18.0 | 
-| 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第3戦 | Huang Shiyuan | Seki Kotaro | Lose | W+R | 6.5 | 2861.0 | -15.0 | 
-| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第1戦 |  | Huang Shiyuan | Lose | B+R | 6.5 | 2876.0 | -46.0 | 
+| 2020-02-04 | 第19期天元戦（台湾）予選 | Huang Shiyuan | Chen Xi | Lose | W+2.5 | 6.5 | 2853.0 | -51.0 | 
+| 2020-01-22 | 第17期倡棋杯台湾代表選抜戦 | Huang Shiyuan |  | Win | B+1 | 7.5 | 2904.0 | 0.0 | 
+| 2020-01-22 | 第17期倡棋杯台湾代表選抜戦 | Li Wei | Huang Shiyuan | Win | W+R | 7.5 | 2904.0 | 26.0 | 
+| 2020-01-21 | 2020台湾精鋭vs日本精鋭交流戦第6戦 | Huang Shiyuan | Chang Rueijie | Win | B+R | 6.5 | 2878.0 | 18.0 | 
+| 2020-01-20 | 2020台湾精鋭vs日本精鋭交流戦第3戦 | Huang Shiyuan | Seki Kotaro | Lose | W+R | 6.5 | 2860.0 | -15.0 | 
+| 2020-01-18 | 2020台湾精鋭vs日本精鋭交流戦第1戦 |  | Huang Shiyuan | Lose | B+R | 6.5 | 2875.0 | -47.0 | 
 | 2020-01-14 | 第19期天元戦（台湾）予選 | Lin Jiehan | Huang Shiyuan | Win | W+R | 6.5 | 2922.0 | 33.0 | 
 | 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Huang Shiyuan | Lai Junfu | Lose | W+R | 7.5 | 2889.0 | 0.0 | 
 | 2020-01-03 | 第9回応氏杯世界選手権台湾代表選抜戦 | Huang Shiyuan |  | Win | B+R | 7.5 | 2889.0 | -30.0 | 
@@ -132,8 +133,8 @@
 | 2019-02-27 | 第6回グロービス杯台湾予選 | Huang Shiyuan | Jian Jingting | Lose | W+R | 6.5 | 2959.0 | 1.0 | 
 | 2019-02-25 | 第6回グロービス杯台湾予選 | Huang Shiyuan | Xu Jingen | Win | B+1.5 | 6.5 | 2958.0 | 14.0 | 
 | 2019-02-19 | 第18期天元戦（台湾）敗部1回戦 | Huang Shiyuan |  | Win | B+R | 6.5 | 2944.0 | 22.0 | 
-| 2019-02-12 | 第18期天元戦（台湾）勝部1回戦 | Chen Shiyuan | Huang Shiyuan | Lose | B+R | 6.5 | 2922.0 | -54.0 | 
-| 2019-01-25 | 第18期天元戦（台湾）予選3回戦補戦 | Huang Shiyuan | Wei Haoting | Win | B+R | 6.5 | 2976.0 | 39.0 | 
+| 2019-02-12 | 第18期天元戦（台湾）勝部1回戦 | Chen Shiyuan | Huang Shiyuan | Lose | B+R | 6.5 | 2922.0 | -53.0 | 
+| 2019-01-25 | 第18期天元戦（台湾）予選3回戦補戦 | Huang Shiyuan | Wei Haoting | Win | B+R | 6.5 | 2975.0 | 38.0 | 
 | 2019-01-18 | 2019台湾精鋭vs日本精鋭交流戦第2戦 | Otake Yu | Huang Shiyuan | Win | W+1.5 | 6.5 | 2937.0 | 0.0 | 
 | 2019-01-18 | 2019台湾精鋭vs日本精鋭交流戦第1戦 | Huang Shiyuan | Chang Rueijie | Lose | W+R | 6.5 | 2937.0 | 18.0 | 
 | 2019-01-16 | 第18期天元戦（台湾）予選 | Xia Daming | Huang Shiyuan | Win | W+R | 6.5 | 2919.0 | 46.0 | 
@@ -144,8 +145,8 @@
 | 2018-11-23 | 2018年新人王戦（台湾）リーグA |  | Huang Shiyuan | Lose | B+R | 7.5 | 2879.0 | -49.0 | 
 | 2018-11-22 | 2018年新人王戦（台湾）リーグA | Huang Shiyuan | Xu Yuqi | Lose | W+R | 7.5 | 2928.0 | 0.0 | 
 | 2018-11-22 | 2018年新人王戦（台湾）リーグA | Huang Shiyuan | Jian Jingting | Lose | W+R | 7.5 | 2928.0 | -21.0 | 
-| 2018-11-14 | 2018年台湾精鋭vs韓国交流戦第5戦 | Park Sangjin | Huang Shiyuan | Lose | B+R | 6.5 | 2949.0 | -2.0 | 
-| 2018-11-12 | 2018年台湾精鋭vs韓国交流戦第2戦 | Huang Shiyuan | Park Hyunsoo | Lose | W+R | 6.5 | 2951.0 | -24.0 | 
+| 2018-11-14 | 2018年台湾精鋭vs韓国交流戦第5戦 | Park Sangjin | Huang Shiyuan | Lose | B+R | 6.5 | 2949.0 | -1.0 | 
+| 2018-11-12 | 2018年台湾精鋭vs韓国交流戦第2戦 | Huang Shiyuan | Park Hyunsoo | Lose | W+R | 6.5 | 2950.0 | -25.0 | 
 | 2018-10-31 | 2018年新人王戦（台湾）予選勝部決勝 | Lin Shimin | Huang Shiyuan | Win | W+R | 7.5 | 2975.0 | 0.0 | 
 | 2018-10-31 | 2018年新人王戦（台湾）予選勝部1回戦 |  | Huang Shiyuan | Win | W+R | 7.5 | 2975.0 | 50.0 | 
 | 2018-10-24 | 第1回IWMC台湾代表男子選抜戦予選1回戦 | Huang Shiyuan | Lu Yiquan | Lose | W+R | 7.5 | 2925.0 | -45.0 | 
@@ -200,9 +201,9 @@
 | 2016-05-18 | 第6期友士杯十段戦予選 | Huang Shiyuan |  | Win | B+10.5 | 6.5 | 3100.0 | 0.0 | 
 | 2016-05-18 | 第6期友士杯十段戦予選 | Huang Shiyuan | Zhou Pingqiang | Win | B+1.5 | 6.5 | 3100.0 | 112.0 | 
 | 2016-03-21 | 第8回海峰杯プロ囲碁戦32強戦 | Lin Junyan | Huang Shiyuan | Lose | B+R | 6.5 | 2988.0 | -101.0 | 
-| 2016-03-07 | 第8回海峰杯プロ囲碁戦64強戦 | Zhou Keping | Huang Shiyuan | Win | W+R | 6.5 | 3089.0 | 190.0 | 
-| 2016-01-07 | 第3回グロービス杯台湾予選 | Lin Shixun | Huang Shiyuan | Lose | B+R | 6.5 | 2899.0 | 0.0 | 
-| 2016-01-07 | 第3回グロービス杯台湾予選 | Lin Junyan | Huang Shiyuan | Win | W+0.5 | 6.5 | 2899.0 | 95.0 | 
+| 2016-03-07 | 第8回海峰杯プロ囲碁戦64強戦 | Zhou Keping | Huang Shiyuan | Win | W+R | 6.5 | 3089.0 | 191.0 | 
+| 2016-01-07 | 第3回グロービス杯台湾予選 | Lin Shixun | Huang Shiyuan | Lose | B+R | 6.5 | 2898.0 | 0.0 | 
+| 2016-01-07 | 第3回グロービス杯台湾予選 | Lin Junyan | Huang Shiyuan | Win | W+0.5 | 6.5 | 2898.0 | 94.0 | 
 | 2015-03-02 | 第7回海峰杯プロ囲碁戦64強決定戦 |  | Huang Shiyuan | Lose | B+R | 6.5 | 2804.0 | -37.0 | 
 | 2015-02-12 | 2015年日台精鋭交流戦第4戦 | Numadate Sakiya | Huang Shiyuan | Lose | B+R | 6.5 | 2841.0 | 0.0 | 
 | 2015-02-12 | 2015年日台精鋭交流戦第3戦 | Huang Shiyuan | Onishi Kenya | Win | B+6.5 | 6.5 | 2841.0 | missing |

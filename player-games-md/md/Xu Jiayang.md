@@ -7,22 +7,23 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Lee Donghoon | Xu Jiayang | Lose | B+R | 7.5 | 3566.0 | -10.0 | 
-| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Jin Yucheng | Lose | W+R | 7.5 | 3576.0 | -26.0 | 
-| 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Xu Jiayang | Zhao Chenyu | Lose | W+R | 7.5 | 3602.0 | -40.0 | 
-| 2021-12-11 | 第7回国手山脈世界プロ最強戦準決勝 | Xu Jiayang | Shin Jinseo | Lose | W+R | 6.5 | 3642.0 | 4.0 | 
-| 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦  | Xu Haohong | Xu Jiayang | Win | W+R | 6.5 | 3638.0 | 0.0 | 
-| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Weon Seongjin | Xu Jiayang | Win | W+R | 6.5 | 3638.0 | 52.0 | 
+| 2022-02-16 | 第36期中国囲碁天元戦1回戦 | Xu Jiayang | Shi Yue | Lose | W+R | 7.5 | 3513.0 | -52.0 | 
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Lee Donghoon | Xu Jiayang | Lose | B+R | 7.5 | 3565.0 | -10.0 | 
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Xu Jiayang | Jin Yucheng | Lose | W+R | 7.5 | 3575.0 | -26.0 | 
+| 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Xu Jiayang | Zhao Chenyu | Lose | W+R | 7.5 | 3601.0 | -40.0 | 
+| 2021-12-11 | 第7回国手山脈世界プロ最強戦準決勝 | Xu Jiayang | Shin Jinseo | Lose | W+R | 6.5 | 3641.0 | 4.0 | 
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦  | Xu Haohong | Xu Jiayang | Win | W+R | 6.5 | 3637.0 | 0.0 | 
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Weon Seongjin | Xu Jiayang | Win | W+R | 6.5 | 3637.0 | 51.0 | 
 | 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Xu Jiayang | Gu Zihao | Lose | W+R | 7.5 | 3586.0 | -5.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Zhao Chenyu | Xu Jiayang | Win | W+R | 7.5 | 3591.0 | -1.0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Xu Jiayang | Shin Jinseo | Lose | W+R | 7.5 | 3592.0 | -10.0 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Dang Yifei | Xu Jiayang | Win | W+R | 7.5 | 3602.0 | 6.0 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Xu Haohong | Xu Jiayang | Win | W+R | 7.5 | 3596.0 | 18.0 | 
-| 2021-09-17 | 第12期中国竜星戦Bブロック7回戦 | Huang Yunsong | Xu Jiayang | Lose | B+¾ | 7.5 | 3578.0 | -7.0 | 
-| 2021-08-27 | 第26回三星火災杯中国予選 | Lian Xiao | Xu Jiayang | Lose | B+R | 6.5 | 3585.0 | 9.0 | 
-| 2021-08-13 | 第26回三星火災杯中国予選 | Chen Zijian | Xu Jiayang | Win | W+R | 6.5 | 3576.0 | 23.0 | 
-| 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Xu Jiayang | Yang Kaiwen | Lose | W+R | 7.5 | 3553.0 | -18.0 | 
-| 2021-07-28 | 第23回農心杯中国予選 | Xu Jiayang | Fan Tingyu | Lose | W+R | 6.5 | 3571.0 | 11.0 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Xu Haohong | Xu Jiayang | Win | W+R | 7.5 | 3596.0 | 19.0 | 
+| 2021-09-17 | 第12期中国竜星戦Bブロック7回戦 | Huang Yunsong | Xu Jiayang | Lose | B+¾ | 7.5 | 3577.0 | -7.0 | 
+| 2021-08-27 | 第26回三星火災杯中国予選 | Lian Xiao | Xu Jiayang | Lose | B+R | 6.5 | 3584.0 | 8.0 | 
+| 2021-08-13 | 第26回三星火災杯中国予選 | Chen Zijian | Xu Jiayang | Win | W+R | 6.5 | 3576.0 | 24.0 | 
+| 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Xu Jiayang | Yang Kaiwen | Lose | W+R | 7.5 | 3552.0 | -18.0 | 
+| 2021-07-28 | 第23回農心杯中国予選 | Xu Jiayang | Fan Tingyu | Lose | W+R | 6.5 | 3570.0 | 10.0 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Wang Zejin | Xu Jiayang | Win | W+R | 7.5 | 3560.0 | 12.0 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Shi Yue | Xu Jiayang | Win | W+R | 7.5 | 3548.0 | 20.0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Jin Yucheng | Xu Jiayang | Win | W+R | 7.5 | 3528.0 | 1.0 | 
@@ -96,16 +97,16 @@
 | 2019-07-26 | 嫘祖杯第32期中国囲棋名人戦挑戦者決定戦 | Jiang Weijie | Xu Jiayang | Win | W+R | 7.5 | 3645.0 | 10.0 | 
 | 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Yao Xiaotong | Xu Jiayang | Win | W+2¼ | 7.5 | 3635.0 | -3.0 | 
 | 2019-07-20 | 第21回中国囲碁甲級リーグ第9節 | Xu Jiayang | Fan Yin | Lose | W+R | 7.5 | 3638.0 | -24.0 | 
-| 2019-06-21 | 第31回テレビアジア選手権1回戦 | Shin Jinseo | Xu Jiayang | Lose | B+R | 7.5 | 3662.0 | -8.0 | 
-| 2019-06-19 | 嫘祖杯第32期中国囲棋名人戦準決勝 | Fan Tingyu | Xu Jiayang | Win | W+R | 7.5 | 3670.0 | 3.0 | 
-| 2019-06-17 | 嫘祖杯第32期中国囲棋名人戦8強戦 | Xu Jiayang | Lian Xiao | Win | B+R | 7.5 | 3667.0 | 4.0 | 
+| 2019-06-21 | 第31回テレビアジア選手権1回戦 | Shin Jinseo | Xu Jiayang | Lose | B+R | 7.5 | 3662.0 | -9.0 | 
+| 2019-06-19 | 嫘祖杯第32期中国囲棋名人戦準決勝 | Fan Tingyu | Xu Jiayang | Win | W+R | 7.5 | 3671.0 | 3.0 | 
+| 2019-06-17 | 嫘祖杯第32期中国囲棋名人戦8強戦 | Xu Jiayang | Lian Xiao | Win | B+R | 7.5 | 3668.0 | 5.0 | 
 | 2019-06-14 | 第10期中国竜星戦決勝三番勝負第3局 | Xu Jiayang | Jiang Weijie | Lose | W+R | 7.5 | 3663.0 | -8.0 | 
 | 2019-06-13 | 第10期中国竜星戦決勝三番勝負第2局 | Jiang Weijie | Xu Jiayang | Win | W+R | 7.5 | 3671.0 | 9.0 | 
 | 2019-06-12 | 第10期中国竜星戦決勝三番勝負第1局 | Xu Jiayang | Jiang Weijie | Lose | W+R | 7.5 | 3662.0 | -7.0 | 
 | 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 |  | Xu Jiayang | Lose | B+R | 7.5 | 3669.0 | -7.0 | 
 | 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Chen Zhengxun | Xu Jiayang | Win | W+R | 7.5 | 3676.0 | 0.0 | 
-| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Xu Jiayang | Yi Lingtao | Lose | W+R | 7.5 | 3676.0 | -23.0 | 
-| 2019-05-29 | 第24回LG杯朝鮮日報棋王戦2回戦 | Xu Jiayang | Tan Xiao | Win | B+R | 6.5 | 3699.0 | 1.0 | 
+| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Xu Jiayang | Yi Lingtao | Lose | W+R | 7.5 | 3676.0 | -24.0 | 
+| 2019-05-29 | 第24回LG杯朝鮮日報棋王戦2回戦 | Xu Jiayang | Tan Xiao | Win | B+R | 6.5 | 3700.0 | 2.0 | 
 | 2019-05-27 | 第24回LG杯朝鮮日報棋王戦1回戦 | Lyu Liyan | Xu Jiayang | Win | W+R | 6.5 | 3698.0 | -11.0 | 
 | 2019-05-17 | 第10期中国竜星戦準決勝 | Xu Jiayang | Lian Xiao | Win | B+R | 7.5 | 3709.0 | 12.0 | 
 | 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Li Weiqing | Xu Jiayang | Lose | B+R | 7.5 | 3697.0 | -2.0 | 
@@ -113,8 +114,8 @@
 | 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Dang Yifei | Xu Jiayang | Lose | B+R | 7.5 | 3687.0 | 0.0 | 
 | 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Chen Hao | Xu Jiayang | Win | W+R | 7.5 | 3687.0 | 0.0 | 
 | 2019-04-27 | 第4期洛陽白雲山杯中国棋聖戦準決勝 | Xu Jiayang | Ke Jie | Lose | W+¼ | 7.5 | 3687.0 | -8.0 | 
-| 2019-04-26 | 第4期洛陽白雲山杯中国棋聖戦8強戦 | Gu Zihao | Xu Jiayang | Win | W+R | 7.5 | 3695.0 | 1.0 | 
-| 2019-04-19 | 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Lian Xiao | Xu Jiayang | Lose | B+R | 7.5 | 3694.0 | -27.0 | 
+| 2019-04-26 | 第4期洛陽白雲山杯中国棋聖戦8強戦 | Gu Zihao | Xu Jiayang | Win | W+R | 7.5 | 3695.0 | 0.0 | 
+| 2019-04-19 | 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Lian Xiao | Xu Jiayang | Lose | B+R | 7.5 | 3695.0 | -26.0 | 
 | 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Xu Jiayang | Zhao Chenyu | Lose | W+R | 7.5 | 3721.0 | -13.0 | 
 | 2019-04-15 | 第21回中国囲碁甲級リーグ第1節江西-陜西 | Xu Jiayang | Shen Peiran | Win | B+R | 7.5 | 3734.0 | -2.0 | 
 | 2019-04-09 | 2019CCTV杯中国囲棋電視快棋戦決勝 | Xu Jiayang | Ding Hao | Lose | W+¼ | 7.5 | 3736.0 | -1.0 | 
@@ -130,24 +131,24 @@
 | 2019-03-07 | 第10期中国竜星戦予選 | Yi Lingtao | Xu Jiayang | Win | W+R | 7.5 | 3717.0 | -2.0 | 
 | 2019-02-26 | 第4期洛陽白雲山杯中国棋聖戦本戦2回戦 | Chen Yaoye | Xu Jiayang | Win | W+R | 7.5 | 3719.0 | 8.0 | 
 | 2019-02-25 | 第4期洛陽白雲山杯中国棋聖戦本戦1回戦 | Xu Jiayang | Zhou Ruiyang | Win | B+R | 7.5 | 3711.0 | 22.0 | 
-| 2019-01-06 | 第33期中国囲碁天元戦2回戦 | Xu Jiayang | Yang Dingxin | Lose | W+R | 7.5 | 3689.0 | -6.0 | 
-| 2019-01-04 | 第33期中国囲碁天元戦1回戦 | Xu Jiayang | Han Yizhou | Win | B+R | 7.5 | 3695.0 | 4.0 | 
-| 2019-01-03 | 第33期中国囲碁天元戦予選 | Li Zhe | Xu Jiayang | Win | W+2.5 | 7.5 | 3691.0 | 4.0 | 
-| 2018-12-28 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Shu Yixiao | Xu Jiayang | Win | W+R | 7.5 | 3687.0 | 3.0 | 
-| 2018-12-27 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Dang Yifei | Xu Jiayang | Win | W+¼ | 7.5 | 3684.0 | 18.0 | 
-| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節江西-山東 | Fan Tingyu | Xu Jiayang | Win | W+¼ | 7.5 | 3666.0 | 12.0 | 
-| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節衢州-江西 | Xu Jiayang | Ding Shixiong | Win | B+R | 7.5 | 3654.0 | 12.0 | 
+| 2019-01-06 | 第33期中国囲碁天元戦2回戦 | Xu Jiayang | Yang Dingxin | Lose | W+R | 7.5 | 3689.0 | -7.0 | 
+| 2019-01-04 | 第33期中国囲碁天元戦1回戦 | Xu Jiayang | Han Yizhou | Win | B+R | 7.5 | 3696.0 | 4.0 | 
+| 2019-01-03 | 第33期中国囲碁天元戦予選 | Li Zhe | Xu Jiayang | Win | W+2.5 | 7.5 | 3692.0 | 4.0 | 
+| 2018-12-28 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Shu Yixiao | Xu Jiayang | Win | W+R | 7.5 | 3688.0 | 3.0 | 
+| 2018-12-27 | 第4期洛陽白雲山杯中国棋聖戦資格戦 | Dang Yifei | Xu Jiayang | Win | W+¼ | 7.5 | 3685.0 | 18.0 | 
+| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節江西-山東 | Fan Tingyu | Xu Jiayang | Win | W+¼ | 7.5 | 3667.0 | 12.0 | 
+| 2018-12-12 | 第20回中国囲碁甲級リーグ第25節衢州-江西 | Xu Jiayang | Ding Shixiong | Win | B+R | 7.5 | 3655.0 | 13.0 | 
 | 2018-12-04 | 第14期威孚房開杯棋王戦準決勝 | Xu Jiayang | Gu Zihao | Lose | W+R | 7.5 | 3642.0 | -10.0 | 
-| 2018-12-03 | 第14期威孚房開杯棋王戦8強戦 | Liu Xing | Xu Jiayang | Win | W+R | 7.5 | 3652.0 | 40.0 | 
-| 2018-11-16 | 第20回中国囲碁甲級リーグ第24節江西-民生 | Xu Jiayang | Shi Yulai | Lose | W+R | 7.5 | 3612.0 | -29.0 | 
+| 2018-12-03 | 第14期威孚房開杯棋王戦8強戦 | Liu Xing | Xu Jiayang | Win | W+R | 7.5 | 3652.0 | 39.0 | 
+| 2018-11-16 | 第20回中国囲碁甲級リーグ第24節江西-民生 | Xu Jiayang | Shi Yulai | Lose | W+R | 7.5 | 3613.0 | -28.0 | 
 | 2018-11-09 | 第20回中国囲碁甲級リーグ第23節蘇泊爾-江西 |  | Xu Jiayang | Win | W+R | 7.5 | 3641.0 | -7.0 | 
-| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節江西-江蘇 | Xu Jiayang | Tong Mengcheng | Win | B+R | 7.5 | 3648.0 | 21.0 | 
-| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節浙江-江西 | Li Zhe | Xu Jiayang | Win | W+R | 7.5 | 3627.0 | 12.0 | 
-| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節杭州-江西 | Ding Hao | Xu Jiayang | Win | W+R | 7.5 | 3615.0 | 1.0 | 
+| 2018-11-02 | 第20回中国囲碁甲級リーグ第22節江西-江蘇 | Xu Jiayang | Tong Mengcheng | Win | B+R | 7.5 | 3648.0 | 20.0 | 
+| 2018-10-29 | 第20回中国囲碁甲級リーグ第21節浙江-江西 | Li Zhe | Xu Jiayang | Win | W+R | 7.5 | 3628.0 | 12.0 | 
+| 2018-10-27 | 第20回中国囲碁甲級リーグ第20節杭州-江西 | Ding Hao | Xu Jiayang | Win | W+R | 7.5 | 3616.0 | 2.0 | 
 | 2018-10-14 | 第14期威孚房開杯棋王戦16強戦 | Xu Jiayang | Chen Zijian | Win | B+R | 7.5 | 3614.0 | 0.0 | 
 | 2018-10-13 | 第14期威孚房開杯棋王戦32強戦 | Tuo Jiaxi | Xu Jiayang | Win | W+R | 7.5 | 3614.0 | -3.0 | 
-| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節江西-成都 | Xu Jiayang | Dang Yifei | Lose | W+R | 7.5 | 3617.0 | -25.0 | 
-| 2018-10-08 | 第20回中国囲碁甲級リーグ第18節重慶-江西 | Xu Jiayang | Yang Dingxin | Win | B+R | 7.5 | 3642.0 | -3.0 | 
+| 2018-10-10 | 第20回中国囲碁甲級リーグ第19節江西-成都 | Xu Jiayang | Dang Yifei | Lose | W+R | 7.5 | 3617.0 | -26.0 | 
+| 2018-10-08 | 第20回中国囲碁甲級リーグ第18節重慶-江西 | Xu Jiayang | Yang Dingxin | Win | B+R | 7.5 | 3643.0 | -2.0 | 
 | 2018-09-28 | 第20回中国囲碁甲級リーグ第17節江西-中信 | Han Yizhou | Xu Jiayang | Win | W+R | 7.5 | 3645.0 | -3.0 | 
 | 2018-09-12 | 第20回中国囲碁甲級リーグ第16節天津-江西 | Xu Jiayang | Wang Zejin | Lose | W+R | 7.5 | 3648.0 | -9.0 | 
 | 2018-09-10 | 第20回中国囲碁甲級リーグ第15節江西-廈門 | Fan Yin | Xu Jiayang | Win | W+R | 7.5 | 3657.0 | 4.0 | 
@@ -168,14 +169,14 @@
 | 2018-05-09 | 第20回中国囲碁甲級リーグ第5節江西-重慶 | Xu Jiayang | Yang Dingxin | Lose | W+R | 7.5 | 3599.0 | -35.0 | 
 | 2018-04-25 | 第20回中国囲碁甲級リーグ第4節中信-江西 | Xu Jiayang | Tuo Jiaxi | Win | B+R | 7.5 | 3634.0 | 11.0 | 
 | 2018-04-22 | 第5回グロービス杯世界囲碁U-20準決勝 | Xu Jiayang | Lee Donghoon | Win | B+2.5 | 6.5 | 3623.0 | 0.0 | 
-| 2018-04-22 | 第5回グロービス杯世界囲碁U-20決勝 | Shin Minjun | Xu Jiayang | Win | W+1.5 | 6.5 | 3623.0 | 26.0 | 
-| 2018-04-21 | 第5回グロービス杯世界囲碁U-20準々決勝 | Xu Haohong | Xu Jiayang | Win | W+R | 6.5 | 3597.0 | -9.0 | 
+| 2018-04-22 | 第5回グロービス杯世界囲碁U-20決勝 | Shin Minjun | Xu Jiayang | Win | W+1.5 | 6.5 | 3623.0 | 25.0 | 
+| 2018-04-21 | 第5回グロービス杯世界囲碁U-20準々決勝 | Xu Haohong | Xu Jiayang | Win | W+R | 6.5 | 3598.0 | -8.0 | 
 | 2018-04-20 | 第5回グロービス杯世界囲碁U-20グループリーグC | Xu Jiayang | Shibano Toramaru | Win | B+R | 6.5 | 3606.0 | 0.0 | 
 | 2018-04-20 | 第5回グロービス杯世界囲碁U-20グループリーグC | Xu Jiayang | Lee Donghoon | Win | B+R | 6.5 | 3606.0 | 13.0 | 
 | 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Xu Jiayang | Xie Ke | Lose | W+¼ | 7.5 | 3593.0 | -6.0 | 
 | 2018-03-30 | 第20回中国囲碁甲級リーグ第3節江西-天津 | Xu Jiayang | Wang Zejin | Win | B+R | 7.5 | 3599.0 | 6.0 | 
-| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節廈門-江西 | Lee Donghoon | Xu Jiayang | Lose | B+R | 7.5 | 3593.0 | -15.0 | 
-| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節江西-上海 | Xu Jiayang | Liao Xingwen | Win | B+R | 7.5 | 3608.0 | 49.0 | 
+| 2018-03-28 | 第20回中国囲碁甲級リーグ第2節廈門-江西 | Lee Donghoon | Xu Jiayang | Lose | B+R | 7.5 | 3593.0 | -16.0 | 
+| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節江西-上海 | Xu Jiayang | Liao Xingwen | Win | B+R | 7.5 | 3609.0 | 50.0 | 
 | 2018-01-15 | 第3回洛陽白雲山杯中国棋聖戦本戦1回戦 | Lian Xiao | Xu Jiayang | Lose | B+R | 7.5 | 3559.0 | -28.0 | 
 | 2018-01-10 | 第3回洛陽白雲山杯中国棋聖戦資格戦3 | Xu Jiayang | Xie Erhao | Win | B+R | 7.5 | 3587.0 | 9.0 | 
 | 2018-01-08 | 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Mao Ruilong | Xu Jiayang | Win | W+R | 7.5 | 3578.0 | 5.0 | 
@@ -209,13 +210,13 @@
 | 2017-08-06 | 嫘祖杯30回中国名人戦8強戦 | Tan Xiao | Xu Jiayang | Win | W+R | 7.5 | 3504.0 | 14.0 | 
 | 2017-08-04 | 嫘祖杯30回中国名人戦16強戦 | Xu Jiayang | Tuo Jiaxi | Win | B+R | 7.5 | 3490.0 | 16.0 | 
 | 2017-08-03 | 嫘祖杯30回中国名人戦32強戦 | Zhao Chenyu | Xu Jiayang | Win | W+R | 7.5 | 3474.0 | 20.0 | 
-| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Xu Jiayang | Kang Dongyun | Lose | W+R | 7.5 | 3454.0 | -20.0 | 
-| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Li Weiqing | Xu Jiayang | Win | W+R | 7.5 | 3474.0 | 1.0 | 
+| 2017-07-19 | 第19回中国囲碁甲級リーグ第11節 | Xu Jiayang | Kang Dongyun | Lose | W+R | 7.5 | 3454.0 | -21.0 | 
+| 2017-07-17 | 第19回中国囲碁甲級リーグ第10節 | Li Weiqing | Xu Jiayang | Win | W+R | 7.5 | 3475.0 | 2.0 | 
 | 2017-06-19 | 第3回夢百合杯世界オープン戦1回戦 | Huang Jingyuan | Xu Jiayang | Lose | B+R | 7.5 | 3473.0 | 8.0 | 
-| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Xu Jiayang | Ding Hao | Lose | W+R | 7.5 | 3465.0 | -20.0 | 
-| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Rong Yi | Xu Jiayang | Lose | B+1.5 | 7.5 | 3485.0 | -18.0 | 
-| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Xu Jiayang | Li Xuanhao | Lose | W+R | 7.5 | 3503.0 | -7.0 | 
-| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Li Qincheng | Xu Jiayang | Lose | B+R | 7.5 | 3510.0 | -1.0 | 
+| 2017-06-17 | 第19回中国囲碁甲級リーグ第8節 | Xu Jiayang | Ding Hao | Lose | W+R | 7.5 | 3465.0 | -21.0 | 
+| 2017-05-18 | 第19回中国囲碁甲級リーグ第7節 | Rong Yi | Xu Jiayang | Lose | B+1.5 | 7.5 | 3486.0 | -18.0 | 
+| 2017-05-16 | 第19回中国囲碁甲級リーグ第6節 | Xu Jiayang | Li Xuanhao | Lose | W+R | 7.5 | 3504.0 | -7.0 | 
+| 2017-05-14 | 第19回中国囲碁甲級リーグ第5節 | Li Qincheng | Xu Jiayang | Lose | B+R | 7.5 | 3511.0 | 0.0 | 
 | 2017-05-05 | 第19回中国囲碁甲級リーグ第4節 | Xu Jiayang | Liao Yuanhe | Win | B+R | 7.5 | 3511.0 | 5.0 | 
 | 2017-05-03 | 第19回中国囲碁甲級リーグ第3節 |  | Xu Jiayang | Win | W+R | 7.5 | 3506.0 | 17.0 | 
 | 2017-04-27 | 第19回中国囲碁甲級リーグ第2節 | Meng Tailing | Xu Jiayang | Win | W+2.5 | 7.5 | 3489.0 | 2.0 | 
@@ -246,8 +247,8 @@
 | 2016-09-17 | 2016年全国囲棋個人戦男子組第3戦 | Zhu Yuanhao | Xu Jiayang | Win | W+R | 7.5 | 3468.0 | 48.0 | 
 | 2016-08-25 | 第3回百霊杯世界オープン戦4回戦 | Ke Jie | Xu Jiayang | Lose | B+R | 7.5 | 3420.0 | 24.0 | 
 | 2016-07-02 | 第3回百霊杯世界オープン戦3回戦 | Xu Jiayang | Lee Donghoon | Win | B+R | 7.5 | 3396.0 | 15.0 | 
-| 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Xu Jiayang | Li Xuanhao | Win | B+R | 7.5 | 3381.0 | 13.0 | 
-| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Xu Jiayang | Chen Shiyuan | Win | B+R | 7.5 | 3368.0 | 3.0 | 
+| 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Xu Jiayang | Li Xuanhao | Win | B+R | 7.5 | 3381.0 | 12.0 | 
+| 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 | Xu Jiayang | Chen Shiyuan | Win | B+R | 7.5 | 3369.0 | 4.0 | 
 | 2016-06-25 | 第18回中国囲碁甲級リーグ第10節 | Xu Jiayang | Gu Li | Lose | W+R | 7.5 | 3365.0 | 3.0 | 
 | 2016-06-20 | 第18回中国囲碁甲級リーグ第9節 | Xu Jiayang | Li Kang | Win | B+R | 7.5 | 3362.0 | 0.0 | 
 | 2016-06-16 | 第18回中国囲碁甲級リーグ第8節 | Jiang Qirun | Xu Jiayang | Win | W+R | 7.5 | 3362.0 | 32.0 | 
@@ -268,16 +269,16 @@
 | 2015-11-13 | 第17回中国囲碁甲級リーグ第20節 | Xu Jiayang | Wang Xi | Lose | W+R | 7.5 | 3504.0 | -35.0 | 
 | 2015-11-08 | 第17回中国囲碁甲級リーグ第19節 | Xu Jiayang | Zhou Hexi | Lose | W+R | 7.5 | 3539.0 | -27.0 | 
 | 2015-10-28 | 第17回中国囲碁甲級リーグ第18節 | Xu Jiayang |  | Win | B+R | 7.5 | 3566.0 | -20.0 | 
-| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Xia Chenkun | Xu Jiayang | Win | W+R | 7.5 | 3586.0 | 2.0 | 
-| 2015-10-15 | 第17回中国囲碁甲級リーグ第14節 | Xu Jiayang | Fan Yunruo | Win | B+R | 7.5 | 3584.0 | 4.0 | 
+| 2015-10-17 | 第17回中国囲碁甲級リーグ第17節 | Xia Chenkun | Xu Jiayang | Win | W+R | 7.5 | 3586.0 | 1.0 | 
+| 2015-10-15 | 第17回中国囲碁甲級リーグ第14節 | Xu Jiayang | Fan Yunruo | Win | B+R | 7.5 | 3585.0 | 5.0 | 
 | 2015-10-10 | 第17回中国囲碁甲級リーグ第16節 | Liao Xingwen | Xu Jiayang | Win | W+R | 7.5 | 3580.0 | -30.0 | 
 | 2015-09-29 | 第17回中国囲碁甲級リーグ第15節 | Xu Jiayang | Meng Tailing | Win | B+R | 7.5 | 3610.0 | 13.0 | 
 | 2015-09-21 | 第3回全国智力運動会囲碁男子団体戦 | Xu Jiayang | Xie He | Win | B+R | 7.5 | 3597.0 | 6.0 | 
 | 2015-09-20 | 第3回全国智力運動会囲碁男子団体戦 | Wang Shiyi | Xu Jiayang | Win | W+R | 7.5 | 3591.0 | 54.0 | 
-| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Xu Jiayang | Chen Zijian | Lose | W+R | 7.5 | 3537.0 | -24.0 | 
-| 2015-08-31 | 2015年全国囲棋個人戦男子組第8戦 | Zhao Chenyu | Xu Jiayang | Lose | B+R | 7.5 | 3561.0 | 4.0 | 
-| 2015-08-23 | 2015年全国囲棋個人戦男子組第3戦 | Xu Jiayang | Tao Xinran | Lose | W+0.5 | 7.5 | 3557.0 | -12.0 | 
-| 2015-08-22 | 2015年全国囲棋個人戦男子組第2戦 | Fan Yunruo | Xu Jiayang | Lose | B+R | 7.5 | 3569.0 | -21.0 | 
+| 2015-09-03 | 第17回中国囲碁甲級リーグ第12節 | Xu Jiayang | Chen Zijian | Lose | W+R | 7.5 | 3537.0 | -25.0 | 
+| 2015-08-31 | 2015年全国囲棋個人戦男子組第8戦 | Zhao Chenyu | Xu Jiayang | Lose | B+R | 7.5 | 3562.0 | 4.0 | 
+| 2015-08-23 | 2015年全国囲棋個人戦男子組第3戦 | Xu Jiayang | Tao Xinran | Lose | W+0.5 | 7.5 | 3558.0 | -12.0 | 
+| 2015-08-22 | 2015年全国囲棋個人戦男子組第2戦 | Fan Yunruo | Xu Jiayang | Lose | B+R | 7.5 | 3570.0 | -20.0 | 
 | 2015-08-16 | 2015年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 | Xu Jiayang | Mutsuura Yuta | Win | B+5.5 | 7.5 | 3590.0 | 2.0 | 
 | 2015-08-05 | 第20回三星火災杯統合予選決勝 | Xu Jiayang | Byun Sangil | Lose | W+R | 6.5 | 3588.0 | -10.0 | 
 | 2015-07-29 | 第7期中国竜星戦予選 | Tong Mengcheng | Xu Jiayang | Lose | B+R | 7.5 | 3598.0 | 1.0 | 
@@ -302,8 +303,8 @@
 | 2014-11-09 | 第16回中国囲碁甲級リーグ第19節 | Xu Jiayang |  | Lose | W+R | 7.5 | 3331.0 | -11.0 | 
 | 2014-10-31 | 第16回中国囲碁甲級リーグ第18節 | Guo Yuzheng | Xu Jiayang | Win | W+0.5 | 7.5 | 3342.0 | -6.0 | 
 | 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 | Xu Jiayang | Chen Yaoye | Win | B+R | 7.5 | 3348.0 | 42.0 | 
-| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Xu Jiayang | Dang Yifei | Win | B+R | 7.5 | 3306.0 | 98.0 | 
-| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Xu Jiayang |  | Lose | W+R | 7.5 | 3208.0 | -33.0 | 
+| 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Xu Jiayang | Dang Yifei | Win | B+R | 7.5 | 3306.0 | 97.0 | 
+| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Xu Jiayang |  | Lose | W+R | 7.5 | 3209.0 | -32.0 | 
 | 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Ding Shixiong | Xu Jiayang | Lose | B+R | 7.5 | 3241.0 | -15.0 | 
 | 2014-08-28 | 第19回三星火災杯世界囲碁マスターズ1回戦G3 | Xu Jiayang |  | Lose | W+0.5 | 6.5 | 3256.0 | -13.0 | 
 | 2014-08-27 | 第19回三星火災杯世界囲碁マスターズ1回戦G2 |  | Xu Jiayang | Win | W+R | 6.5 | 3269.0 | -1.0 | 
@@ -316,8 +317,8 @@
 | 2014-06-17 | 2014年中韓新鋭対抗戦第1戦 | Xu Jiayang | Shin Jinseo | Lose | W+R | 6.5 | 3431.0 | -45.0 | 
 | 2014-06-14 | 第16回中国囲碁甲級リーグ第7節 | Tao Xinran | Xu Jiayang | Lose | B+R | 7.5 | 3476.0 | 4.0 | 
 | 2014-06-05 | 第16回中国囲碁甲級リーグ第6節 | Zhong Wenjing | Xu Jiayang | Win | W+R | 7.5 | 3472.0 | -12.0 | 
-| 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Xu Jiayang | Park Junghwan | Lose | W+R | 7.5 | 3484.0 | -32.0 | 
-| 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Xu Jiayang | Zhou Hexi | Lose | W+R | 7.5 | 3516.0 | -33.0 | 
+| 2014-05-22 | 第16回中国囲碁甲級リーグ第4節 | Xu Jiayang | Park Junghwan | Lose | W+R | 7.5 | 3484.0 | -33.0 | 
+| 2014-05-12 | 第16回中国囲碁甲級リーグ第2節 | Xu Jiayang | Zhou Hexi | Lose | W+R | 7.5 | 3517.0 | -32.0 | 
 | 2014-05-03 | 2014年利民杯世界囲碁星鋭最強戦第1ステージ準決勝 | Ke Jie | Xu Jiayang | Lose | B+R | 7.5 | 3549.0 | 38.0 | 
 | 2014-02-18 | 第14期リコー杯囲碁戦4回戦 | Zhou Ruiyang | Xu Jiayang | Lose | B+R | 7.5 | 3511.0 | -16.0 | 
 | 2014-02-17 | 第14期リコー杯囲碁戦3回戦 | Fan Tingyu | Xu Jiayang | Win | W+R | 7.5 | 3527.0 | 35.0 | 

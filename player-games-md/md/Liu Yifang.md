@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-16 | 第18回倡棋杯台湾予選 | Liu Yifang |  | Lose | W+R | 7.5 | 2345.0 | -17.0 | 
 | 2022-02-14 | 第3期名人冠軍戦予選 |  | Liu Yifang | Lose | B+R | 6.5 | 2362.0 | -8.0 | 
 | 2022-02-10 | 第3期名人冠軍戦予選 | Liu Yifang | Lin Shixun | Lose | W+R | 6.5 | 2370.0 | -13.0 | 
 | 2022-01-11 | 第21期天元戦（台湾）予選 | Liu Yifang | Huang Shiyuan | Lose | W+R | 6.5 | 2383.0 | 19.0 | 

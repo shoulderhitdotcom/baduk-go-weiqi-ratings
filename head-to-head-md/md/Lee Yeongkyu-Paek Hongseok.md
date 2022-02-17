@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lee Yeongkyu vs Paek Hongseok** | **Lee Yeongkyu streak** | **Paek Hongseok streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-17 | 第5期韓国竜星戦予選 | Lee Yeongkyu | Paek Hongseok | B+R | 6.5 | 7:5 | 1 | 0 | 
 | 2020-12-06 | 2020-2021韓国囲碁リーグ | Lee Yeongkyu | Paek Hongseok | W+R | 6.5 | 2:2 | 0 | 2 | 
 | 2019-07-15 | 第21回農心杯韓国選抜戦 | Lee Yeongkyu | Paek Hongseok | B+R | 6.5 | 5:4 | 3 | 0 | 
 | 2018-02-26 | 第19回マキシムコーヒー杯入神最強戦2回戦 | Lee Yeongkyu | Paek Hongseok | B+R | 6.5 | 3:4 | 1 | 0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Tuo Jiaxi vs Wang Zejin** | **Tuo Jiaxi streak** | **Wang Zejin streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Tuo Jiaxi | Wang Zejin | B+R | 7.5 | 5:3 | 1 | 0 | 
 | 2019-09-16 | 第21回中国囲碁甲級リーグプレーオフ1回戦第2戦 | Tuo Jiaxi | Wang Zejin | B+1¾ | 7.5 | 3:2 | 1 | 0 | 
 | 2019-09-14 | 第21回中国囲碁甲級リーグプレーオフ1回戦第1戦 | Wang Zejin | Tuo Jiaxi | B+R | 7.5 | 2:2 | 0 | 2 | 
 | 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Tuo Jiaxi | Wang Zejin | B+R | 7.5 | 4:2 | 2 | 0 | 

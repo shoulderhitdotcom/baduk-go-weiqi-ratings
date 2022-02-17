@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Chen Xian vs Li Qincheng** | **Chen Xian streak** | **Li Qincheng streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Chen Xian | Li Qincheng | W+R | 7.5 | 2:5 | 0 | 1 | 
 | 2021-06-07 | 第23回中国囲碁甲級リーグ | Li Qincheng | Chen Xian | B+R | 7.5 | 1:4 | 0 | 2 | 
 | 2019-11-04 | 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 | Chen Xian | Li Qincheng | B+R | 7.5 | 1:2 | 1 | 0 | 
 | 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Chen Xian | Li Qincheng | W+R | 7.5 | 1:3 | 0 | 1 | 

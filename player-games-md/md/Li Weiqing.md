@@ -7,12 +7,13 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Ke Jie | Li Weiqing | Lose | B+1¾ | 7.5 | 3531.0 | -9.0 | 
 | 2022-02-16 | 第36期中国囲碁天元戦1回戦 | Li Weiqing | Tao Xinran | Win | B+5¾ | 7.5 | 3540.0 | -23.0 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Li Weiqing | Win | W+R | 7.5 | 3563.0 | 7.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Li Weiqing | Tong Mengcheng | Win | B+R | 7.5 | 3556.0 | 26.0 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Li Weiqing | Tong Mengcheng | Lose | W+R | 7.5 | 3530.0 | -33.0 | 
-| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Dang Yifei | Li Weiqing | Lose | B+1¾ | 7.5 | 3563.0 | -17.0 | 
-| 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Li Weiqing | Park Junghwan | Lose | W+R | 6.5 | 3580.0 | 1.0 | 
+| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Dang Yifei | Li Weiqing | Lose | B+1¾ | 7.5 | 3563.0 | -18.0 | 
+| 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Li Weiqing | Park Junghwan | Lose | W+R | 6.5 | 3581.0 | 2.0 | 
 | 2021-10-13 | 第23回農心辛ラーメン杯世界囲碁最強戦第3戦  | Hsu Chiayuan | Li Weiqing | Lose | B+R | 6.5 | 3579.0 | -13.0 | 
 | 2021-10-12 | 第23回農心辛ラーメン杯世界囲碁最強戦第2戦 | Weon Seongjin | Li Weiqing | Win | W+R | 6.5 | 3592.0 | 11.0 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Li Weiqing | Shi Yue | Lose | W+R | 7.5 | 3581.0 | -13.0 | 
@@ -52,14 +53,14 @@
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Li Weiqing | Xie Erhao | Lose | W+R | 7.5 | 3403.0 | 10.0 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Park Junghwan | Li Weiqing | Lose | B+R | 7.5 | 3393.0 | -45.0 | 
 | 2020-12-07 | 第22回中国囲碁甲級リーグ | Li Weiqing | Kim Jiseok | Lose | W+R | 7.5 | 3438.0 | -22.0 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Liao Xingwen | Li Weiqing | Win | W+R | 7.5 | 3460.0 | -9.0 | 
-| 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Li Weiqing | Yi Lingtao | Lose | W+R | 7.5 | 3469.0 | 9.0 | 
-| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Lian Xiao | Li Weiqing | Win | W+R | 7.5 | 3460.0 | 50.0 | 
-| 2020-10-30 | 第25回三星火災杯世界囲碁マスターズ3回戦 | Yang Dingxin | Li Weiqing | Lose | B+R | 6.5 | 3410.0 | -7.0 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Liao Xingwen | Li Weiqing | Win | W+R | 7.5 | 3460.0 | -10.0 | 
+| 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Li Weiqing | Yi Lingtao | Lose | W+R | 7.5 | 3470.0 | 9.0 | 
+| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Lian Xiao | Li Weiqing | Win | W+R | 7.5 | 3461.0 | 50.0 | 
+| 2020-10-30 | 第25回三星火災杯世界囲碁マスターズ3回戦 | Yang Dingxin | Li Weiqing | Lose | B+R | 6.5 | 3411.0 | -6.0 | 
 | 2020-10-28 | 第25回三星火災杯世界囲碁マスターズ2回戦 | Li Weiqing | Hong Seongji | Win | B+6.5 | 6.5 | 3417.0 | 8.0 | 
-| 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦 | Lee Yeongkyu | Li Weiqing | Win | W+4.5 | 6.5 | 3409.0 | -53.0 | 
-| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Jiang Weijie | Li Weiqing | Lose | B+R | 7.5 | 3462.0 | -23.0 | 
-| 2020-09-14 | 第25回三星火災杯中国一般枠予選 | Tao Xinran | Li Weiqing | Win | W+R | 6.5 | 3485.0 | -23.0 | 
+| 2020-10-27 | 第25回三星火災杯世界囲碁マスターズ1回戦 | Lee Yeongkyu | Li Weiqing | Win | W+4.5 | 6.5 | 3409.0 | -54.0 | 
+| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Jiang Weijie | Li Weiqing | Lose | B+R | 7.5 | 3463.0 | -23.0 | 
+| 2020-09-14 | 第25回三星火災杯中国一般枠予選 | Tao Xinran | Li Weiqing | Win | W+R | 6.5 | 3486.0 | -22.0 | 
 | 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Li Weiqing | Gu Zihao | Win | B+R | 7.5 | 3508.0 | 16.0 | 
 | 2020-08-31 | 第22回中国囲碁甲級リーグ第7節 | Wang Shiyi | Li Weiqing | Win | W+R | 7.5 | 3492.0 | 4.0 | 
 | 2020-08-30 | 第22回中国囲碁甲級リーグ第6節 | Li Weiqing | Shin Minjun | Win | B+R | 7.5 | 3488.0 | 20.0 | 
@@ -108,8 +109,8 @@
 | 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Liao Yuanhe | Li Weiqing | Lose | B+R | 7.5 | 3568.0 | -36.0 | 
 | 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Li Weiqing | Xu Jiayang | Win | B+R | 7.5 | 3604.0 | 16.0 | 
 | 2019-05-09 | 嫘祖杯第32期中国囲棋名人戦16強戦 | Li Weiqing | Yang Dingxin | Win | B+R | 7.5 | 3588.0 | 21.0 | 
-| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Li Weiqing | Chen Xian | Win | B+R | 7.5 | 3567.0 | 14.0 | 
-| 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Li Weiqing | Jiang Qirun | Win | B+R | 7.5 | 3553.0 | 34.0 | 
+| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Li Weiqing | Chen Xian | Win | B+R | 7.5 | 3567.0 | 13.0 | 
+| 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Li Weiqing | Jiang Qirun | Win | B+R | 7.5 | 3554.0 | 35.0 | 
 | 2019-04-19 | 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Li Weiqing | Fan Tingyu | Lose | W+R | 7.5 | 3519.0 | -22.0 | 
 | 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Tong Mengcheng | Li Weiqing | Lose | B+R | 7.5 | 3541.0 | -15.0 | 
 | 2019-04-15 | 第21回中国囲碁甲級リーグ第1節上海-重慶 | Li Weiqing | He Yuhan | Win | B+R | 7.5 | 3556.0 | 16.0 | 
@@ -175,8 +176,8 @@
 | 2017-10-28 | 第19回中国囲碁甲級リーグ第21節 | Li Weiqing | Shin Minjun | Lose | W+R | 7.5 | 3394.0 | 3.0 | 
 | 2017-10-20 | 第19回中国囲碁甲級リーグ第20節 | Li Weiqing | Xie Erhao | Lose | W+R | 7.5 | 3391.0 | 21.0 | 
 | 2017-10-08 | 第19回中国囲碁甲級リーグ第19節 | Li Weiqing | Shin Jinseo | Lose | W+R | 7.5 | 3370.0 | -41.0 | 
-| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Huang Yunsong | Li Weiqing | Win | W+R | 7.5 | 3411.0 | 43.0 | 
-| 2017-09-23 | 2017年全国囲棋個人戦男子組第10戦 | Li Weiqing |  | Win | B+R | 7.5 | 3368.0 | 6.0 | 
+| 2017-09-29 | 第19回中国囲碁甲級リーグ第18節 | Huang Yunsong | Li Weiqing | Win | W+R | 7.5 | 3411.0 | 42.0 | 
+| 2017-09-23 | 2017年全国囲棋個人戦男子組第10戦 | Li Weiqing |  | Win | B+R | 7.5 | 3369.0 | 7.0 | 
 | 2017-09-20 | 2017年全国囲棋個人戦男子組第7戦 |  | Li Weiqing | Win | W+R | 7.5 | 3362.0 | 3.0 | 
 | 2017-09-19 | 2017年全国囲棋個人戦男子組第6戦 | Li Weiqing | Chen Xian | Lose | W+R | 7.5 | 3359.0 | 4.0 | 
 | 2017-09-13 | 第19回中国囲碁甲級リーグ第17節 |  | Li Weiqing | Lose | B+R | 7.5 | 3355.0 | -15.0 | 
@@ -236,8 +237,8 @@
 | 2014-08-05 | 第19回三星火災杯統合予選準決勝 | Kim Seongjae | Li Weiqing | Lose | B+R | 6.5 | 3257.0 | -66.0 | 
 | 2014-06-09 | 第19回LG杯朝鮮日報棋王戦1回戦 | Li Weiqing | Park Junghwan | Lose | W+R | 6.5 | 3323.0 | -77.0 | 
 | 2014-04-19 | 第19回LG杯予選 |  | Li Weiqing | Win | W+R | 6.5 | 3400.0 | 75.0 | 
-| 2014-04-15 | 第19回LG杯予選 | Shin Minjun | Li Weiqing | Win | W+R | 6.5 | 3325.0 | 132.0 | 
-| 2014-03-21 | 第27期中国囲碁名人戦予選 | Li Weiqing |  | Lose | W+R | 7.5 | 3193.0 | -72.0 | 
+| 2014-04-15 | 第19回LG杯予選 | Shin Minjun | Li Weiqing | Win | W+R | 6.5 | 3325.0 | 131.0 | 
+| 2014-03-21 | 第27期中国囲碁名人戦予選 | Li Weiqing |  | Lose | W+R | 7.5 | 3194.0 | -71.0 | 
 | 2014-02-13 | 第21期建橋杯中国囲碁新人王戦準決勝 | Li Weiqing | Yu Zhiying | Lose | W+R | 7.5 | 3265.0 | -67.0 | 
 | 2014-02-12 | 第21期建橋杯中国囲碁新人王戦3回戦 | He Yuhan | Li Weiqing | Win | W+R | 7.5 | 3332.0 | 61.0 | 
 | 2014-02-11 | 第21期建橋杯中国囲碁新人王戦2回戦 | Yi Lingtao | Li Weiqing | Win | W+R | 7.5 | 3271.0 | -23.0 | 

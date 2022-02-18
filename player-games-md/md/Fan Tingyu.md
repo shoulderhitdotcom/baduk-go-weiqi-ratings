@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Ding Hao | Fan Tingyu | Win | W+R | 7.5 | 3566.0 | 12.0 | 
 | 2022-02-16 | 第36期中国囲碁天元戦1回戦 | Wang Xiru | Fan Tingyu | Win | W+R | 7.5 | 3554.0 | -35.0 | 
 | 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Ding Hao | Lose | W+¼ | 7.5 | 3589.0 | -3.0 | 
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Xia Chenkun | Win | B+R | 7.5 | 3592.0 | 29.0 | 
@@ -19,9 +20,9 @@
 | 2021-11-22 | 第22期阿含・桐山杯中国早碁オープン戦1回戦 | Fan Tingyu | Zheng Xu | Win | B+1¾ | 7.5 | 3581.0 | -5.0 | 
 | 2021-11-18 | 2021CCTV杯中国囲棋電視快棋戦3回戦 | Fan Tingyu | Dang Yifei | Lose | W+¼ | 7.5 | 3586.0 | 1.0 | 
 | 2021-11-17 | 2021CCTV杯中国囲棋電視快棋戦2回戦 | Yang Dingxin | Fan Tingyu | Win | W+R | 7.5 | 3585.0 | 14.0 | 
-| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Li Qincheng | Fan Tingyu | Win | W+R | 7.5 | 3571.0 | -2.0 | 
-| 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Fan Tingyu | Shin Jinseo | Lose | W+R | 6.5 | 3573.0 | -5.0 | 
-| 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Hsu Chiayuan | Fan Tingyu | Win | W+R | 6.5 | 3578.0 | 12.0 | 
+| 2021-11-15 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Li Qincheng | Fan Tingyu | Win | W+R | 7.5 | 3571.0 | -3.0 | 
+| 2021-10-23 | 第26回三星火災杯世界囲碁マスターズ2回戦 | Fan Tingyu | Shin Jinseo | Lose | W+R | 6.5 | 3574.0 | -5.0 | 
+| 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Hsu Chiayuan | Fan Tingyu | Win | W+R | 6.5 | 3579.0 | 13.0 | 
 | 2021-10-15 | 第7回国手山脈国際囲碁大会中国予選 | Xie Ke | Fan Tingyu | Win | W+R | 6.5 | 3566.0 | 8.0 | 
 | 2021-10-13 | 第7回国手山脈国際囲碁大会中国予選 | Tan Xiao | Fan Tingyu | Win | W+R | 6.5 | 3558.0 | 24.0 | 
 | 2021-10-09 | 第1回中国囲碁国手戦2回戦 | Li Xuanhao | Fan Tingyu | Lose | B+R | 7.5 | 3534.0 | -13.0 | 
@@ -31,8 +32,8 @@
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Yang Dingxin | Fan Tingyu | Lose | B+R | 7.5 | 3539.0 | -12.0 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Mi Yuting | Win | B+R | 7.5 | 3551.0 | 14.0 | 
 | 2021-09-25 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Li Qincheng | Win | B+R | 7.5 | 3537.0 | -17.0 | 
-| 2021-08-13 | 第26回三星火災杯中国予選 | Fan Tingyu | Tan Xiao | Win | B+R | 6.5 | 3554.0 | 9.0 | 
-| 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Fan Tingyu | Peng Liyao | Lose | W+R | 7.5 | 3545.0 | -3.0 | 
+| 2021-08-13 | 第26回三星火災杯中国予選 | Fan Tingyu | Tan Xiao | Win | B+R | 6.5 | 3554.0 | 8.0 | 
+| 2021-08-02 | 第16回威孚房開杯棋王戦2回戦 | Fan Tingyu | Peng Liyao | Lose | W+R | 7.5 | 3546.0 | -2.0 | 
 | 2021-07-29 | 第16回威孚房開杯棋王戦1回戦 | Chen Yaoye | Fan Tingyu | Win | W+R | 7.5 | 3548.0 | 3.0 | 
 | 2021-07-28 | 第23回農心杯中国予選 | Xu Jiayang | Fan Tingyu | Win | W+R | 6.5 | 3545.0 | 30.0 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Fan Tingyu | Tu Xiaoyu | Lose | W+R | 7.5 | 3515.0 | -8.0 | 
@@ -63,20 +64,20 @@
 | 2020-12-09 | 第22回中国囲碁甲級リーグ | Fan Tingyu | Park Junghwan | Lose | W+R | 7.5 | 3450.0 | 21.0 | 
 | 2020-12-08 | 第22回中国囲碁甲級リーグ | Kim Jiseok | Fan Tingyu | Win | W+¼ | 7.5 | 3429.0 | -5.0 | 
 | 2020-12-07 | 第22回中国囲碁甲級リーグ | Fan Tingyu | Na Hyun | Lose | W+¼ | 7.5 | 3434.0 | -29.0 | 
-| 2020-12-06 | 第22回中国囲碁甲級リーグ | Gu Zihao | Fan Tingyu | Win | W+R | 7.5 | 3463.0 | -23.0 | 
-| 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Fan Tingyu | Zhang Tao | Lose | W+R | 7.5 | 3486.0 | -20.0 | 
-| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Fan Tingyu | Zhao Chenyu | Win | B+R | 7.5 | 3506.0 | -13.0 | 
-| 2020-10-13 | 第22回農心辛ラーメン杯世界囲碁最強戦第1戦 | Hong Kipyo | Fan Tingyu | Lose | B+R | 6.5 | 3519.0 | -34.0 | 
-| 2020-10-11 | 第2回王中王囲棋争覇戦準決勝 | Ke Jie | Fan Tingyu | Lose | B+R | 7.5 | 3553.0 | -8.0 | 
-| 2020-10-10 | 第2回王中王囲棋争覇戦1回戦 | Xie Erhao | Fan Tingyu | Win | W+R | 7.5 | 3561.0 | -53.0 | 
-| 2020-09-23 | 2020CCTV杯中国囲棋電視快棋戦準決勝 | Fan Tingyu | Lian Xiao | Lose | W+R | 7.5 | 3614.0 | -9.0 | 
-| 2020-09-22 | 2020CCTV杯中国囲棋電視快棋戦3回戦 | Fan Tingyu | Tao Xinran | Win | B+R | 7.5 | 3623.0 | 3.0 | 
-| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦2回戦 | Jiang Weijie | Fan Tingyu | Win | W+R | 7.5 | 3620.0 | 0.0 | 
-| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Fan Tingyu | Liao Yuanhe | Win | B+R | 7.5 | 3620.0 | 17.0 | 
-| 2020-09-18 | 第22回農心杯中国選抜戦 | Fan Tingyu | Lian Xiao | Win | B+R | 6.5 | 3603.0 | 8.0 | 
-| 2020-09-17 | 第22回農心杯中国選抜戦 | Fan Tingyu | Ding Hao | Win | B+R | 6.5 | 3595.0 | -10.0 | 
-| 2020-09-14 | 第25回三星火災杯中国一般枠予選 | Fan Tingyu | Fan Yin | Lose | W+R | 6.5 | 3605.0 | -18.0 | 
-| 2020-09-11 | 第25回三星火災杯中国一般枠予選 | Lian Xiao | Fan Tingyu | Lose | B+R | 6.5 | 3623.0 | -24.0 | 
+| 2020-12-06 | 第22回中国囲碁甲級リーグ | Gu Zihao | Fan Tingyu | Win | W+R | 7.5 | 3463.0 | -24.0 | 
+| 2020-11-18 | 第8回衢州・爛柯杯中国囲碁冠軍戦2回戦 | Fan Tingyu | Zhang Tao | Lose | W+R | 7.5 | 3487.0 | -20.0 | 
+| 2020-11-16 | 第8回衢州・爛柯杯中国囲碁冠軍戦1回戦 | Fan Tingyu | Zhao Chenyu | Win | B+R | 7.5 | 3507.0 | -13.0 | 
+| 2020-10-13 | 第22回農心辛ラーメン杯世界囲碁最強戦第1戦 | Hong Kipyo | Fan Tingyu | Lose | B+R | 6.5 | 3520.0 | -34.0 | 
+| 2020-10-11 | 第2回王中王囲棋争覇戦準決勝 | Ke Jie | Fan Tingyu | Lose | B+R | 7.5 | 3554.0 | -8.0 | 
+| 2020-10-10 | 第2回王中王囲棋争覇戦1回戦 | Xie Erhao | Fan Tingyu | Win | W+R | 7.5 | 3562.0 | -53.0 | 
+| 2020-09-23 | 2020CCTV杯中国囲棋電視快棋戦準決勝 | Fan Tingyu | Lian Xiao | Lose | W+R | 7.5 | 3615.0 | -9.0 | 
+| 2020-09-22 | 2020CCTV杯中国囲棋電視快棋戦3回戦 | Fan Tingyu | Tao Xinran | Win | B+R | 7.5 | 3624.0 | 3.0 | 
+| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦2回戦 | Jiang Weijie | Fan Tingyu | Win | W+R | 7.5 | 3621.0 | 0.0 | 
+| 2020-09-21 | 2020CCTV杯中国囲棋電視快棋戦1回戦 | Fan Tingyu | Liao Yuanhe | Win | B+R | 7.5 | 3621.0 | 17.0 | 
+| 2020-09-18 | 第22回農心杯中国選抜戦 | Fan Tingyu | Lian Xiao | Win | B+R | 6.5 | 3604.0 | 8.0 | 
+| 2020-09-17 | 第22回農心杯中国選抜戦 | Fan Tingyu | Ding Hao | Win | B+R | 6.5 | 3596.0 | -10.0 | 
+| 2020-09-14 | 第25回三星火災杯中国一般枠予選 | Fan Tingyu | Fan Yin | Lose | W+R | 6.5 | 3606.0 | -18.0 | 
+| 2020-09-11 | 第25回三星火災杯中国一般枠予選 | Lian Xiao | Fan Tingyu | Lose | B+R | 6.5 | 3624.0 | -23.0 | 
 | 2020-09-09 | 第9回応氏杯世界選手権2回戦 | Shin Jinseo | Fan Tingyu | Lose | B+5 | 7.5 | 3647.0 | -12.0 | 
 | 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Shin Minjun | Fan Tingyu | Win | W+R | 7.5 | 3659.0 | 5.0 | 
 | 2020-09-01 | 第22回中国囲碁甲級リーグ第8節 | Fan Tingyu | Wang Shiyi | Win | B+R | 7.5 | 3654.0 | 15.0 | 
@@ -138,8 +139,8 @@
 | 2019-05-27 | 第24回LG杯朝鮮日報棋王戦1回戦 | Fan Tingyu | Mi Yuting | Lose | W+1.5 | 6.5 | 3635.0 | -21.0 | 
 | 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Mi Yuting | Fan Tingyu | Lose | B+R | 7.5 | 3656.0 | -11.0 | 
 | 2019-05-09 | 嫘祖杯第32期中国囲棋名人戦16強戦 | Tang Weixing | Fan Tingyu | Win | W+R | 7.5 | 3667.0 | -7.0 | 
-| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Fan Tingyu | Shi Yue | Lose | W+R | 7.5 | 3674.0 | 13.0 | 
-| 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Fan Tingyu | Tan Xiao | Win | B+R | 7.5 | 3661.0 | 1.0 | 
+| 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Fan Tingyu | Shi Yue | Lose | W+R | 7.5 | 3674.0 | 12.0 | 
+| 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Fan Tingyu | Tan Xiao | Win | B+R | 7.5 | 3662.0 | 2.0 | 
 | 2019-04-27 | 第4期洛陽白雲山杯中国棋聖戦準決勝 | Fan Yunruo | Fan Tingyu | Lose | B+R | 7.5 | 3660.0 | -7.0 | 
 | 2019-04-26 | 第4期洛陽白雲山杯中国棋聖戦8強戦 | Rong Yi | Fan Tingyu | Win | W+R | 7.5 | 3667.0 | 8.0 | 
 | 2019-04-21 | 第16期倡棋杯中国プロ囲棋選手権戦本戦2回戦 | Fan Tingyu | Zhou Ruiyang | Lose | W+R | 7.5 | 3659.0 | 15.0 | 
@@ -299,8 +300,8 @@
 | 2016-09-30 | 第18回農心辛ラーメン杯世界囲碁最強戦第4戦 | Cho U | Fan Tingyu | Win | W+R | 6.5 | 3470.0 | 8.0 | 
 | 2016-09-29 | 第18回農心辛ラーメン杯世界囲碁最強戦第3戦 | Lee Donghoon | Fan Tingyu | Win | W+R | 6.5 | 3462.0 | 14.0 | 
 | 2016-09-28 | 第18回農心辛ラーメン杯世界囲碁最強戦第2戦 | Ichiriki Ryo | Fan Tingyu | Win | W+R | 6.5 | 3448.0 | -37.0 | 
-| 2016-09-07 | 第21回三星火災杯世界囲碁マスターズ1回戦D2 | Byun Sangil | Fan Tingyu | Win | W+R | 6.5 | 3485.0 | 8.0 | 
-| 2016-09-06 | 第21回三星火災杯世界囲碁マスターズ1回戦D1 | Li Qincheng | Fan Tingyu | Win | W+R | 6.5 | 3477.0 | 23.0 | 
+| 2016-09-07 | 第21回三星火災杯世界囲碁マスターズ1回戦D2 | Byun Sangil | Fan Tingyu | Win | W+R | 6.5 | 3485.0 | 7.0 | 
+| 2016-09-06 | 第21回三星火災杯世界囲碁マスターズ1回戦D1 | Li Qincheng | Fan Tingyu | Win | W+R | 6.5 | 3478.0 | 24.0 | 
 | 2016-08-23 | 第12期威孚房開杯棋王戦2回戦 | Fan Tingyu | Tao Xinran | Lose | W+R | 7.5 | 3454.0 | -12.0 | 
 | 2016-08-22 | 第12期威孚房開杯棋王戦1回戦 | Zhou Ruiyang | Fan Tingyu | Win | W+R | 7.5 | 3466.0 | 25.0 | 
 | 2016-07-20 | 第21回三星火災杯統合予選決勝 | Hu Yaoyu | Fan Tingyu | Win | W+R | 6.5 | 3441.0 | 4.0 | 
@@ -314,8 +315,8 @@
 | 2016-06-03 | 2016CCTV杯中国囲棋電視快棋戦1回戦 | Hu Yaoyu | Fan Tingyu | Lose | B+R | 7.5 | 3410.0 | -43.0 | 
 | 2016-05-22 | 第18回中国囲碁甲級リーグ第6節 | Jiang Qirun | Fan Tingyu | Win | W+R | 7.5 | 3453.0 | -12.0 | 
 | 2016-05-18 | 第6回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Fan Tingyu | Gu Li | Lose | W+R | 7.5 | 3465.0 | -10.0 | 
-| 2016-05-16 | 第18回中国囲碁甲級リーグ第5節 | Fan Tingyu |  | Win | B+R | 7.5 | 3475.0 | 1.0 | 
-| 2016-05-09 | 第18回中国囲碁甲級リーグ第4節 | Fan Tingyu | Zhong Wenjing | Win | B+R | 7.5 | 3474.0 | 5.0 | 
+| 2016-05-16 | 第18回中国囲碁甲級リーグ第5節 | Fan Tingyu |  | Win | B+R | 7.5 | 3475.0 | 0.0 | 
+| 2016-05-09 | 第18回中国囲碁甲級リーグ第4節 | Fan Tingyu | Zhong Wenjing | Win | B+R | 7.5 | 3475.0 | 6.0 | 
 | 2016-04-30 | 第18回中国囲碁甲級リーグ第3節 | Li Qincheng | Fan Tingyu | Lose | B+R | 7.5 | 3469.0 | 0.0 | 
 | 2016-04-22 | 第8回応氏杯世界選手権2回戦 | Shi Yue | Fan Tingyu | Lose | B+1 | 7.5 | 3469.0 | -27.0 | 
 | 2016-04-13 | 第18回中国囲碁甲級リーグ第2節 | Fan Tingyu | Liao Yuanhe | Win | B+R | 7.5 | 3496.0 | 4.0 | 
@@ -381,12 +382,12 @@
 | 2014-10-19 | 第16回中国囲碁甲級リーグ第16節 | Wang Haoyang | Fan Tingyu | Win | W+R | 7.5 | 3570.0 | 10.0 | 
 | 2014-10-11 | 第10期威孚房開杯棋王戦1回戦 | Fan Tingyu | Xie He | Lose | W+R | 7.5 | 3560.0 | -25.0 | 
 | 2014-10-09 | 第16回中国囲碁甲級リーグ第15節 | Fan Tingyu | Tuo Jiaxi | Lose | W+R | 7.5 | 3585.0 | 85.0 | 
-| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Fan Tingyu | Gu Lingyi | Lose | W+R | 7.5 | 3500.0 | -10.0 | 
-| 2014-09-12 | 第5回衢州・爛柯杯中国囲棋冠軍戦決勝 | Shi Yue | Fan Tingyu | Win | W+R | 7.5 | 3510.0 | -1.0 | 
-| 2014-09-11 | 第5回衢州・爛柯杯中国囲棋冠軍戦準決勝 | Fan Tingyu | Qiu Jun | Win | B+R | 7.5 | 3511.0 | 15.0 | 
-| 2014-09-09 | 第5回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Fan Tingyu | Mi Yuting | Win | B+R | 7.5 | 3496.0 | 5.0 | 
-| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Zhao Chenyu | Fan Tingyu | Win | W+R | 7.5 | 3491.0 | -7.0 | 
-| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Fan Tingyu | Peng Liyao | Lose | W+R | 7.5 | 3498.0 | -1.0 | 
+| 2014-09-14 | 第16回中国囲碁甲級リーグ第14節 | Fan Tingyu | Gu Lingyi | Lose | W+R | 7.5 | 3500.0 | -11.0 | 
+| 2014-09-12 | 第5回衢州・爛柯杯中国囲棋冠軍戦決勝 | Shi Yue | Fan Tingyu | Win | W+R | 7.5 | 3511.0 | -1.0 | 
+| 2014-09-11 | 第5回衢州・爛柯杯中国囲棋冠軍戦準決勝 | Fan Tingyu | Qiu Jun | Win | B+R | 7.5 | 3512.0 | 15.0 | 
+| 2014-09-09 | 第5回衢州・爛柯杯中国囲棋冠軍戦3回戦 | Fan Tingyu | Mi Yuting | Win | B+R | 7.5 | 3497.0 | 5.0 | 
+| 2014-09-07 | 第16回中国囲碁甲級リーグ第13節 | Zhao Chenyu | Fan Tingyu | Win | W+R | 7.5 | 3492.0 | -7.0 | 
+| 2014-09-04 | 第16回中国囲碁甲級リーグ第12節 | Fan Tingyu | Peng Liyao | Lose | W+R | 7.5 | 3499.0 | 0.0 | 
 | 2014-09-02 | 第6期中国竜星戦1回戦 | Fan Tingyu | Zhou Heyang | Win | B+R | 7.5 | 3499.0 | -62.0 | 
 | 2014-07-28 | 第16期阿含・桐山杯中国早碁オープン戦2回戦 | Jiang Weijie | Fan Tingyu | Lose | B+3.5 | 7.5 | 3561.0 | -14.0 | 
 | 2014-07-22 | 第2回百霊杯世界オープン戦2回戦 | Fan Tingyu | Ke Jie | Lose | W+R | 7.5 | 3575.0 | -42.0 | 
@@ -411,13 +412,13 @@
 | 2014-05-06 | 2014CCTV杯中国囲棋電視快棋戦3回戦 | Zhou Ruiyang | Fan Tingyu | Win | W+R | 7.5 | 3699.0 | -15.0 | 
 | 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦2回戦 | Fan Tingyu | Wang Lei (b) | Win | B+R | 7.5 | 3714.0 | 0.0 | 
 | 2014-05-05 | 2014CCTV杯中国囲棋電視快棋戦1回戦 | Fan Tingyu |  | Win | B+R | 7.5 | 3714.0 | 18.0 | 
-| 2014-04-19 | 第19回LG杯予選 | Fan Tingyu | Zhao Chenyu | Win | B+R | 6.5 | 3696.0 | 30.0 | 
-| 2014-04-06 | 第27期中国囲碁名人戦2回戦 | Fan Tingyu | Kong Jie | Lose | W+R | 7.5 | 3666.0 | -12.0 | 
-| 2014-04-04 | 第27期中国囲碁名人戦1回戦 | Fan Tingyu | Wang Xi | Win | B+R | 7.5 | 3678.0 | 4.0 | 
-| 2014-03-26 | 第10回春蘭杯世界囲碁選手権1回戦 | Kono Rin | Fan Tingyu | Lose | B+R | 7.5 | 3674.0 | -10.0 | 
-| 2014-03-23 | 第4期招商地産杯中韓囲棋団体対抗戦第2戦 | Na Hyun | Fan Tingyu | Lose | B+R | 7.5 | 3684.0 | -8.0 | 
-| 2014-03-21 | 第4期招商地産杯中韓囲棋団体対抗戦第1戦 | Kim Jiseok | Fan Tingyu | Win | W+R | 7.5 | 3692.0 | 19.0 | 
-| 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Fan Tingyu | Han Wonggyu | Win | B+3.5 | 7.5 | 3673.0 | 4.0 | 
+| 2014-04-19 | 第19回LG杯予選 | Fan Tingyu | Zhao Chenyu | Win | B+R | 6.5 | 3696.0 | 29.0 | 
+| 2014-04-06 | 第27期中国囲碁名人戦2回戦 | Fan Tingyu | Kong Jie | Lose | W+R | 7.5 | 3667.0 | -12.0 | 
+| 2014-04-04 | 第27期中国囲碁名人戦1回戦 | Fan Tingyu | Wang Xi | Win | B+R | 7.5 | 3679.0 | 4.0 | 
+| 2014-03-26 | 第10回春蘭杯世界囲碁選手権1回戦 | Kono Rin | Fan Tingyu | Lose | B+R | 7.5 | 3675.0 | -10.0 | 
+| 2014-03-23 | 第4期招商地産杯中韓囲棋団体対抗戦第2戦 | Na Hyun | Fan Tingyu | Lose | B+R | 7.5 | 3685.0 | -8.0 | 
+| 2014-03-21 | 第4期招商地産杯中韓囲棋団体対抗戦第1戦 | Kim Jiseok | Fan Tingyu | Win | W+R | 7.5 | 3693.0 | 19.0 | 
+| 2014-03-18 | 第2回百霊杯世界オープン戦1回戦 | Fan Tingyu | Han Wonggyu | Win | B+3.5 | 7.5 | 3674.0 | 5.0 | 
 | 2014-02-17 | 第14期リコー杯囲碁戦3回戦 | Fan Tingyu | Xu Jiayang | Lose | W+R | 7.5 | 3669.0 | -6.0 | 
 | 2014-01-19 | 第28期中国囲碁天元戦3回戦 | Shi Yue | Fan Tingyu | Lose | B+R | 7.5 | 3675.0 | -2.0 | 
 | 2014-01-17 | 第28期中国囲碁天元戦2回戦 | Fan Tingyu | Peng Liyao | Win | B+R | 7.5 | 3677.0 | 7.0 | 

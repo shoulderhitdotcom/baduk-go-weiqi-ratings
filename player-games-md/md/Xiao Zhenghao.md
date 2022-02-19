@@ -7,37 +7,39 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-02-14 | 第3期名人冠軍戦予選 | Xiao Zhenghao |  | Win | B+R | 6.5 | 3204.0 | 28.0 | 
-| 2022-02-10 | 第3期名人冠軍戦予選 | Xiao Zhenghao |  | Win | B+R | 6.5 | 3176.0 | -24.0 | 
-| 2022-01-25 | 第21期天元戦（台湾）勝部3回戦 | Xiao Zhenghao | Xu Haohong | Lose | W+R | 6.5 | 3200.0 | -10.0 | 
-| 2022-01-21 | 第21期天元戦（台湾）勝部2回戦 | Huang Shiyuan | Xiao Zhenghao | Win | W+R | 6.5 | 3210.0 | -25.0 | 
-| 2022-01-18 | 第21期天元戦（台湾）勝部1回戦 |  | Xiao Zhenghao | Win | W+R | 6.5 | 3235.0 | 7.0 | 
-| 2022-01-17 | 第14回海峰杯プロ囲碁戦4回戦  | Xiao Zhenghao | Xu Haohong | Lose | W+1.5 | 6.5 | 3228.0 | 9.0 | 
-| 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Lu Yiquan | Xiao Zhenghao | Win | W+R | 6.5 | 3219.0 | 10.0 | 
-| 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 | Xiao Zhenghao |  | Win | B+R | 6.5 | 3209.0 | 15.0 | 
-| 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Liu Jianchang | Xiao Zhenghao | Win | W+R | 6.5 | 3194.0 | 40.0 | 
+| 2022-02-18 | 第21期天元戦（台湾）リーグ | Xiao Zhenghao | Jian Jingting | Win | B+1.5 | 6.5 | 3178.0 | -27.0 | 
+| 2022-02-15 | 第21期天元戦（台湾）リーグ | Xiao Zhenghao | Chen Qirui | Lose | W+R | 6.5 | 3205.0 | 0.0 | 
+| 2022-02-14 | 第3期名人冠軍戦予選 | Xiao Zhenghao |  | Win | B+R | 6.5 | 3205.0 | 28.0 | 
+| 2022-02-10 | 第3期名人冠軍戦予選 | Xiao Zhenghao |  | Win | B+R | 6.5 | 3177.0 | -24.0 | 
+| 2022-01-25 | 第21期天元戦（台湾）勝部3回戦 | Xiao Zhenghao | Xu Haohong | Lose | W+R | 6.5 | 3201.0 | -10.0 | 
+| 2022-01-21 | 第21期天元戦（台湾）勝部2回戦 | Huang Shiyuan | Xiao Zhenghao | Win | W+R | 6.5 | 3211.0 | -25.0 | 
+| 2022-01-18 | 第21期天元戦（台湾）勝部1回戦 |  | Xiao Zhenghao | Win | W+R | 6.5 | 3236.0 | 7.0 | 
+| 2022-01-17 | 第14回海峰杯プロ囲碁戦4回戦  | Xiao Zhenghao | Xu Haohong | Lose | W+1.5 | 6.5 | 3229.0 | 9.0 | 
+| 2022-01-13 | 第14回海峰杯プロ囲碁戦3回戦 | Lu Yiquan | Xiao Zhenghao | Win | W+R | 6.5 | 3220.0 | 10.0 | 
+| 2022-01-10 | 第14回海峰杯プロ囲碁戦2回戦 | Xiao Zhenghao |  | Win | B+R | 6.5 | 3210.0 | 15.0 | 
+| 2022-01-06 | 第14回海峰杯プロ囲碁戦1回戦 | Liu Jianchang | Xiao Zhenghao | Win | W+R | 6.5 | 3195.0 | 41.0 | 
 | 2021-12-01 | 第2回UMC聯電杯早碁争覇戦4回戦  | Xiao Zhenghao | Xu Haohong | Lose | W+R | 6.5 | 3154.0 | 16.0 | 
 | 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦 | Li Wei | Xiao Zhenghao | Win | W+R | 6.5 | 3138.0 | 86.0 | 
 | 2021-10-28 | 第14期棋王戦（台湾）リーグ  | Lin Lixiang | Xiao Zhenghao | Lose | B+0.5 | 6.5 | 3052.0 | -9.0 | 
 | 2021-10-25 | 第14期棋王戦（台湾）リーグ | Cai Chengwei | Xiao Zhenghao | Win | W+0.5 | 6.5 | 3061.0 | -1.0 | 
-| 2021-10-21 | 第14期棋王戦（台湾）リーグ  | Xiao Zhenghao | Lai Junfu | Lose | W+R | 6.5 | 3062.0 | -2.0 | 
-| 2021-10-18 | 第14期棋王戦（台湾）リーグ | Xiao Zhenghao | Jian Jingting | Win | B+R | 6.5 | 3064.0 | -4.0 | 
-| 2021-10-14 | 第14期棋王戦（台湾）リーグ | Chen Qirui | Xiao Zhenghao | Lose | B+R | 6.5 | 3068.0 | -12.0 | 
+| 2021-10-21 | 第14期棋王戦（台湾）リーグ  | Xiao Zhenghao | Lai Junfu | Lose | W+R | 6.5 | 3062.0 | -3.0 | 
+| 2021-10-18 | 第14期棋王戦（台湾）リーグ | Xiao Zhenghao | Jian Jingting | Win | B+R | 6.5 | 3065.0 | -4.0 | 
+| 2021-10-14 | 第14期棋王戦（台湾）リーグ | Chen Qirui | Xiao Zhenghao | Lose | B+R | 6.5 | 3069.0 | -11.0 | 
 | 2021-10-07 | 第14期棋王戦（台湾）リーグ  | Wang Yuanjun | Xiao Zhenghao | Win | W+R | 6.5 | 3080.0 | 17.0 | 
 | 2021-09-30 | 第14期棋王戦（台湾）予選  | Xiao Zhenghao | Li Wei | Win | B+R | 6.5 | 3063.0 | -13.0 | 
 | 2021-09-27 | 第14期棋王戦（台湾）予選 |  | Xiao Zhenghao | Win | W+R | 6.5 | 3076.0 | -3.0 | 
 | 2021-09-26 | 第9期中環碁聖戦 | Lin Xinwei | Xiao Zhenghao | Lose | B+R | 6.5 | 3079.0 | -10.0 | 
 | 2021-09-23 | 第14期棋王戦（台湾）予選 | Xiao Zhenghao | Xu Jingen | Win | B+R | 6.5 | 3089.0 | 9.0 | 
-| 2021-09-22 | 第9期中環碁聖戦 | Zhou Pingqiang | Xiao Zhenghao | Win | W+0.5 | 6.5 | 3080.0 | 2.0 | 
-| 2021-09-16 | 第14期棋王戦（台湾）予選 | Xiao Zhenghao | Lai Junfu | Lose | W+R | 6.5 | 3078.0 | -9.0 | 
-| 2021-09-13 | 第14期棋王戦（台湾）予選 | Chen Xi | Xiao Zhenghao | Win | W+5.5 | 6.5 | 3087.0 | 13.0 | 
-| 2021-09-09 | 第14期棋王戦（台湾）予選 | Xiao Zhenghao | Lin Yuxiang | Win | B+R | 6.5 | 3074.0 | -29.0 | 
-| 2021-08-29 | 第2期聯電杯プロ囲碁戦リーグ | Xu Haohong | Xiao Zhenghao | Win | W+R | 6.5 | 3103.0 | 35.0 | 
-| 2021-08-26 | 第2期聯電杯プロ囲碁戦リーグ | Lu Yiquan | Xiao Zhenghao | Win | W+R | 6.5 | 3068.0 | -8.0 | 
-| 2021-08-24 | 第2期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Xiao Zhenghao | Lose | B+R | 6.5 | 3076.0 | 0.0 | 
-| 2021-08-19 | 第2期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Xiao Zhenghao | Win | W+R | 6.5 | 3076.0 | 2.0 | 
-| 2021-08-17 | 第2期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Jian Jingting | Win | B+R | 6.5 | 3074.0 | -4.0 | 
-| 2021-08-15 | 第2期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao |  | Lose | W+1.5 | 6.5 | 3078.0 | 15.0 | 
+| 2021-09-22 | 第9期中環碁聖戦 | Zhou Pingqiang | Xiao Zhenghao | Win | W+0.5 | 6.5 | 3080.0 | 1.0 | 
+| 2021-09-16 | 第14期棋王戦（台湾）予選 | Xiao Zhenghao | Lai Junfu | Lose | W+R | 6.5 | 3079.0 | -9.0 | 
+| 2021-09-13 | 第14期棋王戦（台湾）予選 | Chen Xi | Xiao Zhenghao | Win | W+5.5 | 6.5 | 3088.0 | 13.0 | 
+| 2021-09-09 | 第14期棋王戦（台湾）予選 | Xiao Zhenghao | Lin Yuxiang | Win | B+R | 6.5 | 3075.0 | -29.0 | 
+| 2021-08-29 | 第2期聯電杯プロ囲碁戦リーグ | Xu Haohong | Xiao Zhenghao | Win | W+R | 6.5 | 3104.0 | 35.0 | 
+| 2021-08-26 | 第2期聯電杯プロ囲碁戦リーグ | Lu Yiquan | Xiao Zhenghao | Win | W+R | 6.5 | 3069.0 | -8.0 | 
+| 2021-08-24 | 第2期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Xiao Zhenghao | Lose | B+R | 6.5 | 3077.0 | 0.0 | 
+| 2021-08-19 | 第2期聯電杯プロ囲碁戦リーグ | Chen Shiyuan | Xiao Zhenghao | Win | W+R | 6.5 | 3077.0 | 2.0 | 
+| 2021-08-17 | 第2期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Jian Jingting | Win | B+R | 6.5 | 3075.0 | -4.0 | 
+| 2021-08-15 | 第2期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao |  | Lose | W+1.5 | 6.5 | 3079.0 | 16.0 | 
 | 2021-05-13 | 第11期友士杯十段戦勝部決勝 | Lin Junyan | Xiao Zhenghao | Lose | B+R | 6.5 | 3063.0 | 35.0 | 
 | 2021-05-10 | 第11期友士杯十段戦勝部準決勝 | Xiao Zhenghao | Wang Yuanjun | Win | B+R | 6.5 | 3028.0 | 14.0 | 
 | 2021-05-03 | 第11期友士杯十段戦勝部2回戦 | Xiao Zhenghao | Yu Lijun | Win | B+R | 6.5 | 3014.0 | 13.0 | 
@@ -52,15 +54,15 @@
 | 2021-03-12 | 第20期天元戦（台湾）リーグ | Xiao Zhenghao | Jian Jingting | Lose | W+R | 6.5 | 2973.0 | -9.0 | 
 | 2021-03-09 | 第20期天元戦（台湾）リーグ | Xiao Zhenghao | Lu Yiquan | Win | B+R | 6.5 | 2982.0 | 17.0 | 
 | 2021-03-08 | 第2期名人冠軍戦1回戦 | Xiao Zhenghao |  | Lose | W+1.5 | 6.5 | 2965.0 | -24.0 | 
-| 2021-03-05 | 第20期天元戦（台湾）リーグ | Xiao Zhenghao | Lin Lixiang | Lose | W+R | 6.5 | 2989.0 | 17.0 | 
-| 2021-03-02 | 第20期天元戦（台湾）リーグ | Lin Junyan | Xiao Zhenghao | Win | W+R | 6.5 | 2972.0 | -2.0 | 
+| 2021-03-05 | 第20期天元戦（台湾）リーグ | Xiao Zhenghao | Lin Lixiang | Lose | W+R | 6.5 | 2989.0 | 16.0 | 
+| 2021-03-02 | 第20期天元戦（台湾）リーグ | Lin Junyan | Xiao Zhenghao | Win | W+R | 6.5 | 2973.0 | -1.0 | 
 | 2021-02-26 | 第20期天元戦（台湾）リーグ | Xiao Zhenghao | Xu Haohong | Lose | W+R | 6.5 | 2974.0 | -5.0 | 
 | 2021-02-25 | 第2期名人冠軍戦予選 | Lin Jiehan | Xiao Zhenghao | Win | W+R | 6.5 | 2979.0 | -6.0 | 
 | 2021-02-23 | 第20期天元戦（台湾）リーグ | Xiao Zhenghao | Chen Qirui | Lose | W+R | 6.5 | 2985.0 | -4.0 | 
 | 2021-02-22 | 第2期名人冠軍戦予選 |  | Xiao Zhenghao | Win | W+R | 6.5 | 2989.0 | -2.0 | 
-| 2021-02-19 | 第20期天元戦（台湾）リーグ | Lai Junfu | Xiao Zhenghao | Lose | B+R | 6.5 | 2991.0 | 58.0 | 
-| 2021-01-26 | 第20期天元戦（台湾）勝部3回戦 | Xiao Zhenghao | Chen Xi | Win | B+R | 6.5 | 2933.0 | 1.0 | 
-| 2021-01-25 | 第13回海峰杯プロ囲碁戦4回戦 | Xiao Zhenghao | Xu Haohong | Lose | W+R | 6.5 | 2932.0 | -5.0 | 
+| 2021-02-19 | 第20期天元戦（台湾）リーグ | Lai Junfu | Xiao Zhenghao | Lose | B+R | 6.5 | 2991.0 | 57.0 | 
+| 2021-01-26 | 第20期天元戦（台湾）勝部3回戦 | Xiao Zhenghao | Chen Xi | Win | B+R | 6.5 | 2934.0 | 1.0 | 
+| 2021-01-25 | 第13回海峰杯プロ囲碁戦4回戦 | Xiao Zhenghao | Xu Haohong | Lose | W+R | 6.5 | 2933.0 | -4.0 | 
 | 2021-01-22 | 第20期天元戦（台湾）勝部2回戦 | Xiao Zhenghao | Li Wei | Win | B+R | 6.5 | 2937.0 | 9.0 | 
 | 2021-01-21 | 第13回海峰杯プロ囲碁戦3回戦 | Xiao Zhenghao | Chen Shiyuan | Win | B+R | 6.5 | 2928.0 | 61.0 | 
 | 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Xiao Zhenghao |  | Win | B+R | 6.5 | 2867.0 | -7.0 | 
@@ -89,32 +91,32 @@
 | 2020-09-22 | 第16期国手戦（台湾）2回戦 |  | Xiao Zhenghao | Win | W+0.5 | 6.5 | 2983.0 | 39.0 | 
 | 2020-09-20 | 第8期中環碁聖戦3回戦 | Xiao Zhenghao |  | Win | B+R | 6.5 | 2944.0 | -4.0 | 
 | 2020-09-14 | 第13期棋王戦（台湾）予選 | Xiao Zhenghao |  | Win | B+R | 6.5 | 2948.0 | 4.0 | 
-| 2020-09-13 | 第8期中環碁聖戦2回戦 | Chen Shiyuan | Xiao Zhenghao | Win | W+R | 6.5 | 2944.0 | 11.0 | 
-| 2020-09-08 | 第1期聯電杯プロ囲碁戦リーグ残留プレーオフ | Lu Yiquan | Xiao Zhenghao | Win | W+R | 6.5 | 2933.0 | 21.0 | 
+| 2020-09-13 | 第8期中環碁聖戦2回戦 | Chen Shiyuan | Xiao Zhenghao | Win | W+R | 6.5 | 2944.0 | 10.0 | 
+| 2020-09-08 | 第1期聯電杯プロ囲碁戦リーグ残留プレーオフ | Lu Yiquan | Xiao Zhenghao | Win | W+R | 6.5 | 2934.0 | 22.0 | 
 | 2020-09-04 | 第1期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Chen Qirui | Lose | W+R | 6.5 | 2912.0 | -10.0 | 
 | 2020-09-03 | 第13期棋王戦（台湾）予選 | Bai Xinhui | Xiao Zhenghao | Win | W+R | 6.5 | 2922.0 | -18.0 | 
 | 2020-08-25 | 第1期聯電杯プロ囲碁戦リーグ | Lu Yiquan | Xiao Zhenghao | Lose | B+R | 6.5 | 2940.0 | -59.0 | 
-| 2020-08-21 | 第1期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Li Wei | Win | B+R | 6.5 | 2999.0 | -33.0 | 
-| 2020-07-07 | 第1期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Xiao Zhenghao | Win | W+R | 6.5 | 3032.0 | 38.0 | 
-| 2020-07-03 | 第1期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao |  | Win | B+R | 6.5 | 2994.0 | -13.0 | 
-| 2020-06-23 | 第1期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Chen Shiyuan | Lose | W+5.5 | 6.5 | 3007.0 | 4.0 | 
-| 2020-06-19 | 第1期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Lai Junfu | Lose | W+R | 6.5 | 3003.0 | 10.0 | 
+| 2020-08-21 | 第1期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Li Wei | Win | B+R | 6.5 | 2999.0 | -34.0 | 
+| 2020-07-07 | 第1期聯電杯プロ囲碁戦リーグ | Wang Yuanjun | Xiao Zhenghao | Win | W+R | 6.5 | 3033.0 | 38.0 | 
+| 2020-07-03 | 第1期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao |  | Win | B+R | 6.5 | 2995.0 | -13.0 | 
+| 2020-06-23 | 第1期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Chen Shiyuan | Lose | W+5.5 | 6.5 | 3008.0 | 4.0 | 
+| 2020-06-19 | 第1期聯電杯プロ囲碁戦リーグ | Xiao Zhenghao | Lai Junfu | Lose | W+R | 6.5 | 3004.0 | 11.0 | 
 | 2020-06-12 | 第1期聯電杯プロ囲碁戦予選勝部2回戦 | Xiao Zhenghao | Lin Junyan | Win | B+R | 6.5 | 2993.0 | 42.0 | 
 | 2020-06-09 | 第1期聯電杯プロ囲碁戦予選勝部1回戦 | Xiao Zhenghao | Liu Jianchang | Win | B+R | 6.5 | 2951.0 | 5.0 | 
-| 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Lin Ziyuan | Xiao Zhenghao | Win | W+R | 6.5 | 2946.0 | 0.0 | 
-| 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Xiao Zhenghao | Yang Mengyun | Win | B+R | 6.5 | 2946.0 | -89.0 | 
-| 2020-04-28 | 第19期天元戦（台湾）リーグ | Wang Yuanjun | Xiao Zhenghao | Lose | B+R | 6.5 | 3035.0 | -4.0 | 
-| 2020-04-21 | 第19期天元戦（台湾）リーグ | Chen Shiyuan | Xiao Zhenghao | Lose | B+2.5 | 6.5 | 3039.0 | -43.0 | 
-| 2020-04-14 | 第19期天元戦（台湾）リーグ | Xu Haohong | Xiao Zhenghao | Lose | B+R | 6.5 | 3082.0 | -20.0 | 
-| 2020-04-13 | 第10期友士杯十段戦敗部1回戦 | Xiao Zhenghao | Chen Qirui | Lose | W+0.5 | 6.5 | 3102.0 | -32.0 | 
-| 2020-04-09 | 第10期友士杯十段戦勝部1回戦 | Xiao Zhenghao | Jian Jingting | Lose | W+0.5 | 6.5 | 3134.0 | -18.0 | 
-| 2020-04-07 | 第19期天元戦（台湾）リーグ | Lin Shixun | Xiao Zhenghao | Lose | B+R | 6.5 | 3152.0 | -12.0 | 
+| 2020-05-29 | 第1期聯電杯プロ囲碁戦予選 | Lin Ziyuan | Xiao Zhenghao | Win | W+R | 6.5 | 2946.0 | -1.0 | 
+| 2020-05-22 | 第1期聯電杯プロ囲碁戦予選 | Xiao Zhenghao | Yang Mengyun | Win | B+R | 6.5 | 2947.0 | -88.0 | 
+| 2020-04-28 | 第19期天元戦（台湾）リーグ | Wang Yuanjun | Xiao Zhenghao | Lose | B+R | 6.5 | 3035.0 | -5.0 | 
+| 2020-04-21 | 第19期天元戦（台湾）リーグ | Chen Shiyuan | Xiao Zhenghao | Lose | B+2.5 | 6.5 | 3040.0 | -43.0 | 
+| 2020-04-14 | 第19期天元戦（台湾）リーグ | Xu Haohong | Xiao Zhenghao | Lose | B+R | 6.5 | 3083.0 | -20.0 | 
+| 2020-04-13 | 第10期友士杯十段戦敗部1回戦 | Xiao Zhenghao | Chen Qirui | Lose | W+0.5 | 6.5 | 3103.0 | -32.0 | 
+| 2020-04-09 | 第10期友士杯十段戦勝部1回戦 | Xiao Zhenghao | Jian Jingting | Lose | W+0.5 | 6.5 | 3135.0 | -18.0 | 
+| 2020-04-07 | 第19期天元戦（台湾）リーグ | Lin Shixun | Xiao Zhenghao | Lose | B+R | 6.5 | 3153.0 | -11.0 | 
 | 2020-03-31 | 第19期天元戦（台湾）リーグ | Xiao Zhenghao | Lai Junfu | Lose | W+R | 6.5 | 3164.0 | -11.0 | 
 | 2020-03-24 | 第19期天元戦（台湾）リーグ | Xiao Zhenghao | Jian Jingting | Lose | W+R | 6.5 | 3175.0 | -35.0 | 
 | 2020-03-17 | 第19期天元戦（台湾）リーグ | Xiao Zhenghao | Chen Qirui | Lose | W+R | 6.5 | 3210.0 | 2.0 | 
 | 2020-03-09 | 第12回海峰杯プロ囲碁戦準決勝 | Lai Junfu | Xiao Zhenghao | Lose | B+R | 6.5 | 3208.0 | -21.0 | 
-| 2020-03-05 | 第12回海峰杯プロ囲碁戦8強戦 | Xiao Zhenghao | Lin Shuyang | Win | B+R | 6.5 | 3229.0 | 6.0 | 
-| 2020-03-02 | 第12回海峰杯プロ囲碁戦16強戦 | Chen Qirui | Xiao Zhenghao | Win | W+R | 6.5 | 3223.0 | 12.0 | 
+| 2020-03-05 | 第12回海峰杯プロ囲碁戦8強戦 | Xiao Zhenghao | Lin Shuyang | Win | B+R | 6.5 | 3229.0 | 5.0 | 
+| 2020-03-02 | 第12回海峰杯プロ囲碁戦16強戦 | Chen Qirui | Xiao Zhenghao | Win | W+R | 6.5 | 3224.0 | 13.0 | 
 | 2020-02-24 | 第12回海峰杯プロ囲碁戦32強戦 |  | Xiao Zhenghao | Win | W+R | 6.5 | 3211.0 | -4.0 | 
 | 2020-02-20 | 第12回海峰杯プロ囲碁戦64強戦 | Xiao Zhenghao | Ye Hongyuan | Win | B+R | 6.5 | 3215.0 | -2.0 | 
 | 2020-02-13 | 第1期名人冠軍戦予選勝部決勝 | Xiao Zhenghao | Xia Daming | Win | B+R | 6.5 | 3217.0 | -2.0 | 
@@ -256,12 +258,12 @@
 | 2016-11-08 | 第12期国手戦（台湾）リーグ戦第四局 | Xu Haohong | Xiao Zhenghao | Lose | B+0.5 | 6.5 | 3323.0 | 4.0 | 
 | 2016-11-01 | 第12期国手戦（台湾）リーグ戦第三局 | Zhou Yinnan | Xiao Zhenghao | Win | W+R | 6.5 | 3319.0 | -8.0 | 
 | 2016-10-30 | 第4期中環碁聖戦4強戦 | Wang Yuanjun | Xiao Zhenghao | Lose | B+1.5 | 6.5 | 3327.0 | 3.0 | 
-| 2016-10-25 | 第12期国手戦（台湾）リーグ戦第二局 | Chen Qirui | Xiao Zhenghao | Win | W+R | 6.5 | 3324.0 | 14.0 | 
-| 2016-10-18 | 第12期国手戦（台湾）リーグ戦第一局 | Xiao Zhenghao | Lin Shixun | Lose | W+R | 6.5 | 3310.0 | 0.0 | 
-| 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦第3戦 | Xiao Zhenghao | Huang Yunsong | Lose | W+R | 6.5 | 3310.0 | 0.0 | 
-| 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Xiao Zhenghao | Ichiriki Ryo | Lose | W+R | 6.5 | 3310.0 | -13.0 | 
-| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Xiao Zhenghao | Lee Donghoon | Lose | W+R | 6.5 | 3323.0 | 0.0 | 
-| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Xiao Zhenghao | Ida Atsushi | Lose | W+R | 6.5 | 3323.0 | 69.0 | 
+| 2016-10-25 | 第12期国手戦（台湾）リーグ戦第二局 | Chen Qirui | Xiao Zhenghao | Win | W+R | 6.5 | 3324.0 | 15.0 | 
+| 2016-10-18 | 第12期国手戦（台湾）リーグ戦第一局 | Xiao Zhenghao | Lin Shixun | Lose | W+R | 6.5 | 3309.0 | 0.0 | 
+| 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦第3戦 | Xiao Zhenghao | Huang Yunsong | Lose | W+R | 6.5 | 3309.0 | 0.0 | 
+| 2016-10-15 | 第3回おかげ杯国際精鋭囲碁対抗戦三位決定戦 | Xiao Zhenghao | Ichiriki Ryo | Lose | W+R | 6.5 | 3309.0 | -13.0 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第2戦 | Xiao Zhenghao | Lee Donghoon | Lose | W+R | 6.5 | 3322.0 | 0.0 | 
+| 2016-10-14 | 第3回おかげ杯国際精鋭囲碁対抗戦第1戦 | Xiao Zhenghao | Ida Atsushi | Lose | W+R | 6.5 | 3322.0 | 68.0 | 
 | 2016-08-11 | 第6期友士杯十段戦挑戦手合五番勝負第3局 | Xiao Zhenghao | Xu Haohong | Win | B+0.5 | 6.5 | 3254.0 | 2.0 | 
 | 2016-08-08 | 第6期友士杯十段戦挑戦手合五番勝負第2局 | Xu Haohong | Xiao Zhenghao | Win | W+R | 6.5 | 3252.0 | -25.0 | 
 | 2016-08-01 | 第6期友士杯十段戦挑戦手合五番勝負第1局 | Xiao Zhenghao | Xu Haohong | Win | B+R | 6.5 | 3277.0 | -5.0 | 
@@ -274,10 +276,10 @@
 | 2016-06-18 | 2016年中国囲碁丙級リーグ | Dong Yan | Xiao Zhenghao | Win | W+R | 7.5 | 3264.0 | -18.0 | 
 | 2016-06-17 | 2016年中国囲碁丙級リーグ | Xiao Zhenghao |  | Win | B+R | 7.5 | 3282.0 | 1.0 | 
 | 2016-06-16 | 2016年中国囲碁丙級リーグ |  | Xiao Zhenghao | Lose | B+3.5 | 7.5 | 3281.0 | -3.0 | 
-| 2016-06-10 | 第15期天元戦（台湾）挑戦手合七番勝負第4局 | Wang Yuanjun | Xiao Zhenghao | Win | W+R | 6.5 | 3284.0 | 12.0 | 
-| 2016-06-02 | 第15期天元戦（台湾）挑戦手合七番勝負第3局 | Xiao Zhenghao | Wang Yuanjun | Lose | W+R | 6.5 | 3272.0 | -14.0 | 
-| 2016-05-31 | 第15期天元戦（台湾）挑戦手合七番勝負第2局 | Wang Yuanjun | Xiao Zhenghao | Lose | B+R | 6.5 | 3286.0 | -5.0 | 
-| 2016-05-22 | 第15期天元戦（台湾）挑戦手合七番勝負第1局 | Xiao Zhenghao | Wang Yuanjun | Win | B+3.5 | 6.5 | 3291.0 | -10.0 | 
+| 2016-06-10 | 第15期天元戦（台湾）挑戦手合七番勝負第4局 | Wang Yuanjun | Xiao Zhenghao | Win | W+R | 6.5 | 3284.0 | 13.0 | 
+| 2016-06-02 | 第15期天元戦（台湾）挑戦手合七番勝負第3局 | Xiao Zhenghao | Wang Yuanjun | Lose | W+R | 6.5 | 3271.0 | -15.0 | 
+| 2016-05-31 | 第15期天元戦（台湾）挑戦手合七番勝負第2局 | Wang Yuanjun | Xiao Zhenghao | Lose | B+R | 6.5 | 3286.0 | -4.0 | 
+| 2016-05-22 | 第15期天元戦（台湾）挑戦手合七番勝負第1局 | Xiao Zhenghao | Wang Yuanjun | Win | B+3.5 | 6.5 | 3290.0 | -11.0 | 
 | 2016-05-19 | 第15期天元戦（台湾）挑戦者決定プレーオフ | Lin Junyan | Xiao Zhenghao | Win | W+0.5 | 6.5 | 3301.0 | 37.0 | 
 | 2016-05-17 | 第15期天元戦（台湾）リーグ | Lin Lixiang | Xiao Zhenghao | Win | W+R | 6.5 | 3264.0 | 4.0 | 
 | 2016-05-16 | 第8回海峰杯プロ囲碁戦決勝三番勝負第3局 | Jian Jingting | Xiao Zhenghao | Win | W+4.5 | 6.5 | 3260.0 | -18.0 | 
@@ -363,10 +365,10 @@
 | 2015-01-23 | 第2回夢百合杯世界オープン戦台湾予選 | Chen Shiyuan | Xiao Zhenghao | Win | W+R | 7.5 | 3251.0 | -32.0 | 
 | 2014-12-09 | 第10期国手戦（台湾）挑戦手合五番勝負第3局 | Wang Yuanjun | Xiao Zhenghao | Win | W+R | 6.5 | 3283.0 | 11.0 | 
 | 2014-12-07 | 第10期国手戦（台湾）挑戦手合五番勝負第2局 | Xiao Zhenghao | Wang Yuanjun | Win | B+R | 6.5 | 3272.0 | 20.0 | 
-| 2014-11-25 | 第10期国手戦（台湾）挑戦手合五番勝負第1局 | Wang Yuanjun | Xiao Zhenghao | Win | W+1.5 | 6.5 | 3252.0 | 53.0 | 
-| 2014-10-27 | 第7期棋王戦（台湾）リーグ | Zhou Junxun | Xiao Zhenghao | Win | W+3.5 | 6.5 | 3199.0 | 12.0 | 
-| 2014-10-23 | 第7期棋王戦（台湾）リーグ | Chen Shiyuan | Xiao Zhenghao | Lose | B+R | 6.5 | 3187.0 | -5.0 | 
-| 2014-10-20 | 第7期棋王戦（台湾）リーグ | Xiao Zhenghao | Chen Qirui | Lose | W+1.5 | 6.5 | 3192.0 | -9.0 | 
+| 2014-11-25 | 第10期国手戦（台湾）挑戦手合五番勝負第1局 | Wang Yuanjun | Xiao Zhenghao | Win | W+1.5 | 6.5 | 3252.0 | 54.0 | 
+| 2014-10-27 | 第7期棋王戦（台湾）リーグ | Zhou Junxun | Xiao Zhenghao | Win | W+3.5 | 6.5 | 3198.0 | 12.0 | 
+| 2014-10-23 | 第7期棋王戦（台湾）リーグ | Chen Shiyuan | Xiao Zhenghao | Lose | B+R | 6.5 | 3186.0 | -5.0 | 
+| 2014-10-20 | 第7期棋王戦（台湾）リーグ | Xiao Zhenghao | Chen Qirui | Lose | W+1.5 | 6.5 | 3191.0 | -10.0 | 
 | 2014-10-16 | 第7期棋王戦（台湾）リーグ | Lin Junyan | Xiao Zhenghao | Win | W+R | 6.5 | 3201.0 | 13.0 | 
 | 2014-10-09 | 第7期棋王戦（台湾）リーグ | Xiao Zhenghao | Lin Lixiang | Lose | W+R | 6.5 | 3188.0 | -14.0 | 
 | 2014-10-06 | 第7期棋王戦（台湾）リーグ | Lin Zhihan | Xiao Zhenghao | Win | W+R | 6.5 | 3202.0 | 16.0 | 
@@ -383,8 +385,8 @@
 | 2014-07-01 | 第13期天元戦（台湾）挑戦手合五番勝負第4局 | Lin Lixiang | Xiao Zhenghao | Win | W+2.5 | 6.5 | 3159.0 | 32.0 | 
 | 2014-06-24 | 第13期天元戦（台湾）挑戦手合五番勝負第3局 | Xiao Zhenghao | Lin Lixiang | Lose | W+R | 6.5 | 3127.0 | -65.0 | 
 | 2014-06-17 | 第13期天元戦（台湾）挑戦手合五番勝負第2局 | Lin Lixiang | Xiao Zhenghao | Win | W+R | 6.5 | 3192.0 | 1.0 | 
-| 2014-06-10 | 第13期天元戦（台湾）挑戦手合五番勝負第1局 | Xiao Zhenghao | Lin Lixiang | Win | B+R | 6.5 | 3191.0 | -40.0 | 
-| 2014-05-28 | 第11期倡棋杯中国プロ囲碁選手権戦1回戦 | Qiu Jun | Xiao Zhenghao | Lose | B+3 | 7.5 | 3231.0 | -62.0 | 
+| 2014-06-10 | 第13期天元戦（台湾）挑戦手合五番勝負第1局 | Xiao Zhenghao | Lin Lixiang | Win | B+R | 6.5 | 3191.0 | -39.0 | 
+| 2014-05-28 | 第11期倡棋杯中国プロ囲碁選手権戦1回戦 | Qiu Jun | Xiao Zhenghao | Lose | B+3 | 7.5 | 3230.0 | -63.0 | 
 | 2014-04-29 | 2014年中国囲碁丙級リーグ | Xiao Zhenghao |  | Win | B+R | 7.5 | 3293.0 | 30.0 | 
 | 2014-04-03 | 第6回海峰杯プロ囲碁戦準決勝 | Chen Shiyuan | Xiao Zhenghao | Lose | B+3.5 | 6.5 | 3263.0 | -29.0 | 
 | 2014-03-31 | 第6回海峰杯プロ囲碁戦8強戦 | Hei Jiajia | Xiao Zhenghao | Win | W+R | 6.5 | 3292.0 | 13.0 | 

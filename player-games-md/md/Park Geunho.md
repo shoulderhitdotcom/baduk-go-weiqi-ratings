@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-20 | 2021-2022韓国囲碁リーグ | Park Geunho | Weon Seongjin | Lose | W+R | 6.5 | 3395.0 | -3.0 | 
 | 2022-02-13 | 2021-2022韓国囲碁リーグ | An Sungjoon | Park Geunho | Win | W+0.5 | 6.5 | 3398.0 | 16.0 | 
 | 2022-02-07 | 2022YK建機杯予選 | Park Geunho | Cho Hanseung | Win | B+R | 6.5 | 3382.0 | -36.0 | 
 | 2022-01-23 | 2021-2022韓国囲碁リーグ | Shin Minjun | Park Geunho | Win | W+R | 6.5 | 3418.0 | -27.0 | 

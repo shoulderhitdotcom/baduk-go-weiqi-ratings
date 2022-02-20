@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-20 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Lee Changseok | Win | W+R | 6.5 | 3489.0 | 0.0 | 
 | 2022-02-19 | 第1回牛膝鳳爪杯韓国棋院選手権戦順位決定戦 | Lee Changseok | Shin Minjun | Lose | W+R | 6.5 | 3489.0 | -15.0 | 
 | 2022-02-03 | 第3期ソパルコサノル最高棋士決定戦リーグ | Lee Changseok | Byun Sangil | Lose | W+R | 6.5 | 3504.0 | -33.0 | 
 | 2022-01-23 | 2021-2022韓国囲碁リーグ | Lee Changseok | Han Sanghoon | Win | B+R | 6.5 | 3537.0 | 1.0 | 

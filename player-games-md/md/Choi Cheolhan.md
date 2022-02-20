@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-20 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Kang Seungmin | Lose | W+T | 6.5 | 3421.0 | -55.0 | 
 | 2022-02-13 | 2021-2022韓国囲碁リーグ | Choi Cheolhan |  | Win | B+R | 6.5 | 3476.0 | 7.0 | 
 | 2022-01-23 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Kim Seongjae | Win | B+R | 6.5 | 3469.0 | 10.0 | 
 | 2022-01-14 | 2021-2022韓国囲碁リーグ | Choi Cheolhan | Moon Minjong | Win | B+R | 6.5 | 3459.0 | 13.0 | 

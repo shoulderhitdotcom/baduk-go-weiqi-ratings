@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-20 | 2021-2022韓国囲碁リーグ | Park Geunho | Weon Seongjin | Win | W+R | 6.5 | 3503.0 | -27.0 | 
 | 2022-02-13 | 第1回牛膝鳳爪杯韓国棋院選手権戦順位決定戦 | Shin Jinseo | Weon Seongjin | Win | W+R | 6.5 | 3530.0 | 28.0 | 
 | 2022-02-12 | 2021-2022韓国囲碁リーグ | Weon Seongjin | Choi Jaeyoung | Lose | W+R | 6.5 | 3502.0 | -16.0 | 
 | 2022-02-09 | 2022YK建機杯予選 | Kim Junghyun | Weon Seongjin | Win | W+R | 6.5 | 3518.0 | -1.0 | 

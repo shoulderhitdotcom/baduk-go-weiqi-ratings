@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-20 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Byun Sangil | Lose | B+R | 6.5 | 3685.0 | -13.0 | 
 | 2022-02-17 | 第3期ソパルコサノル最高棋士決定戦リーグ | Hong Mujin | Byun Sangil | Win | W+R | 6.5 | 3698.0 | -8.0 | 
 | 2022-02-13 | 2021-2022韓国囲碁リーグ | Byun Sangil | Jin Siyoung | Win | B+R | 6.5 | 3706.0 | 4.0 | 
 | 2022-02-08 | 第23回マキシムコーヒー杯入神最強戦2回戦 | Byun Sangil | Han Sanghoon | Lose | W+R | 6.5 | 3702.0 | -11.0 | 

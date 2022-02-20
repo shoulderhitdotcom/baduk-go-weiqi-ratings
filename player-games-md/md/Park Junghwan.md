@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-20 | 第1回牛膝鳳爪杯韓国棋院選手権戦決勝五番勝負第1局 | Park Junghwan | Lee Donghoon | Win | B+R | 6.5 | 3730.0 | 10.0 | 
 | 2022-02-17 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Park Junghwan | Win | W+R | 6.5 | 3720.0 | -10.0 | 
 | 2022-02-14 | 第3期ソパルコサノル最高棋士決定戦リーグ | Park Junghwan | Hong Mujin | Win | B+R | 6.5 | 3730.0 | 6.0 | 
 | 2022-02-11 | 2021-2022韓国囲碁リーグ | Park Junghwan | Song Jihoon | Win | B+R | 6.5 | 3724.0 | 0.0 | 

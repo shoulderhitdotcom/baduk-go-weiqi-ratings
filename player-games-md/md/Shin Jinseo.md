@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-20 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Byun Sangil | Win | B+R | 6.5 | 3829.0 | 0.0 | 
 | 2022-02-13 | 第1回牛膝鳳爪杯韓国棋院選手権戦順位決定戦 | Shin Jinseo | Weon Seongjin | Lose | W+R | 6.5 | 3829.0 | 0.0 | 
 | 2022-02-12 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Shin Jinseo | Win | W+R | 6.5 | 3829.0 | 0.0 | 
 | 2022-02-09 | 第26回LG杯朝鮮日報棋王戦決勝三番勝負第2局 | Shin Jinseo | Yang Dingxin | Win | B+R | 6.5 | 3829.0 | 0.0 | 

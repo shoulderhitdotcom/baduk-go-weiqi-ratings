@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-20 | 第1回牛膝鳳爪杯韓国棋院選手権戦決勝五番勝負第1局 | Park Junghwan | Lee Donghoon | Lose | B+R | 6.5 | 3554.0 | -21.0 | 
 | 2022-02-18 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Lee Taehyun | Lose | W+R | 6.5 | 3575.0 | -7.0 | 
 | 2022-02-12 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Shin Jinseo | Lose | W+R | 6.5 | 3582.0 | -12.0 | 
 | 2022-02-06 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Kim Jinhyu | Win | B+R | 6.5 | 3594.0 | -9.0 | 

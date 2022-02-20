@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-20 | 2021-2022フューチャーズリーグ | Shin Jaeweon | Wi Taewoong | Win | B+9.5 | 6.5 | 3114.0 | 37.0 | 
 | 2022-02-19 | 2021-2022韓国囲碁リーグ | Shin Jaeweon | Kim Jiseok | Lose | W+0.5 | 6.5 | 3077.0 | -27.0 | 
 | 2022-02-12 | 2021-2022フューチャーズリーグ | Hyun Yoobin | Shin Jaeweon | Win | W+R | 6.5 | 3104.0 | 16.0 | 
 | 2022-02-05 | 2021-2022フューチャーズリーグ |  | Shin Jaeweon | Win | W+R | 6.5 | 3088.0 | 0.0 | 

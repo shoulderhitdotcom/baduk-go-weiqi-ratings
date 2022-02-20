@@ -22,7 +22,9 @@ using DataFrames: DataFrame
 
 include("c:/weiqi/simulation/utils.jl")
 
-pings_for_md = JDF.load("pings_for_md.jdf") |> DataFrame
+tmp = pings_for_md = JDF.load("pings_for_md.jdf") |> DataFrame
+
+select!(tmp, Not(:Uncertainty))
 
 df_to_md(pings_for_md[1:100, :])
 ```

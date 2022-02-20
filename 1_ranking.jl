@@ -41,6 +41,8 @@ tbl = @chain joinpath(WSPATH, "kifu-depot-games-with-sgf.jdf/") begin
     sort!(:date)
 end
 
+# 羋昱廷
+
 @assert !("羋昱廷" in tbl.black)
 @assert !("羋昱廷" in tbl.white)
 

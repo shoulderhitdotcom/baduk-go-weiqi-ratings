@@ -10,19 +10,5 @@ using DataFrames: DataFrame
 include("c:/weiqi/simulation/utils.jl")
 
 pings_for_md = JDF.load("../jdf/Abe Yoshiki.jdf") |> DataFrame
-
-using UnicodePlots, Missings
-plt = lineplot(
-    pings_for_md.Date,
-    disallowmissing(pings_for_md.Rating),
-    title="Abe Yoshiki Ratings",
-    name="Abe Yoshiki",
-    xlabel="Date",
-    ylabel="Rating",
-    border=:dotted
-    )
-```
-
-```{julia; echo=false}
 df_to_md(pings_for_md)
 ```

@@ -8,7 +8,9 @@
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-19 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Lee Wonyoung | Win | W+R | 6.5 | 3239.0 | -20.0 | 
+| 2022-02-11 | 2022YK建機杯予選 |  | Lee Wonyoung | Lose | B+1.5 | 6.5 | 3259.0 | 0.0 | 
 | 2022-02-10 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Lee Wonyoung | Win | W+R | 6.5 | 3259.0 | -2.0 | 
+| 2022-02-05 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Lee Wonyoung | Lose | B+R | 6.5 | 3261.0 | 0.0 | 
 | 2022-01-21 | 2021-2022韓国囲碁リーグ | Yun Chanhee | Lee Wonyoung | Lose | B+R | 6.5 | 3261.0 | 16.0 | 
 | 2022-01-14 | 2021-2022韓国囲碁リーグ | Lee Wonyoung | Park Geunho | Win | B+2.5 | 6.5 | 3245.0 | -8.0 | 
 | 2022-01-08 | 2021-2022韓国囲碁リーグ | Choi Jaeyoung | Lee Wonyoung | Lose | B+2.5 | 6.5 | 3253.0 | 7.0 | 
@@ -33,6 +35,9 @@
 | 2020-12-26 | 2020-2021韓国囲碁リーグ | Lee Wonyoung | Heo Yongho | Win | B+R | 6.5 | 3280.0 | 85.0 | 
 | 2020-12-18 | 2020-2021韓国囲碁リーグ | An Sungjoon | Lee Wonyoung | Win | W+R | 6.5 | 3195.0 | 116.0 | 
 | 2020-12-10 | 2020-2021韓国囲碁リーグ | Na Hyun | Lee Wonyoung | Win | W+R | 6.5 | 3079.0 | -164.0 | 
+| 2020-12-04 | 2020-2021韓国囲碁リーグ | Lee Wonyoung | Weon Seongjin | Lose | W+R | 6.5 | 3243.0 | 0.0 | 
+| 2020-11-27 | 2020-2021韓国囲碁リーグ | Kim Myounghoon | Lee Wonyoung | Lose | B+R | 6.5 | 3243.0 | 0.0 | 
+| 2020-11-05 | 第2回大統領杯全国囲碁大会予選 | Lee Wonyoung | Song Jihoon | Lose | W+R | 6.5 | 3243.0 | 0.0 | 
 | 2019-08-03 | 第6回国手山脈韓国国内トーナメント32強戦 | Lee Wonyoung | Lee Wondo | Lose | W+R | 6.5 | 3243.0 | -175.0 | 
 | 2018-11-17 | 2018年韓国囲碁リーグ優勝決定戦第2戦 | Lee Wonyoung | Park Jinsol | Lose | W+0.5 | 6.5 | 3418.0 | -86.0 | 
 | 2018-10-05 | 2018年韓国囲碁リーグ第14節 | Lee Changseok | Lee Wonyoung | Win | W+R | 6.5 | 3504.0 | 42.0 | 

@@ -9,7 +9,9 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-19 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Seol Hyunjun | Win | B+R | 6.5 | 3441.0 | -10.0 | 
 | 2022-02-16 | 第3期ソパルコサノル最高棋士決定戦リーグ | Yun Chanhee | Kang Dongyun | Win | W+R | 6.5 | 3451.0 | 15.0 | 
+| 2022-02-11 | 2021-2022韓国囲碁リーグ | Park Yeonghun | Kang Dongyun | Win | W+R | 6.5 | 3436.0 | 0.0 | 
 | 2022-02-10 | 2022YK建機杯予選 | Kang Dongyun | Oh Yujin | Win | B+R | 6.5 | 3436.0 | 2.0 | 
+| 2022-02-05 | 第1回牛膝鳳爪杯韓国棋院選手権戦順位決定戦 | Kang Dongyun | Choi Jeong | Win | B+R | 6.5 | 3434.0 | 0.0 | 
 | 2022-02-04 | 2021-2022韓国囲碁リーグ | Yun Chanhee | Kang Dongyun | Win | W+R | 6.5 | 3434.0 | -12.0 | 
 | 2022-01-25 | 第3期ソパルコサノル最高棋士決定戦リーグ |  | Kang Dongyun | Win | W+R | 6.5 | 3446.0 | 13.0 | 
 | 2022-01-22 | 2021-2022韓国囲碁リーグ | Han Seungjoo | Kang Dongyun | Lose | B+R | 6.5 | 3433.0 | -8.0 | 
@@ -18,6 +20,7 @@
 | 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Kang Dongyun | Chen Zhengxun | Win | B+R | 7.5 | 3446.0 | 11.0 | 
 | 2022-01-10 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Yun Junsang | Kang Dongyun | Lose | B+R | 6.5 | 3435.0 | -1.0 | 
 | 2022-01-06 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Kang Dongyun | Lose | B+R | 6.5 | 3436.0 | -3.0 | 
+| 2022-01-02 | 2021-2022韓国囲碁リーグ | Gon Jiwoo | Kang Dongyun | Win | W+R | 6.5 | 3439.0 | 0.0 | 
 | 2021-12-18 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Byun Sangil | Lose | W+R | 6.5 | 3439.0 | 3.0 | 
 | 2021-12-09 | 第27回GSカルテックス杯プロ棋戦予選 | Kang Dongyun | Choi Jaeyoung | Lose | W+R | 6.5 | 3436.0 | -34.0 | 
 | 2021-12-05 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Donghoon | Kang Dongyun | Lose | B+R | 6.5 | 3470.0 | -13.0 | 

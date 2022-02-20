@@ -7,33 +7,35 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-02-14 | 第36期中国囲碁天元戦1回戦 | Shi Yue | Liao Yuanhe | Lose | B+¾ | 7.5 | 3599.0 | -22.0 | 
-| 2022-01-20 | 第23回中国囲碁甲級リーグ3位決定戦第2戦 | Liao Yuanhe | Huang Yunsong | Win | B+R | 7.5 | 3621.0 | 2.0 | 
-| 2022-01-19 | 第23回中国囲碁甲級リーグ3位決定戦第1戦 | Mi Yuting | Liao Yuanhe | Lose | B+R | 7.5 | 3619.0 | -17.0 | 
-| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Liao Yuanhe | Jin Yucheng | Lose | W+¼ | 7.5 | 3636.0 | -14.0 | 
-| 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Liao Yuanhe | Ding Hao | Lose | W+R | 7.5 | 3650.0 | 11.0 | 
+| 2022-02-14 | 第36期中国囲碁天元戦予選 | Shi Yue | Liao Yuanhe | Lose | B+¾ | 7.5 | 3600.0 | -22.0 | 
+| 2022-01-20 | 第23回中国囲碁甲級リーグ3位決定戦第2戦 | Liao Yuanhe | Huang Yunsong | Win | B+R | 7.5 | 3622.0 | 2.0 | 
+| 2022-01-19 | 第23回中国囲碁甲級リーグ3位決定戦第1戦 | Mi Yuting | Liao Yuanhe | Lose | B+R | 7.5 | 3620.0 | -17.0 | 
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Liao Yuanhe | Jin Yucheng | Lose | W+¼ | 7.5 | 3637.0 | -14.0 | 
+| 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Liao Yuanhe | Ding Hao | Lose | W+R | 7.5 | 3651.0 | 12.0 | 
 | 2021-12-26 | 第1回湾区杯中国囲碁大棋士戦2回戦 | Liao Yuanhe | Tong Mengcheng | Lose | W+¼ | 7.5 | 3639.0 | -11.0 | 
 | 2021-12-24 | 第1回湾区杯中国囲碁大棋士戦1回戦 | Tan Xiao | Liao Yuanhe | Win | W+R | 7.5 | 3650.0 | 86.0 | 
-| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Ding Hao | Liao Yuanhe | Lose | B+¾ | 7.5 | 3564.0 | 7.0 | 
-| 2021-10-14 | 第12期中国竜星戦準決勝 | Mi Yuting | Liao Yuanhe | Lose | B+R | 7.5 | 3557.0 | -2.0 | 
-| 2021-10-11 | 第12期中国竜星戦Aブロック8回戦 | Liao Yuanhe | Lian Xiao | Lose | W+R | 7.5 | 3559.0 | -8.0 | 
+| 2021-11-16 | 2021CCTV杯中国囲棋電視快棋戦1回戦 | Ding Hao | Liao Yuanhe | Lose | B+¾ | 7.5 | 3564.0 | 6.0 | 
+| 2021-10-14 | 第12期中国竜星戦準決勝 | Mi Yuting | Liao Yuanhe | Lose | B+R | 7.5 | 3558.0 | -2.0 | 
+| 2021-10-11 | 第12期中国竜星戦Aブロック8回戦 | Liao Yuanhe | Lian Xiao | Lose | W+R | 7.5 | 3560.0 | -7.0 | 
 | 2021-10-08 | 第1回中国囲碁国手戦1回戦 | Xie Ke | Liao Yuanhe | Lose | B+R | 7.5 | 3567.0 | -9.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Xie Erhao | Liao Yuanhe | Lose | B+¾ | 7.5 | 3576.0 | -19.0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Shi Yulai | Win | B+R | 7.5 | 3595.0 | -2.0 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Peng Liyao | Liao Yuanhe | Win | W+¼ | 7.5 | 3597.0 | -1.0 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Zhou Hexi | Lose | W+R | 7.5 | 3598.0 | -15.0 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Zheng Xu | Liao Yuanhe | Win | W+R | 7.5 | 3613.0 | 18.0 | 
-| 2021-09-17 | 第12期中国竜星戦Aブロック7回戦 | Jiang Zhujiu | Liao Yuanhe | Win | W+R | 7.5 | 3595.0 | 3.0 | 
-| 2021-09-16 | 第12期中国竜星戦Aブロック6回戦 | Ding Hao | Liao Yuanhe | Win | W+1¼ | 7.5 | 3592.0 | 9.0 | 
-| 2021-09-15 | 第12期中国竜星戦Aブロック5回戦 | Wu Guangya | Liao Yuanhe | Win | W+1¼ | 7.5 | 3583.0 | -1.0 | 
-| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Liao Yuanhe | Li Qincheng | Lose | W+R | 7.5 | 3584.0 | 0.0 | 
-| 2021-09-03 | 第12期中国竜星戦予選 | Li Weiqing | Liao Yuanhe | Win | W+R | 7.5 | 3584.0 | 8.0 | 
-| 2021-09-02 | 第12期中国竜星戦予選 | Yang Kaiwen | Liao Yuanhe | Win | W+R | 7.5 | 3576.0 | 21.0 | 
-| 2021-08-31 | 第12期中国竜星戦予選 | Liao Yuanhe | Liao Xingwen | Win | B+R | 7.5 | 3555.0 | 24.0 | 
-| 2021-08-26 | 第12期中国竜星戦予選 | Liao Yuanhe | Li Qincheng | Win | B+R | 7.5 | 3531.0 | 47.0 | 
-| 2021-08-18 | 第26回三星火災杯中国予選 | Tong Mengcheng | Liao Yuanhe | Win | W+3.5 | 6.5 | 3484.0 | 17.0 | 
-| 2021-07-30 | 第16回威孚房開杯棋王戦2回戦 | Mi Yuting | Liao Yuanhe | Lose | B+R | 7.5 | 3467.0 | -1.0 | 
-| 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Liao Yuanhe | Zhou Hongyu | Win | B+R | 7.5 | 3468.0 | 21.0 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Zheng Xu | Liao Yuanhe | Win | W+R | 7.5 | 3613.0 | 17.0 | 
+| 2021-09-17 | 第12期中国竜星戦Aブロック7回戦 | Jiang Zhujiu | Liao Yuanhe | Win | W+R | 7.5 | 3596.0 | 3.0 | 
+| 2021-09-16 | 第12期中国竜星戦Aブロック6回戦 | Ding Hao | Liao Yuanhe | Win | W+1¼ | 7.5 | 3593.0 | 9.0 | 
+| 2021-09-15 | 第12期中国竜星戦Aブロック5回戦 | Wu Guangya | Liao Yuanhe | Win | W+1¼ | 7.5 | 3584.0 | -1.0 | 
+| 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Liao Yuanhe | Li Qincheng | Lose | W+R | 7.5 | 3585.0 | 0.0 | 
+| 2021-09-03 | 第12期中国竜星戦予選 | Li Weiqing | Liao Yuanhe | Win | W+R | 7.5 | 3585.0 | 8.0 | 
+| 2021-09-02 | 第12期中国竜星戦予選 | Yang Kaiwen | Liao Yuanhe | Win | W+R | 7.5 | 3577.0 | 21.0 | 
+| 2021-08-31 | 第12期中国竜星戦予選 | Liao Yuanhe | Liao Xingwen | Win | B+R | 7.5 | 3556.0 | 24.0 | 
+| 2021-08-26 | 第12期中国竜星戦予選 | Liao Yuanhe | Li Qincheng | Win | B+R | 7.5 | 3532.0 | 47.0 | 
+| 2021-08-25 | 第26回三星火災杯中国予選 | Liao Yuanhe | Huang Yunsong | Win | B+R | 6.5 | 3485.0 | 0.0 | 
+| 2021-08-20 | 第26回三星火災杯中国予選 | Liao Yuanhe | Chen Zijian | Win | B+R | 6.5 | 3485.0 | 0.0 | 
+| 2021-08-18 | 第26回三星火災杯中国予選 | Tong Mengcheng | Liao Yuanhe | Win | W+3.5 | 6.5 | 3485.0 | 17.0 | 
+| 2021-07-30 | 第16回威孚房開杯棋王戦2回戦 | Mi Yuting | Liao Yuanhe | Lose | B+R | 7.5 | 3468.0 | -1.0 | 
+| 2021-07-28 | 第16回威孚房開杯棋王戦1回戦 | Liao Yuanhe | Zhou Hongyu | Win | B+R | 7.5 | 3469.0 | 22.0 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Liao Yuanhe | Zhou Ruiyang | Win | B+R | 7.5 | 3447.0 | 8.0 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Zhang Tao | Liao Yuanhe | Win | W+R | 7.5 | 3439.0 | 16.0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Kim Jiseok | Liao Yuanhe | Win | W+R | 7.5 | 3423.0 | 7.0 | 
@@ -52,11 +54,11 @@
 | 2021-03-23 | 第35期中国囲碁天元戦3回戦 | Liao Yuanhe | Li Qincheng | Lose | W+R | 7.5 | 3341.0 | -9.0 | 
 | 2021-03-21 | 第35期中国囲碁天元戦2回戦 | Xie Ke | Liao Yuanhe | Win | W+¼ | 7.5 | 3350.0 | 20.0 | 
 | 2021-03-18 | 第35期中国囲碁天元戦1回戦 | Li Weiqing | Liao Yuanhe | Win | W+R | 7.5 | 3330.0 | 20.0 | 
-| 2021-03-16 | 第35期中国囲碁天元戦予選 | Liao Yuanhe |  | Win | B+R | 7.5 | 3310.0 | 41.0 | 
-| 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Liao Yuanhe | Lian Xiao | Lose | W+R | 7.5 | 3269.0 | -7.0 | 
-| 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Liao Yuanhe | Xie Ke | Lose | W+R | 7.5 | 3276.0 | -8.0 | 
-| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Liao Yuanhe | Lose | B+R | 7.5 | 3284.0 | -6.0 | 
-| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Liao Yuanhe | Jiang Weijie | Lose | W+R | 7.5 | 3290.0 | 40.0 | 
+| 2021-03-16 | 第35期中国囲碁天元戦予選 | Liao Yuanhe |  | Win | B+R | 7.5 | 3310.0 | 40.0 | 
+| 2020-12-23 | 第22回中国囲碁甲級リーグプレーオフ | Liao Yuanhe | Lian Xiao | Lose | W+R | 7.5 | 3270.0 | -7.0 | 
+| 2020-12-22 | 第22回中国囲碁甲級リーグプレーオフ | Liao Yuanhe | Xie Ke | Lose | W+R | 7.5 | 3277.0 | -8.0 | 
+| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Liao Yuanhe | Lose | B+R | 7.5 | 3285.0 | -6.0 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Liao Yuanhe | Jiang Weijie | Lose | W+R | 7.5 | 3291.0 | 41.0 | 
 | 2020-12-13 | 第22回中国囲碁甲級リーグ | Liao Yuanhe | Tao Xinran | Lose | W+R | 7.5 | 3250.0 | -10.0 | 
 | 2020-12-12 | 第22回中国囲碁甲級リーグ | Mi Yuting | Liao Yuanhe | Lose | B+R | 7.5 | 3260.0 | -29.0 | 
 | 2020-12-11 | 第22回中国囲碁甲級リーグ | Liao Yuanhe | Chen Yaoye | Lose | W+3¼ | 7.5 | 3289.0 | -46.0 | 
@@ -74,19 +76,19 @@
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Liao Yuanhe | Kim Jiseok | Lose | W+2¼ | 7.5 | 3472.0 | -32.0 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Liao Yuanhe | Cheng Jiaye | Win | B+1¾ | 7.5 | 3504.0 | -16.0 | 
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 | Yang Kaiwen | Liao Yuanhe | Lose | B+R | 7.5 | 3520.0 | -19.0 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Wang Shiyi | Liao Yuanhe | Win | W+R | 7.5 | 3539.0 | -56.0 | 
-| 2020-08-02 | 第7回グロービス杯世界囲碁U-20準決勝 | Moon Minjong | Liao Yuanhe | Lose | B+R | 6.5 | 3595.0 | 0.0 | 
-| 2020-08-02 | 第7回グロービス杯世界囲碁U-20 三位決定戦 | Park Sangjin | Liao Yuanhe | Win | W+R | 6.5 | 3595.0 | -18.0 | 
-| 2020-08-01 | 第7回グロービス杯世界囲碁U-20 2回戦 | Lai Junfu | Liao Yuanhe | Win | W+R | 6.5 | 3613.0 | 0.0 | 
-| 2020-08-01 | 第7回グロービス杯世界囲碁U-20 1回戦 | Liao Yuanhe | Seki Kotaro | Win | B+R | 6.5 | 3613.0 | 30.0 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Wang Shiyi | Liao Yuanhe | Win | W+R | 7.5 | 3539.0 | -57.0 | 
+| 2020-08-02 | 第7回グロービス杯世界囲碁U-20準決勝 | Moon Minjong | Liao Yuanhe | Lose | B+R | 6.5 | 3596.0 | 0.0 | 
+| 2020-08-02 | 第7回グロービス杯世界囲碁U-20 三位決定戦 | Park Sangjin | Liao Yuanhe | Win | W+R | 6.5 | 3596.0 | -18.0 | 
+| 2020-08-01 | 第7回グロービス杯世界囲碁U-20 2回戦 | Lai Junfu | Liao Yuanhe | Win | W+R | 6.5 | 3614.0 | 0.0 | 
+| 2020-08-01 | 第7回グロービス杯世界囲碁U-20 1回戦 | Liao Yuanhe | Seki Kotaro | Win | B+R | 6.5 | 3614.0 | 31.0 | 
 | 2020-06-14 | 第19回西南棋王戦2回戦 | Liu Yuhang | Liao Yuanhe | Lose | B+1¾ | 7.5 | 3583.0 | 0.0 | 
-| 2020-06-14 | 第19回西南棋王戦1回戦 | Yang Dingxin | Liao Yuanhe | Win | W+R | 7.5 | 3583.0 | -7.0 | 
-| 2020-04-20 | 第25回LG杯中国予選決勝 | Liao Yuanhe | Fan Yunruo | Lose | W+R | 6.5 | 3590.0 | -9.0 | 
-| 2020-04-13 | 第25回LG杯中国予選 | Liao Yuanhe | Mi Yuting | Win | B+R | 6.5 | 3599.0 | 2.0 | 
+| 2020-06-14 | 第19回西南棋王戦1回戦 | Yang Dingxin | Liao Yuanhe | Win | W+R | 7.5 | 3583.0 | -8.0 | 
+| 2020-04-20 | 第25回LG杯中国予選決勝 | Liao Yuanhe | Fan Yunruo | Lose | W+R | 6.5 | 3591.0 | -9.0 | 
+| 2020-04-13 | 第25回LG杯中国予選 | Liao Yuanhe | Mi Yuting | Win | B+R | 6.5 | 3600.0 | 3.0 | 
 | 2019-12-29 | 第5期洛陽白雲山杯中国棋聖戦予選 | Liao Yuanhe | Yi Lingtao | Lose | W+R | 7.5 | 3597.0 | -8.0 | 
-| 2019-12-28 | 第5期洛陽白雲山杯中国棋聖戦予選 | Liao Yuanhe | Dang Yifei | Win | B+R | 7.5 | 3605.0 | 0.0 | 
-| 2019-12-12 | 第21回中国囲碁甲級リーグ5位決定戦第3戦 | Hu Yaoyu | Liao Yuanhe | Win | W+R | 7.5 | 3605.0 | 12.0 | 
-| 2019-12-11 | 第21回中国囲碁甲級リーグ5位決定戦第2戦 | Wang Xinghao | Liao Yuanhe | Win | W+1¼ | 7.5 | 3593.0 | -5.0 | 
+| 2019-12-28 | 第5期洛陽白雲山杯中国棋聖戦予選 | Liao Yuanhe | Dang Yifei | Win | B+R | 7.5 | 3605.0 | -1.0 | 
+| 2019-12-12 | 第21回中国囲碁甲級リーグ5位決定戦第3戦 | Hu Yaoyu | Liao Yuanhe | Win | W+R | 7.5 | 3606.0 | 12.0 | 
+| 2019-12-11 | 第21回中国囲碁甲級リーグ5位決定戦第2戦 | Wang Xinghao | Liao Yuanhe | Win | W+1¼ | 7.5 | 3594.0 | -4.0 | 
 | 2019-12-09 | 第21回中国囲碁甲級リーグ5位決定戦第1戦 | Liao Yuanhe | Wang Xinghao | Lose | W+R | 7.5 | 3598.0 | -10.0 | 
 | 2019-11-17 | 第4回全国智力運動会男子団体戦第8戦 | Liao Yuanhe | Peng Liyao | Win | B+R | 7.5 | 3608.0 | 0.0 | 
 | 2019-11-17 | 第4回全国智力運動会男子団体戦第7戦 | Liao Yuanhe | Jiang Weijie | Win | B+R | 7.5 | 3608.0 | 9.0 | 
@@ -106,12 +108,12 @@
 | 2019-08-31 | 第24回三星火災杯世界囲碁マスターズ2回戦 | Huang Yunsong | Liao Yuanhe | Win | W+R | 6.5 | 3588.0 | 0.0 | 
 | 2019-08-30 | 第24回三星火災杯世界囲碁マスターズ1回戦 | Yu Lijun | Liao Yuanhe | Win | W+R | 6.5 | 3588.0 | 3.0 | 
 | 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Liao Yuanhe | Li Xuanhao | Lose | W+R | 7.5 | 3585.0 | 9.0 | 
-| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Liao Yuanhe | Li Qincheng | Win | B+R | 7.5 | 3576.0 | 39.0 | 
-| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Liao Yuanhe | Shin Minjun | Lose | W+R | 7.5 | 3537.0 | -9.0 | 
-| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Liao Yuanhe | Tuo Jiaxi | Lose | W+R | 7.5 | 3546.0 | 8.0 | 
-| 2019-08-05 | 第6回国手山脈国際囲碁大会世界プロ最強戦決勝 | Liao Yuanhe | Chen Yaoye | Lose | W+R | 6.5 | 3538.0 | -8.0 | 
-| 2019-08-04 | 第6回国手山脈国際囲碁大会世界プロ最強戦準決勝 | Liao Yuanhe | Byun Sangil | Win | B+R | 6.5 | 3546.0 | 0.0 | 
-| 2019-08-04 | 第6回国手山脈国際囲碁大会世界プロ最強戦8強戦 | Lee Donghoon | Liao Yuanhe | Win | W+R | 6.5 | 3546.0 | 23.0 | 
+| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Liao Yuanhe | Li Qincheng | Win | B+R | 7.5 | 3576.0 | 38.0 | 
+| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Liao Yuanhe | Shin Minjun | Lose | W+R | 7.5 | 3538.0 | -8.0 | 
+| 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Liao Yuanhe | Tuo Jiaxi | Lose | W+R | 7.5 | 3546.0 | 7.0 | 
+| 2019-08-05 | 第6回国手山脈国際囲碁大会世界プロ最強戦決勝 | Liao Yuanhe | Chen Yaoye | Lose | W+R | 6.5 | 3539.0 | -8.0 | 
+| 2019-08-04 | 第6回国手山脈国際囲碁大会世界プロ最強戦準決勝 | Liao Yuanhe | Byun Sangil | Win | B+R | 6.5 | 3547.0 | 0.0 | 
+| 2019-08-04 | 第6回国手山脈国際囲碁大会世界プロ最強戦8強戦 | Lee Donghoon | Liao Yuanhe | Win | W+R | 6.5 | 3547.0 | 24.0 | 
 | 2019-08-03 | 第6回国手山脈国際囲碁大会世界プロ最強戦16強戦 | Liao Yuanhe | Lee Jihyun | Win | B+R | 6.5 | 3523.0 | 6.0 | 
 | 2019-08-01 | 第21回農心杯中国選抜戦 | Liao Yuanhe | Mi Yuting | Lose | W+R | 6.5 | 3517.0 | -5.0 | 
 | 2019-07-31 | 第21回農心杯中国選抜戦 | Liao Yuanhe | Fan Yunruo | Win | B+R | 6.5 | 3522.0 | 8.0 | 
@@ -122,8 +124,8 @@
 | 2019-06-27 | 第21期阿含・桐山杯中国早碁オープン戦16強戦 | Liao Yuanhe | Fan Tingyu | Lose | W+¼ | 7.5 | 3552.0 | -12.0 | 
 | 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Wang Zejin | Liao Yuanhe | Win | W+R | 7.5 | 3564.0 | 13.0 | 
 | 2019-06-03 | 第21回中国囲碁甲級リーグ第7節 | Liao Yuanhe | Yi Lingtao | Win | B+R | 7.5 | 3551.0 | 6.0 | 
-| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Liao Yuanhe | Li Weiqing | Win | B+R | 7.5 | 3545.0 | -8.0 | 
-| 2019-05-27 | 第24回LG杯朝鮮日報棋王戦1回戦 | Shin Jinseo | Liao Yuanhe | Lose | B+R | 6.5 | 3553.0 | -49.0 | 
+| 2019-06-01 | 第21回中国囲碁甲級リーグ第6節 | Liao Yuanhe | Li Weiqing | Win | B+R | 7.5 | 3545.0 | -9.0 | 
+| 2019-05-27 | 第24回LG杯朝鮮日報棋王戦1回戦 | Shin Jinseo | Liao Yuanhe | Lose | B+R | 6.5 | 3554.0 | -48.0 | 
 | 2019-05-11 | 第21回中国囲碁甲級リーグ第5節 | Zhang Qiang | Liao Yuanhe | Win | W+R | 7.5 | 3602.0 | -9.0 | 
 | 2019-05-08 | 嫘祖杯第32期中国囲棋名人戦32強戦 | Liao Yuanhe | Jiang Weijie | Lose | W+R | 7.5 | 3611.0 | -6.0 | 
 | 2019-05-06 | 第21回中国囲碁甲級リーグ第4節 | Tu Xiaoyu | Liao Yuanhe | Win | W+R | 7.5 | 3617.0 | 15.0 | 
@@ -131,8 +133,8 @@
 | 2019-04-21 | 第16期倡棋杯中国プロ囲棋選手権戦本戦2回戦 | Mi Yuting | Liao Yuanhe | Lose | B+R | 7.5 | 3622.0 | 16.0 | 
 | 2019-04-19 | 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Xia Chenkun | Liao Yuanhe | Win | W+R | 7.5 | 3606.0 | -11.0 | 
 | 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Liao Yuanhe | Tao Xinran | Lose | W+R | 7.5 | 3617.0 | -13.0 | 
-| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節成都-浙江 | Kim Jiseok | Liao Yuanhe | Win | W+R | 7.5 | 3630.0 | 18.0 | 
-| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Liao Yuanhe | Peng Liyao | Lose | W+R | 7.5 | 3612.0 | -21.0 | 
+| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節成都-浙江 | Kim Jiseok | Liao Yuanhe | Win | W+R | 7.5 | 3630.0 | 17.0 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Liao Yuanhe | Peng Liyao | Lose | W+R | 7.5 | 3613.0 | -20.0 | 
 | 2019-03-23 | 第18回西南棋王戦2回戦 | Ke Jie | Liao Yuanhe | Lose | B+R | 7.5 | 3633.0 | 0.0 | 
 | 2019-03-23 | 第18回西南棋王戦1回戦 | Liao Yuanhe | Liu Qifeng | Win | B+R | 7.5 | 3633.0 | -10.0 | 
 | 2019-03-18 | 第3回ワールド碁チャンピオンシップ1回戦  | Park Junghwan | Liao Yuanhe | Lose | B+R | 6.5 | 3643.0 | -10.0 | 
@@ -180,8 +182,8 @@
 | 2018-05-14 | 第20回中国囲碁甲級リーグ第6節成都-江西 | Gu Zihao | Liao Yuanhe | Win | W+R | 7.5 | 3640.0 | 2.0 | 
 | 2018-05-12 | 第7回衢州・爛柯杯中国囲棋冠軍戦2回戦 | Yang Dingxin | Liao Yuanhe | Win | W+R | 7.5 | 3638.0 | 9.0 | 
 | 2018-05-11 | 第7回衢州・爛柯杯中国囲棋冠軍戦1回戦 | Meng Tailing | Liao Yuanhe | Win | W+R | 7.5 | 3629.0 | 7.0 | 
-| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節成都-杭州 | Ding Hao | Liao Yuanhe | Win | W+R | 7.5 | 3622.0 | 24.0 | 
-| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節重慶-成都 | Liao Yuanhe | Gu Li | Win | B+R | 7.5 | 3598.0 | 35.0 | 
+| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節成都-杭州 | Ding Hao | Liao Yuanhe | Win | W+R | 7.5 | 3622.0 | 23.0 | 
+| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節重慶-成都 | Liao Yuanhe | Gu Li | Win | B+R | 7.5 | 3599.0 | 36.0 | 
 | 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Gu Li | Liao Yuanhe | Lose | B+R | 7.5 | 3563.0 | -8.0 | 
 | 2018-03-30 | 第20回中国囲碁甲級リーグ第3節成都-中信 | Liao Yuanhe |  | Win | B+R | 7.5 | 3571.0 | 9.0 | 
 | 2018-03-28 | 第20回中国囲碁甲級リーグ第2節天津-成都 | Meng Tailing | Liao Yuanhe | Win | W+R | 7.5 | 3562.0 | -4.0 | 
@@ -192,8 +194,8 @@
 | 2018-01-23 | 第32期中国囲碁天元戦1回戦 | Liao Yuanhe | Li Qincheng | Win | B+R | 7.5 | 3505.0 | 15.0 | 
 | 2018-01-22 | 第32期中国囲碁天元戦予選 | Xie Erhao | Liao Yuanhe | Win | W+R | 7.5 | 3490.0 | 18.0 | 
 | 2018-01-08 | 第3回洛陽白雲山杯中国棋聖戦資格戦2 | Fan Tingyu | Liao Yuanhe | Lose | B+R | 7.5 | 3472.0 | -8.0 | 
-| 2018-01-07 | 第3期洛陽白雲山杯中国棋聖戦資格戦1 | Shen Peiran | Liao Yuanhe | Win | W+R | 7.5 | 3480.0 | 9.0 | 
-| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Tan Xiao | Liao Yuanhe | Win | W+R | 7.5 | 3471.0 | 37.0 | 
+| 2018-01-07 | 第3期洛陽白雲山杯中国棋聖戦資格戦1 | Shen Peiran | Liao Yuanhe | Win | W+R | 7.5 | 3480.0 | 8.0 | 
+| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Tan Xiao | Liao Yuanhe | Win | W+R | 7.5 | 3472.0 | 38.0 | 
 | 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Liao Yuanhe | Xie Ke | Lose | W+R | 7.5 | 3434.0 | -2.0 | 
 | 2017-11-26 | 2017呉清源杯中国U18新秀戦8強戦 | Yi Lingtao | Liao Yuanhe | Lose | B+R | 7.5 | 3436.0 | -8.0 | 
 | 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Liao Yuanhe | Fan Yunruo | Lose | W+R | 7.5 | 3444.0 | -4.0 | 
@@ -256,8 +258,8 @@
 | 2016-10-08 | 第18回中国囲碁甲級リーグ第14節 | Liao Yuanhe | Peng Liyao | Win | B+R | 7.5 | 3494.0 | 26.0 | 
 | 2016-09-20 | 2016年全国囲棋個人戦男子組第5戦 |  | Liao Yuanhe | Win | W+R | 7.5 | 3468.0 | 25.0 | 
 | 2016-08-09 | 2016年利民杯世界囲碁星鋭最強戦第2ステージ準決勝 | Liao Yuanhe | Lin Junyan | Win | B+R | 7.5 | 3443.0 | 0.0 | 
-| 2016-08-09 | 2016年利民杯世界囲碁星鋭最強戦第2ステージ決勝 | Xie Erhao | Liao Yuanhe | Win | W+R | 7.5 | 3443.0 | 30.0 | 
-| 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Liao Yuanhe |  | Win | B+R | 7.5 | 3413.0 | 33.0 | 
+| 2016-08-09 | 2016年利民杯世界囲碁星鋭最強戦第2ステージ決勝 | Xie Erhao | Liao Yuanhe | Win | W+R | 7.5 | 3443.0 | 29.0 | 
+| 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Liao Yuanhe |  | Win | B+R | 7.5 | 3414.0 | 34.0 | 
 | 2016-06-30 | 第3回百霊杯世界オープン戦2回戦 | Lee Donghoon | Liao Yuanhe | Lose | B+R | 7.5 | 3380.0 | -11.0 | 
 | 2016-06-28 | 第3回百霊杯世界オープン戦1回戦 |  | Liao Yuanhe | Win | W+R | 7.5 | 3391.0 | 19.0 | 
 | 2016-06-25 | 第18回中国囲碁甲級リーグ第10節 | Liao Yuanhe | Wu Guangya | Win | B+1.5 | 7.5 | 3372.0 | 61.0 | 
@@ -291,10 +293,10 @@
 | 2015-06-22 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Ding Shixiong | Liao Yuanhe | Lose | B+R | 7.5 | 3522.0 | -63.0 | 
 | 2015-06-20 | 2015年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Liao Yuanhe | Ke Jie | Lose | W+R | 7.5 | 3585.0 | -5.0 | 
 | 2015-06-16 | 第17期阿含・桐山杯中国早碁オープン戦予選 | Liao Yuanhe | Xie He | Win | B+R | 7.5 | 3590.0 | 35.0 | 
-| 2015-05-13 | 2015年中国囲碁乙級リーグ | Liao Yuanhe | Lin Lixiang | Win | B+R | 7.5 | 3555.0 | -28.0 | 
-| 2015-03-30 | 第22期建橋杯中国囲碁新人王戦決勝三番勝負第3局 | Huang Jingyuan | Liao Yuanhe | Win | W+R | 7.5 | 3583.0 | 37.0 | 
-| 2015-03-29 | 第22期建橋杯中国囲碁新人王戦決勝三番勝負第2局 | Liao Yuanhe | Huang Jingyuan | Win | B+R | 7.5 | 3546.0 | 78.0 | 
-| 2015-03-28 | 第22期建橋杯中国囲碁新人王戦決勝三番勝負第1局 | Huang Jingyuan | Liao Yuanhe | Lose | B+R | 7.5 | 3468.0 | 98.0 | 
+| 2015-05-13 | 2015年中国囲碁乙級リーグ | Liao Yuanhe | Lin Lixiang | Win | B+R | 7.5 | 3555.0 | -29.0 | 
+| 2015-03-30 | 第22期建橋杯中国囲碁新人王戦決勝三番勝負第3局 | Huang Jingyuan | Liao Yuanhe | Win | W+R | 7.5 | 3584.0 | 37.0 | 
+| 2015-03-29 | 第22期建橋杯中国囲碁新人王戦決勝三番勝負第2局 | Liao Yuanhe | Huang Jingyuan | Win | B+R | 7.5 | 3547.0 | 78.0 | 
+| 2015-03-28 | 第22期建橋杯中国囲碁新人王戦決勝三番勝負第1局 | Huang Jingyuan | Liao Yuanhe | Lose | B+R | 7.5 | 3469.0 | 99.0 | 
 | 2015-03-09 | 第14回西南棋王戦1回戦 | Shi Yue | Liao Yuanhe | Lose | B+R | 7.5 | 3370.0 | 9.0 | 
 | 2015-02-08 | 第22期建橋杯中国囲碁新人王戦準決勝 | Liao Yuanhe | Xie Ke | Win | B+R | 7.5 | 3361.0 | 74.0 | 
 | 2015-02-07 | 第22期建橋杯中国囲碁新人王戦3回戦 | Liao Yuanhe | Jiang Qirun | Win | B+R | 7.5 | 3287.0 | 128.0 | 

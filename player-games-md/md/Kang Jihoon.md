@@ -8,9 +8,11 @@
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-19 | 2021-2022フューチャーズリーグ | Park Jinyoung | Kang Jihoon | Lose | B+R | 6.5 | 3105.0 | -99.0 | 
+| 2022-02-05 | 2021-2022フューチャーズリーグ | Kim Miri | Kang Jihoon | Win | W+R | 6.5 | 3204.0 | 0.0 | 
 | 2022-01-26 | 2021-2022フューチャーズリーグ | Ryu Minhyung | Kang Jihoon | Lose | B+R | 6.5 | 3204.0 | 3.0 | 
 | 2022-01-16 | 2021-2022フューチャーズリーグ |  | Kang Jihoon | Win | W+5.5 | 6.5 | 3201.0 | -51.0 | 
 | 2022-01-14 | 2021-2022フューチャーズリーグ | Kang Jihoon | Shin Jaeweon | Win | B+R | 6.5 | 3252.0 | 11.0 | 
+| 2022-01-01 | 2021-2022フューチャーズリーグ | Kang Jihoon | Kim Changhoon | Win | B+T | 6.5 | 3241.0 | 0.0 | 
 | 2021-12-29 | 2021-2022フューチャーズリーグ | An Joyeong | Kang Jihoon | Lose | B+R | 6.5 | 3241.0 | 11.0 | 
 | 2021-12-18 | 2021-2022フューチャーズリーグ | Lee Wondo | Kang Jihoon | Lose | B+R | 6.5 | 3230.0 | -122.0 | 
 | 2021-12-11 | 第7回国手山脈韓国国内トーナメント準決勝 | Park Yeonghun | Kang Jihoon | Lose | B+R | 6.5 | 3352.0 | 277.0 | 

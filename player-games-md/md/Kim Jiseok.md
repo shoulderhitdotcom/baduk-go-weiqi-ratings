@@ -11,6 +11,7 @@
 | 2022-02-14 | 第23回マキシムコーヒー杯入神最強戦2回戦 | Kim Jiseok | Hong Seongji | Win | B+R | 6.5 | 3531.0 | 18.0 | 
 | 2022-02-12 | 第1回牛膝鳳爪杯韓国棋院選手権戦順位決定戦 | Kim Jiseok | Han Seungjoo | Win | B+R | 6.5 | 3513.0 | -11.0 | 
 | 2022-02-10 | 2021-2022韓国囲碁リーグ | Park Jinsol | Kim Jiseok | Lose | B+R | 6.5 | 3524.0 | -38.0 | 
+| 2022-02-05 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Weon Seongjin | Lose | W+R | 6.5 | 3562.0 | 0.0 | 
 | 2022-01-23 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Kim Jiseok | Park Junghwan | Lose | W+R | 6.5 | 3562.0 | -5.0 | 
 | 2022-01-21 | 2021-2022韓国囲碁リーグ | Lee Changho | Kim Jiseok | Win | W+R | 6.5 | 3567.0 | -10.0 | 
 | 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Hu Yuhan | Kim Jiseok | Win | W+¼ | 7.5 | 3577.0 | 1.0 | 

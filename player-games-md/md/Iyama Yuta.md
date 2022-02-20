@@ -8,6 +8,7 @@
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-19 | 第46期棋聖戦挑戦手合七番勝負第4局  | Ichiriki Ryo | Iyama Yuta | Lose | B+0.5 | 6.5 | 3579.0 | -20.0 | 
+| 2022-02-05 | 第46期棋聖戦挑戦手合七番勝負第3局  | Iyama Yuta | Ichiriki Ryo | Lose | W+R | 6.5 | 3599.0 | 0.0 | 
 | 2022-01-22 | 第46期棋聖戦挑戦手合七番勝負第2局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3599.0 | -4.0 | 
 | 2022-01-14 | 第46期棋聖戦挑戦手合七番勝負第1局  | Iyama Yuta | Ichiriki Ryo | Lose | W+R | 6.5 | 3603.0 | 41.0 | 
 | 2021-12-09 | 第69期王座戦挑戦手合五番勝負第5局  | Iyama Yuta | Shibano Toramaru | Win | B+R | 6.5 | 3562.0 | 17.0 | 
@@ -17,6 +18,8 @@
 | 2021-11-28 | 第23回農心辛ラーメン杯世界囲碁最強戦第7戦  | Byun Sangil | Iyama Yuta | Win | W+R | 6.5 | 3521.0 | 26.0 | 
 | 2021-11-27 | 第23回農心辛ラーメン杯世界囲碁最強戦第6戦  | Fan Tingyu | Iyama Yuta | Win | W+R | 6.5 | 3495.0 | -10.0 | 
 | 2021-11-19 | 第69期王座戦挑戦手合五番勝負第3局  | Iyama Yuta | Shibano Toramaru | Win | B+R | 6.5 | 3505.0 | 27.0 | 
+| 2021-11-12 | 第69期王座戦挑戦手合五番勝負第2局  | Shibano Toramaru | Iyama Yuta | Lose | B+R | 6.5 | 3478.0 | 0.0 | 
+| 2021-11-05 | 第46期名人戦挑戦手合七番勝負第7局  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3478.0 | 0.0 | 
 | 2021-10-29 | 第69期王座戦挑戦手合五番勝負第1局  | Iyama Yuta | Shibano Toramaru | Win | B+R | 6.5 | 3478.0 | -9.0 | 
 | 2021-10-25 | 第60期十段戦2回戦 | Adachi Toshimasa | Iyama Yuta | Lose | B+R | 6.5 | 3487.0 | -2.0 | 
 | 2021-10-20 | 第46期名人戦挑戦手合七番勝負第6局  | Iyama Yuta | Ichiriki Ryo | Win | B+R | 6.5 | 3489.0 | 1.0 | 
@@ -32,6 +35,7 @@
 | 2021-08-29 | 第46期碁聖戦挑戦手合五番勝負第5局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3525.0 | 18.0 | 
 | 2021-08-27 | 第46期名人戦挑戦手合七番勝負第1局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3507.0 | 10.0 | 
 | 2021-08-23 | 第28期阿含・桐山杯全日本早碁オープン戦準決勝 | Murakawa Daisuke | Iyama Yuta | Win | W+R | 6.5 | 3497.0 | 17.0 | 
+| 2021-08-20 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Iyama Yuta | Adachi Toshimasa | Win | B+R | 6.5 | 3480.0 | 0.0 | 
 | 2021-08-17 | 第46期碁聖戦挑戦手合五番勝負第4局  | Ichiriki Ryo | Iyama Yuta | Win | W+R | 6.5 | 3480.0 | -4.0 | 
 | 2021-08-02 | 第69期王座戦2回戦 | Yuki Satoshi | Iyama Yuta | Win | W+R | 6.5 | 3484.0 | 22.0 | 
 | 2021-07-22 | 第28期阿含・桐山杯全日本早碁オープン戦1回戦  | Fujisawa Rina | Iyama Yuta | Win | W+R | 6.5 | 3462.0 | 14.0 | 

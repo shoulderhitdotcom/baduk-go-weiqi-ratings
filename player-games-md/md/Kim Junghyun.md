@@ -8,6 +8,7 @@
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-19 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Lee Wonyoung | Lose | W+R | 6.5 | 3216.0 | -59.0 | 
+| 2022-02-11 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Park Joonhoon | Lose | W+1.5 | 6.5 | 3275.0 | 0.0 | 
 | 2022-02-09 | 2022YK建機杯予選 | Kim Junghyun | Weon Seongjin | Lose | W+R | 6.5 | 3275.0 | -17.0 | 
 | 2022-02-04 | 2021-2022韓国囲碁リーグ | Lee Taehyun | Kim Junghyun | Win | W+R | 6.5 | 3292.0 | 22.0 | 
 | 2022-01-22 | 2021-2022韓国囲碁リーグ | Kim Junghyun | Park Jinsol | Lose | W+5.5 | 6.5 | 3270.0 | -18.0 | 
@@ -52,6 +53,7 @@
 | 2019-09-09 | 第3回安東市真貯蓄銀行杯プロアマオープン戦32強戦 | Kim Junghyun | Choi Jeong | Lose | W+R | 6.5 | 3379.0 | -52.0 | 
 | 2019-06-26 | 第6回国手山脈韓国国内トーナメント予選 | Kim Junghyun | Mok Jinseok | Win | B+R | 6.5 | 3431.0 | 19.0 | 
 | 2019-05-04 | 2019年囲碁テレビ杯早碁戦32強戦 | Song Jihoon | Kim Junghyun | Lose | B+R | 6.5 | 3412.0 | 78.0 | 
+| 2019-04-10 | 2019年囲碁テレビ杯早碁戦64強戦 | Paek Hongseok | Kim Junghyun | Win | W+R | 6.5 | 3334.0 | 0.0 | 
 | 2017-10-29 | 2017年韓国囲碁リーグ | Kim Junghyun | Park Jinsol | Lose | W+R | 6.5 | 3334.0 | 0.0 | 
 | 2017-10-12 | 2017年韓国囲碁リーグ | Han Taehee | Kim Junghyun | Win | W+R | 6.5 | 3334.0 | 16.0 | 
 | 2017-10-06 | 2017年韓国囲碁リーグ | Kim Junghyun | Yun Chanhee | Win | B+R | 6.5 | 3318.0 | 41.0 | 

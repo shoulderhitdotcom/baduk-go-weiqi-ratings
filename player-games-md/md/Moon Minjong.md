@@ -8,6 +8,7 @@
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-19 | 2021-2022韓国囲碁リーグ | Moon Minjong | Song Jihoon | Lose | W+0.5 | 6.5 | 3275.0 | -30.0 | 
+| 2022-02-05 | 2021-2022韓国囲碁リーグ | Gon Jiwoo | Moon Minjong | Lose | B+R | 6.5 | 3305.0 | 0.0 | 
 | 2022-01-28 | 2022議政府国際新鋭団体戦韓国予選 |  | Moon Minjong | Win | W+R | 6.5 | 3305.0 | 5.0 | 
 | 2022-01-27 | 2022議政府国際新鋭団体戦韓国予選 |  | Moon Minjong | Win | W+R | 6.5 | 3300.0 | 7.0 | 
 | 2022-01-25 | 2022議政府国際新鋭団体戦韓国予選 | Moon Minjong |  | Win | B+R | 6.5 | 3293.0 | 23.0 | 
@@ -27,6 +28,7 @@
 | 2021-10-07 | 第3期ソパルコサノル最高棋士決定戦予選 | Oh Yujin | Moon Minjong | Win | W+R | 6.5 | 3268.0 | -9.0 | 
 | 2021-09-24 | 第3期ソパルコサノル最高棋士決定戦予選 | Lee Yeongkyu | Moon Minjong | Win | W+R | 6.5 | 3277.0 | 80.0 | 
 | 2021-09-02 | 第3期ソパルコサノル最高棋士決定戦予選 | Moon Minjong | Jen Youngkyu | Win | B+R | 6.5 | 3197.0 | -78.0 | 
+| 2021-07-26 | 2021陜川歴代英才vs女子頂上連勝対抗戦第7局 | Moon Minjong | Oh Yujin | Win | B+R | 6.5 | 3275.0 | 0.0 | 
 | 2021-07-15 | 第23回農心杯韓国予選 | Moon Minjong | Han Wonggyu | Lose | W+R | 6.5 | 3275.0 | -5.0 | 
 | 2021-07-13 | 2021陜川歴代英才vs女子頂上連勝対抗戦第6局 | Kim Cheayoung | Moon Minjong | Win | W+R | 6.5 | 3280.0 | 0.0 | 
 | 2021-07-12 | 2021陜川歴代英才vs女子頂上連勝対抗戦第5局 | Kim Hyeoimin | Moon Minjong | Win | W+4.5 | 6.5 | 3280.0 | 29.0 | 

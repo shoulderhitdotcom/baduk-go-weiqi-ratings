@@ -8,7 +8,9 @@
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-19 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Seol Hyunjun | Lose | B+R | 6.5 | 3463.0 | -31.0 | 
+| 2022-02-11 | 2022YK建機杯予選 | Seol Hyunjun |  | Win | B+R | 6.5 | 3494.0 | 0.0 | 
 | 2022-02-10 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | Choi Jeong | Lose | W+R | 6.5 | 3494.0 | 21.0 | 
+| 2022-02-05 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | Cho Hanseung | Win | B+R | 6.5 | 3473.0 | 0.0 | 
 | 2022-01-21 | 2021-2022韓国囲碁リーグ | Seol Hyunjun | An Sungjoon | Lose | W+R | 6.5 | 3473.0 | -21.0 | 
 | 2022-01-18 | 第5回クラウン・ヘテ杯準決勝 | Seol Hyunjun | Byun Sangil | Lose | W+R | 6.5 | 3494.0 | 13.0 | 
 | 2022-01-14 | 2021-2022韓国囲碁リーグ | Byun Sangil | Seol Hyunjun | Win | W+R | 6.5 | 3481.0 | 0.0 | 
@@ -27,6 +29,8 @@
 | 2021-11-18 | 第7回国手山脈韓国国内トーナメント予選 | Seol Hyunjun | Lee Changho | Win | B+R | 6.5 | 3395.0 | -3.0 | 
 | 2021-11-10 | 第3回大統領杯全国囲碁大会予選 | Park Yeonghun | Seol Hyunjun | Win | W+R | 6.5 | 3398.0 | -16.0 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Seol Hyunjun | Xie Ke | Lose | W+R | 6.5 | 3414.0 | -11.0 | 
+| 2021-10-04 | 第3期ソパルコサノル最高棋士決定戦予選 |  | Seol Hyunjun | Lose | B+R | 6.5 | 3425.0 | 0.0 | 
+| 2021-08-25 | 第26回三星火災杯韓国予選 | Kim Jinhyu | Seol Hyunjun | Win | W+R | 6.5 | 3425.0 | 0.0 | 
 | 2021-06-14 | 第2期ソパルコサノル最高棋士決定戦リーグ | Lee Changho | Seol Hyunjun | Win | W+R | 6.5 | 3425.0 | -7.0 | 
 | 2021-05-27 | 第2期ソパルコサノル最高棋士決定戦リーグ | Seol Hyunjun | Lee Changseok | Lose | W+R | 6.5 | 3432.0 | -14.0 | 
 | 2021-05-19 | 第2期ソパルコサノル最高棋士決定戦リーグ | Kang Dongyun | Seol Hyunjun | Lose | B+R | 6.5 | 3446.0 | 23.0 | 

@@ -12,6 +12,9 @@
 | 2022-01-23 | 2021-2022韓国囲碁リーグ | Lee Changseok | Han Sanghoon | Win | B+R | 6.5 | 3537.0 | 1.0 | 
 | 2022-01-14 | 2021-2022韓国囲碁リーグ | Park Sangjin | Lee Changseok | Lose | B+R | 6.5 | 3536.0 | 4.0 | 
 | 2022-01-07 | 2021-2022韓国囲碁リーグ |  | Lee Changseok | Win | W+R | 6.5 | 3532.0 | -6.0 | 
+| 2022-01-02 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Choi Jeong | Lee Changseok | Win | W+R | 6.5 | 3538.0 | 0.0 | 
+| 2022-01-01 | 2021-2022韓国囲碁リーグ | Kim Jinhyu | Lee Changseok | Win | W+R | 6.5 | 3538.0 | 0.0 | 
+| 2021-12-30 | 第5回クラウン・ヘテ杯2回戦 | Lee Changseok | Song Gyusang | Lose | W+0.5 | 6.5 | 3538.0 | 0.0 | 
 | 2021-12-23 | 2021-2022韓国囲碁リーグ | Hong Seongji | Lee Changseok | Win | W+R | 6.5 | 3538.0 | -6.0 | 
 | 2021-12-18 | 2021-2022韓国囲碁リーグ | Lee Changseok | Lee Yeongkyu | Win | B+R | 6.5 | 3544.0 | -8.0 | 
 | 2021-12-10 | 第7回国手山脈韓国国内トーナメント1回戦 | Baek Hyeonwoo | Lee Changseok | Lose | B+4.5 | 6.5 | 3552.0 | -6.0 | 
@@ -31,6 +34,7 @@
 | 2021-09-27 | 第7回国手山脈国際囲碁大会韓国予選 | Weon Seongjin | Lee Changseok | Lose | B+R | 6.5 | 3539.0 | -18.0 | 
 | 2021-09-24 | 第7回国手山脈国際囲碁大会韓国予選 | Lee Changseok | Park Geunho | Win | B+1.5 | 6.5 | 3557.0 | 13.0 | 
 | 2021-09-04 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Lee Changseok | Park Junghwan | Lose | W+R | 6.5 | 3544.0 | 1.0 | 
+| 2021-08-25 | 第26回三星火災杯韓国予選 |  | Lee Changseok | Win | W+R | 6.5 | 3543.0 | 0.0 | 
 | 2021-08-21 | 第26回三星火災杯韓国予選 |  | Lee Changseok | Win | W+R | 6.5 | 3543.0 | -3.0 | 
 | 2021-08-08 | 第1回牛膝鳳爪杯韓国棋院選手権戦リーグ | Weon Seongjin | Lee Changseok | Lose | B+R | 6.5 | 3546.0 | 4.0 | 
 | 2021-07-09 | 第44期名人戦（韓国）敗者復活戦5回戦 | Shin Jinseo | Lee Changseok | Lose | B+R | 6.5 | 3542.0 | -3.0 | 

@@ -7,21 +7,21 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-02-15 | 第36期中国囲碁天元戦1回戦 | Xia Chenkun | Chen Xian | Lose | W+R | 7.5 | 3417.0 | -23.0 | 
-| 2022-01-20 | 第23回中国囲碁甲級リーグ優勝決定戦第2戦 | Lian Xiao | Xia Chenkun | Lose | B+R | 7.5 | 3440.0 | -18.0 | 
-| 2022-01-19 | 第23回中国囲碁甲級リーグ優勝決定戦第1戦 | Lian Xiao | Xia Chenkun | Lose | B+R | 7.5 | 3458.0 | -17.0 | 
-| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Tu Xiaoyu | Xia Chenkun | Lose | B+R | 7.5 | 3475.0 | -14.0 | 
-| 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Tu Xiaoyu | Lose | W+R | 7.5 | 3489.0 | -12.0 | 
-| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Peng Liyao | Xia Chenkun | Win | W+R | 7.5 | 3501.0 | 22.0 | 
-| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Gu Zihao | Xia Chenkun | Lose | B+R | 7.5 | 3479.0 | -4.0 | 
-| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Zhou Ruiyang | Lose | W+R | 7.5 | 3483.0 | -20.0 | 
-| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Xia Chenkun | Lose | B+R | 7.5 | 3503.0 | 50.0 | 
+| 2022-02-15 | 第36期中国囲碁天元戦予選 | Xia Chenkun | Chen Xian | Lose | W+R | 7.5 | 3418.0 | -23.0 | 
+| 2022-01-20 | 第23回中国囲碁甲級リーグ優勝決定戦第2戦 | Lian Xiao | Xia Chenkun | Lose | B+R | 7.5 | 3441.0 | -18.0 | 
+| 2022-01-19 | 第23回中国囲碁甲級リーグ優勝決定戦第1戦 | Lian Xiao | Xia Chenkun | Lose | B+R | 7.5 | 3459.0 | -17.0 | 
+| 2022-01-17 | 第23回中国囲碁甲級リーグプレーオフ | Tu Xiaoyu | Xia Chenkun | Lose | B+R | 7.5 | 3476.0 | -14.0 | 
+| 2022-01-16 | 第23回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Tu Xiaoyu | Lose | W+R | 7.5 | 3490.0 | -12.0 | 
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Peng Liyao | Xia Chenkun | Win | W+R | 7.5 | 3502.0 | 22.0 | 
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Gu Zihao | Xia Chenkun | Lose | B+R | 7.5 | 3480.0 | -4.0 | 
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Xia Chenkun | Zhou Ruiyang | Lose | W+R | 7.5 | 3484.0 | -20.0 | 
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Fan Tingyu | Xia Chenkun | Lose | B+R | 7.5 | 3504.0 | 51.0 | 
 | 2021-09-30 | 第23回中国囲碁甲級リーグ | Tong Mengcheng | Xia Chenkun | Lose | B+R | 7.5 | 3453.0 | -25.0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Xia Chenkun | Wang Xinghao | Win | B+¾ | 7.5 | 3478.0 | 20.0 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Yunong | Xia Chenkun | Win | W+R | 7.5 | 3458.0 | 11.0 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Wang Zejin | Xia Chenkun | Lose | B+R | 7.5 | 3447.0 | -14.0 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Xia Chenkun | Kang Dongyun | Win | B+R | 7.5 | 3461.0 | 107.0 | 
-| 2021-08-24 | 第12期中国竜星戦予選 | Han Yizhou | Xia Chenkun | Lose | B+R | 7.5 | 3354.0 | 13.0 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Xia Chenkun | Kang Dongyun | Win | B+R | 7.5 | 3461.0 | 106.0 | 
+| 2021-08-24 | 第12期中国竜星戦予選 | Han Yizhou | Xia Chenkun | Lose | B+R | 7.5 | 3355.0 | 14.0 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Shin Minjun | Xia Chenkun | Win | W+R | 7.5 | 3341.0 | 28.0 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | He Yuhan | Xia Chenkun | Win | W+R | 7.5 | 3313.0 | 29.0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Peng Liyao | Xia Chenkun | Lose | B+R | 7.5 | 3284.0 | -27.0 | 
@@ -49,16 +49,16 @@
 | 2020-08-27 | 第22回中国囲碁甲級リーグ第4節 | Rong Yi | Xia Chenkun | Lose | B+R | 7.5 | 3578.0 | -98.0 | 
 | 2020-08-26 | 第22回中国囲碁甲級リーグ第3節 | Xia Chenkun | Mi Yuting | Lose | W+R | 7.5 | 3676.0 | -78.0 | 
 | 2020-08-25 | 第22回中国囲碁甲級リーグ第2節 |  | Xia Chenkun | Win | W+R | 7.5 | 3754.0 | -20.0 | 
-| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Fan Tingyu | Xia Chenkun | Win | W+R | 7.5 | 3774.0 | 265.0 | 
-| 2019-12-11 | 第21回中国囲碁甲級リーグ優勝決定戦第2戦 | Li Qincheng | Xia Chenkun | Lose | B+R | 7.5 | 3509.0 | -27.0 | 
+| 2020-08-24 | 第22回中国囲碁甲級リーグ第1節 | Fan Tingyu | Xia Chenkun | Win | W+R | 7.5 | 3774.0 | 264.0 | 
+| 2019-12-11 | 第21回中国囲碁甲級リーグ優勝決定戦第2戦 | Li Qincheng | Xia Chenkun | Lose | B+R | 7.5 | 3510.0 | -26.0 | 
 | 2019-12-09 | 第21回中国囲碁甲級リーグ優勝決定戦第1戦 | Li Qincheng | Xia Chenkun | Win | W+¼ | 7.5 | 3536.0 | 38.0 | 
 | 2019-11-06 | 第21回中国囲碁甲級リーグプレーオフ3回戦第2戦 | Sun Tengyu | Xia Chenkun | Win | W+¼ | 7.5 | 3498.0 | 12.0 | 
 | 2019-11-04 | 第21回中国囲碁甲級リーグプレーオフ3回戦第1戦 | Xia Chenkun | Sun Tengyu | Win | B+R | 7.5 | 3486.0 | 25.0 | 
 | 2019-10-07 | 第21回中国囲碁甲級リーグプレーオフ2回戦第2戦 | Hu Yaoyu | Xia Chenkun | Win | W+2¼ | 7.5 | 3461.0 | 13.0 | 
 | 2019-10-05 | 第21回中国囲碁甲級リーグプレーオフ2回戦第1戦 | Li Weiqing | Xia Chenkun | Win | W+R | 7.5 | 3448.0 | 40.0 | 
 | 2019-08-26 | 第21回中国囲碁甲級リーグ第15節 | Huang Jingyuan | Xia Chenkun | Win | W+2¼ | 7.5 | 3408.0 | 18.0 | 
-| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Xia Chenkun | Sun Tengyu | Lose | W+R | 7.5 | 3390.0 | 12.0 | 
-| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Chen Hao | Xia Chenkun | Lose | B+R | 7.5 | 3378.0 | -12.0 | 
+| 2019-08-24 | 第21回中国囲碁甲級リーグ第14節 | Xia Chenkun | Sun Tengyu | Lose | W+R | 7.5 | 3390.0 | 11.0 | 
+| 2019-08-12 | 第21回中国囲碁甲級リーグ第13節 | Chen Hao | Xia Chenkun | Lose | B+R | 7.5 | 3379.0 | -11.0 | 
 | 2019-08-10 | 第21回中国囲碁甲級リーグ第12節 | Wang Zejin | Xia Chenkun | Win | W+R | 7.5 | 3390.0 | 36.0 | 
 | 2019-07-29 | 第21回中国囲碁甲級リーグ第11節 | Chen Zijian | Xia Chenkun | Win | W+1¼ | 7.5 | 3354.0 | 1.0 | 
 | 2019-07-22 | 第21回中国囲碁甲級リーグ第10節 | Li Weiqing | Xia Chenkun | Lose | B+R | 7.5 | 3353.0 | -12.0 | 
@@ -70,10 +70,10 @@
 | 2019-04-29 | 第21回中国囲碁甲級リーグ第3節 | Xia Chenkun | Lian Xiao | Lose | W+R | 7.5 | 3439.0 | 2.0 | 
 | 2019-04-19 | 第16期倡棋杯中国プロ囲棋選手権戦本戦1回戦 | Xia Chenkun | Liao Yuanhe | Lose | W+R | 7.5 | 3437.0 | -23.0 | 
 | 2019-04-17 | 第21回中国囲碁甲級リーグ第2節 | Wang Shuo | Xia Chenkun | Win | W+2¼ | 7.5 | 3460.0 | 13.0 | 
-| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節杭州-北京 | Kim Myounghoon | Xia Chenkun | Win | W+R | 7.5 | 3447.0 | -16.0 | 
-| 2019-04-04 | 第24回LG杯統合予選3回戦 | Na Hyun | Xia Chenkun | Lose | B+1.5 | 6.5 | 3463.0 | -9.0 | 
-| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Xia Chenkun | Chen Zijian | Lose | W+R | 7.5 | 3472.0 | 0.0 | 
-| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Xia Chenkun | Li Xuanhao | Win | B+R | 7.5 | 3472.0 | 19.0 | 
+| 2019-04-15 | 第21回中国囲碁甲級リーグ第1節杭州-北京 | Kim Myounghoon | Xia Chenkun | Win | W+R | 7.5 | 3447.0 | -17.0 | 
+| 2019-04-04 | 第24回LG杯統合予選3回戦 | Na Hyun | Xia Chenkun | Lose | B+1.5 | 6.5 | 3464.0 | -9.0 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦2回戦 | Xia Chenkun | Chen Zijian | Lose | W+R | 7.5 | 3473.0 | 0.0 | 
+| 2019-03-28 | 2019CCTV杯中国囲棋電視快棋戦1回戦 | Xia Chenkun | Li Xuanhao | Win | B+R | 7.5 | 3473.0 | 20.0 | 
 | 2019-03-04 | 第16期倡棋杯中国プロ囲棋選手権戦2回戦 | Xia Chenkun | Peng Liyao | Win | B+R | 7.5 | 3453.0 | 19.0 | 
 | 2019-03-03 | 第16期倡棋杯中国プロ囲棋選手権戦1回戦 | Xia Chenkun | Chen Zijian | Win | B+R | 7.5 | 3434.0 | 15.0 | 
 | 2019-02-28 | 第16期倡棋杯中国プロ囲棋選手権戦予選準決勝 | Xia Chenkun | Gu Li | Win | B+¾ | 7.5 | 3419.0 | 21.0 | 
@@ -103,15 +103,15 @@
 | 2018-06-02 | 第20回中国囲碁甲級リーグ第8節杭州-上海 | Hu Yaoyu | Xia Chenkun | Win | W+R | 7.5 | 3605.0 | 9.0 | 
 | 2018-05-21 | 第20回中国囲碁甲級リーグ第7節江西-杭州 | Tu Xiaoyu | Xia Chenkun | Win | W+R | 7.5 | 3596.0 | 45.0 | 
 | 2018-05-14 | 第20回中国囲碁甲級リーグ第6節杭州-山東 | Xia Chenkun | Yi Lingtao | Lose | W+R | 7.5 | 3551.0 | -14.0 | 
-| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節成都-杭州 | Xia Chenkun | Dang Yifei | Win | B+R | 7.5 | 3565.0 | 43.0 | 
-| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節杭州-衢州 | Xia Chenkun | Huang Xin | Win | B+R | 7.5 | 3522.0 | 20.0 | 
+| 2018-05-09 | 第20回中国囲碁甲級リーグ第5節成都-杭州 | Xia Chenkun | Dang Yifei | Win | B+R | 7.5 | 3565.0 | 42.0 | 
+| 2018-04-25 | 第20回中国囲碁甲級リーグ第4節杭州-衢州 | Xia Chenkun | Huang Xin | Win | B+R | 7.5 | 3523.0 | 21.0 | 
 | 2018-04-10 | 2018CCTV杯中国囲棋電視快棋戦3回戦 | Zhou Ruiyang | Xia Chenkun | Lose | B+R | 7.5 | 3502.0 | -16.0 | 
 | 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦2回戦 | Xia Chenkun | Li Xuanhao | Win | B+R | 7.5 | 3518.0 | 0.0 | 
 | 2018-04-09 | 2018CCTV杯中国囲棋電視快棋戦1回戦 | Xia Chenkun | Tan Xiao | Win | B+2¾ | 7.5 | 3518.0 | 45.0 | 
 | 2018-03-30 | 第20回中国囲碁甲級リーグ第3節重慶-杭州 | Xia Chenkun | Gu Li | Win | B+R | 7.5 | 3473.0 | 21.0 | 
 | 2018-03-28 | 第20回中国囲碁甲級リーグ第2節杭州-民生 | Tao Xinran | Xia Chenkun | Lose | B+R | 7.5 | 3452.0 | -21.0 | 
-| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節中信-杭州 | Xia Chenkun | Tuo Jiaxi | Lose | W+R | 7.5 | 3473.0 | 22.0 | 
-| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Xia Chenkun | Wang Zejin | Win | B+R | 7.5 | 3451.0 | 48.0 | 
+| 2018-03-26 | 第20回中国囲碁甲級リーグ第1節中信-杭州 | Xia Chenkun | Tuo Jiaxi | Lose | W+R | 7.5 | 3473.0 | 21.0 | 
+| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Xia Chenkun | Wang Zejin | Win | B+R | 7.5 | 3452.0 | 49.0 | 
 | 2017-11-30 | 第19回中国囲碁甲級リーグ第25節 | Zhao Chenyu | Xia Chenkun | Lose | B+R | 7.5 | 3403.0 | -16.0 | 
 | 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Xia Chenkun |  | Win | B+R | 7.5 | 3419.0 | 34.0 | 
 | 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Xia Chenkun | Huang Xin | Win | B+R | 7.5 | 3385.0 | 18.0 | 
@@ -142,8 +142,8 @@
 | 2016-12-17 | 嫘祖杯第29期中国名人戦網選3回戦 | Chen Yunong | Xia Chenkun | Win | W+R | 7.5 | 3297.0 | -23.0 | 
 | 2016-12-01 | 第18回中国囲碁甲級リーグ第21節 | Xia Chenkun | Tuo Jiaxi | Lose | W+R | 7.5 | 3320.0 | -5.0 | 
 | 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Lian Xiao | Xia Chenkun | Lose | B+R | 7.5 | 3325.0 | -7.0 | 
-| 2016-11-12 | 第18回中国囲碁甲級リーグ第18節 | Xia Chenkun | Kim Jiseok | Lose | W+R | 7.5 | 3332.0 | 4.0 | 
-| 2016-11-08 | 第1回新奥杯世界囲碁オープン戦2回戦 | Xia Chenkun | Chen Yaoye | Lose | W+R | 7.5 | 3328.0 | -4.0 | 
+| 2016-11-12 | 第18回中国囲碁甲級リーグ第18節 | Xia Chenkun | Kim Jiseok | Lose | W+R | 7.5 | 3332.0 | 3.0 | 
+| 2016-11-08 | 第1回新奥杯世界囲碁オープン戦2回戦 | Xia Chenkun | Chen Yaoye | Lose | W+R | 7.5 | 3329.0 | -3.0 | 
 | 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Xia Chenkun | Jiang Zhujiu | Win | B+R | 7.5 | 3332.0 | -6.0 | 
 | 2016-11-04 | 第18回中国囲碁甲級リーグ第17節 | Xia Chenkun | Wang Zejin | Lose | W+0.5 | 7.5 | 3338.0 | 2.0 | 
 | 2016-10-28 | 第18回中国囲碁甲級リーグ第16節 | Zhao Chenyu | Xia Chenkun | Win | W+R | 7.5 | 3336.0 | 39.0 | 
@@ -205,15 +205,15 @@
 | 2014-10-03 | 2014年国際新鋭囲碁対抗戦第3戦 | Chen Qirui | Xia Chenkun | Win | W+3.5 | 6.5 | 3564.0 | 20.0 | 
 | 2014-10-02 | 2014年国際新鋭囲碁対抗戦第2戦 | Kim Jinhyu | Xia Chenkun | Win | W+R | 6.5 | 3544.0 | 31.0 | 
 | 2014-10-01 | 2014年国際新鋭囲碁対抗戦第1戦 | Xia Chenkun | Koyama Kuya | Win | B+4.5 | 6.5 | 3513.0 | -108.0 | 
-| 2014-05-26 | 第27期中国囲碁名人戦準決勝 | Xia Chenkun | Zhou Ruiyang | Lose | W+R | 7.5 | 3621.0 | -81.0 | 
-| 2014-05-16 | 第11期倡棋杯中国プロ囲碁選手権戦予選 | Xia Chenkun | Li Zhe | Lose | W+R | 7.5 | 3702.0 | -7.0 | 
-| 2014-05-14 | 第11期倡棋杯中国プロ囲碁選手権戦予選 | Sun Li | Xia Chenkun | Win | W+5 | 7.5 | 3709.0 | 7.0 | 
+| 2014-05-26 | 第27期中国囲碁名人戦準決勝 | Xia Chenkun | Zhou Ruiyang | Lose | W+R | 7.5 | 3621.0 | -82.0 | 
+| 2014-05-16 | 第11期倡棋杯中国プロ囲碁選手権戦予選 | Xia Chenkun | Li Zhe | Lose | W+R | 7.5 | 3703.0 | -7.0 | 
+| 2014-05-14 | 第11期倡棋杯中国プロ囲碁選手権戦予選 | Sun Li | Xia Chenkun | Win | W+5 | 7.5 | 3710.0 | 8.0 | 
 | 2014-05-11 | 第1回グロービス杯世界囲碁U-20準決勝 | Hsu Chiayuan | Xia Chenkun | Lose | B+R | 6.5 | 3702.0 | 0.0 | 
 | 2014-05-11 | 第1回グロービス杯世界囲碁U-20三位決定戦 | Lian Xiao | Xia Chenkun | Lose | B+3.5 | 6.5 | 3702.0 | -61.0 | 
-| 2014-05-10 | 第1回グロービス杯世界囲碁U-20準々決勝 | Xia Chenkun | Lin Junyan | Win | B+8.5 | 6.5 | 3763.0 | -2.0 | 
-| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグA | Xia Chenkun | Tsuruta Kazushi | Win | B+2.5 | 6.5 | 3765.0 | 0.0 | 
-| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグA | Xia Chenkun | Na Hyun | Win | B+R | 6.5 | 3765.0 | 2.0 | 
-| 2014-05-03 | 2014年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Mi Yuting | Xia Chenkun | Win | W+R | 7.5 | 3763.0 | 15.0 | 
+| 2014-05-10 | 第1回グロービス杯世界囲碁U-20準々決勝 | Xia Chenkun | Lin Junyan | Win | B+8.5 | 6.5 | 3763.0 | -3.0 | 
+| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグA | Xia Chenkun | Tsuruta Kazushi | Win | B+2.5 | 6.5 | 3766.0 | 0.0 | 
+| 2014-05-09 | 第1回グロービス杯世界囲碁U-20グループリーグA | Xia Chenkun | Na Hyun | Win | B+R | 6.5 | 3766.0 | 2.0 | 
+| 2014-05-03 | 2014年利民杯世界囲碁星鋭最強戦第1ステージ決勝 | Mi Yuting | Xia Chenkun | Win | W+R | 7.5 | 3764.0 | 16.0 | 
 | 2014-05-01 | 2014年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Yu Zhengqi | Xia Chenkun | Win | W+6.5 | 7.5 | 3748.0 | 20.0 | 
 | 2014-04-19 | 第19回LG杯予選 | Xia Chenkun | Piao Wenyao | Lose | W+R | 6.5 | 3728.0 | 36.0 | 
 | 2014-04-08 | 第27期中国囲碁名人戦3回戦 | Xia Chenkun | Kong Jie | Win | B+R | 7.5 | 3692.0 | 27.0 | 
@@ -234,8 +234,8 @@
 | 2013-06-10 | 第18回LG杯朝鮮日報棋王戦1回戦 | Kim Jiseok | Xia Chenkun | Win | W+0.5 | 6.5 | 3455.0 | 79.0 | 
 | 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Tuo Jiaxi | Xia Chenkun | Lose | B+R | 7.5 | 3376.0 | 0.0 | 
 | 2013-06-05 | 第15期阿含・桐山杯中国早碁オープン戦予選 | Li Qincheng | Xia Chenkun | Win | W+0.5 | 7.5 | 3376.0 | 40.0 | 
-| 2013-04-10 | 第26期中国囲碁名人戦予選 | Xia Chenkun |  | Lose | W+R | 7.5 | 3336.0 | -47.0 | 
-| 2012-09-13 | 2012ジャステック杯国際新鋭囲碁対抗戦第3戦 | Xia Chenkun | Shin Jinseo | Win | B+R | 6.5 | 3383.0 | missing |
+| 2013-04-10 | 第26期中国囲碁名人戦予選 | Xia Chenkun |  | Lose | W+R | 7.5 | 3336.0 | -48.0 | 
+| 2012-09-13 | 2012ジャステック杯国際新鋭囲碁対抗戦第3戦 | Xia Chenkun | Shin Jinseo | Win | B+R | 6.5 | 3384.0 | missing |
 
 
 

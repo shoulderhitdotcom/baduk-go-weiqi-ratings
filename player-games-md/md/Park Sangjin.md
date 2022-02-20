@@ -9,11 +9,13 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-19 | 2021-2022韓国囲碁リーグ | Park Sangjin | Lee Yeongkyu | Lose | W+R | 6.5 | 3381.0 | 3.0 | 
 | 2022-02-10 | 2021-2022韓国囲碁リーグ | Park Hamin | Park Sangjin | Win | W+R | 6.5 | 3378.0 | 0.0 | 
+| 2022-02-05 | 2021-2022韓国囲碁リーグ | Park Sangjin | Shin Jinseo | Lose | W+R | 6.5 | 3378.0 | 0.0 | 
 | 2022-01-21 | 2021-2022韓国囲碁リーグ | Park Sangjin | Ahn Kukhyun | Win | B+R | 6.5 | 3378.0 | -2.0 | 
 | 2022-01-17 | 第5回クラウン・ヘテ杯準決勝 | Park Sangjin | Han Seungjoo | Lose | W+R | 6.5 | 3380.0 | -3.0 | 
 | 2022-01-14 | 2021-2022韓国囲碁リーグ | Park Sangjin | Lee Changseok | Win | B+R | 6.5 | 3383.0 | 4.0 | 
 | 2022-01-13 | 第5回クラウン・ヘテ杯3回戦 | Song Gyusang | Park Sangjin | Win | W+R | 6.5 | 3379.0 | 23.0 | 
 | 2022-01-08 | 2021-2022韓国囲碁リーグ | Park Sangjin | Song Gyusang | Win | B+R | 6.5 | 3356.0 | 54.0 | 
+| 2021-12-30 | 第5回クラウン・ヘテ杯2回戦 | Park Sangjin |  | Win | B+R | 6.5 | 3302.0 | 0.0 | 
 | 2021-12-27 | 第5回クラウン・ヘテ杯1回戦 |  | Park Sangjin | Win | W+R | 6.5 | 3302.0 | 10.0 | 
 | 2021-12-26 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Park Sangjin | Win | W+1.5 | 6.5 | 3292.0 | -24.0 | 
 | 2021-12-03 | 2021-2022韓国囲碁リーグ | Park Sangjin | Song Jihoon | Lose | W+2.5 | 6.5 | 3316.0 | -3.0 | 

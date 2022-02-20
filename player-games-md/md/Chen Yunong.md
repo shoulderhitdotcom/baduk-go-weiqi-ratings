@@ -14,6 +14,7 @@
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Chen Yunong | Xia Chenkun | Lose | W+R | 7.5 | 3445.0 | -19.0 | 
 | 2021-09-11 | 第22期阿含・桐山杯中国早碁オープン戦予選 | Chen Yunong | Huang Yunsong | Lose | W+R | 7.5 | 3464.0 | -12.0 | 
 | 2021-08-31 | 第12期中国竜星戦予選 | Chen Yunong | Li Xuanhao | Lose | W+R | 7.5 | 3476.0 | 23.0 | 
+| 2021-08-25 | 第12期中国竜星戦予選 | Chen Yunong |  | Win | B+1¾ | 7.5 | 3453.0 | 0.0 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Huang Yunsong | Chen Yunong | Lose | B+R | 7.5 | 3453.0 | -29.0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Dang Yifei | Chen Yunong | Lose | B+¾ | 7.5 | 3482.0 | -52.0 | 
 | 2021-06-08 | 第23回中国囲碁甲級リーグ | Chen Yunong | Byun Sangil | Lose | W+R | 7.5 | 3534.0 | -34.0 | 
@@ -26,8 +27,9 @@
 | 2021-04-07 | 第17回倡棋杯中国プロ囲碁選手権戦予選 | Chen Yunong | Fang Ruoxi | Win | B+R | 7.5 | 3424.0 | 16.0 | 
 | 2021-04-01 | 2021年龍華杯深圳市囲碁戦 | Chen Yunong | Tu Xiaoyu | Lose | W+¼ | 7.5 | 3408.0 | -126.0 | 
 | 2021-03-31 | 2021年龍華杯深圳市囲碁戦 | Li Xuanhao | Chen Yunong | Win | W+R | 7.5 | 3534.0 | 187.0 | 
-| 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Chen Yunong | Shen Peiran | Win | B+R | 7.5 | 3347.0 | 52.0 | 
-| 2020-11-22 | 2020年中国囲碁乙級リーグ | Yu Zhengqi | Chen Yunong | Lose | B+R | 7.5 | 3295.0 | -38.0 | 
+| 2021-03-30 | 2021年龍華杯深圳市囲碁戦 | Chen Yunong | Shen Peiran | Win | B+R | 7.5 | 3347.0 | 51.0 | 
+| 2020-11-22 | 2020年中国囲碁乙級リーグ | Yu Zhengqi | Chen Yunong | Lose | B+R | 7.5 | 3296.0 | -37.0 | 
+| 2020-11-19 | 2020年中国囲碁乙級リーグ | Chen Yunong | Seol Hyunjun | Win | B+R | 7.5 | 3333.0 | 0.0 | 
 | 2019-11-17 | 第4回全国智力運動会男子団体戦第7戦 | Yi Lingtao | Chen Yunong | Lose | B+1¾ | 7.5 | 3333.0 | -38.0 | 
 | 2019-11-16 | 第4回全国智力運動会男子団体戦第6戦 | Chen Yunong | Li Qincheng | Win | B+R | 7.5 | 3371.0 | 92.0 | 
 | 2019-09-29 | 2019年全国囲棋個人戦男子組第13戦 | Chen Yunong | Jiang Qirun | Lose | W+R | 7.5 | 3279.0 | -57.0 | 
@@ -36,26 +38,34 @@
 | 2019-09-23 | 2019年全国囲棋個人戦男子組第7戦 | Li Chengsen | Chen Yunong | Lose | B+R | 7.5 | 3304.0 | 5.0 | 
 | 2019-09-22 | 2019年全国囲棋個人戦男子組第6戦 | Chen Yunong |  | Lose | W+R | 7.5 | 3299.0 | 0.0 | 
 | 2019-09-22 | 2019年全国囲棋個人戦男子組第5戦 |  | Chen Yunong | Win | W+R | 7.5 | 3299.0 | -80.0 | 
-| 2019-09-19 | 2019年全国囲棋個人戦男子組第3戦 | Chen Yunong | Zhang Qiang | Win | B+R | 7.5 | 3379.0 | 140.0 | 
-| 2019-06-07 | 第21期阿含・桐山杯中国早碁オープン戦予選決勝 | Tong Mengcheng | Chen Yunong | Lose | B+R | 7.5 | 3239.0 | 132.0 | 
-| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節杭州-蘇泊爾 | Lian Xiao | Chen Yunong | Lose | B+R | 7.5 | 3107.0 | -47.0 | 
+| 2019-09-19 | 2019年全国囲棋個人戦男子組第3戦 | Chen Yunong | Zhang Qiang | Win | B+R | 7.5 | 3379.0 | 139.0 | 
+| 2019-06-07 | 第21期阿含・桐山杯中国早碁オープン戦予選決勝 | Tong Mengcheng | Chen Yunong | Lose | B+R | 7.5 | 3240.0 | 132.0 | 
+| 2018-12-14 | 第20回中国囲碁甲級リーグ第26節杭州-蘇泊爾 | Lian Xiao | Chen Yunong | Lose | B+R | 7.5 | 3108.0 | -46.0 | 
 | 2018-11-09 | 第20回中国囲碁甲級リーグ第23節廈門-杭州 | Lee Donghoon | Chen Yunong | Lose | B+R | 7.5 | 3154.0 | -117.0 | 
 | 2018-09-20 | 2018年全国囲棋個人戦男子組第7戦 | Chen Yunong | He Yuhan | Win | B+R | 7.5 | 3271.0 | 119.0 | 
 | 2018-09-17 | 2018年全国囲棋個人戦男子組第4戦 |  | Chen Yunong | Win | W+R | 7.5 | 3152.0 | -34.0 | 
-| 2017-09-25 | 2017年全国囲棋個人戦男子組第12戦 | Liu Zhaozhe | Chen Yunong | Lose | B+R | 7.5 | 3186.0 | -77.0 | 
-| 2017-09-23 | 2017年全国囲棋個人戦男子組第10戦 |  | Chen Yunong | Lose | B+R | 7.5 | 3263.0 | 50.0 | 
+| 2018-08-15 | 第20回中国囲碁甲級リーグ第13節蘇泊爾-杭州 |  | Chen Yunong | Lose | B+R | 7.5 | 3186.0 | 0.0 | 
+| 2018-08-06 | 第20回中国囲碁甲級リーグ第11節江蘇-杭州 | Zhao Chenyu | Chen Yunong | Lose | B+R | 7.5 | 3186.0 | 0.0 | 
+| 2018-06-28 | 第20期阿含・桐山杯中国早碁オープン戦本選1回戦 | Fan Yin | Chen Yunong | Lose | B+R | 7.5 | 3186.0 | 0.0 | 
+| 2017-09-25 | 2017年全国囲棋個人戦男子組第12戦 | Liu Zhaozhe | Chen Yunong | Lose | B+R | 7.5 | 3186.0 | -78.0 | 
+| 2017-09-23 | 2017年全国囲棋個人戦男子組第10戦 |  | Chen Yunong | Lose | B+R | 7.5 | 3264.0 | 51.0 | 
 | 2016-12-29 | 第31期中国囲碁天元戦予選 | Chen Yunong | Yang Kaiwen | Lose | W+0.5 | 7.5 | 3213.0 | -58.0 | 
 | 2016-12-28 | 第31期中国囲碁天元戦予選 | Chen Yunong | Chen Hao | Win | B+R | 7.5 | 3271.0 | 249.0 | 
-| 2016-12-27 | 第31期中国囲碁天元戦予選 | Gao Tianliang | Chen Yunong | Win | W+R | 7.5 | 3022.0 | -126.0 | 
-| 2016-04-26 | 2016年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Tong Mengcheng | Chen Yunong | Lose | B+R | 7.5 | 3148.0 | -31.0 | 
-| 2016-04-25 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Zhao Chenyu | Chen Yunong | Lose | B+3.5 | 7.5 | 3179.0 | 4.0 | 
+| 2016-12-27 | 第31期中国囲碁天元戦予選 | Gao Tianliang | Chen Yunong | Win | W+R | 7.5 | 3022.0 | -127.0 | 
+| 2016-12-17 | 嫘祖杯第29期中国名人戦網選3回戦 | Chen Yunong | Xia Chenkun | Lose | W+R | 7.5 | 3149.0 | 0.0 | 
+| 2016-12-16 | 嫘祖杯第29期中国名人戦網選2回戦 | Chen Yunong | Wang Yuzi | Win | B+R | 7.5 | 3149.0 | 0.0 | 
+| 2016-11-06 | 第1回新奥杯世界囲碁オープン戦1回戦 | Chen Yunong | Byun Sangil | Lose | W+R | 7.5 | 3149.0 | 0.0 | 
+| 2016-09-21 | 2016年全国囲棋個人戦男子組第6戦 | He Yuhan | Chen Yunong | Lose | B+R | 7.5 | 3149.0 | 0.0 | 
+| 2016-08-08 | 2016年利民杯世界囲碁星鋭最強戦第2ステージリーグ | Choi Jeong | Chen Yunong | Lose | B+3.5 | 7.5 | 3149.0 | 0.0 | 
+| 2016-04-26 | 2016年利民杯世界囲碁星鋭最強戦第1ステージリーグ | Tong Mengcheng | Chen Yunong | Lose | B+R | 7.5 | 3149.0 | -31.0 | 
+| 2016-04-25 | 第6回衢州・爛柯杯中国囲棋冠軍戦予選 | Zhao Chenyu | Chen Yunong | Lose | B+3.5 | 7.5 | 3180.0 | 5.0 | 
 | 2015-09-18 | 第3回全国智力運動会囲碁男子団体戦 | Chen Yunong | Li Zhe | Lose | W+R | 7.5 | 3175.0 | -132.0 | 
 | 2015-07-29 | 第7期中国竜星戦予選 | Chen Yunong | Li Qincheng | Lose | W+R | 7.5 | 3307.0 | -15.0 | 
 | 2015-07-25 | 2015年中国段位戦 | Yi Lingtao | Chen Yunong | Lose | B+R | 7.5 | 3322.0 | -183.0 | 
 | 2015-07-01 | 第7期中国竜星戦予選 | Wang Shuo | Chen Yunong | Win | W+R | 7.5 | 3505.0 | 67.0 | 
 | 2015-06-28 | 第7期中国竜星戦予選 | Liao Yuanhe | Chen Yunong | Win | W+4.5 | 7.5 | 3438.0 | 233.0 | 
-| 2015-03-09 | 第14回西南棋王戦1回戦 | Chen Yunong | Gu Li | Lose | W+R | 7.5 | 3205.0 | 30.0 | 
-| 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 | Chen Yunong | Mi Yuting | Lose | W+R | 7.5 | 3175.0 | 15.0 | 
+| 2015-03-09 | 第14回西南棋王戦1回戦 | Chen Yunong | Gu Li | Lose | W+R | 7.5 | 3205.0 | 29.0 | 
+| 2014-10-28 | 第16回中国囲碁甲級リーグ第17節 | Chen Yunong | Mi Yuting | Lose | W+R | 7.5 | 3176.0 | 16.0 | 
 | 2014-06-26 | 第6期中国竜星戦予選 | Chen Yunong | Liao Yuanhe | Lose | W+R | 7.5 | 3160.0 | -80.0 | 
 | 2014-06-25 | 第6期中国竜星戦予選 | Wang Chenxing | Chen Yunong | Win | W+2.5 | 7.5 | 3240.0 | 119.0 | 
 | 2014-02-10 | 第21期建橋杯中国囲碁新人王戦1回戦 | Jiang Qirun | Chen Yunong | Lose | B+R | 7.5 | 3121.0 | -289.0 | 

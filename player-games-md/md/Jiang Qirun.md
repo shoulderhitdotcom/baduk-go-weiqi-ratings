@@ -7,18 +7,18 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-02-15 | 第36期中国囲碁天元戦1回戦 | Jiang Qirun | Tan Xiao | Lose | W+R | 7.5 | 3374.0 | -50.0 | 
-| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Li Chengsen | Win | B+R | 7.5 | 3424.0 | 20.0 | 
-| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Tang Weixing | Win | B+R | 7.5 | 3404.0 | 29.0 | 
-| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Li Weiqing | Lose | W+R | 7.5 | 3375.0 | -10.0 | 
-| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Huang Mingyu | Lose | W+¾ | 7.5 | 3385.0 | -39.0 | 
+| 2022-02-15 | 第36期中国囲碁天元戦予選 | Jiang Qirun | Tan Xiao | Lose | W+R | 7.5 | 3375.0 | -50.0 | 
+| 2022-01-14 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Li Chengsen | Win | B+R | 7.5 | 3425.0 | 20.0 | 
+| 2022-01-13 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Tang Weixing | Win | B+R | 7.5 | 3405.0 | 29.0 | 
+| 2022-01-12 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Li Weiqing | Lose | W+R | 7.5 | 3376.0 | -10.0 | 
+| 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Huang Mingyu | Lose | W+¾ | 7.5 | 3386.0 | -38.0 | 
 | 2021-09-29 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Kim Jiseok | Lose | W+R | 7.5 | 3424.0 | -12.0 | 
 | 2021-09-28 | 第23回中国囲碁甲級リーグ | Mao Ruilong | Jiang Qirun | Lose | B+R | 7.5 | 3436.0 | -21.0 | 
 | 2021-09-26 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Li Xuanhao | Win | B+R | 7.5 | 3457.0 | 25.0 | 
-| 2021-09-25 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Chen Xian | Lose | W+R | 7.5 | 3432.0 | -26.0 | 
-| 2021-08-31 | 第12期中国竜星戦予選 | Fan Yin | Jiang Qirun | Lose | B+4¾ | 7.5 | 3458.0 | 11.0 | 
-| 2021-08-27 | 第26回三星火災杯中国予選 | Jiang Qirun | Tan Xiao | Lose | W+R | 6.5 | 3447.0 | -20.0 | 
-| 2021-08-26 | 第12期中国竜星戦予選 | Jiang Qirun | He Yuhan | Win | B+R | 7.5 | 3467.0 | 76.0 | 
+| 2021-09-25 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Chen Xian | Lose | W+R | 7.5 | 3432.0 | -27.0 | 
+| 2021-08-31 | 第12期中国竜星戦予選 | Fan Yin | Jiang Qirun | Lose | B+4¾ | 7.5 | 3459.0 | 11.0 | 
+| 2021-08-27 | 第26回三星火災杯中国予選 | Jiang Qirun | Tan Xiao | Lose | W+R | 6.5 | 3448.0 | -20.0 | 
+| 2021-08-26 | 第12期中国竜星戦予選 | Jiang Qirun | He Yuhan | Win | B+R | 7.5 | 3468.0 | 77.0 | 
 | 2021-06-12 | 第23回中国囲碁甲級リーグ | Li Qincheng | Jiang Qirun | Lose | B+¾ | 7.5 | 3391.0 | -6.0 | 
 | 2021-06-11 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Dang Yifei | Win | B+¾ | 7.5 | 3397.0 | 31.0 | 
 | 2021-06-09 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Liu Yuhang | Lose | W+R | 7.5 | 3366.0 | -16.0 | 
@@ -29,9 +29,9 @@
 | 2021-05-10 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Zhou Hexi | Lose | W+R | 7.5 | 3344.0 | -19.0 | 
 | 2021-05-08 | 第23回中国囲碁甲級リーグ | Guo Xinyi | Jiang Qirun | Win | W+R | 7.5 | 3363.0 | 15.0 | 
 | 2021-05-07 | 第23回中国囲碁甲級リーグ | Jiang Qirun | Yi Lingtao | Lose | W+R | 7.5 | 3348.0 | -2.0 | 
-| 2021-03-10 | 第35期中国囲碁天元戦予選 | Jiang Qirun | Sun Tengyu | Lose | W+R | 7.5 | 3350.0 | 13.0 | 
-| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Huang Jingyuan | Win | B+R | 7.5 | 3337.0 | 12.0 | 
-| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Wang Shiyi | Win | B+R | 7.5 | 3325.0 | 60.0 | 
+| 2021-03-10 | 第35期中国囲碁天元戦予選 | Jiang Qirun | Sun Tengyu | Lose | W+R | 7.5 | 3350.0 | 12.0 | 
+| 2020-12-21 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Huang Jingyuan | Win | B+R | 7.5 | 3338.0 | 12.0 | 
+| 2020-12-20 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Wang Shiyi | Win | B+R | 7.5 | 3326.0 | 61.0 | 
 | 2020-12-18 | 第22回中国囲碁甲級リーグプレーオフ | Wang Zejin | Jiang Qirun | Lose | B+R | 7.5 | 3265.0 | -24.0 | 
 | 2020-12-17 | 第22回中国囲碁甲級リーグプレーオフ | Wang Zejin | Jiang Qirun | Win | W+R | 7.5 | 3289.0 | 17.0 | 
 | 2020-12-16 | 第22回中国囲碁甲級リーグプレーオフ | Jiang Qirun | Huang Mingyu | Lose | W+R | 7.5 | 3272.0 | -23.0 | 
@@ -90,8 +90,8 @@
 | 2018-05-09 | 第20回中国囲碁甲級リーグ第5節浙江-中信 | Jiang Qirun |  | Win | B+R | 7.5 | 3399.0 | 47.0 | 
 | 2018-03-30 | 第20回中国囲碁甲級リーグ第3節浙江-廈門 | Peng Liyao | Jiang Qirun | Lose | B+3¾ | 7.5 | 3352.0 | -15.0 | 
 | 2018-03-26 | 第20回中国囲碁甲級リーグ第1節浙江-山東 | Jiang Qirun | Chen Zijian | Lose | W+R | 7.5 | 3367.0 | 60.0 | 
-| 2018-01-05 | 第3期洛陽白雲山杯中国棋聖戦入囲戦 | Jiang Qirun | Li Chengsen | Lose | W+R | 7.5 | 3307.0 | -47.0 | 
-| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Jiang Qirun | Chen Zijian | Lose | W+R | 7.5 | 3354.0 | 6.0 | 
+| 2018-01-05 | 第3期洛陽白雲山杯中国棋聖戦入囲戦 | Jiang Qirun | Li Chengsen | Lose | W+R | 7.5 | 3307.0 | -48.0 | 
+| 2017-12-02 | 第19回中国囲碁甲級リーグ第26節 | Jiang Qirun | Chen Zijian | Lose | W+R | 7.5 | 3355.0 | 7.0 | 
 | 2017-11-22 | 第19回中国囲碁甲級リーグ第24節 | Jiang Qirun | Tao Xinran | Lose | W+R | 7.5 | 3348.0 | 10.0 | 
 | 2017-11-10 | 第19回中国囲碁甲級リーグ第23節 | Han Yizhou | Jiang Qirun | Lose | B+R | 7.5 | 3338.0 | 21.0 | 
 | 2017-11-02 | 2017呉清源杯中国新秀戦32強戦 | Jiang Qirun |  | Lose | W+R | 7.5 | 3317.0 | -12.0 | 
@@ -131,8 +131,8 @@
 | 2016-11-21 | 第18回中国囲碁甲級リーグ第20節 | Jiang Qirun | Liao Yuanhe | Lose | W+R | 7.5 | 2908.0 | -20.0 | 
 | 2016-11-04 | 第18回中国囲碁甲級リーグ第17節 | Jiang Qirun | Ding Shixiong | Lose | W+10.5 | 7.5 | 2928.0 | -23.0 | 
 | 2016-10-21 | 第8期中国竜星戦予選 |  | Jiang Qirun | Lose | B+9.5 | 7.5 | 2951.0 | -80.0 | 
-| 2016-09-15 | 2016年全国囲棋個人戦男子組第1戦 | Jiang Qirun |  | Lose | W+R | 7.5 | 3031.0 | -309.0 | 
-| 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Jiang Qirun | Park Junghwan | Lose | W+R | 7.5 | 3340.0 | 30.0 | 
+| 2016-09-15 | 2016年全国囲棋個人戦男子組第1戦 | Jiang Qirun |  | Lose | W+R | 7.5 | 3031.0 | -310.0 | 
+| 2016-07-04 | 第18回中国囲碁甲級リーグ第11節 | Jiang Qirun | Park Junghwan | Lose | W+R | 7.5 | 3341.0 | 31.0 | 
 | 2016-06-16 | 第18回中国囲碁甲級リーグ第8節 | Jiang Qirun | Xu Jiayang | Lose | W+R | 7.5 | 3310.0 | 47.0 | 
 | 2016-05-22 | 第18回中国囲碁甲級リーグ第6節 | Jiang Qirun | Fan Tingyu | Lose | W+R | 7.5 | 3263.0 | -72.0 | 
 | 2016-05-09 | 第18回中国囲碁甲級リーグ第4節 | Jiang Qirun | Sun Tengyu | Lose | W+R | 7.5 | 3335.0 | -43.0 | 

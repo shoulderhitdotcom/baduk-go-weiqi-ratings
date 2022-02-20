@@ -19,6 +19,7 @@
 | 2021-12-18 | 2021-2022フューチャーズリーグ |  | Park Jinyoung | Win | W+R | 6.5 | 3371.0 | 278.0 | 
 | 2021-11-28 | 2021-2022フューチャーズリーグ | Park Jinyoung |  | Win | B+3.5 | 6.5 | 3093.0 | -77.0 | 
 | 2021-11-20 | 2021-2022フューチャーズリーグ | Choi Kyeongho | Park Jinyoung | Win | W+0.5 | 6.5 | 3170.0 | 90.0 | 
+| 2021-10-05 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Sedong | Park Jinyoung | Lose | B+R | 6.5 | 3080.0 | 0.0 | 
 | 2020-08-31 | 第25回三星火災杯韓国一般枠予選 | Park Jinyoung | Lee Yeongkyu | Lose | W+R | 6.5 | 3080.0 | -107.0 | 
 | 2020-05-25 | 第7回グロービス杯韓国予選 | Park Jinyoung | Gang Woohyeok | Lose | W+R | 6.5 | 3187.0 | -70.0 | 
 | 2020-04-21 | 第25回LG杯韓国予選 | Choi Kyeongho | Park Jinyoung | Lose | B+1.5 | 6.5 | 3257.0 | -40.0 | 
@@ -33,6 +34,8 @@
 | 2019-03-12 | 第2期韓国竜星戦32強戦-1 | Shin Minjun | Park Jinyoung | Lose | B+R | 6.5 | 3243.0 | -81.0 | 
 | 2019-02-22 | 第6回グロービス杯韓国予選 | Park Jinyoung | Seol Hyunjun | Win | B+R | 6.5 | 3324.0 | 0.0 | 
 | 2019-02-22 | 第6回グロービス杯韓国予選 | Park Sangjin | Park Jinyoung | Lose | B+R | 6.5 | 3324.0 | 646.0 | 
+| 2019-02-21 | 第6回グロービス杯韓国予選 | Park Joonhoon | Park Jinyoung | Win | W+5.5 | 6.5 | 2678.0 | 0.0 | 
+| 2018-04-09 | 第37回KBS杯囲碁王戦32強戦 | Byun Sangil | Park Jinyoung | Lose | B+R | 6.5 | 2678.0 | 0.0 | 
 | 2016-07-16 | 第21回三星火災杯統合予選2回戦 | Shibano Toramaru | Park Jinyoung | Lose | B+R | 6.5 | 2678.0 | -96.0 | 
 | 2016-04-15 | 第4期メジオン杯オープン新人王戦1回戦 | Oh Yujin | Park Jinyoung | Lose | B+R | 6.5 | 2774.0 | 11.0 | 
 | 2016-03-02 | 第4回陜川郡招待河燦錫国手杯英才囲碁大会決勝三番勝負第3局 | Park Joonhoon | Park Jinyoung | Lose | B+R | 6.5 | 2763.0 | 2.0 | 

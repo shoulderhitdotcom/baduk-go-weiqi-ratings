@@ -8,9 +8,11 @@
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-19 | 2021-2022韓国囲碁リーグ | Moon Minjong | Song Jihoon | Win | W+0.5 | 6.5 | 3240.0 | 50.0 | 
+| 2022-02-11 | 2021-2022韓国囲碁リーグ | Park Junghwan | Song Jihoon | Lose | B+R | 6.5 | 3190.0 | 0.0 | 
 | 2022-02-04 | 2021-2022韓国囲碁リーグ | Ahn Kukhyun | Song Jihoon | Win | W+R | 6.5 | 3190.0 | -41.0 | 
 | 2022-01-16 | 2021-2022韓国囲碁リーグ | Song Jihoon | Hong Seongji | Lose | W+R | 6.5 | 3231.0 | 28.0 | 
 | 2022-01-06 | 2021-2022韓国囲碁リーグ | Park Minkyu | Song Jihoon | Lose | B+R | 6.5 | 3203.0 | 133.0 | 
+| 2022-01-02 | 2021-2022韓国囲碁リーグ | Song Jihoon | Kang Seungmin | Win | B+2.5 | 6.5 | 3070.0 | 0.0 | 
 | 2021-12-28 | 第27回GSカルテックス杯プロ棋戦予選 | Kim Cheayoung | Song Jihoon | Win | W+R | 6.5 | 3070.0 | -6.0 | 
 | 2021-12-18 | 2021-2022韓国囲碁リーグ | Song Jihoon | Choi Cheolhan | Lose | W+R | 6.5 | 3076.0 | 93.0 | 
 | 2021-12-03 | 2021-2022韓国囲碁リーグ | Park Sangjin | Song Jihoon | Win | W+2.5 | 6.5 | 2983.0 | -5.0 | 

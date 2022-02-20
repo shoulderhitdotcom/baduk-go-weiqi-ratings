@@ -7,13 +7,17 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-12-03 | 第2回UMC聯電杯早碁争覇戦準決勝  | Xu Haohong | Zhou Junxun | Lose | B+R | 6.5 | 3344.0 | 316.0 | 
-| 2020-11-07 | 第1回UMC聯電杯早碁争覇戦4回戦  | Wang Yuanjun | Zhou Junxun | Lose | B+R | 6.5 | 3028.0 | -9.0 | 
-| 2020-10-28 | 第1回UMC聯電杯早碁争覇戦3回戦 |  | Zhou Junxun | Win | W+R | 6.5 | 3037.0 | -3.0 | 
-| 2020-10-21 | 第1回UMC聯電杯早碁争覇戦2回戦 | Zhou Junxun | Lin Lixiang | Win | B+2.5 | 6.5 | 3040.0 | 151.0 | 
-| 2020-10-14 | 第1回UMC聯電杯早碁争覇戦1回戦 |  | Zhou Junxun | Win | W+2.5 | 6.5 | 2889.0 | 84.0 | 
-| 2020-10-07 | 第1回UMC聯電杯早碁争覇戦予選 | Zhou Junxun |  | Win | B+4.5 | 6.5 | 2805.0 | -92.0 | 
+| 2021-12-03 | 第2回UMC聯電杯早碁争覇戦準決勝  | Xu Haohong | Zhou Junxun | Lose | B+R | 6.5 | 3343.0 | 314.0 | 
+| 2021-11-30 | 第2回UMC聯電杯早碁争覇戦4回戦  | Zhou Junxun | Yang Zixuan | Win | B+R | 6.5 | 3029.0 | 0.0 | 
+| 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦  | Lin Junyan | Zhou Junxun | Win | W+R | 6.5 | 3029.0 | 0.0 | 
+| 2021-11-16 | 第2回UMC聯電杯早碁争覇戦1回戦 | Zhou Junxun |  | Win | B+R | 6.5 | 3029.0 | 0.0 | 
+| 2020-11-07 | 第1回UMC聯電杯早碁争覇戦4回戦  | Wang Yuanjun | Zhou Junxun | Lose | B+R | 6.5 | 3029.0 | -9.0 | 
+| 2020-10-28 | 第1回UMC聯電杯早碁争覇戦3回戦 |  | Zhou Junxun | Win | W+R | 6.5 | 3038.0 | -2.0 | 
+| 2020-10-21 | 第1回UMC聯電杯早碁争覇戦2回戦 | Zhou Junxun | Lin Lixiang | Win | B+2.5 | 6.5 | 3040.0 | 150.0 | 
+| 2020-10-14 | 第1回UMC聯電杯早碁争覇戦1回戦 |  | Zhou Junxun | Win | W+2.5 | 6.5 | 2890.0 | 84.0 | 
+| 2020-10-07 | 第1回UMC聯電杯早碁争覇戦予選 | Zhou Junxun |  | Win | B+4.5 | 6.5 | 2806.0 | -91.0 | 
 | 2020-07-20 | 第1期名人冠軍戦2回戦 | Chen Shiyuan | Zhou Junxun | Lose | B+1.5 | 6.5 | 2897.0 | 156.0 | 
+| 2020-07-16 | 第1期名人冠軍戦1回戦 | Zhou Junxun |  | Win | B+R | 6.5 | 2741.0 | 0.0 | 
 | 2017-11-09 | 第10期棋王戦（台湾）リーグ | Zhou Junxun | Lin Junyan | Lose | W+0.5 | 6.5 | 2741.0 | -8.0 | 
 | 2017-11-06 | 第10期棋王戦（台湾）リーグ | Zhou Junxun | Lin Lixiang | Lose | W+R | 6.5 | 2749.0 | 11.0 | 
 | 2017-11-02 | 第10期棋王戦（台湾）リーグ | Zhou Junxun | Lin Shuyang | Lose | W+4.5 | 6.5 | 2738.0 | -17.0 | 
@@ -39,8 +43,8 @@
 | 2016-12-22 | 第9期棋王戦（台湾）挑戦手合7番5局 | Wang Yuanjun | Zhou Junxun | Win | W+R | 6.5 | 3310.0 | 47.0 | 
 | 2016-12-19 | 第9期棋王戦（台湾）挑戦手合7番4局 | Zhou Junxun | Wang Yuanjun | Lose | W+R | 6.5 | 3263.0 | -86.0 | 
 | 2016-12-08 | 第9期棋王戦（台湾）挑戦手合7番3局 | Wang Yuanjun | Zhou Junxun | Lose | B+4.5 | 6.5 | 3349.0 | 0.0 | 
-| 2016-12-05 | 第9期棋王戦（台湾）挑戦手合7番2局 | Zhou Junxun | Wang Yuanjun | Lose | W+R | 6.5 | 3349.0 | -64.0 | 
-| 2016-12-01 | 第9期棋王戦（台湾）挑戦手合7番1局 | Wang Yuanjun | Zhou Junxun | Win | W+R | 6.5 | 3413.0 | 1.0 | 
+| 2016-12-05 | 第9期棋王戦（台湾）挑戦手合7番2局 | Zhou Junxun | Wang Yuanjun | Lose | W+R | 6.5 | 3349.0 | -65.0 | 
+| 2016-12-01 | 第9期棋王戦（台湾）挑戦手合7番1局 | Wang Yuanjun | Zhou Junxun | Win | W+R | 6.5 | 3414.0 | 2.0 | 
 | 2016-10-11 | 第12期国手戦（台湾）複戦第三局 | Chen Qirui | Zhou Junxun | Lose | B+2.5 | 6.5 | 3412.0 | -34.0 | 
 | 2016-10-09 | 第4期台湾中環碁聖戦16強戦 | Hei Jiajia | Zhou Junxun | Win | W+R | 6.5 | 3446.0 | 122.0 | 
 | 2016-06-13 | 第6期友士杯十段戦敗者復活戦3回戦 | Lin Junyan | Zhou Junxun | Lose | B+R | 6.5 | 3324.0 | -17.0 | 
@@ -61,11 +65,11 @@
 | 2015-11-19 | 第8期棋王戦（台湾）挑戦手合七番勝負第1局 | Wang Yuanjun | Zhou Junxun | Lose | B+5.5 | 6.5 | 3079.0 | -26.0 | 
 | 2015-11-09 | 第8期棋王戦（台湾）リーグ | Zhou Junxun | Lin Xiuping | Lose | W+R | 6.5 | 3105.0 | -49.0 | 
 | 2015-11-05 | 第8期棋王戦（台湾）リーグ | Xiao Zhenghao | Zhou Junxun | Win | W+1.5 | 6.5 | 3154.0 | 52.0 | 
-| 2015-11-02 | 第8期棋王戦（台湾）リーグ | Zhou Junxun | Lin Lixiang | Win | B+R | 6.5 | 3102.0 | -5.0 | 
-| 2015-10-29 | 第8期棋王戦（台湾）リーグ | Yang Bowei | Zhou Junxun | Win | W+R | 6.5 | 3107.0 | 40.0 | 
-| 2015-10-26 | 第8期棋王戦（台湾）リーグ | Zhou Junxun | Chen Qirui | Win | B+R | 6.5 | 3067.0 | -3.0 | 
-| 2015-10-22 | 第8期棋王戦（台湾）リーグ | Lin Junyan | Zhou Junxun | Win | W+R | 6.5 | 3070.0 | 71.0 | 
-| 2015-10-19 | 第8期棋王戦（台湾）リーグ | Zhou Junxun | Lin Shuyang | Win | B+0.5 | 6.5 | 2999.0 | -94.0 | 
+| 2015-11-02 | 第8期棋王戦（台湾）リーグ | Zhou Junxun | Lin Lixiang | Win | B+R | 6.5 | 3102.0 | -6.0 | 
+| 2015-10-29 | 第8期棋王戦（台湾）リーグ | Yang Bowei | Zhou Junxun | Win | W+R | 6.5 | 3108.0 | 40.0 | 
+| 2015-10-26 | 第8期棋王戦（台湾）リーグ | Zhou Junxun | Chen Qirui | Win | B+R | 6.5 | 3068.0 | -3.0 | 
+| 2015-10-22 | 第8期棋王戦（台湾）リーグ | Lin Junyan | Zhou Junxun | Win | W+R | 6.5 | 3071.0 | 71.0 | 
+| 2015-10-19 | 第8期棋王戦（台湾）リーグ | Zhou Junxun | Lin Shuyang | Win | B+0.5 | 6.5 | 3000.0 | -93.0 | 
 | 2015-06-18 | 第5期友士杯十段戦敗者復活戦2回戦 | Zhou Junxun | Lin Lixiang | Lose | W+R | 6.5 | 3093.0 | 12.0 | 
 | 2015-06-15 | 第5期友士杯十段戦敗者復活戦1回戦 | Zhang Kaixin | Zhou Junxun | Win | W+R | 6.5 | 3081.0 | 9.0 | 
 | 2015-06-11 | 第5期友士杯十段戦1回戦 | Chen Shiyuan | Zhou Junxun | Lose | B+R | 6.5 | 3072.0 | -9.0 | 
@@ -73,18 +77,18 @@
 | 2015-06-02 | 第14期天元戦（台湾）リーグ | Zhou Junxun | Lin Lixiang | Lose | W+2.5 | 6.5 | 3087.0 | -50.0 | 
 | 2015-05-05 | 第14期天元戦（台湾）リーグ | Wang Yuanjun | Zhou Junxun | Lose | B+R | 6.5 | 3137.0 | -65.0 | 
 | 2015-04-28 | 第14期天元戦（台湾）リーグ | Zhou Junxun |  | Win | B+R | 6.5 | 3202.0 | 16.0 | 
-| 2015-04-21 | 第14期天元戦（台湾）リーグ | Zhou Junxun | Chen Shiyuan | Lose | W+1.5 | 6.5 | 3186.0 | -20.0 | 
-| 2015-04-07 | 第14期天元戦（台湾）リーグ | Zhou Junxun | Yang Bowei | Win | B+R | 6.5 | 3206.0 | 45.0 | 
-| 2015-03-31 | 第14期天元戦（台湾）リーグ | Lin Shuyang | Zhou Junxun | Lose | B+R | 6.5 | 3161.0 | -46.0 | 
+| 2015-04-21 | 第14期天元戦（台湾）リーグ | Zhou Junxun | Chen Shiyuan | Lose | W+1.5 | 6.5 | 3186.0 | -21.0 | 
+| 2015-04-07 | 第14期天元戦（台湾）リーグ | Zhou Junxun | Yang Bowei | Win | B+R | 6.5 | 3207.0 | 45.0 | 
+| 2015-03-31 | 第14期天元戦（台湾）リーグ | Lin Shuyang | Zhou Junxun | Lose | B+R | 6.5 | 3162.0 | -45.0 | 
 | 2015-03-16 | 第7回海峰杯プロ囲碁戦8強戦 | Zhou Junxun | Xiao Zhenghao | Lose | W+R | 6.5 | 3207.0 | -27.0 | 
 | 2015-03-12 | 第7回海峰杯プロ囲碁戦16強戦 | Zhou Junxun |  | Win | B+R | 6.5 | 3234.0 | -9.0 | 
 | 2015-03-09 | 第7回海峰杯プロ囲碁戦32強戦 | Zhou Junxun |  | Win | B+R | 6.5 | 3243.0 | 45.0 | 
-| 2015-03-05 | 第7回海峰杯プロ囲碁戦64強戦 |  | Zhou Junxun | Win | W+R | 6.5 | 3198.0 | 97.0 | 
-| 2014-11-11 | 第10期国手戦（台湾）リーグ | Zhou Junxun | Chen Shiyuan | Lose | Void | 6.5 | 3101.0 | 27.0 | 
-| 2014-10-30 | 第7期棋王戦（台湾）リーグプレーオフ | Chen Qirui | Zhou Junxun | Win | W+R | 6.5 | 3074.0 | 19.0 | 
-| 2014-10-27 | 第7期棋王戦（台湾）リーグ | Zhou Junxun | Xiao Zhenghao | Lose | W+3.5 | 6.5 | 3055.0 | -16.0 | 
-| 2014-10-23 | 第7期棋王戦（台湾）リーグ | Chen Qirui | Zhou Junxun | Win | W+R | 6.5 | 3071.0 | 41.0 | 
-| 2014-10-20 | 第7期棋王戦（台湾）リーグ | Zhou Junxun | Lin Junyan | Lose | W+1.5 | 6.5 | 3030.0 | -2.0 | 
+| 2015-03-05 | 第7回海峰杯プロ囲碁戦64強戦 |  | Zhou Junxun | Win | W+R | 6.5 | 3198.0 | 96.0 | 
+| 2014-11-11 | 第10期国手戦（台湾）リーグ | Zhou Junxun | Chen Shiyuan | Lose | Void | 6.5 | 3102.0 | 27.0 | 
+| 2014-10-30 | 第7期棋王戦（台湾）リーグプレーオフ | Chen Qirui | Zhou Junxun | Win | W+R | 6.5 | 3075.0 | 19.0 | 
+| 2014-10-27 | 第7期棋王戦（台湾）リーグ | Zhou Junxun | Xiao Zhenghao | Lose | W+3.5 | 6.5 | 3056.0 | -16.0 | 
+| 2014-10-23 | 第7期棋王戦（台湾）リーグ | Chen Qirui | Zhou Junxun | Win | W+R | 6.5 | 3072.0 | 41.0 | 
+| 2014-10-20 | 第7期棋王戦（台湾）リーグ | Zhou Junxun | Lin Junyan | Lose | W+1.5 | 6.5 | 3031.0 | -1.0 | 
 | 2014-10-16 | 第7期棋王戦（台湾）リーグ | Zhou Junxun | Lin Lixiang | Win | B+R | 6.5 | 3032.0 | 61.0 | 
 | 2014-10-09 | 第7期棋王戦（台湾）リーグ | Lin Zhihan | Zhou Junxun | Lose | B+R | 6.5 | 2971.0 | -28.0 | 
 | 2014-10-06 | 第7期棋王戦（台湾）リーグ |  | Zhou Junxun | Win | W+R | 6.5 | 2999.0 | 5.0 | 
@@ -101,28 +105,28 @@
 | 2013-12-13 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Fan Tingyu | Zhou Junxun | Lose | B+R | 7.5 | 3110.0 | -59.0 | 
 | 2013-12-12 | 第3回スポーツアコードワールドマインドゲームズ囲碁男子団体戦 | Zhou Junxun | Park Junghwan | Lose | W+0.5 | 7.5 | 3169.0 | 109.0 | 
 | 2013-12-09 | 第3期友士杯十段戦挑戦手合三番勝負第2局 | Wang Yuanjun | Zhou Junxun | Lose | B+0.5 | 6.5 | 3060.0 | -16.0 | 
-| 2013-12-02 | 第3期友士杯十段戦挑戦手合三番勝負第1局 | Zhou Junxun | Wang Yuanjun | Win | B+1.5 | 6.5 | 3076.0 | 1.0 | 
-| 2013-11-07 | 第6期棋王戦（台湾）リーグ | Hei Jiajia | Zhou Junxun | Lose | B+0.5 | 6.5 | 3075.0 | -101.0 | 
-| 2013-11-04 | 第6期棋王戦（台湾）リーグ | Zhou Junxun | Xiao Zhenghao | Lose | W+R | 6.5 | 3176.0 | -63.0 | 
-| 2013-10-31 | 第6期棋王戦（台湾）リーグ | Zhou Junxun | Lin Junyan | Win | B+R | 6.5 | 3239.0 | 54.0 | 
+| 2013-12-02 | 第3期友士杯十段戦挑戦手合三番勝負第1局 | Zhou Junxun | Wang Yuanjun | Win | B+1.5 | 6.5 | 3076.0 | 0.0 | 
+| 2013-11-07 | 第6期棋王戦（台湾）リーグ | Hei Jiajia | Zhou Junxun | Lose | B+0.5 | 6.5 | 3076.0 | -101.0 | 
+| 2013-11-04 | 第6期棋王戦（台湾）リーグ | Zhou Junxun | Xiao Zhenghao | Lose | W+R | 6.5 | 3177.0 | -63.0 | 
+| 2013-10-31 | 第6期棋王戦（台湾）リーグ | Zhou Junxun | Lin Junyan | Win | B+R | 6.5 | 3240.0 | 55.0 | 
 | 2013-10-03 | 第6期棋王戦（台湾）リーグ | Lin Shuyang | Zhou Junxun | Win | W+R | 6.5 | 3185.0 | -18.0 | 
 | 2013-09-26 | 第6期棋王戦（台湾）リーグ | Lin Lixiang | Zhou Junxun | Lose | B+3.5 | 6.5 | 3203.0 | -189.0 | 
 | 2013-09-12 | 第6期棋王戦（台湾）リーグ | Lin Zhihan | Zhou Junxun | Lose | B+3.5 | 6.5 | 3392.0 | 43.0 | 
 | 2013-09-05 | 第6期棋王戦（台湾）リーグ | Zhou Junxun | Wang Yuanjun | Lose | W+4.5 | 6.5 | 3349.0 | 28.0 | 
 | 2013-07-09 | 第1回夢百合杯世界オープン戦1回戦 | Ju Hyeongwuk | Zhou Junxun | Lose | B+5.5 | 7.5 | 3321.0 | -28.0 | 
-| 2013-06-17 | 2013年中国囲碁乙級リーグ | Zhou Junxun |  | Lose | W+0.5 | 7.5 | 3349.0 | 35.0 | 
-| 2013-05-03 | 第1回夢百合杯世界オープン戦台湾予選 | Chen Shiyuan | Zhou Junxun | Win | W+6.5 | 6.5 | 3314.0 | -59.0 | 
+| 2013-06-17 | 2013年中国囲碁乙級リーグ | Zhou Junxun |  | Lose | W+0.5 | 7.5 | 3349.0 | 34.0 | 
+| 2013-05-03 | 第1回夢百合杯世界オープン戦台湾予選 | Chen Shiyuan | Zhou Junxun | Win | W+6.5 | 6.5 | 3315.0 | -58.0 | 
 | 2013-03-16 | 第18回LG杯台湾予選 | Zhou Junxun | Xiao Zhenghao | Lose | W+R | 6.5 | 3373.0 | -19.0 | 
 | 2013-03-14 | 第5回海峰杯プロ囲碁戦32強戦 | Zhou Junxun | Lin Tingyi | Lose | W+3.5 | 6.5 | 3392.0 | -11.0 | 
 | 2013-03-09 | 第18回LG杯台湾予選 | Zhou Junxun | Wang Yuanjun | Win | B+R | 6.5 | 3403.0 | 14.0 | 
 | 2013-03-07 | 第5回海峰杯プロ囲碁戦64強戦 | Zhou Junxun | Chen Qirui | Win | B+R | 6.5 | 3389.0 | -7.0 | 
-| 2013-03-02 | 第18回LG杯台湾予選 | Zhou Junxun | Lin Shuyang | Win | B+3.5 | 6.5 | 3396.0 | 114.0 | 
-| 2012-11-26 | 第2期友士杯十段戦挑戦手合三番勝負第2局 | Chen Shiyuan | Zhou Junxun | Win | W+R | 7.5 | 3282.0 | 17.0 | 
-| 2012-11-22 | 第4回海峰杯プロ囲碁戦準決勝 | Zhou Junxun | Wang Yuanjun | Lose | W+4.5 | 6.5 | 3265.0 | -36.0 | 
-| 2012-11-19 | 第2期友士杯十段戦挑戦手合三番勝負第1局 | Zhou Junxun | Chen Shiyuan | Win | B+R | 7.5 | 3301.0 | 24.0 | 
-| 2012-11-15 | 第4回海峰杯プロ囲碁戦8強戦 | Zhou Junxun | Ye Hongyuan | Win | B+R | 6.5 | 3277.0 | 33.0 | 
-| 2012-11-08 | 第4回海峰杯プロ囲碁戦16強戦 | Lin Yuxiang | Zhou Junxun | Win | W+6.5 | 6.5 | 3244.0 | 60.0 | 
-| 2012-11-01 | 第4回海峰杯プロ囲碁戦32強戦 | Zhou Junxun |  | Win | B+3.5 | 6.5 | 3184.0 | missing |
+| 2013-03-02 | 第18回LG杯台湾予選 | Zhou Junxun | Lin Shuyang | Win | B+3.5 | 6.5 | 3396.0 | 113.0 | 
+| 2012-11-26 | 第2期友士杯十段戦挑戦手合三番勝負第2局 | Chen Shiyuan | Zhou Junxun | Win | W+R | 7.5 | 3283.0 | 17.0 | 
+| 2012-11-22 | 第4回海峰杯プロ囲碁戦準決勝 | Zhou Junxun | Wang Yuanjun | Lose | W+4.5 | 6.5 | 3266.0 | -36.0 | 
+| 2012-11-19 | 第2期友士杯十段戦挑戦手合三番勝負第1局 | Zhou Junxun | Chen Shiyuan | Win | B+R | 7.5 | 3302.0 | 24.0 | 
+| 2012-11-15 | 第4回海峰杯プロ囲碁戦8強戦 | Zhou Junxun | Ye Hongyuan | Win | B+R | 6.5 | 3278.0 | 33.0 | 
+| 2012-11-08 | 第4回海峰杯プロ囲碁戦16強戦 | Lin Yuxiang | Zhou Junxun | Win | W+6.5 | 6.5 | 3245.0 | 60.0 | 
+| 2012-11-01 | 第4回海峰杯プロ囲碁戦32強戦 | Zhou Junxun |  | Win | B+3.5 | 6.5 | 3185.0 | missing |
 
 
 

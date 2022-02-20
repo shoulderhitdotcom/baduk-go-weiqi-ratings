@@ -19,8 +19,11 @@
 | 2022-01-11 | 第23回中国囲碁甲級リーグプレーオフ | Shin Minjun | Chen Xian | Win | B+R | 7.5 | 3523.0 | 8.0 | 
 | 2022-01-06 | 2021-2022韓国囲碁リーグ | Shin Minjun | Shin Jaeweon | Lose | W+R | 6.5 | 3515.0 | 1.0 | 
 | 2022-01-05 | 第5回クラウン・ヘテ杯3回戦 | Han Seungjoo | Shin Minjun | Lose | B+R | 6.5 | 3514.0 | -3.0 | 
+| 2022-01-03 | 第5回クラウン・ヘテ杯2回戦 |  | Shin Minjun | Win | W+R | 6.5 | 3517.0 | 0.0 | 
+| 2021-12-31 | 2021-2022韓国囲碁リーグ | Song Gyusang | Shin Minjun | Win | W+R | 6.5 | 3517.0 | 0.0 | 
 | 2021-12-28 | 第5回クラウン・ヘテ杯1回戦 | Shin Minjun | Park Geunho | Win | B+R | 6.5 | 3517.0 | 0.0 | 
 | 2021-12-26 | 2021-2022韓国囲碁リーグ | Kim Jiseok | Shin Minjun | Lose | B+R | 6.5 | 3517.0 | 8.0 | 
+| 2021-12-17 | 2021-2022韓国囲碁リーグ | Kang Seungmin | Shin Minjun | Win | W+R | 6.5 | 3509.0 | 0.0 | 
 | 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Huang Yunsong | Shin Minjun | Lose | B+R | 6.5 | 3509.0 | 0.0 | 
 | 2021-12-06 | 第27回GSカルテックス杯プロ棋戦予選 | Shin Minjun | Park Jaekeun | Win | B+R | 6.5 | 3509.0 | 5.0 | 
 | 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Junghwan | Shin Minjun | Lose | B+R | 6.5 | 3504.0 | 4.0 | 
@@ -472,6 +475,7 @@
 | 2014-04-15 | 第19回LG杯予選 | Shin Minjun | Li Weiqing | Lose | W+R | 6.5 | 3378.0 | -1.0 | 
 | 2014-04-10 | 2014年韓国囲碁リーグ | Kim Jinhyu | Shin Minjun | Lose | B+R | 6.5 | 3379.0 | -9.0 | 
 | 2014-04-09 | 第2期メジオン杯オープン新人王戦準決勝 | Min Sangyoun | Shin Minjun | Lose | B+2.5 | 6.5 | 3388.0 | 21.0 | 
+| 2014-03-25 | 第2期メジオン杯オープン新人王戦2回戦 |  | Shin Minjun | Win | W+R | 6.5 | 3367.0 | 0.0 | 
 | 2014-03-03 | 第33回KBS杯囲碁王戦本戦1回戦 |  | Shin Minjun | Win | W+R | 6.5 | 3367.0 | 18.0 | 
 | 2013-11-22 | 2013年楽スターリーグ | Shin Minjun | Park Seunghwa | Win | B+R | 6.5 | 3349.0 | 6.0 | 
 | 2013-11-16 | 2013年韓国囲碁リーグ | An Sungjoon | Shin Minjun | Lose | B+R | 6.5 | 3343.0 | -9.0 | 

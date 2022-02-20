@@ -10,11 +10,13 @@
 | 2022-02-19 | 2021-2022韓国囲碁リーグ | Park Sangjin | Lee Yeongkyu | Win | W+R | 6.5 | 3329.0 | 25.0 | 
 | 2022-02-17 | 第5期韓国竜星戦予選 | Lee Yeongkyu | Paek Hongseok | Win | B+R | 6.5 | 3304.0 | 1.0 | 
 | 2022-02-15 | 第5期韓国竜星戦予選 | Na Hyun | Lee Yeongkyu | Win | W+R | 6.5 | 3303.0 | 72.0 | 
+| 2022-02-11 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Kim Jinhyu | Win | B+2.5 | 6.5 | 3231.0 | 0.0 | 
 | 2022-02-07 | 第23回マキシムコーヒー杯入神最強戦2回戦 | Lee Jihyun | Lee Yeongkyu | Win | W+R | 6.5 | 3231.0 | -13.0 | 
 | 2022-02-04 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Lee Changho | Win | B+R | 6.5 | 3244.0 | 29.0 | 
 | 2022-01-22 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu |  | Win | B+R | 6.5 | 3215.0 | 30.0 | 
 | 2022-01-17 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Lee Yeongkyu | An Joyeong | Win | B+4.5 | 6.5 | 3185.0 | 13.0 | 
 | 2022-01-06 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Kim Seongjae | Lose | W+R | 6.5 | 3172.0 | 6.0 | 
+| 2022-01-02 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Shin Jinseo | Lose | W+R | 6.5 | 3166.0 | 0.0 | 
 | 2021-12-18 | 2021-2022韓国囲碁リーグ | Lee Changseok | Lee Yeongkyu | Lose | B+R | 6.5 | 3166.0 | -15.0 | 
 | 2021-12-03 | 2021-2022韓国囲碁リーグ | Lee Yeongkyu | Kim Jiseok | Lose | W+1.5 | 6.5 | 3181.0 | -6.0 | 
 | 2021-11-29 | 第3回大統領杯全国囲碁大会1回戦 | Lee Yeongkyu | Park Minkyu | Lose | W+0.5 | 6.5 | 3187.0 | -56.0 | 
@@ -187,6 +189,8 @@
 | 2016-04-05 | 第21回LG杯予選 | Lee Yeongkyu | Xie Ke | Win | B+R | 6.5 | 3409.0 | 99.0 | 
 | 2016-02-13 | 第21期GSカルテックス杯プロ棋戦2回戦 | Lee Donghoon | Lee Yeongkyu | Lose | B+R | 6.5 | 3310.0 | -123.0 | 
 | 2016-02-02 | 第17回マキシムコーヒー杯入神最強戦2回戦 | Lee Yeongkyu | Hong Seongji | Lose | W+3.5 | 6.5 | 3433.0 | -109.0 | 
+| 2016-01-17 | 第21期GSカルテックス杯プロ棋戦1回戦 | Baek Chanhee | Lee Yeongkyu | Win | W+R | 6.5 | 3542.0 | 0.0 | 
+| 2016-01-01 | 第17回マキシムコーヒー杯入神最強戦1回戦 | Lee Yeongkyu | Cho Hyeyeon | Win | B+R | 6.5 | 3542.0 | 0.0 | 
 | 2014-03-11 | 第19期GSカルテックス杯プロ棋戦3回戦 | Mok Jinseok | Lee Yeongkyu | Lose | B+R | 6.5 | 3542.0 | -19.0 | 
 | 2014-02-13 | 第19期GSカルテックス杯プロ棋戦2回戦 | Lee Yeongkyu | Kim Seongjae | Win | B+R | 6.5 | 3561.0 | 38.0 | 
 | 2013-12-19 | 第15回マキシムコーヒー杯入神最強戦1回戦 | Mok Jinseok | Lee Yeongkyu | Lose | B+R | 6.5 | 3523.0 | -4.0 | 

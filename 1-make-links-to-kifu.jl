@@ -36,6 +36,8 @@ df = @chain "c:/weiqi/web-scraping/kifu-depot-games-with-sgf.jdf/" begin
     unique
 end
 
+
+
 df_for_names = @subset(df, @c do_for_all .| (:date .== maximum(:date)))
 
 names_to_update = @chain vcat(df_for_names.black, df_for_names.white) begin
@@ -46,9 +48,17 @@ names_to_update = @chain vcat(df_for_names.black, df_for_names.white) begin
     filter(n -> n != "", _)
 end
 
-if false
-    names_to_update
-end
+# @warn ("remove this")
+# if false
+#     md = maximum(pings_hist.date)
+#     names_to_update = @chain pings_hist begin
+#         @subset :date == md
+#         sort(:Rating, rev = true)
+#         _[1:100, :eng_name_old]
+#         vcat(names_to_update, _)
+#         unique
+#     end
+# end
 
 # make the the rating from previous date to see how ratings have moved
 if false
@@ -125,6 +135,8 @@ end
 biggest_movers[end]
 JDF.save("biggest_movers.jdf", biggest_movers[end])
 
+
+
 # update the player ratings page
 for name in names_to_update
     if !ismissing(name)
@@ -137,8 +149,23 @@ for name in names_to_update
                 leftjoin(sjs_ratings2, on = :date)
                 @transform :Rating = :Rating + :rating_adj
                 select(Not(:rating_adj))
+                sort(:date)
             end
             #there could be missing ratings
+
+            function locf!(val)
+                last_val = val[1]
+                for i in 2:length(val)
+                    if ismissing(val[i])
+                        val[i] = last_val
+                    else
+                        last_val = val[i]
+                    end
+                end
+                val
+            end
+
+            locf(val) = locf!(copy(val))
 
             tmp = @chain df begin
                 @subset (:black == name) | (:white == name)
@@ -154,13 +181,19 @@ for name in names_to_update
                     :result => Symbol("Game result"),
                     :komi_fixed => :Komi
                 )
-                innerjoin(ratings_to_merge_on, on = :Date => :date)
+                leftjoin(ratings_to_merge_on, on = :Date => :date)
+                sort(:Date)
+                @transform :Rating = @c locf(:Rating)
             end
 
             if nrow(tmp) == 0
                 println("no games for $name so can't create individual game files")
                 continue
             end
+            # println(name)
+
+            # skip
+            all(ismissing.(tmp.Rating)) && continue
 
             tmp = @chain tmp begin
                 @subset(!ismissing(:Rating))

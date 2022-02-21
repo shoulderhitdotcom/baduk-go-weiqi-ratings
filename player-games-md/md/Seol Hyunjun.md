@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-21 | 第14回春蘭杯韓国予選 | Lee Jihyun | Seol Hyunjun | Win | W+2.5 | 7.5 | 3471.0 | 0.0 | 
 | 2022-02-21 | 第14回春蘭杯韓国予選 | Lee Jihyun | Seol Hyunjun | Win | W+1¼ | 7.5 | 3471.0 | 5.0 | 
 | 2022-02-19 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Seol Hyunjun | Lose | B+R | 6.5 | 3466.0 | -31.0 | 
 | 2022-02-11 | 2022YK建機杯予選 | Seol Hyunjun |  | Win | B+R | 6.5 | 3497.0 | 0.0 | 

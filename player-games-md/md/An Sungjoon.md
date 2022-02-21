@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-21 | 第14回春蘭杯韓国予選 | An Sungjoon | Weon Seongjin | Win | B+2.5 | 7.5 | 3329.0 | 0.0 | 
 | 2022-02-21 | 第14回春蘭杯韓国予選 | An Sungjoon | Weon Seongjin | Win | B+1¾ | 7.5 | 3329.0 | -4.0 | 
 | 2022-02-18 | 2021-2022韓国囲碁リーグ | An Sungjoon | Kim Myounghoon | Lose | W+R | 6.5 | 3333.0 | -13.0 | 
 | 2022-02-16 | 第5期韓国竜星戦予選 | An Sungjoon | Park Hamin | Win | B+R | 6.5 | 3346.0 | -20.0 | 

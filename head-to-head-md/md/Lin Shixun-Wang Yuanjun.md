@@ -7,21 +7,22 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Game result** | **Komi** | **Cumulative Lin Shixun vs Wang Yuanjun** | **Lin Shixun streak** | **Wang Yuanjun streak** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-03-15 | 第2期名人冠軍戦3回戦 | Lin Shixun | Wang Yuanjun | W+R | 6.5 | 0:9 | 0 | 9 | 
-| 2020-04-14 | 第19期天元戦（台湾）リーグ | Wang Yuanjun | Lin Shixun | B+R | 6.5 | 0:7 | 0 | 7 | 
-| 2020-04-13 | 第10期友士杯十段戦勝部2回戦 | Wang Yuanjun | Lin Shixun | B+R | 6.5 | 0:2 | 0 | 2 | 
-| 2020-02-23 | 第25回LG杯台湾代表選抜戦 | Wang Yuanjun | Lin Shixun | B+R | 6.5 | 0:8 | 0 | 8 | 
-| 2018-11-05 | 第11期棋王戦（台湾）リーグ第6節 | Lin Shixun | Wang Yuanjun | W+R | 6.5 | 0:3 | 0 | 3 | 
-| 2018-10-30 | 第14期国手戦（台湾）4強戦 | Wang Yuanjun | Lin Shixun | B+R | 6.5 | 0:6 | 0 | 6 | 
-| 2017-08-29 | 第四回福蔭杯代表選抜戦決勝勝部第一局 | Wang Yuanjun | Lin Shixun | B+R | 6.5 | 0:15 | 0 | 15 | 
-| 2017-07-05 | 16回台湾天元戦挑戦手合7番4局 | Lin Shixun | Wang Yuanjun | W+R | 6.5 | 0:1 | 0 | 1 | 
-| 2017-06-26 | 第7期友士杯十段戦挑戦者決定戦 | Lin Shixun | Wang Yuanjun | W+3.5 | 6.5 | 0:11 | 0 | 11 | 
-| 2017-06-20 | 第十六期天元挑戦手合第三局 | Wang Yuanjun | Lin Shixun | B+R | 6.5 | 0:13 | 0 | 13 | 
-| 2017-06-06 | 第十六期天元挑戦手合第二局 | Lin Shixun | Wang Yuanjun | W+R | 6.5 | 0:14 | 0 | 14 | 
-| 2017-06-02 | 第7期友士杯十段戦2回戦 | Wang Yuanjun | Lin Shixun | B+R | 6.5 | 0:10 | 0 | 10 | 
-| 2017-05-21 | 第十六期天元挑戦手合第一局 | Wang Yuanjun | Lin Shixun | B+R | 6.5 | 0:12 | 0 | 12 | 
-| 2016-10-28 | 第12期国手戦（台湾）リーグ戦第二局 補戦 | Wang Yuanjun | Lin Shixun | B+R | 6.5 | 0:5 | 0 | 5 | 
-| 2015-02-06 | 第12期倡棋杯中国プロ囲碁選手権戦台湾予選 | Lin Shixun | Wang Yuanjun | W+R | 7.5 | 0:4 | 0 | 4 |
+| 2022-02-21 | 第3期名人冠軍戦1回戦  | Lin Shixun | Wang Yuanjun | B+R | 6.5 | 1:0 | 1 | 0 | 
+| 2021-03-15 | 第2期名人冠軍戦3回戦 | Lin Shixun | Wang Yuanjun | W+R | 6.5 | 1:9 | 0 | 9 | 
+| 2020-04-14 | 第19期天元戦（台湾）リーグ | Wang Yuanjun | Lin Shixun | B+R | 6.5 | 1:7 | 0 | 7 | 
+| 2020-04-13 | 第10期友士杯十段戦勝部2回戦 | Wang Yuanjun | Lin Shixun | B+R | 6.5 | 1:2 | 0 | 2 | 
+| 2020-02-23 | 第25回LG杯台湾代表選抜戦 | Wang Yuanjun | Lin Shixun | B+R | 6.5 | 1:8 | 0 | 8 | 
+| 2018-11-05 | 第11期棋王戦（台湾）リーグ第6節 | Lin Shixun | Wang Yuanjun | W+R | 6.5 | 1:3 | 0 | 3 | 
+| 2018-10-30 | 第14期国手戦（台湾）4強戦 | Wang Yuanjun | Lin Shixun | B+R | 6.5 | 1:6 | 0 | 6 | 
+| 2017-08-29 | 第四回福蔭杯代表選抜戦決勝勝部第一局 | Wang Yuanjun | Lin Shixun | B+R | 6.5 | 1:15 | 0 | 15 | 
+| 2017-07-05 | 16回台湾天元戦挑戦手合7番4局 | Lin Shixun | Wang Yuanjun | W+R | 6.5 | 1:1 | 0 | 1 | 
+| 2017-06-26 | 第7期友士杯十段戦挑戦者決定戦 | Lin Shixun | Wang Yuanjun | W+3.5 | 6.5 | 1:11 | 0 | 11 | 
+| 2017-06-20 | 第十六期天元挑戦手合第三局 | Wang Yuanjun | Lin Shixun | B+R | 6.5 | 1:13 | 0 | 13 | 
+| 2017-06-06 | 第十六期天元挑戦手合第二局 | Lin Shixun | Wang Yuanjun | W+R | 6.5 | 1:14 | 0 | 14 | 
+| 2017-06-02 | 第7期友士杯十段戦2回戦 | Wang Yuanjun | Lin Shixun | B+R | 6.5 | 1:10 | 0 | 10 | 
+| 2017-05-21 | 第十六期天元挑戦手合第一局 | Wang Yuanjun | Lin Shixun | B+R | 6.5 | 1:12 | 0 | 12 | 
+| 2016-10-28 | 第12期国手戦（台湾）リーグ戦第二局 補戦 | Wang Yuanjun | Lin Shixun | B+R | 6.5 | 1:5 | 0 | 5 | 
+| 2015-02-06 | 第12期倡棋杯中国プロ囲碁選手権戦台湾予選 | Lin Shixun | Wang Yuanjun | W+R | 7.5 | 1:4 | 0 | 4 |
 
 
 

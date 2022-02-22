@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-22 | 第14回春蘭杯台湾予選 |  | Lin Lixiang | Win | W+R | 7.5 | 3184.0 | 5.0 | 
 | 2022-02-21 | 第3期名人冠軍戦1回戦 |  | Lin Lixiang | Win | W+R | 6.5 | 3179.0 | -6.0 | 
 | 2022-02-16 | 第18回倡棋杯台湾予選 |  | Lin Lixiang | Win | W+R | 7.5 | 3185.0 | -7.0 | 
 | 2022-02-14 | 第3期名人冠軍戦予選 | Lin Jiehan | Lin Lixiang | Win | W+R | 6.5 | 3192.0 | 11.0 | 
@@ -23,8 +24,8 @@
 | 2021-11-23 | 第2回UMC聯電杯早碁争覇戦3回戦  | Chen Qirui | Lin Lixiang | Lose | B+R | 6.5 | 3119.0 | 12.0 | 
 | 2021-11-19 | 第2回UMC聯電杯早碁争覇戦2回戦 | Lin Lixiang |  | Win | B+R | 6.5 | 3107.0 | 31.0 | 
 | 2021-10-28 | 第14期棋王戦（台湾）リーグ  | Lin Lixiang | Xiao Zhenghao | Win | B+0.5 | 6.5 | 3076.0 | -9.0 | 
-| 2021-10-25 | 第14期棋王戦（台湾）リーグ  | Lin Lixiang | Lin Junyan | Lose | W+R | 6.5 | 3085.0 | -1.0 | 
-| 2021-10-21 | 第14期棋王戦（台湾）リーグ | Wang Yuanjun | Lin Lixiang | Lose | B+3.5 | 6.5 | 3086.0 | 9.0 | 
+| 2021-10-25 | 第14期棋王戦（台湾）リーグ  | Lin Lixiang | Lin Junyan | Lose | W+R | 6.5 | 3085.0 | -2.0 | 
+| 2021-10-21 | 第14期棋王戦（台湾）リーグ | Wang Yuanjun | Lin Lixiang | Lose | B+3.5 | 6.5 | 3087.0 | 10.0 | 
 | 2021-10-19 | 第9期中環碁聖戦8強戦 | Lin Lixiang | Chen Qirui | Lose | W+R | 6.5 | 3077.0 | -6.0 | 
 | 2021-10-18 | 第14期棋王戦（台湾）リーグ | Cai Chengwei | Lin Lixiang | Win | W+3.5 | 6.5 | 3083.0 | 10.0 | 
 | 2021-10-14 | 第14期棋王戦（台湾）リーグ | Lai Junfu | Lin Lixiang | Lose | B+R | 6.5 | 3073.0 | -4.0 | 
@@ -43,13 +44,13 @@
 | 2021-09-07 | 第26回三星火災杯台湾予選 | Lin Lixiang | Xu Haohong | Win | B+R | 6.5 | 3061.0 | 16.0 | 
 | 2021-09-03 | 第26回三星火災杯台湾予選 | Lin Lixiang |  | Win | B+R | 6.5 | 3045.0 | -9.0 | 
 | 2021-09-01 | 第26回三星火災杯台湾予選 | Lu Yiquan | Lin Lixiang | Win | W+R | 6.5 | 3054.0 | 0.0 | 
-| 2021-09-01 | 第26回三星火災杯台湾予選 | Lin Lixiang |  | Win | B+R | 6.5 | 3054.0 | -15.0 | 
-| 2021-08-12 | 第2期聯電杯プロ囲碁戦敗部3回戦 | Lin Lixiang | Li Wei | Lose | W+R | 6.5 | 3069.0 | 0.0 | 
-| 2021-08-10 | 第2期聯電杯プロ囲碁戦敗部2回戦 | Chen Xi | Lin Lixiang | Win | W+R | 6.5 | 3069.0 | 5.0 | 
-| 2021-08-08 | 第2期聯電杯プロ囲碁戦敗部1回戦 | Lin Lixiang |  | Win | B+R | 6.5 | 3064.0 | -2.0 | 
+| 2021-09-01 | 第26回三星火災杯台湾予選 | Lin Lixiang |  | Win | B+R | 6.5 | 3054.0 | -16.0 | 
+| 2021-08-12 | 第2期聯電杯プロ囲碁戦敗部3回戦 | Lin Lixiang | Li Wei | Lose | W+R | 6.5 | 3070.0 | 0.0 | 
+| 2021-08-10 | 第2期聯電杯プロ囲碁戦敗部2回戦 | Chen Xi | Lin Lixiang | Win | W+R | 6.5 | 3070.0 | 5.0 | 
+| 2021-08-08 | 第2期聯電杯プロ囲碁戦敗部1回戦 | Lin Lixiang |  | Win | B+R | 6.5 | 3065.0 | -1.0 | 
 | 2021-08-05 | 第2期聯電杯プロ囲碁戦勝部1回戦 |  | Lin Lixiang | Lose | B+R | 6.5 | 3066.0 | -17.0 | 
-| 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 |  | Lin Lixiang | Win | W+R | 6.5 | 3083.0 | 6.0 | 
-| 2021-06-15 | 第17期国手戦（台湾）挑戦手合五番勝負第3局 | Lin Lixiang | Xu Haohong | Lose | W+0.5 | 6.5 | 3077.0 | 29.0 | 
+| 2021-08-01 | 第2期聯電杯プロ囲碁戦予選 |  | Lin Lixiang | Win | W+R | 6.5 | 3083.0 | 5.0 | 
+| 2021-06-15 | 第17期国手戦（台湾）挑戦手合五番勝負第3局 | Lin Lixiang | Xu Haohong | Lose | W+0.5 | 6.5 | 3078.0 | 30.0 | 
 | 2021-06-08 | 第17期国手戦（台湾）挑戦手合五番勝負第2局 | Xu Haohong | Lin Lixiang | Lose | B+R | 6.5 | 3048.0 | 15.0 | 
 | 2021-05-18 | 第17期国手戦（台湾）挑戦手合五番勝負第1局 | Lin Lixiang | Xu Haohong | Lose | W+R | 6.5 | 3033.0 | 0.0 | 
 | 2021-05-14 | 第2期聯電杯プロ囲碁戦予選 | Gao Yun | Lin Lixiang | Win | W+R | 6.5 | 3033.0 | 10.0 | 
@@ -80,8 +81,8 @@
 | 2021-02-02 | 第20期天元戦（台湾）敗部4回戦 | Chen Shiyuan | Lin Lixiang | Win | W+R | 6.5 | 3008.0 | 25.0 | 
 | 2021-01-26 | 第20期天元戦（台湾）勝部3回戦 | Lin Lixiang | Lu Yiquan | Lose | W+R | 6.5 | 2983.0 | -18.0 | 
 | 2021-01-22 | 第20期天元戦（台湾）勝部2回戦 | Lin Lixiang | Lin Shixun | Win | B+R | 6.5 | 3001.0 | 7.0 | 
-| 2021-01-21 | 第13回海峰杯プロ囲碁戦3回戦 | Yang Bowei | Lin Lixiang | Lose | B+R | 6.5 | 2994.0 | 39.0 | 
-| 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Lin Lixiang | Cai Chengwei | Win | B+5.5 | 6.5 | 2955.0 | -18.0 | 
+| 2021-01-21 | 第13回海峰杯プロ囲碁戦3回戦 | Yang Bowei | Lin Lixiang | Lose | B+R | 6.5 | 2994.0 | 38.0 | 
+| 2021-01-19 | 第20期天元戦（台湾）勝部1回戦 | Lin Lixiang | Cai Chengwei | Win | B+5.5 | 6.5 | 2956.0 | -17.0 | 
 | 2021-01-14 | 第13回海峰杯プロ囲碁戦2回戦 | Lin Lixiang |  | Win | B+R | 6.5 | 2973.0 | 9.0 | 
 | 2021-01-12 | 第20期天元戦（台湾）予選 |  | Lin Lixiang | Win | W+R | 6.5 | 2964.0 | -7.0 | 
 | 2021-01-07 | 第13回海峰杯プロ囲碁戦1回戦 | Lin Lixiang |  | Win | B+R | 6.5 | 2971.0 | -4.0 | 
@@ -132,10 +133,10 @@
 | 2020-04-13 | 第10期友士杯十段戦勝部2回戦 | Lin Lixiang | Lai Junfu | Win | B+R | 6.5 | 3249.0 | 2.0 | 
 | 2020-04-09 | 第10期友士杯十段戦勝部1回戦 | Lin Lixiang | Chen Shiyuan | Win | B+5.5 | 6.5 | 3247.0 | 48.0 | 
 | 2020-04-01 | 第5回百霊杯台湾代表選抜戦 | Lin Lixiang | Xu Haohong | Lose | W+R | 7.5 | 3199.0 | -3.0 | 
-| 2020-03-27 | 第5回百霊杯台湾代表選抜戦 | Chen Qirui | Lin Lixiang | Win | W+R | 7.5 | 3202.0 | 9.0 | 
-| 2020-03-20 | 第5回百霊杯台湾代表選抜戦 | Lin Lixiang |  | Win | B+R | 7.5 | 3193.0 | 2.0 | 
-| 2020-03-19 | 第10期友士杯十段戦予選勝部決勝 | Lin Jiehan | Lin Lixiang | Win | W+R | 6.5 | 3191.0 | -2.0 | 
-| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Chen Xi | Lin Lixiang | Win | W+R | 7.5 | 3193.0 | 3.0 | 
+| 2020-03-27 | 第5回百霊杯台湾代表選抜戦 | Chen Qirui | Lin Lixiang | Win | W+R | 7.5 | 3202.0 | 8.0 | 
+| 2020-03-20 | 第5回百霊杯台湾代表選抜戦 | Lin Lixiang |  | Win | B+R | 7.5 | 3194.0 | 2.0 | 
+| 2020-03-19 | 第10期友士杯十段戦予選勝部決勝 | Lin Jiehan | Lin Lixiang | Win | W+R | 6.5 | 3192.0 | -2.0 | 
+| 2020-03-18 | 第5回百霊杯台湾代表選抜戦 | Chen Xi | Lin Lixiang | Win | W+R | 7.5 | 3194.0 | 4.0 | 
 | 2020-03-12 | 第10期友士杯十段戦予選勝部2回戦 | Lin Lixiang | Lin Yuxiang | Win | B+1.5 | 6.5 | 3190.0 | 0.0 | 
 | 2020-03-12 | 第10期友士杯十段戦予選勝部1回戦 |  | Lin Lixiang | Win | W+R | 6.5 | 3190.0 | 12.0 | 
 | 2020-03-05 | 第12回海峰杯プロ囲碁戦8強戦 | Lin Junyan | Lin Lixiang | Lose | B+1.5 | 6.5 | 3178.0 | -12.0 | 
@@ -188,12 +189,12 @@
 | 2019-05-14 | IMSAワールドマスターズチャンピオンシップ2019男子団体戦1回戦 | Lin Lixiang | Mi Yuting | Win | B+R | 7.5 | 3281.0 | 72.0 | 
 | 2019-04-10 | 第9期友士杯十段戦予選敗部3回戦 | Yu Binghuang | Lin Lixiang | Lose | B+R | 6.5 | 3209.0 | -28.0 | 
 | 2019-04-08 | 第9期友士杯十段戦予選勝部準決勝 | Lin Jiehan | Lin Lixiang | Lose | B+1.5 | 6.5 | 3237.0 | -13.0 | 
-| 2019-04-01 | 第24回LG杯統合予選1回戦 | Gang Woohyeok | Lin Lixiang | Win | W+1.5 | 6.5 | 3250.0 | 4.0 | 
-| 2019-03-14 | 第11回海峰杯プロ囲碁戦8強戦 | Lin Lixiang | Xu Haohong | Lose | W+3.5 | 6.5 | 3246.0 | -13.0 | 
-| 2019-03-11 | 第11回海峰杯プロ囲碁戦16強戦 |  | Lin Lixiang | Win | W+R | 6.5 | 3259.0 | 14.0 | 
-| 2019-03-07 | 第11回海峰杯プロ囲碁戦32強戦 | Chen Xi | Lin Lixiang | Win | W+R | 6.5 | 3245.0 | -3.0 | 
-| 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 |  | Lin Lixiang | Win | W+0.5 | 6.5 | 3248.0 | 1.0 | 
-| 2019-02-26 | 第18期天元戦（台湾）敗部2回戦 | Chen Qirui | Lin Lixiang | Lose | B+1.5 | 6.5 | 3247.0 | -1.0 | 
+| 2019-04-01 | 第24回LG杯統合予選1回戦 | Gang Woohyeok | Lin Lixiang | Win | W+1.5 | 6.5 | 3250.0 | 3.0 | 
+| 2019-03-14 | 第11回海峰杯プロ囲碁戦8強戦 | Lin Lixiang | Xu Haohong | Lose | W+3.5 | 6.5 | 3247.0 | -12.0 | 
+| 2019-03-11 | 第11回海峰杯プロ囲碁戦16強戦 |  | Lin Lixiang | Win | W+R | 6.5 | 3259.0 | 13.0 | 
+| 2019-03-07 | 第11回海峰杯プロ囲碁戦32強戦 | Chen Xi | Lin Lixiang | Win | W+R | 6.5 | 3246.0 | -3.0 | 
+| 2019-03-04 | 第11回海峰杯プロ囲碁戦64強戦 |  | Lin Lixiang | Win | W+0.5 | 6.5 | 3249.0 | 1.0 | 
+| 2019-02-26 | 第18期天元戦（台湾）敗部2回戦 | Chen Qirui | Lin Lixiang | Lose | B+1.5 | 6.5 | 3248.0 | 0.0 | 
 | 2019-02-20 | 第1回IWMC台湾代表選抜戦男子混双決勝 | Lin Lixiang | Wang Yuanjun | Lose | W+R | 7.5 | 3248.0 | -4.0 | 
 | 2019-02-19 | 第18期天元戦（台湾）勝部2回戦 | Lin Lixiang | Chen Shiyuan | Lose | W+R | 6.5 | 3252.0 | -8.0 | 
 | 2019-02-12 | 第18期天元戦（台湾）勝部1回戦 |  | Lin Lixiang | Win | W+2.5 | 6.5 | 3260.0 | 45.0 | 
@@ -213,12 +214,12 @@
 | 2018-10-18 | 第11期棋王戦（台湾）リーグ第1節  | Lin Lixiang | Xu Haohong | Win | B+R | 6.5 | 3128.0 | 22.0 | 
 | 2018-10-02 | 第14期国手戦（台湾）2回戦 |  | Lin Lixiang | Lose | B+R | 6.5 | 3106.0 | -27.0 | 
 | 2018-09-30 | 第6期中環碁聖戦3回戦 | Lu Yiquan | Lin Lixiang | Lose | B+3.5 | 6.5 | 3133.0 | -34.0 | 
-| 2018-09-18 | 第14期国手戦（台湾）1回戦上半区 | Lin Lixiang | Lu Yiquan | Win | B+R | 6.5 | 3167.0 | 1.0 | 
-| 2018-09-09 | 第6期中環碁聖戦2回戦 | Lin Lixiang | Zhou Yinnan | Win | B+R | 6.5 | 3166.0 | 12.0 | 
+| 2018-09-18 | 第14期国手戦（台湾）1回戦上半区 | Lin Lixiang | Lu Yiquan | Win | B+R | 6.5 | 3167.0 | 0.0 | 
+| 2018-09-09 | 第6期中環碁聖戦2回戦 | Lin Lixiang | Zhou Yinnan | Win | B+R | 6.5 | 3167.0 | 13.0 | 
 | 2018-09-02 | 第6期中環碁聖戦1回戦上半区 | Lin Lixiang | Lai Junfu | Win | B+R | 6.5 | 3154.0 | 114.0 | 
 | 2018-06-07 | 第8回台湾友士杯十段戦敗部準決勝 | Lin Lixiang | Xiao Zhenghao | Lose | W+R | 6.5 | 3040.0 | -3.0 | 
-| 2018-05-31 | 第8期友士杯十段戦敗者復活戦3回戦 | Lin Lixiang | Jian Jingting | Win | B+R | 6.5 | 3043.0 | 22.0 | 
-| 2018-05-28 | 第8期友士杯十段戦敗者復活戦2回戦 | Lin Lixiang | Li Wei | Win | B+R | 6.5 | 3021.0 | 22.0 | 
+| 2018-05-31 | 第8期友士杯十段戦敗者復活戦3回戦 | Lin Lixiang | Jian Jingting | Win | B+R | 6.5 | 3043.0 | 21.0 | 
+| 2018-05-28 | 第8期友士杯十段戦敗者復活戦2回戦 | Lin Lixiang | Li Wei | Win | B+R | 6.5 | 3022.0 | 23.0 | 
 | 2018-05-24 | 第8期友士杯十段戦2回戦 | Lin Lixiang | Lin Junyan | Lose | W+R | 6.5 | 2999.0 | -12.0 | 
 | 2018-05-21 | 第8期友士杯十段戦1回戦 | Huang Shiyuan | Lin Lixiang | Win | W+R | 6.5 | 3011.0 | 30.0 | 
 | 2018-05-14 | 第8期友士杯十段戦予選 | Lin Lixiang | Lin Shuyang | Win | B+R | 6.5 | 2981.0 | 0.0 | 
@@ -237,12 +238,12 @@
 | 2018-03-01 | 第10回海峰杯プロ囲碁戦64強戦 | Lin Lixiang | Lin Zhihan | Lose | W+R | 6.5 | 3069.0 | 19.0 | 
 | 2018-02-07 | 第12回春蘭杯台湾予選 | Huang Shiyuan | Lin Lixiang | Lose | B+5 | 7.5 | 3050.0 | -19.0 | 
 | 2018-02-06 | 第12回春蘭杯台湾予選 | Jian Jingting | Lin Lixiang | Win | W+R | 7.5 | 3069.0 | 3.0 | 
-| 2018-02-01 | 第23回LG杯台湾代表選抜戦決勝第二局 | Lin Lixiang | Chen Qirui | Lose | W+R | 6.5 | 3066.0 | -18.0 | 
-| 2018-01-26 | 第23回LG杯台湾代表選抜戦予選第三局 | Xu Yuqi | Lin Lixiang | Win | W+1.5 | 6.5 | 3084.0 | 6.0 | 
-| 2018-01-25 | 第23回LG杯台湾代表選抜戦予選第二局 | Lin Lixiang | Lai Junfu | Win | B+0.5 | 6.5 | 3078.0 | 3.0 | 
-| 2018-01-23 | 2018台湾精鋭vs日本精鋭交流戦第5戦 | Motoki Katsuya | Lin Lixiang | Lose | B+R | 6.5 | 3075.0 | -3.0 | 
-| 2018-01-22 | 2018台湾精鋭vs日本精鋭交流戦第3戦  | Hirata Tomoya | Lin Lixiang | Win | W+R | 6.5 | 3078.0 | 21.0 | 
-| 2018-01-20 | 2018台湾精鋭vs日本精鋭交流戦第1戦 | Lin Lixiang | Cho Riyu | Lose | W+R | 6.5 | 3057.0 | -17.0 | 
+| 2018-02-01 | 第23回LG杯台湾代表選抜戦決勝第二局 | Lin Lixiang | Chen Qirui | Lose | W+R | 6.5 | 3066.0 | -19.0 | 
+| 2018-01-26 | 第23回LG杯台湾代表選抜戦予選第三局 | Xu Yuqi | Lin Lixiang | Win | W+1.5 | 6.5 | 3085.0 | 6.0 | 
+| 2018-01-25 | 第23回LG杯台湾代表選抜戦予選第二局 | Lin Lixiang | Lai Junfu | Win | B+0.5 | 6.5 | 3079.0 | 3.0 | 
+| 2018-01-23 | 2018台湾精鋭vs日本精鋭交流戦第5戦 | Motoki Katsuya | Lin Lixiang | Lose | B+R | 6.5 | 3076.0 | -3.0 | 
+| 2018-01-22 | 2018台湾精鋭vs日本精鋭交流戦第3戦  | Hirata Tomoya | Lin Lixiang | Win | W+R | 6.5 | 3079.0 | 21.0 | 
+| 2018-01-20 | 2018台湾精鋭vs日本精鋭交流戦第1戦 | Lin Lixiang | Cho Riyu | Lose | W+R | 6.5 | 3058.0 | -16.0 | 
 | 2017-11-13 | 第10期棋王戦（台湾）挑戦者決定戦 | Lin Junyan | Lin Lixiang | Lose | B+3.5 | 6.5 | 3074.0 | 4.0 | 
 | 2017-11-09 | 第10期棋王戦（台湾）リーグ | Lin Lixiang | Chen Qirui | Lose | W+R | 6.5 | 3070.0 | -13.0 | 
 | 2017-11-06 | 第10期棋王戦（台湾）リーグ | Zhou Junxun | Lin Lixiang | Win | W+R | 6.5 | 3083.0 | 31.0 | 
@@ -272,8 +273,8 @@
 | 2017-05-05 | 第十六期天元戦リーグ戦第七局 | Lin Lixiang | Lin Shixun | Lose | W+R | 6.5 | 3034.0 | -25.0 | 
 | 2017-05-02 | 第十六期天元戦リーグ戦第六局 | Lin Lixiang | Xiao Zhenghao | Win | B+2.5 | 6.5 | 3059.0 | 18.0 | 
 | 2017-04-28 | 第十六期天元戦リーグ戦第五局 | Lin Junyan | Lin Lixiang | Win | W+R | 6.5 | 3041.0 | 4.0 | 
-| 2017-04-25 | 第十六期天元戦リーグ戦第四局 | Lai Junfu | Lin Lixiang | Lose | B+R | 6.5 | 3037.0 | -50.0 | 
-| 2017-04-21 | 第十六期天元戦リーグ戦第三局 | Chen Shiyuan | Lin Lixiang | Win | W+3.5 | 6.5 | 3087.0 | 8.0 | 
+| 2017-04-25 | 第十六期天元戦リーグ戦第四局 | Lai Junfu | Lin Lixiang | Lose | B+R | 6.5 | 3037.0 | -51.0 | 
+| 2017-04-21 | 第十六期天元戦リーグ戦第三局 | Chen Shiyuan | Lin Lixiang | Win | W+3.5 | 6.5 | 3088.0 | 9.0 | 
 | 2017-04-18 | 第十六期天元戦リーグ戦第二局 | Lin Lixiang | Cai Chengwei | Win | B+R | 6.5 | 3079.0 | -1.0 | 
 | 2017-04-14 | 第十六期天元戦リーグ戦第一局 | Xu Yuqi | Lin Lixiang | Win | W+1.5 | 6.5 | 3080.0 | 0.0 | 
 | 2017-03-20 | 第9回海峰杯プロ囲碁戦8強戦 | Lin Lixiang | Lin Junyan | Lose | W+R | 6.5 | 3080.0 | -2.0 | 
@@ -377,8 +378,8 @@
 | 2014-10-09 | 第7期棋王戦（台湾）リーグ | Xiao Zhenghao | Lin Lixiang | Win | W+R | 6.5 | 3136.0 | 32.0 | 
 | 2014-10-06 | 第7期棋王戦（台湾）リーグ | Lin Lixiang | Chen Qirui | Win | B+R | 6.5 | 3104.0 | 8.0 | 
 | 2014-10-03 | 2014年国際新鋭囲碁対抗戦第3戦 | Lin Lixiang | Li Xuanhao | Lose | W+R | 6.5 | 3096.0 | 17.0 | 
-| 2014-10-02 | 2014年国際新鋭囲碁対抗戦第2戦 | Lin Lixiang | Hirata Tomoya | Lose | W+R | 6.5 | 3079.0 | -32.0 | 
-| 2014-10-01 | 2014年国際新鋭囲碁対抗戦第1戦 | Lin Lixiang | Han Seungjoo | Lose | W+R | 6.5 | 3111.0 | 15.0 | 
+| 2014-10-02 | 2014年国際新鋭囲碁対抗戦第2戦 | Lin Lixiang | Hirata Tomoya | Lose | W+R | 6.5 | 3079.0 | -33.0 | 
+| 2014-10-01 | 2014年国際新鋭囲碁対抗戦第1戦 | Lin Lixiang | Han Seungjoo | Lose | W+R | 6.5 | 3112.0 | 16.0 | 
 | 2014-09-29 | 第7期棋王戦（台湾）リーグ | Lin Junyan | Lin Lixiang | Win | W+R | 6.5 | 3096.0 | 99.0 | 
 | 2014-07-25 | 第2期中環碁聖戦決勝三番勝負第3局 | Lin Lixiang | Chen Shiyuan | Lose | W+R | 6.5 | 2997.0 | -77.0 | 
 | 2014-07-01 | 第13期天元戦（台湾）挑戦手合五番勝負第4局 | Lin Lixiang | Xiao Zhenghao | Lose | W+2.5 | 6.5 | 3074.0 | -21.0 | 

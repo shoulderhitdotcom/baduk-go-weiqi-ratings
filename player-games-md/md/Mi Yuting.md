@@ -8,8 +8,7 @@
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-02-23 | 第23回農心辛ラーメン杯世界囲碁最強戦第11戦（再対局）  | Mi Yuting | Shin Jinseo | Lose | W+R | 6.5 | 3671.0 | -4.0 | 
-| 2022-02-22 | 第23回農心辛ラーメン杯世界囲碁最強戦第11戦 | Shin Jinseo | Mi Yuting | Lose | Void | 6.5 | 3675.0 | 0.0 | 
-| 2022-02-22 | 第23回農心辛ラーメン杯世界囲碁最強戦第11戦 | Shin Jinseo | Mi Yuting | Lose | B+T | 6.5 | 3675.0 | -5.0 | 
+| 2022-02-22 | 第23回農心辛ラーメン杯世界囲碁最強戦第11戦 | Shin Jinseo | Mi Yuting | Lose | Void | 6.5 | 3675.0 | -5.0 | 
 | 2022-02-21 | 第23回農心辛ラーメン杯世界囲碁最強戦第10戦  | Iyama Yuta | Mi Yuting | Win | W+R | 6.5 | 3680.0 | -1.0 | 
 | 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Mi Yuting | Jiang Weijie | Win | B+R | 7.5 | 3681.0 | 4.0 | 
 | 2022-02-17 | 第36期中国囲碁天元戦1回戦 | Mi Yuting | Tan Xiao | Win | B+R | 7.5 | 3677.0 | -14.0 | 

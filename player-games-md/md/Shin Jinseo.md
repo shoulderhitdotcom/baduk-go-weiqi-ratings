@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-23 | 第23回農心辛ラーメン杯世界囲碁最強戦第11戦（再対局）  | Mi Yuting | Shin Jinseo | Win | W+R | 6.5 | 3832.0 | 0.0 | 
 | 2022-02-22 | 第23回農心辛ラーメン杯世界囲碁最強戦第11戦 | Shin Jinseo | Mi Yuting | Lose | Void | 6.5 | 3832.0 | 0.0 | 
 | 2022-02-22 | 第23回農心辛ラーメン杯世界囲碁最強戦第11戦 | Shin Jinseo | Mi Yuting | Win | B+T | 6.5 | 3832.0 | 0.0 | 
 | 2022-02-20 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Byun Sangil | Win | B+R | 6.5 | 3832.0 | 0.0 | 

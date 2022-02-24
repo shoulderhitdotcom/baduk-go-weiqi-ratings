@@ -1,4 +1,4 @@
-## Kim Sonjin Games
+## Park Junghwan vs Park Younglong Head to head
 
 [Back to ranking](../../index.md)
 
@@ -9,6 +9,7 @@ using DataFrames: DataFrame
 
 include("c:/weiqi/simulation/utils.jl")
 
-pings_for_md = JDF.load("../jdf/Kim Sonjin.jdf") |> DataFrame
+pings_for_md = JDF.load("../jdf/Park Junghwan-Park Younglong.jdf") |> DataFrame
+
 df_to_md(pings_for_md)
 ```

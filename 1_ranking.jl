@@ -169,6 +169,49 @@ pings_hist = unique(vcat(pings_hist, select(pings_for_md1, cols_to_keep)), [:dat
 
 JDF.save("pings_hist.jdf", pings_hist)
 
+using Dates
+
+ngames = @chain tbl begin
+    @subset :date >= today() - Day(365)
+    stack([:black, :white], :date)
+    groupby(:value)
+    combine(nrow)
+    @transform :eng_name_old = get(NAMESDB, :value, "")
+end
+# figure out how's the best
+
+md = maximum(pings_hist.date)
+
+top100_names = @chain pings_hist begin
+    @subset :date == md
+    @subset(:eng_name_old != "")
+    sort(:Rating, rev = true)
+    _[1:100, :eng_name_old]
+end
+
+biggest_rating_jump = @chain pings_hist begin
+    @subset :eng_name_old in top100_names
+    groupby(:eng_name_old)
+    combine(df -> begin
+        if nrow(df) > 1
+            tmp = sort(df, :date)[end-1:end, :]
+            return DataFrame(date = tmp[end, :date], rate_diff = tmp[end, :Rating] - tmp[end-1, :Rating])
+        else
+            return DataFrame()
+        end
+    end)
+    @subset :date == md
+    innerjoin(ngames, on = :eng_name_old)
+    select(Not(:value))
+    @subset :nrow >= NGAME_THRESHOLD
+    @subset :rate_diff != 0
+    @subset :date >= today() - Day(14)
+    @transform :abs_rate_diff = abs(:rate_diff)
+    sort(:rate_diff, rev = true)
+    vcat(_[1:10, :],
+    _[end-9:end, :])
+end
+
 # to make sure that the ratings don't slide crazily up and down we need to smooth it over time
 # we smooth by picking out players who've played more than 10 games
 

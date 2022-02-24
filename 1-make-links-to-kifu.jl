@@ -10,7 +10,7 @@ using JDF
 using Missings: skipmissings
 using Revise: includet
 using TableScraper: scrape_tables
-using GLM
+using GLM # need to estimate trends
 
 includet("utils.jl")
 
@@ -134,6 +134,8 @@ end
 
 biggest_movers[end]
 JDF.save("biggest_movers.jdf", biggest_movers[end])
+
+pings_hist_adj
 
 
 

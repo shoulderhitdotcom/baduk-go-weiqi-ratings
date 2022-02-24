@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-24 | 第3期名人冠軍戦2回戦 | Lu Yiquan | Chen Xi | Lose | W+R | 6.5 | 3017.0 | 17.0 | 
 | 2022-02-23 | 第14回春蘭杯台湾予選 | Lu Yiquan | Li Wei | Win | B+R | 7.5 | 3000.0 | -23.0 | 
 | 2022-02-22 | 第14回春蘭杯台湾予選 | Xu Yuqi | Lu Yiquan | Win | W+¼ | 7.5 | 3023.0 | 15.0 | 
 | 2022-02-21 | 第3期名人冠軍戦1回戦 | Xu Yuqi | Lu Yiquan | Win | W+R | 6.5 | 3008.0 | -21.0 | 

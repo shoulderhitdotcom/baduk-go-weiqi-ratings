@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-24 | 第3期名人冠軍戦2回戦 | Xu Jingen | Chen Qirui | Win | W+R | 6.5 | 3323.0 | -4.0 | 
 | 2022-02-23 | 第18回倡棋杯台湾予選 | Chen Qirui | Lin Shixun | Lose | W+1 | 7.5 | 3327.0 | -9.0 | 
 | 2022-02-22 | 第14回春蘭杯台湾予選 | Chen Qirui | Lin Shixun | Lose | W+R | 7.5 | 3336.0 | -6.0 | 
 | 2022-02-21 | 第3期名人冠軍戦1回戦 | Lin Xinwei | Chen Qirui | Win | W+9.5 | 6.5 | 3342.0 | 21.0 | 

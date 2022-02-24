@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-24 | 第3期名人冠軍戦2回戦 | Lai Junfu | Zhang Zhehao | Win | B+R | 6.5 | 3268.0 | -2.0 | 
 | 2022-02-23 | 第18回倡棋杯台湾予選 | Lai Junfu | Xu Jingen | Win | B+R | 7.5 | 3270.0 | 0.0 | 
 | 2022-02-23 | 第14回春蘭杯台湾予選 | Chen Shiyuan | Lai Junfu | Lose | B+R | 7.5 | 3270.0 | 4.0 | 
 | 2022-02-22 | 第14回春蘭杯台湾予選 | Lai Junfu |  | Win | B+R | 7.5 | 3266.0 | 0.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-24 | 第3期名人冠軍戦2回戦 | Lin Shixun |  | Win | B+R | 6.5 | 3151.0 | 23.0 | 
 | 2022-02-23 | 第18回倡棋杯台湾予選 | Chen Qirui | Lin Shixun | Win | W+1 | 7.5 | 3128.0 | 0.0 | 
 | 2022-02-23 | 第14回春蘭杯台湾予選 | Yang Zixuan | Lin Shixun | Win | W+R | 7.5 | 3128.0 | -6.0 | 
 | 2022-02-22 | 第14回春蘭杯台湾予選 | Chen Qirui | Lin Shixun | Win | W+R | 7.5 | 3134.0 | 0.0 | 

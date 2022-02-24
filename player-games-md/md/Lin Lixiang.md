@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-24 | 第3期名人冠軍戦2回戦 | Lin Lixiang | Xiao Zhenghao | Win | B+R | 6.5 | 3199.0 | 11.0 | 
 | 2022-02-23 | 第18回倡棋杯台湾予選 | Lin Lixiang |  | Win | B+R | 7.5 | 3188.0 | 0.0 | 
 | 2022-02-23 | 第14回春蘭杯台湾予選 | Xu Jingen | Lin Lixiang | Win | W+R | 7.5 | 3188.0 | 0.0 | 
 | 2022-02-22 | 第14回春蘭杯台湾予選 |  | Lin Lixiang | Win | W+R | 7.5 | 3188.0 | 5.0 | 

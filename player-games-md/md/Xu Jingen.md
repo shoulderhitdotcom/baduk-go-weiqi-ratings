@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-24 | 第3期名人冠軍戦2回戦 | Xu Jingen | Chen Qirui | Lose | W+R | 6.5 | 2978.0 | 0.0 | 
 | 2022-02-23 | 第18回倡棋杯台湾予選 | Lai Junfu | Xu Jingen | Lose | B+R | 7.5 | 2978.0 | 0.0 | 
 | 2022-02-23 | 第14回春蘭杯台湾予選 | Xu Jingen | Lin Lixiang | Lose | W+R | 7.5 | 2978.0 | -7.0 | 
 | 2022-02-22 | 第14回春蘭杯台湾予選 | Xu Jingen |  | Win | B+R | 7.5 | 2985.0 | 0.0 | 

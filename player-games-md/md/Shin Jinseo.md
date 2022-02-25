@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-25 | 第23回農心辛ラーメン杯世界囲碁最強戦第13戦  | Ke Jie | Shin Jinseo | Win | W+R | 6.5 | 3836.0 | 0.0 | 
 | 2022-02-24 | 第23回農心辛ラーメン杯世界囲碁最強戦第12戦  | Yu Zhengqi | Shin Jinseo | Win | W+R | 6.5 | 3836.0 | 0.0 | 
 | 2022-02-23 | 第23回農心辛ラーメン杯世界囲碁最強戦第11戦（再対局）  | Mi Yuting | Shin Jinseo | Win | W+R | 6.5 | 3836.0 | 0.0 | 
 | 2022-02-22 | 第23回農心辛ラーメン杯世界囲碁最強戦第11戦 | Shin Jinseo | Mi Yuting | Lose | Void | 6.5 | 3836.0 | 0.0 | 
@@ -249,8 +250,8 @@
 | 2019-06-29 | 2019年囲碁テレビ杯早碁戦8強戦 | Seol Hyunjun | Shin Jinseo | Win | W+R | 6.5 | 3762.0 | 0.0 | 
 | 2019-06-23 | 第31回テレビアジア選手権決勝 | Ding Hao | Shin Jinseo | Win | W+R | 7.5 | 3762.0 | 0.0 | 
 | 2019-06-22 | 第31回テレビアジア選手権準決勝 | Shin Jinseo | Shin Minjun | Win | B+R | 7.5 | 3762.0 | 1.0 | 
-| 2019-06-21 | 第31回テレビアジア選手権1回戦 | Shin Jinseo | Xu Jiayang | Win | B+R | 7.5 | 3761.0 | 1.0 | 
-| 2019-06-15 | 2019年囲碁テレビ杯早碁戦16強戦 | Shin Jinseo | Jin Siyoung | Win | B+R | 6.5 | 3760.0 | 0.0 | 
+| 2019-06-21 | 第31回テレビアジア選手権1回戦 | Shin Jinseo | Xu Jiayang | Win | B+R | 7.5 | 3761.0 | 0.0 | 
+| 2019-06-15 | 2019年囲碁テレビ杯早碁戦16強戦 | Shin Jinseo | Jin Siyoung | Win | B+R | 6.5 | 3761.0 | 1.0 | 
 | 2019-06-10 | 第21回中国囲碁甲級リーグ第8節 | Zhou Ruiyang | Shin Jinseo | Lose | B+R | 7.5 | 3760.0 | 1.0 | 
 | 2019-06-08 | 2019年囲碁テレビ杯早碁戦32強戦 | Lee Sedol | Shin Jinseo | Win | W+R | 6.5 | 3759.0 | 0.0 | 
 | 2019-06-07 | 第2期韓国竜星戦16強戦 | Lee Jihyun | Shin Jinseo | Win | W+R | 6.5 | 3759.0 | 1.0 | 
@@ -506,8 +507,8 @@
 | 2016-02-25 | 第21期GSカルテックス杯プロ棋戦2回戦 | Shin Jinseo | Kim Junghyun | Win | B+R | 6.5 | 3562.0 | 0.0 | 
 | 2016-02-21 | 2016四都市新鋭対抗戦第3戦 | Shin Jinseo | Wang Yuanjun | Lose | W+R | 6.5 | 3562.0 | 1.0 | 
 | 2016-02-20 | 2016四都市新鋭対抗戦第2戦 | Shin Jinseo | Li Qincheng | Win | B+R | 6.5 | 3561.0 | 0.0 | 
-| 2016-02-19 | 2016四都市新鋭対抗戦第1戦 | Ida Atsushi | Shin Jinseo | Win | W+R | 6.5 | 3561.0 | 8.0 | 
-| 2016-01-11 | 第8回応氏杯世界選手権韓国選抜戦 | Shin Jinseo | Kang Dongyun | Lose | W+R | 7.5 | 3553.0 | 0.0 | 
+| 2016-02-19 | 2016四都市新鋭対抗戦第1戦 | Ida Atsushi | Shin Jinseo | Win | W+R | 6.5 | 3561.0 | 7.0 | 
+| 2016-01-11 | 第8回応氏杯世界選手権韓国選抜戦 | Shin Jinseo | Kang Dongyun | Lose | W+R | 7.5 | 3554.0 | 1.0 | 
 | 2016-01-08 | 第8回応氏杯世界選手権韓国選抜戦 | Shin Jinseo | Yun Junsang | Win | B+R | 7.5 | 3553.0 | 3.0 | 
 | 2015-12-22 | 2015年レッツランパーク杯オープントーナメント決勝三番勝負第3局 | Kim Myounghoon | Shin Jinseo | Win | W+4.5 | 6.5 | 3550.0 | 1.0 | 
 | 2015-12-21 | 2015年レッツランパーク杯オープントーナメント決勝三番勝負第2局 | Kim Myounghoon | Shin Jinseo | Win | W+R | 6.5 | 3549.0 | 1.0 | 

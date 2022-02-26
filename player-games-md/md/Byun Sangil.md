@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-26 | 第5期韓国竜星戦1回戦 |  | Byun Sangil | Win | W+R | 6.5 | 3698.0 | -1.0 | 
 | 2022-02-25 | 2021-2022韓国囲碁リーグ | Byun Sangil | Lee Yeongkyu | Win | B+R | 6.5 | 3699.0 | 2.0 | 
 | 2022-02-20 | 2021-2022韓国囲碁リーグ | Shin Jinseo | Byun Sangil | Lose | B+R | 6.5 | 3697.0 | -12.0 | 
 | 2022-02-17 | 第3期ソパルコサノル最高棋士決定戦リーグ | Hong Mujin | Byun Sangil | Win | W+R | 6.5 | 3709.0 | -8.0 | 

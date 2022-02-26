@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-02-26 | 2021-2022フューチャーズリーグ | Ryu Minhyung |  | Lose | W+R | 6.5 | 3306.0 | -14.0 | 
 | 2022-02-25 | 2021-2022韓国囲碁リーグ | Kang Dongyun | Ryu Minhyung | Lose | B+R | 6.5 | 3320.0 | -40.0 | 
 | 2022-02-23 | 2021-2022フューチャーズリーグ | Lee Wondo | Ryu Minhyung | Lose | B+R | 6.5 | 3360.0 | -79.0 | 
 | 2022-02-16 | 2021-2022フューチャーズリーグ |  | Ryu Minhyung | Lose | B+R | 6.5 | 3439.0 | -10.0 | 

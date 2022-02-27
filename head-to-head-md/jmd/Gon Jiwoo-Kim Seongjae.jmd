@@ -1,4 +1,4 @@
-## Miyazawa Goro Games
+## Gon Jiwoo vs Kim Seongjae Head to head
 
 [Back to ranking](../../index.md)
 
@@ -9,6 +9,7 @@ using DataFrames: DataFrame
 
 include("c:/weiqi/simulation/utils.jl")
 
-pings_for_md = JDF.load("../jdf/Miyazawa Goro.jdf") |> DataFrame
+pings_for_md = JDF.load("../jdf/Gon Jiwoo-Kim Seongjae.jdf") |> DataFrame
+
 df_to_md(pings_for_md)
 ```

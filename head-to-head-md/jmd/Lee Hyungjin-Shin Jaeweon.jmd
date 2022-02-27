@@ -1,4 +1,4 @@
-## Miyazawa Goro Games
+## Lee Hyungjin vs Shin Jaeweon Head to head
 
 [Back to ranking](../../index.md)
 
@@ -9,6 +9,7 @@ using DataFrames: DataFrame
 
 include("c:/weiqi/simulation/utils.jl")
 
-pings_for_md = JDF.load("../jdf/Miyazawa Goro.jdf") |> DataFrame
+pings_for_md = JDF.load("../jdf/Lee Hyungjin-Shin Jaeweon.jdf") |> DataFrame
+
 df_to_md(pings_for_md)
 ```

@@ -65,8 +65,6 @@ function estimate_ratings_and_save_records(tbl)
     pings, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date
 end
 
-
-
 # are there missing dates in the database
 dates_in_files = Date.(first.(split.(readdir("records"), " ")))
 first_date, last_date = extrema(dates_in_files)
@@ -93,6 +91,90 @@ end
 
 @time pings, games, white75_advantage, black65_advantage, abnormal_players, from_date, to_date =
     estimate_ratings_and_save_records(tbl);
+
+# compute rank tiers
+# can I switch the ranks of two players if I just
+
+# function meh(ok)
+#     m = zeros(Int, length(players_involved), length(players_involved))
+#     for row in eachrow(ok)
+#         m[row.bindex, row.windex] = 1
+#         m[row.windex, row.bindex] = 1
+#     end
+#     for i in 1:length(players_involved)
+#         m[i, i] = 1
+#     end
+
+#     last_m = deepcopy(m)
+#     while true
+#         # println("ok")
+#         # println(sum(last_m))
+#         next_m = min.(last_m * m, 1)
+#         # println(sum(next_m))
+#         if next_m == last_m
+#             return last_m
+#         end
+#         last_m = next_m
+#     end
+# end
+
+# const TO_DATE = maximum(tbl.date)
+# const FROM_DATE = TO_DATE - Day(364)
+
+
+# const ELIGIBLE_PINGS = @chain pings begin
+#     @subset :n > NGAME_THRESHOLD
+#     sort!(:estimate, rev = true)
+# end
+
+# # multipl unitl now differ
+# const TBL_1YR = @chain tbl begin
+#     @subset :date >= FROM_DATE
+# end
+
+# const PLAYERS_INVOLVED = @chain TBL_1YR begin
+#     # @subset :white in nwb || :black in nwb
+#     stack([:black, :white])
+#     _.value
+#     unique()
+#     sort()
+# end
+
+
+# function compute_rank_tiers(first_rank)
+#     eligible_pings = @chain ELIGIBLE_PINGS begin
+#         _[first_rank:first_rank+1, :]
+#         DataFrame(black = _.name[1], white = _.name[2], date = maximum(tbl.date), komi_fixed = 6.5, who_win = "W")
+#     end
+
+#     players_involved = @chain TBL_1YR begin
+
+#         stack([:black, :white])
+#         _.value
+#         unique()
+#         sort()
+#     end
+
+#     m = @chain TBL_1YR begin
+#         @transform :windex = @c indexin(:white, players_involved)
+#         @transform :bindex = @c indexin(:black, players_involved)
+#         @transform :dummy = 1
+#         meh()
+#     end
+
+#     players_involved1 = players_involved[m[1, :].==1]
+
+#     tbl_eligible = @chain TBL_1YR begin
+#         @subset :white in players_involved1 || :black in players_involved1
+#         vcat(eligible_pings)
+#     end
+
+#     pings_tier, _ = estimate_ratings_and_save_records(tbl_eligible)
+
+#     pings_tier
+# end
+
+# @time compute_rank_tiers(2)
 
 # abc = estimate_ratings_and_save_records(tbl)
 # using GLM
@@ -209,7 +291,7 @@ biggest_rating_jump = @chain pings_hist begin
     @transform :abs_rate_diff = abs(:rate_diff)
     sort(:rate_diff, rev = true)
     vcat(_[1:10, :],
-    _[end-9:end, :])
+        _[end-9:end, :])
 end
 
 # to make sure that the ratings don't slide crazily up and down we need to smooth it over time
@@ -327,7 +409,6 @@ sjs_ratings1 = @chain sjs_ratings begin
     end
     @subset(!ismissing(:rating))
 end
-
 
 sjs_ratings2 = @chain pings_hist begin
     select(:date, :eng_name_old, :Rating)

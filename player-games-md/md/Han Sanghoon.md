@@ -7,82 +7,82 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-02-26 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Gon Jiwoo | Win | B+R | 6.5 | 3365.0 | -11.0 | 
-| 2022-02-17 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Park Junghwan | Lose | W+R | 6.5 | 3376.0 | 34.0 | 
-| 2022-02-08 | 第23回マキシムコーヒー杯入神最強戦2回戦 | Byun Sangil | Han Sanghoon | Win | W+R | 6.5 | 3342.0 | 22.0 | 
-| 2022-02-03 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Han Seungjoo | Lose | W+R | 6.5 | 3320.0 | -50.0 | 
-| 2022-01-24 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Heo Yongho | Han Sanghoon | Win | W+R | 6.5 | 3370.0 | 1.0 | 
-| 2022-01-23 | 2021-2022韓国囲碁リーグ | Lee Changseok | Han Sanghoon | Lose | B+R | 6.5 | 3369.0 | -24.0 | 
-| 2022-01-15 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Ahn Kukhyun | Win | B+R | 6.5 | 3393.0 | 28.0 | 
-| 2022-01-06 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Kang Dongyun | Win | B+R | 6.5 | 3365.0 | -79.0 | 
-| 2021-12-31 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Kim Myounghoon | Lose | W+R | 6.5 | 3444.0 | 0.0 | 
-| 2021-12-26 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Moon Minjong | Lose | W+R | 6.5 | 3444.0 | 52.0 | 
-| 2021-12-17 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Han Sanghoon | Win | W+1.5 | 6.5 | 3392.0 | 0.0 | 
-| 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Han Sanghoon | Lose | B+R | 6.5 | 3392.0 | 20.0 | 
-| 2021-11-21 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Choi Jeong | Win | B+R | 6.5 | 3372.0 | 61.0 | 
-| 2021-06-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選（再対局） | Han Sanghoon | Park Minkyu | Lose | W+R | 6.5 | 3311.0 | 0.0 | 
-| 2021-06-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Han Sanghoon | Park Minkyu | Lose | Void | 6.5 | 3311.0 | 3.0 | 
-| 2021-05-09 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Han Sanghoon | Kim Jiseok | Lose | W+3.5 | 6.5 | 3308.0 | -19.0 | 
-| 2021-04-08 | 第26回GSカルテックス杯プロ棋戦1回戦 | Han Sanghoon | Kim Sedong | Lose | W+R | 6.5 | 3327.0 | 1.0 | 
-| 2021-03-06 | 2020-2021フューチャーズリーグ | Kim Jinhyu | Han Sanghoon | Win | W+R | 6.5 | 3326.0 | 30.0 | 
-| 2021-02-27 | 2020-2021韓国囲碁リーグ | Han Sanghoon | Oh Yujin | Win | B+R | 6.5 | 3296.0 | 11.0 | 
-| 2021-02-24 | 2020-2021フューチャーズリーグ | Han Sanghoon | Ju Hyeongwuk | Win | B+R | 6.5 | 3285.0 | 17.0 | 
-| 2021-02-17 | 2020-2021フューチャーズリーグ | Kim Sonjin | Han Sanghoon | Lose | B+R | 6.5 | 3268.0 | 0.0 | 
-| 2021-02-14 | 2020-2021韓国囲碁リーグ | Han Sanghoon | Weon Seongjin | Lose | W+R | 6.5 | 3268.0 | 12.0 | 
-| 2021-02-07 | 2020-2021フューチャーズリーグ | Han Sanghoon |  | Win | B+R | 6.5 | 3256.0 | 1.0 | 
-| 2021-02-06 | 2020-2021韓国囲碁リーグ | Park Sangjin | Han Sanghoon | Win | W+1.5 | 6.5 | 3255.0 | 33.0 | 
-| 2021-01-30 | 2020-2021フューチャーズリーグ | Han Sanghoon |  | Lose | W+R | 6.5 | 3222.0 | 3.0 | 
-| 2021-01-28 | 2020-2021韓国囲碁リーグ | Han Sanghoon | Choi Cheolhan | Win | B+R | 6.5 | 3219.0 | 16.0 | 
-| 2021-01-27 | 2020-2021フューチャーズリーグ | Park Younglong | Han Sanghoon | Win | W+R | 6.5 | 3203.0 | 15.0 | 
-| 2021-01-24 | 2020-2021韓国囲碁リーグ | Han Sanghoon | Shin Minjun | Win | B+R | 6.5 | 3188.0 | 37.0 | 
-| 2021-01-16 | 2020-2021フューチャーズリーグ | Han Sanghoon | Hyun Yoobin | Win | B+R | 6.5 | 3151.0 | 19.0 | 
-| 2021-01-09 | 2020-2021フューチャーズリーグ | Oh Yujin | Han Sanghoon | Win | W+R | 6.5 | 3132.0 | 8.0 | 
-| 2021-01-08 | 2020-2021韓国囲碁リーグ | Choi Jeong | Han Sanghoon | Win | W+R | 6.5 | 3124.0 | 60.0 | 
-| 2021-01-02 | 2020-2021フューチャーズリーグ | Kim Sedong | Han Sanghoon | Win | W+0.5 | 6.5 | 3064.0 | -12.0 | 
-| 2020-12-26 | 2020-2021フューチャーズリーグ | Han Sanghoon |  | Win | B+R | 6.5 | 3076.0 | 40.0 | 
-| 2020-12-19 | 2020-2021フューチャーズリーグ | Han Sanghoon |  | Win | B+2.5 | 6.5 | 3036.0 | 14.0 | 
-| 2020-12-16 | 2020-2021フューチャーズリーグ | Han Sanghoon | Lee Hobum | Lose | W+R | 6.5 | 3022.0 | -12.0 | 
-| 2020-12-05 | 2020-2021フューチャーズリーグ | Han Sanghoon | Song Gyusang | Lose | W+R | 6.5 | 3034.0 | -33.0 | 
-| 2020-11-29 | 2020-2021フューチャーズリーグ | Han Sanghoon | Kim Hyeongwoo | Lose | W+R | 6.5 | 3067.0 | -5.0 | 
-| 2020-11-27 | 第1回ORO30-40囲碁選手権決勝五番勝負第5局 | Yun Chanhee | Han Sanghoon | Win | W+0.5 | 6.5 | 3072.0 | 21.0 | 
-| 2020-11-26 | 第1回ORO30-40囲碁選手権決勝五番勝負第4局 | Han Sanghoon | Yun Chanhee | Lose | W+R | 6.5 | 3051.0 | -12.0 | 
-| 2020-11-25 | 第1回ORO30-40囲碁選手権決勝五番勝負第3局 | Yun Chanhee | Han Sanghoon | Lose | B+R | 6.5 | 3063.0 | -15.0 | 
-| 2020-11-24 | 第1回ORO30-40囲碁選手権決勝五番勝負第2局 | Han Sanghoon | Yun Chanhee | Win | B+R | 6.5 | 3078.0 | -7.0 | 
-| 2020-11-23 | 第1回ORO30-40囲碁選手権決勝五番勝負第1局 | Yun Chanhee | Han Sanghoon | Win | W+0.5 | 6.5 | 3085.0 | 64.0 | 
-| 2020-10-27 | 第1回ORO30-40囲碁選手権リーグ | Cho Hyeyeon | Han Sanghoon | Lose | B+R | 6.5 | 3021.0 | -35.0 | 
-| 2020-10-14 | 第1回ORO30-40囲碁選手権リーグ | Yun Junsang | Han Sanghoon | Win | W+0.5 | 6.5 | 3056.0 | 20.0 | 
-| 2020-10-07 | 第1回ORO30-40囲碁選手権リーグ | Han Sanghoon | Kim Sonjin | Win | B+R | 6.5 | 3036.0 | 35.0 | 
-| 2020-10-06 | 第1回ORO30-40囲碁選手権リーグ | Han Sanghoon | Park Seunghwa | Lose | W+R | 6.5 | 3001.0 | -65.0 | 
-| 2020-09-17 | 第1回ORO30-40囲碁選手権リーグ | On Sojin | Han Sanghoon | Win | W+3.5 | 6.5 | 3066.0 | 10.0 | 
-| 2020-09-09 | 第1回ORO30-40囲碁選手権リーグ | Han Sanghoon | Paek Hongseok | Win | B+R | 6.5 | 3056.0 | 34.0 | 
-| 2020-09-02 | 第1回ORO30-40囲碁選手権リーグ | Han Sanghoon | Yun Chanhee | Lose | W+R | 6.5 | 3022.0 | -137.0 | 
+| 2022-02-26 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Gon Jiwoo | Win | B+R | 6.5 | 3367.0 | -12.0 | 
+| 2022-02-17 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Park Junghwan | Lose | W+R | 6.5 | 3379.0 | 35.0 | 
+| 2022-02-08 | 第23回マキシムコーヒー杯入神最強戦2回戦 | Byun Sangil | Han Sanghoon | Win | W+R | 6.5 | 3344.0 | 22.0 | 
+| 2022-02-03 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Han Seungjoo | Lose | W+R | 6.5 | 3322.0 | -50.0 | 
+| 2022-01-24 | 第23回マキシムコーヒー杯入神最強戦1回戦 | Heo Yongho | Han Sanghoon | Win | W+R | 6.5 | 3372.0 | 1.0 | 
+| 2022-01-23 | 2021-2022韓国囲碁リーグ | Lee Changseok | Han Sanghoon | Lose | B+R | 6.5 | 3371.0 | -25.0 | 
+| 2022-01-15 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Ahn Kukhyun | Win | B+R | 6.5 | 3396.0 | 29.0 | 
+| 2022-01-06 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Kang Dongyun | Win | B+R | 6.5 | 3367.0 | -79.0 | 
+| 2021-12-31 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Kim Myounghoon | Lose | W+R | 6.5 | 3446.0 | 0.0 | 
+| 2021-12-26 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Moon Minjong | Lose | W+R | 6.5 | 3446.0 | 52.0 | 
+| 2021-12-17 | 2021-2022韓国囲碁リーグ | Cho Hanseung | Han Sanghoon | Win | W+1.5 | 6.5 | 3394.0 | 0.0 | 
+| 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Joonhoon | Han Sanghoon | Lose | B+R | 6.5 | 3394.0 | 21.0 | 
+| 2021-11-21 | 2021-2022韓国囲碁リーグ | Han Sanghoon | Choi Jeong | Win | B+R | 6.5 | 3373.0 | 61.0 | 
+| 2021-06-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選（再対局） | Han Sanghoon | Park Minkyu | Lose | W+R | 6.5 | 3312.0 | 0.0 | 
+| 2021-06-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Han Sanghoon | Park Minkyu | Lose | Void | 6.5 | 3312.0 | 3.0 | 
+| 2021-05-09 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Han Sanghoon | Kim Jiseok | Lose | W+3.5 | 6.5 | 3309.0 | -19.0 | 
+| 2021-04-08 | 第26回GSカルテックス杯プロ棋戦1回戦 | Han Sanghoon | Kim Sedong | Lose | W+R | 6.5 | 3328.0 | 1.0 | 
+| 2021-03-06 | 2020-2021フューチャーズリーグ | Kim Jinhyu | Han Sanghoon | Win | W+R | 6.5 | 3327.0 | 30.0 | 
+| 2021-02-27 | 2020-2021韓国囲碁リーグ | Han Sanghoon | Oh Yujin | Win | B+R | 6.5 | 3297.0 | 11.0 | 
+| 2021-02-24 | 2020-2021フューチャーズリーグ | Han Sanghoon | Ju Hyeongwuk | Win | B+R | 6.5 | 3286.0 | 17.0 | 
+| 2021-02-17 | 2020-2021フューチャーズリーグ | Kim Sonjin | Han Sanghoon | Lose | B+R | 6.5 | 3269.0 | 0.0 | 
+| 2021-02-14 | 2020-2021韓国囲碁リーグ | Han Sanghoon | Weon Seongjin | Lose | W+R | 6.5 | 3269.0 | 12.0 | 
+| 2021-02-07 | 2020-2021フューチャーズリーグ | Han Sanghoon |  | Win | B+R | 6.5 | 3257.0 | 1.0 | 
+| 2021-02-06 | 2020-2021韓国囲碁リーグ | Park Sangjin | Han Sanghoon | Win | W+1.5 | 6.5 | 3256.0 | 33.0 | 
+| 2021-01-30 | 2020-2021フューチャーズリーグ | Han Sanghoon |  | Lose | W+R | 6.5 | 3223.0 | 3.0 | 
+| 2021-01-28 | 2020-2021韓国囲碁リーグ | Han Sanghoon | Choi Cheolhan | Win | B+R | 6.5 | 3220.0 | 16.0 | 
+| 2021-01-27 | 2020-2021フューチャーズリーグ | Park Younglong | Han Sanghoon | Win | W+R | 6.5 | 3204.0 | 15.0 | 
+| 2021-01-24 | 2020-2021韓国囲碁リーグ | Han Sanghoon | Shin Minjun | Win | B+R | 6.5 | 3189.0 | 37.0 | 
+| 2021-01-16 | 2020-2021フューチャーズリーグ | Han Sanghoon | Hyun Yoobin | Win | B+R | 6.5 | 3152.0 | 19.0 | 
+| 2021-01-09 | 2020-2021フューチャーズリーグ | Oh Yujin | Han Sanghoon | Win | W+R | 6.5 | 3133.0 | 8.0 | 
+| 2021-01-08 | 2020-2021韓国囲碁リーグ | Choi Jeong | Han Sanghoon | Win | W+R | 6.5 | 3125.0 | 60.0 | 
+| 2021-01-02 | 2020-2021フューチャーズリーグ | Kim Sedong | Han Sanghoon | Win | W+0.5 | 6.5 | 3065.0 | -12.0 | 
+| 2020-12-26 | 2020-2021フューチャーズリーグ | Han Sanghoon |  | Win | B+R | 6.5 | 3077.0 | 40.0 | 
+| 2020-12-19 | 2020-2021フューチャーズリーグ | Han Sanghoon |  | Win | B+2.5 | 6.5 | 3037.0 | 14.0 | 
+| 2020-12-16 | 2020-2021フューチャーズリーグ | Han Sanghoon | Lee Hobum | Lose | W+R | 6.5 | 3023.0 | -12.0 | 
+| 2020-12-05 | 2020-2021フューチャーズリーグ | Han Sanghoon | Song Gyusang | Lose | W+R | 6.5 | 3035.0 | -33.0 | 
+| 2020-11-29 | 2020-2021フューチャーズリーグ | Han Sanghoon | Kim Hyeongwoo | Lose | W+R | 6.5 | 3068.0 | -5.0 | 
+| 2020-11-27 | 第1回ORO30-40囲碁選手権決勝五番勝負第5局 | Yun Chanhee | Han Sanghoon | Win | W+0.5 | 6.5 | 3073.0 | 21.0 | 
+| 2020-11-26 | 第1回ORO30-40囲碁選手権決勝五番勝負第4局 | Han Sanghoon | Yun Chanhee | Lose | W+R | 6.5 | 3052.0 | -12.0 | 
+| 2020-11-25 | 第1回ORO30-40囲碁選手権決勝五番勝負第3局 | Yun Chanhee | Han Sanghoon | Lose | B+R | 6.5 | 3064.0 | -15.0 | 
+| 2020-11-24 | 第1回ORO30-40囲碁選手権決勝五番勝負第2局 | Han Sanghoon | Yun Chanhee | Win | B+R | 6.5 | 3079.0 | -7.0 | 
+| 2020-11-23 | 第1回ORO30-40囲碁選手権決勝五番勝負第1局 | Yun Chanhee | Han Sanghoon | Win | W+0.5 | 6.5 | 3086.0 | 64.0 | 
+| 2020-10-27 | 第1回ORO30-40囲碁選手権リーグ | Cho Hyeyeon | Han Sanghoon | Lose | B+R | 6.5 | 3022.0 | -35.0 | 
+| 2020-10-14 | 第1回ORO30-40囲碁選手権リーグ | Yun Junsang | Han Sanghoon | Win | W+0.5 | 6.5 | 3057.0 | 20.0 | 
+| 2020-10-07 | 第1回ORO30-40囲碁選手権リーグ | Han Sanghoon | Kim Sonjin | Win | B+R | 6.5 | 3037.0 | 35.0 | 
+| 2020-10-06 | 第1回ORO30-40囲碁選手権リーグ | Han Sanghoon | Park Seunghwa | Lose | W+R | 6.5 | 3002.0 | -65.0 | 
+| 2020-09-17 | 第1回ORO30-40囲碁選手権リーグ | On Sojin | Han Sanghoon | Win | W+3.5 | 6.5 | 3067.0 | 11.0 | 
+| 2020-09-09 | 第1回ORO30-40囲碁選手権リーグ | Han Sanghoon | Paek Hongseok | Win | B+R | 6.5 | 3056.0 | 33.0 | 
+| 2020-09-02 | 第1回ORO30-40囲碁選手権リーグ | Han Sanghoon | Yun Chanhee | Lose | W+R | 6.5 | 3023.0 | -136.0 | 
 | 2020-04-22 | 第25回LG杯韓国予選 | Lee Taehyun | Han Sanghoon | Lose | B+R | 6.5 | 3159.0 | 0.0 | 
-| 2020-04-21 | 第25回LG杯韓国予選 | Han Sanghoon | Kim Myounghoon | Win | B+R | 6.5 | 3159.0 | 39.0 | 
-| 2020-03-08 | 2019-2020韓国囲碁リーグ優勝決定戦第3戦第3局 | Han Sanghoon | An Jungki | Lose | W+R | 6.5 | 3120.0 | -4.0 | 
-| 2020-03-07 | 2019-2020韓国囲碁リーグ優勝決定戦第2戦第2局 | Shin Minjun | Han Sanghoon | Lose | B+R | 6.5 | 3124.0 | -26.0 | 
+| 2020-04-21 | 第25回LG杯韓国予選 | Han Sanghoon | Kim Myounghoon | Win | B+R | 6.5 | 3159.0 | 38.0 | 
+| 2020-03-08 | 2019-2020韓国囲碁リーグ優勝決定戦第3戦第3局 | Han Sanghoon | An Jungki | Lose | W+R | 6.5 | 3121.0 | -4.0 | 
+| 2020-03-07 | 2019-2020韓国囲碁リーグ優勝決定戦第2戦第2局 | Shin Minjun | Han Sanghoon | Lose | B+R | 6.5 | 3125.0 | -25.0 | 
 | 2020-02-07 | 2019-2020韓国囲碁リーグ準プレーオフ第1戦第2局 | Han Sanghoon | Lee Changseok | Lose | W+R | 6.5 | 3150.0 | -28.0 | 
-| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第4試合第1局 | Han Sanghoon | Byun Sangil | Lose | W+R | 6.5 | 3178.0 | -6.0 | 
-| 2020-01-16 | 第3期韓国竜星戦32強戦 | Kim Myounghoon | Han Sanghoon | Lose | B+2.5 | 6.5 | 3184.0 | -15.0 | 
-| 2020-01-15 | 第3期韓国竜星戦32強戦 | Han Sanghoon | Shin Minjun | Lose | W+R | 6.5 | 3199.0 | 2.0 | 
-| 2020-01-09 | 2019-2020韓国囲碁リーグ第15節第1試合第4局 | Heo Yongho | Han Sanghoon | Lose | B+R | 6.5 | 3197.0 | -10.0 | 
+| 2020-01-30 | 2019-2020韓国囲碁リーグ第18節第4試合第1局 | Han Sanghoon | Byun Sangil | Lose | W+R | 6.5 | 3178.0 | -7.0 | 
+| 2020-01-16 | 第3期韓国竜星戦32強戦 | Kim Myounghoon | Han Sanghoon | Lose | B+2.5 | 6.5 | 3185.0 | -15.0 | 
+| 2020-01-15 | 第3期韓国竜星戦32強戦 | Han Sanghoon | Shin Minjun | Lose | W+R | 6.5 | 3200.0 | 2.0 | 
+| 2020-01-09 | 2019-2020韓国囲碁リーグ第15節第1試合第4局 | Heo Yongho | Han Sanghoon | Lose | B+R | 6.5 | 3198.0 | -9.0 | 
 | 2020-01-03 | 2019-2020韓国囲碁リーグ第14節第2試合第4局 | Hong Kipyo | Han Sanghoon | Win | W+R | 6.5 | 3207.0 | 23.0 | 
 | 2019-12-28 | 2019-2020韓国囲碁リーグ第13節第3試合第3局 | Han Seungjoo | Han Sanghoon | Lose | B+R | 6.5 | 3184.0 | -27.0 | 
-| 2019-12-14 | 2019-2020韓国囲碁リーグ第11節第3試合第1局 | Paek Hongseok | Han Sanghoon | Lose | B+R | 6.5 | 3211.0 | -19.0 | 
-| 2019-12-07 | 2019-2020韓国囲碁リーグ第10節第3試合第2局 | Lee Changho | Han Sanghoon | Lose | B+R | 6.5 | 3230.0 | 0.0 | 
-| 2019-11-28 | 2019-2020韓国囲碁リーグ第9節第1試合第5局 | Han Sanghoon | Lee Changseok | Lose | W+3.5 | 6.5 | 3230.0 | -4.0 | 
+| 2019-12-14 | 2019-2020韓国囲碁リーグ第11節第3試合第1局 | Paek Hongseok | Han Sanghoon | Lose | B+R | 6.5 | 3211.0 | -20.0 | 
+| 2019-12-07 | 2019-2020韓国囲碁リーグ第10節第3試合第2局 | Lee Changho | Han Sanghoon | Lose | B+R | 6.5 | 3231.0 | 0.0 | 
+| 2019-11-28 | 2019-2020韓国囲碁リーグ第9節第1試合第5局 | Han Sanghoon | Lee Changseok | Lose | W+3.5 | 6.5 | 3231.0 | -3.0 | 
 | 2019-11-21 | 2019-2020韓国囲碁リーグ第8節第1試合第1局 | Lee Jihyun | Han Sanghoon | Lose | B+R | 6.5 | 3234.0 | -23.0 | 
 | 2019-11-10 | 2019-2020韓国囲碁リーグ第6節第4試合第2局 | Han Sanghoon | Park Hamin | Lose | W+R | 6.5 | 3257.0 | -26.0 | 
 | 2019-11-02 | 2019-2020韓国囲碁リーグ第5節第3試合第2局 | Han Sanghoon | Ryu Suhang | Win | B+R | 6.5 | 3283.0 | -32.0 | 
 | 2019-10-25 | 2019-2020韓国囲碁リーグ第4節第2試合第1局 |  | Han Sanghoon | Lose | B+R | 6.5 | 3315.0 | 47.0 | 
 | 2019-10-17 | 2019-2020韓国囲碁リーグ第3節第1試合第4局 | Han Sanghoon | Wen Rubin | Lose | W+R | 6.5 | 3268.0 | -105.0 | 
 | 2019-10-04 | 2019-2020韓国囲碁リーグ第2節第2試合第2局 | Han Sanghoon | Yun Junsang | Win | B+4.5 | 6.5 | 3373.0 | -10.0 | 
-| 2019-09-27 | 2019-2020韓国囲碁リーグ第1節第2試合第4局 | Jin Siyoung | Han Sanghoon | Lose | B+R | 6.5 | 3383.0 | 10.0 | 
-| 2019-07-26 | 第21回農心杯韓国選抜戦 | Lee Donghoon | Han Sanghoon | Lose | B+R | 6.5 | 3373.0 | -42.0 | 
+| 2019-09-27 | 2019-2020韓国囲碁リーグ第1節第2試合第4局 | Jin Siyoung | Han Sanghoon | Lose | B+R | 6.5 | 3383.0 | 9.0 | 
+| 2019-07-26 | 第21回農心杯韓国選抜戦 | Lee Donghoon | Han Sanghoon | Lose | B+R | 6.5 | 3374.0 | -41.0 | 
 | 2019-07-18 | 第21回農心杯韓国選抜戦 | Han Sanghoon | Lee Sedol | Win | B+R | 6.5 | 3415.0 | -39.0 | 
 | 2019-07-11 | 第21回農心杯韓国選抜戦 | Han Sanghoon | Choi Jeong | Win | B+R | 6.5 | 3454.0 | 26.0 | 
 | 2019-06-26 | 第6回国手山脈韓国国内トーナメント予選 | Kim Myounghoon | Han Sanghoon | Lose | B+R | 6.5 | 3428.0 | -56.0 | 
-| 2019-04-10 | 2019年囲碁テレビ杯早碁戦64強戦 | Han Sanghoon | Park Junghwan | Lose | W+5.5 | 6.5 | 3484.0 | 12.0 | 
-| 2019-04-04 | 第24回LG杯統合予選3回戦 | Han Sanghoon | Gu Li | Lose | W+R | 6.5 | 3472.0 | -2.0 | 
+| 2019-04-10 | 2019年囲碁テレビ杯早碁戦64強戦 | Han Sanghoon | Park Junghwan | Lose | W+5.5 | 6.5 | 3484.0 | 11.0 | 
+| 2019-04-04 | 第24回LG杯統合予選3回戦 | Han Sanghoon | Gu Li | Lose | W+R | 6.5 | 3473.0 | -1.0 | 
 | 2018-10-06 | 2018年韓国囲碁リーグ第14節 | Han Sanghoon | Park Jinsol | Win | B+R | 6.5 | 3474.0 | 3.0 | 
 | 2018-09-29 | 2018年韓国囲碁リーグ第13節 | Han Sanghoon | Seol Hyunjun | Win | B+R | 6.5 | 3471.0 | 31.0 | 
 | 2018-09-20 | 2018年韓国囲碁リーグ第12節 | Ryu Suhang | Han Sanghoon | Win | W+R | 6.5 | 3440.0 | 25.0 | 
@@ -110,8 +110,8 @@
 | 2017-08-05 | 2017年韓国囲碁リーグ | Han Sanghoon | Lee Donghoon | Lose | W+R | 6.5 | 3070.0 | -27.0 | 
 | 2017-07-21 | 2017年韓国囲碁リーグ | Han Sanghoon | Paek Hongseok | Lose | W+6.5 | 6.5 | 3097.0 | -25.0 | 
 | 2017-07-13 | 2017年韓国囲碁リーグ | Byun Sangil | Han Sanghoon | Lose | B+R | 6.5 | 3122.0 | -24.0 | 
-| 2017-07-09 | 2017年韓国囲碁リーグ | Park Minkyu | Han Sanghoon | Lose | B+R | 6.5 | 3146.0 | -29.0 | 
-| 2017-06-10 | 2017年韓国囲碁リーグ | Seol Hyunjun | Han Sanghoon | Lose | B+R | 6.5 | 3175.0 | -84.0 | 
+| 2017-07-09 | 2017年韓国囲碁リーグ | Park Minkyu | Han Sanghoon | Lose | B+R | 6.5 | 3146.0 | -30.0 | 
+| 2017-06-10 | 2017年韓国囲碁リーグ | Seol Hyunjun | Han Sanghoon | Lose | B+R | 6.5 | 3176.0 | -83.0 | 
 | 2017-06-02 | 2017年韓国囲碁リーグ | Shin Jinseo | Han Sanghoon | Lose | B+3.5 | 6.5 | 3259.0 | -31.0 | 
 | 2017-05-18 | 2017年韓国囲碁リーグ | Han Sanghoon | Kang Dongyun | Lose | W+R | 6.5 | 3290.0 | -133.0 | 
 | 2017-04-05 | 第22期LG杯世界予選2回戦 | Jiang Weijie | Han Sanghoon | Lose | B+R | 6.5 | 3423.0 | 36.0 | 
@@ -121,8 +121,8 @@
 | 2015-09-30 | 2015年レッツランパーク杯オープントーナメント1回戦 | Kim Jiseok | Han Sanghoon | Lose | B+R | 6.5 | 3835.0 | 133.0 | 
 | 2015-09-14 | 第59期国手戦（韓国）2回戦 | Han Sanghoon | Lee Changho | Win | B+R | 6.5 | 3702.0 | 0.0 | 
 | 2015-06-15 | 第59期国手戦（韓国）1回戦 |  | Han Sanghoon | Win | W+R | 6.5 | 3702.0 | 186.0 | 
-| 2014-10-30 | 2014年韓国囲碁リーグ | Han Sanghoon | Kang Dongyun | Win | B+0.5 | 6.5 | 3516.0 | 35.0 | 
-| 2014-10-16 | 2014年韓国囲碁リーグ | Park Jinsol | Han Sanghoon | Win | W+R | 6.5 | 3481.0 | -22.0 | 
+| 2014-10-30 | 2014年韓国囲碁リーグ | Han Sanghoon | Kang Dongyun | Win | B+0.5 | 6.5 | 3516.0 | 34.0 | 
+| 2014-10-16 | 2014年韓国囲碁リーグ | Park Jinsol | Han Sanghoon | Win | W+R | 6.5 | 3482.0 | -21.0 | 
 | 2014-10-04 | 2014年韓国囲碁リーグ | Kim Sedong | Han Sanghoon | Win | W+R | 6.5 | 3503.0 | 77.0 | 
 | 2014-09-26 | 2014年韓国囲碁リーグ | Hong Minpyo | Han Sanghoon | Win | W+1.5 | 6.5 | 3426.0 | 30.0 | 
 | 2014-09-13 | 2014年韓国囲碁リーグ | Park Yeonghun | Han Sanghoon | Lose | B+2.5 | 6.5 | 3396.0 | 21.0 | 
@@ -150,8 +150,8 @@
 | 2013-07-28 | 2013年韓国囲碁リーグ | Choi Cheolhan | Han Sanghoon | Lose | B+R | 6.5 | 3339.0 | 10.0 | 
 | 2013-07-18 | 第15回農心杯韓国選抜戦 | Park Yeonghun | Han Sanghoon | Lose | B+R | 6.5 | 3329.0 | -16.0 | 
 | 2013-07-16 | 第15回農心杯韓国選抜戦 | Han Sanghoon | Choi Myeonghun | Win | B+2.5 | 6.5 | 3345.0 | -7.0 | 
-| 2013-07-01 | 第32回KBS杯囲碁王戦本戦2回戦 | Han Sanghoon | Choi Cheolhan | Win | B+R | 6.5 | 3352.0 | -37.0 | 
-| 2013-06-21 | 2013年韓国囲碁リーグ | Han Sanghoon | Shin Jinseo | Win | B+R | 6.5 | 3389.0 | 106.0 | 
+| 2013-07-01 | 第32回KBS杯囲碁王戦本戦2回戦 | Han Sanghoon | Choi Cheolhan | Win | B+R | 6.5 | 3352.0 | -38.0 | 
+| 2013-06-21 | 2013年韓国囲碁リーグ | Han Sanghoon | Shin Jinseo | Win | B+R | 6.5 | 3390.0 | 107.0 | 
 | 2013-06-02 | 2013年韓国囲碁リーグ | Han Sanghoon | Ahn Kukhyun | Win | B+0.5 | 6.5 | 3283.0 | -30.0 | 
 | 2013-05-19 | 2013年韓国囲碁リーグ | Mok Jinseok | Han Sanghoon | Lose | B+R | 6.5 | 3313.0 | -78.0 | 
 | 2013-05-10 | 第18期バッカス杯天元戦予選 | Kang Yootaek | Han Sanghoon | Lose | B+R | 6.5 | 3391.0 | 94.0 | 
@@ -159,8 +159,8 @@
 | 2013-04-24 | 第9期物価情報杯プロ棋戦予選 | Han Sanghoon | Lee Jihyun | Lose | W+2.5 | 6.5 | 3310.0 | -2.0 | 
 | 2013-04-19 | 2013年韓国囲碁リーグ | Park Seunghwa | Han Sanghoon | Lose | B+R | 6.5 | 3312.0 | -21.0 | 
 | 2013-04-18 | 第18回LG杯予選 |  | Han Sanghoon | Lose | B+R | 6.5 | 3333.0 | -17.0 | 
-| 2013-04-15 | 第57期国手戦（韓国）予選 | Park Junghwan | Han Sanghoon | Lose | B+R | 6.5 | 3350.0 | -148.0 | 
-| 2013-04-08 | 第32回KBS杯囲碁王戦本戦1回戦 |  | Han Sanghoon | Win | W+R | 6.5 | 3498.0 | 71.0 | 
+| 2013-04-15 | 第57期国手戦（韓国）予選 | Park Junghwan | Han Sanghoon | Lose | B+R | 6.5 | 3350.0 | -149.0 | 
+| 2013-04-08 | 第32回KBS杯囲碁王戦本戦1回戦 |  | Han Sanghoon | Win | W+R | 6.5 | 3499.0 | 72.0 | 
 | 2012-12-11 | 第8期圓益杯十段戦2回戦 | Paek Hongseok | Han Sanghoon | Lose | B+R | 6.5 | 3427.0 | -30.0 | 
 | 2012-11-13 | 第8期圓益杯十段戦1回戦 | Park Cheongsang | Han Sanghoon | Win | W+R | 6.5 | 3457.0 | 18.0 | 
 | 2012-11-11 | 2012年韓国囲碁リーグ | Han Sanghoon | Lee Donghoon | Lose | W+R | 6.5 | 3439.0 | -3.0 | 

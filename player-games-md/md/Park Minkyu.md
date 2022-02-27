@@ -7,32 +7,32 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2022-02-26 | 2021-2022韓国囲碁リーグ | Park Minkyu | Shin Jinseo | Lose | W+R | 6.5 | 3362.0 | -23.0 | 
-| 2022-02-17 | 2021-2022韓国囲碁リーグ | Park Minkyu | Park Yeonghun | Lose | W+R | 6.5 | 3385.0 | -29.0 | 
-| 2022-02-03 | 2021-2022韓国囲碁リーグ | Park Minkyu |  | Win | B+R | 6.5 | 3414.0 | -8.0 | 
-| 2022-01-23 | 2021-2022韓国囲碁リーグ | Park Minkyu | Ryu Minhyung | Win | B+R | 6.5 | 3422.0 | 22.0 | 
-| 2022-01-15 | 2021-2022韓国囲碁リーグ | Lee Changho | Park Minkyu | Win | W+R | 6.5 | 3400.0 | 37.0 | 
-| 2022-01-06 | 2021-2022韓国囲碁リーグ | Park Minkyu | Song Jihoon | Win | B+R | 6.5 | 3363.0 | -54.0 | 
-| 2021-12-31 | 2021-2022韓国囲碁リーグ | Hong Seongji | Park Minkyu | Lose | B+R | 6.5 | 3417.0 | 0.0 | 
-| 2021-12-26 | 2021-2022韓国囲碁リーグ | Park Minkyu | Seol Hyunjun | Lose | W+R | 6.5 | 3417.0 | -58.0 | 
-| 2021-12-17 | 2021-2022韓国囲碁リーグ | Park Minkyu | Shin Jinseo | Lose | W+R | 6.5 | 3475.0 | 0.0 | 
-| 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Minkyu | Park Yeonghun | Lose | W+R | 6.5 | 3475.0 | -3.0 | 
-| 2021-11-29 | 第3回大統領杯全国囲碁大会2回戦 | Kim Jiseok | Park Minkyu | Lose | B+R | 6.5 | 3478.0 | 0.0 | 
-| 2021-11-29 | 第3回大統領杯全国囲碁大会1回戦 | Lee Yeongkyu | Park Minkyu | Win | W+0.5 | 6.5 | 3478.0 | 7.0 | 
-| 2021-11-21 | 2021-2022韓国囲碁リーグ | Park Minkyu | Park Jinsol | Win | B+R | 6.5 | 3471.0 | 47.0 | 
-| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Park Minkyu | Cho Hanseung | Lose | W+1.5 | 6.5 | 3424.0 | -3.0 | 
-| 2021-10-04 | 第3期ソパルコサノル最高棋士決定戦予選 |  | Park Minkyu | Win | W+R | 6.5 | 3427.0 | 0.0 | 
-| 2021-07-11 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Minkyu | Weon Seongjin | Lose | W+R | 6.5 | 3427.0 | 14.0 | 
-| 2021-06-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選（再対局） | Han Sanghoon | Park Minkyu | Win | W+R | 6.5 | 3413.0 | 0.0 | 
-| 2021-06-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Han Sanghoon | Park Minkyu | Lose | Void | 6.5 | 3413.0 | 35.0 | 
-| 2021-06-23 | 第4期韓国竜星戦3回戦 | Park Minkyu | Shin Jinseo | Lose | W+R | 6.5 | 3378.0 | -8.0 | 
-| 2021-05-03 | 第26回LG杯韓国予選 | Heo Yongho | Park Minkyu | Lose | B+R | 6.5 | 3386.0 | -46.0 | 
-| 2021-04-17 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Weon Seongjin | Park Minkyu | Lose | B+R | 6.5 | 3432.0 | -2.0 | 
-| 2021-04-07 | 第4期韓国竜星戦2回戦 | Lee Hyungjin | Park Minkyu | Win | W+R | 6.5 | 3434.0 | 58.0 | 
-| 2021-03-15 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Minkyu | Park Hamin | Win | B+R | 6.5 | 3376.0 | 74.0 | 
-| 2021-02-24 | 第1回牛膝鳳爪韓国棋院選手権戦予選 | Park Minkyu | Oh Yujin | Win | B+R | 6.5 | 3302.0 | 73.0 | 
-| 2021-02-08 | 第4期韓国竜星戦1回戦 | Park Minkyu | Lee Wondo | Win | B+0.5 | 6.5 | 3229.0 | 76.0 | 
-| 2021-02-05 | 第4期韓国竜星戦予選 | Park Minkyu | Park Jinsol | Win | B+R | 6.5 | 3153.0 | -153.0 | 
+| 2022-02-26 | 2021-2022韓国囲碁リーグ | Park Minkyu | Shin Jinseo | Lose | W+R | 6.5 | 3364.0 | -24.0 | 
+| 2022-02-17 | 2021-2022韓国囲碁リーグ | Park Minkyu | Park Yeonghun | Lose | W+R | 6.5 | 3388.0 | -28.0 | 
+| 2022-02-03 | 2021-2022韓国囲碁リーグ | Park Minkyu |  | Win | B+R | 6.5 | 3416.0 | -8.0 | 
+| 2022-01-23 | 2021-2022韓国囲碁リーグ | Park Minkyu | Ryu Minhyung | Win | B+R | 6.5 | 3424.0 | 21.0 | 
+| 2022-01-15 | 2021-2022韓国囲碁リーグ | Lee Changho | Park Minkyu | Win | W+R | 6.5 | 3403.0 | 38.0 | 
+| 2022-01-06 | 2021-2022韓国囲碁リーグ | Park Minkyu | Song Jihoon | Win | B+R | 6.5 | 3365.0 | -54.0 | 
+| 2021-12-31 | 2021-2022韓国囲碁リーグ | Hong Seongji | Park Minkyu | Lose | B+R | 6.5 | 3419.0 | 0.0 | 
+| 2021-12-26 | 2021-2022韓国囲碁リーグ | Park Minkyu | Seol Hyunjun | Lose | W+R | 6.5 | 3419.0 | -58.0 | 
+| 2021-12-17 | 2021-2022韓国囲碁リーグ | Park Minkyu | Shin Jinseo | Lose | W+R | 6.5 | 3477.0 | 0.0 | 
+| 2021-12-05 | 2021-2022韓国囲碁リーグ | Park Minkyu | Park Yeonghun | Lose | W+R | 6.5 | 3477.0 | -3.0 | 
+| 2021-11-29 | 第3回大統領杯全国囲碁大会2回戦 | Kim Jiseok | Park Minkyu | Lose | B+R | 6.5 | 3480.0 | 0.0 | 
+| 2021-11-29 | 第3回大統領杯全国囲碁大会1回戦 | Lee Yeongkyu | Park Minkyu | Win | W+0.5 | 6.5 | 3480.0 | 8.0 | 
+| 2021-11-21 | 2021-2022韓国囲碁リーグ | Park Minkyu | Park Jinsol | Win | B+R | 6.5 | 3472.0 | 46.0 | 
+| 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Park Minkyu | Cho Hanseung | Lose | W+1.5 | 6.5 | 3426.0 | -2.0 | 
+| 2021-10-04 | 第3期ソパルコサノル最高棋士決定戦予選 |  | Park Minkyu | Win | W+R | 6.5 | 3428.0 | 0.0 | 
+| 2021-07-11 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Minkyu | Weon Seongjin | Lose | W+R | 6.5 | 3428.0 | 14.0 | 
+| 2021-06-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選（再対局） | Han Sanghoon | Park Minkyu | Win | W+R | 6.5 | 3414.0 | 0.0 | 
+| 2021-06-26 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Han Sanghoon | Park Minkyu | Lose | Void | 6.5 | 3414.0 | 35.0 | 
+| 2021-06-23 | 第4期韓国竜星戦3回戦 | Park Minkyu | Shin Jinseo | Lose | W+R | 6.5 | 3379.0 | -8.0 | 
+| 2021-05-03 | 第26回LG杯韓国予選 | Heo Yongho | Park Minkyu | Lose | B+R | 6.5 | 3387.0 | -46.0 | 
+| 2021-04-17 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Weon Seongjin | Park Minkyu | Lose | B+R | 6.5 | 3433.0 | -2.0 | 
+| 2021-04-07 | 第4期韓国竜星戦2回戦 | Lee Hyungjin | Park Minkyu | Win | W+R | 6.5 | 3435.0 | 58.0 | 
+| 2021-03-15 | 第1回牛膝鳳爪杯韓国棋院選手権戦予選 | Park Minkyu | Park Hamin | Win | B+R | 6.5 | 3377.0 | 74.0 | 
+| 2021-02-24 | 第1回牛膝鳳爪韓国棋院選手権戦予選 | Park Minkyu | Oh Yujin | Win | B+R | 6.5 | 3303.0 | 73.0 | 
+| 2021-02-08 | 第4期韓国竜星戦1回戦 | Park Minkyu | Lee Wondo | Win | B+0.5 | 6.5 | 3230.0 | 76.0 | 
+| 2021-02-05 | 第4期韓国竜星戦予選 | Park Minkyu | Park Jinsol | Win | B+R | 6.5 | 3154.0 | -152.0 | 
 | 2020-11-05 | 第2回大統領杯全国囲碁大会予選 | Park Hamin | Park Minkyu | Lose | B+R | 6.5 | 3306.0 | 0.0 | 
 | 2020-08-10 | 第2期ソパルコサノル最高棋士決定戦予選 | Park Jinsol | Park Minkyu | Lose | B+R | 6.5 | 3306.0 | 0.0 | 
 | 2019-12-18 | 第3回クラウン・ヘテ杯1回戦 | Park Minkyu | Kim Myounghoon | Lose | W+R | 6.5 | 3306.0 | 0.0 | 
@@ -52,14 +52,14 @@
 | 2018-07-12 | 第20回農心杯韓国選抜戦 | Heo Yongho | Park Minkyu | Win | W+R | 6.5 | 3464.0 | 0.0 | 
 | 2018-07-12 | 2018年韓国囲碁リーグ第4節 | Ahn Kukhyun | Park Minkyu | Win | W+4.5 | 6.5 | 3464.0 | 34.0 | 
 | 2018-07-01 | 2018年韓国囲碁リーグ第3節 | Park Jinsol | Park Minkyu | Win | W+R | 6.5 | 3430.0 | 51.0 | 
-| 2018-06-23 | 2018年韓国囲碁リーグ第2節 | Park Minkyu | Song Jihoon | Lose | W+R | 6.5 | 3379.0 | -23.0 | 
-| 2018-06-14 | 2018年韓国囲碁リーグ第1節 | Park Minkyu | Jin Siyoung | Win | B+R | 6.5 | 3402.0 | -6.0 | 
-| 2018-05-07 | 第37回KBS杯囲碁王戦32強戦 | Choi Jeong | Park Minkyu | Win | W+R | 6.5 | 3408.0 | 52.0 | 
+| 2018-06-23 | 2018年韓国囲碁リーグ第2節 | Park Minkyu | Song Jihoon | Lose | W+R | 6.5 | 3379.0 | -24.0 | 
+| 2018-06-14 | 2018年韓国囲碁リーグ第1節 | Park Minkyu | Jin Siyoung | Win | B+R | 6.5 | 3403.0 | -6.0 | 
+| 2018-05-07 | 第37回KBS杯囲碁王戦32強戦 | Choi Jeong | Park Minkyu | Win | W+R | 6.5 | 3409.0 | 53.0 | 
 | 2017-11-04 | 2017年韓国囲碁リーグ準プレーオフ第2戦 | Park Minkyu | Yun Junsang | Win | B+R | 6.5 | 3356.0 | 25.0 | 
-| 2017-11-03 | 2017年韓国囲碁リーグ準プレーオフ第1戦 | Kim Jiseok | Park Minkyu | Lose | B+R | 6.5 | 3331.0 | -41.0 | 
-| 2017-10-27 | 2017年韓国囲碁リーグ | Park Minkyu | Song Jihoon | Lose | W+R | 6.5 | 3372.0 | -9.0 | 
-| 2017-10-22 | 2017年韓国囲碁リーグ | Park Minkyu | Han Seungjoo | Lose | W+R | 6.5 | 3381.0 | 10.0 | 
-| 2017-10-14 | 2017年韓国囲碁リーグ | Na Hyun | Park Minkyu | Lose | B+R | 6.5 | 3371.0 | 46.0 | 
+| 2017-11-03 | 2017年韓国囲碁リーグ準プレーオフ第1戦 | Kim Jiseok | Park Minkyu | Lose | B+R | 6.5 | 3331.0 | -42.0 | 
+| 2017-10-27 | 2017年韓国囲碁リーグ | Park Minkyu | Song Jihoon | Lose | W+R | 6.5 | 3373.0 | -9.0 | 
+| 2017-10-22 | 2017年韓国囲碁リーグ | Park Minkyu | Han Seungjoo | Lose | W+R | 6.5 | 3382.0 | 10.0 | 
+| 2017-10-14 | 2017年韓国囲碁リーグ | Na Hyun | Park Minkyu | Lose | B+R | 6.5 | 3372.0 | 47.0 | 
 | 2017-10-08 | 2017年韓国囲碁リーグ | Han Taehee | Park Minkyu | Lose | B+R | 6.5 | 3325.0 | -27.0 | 
 | 2017-09-30 | 2017年韓国囲碁リーグ | Kim Junghyun | Park Minkyu | Lose | B+1.5 | 6.5 | 3352.0 | 21.0 | 
 | 2017-09-21 | 2017年韓国囲碁リーグ | Park Minkyu | Han Sanghoon | Win | B+R | 6.5 | 3331.0 | -74.0 | 
@@ -67,8 +67,8 @@
 | 2017-08-24 | 2017年韓国囲碁リーグ | Paek Hongseok | Park Minkyu | Win | W+R | 6.5 | 3417.0 | 36.0 | 
 | 2017-08-19 | 2017年韓国囲碁リーグ | Kang Yootaek | Park Minkyu | Win | W+R | 6.5 | 3381.0 | 26.0 | 
 | 2017-08-10 | 2017年韓国囲碁リーグ | Park Minkyu | Han Seungjoo | Lose | W+R | 6.5 | 3355.0 | -12.0 | 
-| 2017-08-04 | 2017年韓国囲碁リーグ | Park Minkyu | Lee Wonyoung | Lose | W+R | 6.5 | 3367.0 | -11.0 | 
-| 2017-07-20 | 2017年韓国囲碁リーグ | Weon Seongjin | Park Minkyu | Win | W+R | 6.5 | 3378.0 | 47.0 | 
+| 2017-08-04 | 2017年韓国囲碁リーグ | Park Minkyu | Lee Wonyoung | Lose | W+R | 6.5 | 3367.0 | -12.0 | 
+| 2017-07-20 | 2017年韓国囲碁リーグ | Weon Seongjin | Park Minkyu | Win | W+R | 6.5 | 3379.0 | 48.0 | 
 | 2017-07-14 | 2017年韓国囲碁リーグ | Park Minkyu | Ryu Suhang | Win | B+R | 6.5 | 3331.0 | 9.0 | 
 | 2017-07-09 | 2017年韓国囲碁リーグ | Park Minkyu | Han Sanghoon | Win | B+R | 6.5 | 3322.0 | 48.0 | 
 | 2017-06-28 | 第22回三星火災杯統合予選1回戦 | Park Minkyu | Li Weiqing | Lose | W+R | 6.5 | 3274.0 | -68.0 | 
@@ -89,20 +89,20 @@
 | 2016-09-24 | 2016年韓国囲碁リーグ第14節 | Park Minkyu | Ahn Kukhyun | Lose | W+R | 6.5 | 3439.0 | -75.0 | 
 | 2016-09-18 | 2016年韓国囲碁リーグ第13節 | Park Kyuongkeun | Park Minkyu | Win | W+R | 6.5 | 3514.0 | 4.0 | 
 | 2016-09-12 | 第3回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Park Minkyu | Yun Junsang | Win | B+R | 6.5 | 3510.0 | 0.0 | 
-| 2016-09-12 | 第3回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Kang Yootaek | Park Minkyu | Win | W+R | 6.5 | 3510.0 | 38.0 | 
-| 2016-09-01 | 2016年韓国囲碁リーグ第12節 | An Jungki | Park Minkyu | Win | W+R | 6.5 | 3472.0 | 25.0 | 
+| 2016-09-12 | 第3回おかげ杯国際精鋭囲碁対抗戦韓国選抜戦 | Kang Yootaek | Park Minkyu | Win | W+R | 6.5 | 3510.0 | 37.0 | 
+| 2016-09-01 | 2016年韓国囲碁リーグ第12節 | An Jungki | Park Minkyu | Win | W+R | 6.5 | 3473.0 | 26.0 | 
 | 2016-08-26 | 2016年韓国囲碁リーグ第11節 | An Sungjoon | Park Minkyu | Lose | B+R | 6.5 | 3447.0 | -31.0 | 
 | 2016-08-21 | 2016年韓国囲碁リーグ第10節 | Han Seungjoo | Park Minkyu | Lose | B+R | 6.5 | 3478.0 | -42.0 | 
 | 2016-08-11 | 2016年韓国囲碁リーグ第9節 | Park Minkyu | Ryu Suhang | Win | B+R | 6.5 | 3520.0 | 10.0 | 
-| 2016-08-08 | 第35回KBS杯囲碁王戦16強戦 | Park Minkyu | Lee Hobum | Lose | W+R | 6.5 | 3510.0 | 15.0 | 
-| 2016-07-24 | 2016年韓国囲碁リーグ第7節 | Park Minkyu | Park Cheongsang | Win | B+R | 6.5 | 3495.0 | 11.0 | 
+| 2016-08-08 | 第35回KBS杯囲碁王戦16強戦 | Park Minkyu | Lee Hobum | Lose | W+R | 6.5 | 3510.0 | 14.0 | 
+| 2016-07-24 | 2016年韓国囲碁リーグ第7節 | Park Minkyu | Park Cheongsang | Win | B+R | 6.5 | 3496.0 | 12.0 | 
 | 2016-07-20 | 第21回三星火災杯統合予選決勝 | Liao Xingwen | Park Minkyu | Lose | B+R | 6.5 | 3484.0 | -45.0 | 
 | 2016-07-09 | 2016年韓国囲碁リーグ第6節 | Park Minkyu | Lee Jihyun | Lose | W+R | 6.5 | 3529.0 | -3.0 | 
 | 2016-06-24 | 2016年韓国囲碁リーグ第5節 |  | Park Minkyu | Lose | B+R | 6.5 | 3532.0 | -2.0 | 
 | 2016-06-16 | 2016年韓国囲碁リーグ第4節 | Park Minkyu | Song Jihoon | Win | B+R | 6.5 | 3534.0 | 42.0 | 
 | 2016-06-12 | 2016年韓国囲碁リーグ第3節 | Shin Minjun | Park Minkyu | Win | W+R | 6.5 | 3492.0 | 54.0 | 
-| 2016-06-04 | 2016年韓国囲碁リーグ第2節 | Park Minkyu | Park Yeonghun | Lose | W+R | 6.5 | 3438.0 | -31.0 | 
-| 2016-05-30 | 第35回KBS杯囲碁王戦2回戦 | Han Wonggyu | Park Minkyu | Win | W+R | 6.5 | 3469.0 | 20.0 | 
+| 2016-06-04 | 2016年韓国囲碁リーグ第2節 | Park Minkyu | Park Yeonghun | Lose | W+R | 6.5 | 3438.0 | -32.0 | 
+| 2016-05-30 | 第35回KBS杯囲碁王戦2回戦 | Han Wonggyu | Park Minkyu | Win | W+R | 6.5 | 3470.0 | 21.0 | 
 | 2016-05-19 | 2016年韓国囲碁リーグ第1節 | Park Minkyu | Lee Changho | Win | B+R | 6.5 | 3449.0 | -30.0 | 
 | 2016-03-21 | 第35回KBS杯囲碁王戦1回戦 | Park Minkyu | Ko Keuntae | Win | B+R | 6.5 | 3479.0 | 50.0 | 
 | 2015-11-11 | 2015年韓国囲碁リーグ | Lee Sedol | Park Minkyu | Win | W+R | 6.5 | 3429.0 | 15.0 | 
@@ -135,9 +135,9 @@
 | 2014-11-09 | 2014年韓国囲碁リーグ | Park Minkyu | Byun Sangil | Win | B+R | 6.5 | 3482.0 | 24.0 | 
 | 2014-11-04 | 2014年フューチャーズリーグ | Park Jinsol | Park Minkyu | Lose | B+R | 6.5 | 3458.0 | -10.0 | 
 | 2014-10-27 | 2014年レッツランパーク杯オープントーナメント4回戦 | Park Minkyu | Kim Seongjae | Win | B+R | 6.5 | 3468.0 | 26.0 | 
-| 2014-10-26 | 2014年フューチャーズリーグ | Hong Minpyo | Park Minkyu | Win | W+0.5 | 6.5 | 3442.0 | 56.0 | 
-| 2014-10-13 | 第58期国手戦（韓国）2回戦 | Park Minkyu | Choi Cheolhan | Win | B+R | 6.5 | 3386.0 | 23.0 | 
-| 2014-10-11 | 2014年フューチャーズリーグ | Park Minkyu | Kang Seungmin | Lose | W+R | 6.5 | 3363.0 | 42.0 | 
+| 2014-10-26 | 2014年フューチャーズリーグ | Hong Minpyo | Park Minkyu | Win | W+0.5 | 6.5 | 3442.0 | 55.0 | 
+| 2014-10-13 | 第58期国手戦（韓国）2回戦 | Park Minkyu | Choi Cheolhan | Win | B+R | 6.5 | 3387.0 | 23.0 | 
+| 2014-10-11 | 2014年フューチャーズリーグ | Park Minkyu | Kang Seungmin | Lose | W+R | 6.5 | 3364.0 | 43.0 | 
 | 2014-09-23 | 2014年レッツランパーク杯オープントーナメント3回戦 |  | Park Minkyu | Win | W+R | 6.5 | 3321.0 | 12.0 | 
 | 2014-09-21 | 2014年フューチャーズリーグ | Park Minkyu | Park Junsuck | Win | B+6.5 | 6.5 | 3309.0 | 37.0 | 
 | 2014-09-11 | 2014年レッツランパーク杯オープントーナメント2回戦 | Shin Minjun | Park Minkyu | Win | W+R | 6.5 | 3272.0 | 43.0 | 

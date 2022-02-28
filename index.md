@@ -2,17 +2,17 @@
 
 The ratings are based on 5181 games from 2021-03-01 to 2022-02-28.
 
-Note that players with fewer than {{NGAME_THRESHOLD}} games are not in the list
+Note that players with fewer than 13 games are not in the list
 
 ### Quicklinks
 
 [Top 100](#top-100)
 
-[Biggest Movers](#biggest-movers-in-top-100-last-365-days)
-
 [Outside Top 100](#outside-of-top-100)
 
 [How to compute predicted win percentange](#how-to-compute-predicted-win-percentange)
+
+[Biggest Movers](#biggest-movers-in-top-100-last-365-days)
 
 ### Top 100
 
@@ -127,118 +127,10 @@ Note that players with fewer than {{NGAME_THRESHOLD}} games are not in the list
 
 
 
-### Biggest Movers in Top 100 (last 365 days)
-
-
-
-
-| **Name** | **Rating Change Trend** | **Games Played** | **汉字** | 
-| --- | --- | --- | --- |
-| Jin Yucheng | 595 | 23 | 金禹丞 | 
-| Chen Haoxin | 566 | 19 | 陳豪鑫 | 
-| Hu Yuhan | 513 | 19 | 胡鈺函 | 
-| Ida Atsushi | 462 | 21 | 伊田篤史 | 
-| Hirose Yuichi | 402 | 14 | 広瀬優一 | 
-| Liao Yuanhe | 357 | 48 | 廖元赫 | 
-| Peng Liyao | 347 | 43 | 彭立尭 | 
-| Wang Xinghao | 307 | 42 | 王星昊 | 
-| Xia Chenkun | 299 | 29 | 夏晨琨 | 
-| Huang Yunsong | 294 | 61 | 黄雲嵩 | 
-| Mi Yuting | 294 | 73 | 芈昱廷 | 
-| Meng Tailing | 287 | 14 | 孟泰齢 | 
-| Hsu Chiayuan | 272 | 50 | 許家元 | 
-| Li Qincheng | 269 | 43 | 李欽誠 | 
-| Ding Hao | 267 | 58 | 丁浩 | 
-| Han Seungjoo | 264 | 43 | 韓昇周 | 
-| Seki Kotaro | 256 | 17 | 関航太郎 | 
-| Zhang Tao | 247 | 34 | 張涛 | 
-| Chen Qirui | 229 | 75 | 陳祈睿 | 
-| Park Yeonghun | 222 | 26 | 朴永訓 | 
-| Zhao Chenyu | 220 | 48 | 趙晨宇 | 
-| Wang Yuanjun | 216 | 80 | 王元均 | 
-| Dang Yifei | 215 | 47 | 党毅飛 | 
-| Zhou Ruiyang | 211 | 26 | 周睿羊 | 
-| Byun Sangil | 211 | 80 | 卞相壹 | 
-| Iyama Yuta | 208 | 47 | 井山裕太 | 
-| Lai Junfu | 204 | 73 | 賴均輔 | 
-| Fan Yin | 203 | 35 | 范胤 | 
-| Wu Guangya | 196 | 22 | 鄔光亜 | 
-| Yu Zhengqi | 194 | 42 | 余正麒 | 
-| Yun Chanhee | 192 | 26 | 尹燦熙 | 
-| Han Yizhou | 187 | 27 | 韓一洲 | 
-| Yang Dingxin | 166 | 59 | 楊鼎新 | 
-| Chen Yaoye | 166 | 28 | 陳耀燁 | 
-| Gu Zihao | 162 | 51 | 辜梓豪 | 
-| Shibano Toramaru | 161 | 55 | 芝野虎丸 | 
-| Yang Kaiwen | 157 | 37 | 楊楷文 | 
-| Li Chengsen | 153 | 13 | 李成森 | 
-| Lee Donghoon | 144 | 57 | 李東勲 | 
-| Yi Lingtao | 144 | 31 | 伊淩濤 | 
-| Lin Junyan | 142 | 70 | 林君諺 | 
-| Tu Xiaoyu | 137 | 47 | 屠暁宇 | 
-| Shi Yue | 136 | 44 | 時越 | 
-| Park Junghwan | 121 | 86 | 朴廷桓 | 
-| Tong Mengcheng | 120 | 46 | 童夢成 | 
-| Tan Xiao | 115 | 50 | 檀嘯 | 
-| Chen Zijian | 108 | 29 | 陳梓健 | 
-| Kim Jiseok | 104 | 72 | 金志錫 | 
-| Choi Cheolhan | 97 | 27 | 崔哲瀚 | 
-| Fan Tingyu | 97 | 44 | 范廷鈺 | 
-| Huang Mingyu | 95 | 20 | 黄明宇 | 
-| Xie Ke | 94 | 45 | 謝科 | 
-| Xu Jiayang | 84 | 30 | 許嘉陽 | 
-| Hong Seongji | 76 | 26 | 洪性志 | 
-| Park Geunho | 75 | 22 | 朴鍵昊 | 
-| Moon Minjong | 75 | 43 | 文敏鍾 | 
-| Xu Haohong | 73 | 89 | 許皓鋐 | 
-| Heo Yongho | 71 | 14 | 許映皓 | 
-| Han Sanghoon | 66 | 18 | 韓尚勲 | 
-| Li Weiqing | 61 | 38 | 李維清 | 
-| Park Joonhoon | 59 | 18 | 朴鐘勲 | 
-| Chen Yunong | 58 | 21 | 陳玉儂 | 
-| Kim Myounghoon | 58 | 24 | 金明訓 | 
-| Ichiriki Ryo | 56 | 60 | 一力遼 | 
-| Choi Jeong | 54 | 102 | 崔精 | 
-| Jiang Qirun | 54 | 23 | 蒋其潤 | 
-| Li Xuanhao | 49 | 55 | 李軒豪 | 
-| Liu Yuhang | 42 | 21 | 劉宇航 | 
-| Shin Minjun | 40 | 65 | 申旻埈 | 
-| Park Minkyu | 37 | 23 | 朴珉奎 | 
-| Rong Yi | 35 | 25 | 戎毅 | 
-| Park Jinsol | 25 | 20 | 朴進率 | 
-| Lian Xiao | 25 | 56 | 連笑 | 
-| Choi Jaeyoung | 24 | 19 | 崔宰栄 | 
-| Shin Jinseo | 18 | 95 | 申眞諝 | 
-| Lee Changseok | 9 | 59 | 李昌錫 | 
-| Cho Hanseung | 6 | 28 | 趙漢乗 | 
-| Seol Hyunjun | 6 | 36 | 偰玹準 | 
-| Ke Jie | -2 | 50 | 柯潔 | 
-| Park Hamin | -2 | 30 | 朴河旼 | 
-| Kang Dongyun | -7 | 61 | 姜東潤 | 
-| Chen Xian | -8 | 39 | 陳賢 | 
-| Tuo Jiaxi | -13 | 46 | 柁嘉熹 | 
-| Tang Weixing | -15 | 48 | 唐韋星 | 
-| He Yuhan | -19 | 16 | 何語涵 | 
-| Kang Seungmin | -22 | 30 | 姜昇旼 | 
-| Park Sangjin | -25 | 31 | 朴常鎭 | 
-| Jiang Weijie | -33 | 30 | 江維傑 | 
-| An Sungjoon | -35 | 38 | 安成浚 | 
-| Wang Zejin | -55 | 23 | 王沢錦 | 
-| Xie Erhao | -59 | 39 | 謝爾豪 | 
-| Lee Wonyoung | -132 | 17 | 李元栄 | 
-| Tao Xinran | -137 | 40 | 陶欣然 | 
-| Weon Seongjin | -184 | 49 | 元晟溱 | 
-| Lee Yeongkyu | -208 | 20 | 李映九 |
-
-
-
-
-
-
 
 ### Outside of Top 100
 
-Note that players with fewer than {{NGAME_THRESHOLD}} games are not in the list
+Note that players with fewer than 13 games are not in the list
 
 
 
@@ -460,7 +352,7 @@ Using the **Elo Rating** it is
 
 Probability that player with rating `r1` wins over someone with rating `r2` is `1/(1 + 10^((r2-r1)/400))`
 
-### Ratings of players with fewer than {{NGAME_THRESHOLD}} games (rating not reliable)
+### Ratings of players with fewer than 13 games (rating not reliable)
 
 
 
@@ -713,6 +605,116 @@ Probability that player with rating `r1` wins over someone with rating `r2` is `
 | 245 | [](./player-games-md/md/.md) | 2220 | ±275 | 9 | missing | missing | 姜晩寓 | 
 | 246 | [Imamura Yoshiaki](./player-games-md/md/Imamura Yoshiaki.md) | 1006 | ±32532 | 2 | missing | missing | 今村善彰 | 
 | 247 | [Hikosaka Naoto](./player-games-md/md/Hikosaka Naoto.md) | 1004 | ±32531 | 5 | missing | missing | 彦坂直人 |
+
+
+
+
+
+
+
+
+### Biggest Movers in Top 100 (last 365 days)
+
+
+
+
+| **Name** | **Rating Change Trend** | **Games Played** | **汉字** | 
+| --- | --- | --- | --- |
+| Jin Yucheng | 595 | 23 | 金禹丞 | 
+| Chen Haoxin | 566 | 19 | 陳豪鑫 | 
+| Hu Yuhan | 513 | 19 | 胡鈺函 | 
+| Ida Atsushi | 462 | 21 | 伊田篤史 | 
+| Hirose Yuichi | 402 | 14 | 広瀬優一 | 
+| Liao Yuanhe | 357 | 48 | 廖元赫 | 
+| Peng Liyao | 347 | 43 | 彭立尭 | 
+| Wang Xinghao | 307 | 42 | 王星昊 | 
+| Xia Chenkun | 299 | 29 | 夏晨琨 | 
+| Huang Yunsong | 294 | 61 | 黄雲嵩 | 
+| Mi Yuting | 294 | 73 | 芈昱廷 | 
+| Meng Tailing | 287 | 14 | 孟泰齢 | 
+| Hsu Chiayuan | 272 | 50 | 許家元 | 
+| Li Qincheng | 269 | 43 | 李欽誠 | 
+| Ding Hao | 267 | 58 | 丁浩 | 
+| Han Seungjoo | 264 | 43 | 韓昇周 | 
+| Seki Kotaro | 256 | 17 | 関航太郎 | 
+| Zhang Tao | 247 | 34 | 張涛 | 
+| Chen Qirui | 229 | 75 | 陳祈睿 | 
+| Park Yeonghun | 222 | 26 | 朴永訓 | 
+| Zhao Chenyu | 220 | 48 | 趙晨宇 | 
+| Wang Yuanjun | 216 | 80 | 王元均 | 
+| Dang Yifei | 215 | 47 | 党毅飛 | 
+| Zhou Ruiyang | 211 | 26 | 周睿羊 | 
+| Byun Sangil | 211 | 80 | 卞相壹 | 
+| Iyama Yuta | 208 | 47 | 井山裕太 | 
+| Lai Junfu | 204 | 73 | 賴均輔 | 
+| Fan Yin | 203 | 35 | 范胤 | 
+| Wu Guangya | 196 | 22 | 鄔光亜 | 
+| Yu Zhengqi | 194 | 42 | 余正麒 | 
+| Yun Chanhee | 192 | 26 | 尹燦熙 | 
+| Han Yizhou | 187 | 27 | 韓一洲 | 
+| Yang Dingxin | 166 | 59 | 楊鼎新 | 
+| Chen Yaoye | 166 | 28 | 陳耀燁 | 
+| Gu Zihao | 162 | 51 | 辜梓豪 | 
+| Shibano Toramaru | 161 | 55 | 芝野虎丸 | 
+| Yang Kaiwen | 157 | 37 | 楊楷文 | 
+| Li Chengsen | 153 | 13 | 李成森 | 
+| Lee Donghoon | 144 | 57 | 李東勲 | 
+| Yi Lingtao | 144 | 31 | 伊淩濤 | 
+| Lin Junyan | 142 | 70 | 林君諺 | 
+| Tu Xiaoyu | 137 | 47 | 屠暁宇 | 
+| Shi Yue | 136 | 44 | 時越 | 
+| Park Junghwan | 121 | 86 | 朴廷桓 | 
+| Tong Mengcheng | 120 | 46 | 童夢成 | 
+| Tan Xiao | 115 | 50 | 檀嘯 | 
+| Chen Zijian | 108 | 29 | 陳梓健 | 
+| Kim Jiseok | 104 | 72 | 金志錫 | 
+| Choi Cheolhan | 97 | 27 | 崔哲瀚 | 
+| Fan Tingyu | 97 | 44 | 范廷鈺 | 
+| Huang Mingyu | 95 | 20 | 黄明宇 | 
+| Xie Ke | 94 | 45 | 謝科 | 
+| Xu Jiayang | 84 | 30 | 許嘉陽 | 
+| Hong Seongji | 76 | 26 | 洪性志 | 
+| Park Geunho | 75 | 22 | 朴鍵昊 | 
+| Moon Minjong | 75 | 43 | 文敏鍾 | 
+| Xu Haohong | 73 | 89 | 許皓鋐 | 
+| Heo Yongho | 71 | 14 | 許映皓 | 
+| Han Sanghoon | 66 | 18 | 韓尚勲 | 
+| Li Weiqing | 61 | 38 | 李維清 | 
+| Park Joonhoon | 59 | 18 | 朴鐘勲 | 
+| Chen Yunong | 58 | 21 | 陳玉儂 | 
+| Kim Myounghoon | 58 | 24 | 金明訓 | 
+| Ichiriki Ryo | 56 | 60 | 一力遼 | 
+| Choi Jeong | 54 | 102 | 崔精 | 
+| Jiang Qirun | 54 | 23 | 蒋其潤 | 
+| Li Xuanhao | 49 | 55 | 李軒豪 | 
+| Liu Yuhang | 42 | 21 | 劉宇航 | 
+| Shin Minjun | 40 | 65 | 申旻埈 | 
+| Park Minkyu | 37 | 23 | 朴珉奎 | 
+| Rong Yi | 35 | 25 | 戎毅 | 
+| Park Jinsol | 25 | 20 | 朴進率 | 
+| Lian Xiao | 25 | 56 | 連笑 | 
+| Choi Jaeyoung | 24 | 19 | 崔宰栄 | 
+| Shin Jinseo | 18 | 95 | 申眞諝 | 
+| Lee Changseok | 9 | 59 | 李昌錫 | 
+| Cho Hanseung | 6 | 28 | 趙漢乗 | 
+| Seol Hyunjun | 6 | 36 | 偰玹準 | 
+| Ke Jie | -2 | 50 | 柯潔 | 
+| Park Hamin | -2 | 30 | 朴河旼 | 
+| Kang Dongyun | -7 | 61 | 姜東潤 | 
+| Chen Xian | -8 | 39 | 陳賢 | 
+| Tuo Jiaxi | -13 | 46 | 柁嘉熹 | 
+| Tang Weixing | -15 | 48 | 唐韋星 | 
+| He Yuhan | -19 | 16 | 何語涵 | 
+| Kang Seungmin | -22 | 30 | 姜昇旼 | 
+| Park Sangjin | -25 | 31 | 朴常鎭 | 
+| Jiang Weijie | -33 | 30 | 江維傑 | 
+| An Sungjoon | -35 | 38 | 安成浚 | 
+| Wang Zejin | -55 | 23 | 王沢錦 | 
+| Xie Erhao | -59 | 39 | 謝爾豪 | 
+| Lee Wonyoung | -132 | 17 | 李元栄 | 
+| Tao Xinran | -137 | 40 | 陶欣然 | 
+| Weon Seongjin | -184 | 49 | 元晟溱 | 
+| Lee Yeongkyu | -208 | 20 | 李映九 |
 
 
 

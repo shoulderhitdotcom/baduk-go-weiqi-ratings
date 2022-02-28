@@ -24,7 +24,7 @@ replacements = (
     "{{elo_black65_adv}}" => string(round(Int, black65_advantage*400/log(10))),
     "{{ping_white75_adv}}" => string(round(white75_advantage, digits=2)),
     "{{ping_black65_adv}}" => string(round(black65_advantage, digits=2)),
-    "{{ NGAME_THRESHOLD }}" => string(NGAME_THRESHOLD),
+    "{{NGAME_THRESHOLD}}" => string(NGAME_THRESHOLD),
     "```" => "\n"
 )
 

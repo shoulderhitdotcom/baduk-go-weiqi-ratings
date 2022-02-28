@@ -8,11 +8,11 @@ Note that players with fewer than {{NGAME_THRESHOLD}} games are not in the list
 
 [Top 100](#top-100)
 
-[Biggest Movers](#biggest-movers-in-top-100-last-365-days)
-
 [Outside Top 100](#outside-of-top-100)
 
 [How to compute predicted win percentange](#how-to-compute-predicted-win-percentange)
+
+[Biggest Movers](#biggest-movers-in-top-100-last-365-days)
 
 ### Top 100
 
@@ -29,28 +29,6 @@ select!(tmp, Not(:Uncertainty))
 df_to_md(pings_for_md[1:100, :])
 ```
 
-### Biggest Movers in Top 100 (last 365 days)
-
-
-```{julia; echo=false; line_width=888}
-using JDF, Chain, DataFrameMacros
-using DataFrames: DataFrame
-
-include("c:/weiqi/simulation/utils.jl")
-
-biggest_movers = @chain JDF.load("biggest_movers.jdf") begin
-    DataFrame
-    @transform :Rating_diff = round(Int, :x1 * 365)
-    select(
-        :eng_name_old => :Name,
-        :Rating_diff => Symbol("Rating Change Trend"),
-        :ngames => Symbol("Games Played"),
-        :name => Symbol("汉字")
-    )
-end
-
-df_to_md(biggest_movers)
-```
 
 ### Outside of Top 100
 
@@ -82,6 +60,30 @@ include("c:/weiqi/simulation/utils.jl")
 pings_for_mdbs = JDF.load("below_threshold_pings_for_md.jdf") |> DataFrame
 
 df_to_md(pings_for_mdbs)
+```
+
+
+### Biggest Movers in Top 100 (last 365 days)
+
+
+```{julia; echo=false; line_width=888}
+using JDF, Chain, DataFrameMacros
+using DataFrames: DataFrame
+
+include("c:/weiqi/simulation/utils.jl")
+
+biggest_movers = @chain JDF.load("biggest_movers.jdf") begin
+    DataFrame
+    @transform :Rating_diff = round(Int, :x1 * 365)
+    select(
+        :eng_name_old => :Name,
+        :Rating_diff => Symbol("Rating Change Trend"),
+        :ngames => Symbol("Games Played"),
+        :name => Symbol("汉字")
+    )
+end
+
+df_to_md(biggest_movers)
 ```
 
 [Head-to-head](head-to-head-md/md/Ke Jie-Shin Jinseo.md)

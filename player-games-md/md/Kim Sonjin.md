@@ -15,10 +15,10 @@
 | 2022-01-15 | 2021-2022フューチャーズリーグ | An Joyeong | Kim Sonjin | Win | W+R | 6.5 | 3088.0 | -23.0 | 
 | 2022-01-08 | 2021-2022フューチャーズリーグ | Kim Miri | Kim Sonjin | Win | W+R | 6.5 | 3111.0 | 2.0 | 
 | 2022-01-04 | 2021-2022フューチャーズリーグ | Lee Hyunho | Kim Sonjin | Lose | B+R | 6.5 | 3109.0 | 9.0 | 
-| 2021-12-25 | 2021-2022フューチャーズリーグ | Kim Sonjin | Kim Changhoon | Lose | W+7.5 | 6.5 | 3100.0 | -15.0 | 
-| 2021-12-19 | 2021-2022フューチャーズリーグ | Kim Sonjin |  | Lose | W+R | 6.5 | 3115.0 | 111.0 | 
-| 2021-12-04 | 2021-2022フューチャーズリーグ | Kim Sonjin | Lee Wondo | Win | B+R | 6.5 | 3004.0 | -17.0 | 
-| 2021-11-27 | 2021-2022フューチャーズリーグ |  | Kim Sonjin | Win | W+R | 6.5 | 3021.0 | -107.0 | 
+| 2021-12-25 | 2021-2022フューチャーズリーグ | Kim Sonjin | Kim Changhoon | Lose | W+7.5 | 6.5 | 3100.0 | -16.0 | 
+| 2021-12-19 | 2021-2022フューチャーズリーグ | Kim Sonjin |  | Lose | W+R | 6.5 | 3116.0 | 111.0 | 
+| 2021-12-04 | 2021-2022フューチャーズリーグ | Kim Sonjin | Lee Wondo | Win | B+R | 6.5 | 3005.0 | -17.0 | 
+| 2021-11-27 | 2021-2022フューチャーズリーグ |  | Kim Sonjin | Win | W+R | 6.5 | 3022.0 | -106.0 | 
 | 2021-04-10 | 第44期名人戦（韓国）敗者復活戦1回戦 | Kim Sonjin | Shin Jinseo | Lose | W+R | 6.5 | 3128.0 | 1.0 | 
 | 2021-03-13 | 第44期名人戦（韓国）1回戦 | Kim Sonjin | An Jungki | Lose | W+1.5 | 6.5 | 3127.0 | -16.0 | 
 | 2021-03-05 | 2020-2021フューチャーズリーグ | Park Younglong | Kim Sonjin | Lose | B+R | 6.5 | 3143.0 | -2.0 | 
@@ -41,8 +41,8 @@
 | 2020-09-28 | 第1回ORO30-40囲碁選手権リーグ | Kim Sonjin | Paek Hongseok | Win | B+1.5 | 6.5 | 3305.0 | 82.0 | 
 | 2020-09-18 | 第2期ソパルコサノル最高棋士決定戦予選 | Kim Sonjin |  | Lose | W+R | 6.5 | 3223.0 | -80.0 | 
 | 2020-09-17 | 第1回ORO30-40囲碁選手権リーグ | Kim Sonjin | Yun Chanhee | Win | B+R | 6.5 | 3303.0 | 97.0 | 
-| 2020-09-09 | 第1回ORO30-40囲碁選手権リーグ | Kim Sonjin | Cho Hyeyeon | Win | B+R | 6.5 | 3206.0 | 22.0 | 
-| 2020-09-03 | 第1回ORO30-40囲碁選手権リーグ | Kim Sonjin | Park Seunghwa | Win | B+R | 6.5 | 3184.0 | -51.0 | 
+| 2020-09-09 | 第1回ORO30-40囲碁選手権リーグ | Kim Sonjin | Cho Hyeyeon | Win | B+R | 6.5 | 3206.0 | 21.0 | 
+| 2020-09-03 | 第1回ORO30-40囲碁選手権リーグ | Kim Sonjin | Park Seunghwa | Win | B+R | 6.5 | 3185.0 | -50.0 | 
 | 2020-04-22 | 第25回LG杯韓国予選 | Kim Sonjin | Gon Jiwoo | Lose | W+R | 6.5 | 3235.0 | 49.0 | 
 | 2020-04-21 | 第25回LG杯韓国予選 | Park Siyeol | Kim Sonjin | Win | W+R | 6.5 | 3186.0 | 0.0 | 
 | 2019-06-19 | 2019年中国囲碁乙級リーグ | Kim Sonjin | Chen Shiyuan | Win | B+R | 7.5 | 3186.0 | 57.0 | 
@@ -75,9 +75,9 @@
 | 2014-07-16 | 第10期物価情報杯プロ棋戦リーグC | Kim Sonjin | Park Junghwan | Lose | W+R | 6.5 | 3450.0 | -13.0 | 
 | 2014-07-11 | 2014年韓国囲碁リーグ | Kim Sonjin | Park Junghwan | Lose | W+R | 6.5 | 3463.0 | -9.0 | 
 | 2014-07-06 | 2014年韓国囲碁リーグ | Kim Sonjin | Mok Jinseok | Win | B+R | 6.5 | 3472.0 | 53.0 | 
-| 2014-06-22 | 2014年韓国囲碁リーグ | Kim Sonjin |  | Win | B+1.5 | 6.5 | 3419.0 | -45.0 | 
-| 2014-06-08 | 2014年韓国囲碁リーグ | Lee Hobum | Kim Sonjin | Win | W+2.5 | 6.5 | 3464.0 | 5.0 | 
-| 2014-06-04 | 第10期物価情報杯プロ棋戦リーグC | Seo Bongsoo | Kim Sonjin | Lose | B+0.5 | 6.5 | 3459.0 | -79.0 | 
+| 2014-06-22 | 2014年韓国囲碁リーグ | Kim Sonjin |  | Win | B+1.5 | 6.5 | 3419.0 | -44.0 | 
+| 2014-06-08 | 2014年韓国囲碁リーグ | Lee Hobum | Kim Sonjin | Win | W+2.5 | 6.5 | 3463.0 | 5.0 | 
+| 2014-06-04 | 第10期物価情報杯プロ棋戦リーグC | Seo Bongsoo | Kim Sonjin | Lose | B+0.5 | 6.5 | 3458.0 | -80.0 | 
 | 2014-05-21 | 第19期バッカス杯天元戦予選 |  | Kim Sonjin | Lose | B+R | 6.5 | 3538.0 | -16.0 | 
 | 2014-05-18 | 2014年韓国囲碁リーグ | Kim Sonjin | Han Seungjoo | Lose | W+R | 6.5 | 3554.0 | -27.0 | 
 | 2014-05-08 | 2014年韓国囲碁リーグ | Kim Sonjin | Kang Dongyun | Lose | W+R | 6.5 | 3581.0 | -30.0 | 
@@ -93,14 +93,14 @@
 | 2013-10-13 | 2013年韓国囲碁リーグ | Kim Sonjin | On Sojin | Win | B+R | 6.5 | 3496.0 | 28.0 | 
 | 2013-10-12 | 2013年楽スターリーグ | Kim Sonjin | Park Jiyeon | Win | B+R | 6.5 | 3468.0 | 19.0 | 
 | 2013-09-29 | 2013年楽スターリーグ | Kim Sonjin |  | Win | B+0.5 | 6.5 | 3449.0 | -16.0 | 
-| 2013-09-24 | 第41期名人戦（韓国）2回戦 | Kim Sonjin | Park Yeonghun | Lose | W+0.5 | 6.5 | 3465.0 | -19.0 | 
-| 2013-08-28 | 第41期名人戦（韓国）1回戦 | Byun Sangil | Kim Sonjin | Win | W+R | 6.5 | 3484.0 | 39.0 | 
-| 2013-08-16 | 2013年韓国囲碁リーグ | Lee Wonyoung | Kim Sonjin | Lose | B+R | 6.5 | 3445.0 | 36.0 | 
+| 2013-09-24 | 第41期名人戦（韓国）2回戦 | Kim Sonjin | Park Yeonghun | Lose | W+0.5 | 6.5 | 3465.0 | -18.0 | 
+| 2013-08-28 | 第41期名人戦（韓国）1回戦 | Byun Sangil | Kim Sonjin | Win | W+R | 6.5 | 3483.0 | 39.0 | 
+| 2013-08-16 | 2013年韓国囲碁リーグ | Lee Wonyoung | Kim Sonjin | Lose | B+R | 6.5 | 3444.0 | 35.0 | 
 | 2013-07-31 | 第41期名人戦（韓国）予選 | Kim Sonjin | Jen Youngkyu | Win | B+R | 6.5 | 3409.0 | -34.0 | 
 | 2013-07-20 | 2013年韓国囲碁リーグ | An Sungjoon | Kim Sonjin | Win | W+R | 6.5 | 3443.0 | 86.0 | 
-| 2013-07-12 | 第4期Olleh杯オープン選手権2回戦 | Cho Hunhyun | Kim Sonjin | Lose | B+6.5 | 6.5 | 3357.0 | -24.0 | 
-| 2013-06-12 | 第18回LG杯朝鮮日報棋王戦2回戦 | Kim Sonjin | Xia Chenkun | Lose | W+2.5 | 6.5 | 3381.0 | -35.0 | 
-| 2013-06-10 | 第18回LG杯朝鮮日報棋王戦1回戦 | Gu Li | Kim Sonjin | Win | W+R | 6.5 | 3416.0 | 31.0 | 
+| 2013-07-12 | 第4期Olleh杯オープン選手権2回戦 | Cho Hunhyun | Kim Sonjin | Lose | B+6.5 | 6.5 | 3357.0 | -23.0 | 
+| 2013-06-12 | 第18回LG杯朝鮮日報棋王戦2回戦 | Kim Sonjin | Xia Chenkun | Lose | W+2.5 | 6.5 | 3380.0 | -35.0 | 
+| 2013-06-10 | 第18回LG杯朝鮮日報棋王戦1回戦 | Gu Li | Kim Sonjin | Win | W+R | 6.5 | 3415.0 | 30.0 | 
 | 2013-04-26 | 第9期物価情報杯プロ棋戦予選 | Mok Jinseok | Kim Sonjin | Lose | B+1.5 | 6.5 | 3385.0 | -219.0 | 
 | 2013-02-18 | 第8期圓益杯十段戦3回戦 | Choi Cheolhan | Kim Sonjin | Lose | B+R | 6.5 | 3604.0 | -47.0 | 
 | 2013-02-07 | 第1期トンアパムテク杯オープン新人王戦2回戦 | Kim Sonjin | Lee Donghoon | Lose | W+R | 6.5 | 3651.0 | -16.0 | 

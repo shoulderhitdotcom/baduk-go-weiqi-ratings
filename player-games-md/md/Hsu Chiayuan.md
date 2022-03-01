@@ -13,18 +13,18 @@
 | 2022-01-17 | 第77期本因坊戦リーグ | Hsu Chiayuan | Tsuruyama Atsushi | Win | B+R | 6.5 | 3502.0 | 21.0 | 
 | 2022-01-13 | 第48期天元戦予選 | Yoda Norimoto | Hsu Chiayuan | Win | W+11.5 | 6.5 | 3481.0 | 7.0 | 
 | 2022-01-10 | 第47期名人戦リーグ  | Yamashita Keigo | Hsu Chiayuan | Lose | B+R | 6.5 | 3474.0 | 17.0 | 
-| 2021-12-25 | 第1回テイケイ杯俊英戦Bリーグ | Tsuruta Kazushi | Hsu Chiayuan | Win | W+1.5 | 6.5 | 3457.0 | 1.0 | 
-| 2021-12-24 | 第1回テイケイ杯俊英戦Bリーグ | Hsu Chiayuan | Onishi Kenya | Win | B+R | 6.5 | 3456.0 | -14.0 | 
-| 2021-12-22 | 第1回テイケイ杯俊英戦Bリーグ | Hsu Chiayuan | Hirose Yuichi | Win | B+R | 6.5 | 3470.0 | 8.0 | 
-| 2021-12-21 | 第1回テイケイ杯俊英戦Bリーグ  | Hsu Chiayuan | Sada Atsushi | Win | B+R | 6.5 | 3462.0 | 17.0 | 
-| 2021-12-20 | 第1回テイケイ杯俊英戦Bリーグ  | Otake Yu | Hsu Chiayuan | Win | W+R | 6.5 | 3445.0 | -4.0 | 
-| 2021-12-18 | 第47期名人戦リーグ  | Hsu Chiayuan | Yu Zhengqi | Lose | W+R | 6.5 | 3449.0 | -16.0 | 
-| 2021-12-11 | 第7回国手山脈世界プロ最強戦準決勝  | Byun Sangil | Hsu Chiayuan | Lose | B+R | 6.5 | 3465.0 | 6.0 | 
-| 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦 | Hsu Chiayuan | Huang Yunsong | Win | B+R | 6.5 | 3459.0 | 0.0 | 
-| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Kim Myounghoon | Hsu Chiayuan | Win | W+R | 6.5 | 3459.0 | 22.0 | 
-| 2021-12-08 | 第22期阿含・桐山杯日中決戦  | Gu Zihao | Hsu Chiayuan | Lose | B+R | 7.5 | 3437.0 | 2.0 | 
-| 2021-12-06 | 第48期天元戦予選 | Hsu Chiayuan | So Kofuku | Win | B+R | 6.5 | 3435.0 | 16.0 | 
-| 2021-12-02 | 第77期本因坊戦リーグ | Hsu Chiayuan | Motoki Katsuya | Win | B+R | 6.5 | 3419.0 | 23.0 | 
+| 2021-12-25 | 第1回テイケイ杯俊英戦Bリーグ | Tsuruta Kazushi | Hsu Chiayuan | Win | W+1.5 | 6.5 | 3457.0 | 0.0 | 
+| 2021-12-24 | 第1回テイケイ杯俊英戦Bリーグ | Hsu Chiayuan | Onishi Kenya | Win | B+R | 6.5 | 3457.0 | -14.0 | 
+| 2021-12-22 | 第1回テイケイ杯俊英戦Bリーグ | Hsu Chiayuan | Hirose Yuichi | Win | B+R | 6.5 | 3471.0 | 8.0 | 
+| 2021-12-21 | 第1回テイケイ杯俊英戦Bリーグ  | Hsu Chiayuan | Sada Atsushi | Win | B+R | 6.5 | 3463.0 | 17.0 | 
+| 2021-12-20 | 第1回テイケイ杯俊英戦Bリーグ  | Otake Yu | Hsu Chiayuan | Win | W+R | 6.5 | 3446.0 | -4.0 | 
+| 2021-12-18 | 第47期名人戦リーグ  | Hsu Chiayuan | Yu Zhengqi | Lose | W+R | 6.5 | 3450.0 | -16.0 | 
+| 2021-12-11 | 第7回国手山脈世界プロ最強戦準決勝  | Byun Sangil | Hsu Chiayuan | Lose | B+R | 6.5 | 3466.0 | 6.0 | 
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦2回戦 | Hsu Chiayuan | Huang Yunsong | Win | B+R | 6.5 | 3460.0 | 0.0 | 
+| 2021-12-10 | 第7回国手山脈世界プロ最強戦1回戦 | Kim Myounghoon | Hsu Chiayuan | Win | W+R | 6.5 | 3460.0 | 22.0 | 
+| 2021-12-08 | 第22期阿含・桐山杯日中決戦  | Gu Zihao | Hsu Chiayuan | Lose | B+R | 7.5 | 3438.0 | 2.0 | 
+| 2021-12-06 | 第48期天元戦予選 | Hsu Chiayuan | So Kofuku | Win | B+R | 6.5 | 3436.0 | 16.0 | 
+| 2021-12-02 | 第77期本因坊戦リーグ | Hsu Chiayuan | Motoki Katsuya | Win | B+R | 6.5 | 3420.0 | 24.0 | 
 | 2021-11-18 | 第47期碁聖戦予選 | Koyama Kuya | Hsu Chiayuan | Win | W+1.5 | 6.5 | 3396.0 | 11.0 | 
 | 2021-11-12 | 第77期本因坊戦リーグ | Hsu Chiayuan | Ichiriki Ryo | Lose | W+R | 6.5 | 3385.0 | 0.0 | 
 | 2021-10-21 | 第26回三星火災杯世界囲碁マスターズ1回戦 | Hsu Chiayuan | Fan Tingyu | Lose | W+R | 6.5 | 3385.0 | 17.0 | 
@@ -37,10 +37,10 @@
 | 2021-08-19 | 第46期棋聖戦Aリーグ | Mutsuura Yuta | Hsu Chiayuan | Win | W+R | 6.5 | 3396.0 | -6.0 | 
 | 2021-08-12 | 第28期阿含・桐山杯全日本早碁オープン戦2回戦 | Seto Taiki | Hsu Chiayuan | Win | W+R | 6.5 | 3402.0 | 0.0 | 
 | 2021-08-06 | 第46期名人戦リーグ  | Kono Rin | Hsu Chiayuan | Win | W+0.5 | 6.5 | 3402.0 | 62.0 | 
-| 2021-07-15 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Hsu Chiayuan | Win | W+6.5 | 6.5 | 3340.0 | -5.0 | 
-| 2021-07-12 | 第69期王座戦2回戦 | Ida Atsushi | Hsu Chiayuan | Lose | B+R | 6.5 | 3345.0 | 13.0 | 
-| 2021-07-08 | 第46期名人戦リーグ  | Hsu Chiayuan | Hane Naoki | Lose | W+R | 6.5 | 3332.0 | -13.0 | 
-| 2021-06-17 | 第46期棋聖戦Aリーグ | Hsu Chiayuan | Hane Naoki | Lose | W+R | 6.5 | 3345.0 | 20.0 | 
+| 2021-07-15 | 第46期棋聖戦Aリーグ | Yoda Norimoto | Hsu Chiayuan | Win | W+6.5 | 6.5 | 3340.0 | -6.0 | 
+| 2021-07-12 | 第69期王座戦2回戦 | Ida Atsushi | Hsu Chiayuan | Lose | B+R | 6.5 | 3346.0 | 14.0 | 
+| 2021-07-08 | 第46期名人戦リーグ  | Hsu Chiayuan | Hane Naoki | Lose | W+R | 6.5 | 3332.0 | -14.0 | 
+| 2021-06-17 | 第46期棋聖戦Aリーグ | Hsu Chiayuan | Hane Naoki | Lose | W+R | 6.5 | 3346.0 | 21.0 | 
 | 2021-06-10 | 第46期名人戦リーグ  | Yamashita Keigo | Hsu Chiayuan | Win | W+4.5 | 6.5 | 3325.0 | 8.0 | 
 | 2021-06-04 | 第69期王座戦1回戦 | Motoki Katsuya | Hsu Chiayuan | Win | W+R | 6.5 | 3317.0 | 14.0 | 
 | 2021-05-31 | 第26回LG杯朝鮮日報棋王戦1回戦 | Weon Seongjin | Hsu Chiayuan | Lose | B+R | 6.5 | 3303.0 | 1.0 | 
@@ -84,8 +84,8 @@
 | 2020-09-24 | 第45期棋聖戦Sリーグ | Hsu Chiayuan | Ichiriki Ryo | Lose | W+R | 6.5 | 3284.0 | -2.0 | 
 | 2020-09-18 | 第68期王座戦挑戦者決定戦 | Cho U | Hsu Chiayuan | Win | W+R | 6.5 | 3286.0 | 4.0 | 
 | 2020-09-09 | 第9回応氏杯世界選手権2回戦 | Hsu Chiayuan | Xu Haohong | Lose | W+R | 7.5 | 3282.0 | -12.0 | 
-| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Hsu Chiayuan | Dang Yifei | Win | B+R | 7.5 | 3294.0 | 22.0 | 
-| 2020-09-03 | 第68期王座戦準決勝 | Yamashita Keigo | Hsu Chiayuan | Win | W+R | 6.5 | 3272.0 | 7.0 | 
+| 2020-09-08 | 第9回応氏杯世界選手権1回戦 | Hsu Chiayuan | Dang Yifei | Win | B+R | 7.5 | 3294.0 | 21.0 | 
+| 2020-09-03 | 第68期王座戦準決勝 | Yamashita Keigo | Hsu Chiayuan | Win | W+R | 6.5 | 3273.0 | 8.0 | 
 | 2020-08-27 | 第59期十段戦予選 | Yuki Satoshi | Hsu Chiayuan | Win | W+R | 6.5 | 3265.0 | -46.0 | 
 | 2020-08-20 | 第45期棋聖戦Sリーグ | Kono Rin | Hsu Chiayuan | Lose | B+R | 6.5 | 3311.0 | -16.0 | 
 | 2020-08-06 | 第45期名人戦リーグ | Yamashita Keigo | Hsu Chiayuan | Lose | B+R | 6.5 | 3327.0 | -32.0 | 
@@ -96,12 +96,12 @@
 | 2020-07-13 | 第45期棋聖戦Sリーグ | Cho U | Hsu Chiayuan | Win | W+R | 6.5 | 3384.0 | 8.0 | 
 | 2020-07-10 | 第46期天元戦2回戦 | Yu Zhengqi | Hsu Chiayuan | Lose | B+R | 6.5 | 3376.0 | -26.0 | 
 | 2020-07-08 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Yuki Satoshi | Hsu Chiayuan | Win | W+R | 6.5 | 3402.0 | 18.0 | 
-| 2020-06-25 | 第45期名人戦リーグ | Iyama Yuta | Hsu Chiayuan | Lose | B+R | 6.5 | 3384.0 | -20.0 | 
-| 2020-06-22 | 第45期棋聖戦Sリーグ | Murakawa Daisuke | Hsu Chiayuan | Win | W+R | 6.5 | 3404.0 | 29.0 | 
+| 2020-06-25 | 第45期名人戦リーグ | Iyama Yuta | Hsu Chiayuan | Lose | B+R | 6.5 | 3384.0 | -21.0 | 
+| 2020-06-22 | 第45期棋聖戦Sリーグ | Murakawa Daisuke | Hsu Chiayuan | Win | W+R | 6.5 | 3405.0 | 30.0 | 
 | 2020-06-18 | 第45期名人戦リーグ | Rin Kanketsu | Hsu Chiayuan | Win | W+R | 6.5 | 3375.0 | 14.0 | 
 | 2020-06-15 | 第27期阿含・桐山杯全日本早碁オープン戦予選 | Hsu Chiayuan | Hirata Tomoya | Win | B+R | 6.5 | 3361.0 | 35.0 | 
-| 2020-06-11 | 第45期名人戦リーグ | Hsu Chiayuan | Kono Rin | Lose | W+0.5 | 6.5 | 3326.0 | -8.0 | 
-| 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Hsu Chiayuan | Kang Dongyun | Lose | W+R | 6.5 | 3334.0 | -21.0 | 
+| 2020-06-11 | 第45期名人戦リーグ | Hsu Chiayuan | Kono Rin | Lose | W+0.5 | 6.5 | 3326.0 | -9.0 | 
+| 2020-06-01 | 第25回LG杯朝鮮日報棋王戦1回戦 | Hsu Chiayuan | Kang Dongyun | Lose | W+R | 6.5 | 3335.0 | -20.0 | 
 | 2020-04-06 | 第75期本因坊戦リーグプレーオフ  | Shibano Toramaru | Hsu Chiayuan | Lose | B+R | 6.5 | 3355.0 | -4.0 | 
 | 2020-04-03 | 第75期本因坊戦リーグ  | Hsu Chiayuan | Shida Tatsuya | Win | B+R | 6.5 | 3359.0 | -6.0 | 
 | 2020-03-12 | 第75期本因坊戦リーグ | Ichiriki Ryo | Hsu Chiayuan | Win | W+R | 6.5 | 3365.0 | 24.0 | 
@@ -123,8 +123,8 @@
 | 2019-12-05 | 第75期本因坊戦リーグ | Hsu Chiayuan | Yokotsuka Riki | Win | B+R | 6.5 | 3413.0 | 25.0 | 
 | 2019-11-24 | 第21回農心辛ラーメン杯世界囲碁最強戦第7戦 | Hsu Chiayuan | Yang Dingxin | Lose | W+R | 6.5 | 3388.0 | 0.0 | 
 | 2019-11-22 | 第45期天元戦挑戦手合五番勝負第3局 | Hsu Chiayuan | Iyama Yuta | Win | B+R | 6.5 | 3388.0 | 16.0 | 
-| 2019-11-07 | 第75期本因坊戦リーグ | Yamashita Keigo | Hsu Chiayuan | Win | W+R | 6.5 | 3372.0 | -3.0 | 
-| 2019-10-31 | 第45期名人戦予選 | Hsu Chiayuan | Mimura Tomoyasu | Win | B+R | 6.5 | 3375.0 | -11.0 | 
+| 2019-11-07 | 第75期本因坊戦リーグ | Yamashita Keigo | Hsu Chiayuan | Win | W+R | 6.5 | 3372.0 | -4.0 | 
+| 2019-10-31 | 第45期名人戦予選 | Hsu Chiayuan | Mimura Tomoyasu | Win | B+R | 6.5 | 3376.0 | -10.0 | 
 | 2019-10-21 | 第45期天元戦挑戦手合五番勝負第2局 | Iyama Yuta | Hsu Chiayuan | Lose | B+R | 6.5 | 3386.0 | 3.0 | 
 | 2019-10-17 | 第75期本因坊戦リーグ | Hsu Chiayuan | Kono Rin | Win | B+R | 6.5 | 3383.0 | 39.0 | 
 | 2019-10-11 | 第45期天元戦挑戦手合五番勝負第1局  | Hsu Chiayuan | Iyama Yuta | Win | B+R | 6.5 | 3344.0 | 42.0 | 
@@ -191,8 +191,8 @@
 | 2018-08-10 | 第44期天元戦準決勝 | Hsu Chiayuan | Hirata Tomoya | Win | B+1.5 | 6.5 | 3617.0 | 6.0 | 
 | 2018-08-03 | 第43期碁聖戦挑戦手合五番勝負第3局  | Iyama Yuta | Hsu Chiayuan | Win | W+R | 6.5 | 3611.0 | 38.0 | 
 | 2018-07-24 | 第4回百霊杯世界オープン戦1回戦 | Dang Yifei | Hsu Chiayuan | Lose | B+R | 7.5 | 3573.0 | -28.0 | 
-| 2018-07-19 | 第74期本因坊戦最終予選 | Hsu Chiayuan | Goto Shungo | Win | B+R | 6.5 | 3601.0 | 15.0 | 
-| 2018-07-16 | 第44期天元戦3回戦 | Hsu Chiayuan | Mutsuura Yuta | Win | B+1.5 | 6.5 | 3586.0 | 20.0 | 
+| 2018-07-19 | 第74期本因坊戦最終予選 | Hsu Chiayuan | Goto Shungo | Win | B+R | 6.5 | 3601.0 | 16.0 | 
+| 2018-07-16 | 第44期天元戦3回戦 | Hsu Chiayuan | Mutsuura Yuta | Win | B+1.5 | 6.5 | 3585.0 | 19.0 | 
 | 2018-07-10 | 第25期阿含・桐山杯全日本早碁オープン戦2回戦 | Hsu Chiayuan | Takao Shinji | Win | B+12.5 | 6.5 | 3566.0 | 6.0 | 
 | 2018-07-06 | 第43期碁聖戦挑戦手合五番勝負第2局  | Hsu Chiayuan | Iyama Yuta | Win | B+1.5 | 6.5 | 3560.0 | 7.0 | 
 | 2018-07-02 | 第66期王座戦2回戦 | Yu Zhengqi | Hsu Chiayuan | Win | W+R | 6.5 | 3553.0 | 42.0 | 
@@ -248,8 +248,8 @@
 | 2017-04-13 | 第42期棋聖戦　Aリーグ2回戦 | Yamashiro Hiroshi | Hsu Chiayuan | Win | W+R | 6.5 | 3305.0 | -39.0 | 
 | 2017-03-23 | 第43期天元戦　本戦2回戦第4局 | Hsu Chiayuan | Kono Rin | Win | B+R | 6.5 | 3344.0 | 1.0 | 
 | 2017-03-17 | 第4回グロービス杯国内予選 | Hsu Chiayuan | Nyu Eiko | Win | B+R | 6.5 | 3343.0 | 0.0 | 
-| 2017-03-17 | 第4回グロービス杯国内予選 | Hsu Chiayuan | Yahata Naoki | Win | B+R | 6.5 | 3343.0 | 20.0 | 
-| 2017-03-02 | 第42期棋聖戦　Aリーグ1回戦 | Hsu Chiayuan | Ryu Shikun | Win | B+R | 6.5 | 3323.0 | 39.0 | 
+| 2017-03-17 | 第4回グロービス杯国内予選 | Hsu Chiayuan | Yahata Naoki | Win | B+R | 6.5 | 3343.0 | 21.0 | 
+| 2017-03-02 | 第42期棋聖戦　Aリーグ1回戦 | Hsu Chiayuan | Ryu Shikun | Win | B+R | 6.5 | 3322.0 | 38.0 | 
 | 2017-01-01 | 2016年利民杯世界囲碁星鋭最強戦2回戦 | Hsu Chiayuan | Shin Jinseo | Lose | W+R | 7.5 | 3284.0 | -6.0 | 
 | 2016-12-31 | 2016年利民杯世界囲碁星鋭最強戦1回戦 | Xie Ke | Hsu Chiayuan | Win | W+R | 7.5 | 3290.0 | 23.0 | 
 | 2016-12-28 | 日本国家隊冬季合宿訓練戦 | Hsu Chiayuan | Takao Shinji | Lose | W+R | 6.5 | 3267.0 | 0.0 | 
@@ -273,8 +273,8 @@
 | 2016-04-23 | 第3回グロービス杯世界囲碁U-20準々決勝 | Lee Donghoon | Hsu Chiayuan | Win | W+R | 6.5 | 3356.0 | 0.0 | 
 | 2016-04-23 | 第3回グロービス杯世界囲碁U-20グループリーグC | Hsu Chiayuan | Fan Yunruo | Win | B+R | 6.5 | 3356.0 | 66.0 | 
 | 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグC | Hsu Chiayuan | Fan Yunruo | Lose | W+R | 6.5 | 3290.0 | 0.0 | 
-| 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグC | Justin Ching | Hsu Chiayuan | Win | W+T | 6.5 | 3290.0 | 34.0 | 
-| 2016-04-07 | 第41期棋聖戦Bリーグ | Ida Atsushi | Hsu Chiayuan | Win | W+R | 6.5 | 3256.0 | 22.0 | 
+| 2016-04-22 | 第3回グロービス杯世界囲碁U-20グループリーグC | Justin Ching | Hsu Chiayuan | Win | W+T | 6.5 | 3290.0 | 35.0 | 
+| 2016-04-07 | 第41期棋聖戦Bリーグ | Ida Atsushi | Hsu Chiayuan | Win | W+R | 6.5 | 3255.0 | 21.0 | 
 | 2016-03-26 | 第11回春蘭杯世界囲碁選手権1回戦 | Hsu Chiayuan | Tuo Jiaxi | Lose | W+R | 7.5 | 3234.0 | -1.0 | 
 | 2016-03-22 | 第3回グロービス杯国内予選 | Nishi Takenobu | Hsu Chiayuan | Win | W+R | 6.5 | 3235.0 | 0.0 | 
 | 2016-03-22 | 第3回グロービス杯国内予選 | Watanabe Yuu | Hsu Chiayuan | Win | W+R | 6.5 | 3235.0 | -14.0 | 
@@ -283,8 +283,8 @@
 | 2016-01-21 | 第41期碁聖戦本戦2回戦 | Hsu Chiayuan | Yamashita Keigo | Lose | W+1.5 | 6.5 | 3242.0 | -16.0 | 
 | 2016-01-15 | 第2回イベロジャパン杯2回戦 | Hsu Chiayuan | Fujisawa Rina | Lose | W+R | 6.5 | 3258.0 | -25.0 | 
 | 2016-01-08 | 第2回イベロジャパン杯1回戦 | Hsu Chiayuan |  | Win | B+R | 6.5 | 3283.0 | 8.0 | 
-| 2016-01-07 | 第42期天元戦本戦1回戦 | Nakano Hironari | Hsu Chiayuan | Win | W+R | 6.5 | 3275.0 | 59.0 | 
-| 2015-12-10 | 第41期碁聖戦本戦1回戦 | Numadate Sakiya | Hsu Chiayuan | Win | W+R | 6.5 | 3216.0 | 12.0 | 
+| 2016-01-07 | 第42期天元戦本戦1回戦 | Nakano Hironari | Hsu Chiayuan | Win | W+R | 6.5 | 3275.0 | 60.0 | 
+| 2015-12-10 | 第41期碁聖戦本戦1回戦 | Numadate Sakiya | Hsu Chiayuan | Win | W+R | 6.5 | 3215.0 | 11.0 | 
 | 2015-11-28 | 2015年利民杯世界囲碁星鋭最強戦1回戦 | Zhao Chenyu | Hsu Chiayuan | Lose | B+5.5 | 7.5 | 3204.0 | -49.0 | 
 | 2015-11-21 | 第10回広島アルミ杯・若鯉戦2回戦 | Motoki Katsuya | Hsu Chiayuan | Lose | B+R | 6.5 | 3253.0 | 0.0 | 
 | 2015-11-21 | 第10回広島アルミ杯・若鯉戦1回戦 | Fujita Akihiko | Hsu Chiayuan | Win | W+3.5 | 6.5 | 3253.0 | -24.0 | 
@@ -313,8 +313,8 @@
 | 2015-03-17 | 第2回グロービス杯国内予選 | Utsumi Koki | Hsu Chiayuan | Win | W+R | 6.5 | 3270.0 | 0.0 | 
 | 2015-03-17 | 第2回グロービス杯国内予選 | Sada Atsushi | Hsu Chiayuan | Lose | B+1.5 | 6.5 | 3270.0 | -57.0 | 
 | 2015-02-05 | 第40期棋聖戦予選 | Hsu Chiayuan | Otake Hideo | Win | B+R | 6.5 | 3327.0 | -5.0 | 
-| 2015-01-29 | 第40期新人王戦1回戦 | Hsu Chiayuan | Takeuchi Kousuke | Win | B+R | 6.5 | 3332.0 | 10.0 | 
-| 2014-12-19 | 2014年利民杯世界囲碁星鋭最強戦1回戦 | Hsu Chiayuan | Xia Chenkun | Lose | W+4.5 | 7.5 | 3322.0 | 6.0 | 
+| 2015-01-29 | 第40期新人王戦1回戦 | Hsu Chiayuan | Takeuchi Kousuke | Win | B+R | 6.5 | 3332.0 | 11.0 | 
+| 2014-12-19 | 2014年利民杯世界囲碁星鋭最強戦1回戦 | Hsu Chiayuan | Xia Chenkun | Lose | W+4.5 | 7.5 | 3321.0 | 5.0 | 
 | 2014-11-15 | 第9回広島アルミ杯・若鯉戦2回戦 | Motoki Katsuya | Hsu Chiayuan | Lose | B+R | 6.5 | 3316.0 | 0.0 | 
 | 2014-11-15 | 第9回広島アルミ杯・若鯉戦1回戦 | Muramatsu Hiroki | Hsu Chiayuan | Win | W+R | 6.5 | 3316.0 | -3.0 | 
 | 2014-11-11 | 第1回イベロジャパン杯決勝 | Hsu Chiayuan | Ichiriki Ryo | Lose | W+6.5 | 6.5 | 3319.0 | -3.0 | 
@@ -329,9 +329,9 @@
 | 2014-07-14 | 第1回ゆうちょ杯囲碁ユース選手権1回戦 | Hsu Chiayuan | Koyama Kuya | Win | B+R | 6.5 | 3268.0 | -24.0 | 
 | 2014-07-10 | 第41期天元戦予選 | Motoki Katsuya | Hsu Chiayuan | Win | W+2.5 | 6.5 | 3292.0 | -11.0 | 
 | 2014-07-03 | 第40期名人戦予選 | Otake Hideo | Hsu Chiayuan | Win | W+0.5 | 6.5 | 3303.0 | 10.0 | 
-| 2014-06-20 | 第1回イベロジャパン杯2回戦 | Hsu Chiayuan | Fujisawa Rina | Win | B+R | 6.5 | 3293.0 | -73.0 | 
-| 2014-06-05 | 第53期十段戦予選 | Suzuki Shinji | Hsu Chiayuan | Lose | B+R | 6.5 | 3366.0 | -25.0 | 
-| 2014-06-02 | 第39期新人王戦3回戦 | Ichiriki Ryo | Hsu Chiayuan | Lose | B+R | 6.5 | 3391.0 | -76.0 | 
+| 2014-06-20 | 第1回イベロジャパン杯2回戦 | Hsu Chiayuan | Fujisawa Rina | Win | B+R | 6.5 | 3293.0 | -72.0 | 
+| 2014-06-05 | 第53期十段戦予選 | Suzuki Shinji | Hsu Chiayuan | Lose | B+R | 6.5 | 3365.0 | -25.0 | 
+| 2014-06-02 | 第39期新人王戦3回戦 | Ichiriki Ryo | Hsu Chiayuan | Lose | B+R | 6.5 | 3390.0 | -77.0 | 
 | 2014-05-22 | 第40期名人戦予選 | Takagi Shoichi | Hsu Chiayuan | Win | W+R | 6.5 | 3467.0 | -17.0 | 
 | 2014-05-15 | 第70期本因坊戦予選 | Hsu Chiayuan | Kataoka Satoshi | Lose | W+0.5 | 6.5 | 3484.0 | -62.0 | 
 | 2014-05-11 | 第1回グロービス杯世界囲碁U-20準決勝 | Hsu Chiayuan | Xia Chenkun | Win | B+R | 6.5 | 3546.0 | 0.0 | 
@@ -345,13 +345,13 @@
 | 2014-04-09 | 第1回イベロジャパン杯1回戦 | Hsu Chiayuan | Hirose Yuichi | Win | B+R | 6.5 | 3305.0 | 26.0 | 
 | 2014-03-21 | 第39期新人王戦1回戦 | Hsu Chiayuan | Tajiri Yuto | Win | B+0.5 | 6.5 | 3279.0 | 7.0 | 
 | 2014-02-04 | 第5回おかげ杯囲碁トーナメント戦予選 | Shida Tatsuya | Hsu Chiayuan | Lose | B+R | 6.5 | 3272.0 | -29.0 | 
-| 2014-01-28 | 第5回おかげ杯囲碁トーナメント戦予選 | Mutsuura Yuta | Hsu Chiayuan | Win | W+R | 6.5 | 3301.0 | 27.0 | 
-| 2014-01-17 | 2014年日台精鋭交流戦第6戦 | Yang Mengyun | Hsu Chiayuan | Lose | B+R | 6.5 | 3274.0 | 0.0 | 
-| 2014-01-17 | 2014年日台精鋭交流戦第5戦 | Hsu Chiayuan | Zhang Zhehao | Win | B+0.5 | 6.5 | 3274.0 | -44.0 | 
-| 2014-01-16 | 2014年日台精鋭交流戦第4戦 | Hsu Chiayuan | Lin Shuyang | Win | B+R | 6.5 | 3318.0 | 0.0 | 
-| 2014-01-16 | 2014年日台精鋭交流戦第3戦 | Hei Jiajia | Hsu Chiayuan | Win | W+R | 6.5 | 3318.0 | 93.0 | 
-| 2014-01-15 | 2014年日台精鋭交流戦第2戦 | Hsu Chiayuan | Wang Yuanjun | Win | B+R | 6.5 | 3225.0 | 0.0 | 
-| 2014-01-15 | 2014年日台精鋭交流戦第1戦 | Chen Shiyuan | Hsu Chiayuan | Lose | B+0.5 | 6.5 | 3225.0 | missing |
+| 2014-01-28 | 第5回おかげ杯囲碁トーナメント戦予選 | Mutsuura Yuta | Hsu Chiayuan | Win | W+R | 6.5 | 3301.0 | 28.0 | 
+| 2014-01-17 | 2014年日台精鋭交流戦第6戦 | Yang Mengyun | Hsu Chiayuan | Lose | B+R | 6.5 | 3273.0 | 0.0 | 
+| 2014-01-17 | 2014年日台精鋭交流戦第5戦 | Hsu Chiayuan | Zhang Zhehao | Win | B+0.5 | 6.5 | 3273.0 | -44.0 | 
+| 2014-01-16 | 2014年日台精鋭交流戦第4戦 | Hsu Chiayuan | Lin Shuyang | Win | B+R | 6.5 | 3317.0 | 0.0 | 
+| 2014-01-16 | 2014年日台精鋭交流戦第3戦 | Hei Jiajia | Hsu Chiayuan | Win | W+R | 6.5 | 3317.0 | 93.0 | 
+| 2014-01-15 | 2014年日台精鋭交流戦第2戦 | Hsu Chiayuan | Wang Yuanjun | Win | B+R | 6.5 | 3224.0 | 0.0 | 
+| 2014-01-15 | 2014年日台精鋭交流戦第1戦 | Chen Shiyuan | Hsu Chiayuan | Lose | B+0.5 | 6.5 | 3224.0 | missing |
 
 
 

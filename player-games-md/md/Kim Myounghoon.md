@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-02 | 第5期韓国竜星戦1回戦 | Kim Myounghoon | Yoo Changhyuk | Win | B+R | 6.5 | 3452.0 | 2.0 | 
 | 2022-03-01 | 2022YK建機杯予選 | Kim Myounghoon | Byun Sangil | Win | B+R | 6.5 | 3450.0 | 48.0 | 
 | 2022-02-24 | 2021-2022韓国囲碁リーグ | Park Hamin | Kim Myounghoon | Win | W+R | 6.5 | 3402.0 | 11.0 | 
 | 2022-02-18 | 2021-2022韓国囲碁リーグ | An Sungjoon | Kim Myounghoon | Win | W+R | 6.5 | 3391.0 | -28.0 | 

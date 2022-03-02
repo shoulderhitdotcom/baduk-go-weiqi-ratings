@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-02 | 第36期中国囲碁天元戦決勝 | Ke Jie | Mi Yuting | Win | W+R | 7.5 | 3706.0 | 7.0 | 
 | 2022-03-01 | 第36期中国囲碁天元戦準決勝 | Tuo Jiaxi | Mi Yuting | Win | W+R | 7.5 | 3699.0 | 3.0 | 
 | 2022-02-28 | 第36期中国囲碁天元戦3回戦 | Mi Yuting | Peng Liyao | Win | B+R | 7.5 | 3696.0 | 25.0 | 
 | 2022-02-23 | 第23回農心辛ラーメン杯世界囲碁最強戦第11戦（再対局）  | Mi Yuting | Shin Jinseo | Lose | W+R | 6.5 | 3671.0 | -4.0 | 

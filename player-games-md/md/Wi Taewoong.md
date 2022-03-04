@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-03 | 2021-2022韓国囲碁リーグ | Kim Seongjae | Wi Taewoong | Lose | B+R | 6.5 | 3398.0 | -31.0 | 
 | 2022-03-02 | 2021-2022フューチャーズリーグ | Hyun Yoobin | Wi Taewoong | Win | W+R | 6.5 | 3429.0 | 23.0 | 
 | 2022-02-27 | 2021-2022韓国囲碁リーグ | Wi Taewoong | Kim Jinhyu | Win | B+R | 6.5 | 3406.0 | 1.0 | 
 | 2022-02-20 | 2021-2022フューチャーズリーグ | Shin Jaeweon | Wi Taewoong | Lose | B+9.5 | 6.5 | 3405.0 | -104.0 | 
@@ -15,14 +16,14 @@
 | 2022-02-06 | 2021-2022フューチャーズリーグ | Wi Taewoong | Lee Wondo | Win | B+6.5 | 6.5 | 3569.0 | -8.0 | 
 | 2022-01-22 | 2021-2022フューチャーズリーグ | Jin Siyoung | Wi Taewoong | Win | W+R | 6.5 | 3577.0 | -7.0 | 
 | 2022-01-15 | 2021-2022フューチャーズリーグ | Lee Hyungjin | Wi Taewoong | Win | W+R | 6.5 | 3584.0 | 16.0 | 
-| 2022-01-09 | 2021-2022フューチャーズリーグ | Wi Taewoong | Lee Hyeonjun | Win | B+R | 6.5 | 3568.0 | 20.0 | 
-| 2021-12-29 | 2021-2022フューチャーズリーグ | Wi Taewoong | Kim Seungjun | Win | B+R | 6.5 | 3548.0 | -8.0 | 
-| 2021-12-28 | 第3期ソパルコサノル最高棋士決定戦予選 | Wi Taewoong |  | Lose | W+R | 6.5 | 3556.0 | -11.0 | 
-| 2021-12-18 | 2021-2022フューチャーズリーグ | Wi Taewoong | Lee Hyunho | Win | B+R | 6.5 | 3567.0 | 38.0 | 
-| 2021-12-16 | 2021-2022韓国囲碁リーグ | Park Yeonghun | Wi Taewoong | Lose | B+R | 6.5 | 3529.0 | -65.0 | 
-| 2021-12-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Jiseok | Wi Taewoong | Win | W+0.5 | 6.5 | 3594.0 | -91.0 | 
-| 2021-12-04 | 2021-2022フューチャーズリーグ | Wi Taewoong |  | Lose | W+1.5 | 6.5 | 3685.0 | 15.0 | 
-| 2021-12-01 | 2021-2022フューチャーズリーグ | Gang Woohyeok | Wi Taewoong | Win | W+R | 6.5 | 3670.0 | -6.0 | 
+| 2022-01-09 | 2021-2022フューチャーズリーグ | Wi Taewoong | Lee Hyeonjun | Win | B+R | 6.5 | 3568.0 | 21.0 | 
+| 2021-12-29 | 2021-2022フューチャーズリーグ | Wi Taewoong | Kim Seungjun | Win | B+R | 6.5 | 3547.0 | -8.0 | 
+| 2021-12-28 | 第3期ソパルコサノル最高棋士決定戦予選 | Wi Taewoong |  | Lose | W+R | 6.5 | 3555.0 | -11.0 | 
+| 2021-12-18 | 2021-2022フューチャーズリーグ | Wi Taewoong | Lee Hyunho | Win | B+R | 6.5 | 3566.0 | 38.0 | 
+| 2021-12-16 | 2021-2022韓国囲碁リーグ | Park Yeonghun | Wi Taewoong | Lose | B+R | 6.5 | 3528.0 | -65.0 | 
+| 2021-12-06 | 第3期ソパルコサノル最高棋士決定戦予選 | Kim Jiseok | Wi Taewoong | Win | W+0.5 | 6.5 | 3593.0 | -91.0 | 
+| 2021-12-04 | 2021-2022フューチャーズリーグ | Wi Taewoong |  | Lose | W+1.5 | 6.5 | 3684.0 | 15.0 | 
+| 2021-12-01 | 2021-2022フューチャーズリーグ | Gang Woohyeok | Wi Taewoong | Win | W+R | 6.5 | 3669.0 | -7.0 | 
 | 2021-11-22 | 第3期ソパルコサノル最高棋士決定戦予選 | Hong Mujin | Wi Taewoong | Lose | B+R | 6.5 | 3676.0 | 531.0 | 
 | 2021-11-20 | 2021-2022フューチャーズリーグ | Kim Daeyoung | Wi Taewoong | Win | W+R | 6.5 | 3145.0 | 0.0 | 
 | 2021-10-18 | 第3期ソパルコサノル最高棋士決定戦予選 | Park Sangjin | Wi Taewoong | Win | W+R | 6.5 | 3145.0 | 0.0 | 

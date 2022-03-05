@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Nakamura Sumire |  | Lose | W+R | 6.5 | 2863.0 | -15.0 | 
 | 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 | Nakamura Sumire | Zhou Hongyu | Win | B+1.5 | 6.5 | 2878.0 | 32.0 | 
 | 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 | Nakamura Sumire | Lin Yuting | Win | B+R | 6.5 | 2846.0 | 1.0 | 
 | 2022-02-28 | 第78期本因坊戦予選 | Nakamura Sumire | Terayama Rei | Win | B+R | 6.5 | 2845.0 | 70.0 | 

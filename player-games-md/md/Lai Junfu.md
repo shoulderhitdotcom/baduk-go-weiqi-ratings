@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Tu Xiaoyu | Lai Junfu | Lose | B+R | 6.5 | 3247.0 | -8.0 | 
 | 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 | Moon Minjong | Lai Junfu | Lose | B+T | 6.5 | 3255.0 | -15.0 | 
 | 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 | Lai Junfu |  | Win | B+R | 6.5 | 3270.0 | 5.0 | 
 | 2022-02-24 | 第3期名人冠軍戦2回戦 | Lai Junfu | Zhang Zhehao | Win | B+R | 6.5 | 3265.0 | -2.0 | 

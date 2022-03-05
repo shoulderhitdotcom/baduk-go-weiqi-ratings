@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-05 | 2021-2022フューチャーズリーグ | Jin Siyoung | Lee Wondo | Win | W+R | 6.5 | 3239.0 | 26.0 | 
 | 2022-03-04 | 2021-2022韓国囲碁リーグ | Lee Wondo | Ahn Kukhyun | Lose | W+5.5 | 6.5 | 3213.0 | 34.0 | 
 | 2022-02-27 | 2021-2022フューチャーズリーグ | Lee Wondo | Kim Sangcheon | Win | B+R | 6.5 | 3179.0 | 87.0 | 
 | 2022-02-23 | 2021-2022フューチャーズリーグ | Lee Wondo | Ryu Minhyung | Win | B+R | 6.5 | 3092.0 | 13.0 | 

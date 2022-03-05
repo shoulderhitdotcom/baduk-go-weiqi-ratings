@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Lin Yuting | Zhou Hongyu | Win | W+R | 6.5 | 3194.0 | 3.0 | 
 | 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 | Nakamura Sumire | Zhou Hongyu | Lose | B+1.5 | 6.5 | 3191.0 | -26.0 | 
 | 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 |  | Zhou Hongyu | Win | W+6.5 | 6.5 | 3217.0 | 8.0 | 
 | 2021-12-27 | 第9回中国女子囲碁甲級リーグ | Pan Yang | Zhou Hongyu | Win | W+R | 7.5 | 3209.0 | 12.0 | 

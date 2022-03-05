@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Tu Xiaoyu | Lai Junfu | Win | B+R | 6.5 | 3516.0 | -1.0 | 
 | 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 |  | Tu Xiaoyu | Win | W+R | 6.5 | 3517.0 | -1.0 | 
 | 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 | Tu Xiaoyu | Moon Minjong | Lose | W+R | 6.5 | 3518.0 | -5.0 | 
 | 2022-02-18 | 第36期中国囲碁天元戦2回戦 | Tu Xiaoyu | Tang Weixing | Lose | W+¼ | 7.5 | 3523.0 | -14.0 | 

@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Moon Minjong |  | Win | B+6.5 | 6.5 | 3322.0 | 1.0 | 
 | 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 | Moon Minjong | Lai Junfu | Win | B+T | 6.5 | 3321.0 | 13.0 | 
 | 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 | Tu Xiaoyu | Moon Minjong | Win | W+R | 6.5 | 3308.0 | 36.0 | 
 | 2022-02-27 | 2021-2022韓国囲碁リーグ | Park Junghwan | Moon Minjong | Lose | B+R | 6.5 | 3272.0 | -7.0 | 

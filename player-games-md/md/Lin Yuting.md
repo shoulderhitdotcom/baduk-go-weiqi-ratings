@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-05 | 2022議政府国際新鋭団体戦第3戦 | Lin Yuting | Zhou Hongyu | Lose | W+R | 6.5 | 2376.0 | -12.0 | 
 | 2022-03-04 | 2022議政府国際新鋭団体戦第2戦 | Lin Yuting |  | Lose | W+R | 6.5 | 2388.0 | -4.0 | 
 | 2022-03-03 | 2022議政府国際新鋭団体戦第1戦 | Nakamura Sumire | Lin Yuting | Lose | B+R | 6.5 | 2392.0 | 4.0 | 
 | 2022-02-22 | 第14回春蘭杯台湾予選 | Chen Shiyuan | Lin Yuting | Lose | B+R | 7.5 | 2388.0 | 3.0 | 

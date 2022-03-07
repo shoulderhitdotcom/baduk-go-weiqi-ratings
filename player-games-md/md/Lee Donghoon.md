@@ -7,6 +7,7 @@
 
 | **Date** | **Comp** | **Black** | **White** | **Result** | **Game result** | **Komi** | **Rating** | **Diff** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-03-07 | 第1回牛膝鳳爪杯韓国棋院選手権戦決勝五番勝負第2局 | Lee Donghoon | Park Junghwan | Lose | W+R | 6.5 | 3566.0 | -6.0 | 
 | 2022-03-06 | 2021-2022韓国囲碁リーグ | Lee Donghoon | Ryu Minhyung | Lose | W+R | 6.5 | 3572.0 | -10.0 | 
 | 2022-03-01 | 第23回マキシムコーヒー杯入神最強戦2回戦 | Choi Cheolhan | Lee Donghoon | Win | W+R | 6.5 | 3582.0 | 28.0 | 
 | 2022-02-24 | 2021-2022韓国囲碁リーグ | Lee Donghoon |  | Win | B+R | 6.5 | 3554.0 | -3.0 | 
